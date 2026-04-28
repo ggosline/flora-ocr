@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "flora-ocr"
+version = "0.1.0"
+description = "OCR pipeline for botanical floras: scanned PDFs to interactive identification keys and an LLM-maintained wiki."
+requires-python = ">=3.11"
+authors = [{ name = "George Gosline", email = "george.gosline@gmail.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+
+# Heavy ML/OCR deps (torch, magic-pdf, paddleocr, surya-ocr, marker-pdf, etc.)
+# are managed by conda. See README.md for environment setup.
+dependencies = [
+    "anthropic",
+    "pymupdf",
+    "streamlit",
+]
+
+[project.scripts]
+flora-ocr-liteparse  = "flora_ocr.ocr.liteparse:main"
+flora-ocr-mineru     = "flora_ocr.ocr.mineru:main"
+flora-ocr-paddle     = "flora_ocr.ocr.paddle:main"
+flora-translate      = "flora_ocr.pipeline.translate:main"
+flora-reclassify     = "flora_ocr.pipeline.reclassify_headings:main"
+flora-reformat-keys  = "flora_ocr.pipeline.reformat_keys:main"
+flora-build-keys     = "flora_ocr.pipeline.build_key_data:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/flora_ocr"]

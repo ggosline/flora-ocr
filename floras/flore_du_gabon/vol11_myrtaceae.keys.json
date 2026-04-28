@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "title": "Vol. 11 — Myrtaceae",
+    "family": "Myrtaceae",
+    "source": "ocr_output/vol11_paddle/text_en.md",
+    "generated_at": "2026-03-26T01:06:14.979453+00:00"
+  },
+  "default_key": "genera_myrtaceae",
+  "genus_links": {
+    "Eugenia": "species_eugenia",
+    "Syzygium": "species_syzygium",
+    "Psidium": "species_psidium"
+  },
+  "figures": {
+    "syzygium:gillettii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_001_p0011.png",
+      "caption": "PL.I. — Syzygium Gillettii De Wildeman (Le Testu 9637): I, inflorescence et feuilles (× 1/2); 2, bouton (× 2); 3, section transversale de la tige (× 1)."
+    },
+    "syzygium:congolense": {
+      "path": "ocr_output/vol11_paddle/figures/fig_002_p0013.png",
+      "caption": "PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, fleurs et feuilles (× 1/2); 2, bouton (× 4); 3, fleur (× 2); 4, fruit (× 2); 5, section transversale de la tige (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bouton (× 4); 7, fleur (× 2); 8, fruit (× 2); 9, section transversale de la tige (× 2); 10, feuille (× 1/2). 6, 7, 10, Le Testu 7302 (P); § et 9, A. Léonard 3139 (P)."
+    },
+    "syzygium:staudtii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_002_p0013.png",
+      "caption": "PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, fleurs et feuilles (× 1/2); 2, bouton (× 4); 3, fleur (× 2); 4, fruit (× 2); 5, section transversale de la tige (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bouton (× 4); 7, fleur (× 2); 8, fruit (× 2); 9, section transversale de la tige (× 2); 10, feuille (× 1/2). 6, 7, 10, Le Testu 7302 (P); § et 9, A. Léonard 3139 (P)."
+    },
+    "eugenia:ogouensis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_003_p0027.png",
+      "caption": "PL. III. — Eugenia ogouensis Amshoff : a, rameau florifère; b, bouton ♂; c, fleur ♂ (d'après un dessin de N. Hallé, modèle in vivo); d, calice (× 10); e, réceptacle ♂ en coupe (× 40); f, fruit (× 2); g, graine (× 40); h et h', anthère (× 40). — a, e et h, N. Hallé 1806; f et g, Fleury 26429."
+    },
+    "eugenia:fernandopona": {
+      "path": "ocr_output/vol11_paddle/figures/fig_004_p0029.png",
+      "caption": "PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille."
+    },
+    "eugenia:obanensis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_004_p0029.png",
+      "caption": "PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille."
+    },
+    "octolepis:decalepis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_006_p0049.png",
+      "caption": "PL. VI. — Octolepis decalepis Gilg : 1, rameau feuillé et boutons floraux (× 2/3); 2, fleur épanouie avec étamines à longs filets (× 6); 3, fleur à étamines courtes et style exsert (× 6); 4, jeune ovaire (× 10); 5, diagramme. — 1, Le Testu 1398; 2 à 5, Pobeguin 56."
+    },
+    "synandrodaphne:paradoxa": {
+      "path": "ocr_output/vol11_paddle/figures/fig_007_p0053.png",
+      "caption": "PL. VII. — Synandrodaphne paradoxa Gilg (Letouzey 4848) : 1, rameau florifère (× 2/3); 2, détail de feuille, face inférieure (× 1,5); 3, fleur (× 6); 4, intérieur de la fleur montrant le « tube androécial » (× 6); 5, tube androécial ouvert, schéma (× 3); 6, ovaire, coupe longitudinale (× 10); 7, capsule, vue sur le côté du grand sépale (× 5); 8, capsule vue par le côté du petit sépale (× 5); 9, coupe transversale de la capsule (× 5); 10, graine que de face (× 8); 11, graine que de dessus (× 8); 12, diagramme."
+    },
+    "craterosiphon:soyauxii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_008_p0061.png",
+      "caption": "PL. VIII. — Craterosiphon Soyauxii H.H.W. Pears. : 1, rameau florifère (× 2/3); 2, fragment de rameau (× 3); 3, fleur ouverte (× 3); 4, disque hypogyne (× 8); 5, fruit (× 2/3); 6, graine de face et de profil, (× 2/3). — 1 à 4, Le Testu 9626; 5 et 6, Soyaux 263, type."
+    },
+    "dicranolepis:polygaloides": {
+      "path": "ocr_output/vol11_paddle/figures/fig_009_p0071.png",
+      "caption": "PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mùr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128."
+    },
+    "dicranolepis:glandulosa": {
+      "path": "ocr_output/vol11_paddle/figures/fig_009_p0071.png",
+      "caption": "PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mùr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128."
+    },
+    "dicranolepis:soyauxii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_010_p0077.png",
+      "caption": "PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601."
+    },
+    "dicranolepis:pulcherima": {
+      "path": "ocr_output/vol11_paddle/figures/fig_010_p0077.png",
+      "caption": "PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601."
+    },
+    "dicranolepis:buchholzii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_011_p0081.png",
+      "caption": "PL. XI. — Dicranolepis Buchholzii Engl. et Gilg : 1, rameau florifère (× 2/3); 2, fleur (× 4); 3, jeune fruit (× 4). — Dicranolepis disticha Planch. : 4, rameau florifère (× 2/3); 5, fleur épanouie (× 4); 6, fruit (× 1). — 1 et 2, Klaine 322; 3, Tisserant 2684 (Oubangui); 4 et 5, Le Testu 7877; 6, N. Nallé 3035."
+    },
+    "dicranolepis:disticha": {
+      "path": "ocr_output/vol11_paddle/figures/fig_011_p0081.png",
+      "caption": "PL. XI. — Dicranolepis Buchholzii Engl. et Gilg : 1, rameau florifère (× 2/3); 2, fleur (× 4); 3, jeune fruit (× 4). — Dicranolepis disticha Planch. : 4, rameau florifère (× 2/3); 5, fleur épanouie (× 4); 6, fruit (× 1). — 1 et 2, Klaine 322; 3, Tisserant 2684 (Oubangui); 4 et 5, Le Testu 7877; 6, N. Nallé 3035."
+    },
+    "dicranolepis:pusilla": {
+      "path": "ocr_output/vol11_paddle/figures/fig_012_p0085.png",
+      "caption": "PL. XII.—Dicranolepis pusilla G. Aym. (Le Testu 8142) : 1, rameau florifère (× 2 /3); 2, fragment de feuille (× 2); 3, fleur épanouie (× 3); 4, fruit mùr (× 1). —Dicranolepis Baertsiana, De Wild. et Dur. (Le Testu 5108); 5, rameau florifère (× 2 /3); 6, fruit (× 1)."
+    },
+    "dicranolepis:baertsiana": {
+      "path": "ocr_output/vol11_paddle/figures/fig_012_p0085.png",
+      "caption": "PL. XII.—Dicranolepis pusilla G. Aym. (Le Testu 8142) : 1, rameau florifère (× 2 /3); 2, fragment de feuille (× 2); 3, fleur épanouie (× 3); 4, fruit mùr (× 1). —Dicranolepis Baertsiana, De Wild. et Dur. (Le Testu 5108); 5, rameau florifère (× 2 /3); 6, fruit (× 1)."
+    },
+    "peddiea:fischeri": {
+      "path": "ocr_output/vol11_paddle/figures/fig_013_p0089.png",
+      "caption": "PL. XIII. — Peddiea Fischeri Engl. : 1, rameau florifère (× 2/3); 2, jeune inflorescence entourée des bractées (× 3); 3, bractée (× 4); 4, inflorescence développée (× 1); 5, coupe longitudinale latérale de la fleur (× 4); 6, infrutescence (× 1); 7, fruit (× 2); 8, graine (× 2). — 1, Letouzey 2336; 2, 3, Jacques-Félix 3204; 4 à 8, Raynal 12360."
+    },
+    "syzygium:gilletii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_001_p0011.png",
+      "caption": "PL.I. — Syzygium Gillettii De Wildeman (Le Testu 9637): I, inflorescence et feuilles (× 1/2); 2, bouton (× 2); 3, section transversale de la tige (× 1)."
+    },
+    "eugenia:ogoguensis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_003_p0027.png",
+      "caption": "PL. III. — Eugenia ogouensis Amshoff : a, rameau florifère; b, bouton ♂; c, fleur ♂ (d'après un dessin de N. Hallé, modèle in vivo); d, calice (× 10); e, réceptacle ♂ en coupe (× 40); f, fruit (× 2); g, graine (× 40); h et h', anthère (× 40). — a, e et h, N. Hallé 1806; f et g, Fleury 26429."
+    },
+    "eugenia:ferandopoana": {
+      "path": "ocr_output/vol11_paddle/figures/fig_004_p0029.png",
+      "caption": "PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille."
+    },
+    "polygaloides:gilg": {
+      "path": "ocr_output/vol11_paddle/figures/fig_009_p0071.png",
+      "caption": "PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mùr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128."
+    },
+    "dicranolepis:pulcherrima": {
+      "path": "ocr_output/vol11_paddle/figures/fig_010_p0077.png",
+      "caption": "PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601."
+    }
+  },
+  "keys": {
+    "genera_myrtaceae": {
+      "id": "genera_myrtaceae",
+      "display": "Key to Myrtaceae Genera",
+      "name": "KEY TO GENERA",
+      "start": 1,
+      "genus": null,
+      "family": "Myrtaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Leaves most often opposite; fruit berry-like.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Calyx entirely closed or lobed in the bud; pedicels 1-7-flowered, dichotomous (3 flowers or more); fruit with numerous seeds.",
+          "is_terminal": true,
+          "terminal_name": "Psidium",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Sepals free, sometimes very small; fruit monospermate.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Petals free; flowers axillary, fasciculate or racemose, sometimes solitary; cotyledons fused..... 3. Eugenia.",
+          "is_terminal": true,
+          "terminal_name": "Eugenia",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Petals most often coherent; inflorescences in terminal cymes or sometimes lateral; cotyledons free..... 2. Syzygium.",
+          "is_terminal": true,
+          "terminal_name": "Syzygium",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Leaves alternate, at least on the flowering branches; fruit capsular; introduced species.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Stamens in 5 bundles opposite to sepals; in spikes; petals free..... 4. Melaleuca.",
+          "is_terminal": true,
+          "terminal_name": "Melaleuca",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Stamens free, or almost; petals coherent, forming an opercule; sepals very small..... 5. Eucalyptus.",
+          "is_terminal": true,
+          "terminal_name": "Eucalyptus",
+          "leads_to": null
+        }
+      }
+    },
+    "species_psidium": {
+      "id": "species_psidium",
+      "display": "Key to Psidium",
+      "name": "KEY TO SPECIES INTRODUCED IN WEST AFRICA",
+      "start": 1,
+      "genus": "psidium",
+      "family": "Myrtaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Calyx lobed in the bud; leaves obovate, glabrous.. 1. Ps. cattleyanum.",
+          "is_terminal": true,
+          "terminal_name": "Ps. cattleyanum",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Calyx closed in the bud.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Leaves and twigs glabrous, young twigs quadrangular. Ps. Friedrichstahlianum.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Leaves and young twigs pubescent.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Young twigs quadrangular, lateral leaf nerves 12-16 pairs impressed above..... 2. Ps. guajava.",
+          "is_terminal": true,
+          "terminal_name": "Ps. guajava",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Young twigs rounded, lateral leaf nerves 7-10 pairs not impressed above..... Ps. guineense.",
+          "is_terminal": true,
+          "terminal_name": "Ps. guineense",
+          "leads_to": null
+        }
+      }
+    },
+    "species_syzygium": {
+      "id": "species_syzygium",
+      "display": "Key to Syzygium",
+      "name": "KEY TO SPECIES",
+      "start": 1,
+      "genus": "syzygium",
+      "family": "Myrtaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Indigenous species. Petals always connate.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Leaves subsessile, cordate at the base, elongated, 10-25 cm long; flowers large: adult flower buds 8-10 mm in diam. 2. S. Gilletii.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: flower buds 2-5 mm in diam.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Young twigs quadrangular; leaves rather small, 4-7 cm long; sepals barely developed..... 1. S. Staudti.",
+          "is_terminal": true,
+          "terminal_name": "S. Staudti",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Young twigs rounded; leaves wider.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Distinct sepals, also on the fruit, subimbricate in the bud, 1 mm tall; obovate leaves, long cuneate at the base, shortly acuminate at the apex.... 3. S. congolense.",
+          "is_terminal": true,
+          "terminal_name": "S. congolense",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Sepals scarcely developed.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Swamp tree, with stilt roots; ovate-elliptic leaves, often rounded at the base, long acuminate at the apex and very sharp..... 4. S. owariense.",
+          "is_terminal": true,
+          "terminal_name": "S. owariense",
+          "leads_to": null
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Trees of non-swampy habitats, without stilt roots; leaves acute at the base..... 5. S. guineense s. l.",
+          "is_terminal": true,
+          "terminal_name": "S. guineense s. l",
+          "leads_to": null
+        },
+        "6": {
+          "num": 6,
+          "prime": "",
+          "text": "Shrub or small tree of the seashore; ovate-elliptic leaves, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, approximately 5 mm long..... 5 c. var. littorale.",
+          "is_terminal": true,
+          "terminal_name": "5 c. var. littorale",
+          "leads_to": null
+        },
+        "6'": {
+          "num": 6,
+          "prime": "'",
+          "text": "Trees or shrubs of savannas or forest gallery; petiole longer than above.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 7
+        },
+        "7": {
+          "num": 7,
+          "prime": "",
+          "text": "Savanna tree or shrub; petiole 2-4 cm long; obovate leaves, often rounded or obtuse at the apex; inflorescences often on defoliate branches..... 5 b. var. macrocarpon.",
+          "is_terminal": true,
+          "terminal_name": "5 b. var. macrocarpon",
+          "leads_to": null
+        },
+        "7'": {
+          "num": 7,
+          "prime": "'",
+          "text": "Forest gallery tree; petiole 0.5-2 cm long; acuminate leaves, persistent; inflorescences always terminal..... 5 a. var. guineae",
+          "is_terminal": true,
+          "terminal_name": "5 a. var. guineae",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Cultivated species, sometimes naturalized; petals often free.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 8
+        },
+        "8": {
+          "num": 8,
+          "prime": "",
+          "text": "Petals fused, capping the floral bud, detaching all together.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 9
+        },
+        "9": {
+          "num": 9,
+          "prime": "",
+          "text": "Ovary cylindric, somewhat quadrangular; sepals triangular; inflorescences terminal..... 6. S. aromaticum.",
+          "is_terminal": true,
+          "terminal_name": "S. aromaticum",
+          "leads_to": null
+        },
+        "9'": {
+          "num": 9,
+          "prime": "'",
+          "text": "Ovary obconic; sepals scarcely developed; inflorescences lateral, on the defoliate parts of the branches... 7. S. cumini.",
+          "is_terminal": true,
+          "terminal_name": "S. cumini",
+          "leads_to": null
+        },
+        "8'": {
+          "num": 8,
+          "prime": "'",
+          "text": "Petals free, fairly large, 1-2 cm long.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 10
+        },
+        "10": {
+          "num": 10,
+          "prime": "",
+          "text": "Inflorescence on old wood; flowers red... 9. S. malaccense.",
+          "is_terminal": true,
+          "terminal_name": "S. malaccense",
+          "leads_to": null
+        },
+        "10'": {
+          "num": 10,
+          "prime": "'",
+          "text": "Inflorescence terminal; flowers white; leaves narrow lance-shaped..... 8. S. jambos.",
+          "is_terminal": true,
+          "terminal_name": "S. jambos",
+          "leads_to": null
+        }
+      }
+    },
+    "species_eugenia": {
+      "id": "species_eugenia",
+      "display": "Key to Eugenia",
+      "name": "KEY TO EUGENIA",
+      "start": 1,
+      "genus": "eugenia",
+      "family": "Myrtaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Indigenous species; pedicels rarely exceeding 1 cm in length, most often less than 5 mm.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Leaves subsessile, narrowly rounded or subcordate at the base, 17-28 cm long; flowers subsessile..... 1. E. gabonensis.",
+          "is_terminal": true,
+          "terminal_name": "E. gabonensis",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Leaves petiolate, acute or obtuse at the base, smaller.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Young branches glabrous, then scaly; leaves fairly large, 12-17 cm long, glabrous; petiole short, soon thick; ovary glabrous..... 2. E. Klainea",
+          "is_terminal": true,
+          "terminal_name": "E. Klainea",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Young branches pubescent, not becoming scaly; leaves smaller.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Ovary glabrous; leaves acuminate.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Pedicels 3-10 mm long..... 3. E. congolensis.",
+          "is_terminal": true,
+          "terminal_name": "E. congolensis",
+          "leads_to": null
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Flowers subsessile.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 6
+        },
+        "6": {
+          "num": 6,
+          "prime": "",
+          "text": "Leaves with marginal nerves almost as strong as the midvein, somewhat impressed above, prominent below; blade up to 5 cm wide.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 7
+        },
+        "6'": {
+          "num": 6,
+          "prime": "'",
+          "text": "Leaves with marginal nerves poorly marked, not impressed above.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 7
+        },
+        "7": {
+          "num": 7,
+          "prime": "",
+          "text": "Leaves 4-5 cm in length..... 13. E. sp.",
+          "is_terminal": true,
+          "terminal_name": "E. sp",
+          "leads_to": null
+        },
+        "7'": {
+          "num": 7,
+          "prime": "'",
+          "text": "Leaves 5-10 cm in length..... 7. E. ogoouensis.",
+          "is_terminal": true,
+          "terminal_name": "E. ogoouensis",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Ovary pubescent.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 8
+        },
+        "8": {
+          "num": 8,
+          "prime": "",
+          "text": "Leaves lanceolate, obtuse; 3.5-6 cm long, 0.5-1.5 cm wide; flowers subsessile..... 4. E. Tholloni.",
+          "is_terminal": true,
+          "terminal_name": "E. Tholloni",
+          "leads_to": null
+        },
+        "8'": {
+          "num": 8,
+          "prime": "'",
+          "text": "Leaves elliptic, acuminate, 2-4 cm wide.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 9
+        },
+        "9": {
+          "num": 9,
+          "prime": "",
+          "text": "Flowers subsessile; petioles fairly slender, 2-5 mm long. 6. E. obanensis.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 10
+        },
+        "9'": {
+          "num": 9,
+          "prime": "'",
+          "text": "Pedicels 2-5 mm long.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 10
+        },
+        "10": {
+          "num": 10,
+          "prime": "",
+          "text": "Flowers fasciculate; petioles very short, about 2 mm long..... 8. E. fernandopona.",
+          "is_terminal": true,
+          "terminal_name": "E. fernandopona",
+          "leads_to": null
+        },
+        "10'": {
+          "num": 10,
+          "prime": "'",
+          "text": "Flowers in short racemes, with distinct bracts; petiole about 4 mm long..... 9. E. librevillensis.",
+          "is_terminal": true,
+          "terminal_name": "E. librevillensis",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Introduced species; pedicels long; edible fruits.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 11
+        },
+        "11": {
+          "num": 11,
+          "prime": "",
+          "text": "Fruits red, lobed; sepals oblong-linear, up to ± 4 mm long..... 5. E. uniflora.",
+          "is_terminal": true,
+          "terminal_name": "E. uniflora",
+          "leads_to": null
+        },
+        "11'": {
+          "num": 11,
+          "prime": "'",
+          "text": "Fruits smooth; sepals lanceolate or oblong, up to approximately 1 cm long.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 12
+        },
+        "12": {
+          "num": 12,
+          "prime": "",
+          "text": "Sepals lanceolate, foliaceous; leaves pubescent above.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": null
+        },
+        "12'": {
+          "num": 12,
+          "prime": "'",
+          "text": "Sepals oblong; leaves glabrous..... 11. E. brasiliensis.",
+          "is_terminal": true,
+          "terminal_name": "E. brasiliensis",
+          "leads_to": null
+        }
+      }
+    }
+  }
+}

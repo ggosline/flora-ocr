@@ -1,0 +1,34 @@
+# Source PDFs (large, redistribution-restricted; fetched via floras/*/download.sh)
+FloreDuGabon/
+*.pdf
+
+# OCR output (regenerable)
+ocr_output/
+
+# Article inputs/index (per-flora staging)
+article_pdfs/
+article_index/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+
+# Node
+node_modules/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+.codex
+
+# Local agent state
+.claude/settings.local.json

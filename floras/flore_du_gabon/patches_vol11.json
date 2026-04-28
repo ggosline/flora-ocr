@@ -1,0 +1,13 @@
+{
+  "genera_myrtaceae": {
+    "nodes": {
+      "2": {"is_terminal": true, "terminal_name": "Psidium", "leads_to": null}
+    }
+  },
+  "genera_thymelaeaceae": {
+    "nodes": {
+      "3":   {"terminal_name": "Octolepis"},
+      "5\"\"": {"terminal_name": "Gnidia"}
+    }
+  }
+}

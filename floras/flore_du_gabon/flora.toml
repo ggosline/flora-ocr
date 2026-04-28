@@ -1,0 +1,14 @@
+title = "Flore du Gabon"
+language = "fr"
+
+# Paths are relative to the repo root unless absolute.
+pdf_dir = "FloreDuGabon"
+output_dir = "ocr_output"
+
+# Glob used to enumerate source PDFs in pdf_dir.
+pdf_glob = "FdG vol. *.pdf"
+
+# Regex matched against each PDF filename. Must define a named group 'label'.
+# Examples that match: "FdG vol. 01 OK.pdf", "FdG vol. 5bis OK.pdf",
+# "FdG vol. 11 OK-2.pdf"
+vol_pattern = 'FdG vol\. (?P<label>\d+(?:bis)?)\s+OK(?:-\d+)?\.pdf'

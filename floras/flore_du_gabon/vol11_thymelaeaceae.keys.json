@@ -1,0 +1,795 @@
+{
+  "meta": {
+    "title": "Vol. 11 — Thymelaeaceae",
+    "family": "Thymelaeaceae",
+    "source": "ocr_output/vol11_paddle/text_en.md",
+    "generated_at": "2026-03-26T01:06:15.746074+00:00"
+  },
+  "default_key": "genera_thymelaeaceae",
+  "genus_links": {
+    "Octolepis": "species_octolepis",
+    "Craterosiphon": "species_craterosiphon",
+    "Dicranolepis": "species_dicranolepis",
+    "Gnidia": "species_gnidia"
+  },
+  "figures": {
+    "syzygium:gillettii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_001_p0011.png",
+      "caption": "PL.I. — Syzygium Gillettii De Wildeman (Le Testu 9637): I, inflorescence et feuilles (× 1/2); 2, bouton (× 2); 3, section transversale de la tige (× 1)."
+    },
+    "syzygium:congolense": {
+      "path": "ocr_output/vol11_paddle/figures/fig_002_p0013.png",
+      "caption": "PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, fleurs et feuilles (× 1/2); 2, bouton (× 4); 3, fleur (× 2); 4, fruit (× 2); 5, section transversale de la tige (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bouton (× 4); 7, fleur (× 2); 8, fruit (× 2); 9, section transversale de la tige (× 2); 10, feuille (× 1/2). 6, 7, 10, Le Testu 7302 (P); § et 9, A. Léonard 3139 (P)."
+    },
+    "syzygium:staudtii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_002_p0013.png",
+      "caption": "PL. II. — Syzygium congolense Vermoesen ex Amshoff : 1, fleurs et feuilles (× 1/2); 2, bouton (× 4); 3, fleur (× 2); 4, fruit (× 2); 5, section transversale de la tige (× 2). 1, 3, 5, Le Testu 8877; 2, Evrard 3900 (P); 4, Léonard 1962 (P). — Syzygium staudtii (Engl.) Mildbraed : 6, bouton (× 4); 7, fleur (× 2); 8, fruit (× 2); 9, section transversale de la tige (× 2); 10, feuille (× 1/2). 6, 7, 10, Le Testu 7302 (P); § et 9, A. Léonard 3139 (P)."
+    },
+    "eugenia:ogouensis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_003_p0027.png",
+      "caption": "PL. III. — Eugenia ogouensis Amshoff : a, rameau florifère; b, bouton ♂; c, fleur ♂ (d'après un dessin de N. Hallé, modèle in vivo); d, calice (× 10); e, réceptacle ♂ en coupe (× 40); f, fruit (× 2); g, graine (× 40); h et h', anthère (× 40). — a, e et h, N. Hallé 1806; f et g, Fleury 26429."
+    },
+    "eugenia:fernandopona": {
+      "path": "ocr_output/vol11_paddle/figures/fig_004_p0029.png",
+      "caption": "PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille."
+    },
+    "eugenia:obanensis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_004_p0029.png",
+      "caption": "PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille."
+    },
+    "octolepis:decalepis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_006_p0049.png",
+      "caption": "PL. VI. — Octolepis decalepis Gilg : 1, rameau feuillé et boutons floraux (× 2/3); 2, fleur épanouie avec étamines à longs filets (× 6); 3, fleur à étamines courtes et style exsert (× 6); 4, jeune ovaire (× 10); 5, diagramme. — 1, Le Testu 1398; 2 à 5, Pobeguin 56."
+    },
+    "synandrodaphne:paradoxa": {
+      "path": "ocr_output/vol11_paddle/figures/fig_007_p0053.png",
+      "caption": "PL. VII. — Synandrodaphne paradoxa Gilg (Letouzey 4848) : 1, rameau florifère (× 2/3); 2, détail de feuille, face inférieure (× 1,5); 3, fleur (× 6); 4, intérieur de la fleur montrant le « tube androécial » (× 6); 5, tube androécial ouvert, schéma (× 3); 6, ovaire, coupe longitudinale (× 10); 7, capsule, vue sur le côté du grand sépale (× 5); 8, capsule vue par le côté du petit sépale (× 5); 9, coupe transversale de la capsule (× 5); 10, graine que de face (× 8); 11, graine que de dessus (× 8); 12, diagramme."
+    },
+    "craterosiphon:soyauxii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_008_p0061.png",
+      "caption": "PL. VIII. — Craterosiphon Soyauxii H.H.W. Pears. : 1, rameau florifère (× 2/3); 2, fragment de rameau (× 3); 3, fleur ouverte (× 3); 4, disque hypogyne (× 8); 5, fruit (× 2/3); 6, graine de face et de profil, (× 2/3). — 1 à 4, Le Testu 9626; 5 et 6, Soyaux 263, type."
+    },
+    "dicranolepis:polygaloides": {
+      "path": "ocr_output/vol11_paddle/figures/fig_009_p0071.png",
+      "caption": "PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mùr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128."
+    },
+    "dicranolepis:glandulosa": {
+      "path": "ocr_output/vol11_paddle/figures/fig_009_p0071.png",
+      "caption": "PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mùr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128."
+    },
+    "dicranolepis:soyauxii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_010_p0077.png",
+      "caption": "PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601."
+    },
+    "dicranolepis:pulcherima": {
+      "path": "ocr_output/vol11_paddle/figures/fig_010_p0077.png",
+      "caption": "PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601."
+    },
+    "dicranolepis:buchholzii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_011_p0081.png",
+      "caption": "PL. XI. — Dicranolepis Buchholzii Engl. et Gilg : 1, rameau florifère (× 2/3); 2, fleur (× 4); 3, jeune fruit (× 4). — Dicranolepis disticha Planch. : 4, rameau florifère (× 2/3); 5, fleur épanouie (× 4); 6, fruit (× 1). — 1 et 2, Klaine 322; 3, Tisserant 2684 (Oubangui); 4 et 5, Le Testu 7877; 6, N. Nallé 3035."
+    },
+    "dicranolepis:disticha": {
+      "path": "ocr_output/vol11_paddle/figures/fig_011_p0081.png",
+      "caption": "PL. XI. — Dicranolepis Buchholzii Engl. et Gilg : 1, rameau florifère (× 2/3); 2, fleur (× 4); 3, jeune fruit (× 4). — Dicranolepis disticha Planch. : 4, rameau florifère (× 2/3); 5, fleur épanouie (× 4); 6, fruit (× 1). — 1 et 2, Klaine 322; 3, Tisserant 2684 (Oubangui); 4 et 5, Le Testu 7877; 6, N. Nallé 3035."
+    },
+    "dicranolepis:pusilla": {
+      "path": "ocr_output/vol11_paddle/figures/fig_012_p0085.png",
+      "caption": "PL. XII.—Dicranolepis pusilla G. Aym. (Le Testu 8142) : 1, rameau florifère (× 2 /3); 2, fragment de feuille (× 2); 3, fleur épanouie (× 3); 4, fruit mùr (× 1). —Dicranolepis Baertsiana, De Wild. et Dur. (Le Testu 5108); 5, rameau florifère (× 2 /3); 6, fruit (× 1)."
+    },
+    "dicranolepis:baertsiana": {
+      "path": "ocr_output/vol11_paddle/figures/fig_012_p0085.png",
+      "caption": "PL. XII.—Dicranolepis pusilla G. Aym. (Le Testu 8142) : 1, rameau florifère (× 2 /3); 2, fragment de feuille (× 2); 3, fleur épanouie (× 3); 4, fruit mùr (× 1). —Dicranolepis Baertsiana, De Wild. et Dur. (Le Testu 5108); 5, rameau florifère (× 2 /3); 6, fruit (× 1)."
+    },
+    "peddiea:fischeri": {
+      "path": "ocr_output/vol11_paddle/figures/fig_013_p0089.png",
+      "caption": "PL. XIII. — Peddiea Fischeri Engl. : 1, rameau florifère (× 2/3); 2, jeune inflorescence entourée des bractées (× 3); 3, bractée (× 4); 4, inflorescence développée (× 1); 5, coupe longitudinale latérale de la fleur (× 4); 6, infrutescence (× 1); 7, fruit (× 2); 8, graine (× 2). — 1, Letouzey 2336; 2, 3, Jacques-Félix 3204; 4 à 8, Raynal 12360."
+    },
+    "syzygium:gilletii": {
+      "path": "ocr_output/vol11_paddle/figures/fig_001_p0011.png",
+      "caption": "PL.I. — Syzygium Gillettii De Wildeman (Le Testu 9637): I, inflorescence et feuilles (× 1/2); 2, bouton (× 2); 3, section transversale de la tige (× 1)."
+    },
+    "eugenia:ogoguensis": {
+      "path": "ocr_output/vol11_paddle/figures/fig_003_p0027.png",
+      "caption": "PL. III. — Eugenia ogouensis Amshoff : a, rameau florifère; b, bouton ♂; c, fleur ♂ (d'après un dessin de N. Hallé, modèle in vivo); d, calice (× 10); e, réceptacle ♂ en coupe (× 40); f, fruit (× 2); g, graine (× 40); h et h', anthère (× 40). — a, e et h, N. Hallé 1806; f et g, Fleury 26429."
+    },
+    "eugenia:ferandopoana": {
+      "path": "ocr_output/vol11_paddle/figures/fig_004_p0029.png",
+      "caption": "PL. IV. — Eugenia fernandopona Engler (Klaine 3045) : 1, tige et boutons (× 1/2); 2, fleur (? ♂) (× 3); 3, fleur (? ♀) (× 4); 4, fruit (× 2); 5, base de la feuille (× 2). — Eugenia obanensis Bak. f. (Fleury 26339) : 6, fruit (× 4); 7, base de la feuille."
+    },
+    "polygaloides:gilg": {
+      "path": "ocr_output/vol11_paddle/figures/fig_009_p0071.png",
+      "caption": "PL. IX. — Dicranolepis polygaloides Gilg ex Pears. (Keay F.H.I. 37396) : 1, rameau florifère (× 2 /3); 2, fleur (× 1,5). — Dicranolepis glandulosa Pears. : 3, rameau florifère (× 2 /3); 4, base du tube de la fleur (× 4); 5, fruit mùr (× 2 /3). — 3 et 4, Jacques-Félix 2523; 5, Letouzey 4128."
+    },
+    "dicranolepis:pulcherrima": {
+      "path": "ocr_output/vol11_paddle/figures/fig_010_p0077.png",
+      "caption": "PL. X. — Dicranolepis Soyauxii Engl.: 1, rameau florifère (× 2/3); 2, feuille (× 2/3); 3, fleur ouverte (× 2); 4, fruit jeune (× 2/3). — Dicranolepis pulcherima Gilg; 5, rameau florifère (× 2/3); 6, jeune fruit (× 2/3). — 1 à 3, Le Testu 8758; 4, N. Hallé 714; 5, Le Testu 7922; 6, N. Hallé 2601."
+    }
+  },
+  "keys": {
+    "genera_thymelaeaceae": {
+      "id": "genera_thymelaeaceae",
+      "display": "Key to Thymelaeaceae Genera",
+      "name": "KEY TO GABONESE OR PERIGABONESE GENERA",
+      "start": 1,
+      "genus": null,
+      "family": "Thymelaeaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Androecium diplostemonous (flowers possessing a number of stamens double that of the divisions of the perianth).",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Flowers with perianth (perigone) not tubular; external cycle (calyx) appearing dialisepalous (lobes free or united only slightly at the base).",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Sepals all identical, arranged in a single circle; flowers in axillary glomerules; petals deeply bifid appearing as small squamiform lamellae smaller than the sepals..... I. Octolepis.",
+          "is_terminal": true,
+          "terminal_name": "Octolepis",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Sepals of two kinds, 2 external, 2 internal; flowers in involucrate terminal heads; no petals, but an androecial tube on the outside of which the stamen filaments are united..... 2. Synandrodaphne.",
+          "is_terminal": true,
+          "terminal_name": "Synandrodaphne",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Flowers with perianth (perigone) tubular, divided into 4-5 lobes at its apex.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Tube of perianth not articulate-circumscissile above the ovary.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Flowers in axillary glomerules, subsessile.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 6
+        },
+        "6": {
+          "num": 6,
+          "prime": "",
+          "text": "Petals absent (in general); tube fine at its base, widened into a funnel..... 3. Craterosiphon.",
+          "is_terminal": true,
+          "terminal_name": "Craterosiphon",
+          "leads_to": null
+        },
+        "6'": {
+          "num": 6,
+          "prime": "'",
+          "text": "Petals present as a fleshy circle at the throat of the tube...... (Synaptolepis, western and eastern Africa).",
+          "is_terminal": true,
+          "terminal_name": "(Synaptolepis, western and eastern Africa)",
+          "leads_to": null
+        },
+        "6''": {
+          "num": 6,
+          "prime": "''",
+          "text": "Ten petaloid lamellary lobes inserted at the throat of the tube and longer or shorter than the sepals.... 4. Dicranolepis.",
+          "is_terminal": true,
+          "terminal_name": "Dicranolepis",
+          "leads_to": null
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Flowers quite long-pedicellate, grouped in an umbelliform inflorescence itself pedunculate..... 5. Peddiea.",
+          "is_terminal": true,
+          "terminal_name": "Peddiea",
+          "leads_to": null
+        },
+        "5\"\"": {
+          "num": 5,
+          "prime": "\"\"",
+          "text": "Flowers grouped in densely involucrate terminal capitules, with involucral bracts persisting after flowering..... ..... Gnidia glauca.",
+          "is_terminal": true,
+          "terminal_name": "Gnidia",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Tube of perianth (perigone) articulate-circumscissile above the ovary (suture very visible even on immature flowers); flowers grouped in inflorescences surrounded by bracts..... 6. Gnidia.",
+          "is_terminal": true,
+          "terminal_name": "Gnidia",
+          "leads_to": null
+        },
+        "7": {
+          "num": 7,
+          "prime": "",
+          "text": "Flowers mostly pentamerous..... ex-genus Lasiosiphon.",
+          "is_terminal": true,
+          "terminal_name": "ex-genus Lasiosiphon",
+          "leads_to": null
+        },
+        "7'": {
+          "num": 7,
+          "prime": "'",
+          "text": "Flowers mostly tetramerous.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 8
+        },
+        "8": {
+          "num": 8,
+          "prime": "",
+          "text": "Involucre normally with more than 5 bracts.....(ex-genus Gnidia s.s.",
+          "is_terminal": true,
+          "terminal_name": "(ex-genus Gnidia s.s",
+          "leads_to": null
+        },
+        "8'": {
+          "num": 8,
+          "prime": "'",
+          "text": "Involucre with 2-3 bracts not very different from the upper leaves..... (ex-genus Englerodaphne, East Africa).",
+          "is_terminal": true,
+          "terminal_name": "(ex-genus Englerodaphne, East Africa)",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Androecium isostemonous (stamens in number equal to that of the perianth divisions)..... Struthiola (East African Mountains).",
+          "is_terminal": true,
+          "terminal_name": "Struthiola (East African Mountains)",
+          "leads_to": null
+        }
+      }
+    },
+    "key_based_on_fruits": {
+      "id": "key_based_on_fruits",
+      "display": "KEY BASED ON FRUITS",
+      "name": "KEY BASED ON FRUITS",
+      "start": 1,
+      "genus": null,
+      "family": "Thymelaeaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Fruit dehiscent, opening in 2-4 valves, independent of the perianth.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Fruit with 2 septa, opening into two subequal valves.....",
+          "is_terminal": true,
+          "terminal_name": "",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Fruit with 1-4 septa, opening by irregular valves; generally a single fertile seed..... I. Octolepis.",
+          "is_terminal": true,
+          "terminal_name": "I. Octolepis",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Fruit indehiscent.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Fruit dry, small (less than 5 mm), remaining at maturity in the base of the perigone..... 6. Gnidia.",
+          "is_terminal": true,
+          "terminal_name": "Gnidia",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Fruit drupaceous, fairly large.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Fruit bursting the perigone during its growth... 5. Peddiea.",
+          "is_terminal": true,
+          "terminal_name": "Peddiea",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Pericarp of the fruit concrescent with the base of the perigone which becomes hypertrophied.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Fruit elongate-fusiform..... 3. Craterosiphon.",
+          "is_terminal": true,
+          "terminal_name": "Craterosiphon",
+          "leads_to": null
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Fruit spherical, with fibrous or fleshy mesocarp, with sclerified endocarp..... 4. Dicranolepis.",
+          "is_terminal": true,
+          "terminal_name": "Dicranolepis",
+          "leads_to": null
+        }
+      }
+    },
+    "species_octolepis": {
+      "id": "species_octolepis",
+      "display": "Key to Octolepis",
+      "name": "KEY TO OCTOLEPIS",
+      "start": 1,
+      "genus": "octolepis",
+      "family": "Thymelaeaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Flowers predominantly tetramerous; leaves 5-30 cm long, but generally more than 15, by 4-10 wide, with lamina rather attenuate-cuneate at the base, with 8-15 (and up to 20) pairs of lateral veins.....1. O. casearia. (leaves 8-12 cm long by 3-4 wide, fairly thick shagreened, with few veins..... O. nodosericea).",
+          "is_terminal": true,
+          "terminal_name": "O. casearia. (leaves 8-12 cm long by 3-4 wide, fairly thick shagreened, with few veins..... O. nodosericea)",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Flowers predominantly pentamerous; leaves 5-20 cm long, but generally 10-12, by 2-7 cm wide, with base rather rounded or subcordate, with 5-12 pairs of lateral veins..... 2. O. decalepis.",
+          "is_terminal": true,
+          "terminal_name": "O. decalepis",
+          "leads_to": null
+        }
+      }
+    },
+    "species_craterosiphon": {
+      "id": "species_craterosiphon",
+      "display": "Key to Craterosiphon",
+      "name": "KEY TO CRATEROSIPHON",
+      "start": 1,
+      "genus": "craterosiphon",
+      "family": "Thymelaeaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Filaments of the epigepalous stamens very distinctly longer than the anthers and reaching 3 to 4 mm; stamens, style and stigma clearly salient from the perianth tube.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Divisions of the perianth nearly as long as the tube..... ..... C. Louisii R. Wilczek ex A. Robyns (Central Congo).",
+          "is_terminal": true,
+          "terminal_name": "..... C. Louisii R. Wilczek ex A. Robyns (Central Congo)",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Divisions of the perianth shorter than the tube.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Open flowers approximately 20-22 mm long; petals reaching 8 mm; bark with crevassed rhytidome; leaves coriaceous, small, 3-5 × 1.5-2 cm, attenuate at the base. C. Quarrei Staner (Katanga).",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Open flowers 15 to 18 mm long; petals approximately 5 mm; dark bark, adorned with numerous lenticels, not crevassed; coriaceous leaves, fairly large (5-8 × 3-5 cm), very clearly rounded at the base..... I. C. cf. Soyauxii.",
+          "is_terminal": true,
+          "terminal_name": "I. C. cf. Soyauxii",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Filaments of the epigepalous stamens barely longer than the anthers, rarely exceeding 1 mm; stamens, style and stigma included or barely salient at the throat of the tube.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Zone of the tube throat not marked by thickenings corresponding to the petals. Leaves stiff or coriaceous, very ovate, only slightly longer than broad, fairly large 5 to 8 cm long by 4 to 5 wide; greatest width often situated near the base; blade gradually narrowed at the apex into a fairly broad triangular apex, 1 cm long.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Flowers grouped by 3 or 4, fairly large and reaching 4 cm..... C. scandens Engl. et Gilg (Western Africa).",
+          "is_terminal": true,
+          "terminal_name": "C. scandens Engl. et Gilg (Western Africa)",
+          "leads_to": null
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Flowers solitary, small, rarely reaching 2 cm.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 6
+        },
+        "6": {
+          "num": 6,
+          "prime": "",
+          "text": "Floral buds acute at the apex..... 2. C. montanum.",
+          "is_terminal": true,
+          "terminal_name": "C. montanum",
+          "leads_to": null
+        },
+        "6'": {
+          "num": 6,
+          "prime": "'",
+          "text": "Floral buds obtuse at the apex..... 3. C. pseudoscandens.",
+          "is_terminal": true,
+          "terminal_name": "C. pseudoscandens",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Zone of the tube throat marked by 10 more or less pronounced thickenings corresponding to 10 rudimentary petaloid pieces; ovate oblong leaves, fairly small, 3.5 to 6 cm long, 2 to 2.5 wide, with greatest width situated rather towards the middle, gradually narrowed at the base, more or less abruptly narrowed at the apex into a triangular or subfiliform apex.... C. beniense Domke (Congo).",
+          "is_terminal": true,
+          "terminal_name": "C. beniense Domke (Congo)",
+          "leads_to": null
+        }
+      }
+    },
+    "species_dicranolepis": {
+      "id": "species_dicranolepis",
+      "display": "Key to Dicranolepis",
+      "name": "KEY TO DICRANOLEPIS",
+      "start": 1,
+      "genus": "dicranolepis",
+      "family": "Thymelaeaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Perianth tube furnished with stipitate glands which persist on the fruit..... I. D. glandulosa.",
+          "is_terminal": true,
+          "terminal_name": "I. D. glandulosa",
+          "leads_to": null
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Perianth tube not glandular.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Perianth tube densely silky-hairy.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Large flowers, often exceeding 35 mm in length, with petals longer than the sepals or equaling them, with narrow perianth tube.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Lobes of the petals distinctly lacerate-fimbriate.. 2. D. pulcherrima",
+          "is_terminal": true,
+          "terminal_name": "D. pulcherrima",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Lobes of the petals entire or somewhat dentate, with distal part enlarged into a spatula, considerably exceeding the sepals, the latter rounded at the apex..... D. grandiflora Engl.",
+          "is_terminal": true,
+          "terminal_name": "D. grandiflora Engl",
+          "leads_to": null
+        },
+        "4\"'": {
+          "num": 4,
+          "prime": "\"'",
+          "text": "Lobes of the petals slightly dentate, acute; sepals lanceolate acute..... 3. D. Baertsiana.",
+          "is_terminal": true,
+          "terminal_name": "D. Baertsiana",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Medium flowers, 25–30 mm in length, with petals most often shorter than the sepals, with thick perianth tube, enlarged at the base..... D. vestita Engl.",
+          "is_terminal": true,
+          "terminal_name": "D. vestita Engl",
+          "leads_to": null
+        },
+        "3''": {
+          "num": 3,
+          "prime": "''",
+          "text": "Flowers less than 25 mm, with very narrow tube..... 4. D. Soyauxii.",
+          "is_terminal": true,
+          "terminal_name": "D. Soyauxii",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Perianth tube pubescent-grayish, with fairly short and stiff hairs, not silky-hairy (see also 2'').",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Flowers more than 25 mm, with petals equal to or exceeding the sepals in general.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 6
+        },
+        "6": {
+          "num": 6,
+          "prime": "",
+          "text": "Flowers shorter than the leaves, the latter very ovate, slightly oblique..... 3. D. Baertsiana.",
+          "is_terminal": true,
+          "terminal_name": "D. Baertsiana",
+          "leads_to": null
+        },
+        "6'": {
+          "num": 6,
+          "prime": "'",
+          "text": "Flowers almost as long or longer than the leaves,",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 7
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Flowers less than 25 mm, with petals almost always shorter than the sepals, with a very narrow tube; leaves densely hairy-hirsute on lower surface, with stiff and long hairs.... 4. D. Soyauxii.",
+          "is_terminal": true,
+          "terminal_name": "D. Soyauxii",
+          "leads_to": null
+        },
+        "2''": {
+          "num": 2,
+          "prime": "''",
+          "text": "Perigone tube with scattered appressed hairs, or entirely glabrous.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 7
+        },
+        "7": {
+          "num": 7,
+          "prime": "",
+          "text": "Flowers more than 20 mm, often reaching one-third or one-half the length of the leaves, with lobes of petals equaling the sepals..... 5. D. disticha.",
+          "is_terminal": true,
+          "terminal_name": "D. disticha",
+          "leads_to": null
+        },
+        "7'": {
+          "num": 7,
+          "prime": "'",
+          "text": "Flowers less than 15 mm.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 8
+        },
+        "8": {
+          "num": 8,
+          "prime": "",
+          "text": "Flowers reaching 1/4 or 1/3 of the length of the leaves, with lobes of petals smaller than the sepals... 6. D. Buchholzii.",
+          "is_terminal": true,
+          "terminal_name": "D. Buchholzii",
+          "leads_to": null
+        },
+        "8'": {
+          "num": 8,
+          "prime": "'",
+          "text": "Flowers exceeding one-half the length of the leaves, with lobes of petals almost equaling the sepals; leaves very small, without individualized acumen..... 7. D. pusilla.",
+          "is_terminal": true,
+          "terminal_name": "D. pusilla",
+          "leads_to": null
+        }
+      }
+    },
+    "species_gnidia": {
+      "id": "species_gnidia",
+      "display": "Key to Gnidia",
+      "name": "KEY TO GNIDIA",
+      "start": 1,
+      "genus": "gnidia",
+      "family": "Thymelaeaceae",
+      "nodes": {
+        "1": {
+          "num": 1,
+          "prime": "",
+          "text": "Plants with inflorescences situated almost entirely at the end of simple, erect, scarcely lignified branches, arising from a thick rootstock; chamaephytic plants or theophytes becoming woody.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 2
+        },
+        "2": {
+          "num": 2,
+          "prime": "",
+          "text": "Inflorescences small, about 10 mm in diameter, surrounded by few bracts (4-6), and short (10 mm).",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 3
+        },
+        "3": {
+          "num": 3,
+          "prime": "",
+          "text": "Bracts narrow or acicular..... G. Claessensii Staner.",
+          "is_terminal": true,
+          "terminal_name": "G. Claessensii Staner",
+          "leads_to": null
+        },
+        "3'": {
+          "num": 3,
+          "prime": "'",
+          "text": "Bracts very broadly ovate-obtuse..... G. macrorrhiza Gilg.",
+          "is_terminal": true,
+          "terminal_name": "G. macrorrhiza Gilg",
+          "leads_to": null
+        },
+        "2'": {
+          "num": 2,
+          "prime": "'",
+          "text": "Inflorescences 20-30 mm in diameter, bearing approximately 6-10 bracts (or more), these 10-25 mm.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 4
+        },
+        "4": {
+          "num": 4,
+          "prime": "",
+          "text": "Inflorescence complex, with flowers interspersed with numerous bracts..... G. bambutana Gilg et Lederm. ex Engl.",
+          "is_terminal": true,
+          "terminal_name": "G. bambutana Gilg et Lederm. ex Engl",
+          "leads_to": null
+        },
+        "4'": {
+          "num": 4,
+          "prime": "'",
+          "text": "Inflorescence comprising only an external involucre of bracts.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 5
+        },
+        "5": {
+          "num": 5,
+          "prime": "",
+          "text": "Bracts fairly little differentiated from the leaves in form, broad, obtuse at the apex..... G. Kraussiana (Meisn.) Gilg.",
+          "is_terminal": true,
+          "terminal_name": "G. Kraussiana (Meisn.) Gilg",
+          "leads_to": null
+        },
+        "5'": {
+          "num": 5,
+          "prime": "'",
+          "text": "Bracts differentiated from the leaves, acute-apiculate at the apex. …… G. chrysantha (Solms-Laub. ex Schweinf.) Gilg.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 6
+        },
+        "1'": {
+          "num": 1,
+          "prime": "'",
+          "text": "Plants with terminal inflorescences situated at the end of woody, branched branches; phanerophyte (shrub or tree)..... G. glauca (Fres.) Gilg.",
+          "is_terminal": true,
+          "terminal_name": "G. glauca (Fres.) Gilg",
+          "leads_to": null
+        },
+        "1'''": {
+          "num": 1,
+          "prime": "'''",
+          "text": "Plants with numerous lateral inflorescences.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 6
+        },
+        "6": {
+          "num": 6,
+          "prime": "",
+          "text": "Main stems strongly lignified at the time of flowering; inflorescences borne by short lateral branchlets; bracts foliaceous, green..... G. foliosa Pears. [West Africa only]",
+          "is_terminal": true,
+          "terminal_name": "G. foliosa Pears. [West Africa only]",
+          "leads_to": null
+        },
+        "6'": {
+          "num": 6,
+          "prime": "'",
+          "text": "Main stems scarcely lignified at the time of flowering; bracts membranaceous, colored.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": 7
+        },
+        "7": {
+          "num": 7,
+          "prime": "",
+          "text": "Bracts very broadly ovate; main stem bearing very regular lateral ramifications, oblique, terminated by drooping inflorescences..... G. Schweinfurthii Gilg.",
+          "is_terminal": true,
+          "terminal_name": "G. Schweinfurthii Gilg",
+          "leads_to": null
+        },
+        "7'": {
+          "num": 7,
+          "prime": "'",
+          "text": "Bracts lanceolate-apiculate; inflorescences more or less sessile appearing axillary..... G. apiculata (Oliv.) Gilg.",
+          "is_terminal": true,
+          "terminal_name": "G. apiculata (Oliv.) Gilg",
+          "leads_to": null
+        },
+        "8": {
+          "num": 8,
+          "prime": "",
+          "text": "Flowers grouped in terminal inflorescences; bracts lanceolate apiculate; flowers rather large exceeding the bracts; stems unbranched..... G. chrysantha.",
+          "is_terminal": true,
+          "terminal_name": "G. chrysantha",
+          "leads_to": null
+        },
+        "8'": {
+          "num": 8,
+          "prime": "'",
+          "text": "Flowers grouped in lateral inflorescences borne by short branchlets or short lateral peduncles; flowers small, scarcely exceeding the bracts, the latter ovate, foliaceous. G. foliosa.",
+          "is_terminal": false,
+          "terminal_name": null,
+          "leads_to": null
+        }
+      }
+    }
+  }
+}
