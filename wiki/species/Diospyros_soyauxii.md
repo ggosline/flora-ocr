@@ -60,3 +60,11 @@ Soyaux 187 (néotype)，Sibange farm (fr.） cit.in Bull.Jard.Bot.Brux.33 ： 36
 ## Source
 
 Letouzey R. & White F. (1970) *Ebenacees*. In: Halle N. (ed.), *Flore du Gabon, Volume 18*. Museum national d'Histoire naturelle, Paris. Source on disk: `sources/Ebenaceae_vol18_mineru`.
+
+## Notes
+
+The 2009 protologue of [[Diospyros_onanae]] treats this species as its closest
+regional ally. Gosline emphasizes the shared indument, mucronate leaf tips,
+4-lobed calyx, and 4-locular ovary, but separates *D. onanae* by its much
+smaller eglandular leaves, pyramidal flower buds, and the presence of female
+staminodes, which Vol 18 states are absent in *D. soyauxii*.

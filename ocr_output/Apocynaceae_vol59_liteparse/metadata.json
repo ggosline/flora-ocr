@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 59 OK.pdf",
+  "vol_label": "59",
+  "family": "Apocynaceae",
+  "page_count": 285,
+  "figure_count": 260,
+  "char_count": 485414,
+  "elapsed_s": 5.9,
+  "generated_at": "2026-04-11T23:54:25.385249+00:00"
+}

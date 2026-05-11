@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 41 OK.pdf",
+  "vol_label": "41",
+  "family": "Anthericaceae",
+  "page_count": 17,
+  "figure_count": 10,
+  "char_count": 25149,
+  "elapsed_s": 113.7,
+  "generated_at": "2026-04-11T23:37:00.183667+00:00"
+}

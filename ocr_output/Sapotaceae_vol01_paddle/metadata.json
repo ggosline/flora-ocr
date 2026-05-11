@@ -1,0 +1,200 @@
+{
+  "vol_label": "01",
+  "family": "Sapotaceae",
+  "pdf_filename": "FdG vol. 01 OK.pdf",
+  "pipeline": "PaddleOCRVL v1.5",
+  "dpi": 150,
+  "page_count": 170,
+  "figure_count": 31,
+  "markdown_char_count": 223124,
+  "processing_time_seconds": 1382.93,
+  "figures": [
+    {
+      "filename": "fig_000_p0002.png",
+      "page": 2,
+      "caption": null,
+      "label": "image"
+    },
+    {
+      "filename": "fig_001_p0004.png",
+      "page": 4,
+      "caption": null,
+      "label": "image"
+    },
+    {
+      "filename": "fig_002_p0005.png",
+      "page": 5,
+      "caption": null,
+      "label": "image"
+    },
+    {
+      "filename": "fig_003_p0013.png",
+      "page": 13,
+      "caption": null,
+      "label": "image"
+    },
+    {
+      "filename": "fig_004_p0033.png",
+      "page": 33,
+      "caption": "PL. I. — Manilkara Le-Testui Aubr. et Pellegr. : 1, rameau florifère × 2/3; 2, feuille × 1/2; 3, corolle (fleur jeune) × 3; 4, fragment de corolle × 5; 5, anthère × 5; 6, pistil × 5. — Manilkara Fouilloyana Aubr. et Pellegr. : 7, feuille × 2/3; 8, fragment de corolle × 5; 9, pistil × 5.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_005_p0039.png",
+      "page": 39,
+      "caption": "PL. II. — Manilkara Pellegriniana Tisserant et Sillans : 1, rameau florifère × 2 /3; 2, fragment de corolle vu de l'extérieur × 6; 3, fragment de corolle vu de l'intérieur × 6; 4, pistil × 6. — Manilkara microphylla Aubr. et Pellegr. : 5, feuille × 2 /3; 6, détail de la nervation; 7, fragment de corolle vu de l'extérieur × 6; 8, fragment de corolle vu de l'intérieur × 6; 9, pistil × 6.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_006_p0043.png",
+      "page": 43,
+      "caption": "PL. III. — Letestua durissima H. Lec. : 1, rameau florifère × 2/3; 2, corolle × 8; 3, fragment de corolle vu de l'extérieur × 8; 4, fragment de corolle vu de l'intérieur × 8; 5, pistil × 8.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_007_p0045.png",
+      "page": 45,
+      "caption": "PL. IV. — Autranella congolensis (De Wild.) A. Chev.: 1, rameau florifière × 2 /3; 2, fleur × 3; 3, corolle × 4; 4, fragment de corolle vu de l'extérieur × 4; 5, fragment de corolle vu de l'intérieur (n° 1071) × 4; 6, fragment de corolle vu de l'intérieur (n° 6502) × 4; 7, pistil × 4; 8, graine de face × 2 /3; 9, graine de profil × 2 /3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_008_p0051.png",
+      "page": 51,
+      "caption": "PL. V. — Tieghemella africana Pierre : 1, rameau florifère; 2, fleur × 4; 3, corolle × 4; 4, fragment de corolle × 6; 5, pistil × 6; 6, graine de face × 2/3; 7, graine, de profil × 2/3; 8, coupe longitudinale × 2/3; 9, coupe transversale × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_009_p0053.png",
+      "page": 53,
+      "caption": "CARTE 2",
+      "label": "image"
+    },
+    {
+      "filename": "fig_010_p0057.png",
+      "page": 57,
+      "caption": "PL. VI. — Baillonella toxisperma Pierre : 1, rameau florifère × 2/3; 2, fragment de corolle vu de l'extérieur × 5; 3, fragment de corolle vu de l'intérieur × 5; 4, stamineode de profil; 5, calice et pistil × 4; 6, graine de face et de profil × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_011_p0063.png",
+      "page": 63,
+      "caption": "PL. VII. — Lecomtedoxa Klaineana Pierre : 1, feuille × 2 /3; 2, fruit de face × 1; 3, fruit de profil × 1; 4, graine de face × 1; 5, graine de profil × 1; Neolemonniera ogouensis (Pierre) Heine : 6, rameau florifère × 2 /3; 7, striations très grossies d'une feuille; 8, fleur × 8; 9, fragment de corolle vu de l'extérieur × 8; 10, fragment de corolle vu de l'intérieur × 8; 11, pistil × 8.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_012_p0067.png",
+      "page": 67,
+      "caption": "PL. VIII. — Lecomtedoxa Nogo (A. Chev.) Aubr. et Pellegr. : 1, feuille × 2/3; 2, inflorescence × 2/3; 3, fleur × 3; 4, fragment de corolle vu de l'extérieur × 4; 5, fragment de corolle vu de l'intérieur × 4; 6, pistil × 4; 7, fruit × 2/3; 8, graine de profil × 2/3; 9, graine de face × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_013_p0071.png",
+      "page": 71,
+      "caption": "PL. IX. — Lecomtedoxa Biraudii Aubr. et Pellegr. : 1, feuille - × 2/3; 2, pétale et ses appendices vus de l'extérieur × 3; 3, fragment de corolle vu de l'intérieur × 3; 4, anthère face externe; 5, pistil × 3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_014_p0077.png",
+      "page": 77,
+      "caption": "PL. X. — Gluema ivorensis Aubr. et Pellegr. : 1, feuille × 2/3; 2, fragment de rameau fleuri × 2/3; 3, fleur × 4; 4, fragment de corolle vu de l'extérieur × 4; 5, fragment de corolle vu de l'extérieur le pétale rabattu × 4; 6, fragment de corolle vu de l'intérieur × 4; 7, pistil × 4; 8-9, fruit de profil et de face × 2/3; 10-11, graine de profil et de face × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_015_p0081.png",
+      "page": 81,
+      "caption": "PL. XI. — Tridemostemon congoense (A. Chev.) Aubr. et Pellegr. : 1, feuille × 2 /3; 2, fruit × 2 /3; 3, graine de face et de profil × 2 /3. — Omphalocarpum procerum P. Beauv. : 4, feuille × 2 /3; 5, inflorescence × 2 /3; 6, fleur × 2; 7, fragment de corolle × 2; 8, staminode exceptionnel × 2; 9, pistil × 2; 10, graine de face et de profil × 2 /3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_016_p0085.png",
+      "page": 85,
+      "caption": "PL. XII. — Omphalocarpum Le-Testui Aubr. et Pellegr. : 1, feuille × 2 /3; 2, inflo-rescence × 2 /3; 3, fleur × 2; 4, fleur ♀ fragment de corolle vu de l'intérieur × 2; 5, fleur ♀ fragment de corolle vu de l'extérieur × 2; 6, fleur ♂, fragment de corolle vu de l'intérieur × 2; 7, pistil × 2.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_017_p0087.png",
+      "page": 87,
+      "caption": "PL. XIII. — Tridemostemon omphalocarpoides Engl. : 1, rameau florifère × 2/3; 2, fleur × 3; 3, corolle × 4; 4, fragment de corolle × 4; 5, 2 anthères vues de l'extérieur, grossies; 6, pistil × 4; 7, graine de face et de profil × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_018_p0093.png",
+      "page": 93,
+      "caption": "PL. XIV. — Englerophytum Hallei Aubr. et Pellegr. : 1, rameau feuillé × 2/3; 2, inflorescence × 2/3; 3, fleur × 4; 4, corolle × 4; 5, fragment de corolle vu de l'intérieur × 5; 6, pistil × 5; 7, détail de l'androcée.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_019_p0097.png",
+      "page": 97,
+      "caption": "PL. XV. — Wildemaniodoxa Laurentii (De Wild.) Aubr. et Pellegr. : 1, feuille × 2/3; 2, inflorescence × 2/3; 3, corolle × 6; 4, fragment de corolle (vu de l'intérieur) × 6; 5, pistil × 6. — Gambeya boukokoensis Aubr. et Pellegr.: 6, feuille × 2/3; 7, inflorescences × 2/3; 8, fleur × 6; 9, fragment de corolle × 6; 10, pistil × 6; 11, fruits × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_020_p0099.png",
+      "page": 99,
+      "caption": "PL. XVI. — Zeyherella Le-Testui Aubr. et Pellegr. : 1, rameau feuillé × 2/3; 2, inflorescences × 2/3; 3, fleur × 4; 4, fragment de corolle × 6; 5, pistil × 6. — Zeyherella longepedicellata (De Wild.) Aubr. et Pellegr. : 6, rameau feuillé × 2/3; 7, inflorescences × 2/3; 8, fragment de corolle × 6.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_021_p0101.png",
+      "page": 101,
+      "caption": "PL. XVII. — Zeyherella mayombense (Greves) Aubr. et Pellegr. : 1, rameau feuillé × 2/3; 2, inflorescence × 2/3; 3, fleur × 8; 4, fragment de corolle × 8; 5, pistil × 8; 6, fruit, de face × 2; 7, fruit de profil × 2; 8, graine de face × 2; 9, graine de profil × 2.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_022_p0107.png",
+      "page": 107,
+      "caption": "PL. XVIII. — Tulestea tomentosa Aubr. et Pellegr. : 1, rameau florifère × 2/3; 2, fleur × 6; 3, corolle × 6; 4, fragment de corolle × 6; 5, anthère, face externe × 10; 6, pistil × 6. — Tulestea gabonensis Aubr. et Pellegr. : 7, feuille × 2/3; 8, fleur × 6; 9, fragment de corolle × 6. — Tulestea koulamoutouensis Aubr. et Pellegr. : 10, rameau florifère × 2/3; 11, fragment de corolle × 6; 12, pistil × 6",
+      "label": "image"
+    },
+    {
+      "filename": "fig_023_p0111.png",
+      "page": 111,
+      "caption": "PL. XIX. — Englerophytum kouloungense Aubr. et Pellegr.: 1, feuille × 2/3. — Afrosersalisia Afzelii (Engl.) Aubr.: 2, feuille × 2/3; — Englerophytum Le-Testui Aubr. et Pellegr.: 3, fragments de la feuille × 2/3; 4, graine de profil; 5, graine de face. — Pachystela buluensis (Greves) Aubr. et Pellegr.: 6, feuilles × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_024_p0121.png",
+      "page": 121,
+      "caption": "PL. XX. — Synsepalum Le-Testui Aubr. et Pellegr. : 1, feuille × 2/3; 2, calice × 6; 3, corolle × 6; 4, fragment de corolle vu de l'intérieur × 6; 5, pistil × 6; — Synsepalum Zenkeri Aubr. et Pellegr. : 6, rameau florifère × 2/3; 7, calice × 6; 8, fragment de corolle vu de l'intérieur × 6.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_025_p0123.png",
+      "page": 123,
+      "caption": "PL. XXI. — Synsepalum longecuneatum De Wild.: 1, rameau florifère × 2/3; 2, calice × 6; 3, fragment de corolle × 6. — Synsepalum dulcificum Daniell: 4, rameau florifère × 2/3; 5, calice × 6; 6, fragment de corolle × 6. — Synsepalum Fleuryanum A. Chev.: 7, feuille × 2/3.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_026_p0127.png",
+      "page": 127,
+      "caption": "PL. XXII. — Vincentella ogouensis Aubr. et Pellegr. : 1, rameau florifère × 2 /3; 2, corolle × 4; 3, calice et pistil × 10; 4, fragment de corolle × 10. — Vincentella ocatostipulata (De Wild.) Aubr. et Pellegr. : 5, rameau florifère × 2 /3; 6, fleur × 10; 7, fragment de corolle vu de l'extérieur × 10; 8, fragment de corolle vu de l'intérieur × 10; 9, pistil × 10.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_027_p0131.png",
+      "page": 131,
+      "caption": "PL. XXIII. — Pseudopachystela lastoursvillensis Aubr. et Pellegr.: 1, feuille × 2/3; 2, inflorescence × 2/3; 3, fragment de corolle × 5; 4, pistil × 5. — Pseudopachystela oyemensis Aubr. et Pellegr.: 5, feuille et boutons floraux × 2/3; 6, fleur × 4; 7, fragment de corolle × 5; 8, pistil × 5.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_028_p0141.png",
+      "page": 141,
+      "caption": "PL. XXIV. — Delpydora macrophylla Pierre : 1, rameau florifère × 2/3; 2, fleur × 3; 3, fleur avec 2 pétales enlevés pour montrer l'androcée × 4; 4, fragment de corolle × 4; 5, pistil × 4; 6, fruit × 1; 7, graine de profil et de face × 1.",
+      "label": "image"
+    },
+    {
+      "filename": "fig_029_p0147.png",
+      "page": 147,
+      "caption": null,
+      "label": "image"
+    },
+    {
+      "filename": "fig_030_p0155.png",
+      "page": 155,
+      "caption": "PL. XXVI. — Aningueria altissima (A. Chev.) Aubr. et Pellegr. : 1, rameau florifère × 2/3; 2, feuille × 8; 3, fragment de corolle × 8; 4, anthère × 16; 5, pistil × 8. — Gambeya nyangensis Pellegrin : 6, feuille × 2/3; 7, fleur × 8; 8, fragment de corolle × 8; 9, pistil × 8.",
+      "label": "image"
+    }
+  ],
+  "completed_at": "2026-05-11T21:35:52.678751+00:00"
+}

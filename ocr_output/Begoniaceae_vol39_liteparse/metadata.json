@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 39 OK.pdf",
+  "vol_label": "39",
+  "family": "Begoniaceae",
+  "page_count": 117,
+  "figure_count": 69,
+  "char_count": 150999,
+  "elapsed_s": 21.3,
+  "generated_at": "2026-04-11T23:34:50.325497+00:00"
+}

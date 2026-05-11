@@ -6,12 +6,17 @@ genus: Diospyros
 family: Ebenaceae
 synonyms: []
 distribution_gabon: []
-distribution_other: [West Africa, Sao Tome, Sudan, Tanzania, Mozambique, Madagascar, Angola]
+distribution_other: [India, Sri Lanka]
 habit: shrub or small tree
-habitat: [littoral thicket, dry forest understorey, gallery forest, rocky savanna]
+habitat: []
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - kind: article
+    year: 2025
+    citation: "Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P. (2025). A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."
+    pages: "1-18"
+    source: sources/articles/plecevo_article_140561_en_1/liteparse
 tags: [species, not-in-gabon]
 ---
 
@@ -27,9 +32,17 @@ Gard.Bull. Str. S.7:162(1933)；Bull. Jard.Bot.Buitenz.,ser.3,15(2): 50(1937) et
 
 PL.16,13-22,p.113,et CARTE 30,p. 171.
 
-This species is extremely polymorphic and is distributed throughout the paleotropics, from Polynesia through Australia and Asia to West Africa. The works by R.C. Bakhuizen van den Brink and F. White cited above provide extensive bibliography, numerous synonyms, descriptions of the species and its possible varieties, and specimen lists.
+This page preserves the **historical Vol 18 concept** of *Diospyros ferrea* as
+used in African floristic literature. A 2025 revision has since shown that the
+continental African material referred here does **not** belong to true
+*D. ferrea* from India and Sri Lanka, but instead represents five separate
+African species: [[Diospyros_angolensis]], [[Diospyros_guineensis]],
+[[Diospyros_moutsambotei]], [[Diospyros_smeathmannii]], and
+[[Diospyros_suaheliensis]].
 
-Although locally well represented in West Africa, with many herbarium collections, it is striking that *Diospyros ferrea* is known in Cameroon only from 2 specimens in the Kumba region near the Nigerian border. Absent elsewhere in Cameroon, it is known in the Central African Republic from only a single specimen. A few records exist from Sao Tome, the Lower Congo, and Angola; it then reappears in Sudan, Tanzania, and Mozambique before reaching Madagascar and the eastern part of its range.
+The older treatment below is therefore useful mainly as a record of how the
+species complex was interpreted in 1970, not as the current circumscription of
+the accepted species.
 
 The specimen Staudt 617, with male flowers, matches Nigerian specimens with flowers and fruits, representing a fairly typical small-leaved, narrowly rhomboid to narrowly elliptic form found sporadically in West Africa. The Cameroonian specimen shows the following features:
 
@@ -45,7 +58,23 @@ Elsewhere in West Africa, *Diospyros ferrea* is said to be a bushy shrub or smal
 
 **Type:**Koenig s.n.,Inde (Malabar).
 
-In West Africa this species occurs in littoral scrub, in the understory of relatively dry forest, in gallery forest, and among rocks in savanna regions.
+## Current circumscription
+
+Following Mestre Serra et al. (2025), **true *Diospyros ferrea*** is excluded
+from continental Africa. The article states that none of the >150 African
+collections previously assigned to the species matches the type-region material
+from **SW India and Sri Lanka**.
+
+## Notes
+
+- The African material once included here has been redistributed among five
+  species pages on this wiki:
+  [[Diospyros_angolensis]], [[Diospyros_guineensis]],
+  [[Diospyros_moutsambotei]], [[Diospyros_smeathmannii]], and
+  [[Diospyros_suaheliensis]].
+- The long French passage below is retained as a historical OCR-derived record
+  of the Vol 18 treatment rather than a modern diagnosis of the accepted
+  species.
 
 ### Material studied in Cameroon
 

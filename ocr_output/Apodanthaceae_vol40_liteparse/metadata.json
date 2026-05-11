@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 40 OK.pdf",
+  "vol_label": "40",
+  "family": "Apodanthaceae",
+  "page_count": 11,
+  "figure_count": 14,
+  "char_count": 10637,
+  "elapsed_s": 16.1,
+  "generated_at": "2026-04-11T23:35:06.480046+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 60 OK.pdf",
+  "vol_label": "60",
+  "family": "Menispermaceae",
+  "page_count": 62,
+  "figure_count": 45,
+  "char_count": 110402,
+  "elapsed_s": 28.5,
+  "generated_at": "2026-04-11T23:54:53.850878+00:00"
+}

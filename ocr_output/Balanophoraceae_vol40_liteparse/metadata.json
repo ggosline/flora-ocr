@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 40 OK.pdf",
+  "vol_label": "40",
+  "family": "Balanophoraceae",
+  "page_count": 4,
+  "figure_count": 3,
+  "char_count": 5646,
+  "elapsed_s": 16.1,
+  "generated_at": "2026-04-11T23:35:06.480750+00:00"
+}

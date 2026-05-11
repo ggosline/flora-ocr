@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 60 OK.pdf",
+  "vol_label": "60",
+  "family": "Ancistrocladaceae",
+  "page_count": 15,
+  "figure_count": 29,
+  "char_count": 21167,
+  "elapsed_s": 28.5,
+  "generated_at": "2026-04-11T23:54:53.848738+00:00"
+}

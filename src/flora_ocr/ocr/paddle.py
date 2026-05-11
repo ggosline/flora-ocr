@@ -423,11 +423,9 @@ def _normalize_label(raw: str, known_labels: list[str]) -> str | None:
 
 
 def is_done(label: str) -> bool:
-    # Check both new family-named dirs and the whole-volume vol{label}_paddle dir
-    return (
-        any((d / "text.md").exists() for d in OUT_DIR.glob(f"*_vol{label}_paddle"))
-        or (OUT_DIR / f"vol{label}_paddle" / "text.md").exists()
-    )
+    # For Flore du Gabon completion we only count family-split outputs.
+    # Older whole-volume vol{label}_paddle dirs are not sufficient.
+    return any((d / "text.md").exists() for d in OUT_DIR.glob(f"*_vol{label}_paddle"))
 
 
 def _fmt_time(seconds: float) -> str:

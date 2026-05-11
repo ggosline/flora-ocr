@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 42 OK.pdf",
+  "vol_label": "42",
+  "family": "Aizoaceae",
+  "page_count": 12,
+  "figure_count": 9,
+  "char_count": 9777,
+  "elapsed_s": 120.6,
+  "generated_at": "2026-04-11T23:39:00.824487+00:00"
+}

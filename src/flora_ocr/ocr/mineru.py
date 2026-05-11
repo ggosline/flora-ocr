@@ -20,9 +20,6 @@ import time
 import traceback
 from datetime import datetime, timezone
 
-sys.path.insert(0, str(pathlib.Path(__file__).parent))
-
-
 # ---------------------------------------------------------------------------
 # Figure parsing helpers
 # ---------------------------------------------------------------------------

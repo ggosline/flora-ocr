@@ -27,7 +27,9 @@ docs/llm-wiki.md       reference: the LLM-wiki pattern
 experiments/           archived OCR experiments (marker, mineru-diffusion, deepseek)
 ```
 
-PDFs and OCR output are gitignored. The repo carries code, configs, and the wiki.
+PDFs are gitignored. Most OCR output is also gitignored, but the repo may
+intentionally track selected **family-level** and **article-level** OCR source
+directories under `ocr_output/` when the wiki depends on them.
 
 ## Conda environments
 
@@ -99,3 +101,33 @@ conda run -n p12 streamlit run src/flora_ocr/app/key_app.py
 OCR output and maintains entity pages (families, genera, species), source
 volumes, and topic notes. See `wiki/AGENTS.md` and `wiki/CLAUDE.md` for the
 schema, and `docs/llm-wiki.md` for the pattern this is based on.
+
+## Portable checkout
+
+This repository is meant to be usable on another machine without reconstructing
+everything from scratch.
+
+- The wiki content under `wiki/` is committed.
+- The OCR code and flora configuration are committed.
+- The specific `ocr_output/<Family>_vol<NN>_<engine>/` and
+  `ocr_output/articles/<article_id>/<engine>/` directories that current wiki
+  pages cite as sources are committed as needed.
+- Old whole-volume OCR runs, scratch experiments, caches, and PDF corpora stay
+  out of git.
+
+That split is deliberate: the wiki must keep its cited OCR sources, but old
+volume-level experiments are regenerable and too noisy to version.
+
+When continuing the ingest on another machine:
+
+1. Create the conda envs described above (`p12` and `ds_ocr`).
+2. Use `wiki/index.md`, `wiki/log.md`, and `wiki/overview.md` to see current
+   coverage.
+3. Read `wiki/AGENTS.md` and `wiki/CLAUDE.md` before any non-trivial ingest.
+4. If you add a new family/article OCR source that the wiki will cite, stage it
+   explicitly because `ocr_output/` is ignored by default:
+
+```bash
+git add -f ocr_output/<Family>_vol<NN>_<engine>
+git add -f ocr_output/articles/<article_id>/<engine>
+```

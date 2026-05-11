@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 60 OK.pdf",
+  "vol_label": "60",
+  "family": "Ranunculaceae",
+  "page_count": 16,
+  "figure_count": 15,
+  "char_count": 36263,
+  "elapsed_s": 28.5,
+  "generated_at": "2026-04-11T23:54:53.851613+00:00"
+}

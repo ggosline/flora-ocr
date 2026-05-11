@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "kind": "article",
+  "source": "/mnt/e/FloreDuGabon/article_pdfs/by_family/Ebenaceae/plecevo_article_140561_en_1.pdf",
+  "article_id": "plecevo_article_140561_en_1",
+  "page_count": 18,
+  "figure_count": 7,
+  "char_count": 65493,
+  "elapsed_s": 1.4,
+  "generated_at": "2026-05-09T23:12:58.179052+00:00"
+}

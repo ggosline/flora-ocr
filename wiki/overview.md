@@ -22,20 +22,21 @@ view of Gabon's flora as the corpus grows.
 
 *(updated on ingest)*
 
-- **Families on the wiki**: 21 — the original five
+- **Families on the wiki**: 24 — the original five
   ([[Ancistrocladaceae]], [[Dilleniaceae]], [[Ebenaceae]],
   [[Menispermaceae]], [[Ranunculaceae]]) plus [[Aizoaceae]],
   [[Alismataceae]], [[Aloaceae]], [[Anacardiaceae]], [[Anthericaceae]],
   [[Annonaceae]], [[Apiaceae]], [[Apocynaceae]], [[Apodanthaceae]], [[Arecaceae]],
   [[Aristolochiaceae]], [[Balanophoraceae]], [[Begoniaceae]],
-  [[Boraginaceae]], [[Burmanniaceae]], and [[Buxaceae]]
-- **Genera**: 26
-- **Species**: 86
-- **Volumes drawn from**: 13 / 61 ([[vol16]], [[vol18]], [[vol38]], [[vol39]],
+  [[Boraginaceae]], [[Burmanniaceae]], [[Buxaceae]], [[Huaceae]], [[Sapotaceae]],
+  and [[Taccaceae]]
+- **Genera**: 52
+- **Species**: 146
+- **Volumes drawn from**: 14 / 61 ([[vol01]], [[vol16]], [[vol18]], [[vol38]], [[vol39]],
   [[vol40]], [[vol41]], [[vol42]], [[vol47]], [[vol50]], [[vol53]], [[vol57]],
   [[vol59]], [[vol60]])
-- **Article addenda**: 1 (`diospyros_kupensis`)
-- **Type localities in Gabon**: 9
+- **Article addenda**: 3 article sources covering multiple Ebenaceae updates, including 8 post-volume species pages
+- **Type localities in Gabon**: 10
   - [[Tetracera_breteleri]] — Ogooué-Lolo, Forêt des Abeilles, *Breteler 14904*
   - [[Albertisia_badia]] — Ogooué-Lolo, *Breteler & Jongkind 14118* (spec. nov., Vol 60)
   - [[Albertisia_mouilaensis]] — Ngounié, Mouila area, *Breteler 14860* (spec. nov., Vol 60)
@@ -44,6 +45,7 @@ view of Gabon's flora as the corpus grows.
   - [[Triclisia_megacarpa]] — Ngounié, *Wieringa 5115* (spec. nov., Vol 60)
   - [[Diospyros_conocarpa]] — Gabon, *Soyaux 57* (type of the accepted species in Vol 18)
   - [[Diospyros_gabunensis]] — Gabon, *Soyaux 36*
+  - [[Diospyros_moutsambotei]] — Ogooué-Ivindo, Ivindo National Park, *Bidault et al. 4494* (spec. nov., 2025)
   - [[Diospyros_simulans]] — Gabon, *Klaine 2179*
 
 ## Phylogenetic coverage
@@ -59,10 +61,11 @@ view of Gabon's flora as the corpus grows.
 | Caryophyllales | [[Aizoaceae]], [[Ancistrocladaceae]] | Succulent coastal herbs in Aizoaceae contrast with hooked woody lianas in Ancistrocladaceae. |
 | Cucurbitales | [[Apodanthaceae]], [[Begoniaceae]] | Includes both highly reduced endophytic parasites and the large fleshy-herb genus *Begonia*. |
 | Dilleniales | [[Dilleniaceae]] | Sole family of the order; in Gabon represented only by [[Tetracera]] (5 spp.). |
-| Dioscoreales | [[Burmanniaceae]] | Mix of green and mycoheterotrophic herbs. |
-| Ericales | [[Ebenaceae]] | In Gabon represented only by [[Diospyros]]. Vol 18 treats 38 species overall, 30 recorded from Gabon; the wiki also carries regional comparator taxa and later article addenda, including [[Diospyros_kupensis]]. |
+| Dioscoreales | [[Burmanniaceae]], [[Taccaceae]] | Now spans both delicate green/mycoheterotrophic herbs and a large stemless geophyte with involucrate umbels. |
+| Ericales | [[Ebenaceae]], [[Sapotaceae]] | Ericales now spans both the ebony lineage ([[Diospyros]]) and one of Gabon's major latex-bearing forest tree families. Vol 18 treated 38 Ebenaceae species overall, 30 recorded from Gabon, but later articles revise that picture; Vol 1 adds a foundational Sapotaceae monograph now represented on the wiki by 23 genera and 48 accepted/present species pages. |
 | Gentianales | [[Apocynaceae]] | Very large latex-bearing family; currently represented on the wiki at family level from Vol 59 part 1. |
 | Magnoliales | [[Annonaceae]] | One of the largest rainforest family treatments in the corpus; 29 genera and 119 species reported for Gabon. |
+| Oxalidales | [[Huaceae]] | Small African woody family of garlic-scented shrubs and trees; all 4 known species occur in Gabon. |
 | Piperales | [[Aristolochiaceae]] | In Gabon centred on *Pararistolochia*, a lianescent lineage with petaloid calyces. |
 | Ranunculales | [[Menispermaceae]], [[Ranunculaceae]] | Both Gabonese Ranunculales families now ingested. Menispermaceae is the diversity hotspot of the order in Gabon (22 genera, 34–36 spp.); Ranunculaceae is represented only by [[Clematis]] (2 spp.). The two are not sister to each other — Ranunculaceae is sister to Berberidaceae, and Menispermaceae is the next branch out (APG IV). |
 | Santalales | [[Balanophoraceae]] | Represented by root holoparasites, chiefly *Thonningia* in Gabon. |
@@ -74,6 +77,17 @@ initial liana-heavy seed set. The new family-level ingest adds aquatics
 ([[Arecaceae]]), woody resin-bearing Sapindales ([[Anacardiaceae]]), broad-sense
 woody Boraginales ([[Boraginaceae]]), and several parasitic lineages
 ([[Apodanthaceae]], [[Balanophoraceae]], partly also [[Burmanniaceae]]).
+Recent additions also contribute a small African woody Oxalidales family
+([[Huaceae]]) and a robust coastal geophyte lineage in Dioscoreales
+([[Taccaceae]]). The start of Sapotaceae from Vol 1 also pushes the wiki
+deeper into the dominant canopy-tree flora of Gabon's humid forests. That
+ingest now has completed genus blocks for [[Manilkara]], [[Letestua]],
+[[Autranella]], [[Tieghemella]], [[Baillonella]], [[Lecomtedoxa]],
+[[Neolemonniera]], [[Gluema]], [[Tridesmostemon]], [[Omphalocarpum]],
+[[Englerophytum]], [[Wildemaniodoxa]], [[Zeyherella]], [[Tulestea]],
+[[Afrosersalisia]], [[Pachystela]], [[Synsepalum]], [[Vincentella]],
+[[Pseudopachystela]], [[Gambeya]], [[Delpydora]], [[Donella]], and
+[[Aningueria]].
 Detailed genus/species coverage is still concentrated in the earlier deep
 ingests (Vols. 18 and 60), but the family layer now gives a much more
 representative map of the flora.
@@ -129,12 +143,28 @@ Notable protected areas frequently cited as collection localities:
   [[Diospyros_kupensis]], is a 1998 Mt Kupe endemic from Southwest Cameroon.
   It is regionally relevant because its protologue compares it directly with
   [[Diospyros_conocarpa]] and shows that species discovery in Central African
-  *Diospyros* continued after Vol 18.
+  *Diospyros* continued after Vol 18. A second article ingest adds
+  [[Diospyros_korupensis]] and [[Diospyros_onanae]] from Cameroon, refining
+  comparison points around [[Diospyros_longiflora]] and
+  [[Diospyros_soyauxii]]. A third article revises the African
+  [[Diospyros_ferrea]] complex entirely, adds the Gabonese novelty
+  [[Diospyros_moutsambotei]], and shows that at least one more species,
+  [[Diospyros_smeathmannii]], occurs in Gabon.
 - **Female flowers unknown**: a recurring data gap in Menispermaceae —
   reported for [[Dialytheca_gossweileri]], [[Syrrheonema_fasciculatum]],
   [[Tiliacora_gabonensis]] and others. Breteler explicitly notes "about ten
   species remain poorly known, mostly because of missing female (or
   sometimes male) flowering material."
+- **Large early monographs need chunked ingest**: Vol 1 [[Sapotaceae]] is not
+  a small modern family treatment but a 170-page foundational monograph. The
+  wiki can ingest these safely, but
+  only in staged genus-level blocks such as [[Manilkara]], [[Letestua]],
+  [[Autranella]], [[Tieghemella]], [[Baillonella]], [[Lecomtedoxa]],
+  [[Neolemonniera]], [[Gluema]], [[Tridesmostemon]], [[Omphalocarpum]],
+  [[Englerophytum]], [[Wildemaniodoxa]], [[Zeyherella]], [[Tulestea]],
+  [[Afrosersalisia]], [[Pachystela]], [[Synsepalum]], [[Vincentella]],
+  [[Pseudopachystela]], [[Gambeya]], [[Delpydora]], [[Donella]], and
+  [[Aningueria]].
 - **Endemism**: at least 9 endemic Menispermaceae species in Gabon
   (*Albertisia* spp., *Synclisia oligogyna*, *Tiliacora gabonensis*,
   *Triclisia gabonensis*, *T. hypochrysea*, plus undescribed entities) —

@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "kind": "article",
+  "source": "/mnt/e/FloreDuGabon/article_pdfs/queued/diospyros_kupensis.pdf",
+  "article_id": "diospyros_kupensis",
+  "page_count": 6,
+  "figure_count": 1,
+  "char_count": 9413,
+  "elapsed_s": 0.7,
+  "generated_at": "2026-04-10T17:00:05.971569+00:00"
+}

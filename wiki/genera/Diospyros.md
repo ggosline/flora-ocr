@@ -3,8 +3,8 @@ type: genus
 name: Diospyros
 authority: L.
 family: Ebenaceae
-species_in_gabon: 30
-species_in_treatment: 39
+species_in_gabon: 32
+species_in_treatment: 46
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
@@ -12,6 +12,14 @@ treatments:
     year: 1998
     citation: "Gosline G. & Cheek M. (1998). A new species of Diospyros (Ebenaceae) from Southwest Cameroon. Kew Bulletin 53(2): 461-465."
     source: sources/articles/diospyros_kupensis/liteparse
+  - kind: article
+    year: 2009
+    citation: "Gosline G. (2009). Diospyros korupensis sp. nov. and Diospyros onanae sp. nov. (Ebenaceae) from Cameroon. Nordic Journal of Botany: 355-358."
+    source: sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse
+  - kind: article
+    year: 2025
+    citation: "Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P. (2025). A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."
+    source: sources/articles/plecevo_article_140561_en_1/liteparse
 tags: [genus]
 ---
 
@@ -49,14 +57,17 @@ genus of the family recorded in Gabon.
 | [[Diospyros_conocarpa\|*D. conocarpa*]] | yes | tree/shrub | Nigeria to Cabinda, including Gabon |
 | [[Diospyros_crassiflora\|*D. crassiflora*]] | yes | tree | major African ebony; Nigeria to both Congos and Gabon |
 | [[Diospyros_dendo\|*D. dendo*]] | yes | small tree | Nigeria to Angola, including Gabon and Mayombe |
-| [[Diospyros_ferrea\|*D. ferrea*]] | no | shrub/tree | palaeotropical; not recorded from Gabon in Vol 18 |
+| [[Diospyros_ferrea\|*D. ferrea*]] | no | shrub/tree | true species excluded from continental Africa in 2025 revision |
 | [[Diospyros_fragrans\|*D. fragrans*]] | yes | small tree | humid forest in Cameroon, Eq. Guinea, Gabon, Congo-Brazzaville |
 | [[Diospyros_gabunensis\|*D. gabunensis*]] | yes | shrub/tree | West-Central African humid forests, type from Gabon |
 | [[Diospyros_gilletii\|*D. gilletii*]] | yes | shrub | riverine Central African species including Gabon |
+| [[Diospyros_guineensis\|*D. guineensis*]] | no | shrub | coastal Ghana-Ivory Coast-Benin segregate from the old *D. ferrea* complex |
 | [[Diospyros_gracilescens\|*D. gracilescens*]] | yes | tree | Nigeria to Gabon in evergreen forest |
 | [[Diospyros_hoyleana\|*D. hoyleana*]] | yes | shrub/tree | Nigeria to Zambia, including Gabon |
 | [[Diospyros_iturensis\|*D. iturensis*]] | yes | shrub/tree | Nigeria to Angola, including Gabon |
+| [[Diospyros_moutsambotei\|*D. moutsambotei*]] | yes | treelet | Gabon-Cameroon-Congo basin riverine forest; **spec. nov. (2025)** |
 | [[Diospyros_kamerunensis\|*D. kamerunensis*]] | yes | shrub/tree | Cameroon and Gabon (Monts de Cristal) |
+| [[Diospyros_korupensis\|*D. korupensis*]] | no | tree | Korup National Park and adjacent Mt Cameroon foothills |
 | [[Diospyros_kupensis\|*D. kupensis*]] | no | treelet | Southwest Cameroon only (Mt Kupe); post-Vol 18 species described in 1998 |
 | [[Diospyros_longiflora\|*D. longiflora*]] | yes | shrub | known from one Cameroonian flowering specimen and one sterile Gabon specimen |
 | [[Diospyros_mannii\|*D. mannii*]] | yes | tree | widespread humid-forest species from Sierra Leone to Cabinda |
@@ -64,6 +75,7 @@ genus of the family recorded in Gabon.
 | [[Diospyros_mespiliformis\|*D. mespiliformis*]] | yes | tree | widespread African species, locally in Gabon |
 | [[Diospyros_monbuttensis\|*D. monbuttensis*]] | no | shrub | semi-deciduous forest species absent from Gabon in Vol 18 |
 | [[Diospyros_obliquifolia\|*D. obliquifolia*]] | yes | shrub | Cameroon, Eq. Guinea, Gabon, sporadically elsewhere |
+| [[Diospyros_onanae\|*D. onanae*]] | no | tree | southern Cameroon; known from only two collections |
 | [[Diospyros_physocalycina\|*D. physocalycina*]] | yes | shrub/tree | Nigeria, Cameroon, Gabon |
 | [[Diospyros_piscatoria\|*D. piscatoria*]] | yes | shrub/tree | humid evergreen forest species extending into Gabon |
 | [[Diospyros_platanoides\|*D. platanoides*]] | yes | shrub/tree | eastern Nigeria, western Cameroon, Gabon |
@@ -71,9 +83,11 @@ genus of the family recorded in Gabon.
 | [[Diospyros_preussii\|*D. preussii*]] | yes | shrub/tree | eastern Nigeria, Cameroon, Gabon |
 | [[Diospyros_pseudomespilus\|*D. pseudomespilus*]] | no | shrub/tree | not known from Gabon |
 | [[Diospyros_sanza_minika\|*D. sanza-minika*]] | yes | shrub/tree | Sierra Leone to Gabon |
+| [[Diospyros_smeathmannii\|*D. smeathmannii*]] | yes | shrub/tree | widespread west-to-central African riverine/swamp species; includes Estuaire records |
 | [[Diospyros_simulans\|*D. simulans*]] | yes | shrub/tree | Cameroon, Gabon, Cabinda |
 | [[Diospyros_soyauxii\|*D. soyauxii*]] | yes | shrub/tree | coastal Cameroon and Libreville region |
 | [[Diospyros_suaveolens\|*D. suaveolens*]] | yes | tree/shrub | Nigeria, Cameroon, Gabon |
+| [[Diospyros_suaheliensis\|*D. suaheliensis*]] | no | tree/shrub | East African coastal segregate from the old *D. ferrea* complex |
 | [[Diospyros_tricolor\|*D. tricolor*]] | yes | shrub | littoral scrub; distinctive coastal Gabon species |
 | [[Diospyros_vermoesenii\|*D. vermoesenii*]] | yes | shrub/tree | Mayombe and Monts de Cristal region |
 | [[Diospyros_viridicans\|*D. viridicans*]] | yes | tree | Sierra Leone to Cabinda, including Gabon |
@@ -112,6 +126,28 @@ taxonomy of the genus because the protologue compares it directly with
 [[Diospyros_conocarpa]] and documents continued species discovery in the
 Cameroon-Gabon forest block after the publication of Vol 18.
 
+### Nordic Journal of Botany (2009)
+
+Source: `sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse`.
+
+Gosline adds [[Diospyros_korupensis]] from Korup and adjacent Mt Cameroon
+localities, and [[Diospyros_onanae]] from two southern Cameroonian collections.
+The article is especially relevant to the genus page because it compares the
+new taxa explicitly with [[Diospyros_longiflora]], [[Diospyros_soyauxii]],
+[[Diospyros_gracilescens]], and [[Diospyros_tricolor]].
+
+### Plant Ecology and Evolution (2025)
+
+Source: `sources/articles/plecevo_article_140561_en_1/liteparse`.
+
+This article revises the African material formerly included in
+[[Diospyros_ferrea]] and recognizes five species instead:
+[[Diospyros_angolensis]], [[Diospyros_guineensis]],
+[[Diospyros_moutsambotei]], [[Diospyros_smeathmannii]], and
+[[Diospyros_suaheliensis]]. It is especially important to the genus page because
+it both adds a new Gabonese type-locality taxon and retroactively corrects a
+major older misapplication in the regional flora.
+
 ## Notes
 
 The genus is taxonomically difficult in this flora because foliar variation,
@@ -122,4 +158,8 @@ fruiting material, or even only from sterile Gabonese collections.
 Later article addenda show that regional *Diospyros* diversity was still
 incompletely known after Vol 18: [[Diospyros_kupensis]] was described from Mt
 Kupe in 1998 as a localized Cameroonian species close to
-[[Diospyros_conocarpa]].
+[[Diospyros_conocarpa]], while [[Diospyros_korupensis]] and
+[[Diospyros_onanae]] were added in 2009 from Korup/Mt Cameroon and southern
+Cameroon respectively. The 2025 *D. ferrea* revision goes further by breaking
+the old African concept into five species, including the Gabon-linked
+[[Diospyros_moutsambotei]].

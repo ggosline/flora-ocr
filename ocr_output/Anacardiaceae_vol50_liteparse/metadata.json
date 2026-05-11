@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 50 OK.pdf",
+  "vol_label": "50",
+  "family": "Anacardiaceae",
+  "page_count": 57,
+  "figure_count": 33,
+  "char_count": 107251,
+  "elapsed_s": 26.5,
+  "generated_at": "2026-04-11T23:50:07.161456+00:00"
+}

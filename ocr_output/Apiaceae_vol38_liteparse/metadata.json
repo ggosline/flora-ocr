@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 38 OK.pdf",
+  "vol_label": "38",
+  "family": "Apiaceae",
+  "page_count": 4,
+  "figure_count": 2,
+  "char_count": 5672,
+  "elapsed_s": 11.0,
+  "generated_at": "2026-04-11T23:34:29.007767+00:00"
+}

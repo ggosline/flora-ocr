@@ -441,3 +441,489 @@ Outcome:
 - family pages on the wiki increased from **5** to **21**
 - volumes represented increased from **2** to **13**
 - genus/species counts were intentionally unchanged (**26 genera / 86 species**) because this was not a deep taxon-by-taxon ingest pass
+
+## [2026-05-09] ingest | Diospyros korupensis + D. onanae (Nordic Journal of Botany, 2009)
+
+Source: `sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse`
+from the PDF under `article_pdfs/by_family/Ebenaceae/`. Article citation:
+Gosline G. (2009) "Diospyros korupensis sp. nov. and Diospyros onanae sp. nov.
+(Ebenaceae) from Cameroon." *Nordic Journal of Botany*, pp. 355-358.
+
+Created:
+- `species/Diospyros_korupensis.md`
+- `species/Diospyros_onanae.md`
+
+Updated:
+- `families/Ebenaceae.md`
+- `genera/Diospyros.md`
+- `species/Diospyros_soyauxii.md`
+- `index.md`
+- `overview.md`
+
+Notes:
+- Both species are **post-Vol 18 Cameroonian novelties**, so they were added as
+  regional comparator taxa rather than Gabonese occurrences.
+- The article is particularly valuable because it tightens the comparison space
+  around existing wiki species: [[Diospyros_korupensis]] is discussed against
+  [[Diospyros_longiflora]], while [[Diospyros_onanae]] is framed explicitly as
+  a small-leaved ally of [[Diospyros_soyauxii]] and also keyed against
+  [[Diospyros_gracilescens]] / [[Diospyros_tricolor]].
+- Figure links use the article-source paths directly under `sources/articles/.../liteparse/figures/`.
+
+## [2026-05-09] ingest | African Diospyros ferrea revision (Plant Ecology and Evolution, 2025)
+
+Source: `sources/articles/plecevo_article_140561_en_1/liteparse` from the PDF
+under `article_pdfs/by_family/Ebenaceae/`. Article citation: Mestre Serra E.,
+Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P.
+(2025) "A taxonomic revision of the continental African material previously
+included in Diospyros ferrea (Ebenaceae)." *Plant Ecology and Evolution*.
+
+Created:
+- `species/Diospyros_angolensis.md`
+- `species/Diospyros_guineensis.md`
+- `species/Diospyros_moutsambotei.md`
+- `species/Diospyros_smeathmannii.md`
+- `species/Diospyros_suaheliensis.md`
+
+Updated:
+- `species/Diospyros_ferrea.md`
+- `families/Ebenaceae.md`
+- `genera/Diospyros.md`
+- `index.md`
+- `overview.md`
+
+Notes:
+- This article is not a simple add-on: it **retroactively revises** the old
+  African concept of [[Diospyros_ferrea]] inherited from Vol 18 and shows that
+  none of the continental African material belongs to the true Indian-Sri
+  Lankan species.
+- The article recognizes five African species in that complex. The most
+  important for the Gabon wiki are [[Diospyros_moutsambotei]] (**spec. nov.**
+  with type locality in Ivindo National Park) and [[Diospyros_smeathmannii]],
+  which is now explicitly documented from Estuaire.
+
+## [2026-05-11] ingest | Huaceae + Taccaceae (Vol 38)
+
+Sources:
+- `sources/Huaceae_vol38_liteparse` (liteparse+pymupdf, 12 472 chars, 10 PDF pages, 4 figures detected). Author: Yves Azizet Issembe. Translated inline from `text.md`.
+- `sources/Taccaceae_vol38_liteparse` (liteparse+pymupdf, 14 754 chars, 9 PDF pages, 3 figures detected). Author: Marc S.M. Sosef. Translated inline from `text.md`.
+
+Created:
+- `families/Huaceae.md`
+- `families/Taccaceae.md`
+- `genera/Afrostyrax.md`
+- `genera/Hua.md`
+- `genera/Tacca.md`
+- `species/Afrostyrax_kamerunensis.md`
+- `species/Afrostyrax_lepidophyllus.md`
+- `species/Afrostyrax_macranthus.md`
+- `species/Hua_gabonii.md`
+- `species/Tacca_leontopetaloides.md`
+
+Updated:
+- `volumes/vol38.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `sources/Huaceae_vol38_liteparse/figures/fig_018_p0029.png` — Planche 5, linked from [[Afrostyrax_lepidophyllus]]
+- `sources/Huaceae_vol38_liteparse/figures/fig_019_p0031.png` — Planche 6, linked from [[Afrostyrax_macranthus]]
+- `sources/Huaceae_vol38_liteparse/figures/fig_020_p0033.png` — Planche 7, linked from [[Hua_gabonii]]
+- `sources/Taccaceae_vol38_liteparse/figures/fig_033_p0062.jpeg` — Planche 13, linked from [[Tacca_leontopetaloides]]
+
+Figures skipped:
+- `Huaceae` fig. 17 (page 25) and `Taccaceae` figs. 32 and 34 (pages 59 and 63) because the extracted figure inventory gives no usable caption and they appear to be family-opening or incomplete plate artefacts rather than uniquely informative species figures.
+
+Notes:
+- [[Huaceae]] adds the wiki's first **Oxalidales** family and contributes a small but distinctive African woody lineage defined by alliacous bark and seeds.
+- [[Taccaceae]] expands the Dioscoreales coverage beyond the delicate [[Burmanniaceae]] by adding a large stemless geophyte of open and coastal habitats.
+- The Huaceae species accounts do not give province-level Gabon distributions, so those frontmatter fields were left empty rather than guessed.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — initial chunk
+
+Source: `sources/Sapotaceae_vol01_paddle` (Paddle OCR; 170 PDF pages,
+223,124 characters, 31 figures detected). Author/editorial treatment:
+A. Aubréville, Vol 1 of *Flore du Gabon* (1961). No `text_en.md` was present,
+so the ingest was translated inline from the French `text.md`.
+
+Created:
+- `families/Sapotaceae.md`
+- `genera/Manilkara.md`
+- `species/Manilkara_le_testui.md`
+- `species/Manilkara_fouilloyana.md`
+- `species/Manilkara_lacera.md`
+- `species/Manilkara_microphylla.md`
+- `species/Manilkara_welwitschii.md`
+- `volumes/vol01.md`
+
+Updated:
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_004_p0033.png` — plate covering *Manilkara le-testui* and
+  *M. fouilloyana*; linked from both species pages.
+- `fig_005_p0039.png` — plate for *Manilkara microphylla*; linked from that
+  species page.
+- No source figures were linked for *M. lacera* or *M. welwitschii*.
+
+Notes:
+- This is the first ingest from the early Aubréville era and the first from
+  Vol 1. Unlike later short family treatments, Sapotaceae is a full
+  monograph and is being ingested in staged genus-level blocks.
+- The family treatment reports **23 genera** and stresses the importance of
+  Sapotaceae in primary humid forest; the current wiki materializes 48
+  accepted/present species pages from that Vol. 1 treatment.
+- The OCR intermittently gives the genus as `Manikara`; the wiki normalises
+  to the accepted spelling [[Manilkara]].
+- Some species pages intentionally leave `distribution_gabon` broad or empty
+  where the source account does not support province-level resolution.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Letestua + Autranella
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the initial Vol 1 Sapotaceae ingest). Translated inline from `text.md`.
+
+Created:
+- `genera/Letestua.md`
+- `species/Letestua_durissima.md`
+- `genera/Autranella.md`
+- `species/Autranella_congolensis.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_006_p0043.png` — Plate III, linked from [[Letestua_durissima]]
+- `fig_007_p0045.png` — Plate IV, linked from [[Autranella_congolensis]]
+
+Notes:
+- Both genera are effectively **monotypic in the Gabon treatment**, so this
+  pass added two genera while only adding two species pages.
+- [[Letestua]] is treated as a Gabon-Mayombe lineage with extremely hard
+  wood; the account explicitly reduces *Letestua floribunda* to synonymy
+  under [[Letestua_durissima]].
+- [[Autranella]] is morphologically clear at generic level, especially by its
+  seed scar and 4 + 4 calyx, but the treatment remains cautious about whether
+  more than one Central African species should ultimately be recognized.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Tieghemella + Baillonella
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Tieghemella.md`
+- `species/Tieghemella_africana.md`
+- `genera/Baillonella.md`
+- `species/Baillonella_toxisperma.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_008_p0051.png` — Plate V, linked from [[Tieghemella_africana]]
+- `fig_010_p0057.png` — Plate VI, linked from [[Baillonella_toxisperma]]
+
+Notes:
+- Both accounts are major timber trees and include unusually substantial
+  ecological and economic discussion for a flora treatment.
+- [[Tieghemella_africana]] is the Gabon-Cameroon **douka** tree, emphasized as
+  one of the great primary-forest emergents and noted for seeds yielding an
+  edible fat.
+- [[Baillonella_toxisperma]] is the classic **moabi** account. The source
+  spends several pages sorting out early nomenclatural confusion with
+  [[Tieghemella_africana]] and defending the priority of the epithet
+  `toxisperma`.
+- The southern form `Baillonella toxisperma` var. `obovata` is recorded in the
+  species notes but was not given a separate wiki species page because the
+  treatment itself keeps it below species rank.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Lecomtedoxa
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Lecomtedoxa.md`
+- `species/Lecomtedoxa_klaineana.md`
+- `species/Lecomtedoxa_saint-aubini.md`
+- `species/Lecomtedoxa_nogo.md`
+- `species/Lecomtedoxa_heitzana.md`
+- `species/Lecomtedoxa_biraudii.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_011_p0063.png` — Plate VII, linked from [[Lecomtedoxa_klaineana]]
+- `fig_012_p0067.png` — Plate VIII, linked from [[Lecomtedoxa_nogo]]
+- `fig_013_p0071.png` — Plate IX, linked from [[Lecomtedoxa_biraudii]]
+
+Notes:
+- The treatment presents [[Lecomtedoxa]] as a strongly Gabonese, probably
+  littoral genus centered on dehiscent one-seeded fruits and very hard wood.
+- Several species are poorly known: [[Lecomtedoxa_saint-aubini]] is based only
+  on the holotype in bud, and [[Lecomtedoxa_biraudii]] only on the type
+  collection.
+- [[Lecomtedoxa_nogo]] is ecologically distinctive as a Fernan Vaz lagoon
+  species of marshy ground, reportedly forming local stands and yielding seeds
+  used for edible fat.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Neolemonniera + Gluema
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Neolemonniera.md`
+- `species/Neolemonniera_ogouensis.md`
+- `genera/Gluema.md`
+- `species/Gluema_ivorensis.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_011_p0063.png` — Plate VII, linked from [[Neolemonniera_ogouensis]]
+- `fig_014_p0077.png` — Plate X, linked from [[Gluema_ivorensis]]
+
+Notes:
+- [[Neolemonniera]] is kept distinct largely on vegetative grounds: stipulate
+  pseudo-whorled leaves with conspicuous striation.
+- [[Gluema]] is separated from [[Lecomtedoxa]] by the position and fusion of
+  the staminodes despite sharing a dehiscent one-seeded fruit.
+- The treatment says the Gabonese [[Gluema_ivorensis]] should not be split
+  from the Ivorian material despite small differences.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Tridesmostemon
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Tridesmostemon.md`
+- `species/Tridesmostemon_omphalocarpoides.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_017_p0087.png` — Plate XIII, linked from
+  [[Tridesmostemon_omphalocarpoides]]
+
+Notes:
+- The treatment rejects `Nzidora` as distinct from [[Tridesmostemon]], on the
+  grounds that the number of anthers per staminal phalanx is too weak a
+  generic character.
+- The genus is explicitly contrasted with [[Omphalocarpum]] by its axillary
+  flowers and its stamens united into hairy phalanges.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Omphalocarpum
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Omphalocarpum.md`
+- `species/Omphalocarpum_procerum.md`
+- `species/Omphalocarpum_elatum.md`
+- `species/Omphalocarpum_le-testui.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_015_p0081.png` — Plate XI, linked from [[Omphalocarpum_procerum]]
+- `fig_016_p0085.png` — Plate XII, linked from [[Omphalocarpum_le-testui]]
+
+Notes:
+- The treatment treats [[Omphalocarpum]] as morphologically unmistakable,
+  especially by its trunk-borne fruits, but also argues that many names in the
+  genus probably collapse because too many were based only on seeds.
+- For the Gabon flora, the author keeps only **3 species**:
+  [[Omphalocarpum_procerum]], [[Omphalocarpum_elatum]], and
+  [[Omphalocarpum_le-testui]].
+- A seed-and-fruit-only `O. ogouense` is mentioned, but not retained among the
+  well-defined Gabonese species pages.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Englerophytum
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Englerophytum.md`
+- `species/Englerophytum_hallei.md`
+- `species/Englerophytum_kouloungense.md`
+- `species/Englerophytum_le-testui.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_018_p0093.png` — Plate XIV, linked from [[Englerophytum_hallei]]
+- `fig_023_p0111.png` — Plate XIX, linked from
+  [[Englerophytum_kouloungense]] and [[Englerophytum_le-testui]]
+
+Notes:
+- The treatment reduces former segregates such as `Bequaertiodendron` and
+  `Tisserantiodoxa` into [[Englerophytum]].
+- Two of the three Gabonese species remain notably incomplete in the source:
+  [[Englerophytum_kouloungense]] is based only on sterile material, and
+  [[Englerophytum_le-testui]] mainly on fruit.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Wildemaniodoxa + Zeyherella
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Wildemaniodoxa.md`
+- `species/Wildemaniodoxa_laurentii.md`
+- `genera/Zeyherella.md`
+- `species/Zeyherella_le-testui.md`
+- `species/Zeyherella_mayombense.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_019_p0097.png` — Plate XV, linked from [[Wildemaniodoxa_laurentii]]
+- `fig_020_p0099.png` — Plate XVI, linked from [[Zeyherella_le-testui]]
+- `fig_021_p0101.png` — Plate XVII, linked from [[Zeyherella_mayombense]]
+
+Notes:
+- [[Wildemaniodoxa]] is treated as morphologically unique in African
+  Sapotaceae because of its **10-lobed corolla**, **10 stamens**, and
+  **10-locular ovary**.
+- The treatment accepts **2 confirmed Gabonese species** of [[Zeyherella]] and
+  discusses a third riparian Congo species as probably occurring in Gabon but
+  not yet collected there.
+- The source explicitly rejects merging [[Zeyherella]] into
+  `Bequaertiodendron`.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Tulestea
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Tulestea.md`
+- `species/Tulestea_tomentosa.md`
+- `species/Tulestea_koulamoutouensis.md`
+- `species/Tulestea_gabonensis.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_022_p0107.png` — Plate XVIII, linked from all 3 Tulestea species with
+  the relevant panels identified in captions.
+
+Notes:
+- The treatment recognizes **3 Gabonese species** and suggests a probable
+  fourth still poorly known.
+- [[Tulestea]] is treated as close to [[Afrosersalisia]], but separated by its
+  nearly free sepals and very short staminal filaments.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — Afrosersalisia
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+the earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Afrosersalisia.md`
+- `species/Afrosersalisia_afzelii.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Figures used:
+- `fig_023_p0111.png` — Plate XIX, linked from
+  [[Afrosersalisia_afzelii]]
+
+Notes:
+- The treatment keeps [[Afrosersalisia]] separate from [[Synsepalum]] and
+  [[Pachystela]] by its scale-like staminodes and the small persistent cupule
+  formed by the calyx at the fruit base.
+- [[Afrosersalisia_afzelii]] is treated as a widespread humid-forest tree from
+  Sierra Leone to Gabon.
+
+## [2026-05-11] ingest | Sapotaceae (Vol 1) — final remaining genera
+
+Source: `sources/Sapotaceae_vol01_paddle` (same Paddle family split used for
+all earlier Sapotaceae genus blocks). Translated inline from `text.md`.
+
+Created:
+- `genera/Pachystela.md`
+- `species/Pachystela_brevipes.md`
+- `species/Pachystela_buluensis.md`
+- `genera/Synsepalum.md`
+- `species/Synsepalum_le-testui.md`
+- `species/Synsepalum_longecuneatum.md`
+- `species/Synsepalum_congolense.md`
+- `species/Synsepalum_fleuryanum.md`
+- `genera/Vincentella.md`
+- `species/Vincentella_ogouensis.md`
+- `genera/Pseudopachystela.md`
+- `species/Pseudopachystela_lastoursvillensis.md`
+- `species/Pseudopachystela_oyemensis.md`
+- `genera/Gambeya.md`
+- `species/Gambeya_boukokoensis.md`
+- `species/Gambeya_subnuda.md`
+- `species/Gambeya_africana.md`
+- `genera/Delpydora.md`
+- `species/Delpydora_macrophylla.md`
+- `genera/Donella.md`
+- `species/Donella_ogowensis.md`
+- `species/Donella_pentagonocarpa.md`
+- `species/Donella_pruniformis.md`
+- `species/Donella_welwitschii.md`
+- `genera/Aningueria.md`
+- `species/Aningueria_altissima.md`
+
+Updated:
+- `families/Sapotaceae.md`
+- `volumes/vol01.md`
+- `index.md`
+- `overview.md`
+
+Notes:
+- This completes the accepted Gabonese genera and species from the Vol 1
+  Sapotaceae treatment.
+- I preserved the source limits instead of smoothing them away:
+  [[Pachystela_buluensis]] remains poorly known,
+  [[Synsepalum_fleuryanum]] is known only from buds,
+  [[Vincentella_ogouensis]] still lacks a known fruit in the treatment, and
+  several [[Donella]] and [[Gambeya]] entities are treated as highly variable.

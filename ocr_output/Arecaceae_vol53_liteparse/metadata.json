@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 53 OK.pdf",
+  "vol_label": "53",
+  "family": "Arecaceae",
+  "page_count": 77,
+  "figure_count": 50,
+  "char_count": 138894,
+  "elapsed_s": 23.9,
+  "generated_at": "2026-04-11T23:51:16.518616+00:00"
+}

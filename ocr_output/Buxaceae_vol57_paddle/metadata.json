@@ -1,0 +1,26 @@
+{
+  "vol_label": "57",
+  "family": "Buxaceae",
+  "pdf_filename": "FdG vol. 57 OK.pdf",
+  "pipeline": "PaddleOCRVL v1.5",
+  "dpi": 150,
+  "page_count": 183,
+  "figure_count": 2,
+  "markdown_char_count": 5609,
+  "processing_time_seconds": 2477.23,
+  "figures": [
+    {
+      "filename": "fig_019_p0030.png",
+      "page": 30,
+      "caption": null,
+      "label": "image"
+    },
+    {
+      "filename": "fig_020_p0033.png",
+      "page": 33,
+      "caption": "J.M.LERINCKX\nPlanche 8. Buxus acutata: 1. Rameau florifère et fructifère (× ½). − 2. Fleur mâle épanouie (× 3). − 3. Fleur femelle épanouie (× 3). − 4. Valve de la capsule, face externe (× 3). − 5. Idem, face interne (× 3). − 6. Graine, vue de profil (× 3). (1-6: Stuhlmann 2647). Dessin par J.M. Lerinckx, Jardin botanique de Meise (©), reproduit à partir de Robyns (1960).",
+      "label": "image"
+    }
+  ],
+  "completed_at": "2026-04-12T00:59:26.770408+00:00"
+}

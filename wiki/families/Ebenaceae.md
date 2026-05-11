@@ -4,7 +4,7 @@ name: Ebenaceae
 authority: Gurke
 order: Ericales
 genera_in_gabon: 1
-species_in_gabon: 30
+species_in_gabon: 32
 species_treated_in_vol18: 38
 treatments:
   - vol: 18
@@ -18,6 +18,18 @@ treatments:
     pages: "461-465"
     citation: "A new species of Diospyros (Ebenaceae) from Southwest Cameroon. Kew Bulletin 53(2)."
     source: sources/articles/diospyros_kupensis/liteparse
+  - kind: article
+    year: 2009
+    authors: [Gosline G.]
+    pages: "355-358"
+    citation: "Diospyros korupensis sp. nov. and Diospyros onanae sp. nov. (Ebenaceae) from Cameroon. Nordic Journal of Botany."
+    source: sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse
+  - kind: article
+    year: 2025
+    authors: [Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H., Lowry II P.P.]
+    pages: "1-18"
+    citation: "A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."
+    source: sources/articles/plecevo_article_140561_en_1/liteparse
 tags: [family]
 ---
 
@@ -44,14 +56,18 @@ identification. In Gabon the family is represented only by [[Diospyros]].
 Pantropical. The family comprises two genera globally, but in tropical Africa
 the flora treated here is overwhelmingly centered on *Diospyros*. Vol 18
 recognises **38 species** in the Cameroon-Gabon treatment area, of which **30
-are recorded from Gabon**. The wiki also includes one later article-based
-species page, [[Diospyros_kupensis]], a Cameroonian endemic described in 1998.
+are recorded from Gabon**. The wiki also includes later article-based species
+pages for [[Diospyros_kupensis]], [[Diospyros_korupensis]], and
+[[Diospyros_onanae]], all Cameroonian species relevant to regional comparison.
+The 2025 revision of African material formerly placed in [[Diospyros_ferrea]]
+adds a new Gabonese type-locality species, [[Diospyros_moutsambotei]], and
+several additional regional comparator taxa.
 
 ## Genera in Gabon
 
 | Genus | Species in Gabon | Treatment |
 |-------|------------------|-----------|
-| [[Diospyros]] | 30 (38 treated in Vol 18) | [[#Vol 18 (1970)]] |
+| [[Diospyros]] | 32 currently on the wiki (30 in Vol 18) | [[#Vol 18 (1970)]] |
 
 ## Treatments
 
@@ -79,6 +95,32 @@ species in Southwest Cameroon. It is not part of the *Flore du Gabon* proper,
 but it is relevant to the regional circumscription of *Diospyros* because it is
 compared explicitly with [[Diospyros_conocarpa]].
 
+### Nordic Journal of Botany (2009)
+
+**Authors**: George Gosline
+**Pages**: 355-358
+**Source**: `sources/articles/nordic_journal_of_botany_2009_gosline_diospyros_korupensis_sp_nov_and_diospyros_onanae_sp_nov_ebenaceae_from/liteparse`
+
+This article adds two more post-volume Cameroonian species,
+[[Diospyros_korupensis]] and [[Diospyros_onanae]]. The first is treated as
+close to [[Diospyros_longiflora]], while the second is described as allied to
+[[Diospyros_soyauxii]]. Together they show that species discovery and
+re-circumscription in regional *Diospyros* continued well after Vol 18.
+
+### Plant Ecology and Evolution (2025)
+
+**Authors**: Edgard Mestre Serra, Carmen Puglisi, Alexander G. Linan, Nattanon Meeprom, Hasina N. Rakouth, Heidi H. Schmidt, Porter P. Lowry II
+**Pages**: 1-18
+**Source**: `sources/articles/plecevo_article_140561_en_1/liteparse`
+
+This revision shows that the old African concept of [[Diospyros_ferrea]] used
+in Vol 18 is not conspecific with the Indian-Sri Lankan type species. The
+African material is redistributed among five species:
+[[Diospyros_angolensis]], [[Diospyros_guineensis]],
+[[Diospyros_moutsambotei]], [[Diospyros_smeathmannii]], and
+[[Diospyros_suaheliensis]]. Of these, [[Diospyros_moutsambotei]] is the
+Gabonese novelty and has its type locality in Ivindo National Park.
+
 ## Notes
 
 The source consistently links species delimitation to ecology: some taxa are
@@ -94,7 +136,12 @@ species pages via the source citation and notes.
 
 The family remains represented in Gabon by a single genus, [[Diospyros]], but
 post-volume articles continue to add regional context and new non-Gabon species
-that may matter for comparison and identification work.
+that may matter for comparison and identification work. The 2009 article is
+especially useful because it refines comparison points around
+[[Diospyros_longiflora]] and [[Diospyros_soyauxii]], two species already on the
+wiki from the Vol 18 treatment. The 2025 revision is more disruptive: it
+retroactively breaks up the African [[Diospyros_ferrea]] concept inherited from
+Vol 18 and adds [[Diospyros_moutsambotei]] as a new Gabon-linked species.
 
 ## See also
 

@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 60 OK.pdf",
+  "vol_label": "60",
+  "family": "Dilleniaceae",
+  "page_count": 12,
+  "figure_count": 17,
+  "char_count": 27157,
+  "elapsed_s": 28.5,
+  "generated_at": "2026-04-11T23:54:53.849517+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "liteparse+pymupdf",
+  "source": "/mnt/e/FloreDuGabon/FdG vol. 42 OK.pdf",
+  "vol_label": "42",
+  "family": "Aristolochiaceae",
+  "page_count": 12,
+  "figure_count": 7,
+  "char_count": 16569,
+  "elapsed_s": 120.6,
+  "generated_at": "2026-04-11T23:39:00.825181+00:00"
+}
