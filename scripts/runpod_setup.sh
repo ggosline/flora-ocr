@@ -26,3 +26,5 @@ echo "=== Starting OCR ==="
 python -m flora_ocr.ocr.paddle --vol 18
 
 echo "=== Done $(date) ==="
+echo "Results in /workspace/flora-ocr/ocr_output/ — pod kept alive for retrieval"
+sleep infinity
