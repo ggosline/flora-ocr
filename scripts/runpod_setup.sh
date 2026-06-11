@@ -10,8 +10,8 @@ cd /workspace
 git clone https://github.com/ggosline/flora-ocr.git
 cd flora-ocr
 
-echo "=== Installing PaddlePaddle GPU (cu124) ==="
-pip install -q paddlepaddle-gpu -i https://www.paddlepaddle.org.cn/packages/stable/cu124/
+echo "=== Installing PaddlePaddle GPU (cu126) ==="
+pip install -q paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
 
 echo "=== Installing PaddleOCR deps ==="
 pip install -q --ignore-installed blinker
