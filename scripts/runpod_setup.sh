@@ -10,12 +10,15 @@ cd /workspace
 git clone https://github.com/ggosline/flora-ocr.git
 cd flora-ocr
 
+echo "=== Clearing pip cache to free disk space ==="
+pip cache purge || true
+
 echo "=== Installing PaddlePaddle GPU (cu126) ==="
-pip install -q paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+pip install -q --no-cache-dir paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
 
 echo "=== Installing PaddleOCR deps ==="
-pip install -q --ignore-installed blinker
-pip install -q paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
+pip install -q --no-cache-dir --ignore-installed blinker
+pip install -q --no-cache-dir paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
 pip install -q -e .
 
 echo "=== Downloading vol 18 PDF ==="
