@@ -12,6 +12,8 @@ habitat: [evergreen humid forest]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 
@@ -45,11 +47,12 @@ White 8558,lac Ejaghan pres Mamfe (ster.) FHO;855g (type),eod. loc. (fl., mars).
 
 ### Material studied in Gabon
 
-## Figures
-
-![Plate 27: *Diospyros zenkeri* (1-9), *D. vermoesenii* (10-18), and *D. platanoides* (19-23).](../sources/Ebenaceae_vol18_paddle/figures/fig_027_p0169.png)
 
 Le Testu 855o, Koulamotou,4o km SSW Lastoursville (fl., nov.).
+
+## Figures
+
+![Plate 27 — *Diospyros zenkeri* (parts 1–9), *D. vermoesenii* (parts 10–18), and *D. platanoides* (parts 19–23). Platanoides: 19, leaf; 20, male inflorescence; 21, male flower; 22, corolla fragment and androecium; 23, stamen.](../sources/Ebenaceae_vol18_paddle/figures/fig_027_p0169.png)
 
 ## Source
 

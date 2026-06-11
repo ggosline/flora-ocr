@@ -12,6 +12,8 @@ habitat: [dry forest, semi-deciduous forest edge, rocky slopes]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species, not-in-gabon]
 ---
 

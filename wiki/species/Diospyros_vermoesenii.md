@@ -12,6 +12,8 @@ habitat: [Mayombe forest, humid forest]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 
@@ -43,9 +45,10 @@ Le Testu 185g et 186o (types  et ♀ de Maba mayombensis Pellegr.)，Tchibanga (
 
 Touzet 61,Nkoulounga,55 km NE Libreville (fl.,oct.)；7o,eod.loc.(fl., oct.)，cet échantillon formant nettement transition avec D.Hoyleana F.White.
 
+## Figures
+
+![Plate 27 — *Diospyros zenkeri* (parts 1–9), *D. vermoesenii* (parts 10–18), and *D. platanoides* (parts 19–23). Vermoesenii: 10, leaf; 11, male inflorescence; 12, male flower; 13, corolla fragment and androecium; 14, stamen; 15, female inflorescence; 16, female flower; 17, gynoecium; 18, fruit.](../sources/Ebenaceae_vol18_paddle/figures/fig_027_p0169.png)
+
 ## Source
 
 Letouzey R. & White F. (1970) *Ebenacees*. In: Halle N. (ed.), *Flore du Gabon, Volume 18*. Museum national d'Histoire naturelle, Paris. Source on disk: `sources/Ebenaceae_vol18_mineru`.
-## Figures
-
-![Plate 27: *Diospyros zenkeri* (1-9), *D. vermoesenii* (10-18), and *D. platanoides* (19-23).](../sources/Ebenaceae_vol18_paddle/figures/fig_027_p0169.png)

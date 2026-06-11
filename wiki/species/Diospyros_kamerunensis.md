@@ -12,6 +12,8 @@ habitat: [humid forest]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 
@@ -57,9 +59,10 @@ Zenker 74 (?),Bipindi (?) (fl.δ) B;945 b (type :945 a + b),Bipindi (fl.δ, mai)
 
 Klaine I27,Libreville (fl. ，sept.)；399 (type de D. spherocarpa Pierre ex De Wild.)et 7I2，mont Bouet pres Libreville (fr.，févr. et déc.)；1314, presLibreville (fr.?)；1392,Libreville (fll.et fr.in carpoth.P,févr.)；1652 et 1971,Libreville (stér.)；3248,Libreville (fll.et fr.in carpoth.P,févr.); s.n.,eod.loc.(j.fl.) *. Morel 143 SRF, Moum pres Libreville (j. fr., déc.).
 
+
 ## Figures
 
-![Plate 13: *Diospyros kamerunensis*. 1, leaf; 2, leaf fragment, lower surface; 3, male inflorescences; 4, male flower; 5, androecium; 6, stamen; 7, female inflorescences; 8, gynoecium; 9, fruit.](../sources/Ebenaceae_vol18_paddle/figures/fig_013_p0101.png)
+![Plate 13 — *Diospyros kamerunensis*: 1, leaf; 2, leaf fragment, lower surface; 3, male inflorescences; 4, male flower; 5, androecium; 6, stamen; 7, female inflorescences; 8, gynoecium; 9, fruit.](../sources/Ebenaceae_vol18_paddle/figures/fig_013_p0101.png)
 
 ## Source
 

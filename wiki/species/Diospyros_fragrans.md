@@ -12,6 +12,8 @@ habitat: [very humid forest]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 

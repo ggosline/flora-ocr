@@ -12,6 +12,8 @@ habitat: []
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
   - kind: article
     year: 2025
     citation: "Mestre Serra E., Puglisi C., Linan A.G., Meeprom N., Rakouth H.N., Schmidt H.H. & Lowry II P.P. (2025). A taxonomic revision of the continental African material previously included in Diospyros ferrea (Ebenaceae). Plant Ecology and Evolution."

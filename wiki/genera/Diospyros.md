@@ -7,7 +7,7 @@ species_in_gabon: 32
 species_in_treatment: 46
 treatments:
   - vol: 18
-    source: sources/Ebenaceae_vol18_mineru
+    source: sources/Ebenaceae_vol18_paddle
   - kind: article
     year: 1998
     citation: "Gosline G. & Cheek M. (1998). A new species of Diospyros (Ebenaceae) from Southwest Cameroon. Kew Bulletin 53(2): 461-465."
@@ -110,7 +110,7 @@ specimen-level identification.
 
 ### Vol 18 (1970)
 
-Source: `sources/Ebenaceae_vol18_mineru`.
+Source: `sources/Ebenaceae_vol18_paddle`.
 
 Letouzey and White treat *Diospyros* in exceptional joint Cameroon-Gabon
 fashion because the floras overlap strongly. The treatment recognises 36

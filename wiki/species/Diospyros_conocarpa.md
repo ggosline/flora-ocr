@@ -12,6 +12,8 @@ habitat: [evergreen humid forest, Gilbertiodendron forest]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 
@@ -58,9 +60,10 @@ Zenker 5g5,Bipindi (fl.δet fl. ♀,mai I914) P,B.;3548,Bipindi (fl. Ω,nov.) P,
 
 Breteler (et van Raalte) 5628,Gamba (5o km SE Setté Cama) (stér.); (et van Raalte) 565g,eod.loc. (fl.,sept.);5774，5o km SE Lambaréné (stér.), omn.WAG. Chevalier 26832,Assoukou pres Kango sur le Komo (fll. juv., oct.)； 27059, Aledjo sur le Ramboué (fl. δ,oct.). Hallé N. 2I92,Abanga (stér., juin). Halle N.et Villiers 5179,mont Mvelakéné (monts de Cristal) (stér.,févr.). Klaine 87,Libreville (fl.3)；147,sin. loc. (fl.,oct.)；229,sin. loc.(fr.)；287, sin.loc.(fl.et fr.,nov.et janv.); 5g2,Libreville (fl.,fl.,fr.,oct.,nov., fevr.);1231,sin.loc.(fl.,fl.♀,oct.)； 141o,sin.loc.(fl.,nov.)； 16g8,pres Libreville (fl.,oct.)；2o61,sin.loc.(fl.，nov.)；2164，sin.loc.(path., mars)；2262,sin.loc. (path.,mars)；2441,sin. loc.(fl.,nov.). Le Testu 2I3g,Ivoungou pres Mouila (fl.,oct.);2I59,Etamba pres Sindara (fl.,oct.)； 7577,Lastoursville (fl.,oct.)； 762g bis,Lastoursville (fl., nov.)；78o1，Youlou pres Lastoursville (fl.，déc.)；8541，Malendé pres Lastoursville (fl.δ,nov.)；857o,Maciya,a mi-distance entre Lastoursville et Sindara (fl.&,déc.)；8942，Mbangodécahoyo，75 km ESE Makokou (fl s,oct.). Soyaux 57 (et I36 fide MILDBRAED loc.cit.) (type de déc.188o de D.conocarpa Gürke et K.Schum.et syntype de janv.188o,par erreur,de D.Staudtii Gurke), Sibange farm (fl. ♀,fr., dec.).
 
+## Figures
+
+![Plate 5 — *Diospyros conocarpa*: 1, leaf, lower surface; 2, leaf fragment; 3, male inflorescence with abnormal leaf; 4, male flower; 5–6, androecium and stamens; 7, female inflorescence; 8, sepal and female corolla; 9, gynoecium and staminode; 10, fruit.](../sources/Ebenaceae_vol18_paddle/figures/fig_005_p0057.png)
+
 ## Source
 
 Letouzey R. & White F. (1970) *Ebenacees*. In: Halle N. (ed.), *Flore du Gabon, Volume 18*. Museum national d'Histoire naturelle, Paris. Source on disk: `sources/Ebenaceae_vol18_mineru`.
-## Figures
-
-![Plate 5: *Diospyros conocarpa*. 1-1', leaf and leaf fragment; 2, inflorescence and abnormal leaf; 3, flower; 4-5, androecium and stamens; 6, female inflorescence; 7-8, sepal and corolla of female flower; 9-10, gynoecium and staminode; 11, fruit.](../sources/Ebenaceae_vol18_paddle/figures/fig_005_p0057.png)

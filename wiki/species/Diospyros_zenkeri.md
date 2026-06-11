@@ -12,6 +12,8 @@ habitat: [evergreen humid forest]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 
@@ -50,9 +52,10 @@ Fleury 33675 in herb. Chevalier,pres Libreville (ster.). Klaine 865,sin. loc. (f
 A cette espéce se trouvent rattachés deux échantillons de la région de Lastoursville : Le Testu 8414 (Libéla,6o km ENE Mbigou, soit env. Ioo km SSW Lastoursville, fl. &,oct.) et 8487 (Lastoursville,fl. δ,oct.） qui pourraient étre considérés comme des hybrides de D.Zenkeri(Gurke)F.White et de D.iturensis (Gürke)R.Let.et F.White car, si par leurs fleurs ils se rapprochent de la premiere espéce,par les feuilles ils se rapprocheraient plutot de la seconde;des recherches sur le terrain dans la région de Lastoursville sont donc désirables pour éclaircir cette question.
 
 
+## Figures
+
+![Plate 27 — *Diospyros zenkeri* (parts 1–9), *D. vermoesenii* (parts 10–18), and *D. platanoides* (parts 19–23). Zenkeri: 1, leaf, lower surface; 2, male inflorescence; 3, male flower; 4, corolla fragment and androecium; 5, stamen; 6, female flower; 7, gynoecium and staminode; 8–9, fruit.](../sources/Ebenaceae_vol18_paddle/figures/fig_027_p0169.png)
+
 ## Source
 
 Letouzey R. & White F. (1970) *Ebenacees*. In: Halle N. (ed.), *Flore du Gabon, Volume 18*. Museum national d'Histoire naturelle, Paris. Source on disk: `sources/Ebenaceae_vol18_mineru`.
-## Figures
-
-![Plate 27: *Diospyros zenkeri* (1-9), *D. vermoesenii* (10-18), and *D. platanoides* (19-23).](../sources/Ebenaceae_vol18_paddle/figures/fig_027_p0169.png)

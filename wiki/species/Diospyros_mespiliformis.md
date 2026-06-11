@@ -12,6 +12,8 @@ habitat: [dry forest, riverine forest, savanna woodland]
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru
+  - vol: 18
+    source: sources/Ebenaceae_vol18_paddle
 tags: [species]
 ---
 
@@ -49,9 +51,10 @@ Note: *Diospyros elliotii* (Hiern ex Scott Elliot) F. White, equal to *Maba mann
 
 It is distinguished as a small tree not exceeding 12 m in height, with glabrous lanceolate leaves up to 12 x 5 cm, only weakly acuminate and rounded at the apex; 5-6 pairs of lateral veins with veinlets scarcely visible; flowers in axillary clusters or on older branchlets, with calyx 3 mm long, finely pubescent, and bearing 3-4 deep rounded lobes; corolla 6 mm long with 3 lobes 2 mm long; globose orange glabrous fruits 2-2.5 cm in diameter, with scarcely accrescent fruiting calyx bearing 3-4 rounded lobes; seeds with ruminate endosperm.
 
+
 ## Figures
 
-![Plate 16: *Diospyros mespiliformis* (1-12) and *D. ferrea* (13-22).](../sources/Ebenaceae_vol18_paddle/figures/fig_016_p0115.png)
+![Plate 16 — *Diospyros mespiliformis* (parts 1–12) and *D. ferrea* (parts 13–22). Mespiliformis: 1, leaf; 2, male inflorescence; 3, male flower; 4, androecium; 5, stamen; 6, female inflorescence; 7, female flower and sepal; 8, gynoecium; 9, female corolla; 10, staminodes; 11–12, fruits.](../sources/Ebenaceae_vol18_paddle/figures/fig_016_p0115.png)
 
 ## Source
 
