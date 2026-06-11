@@ -10,7 +10,10 @@ config so the same scripts work for any flora.
 from __future__ import annotations
 
 import re
-import tomllib
+try:
+    import tomllib
+except ImportError:
+    import tomli as tomllib  # type: ignore[no-redef]  # Python 3.10 backport
 from dataclasses import dataclass
 from pathlib import Path
 

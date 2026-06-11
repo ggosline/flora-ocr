@@ -2,7 +2,7 @@ title = "Flore du Gabon"
 language = "fr"
 
 # Paths are relative to the repo root unless absolute.
-pdf_dir = "FloreDuGabon"
+pdf_dir = "floras/flore_du_gabon"
 output_dir = "ocr_output"
 
 # Glob used to enumerate source PDFs in pdf_dir.

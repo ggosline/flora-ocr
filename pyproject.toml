@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "flora-ocr"
 version = "0.1.0"
 description = "OCR pipeline for botanical floras: scanned PDFs to interactive identification keys and an LLM-maintained wiki."
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 authors = [{ name = "George Gosline", email = "george.gosline@gmail.com" }]
 license = { text = "MIT" }
 readme = "README.md"
@@ -17,6 +17,7 @@ dependencies = [
     "anthropic",
     "pymupdf",
     "streamlit",
+    "tomli>=2.0; python_version<'3.11'",
 ]
 
 [project.scripts]
