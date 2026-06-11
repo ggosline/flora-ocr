@@ -14,6 +14,7 @@ echo "=== Installing PaddlePaddle GPU (cu118) ==="
 pip install -q paddlepaddle-gpu==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu118/
 
 echo "=== Installing PaddleOCR deps ==="
+pip install -q --ignore-installed blinker
 pip install -q paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
 pip install -q -e .
 
