@@ -581,7 +581,11 @@ def _warmup_pipeline(pipeline) -> None:
     import numpy as np
 
     blank = np.full((640, 480, 3), 255, dtype=np.uint8)
-    print("Warming up VLM — first run downloads ~1 GB of weights …", flush=True)
+    print(
+        "Warming up pipeline — a first native run downloads ~1 GB of weights; "
+        "a vllm-server run checks the server answers …",
+        flush=True,
+    )
     t0 = time.monotonic()
     stop_hb = _start_heartbeat("VLM warmup", interval=30.0)
     try:
@@ -961,6 +965,17 @@ def main():
         "--no-warmup", action="store_true",
         help="Skip the throwaway warmup page (weights then download during page 1)",
     )
+    parser.add_argument(
+        "--vl-backend", choices=("native", "vllm-server"), default="native",
+        help="VLM inference backend. 'native' runs the VLM in-process via "
+             "PaddlePaddle (simple, ~10x slower). 'vllm-server' offloads it to a "
+             "running `paddleocr genai_server` (default: native)",
+    )
+    parser.add_argument(
+        "--vl-server-url", default="http://127.0.0.1:8118/v1", metavar="URL",
+        help="Base URL of the genai server when --vl-backend=vllm-server "
+             "(default: http://127.0.0.1:8118/v1)",
+    )
     add_flora_arg(parser)
     args = parser.parse_args()
     _apply_flora(args.flora)
@@ -1009,12 +1024,22 @@ def main():
         # Load pipeline once — avoids reloading weights per volume.
         print("Loading PaddleOCR VL pipeline …", flush=True)
         from paddleocr import PaddleOCRVL
-        pipeline = PaddleOCRVL(
-            pipeline_version="v1.5",
-            device=pipeline_device,
-            use_doc_orientation_classify=False,
-            use_doc_unwarping=False,
-        )
+        pipeline_kwargs = {
+            "pipeline_version": "v1.5",
+            "device": pipeline_device,
+            "use_doc_orientation_classify": False,
+            "use_doc_unwarping": False,
+        }
+        if args.vl_backend == "vllm-server":
+            # Only the VLM moves to the server; layout detection still runs
+            # in-process on the local GPU, so both share GPU memory.
+            pipeline_kwargs["vl_rec_backend"] = "vllm-server"
+            pipeline_kwargs["vl_rec_server_url"] = args.vl_server_url
+            print(f"VLM backend: vllm-server at {args.vl_server_url}", flush=True)
+        else:
+            print("VLM backend: native (in-process PaddlePaddle)", flush=True)
+
+        pipeline = PaddleOCRVL(**pipeline_kwargs)
         print("Pipeline ready.\n", flush=True)
         if not args.no_warmup:
             _warmup_pipeline(pipeline)

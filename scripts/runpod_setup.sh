@@ -82,6 +82,68 @@ pip install -q --no-cache-dir --ignore-installed blinker
 pip install -q --no-cache-dir paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
 pip install -q -e .
 
+# The in-process ("native") VLM backend runs about 1 min/page. Offloading the
+# VLM to a local vLLM server is the supported fast path. Set VL_BACKEND=native
+# to opt out.
+VL_BACKEND="${VL_BACKEND:-vllm-server}"
+VL_PORT="${VL_PORT:-8118}"
+VL_MODEL="${VL_MODEL:-PaddleOCR-VL-1.5-0.9B}"   # must match pipeline_version v1.5
+# Layout detection still runs in-process on the same GPU, so vLLM must not
+# claim all of it.
+VL_GPU_FRAC="${VL_GPU_FRAC:-0.70}"
+VL_URL="http://127.0.0.1:${VL_PORT}/v1"
+SERVER_LOG=/workspace/genai_server.log
+
+start_genai_server() {
+    echo "=== Installing vLLM genai-server deps (large — a few minutes) ==="
+    paddleocr install_genai_server_deps vllm
+
+    echo "=== Starting genai server: $VL_MODEL on port $VL_PORT ==="
+    local cfg=/workspace/genai_backend_config.yaml
+    echo "gpu-memory-utilization: $VL_GPU_FRAC" > "$cfg"
+
+    paddleocr genai_server \
+        --model_name "$VL_MODEL" \
+        --backend vllm \
+        --host 127.0.0.1 \
+        --port "$VL_PORT" \
+        --backend_config "$cfg" \
+        > "$SERVER_LOG" 2>&1 &
+    GENAI_PID=$!
+
+    # The server loads the model before it answers. Poll the OpenAI-compatible
+    # /v1/models endpoint rather than sleeping a fixed amount.
+    echo "  waiting for $VL_URL to answer (up to 15 min) …"
+    for i in $(seq 1 180); do
+        if ! kill -0 "$GENAI_PID" 2>/dev/null; then
+            echo "ERROR: genai server exited during startup. Last 40 lines:" >&2
+            tail -40 "$SERVER_LOG" >&2
+            return 1
+        fi
+        if curl -sf --max-time 5 "$VL_URL/models" > /dev/null 2>&1; then
+            echo "  server ready after $((i * 5))s (pid $GENAI_PID)"
+            return 0
+        fi
+        sleep 5
+    done
+
+    echo "ERROR: genai server not ready after 15 min. Last 40 lines:" >&2
+    tail -40 "$SERVER_LOG" >&2
+    kill "$GENAI_PID" 2>/dev/null || true
+    return 1
+}
+
+OCR_ARGS=()
+if [ "$VL_BACKEND" = "vllm-server" ]; then
+    if start_genai_server; then
+        OCR_ARGS=(--vl-backend vllm-server --vl-server-url "$VL_URL")
+    else
+        echo "WARNING: falling back to the native backend (~1 min/page)" >&2
+        VL_BACKEND=native
+    fi
+fi
+echo "=== VLM backend: $VL_BACKEND ==="
+
 # Zenodo record IDs for the 61 Flore du Gabon volumes (same list as
 # floras/flore_du_gabon/download.sh). Not ordered by volume number, so we
 # query each record for its filename and match.
@@ -161,7 +223,7 @@ echo "=== Starting OCR ==="
 failed=()
 for vol in "${VOLS[@]}"; do
     echo "--- vol $vol ---"
-    if ! python -u -m flora_ocr.ocr.paddle --vol "$vol"; then
+    if ! python -u -m flora_ocr.ocr.paddle --vol "$vol" "${OCR_ARGS[@]}"; then
         echo "ERROR: vol $vol failed" >&2
         failed+=("$vol")
     fi
