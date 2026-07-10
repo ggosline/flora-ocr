@@ -525,25 +525,70 @@ def parse_page_blocks(result, page_num: int, fig_idx_start: int):
 # Render worker
 # ---------------------------------------------------------------------------
 
-def _render_pages(doc, n_pages: int, mat, out_queue: queue.Queue, ahead: int) -> None:
+def _render_pages(doc, n_pages: int, mat, out_queue: queue.Queue, errors: list) -> None:
     """Background thread: render PDF pages to numpy arrays and push to a queue.
 
     Produces (page_idx, np.ndarray) tuples with shape (H, W, 3) uint8 RGB.
-    Puts None as a sentinel when done.  The queue size is capped at `ahead`
-    so the thread doesn't race far ahead of the OCR loop.
+    Puts None as a sentinel when done — including on failure, otherwise the
+    consumer blocks on an empty queue forever. Any exception is appended to
+    *errors* for the main thread to re-raise.
     """
     import numpy as np
 
-    for page_idx in range(n_pages):
-        pixmap = doc[page_idx].get_pixmap(matrix=mat, colorspace=fitz.csRGB)
-        # Copy into a new array — frombuffer gives a read-only view into
-        # PyMuPDF's internal buffer which is freed when pixmap goes out of scope.
-        img = np.frombuffer(pixmap.samples, dtype=np.uint8).reshape(
-            pixmap.height, pixmap.width, 3
-        ).copy()
-        out_queue.put((page_idx, img))
+    try:
+        for page_idx in range(n_pages):
+            pixmap = doc[page_idx].get_pixmap(matrix=mat, colorspace=fitz.csRGB)
+            # Copy into a new array — frombuffer gives a read-only view into
+            # PyMuPDF's internal buffer which is freed when pixmap goes out of scope.
+            img = np.frombuffer(pixmap.samples, dtype=np.uint8).reshape(
+                pixmap.height, pixmap.width, 3
+            ).copy()
+            out_queue.put((page_idx, img))
+    except BaseException as exc:  # noqa: BLE001 — re-raised in the main thread
+        errors.append(exc)
+    finally:
+        out_queue.put(None)  # sentinel
 
-    out_queue.put(None)  # sentinel
+
+# ---------------------------------------------------------------------------
+# Progress heartbeat
+# ---------------------------------------------------------------------------
+def _start_heartbeat(what: str, interval: float = 60.0) -> threading.Event:
+    """Print an elapsed-time line every *interval* seconds until the event is set.
+
+    Long PaddleOCR calls print nothing at all, so a slow page and a wedged
+    process look identical. Call ``.set()`` on the returned event to stop.
+    """
+    stop = threading.Event()
+    t0 = time.monotonic()
+
+    def beat() -> None:
+        while not stop.wait(interval):
+            elapsed = _fmt_time(time.monotonic() - t0)
+            print(f"\n  … {what} still running after {elapsed}", flush=True)
+
+    threading.Thread(target=beat, daemon=True).start()
+    return stop
+
+
+def _warmup_pipeline(pipeline) -> None:
+    """Run one throwaway page so the lazy VLM weight download happens here.
+
+    PaddleOCR-VL fetches its ~1 GB recognition model on the first predict()
+    call rather than at construction, and prints nothing while doing so. Left
+    alone, that download looks like a hang on page 1 of the volume.
+    """
+    import numpy as np
+
+    blank = np.full((640, 480, 3), 255, dtype=np.uint8)
+    print("Warming up VLM — first run downloads ~1 GB of weights …", flush=True)
+    t0 = time.monotonic()
+    stop_hb = _start_heartbeat("VLM warmup", interval=30.0)
+    try:
+        list(pipeline.predict(input=[blank]))
+    finally:
+        stop_hb.set()
+    print(f"Warmup done in {_fmt_time(time.monotonic() - t0)}.\n", flush=True)
 
 
 # ---------------------------------------------------------------------------
@@ -617,9 +662,10 @@ def process_volume(
     # bytes — no PNG encode/decode) and pushes them onto a small bounded queue.
     # While the GPU is busy with OCR the CPU is already rendering the next pages.
     render_queue: queue.Queue = queue.Queue(maxsize=batch_size + 2)
+    render_errors: list[BaseException] = []
     render_thread = threading.Thread(
         target=_render_pages,
-        args=(doc, n_pages, mat, render_queue, batch_size + 2),
+        args=(doc, n_pages, mat, render_queue, render_errors),
         daemon=True,
     )
     render_thread.start()
@@ -654,6 +700,7 @@ def process_volume(
         t_batch_start = time.monotonic()
 
         # Run PaddleOCR VL with numpy arrays (supported input type).
+        stop_hb = _start_heartbeat(f"OCR page {range_str}/{n_pages}")
         try:
             results = list(pipeline.predict(input=batch_imgs))
             if len(results) != len(batch_indices):
@@ -665,6 +712,8 @@ def process_volume(
             for pidx, _ in batch:
                 all_text_fragments.append(f"<!-- OCR FAILED page {pidx+1}: {exc} -->")
             continue
+        finally:
+            stop_hb.set()
 
         batch_elapsed = time.monotonic() - t_batch_start
         per_page = batch_elapsed / len(batch_indices)
@@ -694,8 +743,14 @@ def process_volume(
             flush=True,
         )
 
-    render_thread.join()
+    render_thread.join(timeout=30)
     doc.close()
+
+    # A render failure yields a silently truncated volume — fail instead.
+    if render_errors:
+        raise RuntimeError(
+            f"page rendering failed after {len(all_text_fragments)}/{n_pages} pages"
+        ) from render_errors[0]
 
     raw_full_text = "\n\n---\n\n".join(all_text_fragments)
 
@@ -829,7 +884,7 @@ def _write_paddle_dir(
 
     # Indented key view (best-effort — failures should never block the OCR run)
     try:
-        from reformat_keys import reformat as _reformat
+        from flora_ocr.pipeline.reformat_keys import reformat as _reformat
         keyfmt = _reformat(full_text.splitlines(keepends=True))
         (out_dir / "text_keyfmt.md").write_text("".join(keyfmt), encoding="utf-8")
     except Exception as exc:
@@ -902,6 +957,10 @@ def main():
         "--device", choices=("auto", "gpu", "cpu"), default="auto",
         help="Execution device for PaddleOCR VL (default: auto)",
     )
+    parser.add_argument(
+        "--no-warmup", action="store_true",
+        help="Skip the throwaway warmup page (weights then download during page 1)",
+    )
     add_flora_arg(parser)
     args = parser.parse_args()
     _apply_flora(args.flora)
@@ -957,6 +1016,8 @@ def main():
             use_doc_unwarping=False,
         )
         print("Pipeline ready.\n", flush=True)
+        if not args.no_warmup:
+            _warmup_pipeline(pipeline)
 
     if args.vol:
         label = _normalize_label(args.vol, known_labels)

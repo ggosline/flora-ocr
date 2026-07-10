@@ -22,6 +22,22 @@ exec > >(tee -a "$LOG") 2>&1
 echo "=== Setup started $(date) — volumes: ${VOLS[*]} ==="
 cd /workspace
 
+# PaddleOCR-VL downloads ~1 GB of weights on first use. Keep them on the
+# /workspace volume: the container root disk is small, and a download that
+# fills it stalls with no error message.
+export PADDLE_PDX_CACHE_HOME=/workspace/.paddlex
+export HF_HOME=/workspace/.cache/huggingface
+mkdir -p "$PADDLE_PDX_CACHE_HOME" "$HF_HOME"
+
+# Weights come from HuggingFace by default; BOS/AIStudio are the fallbacks if
+# HF is slow or blocked from the pod's region.
+export PADDLE_PDX_MODEL_SOURCE="${PADDLE_PDX_MODEL_SOURCE:-huggingface}"
+
+echo "=== GPU ==="
+nvidia-smi --query-gpu=name,compute_cap,memory.total --format=csv || echo "no nvidia-smi"
+echo "=== Disk ==="
+df -h / /workspace
+
 if [ -d flora-ocr/.git ]; then
     echo "=== Repo already present, pulling ==="
     cd flora-ocr && git pull
@@ -115,10 +131,21 @@ for vol in "${VOLS[@]}"; do
 done
 
 echo "=== Starting OCR ==="
+# A failed volume must not kill the script — the pod has to stay alive so the
+# other volumes run and the log can be retrieved.
+failed=()
 for vol in "${VOLS[@]}"; do
     echo "--- vol $vol ---"
-    python -m flora_ocr.ocr.paddle --vol "$vol"
+    if ! python -u -m flora_ocr.ocr.paddle --vol "$vol"; then
+        echo "ERROR: vol $vol failed" >&2
+        failed+=("$vol")
+    fi
+    df -h /workspace | tail -1
 done
+
+if [ ${#failed[@]} -gt 0 ]; then
+    echo "=== FAILED volumes: ${failed[*]} ==="
+fi
 
 echo "=== Done $(date) ==="
 echo "Results in /workspace/flora-ocr/ocr_output/ — pod kept alive for retrieval"
