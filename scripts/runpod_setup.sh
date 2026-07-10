@@ -34,9 +34,33 @@ mkdir -p "$PADDLE_PDX_CACHE_HOME" "$HF_HOME"
 export PADDLE_PDX_MODEL_SOURCE="${PADDLE_PDX_MODEL_SOURCE:-huggingface}"
 
 echo "=== GPU ==="
-nvidia-smi --query-gpu=name,compute_cap,memory.total --format=csv || echo "no nvidia-smi"
+nvidia-smi --query-gpu=name,compute_cap,memory.total,driver_version --format=csv || {
+    echo "ERROR: nvidia-smi unavailable — this pod has no usable GPU" >&2
+    exit 1
+}
 echo "=== Disk ==="
 df -h / /workspace
+
+# The paddlepaddle-gpu wheels ship FlashAttention kernels precompiled for a
+# fixed set of GPU architectures, and picking the wrong index dies deep inside
+# a kernel launch with "no kernel image is available for execution on the
+# device". Select the index from the GPU's compute capability instead:
+#   12.x  Blackwell (RTX PRO 4000/6000, 5090, B200) — needs sm_120 → cu129
+#   8.x/9.x  Ampere, Ada, Hopper (A100, L4, L40S, 4090, H100)      → cu126
+CC=$(nvidia-smi --query-gpu=compute_cap --format=csv,noheader | head -1 | tr -d ' ')
+CC_MAJOR=${CC%%.*}
+PADDLE_VER=3.3.1
+
+if [ "$CC_MAJOR" -ge 12 ]; then
+    CUDA_IDX=cu129
+elif [ "$CC_MAJOR" -ge 8 ]; then
+    CUDA_IDX=cu126
+else
+    echo "ERROR: GPU compute capability $CC is below 8.0 — PaddleOCR-VL needs" >&2
+    echo "       Ampere or newer. Pick a different pod type." >&2
+    exit 1
+fi
+echo "=== GPU compute capability $CC → paddlepaddle-gpu==$PADDLE_VER ($CUDA_IDX) ==="
 
 if [ -d flora-ocr/.git ]; then
     echo "=== Repo already present, pulling ==="
@@ -49,8 +73,9 @@ fi
 echo "=== Clearing pip cache to free disk space ==="
 pip cache purge || true
 
-echo "=== Installing PaddlePaddle GPU (cu126) ==="
-pip install -q --no-cache-dir paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+echo "=== Installing PaddlePaddle GPU ($CUDA_IDX) ==="
+pip install -q --no-cache-dir "paddlepaddle-gpu==$PADDLE_VER" \
+    -i "https://www.paddlepaddle.org.cn/packages/stable/$CUDA_IDX/"
 
 echo "=== Installing PaddleOCR deps ==="
 pip install -q --no-cache-dir --ignore-installed blinker
