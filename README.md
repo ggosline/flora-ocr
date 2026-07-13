@@ -78,6 +78,77 @@ conda run -n p12 python -m flora_ocr.pipeline.build_key_data \
 conda run -n p12 streamlit run src/flora_ocr/app/key_app.py
 ```
 
+## OCR on RunPod
+
+The scanned volumes (1–37) need a GPU we don't have locally. `scripts/runpod_setup.sh`
+provisions a pod from scratch: it clones this repo, installs PaddlePaddle against
+the right CUDA index, downloads the PDF from Zenodo, starts a vLLM genai server for
+the VLM, and runs the OCR.
+
+Launch a pod with:
+
+- **compute capability ≥ 8.0** (Ampere, Ada, Hopper, or Blackwell). The script picks
+  the PaddlePaddle CUDA index from the GPU's compute capability — `cu129` for 12.x,
+  `cu126` for 8.x/9.x — and exits with a clear message on anything older rather than
+  dying inside a CUDA kernel launch.
+- **a persistent `/workspace` volume**. Resume checkpoints live there, so a pod that
+  dies can pick up where it left off. Model weights (~1 GB) are cached there too; the
+  container root disk is small and a download that fills it stalls with no error.
+
+Then, in the pod's terminal:
+
+```bash
+cd /workspace
+curl -fsSL https://raw.githubusercontent.com/ggosline/flora-ocr/main/scripts/runpod_setup.sh \
+    -o runpod_setup.sh
+chmod +x runpod_setup.sh
+
+# nohup, so a dropped web terminal doesn't SIGHUP the run. A volume is hours of
+# GPU time — don't run it in the foreground of a terminal you might lose.
+nohup ./runpod_setup.sh 17 &
+tail -f /workspace/ocr_vol17.log
+```
+
+Volumes are positional: `./runpod_setup.sh 17 18 29` does several in sequence. A
+volume that fails doesn't abort the rest, and the pod is kept alive afterwards
+(`sleep infinity`) so results can be retrieved.
+
+### Reading the log
+
+Everything is tee'd to `/workspace/ocr_vol<N>.log`. Two lines tell you the run is
+healthy:
+
+- `=== VLM backend: vllm-server ===` — if it says `native` instead, the genai server
+  failed to start and the run fell back to the in-process VLM at ~1 min/page (roughly
+  5–6 hours for a 338-page volume, against well under an hour). The reason is in
+  `/workspace/genai_server.log`.
+- `[volN] no checkpoint — starting from page 1`, or `[volN] resuming at page X/Y` on a
+  restart.
+
+Per-page progress lines carry an ETA, so the real rate is visible within minutes.
+
+### If the run dies
+
+Re-run the same command. The repo `git pull`s, `--resume` finds the checkpoint under
+`ocr_output/_paddle_cache`, and only the pages never reached are OCR'd again — provided
+the same `/workspace` volume is attached. Checkpoints are written every 25 pages
+(`--checkpoint-every N`, `0` disables) and cleared only once the volume completes.
+
+### Retrieving results
+
+Output lands in `/workspace/flora-ocr/ocr_output/{Family}_vol{N}_paddle/`, one directory
+per family detected in the volume. Copy it down with `runpodctl send`, or `scp -r` if
+SSH is configured.
+
+### Environment knobs
+
+| Variable | Default | Effect |
+|----------|---------|--------|
+| `VL_BACKEND` | `vllm-server` | `native` runs the VLM in-process (~10× slower, no server) |
+| `VL_GPU_FRAC` | `0.70` | Fraction of GPU memory vLLM may claim; layout detection shares the same GPU |
+| `VL_PORT` | `8118` | Port for the genai server |
+| `PADDLE_PDX_MODEL_SOURCE` | `huggingface` | Set to `bos` or `aistudio` if HF is slow or blocked from the pod's region |
+
 ## Adding a new flora
 
 1. Create `floras/<name>/flora.toml`:
