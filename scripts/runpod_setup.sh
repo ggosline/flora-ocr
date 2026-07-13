@@ -27,7 +27,13 @@ cd /workspace
 # fills it stalls with no error message.
 export PADDLE_PDX_CACHE_HOME=/workspace/.paddlex
 export HF_HOME=/workspace/.cache/huggingface
-mkdir -p "$PADDLE_PDX_CACHE_HOME" "$HF_HOME"
+
+# Same trap, different directory: pip unpacks every wheel through TMPDIR, which
+# defaults to /tmp on that same small root disk. paddlepaddle-gpu drags in
+# several GB of nvidia-* CUDA wheels, which is more than enough to fill it — and
+# a full disk stalls the install silently rather than failing.
+export TMPDIR=/workspace/tmp
+mkdir -p "$PADDLE_PDX_CACHE_HOME" "$HF_HOME" "$TMPDIR"
 
 # Weights come from HuggingFace by default; BOS/AIStudio are the fallbacks if
 # HF is slow or blocked from the pod's region.
@@ -119,16 +125,21 @@ else
     }
     "$OCR_PY" -m pip install -q --no-cache-dir --upgrade pip
 
+    # These pull several GB of CUDA wheels and take 10-25 min. Not -q: with the
+    # output suppressed there is no way to tell a slow download from a stalled
+    # one. --progress-bar off keeps the log readable when it is not a tty.
+    PIP_INSTALL=(--no-cache-dir --progress-bar off)
+
     # Paddle goes in first and alone: pip resolves its exact nvidia-* pins into
     # an empty venv, with no pre-existing torch stack to be "satisfied" by.
     echo "=== Installing paddlepaddle-gpu==$PADDLE_VER ($CUDA_IDX) ==="
-    "$OCR_PY" -m pip install -q --no-cache-dir "paddlepaddle-gpu==$PADDLE_VER" \
+    "$OCR_PY" -m pip install "${PIP_INSTALL[@]}" "paddlepaddle-gpu==$PADDLE_VER" \
         -i "https://www.paddlepaddle.org.cn/packages/stable/$CUDA_IDX/"
 
     echo "=== Installing PaddleOCR deps ==="
-    "$OCR_PY" -m pip install -q --no-cache-dir \
+    "$OCR_PY" -m pip install "${PIP_INSTALL[@]}" \
         paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
-    "$OCR_PY" -m pip install -q --no-cache-dir -e .
+    "$OCR_PY" -m pip install "${PIP_INSTALL[@]}" -e .
 fi
 
 echo "=== Verifying paddle imports ==="
