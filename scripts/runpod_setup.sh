@@ -165,6 +165,16 @@ start_genai_server() {
     local vpy="$VLLM_VENV/bin/python"
     local vpaddleocr="$VLLM_VENV/bin/paddleocr"
 
+    # Running this script again to add volumes while a previous invocation still
+    # holds the server would otherwise start a rival on the same port: it fails
+    # to bind, the poll below times out after 15 min, and the run silently drops
+    # to the native backend at ~4x the cost per page. Reuse a live server, and
+    # skip the model load (several minutes) while we are at it.
+    if curl -sf --max-time 5 "$VL_URL/models" > /dev/null 2>&1; then
+        echo "=== Reusing the genai server already answering on $VL_URL ==="
+        return 0
+    fi
+
     # The server lives in its own venv, so the torch vLLM drags in cannot touch
     # the OCR venv's paddle. Every failure below is a `return 1`, never an exit:
     # the worst case is now falling back to the native backend, not a pod that
