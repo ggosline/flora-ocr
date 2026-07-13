@@ -525,18 +525,21 @@ def parse_page_blocks(result, page_num: int, fig_idx_start: int):
 # Render worker
 # ---------------------------------------------------------------------------
 
-def _render_pages(doc, n_pages: int, mat, out_queue: queue.Queue, errors: list) -> None:
+def _render_pages(
+    doc, n_pages: int, mat, out_queue: queue.Queue, errors: list, start_page: int = 0
+) -> None:
     """Background thread: render PDF pages to numpy arrays and push to a queue.
 
     Produces (page_idx, np.ndarray) tuples with shape (H, W, 3) uint8 RGB.
-    Puts None as a sentinel when done — including on failure, otherwise the
-    consumer blocks on an empty queue forever. Any exception is appended to
-    *errors* for the main thread to re-raise.
+    Rendering begins at *start_page* (page indices stay absolute) so a resumed
+    run skips pages already OCR'd. Puts None as a sentinel when done — including
+    on failure, otherwise the consumer blocks on an empty queue forever. Any
+    exception is appended to *errors* for the main thread to re-raise.
     """
     import numpy as np
 
     try:
-        for page_idx in range(n_pages):
+        for page_idx in range(start_page, n_pages):
             pixmap = doc[page_idx].get_pixmap(matrix=mat, colorspace=fitz.csRGB)
             # Copy into a new array — frombuffer gives a read-only view into
             # PyMuPDF's internal buffer which is freed when pixmap goes out of scope.
@@ -628,12 +631,77 @@ def _save_cache(label: str, full_text: str, figures: list[dict], n_pages: int) -
         pickle.dump({"figures": figures, "n_pages": n_pages}, f)
 
 
+def _checkpoint_path(label: str) -> pathlib.Path:
+    """Path to the crash-resume checkpoint, distinct from the final cache that
+    is only written once a volume completes."""
+    return CACHE_DIR / f"vol{label}_checkpoint.pkl"
+
+
+def _save_checkpoint(
+    label: str,
+    text_fragments: list[str],
+    figures: list[dict],
+    pages_done: int,
+    n_pages: int,
+) -> None:
+    """Persist partial OCR state so an interrupted run can resume near where it
+    stopped. Written atomically (temp file + os.replace) so a crash mid-write
+    cannot corrupt an existing checkpoint — the whole point is crash resilience."""
+    import os
+    import pickle
+    CACHE_DIR.mkdir(parents=True, exist_ok=True)
+    path = _checkpoint_path(label)
+    tmp = path.with_suffix(".pkl.tmp")
+    with tmp.open("wb") as f:
+        pickle.dump(
+            {
+                "text_fragments": text_fragments,
+                "figures": figures,
+                "pages_done": pages_done,
+                "n_pages": n_pages,
+            },
+            f,
+        )
+    os.replace(tmp, path)
+
+
+def _load_checkpoint(
+    label: str, n_pages: int
+) -> tuple[list[str], list[dict], int] | None:
+    """Load a resume checkpoint if one exists and matches this PDF's page count.
+    Returns (text_fragments, figures, pages_done), or None to start fresh."""
+    import pickle
+    path = _checkpoint_path(label)
+    if not path.exists():
+        return None
+    try:
+        with path.open("rb") as f:
+            ckpt = pickle.load(f)
+    except Exception as exc:  # a truncated/corrupt checkpoint must not be fatal
+        print(f"  [vol{label}] ignoring unreadable checkpoint: {exc}")
+        return None
+    if ckpt.get("n_pages") != n_pages:
+        print(
+            f"  [vol{label}] checkpoint is for a {ckpt.get('n_pages')}-page PDF but this "
+            f"one has {n_pages} pages — ignoring and starting fresh"
+        )
+        return None
+    return ckpt["text_fragments"], ckpt["figures"], ckpt["pages_done"]
+
+
+def _clear_checkpoint(label: str) -> None:
+    """Remove the resume checkpoint once the final cache is durably written."""
+    _checkpoint_path(label).unlink(missing_ok=True)
+
+
 def process_volume(
     vol: dict,
     pipeline,
     dpi: int,
     batch_size: int = 1,
     from_cache: bool = False,
+    resume: bool = False,
+    checkpoint_every: int = 25,
 ) -> bool:
     label = vol["label"]
     pdf_path = vol["pdf_path"]
@@ -661,6 +729,24 @@ def process_volume(
     all_text_fragments: list[str] = []
     all_figures: list[dict] = []
     durations: list[float] = []
+    start_page = 0
+
+    if resume:
+        ckpt = _load_checkpoint(label, n_pages)
+        if ckpt is None:
+            print(f"  [vol{label}] no checkpoint — starting from page 1")
+        else:
+            all_text_fragments, all_figures, start_page = ckpt
+            print(
+                f"  [vol{label}] resuming at page {start_page + 1}/{n_pages} "
+                f"({len(all_figures)} figures already extracted)",
+                flush=True,
+            )
+
+    # Pages already OCR'd are never re-rendered. If start_page == n_pages the
+    # render thread produces only its sentinel, the loop below falls straight
+    # through, and the volume is finalized from the checkpoint alone.
+    last_checkpoint = start_page
 
     # Start background render thread.  It renders pages to PIL Images (raw RGB
     # bytes — no PNG encode/decode) and pushes them onto a small bounded queue.
@@ -669,7 +755,7 @@ def process_volume(
     render_errors: list[BaseException] = []
     render_thread = threading.Thread(
         target=_render_pages,
-        args=(doc, n_pages, mat, render_queue, render_errors),
+        args=(doc, n_pages, mat, render_queue, render_errors, start_page),
         daemon=True,
     )
     render_thread.start()
@@ -747,6 +833,16 @@ def process_volume(
             flush=True,
         )
 
+        # A checkpoint save must never lose the volume it exists to protect.
+        if checkpoint_every > 0 and processed_so_far - last_checkpoint >= checkpoint_every:
+            try:
+                _save_checkpoint(
+                    label, all_text_fragments, all_figures, processed_so_far, n_pages
+                )
+                last_checkpoint = processed_so_far
+            except Exception as exc:
+                print(f"  [vol{label}] checkpoint save failed: {exc}", flush=True)
+
     render_thread.join(timeout=30)
     doc.close()
 
@@ -762,7 +858,10 @@ def process_volume(
     try:
         _save_cache(label, raw_full_text, all_figures, n_pages)
     except Exception as exc:
+        # Keep the checkpoint: it is now the only copy of this volume's OCR.
         print(f"  [vol{label}] cache save failed: {exc}")
+    else:
+        _clear_checkpoint(label)
 
     elapsed = time.monotonic() - t_total
     _finalize_volume(vol, label, raw_full_text, all_figures, n_pages, dpi, elapsed)
@@ -950,6 +1049,16 @@ def main():
              "(use after editing Fix A/B / family split logic)",
     )
     parser.add_argument(
+        "--resume", action="store_true",
+        help="Resume an interrupted run from its checkpoint, re-OCR'ing only the "
+             "pages that were never reached (a volume takes hours; a lost pod "
+             "should not cost the whole run)",
+    )
+    parser.add_argument(
+        "--checkpoint-every", type=int, default=25, metavar="N",
+        help="Write a resume checkpoint every N pages, 0 to disable (default 25)",
+    )
+    parser.add_argument(
         "--dpi", type=int, default=150,
         help="Page rendering DPI (default 150; use 200 for higher quality)",
     )
@@ -1054,7 +1163,10 @@ def main():
             print(f"[vol{label}] Already processed. Use --force to reprocess.")
             sys.exit(0)
         ok = process_volume(
-            vol, pipeline, args.dpi, args.batch_size, from_cache=args.from_cache
+            vol, pipeline, args.dpi, args.batch_size,
+            from_cache=args.from_cache,
+            resume=args.resume,
+            checkpoint_every=args.checkpoint_every,
         )
         sys.exit(0 if ok else 1)
 
@@ -1097,7 +1209,11 @@ def main():
         print(f"[{idx}/{total}] vol{lbl} — {vol['pdf_filename']}")
         t0 = time.monotonic()
         try:
-            ok = process_volume(vol, pipeline, args.dpi, args.batch_size)
+            ok = process_volume(
+                vol, pipeline, args.dpi, args.batch_size,
+                resume=args.resume,
+                checkpoint_every=args.checkpoint_every,
+            )
         except Exception:
             traceback.print_exc()
             ok = False

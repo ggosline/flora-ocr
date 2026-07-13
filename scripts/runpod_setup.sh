@@ -220,10 +220,15 @@ done
 echo "=== Starting OCR ==="
 # A failed volume must not kill the script — the pod has to stay alive so the
 # other volumes run and the log can be retrieved.
+#
+# --resume picks up any checkpoint left by an interrupted run. Checkpoints live
+# under ocr_output/_paddle_cache on the /workspace volume, so they outlive the
+# pod: re-running this script after a pod dies costs only the pages that were
+# never reached, not the whole volume.
 failed=()
 for vol in "${VOLS[@]}"; do
     echo "--- vol $vol ---"
-    if ! python -u -m flora_ocr.ocr.paddle --vol "$vol" "${OCR_ARGS[@]}"; then
+    if ! python -u -m flora_ocr.ocr.paddle --vol "$vol" --resume "${OCR_ARGS[@]}"; then
         echo "ERROR: vol $vol failed" >&2
         failed+=("$vol")
     fi
