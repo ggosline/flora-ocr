@@ -137,9 +137,10 @@ backend.
 Everything is tee'd to `/workspace/ocr_vol<N>.log`. Two lines tell you the run is
 healthy:
 
-- `=== VLM backend: vllm-server ===` — if it says `native` instead, the genai server
-  failed to start and the run fell back to the in-process VLM at ~1 min/page (roughly
-  5–6 hours for a 338-page volume, against well under an hour). The reason is in
+- `=== VLM backend: vllm-server ===` — the fast path. Measured at **~15 s/page** on a
+  Blackwell pod, so ~85 min for vol 17's 338 pages. If it says `native` instead, the
+  genai server failed to start and the run fell back to the in-process VLM at
+  ~1 min/page — 5–6 hours for the same volume. The reason will be in
   `/workspace/genai_server.log`.
 - `[volN] no checkpoint — starting from page 1`, or `[volN] resuming at page X/Y` on a
   restart.
