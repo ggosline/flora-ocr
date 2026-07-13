@@ -53,10 +53,8 @@ PADDLE_VER=3.3.1
 
 if [ "$CC_MAJOR" -ge 12 ]; then
     CUDA_IDX=cu129
-    CUDA_MM=12.9
 elif [ "$CC_MAJOR" -ge 8 ]; then
     CUDA_IDX=cu126
-    CUDA_MM=12.6
 else
     echo "ERROR: GPU compute capability $CC is below 8.0 — PaddleOCR-VL needs" >&2
     echo "       Ampere or newer. Pick a different pod type." >&2
@@ -75,37 +73,29 @@ fi
 echo "=== Clearing pip cache to free disk space ==="
 pip cache purge || true
 
-echo "=== Installing PaddlePaddle GPU ($CUDA_IDX) ==="
-pip install -q --no-cache-dir "paddlepaddle-gpu==$PADDLE_VER" \
-    -i "https://www.paddlepaddle.org.cn/packages/stable/$CUDA_IDX/"
-
-echo "=== Installing PaddleOCR deps ==="
-pip install -q --no-cache-dir --ignore-installed blinker
-pip install -q --no-cache-dir paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
-pip install -q -e .
-
-# nvidia-cusparse-cu12 depends on nvidia-nvjitlink-cu12 *without pinning a
-# version*, and the pod image already ships a torch with its own older nvidia-*
-# packages. So when paddlepaddle-gpu pulls in a CUDA 12.9 cusparse, pip is
-# satisfied by the older nvjitlink already present and leaves it alone. Nothing
-# fails at install time; `import paddle` then dies with
-#   libcusparse.so.12: undefined symbol: __nvJitLinkGetErrorLogSize_12_9
+# Three CUDA stacks want the same pip `nvidia-*` packages and none of them agree:
 #
-# Pin nvjitlink from CUDA_MM (the index selected above), NOT from cusparse's own
-# version: cuSPARSE carries an independent library version — 12.5.10.65 is the
-# build shipped *with* CUDA 12.9 — so reading it back would pin nvjitlink to
-# 12.5 and reintroduce the very mismatch this is fixing. nvjitlink's version
-# does track the CUDA release (12.9.86 ships with 12.9).
-align_nvjitlink() {
-    echo "  $CUDA_IDX → pinning nvidia-nvjitlink-cu12 ~=$CUDA_MM.0"
-    pip install -q --no-cache-dir "nvidia-nvjitlink-cu12~=${CUDA_MM}.0"
-}
+#   the pod image's torch 2.4.1+cu124  → nvidia-cublas-cu12==12.4.2.65, …
+#   paddlepaddle-gpu 3.3.1 (cu129)     → nvidia-cublas-cu12==12.9.0.13, …
+#   the torch vLLM pulls in            → a cu128 stack of its own
+#
+# paddlepaddle-gpu pins its nvidia-* deps *exactly* (==12.9.41, ==12.9.0.13),
+# so installing any of the others into the same site-packages leaves whoever ran
+# last holding the shared libraries and the loser dies at import with an
+# undefined symbol. There is no set of versions that satisfies all three, so
+# don't try to reconcile them — give each its own venv. The OCR process and the
+# genai server talk over HTTP; they have no reason to share an interpreter.
+#
+# The venvs live on /workspace, so a restarted pod reuses them rather than
+# reinstalling several GB of CUDA wheels.
+OCR_VENV=/workspace/venv-ocr
+VLLM_VENV=/workspace/venv-vllm
+OCR_PY="$OCR_VENV/bin/python"
 
-# Import paddle in a subprocess so a broken CUDA stack surfaces here, in
-# seconds, rather than 20 minutes later after the vLLM install and the Zenodo
-# download have already run.
+# Import paddle in the OCR venv, so a broken CUDA stack surfaces in seconds
+# rather than after the vLLM install and the Zenodo download have run.
 check_paddle() {
-    python - <<'PY'
+    "$OCR_PY" - <<'PY'
 import sys
 try:
     import paddle
@@ -118,13 +108,33 @@ print(f"  paddle {paddle.__version__} | cuda build: "
 PY
 }
 
-echo "=== Aligning CUDA runtime libs ==="
-align_nvjitlink
+if [ -x "$OCR_PY" ] && check_paddle > /dev/null 2>&1; then
+    echo "=== Reusing OCR venv at $OCR_VENV ==="
+else
+    echo "=== Creating OCR venv at $OCR_VENV ==="
+    rm -rf "$OCR_VENV"
+    python3 -m venv "$OCR_VENV" || {
+        echo "ERROR: 'python3 -m venv' failed — this image needs python3-venv" >&2
+        exit 1
+    }
+    "$OCR_PY" -m pip install -q --no-cache-dir --upgrade pip
+
+    # Paddle goes in first and alone: pip resolves its exact nvidia-* pins into
+    # an empty venv, with no pre-existing torch stack to be "satisfied" by.
+    echo "=== Installing paddlepaddle-gpu==$PADDLE_VER ($CUDA_IDX) ==="
+    "$OCR_PY" -m pip install -q --no-cache-dir "paddlepaddle-gpu==$PADDLE_VER" \
+        -i "https://www.paddlepaddle.org.cn/packages/stable/$CUDA_IDX/"
+
+    echo "=== Installing PaddleOCR deps ==="
+    "$OCR_PY" -m pip install -q --no-cache-dir \
+        paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
+    "$OCR_PY" -m pip install -q --no-cache-dir -e .
+fi
 
 echo "=== Verifying paddle imports ==="
 if ! check_paddle; then
-    echo "ERROR: paddle cannot import — the pip nvidia-* CUDA stack is inconsistent." >&2
-    echo "       Inspect with:  pip list | grep nvidia-" >&2
+    echo "ERROR: paddle cannot import in $OCR_VENV." >&2
+    echo "       Inspect with:  $OCR_VENV/bin/pip list | grep nvidia-" >&2
     exit 1
 fi
 
@@ -141,26 +151,34 @@ VL_URL="http://127.0.0.1:${VL_PORT}/v1"
 SERVER_LOG=/workspace/genai_server.log
 
 start_genai_server() {
-    echo "=== Installing vLLM genai-server deps (large — a few minutes) ==="
-    paddleocr install_genai_server_deps vllm
+    local vpy="$VLLM_VENV/bin/python"
+    local vpaddleocr="$VLLM_VENV/bin/paddleocr"
 
-    # vLLM brings its own torch, which can drag the nvidia-* stack back out of
-    # alignment under paddle's feet. Layout detection still runs in-process, so
-    # a paddle that no longer imports means no OCR at all — check before the
-    # model spends 15 minutes loading.
-    echo "=== Re-aligning CUDA runtime libs after the vLLM install ==="
-    align_nvjitlink
-    if ! check_paddle; then
-        echo "ERROR: installing the vLLM deps broke paddle's CUDA stack." >&2
-        echo "       Re-run with VL_BACKEND=native to skip the vLLM install." >&2
-        exit 1
+    # The server lives in its own venv, so the torch vLLM drags in cannot touch
+    # the OCR venv's paddle. Every failure below is a `return 1`, never an exit:
+    # the worst case is now falling back to the native backend, not a pod that
+    # can no longer OCR at all.
+    if [ -x "$vpaddleocr" ]; then
+        echo "=== Reusing vLLM venv at $VLLM_VENV ==="
+    else
+        echo "=== Creating vLLM venv at $VLLM_VENV ==="
+        rm -rf "$VLLM_VENV"
+        python3 -m venv "$VLLM_VENV" || return 1
+        "$vpy" -m pip install -q --no-cache-dir --upgrade pip
+        "$vpy" -m pip install -q --no-cache-dir paddleocr || return 1
+
+        echo "=== Installing vLLM genai-server deps (large — a few minutes) ==="
+        if ! "$vpaddleocr" install_genai_server_deps vllm; then
+            echo "ERROR: install_genai_server_deps failed" >&2
+            return 1
+        fi
     fi
 
     echo "=== Starting genai server: $VL_MODEL on port $VL_PORT ==="
     local cfg=/workspace/genai_backend_config.yaml
     echo "gpu-memory-utilization: $VL_GPU_FRAC" > "$cfg"
 
-    paddleocr genai_server \
+    "$vpaddleocr" genai_server \
         --model_name "$VL_MODEL" \
         --backend vllm \
         --host 127.0.0.1 \
@@ -286,7 +304,7 @@ echo "=== Starting OCR ==="
 failed=()
 for vol in "${VOLS[@]}"; do
     echo "--- vol $vol ---"
-    if ! python -u -m flora_ocr.ocr.paddle --vol "$vol" --resume "${OCR_ARGS[@]}"; then
+    if ! "$OCR_PY" -u -m flora_ocr.ocr.paddle --vol "$vol" --resume "${OCR_ARGS[@]}"; then
         echo "ERROR: vol $vol failed" >&2
         failed+=("$vol")
     fi

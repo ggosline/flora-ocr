@@ -113,6 +113,25 @@ Volumes are positional: `./runpod_setup.sh 17 18 29` does several in sequence. A
 volume that fails doesn't abort the rest, and the pod is kept alive afterwards
 (`sleep infinity`) so results can be retrieved.
 
+### Why two venvs
+
+Nothing is installed into the pod's system Python. Three CUDA stacks want the same
+pip `nvidia-*` packages and none of them agree — the image's own torch (`2.4.1+cu124`),
+`paddlepaddle-gpu` (which pins its nvidia deps *exactly*, e.g. `nvidia-nvjitlink-cu12==12.9.41`),
+and the torch vLLM pulls in. Installing them together leaves whichever ran last
+holding the shared libraries, and the loser dies at import with an undefined symbol.
+So each gets its own environment:
+
+| venv | Holds | Used for |
+|------|-------|----------|
+| `/workspace/venv-ocr` | paddlepaddle-gpu, paddleocr, this repo | the OCR process |
+| `/workspace/venv-vllm` | paddleocr, vLLM + its torch | the genai server |
+
+They talk over HTTP, so they never need to share an interpreter. Both live on
+`/workspace` and are reused by a restarted pod rather than reinstalled. A vLLM
+failure can no longer break Paddle — the worst case is a fallback to the native
+backend.
+
 ### Reading the log
 
 Everything is tee'd to `/workspace/ocr_vol<N>.log`. Two lines tell you the run is
