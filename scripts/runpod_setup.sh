@@ -53,8 +53,10 @@ PADDLE_VER=3.3.1
 
 if [ "$CC_MAJOR" -ge 12 ]; then
     CUDA_IDX=cu129
+    CUDA_MM=12.9
 elif [ "$CC_MAJOR" -ge 8 ]; then
     CUDA_IDX=cu126
+    CUDA_MM=12.6
 else
     echo "ERROR: GPU compute capability $CC is below 8.0 — PaddleOCR-VL needs" >&2
     echo "       Ampere or newer. Pick a different pod type." >&2
@@ -82,6 +84,50 @@ pip install -q --no-cache-dir --ignore-installed blinker
 pip install -q --no-cache-dir paddleocr "paddlex[ocr]" tomli "pymupdf==1.24.14"
 pip install -q -e .
 
+# nvidia-cusparse-cu12 depends on nvidia-nvjitlink-cu12 *without pinning a
+# version*, and the pod image already ships a torch with its own older nvidia-*
+# packages. So when paddlepaddle-gpu pulls in a CUDA 12.9 cusparse, pip is
+# satisfied by the older nvjitlink already present and leaves it alone. Nothing
+# fails at install time; `import paddle` then dies with
+#   libcusparse.so.12: undefined symbol: __nvJitLinkGetErrorLogSize_12_9
+#
+# Pin nvjitlink from CUDA_MM (the index selected above), NOT from cusparse's own
+# version: cuSPARSE carries an independent library version — 12.5.10.65 is the
+# build shipped *with* CUDA 12.9 — so reading it back would pin nvjitlink to
+# 12.5 and reintroduce the very mismatch this is fixing. nvjitlink's version
+# does track the CUDA release (12.9.86 ships with 12.9).
+align_nvjitlink() {
+    echo "  $CUDA_IDX → pinning nvidia-nvjitlink-cu12 ~=$CUDA_MM.0"
+    pip install -q --no-cache-dir "nvidia-nvjitlink-cu12~=${CUDA_MM}.0"
+}
+
+# Import paddle in a subprocess so a broken CUDA stack surfaces here, in
+# seconds, rather than 20 minutes later after the vLLM install and the Zenodo
+# download have already run.
+check_paddle() {
+    python - <<'PY'
+import sys
+try:
+    import paddle
+except Exception as exc:
+    print(f"  import paddle FAILED: {exc}", file=sys.stderr)
+    sys.exit(1)
+print(f"  paddle {paddle.__version__} | cuda build: "
+      f"{paddle.device.is_compiled_with_cuda()} | gpus: "
+      f"{paddle.device.cuda.device_count()}")
+PY
+}
+
+echo "=== Aligning CUDA runtime libs ==="
+align_nvjitlink
+
+echo "=== Verifying paddle imports ==="
+if ! check_paddle; then
+    echo "ERROR: paddle cannot import — the pip nvidia-* CUDA stack is inconsistent." >&2
+    echo "       Inspect with:  pip list | grep nvidia-" >&2
+    exit 1
+fi
+
 # The in-process ("native") VLM backend runs about 1 min/page. Offloading the
 # VLM to a local vLLM server is the supported fast path. Set VL_BACKEND=native
 # to opt out.
@@ -97,6 +143,18 @@ SERVER_LOG=/workspace/genai_server.log
 start_genai_server() {
     echo "=== Installing vLLM genai-server deps (large — a few minutes) ==="
     paddleocr install_genai_server_deps vllm
+
+    # vLLM brings its own torch, which can drag the nvidia-* stack back out of
+    # alignment under paddle's feet. Layout detection still runs in-process, so
+    # a paddle that no longer imports means no OCR at all — check before the
+    # model spends 15 minutes loading.
+    echo "=== Re-aligning CUDA runtime libs after the vLLM install ==="
+    align_nvjitlink
+    if ! check_paddle; then
+        echo "ERROR: installing the vLLM deps broke paddle's CUDA stack." >&2
+        echo "       Re-run with VL_BACKEND=native to skip the vLLM install." >&2
+        exit 1
+    fi
 
     echo "=== Starting genai server: $VL_MODEL on port $VL_PORT ==="
     local cfg=/workspace/genai_backend_config.yaml
