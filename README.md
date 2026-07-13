@@ -132,6 +132,19 @@ They talk over HTTP, so they never need to share an interpreter. Both live on
 failure can no longer break Paddle — the worst case is a fallback to the native
 backend.
 
+### One invocation at a time
+
+Pass every volume you want to a **single** invocation — `./runpod_setup.sh 17 19 29`
+— and let it work through them sequentially. Do not start a second invocation while
+one is running.
+
+vLLM holds ~70% of VRAM and layout detection runs in-process alongside it, so two
+concurrent OCR processes exhaust GPU memory and both die. Several volumes in one
+invocation are safe; two invocations of one volume each are not. (Adding volumes to
+a live pod is fine *after* the first run reaches `=== Done ===` — the script probes
+`/v1/models` and reuses the running server, so the second run starts OCR'ing within
+seconds.)
+
 ### Reading the log
 
 Everything is tee'd to `/workspace/ocr_vol<N>.log`. Two lines tell you the run is
