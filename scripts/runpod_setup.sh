@@ -179,7 +179,13 @@ start_genai_server() {
     # the OCR venv's paddle. Every failure below is a `return 1`, never an exit:
     # the worst case is now falling back to the native backend, not a pod that
     # can no longer OCR at all.
-    if [ -x "$vpaddleocr" ]; then
+    # Probe the capability we actually need, not merely the binary. A venv left
+    # behind by a run whose dep install failed still has bin/paddleocr, but no
+    # `genai_server` subcommand — and testing -x alone would skip the install
+    # below, then invoke a command that does not exist. The server dies at once,
+    # the run drops to the native backend, and the volume silently costs ~4x per
+    # page. Ask paddleocr whether it can serve; rebuild the venv if it cannot.
+    if [ -x "$vpaddleocr" ] && "$vpaddleocr" genai_server --help > /dev/null 2>&1; then
         echo "=== Reusing vLLM venv at $VLLM_VENV ==="
     else
         echo "=== Creating vLLM venv at $VLLM_VENV ==="
