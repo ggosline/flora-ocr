@@ -179,6 +179,11 @@ def _taxon_heading_level(text: str) -> str | None:
 _UPPER = r'[A-Z\u00C0-\u00DD]'
 _FAM_RE = re.compile(
     rf'^#{{1,4}}\s+'
+    # French title pages declare the family as "FAMILLE DES RUBIAC\u00C9ES" rather
+    # than a bare "RUBIAC\u00C9ES". Without this the heading never matches, no family
+    # is detected, and the whole volume silently falls back to vol{N}_paddle
+    # instead of splitting into {Family}_vol{N}_paddle.
+    rf'(?:FAMILLE\s+DES?\s+)?'
     rf'('
     rf'{_UPPER}{{4,}}C[EÉ][AEÉ][ES]S?'                                  # ALL-CAPS -CEAE/-CÉES
     rf'|'
