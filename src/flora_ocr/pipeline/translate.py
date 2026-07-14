@@ -1,8 +1,9 @@
 """
 Translate Flore du Gabon OCR output (text.md) from French to English using Claude.
 
-Reads from:   ocr_output/vol{LABEL}_paddle/text.md   (preferred)
-          or  ocr_output/vol{LABEL}/text.md           (marker fallback)
+Reads from:   ocr_output/vol{LABEL}_paddle/text.md            (preferred)
+          or  ocr_output/{Family}_vol{LABEL}_paddle/text.md  (one per family)
+          or  ocr_output/vol{LABEL}/text.md                  (marker fallback)
 Writes to:    same directory / text_en.md
 
 Run:
@@ -88,6 +89,27 @@ def discover_volumes() -> list[dict]:
     return vols
 
 
+# vol19_paddle, Loganiaceae_vol19_paddle, vol19 — the layouts _find_sources reads.
+_OUT_DIR_RE = re.compile(r"^(?:.+_)?vol(?P<label>\d+(?:bis)?)(?:_paddle)?$")
+
+
+def _labels_with_output() -> list[str]:
+    """Volume labels that have OCR output on disk, whether or not the PDF is here.
+
+    Output retrieved from a GPU pod arrives without its source PDF, and the PDF
+    is not needed to translate — only text.md is. Discovering volumes from the
+    PDF directory alone would make those volumes untranslatable.
+    """
+    if not OUT_DIR.is_dir():
+        return []
+    labels = set()
+    for d in OUT_DIR.iterdir():
+        m = _OUT_DIR_RE.match(d.name)
+        if m and (d / "text.md").exists():
+            labels.add(m.group("label"))
+    return sorted(labels, key=_label_sort_key)
+
+
 def _normalize_label(raw: str, known_labels: list[str]) -> str | None:
     if raw in known_labels:
         return raw
@@ -98,24 +120,32 @@ def _normalize_label(raw: str, known_labels: list[str]) -> str | None:
     return None
 
 
-def _find_source(label: str, source: str) -> pathlib.Path | None:
-    """Return path to text.md for this volume, or None if not found."""
+def _find_sources(label: str, source: str) -> list[pathlib.Path]:
+    """Return every text.md belonging to this volume.
+
+    A volume whose families were detected is written one directory per family
+    (Loganiaceae_vol19_paddle), not as vol19_paddle — so match both, and return
+    all of them: translating only the first would silently drop the rest.
+    """
     candidates = []
     if source in ("paddle", "auto"):
         candidates.append(OUT_DIR / f"vol{label}_paddle" / "text.md")
+        candidates.extend(sorted(OUT_DIR.glob(f"*_vol{label}_paddle/text.md")))
     if source in ("marker", "auto"):
         candidates.append(OUT_DIR / f"vol{label}" / "text.md")
+
+    seen: dict[pathlib.Path, None] = {}
     for p in candidates:
         if p.exists():
-            return p
-    return None
+            seen.setdefault(p, None)
+    return list(seen)
 
 
 def is_done(label: str, source: str) -> bool:
-    src = _find_source(label, source)
-    if src is None:
+    sources = _find_sources(label, source)
+    if not sources:
         return False
-    return (src.parent / "text_en.md").exists()
+    return all((src.parent / "text_en.md").exists() for src in sources)
 
 
 def _fmt_time(seconds: float) -> str:
@@ -153,12 +183,26 @@ def make_chunks(text: str, max_chars: int) -> list[str]:
 # ---------------------------------------------------------------------------
 # Core translation
 # ---------------------------------------------------------------------------
-def translate_volume(label: str, source: str, model: str, request_interval: float) -> bool:
-    src_path = _find_source(label, source)
-    if src_path is None:
+def translate_volume(
+    label: str, source: str, model: str, request_interval: float, force: bool = False
+) -> bool:
+    sources = _find_sources(label, source)
+    if not sources:
         print(f"[vol{label}] No source text.md found — run OCR first.")
         return False
 
+    ok = True
+    for src_path in sources:
+        if (src_path.parent / "text_en.md").exists() and not force:
+            print(f"[vol{label}] {src_path.parent.name} already translated — skipping.")
+            continue
+        ok = _translate_file(label, src_path, model, request_interval) and ok
+    return ok
+
+
+def _translate_file(
+    label: str, src_path: pathlib.Path, model: str, request_interval: float
+) -> bool:
     out_path = src_path.parent / "text_en.md"
     source_type = "paddle" if "_paddle" in src_path.parent.name else "marker"
 
@@ -273,11 +317,13 @@ def main():
         print("Error: ANTHROPIC_API_KEY not set.")
         sys.exit(1)
 
-    volumes = discover_volumes()
-    if not volumes:
-        print(f"No PDF volumes found in {PDF_DIR}")
+    pdf_labels = [v["label"] for v in discover_volumes()]
+    known_labels = sorted(
+        set(pdf_labels) | set(_labels_with_output()), key=_label_sort_key
+    )
+    if not known_labels:
+        print(f"No volumes found — no PDFs in {PDF_DIR}, no OCR output in {OUT_DIR}")
         sys.exit(1)
-    known_labels = [v["label"] for v in volumes]
 
     print(f"Model: {args.model}  |  chunk: {CHUNK_CHARS:,} chars  |  interval: {args.request_interval}s")
 
@@ -289,7 +335,9 @@ def main():
         if is_done(label, args.source) and not args.force:
             print(f"[vol{label}] Already translated. Use --force to redo.")
             sys.exit(0)
-        ok = translate_volume(label, args.source, args.model, args.request_interval)
+        ok = translate_volume(
+            label, args.source, args.model, args.request_interval, args.force
+        )
         sys.exit(0 if ok else 1)
 
     # --all mode
@@ -304,15 +352,14 @@ def main():
     work_list = []
     in_range = start_label is None
 
-    for vol in volumes:
-        lbl = vol["label"]
+    for lbl in known_labels:
         if not in_range:
             if lbl == start_label:
                 in_range = True
             else:
                 skipped_before += 1
                 continue
-        if _find_source(lbl, args.source) is None:
+        if not _find_sources(lbl, args.source):
             skipped_nosrc += 1
             continue
         if is_done(lbl, args.source) and not args.force:
@@ -337,7 +384,9 @@ def main():
         print(f"[{idx}/{total}] vol{lbl}")
         t0 = time.monotonic()
         try:
-            ok = translate_volume(lbl, args.source, args.model, args.request_interval)
+            ok = translate_volume(
+                lbl, args.source, args.model, args.request_interval, args.force
+            )
         except Exception:
             traceback.print_exc()
             ok = False
