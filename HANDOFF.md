@@ -15,19 +15,27 @@ explicitly deleted. "Continuing elsewhere" just means re-establishing access.
 
 ## Pod & volume
 
+**Pod is TERMINATED as of 2026-07-17** (billing stopped). Everything lives on the
+persistent network volume below. To resume, provision a NEW pod attached to it.
+
 | Item | Value |
 |---|---|
-| Pod ID | `0lfx68mbf1ifk9` (name `democratic_gold_magpie`) |
-| GPU | RTX 4090, 24 GB · ~$0.69/hr |
-| SSH endpoint | `root@213.173.109.71 -p 16861` **(changes if the pod restarts — reget from the RunPod console)** |
-| SSH key | `id_ed25519_herbarium` (private key lives on the origin machine's `~/.ssh/`; registered on the RunPod account) |
 | Network volume | `iqhg1urz3t` (name `modern_brown_lemming`), **60 GB**, DC **EU-RO-1** |
-| Volume mount | `/workspace` on the pod |
-| Repo on pod | `/workspace/flora-ocr` |
-| Output on pod | `/workspace/flora-ocr/ocr_output/` |
-| OCR venv on pod | `/workspace/venv-ocr` (paddle + PaddleOCR-VL, native backend) |
+| Volume mount (when attached) | `/workspace` |
+| Repo on volume | `/workspace/flora-ocr` |
+| Output on volume | `/workspace/flora-ocr/ocr_output/` |
+| OCR venv on volume | `/workspace/venv-ocr` (paddle + PaddleOCR-VL, native backend — ready to reuse) |
+| PDFs on volume | `/workspace/flora-ocr/floras/flore_du_gabon/FdG vol. N OK.pdf` (vols 1-12 present) |
+| SSH key | `id_ed25519_herbarium` (private key on the origin machine's `~/.ssh/`; registered on the RunPod account) |
 
-## Reconnect
+To resume: provision a GPU pod (RTX 4090/A5000, CC ≥ 8.0) **in EU-RO-1** attached
+to volume `iqhg1urz3t` at `/workspace`, base image
+`runpod/pytorch:*-cu1290-torch290-ubuntu2204`. The `venv-ocr` and model caches are
+already on the volume, so it's ready to OCR immediately — no reinstall. Use the
+`herbarium-pipeline` RunPodClient (see below) or the RunPod web console. Note:
+resuming requires GPU stock in EU-RO-1 (the volume's DC).
+
+## Reconnect (once a new pod is attached)
 
 **Easiest (no local setup):** log into runpod.io → pod → Connect → **web
 terminal** or **Jupyter**. `tail -f /workspace/nohup_batch_2_11.out`.
@@ -81,11 +89,19 @@ loop `|| true` per volume; default `VL_BACKEND=native`; drop the stale
 
 Scanned volumes = **1-37** (paddle/native). Born-digital 38-60 use liteparse.
 
-- **Done:** vols **1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 16, 17, 18, 19, 29** (+ some in 57).
-  (vols 2-9 done this session; vol 10-11 finishing; vol 12 done earlier.)
-- **In progress:** vols 10, 11 (batch `runpod_setup.sh 2 3 4 5 6 7 8 9 10 11`).
+- **Done & pulled local:** vols **1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12** (+ pre-existing
+  16, 17, 18, 19, 29, and some in 57). Batch `runpod_setup.sh 2 … 11` completed
+  cleanly; all output pulled to the repo's `ocr_output/`.
 - **Remaining scanned:** vols **13, 14, 15, 20, 21, 22, 23, 24, 25, 26, 27, 28,
   30, 31, 32, 33, 34, 35, 36, 37** (~20 volumes, ~5-8 h native, ~$4-6 GPU).
+
+### Known quality issue — vols 5 & 8 didn't split into families
+Their family-heading detection failed, so they finalized into un-prefixed dirs
+**`vol5_paddle`** (387K chars) and **`vol8_paddle`** (330K chars) instead of
+`Family_volN_paddle`. OCR text is complete; they just need reclassification /
+family-splitting before use in the key app. NB: any pull script keyed on the
+`*_volN_paddle` (family-prefixed) pattern will SKIP these two — match `vol5_paddle`
+/ `vol8_paddle` explicitly.
 
 ## Pulling results to a local machine
 
