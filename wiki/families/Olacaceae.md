@@ -7,6 +7,7 @@ order: Santalales
 genera_world: 23
 genera_in_africa: 11
 genera_in_gabon: 11
+genera_in_gabon_current: 12
 species_in_gabon: 21
 treatments:
   - vol: 20
@@ -58,7 +59,7 @@ genera occur in tropical and subtropical Africa, all of them present in Gabon.
 
 | Genus | Species in Gabon | Habit | Distinctive character |
 |-------|------------------|-------|------------------------|
-| [[Anacolosa]] | 1 | liana | circinate hooks; accrescent pubescent **disc** around fruit |
+| [[Anacolosa]] → [[Keita]] | 1 | liana | circinate hooks; accrescent pubescent **disc** around fruit — segregated as *Keita* in 2024 |
 | [[Ximenia]] | 1 | shrub | spiny; calyx persistent, not accrescent; umbellate inflorescence |
 | [[Olax]] | 6 | shrub / small tree | branchlets 4-winged; staminodes present |
 | [[Heisteria]] | 3 | tree / shrub | calyx accrescent into a lobed collar; white latex |
@@ -66,7 +67,7 @@ genera occur in tropical and subtropical Africa, all of them present in Gabon.
 | [[Coula]] | 1 | tree | secondary nerves reaching the margin; russet pubescence |
 | [[Ptychopetalum]] | 1 | tree / shrub | 2 epipetalous stamens per petal; fruit ribbed and mammillate |
 | [[Diogoa]] | 1 | tree | fruit with an equatorial ridge; not resinous |
-| [[Strombosiopsis]] | 1 | tree | sticky red resin; fruit with 4 apical teeth |
+| [[Strombosiopsis]] | 1 (now 2) | tree | sticky red resin; fruit with 4 apical teeth |
 | [[Aptandra]] | 1 | shrub / small tree | staminal tube; fruiting calyx a pink collar |
 | [[Ongokea]] | 1 | tree | staminal tube; fruiting calyx opening by 2–3 valves |
 
@@ -144,6 +145,24 @@ the blade margin: *Coula*; russet pubescence: *Coula*.
 (couplets 6 and 13 are out of sequence in the printed scan). The structure
 above follows the numbering as printed; verify against the PDF before relying
 on it for determination. -->
+
+## Changes since the Flore (post-1973)
+
+The Vol 20 account is now half a century old and the Gabonese genus list has
+moved. Recorded here so the treatment can be read against current names:
+
+| Change | Effect on Gabon |
+|--------|-----------------|
+| [[Keita]] Cheek (2024) erected for the African species of *Anacolosa* | *Anacolosa uncifera* → [[Keita_uncifera\|Keita uncifera]]; [[Anacolosa]] no longer occurs in Gabon |
+| [[Engomegoma]] Breteler (1996), monotypic, described from Gabon | [[Engomegoma_gordonii\|E. gordonii]] added — absent from Villiers' key |
+| [[Strombosiopsis_sereinii\|Strombosiopsis sereinii]] Breteler (2001) | second Gabonese *Strombosiopsis*; the genus is no longer monospecific |
+
+Net effect: **12 genera** in Gabon on current names, against the 11 Villiers
+recorded — *Anacolosa* out, *Keita* and *Engomegoma* in.
+
+<!-- This list is not exhaustive; it covers what has been checked so far. A
+2011 monograph of Octoknema (Kew Bulletin) is a known unread source for
+[[Octoknemaceae]]. -->
 
 ## Treatments
 

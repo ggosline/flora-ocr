@@ -3,11 +3,15 @@ type: genus
 name: Strombosiopsis
 authority: Engl.
 family: Olacaceae
-species_world: 1
-species_in_gabon: 1
+species_world: 3
+species_in_gabon: 2
 treatments:
   - vol: 20
     source: sources/Olacaceae_vol20_paddle
+    note: "treats the genus as monospecific"
+  - kind: article
+    citation: "Breteler F.J. (2001). Novitates Gabonenses 40. A new species of Strombosiopsis (Olacaceae) from Gabon. Adansonia 23(2): 303–306."
+    year: 2001
 tags: [genus]
 ---
 
@@ -17,9 +21,12 @@ tags: [genus]
 
 Pflanzenfam. ed. 1, **1**: 148 (1897).
 
-A monospecific African genus, found throughout the dense forests from Nigeria
-to Angola. Its single species,
-[[Strombosiopsis_tetrandra|S. tetrandra]], occurs in Gabon.
+An African genus. Vol 20 treats it as **monospecific**, with
+[[Strombosiopsis_tetrandra|S. tetrandra]] found throughout the dense forests
+from Nigeria to Angola. That is no longer current: Breteler (2001) described
+[[Strombosiopsis_sereinii|S. sereinii]] from Gabon as the **third** species of
+the genus, the second being a Liberian species he described the same year. Two
+of the three therefore occur in Gabon.
 
 ## Diagnosis
 
@@ -39,9 +46,10 @@ median ridge.
 
 ## Species in Gabon
 
-| Species | Habit | Distribution (Gabon) | Page |
-|---------|-------|----------------------|------|
-| [[Strombosiopsis_tetrandra\|S. tetrandra]] | tree | widespread | 154 |
+| Species | Habit | Distribution (Gabon) | Source |
+|---------|-------|----------------------|--------|
+| [[Strombosiopsis_tetrandra\|S. tetrandra]] | tree | widespread | Vol 20: 154 |
+| [[Strombosiopsis_sereinii\|S. sereinii]] | tree | Gabon | Breteler (2001) |
 
 ## Treatments
 
@@ -52,6 +60,11 @@ median ridge.
 Genus 9 of the family.
 
 ## Notes
+
+**Post-Flore addition.** Breteler (2001, *Novitates Gabonenses* 40) described
+[[Strombosiopsis_sereinii|S. sereinii]] from Gabon and provided a key to the
+three species then recognised. Vol 20's statement that the genus is
+monospecific is therefore superseded.
 
 Later classifications refer *Strombosiopsis* to **Strombosiaceae**; the Vol 20
 treatment places it in *Olacaceae*.

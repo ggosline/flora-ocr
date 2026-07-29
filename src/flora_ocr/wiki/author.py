@@ -79,10 +79,36 @@ Hard rules:
 - Do not invent data. If the source does not give a section's content, omit the
   section. Never guess a distribution, a habitat, an altitude or a vernacular
   name.
+- `distribution_gabon` is for provinces **the source itself names**. Flore du
+  Gabon treatments usually list only collecting localities — Makokou, Bélinga,
+  Monts de Cristal — and you must NOT infer the province from a locality. If the
+  source names no province, leave `distribution_gabon` empty and give the
+  localities in the Distribution prose instead. The same applies to
+  `distribution_other`.
+- Omit any frontmatter field you have no value for. Never emit an empty string
+  or an empty list as a placeholder.
+- An infraspecific taxon (var./subsp./f.) uses `type: species`, and adds
+  `infraspecific_rank:` (var, subsp or f) and `parent_species:` (the binomial).
+- The frontmatter `name` must be exactly the taxon name you were given,
+  including any infraspecific epithet — `Olax subscorpioidea var. durandii`,
+  not `Olax subscorpioidea`.
 - If the source is ambiguous, damaged by OCR, or self-contradictory, say so in
   an HTML comment `<!-- ... -->` at the relevant point rather than smoothing it
   over.
 - No emojis.
+
+Section discipline — keep these separate, do not merge them:
+
+- `## Distribution` — the overall range, then the Gabonese localities. Prose
+  only. No specimen lists here.
+- `## Habitat and ecology` — forest type, soils, altitude, flowering period.
+- `## Gabonese material examined` — the collector list from the source's
+  MATÉRIEL GABONAIS ÉTUDIÉ, one bullet per collector.
+
+These treatments cover Cameroon as well as Gabon and usually carry a MATÉRIEL
+CAMEROUNAIS ÉTUDIÉ list. This wiki is about Gabon: **do not transcribe the
+Cameroonian specimen list**. You may state that the species also occurs in
+Cameroon, but the specimens themselves belong to the other flora.
 """
 
 
@@ -259,7 +285,42 @@ def estimate(jobs: list[Job], system: str, *, price_in: float, price_out: float,
 
 # ── Validation ────────────────────────────────────────────────────────────────
 
-REQUIRED_SECTIONS = ("## Description", "## Source")
+# A stub species that only keys out its varieties carries no description of its
+# own; requiring one would push the model to invent it.
+DESCRIPTION_MIN_SOURCE = 1500
+
+
+def _strip_accents(s: str) -> str:
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFKD", s)
+                   if not unicodedata.combining(c))
+
+
+def _unsupported_places(fm: dict, source: str) -> list[str]:
+    """Gabonese provinces in the frontmatter that the source never names.
+
+    The observed fabrication is a province inferred from a locality — 'Monts de
+    Cristal' silently becoming 'Ogooué-Lolo', which is wrong. Province names are
+    proper nouns and identical in the French source, so an exact (accent-folded)
+    match is a sound test.
+
+    `distribution_other` is deliberately not checked: country names legitimately
+    translate, so 'Cameroon' is supported by 'MATÉRIEL CAMEROUNAIS' and
+    'Democratic Republic of the Congo' by 'Zaïre' or 'Bas Congo', and a literal
+    match would reject correct work.
+    """
+    raw = fm.get("distribution_gabon", "")
+    if not raw.startswith("["):
+        return []
+    hay = _strip_accents(source).lower()
+    bad = []
+    for place in raw.strip("[]").split(","):
+        place = place.strip().strip("'\"")
+        if place and _strip_accents(place).lower() not in hay:
+            bad.append(
+                f"distribution_gabon: {place!r} is not named in the source "
+                f"(inferred from a locality?)")
+    return bad
 
 
 def validate(page: str, job: Job) -> list[str]:
@@ -282,17 +343,25 @@ def validate(page: str, job: Job) -> list[str]:
         if m and m.group(2).strip():
             fm[m.group(1)] = m.group(2).strip().strip("'\"")
 
-    want_type = "species" if job.block["rank"] == "species" else "species"
-    if fm.get("type") != want_type:
-        problems.append(f"frontmatter type is {fm.get('type')!r}, expected {want_type!r}")
+    # Varieties and subspecies live in species/ and are typed as species, with
+    # their rank carried in infraspecific_rank. See wiki/CLAUDE.md.
+    if fm.get("type") != "species":
+        problems.append(f"frontmatter type is {fm.get('type')!r}, expected 'species'")
+
+    if job.block["rank"] == "infraspecific" and not fm.get("infraspecific_rank"):
+        problems.append("infraspecific taxon is missing infraspecific_rank")
 
     got, want = fm.get("name", ""), job.block["name"]
     if got.replace("*", "").strip().lower() != want.lower():
         problems.append(f"frontmatter name is {got!r}, expected {want!r}")
 
-    for s in REQUIRED_SECTIONS:
+    required = ["## Source"]
+    if len(job.block["text"]) >= DESCRIPTION_MIN_SOURCE:
+        required.append("## Description")
+    for s in required:
         if s not in text:
             problems.append(f"missing section {s!r}")
+
 
     if len(text) < 400:
         problems.append(f"page is only {len(text)} chars — probably truncated or refused")
@@ -303,11 +372,72 @@ def validate(page: str, job: Job) -> list[str]:
     return problems
 
 
-def write_page(page: str, job: Job, wiki_root: Path) -> Path:
+_EMPTY_FIELD_RE = re.compile(r"^[A-Za-z_][A-Za-z0-9_]*:\s*(\"\"|''|\[\]|~|null)?\s*$")
+
+
+def strip_empty_frontmatter(page: str) -> str:
+    """Drop frontmatter fields left as empty placeholders.
+
+    The model is told to omit fields it has no value for and mostly does, but
+    still emits `altitude_m: ""` or `distribution_gabon: []` often enough to be
+    worth removing deterministically rather than rejecting the whole page.
+    Lines introducing a nested block (`treatments:`) are kept.
+    """
+    parts = page.split("---", 2)
+    if len(parts) < 3:
+        return page
+    kept = []
+    lines = parts[1].splitlines()
+    for i, line in enumerate(lines):
+        if _EMPTY_FIELD_RE.match(line):
+            nxt = lines[i + 1] if i + 1 < len(lines) else ""
+            if nxt.startswith((" ", "\t", "-")):
+                kept.append(line)      # introduces a nested block
+            continue
+        kept.append(line)
+    return "---" + "\n".join(kept) + "---" + parts[2]
+
+
+def strip_unsupported_places(page: str, source: str) -> tuple[str, list[str]]:
+    """Remove Gabonese provinces the source never names.
+
+    The cheap tier reliably infers a province from a locality even when told not
+    to — 'Monts de Cristal' becoming 'Ogooué-Lolo', which is wrong. Rejecting the
+    page just retries the same tendency, so correct it instead: drop the
+    unsupported entries and report what was dropped. The localities themselves
+    survive in the Distribution prose.
+    """
+    parts = page.split("---", 2)
+    if len(parts) < 3:
+        return page, []
+
+    notes: list[str] = []
+    hay = _strip_accents(source).lower()
+    out_lines = []
+    for line in parts[1].splitlines():
+        m = re.match(r"^(distribution_gabon):\s*\[(.*)\]\s*$", line)
+        if not m:
+            out_lines.append(line)
+            continue
+        keep, drop = [], []
+        for place in m.group(2).split(","):
+            p = place.strip().strip("'\"")
+            if not p:
+                continue
+            (keep if _strip_accents(p).lower() in hay else drop).append(p)
+        if drop:
+            notes.append(f"dropped unsupported province(s): {', '.join(drop)}")
+        if keep:
+            out_lines.append(f"{m.group(1)}: [{', '.join(keep)}]")
+    return "---" + "\n".join(out_lines) + "---" + parts[2], notes
+
+
+def write_page(page: str, job: Job, wiki_root: Path) -> tuple[Path, list[str]]:
+    page, notes = strip_unsupported_places(page.strip(), job.block["text"])
     out = wiki_root / job.wiki_path
     out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(page.strip() + "\n", encoding="utf-8")
-    return out
+    out.write_text(strip_empty_frontmatter(page) + "\n", encoding="utf-8")
+    return out, notes
 
 
 # ── API ───────────────────────────────────────────────────────────────────────
@@ -339,13 +469,38 @@ def _client():
     return anthropic.Anthropic(api_key=api_key())
 
 
+class _Fatal(SystemExit):
+    pass
+
+
+def _guard(fn, *a, **kw):
+    """Turn SDK errors into a one-line exit instead of a traceback."""
+    import anthropic
+    try:
+        return fn(*a, **kw)
+    except anthropic.AuthenticationError:
+        raise _Fatal(
+            "Anthropic rejected the API key (401).\n"
+            "  The stored key may have been rotated or revoked. Replace it with:\n"
+            "    .venv\\Scripts\\keyring.exe set herbarium-cloud anthropic\n"
+            "  (run that in a real terminal — it needs an interactive prompt)"
+        )
+    except anthropic.RateLimitError:
+        raise _Fatal("Rate limited (429). Retry later, or use --mode batch.")
+    except anthropic.APIStatusError as e:
+        raise _Fatal(f"Anthropic API error {e.status_code}: {e.message}")
+    except anthropic.APIConnectionError as e:
+        raise _Fatal(f"Could not reach the Anthropic API: {e}")
+
+
 def run_sync(jobs: list[Job], system: str, model: str, wiki_root: Path,
              *, dry: bool = False) -> tuple[int, list[tuple[str, list[str]]]]:
     client = _client()
     written, rejected = 0, []
     for i, job in enumerate(jobs, 1):
         print(f"  [{i}/{len(jobs)}] {job.name} …", end="", flush=True)
-        resp = client.messages.create(
+        resp = _guard(
+            client.messages.create,
             model=model, max_tokens=MAX_TOKENS, system=system,
             messages=[{"role": "user", "content": build_user(job.block, job.treatment)}],
         )
@@ -355,9 +510,9 @@ def run_sync(jobs: list[Job], system: str, model: str, wiki_root: Path,
             rejected.append((job.name, problems))
             print(f" REJECTED ({problems[0]})")
             continue
-        write_page(page, job, wiki_root)
+        _, notes = write_page(page, job, wiki_root)
         written += 1
-        print(f" ok ({len(page)} chars)")
+        print(f" ok ({len(page)} chars)" + (f"  [{'; '.join(notes)}]" if notes else ""))
     return written, rejected
 
 
@@ -372,7 +527,7 @@ def submit_batch(jobs: list[Job], system: str, model: str) -> str:
             "messages": [{"role": "user", "content": build_user(j.block, j.treatment)}],
         },
     } for j in jobs]
-    batch = client.messages.batches.create(requests=requests)
+    batch = _guard(client.messages.batches.create, requests=requests)
     return batch.id
 
 
@@ -380,7 +535,7 @@ def collect_batch(batch_id: str, jobs: list[Job], wiki_root: Path,
                   *, wait: bool = False) -> tuple[int, list[tuple[str, list[str]]]]:
     client = _client()
     while True:
-        batch = client.messages.batches.retrieve(batch_id)
+        batch = _guard(client.messages.batches.retrieve, batch_id)
         if batch.processing_status == "ended":
             break
         if not wait:
@@ -392,7 +547,7 @@ def collect_batch(batch_id: str, jobs: list[Job], wiki_root: Path,
 
     by_id = {j.custom_id: j for j in jobs}
     written, rejected = 0, []
-    for result in client.messages.batches.results(batch_id):
+    for result in _guard(client.messages.batches.results, batch_id):
         job = by_id.get(result.custom_id)
         if job is None:
             continue
@@ -404,7 +559,9 @@ def collect_batch(batch_id: str, jobs: list[Job], wiki_root: Path,
         if problems:
             rejected.append((job.name, problems))
             continue
-        write_page(page, job, wiki_root)
+        _, notes = write_page(page, job, wiki_root)
+        if notes:
+            print(f"  {job.name}: {'; '.join(notes)}")
         written += 1
     return written, rejected
 
@@ -412,12 +569,39 @@ def collect_batch(batch_id: str, jobs: list[Job], wiki_root: Path,
 # ── CLI ───────────────────────────────────────────────────────────────────────
 
 def _load_bundles(args, flora) -> list[dict]:
-    """Build bundles in memory from the OCR output, honouring the filters."""
+    """Build bundles in memory from the OCR output, honouring the filters.
+
+    `--family` first tries the directory name, which is the fast path. A family
+    need not have its own directory though — Octoknemaceae, Opiliaceae and
+    Pentadiplandraceae all live inside Olacaceae_vol20_paddle, because OCR
+    truncated their headings past the splitter's recognition. So when no
+    directory matches, fall back to scanning treatments for a family block.
+    """
     wiki_root = Path(args.wiki)
-    treatments = _filter(discover(flora.output_dir), args)
-    if not treatments:
-        raise SystemExit("no treatments matched --family/--vol")
-    return [build_bundle(t, wiki_root) for t in treatments]
+    all_treatments = discover(flora.output_dir)
+
+    treatments = _filter(all_treatments, args)
+    if treatments:
+        return [build_bundle(t, wiki_root) for t in treatments]
+
+    if not args.family:
+        raise SystemExit("no treatments matched --vol")
+
+    # Narrow by volume first if we can, otherwise this scans the whole corpus.
+    candidates = [t for t in all_treatments if not args.vol or t.vol == args.vol]
+    print(f"no directory named for {args.family}; scanning "
+          f"{len(candidates)} treatment(s) for it …", file=sys.stderr)
+    want = args.family.lower()
+    found = []
+    for t in candidates:
+        b = build_bundle(t, wiki_root)
+        if any((blk.get("family") or "").lower() == want for blk in b["blocks"]):
+            found.append(b)
+    if not found:
+        raise SystemExit(f"no treatment contains family {args.family!r}")
+    for b in found:
+        print(f"  found in {b['treatment']['slug']}", file=sys.stderr)
+    return found
 
 
 def main(argv: list[str] | None = None) -> int:

@@ -125,11 +125,29 @@ tags: [species]
 ---
 ```
 
+**Infraspecific taxon** — same shape as a species, filed under `species/`, and
+typed `species` so Dataview queries on `type: species` see it. Its rank is
+carried in two extra fields:
+
+```yaml
+type: species
+name: Olax subscorpioidea var. durandii
+infraspecific_rank: var        # var | subsp | f
+parent_species: Olax subscorpioidea
+```
+
 Distribution should be stored as occurrence data, not as a Gabon/non-Gabon
 status class. Keep using:
 
 - `distribution_gabon`: provinces or subnational areas within Gabon
 - `distribution_other`: countries or subnational areas outside Gabon
+
+**Only record a province the source itself names.** These treatments usually
+list collecting localities (Makokou, Bélinga, Monts de Cristal) and no province
+at all; inferring the province from the locality is a fabrication and has
+already produced one wrong answer (Monts de Cristal is in Estuaire/Woleu-Ntem,
+not Ogooué-Lolo). Where the source gives only localities, leave the field out
+and put the localities in the Distribution prose.
 
 Do not rely on a special `not-in-gabon` tag for routine country absence. If a
 species is absent from Gabon, represent that by leaving `distribution_gabon`

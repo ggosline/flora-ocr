@@ -1,12 +1,15 @@
 ---
 type: species
-name: Anacolosa uncifera
-authority: J.Louis & Boutique
-genus: Anacolosa
-family: Olacaceae
-synonyms: []
+name: Keita uncifera
+authority: (J.Louis & Boutique) Cheek
+basionym: Anacolosa uncifera J.Louis & Boutique
+genus: Keita
+family: Aptandraceae
+family_sensu_lato: Olacaceae
+synonyms:
+  - "Anacolosa uncifera J.Louis & Boutique"
 distribution_gabon: [Ogooué-Ivindo]
-distribution_other: [Democratic Republic of the Congo]
+distribution_other: [Republic of the Congo, Democratic Republic of the Congo]
 habit: liana
 habitat: [primary swamp forest, periodically inundated forest]
 altitude_m: "to 1000"
@@ -14,15 +17,26 @@ treatments:
   - vol: 20
     pages: "106–108"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]
+    note: "as Anacolosa uncifera"
+  - kind: article
+    citation: "Cheek M., Molmou D., Gosline G. & Magassouba S. (2024). Keita (Aptandraceae-Olacaceae s.l.), a new genus for African species previously ascribed to Anacolosa. Kew Bulletin 79: 317–332."
+    year: 2024
+    doi: 10.1007/s12225-024-10172-w
+tags: [species, post-flora]
 ---
 
-# *Anacolosa uncifera* J.Louis & Boutique
+# *Keita uncifera* (J.Louis & Boutique) Cheek
 
-**Family**: [[Olacaceae]] · **Genus**: [[Anacolosa]]
+**Family**: Aptandraceae (in [[Olacaceae]] s.l.) · **Genus**: [[Keita]]
 
-Bull. Jard. Bot. Brux. **18**: 256 (1947). — J.Louis & J.Léonard, Fl. Congo b.
-et R.U. **1**: 264, tab. 25 (1948).
+Kew Bull. **79**: 317–332 (2024).
+
+**Basionym**: *Anacolosa uncifera* J.Louis & Boutique, Bull. Jard. Bot. Brux.
+**18**: 256 (1947). — J.Louis & J.Léonard, Fl. Congo b. et R.U. **1**: 264,
+tab. 25 (1948).
+
+Treated in Flore du Gabon Vol 20 (1973) as *Anacolosa uncifera*; the
+description below is translated from that treatment.
 
 ## Description
 
@@ -96,5 +110,17 @@ Volume 20: 106–108. Muséum national d'Histoire naturelle, Paris.
 
 ## Notes
 
-The only African representative of an otherwise Asian genus, and the only
-hook-bearing liana among the Gabonese Olacaceae.
+**Generic transfer (2024).** Cheek, Molmou, Gosline & Magassouba removed the two
+continental African species from *Anacolosa* — an otherwise Asian genus — and
+placed them in the new genus [[Keita]], tentatively in Aptandraceae. The
+African species are unique within Olacaceae s.l. in being **climbers**, using
+perennial hook-like structures built from five separate traits found nowhere
+else in the group. Its sister species, *K. deniseae* Cheek, is endemic to
+Simandou in the Republic of Guinea and is assessed as Endangered.
+
+Villiers had already made the observation that underpins the split without
+drawing the generic conclusion: his key separates this plant at the first
+couplet as the only liana of the family bearing circinate hooks, and his
+description records the hook at the base of each branchlet in detail.
+
+With this transfer, [[Anacolosa]] is no longer represented in Gabon.

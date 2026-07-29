@@ -28,7 +28,8 @@ See [[CLAUDE]] for the schema and conventions.
 - [[Ebenaceae]] — Ericales; one Gabonese genus; 32 species in Gabon, 46 species treated on the wiki (38 in Vol 18 + later article-based additions and revisions)
 - [[Huaceae]] — Oxalidales; garlic-scented shrubs and trees; 2 genera and 4 species in Gabon (Vol 38)
 - [[Menispermaceae]] — Ranunculales; 22 genera, 34–36 species in Gabon (16 monospecific, all-liana except 2 shrubs); 5 spp. nov. in Vol 60
-- [[Olacaceae]] — Santalales, broad pre-APG sense; 11 genera and 21 species in Gabon, all 11 African genera present (Vol 20); most genera now referred to Coulaceae/Erythropalaceae/Strombosiaceae/Aptandraceae/Ximeniaceae
+- [[Olacaceae]] — Santalales, broad pre-APG sense; 11 genera and 21 species in Gabon per Vol 20, **12 genera on current names**; most genera now referred to Coulaceae/Erythropalaceae/Strombosiaceae/Aptandraceae/Ximeniaceae
+- [[Octoknemaceae]] — Santalales; endemic to Africa; 2 genera and 5 species in Gabon (Vol 20); now sunk into Erythropalaceae
 - [[Ranunculaceae]] — Ranunculales; one Gabonese genus; 2 species in Gabon (Vol 60)
 - [[Sapotaceae]] — Ericales; latex-bearing trees and shrubs; 23 genera and 48 accepted/present species pages on the wiki from Vol 1
 - [[Taccaceae]] — Dioscoreales; stemless geophytic herbs; 1 genus and 1 species in Gabon (Vol 38)
@@ -37,7 +38,7 @@ See [[CLAUDE]] for the schema and conventions.
 
 - [[Afrostyrax]] — Huaceae; garlic-scented shrubs and trees with stellate indument; 3 species in Gabon
 - [[Afrosersalisia]] — Sapotaceae; cupule-fruited broad-scar seed genus; 1 species in Gabon
-- [[Anacolosa]] — Olacaceae; only hooked liana of the family in Gabon; accrescent **disc** wraps the fruit; 1 species in Gabon
+- [[Anacolosa]] — Olacaceae; **no longer in Gabon** — its African species moved to [[Keita]] (2024); page retained for the Vol 20 treatment
 - [[Aningueria]] — Sapotaceae; translucent-dotted leaf genus with broad-scar one-seeded fruits; 1 species in Gabon
 - [[Albertisia]] — Menispermaceae; lianas; 4 species in Gabon (incl. 2 spp. nov.) + 1 undescribed
 - [[Ancistrocladus]] — Ancistrocladaceae; lianas with hooked branchlets; 4 species in Gabon
@@ -56,11 +57,13 @@ See [[CLAUDE]] for the schema and conventions.
 - [[Dioscoreophyllum]] — Menispermaceae; twining herb; "serendipity berry"; 2 species in Gabon
 - [[Diospyros]] — Ebenaceae; trees and shrubs; 32 species in Gabon, 46 species treated on the wiki
 - [[Englerophytum]] — Sapotaceae; small-tree genus with anther collar and no staminodes; 3 species in Gabon
+- [[Engomegoma]] — Olacaceae s.l. (Strombosiaceae); **monotypic, described from Gabon 1996** — post-Flore, absent from the Vol 20 key; 1 species in Gabon
 - [[Gambeya]] — Sapotaceae; multiseeded forest-fruit genus with spaced lateral veins; 3 confirmed species in Gabon
 - [[Gluema]] — Sapotaceae; dehiscent-fruited bumelioid tree genus; 1 species in Gabon
 - [[Heisteria]] — Olacaceae; calyx accrescent into a lobed collar, white latex; 3 species in Gabon (c. 40 in America)
 - [[Hua]] — Huaceae; **monospecific** shrub genus with dehiscent fruits; 1 species in Gabon
 - [[Jateorhiza]] — Menispermaceae; herb with red-orange latex; 1 species in Gabon
+- [[Keita]] — Aptandraceae/Olacaceae s.l.; **erected 2024** for the African species of *Anacolosa* — the only climbers in Olacaceae s.l.; 1 species in Gabon
 - [[Kolobopetalum]] — Menispermaceae; lianas; 4 species in Gabon (incl. 1 undescribed)
 - [[Lecomtedoxa]] — Sapotaceae; dehiscent-fruited hard-wood trees; 5 species in Gabon
 - [[Letestua]] — Sapotaceae; monotypic hard-wood tree genus of Gabon and Mayombe; 1 species in Gabon
@@ -68,6 +71,8 @@ See [[CLAUDE]] for the schema and conventions.
 - [[Limaciopsis]] — Menispermaceae; **monospecific**; liana with large fruits; 1 species in Gabon
 - [[Manilkara]] — Sapotaceae; latex-bearing trees or shrubs; 5 species in Gabon
 - [[Neolemonniera]] — Sapotaceae; striate-leaved pseudo-whorled tree genus; 1 species in Gabon
+- [[Octoknema]] — Octoknemaceae; axillary racemes, endocarp with internal plates; 4 species in Gabon
+- [[Okoubaka]] — Octoknemaceae; cauline panicles and a 9–15 cm drupe — the largest fruit in the group; 1 species in Gabon
 - [[Olax]] — Olacaceae; 4-winged branchlets, staminodes present; largest Gabonese Olacaceae genus; 6 species in Gabon
 - [[Omphalocarpum]] — Sapotaceae; cauliflorous trunk-fruiting tree genus with many-seeded woody fruits; 3 species in Gabon
 - [[Ongokea]] — Olacaceae; monospecific; staminal tube, fruiting calyx opening by 2–3 valves; source of isano oil; 1 species in Gabon
@@ -262,13 +267,23 @@ See [[CLAUDE]] for the schema and conventions.
 
 ### Olacaceae
 
-<!-- Partial ingest: family and all 11 genus pages exist; 23 of 27 species and
-variety pages are still to be written. See log.md 2026-07-29. -->
+Complete: family, all 11 genus pages, and all 27 species/variety pages, plus
+post-Flore additions. Selected entries:
 
-- [[Anacolosa_uncifera]] — *Anacolosa uncifera* J.Louis & Boutique — liana 8–10 m with circinate hooks; swamp and inundated forest; Ogooué-Ivindo (Bélinga, 1000 m)
+- [[Keita_uncifera]] — *Keita uncifera* (J.Louis & Boutique) Cheek — liana 8–10 m with circinate hooks; **transferred from *Anacolosa* in 2024**; Ogooué-Ivindo (Bélinga, 1000 m)
+- [[Engomegoma_gordonii]] — *Engomegoma gordonii* Breteler — tree; monotypic genus described from Gabon 1996; **post-Flore, stub**
+- [[Strombosiopsis_sereinii]] — *Strombosiopsis sereinii* Breteler — tree; second Gabonese *Strombosiopsis*, described 2001; **post-Flore, stub**
 - [[Ximenia_americana]] — *Ximenia americana* L. — spiny coastal shrub 6–8 m; seed oil rich in ximenic acid; Estuaire, Ogooué-Maritime
 - [[Olax_gambecola]] — *Olax gambecola* Baill. — shrub 0.3–3(–8) m; bark and seeds smell strongly of garlic, used as condiment; long synonymy
 - [[Strombosiopsis_tetrandra]] — *Strombosiopsis tetrandra* Engl. — tree 4–30 m; bark exudes sticky red resin used to varnish pottery; widespread
+
+### Octoknemaceae
+
+- [[Octoknema_genovefa]] — *Octoknema genovefa* — peltate leaf base, densely pubescent beneath
+- [[Octoknema_klaineana]] — *Octoknema klaineana* Pierre — blade glabrous above, rounded leaf base
+- [[Octoknema_dinklagei]] — *Octoknema dinklagei* — midrib, fruit and branchlets glabrous
+- [[Octoknema_affinis]] — *Octoknema affinis* Pierre — type species of the genus; pubescent midrib and fruit
+- [[Okoubaka_aubrevillei]] — *Okoubaka aubrevillei* Pellegr. & Normand — tree with cauline panicles and a 9–15 cm drupe
 
 ### Ranunculaceae
 
@@ -303,9 +318,11 @@ variety pages are still to be written. See log.md 2026-07-29. -->
 
 ## Counts
 
-- Families: 25
-- Genera: 63
-- Species: 150
+- Families: 26
+- Genera: 67
+- Species: 180
 - Volumes ingested (any family): 15 / 61
 - Volumes fully ingested (all families): 2 / 61 ([[vol18]], [[vol60]])
-- Incomplete ingests: [[Olacaceae]] (Vol 20) — 23 of 27 species/variety pages outstanding
+- Post-Flore additions recorded: [[Keita]] (2024), [[Engomegoma]] (1996), [[Strombosiopsis_sereinii]] (2001)
+- Stubs needing a protologue: [[Engomegoma_gordonii]], [[Strombosiopsis_sereinii]]
+- Vol 20 families not yet ingested: Opiliaceae, Pentadiplandraceae, Icacinaceae

@@ -985,3 +985,69 @@ Ongokea_gore.
   segregate family on each genus page.
 - *Ximenia gabonensis* Lanessan is discussed but not accepted — no type, no
   material. Recorded on the *Ximenia americana* page rather than given a page.
+
+## [2026-07-29] ingest | Olacaceae completion + Octoknemaceae (Vol 20)
+
+First run of the bulk tier (`flora_ocr.wiki.author`, Haiku 4.5, sync mode).
+
+Created via bulk tier: the 20 outstanding Olacaceae species/variety pages and
+all 5 Octoknemaceae species pages. 25 pages, 0 rejected, ≈ $0.28.
+
+Created by hand (synthesis tier): `families/Octoknemaceae.md`,
+`genera/Octoknema.md`, `genera/Okoubaka.md`.
+
+Olacaceae is now complete: family, 11 genus pages, 27 species/variety pages.
+
+### Quality checks run on the 32 generated pages
+
+- structural: all have frontmatter, `## Source`, no code fences; 19 of 19
+  figure links resolve on disk.
+- fidelity: numbers in each page traced back against its own source block plus
+  its figure captions — 1195 checked, 20 untraceable (1.7%), all of which are
+  artefacts (`20` from "Volume 20" in citations; `1000`/`1400` from "alt. 1 000
+  m", where the source uses a space as thousands separator).
+
+### The province problem
+
+The bulk tier systematically **infers Gabonese provinces from collecting
+localities**, which the source does not give. It did so on 9 of 20 Olacaceae
+pages and 1 of 5 Octoknemaceae pages, and got at least one wrong (Monts de
+Cristal assigned to Ogooué-Lolo; it is in Estuaire/Woleu-Ntem). Instruction
+alone did not stop it. The runner now strips any province not named verbatim in
+the source block and reports what it dropped. `wiki/CLAUDE.md` records the rule.
+
+### Schema change
+
+Infraspecific taxa were undefined in the schema. Set deliberately: they live in
+`species/`, are typed `type: species` so Dataview queries still see them, and
+carry `infraspecific_rank` (var/subsp/f) and `parent_species`.
+
+## [2026-07-29] ingest | post-Flore additions to Olacaceae s.l.
+
+Literature published since Vol 20 (1973), at the user's request.
+
+- **[[Keita]] Cheek** — Cheek, Molmou, Gosline & Magassouba (2024), Kew Bull.
+  79: 317–332, doi:10.1007/s12225-024-10172-w. New genus for the two
+  continental African species previously in *Anacolosa*, unique in Olacaceae
+  s.l. in being climbers. `species/Anacolosa_uncifera.md` renamed to
+  `species/Keita_uncifera.md`; [[Anacolosa]] marked as no longer occurring in
+  Gabon.
+- **[[Engomegoma]] Breteler** — Breteler, Baas, Boesewinkel, Bouman &
+  Lobreau-Callen (1996), Bot. Jahrb. Syst. 118: 113–132 (Novitates Gabonenses
+  27). Monotypic, described from Gabon, absent from Villiers' key.
+  [[Engomegoma_gordonii|E. gordonii]], Cameroon to Gabon.
+- **[[Strombosiopsis_sereinii|Strombosiopsis sereinii]] Breteler** — Adansonia
+  23(2): 303–306 (2001), Novitates Gabonenses 40. Third species of the genus,
+  second in Gabon; Vol 20's "monospecific" is superseded.
+
+Net effect on Gabon: **12 genera on current names against Villiers' 11** —
+*Anacolosa* out, *Keita* and *Engomegoma* in. Recorded in a "Changes since the
+Flore" section on [[Olacaceae]].
+
+Notes:
+- The two post-Flore species pages are **stubs**, flagged as such in HTML
+  comments. Only bibliographic and distribution data could be verified; no
+  protologue was read and nothing was inferred. They need
+  Bot. Jahrb. Syst. 118: 113–132 and Adansonia 23(2): 303–306 transcribing.
+- Known unread source: a 2011 monograph of *Octoknema* in Kew Bulletin, which
+  likely supersedes parts of the [[Octoknemaceae]] treatment just ingested.
