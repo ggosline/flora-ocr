@@ -22,6 +22,7 @@ Usage
 
 import argparse
 import json
+import os
 import pathlib
 import re
 import shutil
@@ -62,9 +63,37 @@ def _apply_flora(name: str) -> None:
     VOL_PATTERN = f.vol_pattern
     PDF_GLOB = f.pdf_glob
 
-# Path to Node 20 liteparse binary (installed via nvm)
-_NVM_NODE       = pathlib.Path.home() / ".nvm/versions/node/v20.20.2/bin/node"
-_LITEPARSE_BIN  = pathlib.Path.home() / ".nvm/versions/node/v20.20.2/bin/liteparse"
+# Command prefix to invoke liteparse's `parse` subcommand. liteparse ships as a
+# standalone CLI (`lit` / `liteparse`, e.g. `pip install liteparse` or
+# `cargo install liteparse`) and as a Node package (`@llamaindex/liteparse`,
+# invoked as `node <bin>`). Resolve whichever is present so the pipeline runs on
+# the Linux box (original nvm/Node setup) and on machines with only the pip build.
+def _resolve_liteparse_cmd() -> list[str]:
+    override = os.environ.get("LITEPARSE_BIN")
+    if override:
+        return [override]
+    # Standalone CLI installed alongside the running interpreter (pip drops
+    # `lit`/`liteparse` into the venv's Scripts/bin dir, which isn't on PATH
+    # unless the venv is activated).
+    bindir = pathlib.Path(sys.executable).parent
+    for name in ("lit", "liteparse"):
+        for cand in (bindir / name, bindir / f"{name}.exe"):
+            if cand.exists():
+                return [str(cand)]
+    # Original Linux setup: Node 20 liteparse via nvm.
+    nvm_node = pathlib.Path.home() / ".nvm/versions/node/v20.20.2/bin/node"
+    nvm_bin = pathlib.Path.home() / ".nvm/versions/node/v20.20.2/bin/liteparse"
+    if nvm_node.exists() and nvm_bin.exists():
+        return [str(nvm_node), str(nvm_bin)]
+    # Anything on PATH.
+    for name in ("lit", "liteparse"):
+        found = shutil.which(name)
+        if found:
+            return [found]
+    return []
+
+
+_LITEPARSE_CMD = _resolve_liteparse_cmd()
 
 # Figure caption markers (French and English)
 _CAPTION_RE = re.compile(
@@ -165,16 +194,49 @@ def is_article_processed(article_id: str) -> bool:
 def run_liteparse(pdf_path: pathlib.Path) -> dict:
     """Run liteparse CLI and return the parsed JSON dict."""
     cmd = [
-        str(_NVM_NODE), str(_LITEPARSE_BIN),
+        *_LITEPARSE_CMD,
         "parse", "--format", "json", "--no-ocr",
         str(pdf_path),
     ]
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+    # liteparse emits UTF-8; force it so Windows' cp1252 default doesn't choke on
+    # accented French text in the JSON payload.
+    result = subprocess.run(cmd, capture_output=True, text=True,
+                            encoding="utf-8", errors="replace", timeout=600)
     if result.returncode != 0:
         raise RuntimeError(
             f"liteparse failed (exit {result.returncode}):\n{result.stderr[:1000]}"
         )
-    return json.loads(result.stdout)
+    return _normalize_schema(json.loads(result.stdout))
+
+
+def _normalize_schema(data: dict) -> dict:
+    """Map the standalone liteparse schema (snake_case) to the camelCase field
+    names the rest of this module reads (as the Node build originally emitted).
+
+    Guards make this a no-op on JSON that already uses the camelCase names, so
+    both the pip/Rust CLI and the Node build work unchanged.
+
+    The pip/Rust liteparse leaves ``font_size == 1.0`` for the overwhelming
+    majority of items (it fills a real value for only a handful), so
+    font-size-based heading detection — which is how family headings are found —
+    would never fire. The bounding-box ``height`` is its reliable size signal, so
+    for items with no camelCase ``fontSize`` we derive it from ``height`` (and
+    fall back to the raw ``font_size`` only if no height is present).
+    """
+    for page in data.get("pages", []):
+        items = page.get("textItems")
+        if items is None:
+            items = page.get("text_items", [])
+            page["textItems"] = items
+        for it in items:
+            if "fontSize" not in it:
+                if "height" in it:
+                    it["fontSize"] = it["height"]
+                elif "font_size" in it:
+                    it["fontSize"] = it["font_size"]
+            if "fontName" not in it and "font_name" in it:
+                it["fontName"] = it["font_name"]
+    return data
 
 
 def run_paddle_fallback(vol_label: str, force: bool = False) -> bool:
@@ -443,12 +505,20 @@ def _normalise_letters(text: str) -> str:
     return re.sub(r"[^A-Za-z]+", "", text).lower()
 
 
+# No accepted plant family name is longer than this; a longer "-aceae word" is a
+# run-on of several words with no spaces (e.g. "Millettiaspeciesfabaceae"), which
+# we must not mistake for a single family.
+_MAX_FAMILY_LEN = 20
+
+
 def _family_name_from_normalised(norm: str) -> str | None:
     """Return a normalized family name from the front of `norm`, if present."""
     m = re.match(r"^([a-z]{4,30}(?:aceae|eaceae))", norm)
     if not m:
         return None
     fam = m.group(1)
+    if len(fam) > _MAX_FAMILY_LEN:
+        return None
     return fam[0].upper() + fam[1:]
 
 
@@ -483,12 +553,50 @@ def _toc_family_names(
     return fams
 
 
+# A single family word ("Cyperaceae", "CYPERACEAE", "Ancistrocladaceae").
+_FAMILY_WORD_RE = re.compile(r"\b([A-Za-z]{4,}(?:aceae|eaceae))\b", re.IGNORECASE)
+
+# The eight classic family names that don't end in -aceae; Flore du Gabon uses
+# these older forms as volume/family headings (e.g. vol 58 "Labiatae").
+_CLASSIC_FAMILIES = {
+    "labiatae": "Labiatae", "compositae": "Compositae", "gramineae": "Gramineae",
+    "leguminosae": "Leguminosae", "umbelliferae": "Umbelliferae",
+    "palmae": "Palmae", "cruciferae": "Cruciferae", "guttiferae": "Guttiferae",
+}
+
+
+def _family_tokens(plain: str) -> list[str]:
+    """Return the distinct family names named as whole words in `plain`."""
+    found: list[str] = []
+    for t in _FAMILY_WORD_RE.findall(plain):
+        if len(t) > _MAX_FAMILY_LEN:
+            continue  # a spaceless run-on of several words, not one family
+        cap = t[0].upper() + t[1:].lower()
+        if cap not in found:
+            found.append(cap)
+    for w in re.findall(r"\b([A-Za-z]{5,})\b", plain):
+        canon = _CLASSIC_FAMILIES.get(w.lower())
+        if canon and canon not in found:
+            found.append(canon)
+    return found
+
+
 def _family_heading_name(line: str, known_families: list[str] | None = None) -> str | None:
     """Return family name for a heading line, handling spaced small-caps OCR."""
     plain = re.sub(r"^#+\s*", "", line).strip()
     if not plain:
         return None
 
+    # Prefer whole-word matching so a genus prefix ("Millettia species Fabaceae")
+    # or a multi-family title line ("Labiatae, Ulmaceae, Verbenaceae") isn't
+    # mangled into one run-on name by the space-stripping below.
+    tokens = _family_tokens(plain)
+    if len(tokens) == 1:
+        return tokens[0]
+    if len(tokens) >= 2:
+        return None  # a listing of several families is not a single heading
+
+    # No clean whole word (e.g. spaced small-caps OCR "Ar IS t O l OC h IACEAE").
     norm = _normalise_letters(plain)
     if not norm:
         return None
@@ -962,8 +1070,10 @@ def main():
     args = parser.parse_args()
     _apply_flora(args.flora)
 
-    if not _LITEPARSE_BIN.exists():
-        print(f"ERROR: liteparse not found at {_LITEPARSE_BIN}")
+    if not _LITEPARSE_CMD:
+        print("ERROR: liteparse CLI not found. Install it (pip install liteparse, "
+              "cargo install liteparse, or npm i -g @llamaindex/liteparse) or set "
+              "$LITEPARSE_BIN to its path.")
         sys.exit(1)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
