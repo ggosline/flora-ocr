@@ -170,6 +170,30 @@ class Block:
         return len(self.text)
 
 
+# Hierarchical enumerators: '1.1.', '4. 2.', '10.3.' — used by the later
+# volumes to number species within genus. Both the strict patterns and the
+# fallbacks expect a single level, so collapse to one before classifying.
+_MULTI_ENUM_RE = re.compile(r"^\s*(?:\d+\s*[.)]\s*){2,}")
+
+# Supra-generic names (subtribe -INAE, tribe -EAE, subfamily -OIDEAE) match the
+# genus pattern — caps word plus authority — but must never open a genus block.
+_SUPRAGENERIC_RE = re.compile(r"(?:INAE|OIDEAE|EAE)$", re.IGNORECASE)
+
+
+def _normalise_enumerator(heading: str) -> str:
+    """'1.1. Brachycorythis conica' → '1. Brachycorythis conica'."""
+    m = _MULTI_ENUM_RE.match(heading)
+    return f"1. {heading[m.end():]}" if m else heading
+
+
+def _is_suprageneric(heading: str) -> bool:
+    words = _ENUM_STRIP_RE.sub("", heading.strip()).split()
+    return bool(words) and _SUPRAGENERIC_RE.search(N.strip_accents(words[0]))
+
+
+_ENUM_STRIP_RE = re.compile(r"^\s*(?:(?:\d+|[IVXLC]{1,5}|[a-z])\s*[.)]\s*)+")
+
+
 def _heads_a_family(heading: str) -> bool:
     """True when a heading's first word is a family name.
 
@@ -192,7 +216,9 @@ def _known_genera(lines: list[str]) -> set[str]:
         hm = HEADING_RE.match(line.rstrip("\n"))
         if not hm:
             continue
-        heading = hm.group(2)
+        heading = _normalise_enumerator(hm.group(2))
+        if _is_suprageneric(heading):
+            continue
         rank, _ = classify(heading)
         if rank == "genus" and not _heads_a_family(heading):
             parsed = N.parse_heading(heading, "genus")
@@ -234,12 +260,14 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
         if not hm:
             continue
 
-        heading = hm.group(2)
+        heading = _normalise_enumerator(hm.group(2))
         if BACK_MATTER_RE.match(N.strip_accents(heading).strip().upper()):
             terminators.append(i)
             continue
 
         rank, _level = classify(heading)
+        if rank in ("genus", "family") and _is_suprageneric(heading):
+            continue                     # subtribe/tribe/subfamily heading
         if rank == "genus" and _heads_a_family(heading):
             rank = "family"               # 'APIACEAE Lindl. (1836)' is a family
         confident = rank is not None      # matched a strict, numbered pattern
