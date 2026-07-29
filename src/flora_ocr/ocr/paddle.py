@@ -237,15 +237,31 @@ _FAM_TRUNC_RE = re.compile(
     re.MULTILINE,
 )
 
+# French vernacular forms of the ICN nom. cons. families whose Latin names don't
+# end in -aceae. Scanned Flore du Gabon title pages declare e.g. "GRAMINÉES" or
+# "LÉGUMINEUSES - CAESALPINIOIDÉES" rather than a -aceae heading, so without this
+# the whole volume never splits (vols 5, 15). Keys are accent-stripped uppercase.
+_FRENCH_LEGACY_FAMILIES = {
+    'GRAMINEES': 'Gramineae', 'LEGUMINEUSES': 'Leguminosae',
+    'COMPOSEES': 'Compositae', 'OMBELLIFERES': 'Umbelliferae',
+    'CRUCIFERES': 'Cruciferae', 'LABIEES': 'Labiatae',
+    'GUTTIFERES': 'Guttiferae', 'PALMIERS': 'Palmae',
+}
+_FRENCH_LEGACY_RE = re.compile(
+    r'^#{1,4}\s+(?:FAMILLE\s+DES?\s+)?([A-ZÀ-Ý]{5,})',
+    re.MULTILINE,
+)
+
 
 def _detect_families(markdown: str) -> list[tuple[str, int]]:
     """Return [(family_name, char_offset), …] for each family heading found.
 
-    Two passes, merged in document order: fully-spelled family names (_FAM_RE)
-    and column-truncated ones repaired via _repair_family_stem (_FAM_TRUNC_RE).
-    Consecutive duplicates (same family name) are de-duplicated so that running
-    headers like ``# EBENACEES`` repeated each page — or a truncated body heading
-    that recurs as a sub-heading — only count as the first occurrence's start.
+    Three passes, merged in document order: fully-spelled family names (_FAM_RE),
+    column-truncated ones repaired via _repair_family_stem (_FAM_TRUNC_RE), and
+    French vernacular nom. cons. names (_FRENCH_LEGACY_FAMILIES). Consecutive
+    duplicates (same family name) are de-duplicated so that running headers like
+    ``# EBENACEES`` repeated each page — or a truncated body heading that recurs
+    as a sub-heading — only count as the first occurrence's start.
     """
     hits: list[tuple[int, str]] = []
     for m in _FAM_RE.finditer(markdown):
@@ -254,6 +270,10 @@ def _detect_families(markdown: str) -> list[tuple[str, int]]:
         repaired = _repair_family_stem(m.group(1))
         if repaired:
             hits.append((m.start(), _normalize_family(repaired)))
+    for m in _FRENCH_LEGACY_RE.finditer(markdown):
+        fam = _FRENCH_LEGACY_FAMILIES.get(_strip_accents(m.group(1)).upper())
+        if fam:
+            hits.append((m.start(), fam))
     hits.sort(key=lambda h: h[0])
 
     families: list[tuple[str, int]] = []
