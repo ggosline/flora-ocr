@@ -187,8 +187,18 @@ def _normalise_enumerator(heading: str) -> str:
 
 
 def _is_suprageneric(heading: str) -> bool:
+    """True for subtribe/tribe/subfamily headings, but never for a family.
+
+    Family names end in -ACEAE, which also ends in -EAE, so the family test has
+    to win. Without it every '# OLACACEAE' is skipped and the family breadcrumb
+    is lost for every species beneath it.
+    """
     words = _ENUM_STRIP_RE.sub("", heading.strip()).split()
-    return bool(words) and _SUPRAGENERIC_RE.search(N.strip_accents(words[0]))
+    if not words:
+        return False
+    if N.canonical_family(words[0].strip(".,:;")):
+        return False
+    return bool(_SUPRAGENERIC_RE.search(N.strip_accents(words[0])))
 
 
 _ENUM_STRIP_RE = re.compile(r"^\s*(?:(?:\d+|[IVXLC]{1,5}|[a-z])\s*[.)]\s*)+")
@@ -507,8 +517,27 @@ def segment(treatment: Treatment) -> list[Block]:
             warnings=list(p.warnings), tier=TIER[h["rank"]],
         ))
 
+    _backfill_family(blocks, treatment.family)
     _flag_oversized(blocks)
     return blocks
+
+
+def _backfill_family(blocks: list[Block], fallback: str | None) -> None:
+    """Give every taxon block a family.
+
+    A taxon's family normally comes from the breadcrumb set by the enclosing
+    family heading. When OCR mangled that heading badly enough that it was never
+    detected, the breadcrumb is empty and downstream consumers cannot tell which
+    family a species belongs to — so fall back to the nearest preceding family
+    block, then to the directory name.
+    """
+    current = ""
+    for b in blocks:
+        if b.rank == "family":
+            current = b.name
+            continue
+        if b.rank in ("genus", "species", "infraspecific") and not b.family:
+            b.family = current or (fallback or "")
 
 
 # A species block far larger than its peers means a heading between it and the
