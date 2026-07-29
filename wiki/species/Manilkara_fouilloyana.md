@@ -5,11 +5,12 @@ authority: Aubrev. & Pellegr.
 genus: Manilkara
 family: Sapotaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [Cameroon, Central African Republic]
 habit: large tree
 habitat: [primary humid forest, terra firme]
 altitude_m: ""
+countries: [Cameroon, Central African Republic]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "34-35"

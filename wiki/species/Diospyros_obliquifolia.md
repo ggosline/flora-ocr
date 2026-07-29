@@ -5,10 +5,12 @@ authority: "(Hiern ex Gurke) F. White"
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Estuaire, Ogooue-Lolo]
-distribution_other: [Cameroon, Equatorial Guinea, Ivory Coast, Nigeria, Republic of the Congo]
 habit: shrub
 habitat: [evergreen humid forest]
+countries: [Cameroon, Côte d'Ivoire, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

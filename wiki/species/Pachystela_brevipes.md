@@ -10,11 +10,13 @@ synonyms:
   - Chrysophyllum cinereum Engl.
   - Pachystela cinerea (Engl.) Pierre msc.
   - Pouteria brevipes (Bak.) Baehni
-distribution_gabon: [Moyen-Ogooue, Nyanga, Ogooue-Lolo, Estuaire]
-distribution_other: []
 habit: tree
 habitat: [river and lake margins]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Moyen-Ogooué, Nyanga, Ogooué-Lolo, Estuaire]
+in_region: true
 treatments:
   - vol: 1
     pages: "114-115"

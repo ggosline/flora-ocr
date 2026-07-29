@@ -5,10 +5,12 @@ authority: "(Schum. & Thonn.) Hiern"
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Estuaire, Ogooue-Maritime]
-distribution_other: [Ivory Coast, Ghana, Togo, Benin, Nigeria]
 habit: shrub
 habitat: [littoral scrub]
+countries: [Benin, Côte d'Ivoire, Gabon, Ghana, Nigeria, Togo]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

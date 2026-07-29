@@ -7,14 +7,18 @@ family: Olacaceae
 synonyms:
   - S. toroensis S. Moore
   - S. minor Engl.
-distribution_other: [Nigeria, Democratic Republic of the Congo, Angola, Tanzania, East Africa]
 habit: tree
 habitat: [acidic soil forest, granitic soil forest]
+countries: [Angola, Democratic Republic of the Congo, Nigeria, Tanzania]
+range_note: "East Africa"
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "141–144"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Strombosia scheffleri* Engler
 
@@ -50,8 +54,7 @@ Bot. Jahrb. **43**: 166 (1909); Notizbl. bot. Gart. Berl. **3**: 84, nom. nud. (
 
 Forest preferring acidic and granitic soils. Flowering and fruiting dates are the same as for *S. grandifolia*.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Le Testu 7121*, Lastourville (fl., March)
 
 ## Properties and uses

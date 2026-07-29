@@ -5,12 +5,14 @@ authority: Oliver
 genus: Strombosia
 family: Olacaceae
 synonyms: ["S. glaucescens Engl.", "S. rigida Engl."]
-distribution_other: [West Africa]
+range_note: "West Africa"
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "139–141"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Strombosia pustulata* Oliver
 

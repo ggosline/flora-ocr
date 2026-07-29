@@ -7,7 +7,7 @@ family: Olacaceae
 synonyms:
   - O. laurentii (De Wild.) Engl.
   - O. schlechteri Engl.
-distribution_gabon: []
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "117–121"

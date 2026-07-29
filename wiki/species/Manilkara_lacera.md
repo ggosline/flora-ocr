@@ -5,11 +5,13 @@ authority: "(Bak.) Dubard"
 genus: Manilkara
 family: Sapotaceae
 synonyms: [Mimusops lacera, Mimusops angolensis]
-distribution_gabon: [coastal zone]
-distribution_other: [Sierra Leone to Angola]
 habit: tree or shrub
 habitat: [beach, littoral thicket, lagoon edge, river edge]
 altitude_m: ""
+countries: [Gabon, Sierra Leone to Angola]
+subdivisions:
+  Gabon: [coastal zone]
+in_region: true
 treatments:
   - vol: 1
     pages: "35-37"

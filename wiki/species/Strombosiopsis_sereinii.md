@@ -4,7 +4,6 @@ name: Strombosiopsis sereinii
 authority: Breteler
 genus: Strombosiopsis
 family: Olacaceae
-distribution_other: []
 habit: tree
 treatments:
   - kind: article

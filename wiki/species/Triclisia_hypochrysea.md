@@ -5,12 +5,14 @@ authority: Diels
 genus: Triclisia
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Estuaire, Ngounié, Ogooué-Maritime]
-distribution_other: []
 habit: liana
 habitat: [primary forest, secondary forest]
 altitude_m: "50–500"
 endemic_to_gabon: true
+countries: [Gabon]
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 60
     pages: "85"

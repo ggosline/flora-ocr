@@ -5,15 +5,18 @@ infraspecific_rank: var
 parent_species: Strombosia pustulata
 genus: Strombosia
 family: Olacaceae
-distribution_other: [Senegal to Democratic Republic of the Congo]
 habit: tree
 habitat: [dense evergreen forest, riparian forest]
 altitude_m: not specified
+countries: [Senegal to Democratic Republic of the Congo]
+in_region: false
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "139–141"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Strombosia pustulata* var. *pustulata*
 
@@ -45,8 +48,7 @@ tags: [species]---
 
 Dense evergreen forest and riparian forest. Flowering from August to September; fruits ripen from September onwards.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Hallé N. A 10*, Makokou km 16
 - *Klaine 3130*, Libreville (fl., Oct.)
 - *Le Testu 6313*, Haute Ngounié (fr.)

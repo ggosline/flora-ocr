@@ -5,10 +5,11 @@ authority: "(Gurke) F. White"
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [Cameroon]
 habit: tree
 habitat: [evergreen forest]
+countries: [Cameroon]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

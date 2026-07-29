@@ -9,11 +9,13 @@ synonyms:
   - "Dioscoreophyllum cumminsii (Stapf) Diels in Engl., Pflanzenr. IV.94: 181 (1910)"
   - "Dioscoreophyllum jollyanum Pierre ex Diels, in Engl., Pflanzenr. IV.94: 181 (1910), nom. inval."
   - "Dioscoreophyllum klaineanum Pierre ex Diels, in Engl., Pflanzenr. IV.94: 179 (1910)"
-distribution_gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Lolo]
-distribution_other: [Guinea-Bissau east to Kenya, south to Angola and Zimbabwe]
 habit: twining herb
 habitat: [flooded forest, gallery forest, primary forest, secondary forest]
 altitude_m: "25–270 (Gabon); up to 1140 elsewhere"
+countries: [Gabon, Guinea-Bissau east to Kenya, south to Angola and Zimbabwe]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "46"

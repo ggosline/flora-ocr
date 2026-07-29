@@ -1,18 +1,21 @@
 ---
 type: species
-name: Octoknema genovefa
+name: Octoknema genovefae
 authority: Villiers
 genus: Octoknema
 family: Octoknemaceae
-distribution_other: [Cameroon, Republic of the Congo]
 habit: shrub
+countries: [Cameroon, Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "184–186"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
-# *Octoknema genovefa* Villiers
+# *Octoknema genovefae* Villiers
 
 **Family**: [[Octoknemaceae]] · **Genus**: [[Octoknema]]
 
@@ -40,13 +43,18 @@ Known from Cameroon and the Republic of the Congo. To be sought in Gabon.
 
 ## Notes
 
+**Epithet and range corrected (2011).** Villiers published this species as *O. genovefae* (1972); the Vol 20 heading was read by OCR as "genovefa" and the page has been renamed. More importantly, Gosline & Malécot (2011) give the range as **Cameroon only** — river basins from Yaoundé to the coast, possibly also Rio Muni — so it **does not occur in Gabon**, contrary to its inclusion in the Flore du Gabon. See [[Octoknema]].
+
+Revision: Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404.
+
+
 *De Wilde 2814* differs from other specimens in having less dense pubescence on the lower face.
 
 Vernacular name: *nom avulu* (Yaoundé).
 
 ## Figures
 
-![PL. 41 — *Octoknema genovefa* Villiers: 1, leaves and male inflorescences × 3/4; 2, base of blade × 1.5; 3, stellate hair; 4, detail of a male fascicle × 4; 5, bract × 17.5; 6–7, male flower bud × 13.5; 8, male flower diagram; 9–9', petal × 16; 10, stamen × 32.5; 11, pistillode × 22.](../sources/Olacaceae_vol20_paddle/figures/fig_041_p0185.png)
+![PL. 41 — *Octoknema genovefae* Villiers: 1, leaves and male inflorescences × 3/4; 2, base of blade × 1.5; 3, stellate hair; 4, detail of a male fascicle × 4; 5, bract × 17.5; 6–7, male flower bud × 13.5; 8, male flower diagram; 9–9', petal × 16; 10, stamen × 32.5; 11, pistillode × 22.](../sources/Olacaceae_vol20_paddle/figures/fig_041_p0185.png)
 
 ## Source
 

@@ -5,13 +5,15 @@ authority: Breteler
 genus: Albertisia
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Ogooué-Lolo]
-distribution_other: []
 habit: liana
 habitat: [secondary forest, riparian forest]
 altitude_m: "± 300"
 endemic_to_gabon: true
 type_locality_gabon: true
+countries: [Gabon]
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "32"

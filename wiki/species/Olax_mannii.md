@@ -10,14 +10,17 @@ synonyms:
   - O. major Stapf
   - O. gilletii De Wildeman
   - O. insculpta Hutch. ex Baker
-distribution_other: [Nigeria, Cameroon, Democratic Republic of the Congo]
 habit: shrub
 habitat: [dense forest, riverine and swamp forest, argillaceous-sandy soils]
+countries: [Cameroon, Democratic Republic of the Congo, Nigeria]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "115–117"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Olax mannii* Oliver
 
@@ -47,8 +50,7 @@ Range from Nigeria to the Democratic Republic of the Congo (lower Congo region).
 
 Dense forest, riverine and swamp forest. Grows on argillaceous-sandy, humid soils.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Hallé N. 1408*, 6 km N Makokou (fr., Mar.)
 - *Hallé N. 1408, 3179*, Bélinga (fr., Nov.)
 - *Hallé N. & Villiers J.-F. 4595*, Monts de Cristal, route de Kinguélé (fr., Jan.)

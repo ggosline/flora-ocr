@@ -7,11 +7,13 @@ family: Menispermaceae
 synonyms:
   - "Glossopholis macrophylla Pierre, Bull. Soc. Linn. Paris n.s. 1: 84 (1898)"
   - "Tiliacora soyauxii Engl., Bot. Jahrb. Syst. 26: 401 (1899)"
-distribution_gabon: [Estuaire, Moyen-Ogooué]
-distribution_other: [Cameroon]
 habit: liana
 habitat: [primary forest, secondary forest]
 altitude_m: "≤ 50"
+countries: [Cameroon, Gabon]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué]
+in_region: true
 treatments:
   - vol: 60
     pages: "79"

@@ -8,14 +8,17 @@ synonyms:
   - Strombosiopsis zenkeri Engl.
   - S. majuscula S. Moore
   - Strombosia retevenia S. Moore
-distribution_other: [Nigeria, Angola, Democratic Republic of the Congo, Cameroon]
 habit: tree
 habitat: [dense humid forest, understory]
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Nigeria]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "152–154"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Diogoa zenkeri* (Engler) Exell & Mendonça
 
@@ -54,8 +57,7 @@ TYPE: *Zenker 2260*, Cameroon (holo-, B, deleted; iso-, P!).
 
 Understory tree of dense humid forest.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Estasse 576 SRF, 688 SRF*, Mondah
 - *Fleury in Chevalier 26614*, environs of Nkogo on the Ogooué
 - *Klaine 2151, 2168, 2968, 3151*, environs of Libreville (fl., Jan.–Nov.); *3536*, Sibang (fl., June)

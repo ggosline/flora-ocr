@@ -5,10 +5,13 @@ authority: "Hochst. ex A. DC."
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Nyanga]
-distribution_other: [West Africa, Central Africa, eastern and southern Africa]
 habit: tree
 habitat: [dry forest, riverine forest, savanna woodland]
+countries: [Gabon, eastern and southern Africa]
+subdivisions:
+  Gabon: [Nyanga]
+range_note: "West Africa; Central Africa"
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

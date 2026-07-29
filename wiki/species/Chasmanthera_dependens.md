@@ -6,11 +6,13 @@ genus: Chasmanthera
 family: Menispermaceae
 synonyms:
   - "Chasmanthera welwitschii Troupin, Fl. Congo belge, Rwanda-Urundi, Spermat. II: 241 (1951), syn. nov."
-distribution_gabon: [Ngounié, Nyanga]
-distribution_other: [Sierra Leone east to Ethiopia and Somalia, south to Angola and Zambia]
 habit: liana
 habitat: [flooded forest, dense terra firma forest]
 altitude_m: "up to 300 (Gabon); up to ± 1500 elsewhere"
+countries: [Gabon, Sierra Leone east to Ethiopia and Somalia, south to Angola and Zambia]
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+in_region: true
 treatments:
   - vol: 60
     pages: "40"

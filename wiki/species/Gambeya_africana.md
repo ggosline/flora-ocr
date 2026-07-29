@@ -6,11 +6,14 @@ genus: Gambeya
 family: Sapotaceae
 synonyms:
   - Chrysophyllum africanum Baker
-distribution_gabon: [Estuaire, Nyanga, Ngounie, Moyen-Ogooue]
-distribution_other: [Sierra Leone, Congo Basin]
 habit: tree
 habitat: [river margins, dry ground]
 altitude_m: ""
+countries: [Gabon, Sierra Leone]
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ngounié, Moyen-Ogooué]
+range_note: "Congo Basin"
+in_region: true
 treatments:
   - vol: 1
     pages: "137-139"

@@ -5,14 +5,17 @@ infraspecific_rank: var
 parent_species: Ptychopetalum petiolatum
 genus: Ptychopetalum
 family: Olacaceae
-distribution_other: [Nigeria]
 habit: woody shrub or tree
 altitude_m: "to 800"
+countries: [Nigeria]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "149–152"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Ptychopetalum petiolatum* var. *petiolatum*
 
@@ -65,8 +68,7 @@ Mvélakéné, 5 km W Méla; 42 km SE Lambaréné, 1°S and 10°28'E.
 
 Forest understorey in humid dense forest. Recorded up to 800 m altitude.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Breteler 5705*, 42 km SE Lambaréné, 1°S and 10°28'E (fl., Sept.)
 - *Hallé N. & Villiers J.-F. 5209*, Mont Mvélakéné, 5 km W Méla (fl., Feb.)
 - *Mann 1746, 1793*, Muni and Kongui rivers (fl., fr.)

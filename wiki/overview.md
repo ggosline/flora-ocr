@@ -1,4 +1,6 @@
-# Flore du Gabon — Overview
+# Lower Guinea flora — overview
+
+<!-- Scope widened 2026-07-29 from Flore du Gabon to the Lower Guinea region (Nigeria to western DR Congo). Text below still reflects the Gabon-only framing in places and should be restated as other sources are ingested. -->
 
 A rolling synthesis of what the wiki currently knows about the flora of Gabon
 as a whole. Updated when an ingest changes the high-level picture, not on every

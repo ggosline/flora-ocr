@@ -60,8 +60,10 @@ CHARS_PER_TOKEN = 3.6
 # ── Prompt assembly ───────────────────────────────────────────────────────────
 
 SYSTEM_PREAMBLE = """\
-You are writing one page for a botanical wiki built from the Flore du Gabon
-monographs. You will be given the source text for a single taxon — one species
+You are writing one page for a regional botanical wiki covering the flora of
+Lower Guinea — Nigeria to western DR Congo. The source here is a Flore du Gabon
+treatment, one of several sources the wiki draws on. You will be given the
+source text for a single taxon — one species
 or one infraspecific taxon — and you must return that taxon's wiki page.
 
 Return the page and nothing else: no preamble, no commentary, no code fences.
@@ -79,12 +81,16 @@ Hard rules:
 - Do not invent data. If the source does not give a section's content, omit the
   section. Never guess a distribution, a habitat, an altitude or a vernacular
   name.
-- `distribution_gabon` is for provinces **the source itself names**. Flore du
-  Gabon treatments usually list only collecting localities — Makokou, Bélinga,
-  Monts de Cristal — and you must NOT infer the province from a locality. If the
-  source names no province, leave `distribution_gabon` empty and give the
-  localities in the Distribution prose instead. The same applies to
-  `distribution_other`.
+- Distribution uses `countries:` (flat list, the full range) and an optional
+  `subdivisions:` map of country → provinces. Record only places **the source
+  itself names**. These treatments usually list collecting localities —
+  Makokou, Bélinga, Monts de Cristal — and you must NOT infer the province from
+  a locality. Where the source gives localities but no province, omit
+  `subdivisions`, set `countries_incomplete: true`, and put the localities in
+  the Distribution prose.
+- Set `in_region: true` if any country is Nigeria, Cameroon, Equatorial Guinea,
+  São Tomé and Príncipe, Gabon, Republic of the Congo, western DR Congo or
+  Cabinda.
 - Omit any frontmatter field you have no value for. Never emit an empty string
   or an empty list as a placeholder.
 - An infraspecific taxon (var./subsp./f.) uses `type: species`, and adds
@@ -99,16 +105,18 @@ Hard rules:
 
 Section discipline — keep these separate, do not merge them:
 
-- `## Distribution` — the overall range, then the Gabonese localities. Prose
+- `## Distribution` — the overall range, then localities by country. Prose
   only. No specimen lists here.
 - `## Habitat and ecology` — forest type, soils, altitude, flowering period.
-- `## Gabonese material examined` — the collector list from the source's
-  MATÉRIEL GABONAIS ÉTUDIÉ, one bullet per collector.
+- `## Specimens examined` — the collector lists from the source, one bullet per
+  collector. When the source separates them by country (MATÉRIEL CAMEROUNAIS
+  ÉTUDIÉ, MATÉRIEL GABONAIS ÉTUDIÉ), keep that grouping under bold country
+  subheadings.
 
-These treatments cover Cameroon as well as Gabon and usually carry a MATÉRIEL
-CAMEROUNAIS ÉTUDIÉ list. This wiki is about Gabon: **do not transcribe the
-Cameroonian specimen list**. You may state that the species also occurs in
-Cameroon, but the specimens themselves belong to the other flora.
+This is a **regional** wiki covering Nigeria to western DR Congo. Cameroonian,
+Nigerian and Congolese material is fully in scope: transcribe every country's
+specimen list, not just one. Do not treat any country as belonging to "another
+flora".
 """
 
 
@@ -296,33 +304,6 @@ def _strip_accents(s: str) -> str:
                    if not unicodedata.combining(c))
 
 
-def _unsupported_places(fm: dict, source: str) -> list[str]:
-    """Gabonese provinces in the frontmatter that the source never names.
-
-    The observed fabrication is a province inferred from a locality — 'Monts de
-    Cristal' silently becoming 'Ogooué-Lolo', which is wrong. Province names are
-    proper nouns and identical in the French source, so an exact (accent-folded)
-    match is a sound test.
-
-    `distribution_other` is deliberately not checked: country names legitimately
-    translate, so 'Cameroon' is supported by 'MATÉRIEL CAMEROUNAIS' and
-    'Democratic Republic of the Congo' by 'Zaïre' or 'Bas Congo', and a literal
-    match would reject correct work.
-    """
-    raw = fm.get("distribution_gabon", "")
-    if not raw.startswith("["):
-        return []
-    hay = _strip_accents(source).lower()
-    bad = []
-    for place in raw.strip("[]").split(","):
-        place = place.strip().strip("'\"")
-        if place and _strip_accents(place).lower() not in hay:
-            bad.append(
-                f"distribution_gabon: {place!r} is not named in the source "
-                f"(inferred from a locality?)")
-    return bad
-
-
 def validate(page: str, job: Job) -> list[str]:
     """Return a list of problems; empty means the page may be written."""
     problems: list[str] = []
@@ -399,13 +380,18 @@ def strip_empty_frontmatter(page: str) -> str:
 
 
 def strip_unsupported_places(page: str, source: str) -> tuple[str, list[str]]:
-    """Remove Gabonese provinces the source never names.
+    """Remove subdivisions the source never names.
 
     The cheap tier reliably infers a province from a locality even when told not
     to — 'Monts de Cristal' becoming 'Ogooué-Lolo', which is wrong. Rejecting the
     page just retries the same tendency, so correct it instead: drop the
     unsupported entries and report what was dropped. The localities themselves
     survive in the Distribution prose.
+
+    Operates on every country in the `subdivisions:` map. Country names in
+    `countries:` are left alone, because they legitimately translate ('Cameroon'
+    is supported by 'MATÉRIEL CAMEROUNAIS', 'Democratic Republic of the Congo'
+    by 'Zaïre'), whereas subdivision names are proper nouns that appear verbatim.
     """
     parts = page.split("---", 2)
     if len(parts) < 3:
@@ -413,23 +399,47 @@ def strip_unsupported_places(page: str, source: str) -> tuple[str, list[str]]:
 
     notes: list[str] = []
     hay = _strip_accents(source).lower()
-    out_lines = []
+    out_lines: list[str] = []
+    in_subs = False
+
     for line in parts[1].splitlines():
-        m = re.match(r"^(distribution_gabon):\s*\[(.*)\]\s*$", line)
-        if not m:
+        if re.match(r"^subdivisions:\s*$", line):
+            in_subs = True
             out_lines.append(line)
             continue
-        keep, drop = [], []
-        for place in m.group(2).split(","):
-            p = place.strip().strip("'\"")
-            if not p:
+        if in_subs:
+            m = re.match(r"^\s+([^:]+):\s*\[(.*)\]\s*$", line)
+            if m:
+                country, keep, drop = m.group(1).strip(), [], []
+                for place in m.group(2).split(","):
+                    pl = place.strip().strip("'\"")
+                    if not pl:
+                        continue
+                    (keep if _strip_accents(pl).lower() in hay else drop).append(pl)
+                if drop:
+                    notes.append(f"{country}: dropped unsupported "
+                                 f"subdivision(s) {', '.join(drop)}")
+                if keep:
+                    out_lines.append(f"  {country}: [{', '.join(keep)}]")
                 continue
-            (keep if _strip_accents(p).lower() in hay else drop).append(p)
-        if drop:
-            notes.append(f"dropped unsupported province(s): {', '.join(drop)}")
-        if keep:
-            out_lines.append(f"{m.group(1)}: [{', '.join(keep)}]")
-    return "---" + "\n".join(out_lines) + "---" + parts[2], notes
+            if not line.startswith((" ", "	")):
+                in_subs = False
+        out_lines.append(line)
+
+    # A subdivisions: header left with no entries under it is invalid YAML-ish.
+    cleaned: list[str] = []
+    for i, line in enumerate(out_lines):
+        if re.match(r"^subdivisions:\s*$", line):
+            nxt = out_lines[i + 1] if i + 1 < len(out_lines) else ""
+            if not nxt.startswith((" ", "	")):
+                notes.append("removed empty subdivisions block")
+                continue
+        cleaned.append(line)
+
+    if notes:
+        cleaned.append("countries_incomplete: true")
+
+    return "---" + "\n".join(cleaned) + "---" + parts[2], notes
 
 
 def write_page(page: str, job: Job, wiki_root: Path) -> tuple[Path, list[str]]:

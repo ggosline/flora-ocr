@@ -6,11 +6,11 @@ genus: Letestua
 family: Sapotaceae
 synonyms:
   - Letestua floribunda H. Lec.
-distribution_gabon: []
-distribution_other: [Mayombe]
 habit: tree
 habitat: [primary humid forest]
 altitude_m: ""
+range_note: "Mayombe"
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "41-43"

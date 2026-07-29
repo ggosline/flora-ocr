@@ -11,11 +11,13 @@ synonyms:
   - "Tiliacora ovalis Diels in Engl., Pflanzenr. IV.94: 64 (1910), syn. nov."
   - "Sebicea ovalis Pierre ex Diels in Engl., Pflanzenr. IV.94: 64 (1910)"
   - "Tiliacora stipularis Pierre ex Diels in Engl., Pflanzenr. IV.94: 65 (1910), pro parte (fruits only)"
-distribution_gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
-distribution_other: [Cameroon]
 habit: liana
 habitat: [primary forest, secondary forest]
 altitude_m: "up to 200"
+countries: [Cameroon, Gabon]
+subdivisions:
+  Gabon: [Estuaire, Ngounié, Ogooué-Ivindo]
+in_region: true
 treatments:
   - vol: 60
     pages: "76–79"

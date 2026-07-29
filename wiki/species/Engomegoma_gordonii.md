@@ -5,9 +5,10 @@ authority: Breteler
 genus: Engomegoma
 family: Strombosiaceae
 family_sensu_lato: Olacaceae
-distribution_other: [Cameroon]
 habit: tree
 habitat: [wet tropical forest]
+countries: [Cameroon]
+in_region: true
 treatments:
   - kind: article
     citation: "Breteler F.J., Baas P., Boesewinkel F.D., Bouman F. & Lobreau-Callen D. (1996). Engomegoma Breteler (Olacaceae), a new monotypic genus from Gabon. Novitates Gabonenses 27. Botanische Jahrbücher für Systematik 118: 113–132."

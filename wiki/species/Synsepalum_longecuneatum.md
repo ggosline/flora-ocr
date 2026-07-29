@@ -7,11 +7,14 @@ family: Sapotaceae
 synonyms:
   - Synsepalum attenuatum Hutch. & Dalz.
   - Pouteria longecuneata (De Wild.) Baehni
-distribution_gabon: [Woleu-Ntem, Moyen-Ogooue]
-distribution_other: [southern Nigeria, Cameroon, Congo Basin]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Cameroon, Gabon, southern Nigeria]
+subdivisions:
+  Gabon: [Woleu-Ntem, Moyen-Ogooué]
+range_note: "Congo Basin"
+in_region: true
 treatments:
   - vol: 1
     pages: "122-124"

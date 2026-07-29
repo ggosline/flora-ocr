@@ -8,11 +8,13 @@ family: Aptandraceae
 family_sensu_lato: Olacaceae
 synonyms:
   - "Anacolosa uncifera J.Louis & Boutique"
-distribution_gabon: [Ogooué-Ivindo]
-distribution_other: [Republic of the Congo, Democratic Republic of the Congo]
 habit: liana
 habitat: [primary swamp forest, periodically inundated forest]
 altitude_m: "to 1000"
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+subdivisions:
+  Gabon: [Ogooué-Ivindo]
+in_region: true
 treatments:
   - vol: 20
     pages: "106–108"
@@ -91,8 +93,7 @@ Feb. 1939 (BR).
 Primary swamp forest and periodically inundated forest. Collected at Bélinga at
 about 1000 m altitude.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Hallé N. 3174, 3750, 3761*, Bélinga, alt. 1000 m (fr., June)
 - *Le Testu 8293*, Noughamou on the Ogooué (fl., Aug.)
 

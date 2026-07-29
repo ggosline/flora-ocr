@@ -7,11 +7,13 @@ family: Ranunculaceae
 subgenus: Campanella
 section: Viorna
 synonyms: []
-distribution_gabon: [Nyanga, Ogooué-Lolo]
-distribution_other: [Guinea to Ghana, Cameroon, Equatorial Guinea (incl. Bioko), Republic of the Congo, Democratic Republic of the Congo, southeastern Nigeria (Cross River State), Angola (Cuanza Norte and Cabinda), Uganda, northwestern Tanzania, Ethiopia]
 habit: liana
 habitat: [forest edge, gallery forest, savanna grove, secondary forest, primary forest, hygrophilous on heavy soil]
 altitude_m: "100–650 (Gabon); 0–2000(–3300) elsewhere"
+countries: [Angola (Cuanza Norte and Cabinda), Cameroon, Democratic Republic of the Congo, Equatorial Guinea (incl. Bioko), Ethiopia, Gabon, Guinea to Ghana, Republic of the Congo, Uganda, northwestern Tanzania, southeastern Nigeria (Cross River State)]
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "88–89"

@@ -8,12 +8,15 @@ genus: Strombosia
 family: Olacaceae
 synonyms:
   - S. glaucescens Engl. var. lucida Léonard
-distribution_other: [Democratic Republic of the Congo]
+countries: [Democratic Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "141–141"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Strombosia pustulata* var. *lucida* (Léonard) Villiers
 

@@ -6,11 +6,13 @@ genus: Lecomtedoxa
 family: Sapotaceae
 synonyms:
   - Walkeria nogo A. Chev.
-distribution_gabon: [Ogooue-Maritime]
-distribution_other: []
 habit: tree
 habitat: [marshy coastal forest, lagoon margin]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 1
     pages: "68-69"

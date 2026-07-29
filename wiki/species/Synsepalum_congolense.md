@@ -6,11 +6,13 @@ genus: Synsepalum
 family: Sapotaceae
 synonyms:
   - Pouteria congolensis (Lec.) Baehni
-distribution_gabon: [Nyanga]
-distribution_other: [Kouilou]
 habit: shrub
 habitat: [littoral sandy scrub]
 altitude_m: ""
+countries: [Gabon, Kouilou]
+subdivisions:
+  Gabon: [Nyanga]
+in_region: true
 treatments:
   - vol: 1
     pages: "124-125"

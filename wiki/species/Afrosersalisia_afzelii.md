@@ -11,11 +11,13 @@ synonyms:
   - Sersalisia micrantha (Hutch. & Dalz.) Aubr. & Pellegr.
   - Afrosersalisia micrantha (Hutch. & Dalz.) A. Chev.
   - Pouteria akuedo Baehni
-distribution_gabon: [Estuaire, Ogooue-Maritime]
-distribution_other: [Sierra Leone, Liberia, Ivory Coast]
 habit: tree
 habitat: [humid lowlands, river margins, lagoons]
 altitude_m: ""
+countries: [Côte d'Ivoire, Gabon, Liberia, Sierra Leone]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 1
     pages: "109-112"

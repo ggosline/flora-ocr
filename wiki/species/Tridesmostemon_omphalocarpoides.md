@@ -6,11 +6,14 @@ genus: Tridesmostemon
 family: Sapotaceae
 synonyms:
   - Sideroxylon gossweileri Greves
-distribution_gabon: [Ogooue-Lolo, Woleu-Ntem, Estuaire]
-distribution_other: [Cameroon, Oubangui, Mayombe]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Cameroon, Gabon, Oubangui]
+subdivisions:
+  Gabon: [Ogooué-Lolo, Woleu-Ntem, Estuaire]
+range_note: "Mayombe"
+in_region: true
 treatments:
   - vol: 1
     pages: "88-89"

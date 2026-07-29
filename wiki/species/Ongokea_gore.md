@@ -9,14 +9,17 @@ synonyms:
   - Ongokea klaineana Pierre
   - Ongokea kamerunensis Engl.
   - Schæpfianthus zenkeri Engl. ex De Wild.
-distribution_other: [Cameroon, Republic of the Congo, Democratic Republic of the Congo, Côte d'Ivoire, Central African Republic]
 habit: tree
 habitat: [dense evergreen forest, inundated forest]
+countries: [Cameroon, Central African Republic, Côte d'Ivoire, Democratic Republic of the Congo, Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "161–165"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Ongokea gore* (Hua) Pierre
 
@@ -48,8 +51,7 @@ HOLOTYPE: *Dybowski 103*, Achouka, Central African Republic (P!).
 
 Dense evergreen forest and inundated forest. Flowering from December to June; fruits ripening from January.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Hladik 1553*, Île de l'Éléphant, Ipassa, Makokou (fr., Sept.)
 - *Klaine 8*, locality unspecified (fl., Jan.); *Klaine 381* (= 6384 in herb. Pierre), near Libreville (fl., fr., Apr.); *Klaine 2534*, Donghila (fl., fr., Nov.)
 - *Le Testu 2022*, Tchibanga (fl., Feb.); *Le Testu 6422*, Poungi Essouma (fl., Mar.); *Le Testu 6487*, Pera (fl., Apr.); *Le Testu 7037*, Lastoursville (fl., Mar.)

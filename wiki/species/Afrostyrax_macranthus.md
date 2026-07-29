@@ -5,11 +5,12 @@ authority: Mildbr.
 genus: Afrostyrax
 family: Huaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [southern Cameroon]
 habit: shrub
 habitat: [lowland humid dense forest]
 altitude_m: "low altitude"
+countries: [southern Cameroon]
+in_region: false
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 38
     pages: "30-31"

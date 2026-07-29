@@ -6,12 +6,15 @@ infraspecific_rank: var
 parent_species: Olax subscorpioidea
 genus: Olax
 family: Olacaceae
-distribution_other: [Democratic Republic of the Congo]
+countries: [Democratic Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "120–121"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Olax subscorpioidea* var. *durandii* (Engler) Michaud
 

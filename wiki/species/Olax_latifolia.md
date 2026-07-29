@@ -8,15 +8,18 @@ synonyms:
   - O. longifolia Engl.
   - O. zenkeri Engl.
   - O. tesmannii Engl.
-distribution_other: [Cameroon]
 habit: shrub or small tree
 habitat: [forest]
 altitude_m: "700"
+countries: [Cameroon]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "124–127"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Olax latifolia* Engler
 
@@ -68,8 +71,7 @@ SYNTYPES: *Dinklage 178* (B, delet.); *1070* (B, delet.); *1338* (B, delet.); *S
 
 Forest habitats. Recorded at 700 m altitude on the plateau near Moanda.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Breteler 6934*, 60 km SSW Moanda, 2°3' S and 13° E, alt. 700 m (fl., Oct.)
 - *Farron 7606, 7657*, Plateau d'Ipassa, Makokou (fl., fr., June)
 - *Hallé N. 1049*, Mbondou, SE Makokou; *1076, 1090, 1099, 1407, 1413*, Makokou (fl., Feb.); *1868, 1869*, C.E.F.A. Ayem, 10 km SW Ndjolé (fl., fr., Apr.); *2086*, lac Ezanga (fr., May); *2641*, Ivindo, Makokou (fl., fr., Oct.); *4201*, Bélinga (fl., fr., July)

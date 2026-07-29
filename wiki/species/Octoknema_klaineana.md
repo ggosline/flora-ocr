@@ -6,11 +6,13 @@ genus: Octoknema
 family: Octoknemaceae
 habit: tree or shrub
 altitude_m: "12"
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "186–189"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Octoknema klaineana* Pierre
 
@@ -42,8 +44,7 @@ SYNTYPES: *Klaine 776, 809*, Gabon.
 
 **Gabon only**: known from between Libreville and Sibang, and Sibang.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Chevalier 26774*, between Libreville and Sibang (fl. ♂, Jul.)
 - *Klaine 371, 636, 776, 809, 1197, 1342, 2711, 3137*, env. Libreville (fl. ♂, fl. ♀, fr., Sep.–Nov.); 2574, Sibang
 
@@ -56,5 +57,10 @@ SYNTYPES: *Klaine 776, 809*, Gabon.
 Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 186–189. Muséum national d'Histoire naturelle, Paris.
 
 ## Notes
+
+**Type species (2011).** This is the **type species of [[Octoknema]]** — Pierre described the genus on this single species, collected in Gabon by Klaine. Gosline & Malécot (2011) restrict it to **Gabon near Libreville** and designate the lectotype (*Klaine 636*, P).
+
+Revision: Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404.
+
 
 In Hutchinson's *Families of Flowering Plants*, a figure by the author represents an "*Octoknema gabonensis* Pierre". No trace of this binomial has been found in Pierre's publications on Octoknemaceae. This plate undoubtedly represents *O. klaineana* Pierre.

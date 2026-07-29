@@ -4,13 +4,16 @@ name: Octoknema dinklagei
 authority: Engler
 genus: Octoknema
 family: Octoknemaceae
-distribution_other: [Cameroon]
 habit: small tree
+countries: [Cameroon]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "189–189"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Octoknema dinklagei* Engler
 
@@ -43,3 +46,9 @@ Known only from Cameroon.
 ## Source
 
 Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 189–189. Muséum national d'Histoire naturelle, Paris.
+
+## Notes
+
+**Range corrected (2011).** Gosline & Malécot (2011) find this species **endemic to the coastal forest of Cameroon** between Douala and Campo. It **does not occur in Gabon**, contrary to its inclusion in the Flore du Gabon. Gabonese material named *O. dinklagei* should be re-determined against the revision — see [[Octoknema]].
+
+Revision: Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404.

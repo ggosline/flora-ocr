@@ -4,15 +4,18 @@ name: Strombosia grandifolia
 authority: Hooker fil.
 genus: Strombosia
 family: Olacaceae
-distribution_other: [Senegal, Dahomey, Nigeria, Cameroon, Republic of the Congo, Democratic Republic of the Congo]
 habit: tree or shrub
 habitat: [evergreen rainforest, lakeside, riverine]
 altitude_m: "to 1100"
+countries: [Cameroon, Dahomey, Democratic Republic of the Congo, Nigeria, Republic of the Congo, Senegal]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "136–139"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Strombosia grandifolia* Hooker fil.
 
@@ -56,8 +59,7 @@ Tree of the lower and middle storeys of evergreen rainforest. Frequent around la
 
 Wood and sapwood are differentiated. Heartwood is violet-red with fine grain, very homogeneous; sapwood is paler and thin. The wood provides good building material, easy to saw and very durable. Used for railroad ties and tool handles.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Chevalier 26829 bis*, vicinity of Libreville
 - *Fleury in Chevalier 26376*, banks of the Ogooué; *26635*, Ebimanghâ on Lake Ayem; *33565*, Libreville
 - *Klaine 32*, no locality (fl., Apr.); *32 bis*, *1026*, *1261*, *1638*, *2529*, vicinity of Libreville (fl., May–Aug.; fr., Nov.–May); *409*, no locality (fl., Sept.)

@@ -7,17 +7,20 @@ family: Olacaceae
 synonyms:
   - Neurolax autriana Pierre
   - Olax denticulata Engl.
-distribution_gabon: [Libreville, Mayumba, Makokou, Monts de Cristal, Ogooué, Lastoursville]
-distribution_other: [Cameroon, Central African Republic, Equatorial Guinea]
 habit: shrub
 habitat: [primary forest, wooded savanna, riverbank]
 flowering_months: [November, December, January, February, March, April, May, June]
 fruit_maturity_months: [January]
+countries: [Cameroon, Central African Republic, Equatorial Guinea, Gabon]
+subdivisions:
+  Gabon: [Libreville, Mayumba, Makokou, Monts de Cristal, Ogooué, Lastoursville]
+in_region: true
 treatments:
   - vol: 20
     pages: "122–124"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Olax triplinervia* Oliver
 
@@ -54,8 +57,7 @@ FTA **1**: 349 (1868). — Engler, Pflanzenfam., ed. 1, Nachtr. 1: 146 (1897); P
 
 Primary forest and wooded savanna. Grows on riverbanks. Flowers from November to June; fruits mature from January.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Autran 59*, surroundings of Libreville (fr.)
 - *Chevalier 11639*, Mayumba
 - *Farron 7646*, 15 km from Makokou, on the road to Libreville (fl., July)

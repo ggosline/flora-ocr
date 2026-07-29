@@ -5,11 +5,12 @@ authority: Aubrev. & Pellegr.
 genus: Manilkara
 family: Sapotaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [Republic of the Congo]
 habit: shrub
 habitat: [forest interior, pond edge]
 altitude_m: ""
+countries: [Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "37-40"

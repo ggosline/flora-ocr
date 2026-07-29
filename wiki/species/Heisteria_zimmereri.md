@@ -4,16 +4,21 @@ name: Heisteria zimmereri
 authority: Engler
 genus: Heisteria
 family: Olacaceae
-distribution_other: [Cameroon, Democratic Republic of the Congo, Cabinda]
 habit: shrub or small tree
 habitat: [dense humid evergreen forest, riverbank forest]
 flowering_period: "September to November"
 fruiting_period: "to February"
+countries: [Angola, Cameroon, Democratic Republic of the Congo]
+subdivisions:
+  Angola: [Cabinda]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "134–135"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Heisteria zimmereri* Engler
 
@@ -45,8 +50,7 @@ From Cameroon to Zaire (Democratic Republic of the Congo) and Cabinda. In Gabon,
 
 Dense humid evergreen forest and riverbank forest. Flowering from September to November; fruiting until February.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Breteler 6277*, Moanda, 6 km road to Franceville, 1°33' S and 13°15' E (fl., Sept.)
 - *Le Testu 1399, 1405*, Mayumbe bayaka forest, Nyanga border, Mongonyanga (fl., Sept.)
 - *Le Testu 1606, 1650*, Mayumbe bayaka forest, Tchibanga (fl., Oct.)

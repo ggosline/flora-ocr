@@ -6,13 +6,16 @@ genus: Okoubaka
 family: Octoknemaceae
 synonyms:
   - Octoknema okoubaka Aubr. & Pellegr.
-distribution_other: [Ghana, Ivory Coast, Cameroon, Democratic Republic of the Congo]
 habit: tree
+countries: [Cameroon, Côte d'Ivoire, Democratic Republic of the Congo, Ghana]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "192–195"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Okoubaka aubrevillei* Pellegrin & Normand
 

@@ -5,11 +5,13 @@ authority: P.Beauv. ex DC.
 genus: Cissampelos
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime]
-distribution_other: [Sierra Leone to Nigeria, Cameroon to DRC and Angola, Central African Republic, Rwanda, Burundi, Tanzania, Zambia]
 habit: twining herb
 habitat: [bushland, secondary forest]
 altitude_m: "0–50 (Gabon); up to 900 elsewhere"
+countries: [Burundi, Cameroon to DRC and Angola, Central African Republic, Gabon, Rwanda, Sierra Leone to Nigeria, Tanzania, Zambia]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 60
     pages: "42"

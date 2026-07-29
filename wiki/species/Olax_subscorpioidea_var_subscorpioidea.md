@@ -5,16 +5,19 @@ infraspecific_rank: var
 parent_species: Olax subscorpioidea
 genus: Olax
 family: Olacaceae
-distribution_other: [Guinea, Nigeria, Cameroon, Democratic Republic of the Congo]
 habit: shrub or small tree
 habitat: [primary forest, secondary forest, forest edge, gallery forest, shaded savanna]
 altitude_m: "800–1400"
 flowering_period: "September to January"
+countries: [Cameroon, Democratic Republic of the Congo, Guinea, Nigeria]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "117–120"
     source: sources/Olacaceae_vol20_paddle
-tags: [species, infraspecific]---
+tags: [species, infraspecific]
+---
 
 # *Olax subscorpioidea* var. *subscorpioidea*
 
@@ -78,8 +81,7 @@ in gallery forests. Forms thick shrubby growth in shaded savanna zones. Appears
 to prefer acidic soils. Flowering from September to January; fruit ripening
 begins in January. Collected in Cameroon at 800–1400 m altitude.
 
-## Gabonese material examined
-
+## Specimens examined
 - *De Brazza J. 20*, Ogooué (fr.)
 
 ## Vernacular names

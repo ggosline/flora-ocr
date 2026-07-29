@@ -5,11 +5,13 @@ authority: "(A.DC.) E.Mestre, Meeprom, H.N.Rakouth & Lowry"
 genus: Diospyros
 family: Ebenaceae
 synonyms: ["Maba smeathmannii A.DC.", "Maba vacciniifolia Benth.", "Maba secundiora Hutch."]
-distribution_gabon: [Estuaire]
-distribution_other: [Senegal, Sierra Leone, Guinea, Guinea-Bissau, Ivory Coast, Ghana, Mali, Nigeria, Cameroon, Central African Republic, DRC, Sao Tome and Principe]
 habit: shrub or tree
 habitat: [river bank, stream bank, swamp]
 altitude_m: "0-500, rarely to 1250"
+countries: [Cameroon, Central African Republic, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Guinea, Guinea-Bissau, Mali, Nigeria, Senegal, Sierra Leone, São Tomé and Príncipe]
+subdivisions:
+  Gabon: [Estuaire]
+in_region: true
 treatments:
   - kind: article
     year: 2025

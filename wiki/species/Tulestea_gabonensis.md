@@ -5,11 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Tulestea
 family: Sapotaceae
 synonyms: []
-distribution_gabon: [Ogooue-Lolo, Woleu-Ntem]
-distribution_other: []
 habit: shrub
 habitat: []
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Ogooué-Lolo, Woleu-Ntem]
+in_region: true
 treatments:
   - vol: 1
     pages: "108"

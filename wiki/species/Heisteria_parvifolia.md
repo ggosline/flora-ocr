@@ -12,14 +12,17 @@ synonyms:
   - H. papaman Pierre
   - H. elegans Chev.
   - Acrolobus parvifolius Klotzsch
-distribution_other: [Senegal, Guinea, Nigeria, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Kasai]
 habit: shrub or small tree
 habitat: [dense humid forest, dark understory, acid soil, non-inundated or partially inundated soil, gallery forest, secondary heliophilic formations]
+countries: [Cameroon, Democratic Republic of the Congo, Guinea, Kasai, Nigeria, Republic of the Congo, Senegal]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "128–131"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Heisteria parvifolia* Smith
 
@@ -53,8 +56,7 @@ LECTOTYPE: *Afzelius s.n.*, Sierra Leone (BM).
 
 Dense humid forest; abundant in dark understory on acid, non-inundated or partially inundated soil. Occurs in gallery forests and even in secondary, heliophilic, low-altitude formations.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Breteler 5690*, 42 km SE Lambaréné, 1°S, 10°28′E (fl., Sept.)
 - *Breteler 6428, 6774*, 23 km route Moanda–Franceville, 1°39′S and 13°17′E (fl., Sept.)
 - *Breteler 6855*, 60 km SSW Moanda, 2°3′S and 13°E (fl., fr., Oct.)

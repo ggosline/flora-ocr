@@ -8,14 +8,17 @@ synonyms:
   - Aptandra zenkeri var. latifolia Engler
   - Harmandia congoensis
   - Lecomtea congoensis Pierre ex Van Tieghem
-distribution_other: [Ivory Coast, Cameroon, Congo, Angola]
 habit: shrub or small tree
 habitat: [dense humid forest]
+countries: [Angola, Cameroon, Côte d'Ivoire, Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "158–161"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Aptandra zenkeri* Engler
 
@@ -48,8 +51,7 @@ LECTOTYPE: *Zenker & Staudt 643*, Cameroon (B, deleted; iso-, P).
 
 Dense humid forest.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Chevalier 11286, 11289 bis*, Mayumba (fr., Jan.)
 - *Hallé N. 3174*, Bélinga (fr., Nov.)
 - *Klaine 3332*, near Donguila (fr., June)

@@ -1051,3 +1051,49 @@ Notes:
   Bot. Jahrb. Syst. 118: 113–132 and Adansonia 23(2): 303–306 transcribing.
 - Known unread source: a 2011 monograph of *Octoknema* in Kew Bulletin, which
   likely supersedes parts of the [[Octoknemaceae]] treatment just ingested.
+
+## [2026-07-29] schema | scope widened to Lower Guinea (Nigeria — western DR Congo)
+
+The wiki is no longer a Flore du Gabon wiki. It now covers the Lower Guinea /
+Guineo-Congolian region, with Flore du Gabon as one source among several.
+
+Region: Nigeria, Cameroon, Equatorial Guinea (incl. Bioko, Río Muni, Annobón),
+São Tomé and Príncipe, Gabon, Republic of the Congo, western DR Congo, and
+Cabinda.
+
+### Distribution schema replaced
+
+`distribution_gabon` / `distribution_other` → `countries` + `subdivisions` map
++ `range_note` + `in_region`. No country is privileged. Ranges are recorded in
+full even outside the region.
+
+Migrated mechanically by `flora_ocr.wiki.migrate_region` across **182 pages**,
+which also normalised values that had drifted: unaccented provinces
+(Ogooue-Lolo → Ogooué-Lolo), abbreviations (DRC, Zaïre → Democratic Republic of
+the Congo), and compound entries (Angola (Cabinda) → country Angola,
+subdivision Cabinda). Region names that are not countries (Congo Basin, Bas
+Congo) moved to `range_note`.
+
+`## Gabonese material examined` → `## Specimens examined` (22 pages).
+
+### Known debt from the scope change
+
+- **50 species pages carry `countries_incomplete: true`.** They have a Flore du
+  Gabon treatment but no country in `countries`, because the source gave only
+  localities and the province-inference guard correctly stripped the model's
+  guesses. Gabon was NOT auto-added: Flore du Gabon does treat taxa not
+  collected in Gabon (*Connarus africanus*, *Octoknema genovefae*), so the
+  inference is unsafe. These need a pass against the sources.
+- **Cameroonian specimen lists were discarded** on the ~25 pages authored by the
+  bulk tier before this change, under a since-removed rule that treated Cameroon
+  as "another flora". Recovering them means re-running those pages.
+- Family and genus pages still carry `*_in_gabon` counts. The schema now
+  prefers `*_in_region`, with per-country counts optional.
+- `overview.md` still reads as a Gabon synthesis.
+
+### Runner updated
+
+`flora_ocr.wiki.author` now writes regional frontmatter, groups specimens by
+country instead of dropping non-Gabonese ones, and its subdivision-stripping
+guard operates on every country in the `subdivisions` map rather than on Gabon
+alone.

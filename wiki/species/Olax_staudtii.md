@@ -4,13 +4,16 @@ name: Olax staudtii
 authority: Engler
 genus: Olax
 family: Olacaceae
-distribution_other: [Cameroon, Central African Republic]
 habit: shrub
+countries: [Cameroon, Central African Republic]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "121–122"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Olax staudtii* Engler
 
@@ -36,8 +39,7 @@ TYPE: *Staudt 364*, Cameroon (holotype B, deleted; isotype P).
 
 **Range**: from Cameroon to the Central African Republic. **Gabon**: Mayumba; C.E.F.A. Ayem, 10 km SW Ndjolé; Mont Méla, Monts de Cristal; Libreville; Ogoué.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Chevalier 11306*, Mayumba (fruit, Jan.)
 - *Hallé N. 1867*, C.E.F.A. Ayem, 10 km SW Ndjolé (flower, fruit, Apr.)
 - *Hallé N. & Villiers J.-F. 5070*, Mont Méla, Monts de Cristal (flower, fruit, Feb.)

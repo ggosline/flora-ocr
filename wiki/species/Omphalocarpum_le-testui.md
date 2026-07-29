@@ -5,11 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Omphalocarpum
 family: Sapotaceae
 synonyms: []
-distribution_gabon: [Woleu-Ntem]
-distribution_other: []
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Woleu-Ntem]
+in_region: true
 treatments:
   - vol: 1
     pages: "83-84"

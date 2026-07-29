@@ -1,4 +1,4 @@
-# Flore du Gabon Wiki — Schema and Workflow
+# Lower Guinea Flora Wiki — Schema and Workflow
 
 This file is the working contract between the LLM and the wiki. Read it before
 ingesting a source, before answering a query, before linting, before any
@@ -7,19 +7,42 @@ deliberate; the schema is what makes the wiki coherent across sessions.
 
 ## What this wiki is
 
-A persistent, compounding knowledge base built from the **Flore du Gabon**
-monographs (61 volumes, 1961–present) plus later journal articles and other
-botanical papers relevant to Gabon, maintained by the LLM in collaboration
-with the user. Sources live in `../ocr_output/` (immutable). The wiki is the
-synthesis layer: one page per taxonomic entity, cross-linked, accumulating as
-new family treatments and article addenda are ingested.
+A persistent, compounding knowledge base for the vascular flora of the
+**Lower Guinea / Guineo-Congolian region — Nigeria to western DR Congo**,
+maintained by the LLM in collaboration with the user. One page per taxonomic
+entity, cross-linked, accumulating as sources are ingested.
 
-The wiki is **family-treatment-centric**, not volume-centric. A volume is
-editorial packaging; a family treatment is the atomic published unit.
+**Region covered** (a taxon is "in region" if it occurs in any of these):
+
+| Country | Extent |
+|---------|--------|
+| Nigeria | whole |
+| Cameroon | whole |
+| Equatorial Guinea | whole, including Bioko, Río Muni and Annobón |
+| São Tomé and Príncipe | whole |
+| Gabon | whole |
+| Republic of the Congo | whole |
+| Democratic Republic of the Congo | **western only**, west of the Congo River |
+| Angola | **Cabinda only** |
+
+Ranges are recorded in full even when they extend outside the region — a
+species reaching Côte d'Ivoire or Tanzania has those countries listed. The
+`in_region` flag says whether any in-region country is present.
+
+**Flore du Gabon is one source among several, not the centre of the wiki.**
+It happens to be the first source ingested and is the most completely
+digitised, so most pages currently cite it; that is an accident of history, not
+a statement of scope. Cameroonian, Nigerian and Congolese material is fully in
+scope and must not be discarded as "another flora". Expect other floras,
+monographs and journal articles to be added.
+
+The wiki is **taxon-centric**. A volume or a paper is editorial packaging; the
+taxon page is the unit that accumulates.
 
 ## Three layers
 
 1. **Raw sources** — `../ocr_output/<DIR>/` (read via `sources/` symlink).
+   Currently all Flore du Gabon; other floras will use the same shapes.
    Two shapes:
    - `Family_volNN_<engine>/` — already split by family (preferred).
    - `volNN_<engine>/` — whole volume, split virtually at ingest using
@@ -59,7 +82,7 @@ wiki/
   treatment gives them a distinct description; otherwise note inline on the
   species page.
 - **Volume pages**: `volumes/vol11.md`, `volumes/vol5bis.md`.
-- **Topic pages**: lowercase-slug, e.g. `topics/endemics_of_gabon.md`.
+- **Topic pages**: lowercase-slug, e.g. `topics/endemics_of_lower_guinea.md`.
 
 When a name in the source is uncertain or has a typo (common in scanned vols),
 use the corrected modern form for the filename and note the OCR/source spelling
@@ -76,7 +99,9 @@ type: family
 name: Ancistrocladaceae
 authority: Planch. ex Walp.
 order: Caryophyllales
-genera_in_gabon: 1
+genera_in_region: 1
+species_in_region: 4
+genera_in_gabon: 1          # per-country counts optional, add as needed
 species_in_gabon: 4
 treatments:
   - vol: 60
@@ -95,7 +120,7 @@ type: genus
 name: Ancistrocladus
 authority: Wall.
 family: Ancistrocladaceae
-species_in_gabon: 4
+species_in_region: 4
 treatments:
   - vol: 60
     source: sources/Ancistrocladaceae_vol60_liteparse
@@ -112,8 +137,10 @@ authority: J.Léonard
 genus: Ancistrocladus
 family: Ancistrocladaceae
 synonyms: []
-distribution_gabon: [Ngounié, Ogooué-Maritime, Ogooué-Ivindo]
-distribution_other: [Republic of the Congo, DRC]
+countries: [Gabon, Republic of the Congo, Democratic Republic of the Congo]
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Maritime, Ogooué-Ivindo]
+in_region: true
 habit: liana
 habitat: [riverine forest, terra firma forest, hilltop forest]
 altitude_m: "1–480"
@@ -136,22 +163,39 @@ infraspecific_rank: var        # var | subsp | f
 parent_species: Olax subscorpioidea
 ```
 
-Distribution should be stored as occurrence data, not as a Gabon/non-Gabon
-status class. Keep using:
+### Distribution fields
 
-- `distribution_gabon`: provinces or subnational areas within Gabon
-- `distribution_other`: countries or subnational areas outside Gabon
+Distribution is occurrence data, recorded identically for every country. No
+country is privileged.
 
-**Only record a province the source itself names.** These treatments usually
-list collecting localities (Makokou, Bélinga, Monts de Cristal) and no province
-at all; inferring the province from the locality is a fabrication and has
-already produced one wrong answer (Monts de Cristal is in Estuaire/Woleu-Ntem,
-not Ogooué-Lolo). Where the source gives only localities, leave the field out
-and put the localities in the Distribution prose.
+- `countries:` — flat list of countries, full range, in or out of region.
+- `subdivisions:` — optional map, country → provinces/regions/states. Only
+  countries that need it appear.
+- `range_note:` — free text for ranges that are not country-shaped
+  ("Congo basin", "Bas Congo", "west to Nigeria").
+- `in_region:` — true if any country is in the region table above.
+- `countries_incomplete: true` — set when the source gives localities but no
+  country or province list, so the fields are known to be under-populated.
 
-Do not rely on a special `not-in-gabon` tag for routine country absence. If a
-species is absent from Gabon, represent that by leaving `distribution_gabon`
-empty and describing the known range in prose.
+```yaml
+countries: [Cameroon, Gabon]
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ngounié]
+  Cameroon: [Littoral, Sud]
+range_note: "Congo basin, west to Nigeria"
+in_region: true
+```
+
+**Only record a place the source itself names.** These treatments usually list
+collecting localities (Makokou, Bélinga, Monts de Cristal) and no province at
+all; inferring the province from the locality is a fabrication and has already
+produced one wrong answer (Monts de Cristal is in Estuaire/Woleu-Ntem, not
+Ogooué-Lolo). Where the source gives only localities, leave `subdivisions` out,
+set `countries_incomplete: true`, and put the localities in the Distribution
+prose. The bulk-tier runner enforces this automatically.
+
+Absence is represented by a country simply not appearing in `countries`. There
+is no "absent from X" tag.
 
 **Volume**
 ```yaml
@@ -336,6 +380,12 @@ fidelity matters more than concision.}
 
 {Forest type, soils, altitude, associated species if mentioned.}
 
+## Specimens examined
+
+{Collector lists from the source, grouped by country with a bold country
+heading when more than one country is represented. All countries in the region
+are in scope — do NOT drop the Cameroonian, Nigerian or Congolese lists.}
+
 ## Vernacular names
 
 {If recorded — language, name. Often absent.}
@@ -493,9 +543,12 @@ Output a short report. Do NOT auto-fix without confirmation.
 
 ## Conventions and preferences
 
-- **Language**: English. Keep the original French name in italics on the
-  family page if it differs significantly from the modern form (`MYRTACÉES`
-  → note as alternate).
+- **Language**: English. Source floras are variously French, English and
+  German; keep the original name in italics on the family page where it differs
+  from the modern form (`MYRTACÉES` → note as alternate).
+- **No national bias**: this is a regional wiki. Do not describe a taxon as
+  absent or marginal merely because one source flora does not cover the country
+  it occurs in.
 - **Measurements**: keep source units (mm, cm, m). Don't convert.
 - **Authorities**: preserve exactly as printed (`(Engl.) Mildbr.`, `J.Léonard`).
   Don't standardize spacing or punctuation.

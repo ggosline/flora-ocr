@@ -4,14 +4,17 @@ name: Heisteria trillesiana
 authority: Pierre
 genus: Heisteria
 family: Olacaceae
-distribution_other: [Cameroon]
 habit: shrub, small tree
 habitat: [mountainous regions, riverine forest]
+countries: [Cameroon]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "131–134"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Heisteria trillesiana* Pierre
 
@@ -43,8 +46,7 @@ LECTOTYPE: *Trilles 2227* (= 6633 in herb. Pierre) (P).
 
 Occurs in mountainous regions and along streams and rivers. Flowering from July to November; fruits mature from November to March and fall and rot immediately.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Breteler 5765*, 50 km SE Lambaréné, 10°4′ S and 10°30′ E (fl., fr., Oct.)
 - *Chevalier 26702*, Komo basin, Mboro on the upper Ramboué (fl., fr., Oct.); *26869*, Nhingé-Nhingé plantation on the Komo, near Kango post (fl., fr., Oct.)
 - *Fleury in Chevalier 26174*, vicinity of Adouma, on the Orimbo, tributary of the Ogooué (fl., July)

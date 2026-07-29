@@ -4,15 +4,18 @@ name: Coula edulis
 authority: Baillon
 genus: Coula
 family: Olacaceae
-distribution_gabon: [Ngounié]
-distribution_other: [Sierra Leone, Cameroon, Republic of the Congo, DRC]
 habit: tree
 habitat: [dense humid forest]
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Sierra Leone]
+subdivisions:
+  Gabon: [Ngounié]
+in_region: true
 treatments:
   - vol: 20
     pages: "146–148"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Coula edulis* Baillon
 
@@ -47,8 +50,7 @@ Adansonia, ser. 1, **3**: 61 (1863).
 
 Common in the understories and forest floor of dense humid forest; appears to prefer clayey soils. Flowering occurs from January to July; fruits ripen from January onwards.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Aubry Lecomte s.n.*, Fernan Vaz (fl., Apr.)
 - *Chevalier 26515*, env. Diabomagola (fl., May); *26027*, Aledjo sur le Ramboué
 - *Descoings 6304*, valley of the Ngounié, Lelamba (fl., fr., Nov.)

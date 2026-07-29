@@ -1,20 +1,23 @@
 ---
 type: species
 name: Octoknema affinis
-authority: Pierre
+authority: Tiegh.
 genus: Octoknema
 family: Octoknemaceae
 synonyms:
   - O. winkleri Engl.
   - O. aruwimiensis Milbr.
-distribution_other: [Cameroon, Republic of the Congo, DRC]
 habit: tree
 habitat: [riverine forest, forest gallery in savanna]
+countries: [Cameroon, Democratic Republic of the Congo, Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "189–192"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Octoknema affinis* Pierre
 
@@ -52,8 +55,7 @@ Bull. Soc. Linn. Paris **2**: 1290 (1897). — Van Tieghem, Bull. Soc. Bot. **19
 
 Riverine forest and forest gallery in savanna. Heliophilous but tolerating shade readily; can flower and fruit under tree canopy.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Fleury in Chevalier 33711*, Libreville (fr., July)
 - *Klaine 2241, 2585, 2826, 2920, 3136, 3136 bis*, Libreville (♂ fl., Jan.–Nov.; ♀ fl., Nov.–Dec.; fr., July–Oct.); *2471*, Sibang (♂ fl., Oct.)
 - *Le Testu 7374*, Lastoursville (♂ fl., June)
@@ -67,5 +69,10 @@ Riverine forest and forest gallery in savanna. Heliophilous but tolerating shade
 Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 189–192. Muséum national d'Histoire naturelle, Paris.
 
 ## Notes
+
+**Authority and status (2011).** The authority is **van Tieghem (1905)**, not Pierre: Villiers cites it as *O. affinis* Pierre and also, wrongly, as the type species of the genus — the type is *O. klaineana* Pierre. Gosline & Malécot (2011) confirm the species in Gabon near Libreville, and note that Central African material has more often than not been labelled *O. affinis* while in fact covering several taxa; the recognition of that confusion prompted the revision.
+
+Revision: Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404.
+
 
 *O. winkleri* Engl. and *O. aruwimiensis* Milbr. are treated as synonyms of *O. affinis*. The treatment confirms that types of *O. winkleri* and *O. affinis* do not differ substantially.

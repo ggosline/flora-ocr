@@ -5,11 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Vincentella
 family: Sapotaceae
 synonyms: []
-distribution_gabon: [Ogooue-Lolo]
-distribution_other: []
 habit: tree
 habitat: [riparian]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 1
     pages: "126-128"

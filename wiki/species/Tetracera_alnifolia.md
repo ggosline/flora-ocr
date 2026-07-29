@@ -8,12 +8,14 @@ section: Tetracera
 synonyms:
   - "Tetracera dinklagei Gilg, Bot. Jahrb. Syst. 33: 201 (1902)"
   - "Tetracera djalonica A.Chev. ex Hutch. & Dalziel, Fl. W. trop. Afr. 1: 155 (1927)"
-distribution_gabon: [Estuaire, Ogooué-Maritime, Nyanga, Moyen-Ogooué]
-distribution_other: [Senegal to Nigeria, Cameroon, Príncipe, Equatorial Guinea, Republic of the Congo, western DRC (Mayombe), Angola, Zambia]
 habit: liana
 habitat: [terra firma forest, flooded forest, riverine forest, gallery forest, secondary forest, forest edge, sandy soils]
 altitude_m: "5–120 (Gabon); to 1000 elsewhere"
 vernacular: [liane à eau (fr.), liane du voyageur (fr.), léghaghéla (Nzébi), nzine-ndzic (Fang), oléni (Mpongwé), uléni (Benga)]
+countries: [Angola, Cameroon, Equatorial Guinea, Gabon, Príncipe, Republic of the Congo, Senegal to Nigeria, Zambia, western DRC (Mayombe)]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime, Nyanga, Moyen-Ogooué]
+in_region: true
 treatments:
   - vol: 60
     pages: "12–13"

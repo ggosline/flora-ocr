@@ -6,11 +6,13 @@ genus: Tinospora
 family: Menispermaceae
 synonyms:
   - "Hyalosepalum penninervifolium Troupin, Bull. Jard. Bot. État Bruxelles 19: 432 (1949)"
-distribution_gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo]
-distribution_other: [Republic of the Congo, Democratic Republic of the Congo]
 habit: liana
 habitat: [primary forest, secondary forest, savanna forest islet]
 altitude_m: "5–780 (Gabon); up to 400 elsewhere"
+countries: [Democratic Republic of the Congo, Gabon, Republic of the Congo]
+subdivisions:
+  Gabon: [Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "81"

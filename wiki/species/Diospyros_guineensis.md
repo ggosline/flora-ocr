@@ -5,10 +5,10 @@ authority: "(Schumach. & Thonn.) E.Mestre, Meeprom, H.N.Rakouth & Lowry"
 genus: Diospyros
 family: Ebenaceae
 synonyms: ["Maba guineensis (Schumach. & Thonn.) A.DC.", "Diospyros ferrea var. guineensis (Schumach. & Thonn.) Bakh."]
-distribution_gabon: []
-distribution_other: [Ghana, Ivory Coast, Benin]
 habit: shrub
 habitat: [coastal forest, sandy soil behind dunes, rocky coastal soil]
+countries: [Benin, Côte d'Ivoire, Ghana]
+in_region: false
 treatments:
   - kind: article
     year: 2025

@@ -5,10 +5,11 @@ authority: "(Willd.) Bakh."
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [India, Sri Lanka]
 habit: shrub or small tree
 habitat: []
+countries: [India, Sri Lanka]
+in_region: false
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

@@ -5,11 +5,14 @@ authority: Miers
 genus: Rhigiocarya
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Estuaire, Ogooué-Lolo]
-distribution_other: [Benin, Nigeria, Cameroon, Equatorial Guinea, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda)]
 habit: liana
 habitat: [secondary forest, forest regrowth]
 altitude_m: "up to 300 (Gabon); up to 650 elsewhere"
+countries: [Angola, Benin, Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+subdivisions:
+  Angola: [Cabinda]
+  Gabon: [Estuaire, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "63"

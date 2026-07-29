@@ -5,7 +5,8 @@ authority: Pierre
 family: Octoknemaceae
 species_world: 14
 species_world_per_vol20: 6
-species_in_gabon: 4
+species_in_gabon: 6
+species_in_gabon_per_vol20: 4
 treatments:
   - vol: 20
     source: sources/Olacaceae_vol20_paddle
@@ -15,7 +16,7 @@ treatments:
     year: 2011
     pages: "367–404"
     doi: 10.1007/s12225-011-9293-9
-tags: [genus, revision-pending]
+tags: [genus]
 ---
 
 # *Octoknema* Pierre
@@ -24,26 +25,35 @@ tags: [genus, revision-pending]
 
 Bull. Soc. Linn. Paris **2**: 1290 (1897).
 
-Type species: *O. affinis* Pierre.
+Type species: ***O. klaineana*** Pierre.
+
+<!-- Vol 20 gives the type species as O. affinis Pierre. Gosline & Malecot
+(2011: 377) state that Villiers cites this wrongly: Pierre described the genus
+on a single species, O. klaineana, which is therefore the type. The authority
+for O. affinis is also van Tieghem, not Pierre. -->
 
 Villiers recognises 6 very closely allied species, four of them in Cameroon and
 Gabon, and stresses how narrowly they are separated — his key runs almost
 entirely on leaf pubescence and leaf-base shape.
 
-**Superseded by a monograph.** Gosline & Malécot (2011) revise the genus and
-recognise **14 species**, six of them new: *O. bakossiensis* Gosline & Malécot,
-*O. belingensis* Gosline & Malécot, *O. chailluensis* Malécot & Gosline,
-*O. kivuensis* Gosline & Malécot, *O. mokoko* Gosline & Malécot and
-*O. ogoouensis* Malécot & Gosline, together with four further poorly known taxa
-treated as *Octoknema* species A–D. The species accounts below are Villiers'
-1973 concepts and have not yet been reconciled with that revision.
+**Revised in 2011.** Gosline & Malécot (Kew Bull. 66: 367–404) monograph the
+genus and recognise **14 species**, six of them new, plus four poorly known taxa
+treated as *Octoknema* sp. A–D. Their account supersedes Villiers on every
+point that follows.
 
-<!-- PENDING. The 2011 monograph is paywalled and was not read; only the
-citation and the list of new species could be verified. Still needed: which of
-the 14 species occur in Gabon, and what becomes of Villiers' O. affinis,
-O. klaineana, O. dinklagei and O. genovefa under the revision. Several of the
-new epithets are Gabonese toponyms (Bélinga, Chaillu, Ogooué), which is
-suggestive but is NOT evidence and has not been recorded as fact. -->
+**Gabon has six species, not four.** Villiers listed *O. genovefae*,
+*O. klaineana*, *O. dinklagei* and *O. affinis* for Cameroon and Gabon jointly.
+Under the revision:
+
+- ***O. dinklagei*** is **endemic to coastal Cameroon** between Douala and
+  Campo — it does not occur in Gabon.
+- ***O. genovefae*** is **Cameroonian** (river basins from Yaoundé to the coast,
+  possibly Rio Muni) — it does not occur in Gabon.
+- ***O. affinis*** Tiegh. and ***O. klaineana*** Pierre do occur in Gabon.
+- Gabon additionally has ***O. aruwimiensis*** Mildbr. and the three species new
+  in 2011: ***O. belingensis***, ***O. chailluensis*** and ***O. ogoouensis***.
+
+Species A–D are Cameroonian, Congolese and West African; none is Gabonese.
 
 ## Diagnosis
 
@@ -69,14 +79,23 @@ emitting digitations on its inner face. Embryo apical or subapical.
     - 3'. Midrib, fruit and branchlets pubescent; leaf base attenuate or
       rounded; petiole pubescent → **[[Octoknema_affinis|4. O. affinis]]**
 
-## Species in Gabon (as treated in Vol 20, 1973)
+## Species in Gabon (Gosline & Malécot 2011)
 
-| Species | Habit | Page |
-|---------|-------|------|
-| [[Octoknema_genovefa\|O. genovefa]] | tree / shrub | 184 |
-| [[Octoknema_klaineana\|O. klaineana]] | tree / shrub | 186 |
-| [[Octoknema_dinklagei\|O. dinklagei]] | tree / shrub | 189 |
-| [[Octoknema_affinis\|O. affinis]] | tree / shrub | 189 |
+| Species | Distribution | Source |
+|---------|--------------|--------|
+| [[Octoknema_affinis\|O. affinis]] Tiegh. | Nigeria, W Cameroon, Gabon near Libreville | Vol 20: 189 |
+| [[Octoknema_aruwimiensis\|O. aruwimiensis]] Mildbr. | Congo basin: Cameroon, CAR, Gabon, both Congos | 2011 |
+| [[Octoknema_belingensis\|O. belingensis]] Gosline & Malécot | Gabon only — Bélinga mts, Ogooué-Ivindo | 2011, **sp. nov.** |
+| [[Octoknema_chailluensis\|O. chailluensis]] Malécot & Gosline | Gabon (Massif du Chaillu, Ngounié) and Congo-Brazzaville | 2011, **sp. nov.** |
+| [[Octoknema_klaineana\|O. klaineana]] Pierre | Gabon only, near Libreville — **type species** | Vol 20: 186 |
+| [[Octoknema_ogoouensis\|O. ogoouensis]] Malécot & Gosline | Gabon only — Lopé Reserve, gallery forest, 200 m | 2011, **sp. nov.** |
+
+### Treated by Villiers but not Gabonese
+
+| Species | Actual range |
+|---------|--------------|
+| [[Octoknema_genovefae\|O. genovefae]] Villiers | Cameroon, possibly Rio Muni |
+| [[Octoknema_dinklagei\|O. dinklagei]] Engl. | coastal Cameroon, Douala to Campo |
 
 ## Treatments
 

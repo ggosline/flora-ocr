@@ -6,11 +6,14 @@ genus: Pachystela
 family: Sapotaceae
 synonyms:
   - Sersalisia buluensis Greves
-distribution_gabon: [Estuaire, Moyen-Ogooue]
-distribution_other: [Mayombe]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué]
+range_note: "Mayombe"
+in_region: true
 treatments:
   - vol: 1
     pages: "115-116"

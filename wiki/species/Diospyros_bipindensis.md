@@ -5,10 +5,12 @@ authority: Gurke
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Ngounie, Ogooue-Lolo, Woleu-Ntem, Estuaire]
-distribution_other: [Cameroon, Republic of the Congo, DRC, Angola, Uganda]
 habit: shrub or tree
 habitat: [evergreen humid forest, near semi-deciduous forest]
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Republic of the Congo, Uganda]
+subdivisions:
+  Gabon: [Ngounié, Ogooué-Lolo, Woleu-Ntem, Estuaire]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

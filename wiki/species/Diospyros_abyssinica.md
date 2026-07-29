@@ -5,10 +5,12 @@ authority: "(Hiern) F. White"
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [West Africa, Central Africa, East Africa, Angola, Mozambique]
 habit: shrub or tree
 habitat: [dry forest, semi-deciduous forest edge, rocky slopes]
+countries: [Angola, Mozambique]
+range_note: "West Africa; Central Africa; East Africa"
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

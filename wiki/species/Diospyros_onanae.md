@@ -7,11 +7,11 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Cameroon, South Province, Mvila Division, about 30 km on the road from Ebolowa to Minkok and then about 2 km west along a forest exploitation track, 620 m altitude, fl. male, 6 Jul 1975, J.J.F.E. de Wilde 8273 (holotype: K; isotypes: WA, G)"
 synonyms: []
-distribution_gabon: []
-distribution_other: [Cameroon]
 habit: tree
 habitat: [evergreen forest, mature forest on heavy clay, secondary forest after exploitation]
 altitude_m: "50-620"
+countries: [Cameroon]
+in_region: true
 treatments:
   - kind: article
     year: 2009

@@ -6,14 +6,17 @@ genus: Strombosia
 family: Olacaceae
 synonyms:
   - S. mannii Engl.
-distribution_other: [Nigeria, Cameroon]
 habit: tree
 habitat: [forest]
+countries: [Cameroon, Nigeria]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "144–146"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Strombosia zenkeri* Engler
 
@@ -51,8 +54,7 @@ Bot. Jahrb. **43**: 167 (1909). — S. Moore, Journ. Bot. **58**: 225 (1920). �
 
 The species also occurs in Cameroon.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Estasse 606 SRF*, Mondah
 - *Klaine 2278*, Libreville (fl., July)
 - *Le Testu 7959*, Lastoursville (fl., fr., March)

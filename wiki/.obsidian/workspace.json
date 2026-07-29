@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "species/Ancistrocladus_guineensis.md",
+                "file": "genera/Engomegoma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ancistrocladus_guineensis"
+              "title": "Engomegoma"
             }
           }
         ]
@@ -185,6 +185,14 @@
   },
   "active": "b26caf154d864761",
   "lastOpenFiles": [
+    "species/Octoknema_aruwimiensis.md",
+    "species/Octoknema_ogoouensis.md",
+    "species/Octoknema_chailluensis.md",
+    "species/Octoknema_belingensis.md",
+    "species/Octoknema_genovefae.md",
+    "species/Heisteria_trillesiana.md",
+    "genera/Heisteria.md",
+    "species/Ancistrocladus_guineensis.md",
     "sources/Orchidaceae_vol36_paddle/figures/fig_000_p0002.png",
     "sources/Orchidaceae_vol36_paddle/figures/fig_001_p0016.png",
     "sources/Orchidaceae_vol36_paddle/figures/fig_002_p0018.png",
@@ -195,7 +203,6 @@
     "sources/Orchidaceae_vol36_paddle/figures/fig_007_p0028.png",
     "sources/Orchidaceae_vol36_paddle/figures/fig_008_p0030.png",
     "sources/Orchidaceae_vol36_paddle/figures/fig_009_p0032.png",
-    "sources/Orchidaceae_vol36_paddle/figures/fig_010_p0034.png",
     "sources/Orchidaceae_vol36_paddle/figures",
     "sources/Orchidaceae_vol36_paddle/metadata.json",
     "sources/Orchidaceae_vol36_paddle/figures.md",
@@ -217,19 +224,12 @@
     "genera/Ptychopetalum.md",
     "genera/Coula.md",
     "genera/Strombosia.md",
-    "genera/Heisteria.md",
     "species/Olax_gambecola.md",
     "genera/Olax.md",
     "species/Strombosiopsis_tetrandra.md",
     "genera/Strombosiopsis.md",
     "species/Ximenia_americana.md",
     "genera/Ximenia.md",
-    "species/Anacolosa_uncifera.md",
-    "genera/Anacolosa.md",
-    "index.md",
-    "volumes/vol47.md",
-    "families/Aloaceae.md",
-    "species/Diospyros_bipindensis.md",
-    "sources/Combretaceae_vol35_paddle/figures.md"
+    "species/Anacolosa_uncifera.md"
   ]
 }

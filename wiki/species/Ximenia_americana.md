@@ -10,11 +10,13 @@ synonyms:
   - "Ximenia americana L. var. oxyprena Chiov."
   - "Ximenia laurina Del."
   - "Ximenia rogersii Burtt-Davy"
-distribution_gabon: [Estuaire, Ogooué-Maritime]
-distribution_other: [Senegal, Cameroon, Uganda, Angola]
 habit: shrub
 habitat: [seashore, savanna, low vegetation, lateritic soils, bowal, riverbanks]
 altitude_m: "to 1400"
+countries: [Angola, Cameroon, Gabon, Senegal, Uganda]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 20
     pages: "108–112"
@@ -110,8 +112,7 @@ The seed contains 60–70% of a slightly thick, viscous yellow oil containing
 ximenic acid, which is much sought after. The oil-cake is rich in protein (43%)
 and carbohydrate (20%).
 
-## Gabonese material examined
-
+## Specimens examined
 - *Aubréville 127*, région d'Alombé (fr.)
 - *Duparquet s.n.*, s.l. (fr., Sept.)
 - *Dybowski 136*, Cap Lopez (fl., Jan.)

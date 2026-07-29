@@ -1,7 +1,13 @@
 # Index
 
-The content catalog for the Flore du Gabon wiki. Read this first when answering
-queries — drill into linked pages from here. Updated on every ingest.
+The content catalog for the **Lower Guinea flora wiki** — Nigeria to western
+DR Congo. Read this first when answering queries, then drill into linked pages.
+Updated on every ingest.
+
+Coverage so far is dominated by **Flore du Gabon**, which is simply the first
+source digitised; it is not the scope. Counts below labelled "in Gabon" are
+inherited from that source and will be restated regionally as other floras are
+added.
 
 See [[CLAUDE]] for the schema and conventions.
 

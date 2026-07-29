@@ -15,9 +15,11 @@ synonyms:
   - "Ptychopetalum nigricans De Wild."
   - "Ptychopetalum alliaceum De Wild."
   - "Alsodeiopsis glaberrima Engl. ex Hutch. & Dalz."
-distribution_other: [Guinea, Cameroon, Democratic Republic of the Congo, Angola]
 habit: shrub
 habitat: [dense humid forest, damp sites, terra firma forest]
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Guinea]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "113–115"

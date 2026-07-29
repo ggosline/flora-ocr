@@ -6,11 +6,13 @@ infraspecific_rank: var
 parent_species: Ptychopetalum petiolatum
 genus: Ptychopetalum
 family: Olacaceae
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "152"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]---
+tags: [species]
+---
 
 # *Ptychopetalum petiolatum* var. *paniculatum* Engler
 

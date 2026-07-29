@@ -7,11 +7,13 @@ family: Olacaceae
 synonyms:
   - "Strombosiopsis congolensis De Wild. & Th.Dur."
   - "Strombosiopsis tetrandra var. congolensis (De Wild. & Th.Dur.) De Wild. & Th.Dur."
-distribution_gabon: [Estuaire, Ogooué-Ivindo, Ngounié, Moyen-Ogooué, Haut-Ogooué]
-distribution_other: [Nigeria, Cameroon, Democratic Republic of the Congo]
 habit: tree
 habitat: [dense humid forest, inundable forest, gallery forest]
 altitude_m: "to 700"
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Ivindo, Ngounié, Moyen-Ogooué, Haut-Ogooué]
+in_region: true
 treatments:
   - vol: 20
     pages: "154–158"
@@ -121,8 +123,7 @@ into the preparation of a remedy for scabies. The resin is used to coat pottery,
 giving it a brown varnished colour. The fruits, pounded, are said to be a
 stupefying poison used in fishing.
 
-## Gabonese material examined
-
+## Specimens examined
 - *Aubréville 78*, Ndjolé (fr., Oct.)
 - *Breteler 6861*, 60 km SSW Moanda, 2°3′S 13°E, alt. 700 m (fr., Oct.)
 - *Descoings 6299*, Ngounié valley, Lebamba (fr., Nov.)
