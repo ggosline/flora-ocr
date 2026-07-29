@@ -256,12 +256,12 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             continue
 
         if rank == "family":
-            # Running page headers and "(voir Rubiaceae, vol. 12)" cross-refs
-            # repeat the family name; only the first occurrence opens a block.
-            # In a family-split dir, a different family can only be a cross-ref.
+            # Running page headers repeat the family name; only the first
+            # occurrence opens a block. Whether a *different* family is a real
+            # section or a cross-reference is decided structurally afterwards —
+            # a family-split dir often carries several families, because the
+            # OCR splitter cannot see headings its own OCR truncated.
             if parsed.name in seen_families:
-                continue
-            if only_family and parsed.name != only_family:
                 continue
             seen_families.add(parsed.name)
 
@@ -303,7 +303,27 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
 
         out.append({"line": i, "page": page, "rank": rank, "parsed": parsed})
 
-    return out, terminators
+    return _drop_barren_families(out), terminators
+
+
+def _drop_barren_families(heads: list[dict]) -> list[dict]:
+    """Remove family headings that head nothing.
+
+    A real family section is followed by its genera before the next family. A
+    heading that is merely a cross-reference ("voir Rubiaceae, vol. 12") or a
+    stray running header has no taxa under it and must not open a block, or it
+    would truncate the preceding family's text.
+    """
+    fam_idx = [i for i, h in enumerate(heads) if h["rank"] == "family"]
+    if len(fam_idx) < 2:
+        return heads
+
+    drop: set[int] = set()
+    for n, i in enumerate(fam_idx):
+        stop = fam_idx[n + 1] if n + 1 < len(fam_idx) else len(heads)
+        if not any(h["rank"] in ("genus", "species") for h in heads[i + 1:stop]):
+            drop.add(i)
+    return [h for i, h in enumerate(heads) if i not in drop]
 
 
 _INFRASP_LEAD_RE = re.compile(r"^(?:var\.|subsp\.|ssp\.|f\.|fo\.|forma)\s+[a-z]")
