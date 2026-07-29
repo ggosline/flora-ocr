@@ -170,19 +170,42 @@ class Block:
         return len(self.text)
 
 
+def _heads_a_family(heading: str) -> bool:
+    """True when a heading's first word is a family name.
+
+    '### APIACEAE Lindl. (1836) nom. cons.' satisfies the genus pattern (caps
+    word + authority), so the family name has to be excluded explicitly.
+    """
+    first = heading.strip().split()
+    return bool(first) and N.canonical_family(first[0].strip(".,:;")) is not None
+
+
 def _known_genera(lines: list[str]) -> set[str]:
-    """Genus names that appear as genus headings anywhere in the treatment."""
+    """Genus names this treatment covers.
+
+    Drawn from genus headings *and* from the numbered species headings, because
+    a genus heading is often just '### 1. COMBRETUM' with no author and so does
+    not match the genus pattern at all.
+    """
     out: set[str] = set()
     for line in lines:
         hm = HEADING_RE.match(line.rstrip("\n"))
         if not hm:
             continue
-        rank, _ = classify(hm.group(2))
-        if rank != "genus":
-            continue
-        parsed = N.parse_heading(hm.group(2), "genus")
-        if parsed:
-            out.add(parsed.genus)
+        heading = hm.group(2)
+        rank, _ = classify(heading)
+        if rank == "genus" and not _heads_a_family(heading):
+            parsed = N.parse_heading(heading, "genus")
+            if parsed:
+                out.add(parsed.genus)
+        elif rank == "species":
+            parsed = N.parse_heading(heading, "species")
+            if parsed and parsed.genus:
+                out.add(parsed.genus)
+        elif rank is None and _BARE_GENUS_RE.match(heading.strip()):
+            parsed = N.parse_heading(heading, "genus")
+            if parsed:
+                out.add(parsed.genus)
     return out
 
 
@@ -216,6 +239,9 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             continue
 
         rank, _level = classify(heading)
+        if rank == "genus" and _heads_a_family(heading):
+            rank = "family"               # 'APIACEAE Lindl. (1836)' is a family
+        confident = rank is not None      # matched a strict, numbered pattern
         if not rank:
             rank = _fallback_rank(heading, known)
         if not rank:
@@ -239,9 +265,19 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
             seen_families.add(parsed.name)
 
         if rank == "species":
-            resolved = _resolve_genus(parsed.genus, genus, known)
-            if resolved is None:
-                continue                      # not a real binomial — skip
+            if confident:
+                # A numbered binomial stands on its own; the genus lookup is
+                # only used to repair OCR damage.
+                resolved = _resolve_genus(parsed.genus, genus, known) or parsed.genus
+            else:
+                # An unnumbered binomial is only a species heading when it sits
+                # under its own genus. Otherwise it is prose, or a mention in
+                # the front matter's list of new taxa.
+                if not genus:
+                    continue
+                resolved = _resolve_genus(parsed.genus, genus, set())
+                if resolved is None:
+                    continue
             if resolved != parsed.genus:
                 parsed.warnings.append(
                     f"genus '{parsed.genus}' corrected to '{resolved}' (OCR)")
@@ -264,6 +300,18 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
 
 _INFRASP_LEAD_RE = re.compile(r"^(?:var\.|subsp\.|ssp\.|f\.|fo\.|forma)\s+[a-z]")
 _AUTHORITY_LEAD_RE = re.compile(r"^[A-Z][A-Za-zÀ-ÿ.\-]*\.?(?:\s|$)")
+
+# '1. COMBRETUM' — a genus heading with the authority omitted, which the
+# author-requiring genus pattern in reclassify_headings cannot match.
+_BARE_GENUS_RE = re.compile(r"^(?:\d+\s*[.)]\s*)?([A-ZÀ-Ý]{3,})\s*$")
+
+# All-caps words that head a section rather than name a genus.
+_STRUCTURAL_WORDS = {
+    "CLE", "CLES", "FLORE", "GABON", "INDEX", "SOMMAIRE", "TAXA", "NOTES",
+    "MORPHOLOGIE", "ECOLOGIE", "DESCRIPTION", "REMARQUES", "GENRE", "GENRES",
+    "ESPECE", "ESPECES", "FAMILLE", "BIBLIOGRAPHIE", "INTRODUCTION",
+    "REPARTITION", "DISTRIBUTION", "ABREVIATIONS", "REMERCIEMENTS",
+}
 
 
 def _fallback_rank(heading: str, known: set[str]) -> str | None:
@@ -288,6 +336,10 @@ def _fallback_rank(heading: str, known: set[str]) -> str | None:
     first = text.split()[0].strip(".,:;")
     if N.canonical_family(first):
         return "family"
+
+    m = _BARE_GENUS_RE.match(text)
+    if m and N.strip_accents(m.group(1)).upper() not in _STRUCTURAL_WORDS:
+        return "genus"
 
     m = N._SPECIES_RE.match(text)
     if m:
