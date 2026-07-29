@@ -221,6 +221,7 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
     out: list[dict] = []
     terminators: list[int] = []
     seen_families: set[str] = set()
+    seen_genera: set[str] = set()
     page = 0
     family = genus = species_ep = ""
 
@@ -264,6 +265,13 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
                 continue
             seen_families.add(parsed.name)
 
+        if rank == "genus":
+            # The back index re-lists every genus; only the first occurrence is
+            # the treatment itself.
+            if parsed.genus in seen_genera:
+                continue
+            seen_genera.add(parsed.genus)
+
         if rank == "species":
             if confident:
                 # A numbered binomial stands on its own; the genus lookup is
@@ -303,7 +311,12 @@ _AUTHORITY_LEAD_RE = re.compile(r"^[A-Z][A-Za-zÀ-ÿ.\-]*\.?(?:\s|$)")
 
 # '1. COMBRETUM' — a genus heading with the authority omitted, which the
 # author-requiring genus pattern in reclassify_headings cannot match.
-_BARE_GENUS_RE = re.compile(r"^(?:\d+\s*[.)]\s*)?([A-ZÀ-Ý]{3,})\s*$")
+#
+# The number is required. Without it this also matches the all-caps morphology
+# headings that fill the front of a treatment (PUBESCENCE, FEUILLES, FLEURS,
+# CARYOLOGIE ...), and no blocklist can enumerate those; the enumerator is what
+# actually distinguishes a genus heading from a section heading.
+_BARE_GENUS_RE = re.compile(r"^\d+\s*[.)]\s*([A-ZÀ-Ý]{3,})\s*$")
 
 # All-caps words that head a section rather than name a genus.
 _STRUCTURAL_WORDS = {
