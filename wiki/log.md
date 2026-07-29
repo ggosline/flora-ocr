@@ -927,3 +927,61 @@ Notes:
   [[Synsepalum_fleuryanum]] is known only from buds,
   [[Vincentella_ogouensis]] still lacks a known fruit in the treatment, and
   several [[Donella]] and [[Gambeya]] entities are treated as highly variable.
+
+## [2026-07-29] ingest | Olacaceae (Vol 20) — PARTIAL
+
+Source: sources/Olacaceae_vol20_paddle (paddle, 193 KB, 202 pp., 18 figures;
+text.md only — no text_en.md, translated inline).
+
+First ingest to use the new deterministic pre-pass
+(`flora_ocr.wiki.ingest`), which segmented the treatment into 57 taxon blocks
+and attached all 18 figures before any page was written.
+
+Created:
+- `families/Olacaceae.md`
+- `genera/Anacolosa.md`, `genera/Ximenia.md`, `genera/Olax.md`,
+  `genera/Heisteria.md`, `genera/Strombosia.md`, `genera/Coula.md`,
+  `genera/Ptychopetalum.md`, `genera/Diogoa.md`, `genera/Strombosiopsis.md`,
+  `genera/Aptandra.md`, `genera/Ongokea.md`  (all 11 genera)
+- `species/Anacolosa_uncifera.md`, `species/Ximenia_americana.md`,
+  `species/Olax_gambecola.md`, `species/Strombosiopsis_tetrandra.md`
+- `volumes/vol20.md`
+
+Updated: index.md
+
+### Outstanding
+
+23 species and variety pages are still to be written, and are currently dead
+links from the genus pages:
+
+Olax_mannii, Olax_subscorpioidea, Olax_subscorpioidea_var_subscorpioidea,
+Olax_subscorpioidea_var_durandii, Olax_staudtii, Olax_triplinervia,
+Olax_latifolia, Heisteria_parvifolia, Heisteria_trillesiana,
+Heisteria_zimmereri, Strombosia_grandifolia, Strombosia_pustulata,
+Strombosia_pustulata_var_pustulata, Strombosia_pustulata_var_lucida,
+Strombosia_scheffleri, Strombosia_zenkeri, Coula_edulis,
+Ptychopetalum_petiolatum, Ptychopetalum_petiolatum_var_petiolatum,
+Ptychopetalum_petiolatum_var_paniculatum, Diogoa_zenkeri, Aptandra_zenkeri,
+Ongokea_gore.
+
+### Notes
+
+- The source directory `Olacaceae_vol20_paddle` physically contains **four**
+  family treatments, not one: the volume's OPILIACEAE, OCTOKNEMACEAE and
+  PENTADIPLANDRACEAE headings were truncated by OCR to `OPILIACE`,
+  `OCTOKNEMACE` and `PENTADIPLANDRACE`, so the OCR-time splitter never saw
+  them. Only Olacaceae has been ingested; Opiliaceae, Octoknemaceae and
+  Pentadiplandraceae remain available in the same directory and are dead links
+  from `volumes/vol20.md`.
+- Two OCR name errors were repaired: `Diogo zenkeri` → *Diogoa zenkeri*
+  (truncation, caught automatically by the segmenter's edit-distance check) and
+  `Strombiosopsis tetrandra` → *Strombosiopsis tetrandra* (transposition,
+  distance 2, corrected by hand — the segmenter missed it and left the species
+  inside the genus block).
+- The printed key to genera has lost couplet 2' and part of its numbering in
+  the scan; this is flagged in an HTML comment on the family page.
+- Villiers' circumscription of *Olacaceae* is the broad pre-APG one. The wiki
+  keeps it, since that is what the treatment documents, and records the modern
+  segregate family on each genus page.
+- *Ximenia gabonensis* Lanessan is discussed but not accepted — no type, no
+  material. Recorded on the *Ximenia americana* page rather than given a page.
