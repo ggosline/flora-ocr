@@ -226,18 +226,44 @@ def _normalize_family(raw: str) -> str:
     return name[0].upper() + name[1:].lower() if name else name
 
 
+# Column-truncated family heading, e.g. "# AMARYLLIDACE" (lost final "AE") or
+# "# EBENAC" — the real per-treatment heading a scan lost its last letters from.
+# These appear once (not as repeated running headers), so _drop_running_headers'
+# repair never sees them; _detect_families repairs them via _repair_family_stem.
+_FAM_TRUNC_RE = re.compile(
+    rf'^#{{1,4}}\s+(?:FAMILLE\s+DES?\s+)?'
+    rf'([A-ZÀ-Ý]{{4,}}(?:ACÉE|ACEE|ACE|AC))'
+    rf'(?=\s|$)',
+    re.MULTILINE,
+)
+
+
 def _detect_families(markdown: str) -> list[tuple[str, int]]:
     """Return [(family_name, char_offset), …] for each family heading found.
 
+    Two passes, merged in document order: fully-spelled family names (_FAM_RE)
+    and column-truncated ones repaired via _repair_family_stem (_FAM_TRUNC_RE).
     Consecutive duplicates (same family name) are de-duplicated so that running
-    headers like ``# EBENACEES`` repeated each page only count as the first
-    occurrence's start position.
+    headers like ``# EBENACEES`` repeated each page — or a truncated body heading
+    that recurs as a sub-heading — only count as the first occurrence's start.
     """
-    families: list[tuple[str, int]] = []
+    hits: list[tuple[int, str]] = []
     for m in _FAM_RE.finditer(markdown):
-        fam = _normalize_family(m.group(1))
+        hits.append((m.start(), _normalize_family(m.group(1))))
+    for m in _FAM_TRUNC_RE.finditer(markdown):
+        repaired = _repair_family_stem(m.group(1))
+        if repaired:
+            hits.append((m.start(), _normalize_family(repaired)))
+    hits.sort(key=lambda h: h[0])
+
+    families: list[tuple[str, int]] = []
+    for offset, fam in hits:
+        # A truncated hit can land at the same offset a full hit already
+        # matched (overlapping regexes); skip the duplicate.
+        if families and families[-1] == (fam, offset):
+            continue
         if not families or families[-1][0] != fam:
-            families.append((fam, m.start()))
+            families.append((fam, offset))
     return families
 
 
@@ -251,12 +277,18 @@ def _split_by_family(
     heading, so front matter (title page, TOC, abbreviations, genus
     declaration, key intro) is not dropped. Subsequent families start
     at their own heading.
+
+    A family can be detected at several offsets (its real heading plus later
+    running headers, a specimen index, or a cross-reference). We *accumulate*
+    every slice belonging to a family rather than overwriting, so no text is
+    ever dropped — with a plain ``chunks[fam] = …`` the last (often tiny) slice
+    would silently discard the bulk assigned to an earlier occurrence.
     """
     chunks: dict[str, str] = {}
     for i, (fam, start) in enumerate(families):
         chunk_start = 0 if i == 0 else start
         chunk_end = families[i + 1][1] if i + 1 < len(families) else len(markdown)
-        chunks[fam] = markdown[chunk_start:chunk_end]
+        chunks[fam] = chunks.get(fam, "") + markdown[chunk_start:chunk_end]
     return chunks
 
 
