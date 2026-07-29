@@ -1189,3 +1189,27 @@ with `family` (source usage) and `family_current` (modern placement) in
 frontmatter. Applied to all 15 genera. The Families list in `index.md` now
 names the segregates for [[Olacaceae]] and [[Octoknemaceae]]. Recorded as a
 convention in the naming section above.
+
+## [2026-07-29] synthesis | Vegetative key to Heisteria
+
+Added a sterile-material key to `genera/Heisteria.md`, covering all three
+African species (*parvifolia*, *trillesiana*, *zimmereri*), all of which occur
+in both Cameroon and Gabon.
+
+Villiers keys the genus on the fruiting calyx, so this key is synthesised from
+the three species descriptions rather than copied. Every character is verbatim
+from a description; none is inferred.
+
+Reliability is uneven and is flagged on the page:
+- Lead 1 (*zimmereri*: granular blade, venation indistinct on both faces) is
+  Villiers' own vegetative character and is sound.
+- Couplet 2 (*parvifolia* vs *trillesiana*) rests on nervule prominence,
+  secondary-nerve count and anastomosis distance. Villiers states that
+  *trillesiana* "seems intermediate" between the other two and is very
+  difficult to separate from either in the absence of fruit, and that leaf
+  characters in *parvifolia* are highly variable. Indicative, not diagnostic.
+- A bark table is included: *parvifolia* has a pink slash and finely cracked
+  bark, *trillesiana* is scaly over a russet ground. No bark is described for
+  *zimmereri*.
+
+Untested against herbarium material.

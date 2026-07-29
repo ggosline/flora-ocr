@@ -60,6 +60,51 @@ is the **pedicel** that becomes accrescent.
    accrescent calyx little or not notched →
    **[[Heisteria_zimmereri|3. H. zimmereri]]**
 
+## Vegetative key (sterile material)
+
+Villiers keys the three species mainly on the fruiting calyx. This key uses
+only characters available on sterile material, compiled from the three
+descriptions in the Vol 20 treatment. **It is not the author's key** — see the
+caveat below before relying on it.
+
+1. Blade granular in aspect on the upper face, brown or yellow-green; nervules
+   forming a loose reticulum, indistinct on **both** faces; secondary nerves in
+   5–7 pairs, slightly concave above and only weakly prominent beneath;
+   branchlets sinuous, furrowed → **[[Heisteria_zimmereri|H. zimmereri]]**
+1'. Blade smooth, glossy on the upper face; nervules visible at least beneath;
+   branchlets straight, weakly 2-winged
+    - 2\. Nervules prominent on **both** faces; secondary nerves in 4–10 pairs,
+      **concave** above, anastomosing 2–4 mm from the margin; petiole wrinkled
+      beneath; leaf base cuneate **to rounded**; blade to 23 cm long →
+      **[[Heisteria_parvifolia|H. parvifolia]]**
+    - 2'. Nervules obscure above, only weakly prominent beneath; secondary
+      nerves in 6–8 pairs, **weakly prominent** above, anastomosing 1.5–2 mm
+      from the margin; petiole striate beneath; leaf base cuneate only; blade
+      10–18.5 cm long → **[[Heisteria_trillesiana|H. trillesiana]]**
+
+**Caveat.** Villiers states plainly that *H. trillesiana* "seems intermediate
+between *H. parvifolia* and *H. zimmereri*" and that it is *very difficult* to
+distinguish from either **in the absence of fruit**. Couplet 2 should therefore
+be treated as indicative, not diagnostic. He also warns that in *H. parvifolia*
+the characters drawn from the leaves — and even from the fruit — are highly
+variable, which is what the wide ranges in that lead reflect.
+
+Lead 1 is safe: the granular upper leaf surface and the indistinct venation of
+*H. zimmereri* are the one vegetative character Villiers himself keys on.
+
+Bark, where a collector has recorded it, separates the two problem species
+better than the leaves do:
+
+| Species | Rhytidome |
+|---------|-----------|
+| *H. parvifolia* | grey to brown, thin, finely cracked; **slash pink** |
+| *H. trillesiana* | ashy over a russet ground, **scaly** on the surface |
+| *H. zimmereri* | not described in the treatment |
+
+<!-- This key is synthesised from the three species descriptions, not copied
+from the source. Every character in it is taken verbatim from a description;
+none is inferred. It has not been tested against herbarium material. -->
+
 ## Species in Gabon
 
 | Species | Habit | Page |
