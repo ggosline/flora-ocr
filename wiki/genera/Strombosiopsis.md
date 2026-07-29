@@ -3,6 +3,7 @@ type: genus
 name: Strombosiopsis
 authority: Engl.
 family: Olacaceae
+family_current: Strombosiaceae
 species_world: 3
 species_in_gabon: 2
 treatments:
@@ -17,7 +18,7 @@ tags: [genus]
 
 # *Strombosiopsis* Engl.
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Strombosiaceae
 
 Pflanzenfam. ed. 1, **1**: 148 (1897).
 

@@ -3,6 +3,7 @@ type: genus
 name: Aptandra
 authority: Miers
 family: Olacaceae
+family_current: Aptandraceae
 species_world: 4
 species_in_africa: 1
 species_in_gabon: 1
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Aptandra* Miers
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Aptandraceae
 
 Ann. and Magaz. Nat. Hist., sér. 7, **2**: 201 (1851).
 

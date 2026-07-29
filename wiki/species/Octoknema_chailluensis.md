@@ -5,9 +5,9 @@ authority: Malécot & Gosline
 genus: Octoknema
 family: Octoknemaceae
 habit: shrub or small tree
-countries: [Gabon, Republic of the Congo]
 subdivisions:
   Gabon: [Ngounié]
+countries: [Gabon, Republic of the Congo]
 in_region: true
 treatments:
   - kind: article
@@ -36,6 +36,19 @@ male flowers.
 
 The **Massif du Chaillu**, in Gabon (Ngounié, near Guévédé) and in Congo
 (Brazzaville).
+
+## Specimens examined
+
+<!-- From Gosline & Malécot (2011), Kew Bull. 66: 367-404. Verbatim from
+the monograph; abbreviations and herbarium codes as printed. -->
+
+**Gabon**
+
+Ngounie Region: near Guévédé village, about 40 km N of Lébamba, 30 Nov. 1983, Louis et al. 1043 (K, MO, P, WAG (×2) & ibid., 30 Nov. 1983, Louis et al. 1044 (holotype WAG; isotypes B, K, MO, P, WAG) & Mouyanama, pente de Ngondo (Montagne), 8 March 1984, Louis A. M. 1461 (WAG) & New road from Mouila to Yeno, 5 km either side of Kembele village, 20 July 1986, Thomas & Wilks 6578 (P).
+
+**Congo (Brazzaville)**
+
+Lekoumou Préfecture: Komono, c. 1 km from Lebayi Village, 27 March 2009, Koubemba 72 (IEC, K) & Simonbondo, Ogooue- Leketi proposed National Park: Piste Mabou, 10 June 2009, Moutsambote 6330 (IEC, K).
 
 ## Source
 

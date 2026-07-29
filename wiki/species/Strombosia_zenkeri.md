@@ -5,71 +5,78 @@ authority: Engler
 genus: Strombosia
 family: Olacaceae
 synonyms:
-  - S. mannii Engl.
-habit: tree
-habitat: [forest]
-countries: [Cameroon, Nigeria]
+  - name: S. mannii
+    authority: Engl.
+countries: [Nigeria, Cameroon, Gabon]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
+habit: tree
 treatments:
   - vol: 20
     pages: "144–146"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]
----
+tags: [species]---
 
 # *Strombosia zenkeri* Engler
 
 **Family**: [[Olacaceae]] · **Genus**: [[Strombosia]]
 
-Bot. Jahrb. **43**: 167 (1909). — S. Moore, Journ. Bot. **58**: 225 (1920). — Sleumer, Pflanzenfam., ed. 2, **16b**: 22 (1935). — Keay, FWTA, ed. 2, **1**: 648 (1958). — Michaud, Mém. I.F.A.N. **75**: 251, tab. 10, a–e (1966).
+Bot. Jahrb. 43: 167 (1909).
 
-**Synonym**: *S. mannii* Engl. (l. c.); Michaud (l. c.): 243, 252, syn. nov.
+## Synonymy
+
+- *S. mannii* Engl., l.c.
 
 ## Description
 
-**Habit**: tree to 15 m tall with terminal leafy and biwinged branchlets when young, becoming almost smooth when mature. Bark brownish.
+Tree up to 15 m tall with terminal twigs leafy and bi-alate when young, becoming almost smooth at maturity. Bark brownish. Petiole glabrous, canaliculate above, wrinkled below, ± verrucose, 8–12 mm long. Lamina glabrous on both faces, dark green ± washed with brown, shiny or ± dull on the upper face, brown-green to dull brown on the lower face, elliptic, oblong to oblong-lanceolate or elliptic-lanceolate, 7.5–14 × 3–5.5 cm; base attenuate to cuneate, apex acuminate obtuse mucronate. Midrib concave above, salient striped longitudinally below. Secondary nerves 5–8 pairs, ascending, arched, anastomosing 1–2 mm from the margin of the lamina (anastomoses scarcely visible). Tertiary veins mostly indistinct except toward the midrib.
 
-**Leaves**: petiole glabrous, canaliculate above, wrinkled below, ± verrucose, 8–12 mm long. Blade glabrous on both faces, dark green ± washed with brown, shiny or ± dull on upper surface, green-brown to brown dull on lower surface, elliptic, oblong to oblong-lanceolate or elliptic-lanceolate, 7.5–14 × 3–5.5 cm; base attenuate to cuneiform, apex acuminate obtuse mucronate. Midrib concave above, prominent and longitudinally striated below. Secondary nerves 5–8 pairs, ascending, arcuate, anastomosing 1–2 mm from the blade margin (anastomoses scarcely visible). Nervules mostly indistinct except towards the midrib.
+**Inflorescence**: Axillary fascicle of 3–4 flowers on a cushion of light brown bracts. Pedicel thick, striped longitudinally, pustulous, without bracts. Bracts at the base of the pedicel broadly ovate, ciliolate on the upper margin. Flower bud globose, 1.5 mm diameter. Flower pale green, pentamerous. Sepals free from one another, imbricate, broadly ovate, 0.35 mm long, upper margin ciliolate. Petals free from one another, glabrous externally, pubescent internally, oblong, 1.5 × 0.75 mm; apex acute. Stamens epipetalous; filament strongly appressed against the inner face of the petal; anther ellipsoid, 0.35 mm long.
 
-**Inflorescence**: axillary fascicle of 3–4 flowers on a light brown bract cushion. Pedicel thick, longitudinally striated, pustulous, lacking bracts. Bracts at the base of the pedicel broadly ovate, ciliolate on the upper margin.
+**Ovary**: Surrounded by a flat-topped cap-like disk with 5 lobes, 1 mm diameter; ovary with uniovulate locules, semi-inferior to almost superior.
 
-**Flower bud**: globose, 1.5 mm in diameter.
-
-**Flowers**: pale green, pentamerous. Sepals free from one another, imbricate, broadly ovate, 0.35 mm long, upper margin ciliolate. Petals free from one another, glabrous externally, pubescent internally, oblong, 1.5 × 0.75 mm; apex acute. Stamens epipetalous; filament strongly appressed against the inner surface of the petal; anther ellipsoid, 0.35 mm long.
-
-**Ovary**: surrounded by a flat-topped discoid calyx with 5 lobes, 1 mm in diameter; ovary with uniovulate locules, semi-inferior to almost superior.
-
-**Fruit**: drupaceous, pedicellate, surrounded by the accrescent pedicel. Remnants of the sepals in the form of lobes or teeth at the apex of the fruit.
-
-## Types
-
-**Holotype**: *Zenker 3586*, Cameroon (B, deleted; isotype, P!).
+**Fruit**: Drupe pedicelled, surrounded by the accrescent pedicel. Remains of sepals forming lobes or teeth at the apex of the fruit.
 
 ## Distribution
 
-**Range**: from the Calabar region in Nigeria to Gabon.
+**Range**: From the Calabar region in Nigeria to Gabon.
 
-**Gabon**: Mondah; Libreville; Lastoursville; Monts de Cristal.
+**Nigeria**: Calabar region.
 
-The species also occurs in Cameroon.
+**Cameroon**: Dimako, Dékuma (Ndzigo forest), Campo, Bipindi.
+
+**Gabon**: Mondah, Libreville, Lastoursville, Monts de Cristal.
+
+## Habitat and ecology
+
+No specific habitat information provided in the source.
 
 ## Specimens examined
-- *Estasse 606 SRF*, Mondah
-- *Klaine 2278*, Libreville (fl., July)
-- *Le Testu 7959*, Lastoursville (fl., fr., March)
-- *Mann 1740*, Monts de Cristal (fl., July)
+
+**Cameroon**
+
+- Breteler 2213, Dimako, km 2.5 on road to Doumé (fl., fr., Dec.)
+- Fleury in Chevalier 33511, Dékuma, Ndzigo forest (fr., July)
+- Letouzey 9086, 10 km ESE Campo (fl., fr., March)
+- Zenker 3586, 4016, Bipindi (fl., fr.)
+
+**Gabon**
+
+- Estasse 606 SRF, Mondah
+- Klaine 2278, Libreville (fl., July)
+- Le Testu 7959, Lastoursville (fl., fr., March)
+- Mann 1740, Monts de Cristal (fl., July)
 
 ## Vernacular names
 
-*mbazoa* (Yaoundé); *akolembolé* (Pygmy Bagielli)
-
-## Notes
-
-*S. mannii* Engl. was treated as a distinct species. However, comparison of the type of *S. zenkeri* with that of *S. mannii* shows that the difference observed by Engler rests chiefly on the slightly greater thickness of the blade in the latter species and on its slightly longer acumens. These characters vary from leaf to leaf, and all intermediates are found between the extreme cases recognized from the two types. The two species are therefore synonymous. *S. zenkeri* Engl. is retained as the valid name, as both binomials were published simultaneously, and *S. zenkeri* has been more frequently used.
-
-Mildbraed recorded another *Strombosia* species, *Strombosia cyanescens* Mildbr. (Wiss. Ergebn. Deutsch. Zentr.-Afr. Exped. 1910–1911, **2**: 54 [1922]), from the Mouloundou region. However, he provides no description of the plant or specimen reference. This species is probably a synonym or variety of *S. grandifolia* Hook. f., which is abundant in that part of Cameroon.
+- Mbazoa (Yaoundé)
+- Akolembolé (Bagyeli Pygmy)
 
 ## Source
 
-Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 144–146. Muséum national d'Histoire naturelle, Paris.
+Flore du Gabon, Volume 20: 144–146.
+
+## Notes
+
+The source establishes the synonymy of *S. mannii* Engl. with *S. zenkeri* Engler. Both names were published simultaneously; *S. zenkeri* is preferred because it is more frequently used. The differences between the two types relate to leaf thickness and acumen length, characters that vary across individual leaves and form a continuum between the extremes seen in the two holotypes.
+
+The source notes that Mildbraed reported *Strombosia cyanescens* Mildbr. from the Mouloundou region but provided no specimen or description, suggesting it may be a synonym or variety of *S. grandifolia* Hook. F.

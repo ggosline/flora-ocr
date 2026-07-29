@@ -77,6 +77,10 @@ wiki/
 - **Family pages**: `families/Myrtaceae.md`. Page title in CapCase, no accents
   even if the source uses MYRTACÉES (note alternate name in body).
 - **Genus pages**: `genera/Psidium.md`. Capitalized, no authority in filename.
+  Every genus page states its family in the header line, giving **both** the
+  family used by the source treatments and the modern placement where these
+  differ — many sources use broad pre-APG families that have since been split:
+  `**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Coulaceae`
 - **Species pages**: `species/Psidium_guajava.md`. `Genus_species`, ASCII,
   underscore separator. Infraspecific taxa get their own page only if the
   treatment gives them a distinct description; otherwise note inline on the
@@ -119,7 +123,8 @@ tags: [family]
 type: genus
 name: Ancistrocladus
 authority: Wall.
-family: Ancistrocladaceae
+family: Ancistrocladaceae       # family as used by the source treatments
+family_current: Ancistrocladaceae   # modern (APG) placement, if different
 species_in_region: 4
 treatments:
   - vol: 60

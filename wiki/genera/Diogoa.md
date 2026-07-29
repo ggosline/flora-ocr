@@ -3,6 +3,7 @@ type: genus
 name: Diogoa
 authority: Exell & Mendonça
 family: Olacaceae
+family_current: Strombosiaceae
 species_world: 1
 species_in_gabon: 1
 treatments:
@@ -13,7 +14,7 @@ tags: [genus]
 
 # *Diogoa* Exell & Mendonça
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Strombosiaceae
 
 Bull. Soc. Brot., sér. 2, **25**: 109 (1951).
 

@@ -2,8 +2,8 @@
 type: genus
 name: Keita
 authority: Cheek
-family: Aptandraceae
-family_sensu_lato: Olacaceae
+family: Olacaceae
+family_current: Aptandraceae
 species_world: 2
 species_in_gabon: 1
 treatments:
@@ -20,7 +20,7 @@ tags: [genus, post-flora]
 
 # *Keita* Cheek
 
-**Family**: Aptandraceae (tentative) — within [[Olacaceae]] s.l.
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Aptandraceae (tentative)
 
 Kew Bull. **79**: 317–332 (2024).
 
@@ -43,10 +43,10 @@ couplet as the only liana bearing circinate hooks.
 
 ## Species
 
-| Species | Distribution | In Gabon |
-|---------|--------------|----------|
-| [[Keita_uncifera\|K. uncifera]] (J.Louis & Boutique) Cheek | Gabon, Republic of the Congo, DRC | yes |
-| *K. deniseae* Cheek | Republic of Guinea (Simandou), submontane forest | no |
+| Species                                                    | Distribution                                     | In Gabon |
+| ---------------------------------------------------------- | ------------------------------------------------ | -------- |
+| [[Keita_uncifera\|K. uncifera]] (J.Louis & Boutique) Cheek | Gabon, Republic of the Congo, DRC                | yes      |
+| *K. deniseae* Cheek                                        | Republic of Guinea (Simandou), submontane forest | no       |
 
 *K. deniseae* is assessed as Endangered and is not known from Gabon; it has no
 page here.

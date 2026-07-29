@@ -2,8 +2,8 @@
 type: genus
 name: Engomegoma
 authority: Breteler
-family: Strombosiaceae
-family_sensu_lato: Olacaceae
+family: Olacaceae
+family_current: Strombosiaceae
 species_world: 1
 species_in_gabon: 1
 treatments:
@@ -16,7 +16,7 @@ tags: [genus, post-flora]
 
 # *Engomegoma* Breteler
 
-**Family**: Strombosiaceae — within [[Olacaceae]] s.l.
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Strombosiaceae
 
 Bot. Jahrb. Syst. **118**: 113–132 (1996).
 

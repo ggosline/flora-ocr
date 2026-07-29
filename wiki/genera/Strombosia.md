@@ -3,6 +3,7 @@ type: genus
 name: Strombosia
 authority: Blume
 family: Olacaceae
+family_current: Strombosiaceae
 species_world: 15
 species_in_africa: 8
 species_in_gabon: 4
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Strombosia* Blume
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Strombosiaceae
 
 Bijdr.: 1154 (1826).
 

@@ -7,7 +7,6 @@ family: Octoknemaceae
 habit: small tree
 countries: [Cameroon]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "189–189"
@@ -42,6 +41,15 @@ Known only from Cameroon.
 ## Figures
 
 ![PL. 44, 1 — *Octoknema dinklagei* Engl.: leaves and fruits × 0.9](../sources/Olacaceae_vol20_paddle/figures/fig_044_p0193.png)
+
+## Specimens examined
+
+<!-- From Gosline & Malécot (2011), Kew Bull. 66: 367-404. Verbatim from
+the monograph; abbreviations and herbarium codes as printed. -->
+
+**Cameroon**
+
+Littoral Region: & Douala-Edea Forest Reserve, Lake Tissongo, May 1976, McKey & Gartlan 91 (K) & ibid., 26 July 1976, McKey & Gartlan 133 (K) & ibid., 28 July 1976, McKey & Gartlan 154 (K) & ibid., 1 July 1979, Thomas 849 (K) & ibid., 24 June 1986, Thomas 6172 (MO); South Region: Gross Batanga, 25 Aug. 1891, Dinklage 1298 (holotype B) & 14 Sept. 1891, Dinklage 1298 (possible paratype B) & 30 km N of Kribi, 28 Nov. 1969, Bos 5730 (B, BR, K, P, WAG (×3), YA) & ibid., 28 Nov. 1969, Bos 5731 (P) & ibid., 28 Nov. 1969, Bos 5743 (B, BR, K, P, WAG (×3), YA).
 
 ## Source
 

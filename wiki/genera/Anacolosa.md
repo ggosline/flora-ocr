@@ -3,6 +3,7 @@ type: genus
 name: Anacolosa
 authority: Blume
 family: Olacaceae
+family_current: Aptandraceae
 species_world: 16
 species_in_gabon: 0
 species_in_gabon_historical: 1
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Anacolosa* Blume
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Aptandraceae
 
 Mus. Bot. Lugd. Bat. **1**: 250, tab. 46 (1850).
 

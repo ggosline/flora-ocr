@@ -3,6 +3,7 @@ type: genus
 name: Heisteria
 authority: Jacq.
 family: Olacaceae
+family_current: Erythropalaceae
 species_world: ~43
 species_in_africa: 3
 species_in_gabon: 3
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Heisteria* Jacq.
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Erythropalaceae
 
 Enum. Pl. Carib.: 4 (1760).
 

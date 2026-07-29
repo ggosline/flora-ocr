@@ -3,6 +3,7 @@ type: genus
 name: Okoubaka
 authority: Pellegr. & Normand
 family: Octoknemaceae
+family_current: Santalaceae
 species_world: 1
 species_in_gabon: 1
 treatments:
@@ -13,7 +14,7 @@ tags: [genus]
 
 # *Okoubaka* Pellegr. & Normand
 
-**Family**: [[Octoknemaceae]]
+**Family**: [[Octoknemaceae]] *sensu lato* · **Current placement**: Santalaceae
 
 Bull. Soc. Bot. Fr. **93**: 139 (1946).
 

@@ -5,19 +5,17 @@ infraspecific_rank: var
 parent_species: Olax subscorpioidea
 genus: Olax
 family: Olacaceae
-habit: shrub or small tree
-habitat: [primary forest, secondary forest, forest edge, gallery forest, shaded savanna]
-altitude_m: "800–1400"
-flowering_period: "September to January"
-countries: [Cameroon, Democratic Republic of the Congo, Guinea, Nigeria]
+countries: [Nigeria, Cameroon, Gabon, Guinea, Democratic Republic of the Congo]
+countries_incomplete: true
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
+habit: shrub or small tree
+habitat: [primary forest, secondary forest, forest edges, gallery forest, shaded savanna]
+altitude_m: "800–1473"
 treatments:
   - vol: 20
     pages: "117–120"
     source: sources/Olacaceae_vol20_paddle
-tags: [species, infraspecific]
----
+tags: [infraspecific, variety]---
 
 # *Olax subscorpioidea* var. *subscorpioidea*
 
@@ -25,75 +23,56 @@ tags: [species, infraspecific]
 
 ## Description
 
-**Habit**: shrub or small tree 8–9 m tall. Trunk 20–30 cm in diameter, branches
-spreading, somewhat pendulous. Foliage dark green. Young branchlets greenish,
-ribbed. Old branchlets longitudinally ribbed, transversely striate.
+Shrub or small tree 8–9 m tall; trunk 20–30 cm diameter; branches spreading, somewhat pendulous. Foliage dark green. Young twigs greenish, ridged. Older twigs longitudinally ridged, transversely striated. Petiole absent or short (1–2 mm), concave above, wrinkled below. Blade glabrous on both faces, dark green matte above, lighter green below, lanceolate-oblong or elliptic, 9–11 × 2–4 cm; base cuneate or attenuate, rarely rounded; apex acute or acuminate, most often mucronate. Midvein concave above, prominent striated longitudinally below. Secondary nerves 6–8 (–10) pairs, ascending, arched, anastomosing 2 mm from leaf margin, concave above, prominent below. Nervilles in loose, poorly visible network.
 
-**Leaves**: petiole absent or short (1–2 mm), concave above, wrinkled beneath.
-Blade glabrous on both faces, dark green and dull above, lighter green beneath,
-lanceolate-oblong or elliptic, 9–11 × 2–4 cm; base cuneiform or attenuate,
-rarely rounded; apex acute or acuminate, most often mucronate. Midrib concave
-above, salient and longitudinally striate beneath. Secondary nerves 6–8
-(–10) pairs, ascending, arcuate, anastomosing 2 mm from the margin, concave
-above, salient beneath. Nervules forming a loose reticulum, scarcely visible.
+Inflorescence formed by solitary flowers, fasciculate flowers, or axillary many-flowered racemes. Rachis flattened, winged, zigzag in outline, 1–4 cm long; flowers on the broad faces. Bracts oval, strongly carinate externally, apiculate at apex, sometimes resembling a small leaf. Pedicel striated, 1.5–3 mm long. Flower bud cylindric to ovoid, ± constricted in the middle, with valvate petals, 3–5 × 1.5–2 mm. Flower 5(–6)-merous, whitish-green. Calyx reduced to a disc-like form with entire upper margin. Petals almost entirely free from one another, glabrous on both faces, linear or linear-oblong, 6 × 1 mm, dorsally keeled; apex apiculate-acute; petals erect in the open flower. Stamens 5–6, epipetalous, 4 mm long; filament ± fused to petals, flattened, linear-oblong, 3.5 × 0.75 mm; anther ellipsoid, introrse, 2-locular with longitudinal dehiscence slits, 1.5 mm long. Staminodes 3, alternipetalous, 4.25 mm long; filament of staminodes similar to that of stamens, terminating in 2 laminae ± fused together, with apex acute or expanded. Disc absent. Ovary superior, glabrous, subconical in form, faintly fluted at base, 1 mm long, with 3 incomplete uniovulate locules. Style slender, 1.5–2.5 mm long, terminated by a capitate stigma with 3 lobes.
 
-**Inflorescence**: flowers solitary, fasciculate, or in axillary many-flowered
-racemes. Rachis flattened, winged, zigzag, 1–4 cm long; flowers on the broad
-faces. Bracts ovate, strongly keeled externally, apiculate at the apex,
-sometimes leaf-like in appearance. Pedicel striate, 1.5–3 mm long. Flower bud
-cylindric to ovoid, somewhat constricted at the middle, with valvate petals,
-3–5 × 1.5–2 mm.
-
-**Flowers**: 5(–6)-merous, whitish-green. Calyx reduced to a disc-shaped form
-with entire upper margin. Petals almost entirely free from one another, glabrous
-on both faces, linear or linear-oblong, 6 × 1 mm, keeled dorsally; apex acute
-and apiculate; petals erect in the expanded flower. Stamens 5–6, epipetalous,
-4 mm long; filament ± fused to the petals, flattened, linear-oblong, 3.5 ×
-0.75 mm; anther ellipsoid, introrse, with 2 locules and longitudinal dehiscence
-slits, 1.5 mm long. Staminodes 3, alternipetalous, 4.25 mm long; filament of
-the staminodes similar to that of the stamens, ending in 2 ± fused lamellae
-with acute or broadened apex. Disc absent. Ovary superior, glabrous,
-subconical, weakly channelled at the base, 1 mm long, with 3 incomplete
-uniovulate locules. Style slender, 1.5–2.5 mm long, terminated by a capitate
-stigma with 3 lobes.
-
-**Fruit**: pedicel of the fruit 2–5 mm long. Fertile calyx disc-shaped, very
-weakly accrescent or non-accrescent, 3–7 mm in diameter. Drupe globose, red,
-10–13 mm in diameter, apiculate at the apex. Pericarp granular. Endocarp thin
-and hard.
-
-**Seed**: solitary, globose, depressed at the apex, without integument, yellowish
-or brown, with granular surface. Albumen yellowish. Embryo apical.
-
-## Type
-
-HOLOTYPE: *Barter 1785*, Onitsha, Nigeria (K); ISOTYPE (P).
+Fruit pedicel 2–5 mm long. Fruiting calyx disciform, very weakly accrescent or non-accrescent, 3–7 mm diameter. Drupe globose, red, 10–13 mm diameter, apiculate at apex. Pericarp granular. Endocarp thin and hard. Seed solitary, globose, depressed at apex, without testa, yellowish or brown, with granular surface. Albumen yellowish. Embryo apical.
 
 ## Distribution
 
-**Range**: from Guinea to Zaire (Democratic Republic of the Congo).
-**Gabon**: Ogooué (material examined below).
+**Range**: From Guinea to Zaïre [Democratic Republic of the Congo].
+
+**Nigeria**: Onitsha (type locality).
+
+**Cameroon**: Ngaoundéré region; Meiganga; Bétaré Oya; Lom; Bimba; Yaoundé; Bangangté; Monts de Cristal region; Bertoua; Batouri; Bagodo; Bafia; Oesso.
+
+**Gabon**: Ogooué.
 
 ## Habitat and ecology
 
-Primary and secondary forests, also along forest edges. Appears along waterways
-in gallery forests. Forms thick shrubby growth in shaded savanna zones. Appears
-to prefer acidic soils. Flowering from September to January; fruit ripening
-begins in January. Collected in Cameroon at 800–1400 m altitude.
+A plant of primary and secondary forests. Grows also along forest edges. Appears along watercourses in gallery forests. Forms thick bushes in shaded areas of savanna. Appears to prefer acidic soils. Flowering from September to January; fruit maturation begins as early as January.
 
 ## Specimens examined
-- *De Brazza J. 20*, Ogooué (fr.)
+
+**Cameroon:**
+
+- Aubréville 565, s.l. (fl., Jan.)
+- Breteler 478, 6 km S Ngaoundéré, on road to Meiganga (fl., Oct.); 1084, 13 km NW Bétaré Oya, W of Lom, alt. 800 m (fr., Feb.); 1158, near Lom, on road Bétaré Oya–Monay (fr., Feb.); 2801, edge of Doumé river, 40 km SW Batouri, near Bimba (fr., Apr.)
+- Breteler, De Wilde & Leeuwenberg 2291, Nkolbisson, 7 km W Yaoundé, alt. 900 m (fl., Dec.)
+- De Wilde W. 1379, 1688a, 1688b, Nkolbisson, 8 km Yaoundé (fl., Jan.; fr., Dec.); 2500, Bangwa, 16 km NW Bangangté (fr., May); 2500b, 8 km NW Bangangté (fr., May); 3957, 17 km S Meiganga (fl., Nov.); 4356, edge of Lake Tison, 12 km SE Ngaoundéré (fl., Nov.)
+- De Wit 7864, 7865, Bamiléké region (fl., fr., Dec.)
+- Jacques-Félix 2576, Bangangté, 1400 m (fl., Dec.); 9093, mont Daland, W Sambolabo (fl., Nov.)
+- Leeuwenberg 6042, Nkolbisson, 7 km W Yaoundé (fr., Jul.)
+- Letouzey 2603, Sabal Haleo, near Tibati (fl., fr., Dec.); 2972, between Letta and Viali, N of Bertoua (fr., Feb.); 3483, Mont Tambéré (fr., Feb.); 3565, NW Kissi, near Bétaré Oya (fr., Feb.); 4617, mont Nion, 15 km ESE Batouri (fr., Mar.); 6219, slopes of Ngaou Ndal, 15 km WNW Bagodo (fl., Oct.); 7806, eastern slopes of mont Yangba (1473 m) near Nyafianga, 42 km NNE Bafia; 10625, bank of Sangha river, near Lidjombo, 120 km N Oesso (fr., Apr.)
+- Raynal J. & A. 10720, massif of Ngolè, above Banda (fl., Apr.); 10876, Linté, near Toro hill (fr., Apr.)
+
+**Gabon:**
+
+- De Brazza J. 20, Ogooué (fr.)
 
 ## Vernacular names
 
-*Tissongo* (Baya).
+- Tissongo (Baya)
 
 ## Properties and uses
 
-The leaves and wood emit a garlic-like odour. The branches can be used to make
-brooms. The fruits are edible.
+Leaves and wood emit an odor of garlic. Young twigs can be used in the manufacture of brooms. Fruits are edible.
 
 ## Source
 
-Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*,
-Volume 20: 117–120. Muséum national d'Histoire naturelle, Paris.
+Flore du Gabon, Volume 20: 117–120.
+
+## Notes
+
+The type specimen is Barter 1785 from Onitsha, Nigeria, deposited at K (holotype) with an isotype at P.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genera/Engomegoma.md",
+                "file": "genera/Anacolosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engomegoma"
+              "title": "Anacolosa"
             }
           }
         ]
@@ -185,13 +185,17 @@
   },
   "active": "b26caf154d864761",
   "lastOpenFiles": [
+    "genera/Keita.md",
+    "species/Keita_uncifera.md",
+    "genera/Heisteria.md",
+    "families/Olacaceae.md",
+    "genera/Engomegoma.md",
     "species/Octoknema_aruwimiensis.md",
     "species/Octoknema_ogoouensis.md",
     "species/Octoknema_chailluensis.md",
     "species/Octoknema_belingensis.md",
     "species/Octoknema_genovefae.md",
     "species/Heisteria_trillesiana.md",
-    "genera/Heisteria.md",
     "species/Ancistrocladus_guineensis.md",
     "sources/Orchidaceae_vol36_paddle/figures/fig_000_p0002.png",
     "sources/Orchidaceae_vol36_paddle/figures/fig_001_p0016.png",
@@ -216,7 +220,6 @@
     "index.md.tmp.52332.f9cb4a1d9dad",
     "volumes/vol20.md",
     "volumes/vol20.md.tmp.52332.65102768f3ba",
-    "families/Olacaceae.md",
     "families/Olacaceae.md.tmp.52332.1253b4936a17",
     "genera/Ongokea.md",
     "genera/Aptandra.md",
@@ -227,9 +230,6 @@
     "species/Olax_gambecola.md",
     "genera/Olax.md",
     "species/Strombosiopsis_tetrandra.md",
-    "genera/Strombosiopsis.md",
-    "species/Ximenia_americana.md",
-    "genera/Ximenia.md",
-    "species/Anacolosa_uncifera.md"
+    "genera/Strombosiopsis.md"
   ]
 }

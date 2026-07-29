@@ -3,6 +3,7 @@ type: genus
 name: Olax
 authority: L.
 family: Olacaceae
+family_current: Olacaceae s.str.
 species_world: ~50
 species_in_africa: 37
 species_in_gabon: 6
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Olax* L.
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Olacaceae s.str.
 
 Fl. Zeylan.: 14, tab. 34 (1747).
 

@@ -3,6 +3,7 @@ type: genus
 name: Coula
 authority: Baill.
 family: Olacaceae
+family_current: Coulaceae
 species_world: 1
 species_in_gabon: 1
 treatments:
@@ -13,7 +14,7 @@ tags: [genus]
 
 # *Coula* Baill.
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Coulaceae
 
 Adansonia, sér. 1, **3**: 64 (1863).
 

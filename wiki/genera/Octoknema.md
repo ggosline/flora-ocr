@@ -3,6 +3,7 @@ type: genus
 name: Octoknema
 authority: Pierre
 family: Octoknemaceae
+family_current: Erythropalaceae
 species_world: 14
 species_world_per_vol20: 6
 species_in_gabon: 6
@@ -21,7 +22,7 @@ tags: [genus]
 
 # *Octoknema* Pierre
 
-**Family**: [[Octoknemaceae]]
+**Family**: [[Octoknemaceae]] *sensu lato* · **Current placement**: Erythropalaceae
 
 Bull. Soc. Linn. Paris **2**: 1290 (1897).
 

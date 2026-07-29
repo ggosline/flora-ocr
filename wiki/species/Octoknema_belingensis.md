@@ -5,9 +5,9 @@ authority: Gosline & Malécot
 genus: Octoknema
 family: Octoknemaceae
 habit: shrub or small tree
-countries: [Gabon]
 subdivisions:
   Gabon: [Ogooué-Ivindo]
+countries: [Gabon]
 in_region: true
 treatments:
   - kind: article
@@ -41,6 +41,15 @@ Type: Gabon, Bélinga.
 
 **Gabon only** — the Bélinga mountains, Ogooué-Ivindo Province (iron-mine area).
 Not recorded elsewhere.
+
+## Specimens examined
+
+<!-- From Gosline & Malécot (2011), Kew Bull. 66: 367-404. Verbatim from
+the monograph; abbreviations and herbarium codes as printed. -->
+
+**Gabon**
+
+Ogooué-Ivindo Province: Belinga, Iron mine exploration area, 13 Nov. 1978, Breteler 589 (holotype WAG; isotypes B, K, MO, P, WAG); Wageningen, Botanic Gardens greenhouse nr.78-648, 10 June 1981, Setten 665 (WAG) (seedling of Breteler 589). 382 KEW BULLETIN VOL. 66(3) © The Board of Trustees of the Royal Botanic Gardens, Kew, 2011 Fig. 1. Octoknema bakossiensis. A habit male; B habit female; C male flower; D, E female flower and section; F stigma; G, H fruit and section; J stellate hair; K base of leaf abaxial side. Scale bar: A, B = 3.75 cm; C, D, E, F = 2.5 mm; G, H = 2.5 cm; K = 0.16 mm; L = 0.5 cm. A, C, K drawn from Cheek 9093; B, D, E from Etuge 4152; G, H from Etuge 4440. DRAWN BY HAZEL WILKS. 383 A MONOGRAPH OF OCTOKNEMA (OCTOKNEMACEAE — OLACACEAE S.L.) © The Board of Trustees of the Royal Botanic Gardens, Kew, 2011 Fig. 2. Octoknema belingensis. A habit; B leaf base and petiole abaxial surface; C semidendritic hai; D stellate hair; E fruit; F fruit transverse section. Scale bar: A = 3 cm; B = 1 cm; C, D = 0.3 mm, E, F = 1.5 mm. All from Breteler 589. DRAWN BY LUCY SMITH. 384 KEW BULLETIN VOL. 66(3) © The Board of Trustees of the Royal Botanic Gardens, Kew, 2011
 
 ## Source
 

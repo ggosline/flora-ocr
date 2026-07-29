@@ -128,7 +128,17 @@ def _section(text: str, heading: str) -> str:
     except StopIteration:
         return ""
     level = len(heading) - len(heading.lstrip("#"))
+    fenced = False
     for j in range(start + 1, len(lines)):
+        if lines[j].lstrip().startswith("```"):
+            fenced = not fenced
+            continue
+        # Headings inside a fenced block are page *templates*, not document
+        # structure. Treating them as section boundaries truncated the species
+        # template at its own "## Specimens examined" line and silently dropped
+        # everything after it, including "## Source".
+        if fenced:
+            continue
         s = lines[j].lstrip("#")
         hashes = len(lines[j]) - len(s)
         if lines[j].startswith("#") and 0 < hashes <= level:
@@ -239,8 +249,8 @@ class Job:
 
 
 def collect_jobs(bundles: list[dict], wiki_root: Path, *, tier: str = "bulk",
-                 overwrite: bool = False,
-                 only_family: str | None = None) -> tuple[list[Job], list[str]]:
+                 overwrite: bool = False, only_family: str | None = None,
+                 exclude: set[str] | None = None) -> tuple[list[Job], list[str]]:
     """Jobs to run, and the taxa skipped because their page already exists.
 
     `only_family` filters on each block's own family, not on the directory: a
@@ -263,6 +273,9 @@ def collect_jobs(bundles: list[dict], wiki_root: Path, *, tier: str = "bulk",
             if not wp or wp in seen:
                 continue
             seen.add(wp)
+            if exclude and Path(wp).stem in exclude:
+                skipped.append(blk["name"] + " (excluded)")
+                continue
             if (wiki_root / wp).exists() and not overwrite:
                 skipped.append(blk["name"])
                 continue
@@ -625,6 +638,10 @@ def main(argv: list[str] | None = None) -> int:
                     help="species page stem to use as the worked example")
     ap.add_argument("--overwrite", action="store_true",
                     help="regenerate pages that already exist")
+    ap.add_argument("--exclude", default="",
+                    help="comma-separated page stems to leave alone even with "
+                         "--overwrite (hand-written pages the cheap tier would "
+                         "downgrade, e.g. Keita_uncifera)")
     ap.add_argument("--price-in", type=float, default=DEFAULT_PRICE_IN)
     ap.add_argument("--price-out", type=float, default=DEFAULT_PRICE_OUT)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -648,8 +665,9 @@ def main(argv: list[str] | None = None) -> int:
 
     bundles = _load_bundles(args, flora)
     system = build_system(wiki_root, args.exemplar)
+    exclude = {x.strip() for x in args.exclude.split(",") if x.strip()}
     jobs, skipped = collect_jobs(bundles, wiki_root, overwrite=args.overwrite,
-                                 only_family=args.family)
+                                 only_family=args.family, exclude=exclude)
 
     if args.cmd == "render":
         job = next((j for j in jobs if j.name.lower() == args.taxon.lower()), None)

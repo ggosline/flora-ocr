@@ -4,21 +4,14 @@ name: Aptandra zenkeri
 authority: Engler
 genus: Aptandra
 family: Olacaceae
-synonyms:
-  - Aptandra zenkeri var. latifolia Engler
-  - Harmandia congoensis
-  - Lecomtea congoensis Pierre ex Van Tieghem
-habit: shrub or small tree
-habitat: [dense humid forest]
-countries: [Angola, Cameroon, Côte d'Ivoire, Republic of the Congo]
+countries: [Cameroon, Gabon, Ivory Coast, Angola, Democratic Republic of the Congo]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
+habit: shrub or small tree
 treatments:
   - vol: 20
     pages: "158–161"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]
----
+tags: [species]---
 
 # *Aptandra zenkeri* Engler
 
@@ -26,47 +19,64 @@ tags: [species]
 
 Pflanzenfam., ed. 1, 1: 146 (1897); Notizbl. bot. Gart. Berl. 2: 287 (1899); Pflanzenw. Afr. 3, 1: 80, tab. 44 (1915).
 
+## Synonymy
+
+- *A. zenkeri* var. *latifolia* Engl., Notizbl. bot. Gart. Berl. 2: 287 (1899)
+- *Harmandia congoensis* = *Lecomtea congoensis* Pierre ex Van Tieghem, Bull. Soc. Bot. Fr. 43: 569–570 (1896)
+
 ## Description
 
-**Habit**: shrub or small tree 10–15 m high. Rhytidome with numerous lenticels, bark rugose. Young branchlets green, wrinkled longitudinally. Older branchlets almost smooth.
+Shrub or small tree 10–15 m tall. Rhytidome with numerous lenticels, bark rugose. Young branches green, longitudinally wrinkled. Older branches almost smooth. Petiole glabrous, 3–6 (–10) mm long, canaliculate above, wrinkled below. Lamina glabrous on both faces, dull green slightly brownish above, green below, thick and subcoriaceous, lanceolate, oblong-elliptic or elliptic, 6–13 (–17) × 2.2–5.2 cm; base cuneiform, apex apiculate acute or shortly acuminate, mucronate. Midvein slightly concave on the upper face, prominent on the lower face, longitudinally wrinkled. Secondary veins 5–7 pairs, ascending, arched, anastomosing 3–4 mm from the margin of the lamina, scarcely distinct above, scarcely prominent below. Tertiary venation in very lax network, scarcely distinct on the lower face.
 
-**Leaves**: petiole glabrous, 3–6 (–10) mm long, canaliculate above, wrinkled beneath. Blade glabrous on both faces, dull green slightly brown above, green beneath, thick and subcoriaceous, lanceolate, oblong-elliptic or elliptic, 6–13 (–17) × 2.2–5.2 cm; base cuneate, apex apiculate acute or shortly acuminate, mucronulate. Midrib slightly concave on the upper face, prominent on the lower face, wrinkled longitudinally. Secondary nerves 5–7 pairs, ascending, arcuate, anastomosing 3–4 mm from the blade margin, indistinct above, slightly prominent beneath. Nervules in a very loose reticulum, indistinct on the lower face.
+Inflorescences in short axillary multiflorous racemes (10–30 flowers), solitary or grouped in pairs. Rachis 4–10 mm long, bearing numerous bracts. Pedicel slender, 2.5–8 mm long, widened at the apex, at the axil of a bract. Floral bud approximately 3.5 mm long, widened at the apex. Flower ♂ or ♀, tetramerous. Sepals glabrous on both faces, united in a cupule, alternate to the petals. Petals glabrous on both faces, fleshy and reflexed. Epipetalous glandular lobes between the stamens and petals. Stamens 4, epipetalous, united in a tube by the filaments, 1.5–3.5 mm long, pink; anthers with 2 extrorse locules, united in a ring around the style, opening by annular dehiscence fissures; the flaps thus liberated fold back toward the base of the pollen sacs; anthers aborted in ♀ flowers. Ovary aborted in ♂ flowers; superior, glabrous, 1 mm in diameter, bilocular, with pendant ovules in ♀ flowers. Style elongate white, 2 mm long, terminated by a capitate stigma.
 
-**Inflorescence**: short axillary racemes, many-flowered (10–30 flowers), solitary or grouped by 2. Rachis 4–10 mm long, bearing numerous bracts. Pedicel slender, 2.5–8 mm long, enlarged at the apex, at the axil of a bract. Flower bud about 3.5 mm long, enlarged at the apex.
-
-**Flowers**: male or female, tetramerous. Sepals glabrous on both faces, fused into a cupule, alternipetalous. Petals glabrous on both faces, fleshy and reflexed. Epipetalous glandular lobes between the stamens and petals. Stamens 4, epipetalous, fused by the filaments into a tube, 1.5–3.5 mm long, pink; anthers with 2 extrorse locules, united in a ring around the style, opening by annular dehiscence slits; the flaps thus freed fold back towards the base of the anther lobes; anthers abortive in female flowers. Ovary abortive in male flowers; in female flowers: superior, glabrous, 1 mm in diameter, bilocular, with pendant ovules. Style elongate, white, 2 mm long, ending in a capitate stigma.
-
-**Fruit**: fruiting pedicel furrowed, 15–35 mm long. Calyx very strongly accrescent, fleshy, upper margin undulate, pink, 4.5–10 cm in diameter, surrounding the fruit. Drupe blue-black and shining, ellipsoid or ovoid, 15–18 mm long. Base of the drupe surrounded by an orange aril, furrowed, 10–11 mm in diameter × 3–4 mm in height. Apex of the drupe apiculate (remains of the style). Seed with oily albumen. Embryo apical.
-
-## Types
-
-LECTOTYPE: *Zenker & Staudt 643*, Cameroon (B, deleted; iso-, P).
+Fruiting pedicel furrowed, 15–35 mm long. Calyx very strongly accrescent, fleshy, with undulate upper margin, pink, 4.5–10 cm in diameter surrounding the fruit. Drupe blue-black shining, ellipsoid or ovoid, 15–18 mm long. Base of the drupe surrounded by an orange aril, furrowed, 10–11 mm diameter × 3–4 mm height. Apex of the drupe apiculate (style remnants). Seed with oily albumen. Embryo apical.
 
 ## Distribution
 
-**Range**: from Ivory Coast to Angola, through Cameroon and Congo.
-**Gabon**: Mayumba, Bélinga, Donguila, Ogooué, Lastoursville, Mapita, Bitam, Oyem, Monts de Cristal region, Libreville area.
+**Range**: Small tree or shrub of the humid dense forest encountered from Ivory Coast to Angola.
+
+**Cameroon**: Doumé, Bertoua, Nguélérendouka, Yaoundé, Abong Mbang, Moloundou, Bipindi.
+
+**Gabon**: Mayumba, Bélinga, Donguila, Ogooué, Lastoursville, Mapita, Bitam, Oyem, Monts de Cristal, Libreville.
 
 ## Habitat and ecology
 
-Dense humid forest.
+Humid dense forest.
 
 ## Specimens examined
-- *Chevalier 11286, 11289 bis*, Mayumba (fr., Jan.)
-- *Hallé N. 3174*, Bélinga (fr., Nov.)
-- *Klaine 3332*, near Donguila (fr., June)
-- *Lecomte 7*, Ogooué (fr.)
-- *Le Testu 7628, 8488*, Lastoursville (fl., fr., Oct.–Nov.); *8108*, Mapita (fl.); *9011*, Bitam (fr., Mar.); *9519*, Oyem (fr., Mar.)
-- *Trilles 44*, Haute Udzémé, near Monts de Cristal (fl., fr.); *49*, near Libreville (fr.)
 
-## Figures
+**Cameroon**
 
-![PL. 34. — *Aptandra zenkeri* Engl.: leaves, inflorescences and young fruits × 0.9; bract; male or female flower bud × 4.2; section of flower bud × 6.2; petal × 6; stamen column × 5.5; diagram of female flower; ovary × 9; longitudinal section of young fruit; accrescent calyx and fruit × 1½; section of calyx and fruit × 0.4; fruit × 1.3; section of fruit × 1.3. (1–9, Le Testu 8488; 10–13, Hallé N. 3174).](../sources/Olacaceae_vol20_paddle/figures/fig_034_p0159.png)
+- Breteler 664, Doumé (fruit, November); 718, Bertoua (flowers, December); 838, 5 km E Bertoua, bifurcation Batouri–Bétaré Oya (flowers, December); 1230, 1322, 1328, 1680, Bertoua, 6 km road Bétaré Oya (flowers, March; fruit, April–July); 2044, 4 km S Nguélérendouka, near Zilly (fruit, November); 2081, 10 km SE Nguélérendouka, near Zendé (flowers, November); 3051, Bertoua (fruit, July)
+- De Wilde W. 1398, 2298, Nkolbisson, 8 km W Yaoundé (fruit, December–April)
+- Leeuwenberg 6152, 9 km E Yokadouma, N Bompelo (fruit, July)
+- Letouzey 1779, Mbomba near Abong Mbang (fruit, April); 7987, near Akouen, 40 km W Linté (fruit, September)
+- Villiers J.-F. 680, 4 km N confluence Malapa–Ngoko, E Moloundou (fruit, April)
+- Zenker 332, edge of the Lokundé (flowers, February); 680, Yaoundé (flowers)
+- Zenker & Staudt 643, Bipindi (fruit) [LECTOTYPE]
+
+**Gabon**
+
+- Chevalier 11286, 11289 bis, Mayumba (fruit, January)
+- Hallé N. 3174, Bélinga (fruit, November)
+- Klaine 3332, near Donguila (fruit, June)
+- Lecomte 7, Ogooué (fruit)
+- Le Testu 7628, 8488, Lastoursville (flowers, fruit, October–November); 8108, Mapita (flowers); 9011, Bitam (fruit, March); 9519, Oyem (fruit, March)
+- Trilles 44, Haute Udzémé, near Monts de Cristal (flowers, fruit); 49, near Libreville (fruit)
 
 ## Properties and uses
 
-The reddish wood is hard and resistant; it is used in carpentry when the size of the trunk permits. The seed has the taste of an almond; when ground, it is used in the preparation of a pomade for hair.
+The reddish wood is hard and resistant; it is used in carpentry when the trunk size permits. The seed has the taste of an almond; when ground, it serves in the preparation of a pomade for the hair.
+
+## Figures
+
+![Aptandra zenkeri Engler: 1, leaves, inflorescences and young fruits × 0.9; 2, 2', bract; 3, male or female floral bud × 4.2; 4, section of floral bud × 6.2; 5, petal × 6; 6, stamen column × 5.5; 7, diagram of female flower; 8, ovary × 9; 9, longitudinal section of young fruit; 10, accrescent calyx and fruit × 1½; 11, section of calyx and fruit × 0.4; 12, fruit × 1.3; 13, section of fruit × 1.3. (1–9, Le Testu 8488; 10–13, Hallé N. 3174).](../sources/Olacaceae_vol20_paddle/figures/fig_034_p0159.png)
 
 ## Source
 
-Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 158–161. Muséum national d'Histoire naturelle, Paris.
+Flore du Gabon, Volume 20: 158–161.
+
+## Notes
+
+The lectotype is Zenker & Staudt 643 from Cameroon (Bipindi), housed at B with isotype at P. The treatment cites an extensive historical literature ranging from the original 1897 description through 1966, documenting this species' recognition across multiple regional floras.

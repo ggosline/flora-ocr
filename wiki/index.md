@@ -34,8 +34,8 @@ See [[CLAUDE]] for the schema and conventions.
 - [[Ebenaceae]] — Ericales; one Gabonese genus; 32 species in Gabon, 46 species treated on the wiki (38 in Vol 18 + later article-based additions and revisions)
 - [[Huaceae]] — Oxalidales; garlic-scented shrubs and trees; 2 genera and 4 species in Gabon (Vol 38)
 - [[Menispermaceae]] — Ranunculales; 22 genera, 34–36 species in Gabon (16 monospecific, all-liana except 2 shrubs); 5 spp. nov. in Vol 60
-- [[Olacaceae]] — Santalales, broad pre-APG sense; 11 genera and 21 species in Gabon per Vol 20, **12 genera on current names**; most genera now referred to Coulaceae/Erythropalaceae/Strombosiaceae/Aptandraceae/Ximeniaceae
-- [[Octoknemaceae]] — Santalales; endemic to Africa; 2 genera and 5 species in Gabon (Vol 20); now sunk into Erythropalaceae
+- [[Olacaceae]] *sensu lato* — Santalales; the broad pre-APG family used by the source treatments, now split into **Aptandraceae, Coulaceae, Erythropalaceae, Olacaceae s.str., Strombosiaceae and Ximeniaceae**; 11 genera per Vol 20, 12 on current names
+- [[Octoknemaceae]] — Santalales; endemic to Africa, 2 genera; now sunk into **Erythropalaceae** (*Octoknema*), with *Okoubaka* referred to **Santalaceae**
 - [[Ranunculaceae]] — Ranunculales; one Gabonese genus; 2 species in Gabon (Vol 60)
 - [[Sapotaceae]] — Ericales; latex-bearing trees and shrubs; 23 genera and 48 accepted/present species pages on the wiki from Vol 1
 - [[Taccaceae]] — Dioscoreales; stemless geophytic herbs; 1 genus and 1 species in Gabon (Vol 38)

@@ -3,6 +3,7 @@ type: genus
 name: Ongokea
 authority: Pierre
 family: Olacaceae
+family_current: Aptandraceae
 species_world: 1
 species_in_gabon: 1
 treatments:
@@ -13,7 +14,7 @@ tags: [genus]
 
 # *Ongokea* Pierre
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Aptandraceae
 
 Bull. Soc. Linn. Paris **2**: 770 (1897).
 

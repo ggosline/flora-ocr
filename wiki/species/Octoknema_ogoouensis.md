@@ -6,9 +6,9 @@ genus: Octoknema
 family: Octoknemaceae
 habit: multi-stemmed shrub to 4 m
 altitude_m: "200"
-countries: [Gabon]
 subdivisions:
   Gabon: [Ogooué-Ivindo]
+countries: [Gabon]
 in_region: true
 treatments:
   - kind: article
@@ -48,6 +48,15 @@ Gallery forest, 200 m elevation.
 
 The authors note that the Lopé Reserve is relatively well studied, so a single
 collection indicates a genuinely rare species.
+
+## Specimens examined
+
+<!-- From Gosline & Malécot (2011), Kew Bull. 66: 367-404. Verbatim from
+the monograph; abbreviations and herbarium codes as printed. -->
+
+**Gabon**
+
+Ogooue-Ivondo Prov.: Lopé Reserve, Ogooue — hippo dip, 17 Sept. 1993, White 1046 (holotype WAG; isotype MO).
 
 ## Source
 

@@ -1097,3 +1097,52 @@ Congo) moved to `range_note`.
 country instead of dropping non-Gabonese ones, and its subdivision-stripping
 guard operates on every country in the `subdivisions` map rather than on Gabon
 alone.
+
+## [2026-07-29] recovery | Cameroon specimen data + family display
+
+### Olacaceae — re-run from source
+
+23 species/variety pages regenerated with `--overwrite` under the regional
+prompt, recovering the Cameroonian specimen lists discarded by the earlier
+Gabon-only rule. 0 rejected. 28 of 32 Vol 20 Olacaceae pages now cite Cameroon.
+
+Four pages were excluded from the re-run because the cheap tier would have
+downgraded them or undone earlier work: `Anacolosa_uncifera` (renamed to
+`Keita_uncifera`, and a re-run would have recreated the old page),
+`Ximenia_americana`, `Olax_gambecola`, `Strombosiopsis_tetrandra`. A new
+`--exclude` flag on the runner makes this repeatable. **Those four still lack
+their Cameroonian specimen lists.**
+
+A bug was found and fixed in the process: adding `## Specimens examined` to the
+species *template* in this file truncated the template, because the schema
+extractor treated headings inside fenced code blocks as section boundaries. The
+model stopped seeing `## Source` and every page was rejected for missing it.
+The extractor now ignores headings inside fences.
+
+### Octoknema — specimens from the monograph
+
+Specimen lists for all 8 *Octoknema* pages taken from Gosline & Malécot (2011)
+rather than from Vol 20, since the monograph supersedes it. Grouped by country
+and recorded verbatim. `countries` frontmatter regenerated from those lists:
+
+| Species | Countries |
+|---------|-----------|
+| *O. affinis* | Cameroon, Gabon, Nigeria |
+| *O. aruwimiensis* | Cameroon, CAR, DR Congo, Gabon |
+| *O. belingensis* | Gabon |
+| *O. chailluensis* | Gabon, Republic of the Congo |
+| *O. dinklagei* | Cameroon |
+| *O. genovefae* | Cameroon, Equatorial Guinea |
+| *O. klaineana* | Gabon |
+| *O. ogoouensis* | Gabon |
+
+*O. affinis* authority corrected again: **Pierre ex Tiegh.**, not Tiegh. alone.
+
+### Family names on genus pages
+
+Every genus page now shows both families in its header line —
+`**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Coulaceae` —
+with `family` (source usage) and `family_current` (modern placement) in
+frontmatter. Applied to all 15 genera. The Families list in `index.md` now
+names the segregates for [[Olacaceae]] and [[Octoknemaceae]]. Recorded as a
+convention in the naming section above.

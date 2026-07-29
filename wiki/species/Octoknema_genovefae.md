@@ -5,9 +5,8 @@ authority: Villiers
 genus: Octoknema
 family: Octoknemaceae
 habit: shrub
-countries: [Cameroon, Republic of the Congo]
+countries: [Cameroon, Equatorial Guinea]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "184–186"
@@ -55,6 +54,19 @@ Vernacular name: *nom avulu* (Yaoundé).
 ## Figures
 
 ![PL. 41 — *Octoknema genovefae* Villiers: 1, leaves and male inflorescences × 3/4; 2, base of blade × 1.5; 3, stellate hair; 4, detail of a male fascicle × 4; 5, bract × 17.5; 6–7, male flower bud × 13.5; 8, male flower diagram; 9–9', petal × 16; 10, stamen × 32.5; 11, pistillode × 22.](../sources/Olacaceae_vol20_paddle/figures/fig_041_p0185.png)
+
+## Specimens examined
+
+<!-- From Gosline & Malécot (2011), Kew Bull. 66: 367-404. Verbatim from
+the monograph; abbreviations and herbarium codes as printed. -->
+
+**Cameroon**
+
+Littoral Region: c. 30 km NW of Eséka, W of Yaoundé, 15 Dec. 1963, de Wilde W. J. J. O. 1494 (P, WAG (×2)) & Yabassi, proposed EBO National park, Bekob to Dicamb, 17 Feb. 2006, Cheek 13016 (K, YA) & ibid., 17 Feb. 2006, Tchiengue 2530 (K, YA ); Centre Region: vers 75 km d'Eseka sur la route du SAC après Badjob, Bordure de la Djelle, 10 Feb. 1956, Mpom 198 (P, YA) & c. 35 km NW of Eséka, 23 March 1964, de Wilde W. J. J. O. 2219 (WAG) & Ndanan 2, proposed Mefou National Park, 25 March 2004, Darbyshire 263 (K, YA); South Region: au sud de Zingui (40 km ESE Kribi), 20 Jan. 1962, Letouzey 4074 (holotype P; isotype P (×3)) & Bank Nyong R., near the new bridge, about 65 km SSW of Eséka, 15 July 1964, de Wilde W. J. J. O. 2814 (P, WAG) & about 70 km SSW of Eseka, about 10 km SW of bridge crossing Njong R., 9 Nov. 1964, de Wilde W. J. J. O. 3858 (K, WAG (×3)) & 22 km from Kribi, 3 – 4 km S of Lolodorf road, 25 Feb. 1970, Bos J. J. 6410 (B, P, WAG (×2)) & Camp Ma’an Area, Bilabimvolo, Bongala R., Oct. 2000, Tchouto 2454 (WAG, KRI n.v.). Possibly in this taxon: ?
+
+**Equatorial Guinea**
+
+Rio Muni, inselberg de Dumu, près du village de Dumu, 6 June 2002, Parmentier I. & Esono P. 3802 (BRLU, P) & SO du Parc National de Monte Alén, sur le transect Ecofac de Mosum à 500 du début du layon, 14 Feb. 2001, Senterre B. & Ngomo D. 351 (BRLU, INH).
 
 ## Source
 

@@ -4,15 +4,20 @@ name: Strombosia pustulata
 authority: Oliver
 genus: Strombosia
 family: Olacaceae
-synonyms: ["S. glaucescens Engl.", "S. rigida Engl."]
-range_note: "West Africa"
-countries_incomplete: true  # source gives localities but no country/province list; needs review
+synonyms:
+  - name: S. glaucescens
+    authority: Engl.
+    citation: "Bot. Jahrb. 43: 167 (1909)"
+  - name: S. rigida
+    authority: Engl.
+    citation: "ms."
+countries: [Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo]
+in_region: true
 treatments:
   - vol: 20
     pages: "139–141"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]
----
+tags: [species]---
 
 # *Strombosia pustulata* Oliver
 
@@ -22,14 +27,23 @@ Icon. Pl. 23: tab. 2299 (1894).
 
 ## Synonymy
 
-*S. glaucescens* Engl., Bot. Jahrb. 43: 167 (1909); Notizbl. bot. Gart. Berl. 21: 6 (1909).
+- *S. glaucescens* Engl., Bot. Jahrb. 43: 167 (1909)
+- *S. rigida* Engl., ms.
 
-*S. rigida* Engl., ms.
+## Description
+
+<!-- The source provides extensive citations and bibliographic references but does not include a detailed morphological description of the species itself. The treatment appears to focus on synonymy and distributional/bibliographic documentation rather than providing a new or comprehensive species description. -->
 
 ## Distribution
 
-West Africa.
+**Range**: West and Central Africa, from West Africa through Central Africa.
+
+**Countries**: Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo.
 
 ## Source
 
-Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 139–141. Muséum national d'Histoire naturelle, Paris.
+Flore du Gabon, Volume 20: 139–141.
+
+## Notes
+
+The species *S. glaucescens* Engl. is here treated as a synonym of *S. pustulata* Oliver. The manuscript name *S. rigida* Engl. is also cited as a synonym. The source text is primarily bibliographic and does not provide a detailed morphological description of the species.

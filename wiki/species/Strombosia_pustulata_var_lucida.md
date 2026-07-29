@@ -7,36 +7,39 @@ parent_species: Strombosia pustulata
 genus: Strombosia
 family: Olacaceae
 synonyms:
-  - S. glaucescens Engl. var. lucida Léonard
+  - name: S. glaucescens Engl. var. lucida
+    authority: Léonard
+    citation: Bull. J.B. Brux. 18: 148 (1947)
 countries: [Democratic Republic of the Congo]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "141–141"
     source: sources/Olacaceae_vol20_paddle
-tags: [species]
----
+tags: [infraspecific]---
 
-# *Strombosia pustulata* var. *lucida* (Léonard) Villiers
+# *Strombosia pustulata* var. *lucida* (Léonard) Villiers, comb. nov.
 
 **Family**: [[Olacaceae]] · **Genus**: [[Strombosia]]
 
-Comb. nov. — Based on *S. glaucescens* Engl. var. *lucida* Léonard, Bull. J.B. Brux. **18**: 148 (1947). — J.Louis & J.Léonard, Fl. Congo b. et R.U. **1**: 268 (1948). — KEAY, FWTA, ed. 2, **1**: 648 (1958).
-
 ## Description
 
-This variety differs from the type by its glossy blade on the upper face and its more prominent nervules.
-
-## Type
-
-HOLOTYPE: *Toussaint 2688*, Zobia, District forestier central, Zaïre (BR!).
+This variety differs from the type by its glossy lamina on the upper surface and its more prominent secondary veins (*nervilles*).
 
 ## Distribution
 
-To be sought in Cameroon and Gabon.
+**Known from**: Democratic Republic of the Congo (holotype from Zobia, Zaïre).
+
+The variety is to be sought in Cameroon and Gabon.
+
+## Specimens examined
+
+- **Democratic Republic of the Congo**: Toussaint 2688, Zobia, District forestier central, Zaïre (BR).
 
 ## Source
 
-Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*,
-Volume 20: 141–141. Muséum national d'Histoire naturelle, Paris.
+Flore du Gabon, Volume 20: 141–141.
+
+## Notes
+
+This is a nomenclatural combination (*comb. nov.*) by Villiers, transferring Léonard's variety of *S. glaucescens* to *S. pustulata*. The holotype is preserved at BR (Institut de Botanique, Brussels). The variety was cited in earlier publications (J. Louis & J. Léonard, Fl. Congo b. et R.U. 1: 268 (1948) and KEAY, FWTA, ed. 2, 1: 648 (1958)) under its basionym name.

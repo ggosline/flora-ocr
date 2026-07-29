@@ -6,7 +6,8 @@ genus: Octoknema
 family: Octoknemaceae
 habit: tree or shrub
 altitude_m: "12"
-countries_incomplete: true  # source gives localities but no country/province list; needs review
+countries: [Gabon]
+in_region: true
 treatments:
   - vol: 20
     pages: "186–189"
@@ -45,8 +46,14 @@ SYNTYPES: *Klaine 776, 809*, Gabon.
 **Gabon only**: known from between Libreville and Sibang, and Sibang.
 
 ## Specimens examined
-- *Chevalier 26774*, between Libreville and Sibang (fl. ♂, Jul.)
-- *Klaine 371, 636, 776, 809, 1197, 1342, 2711, 3137*, env. Libreville (fl. ♂, fl. ♀, fr., Sep.–Nov.); 2574, Sibang
+
+<!-- From Gosline & Malécot (2011), Kew Bull. 66: 367-404. Verbatim from
+the monograph; abbreviations and herbarium codes as printed. -->
+
+**Gabon**
+
+Gabon, Dec. 1896, Klaine 636 (lectotype P (P00391654); isolectotype P (P00391654 and sample without barcode)) & Gabon, 1 Sept. 1897, Klaine 809 (BR, K (×2)) & Libreville, 10 Sept. 1897, Klaine 1197 (B, G, K, P (×4)) & Libreville, 1 Nov. 1898, Klaine 1342 (B, BR, G, K (×2), P (×3)) & Gabon, 25 Oct. 1898, Klaine 371 (P (×3); female flowers) & Gabon, 12 Nov. 1898, Klaine 371 (P (×3) male flowers) & Gabon, 28 Feb. 1899 Klaine s.n. (P (×2)) & Libreville, 4 Dec. 1902, Klaine 2574 (P (×2)) & 15 Jan. 1902, Klaine 2596 (BR, P) & Sibang propre Libreville, 29 Jan. 1902, Klaine 2711 (K, P (×4)) & Libreville, 12 Nov. 1902, Klaine 3137 (P (×3)) & entre Libreville et Sibang, 26 Sept. 1912, Chevalier 26774 (P) & about 15 km S of Cocobeach, 1 Nov. 1986, Louis 1426 (B, BR (×2), K (×2), MO, WAG (×2)). 394 KEW BULLETIN VOL. 66(3) © The Board of Trustees of the Royal Botanic Gardens, Kew, 2011
+
 
 ## Figures
 

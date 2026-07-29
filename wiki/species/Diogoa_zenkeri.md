@@ -5,82 +5,95 @@ authority: (Engler) Exell & Mendonça
 genus: Diogoa
 family: Olacaceae
 synonyms:
-  - Strombosiopsis zenkeri Engl.
-  - S. majuscula S. Moore
-  - Strombosia retevenia S. Moore
-habit: tree
-habitat: [dense humid forest, understory]
-countries: [Angola, Cameroon, Democratic Republic of the Congo, Nigeria]
+  - name: Strombosiopsis zenkeri
+    authority: Engl.
+    citation: Bot. Jahrb. 43: 168 (1909)
+  - name: S. majuscula
+    authority: S. Moore
+    citation: Journ. Bot. 58: 223 (1920)
+  - name: Strombosia retevenia
+    authority: S. Moore
+    citation: Journ. Bot. 58: 224 (1920)
+countries: [Nigeria, Cameroon, Gabon, Republic of the Congo, Angola, Democratic Republic of the Congo]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
+habit: tree
+altitude_m: "5–50"
 treatments:
   - vol: 20
-    pages: "152–154"
+    pages: 152–154
     source: sources/Olacaceae_vol20_paddle
 tags: [species]
----
+countries_incomplete: true---
 
 # *Diogoa zenkeri* (Engler) Exell & Mendonça
 
 **Family**: [[Olacaceae]] · **Genus**: [[Diogoa]]
 
-Bull. Soc. Brot., ser. 2, **25**: 109, tab. 3 (1951); Consp. Fl. Angol. **1**: 336, tab. 3 (1957). — Keay, FWTA, ed. 2, **1**: 648 (1954). — Michaud, Mém. I.F.A.N. **75**: 268, tab. 12, g–l (1966).
+Bull. Soc. Brot., ser. 2, 25: 109, tab. 3 (1951); Consp. Fl. Angol. 1: 336, tab. 3 (1957).
 
-*Strombosiopsis zenkeri* Engl., Bot. Jahrb. **43**: 168 (1909). — Heitz, Forêt Gabon: 174, tab. 53 et 57 (1923). — J. Louis & J. Léonard, Fl. Congo b. et R.U. **1**: 272, tab. 26 (1948).
+## Synonymy
 
-*S. majuscula* S. Moore, Journ. Bot. **58**: 223 (1920).
-
-*Strombosia retevenia* S. Moore, l. c.: 224 (1920).
+- *Strombosiopsis zenkeri* Engl., Bot. Jahrb. 43: 168 (1909)
+- *S. majuscula* S. Moore, Journ. Bot. 58: 223 (1920)
+- *Strombosia retevenia* S. Moore, Journ. Bot. 58: 224 (1920)
 
 ## Description
 
-**Habit**: tree 5–50 m tall, with cylindrical trunk 25–30 (–50) cm in diameter. Bark greenish, with numerous whitish lenticels in horizontal lines, greyish-brown to orange-tinted with orange-brown to blackish spots or points in cross-section. Young branchlets green. Older branchlets brown or grey-black with numerous lenticels; internodes 2–3 cm long.
+Tall tree 5–50 m high, with cylindrical trunk 25–30(–50) cm diameter. Bark greenish with numerous whitish lenticels in horizontal lines, grey-brown to orange with orange-brown to blackish spots or points on the cut surface. Young branches green. Older branches brown or grey-black with numerous lenticels; internodes 2–3 cm long. Petiole glabrous, 11–30 mm long, channelled above, striated below, enlarged at apex, often blackish. Limb glabrous on both faces, shiny brown-green on upper face, matt light brown on lower face, narrowly elliptic, oblong-elliptic, oblong, 9–34 × 4.5–11 cm; base acute or ± rounded, apex acute, obtuse or shortly acutely acuminate. Midrib concave above, strongly prominent below. Secondary nerves 5–8 pairs, ascending, arched, anastomosing 3–6 mm from the limb margin, concave on upper face, prominent on lower face. Tertiary nerves parallel, 2–4 mm apart, ± strongly prominent on both faces. Quaternary nerves very faint.
 
-**Leaves**: petiole glabrous, 11–30 mm long, canaliculate above, striate below, widened at apex, often blackish. Blade glabrous on both faces, shiny brown-green above, pale matt brown below, narrowly elliptic, oblong-elliptic, oblong, 9–34 × 4.5–11 cm; base acute or ± rounded, apex acute, obtuse or shortly acutely acuminate. Midrib concave above, strongly prominent below. Secondary nerves 5–8 pairs, ascending, arcuate, anastomosing 3–6 mm from the blade margin, concave above, prominent below. Tertiary nerves parallel, 2–4 mm apart, ± strongly prominent on both faces. Quaternary nerves very faint.
+**Inflorescence**: fascicle or very short multiflorous raceme, axillary or extra-axillary, 7 × 4 mm. Short thick pedicel, 1 mm long. Floral buds broadly ovoid, 2.5–3.25 mm diameter, with valvate petals.
 
-**Inflorescence**: fasciculate or very short racemose, many-flowered, axillary or extra-axillary, 7 × 4 mm. Short thick pedicel, 1 mm long. Flower buds broadly ovoid, 2.5–3.25 mm in diameter, with valvate petals.
+**Flower**: female, pentamerous, greenish or yellow. Calyx of 5 glabrous sepals, very broadly elliptic, 0.75–1.25 mm long, connate at base, ± obtuse at apex. Petals glabrous, free to the base, lanceolate, 4 × 2 mm, fleshy, with apiculate apex on inner face, ± papillose. Stamens 5, epipetalous, free, gynobasic, 3.5 × 1.5 mm, erect, appressed against the inner face of petals; filament broad and fleshy, flattened, narrowed towards apex; anther 2 × 1.5 mm, 2-locular, with lateral longitudinal dehiscence slits. Ovary superior, 5-locular, uniovulate (ovule pendulous from an erect central placenta). Disk adnate to ovary, pentalobate, strongly wrinkled. Style conical with 5 grooves, terminating in a stigma with 5 lobes.
 
-**Flowers**: female, pentamerous, greenish or yellow. Calyx with 5 glabrous sepals, very broadly elliptic, 0.75–1.25 mm long, fused at base, ± obtuse at apex. Petals glabrous, free to base, lanceolate, 4 × 2 mm, fleshy, with apiculate apex on inner surface, ± papillose. Stamens 5, epipetalous, free, gynobasic, 3.5 × 1.5 mm, erect, appressed against inner face of petals; filament broad and fleshy, flattened, narrowed towards apex; anther 2 × 1.5 mm, with 2 locules bearing lateral longitudinal dehiscence slits. Ovary superior, with 5 uniovulate locules (ovule pendulous from an erect central placenta). Disc adnate to ovary, pentalobed, strongly wrinkled. Style conical with 5 furrows, terminated by stigma with 5 lobes.
-
-**Fruit**: ± spherical, globose with an apiculate apex, conical at base. Rim ± strongly marked in the equatorial plane or slightly above. Seed solitary, ± spherical, with yellow-brown integument. Albumen abundant, embryo apical, minute.
-
-## Types
-
-TYPE: *Zenker 2260*, Cameroon (holo-, B, deleted; iso-, P!).
-
-## Distribution
-
-**Range**: from Nigeria to Angola and Zaire (Democratic Republic of the Congo).
-**Gabon**: collected from the Estuary region to the Ogooué-Maritime and Ogooué-Ivindo, and south to Nyanga province. Localities include Mondah, environs of Nkogo on the Ogooué, environs of Libreville, Sibang, Lastoursville, and Mayumba.
-
-## Habitat and ecology
-
-Understory tree of dense humid forest.
-
-## Specimens examined
-- *Estasse 576 SRF, 688 SRF*, Mondah
-- *Fleury in Chevalier 26614*, environs of Nkogo on the Ogooué
-- *Klaine 2151, 2168, 2968, 3151*, environs of Libreville (fl., Jan.–Nov.); *3536*, Sibang (fl., June)
-- *Le Testu 5125*, between Yambi and Guidouma (fl., Nov.); *7113, 7131, 7979*, Lastoursville (fl., Mar.–Apr.)
-- *Normand s. n.*, Mayumba
-- *Touzet 26, 30, 85, 153*, Nkoulounga (fr., Nov.)
-
-## Figures
-
-![PL. 33, 10–19 — *Diogoa zenkeri*: leaves, floral bud, floral diagram, sepal, petal, stamen, ovary (two views), fruit (two views)](../sources/Olacaceae_vol20_paddle/figures/fig_033_p0157.png)
-
-## Vernacular names
-
-Ekoba, ekobeu (Fang); olombang (Yaoundé).
-
-## Properties and uses
-
-The wood is whitish-yellow. The fruits are edible.
-
-## Notes
+**Fruit**: ± spherical drupe, globose at apex marked with an apicule, conical at base. Rim ± strongly marked in the equatorial plane or slightly above. Seed solitary, ± spherical with yellow-brown integument. Albumen abundant, embryo apical, minute.
 
 The fleshy rim is interpreted as the insertion zone of the perianth parts. The pedicel enlarges and partially encloses the fruit up to this rim.
 
+## Distribution
+
+**Range**: Small understorey tree of humid dense forest. Range extends from Nigeria to Angola and Zaïre.
+
+**Cameroon**: Kribi area (Bella, 45 km NE; Zingui area, 50 km SSE Kribi); Bipindi.
+
+**Gabon**: Mondah; environs of Nkogo on the Ogooué; Libreville area; Sibang; Lastoursville area (between Yambi and Guidouma); Mayumba; Nkoulounga.
+
+## Habitat and ecology
+
+Understorey tree of humid dense forest.
+
+## Specimens examined
+
+**Cameroon**
+
+- Letouzey 4124 (fl., Jan.), près Bella, 45 km NE Kribi; 9010 (fr., Mar.), 9025 (fr., Mar.), 15 km SSE Zingui, 50 km SSE Kribi
+- Zenker 2260 (fl., Mar.), Bipindi
+
+**Gabon**
+
+- Estasse 576 SRF (Mondah), 688 SRF (Mondah)
+- Fleury in Chevalier 26614 (env. de Nkogo sur l'Ogooué)
+- Klaine 2151, 2168, 2968, 3151 (fl., Jan.–Nov., env. Libreville); 3536 (fl., Jun., Sibang)
+- Le Testu 5125 (fl., Nov., entre Yambi et Guidouma); 7113, 7131, 7979 (fl., Mar.–Apr., Lastoursville)
+- Normand s.n. (Mayumba)
+- Touzet 26, 30, 85, 153 (fr., Nov., Nkoulounga)
+
+## Vernacular names
+
+- Ekoba, ekobeu (Fang)
+- Olombang (Yaoundé)
+
+## Properties and uses
+
+Wood white-yellowish. Fruits edible.
+
+## Figures
+
+![Diogoa zenkeri: leaves, floral and fruit details](../sources/Olacaceae_vol20_paddle/figures/fig_033_p0157.png)
+
 ## Source
 
-Villiers J.-F. (1973) Olacacées. In: Letouzey R. (ed.), *Flore du Gabon*, Volume 20: 152–154. Muséum national d'Histoire naturelle, Paris.
+Flore du Gabon, Volume 20: 152–154.
+
+## Notes
+
+The segmenter flagged "Diogo" as an OCR error for "Diogoa"; this has been corrected. The type specimen is Zenker 2260 from Cameroon (holotype B, destroyed; isotype P).

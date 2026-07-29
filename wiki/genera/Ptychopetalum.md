@@ -3,6 +3,7 @@ type: genus
 name: Ptychopetalum
 authority: Benth.
 family: Olacaceae
+family_current: Olacaceae s.str.
 species_world: 4
 species_in_africa: 2
 species_in_gabon: 1
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Ptychopetalum* Benth.
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Olacaceae s.str.
 
 London Journ. Bot. **2**: 376 (1843).
 

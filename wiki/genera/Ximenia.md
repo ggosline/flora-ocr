@@ -3,6 +3,7 @@ type: genus
 name: Ximenia
 authority: L.
 family: Olacaceae
+family_current: Ximeniaceae
 species_world: ~10
 species_in_africa: 2
 species_in_gabon: 1
@@ -14,7 +15,7 @@ tags: [genus]
 
 # *Ximenia* L.
 
-**Family**: [[Olacaceae]]
+**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Ximeniaceae
 
 Gen. Pl., ed. 1: 361 (1737).
 
