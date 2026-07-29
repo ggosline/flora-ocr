@@ -17,9 +17,8 @@ synonyms:
   - "Alsodeiopsis glaberrima Engl. ex Hutch. & Dalz."
 habit: shrub
 habitat: [dense humid forest, damp sites, terra firma forest]
-countries: [Angola, Cameroon, Democratic Republic of the Congo, Guinea]
+countries: [Angola, Cameroon, Democratic Republic of the Congo, Gabon, Guinea]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "113–115"
@@ -106,9 +105,13 @@ HOLOTYPE: *Heudelot 715*, Fouta Djalon, Guinea (P!).
 
 **Range**: from Guinea to Yangambi in Zaire (Democratic Republic of the Congo)
 and to Angola.
+**Cameroon**: widespread — Yaoundé and its surroundings, Nanga Eboko, Bertoua,
+Batouri, Yokadouma, Moloundou, Ebolowa, the Mungo, the Sanaga.
+**Gabon**: widespread — Moanda, Franceville, the Komo, the Ramboué, Lake Ayem,
+Bélinga, the Monts de Cristal, Libreville, Tchibanga, Ndjolé.
 
-<!-- The Gabonese material list for this species falls beyond the page range
-captured in this block; provinces have not been assigned. -->
+<!-- The source gives collecting localities only; no provinces or regions are
+named for either country, so `subdivisions` is deliberately left unset. -->
 
 ## Habitat and ecology
 
@@ -124,6 +127,41 @@ firma.
 The wood is yellowish-white. The Fang use the bark of young plants to make
 boxes for *Byéri* and granaries for storing groundnut and maize harvests. The
 bark and seeds give off a strong smell of garlic and are used as condiments.
+
+## Specimens examined
+
+**Cameroon**
+- *Bates 488*, Mabam
+- *Breteler 1942*, Nkolbisson, 7 km W Yaoundé (fr., Oct.); *1963*, Yaoundé, 9 km
+  on the Makak road (fr., Oct.); *2128*, 4 km SE Nguélémendouka, Doumé road
+  (fr., Nov.)
+- *De Wilde W. 1593*, 40 km S Badjob, 50 km SW Eséka (fr., Dec.); *2675*, bank of
+  the Sanaga, 20 km N Obala (fl., fr., June)
+- *Fleury in Chevalier 33417, 33387*, Mungo, between Nôô on the Mungo and Mujuka
+  station (fr., Jan.)
+- *Leeuwenberg 6072*, 7 km W Yokadouma, Lomié track (fl., fr., July)
+- *Letouzey 1727*, Bongo, near Nanga Eboko (fl., Apr.); *1901*, Endang forest near
+  Nanga Eboko (fl., May); *4847*, Djampiel, 40 km SSE Batouri (fl., fr., Apr.);
+  *5117*, near Bangé, km 75 on the Yokadouma–Moloundou road (fr., May); *9853*,
+  Nkolomeyan hill, on the Biwong Boulou–Nkoungoulou Ngoe track, 25 km ESE
+  Ebolowa (fr., Jan.); *9978*, Nkolemvon, 20 km SSE Ebolowa (fl., fr., Feb.)
+- *Vaillant 2412*, Nanga Eboko (fl., Apr.)
+- *Villiers J.-F. 604*, 15 km E Bateka Malen, 21 km N Moloundou (fr., Apr.); *611*,
+  Djombi river, 26 km E Bateka Malen, 21 km N Moloundou (fr., Apr.)
+
+**Gabon**
+- *Breteler 6281*, Moanda, 6 km on the Franceville road, 1°33′S 13°15′E (fl.,
+  Sept.); *6979*, 15 km SSE Pana, 1°51′S 12°41′E (fl., Oct.)
+- *Chevalier 26845 bis*, Assoukou plantation on the Komo (fl., Oct.); *27032*,
+  Acondjo on the Ramboué (fl., fr., Oct.)
+- *Fleury in Chevalier 26416*, between Nkogo and Ebimangha on Lake Ayem (fr., Aug.)
+- *Hallé N. 3074*, Bélinga (fr., Nov.); *4143*, Bélinga, alt. 950 m (fl., June)
+- *Hallé N. & Villiers J.-F. 4960*, Fané rock, Monts de Cristal (fl., fr., Feb.)
+- *Klaine 1611, 1671, 1822, 2196, 2516, 3227*, env. Libreville (fl., Nov.–Dec.;
+  fr., Sept., Apr.)
+- *Le Testu 1335*, Tchibanga (fl., Nov.)
+- *Pobéguin 219*, Lake Zonangué, Njegoué island (fl., Nov.)
+- *Thollon 98*, Ndjolé (fl., Jan.); *531*, Franceville (fr., June)
 
 ## Figures
 

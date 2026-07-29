@@ -113,6 +113,25 @@ ximenic acid, which is much sought after. The oil-cake is rich in protein (43%)
 and carbohydrate (20%).
 
 ## Specimens examined
+
+**Cameroon**
+- *Aubréville 749*, Ngaoundéré (fl., Feb.)
+- *Breteler 1165*, N Monay, 20 km Bétaré Oya (fl., Feb.)
+- *De Wilde W. 2089*, 8 km S Kribi (fr., Mar.); *2867*, Kribi (fr., Aug.); *3051*,
+  20 km NNW Maroua, Mokolo road (fl., Sept.); *3051B*, 25 km NNW Maroua, Mokolo
+  road (fr., Sept.); *3168*, 5 km NE Maroua (fl., fr., Sept.); *4849*, 20 km NW
+  Garoua, km 1 on the Demba road (fl., Dec.)
+- *De Wit 7467*, Garoua (fl., July); *8300*, Maroua (fr., Aug.)
+- *Jacques-Félix 3373*, Guendérou (fl., Mar.); *3400*, Kontschya (fr., Mar.)
+- *Leeuwenberg 7510*, W Mokolo, km 9 on the Mokolo–Mogodé road (fl., Jan.)
+- *Letouzey 2520*, Lake Mbella-Assom near Tibati (fl., Dec.); *3456*, near Mbitom
+  on the Pangar (fl., Feb.); *3573*, N Monay near Bétaré Oya (fr., Feb.); *6385*,
+  near Kaélé, 55 km SSE Maroua (fl., Aug.); *6572*, near Doumrou, 8 km SSE Kaélé
+  (fl., fr., Aug.)
+- *Mezili 84*, beach between Kribi and Longi (fl., fr., Mar.)
+- *Zenker 1948*, Bipindi
+
+**Gabon**
 - *Aubréville 127*, région d'Alombé (fr.)
 - *Duparquet s.n.*, s.l. (fr., Sept.)
 - *Dybowski 136*, Cap Lopez (fl., Jan.)
@@ -140,3 +159,13 @@ stamens, a free 3–5-locular ovary with incomplete uniovulate locules, and a
 yellow one-seeded drupe with fleshy albumen; the seed was said to be purgative
 and to yield 6–7% oil. No type was indicated, and in the absence of any
 specimen Villiers declines to confirm the validity of the binomial.
+
+<!-- OCR note: the "MATÉRIEL CAMEROUNAIS ÉTUDIÉ" heading is missing from the
+scan (p. 110); the Cameroonian list runs on directly from PROPRIÉTÉS ET USAGES.
+Recovered by reading the block directly. -->
+
+The Cameroonian material is drawn from a much wider ecological range than the
+Gabonese: alongside the coastal collections around Kribi it includes the dry
+north (Maroua, Garoua, Mokolo, Kaélé) and the Adamaoua (Ngaoundéré, Tibati),
+consistent with the savanna and 1400 m records in the Habitat section. In Gabon
+the species is recorded only from the coast.

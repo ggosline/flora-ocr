@@ -124,6 +124,32 @@ giving it a brown varnished colour. The fruits, pounded, are said to be a
 stupefying poison used in fishing.
 
 ## Specimens examined
+
+**Cameroon**
+- *s.c. 2409 SRFCam, 2415 SRFCam*, Mangombé (fl., fr.)
+- *Bamps 1379*, Song Bong, SE <!-- locality truncated in the OCR -->
+- *Breteler, De Wilde & Leeuwenberg 2277*, near Nkolbisson, 7 km Yaoundé (fl., Dec.)
+- *Christ s.n.*, s.l.
+- *De Wilde W. 1591*, 40 km S Badjob, 50 km SW Eséka (fl., Dec.); *1646*,
+  Nkolbisson, 8 km W Yaoundé (fl., Dec.); *2798*, Melen, 3 km SW Yaoundé (fr.,
+  July); *2865*, bank of the Nyong, 65 km SW Eséka (fl., July)
+- *Endengle 2083 SRFCam.*, Douala (fl.)
+- *Fleury in Chevalier 33326*, Mungo, Mayouka near Mujuka (fr., July); *33429,
+  33430*, Mungo, between Nôô on the Mungo and Mujuka station (fr., June); *33511*,
+  Dékouma, N'Dzigo forest, near Mujuka station (fr., July)
+- *Four 6*, Yaoundé (fl.)
+- *Hédin 1593*, Mujuka (fr., Oct.)
+- *Leeuwenberg 5617*, bank of the Lokundjé, near Béa, 26 km N Kribi (fl., fr., Apr.)
+- *Letouzey 2674*, forest S of Dimako, right bank of the Mbonda (fl., Jan.); *3751*,
+  5–10 km NW of Ngola (fl., Apr.); *5523*, 18 km SSW Koso, 60 km SSW Batouri (fr.,
+  July); *9187*, 40 km ESE Campo; *10109*, 5 km SW Ekowong, SSW Sangmélima
+- *Mpom 317* (= 2408 SRFCam), *364* (= 4250 SRFCam), Yaoundé (fl., Nov.–Dec.)
+- *Nana 377*, 38 km Bertoua, towards Deng Deng (fl., Dec.)
+- *Staudt 137*, Lolodorf (fl.) — the lectotype
+- *Zenker s.n.*, Mimfia (fl., Oct.); *1586, 2493, 2657, 2793, 3267, 3296, 4101*,
+  Bipindi (fl.)
+
+**Gabon**
 - *Aubréville 78*, Ndjolé (fr., Oct.)
 - *Breteler 6861*, 60 km SSW Moanda, 2°3′S 13°E, alt. 700 m (fr., Oct.)
 - *Descoings 6299*, Ngounié valley, Lebamba (fr., Nov.)
@@ -152,3 +178,12 @@ Volume 20: 154–158. Muséum national d'Histoire naturelle, Paris.
 
 Villiers observes that the species varies greatly both in the habit of the tree
 and in leaf dimensions.
+
+<!-- OCR note: the "MATÉRIEL CAMEROUNAIS ÉTUDIÉ" heading is missing from the
+scan (p. 156) — the Cameroonian list runs straight on from PROPRIÉTÉS ET USAGES
+with no heading at all. The list above was recovered by reading the block
+directly. Note also that the material sections printed after this treatment
+belong to Aptandra zenkeri, not to Strombosiopsis. -->
+
+*Staudt 137* appears in the Cameroonian list above and is also the lectotype
+cited under Types.

@@ -94,6 +94,8 @@ Primary swamp forest and periodically inundated forest. Collected at Bélinga at
 about 1000 m altitude.
 
 ## Specimens examined
+
+**Gabon**
 - *Hallé N. 3174, 3750, 3761*, Bélinga, alt. 1000 m (fr., June)
 - *Le Testu 8293*, Noughamou on the Ogooué (fl., Aug.)
 
@@ -125,3 +127,7 @@ couplet as the only liana of the family bearing circinate hooks, and his
 description records the hook at the base of each branchlet in detail.
 
 With this transfer, [[Anacolosa]] is no longer represented in Gabon.
+
+The Vol 20 treatment gives a Gabonese list only — no *MATÉRIEL CAMEROUNAIS
+ÉTUDIÉ* section exists for this taxon, and Villiers gives the range as Gabon to
+Zaire. The absence of Cameroonian material here is real, not an ingest gap.

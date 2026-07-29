@@ -9,7 +9,6 @@ synonyms:
 habit: tree
 countries: [Cameroon, Côte d'Ivoire, Democratic Republic of the Congo, Ghana]
 in_region: true
-countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 20
     pages: "192–195"
@@ -50,6 +49,17 @@ Bull. Soc. Bot. Fr. **91**: 25 (1944); l. c. **93**: 139 (1946). — NORMAND, Ag
 ## Distribution
 
 **Range**: Ghana, Ivory Coast, Cameroon, and Zaïre (Democratic Republic of the Congo). The species is quite rare, found only as isolated trees. In Zaïre, it is known by a variety *glabrescentifolia* J.Léonard. According to some authors, it appears to cause the disappearance of other tree species in its vicinity.
+
+**Not recorded from Gabon** — the treatment gives no Gabonese material, and the
+range as stated stops at Cameroon.
+
+## Specimens examined
+
+**Cameroon**
+- *Letouzey 2991*, Kokou or Bogoyogo river, W of Mount Sangembam on the
+  Letta–Viali track, N of Bertoua (male fl.)
+
+The treatment cites this single Cameroonian gathering and no Gabonese material.
 
 ## Figures
 

@@ -1110,8 +1110,51 @@ Four pages were excluded from the re-run because the cheap tier would have
 downgraded them or undone earlier work: `Anacolosa_uncifera` (renamed to
 `Keita_uncifera`, and a re-run would have recreated the old page),
 `Ximenia_americana`, `Olax_gambecola`, `Strombosiopsis_tetrandra`. A new
-`--exclude` flag on the runner makes this repeatable. **Those four still lack
-their Cameroonian specimen lists.**
+`--exclude` flag on the runner makes this repeatable. Those four were then
+merged by hand from the source block, preserving the *Keita* transfer and the
+existing notes — see below.
+
+### The four excluded pages, merged by hand
+
+- `Ximenia_americana` — 20 Cameroonian collections added. **The
+  `MATÉRIEL CAMEROUNAIS ÉTUDIÉ` heading is absent from the OCR** (p. 110); the
+  list runs on directly from `PROPRIÉTÉS ET USAGES` with no heading, so nothing
+  keyed on the heading would ever have found it.
+- `Strombosiopsis_tetrandra` — same failure on p. 156; 18 Cameroonian
+  collections added, including *Staudt 137*, the lectotype. Note that the
+  material sections printed *after* this treatment belong to
+  *Aptandra zenkeri*; attributing them to *Strombosiopsis* by proximity would
+  have been wrong.
+- `Olax_gambecola` — had **no** specimen section at all. Both lists added
+  (14 Cameroonian, 10 Gabonese). Two errors corrected: the page claimed the
+  Gabonese list "falls beyond the page range captured in this block" — it does
+  not, it was simply missed — and `countries` omitted **Gabon** despite a full
+  Gabonese list in the source. `countries_incomplete` cleared.
+- `Keita_uncifera` — nothing to recover. The treatment gives a Gabonese list
+  only and Villiers' range is Gabon to Zaire; the absence of Cameroonian
+  material is real. Recorded on the page so the gap is not re-opened.
+
+### Sweep for the same OCR failure elsewhere
+
+Two of the four had their `MATÉRIEL CAMEROUNAIS ÉTUDIÉ` heading destroyed by
+OCR, so every remaining Vol 20 page was swept for the same silent gap. Seven
+pages carry no Cameroonian list; all seven are correct:
+
+- `Okoubaka_aubrevillei` — **was** a real gap, now fixed. One Cameroonian
+  gathering (*Letouzey 2991*) added, and the page now states explicitly that the
+  species is not recorded from Gabon (range stops at Cameroon).
+- `Keita_uncifera`, `Octoknema_klaineana` — genuinely Gabon-only.
+- `Olax_subscorpioidea`, `Strombosia_pustulata`, `Ptychopetalum_petiolatum` —
+  parent pages whose material is carried on the variety pages, as intended.
+- `Strombosia_pustulata_var_lucida` — Villiers gives no material at all; the
+  type is Zairean and the variety is marked *à rechercher au Cameroun et au
+  Gabon*.
+
+The reciprocal check (pages with a `## Specimens examined` section but no
+**Gabon** heading) returned six pages, all correct: taxa genuinely absent from
+Gabon or varieties with Cameroonian material only. Note the Gabonese heading is
+*also* missing from the scan under *Strombosia pustulata* var. *pustulata*
+(p. 141), but that list had already been picked up correctly.
 
 A bug was found and fixed in the process: adding `## Specimens examined` to the
 species *template* in this file truncated the template, because the schema
