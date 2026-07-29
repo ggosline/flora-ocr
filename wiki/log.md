@@ -1213,3 +1213,69 @@ Reliability is uneven and is flagged on the page:
   *zimmereri*.
 
 Untested against herbarium material.
+
+## [2026-07-29] re-ingest | Octoknema monograph (Gosline & Malécot 2011)
+
+The 2011 monograph was never ingested as a source. It was read ad hoc with
+PyMuPDF text extraction to answer two specific questions — the nomenclatural
+corrections, then the specimen lists — and each pass took only what was asked
+for. No source bundle was created, so there was nothing for the normal ingest
+path to work from.
+
+Consequences, now fixed:
+
+- **Four of the eight species pages had no description at all.** The four that
+  did (*affinis*, *dinklagei*, *genovefae*, *klaineana*) got theirs from the
+  Vol 20 OCR via the bulk runner. The four monograph-only species
+  (*aruwimiensis*, *belingensis*, *chailluensis*, *ogoouensis*) had no
+  description source in the pipeline and received only a short diagnosis.
+- **No illustrations were pulled.** PyMuPDF text extraction returns no images,
+  and the article ingest path that produces a `figures/` directory was never
+  run. The monograph carries **eight full-page line-drawing plates and six
+  distribution maps**; three of the plates illustrate exactly the bare pages
+  (*belingensis* Fig. 2, *chailluensis* Fig. 4, *ogoouensis* Fig. 7).
+- Raw extracted text had been pasted into specimen lists without cleaning.
+  `Octoknema_belingensis` carried two figure captions and page furniture inside
+  its specimen list, one caption for a different species (*O. bakossiensis*).
+  `Octoknema_aruwimiensis` had a Map 5 caption spliced mid-list.
+
+Created `ocr_output/articles/kew_bulletin_2011_octoknema/pymupdf/` —
+`text.md` (152 KB), `figures/` (14 images; 8 plates, 6 maps), `figures.md`
+with verbatim captions, `metadata.json`.
+
+Rewrote all four bare pages with the full descriptions, Latin diagnoses, IPNI
+LSIDs, types, habitat, IUCN assessments and plates.
+
+Errors caught during the rewrite, both mine:
+- I wrote `CR B1ab(iii)+B2ab(iii)` and "montane forest" for *O. belingensis*
+  before checking. The monograph gives **CR B2ab(iii)** and "rocky bed of
+  permanent creek in closed high forest, 850 m". Corrected.
+- `O. aruwimiensis` carried `habit: tree to 12 m`, contradicting the
+  description's "tree to 20 m tall, 45 cm diam."; and `countries` omitted the
+  Republic of the Congo although the distribution statement names it. The
+  Congo-Brazzaville record is *Descoings 8042*, which the monograph files under
+  Congo (Kinshasa), Equateur — but the Alima and Likouala are Congo-Brazzaville
+  rivers and Fort Rousset is now Owando. Flagged on the page.
+
+### Still outstanding — in-region species with no page
+
+The monograph recognises **14 species** plus four unnamed. The wiki has pages
+for 8. Four of the missing taxa are **in region** and were simply never
+created:
+
+| Taxon | Range | Plate |
+|-------|-------|-------|
+| *O. bakossiensis* Gosline & Malécot | SW Cameroon, Bakossi Mts | Fig. 1 |
+| *O. mokoko* Gosline & Malécot | Cameroon, Mokoko Forest Reserve, W of Mt Cameroon | Fig. 6 |
+| *O.* sp. A | SW Cameroon toward the Nigerian border | — |
+| *O.* sp. B | Cameroon, Mt Kupe | — |
+
+Out of region and lower priority: *O. borealis* (Guinea to Ghana, Fig. 3),
+*O. hulstaertiana* (DRC, Kasai-Oriental), *O. kivuensis* (Kivu, Fig. 5),
+*O. orientalis* (Tanzania, Fig. 8), *O.* sp. C (Congo R.), *O.* sp. D (Ivory
+Coast/Liberia).
+
+Also unresolved: *O. genovefae* carries `Equatorial Guinea` in `countries`, but
+the monograph says only "possibly also Rio Muni". That should probably move to
+`range_note` — recording a possibility as an occurrence is exactly the kind of
+overreach the distribution rules exist to prevent.

@@ -4,35 +4,101 @@ name: Octoknema aruwimiensis
 authority: Mildbr.
 genus: Octoknema
 family: Octoknemaceae
-habit: tree to 12 m
-countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon]
+family_current: Erythropalaceae
+habit: tree
+habitat: [seasonally inundated swamp forest, river banks]
+altitude_m: "300-1000"
+conservation_status: "LC"
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
 in_region: true
 treatments:
   - kind: article
     citation: "Gosline G. & Malécot V. (2011). A monograph of Octoknema (Octoknemaceae — Olacaceae s.l.). Kew Bulletin 66: 367–404."
     year: 2011
-    pages: "367–404"
+    pages: "377–381"
     doi: 10.1007/s12225-011-9293-9
+    source: sources/articles/kew_bulletin_2011_octoknema/pymupdf
 tags: [species, post-flora]
 ---
 
 # *Octoknema aruwimiensis* Mildbr.
 
-**Family**: [[Octoknemaceae]] · **Genus**: [[Octoknema]]
+**Family**: [[Octoknemaceae]] *sensu lato* · **Current placement**: Erythropalaceae · **Genus**: [[Octoknema]]
 
 Described by Mildbraed in 1932 from the Belgian Congo. Not treated as Gabonese by Villiers, but the 2011 revision records it from Gabon.
 
-## Distribution
+## Description
 
-The **Congo basin**: Cameroon, Central African Republic, **Gabon**, Congo
-(Brazzaville) and Congo (Kinshasa).
+**Habit**: tree to 20 m tall, 45 cm diam. at 1.5 m, flowering and fruiting when
+4 m tall. Bole cylindrical, branching at 2 m. Bark grey-beige, slightly
+fissured, exfoliating; **slash yellow**. Young twigs light to dark brown, the
+bark smooth, glabrous to sparsely pubescent. Hairs stellate, semi-erect,
+0.25 × 0.25 mm, light brown; semidendritic hairs occasionally present, to
+0.75 mm long.
 
-<!-- distribution_gabon is left empty because the revision names Gabon as a
-country but no province was recorded during this ingest. -->
+**Leaves**: elliptic, 10–20 × 3.5–9 cm; apex obtuse to acuminate, the acumen
+minimal, to 1 × 0.6 cm; base rounded to slightly cuneate. Shiny dark green
+above, dull olive below, glabrous except at the base. Veins prominent below,
+lighter than the lamina, sparsely pubescent below. Secondary veins in 5–7
+pairs, ascending at 45° to half the length of the leaf, **not anastomosing**,
+glabrous below. Tertiary veins not very apparent.
+
+**Petiole**: terete, 1–3 × 0.2 cm, dark brown (darker than the leaf midrib),
+sparsely pubescent, **without an apical pulvinus**.
+
+**Flowers**: densely pubescent, appearing yellowish-white.
+
+**Male inflorescence**: 1.5–6 cm long, densely to sparsely pubescent; floral
+bracts triangular, 0.75 mm long; flowers sparsely to densely arranged — the
+distance between two clusters on the rachis longer than the flower plus its
+pedicel — with more than three per cluster.
+
+**Male flowers**: buds 1.5–2 mm diam.; pedicel 2–2.5 mm long, c. 0.5 mm diam.,
+pubescent. Petals 4–5, triangular, 2 × 2 mm, pubescent outside, the inner
+surface maroon and glabrous except for 2–5 filamentous glandular hairs running
+from the centre of the petals across the top of the anthers. Stamens 5,
+epipetalous, alternating with basal glands; anthers 0.3 × 0.3 mm; filaments
+0.5 mm long. Pistillode cylindrical, 0.75 × 0.75 mm.
+
+**Female inflorescence**: 0.5–1.5 cm long, densely pubescent; 3–6 flowers per
+inflorescence, with floral bracts; peduncle 3–6 mm long.
+
+**Female flowers**: 4 × 2.5 mm. Sepals 0.5 mm long, pubescent. Petals 5,
+triangular, 2 × 2 mm, pubescent outside, glabrous within. Staminodes 5,
+c. 1 mm long. Styles 1 mm long.
+
+**Fruit**: red-orange when ripe ("rouge sauterne"), globose, 1–1.5 × 1–1.5 cm;
+stipe 3 × 1.5 mm or absent; sparsely pubescent, with petals and style
+persistent. Epicarp smooth, often red-orange when dry; mesocarp 1–2.5 mm thick,
+drying contorted; endocarp less than 1 mm thick, with **9 internal laminae**.
 
 ## Types
 
-Type: D. R. Congo, Panga.
+**Holotype**: D.R. Congo, Panga, aus Aruwimi, Apr. 1908, *Mildbraed 3275*
+(B, barcodes B 10 0086305 and B 10 0086306); **isotypes** BR (×2).
+
+## Distribution
+
+The **Congo basin**: Cameroon, Central African Republic, **Gabon**, Republic of
+the Congo and D.R. Congo. Maps 4 and 5 in the monograph.
+
+<!-- No Gabonese province is named in the monograph's distribution statement;
+subdivisions is deliberately left unset for Gabon. -->
+
+## Habitat and ecology
+
+Seasonally inundated swamp forest and river banks; 300–1000 m elevation. Some
+specimens are described as "low-branched, leaning over the water"
+(*J. Louis 7857*).
+
+## Conservation
+
+**LC** (least concern), IUCN 2001 criteria — assessed in the monograph on the
+basis of a wide distribution and numerous localities.
+
+## Etymology
+
+For the Aruwimi River, a tributary of the Congo to the north and east.
 
 ## Notes
 
@@ -47,7 +113,7 @@ the monograph; abbreviations and herbarium codes as printed. -->
 
 **Cameroon**
 
-East Region: Ebaka Road, around km 100, subdivision Bertoua, 14 Jan. 1956, Nana 425 (P, YA) & Piste Bertoua-Esselegue Map 5. Distribution of Octoknema species in the Congo Basin: O. aruwimiensis (■), O. hulstaertiana (▲), O. kivuensis (○), O. sp. C ( ). 380 KEW BULLETIN VOL. 66(3) © The Board of Trustees of the Royal Botanic Gardens, Kew, 2011 around km 100, 22 Feb. 1956, Nana 498 (P (×2), YA) & Meteni, 18 May 1959, Letouzey 2009 (P, YA) & Membe et Guervoun, 24 May 1959, Letouzey 2117 (P (×4), WAG) & 20 km S of Garoua Boulai along road to Bertoua, 27 Feb. 1961, Breteler 1147 (BR, K, P) & Border of the Sanaga R. near Ebaka, 24 May 1961, Breteler 1442 (BR, K, P, WAG (×2)) & M’Pan Boumba Valley, 6 Aug. 1963, Letouzey 5554 (BR (×2), K, YA) & Rive de la Kadei, entre Mindourou et Dongongo, 25 April 1972, Letouzey 4871 (P(×3)).
+East Region: Ebaka Road, around km 100, subdivision Bertoua, 14 Jan. 1956, Nana 425 (P, YA) & Piste Bertoua-Esselegue around km 100, 22 Feb. 1956, Nana 498 (P (×2), YA) & Meteni, 18 May 1959, Letouzey 2009 (P, YA) & Membe et Guervoun, 24 May 1959, Letouzey 2117 (P (×4), WAG) & 20 km S of Garoua Boulai along road to Bertoua, 27 Feb. 1961, Breteler 1147 (BR, K, P) & Border of the Sanaga R. near Ebaka, 24 May 1961, Breteler 1442 (BR, K, P, WAG (×2)) & M’Pan Boumba Valley, 6 Aug. 1963, Letouzey 5554 (BR (×2), K, YA) & Rive de la Kadei, entre Mindourou et Dongongo, 25 April 1972, Letouzey 4871 (P(×3)).
 
 **Central African Republic**
 
@@ -65,7 +131,13 @@ Oriental Prov.: Panga, aus Aruwimi, April 1908, Mildbraed 3275 (holotype B; isot
 
 Gosline G. & Malécot V. (2011). A monograph of *Octoknema* (Octoknemaceae — Olacaceae s.l.). *Kew Bulletin* **66**: 367–404.
 
-<!-- Written from the 2011 monograph, which was read. Not in Flore du Gabon
-Vol 20 (1973). The full morphological description has not been transcribed;
-what is recorded here is the diagnosis, type, distribution and habitat as
-given in the revision. -->
+Not treated as Gabonese in Flore du Gabon Vol 20 (1973).
+
+## Notes on the specimen list
+
+The gathering *Descoings 8042* ("Bassin de l'Alima-Likouala, environs d'Edou,
+13 km on the Fort Rousset road") is printed in the monograph under Congo
+(Kinshasa), Equateur Province, but the Alima and Likouala are rivers of the
+**Republic of the Congo** and Fort Rousset is the former name of Owando. It is
+recorded here as the Congo-Brazzaville record that the distribution statement
+calls for.
