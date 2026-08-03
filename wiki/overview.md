@@ -24,13 +24,13 @@ view of Gabon's flora as the corpus grows.
 
 *(updated on ingest)*
 
-- **Families on the wiki**: 37, now including the complete four-family
+- **Families on the wiki**: 57, now including the complete [[Zingiberaceae]] treatment in [[vol09]]
+  treatment and the complete four-family
   [[vol28]] treatment: [[Pandanaceae]], [[Amaryllidaceae]],
   [[Hypoxidaceae]] and [[Flagellariaceae]]
-- **Genera**: 80
-- **Species and infraspecific taxa**: 214 taxon pages
-- **Volumes drawn from**: 17 / 61, with [[vol18]], [[vol28]], [[vol52]] and [[vol60]]
-  fully ingested
+- **Genera**: 137
+- **Species and infraspecific taxa**: 366 taxon pages
+- **Volumes drawn from**: 22 / 61, with [[vol03]], [[vol04]], [[vol06]], [[vol07]], [[vol18]], [[vol28]], [[vol52]] and [[vol60]] fully ingested
 - **Article addenda**: 3 article sources covering multiple Ebenaceae updates, including 8 post-volume species pages
 - **Type localities in Gabon**: 12
   - [[Pandanus_parvicentralis]] — Libreville, kilometre point 18, *I.N.E.F. s.n.* (sp. nov., Vol 28)
@@ -69,7 +69,7 @@ view of Gabon's flora as the corpus grows.
 | Piperales | [[Aristolochiaceae]] | In Gabon centred on *Pararistolochia*, a lianescent lineage with petaloid calyces. |
 | Ranunculales | [[Menispermaceae]], [[Ranunculaceae]] | Both Gabonese Ranunculales families now ingested. Menispermaceae is the diversity hotspot of the order in Gabon (22 genera, 34–36 spp.); Ranunculaceae is represented only by [[Clematis]] (2 spp.). The two are not sister to each other — Ranunculaceae is sister to Berberidaceae, and Menispermaceae is the next branch out (APG IV). |
 | Santalales | [[Balanophoraceae]] | Represented by root holoparasites, chiefly *Thonningia* in Gabon. |
-| Sapindales | [[Anacardiaceae]] | Resin-bearing woody flora including both indigenous taxa and some naturalised fruit trees. |
+| Sapindales | [[Anacardiaceae]], [[Burseraceae]], [[Simaroubaceae]] | Resin-bearing Anacardiaceae and Burseraceae contrast with bitter-barked Simaroubaceae; Vol 3 adds the economically dominant okoumé and a diverse *Dacryodes* radiation. |
 
 The wiki now spans a much broader structural and phylogenetic range than the
 initial liana-heavy seed set. The new family-level ingest adds aquatics

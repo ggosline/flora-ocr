@@ -1333,3 +1333,103 @@ wetland lineages in Ceratophyllales, Alismatales, Caryophyllales, Saxifragales
 and Myrtales. Repaired deterministic segmentation for unnumbered born-digital
 headings with a damaged genus authority and authority punctuation. All eleven
 botanical plates are linked. Volume 52 is complete.
+
+## [2026-08-03] ingest | Simaroubaceae (Vol 3)
+
+Source: `sources/Simaroubaceae_vol3_paddle` (PaddleOCRVL, 26 KB treatment,
+four botanical plates). Created the family page, six genus pages, six species
+pages and the partial `volumes/vol03.md`; updated `index.md` and `overview.md`.
+Translated the full family key and species descriptions from French, retained
+all measurements, type and specimen information, vernacular names and uses,
+and linked every plate. Volume 3 now has 1 of 3 families ingested; Irvingiaceae
+and Burseraceae remain.
+
+## [2026-08-03] ingest | Irvingiaceae and Burseraceae (Vol 3 completion)
+
+Sources: `sources/Irvingiaceae_vol3_paddle` and
+`sources/Burseraceae_vol3_paddle`. Created 2 family pages, 7 genus pages and
+18 taxon pages; completed `volumes/vol03.md` and updated the index and
+overview. The ingest retains the uncertain *Irvingia* cf. *excelsa* account,
+the taxonomic cautions around *Klainedoxa* and *Dacryodes le-testui*, economic
+and ecological information for okoumé, and all botanical plates. Volume 3 is
+now complete: 3 families, 13 genera and 24 taxon accounts.
+
+## [2026-08-03] ingest | Vol 4 completion batch
+
+Sources: `sources/Melianthaceae_vol4_paddle`,
+`sources/Balsaminaceae_vol4_paddle`, and `sources/Rhamnaceae_vol4_paddle`.
+Created 3 family pages, 6 genus pages and 24 taxon pages, plus
+`volumes/vol04.md`; updated the index and overview. Recovered *Impatiens
+palpebrata*, whose unformatted heading was missed by deterministic
+segmentation, retained the possible hybrid *I. oumina*, and represented the
+western *Maesopsis eminii* treatment at subspecies rank. All botanical plates
+are linked. Volume 4 is complete.
+
+## [2026-08-03] ingest | Vol 6 multifamily completion
+
+Sources: `sources/Rutaceae_vol6_paddle`,
+`sources/Zygophyllaceae_vol6_paddle`, and
+`sources/Balanitaceae_vol6_paddle` (local Paddle OCR). Created 3 family pages,
+10 genus pages, 22 taxon pages and `volumes/vol06.md`; updated the index and
+overview. Manual heading reconstruction recovered the full Rutaceae scope
+missed by the machine taxon index: 20 accounts across 8 genera. Parenthesized
+regional comparisons and cultivated *Citrus* were not promoted to Gabon taxon
+pages. Uncertainty is retained for *Oricia lecomteana*, the unidentified
+*Vepris*, *Afraegle gabonensis*, *A. paniculata*, and the apparently Ghanaian
+*Tribulus terrestris* record. Botanical plates are linked. Volume 6 is complete.
+
+## [2026-08-03] ingest | Vol 7 eight-family batch
+
+Sources: eight local Paddle OCR family bundles, from
+`sources/Polygonaceae_vol7_paddle` through
+`sources/Caryophyllaceae_vol7_paddle`. Created 7 new family pages, updated the
+existing [[Aizoaceae]] page with its older treatment, and created 18 genus and
+29 taxon pages plus `volumes/vol07.md`. Separately described varieties of
+*Cyathula prostrata* and *Achyranthes aspera* were retained as taxon pages;
+the typical *A. aspera* account is flagged as unconfirmed in Gabon. Historical
+family placements for *Mollugo*, *Hilleria*, *Chenopodium* and *Talinum* are
+stated alongside current placements. All eleven botanical plates are linked.
+Volume 7 is complete.
+
+## [2026-08-03] ingest | Vol 9 small-family group
+
+Sources: `sources/Musaceae_vol9_paddle`,
+`sources/Strelitziaceae_vol9_paddle`, and
+`sources/Cannaceae_vol9_paddle` (local Paddle OCR). Created 3 family pages,
+4 genus pages, 5 taxon pages and the partial `volumes/vol09.md`. The Musaceae
+treatment is represented through the two biological parental species behind
+the cultivated clone groups rather than the obsolete *Musa sapientum* versus
+*M. paradisiaca* split. All records in Musaceae and Strelitziaceae are marked
+as cultivated introductions; *Canna bidentata* is marked naturalized. The
+large Zingiberaceae and Marantaceae treatments have been inventoried and remain
+in progress; Volume 9 is not yet marked complete.
+
+## [2026-08-03] ingest | Zingiberaceae first half (Vol 9)
+
+Source: `sources/Zingiberaceae_vol9_paddle` (local Paddle OCR). Created the
+partial family page plus genus pages for [[Curcuma]], [[Zingiber]] and
+[[Renealmia]], and 9 taxon pages. The cultivated Asian turmeric and ginger are
+marked introduced; all seven *Renealmia* accounts are represented, including
+the explicitly unconfirmed Gabon occurrence of *R. cabraei*. The Aframomum,
+Phaeomeria and Costus sections remain in progress, so neither the family nor
+Volume 9 is marked complete.
+
+## [2026-08-03] ingest | Aframomum (Vol 9)
+
+Source: `sources/Zingiberaceae_vol9_paddle` (local Paddle OCR). Created the
+[[Aframomum]] genus page and all 19 species pages, retaining measurements,
+habitat and distribution cautions, the three species newly described in the
+volume, and the diagnostic ribbed fruit of *A. aulacocarpos*. Linked all
+relevant plates VII–XII. Zingiberaceae remains in progress only for
+*Phaeomeria* and *Costus*.
+
+## [2026-08-03] ingest | Zingiberaceae completion (Vol 9)
+
+Source: `sources/Zingiberaceae_vol9_paddle` (local Paddle OCR). Added the
+introduced [[Phaeomeria]] account and completed [[Costus]] with all 17 species
+and the two separately described varieties. Retained the historical placement
+of *Costus* in Zingiberaceae while recording its current Costaceae placement;
+retained the probable rather than confirmed Gabon status of *C. lucanusianus*
+var. *major* and did not manufacture a Gabon record for the Río Muni-only
+*C. lateriflorus*. Plates XIII–XX are linked. Zingiberaceae is complete;
+Marantaceae is the sole family still pending in Volume 9.
