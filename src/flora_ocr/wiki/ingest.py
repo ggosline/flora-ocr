@@ -242,6 +242,19 @@ def _known_genera(lines: list[str]) -> set[str]:
             parsed = N.parse_heading(heading, "genus")
             if parsed:
                 out.add(parsed.genus)
+        elif rank is None:
+            # Born-digital treatments use unnumbered species headings.  They
+            # are also the only reliable genus evidence when OCR has damaged
+            # the genus authority (for example ``LUDWIGIA ., nom. cons.``).
+            # Keep the same authority guard used by _fallback_rank so prose
+            # headings cannot seed a phantom genus.
+            m = N._SPECIES_RE.match(heading.strip())
+            if m:
+                epithet, rest = m.group(2), m.group(3).strip()
+                if (epithet[0].islower()
+                        and (not rest or _AUTHORITY_LEAD_RE.match(rest)
+                             or rest.startswith("("))):
+                    out.add(N.strip_accents(m.group(1)).capitalize())
     return out
 
 
@@ -365,7 +378,7 @@ def _drop_barren_families(heads: list[dict]) -> list[dict]:
 
 
 _INFRASP_LEAD_RE = re.compile(r"^(?:var\.|subsp\.|ssp\.|f\.|fo\.|forma)\s+[a-z]")
-_AUTHORITY_LEAD_RE = re.compile(r"^[A-Z][A-Za-zÀ-ÿ.\-]*\.?(?:\s|$)")
+_AUTHORITY_LEAD_RE = re.compile(r"^[A-Z][A-Za-zÀ-ÿ.\-]*\.?(?:[,;]|\s|$)")
 
 # '1. COMBRETUM' — a genus heading with the authority omitted, which the
 # author-requiring genus pattern in reclassify_headings cannot match.
@@ -411,6 +424,16 @@ def _fallback_rank(heading: str, known: set[str]) -> str | None:
     m = _BARE_GENUS_RE.match(text)
     if m and N.strip_accents(m.group(1)).upper() not in _STRUCTURAL_WORDS:
         return "genus"
+
+    # A known all-caps genus remains identifiable even if OCR has destroyed
+    # its authority token (``LUDWIGIA ., nom. cons.`` in Vol. 52).  Requiring
+    # evidence from the treatment's species headings keeps structural caps
+    # headings out.
+    gm = N._GENUS_RE.match(text)
+    if gm and gm.group(1) == gm.group(1).upper():
+        candidate = N.strip_accents(gm.group(1)).capitalize()
+        if candidate in known:
+            return "genus"
 
     m = N._SPECIES_RE.match(text)
     if m:

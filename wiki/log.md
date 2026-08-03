@@ -1279,3 +1279,57 @@ Also unresolved: *O. genovefae* carries `Equatorial Guinea` in `countries`, but
 the monograph says only "possibly also Rio Muni". That should probably move to
 `range_note` — recording a possibility as an occurrence is exactly the kind of
 overreach the distribution rules exist to prevent.
+## [2026-08-03] ingest | Engomegoma protologue excerpt (pp. 113–117)
+
+Source: `sources/articles/Engomegoma` (five photographed pages). Created a
+readable transcription in `text.md`. Updated `genera/Engomegoma.md` and
+`species/Engomegoma_gordonii.md` with the diagnosis, full taxonomic
+description, type, habitat, localities, specimens, etymology and Figs. 1–3.
+Corrected the unsupported Cameroon range in the stub to central Gabon. The
+specialized anatomical and palynological sections after the taxonomic
+treatment are outside the project's scope.
+## [2026-08-03] ingest | Flagellariaceae (Vol 28)
+
+Source: `sources/Flagellariaceae_vol28_paddle` (PaddleOCRVL, 8 KB treatment
+text, one plate). Created `families/Flagellariaceae.md`,
+`genera/Flagellaria.md`, `species/Flagellaria_guineensis.md` and
+`volumes/vol28.md`; updated `index.md`. The single-species treatment was
+translated from French and includes the full description, synonymy, type,
+ecology, all Gabon specimens and Plate 13. Volume and individual-treatment
+citations follow the supplied official format and DOI
+10.5281/zenodo.11061444.
+## [2026-08-03] ingest | Vol 28 completion batch
+
+Sources: `sources/Pandanaceae_vol28_paddle`,
+`sources/Amaryllidaceae_vol28_paddle`, and
+`sources/Hypoxidaceae_vol28_paddle`. Created 3 family pages, 5 genus pages and
+13 accepted-species pages; updated `volumes/vol28.md`, `index.md` and
+`overview.md`. Preserved *Crinum* sp. A as a probable-hybrid account within
+the genus page rather than counting it as an accepted species. Preserved
+*Pandanus candelabrum* as requiring confirmation in Gabon. Corrected batch
+author defects before acceptance: malformed YAML delimiters on 12 pages,
+inferred subdivisions on 2 pages, physical-versus-printed page offsets, and a
+segmentation spill from *P. gabonensis* into *P. parvicentralis*. All 15
+botanical plates in Vol 28 are linked to relevant species pages. Volume 28 is
+now complete: 4 families, 6 genera and 14 accepted species.
+## [2026-08-03] correction | Vol 28 regional scope and missing p. 12
+
+Added `species/Pandanus_candelabrum.md` from the Nigerian and Cameroonian
+information in Huynh's treatment. Its Gabon occurrence remains unconfirmed,
+but that is not grounds for exclusion: the wiki covers the wider Lower Guinea
+and western Central African region. Revised the [[Pandanus]] and
+[[Pandanaceae]] tables from Gabon-only counts to 4 regionally documented
+species, 3 confirmed in Gabon. Documented that printed p. 12 was obliterated
+during scanning, leaving the latter part of the *P. parvicentralis* treatment
+unrecoverable and its wiki description necessarily incomplete. Updated the
+volume page, index and overview.
+
+## [2026-08-03] ingest | Vol 52 completion batch
+
+Sources: seven `sources/*_vol52_liteparse` treatment bundles. Created 7 family
+pages, 7 genus pages, 15 species or infraspecific-taxon pages and `volumes/vol52.md`;
+updated `index.md` and `overview.md`. The volume covers freshwater, marine and
+wetland lineages in Ceratophyllales, Alismatales, Caryophyllales, Saxifragales
+and Myrtales. Repaired deterministic segmentation for unnumbered born-digital
+headings with a damaged genus authority and authority punctuation. All eleven
+botanical plates are linked. Volume 52 is complete.

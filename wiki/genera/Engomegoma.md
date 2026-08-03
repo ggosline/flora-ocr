@@ -8,6 +8,7 @@ species_world: 1
 species_in_gabon: 1
 treatments:
   - kind: article
+    source: sources/articles/Engomegoma
     citation: "Breteler F.J., Baas P., Boesewinkel F.D., Bouman F. & Lobreau-Callen D. (1996). Engomegoma Breteler (Olacaceae), a new monotypic genus from Gabon. Novitates Gabonenses 27. Botanische Jahrbücher für Systematik 118: 113–132."
     year: 1996
     pages: "113–132"
@@ -30,30 +31,42 @@ the genera.
 
 ## Diagnosis
 
-<!-- STUB. The protologue (Bot. Jahrb. Syst. 118: 113-132) has not been read;
-only the bibliographic record and distribution were available when this page was
-created. The generic description, and the characters separating it from
-Strombosia and Strombosiopsis, need to be taken from that paper. Nothing has
-been inferred here. -->
+A glabrous forest tree lacking laticifers. Leaves ± distichous, coriaceous and
+ovate-elliptic. Inflorescences are glabrous fascicles of up to 15 flowers.
+Flowers 4(–5)-merous, with free white petals, an equal number of epipetalous
+stamens, a superior (3–)4-locular ovary, and one pendulous ovule per locule.
+The fruit is obovoid-ellipsoid on a strongly elongated pedicel; its calyx does
+not become accrescent and its woody endocarp is muricate externally.
 
-Not yet transcribed. See the protologue.
-
-The 1996 paper is a multi-author treatment covering wood anatomy (Baas), seed
-and ovule structure (Boesewinkel, Bouman) and palynology (Lobreau-Callen)
-alongside the taxonomy, so it should carry substantially more character data
-than a standard protologue.
+The authors placed the genus in tribe Anacoloseae. It combines flowers like
+those of the neotropical *Tetrastylidium* with fruit characters absent from
+that genus and from the African *Strombosiopsis* and related genera.
 
 ## Species
 
 | Species | Habit | Distribution |
 |---------|-------|--------------|
-| [[Engomegoma_gordonii\|E. gordonii]] | tree | Cameroon to Gabon |
+| [[Engomegoma_gordonii\|E. gordonii]] | tree | central Gabon |
 
 ## Placement
 
 Described in *Olacaceae* in the broad sense. Under the segregate
 classification now generally followed it belongs to **Strombosiaceae**,
 alongside [[Strombosia]], [[Strombosiopsis]] and [[Diogoa]].
+
+## Treatment
+
+### Breteler et al. (1996)
+
+**Pages**: 113–132
+
+**Available source**: `sources/articles/Engomegoma` (photographs and readable
+project extract, pp. 113–117)
+
+The available pages contain the abstract, introduction, protologue, complete
+taxonomic description, specimens, etymology and Figs. 1–3. The later
+specialized anatomical and palynological sections are outside the scope of
+this wiki treatment.
 
 ## See also
 

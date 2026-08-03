@@ -70,6 +70,7 @@ genera occur in tropical and subtropical Africa, all of them present in Gabon.
 | [[Strombosiopsis]] | 1 (now 2) | tree | sticky red resin; fruit with 4 apical teeth |
 | [[Aptandra]] | 1 | shrub / small tree | staminal tube; fruiting calyx a pink collar |
 | [[Ongokea]] | 1 | tree | staminal tube; fruiting calyx opening by 2–3 valves |
+| [[Engomegoma]] | 1 | tree | 4(–5)-merous flowers; non-accrescent calyx; fruit on a strongly elongated pedicel |
 
 ## Field characters
 
@@ -159,6 +160,12 @@ moved. Recorded here so the treatment can be read against current names:
 
 Net effect: **12 genera** in Gabon on current names, against the 11 Villiers
 recorded — *Anacolosa* out, *Keita* and *Engomegoma* in.
+
+The protologue's available pages diagnose *Engomegoma* by its lack of
+laticifers, 4(–5)-merous flowers with free petals and an equal number of
+epipetalous stamens, superior (3–)4-locular ovary with pendulous ovules, and
+fruit borne on a strongly elongated pedicel while the calyx remains
+non-accrescent. See [[Engomegoma]] and [[Engomegoma_gordonii|E. gordonii]].
 
 <!-- This list is not exhaustive; it covers what has been checked so far. A
 2011 monograph of Octoknema (Kew Bulletin) is a known unread source for
