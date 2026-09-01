@@ -17,9 +17,59 @@ French). The pipeline is flora-agnostic — every active script takes a
 | Env | Python | Used for |
 |-----|--------|---------|
 | `p12` | 3.14 | Most pipeline scripts (liteparse, mineru, marker, translate, build, app) |
-| `ds_ocr` | 3.x | PaddleOCR VL (best figure separation) |
+| `ds_ocr` | 3.x | PaddleOCR VL 1.5, paddleocr 3.4.0 (legacy; kept as a fallback) |
+| `ds_ocr2` | 3.12 | PaddleOCR VL, paddleocr 3.7.0 — **the current OCR env** |
 
 Always prefix commands with `conda run -n <env>`.
+
+`ds_ocr2` holds paddlepaddle-gpu 3.3.1 (cu129) and **no torch** — paddle pins its
+nvidia deps exactly, so sharing a site-packages with torch breaks one of them at
+import (see 395aee9). The sglang server therefore lives in its own venv:
+
+| venv | Holds | Used for |
+|------|-------|---------|
+| `/mnt/e/venvs/sglang` | torch 2.8.0+cu129, sglang 0.5.2, paddlex 3.7.2 | the genai server |
+
+### sglang backend (≈8× faster than native)
+
+Native runs ~10–13 s/page; through sglang it is ~1.3 s/page. Start the server,
+then point the OCR at it:
+
+```bash
+# 1. server (leave running; ~13 GB on GPU 0). PATH must include the venv's bin,
+#    because flashinfer shells out to `ninja`.
+PATH=/mnt/e/venvs/sglang/bin:$PATH /mnt/e/venvs/sglang/bin/paddlex_genai_server \
+    --model_name PaddleOCR-VL-1.5-0.9B \
+    --model_dir ~/.paddlex/official_models/PaddleOCR-VL-1.5 \
+    --backend sglang --host 127.0.0.1 --port 8118
+
+# 2. OCR through it
+conda run -n ds_ocr2 python -m flora_ocr.ocr.paddle --vol 2 --vl-backend sglang-server
+
+# batches of volumes, sequentially, with a server health check before each
+scripts/run_batch_sglang.sh b1 3 4 5 5bis 6 7 8 9 10 11 12 13
+```
+
+The `vllm-server` backend is **broken** — it dies on `KeyError('pixel_values')`,
+the engine goes with it, and every later page 500s into a poisoned checkpoint.
+paddlex pins `vllm==0.10.2`, which is the version that fails; the one published
+fix (HF discussion #28) is already applied upstream and does not help. Use sglang.
+
+Beyond the documented install, the sglang venv needs: a CUDA torch (uv's
+`--torch-backend auto` resolves a `+cpu` build, because torchao 0.9.0 is CPU-only),
+`xformers` **and** `flash-attn` (an undocumented gate in paddlex's plugin check —
+take Dao-AILab's prebuilt `cu12torch2.8cxx11abiTRUE` wheel, since PyPI ships only
+an sdist and there is no nvcc here), and `protobuf`.
+
+### Re-splitting without re-OCRing
+
+Every completed volume caches its raw OCR under `ocr_output/_paddle_cache/`, so
+family-split changes can be re-applied with no GPU at all:
+
+```bash
+scripts/resplit_from_cache.sh          # every cached volume
+conda run -n ds_ocr2 python -m flora_ocr.ocr.paddle --vol 22 --from-cache --force
+```
 
 ### Key packages in `p12`
 - torch 2.10.0+cu128

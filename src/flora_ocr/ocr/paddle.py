@@ -45,13 +45,19 @@ CACHE_DIR: pathlib.Path | None = None   # raw OCR dumps for post-processing iter
 VOL_PATTERN: re.Pattern | None = None
 PDF_GLOB: str = "*.pdf"
 
+# Which PaddleOCR-VL model generation to run, and the tag that distinguishes its
+# output. Two generations produce different text and different figure crops, so
+# they must never share an output dir or an OCR cache — hence OUT_TAG feeds both.
+PIPELINE_VERSION: str = "v1.5"
+OUT_TAG: str = "paddle"
+
 
 def _apply_flora(name: str) -> None:
     global PDF_DIR, OUT_DIR, CACHE_DIR, VOL_PATTERN, PDF_GLOB
     f = load_flora(name)
     PDF_DIR = f.pdf_dir
     OUT_DIR = f.output_dir
-    CACHE_DIR = OUT_DIR / "_paddle_cache"
+    CACHE_DIR = OUT_DIR / f"_{OUT_TAG}_cache"
     VOL_PATTERN = f.vol_pattern
     PDF_GLOB = f.pdf_glob
 
@@ -192,6 +198,47 @@ _FAM_RE = re.compile(
     re.MULTILINE,
 )
 
+# The same alternation, unanchored and comma-terminated, for matching a family
+# name *anywhere* in a heading. _FAM_RE is pinned to the start of the line, so it
+# misses both "# I. SALVINIACEAE" (numbered, vol 8) and every name after the
+# first in "# CÉLASTRACÉES, PANDACÉES, …" (vol 22) — its lookahead excludes ','.
+# Requires -ACEAE/-ACÉES/-aceae: tribes end -eae/-ÉES and must not match.
+_FAM_NAME_RE = re.compile(
+    rf'({_UPPER}{{3,}}AC[EÉ][AEÉ][ES]S?'
+    rf'|[A-Z][a-z]{{2,}}aceae'
+    rf'|(?:LEGUMINOSAE|COMPOSITAE|UMBELLIFERAE|CRUCIFERAE|LABIATAE|GRAMINEAE|PALMAE|GUTTIFERAE)'
+    rf'|(?:Leguminosae|Compositae|Umbelliferae|Cruciferae|Labiatae|Gramineae|Palmae|Guttiferae))'
+    rf'(?=[\s,;.]|\(|\)|$)'
+)
+
+# French vernacular forms of the ICN nom. cons. families, whose Latin names don't
+# end in -aceae. Title pages declare "GRAMINÉES" or "LÉGUMINEUSES - CAESALPINIOIDÉES"
+# rather than a -aceae heading, so without this vols 5 and 15 never split.
+# Keys are accent-stripped uppercase.
+_FRENCH_LEGACY_FAMILIES = {
+    'GRAMINEES': 'Gramineae', 'LEGUMINEUSES': 'Leguminosae',
+    'COMPOSEES': 'Compositae', 'OMBELLIFERES': 'Umbelliferae',
+    'CRUCIFERES': 'Cruciferae', 'LABIEES': 'Labiatae',
+    'GUTTIFERES': 'Guttiferae', 'PALMIERS': 'Palmae',
+}
+
+# All-caps words that would otherwise repair into a bogus family (SURFACE →
+# SURFACEAE). The {3,} stem rule already excludes PLACE/GRACE/TRACE/FACE.
+_NOT_A_FAMILY = frozenset({
+    'SURFACE', 'ESPACE', 'PREFACE', 'PRÉFACE', 'GRACE', 'GRÂCE', 'TRACE',
+    'PLACE', 'FACE', 'RACE', 'GLACE', 'MENACE', 'AUDACE', 'EFFICACE',
+    'TENACE', 'INTERFACE',
+})
+
+# Heading lead-ins to strip before looking for a family name: "FAMILLE DES …",
+# roman numerals ("I. ", "IV· " — the middle dot is an OCR misread of '.'), and
+# arabic numbering.
+_FAM_LEADIN_RE = re.compile(
+    r'^(?:FAMILLE\s+DES?\s+|[IVXLC]+[.·]\s*|\d+[.)]\s*)+', re.I
+)
+
+_HEADING_LINE_RE = re.compile(r'^#{1,4}[ \t]+(.+?)[ \t]*$', re.MULTILINE)
+
 
 def _strip_accents(s: str) -> str:
     """Remove combining diacritics — THYMÉLÉACÉES → THYMELEACEES."""
@@ -221,19 +268,86 @@ def _normalize_family(raw: str) -> str:
     return name[0].upper() + name[1:].lower() if name else name
 
 
+def _family_names_in(heading: str) -> list[str]:
+    """Every family named in one heading line, from all three sources.
+
+    1. fully-spelled names (_FAM_NAME_RE), including several on one comma list;
+    2. stems the scan truncated or whose Æ it lost (_repair_family_stem);
+    3. French vernacular nom. cons. names (_FRENCH_LEGACY_FAMILIES).
+    """
+    head = _FAM_LEADIN_RE.sub('', heading).strip()
+    names = [m.group(1) for m in _FAM_NAME_RE.finditer(head)]
+    if names:
+        return names
+    out: list[str] = []
+    for token in re.split(r'[,;\s]+', head):
+        if not token:
+            continue
+        repaired = _repair_family_stem(token)
+        if repaired:
+            out.append(repaired)
+            continue
+        legacy = _FRENCH_LEGACY_FAMILIES.get(_strip_accents(token).upper())
+        if legacy:
+            out.append(legacy)
+    return out
+
+
 def _detect_families(markdown: str) -> list[tuple[str, int]]:
     """Return [(family_name, char_offset), …] for each family heading found.
 
-    Consecutive duplicates (same family name) are de-duplicated so that running
-    headers like ``# EBENACEES`` repeated each page only count as the first
-    occurrence's start position.
+    Scans heading lines rather than the whole document, so a family named after
+    a numeral ("# I. SALVINIACEAE") or after the first item of a comma list is
+    still found. Only the first occurrence of each family is kept — a name that
+    recurs as a sub-heading must not open a second chunk.
     """
     families: list[tuple[str, int]] = []
-    for m in _FAM_RE.finditer(markdown):
-        fam = _normalize_family(m.group(1))
-        if not families or families[-1][0] != fam:
-            families.append((fam, m.start()))
+    seen: set[str] = set()
+    for m in _HEADING_LINE_RE.finditer(markdown):
+        head = m.group(1).strip()
+        if head.startswith('(') and head.endswith(')'):
+            continue        # "# (CRUCIFERAE)" — a synonym of the line above it,
+                            # not a family of its own
+        for name in _family_names_in(head):
+            fam = _normalize_family(name)
+            if fam and fam not in seen:
+                seen.add(fam)
+                families.append((fam, m.start()))
     return families
+
+
+def _cover_families(markdown: str, window: int = 20000) -> list[str]:
+    """Families the cover page declares, in order.
+
+    The cover prints them as the first H1 of the front matter, comma-separated
+    and sometimes wrapping onto the next line:
+
+        # CÉLASTRACÉES, PANDACÉES, BOMBACACÉES
+        CANNABACÉES, BIXACÉES, AVICENNIACÉES
+
+    Used only to sanity-check the split: a family the cover declares but the
+    body never yields means a heading was corrupted. It reads just the first
+    heading and its immediate continuations, so treat a mismatch as a prompt to
+    look, not as proof the split is wrong.
+    """
+    head = markdown[:window]
+    m = re.search(r'^#[ \t]+(.+)$', head, re.MULTILINE)
+    if not m:
+        return []
+    lines = [m.group(1)]
+    for line in head[m.end():].split('\n')[1:5]:
+        stripped = line.strip()
+        if not stripped or stripped.startswith(('#', '<!--', '*')):
+            continue
+        if not _family_names_in(stripped):
+            break
+        lines.append(stripped)
+    out: list[str] = []
+    for name in _family_names_in(' '.join(lines)):
+        fam = _normalize_family(name)
+        if fam and fam not in out:
+            out.append(fam)
+    return out
 
 
 def _split_by_family(
@@ -271,21 +385,40 @@ _RUN_HDR_MIN_FRACTION = 0.03    # …or this fraction of all pages, whichever la
 
 
 def _repair_family_stem(stem: str) -> str | None:
-    """Try to repair a column-truncated family-stem like EBENACE → EBENACEAE.
+    """Repair a family stem the scan truncated, or whose uppercase Æ it lost.
+
+    The source prints Latin families as XXXACEÆ. PaddleOCR either drops the
+    uppercase Æ or misreads it as '/E' (lowercase æ reads fine), and column
+    truncation loses trailing letters outright. Across the corpus that is 70
+    truncated headings and 23 '/E' misreads over 22 distinct families.
 
     Heuristics — only fire when the stem clearly looks like a truncation:
-      X…AC      → X…ACEAE      (Latin -ACEAE, lost final EAE)
-      X…ACE     → X…ACEAE      (Latin -ACEAE, lost final AE)
+      X…AC      → X…ACEAE      (lost final EAE)
+      X…ACE     → X…ACEAE      (Æ dropped, or lost final AE)
+      X…ACE/E   → X…ACEAE      (Æ misread as '/E')
+      X…ACEA    → X…ACEAE      (lost final E, e.g. CTENOLOPHONACEA)
       X…ACEE    → X…ACEES      (French -ACEES, lost final S)
       X…ACÉE    → X…ACÉES      (French -ACÉES, lost final S)
+
+    The stem needs only {3,} leading letters, not {4,}: BIXACE has just BIX, and
+    the stricter rule silently dropped Bixaceae from vol 22. Common words that
+    would repair into nonsense are held in _NOT_A_FAMILY.
     """
-    if re.match(r'^[A-Z\u00C0-\u00DD]{4,}AC$', stem):
+    stem = stem.strip().rstrip('.')
+    if stem in _NOT_A_FAMILY:
+        return None
+    m = re.match(rf'^({_UPPER}{{3,}}AC)E?/E$', stem)      # Æ read as '/E'
+    if m:
+        return m.group(1) + 'EAE'
+    if re.match(rf'^{_UPPER}{{3,}}AC$', stem):
         return stem + 'EAE'
-    if re.match(r'^[A-Z\u00C0-\u00DD]{4,}ACE$', stem):
+    if re.match(rf'^{_UPPER}{{3,}}ACE$', stem):
         return stem + 'AE'
-    if re.match(r'^[A-Z\u00C0-\u00DD]{4,}ACEE$', stem):
+    if re.match(rf'^{_UPPER}{{3,}}ACEA$', stem):
+        return stem + 'E'
+    if re.match(rf'^{_UPPER}{{3,}}ACEE$', stem):
         return stem + 'S'
-    if re.match(r'^[A-Z\u00C0-\u00DD]{4,}ACÉE$', stem):
+    if re.match(rf'^{_UPPER}{{3,}}ACÉE$', stem):
         return stem + 'S'
     return None
 
@@ -425,7 +558,7 @@ def _normalize_label(raw: str, known_labels: list[str]) -> str | None:
 def is_done(label: str) -> bool:
     # For Flore du Gabon completion we only count family-split outputs.
     # Older whole-volume vol{label}_paddle dirs are not sufficient.
-    return any((d / "text.md").exists() for d in OUT_DIR.glob(f"*_vol{label}_paddle"))
+    return any((d / "text.md").exists() for d in OUT_DIR.glob(f"*_vol{label}_{OUT_TAG}"))
 
 
 def _fmt_time(seconds: float) -> str:
@@ -883,11 +1016,30 @@ def _finalize_volume(
 
     # Detect families and decide output layout
     families = _detect_families(full_text)
+
+    # The cover page lists the volume's families; the split should match it.
+    # A family on the cover that no heading yielded almost always means the
+    # heading was corrupted (usually the uppercase-Æ loss).
+    cover = _cover_families(full_text)
+    if cover:
+        found = {f for f, _ in families}
+        missing = [f for f in cover if f not in found]
+        extra = [f for f in found if f not in cover]
+        if missing or extra:
+            print(f"[vol{label}] WARNING: split does not match cover page")
+            print(f"[vol{label}]   cover: {', '.join(cover)}")
+            if missing:
+                print(f"[vol{label}]   on cover but not split out: {', '.join(missing)}")
+            if extra:
+                print(f"[vol{label}]   split out but not on cover: {', '.join(extra)}")
+        else:
+            print(f"[vol{label}] Cover check OK ({len(cover)} families)")
+
     if families:
         chunks = _split_by_family(full_text, families)
         print(f"[vol{label}] Families: {', '.join(chunks.keys())}")
         for fam, chunk in chunks.items():
-            out_dir = OUT_DIR / f"{fam}_vol{label}_paddle"
+            out_dir = OUT_DIR / f"{fam}_vol{label}_{OUT_TAG}"
             _write_paddle_dir(
                 out_dir=out_dir,
                 label=label,
@@ -901,7 +1053,7 @@ def _finalize_volume(
                 elapsed=elapsed,
             )
     else:
-        out_dir = OUT_DIR / f"vol{label}_paddle"
+        out_dir = OUT_DIR / f"vol{label}_{OUT_TAG}"
         _write_paddle_dir(
             out_dir=out_dir,
             label=label,
@@ -971,7 +1123,7 @@ def _write_paddle_dir(
         "vol_label": label,
         "family": family,
         "pdf_filename": pdf_filename,
-        "pipeline": "PaddleOCRVL v1.5",
+        "pipeline": f"PaddleOCRVL {PIPELINE_VERSION}",
         "dpi": dpi,
         "page_count": n_pages,
         "figure_count": len(saved_figs),
@@ -1075,18 +1227,42 @@ def main():
         help="Skip the throwaway warmup page (weights then download during page 1)",
     )
     parser.add_argument(
-        "--vl-backend", choices=("native", "vllm-server"), default="native",
+        "--vl-backend", choices=("native", "vllm-server", "sglang-server"),
+        default="native",
         help="VLM inference backend. 'native' runs the VLM in-process via "
-             "PaddlePaddle (simple, ~10x slower). 'vllm-server' offloads it to a "
-             "running `paddleocr genai_server` (default: native)",
+             "PaddlePaddle (simple, ~10x slower). 'vllm-server' and "
+             "'sglang-server' offload it to a running `paddlex_genai_server`; "
+             "sglang is the supported fast path here, as the vLLM backend "
+             "crashes with KeyError('pixel_values') (default: native)",
     )
     parser.add_argument(
         "--vl-server-url", default="http://127.0.0.1:8118/v1", metavar="URL",
         help="Base URL of the genai server when --vl-backend=vllm-server "
              "(default: http://127.0.0.1:8118/v1)",
     )
+    parser.add_argument(
+        "--pipeline-version", choices=("v1", "v1.5", "v1.6"), default="v1.5",
+        help="PaddleOCR-VL model generation. v1.6 (paddleocr>=3.6.0) scores "
+             "higher on OmniDocBench and uses a newer layout model; v1.5 is the "
+             "generation every existing ocr_output/*_paddle dir was built with "
+             "(default: v1.5)",
+    )
+    parser.add_argument(
+        "--out-tag", default=None, metavar="TAG",
+        help="Suffix for output dirs (ocr_output/{Family}_vol{N}_{TAG}) and for "
+             "the OCR cache. Defaults to 'paddle' for v1.5 and 'paddle_v16' for "
+             "v1.6, so the two generations never overwrite each other",
+    )
     add_flora_arg(parser)
     args = parser.parse_args()
+
+    # OUT_TAG must be set before _apply_flora, which derives CACHE_DIR from it.
+    global PIPELINE_VERSION, OUT_TAG
+    PIPELINE_VERSION = args.pipeline_version
+    OUT_TAG = args.out_tag or (
+        "paddle" if PIPELINE_VERSION == "v1.5"
+        else "paddle_" + PIPELINE_VERSION.replace(".", "")
+    )
     _apply_flora(args.flora)
 
     volumes = discover_volumes()
@@ -1134,17 +1310,17 @@ def main():
         print("Loading PaddleOCR VL pipeline …", flush=True)
         from paddleocr import PaddleOCRVL
         pipeline_kwargs = {
-            "pipeline_version": "v1.5",
+            "pipeline_version": PIPELINE_VERSION,
             "device": pipeline_device,
             "use_doc_orientation_classify": False,
             "use_doc_unwarping": False,
         }
-        if args.vl_backend == "vllm-server":
+        if args.vl_backend in ("vllm-server", "sglang-server"):
             # Only the VLM moves to the server; layout detection still runs
             # in-process on the local GPU, so both share GPU memory.
-            pipeline_kwargs["vl_rec_backend"] = "vllm-server"
+            pipeline_kwargs["vl_rec_backend"] = args.vl_backend
             pipeline_kwargs["vl_rec_server_url"] = args.vl_server_url
-            print(f"VLM backend: vllm-server at {args.vl_server_url}", flush=True)
+            print(f"VLM backend: {args.vl_backend} at {args.vl_server_url}", flush=True)
         else:
             print("VLM backend: native (in-process PaddlePaddle)", flush=True)
 
