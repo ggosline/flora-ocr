@@ -1,4 +1,6 @@
-# Flore du Gabon — Overview
+# Lower Guinea flora — overview
+
+<!-- Scope widened 2026-07-29 from Flore du Gabon to the Lower Guinea region (Nigeria to western DR Congo). Text below still reflects the Gabon-only framing in places and should be restated as other sources are ingested. -->
 
 A rolling synthesis of what the wiki currently knows about the flora of Gabon
 as a whole. Updated when an ingest changes the high-level picture, not on every
@@ -22,21 +24,17 @@ view of Gabon's flora as the corpus grows.
 
 *(updated on ingest)*
 
-- **Families on the wiki**: 24 — the original five
-  ([[Ancistrocladaceae]], [[Dilleniaceae]], [[Ebenaceae]],
-  [[Menispermaceae]], [[Ranunculaceae]]) plus [[Aizoaceae]],
-  [[Alismataceae]], [[Aloaceae]], [[Anacardiaceae]], [[Anthericaceae]],
-  [[Annonaceae]], [[Apiaceae]], [[Apocynaceae]], [[Apodanthaceae]], [[Arecaceae]],
-  [[Aristolochiaceae]], [[Balanophoraceae]], [[Begoniaceae]],
-  [[Boraginaceae]], [[Burmanniaceae]], [[Buxaceae]], [[Huaceae]], [[Sapotaceae]],
-  and [[Taccaceae]]
-- **Genera**: 52
-- **Species**: 146
-- **Volumes drawn from**: 14 / 61 ([[vol01]], [[vol16]], [[vol18]], [[vol38]], [[vol39]],
-  [[vol40]], [[vol41]], [[vol42]], [[vol47]], [[vol50]], [[vol53]], [[vol57]],
-  [[vol59]], [[vol60]])
+- **Families on the wiki**: 57, now including the complete [[Zingiberaceae]] treatment in [[vol09]]
+  treatment and the complete four-family
+  [[vol28]] treatment: [[Pandanaceae]], [[Amaryllidaceae]],
+  [[Hypoxidaceae]] and [[Flagellariaceae]]
+- **Genera**: 137
+- **Species and infraspecific taxa**: 366 taxon pages
+- **Volumes drawn from**: 22 / 61, with [[vol03]], [[vol04]], [[vol06]], [[vol07]], [[vol18]], [[vol28]], [[vol52]] and [[vol60]] fully ingested
 - **Article addenda**: 3 article sources covering multiple Ebenaceae updates, including 8 post-volume species pages
-- **Type localities in Gabon**: 10
+- **Type localities in Gabon**: 12
+  - [[Pandanus_parvicentralis]] — Libreville, kilometre point 18, *I.N.E.F. s.n.* (sp. nov., Vol 28)
+  - [[Pandanus_gabonensis]] — banks of the Komo near Mbel, *Hallé N. & Villiers J.-F. 4332* (sp. nov., Vol 28)
   - [[Tetracera_breteleri]] — Ogooué-Lolo, Forêt des Abeilles, *Breteler 14904*
   - [[Albertisia_badia]] — Ogooué-Lolo, *Breteler & Jongkind 14118* (spec. nov., Vol 60)
   - [[Albertisia_mouilaensis]] — Ngounié, Mouila area, *Breteler 14860* (spec. nov., Vol 60)
@@ -55,7 +53,7 @@ view of Gabon's flora as the corpus grows.
 | Alismatales | [[Alismataceae]] | Aquatic family represented in Gabon only by *Ranalisma*. |
 | Apiales | [[Apiaceae]] | Extremely reduced in Gabon: only *Centella asiatica* is treated. |
 | Arecales | [[Arecaceae]] | Major monocot expansion of the wiki: 11 genera and 34 species of palms and rattans in Gabon. |
-| Asparagales | [[Aloaceae]], [[Anthericaceae]] | Succulent aloes plus geophytic *Chlorophytum*-centred herbs broaden monocot coverage. |
+| Asparagales | [[Aloaceae]], [[Anthericaceae]], [[Amaryllidaceae]], [[Hypoxidaceae]] | Succulent aloes, *Chlorophytum*-centred geophytes, showy bulbous herbs and hairy yellow-flowered hypoxids broaden monocot coverage. |
 | Boraginales | [[Boraginaceae]] | A small but mainly woody Gabonese family, treated in the broad APG sense. |
 | Buxales | [[Buxaceae]] | Represented in Gabon by a single species of *Buxus*. |
 | Caryophyllales | [[Aizoaceae]], [[Ancistrocladaceae]] | Succulent coastal herbs in Aizoaceae contrast with hooked woody lianas in Ancistrocladaceae. |
@@ -66,10 +64,12 @@ view of Gabon's flora as the corpus grows.
 | Gentianales | [[Apocynaceae]] | Very large latex-bearing family; currently represented on the wiki at family level from Vol 59 part 1. |
 | Magnoliales | [[Annonaceae]] | One of the largest rainforest family treatments in the corpus; 29 genera and 119 species reported for Gabon. |
 | Oxalidales | [[Huaceae]] | Small African woody family of garlic-scented shrubs and trees; all 4 known species occur in Gabon. |
+| Pandanales | [[Pandanaceae]] | Stilt-rooted, spiny, dioecious trees of wet and swampy habitats; four *Pandanus* species are documented regionally, three confirmed in Gabon. |
+| Poales | [[Flagellariaceae]] | A single climbing herb with spiralled leaf-tip tendrils, frequent along forest rivers. |
 | Piperales | [[Aristolochiaceae]] | In Gabon centred on *Pararistolochia*, a lianescent lineage with petaloid calyces. |
 | Ranunculales | [[Menispermaceae]], [[Ranunculaceae]] | Both Gabonese Ranunculales families now ingested. Menispermaceae is the diversity hotspot of the order in Gabon (22 genera, 34–36 spp.); Ranunculaceae is represented only by [[Clematis]] (2 spp.). The two are not sister to each other — Ranunculaceae is sister to Berberidaceae, and Menispermaceae is the next branch out (APG IV). |
 | Santalales | [[Balanophoraceae]] | Represented by root holoparasites, chiefly *Thonningia* in Gabon. |
-| Sapindales | [[Anacardiaceae]] | Resin-bearing woody flora including both indigenous taxa and some naturalised fruit trees. |
+| Sapindales | [[Anacardiaceae]], [[Burseraceae]], [[Simaroubaceae]] | Resin-bearing Anacardiaceae and Burseraceae contrast with bitter-barked Simaroubaceae; Vol 3 adds the economically dominant okoumé and a diverse *Dacryodes* radiation. |
 
 The wiki now spans a much broader structural and phylogenetic range than the
 initial liana-heavy seed set. The new family-level ingest adds aquatics

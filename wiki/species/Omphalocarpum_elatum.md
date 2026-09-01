@@ -10,11 +10,13 @@ synonyms:
   - O. lecomteanum Pierre ex Engl.
   - O. trillesianum Pierre ex Engl.
   - O. elasticum Pierre msc.
-distribution_gabon: []
-distribution_other: [Sierra Leone, Congo Basin, Equatorial Guinea]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Equatorial Guinea, Sierra Leone]
+range_note: "Congo Basin"
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "82-83"

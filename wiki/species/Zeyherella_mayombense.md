@@ -6,11 +6,14 @@ genus: Zeyherella
 family: Sapotaceae
 synonyms:
   - Sideroxylon mayombense Greves
-distribution_gabon: [Estuaire]
-distribution_other: [Mayombe]
 habit: shrub
 habitat: [mangrove margin, coastal humid sites]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Estuaire]
+range_note: "Mayombe"
+in_region: true
 treatments:
   - vol: 1
     pages: "100-102"

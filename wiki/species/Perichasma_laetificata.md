@@ -6,11 +6,14 @@ genus: Perichasma
 family: Menispermaceae
 synonyms:
   - "Stephania laetificata (Miers) Benth., in Benth. & Hook.f., Gen. pl. 1: 962 (1867)"
-distribution_gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime, Woleu-Ntem]
-distribution_other: [Nigeria, Cameroon, Equatorial Guinea, Democratic Republic of the Congo, Central African Republic, Angola (Cabinda)]
 habit: liana
 habitat: [secondary forest, forest regrowth]
 altitude_m: "50–600 (Gabon); up to 900 elsewhere"
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria]
+subdivisions:
+  Angola: [Cabinda]
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime, Woleu-Ntem]
+in_region: true
 treatments:
   - vol: 60
     pages: "61"

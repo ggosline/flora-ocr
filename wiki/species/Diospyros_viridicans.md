@@ -5,10 +5,13 @@ authority: Hiern
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Ogooue-Lolo, Estuaire]
-distribution_other: [Sierra Leone, Ivory Coast, Ghana, Nigeria, Cameroon, Republic of the Congo, DRC, Cabinda]
 habit: tree
 habitat: [evergreen humid forest, semi-deciduous forest]
+countries: [Angola, Cameroon, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Nigeria, Republic of the Congo, Sierra Leone]
+subdivisions:
+  Angola: [Cabinda]
+  Gabon: [Ogooué-Lolo, Estuaire]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

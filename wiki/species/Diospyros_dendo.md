@@ -5,10 +5,12 @@ authority: "Welw. ex Hiern"
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Estuaire, Nyanga, Ogooue-Lolo, Ogooue-Ivindo]
-distribution_other: [Nigeria, Cameroon, Republic of the Congo, Angola]
 habit: small tree
 habitat: [evergreen humid forest]
+countries: [Angola, Cameroon, Gabon, Nigeria, Republic of the Congo]
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Lolo, Ogooué-Ivindo]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

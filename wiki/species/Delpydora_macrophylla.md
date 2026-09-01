@@ -5,11 +5,13 @@ authority: Pierre
 genus: Delpydora
 family: Sapotaceae
 synonyms: []
-distribution_gabon: [Estuaire, Nyanga, Ogooue-Lolo]
-distribution_other: []
 habit: shrub
 habitat: []
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 1
     pages: "140-142"

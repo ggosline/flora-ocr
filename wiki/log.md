@@ -927,3 +927,509 @@ Notes:
   [[Synsepalum_fleuryanum]] is known only from buds,
   [[Vincentella_ogouensis]] still lacks a known fruit in the treatment, and
   several [[Donella]] and [[Gambeya]] entities are treated as highly variable.
+
+## [2026-07-29] ingest | Olacaceae (Vol 20) — PARTIAL
+
+Source: sources/Olacaceae_vol20_paddle (paddle, 193 KB, 202 pp., 18 figures;
+text.md only — no text_en.md, translated inline).
+
+First ingest to use the new deterministic pre-pass
+(`flora_ocr.wiki.ingest`), which segmented the treatment into 57 taxon blocks
+and attached all 18 figures before any page was written.
+
+Created:
+- `families/Olacaceae.md`
+- `genera/Anacolosa.md`, `genera/Ximenia.md`, `genera/Olax.md`,
+  `genera/Heisteria.md`, `genera/Strombosia.md`, `genera/Coula.md`,
+  `genera/Ptychopetalum.md`, `genera/Diogoa.md`, `genera/Strombosiopsis.md`,
+  `genera/Aptandra.md`, `genera/Ongokea.md`  (all 11 genera)
+- `species/Anacolosa_uncifera.md`, `species/Ximenia_americana.md`,
+  `species/Olax_gambecola.md`, `species/Strombosiopsis_tetrandra.md`
+- `volumes/vol20.md`
+
+Updated: index.md
+
+### Outstanding
+
+23 species and variety pages are still to be written, and are currently dead
+links from the genus pages:
+
+Olax_mannii, Olax_subscorpioidea, Olax_subscorpioidea_var_subscorpioidea,
+Olax_subscorpioidea_var_durandii, Olax_staudtii, Olax_triplinervia,
+Olax_latifolia, Heisteria_parvifolia, Heisteria_trillesiana,
+Heisteria_zimmereri, Strombosia_grandifolia, Strombosia_pustulata,
+Strombosia_pustulata_var_pustulata, Strombosia_pustulata_var_lucida,
+Strombosia_scheffleri, Strombosia_zenkeri, Coula_edulis,
+Ptychopetalum_petiolatum, Ptychopetalum_petiolatum_var_petiolatum,
+Ptychopetalum_petiolatum_var_paniculatum, Diogoa_zenkeri, Aptandra_zenkeri,
+Ongokea_gore.
+
+### Notes
+
+- The source directory `Olacaceae_vol20_paddle` physically contains **four**
+  family treatments, not one: the volume's OPILIACEAE, OCTOKNEMACEAE and
+  PENTADIPLANDRACEAE headings were truncated by OCR to `OPILIACE`,
+  `OCTOKNEMACE` and `PENTADIPLANDRACE`, so the OCR-time splitter never saw
+  them. Only Olacaceae has been ingested; Opiliaceae, Octoknemaceae and
+  Pentadiplandraceae remain available in the same directory and are dead links
+  from `volumes/vol20.md`.
+- Two OCR name errors were repaired: `Diogo zenkeri` → *Diogoa zenkeri*
+  (truncation, caught automatically by the segmenter's edit-distance check) and
+  `Strombiosopsis tetrandra` → *Strombosiopsis tetrandra* (transposition,
+  distance 2, corrected by hand — the segmenter missed it and left the species
+  inside the genus block).
+- The printed key to genera has lost couplet 2' and part of its numbering in
+  the scan; this is flagged in an HTML comment on the family page.
+- Villiers' circumscription of *Olacaceae* is the broad pre-APG one. The wiki
+  keeps it, since that is what the treatment documents, and records the modern
+  segregate family on each genus page.
+- *Ximenia gabonensis* Lanessan is discussed but not accepted — no type, no
+  material. Recorded on the *Ximenia americana* page rather than given a page.
+
+## [2026-07-29] ingest | Olacaceae completion + Octoknemaceae (Vol 20)
+
+First run of the bulk tier (`flora_ocr.wiki.author`, Haiku 4.5, sync mode).
+
+Created via bulk tier: the 20 outstanding Olacaceae species/variety pages and
+all 5 Octoknemaceae species pages. 25 pages, 0 rejected, ≈ $0.28.
+
+Created by hand (synthesis tier): `families/Octoknemaceae.md`,
+`genera/Octoknema.md`, `genera/Okoubaka.md`.
+
+Olacaceae is now complete: family, 11 genus pages, 27 species/variety pages.
+
+### Quality checks run on the 32 generated pages
+
+- structural: all have frontmatter, `## Source`, no code fences; 19 of 19
+  figure links resolve on disk.
+- fidelity: numbers in each page traced back against its own source block plus
+  its figure captions — 1195 checked, 20 untraceable (1.7%), all of which are
+  artefacts (`20` from "Volume 20" in citations; `1000`/`1400` from "alt. 1 000
+  m", where the source uses a space as thousands separator).
+
+### The province problem
+
+The bulk tier systematically **infers Gabonese provinces from collecting
+localities**, which the source does not give. It did so on 9 of 20 Olacaceae
+pages and 1 of 5 Octoknemaceae pages, and got at least one wrong (Monts de
+Cristal assigned to Ogooué-Lolo; it is in Estuaire/Woleu-Ntem). Instruction
+alone did not stop it. The runner now strips any province not named verbatim in
+the source block and reports what it dropped. `wiki/CLAUDE.md` records the rule.
+
+### Schema change
+
+Infraspecific taxa were undefined in the schema. Set deliberately: they live in
+`species/`, are typed `type: species` so Dataview queries still see them, and
+carry `infraspecific_rank` (var/subsp/f) and `parent_species`.
+
+## [2026-07-29] ingest | post-Flore additions to Olacaceae s.l.
+
+Literature published since Vol 20 (1973), at the user's request.
+
+- **[[Keita]] Cheek** — Cheek, Molmou, Gosline & Magassouba (2024), Kew Bull.
+  79: 317–332, doi:10.1007/s12225-024-10172-w. New genus for the two
+  continental African species previously in *Anacolosa*, unique in Olacaceae
+  s.l. in being climbers. `species/Anacolosa_uncifera.md` renamed to
+  `species/Keita_uncifera.md`; [[Anacolosa]] marked as no longer occurring in
+  Gabon.
+- **[[Engomegoma]] Breteler** — Breteler, Baas, Boesewinkel, Bouman &
+  Lobreau-Callen (1996), Bot. Jahrb. Syst. 118: 113–132 (Novitates Gabonenses
+  27). Monotypic, described from Gabon, absent from Villiers' key.
+  [[Engomegoma_gordonii|E. gordonii]], Cameroon to Gabon.
+- **[[Strombosiopsis_sereinii|Strombosiopsis sereinii]] Breteler** — Adansonia
+  23(2): 303–306 (2001), Novitates Gabonenses 40. Third species of the genus,
+  second in Gabon; Vol 20's "monospecific" is superseded.
+
+Net effect on Gabon: **12 genera on current names against Villiers' 11** —
+*Anacolosa* out, *Keita* and *Engomegoma* in. Recorded in a "Changes since the
+Flore" section on [[Olacaceae]].
+
+Notes:
+- The two post-Flore species pages are **stubs**, flagged as such in HTML
+  comments. Only bibliographic and distribution data could be verified; no
+  protologue was read and nothing was inferred. They need
+  Bot. Jahrb. Syst. 118: 113–132 and Adansonia 23(2): 303–306 transcribing.
+- Known unread source: a 2011 monograph of *Octoknema* in Kew Bulletin, which
+  likely supersedes parts of the [[Octoknemaceae]] treatment just ingested.
+
+## [2026-07-29] schema | scope widened to Lower Guinea (Nigeria — western DR Congo)
+
+The wiki is no longer a Flore du Gabon wiki. It now covers the Lower Guinea /
+Guineo-Congolian region, with Flore du Gabon as one source among several.
+
+Region: Nigeria, Cameroon, Equatorial Guinea (incl. Bioko, Río Muni, Annobón),
+São Tomé and Príncipe, Gabon, Republic of the Congo, western DR Congo, and
+Cabinda.
+
+### Distribution schema replaced
+
+`distribution_gabon` / `distribution_other` → `countries` + `subdivisions` map
++ `range_note` + `in_region`. No country is privileged. Ranges are recorded in
+full even outside the region.
+
+Migrated mechanically by `flora_ocr.wiki.migrate_region` across **182 pages**,
+which also normalised values that had drifted: unaccented provinces
+(Ogooue-Lolo → Ogooué-Lolo), abbreviations (DRC, Zaïre → Democratic Republic of
+the Congo), and compound entries (Angola (Cabinda) → country Angola,
+subdivision Cabinda). Region names that are not countries (Congo Basin, Bas
+Congo) moved to `range_note`.
+
+`## Gabonese material examined` → `## Specimens examined` (22 pages).
+
+### Known debt from the scope change
+
+- **50 species pages carry `countries_incomplete: true`.** They have a Flore du
+  Gabon treatment but no country in `countries`, because the source gave only
+  localities and the province-inference guard correctly stripped the model's
+  guesses. Gabon was NOT auto-added: Flore du Gabon does treat taxa not
+  collected in Gabon (*Connarus africanus*, *Octoknema genovefae*), so the
+  inference is unsafe. These need a pass against the sources.
+- **Cameroonian specimen lists were discarded** on the ~25 pages authored by the
+  bulk tier before this change, under a since-removed rule that treated Cameroon
+  as "another flora". Recovering them means re-running those pages.
+- Family and genus pages still carry `*_in_gabon` counts. The schema now
+  prefers `*_in_region`, with per-country counts optional.
+- `overview.md` still reads as a Gabon synthesis.
+
+### Runner updated
+
+`flora_ocr.wiki.author` now writes regional frontmatter, groups specimens by
+country instead of dropping non-Gabonese ones, and its subdivision-stripping
+guard operates on every country in the `subdivisions` map rather than on Gabon
+alone.
+
+## [2026-07-29] recovery | Cameroon specimen data + family display
+
+### Olacaceae — re-run from source
+
+23 species/variety pages regenerated with `--overwrite` under the regional
+prompt, recovering the Cameroonian specimen lists discarded by the earlier
+Gabon-only rule. 0 rejected. 28 of 32 Vol 20 Olacaceae pages now cite Cameroon.
+
+Four pages were excluded from the re-run because the cheap tier would have
+downgraded them or undone earlier work: `Anacolosa_uncifera` (renamed to
+`Keita_uncifera`, and a re-run would have recreated the old page),
+`Ximenia_americana`, `Olax_gambecola`, `Strombosiopsis_tetrandra`. A new
+`--exclude` flag on the runner makes this repeatable. Those four were then
+merged by hand from the source block, preserving the *Keita* transfer and the
+existing notes — see below.
+
+### The four excluded pages, merged by hand
+
+- `Ximenia_americana` — 20 Cameroonian collections added. **The
+  `MATÉRIEL CAMEROUNAIS ÉTUDIÉ` heading is absent from the OCR** (p. 110); the
+  list runs on directly from `PROPRIÉTÉS ET USAGES` with no heading, so nothing
+  keyed on the heading would ever have found it.
+- `Strombosiopsis_tetrandra` — same failure on p. 156; 18 Cameroonian
+  collections added, including *Staudt 137*, the lectotype. Note that the
+  material sections printed *after* this treatment belong to
+  *Aptandra zenkeri*; attributing them to *Strombosiopsis* by proximity would
+  have been wrong.
+- `Olax_gambecola` — had **no** specimen section at all. Both lists added
+  (14 Cameroonian, 10 Gabonese). Two errors corrected: the page claimed the
+  Gabonese list "falls beyond the page range captured in this block" — it does
+  not, it was simply missed — and `countries` omitted **Gabon** despite a full
+  Gabonese list in the source. `countries_incomplete` cleared.
+- `Keita_uncifera` — nothing to recover. The treatment gives a Gabonese list
+  only and Villiers' range is Gabon to Zaire; the absence of Cameroonian
+  material is real. Recorded on the page so the gap is not re-opened.
+
+### Sweep for the same OCR failure elsewhere
+
+Two of the four had their `MATÉRIEL CAMEROUNAIS ÉTUDIÉ` heading destroyed by
+OCR, so every remaining Vol 20 page was swept for the same silent gap. Seven
+pages carry no Cameroonian list; all seven are correct:
+
+- `Okoubaka_aubrevillei` — **was** a real gap, now fixed. One Cameroonian
+  gathering (*Letouzey 2991*) added, and the page now states explicitly that the
+  species is not recorded from Gabon (range stops at Cameroon).
+- `Keita_uncifera`, `Octoknema_klaineana` — genuinely Gabon-only.
+- `Olax_subscorpioidea`, `Strombosia_pustulata`, `Ptychopetalum_petiolatum` —
+  parent pages whose material is carried on the variety pages, as intended.
+- `Strombosia_pustulata_var_lucida` — Villiers gives no material at all; the
+  type is Zairean and the variety is marked *à rechercher au Cameroun et au
+  Gabon*.
+
+The reciprocal check (pages with a `## Specimens examined` section but no
+**Gabon** heading) returned six pages, all correct: taxa genuinely absent from
+Gabon or varieties with Cameroonian material only. Note the Gabonese heading is
+*also* missing from the scan under *Strombosia pustulata* var. *pustulata*
+(p. 141), but that list had already been picked up correctly.
+
+A bug was found and fixed in the process: adding `## Specimens examined` to the
+species *template* in this file truncated the template, because the schema
+extractor treated headings inside fenced code blocks as section boundaries. The
+model stopped seeing `## Source` and every page was rejected for missing it.
+The extractor now ignores headings inside fences.
+
+### Octoknema — specimens from the monograph
+
+Specimen lists for all 8 *Octoknema* pages taken from Gosline & Malécot (2011)
+rather than from Vol 20, since the monograph supersedes it. Grouped by country
+and recorded verbatim. `countries` frontmatter regenerated from those lists:
+
+| Species | Countries |
+|---------|-----------|
+| *O. affinis* | Cameroon, Gabon, Nigeria |
+| *O. aruwimiensis* | Cameroon, CAR, DR Congo, Gabon |
+| *O. belingensis* | Gabon |
+| *O. chailluensis* | Gabon, Republic of the Congo |
+| *O. dinklagei* | Cameroon |
+| *O. genovefae* | Cameroon, Equatorial Guinea |
+| *O. klaineana* | Gabon |
+| *O. ogoouensis* | Gabon |
+
+*O. affinis* authority corrected again: **Pierre ex Tiegh.**, not Tiegh. alone.
+
+### Family names on genus pages
+
+Every genus page now shows both families in its header line —
+`**Family**: [[Olacaceae]] *sensu lato* · **Current placement**: Coulaceae` —
+with `family` (source usage) and `family_current` (modern placement) in
+frontmatter. Applied to all 15 genera. The Families list in `index.md` now
+names the segregates for [[Olacaceae]] and [[Octoknemaceae]]. Recorded as a
+convention in the naming section above.
+
+## [2026-07-29] synthesis | Vegetative key to Heisteria
+
+Added a sterile-material key to `genera/Heisteria.md`, covering all three
+African species (*parvifolia*, *trillesiana*, *zimmereri*), all of which occur
+in both Cameroon and Gabon.
+
+Villiers keys the genus on the fruiting calyx, so this key is synthesised from
+the three species descriptions rather than copied. Every character is verbatim
+from a description; none is inferred.
+
+Reliability is uneven and is flagged on the page:
+- Lead 1 (*zimmereri*: granular blade, venation indistinct on both faces) is
+  Villiers' own vegetative character and is sound.
+- Couplet 2 (*parvifolia* vs *trillesiana*) rests on nervule prominence,
+  secondary-nerve count and anastomosis distance. Villiers states that
+  *trillesiana* "seems intermediate" between the other two and is very
+  difficult to separate from either in the absence of fruit, and that leaf
+  characters in *parvifolia* are highly variable. Indicative, not diagnostic.
+- A bark table is included: *parvifolia* has a pink slash and finely cracked
+  bark, *trillesiana* is scaly over a russet ground. No bark is described for
+  *zimmereri*.
+
+Untested against herbarium material.
+
+## [2026-07-29] re-ingest | Octoknema monograph (Gosline & Malécot 2011)
+
+The 2011 monograph was never ingested as a source. It was read ad hoc with
+PyMuPDF text extraction to answer two specific questions — the nomenclatural
+corrections, then the specimen lists — and each pass took only what was asked
+for. No source bundle was created, so there was nothing for the normal ingest
+path to work from.
+
+Consequences, now fixed:
+
+- **Four of the eight species pages had no description at all.** The four that
+  did (*affinis*, *dinklagei*, *genovefae*, *klaineana*) got theirs from the
+  Vol 20 OCR via the bulk runner. The four monograph-only species
+  (*aruwimiensis*, *belingensis*, *chailluensis*, *ogoouensis*) had no
+  description source in the pipeline and received only a short diagnosis.
+- **No illustrations were pulled.** PyMuPDF text extraction returns no images,
+  and the article ingest path that produces a `figures/` directory was never
+  run. The monograph carries **eight full-page line-drawing plates and six
+  distribution maps**; three of the plates illustrate exactly the bare pages
+  (*belingensis* Fig. 2, *chailluensis* Fig. 4, *ogoouensis* Fig. 7).
+- Raw extracted text had been pasted into specimen lists without cleaning.
+  `Octoknema_belingensis` carried two figure captions and page furniture inside
+  its specimen list, one caption for a different species (*O. bakossiensis*).
+  `Octoknema_aruwimiensis` had a Map 5 caption spliced mid-list.
+
+Created `ocr_output/articles/kew_bulletin_2011_octoknema/pymupdf/` —
+`text.md` (152 KB), `figures/` (14 images; 8 plates, 6 maps), `figures.md`
+with verbatim captions, `metadata.json`.
+
+Rewrote all four bare pages with the full descriptions, Latin diagnoses, IPNI
+LSIDs, types, habitat, IUCN assessments and plates.
+
+Errors caught during the rewrite, both mine:
+- I wrote `CR B1ab(iii)+B2ab(iii)` and "montane forest" for *O. belingensis*
+  before checking. The monograph gives **CR B2ab(iii)** and "rocky bed of
+  permanent creek in closed high forest, 850 m". Corrected.
+- `O. aruwimiensis` carried `habit: tree to 12 m`, contradicting the
+  description's "tree to 20 m tall, 45 cm diam."; and `countries` omitted the
+  Republic of the Congo although the distribution statement names it. The
+  Congo-Brazzaville record is *Descoings 8042*, which the monograph files under
+  Congo (Kinshasa), Equateur — but the Alima and Likouala are Congo-Brazzaville
+  rivers and Fort Rousset is now Owando. Flagged on the page.
+
+### Still outstanding — in-region species with no page
+
+The monograph recognises **14 species** plus four unnamed. The wiki has pages
+for 8. Four of the missing taxa are **in region** and were simply never
+created:
+
+| Taxon | Range | Plate |
+|-------|-------|-------|
+| *O. bakossiensis* Gosline & Malécot | SW Cameroon, Bakossi Mts | Fig. 1 |
+| *O. mokoko* Gosline & Malécot | Cameroon, Mokoko Forest Reserve, W of Mt Cameroon | Fig. 6 |
+| *O.* sp. A | SW Cameroon toward the Nigerian border | — |
+| *O.* sp. B | Cameroon, Mt Kupe | — |
+
+Out of region and lower priority: *O. borealis* (Guinea to Ghana, Fig. 3),
+*O. hulstaertiana* (DRC, Kasai-Oriental), *O. kivuensis* (Kivu, Fig. 5),
+*O. orientalis* (Tanzania, Fig. 8), *O.* sp. C (Congo R.), *O.* sp. D (Ivory
+Coast/Liberia).
+
+Also unresolved: *O. genovefae* carries `Equatorial Guinea` in `countries`, but
+the monograph says only "possibly also Rio Muni". That should probably move to
+`range_note` — recording a possibility as an occurrence is exactly the kind of
+overreach the distribution rules exist to prevent.
+## [2026-08-03] ingest | Engomegoma protologue excerpt (pp. 113–117)
+
+Source: `sources/articles/Engomegoma` (five photographed pages). Created a
+readable transcription in `text.md`. Updated `genera/Engomegoma.md` and
+`species/Engomegoma_gordonii.md` with the diagnosis, full taxonomic
+description, type, habitat, localities, specimens, etymology and Figs. 1–3.
+Corrected the unsupported Cameroon range in the stub to central Gabon. The
+specialized anatomical and palynological sections after the taxonomic
+treatment are outside the project's scope.
+## [2026-08-03] ingest | Flagellariaceae (Vol 28)
+
+Source: `sources/Flagellariaceae_vol28_paddle` (PaddleOCRVL, 8 KB treatment
+text, one plate). Created `families/Flagellariaceae.md`,
+`genera/Flagellaria.md`, `species/Flagellaria_guineensis.md` and
+`volumes/vol28.md`; updated `index.md`. The single-species treatment was
+translated from French and includes the full description, synonymy, type,
+ecology, all Gabon specimens and Plate 13. Volume and individual-treatment
+citations follow the supplied official format and DOI
+10.5281/zenodo.11061444.
+## [2026-08-03] ingest | Vol 28 completion batch
+
+Sources: `sources/Pandanaceae_vol28_paddle`,
+`sources/Amaryllidaceae_vol28_paddle`, and
+`sources/Hypoxidaceae_vol28_paddle`. Created 3 family pages, 5 genus pages and
+13 accepted-species pages; updated `volumes/vol28.md`, `index.md` and
+`overview.md`. Preserved *Crinum* sp. A as a probable-hybrid account within
+the genus page rather than counting it as an accepted species. Preserved
+*Pandanus candelabrum* as requiring confirmation in Gabon. Corrected batch
+author defects before acceptance: malformed YAML delimiters on 12 pages,
+inferred subdivisions on 2 pages, physical-versus-printed page offsets, and a
+segmentation spill from *P. gabonensis* into *P. parvicentralis*. All 15
+botanical plates in Vol 28 are linked to relevant species pages. Volume 28 is
+now complete: 4 families, 6 genera and 14 accepted species.
+## [2026-08-03] correction | Vol 28 regional scope and missing p. 12
+
+Added `species/Pandanus_candelabrum.md` from the Nigerian and Cameroonian
+information in Huynh's treatment. Its Gabon occurrence remains unconfirmed,
+but that is not grounds for exclusion: the wiki covers the wider Lower Guinea
+and western Central African region. Revised the [[Pandanus]] and
+[[Pandanaceae]] tables from Gabon-only counts to 4 regionally documented
+species, 3 confirmed in Gabon. Documented that printed p. 12 was obliterated
+during scanning, leaving the latter part of the *P. parvicentralis* treatment
+unrecoverable and its wiki description necessarily incomplete. Updated the
+volume page, index and overview.
+
+## [2026-08-03] ingest | Vol 52 completion batch
+
+Sources: seven `sources/*_vol52_liteparse` treatment bundles. Created 7 family
+pages, 7 genus pages, 15 species or infraspecific-taxon pages and `volumes/vol52.md`;
+updated `index.md` and `overview.md`. The volume covers freshwater, marine and
+wetland lineages in Ceratophyllales, Alismatales, Caryophyllales, Saxifragales
+and Myrtales. Repaired deterministic segmentation for unnumbered born-digital
+headings with a damaged genus authority and authority punctuation. All eleven
+botanical plates are linked. Volume 52 is complete.
+
+## [2026-08-03] ingest | Simaroubaceae (Vol 3)
+
+Source: `sources/Simaroubaceae_vol3_paddle` (PaddleOCRVL, 26 KB treatment,
+four botanical plates). Created the family page, six genus pages, six species
+pages and the partial `volumes/vol03.md`; updated `index.md` and `overview.md`.
+Translated the full family key and species descriptions from French, retained
+all measurements, type and specimen information, vernacular names and uses,
+and linked every plate. Volume 3 now has 1 of 3 families ingested; Irvingiaceae
+and Burseraceae remain.
+
+## [2026-08-03] ingest | Irvingiaceae and Burseraceae (Vol 3 completion)
+
+Sources: `sources/Irvingiaceae_vol3_paddle` and
+`sources/Burseraceae_vol3_paddle`. Created 2 family pages, 7 genus pages and
+18 taxon pages; completed `volumes/vol03.md` and updated the index and
+overview. The ingest retains the uncertain *Irvingia* cf. *excelsa* account,
+the taxonomic cautions around *Klainedoxa* and *Dacryodes le-testui*, economic
+and ecological information for okoumé, and all botanical plates. Volume 3 is
+now complete: 3 families, 13 genera and 24 taxon accounts.
+
+## [2026-08-03] ingest | Vol 4 completion batch
+
+Sources: `sources/Melianthaceae_vol4_paddle`,
+`sources/Balsaminaceae_vol4_paddle`, and `sources/Rhamnaceae_vol4_paddle`.
+Created 3 family pages, 6 genus pages and 24 taxon pages, plus
+`volumes/vol04.md`; updated the index and overview. Recovered *Impatiens
+palpebrata*, whose unformatted heading was missed by deterministic
+segmentation, retained the possible hybrid *I. oumina*, and represented the
+western *Maesopsis eminii* treatment at subspecies rank. All botanical plates
+are linked. Volume 4 is complete.
+
+## [2026-08-03] ingest | Vol 6 multifamily completion
+
+Sources: `sources/Rutaceae_vol6_paddle`,
+`sources/Zygophyllaceae_vol6_paddle`, and
+`sources/Balanitaceae_vol6_paddle` (local Paddle OCR). Created 3 family pages,
+10 genus pages, 22 taxon pages and `volumes/vol06.md`; updated the index and
+overview. Manual heading reconstruction recovered the full Rutaceae scope
+missed by the machine taxon index: 20 accounts across 8 genera. Parenthesized
+regional comparisons and cultivated *Citrus* were not promoted to Gabon taxon
+pages. Uncertainty is retained for *Oricia lecomteana*, the unidentified
+*Vepris*, *Afraegle gabonensis*, *A. paniculata*, and the apparently Ghanaian
+*Tribulus terrestris* record. Botanical plates are linked. Volume 6 is complete.
+
+## [2026-08-03] ingest | Vol 7 eight-family batch
+
+Sources: eight local Paddle OCR family bundles, from
+`sources/Polygonaceae_vol7_paddle` through
+`sources/Caryophyllaceae_vol7_paddle`. Created 7 new family pages, updated the
+existing [[Aizoaceae]] page with its older treatment, and created 18 genus and
+29 taxon pages plus `volumes/vol07.md`. Separately described varieties of
+*Cyathula prostrata* and *Achyranthes aspera* were retained as taxon pages;
+the typical *A. aspera* account is flagged as unconfirmed in Gabon. Historical
+family placements for *Mollugo*, *Hilleria*, *Chenopodium* and *Talinum* are
+stated alongside current placements. All eleven botanical plates are linked.
+Volume 7 is complete.
+
+## [2026-08-03] ingest | Vol 9 small-family group
+
+Sources: `sources/Musaceae_vol9_paddle`,
+`sources/Strelitziaceae_vol9_paddle`, and
+`sources/Cannaceae_vol9_paddle` (local Paddle OCR). Created 3 family pages,
+4 genus pages, 5 taxon pages and the partial `volumes/vol09.md`. The Musaceae
+treatment is represented through the two biological parental species behind
+the cultivated clone groups rather than the obsolete *Musa sapientum* versus
+*M. paradisiaca* split. All records in Musaceae and Strelitziaceae are marked
+as cultivated introductions; *Canna bidentata* is marked naturalized. The
+large Zingiberaceae and Marantaceae treatments have been inventoried and remain
+in progress; Volume 9 is not yet marked complete.
+
+## [2026-08-03] ingest | Zingiberaceae first half (Vol 9)
+
+Source: `sources/Zingiberaceae_vol9_paddle` (local Paddle OCR). Created the
+partial family page plus genus pages for [[Curcuma]], [[Zingiber]] and
+[[Renealmia]], and 9 taxon pages. The cultivated Asian turmeric and ginger are
+marked introduced; all seven *Renealmia* accounts are represented, including
+the explicitly unconfirmed Gabon occurrence of *R. cabraei*. The Aframomum,
+Phaeomeria and Costus sections remain in progress, so neither the family nor
+Volume 9 is marked complete.
+
+## [2026-08-03] ingest | Aframomum (Vol 9)
+
+Source: `sources/Zingiberaceae_vol9_paddle` (local Paddle OCR). Created the
+[[Aframomum]] genus page and all 19 species pages, retaining measurements,
+habitat and distribution cautions, the three species newly described in the
+volume, and the diagnostic ribbed fruit of *A. aulacocarpos*. Linked all
+relevant plates VII–XII. Zingiberaceae remains in progress only for
+*Phaeomeria* and *Costus*.
+
+## [2026-08-03] ingest | Zingiberaceae completion (Vol 9)
+
+Source: `sources/Zingiberaceae_vol9_paddle` (local Paddle OCR). Added the
+introduced [[Phaeomeria]] account and completed [[Costus]] with all 17 species
+and the two separately described varieties. Retained the historical placement
+of *Costus* in Zingiberaceae while recording its current Costaceae placement;
+retained the probable rather than confirmed Gabon status of *C. lucanusianus*
+var. *major* and did not manufacture a Gabon record for the Río Muni-only
+*C. lateriflorus*. Plates XIII–XX are linked. Zingiberaceae is complete;
+Marantaceae is the sole family still pending in Volume 9.

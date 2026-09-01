@@ -8,11 +8,13 @@ subgenus: Campanella
 section: Brachiatae
 species_complex: "Clematis brachiata group"
 synonyms: []
-distribution_gabon: [Nyanga]
-distribution_other: [Senegal to Ethiopia, Yemen, Saudi Arabia, southwards to northern Angola, Zambia, northern Mozambique]
 habit: liana
 habitat: [forest edge, savanna]
 altitude_m: "100–400 (Gabon, approximate); 600–3000 elsewhere"
+countries: [Gabon, Saudi Arabia, Senegal to Ethiopia, Yemen, Zambia, northern Mozambique, southwards to northern Angola]
+subdivisions:
+  Gabon: [Nyanga]
+in_region: true
 treatments:
   - vol: 60
     pages: "89–91"

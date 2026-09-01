@@ -7,10 +7,10 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Angola, Luanda Province, coastal region, 1903, fr., Gossweiler 789 (holotype: P; isotypes: BM, FHO, K)"
 synonyms: []
-distribution_gabon: []
-distribution_other: [Angola]
 habit: tree
 habitat: [coastal forest, riverine forest]
+countries: [Angola]
+in_region: true
 treatments:
   - kind: article
     year: 2025

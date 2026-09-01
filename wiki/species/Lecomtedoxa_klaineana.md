@@ -7,11 +7,13 @@ family: Sapotaceae
 synonyms:
   - Mimusops klaineana Pierre ex Engl.
   - Acola missionis Pierre msc.
-distribution_gabon: [Estuaire]
-distribution_other: []
 habit: tree
 habitat: [coastal humid forest]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Estuaire]
+in_region: true
 treatments:
   - vol: 1
     pages: "64-65"

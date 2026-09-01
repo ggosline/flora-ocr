@@ -5,11 +5,13 @@ authority: Engl.
 genus: Syntriandrium
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Estuaire, Ogooué-Lolo]
-distribution_other: [Côte d'Ivoire, Nigeria, Cameroon, Democratic Republic of the Congo, Central African Republic]
 habit: liana
 habitat: [secondary forest]
 altitude_m: "up to 300 (Gabon); up to 600 elsewhere"
+countries: [Cameroon, Central African Republic, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Nigeria]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "72"

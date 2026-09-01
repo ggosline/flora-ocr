@@ -6,6 +6,9 @@ order: Caryophyllales
 genera_in_gabon: 1
 species_in_gabon: 1
 treatments:
+  - vol: 7
+    year: 1963
+    source: sources/Aizoaceae_vol7_paddle
   - vol: 42
     year: 2011
     source: sources/Aizoaceae_vol42_liteparse
@@ -33,6 +36,14 @@ recognises only one genus, *Sesuvium*, represented by a single species.
 
 ## Treatment
 
+### Volume 7 (1963)
+
+The older treatment placed [[Mollugo]] here and recorded
+[[Mollugo_nudicaulis|*M. nudicaulis*]] from Gabon. *Mollugo* is now placed in
+Molluginaceae, and the later Vol. 42 family concept excludes it.
+
+### Volume 42 (2011)
+
 **Volume**: [[vol42]]  
 **Year**: 2011  
 **Source**: `sources/Aizoaceae_vol42_liteparse`
@@ -50,3 +61,4 @@ small, herbaceous, largely littoral element of the flora.
 ## See also
 
 - [[vol42]]
+- [[vol07]]

@@ -5,11 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Pseudopachystela
 family: Sapotaceae
 synonyms: []
-distribution_gabon: [Ogooue-Ivindo, Ogooue-Lolo]
-distribution_other: []
 habit: shrub
 habitat: [cauliflorous humid forest]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 1
     pages: "129-130"

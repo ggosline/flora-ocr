@@ -5,10 +5,12 @@ authority: De Wild.
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Nyanga]
-distribution_other: [Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Central African Republic, Republic of the Congo, DRC, Angola]
 habit: tree or shrub
 habitat: [semi-deciduous forest, periodically flooded forest, terra firma forest]
+countries: [Angola, Cameroon, Central African Republic, Côte d'Ivoire, Democratic Republic of the Congo, Gabon, Ghana, Liberia, Nigeria, Republic of the Congo]
+subdivisions:
+  Gabon: [Nyanga]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

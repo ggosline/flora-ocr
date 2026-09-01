@@ -6,11 +6,14 @@ genus: Penianthus
 family: Menispermaceae
 synonyms:
   - "Penianthus klaineanus Pierre, Bull. Mens. Soc. Linn. Paris n.s. 1: 76 (1898)"
-distribution_gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
-distribution_other: [Nigeria, Cameroon, Equatorial Guinea, Republic of the Congo, Democratic Republic of the Congo, Central African Republic, Angola (Cabinda)]
 habit: shrub
 habitat: [primary forest, secondary forest, gallery forest]
 altitude_m: "up to 600 (Gabon); up to 1050 elsewhere"
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Nigeria, Republic of the Congo]
+subdivisions:
+  Angola: [Cabinda]
+  Gabon: [Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime, Woleu-Ntem]
+in_region: true
 treatments:
   - vol: 60
     pages: "59"

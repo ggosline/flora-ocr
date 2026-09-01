@@ -7,11 +7,13 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Gabon, Ogooué-Ivindo, Parc National de l'Ivindo, station de recherche Ipassa, 477 m, 14 Mar 2019, fr., Bidault et al. 4494 (holotype: MO; isotypes: BR, BRLU, LBV, P, WAG)"
 synonyms: []
-distribution_gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
-distribution_other: [Cameroon, Central African Republic, Republic of the Congo, DRC]
 habit: treelet
 habitat: [riverine forest, periodically inundated forest, Gilbertiodendron dewevrei forest]
 altitude_m: "350-700"
+countries: [Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+subdivisions:
+  Gabon: [Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+in_region: true
 treatments:
   - kind: article
     year: 2025

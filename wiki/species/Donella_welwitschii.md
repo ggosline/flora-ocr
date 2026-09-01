@@ -9,11 +9,13 @@ synonyms:
   - Micropholis angolensis Pierre
   - Donella klainei Pierre msc.
   - Chrysophyllum klainei (Pierre) Engl.
-distribution_gabon: [Estuaire, Ogooue-Lolo]
-distribution_other: [Angola, Oubangui]
 habit: liana
 habitat: [forest, gallery forest]
 altitude_m: ""
+countries: [Angola, Gabon, Oubangui]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 1
     pages: "149-150"

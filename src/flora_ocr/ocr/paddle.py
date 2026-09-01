@@ -185,6 +185,11 @@ def _taxon_heading_level(text: str) -> str | None:
 _UPPER = r'[A-Z\u00C0-\u00DD]'
 _FAM_RE = re.compile(
     rf'^#{{1,4}}\s+'
+    # French title pages declare the family as "FAMILLE DES RUBIAC\u00C9ES" rather
+    # than a bare "RUBIAC\u00C9ES". Without this the heading never matches, no family
+    # is detected, and the whole volume silently falls back to vol{N}_paddle
+    # instead of splitting into {Family}_vol{N}_paddle.
+    rf'(?:FAMILLE\s+DES?\s+)?'
     rf'('
     rf'{_UPPER}{{4,}}C[EÉ][AEÉ][ES]S?'                                  # ALL-CAPS -CEAE/-CÉES
     rf'|'
@@ -360,12 +365,18 @@ def _split_by_family(
     heading, so front matter (title page, TOC, abbreviations, genus
     declaration, key intro) is not dropped. Subsequent families start
     at their own heading.
+
+    A family can be detected at several offsets (its real heading plus later
+    running headers, a specimen index, or a cross-reference). We *accumulate*
+    every slice belonging to a family rather than overwriting, so no text is
+    ever dropped — with a plain ``chunks[fam] = …`` the last (often tiny) slice
+    would silently discard the bulk assigned to an earlier occurrence.
     """
     chunks: dict[str, str] = {}
     for i, (fam, start) in enumerate(families):
         chunk_start = 0 if i == 0 else start
         chunk_end = families[i + 1][1] if i + 1 < len(families) else len(markdown)
-        chunks[fam] = markdown[chunk_start:chunk_end]
+        chunks[fam] = chunks.get(fam, "") + markdown[chunk_start:chunk_end]
     return chunks
 
 

@@ -5,10 +5,12 @@ authority: De Wild.
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Ogooue-Lolo, Ogooue-Ivindo]
-distribution_other: [Cameroon, DRC]
 habit: tree
 habitat: [humid forest]
+countries: [Cameroon, Democratic Republic of the Congo, Gabon]
+subdivisions:
+  Gabon: [Ogooué-Lolo, Ogooué-Ivindo]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

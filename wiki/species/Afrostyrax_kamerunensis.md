@@ -5,11 +5,12 @@ authority: Perkins & Gilg
 genus: Afrostyrax
 family: Huaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [Cameroon, Equatorial Guinea, Congo (Brazzaville), Democratic Republic of the Congo]
 habit: shrub
 habitat: [humid dense forest]
 altitude_m: "to 350"
+countries: [Cameroon, Democratic Republic of the Congo, Equatorial Guinea, Republic of the Congo]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 38
     pages: "27-28"

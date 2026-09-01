@@ -6,11 +6,13 @@ genus: Wildemaniodoxa
 family: Sapotaceae
 synonyms:
   - Chrysophyllum laurentii De Wild.
-distribution_gabon: []
-distribution_other: [Congo Basin, Angola]
 habit: tree
 habitat: [river margins]
 altitude_m: ""
+countries: [Angola]
+range_note: "Congo Basin"
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 1
     pages: "95-96"

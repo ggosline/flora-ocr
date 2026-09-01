@@ -5,11 +5,13 @@ authority: Engl.
 genus: Manilkara
 family: Sapotaceae
 synonyms: [Mimusops welwitschii]
-distribution_gabon: [Nyanga]
-distribution_other: [Angola, Cote d'Ivoire]
 habit: small tree
 habitat: [littoral white sand, riparian thicket]
 altitude_m: ""
+countries: [Angola, Côte d'Ivoire, Gabon]
+subdivisions:
+  Gabon: [Nyanga]
+in_region: true
 treatments:
   - vol: 1
     pages: "40-41"

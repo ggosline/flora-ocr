@@ -7,11 +7,13 @@ family: Dilleniaceae
 section: Akara
 synonyms:
   - "Tetracera mayumbensis Exell, J. Bot. 64, Suppl. 1: 2 (1926)"
-distribution_gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
-distribution_other: [Cameroon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic, Angola]
 habit: liana
 habitat: [primary forest, secondary forest, forest edge, savanna]
 altitude_m: "450–500 (Gabon); 0–600 elsewhere"
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+subdivisions:
+  Gabon: [Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem]
+in_region: true
 treatments:
   - vol: 60
     pages: "19–20"

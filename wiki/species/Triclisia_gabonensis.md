@@ -5,13 +5,15 @@ authority: Jongkind & Breteler
 genus: Triclisia
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Haut-Ogooué, Nyanga, Ogooué-Lolo]
-distribution_other: []
 habit: liana
 habitat: [secondary forest]
 altitude_m: "250–650"
 endemic_to_gabon: true
 type_locality_gabon: true
+countries: [Gabon]
+subdivisions:
+  Gabon: [Haut-Ogooué, Nyanga, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 60
     pages: "85"

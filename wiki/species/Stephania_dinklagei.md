@@ -6,11 +6,13 @@ genus: Stephania
 family: Menispermaceae
 synonyms:
   - "Cissampelos dinklagei Engl., Bot. Jahrb. 26: 399 (1899)"
-distribution_gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
-distribution_other: [tropical Africa from Guinea east to Tanzania and south to Angola]
 habit: liana
 habitat: [secondary forest, gallery forest]
 altitude_m: "60–500 (Gabon); up to 1500 elsewhere"
+countries: [Gabon, tropical Africa from Guinea east to Tanzania and south to Angola]
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ogooué-Ivindo]
+in_region: true
 treatments:
   - vol: 60
     pages: "66–68"

@@ -6,11 +6,14 @@ genus: Gambeya
 family: Sapotaceae
 synonyms:
   - Chrysophyllum subnudum Baker ex Oliv.
-distribution_gabon: [Estuaire, Ogooue-Lolo, Ogooue-Maritime]
-distribution_other: [Sierra Leone, Uganda, Congo Basin]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Gabon, Sierra Leone, Uganda]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Lolo, Ogooué-Maritime]
+range_note: "Congo Basin"
+in_region: true
 treatments:
   - vol: 1
     pages: "136-137"

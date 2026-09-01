@@ -8,11 +8,13 @@ synonyms:
   - Donella jollyana Pierre msc.
   - Chrysophyllum pruniforme (Pierre) Engl.
   - Donella parvifolia H. Lecomte
-distribution_gabon: [Estuaire, Nyanga, Ngounie]
-distribution_other: [Ivory Coast]
 habit: tree
 habitat: [terra firme humid forest]
 altitude_m: ""
+countries: [Côte d'Ivoire, Gabon]
+subdivisions:
+  Gabon: [Estuaire, Nyanga, Ngounié]
+in_region: true
 treatments:
   - vol: 1
     pages: "146-149"

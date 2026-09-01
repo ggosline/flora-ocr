@@ -5,11 +5,13 @@ authority: Breteler
 genus: Kolobopetalum
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Ngounié, Nyanga]
-distribution_other: [Republic of the Congo]
 habit: liana
 habitat: [forest edge, secondary forest, gallery forest]
 altitude_m: "40–100"
+countries: [Gabon, Republic of the Congo]
+subdivisions:
+  Gabon: [Ngounié, Nyanga]
+in_region: true
 treatments:
   - vol: 60
     pages: "53"

@@ -6,11 +6,13 @@ genus: Ancistrocladus
 family: Ancistrocladaceae
 synonyms:
   - "Ancistrocladus uncinatus Hutch. & Dalziel, Fl. W. trop. Afr. 1: 196 (1927)"
-distribution_gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
-distribution_other: [Nigeria, Cameroon]
 habit: liana
 habitat: [forest, secondary forest, sandy soils, roadside, streamside]
 altitude_m: "20–600"
+countries: [Cameroon, Gabon, Nigeria]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 60
     pages: "5–6"

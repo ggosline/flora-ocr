@@ -7,11 +7,11 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Kenya, Coast Province, Lamu District, Witu Forest, 16 m, 17 Nov 1988, male bud and male flowers, Robertson & Luke 5528 (holotype: MO; isotypes: EA, K, US, WAG)"
 synonyms: []
-distribution_gabon: []
-distribution_other: [Kenya, Tanzania, Mozambique]
 habit: tree or shrub
 habitat: [coastal forest, lowland riverine forest]
 altitude_m: "0-250"
+countries: [Kenya, Mozambique, Tanzania]
+in_region: false
 treatments:
   - kind: article
     year: 2025

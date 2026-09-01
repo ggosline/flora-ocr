@@ -10,11 +10,13 @@ synonyms:
   - Pouteria altissima (A. Chev.) Baehni
   - Hormogyne gabonensis A. Chev.
   - Sideroxylon gabonense H. Lec. ex Pellegrin
-distribution_gabon: [Estuaire, Nyanga]
-distribution_other: [Guinea, Ivory Coast, Bangui region]
 habit: tree
 habitat: [semi-deciduous forest margins]
 altitude_m: ""
+countries: [Bangui region, Côte d'Ivoire, Gabon, Guinea]
+subdivisions:
+  Gabon: [Estuaire, Nyanga]
+in_region: true
 treatments:
   - vol: 1
     pages: "153-154"

@@ -7,11 +7,11 @@ family: Ebenaceae
 status: spec. nov.
 type_specimen: "Cameroon, Southwest Region, Mundemba, Korup Project Headquarters, 200 m altitude, fl. male, 10 Dec 1994, Thomas D.W. 10285 (holotype: YA; isotypes: K, MO, SCA, WAG, P, BR, G)"
 synonyms: []
-distribution_gabon: []
-distribution_other: [Cameroon]
 habit: tree
 habitat: [lowland evergreen rainforest, well-drained forest]
 altitude_m: "160-500"
+countries: [Cameroon]
+in_region: true
 treatments:
   - kind: article
     year: 2009

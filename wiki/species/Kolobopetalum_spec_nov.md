@@ -5,12 +5,14 @@ authority: ""
 genus: Kolobopetalum
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Moyen-Ogooué]
-distribution_other: []
 habit: liana
 habitat: [forest gap on slope]
 altitude_m: "45"
 endemic_to_gabon: true
+countries: [Gabon]
+subdivisions:
+  Gabon: [Moyen-Ogooué]
+in_region: true
 treatments:
   - vol: 60
     pages: "53–55"

@@ -5,11 +5,13 @@ authority: Aubrev. & Pellegr.
 genus: Gambeya
 family: Sapotaceae
 synonyms: []
-distribution_gabon: [Ogooue-Lolo, Woleu-Ntem]
-distribution_other: [Oubangui, Cameroon]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Cameroon, Gabon, Oubangui]
+subdivisions:
+  Gabon: [Ogooué-Lolo, Woleu-Ntem]
+in_region: true
 treatments:
   - vol: 1
     pages: "135-136"

@@ -5,11 +5,13 @@ authority: Miers
 genus: Synclisia
 family: Menispermaceae
 synonyms: []
-distribution_gabon: [Estuaire, Ogooué-Maritime]
-distribution_other: [southern Nigeria, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic, Angola]
 habit: liana
 habitat: [secondary forest, degraded forest]
 altitude_m: "up to 100 (Gabon); up to 500 elsewhere"
+countries: [Angola, Cameroon, Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo, southern Nigeria]
+subdivisions:
+  Gabon: [Estuaire, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 60
     pages: "70"

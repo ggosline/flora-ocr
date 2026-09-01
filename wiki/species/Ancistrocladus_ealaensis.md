@@ -5,11 +5,13 @@ authority: J.Léonard
 genus: Ancistrocladus
 family: Ancistrocladaceae
 synonyms: []
-distribution_gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo]
-distribution_other: [Republic of the Congo, Democratic Republic of the Congo, Central African Republic]
 habit: liana
 habitat: [lake margin, riverine forest, dry ridge, secondary forest]
 altitude_m: "20–400"
+countries: [Central African Republic, Democratic Republic of the Congo, Gabon, Republic of the Congo]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo]
+in_region: true
 treatments:
   - vol: 60
     pages: "5"

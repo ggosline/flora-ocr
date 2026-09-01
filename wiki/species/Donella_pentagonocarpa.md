@@ -8,11 +8,13 @@ synonyms:
   - Chrysophyllum pentagonocarpum Engl. & Krause
   - Chrysophyllum letestuanum A. Chev.
   - Donella le-testuana (A. Chev.) Pellegr.
-distribution_gabon: [Nyanga]
-distribution_other: [Ivory Coast, Spanish Guinea]
 habit: tree
 habitat: [humid forest]
 altitude_m: ""
+countries: [Côte d'Ivoire, Gabon, Spanish Guinea]
+subdivisions:
+  Gabon: [Nyanga]
+in_region: true
 treatments:
   - vol: 1
     pages: "145-146"

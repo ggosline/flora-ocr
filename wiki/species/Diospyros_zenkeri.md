@@ -5,10 +5,12 @@ authority: "(Gurke) F. White"
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Estuaire]
-distribution_other: [Nigeria, Cameroon, Republic of the Congo, DRC]
 habit: tree or shrub
 habitat: [evergreen humid forest]
+countries: [Cameroon, Democratic Republic of the Congo, Gabon, Nigeria, Republic of the Congo]
+subdivisions:
+  Gabon: [Estuaire]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

@@ -5,10 +5,12 @@ authority: A. Chev.
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: [Nyanga, Ogooue-Lolo]
-distribution_other: [Sierra Leone, Ivory Coast, Ghana, Cameroon, Republic of the Congo]
 habit: shrub or tree
 habitat: [evergreen humid forest]
+countries: [Cameroon, Côte d'Ivoire, Gabon, Ghana, Republic of the Congo, Sierra Leone]
+subdivisions:
+  Gabon: [Nyanga, Ogooué-Lolo]
+in_region: true
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

@@ -5,11 +5,13 @@ authority: Pellegr.
 genus: Ancistrocladus
 family: Ancistrocladaceae
 synonyms: []
-distribution_gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
-distribution_other: [Nigeria, Cameroon, Republic of the Congo]
 habit: liana
 habitat: [mature forest, ridge, streamside]
 altitude_m: "125–450 (Gabon); to 950 elsewhere"
+countries: [Cameroon, Gabon, Nigeria, Republic of the Congo]
+subdivisions:
+  Gabon: [Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime]
+in_region: true
 treatments:
   - vol: 60
     pages: "6–7"

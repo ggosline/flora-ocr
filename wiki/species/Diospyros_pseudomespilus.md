@@ -5,10 +5,11 @@ authority: Mildbr.
 genus: Diospyros
 family: Ebenaceae
 synonyms: []
-distribution_gabon: []
-distribution_other: [Cameroon, Nigeria, Central African Republic, Ivory Coast]
 habit: shrub or tree
 habitat: [evergreen humid forest]
+countries: [Cameroon, Central African Republic, Côte d'Ivoire, Nigeria]
+in_region: true
+countries_incomplete: true  # source gives localities but no country/province list; needs review
 treatments:
   - vol: 18
     source: sources/Ebenaceae_vol18_mineru

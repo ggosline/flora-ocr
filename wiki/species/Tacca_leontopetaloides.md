@@ -5,11 +5,14 @@ authority: "(L.) Kuntze"
 genus: Tacca
 family: Taccaceae
 synonyms: [Tacca pinnatifida, Tacca involucrata]
-distribution_gabon: [coastal zone]
-distribution_other: [tropical Africa, Madagascar, tropical Asia, Pacific to Polynesia]
 habit: perennial herb
 habitat: [savanna, open forest, roadside, riverbank, marsh, gallery forest, beach, ruderal habitat]
 altitude_m: "mostly low altitude in Gabon; to 1450 elsewhere"
+countries: [Gabon, Madagascar, Pacific to Polynesia, tropical Asia]
+subdivisions:
+  Gabon: [coastal zone]
+range_note: "tropical Africa"
+in_region: true
 treatments:
   - vol: 38
     pages: "61-63"

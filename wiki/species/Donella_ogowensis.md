@@ -6,11 +6,13 @@ genus: Donella
 family: Sapotaceae
 synonyms:
   - Chrysophyllum ogowense A. Chev.
-distribution_gabon: [Moyen-Ogooue, Ogooue-Ivindo, lake region, Ogooue-Lolo, Ngounie]
-distribution_other: []
 habit: tree
 habitat: [riparian]
 altitude_m: ""
+countries: [Gabon]
+subdivisions:
+  Gabon: [Moyen-Ogooué, Ogooué-Ivindo, lake region, Ogooué-Lolo, Ngounié]
+in_region: true
 treatments:
   - vol: 1
     pages: "144-145"
