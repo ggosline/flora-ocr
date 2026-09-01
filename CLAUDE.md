@@ -36,12 +36,9 @@ Native runs ~10–13 s/page; through sglang it is ~1.3 s/page. Start the server,
 then point the OCR at it:
 
 ```bash
-# 1. server (leave running; ~13 GB on GPU 0). PATH must include the venv's bin,
-#    because flashinfer shells out to `ninja`.
-PATH=/mnt/e/venvs/sglang/bin:$PATH /mnt/e/venvs/sglang/bin/paddlex_genai_server \
-    --model_name PaddleOCR-VL-1.5-0.9B \
-    --model_dir ~/.paddlex/official_models/PaddleOCR-VL-1.5 \
-    --backend sglang --host 127.0.0.1 --port 8118
+# 1. server (~13 GB on GPU 0, ~40 s to become ready; reuses a live one)
+scripts/sglang_server.sh start            # also: stop | status | restart
+scripts/sglang_server.sh start --model-version v1.6
 
 # 2. OCR through it
 conda run -n ds_ocr2 python -m flora_ocr.ocr.paddle --vol 2 --vl-backend sglang-server
@@ -54,6 +51,11 @@ The `vllm-server` backend is **broken** — it dies on `KeyError('pixel_values')
 the engine goes with it, and every later page 500s into a poisoned checkpoint.
 paddlex pins `vllm==0.10.2`, which is the version that fails; the one published
 fix (HF discussion #28) is already applied upstream and does not help. Use sglang.
+
+Always stop the server with the script. sglang runs a worker tree (http_server,
+scheduler, detokenizer, inductor compile workers); killing the launcher alone
+orphans them, and they keep the port bound and ~13 GB on the GPU while `status`
+shows no pid. The script starts it under `setsid` and stops the process group.
 
 Beyond the documented install, the sglang venv needs: a CUDA torch (uv's
 `--torch-backend auto` resolves a `+cpu` build, because torchao 0.9.0 is CPU-only),
