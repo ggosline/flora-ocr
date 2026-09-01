@@ -299,26 +299,58 @@ def _family_names_in(heading: str) -> list[str]:
 
 
 def _detect_families(markdown: str) -> list[tuple[str, int]]:
-    """Return [(family_name, char_offset), …] for each family heading found.
+    """Return [(family_name, char_offset), …], one per family, at its treatment.
 
     Scans heading lines rather than the whole document, so a family named after
     a numeral ("# I. SALVINIACEAE") or after the first item of a comma list is
-    still found. Only the first occurrence of each family is kept — a name that
-    recurs as a sub-heading must not open a second chunk.
+    still found.
+
+    Choosing *which* occurrence becomes the split point matters as much as
+    finding the name. A family is typically named several times — on the cover,
+    in the contents, as a running header, and finally at its own treatment — and
+    two rules pick the right one:
+
+    * A heading naming more than one family is a contents listing, not a section
+      start, so it contributes no boundary. Without this every family on
+      "# ICACINACÉES, OLACACÉES, PENTADIPLANDRACÉES" shared one offset, which
+      gave vol 20 two zero-length chunks and let a third swallow the volume.
+    * Of a family's remaining occurrences, take the one opening the largest span
+      before another family is named. Taking the first put vol 24's
+      Chrysobalanaceae boundary in the front matter: a 77-byte chunk, with its
+      257 KB treatment handed to Scytopetalaceae.
     """
-    families: list[tuple[str, int]] = []
-    seen: set[str] = set()
+    candidates: list[tuple[int, str]] = []
     for m in _HEADING_LINE_RE.finditer(markdown):
         head = m.group(1).strip()
         if head.startswith('(') and head.endswith(')'):
             continue        # "# (CRUCIFERAE)" — a synonym of the line above it,
                             # not a family of its own
-        for name in _family_names_in(head):
+        names = _family_names_in(head)
+        if len(names) > 1:
+            continue        # a contents listing: recorded by _cover_families,
+                            # but it opens no treatment
+        for name in names:
             fam = _normalize_family(name)
-            if fam and fam not in seen:
-                seen.add(fam)
-                families.append((fam, m.start()))
-    return families
+            if fam:
+                candidates.append((m.start(), fam))
+    if not candidates:
+        return []
+    candidates.sort()
+
+    best: dict[str, tuple[int, int]] = {}       # family -> (offset, span)
+    for i, (offset, fam) in enumerate(candidates):
+        following = len(markdown)
+        for offset2, fam2 in candidates[i + 1:]:
+            if fam2 != fam:
+                following = offset2
+                break
+        span = following - offset
+        if fam not in best or span > best[fam][1]:
+            best[fam] = (offset, span)
+    return sorted(
+        ((fam, offset) for fam, (offset, _) in best.items()),
+        key=lambda pair: pair[1],
+    )
 
 
 def _cover_families(markdown: str, window: int = 20000) -> list[str]:
