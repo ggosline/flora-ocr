@@ -165,7 +165,7 @@
 - [[Zingiberaceae|Zingiberaceae]] — 45 species in Gabon
 - [[Zygophyllaceae|Zygophyllaceae]] — 0 species in Gabon
 
-## Genera (137)
+## Genera (145)
 
 - [[Achyranthes|Achyranthes]] — [[Amaranthaceae]]
 - [[Afraegle|Afraegle]] — [[Rutaceae]]
@@ -186,7 +186,9 @@
 - [[Autranella|Autranella]] — [[Sapotaceae]], 1 species in Gabon
 - [[Baillonella|Baillonella]] — [[Sapotaceae]], 1 species in Gabon
 - [[Balanites|Balanites]] — [[Balanitaceae]]
+- [[Baphia|Baphia]] — [[Leguminosae]]
 - [[Beirnaertia|Beirnaertia]] — [[Menispermaceae]], 1 species in Gabon
+- [[Berlinia|Berlinia]] — [[Leguminosae]]
 - [[Bersama|Bersama]] — [[Melianthaceae]]
 - [[Boerhaavia|Boerhaavia]] — [[Nyctaginaceae]]
 - [[Bougainvillea|Bougainvillea]] — [[Nyctaginaceae]]
@@ -202,10 +204,12 @@
 - [[Costus|Costus]] — [[Zingiberaceae]]
 - [[Coula|Coula]] — [[Olacaceae]], 1 species in Gabon
 - [[Crinum|Crinum]] — [[Amaryllidaceae]], 4 species in Gabon
+- [[Crotalaria|Crotalaria]] — [[Leguminosae]]
 - [[Curculigo|Curculigo]] — [[Hypoxidaceae]], 2 species in Gabon
 - [[Curcuma|Curcuma]] — [[Zingiberaceae]]
 - [[Cyathula|Cyathula]] — [[Amaranthaceae]]
 - [[Dacryodes|Dacryodes]] — [[Burseraceae]]
+- [[Dalbergia|Dalbergia]] — [[Leguminosae]]
 - [[Delpydora|Delpydora]] — [[Sapotaceae]], 1 species in Gabon
 - [[Desbordesia|Desbordesia]] — [[Irvingiaceae]]
 - [[Dialytheca|Dialytheca]] — [[Menispermaceae]], 1 species in Gabon
@@ -221,6 +225,7 @@
 - [[Fagara|Fagara]] — [[Rutaceae]]
 - [[Flagellaria|Flagellaria]] — [[Flagellariaceae]], 1 species in Gabon
 - [[Gambeya|Gambeya]] — [[Sapotaceae]], 3 species in Gabon
+- [[Gilbertiodendron|Gilbertiodendron]] — [[Leguminosae]]
 - [[Gluema|Gluema]] — [[Sapotaceae]], 1 species in Gabon
 - [[Gouania|Gouania]] — [[Rhamnaceae]]
 - [[Halodule|Halodule]] — [[Cymodoceaceae]]
@@ -230,6 +235,7 @@
 - [[Hua|Hua]] — [[Huaceae]], 1 species in Gabon
 - [[Hypoxis|Hypoxis]] — [[Hypoxidaceae]], 1 species in Gabon
 - [[Impatiens|Impatiens]] — [[Balsaminaceae]]
+- [[Indigofera|Indigofera]] — [[Leguminosae]]
 - [[Iridosma|Iridosma]] — [[Simaroubaceae]]
 - [[Irvingia|Irvingia]] — [[Irvingiaceae]]
 - [[Jateorhiza|Jateorhiza]] — [[Menispermaceae]], 1 species in Gabon
@@ -245,6 +251,7 @@
 - [[Ludwigia|Ludwigia]] — [[Onagraceae]], 8 species in Gabon
 - [[Maesopsis|Maesopsis]] — [[Rhamnaceae]]
 - [[Manilkara|Manilkara]] — [[Sapotaceae]], 5 species in Gabon
+- [[Millettia|Millettia]] — [[Leguminosae]]
 - [[Mollugo|Mollugo]] — [[Aizoaceae]]
 - [[Musa|Musa]] — [[Musaceae]]
 - [[Neolemonniera|Neolemonniera]] — [[Sapotaceae]], 1 species in Gabon
@@ -299,6 +306,7 @@
 - [[Tulestea|Tulestea]] — [[Sapotaceae]], 3 species in Gabon
 - [[Ventilago|Ventilago]] — [[Rhamnaceae]]
 - [[Vepris|Vepris]] — [[Rutaceae]]
+- [[Vigna|Vigna]] — [[Leguminosae]]
 - [[Vincentella|Vincentella]] — [[Sapotaceae]], 1 species in Gabon
 - [[Wildemaniodoxa|Wildemaniodoxa]] — [[Sapotaceae]], 1 species in Gabon
 - [[Ximenia|Ximenia]] — [[Olacaceae]], 1 species in Gabon
