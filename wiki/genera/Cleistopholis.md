@@ -26,14 +26,13 @@ Type species: C. glauca Pierre ex Engler et Diels.
 Small genus of tropical Africa comprising 3 (4) species. By its outer valvate petals, spreading, much larger than the inner petals turned back over the reproductive organs, it presents certain resemblances to the genus Friesodielsia van Steenis, but in the latter the inner petals are valvate and connivant at the apex. The fruits and seed are moreover very different.
 
 ## CLE DES ESPECES
+I. Inflorescences subumbelliform, with a peduncle 2-7 mm long; 2-3 cucullate bracteoles, pedicellate; mericarps subsessile, ellipsoid, 15-25 mm long, 10-12 mm wide, with smooth pericarp; seeds with smooth or very slightly granular testa.. 1. C. glauca
 
-I．Inflorescences subombelliformes,a pédoncule long de 2-7 mm;2-3 bractées cuculles,pédicellées；méricarpes subsessiles,ellipsoides,longs de I5-25 mm,larges de Io-I2 mm,a péricarpe lisse;graines á testa lisse ou tres légerement granuleux.. 1. C.glauca
+I'. Inflorescences fasciculate, not pedicunculate; absence of cucullate pedicellate bracteoles; mericarps subglobose, 15-23 mm long, 11-25 mm wide, with tuberculate pericarp; stipe thick reaching 15 mm; seeds with tuberculate testa.
 
-I'.Inflorescences fasciculées non pédonculées；absence de bra ctées cucullées pédicellées；méricarpes subglobuleux,longs de I5-23 mm, larges de II-25 mm,ä péricarpe tuberculé；stipe épais atteignant 15 mm；graines ä testa tuberculé.
+2. Leaves oblong, oblong-lanceolate to slightly falcate, shiny on the upper face; petiole 3-12 mm long; lateral veins 10-24 pairs; inflorescences 2-9-flowered; external petals elliptic-oblong, 7-12 mm long, 2-4 mm wide; carpels approximately 10.... ....2. C. patens
 
-2.Feuilles oblongues,oblongues-lancéolées ä légerement falciformes, luisantes á la face supérieure；pétiole long de 3-I2 mm；nervures latérales IO-24 paires；inflorescences 2-9-flores；pétales externes elliptiques-oblongs,longs de 7-I2 mm, larges de 2-4 mm，carpelles Io environ.... ....2. C.patens
-
-2'.Feuilles elliptiques-oblongues ä obovées,mates á la face supérieure; pétiole long de Io-I5 mm；nervures latérales Io-I2 paires；inflorescences 2-3-flores;pétales externes linéaires,longs de I5-2o mm, larges de 2-3 mm；carpelles 2o environ... 3.C.Staudtii
+2'. Leaves elliptic-oblong to obovate, dull on the upper face; petiole 10-15 mm long; lateral veins 10-12 pairs; inflorescences 2-3-flowered; external petals linear, 15-20 mm long, 2-3 mm wide; carpels approximately 20... 3. C. Staudtii
 
 ## Species in region
 

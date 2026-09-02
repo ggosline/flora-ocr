@@ -17,32 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-Lianes à vrilles enroulées, à latex blanc et collant dans toutes ses parties ; branches à cicatrices
+Lianes with tendrils coiled, with white and sticky latex in all its parts; branches with transverse scars left by stipules. Stipules interpetiolar often caducous with entire or lacinate margin. Leaves opposite, petiolate; blade cordate to rounded at the base. Inflorescences terminal, pedunculate, generally in the form of a tendril, cymose. Flowers: corolla glabrous on the outside and tube subcylindric hairy on the inside principally in the widest part, lobes overlapping to the left, long-ciliate on the margins covered in bud; stamens included anthers glabrous not carinate, disc absent, ovary with 2 carpels united semilocular glabrous, pistil with filiform style with pointed head composed of an oblong and pilose basal part and an apical stigmatoid lobed part. Fruits syncarpous, in indehiscent berries, red, orange or yellow, glabrous or sometimes with a few hairs with yellow pulp. Seeds with endosperm; cotyledons flat, undulate.
 
-transversales laissées par des stipules. Stipules interpétiolaires souvent caduques à marge
+African genus with five species in continental tropical Africa, of which one extends to the Comores in Gabon, four species.
 
-entière ou laciniée. Feuilles opposées, pétiolées ; limbe cordé à arrondi à la base. Inflorescences terminales, pédonculées, généralement en forme de vrille, cymeuses. Fleurs : corolle
-
-glabre à l'extérieur et tube subcylindrique poilu à l'intérieur principalement dans la partie
-
-la plus large, à lobes recouvrant vers la gauche, longuement ciliés sur les bords couverts en
-
-bouton ; étamines incluses anthères glabres non carénées, disque absent, ovaire à 2 carpelles unis semiloculaire glabre, pistil à style filiforme à tête pointue composée d'une
-
-partie basale oblongue et pileuse et d'une partie apicale stigmatoïde fendue Fruits syncarpes,
-
-en baies indéhiscentes, rouges, orange ou jaunes, glabres ou parfois avec quelques poils à
-
-pulpe jaune. Graines avec endosperme ; cotylédons plats, ondulés.
-
-Genre africain avec cinq espèces en Afrique tropicale continentale, dont une s'étend jusqu'aux Comores au Gabon, quatre espèces.
-
-Usage : La pulpe du fruit est comestible.
+Use: The fruit pulp is edible.
 
 BIBLIOGRAPHY
 
-B : Beentje (2021), Endress et al. (2019), de Hoogh (1989), Leeuwenberg & Kupicha (1985),
-
+B: Beentje (2021), Endress et al. (2019), de Hoogh (1989), Leeuwenberg & Kupicha (1985),
 Omino (2002).
 
 ---
@@ -58,19 +41,15 @@ Stipules triangular, only on young shoots caducous ......................... 2
 - Stipules divided into linear segments, persistent .................................................. 3
 
 Calyx with lobes 1–2 mm long erect in inflorescence of 0.5–1 × 0.5–1 cm, leaf blade
-
 of 3–17 × 2–8 cm .............................................................................. D. lucida
 
 Calyx with lobes 1–2 mm long petaled in inflorescence of 0.5–1 × 0.5–1 cm, leaf blade
-
 of 14–41 × 6–20 cm ..................................................................... D. ochracea
 
 Calyx with lobes 2 times as long as wide provided with strong hairs petaled
-
 stipules 0.5–2 cm long ......................................................................... D. setosa
 
 Calyx with lobes 2–3 times as long as wide without strong hairs petaled, stipules
-
 2–4.5 cm long .................................................................................. D. stipulosa
 
 ## Species in region

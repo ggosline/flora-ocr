@@ -86,6 +86,11 @@ SUSPECT_NAMES: set[str] = set()
 # so the line is truncated there rather than carried whole.
 CITATION_RE = re.compile(r"^[A-Z].{5,160}?\(\d{4}\)")
 PAGE_MARKER_RE = re.compile(r"<!--\s*page\s+\d+\s*-->")
+# A markdown heading inside a block body, e.g. "## CLE DES ESPECES". Left as-is
+# it becomes a section of the page, outside the diagnosis block, so it never
+# gets a translate marker and stays in the source language: that is exactly how
+# Annona, Cleistopholis and Letestudoxa kept French keys after a clean run.
+INNER_HEADING_RE = re.compile(r"^#{1,6}\s*", re.M)
 FIGURE_REF_RE = re.compile(r"\[Figure[^\]]*\]")
 
 
@@ -112,6 +117,7 @@ def clean(text: str) -> str:
     """Strip page markers and figure placeholders; collapse blank runs."""
     text = PAGE_MARKER_RE.sub("", text)
     text = FIGURE_REF_RE.sub("", text)
+    text = INNER_HEADING_RE.sub("", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 

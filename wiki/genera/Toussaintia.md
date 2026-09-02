@@ -13,7 +13,7 @@ tags: [genus, generated]
 
 **Family**: [[Annonaceae]]
 **Authority**: Boutique
-**Protologue**: Bull.Jard.Bot.Etat Brux. 2I :97,tab.1 (1951)；Fl.Congo Belge 2: 278, tab.16 (1951).- R.E.Fries in Engler et Prantl, Nat. Pflanzenf., ed.2, 17 a,2 : 52 (1959)
+**Protologue**: Bull.Jard.Bot.Etat Brux. 2I :97,tab.1 (1951);Fl.Congo Belge 2: 278, tab.16 (1951).- R.E.Fries in Engler et Prantl, Nat. Pflanzenf., ed.2, 17 a,2 : 52 (1959)
 
 ## Diagnosis
 
@@ -29,9 +29,9 @@ The genus Toussaintia is probably one of the most primitive genera of Annonaceae
 
 ## CLE DES ESPECES
 
-I.Bractées elliptiques；bouton floral ové-oblong,ä arétes ä peine marquées,long de 7-13 mm,large de 5-7 mm；sépales minces；pétales 9-1o en 2-3 cycles ± irréguliers;stigmates bilobés..... 1.T.Hallei
+I.Bractées elliptiques;bouton floral ové-oblong,ä arétes ä peine marquées,long de 7-13 mm,large de 5-7 mm;sépales minces;pétales 9-1o en 2-3 cycles ± irréguliers;stigmates bilobés..... 1.T.Hallei
 
-I'.Bractées suborbiculaires；bouton floral ové,aigu au sommet,a arétes fortement marquées,long de 2o mm,large de Io mm；sépales épais,subligneux；pétales 6,en deux cycles réguliers；stigmates linéaires,entiers.. T.congolensis
+I'.Bractées suborbiculaires;bouton floral ové,aigu au sommet,a arétes fortement marquées,long de 2o mm,large de Io mm;sépales épais,subligneux;pétales 6,en deux cycles réguliers;stigmates linéaires,entiers.. T.congolensis
 
 ## Species in region
 

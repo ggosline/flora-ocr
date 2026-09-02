@@ -13,7 +13,7 @@ tags: [genus, generated]
 
 **Family**: [[Annonaceae]]
 **Authority**: Pellegrin
-**Protologue**: Bull.Mus.Hist.Nat.Paris 26 ：654 (192o).- Mém.Soc.Linn.Normand 26:13,tab.14 (1924).-Bull.Soc.Bot.Fr.95:137 (1948).-.R.E.Fries in Engler et Prantl,Nat.Pflanzenf.,ed.2,17 a,2 :59 (1959)
+**Protologue**: Bull.Mus.Hist.Nat.Paris 26 :654 (192o).- Mém.Soc.Linn.Normand 26:13,tab.14 (1924).-Bull.Soc.Bot.Fr.95:137 (1948).-.R.E.Fries in Engler et Prantl,Nat.Pflanzenf.,ed.2,17 a,2 :59 (1959)
 
 ## Diagnosis
 
@@ -28,10 +28,9 @@ Small genus comprising two species in central Africa. The syncarpous fruit was c
 The genus Letestudoxa is very probably a transition genus, but we prefer to place it near the genera with syncarpous fruits because of the almost complete fusion of the ovarian locule in the fruit.
 
 ## CLE DES ESPECES
+I. Leaves attenuate or shortly acuminate at the apex, densely rusty-pubescent on the lower surface when young, with short, curly, simple or fasciculate hairs, becoming glabrescent; floral bud ovoid-globose, apiculate at the apex; petals yellow, subequal; stamens 3 mm long; carpels 5 mm long...
 
-I.Feuilles atténuées ou courtement acuminées au sommet,densément pubescentes rousses ä la face inférieure lorsqu'elles sont jeunes,a poils courts, frisés,simples ou fasciculés,devenant glabrescentes; bouton floral ovoide-globuleux,apiculé au sommet；pétales jaunes, subégaux; étamines longues de 3 mm; carpeles longs de 5 mm...
-
-I'.Feuilles arrondies á émarginées au sommet,densément pubescentes a la face inférieure,ä poils longs,mous,simples,± enchevétrés et persistants；bouton floral subglobuleux aplatis，arrondis au sommet；pétales rose foncé, les internes beaucoup plus étroits; étamines longues de 5 mm;carpelles longs de Io mm...
+I'. Leaves rounded to emarginate at the apex, densely pubescent on the lower surface, with long, soft, simple hairs, ± entangled and persistent; floral bud subglobose flattened, rounded at the apex; petals dark rose, the inner ones much narrower; stamens 5 mm long; carpels 10 mm long...
 
 ## Species in region
 

@@ -30,18 +30,17 @@ Tropical genus comprising about a hundred species, most of them American. Only 4
 Like Anonidium, Annona are part of an evolutionary series containing genera among the most evolved in the family, tending towards true syncarpium.
 
 ## CLE DES ESPECES
+I. Floral buds globose; petals ovate, 6, subequal or the inner ones slightly shorter.
 
-I. Boutons floraux globuleux;pétales oves 6,subégaux ou les intcrncs légérement plus courts.
+2. Fruits globose to ovoid, smooth or slightly scaly-areolate.
 
-2.Fruits globuleux a ovoides, lisses ou légerement écaillux-aréolés.
+3. Leaves acuminate, always glabrous, with prominent reticulum on both faces; seeds marginate, with arille not visible..... 1. A. glabra
 
-3.Feuilles acuminées,toujours glabres,a réticulum saillant sur les deux faces;graines marginces,a arille non visible..... I.A.glabra
+3'. Young leaves always pubescent or tomentose, glabrescent to densely pubescent or tomentose in the adult state; seeds not marginate, with pectinate arille.
 
-3'.Feuilles jeunes toujours pubescentes ou tomenteuses，glabrescentes á densément pubescentes ou tomenteuses äl'état adulte; graines non marginées,ä arille pectiné.
+4. Lower face of adult leaves glabrescent to densely pubescent-woolly, the hairs being particularly dense on the nerves.. ..2. A. senegalensis ssp. senegalensis
 
-4.Face inférieure des feuilles adultes glabrescente ä densément pubescente-laineuse,les poils étant particulierement denscs sur les nervures.. .．2.A.senegalensis ssp.senegalensis
-
-4' Face inférieure des feuilles tomenteuses,a poils courts et crepus, couvrant toute la surface du limbe...A.senegalensis ssp.oulotricha
+4'. Lower face of leaves tomentose, with short and crispy hairs, covering the entire surface of the limb... A. senegalensis ssp. oulotricha
 
 ## Species in region
 

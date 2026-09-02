@@ -13,7 +13,7 @@ tags: [genus, generated]
 
 **Family**: [[Annonaceae]]
 **Authority**: Engler et Diels
-**Protologue**: Notizbl.Bot.Gart.Berl.3 : 55 (19oo); Engl., Mon.Afr.Pflanzenf.6:32,tab.1I (1901).- R.E. Fries in Engler et Prantl, Nat. Pflanzenf.，ed. 2,17 a, 2 : 60 (1959)
+**Protologue**: Notizbl.Bot.Gart.Berl.3 : 55 (19oo); Engl., Mon.Afr.Pflanzenf.6:32,tab.1I (1901).- R.E. Fries in Engler et Prantl, Nat. Pflanzenf.,ed. 2,17 a, 2 : 60 (1959)
 
 ## Diagnosis
 

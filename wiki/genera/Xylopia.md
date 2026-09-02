@@ -13,7 +13,7 @@ tags: [genus, generated]
 
 **Family**: [[Annonaceae]]
 **Authority**: L.
-**Protologue**: Syst.Nat.,cd.1o :I25o (1759)，nom.conserv.- Engler et Diels in Engler, Monogr.Afr.Pflanzenf.6 :57(19o1).— Tisserant,Bull. Soc.Bot.Fr.103 ： 609 (1956).- R. E.Fries in Engler et Prantl, Nat. Pflanzenf.,ed.2,17 a,2 : 108 (1959)
+**Protologue**: Syst.Nat.,cd.1o :I25o (1759),nom.conserv.- Engler et Diels in Engler, Monogr.Afr.Pflanzenf.6 :57(19o1).— Tisserant,Bull. Soc.Bot.Fr.103 : 609 (1956).- R. E.Fries in Engler et Prantl, Nat. Pflanzenf.,ed.2,17 a,2 : 108 (1959)
 
 ## Diagnosis
 
