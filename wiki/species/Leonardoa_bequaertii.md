@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Leonardoa bequaertii* (De Wild.) Aubréville variété Bergeri (De Wild.) Léonard
 
-**Genus**: [[Leonardoa]]
+**Genus**: [[Leonardoxa]]
 **Family**: [[Leguminosae]]
 **Protologue**: A. Aubréville, Adansonia 8,2 : (1968)
 
@@ -41,6 +41,6 @@ We attribute to the variety Bergeri of the species Bequaertii described from the
 
 ## See also
 
-- [[Leonardoa]]
+- [[Leonardoxa]]
 - [[Leguminosae]]
 - [[vol15]]

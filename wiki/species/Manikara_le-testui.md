@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Manikara le-* Testui Aubréville et Pellegrin.
 
-**Genus**: [[Manikara]]
+**Genus**: [[Manilkara]]
 **Family**: [[Sapotaceae]]
 **Protologue**: Notulae Systematicae. Vol. XVI. Fasc. 3-4 : 233 (1960)
 
@@ -43,6 +43,6 @@ Remarkable species, but very imperfectly known from a single specimen of Le Test
 
 ## See also
 
-- [[Manikara]]
+- [[Manilkara]]
 - [[Sapotaceae]]
 - [[vol01]]

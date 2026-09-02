@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Manikara fouilloyana* Aubréville et Pellegrin.
 
-**Genus**: [[Manikara]]
+**Genus**: [[Manilkara]]
 **Family**: [[Sapotaceae]]
 **Protologue**: Bull. Soc. Bot. Fr. 104 et fig.: 278 (1957)
 
@@ -40,6 +40,6 @@ Le Testu : 6424, Poungui Essouma (fl. mars); 6452, Iména (Dijabi, fl. mars); 72
 
 ## See also
 
-- [[Manikara]]
+- [[Manilkara]]
 - [[Sapotaceae]]
 - [[vol01]]

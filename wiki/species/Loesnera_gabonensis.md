@@ -15,7 +15,7 @@ tags: [species, generated]
 ---
 # *Loesnera gabonensis* Pellegrin
 
-**Genus**: [[Loesnera]]
+**Genus**: [[Loesenera]]
 **Family**: [[Leguminosae]]
 **Protologue**: Pellegrin, Bull. Soc. Bot. Fr. 89 : 245 (1942); Lég. Gabon; 85 (1948)
 
@@ -71,6 +71,6 @@ Ibadja (Bapounou); Gefouna (Apindji); Gibayi (Bavoungou); Mubi (Eshira); Esouna 
 
 ## See also
 
-- [[Loesnera]]
+- [[Loesenera]]
 - [[Leguminosae]]
 - [[vol15]]

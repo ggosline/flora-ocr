@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Acoa staudti* Engler
 
-**Genus**: [[Acoa]]
+**Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 379 (1899); Pflanzenw. Afr. 3 (1) : 309 (1915); DE WILD., BJBB 7 : 207 (1920)
 
@@ -62,6 +62,6 @@ Hallé N. 842, Ngongolane dans les Monts de Cristal (fl., août). Le Testu 6043,
 
 ## See also
 
-- [[Acoa]]
+- [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]

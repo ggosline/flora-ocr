@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Manikara microphylla* Aubr. et Pellegr.
 
-**Genus**: [[Manikara]]
+**Genus**: [[Manilkara]]
 **Family**: [[Sapotaceae]]
 **Protologue**: Notulae Systematicae. Vol. XVI, fasc. 3-4 : 233 (1960)
 
@@ -50,6 +50,6 @@ Rép. Congo. — Koechlin : 6043, Brazzaville (fl. sept.).
 
 ## See also
 
-- [[Manikara]]
+- [[Manilkara]]
 - [[Sapotaceae]]
 - [[vol01]]

@@ -13,7 +13,7 @@ tags: [species, generated]
 ---
 # *Stachyothyrus staudtii* Harms
 
-**Genus**: [[Stachyothyrus]]
+**Genus**: [[Stachyothyrsus]]
 **Family**: [[Leguminosae]]
 **Protologue**: Harms, Engl. Bot. Jahrb. 26 : 277 (1899)
 
@@ -49,6 +49,6 @@ Le Testu : 2222, Sindara (fl. août); 5475, Mouila (fl. sept.); 7528, 8478, Last
 
 ## See also
 
-- [[Stachyothyrus]]
+- [[Stachyothyrsus]]
 - [[Leguminosae]]
 - [[vol15]]

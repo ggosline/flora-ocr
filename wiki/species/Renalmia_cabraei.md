@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Renalmia cabraei* De Wild. et Th. Dur.
 
-**Genus**: [[Renalmia]]
+**Genus**: [[Renealmia]]
 **Family**: [[Zingiberaceae]]
 
 ## Synonyms
@@ -47,6 +47,6 @@ Probable presence in Gabon.
 
 ## See also
 
-- [[Renalmia]]
+- [[Renealmia]]
 - [[Zingiberaceae]]
 - [[vol09]]

@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Warnecka reygaerti* (de Wildeman) Jacques-Félix
 
-**Genus**: [[Warnecka]]
+**Genus**: [[Warneckea]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 18 (2) : 234 (1978); Fl. Cam. 24 : 170 (1983)
 
@@ -56,6 +56,6 @@ Trois espèces, dont les caractères distinctifs sont cités dans la clé, n'ont
 
 ## See also
 
-- [[Warnecka]]
+- [[Warneckea]]
 - [[Melastomataceae]]
 - [[vol25]]

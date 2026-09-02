@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Warnecka cauliflora* Jacques-Félix
 
-**Genus**: [[Warnecka]]
+**Genus**: [[Warneckea]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 19 (3) : 262, tab. 3 (1980)
 
@@ -42,6 +42,6 @@ Le Testu 7776, Ngoma, « fleurs d'un violet vineux sur le vieux bois » (déc.).
 
 ## See also
 
-- [[Warnecka]]
+- [[Warneckea]]
 - [[Melastomataceae]]
 - [[vol25]]

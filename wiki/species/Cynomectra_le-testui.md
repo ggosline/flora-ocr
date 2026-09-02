@@ -13,7 +13,7 @@ tags: [species, generated]
 ---
 # *Cynomectra le-* Testui (Pellegr.) Léonard
 
-**Genus**: [[Cynomectra]]
+**Genus**: [[Cynometra]]
 **Family**: [[Leguminosae]]
 **Protologue**: J. Léonard, Bull. Jard. Bot. Brux. 21 : 382 (1951); F.C.B. 3 : 312 (1952)
 
@@ -52,6 +52,6 @@ Le Testu : 2115, Tchibanga (fl. sept.).
 
 ## See also
 
-- [[Cynomectra]]
+- [[Cynometra]]
 - [[Leguminosae]]
 - [[vol15]]

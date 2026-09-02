@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Beischmiedia fulva* Rob. et Wilcz..
 
-**Genus**: [[Beischmiedia]]
+**Genus**: [[Beilschmiedia]]
 **Family**: [[Lauraceae]]
 
 ## Description
@@ -37,6 +37,6 @@ The tree studied here is known only from a branchlet with leaves, without flower
 
 ## See also
 
-- [[Beischmiedia]]
+- [[Beilschmiedia]]
 - [[Lauraceae]]
 - [[vol10]]

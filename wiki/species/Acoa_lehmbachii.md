@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Acoa lehmbachii* Engler
 
-**Genus**: [[Acoa]]
+**Genus**: [[Acioa]]
 **Family**: [[Scytopetalaceae]]
 **Protologue**: Bot. Jahrb. 26 : 379 (1899); Pflanzenw. Afr. 3 (1) : 311, tab. 200, fig. A-D (1915); DE WILD., BJBB 7 : 201 (1920)
 
@@ -68,6 +68,6 @@ Bates 855, Bitye, 50 km ENE Sangmélima (fl.) (BM et photo, P); 1375, 1395, ibid
 
 ## See also
 
-- [[Acoa]]
+- [[Acioa]]
 - [[Scytopetalaceae]]
 - [[vol24]]

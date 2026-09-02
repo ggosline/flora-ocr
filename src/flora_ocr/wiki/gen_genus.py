@@ -58,6 +58,8 @@ FAMILY_ALIASES = {
 NOT_A_TAXON = {
     "Leguminosae", "Materiel", "Materiel etudie", "Heterostylie",
     "Cl", "St", "Ilomba", "Ossoko", "Ekoune",
+    # "Ordre I. LYCOPODIALES" -- a French ordinal heading, not a genus
+    "Ordre", "Ordres", "Famille", "Familles", "Tribu", "Tribus",
 }
 
 # Genus names the scan corrupts, with the correction verified against the source.

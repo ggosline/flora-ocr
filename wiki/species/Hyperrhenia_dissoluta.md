@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia dissoluta* (Nees) C. E. Hubb.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -34,6 +34,6 @@ Species reported in almost all tropical Africa, as well as in South Africa, Mada
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

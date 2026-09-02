@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia welwitschii* (Rendle) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 **Protologue**: STAPF, Fl. of Trop. Af. IX : 356 (1919)
 
@@ -32,6 +32,6 @@ Vernacular names (after Walker and Sillans): Etsubu (Mindumu); Tubi (Bapunu)?
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

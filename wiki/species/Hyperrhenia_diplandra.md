@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia diplandra* (Hack.) Stapf. (f. p. 183).
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -60,6 +60,6 @@ Koechlin : observations faites dans les environs de Libreville et les savanes du
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

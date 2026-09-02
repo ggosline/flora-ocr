@@ -15,7 +15,7 @@ tags: [species, generated]
 ---
 # *Beischmiedia minutiflora* Benth. et Hook. f.
 
-**Genus**: [[Beischmiedia]]
+**Genus**: [[Beilschmiedia]]
 **Family**: [[Lauraceae]]
 
 ## Synonyms
@@ -69,6 +69,6 @@ Klaine : 210, 231, 286, 432, 757, 1581, 1603, 2776, environs de Libreville. Le T
 
 ## See also
 
-- [[Beischmiedia]]
+- [[Beilschmiedia]]
 - [[Lauraceae]]
 - [[vol10]]

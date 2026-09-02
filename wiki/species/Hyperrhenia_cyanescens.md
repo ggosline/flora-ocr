@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia cyanescens* (Chev.) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -40,6 +40,6 @@ On fresh alluvial and clayey soils; good quality pasture.
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

@@ -10,7 +10,7 @@ tags: [species, generated]
 ---
 # *Cyrtococcus stapf*
 
-**Genus**: [[Cyrtococcus]]
+**Genus**: [[Cyrtococcum]]
 **Family**: [[Gramineae]]
 
 ## Description
@@ -33,6 +33,6 @@ van Nek 409, 27.11.1990, 1°58'S-9°53'E, Rabi-CS.
 
 ## See also
 
-- [[Cyrtococcus]]
+- [[Cyrtococcum]]
 - [[Gramineae]]
 - [[vol5bis]]

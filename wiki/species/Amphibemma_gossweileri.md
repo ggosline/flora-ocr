@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Amphibemma gossweileri* Exell
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Journ. Bot. 67, Suppl. Polypet. : 182 (1929); A. & R. FERNANDES, Consp. Fl. Angol. 1 : 165 (1970); JACQ.-FÉL., Adansonia, sér. 2, 13 (4) : 452, tab. 7 (1973)
 
@@ -25,6 +25,6 @@ tags: [species, generated]
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

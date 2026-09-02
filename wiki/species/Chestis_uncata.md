@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Chestis uncata* Lemmens
 
-**Genus**: [[Chestis]]
+**Genus**: [[Cnestis]]
 **Family**: [[Connaraceae]]
 
 ## Description
@@ -65,6 +65,6 @@ Breteler & Lemmens 8304, Nzogomitang, Libreville-Kango (fr., Oct.), LBV, WAG ; 8
 
 ## See also
 
-- [[Chestis]]
+- [[Cnestis]]
 - [[Connaraceae]]
 - [[vol33]]

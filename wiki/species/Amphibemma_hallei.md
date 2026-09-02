@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Amphibemma hallei* Jacques-Félix
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Adansonia, sér. 2, 13 (4) : 456, tab. 11 (1973)
 
@@ -52,6 +52,6 @@ Hallé N. 2261, 2416, Abanga chantier, sur pentes rocheuses en forêt, arbuste p
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

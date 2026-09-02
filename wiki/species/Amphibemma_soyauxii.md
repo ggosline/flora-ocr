@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Amphibemma soyauxii* Cogniaux
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Mon. Phan. 7, Melast.: 1184 (1891); JACQ.-FÉL., Fl. Cam. 24 : 98, tab. 32 (1983)
 
@@ -38,6 +38,6 @@ Farron 7497, de Libreville à Lamaréné (juin), BAS. Hallé N. & Villiers J.-F.
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

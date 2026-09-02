@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Amphibemma ciliatum* Cogniaux
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: Mon. Phan. 7, Melast.: 528 (1891); JACQ.-FÉL., Fl. Cam. 24 : 100, tab. 32 (1983)
 
@@ -50,6 +50,6 @@ Le Testu 5210, haute Ngounié, entre Mouila et Kembélé (fév.). Pobéguin s.n.
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

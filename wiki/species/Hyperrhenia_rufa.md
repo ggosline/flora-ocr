@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Hyperrhenia rufa* (Nees) Stapf.
 
-**Genus**: [[Hyperrhenia]]
+**Genus**: [[Hyparrhenia]]
 **Family**: [[Gramineae]]
 
 ## Synonyms
@@ -68,6 +68,6 @@ Known from Nigeria, Ubangi and Congo; reported from Gabon by Koechlin in the sav
 
 ## See also
 
-- [[Hyperrhenia]]
+- [[Hyparrhenia]]
 - [[Gramineae]]
 - [[vol05]]

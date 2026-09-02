@@ -12,7 +12,7 @@ tags: [species, generated]
 ---
 # *Amphibemma setosum* Hooker f.
 
-**Genus**: [[Amphibemma]]
+**Genus**: [[Amphiblemma]]
 **Family**: [[Melastomataceae]]
 **Protologue**: FTA 2 : 456 (1871); TRIANA, Trans. Linn. Soc. 28 : 70 (1871); JACQ.-FÉL., Adansonia, sér. 2, 13 (4) : 450, tab. 8 (1973)
 
@@ -42,6 +42,6 @@ Chevalier 26976, Agonenzork, sur la moyenne Como, en forêt (oct.). Hallé N. & 
 
 ## See also
 
-- [[Amphibemma]]
+- [[Amphiblemma]]
 - [[Melastomataceae]]
 - [[vol25]]

@@ -11,7 +11,7 @@ tags: [species, generated]
 ---
 # *Dicipltera verticillata* (Forsk.) C. Christ.
 
-**Genus**: [[Dicipltera]]
+**Genus**: [[Dicliptera]]
 **Family**: [[Acanthaceae]]
 **Protologue**: C. Christensen, Dansk Bot. Ark. 4,3 : II (1922)
 
@@ -35,6 +35,6 @@ $  \equiv  $ Dicliptera umbellata (Vahl) Juss., Ann. Mus. Paris 9: (1807), — C
 
 ## See also
 
-- [[Dicipltera]]
+- [[Dicliptera]]
 - [[Acanthaceae]]
 - [[vol13]]

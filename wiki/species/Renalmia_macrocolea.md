@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Renalmia macrocolea* K. Schum.
 
-**Genus**: [[Renalmia]]
+**Genus**: [[Renealmia]]
 **Family**: [[Zingiberaceae]]
 
 ## Description
@@ -41,6 +41,6 @@ N. Hallé : 1080, Makokou.
 
 ## See also
 
-- [[Renalmia]]
+- [[Renealmia]]
 - [[Zingiberaceae]]
 - [[vol09]]

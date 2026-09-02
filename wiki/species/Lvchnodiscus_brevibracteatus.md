@@ -14,7 +14,7 @@ tags: [species, generated]
 ---
 # *Lvchnodiscus brevibracteatus* R. Fouilloy, sp. nov.
 
-**Genus**: [[Lvchnodiscus]]
+**Genus**: [[Lychnodiscus]]
 **Family**: [[Sapindaceae]]
 
 ## Description
@@ -59,6 +59,6 @@ in ENGL. & PRANTL., Nat. Pflanzenfam., ed. 1, 3 : 344 (1895); in ENGL., Pflanzen
 
 ## See also
 
-- [[Lvchnodiscus]]
+- [[Lychnodiscus]]
 - [[Sapindaceae]]
 - [[vol23]]
