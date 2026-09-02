@@ -31,6 +31,12 @@ The family contains about nine genera and c. 200 species globally, especially
 in tropical and subtropical regions. In Gabon the treatment recognises only
 *Chlorophytum*, represented by six species plus one treated infraspecific taxon.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Chlorophytum]] | 6 |
+
 ## Treatment
 
 **Volume**: [[vol41]]  

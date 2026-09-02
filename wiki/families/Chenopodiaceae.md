@@ -13,6 +13,12 @@ tags: [family]
 
 Herbs or shrubs with small apetalous flowers and one-seeded fruits. The family concept used in Vol. 7 is now generally included within Amaranthaceae; Gabon is represented by [[Chenopodium_ambrosioides|*Chenopodium ambrosioides*]].
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Chenopodium]] | 1 |
+
 ## See also
 
 - [[vol07]]

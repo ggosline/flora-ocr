@@ -92,7 +92,7 @@ Fruit composé d'un grand nombre de follicules insérés autour d'un réceptacle
 
 ![Tarrietia densiflora](../sources/Sterculiaceae_vol02_paddle/figures/fig_006_p0031.png)
 
-*PL. VI. — Tarrietia densiflora (Pellegr.) Aubr. et Norm. : 1, 2 and 3, leaf types; 4, hair from the underside of the limb (diam. 1/4 mm); 5, flowering branch (x 2/3); 6, inflorescence bract protecting young flower fascicles (length 10 mm); 7, flower bud; 8, androecium in the base of the calyx in section; 9, staminal crown viewed from above; 10, ♀ flower; 11, gynoecium in the base of the calyx in section; 12, apical view of the gynoecium.*
+*PL. VI. — Tarrietia densiflora (Pellegr.) Aubr. et Norm. : 1, 2 and 3, leaf types; 4, hair from the underside of the limb (diam. 1/4 mm); 5, flowering branch (× 2/3); 6, inflorescence bract protecting young flower fascicles (length 10 mm); 7, flower bud; 8, androecium at the base of the calyx in section; 9, staminal crown viewed from above; 10, ♀ flower; 11, gynoecium at the base of the calyx in section; 12, apical view of the gynoecium.*
 
 ## Notes
 

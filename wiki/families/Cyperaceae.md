@@ -41,6 +41,13 @@ graminoid treatment in the wiki.
 | [[Schoenoplectus]] | 2 | | [[Actinoschoenus]] | 1 |
 | [[Ascolepis]] | 1 | | [[Diplacrum]] | 1 |
 | [[Remirea]] | 1 | | | |
+| [[Actinoschoenus]] | 1 |
+| [[Diplacrum]] | 1 |
+| [[Fimbristylis]] | 15 |
+| [[Fuirena]] | 2 |
+| [[Lipocarpha]] | 2 |
+| [[Mapania]] | 22 |
+| [[Rhynchospora]] | 9 |
 
 ***Cyperus* alone accounts for 75 species** — 41% of the family here, and one of
 the largest genera anywhere in the corpus alongside *Salacia* (47) and *Ficus*

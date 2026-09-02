@@ -59,7 +59,7 @@ Thollon 84, Ndjolé, Ogooué River.
 
 ![Scyphosyce manniana](../sources/Moraceae_vol26_paddle/figures/fig_030_p0102.png)
 
-*PL. 29. – Scyphosyce manniana Baill.: 1, leafy branch with infrutescences; 2, leafy branch with inflorescence and infructescence; 3, 4, inflorescence; 5, involucre; 6, staminate flower; 7, stamen; 8, staminate flower and stamen; 9, 10, stamen; 11, pistillate flower; 12, pistil; 13, pistillate flower; 14, infructescence; 15, fruit; 16, seed; 17, embryo (1, Thollon 84; 2, 4-7, De Wit 8266, Cameroon; 3, 8, 13, Gossweiler 8141, Angola; 9, 10, 14-17, Sita 1938 a, Congo; 11, 12, De Wit 398 or 8266, Cameroon).*
+*PL. 29. – Scyphosyce manniana Baill.: 1, leafy branch with infructescences; 2, leafy branch with inflorescence and infructescence; 3, 4, inflorescence; 5, involucre; 6, staminate flower; 7, stamen; 8, staminate flower and stamen; 9, 10, stamen; 11, pistillate flower; 12, pistil; 13, pistillate flower; 14, infructescence; 15, fruit; 16, seed; 17, embryo (1, Thollon 84; 2, 4-7, De Wit 8266, Cameroon; 3, 8, 13, Gossweiler 8141, Angola; 9, 10, 14-17, Sita 1938 a, Congo; 11, 12, De Wit 398 or 8266, Cameroon).*
 
 ## Notes
 

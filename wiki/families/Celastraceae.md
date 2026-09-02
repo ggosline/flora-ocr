@@ -49,6 +49,16 @@ volume's six families.
 | [[Apodostigma]] | 1 | | [[Prionostemma]] | 1 |
 | [[Hippocratea]] | 1 | | [[Bequaertia]] | 1 |
 | [[Tristemonanthus]] | 1 | | | |
+| [[Bequaertia]] | 1 |
+| [[Cuervea]] | 2 |
+| [[Elachyptera]] | 2 |
+| [[Euonymus]] | 1 |
+| [[Helictonema]] | 1 |
+| [[Loeseneriella]] | 8 |
+| [[Maytenus]] | 2 |
+| [[Prionostemma]] | 1 |
+| [[Pristimera]] | 3 |
+| [[Reissantia]] | 1 |
 
 *Salacia* with 47 species is one of the largest single genera anywhere in the
 corpus, comparable to *Ficus* in [[Moraceae]].

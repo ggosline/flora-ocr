@@ -30,6 +30,37 @@ The source treatment reports about 120 genera and c. 1,100 species worldwide in
 the tropics. In Gabon it recognises a very large flora: 29 genera and 119
 species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Annona]] | 3 |
+| [[Anonidium]] | 1 |
+| [[Artabotrys]] | 5 |
+| [[Cleistopholis]] | 2 |
+| [[Enantia]] | 3 |
+| [[Enneastemon]] | 1 |
+| [[Exellia]] | 1 |
+| [[Friesodielsia]] | 2 |
+| [[Hexalobus]] | 1 |
+| [[Isolona]] | 4 |
+| [[Letestudoxa]] | 2 |
+| [[Monanthotaxis]] | 2 |
+| [[Monodora]] | 3 |
+| [[Neostenanthera]] | 3 |
+| [[Pachypodanthium]] | 2 |
+| [[Piptostigma]] | 4 |
+| [[Polyalthia]] | 1 |
+| [[Polyceratocarpus]] | 3 |
+| [[Popowia]] | 7 |
+| [[Pseudartabotrys]] | 1 |
+| [[Toussaintia]] | 1 |
+| [[Uvaria]] | 14 |
+| [[Uvariastrum]] | 1 |
+| [[Uvariodendron]] | 1 |
+| [[Uvariopsis]] | 1 |
+| [[Xylopia]] | 13 |
+
 ## Treatment
 
 **Volume**: [[vol16]]  

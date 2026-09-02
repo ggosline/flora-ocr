@@ -30,6 +30,14 @@ plants with highly reduced forest-floor mycoheterotrophs.
 Burmanniaceae comprises about eight genera and roughly 90 pantropical species.
 In Gabon the treatment recognises three genera and five species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Burmannia]] | 1 |
+| [[Campylosiphon]] | 1 |
+| [[Gymnosiphon]] | 3 |
+
 ## Treatment
 
 **Volume**: [[vol41]]  

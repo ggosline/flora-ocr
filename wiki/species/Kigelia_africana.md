@@ -87,7 +87,7 @@ Hallé N. & Le Thomas 76, Bélinga, 700-1 000 m (P). Klaine 73, s. loc. (P); 477
 
 ![Kigelia africana](../sources/Bignoniaceae_vol27_paddle/figures/fig_005_p0032.png)
 
-*PL. 5. – Kigelia africana (Lam.) Benth.: 1, leaf × 0,5; 2, limb upper surface; 3, inflorescence × 0,5; 4, calyx × 1; 5, detail of the internal face of the corolla × 1; 6, anther × 2; 7, fruit × 0,5; 8, seed × 2 (1, Hepper 1878, Cameroon; 2, 4-6, Endenglé 174, Cameroon; 3, Jacques-Félix 3671, Cameroon; 7-8, Lefèvre 1840, Ethiopia). (Taken from the Flora of Cameroon 27: tab. 9, 1984).*
+*PL. 5. – Kigelia africana (Lam.) Benth.: 1, leaf × 0,5; 2, limb upper surface; 3, inflorescence × 0,5; 4, calyx × 1; 5, detail of the internal surface of the corolla × 1; 6, anther × 2; 7, fruit × 0,5; 8, seed × 2 (1, Hepper 1878, Cameroon; 2, 4-6, Endenglé 174, Cameroon; 3, Jacques-Félix 3671, Cameroon; 7-8, Lefèvre 1840, Ethiopia). (Taken from the Flora of Cameroon 27: tab. 9, 1984).*
 
 ## Notes
 

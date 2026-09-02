@@ -98,7 +98,7 @@ Touzet 123, Nkoulounga, 26/1/1959, fl. (P).
 
 ![Scottellia oliv](../sources/Flacourtiaceae_vol34_paddle/figures/fig_009_p0036.png)
 
-*PL. 9. – Scottelia klaineana Pierre : 1, flowering branch : 2, flower ; 3, petal, lower surface ; 4, stamen ; 5, transverse section of the ovary ; 6, open fruit ; 7, seed. (1-5. Klaine 3438 ; 6 et 7. Klaine 3289).*
+*PL. 9. – Scottelia klaineana Pierre: 1, flowering branch; 2, flower; 3, petal, lower surface; 4, stamen; 5, transverse section of the ovary; 6, open fruit; 7, seed. (1-5. Klaine 3438; 6 et 7. Klaine 3289).*
 
 ## Notes
 

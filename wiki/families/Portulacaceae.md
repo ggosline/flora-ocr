@@ -13,6 +13,13 @@ tags: [family]
 
 Succulent herbs with simple leaves, two sepals, delicate petals and many-seeded capsules. Vol. 7 treats [[Portulaca]] and [[Talinum]], the latter now placed in Talinaceae.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Portulaca]] | 1 |
+| [[Talinum]] | 1 |
+
 ## See also
 
 - [[vol07]]

@@ -45,6 +45,23 @@ forest.
 | [[Ganophyllum]] | 1 | | [[Majidea]] | 1 |
 | [[Aphania]] | 1 | | [[Pseudopancovia]] | 1 |
 | [[Melicocca]] | 1 | | | |
+| [[Aporrhiza]] | 6 |
+| [[Blighia]] | 3 |
+| [[Cardiospermum]] | 2 |
+| [[Crossonephelis]] | 2 |
+| [[Dodoneee]] | 0 |
+| [[Doratoxylee]] | 0 |
+| [[Eriocelum]] | 6 |
+| [[Haplocelum]] | 0 |
+| [[Laccodiscus]] | 4 |
+| [[Lecaniodiscus]] | 1 |
+| [[Lepisanthee]] | 0 |
+| [[Majidea]] | 1 |
+| [[Melicoccae]] | 0 |
+| [[Pseudopancovia]] | 1 |
+| [[Sapindus]] | 1 |
+| [[Schleichere]] | 0 |
+| [[Zanha]] | 1 |
 
 ## Notes
 

@@ -13,6 +13,13 @@ tags: [family]
 
 Herbs or shrubs with alternate exstipulate leaves, racemose flowers and berry-like or dry fruits. Vol. 7 treats [[Phytolacca]] and [[Hilleria]]; the latter is now generally placed in Petiveriaceae.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Hilleria]] | 1 |
+| [[Phytolacca]] | 1 |
+
 ## See also
 
 - [[vol07]]

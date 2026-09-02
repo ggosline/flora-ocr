@@ -91,7 +91,7 @@ We believe that A. pentagyna forms a complex of numerous microspecies or forms a
 
 ![Agelaea pentagyna](../sources/Connaraceae_vol33_paddle/figures/fig_015_p0040.png)
 
-*PL. 9. – Agelaea pentagyna (Lamarck) Baillon : 1, floriferous branch × 2/3 ; 2, 3, leaves × 2/3 ; 4, sepals × 8 ; 5, fruit × 2 ; 6, follicle, longitudinal section showing a cotyledon and apical radicle × 2 ; 7, seed showing sarcotesta and hilum × 2. (1. Hart 448 ; de Kruif 127 ; 3, da Silva 2266 ; 4, van Veldhuizen 762 ; 5-7, Bos 3534). – Reprinted from AUWP 89 (6).*
+*PL. 9. – Agelaea pentagyna (Lamarck) Baillon: 1, floriferous branch × 2/3; 2, 3, leaves × 2/3; 4, sepals × 8; 5, fruit × 2; 6, follicle, longitudinal section showing a cotyledon and apical radicle × 2; 7, seed showing sarcotesta and hilum × 2. (1. Hart 448; de Kruif 127; 3, da Silva 2266; 4, van Veldhuizen 762; 5-7, Bos 3534). – Reprinted from AUWP 89 (6).*
 
 ## Notes
 

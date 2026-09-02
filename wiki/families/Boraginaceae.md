@@ -30,6 +30,15 @@ Boraginaceae in the broad sense contains about 195 genera and 2,750 species
 worldwide. In Gabon it is a small family, represented by five genera and nine
 species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Ehretia]] | 1 |
+| [[Euploca]] | 1 |
+| [[Heliotropium]] | 1 |
+| [[Hoplestigma]] | 1 |
+
 ## Treatment
 
 **Volume**: [[vol57]]  

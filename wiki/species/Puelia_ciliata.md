@@ -45,7 +45,7 @@ Chevalier : 26889, Ahiémé, sur la Hte-Komo; 27049, Aledjo, sur le Ramboué.
 
 ![Puelia ciliata](../sources/Gramineae_vol05_paddle/figures/fig_034_p0211.png)
 
-*PL. XXXIII.—Puelia ciliata Franch. (Chev. 27049) : 1, apex of culm, leaves and inflorescence; 2, detail of venation of leaves; 3, spikelet (length: 10 to 11 mm); 4, male flower (androecium and palea seen from the ventral face, length of palea: 8.5 mm); 5, fragment of rhizome.*
+*PL. XXXIII.—Puelia ciliata Franch. (Chev. 27049) : 1, apex of culm, leaves and inflorescence; 2, detail of venation of leaves; 3, spikelet (length: 10 to 11 mm); 4, male flower (androecium and palea seen from the ventral surface, length of palea: 8.5 mm); 5, fragment of rhizome.*
 
 ## Notes
 

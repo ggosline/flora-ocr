@@ -44,6 +44,14 @@ will find them under Euphorbiaceae.
 | [[Keayodendron]] | 1 | | [[Margaritaria]] | 1 |
 | [[Martretia]] | 1 | | [[Pentabrachion]] | 1 |
 | [[Plagiocladus]] | 1 | | [[Spondianthus]] | 1 |
+| [[Amanoa]] | 1 |
+| [[Bridelia]] | 5 |
+| [[Cleistanthus]] | 8 |
+| [[Maesobotrya]] | 9 |
+| [[Margaritaria]] | 1 |
+| [[Pentabrachion]] | 1 |
+| [[Protomegabaria]] | 3 |
+| [[Spondianthus]] | 1 |
 
 ## Notes
 

@@ -55,7 +55,7 @@ A. P. Thomson : 24, Billagone, N. Gabon (fr. sept.), déterminé à tort comme C
 
 ![Corynanthe mayumbensis](../sources/Rubiaceae_vol12_paddle/figures/fig_014_p0065.png)
 
-*PL. 8.—Rubiaceae with alkaloids : Corynanthe mayumbensis (Good) N. Hallé (N. H. 1606) : 1, inflorescence in buds; 2, full immature fruits; 3, young infructescences.*
+*PL. 8.—Rubiaceae with alkaloids: Corynanthe mayumbensis (Good) N. Hallé (N. H. 1606): 1, inflorescence in buds; 2, full immature fruits; 3, young infructescences.*
 
 ![Corynanthe mayumbensis](../sources/Rubiaceae_vol12_paddle/figures/fig_015_p0067.png)
 

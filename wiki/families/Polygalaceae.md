@@ -31,6 +31,7 @@ Four genera and twelve species.
 | [[Carpolobia]] | 3 |
 | [[Atroxima]] | 1 |
 | [[Securidaca]] | 1 |
+| [[Heterosamara]] | 0 |
 
 ## Notes
 

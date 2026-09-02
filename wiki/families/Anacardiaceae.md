@@ -30,6 +30,18 @@ A cosmopolitan but chiefly tropical and subtropical family of about 81 genera
 and 800 species. The Vol. 50 treatment reports six indigenous genera with 31
 species in Gabon, plus three introduced genera with four species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Antrocaryon]] | 2 |
+| [[Fegimanra]] | 1 |
+| [[Lannea]] | 2 |
+| [[Mangifera]] | 1 |
+| [[Pseudospondias]] | 2 |
+| [[Sorindeia]] | 6 |
+| [[Trichoscypha]] | 18 |
+
 ## Treatment
 
 **Volume**: [[vol50]]  

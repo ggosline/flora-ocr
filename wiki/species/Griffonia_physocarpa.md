@@ -62,7 +62,7 @@ Le Testu : 2225, Fougamou (fl. sept.); 7324, Lastoursville (fl. mai); 7530, Last
 
 ![Griffonia physocarpa](../sources/Leguminosae_vol15_paddle/figures/fig_001_p0023.png)
 
-*PL. I. — Griffonia Tessmannii (De Wild.) Comp.: 1, leaf and inflorescence × 2 /3; 2, flower × 2; 3, petals and calyx × 2; 4, stamens and ovary × 2. — Griffonia physocarpa Baillon: 5, leaf × 2 /3; 6, flower × 2; 7, section of the flower × 2; 8, infructescence × 2 /3; 9, fruit valve, internal surface.*
+*PL. I. — Griffonia Tessmannii (De Wild.) Comp.: 1, leaf and inflorescence × 2/3; 2, flower × 2; 3, petals and calyx × 2; 4, stamens and ovary × 2. — Griffonia physocarpa Baillon: 5, leaf × 2/3; 6, flower × 2; 7, section of the flower × 2; 8, infructescence × 2/3; 9, fruit valve, internal surface.*
 
 ## Notes
 

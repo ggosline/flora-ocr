@@ -30,6 +30,12 @@ Alismataceae is cosmopolitan, with about 12 genera and roughly 80 species. In
 Gabon the treatment recognises only *Ranalisma*, represented by a single
 species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Ranalisma]] | 1 |
+
 ## Treatment
 
 **Volume**: [[vol38]]  

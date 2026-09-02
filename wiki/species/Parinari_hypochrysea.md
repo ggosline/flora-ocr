@@ -91,7 +91,7 @@ Sébire 488 SRF, Ramboué, 90 km SE Libreville (stér., nov.).
 
 ![Parinari hypochrysea](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_040_p0137.png)
 
-*PL. 40. — Parinari hypochrysea Mildbr. ex R. Let. & F. White : 1, apex of young plant × 2 / 3; 2, branch of young stem × 2 / 3; 3, stipule × 2; 4, petiole × 3; 5, base of blade below × 2 / 3; 6, leaf × 2 / 3; 7, branch with flowers × 2 / 3; 8, cymes × 2; 9, bractlet × 4; 10, central floral bud of a cyme × 6; 11, flower viewed from above × 5; 12, open flower × 6. (1, Letouzy 12051; 2-5, Letouzy 12538 bis; 6, Mildbraed 5971; 7-8, De Saint Aubin 1987 SRF; 9-12, Letouzy 12538). (Reprinted from Adansonia 16 (2) : tab. 3, 1976).*
+*PL. 40. — Parinari hypochrysea Mildbr. ex R. Let. & F. White : 1, apex of young plant × 2 / 3; 2, branch of young stem × 2 / 3; 3, stipule × 2; 4, petiole × 3; 5, base of blade below × 2 / 3; 6, leaf × 2 / 3; 7, branch with flowers × 2 / 3; 8, cymes × 2; 9, braclet × 4; 10, central floral bud of a cyme × 6; 11, flower viewed from above × 5; 12, open flower × 6. (1, Letouzy 12051; 2-5, Letouzy 12538 bis; 6, Mildbraed 5971; 7-8, De Saint Aubin 1987 SRF; 9-12, Letouzy 12538). (Reprinted from Adansonia 16 (2) : tab. 3, 1976).*
 
 ## Notes
 

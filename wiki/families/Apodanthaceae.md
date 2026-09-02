@@ -31,6 +31,12 @@ Apodanthaceae comprises three genera and roughly 23 species, distributed in the
 Americas, southwest Asia, Africa, and southwestern Australia. In Gabon the
 treatment recognises a single genus with a single species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Berlinianche]] | 1 |
+
 ## Treatment
 
 **Volume**: [[vol40]]  

@@ -34,6 +34,12 @@ and disturbed ground, with mucilaginous sap and sheathing leaf bases.
 | [[Amischotolype]] | 2 | | [[Cyanotis]] | 2 |
 | [[Murdannia]] | 2 | | [[Coleotrype]] | 1 |
 | [[Pollia]] | 1 | | [[Tricarpelema]] | 1 |
+| [[Coleotrype]] | 1 |
+| [[Commelina]] | 6 |
+| [[Cyanotis]] | 2 |
+| [[Floscopa]] | 4 |
+| [[Stanfieldiella]] | 3 |
+| [[Tricarpelema]] | 1 |
 
 ***Palisota* holds 21 of the 50 species** — an African genus, robust and often
 almost woody at the base, and the dominant commelinaceous element of

@@ -30,6 +30,12 @@ Balanophoraceae contains about 18 genera and 40 to 45 species in tropical and
 subtropical regions. Continental Africa has six genera and six species, but the
 Gabon treatment recognises only *Thonningia*, with a single species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Thonningia]] | 1 |
+
 ## Treatment
 
 **Volume**: [[vol40]]  

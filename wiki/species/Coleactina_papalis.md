@@ -29,7 +29,7 @@ G. Le Testu 8356, Moughimba, SW de Koulamotou, approximativement à midistance d
 
 ![Coleactina papalis](../sources/Rubiaceae_vol17_paddle/figures/fig_019_p0087.png)
 
-*PL. 49. — Coleactina papalis N. Hallé (Le Testu 8356) : 1, leaf (× 0,66); 2, stipule; 3, base of the internal face of a stipule; 4, flowering node after removal of a stipule; 5, detail of the calyculus enveloping the base of the calyx; 6, detail of the calyx; 7, stamen; 8, pollen seen laterally; 9, id. in optical equatorial section; 9 and 10, ovary sections; 11 and 111, two views of the placenta bearing the ovules × 7; 12, style.*
+*PL. 49. — Coleactina papalis N. Hallé (Le Testu 8356) : 1, leaf (× 0,66); 2, stipule; 3, base of the internal surface of a stipule; 4, flowering node after removal of a stipule; 5, detail of the calyculus enveloping the base of the calyx; 6, detail of the calyx; 7, stamen; 8, pollen seen laterally; 9, id. in optical equatorial section; 9 and 10, ovary sections; 11 and 111, two views of the placenta bearing the ovules × 7; 12, style.*
 
 ## Notes
 

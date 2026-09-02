@@ -48,7 +48,7 @@ Le Testu 7491, Manéga (fl., oct.); 7514, 8480, Lastoursville (fl., oct.).
 
 ![Rhaphiostylis preussii](../sources/Icacinaceae_vol20_paddle/figures/fig_008_p0037.png)
 
-*PL. 8. — Rhaphiostylis beninensis (Hook. f. ex Planch.) Planch. ex Benth. : 1, 2, different types of leaves × 1/2; 3, flower × 2, 6; 4, section of flower × 2, 6; 5, floral bud × 2, 6; 6, sepal × 8; 7, petal × 3, 6; 8, 8', stamen × 4; 9, ovary × 5; 10, 10', 10", fruit × 2. — R. preussii Engl. : 11, leaves × 1; 12, flower × 2; 13, section of flower × 2; 14, floral diagram; 15, sepal × 12; 16, petal × 4, 5; 17, stamen × 5; 18, ovary × 5. (1-9, Klaine 3348; 10-10", Klaine 359; 11-18, Le Testu 7491).*
+*PL. 8. — Rhaphiostylis beninensis (Hook. f. ex Planch.) Planch. ex Benth.: 1, 2, different types of leaves × 1/2; 3, flower × 2, 6; 4, section of flower × 2, 6; 5, floral bud × 2, 6; 6, sepal × 8; 7, petal × 3, 6; 8, 8', stamen × 4; 9, ovary × 5; 10, 10', 10", fruit × 2. — R. preussii Engl.: 11, leaves × 1; 12, flower × 2; 13, section of flower × 2; 14, floral diagram; 15, sepal × 12; 16, petal × 4, 5; 17, stamen × 5; 18, ovary × 5. (1-9, Klaine 3348; 10-10", Klaine 359; 11-18, Le Testu 7491).*
 
 ## Notes
 

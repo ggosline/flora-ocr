@@ -42,7 +42,7 @@ Hallé N. & Villiers J.-F. 5515, cap Estérias (fév.).
 
 ![Preussiella kamerunensis](../sources/Melastomataceae_vol25_paddle/figures/fig_025_p0073.png)
 
-*PL. 25. — Preussiella kamerunensis Gulg : 1, flowering summit × 2/3; 2, stamen of each of the whorls × 6; 3, 3', 3', entire fruit, in section, and upper part × 3; 4, seed × 16 (1 & 2, Letouzey 13777; 3 & 4, Adam 20616).*
+*PL. 25. — Preussiella kamerunensis Gilg : 1, flowering summit × 2/3; 2, stamen of each of the whorls × 6; 3, 3', 3', entire fruit, in section, and upper part × 3; 4, seed × 16 (1 & 2, Letouzey 13777; 3 & 4, Adam 20616).*
 
 ## Notes
 

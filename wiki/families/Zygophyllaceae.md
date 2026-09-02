@@ -17,6 +17,12 @@ tags: [family]
 
 Herbs or woody plants with persistent stipules, opposite or alternate simple or usually compound leaves, multi-ovuled ovary locules, and dry fruits that open or separate into mericarps.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Tribulus]] | 1 |
+
 ## Treatment
 
 Vol. 6 documents [[Tribulus_terrestris]] only provisionally. The sole specimen may actually be from Accra, Ghana, so neither the genus nor species is confirmed for Gabon.

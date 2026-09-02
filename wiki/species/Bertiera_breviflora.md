@@ -60,7 +60,7 @@ J.-F. Villiers 95, 190, Cap Estérias (fr. juin; fl. août).
 
 ![Bertiera breviflora](../sources/Rubiaceae_vol17_paddle/figures/fig_010_p0051.png)
 
-*PL. 10. — Bertiera aequatorialis N. Hallé (N. H. 794; 2 et 3, N. H. 1155; 7, N.H. 1310 bis) : 1, inflorescence × 0,75; 2, bud × 6,5; 3, corolla spread viewed from face; 4, section of the flower × 8; 5, stamen; 6, fruit fresh × 2; 7, seed × 16. — B. breviflora Hiern (N. H. 2915; 9, N. H. 2670; 11, N. H. 1127) : 8, young infrutescence × 0,75; 9 et 10, buds × 6; 11, style; 12, section of the ovary; 13, fruit fresh × 2; 14, seed × 16.*
+*PL. 10. — Bertiera aequatorialis N. Hallé (N. H. 794; 2 et 3, N. H. 1155; 7, N.H. 1310 bis) : 1, inflorescence × 0,75; 2, bud × 6,5; 3, corolla spread viewed from front; 4, section of the flower × 8; 5, stamen; 6, fruit fresh × 2; 7, seed × 16. — B. breviflora Hiern (N. H. 2915; 9, N. H. 2670; 11, N. H. 1127) : 8, young infrutescence × 0,75; 9 et 10, buds × 6; 11, style; 12, section of the ovary; 13, fruit fresh × 2; 14, seed × 16.*
 
 ## Notes
 

@@ -67,7 +67,7 @@ Le Testu 7245, Lastoursville (fl. avr.).
 
 ![Tricalysia concolor](../sources/Rubiaceae_vol17_paddle/figures/fig_067_p0287.png)
 
-*PL. 65. — Tricalysia concolor (N. Hallé et A. Le Thomas 119) : I, leaf × 0.6; 2, inflorescence insertion viewed at juvenile stage and stipule; 3 and 4, flower; 5, stamen; 6, style; 7, ovary section; 8, peltate uniovulate placenta recto and verso; 9, infructescence × 0.6; 10, section of dry fruit; 11, seed. — T. macrophylla K. Schum. (Klaine 2521; 20, 21, Klaine 2640) : 12, leaf × 0.6; 13, young inflorescence and stipule; 14 and 15, flower; 16, stamen; 17, style; 18, ovary in section; 19, placentation; 20, infructescence × 0.6; 21, seed × 2.5.*
+*PL. 65. — Tricalysia concolor (N. Hallé et A. Le Thomas 119) : 1, leaf × 0.6; 2, inflorescence insertion viewed at juvenile stage and stipule; 3 and 4, flower; 5, stamen; 6, style; 7, ovary section; 8, peltate uniovulate placenta recto and verso; 9, infructescence × 0.6; 10, section of dry fruit; 11, seed. — T. macrophylla K. Schum. (Klaine 2521; 20, 21, Klaine 2640) : 12, leaf × 0.6; 13, young inflorescence and stipule; 14 and 15, flower; 16, stamen; 17, style; 18, ovary in section; 19, placentation; 20, infructescence × 0.6; 21, seed × 2.5.*
 
 ![Tricalysia concolor](../sources/Rubiaceae_vol17_paddle/figures/fig_068_p0289.png)
 

@@ -46,7 +46,7 @@ Dybowski 92, lagune Ngové, bordure de forêt et de prairie (fév.). Gilles 385,
 
 ![Dissotis congolensis](../sources/Melastomataceae_vol25_paddle/figures/fig_004_p0019.png)
 
-*PL. 4. — Dissotis congolensis (Cogn.) Jacq.-Fél. : 1, general aspect × 2/3; 2, complete flower × 6; 3, capsule × 3; 4, inter-sepal emergence × 12; 5, stamen × 12; 6, seed × 20; 7, stamen with developed pedoconnective × 12 (Hallé 4120.)*
+*PL. 4. — Dissotis congolensis (Cogn.) Jacq.-Fél. : 1, general appearance × 2/3; 2, complete flower × 6; 3, capsule × 3; 4, inter-sepal emergence × 12; 5, stamen × 12; 6, seed × 20; 7, stamen with developed pedoconnective × 12 (Hallé 4120.)*
 
 ## Notes
 

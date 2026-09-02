@@ -50,7 +50,7 @@ Breteler & Jongkind 10493, au NNO de N'djolé, 0°05'S-10°45'E (st.), WAG. de W
 
 ![Combretum exelli](../sources/Combretaceae_vol35_paddle/figures/fig_010_p0042.png)
 
-*PL. 10. – Combretum esteriense Jongkind : 1, flowering branch ; 2, infrutescence ; 3, entire flowers (1 & 3, Jongkind, Ngoye & Nzabi 1344 ; 2, Jongkind & Ngoye 1335). – Combretum exelli Jongkind : 4, entire flower in profile & after removal of a sepal & two petals (4, de Wilde & Arends 10053). – Original drawings by JoANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
+*PL. 10. – Combretum esteriense Jongkind : 1, flowering branch ; 2, infructescence ; 3, entire flowers (1 & 3, Jongkind, Ngoye & Nzabi 1344 ; 2, Jongkind & Ngoye 1335). – Combretum exelli Jongkind : 4, entire flower in profile & after removal of a sepal & two petals (4, de Wilde & Arends 10053). – Original drawings by JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
 
 ## Notes
 

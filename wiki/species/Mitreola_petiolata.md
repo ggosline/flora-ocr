@@ -52,7 +52,7 @@ Bounougou 143, Koza, 20 km NE Mokolo, sur route de Mora (fl., fr., sept.) K, P, 
 
 ![Mitreola petiolata](../sources/Loganiaceae_vol19_paddle/figures/fig_008_p0027.png)
 
-*PL. 8. — Mitreola petiolata (J. F. Gmel.) Torr. et Gray : 1, plant × ½; 2, flower × 15; 3, flower dissection × 15; 4, corolla dissection with stamens × 15; 5, pistil × 30; 6, pistil with longitudinal section of ovary × 30; 7, pistil at the end of flowering × 30; 8, fruit × 10; 9, seeds × 30. (1-9 : Bounougou 143).*
+*PL. 8. — Mitreola petiolata (J. F. Gmel.) Torr. et Gray: 1, plant × ½; 2, flower × 15; 3, flower dissection × 15; 4, corolla dissection with stamens × 15; 5, pistil × 30; 6, pistil with longitudinal section of ovary × 30; 7, pistil at the end of flowering × 30; 8, fruit × 10; 9, seeds × 30. (1-9: Bounougou 143).*
 
 ## Notes
 

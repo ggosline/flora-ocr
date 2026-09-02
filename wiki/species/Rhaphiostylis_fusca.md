@@ -48,7 +48,7 @@ Hallé N. & Villiers J.-F. 4504, route de Kinguélé, km 5 (fr., janv.).
 
 ![Rhaphiostylis fusca](../sources/Icacinaceae_vol20_paddle/figures/fig_009_p0041.png)
 
-*PL. 9. — Rhaphiostylis fusca (Pierre) Pierre : 1, leaf × 2/3; 2, floral bud × 4,5; 3, flower × 4,3; 4, long. section of the flower × 4,3; 5,5', sepal × 6,5; 6,6', petal × 4,5; 7,7', stamen × 4,5; 8,8', ovary × 4,5; 9,9', 9", fruit × 1; 10, section of the fruit × 1,2; 11, seed × 1. — R. ferruginea Engl. : 12, flower × 4; 13, section of the flower × 4; 14, floral diagram; 15, petal × 4; 16, stamen × 4,5; 17, ovary × 4,5. (1-11, Klaine 158; 12-17, Le Testu 1551).*
+*PL. 9. — Rhaphiostylis fusca (Pierre) Pierre: 1, leaf × 2/3; 2, floral bud × 4,5; 3, flower × 4,3; 4, long. section of the flower × 4,3; 5,5', sepal × 6,5; 6,6', petal × 4,5; 7,7', stamen × 4,5; 8,8', ovary × 4,5; 9,9', 9", fruit × 1; 10, section of the fruit × 1,2; 11, seed × 1. — R. ferruginea Engl.: 12, flower × 4; 13, section of the flower × 4; 14, floral diagram; 15, petal × 4; 16, stamen × 4,5; 17, ovary × 4,5. (1-11, Klaine 158; 12-17, Le Testu 1551).*
 
 ## Notes
 

@@ -38,6 +38,15 @@ introduced taxa in the corpus.
 | [[Melothria]] | 1 | | [[Peponium]] | 1 |
 | [[Raphidiocystis]] | 1 | | [[Ruthalicia]] | 1 |
 | [[Telfairia]] | 1 | | [[Trichosanthes]] | – |
+| [[Bambekea]] | 1 |
+| [[Cogniauxia]] | 1 |
+| [[Cucumis]] | 3 |
+| [[Cucurbita]] | 3 |
+| [[Luffa]] | 1 |
+| [[Peponium]] | 1 |
+| [[Ruthalicia]] | 1 |
+| [[Trichosanthes]] | 0 |
+| [[Zehneria]] | 5 |
 
 ## Notes
 

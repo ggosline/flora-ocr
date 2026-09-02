@@ -13,6 +13,13 @@ tags: [family]
 
 Herbs or woody climbers with simple leaves, petaloid perianths and one-seeded fruits enclosed by the persistent perianth base. Vol. 7 treats native or naturalized [[Boerhaavia]] and cultivated [[Bougainvillea]].
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Boerhaavia]] | 1 |
+| [[Bougainvillea]] | 1 |
+
 ## See also
 
 - [[vol07]]

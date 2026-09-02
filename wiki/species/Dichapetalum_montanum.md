@@ -56,7 +56,7 @@ Le Testu 8121, type (fl., Juin).
 
 ![Dichapetalum montanum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_039_p0140.png)
 
-*PL. 38. – Dichapetalum montanum Breteler : 1, young flowering branch × 0,8 ; 2, stipule × 5 ; 3, leaf axil with glomérule × 5 ; 4, bifurcate inflorescence × 5 ; 5, flower × 15 ; 6, flower, interior of tube and pistil, detail × 15 ; 7, idem, pistil removed, showing an anther and a staminode × 15 ; 8, fruit × 0,8 (1-3, Le Testu 8121 ; 4, 8, Léonard 2453 ; 5-7, Gutzwiller 1222) – Taken from MLW 81 (10) : 40 (1981).*
+*PL. 38. – Dichapetalum montanum Breteler : 1, young flowering branch × 0,8 ; 2, stipule × 5 ; 3, leaf axil with glomerule × 5 ; 4, bifurcate inflorescence × 5 ; 5, flower × 15 ; 6, flower, interior of tube and pistil, detail × 15 ; 7, idem, pistil removed, showing an anther and a staminode × 15 ; 8, fruit × 0,8 (1-3, Le Testu 8121 ; 4, 8, Léonard 2453 ; 5-7, Gutzwiller 1222) – Taken from MLW 81 (10) : 40 (1981).*
 
 ## Notes
 

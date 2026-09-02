@@ -40,7 +40,7 @@ Le Testu: 2325, 5120, Ngounyé (fl. Oct.; fr. Nov.); 7472, 7504, 7504 bis, Lasto
 
 ![Cola letestui](../sources/Sterculiaceae_vol02_paddle/figures/fig_013_p0073.png)
 
-*PL. XIII. — 1 to 7, Cola (Pseudobichea) letestui Pellegr. : 1, leaf (Le Testu 5120); 2, young cauline inflorescence (Le T. 7504); 3, open male flower (Le T. 2325); 4 and 5, androecium, the crown measures approx. 1, 8 mm thickness, and 6, gynandreoecium 6 mm high (Le T. 2325); 7, fruit (Le T. 7504). — 8 to 13, Cola (Pseudobichea flavocelutina K. Schum. : 8, leaf and 9, extremity showing the stipules 7 mm long and the terminal bud (Mann 1789); 10, open male flower (Olorunfemi 30503, Brit. Camer.); 11, 12, androecium with crown of approx. 1, 6 mm thickness, and 13, gynandreoecium 7 mm high (Zenker 1325).*
+*PL. XIII. — 1 to 7, Cola (Pseudobichea) letestui Pellegr. : 1, leaf (Le Testu 5120); 2, young cauline inflorescence (Le T. 7504); 3, open male flower (Le T. 2325); 4 and 5, androecium, the crown measures approx. 1, 8 mm thickness, and 6, gynandreoecium 6 mm high (Le T. 2325); 7, fruit (Le T. 7504). — 8 to 13, Cola (Pseudobichea) flavocelutina K. Schum. : 8, leaf and 9, extremity showing the stipules 7 mm long and the terminal bud (Mann 1789); 10, open male flower (Olorunfemi 30503, Brit. Camer.); 11, 12, androecium with crown of approx. 1, 6 mm thickness, and 13, gynandreoecium 7 mm high (Zenker 1325).*
 
 ## Notes
 

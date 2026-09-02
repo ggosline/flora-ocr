@@ -34,6 +34,13 @@ Aizoaceae is a predominantly arid-zone family with about 127 genera and around
 2,500 species, strongly centred in southern Africa. In Gabon the treatment
 recognises only one genus, *Sesuvium*, represented by a single species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Mollugo]] | 1 |
+| [[Sesuvium]] | 1 |
+
 ## Treatment
 
 ### Volume 7 (1963)

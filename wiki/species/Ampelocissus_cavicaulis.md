@@ -62,7 +62,7 @@ Walker : 2, Mission catholique de Lamaréné (fl. mars); s. n., Saint-Martin (fl
 
 ![Ampelocissus cavicaulis](../sources/Vitaceae_vol14_paddle/figures/fig_006_p0073.png)
 
-*PL. I. — Ampelocissus cavicaulis (Bak.) Planchon : 1, general appearance, × 1; 2, a whole leaf, × 1; 3, detail of the leaf margin, lower surface, × 2; 4, detail of a tooth of the margin; 5, stipule, × 6; 6, bract of the inflorescence, × 6; 7, whole flower, × 10; 8, petal, internal surface, × 10; 9, stamen, ventral surface, × 15; 10, fruit, × 2; 11, seed, left ventral surface, right dorsal surface, × 3; 12, different types of hairs.*
+*PL. I. — Ampelocissus cavicaulis (Bak.) Planchon: 1, general appearance, × 1; 2, a whole leaf, × 1; 3, detail of the leaf margin, lower surface, × 2; 4, detail of a tooth of the margin; 5, stipule, × 6; 6, bract of the inflorescence, × 6; 7, whole flower, × 10; 8, petal, internal surface, × 10; 9, stamen, ventral surface, × 15; 10, fruit, × 2; 11, seed, left ventral surface, right dorsal surface, × 3; 12, different types of hairs.*
 
 ## Notes
 

@@ -84,7 +84,7 @@ akoa (bakélé); ekoa, evess more, evzéó moro, mabamana, mebaméné, mebamenen
 
 ![Maranthes chrysophylla](../sources/Chrysobalanaceae_vol24_paddle/figures/fig_030_p0105.png)
 
-*PL. 30. — Maranthes chrysophylla (Oliv.) Prance : 1, branch with flowers × 1/3; 2, another type of leaf × 1/3; 3, leaf below × 5/2; 4, petiole × 1; 5, young shoot × 7/6; 6, flower (pet. excl.) × 1; 7, another type of flower × 1; 8, petal × 1; 9, fruit × 2/3. (1, 3, 7-8, Letouzey 13587; 2, Mann 978; 4-9, INEF s.n.; 5, Fleury in Chevalier 33523; 6, Le Testu 9397).*
+*PL. 30. — Maranthes chrysophylla (Oliv.) Prance : 1, branch with flowers × 1/3; 2, another type of leaf × 1/3; 3, lower leaf × 5/2; 4, petiole × 1; 5, young shoot × 7/6; 6, flower (pet. excl.) × 1; 7, another type of flower × 1; 8, petal × 1; 9, fruit × 2/3. (1, 3, 7-8, Letouzey 13587; 2, Mann 978; 4-9, INEF s.n.; 5, Fleury in Chevalier 33523; 6, Le Testu 9397).*
 
 ## Notes
 

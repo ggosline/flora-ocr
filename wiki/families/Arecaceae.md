@@ -32,6 +32,23 @@ A mainly tropical family of 186 genera and more than 2,500 species, distributed
 through the tropics and subtropics. The Gabon treatment recognises 11 genera and
 34 species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Calamus]] | 1 |
+| [[Cocos]] | 1 |
+| [[Elaeis]] | 1 |
+| [[Eremospatha]] | 8 |
+| [[Hyphaene]] | 1 |
+| [[Laccosperma]] | 5 |
+| [[Oncocalamus]] | 2 |
+| [[Palmae]] | 0 |
+| [[Phoenix]] | 1 |
+| [[Podococcus]] | 2 |
+| [[Raphia]] | 8 |
+| [[Sclerosperma]] | 3 |
+
 ## Treatment
 
 **Volume**: [[vol53]]  

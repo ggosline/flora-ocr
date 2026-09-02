@@ -81,7 +81,7 @@ nieuk (commercial) ; abit, enoumnousse, nieuk (Fang) ; difyoru (Eshina)
 
 ![Fillaeopsis discophora](../sources/Leguminosae_vol31_paddle/figures/fig_020_p0042.png)
 
-*PL. 9. – Fillaeopsis discophora Harms : 1, leaf × 1 ; 2, leaflet, detail venation upper surface × 3 ; 3, idem lower surface × 3 ; 4, inflorescence × 2/3 5, bract × 10 ; 6, floral bud × 12 ; 7, flower × 10 ; 8, flower, longitudinal section × 10 ; 9, petal, external surface × 14 ; 10, anther × 20 ; 11, pistil and disk × 12. (1-3, Le Testu 5201 and Morel 35 ; 4-8, 10, Le Testu 7896 ; 9, 11, Zenker 1577 (Cameroon)).*
+*PL. 9. – Fillaeopsis discophora Harms: 1, leaf × 1; 2, leaflet, detail venation upper surface × 3; 3, idem lower surface × 3; 4, inflorescence × 2/3; 5, bract × 10; 6, floral bud × 12; 7, flower × 10; 8, flower, longitudinal section × 10; 9, petal, external surface × 14; 10, anther × 20; 11, pistil and disk × 12. (1-3, Le Testu 5201 and Morel 35; 4-8, 10, Le Testu 7896; 9, 11, Zenker 1577 (Cameroon)).*
 
 ## Notes
 

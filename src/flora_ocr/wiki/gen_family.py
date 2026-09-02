@@ -149,12 +149,65 @@ def render(family: str, bundles: list[dict]) -> str:
     return "\n".join(fm) + "\n".join(out)
 
 
+GENERA_HEADING_RE = re.compile(r"^## Genera\b.*$", re.M)
+ROW_GENUS_RE = re.compile(r"^\|\s*\[\[([^\]|\\]+)")
+# where the genera table belongs if the page has none: before the first of
+# these, so it sits after the prose and before the apparatus
+INSERT_BEFORE = re.compile(r"^## (Treatment|Treatments|Notes|See also)\b", re.M)
+
+
+def genera_table(pairs: list[tuple[str, int]]) -> list[str]:
+    out = ["| Genus | Species |", "|-------|---------|"]
+    out += [f"| [[{g}]] | {n} |" for g, n in pairs]
+    return out
+
+
+def patch_genera(text: str, pairs: list[tuple[str, int]]) -> str | None:
+    """Add the genera table, or the rows an existing one is missing.
+
+    Authored pages are left alone apart from this: existing rows keep whatever
+    the author wrote in them, and only genera absent from the table are added.
+    A page that names its genera in prose but never links them -- Aristolochiaceae
+    mentions Pararistolochia and links nothing -- gets a table of its own.
+    """
+    heading = GENERA_HEADING_RE.search(text)
+    if heading:
+        start = heading.end()
+        nxt = re.search(r"^## ", text[start:], re.M)
+        end = start + (nxt.start() if nxt else len(text) - start)
+        section = text[start:end]
+        listed = {m.group(1).strip() for m in
+                  (ROW_GENUS_RE.match(l) for l in section.split("\n")) if m}
+        missing = [(g, n) for g, n in pairs if g not in listed]
+        if not missing:
+            return None
+        rows = [f"| [[{g}]] | {n} |" for g, n in missing]
+        body = section.rstrip("\n").split("\n")
+        # append after the last table row, keeping any trailing prose in place
+        last = max((i for i, l in enumerate(body) if l.lstrip().startswith("|")),
+                   default=-1)
+        if last < 0:
+            body = genera_table(pairs)
+        else:
+            body[last + 1:last + 1] = rows
+        return text[:start] + "\n".join(body) + "\n\n" + text[end:]
+
+    block = ["## Genera in region", ""] + genera_table(pairs) + [""]
+    anchor = INSERT_BEFORE.search(text)
+    if not anchor:
+        return text.rstrip("\n") + "\n\n" + "\n".join(block) + "\n"
+    return text[:anchor.start()] + "\n".join(block) + "\n" + text[anchor.start():]
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--family")
     ap.add_argument("--all", action="store_true")
     ap.add_argument("--out", default=str(WIKI_DIR / "families"))
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--patch-genera", action="store_true",
+                    help="add the genera table, or its missing rows, to pages "
+                         "that already exist -- leaving their prose untouched")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args(argv)
 
@@ -173,6 +226,44 @@ def main(argv: list[str] | None = None) -> int:
             by_family[family].append(bundle)
 
     out_dir = Path(args.out)
+
+    if args.patch_genera:
+        patched = unchanged = absent = 0
+        for family, entries in sorted(by_family.items()):
+            target = out_dir / f"{family}.md"
+            if not target.exists():
+                absent += 1
+                continue
+            # count distinct species, not blocks: a variety is a block of its
+            # own, and Pararistolochia's six species were counted as seven
+            names: dict[str, set[str]] = defaultdict(set)
+            for bundle in entries:
+                for block in bundle["blocks"]:
+                    if block["rank"] == "genus" and block["name"] not in NOT_A_TAXON:
+                        names.setdefault(correct(block["name"]), set())
+                    elif block["rank"] == "species" and block.get("genus"):
+                        names[correct(block["genus"])].add(block["canonical"])
+            counts = {g: len(v) for g, v in names.items()}
+            pairs = [(g, n) for g, n in sorted(counts.items())
+                     if (WIKI_DIR / "genera" / f"{g}.md").exists()]
+            if not pairs:
+                unchanged += 1
+                continue
+            text = target.read_text(encoding="utf-8")
+            updated = patch_genera(text, pairs)
+            if updated is None or updated == text:
+                unchanged += 1
+                continue
+            added = updated.count("| [[") - text.count("| [[")
+            print(f"  {family}: +{added} genera")
+            if not args.dry_run:
+                target.write_text(updated, encoding="utf-8")
+            patched += 1
+        verb = "would patch" if args.dry_run else "patched"
+        print(f"{verb} {patched} family pages, {unchanged} already complete, "
+              f"{absent} with no page")
+        return 0
+
     written = skipped = protected = 0
     for family, entries in sorted(by_family.items()):
         target = out_dir / f"{family}.md"

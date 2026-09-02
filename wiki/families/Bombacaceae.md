@@ -34,6 +34,7 @@ Four genera and six species — one of the six families in the composite
 | [[Adansonia]] | 1 | **baobab** |
 | [[Bombax]] | 1 | |
 | [[Ceiba]] | 1 | **kapok** |
+| [[Rhodognaphalon]] | 2 |
 
 ## Notes
 

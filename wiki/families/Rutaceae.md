@@ -34,6 +34,8 @@ Trees, shrubs or lianas, often prickly, with alternate simple or compound leaves
 | [[Toddalia]] | 1 | *T. asiatica* |
 | [[Citropsis]] | 3 | Three accounts |
 | [[Afraegle]] | 2 | One doubtful Gabon species; one regional comparison |
+| [[Citrus]] | 0 |
+| [[Todalia]] | 0 |
 
 ## Treatment
 

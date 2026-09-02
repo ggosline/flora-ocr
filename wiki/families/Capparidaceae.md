@@ -33,6 +33,7 @@ Four genera and 14 species, sharing [[vol30]] with [[Brassicaceae]].
 | [[Cleome]] | 4 | **Cleomaceae** |
 | [[Euadenia]] | 3 | Capparaceae |
 | [[Buchholzia]] | 2 | Capparaceae |
+| [[Cledelavariationde]] | 0 |
 
 ## Notes
 

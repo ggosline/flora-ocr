@@ -43,6 +43,8 @@ source.
 | [[Mocquerysia]] | 1 | Salicaceae |
 | [[Dasylepis]] | 1 | Achariaceae |
 | [[Buchnerodendron]] | 1 | Achariaceae |
+| [[Phyllobotryon]] | 3 |
+| [[Scottellia]] | 1 |
 
 ## Notes
 

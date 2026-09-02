@@ -48,7 +48,7 @@ Breteler 2754, Zilly près Nguéléméndouka, 50 km NW Abong Mbang (fl., j. fr.)
 
 ![Rhaptopetalum breteleri](../sources/Scytopetalaceae_vol24_paddle/figures/fig_047_p0173.png)
 
-*PL. 47. — Rhaptopetalum breteleri R. Let. : 1, branch with leaf and supra-axill. innov. × 4/9; 2, branch tip × 2/3; 3, mass of supra-axill. cataphylls × 2; 4, other type of leaf × 1/3; 5, inflorescences × 2/3; 6, floral bud × 10/3; 7, long. section fl. × 20/3; 8, young fruit × 10/3; 9, pericarp section × 10. (Breteler 2754). (Reprinted from Adansonia 17 (2) : tab. 3, 1977).*
+*PL. 47. — Rhaptopetalum breteleri R. Let. : 1, branch with leaf and supra-axil. innov. × 4/9; 2, branch tip × 2/3; 3, mass of supra-axil. cataphylls × 2; 4, other type of leaf × 1/3; 5, inflorescences × 2/3; 6, floral bud × 10/3; 7, long. section fl. × 20/3; 8, young fruit × 10/3; 9, pericarp section × 10. (Breteler 2754). (Reprinted from Adansonia 17 (2) : tab. 3, 1977).*
 
 ## Notes
 

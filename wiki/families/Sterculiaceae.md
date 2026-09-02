@@ -43,6 +43,8 @@ A. Aubréville). *Cola* alone holds 30 of them.
 | [[Byttneria]] | 1 | Byttnerioideae |
 | [[Nesogordonia]] | 1 | Dombeyoideae |
 | [[Waltheria]] | 1 | Byttnerioideae |
+| [[Chlamydocola]] | 1 |
+| [[Octolobus]] | 2 |
 
 ## Notes
 

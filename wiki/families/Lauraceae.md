@@ -35,6 +35,7 @@ Seven genera and 32 species, sharing [[vol10]] with [[Myristicaceae]] and
 | [[Persea]] | 1 | avocado, cultivated |
 | [[Cinnamomum]] | 1 | cultivated |
 | [[Laurus]] | 1 | cultivated |
+| [[Tribu]] | 1 |
 
 ## Notes
 

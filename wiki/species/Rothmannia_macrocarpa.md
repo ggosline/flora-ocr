@@ -53,7 +53,7 @@ Le Testu 6405, Idoumi Itsogho, Haute-Ngounyé (fl. mars); 7778 (BM!), Ngoma (fl.
 
 ![Rothmannia macrocarpa](../sources/Rubiaceae_vol17_paddle/figures/fig_059_p0249.png)
 
-*PL. 58. — Rothmannia macrocarpa (Hiern) Keay (fl. Le Testu 6405; fr. N. Hallé 3298) : 1, myrmecodome branch × 1; 2, flower partly open × 2/3; 3, transverse section of anther; 4, fruit in vivo with opening in pericarp × 0.75; 5, section of fruit; 6, seed of 10 mm; 7, embryo of 7 mm. — R. libisa N. Hallé (N. H. 1492, except 9) : 8, apex of leaf; 9, young bud × 1 (Letouzey 5103); 10, fruit in vivo × 0.75; 11, placental mass containing seeds; 12, seed of 10 mm; 13, section of seed; 14, embryo of 6 mm.*
+*PL. 58. — Rothmannia macrocarpa (Hiern) Keay (fl. Le Testu 6405; fr. N. Hallé 3298) : 1, myrmecophile branch × 1; 2, flower partly open × 2/3; 3, transverse section of anther; 4, fruit in vivo with opening in pericarp × 0.75; 5, section of fruit; 6, seed of 10 mm; 7, embryo of 7 mm. — R. libisa N. Hallé (N. H. 1492, except 9) : 8, apex of leaf; 9, young bud × 1 (Letouzey 5103); 10, fruit in vivo × 0.75; 11, placental mass containing seeds; 12, seed of 10 mm; 13, section of seed; 14, embryo of 6 mm.*
 
 ## Notes
 

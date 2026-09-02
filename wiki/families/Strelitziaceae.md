@@ -13,6 +13,12 @@ tags: [family]
 
 Large herbs or tree-like plants resembling Musaceae but with distichous leaves, closed petiole sheaths, differentiated perianths and capsular fruits. Both Gabon records in Vol. 9 are cultivated introductions: [[Ravenala_madagascariensis|*Ravenala madagascariensis*]] and [[Strelitzia_reginae|*Strelitzia reginae*]].
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Strelitzia]] | 0 |
+
 ## See also
 
 - [[vol09]]

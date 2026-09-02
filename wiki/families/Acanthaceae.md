@@ -46,6 +46,22 @@ disturbed ground, with some lianas ([[Thunbergia]], [[Mendoncia]]).
 | [[Elytraria]] | 1 | | [[Nelsonia]] | 1 |
 | [[Chlamydocardia]] | 1 | | [[Anisotes]] | 1 |
 | [[Dicliptera]] | 1 | | [[Rhinacanthus]] | 1 |
+| [[Acanthus]] | 2 |
+| [[Anisotes]] | 1 |
+| [[Barleria]] | 2 |
+| [[Dischistocalyx]] | 4 |
+| [[Eremomastax]] | 1 |
+| [[Hypoestes]] | 3 |
+| [[Justicia]] | 5 |
+| [[Lankesteria]] | 1 |
+| [[Nelsonia]] | 1 |
+| [[Phaulopsis]] | 4 |
+| [[Rhinacanthus]] | 1 |
+| [[Rungia]] | 2 |
+| [[Sclerochiton]] | 1 |
+| [[Stenandriopsis]] | 4 |
+| [[Thomandersia]] | 4 |
+| [[Thunbergia]] | 2 |
 
 ## Notes
 

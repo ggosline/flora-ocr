@@ -31,6 +31,12 @@ The family contains about 12 genera and roughly 450 to 500 species worldwide. In
 Gabon the treatment recognises a single genus, *Pararistolochia*, with six
 species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Pararistolochia]] | 6 |
+
 ## Treatment
 
 **Volume**: [[vol42]]  

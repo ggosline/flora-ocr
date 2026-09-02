@@ -21,6 +21,12 @@ The monogeneric family used in Vol. 6 comprises spiny trees and shrubs with alte
 
 - [[Balanites]] — one rare species in Gabon.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Balanites]] | 1 |
+
 ## See also
 
 - [[vol06]]

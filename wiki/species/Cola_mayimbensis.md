@@ -34,7 +34,7 @@ Type of the species and sole known specimen: Le Testu 7765, region of Lastoursvi
 
 ![Cola mayimbensis](../sources/Sterculiaceae_vol02_paddle/figures/fig_012_p0069.png)
 
-*PL. XII. — 1 to 5, Cola (Pseudobichea) mayimbensis Pellegr. (Le Testu 7765) : 1, flowering branch; 2, male flower open not fully open; 3, gynandreoecium 3,5 mm high, of the female flower; 4, androphore of the male flower, the pollen sacs measure approx. 0,5 mm in height; 5, terminal bud and stipules 5 mm long. — 6 to 11, Cola (Pseudobichea) cauliflora Mast.: 6, flowering branch (Klaine 3292); 7, group of open flowers; 8, gynandreoecium 8 mm high, of the female flower; 9, androphore of the male flower, the pollen sacs measure approx. 2 mm in height; 10, crown in section (from 7 to 10, Thollon 1322); 11, ripe fruit (Klaine 3477). — Figures 1, 6, 7 and 11 are at the same scale.*
+*PL. XII. — 1 to 5, Cola (Pseudobichea) mayimbensis Pellegr. (Le Testu 7765) : 1, flowering branch; 2, male flower open not fully open; 3, gynandroeceium 3,5 mm high, of the female flower; 4, androphore of the male flower, the pollen sacs measure approx. 0,5 mm in height; 5, terminal bud and stipules 5 mm long. — 6 to 11, Cola (Pseudobichea) cauliflora Mast.: 6, flowering branch (Klaine 3292); 7, group of open flowers; 8, gynandroeceium 8 mm high, of the female flower; 9, androphore of the male flower, the pollen sacs measure approx. 2 mm in height; 10, crown in section (from 7 to 10, Thollon 1322); 11, ripe fruit (Klaine 3477). — Figures 1, 6, 7 and 11 are at the same scale.*
 
 ## Notes
 

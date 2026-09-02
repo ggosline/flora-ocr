@@ -39,7 +39,7 @@ Reitsma J. M. & B. 1953, Monts Doudou., 30 km SW of Doussala, 2°32' S, 10°29' 
 
 ![Cynorkis gabonensis](../sources/Orchidaceae_vol36_paddle/figures/fig_008_p0030.png)
 
-*PL. 8. – Structure of the gynostemium of the genus Cynorkis Thouars: A, lateral view ; B, viscidia and apical region of caudicle ; C, view from above ; D, view of base ; E, lateral view ; F, rostellum, longitudinal section ; G, view from above ; H, view of base (A-H, ex SZLACHETKO & RUTKOWSKI, 2000).*
+*PL. 8. – Structure of the gynostemium of the genus Cynorkis Thouars: A, lateral view; B, viscidia and apical region of caudicle; C, view from above; D, view of base; E, lateral view; F, rostellum, longitudinal section; G, view from above; H, view of base (A-H, ex SZLACHETKO & RUTKOWSKI, 2000).*
 
 ![Cynorkis gabonensis](../sources/Orchidaceae_vol36_paddle/figures/fig_116_p0218.png)
 

@@ -45,7 +45,7 @@ N. Hallé 2894, mines de fer de Bélinga, 950-1000 m, arbuste 1,5 m (fl., nov.);
 
 ![Allophylus welwitschii](../sources/Sapindaceae_vol23_paddle/figures/fig_005_p0039.png)
 
-*PL. 5. — Allophylus welwitschii Gilg (1-3, N. Hallé 2894; 4, 4', N. Hallé 3505) : 1, leaf and inflorescence, limb of 10,5 cm; 2, cymule and bud 1,5 mm; 3, petal, internal face; 4, disc, androecium and gynoecium (fl. ♀); 4', pistil section. — Allophylus lastoursvillensis Pellegrin (Breteler 1493) : 5, leaf and inflorescence, limb 15 cm; 5', petiole section, diameter 1,8 mm; 6, cymule, bud of 1,5 mm; 7, 7', sepals, upper, lower and lateral; 8, 8', petal of a bud, internal, external faces and profile; 9, 9', petal, open flower, internal face and profile; 10, disc androecium and pistillode (fl. ♂). — Schematic cymules of Allophylus : 11, lateral view; 12: view from above; 13, floral diagram.*
+*PL. 5. — Allophylus welwitschii Gilg (1-3, N. Hallé 2894; 4, 4', N. Hallé 3505) : 1, leaf and inflorescence, limb of 10,5 cm; 2, cymule and bud 1,5 mm; 3, petal, internal surface; 4, disc, androecium and gynoecium (fl. ♀); 4', pistil section. — Allophylus lastoursvillensis Pellegrin (Breteler 1493) : 5, leaf and inflorescence, limb 15 cm; 5', petiole section, diameter 1,8 mm; 6, cymule, bud of 1,5 mm; 7, 7', sepals, upper, lower and lateral; 8, 8', petal of a bud, internal, external surfaces and profile; 9, 9', petal, open flower, internal surface and profile; 10, disc androecium and pistillode (fl. ♂). — Schematic cymules of Allophylus : 11, lateral view; 12: view from above; 13, floral diagram.*
 
 ## Notes
 

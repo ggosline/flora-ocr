@@ -22,6 +22,8 @@ One genus, two species — *Vismia*.
 | Genus | Species |
 |-------|---------|
 | [[Vismia]] | 2 |
+| [[Harungana]] | 0 |
+| [[Psorospermum]] | 3 |
 
 ## Notes
 

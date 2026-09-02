@@ -31,6 +31,12 @@ Begoniaceae contains only two genera worldwide: the enormous pantropical
 *Begonia* and the Hawaiian endemic *Hillebrandia*. In Gabon the family is
 represented only by *Begonia*, but with a large treated species set in Vol. 39.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Begonia]] | 54 |
+
 ## Treatment
 
 **Volume**: [[vol39]]  

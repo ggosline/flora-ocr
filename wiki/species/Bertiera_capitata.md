@@ -46,7 +46,7 @@ N. Hallé 1037, Makokou (fr. fév.); 3015, 3052, 3275, Bélinga (fl. fr. nov.). 
 
 ![Bertiera capitata](../sources/Rubiaceae_vol17_paddle/figures/fig_014_p0067.png)
 
-*PL. 14. — Bertiera capitata De Wildeman (1-3, 11, N. Hallé 3052; 4-9, Le Testu 7557) : 1, stipule; 2, young inflorescence; 3, inflorescence × 0,75; 4, bud × 15; 5, flower in section; 6, stamen; 7, disk; 8, transverse section of the stigmatic club; 9, section of the ovary; 10, infrutescence × 0,75 (N. Hallé 1037); 11, seed × 16.*
+*PL. 14. — Bertiera capitata De Wildeman (1-3, 11, N. Hallé 3052; 4-9, Le Testu 7557) : 1, stipule; 2, young inflorescence; 3, inflorescence × 0,75; 4, bud × 15; 5, flower in section; 6, stamen; 7, disk; 8, transverse section of the stigmatic club; 9, section of the ovary; 10, infructescence × 0,75 (N. Hallé 1037); 11, seed × 16.*
 
 ## Notes
 

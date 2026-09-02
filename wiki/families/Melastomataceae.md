@@ -47,6 +47,15 @@ the family's most reliable field character in the region.
 | [[Medinilla]] | 1 | | [[Ochthocharis]] | 1 |
 | [[Dinophora]] | 1 | | [[Spathandra]] | 1 |
 | [[Lijndenia]] | 1 | | [[Amphiblemma]] | – |
+| [[Amphiblemma]] | 8 |
+| [[Dicellandra]] | 3 |
+| [[Dissotis]] | 7 |
+| [[Gravesia]] | 1 |
+| [[Guyonia]] | 1 |
+| [[Heterotis]] | 3 |
+| [[Ochthocharis]] | 1 |
+| [[Spathandra]] | 1 |
+| [[Tristemma]] | 6 |
 
 ## Notes
 

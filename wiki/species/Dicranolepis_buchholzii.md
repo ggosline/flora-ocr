@@ -71,7 +71,7 @@ Le Testu : 1328, Dèdi, Mayombe (jeune pied, f., fr.). N. Hallé : 1595, 1871, A
 
 ![Dicranolepis buchholzii](../sources/Thymeleaceae_vol11_paddle/figures/fig_011_p0081.png)
 
-*PL. XI. — Dicranolepis Buchholzii Engl. et Gilg : 1, flowering branch (× 2/3); 2, flower (× 4); 3, young fruit (× 4). — Dicranolepis disticha Planch. : 4, flowering branch (× 2/3); 5, open flower (× 4); 6, fruit (× 1). — 1 and 2, Klaine 322; 3, Tisserant 2684 (Oubangui); 4 and 5, Le Testu 7877; 6, N. Nallé 3035.*
+*PL. XI. — Dicranolepis Buchholzii Engl. et Gilg : 1, flowering branch (× 2/3); 2, flower (× 4); 3, young fruit (× 4). — Dicranolepis disticha Planch. : 4, flowering branch (× 2/3); 5, open flower (× 4); 6, fruit (× 1). — 1 and 2, Klaine 322; 3, Tisserant 2684 (Oubangui); 4 and 5, Le Testu 7877; 6, N. Hallé 3035.*
 
 ## Notes
 

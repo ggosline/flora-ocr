@@ -31,6 +31,12 @@ The treatment recognises nine genera in the family as then circumscribed, with
 the great majority centred in southern Africa and Madagascar. In Gabon only the
 genus *Aloe* is recognised, with two treated species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Aloe]] | 2 |
+
 ## Treatment
 
 **Volume**: [[vol47]]  

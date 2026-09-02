@@ -52,7 +52,7 @@ Dinklage 1332, Batanga. Letouzey 2706, entre Béliga et Moyénam près Bertoua (
 
 ![Chytranthus setosus](../sources/Sapindaceae_vol23_paddle/figures/fig_025_p0109.png)
 
-*PL. 25. — Chrysranthus setosus Radlk. : 1, leaf fragment × 1; 2, ♂ inflorescence × 1; 3, young ♀ infructescence × 1; 4, ♀ flower, diameter 7,2 mm; 5, petal of 6 mm; 6, disk of ♀ flower, 3,2 mm; 6', disk of ♂ flower, 2,4 mm; 7, fertile stamen, anther of 1,5 mm, verso and recto; 8, gynoecium 8 mm long and its section; 9, fruit in sicco × 1, and its section; 10, seed × 1 (Letouzey 5575, 1, 2, 6', 7; Letouzey 2706, 3, 4, 5, 6, 8; Tisserant 1990, 9 and 10).*
+*PL. 25. — Chrysanthus setosus Radlk. : 1, leaf fragment × 1; 2, ♂ inflorescence × 1; 3, young ♀ infructescence × 1; 4, ♀ flower, diameter 7,2 mm; 5, petal of 6 mm; 6, disk of ♀ flower, 3,2 mm; 6', disk of ♂ flower, 2,4 mm; 7, fertile stamen, anther of 1,5 mm, verso and recto; 8, gynoecium 8 mm long and its section; 9, fruit in sicco × 1, and its section; 10, seed × 1 (Letouzey 5575, 1, 2, 6', 7; Letouzey 2706, 3, 4, 5, 6, 8; Tisserant 1990, 9 and 10).*
 
 ## Notes
 

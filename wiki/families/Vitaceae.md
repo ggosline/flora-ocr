@@ -31,6 +31,8 @@ Three genera and 21 species — tendril-climbing lianas, sharing [[vol14]] with
 | [[Cissus]] | 16 |
 | [[Ampelocissus]] | 1 |
 | [[Cayratia]] | 1 |
+| [[Cyphostemma]] | 3 |
+| [[Noticealamemoirede]] | 0 |
 
 ## Notes
 

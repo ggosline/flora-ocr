@@ -31,6 +31,12 @@ A large cosmopolitan family of roughly 445 genera and c. 3,500 species, centred
 mainly in temperate regions. In Gabon the treatment recognises only the genus
 *Centella*, represented by *Centella asiatica*.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Centella]] | 1 |
+
 ## Treatment
 
 **Volume**: [[vol38]]  

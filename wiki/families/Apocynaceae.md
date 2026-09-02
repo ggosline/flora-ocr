@@ -30,6 +30,47 @@ The Vol. 59 treatment is explicitly only the first part, covering the
 subfamilies Apocynoideae and Rauvolfioideae rather than the whole family across
 all its major clades.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Alafia]] | 0 |
+| [[Allamanda]] | 1 |
+| [[Alstonia]] | 2 |
+| [[Ancylobothrys]] | 3 |
+| [[Baissea]] | 13 |
+| [[Callichilia]] | 2 |
+| [[Calocrater]] | 1 |
+| [[Catharanthus]] | 1 |
+| [[Clitandra]] | 1 |
+| [[Crioceras]] | 0 |
+| [[Cyclocotyla]] | 1 |
+| [[Cylindropsis]] | 1 |
+| [[Dewevrella]] | 1 |
+| [[Dictyophleba]] | 3 |
+| [[Farquharia]] | 1 |
+| [[Funtumia]] | 1 |
+| [[Holarrhena]] | 0 |
+| [[Hunteria]] | 7 |
+| [[Isonema]] | 0 |
+| [[Landolphia]] | 27 |
+| [[Malouetia]] | 2 |
+| [[Motandra]] | 2 |
+| [[Oncinotis]] | 5 |
+| [[Orthopichonia]] | 3 |
+| [[Petchia]] | 1 |
+| [[Picralima]] | 1 |
+| [[Pleiocarpa]] | 7 |
+| [[Pleioceras]] | 2 |
+| [[Pycnobotrya]] | 1 |
+| [[Rauvolfia]] | 0 |
+| [[Saba]] | 1 |
+| [[Strophanthus]] | 8 |
+| [[Tabernaemontana]] | 8 |
+| [[Tabernanthe]] | 1 |
+| [[Vahadenia]] | 1 |
+| [[Voacanga]] | 12 |
+
 ## Treatment
 
 **Volume**: [[vol59]]  

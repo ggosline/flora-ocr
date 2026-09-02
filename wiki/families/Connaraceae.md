@@ -35,6 +35,8 @@ component of forest edge and secondary growth.
 | [[Manotes]] | 4 |
 | [[Jollydora]] | 2 |
 | [[Hemandradenia]] | 1 |
+| [[Cledesvarietesde]] | 0 |
+| [[Heterodistylie]] | 1 |
 
 ## Notes
 

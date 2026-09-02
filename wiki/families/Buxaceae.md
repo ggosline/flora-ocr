@@ -30,6 +30,12 @@ Buxaceae comprises six genera and around 125 species, especially in temperate
 regions and tropical uplands. In Africa only *Buxus* is recognised, and in
 Gabon the treatment records a single species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Buxus]] | 1 |
+
 ## Treatment
 
 **Volume**: [[vol57]]  

@@ -36,6 +36,12 @@ strongly influence regeneration and large-mammal habitat.
 | [[Thaumatococcus]] | 1 | | [[Maranta]] | 1 |
 | [[Thalia]] | 1 | | [[Trachyphrynium]] | – |
 | [[Afrocalathea]] | – | | | |
+| [[Halopegia]] | 1 |
+| [[Haumania]] | 2 |
+| [[Hypselodelphys]] | 5 |
+| [[Maranta]] | 1 |
+| [[Sarcophrynium]] | 4 |
+| [[Trachyphrynium]] | 0 |
 
 ## Notes
 

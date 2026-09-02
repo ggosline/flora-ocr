@@ -51,7 +51,7 @@ Hallé N. 630, 664, Nkoulounga (fl., juin); 2140, Abanga (fl., juin) P, WAG. Hal
 
 ![Mostuea neurocarpa](../sources/Loganiaceae_vol19_paddle/figures/fig_009_p0036.png)
 
-*PL. 9. — Mostuea neurocarpa Gilg : 1 and 2, branches × ½; 3, flower × 1; 4, fruit, partially developed × 1; 5, reconstructed fruit (1,4,5 : Zenker 4252; 2-3 : Klaine 1875).*
+*PL. 9. — Mostuea neurocarpa Gilg: 1 and 2, branches × ½; 3, flower × 1; 4, fruit, partially developed × 1; 5, reconstructed fruit (1,4,5: Zenker 4252; 2-3: Klaine 1875).*
 
 ## Notes
 

@@ -130,6 +130,32 @@ Largely Gardenieae and Coffeeae — the woody, large-flowered core of the family
 | [[Aidia]] | 2 | | [[Pouchetia]] | 2 |
 | [[Morelia]] | 1 | | [[Neorosea]] | 3 |
 | [[Atractogyne]] | 2 | | [[Tricalysia]] | 18 |
+| [[Brenania]] | 1 |
+| [[Calochone]] | 2 |
+| [[Didymosalpinx]] | 2 |
+| [[Ecpoma]] | 3 |
+| [[Euclinia]] | 1 |
+| [[Gardenia]] | 3 |
+| [[Heinsia]] | 1 |
+| [[Mussaenda]] | 7 |
+| [[Neorosea]] | 3 |
+| [[Otomeria]] | 5 |
+| [[Oxyanthus]] | 9 |
+| [[Pauridiantha]] | 12 |
+| [[Pentaloncha]] | 1 |
+| [[Polycoryne]] | 1 |
+| [[Pouchetia]] | 2 |
+| [[Preussiodora]] | 0 |
+| [[Pseudogardenia]] | 0 |
+| [[Pseudomussaenda]] | 1 |
+| [[Pseudosabicea]] | 7 |
+| [[Rothmannia]] | 10 |
+| [[Sabicea]] | 20 |
+| [[Sacosperma]] | 0 |
+| [[Stelechantha]] | 1 |
+| [[Stipularia]] | 1 |
+| [[Temnopteryx]] | 1 |
+| [[Tricalysia]] | 18 |
 
 *Tricalysia* (18) and *Bertiera* (17) dominate.
 

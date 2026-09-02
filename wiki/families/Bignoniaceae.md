@@ -32,6 +32,15 @@ Five genera and 15 species, sharing [[vol27]] with [[Gesneriaceae]].
 | [[Markhamia]] | 1 |
 | [[Newbouldia]] | 1 |
 | [[Spathodea]] | 1 |
+| [[Crescentia]] | 1 |
+| [[Jacaranda]] | 1 |
+| [[Podranea]] | 1 |
+| [[Pyrostegia]] | 1 |
+| [[Radermachera]] | 1 |
+| [[Stereospermum]] | 1 |
+| [[Tabebuia]] | 1 |
+| [[Tecoma]] | 1 |
+| [[Tecomaria]] | 1 |
 
 ## Notes
 

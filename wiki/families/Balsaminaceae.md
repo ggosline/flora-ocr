@@ -21,6 +21,12 @@ Succulent herbs with simple exstipulate leaves and strongly zygomorphic, resupin
 
 - [[Impatiens]] — 16 species in the treatment, concentrated in very wet forest, waterfalls, torrents and river margins.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Impatiens]] | 14 |
+
 ## Treatment
 
 N. Hallé’s Vol. 4 account includes comparative tables, a full species key, sixteen accounts and Plates II–XII.

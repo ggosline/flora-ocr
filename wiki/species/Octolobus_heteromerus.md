@@ -48,7 +48,7 @@ N. Hallé : 1449, Makokou.
 
 ![Octolobus heteromerus](../sources/Sterculiaceae_vol02_paddle/figures/fig_020_p0111.png)
 
-*PL. XX. — 1 à 11, Octolobus spectabilis Welw.: 1 et 2, types of leaves; 3 et 4, stipulated extremities; 5 et 6, types of floral buds; 7, expanded ♂ flower; 8, androecium with anthers 3 mm high; 9, gyandroecium; 10, fruit with the pedicel split lengthwise; 11, seed; (1 et 3, Le Testu 8505; 2, 4, 5 et 7, Le T. 6072; 6, Le T. 1845; 8 et 9, Welwitsch 1202; 10 et 11, Tisserant 2427). — 12 à 16, Octolobus heteromerus K. Schum. (Le Testu 9491): 12, stipulated extremity; 13 bud; 14; expanded ♀ flower; 15, androecium with anthers 3 mm high; 16, gyandroecium.*
+*PL. XX. — 1 à 11, Octolobus spectabilis Welw.: 1 et 2, types of leaves; 3 et 4, stipulated extremities; 5 et 6, types of floral buds; 7, expanded ♂ flower; 8, androecium with anthers 3 mm high; 9, gynoecium; 10, fruit with the pedicel split lengthwise; 11, seed; (1 et 3, Le Testu 8505; 2, 4, 5 et 7, Le T. 6072; 6, Le T. 1845; 8 et 9, Welwitsch 1202; 10 et 11, Tisserant 2427). — 12 à 16, Octolobus heteromerus K. Schum. (Le Testu 9491): 12, stipulated extremity; 13 bud; 14; expanded ♀ flower; 15, androecium with anthers 3 mm high; 16, gynoecium.*
 
 ## Notes
 

@@ -21,6 +21,12 @@ Trees, shrubs or subshrubs with alternate imparipinnate leaves and connate stipu
 
 - [[Bersama]] — two provisionally distinguished species.
 
+## Genera in region
+
+| Genus | Species |
+|-------|---------|
+| [[Bersama]] | 2 |
+
 ## Treatment
 
 N. Hallé’s Vol. 4 account (pp. 5–13) includes a species key and Plate I.

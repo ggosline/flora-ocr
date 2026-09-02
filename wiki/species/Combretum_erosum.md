@@ -57,7 +57,7 @@ NB. Breteler, Jongkind et Wieringa 11247, 30 km à l'Est de Lastoursville, 0°40
 
 ![Combretum erosum](../sources/Combretaceae_vol35_paddle/figures/fig_009_p0038.png)
 
-*PL. 9. – Combretum erosum Jongkind sp. nov. a, fruiting branch × 1/2 ; b, young leaf × 1; c, fruit × 2 ; d, fruit scales, detail × 20 (a,c,d, Reitsma c.s. 2915 ; b, Wieringa et al. 2983). – Original drawings by M. SPITTELER – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
+*PL. 9. – Combretum erosum Jongkind sp. nov. a, fruiting branch × 1/2; b, young leaf × 1; c, fruit × 2; d, fruit scales, detail × 20 (a,c,d, Reitsma c.s. 2915; b, Wieringa et al. 2983). – Original drawings by M. SPITTELER – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Netherlands).*
 
 ## Notes
 

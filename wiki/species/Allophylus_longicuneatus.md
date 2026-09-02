@@ -60,7 +60,7 @@ HUTCHINSON & DALZIEL indicate this species from Liberia to Nigeria (Deighton 159
 
 ![Allophylus longicuneatus](../sources/Sapindaceae_vol23_paddle/figures/fig_008_p0047.png)
 
-*PL. 8. — Allophylus longicuneatus Vermoesen (1, 1', 4', 5, 6, Mbarga 40; 2-4, Klaine 2399) : 1, leaf and inflorescence, limb 17 cm; 1', section of petiole, diameter 2 mm; 2, cymule, bud 1.2 mm; 3, 3', upper, lower and lateral sepals; 4, petal in the bud; 4', petal, expanded flower; 5, disk, androecium and gynoecium, flower ; 6, immature fruit. — Allophylus imenoensis Pellegrin (Le Testu 8323) : 7, leaf and inflorescence, limb 12 cm; 7', section of petiole, diameter 1.5 mm; 8, cymule, bud 1.5 mm; 9, 9', upper, lower and lateral sepals; 10, 10', petal, internal and profile views; 11, 11', stamen, external and internal views; 12, disk.*
+*PL. 8. — Allophylus longicuneatus Vermoesen (1, 1', 4', 5, 6, Mbarga 40; 2-4, Klaine 2399): 1, leaf and inflorescence, limb 17 cm; 1', section of petiole, diameter 2 mm; 2, cymule, bud 1.2 mm; 3, 3', upper, lower and lateral sepals; 4, petal in the bud; 4', petal, expanded flower; 5, disk, androecium and gynoecium, flower; 6, immature fruit. — Allophylus imenoensis Pellegrin (Le Testu 8323): 7, leaf and inflorescence, limb 12 cm; 7', section of petiole, diameter 1.5 mm; 8, cymule, bud 1.5 mm; 9, 9', upper, lower and lateral sepals; 10, 10', petal, internal and profile views; 11, 11', stamen, external and internal views; 12, disk.*
 
 ## Notes
 

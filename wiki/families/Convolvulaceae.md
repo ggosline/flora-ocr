@@ -33,6 +33,10 @@ Nine genera and 31 species — twining herbs and lianas, sharing [[vol46]] with
 | [[Merremia]] | 2 | | [[Dipteropeltis]] | 2 |
 | [[Aniseia]] | 1 | | [[Hewittia]] | 1 |
 | [[Lepistemon]] | 1 | | | |
+| [[Bonamia]] | 3 |
+| [[Calycobolus]] | 6 |
+| [[Dipteropeltis]] | 2 |
+| [[Hewittia]] | 1 |
 
 ## Notes
 

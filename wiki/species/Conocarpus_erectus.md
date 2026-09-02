@@ -48,7 +48,7 @@ Bos, van der Laan et Nzabi 10775, Ovang (fr., Juil.), BR, LBV, MO, P, PRE, WAG. 
 
 ![Conocarpus erectus](../sources/Combretaceae_vol35_paddle/figures/fig_025_p0094.png)
 
-*PL. 25. – Conocarpus erectus L. : A, fertile branch × 1/2 ; B, floriferous capitulum × 3 ; flower × 15 ; D, fruit × 5 (A, Wagemans 589 ; B-D, Bequaert 589). – Drawings by D. COPPIN reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE. (Belgium).*
+*PL. 25. – Conocarpus erectus L. : A, fertile branch × 1/2 ; B, floriferous capitulum × 3 ; C, flower × 15 ; D, fruit × 5 (A, Wagemans 589 ; B-D, Bequaert 589). – Drawings by D. COPPIN reproduced with the permission of the Department of Spermatophytes and Pteridophytes of the National Botanical Garden of MEISE. (Belgium).*
 
 ## Notes
 

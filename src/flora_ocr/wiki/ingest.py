@@ -180,6 +180,36 @@ _MULTI_ENUM_RE = re.compile(r"^\s*(?:\d+\s*[.)]\s*){2,}")
 _SUPRAGENERIC_RE = re.compile(r"(?:INAE|OIDEAE|EAE)$", re.IGNORECASE)
 
 
+def _despace_smallcaps(heading: str) -> str:
+    """Rejoin a heading whose small caps were scanned letter by letter.
+
+    liteparse renders a small-caps genus heading as spaced-out characters:
+    `P A r A r IS t O l OC h IA Hutch. & Dalziel` for PARARISTOLOCHIA, and
+    `Ar IS t O l OC h IACEAE Juss.` for the family. Neither classifies, so the
+    genus never opens, and because an unnumbered species heading is only
+    accepted under an open genus, every species below it is discarded. Eleven
+    treatments produced no taxon at all this way, Xyridaceae and Polygalaceae
+    among them.
+
+    Only a leading run of at least three short-or-uppercase alphabetic tokens
+    is joined, so an ordinary heading is never touched: `Afzelia pachyloba
+    Harms` starts with a long mixed-case word and is left exactly as it is.
+    """
+    tokens = heading.split()
+    taken = 0
+    for token in tokens:
+        if token.isalpha() and (len(token) <= 3 or token.isupper()):
+            taken += 1
+            continue
+        break
+    if taken < 3:
+        return heading
+    joined = "".join(tokens[:taken]).upper()
+    if len(joined) < 4:
+        return heading
+    return " ".join([joined, *tokens[taken:]])
+
+
 def _normalise_enumerator(heading: str) -> str:
     """'1.1. Brachycorythis conica' → '1. Brachycorythis conica'."""
     m = _MULTI_ENUM_RE.match(heading)
@@ -226,7 +256,7 @@ def _known_genera(lines: list[str]) -> set[str]:
         hm = HEADING_RE.match(line.rstrip("\n"))
         if not hm:
             continue
-        heading = _normalise_enumerator(hm.group(2))
+        heading = _despace_smallcaps(_normalise_enumerator(hm.group(2)))
         if _is_suprageneric(heading):
             continue
         rank, _ = classify(heading)
@@ -283,7 +313,7 @@ def _headings(lines: list[str], only_family: str | None = None) -> tuple[list[di
         if not hm:
             continue
 
-        heading = _normalise_enumerator(hm.group(2))
+        heading = _despace_smallcaps(_normalise_enumerator(hm.group(2)))
         if BACK_MATTER_RE.match(N.strip_accents(heading).strip().upper()):
             terminators.append(i)
             continue
