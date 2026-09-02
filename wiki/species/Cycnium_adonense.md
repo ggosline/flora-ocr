@@ -35,6 +35,12 @@ Abaxial stamen. – D. Adaxial stamen. (A–D: Fischer 710/87). Drawing by E. Fi
 
 savannas; in Gabon, 100–600 m, in East Africa, up to 2500 m. Taxonomic note: C. adonense is divided by Hansen (1978) into two subspecies; the typical subspecies differs from subsp. camporum by the prostrate habit and longer calyx (45–70 mm in the first and 8–40(–45) mm in the second). In Gabon, only subsp. camporum has been collected; Ghazanfar et al. (2008) citing by mistake C. adonense subsp. adonense for Gabon. B: Fischer (2006b), Ghazanfar et al. (2008), Hansen (1978), Mielcarek bibliography (1996), Philcox (1990).
 
+## Figures
+
+![Cycnium adonense](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

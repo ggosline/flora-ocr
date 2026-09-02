@@ -33,6 +33,12 @@ endemic to Gabon, known only from Moyen Ogooué and Ogooué-Maritime
 
 primary and secondarized forest; at low altitude. b: Breteler (1994b). Bibliography
 
+## Figures
+
+![Baphia cymosa](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_023_p0058.png)
+
+*Plate 15 : Baphia cymosa : 1. Flowering branch. – 2, 3. Part of the inflorescence. – 4. Floral buds with bracteoles. – 5. Flower. – 6. Standard, inner surface. – 7. Wing, inner surface. – 8. Wing, outer surface. – 9. Keel. – 10. Androecium. – 11. Pistil. (1–11 : van der Maesen 5306 ). Drawing by Paul Albers,*
+
 ## Notes
 
 <!-- TODO:notes -->

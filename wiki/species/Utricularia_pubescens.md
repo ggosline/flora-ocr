@@ -38,6 +38,24 @@ Senegal, Guinea, Sierra Leone, Liberia, Ivory Coast, Nigeria, Cameroon, Gabon, C
 
 swampy savannas and wet rocks (in Gabon the habitat is unknown); in West and East Africa between 0 and 1900 m altitude. B : Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia pubescens](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_099_p0110.jpeg)
+
+*Figure 11. Utricularia foliosa (Zambie, Lac Lusiwasi) : A-C. – Utricularia pubescens (Gabon, PN de*
+
+![Utricularia pubescens](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_105_p0113.png)
+
+*Plate 39. Utricularia pubescens : 1-4. Entire plant (× 1). – 5. Base of the plant showing the rhizoids, leaves, utricles and the base of the peduncle (× 8). – 6. Leaf, ventral view (× 8). – 7. Leaf, non-peltate variant (× 8). – 8. Utricle, lateral view (× 60). – 9. Bract (× 30). – 10. Bracteole (× 30). – 11, 16. Flower, lateral view (× 8). – 12, 14. Flower, view from behind (× 8). – 13. Flower, frontal view (× 8). – 15. Small flower, lateral view (× 8). – 17. Hairs of the calyx (× 150). – 18. Stamen (× 30). – 19. Ovary (× 30). – 20. Fruit in situ , with bract, bracteole and calyx (× 12). – 21. Fruit, ventral view (× 12). – 22. Seed (× 100). (1, 3 :*
+
+![Utricularia pubescens](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_107_p0114.jpeg)
+
+![Utricularia pubescens](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_108_p0114.jpeg)
+
+![Utricularia pubescens](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_109_p0114.jpeg)
+
+![Utricularia pubescens](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_110_p0114.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

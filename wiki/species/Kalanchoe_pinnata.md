@@ -44,6 +44,16 @@ life plant, floppers (Angl.). Pour les noms gabonais, voir l’espèce précéde
 
 3
 
+## Figures
+
+![Kalanchoe pinnata](../sources/Crassulaceae_vol41_liteparse/figures/fig_022_p0038.png)
+
+*Plate 9. Kalanchoe pinnata: 1. Inflorescence (× ⅔). – 2. Leaflets (× ⅔). – 3. Flower in longitudinal section (× 2). Drawing by Marie Bywater, reproduced with permission of the Royal Botanic Gardens*
+
+![Kalanchoe pinnata](../sources/Crassulaceae_vol41_liteparse/figures/fig_023_p0041.png)
+
+![Kalanchoe pinnata](../sources/Crassulaceae_vol41_liteparse/figures/fig_024_p0041.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

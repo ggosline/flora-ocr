@@ -32,6 +32,10 @@ Rainforests; between 100 and 850 m in altitude. B: de Wilde (2002). BIBLIOGRAPHY
 
 <!-- caption: Plate 52. Begonia subscutata: 1. Flowering branch. – 1a. Lower portion with ♀ inflorescences, higher up the bisexual inflorescences and at the apex ♂ (× ½). – 2. Idem, with predominance of ♂ inflorescences (× ½). – 3. Silhouette of a narrowly ovate leaf (× ½). – 4. Detail of indumentum of midvein, lower face of lamina (× 3.5). – 5a, 5b. Multicellular spherical hairs, glandular, crowned with a lepidote-stellate hair (× 16). – 6. Leaf hairs (× 16). – 7. Male flower (× 1.5). – 8. Androecium (× 6.5). – 9–11. Anther front, back and profile (× 6.5). – 12. Female flower (× 1.5). – 13. Styles and stigmas (× 5). – 14–16. Stigma front, back and profile (× 6.5). – 17–20. Aberrant forms of styles and stigmas, dorsal view (× 6.5). – 21. Ovary, transverse section (× 10). – 22. Fruit (× 1.5). – 23. Seed (× 22). (1–2, 4–21: de Wilde 7551, and greenhouse cultivated plant of this collection; 3: Seret 499; 22–23: Seret 499-bis). Drawing by I Z, National Herbarium of the -->
 
+## Figures
+
+![Begonia squamulosa](../sources/Begoniaceae_vol39_liteparse/figures/fig_067_p0111.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -30,6 +30,12 @@ Ghana, Côte d'Ivoire, Benin, Nigeria, Cameroon, Republic of the Congo, Democrat
 
 wooded savannas, flooded savannas, roadsides, cultivated lands, fallows, inselbergs, often on sand; at least reaching 700 m.
 
+## Figures
+
+![Aeschynomene lateritia](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_013_p0030.png)
+
+*Plate 5: Aeschynomene lateritia: 1. Habit (× ½). – 2. Stipules (× 5). – 3. Bract (× 4). – 4. Flower, longitudinal section (× 8). – 5. Standard, inner surface (× 8). – 6. Wing, outer surface (× 8). – 7. Keel spread out, inner surface (× 8). – 8. Androecium spread out (× 8). – 9. Pod enclosed in the bracteoles and persistent calyx (× 10). (A, B: Butaye 1205; C–I: Feller A79). Drawing by M. Boutique, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

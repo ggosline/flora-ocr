@@ -22,6 +22,10 @@ tags: [species, generated]
 
 B: BIBLIOGRAPHY
 
+## Figures
+
+![Farquharia elliptica](../sources/Apocynaceae_vol59_liteparse/figures/fig_080_p0086.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

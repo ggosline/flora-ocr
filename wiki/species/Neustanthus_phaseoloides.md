@@ -42,6 +42,12 @@ kudzu tropical, puero (fr.) ; tropical kudzu (angl.) ; puero (angl. d’Australi
 
 The varieties phaseoloides and subspicata (Benth.) A.N.Egan & B.Pan, with acute lateral lobes of the calyx, are rather Asian in distribution, but sometimes introduced elsewhere. B : Anonymous (1975), Botton & Hallé (1958), Burkill (1995), De la Estrella et al. (2010), Bibliography Egan & Pan (2015), Halim (1997), Lewis et al. (2005), van der Maesen (1985, 2002), Verdcourt (1971c)
 
+## Figures
+
+![Neustanthus phaseoloides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_108_p0310.png)
+
+*Plate 100: Neustanthus phaseoloides var. javanica: 1. Fertile stem (× ⅔). – 2. Detail of the lower surface of a leaflet (× 3). – 3. Calyx (× 3). – 4. Standard (× 3). – 5. Wing (× 3). – 6. Keel (× 3). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

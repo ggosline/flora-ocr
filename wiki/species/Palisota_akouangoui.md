@@ -40,6 +40,16 @@ in the understory of mature to secondary humid forests, on well-drained soil, on
 
 P. akouangoui is close to P. satabiei, P. bogneri or P. flagelliflora, but is distinguished from them by the combination of a shortly creeping habit, a decumbent non-branched inflorescence, and by its flowers with unequal stamens, the lower one becoming green after theca dehiscence. Indeed, P. flagelliflora and P. bogneri are two strictly rosulate species. Furthermore, P. flagelliflora is characterized by inflorescences in long flagella creeping at the level of the litter, bearing solitary cincinni, and P. bogneri has flowers with three subequal stamens always yellow. B: Bidault & van der Burg (2019). Bibliography
 
+## Figures
+
+![Palisota akouangoui](../sources/Commelinaceae_vol55_liteparse/figures/fig_024_p0042.jpeg)
+
+*Figure 3. Floscopa mannii (Ivindo, Gabon, Bidault et al. 2284): A. General appearance, B. Flower. – Palisota akouangoui (Birougou, Gabon, Bidault et al. 4100): C. Plants with inflorescence and fruits, (between Dibwangui and Lebamba, Gabon, Bidault et al. 3785): D. Inflorescence. – Murdania simplex (Fernan Vaz,*
+
+![Palisota akouangoui](../sources/Commelinaceae_vol55_liteparse/figures/fig_027_p0049.png)
+
+*Plate 11. Palisota akouangoui: 1. General aspect. – 2. Ripe fruit. – 3. Inflorescence. – 4. Bisexual flower. – 5. Sepal. – 6. Petal. – 7. Lower stamen. – 8. Upper stamen. – 9. Staminode. – 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

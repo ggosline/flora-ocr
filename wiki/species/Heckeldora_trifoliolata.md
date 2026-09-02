@@ -34,6 +34,12 @@ endemic to the coastal region of Gabon; known from Estuaire, Ngounié, Nyanga an
 
 understory of dense humid forest, primary and secondary, on sand or on rocky outcrops; up to 350 m altitude. B: de Wilde (2007). Bibliography
 
+## Figures
+
+![Heckeldora trifoliolata](../sources/Meliaceae_vol47_liteparse/figures/fig_023_p0038.png)
+
+*Plate 9. Heckeldora trifoliolata: A. Plant with male inflorescence. – B. Median vein of a leaflet, transverse section. – C. Flower in bud. – D. Open flower. – E. Staminal tube open and functionally male pistil. – F. Ditto, ovary and stipe in longitudinal section. – G. Fruits. (A, C–F: J.J. de*
+
 ## Notes
 
 <!-- TODO:notes -->

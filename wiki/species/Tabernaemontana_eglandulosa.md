@@ -26,6 +26,16 @@ Condensed with 2–8 flowers pedicellate of 2–4 mm, glabrous, bracteate, much 
 
 In the revision of Tabernaemontana (Leeuwenberg 1991), T. eglandulosa included T. brachypoda and T. crispiflora. The two species are here considered as distinct. B : Boiteau & Allorge (1981), Leeuwenberg (1991), Stapf (1902). BIBLIOGRAPHY
 
+## Figures
+
+![Tabernaemontana eglandulosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_213_p0244.jpeg)
+
+*Planche 113 . Tabernaemontana eglandulosa 5DPHDXÀRULIqUHîҀ±&RUROOHFRXSHORQJLWXGL -*
+
+![Tabernaemontana eglandulosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_214_p0246.jpeg)
+
+*Figure 13 . Tabernaemontana eglandulosa : A. Inflorescence in bud. B. Fruit. – Tabernaemontana inconspicua : C. Fruit. – Tabernaemontana letestui : D. Fruit. – Tabernaemontana pendulifiora : E. Fruit. – Tabernaemontana psorocarpa : F. Inflorescence. G. Fruit. Photos by Vincent Droissart (A, Ebo Reserve, Cameroon), Ehoarn Bidault (B : Kouilou, Rep. Congo ; F, G : Right bank of the Komo, Gabon),*
+
 ## Notes
 
 <!-- TODO:notes -->

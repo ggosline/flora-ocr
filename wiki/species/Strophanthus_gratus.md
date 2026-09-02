@@ -24,6 +24,16 @@ Vine reaching 25 m in height, but more rarely a shrub of 2–3 m; exudate clear 
 
 strophanthus glabre du Gabon (fr.). B : Beentje (1982, 2008a, 2021), Burkill (1985), Raponda-Walker & Sillans (1961). IBLIOGRAPHIE
 
+## Figures
+
+![Strophanthus gratus](../sources/Apocynaceae_vol59_liteparse/figures/fig_182_p0214.jpeg)
+
+*Figure 11 . Rauvolfiovonitoria : A. Habit of the plant. B. Flowering stem. C. Flowers. – Saba comorensis : D. Inflorescence. – Strophanthus bullenianus : E, F : Flower, front and side views. – Strophanthus congensis : G : Flower. – Strophanthus gratus : H. Inflorescence. Photos by Carel Jongkind (A, Guinea ; B, Sino County, Liberia ; Bart Würsten ; C, Yangambi, Dem. Rep. Congo ; D. Lomami, Dem. Rep. Congo ; Xander van der Burgt ; E, F, P.N. Korup, Cameroon ; Ehoarn Bidault ; G, Fernan Vaz, Gabon and Nicolas*
+
+![Strophanthus gratus](../sources/Apocynaceae_vol59_liteparse/figures/fig_195_p0226.jpeg)
+
+*Plate 103. Strophanthus gratus: 1. Flowering branch (×1). – 2. Detail of a branch (×1). – 3. Part of the corolla, base and crown, longitudinal section (× 1). – 4. Stamen, dorsal view (× 2). – 5. Follicle,*
+
 ## Notes
 
 <!-- TODO:notes -->

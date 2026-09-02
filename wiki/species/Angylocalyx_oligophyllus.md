@@ -41,6 +41,12 @@ fira (fang)
 
 A. schumannianus Taub. is very close to A. oligophyllus, differs from it by its swelling at the base of the receptacle. Yakovlev (1968) distinguishes a var. congolensis Yakovl. very rare, with leaflets having broadly cuneate, straight or cordate blade at the base. In Gabon, all the material has leaflets cuneate at their base, it would then be var. oligophyllus, if one wanted to differentiate the Congolese taxon. b: Povydysh et al. (2010), Raponda-Walker & Sillans (1961), Toussaint (1953), Yakovlev (1968)
 
+## Figures
+
+![Angylocalyx oligophyllus](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_019_p0047.png)
+
+*Plate 11: Angylocalyx oligophyllus: 1. Leaf. – 2, 3. Inflorescences. – 4. Calyx (receptacle with cupule). – 5. Standard. – 6. Wing. – 7. Keel. – 8. Infructescence. – 9. Seed. – Angylocalyx talbotii: 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

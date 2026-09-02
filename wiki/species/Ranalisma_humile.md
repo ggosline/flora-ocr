@@ -33,6 +33,12 @@ Species with wide distribution, known from Mauritania, Senegal, Mali, Niger, Nig
 
 springs and watercourses, ponds, marshes, mud banks, and gallery or swampy forests; in Gabon at ± 500 m elevation, elsewhere up to 1500 m. B: Carter (1960), Hepper (1968b), Symoens (1984), Symoens & Billiet BIBLIOGRAPHY (1975)
 
+## Figures
+
+![Ranalisma humile](../sources/Alismataceae_vol38_liteparse/figures/fig_010_p0009.png)
+
+*Planche 1. Ranalisma humile : A. Plante, forme sur vase. – B. Plante, forme submergée. – C-D.*
+
 ## Notes
 
 <!-- TODO:notes -->

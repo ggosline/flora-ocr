@@ -37,6 +37,12 @@ Particularly frequent in dry coastal thickets on white sand, also on forest/sava
 
 D. bakeri is a fairly variable species. Plants from coastal regions generally have obtuse leaflets and long floral pedicels, those from the interior have rather acuminate leaflets and shorter pedicels. However, there are intermediates, and both types of leaflets can sometimes be observed on the same branch. D. bakeri has long been confused with D. micheliana (= D. bakeri var. acutifoliolata), which is also present in Gabon; see the note under that species. Contrary to the indications of Pellegrin (1949), D. pluriflora Baker f. is not a synonym of D. bakeri, but of D. grandibracteata De Wild. (Lachenaud & Maesen 2016). This latter species, widespread in the Congo basin, has not been recorded from Gabon to date. b: Cronquist (1954), Lachenaud & Maesen (2016), Pellegrin (1949). Bibliography
 
+## Figures
+
+![Dalbergia bakeri](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_044_p0120.png)
+
+*Plate 36 : Dalbergia bakeri : 1. Flowering branch. – 2. Fruiting branch. – 3. Leaflet, detail of the upper surface. – 4. Leaflet, detail of the lower surface. – 5. Flower. – 6. Standard, internal face. – 7. Wing, external face. – 8. Keel petal, external face. – 9. Section of a flower, petals removed, showing the stamens and the ovary. – 10. Pod. (1, 3–9 : Wieringa et al. 5988 ; 2, 10 : Compère 1265 ). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

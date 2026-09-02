@@ -44,11 +44,11 @@ Keay (1954), Keraudren (1967)
 
 ![Ruthalicia longipes](../sources/Cucurbitaceae_vol57_paddle/figures/fig_068_p0100.png)
 
-*Figure 6. Peponium vogelii (Usambara, Tanzania): A. Tige florifère mâle. – Ruthalicia longipes (Kenema, Sierra Leone): B. Tige florifère mâle. – Telfairia occidentalis (Rhoko, Cross River State, Nigeria): C. Fleur mâle, D. Fruit mûr et bouton floral femelle. – Trichosanthes cucumerina var. anguina (Rhoko, Cross River State, Nigeria): E. Fleur mâle. Photos A-E par Hanno Schaefer.*
+*Figure 6. Peponium vogelii (Usambara, Tanzania): A. Male flowering stem. – Ruthalicia longipes (Kenema, Sierra Leone): B. Male flowering stem. – Telfairia occidentalis (Rhoko, Cross River State, Nigeria): C. Male flower, D. Mature fruit and female flower bud. – Trichosanthes cucumerina var. anguina (Rhoko, Cross River State, Nigeria): E. Male flower. Photos A-E by Hanno Schaefer.*
 
 ![Ruthalicia longipes](../sources/Cucurbitaceae_vol57_paddle/figures/fig_070_p0104.png)
 
-*Planche 34. Ruthalicia longipes : 1. Tige florifère mâle (× ³/₄). − 2. Fleur mâle, un pétale enlevé (× 1³/₄). − 3. Étamine (× 2/₃). − 4. Sommet de la fleur femelle, coupe longitudinale, deux pétales enlevés (× 1³/₄). − 5. Fruit (× 1¹/₄). − 6. Graine, vue de face et de profil (× 1¹/₄). (1-4: Letouzey 3947; 5, 6: Breteler 645). Dessin par C. Seghers, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 34. Ruthalicia longipes : 1. Male flowering stem (× ³/₄). − 2. Male flower, one petal removed (× 1³/₄). − 3. Stamen (× 2/₃). − 4. Apex of the female flower, longitudinal section, two petals removed (× 1³/₄). − 5. Fruit (× 1¹/₄). − 6. Seed, front and side view (× 1¹/₄). (1-4: Letouzey 3947; 5, 6: Breteler 645). Drawing by C. Seghers, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

@@ -39,6 +39,14 @@ on the edge of mangroves and sandy beaches near the sea, rarely in muddy pools i
 
 West Indian fimbry (angl.). Note taxonomique : se reconnaît facilement à ses glumes densément pubescentes sur la partie supérieure. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1995, 1997)
 
+## Figures
+
+![Fimbristylis ferruginea](../sources/Cyperaceae_vol44_liteparse/figures/fig_121_p0145.png)
+
+*Planche 93 . Fimbristylis ferruginea . A. Plante. – Planche 94 . Fimbristylis gabonica . A. Plante. – B.*
+
+![Fimbristylis ferruginea](../sources/Cyperaceae_vol44_liteparse/figures/fig_122_p0145.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ widely distributed in tropical regions; rare or poorly known in Gabon, found in 
 
 in grassy areas or open wooded zones; in Gabon, at 0–700 m altitude, up to 2900 m in East Africa. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Cyperus brevifolius](../sources/Cyperaceae_vol44_liteparse/figures/fig_067_p0087.png)
+
+*Planche 51 . Cyperus aromaticus . A. Plante. – Planche 52 . Cyperus brevifolius . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

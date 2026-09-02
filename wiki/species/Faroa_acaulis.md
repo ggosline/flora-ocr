@@ -40,6 +40,12 @@ savannas, sometimes flooded, savanna with Hymenocardia acida; in Gabon between 6
 
 F. acaulis is the sole acaulescent species of the genus and furthermore bears a hemispherical, dense and multiflowered inflorescence. B: Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Taylor (1973). Bibliography
 
+## Figures
+
+![Faroa acaulis](../sources/Gentianaceae_vol54_liteparse/figures/fig_060_p0078.jpeg)
+
+*Figure 6. Exochaenium oliganthum (Guinea, Bel-Air, Bidault 2380 ) : A, Inflorescence. – Faroa acaulis (Democratic Republic of the Congo, Haut Katanga, Schaijes 4342 ) : B, Plant ; C, Inflorescence. – Neurotheca corymbosa (Gabon, PN de Loango) : D, Landscape ; E, Plant in flower. (Photo A by E. Bidault (©) ;*
+
 ## Notes
 
 <!-- TODO:notes -->

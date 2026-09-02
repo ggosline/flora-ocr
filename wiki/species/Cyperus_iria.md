@@ -37,6 +37,12 @@ in seasonally humid habitats, such as temporary pools, swamps and drainage ditch
 
 grasshopper’s cyperus, rice flat sedge, umbrella sedge (angl.). Usage : a plusieurs applications médicinales en dehors de l’Afrique. Note taxonomique : se reconnaît facilement à ses petites glumes circulaires et dorées et par son inflorescence d’épis et d’épillets assez lâches. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
 
+## Figures
+
+![Cyperus iria](../sources/Cyperaceae_vol44_liteparse/figures/fig_047_p0063.png)
+
+*Plate 35 . Cyperus iria. A, B. Plant. – C. Apex of the blade. – D. Spikelet. – E. Glume. – F. Flower. – G.*
+
 ## Notes
 
 <!-- TODO:notes -->

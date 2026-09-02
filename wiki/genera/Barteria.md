@@ -41,6 +41,19 @@ Bibliography: Breteler (1999), Sinsin (2006), Sleumer (1976).
 
 3. - Flowers 3, 5, 7, 9 (11), arranged in a horseshoe shape surrounding half of the stem; fruits ellipsoid, 3–3.5 × 2–2.5 cm; bracts rounded to obtuse, rarely
 
+## Key to the species
+
+1. - Blade up to 15(–20) cm long, with 9–11(–14) pairs of lateral veins; branches solid and free of ants or swollen for only a few cm and inhabited by ants; flowers solitary or sometimes in pairs; bracts not tearing ........................................................................................................................... 2
+- Blade of well-developed leaves, 20–40(–50) cm long, with 13–20 pairs of lateral veins; branchlets hollow for most of their length and inhabited by ants; flowers rarely solitary, often in odd number, 3–11; bracts often lacerate at flowering ........................................................ 3
+
+2. - Branches solid, no myrmecodomes ................................................... B. solida
+- Branches furnished with myrmecodomes several cm long; bracts with the midvein prolonged in the form of an awn ..................................... B. nigritana
+
+---
+
+3. - Flowers 3, 5, 7, 9 (11), arranged in a horseshoe surrounding half of the stem; fruits ellipsoid, 3–3.5 × 2–2.5 cm; bracts rounded to obtuse, rarely apiculate .................................................................................................. B. fistulosa
+- Flowers solitary or 3 (5), rather axillary; sub-globose, ± 2 cm in diameter; bracts generally apiculate ............................................. B. dewevrei
+
 ## Species in region
 
 | Species | Vol | Pages |

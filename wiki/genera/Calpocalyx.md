@@ -47,6 +47,28 @@ The genus Calpocalyx comprises 10 species, all African. Two (C. brevibracteatus 
 
 5'. Leaflet elliptic to lanceolate, distinctly acuminate . 6. C. ngouniensis.
 
+## Key to the species
+
+1. Petiole glabrous (or with a few hairs on the adaxial surface)..... 1. C. dinklagei.
+
+1'. Petiole pubescent or puberulent.
+
+2. Petiolar gland prominent, inflorescence spicate.
+
+3. Rachis of the pinna 12–57 cm long; leaflet generally long-acuminate; pubescence ± abundant on the petiole and rachises of the pinnae; calyx glabrous except at the apex ..... 2. C. heitzii.
+
+3'. Rachis of the pinna 5–9.5 cm long; leaflet shortly broadly acuminate; pubescence sparse on the petiole and rachises of the pinnae; calyx pubescent ..... 3. C. brevifolius.
+
+2'. Petiolar gland not prominent; inflorescence often paniculate.
+
+4. Blade glabrous beneath ..... 4. C. klainet.
+
+4'. Blade pubescent beneath.
+
+5. Leaflet broadly elliptic, little or not acuminate ..... 5. C. letestui.
+
+5'. Leaflet elliptic to lanceolate, distinctly acuminate ..... 6. C. ngouniensis.
+
 ## Species in region
 
 | Species | Vol | Pages |

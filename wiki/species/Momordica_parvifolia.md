@@ -46,7 +46,7 @@ Jongkind (2002), Keraudren (1967), Keraudren-Aymonin (1975), Schaefer & Renner (
 
 ![Momordica parvifolia](../sources/Cucurbitaceae_vol57_paddle/figures/fig_063_p0091.png)
 
-*Planche 28. Momordica enneaphylla: 1. Tige avec boutons mâles (×3/4). – 2. Fleur mâle (×3/2). – Momordica parvifolia: 3. Tige florifère (×3/4). – 4. Fleur mâle (×42/3). – 5. Idem, ouverte, montrant les étamines (×42/3). – 6. Étamine bithèque (×9). – 7. Fruit (×12/3). – 8. Graine, vue de face et de profil (×12/3). (1, 2: Thollon 448; 3-6: N. Hallé 2295; 7, 8: Louis 8469). Dessin par C. Seghers (1, 2) et par Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 28. Momordica enneaphylla: 1. Stem with male buds (×3/4). – 2. Male flower (×3/2). – Momordica parvifolia: 3. Flowering stem (×3/4). – 4. Male flower (×42/3). – 5. Idem, open, showing stamens (×42/3). – 6. Two-chambered stamen (×9). – 7. Fruit (×12/3). – 8. Seed, front and side view (×12/3). (1, 2: Thollon 448; 3-6: N. Hallé 2295; 7, 8: Louis 8469). Drawing by C. Seghers (1, 2) and by Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

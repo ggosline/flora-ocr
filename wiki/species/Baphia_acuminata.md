@@ -38,6 +38,12 @@ primary forest and old secondary forest; in Gabon at 0–700 m altitude
 
 In Soladoye (1985), B. acuminata appears in the synonymy of B. pubescens. The latter species is exclusively West African. Its distribution is well separated from that of B. acuminata (see Soladoye map 16). The two species are easily distinguished by their petioles: with contiguous pulvinus in B. acuminata and with well-separated pulvini in B. pubescens. b: Pellegrin (1949), Soladoye (1985). ibliography
 
+## Figures
+
+![Baphia acuminata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_022_p0056.png)
+
+*Plate 14: Baphia acuminata : 1. Flowering branch (× ½). – 2. Detail of the lower surface of the leaflet (× 20). – 3. Branchlet with stipules (× 1.5). – 4. Flower (× 2¼). – 5. Calyx, inner face (× 2¼). – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

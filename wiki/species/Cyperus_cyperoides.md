@@ -35,6 +35,16 @@ in disturbed habitats, often a weed of cultivations, roadsides and forest trails
 
 A. Plant. – B. Transverse section of blade. – C. Stolon. – C. Leaf sheath and base of blade. – D. Base of a peduncle showing the prophyll. – D. Apex of blade. – E. Spikelet. – F. Part of a spikelet. – E. Glume. – F. Flower. – G. Fruit with its glume. – G. Glume subtending a flower. – H. glume. Original drawing by Richard W. Haines ©. Flower with young fruit. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus cyperoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_039_p0053.png)
+
+*Planche 27 . Cyperus cyperoides subsp. cyperoides. Planche 28 . Cyperus cyperoides subsp.*
+
+![Cyperus cyperoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_040_p0053.png)
+
+![Cyperus cyperoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_042_p0055.png)
+
 ## Notes
 
 <!-- TODO:notes -->

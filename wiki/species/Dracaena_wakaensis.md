@@ -38,6 +38,12 @@ old secondary forest and on relatively dry wooded slope near a waterfall; in Gab
 
 endo (babongo). B : Damen et al. (2018), Quiroz & Andel (2015). i B liographie
 
+## Figures
+
+![Dracaena wakaensis](../sources/Dracaenaceae_vol54_liteparse/figures/fig_053_p0060.png)
+
+*Plate 21. Dracaena wakaensis : 1. General aspect. – 2. Old inflorescence. – 3. Fruitescence. Drawing by Kinga Berdysz, Department of Plant Taxonomy, Adam Mickiewicz University, Poznań (©), reproduced with permission from Damen et al. (2018).*
+
 ## Notes
 
 <!-- TODO:notes -->

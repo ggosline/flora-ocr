@@ -35,6 +35,12 @@ disturbed zones, notably around oil wells; also in cultivation; in Gabon at 20�
 
 sacred basil (angl.). Usage : Utilisé comme stimulant et antihelminthique. En Asie, cultivé comme épice et plante médicinale ; aussi utilisé à des fins rituelles. La plante est employée comme condiment dans les salades, substitut du thé, insectifuge, et panacée (agent anti-stress, diaphorétique, expectorant, bains aromatiques). B : Hanelt & IPK (2001), p aton (1992), Raponda-Walker & Sillans (1961), Suddee et al. i B liographie (2005)
 
+## Figures
+
+![Ocimum tenuiflorum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_068_p0083.png)
+
+*Plate 20 . Ocimum tenuiflorum : 1. Flowering stem (× ⅔). – 2. Flower (× 4). – 3. Calyx in fruit (× 4). (1-3 :*
+
 ## Notes
 
 <!-- TODO:notes -->

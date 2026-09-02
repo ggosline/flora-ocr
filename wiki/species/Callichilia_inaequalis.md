@@ -34,6 +34,12 @@ Nigeria, Cameroon and Gabon; in Gabon only known from the Estuaire
 
 forest edge, secondary forest; in Gabon and elsewhere at 0–200 m altitude. B: Beentje (1978). BIBLIOGRAPHY
 
+## Figures
+
+![Callichilia inaequalis](../sources/Apocynaceae_vol59_liteparse/figures/fig_056_p0064.jpeg)
+
+*Planche 24 . Callichilia inaequalis 5DPHDXÀRULIqUHîò±&RXSHORQJLWXGLQDOHSDUWLHOOHGHOD*
+
 ## Notes
 
 <!-- TODO:notes -->

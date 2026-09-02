@@ -32,6 +32,12 @@ Rare species, found in Nigeria, Cameroon, Equatorial Guinea (Río Muni) and Gabo
 
 primary humid lowland forest, stream margins, muddy places; in Gabon at ± 500 m altitude, elsewhere from 50 to 700 m. B: Brenan (1968b), Cabezas et al. (2014), Sosef et al. (2006), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Floscopa mannii](../sources/Commelinaceae_vol55_liteparse/figures/fig_024_p0042.jpeg)
+
+*Figure 3. Floscopa mannii (Ivindo, Gabon, Bidault et al. 2284): A. General appearance, B. Flower. – Palisota akouangoui (Birougou, Gabon, Bidault et al. 4100): C. Plants with inflorescence and fruits, (between Dibwangui and Lebamba, Gabon, Bidault et al. 3785): D. Inflorescence. – Murdania simplex (Fernan Vaz,*
+
 ## Notes
 
 <!-- TODO:notes -->

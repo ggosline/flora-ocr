@@ -37,6 +37,12 @@ lake margins, streams, in full light; in Gabon at low altitude, elsewhere up to 
 
 In Gabon, this is subsp. punctata; subsp. sesban, with its stamens 9–13 mm, is found in East Africa (with 4 varieties) and South-East Asia. B: Arbonnier (2000), Burkill (1995), Cronquist (1954), Gillett (1963, 1971c), Heering & Gutteridge (1992b), Pellegrin (1949), Watt & Breyer-Brandwijk (1962)
 
+## Figures
+
+![Sesbania sesban](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_125_p0350.png)
+
+*Plate 117: Sesbania sesban subsp. punctata: 1. Flowering branch (× ½). – 2. Open flower, half of calyx removed (× 2). – 3. Flower, longitudinal section (× 2). – 4. Half of standard, internal face (× 2). – 5. Wing, external face (× 2). – 6. Keel petal, external face (× 2). – 7. Vexillar stamen (× 2). – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

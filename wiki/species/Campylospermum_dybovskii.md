@@ -34,6 +34,12 @@ Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic R
 
 primary or secondary forest, gallery forest, swamp forest or flooded forest; on laterite quarries, on white and sandy soil; in Gabon, at 0–450 m altitude, elsewhere, up to 630 m. Uses: The roots are ground with seeds of Aframomum melegueta and eaten to remedy impotence (Neuwinger, 2000). Taxonomic note: This species is very close to C. calanthum and C. densiflorum (see note under C. densiflorum). The leaves of the first are generally bullate, but in case of doubt, one may compare the stipules and gemmate scales (both persistent in C. calanthum and stipules caducous, leaving a distinct scar, but gemmate scales absent, in C. dybovskii). The differences with C. densiflorum are found in the key. b: Bamps & Farron (1967), Bissiengou (2014), Farron (1963, 1968, 1985). Bibliography
 
+## Figures
+
+![Campylospermum dybovskii](../sources/Ochnaceae_vol48_liteparse/figures/fig_020_p0042.png)
+
+*Plate 8. Campylospermum dybovskii: 1. Flowering branch. – 2. Part of the fruitfructescence. – 3. Flower. – 4. Fruit. – 5. Cotyledons. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

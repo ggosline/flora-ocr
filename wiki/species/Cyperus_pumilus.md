@@ -36,6 +36,14 @@ seasonally humid herbaceous zones, grasslands, lakeshores and marsh margins; in 
 
 Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus pumilus](../sources/Cyperaceae_vol44_liteparse/figures/fig_101_p0123.png)
+
+*Plate 77. Cyperus pumilus var. patens. A. Plant. Plate 78. Diplacrum capitatum. A. Plant. – B. – B. Apex of the blade. – C. Spikelet. – D. Part of the inflorescence. Section of the blade. – C. Inflorescence. – D. Fruit. – E. Rachis of the spikelet with glumes and young fruits. – F. Glume. – G. Flower. – H. Fruit.*
+
+![Cyperus pumilus](../sources/Cyperaceae_vol44_liteparse/figures/fig_102_p0123.png)
+
 ## Notes
 
 <!-- TODO:notes -->

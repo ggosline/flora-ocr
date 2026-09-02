@@ -45,6 +45,12 @@ Piper 71
 
 poivre noir d’Afrique, poivre de brousse, poivre d’Anchantis, poivre de Guinée (fr.) ; Ashanti pepper, Benin pepper, Guinea pepper, West African pepper (angl.) ; abó-me-nzangndzic (fang) ; gikókóri-gi-ondu (mindumu) ; kètsu (apindji) ; kiètu (mitsogo) ; léndonghu-lé-nkolé (bakélé) ; mukètu (bapunu, bavarama, bavungu, èshira) ; mukyètu (ngowé) ; mvovo (à Loango) ; Ndókóyi (benga) ; ndong-i-nkólé (bakélé) ; ndongo-a-kódi (bakota) ; ndongo-a-modji (ivéa) ; ndongo-a-tsèngè (banzabi) ; ndong-unkolu (béséki) ; ndugu-a-nbuku (baduma) ; ndungu-a-swaga (bavili) ; nongo-a-génanaï (bavové) ; ntogolo y’ogóli (mpongwè) ; ogèru (galoa, nkomi, orungu) ; tsèfo-tsimavóvo (balumbu). Usage : En médecine locale, les graines réduites en poudre ont une propriété stimulante. Les fruits et les feuilles sont utilisées fraîches et séchées comme épice à goût pimenté. B : Baker & Wright (1909), Balle (1948), Diniz (1997), Raponda-Walker & Sillans (1961), i B liographie Verdcourt (1996)
 
+## Figures
+
+![Piper guineense](../sources/Piperaceae_vol50_liteparse/figures/fig_040_p0077.png)
+
+*Plate 28. Piper guineense: 1. Habit (× ½). – 2. Ripe spike (× ½). Drawing by S. Balle, reproduced with permission from Balle (1942).*
+
 ## Notes
 
 <!-- TODO:notes -->

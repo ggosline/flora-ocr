@@ -27,6 +27,26 @@ The genus Raphia is the most diverse in continental Africa, with about twenty sp
 
 Notes: Raponda-Walker & Sillans (1961) report the possible presence of R. sudanica A.Chev. (cited as R. humilis A.Chev.), particularly in savannas near Franceville (Batéké Plateaus). At
 
+## Key to the species
+
+1. - Acaulescent palm, without a stem; leaves generally 4 to 6, arising from the ground ........... R. regalis
+- Palm with a stem (trunk) clearly developed, but often concealed by leaves, remains of leaf sheaths or covered with a network of fibers ........................................... 2
+2. Stem solitary .................................................................................................................. 3
+Stems caespitose (multiple) ............................................................................................ 5
+3. - Leaves 15 to 20; fibers of stems > 1 cm wide, forming a network always strongly looped .............................................................................................. R. hookeri
+- Leaves ≤ 12; fibers of stems < 1 cm wide, forming a weakly looped network .............................................................................................................................. 4
+4. - Leaves 9 to 12; spines present on the upper surface of the rachis .................... R. textilis
+- Leaves 7 or 8; spines absent from the upper surface of the rachis (endemic to Gabon) ..................................................................................................... R. gabonica
+5. - Stem covered with a network of pendulous fibers and some straight and pointed fibers
+.......................................................................................................................... R. rostrata
+- Stem covered with a network of straight and pointed fibers .................................................. 6
+6. - Inflorescence pendulous; bracteole at the base of partial inflorescences bifid
+......................................................................................................................... R. zamiana
+- Inflorescence semi-erect; bracteole at the base of partial inflorescences pointed ....... 7
+7. - Secondary fertile branches digitate, with bracts tightly packed forming round rings ................................................................................................. R. laurentii
+- Secondary fertile branches not digitate, their bracts not forming rings
+................................................................................................................. R. monbuttorum
+
 ## Species in region
 
 | Species | Vol | Pages |

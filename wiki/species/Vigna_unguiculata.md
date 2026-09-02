@@ -51,6 +51,12 @@ bannette, dolique-monguette, dolique-catjang, haricot dolique, haricot à l’oe
 
 This species presents great morphological variability with 5 cultivar-groups very different from each other: cv.-gr. Sesquipedalis (long fleshy pods, reniform seeds, especially cultivated in southeast Asia, = Dolichos sesquipedalis L.); cv.-gr. Textilis (long floral peduncles, formerly cultivated for its fibers); cv.-gr. Melanophthalmus (photoperiod-sensitive, seeds with fine wrinkled testa, 17 ovules or fewer per pod); cv.-gr. Biflora (photoperiod-sensitive, seeds with thick smooth testa, 17 ovules or fewer per pod) and cv.-gr. Unguiculata (photoperiod-insensitive, seeds with thick smooth testa, 17 or more ovules per pod). The latter is very certainly cultivated in Gabon, since it is cultivated in South Cameroon, as well as in the Republic of Congo. The taxonomy of species V. unguiculata is rather complicated, with many authors who have applied their own ideas on taxa to distinguish and also with diverse interpretations of the numerous type specimens. Pasquet (1993) attempted to bring order to this situation, but because of its complexity, his system is not well understood, nor followed everywhere. B: Lewis et al. (2005), Madamba & Grubben (2004), Madamba et al. (2006), Pandey & Westphal (1989), Pasquet (1993, 2001), Verdcourt (1971c), Wilczek (1954). Bibliography var. spontanea Pasquet Plate 129 Bull. Jard. Bot. Nat. Belg. 62 : 159 (1993). Differs from var. type by: Flower: calyx with lobes 1.5–4 mm long; corolla 15–23 mm long; ovary with 12 to 18 ovules. Pod dehiscent, 6–10 cm × 3–5 mm. Seed 3.5–5 × 2.5–3 mm
 
+## Figures
+
+![Vigna unguiculata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_137_p0386.png)
+
+*Plate 129 : Vigna unguiculata subsp. unguiculata var. spontanea : 1. Flowering stem (× ½). – 2. Fruiting stem (× ½). – 3. Stipule (× 2). – 4. Flower (× 2). – 5. Standard, inner surface (× 2). – 6. Wing, inner surface (× 2). – 7. Keel (× 2). – 8. Androecium spread and vexillary stamen (× 2). – 9. Gynoecium, longitudinal section (× 2). – 10. Pod, inner surface and seeds (× ½). – 11. Seed (× 2). (1, 2 : Frédéricq in G. De Witte 7695 ; 3–9 : Frédéricq in G. de Witte 8880 ; 10, 11 : Corbisier 157 ). Drawing by M. Boutique, Jardin*
+
 ## Notes
 
 <!-- TODO:notes -->

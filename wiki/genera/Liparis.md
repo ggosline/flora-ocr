@@ -47,6 +47,24 @@ This important genus, especially pantropical, comprises approximately 270 specie
 
 5'. Small plants < 15 cm, leaves less than 1–1.7 cm wide, inflorescence 3–10(20)-flowered ..... 3. L. epiphytica
 
+## Key to the species
+
+1. Labellum deeply 3-toothed just above the base; median lobe apiculate, apex recurved upward ..... 6. L. tridens
+1'. Labellum of various forms but never distinctly 3-lobed.
+
+2. Lateral sepals fused into a gamosepalous unit ..... 4. L. hallei
+2'. Lateral sepals free or fused only at their base.
+
+3. Labellum orbicular, transversely elliptic or diamond-shaped, maximum width at or below the midpoint ..... 1. L. ascendens
+3'. Labellum obovate, maximum width above the midpoint.
+
+4. Rhizome long, ascending, pseudobulbs well separated ..... 2. L. deistelli
+4'. Rhizome reduced, very short, pseudobulbs closely appressed to one another.
+
+5. Large plants, generally > 25 cm, leaves 2–10 cm wide, inflorescence (10)20–40(–n)-flowered ..... 5. L. nervosa
+
+5'. Small plants < 15 cm, leaves less than 1(1.7) cm wide, inflorescence 3–10(20)-flowered ..... 3. L. epiphytica
+
 ## Species in region
 
 | Species | Vol | Pages |

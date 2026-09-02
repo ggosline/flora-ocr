@@ -41,6 +41,12 @@ djókèló, mabata (bakélé), ésombwè (galoa)
 
 In African literature, the presence in Gabon of P. rotundifolia has been mentioned occasionally, but this species is of American origin and not present in Africa. It is generally P. bangroana. The Peperomia sp. (?) mentioned in Raponda-Walker & Sillans (1961) probably refers to this species. B : Diniz (1997), Keay (1954), Raponda-Walker & Sillans (1961), Verdcourt (1996). i B liography
 
+## Figures
+
+![Peperomia bangroana](../sources/Piperaceae_vol50_liteparse/figures/fig_038_p0072.png)
+
+*Plate 26 . Peperomia pellucida : 1. Habit. – Peperomia thomeana : 2. Habit. – Peperomia bangroana : 3. Habit. – Peperomia tetraphylla : 4. Habit. (1 : J.J.F.E. de Wilde et al. 10408 ; 2 : Ogonovszky 326 ; 3 :*
+
 ## Notes
 
 <!-- TODO:notes -->

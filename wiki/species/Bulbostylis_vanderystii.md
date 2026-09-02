@@ -34,6 +34,12 @@ Gabon and Democratic Republic of the Congo; very rare in Gabon, found only in Ha
 
 Savannas and savanna/forest margins; in Gabon around 380–600 m altitude. Taxonomic note: somewhat resembles B. scabricaulis, but differs from it by the almost smooth stem and much darker, almost black spikelet. B: Goetghebeur & Coudijzer (1984b). Bibliography
 
+## Figures
+
+![Bulbostylis vanderystii](../sources/Cyperaceae_vol44_liteparse/figures/fig_029_p0035.png)
+
+*Planche 17 . Bulbostylis scabricaulis. A. Plante. – Planche 18 . Bulbostylis vanderystii. A. Plante.*
+
 ## Notes
 
 <!-- TODO:notes -->

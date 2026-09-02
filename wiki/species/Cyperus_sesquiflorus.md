@@ -39,6 +39,12 @@ Taxonomic note: very similar to subsp. cylindricus, but larger in all its parts 
 
 in open grassy areas, particularly in disturbed soils, also around inselbergs; in Gabon, at 200–750 m altitude, up to 1900 m elsewhere. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Cyperus sesquiflorus](../sources/Cyperaceae_vol44_liteparse/figures/fig_081_p0103.png)
+
+*Plate 61. Cyperus sesquiflorus subsp. Plate 62. Cyperus triceps. A. Plant. – B. Base cylindricus. A. Plant. – B. Base of the plant. of the plant. – C, D. Inflorescence. – E. Old – C. Opening of the sheath. – D, E. Inflorescence. – inflorescence with spikelets fallen showing*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ sect. SQUAMIBEGONIA Warb. in Engl. & Prantl, Nat. Pflanzenfam. (ed. 1) 3, 6a: 13
 
 <!-- caption: Plate 34. Begonia ampla: 1. Flowering branch (× 0.4). – 2. ♂ Flower (× 0.8). – 3. Tepal of a ♂ flower, external face (× 0.8). – 4. Androecium (longitudinal section, schematic). – 5. Anther, frontal view (× 5). – 6. Detail of the articulation of the pedicel of a ♂ flower (× 3.5). – 7. ♀ Flower (× 0.8). – 8. Stigma, external face (× 5). – 9. Papilla of the stigma. – 10. Ovary, transverse section (× 6.5). – 11, 11a. Ripe fruit with its indument (× 1.5). – 12. Detail of the apex of the fruit with remnant of the perianth column. – 13, 13a. Seed (× 24) and detail of the integument (× 70). – 14. Schematic outline of the seeds. – 15. Detail of the indument of the lower face of the blade (× 7). – 16. Dentate-laciniate hairs (× 13). – 17. Detail of the margin of a hair. (1, 15-17: Mildbraed 6249; 2-9: Leeuwenberg 9949; 10: Bequaert 4481; 11-14: Le Testu 5410). Drawing by I. Z., National Herbarium of the Netherlands -->
 
+## Figures
+
+![Begonia wilksii](../sources/Begoniaceae_vol39_liteparse/figures/fig_048_p0070.png)
+
+*Plate 33. Begonia wilksii : 1. Fruiting plant (× ⅔). – 2. Inflorescence (× 2). – 3. ♀ flower (× 3). – 4. Styles and stigmas (× 4). – 5. Fruit and bracts (× 3). (1, 5 : Wilks 1314 ; 2-4 : de Wilde & Sosef 10.325 ) . Drawing by W W , National Herbarium of the Netherlands – Wageningen branch.*
+
 ## Notes
 
 <!-- TODO:notes -->

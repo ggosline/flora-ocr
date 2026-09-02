@@ -41,6 +41,12 @@ crotalaire, sonnette (fr.), rattlepod (angl.)
 
 This species is mentioned by Raponda-Walker & Sillans (1961) under the name C. intermedia. b: Polhill (1982, 2003), Schippers (2004a), Wilczek (1953). Bibliography
 
+## Figures
+
+![Crotalaria ochroleuca](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_038_p0100.png)
+
+*Plate 30 : Crotalaria ochroleuca : 1. Flowering and fruiting branch (× 1). – 2. Flower (× 3). – 3. Standard (× 3). – 4. Wing (× 3). – 5. Keel (× 3). – 6. Gynoecium (× 3). – 7. Seed (× 10). (1–6 : Richards 5278 ; 7 :*
+
 ## Notes
 
 <!-- TODO:notes -->

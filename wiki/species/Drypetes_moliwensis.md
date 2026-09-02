@@ -46,11 +46,11 @@ Cheek et al. (2000)
 
 ![Drypetes moliwensis](../sources/Putranjivaceae_vol57_paddle/figures/fig_099_p0148.png)
 
-*Figure 10. Drypetes laciniata: A, Inflorescence mâle; B, Stipule. – Drypetes moliwensis: C, Rameau florifère mâle; D, Fleurs mâles. – Drypetes paxii: E, Jeune fruit. – Drypetes preussii: F, Rameau feuillé; G, Inflorescence mâle; H, Jeunes fruits. Photos A, B par E. Bidault (Gabon, Bidault 2245), C, D par E. Bidault (Gabon, Bidault 2241), E par D. Harris (Rép. Centrafricaine, Harris 8171), F, G par D. Nguema (Gabon, Nguema 3396), H par A. Boupoya (Gabon, Boupoya 2083).*
+*Figure 10. Drypetes laciniata: A, Male inflorescence; B, Stipule. – Drypetes moliwensis: C, Male flowering branch; D, Male flowers. – Drypetes paxii: E, Young fruit. – Drypetes preussii: F, Leafy branch; G, Male inflorescence; H, Young fruits. Photos A, B by E. Bidault (Gabon, Bidault 2245), C, D by E. Bidault (Gabon, Bidault 2241), E by D. Harris (Central African Rep., Harris 8171), F, G by D. Nguema (Gabon, Nguema 3396), H by A. Boupoya (Gabon, Boupoya 2083).*
 
 ![Drypetes moliwensis](../sources/Putranjivaceae_vol57_paddle/figures/fig_100_p0151.png)
 
-*Planche 48. Drypetes moliwensis : 1. Feuilles (face inférieure à droite) (× 1). – 2. Détail du tronc (× 4½). – 3. Détail de la marge du limbe foliaire (× 2). – 4. Inflorescence femelle (× 1½). – 5. Fleur mâle (× 9). – 6. Bractée et bractéoles (× 9). – 7. Fleur femelle (× 9). – 8. Ovaire, section transversale (× 8). (1, 3, 4, 6-8: Wheatley 218; 2, 5: Watts 171). Dessin par Bee Fong Gunn, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Cheek et al. (2000).*
+*Plate 48. Drypetes moliwensis: 1. Leaves (lower surface on the right) (× 1). – 2. Detail of the trunk (× 4½). – 3. Detail of the margin of the leaf blade (× 2). – 4. Female inflorescence (× 1½). – 5. Male flower (× 9). – 6. Bract and bracteoles (× 9). – 7. Female flower (× 9). – 8. Ovary, transverse section (× 8). (1, 3, 4, 6-8: Wheatley 218; 2, 5: Watts 171). Drawing by Bee Fong Gunn, Royal Botanic Gardens, Kew (©), reproduced with permission from Cheek et al. (2000).*
 
 ## Notes
 

@@ -45,6 +45,14 @@ Group of spikelets. – E, F. Spikelets. – G, H. Glumes. – I. Flower with yo
 
 Richard W. Haines ©. Original drawing by Richard W. Haines ©. Taxonomic note: recognized by its large size, coastal habitat, spikelets disarticulating at the base and its stems, peduncles and papillose leaves; no similar species in Africa. B: Hooper & Napper (1972), Simpson & Inglis (2001). Bibliography
 
+## Figures
+
+![Cyperus ligularis](../sources/Cyperaceae_vol44_liteparse/figures/fig_048_p0064.png)
+
+*Plate 36 . Cyperus ligularis . A. Part of a stem with leaves. – B. Inflorescence. – C. Spike. – D.*
+
+![Cyperus ligularis](../sources/Cyperaceae_vol44_liteparse/figures/fig_050_p0065.png)
+
 ## Notes
 
 <!-- TODO:notes -->

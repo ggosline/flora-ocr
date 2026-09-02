@@ -38,6 +38,12 @@ species of West Africa, from Sierra Leone to Nigeria, Cameroon and Gabon from wh
 
 riverine forest; in Gabon, at 640 m altitude, elsewhere at 0–1000 m. B: Heine (1963). Bibliography
 
+## Figures
+
+![Lepistemon parviflorum](../sources/Convolvulaceae_vol46_liteparse/figures/fig_032_p0048.png)
+
+*Plate 20. Lepistemon parviflorum : 1. Flowering branch. – 2. Leaf, detail of the lower surface. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

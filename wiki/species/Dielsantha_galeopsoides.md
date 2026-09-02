@@ -33,6 +33,12 @@ Nigeria, Cameroon, Equatorial Guinea (Bioko) and Gabon; in Gabon principally in 
 
 humid forests; between 320 and 800 m in altitude. B: Wimmer (1953, 1963). Bibliography
 
+## Figures
+
+![Dielsantha galeopsoides](../sources/Lobeliaceae_vol40_liteparse/figures/fig_038_p0045.png)
+
+*Plate 10. Dielsantha galeopsoides: A. Plant in fruit. – B. Flower. – C. Fruit after dehiscence.*
+
 ## Notes
 
 <!-- TODO:notes -->

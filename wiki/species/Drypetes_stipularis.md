@@ -48,11 +48,11 @@ Keay (1958), Sosef et al. (2006)
 
 ![Drypetes stipularis](../sources/Putranjivaceae_vol57_paddle/figures/fig_098_p0147.png)
 
-*Planche 47. Drypetes laciniata: 1. Feuille, avec nervures tertiaires. – 2. Stipule, bourgeon axillaire, pétiole et base du limbe. – 3. Limbe foliaire, détail de la nervation tertiaire, face inférieure. – Drypetes magnistipula: 4. Rameau avec feuilles et stipules. – 5. Fleur femelle, un sépale enlevé. – Drypetes stipularis: 6. Feuille, avec nervures tertiaires. – 7. Paire de stipules, pétiole et base du limbe. – 8. Limbe foliaire, détail de la nervation tertiaire, face inférieure. (1-3 : Harris 3461; 6-8 : Harris 7197). Dessin par R. Wise (1-3, 6-8), Royal Botanic Garden Edinburgh (©), et par Anonymus (4, 5), reproduit avec permission à partir de Harris & Wortley (2008) et Pax & Hoffmann (1922).*
+*Plate 47. Drypetes laciniata: 1. Leaf, with tertiary venation. – 2. Stipule, axillary bud, petiole and base of the blade. – 3. Leaf blade, detail of the tertiary venation, lower surface. – Drypetes magnistipula: 4. Branch with leaves and stipules. – 5. Female flower, one sepal removed. – Drypetes stipularis: 6. Leaf, with tertiary venation. – 7. Pair of stipules, petiole and base of the blade. – 8. Leaf blade, detail of the tertiary venation, lower surface. (1-3: Harris 3461; 6-8: Harris 7197). Drawing by R. Wise (1-3, 6-8), Royal Botanic Garden Edinburgh (©), and by Anonymus (4, 5), reproduced with permission from Harris & Wortley (2008) and Pax & Hoffmann (1922).*
 
 ![Drypetes stipularis](../sources/Putranjivaceae_vol57_paddle/figures/fig_104_p0158.png)
 
-*Figure 11. Drypetes principum: A, Rameau feuillé; B, Jeunes fruits. – Drypetes stipularis: C, Boutons floraux femelles; D, Stipule; E, Fruits. – Drypetes umbricola: F, Tronc. – Drypetes verrucosa: G, Inflorescence mâle; H, Stipule; I, Fruits; J, Rameau feuillé. Photos A, B par N. Texier (Gabon, Texier 1177), C par D. Harris (Rép. Congo, Harris 8874), D, E par D. Harris (Rép. Congo, Harris 9316), F par D. Harris (Rép. Centrafricaine, Harris 8810), G par B. Sonké (Gabon, Sonké 6041), H-J par E. Bidault (Gabon, Bidault 1940).*
+*Figure 11. Drypetes principum: A, Leafy branch; B, Young fruits. – Drypetes stipularis: C, Female flower buds; D, Stipule; E, Fruits. – Drypetes umbricola: F, Trunk. – Drypetes verrucosa: G, Male inflorescence; H, Stipule; I, Fruits; J, Leafy branch. Photos A, B by N. Texier (Gabon, Texier 1177), C by D. Harris (Rep. Congo, Harris 8874), D, E by D. Harris (Rep. Congo, Harris 9316), F by D. Harris (Central African Rep., Harris 8810), G by B. Sonké (Gabon, Sonké 6041), H-J by E. Bidault (Gabon, Bidault 1940).*
 
 ## Notes
 

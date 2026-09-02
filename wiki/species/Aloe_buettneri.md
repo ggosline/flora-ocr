@@ -34,6 +34,14 @@ widely distributed across West Africa, from Mali and Ghana to Nigeria; to the so
 
 grasslands and wooded savanna, on sandy soils; in Gabon, at 500 m altitude, in tropical Africa, at 250 to approximately 900 m, in the southernmost part of its range, up to around 1800 m. B: Carter et al. (2011), Hepper (1968), Newton (2001). Bibliography
 
+## Figures
+
+![Aloe buettneri](../sources/Aloaceae_vol47_liteparse/figures/fig_011_p0011.jpeg)
+
+*Figure 1. Aloe buettneri : 1. Habit of the plant. – 2. Flowers. Photos by Katharina Schumann (©), reproduced with permission from Dressler et al. (2014).*
+
+![Aloe buettneri](../sources/Aloaceae_vol47_liteparse/figures/fig_012_p0011.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

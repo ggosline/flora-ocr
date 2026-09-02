@@ -34,6 +34,12 @@ West and central tropical Africa: Sénégal, Guinée-Bissau, Guinée Conakry, Si
 
 gramineous formations, swampy savanna; at 0–550 m altitude. B: Keay & Taylor (1954), Paiva (1998). Bibliography
 
+## Figures
+
+![Polygala lecardii](../sources/Polygalaceae_vol42_liteparse/figures/fig_038_p0088.png)
+
+*Plate 25. Polygala lecardii : 1. Plant. – 2. Keel with crest. – 3. Flower. – 4. Flower, one winged sepal removed. – 5. Sepals and fruit. – 6. Fruit. (1-6 : P. Jaeger 7080 ). Drawing by Sílvia Castro, Centre for Functional Ecology, Department of Life Sciences, University of Coimbra.*
+
 ## Notes
 
 <!-- TODO:notes -->

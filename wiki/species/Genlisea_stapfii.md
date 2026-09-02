@@ -32,6 +32,16 @@ Senegal, Gambia, Mali, Guinea-Bissau, Guinea, Sierra Leone, Liberia, Côte d'Ivo
 
 marshy savannas on Kalahari sand, wet rocks, inselbergs; in Gabon at 5–50 m altitude, elsewhere at 0–1100 m. B: Fischer et al. (2000), Fleischmann (2012b), Taylor (1972). Bibliography
 
+## Figures
+
+![Genlisea stapfii](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_078_p0092.png)
+
+*Plate 30. Genlisea stapfii : 1. Entire plant. – 2. Leaves. – 3. Rhizophyll (trap). – 4. Infructescence. – 5, 6. Hairs on pedicel. – 7. Hairs on sepals. – 8. Calyx. – 9. Flower, frontal view. – 10a, 10b.*
+
+![Genlisea stapfii](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_079_p0094.jpeg)
+
+*Figure 8. Genlisea stapfii (Gabon) : A-C. (Photos par J.P. Vande weghe ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

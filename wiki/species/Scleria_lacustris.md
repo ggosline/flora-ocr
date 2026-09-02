@@ -41,6 +41,20 @@ dirala (échira, bavarama, bavungu), dirara (bapunu), égyagya (mitsogo), gyagya
 
 a b
 
+## Figures
+
+![Scleria lacustris](../sources/Cyperaceae_vol44_liteparse/figures/fig_189_p0215.jpeg)
+
+*Figure 26. Akènes de a) Scleria interrupta ( Lisowski D-417 , Benin) et b) Scleria lacustris ( Morton &*
+
+![Scleria lacustris](../sources/Cyperaceae_vol44_liteparse/figures/fig_191_p0216.png)
+
+*Plate 133 . Scleria lacustris . A. Lower part Plate 134 . Scleria lagoensis . A. Plant. – B. Base of a plant. – B. Fertile part of plant. – C. of blade and opening of leaf sheath showing*
+
+![Scleria lacustris](../sources/Cyperaceae_vol44_liteparse/figures/fig_192_p0216.png)
+
+![Scleria lacustris](../sources/Cyperaceae_vol44_liteparse/figures/fig_194_p0217.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

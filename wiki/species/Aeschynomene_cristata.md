@@ -33,6 +33,12 @@ Tropical Africa and Madagascar; in Gabon, known from the Ngounié and Nyanga
 
 open humid places, in swamps, ponds, ruderal herbaceous vegetation; in Gabon, at 0–400 m altitude, elsewhere up to 1050 m. Flowering and fruiting in February. b: Léonard (1954a, 1954b), Pellegrin (1949). Bibliography
 
+## Figures
+
+![Aeschynomene cristata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_012_p0026.png)
+
+*Plate 4 : Aeschynomene cristata : 1. Flowering ramule (× ½). – 2. Stipule (× 2). – 3. Flower, longitudinal section (× 1). – 4. Bracteoles and calyx lips (× 1). – 5. Standard, external face (× 1). – 6. Wing, external face (× 1). – 7. Keel spread, internal face (× 1). – 8. Detail of the marginal fusion of the keel petals (× 2). – 9. Androecium and portion of calyx (× 1). – 10. Legume (× ½). 11. Article of the legume (× 2). (1–9 : Ghesquière 61; 10, 11 : Kesler 1022). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,31 @@ Bibliography: Haines & Lye (1983), Hinchcliff et al. (2010), Hoenselaar et al. (
 
 3. – Stems rounded and hollow, thick 4–8 mm ......................................... E. dulcis
 
+## Key to the species
+
+1. - Stems unbranched, all terminating in a spikelet with at least 3 flowers ..... 2
+- Stems clearly branched; only a few branches terminating in a spikelet with 1 flower ................................................................................................................... 8
+2. - Stems thick 1‒8 mm; spikelet long 10‒60 mm; glumes long 3‒6 mm; achene long 1.5‒2 mm, often ± triangular; perennial plants ........ 3
+- Stems thick 0.1‒1 mm; spikelet long 2‒15 mm; glumes long 1‒2.3 mm; achene long 0.5‒1 mm, lenticular, black, shiny; annual or perennial plants with slender creeping stems ............................................................ 6
+3. - Stems rounded and hollow, thick 4‒8 mm ......................................... E. dulcis
+- Stems rounded or angular, filled with pith, thick 1‒5 mm .............. 4
+4. - Stems often triangular with ± rounded angles; achene urceolate ........... E. variegata
+- Stems triangular with acute angles or almost winged; achene obovoid ................... 5
+5. - Perianth bristles longer than the achene, with numerous retrorsely barbed; achene without pronounced constriction between the achene and the appendage ............. E. mutata
+
+---
+
+- Perianth bristles shorter or longer than the achene, without or with few retrorsely barbed; achene with a sharp constriction between the achene and the appendage
+.............................................................................................................. E. acutangula
+6. - Glumes long 2.5‒3.5 mm; cell walls raised at the surface of the achene ..................................................................................................... E. retroflexa
+- Glumes long 1‒2 mm; achene smooth and shiny ............................................... 7
+7. - Annual or perennial plant with creeping stems; stem thick 0.6‒0.9 mm; spikelet globose to lanceolate–pyramidal, wide 2.5‒3.5 mm; glumes long 1.8‒2 mm; achene long 0.8‒1 mm ................................................... E. geniculata
+- Annual plant; stem thick 0.2‒0.3 mm; spikelet globose to ovate–lanceolate, wide 1‒2 mm; glumes long 1‒1.2 mm; achene long approximately 0.5 mm
+........................................................................................................... E. atropurpurea
+8. - Annual plant without hard woody base; spikelet long 4‒5 mm with 2‒3 glumes surrounding a single flower; perianth with scarcely developed segments
+.......................................................................................................... E. naumanniana
+- Perennial plant with a hard woody base; spikelet long approximately 10 mm with 2 large green and purple glumes surrounding the single flower; perianth with prominent segments ...................................................................................... E. confervoides
+
 ## Species in region
 
 | Species | Vol | Pages |

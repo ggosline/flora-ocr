@@ -31,6 +31,12 @@ Endemic to northwestern Gabon (Woleu-Ntem). Conservation status: known only from
 
 Forest road margins; at ± 200 m altitude. B: Breteler (2005). Bibliography
 
+## Figures
+
+![Clerodendrum leucobotrys](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_039_p0036.png)
+
+*Plate 7. Clerodendrum leucobotrys: 1. Flowering stem. – 2. Flower. – 3. Floral bud. – 4. Corolla. – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

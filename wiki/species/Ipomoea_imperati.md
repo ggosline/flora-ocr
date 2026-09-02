@@ -32,6 +32,12 @@ Tropical Africa and Mediterranean countries, tropical Asia and America; in Gabon
 
 maritime sands. B: Heine (1963), Lejoly & Lisowski (1992), La Valva & Sabato (1983). Bibliography
 
+## Figures
+
+![Ipomoea imperati](../sources/Convolvulaceae_vol46_liteparse/figures/fig_027_p0040.png)
+
+*Plate 15. Ipomoea imperati : Two flowering branches showing the variation of the shape of the leaves.*
+
 ## Notes
 
 <!-- TODO:notes -->

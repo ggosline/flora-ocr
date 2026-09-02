@@ -37,6 +37,12 @@ Drawing by W.E. Turrill reproduced with permission of Royal Botanic Gardens, Kew
 
 boï-bu-móngu (bavungu) ; bopolè (ivéa) ; bupola (masangu) ; bupoli (éshira, bavarama, bapunu) ; dirurubu-di-tandu (balumbu) ; ékora (galoa) ; kogya (bavové) ; mbondè (bakèlè) ; mogama (apindji) ; mogonga (mitsogo) ; mundji-a-ndundu (bavili) ; ndwakowo (nkomi, béséki) ; obota (mpongwè) ; otundèn (fang). Note taxonomique : Une espèce très variable dans la pilosité et dans la consistance et forme des feuilles. Les variétés distinguées par Gonçalves (1987) ne sont pas, comme chez Heine (1963) et Lejoly & Lisowski (1992), reconnues ici parce qu’il y a trop d’intermédiaires. B : Gonçalves (1987), Heine (1963), Lejoly & Lisowski (1992). ibliographie
 
+## Figures
+
+![Ipomoea involucrata](../sources/Convolvulaceae_vol46_liteparse/figures/fig_028_p0042.png)
+
+*Plate 16. Ipomoea involucrata : 1. Flowering branch. – 2. Corolla spread with stamens. – 3. Calyx and style. – 4. Idem, longitudinal section. – 5. Anther. Drawing by Stella Ross-Craig, reproduced with permission of Royal Botanic Gardens, Kew (©) from Heine (1963).*
+
 ## Notes
 
 <!-- TODO:notes -->

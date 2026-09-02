@@ -33,6 +33,12 @@ Widely distributed throughout tropical regions, including Australia; in Africa: 
 
 Rooted in the mud of stagnant or slow-flowing water up to 1 m in depth and with only the capitula emerged; in Gabon, up to 100 m altitude, elsewhere up to 1500 m. Taxonomic notes: E. setaceum is immediately recognized by its distinctive long-floating stems and numerous filiform leaves. Unlike the usual situation in other species where mature seeds are easily expelled from the capitulum by means of capsule dehiscence, in E. setaceum the entire fruit falls into the water and sometimes opens into 3 separate mericarps. The seed then appears blackish due to the adherent ovary wall and surrounded by a layer of mucilage and opens only in water, expelled by a slit usually loculicidal. E. setaceum is one of the species of the genus with the widest distribution. The variability in the structure and pubescence of the bracts and flowers led to the description of several species within its range. In particular, specimens with blackish subglabrous capitula are often separated as E. melanocephalum, contrasting with forms having denser white pubescence. Nevertheless, the variation is continuous and not geographically correlated. The shared vegetative and seminal characters, distinctive and immediately recognizable within these minor variants, are therefore best retained as included within the single species E. setaceum. Bibliography: Hess (1955, 1957), Kimpouni, Lejoly & Lisowski (1992), Meikle (1968), Phillips (1997a, 2010, 2011)
 
+## Figures
+
+![Eriocaulon setaceum](../sources/Eriocaulaceae_vol48_liteparse/figures/fig_011_p0016.jpeg)
+
+*Plate 1. Eriocaulon setaceum : 1. Habit of the plant (× ½). – 2. Capitulum (× 6). – 3. Involucral bract (× 12). – 4. Floral bract (× 24). – 5. Male flower (× 24). – 6. Female flower (× 24). – 7. Petals and gynoecium of a female flower (× 24). (1 : Milne-Redhead & Taylor 9929 ; 2–7. Letouzey 7254.) Drawing by Margaret*
+
 ## Notes
 
 <!-- TODO:notes -->

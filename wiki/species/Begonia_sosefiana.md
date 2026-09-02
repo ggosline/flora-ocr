@@ -37,6 +37,12 @@ Stipule, external face. – 4. Bract, external face. – 5. ♀ Flower. – 6. S
 
 <!-- caption: Plate 15. Begonia oxyloba: 1. Flowering branch (× ½). – 2, 2a. Detail of leaf base with hair, upper face (× 1, × 3). – 3. ♂ Flower (× 2). – 4, 5. Androecium front and back (× 3). – 6-8. Stamen front, back and profile (× 6). – 9. ♀ Flower (× 2). – 10. Styles and stigmas (× 3). – 11. --> Section comprising 6 species of which B. oxyloba, widely distributed in continental Africa and Madagascar, is the sole representative in Gabon. B: Doorenbos, Sosef & de Wilde (1998), Irmscher (1925), Klazenga, de Wilde & Quené (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia sosefiana](../sources/Begoniaceae_vol39_liteparse/figures/fig_029_p0037.png)
+
+*Plate 14. Begonia sosefiana : 1. Habit of a flowering plant. – 2. Leaf and stipules. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

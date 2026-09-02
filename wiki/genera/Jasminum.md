@@ -45,6 +45,21 @@ Green (2004), Kupicha (1983), Liben (1973), Turrill (1952).
 
 - Leaves opposite or subopposite; petiole up to 10 mm; blade without or with
 
+## Key to the species
+
+1. - Trifoliolate leaves ......................................................................................................... 2
+- Simple leaves (unifoliolate) ........................................................................................ 3
+2. - Inflorescence with peduncle > 10 mm, pubescent; calyx with distinct lobes, 1–2 mm long; corolla 5-lobed (to be sought in Gabon) ........................ J. bakeri Scott-Elliot
+- Inflorescence with peduncle 2–6 mm, sparsely puberulent; calyx with undulate margin or lobes < 0.5 mm; corolla 6-lobed ...................................................... J. nardydorum
+3. - Leaves, at least some of them, ternate; petiole (6–)12–16(–21) mm; lamina without domatia; flower with pedicel 1–3 mm ............................................ J. dichotomum
+- Leaves opposite or subopposite; petiole up to 10 mm; lamina without or with domatia; flower with pedicel ≥ 10 mm ......................................................................... 4
+4. - Calyx (tube + lobes) 11–13 mm long, ± as long as the corolla tube, the latter 11–12 mm long .................................................................. J. mouilaense
+- Calyx (tube + lobes) 5–8(–10) mm long, distinctly shorter than the corolla tube, the latter (12–)14–20(–23) mm long ........................................................ 5
+5. - Lower surface of lamina without domatia .............................................. J. preussii
+- Lower surface of lamina with domatia at the axils of lateral veins, sometimes ± hidden by the indumentum .................................................................................... 6
+6. - Lamina cuneate to rounded at base, generally with margin revolute (see plate 2), at least partially; calyx with 6 to 11 lobes ........................................... J. kwangense
+- Lamina broadly rounded to cordate, or rarely cuneate at base, with margin not revolute; calyx with 5(–6) lobes .............................................................. J. pauciflorum
+
 ## Species in region
 
 | Species | Vol | Pages |

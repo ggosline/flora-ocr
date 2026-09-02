@@ -28,6 +28,16 @@ Liane reaching 20 m in length; exudate clear or white; branchlets tomentose. Lea
 
 swampy forest and riverbanks; in Gabon at ± 650 m altitude, elsewhere at 450–700 m. B: Beentje (1982, 2021). BIBLIOGRAPHY Strophanthus parviflorus Franch. Plate 106 J. Bot. (Morot) 7: 324 (1893). Liane reaching 5 m in height; exudate clear; branchlets glabrous or rarely puberulent. Leaf: petiole 0.5–1 mm, limb ovate to elliptic of 6–10 × 3–5 cm, rounded to subcordate at the base, acuminate at the apex, glabrous or rarely puberulent on the nerves; secondary veins 4 to 6 pairs. Inflorescence glabrous or puberulent, with 3–6 flowers, bracts of 1–3 × 1–2.5 mm. Flower: pedicel of 4–24 mm; calyx with subequal lobes, of 7–17 × 1–5 mm; corolla with tube 10–18 mm long, white becoming yellow, widening to 50–80% of its length into an upper cupuliform part, shallow, broad at the throat 6–12 mm, crown with ligulate lobes, 1–2.5 mm long, fleshy, white or yellow with red to violet spots, corolla lobes oval, of 3–8 × 2–5 mm, white turning yellow on both faces, abruptly narrowing into pendulous tails of 3.7–6.8 cm × 0.5–1 mm, yellow or greenish; stamens included or exserted; anther 4–5 mm long; style 8–12 mm. Fruit: follicles diverging at 80–110°, 8–15 cm long, effilée and terminating by a small button; exocarp sulcate, glabrous, provided with small and round lenticels. Seed 10 × 2–2.5 mm, pubescent; beak glabrous for 3–4 mm, bearing a coma for 15–20 mm of its length; coma 35–53 mm long. Distribution: Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon known by a single collection from the Nyanga. Ecology: primary and secondary forest clearings, in Gabon at low altitude, elsewhere up to 1200 m. B: Beentje (1982, 2021). BIBLIOGRAPHY
 
+## Figures
+
+![Strophanthus mortehanii](../sources/Apocynaceae_vol59_liteparse/figures/fig_197_p0229.jpeg)
+
+*Planche 105 . Strophanthus mortehanii 5DPHDXÀRULIqUHîҀ±)OHXUFRXSHORQJLWXGLQDOHî ±,QÀRUHVFHQFHVFKpPDWLTXH±)ROOLFXOHîҀ Breteler 2068 ; 2, 3 : Gérard 5403 ; 4 : Krukoff 235 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Beentje (1982).*
+
+![Strophanthus mortehanii](../sources/Apocynaceae_vol59_liteparse/figures/fig_198_p0230.jpeg)
+
+*Planche 106 . 6WURSKDQWKXVSDUYLÀRUXV 7LJHÀRULIqUHîҀ±)OHXUFRXSHORQJLWXGLQDOHFRUROOH*
+
 ## Notes
 
 <!-- TODO:notes -->

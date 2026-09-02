@@ -37,6 +37,16 @@ undemanding, in shaded humid places and in savanna, forest margins, fallows, cul
 
 monkey rope, snake climber, wild granadilla (angl.). mutsutsulu (éshira). b : De Wilde (1971, 1975), Grace & Fowler (2008), Raponda-Walker & Silibliographie lans (1961), Robyns (1995), Sinsin (2006), Zepernick & Timler (1984)
 
+## Figures
+
+![Adenia cissampeloides](../sources/Passifloraceae_vol46_liteparse/figures/fig_039_p0064.png)
+
+*Plate 25. Adenia spp. – Schematized leaves : 1. Adenia lobata (2 variants) . – 2. Adenia cynanchiifolia. – 3. Adenia cissampeloides. – 4. Adenia staudtii. – 5. Adenia mannii. – 6. Adenia bequartii subsp. occidentalis. – 7. Adenia poggei. Drawing by W.J. van der Burg.*
+
+![Adenia cissampeloides](../sources/Passifloraceae_vol46_liteparse/figures/fig_040_p0066.png)
+
+*Plate 26. Adenia bequartii : 1. Flowering branch (× ½). – 2. Base of the leaf with glands, lower surface (× 2½). – 3. Longitudinal section of a male flower (× 6). – 4. Detail of the corona (× 12½). – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ semi-deciduous and evergreen forests, riparian, forest edges, places more humid 
 
 Pellegrin (1949) indicates that this species could present itself as a liana, but this is very probably in error. Rojo (1972) had excluded P. tessmannii from the genus Pterocarpus, but without having seen the fruits. B: Evrard (1988), van der Maesen (2013), Pellegrin (1949), Rojo (1972), Velayos et al. Bibliography (2010)
 
+## Figures
+
+![Pterocarpus tessmannii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_118_p0334.png)
+
+*Plate 110: Pterocarpus tessmannii: 1. Stipules (× 2). – 2. Pod (× 1). (1, 2: Evrard 4005). Drawing by Antonio Fernandez, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ Equatorial Guinea (Rio Muni) and Gabon where the species is known from Estuaire 
 
 primary and secondarized forest; in Gabon up to 500 m altitude, in Rio Muni up to 1000 m. Bibliography: Bourobou-Bourobou & Breteler (1999), Breteler (2003). Bibliography
 
+## Figures
+
+![Sorindeia oxyandra](../sources/Anacardiaceae_vol50_liteparse/figures/fig_020_p0031.png)
+
+*Plate 10 . Sorindeia oxyandra : 1. Leaflets. – 2. Entire leaf. – 3. Female inflorescence. – 4. Female flower. – 5. Idem, one petal removed. – 6. Male flower. – 7. Idem, one petal removed. – 8. Fruit. – 9. Idem, longitudinal section. (1, 2, 6, 7 : Breteler & de Wilde 50 ; 3–5, 8, 9 : Breteler & de Wilde 51 ). Drawing by Wil Wessel, Naturalis Biodiversity Center (©), reproduced from Bourobou-Bourobou & Breteler (1999).*
+
 ## Notes
 
 <!-- TODO:notes -->

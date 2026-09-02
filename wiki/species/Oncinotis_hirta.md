@@ -33,6 +33,12 @@ on the exterior and furnished with hairs; on the interior with lobes 1–1.8 tim
 
 from Cameroon to Uganda and Angola; in Gabon: Ngounié, Nyanga and Ogooué-Lolo. Ecology: old forest and secondary forests near rivers; in Gabon up to 750 m altitude; elsewhere up to 1000 m. Use: The latex is said to be a cicatrizant for wounds. B: de Kruif (1985), Omino (2002), Raponda-Walker & Sillans (1961). BIBLIOGRAPHY
 
+## Figures
+
+![Oncinotis hirta](../sources/Apocynaceae_vol59_liteparse/figures/fig_150_p0177.jpeg)
+
+*Plate 82 . Oncinotis hirta : 1. Flowering branch (× ⅔). – 2. Detail of branch (× ⅔). – 3. Detail of leaf blade, lower surface (× 4). – 4. Hairs of the leaf (× 25). – 5. Base of blade, with colleters, upper surface (× 4). – 6. Flower (× 6). – 7. Idem, with corolla tube in longitudinal section, showing two stamens and the pistil, calyx and part of the corolla removed (× 12). – 8. Stamen, ventral surface (× 12). – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

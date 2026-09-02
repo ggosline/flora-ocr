@@ -34,6 +34,12 @@ Approximately four hundred species, mostly Asian; numerous also in Madagascar; o
 
 1'. Epiphytic shrub; leaves opposite, narrowly cordate; cymes moderate, 2 to 3 cm long, stamens subequal, with linear spur ..... 1 bis. M. mannii.
 
+## Key to the species
+
+1. Shrub terrestrial, trailing or epiphytic; leaves subverticillate, cuneate at base; inflorescences multiflorous on nodes near the ground; stamens dimorphous: the external ones with subulate spur ..... 1. M. mirabilis.
+
+1'. Shrub epiphytic; leaves opposite, narrowly cordate; cymes moderate, 2 to 3 cm long, stamens subequal, with linear spur ..... 1 bis. M. mannii.
+
 ## Species in region
 
 | Species | Vol | Pages |

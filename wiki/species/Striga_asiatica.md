@@ -36,6 +36,16 @@ cultivated areas, degraded savannas, rocky slabs, fallows; harmful parasite of r
 
 B: Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek bibliography (1996), Mohamed et al. (2001), Philcox (1990).
 
+## Figures
+
+![Striga asiatica](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_057_p0134.png)
+
+*Plate 43. Striga asiatica: A. Entire plant. – B. Corolla. – Striga macrantha: C. Stem with inflorescence. – D, E. Detail of inflorescence. (A–B: Fischer s.n., C–E: Fischer s.n.). Drawing by E. Fischer (©).*
+
+![Striga asiatica](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

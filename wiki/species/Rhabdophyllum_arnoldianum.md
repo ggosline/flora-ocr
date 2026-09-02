@@ -20,6 +20,12 @@ tags: [species, generated]
 
 J. Bot. (Morot) 16 : 202 (June 1902). Ouratea arnoldiana De Wild. & T.Durand in T.Durand & De Wild., Bull. Soc. Roy. Bot. Belgique 38, 2 : 30 (1900). Rhabdophyllum barteri Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum longipes Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 323 (1902). Rhabdophyllum quintasii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum staudtii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum thollonii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 323 (1902). Rhabdophyllum viancinii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 324 (1902). Ouratea longipes (Tiegh.) T.Durand & H.Durand, Syll. fl. congol. : 88 (1909). Ouratea vanderystii De Wild., Rev. Zool. Afr. 7, Suppl. Bot., B : 70 (1920). Ouratea barteri (Tiegh.) Hutch. & Dalz., Fl. W. trop. Afr., 1st edn, 1 : 193 (1927). Ouratea staudtii (Tiegh.) Keay, Kew Bull. 1953 : 82 (1953).
 
+## Figures
+
+![Rhabdophyllum arnoldianum](../sources/Ochnaceae_vol48_liteparse/figures/fig_034_p0084.jpeg)
+
+*Plate 22. Rhabdophyllum arnoldianum : 1. Fruiting branch (× ½). – 2. Detail of the leaf (× 1). – 3.*
+
 ## Also treated in vol 48
 
 **Pages**: 83-83 · **Source**: `sources/Ochnaceae_vol48_liteparse`

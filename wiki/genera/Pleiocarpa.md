@@ -33,6 +33,24 @@ Leaves all ternate or some opposite and others ternate on the same branch, somet
 
 - Stamens inserted between the middle and 92% of the tube length; style 5.5–16 mm long; mericarps with 1 to several seeds ........................................................ 3
 
+## Key to the species
+
+Leaves all ternate or some opposite and others ternate on the same branch, sometimes in whorls of 3 to 5; ovary bicarpellate, each biov­ulate ................................................................................................................... P. pycnantha
+- Leaves all opposite; ovary with 2 to 5 carpels, each with 1 or several ovules .......................................................................................................................... 2
+2. - Stamens inserted ± at the middle of the tube; style 1.2–1.5 mm long; mericarps with 1 or 2 seeds ............................................................................................... P. brevistyla
+- Stamens inserted between the middle and 92% of the tube length; style 5.5–16 mm long; mericarps with 1 to several seeds .................................................... 3
+3. - Leaf blade with secondary veins in 6 to 14 pairs, strongly curved and prominent below ....................................................................................................... 4
+- Leaf blade with secondary veins in 9 to 30 pairs, straight or slightly curved, barely prominent ........................................................................................ 5
+4. - Apex of stamens reaching the throat of the corolla; corolla lobes 5–6 × 3–4 mm; carpels and mericarps with 1 ovule, 1 seed .................................... P. robusta
+
+---
+
+- Apex of stamens reaching 3–8 mm below the throat of the corolla; corolla lobes 5.5–26 × 4–15 mm; carpels with 3 to 6 ovules, mericarps with 1 to 5 seeds .......................................................................................................... P. rostrata
+5. - Leaf blade with secondary veins in 19 to 30 pairs; ovary with 2 carpels, each with 2 ovules .................................................................................. P. bicarpellata
+- Leaf blade with secondary veins in 9 to 18 pairs; ovary with 3 to 5 carpels, each with 1 or several ovules .................................................................................... 6
+6. - Leaf blade with secondary veins in 9 to 12 pairs; mericarps with 1 seed ......................................................................................................................... P. mutica
+- Leaf blade with secondary veins in 11 to 18 pairs; mericarps with 3 or 4 seeds ................................................................................................. P. picralimoides
+
 ## Species in region
 
 | Species | Vol | Pages |

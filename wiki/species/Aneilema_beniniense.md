@@ -36,6 +36,16 @@ Evergreen forests, forest edges, forest clearings, river banks, marshes; in Gabo
 
 Morton (1966) separated the subspecies sessilifolium (Benth.) J.K.Morton by its smaller white flowers and glabrous or nearly glabrous vegetative parts (among other characters). We follow Brenan (1968b) and Faden (2012) who do not consider a satisfactory distinction to separate this subspecies. A. beniniense can be confused with the rarer A. silvaticum Brenan (present in Cameroon, Bioko and the Democratic Republic of the Congo), which bears leaves with ciliate margins (vs. scabrous) and fruits slightly powdery and with rather pointed apex (vs. smooth and with rounded to truncate apex) and which has not yet been found in Gabon. Sometimes the name of this species is written as "A. beninense", which is an orthographic variant. Bibliography: Brenan (1968b), van der Burg (2006), Cabezas et al. (2014), Faden (2012), Morton (1966), Raponda-Walker & Sillans (1961), Sosef et al. (2006), Vandeweghe et al. (2016).
 
+## Figures
+
+![Aneilema beniniense](../sources/Commelinaceae_vol55_liteparse/figures/fig_014_p0012.jpeg)
+
+*Figure 1 . Amischotolype scandens (Mts of Cristal, Gabon, Bidault et al. 3567 & 3417 ) : A. Flowering stem, B. Inflorescence and flower. – Aneilema beniniense (Lake Azingo, Gabon, Bidault et al. 1850 ) : C. Flowering stem. – Aneilema aequinoctiale (Durban, South Africa) : D. Flowering stems. – Aneilema umbrosum (Ivindo, Gabon, Bidault et al. 2123 ) : E. Flowering stem, (Kouilou, Rep. of Congo, Bidault et al. 3055 ) :*
+
+![Aneilema beniniense](../sources/Commelinaceae_vol55_liteparse/figures/fig_017_p0019.png)
+
+*Plate 3 . Aneilema beniniense : 1. General aspect (× ⅔). – 2. Flower (× 3,3). – 3. Fruit (× 4). – 4. Seed, view showing the hilum (× 12). Drawing by S.K. Avumatsodo, Ghana, reproduced with permission from*
+
 ## Notes
 
 <!-- TODO:notes -->

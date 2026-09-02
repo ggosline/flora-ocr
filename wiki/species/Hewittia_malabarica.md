@@ -32,6 +32,12 @@ Palaeotropical, introduced to America. In Africa, known from all countries south
 
 roadsides, ruderal areas, grassland, meadows, semi-aquatic places; in Gabon, at low altitude, elsewhere up to 1800 m. B: Demissew (2006), Gonçalves (1987), Heine (1963), Lejoly & Lisowski Bibliography (1993), Thulin (2006), Verdcourt (1963)
 
+## Figures
+
+![Hewittia malabarica](../sources/Convolvulaceae_vol46_liteparse/figures/fig_022_p0030.png)
+
+*Plate 10. Hewittia malabarica: 1. Flowering branch. – 2. Flower. – 3. Open corolla with stamens. – 4–7. Bracts. – 8–10. Sepals. – 11. Gynoecium. – 12. Stigma, seen from above. – 13. Fruit. – 14. Seed. (1, 2, 14: Mogg 28354; 3-12: Deroin & Badré 169; 12: Poilane 6707). Drawing by C. Pinto (1, 2, 13) and Thierry Deroin (3–12) reproduced with permission respectively from Royal Botanic Gardens, Kew (©) and Scientific Publications of the National Museum of Natural History, Paris (©) from Gonçalves (1987) and Deroin (2001).*
+
 ## Notes
 
 <!-- TODO:notes -->

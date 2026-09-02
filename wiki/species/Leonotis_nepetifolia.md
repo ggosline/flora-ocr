@@ -40,6 +40,12 @@ disturbed soils, former cultivations, secondary forests; in Gabon at 0–50 m al
 
 maduku-ma-tsódi (mitsogo) ; malamu-ma-ndjwèngi (éshira, avarama, bavungu, ba punu) ; maogu-ma-tsódi (apindji) ;mulòlò (anzabi) ; musanga (ngowé) ; nghomba-y’owavi (mpongwè) ; nkogho (fang) ; oda (orungu) ; osanga (galoa, nkomi). Usage : Comme la var. nepetifolia. B : Iwarsson & Harvey (2003), Morton 1963), Paton et al. (2013). i B liographie
 
+## Figures
+
+![Leonotis nepetifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_065_p0074.png)
+
+*Plate 17 . Leonotis nepetifolia var. africana : 1. Flowering stem. – 2. Flower. – 3. Stamen. – 4. Ovary.*
+
 ## Notes
 
 <!-- TODO:notes -->

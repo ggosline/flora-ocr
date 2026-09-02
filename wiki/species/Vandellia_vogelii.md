@@ -41,6 +41,18 @@ Bidault (Bidault 1070); H–K: photo by E. Bidault (Bidault 950)).
 
 L. Alectra sessiliflora. (A, B, D–G: photo by J.-P. Vandeweghe; C, H–L: photo by E. Fischer).
 
+## Figures
+
+![Vandellia vogelii](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_067_p0153.png)
+
+*Planche 53. Vandellia vogelii : A, B. Tiges florifères et fructifères. (A: Guinea 2456 , B: Vogel 1 ). Dessin par E. Fischer (©).*
+
+![Vandellia vogelii](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_071_p0166.jpeg)
+
+![Vandellia vogelii](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_072_p0166.png)
+
+![Vandellia vogelii](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_073_p0166.png)
+
 ## Notes
 
 <!-- TODO:notes -->

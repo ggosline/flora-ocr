@@ -37,6 +37,16 @@ in humid grasslands, on the edge of marshes, ditches along roadsides and other h
 
 goosetongue sedge (angl.). gégamba (apindji), gitsitsiga (échira, bavarama, bavungu), itsitsiga (bapunu), kisi (mitsogo), kita (bavové), ngwè-yi-ndago, ndago-nyango (mpongwè). Note taxonomique : Les épis pâles, arrondis et bien distincts permettent d’identifier rapidement cette espèce. Les bases cylindriques visibles sur l’axe de l’épi lorsque les bractées inférieures sont tombées, sont aussi très caractéristiques. b : Goetghebeur (1989), Haines & Lye (1971, 1983), Hooper & Napper ibliographie (1972), Lye (1997)
 
+## Figures
+
+![Lipocarpha chinensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_133_p0157.png)
+
+*Planche 103 . Fuirena umbellata . A. Plante. – B. Planche 104 . Lipocarpha chinensis . A. Plante. – B.*
+
+![Lipocarpha chinensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_135_p0159.jpeg)
+
+*Figure 13. Akènes de a) Lipocarpha chinensis ( Alers L 36 , Ogoooué-Ivindo, Gabon) et b) ope*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Central African Republic, Gabon,
 
 secondary rainforests, clearings; in Gabon, at 100 m altitude, elsewhere, at 15–500 m. Taxonomic note: This genus and this species are recorded here for Gabon for the first time. The available specimens represent the typical variety. Var. amplexicaule Vatke, known only from Kenya and Tanzania, differs from it by wider and amplexicaul leaves. B: Fischer (1999), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996). Bibliography
 
+## Figures
+
+![Artanema longifolium](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_043_p0104.png)
+
+*Plate 29. Artanema longifolium : A. Flowering stem. – B. Flower. – C. Open and spread corolla. – D.*
+
 ## Notes
 
 <!-- TODO:notes -->

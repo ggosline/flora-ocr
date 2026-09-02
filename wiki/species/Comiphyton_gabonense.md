@@ -33,6 +33,12 @@ rare species from Gabon and the equatorial zone of the Democratic Republic of th
 
 primary and secondary evergreen and semi-deciduous forests, sometimes abundant; in Gabon, at 80–500 m altitude, elsewhere up to 1400 m. Bibliography: Floret (1974, 1976), Liben (1987).
 
+## Figures
+
+![Comiphyton gabonense](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_055_p0110.png)
+
+*Plate 37. Comiphyton gabonense : 1. Flowering branch (× ½). – 2. Flower (× 6). – 3. Petal (× 9). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

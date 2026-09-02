@@ -35,6 +35,14 @@ A. Plant. – B. Base of blade and sheath opening. Plant. – B, C. Inflorescenc
 
 freshwater or brackish marshes or grasslands; in Gabon, at 0–50 m altitude, elsewhere up to 100 m. Taxonomic note: easily recognized by its slender habit, solitary hemispherical inflorescence and long unbranched style. The typical subspecies grows in Asia. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Raynal (1967, 1971), Robinson (1961a)
 
+## Figures
+
+![Rhynchospora rubra](../sources/Cyperaceae_vol44_liteparse/figures/fig_177_p0199.png)
+
+*Planche 125 . Rhynchospora rubra subsp. africana . Planche 126 . Schoenoplectus mucronatus . A.*
+
+![Rhynchospora rubra](../sources/Cyperaceae_vol44_liteparse/figures/fig_178_p0199.png)
+
 ## Notes
 
 <!-- TODO:notes -->

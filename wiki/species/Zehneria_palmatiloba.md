@@ -44,7 +44,7 @@ Lachenaud & Schaefer (2021)
 
 ![Zehneria palmatiloba](../sources/Cucurbitaceae_vol57_paddle/figures/fig_073_p0112.png)
 
-*Planche 37. Zehneria palmatiloba: 1. Tige florifère mâle. – 2. Inflorescence mâle (plupart des fleurs tombées). – 3. Fleur mâle. – 4. Idem, coupe longitudinale. – 5. Tige florifère femelle. – 6. Fleur femelle. – 7. Idem, coupe longitudinale (sans l'ovaire). – 8. Fruit. – 9. Graine. (1-4: Carvalho 6307; 5-9: Carvalho 5709). Dessin par Olivier Lachenaud, Jardin botanique de Meise (©).*
+*Plate 37. Zehneria palmatiloba: 1. Male flowering stem. – 2. Male inflorescence (most flowers fallen). – 3. Male flower. – 4. Idem, longitudinal section. – 5. Female flowering stem. – 6. Female flower. – 7. Idem, longitudinal section (without the ovary). – 8. Fruit. – 9. Seed. (1-4: Carvalho 6307; 5-9: Carvalho 5709). Drawing by Olivier Lachenaud, Jardin botanique de Meise (©).*
 
 ## Notes
 

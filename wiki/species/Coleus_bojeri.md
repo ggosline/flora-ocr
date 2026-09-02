@@ -35,6 +35,12 @@ Widely distributed in East and Central Africa, and in Madagascar, including Nige
 
 Disturbed open areas, roadsides and river banks; in Gabon at 30–630 m elevation, elsewhere up to 1700 m. Use: In the Republic of the Congo, the plant juice is used as a sedative to calm the heart in order to ensure peaceful sleep without nightmares. B: Burkill (1995), Morton (1963), Paton et al. (2009, 2013). Bibliography
 
+## Figures
+
+![Coleus bojeri](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_049_p0050.png)
+
+*Plate 10 . Coleus bojeri : 1. Habit (× ⅓). – 2. Flower (× 2). – 3. Idem, longitudinal section (× 2). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

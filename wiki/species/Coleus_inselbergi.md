@@ -31,6 +31,12 @@ Equatorial Guinea and Gabon; in Gabon: Woleu-Ntem and Ogooué-Ivindo. Conservati
 
 Inselbergs or exposed rocks; at 500–750 m elevation. B: Morales (2011), Pollard et al. (2006), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Coleus inselbergi](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_060_p0057.png)
+
+*Plate 12. Coleus inselbergi: 1. Basal part of an erect plant. – 2. Summit of a flowering stem. – 3. Habit of an erect plant. – 4. Young inflorescence. – 5. Mature inflorescence. – 6. Flower. – 7. Calyx in fruit. (1, 2, 7: Parmentier 2273; 3, 4, 6: Parmentier 2328; 5: Parmentier & Nguema 860). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -29,6 +29,11 @@ Bibliography: Léonard & Mosango (1985), Pax & Hoffmann (1922), Radcliffe-Smith 
 
 - Blade acuminate, at adult stage with glandular discs very rare or absent on the lower surface; fruit entirely winged, indehiscent, samaroid ..................... H. ulmoides
 
+## Key to the species
+
+1. - Lamina acute, rounded or obtuse at apex, at the adult stage, with abundant glandular discs on the lower surface; fruit winged in the upper half, dehiscing from a persistent columella into 2 indehiscent cocci .............................. H . acida
+- Lamina acuminate, at the adult stage with very rare or absent glandular discs on the lower surface; fruit entirely winged, indehiscent, samaroid ..................... H . ulmoides
+
 ## Species in region
 
 | Species | Vol | Pages |

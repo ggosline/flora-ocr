@@ -35,6 +35,12 @@ lake and river margins and swamps, laterite slabs; in Gabon, at low altitude, in
 
 Abaxial staminodes. – G. Adaxial stamen. – H. Calyx. (A: Bullock 3628, B: Polhill & Paulo 2044, C–H: Boudet 3162). Drawing by E. Fischer (©).
 
+## Figures
+
+![Lindernia parviflora](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_051_p0122.png)
+
+*Plate 37. Lindernia parviflora : A, B. Entire plant. – C. Flower. – D. Open and spread corolla. – E, F.*
+
 ## Notes
 
 <!-- TODO:notes -->

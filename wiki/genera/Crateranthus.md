@@ -34,6 +34,12 @@ Key to the species
 
 ............................................................................................................ C. congolensis
 
+## Key to the species
+
+1. - Limb cordate at the base; branches winged ............................................. C. talbotii
+- Limb rounded at the base; raised lines on branches, but no wings
+............................................................................................................ C. congolensis
+
 ## Species in region
 
 | Species | Vol | Pages |

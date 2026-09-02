@@ -40,6 +40,12 @@ okinkéné (Batéké)
 
 D. micheliana was long considered a synonym of D. bakeri (Cronquist 1954) or as a variety of this species (Sousa 1966). It is, however, clearly different from it (Lachenaud & Maesen 2016) by the characters indicated in the key, and also apparently by its distribution. Bibliography: Lachenaud & Maesen (2016), Sousa (1966).
 
+## Figures
+
+![Dalbergia micheliana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_053_p0142.png)
+
+*Plate 45: Dalbergia micheliana: 1. Flowering branch. – 2. Leaflet, detail of lower surface. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

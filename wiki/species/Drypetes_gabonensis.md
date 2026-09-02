@@ -44,7 +44,7 @@ Pax & Hoffmann (1922), Sosef et al. (2006)
 
 ![Drypetes gabonensis](../sources/Putranjivaceae_vol57_paddle/figures/fig_094_p0139.png)
 
-*Planche 44. Drypetes gabonensis : 1. Rameau fleuri mâle. – 2. Rameau fleuri femelle. – 3. Bouton mâle. – 4. Fleur mâle. – 5, 6. Sépales de la fleur mâle. – 7. Fleur mâle, section longitudinale. – 8. Fleur mâle, sépales enlevés. – 9. Anthère, vue ventrale. – 10. Disque de la fleur mâle. – 11. Idem, coupe longitudinale montrant le gynécée réduit. – 12. Fleur femelle, un sépale enlevé. – 13. Gynécée ouvert montrant les ovules. – 14. Fruit. – 15. Idem, moitié du péricarpe enlevé montrant les graines. – 16. Graine. (1-16: Klaine 551, 690, 1034, 1298). Dessin par E. Delpy, Muséum nationale d'Histoire naturelle, Paris (©), reproduit à partir d'une gravure originale à BR.*
+*Plate 44. Drypetes gabonensis: 1. Male flowering branch. – 2. Female flowering branch. – 3. Male bud. – 4. Male flower. – 5, 6. Sepals of male flower. – 7. Male flower, longitudinal section. – 8. Male flower, sepals removed. – 9. Anther, ventral view. – 10. Disc of male flower. – 11. Same, longitudinal section showing reduced gynoecium. – 12. Female flower, one sepal removed. – 13. Open gynoecium showing ovules. – 14. Fruit. – 15. Same, half of pericarp removed showing seeds. – 16. Seed. (1-16: Klaine 551, 690, 1034, 1298). Drawing by E. Delpy, National Museum of Natural History, Paris (©), reproduced from an original engraving at BR.*
 
 ## Notes
 

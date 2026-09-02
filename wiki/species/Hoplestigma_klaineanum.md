@@ -49,7 +49,7 @@ Bosch (2010), Hawthorne & Jongkind (2006), Heine (1963), Pierre (1899), Raponda-
 
 ![Hoplestigma klaineanum](../sources/Boraginaceae_vol57_paddle/figures/fig_018_p0029.png)
 
-*Planche 7. Hoplestigma klaineanum : 1. Rameau florifère. – 2. Feuille (dessous). – 3. Détail de la feuille (dessus). – 4. Détail de la feuille (dessous). – 5. Ovaire, styles et étamines. – 6. Anthères. – 7. Coupe transversale d'une anthère et grains de pollen. – 8. Fruit. – 9. Idem, coupe transversale du fruit. – 10. Graine, coupe longitudinale. – Hoplestigma pierreanum : 11. Fleur. (1-10: Klaine 2043; 11: Zenker 361). Dessin par E. Delpy (1, 6, 7, 9, 10), Muséum nationale d'Histoire naturelle, Paris (©), et par Hans de Vries, Jardin botanique de Meise (©).*
+*Plate 7. Hoplestigma klaineanum: 1. Flowering branch. – 2. Leaf (underside). – 3. Detail of leaf (upper side). – 4. Detail of leaf (underside). – 5. Ovary, styles and stamens. – 6. Anthers. – 7. Transverse section of an anther and pollen grains. – 8. Fruit. – 9. Idem, transverse section of fruit. – 10. Seed, longitudinal section. – Hoplestigma pierreanum: 11. Flower. (1-10: Klaine 2043; 11: Zenker 361). Drawing by E. Delpy (1, 6, 7, 9, 10), National Museum of Natural History, Paris (©), and by Hans de Vries, Botanic Garden of Meise (©).*
 
 ## Notes
 

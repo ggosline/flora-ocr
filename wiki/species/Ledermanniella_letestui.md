@@ -32,6 +32,12 @@ Endemic to Gabon, known from Estuaire, Ngounié and Nyanga
 
 at 100–300 m elevation. B : Cusset (1984), Sosef et al. (2006). i Bibliography
 
+## Figures
+
+![Ledermanniella letestui](../sources/Podostemaceae_vol51_liteparse/figures/fig_034_p0042.png)
+
+*Plate 16. Ledermanniella letestui . 1. General view (× 1). – 2. Leaf (× 3). – 3. Inflorescence (× 12). – 4 & 4'. Flower freed from the spathe (× 24). – 5. Open flower (× 10). – 6. Stamen (× 25). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

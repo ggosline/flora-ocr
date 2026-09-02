@@ -41,6 +41,16 @@ ebuat (fang). Usage : Rarement utilisé pour la confection de meubles ou en vann
 
 Flower. – 5. Idem, longitudinal section. – 6. Infructescence. – 7. Seed. Scale bar: 1 = 8 cm, 2 = 1.5 cm, 3 = 4 cm, 4, 5 = 1 cm, 6 = 5 cm, 7 = 8 mm. (1-3: Sunderland 1920; 4, 5: Louis 15994; 6, 7: Otedoh and Tuley 7258). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
+## Figures
+
+![Eremospatha laurentii](../sources/Arecaceae_vol53_liteparse/figures/fig_021_p0026.png)
+
+*Plate 8. Eremospatha laurentii: 1. Mature stem. – 2. Idem, transverse section. – 3. Leaflets. – 4.*
+
+![Eremospatha laurentii](../sources/Arecaceae_vol53_liteparse/figures/fig_026_p0037.jpeg)
+
+*Figure 2. Eremospatha laurentii (near Bambidie, Lastoursville): A. General habitat, B. Detail of the base of leaves with presence of a knee, or prominent swelling. – Eremospatha cuspidata (Mondah forest): C. General habitat, D. Detail of the cuspidate (pointed) apex of a leaflet. – Eremospatha wendlandiana (Bambidie, Lastoursville): E. Detail of rhomboidal leaves (fishtail-like), F.*
+
 ## Notes
 
 <!-- TODO:notes -->

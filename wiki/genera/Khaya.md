@@ -27,6 +27,11 @@ Taxonomic note: 1. Khaya senegalensis A.Juss., cited in Check-list of vascular p
 
 Bibliography: Aubréville (1959), Mabberley (2011), Pennington & Styles (1975), Sta -
 
+## Key to the species
+
+1. - Leaves with 2–4(–5) pairs of leaflets, usually 3 pairs; leaflets of mature leaves very briefly acuminate; trunk with smooth bark, pale in appearance; tree of semi-deciduous forest, to be sought in Gabon ....... K. anthotheca (Welw.) C.DC.
+- Leaves with (3–)4–7 pairs of leaflets, usually 5 or 6 pairs; leaflets usually rather long-acuminate; trunk with scaly bark and small depressions, brownish; tree of evergreen rainforest ........................... K. ivorensis
+
 ## Species in region
 
 | Species | Vol | Pages |

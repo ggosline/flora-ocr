@@ -31,6 +31,12 @@ Nigeria, Cameroon and Equatorial Guinea; to be searched for in Gabon
 
 primary and secondary forest, near mangrove; at 20–1100 m altitude. Flowering June to December; fruits September to March. b : Pellegrin (1949), Mollel & Adema (2006). Bibliography
 
+## Figures
+
+![Millettia macrophylla](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_103_p0297.png)
+
+*Plate 95 : Millettia , leaflets, lower surface. 1, 3, 5 : Terminal leaflets ; 2, 4, 6 : Lateral leaflets. 1, 2 : M. macrophylla . 3, 4 : M. mannii . 5, 6 : M. thonneri . (1, 2 : Carvalho 10341 ; 3, 4 : Champluvier 5110 ; 5, 6 : Thonner 268 ). Drawing by Anita Walsmit Sachs, Naturalis Biodiversity Center (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

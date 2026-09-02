@@ -39,6 +39,14 @@ Bibliography
 
 - Leaves ± deeply divided with sinuate-dentate segments; ornamental species, introduced ................................................ M. dissecta (Jacq.) Hallier f.
 
+## Key to the species
+
+1. - Leaves linear-lanceolate or oblong-linear, often hastate or sagittate at the base, subsessile, (0.5–)1–5 cm in length, glabrous
+................................................................................ M. tridentata subsp. angustifolia
+- Leaves ± ovate or ± deeply lobed with sinuous-dentate segments .......... 2
+2. - Leaves ± ovate, entire or 3-lobed to the middle ...................... M. hederacea
+- Leaves ± deeply lobed with sinuous-dentate segments; ornamental species, introduced ................................................ M. dissecta (Jacq.) Hallier f.
+
 ## Species in region
 
 | Species | Vol | Pages |

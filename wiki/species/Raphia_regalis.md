@@ -40,6 +40,12 @@ andzim (fang) ; dindjimè (béséki) ; dirima (balumbu, ngowé) ; disima (bapunu
 
 The only species of Raphia (in Gabon) without a clearly visible trunk, with 4 to 6(–9) leaves emerging directly from the ground and an erect inflorescence. It is also one of the only species of Raphia (with R. gabonica) growing on non-flooded soils (upland). Bibliography: Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Stauffer et al. (2014), Tuley (1995)
 
+## Figures
+
+![Raphia regalis](../sources/Arecaceae_vol53_liteparse/figures/fig_040_p0063.png)
+
+*Plate 22 . Raphia regalis : 1. Part of the inflorescence. – 2. Fruit (× 0,6). (Scale bar only for the inflorescence.) Drawing by M. Grierson, reproduced with permission from Russel (1965).*
+
 ## Notes
 
 <!-- TODO:notes -->

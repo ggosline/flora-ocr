@@ -37,6 +37,12 @@ savannas, forest galleries, fallows, fields, near villages; elsewhere at 30–18
 
 sida brûlant (fr.), nettle-leaved sida, ortie razier (angl.). B : Akoègninou et al. (2006), Berhaut (1979), Exell & Meeuse (1961), Haui B liographie man (1963), Verdcourt (2009)
 
+## Figures
+
+![Sida urens](../sources/Malvaceae_vol45_liteparse/figures/fig_038_p0090.png)
+
+*Planche 27. Sida urens : Branche florifère. Dessin par J. Berhaut & B. Jouet, reproduit à partir de*
+
 ## Notes
 
 <!-- TODO:notes -->

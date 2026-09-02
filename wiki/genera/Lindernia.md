@@ -37,6 +37,12 @@ Bibliography: Fischer (1992, 1999), Fischer et al. (2013), Lewis (2000), Philcox
 
 erect or sometimes prostrate to ascending ............................................... L. parviflora
 
+## Key to the species
+
+1. - Limb ovate to orbicular; bracts foliaceous; stem prostrate to ascendant
+............................................................................................................. L. rotundifolia
+- Limb narrowly lanceolate to oblanceolate or ovate; bracts scaly; stem erect or sometimes prostrate to ascendant ............................................... L. parviflora
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -40,6 +40,12 @@ oseille (Fr). B : Wilczek (1969a), de Wilde (2002). IBLIOGRAPHIE Feuille, face s
 
 <!-- caption: Plate 41B. Begonia fusialata var. fusialata: 1. ♂ Flower (× 1.5). – 2, 3. Androecium front and back (× 5). – 4-6. Anther front, back and side view (× 6.5). – 7. ♀ Flower (× 1.5). – 8. Detail of ♀ inflorescence with primary and secondary bracts (× 3.5). – 9. Idem, primary bracts removed (× 35). – 10. Styles and stigmas (× 5). – 11. Stigma, external face (× 6.5). – 12. Ovary, transverse section (× 6.5). – 13. Mature fruit, idem (× 1.5). – 14. Seed and attachment to placenta (× 22). – Begonia fusialata var. parviflora: 15. ♀ Flower (× 1.5). (1-12: de Wilde et al. (1983) 382, herbaria and in vivo; 13-14 Breteler & de Wilde 747; 15: Bokdam 4433). Drawing by I Z, Herbarium -->
 
+## Figures
+
+![Begonia fusialata](../sources/Begoniaceae_vol39_liteparse/figures/fig_056_p0089.png)
+
+![Begonia fusialata](../sources/Begoniaceae_vol39_liteparse/figures/fig_057_p0091.png)
+
 ## Notes
 
 <!-- TODO:notes -->

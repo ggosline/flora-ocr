@@ -35,6 +35,12 @@ endemic to Gabon, present near Bélinga, in the northeast of Gabon, and at Mayom
 
 fragile and delicate species on sandy or ferralitic sloping rock faces, in relatively dry and shaded stations of the primary forest; at 500–1000 m altitude. B: Hallé (1967), Sosef (1994). IBLIOGRAPHY
 
+## Figures
+
+![Begonia ferramica](../sources/Begoniaceae_vol39_liteparse/figures/fig_037_p0052.png)
+
+*Plate 22. Begonia ferramica : 1. Floriferous plant. – 2. Stipules of the same node. – 3. Young inflorescence. – 4, 5. Androecium front and back view. – 6, 7. Anther and transverse section. – 8, 9. Female flower. – 10. Styles and stigmas. – 11, 12. Styles and transverse section of the ovary of a dimeric flower. – 13.*
+
 ## Notes
 
 <!-- TODO:notes -->

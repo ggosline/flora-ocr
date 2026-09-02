@@ -39,6 +39,16 @@ Bidault et al. 3309). Drawing by L. Longou, Muséum national d'Histoire naturell
 
 Despite its relative abundance in the Monts de Cristal, the species was long confused with P. satabiei (see Plate 15), although it is distinguished from it by its erect inflorescences, and by its long spreading reddish pubescence abundant on the upper face of the leaves, the stems and the inflorescences. It is in fact closer to P. leewhitei by its habit, its short inflorescence with sessile bractiferous cincinni, but is distinguished from it, apart from by its characteristic pubescence, by its more robust habit. B: Bidault & van der Burg (2019). Bibliography
 
+## Figures
+
+![Palisota cristalensis](../sources/Commelinaceae_vol55_liteparse/figures/fig_032_p0060.png)
+
+*Plate 16 . Palisota cristalensis : 1. General aspect. – 2. Inflorescence. – 3. Detail of stem with inflorescence. – 4. Bisexual flower, front view. – 5. Idem, lateral view. – 6. Sepal. – 7. Petal. – 8. Lower stamen. – 9. Upper stamen. – 10. Staminode. – 11. Gynoecium. (1, 4-11 : Bidault et al. 3379 ; 2, 3 :*
+
+![Palisota cristalensis](../sources/Commelinaceae_vol55_liteparse/figures/fig_035_p0064.jpeg)
+
+*Figure 4. Palisota cristalensis (Monts de Cristal, Gabon, Bidault et al. 3379): A. General appearance, B. Flower. –*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -40,6 +40,12 @@ The number of stamens is variable, from 12 to 18 in Gabon, up to 41 in the Democ
 
 Pod (× 0.8). – Seed (× 1). (1-5: G.H.S. Wood 322; 6, 7: Purseglove 3416; 8: Benedicto 4; 9: Dawe 972). Drawing by Margareth Stone, Royal Botanic Gardens, Kew (©), reproduced with permission from Brenan (1967).
 
+## Figures
+
+![Baphiopsis parviflora](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_026_p0067.png)
+
+*Plate 18: Baphiopsis parviflora : 1. Flowering branch (× ⅔). – 2. Detail of the limb with venation (× 6). – 3. Part of a young inflorescence (× 2). – 4. Diagram of a horizontal section of the flower bud. – 5. Part of a mature inflorescence (× 2). – 6. Flower (× 4). – 7. Pistil, longitudinal section (× 6). – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

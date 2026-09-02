@@ -34,6 +34,12 @@ Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Repub
 
 herbaceous marshes, shrubby savanna on sand; in Gabon at ± 450 m altitude, elsewhere at 400–1900 m. B: Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Taylor (1963), Vande weghe i Bibliography et al. (2016)
 
+## Figures
+
+![Schinziella tetragona](../sources/Gentianaceae_vol54_liteparse/figures/fig_067_p0084.png)
+
+*Plate 28. Schinziella tetragona: 1. Habit. – 2. Inflorescence. – 3. Calyx. – 4. Open corolla, showing stamens. – 5. Fertile and sterile stamen. – 6. Gynoecium. (1: Richards 4721; 2: Champluvier 5136; 3-6: Milne-Redhead 4394). Drawing by Doris Franke (Mainz, Germany), reproduced with permission from Thiv (2003).*
+
 ## Notes
 
 <!-- TODO:notes -->

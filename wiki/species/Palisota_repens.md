@@ -39,6 +39,12 @@ P. repens is to be distinguished from P. satabiei and P. akouangoui by the combi
 
 Drawing by L. Longou, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Bidault & van der Burg (2019).
 
+## Figures
+
+![Palisota repens](../sources/Commelinaceae_vol55_liteparse/figures/fig_040_p0075.png)
+
+*Plate 22 . Palisota repens : 1. General aspect. – 2. Inflorescence. – 3. Bisexual flower. – 4. Mature fruit. – 5. Immature fruit. – 6. Sepal. – 7. Petal. – 8. Gynoecium. – 9. Lower stamen. – 10. Upper stamen. – 11. Staminode. (1 : Bidault et al. 3506 ; 2, 3, 6-11 : Texier et al. 1437 ; 4, 5 : Bidault et al. 4405 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,14 @@ pantropical, found mainly in the tropical regions of Africa and Asia; in Gabon a
 
 in marshes, on river banks or in open water; in Gabon, probably between 300 and 600 m elevation, elsewhere at 0–1200 m. Taxonomic note: close to C. exaltatus Retz. and C. alopecuroides Rottb. (not yet found in Gabon), but differing from them by shorter glumes and achenes. C. exaltatus is a larger plant, with spikes having far fewer spikelets. C. alopecuroides usually has a style with 2 branches, a flattened achene and glumes with margins rolled around the achenes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Cyperus imbricatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_045_p0061.png)
+
+*Planche 33 . Cyperus esculentus. A. Plante. – B. Planche 34 . Cyperus imbricatus. A. Plante. – B.*
+
+![Cyperus imbricatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_046_p0061.png)
+
 ## Notes
 
 <!-- TODO:notes -->

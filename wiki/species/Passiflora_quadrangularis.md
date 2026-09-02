@@ -35,6 +35,14 @@ kélal, kélare (fang), iméno-iraro (mpongwè), béka-bélalé (bakèlè), mata
 
 can only be confirmed by collections. Furthermore, the description given (glabrous and shiny plant with greenish flowers) does not correspond to that of P. trifoliata (plant covered with a light tomentum and pink flowers). The description is closer to that of P. subpeltata Ortega (Robyns, 1995), an ornamental plant. We cite below moreover the uses and vernacular names for future treatments. Uses: The maceration of leaves triturated in lemon juice is drunk to moderate heart palpitations. The leaves are used to cicatrize wounds; they give a burning sensation. Drops of the leaf sap are poured by the Fang into the nostrils of their dogs to train them to hunt game.
 
+## Figures
+
+![Passiflora quadrangularis](../sources/Passifloraceae_vol46_liteparse/figures/fig_052_p0104.png)
+
+![Passiflora quadrangularis](../sources/Passifloraceae_vol46_liteparse/figures/fig_053_p0104.jpeg)
+
+![Passiflora quadrangularis](../sources/Passifloraceae_vol46_liteparse/figures/fig_054_p0104.png)
+
 ## Notes
 
 <!-- TODO:notes -->

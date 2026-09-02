@@ -41,6 +41,23 @@ Key to the species
 
 3. – Blade herbaceous to papyraceous, cuneate at the base, lower surface generally bearing
 
+## Key to the species
+
+1. - Umbelliform cymes, axes greatly reduced; cotyledons subplane-convex,
+incumbent .............................................................................................................. 2
+- Corymbiform cymes, axes more or less developed; cotyledons enrolled ...... 3
+2. - Lower surface of the lamina bordered by a line of relatively dense black glands,
+generally supplemented by scattered black glands approximately 0.3 mm in
+diameter, the entire surface furnished with small red-brown spots P. membranaceum
+- Lower surface of the lamina furnished with numerous black glands approximately 0.1 mm in
+diameter, no red-brown spots (to be sought in Gabon) .......... P. staudtii Engl.
+3. - Lamina herbaceous to papyraceous, cuneate at the base, lower surface generally
+bearing black glands and a weakly marked tertiary network; petiole
+(2–)4–10 mm ....................................................................................... P. tenuifolium
+- Lamina coriaceous, subcordate to rounded or sometimes cuneate at the base, lower surface with
+± scattered glandular punctations and very prominent tertiary network;
+petiole 0–2(–4) mm ........................................................................ P. febrifugum
+
 ## Species in region
 
 | Species | Vol | Pages |

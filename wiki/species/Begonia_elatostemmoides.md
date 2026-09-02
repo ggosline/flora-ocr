@@ -30,6 +30,10 @@ Cameroon, Equatorial Guinea, Gabon, Congo (Brazzaville), Democratic Republic of 
 
 dense humid primary or secondary forests; between 30 and 950 m altitude. Uses: the leaves are eaten as a vegetable. A decoction of the leaves is used to treat cough. B: Akendengué & Louis (1994), Wilczek (1969a). BIBLIOGRAPHY KE EWALD
 
+## Figures
+
+![Begonia elatostemmoides](../sources/Begoniaceae_vol39_liteparse/figures/fig_019_p0017.png)
+
 ## Notes
 
 <!-- TODO:notes -->

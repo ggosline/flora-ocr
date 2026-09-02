@@ -33,6 +33,12 @@ Equatorial Guinea and Gabon; known from Estuaire, Ogooué–Maritime and Nyanga
 
 near the sea on sandy soil; at 0–5 m altitude. b: Brunel (1987). Bibliography
 
+## Figures
+
+![Phyllanthus gabonensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_026_p0065.png)
+
+*Plate 20. Phyllanthus gabonensis : A. Plant. ‒ B. Male inflorescence. ‒ C. Male flower. ‒ D.*
+
 ## Notes
 
 <!-- TODO:notes -->

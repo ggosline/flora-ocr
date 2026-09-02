@@ -38,6 +38,12 @@ primary and secondary evergreen or semi-deciduous forest, on ridges, but also on
 
 azobé (fr.) ; azobé, ekki, red ironwood (angl.) ; palo hierro (esp.) ; azobé, bongossi (nom forestier) ; akoga (fang), békoka (bakèlè), bokoka (benga), ikoka (bakota), kunga (ngowé), likoka (baduma), mokoka (bavové), ngowè (bavili), ngówu (bavarama, balumbu, bapunu, bavunga, hésira), nkonga (galoa, mpongwè, nkomi, orungu), okoka (apindji, bakèlè, ivéa, mitsogo, simba), ukókó (béséki). Note taxonomique : La distinction entre L. alata et la seconde espèce , L. lanceolata Tiegh. ex Keay, est parfois difficile. Cette dernière est une espèce d’arbre beaucoup plus petit des zones plus sèches, depuis le Sénégal jusqu’au Soudan et l’Ouganda, avec une écorce grise, une présence de liège sur les rameaux aoûtés, des pétioles de 2–6 cm, des limbes plus étroits (ratio 4–7) et des sépales plus courts. b : Bamps (1970), Bamps & Farron (1967), Biwolé et al. (2012), Doumenge ibliographie & Séné (2012), Hutchinson, Dalziel & Keay (1954), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Lophira alata](../sources/Ochnaceae_vol48_liteparse/figures/fig_031_p0074.png)
+
+*Plate 19. Lophira alata: 1. Sterile branch (× ½). – 2. Seedling (× ½). – 3. Inflorescence (× 1). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

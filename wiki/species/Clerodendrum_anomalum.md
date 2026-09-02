@@ -32,6 +32,12 @@ Cameroon and Gabon; in Gabon: Ngounié, Ogooué-Lolo and Woleu-Ntem. Conservatio
 
 secondary forest, forest road edge; in Gabon at 500–540 m altitude, elsewhere at 940 m. B: Cheek et al. (2004), Letouzey (1974), Pollard (2004). Bibliography
 
+## Figures
+
+![Clerodendrum anomalum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_030_p0028.png)
+
+*Plate 5. Clerodendrum anomalum: 1. Flowering stem (× 0.45). – 2. Broadly oval leaf (× 0.45). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

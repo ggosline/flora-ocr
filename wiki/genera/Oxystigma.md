@@ -43,6 +43,14 @@ A $3^{rd}$ species, a large upland tree, O. Gilbertii Léonard has been recogniz
 
 ..... 2. O. Buchholzii.
 
+## Key to the species
+
+1. Small mangrove tree; 1-2 pairs of opposite leaflets, obtusely acuminate; venation clearly visible..... 1. O. Mannii.
+
+1'. Riparian tree or shrub; falcate leaflets, acuminate, only the terminal ones opposite, the others alternate; venation nearly invisible.
+
+..... 2. O. Buchholzii.
+
 ## Species in region
 
 | Species | Vol | Pages |

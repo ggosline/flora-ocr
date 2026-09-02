@@ -44,6 +44,12 @@ padouk, padauk d’Afrique, bois rouge, bois-corail, kaolin rouge (fr.) ; Africa
 
 The species is related to P. zenkeri Harms (from Cameroon) which could represent a synonym of P. osun Craib (Rojo 1972) from Nigeria and Cameroon. B: Burkill (1995), Hauman (1954d), Jansen (2008), Lewis et al. (2005), Pellegrin (1949), Bibliography Raponda-Walker & Sillans (1961), Rojo (1972)
 
+## Figures
+
+![Pterocarpus soyauxii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_117_p0332.png)
+
+*Plate 109: Pterocarpus soyauxii: 1. Base of trunk. – 2. Leaf. – 3. Inflorescence. – 4. Pod. Drawing by Iskak Syamsudin, PROTA Foundation (©), reproduced with permission from Jansen (2008).*
+
 ## Notes
 
 <!-- TODO:notes -->

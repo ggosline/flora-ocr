@@ -34,6 +34,12 @@ Present in sub-Saharan Africa, but also in southern India and Sri Lanka; in Afri
 
 mainly in open and disturbed habitats, forest margins, clearings, sometimes in rocky areas or savannas; in Gabon at ± 700 m altitude, elsewhere in Africa, generally between 1000 and 1700 m altitude, with some populations at sea level (South Africa). Use: The fruits are edible, but very bitter and are used to treat throat ulcers and to curdle milk. In East Africa, the leaves are used to clean and dress wounds. Bi: Bosch (2008b), Edmonds (2012), Schippers (2000), Vorontsova & Knapp (2016). Bibliography
 
+## Figures
+
+![Solanum giganteum](../sources/Solanaceae_vol55_liteparse/figures/fig_063_p0127.jpeg)
+
+*Plate 40 . Solanum giganteum : 1. Fertile stem. – 2. Floral bud. – 3. Flower. – 4. Calyx. – 5. Infructescence. – 6. Ovary in transverse section. – 7. Stellate hairs. Drawing by Maurice d'Apreval, Meise Botanical Garden (©), reproduced from De Wildeman (1907).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,13 @@ Bibliography
 
 - Stem > 3 cm in diameter; swelling below the petiole clearly present;
 
+## Key to the species
+
+1. - Stipe < 3 cm in diameter; swelling below the petiole absent; seed covered
+with polygonal depressions .............................................................................. O. mannii
+- Stipe > 3 cm in diameter; swelling below the petiole clearly present;
+seed smooth ............................................................................................. O. macrospathus
+
 ## Species in region
 
 | Species | Vol | Pages |

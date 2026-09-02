@@ -37,6 +37,15 @@ These very small flowers are probably pollinated by bees, but there are no obser
 
 2'. Labellum overall rectangular or obovate in shape: median lobe triangular, elliptic to ovate, revolute ..... 1. G. apetala
 
+## Key to the species
+
+1. Pseudobulbs 1-foliate ..... 2. G. platybulbon
+1'. Pseudobulbs 2-foliate.
+
+2. Labellum overall obtriangular when spread: midlobe short and broad, lateral lobes very developed, broadly spreading ..... 3. G. sanfordii
+
+2'. Labellum overall rectangular or obovate: midlobe triangular, elliptic to ovate, revolute ..... 1. G. apetala
+
 ## Species in region
 
 | Species | Vol | Pages |

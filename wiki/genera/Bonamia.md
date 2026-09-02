@@ -33,6 +33,17 @@ B: Breteler (1992), Deroin (2001), Gonçalves (1987), Lejoly & Lisowski (1993), 
 
 - Leaves rounded to cuneate at the base; filaments of stamens hairy on the free part, glabrous on the connate part and the apical part ........................................... B. nzabii
 
+## Key to the species
+
+1. - Branchlets, leaves and inflorescences densely tomentellous; leaves 3–5(–5.5) ×
+1.5–2.5 cm, with 4–6 pairs of lateral veins; corolla tube glabrous; filaments of stamens glabrous ................................................................................. B. ngouniensis
+- Branchlets, leaves below and inflorescences with different, less dense indumentum, either with stiff and appressed hairs or with ± erect hairs; leaves (5–)6–12(–15) × 2.5–6 cm,
+with (5–)6–9(–11) pairs of lateral veins; corolla tube pubescent on the outside; filaments of stamens partially pubescent ....................................... 2
+2. - Leaves cordate at base; filaments of stamens glabrous on the free part, hairy on the
+fused part .................................................................................... B. gabonensis
+- Leaves rounded to cuneate at base; filaments of stamens hairy on the free part,
+glabrous on the fused part and the apical part ........................................... B. nzabii
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -35,6 +35,10 @@ riparian forest and open forest with Gilbertiodendron; in Gabon, ca. 500 m eleva
 
 a b
 
+## Figures
+
+![Mapania senegalensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_164_p0185.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

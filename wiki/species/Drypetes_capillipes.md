@@ -46,7 +46,7 @@ Brenan (1952), Hutchinson (1912), Keay (1958), Mildbraed (1912), Sosef et al. (2
 
 ![Drypetes capillipes](../sources/Putranjivaceae_vol57_paddle/figures/fig_084_p0131.png)
 
-*Planche 42. Drypetes capillipes : 1. Rameau fleuri mâle. - 2. Feuille, avec nervures tertiaires. - 3. Pétiole, bourgeon axillaire et base du limbe. - 4. Limbe foliaire, détail de la nervation tertiaire, face inférieure. - 5. Bouton de la fleur mâle. - 6. Fleur mâle. - 7. Étamine avec une partie du reste du disque. (1, 5-7 : Mildbraed 3036 & 3060; 2-4 : Harris 4148). Dessin par H. Durand (1, 5-7), Jardin botanique de Meise (©), redessiné et adapté de Mildbraed (1912), et par R. Wise (2-4), Royal Botanic Garden Edinburgh (©), reproduit avec permission à partir de Harris & Wortley (2008).*
+*Plate 42. Drypetes capillipes: 1. Male flowering branch. - 2. Leaf, with tertiary veins. - 3. Petiole, axillary bud and base of lamina. - 4. Leaf lamina, detail of tertiary venation, lower surface. - 5. Male flower bud. - 6. Male flower. - 7. Stamen with part of the disc remainder. (1, 5-7: Mildbraed 3036 & 3060; 2-4: Harris 4148). Drawing by H. Durand (1, 5-7), Meise Botanic Garden (©), redrawn and adapted from Mildbraed (1912), and by R. Wise (2-4), Royal Botanic Garden Edinburgh (©), reproduced with permission from Harris & Wortley (2008).*
 
 ![Drypetes capillipes](../sources/Putranjivaceae_vol57_paddle/figures/fig_085_p0132.png)
 
@@ -64,7 +64,7 @@ Brenan (1952), Hutchinson (1912), Keay (1958), Mildbraed (1912), Sosef et al. (2
 
 ![Drypetes capillipes](../sources/Putranjivaceae_vol57_paddle/figures/fig_092_p0132.png)
 
-*Figure 8. Drypetes capillipes: A, Rameau fructifère; B, Fleur mâle. – Drypetes chevalieri: C, Rameau fructifère; D, fruit. – Drypetes cinnabarin: E, Rameau florifère mâle. – Drypetes gilgiana: F, Rameau florifère femelle; G, Fleur femelle; H, fleurs mâles. Photos A par N. Texier (Gabon, Texier 2165), B par T. Stévart (Gabon, Stévart 4332), C, D par E. Bidault (Gabon, Bidault 2297), E par D. Harris (Rép. Centrafricaine, Harris s.n.), F, G par E. Bidault (Gabon, Bidault 2265), H par E. Bidault (Bagon, Bidault 4844).*
+*Figure 8. Drypetes capillipes: A, Fruiting branch; B, Male flower. – Drypetes chevalieri: C, Fruiting branch; D, Fruit. – Drypetes cinnabarin: E, Male flowering branch. – Drypetes gilgiana: F, Female flowering branch; G, Female flower; H, Male flowers. Photos A by N. Texier (Gabon, Texier 2165), B by T. Stévart (Gabon, Stévart 4332), C, D by E. Bidault (Gabon, Bidault 2297), E by D. Harris (Central African Rep., Harris s.n.), F, G by E. Bidault (Gabon, Bidault 2265), H by E. Bidault (Gabon, Bidault 4844).*
 
 ## Notes
 

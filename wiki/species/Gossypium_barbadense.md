@@ -37,6 +37,12 @@ savannas, fields, fallows, around dwellings, river banks; up to 2000 m altitude.
 
 cotonnier de la Barbade, coton des Indes Occidentales, cotonnier d’Egypte (fr.) ; sea island cotton, Egyptian cotton, Pima cotton, Creole cotton (angl.) ; alugodo (mot ancient, déformation de l’espagnol) ; algodon (mpongwè), évudi (benga), fura (mindumu), ikuma (bakota), lifudya (baduma), magili-ngóngó (bavové), mokóndó (ivéa, misogo), mosadi (misogo, apindji), mukóndó (bavili, banzabi, ngowé, balumbu), mukóndu (éshira, bavarama, bavungu, bapunu, masangu), mvufuc (fang), nkóndó (loango), okóndó (fang, galoa, nkomi, orungu, bakèlè), ukóndó (békési). B : Akoègninou et al. (2006), Fryxell & Verdcourt (2009). Kerkhoven & i B liographie Mutsaers (2003), Raponda-Walker & Sillans (1961), Wouters (1963)
 
+## Figures
+
+![Gossypium barbadense](../sources/Malvaceae_vol45_liteparse/figures/fig_026_p0061.png)
+
+*Plate 15. Gossypium barbadense : 1. Flowering branch with fruit. – 2. Bracteole. Drawing by J.*
+
 ## Notes
 
 <!-- TODO:notes -->

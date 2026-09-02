@@ -34,6 +34,12 @@ marshes and small pools of savannas; in Gabon, at low altitude, in the Democrati
 
 Stamens. (A–E: Le Testu 6498). Drawing by E. Fischer (©).
 
+## Figures
+
+![Limnophila dasyantha](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_049_p0118.png)
+
+*Plate 35. Limnophila dasyantha : A. Flowering stem. – B. Flower. – C. Corolla opened and spread. – D, E.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -36,6 +36,12 @@ humid tropical forest, common under the canopy, but also along forest edges; in 
 
 alua-nlong (fang) ; gigorula (éshira). B : Faye et al. (2014), Cosiaux et al. (2018), Pajarón et al. (2015), Raponda-Walker & Sillans i B liographie (1961), Sunderland (2007, 2012)
 
+## Figures
+
+![Eremospatha hookeri](../sources/Arecaceae_vol53_liteparse/figures/fig_020_p0024.png)
+
+*Plate 7. Eremospatha hookeri: 1. Mature stipe. – 2. Leaflets and cirrus. – 3. Infructescence. – 4. Idem, detail with fruit. – 5. Seed, longitudinal section. – 6, 7. Idem, ventral and dorsal view. Scale bar: 1-3 = 5 cm, 4 = 2.5 cm, 5 = 1.5 cm, 6, 7 = 1.2 cm. (1-7: Mann 451). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -32,6 +32,34 @@ A C D E B H G F I J Pleiocarpa picralimoides: D. Fruits. – Pleiocarpa pycnanth
 
 of the open corolla with stamens and pistil; 5. Fruit; 6. Seed with longitudinal section; 7. Embryo (× 4). (1-4: W.J.J.O. de Wilde & B. de Wilde-Duyfjes 2901; 5-7: W.J.J.O. de Wilde & B. de Wilde-Duyfjes 2902). Drawing by Marjolein Spitteler, Naturalis Biodiversity Center, reproduced from Leeuwenberg (1997).
 
+## Figures
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_154_p0186.jpeg)
+
+*Figure 9. Picralima nitida : A. Fruits ; B. Leaf, lower surface. – Petchia africana C, Inflorescence ±*
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_155_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_156_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_157_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_158_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_159_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_160_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_161_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_162_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_163_p0186.jpeg)
+
+![Petchia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_164_p0187.jpeg)
+
+*Planche 86 . Petchia africana*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,13 @@ Boehmeria 51
 
 - Leaves opposite; inflorescence unbranched; underside of limb with soft pubescence,
 
+## Key to the species
+
+1. - Leaves alternate; inflorescence branched several times; underside of blade with white tomentum
+..................................................................................................................... B. nivea
+- Leaves opposite; inflorescence unbranched; underside of blade with soft pubescence,
+but without white tomentum ..................... B. virgata subsp. macrophylla var. molliuscula
+
 ## Species in region
 
 | Species | Vol | Pages |

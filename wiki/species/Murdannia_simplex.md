@@ -40,6 +40,12 @@ from Senegal to Ethiopia, extending to southern Africa, Madagascar and also in A
 
 coastal savannas and other damp sandy places; in Gabon up to 500 m in altitude, elsewhere up to 1700 m. Flowering from mid-afternoon until 6 o'clock in the evening. Bibliography: Brenan (1952, 1968b), Brunel et al. (1984), van der Burg (2006), Cabezas et al. (2014), Faden (2012), Vande weghe et al. (2016)
 
+## Figures
+
+![Murdannia simplex](../sources/Commelinaceae_vol55_liteparse/figures/fig_025_p0043.png)
+
+*Plate 9. Murdannia simplex: 1. General aspect, with base of a flowering stem. – 2. Inflorescence. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

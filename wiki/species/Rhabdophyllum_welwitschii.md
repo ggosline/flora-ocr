@@ -32,6 +32,16 @@ Cameroon, Central African Republic, Gabon, Republic of the Congo, Democratic Rep
 
 primary and secondary forest, forest edges, fallows and shrubby savannas, on upland or stations sometimes periodically flooded; in Gabon, up to 600 m elevation, elsewhere up to 2000 m. b: Bamps & Farron (1967), Farron (1965, 1985), Robson (1963), Sosef Bibliography (2008)
 
+## Figures
+
+![Rhabdophyllum welwitschii](../sources/Ochnaceae_vol48_liteparse/figures/fig_036_p0088.png)
+
+*Plate 24. Rhabdophyllum le-testui : 1. Fruiting branch. – 2. Detail of venation. ( Breteler c.s. 11270 ). Drawing by Hans de Vries, Naturalis Biodiversity Center, Leiden (©).*
+
+![Rhabdophyllum welwitschii](../sources/Ochnaceae_vol48_liteparse/figures/fig_037_p0089.png)
+
+*Plate 25. Rhabdophyllum welwitschii : 1. Flowering branch. – 2. Detail of venation. ( Léonard 5721 ). Drawing by Hans de Vries, Naturalis Biodiversity Center, Leiden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

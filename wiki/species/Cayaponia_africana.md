@@ -23,7 +23,7 @@ Plate 12
 
 ![Cayaponia africana](../sources/Cucurbitaceae_vol57_paddle/figures/fig_034_p0048.png)
 
-*Planche 12. Cayaponia africana var. africana: 1. Tige fructifère ( $ ×^{2}/_{3} $). – 2. Fleur mâle, corolle ouverte ( $ ×2 $). – 3. Étamine, vue dorsale ( $ ×4 $). – 4. Fleur femelle, corolle ouverte ( $ ×4 $). – 5. Fruit ( $ ×1 $). (1, 3, 5: Breteler 699; 2, 4: Chevalier 18620). Dessin par M.D. Bergasse, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 12. Cayaponia africana var. africana: 1. Fruiting stem (× 2/3). – 2. Male flower, corolla open (× 2). – 3. Stamen, dorsal view (× 4). – 4. Female flower, corolla open (× 4). – 5. Fruit (× 1). (1, 3, 5: Breteler 699; 2, 4: Chevalier 18620). Drawing by M.D. Bergasse, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

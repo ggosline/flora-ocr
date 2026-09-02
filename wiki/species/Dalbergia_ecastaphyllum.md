@@ -43,6 +43,12 @@ coin vine (angl.) ; ihavina (benga) ; ntehaba (fang de la Côte) ; ntehava (mpon
 
 The var. cuprea Pellegr., not validly described, should rather be linked to D. louisii. The two species are very close, and sometimes difficult to separate in the absence of fruits, but D. ecastaphyllum is strictly coastal, whereas D. louisii is found mainly in the interior. D. ecastaphyllum is the only amphi-Atlantic species of the genus. b: Berhaut (1976), Cronquist (1954), Hawthorne & Jongkind (2006), Hepper (1958), Pellegrin (1949), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Dalbergia ecastaphyllum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_045_p0124.png)
+
+*Plate 37 : Dalbergia ecastaphyllum : 1. Fruiting branch. – 2. Flower. – 3. Standard. – 4. Wing. – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

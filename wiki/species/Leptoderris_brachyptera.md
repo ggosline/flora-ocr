@@ -42,6 +42,12 @@ primary and secondarized terra firme and swampy forest, river banks; in Gabon up
 
 see under the genus description. b: Hepper (1958), Sousa (1966), Velayos et al. (2010). Bibliography
 
+## Figures
+
+![Leptoderris brachyptera](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_082_p0228.png)
+
+*Plate 74: Leptoderris brachyptera: 1. Leaf showing a leaflet and stipels. – 2. Bracteole. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

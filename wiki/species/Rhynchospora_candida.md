@@ -33,6 +33,12 @@ very widespread in tropical Africa, also present in Madagascar and America; in G
 
 seasonally or permanently humid grasslands and on the edges of swamps or in temporarily flooded areas; in Gabon, at 0–600 m altitude, up to 1200 m in East Africa. Taxonomic note: recognized immediately by its large oval whitish spikelets. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Raynal (1971), Robinson (1961)
 
+## Figures
+
+![Rhynchospora candida](../sources/Cyperaceae_vol44_liteparse/figures/fig_167_p0193.png)
+
+*Plate 119. Rhynchospora candida. A. Plant. Plate 120. Rhynchospora corymbosa. A. Plant. – B. Base of blade and sheath orifice. – C. – B. Base of blade and sheath orifice. – C. Part.*
+
 ## Notes
 
 <!-- TODO:notes -->

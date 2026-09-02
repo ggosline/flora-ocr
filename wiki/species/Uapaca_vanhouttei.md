@@ -40,6 +40,12 @@ D: Bissiengou et al. 421; E: van Valkenburg et al. 2700). Drawing by H. de Vries
 
 asam (fang), bésambé (bakélé), bodjahambé (benga), ihambi (bakota), motsami, motsambi (mindumu), mumfwamfi (masangu), musambi (baduma, bavili), musamfi (balumbu, bapunu, bavarama, bavungu), musèmbi (banzabi), mutsómbi (ngowé), nsamfi (loango), ntsómbi (galoa, nkomi, orungu), osambé (ivéa), osambi (apin dji, bavové, mitsogo, simba), ozómbi (mpongwè), usambi (béséki). b : Breteler (2012b), De Wildeman (1936), Keay (1958), Pax & Hoffmann ibliographie (1922)
 
+## Figures
+
+![Uapaca vanhouttei](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_042_p0107.png)
+
+*Plate 36. Uapaca togoensis : A. Fruit. ‒ Uapaca vanhouttei : B. Leaf. ‒ C. Detail of the lower surface of the leaf. ‒ D. Stipule. ‒ E. Fruit. (A : Breteler 6779 ; B, C : Wieringa et al . 3567 ;*
+
 ## Notes
 
 <!-- TODO:notes -->

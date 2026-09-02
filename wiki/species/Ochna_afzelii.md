@@ -35,6 +35,12 @@ from Guinea to Sudan, Uganda and Tanzania to the east and to Angola and Zambia t
 
 primary and secondary forest, forest galleries, wooded or shrubby savanna; in Gabon, at 300–700 m altitude, elsewhere up to 1650 m. Taxonomic note: Sometimes several subspecies have been recognized, but we have followed the opinion of Bamps & Farron (1967) for whom this species is highly variable and the variation continuous. b : Bamps & Farron (1967), Hawthorne & Jongkind (2006), Hutchinson, Bibliography Dalziel & Keay (1954), Robson (1963), Verdcourt (2005)
 
+## Figures
+
+![Ochna afzelii](../sources/Ochnaceae_vol48_liteparse/figures/fig_032_p0076.png)
+
+*Plate 20. Ochna afzelii : 1. Fruiting branch. – 2. Flowering branch. – 3. Details of the venation. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

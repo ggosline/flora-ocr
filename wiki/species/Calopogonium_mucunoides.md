@@ -42,6 +42,12 @@ pois bleu, pois violet (fr.) ; calopo, wild groundnut (angl.)
 
 Probably introduced to Central Africa after the Second World War, because it is not treated by Pellegrin (1949), nor in the Flora of the Belgian Congo. Bibliography: Botton & Hallé (1958), Chen & Aminah (1997), Lewis et al. (2005), Mackinder et al. (2001), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Calopogonium mucunoides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_029_p0074.png)
+
+*Plate 21 : Calopogonium mucunoides : 1. Flowering stem. – 2. Flower. – 3. Standard. – 4. Wing. – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

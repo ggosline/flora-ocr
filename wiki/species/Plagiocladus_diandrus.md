@@ -34,6 +34,12 @@ Cameroon, Equatorial Guinea, Gabon and Republic of the Congo; in Gabon, frequent
 
 primary and secondarized forest, forest regrowth; in Gabon, up to 550 m altitude. Taxonomic note: Contrary to the description by Brunel (1987), the species is monoecious and not dioecious. b: Breteler (1991). Bibliography
 
+## Figures
+
+![Plagiocladus diandrus](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_029_p0074.png)
+
+*Plate 23. Plagiocladus diandrus : A. Branch with male flowers, female flowers and young fruits. ‒ B. Stipules. ‒ C. Female flower. ‒ D, E. Male flower. (A, C ‒ E : Louis et al . 954 ; B : Arends et al . 376 ). Drawing by W. Wessel, National Herbarium Netherlands (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

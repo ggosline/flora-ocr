@@ -23,7 +23,7 @@ Plate 22(1-4)
 
 ![Lagenaria breviflora](../sources/Cucurbitaceae_vol57_paddle/figures/fig_050_p0073.png)
 
-*Planche 22. Lagenaria breviflora: 1. Tige florifère mâle avec demi-feuille (×³/₄). - 2. Détail de la base du limbe foliaire, montrant les glandes (×7). - 3. Fleur mâle ouverte (×1/₄). - 4. Fleur femelle, 2 pétales enlevés (×1/₄). - Lagenaria siceraria: 5. Tige florifère mâle (×³/₄). - 6. Fruit (×²/₃). - 7. 8. Graines, vue de face et de profil (×2/₂). (1-3: Letouzey 4192; 4: Endengle 196; 5: Letouzey 7208; 6-8: Endengle 195). Dessin par M.D. Bergaux, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 22. Lagenaria breviflora: 1. Male floriferous stem with half-leaf (×³/₄). - 2. Detail of the base of the leaf blade, showing the glands (×7). - 3. Open male flower (×1/₄). - 4. Female flower, 2 petals removed (×1/₄). - Lagenaria siceraria: 5. Male floriferous stem (×³/₄). - 6. Fruit (×²/₃). - 7. 8. Seeds, front and side view (×2/₂). (1-3: Letouzey 4192; 4: Endengle 196; 5: Letouzey 7208; 6-8: Endengle 195). Drawing by M.D. Bergaux, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

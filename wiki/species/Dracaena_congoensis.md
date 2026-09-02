@@ -37,6 +37,12 @@ Naturalis Biodiversity Center (©), reproduced from Bos (1984).
 
 Naturalis Biodiversity Center (©), reproduced from Bos (1984).
 
+## Figures
+
+![Dracaena congoensis](../sources/Dracaenaceae_vol54_liteparse/figures/fig_027_p0033.png)
+
+*Plate 10. Dracaena congoensis: 1. End of a flowering branch. Drawing by P. Verheij-Hayes,*
+
 ## Notes
 
 <!-- TODO:notes -->

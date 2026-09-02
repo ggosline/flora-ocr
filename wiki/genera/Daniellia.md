@@ -49,6 +49,40 @@ today cannot later be united.
 
 The genus currently comprises 9 species and 1 variety. Two are species of open forests and wooded savannas: one Sudanian, D. Oliveri, the other Zambezian occupies a symmetric position in the southern hemisphere, D. Alsteeniana, D. Oliveri is thus present in N. Cameroon but not in Gabon. All the other species inhabit exclusively dense humid forests. D. thurifera is western, from Portuguese Guinea to Ghana. D. ogea exists from Casamance to Gabon. D. oblonga appears endemic to southern Nigeria, Cameroon and Fernando Po. D. Pynaertii is widely distributed from Côte d'Ivoire to Gabon and the Congo basin. D. Klainei is endemic to Gabon. D. Soyauxii with a pilosa variety exists from Gabon to Kasai. Finally D. Mortehanii, known only from the type, would belong to central Congo.
 
+## Key to the species
+
+1. One large petal, 4 small or rudimentary; flowers white, glabrous; filaments of stamens glabrous; leaflets ovate-elliptic; species of wooded savannas..... D. Oliveri.
+
+1'. Two large petals, one medium and 2 rudimentary; filaments of stamens pubescent at the base; species of dense humid forests.
+
+2. Leaves ± hairy (rachis, petiolules and midrib beneath).
+
+---
+
+---
+
+3. Pedicel + receptacle approximately 1 cm in length; buds hairy..... 1. D. Soyauxii var. pilosa.
+
+3'. Pedicel + receptacle 1.5-3 cm long; buds glabrous except at the apex; flowers mauve..... 2. D. Pynærtii.
+2'. Leaves glabrous.
+
+4. Buds glabrous.
+5. Large leaflets 12-30 cm long, 4-11 cm wide.
+3. D. Klainei.
+
+5'. Leaflets smaller.
+6. Small leaflets ovate, up to 6 cm in length and 2 cm in width; sepals 8-10 mm in length.....
+1. D. Soyauxii var. Soyauxii.
+
+6'. Leaflets oblong.
+7. Sepals 1.6-2.2 cm in length × 11-17 mm in width; pedicel + receptacle 1.5-2 cm long; flowers red-violet..... D. thurifera. (West Africa).
+
+7'. Sepals 1-1.2 cm in length × 8 mm in width;
+pedicel + receptacle approximately 1.2 cm in length;
+flowers blue..... D. oblonga.
+
+4'. Buds densely pubescent; ovary pubescent then glabrescent; leaflets oblong to oblong-ovate, glabrous; flowers blue-violet..... 4. D. Ogea.
+
 ## Species in region
 
 | Species | Vol | Pages |

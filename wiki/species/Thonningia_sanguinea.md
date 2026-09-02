@@ -39,6 +39,16 @@ eyeta ngomba (Mitsogho), ezila-zi.ntyé (Galoa, Mpongwè, Nkomi, Orungu), gyatsi
 
 9 9
 
+## Figures
+
+![Thonningia sanguinea](../sources/Balanophoraceae_vol40_liteparse/figures/fig_014_p0013.png)
+
+*Plate 2. Thonningia sanguinea : 1. Tuber at the point of contact with the host (× 1 / ). – 2. Tuber 1 3 with young inflorescence (× ⅔). – 3. Pubescence of the tuber surface (× 20). – 4. Inflorescence (× ⅔). – 5. Male capitulum, longitudinal section (× ⅔). – 6. Male flower (× 6). – 7. Female capitulum, longitudinal section (× ⅔). – 8. Female flower (× 6). (1, 3 : material of unknown origin ; 2, 4 : Benton 2 ; 5, 6 : Milne-Redhead & Taylor 3745 ; 7, 8 : Milne-Redhead & Taylor 3875 ). Plate by Olive Milne-Redhead (©), reproduced with permission from Hansen (1993).*
+
+![Thonningia sanguinea](../sources/Balanophoraceae_vol40_liteparse/figures/fig_015_p0015.png)
+
+![Thonningia sanguinea](../sources/Balanophoraceae_vol40_liteparse/figures/fig_016_p0015.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

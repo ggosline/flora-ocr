@@ -33,6 +33,12 @@ widely distributed in tropical Africa and Madagascar; rare in Gabon, found only 
 
 in swamps, on the borders of lakes and along rivers, sometimes floating; in Gabon, probably at 400–600 m altitude, elsewhere at 0–1700 m. Taxonomic note: recognized by its leafless stems and its solitary head inflorescence. It resembles only C. colymbetes Kotschy & Peyr., which has a thicker triangular stem and larger involucral bracts. C. colymbetes is known neither from Gabon nor from West Africa, but further east. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1981, 1997). CYPERUS L. subgenus CYPERUS Mariscus Vahl, Enum. pl. 2: 372 (1805), nom. cons. Cyperus L. subgenus Mariscus (Vahl) C.B.Clarke, J. Linn. Soc., Bot. 21: 34 (1884). Perennial or annual herbs; stems 5–500 cm long, triangular, rarely cylindrical. Leaves usually with well-developed blade. Anatomy of stems and leaves of the chlorocyperoid type (that is, with C4 type anatomy). Inflorescence in loose or dense anthela, with few or many distinct spikes, ovoid to cylindrical, sessile or pedunculate, but sometimes inflorescence reduced to a solitary spikelet or in dense head formed of many sessile spikelets. Spikelets ± flattened, dehiscent or indehiscent; glumes ovate, generally 1–8 mm long, densely imbricate. Flower with 1–3 stamens; style usually with 2–3 branches. Achenes sessile, trigonous, more rarely biconvex and flattened dorsiventrally, surface usually finely papillose or fairly smooth. Large subgenus of almost 300 species from dry grasslands, swamps, lake borders, marine shores, brackish marshes and forests, widely distributed especially in tropical and subtropical regions; in Gabon 32 species
 
+## Figures
+
+![Cyperus pectinatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_031_p0045.png)
+
+*Planche 19 . Cyperus pectinatus. A. Plante. – Planche 20 . Cyperus amabilis. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

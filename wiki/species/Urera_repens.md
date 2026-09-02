@@ -41,6 +41,12 @@ generally on forest soil, where there is sufficient light through the canopy and
 
 Previously, U. repens was reported as extending to the dense evergreen forest block of West Africa, but these populations are now referred to U. keayi Letouzey. U. repens is distinguished from U. keayi by its ovate lamina, its inflorescences in panicles (not in corymbs) and the females more open at the fruiting stage than in U. repens. It is known from Liberia to Ghana. B: Keay (1958), Lebrun & Stork (2010), Letouzey (1967, 1968). Bibliography
 
+## Figures
+
+![Urera repens](../sources/Urticaceae_vol51_liteparse/figures/fig_051_p0086.png)
+
+*Plate 32. Urera repens : 1. Prostrate-rooting stem with one leaf and a male inflorescence (± × ½). – 2. Detail of the lower surface of the blade, with stinging hairs on the veins (× 4). – 3. Idem, upper surface, with some stinging hairs and cystoliths (× 4). – 4. Ultimate branch of a male inflorescence, flowers surrounded by minute bracts (× 4). – 5. Expanded male flower (× 10). – 6. Prostrate-rooting stem with one leaf and a ripening female inflorescence (± × ½). – 7. Detail of a female inflorescence, showing the flowers and bracts (× 10). – 8. Achene completely surrounded by the perianth (× 8). – 9. Embryo (× 8). (1–3 : Letouzey 5269 ; 4, 5 : J. & A. Raynal 10329 ; 6, 8, 9 : Letouzey 4978 ; 7 : J. & A. Raynal 13395 ). Drawing by Hélène Lamourdedieu, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

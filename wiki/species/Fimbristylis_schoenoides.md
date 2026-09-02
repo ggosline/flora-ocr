@@ -42,6 +42,14 @@ ditch fimbry (angl.)
 
 Taxonomic note: very close to F. ferruginea, but easily distinguished from it by its solitary spikelet. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972).
 
+## Figures
+
+![Fimbristylis schoenoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_127_p0151.png)
+
+*Planche 99 . Fimbristylis schoenoides . A. Plante. – Planche 100 . Fimbristylis squarrosa . A. Plante. -*
+
+![Fimbristylis schoenoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_128_p0151.png)
+
 ## Notes
 
 <!-- TODO:notes -->

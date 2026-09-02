@@ -49,11 +49,11 @@ Fern (2020), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Njoroge
 
 ![Momordica charantia](../sources/Cucurbitaceae_vol57_paddle/figures/fig_059_p0084.png)
 
-*Figure 4. Momordica breteleri (Makande, Ogooue-Lolo, Gabon, Breteler 14950): A. Tige fructifère de l'échantillon type, B. Fruit de l'échantillon type. – Momordica cabrae (Rhoko, Cross River State, Nigeria): C. Fruit. – Momordica charantia (Kenema, Sierra Leone): D. Fruit ouvert, E. Tige florifère mâle. Photos A-E par Hanno Schaefer.*
+*Figure 4. Momordica breteleri (Makande, Ogooue-Lolo, Gabon, Breteler 14950): A. Fruiting stem of the type specimen, B. Fruit of the type specimen. – Momordica cabrae (Rhoko, Cross River State, Nigeria): C. Fruit. – Momordica charantia (Kenema, Sierra Leone): D. Fruit open, E. Male floriferous stem. Photos A-E by Hanno Schaefer.*
 
 ![Momordica charantia](../sources/Cucurbitaceae_vol57_paddle/figures/fig_061_p0087.png)
 
-*Planche 27. Momordica charantia: 1. Tige à fleurs mâle et femelle (×½). – 2. Fleur mâle, un pétale enlevé (×2½). – 3. Fleur femelle, un pétale enlevé (×1½). – 4. Stigmates (×6). – 5. Ovaire, coupe transversale (×6). – 6. Jeune fruit (×1). – 7. Graine, vue de face et de profil (×1). – Momordica cissoides: 8. Tige florifère à boutons mâles (×½). – 9. Bouton mâle (×2). – 10. Fleur mâle, un pétale enlevé (×2). – 11. Fruit (×1½). – 12. Graine (×2). (1-7: Jacques-Félix 3669; 8-12: Breteler 1378). Dessin par C. Seghers, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 27. Momordica charantia: 1. Stem with male and female flowers (×½). – 2. Male flower, one petal removed (×2½). – 3. Female flower, one petal removed (×1½). – 4. Stigmas (×6). – 5. Ovary, transverse section (×6). – 6. Young fruit (×1). – 7. Seed, front and side view (×1). – Momordica cissoides: 8. Flowering stem with male buds (×½). – 9. Male bud (×2). – 10. Male flower, one petal removed (×2). – 11. Fruit (×1½). – 12. Seed (×2). (1-7: Jacques-Félix 3669; 8-12: Breteler 1378). Drawing by C. Seghers, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

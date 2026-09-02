@@ -37,6 +37,12 @@ in heterogeneous forest; in Gabon at 40–600 m altitude, elsewhere up to 750 m
 
 esoesoek (fang). b : Majot-Rochez & Duvigneaud (1954). ibliographie
 
+## Figures
+
+![Erythrina droogmansiana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_072_p0198.png)
+
+*Plate 64: Erythrina droogmansiana: 1. Flowering branch (× ½). – 2. Leaf (× ½). – 3. Calyx spread, inner surface (× 1). – 4. Standard, inner surface (× 1). – 5. Wing, outer surface (× 1). – 6. Keel piece, outer surface (× 1). – 7. Androecium and gynoecium (× 1). – 8. Gynoecium (× 1). – 9. Pod and seed (× ½). (1–8:*
+
 ## Notes
 
 <!-- TODO:notes -->

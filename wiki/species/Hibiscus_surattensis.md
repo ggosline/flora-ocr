@@ -37,6 +37,12 @@ Species cultivated in semi-deciduous dense forest and its degraded forms, second
 
 hibiscus de Surat, oseille indigène, oseille malabare (fr.) ; shrub althea, wild sour, (angl.) ; abóndókó (nkomi, orungu), asang-la-ngoma (bakèlè), bokolo-bwa-lèmbulè, bokolo-bwa-tsèndè (bavové), bokolo-bwa-maranda (ivéa), bokôo-amokôdi, bokôo-a-tsèndè (mitsogo), bukulu-bu-lava (bavangu, bapunu), bukulu-bu-lavi (éshira, bavarama), bukulu-bu-maranda (balumbu, bapunu, bavangu, bavarama, éshira), bukulu-landala (banzabi), bukulu-mu-malala (bavili), ésanghu-nkodji (bakota), kulu-ungómbu (béséki), mabóndókó (ngowé), mokèdi-a-mogódi, mokèdi-a-tséndè (apindji), ngwè-y’okolo, okoli wi nghómbè (mpongwè), nyangwè-békulyè (bakèlè), odzi-kule (fang), okolo w’arèndè (nkomi, orungu), ukolo-mwa-mayó (benga). B : Akoègninou et al. (2006), Berhaut (1979), Exell & Meeuse (1961), Haui B liographie man (1963), Hutchinson et al. (1958), Mwachala (2009), Wilson (1999)
 
+## Figures
+
+![Hibiscus surattensis](../sources/Malvaceae_vol45_liteparse/figures/fig_032_p0078.png)
+
+*Plate 21. Hibiscus surattensis : 1. Branch with a flower, showing the epicalyx below. – 2. Flower. – 3. Calyx. Drawing by J. Berhaut & D. Storez, reproduced from Berhaut (1979).*
+
 ## Notes
 
 <!-- TODO:notes -->

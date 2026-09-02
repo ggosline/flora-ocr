@@ -45,6 +45,21 @@ The genus comprises 7 species which are generally highly branched shrubs or low 
 
 3' Leaves dull and initially with appressed hairs above; blade reaching 80 × 90 cm; ♂ flowers on the penultimate branches of inflorescences more than 15 cm broad; ♀ flowers obovoid 1. M. arboreus.
 
+## Key to the species
+
+1. Young branches, petioles and main veins on the lower surface rendered scabrous by stiff recurved hairs; leaves generally simple; shrubs reaching 4 m in height ..... 3. M. cuneifolius.
+
+1'. Young branches, petioles and main veins on the lower surface with erect to appressed hairs, straight to slightly recurved; leaves compound or simple; shrubs or trees of medium size.
+
+2. Leaves simple, entire to trilobate (rarely 5-lobate); stipules not entirely amplexicaul ..... 2. M. serratus.
+
+2'. Leaves generally compound (rarely 3–5-lobate); stipules entirely amplexicaul.
+
+---
+
+3. Leaves glossy and glabrous above; lamina reaching 40 × 30 cm; male flowers in dense groups 2–5 mm long on the terminal branches of inflorescences reaching 9 cm in width; female flowers ovoid to conical 1 bis M. preussii.
+3' Leaves dull and initially with appressed hairs above; lamina reaching 80 × 90 cm; male flowers on the penultimate branches of inflorescences more than 15 cm in width; female flowers obovoid 1. M. arboreus.
+
 ## Species in region
 
 | Species | Vol | Pages |

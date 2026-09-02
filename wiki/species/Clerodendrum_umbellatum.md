@@ -36,6 +36,16 @@ Secondary forests, swamp forests, forest margins, roadsides, gravel pits; in Gab
 
 umbel clerodendrum (angl.) ; ngw’akuké (nkomi). B : Burkill (2000), Huber et al. (1963), Raponda-Walker & Sillans (1961), Rueda (1993), i B liographie Vande weghe et al. (2016), Verdcourt (1992)
 
+## Figures
+
+![Clerodendrum umbellatum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_041_p0042.jpeg)
+
+*Figure 3. Clerodendrum schweinfurthii: A. Inflorescence; B. Flowers. – Clerodendrum silvanum: C. Inflorescence; D. Flowers. – Clerodendrum splendens: E. Flowers; F. Fruits on pink calyces. – Clerodendrum umbellatum: G. Inflorescence. Photos by Matthew Walters (A, B: Nigeria, Mambilla Plateau, Ngel*
+
+![Clerodendrum umbellatum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_048_p0046.png)
+
+*Plate 9. Clerodendrum umbellatum: 1. Flowering stem (× ⅔). – 2. Flower (× 1). – 3. Calyx (× 2). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

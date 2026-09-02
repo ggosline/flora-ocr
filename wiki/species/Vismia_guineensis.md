@@ -34,6 +34,12 @@ from Guinea-Bissau to Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon and Dem
 
 secondarized forest, forest edges, wooded savanna, disturbed places, sometimes in swampy stations, on lateritic or sandy soil; in Gabon up to 350 m altitude, elsewhere up to 650 m. Uses: The trunks are used as posts for huts, but the wood is not hard. The sap is used against itching, other skin diseases and fever. An infusion of young leaves serves as a laxative and, in combination with Aframomum melegueta (Roscoe) K.Schum. (Zingiberaceae), against throat inflammations. B: Bamps (1966, 1969, 1970), Burkill (1994), Milne-Redhead (1953). Bibliography
 
+## Figures
+
+![Vismia guineensis](../sources/Hypericaceae_vol42_liteparse/figures/fig_021_p0041.png)
+
+*Plate 11. Vismia guineensis: 1. Fruiting branch. – 2. Flower. – 3. Open flower, 1 sepal removed. – 4. Fruit. – 5. Fruit, transverse section. (1: Reitsma 3300 ; 2–3: J.J. de Wilde et al. 8950 ; 4–5: Leeuwenberg 4246 ). Drawing by Hans de Vries, NCB Naturalis (section NHN) ©.*
+
 ## Notes
 
 <!-- TODO:notes -->

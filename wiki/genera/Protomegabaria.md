@@ -33,6 +33,13 @@ Bibliography: Breteler (2012c), Léonard (1995a). Pax & Hoffmann (1922), Radclif
 
 - Sepals of the female flower (2.5–)3–4 mm in length; ovary ribbed; fruit ellipsoid, ± 3.5–4 cm in length ................................................... P. macrophylla
 
+## Key to the species
+
+1. - Limb very often furnished below with numerous small reddish-brown pustules; fruit ribbed or if not, not exceeding 2 cm in diameter ...................................... 2
+- Limb without pustules; fruit not ribbed, 3–4.5 cm in diameter ................ P. stapfiana
+2. - Sepals of the female flower 1.5–2 mm in length; ovary not ribbed; fruit globose, ± 1.5 cm in diameter .......................................................... P. meiocarpa
+- Sepals of the female flower (2.5–)3–4 mm in length; ovary ribbed; fruit ellipsoid, ± 3.5–4 cm in length ................................................... P. macrophylla
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -33,6 +33,12 @@ Genus of approximately 5 species in tropical and southern Africa.
 
 1'. Inflorescence reaching 10 cm, in a lax spike with flowers well-spaced, leaves acute 12 mm wide ..... 31. 2. B. talbotii
 
+## Key to the species
+
+1. Inflorescence reaching 20 cm long, in dense spike with flowers crowded; leaves nearly rounded at apex, 7 mm wide ..... 31. 1. B. batesii
+
+1'. Inflorescence reaching 10 cm, in lax spike with flowers well spaced, leaves acute 12 mm wide ..... 31. 2. B. talbotii
+
 ## Species in region
 
 | Species | Vol | Pages |

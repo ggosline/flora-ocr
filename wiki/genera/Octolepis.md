@@ -35,6 +35,12 @@ Genus known from Guinea and Liberia, to the middle Congo basin, then only from M
 
 In the sterile state, Octolepis can be confused with numerous shrubs, and the anatomical characters of the stems remain among the best distinguishing criteria. However, it is possible to recognize a representative of the genus Octolepis by leaves alone in relation to some other plant groups; the leaves of Octolepis frequently differ from the leaves of Carpolobia (Polygalaceae) in the type of venation; in Carpolobia, the marginal anastomoses between the strongest of the secondary veins (which are moreover few in number) are poorly marked; furthermore the tertiary network is relatively homogeneous, clearly visible on the lower surface, and forms fine meshes; in Octolepis, the lateral veins are connected to each other by some fairly strong tertiary veins forming a first network of large meshes (of the order of 1 cm per side), and the venules are only slightly visible; on the other hand, in Casearia prismatocarpa Mart. (Samydaceae), present in Gabon, the tertiary network is fairly fine, very homogeneous, regularly inclined with respect to the lateral veins, without large meshes appearing. It should also be noted that the colour and texture of the bark help to distinguish Octolepis from these different genera, as well as from certain Diospyros.
 
+## Key to the species
+
+1. Flowers predominantly tetramerous; leaves 5-30 cm long, but generally more than 15, 4-10 cm wide, with blade rather attenuate-cuneate toward the base, with 8-15 (and up to 20) pairs of lateral veins.....1. O. casearia. (leaves 8-12 cm long by 3-4 cm wide, fairly thick shagreened, with few veins..... O. nodosericea).
+
+1'. Flowers predominantly pentamerous; leaves 5-20 cm long, but generally 10-12, 2-7 cm wide, with base rather rounded or subcordate, with 5-12 pairs of lateral veins..... 2. O. decalepis.
+
 ## Species in region
 
 | Species | Vol | Pages |

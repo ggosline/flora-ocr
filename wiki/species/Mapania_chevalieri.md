@@ -35,6 +35,14 @@ endemic to Gabon; very rare and found only in Estuaire and Ngounié (2 collectio
 
 humid forests, often along rivers and streams; probably below 100 m altitude only. Taxonomic note: very close to M. afro-orientalis, but differs by its larger cylindrical spikes (9–18 mm in length versus 5–8 mm) and achenes entirely wrinkled. It is distinguished from M. polystachya by its narrower blades and its spicoid bracts not spotted. b: Nelmes (1955a). Bibliography
 
+## Figures
+
+![Mapania chevalieri](../sources/Cyperaceae_vol44_liteparse/figures/fig_145_p0169.jpeg)
+
+*Figure 15. Achenes of a) Mapania chevalieri ( Chevalier 26987 , Estuaire, Gabon) and b) Mapania heterophylla ( Chevalier 26427 , Moyen-Ogooué, Gabon). × 1,7 cm and longer than the inflorescence ; linear-lanceolate to ellipsoid spikes, becoming more obovoid at maturity, 9–18 × 2–4 mm , brown, obtuse at apex ; spicoidal bracts oblong to obovate, 2,5–3 × 1,5–1,8 mm, brown, glabrous, with central nerve sometimes prolonged by a short mucro, obtuse at apex. Flower : floral bracts 2 ; style with 2 branches. Ellipsoid achene, 1,5–2 × 1 mm, reddish brown, acute at apex, upper part (base of style) triangular, compressed, same color as achene, surface entirely weakly ridged to tuberculate.*
+
+![Mapania chevalieri](../sources/Cyperaceae_vol44_liteparse/figures/fig_146_p0169.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

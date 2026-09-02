@@ -47,6 +47,16 @@ Children use it for jumping rope or tug-of-war. The leaves are said to be purgat
 
 mubóla (ngowé) ; nkólu-u-nséké (béséki) ; ntsava-y’ogóli (mpongwè) ; ntsinga-mpèmo (loango). B : Deroin (2001), Gonçalves (1987), Lejoly et Lisowski (1992), Rapondaibliographie Walker & Sillans (1961)
 
+## Figures
+
+![Ipomoea ochracea](../sources/Convolvulaceae_vol46_liteparse/figures/fig_030_p0044.png)
+
+*Plate 18. Ipomoea ochracea : Flowering branch. Drawing by J. Berhaut reproduced with permission from Berhaut (1975).*
+
+![Ipomoea ochracea](../sources/Convolvulaceae_vol46_liteparse/figures/fig_031_p0046.png)
+
+*Plate 19. Ipomoea pes-caprae subsp. brasiliensis: 1. Flowering branch. – 2, 3. Sepals. – 4. Corolla spread with stamens. – 5. Pollen grain. – 6. Gynoecium with part of the calyx. – 7. Ovary in longitudinal section. – 8. Stigmas in polar view. – 9. Fruit. – 10. Septum. – 11, 12: Seed in ventral and lateral view. (1–12 : Deroin & Badré 202 ). Drawing by Thierry Deroin and reproduced with permission from Publications*
+
 ## Notes
 
 <!-- TODO:notes -->

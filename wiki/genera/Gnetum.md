@@ -34,6 +34,14 @@ rounded or slightly cuneate; internodes of male strobilus widening toward the
 apex; staminal column scarcely exserted from the perianth; female strobilus
 with cupuliform involucres ............................................................... G. buchholzianum
 
+## Key to the species
+
+1. - Lamina relatively thin, papyraceous, ovate-oblong to elliptic-oblong or rarely lanceolate, 5–14 × 2–5 cm, with attenuate base; internodes of male strobile slender and cylindric; staminal column longly exsert from the perianth; female strobile with saucer-shaped involucres; seed ellipsoid to obovoid, 5–10 mm in length .......................................................................... G. africanum
+
+---
+
+- Lamina coriaceous, ovate-elliptic to broadly elliptic, 8–15 × 4–8 cm, with rounded or slightly cuneate base; internodes of male strobile widening toward the apex; staminal column barely exsert from the perianth; female strobile with cupuliform involucres ............................................................... G. buchholzianum
+
 ## Species in region
 
 | Species | Vol | Pages |

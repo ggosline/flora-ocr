@@ -38,6 +38,12 @@ Primary and secondarized forest; in Gabon, at 150–300 m altitude
 
 kombè (apindji). b : Breteler (2011b), Léonard (1962). ibliographie
 
+## Figures
+
+![Cleistanthus itsoghensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_014_p0031.png)
+
+*Plate 8. Cleistanthus itsoghensis: A. Flowering branch. ‒ B. Male flower, one sepal removed. ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

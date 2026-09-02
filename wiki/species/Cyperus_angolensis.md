@@ -36,6 +36,14 @@ in herbaceous zones, scrub or open wooded areas, often on rocky slopes and in bu
 
 Leaf sheath and base of blade. – C. Summit of Longitudinal section of a hollow stem. – C. Spikelet. blade. – D. Spikelet. – E. Glume subtending a – D. Glume. – E. Apex of an anther showing the flower. – F. Flower. – G. Fruit with persistent style. connective. – F. Flower with young fruit, style and 3 filaments. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus angolensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_033_p0047.png)
+
+*Planche 21 . Cyperus angolensis. A. Plante. – B. Planche 22 . Cyperus articulatus. A. Plante. – B.*
+
+![Cyperus angolensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_034_p0047.png)
+
 ## Notes
 
 <!-- TODO:notes -->

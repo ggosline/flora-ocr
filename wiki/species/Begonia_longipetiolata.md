@@ -39,6 +39,10 @@ sang-mongongo (Fang). B : Arends (1992), de Wilde (2002). IBLIOGRAPHIE Idem, apr
 
 <!-- caption: Plate 48. Begonia loranthoides subsp. rhopalocarpa: 1. Branch with ♂ inflorescence (× ½). – 2. Idem, with ♀ inflorescence (× ½). – 3. Silhouette of a narrowly elliptic leaf (× ½). – 4. ♂ Flower (× 1.5). – 5. Anther seen from front (× 10). – 6. ♀ Inflorescence, 1-flowered (× 1.5). – 6a. -->
 
+## Figures
+
+![Begonia longipetiolata](../sources/Begoniaceae_vol39_liteparse/figures/fig_063_p0103.png)
+
 ## Notes
 
 <!-- TODO:notes -->

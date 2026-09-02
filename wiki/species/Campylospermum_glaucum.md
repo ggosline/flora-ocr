@@ -36,6 +36,12 @@ primary and secondary forest, open forest, swamp forest or periodically inundate
 
 avom. Note taxonomique : C . glaucum est caractérisée par la surface supérieure du limbe qui est vert bleuâtre à grisâtre. Ce caractère rappelle les feuilles de C . glaucifolium qui est, par contre, facilement distinguable par des inflorescences longues, lâches et pendantes. b : Bissiengou (2014), Farron (1963, 1968, 1985). ibliographie
 
+## Figures
+
+![Campylospermum glaucum](../sources/Ochnaceae_vol48_liteparse/figures/fig_026_p0054.png)
+
+*Plate 14. Campylospermum glaucum : 1. Flowering branch. – 2. Flower buds. – 3. Young androecium. – 4. Gynoecium. – 5. Stamens. Drawing by Sabine Bousani in Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

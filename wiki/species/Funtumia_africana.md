@@ -28,6 +28,16 @@ ngong mebam, ngong mebame (nom pilote ; fang) ; dutumba (éshira, bavarama, EDYX
 
 secondary; Flower; Idem longitudinal section; Fruit dehisced; Idem transverse section; Seed detail of beaked seed; Detail of the seed; Zwetsloot 28; 5-8: Zwetsloot 21). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Zwetsloot.
 
+## Figures
+
+![Funtumia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_073_p0084.jpeg)
+
+*Figure 5. Dictyophleba stipulosa: A. Inflorescence, B. Leaves and stipules – Funtumia africana: C. Inflorescence in buds, D. Inflorescence, E. Leaf lower surface – Holorrhena floribunda: F. Stem*
+
+![Funtumia africana](../sources/Apocynaceae_vol59_liteparse/figures/fig_081_p0089.jpeg)
+
+*Planche 35 . Funtumia africana 5DPHDX ÀRULIqUH ± 'RPDWLH j O¶DLVVHOOH G¶XQH QHUYXUH*
+
 ## Notes
 
 <!-- TODO:notes -->

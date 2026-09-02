@@ -49,6 +49,17 @@ Bibliography
 
 in Gabon) .................................................................. S. gilbertianum Léonard & Latour
 
+## Key to the species
+
+1. - Leaflets 5 to 7, with blade glabrous at maturity; standard 13–14 mm in length
+................................................................................................................ S. adenopetalum
+- Leaflets (5–)7 to 12, with blade velvety or pubescent beneath at least on the midvein; standard 15–18 mm in length .................................................................... 2
+2. - Leaflets with blade rusty-ferruginous on the lower surface of the midvein ............ 3
+- Lower surface of leaflets and branchlets densely velvety, reddish-brown ............... S. gabonense
+3. - Terminal leaflet with blade 1.7–4.5 cm in width; pod smooth .......... S. usambarense
+- Terminal leaflet with blade 5–6 cm in width; pod striated and echinulate (to be sought
+in Gabon) .................................................................. S. gilbertianum Léonard & Latour
+
 ## Species in region
 
 | Species | Vol | Pages |

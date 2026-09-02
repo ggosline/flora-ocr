@@ -46,6 +46,12 @@ awonghe, awong, mewonghe-nkwara (fang) ; gitsiga (éshira?) ; kota-gota (mit sog
 
 In the literature, this species has been confused with M. thonningii (Schumach. & Thonn.) Baker, of the section Sericanthae due to confused nomenclature (Adomou et al., in prep.). The two taxa are clearly distinct. b: Banzouzi et al. (2008), Pellegrin (1949), Raponda-Walker & Sillans (1961). Bibliography
 
+## Figures
+
+![Millettia griffoniana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_098_p0271.png)
+
+*Plate 90: Millettia griffoniana: 1. Flowering branchlet. – 2. Flower, corolla removed. – 3. Standard. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

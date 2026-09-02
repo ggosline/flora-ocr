@@ -31,6 +31,14 @@ Brunel et al. (1984), van der Burg (2006), Faden (1998, 2012), Sosef et al. (200
 
 - Herb with stem often creeping or decumbent, succulent, rhizomatous and sometimes rooting at the nodes; cauline leaves distichous, generally more than 10, with sheaths covering the stem; fibrous roots ......................................... C. arachnoidea
 
+## Key to the species
+
+1. - Herb with erect stem; basal leaves in rosette, the cauline ones (2–)3 or 4(–5),
+distant and leaving the stem visible; tuberous roots ......... C. longifolia var. gracilis
+- Herb with stem often creeping or decumbent, succulent, rhizomatous and sometimes
+rooting at the nodes; cauline leaves distichous, generally more than 10, with
+sheaths covering the stem; fibrous roots ......................................... C. arachnoidea
+
 ## Species in region
 
 | Species | Vol | Pages |

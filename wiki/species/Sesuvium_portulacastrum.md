@@ -40,6 +40,14 @@ pourpier de mer, pourpier maritime (Fr.) ; cenicilla, samphire, seaside purselan
 
 , .1306059.45848 3 3
 
+## Figures
+
+![Sesuvium portulacastrum](../sources/Aizoaceae_vol42_liteparse/figures/fig_007_p0010.png)
+
+*Plate 1. Sesuvium portulacastrum : 1. Plant (× 1). – 2. Flower (× 2). – 3. Flower, longitudinal section (× 4). – 4. Lid (× 8). – 5. Ovary, transverse section (× 8). – 6. Dehiscent fruit (× 4). – 7.*
+
+![Sesuvium portulacastrum](../sources/Aizoaceae_vol42_liteparse/figures/fig_008_p0012.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -20,6 +20,12 @@ tags: [species, generated]
 
 Baphiastrum confusum (Hutch. & Dalziel) Pellegr., Bull. Soc. Bot. France 90 : 162 (1943).
 
+## Figures
+
+![Airyantha schweinfurthii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_015_p0036.png)
+
+*Plate 7: Airyantha schweinfurthii: 1. Stem with young pods. – 2. Detail of blade, lower surface. – 3.*
+
 ## Also treated in vol 49
 
 **Pages**: 35-35 · **Source**: `sources/Millettiaspeciesfabaceae_vol49_liteparse`

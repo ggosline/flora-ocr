@@ -49,7 +49,7 @@ This species is named after the botanist Frans J. Breteler (1932–), who collec
 
 ![Momordica breteleri](../sources/Cucurbitaceae_vol57_paddle/figures/fig_059_p0084.png)
 
-*Figure 4. Momordica breteleri (Makande, Ogooue-Lolo, Gabon, Breteler 14950): A. Tige fructifère de l'échantillon type, B. Fruit de l'échantillon type. – Momordica cabrae (Rhoko, Cross River State, Nigeria): C. Fruit. – Momordica charantia (Kenema, Sierra Leone): D. Fruit ouvert, E. Tige florifère mâle. Photos A-E par Hanno Schaefer.*
+*Figure 4. Momordica breteleri (Makande, Ogooue-Lolo, Gabon, Breteler 14950): A. Fruiting stem of the type specimen, B. Fruit of the type specimen. – Momordica cabrae (Rhoko, Cross River State, Nigeria): C. Fruit. – Momordica charantia (Kenema, Sierra Leone): D. Fruit open, E. Male floriferous stem. Photos A-E by Hanno Schaefer.*
 
 ## Notes
 

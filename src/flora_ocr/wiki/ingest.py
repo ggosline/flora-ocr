@@ -628,6 +628,46 @@ def _page_at(lines: list[str], lineno: int) -> int:
 
 _FIG_PAGE_RE = re.compile(r"_p(\d+)\.")
 
+# figures.md, as both engines write it:
+#   ## Figure 9 (page 15)
+#   ![fig_009_p0015.png](figures/fig_009_p0015.png)
+#   *Caption:* Planche 2. Pararistolochia ceropegioides . 1, 2. Feuille ...
+_FIG_MD_ENTRY_RE = re.compile(
+    r"^##\s+Figure\s+\d+\s*(?:\(page\s*(\d+)\))?\s*$(.*?)(?=^##\s+Figure\s|\Z)",
+    re.M | re.S)
+_FIG_MD_FILE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
+_FIG_MD_CAPTION_RE = re.compile(r"^\*Caption:\*\s*(.+?)\s*$", re.M)
+_NO_CAPTION_RE = re.compile(r"^\*?\(no caption[^)]*\)\*?$", re.I)
+
+
+def _figures_from_markdown(path) -> list[dict]:
+    """Recover the figure inventory from figures.md.
+
+    The bundle takes its figures from metadata.json, which only the paddle and
+    mineru writers populate. figures.md carries the same information -- file,
+    page and caption -- for every engine, so it is the fallback.
+    """
+    if not path.exists():
+        return []
+    try:
+        text = path.read_text(encoding="utf-8")
+    except OSError:
+        return []
+    out: list[dict] = []
+    for m in _FIG_MD_ENTRY_RE.finditer(text):
+        body = m.group(2)
+        fm = _FIG_MD_FILE_RE.search(body)
+        if not fm:
+            continue
+        filename = fm.group(1).rsplit("/", 1)[-1]
+        cm = _FIG_MD_CAPTION_RE.search(body)
+        caption = cm.group(1).strip() if cm else ""
+        if _NO_CAPTION_RE.match(caption):
+            caption = ""
+        page = int(m.group(1)) if m.group(1) else _page_from_name(filename)
+        out.append({"filename": filename, "page": page, "caption": caption or None})
+    return out
+
 
 def _page_from_name(filename: str) -> int:
     """fig_025_p0011.png → 11. Returns 0 when the name carries no page."""
@@ -644,11 +684,18 @@ def assign_figures(treatment: Treatment, blocks: list[Block]) -> list[dict]:
     be placed on any species page.
     """
     meta_path = treatment.path / "metadata.json"
-    if not meta_path.exists():
-        return []
-    try:
-        figures = json.loads(meta_path.read_text(encoding="utf-8")).get("figures", [])
-    except (json.JSONDecodeError, OSError):
+    figures: list = []
+    if meta_path.exists():
+        try:
+            figures = json.loads(meta_path.read_text(encoding="utf-8")).get("figures") or []
+        except (json.JSONDecodeError, OSError):
+            figures = []
+    if not figures:
+        # liteparse writes only a figure_count to metadata.json, so every
+        # liteparse treatment lost its plates -- 1,107 figures across 84
+        # treatments -- even though figures.md and the images were on disk.
+        figures = _figures_from_markdown(treatment.path / "figures.md")
+    if not figures:
         return []
 
     # MinerU records figures as bare filenames; paddle/liteparse as objects with

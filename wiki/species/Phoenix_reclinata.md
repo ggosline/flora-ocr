@@ -39,6 +39,16 @@ Growing in very different habitats, generally in humid tropical forest, forest m
 
 dattier sauvage, dattier du Sénégal, dattier de marais, faux dattier (fr.) ; wild date palm, Senegal date palm, swamp date palm, false date palm (angl.) ; andzic (fang) ; mbari-mubu (bapunu, bavarama, éshira) ; mugau (balumbu, ngowé) ; ndigo (galoa, mpongwè, nkomi, orungu) ; ndiki (béséki) ; ndingo (benga) ; tsimvufu (loango). Usage : Les fruits sont comestibles, mais sans importance commerciale. Le cœur de palmier est consom mé comme légume et la sève est utilisée pour faire du vin de palme, mais d’autres espèces sont préférées (par exemple Raphia hookeri ). Les folioles des jeunes feuilles sont couramment utilisées pour faire des nattes, des paniers, des chapeaux, des cordes et des ficelles. Les pétioles et rachis de feuilles matures fendus sont utilisés pour du tissage grossier. Les rachis sont utilisés pour faire des huttes et des parcs à poissons. Les feuilles sont utilisées pour la couverture des toits. On fabrique des balayettes avec le stipe en martelant son extrémité jusqu’à ce que les fibres se séparent. Les inflorescences séchées sont également utilisées comme balais. Le stipe est utilisé dans la construction de huttes, de maisons, de clô tures, etc. Il s’emploie aussi comme bois de feu et il est approprié pour la production de charbon de bois. Les racines donnent une gomme comestible et contiennent des tanins. L’espèce est couramment plantée comme ornementale et par endroits, pour l’ombrage. En médecine traditionnelle, les racines et fruits sont de quelques utilités. B : Barrow (1998), Dransfield (1986, 2010), Dransfield et al. (2008), Pajarón et al. (2015), i B liographie Raponda-Walker & Sillans (1961), Segu (2012a)
 
+## Figures
+
+![Phoenix reclinata](../sources/Arecaceae_vol53_liteparse/figures/fig_025_p0036.jpeg)
+
+*Figure 1 . Hyphaene guineensis (Iguéla, Gabon) : A. General habitat, B. Detail of leaves and infructescences, C. Detail of the leaf, note the costapalmate nature of the leaf, D. Detail of the inflorescence and flowers. – Calamus deeratus (Obut, Cameroon) : E. General habitat. – Elaeis guineensis (Kribi, Cameroon) : F. General habitat. – Elaeis guineensis , form idolatrica (Bipindi, Cameroon) : G. Fused leaflets. – Phoenix reclinata (Belo, Cameroon) : H. General habitat. (Photos A-D by Johan van Valkenburg © ; E-H by Thomas L.P. Couvreur ©).*
+
+![Phoenix reclinata](../sources/Arecaceae_vol53_liteparse/figures/fig_034_p0050.png)
+
+*Plate 16 . Phoenix reclinata : 1. Upper part of a leaf (× ½). – 2. Prophyll and male inflorescence (× ½). – 3. Part of the male flowering branch (× 1,8). – 4. Male flower (× 2,7). – 5. Idem, longitudinal section (× 2,7). – 6. Female flower (× 2,7). – 7. Gynoecium and staminodes (× 4,5). – 8. Gynoecium, transverse section (× 9). – 9. Young infructescence (× ½). – 10. Young fruit (× 1,4). – 11. Seed (× 0,9). – 12.*
+
 ## Notes
 
 <!-- TODO:notes -->

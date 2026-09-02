@@ -37,6 +37,26 @@ Key to species
 
 3. - Bracts and bracteoles caducous; seed without caruncle or with a strongly reduced caruncle (generally to membranous appendages); capsule narrowly ovoid or ellipsoid to subglobose, not winged .................................. 4
 
+## Key to the species
+
+1. - Lower outer sepals fused at least halfway, generally almost to the apex; fertile stamens 8 or 6 and 2 sterile ............................ 2
+- Lower outer sepals free or only weakly fused; fertile stamens 8 .................................................................................................................. 3
+2. - Shrublet, rarely perennial herb; winged sepals caducous in the fruit; flowers in terminal racemes; fertile stamens 6 and 2 sterile ........................ P. acicularis
+- Annual herb; winged sepals persistent in the fruit; flowers generally in axillary racemes; fertile stamens 8 .................................................. P. gilletiana
+3. - Bracts and bracteoles caducous; seed without a caruncle or with a strongly reduced caruncle (generally to membranous appendages); capsule narrowly ovoid or ellipsoid to subglobose, wingless .................................. 4
+- Bracts and bracteoles persistent; seed with a distinct caruncle; capsule flattened, ovoid or ellipsoid, winged .......................................................................... 5
+4. - Stem glabrous; seeds fusiform, with dense appressed pubescence, hairs covering the base of the seeds; capsule narrowly ovoid, acute ................................ P. lecardii
+- Stem glabrous or with a few sessile glands; seed ellipsoid, with minute white appressed pubescence, hairs not covering the base of the seeds; capsule ellipsoid to subglobose .................................................................... P. capillaris
+
+---
+
+5. - Herb with sympodial growth, secondary flowering axes exceeding the terminal primary racemes .................................................................................. 6
+- Herb non- or weakly branched .................................................... P. ganguelensis
+6. - Dwarf herb, 3–9 cm; capsule not ciliate; winged sepals 2–3 mm long
+.............................................................................................................. P. welwitschii
+- Erect herb, 5–40 cm; capsule ciliate; winged sepals (4–)5–7 mm long
+.................................................................................................................. P. arenaria
+
 ## Species in region
 
 | Species | Vol | Pages |

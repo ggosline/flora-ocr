@@ -37,6 +37,12 @@ understory of primary and secondary forests, humid places; in Gabon as elsewhere
 
 D. soyauxiana, D. gabonica and D. buettneri represent the same species, collected from the same locality (vicinity of Sibang) and represent only different developmental stages. B: Baker (1898), Damen et al. (2018). Bibliography
 
+## Figures
+
+![Dracaena glomerata](../sources/Dracaenaceae_vol54_liteparse/figures/fig_020_p0026.jpeg)
+
+*Figure 2 . Dracaena braunii (Pongara, Gabon) : A. General aspect with inflorescence with 1 to 3 flowers per fascicle. – Dracaena bushii (cult., Hortus Botanicus Leiden, Netherlands) : B. Equitant leaf bases and capitate inflorescences. – Dracaena cerasifera (near Abidjan, Ivory Coast) : C. Inflorescence showing slender pedicels. – Dracaena glomerata (Mabounié, Gabon) : D. Infructescence with zigzag rachis and elliptic pseudopetiolate leaves. (Photos A, B by Theo H.J. Damen © ; C by A.J.M.*
+
 ## Notes
 
 <!-- TODO:notes -->

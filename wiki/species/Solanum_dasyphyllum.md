@@ -39,6 +39,16 @@ Stipitate stellate hair of young stems. Scale bar: 3 cm (1–2, 4), 2 cm (3), 0.
 
 As a wild progenitor species of a cultivated species, S. macrocarpon (gboma), the taxonomic status of S. dasyphyllum remains debated (see Vorontsova & Knapp (2016) for a detailed discussion). Here we have chosen to distinguish the cultivated species from the wild species because (1) these two species are morphologically distinct (see below S. macrocarpon), and (2) the separation between these two species makes it possible to account for the difference in the selection regimes at work in the cultivated species and in the related wild species. B: Bukenya & Carrasco (1999), Schippers (2000), Vorontsova & Knapp (2016). Bibliography
 
+## Figures
+
+![Solanum dasyphyllum](../sources/Solanaceae_vol55_liteparse/figures/fig_054_p0108.jpeg)
+
+*Figure 7. Physalis angulata (Moyen-Ogooué, Gabon, Bidault et al. 1934 ) : A. General aspect and fruiting calyx, B. Flower. – Physalis peruviana (La Paz, Bolivia, Maldonado et al. 3081 ) : C. General aspect and flower. – Schwenckia americana (Ogooué-Maritime, Gabon, Bidault & Ikabanga 1707): D. Flower, E. Fruit. – Solanum terminale (Ogooué-Ivindo, Gabon, Bidault et al. 4488 ) : F. Inflorescence, G. Fructification. – Solanum aculeatissimum (Estuaire, Gabon, Bidault et al. 3627 ) : H. Inflorescence. – Solanum americanum (Ica, Pérou, Knapp s.n. ) : I. Inflorescence. – Solanum anguivi (Ngong, Kenya, Vorontsova et al. 100 ) : J. Inflorescence. – Solanum anomalum (Ogooué-Ivindo, Gabon, Texier 2255 ) : K. Fructifications. – Solanum dasyphyllum (Tegetero, Tanzania, Vorontsova et al. 151 ) : L. Inflorescence. – Solanum torvum (Nzérékoré, Guinea, Bidault & Diabaté 668 ) : M. Flower. (Photos A, B, D-H, M by Ehoarn Bidault (CC-*
+
+![Solanum dasyphyllum](../sources/Solanaceae_vol55_liteparse/figures/fig_062_p0125.png)
+
+*Plate 39 . Solanum dasyphyllum : 1. Flowering stem of the most common form, with doubly lobed leaves. – 2. Sterile stem, with simply lobed leaves. – 3. Longistylous flower. – 4. Fruit with accrescent calyx. – 5. Stellate hair spreading from the lower surface of the limb. – 6. Simple hair from the upper surface of the limb. – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

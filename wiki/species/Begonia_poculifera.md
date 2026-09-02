@@ -33,6 +33,12 @@ Rainforests; 470–2250 m altitude. Uses: A decoction of the leaves was used by 
 
 <!-- caption: Plate 36. Begonia poculifera var. teusziana: 1. Flowering branch (× 0.4). – 2. Male flower (× 0.8). – 3. Tepal of a male flower, external surface (× 0.8). – 4. Stamen face view (× 5). – 5. Female flower (× 0.8). – 5a. -->
 
+## Figures
+
+![Begonia poculifera](../sources/Begoniaceae_vol39_liteparse/figures/fig_050_p0075.png)
+
+![Begonia poculifera](../sources/Begoniaceae_vol39_liteparse/figures/fig_051_p0077.png)
+
 ## Notes
 
 <!-- TODO:notes -->

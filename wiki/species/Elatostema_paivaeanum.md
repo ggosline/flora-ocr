@@ -41,6 +41,12 @@ The type specimen of E. gabonense, Thollon 1261, shows on the label: "Gabon, for
 
 Laportea 57
 
+## Figures
+
+![Elatostema paivaeanum](../sources/Urticaceae_vol51_liteparse/figures/fig_044_p0063.png)
+
+*Plate 25. Elatostema paivaeanum : 1. Flowering plant (× ⅓). – 2. Detail of the base of the lower surface of the limb (× 1½). – 3. Detail of the apex of the upper surface of the limb (× 2). – 4. Male floral bud (× 8). – 5. Bract of male inflorescence (× 6). – 6. Bracteole of male inflorescence (× 6). – 7. Female flower (× 28). – 8. Bract of female inflorescence (× 6). – 9. Bracteole of female inflorescence (× 6). – 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

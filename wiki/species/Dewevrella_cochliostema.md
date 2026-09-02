@@ -27,6 +27,12 @@ Liane reaching 20 m in height; branches lenticellate; branchlets green, with 2 l
 
 forest edge; in Gabon, at 400–440 m altitude, elsewhere at 300–450 m. B: Beentje (2021), Endress et al. (2019), van der Ploeg (1985). BIBLIOGRAPHY
 
+## Figures
+
+![Dewevrella cochliostema](../sources/Apocynaceae_vol59_liteparse/figures/fig_069_p0078.jpeg)
+
+*Planche 30 . Dewevrella cochliostema 5DPHDXÀRULIqUHîҀ±$LVVHOOHIROLDLUHDYHFFROOpWqUHV î±)OHXUî±%DVHGHODÀHXUFRXSHORQJLWXGLQDOHPRQWUDQWOHGLVTXHOREpî± 3LVWLOWrWHGXSLVWLOHWWURLVpWDPLQHVî±)UXLWîҀ±*UDLQHVîҀ±'pWDLOGHODJUDLQH et de l’embryon (× ¾). (1-2 : J. Louis 5540 ; 3-5 : J. Louis 12857 ; 6-8 : J. Louis 2103 ). Dessin par Piet*
+
 ## Notes
 
 <!-- TODO:notes -->

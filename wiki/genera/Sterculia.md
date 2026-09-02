@@ -37,6 +37,38 @@ The genus Sterculia, for which the need for a comprehensive revision is felt, co
 
 *St. foetida* L., from Asia, is the type species of the genus.
 
+## Key to the species
+
+(Sterculia and Eribroma.)
+
+1. Leaf base rounded or obtuse, rarely cordate (in this case, no palmately arranged basilar veins).
+
+2. 8-16 pairs of pinnate veins; leaves glabrous.
+
+Limb less than twice as long as wide; 8-12 pairs of pinnate veins..... 1. Eribroma oblonga.
+Limb more than twice as long as wide; 11-16 pairs of pinnate veins... for reference Sterculia (gen.?) rhinopetala.
+2'. 3-7 pairs of pinnate veins; leaves pubescent below.
+
+1'. Leaf base strongly cordate; 5-9 palmately arranged basilar veins;
+8-12 pairs of non-basilar pinnate veins..... 2. St. bequaerti
+
+---
+
+KEY TO SPECIES BY FLOWERS
+
+(Sterculia and Eribroma.)
+
+1. Calyx with free sepals, widely spreading, with reflexed apex, very densely hairy on the upper surface..... 1. Eribroma oblonga.
+1'. Calyx campanulate; lobes more or less erect, sometimes reversed.
+
+2. Calyx lobes bearing near the apex and on the internal side, a hairy appendage folded toward the interior; anthers subpedicellate and arranged almost regularly in two rows for reference Sterculia (gen.?) rhinopetala.
+
+2'. Lobes without appendage; anthers sessile and irregularly grouped in a spherical aggregate.
+
+3. Lobes united and coherent apically; external pubescence of the calyx dense..... I. St. tragacantha.
+
+3'. Lobes erect or reversed, not coherent; external pubescence sparse or scattered..... 2. St. bequaerti.
+
 ## Species in region
 
 | Species | Vol | Pages |

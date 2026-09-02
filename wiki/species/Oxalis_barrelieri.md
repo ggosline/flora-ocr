@@ -32,6 +32,12 @@ native to tropical America, but introduced into many tropical countries; in Afri
 
 in gardens, along roads, plantations and villages, along rivers, in partially shaded places. Use: The leaves are eaten and valued for their sour taste. B: Hiepko & Scholz (1977), Kabuye (1971), Lejoly (1980), Veldkamp BIBLIOGRAPHY (1971)
 
+## Figures
+
+![Oxalis barrelieri](../sources/Oxalidaceae_vol38_liteparse/figures/fig_026_p0049.png)
+
+*Plate 10: Oxalis barrelieri: 1. Plant (×½). – 2. Flower (×2.5). – 3. Fruit (×2.5). (1-3: Lisowski 52546). Reproduced with permission from the National Botanic Garden of Belgium (©), from*
+
 ## Notes
 
 <!-- TODO:notes -->

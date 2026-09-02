@@ -33,6 +33,24 @@ Other specimen studied (paratype) : van der Maesen, Louis & de Bruijn 5532 *DERQ
 
 A B D C E F G Flower and bud. – Voacanga micrantha '7LJHÀRULIqUH(,QÀRUHVFHQFH± Voacanga lanceolata : F, *,QÀRUHVFHQFH Photos by Nicolas Texier A B northeast of Lastoursville, Gabon, E hoarfrost Bidault, C Mabounié, Gabon, Jean-Pierre Vandeweghe D E P N Loango, Gabon, Vincent Droissart, F Mbam Minkom, Cameroon, G Reserve d'Ebo, Cameroon
 
+## Figures
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_235_p0264.jpeg)
+
+*Figure 15 . Voacanga bambidiensis $,QÀRUHVFHQFH%)OHXUYXHGHIDFH± Voacanga bidaultii : C.*
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_236_p0264.jpeg)
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_237_p0264.jpeg)
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_238_p0264.jpeg)
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_239_p0264.jpeg)
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_240_p0264.jpeg)
+
+![Voacanga bambidiensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_241_p0264.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

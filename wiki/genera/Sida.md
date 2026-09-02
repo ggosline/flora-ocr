@@ -59,6 +59,26 @@ the base, apex obtuse and base cuneate; calyx provided with farinose hairs and
 
 base of the vein distinctly swollen; flowers often in pseudo-fascicles ... S. rhombifolia
 
+## Key to the species
+
+1. - Limb cordate, plant with hairs 1.5–2 mm ............................................ S. urens
+- Limb with rounded, cuneate base, not cordate, plant with hairs less than
+1.5 mm .................................................................................................................... 2
+2. - Limb linear, at least 10 times longer than wide; inflorescences terminal
+.................................................................................................................... S. linifolia
+- Limb narrowly elliptic or broader; inflorescences axillary .................... 3
+3. - Limb obliquely ovate, very variable in size (presence of leaves less than
+1 cm in length), with rounded base and obtuse apex, plant prostrate or
+erect; mericarps not or briefly apiculate .......................................... S. ovata
+- Limb oblong-lanceolate or rhombic to ovate, with acuminate or if obtuse apex, with
+cuneate base, plant erect; mericarps with 2 distinct awns ........................... 4
+4. - Leaves, at least the upper ones, distichous; limb narrowly elliptic to
+ovate, with margin dentate to the base, apex acute and base rounded;
+calyx glabrescent; flowers mostly solitary................................................... S. acuta
+- Leaves spiral; limb rhombic to oblong-lanceolate, with margin entire towards the
+base, apex obtuse and cuneate base; calyx furnished with farinose hairs and base of
+the vein distinctly swollen; flowers often in pseudo-fascicles ... S. rhombifolia
+
 ## Species in region
 
 | Species | Vol | Pages |

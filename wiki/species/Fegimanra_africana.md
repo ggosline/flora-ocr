@@ -38,6 +38,12 @@ edge of coastal savanna on sand, mangrove forest; at 0–5 m altitude. Use: The 
 
 Bovo-bwa-manga (benguè) ; Mugaganu (balumbu) ; Muwagana (ngowé) ; Ovógóntsyuwas (mpongwè) ; Owagana (nkomi, orungu). Bi : Engler (1921), Raponda-Walker & Sillans (1961). B liographie
 
+## Figures
+
+![Fegimanra africana](../sources/Anacardiaceae_vol50_liteparse/figures/fig_013_p0015.png)
+
+*Plate 3 . Fegimanra africana : 1. Flowering branch (× ⅓). – 2. Leaf, upper surface (× 1). – 3. Floral bud (× 5). – 4. Male flower (× 5). – 5. Idem, longitudinal section (× 5). – 6. Pollen grains (× 300). – 7. Pistil and staminode of the female flower (× 6). – 8. Young fruit (× 1). – 9. Ripe fruit with cupule, transverse section (× 2½). Drawing reproduced from Engler (1921).*
+
 ## Notes
 
 <!-- TODO:notes -->

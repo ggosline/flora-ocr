@@ -36,6 +36,18 @@ Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola
 
 primary and secondarized forest; in Gabon, at 0–600 m altitude, elsewhere, up to 1050 m. B: Breteler (2013), Lejoly & Lisowski (1985). Bibliography
 
+## Figures
+
+![Calycobolus campanulatus](../sources/Convolvulaceae_vol46_liteparse/figures/fig_017_p0022.png)
+
+*Plate 7. Calycobolus campanulatus: 1. Flowering branch. – 2. Leaf. – 3. Detail of leaf, with indument of lower surface. – 4. Flower. – 5. Gynoecium with internal sepals. – 6. Corolla open with gynoecium. – 7. Two stamens on the corolla. – 8, 9. Fruit. – 10. Fruit, one sepal removed. (1, 3–7: Wieringa et al. 4431; 2: Breteler 8003; 8: Wieringa et al. 6072; 9, 10: Breteler & Breteler-Klein Breteler 12335).*
+
+![Calycobolus campanulatus](../sources/Convolvulaceae_vol46_liteparse/figures/fig_018_p0023.jpeg)
+
+*Figure 1. A. Calycobolus campanulatus , route entre Mitzic et Médouneu, photo par Paul Maas. –*
+
+![Calycobolus campanulatus](../sources/Convolvulaceae_vol46_liteparse/figures/fig_019_p0023.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

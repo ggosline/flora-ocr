@@ -35,6 +35,12 @@ widely distributed in the tropical regions of West and Central Africa, rare in E
 
 at the margins of temporary pools, at the edge of lakes and marshes and waterways; in Gabon, at 0–500 m altitude, up to 1400 m elsewhere. Taxonomic note: recognized by its annual habit, its style with 2 branches and its achenes compressed dorso-ventrally; it is more often confused with species of the subgenus Pycreus than with other species of the subgenus Cyperus. However, species of the former have achenes compressed laterally. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Cyperus pustulatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_055_p0073.png)
+
+*Plate 43. Cyperus pustulatus. A. Plant. – B. Plate 44. Cyperus rotundus. A, B. Base of the*
+
 ## Notes
 
 <!-- TODO:notes -->

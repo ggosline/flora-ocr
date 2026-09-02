@@ -34,6 +34,12 @@ Dense forests, secondary forests; at 200–450 m elevation
 
 This is the first record of this species for the flora of Gabon. Bibliography: Aubréville (1956), Hawthorne & Jongkind (2006), Huber et al. (1963), Lisowski (2009), Meerts (2020a, 2020b)
 
+## Figures
+
+![Vitex oxycuspis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_091_p0112.png)
+
+*Plate 30 . Vitex oxycuspis : 1. Leaflet. – Vitex rivularis : 2. Leaf and inflorescence. – 3. Flower. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

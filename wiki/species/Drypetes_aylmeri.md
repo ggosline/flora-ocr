@@ -44,11 +44,11 @@ Aubréville (1959), Keay (1958), Quintanar et al. (2021b)
 
 ![Drypetes aylmeri](../sources/Putranjivaceae_vol57_paddle/figures/fig_080_p0124.png)
 
-*Figure 7. Drypetes diopa: A. Rameau et fruits; B, Sommet du fruit à stigmate semi-persistent; C, Base du limbe foliaire. – Drypetes arborescens: D, Feuilles; E, Inflorescence mâle. – Drypetes aylmeri: F, Inflorescence mâle; G, Rameau florifère mâle. – Drypetes bipindensis: H, Inflorescence mâle; I, Stipule et base de la feuille; J, Rameau florifère mâle. Photos A par E. Bidault (Gabon, Bidault 4247), B par D. Harris (République Centrafricaine, Harris 8178), C par E. Bidault (Gabon, Bidault 4247), D, E par D. Nguema (Gabon, Nguema 1413), F, G par E. Bidault (Gabon, Bidault 2236), H-J par E. Bidault (Gabon, Bidault 5349).*
+*Figure 7. Drypetes diopa: A. Branch and fruits; B, Apex of the fruit with semi-persistent stigma; C, Base of the leaf limb. – Drypetes arborescens: D, Leaves; E, Male inflorescence. – Drypetes aylmeri: F, Male inflorescence; G, Male flowering branch. – Drypetes bipindensis: H, Male inflorescence; I, Stipule and leaf base; J, Male flowering branch. Photos A by E. Bidault (Gabon, Bidault 4247), B by D. Harris (Central African Republic, Harris 8178), C by E. Bidault (Gabon, Bidault 4247), D, E by D. Nguema (Gabon, Nguema 1413), F, G by E. Bidault (Gabon, Bidault 2236), H-J by E. Bidault (Gabon, Bidault 5349).*
 
 ![Drypetes aylmeri](../sources/Putranjivaceae_vol57_paddle/figures/fig_082_p0127.png)
 
-*Planche 40. Drypetes aylmeri: 1. Rameau feuillé. – 2. Fleur mâle, diagramme. – 3. Infrutescences. – 4. Fleur femelle. – 5. Fleur femelle, sépales enlevés. Dessin par A. Aubréville, Muséum nationale d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Aubréville (1959).*
+*Plate 40. Drypetes aylmeri: 1. Leafy branch. – 2. Male flower, diagram. – 3. Infructescences. – 4. Female flower. – 5. Female flower, sepals removed. Drawing by A. Aubréville, National Museum of Natural History, Paris (©), reproduced with permission from Aubréville (1959).*
 
 ## Notes
 

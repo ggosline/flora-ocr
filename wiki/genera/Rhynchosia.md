@@ -35,6 +35,19 @@ B: De la Estrella et al. (2010), Fortunato (2000), Grear (1978), Hauman (1954c),
 
 ................................................................................................. R. densiflora subsp. debilis
 
+## Key to the species
+
+1. - Climbing herb rather delicate, with slender stem; raceme subsessile, dense, capitate; corolla yellow; seed brown-red with black or almost black spots ................................................................................................. R. densiflora subsp. debilis
+- Climbing herb rather robust; raceme pedunculate, spiciform, lax; corolla cream, greenish or yellow, striped with purple; seed metallic blue ......................................... 2
+2. - Calyx with lobes 3–4 × 1 mm, subequal; leaflets with blade cordate at base R. gabonensis
+- Calyx with lobes distinctly unequal, the upper ones ≥ 9 mm long; leaflets with blade cuneate to subcordate at base .............................................................................................. 3
+3. - Leaflets with blade glabrous or almost glabrous beneath ..........................................................4
+- Leaflets with blade pubescent to velvety beneath ........................................................... 5
+4. - Upper calyx lobe 15–18 mm long, greatly widened toward the apex and scarcely bilobed; blade of leaflets with acumen reaching 15–22 mm long (to be sought in Gabon) .................................................................................................... R. pycnostachya
+- Upper calyx lobe 6–8 mm long, not widened at the apex and clearly bilobed; blade of leaflets with acumen reaching 10 mm long ............... R. mannii
+5. - Calyx with tube 2–3 mm long, lateral lobes up to ⅓ as long as the upper; branches with white pubescence; standard 12–15 mm long (including the claw) .......................................................................................................... R. preussii
+- Calyx with tube 5–6 mm long, lateral lobes reaching at least ½ the length of the upper; branches with ferruginous pubescence; standard 18–22 mm long (including the claw) ............................................................................... R. hirta
+
 ## Species in region
 
 | Species | Vol | Pages |

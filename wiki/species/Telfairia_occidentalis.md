@@ -54,11 +54,11 @@ Keraudren (1967), Keraudren-Aymonin (1975), Odiaka & Schippers (2004), Raponda-W
 
 ![Telfairia occidentalis](../sources/Cucurbitaceae_vol57_paddle/figures/fig_068_p0100.png)
 
-*Figure 6. Peponium vogelii (Usambara, Tanzania): A. Tige florifère mâle. – Ruthalicia longipes (Kenema, Sierra Leone): B. Tige florifère mâle. – Telfairia occidentalis (Rhoko, Cross River State, Nigeria): C. Fleur mâle, D. Fruit mûr et bouton floral femelle. – Trichosanthes cucumerina var. anguina (Rhoko, Cross River State, Nigeria): E. Fleur mâle. Photos A-E par Hanno Schaefer.*
+*Figure 6. Peponium vogelii (Usambara, Tanzania): A. Male flowering stem. – Ruthalicia longipes (Kenema, Sierra Leone): B. Male flowering stem. – Telfairia occidentalis (Rhoko, Cross River State, Nigeria): C. Male flower, D. Mature fruit and female flower bud. – Trichosanthes cucumerina var. anguina (Rhoko, Cross River State, Nigeria): E. Male flower. Photos A-E by Hanno Schaefer.*
 
 ![Telfairia occidentalis](../sources/Cucurbitaceae_vol57_paddle/figures/fig_071_p0106.png)
 
-*Planche 35. Telfairia occidentalis: 1. Tige et feuille (×3/4). – 2. Bouton de la fleur mâle (×2/3). – 3. Fleur mâle (×1/2). – 4. Androcèe (×2/3). – 5. Fleur femelle (×1/2). – Trichosanthes cucumerina var. anguina: 6. Tige florifère (×3/3). – 7. Jeune fleur mâle ouverte (×2). – 8. Étamine, vue dorsale (×4). – 9. Fleur femelle ouverte, pétales coupés (×2). – 10. Graine (×1). (1-5: J. & A. Raynal 12043; 6-10: J. & A. Raynal 12041). Dessin par Gisèle Chypre (1-5) et par M.D. Bergasse (6-10), Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 35. Telfairia occidentalis: 1. Stem and leaf (×3/4). – 2. Bud of the male flower (×2/3). – 3. Male flower (×1/2). – 4. Androecium (×2/3). – 5. Female flower (×1/2). – Trichosanthes cucumerina var. anguina: 6. Flowering stem (×3/3). – 7. Young male flower opened (×2). – 8. Stamen, dorsal view (×4). – 9. Female flower opened, petals cut (×2). – 10. Seed (×1). (1-5: J. & A. Raynal 12043; 6-10: J. & A. Raynal 12041). Drawing by Gisèle Chypre (1-5) and by M.D. Bergasse (6-10), Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

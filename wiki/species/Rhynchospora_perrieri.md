@@ -33,6 +33,12 @@ widespread but scattered in tropical Africa and Madagascar; rare or poorly known
 
 marshes and wet places, sometimes along watercourses; in Gabon and elsewhere, at 0–500 m altitude. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Raynal (1971), Robinson (1961a)
 
+## Figures
+
+![Rhynchospora perrieri](../sources/Cyperaceae_vol44_liteparse/figures/fig_173_p0196.png)
+
+*Planche 123 . Rhynchospora holoschoenoides . A. Planche 124 . Rhynchospora perrieri . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

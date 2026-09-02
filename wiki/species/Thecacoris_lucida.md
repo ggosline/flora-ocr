@@ -33,6 +33,12 @@ Gabon, Republic of Congo, Democratic Republic of Congo, Uganda and Angola (Cabin
 
 primary and secondarized forest; in Gabon, at 0–600 m altitude, elsewhere up to 1300 m. b : Léonard (1995a), Smith (1987). Bibliography
 
+## Figures
+
+![Thecacoris lucida](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_034_p0089.png)
+
+*Plate 28. Thecacoris lucida: A. Male flowering branch (× ½). ‒ B. Male flower, one sepal and one stamen removed to show a petal (p) (× 10). ‒ C. Female flowering branch (× ½). ‒ D. Female flower, one sepal removed (× 10). ‒ E. Branch with fruiting inflorescence (× 1). ‒ F. Capsule (× 3). ‒ G. Bivalved shell (× 3). ‒ H. Seed (× 3). (A: Mildbraed 2856; B: Wagemans 1623; C: Troupin 5331; D:*
+
 ## Notes
 
 <!-- TODO:notes -->

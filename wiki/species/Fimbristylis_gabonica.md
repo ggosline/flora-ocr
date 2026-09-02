@@ -33,6 +33,12 @@ Gabon, Democratic Republic of the Congo, Uganda; rare in Gabon, found only in Ng
 
 in seasonally humid grasslands; in Gabon, probably below 500 m altitude, up to 1140 m in East Africa. Taxonomic note: recognized by its thick creeping or clustered rhizomes and few spikelets. It somewhat resembles F. scabrida, but without the fibrous base. It is perhaps closer to F. ferruginea, but without the pubescent glumes of the latter. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010)
 
+## Figures
+
+![Fimbristylis gabonica](../sources/Cyperaceae_vol44_liteparse/figures/fig_121_p0145.png)
+
+*Planche 93 . Fimbristylis ferruginea . A. Plante. – Planche 94 . Fimbristylis gabonica . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

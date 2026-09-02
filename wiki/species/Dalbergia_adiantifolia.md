@@ -43,6 +43,12 @@ flooded forest galleries during flood periods, on sandy soil; at 120–150 m alt
 
 Other specimens studied: J.J.F.E. de Wilde 11448 (BR, WAG), Gabon, Lopé Forest Reserve, Lopé, on bank of the Ogooué River, 0°05' S 11°36' E, 26 November 1995 (fl). This species is very close to D. obliquifoliolata and D. bakeri. It differs from them by its leaflets with lamina glabrous on both surfaces, which are also generally more numerous and smaller than in D. obliquifoliolata, and emarginate at the apex unlike D. bakeri. Moreover, its calyx is shorter than in D. obliquifoliolata and more deeply toothed than in D. bakeri. Unlike these two species, the plant appears to be inodorous, at least in the dry state. The species name adiantifolia evokes the resemblance of the leaves to certain ferns of the genus Adiantum (Pteridaceae)
 
+## Figures
+
+![Dalbergia adiantifolia](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_043_p0118.png)
+
+*Plate 35 : Dalbergia adiantifolia : 1. Flowering branch. – 2. Leaflet, lower surface. – 3. Flower. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

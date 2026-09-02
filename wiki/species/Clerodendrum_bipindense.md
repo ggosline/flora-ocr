@@ -30,6 +30,12 @@ Nigeria, Cameroon, Equatorial Guinea (Bioko), Gabon, Republic of the Congo and D
 
 Forests; in Gabon at ± 50 m altitude, elsewhere at 420 m. B: Cheek et al. (2004), Gürke (1900), Huber et al. (1963). Bibliography
 
+## Figures
+
+![Clerodendrum bipindense](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_020_p0016.jpeg)
+
+*Figure 1 . Achyrospermum oblongifolium : A. Inflorescence. – Cantinoa americana : B. Inflorescence. – Clerodendrum bipindense : C. Inflorescence. – Clerodendrum capitatum : D. Inflorescence. – Clerodendrum excavatum : E. Flowering stem ; F. Inflorescence, view from below. Photos by Ehoarn Bidault (A :*
+
 ## Notes
 
 <!-- TODO:notes -->

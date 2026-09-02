@@ -35,6 +35,12 @@ evergreen forest, forest margins and trails, swamp forest, secondary forest, rar
 
 C. africana L. is another species with yellow flowers, fairly widespread in Africa. This species lacks the reddish pubescence (notably on the margins of the spathes and/or on the sheaths), and the spathes are solitary, whereas the spathes of C. capitata are generally clustered at the stem apex. C. africana has not yet been recorded from Gabon. B: Brenan (1968b), Brunel et al. (1984), van der Burg (2006), Cabezas et al. (2014), Faden (2012), Sosef et al. (2006), Vandeweghe et al. (2016), Vanden Berghen (1988)
 
+## Figures
+
+![Commelina capitata](../sources/Commelinaceae_vol55_liteparse/figures/fig_020_p0028.jpeg)
+
+*Figure 2 . Commelina capitata (Ivindo, Gabon, Bidault et al. 2039 ) : A. Tiges florifères, (Birougou,*
+
 ## Notes
 
 <!-- TODO:notes -->

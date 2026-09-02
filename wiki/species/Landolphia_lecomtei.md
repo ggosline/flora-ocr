@@ -24,6 +24,12 @@ Pistil (× 6). – 8. Stamens, seen ventral (left), dorsal (centre) and lateral 
 
 Landolphia leptantha K.Schum. & M.Pers. Wageningen Agric. Univ. Pap. 92(2): 120 (1992). Aphanostylis leptantha (K.Schum.) Pierre, Bull. Soc. Linn. Paris sér. 2, 11: 89 (1898). Large liana; branches with lenticels, pubescent or almost glabrous. Leaf: petiole 3–8 mm, liberate elliptic, 0.7–0.9 times as long as wide, 0.5–12 × 0.3–7 cm, cuneate to acute at base, caudate at summit, glossy, glabrous on both faces or with some scattered hairs; secondary veins 5 to 8 pairs, tertiary venation reticulate. Inflorescence axillary, with 1 to 7 flowers, pedicel reaching 5–8 mm, pubescent, bracteate, sepals 1.5–3 mm long. Flower weakly fragrant; pedicel 1–3 mm; calyx with subequal lobes, triangular to ovate, 0.9–1.3 times as long as wide, 1–2 × 0.8–1.5 mm, acute at summit, sparsely pubescent on exterior, glabrous on interior, ciliate; corolla white or cream, 5–9 mm long in mature bud, with barrel-shaped tube, 1.1–2.2 mm long, 1–1.5 mm wide, glabrous on exterior, interior glabrous or pubescent near insertion of stamens, wall not thickened, with lobes narrowly oblong, 2.8–5 times as long as the tube, 4.2–6.3 times as long as wide, 4–8 × 0.5–1.2 mm, completely glabrous; stamens scarcely or distinctly included, inserted at 0.35–0.55 of the tube length, anther subsessile, 0.7–1.1 mm long, glabrous; pistil 3.5–5.5 mm long, ovary pubescent up to 0.3–0.5 of its length from the base, otherwise glabrous; style very short or absent. Fruit ellipsoid to ovoid, 3.5–5 × 1.3–3.4 cm, orange with brown stains, smooth, with 1 to 8 seeds; wall thick 1–2 mm. Distribution Nigeria, Cameroon, Equatorial Guinea and Gabon in Gabon. Estuary. Ecology Primary and secondary forests in Gabon only, at low altitude, elsewhere up to 700 m. B: Persoon et al. (1992). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia lecomtei](../sources/Apocynaceae_vol59_liteparse/figures/fig_115_p0133.jpeg)
+
+*Planche 56 . Landolphia lecomtei 5DPHDXÀRULIqUHîҀ±,QÀRUHVFHQFHHQYULOOHîҀ± )HXLOOHIDFHLQIpULHXUHîҀ±)OHXUî±&DOLFHî±)OHXUFRXSHORQJLWXGLQDOHî±*
+
 ## Notes
 
 <!-- TODO:notes -->

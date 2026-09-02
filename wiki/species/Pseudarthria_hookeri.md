@@ -38,6 +38,12 @@ Gardens, Kew (©), reproduced with permission from Verdcourt (1971d).
 
 In Gabon, collected only once. This is var. hookeri; var. argyrophylla Verdc., from West Africa to Uganda, has leaflets with a limb bearing dense silvery tomentum below and sessile pods. Bi: Burkill (1995), Léonard (1954b), Pellegrin (1949), Verdcourt (1971d). Bibliography
 
+## Figures
+
+![Pseudarthria hookeri](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_113_p0323.png)
+
+*Plate 105: Pseudarthria hookeri var. hookeri: 1. Flowering branch (× ⅔). – 2. Flower (× 3). – 3. Calyx, open (× 3). – 4. Standard (× 4). – 5. Wing (× 4). – 6. Keel (× 4). – 7. Androecium (× 4). – 8. Gynoecium (× 4). – 9. Pod (× 3). (1–8: Tanner 4187; 9: Tanner 4810). Drawing by Derrick Erasmus, Royal Botanic*
+
 ## Notes
 
 <!-- TODO:notes -->

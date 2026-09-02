@@ -35,6 +35,14 @@ in stagnant or slow-flowing waters, often to a depth of 1 m; in Gabon, at 0–60
 
 B. Node with branches in bundles. – C. Part of C. Base of the plant. – D. Proliferating stems. – E. the stem. – D. Details of an open stem. – E. Spikelet F. Spikelets. – G. Glume with fruit. – H. Fruit with flower. – F, G. Different views of the glumes. – H. Persistent perianth segments. Original drawing Bracteoles. – I. Stamens. – J. Ovary with style. by Richard W. Haines ©. – J. Fruit. Original drawing by E.M. Stones ©, reproduced with permission from Nelmes & Baldwin (1952).
 
+## Figures
+
+![Eleocharis naumanniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_111_p0135.png)
+
+*Planche 85 . Eleocharis naumanniana . A. Plante. – Planche 86 . Eleocharis retroflexa . A, B. Plante. –*
+
+![Eleocharis naumanniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_112_p0135.png)
+
 ## Notes
 
 <!-- TODO:notes -->

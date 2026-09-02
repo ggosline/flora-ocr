@@ -32,6 +32,12 @@ Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, known from Ngoun
 
 in Gabon at 150–200 m elevation. B: Cusset (1984, 1987a), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Ledermanniella pusilla](../sources/Podostemaceae_vol51_liteparse/figures/fig_036_p0044.png)
+
+*Plate 18. Ledermanniella pusilla : 1. General view (× 4). – 2. Acaulescent individual (× 10). – 3. Spathe (× 17). – 4. Flower freed from the spathe (× 24). – 5. Flower at anthesis (× 12). – 6. Open flower (× 17).*
+
 ## Notes
 
 <!-- TODO:notes -->

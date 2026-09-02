@@ -30,6 +30,12 @@ Species with wide distribution, almost pantropical, but probably introduced to A
 
 Species of humid places such as ponds, marshes, river banks and tidal creeks, at 0–1500 m altitude; in Gabon collected only once, but probably fairly common. Taxonomic notes: The West African species, S. dalzielii N.E.Br., is distinguished from S. zeylanica by the sessile, smaller leaves rounded at the apex, the shorter and oblong spikes, and the pink corolla. B: Airy Shaw (1968), Hepper (1963a), Thulin (1973, 1983). IBLIOGRAPHY
 
+## Figures
+
+![Sphenoclea zeylanica](../sources/Sphenocleaceae_vol38_liteparse/figures/fig_031_p0057.png)
+
+*Planche 12. Sphenoclea zeylanica : 1. Plante. – 2. Inflorescence. – 3. Axe de l’inflorescence. – 4-5.*
+
 ## Notes
 
 <!-- TODO:notes -->

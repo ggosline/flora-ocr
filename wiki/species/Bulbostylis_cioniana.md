@@ -35,6 +35,16 @@ Tropical Africa and North Africa; formerly also in Italy; rare in Gabon, found i
 
 In dry and sandy places, particularly frequent in the sandy bed of seasonal rivers and watercourses; in Gabon, up to approximately 400 m altitude. Taxonomic note: close to B. hispidula, but it is usually more slender and has a shorter lifespan. It often has an anthela with more numerous spikelets and paler brown, never with dark reddish-brown spots. B: Goetghebeur & Coudijzer (1984b), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Bulbostylis cioniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_015_p0021.jpeg)
+
+*Figure 2. Achenes of a) Bulbostylis andongensis (Le Testu 8964, Woleu-Ntem, Gabon) and b) Bulbostylis cioniana (Breteler 13064, Moyen-Ogooué, Gabon). 4‒8 cm × 0.2‒0.4 mm, flat or channeled, glabrous or bearing some spiny hairs (sometimes numerous near the apex). Inflorescence in a head of 3‒10 sessile and spreading spikelets (in a cross, if there are only 3‒4 spikelets); main involucral bracts 3‒12 mm long, often erect. Spikelet 3‒8 × 1‒1.5 mm, acute; glumes reddish-brown with the central vein and margin paler, acute or subulate, glabrous and shiny.*
+
+![Bulbostylis cioniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_017_p0023.png)
+
+*Planche 7. Bulbostylis cioniana. A. Plante. – B. Planche 8. Bulbostylis coleotricha. A. Plante.*
+
 ## Notes
 
 <!-- TODO:notes -->

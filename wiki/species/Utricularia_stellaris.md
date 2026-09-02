@@ -38,6 +38,32 @@ Tanzania, Zambia, Mozambique, Malawi, Zimbabwe, Angola, Botswana, Namibia, South
 
 Stagnant or slow-flowing waters in lakes, marshes and rivers; in Gabon at low altitude, in East Africa mainly between 0 and 1700 m. B : Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_120_p0122.jpeg)
+
+*Figure 14. Utricularia simulans (Venezuela, Gran Sabana) : A-D. – Utricularia stellaris : E. (Photos A-D par A. Fleischmann © ; E, par J.P. Vande weghe ©).*
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_121_p0122.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_122_p0122.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_123_p0122.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_124_p0122.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_125_p0123.png)
+
+*Plate 43. Utricularia stellaris: 1, 2. Inflorescences (× 1). – 3. Secondary segments of leaf with utricles (× 8). – 4. Part of leaf auricle (× 30). – 5. Float (× 8). – 6. Transverse section of float (× 8). – 7. Bract (× 8). – 8. Flower, lateral view (× 8). – 9. Flower, face view (× 8). – 10. Calyx (× 8). – 9. Stamen (× 30). – 11. Fruit (× 8). – 12. Seed, basal view (× 30). – 13. Seed, lateral view (× 30). (1: Stanfield 160; 2: Faulkner K266; 3, 10: Deighton 5855; 4: Germain 6791; 5, 6: T.S. Jones 362; 7-9: Toussaint 905; 11: Adams & Akpable s.n.; 12, 13: Noble A30). Drawing by P. Taylor, Royal*
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_127_p0124.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_128_p0124.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_129_p0124.jpeg)
+
+![Utricularia stellaris](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_130_p0124.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -44,7 +44,7 @@ Jeffrey (1967), Keraudren (1967), Keraudren & Jeffrey (1967), Keraudren-Aymonin 
 
 ![Raphidiocystis jeffreyana](../sources/Cucurbitaceae_vol57_paddle/figures/fig_069_p0102.png)
 
-*Planche 33. Raphidiocystis jeffreyana: 1. Tige florifère mâle (×3/4). – 2. Inflorescence à fleurs mâles et femelles (×3/4). – 3. Bouton d'une fleur mâle (×4). – 4. Fleur mâle, ouverte (×2/2). – 5. Étamine (×2/3). – 6. Fleur femelle (×2/3). – 7. Graine, vue de face et de profil (×4). (1-7: Bates 1467). Dessin par F. Bagot, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 33. Raphidiocystis jeffreyana: 1. Male flowering stem (×3/4). – 2. Inflorescence with male and female flowers (×3/4). – 3. Bud of a male flower (×4). – 4. Male flower, opened (×2/2). – 5. Stamen (×2/3). – 6. Female flower (×2/3). – 7. Seed, front and lateral view (×4). (1-7: Bates 1467). Drawing by F. Bagot, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

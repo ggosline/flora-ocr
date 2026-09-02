@@ -39,6 +39,16 @@ evino (nom commercial) ; angona (fang) ; bopino (benga) ; déngónó (bakèlè) 
 
 There exist in Gabon forms with larger, more diffuse inflorescence, and with short calyx (2 mm in length), which were described under the name V. milnei W.Piep. Other forms, with the lower surface of leaflets greyish, shortly pubescent on the veins, were described under the name V. puberula Baker. The taxonomic value of these variations needs to be re-examined. For relationships with V. grandifolia, see note under that species. Bibliography: Arbonnier (2019), Cabral (2013), Hawthorne & Jongkind (2006), Huber et al. (1963), Lisowski (2009), Meerts (2020a, 2020b), Meunier et al. (2015), Raponda-Walker & Sillans (1961), Sales (2005), Vandeweghe et al. (2016), Verdcourt (1992)
 
+## Figures
+
+![Vitex doniana](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_073_p0099.jpeg)
+
+*Figure 5. Vitex agelaeifolia var. agelaeifolia : A. Flowering stem ; B. Stem with ant hole and inflorescence ; C. Flowers. – Vitex doniana : D. Leaves ; E. Fruits ; F. Flower. Photos by Anne-Hélène Paradis (A-C : Gabon, Mts Cristal), Richard De Cauwer (D : Dém. Rep. Congo) and Ehoarn Bidault (E : Gabon, south of Ndendé ; F : Gabon, Mbanda-Ndendé).*
+
+![Vitex doniana](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_080_p0103.png)
+
+*Plate 26 . Vitex doniana : 1. Flowering branch. – 2. Flower. – 3. Idem, longitudinal section. – 4. Ovary, longitudinal section. – 5. Idem, transverse section. – 6. Fruit. Drawing by William Trevithick (© ; 1, 4-6) and by A. Aubréville (2, 3), National Museum of Natural History, Paris (©), reproduced with permission from Aubréville (1956) and from Huber et al. (1963).*
+
 ## Notes
 
 <!-- TODO:notes -->

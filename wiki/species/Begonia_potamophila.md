@@ -30,6 +30,12 @@ western Cameroon, Gabon (Cristal Mountains), western Congo (Brazzaville)
 
 terrestrial or on moist rocky cliff faces in primary forest, sometimes in swampy habitat, often along streams and rapids; 0–800 m elevation. B: Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia potamophila](../sources/Begoniaceae_vol39_liteparse/figures/fig_025_p0030.png)
+
+*Plate 10. Begonia potamophila: 1. Plant in flower and fruit (× ⅔). – 2. ♀ Flower (× 2). – 3. Styles and stigmas (× 4). – 4, 5. Fruits (× 2). (1: Breteler, Jongkind & Wieringa 9892; 2, 3: plant cultivated in greenhouse under no. 88PTGA017; 4: van Veldhuizen 1288, plant cultivated in greenhouse; 5: Breteler 8934). Drawing by W W, National Herbarium of the Netherlands – Wageningen branch.*
+
 ## Notes
 
 <!-- TODO:notes -->

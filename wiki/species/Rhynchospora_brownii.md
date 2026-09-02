@@ -33,6 +33,16 @@ scattered in tropical Africa (Cameroon, Gabon, Democratic Republic of the Congo,
 
 swamps and riverbanks ; in Gabon, at 0–100 m altitude, up to 1800 m in East Africa. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Raynal (1971), Robinson (1961a)
 
+## Figures
+
+![Rhynchospora brownii](../sources/Cyperaceae_vol44_liteparse/figures/fig_163_p0185.jpeg)
+
+*Figure 21. Akènes de a) Mapania soyauxii ( Thery 108 , Ogooué-Maritime, Gabon) et b) Rhynchospora brownii ( Alers & Blom L 164 , Ogooué-Ivindo, Gabon). ope*
+
+![Rhynchospora brownii](../sources/Cyperaceae_vol44_liteparse/figures/fig_165_p0189.png)
+
+*Planche 117 . Remirea maritima . A. Plante. – B. Planche 118 . Rhynchospora brownii . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

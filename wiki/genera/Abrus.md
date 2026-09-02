@@ -41,6 +41,21 @@ b: Boutique (1954), Breteler (1960), Lewis et al. (2005), Pellegrin (1949), Verd
 
 - Bract and bracteole up to half the length of the calyx; corolla yellow, white or lilac; leaflets in 5 to 7 pairs (outside Gabon up to 20 pairs), with papyraceous limb,
 
+## Key to the species
+
+1. - Inflorescence strongly curved; pod slightly swollen, with papillose surface;
+seed red, with black base; leaflets with blade glabrous to glabrescent above, with
+light and appressed pubescence below; bracts and bracteoles ± 1 mm long . A. precatorius
+- Inflorescence flexible, straight or slightly curved; pod flattened, without papillae; seed
+dark brown; leaflets with blade pubescent at least below; bracts and bracteoles
+≥ 1.5 mm long ..................................................................................................... 2
+2. - Bract and bracteole equalling or slightly exceeding the calyx; corolla purple; leaflets in 10
+to 14 pairs, with leathery blade, with greyish pubescence persisting on both faces
+...................................................................................................................... A. canescens
+- Bract and bracteole up to half the length of the calyx; corolla yellow, white
+or lilac; leaflets in 5 to 7 pairs (outside Gabon up to 20 pairs), with papyraceous blade,
+glabrous to pubescent above, with loose to dense pubescence below .............. A. fruticulosus
+
 ## Species in region
 
 | Species | Vol | Pages |

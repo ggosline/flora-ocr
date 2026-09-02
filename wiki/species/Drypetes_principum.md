@@ -44,11 +44,11 @@ Exell (1944), Keay (1958), Pax & Hoffmann (1922), Quintanar et al. (2021b), Sose
 
 ![Drypetes principum](../sources/Putranjivaceae_vol57_paddle/figures/fig_104_p0158.png)
 
-*Figure 11. Drypetes principum: A, Rameau feuillé; B, Jeunes fruits. – Drypetes stipularis: C, Boutons floraux femelles; D, Stipule; E, Fruits. – Drypetes umbricola: F, Tronc. – Drypetes verrucosa: G, Inflorescence mâle; H, Stipule; I, Fruits; J, Rameau feuillé. Photos A, B par N. Texier (Gabon, Texier 1177), C par D. Harris (Rép. Congo, Harris 8874), D, E par D. Harris (Rép. Congo, Harris 9316), F par D. Harris (Rép. Centrafricaine, Harris 8810), G par B. Sonké (Gabon, Sonké 6041), H-J par E. Bidault (Gabon, Bidault 1940).*
+*Figure 11. Drypetes principum: A, Leafy branch; B, Young fruits. – Drypetes stipularis: C, Female flower buds; D, Stipule; E, Fruits. – Drypetes umbricola: F, Trunk. – Drypetes verrucosa: G, Male inflorescence; H, Stipule; I, Fruits; J, Leafy branch. Photos A, B by N. Texier (Gabon, Texier 1177), C by D. Harris (Rep. Congo, Harris 8874), D, E by D. Harris (Rep. Congo, Harris 9316), F by D. Harris (Central African Rep., Harris 8810), G by B. Sonké (Gabon, Sonké 6041), H-J by E. Bidault (Gabon, Bidault 1940).*
 
 ![Drypetes principum](../sources/Putranjivaceae_vol57_paddle/figures/fig_105_p0159.png)
 
-*Planche 52. Drypetes principum: 1. Rameau florifère. – 2. Bouton d'une fleur mâle. – Drypetes chevalieri: 3. Rameau fructifère. – 4. Gynécée. – 5. Fruit mûr. Dessin par A. Aubréville, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Aubréville (1959).*
+*Plate 52. Drypetes principum: 1. Flowering branch. – 2. Bud of a male flower. – Drypetes chevalieri: 3. Fruiting branch. – 4. Gynoecium. – 5. Ripe fruit. Drawing by A. Aubréville, National Museum of Natural History, Paris (©), reproduced with permission from Aubréville (1959).*
 
 ## Notes
 

@@ -34,6 +34,14 @@ in humid zones of grasslands, savannas and forest margins, on sands of the Baté
 
 a b
 
+## Figures
+
+![Fimbristylis splendida](../sources/Cyperaceae_vol44_liteparse/figures/fig_129_p0153.jpeg)
+
+*Figure 12. Akènes de a) Fimbristylis splendida ( Descoins 7623 , République du Congo) et b)*
+
+![Fimbristylis splendida](../sources/Cyperaceae_vol44_liteparse/figures/fig_130_p0153.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

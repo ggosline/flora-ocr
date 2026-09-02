@@ -34,6 +34,12 @@ widely distributed in the tropical regions of Africa and America, infrequent in 
 
 in mangroves or freshwater or brackish swamps; in Gabon, at sea level or at low altitude, up to 1000 m in East Africa. Taxonomic note: very similar to E. acutangula, but it has more numerous glumes and rather different achenes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Eleocharis mutata](../sources/Cyperaceae_vol44_liteparse/figures/fig_109_p0133.png)
+
+*Plate 83 . Eleocharis geniculata . A. Plant. Plate 84 . Eleocharis mutata . A. Plant. – B. Base – B. Top of the leaf sheath. – C. Young spikelet. and top of the spikelet. – C. Base of the spikelet. – D. – D. Mature spikelet. – E. Glume. – F. Flower. – G. Glume. – E. Fruit with style, filaments and segments of the*
+
 ## Notes
 
 <!-- TODO:notes -->

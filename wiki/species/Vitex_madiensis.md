@@ -39,6 +39,16 @@ disógu-di-bagwandji (bavarama, bapunu, bavungu, éshira) ; diyaga-di-bagwandji 
 
 A remarkable morphotype has been collected in Gabon, with all unifoliolate leaves, with ovate lamina, entirely beige tomentose on the lower surface. This form, widespread in the Sudanian region, was formerly treated at the rank of species (V. simplicifolia Oliv.) (e.g.: Huber et al. 1963). Given the existence of intermediates with the three-leaflet forms, recent authors place the two taxa in synonymy (Sales 2005; Sosef et al. 2006; Verdcourt 1992). The value of this taxon warrants further study. Bibliography: Arbonnier (2019), Hawthorne & Jongkind (2006), Huber et al. (1963), Lisowski (2009), Meerts (2020a, 2020b), Raponda-Walker & Sillans (1961), Sales (2005), Vandeweghe et al. (2016), Verdcourt (1992)
 
+## Figures
+
+![Vitex madiensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_083_p0108.jpeg)
+
+*Figure 6. Vitex gabunensis var. daubyi : A. Leaves, lower surface ; B. Inflorescence ; C. Fruits. – Vitex grandifolia : D. Leaf ; E. Flower. – Vitex madiensis subsp. madiensis : F. Flowering plant ; G. Flower. Photos by Ehoarn Bidault (A : Gabon, between Dibwangui and Lebamba ; B : Gabon, edge of the Foumana and the little Tsibil ; C-E : Gabon, Mts Cristal ; F, G : Gabon, Mouila-Ndendé).*
+
+![Vitex madiensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_090_p0111.png)
+
+*Plate 29 . Vitex madiensis subsp. madiensis : 1. Flowering branch ; 2. Flower ; 3. Open corolla ; 4. Gynoecium ; 5. Stamen. Drawing by Walter H. Fitch, reproduced from Oliver (1875).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -41,6 +41,12 @@ haricot poison de poisson (fr.) ; fish-poison bean, Vogel’s tephrosia (angl.) 
 
 Androecium (× 2). – 7. Base of the androecium (× 3). – 8. Base of the vexillary stamen (× 5). – 9. Gynoecium (× 1½). – 10. Idem, longitudinal section (× 1½). – 11. Pod, sectioned part (× ½). (1–10: Quarré 6165; 11: Pittery 433). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).
 
+## Figures
+
+![Tephrosia vogelii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_131_p0365.png)
+
+*Plate 123 : Tephrosia vogelii : 1. Flowering branch (× ½). – 2. Floral bud (× 1). – 3. Half of standard, inner surface (× 1). – 4. Wing, outer surface (× 1). – 5. Petal of the keel, outer surface (× 1). – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -31,6 +31,12 @@ Endemic to Gabon, known from a single collection in the Ogooué at Booué (Ogoou
 
 at ± 170 m elevation. B: Cusset (1984), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Ledermanniella nicolasii](../sources/Podostemaceae_vol51_liteparse/figures/fig_035_p0043.png)
+
+*Plate 17. Ledermanniella nicolasii . 1. General view (× 1). – 2. Inflorescence (× 10). – 3. Same inflorescence viewed from the other side (× 10). – 4. Flower at anthesis (× 17). – 5. Placenta (× 25). Drawing by C.*
+
 ## Notes
 
 <!-- TODO:notes -->

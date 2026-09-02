@@ -41,6 +41,12 @@ The single leaf is extremely variable in size and shape; it is probably greatly 
 
 1'. Corolla 10 to 13 mm long, weakly swollen in the lower part of the upper portion, but more or less straight ..... 2. A. diandrum.
 
+## Key to the species
+
+1. Corolla 20–30 mm long, weakly inflated at the lower part of the upper section and curved upward just below the opening ..... 1. A. strigosum.
+
+1'. Corolla 10–13 mm long, weakly inflated at the lower part of the upper section, but more or less straight ..... 2. A. diandrum.
+
 ## Species in region
 
 | Species | Vol | Pages |

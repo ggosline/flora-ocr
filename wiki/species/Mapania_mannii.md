@@ -32,6 +32,12 @@ Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; wid
 
 Primary and secondary forests, sometimes along rivers and watercourses; in Gabon, 40–600 m elevation, elsewhere up to 700 m. Taxonomic note: The form and size of leaves are variable. The species is close to M. amplivaginata, but its lower involucral bract does not have the characteristic suborbicular base. It also differs by larger involucral bracts and, under the lens, by longer floral bracts. M. mannii differs from M. testui by its larger inflorescence and its floral bracts ± of the same length. b : Simpson (1992). Bibliography subsp. bieleri (De Wild.) D.A.Simpson Revis. Mapania : 144 (1992). M. bieleri De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 3 : 165 (1910). Differs from the type by its slightly shorter spikes and by the keel of the 2 lower floral bracts not winged and hispid (not denticulate-hispid). However, it may not be justified to retain this subspecies. It has the same distribution as the type, but it is absent from Cameroon and rare in Gabon (only in Ogooué-Ivindo). b : Simpson (1992). Bibliography
 
+## Figures
+
+![Mapania mannii](../sources/Cyperaceae_vol44_liteparse/figures/fig_149_p0173.jpeg)
+
+*Figure 17. Akènes de a) Mapania mannii ( Breteler 11342 , Ogooué-Lolo, Gabon) et b) Mapania pallescens ( Sosef et al. 2304 , Ogooué-Maritime, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

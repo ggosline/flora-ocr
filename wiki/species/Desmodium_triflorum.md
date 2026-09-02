@@ -41,6 +41,12 @@ Creeping tick trefoil, Three-flower beggarweed (angl.). Usage : La plante peut s
 
 The specimen J.J. de Wilde et al. 875 exceptionally bears inflorescences 9 cm in length. b: Botton & Hallé (1958), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackin et al. (2001), van der Maesen (2006a), Pengelly (1992), Raponda-Walker & Sillans (1961), Schubert (1954, 1971), Setyowati-Indarto & Brink (1999b)
 
+## Figures
+
+![Desmodium triflorum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_065_p0177.png)
+
+*Plate 57 : Desmodium triflorum : 1. Habit. – 2. Leaves and stipules. – 3. Flower. – 4. Pod. Drawing by P.*
+
 ## Notes
 
 <!-- TODO:notes -->

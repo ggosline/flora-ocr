@@ -35,6 +35,12 @@ forests of various types, degradation savannas, fallows; in Gabon at 0–600 m a
 
 This represents the first record of this species for the flora of Gabon. Bibliography: Cabral (2013), Hawthorne & Jongkind (2006), Huber et al. (1963), Lisowski (2009), Meerts (2020a, 2020b), Sales (2005), Verdcourt (1992).
 
+## Figures
+
+![Vitex ferruginea](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_081_p0105.png)
+
+*Plate 27. Vitex ferruginea: 1. Leaf. – 2. Inflorescence. – 3. Corolla, longitudinal section. – 4. Calyx and ovary. – 5. Flower, longitudinal section, corolla removed. – 6. Fruit. – Vitex grandifolia: 7. Part of a leaf. – 8. Part of an inflorescence. – 9. Flower. – 10. Corolla, longitudinal section, gynoecium and anther. – 11. Ovary. – 12. Idem, transverse section. – 13. Fruit. – 14. Idem, transverse section. Drawing by A.*
+
 ## Notes
 
 <!-- TODO:notes -->

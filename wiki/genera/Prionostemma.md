@@ -47,6 +47,23 @@ puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
 
 ..... 1ter. P. delagoensis.
 
+## Key to the species
+
+1. Petals fimbriate-fringed.
+
+2. Sepals ciliolate or fimbriate; anther with chevron-shaped slit; 12-20 ovules per locule; pedicels glabrous; inflorescences with glabrous branchlets ... 1. P. fimbriata.
+
+2'. Sepals entire; anther with transverse slit; 9-14 ovules per locule; pedicels puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
+
+puberulent; inflorescences with puberulent branchlets .... 1bis. P. unguiculata.
+1'. Petals entire: anther with transverse slit.
+
+3. Sepals entire; pedicels finely puberulent ..... 1bis. P. unguiculata.
+
+3'. Sepals at least somewhat ciliolate; pedicels glabrous; 4-8 ovules per locule
+
+..... 1ter. P. delagoensis.
+
 ## Species in region
 
 | Species | Vol | Pages |

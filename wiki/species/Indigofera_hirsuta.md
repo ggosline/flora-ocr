@@ -41,6 +41,12 @@ indigotier hérissé (fr.) ; hairy indigo, rough hairy indigo (angl.) ; sókè (
 
 The var. pumila Baker, with petiole < 4 mm and leaflets with blade < 18 mm, is known from Nigeria and Angola. b: Cronquist (1954), Djarwaningsih (1997), Gillett (1971a), Pellegrin (1949), Rapondaibliography Walker & Sillans (1961)
 
+## Figures
+
+![Indigofera hirsuta](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_079_p0217.png)
+
+*Plate 71: Indigofera hirsuta var. hirsuta: 1. Fruiting branch (× ½). – 2. Stipules (× 1). – 3. Floral bud (× 5). – 4. Spread bud, calyx removed (× 10). – 5. Opened flower, corolla and one sepal removed (× 5). – 6. Gynoecium, longitudinal section (× 10). – 7. Pod (× 2). – 8. Seed (× 10). (1–8: Goossens 1525). Drawing by J.M. Lerinckx, Botanic Garden Meise (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

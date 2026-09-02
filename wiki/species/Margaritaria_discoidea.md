@@ -40,6 +40,12 @@ Uses: The wood is used as timber for the construction of huts and boats, but als
 
 bushveld peacock-berry, common pheasant-berry (angl.). Note taxonomique : Cette espèce est souvent subdivisée en sous-espèces ou en variétés, mais pour le Gabon, il n’y a pas de raison de le faire, parce que le matériel est assez uni forme et conforme au matériel type. b : Keay (1958), Radcliffe-Smith (1996b), Smith (1987). ibliographie
 
+## Figures
+
+![Margaritaria discoidea](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_022_p0054.png)
+
+*Plate 16. Margaritaria discoidea : A. Branch with male flowers. ‒ B. Stipules. ‒ C. Male flower. ‒*
+
 ## Notes
 
 <!-- TODO:notes -->

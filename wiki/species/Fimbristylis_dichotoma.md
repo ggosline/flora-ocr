@@ -39,6 +39,18 @@ in humid depressions of grassy areas, along roadsides, at the margins of marshes
 
 lesser fimbristylis, tall fringe-rush, two-leaf fimbristylis (angl.). Usage : est plantée contre l’érosion du sol ; sert comme fourrage et engrais vert. Note taxonomique : se reconnaît à ses larges feuilles, son style à 2 branches et ses akènes très distinctement striés longitudinalement, sans protubérances. Elle est très proche de F. pilosa , mais son akène a des stries longitudinales moins nombreuses, mais plus distinctes (environ 10 contre environ 20). Elle est aussi très proche de F. bisumbellata , mais cette dernière est toujours annuelle, a des épillets larges de 1‒1.5 mm et un akène avec seulement 5‒7 rangées verticales de cellules de chaque côté. Au Gabon, on trouve très rarement une forme grêle avec un seul épillet sous-tendu par une étroite feuille dressée, ressemblant à une espèce de Schoenoplectus . On ne sait pas si cette forme est génétiquement distincte de F. dichotoma, ou s’il s’agit seulement d’une variation écologique. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1997) Sosef & van der Maesen (1997)
 
+## Figures
+
+![Fimbristylis dichotoma](../sources/Cyperaceae_vol44_liteparse/figures/fig_117_p0142.png)
+
+*Planche 91 . Fimbristylis dichotoma . A. Plante. – Planche 92 . Fimbristylis dipsacea . A. Plante. – B.*
+
+![Fimbristylis dichotoma](../sources/Cyperaceae_vol44_liteparse/figures/fig_119_p0143.jpeg)
+
+*Figure 11. Akènes de a) Fimbristylis dichotoma ( A.M. Louis 2273 , Estuaire, Gabon) et b) Fimbristylis littoralis ( Wieringa 6323 , Haut-Ogooué, Gabon). convexe , brun pâle, grisâtre ou brun foncé, surface brillante, avec de chaque côté de l’akène, 6‒9 côtes longitudinales et des nervures transversales distinctes .*
+
+![Fimbristylis dichotoma](../sources/Cyperaceae_vol44_liteparse/figures/fig_120_p0143.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

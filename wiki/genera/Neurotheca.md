@@ -35,6 +35,13 @@ B: Boutique (1972), Klackenberg (1990), Paiva & Nogueira (1990), Raynal (1968), 
 
 – Leaves not in rosette, scattered along the stem; flowers solitary or geminate, arranged along the entire length of the stem .................. N. loeselioides subsp. loeselioides
 
+## Key to the species
+
+1. - Lower leaves in rosette; flowers grouped in corymb-like inflorescences,
+with long peduncles ............................................................................. N. corymbosa
+- Leaves not in rosette, scattered along the stem; flowers solitary or geminate,
+arranged along the entire length of the stem .................. N. loeselioides subsp. loeselioides
+
 ## Species in region
 
 | Species | Vol | Pages |

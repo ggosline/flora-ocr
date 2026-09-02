@@ -52,6 +52,12 @@ Breteler et al. 2606). Drawing by Hans de Vries, Naturalis Biodiversity Center (
 
 cm, cuneate to attenuate at base, rounded to shortly acuminate at apex, coriaceous, often slightly bullate, shining above; main nerve prominent above, acute below, lateral nerves (7–)9–15(–18) pairs, tertiary venation reticulate and visible, black secretory canals (if visible) subparallel to midvein, but toward margin subparallel to lateral nerves. Inflorescence in pseudoterminal racemes, with up to 30 flowers; rachis tetragonous, 1.5–3 cm long; bracts approximately 1 × 2 mm, pointed, glabrous, caducous. Flowers unisexual, pentamerous, glabrous; pedicel 3–5.5 cm, slender; sepals suborbicular, 2 × 2 mm; petals orbicular to broadly obovate, 10–12 × 9–10 mm, white to greenish white; interstaminal disc glands 2 × 2 mm, spongy, pale yellow. Male flower: stamen bundles 5–7(–10) mm long, filaments free at apex, anthers 15–25 per bundle, ovoid, pale pink. Female flower unknown. Fruit globose, 2.5–3 cm in diameter, verrucose, glabrous, white to greenish cream; sepals and interstaminal glands persistent. Seeds 4, ellipsoid, 2–2.5 × 1–1.5 cm.
 
+## Figures
+
+![Garcinia kola](../sources/Clusiaceae_vol45_liteparse/figures/fig_014_p0028.png)
+
+*Plate 5. Garcinia le-testui: 1. Flowering branch. – 2–4. Branchlets, cross section showing 2, 3 and 4 wings. – 5. Petiole with fovea. – 6. Young inflorescence with bracts. – 7. Male flower. – 8. Stamen phalanx. – 9. Fruit. – 10. Detail of the exocarp. (1–4, 7, 8: Wieringa 4464; 5, 9, 10: Bos 3746; 6:*
+
 ## Notes
 
 <!-- TODO:notes -->

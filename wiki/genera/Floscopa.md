@@ -37,6 +37,21 @@ Bibliography
 
 3. – Leaf lamina linear, sessile and amplexicaul, more than 10 times longer than wide .......................................................................................................... F. glomerata
 
+## Key to the species
+
+1. - Plant (semi-)floating, with flexuous stems, forming layers on water; leaf blade not narrowed toward the base, without pseudopetiole, often amplexicaul
+...................................................................................................................... F. aquatica
+- Plant of moist to dry places, generally erect or decumbent, not floating; leaf blade generally with pseudopetiole .............................................. 2
+2. - Leaf blade up to 2 times longer than wide; plant creeping, never exceeding 30 cm in length; upper petals rhomboidal ........................ F. mannii
+- Leaf blade at least 3 times longer than wide; more robust plants (generally decumbent, more than 30 cm in length and up to 1.5 m); upper petals elliptic to oval ...................................................................................................... 3
+3. - Leaf blade linear, sessile and amplexicaul, more than 10 times longer than wide .......................................................................................................... F. glomerata
+- Leaf blade narrowly elliptic-ovate, 3 to 4 times longer than wide ( F. africana ) .. 4
+4. - Robust plant, often more than 1 m in height; style distinctly longer than the sepals; sepals 3–4 mm in length; panicles 7–10 cm in length
+.......................................................................................... F. africana subsp . majuscula
+- More slender plant, not exceeding 90 cm in height; style of the same length or scarcely longer than the sepals; sepals 2–3 mm in length; panicles up to 5 cm in length ......................................................................................................... 5
+5. - Leaf blade ± 4 times longer than wide; plant erect or ascending, tinged red-purple, especially on the stems and lower surface of the leaves; up to 90 cm in height ........................................................................... F. africana subsp . africana
+- Leaf blade 3 times longer than wide; plant creeping, not tinged red-purple; fertile stem up to 20 cm in height ............. F. africana subsp . petrophila
+
 ## Species in region
 
 | Species | Vol | Pages |

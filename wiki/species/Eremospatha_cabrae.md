@@ -39,6 +39,12 @@ swampy forests, more rarely on upland soil; in Gabon at 750–920 m elevation, e
 
 du-bamba (barama, lumbu) ; iló-lóngo (kota) ; ivéta (duma) ; lé-mbumu (ndumu) ; li-bamba (vili) ; nkolé (kélé) ; nkolu (seki) ; nlong (fang) ; sono (pinji, tsogo) ; ozono (myene) ; u-lóngo (benga). Usage : Les stipes fendus sont utilisés pour la fabrication de paniers temporaires et les cannes pour la confection de meubles en rotin. B : Cosiaux et al. (2018), Faye et al. (2014), Raponda-Walker & Sillans (1961), Sunderland i B liographie (2004, 2007, 2012)
 
+## Figures
+
+![Eremospatha cabrae](../sources/Arecaceae_vol53_liteparse/figures/fig_017_p0019.png)
+
+*Plate 4 . Eremospatha cabrae : 1. Mature stipe and inflorescence. – 2. Leaflets. – 3. Flower. – 4. Idem, longitudinal section. – 5. Fruit. Scale bar : 1 = 3 cm, 2 = 6 cm, 3, 4 = 8 mm, 5 = 3 cm. (1 : Leonard 929 ; 2-4 : Louis 3804 ; 5 : Louis 5656 ). Drawing by Lucy T. Smith, reproduced with permission from*
+
 ## Notes
 
 <!-- TODO:notes -->

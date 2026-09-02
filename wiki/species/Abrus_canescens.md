@@ -33,6 +33,12 @@ Tropical Africa, from Gambia to Angola in the South and Kenya and Tanzania in th
 
 climbing on trees and shrubs, in saxicolous and grassy savanna, often in marshy places; in Gabon, at 0–800 m altitude, elsewhere up to 1300 m. Flowers and fruits most of the year (March to May, July, August, November). b : Boutique (1954), Breteler (1960), Pellegrin (1949), Verdcourt (1970, 1971b). Bibliography
 
+## Figures
+
+![Abrus canescens](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_009_p0020.png)
+
+*Plate 1 : Abrus canescens : 1. Flowering and fruiting stem (× ½). – 2. Leaflet, upper surface (× 2). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ fairly widely distributed in West Africa, from Guinea to Angola; rare in Gabon, 
 
 In swamps, swamp forests and at forest margins; at 0–1200 m altitude. Taxonomic note: recognized by its large size, solitary stems arising from rhizomes resembling stolons and covered with scales, its very large anthela with prominent spikes and its rather small spikelets disarticulating at the base. Superficially, it resembles C. dives Delile quite closely, which differs from it by the absence of stolons, the presence of a well-developed lamina and larger spikelets not disarticulating. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus pseudopilosus](../sources/Cyperaceae_vol44_liteparse/figures/fig_053_p0069.png)
+
+*Plate 41 . Cyperus papyrus . A. Plant. – B. Base Plate 42 . Cyperus pseudopilosus . A. Plant. – B. of the plant. – C. Upper leaf sheath. – D. Spikelet. – C. Glume. – D. Anther. – E. Fruit with*
+
 ## Notes
 
 <!-- TODO:notes -->

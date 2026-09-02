@@ -43,6 +43,12 @@ soja pérenne (fr.) ; perennial soybean (angl.) ; lekap (bandjabi)
 
 The species is highly variable and has been subdivided into several subspecies and varieties. In Gabon, only subsp. wightii var. longicauda occurs, but it is very poorly sampled. Subsp. pseudojavanica (Taub.) Verdc. var. pseudojavanica, with glabrous legumes, is also widely distributed in Africa and should be sought in Gabon. Bibliography: Anonymus (1975), Burkill (1995), Hauman (1954b), Pellegrin (1949), Verdcourt (1971c), Mackinder et al. (2001)
 
+## Figures
+
+![Neonotonia wightii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_107_p0307.png)
+
+*Plate 99 : Neonotonia wightii subsp. wightii var. longicauda : 1. Fruiting branch (× ½). –2. Bract, outer surface (× 5). – 3. Bracteole, outer surface (× 5). – 4. Calyx spread, outer surface (× 4). – 5. Standard spread, inner surface (× 4). – 6. Wing, outer surface (× 5). – 7. Half of keel, outer surface (× 5). – 8. Andro - ecium spread (× 5). – 9. Gynoecium (× 4). – 10. Valve of pod and seed (× 2). (1–10 : Bequaert 558 ). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

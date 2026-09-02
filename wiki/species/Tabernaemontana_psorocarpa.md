@@ -28,6 +28,20 @@ In the revision of Tabernaemontana (Leeuwenberg 1991), the distribution area of 
 
 Jongkind & Lachenaud (2022), Leeuwenberg (1991), Stapf (1902)
 
+## Figures
+
+![Tabernaemontana psorocarpa](../sources/Apocynaceae_vol59_liteparse/figures/fig_214_p0246.jpeg)
+
+*Figure 13 . Tabernaemontana eglandulosa : A. Inflorescence in bud. B. Fruit. – Tabernaemontana inconspicua : C. Fruit. – Tabernaemontana letestui : D. Fruit. – Tabernaemontana pendulifiora : E. Fruit. – Tabernaemontana psorocarpa : F. Inflorescence. G. Fruit. Photos by Vincent Droissart (A, Ebo Reserve, Cameroon), Ehoarn Bidault (B : Kouilou, Rep. Congo ; F, G : Right bank of the Komo, Gabon),*
+
+![Tabernaemontana psorocarpa](../sources/Apocynaceae_vol59_liteparse/figures/fig_224_p0252.jpeg)
+
+*Planche 117 . 7DEHUQDHPRQWDQDSHQGXOLÀRUD*
+
+![Tabernaemontana psorocarpa](../sources/Apocynaceae_vol59_liteparse/figures/fig_225_p0253.jpeg)
+
+*Plate 118. Tabernaemontana psorocarpa: 1. Corolla tube open (× 4). – 2. Part of calyx and.*
+
 ## Notes
 
 <!-- TODO:notes -->

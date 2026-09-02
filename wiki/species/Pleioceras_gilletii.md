@@ -27,6 +27,12 @@ Fl. trop. Afr. 4(1): 167 (1902). Shrub or small liane, 1–5 m tall; branchlets 
 
 forest, especially along rivers; in Gabon at 480 m altitude, elsewhere at 0–500 m. B: Barink (1984), Beentje (2021). BIBLIOGRAPHY
 
+## Figures
+
+![Pleioceras gilletii](../sources/Apocynaceae_vol59_liteparse/figures/fig_172_p0203.jpeg)
+
+*Plate 94 . Pleioceras gilletii 5DPHDXÀRULIqUHîҀ±)OHXUî±,GHPFRURODLQORQJLWXGLQDO section, with two pairs of appendages, two stamens and the pistil (× 4). – 4. Part of the corolla with one stamen and one pair of appendages (× 6). – 5. Stamen, dorsal view (× 12). – 6. Calyx lobes, surface*
+
 ## Notes
 
 <!-- TODO:notes -->

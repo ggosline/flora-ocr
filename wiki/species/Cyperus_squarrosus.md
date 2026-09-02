@@ -33,6 +33,12 @@ widely distributed in the tropical regions of Africa, America and South Asia; ra
 
 in open grassy areas (grasslands), often on sandy soil; in Gabon, near sea level, but up to 2000 m altitude elsewhere. Taxonomic note: easily identified by its annual habit and by the strongly bristly spikes/spikelets. The other annual Cyperus with bristly spikelets in Gabon, C. cuspidatus, has spikelets in digitate fascicles, and not in spikes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus squarrosus](../sources/Cyperaceae_vol44_liteparse/figures/fig_057_p0075.png)
+
+*Planche 45 . Cyperus sphacelatus. A. Plante. – B. Planche 46 . Cyperus squarrosus. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

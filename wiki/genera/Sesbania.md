@@ -39,6 +39,13 @@ De la Estrella et al. (2010), Gillett (1963, 1971c), Cronquist (1954), Lewis et 
 
 - Branchlets glabrous, sometimes somewhat spiny; leaflets with limb generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata
 
+## Key to the species
+
+1. - Petals reaching 12 cm in length, white, pink or red; seed ± 7 mm in length; cultivated plant and sometimes escaped from cultivation ........................... S. grandiflora
+- Petals reaching 1.7 cm in length, yellow; seed 3–4 mm in length; indigenous plants ......................................................................................................................... 2
+2. - Branchlets with silky pubescence; leaflets with blade scattered above with small black dots; appendages of the standard entirely adnate .................................................... S. sericea
+- Branchlets glabrous, sometimes somewhat spiny; leaflets with blade generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata
+
 ## Species in region
 
 | Species | Vol | Pages |

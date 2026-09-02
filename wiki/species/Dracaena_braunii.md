@@ -40,6 +40,22 @@ Edges of coastal forests and mangrove-to-savanna transition, in shade, lateritic
 
 A B C D Leeuwenberg, Naturalis Biodiversity Center © ; D by Ehoarn Bidault).
 
+## Figures
+
+![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_019_p0025.png)
+
+*Plate 6. Dracaena braunii : 1. General appearance. – 2. Part of inflorescence. – 3. Part of infrutescence.*
+
+![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_020_p0026.jpeg)
+
+*Figure 2 . Dracaena braunii (Pongara, Gabon) : A. General aspect with inflorescence with 1 to 3 flowers per fascicle. – Dracaena bushii (cult., Hortus Botanicus Leiden, Netherlands) : B. Equitant leaf bases and capitate inflorescences. – Dracaena cerasifera (near Abidjan, Ivory Coast) : C. Inflorescence showing slender pedicels. – Dracaena glomerata (Mabounié, Gabon) : D. Infructescence with zigzag rachis and elliptic pseudopetiolate leaves. (Photos A, B by Theo H.J. Damen © ; C by A.J.M.*
+
+![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_021_p0026.jpeg)
+
+![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_022_p0026.jpeg)
+
+![Dracaena braunii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_023_p0026.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

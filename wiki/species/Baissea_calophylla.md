@@ -40,6 +40,12 @@ This species was included in B. welwitschii in the revision of van Dilst (1995).
 
 Emwiogbon 66556 2 2 : Leeuwenberg 4109 2 5 : Leeuwenberg 4081 2 7, 8 : Leeuwenberg 10715 ). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from van Dilst (1995).
 
+## Figures
+
+![Baissea calophylla](../sources/Apocynaceae_vol59_liteparse/figures/fig_041_p0049.jpeg)
+
+*Planche 17 . Baissea welwitschii Baissea calophylla :*
+
 ## Notes
 
 <!-- TODO:notes -->

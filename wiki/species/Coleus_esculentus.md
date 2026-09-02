@@ -39,6 +39,24 @@ cultivated in Gabon. It is also found in grasslands, open forests of Isoberlinia
 
 djolo (bateké). Usage : Cultivé dans certaines régions d’Afrique tropicale pour ses tubercules alimentaires. Au Congo, le jus de feuilles est utilisé dans des gouttes oculaires contre la fièvre. B : Burkill (1995), Morton (1963), Paton et al. (2013, 2019). i B liographie
 
+## Figures
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_052_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_053_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_054_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_055_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_056_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_057_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_058_p0054.jpeg)
+
+![Coleus esculentus](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_059_p0054.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

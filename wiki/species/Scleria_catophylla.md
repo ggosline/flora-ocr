@@ -35,6 +35,14 @@ seasonally humid or flooded grasslands, often near marshes; in Gabon, at 0–760
 
 a b
 
+## Figures
+
+![Scleria catophylla](../sources/Cyperaceae_vol44_liteparse/figures/fig_183_p0209.png)
+
+*Planche 129 . Scleria boivinii . A. Plante. – B. Planche 130 . Scleria catophylla . A. Plante. – B.*
+
+![Scleria catophylla](../sources/Cyperaceae_vol44_liteparse/figures/fig_186_p0211.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

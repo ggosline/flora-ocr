@@ -19,6 +19,12 @@ tags: [species, generated]
 
 *No descriptive text was segmented for this species.*
 
+## Figures
+
+![Campylospermum costatum](../sources/Ochnaceae_vol48_liteparse/figures/fig_018_p0038.png)
+
+*Plate 6. Campylospermum costatum : Flowering branch. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

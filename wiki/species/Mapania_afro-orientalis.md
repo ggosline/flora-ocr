@@ -33,6 +33,18 @@ Equatorial Guinea, Gabon, Democratic Republic of the Congo and Tanzania; rare in
 
 humid forests, sometimes along rivers and watercourses; in Gabon, at 0–600 m altitude, up to 1300 m in East Africa. Taxonomic note: M. afro-orientalis is easily identifiable only at full maturity. It is then recognized by its achene slightly constricted above the middle and not wrinkled in the upper portion. It is very close to M. purpurascens, but differs by its constricted achenes and perhaps by the absence of stolons. It is also close to M. chevalieri which has larger spikes (9–18 mm long versus 5–8 mm) and achenes entirely wrinkled and without constriction. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Nelmes (1955a)
 
+## Figures
+
+![Mapania afro-orientalis](../sources/Cyperaceae_vol44_liteparse/figures/fig_139_p0165.png)
+
+*Planche 107 . Mapania africana var. filipes . A. Planche 108 . Mapania afro-orientalis . A. Plante.*
+
+![Mapania afro-orientalis](../sources/Cyperaceae_vol44_liteparse/figures/fig_142_p0167.png)
+
+![Mapania afro-orientalis](../sources/Cyperaceae_vol44_liteparse/figures/fig_143_p0168.jpeg)
+
+*Figure 14. Akènes de a) Mapania afro-orientalis ( Raynal 9740 , Cameroun) et b) Mapania amplivaginata ( Breteler 12932 , Ngounié, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

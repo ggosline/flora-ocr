@@ -34,6 +34,11 @@ Sosef (2015).
 
 1. - Petals entirely yellow ................................................... O. ulvifolia subsp. ulvifolia
 
+## Key to the species
+
+1. - Petals entirely yellow ................................................... O. ulvifolia subsp . ulvifolia
+- Petals white or white with yellow base ................................. O. ulvifolia subsp . lancifolia
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -35,6 +35,14 @@ Glume. – E. Flower. – F. Anther. – G. Fruit with lower and upper leaves. �
 
 Deep waters 0.5–2 m bordering lakes, lagoons and rivers with slow current; in Gabon, near sea level, up to 1900 m in East Africa. Taxonomic note: easily identified by its perianth with plumose segments. In Hooper & Napper (1972) and Hoenselaar et al. (2010), it is called respectively Scirpus littoralis and Schoenoplectus scirpoides, because the authors of these floras erroneously thought that the type of S. subulatus had no cilia at the apex of the glumes. b: Browning et al. (1994), Haines & Lye (1983), Hoenselaar et al. (2010), Bibliography Hooper & Napper (1972), Lye (1995, 1997)
 
+## Figures
+
+![Schoenoplectus subulatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_181_p0203.png)
+
+*Plate 127 : Schoenoplectus subulatus . A. Plant. Plate 128 : Scleria achtenii . A. Plant. – B. – B. Part of the inflorescence. – C. Spikelet. – D. Section of a stem. – C. Opening of the leaf sheath*
+
+![Schoenoplectus subulatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_182_p0203.png)
+
 ## Notes
 
 <!-- TODO:notes -->

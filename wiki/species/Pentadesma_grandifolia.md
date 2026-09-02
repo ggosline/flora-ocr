@@ -40,6 +40,12 @@ The wood is of good quality. As in P. butyracea, a vegetable fat is extracted fr
 
 Fruit, transverse section (× ½). (1, 2: Jacques-Félix 2991; 3: Léonard 5113; 4, 5, 7: Reynders 312; 6: Demeuse 115). Drawing by Ike Zewald (1, 2, 6), Nationaal Herbarium Nederland (©), and D. Coppin (3–5, 7), reproduced with permission from the National Botanic Garden of Belgium (©) from Bamps (1970a).
 
+## Figures
+
+![Pentadesma grandifolia](../sources/Clusiaceae_vol45_liteparse/figures/fig_020_p0047.png)
+
+*Plate 11. Pentadesma grandifolia: 1. Leaf (× ½). – 2. Leaf, detail of lower surface with black punctuations (× 2). – 3. Flower (× ½). – 4. Stamen phalanx (× ½). – 5. Anther (× 2). – 6. Fruit (× ½). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

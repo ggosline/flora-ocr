@@ -32,6 +32,12 @@ tropical regions of Asia, Africa and America, but often very scattered in West A
 
 on sand banks and seasonally humid open ground; at low altitude, less than 300 m. Taxonomic note: easily recognized by its small bristly spikelets and small cylindric achene. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Fimbristylis dipsacea](../sources/Cyperaceae_vol44_liteparse/figures/fig_117_p0142.png)
+
+*Planche 91 . Fimbristylis dichotoma . A. Plante. – Planche 92 . Fimbristylis dipsacea . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

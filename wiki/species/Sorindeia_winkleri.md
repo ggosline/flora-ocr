@@ -43,6 +43,16 @@ Primary and secondarized forest; in Gabon at 100–500 m altitude, elsewhere up 
 
 This species shows a bipolar distribution, one area from Nigeria to Gabon, the other east of the Democratic Republic of the Congo, Rwanda and western Tanzania. B : Breteler (2003), Van der Veken (1960a). Bibliography
 
+## Figures
+
+![Sorindeia winkleri](../sources/Anacardiaceae_vol50_liteparse/figures/fig_021_p0032.png)
+
+*Plate 11. Sorindeia spp., male and female flowers: A. S. africana. – B. S. gabonensis. – C. S. grandifolia. – D. S. juglandifolia. – E. S. oxyandra. – F. S. winkleri. (A1: Breteler & Jongkind 10225; A2: Louis et al. 1208; B1: Breteler & Jongkind 10730; B2: Breteler et al. 8731; C1: Leeuwenberg 9265; C2,*
+
+![Sorindeia winkleri](../sources/Anacardiaceae_vol50_liteparse/figures/fig_022_p0033.png)
+
+*Plate 12. Sorindeia spp., fruits: A. S. africana. – B. S. batekeensis. – C. S. gabonensis. – D. S. juglandifolia. – E. S. oxyandra. – F. S. winkleri. (A1: Breteler et al. 14735; A2: Breteler et al. 15033;*
+
 ## Notes
 
 <!-- TODO:notes -->

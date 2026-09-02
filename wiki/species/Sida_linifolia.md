@@ -39,6 +39,12 @@ sandy savannas, fallows, fields, palm groves, open forests, damp and shaded or s
 
 balai guad, sida à feuille de lin (fr.) ; balai grand (angl.) ; « noms vernaculaires locales les mêmes que ceux de Abutilon mauritianum Sw. » (RapondaWalker & Sillans 1961). B : Akoègninou et al. (2006), Berhaut (1979), Hauman (1963), Rapondai B liographie Walker & Sillans (1961), Verdcourt (2009)
 
+## Figures
+
+![Sida linifolia](../sources/Malvaceae_vol45_liteparse/figures/fig_035_p0084.png)
+
+*Plate 24. Sida linifolia : 1. Flowering branch (× ⅔). – 2. Lower leaf (× ⅔). – 3. Stipules (× 2). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

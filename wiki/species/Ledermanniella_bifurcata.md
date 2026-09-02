@@ -32,6 +32,12 @@ South Cameroon, Gabon and south of the Republic of the Congo; in Gabon, known fr
 
 in Gabon at 75–225 m altitude. B: Cusset (1984, 1987a), Engler (1926), Hall (1971), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Ledermanniella bifurcata](../sources/Podostemaceae_vol51_liteparse/figures/fig_032_p0039.png)
+
+*Plate 14. Ledermanniella bifurcata . 1. General view (× 5). – 2. General view of an individual with simple stem (× 5). – 3. General view of an acaulescent individual (× 14). – 4. Flower at anthesis (× 14). – 5. Flower opened (× 14). – 6. Seed (× 125). Drawing by C. Cusset, National Museum of Natural History, Paris (©), reproduced with permission from Cusset (1984).*
+
 ## Notes
 
 <!-- TODO:notes -->

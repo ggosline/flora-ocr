@@ -37,6 +37,12 @@ dense humid forest, semi-deciduous forest; in Gabon, up to 450 m altitude, elsew
 
 The wood is suitable for heavy and light construction, railway sleepers, heavy and light parquetry, joinery, furniture, cabinetmaking, etc. It is also used as firewood and for charcoal production. The bark is used to treat various diseases, such as venereal diseases, fever, cough, constipation, poisoning and ascites, and is also used as an aphrodisiac. The trees have been used as shade trees and as support for vanilla plants. Taxonomic note: Species divided into three subspecies. In Gabon, only the subspecies vermoesenii is found, which is mainly present in dense humid forest, whereas the typical subspecies is restricted to the periforest savanas of West Africa. The subspecies orientalis J.J.de Wilde is found further to the East. Bibliography: Lemmens (2008d), Staner & Gilbert (1958), Styles & White (1991), de Wilde (1968)
 
+## Figures
+
+![Trichilia prieureana](../sources/Meliaceae_vol47_liteparse/figures/fig_034_p0066.png)
+
+*Plate 20. Trichilia prieureana subsp. vermoesenii : A. Leafy branch with inflorescence of functionally male flowers (× 0.5). – B. Inflorescence with functionally female flowers (× 0.5). – C.*
+
 ## Notes
 
 <!-- TODO:notes -->

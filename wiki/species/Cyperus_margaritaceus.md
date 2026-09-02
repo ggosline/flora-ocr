@@ -34,6 +34,12 @@ widely distributed in tropical and subtropical Africa; uncommon in Gabon, found 
 
 in grasslands, savanna or open wooded areas, often on rocky slopes; in Gabon, at 0–400 m altitude, up to 1600 m in East Africa. Taxonomic note: very close to C. niveus, but C. margaritaceus has fewer and less flattened spikelets, and larger fruits. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus margaritaceus](../sources/Cyperaceae_vol44_liteparse/figures/fig_051_p0067.png)
+
+*Planche 39 . Cyperus margaritaceus. A. Plante. – Planche 40 . Cyperus niveus var. leucocephalus.*
+
 ## Notes
 
 <!-- TODO:notes -->

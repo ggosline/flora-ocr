@@ -38,6 +38,12 @@ Forest galleries, shrubby savannas, forest regrowth, and particularly dry thicke
 
 D. hostilis has long been confused with D. gilletii, although the two species show numerous differences (Lachenaud & Maesen 2016 and specific key). The illustration of D. hostilis in the Flora of Central Africa, and most of the specimens cited in that work (Cronquist 1954) actually represent D. gilletii; the same is true for part of the West African specimens cited under D. hostilis by Hepper (1958). b: Adam (1971), Cronquist (1954; see notes), Hawthorne & Jongkind (2006), Hepper (1958; see notes), Lachenaud & Maesen (2016), Pellegrin (1949)
 
+## Figures
+
+![Dalbergia hostilis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_048_p0132.png)
+
+*Plate 40 : Dalbergia hostilis : 1. Flowering branch. – 2. Leaflet, detail of the lower surface, showing the reticulation (right), and the pubescence (left). – 3. Spine. – 4. Flower. – 5. Standard, external surface. – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

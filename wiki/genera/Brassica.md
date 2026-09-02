@@ -33,6 +33,13 @@ TYPE SPECIES: Brassica oleracea L.
 
 2'. Lower cauline leaves with 1–3 pairs of lateral segments; beak exceeding 6 mm ..... 3. B. juncea.
 
+## Key to the species
+
+1. Upper cauline leaves amplexicaul or auriculate ..... 1. B. oleracea.
+1'. Upper cauline leaves ± petiolate, neither amplexicaul nor auriculate.
+2. Lower cauline leaves with 0-1 lateral segments; beak most often less than 6 mm ..... 2. B. carinata.
+2'. Lower cauline leaves with 1-3 pairs of lateral segments; beak exceeding 6 mm ..... 3. B. juncea.
+
 ## Species in region
 
 | Species | Vol | Pages |

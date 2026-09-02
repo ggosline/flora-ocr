@@ -42,6 +42,12 @@ mbélé-wélé (nkomi) ; mutundu-Bwanga (baduma) ; tsopinda (banzabi)
 
 The synonym Dioclea reflexa Hook.f. (Nov.–Dec. 1849), is the most commonly used name for this taxon, but the epithet hexandra has priority by a few months: the protologue of the basionym Mucuna hexandra T.S.Ralph is published in fact in April–May 1849. The pods and seeds contain air, allowing them to be transported by water over considerable distances. b: De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mabberley (1980), van der Maesen (2006a), Pellegrin (1949), Raponda-Walker & Sillans (1961), Robyns (1954)
 
+## Figures
+
+![Dioclea hexandra](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_067_p0182.png)
+
+*Plate 59 : Dioclea hexandra : 1. End of flowering branch (× ½). 2– Part of the rachis after the fall of flowers (× 2). – 3. Flower bud (× 2). – 4. Calyx spread out, inner face (× 2). – 5. Standard spread out, inner face (× 2). – 6. Wing, outer face (× 2). – 7. Half of keel, outer face (× 2). – 8. Androecium and gynoecium (× 2). – 9. Fertile anther (× 5). – 10. Sterile anther (× 5). – 11. Pods (× ½). – 12. Seed (× 1).. (1, 3–10 : Bequaert 1462 ; 2, 11 : Louis 692 ; 12 : Sapin 3 ). Drawing by J.M. Lerinckx, Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,12 @@ forest understory; elsewhere at 600 to 700 m altitude. Flowers and fruits in Jun
 
 The plants are smaller than the other species, with long uniseriate hairs on the upper surface of the leaves, inflorescences with few spathes, well-spaced, usually spreading, sometimes slightly deflexed, and the cells of the spathe surface, at least those near the midrib, are lustrous, brown, and pearl-shaped. The seeds are deeply and transversely ribbed with discontinuous ribs. B: Faden (2011, 2012). Bibliography
 
+## Figures
+
+![Polyspatha oligospatha](../sources/Commelinaceae_vol55_liteparse/figures/fig_045_p0086.png)
+
+*Plate 26 . Polyspatha oligospatha : 1. General aspect. – 2. Spathe with open flower. – 3. Flower, front view. – 4. Idem, lateral view. – 5. Base of stamens and staminodes. – 6. Dehiscent fruit with persistent sepals. – 7. Seed, dorsal view, showing the embryotège. – 8. Idem, ventral view showing the hilum. (1-8 : Poulsen 1275 ). Drawing by Alice Tangerini, Smithsonian Institution (©), reproduced with permission from Faden (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

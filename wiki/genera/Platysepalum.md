@@ -35,6 +35,16 @@ B: Geesink (1984), Gillett (1960b, 1971d), Hauman (1954a), Lewis et al. (2005), 
 
 – Leaflets with green-grey blade and brown veins beneath, with rounded apex or with a broad and short acumen; upper lip of calyx 15–27 mm in length; standard ± 24 mm in length .............................................................................. P. bambidiense
 
+## Key to the species
+
+1. - Leaflets with green lamina and yellowish veins beneath, apex narrowly acuminate;
+upper lip of calyx 12–15 mm long; standard ± 15 mm long
+
+............................................................................................. P. violaceum var. vanhouttei
+- Leaflets with grey-green lamina and brown veins beneath, apex rounded or bearing a
+broad and short acumen; upper lip of calyx 15–27 mm long; standard
+± 24 mm long ................................................................................ P. bambidiense
+
 ## Species in region
 
 | Species | Vol | Pages |

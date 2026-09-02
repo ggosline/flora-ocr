@@ -39,6 +39,12 @@ primary and secondary dense humid forest, semi-deciduous forest and associated f
 
 Decoctions of bark are used in traditional medicine, those of roots serve as vermifuge, abortifacient and for making arrow poison. Leaf extracts have shown antimalarial activity. B: Lemmens (2008b), Staner & Gilbert (1958), Styles & White (1991), de Wilde (1968) Bibliography
 
+## Figures
+
+![Trichilia rubescens](../sources/Meliaceae_vol47_liteparse/figures/fig_035_p0068.png)
+
+*Plate 21. Trichilia rubescens : A. Leafy branch with inflorescence of functionally male flowers (× 0,5). – B. Functionally male flower open and in bud (× 2). – C. Dito, internal view of the staminal tube and pistillode surrounded by the cupuliform disc (× 6). – D. Part of the staminal tube, external surface (× 6). – E. Dito, internal surface (× 6). – F. Functionally female flower, one sepal and petals removed (× 6). – G. Fruiting branch (× 0,5). – K. Fruit, transverse section (× 1). – M. Seed (× 2). – N. Cotyledons (× 2). – P. Seed, transverse section (× 2). (A : Breteler 2386 ; B–E : Breteler 2699 ; F : Breteler 2614 ;*
+
 ## Notes
 
 <!-- TODO:notes -->

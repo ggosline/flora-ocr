@@ -30,6 +30,12 @@ Distribution: Nigeria, Cameroon, and Gabon; in Gabon known from a single floweri
 
 The main range of P. rostrata is located in Nigeria and Cameroon; the sole Gabon collection, Le Testu 8871, also cited by Omino, is geographically rather distant from the rest. B: Jongkind & Lachenaud (2022), Omino (1996). BIBLIOGRAPHY
 
+## Figures
+
+![Pleiocarpa rostrata](../sources/Apocynaceae_vol59_liteparse/figures/fig_171_p0200.jpeg)
+
+*Plate 93 . Pleiocarpa rostrata : 5DPHDXÀRULIqUHîҀ±&RUROODRSHQZLWKVWDPHQV (× 5). – 5-7. Pistil with ovary in longitudinal section (× 10). (1, 4, 5 : Talbot 1037 ; 2 : Zenker 1181b ; 3, 7 : Zenker 4362 2 6 : Le Testu 8871 'UDZLQJE\*XLGR03LFKRQ1DWLRQDO0XVHXPRI1DWXUDO+LVWRU\*
+
 ## Notes
 
 <!-- TODO:notes -->

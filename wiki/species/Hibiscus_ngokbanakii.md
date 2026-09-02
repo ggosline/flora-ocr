@@ -37,6 +37,12 @@ endemic to Gabon, known only from Woleu-Ntem (Ossapanda Inselberg)
 
 on inselberg, in thicket; at 758 m altitude. Taxonomic note: Etymology: This species is dedicated to the collector of the type specimen, to honour his contribution to the study of the vegetation of the Inselbergs of Gabon
 
+## Figures
+
+![Hibiscus ngokbanakii](../sources/Malvaceae_vol45_liteparse/figures/fig_029_p0068.jpeg)
+
+*Planche 18. Hibiscus ngokbanakii : échantillon holotype ( Ngok Banak 1357 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

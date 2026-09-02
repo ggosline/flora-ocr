@@ -45,6 +45,12 @@ voir sous var. gratissimum . Usage : voir sous var. gratissimum . B : Kumar et a
 
 Frequently confused with species of Platostoma, differs by whorls of 6 flowers rather than 6 to 16 flowers and appendiculate stamens. Raponda-Walker & Sillans (1961) did not distinguish the varieties and it is possible that the uses and names actually refer to both varieties. The species shows variations in ploidy and phytochemistry. Bi: Kumar et al. (2019), Morales (2011), Paton et al. (2013), Raponda-Walker & Sillans Bibliography (1961), Sulistiarini (1999), Vande weghe et al. (2016), Vieira et al. (2001). var. macrophyllum Briq. Bull. Herb. Boiss. 2: 120 (1894). Differs from the typical variety by: Stem glabrous toward the base, or with short hairs on one or two sides only, but becoming more pubescent on the inflorescence axis. Leaf: leaf blade glabrous or with scattered hairs on the veins on the lower face. Inflorescence lax, 1–1.5 cm wide, with whorls mostly distant by ± 1 cm. Flower: calyx pilose or glabrous
 
+## Figures
+
+![Ocimum gratissimum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_067_p0080.png)
+
+*Plate 19. Ocimum gratissimum var. gratissimum : 1. Flowering stem (× 1). – 2. Fruiting calyx (× 4). –*
+
 ## Notes
 
 <!-- TODO:notes -->

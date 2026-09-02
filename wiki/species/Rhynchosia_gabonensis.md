@@ -38,6 +38,12 @@ humid evergreen forest, on slopes; at 500–600 m altitude
 
 The species is similar to R. mannii (very widespread, see below), but has a small calyx with subequal lobes. Bi: De la Estrella et al. (2010), Jongkind (1994). Bibliography
 
+## Figures
+
+![Rhynchosia gabonensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_119_p0337.png)
+
+*Plate 111: Rhynchosia gabonensis: 1. Flowering branch (× ⅔). – 2. Flower (× 2). – 3. Keel (× 2). – 4, 5. Wings (× 2). – 6. Standard (× 2). – 7. Androecium (× 2). – 8. Detail of androecium (× 4). – 9. Pod (× 2). – 10. Pod, open with seeds (× 2). – 11. Detail of pod indumentum (× 10). – 12. Seed (× 4). (1–12: J.J.F.E. de Wilde et al. 10130 ). Drawing by Wil Wessel, Naturalis Biodiversity Center (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -47,6 +47,19 @@ TYPE SPECIES: Mostuea brunonis Didr.
 
 3'. Leaf base not or ⊥ oblique; sepals of variable shape; fruits dark brown or red, not or scarcely distinctly nerved ..... 2. M. brunonis.
 
+## Key to the species
+
+1. Inflorescence with two large suborbicular bracts covering the calyx .....
+
+1'. Inflorescence with small bracts never covering the calyx.
+
+2. Plant hirsute with stiff erect hairs, especially on small branches ..... 1. M. batesii.
+2'. Plant pubescent, pilose, or glabrous; hairs never erect.
+
+3. Leaf base distinctly oblique; sepals almost linear, subulate; fruits pale, distinctly nerved ..... 4. M. neurocarpa.
+
+3'. Leaf base not or ⊥ oblique; sepals of variable form; fruits dark brown or red, not or scarcely distinctly nerved ..... 2. M. brunonis.
+
 ## Species in region
 
 | Species | Vol | Pages |

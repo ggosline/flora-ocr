@@ -36,6 +36,12 @@ species subendemmic to Equatorial Guinea (Rio Muni) and probably to Gabon (see t
 
 rocky slabs on inselbergs in forest; probably always above 500 m, up to 1100 m altitude. Taxonomic Note: The species was described by Skan, based on a single specimen collected by Gustav Mann in 1862 in the "Sierra del Crystal" (Monts de Cristal). In 2002, the species was rediscovered in Monte Alen National Park in Equatorial Guinea on rocky slabs, at Engong at 1100 m. The provenance of the type, indicated by Fischer (1992) as originating from Gabon, is not certain insofar as the Monts de Cristal are located in southern Equatorial Guinea to northern Gabon. The presence of Torenia mannii in Gabon remains to be confirmed. B : Fischer (1992, 1995), Fischer & Lachenaud (2013). Bibliography
 
+## Figures
+
+![Torenia mannii](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_062_p0144.png)
+
+*Plate 48. Torenia mannii: A, B. Flowering stems. – C. Flower. – D, E. Abaxial stamens. (A: Mann 1663; B–E: Parmentier & Nguema 2970). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ southeastern Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republi
 
 dense forests; in Gabon at 550–950 m in altitude, elsewhere up to 1600 m. Flowers in March, November and December; fruits in November. b: Breteler (1999), Peccoud et al. (2012). Bibliography
 
+## Figures
+
+![Barteria solida](../sources/Passifloraceae_vol46_liteparse/figures/fig_046_p0081.png)
+
+*Plate 32. Barteria solida : 1. Branch with leaves and buds. – 2. Leaf. – 3. Detail of the margin of the blade with glands. – 4. Axil with 2 floral buds. – 5. Flower. – 6. Longitudinal section of a flower. – 7. Fruit. – 8. Seed. – Barteria dewevrei : 9. Axil with floral buds. – Barteria fistulosa : 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

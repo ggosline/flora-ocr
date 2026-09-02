@@ -40,6 +40,12 @@ Swampy areas, dominant in the understory, on clay and sandy soil (Haut-Ogooué);
 
 Valkenburg 3234; 3: van der Burgt 312a; 6: photograph of Sunderland 3031; 7, 11: Wieringa 5281; 8-10: Donis 188). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from van Valkenburg et al. (2008).
 
+## Figures
+
+![Sclerosperma mannii](../sources/Arecaceae_vol53_liteparse/figures/fig_042_p0068.png)
+
+*Plate 24 . Sclerosperma mannii : 1. Habit. – 2. Leaf. – 3. Infructescence. – 4. Fruit. – 5. Remainder of an infructescence. – Sclerosperma walkeri : 6. Habit. – 7. Leaf. – 8. Infructescence. – 9. Fruit. – 10. Idem, transverse section. – 11. Remainder of an infructescence. (1 : photo of van Valkenburg 3234 ; 2, 4, 5 : van*
+
 ## Notes
 
 <!-- TODO:notes -->

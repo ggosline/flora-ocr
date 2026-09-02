@@ -31,6 +31,12 @@ forest; at 300–450 m altitude
 
 Other specimens studied (paratypes): Breteler & Jongkind 10323 (LBV, WAG !), Gabon, 2JRRXp0DULWLPH5DEL.RXQJD5DELURXWHGX1RUGQRYÀ Le Testu 5546 1JRXQLpHQWUH,EDJKD	0LFRGLVHSWÀ
 
+## Figures
+
+![Voacanga bidaultii](../sources/Apocynaceae_vol59_liteparse/figures/fig_235_p0264.jpeg)
+
+*Figure 15 . Voacanga bambidiensis $,QÀRUHVFHQFH%)OHXUYXHGHIDFH± Voacanga bidaultii : C.*
+
 ## Notes
 
 <!-- TODO:notes -->

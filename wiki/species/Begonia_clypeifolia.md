@@ -36,6 +36,12 @@ fairly variable taxon: in Equatorial Guinea, there are forms with white flowers,
 
 ♀ Flower (× 1). – 4. Styles and stigmas (× 2). – 5. Mature fruit (× 2). (1: A. Louis 2841; 2: Arends c.s. 688; 3, 4: van Veldhuizen 1050; 5: Arends c.s. 369). Drawing by W. W. Wessel, National Herbarium of the Netherlands – Wageningen branch.
 
+## Figures
+
+![Begonia clypeifolia](../sources/Begoniaceae_vol39_liteparse/figures/fig_033_p0046.png)
+
+*Plate 18. Begonia clypeifolia : 1. Flowering plant (× ⅔). – 2. Leaf, lower surface (× ⅔). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

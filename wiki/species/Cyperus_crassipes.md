@@ -38,6 +38,14 @@ in habitats poor in nutrients such as sand dunes, behind beaches and grassy area
 
 andac-osü, ndaga yi ntsuwa (nkomi). Note taxonomique : se reconnaît facilement par son habitat côtier, la production de longs et fins stolons et la tige portant une tête solitaire ; pas d’espèce ressemblante en Afrique. Cependant, l’inflorescence varie d’une tête dense d’épillets (var. crassipes ) à une anthèle plus lâche (var. maritimus ). B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
 
+## Figures
+
+![Cyperus crassipes](../sources/Cyperaceae_vol44_liteparse/figures/fig_037_p0051.png)
+
+*Planche 25 . Cyperus crassipes. A. Plante. – B. Planche 26 . Cyperus cuspidatus. A, B. Plante. – C.*
+
+![Cyperus crassipes](../sources/Cyperaceae_vol44_liteparse/figures/fig_038_p0051.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ Bibliography: Harley & Pastore (2012).
 
 ................................................................................................................. M. pectinatum
 
+## Key to the species
+
+1. - Inflorescence generally with groups of cymes well-spaced with up to 6 flowers; fruiting calyx 8–12 mm long; corolla 10–12 mm long; achenes 3.8–4 mm long, often only 1 or 2 developed ................... M. suaveolens
+- Inflorescence generally dense, branched at the apex, candelabra-shaped, with cymes generally scorpioid, with (10 to)20 to 40 flowers; fruiting calyx reaching 5.5 mm in length; corolla 2.5–4 mm long; achenes 4, 0.9–1 mm long
+................................................................................................................. M. pectinatum
+
 ## Species in region
 
 | Species | Vol | Pages |

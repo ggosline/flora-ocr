@@ -38,6 +38,12 @@ Highly variable species in which several subspecies had been delimited (subsp. t
 
 46 Jean-Paul GHOGUE
 
+## Figures
+
+![Tristicha trifaria](../sources/Podostemaceae_vol51_liteparse/figures/fig_041_p0053.png)
+
+*Plate 23. Tristicha trifaria. 1. Flowering shoot (× 3,5). – 2. Basal part of the stem (× 3,5). – 3. Part of the flowering stem (× 7). – 4. Flower with 2 bracts and 2 leaves at the base (× 27). – 5. Mature flower with bracts (× 20). – 6. Anther (× 27). – 7. Flower, tepals removed (× 27). – 8. Diagram of the ovary, transverse section. – 9. Dehiscent fruit (× 27). Drawing by E. Margareth Stone, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1954).*
+
 ## Notes
 
 <!-- TODO:notes -->

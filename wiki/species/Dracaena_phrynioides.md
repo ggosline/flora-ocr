@@ -33,6 +33,12 @@ Guinea, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea and Ga
 
 forest understory, riverbanks; in Gabon at 0–150 m altitude, elsewhere at 0–1500 m. Flowering not recorded in Gabon. In West Africa, flowers are found from March to October. Use: D. phrynioides is a magic plant of women. It is planted around the enclosure reserved for the secret ceremonies of Ndèmbè. B: Baker (1898), Bos (1984), Hepper (1968), Mwachala (2005), Velayos & Cabezas (2018). Bibliography
 
+## Figures
+
+![Dracaena phrynioides](../sources/Dracaenaceae_vol54_liteparse/figures/fig_045_p0052.png)
+
+*Plate 18. Dracaena phrynioides : 1. General aspect. – 2. End of a flowering branch. – 3. Leaf. – 4. Detail of the leaf. – 5. Floral bract with 3 buds. – 6. Flower. – 7. Open flower, internal face. – 8. Fruit-bearing inflorescence. – 9, 10, 11. Fruits. Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from Bos (1984).*
+
 ## Notes
 
 <!-- TODO:notes -->

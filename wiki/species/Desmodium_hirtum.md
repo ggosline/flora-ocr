@@ -38,6 +38,12 @@ on sands, shrubby savanna, yam fields; elsewhere up to 1900 m altitude
 
 In herbarium material, pod dehiscence is not easy to observe. The presence of this species in Gabon remains to be confirmed, as the sole specimen from Gabon, Florence 1686 at P, is identified with doubt. B: Ern (1984); Hepper (1958), Mackinder et al. (2001), van der Maesen (2006a), Pellegrin Bibliography (1949), Schubert (1954, 1971)
 
+## Figures
+
+![Desmodium hirtum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_063_p0171.png)
+
+*Plate 55 : Desmodium incanum : 1. Fertile stem. – 2. Stipules. – 3. Flower. – 4. Pod. – Desmodium hirtum : 5. Pod (× 2). – Desmodium setigerum : 6. Pod (× 2). Drawing by Bobbi Angell (1–4, ©), reproduced with permission from Acevedo-Rodrigues (2005) and by G. Esperant (5, 6), Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

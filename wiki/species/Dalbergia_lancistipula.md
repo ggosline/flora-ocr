@@ -46,6 +46,12 @@ Forest track margins, inselberg edges; at 200 m altitude in Gabon, 700 m in Equa
 
 Other specimens studied: Parmentier & Esono 3609 (BRLU), Equatorial Guinea (Rio Muni), Dumu inselberg, near the village of Dumu, 1°22.2N´11°19.4´E, 3 June 2002 (st). This species is very characteristic in its small and numerous, asymmetric leaflets, rounded at apex and bearing long sparse blonde strigose hairs on both faces, its lanceolate and persistent stipules, and its calyx with tube clearly contracted into a hypanthium at base. It appears close to D. rufa, which also has asymmetric leaflets and stamens with filaments bent into an S, but it is quite different in the calyx, fewer leaflets with shorter and ± crisp pubescence, and orbicular to elliptic stipules. The type shows on certain leaves filiform appendages at the base of the petiolules, grouped in 2 to 5 and resembling stipels. These appendages have not been observed on any other African species of Dalbergia
 
+## Figures
+
+![Dalbergia lancistipula](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_049_p0134.png)
+
+*Plate 41 : Dalbergia lancistipula : 1. Flowering branch. – 2. Node and stipules. – 3. Part of the rachis with stipelliform appendages. – 4. Leaflet, detail of the lower surface. – 5. Flower. – 6. Flower with fallen petals, showing the stamens and ovary. – 7. Standard, internal surface. – 8. Wing, internal surface. – 9. Keel petal, internal surface. (1–9 : Mcpherson 15680 ). Drawing by Antonio Fernandez, Botanical Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

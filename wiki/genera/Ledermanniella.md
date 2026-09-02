@@ -61,6 +61,48 @@ pollen in dyads; leaf (0.6–)1–6 cm long ....................................
 
 7. - Inflorescences unilateral .............................................................................................. 8
 
+## Key to the species
+
+1. - Leaf with very much enlarged, cupuliform, membranous sheath; limb reduced to a very small
+mucro at the apex of the sheath ......................................................................... L. aloides
+- Leaf with non-cupuliform sheath; limb developed, linear, entire or dichotomous ....... 2
+2. - Leaves all entire; plant acaulescent or with stem distinct 0.5–3 cm long .................. 3
+- Leaves divided, at least those situated below the spathel; plant acaulescent or with
+well-developed stem, reaching 30 cm in length ............................................................. 4
+3. - Leaves arranged in rosette, with base abruptly enlarged; pedicel 8 mm after anthesis;
+fruit with persistent valves ............................................................ L. tenuifolia
+- Leaves distichous, with sheathing base; pedicel ± 3.5 mm after anthesis; fruit with
+caducous valves ........................................................................................ L. sanagaensis
+4. - Stamen 1; plant 5–8 mm tall; stigmas linear, 0.15–0.2 mm ..... L. pygmaea
+- Stamens 2 or 3(–4); plant acaulescent or with stem reaching 25 cm in length;
+stigmas linear, 0.5–0.7 mm or subglobose and very short .....................................5
+5. - Stem simple, that of adult individuals less than 1 cm long ........................ 6
+- Stem simple or branched, that of adult individuals more than 1 cm long ........ 7
+6. - Stem terminated by a solitary flower; pollen in monads; leaf 0.7–2.5 cm long
+......................................................................................................... L. bifurcata
+- Stem terminated by a group of 5 to 7 flowers, or plant subacaulescent with solitary
+flowers; pollen in dyads; leaf (0.6–)1–6 cm long ........................................ L. pusilla
+7. - Inflorescences unilateral .............................................................................................. 8
+- Inflorescences situated on both sides of the stem .......................................................... 9
+8. - Capsule with caducous valves; stigmas very short, globose to subglobose
+....................................................................................................................... L. boloensis
+- Capsule dehiscent in 2 persistent valves; stigmas filiform, 0.6–0.7 mm
+......................................................................................................................... L. nicolasii
+9. - Leaves 1 or 2 times dichotomous, with linear segments, 0.7–2.5 cm long; flowers
+solitary at the leaf axils or grouped by 2 or 3 at the apex of the branchlets
+........................................................................................................................ L. bifurcata
+- Leaves several times dichotomous, with filiform segments, 2–5 cm long; flowers
+in glomérules of 3 to 7, grouped at the apex of a very short branchlet .............. L. letestui
+
+---
+
+30 Jean-Paul GHOGUE
+Muséum National d'Histoire Naturelle, Paris (©), reproduced with permission from Cusset (1984).
+
+---
+
+Ledermanniella 31
+
 ## Species in region
 
 | Species | Vol | Pages |

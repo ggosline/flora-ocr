@@ -30,6 +30,12 @@ endemic to Gabon (Cristal Mountains, Chaillu Massif, Doudou Mountains); uncommon
 
 on the ground or rarely on vertical rocky faces, on flat terrain or steep slopes, in primary forest or old secondary forest, often along watercourses or rapids; 250–700 m altitude. B: Irmscher (1925), Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia scutulum](../sources/Begoniaceae_vol39_liteparse/figures/fig_044_p0064.png)
+
+*Plate 29. Begonia scutulum : 1. Flowering plant (× ⅔). – 2. Upper surface of the blade (× ⅔). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

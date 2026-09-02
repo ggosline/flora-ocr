@@ -33,6 +33,12 @@ Central African Republic, Gabon, Republic of the Congo, Democratic Republic of t
 
 Forests, clearings, fallows; in Gabon up to 400 m altitude, elsewhere up to 1300 m. Flowers in October, November; fruits in November. Taxonomic note: This species was treated as a synonym of B. nigritana by Sleumer (1976) and De Wilde (1975). Breteler (1999) considers it distinct. b: Breteler (1999), Peccoud et al. (2012). Bibliography
 
+## Figures
+
+![Barteria dewevrei](../sources/Passifloraceae_vol46_liteparse/figures/fig_046_p0081.png)
+
+*Plate 32. Barteria solida : 1. Branch with leaves and buds. – 2. Leaf. – 3. Detail of the margin of the blade with glands. – 4. Axil with 2 floral buds. – 5. Flower. – 6. Longitudinal section of a flower. – 7. Fruit. – 8. Seed. – Barteria dewevrei : 9. Axil with floral buds. – Barteria fistulosa : 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

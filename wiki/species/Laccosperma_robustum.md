@@ -39,6 +39,16 @@ secondary forests, in forest clearings, very common along roads and trails, on u
 
 asperge (fr., nom forestier) ; pendulous-leaved African rattan (angl.) ; aka, nkan (fang pour le stipe nettoyé). Usage : Les cannes sont fortement prisées pour la vannerie. Les cœurs de palmier sont largement consom més au Cameroun et au Gabon. B : Faye et al. (2014), Raponda-Walker & Sillans (1961), Sunderland (1998, 2004, 2007, i B liographie 2012)
 
+## Figures
+
+![Laccosperma robustum](../sources/Arecaceae_vol53_liteparse/figures/fig_027_p0038.jpeg)
+
+*Figure 3. Laccosperma robustum (Bambidie, Lastoursville): A. General habitat, note the drooping leaflets, B. Detail of the base of a leaf, note the numerous round spines, C. Detail of a leaflet-spine on the cirrhus. – Oncocalamus macrospathus (near Mandji): D. Juvenile form in understory,*
+
+![Laccosperma robustum](../sources/Arecaceae_vol53_liteparse/figures/fig_030_p0042.png)
+
+*Plate 12. Laccosperma robustum: 1. Habit. – 2. Mature stem. – 3. Leaflets. – 4. Idem, detail. – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

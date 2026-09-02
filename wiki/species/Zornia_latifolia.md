@@ -40,6 +40,12 @@ Z. latifolia, treated by Pellegrin (1949) and others erroneously as Z. diphylla 
 
 Acknowledgements Work of such scope could not have been completed without the collaboration of many colleagues. Besides the authors responsible for certain genera, our thanks are addressed particularly to ir. W. Joost van der Burg and dr.ir. Roel H.M.J. Lemmens of Wageningen University (resp. general organization of the text and keys and translation of diagnoses into Latin), dr. Roger M. Polhill and dr. Brian Schrire of Royal Botanic Gardens, Kew (resp. information on Crotalaria and information on Indigofera and Microcharis), and to the curators and technicians of the herbaria of BR, BRLU, L, MO, P and WAG (visits and loan of material).
 
+## Figures
+
+![Zornia latifolia](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_140_p0392.png)
+
+*Plate 132 : Zornia latifolia var. latifolia : 1. Flowering stem. – 2. Leaf. – 3. Stipule. – 4. Pod. (1–4 :*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -31,6 +31,12 @@ Sierra Leone, Liberia, Nigeria, Cameroon, Central African Republic, Equatorial G
 
 forests and forest margins, secondary places, at 0–500 m altitude. Flowering in November, fruits from December to February. Bibliography: Hauman (1954d), Hawthorne & Jongkind (2006).
 
+## Figures
+
+![Aganope gabonica](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_014_p0032.png)
+
+*Plate 6 : Aganope gabonica : 1. Flowering stem. – 2. Lenticels on branchlet. – 3. End of a branchlet with stipules. – 4. Base of 2 leaflets with stipels. – 5. Flower bud with bract and bracteoles. – 6. Flower. – 7. Calyx, open. – 8. Indumentum of the calyx. – 9. Standard, – 10, 11. Wings. – 12. Keel. – 13. Stamens, tube open. – 14. Pistil. – 15. Pod. (1, 4–14 : Wieringa & van Nek 3272 ; 2, 15 : Wieringa et al. 5596 ; 3 : L. White 564 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic 
 
 primary and secondarized forest; in Gabon at 5–600 m in altitude, elsewhere up to 700 m. b: Breteler (1994a), Toussaint (1953). ibliography
 
+## Figures
+
+![Leucomphalos brachycarpus](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_087_p0240.png)
+
+*Plate 79: Leucomphalos brachycarpus: 1. Flowering branch (× ⅔). – 2. Flower, seen from below (× ⅔). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

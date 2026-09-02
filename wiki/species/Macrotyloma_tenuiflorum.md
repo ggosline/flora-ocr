@@ -37,6 +37,12 @@ Pat Halliday, Royal Botanic Gardens, Kew (©), reproduced with permission, from 
 
 Pat Halliday, Royal Botanic Gardens, Kew (©), reproduced with permission, from Verdcourt (1982).
 
+## Figures
+
+![Macrotyloma tenuiflorum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_093_p0252.png)
+
+*Plate 85 : Macrotyloma tenuiflorum : 1. Habit (× ⅔). – 2. Stipules (× 4). – 3. Standard (× 4). – 4. Wing (× 3). – 5. Keel (× 4). – 6. Androecium (× 4). – 7. Gynoecium (× 4). – 8. Legume (× 1). – 9. Seed, lateral view (× 6). – 10. Idem, ventral view (× 6). (1–7 : Gilbert & Thulin 642 ; 8–10 : Lebrun 1724 ). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

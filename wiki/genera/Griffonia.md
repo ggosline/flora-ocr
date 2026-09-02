@@ -37,6 +37,20 @@ These liane species can be separated as follows:
 
 2'. Slightly pubescent; long receptacle of 18-25 mm..... 4. G. speciosa.
 
+## Key to the species
+
+1. Calyx glabrous externally; long receptacle of 20-30 mm.....
+
+1'. Calyx ± pubescent externally.
+
+2. Very pubescent.
+
+3. Greyish; petals glabrous on the outside; receptacle of 12-15 mm, ± pubescent on the inside..... 2. G. simplicifolia.
+
+3'. Light brown; petals pubescent on both faces; short receptacle of 4-6 mm..... 3. G. Tessmannii.
+
+2'. Slightly pubescent; long receptacle of 18-25 mm..... 4. G. speciosa.
+
 ## Species in region
 
 | Species | Vol | Pages |

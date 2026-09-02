@@ -33,6 +33,12 @@ widely distributed in the tropical regions of West Africa, reaching Gabon, the D
 
 in humid depressions of grasslands, roadsides, at the edge of swamps; in Gabon, towards sea level, but up to 1140 m in Uganda. Taxonomic note: very close to F. dichotoma, but differs by its wider spikelets and its achenes with longitudinal striae much more numerous, but less prominent. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Fimbristylis pilosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_123_p0147.png)
+
+*Plate 95 . Fimbristylis littoralis . A. Plant. Plate 96 . Fimbristylis pilosa . A. Plant. – B. – B. Sheath opening. – C. Base of plant Sheath opening. – C. Spikelet. – D. Mature spikelet showing an intravaginal shoot. – D. Part of with glumes detached. – E. Glume. – F. Flower. – G. the inflorescence. – E. Base of the spikelet with glumes Fruit with persistent bristles and style. Original drawing detached. – F. Flower in its glume. – G. Fruit with by Richard W. Haines ©. persistent bristles and style detached. Original drawing by Richard W. Haines ©. dark ; glumes 1‒1.3 mm long, brown, central nerve not prominent, often with a non-colored margin, rounded apex . Flower with 2 stamens, with a short muticous apicule ; style with 3 branches (sometimes 2 branches outside Africa). Achene triangular- obovoid, 0.5‒0.7 × 0.3‒0.4 mm, verrucose, with surface covered with rows of cells elongated transversely .*
+
 ## Notes
 
 <!-- TODO:notes -->

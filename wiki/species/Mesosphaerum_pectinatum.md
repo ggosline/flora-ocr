@@ -33,6 +33,12 @@ Disturbed soils, clearings with secondary vegetation; in Gabon at 0–100 m alti
 
 Royal Botanic Gardens, Kew (©), adapted and reproduced with permission from Paton et al. (2009).
 
+## Figures
+
+![Mesosphaerum pectinatum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_066_p0077.png)
+
+*Plate 18. Mesosphaerum pectinatum : 1. Flowering stem. – 2. Inflorescence. – 3. Cymes. – 4. Flower with released stamens. – 5. Calyx. (1-5: Newbould & Harley 4486). Drawing by Emmanuel Papadopoulos,*
+
 ## Notes
 
 <!-- TODO:notes -->

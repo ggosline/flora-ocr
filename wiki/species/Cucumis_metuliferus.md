@@ -51,11 +51,11 @@ Endl et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), 
 
 ![Cucumis metuliferus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_041_p0052.png)
 
-*Figure 2. Cucumis afrotropicus (Kenema, Sierra Leone, Schaefer 06/434): A. Feuille, B. Fruits. – Cucumis melo subsp. melo (cultivé, Freising, Allemagne): C. Aspect général. – Cucumis melo subsp. meloides (Sal Rei, Boa Vista, Cabo Verde, Schaefer 2016/250): D. Fruits mûrs. – Cucumis metuliferus (cultivé, Freising, Allemagne): E. Aspect général. – Citrullus lanatus subsp. lanatus (cultivé, Freising, Allemagne): F. Aspect général. Photos A-F par Hanno Schaefer.*
+*Figure 2. Cucumis afrotropicus (Kenema, Sierra Leone, Schaefer 06/434): A. Leaf, B. Fruits. – Cucumis melo subsp. melo (cultivated, Freising, Germany): C. General appearance. – Cucumis melo subsp. meloides (Sal Rei, Boa Vista, Cabo Verde, Schaefer 2016/250): D. Ripe fruits. – Cucumis metuliferus (cultivated, Freising, Germany): E. General appearance. – Citrullus lanatus subsp. lanatus (cultivated, Freising, Germany): F. General appearance. Photos A-F by Hanno Schaefer.*
 
 ![Cucumis metuliferus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_044_p0058.png)
 
-*Planche 17. Cucumis melo subsp. melo: 1. Tige avec fleur mâle (×½). – 2. Fleur mâle, ouverte (×5). – Cucumis metuliferus: 3. Tige avec fleurs mâles et femelles (×½). – 4. Fleur femelle, périanthe ouvert (×1). – Coccinia racemiflora: 5. Tige florifère mâle (×½). – 6. Détail de la face supérieure du limbe foliaire (×1½). – 7. Fleur mâle, corolle ouverte (×4). – 8. Fleur femelle (×4). (1, 2: Letouzey 6545; 3, 4: Letouzey 7123; 5: N. Hallé 2425; 6-8: N. Hallé 2305). Dessin par M.D. Bergasse (1-4) et par J. Saussotte-Guérez, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967 et 1968).*
+*Plate 17. Cucumis melo subsp. melo: 1. Stem with male flower (×½). – 2. Male flower, open (×5). – Cucumis metuliferus: 3. Stem with male and female flowers (×½). – 4. Female flower, perianth open (×1). – Coccinia racemiflora: 5. Male flowering stem (×½). – 6. Detail of the upper surface of the leaf limb (×1½). – 7. Male flower, corolla open (×4). – 8. Female flower (×4). (1, 2: Letouzey 6545; 3, 4: Letouzey 7123; 5: N. Hallé 2425; 6-8: N. Hallé 2305). Drawing by M.D. Bergasse (1-4) and by J. Saussotte-Guérez, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967 and 1968).*
 
 ## Notes
 

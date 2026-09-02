@@ -23,6 +23,90 @@ A strictly African genus of 33 species showing particularly strong abundance and
 
 Notes: This genus is particularly diverse in Gabon. Recently, we identified eight species new to science (Bidault & van der Burg 2019) and we are convinced that other novelties remain to be discovered. Certain probably new taxa remain to be characterized, but the current state of collections does not allow us to describe them with certainty. Consequently, these are partly indicated in the remarks pertaining to different species. A comprehensive treatment of the genus in Africa would therefore seem opportune. Among the eight recently described species, five were previously confused with P. satabiei Brenan, but are now well discriminated. This name has therefore been widely
 
+## Key to the species
+
+1. - Creeping plant, decumbent or with leaves in basal rosette ..................................... 2
+- Plant with erect stem, sometimes climbing, more than 50 cm tall ..... Group 1
+2. - Plant generally in rosette or compound basal rosette, with rootstock reaching
+10(–30) cm in length, sometimes horizontal in older individuals ............. Group 2
+- Plant strictly creeping or decumbent ................................................. Group 3
+Group 1 : Erect plant more than 50 cm tall
+1. - Plant lianescent, always climbing; stem up to 15 m in length, strongly
+branched ........................................................................................................ P. thollonii
+- Erect plant, rarely climbing; stem generally not more than 4 m in length,
+unbranched or slightly branched, rarely well branched ............................................................... 2
+2. - Inflorescence lax (cincinni spaced at least 1 cm apart) ............................................ 3
+- Inflorescence compact (cincinni spaced less than 1 cm apart, or even contiguous), sub-
+globose or spicate ........................................................................................ 4
+3. - Inflorescence with thickened cincinni, generally erect during fruiting;
+young fruit globose to elongately obovoid, white with purple striae at the
+apex, ripe fruit dark purple, waxy and dull, later glossy ........ P. ambigua
+- Inflorescence with spreading, non-thickened cincinni; fruit globose, mauve to
+reddish tint, then glossy, dark blue to black at maturity ........................................... P. hirsuta
+4. - Inflorescence subspheric to broadly oblongoid, barely longer than wide,
+up to 5 cm in length ..................................................................... P. brachythyrsa
+- Inflorescence spicate, more than 8 cm in length .......................................... 5
+5. - Inflorescence 20–30 × 3–4(–5.5) cm, with peduncle covered by 3 or 4
+inflorescence bracts ....................................................................... P. alopecurus
+- Inflorescence 8–18 × 2–4 cm, with peduncle not totally covered by
+inflorescence bracts .................................................................. P. schweinfurthii
+Group 2 : Plant in rosette or compound basal rosettes
+1. - Inflorescence abundantly provided with hairs and cottony bracts of a
+dirty white; fruit carmine, distinctly covered with russet pubescence, dark
+brown or purple ..................................................................................................... P. lagopus
+- Inflorescence glabrous or slightly pilose; fruit glabrous or with few scattered hairs .............. 2
+2. - Inflorescence spicate, at least three times longer than wide ( P. mannii ) .... 3
+- Inflorescence subglobose or oblongoid, up to twice as long as
+wide ............................................................................................................................. 4
+3. - Leaf blade with lower surface covered with dense, velvety pilosus, white or
+brown ...................................................................................... P. mannii subsp. mannii
+- Leaf blade with lower surface pilose, dense velvety, white or brown only
+on the main nerve ................................ P. mannii subsp. megalophylla
+4. - Inflorescence with oval floral bracts, 5–8(–15) mm in width, as long as
+the flowers, covering the inflorescence, persistent during flowering .. P. bracteosa
+- Inflorescence with smaller bracts, not covering the inflorescence, scarcely
+visible during flowering ................................................................................. 5
+5. - Inflorescence terminal (central in the rosette), erect .............................. P. barteri
+- Inflorescence lateral, decumbent ............................................................................. 6
+6. - Flower white, with 3 yellow anthers; leaf blade up to ± 20(–40) cm in
+length ............................................................................................................ P. bogneri
+- Flower pink to purple or violet, with 2 yellow anthers and 1 white to pale yellow;
+leaf blade up to 27(–45) cm in length ..................................... P. alboanthera
+
+---
+
+Group 3 : Plant strictly creeping or decumbent
+1. - Inflorescence terminal ............................................................................................... 2
+- Inflorescence axillary ................................................................................................. 4
+2. - Inflorescence subglobose, at least as wide as long; cincinni erect during
+fruiting .......................................................................................... P. fadenii
+- Inflorescence spicate to ellipsoid or spiciform, always longer than wide; cincinni spreading during fruiting ............................................................. 3
+3. - Inflorescence entirely woolly, with long white pubescence, more or less
+deciduous during fruiting; bracts white, longer than the flowers
+....................................................................................................................... P. stevartii
+- Inflorescence more or less provided with short glandular hairs and long
+simple russet hairs; bracts shorter than the flowers ................................. P. decumbens
+4. - Inflorescence with erect peduncle, rarely pendant, even during fruiting ............ 5
+- Inflorescence decumbent, with peduncle never erect ................................................ 7
+5. - Plant covered on most of its parts with russet pubescence, simple,
+spreading ....................................................................................................... P. cristalensis
+- Plant not covered with russet pubescence, simple, spreading (if pubescence
+present, then of another nature) ................................................................................... 6
+6. - Leaf blade plicate, obovate to spatulate, 16–31 × (3.5–)5.5–10 cm ......... P. plicata
+- Leaf blade plane, narrowly obovate to obovate-elliptic, 7–13 × 3.5–4.5
+cm ................................................................................................................ P. leewhitei
+7. - Creeping plant, with stem reaching 2 m in length, sometimes branched; leaves
+regularly arranged along the stem ............................................................. P. repens
+- Plant in rosette or creeping, with stem never exceeding 40 cm in length, apical
+portion erect; leaves spiral to pseudoverticillate at the apex .............................. 8
+8. - Creeping plant, with stem never exceeding 40 cm in length, apical
+portion of the aerial stem erect, up to 12(–20) cm tall; inflorescence inserted on the
+aerial portion of the stem; flower with unequal stamens, the lower one more robust,
+becoming green after anther dehiscence ..................................... P. akouangoui
+- Plant generally in rosette, stem without erect apical portion, but with rootstock
+sometimes elongate and horizontal in older individuals; inflorescence inserted at ground
+level; flower with subequal stamens, always yellow ..................................... P. bogneri
+
 ## Species in region
 
 | Species | Vol | Pages |

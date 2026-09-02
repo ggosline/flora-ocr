@@ -25,6 +25,12 @@ Wageningen Agric. Univ. Papers 96(1) : 139 (1996). Shrub 1–1.2 m tall. Leaves 
 
 understory of dense forest on sandy soil; below 50 m altitude. B: Omino (1996). BIBLIOGRAPHY
 
+## Figures
+
+![Pleiocarpa brevistyla](../sources/Apocynaceae_vol59_liteparse/figures/fig_167_p0193.jpeg)
+
+*Plate 89. Pleiocarpa brevistyla: 1. Flowering branchlet (× ⅔). – 2. Corolla open with stamens and pistil with part of calyx (× 4). – 3. Pistil with part of calyx, one locule open (× 12). – 4. Calyx lobe (× 12). (1: Wieringa 1267; 2-4: van der Burgt 48). Drawing by Hans de Vries, Naturalis Biodiversity*
+
 ## Notes
 
 <!-- TODO:notes -->

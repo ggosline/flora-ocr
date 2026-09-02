@@ -44,6 +44,14 @@ mêmes appellations que pour l’espèce précédente. B : Avomo Ovomo & Awori (
 
 3 405.280 1510 3 69
 
+## Figures
+
+![Gnetum buchholzianum](../sources/Gnetaceae_vol42_liteparse/figures/fig_017_p0029.png)
+
+*Plate 8. Gnetum buchholzianum : 1. Branch with male inflorescences. – 2. Male strobilus. – 3.*
+
+![Gnetum buchholzianum](../sources/Gnetaceae_vol42_liteparse/figures/fig_018_p0030.png)
+
 ## Notes
 
 <!-- TODO:notes -->

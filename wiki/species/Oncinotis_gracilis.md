@@ -31,6 +31,12 @@ Secondary forest, open forest; in Gabon at ± 600 m altitude, elsewhere at 0–1
 
 The only specimen from Gabon, Le Testu 8344, does not correspond well to this species. The branchlets and leaves are less hairy and on the branchlets and petiole the branched hairs are dominant, not the simple hairs. B: de Kruif (1985). BIBLIOGRAPHY
 
+## Figures
+
+![Oncinotis gracilis](../sources/Apocynaceae_vol59_liteparse/figures/fig_149_p0175.jpeg)
+
+*Plate 81 . Oncinotis gracilis : 1. Flowering branch (× ⅔). – 2. Detail of the bark of a branch (× ⅔). – 3. Top of petiole and base of blade, with colleters, upper surface (× 4). – 4. Domatium (× 4). – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

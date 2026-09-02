@@ -33,6 +33,10 @@ Cameroon, Central African Republic, Gabon and Democratic Republic of the Congo; 
 
 primary and secondarized forest; in Gabon, at 0–550 m altitude. Taxonomic note: M. longipes resembles closely M. pynaertii (De Wild.) Pax, from the Democratic Republic of the Congo, an earlier species dating from 1910. Apart from its different habitat (periodically flooded forest), M. pynaertii possesses large glands with pilose margins on the underside of its leaves. b: Léonard (1994). Bibliography
 
+## Figures
+
+![Maesobotrya longipes](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_019_p0049.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -43,6 +43,12 @@ The description by Raponda-Walker & Sillans (1961) (as M. atropurpurea DC.) clea
 
 Keel. – 6. Androecium. – 7. Gynoecium. – 8. Legume. – 9. Same, opened. – Mucuna sloanei: 10. Leaf, with detail of indumentum on the lower surface. – 11. Flower. – 12. Legume. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodrigues (2005).
 
+## Figures
+
+![Mucuna pruriens](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_105_p0303.png)
+
+*Plate 97 : Mucuna pruriens var. pruriens : 1. Flowering stem. – 2. Flower. – 3. Standard. – 4. Wing. – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,12 @@ Dense humid or semi-deciduous forest, primary or secondary; in Gabon, up to 750 
 
 The wood is suitable for light construction, interior woodwork, cooperage, furniture, etc. Bibliography: Lemmens (2008b), Pellegrin (1940), Staner & Gilbert (1958), de Wilde (1968)
 
+## Figures
+
+![Trichilia gilgiana](../sources/Meliaceae_vol47_liteparse/figures/fig_031_p0060.png)
+
+*Plate 17. Trichilia gilgiana : A. Floriferous branch (× 0.5). – B. Part of the male inflorescence (× 1). – C.*
+
 ## Notes
 
 <!-- TODO:notes -->

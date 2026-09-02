@@ -42,6 +42,12 @@ riparian forest, swamp forest; in Gabon, at 0–100 m altitude. Uses: All parts 
 
 apita-kudyè, pumbyè (bakèlè), atèghe, mfum (fang), ewogo (galoa, mpongwè, nkomi, orungu), gibogo (ngowè), pumbwè (béséki). Note taxonomique : Dans la publication originale (Engler 1905), le genre a été décrit avec deux espèces, S. preussii et S. glaber Engl., qui se distinguent par leurs inflorescences : pubérulentes chez S. preussii , glabres chez S. glaber . En 1911, S. glaber a été réduite à une variété de S. preussii par le même auteur. En 1989, Léonard et Nkounkou ont suivi Engler en traitant le genre comme monospécifique mais ont élevé les deux variétés de S. preussii au rang de sous-espèce. Dans le présent traitement, je n’ai pas suivi ces deux auteurs. Les caractères qu’ils retiennent pour distinguer leurs deux sous-espèces (pilosité de l’inflorescence et forme du fruit) me paraissent suffisants pour les maintenir à leur rang original, c’est-à-dire comme deux espèces distinctes. La raison pour laquelle Léonard et Nkounkou ont optés pour le niveau de sous-espèce, notamment l’impossibilité de séparer les échantillons à l’état stérile, est valable pour les deux niveaux. b : Engler (1911), Keay (1958), Léonard & Nkounkou (1989), Pax & Hoff ibliographie mann (1922), Soladoye & Adebisi (2008)
 
+## Figures
+
+![Spondianthus preussii](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_032_p0081.png)
+
+*Plate 26. Spondianthus preussii : A. Fruiting branch. ‒ B. Apical glands of the petiole. ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

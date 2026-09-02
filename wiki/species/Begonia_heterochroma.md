@@ -35,6 +35,12 @@ ESSEL branch.
 
 ESSEL National Herbarium of the Netherlands – Wageningen branch.
 
+## Figures
+
+![Begonia heterochroma](../sources/Begoniaceae_vol39_liteparse/figures/fig_022_p0025.png)
+
+*Plate 7. Begonia heterochroma: 1. Flowering plant (× ⅔). – 2. Detail of indument, upper surface of blade (× 4). – 3. Leaf, upper surface (× ⅔). – 4. Male flower (× 2). – 5. Tepal of a male flower, outer surface (× 2). – 6. Female flower (× 2). – 7. Fruit (× 2). (1, 2: Bos 5677; 3: de Wilde c.s.8870; 4, 5: Hallé & Villiers 5197; 6: de Wilde c.s. (WALK-B) 161; 7: Bos 3834). Drawing by W W,*
+
 ## Notes
 
 <!-- TODO:notes -->

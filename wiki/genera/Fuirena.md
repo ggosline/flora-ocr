@@ -44,6 +44,17 @@ different ......................................................................
 - Stem and sheath triangular; blade 1–4 mm wide; perianth with 6 segments in
 scabrous needles .......................................................................................... F. stricta
 
+## Key to the species
+
+1. - Annual plant, without hard woody base; the 3 internal perianth segments
+square, distinctly stipitate; not yet found in Gabon ........... F. ciliaris (L.) Roxb.
+- Perennial plant, with a hard woody base; internal perianth segments
+different ................................................................................................................. 2
+2. - Stem and sheath with 5 angles; blade 4‒25 mm wide (3‒4 mm in saline habitat); the
+3 internal perianth segments obovate to obcordate, sessile ........... F. umbellata
+- Stem and sheath triangular; blade 1‒4 mm wide; perianth with 6 scabrous needle-like
+segments .......................................................................................... F. stricta
+
 ## Species in region
 
 | Species | Vol | Pages |

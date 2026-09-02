@@ -52,6 +52,38 @@ Cosmopolitan, approximately 800 species.
 
 7'. Sporophylls dimorphic; median leaves acuminate-aristate..... 8. S. molliceps.
 
+## Key to the species
+
+1. Stems twining or climbing; rhizophores dorsal or ventral.
+
+2. Stems twining, not articulate..... 1. S. myosurus.
+
+2'. Stems climbing, articulate..... 2. S. grallipes.
+
+1'. Stems erect or creeping; rhizophores ventral.
+
+3. Stems pubescent, erect; ramose portion frond-shaped, triangular in outline..... 3. S. Vogelii.
+
+3'. Stems glabrous.
+
+4. Stems erect, not divided from the base.
+
+5. Presence of soboles, lateral leaves serrulate, bearing 2 false veins, contiguous on the stem..... 4. S. versicolor.
+
+5'. No soboles; lateral leaves ciliolate at the base, spaced approximately 10 times their width on the stem..... 5. S. leoneensis.
+
+---
+
+4'. Stems prostrate, generally divided from the base, rhizophores at the nodes.
+
+6. Stems often orange in colour; lateral leaves often reflexed and twining; median leaves obovate; microspores whitish..... 6. S. Soyauxii.
+
+6'. Stems straw-coloured, pale; microspores vermillion in mass.
+
+7. Sporophylls uniform; median leaves acuminate, serrulate..... 7. S. cathedrifolia.
+
+7'. Sporophylls dimorphous; median leaves acuminate-aristate..... 8. S. molliceps.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -33,6 +33,23 @@ Bibliography
 
 b: Léonard (1954a, 1954b), Mackinder et al. (2001), Pellegrin (1949).
 
+## Key to the species
+
+1. - Inflorescence slender, zigzag, with ± 7 to 12 small flowers; anthers alternately large and small; legume with 1 or rarely 2 articles ...................................... A. lateritia
+- Inflorescence slender or robust, straight, with 1 to 5 flowers; anthers all similar; legume with ≥ 3 articles ........................................................................................................ 2
+2. - Stem without spines; legume straight ...................................................................................... 3
+- Stem very spiny, especially below the leaves; legume spiral ............. A. elaphroxylon
+3. - Flower large, reaching 3 cm in length, with keel bearing a large lacinate crest; legume somewhat moniliform, at maturity bearing fine spines at the center ............ A. cristata
+- Flower modest, reaching 0.8 cm in length, with keel without crest; legume linear, at maturity smooth or papillose to rugose .......................................................................... 4
+4. - Leaflet with blade clearly 3-nerved, apex finely dentate .................... A. americana
+- Leaflet with blade 1-nerved, apex entire ....................................................................... 5
+
+---
+
+5. - Stem and legume brown when dry; legume with straight or slightly curved sutures, surface slightly pustulous, glabrous to pubescent, articles ± 3–5 mm wide ...... A. indica
+- Stem and legume blackish when dry; legume with dorsal suture fairly straight, ventral suture undulate, surface smooth, ornamented with scattered setae, articles ± 4–7 mm wide
+........................................................................................................................ A. sensitiva
+
 ## Species in region
 
 | Species | Vol | Pages |

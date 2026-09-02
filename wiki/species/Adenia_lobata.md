@@ -39,6 +39,16 @@ Ombrophilous forests, forest galleries, forest regrowth, savannas, fallows; in G
 
 gikókóri-gi-mbaga (mindumu), móbula (éshira, bavarama, balumbu), mobulla-mbakala (leango), móbulu (bapunu), mubóla (ngowé), mulèli (bavungu), mvuga-mikisi (bavili), myanakwè (bakèlè), ndjóndjó-kódi (mitsogo),ndóndóloe (fang), nkólé-mbumba (bakèlè), nónó (bakèlè, béséki), ntóc-meburoe (fang), onónó (mpongwè, galoa, nkomi, orungu), unónó (benga, béséki). Note taxonomique : Une espèce extrêmement variable. Robyns (1995) y a inclu les taxons mentionnés ci-dessus comme synonymes. Par contre, nous ne le suivons pas en ce qui concerne l’inclusion de A. mannii ci-après, qui est, d’après nous, nettement distincte par ses feuilles constamment étroitement ovales-elliptiques. b : De Wilde (1971, 1975), Raponda-Walker & Sillans (1961), Robyns ibliographie (1995), Sinsin (2006), Zepernick & Timler (1984)
 
+## Figures
+
+![Adenia lobata](../sources/Passifloraceae_vol46_liteparse/figures/fig_039_p0064.png)
+
+*Plate 25. Adenia spp. – Schematized leaves : 1. Adenia lobata (2 variants) . – 2. Adenia cynanchiifolia. – 3. Adenia cissampeloides. – 4. Adenia staudtii. – 5. Adenia mannii. – 6. Adenia bequartii subsp. occidentalis. – 7. Adenia poggei. Drawing by W.J. van der Burg.*
+
+![Adenia lobata](../sources/Passifloraceae_vol46_liteparse/figures/fig_042_p0070.png)
+
+*Plate 28. Adenia lobata: 1. Stem (× ⅔). – 2. Branch with leaf and male inflorescence (× ⅔). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

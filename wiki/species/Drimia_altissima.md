@@ -33,6 +33,12 @@ Widely distributed in tropical Africa, from Senegal to Kenya and South Africa. I
 
 Savannas and open forests, dry or humid places, on sandy, clayey or rocky soils; in Gabon up to 600 m altitude, elsewhere up to 2100 m. B: Jessop (1977), Oyewole (1987), Stedje (1987). Bibliography
 
+## Figures
+
+![Drimia altissima](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_027_p0031.png)
+
+*Plate 6. Drimia altissima : 1. Bulb with leaves (× 2 / ). – 2. Inflorescence (× 2 / ). – 3. Bract 3 3 (× 4). – 4. Flower (× 4). – 5. Flower, longitudinal section (× 4). – 6. Tepal and stamen (× 4). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

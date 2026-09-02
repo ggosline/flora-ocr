@@ -36,6 +36,12 @@ secondary forest, agricultural land; at 50–140 m altitude
 
 The presence in Gabon remains to be confirmed. b: Pellegrin (1949), Mollel & Adema (2006). Bibliography
 
+## Figures
+
+![Millettia aboensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_102_p0295.png)
+
+*Plate 94 : Millettia aboensis : 1. Habit. – 2. Flower. – 3. Standard, inner surface. – 4. Idem, outer sur - face. – 5. Wing. – 6. Keel. – 7. Androecium. – 8. Gynoecium. – 9. Pod. – 10. Seed. (1–10 : Ansell 360 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,22 @@ The lianescent Vitex species with thyrse inflorescence pose a taxonomic and nome
 
 B A E C F D
 
+## Figures
+
+![Vitex agelaeifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_073_p0099.jpeg)
+
+*Figure 5. Vitex agelaeifolia var. agelaeifolia : A. Flowering stem ; B. Stem with ant hole and inflorescence ; C. Flowers. – Vitex doniana : D. Leaves ; E. Fruits ; F. Flower. Photos by Anne-Hélène Paradis (A-C : Gabon, Mts Cristal), Richard De Cauwer (D : Dém. Rep. Congo) and Ehoarn Bidault (E : Gabon, south of Ndendé ; F : Gabon, Mbanda-Ndendé).*
+
+![Vitex agelaeifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_074_p0099.jpeg)
+
+![Vitex agelaeifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_075_p0099.jpeg)
+
+![Vitex agelaeifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_076_p0099.jpeg)
+
+![Vitex agelaeifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_077_p0099.jpeg)
+
+![Vitex agelaeifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_078_p0099.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

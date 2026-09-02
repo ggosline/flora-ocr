@@ -36,6 +36,16 @@ Stagnant or slow-flowing waters, in pools, lakes and rivers; in Gabon at low alt
 
 The photographs in Vande weghe et al. (2016) represent two colour variations of U. inflexa. B : Taylor (1964, 1972, 1989), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Utricularia inflexa](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_104_p0112.png)
+
+*Plate 38. Utricularia inflexa : 1. Entire plant (× 1). – 2. Secondary segments of the leaf with utricles (× 10). – 3. Auricle of the leaf (× 8). – 4. Bract (× 12). – 5. Flower, view from behind (× 8). – 6.*
+
+![Utricularia inflexa](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_106_p0114.jpeg)
+
+*Figure 12. Utricularia gibba (Zambie, N de Kasama) : A, B. – Utricularia inflexa : C-E . (Photos A, B par*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -56,11 +56,11 @@ Keraudren (1967), Keraudren-Aymonin (1975), Raponda-Walker & Sillans (1961)
 
 ![Momordica cabrae](../sources/Cucurbitaceae_vol57_paddle/figures/fig_059_p0084.png)
 
-*Figure 4. Momordica breteleri (Makande, Ogooue-Lolo, Gabon, Breteler 14950): A. Tige fructifère de l'échantillon type, B. Fruit de l'échantillon type. – Momordica cabrae (Rhoko, Cross River State, Nigeria): C. Fruit. – Momordica charantia (Kenema, Sierra Leone): D. Fruit ouvert, E. Tige florifère mâle. Photos A-E par Hanno Schaefer.*
+*Figure 4. Momordica breteleri (Makande, Ogooue-Lolo, Gabon, Breteler 14950): A. Fruiting stem of the type specimen, B. Fruit of the type specimen. – Momordica cabrae (Rhoko, Cross River State, Nigeria): C. Fruit. – Momordica charantia (Kenema, Sierra Leone): D. Fruit open, E. Male floriferous stem. Photos A-E by Hanno Schaefer.*
 
 ![Momordica cabrae](../sources/Cucurbitaceae_vol57_paddle/figures/fig_060_p0085.png)
 
-*Planche 26. Momordica cabrae; 1. Tige florifère à boutons floraux mâles (×3/4). – 2. Détail de la face supérieure du limbe foliaire (×7). – 3. Idem, face inférieure (×7). – 4. Bouton de la fleur mâle (×1/4). – 5. Fleur mâle, coupe florale fendue (×1/4). – 6. Étamine bithèque et monothèque (×4). – 7. Fleur femelle, un pétale enlevé (×1/4). – 8. Fruit (×3/4). – 9. 10. Graines, vue de face et de profil (×1/4). (1-6 : Letouzey 4920; 7 : Louis 9417; 8-10 : Letouzey 4562). Dessin par M.D. Bergasse, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 26. Momordica cabrae; 1. Flowering stem with male floral buds (×3/4). – 2. Detail of the upper surface of the leaf blade (×7). – 3. Idem, lower surface (×7). – 4. Bud of the male flower (×1/4). – 5. Male flower, split floral section (×1/4). – 6. Bithecate and monothecate stamen (×4). – 7. Female flower, one petal removed (×1/4). – 8. Fruit (×3/4). – 9. 10. Seeds, front and profile view (×1/4). (1-6 : Letouzey 4920; 7 : Louis 9417; 8-10 : Letouzey 4562). Drawing by M.D. Bergasse, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

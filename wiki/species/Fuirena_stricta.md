@@ -35,6 +35,14 @@ In marshes and wet depressions of savannas, grasslands and forest clearings; in 
 
 Section of a stem. – C. Part of an inflorescence. Inflorescence. – C. Spikelet. – D. Part of the rachis. – – D. Spikelet. – E. Glume. – F. Flower. – G. Fruit with E. Glume with its flower. – F, G. Flower between 2 membranous scales segments of persistent perianth. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Fuirena stricta](../sources/Cyperaceae_vol44_liteparse/figures/fig_131_p0155.png)
+
+*Plate 101. Fimbristylis thonningiana. A. Plant. Plate 102. Fuirena stricta. A. Plant. – B. Section – B. Base of blade showing the sheath orifice. of a stem. – C. Apex of blade. – D. Orifice of the – C. Section of a stem. – D. Part of blade. leaf sheath. – E. Inflorescence. – F. Spikelet. – G. – E. Margin of blade. – F. Spikelet with glumes Glume. – H. Flower. – I. Fruit with filaments and segments detached. – G. Glume. – H. Old flower. – 9. Fruit. of persistent perianth. Original drawing by Richard*
+
+![Fuirena stricta](../sources/Cyperaceae_vol44_liteparse/figures/fig_134_p0157.png)
+
 ## Notes
 
 <!-- TODO:notes -->

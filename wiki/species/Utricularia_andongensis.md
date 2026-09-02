@@ -33,6 +33,16 @@ Guinea, Sierra Leone, Liberia, Nigeria, Cameroon, Gabon, Central African Republi
 
 Marshes, wet grasslands, ponds and wet mossy rocks; in Gabon from (5–)30–630(–758) m altitude, in East Africa up to 1800 m. B: Taylor (1964, 1972, 1989), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Utricularia andongensis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_082_p0097.png)
+
+*Plate 31. Utricularia andongensis : 1. Whole plant (× 1). – 2. Base of the plant showing the rhizoids, leaves, utricles and the base of the peduncle (× 8). – 3. Utricle (× 60). – 4. Bract (× 30). – 5. Bracteole (× 30). –6. Flower, lateral view (× 8). – 7. Flower, front view (× 8). – 8. Upper lip of the corolla (× 8). – 9. Stamen (× 30). – 10. Style and stigma (× 30). – 11. Fruit, ventral view, with lower lobe of the calyx separated (× 12). – 12. Epidermal cells of the fruiting calyx (× 15). – 13. Seed (× 90). (1, 6 : Hepper 1793 ; 2-5, 7-10 : Drummond & Hemsley 4638 ; 11, 12 : Stanfield 120 ; 13 : Hepper 1770 ). Drawing by P.*
+
+![Utricularia andongensis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_091_p0102.jpeg)
+
+*Figure 10. Utricularia andongensis (Gabon) : A-C. – Utricularia capillacea (Gabon) : D (Photos J.P.*
+
 ## Notes
 
 <!-- TODO:notes -->

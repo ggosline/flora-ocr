@@ -34,6 +34,16 @@ From Cameroon to Congo; fairly widespread in Gabon, found in Ngounié, Nyanga, O
 
 Swamp forests, sometimes along watercourses and at pond margins; in Gabon, at 300–600 m altitude, in Cameroon up to 700 m. Taxonomic note: very close to M. secans, differing from it by its green involucral bracts, its larger achenes with a different colour pattern. Bibliography: Nelmes (1955a), Raynal (1968b).
 
+## Figures
+
+![Mapania pynaertii](../sources/Cyperaceae_vol44_liteparse/figures/fig_155_p0179.jpeg)
+
+*Figure 19. Achenes of a) Mapania purpuriceps ( Klaine 12 , Estuaire, Gabon) and b) Mapania pynaertii ( Raynal 10375 , Cameroon). of 9–11 mm , plane, linear, the 2 lower ones wide 1–1,2 mm , brown becoming strongly striated with dark purplish brown toward the tip, keel non-winged and coarsely denticulate-hispid, acute at apex, the 2 upper ones wide 0,7–0,8 mm, glabrous, acute or truncate at apex ; style of 6,5–9 mm, with 2 branches long 3–4,5 mm. Obovoid achene, 1,3–1,6 × 0,9–1,1 mm, brown to blackish, rugose with 2 lateral ribs and 1 anterior.*
+
+![Mapania pynaertii](../sources/Cyperaceae_vol44_liteparse/figures/fig_157_p0181.png)
+
+*Plate 113. Mapania pynaertii (A-D) and Mapania Plate 114. Mapania raynaliana. A. Plant. – B. scaberrima (E-H). A. Plant. – B. Inflorescence. Inflorescence. – C. Blade margin. – D. Bract – C. Flower, scales separated. – D. Achene. – E. spicoid. – E. Spicoid. Drawing by Christine*
+
 ## Notes
 
 <!-- TODO:notes -->

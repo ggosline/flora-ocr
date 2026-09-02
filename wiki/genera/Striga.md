@@ -47,6 +47,19 @@ Bibliography
 
 - Robust plant, 50–150 cm in height; inflorescence in dense spike; white corolla with yellow throat; limb 3–12 mm in width ........................................... S. macrantha
 
+## Key to the species
+
+1. - Calyx with 5 nerves ............................................................................................ 2
+- Calyx with 10 to 15 nerves ................................................................................... 3
+2. - Corolla purple, lower lip 5–5.5 mm in length; limb narrowly
+triangular-ovate, 1–2.5 mm in width; savanna plant ............... S. bilabiata
+- Corolla yellowish orange, lower lip 35–40 mm in length; limb
+triangular-ovate, 12–30 mm wide; forest plant ........................ S. hallaei
+3. - Delicate plant, (5–)10–15(–30) cm in height; inflorescence in loose spike; corolla
+dark red to yellow; limb less than 1 mm in width ....................... S. asiatica
+- Robust plant, 50–150 cm in height; inflorescence in dense spike; corolla white
+with yellow throat; limb 3–12 mm in width ........................................... S. macrantha
+
 ## Species in region
 
 | Species | Vol | Pages |

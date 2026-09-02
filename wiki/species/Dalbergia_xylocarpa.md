@@ -45,6 +45,12 @@ Prehensile branchlet. – 4. Flower. – 5. Standard, inner face. – 6. Wing, o
 
 b: Lachenaud & Maesen (2016). Bibliography
 
+## Figures
+
+![Dalbergia xylocarpa](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_059_p0159.png)
+
+*Plate 51: Dalbergia xylocarpa: 1. Fruiting branch. – 2. Leaflet, detail of the lower surface. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

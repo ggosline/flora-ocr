@@ -42,6 +42,15 @@ Bibliography
 
 .................................................................................................. S. gabonensis
 
+## Key to the species
+
+1. - Sepals entirely pubescent on their outer surface ......................... S. sp. (nov. ?)
+- Sepals glabrous or partially pubescent on their outer surface, at least glabrous
+on their margins (the edge may be ciliate) .................................................................. 2
+2. - Pedicel 2–5(–7) mm; lamina with midvein glabrous above ....... S. glabrescens
+- Flower sessile or with pedicel 0.5–1.5 mm; lamina with midvein pubescent
+above .................................................................................................. S. gabonensis
+
 ## Species in region
 
 | Species | Vol | Pages |

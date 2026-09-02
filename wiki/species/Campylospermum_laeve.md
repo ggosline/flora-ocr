@@ -34,6 +34,12 @@ Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabin
 
 Primary and riparian forest; in Gabon, at 30–400 m altitude, elsewhere up to 750 m. Use: The wood is used for construction and the leaves can be used against headaches and tooth pain. The dried leaves are smoked as tobacco (Bamps & Farron, 1967). Taxonomic note: This species is easily distinguished by its serrulate and revolute margin. The variation in the lamina ratio is remarkable: 2.0 to 8.5. It resembles C. engama by the long petiole, but differs from it by the lamina which is not decurrent on the petiole and by its shorter racemes. Furthermore, it was represented in 1986 on a postage stamp of Gabon. Bibliography: Bamps & Farron (1967), Bissiengou (2014), Farron (1963, 1968, 1985).
 
+## Figures
+
+![Campylospermum laeve](../sources/Ochnaceae_vol48_liteparse/figures/fig_027_p0058.png)
+
+*Plate 15. Campylospermum laeve : 1. Branch with floral buds. – 2. Flowering branch. – 3. Young infructescence with persistent sepals. – 4. Infructescences. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

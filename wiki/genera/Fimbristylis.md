@@ -39,6 +39,42 @@ Bibliography: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar e
 
 ................................................................................................................ F. squarrosa
 
+## Key to the species
+
+1. - Annual herb; glumes with the central nerve prolonged by a long mucro (at least half the length of the glume) ..................................................... 2
+- Annual or perennial herb; glumes without or with a short mucro.......................... 3
+2. - Glume with glabrous awn; style without fringe; achene cylindric, approximately 0.2 mm wide .................................................................................................... F. dipsacea
+- Glume with scabrous awn; style fringed; achene obovoid, approximately 0.5 mm wide
+................................................................................................................ F. squarrosa
+3. - Inflorescence formed of a solitary spikelet (rarely 2) .................... F. schoenoides
+- Inflorescence in an anthela, lax or dense, of 3‒100 (or +) spikelets ........................ 4
+4. - Spikelets grouped in a sessile fascicle and several pedunculate ones .............. F. cymosa
+- Spikelets separate in a lax anthela or gathered in a single group .............. 5
+5. - Style with 3 stigmas; style not compressed; achene triangular to rounded ................ 6
+- Style with 2 stigmas; style compressed, often ciliate; achene biconvex ................ 11
+6. - Anthela with more than 100 spikelets; plant more than 120 cm tall ....... F. splendida
+- Anthela with fewer than 100 spikelets; plant usually less than 100 cm tall ..................................................................................................................... 7
+7. - Stem distinctly compressed below the inflorescence ..................................................... 8
+- Stem rounded or angular below the inflorescence .................................................... 9
+8. - Glumes 2‒3 mm long; spikelet 1.5‒2.5 mm wide; root system robust ................................................................................................ F. complanata
+- Glumes 1‒1.5 mm long; spikelet less than 1.2 mm wide; roots slender
+........................................................................................................... F. thonningiana
+9. - Rhizome thick; base of plant covered with twisted fibres .............. F. scabrida
+- Root system very slender; base of plant without such fibres ..................... 10
+10. - Spikelets almost globose; glumes obtuse ........................................... F. littoralis
+- Spikelets ovoid to lanceolate; glumes shortly mucronate .... F. quinquangularis
+11. - Apex of glumes covered by short white hairs; saline habitats near the sea ....................................................................................... F. ferruginea
+- Glumes glabrous except the margins ............................................................................ 12
+12. - Perennial herb; glumes 4‒5 mm long; achene 1.4 mm wide, smooth to weakly striate ........................................................................................ F. gabonica
+
+---
+
+- Perennial or annual herb; glumes 2‒3.5 mm long; achene 0.4‒1 mm wide, with 5‒20 prominent longitudinal furrows on each side of the achene ................................................................................................................... 13
+13. - Spikelets 3‒4 mm wide; achene 1.2‒1.7 × 1.2‒1.4 mm, with 15‒20 longitudinal furrows on each side ...................................................................... F. pilosa
+- Spikelets less than 3 mm wide; achene 0.6‒1.2 × 0.4‒1.0 mm, with 5‒10 longitudinal furrows on each side ................................................................. 14
+14. - Spikelets 1.6‒3 mm wide; root system slender or robust; achene 0.7‒1.2 × 0.5‒1 mm, with 5‒10 longitudinal furrows on each side .......... F. dichotoma
+- Spikelets at most 1.5 mm wide; root system slender; achene 0.6‒0.7 × 0.4‒0.5 mm, with 5‒7 longitudinal furrows on each side ...... F. bisumbellata
+
 ## Species in region
 
 | Species | Vol | Pages |

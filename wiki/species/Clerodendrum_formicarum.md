@@ -35,6 +35,28 @@ Drummond & Hemsley 4701; 2: Hansen 904; 3-7: Paulo 537; 8-10: Snowden 38). Drawi
 
 A B D E C F G F. Flowering plant; G. Flower. Photos by Matthew Walters (A, B: Nigeria, Mambilla Plateau, Ngel Nyaki Forest Reserve), Stefan Dressler (C, D: Rwanda) and Xander van der Burgt (E-G: Rep. of the Congo, Lékou mou, Vouka).
 
+## Figures
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_031_p0033.png)
+
+*Plate 6 . Clerodendrum formicarum : 1. Flowering stem (× ⅔). – 2. Hollow stem and persistent pseudospines (× ⅔). – 3. Flower (× 4). – 4. Corolla open and stamens (× 6). – 5. Ovary (× 12). – 6. Stigma (× 12). – 7. Ovary, longitudinal section (× 16). – 8. Infrutescence (× 2). – 9, 10. Pyrenes (× 2¼). (1 :*
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_032_p0034.jpeg)
+
+*Figure 2 . Clerodendrum formicarum : A. Inflorescence ; B. Flowers. – Clerodendrum fuscum : C. Flowering stem ; D. Fully open flowers and in bud. – Clerodendrum sassandrense : E. Habit (uprooted plant) ;*
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_033_p0034.jpeg)
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_034_p0034.jpeg)
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_035_p0034.jpeg)
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_036_p0034.jpeg)
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_037_p0034.jpeg)
+
+![Clerodendrum formicarum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_038_p0034.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

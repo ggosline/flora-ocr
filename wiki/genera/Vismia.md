@@ -41,6 +41,13 @@ Bibliography
 
 - Blade tomentose (surface not visible) below ........... V. rubescens var. tomentosa
 
+## Key to the species
+
+1. - Liane or sarmentose shrub; inflorescences in terminal cymose panicles, longer than the axillant leaves; leaves rounded to subcordate at the base; stamen fascicles glabrous ............................................... 2
+- Shrub or small tree; inflorescences in axillary cymes or apparently terminal on young lateral branchlets, shorter than the axillant leaves; leaves cuneate to obtuse at the base; stamen fascicles pubescent .......................................................................................... V. guineensis
+2. - Lamina glabrous or pubescent (surface visible) below ... V. rubescens var. rubescens
+- Lamina tomentose (surface not visible) below ........... V. rubescens var. tomentosa
+
 ## Species in region
 
 | Species | Vol | Pages |

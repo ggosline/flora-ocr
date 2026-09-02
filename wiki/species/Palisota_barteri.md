@@ -32,6 +32,12 @@ Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Eq
 
 Understory of humid forests; in Gabon from 10 to 700 m elevation, elsewhere from 220 to 1300 m. Flowering and fruiting nearly year-round. Bibliography: Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Morton (1967), Sosef et al. (2006)
 
+## Figures
+
+![Palisota barteri](../sources/Commelinaceae_vol55_liteparse/figures/fig_030_p0055.jpeg)
+
+*Plate 14 . Palisota barteri : 1. General aspect. – 2. Flower. – 3. Upper stamens. – 4. Lower stamen. – 5. Staminode. – 6. Moniliform hair of staminode. – 7. Gynoecium. – 8. Fruit. – 9. Seeds, dorsal view showing embryotegies. – 10. Ditto, dorsal view, showing hilums. Drawing by W.H. Fitch, reproduced from Hooker (1862 ; 1-7) and Engler (1908 ; 8-10).*
+
 ## Notes
 
 <!-- TODO:notes -->

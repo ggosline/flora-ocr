@@ -38,6 +38,10 @@ cultivated fields; cultivated up to 1500(–1800) m in altitude. Use: The oleagi
 
 sésame (Fr.) ; benne, beniseed, gingelli, sesame (Angl.) ; gergelim, gingelim, sésamo (Port.). oboyi (Batéké). Note taxonomique : originaire d’Inde, cette plante oléagineuse a été introduite en Afrique à une époque ancienne. Plusieurs chercheurs ont confirmé les expériences de l’auteur, en fournissant suffisamment de preuves pour invalider les affirmations persistantes concernant sa domestication en Afrique. Bi : Bedigian (2003, 2010), Dalziel (1955), Mkamilo & Bedigian (2007). B liographie
 
+## Figures
+
+![Sesamum indicum](../sources/Pedaliaceae_vol42_liteparse/figures/fig_028_p0063.png)
+
 ## Notes
 
 <!-- TODO:notes -->

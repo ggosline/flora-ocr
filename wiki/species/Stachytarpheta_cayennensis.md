@@ -37,6 +37,12 @@ gardens, secondary forests, roadsides, disturbed areas; in Gabon 0–585 m altit
 
 petite verveine queue de rat (fr.) ; rough-leaf false vervain, snakeweed (angl.). Usage : Les feuilles sont consommées et parfois utilisées contre les fièvres ou comme médicament pour l’estomac. Bi : Burkill (2000), Fernandes (2005), Huber et al. (1963), Sosef & et . al . (2006), Verdcourt B liographie (1992)
 
+## Figures
+
+![Stachytarpheta cayennensis](../sources/Verbenaceae_vol58_liteparse/figures/fig_105_p0145.png)
+
+*Plate 39 . Stachytarpheta cayennensis : 1. Habit (× ⅕ ). – 2. Leaf (× ⅔). – 3. Part of spike showing the cavities (× 4). – 4. Bract (× 6). – 5. Calyx, lower surface (× 6). – 6. Apex of the calyx, upper surface (× 6). – 7. Corolla opened showing two stamens and two staminodes (× 6). – 8. Gynoecium (× 6). – Stachytarpheta indica : 9. Flowering stem (× ⅔). – 10. Floral bract (× 6) – 11. Calyx, lower surface (× 6). – 12. Apex of the calyx, upper surface (× 6). – 13. Corolla opened (× 6). – 14. Gynoecium (× 6). (1 :*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ endemic species of Gabon, known hitherto only from the type collected in Ngouni�
 
 dense rainforest on terra firme near a stream; at 580 m altitude. B: Fischer & Lachenaud (2013). Bibliography
 
+## Figures
+
+![Torenia daubyi](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_060_p0142.png)
+
+*Plate 46. Torenia daubyi: A, B. Flowering stem. – C. Leaf. – D. Bract with axillary flower. – E. Calyx. –*
+
 ## Notes
 
 <!-- TODO:notes -->

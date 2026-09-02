@@ -31,6 +31,12 @@ Bibliography
 
 - Calyx 3–5 mm long, lobes 1–1.5 mm long, with narrow V- or U-shaped sinus between the lobes; stem erect, not rooting at the nodes ............. H. lanceolata
 
+## Key to the species
+
+1. - Calyx 5–7 mm long, lobes 2–3 mm long, with broad truncate sinus between lobes; stem sarmentose or prostrate, often rooting at lower nodes
+................................................................................................................. H. atrorubens
+- Calyx 3–5 mm long, lobes 1–1.5 mm long, with narrow V- or U-shaped sinus between lobes; stem erect, not rooting at nodes ............. H. lanceolata
+
 ## Species in region
 
 | Species | Vol | Pages |

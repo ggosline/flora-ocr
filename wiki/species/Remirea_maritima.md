@@ -40,6 +40,12 @@ beachstar (angl.)
 
 The plants are capable of stabilizing dunes and coastal sands. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Sosef & van der Maesen (1997)
 
+## Figures
+
+![Remirea maritima](../sources/Cyperaceae_vol44_liteparse/figures/fig_165_p0189.png)
+
+*Planche 117 . Remirea maritima . A. Plante. – B. Planche 118 . Rhynchospora brownii . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

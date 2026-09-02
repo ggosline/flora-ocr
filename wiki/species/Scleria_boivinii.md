@@ -42,6 +42,14 @@ couteau-de-singe, herbe-rasoir (fr.). dikèngitsi (masangu), djèngè (bavové),
 
 Use: A maceration of the leaves is drunk to facilitate or hasten childbirth. A decoction of the rhizomes is used against gonorrhea. Taxonomic note: easily recognized by its long stems, very branched and climbing. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Piérart (1953), Raponda-Walker & Sillans (1961).
 
+## Figures
+
+![Scleria boivinii](../sources/Cyperaceae_vol44_liteparse/figures/fig_183_p0209.png)
+
+*Planche 129 . Scleria boivinii . A. Plante. – B. Planche 130 . Scleria catophylla . A. Plante. – B.*
+
+![Scleria boivinii](../sources/Cyperaceae_vol44_liteparse/figures/fig_184_p0209.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic 
 
 Rainforests, swamp forests, forest galleries, clearings, roadsides; in Gabon, up to 1000 m in altitude. Flowers from September to January; fruits in February. Use: Used as rope for tying various bundles. b : De Wilde (1971), Robyns (1995). Bibliography
 
+## Figures
+
+![Adenia poggei](../sources/Passifloraceae_vol46_liteparse/figures/fig_039_p0064.png)
+
+*Plate 25. Adenia spp. – Schematized leaves : 1. Adenia lobata (2 variants) . – 2. Adenia cynanchiifolia. – 3. Adenia cissampeloides. – 4. Adenia staudtii. – 5. Adenia mannii. – 6. Adenia bequartii subsp. occidentalis. – 7. Adenia poggei. Drawing by W.J. van der Burg.*
+
 ## Notes
 
 <!-- TODO:notes -->

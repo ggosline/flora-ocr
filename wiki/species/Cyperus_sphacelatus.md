@@ -35,6 +35,14 @@ widely distributed in the tropical regions of Africa, America and the Pacific; c
 
 in open grassy areas and usually on sandy soil; in Gabon, 0–600 m, up to 1200 m in East Africa. Taxonomic note: recognized by its annual habit and its green spikelets often variegated with dark reddish-brown. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Cyperus sphacelatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_057_p0075.png)
+
+*Planche 45 . Cyperus sphacelatus. A. Plante. – B. Planche 46 . Cyperus squarrosus. A. Plante. – B.*
+
+![Cyperus sphacelatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_058_p0075.png)
+
 ## Notes
 
 <!-- TODO:notes -->

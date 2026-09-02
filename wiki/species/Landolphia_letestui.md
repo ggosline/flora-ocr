@@ -26,6 +26,20 @@ Le Testu 7950; 2–10: J.J.F.E. de Wilde et al. 599). Drawing by Wil Wessel-Bran
 
 Distribution Cameroon, Gabon, western Democratic Republic of the Congo, and Angola. Cabinda to Gabon: Estuaire, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Lolo. Ecology Primary and secondary forest in Gabon, up to 800 m altitude. B: Beentje (2021), Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia letestui](../sources/Apocynaceae_vol59_liteparse/figures/fig_106_p0125.jpeg)
+
+*Figure 7 . Landolphia foretiana $,QÀRUHVFHQFH%6RPPHWG¶XQHWLJH± Landolphia incerta : C : ,QÀRUHVFHQFH± Landolphia letestui '7LJHÀRULIqUH(,QÀRUHVFHQFH± Landolphia subrepanda : F :*
+
+![Landolphia letestui](../sources/Apocynaceae_vol59_liteparse/figures/fig_116_p0135.jpeg)
+
+*Plate 57 . Landolphia leptantha 5DPHDXÀRULIqUHîҀ±)OHXUî±,GHPVHFWLRQORQJL - tudinal (× 6). – 4. Pistil (× 20). – 5, 6. Stamen, ventral and dorsal views (× 20). – 7. Fruit (× 1). (1-6 :*
+
+![Landolphia letestui](../sources/Apocynaceae_vol59_liteparse/figures/fig_117_p0136.jpeg)
+
+*Plate 58 . Landolphia letestui – 4. Flower (× 6). – 5. Idem, longitudinal section (× 6). – 6. Pistil (× 18). – 7, 8. Stamen, dorsal and*
+
 ## Notes
 
 <!-- TODO:notes -->

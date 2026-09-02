@@ -39,6 +39,12 @@ in dry or marshy open places such as grasslands, steppes, secondary vegetation a
 
 In Senegal, the entire plant is consumed by livestock when no other is available; the fibres are sometimes used for making mats (Burkill, 1985). The entire plant is burned with Cordia africana Lam. in fumigation of fingers affected by the handling of cotton fibres (Burkill, 1985). It is a very common weed of cultivations. Taxonomic note: highly variable, usually recognized by the hairy stems, filiform leaves, the abundance of long fine hairs at the collar of the sheath and the transversely ridged fruits. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Bulbostylis hispidula](../sources/Cyperaceae_vol44_liteparse/figures/fig_024_p0028.png)
+
+*Planche 12. Bulbostylis hispidula. A. Plante. – B. Orifice de la gaine foliaire. – C. Inflorescence. – D.*
+
 ## Notes
 
 <!-- TODO:notes -->

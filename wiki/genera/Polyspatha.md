@@ -36,6 +36,13 @@ Bibliography
 
 - Leaf blade with long uniseriate hairs only on the upper face, as well as the
 
+## Key to the species
+
+1. - Spathe falcate; leaf blade lacking long uniseriate hairs, often scabrous above; seed ribbed, with (12–)14 to 18 smooth continuous ribs ....... P. paniculata
+- Spathe broadly ovate-falcate; leaf blade provided with long uniseriate hairs, always on the upper surface, never scabrous above; seed superficially ribbed-reticulate or deeply ribbed with (17–)18 to 23 prominent and knotted ribs, interrupted transversely or not ....................................................... 2
+2. - Leaf blade furnished with long uniseriate hairs on both surfaces, as well as the internodes and the sheath; spathes tufted, becoming deflexed against the floral axis, with surface of dull cells, neither brown nor bubble-shaped under × 20 magnification; seed superficially ribbed-reticulate, neither knotted nor interrupted transversely ............................................................................................ P. hirsuta
+- Leaf blade with long uniseriate hairs only on the upper surface, as well as on the apex of the sheath; spathes well-spaced, generally erect to slightly deflexed, with surface of glossy cells, always near the dorsal nerve, brown, bubble-shaped under × 20 magnification; seed deeply ribbed, the ribs knotty and interrupted transversely (to be sought in Gabon) .................................................................................................... P. oligospatha
+
 ## Species in region
 
 | Species | Vol | Pages |

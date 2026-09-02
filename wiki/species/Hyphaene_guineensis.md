@@ -41,6 +41,12 @@ doum (Gamba, Sette Cama)
 
 It is the only palm species with costapalmate leaves present in Gabon. Not to be confused with the genus Borassus (for example B. aethiopum) introduced and rarely planted. Bibliography: Stauffer et al. (2014, 2017), van Valkenburg & Dransfield (2004). Bibliography
 
+## Figures
+
+![Hyphaene guineensis](../sources/Arecaceae_vol53_liteparse/figures/fig_025_p0036.jpeg)
+
+*Figure 1 . Hyphaene guineensis (Iguéla, Gabon) : A. General habitat, B. Detail of leaves and infructescences, C. Detail of the leaf, note the costapalmate nature of the leaf, D. Detail of the inflorescence and flowers. – Calamus deeratus (Obut, Cameroon) : E. General habitat. – Elaeis guineensis (Kribi, Cameroon) : F. General habitat. – Elaeis guineensis , form idolatrica (Bipindi, Cameroon) : G. Fused leaflets. – Phoenix reclinata (Belo, Cameroon) : H. General habitat. (Photos A-D by Johan van Valkenburg © ; E-H by Thomas L.P. Couvreur ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

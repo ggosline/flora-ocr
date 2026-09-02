@@ -38,6 +38,12 @@ Primary and secondarized forest, on inselbergs as well as in mangroves; in Gabon
 
 In the literature, this species has been confused with L. welwitschii and L. nigritana (Scott-Elliot) Keay. The situation will be clarified by Breteler (accepted). B: Breteler (accepted). Bibliography
 
+## Figures
+
+![Lannea glabrescens](../sources/Anacardiaceae_vol50_liteparse/figures/fig_014_p0018.png)
+
+*Plate 4 . Lannea glabrescens : 1. Fruiting branch. – 2. Branch with male inflorescences. – 3. Detail of the male inflorescence. – 4. Male flower, 1 sepal and 1 petal removed. – 5. Male flower, view from above. – 6. Detail of the pistillode. – 7. Branch with female inflorescences. – 8. Detail of the female inflorescence. – 9. Female flower. – 10. Female flower, 1 sepal and 1 petal removed. – 11. Fruit. (1, 11 : Harris et al. 8532 ; 2–6 :*
+
 ## Notes
 
 <!-- TODO:notes -->

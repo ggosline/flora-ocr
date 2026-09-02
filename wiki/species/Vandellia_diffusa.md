@@ -41,6 +41,12 @@ spreading false pimpernel (angl.). B : Fischer (1992, 1995, 1999), Fischer et al
 
 Fischer (©).
 
+## Figures
+
+![Vandellia diffusa](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_065_p0150.png)
+
+*Plate 51. Vandellia diffusa : A. Flowering stem. – B. Flowering and fruiting stem. – C. Flower. – D. Corolla open and spread. – E. Gynoecium. (A : Descoings 9348 , B : Vogel 111 , C–E : Fischer 625/87 ). Drawing by E.*
+
 ## Notes
 
 <!-- TODO:notes -->

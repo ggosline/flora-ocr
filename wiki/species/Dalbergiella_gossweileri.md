@@ -34,6 +34,12 @@ Equatorial Guinea, Gabon and Angola (Cabinda); in Gabon, known from Ngounié, Og
 
 primary and secondary forest, roadsides; at 30–600 m altitude. b: De la Estrella et al. (2010), Pellegrin (1949). Bibliography
 
+## Figures
+
+![Dalbergiella gossweileri](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_060_p0162.png)
+
+*Plate 52 : Dalbergiella gossweileri : 1. Flowering branch. – 2. Flower. – 3. Calyx, open. – 4. Standard. – 5. Wings. – 6. Keel. – 7. Androecium, tube open, inner surface. – 8. Pistil. – 9. Pod. (1–8 : Arends et al. 425 ; 9 : Wieringa et al. 6144 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

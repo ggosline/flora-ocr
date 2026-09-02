@@ -33,6 +33,12 @@ West Africa, from Sierra Leone to Cameroon and Democratic Republic of the Congo.
 
 primary or secondary forest, often near rivers; in Gabon at 15–860 m altitude, elsewhere up to 1200 m. B: Hepper (1968), Poulsen & Nordal (2005). Bibliography
 
+## Figures
+
+![Chlorophytum orchidastrum](../sources/Anthericaceae_vol41_liteparse/figures/fig_007_p0013.png)
+
+*Plate 1. Chlorophytum orchidastrum : 1. Leaf and inflorescence (× 0.5). – 2. External tepals and gynoecium (× 4). – 3. Stamen (× 7). – 4. Gynoecium (× 8). – 5. Fruit (× 3). – 6. Seed above (× 8). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ from Liberia to Ghana; Cameroon, Equatorial Guinea and Gabon where it is fairly 
 
 primary and secondary forest, sometimes in degraded forest or along forest trails, in dried swamps and in gallery forest, on clayey soil; in Gabon, at 10–380 m altitude, elsewhere up to 410 m. Use: This species is sometimes planted as an ornamental. Taxonomic note: very distinct species belonging to a restricted group of monocaulous species, with large leaves narrowly spatulate to narrowly elliptic-spatulate; C. duparquetianum is distinguished there by its short corymbose inflorescences. Bibliography: Bissiengou (2014), Farron (1963, 1968, 1985), Hawthorne & Jongkind (2006), Hutchinson, Dalziel & Keay (1954).
 
+## Figures
+
+![Campylospermum duparquetianum](../sources/Ochnaceae_vol48_liteparse/figures/fig_019_p0040.png)
+
+*Plate 7. Campylospermum duparquetianum: 1. Fruiting branch. – 2. Floral buds. – 3. Cotyledon incumbent. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

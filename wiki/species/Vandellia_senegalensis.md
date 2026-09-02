@@ -33,6 +33,12 @@ Senegal, Guinea-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, C
 
 primary and secondary rainforests, paths, clearings, river banks, on sandy soil; in Gabon, at 450–570 m altitude, in the Democratic Republic of the Congo, up to 850 m. B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Hepper (1963). Bibliography
 
+## Figures
+
+![Vandellia senegalensis](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_066_p0152.png)
+
+*Plate 52. Vandellia senegalensis : A. Flowering stem. – B. Flowering and fruiting stem. (A : Heudelot 804 ,*
+
 ## Notes
 
 <!-- TODO:notes -->

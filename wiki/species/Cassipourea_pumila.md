@@ -34,6 +34,12 @@ at 450 m altitude. Buds and flowers in June. b: Breteler (2008), Floret (1988). 
 
 Floret and D. Storez, reproduced with permission from the Muséum nationale d'Histoire naturelle (©) from Floret (1988).
 
+## Figures
+
+![Cassipourea pumila](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_053_p0106.png)
+
+*Plate 35. Cassipourea pumila : 1. Flowering branch (× ½). – 2. Stipule, external face (× 4). – 2'. Stipule, internal face (× 4). – 3. Inflorescence (× 4). – 4. Floral bud (× 4). - 5. Knotted flower (× 3½). – 6. Petal, internal face (× 5). – 7. Androecium and gynoecium (× 8). – 8. Anthers (× 15). – 9. Pistil (× 8). – 10. Ovule, lateral view (× 15). – 10'. Ovule, internal view (× 15). – 11. Fruit (× 3). – 12. Seed (× 6). – 13. Micropylar pole in longitudinal section (× 6). (1-10 : N. Hallé 2444 ; 11-13 : N. Hallé 2268 ). Drawing by J.J.*
+
 ## Notes
 
 <!-- TODO:notes -->

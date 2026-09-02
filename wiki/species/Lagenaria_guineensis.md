@@ -43,7 +43,7 @@ Keraudren (1967), Keraudren-Aymonin (1975)
 
 ![Lagenaria guineensis](../sources/Cucurbitaceae_vol57_paddle/figures/fig_051_p0075.png)
 
-*Planche 23. Lagenaria guineensis : 1. Tige florifère (×3/4). – 2. Bouton de la fleur mâle (×2/2). – 3. Idem, ouvert (×2/2). – 4. Sépale, vue externe (×7). (1 : Staudt 560; 2-4 : Rose 158). Dessin par M.D. Bergasse, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 23. Lagenaria guineensis : 1. Flowering stem (×3/4). – 2. Bud of the male flower (×2/2). – 3. Idem, open (×2/2). – 4. Sepal, external view (×7). (1 : Staudt 560; 2-4 : Rose 158). Drawing by M.D. Bergasse, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

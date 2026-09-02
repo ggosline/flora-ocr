@@ -35,6 +35,12 @@ fallows, fields, herbaceous savannas, roadsides; in Africa up to 1650 m in altit
 
 macroptilium à fleur pourpre, siratro (fr.) ; purple bean, purple bushbean, siratro (angl.). b : Anonymous (1975), Lewis et al. (2005), Mackinder et al. (2001). ibliographie
 
+## Figures
+
+![Macroptilium atropurpureum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_091_p0248.png)
+
+*Plate 83 : Macroptilium atropurpureum : 1. Flowering branch, with detail of the indument on the lower surface of the leaflet. – 2. Calyx. – 3. Standard. – 4. Wing. – 5. Keel. – 6. Legume. – 7. Seed. – Macroptilium lathyroides : 8. Flowering branch. – 9. Flower. – 10. Idem, view from above. – 11. Calyx. – 12.*
+
 ## Notes
 
 <!-- TODO:notes -->

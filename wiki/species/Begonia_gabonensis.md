@@ -33,6 +33,10 @@ hygromesophilous epiphyte in dense ombrophilous forests between 400 m and 600 m 
 
 <!-- caption: Plate 43. Begonia karperi: 1. Tip of a branch and ♂ inflorescences (× 0.4). – 2, 2a. Creeping rooting branch (× 0.4) and detail showing the indumentum (× 0.8). – 3. ♀ Flower (× 0.4). – 4. ♀ Inflorescence, exceptionally 2-flowered (× 0.4). – 5. ♀ Inflorescence (× ½). – 6, 6a. Ovary (× 1.5) and detail of the hairs (× 24). – 7. Styles and stigmas (× 2.5). – 8. Stigma, external face (× 8). – 9. -->
 
+## Figures
+
+![Begonia gabonensis](../sources/Begoniaceae_vol39_liteparse/figures/fig_058_p0093.png)
+
 ## Notes
 
 <!-- TODO:notes -->

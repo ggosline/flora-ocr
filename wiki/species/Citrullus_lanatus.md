@@ -51,7 +51,7 @@ Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Raemakers (2001), Vo
 
 ![Citrullus lanatus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_035_p0051.png)
 
-*Planche 13. Citrullus lanatus subsp. lanatus : 1. Tige à fleur mâle (×½). – 2. Tige à fleur femelle (×½). – 3. Détail du bord du limbe foliaire (×4). – 4. Fleur femelle, coupe longitudinale, deux pétales enlevés (×2). – 5. Fleur mâle, coupe longitudinale, deux pétales enlevés (×2). – 6. Étamine bithèque, face dorsale (×2). – 7. Fruit (×½). – 8. Idem, coupe transversale (×0,22). – 9. 10. Graines, vue de face et de profil (×3). (1, 3, 5, 6: Westphal 9000; 2, 4: Westphal 9360; 7, 8: Westphal 10282; 9, 10: Polhill 1298). Dessin par Wil Wessel (1-8), Naturalis Biodiversity Center (©) et par Anonymus (9, 10), British Museum of Natural History (©), reproduit avec permission à partir de Stevels (1990) et Jeffrey (1978).*
+*Plate 13. Citrullus lanatus subsp. lanatus : 1. Stem with male flower (×½). – 2. Stem with female flower (×½). – 3. Detail of leaf blade margin (×4). – 4. Female flower, longitudinal section, two petals removed (×2). – 5. Male flower, longitudinal section, two petals removed (×2). – 6. Two-chambered stamen, dorsal surface (×2). – 7. Fruit (×½). – 8. Ditto, transverse section (×0.22). – 9. 10. Seeds, front and profile view (×3). (1, 3, 5, 6: Westphal 9000; 2, 4: Westphal 9360; 7, 8: Westphal 10282; 9, 10: Polhill 1298). Drawing by Wil Wessel (1-8), Naturalis Biodiversity Center (©) and by Anonymus (9, 10), British Museum of Natural History (©), reproduced with permission from Stevels (1990) and Jeffrey (1978).*
 
 ![Citrullus lanatus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_036_p0052.png)
 
@@ -65,7 +65,7 @@ Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Raemakers (2001), Vo
 
 ![Citrullus lanatus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_041_p0052.png)
 
-*Figure 2. Cucumis afrotropicus (Kenema, Sierra Leone, Schaefer 06/434): A. Feuille, B. Fruits. – Cucumis melo subsp. melo (cultivé, Freising, Allemagne): C. Aspect général. – Cucumis melo subsp. meloides (Sal Rei, Boa Vista, Cabo Verde, Schaefer 2016/250): D. Fruits mûrs. – Cucumis metuliferus (cultivé, Freising, Allemagne): E. Aspect général. – Citrullus lanatus subsp. lanatus (cultivé, Freising, Allemagne): F. Aspect général. Photos A-F par Hanno Schaefer.*
+*Figure 2. Cucumis afrotropicus (Kenema, Sierra Leone, Schaefer 06/434): A. Leaf, B. Fruits. – Cucumis melo subsp. melo (cultivated, Freising, Germany): C. General appearance. – Cucumis melo subsp. meloides (Sal Rei, Boa Vista, Cabo Verde, Schaefer 2016/250): D. Ripe fruits. – Cucumis metuliferus (cultivated, Freising, Germany): E. General appearance. – Citrullus lanatus subsp. lanatus (cultivated, Freising, Germany): F. General appearance. Photos A-F by Hanno Schaefer.*
 
 ## Notes
 

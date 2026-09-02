@@ -27,6 +27,12 @@ Kew Bull. 71(4) : 55, 2 (2016). Ledermanniella boumiensis C.Cusset, Bull. Mus. n
 
 South Cameroon and Gabon; in Gabon, known from a single collection from Mbigou (Ngounié). B: Cheek et al. (2017), Cusset (1983, 1987a), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Inversodicraea boumiensis](../sources/Podostemaceae_vol51_liteparse/figures/fig_027_p0030.png)
+
+*Plate 9. Inversodicraea boumiensis. 1. General view (× 3). – 2. Fruiting branchlet (× 5). – 3. Leaflet (× 22). – 4. Flower at anthesis (× 22). – 5. Open flower (× 14). – 6. Pollen (× 140). – 7. Seed (× 160).*
+
 ## Notes
 
 <!-- TODO:notes -->

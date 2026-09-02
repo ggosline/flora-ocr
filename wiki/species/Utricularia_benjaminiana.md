@@ -37,6 +37,16 @@ Still or very slow-flowing waters of temporary pools, ponds and savanna rivers; 
 
 The photograph in Vande weghe et al. (2016) shows a variation of Utricularia inflexa and not of U. benjaminiana. B: Taylor (1964, 1972, 1989), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Utricularia benjaminiana](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_084_p0100.jpeg)
+
+*Figure 9. Utricularia arenaria (Zambie, Samfya) : A, B. – Utricularia benjaminiana : C–F (C, D, F,*
+
+![Utricularia benjaminiana](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_095_p0104.png)
+
+*Plate 34. Utricularia benjaminiana : 1. Inflorescence (× 1). – 2. Stolon with leaf and cleistogamous inflorescence (× 1). – 3. Part of leaf with utricles (× 8). – 4. Apex of the ultimate segment of the leaf (× 60). – 5. Utricle (× 30). – 6. Tubercle (× 8). – 7. Float with fruit of a cleistogamous flower (× 8). – 8. Bract (× 30). – 9. Calyx (× 8). – 10. Corolla, front view (× 8). – 11. Stamen (× 30). – 12. Ovary (× 30). – 13. Fruit of a chasmogamous flower with calyx (× 8). – 14. Seed (× 30). – 15. Cells of the testa (× 150). (1, 12 : Melville & Hooker 457 ; 2 : Dinklage 3277 ; 3, 4 : Baldwin s.n. ; 5 : Harley 2127 ; 6 :*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -40,6 +40,16 @@ Sunderland (2008).
 
 genetic studies (Faye et al. 2016) show that there clearly exist two distinct species of Podococcus, both known from Gabon. B: Faye et al. (2016) van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008). Bibliography
 
+## Figures
+
+![Podococcus acaulis](../sources/Arecaceae_vol53_liteparse/figures/fig_029_p0040.jpeg)
+
+*Figure 5. Sclerosperma walkeri (near Lastoursville, Gabon): A. Habit and habitat, B. Leaflets. – Sclerosperma mannii (Otottomo, Cameroon): C. Spiciform and erect inflorescence arising from the base of leaves. – Podococcus acaulis (Ndjolé, Gabon): D. Habit, acaulous plant, E. Detail of the lower surface of a pubescent leaflet, F. Young spiciform and erect inflorescence arising from the base of leaves. – Podococcus barteri (Mondah, Gabon): G. Habit with stem, H. Fruits. (photos by Thomas L.P. Couvreur ©).*
+
+![Podococcus acaulis](../sources/Arecaceae_vol53_liteparse/figures/fig_035_p0053.png)
+
+*Plate 17 . Podococcus acaulis : 1. Habit. – 2. Apex of a leaf. – 3, 4. Detail of the indumentum on the lower surface of the leaflet. – 5. Fruit-bearing inflorescence. – 6. Shoot, basal part. – 7. Sheath. – 8. Idem, detail of the indumentum. – 9. Triad of two male flowers and one female in bud. – 10. Part of the inflorescence before male anthesis. – 11. Idem, at male anthesis. – 12. Male flower. – 13. Gynoecium. – 14. Part of the inflorescence at female anthesis. – 15. Bract, detail of the upper surface. – 16. Female flower. – 17. Petals, inner view. – 18. Fruit. – 19. Idem, pericarp partially removed. – 20. Fruit, longitudinal section and with pericarp partially removed. (1 : Sunderland 3032 ; 2-5, 7, 8, 18-20 : Wieringa 5126 ; 6 : van Valkenburg 3134 ; 9, 10 : Wieringa 2917 ; 11-17 : Mcpherson 15078 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from van Valkenburg &*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -47,6 +47,12 @@ Ottelia 57 Fruiting spathe (× 0.9). – 6. Young fruit exposed (× 0.9). – 7.
 
 B: Burkill (1994), Cook (2004), Simpson (1989), Symoens (1984, 2009), Symoens & Sosef (2015). subsp. lancifolia (A.Rich.) Symoens Fl. Afr. centr.: 29 (2015). Ottelia lancifolia A.Rich., Tent. fl. abyss. 2: 280 (1850). Ottelia schweinfurthii Gürke in Urban & Graebner, Festschr. P. Ascherson: 543 (1904). Like the typical subspecies, but with petiole often very distinct and petals white or white with yellow base.
 
+## Figures
+
+![Ottelia ulvifolia](../sources/Hydrocharitaceae_vol50_liteparse/figures/fig_035_p0064.png)
+
+*Plate 24 . Ottelia ulvifolia : 1. Habit of the plant (× 0,2). – 2. Flowering spathe (× 0,9). – 3. Flower, one sepal removed, reproductive organs seen by transparency through the petals (× 1,8). – 4. Sepal (× 2,2). – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

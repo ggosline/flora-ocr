@@ -37,6 +37,18 @@ B: Atkins (2004), Cardoso et al. (2011), Chandler et al. (2014), Fernandes (2005
 
 2. - Inflorescence with scattered hairs; calyx with 4 teeth; corolla tube 4–6 mm long
 
+## Key to the species
+
+1. - Calyx at anthesis with 4 teeth, 2 of which are much reduced so that it often appears
+to have 2 teeth ................................................................................................... S . indica
+- Calyx at anthesis with 4 or 5 subequal teeth ........................................................... 2
+2. - Inflorescence with scattered hairs ; calyx with 4 teeth ; corolla tube 4–6 mm long
+................................................................................................................ S . cayennensis
+- Inflorescence glabrous ; calyx with 4 or 5 teeth ; corolla tube 7–11 mm long ..... 3
+3. - Leaf blade obtuse to rounded or somewhat acute at apex ; calyx with 4 equal
+teeth ...................................................................................................... S . jamaicensis
+- Leaf blade distinctly acute at apex, calyx with 5 equal teeth .............. S . urticifolia
+
 ## Species in region
 
 | Species | Vol | Pages |

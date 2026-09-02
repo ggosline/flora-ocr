@@ -35,6 +35,12 @@ herb frequent in humid places along streets and rivers, in vacant land, degraded
 
 The most important use of this herb concerns skin diseases, but several other medicinal applications are known. In Tanzania and China, it is used as a tonic and refreshment in case of fever. In South-East Asia, fresh or boiled leaves are eaten as a vegetable. B: Cannon (1978), Hargono et al. (1999), Jacques-Félix (1970), Townsend BIBLIOGRAPHY (1989)
 
+## Figures
+
+![Centella asiatica](../sources/Apiaceae_vol38_liteparse/figures/fig_012_p0013.png)
+
+*Plate 2. Centella asiatica : 1. Part of the plant. – 2. Stolon node with bud of normal leaves and fascicle of flowers at the other axil. – 3. Flower. – 4. Stamen. – 5. Fruit (lateral view).*
+
 ## Notes
 
 <!-- TODO:notes -->

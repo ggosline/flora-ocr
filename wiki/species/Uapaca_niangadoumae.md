@@ -36,6 +36,12 @@ endemic species of Gabon, known only from the Estuaire (Mondah Forest)
 
 primary and secondarized forest, sometimes periodically inundated; at 0–20 m altitude. b: Breteler (2012a). Bibliography
 
+## Figures
+
+![Uapaca niangadoumae](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_040_p0102.png)
+
+*Plate 34. Uapaca niangadoumae : A. Male flowering branch. ‒ B. Detail lower surface of a leaf. ‒ C. Young shoot. ‒ D. Detail lower surface of a young rolled leaf. ‒ E. Male inflorescence. ‒ F. Male inflorescence, some involucral bracts removed. ‒ G. Male flower. ‒ H.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -36,6 +36,12 @@ margins of primary and secondary lowland and montane forests, riparian forests, 
 
 charcoal tree, pigeon wood (angl.) ; déwisikè (bakèlè) ; divèsèkó (béséki) ; mu vèrivèsi (bavili) ; évesèc, évèzeghe (fang) ; igigongé (mpongwe) ; ivèvèzu (galoa) ; mbèsu (apindji) ; mbulu-mandji (nkomi) ; mokangala, mwala (mindumu) ; mosasa (bavové, ivéa, mitsogo) ; musósóbu (balumbu, bapunu, bavarama, bavungu, éshira) ; mutèndya (ngowé) ; nsósóbi (loango) ; tsèngè-mandji (orungu) ; udibè (benga). B : Faridah-Hanum (1997), Hutchinson et al. (1958), Polhill (1966), Raponda-Walker & i B liographie Sillans (1961), Wilmot-Dear (1991)
 
+## Figures
+
+![Trema orientale](../sources/Ulmaceae_vol58_liteparse/figures/fig_100_p0130.png)
+
+*Plate 35 . Trema orientale : 1. Flowering and fruiting branch (× ½). – 2. Male flower (× 8). – 3. Idem, longitudinal section (× 8). – 4. Female flower (× 10). – 5. Idem, longitudinal section (× 10). – 6. Ripe drupe (× 1). (1-5 : Lebrun 9871 ; 6 : Louis 23 ). Drawing by J.M. Lerinckx, Botanical Garden of Meise (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

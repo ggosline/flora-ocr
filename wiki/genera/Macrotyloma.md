@@ -33,6 +33,11 @@ Bibliography: Verdcourt (1982), Lewis et al. (2005), Mackinder et al. (2001).
 
 - Pod 2–3 mm wide; calyx with lobes 1–2 mm long; wings 8–10 mm long; leaf with rachis almost absent ................................................... M. tenuiflorum
 
+## Key to the species
+
+1. - Pod 3.5–4.5 mm wide; calyx with lobes 3–5.5 mm long; wings 12–14 mm long; leaf with rachis 1–2 mm .............. M. biflorum var. biflorum
+- Pod 2–3 mm wide; calyx with lobes 1–2 mm long; wings 8–10 mm long; leaf with rachis nearly absent ................................................... M. tenuiflorum
+
 ## Species in region
 
 | Species | Vol | Pages |

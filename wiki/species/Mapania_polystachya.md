@@ -33,6 +33,12 @@ endemic to Gabon and found only in the Lastoursville region in Ogooué-Lolo (2 c
 
 humid forests, sometimes along rivers and streams; at about 250 m altitude. Taxonomic note: M. polystachya is recognized by its spicoid bracts with characteristic stripes, pale brown with a central medium brown band. b: Nelmes (1955a). Bibliography
 
+## Figures
+
+![Mapania polystachya](../sources/Cyperaceae_vol44_liteparse/figures/fig_151_p0175.jpeg)
+
+*Figure 18. Épillet de a) Mapania polystachya ( Le Testu 8708 , Haut-Ogooué, Gabon) et akène de b)*
+
 ## Notes
 
 <!-- TODO:notes -->

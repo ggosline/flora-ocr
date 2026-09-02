@@ -36,6 +36,16 @@ River margins, forest-savanna margins, as well as in dense forest as in open mon
 
 See the notes under D. mannii. B: van der Burg (2006, under D. mannii), Damen et al. (2018), Hepper (1968). Bibliography
 
+## Figures
+
+![Dracaena perrottetii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_038_p0046.jpeg)
+
+*Figure 4. Dracaena nitens (near Ambam, Cameroon): A. Fruiting branch with coriaceous linear leaves. – Dracaena perrottetii (near Man airport, Ivory Coast): B. Fruiting branches, C.*
+
+![Dracaena perrottetii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_044_p0050.png)
+
+*Plate 17. Dracaena perrottetii : 1. Tip of a flowering branch. – 2. Open flower, internal face. – 3. Fruit, apical view. – 4. Fruit in lateral view. – 5. Seed. Drawing by Wil Wessel-Brand, Naturalis*
+
 ## Notes
 
 <!-- TODO:notes -->

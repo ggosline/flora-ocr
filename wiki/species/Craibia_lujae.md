@@ -34,6 +34,12 @@ Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, kno
 
 forest, secondarized forest, gallery forest; at 200–300 m altitude. b : Gillett (1960a), Hauman (1954a). Bibliography
 
+## Figures
+
+![Craibia lujae](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_034_p0089.png)
+
+*Plate 26 : Craibia lujae : 1. Flowering branch (× ½). – 2. Floral bud (× 5). – 3. Calyx (× 1.5). – 4. Bracteole (× 15). – 5. Standard (× 1.5). – 6. Wings (× 1.5). – 7. Keel (× 3). – 8. Pistil (× 1.5). – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

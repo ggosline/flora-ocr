@@ -44,6 +44,12 @@ The species recently described by Cheek et al. (2014) as B. vili Cheek, is morph
 
 Floral buds (× 2). – 4. Pistil (× 2). – 5. Pod (× ⅔). (1–4: Breteler & de Wilde 664; 5: Ejiofor FHI 14071). Drawing by Christine Grey-Wilson, Royal Botanic Gardens, Kew (©), reproduced with permission from Soladoye (1985).
 
+## Figures
+
+![Baphia leptostemma](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_024_p0062.png)
+
+*Plate 16 : Baphia leptostemma : 1. Habit (× ⅔). – 2. Detail of a leaflet, lower surface (× 2). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

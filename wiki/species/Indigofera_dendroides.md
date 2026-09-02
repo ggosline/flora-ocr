@@ -42,6 +42,12 @@ savannas, sandy soils, rocky slopes, inselbergs, ruderal stations; in Gabon at 4
 
 Variable for the number of leaflets and the colour of the pubescence. b: Cronquist (1954), Gillett (1971a), Hepper (1958), Pellegrin (1949). Bibliography
 
+## Figures
+
+![Indigofera dendroides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_078_p0214.png)
+
+*Plate 70: Indigofera dendroides: 1. Flowering and fruiting branch (× ½). – 2. Stipules (× 5). – 3. Floral bud (× 10). – 4. Spread bud, calyx removed (× 10). – 5. Flower, corolla removed (× 8). – 6. Gynoecium, longitudinal section (× 10). – 7. Pod (× 2). – 8. Seed (× 5). (1–8: Homblé 1300). Drawing by J.M.*
+
 ## Notes
 
 <!-- TODO:notes -->

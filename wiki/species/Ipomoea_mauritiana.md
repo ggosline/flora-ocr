@@ -39,6 +39,12 @@ The grated tuber is used to treat abscesses (collection A.M. Louis 2813). It is 
 
 amóngha-nzóc (fang) ; amóngó-di-dyéba (bakèlè) ; bódji-bu-lungu (bapunu) ; itindi-nyi-ndjógu (mpongwè) ; móngó-anyambyè (orungu) ; móngó-benga (nkomi) ; mongu-biysutsu (éshira, bavarama) ; móngu-matèngu (balumbu). B : Gonçalves (1987), Heine (1963), Lejoly & Lisowski (1992), Rapondaibliographie Walker & Sillans (1961)
 
+## Figures
+
+![Ipomoea mauritiana](../sources/Convolvulaceae_vol46_liteparse/figures/fig_029_p0042.png)
+
+*Plate 17. Ipomoea mauritiana : 1. Flowering branch. – 2, 3. Stamens. – 4. Fruit-bearing inflorescence. – 5. Seed.*
+
 ## Notes
 
 <!-- TODO:notes -->

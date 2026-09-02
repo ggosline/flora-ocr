@@ -40,6 +40,12 @@ abricotier d’Afrique, mammea (fr.) ; African apple, African apricot, African m
 
 The wood is valued for construction and joinery. It is suitable for railroad ties, turning and veneers. The logs traditionally serve to make monoxylous canoes. The fruit is edible only when sufficiently ripe. The seeds, edible, contain an oil used locally for cooking. A decoction of the bark would be used as an anthelmintic, to treat stomach complaints, gonorrhea, cough and anemia and to facilitate childbirth. For external use, it is used against wounds, lesions, ulcers, rheumatism, uterine and vaginal inflammations and fever. Bibliography: Bamps (1970a, 1971), Bamps et al. (1978), Hutchinson et al. (1954), Lemmens (2008b).
 
+## Figures
+
+![Mammea africana](../sources/Clusiaceae_vol45_liteparse/figures/fig_018_p0042.png)
+
+*Plate 9. Mammea africana: 1. Flowering branchlet (× ½). – 2. Leaf fragment, lower surface (× 1). – 3. Male flower (× 1.5). – 4. Bisexual flower (× 1.5). – 5. Gynoecium (× 1.5). – 6. Fruit (× ½). – 7. Stone (× ½). (1, 2: Louis 5974; 3: Léonard 1621; 4, 5: Gillet s.n; 6, 7: Louis 16707). Drawing by D. Leyniers, reproduced with permission of the National Botanical Garden of Belgium (©) from Bamps (1970a).*
+
 ## Notes
 
 <!-- TODO:notes -->

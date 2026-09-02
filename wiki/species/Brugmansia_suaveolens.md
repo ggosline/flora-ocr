@@ -37,6 +37,12 @@ Often escaped from cultivation and naturalized in forests, near watercourses, al
 
 stramoine en arbre, stramoine odorante (fr.) ; angel star, angel’s tears, angel’s trum pet, night bells, trumpet flower (angl.). Usage : B. suaveolens est planté comme arbre d’ornement dans les jardins publics et privés. En Amérique du Sud, les feuilles sont utilisées dans la médecine traditionnelle et les pratiques culturelles. Bi : Bennett (1992), Bikandu et al. (2020), Edmonds (2012), Heine (1963). B liographie
 
+## Figures
+
+![Brugmansia suaveolens](../sources/Solanaceae_vol55_liteparse/figures/fig_050_p0100.png)
+
+*Plate 29 . Brugmansia suaveolens : 1. Leaf. – 2. Flower. – 3. Interior view of the calyx. – 4. Apex of a sepal lobe. – 5. Dissected flower, interior of the corolla. – 6. Detail of the stigma. (1-6 : Edmonds s.n. ). Drawings by M. Tebbs (©), Royal Botanic Gardens, Kew, reproduced with permission from*
+
 ## Notes
 
 <!-- TODO:notes -->

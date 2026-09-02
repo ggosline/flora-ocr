@@ -36,6 +36,12 @@ Primary and secondarized forest; in Gabon up to 600 m elevation. Taxonomic note:
 
 Seed. ‒ Protomegabaria stapfiana: K. Female flower. ‒ L. Fruit. (A, D ‒ G: Breteler et al. 9677; B: J.J. de Wilde et al. 278; C, J: Breteler et al. 14675; H, I: Breteler et al. 11518; K: Leeuwen berg 3721; L: Breteler et al. 11518). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Protomegabaria macrophylla](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_030_p0077.png)
+
+*Plate 24. Protomegabaria macrophylla : A. Flowering male branch. ‒ B. Part of a branch showing the entrance of ants. ‒ C. Foliar glands. ‒ D. Foliar detail, lower surface. ‒ E. Inflorescences. ‒ F. Male flower. ‒ G. Diagram of an inflorescence. ‒ H. Female flowers. ‒ I. Fruit. ‒ J.*
+
 ## Notes
 
 <!-- TODO:notes -->

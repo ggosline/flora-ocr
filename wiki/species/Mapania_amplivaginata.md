@@ -35,6 +35,18 @@ Nigeria, Cameroon, Gabon and Angola; widespread in Gabon, found in Estuaire, Moy
 
 primary and secondary forests, sometimes along rivers and watercourses; in Gabon, at 40–600 m altitude, elsewhere up to 700 m. Taxonomic note: The shape and size of the leaves are particularly variable. It is recognized by the capitate inflorescence with distinct spikelets and the very wide and short (almost orbicular) involucral bract, partially covering the inflorescence. Superficially, it resembles M. pubisquama somewhat, but possesses at least one long foliaceous involucral bract. Under magnification, M. amplivaginata differs from it by the style with 2 branches and the 4 floral bracts. b: Hooper & Napper (1972), Simpson (1992). Bibliography
 
+## Figures
+
+![Mapania amplivaginata](../sources/Cyperaceae_vol44_liteparse/figures/fig_141_p0167.png)
+
+*Plate 109. Mapania amplivaginata. A. Plant. Plate 110. Mapania lancifolia (A-B) and Mapania – B. Apex of the blade. – C. Spike. – D. Bract heteromorpha (C-E). A. Plant. – B. Achene. – C. spicoidal. – E. Spicoid. – F. Fruit. Drawing Plate. – D. Flower in its bracts. – E. Achene. by Christine Grey-Wilson (©), reproduced with Drawing by M. Bizien for "Flora of Cameroon". permission from Simpson (1992).*
+
+![Mapania amplivaginata](../sources/Cyperaceae_vol44_liteparse/figures/fig_143_p0168.jpeg)
+
+*Figure 14. Akènes de a) Mapania afro-orientalis ( Raynal 9740 , Cameroun) et b) Mapania amplivaginata ( Breteler 12932 , Ngounié, Gabon).*
+
+![Mapania amplivaginata](../sources/Cyperaceae_vol44_liteparse/figures/fig_144_p0168.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

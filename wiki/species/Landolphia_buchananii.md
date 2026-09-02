@@ -27,6 +27,12 @@ Fl. trop. Afr. 4(1) : 35 (1902). Large liana; branches glabrous or hairy. Leaf: 
 
 dense forests, gallery forests, woody or herbaceous savannas, river margins; in Gabon at 500 m altitude, elsewhere at 0–2500 m. B: Beentje (2021), Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia buchananii](../sources/Apocynaceae_vol59_liteparse/figures/fig_103_p0118.jpeg)
+
+*Plate 49. Landolphia buchananii: 1. Flowering branch (× 1). – 2. Petiole and base of the blade, lower surface (× 1). – 3. Corolla open, with stamens (× 4). – 4. Stamen (× 10). – 5. Pistil (× 8). – 6. Fruit (× 1). – 7. Idem, transverse section (× 1). – 8. Seed (× 1). – 9. Idem, longitudinal and transverse section (× 2). (1, 2: Corner 14-9-1952; 3, 4: Robson 588; 5: J.J.F.E. de Wilde 6355; 6-10: Vuyk 426).*
+
 ## Notes
 
 <!-- TODO:notes -->

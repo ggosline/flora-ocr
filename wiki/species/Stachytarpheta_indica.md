@@ -41,6 +41,12 @@ Lye 1186; 2, 4-8: Deighton 4291; 3: Scott Elliot 4162; 9-14: Deighton 4173). Dra
 
 a second taxon which could be either an early introduction of S. angustifolia which has since developed different morphology, or a hybrid between S. angustifolia and S. jamaicensis. However, Fernandes (2006) treats the entire complex as a single species and regards S. angustifolia as a synonym of S. indica. Hammel & Grayum (2011) proposed the name S. friedrichsthalii Hayek for Atkins' unnamed taxon, based on their study of Central American species. They also identified the species as being present in Africa and that it is morphologically similar to Atkins' unnamed taxon. Given the taxonomic confusion in this particular complex, which cannot be resolved without further molecular systematic study, the traditional name for this taxon is retained here. B: Atkins (2004), Hammel & Grayum (2011), Huber et al. (1963). Bibliography
 
+## Figures
+
+![Stachytarpheta indica](../sources/Verbenaceae_vol58_liteparse/figures/fig_105_p0145.png)
+
+*Plate 39 . Stachytarpheta cayennensis : 1. Habit (× ⅕ ). – 2. Leaf (× ⅔). – 3. Part of spike showing the cavities (× 4). – 4. Bract (× 6). – 5. Calyx, lower surface (× 6). – 6. Apex of the calyx, upper surface (× 6). – 7. Corolla opened showing two stamens and two staminodes (× 6). – 8. Gynoecium (× 6). – Stachytarpheta indica : 9. Flowering stem (× ⅔). – 10. Floral bract (× 6) – 11. Calyx, lower surface (× 6). – 12. Apex of the calyx, upper surface (× 6). – 13. Corolla opened (× 6). – 14. Gynoecium (× 6). (1 :*
+
 ## Notes
 
 <!-- TODO:notes -->

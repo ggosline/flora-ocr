@@ -36,6 +36,18 @@ a b
 
 seasonally humid places on shallow soil, often in seepage zones on rocky domes; in Gabon, probably at an altitude of 400–800 m, up to 1500 m in East Africa. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997), Piérart (1953), Robinson (1966)
 
+## Figures
+
+![Scleria melanotricha](../sources/Cyperaceae_vol44_liteparse/figures/fig_197_p0220.png)
+
+*Planche 137 . Scleria melanotricha. A. Plante. – B. Planche 138 . Scleria mikawana . A. Plante. – B.*
+
+![Scleria melanotricha](../sources/Cyperaceae_vol44_liteparse/figures/fig_199_p0221.jpeg)
+
+*Figure 28. Akènes de a) Scleria melanotricha ( Ngok Banak 1956 , Ogooué-Ivindo, Gabon) et b) Scleria naumanniana ( Thery 44 , Ogooué-Maritime, Gabon).*
+
+![Scleria melanotricha](../sources/Cyperaceae_vol44_liteparse/figures/fig_200_p0221.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ humid evergreen or secondary forest ; at 300 m altitude. Flowers and young fruit
 
 Two poorly known Congolese species and also with large flowers, P. hypoleucum Taub. and P. poggei Taub., are close to P. bambidiense , but have small bracteoles, about 2 × 2 mm. B : van der Maesen (2010). Bibliography
 
+## Figures
+
+![Platysepalum bambidiense](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_112_p0320.png)
+
+*Plate 104: Platysepalum bambidiense: 1. Flowering branch. – 2. Base of leaflets with stipels. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -32,6 +32,12 @@ widespread in Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, ob
 
 humid savannas; in Gabon, at 640 m altitude, in Democratic Republic of the Congo (Katanga), up to 1200 m. B: Mielcarek (1996), Walters et al. (2011). Bibliography
 
+## Figures
+
+![Buchnera paucidentata](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,26 @@ Guinea, Sierra Leone, Liberia, Ivory Coast, Chad, Gabon, Democratic Republic of 
 
 Seasonally flooded marshy savannas; in Gabon at 5–100 m altitude, in East Africa chiefly between 0 and 1860 m. B: Taylor (1964, 1972, 1989), Vandewe­ghe et al. (2016). Bibliography
 
+## Figures
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_113_p0118.jpeg)
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_114_p0118.jpeg)
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_115_p0118.jpeg)
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_116_p0118.jpeg)
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_117_p0118.jpeg)
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_119_p0120.png)
+
+*Plate 42. Utricularia spiralis: 1. Entire plant (× 1). – 2, 3. Leaves (× 8). – 4. Utricle (× 60). – 5.*
+
+![Utricularia spiralis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_126_p0124.jpeg)
+
+*Figure 15. Utricularia spiralis (C, Zambie, N de Kasama) : A-E. (Photos A, B, D, E par J.P. Vande weghe © ; C, par A. Fleischmann ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

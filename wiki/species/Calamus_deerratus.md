@@ -45,6 +45,12 @@ The cane is used in basketry, but only in the absence of other, more prized ratt
 
 Liane species, easily distinguished by the absence of a cirrus at the leaf apex, but the presence of a long flagellum [modified inflorescence] in the leaf axil. B: Dransfield (1986, 2010), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Sun derland (2007, 2012)
 
+## Figures
+
+![Calamus deerratus](../sources/Arecaceae_vol53_liteparse/figures/fig_014_p0012.png)
+
+*Plate 1 . Calamus deerratus : 1. Mature stem. – 2. Part of the leaf. – 3. Inflorescence and part of the flagellum. – 4. Male flower. – 5. Male flowering branch. – 6. Female flower. – 7. Fruits. – 8. Fruit, longitudinal section. Scale bar : 1 = 8 cm, 2 = 5 cm, 3 = 10 cm, 4 = 7 mm, 5 = 5 cm, 6 = 5 mm, 7 = 2 cm, 8 = 1.5 cm. (1, 2 : Sunderland 22 ; 3-5 : Sunderland 1754 ; 6 : Deighton 1847 ; 7, 8 : Eggeling 1626 ). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

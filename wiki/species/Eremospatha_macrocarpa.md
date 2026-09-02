@@ -34,6 +34,12 @@ Heliophilous species favoring forest edges and clearings; in Gabon between 10 an
 
 eètá (babongo) ; gheeta (mitsogo) ; iganga-tsungu (bapunu) ; ke-gèma (lumbu) ; mbubi (ndumu) ; ndètèse (bakota) ; nyèvila (sira) ; ongam (fang ; stipe adult) ; songu (vumbu) ; tongo (mitsogo). Usage : Réputé pour sa canne de haute qualité dans la fabrication des meubles en rotin. B : Cosiaux et al. (2018), Faye et al. (2014), Pajarón et al. (2015), Raponda-Walker & Sillans i B liographie (1961), Sunderland (1998, 2007, 2012)
 
+## Figures
+
+![Eremospatha macrocarpa](../sources/Arecaceae_vol53_liteparse/figures/fig_022_p0028.png)
+
+*Plate 9. Eremospatha macrocarpa: 1. Mature stem. – 2. Leaflets. – 3. Young leaf. – 4. Inflorescence. – 5. Fruit. Scale bar: 1 = 3 cm, 2-4 = 5 cm, 5 = 2.5 cm. (1, 2, 4: Sunderland 1886; 3: Sunderland 1901; 5: Sunderland 1956). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

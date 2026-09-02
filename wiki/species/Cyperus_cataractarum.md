@@ -35,6 +35,14 @@ rocky zones in the bed of rivers and near watercourses; in Gabon, 0–550 m. Tax
 
 Plant. – B. Base of blade. – C. Inflorescence. – Spikelet. – D. Glume. – E. Flower. – F. Fruit. Drawing D. Spikelet. – E. Glume. – F. Anther. – G. Fruit original by Richard W. Haines ©. with style and 3 filaments. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus cataractarum](../sources/Cyperaceae_vol44_liteparse/figures/fig_091_p0112.jpeg)
+
+*Figure 8. Achenes of a) Cyperus surinamensis ( Thery 88 , Ogooué-Maritime, Gabon) and b) Cyperus cataractarum ( Hallé & Villiers 4630 , Estuaire, Gabon). each a fascicle of spikelets or a new group of fascicles of sessile and pedunculate spikelets ; main branches of the inflorescence up to 10 cm long, glabrous or finely scabrous ; fascicles of spikelets, neither in spikes nor digitate, but densely grouped into small irregular heads ; involucral bracts usually 5‒10, foliaceous, erect or spreading, the largest 5‒30 cm long, far exceeding the inflorescence. Oval spikelet becoming sometimes linear at maturity, of 4‒6 × 1.5‒2 mm , whitish or greenish white, strongly flattened, with 15‒30 flowers ; elliptic and clearly concave glumes, 1.2‒1.4 mm long, white or light brown, easily deciduous with the margins partially enveloping the achene, central nerve green trinerved. Flower : style with 3 branches. Achene elliptic to fusiform, of 0.7‒0.9 × 0.3 mm , triangular, reddish brown, smooth or finely papillose.*
+
+![Cyperus cataractarum](../sources/Cyperaceae_vol44_liteparse/figures/fig_094_p0115.png)
+
 ## Notes
 
 <!-- TODO:notes -->

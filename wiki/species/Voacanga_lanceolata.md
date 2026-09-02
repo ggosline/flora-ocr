@@ -26,6 +26,12 @@ At first glance, it is often not obvious whether the fruit is ripe, because of t
 
 Breteler & de Wilde 753). Drawing by Juliet Williamson, Naturalis Biodiversity Center (©), reproduced from Leeuwenberg (1985).
 
+## Figures
+
+![Voacanga lanceolata](../sources/Apocynaceae_vol59_liteparse/figures/fig_244_p0270.jpeg)
+
+*Plate 124 : Voacanga lanceolata : 1. Flowering branch (× ⅔). – 2. Flower (× 2). – 3. Calyx open, inner surface with colleters (× 2). – 4. Open corolla, with stamens (× 3). – 5. Stamen, ventral view (× 6).*
+
 ## Notes
 
 <!-- TODO:notes -->

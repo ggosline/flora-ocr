@@ -33,6 +33,12 @@ Tropical species of Africa, America and Asia; in Gabon, only recorded from the E
 
 Ruderal habitats; in Gabon at low altitude, elsewhere up to 700 m. Taxonomic note: The species is not mentioned by Lejoly & Lisowski (1992) for the Flora of Central Africa, yet it is present in the area of the Flora Zambesiaca (Gonçalves, 1987). B: Gonçalves (1987), Heine (1963). Bibliography
 
+## Figures
+
+![Ipomoea asarifolia](../sources/Convolvulaceae_vol46_liteparse/figures/fig_024_p0036.png)
+
+*Plate 12. Ipomoea asarifolia: 1. Flowering branch. – 2. Fruit and seed. Drawing by J. Berhaut, reproduced with permission from Berhaut (1975).*
+
 ## Notes
 
 <!-- TODO:notes -->

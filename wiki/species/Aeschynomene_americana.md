@@ -38,6 +38,12 @@ fallows, roadsides, marshes, riparian savannas; in Gabon, at 10–190 m altitude
 
 American joint-vetch (angl.). b : Bishop (1992), Léonard (1954a, 1954b). ibliographie
 
+## Figures
+
+![Aeschynomene americana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_011_p0025.png)
+
+*Planche 3 : Aeschynomene americana : 1. Ramille feuillée. – 2. Ramille fleurie et fructifère. Dessin par*
+
 ## Notes
 
 <!-- TODO:notes -->

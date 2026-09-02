@@ -37,6 +37,12 @@ Dense forest, palm groves; in Gabon up to 500 m in altitude, elsewhere up to 900
 
 ikókódi (bapunu, bayaka) ; mbikódi (mitsogo) ; mouvouka (bayaka). b : Tchinda & Tané (2008), Wilczek (1952). ibliographie
 
+## Figures
+
+![Amphimas pterocarpoides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_017_p0042.png)
+
+*Plate 9: Amphimas pterocarpoides: 1. Flowering branchlet (× ½). – 2. Flower (× 4). – 3. Flower, longitudinal section (× 4). – 4. Petal (× 5). – 5. Pod (× ½). – 6. Seed (× 1). (1-4: Corbisier 1195; 5: Louis 8643; 6: Louis 3165). Drawing by M. Boutique, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

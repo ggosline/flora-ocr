@@ -36,6 +36,12 @@ Androecium with disk glands and pistillode. ‒ K. Female inflorescence. ‒ L. 
 
 Primary and secondarized forest, gallery forest; in Gabon, at 0–600 m altitude. b: Léonard (1995a). Bibliography
 
+## Figures
+
+![Thecacoris trichogyne](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_035_p0091.png)
+
+*Plate 29. Thecacoris trichogyne : A. Leafy branch with stipules. ‒ 2, C. Leaf details from the lower surface. ‒ D, E. Leaves, lower surface. ‒ F. Male inflorescence. ‒ G ‒ I. Male flowers. ‒ J.*
+
 ## Notes
 
 <!-- TODO:notes -->

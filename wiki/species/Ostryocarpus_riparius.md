@@ -38,6 +38,12 @@ semi-aquatic, marshes, river banks, open forest, savanna edge, mangroves; in Gab
 
 All Gabonese specimens are lianescent, although Pellegrin (1949) and Dunn (1911b) mentioned as habit a sarmentose or climbing shrub. B: Burkill (1995), Dunn (1911b), Hauman (1954d), Pellegrin (1949). Bibliography
 
+## Figures
+
+![Ostryocarpus riparius](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_110_p0316.png)
+
+*Plate 102: Ostryocarpus riparius: 1. Flowering branch. – 2. Stipules. – 3. Axis of inflorescence. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

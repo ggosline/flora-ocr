@@ -29,6 +29,12 @@ Native to Mexico and tropical South America, naturalized in some parts of West A
 
 Secondary forests; in Gabon and elsewhere at 100–500 m. B: Morton (1963), Paton et al. (2013), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Hyptis atrorubens](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_063_p0069.png)
+
+*Plate 15. Hyptis atrorubens : 1. Habit (× 1). – 2. Flower (× 6). – 3. Apex of the lower lip and stamens (× 10). – 4. Achenes (× 10). (1-4: probably Von Wedel 526). Drawing by H.J. Cuddy, Missouri*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -32,6 +32,10 @@ Dense rainforests; 0–700 m altitude. B: Arends (1992), de Wilde (2002). BIBLIO
 
 <!-- caption: Plate 40. Begonia eminii: 1. Flowering branch with ♂ and ♀ inflorescence (× 0.4). – 2. Diagram of a ♂ inflorescence. – 3. Idem, ♀. – 4. Bracts united at the apex of the peduncle of a ♂ inflorescence (× 2.5). – 5. Idem, ♀ inflorescence (× 2.5). – 6. ♂ Flower (× 0.8). – 7-8. Androecium front and back (× 5). – 9-11. Anther front, back and profile (× 6.5). – 12. ♀ Inflorescence (× 0.8). – 13. -->
 
+## Figures
+
+![Begonia elaeagnifolia](../sources/Begoniaceae_vol39_liteparse/figures/fig_054_p0085.png)
+
 ## Notes
 
 <!-- TODO:notes -->

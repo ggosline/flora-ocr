@@ -35,6 +35,12 @@ Senegal, Gambia, Guinea, Guinea-Bissau, Burkina Faso, Mali, Sierra Leone, Liberi
 
 wet grasslands, marshes; in Gabon up to 485 m altitude, elsewhere from 280 to 2550 m. Flowering in May. B: Brenan (1968b), Cabezas et al. (2014), Faden (2012), Sosef et al. (2006). i Bibliography
 
+## Figures
+
+![Floscopa glomerata](../sources/Commelinaceae_vol55_liteparse/figures/fig_023_p0039.png)
+
+*Plate 8. Floscopa glomerata: 1. General aspect (× ⅕). – 2. Fruitfructescence (× 2). – 3. Flower (× 5). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

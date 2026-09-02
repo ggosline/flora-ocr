@@ -23,6 +23,12 @@ Vine reaching at least 10 m in height; branches smooth, glabrous or pubescent, b
 
 In van Dilst's revision (1995: 158), a note mentions "3 extremes" of B. welwitschii. These extremes are equivalent to the names placed in synonymy with B. welwitschii in this same publication. They are again accepted here as 3 distinct species: B. calophylla, B. erythrosticta and B. welwitschii s.s. B: Stapf (1902), van Dilst (1995). BIBLIOGRAPHY
 
+## Figures
+
+![Baissea welwitschii](../sources/Apocynaceae_vol59_liteparse/figures/fig_041_p0049.jpeg)
+
+*Planche 17 . Baissea welwitschii Baissea calophylla :*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ Republic of the Congo and Gabon; in Gabon, known from Haut-Ogooué, Ngounié and
 
 edges of ponds or shallow waters of damp grasslands on sandy soil; in Gabon at 10–400 m altitude, elsewhere up to 500 m. Taxonomic notes: A rarely collected species with an apparently rather localized distribution. In Gabon, it is found from the coastal plain to the Batéké Plateaus and its adjacent part of the Republic of the Congo. Larger specimens are difficult to separate from S. poggeanus. The dimensions of the vegetative apparatus and capitula overlap, but S. ngoweensis is less robust, with more numerous, softer and narrower leaves. The involucral bracts are also more acute than in S. poggeanus. B: Kimpouni, Lejoly & Lisowski (1994). Bibliography
 
+## Figures
+
+![Syngonanthus ngoweensis](../sources/Eriocaulaceae_vol48_liteparse/figures/fig_014_p0024.png)
+
+*Plate 4. Syngonanthus ngoweensis : 1. Habit of the plant. – 2. Capitulum. – 3. External involucral bracts. – 4. Internal involucral bracts. – 5. Male flower. – 6. Sepals of the male flower. – 7. Internal view of the male corolla tube with stamens and pistillode. – 8. Female flower. – 9. Female corolla tube. – 10. Gynoecium of the female flower. (1–10 : Walters et. al. 1555). Original drawing by Margaret Tebbs (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

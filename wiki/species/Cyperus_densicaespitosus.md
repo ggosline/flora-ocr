@@ -34,6 +34,16 @@ widely distributed in West Africa, from Senegal to the Democratic Republic of th
 
 in mangroves and brackish marshes ; at sea level. Taxonomic note : easily recognized by its reddish-brown hemispherical heads, partially masked by the base of the large foliaceous bracts. B : Lye (2011b). Bibliography
 
+## Figures
+
+![Cyperus densicaespitosus](../sources/Cyperaceae_vol44_liteparse/figures/fig_069_p0090.png)
+
+*Plate 53 . Cyperus densicaespitosus. A. Plant. Plate 54 . Cyperus erectus subsp. erectus. – B. Base of the blade with the sheath opening. – A. Plant. – B. Base of the blade with the opening of*
+
+![Cyperus densicaespitosus](../sources/Cyperaceae_vol44_liteparse/figures/fig_071_p0091.jpeg)
+
+*Figure 6. Épillet de a) Cyperus densicaespitosus ( Ngok Banak 2015 , Ogooué-Ivindo, Gabon) et akène de b) Cyperus inselbergensis ( J.J. de Wilde 7771 , Cameroun).*
+
 ## Also treated in vol 44
 
 **Pages**: 89-89 · **Source**: `sources/Cyperaceae_vol44_liteparse`

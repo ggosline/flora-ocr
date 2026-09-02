@@ -26,6 +26,12 @@ Shrub or small tree reaching 5 m in height. Leaf glabrous: petiole 10–15 mm; l
 
 understory of primary and secondary evergreen forest, apparently with a preference for rocky stations with open understory, often along rivers, but also on terra firme; at 34–327 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Hunteria maasiorum](../sources/Apocynaceae_vol59_liteparse/figures/fig_094_p0100.jpeg)
+
+*Plate 40 . Hunteria maasiorum : 1. Flowering branch. – 2. Inflorescence. – 3. Flower. – 4. Lobe of the calyx, internal surface showing colleters. – 5. Opened corolla, with stamens and pistil. – 6. Pistil. – 7. Fruit. – 8. Mericarp, transverse section showing the seeds. – 9. Seed, transverse section showing the embryo (1-6 : Maas et al. 9964 ; 7-9 : Maas et al. 10415 ). Drawing by Hans de Vries, Meise Botanical Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

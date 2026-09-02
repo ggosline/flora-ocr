@@ -36,6 +36,12 @@ Species of closed dense humid forest, but also in open habitat; in Gabon between
 
 du-bamba (barama, lumbu) ; iló-lóngo (kota) ; ivéta (duma) ; lé-mbumu (ndumu) ; li-bamba (vili) ; nkolé (kélé) ; nkolu (seki) ; nlong (fang) ; osono (pinji, tsogo) ; ozono (myene) ; u-lóngo (benga). Usage : C’est une des espèces de choix pour la vannerie et la construction de meubles, plus qu’ E. macrocarpa . Au Gabon, les stipes fendus sont largement utilisés pour la fabrication de nasses. B : Cosiaux et al. (2018), Dransfield (1986), Faye et al. (2014), Raponda-Walker & Sillans i B liographie (1961), Sunderland (2007, 2012)
 
+## Figures
+
+![Eremospatha haullevilleana](../sources/Arecaceae_vol53_liteparse/figures/fig_019_p0023.png)
+
+*Plate 6 . Eremospatha haullevilleana : 1. Mature stem. – 2. Leaflets. – 3. Young leaf. – 4. Flower bud. – 5. Flower, corolla in longitudinal section. – 6. Fruit. – 7. Seed. Scale bar : 1 = 1.5 cm, 2, 3 = 5 cm, 4 = 1 cm, 5 = 0.3 cm, 6, 7 = 2.5 cm. (1-3 : Bidgood et al. 2924 ; 4 : Evrard 5511 ; 5 : Gossweiler 10087 ; 6, 7 : Louis 9560 . Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

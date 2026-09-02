@@ -33,6 +33,16 @@ Senegal, Guinea-Bissau, Mali, Liberia, Cameroon, Gabon, Democratic Republic of t
 
 swampy savannas with temporary pools on Kalahari sand; in Gabon at low altitude (30 m), elsewhere up to 1545 m. B: Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia simulans](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_118_p0119.png)
+
+*Plate 41. Utricularia simulans : 1–4. Entire plant (× 1). – 5. Base of the plant showing the stolons, rhizoids, leaves, utricles and the base of the peduncle (× 8). – 6. Rhizoidal branchlets (× 30). – 7. Utricle, ventral view (× 150). – 8. Utricle, lateral view (× 150). – 9, 10. Scale at the base of the peduncle (× 30). – 11. Bract (× 12). – 12. Bracteole (× 10). – 13. Flower, lateral view with bract (× 8). – 14. Flower, lateral view (× 8). – 15. Flower, view from front (× 8). – 16. Calyx, bracteoles separated (× 10). – 17. Basal sac of the upper lip (× 8). – 18. Longitudinal section of the base of the upper lip (× 24). – 19. Stamen (× 24). – 20. Ovary (× 24). – 21. Fruit, ventral view (× 12). – 22. Seed (× 90). (1 : Irwin 14258 ; 2, 3, 6, 14 : Richards 14990 ; 4 : Delascio 11150 ; 5, 7-10,13 : Baldwin 13037 ; 11, 12, 16, 17, 19-22 : Sandwith 1310 ; 15 : Huber 5632 ; 18 : Lewis & al. 1182 ). Drawing by P. Taylor, Royal Botanic Gardens, Kew (©), reproduced with permission from Taylor (1989).*
+
+![Utricularia simulans](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_120_p0122.jpeg)
+
+*Figure 14. Utricularia simulans (Venezuela, Gran Sabana) : A-D. – Utricularia stellaris : E. (Photos A-D par A. Fleischmann © ; E, par J.P. Vande weghe ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

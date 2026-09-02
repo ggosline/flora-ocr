@@ -39,6 +39,12 @@ Primary and secondary forests, open forests, lake margins; in Gabon up to 700 m 
 
 boto, p’roza, pau rosa (nom forestier) ; oken (angl.) ; békyèni (bakèlè) ; biké, okèn, osi-betol (fang) ; dikomè, séba-yètsi (béséki) ; ikomè (benga) ; lutsa (bavungu) ; modjinga, wengué (mitsogo) ; mosinga (apindji) ; musinda (éshira, bavarama, balumbu) ; ndina (mpongwè, nkomu, galoa, ngowé, orungu). b : Aubréville (1968), Oyen (2012), Pellegrin (1949), Raponda-Walker & Sillans (1961), ibliographie Wilczek (1952)
 
+## Figures
+
+![Bobgunnia fistuloides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_027_p0069.png)
+
+*Plate 19: Bobgunnia fistuloides: 1. Flowering branch (× ⅔). – 2. Flower (× 1,3). – 3. Petal, external surface (× 1,3). – 4, 4'. Stamen (× 2). – 5. Pod (× ⅔). Drawing by M.-F. Adam, National Museum of Natural History (©), reproduced with permission from Aubréville (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

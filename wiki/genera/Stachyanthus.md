@@ -29,6 +29,14 @@ This genus endemic to Africa contains 6 species, of which 2 are present in Camer
 
 ..... 2. S. cuneatus.
 
+## Key to the species
+
+1. Leaf base rounded; petals pubescent externally..... 1. S. zenkeri.
+
+1'. Leaf base cuneate or attenuate; petals glabrous externally.....
+
+..... 2. S. cuneatus.
+
 ## Species in region
 
 | Species | Vol | Pages |

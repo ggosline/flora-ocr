@@ -34,6 +34,12 @@ Nigeria, Cameroon, Equatorial Guinea (Bioko), Gabon, Republic of the Congo and D
 
 Ombrophilous forests, forest galleries, forest regrowth, savannas; in Gabon, up to 900 m elevation, elsewhere up to 1050 m. Flowers from September to June; fruits observed in February, March, July and November. b : De Wilde (1971), Hutchinson & Dalziel (1954), Robyns (1995). Bibliography
 
+## Figures
+
+![Adenia cynanchifolia](../sources/Passifloraceae_vol46_liteparse/figures/fig_041_p0068.png)
+
+*Plate 27. Adenia cynanchifolia: 1. Germinated seed (× ½). – 2, 3. Seedlings (× ½). – 4. Young plant (× ½). (1–4: de Wit & Bos s.n., cultivated at WAG from seeds collected near Douala). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -44,6 +44,12 @@ Botany Meise (©).
 
 The type of D. stenopetala was previously referred to D. oblongifolia (Sosef et al. 2006). This latter species, limited to West Africa, is well different by its slightly woody pods with hard wall and more numerous asymmetric leaflets (7 to 11).
 
+## Figures
+
+![Dalbergia stenopetala](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_058_p0157.png)
+
+*Plate 50: Dalbergia stenopetala: 1. Branch with flowers and one pod. – 2 & 3. Leaflet, details of the lower surface. – 4. Prehensile hooked branch. – 5. Flower. – 6. Flower with petals removed, showing the stamens and gynoecium. – 7. Standard, inner surface. – 8. Wing, inner surface. – 9. Keel petal, inner surface. (1, 3, 6–9: Stone et al. 3120; 2, 4, 5: Lisowski M-1278). Drawing by Antonio Fernandez, Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

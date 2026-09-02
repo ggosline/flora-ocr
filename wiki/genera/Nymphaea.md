@@ -43,6 +43,16 @@ Bibliography: Hauman (1951), Judd et al. (2008), Schneider & Williamson (1993), 
 
 3. - Blade with bulbils above the point of insertion of the petiole, margins
 
+## Key to the species
+
+1. - Herb ± robust; adult leaves 7–37(–50) × 5–34(–50) cm; flowers open (3.5–)5–20(–30) cm in diameter; sepals 3–8(–13) × 1–3.5 cm; stamens 30 or more ..................................................................................................................... 2
+- Herb delicate; adult leaves 2–6(–8) × 1.7–6(–7) cm; flowers open (2.5–)4–5.5(–8) cm in diameter; sepals 1–3 × 0.5–1.5 cm; stamens 8–20 (–30)
+............................................................................................................... N. heudelotii
+2. - Leaf blade glabrous below, margin entire to distinctly dentate; flower blue, pink or sometimes white; anther connective prolonged in the form of a tongue ..... 3
+- Leaf blade pubescent below, at least on the veins, margin distinctly dentate; anther connective not prolonged or sometimes very short; flowers white to cream, rarely tinged with pink .................................................................. N. lotus
+3. - Blade with bulbils above the insertion point of the petiole, with entire margins; veins prominent or not below ................................ N. micrantha
+- Blade without bulbils, margins often undulate or dentate at least in the basal part; principal veins prominent below, but with median groove on the dry material ................................................................ N. nouchali var. caerulea
+
 ## Species in region
 
 | Species | Vol | Pages |

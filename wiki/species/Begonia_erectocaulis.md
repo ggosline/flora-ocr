@@ -35,6 +35,12 @@ KE Z, National Herbarium of the Netherlands – Wageningen branch. EWALD
 
 on level terrain or on slopes and banks, in primary forest but sometimes also in highly secondary stations, often along the edges of streams and rivers; 450–700 m altitude. B: Sosef (1992a), Sosef (1994). IBLIOGRAPHY
 
+## Figures
+
+![Begonia erectocaulis](../sources/Begoniaceae_vol39_liteparse/figures/fig_035_p0049.png)
+
+*Plate 20. Begonia erectocaulis : 1. Flowering part (× 0.5). – 2. Leaf, upper surface (× 1.2). – 3. Detail of the base of the leaf, lower surface (× 1.2). – 4. ♂ Flower (× 1.5). – 5. ♀ Flower (× 1.5). – 6. Styles and stigmas (× 3). – 7. Fruit (× 1.5). (1-7 : Breteler & de Wilde 300 ) . Drawing by I*
+
 ## Notes
 
 <!-- TODO:notes -->

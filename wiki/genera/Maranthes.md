@@ -33,6 +33,37 @@ Genus based on the sole tropical Asian and Oceanian species (M. corymbosa Bl.). 
 
 1. Lamina covered beneath with a fawn-golden woolly felt covering, sometimes caducous on aged leaves..... 2. M. chrysophylla.
 
+## Key to the species
+
+1. Lamina covered beneath with a golden-fawn woolly felted coating, sometimes caducous on mature leaves..... 2. M. chrysophylla.
+1'. Lamina glabrous, pubescent or with a whitish arachnoid woolly coating.
+
+2. Acumen furnished with small marginal glands forming denticulation; tertiary veins subscalariform; base rounded subcordate …… 1. M. aubrevillei.
+2'. Different characters.
+
+3. Pedicel 10-15 mm prolonged by receptacle 25-35 mm, sepals 10-12 mm; glands in oblique buttonhole-like slits terminating the lamina margin at the junction with the petiole, sometimes only sketched or absent; lamina elliptic or elliptic-oblong, base and apex acute to obtuse, acumen elongate narrow.
+
+3'. Pedicel ≤ 8-12 mm prolonged by receptacle ≤ 8-14 mm, sepals ≤ 6-10 mm; glands circular at the base of the lamina or at the top of the petiole, sometimes only sketched or absent.
+
+4. Savanna shrub; lamina elliptic, base and apex obtuse rounded, with small acumen; beneath the lamina with persistent whitish arachnoid woolly coating (or caducous, or lamina glabrous, or pubescent beneath the veins); 1-2-3 carpels..... 6. M. polyandra.
+
+4'. Forest trees, of gallery forest or riverside; beneath the lamina glabrous.
+
+5. Lamina elliptic; base acute and somewhat decurrent, rarely obtuse; apex acute acuminate; 1 carpel..... 4. M. glabra.
+5' Lamina with base obtuse-rounded or subcordate.
+
+5'. Lamina with base obtuse-rounded or subcordate.
+
+6. Lamina elliptic-oblong, sometimes elliptic, with obtuse-rounded apex, with acumen; 3 carpels, drupes obovoid; tree of Sudano-Zambezian gallery forests ..... 5. M. kerstingii.
+
+6'. Lamina oval to elliptic, with acute or obtuse apex, abruptly cuspidate, pedicel 8-12 mm, receptacle 8-14 mm, sepals 6-10 mm; drupes fusiform; small gnarled, twisted and prostrate tree, endemic to the banks of the middle Sanaga in Cameroon.... 7. M. sanagens
+
+6". Lamina lanceolate, with apex acute broadly and elongately acuminate; pedicel 3 mm, receptacle 5-6 mm, sepals 3 mm; drupes obovoid; tree of sempervirent forest ..... 8. M. sp.
+
+---
+
+CHRYSOBALANACEAE
+
 ## Species in region
 
 | Species | Vol | Pages |

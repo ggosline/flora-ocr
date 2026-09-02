@@ -49,7 +49,7 @@ Bräuchler et al. (2016), Dwivedi et al. (2018), Jeffrey (1967), Keraudren (1967
 
 ![Zehneria tridactyla](../sources/Cucurbitaceae_vol57_paddle/figures/fig_072_p0110.png)
 
-*Planche 36. Zehneria minutiflora: 1. Tige florifère mâle (×³/₄). - 2. Fleur mâle, périanthe ouvert (×9). - 3. Fruit (×1²/₃). - 4. Graine, vue de face (×3²/₃). - 5. Idem, vue de profil (×3²/₃). - Zehneria tridactyla: 6. Tige à fleurs mâles et femelles (×³/₄). - 7. Fleur mâle, périanthe ouvert (×9). - 8. Fleur femelle, périanthe ouvert (×9). - 9. Fruit (×1²/₃). - Zehneria capillacea: 10. Tige fructifère (×³/₄). - 11. Fleur mâle, périanthe ouvert (×9). - 12. Graine, vue de face et de profil (×3²/₃). (1: Mann 2010; 2: Preuss 58; 3-5: Deistel 55; 6: Biholong 137; 7-9: Chevalier 6797; 10-12: Letouzey 3827). Dessin par M.D. Bergasse, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 36. Zehneria minutiflora: 1. Male flowering stem (×³/₄). - 2. Male flower, perianth open (×9). - 3. Fruit (×1²/₃). - 4. Seed, front view (×3²/₃). - 5. Idem, profile view (×3²/₃). - Zehneria tridactyla: 6. Stem with male and female flowers (×³/₄). - 7. Male flower, perianth open (×9). - 8. Female flower, perianth open (×9). - 9. Fruit (×1²/₃). - Zehneria capillacea: 10. Fruiting stem (×³/₄). - 11. Male flower, perianth open (×9). - 12. Seed, front and profile view (×3²/₃). (1: Mann 2010; 2: Preuss 58; 3-5: Deistel 55; 6: Biholong 137; 7-9: Chevalier 6797; 10-12: Letouzey 3827). Drawing by M.D. Bergasse, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

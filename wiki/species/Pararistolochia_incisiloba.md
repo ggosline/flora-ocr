@@ -31,6 +31,12 @@ endemic to Gabon, known only from Mont Sono in the Massif du Chaillu
 
 montane forest, at 1020 m altitude. B: Jongkind (1990). Bibliography
 
+## Figures
+
+![Pararistolochia incisiloba](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_010_p0016.png)
+
+*Plate 3. Pararistolochia fimbriata. 1. Flower. – Pararistolochia incisiloba . 2. Flower, frontal view. – 3. Flower, lateral view. Drawings by Miguel Leal (1) and Carel Jongkind (2, 3), NCB Naturalis, section*
+
 ## Notes
 
 <!-- TODO:notes -->

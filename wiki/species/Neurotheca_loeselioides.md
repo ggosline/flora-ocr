@@ -40,6 +40,12 @@ The species was divided into two subspecies. The subspecies robusta (Hua) A.Rayn
 
 Chevalier 4318). – Neurotheca loeselioides: 3-6. Flowers of various specimens. – 7. Corolla opened, with stamens and gynoecium (× 10). – 8. Fruiting calyx (× 10). (3: J. & A. Raynal 6789; 4, 7, 8: Perrier de la Bâthie 1731; 5: J. Raynal 7963; 6: J. & A. Raynal 10627). Drawing by A. Raynal, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Raynal (1968).
 
+## Figures
+
+![Neurotheca loeselioides](../sources/Gentianaceae_vol54_liteparse/figures/fig_069_p0086.jpeg)
+
+*Figure 7. Neurotheca loeselioides (Gabon, Franceville) : A, Habit ; B, Flowers. – Oreonesion testui (Gabon,*
+
 ## Notes
 
 <!-- TODO:notes -->

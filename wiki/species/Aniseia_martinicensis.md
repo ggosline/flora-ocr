@@ -33,6 +33,12 @@ pantropical; in Gabon, known from Ogooué-Maritime, Nyanga, Moyen-Ogooué, Ngoun
 
 river and lake margins, humid sand banks, open forests on sand; in Gabon, at 100 m altitude, elsewhere in Africa, up to 700 m. B: Deroin (2001), Heine (1963), Lejoly & Lisowski (1993). Bibliography
 
+## Figures
+
+![Aniseia martinicensis](../sources/Convolvulaceae_vol46_liteparse/figures/fig_011_p0011.png)
+
+*Plate 1. Aniseia martinicensis : 1. Flowering branch (× ½). – 2. Portion of branch with base of blade and peduncle (× 2½). – 3–6. Sepals. – 7. Corolla spread out and androecium. – 8. Partially dissected calyx and gynoecium. – 9. Stigma. – 10. Fruit. – 11, 12. Seeds in ventral and lateral views. (1, 2 : Balsinhas 1873 ; 3–9 : Perrier de la Bâthie 14644 ; 10 : Decary 19106 ; 11, 12 : Labat et al. 2190). Drawing by C. Pinto (1, 2) and Thierry Deroin (3–12), reproduced with permission respectively from Royal Botanic Gardens, Kew (©) and Scientific Publications of the National Museum of Natural History, Paris (©) from Gonçalves (1987) and Deroin (2001).*
+
 ## Notes
 
 <!-- TODO:notes -->

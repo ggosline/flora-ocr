@@ -36,6 +36,12 @@ Primary and secondary forests, roadsides, forest-savanna margins, dried swamps, 
 
 Two specimens at K identified as C. sp. ? nov. aff. C. umbellatum and from Equatorial Guinea (Mann 1757 and J.N. Davies 239) clearly represent C. fuscum; this is the first record of this species for this country. Bi: Vande weghe et al. (2016), Verdcourt (1992). Bibliography
 
+## Figures
+
+![Clerodendrum fuscum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_032_p0034.jpeg)
+
+*Figure 2 . Clerodendrum formicarum : A. Inflorescence ; B. Flowers. – Clerodendrum fuscum : C. Flowering stem ; D. Fully open flowers and in bud. – Clerodendrum sassandrense : E. Habit (uprooted plant) ;*
+
 ## Notes
 
 <!-- TODO:notes -->

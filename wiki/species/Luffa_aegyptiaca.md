@@ -56,11 +56,11 @@ Achigan Dako et al. (2012), Filipowicz et al. (2014), Jeffrey (1967), Keraudren 
 
 ![Luffa aegyptiaca](../sources/Cucurbitaceae_vol57_paddle/figures/fig_052_p0077.png)
 
-*Figure 3. Lagenaria siceraria (Paúl, Santo Antão, Cabo Verde): A. Feuilles, bouton et fleur mâle. – Luffa aegyptiaca (Rhoko, Cross River State, Nigeria): B. Inflorescence mâle; (marché, Yangon, Myanmar): C. Fruits pelés pour servir comme éponge. – Melothria sphaerocarpa (cultivé, Freising, Allemagne): D. Feuille et inflorescence à fleur mâle. Photos A-D par Hanno Schaefer.*
+*Figure 3. Lagenaria siceraria (Paúl, Santo Antão, Cabo Verde): A. Leaves, bud and male flower. – Luffa aegyptiaca (Rhoko, Cross River State, Nigeria): B. Male inflorescence; (market, Yangon, Myanmar): C. Peeled fruits for use as sponge. – Melothria sphaerocarpa (cultivated, Freising, Germany): D. Leaf and inflorescence with male flower. Photos A-D by Hanno Schaefer.*
 
 ![Luffa aegyptiaca](../sources/Cucurbitaceae_vol57_paddle/figures/fig_053_p0078.png)
 
-*Planche 24. Luffa aegyptiaca: 1. Tige florifère ( $ \times^{2}/3 $). – 2. Fleur mâle et partie de l'inflorescence ( $ \times^{3}/3 $). – 3. Androcée ( $ \times2 $). – 4. Étamine, vues ventrale et dorsale ( $ \times2 $). – 5. Fruit, avec opercule détaché ( $ \times^{3}/3 $). – 6. Graine, vue de face et de profil ( $ \times1^{1}/2 $). (1: Tanner 1474; 2-5: Jeffrey s.n.; 5, 6: Kew carpological collection). Dessin par E. Margaret Stone, Royal Botanic Gardens, Kew, reproduit avec permission à partir de Jeffrey (1967).*
+*Plate 24. Luffa aegyptiaca: 1. Flowering stem ( $ \times^{2}/3 $). – 2. Male flower and part of the inflorescence ( $ \times^{3}/3 $). – 3. Androecium ( $ \times2 $). – 4. Stamen, ventral and dorsal views ( $ \times2 $). – 5. Fruit, with operculum detached ( $ \times^{3}/3 $). – 6. Seed, frontal and profile view ( $ \times1^{1}/2 $). (1: Tanner 1474; 2-5: Jeffrey s.n.; 5, 6: Kew carpological collection). Drawing by E. Margaret Stone, Royal Botanic Gardens, Kew, reproduced with permission from Jeffrey (1967).*
 
 ## Notes
 

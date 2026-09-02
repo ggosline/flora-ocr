@@ -35,6 +35,10 @@ in seasonally humid zones of grasslands, savannas and wooded areas; in Gabon, ar
 
 Inflorescence. – C. Spikelet. – D. Basal scales Section of blade. – C. Apex of blade. – D. of spikelets. – E, F. Glumes. – G. Flower. – H. Fruit. Inflorescence. – E. Abnormal inflorescence with Original drawing by E.M. Stones ©, reproduced with multiplication of involucral bracts. – F. Spikelet permission from Nelmes & Baldwin (1952). with 5 flowers. – G. Spikelet with young fruits. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus nigritanus](../sources/Cyperaceae_vol44_liteparse/figures/fig_078_p0098.png)
+
 ## Notes
 
 <!-- TODO:notes -->

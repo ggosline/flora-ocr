@@ -39,6 +39,12 @@ Primary forests and old secondary hygrophilous forests; in Gabon, up to 770 m al
 
 engang (fang). Notes taxonomiques : C. mangarevensis, distinguée et décrite par ses auteurs comme une espèce nouvelle par les inflorescences faiblement ramifiées et la couleur jaune de ses pétales, est considérée ici comme synonyme de C. parviflora . Cette dernière espèce présente une plasticité considérable dont s’accordent les petites différences observées par Kenfack et Issembé. La néotypification de C. parviflora décrite de la République Démocratique du Congo, près de Kinshasa, fondée sur un échantillon du Cameroun, au Parc National de Korup, à plus de 1200 km de son locus classicus , effectuée par Kenfack (2011), bien que suivie ici, reste discutable. B : Harms (1917), Raponda-Walker & Sillans (1961). ibliographie
 
+## Figures
+
+![Carapa parviflora](../sources/Meliaceae_vol47_liteparse/figures/fig_015_p0020.png)
+
+*Plate 1. Carapa parviflora : A. Leaf. – B. Inflorescence. – C. Detail of inflorescence. – D. Functionally male flower. – E. Dito, longitudinal section. – F. Dito, transverse section of the ovary. –*
+
 ## Notes
 
 <!-- TODO:notes -->

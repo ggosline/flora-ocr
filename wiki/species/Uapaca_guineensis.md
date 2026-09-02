@@ -38,6 +38,16 @@ gallery forest, in riparian and marshy habitats, but also on terra firme; in Gab
 
 faux-palétuvier, palétuvier de rivière, palétuvier d’eau douce (fr.) ; false mahogany, red cedar, rikio, sugar plum (angl.) ; cor de mogno, sambi (port.). assam (fang), ozómbi (mpongwè), usambi (bèsèki). b : Breteler (2012a, b), De Wildeman (1936), Keay (1958), Kitambala ibliographie (2008), Pax & Hoffmann (1922)
 
+## Figures
+
+![Uapaca guineensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_036_p0095.png)
+
+*Plate 30. Uapaca acuminata : A. Leaf. ‒ Uapaca guineensis : B. Leaf. ‒ C. Fruit. ‒ Uapaca heudelotii : D, E. Leaves. ‒ F. Young branch (leaves removed). (A : Le Testu 1499 ; B : Reitsma c . s . 1268 ; C : Reitsma c.s . 2288 ; D : Bissiengou et al . 597 ; E : Bissiengou et al . 658 ; F : White 993 ). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.*
+
+![Uapaca guineensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_037_p0097.png)
+
+*Plate 31. Uapaca guineensis : A. Male flowering branch (× ½). ‒ B. Male flower (× 10). ‒ C. Trunk with stilt roots. ‒ D. Fruit (× 1). ‒ E. Seed (× 1). (A, B : Voorhoeve 787 ; D, E : Voorhoeve 1197 ). Drawing by L. van der Riet, National Herbarium Netherlands (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

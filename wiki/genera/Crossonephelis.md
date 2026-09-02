@@ -35,6 +35,10 @@ This description comprises the common parts of the two diagnoses by Baillon and 
 
 1. Leaves 1-jugate; leaflets elliptic, acuminate, 12-20 × 3-6 cm. ..... 2. C. unijugatus.
 
+## Key to the species
+
+1. Leaves 1-jugate; leaflets elliptic, acuminate, 12-20 × 3-6 cm. ..... 2. C. unijugatus.
+
 ## Species in region
 
 | Species | Vol | Pages |

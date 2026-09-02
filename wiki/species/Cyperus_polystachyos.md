@@ -38,6 +38,12 @@ seasonally flooded herbaceous places, lake shores and marshes, often bordering m
 
 bunchy flatsedge (angl.). Note taxonomique : très variable, particulièrement dans la taille et la densité des épillets. Elle est facilement identifiée par son inflorescence en pinceau. La variété laxiflora Benth. a des anthèles moins denses et non en pinceau, mais elle n’a pas encore été trouvée au Gabon. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
 
+## Figures
+
+![Cyperus polystachyos](../sources/Cyperaceae_vol44_liteparse/figures/fig_097_p0118.png)
+
+*Planche 75 . Cyperus mundtii . A. Plante. – B. Planche 76 . Cyperus polystachyos . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -68,6 +68,16 @@ See note under P. angolensis. Bibliography : Hawthorne & Jongkind (2006), Huber 
 
 muhorro (nom commercial) ; musalengue (port.) ; abaya (bakèlè) ; binyuma, ébé, otólbé (fang) ; ékwakwayi (benga) ; gigóngu (éshira) ; goyindi (mindumu) ; ilumbwa-lumbwa (mpon gwè) ; motobi-tobi (ivea, mitsogo) ; mumanaka (bapunu)
 
+## Figures
+
+![Pogostemon micangensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_070_p0090.png)
+
+*Plate 22 . Premna angolensis : 1, 2. Leaves. – 3. Detail of the indumentum of the upper surface of the blade. – 4. Idem, lower surface (particularly pubescent form). – 5. Flower. – 6. Calyx after flowering. – 7.*
+
+![Pogostemon micangensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_071_p0092.png)
+
+*Plate 23 . Premna lucens : 1. Flowering branch (× ⅔). – 2. Detail of the stem with lenticels (× 3). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

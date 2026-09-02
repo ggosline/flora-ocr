@@ -42,6 +42,12 @@ Seed. (A, C-H, J: J.J.F.E. de Wilde & van der Maesen 10990; B: Reistma c.s. 1920
 
 Taxonomic note: The only collection of this taxon is incomplete and does not permit its proper description as a new species. By its characters, such as its entirely pubescent calyx on the outside, the specimen resembles Soyauxia talbotii Baker f. from West Africa and Cameroon. It differs from it by its smaller stipules and fewer lateral nerves. B: Breteler et al. (submitted). Bibliography
 
+## Figures
+
+![Soyauxia glabrescens](../sources/Peridiscaceae_vol47_liteparse/figures/fig_043_p0086.png)
+
+*Plate 27 . Soyauxia glabrescens : A. Flowering branch. – B. Floral bud. – C. Idem, with bract and bracteoles. – D. Flower. – E. Flower, in longitudinal section. – F. Stamen, view of the face. – G. Stamen, view of the back. – H. Ovary, in longitudinal section, surrounded by the disk (a). – I. Fruiting branch. – J.*
+
 ## Notes
 
 <!-- TODO:notes -->

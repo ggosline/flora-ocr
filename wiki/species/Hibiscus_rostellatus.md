@@ -40,6 +40,12 @@ Margins of humid or inundated forests, riverbanks, marshes, fallows, cultivation
 
 hibiscus fourchu (fr.). B : Akoègninou et al. (2006), Exell & Meeuse (1961), Hauman (1963), i B liographie Mwachala (2009), Wilson (1999)
 
+## Figures
+
+![Hibiscus rostellatus](../sources/Malvaceae_vol45_liteparse/figures/fig_030_p0072.png)
+
+*Plate 19. Hibiscus physaloides: 1. Branch with flower and fruit. – 2. Flower. – 3. Staminal tube. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,18 @@ in open marshy places, often in grasslands and savannas; in Gabon, at 0–500 m 
 
 a b B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010).
 
+## Figures
+
+![Bulbostylis hensii](../sources/Cyperaceae_vol44_liteparse/figures/fig_021_p0026.png)
+
+*Planche 11. Bulbostylis hensii. A. Plante. – B.*
+
+![Bulbostylis hensii](../sources/Cyperaceae_vol44_liteparse/figures/fig_022_p0027.jpeg)
+
+*Figure 3. Akènes de a) Bulbostylis hensii ( Thery 99 , Haut-Ogooué, Gabon) et b) Cyperus soyauxii ( Wilks 2299 , Estuaire, Gabon).*
+
+![Bulbostylis hensii](../sources/Cyperaceae_vol44_liteparse/figures/fig_023_p0027.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

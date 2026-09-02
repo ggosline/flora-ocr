@@ -39,6 +39,12 @@ understory of primary forests, humid stations, often near rivers; in Gabon at 5â
 
 The species often propagates from drooping branches which root rapidly, thus forming large patches. Bibliography: Baker (1898), Bos (1984), Damen et al. (2018), Hepper (1968), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena bicolor](../sources/Dracaenaceae_vol54_liteparse/figures/fig_018_p0024.png)
+
+*Plate 5. Dracaena bicolor: 1. Flowering top. â€“ 2. Infructescence. Drawing by Wil Wessel-Brand,*
+
 ## Notes
 
 <!-- TODO:notes -->

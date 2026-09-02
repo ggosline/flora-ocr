@@ -39,6 +39,12 @@ Kalahari sands, shrubby or wooded savannas, inselbergs; in Gabon at 630 m elevat
 
 The second variety, var. apprime-puberulum Verdc., from Guinea to Cameroon, in the Central African Republic, in the Democratic Republic of the Congo and in Sudan, has not yet been recorded in Gabon. Its indumentum is appressed rather than spreading, the rachis is longer and the leaflets are smaller. Bibliography: Mackinder et al. (2001), Verdcourt (1982), Wilczek (1954).
 
+## Figures
+
+![Macrotyloma biflorum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_092_p0251.png)
+
+*Plate 84 : Macrotyloma biflorum var. biflorum : 1. Habit (× ⅔). – 2. Stipule (× 6). – 3. Standard (× 3). – 4. Wing (× 3). – 5. Keel (× 5). – 6. Androecium (× 4). – 7. Gynoecium (× 4). – 8. Legume (× 1). – 9. Seed, lateral view (× 6). – 10. Idem, ventral view (× 10). (1–7 : Keay FHI 37180 ; 8–10 : Hall 3287 ). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

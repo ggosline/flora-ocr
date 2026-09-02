@@ -31,6 +31,12 @@ Very widespread; from Sierra Leone to Ethiopia, towards southern Africa and Mada
 
 Humid and shaded forest; at 0–3000 m altitude. b: De la Estrella et al. (2010), Léonard (1954b), Lewis et al. (2005), Ohashi & Mill (2000), Bibliography Pellegrin (1949), Verdcourt (1971d, 2000)
 
+## Figures
+
+![Hylodesmum repandum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_076_p0208.png)
+
+*Plate 68: Hylodesmum repandum: 1. Habit (× ½). – 2. Flower open (× 2). – 3. Flower, longitu - dinal section (× 3). – 4. Calyx (× 2). – 5. Pod (× 1). – 6. Seed (× 2). (1–6: Bequaert 3503). Drawing by A.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ at approximately 150 m altitude. B : Cheek et al. (2017), Cusset (1983), Sosef e
 
 Ledermanniella 29
 
+## Figures
+
+![Inversodicraea thollonii](../sources/Podostemaceae_vol51_liteparse/figures/fig_031_p0037.png)
+
+*Plate 13. Ledermanniella aloides . 1. General view (× 10). – 2. Young flower (× 30). – 3. Young flower freed from the spathe (× 30). – 4. Ovary (× 20). – Inversodicraea thollonii . – 5 & 6. General views (× 5). – 7. Stamens (× 22). – 8. Dehiscent capsule (× 22). – 9. Seed (× 160). Drawing by C. Cusset,*
+
 ## Notes
 
 <!-- TODO:notes -->

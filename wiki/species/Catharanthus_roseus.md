@@ -30,6 +30,12 @@ Native to Madagascar, cultivated and naturalized in numerous tropical countries,
 
 Very regularly planted as an ornamental plant; in Gabon, sometimes escaping along roadsides and in fallow land. Use: The plant is widely cultivated for its ornamental value. Decoctions of all parts of the plant are used in medicine to treat malaria, dengue, diarrhea, diabetes, cancer and skin diseases. Vernacular names: Malagasy, rosy periwinkle, French; Malagasy, periwinkle, English. BIBLIOGRAPHY
 
+## Figures
+
+![Catharanthus roseus](../sources/Apocynaceae_vol59_liteparse/figures/fig_058_p0068.jpeg)
+
+*Figure 4. Catharanthus roseus: A. Flowering plant – Clitandra cymulosa: B. Inflorescence, C. Fruits in longitudinal section. – Criocerasdipladeenii: D. Inflorescence, E. Flower viewed from above, F. Fruit – Dictyophleba setosa: G. Fruiting stem. Photos by Lucius Oupa (A: South Africa, Nicolas Texier; B: Mts Birougou, Gabon, Marie Cakupewa; C: Fundiko, Central African Republic; D: department of Congo; and E: Ehoarn Bidault; D, F, P.N. Akanda, Gabon; G: southeast of Lake Ezanga, Gabon.*
+
 ## Notes
 
 <!-- TODO:notes -->

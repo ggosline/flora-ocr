@@ -31,6 +31,12 @@ Cameroon, Gabon (scattered and rare), Congo (Brazzaville; Mayombe)
 
 Primary and secondarized lowland and submontane forests, on slopes, rocks or mossy trunks, often along watercourses and rapids; 350–900 m altitude. B: Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia letouzeyi](../sources/Begoniaceae_vol39_liteparse/figures/fig_023_p0027.png)
+
+*Plate 8. Begonia letouzeyi: 1. Leaf (× ⅔). – 2. Detail of the indument lower surface of the blade (× 2). (1, 2: Letouzey 10193). Drawing by W.W., National Herbarium of the Netherlands – Wageningen*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -46,6 +46,16 @@ Gabon, Bidault et al. 1896 ) : B. Mature fruits. – Polyspatha paniculata (Ivin
 
 sence of nutritional value. The berries are sometimes found in bird nests, which helps to disperse the seeds (Vignolini et al. 2012). Bibliography: Brenan (1968b), van der Burg (2006), Cabezas et al. (2014), Faden (2012), Morton (1967), Raponda-Walker & Sillans (1961), Sosef et al. (2006), Vandeweghe et al. (2016).
 
+## Figures
+
+![Pollia condensata](../sources/Commelinaceae_vol55_liteparse/figures/fig_043_p0082.jpeg)
+
+*Figure 6. Pollia condensata (Birougou, Gabon, Texier et al. 1623 ) : A. Flowering stem, (south of Lambaréné ,*
+
+![Pollia condensata](../sources/Commelinaceae_vol55_liteparse/figures/fig_044_p0083.png)
+
+*Plate 25 . Pollia condensata : 1. General appearance (× ½). – 2. Part of the inflorescence (×2). – 3. Flower, lateral view (× 2). – 4. Idem, frontal view (× 2). – 5. Stamens and gynoecium (× 4½). – 6. Ovary, transverse section (× 9). – 7. Fruit, surrounded by sepals (× 2½). – 8. Seed (× 7). (1-8 : de Witte 1655 ). Drawing by A. Cleuter, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

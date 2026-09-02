@@ -40,6 +40,12 @@ secondary forest, cultivated or abandoned land; in Gabon at 0–700 m altitude, 
 
 Manguier (fr.) ; Mango (angl.) ; Andoc-ntangha (fang) ; Bépè-bi-ntangha (balèlè) ; Bwibè-bi-tangani (benga) ; Momangi, Omangi (mindumu) ; Mumanga (banzabi, bapunu) ; Mundjikua-gibamba (bavili) ; Mundjiku-a-mutangani (baduma) ; Mwiba-gibamba (balumbu, ngowé) ; Mwibaibamba (bapunu) ; Mwiba-mutangani (éshira, bavarama, bavungu) ; Nmanga (loango) ; Oba w’atanga (mpongwè, galoa, nkomi, orungu) ; Uba-a-gébamba (mitsogo) ; Uba-a-motangani (bavové) ; Vidôkô-vitangani (béséki) ; Wéba-motangaï (apindji) ; Wiba-a-motangani (ivéa). B : Burkill (1985), Fernandes & Fernandes (1966), Keay (1958), Raponda-Walker & Sillans i B liographie (1961), Sukonthasing et al. (1991), Van der Veken (1960a)
 
+## Figures
+
+![Mangifera indica](../sources/Anacardiaceae_vol50_liteparse/figures/fig_015_p0020.png)
+
+*Plate 5. Mangifera indica: 1. Flowering branch. – 2. Male flower. – 3. Fruit. Drawing reproduced with permission from Woodson et al. (1967; 2) and Sukonthasing et al. (1991; 1, 3).*
+
 ## Notes
 
 <!-- TODO:notes -->

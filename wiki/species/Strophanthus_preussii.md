@@ -24,6 +24,30 @@ C A D B G F E H Rounet & Vincent, Droissart, E31 de Campo, Ma'an, Cameroon
 
 Leeuwenberg 2892; 2–6: Beentje 182; 7: Gérard 2698; 8: Brass & Woodward 20951). Drawing by Juliet Williamson & Henk Beentje, Naturalis Biodiversity Center (©), reproduced from Beentje (1982).
 
+## Figures
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_199_p0232.jpeg)
+
+*Figure 12 . Strophanthus preussii : A, B. Flowers showing color variation. – Strophanthus sarmentosus : C. Flowering stems. – Tabernaemontana brachyantha : D. Inflorescence. – Tabernaemontana brachypoda : E. Inflorescence. – Tabernaemontana crassa : F. Leaf and flowers in bud. G. Flowers. H. Fruit. Photos by Erik Koenen (A, Nzérékoré, Guinea ; Erik Simons ; B, West of P.N. Lopé, Gabon ; Carel Jongkind ; C, Lofa, Liberia ; F, H, Libassa, Liberia ; Xander van der Burgt ; D, P.N. Korup, Came-*
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_200_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_201_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_202_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_203_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_204_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_205_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_206_p0232.jpeg)
+
+![Strophanthus preussii](../sources/Apocynaceae_vol59_liteparse/figures/fig_207_p0233.jpeg)
+
+*Planche 107 . Strophanthus preussii 5DPHDXÀRULIqUHîҀ±)HXLOOHîҀ±6pSDOHH[WHUQH î±6pSDOHLQWHUQHî±&RUROOHFRXSHORQJLWXGLQDOHFRUROOHXQLTXHPHQWDYHFEDVHGHVOREHV*
+
 ## Notes
 
 <!-- TODO:notes -->

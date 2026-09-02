@@ -32,6 +32,10 @@ Dense humid or semi-deciduous forests, primary or secondary, swampy raphiales, r
 
 <!-- caption: Plate 41A. Begonia fusialata var. fusialata: 1. Floriferous branch with young ♂ inflorescence (above) and ♀ inflorescence (× ½). – 2. Apex of a branch with young ♂ inflorescence (× ½). – 3. -->
 
+## Figures
+
+![Begonia eminii](../sources/Begoniaceae_vol39_liteparse/figures/fig_055_p0087.png)
+
 ## Notes
 
 <!-- TODO:notes -->

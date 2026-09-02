@@ -37,6 +37,12 @@ Benin, Cameroon, Central African Republic, Gabon, Republic of the Congo and Demo
 
 Ponds, pools, marshes and calm bays with weak or virtually no current, on muddy or sandy bottom, heliophilous to semi-sciaphilous; in Gabon at 290–425 m elevation, elsewhere up to 1285 m. Use: In the Central African Republic, the species was used to extract salt by incineration of the plants. Bi: Cook & Lüönd (1982), Pellegrin (1931), Symoens (1984), Symoens & Sosef (2015). Bibliography
 
+## Figures
+
+![Hydrocharis chevalieri](../sources/Hydrocharitaceae_vol50_liteparse/figures/fig_034_p0061.png)
+
+*Plate 23 . Hydrocharis chevalieri : 1. Habit of the male plant (× 0,4). – 2. Spathe and male flower (× 0,6). – 3, 4. Stamens (× 3½). – 5. Pistillode (× 3½). – 6. Spathe and female flower (× ⅔). – 7. Female flower, one sepal folded down, petals removed (× 1⅔). – 8. Style (× 3½). – 9. Ovary, transverse section (× 4). – 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

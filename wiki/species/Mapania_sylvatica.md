@@ -34,6 +34,12 @@ endemic to Gabon; apparently rare, scattered in the Ngounié, Ogooué-Ivindo, Og
 
 primary or secondary forest, often along forest paths and streams; probably around 100–400 m altitude. Taxonomic note: subspecies very different from all African taxa. The oval–elliptic inflorescence surrounded by three almost equal elliptic bracts, instead of linear bracts, identifies it at a glance. It is very close to the American type subspecies and differs from it only by secondary characters of the inflorescence. b: Simpson (1992). ibliography
 
+## Figures
+
+![Mapania sylvatica](../sources/Cyperaceae_vol44_liteparse/figures/fig_159_p0182.png)
+
+*Planche 115 . Mapania secans . A. Plante. – B. Planche 116 . Mapania sylvatica . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -27,6 +27,26 @@ Distribution: Nigeria, Cameroon, Guinea equatorial, Gabon, Republic of the Congo
 
 B: Pichon (1953), Vonk et al. (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_029_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_030_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_031_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_032_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_033_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_034_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_035_p0038.jpeg)
+
+![Ancylobothrys robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_036_p0039.jpeg)
+
+*Planche 12 . Ancylobotrys robusta 5DPHDXÀRULIqUH±&RUROOHRXYHUWHDYHFpWDPLQHVîò±*
+
 ## Notes
 
 <!-- TODO:notes -->

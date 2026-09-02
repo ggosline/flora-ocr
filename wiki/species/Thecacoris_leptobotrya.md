@@ -36,6 +36,12 @@ primary and secondarized forest; in Gabon, at 0–600 m altitude. b: Breteler (2
 
 Breteler & Jongkind 10546; B: Breteler et al. 13202; C, D: Breteler & Jongkind 10380; F ‒ G: J.J. de Wilde et al. 11465). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Thecacoris leptobotrya](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_033_p0087.png)
+
+*Plate 27. Thecacoris leptobotrya: A. Female flowering branch. ‒ B. Small leaf. ‒ C. Part of a male inflorescence. ‒ D. Male flower. ‒ E. Part of a female inflorescence. ‒ F, G, H. Fruit. (A, E:*
+
 ## Notes
 
 <!-- TODO:notes -->

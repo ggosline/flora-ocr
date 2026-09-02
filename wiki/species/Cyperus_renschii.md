@@ -36,6 +36,14 @@ in swamp forests, along forest tracks and watercourses; in Gabon, at 0–500 m a
 
 Part of inflorescence. – E. Spikelet. – F. Glume from different sides. – E. Ovary with style. – F. – G. Flower. – H. Fruit with style and 3 filaments in the glume. Original drawing by Jana Taborska ©. Original drawing by Richard W. Haines ©. Taxonomic note: differs from C. laxus by its much larger size, its very large involucral bracts and its smaller achenes. It resembles C. mannii C.B.Clarke from West Africa, which has at most 5 involucral bracts and paler glumes. C. mannii could be present in the highlands of Gabon. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Cyperus renschii](../sources/Cyperaceae_vol44_liteparse/figures/fig_089_p0111.png)
+
+*Plate 69. Cyperus renschii. A. Base of the plant. Plate 70. Cyperus surinamensis. A. Plant. – B. – B. Section of the blade. – C. Inflorescence. – D. Part of the inflorescence. – C. Spikelet. – D. Glumes*
+
+![Cyperus renschii](../sources/Cyperaceae_vol44_liteparse/figures/fig_090_p0111.png)
+
 ## Notes
 
 <!-- TODO:notes -->

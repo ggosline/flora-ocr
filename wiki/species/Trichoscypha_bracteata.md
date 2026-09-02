@@ -41,6 +41,12 @@ Trichoscypha 33 Flower, view from below, with calyx nearly glabrous. (1–6 : Wa
 
 34 Frans J. BRETELER
 
+## Figures
+
+![Trichoscypha bracteata](../sources/Anacardiaceae_vol50_liteparse/figures/fig_024_p0040.png)
+
+*Plate 14. Trichoscypha bracteata : 1. Flowering branch. – 2. Part of the inflorescence. – 3. Detail of the inflorescence showing the pubescent calyx. – 4. Flower, view from above. – 5. Flower, 1 petal removed. – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

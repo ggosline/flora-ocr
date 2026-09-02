@@ -41,6 +41,12 @@ endemic to Gabon, rare species known only from Woleu-Ntem (Minkébé National Pa
 
 dry grassland on inselberg; at 686 m altitude. Taxonomic note: The species is named after Minkébé National Park where it was collected only once in the southern region
 
+## Figures
+
+![Hibiscus minkebeensis](../sources/Malvaceae_vol45_liteparse/figures/fig_028_p0067.jpeg)
+
+*Planche 17. Hibiscus minkebeensis : échantillon holotype ( Ngok Banak 1637 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,12 @@ Forests, forest margins, swampy areas, marshes; in Gabon at 0–200 m elevation,
 
 Recently identified specimens at K (Paton et al., 2009) make it possible to extend the geographic distribution of the species to Ghana and Nigeria. B: Paton (1997b), Paton et al. (2009), Pollard (2004b), Vandeweghe et al. (2016). Bibliography
 
+## Figures
+
+![Platostoma gabonense](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_069_p0086.png)
+
+*Plate 21 . Platostoma gabonense : 1. Flowering stem (× 1). – 2. Calyx. – P. africanum : 3. Calyx. –*
+
 ## Notes
 
 <!-- TODO:notes -->

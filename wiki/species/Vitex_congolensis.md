@@ -38,6 +38,12 @@ dense humid forests, secondary forests; in Gabon from 0 to 600 m elevation, else
 
 This taxon is variable with respect to the density of the indumentum and the intensity of its tawny color, hence the numerous synonyms. Since this variation is continuous, it does not seem possible to recognize infraspecific taxa and we broaden here the synonymy of this taxon. The var. thomasii (De Wild.) Meerts from northern Angola and southern Democratic Republic of the Congo differs from the typical variety by its large, foliaceous and elliptic basal bracts (see Plate 25(6, 7)). Much material relating to V. congolensis had previously been incorrectly referred to V. ferruginea. B: Hawthorne & Jongkind (2006), Huber et al. (1963), Meerts (2018, 2020a, 2020b). Bibliography
 
+## Figures
+
+![Vitex congolensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_079_p0101.png)
+
+*Plate 25 . Vitex congolensis var congolensis : 1. Leaf and inflorescence. – 2. Detail of an inflorescence fragment. – 3. Flower. – 4. Gynoecium. – 5. Open corolla. – var. thomasii : 6. Flowering branch. – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

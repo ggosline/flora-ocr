@@ -36,6 +36,16 @@ in mangrove forest, forest-savanna edge, but also in savanna, on sandy soil; up 
 
 3
 
+## Figures
+
+![Ternstroemia africana](../sources/Ternstroemiaceae_vol41_liteparse/figures/fig_039_p0063.png)
+
+*Plate 14. Ternstroemia africana : 1. Fruiting branch. – 2. Detail of the leaf, underside with black glands. – 3. Flower. – 4. Flower, view from below. – 5. Stamens, front and dorsal view. – 6.*
+
+![Ternstroemia africana](../sources/Ternstroemiaceae_vol41_liteparse/figures/fig_040_p0065.png)
+
+![Ternstroemia africana](../sources/Ternstroemiaceae_vol41_liteparse/figures/fig_041_p0065.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

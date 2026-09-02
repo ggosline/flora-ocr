@@ -35,6 +35,16 @@ widely distributed in tropical West Africa and from Gabon to the Democratic Repu
 
 swampy forest or along river margins in forest, occasionally along streams and rivers outside forests; in Gabon, at 0–500 m altitude, up to 1140 m in East Africa. Taxonomic note: very close to S. racemosa, differs mainly by the verrucose achenes with tufts of hairs on the warts. Most specimens of S. verrucosa are also less robust and with a smaller achene than S. racemosa. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Piérart (1953)
 
+## Figures
+
+![Scleria verrucosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_203_p0225.jpeg)
+
+*Figure 29. Akènes de a) Scleria spiciformis ( Ngok Banak 1955 , Ogooué-Ivindo, Gabon) et b) Scleria verrucosa ( Sosef 623 , Ogooué-Ivindo, Gabon). la Ngounié, le Moyen-Ogooué, l’Ogooué-Ivindo, l’Ogooué-Maritime et le Woleu-Ntem (18 récoltes).*
+
+![Scleria verrucosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_206_p0227.png)
+
+*Plate 141. Scleria verrucosa . A. Parts Plate 142. Scleria vogelii . A, B. Vegetative and fertile parts of a stem. – B. Base of the limb vegetative and fertile parts of a stem. – C. Base of the limb and orifice of a leaf sheath showing the stem and opening of the leaf sheath showing the stem in in section. – C. Opening of the leaf sheath. – D. section. – D. Part of the inflorescence. – E. Spikelet*
+
 ## Notes
 
 <!-- TODO:notes -->

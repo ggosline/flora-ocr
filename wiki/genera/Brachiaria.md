@@ -36,6 +36,20 @@ Approximately 80 species, mainly in Africa; 4 are recorded from Gabon.
 
 3'. Racemes dense with solitary spikelets or the lowest paired; lower flower neuter ..... 4. B. distichophylla.
 
+## Key to the species
+
+1. Rachis of racemes flattened-ribboned, these composite, numerous, with spikelets 3-3.5 mm long; long linear leaves; herbs of humid places ..... I. B. mutica.
+
+1'. Rachis of racemes filiform, triquetrous or more or less flattened but not distinctly ribboned:
+
+2. Inflorescence formed of 2 to 8 erect racemes, up to 15 cm long; spikelets in a longitudinal series, ovoid, up to 6 mm long; leaves elongate linear ..... 2. B. brizantha.
+
+2'. Inflorescence in a panicle formed of 6 to very numerous racemes simple or composite, at least in their lower part, the secondary branches very short; leaves lanceolate, undulate crisped on the margins.
+
+3. Racemes lax formed of small secondary racemes or of glomerules of 2 to 6 spikelets; lower flower male. 3. B. Kotschyana.
+
+3'. Racemes dense with spikelets solitary or the lowermost by 2; lower flower neuter ..... 4. B. distichophylla.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -24,6 +24,16 @@ Liane JULPSDQWMXVTX¶jPGHKDXWHXUGDPHDX[GHQVpPHQWSXEHVFHQWV Leaf: petiole 8–20 
 
 A. trichantha is included here as a synonym, following Vonk et al., but with some doubts. B: Pichon (1953), Vonk et al. (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Ancylobothrys pyriformis](../sources/Apocynaceae_vol59_liteparse/figures/fig_027_p0037.jpeg)
+
+*Plate 11. Ancylobothrys pyriformis: 1. Flowering stem (× ⅔). – 2. Young corolla, longitudinal section (× 2). – 3. Pistil (× 10). (1: Le Testu 9511; 2, 3: Le Testu 6054). Drawing by Guido M. Pichon, National Museum of Natural History, Paris (©), reproduced from Pichon (1953).*
+
+![Ancylobothrys pyriformis](../sources/Apocynaceae_vol59_liteparse/figures/fig_028_p0038.jpeg)
+
+*Figure 2 . Ancylobothrys pyriformis : A. Fruits. – Ancylobothrys scandens : B. Fruit. – Baissea congensis : C. Flowering stem. D. Lower surface of a leaf with domatia. E. Inflorescence. F. Flower. – Baissea gracillima : G. Flowering stem. H. Part of an inflorescence. Photos by Nicolas Texier (A, Mts Birougou, Gabon ; Ehoarn Bidault ; B, south of the Island Mandji, Gabon ; C, Between Mabanda and Ndendé, Gabon ; G, H, Mts Birougou, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

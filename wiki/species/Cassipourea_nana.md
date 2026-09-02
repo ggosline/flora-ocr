@@ -32,6 +32,12 @@ endemic to Gabon, known only from the type locality (Doudou Mountains, 60 km WNW
 
 understory of primary forest; at ± 200 m altitude. Flower buds and young fruit in November. b: Breteler (2008). Bibliography
 
+## Figures
+
+![Cassipourea nana](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_051_p0102.png)
+
+*Plate 33. Cassipourea nana : 1. Flowering branch. – 2. Detail of the indumentum on the upper surface of the midvein. – 3. Leaf axil with flowers. – 4. Flower without petals and one sepal cut. – 5. Detail of the interior of a sepal. – 6. Petal. – 7. Stamen. – 8. Young fruit. – 9. Young fruit, longitudinal section. (1-8 : J.J. de Wilde 8985 ). Drawing by Hans de Vries, made available by Frans Breteler ©.*
+
 ## Notes
 
 <!-- TODO:notes -->

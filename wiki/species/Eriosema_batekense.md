@@ -33,6 +33,12 @@ Gabon and Republic of Congo; in Gabon, restricted to the Batéké Plateaus (Haut
 
 on Kalahari sands; at 400–600 m altitude. Flowers and fruits in May, July, October and December. b: van der Maesen & Walters (2011). Bibliography
 
+## Figures
+
+![Eriosema batekense](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_069_p0187.png)
+
+*Plate 61: Eriosema batekense: 1. Habit and tuber. – 2. Flower. – 3. Standard. – 4. Wing. – 5. Keel. – 6. Androecium. – 7. Gynoecium. – 8. Seed with strophiole. – 9. Detail of the upper surface of the leaflet. – 10. Idem, lower surface. (1–10: G. Walters et al. 2145). Drawing by Barbara Alongi, Missouri Botanical*
+
 ## Notes
 
 <!-- TODO:notes -->

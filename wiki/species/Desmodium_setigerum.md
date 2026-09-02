@@ -37,6 +37,12 @@ humid and ruderal terrain, roadsides, grasslands, forest margins; in Gabon at ±
 
 The pod might be dehiscent along the sutures, which is why in the past several authors incorrectly presented it as a synonym of D. hirtum. b: De la Estrella et al. (2010), Hepper (1958), Mackinder et al. (2001), Pellegrin (1949), Bibliography Schubert (1954, 1971)
 
+## Figures
+
+![Desmodium setigerum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_063_p0171.png)
+
+*Plate 55 : Desmodium incanum : 1. Fertile stem. – 2. Stipules. – 3. Flower. – 4. Pod. – Desmodium hirtum : 5. Pod (× 2). – Desmodium setigerum : 6. Pod (× 2). Drawing by Bobbi Angell (1–4, ©), reproduced with permission from Acevedo-Rodrigues (2005) and by G. Esperant (5, 6), Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

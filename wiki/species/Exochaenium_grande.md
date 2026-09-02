@@ -34,6 +34,12 @@ Nigeria, Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, R
 
 savannas, xerophilous grasslands, rocky savannas, pastures; in Gabon near the sea, elsewhere up to 2250 m altitude. B: Boutique (1972), Kissling (2012), Paiva & Nogueira (1990), Sileshi (2002), Taylor Bibliography (1963)
 
+## Figures
+
+![Exochaenium grande](../sources/Gentianaceae_vol54_liteparse/figures/fig_058_p0074.png)
+
+*Plate 24 . Exochaenium grande : 1. Habit (× ⅔). – 2. Flower (× 1). – 3. Sepal (× 2). – 4. Flower with mediocre style, calyx removed, corolla open (× 3). – 5. Anther (× 12). – 6. Gynoecium of a form with mediocre style (× 4). – 7. Fruit (× 4). – 8. Seed (× 40). – 9. Brevistyle flower, calyx removed, corolla open (× 3). – 10. Anther (× 12). – 11. Longistyle flower, calyx removed, corolla open (× 3). – 12. Anther (× 12). (1-8 : Polhill & Paulo 1892 ; 9-10 : Greenway & Vesey-Fitzgerald 13612 ; 11-12 : Hepper & Field 5268 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

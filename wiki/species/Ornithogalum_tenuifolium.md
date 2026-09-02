@@ -37,6 +37,22 @@ Flower (× 5). – 5. Stamen, external face (× 3.5). – 6. Stamen, internal fa
 
 .203-3+20.3 1+13 7 95 5
 
+## Figures
+
+![Ornithogalum tenuifolium](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_029_p0035.png)
+
+*Plate 8. Ornithogalum tenuifolium : 1. Bulb with leaves (× ½). – 2, 3. Inflorescence (× ½). – 4.*
+
+![Ornithogalum tenuifolium](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_030_p0037.png)
+
+![Ornithogalum tenuifolium](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_031_p0037.png)
+
+![Ornithogalum tenuifolium](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_032_p0037.png)
+
+![Ornithogalum tenuifolium](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_033_p0037.png)
+
+![Ornithogalum tenuifolium](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_034_p0037.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

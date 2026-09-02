@@ -41,6 +41,12 @@ The pods of M. barteri differ from those of other Gabonese species by their stro
 
 Meise (©), reproduced from De Wildeman (1906).
 
+## Figures
+
+![Millettia barteri](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_095_p0260.png)
+
+*Plate 87 : Millettia barteri : 1. Flowering branch (× ½). – 2. Infructescences (× ½). – 3. Floral bud (× 2). – 4. Standard (× 2). – 5. Wing (× 2). – 6. Keel (× 2). – 7. Androecium (× 2½). – 8. Gynoecium (× 2½). – 9. Idem, longitudinal section (× 2½). – 10. Seed (× 1). Drawing by Maurice d'Apreval, Botanical Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

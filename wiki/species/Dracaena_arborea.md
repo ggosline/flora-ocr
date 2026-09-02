@@ -45,6 +45,12 @@ cockade bush, tree dracaena (angl.) ; ozogoué (mpongoué) ; alénokoué (pahoui
 
 The leaves of young specimens resemble those of D. fragrans. B : Baker (1898), Bos (1984), Hepper (1968), Velayos & Cabezas (2018). i Bibliography
 
+## Figures
+
+![Dracaena arborea](../sources/Dracaenaceae_vol54_liteparse/figures/fig_016_p0020.png)
+
+*Plate 3. Dracaena arborea : 1. General appearance. – 2. Transition leaves on a peduncle. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

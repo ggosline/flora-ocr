@@ -40,6 +40,12 @@ Subspecies gazensis (Baker f.) J.B.Gillett is known from East Africa. b: Cronqui
 
 Floral bud (× 10). – 4. Spread bud, calyx removed (× 10). – 5. Opened flower, without corolla (× 10). – 6. Gynoecium, longitudinal section (× 10). – 7. Legume (× 7). – 8. Legume, longitudinal section (× 5).(1–6: Luxen 410; 7, 8: Luja 201). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).
 
+## Figures
+
+![Indigofera paniculata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_080_p0219.png)
+
+*Plate 72: Indigofera paniculata subsp. paniculata: 1. Habit (× ½). – 2. Leaf and stipules (× 1). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

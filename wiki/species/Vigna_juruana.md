@@ -44,6 +44,12 @@ In the Flora of West tropical Africa (Hepper 1958) and the Flore d'Afrique centr
 
 Louis 10294). Drawing by M. Boutique, Meise Botanic Garden (©).
 
+## Figures
+
+![Vigna juruana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_134_p0375.png)
+
+*Plate 126 : Vigna juruana : 1. Flowering stem (× ½). – 2, Stipules (× 5). – 3. Flower (× 4). – 4. Bracteole (× 4). – 5. Standard, inner surface (× 5). – 6. Wing, outer surface (× 5). – 7. Keel (× 4). – 8. Androecium (× 5). – 9. Gynoecium, ovary in longitudinal section (× 4). – 10. Infructescence (× 1). – 11. Seed (× 4). (1–11 :*
+
 ## Notes
 
 <!-- TODO:notes -->

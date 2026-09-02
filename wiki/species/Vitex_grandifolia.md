@@ -37,6 +37,16 @@ bikó-na, evul, évus, nnom-angóna (fang) ; obandja-gétété (mitsogo)
 
 V. grandifolia is close to V. doniana and some specimens of V. doniana with short inflorescence and large leaves may be misleading; V. doniana almost always has some hairs on the veins of the lower surface of the leaflets and is never associated with ants. At flowering time, the two species are easy to distinguish: V. grandifolia has the corolla brownish yellow on the outside, yellowish on the inside with brownish veins, reddish at the throat, V. doniana has the corolla pale blue or pale purple, whitish at the throat. Quite numerous records of V. grandifolia in Gabon are erroneous and actually refer to V. gabunensis (see note under this latter species). Bibliography: Aubréville (1956), Cabral (2013), Hawthorne & Jongkind (2006), Huber et al. (1963), Lisowski (2009), Meerts (2020a), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Vitex grandifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_081_p0105.png)
+
+*Plate 27. Vitex ferruginea: 1. Leaf. – 2. Inflorescence. – 3. Corolla, longitudinal section. – 4. Calyx and ovary. – 5. Flower, longitudinal section, corolla removed. – 6. Fruit. – Vitex grandifolia: 7. Part of a leaf. – 8. Part of an inflorescence. – 9. Flower. – 10. Corolla, longitudinal section, gynoecium and anther. – 11. Ovary. – 12. Idem, transverse section. – 13. Fruit. – 14. Idem, transverse section. Drawing by A.*
+
+![Vitex grandifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_083_p0108.jpeg)
+
+*Figure 6. Vitex gabunensis var. daubyi : A. Leaves, lower surface ; B. Inflorescence ; C. Fruits. – Vitex grandifolia : D. Leaf ; E. Flower. – Vitex madiensis subsp. madiensis : F. Flowering plant ; G. Flower. Photos by Ehoarn Bidault (A : Gabon, between Dibwangui and Lebamba ; B : Gabon, edge of the Foumana and the little Tsibil ; C-E : Gabon, Mts Cristal ; F, G : Gabon, Mouila-Ndendé).*
+
 ## Notes
 
 <!-- TODO:notes -->

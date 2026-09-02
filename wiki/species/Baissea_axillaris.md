@@ -21,6 +21,12 @@ Vine reaching 15 m in height; branches densely pubescent. Leaves: petiole 1–8 
 
 Leeuwenberg 7475 2 2: J. Louis 2890 2 9: Compère 348 2 10: Gillet 779 2 11: Cremers 170). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from van Dilst (1995).
 
+## Figures
+
+![Baissea axillaris](../sources/Apocynaceae_vol59_liteparse/figures/fig_039_p0046.jpeg)
+
+*Plate 15. Baissea axillaris 1. Flowering branch (× 1). – 2. Part of a branch (× 1). – 3. Junction of petiole-limb with colleters (× 6). – 4. Detail of the lower face of the leaf limb, with domatia (× 6). – 5. Flower (× 4). – 6. Idem, longitudinal section (× 4). – 7. Calyx, longitudinal section (× 10). – 8. Sta-*
+
 ## Notes
 
 <!-- TODO:notes -->

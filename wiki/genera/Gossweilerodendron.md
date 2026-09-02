@@ -29,6 +29,12 @@ Two species, one still poorly known. The first is widespread from southern Niger
 
 1'. Leaflets with numerous lateral veins visible below not forming an equally meshed network visible on both faces.
 
+## Key to the species
+
+1. Leaflets with a network of veins and veinlets finely prominent on both faces..... 1. G. balsamiferum.
+
+1'. Leaflets with numerous lateral veins visible beneath not forming an equally visible reticulate network on both faces.
+
 ## Species in region
 
 | Species | Vol | Pages |

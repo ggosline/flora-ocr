@@ -42,6 +42,24 @@ Edges of gallery forests, riverine forests, in half-shade on sandy soil near riv
 
 bongo (batéké). B : Baker (1898), Damen et al. (2018), Kikufi et al. (2016), Mwachala (2005). i B liographie
 
+## Figures
+
+![Dracaena acutissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_010_p0017.jpeg)
+
+*Plate 2. Dracaena acutissima : 1. Tip of a fruiting branch. – 2. Base of overlapping leaves. Drawing by A. Leys (as Dracaena laurentii De Wild.), Meise Botanical Garden (©), reproduced from De Wildeman (1905).*
+
+![Dracaena acutissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_011_p0018.jpeg)
+
+*Figure 1 . Dracaena acaulis (cult., Burgers Bush, Netherlands) : A. Young inflorescence and leaves with tapered base. – Dracaena acutissima (Kimbuba, DR of Congo) : B. Young inflorescence and leaves with overlapping bases concealing the stem, C. Young lobed fruits. – Dracaena aubryana (cult., Burgers Bush, Nether-*
+
+![Dracaena acutissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_012_p0018.jpeg)
+
+![Dracaena acutissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_013_p0018.jpeg)
+
+![Dracaena acutissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_014_p0018.jpeg)
+
+![Dracaena acutissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_015_p0018.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

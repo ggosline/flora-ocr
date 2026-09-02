@@ -33,6 +33,12 @@ endemic to Gabon, restricted to the Cristal Mountains
 
 wooded slopes in dense humid forests between 500 m and 700 m altitude; forming locally fairly substantial populations. B: Hallé (1972). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia minutifolia](../sources/Begoniaceae_vol39_liteparse/figures/fig_020_p0019.png)
+
+*Plate 5. Begonia minutifolia: 1. Fruiting plant (× 1). – 2. Leaf, lower surface (× 2.5). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

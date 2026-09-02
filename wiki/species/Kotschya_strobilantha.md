@@ -35,6 +35,12 @@ shrubby savannas, open forests, water margins, sandy soils; up to 1900 m altitud
 
 In the South-East of the Democratic Republic of Congo (Katanga), there exists a slender form, a suffrutex 15–30 cm, with leaflets only 5–7 × 1–2 mm, recognized as var. kundelunguensis Dewit & Duvign. b: Dewit & Duvigneaud (1954), Raponda-Walker & Sillans (1961), Verdcourt (2000). Bibliography
 
+## Figures
+
+![Kotschya strobilantha](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_081_p0225.png)
+
+*Plate 73: Kotschya strobilantha var. strobilantha: 1. Flowering branch (× ½). – 2. Stipules (× 3). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

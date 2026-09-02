@@ -33,6 +33,12 @@ Cameroon, Equatorial Guinea, Gabon and the Democratic Republic of the Congo; ver
 
 Fallows, forests (swampy or not); in Gabon up to 1000 m in altitude. Flowering in April, May, October, November. Use: The roots yield a hunting poison used to impregnate arrows. b: De Wilde (1974a, 1974b), Robyns (1995). Bibliography
 
+## Figures
+
+![Efulensia clematoides](../sources/Passifloraceae_vol46_liteparse/figures/fig_047_p0084.png)
+
+*Plate 33. Efulensia clematoides : 1. Branch with leaves and inflorescences (× ½). – 2. Flower (× 3). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

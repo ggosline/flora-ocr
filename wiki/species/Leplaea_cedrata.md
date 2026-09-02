@@ -37,6 +37,12 @@ Evergreen and semi-deciduous forest; in Gabon, up to 500 m in altitude, elsewher
 
 bossé clair, bosse claro, cèdre d’Afrique (noms pilote) ; acajou bossé, faux acajou (fr.) ; pink mahogany, pink African cedar (angl.) ; eyop (fang). B : Aubréville (1959), Jiofack Tafokou (2008), Koenen & de Wilde (2012), ibliographie Staner (1941), Voorhoeve (1965), Wilks & Issembé (2000)
 
+## Figures
+
+![Leplaea cedrata](../sources/Meliaceae_vol47_liteparse/figures/fig_026_p0046.png)
+
+*Plate 12. Leplaea cedrata: A. Flowering branch. – B. Detail of a leaflet, lower surface. – C. Functionally male flower open, one petal and part of the staminal tube removed. – D. Idem, longitudinal section. – E. Functionally female flower, ditto. – F. Fruiting branch. – G. Fruit open. – H.*
+
 ## Notes
 
 <!-- TODO:notes -->

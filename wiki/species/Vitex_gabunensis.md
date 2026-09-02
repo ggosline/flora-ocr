@@ -43,6 +43,28 @@ B A D C E F G
 
 Klaine 2297 (P) bears a handwritten note by L. Pierre, indicating that the latter was about to describe this taxon under the name Vitex klainei. This name was never published. Some specimens are more or less intermediate between the two varieties, for example Louis 2735 (WAG). B: Meerts (2020a). Bibliography
 
+## Figures
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_082_p0106.png)
+
+*Plate 28. Vitex gabunensis var. gabunensis: 1. Fruiting branch (× ½). – 2. Domatium (× 18). – 3.*
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_083_p0108.jpeg)
+
+*Figure 6. Vitex gabunensis var. daubyi : A. Leaves, lower surface ; B. Inflorescence ; C. Fruits. – Vitex grandifolia : D. Leaf ; E. Flower. – Vitex madiensis subsp. madiensis : F. Flowering plant ; G. Flower. Photos by Ehoarn Bidault (A : Gabon, between Dibwangui and Lebamba ; B : Gabon, edge of the Foumana and the little Tsibil ; C-E : Gabon, Mts Cristal ; F, G : Gabon, Mouila-Ndendé).*
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_084_p0108.jpeg)
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_085_p0108.jpeg)
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_086_p0108.jpeg)
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_087_p0108.jpeg)
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_088_p0108.jpeg)
+
+![Vitex gabunensis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_089_p0108.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

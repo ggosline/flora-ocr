@@ -32,6 +32,16 @@ Yellowish, with tube 5–8.2 mm long, 0.9–1.5 mm wide in the middle, 1.7–2.2
 
 Southeast of Nigeria, Cameroon and Gabon; in Gabon: Estuary and Ngounié, known only from two stations. Ecology forest in Gabon and elsewhere, up to 650 m altitude. B: Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia subrepanda](../sources/Apocynaceae_vol59_liteparse/figures/fig_106_p0125.jpeg)
+
+*Figure 7 . Landolphia foretiana $,QÀRUHVFHQFH%6RPPHWG¶XQHWLJH± Landolphia incerta : C : ,QÀRUHVFHQFH± Landolphia letestui '7LJHÀRULIqUH(,QÀRUHVFHQFH± Landolphia subrepanda : F :*
+
+![Landolphia subrepanda](../sources/Apocynaceae_vol59_liteparse/figures/fig_137_p0155.jpeg)
+
+*Planche 69 . Landolphia subrepanda )HXLOOHVIDFHLQIpULHXUHîҀ±)OHXUî±&DOLFHî±)OHXUFRXSHORQJLWXGLQDOHî*
+
 ## Notes
 
 <!-- TODO:notes -->

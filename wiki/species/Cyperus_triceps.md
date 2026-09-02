@@ -35,6 +35,14 @@ seasonally wet grasslands and shallow soils of inselbergs; in Gabon, around 500�
 
 F. Spikelet. – G. Spikelet with young fruits. Drawing receptacles. – F. Spikelet. – G. Spikelet with young fruit. Original drawing by Richard W. Haines ©. a few smaller lateral spikelets. It also differs from it by its glumes with a glabrous keel (not scabrous, nor winged). B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliography Lye (1997). CYPERUS L. subgenus PYCNOSTACHYS C.B.Clarke Fl. Brit. India 6 : 597 (1893). Perennial or more rarely annual herbs; stems usually 20–80 cm long. Basal leaves numerous, rare or absent. Anatomy of stems and leaves of eucyperoid type (that is, C3 type anatomy). Inflorescence in a lax anthela (rarely compact) with groups of digitate spikelets and generally large foliaceous involucral bracts. Spikelet with numerous flowers, 2–15 mm long, slightly compressed; axis persistent (spikelets not falling as a single unit); glumes 0.5–3.5 mm long, obtuse, acute or with the central vein prolonged into a straight or curved mucro. Flower with 1–3 stamens, connective often producing an apical appendage; style caducous, with 3 branches. Achenes sessile, trigonous, 0.4–1.5 mm long, with surface usually tuberculate or finely papillose. Medium-sized subgenus, comprising about 150 species from marshes and forests, usually in zones of high rainfall, growing mostly in tropical and subtropical regions; in Gabon 8 species.
 
+## Figures
+
+![Cyperus triceps](../sources/Cyperaceae_vol44_liteparse/figures/fig_081_p0103.png)
+
+*Plate 61. Cyperus sesquiflorus subsp. Plate 62. Cyperus triceps. A. Plant. – B. Base cylindricus. A. Plant. – B. Base of the plant. of the plant. – C, D. Inflorescence. – E. Old – C. Opening of the sheath. – D, E. Inflorescence. – inflorescence with spikelets fallen showing*
+
+![Cyperus triceps](../sources/Cyperaceae_vol44_liteparse/figures/fig_082_p0103.png)
+
 ## Notes
 
 <!-- TODO:notes -->

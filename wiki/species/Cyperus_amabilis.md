@@ -37,6 +37,14 @@ in seasonally humid habitats, on sandy soils in grasslands, savannas, wooded are
 
 foothill flatsedge (angl.). Note taxonomique : se reconnaît à son port annuel, ses feuilles assez épaisses et son anthèle de fascicules digités orange-brun. Elle ressemble un peu à C. cuspidatus, qui a des glumes avec un mucron recourbé beaucoup plus long. C. amabilis n’est probablement pas distincte de l’espèce asiatique C. castaneus Willd. (1797). B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
 
+## Figures
+
+![Cyperus amabilis](../sources/Cyperaceae_vol44_liteparse/figures/fig_031_p0045.png)
+
+*Planche 19 . Cyperus pectinatus. A. Plante. – Planche 20 . Cyperus amabilis. A. Plante. – B.*
+
+![Cyperus amabilis](../sources/Cyperaceae_vol44_liteparse/figures/fig_032_p0045.png)
+
 ## Notes
 
 <!-- TODO:notes -->

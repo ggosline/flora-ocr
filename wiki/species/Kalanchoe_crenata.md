@@ -42,6 +42,12 @@ sometimes cultivated in villages for medicinal or fetishistic uses. In general, 
 
 atsémélé-tsémélé (Bakèlè), didjudjuga (Bapunu), digura-gura (Ngowé), ditèyuga (Balumbu), diyuyuga (Échira, Bavarama, Bavungu), djógé (Bavové), djókano (Benga), djókéa (Mitsogo), djokilo (Béséki), dokéa (Apindji), évèmème (Fang), ézógani (Nkomi), ezógano (Mpongwè, Galoa), léyóyógó (Banzabi), lidjudjuga (Bavili), lugu (Mindumu), poko-a-éato (Ivéa). Notes taxonomiques : espèce très variable. Plusieurs variétés ont été décrites, mais elles ne sont plus reconnues aujourd’hui. La sous-espèce nyassensis R.Fern. du Malawi et de la Zambie a des fleurs plus petites et des anthères épipétales exsertes. La sous-espèce bieensis R.Fern. d’Angola a des fleurs plus longues et larges et des sépales plus larges. b : Descoings (2003), Fernandes (1980), Raadts (1977), Raponda-Walker & ibliographie Sillans (1961), Wardah & van Valkenburg (1999), Wickens (1987)
 
+## Figures
+
+![Kalanchoe crenata](../sources/Crassulaceae_vol41_liteparse/figures/fig_021_p0035.png)
+
+*Plate 8. Kalanchoe crenata ssp. crenata : 1. Flowering plant. – 2. Flower. – 3. Flower in longitudinal section. Drawing by W.E. Trevithick, reproduced with permission from the Royal Botanic Gardens Kew (©), from Hutchinson & Dalziel (1954) l.c.*
+
 ## Notes
 
 <!-- TODO:notes -->

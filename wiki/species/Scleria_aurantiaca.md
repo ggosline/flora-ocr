@@ -33,6 +33,12 @@ endemic to Gabon; very rare and found only in Haut-Ogooué (1 collection)
 
 brush in forest zones; at 435 m altitude. Taxonomic note: close to S. nyasensis. It differs from it by its hypogynium having a prominent orange ring with 3 small acute lobes, whereas that of S. nyasensis is greyish white and formed of 3 prominent lobes without a ring
 
+## Figures
+
+![Scleria aurantiaca](../sources/Cyperaceae_vol44_liteparse/figures/fig_179_p0201.jpeg)
+
+*Figure 24. Akènes de a) Schoenoplectus mucronatus ( Wieringa 4668 , Ngounié, Gabon) et b) Scleria aurantiaca ( Wieringa et al. 6430 , Haut-Ogooué, Gabon). noplectus ), et plumeux chez S. subulatus (parfois placée dans la section Malacochaete (Ohwi) S.G. Sm. & Hayasaka). Aujourd’hui, les espèces annuelles grêles partiennaient auparavant à Schoenoplectus , sont maintenant généralement placées dans le genre Schoe- noplectiella Lye. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie*
+
 ## Notes
 
 <!-- TODO:notes -->

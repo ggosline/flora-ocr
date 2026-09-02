@@ -29,6 +29,13 @@ This genus, from Africa to Fiji passing through India, comprises about twenty sp
 
 2'. Lower part of labellum (4) 5–6.5 mm long, apical lobes (2.5) 3–7.5 mm long and 2–3.5 mm wide ..... 3. H. tetraptera
 
+## Key to the species
+
+1. Labellum at the base ..... 1. H. heterosepala
+1'. Labellum at the apex ..... 2
+2. Lower part of the labellum 3-4 mm long, apical lobes 2-2.3 mm long and 0.8-1 mm wide ..... 2. H. mannii
+2'. Lower part of the labellum (4) 5-6.5 mm long, apical lobes (2.5) 3-7.5 mm long and 2-3.5 mm wide ..... 3. H. tetraptera
+
 ## Species in region
 
 | Species | Vol | Pages |

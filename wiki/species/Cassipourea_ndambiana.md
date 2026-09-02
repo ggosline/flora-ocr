@@ -34,6 +34,12 @@ Southern Cameroon and Gabon; in Gabon, rare, known only from two localities in O
 
 rainforest; in Gabon, at ± 300 m altitude. Floral buds in October, fruits in November. b: Breteler (2008). Bibliography
 
+## Figures
+
+![Cassipourea ndambiana](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_052_p0104.png)
+
+*Plate 34. Cassipourea ndambiana : 1. Branch with flower buds. – 2. Flower bud with two calyx lobes cut. – 3. Petal. – 4. Spread petal, with hairs removed. – 5. Calyx and gynoecium, longitudinal section. – 6. Ovary, transverse section. – 7. Young fruit. – 8. Young fruit, longitudinal section. (1, 2 : Breteler et al. 13274 ; 3-8 : Breteler c.s. 12377 ). Drawing by Hans de Vries, made available by*
+
 ## Notes
 
 <!-- TODO:notes -->

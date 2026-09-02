@@ -39,6 +39,12 @@ mangroves, salt marshes, under coconut plantations; at low altitude. Uses: The t
 
 croc de chien, griffe de léopard (fr.) ; palo de hoz (angl.) ; akóghele (fang du Fer nan-Vaz) ; dubara (ngowé, balumbu) ; kóba-ntsau, malóbu (éshira) ; mbara (mpongwè, nkomi, orungu). b : Amshoff (1939), Hauman (1954d), Lewis et al. (2005), Raponda-Walker & Sillans (1961). ibliographie
 
+## Figures
+
+![Machaerium lunatum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_090_p0245.png)
+
+*Plate 82 : Machaerium lunatum : 1. Inflorescence and leaf. – 2. Flower. – 3. Standard. – 4. Wing. – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

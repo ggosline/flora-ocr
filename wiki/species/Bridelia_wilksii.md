@@ -33,6 +33,12 @@ secondary dense forest; at 400–600 m altitude. b: Breteler (2011b). Bibliograp
 
 Branch with spines. ‒ D. Infrutescence. ‒ E. Fruit with persistent calyx. (A ‒ E: Sosef et al. 2588). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Bridelia wilksii](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_010_p0023.png)
+
+*Plate 4. Bridelia wilksii : A. Branch with young fruits. ‒ B. Large leaf viewed from below. ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

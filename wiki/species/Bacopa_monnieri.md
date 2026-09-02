@@ -42,6 +42,12 @@ The plant has several medicinal uses. It is also cultivated as an ornamental pla
 
 water hyssop (angl.). B : Aguilar (2001), Fischer (2006a), Philcox (1990). ibliographie
 
+## Figures
+
+![Bacopa monnieri](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_068_p0154.jpeg)
+
+*Planche 54. A. Bacopa crenata. – B. Bacopa monnieri . – C–D. Craterostigma nummulariifolium. – E–F.*
+
 ## Notes
 
 <!-- TODO:notes -->

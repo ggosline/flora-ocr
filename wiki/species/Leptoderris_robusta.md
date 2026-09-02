@@ -39,6 +39,12 @@ dense forest; at approximately 300 m altitude
 
 The type of this species is cited by Pellegrin (1949) under Leptoderris velutina, which is synonymized here with L. brachyptera. b: Pellegrin (1949). Bibliography
 
+## Figures
+
+![Leptoderris robusta](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_085_p0236.png)
+
+*Plate 77: Leptoderris robusta: 1. Leaf. – 2. Detail of the lower surface. – 3. Detail of the indument on the lower surface. – 4. Inflorescence. – 5. Axis of the inflorescence with lateral axis and bracts. – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

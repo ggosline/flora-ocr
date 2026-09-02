@@ -41,6 +41,19 @@ Pantropical genus of about 100 species, mostly Neotropical; in Gabon, 6 species 
 
 4. Labellum thick, fleshy, the lateral lobes scarcely visible, callus crimped at the centre of the labellum ..... 4. V. hallei
 
+## Key to the species
+
+1. Labellum clearly trilobed after spreading, wider near the base ..... 2
+2. Labellum deeply saccate at the base, median lobe distinctly < than the lateral ones ..... 2. V. chalottii
+2'. Labellum narrowly tubular at the base, median lobe > than the lateral ones ..... 3
+3. Median lobe of the labellum truncate, wider at the apex ..... 5. V. heterolopha
+3'. Median lobe of the labellum ± ribbon-like, tapering from the middle towards the apex ..... 4
+4. Labellum thick, fleshy, the lateral lobes barely visible, callus crisped in the centre of the labellum ..... 4. V. hallei
+4'. Labellum thin, the lateral lobes fairly well developed in a diamond shape, fused to the column, dentate lamellae rare to few on the median lobe ..... 1. V. africana
+1'. Labellum not clearly lobed, wider near the apex or the middle ..... 5
+5. Petiole 2 cm ; labellum at the callus very thick and fleshy along the median nerve ..... 3. V. grandifolia
+5'. Petiole <1 cm ; labellum with various types of hairs along the median nerve ..... 6. V. imperialis
+
 ## Species in region
 
 | Species | Vol | Pages |

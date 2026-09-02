@@ -33,6 +33,12 @@ dry regions of Africa, from Senegal to Angola and from Sudan to Zimbabwe; in Gab
 
 savannas; in Gabon up to 250 m altitude, elsewhere up to 1400 m. Use: The infusion (of leaves?) serves as a gargle against toothache. Bibliography: Cronquist (1954), Gillett (1971a), Pellegrin (1949), Raponda-Walker & Sillans (1961).
 
+## Figures
+
+![Indigofera capitata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_077_p0212.png)
+
+*Plate 69: Indigofera capitata: 1. Flowering and fruiting branch (× ½). – 2. Stipules (× 3). – 3. Floral bud (× 5). – 4. Bud spread, calyx removed (× 10). – 5. Flower open, corolla and one sepal removed (× 5). – 6. Gynoecium, longitudinal section (× 10). – 7. Pod (× 5). – 8. Seed (× 10). (1, 2, 7, 8: Cou- teaux 507; 3–6: Louis 1924). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

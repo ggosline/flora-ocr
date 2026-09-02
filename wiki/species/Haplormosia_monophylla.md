@@ -31,6 +31,12 @@ Evergreen humid forest, near rivers and in swamps, lagoon margins, on sand; in G
 
 chêne d’Afrique (fr.) ; black gum, Liberian black gum (angl.) ; didèwa (ngowé) ; dilèbu (balumbu) ; dinan krohia (ébrié) ; gyèlu (éshira du Fernan-Vaz) ; idèwa (nkomi, orungu) ; larmé (dabou) ; oyo, oyóp (fang). b : Hepper (1958), Lemmens (2008c), Raponda-Walker & Sillans (1961). ibliographie
 
+## Figures
+
+![Haplormosia monophylla](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_075_p0206.png)
+
+*Plate 67: Haplormosia monophylla: 1. Flowering branch (× ½). – 2. Detail of the base of the leaflet with stipels (× 10). – 3. Flower, longitudinal section (× 2). – 4. Pod (× ½). – 5. Seed (× ½). – 6. Seedling (× ½). (1–3: Voorhoeve 950; 4, 5: J.J.F.E. de Wilde 3848; 6: Harley 1041). Drawing by L. van der Riet,*
+
 ## Notes
 
 <!-- TODO:notes -->

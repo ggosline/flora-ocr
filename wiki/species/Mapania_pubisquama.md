@@ -32,6 +32,12 @@ endemic to Gabon; known from Ogooué-Maritime and Nyanga
 
 humid forests; at 340–430 m altitude. Taxonomic note: close to M. africana, but differs from it by its paler inflorescence, its smaller and finer spicoidal bracts and its smaller and different floral bracts
 
+## Figures
+
+![Mapania pubisquama](../sources/Cyperaceae_vol44_liteparse/figures/fig_153_p0177.png)
+
+*Planche 111 . Mapania pubisquama . A. Plante. – B. Planche 112 . Mapania purpurascens . A. Plante. –*
+
 ## Also treated in vol 44
 
 **Pages**: 176-177 · **Source**: `sources/Cyperaceae_vol44_liteparse`

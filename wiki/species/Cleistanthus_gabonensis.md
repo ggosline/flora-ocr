@@ -36,6 +36,12 @@ primary and secondarized forest; at 0–600 m altitude. Taxonomic note: Accordin
 
 Wieringa et al. 4142; C, E ‒ G: Louis et al. 1188; D: Breteler & Jongkind 10139; H: Wieringa et al. 5608). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Cleistanthus gabonensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_013_p0029.png)
+
+*Plate 7. Cleistanthus gabonensis: A. Branch with young fruits. ‒ B. Detail of underside of a leaf. ‒ C. Stipules. ‒ D. Small leaf with inflorescence. ‒ E. Inflorescence with opened male flower. ‒ F. Male flower, one sepal removed. ‒ G. Female flower, one sepal removed. ‒ H. Seed. (A, B:*
+
 ## Notes
 
 <!-- TODO:notes -->

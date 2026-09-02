@@ -42,6 +42,16 @@ White Cape Beech (Angl.). Note taxonomique : Espèce très variable, si bien qu�
 
 3
 
+## Figures
+
+![Pittosporum viridiflorum](../sources/Pittosporaceae_vol41_liteparse/figures/fig_031_p0053.png)
+
+*Plate 12. Pittosporum viridiflorum: 1. Flowering branch. – 2. Flower (× 4). – 3. Flower, longitudinal section (× 4). – 4. Part of the fruit-bearing inflorescence (× 1). – 5. Fruit, open (× 2). Drawing made from elements from Denise Godot de Mauroy (© Scientific Publications of the National Museum of Natural History, Paris), Damtew Teferra © and Maureen E. Church ©, reproduced with permission from Cufodontis (1955), Friis (1989) and Dale & Greenway (1961).*
+
+![Pittosporum viridiflorum](../sources/Pittosporaceae_vol41_liteparse/figures/fig_034_p0055.png)
+
+![Pittosporum viridiflorum](../sources/Pittosporaceae_vol41_liteparse/figures/fig_035_p0055.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

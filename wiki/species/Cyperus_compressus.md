@@ -39,6 +39,14 @@ seasonally wet habitats, along marshes and ponds, also in disturbed habitats suc
 
 coco grass, flat sedge (angl.). Usage : Les racines sont utilisées comme fourrage. Note taxonomique : se reconnaît à son port annuel, ses épillets comprimés assez larges avec des glumes acuminées et de grands akènes à surface presque lisse. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Simpson & Inglis (2001)
 
+## Figures
+
+![Cyperus compressus](../sources/Cyperaceae_vol44_liteparse/figures/fig_035_p0049.png)
+
+*Planche 23 . Cyperus compressus. A. Plante. – B, Planche 24 . Cyperus congensis. A. Plante. – B.*
+
+![Cyperus compressus](../sources/Cyperaceae_vol44_liteparse/figures/fig_036_p0049.png)
+
 ## Notes
 
 <!-- TODO:notes -->

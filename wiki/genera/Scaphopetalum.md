@@ -49,6 +49,49 @@ Type species: Scaphopetalum blackii.
 
 3'. Calyx with connate sepals; floral bud globulose apiculate; midvein generally in depression on the upper side of the blade..... 2. Sc. blackii.
 
+## Key to the species
+
+(some fruits are not known.)
+
+1. Fruit wider than long, apically dehiscent..... 1. Sc. thonneri.
+
+1'. Fruit longer than wide, longitudinally dehiscent.
+
+2. Fruit not adorned with horns, apex attenuate.
+
+Fruit briefly attenuate, 1.5 times longer than wide. Sc. zenkeri.
+Fruit longly attenuate, 2-4 times longer than wide. 2. Sc. blackii.
+
+2'. Fruit adorned with horns situated toward the extremities of each carpel
+3. Sc. macranthum.
+
+---
+
+PL. XXII. — Scaphopetalum thonneri De Wild. et Dur. (N. Hallé 1410, in vivo) : 1, leaf, lower surface; 2, base of leaf, upper surface; 3, petiole, stipule and old bracteolate inflorescence; 4, expanded flower, diam. 7.5 mm; 5, flower seen from above without the calyx; 6, petal, internal surface, 4.3 mm long; 7, androecium 3 mm high, with a petal in profile to the right; 8, calyx 7.5 mm long and pedicel bracteoles; 9, ovary on the receptacle; 10, transverse section of ovary, diam. 1.3 mm; 11, young fruit on the receptacle; 12, immature fruit, 10 mm long; 13, seed recto and verso showing the aril, length 7 mm.
+
+---
+
+1. Scaphopetalum thonneri De Wild. et Th. Durand.
+= Sc. monophysca K. Schumann.
+
+De Wild. et Th. Dur., Bull. Herb. Boiss. V : 521 t. 21 (June 1897), orig. ref. — K. Schum., Nat. Pflanz., Nachtrag III : 241 (Oct. 1897), nomen, et Sterc. Afr. : 93 t. VII A (1900). — De Wild. Miss. E. Laurent : 400, t. CXLI et CXLII (1907). — Pellegr. Fl. Mayombe I : 32 (1924) et Sterc. Gab., Mém. Soc. Bot. : 47 (1950-1951).
+
+Shrub attaining 2-4 m high, often less, with plagiotropic branches. Extremities velutinous. Stipules subpersistent 3-13 mm long, attenuate acute, somewhat pubescent. Petiole 3-8 mm long, pubescent. Blade glabrous or somewhat pilose, 11-25 cm long, by 4-10 cm wide, oblong, base somewhat asymmetric and cordate, enlarged toward the apex and terminated by an acute acumen. Remarkable swelling of the blade toward the base, and on only one side of the midvein. 8-11 pairs of lateral veins; midvein distinctly prominent on the upper surface of the blade.
+
+Flowers brown red, axillary fasciculate, on a glomérule or on a more or less contracted bracteolate axis. Pedicel slender 5-10 mm long, bearing below the articulation, an involucre of 3 small ± acute bracteoles. Bud subglobose with pyramidal apex. Calyx with 5 lobes deeply emarginate 4-6 mm long, lanceolate, puberulent at least on the margins, glabrous or piliferous externally. 5 yellow, red or white petals nearly as long or barely longer than the sepals, cucullate, apex dominated by a small boss. Collar of the androecium funnel-shaped pentagonal; margin of the membrane sinuous between the staminodial bunches. Ovary brief with fine puberulence at least at the apex, 5-locular with 2 ovules per locule, style subulate.
+
+Dry fruit 10-12 mm long by 12-20 mm wide, apex spreading, outline 5-lobed, piliferous, tearing apically to release up to 9 seeds; persistent calyx at the base of the fruit. Seed hairy, rounded, approximately 6-7 mm, with sinuous aril.
+
+---
+
+Type of the species at Brussels.
+
+Sc. thonneri var. klainei Pierre ex N. Hallé var. nov. This variety attains only approximately one-half meter high, it differs further from the typical form by its smaller, thinner leaves with ciliate margins, by its fruit in which each of the lobes is adorned with an aliferous keel.
+
+Type of the variety: Klaine 2142 fr. (P.).
+
+The pocket at the base of the blade opens on the lower surface, either to the left or to the right of the midvein. One observes there ants at different stages of development, and Coccids which the ants appear to exploit (E. Laurent).
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -37,6 +37,16 @@ understory, often deeply shaded; in Gabon as elsewhere at 0–450 m altitude. Fl
 
 D. tholloniana and D. kindtiana are close to D. aubryana. They are treated as synonyms according to Bos (1984). Here, we treat them as distinct species, using the characters mentioned in the key. B: Baker (1898), Bos (1984), Damen et al. (2018), De Roos (2014), Figueiredo & Smith Bibliography (2008), Hepper (1968), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena aubryana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_011_p0018.jpeg)
+
+*Figure 1 . Dracaena acaulis (cult., Burgers Bush, Netherlands) : A. Young inflorescence and leaves with tapered base. – Dracaena acutissima (Kimbuba, DR of Congo) : B. Young inflorescence and leaves with overlapping bases concealing the stem, C. Young lobed fruits. – Dracaena aubryana (cult., Burgers Bush, Nether-*
+
+![Dracaena aubryana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_017_p0022.jpeg)
+
+*Plate 4. Dracaena aubryana : 1. General appearance. – 2. Leaf. – 3. Part of inflorescence. Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

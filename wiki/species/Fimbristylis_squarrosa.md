@@ -33,6 +33,12 @@ tropical regions of America, Africa and Asia, but often very scattered; rare in 
 
 in seasonally humid grasslands, river beds and sand banks; in Gabon, at 0–200 m altitude, up to 1600 m in East Africa. Taxonomic note: distinguished from all other species by its glumes with long curved mucro. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Fimbristylis squarrosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_127_p0151.png)
+
+*Planche 99 . Fimbristylis schoenoides . A. Plante. – Planche 100 . Fimbristylis squarrosa . A. Plante. -*
+
 ## Notes
 
 <!-- TODO:notes -->

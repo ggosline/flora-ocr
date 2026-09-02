@@ -54,7 +54,7 @@ Figure 9. Drypetes gossweileri: A, Trunk; B, Male flower; C, Fruit. – Drypetes
 
 ![Drypetes gossweileri](../sources/Putranjivaceae_vol57_paddle/figures/fig_096_p0143.png)
 
-*Planche 46. Drypetes gossweileri: 1. Rameau fleuri mâle (×½). – 2. Bouton de la fleur mâle (×2). – 3. Fleur mâle (×2). – 4. Fleur femelle (×2). – 5. Ovaire, coupe transversale (×2). – 6. Fruit jeune à l'état sec (×½). – 7. Idem, coupe transversale (×½). – 8. Endocarpe à l'état sec (×½). – 9. Graine (×½). (1-3: Louis 5745; 4, 5: Donis 3588; 6: Donis 3099; 7: Louis 11652; 8, 9: J. Léonard 1462). Dessin par D. Leyniers, Jardin botanique de Meise (©).*
+*Plate 46. Drypetes gossweileri: 1. Male flowering branch (×½). – 2. Bud of the male flower (×2). – 3. Male flower (×2). – 4. Female flower (×2). – 5. Ovary, transverse section (×2). – 6. Young fruit in the dry state (×½). – 7. Idem, transverse section (×½). – 8. Endocarp in the dry state (×½). – 9. Seed (×½). (1-3: Louis 5745; 4, 5: Donis 3588; 6: Donis 3099; 7: Louis 11652; 8, 9: J. Léonard 1462). Drawing by D. Leyniers, Meise Botanic Garden (©).*
 
 ![Drypetes gossweileri](../sources/Putranjivaceae_vol57_paddle/figures/fig_097_p0144.png)
 

@@ -40,6 +40,12 @@ primary and secondary forest, forest galleries, forest edges, shrubby savanas, o
 
 ngati, oko nganti (Batéké). Usage : Le bois est utilisé comme poteau de construction (Plateaux Batéké). b : Bamps & Farron (1967). ibliographie
 
+## Figures
+
+![Ochna latisepala](../sources/Ochnaceae_vol48_liteparse/figures/fig_033_p0078.png)
+
+*Plate 21. Ochna latisepala : 1. Flowering branch. – 2. Base of the leaf with stipules. – 3. Detail of a leaf, lower surface. – 4. Detail of the margin of a leaf. – 5. Flower. – 6. Stamens. – 7. Top of an anther. – 8. Gynoecium, some filaments removed. – 9. Fruiting branch. – 10. Drupels and enlarged sepals. (1, 7 : Pauwels 302 ; 2, 6, 8 : Pauwels 681 ; 3-5 : Achten 360a ; 9 : Breteler et al. 9975 ; 10 : Vanderyst 36262). Drawing by Hans de Vries, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

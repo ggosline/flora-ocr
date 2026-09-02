@@ -40,6 +40,12 @@ epiphytic or on trunks or rocks covered with mosses, dense coastal forest, humid
 
 acorn peperomia, four-leaf peperomia (angl.). Bi : Diniz (1997), Düll (1973), Keay (1954), Verdcourt (1996). B liographie
 
+## Figures
+
+![Peperomia tetraphylla](../sources/Piperaceae_vol50_liteparse/figures/fig_038_p0072.png)
+
+*Plate 26 . Peperomia pellucida : 1. Habit. – Peperomia thomeana : 2. Habit. – Peperomia bangroana : 3. Habit. – Peperomia tetraphylla : 4. Habit. (1 : J.J.F.E. de Wilde et al. 10408 ; 2 : Ogonovszky 326 ; 3 :*
+
 ## Notes
 
 <!-- TODO:notes -->

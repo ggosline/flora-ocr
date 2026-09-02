@@ -37,6 +37,12 @@ always on marshy or flooded soils, in dense forest, coastal forests on sandy soi
 
 R. zamiana is the third species of the "raphiaceous" section known from Gabon (see Notes under the treatment of R. laurentii). It is distinguished from R. laurentii and R. monbuttorum by its pendulous inflorescence (semi-erect in the other two) and very robust and thick flowering branches, generally more than 1 cm in diameter. R. zamiana is very common along roadsides in Gabon but has been only rarely collected (probably because of its difficult access). Despite its broad ecological amplitude, molecular studies confirm that it is indeed a single species (unpublished results). B: Mogue et al. (2018). Bibliography
 
+## Figures
+
+![Raphia zamiana](../sources/Arecaceae_vol53_liteparse/figures/fig_041_p0066.png)
+
+*Plate 23 . Raphia zamiana : 1. Habitat in savanna. – 2. Habitat in forest, trunk not visible. – 3. Detail of the trunk, with inflorescence and linear and pointed fibers. – 4. Inflorescence. – 5. Partial inflorescence, young. – 6. Detail of the flowering branches. – 7. Detail of the basal part of the flowering branches of 2nd order, showing the bracts of the flowering branches encircling the young flowers. – 8. Detail of the partial inflores - cence (× 5). – 9. Female flower (× 5). – 10. Interior female bract (× 5). – 11. Female calyx (× 5). – 12. Female corolla (× 5). – 13. Detail of the staminodial rings and the staminodes. – 14. Male flower (× 5). – 15. Male calyx (× 5). – 16. Male corolla (× 5). – 17. Male stamens (× 6). – 18. Detail of the male stamens (× 12). – 19. Infructescence. – 20. Fruit, longitudinal section. (1 : Couvreur 1122 ; 2-4, 19, 20 : Mogue 17 ; 5-18 : Mogue 44 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from Mogue et al . (2018).*
+
 ## Notes
 
 <!-- TODO:notes -->

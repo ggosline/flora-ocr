@@ -44,7 +44,7 @@ Keay (1958), Pax & Hoffmann (1922)
 
 ![Drypetes aframensis](../sources/Putranjivaceae_vol57_paddle/figures/fig_079_p0122.png)
 
-*Planche 38. Drypetes aframensis: 1. Rameau à boutons femelles. – 2. Poil étoilé. – 3. Bouton d'une fleur femelle. – 4. Idem, coupe longitudinale. (1-4: Luja 29). Dessin par M. Boutique, Jardin botanique de Meise (©).*
+*Plate 38. Drypetes aframensis: 1. Branch with female buds. – 2. Stellate hair. – 3. Bud of a female flower. – 4. Idem, longitudinal section. (1-4: Luja 29). Drawing by M. Boutique, Jardin botanique de Meise (©).*
 
 ## Notes
 

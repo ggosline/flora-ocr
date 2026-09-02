@@ -85,7 +85,7 @@ De Wilde & al. 519, type (fl., Fév.). Louis & al. 1002, 20 km à l'Est de Mimon
 
 ![Dichapetalum choristilum](../sources/Dichapetalaceae_vol32_paddle/figures/fig_017_p0074.png)
 
-*PL. 16 – Dichapetalum choristilum Engler : 1, flowering branch × 0,5 ; 2, young branch, leaf base and stipules, detail × 1 ; 3, flower × 6 ; 4, flower, stamens, pistil and staminodes, detail × 6 ; 5, petal and stamen, internal surface × 6 ; 6, 7, 1-seeded fruits × 0,5 ; 8, detail of the wall of the ripe fruit, fresh state × 3 ; 9, idem, dry state × 3 ; 10, idem, but young dry fruit × 3 (ex = exocarp, en = endocarp, h = hair) ; 11, seedling × 0,5 (1, Bos 3740 ; 2, Breteler 5755 ; 3-5, Leeuwenberg 5595 ; 6, 10, Bolela 624 ; 7, Bos 4971 ; 9, Hallé 3119 ; 11, Breteler 6228). – Reprinted from MLW 78 (10) : 12 (1978).*
+*PL. 16 – Dichapetalum choristilum Engler : 1, flowering branch × 0.5 ; 2, young branch, leaf base and stipules, detail × 1 ; 3, flower × 6 ; 4, flower, stamens, pistil and staminodes, detail × 6 ; 5, petal and stamen, internal surface × 6 ; 6, 7, 1-seeded fruits × 0.5 ; 8, detail of the wall of the ripe fruit, fresh state × 3 ; 9, idem, dry state × 3 ; 10, idem, but young dry fruit × 3 (ex = exocarp, en = endocarp, h = hair) ; 11, seedling × 0.5 (1, Bos 3740 ; 2, Breteler 5755 ; 3-5, Leeuwenberg 5595 ; 6, 10, Bolela 624 ; 7, Bos 4971 ; 9, Hallé 3119 ; 11, Breteler 6228). – Reprinted from MLW 78 (10) : 12 (1978).*
 
 ## Notes
 

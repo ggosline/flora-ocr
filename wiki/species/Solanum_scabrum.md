@@ -43,6 +43,12 @@ morelle noire, morelle scabre (fr.) ; African nightshade, black nightshade, gard
 
 This species is noted as introduced by Sosef et al. (2006); in reality, it is indigenous to tropical Africa and present throughout the surrounding countries. The very low number of collections for Gabon is surprising. It is surely due to the fact that this species, mostly cultivated and often confused with the very common S. americanum, must not have attracted the interest of collectors. In the same way, the two cultivated African eggplants, S. aethiopicum and S. macrocarpon, as well as their two wild progenitor species, S. anguivi and S. dasyphyllum, are particularly underrepresented in reference herbaria. B: Edmonds (2012), Heine (1963), Fontem & Schippers (2004), Raponda-Walker & Sillans Bibliography (1961), Särkinen et al. (2018)
 
+## Figures
+
+![Solanum scabrum](../sources/Solanaceae_vol55_liteparse/figures/fig_064_p0129.png)
+
+*Plate 41 . Solanum scabrum : 1. Fertile stem of a wild form. – 2. Flower of a wild form. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

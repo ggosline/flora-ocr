@@ -30,6 +30,12 @@ riparian forest; in Gabon at 100–510 m elevation, elsewhere at 100–500 m. B:
 
 Le Testu 8087; 2–4: Casier 283; 5: Pauwels 5528; 6: Breyne 3441). Drawing by Piet Kostense, Naturalis Biodiversity Center (©), reproduced from van der Ploeg (1985).
 
+## Figures
+
+![Malouetia bequaertiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_141_p0162.jpeg)
+
+*Planche 73 . Malouetia bequaertiana )OHXUî±,GHPFRXSHORQJLWXGLQDOHSDUWLHGXVW\OHHQOHYpHî±)UXLWîҀ±*UDLQH*
+
 ## Notes
 
 <!-- TODO:notes -->

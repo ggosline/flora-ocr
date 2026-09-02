@@ -37,6 +37,12 @@ Open stations, annually burnt savanna, wooded or coastal, rocky, sometimes more 
 
 In Asia, this is var. tenuiflora (Klein ex Willd.) Burkart glabrescente to glabrous. The difference with certain forms of G. striata is not clear and would merit thorough taxonomic study (Verdcourt 1971b, 2001). b : Ern (1984), Mackinder et al. (2001), Robyns (1954), Verdcourt (1971c). ibliography
 
+## Figures
+
+![Galactia striata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_074_p0204.png)
+
+*Plate 66: Galactia striata var. villosa: 1. Flowering branch (× ⅔). – 2. Node with stipule (× 4). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

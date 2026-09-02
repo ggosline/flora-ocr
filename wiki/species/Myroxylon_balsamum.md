@@ -35,6 +35,12 @@ humid tropical evergreen forests, on well-drained soils or hills; between 100 an
 
 baume de Pérou, baume de Tolu (fr.) ; tolu balsam, Peru balsam (angl.). b : Amshoff (1939), Boer & Jansen (2001), Duke (1981), Lewis et al. (2005). ibliographie
 
+## Figures
+
+![Myroxylon balsamum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_106_p0305.png)
+
+*Plate 98 : Myroxylon balsamum : 1. Flowering branch (× ½). – 2. Pod (× ½). Drawing by unknown artist, Missouri Botanical Garden Press (©), reproduced with permission from Dillon (1980).*
+
 ## Notes
 
 <!-- TODO:notes -->

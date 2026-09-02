@@ -37,6 +37,20 @@ marshes and streams or wet depressions in savannas; in Gabon, at 0–200 m altit
 
 a b
 
+## Figures
+
+![Rhynchospora eximia](../sources/Cyperaceae_vol44_liteparse/figures/fig_169_p0194.jpeg)
+
+*Planche 121 . Rhynchospora eximia . A. Plante. – Planche 122 . Rhynchospora gracillima subsp.*
+
+![Rhynchospora eximia](../sources/Cyperaceae_vol44_liteparse/figures/fig_170_p0194.png)
+
+![Rhynchospora eximia](../sources/Cyperaceae_vol44_liteparse/figures/fig_171_p0195.jpeg)
+
+*Figure 22. Akènes de a) Rhynchospora eximia ( L. White 1283B , Ogooué-Ivindo, Gabon) et b)*
+
+![Rhynchospora eximia](../sources/Cyperaceae_vol44_liteparse/figures/fig_172_p0195.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

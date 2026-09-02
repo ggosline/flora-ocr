@@ -34,6 +34,12 @@ very widespread in tropical Africa, Asia, Australia and America; very rare in Ga
 
 savanna, swampy habitat; in Africa up to 1100 m altitude. Taxonomic note: very close to R. corymbosa, but differs by its more slender habit, its leaves with narrower blade and its spikelets fewer and more acute on longer and more slender peduncles. b: Hooper & Napper (1972), Lye (1997), Raynal (1971), Robinson (1961a). Bibliography
 
+## Figures
+
+![Rhynchospora triflora](../sources/Cyperaceae_vol44_liteparse/figures/fig_175_p0197.jpeg)
+
+*Figure 23. Achenes of a) Rhynchospora holoschoenoides (Simons & Westerduijn 472, Estuaire, Gabon) and b) Rhynchospora triflora (Boupoya 236bis, Central African Republic). lower of the stems; lower sheaths torn, the upper ones with a membranous ligule opposite the blade; limb linear, 30–70 cm × 2.5–8 mm, stiff and ascending, glabrous or scabrous on the margin and central vein. Inflorescence in a loose anthela, usually formed of a sessile head and 1–5 globose heads, pedunculate, each subtended by a foliaceous bract (the largest exceeding the inflorescence); heads about 10 mm broad, pale golden yellow, composed of many very closely packed spikelets. Spikelet lanceolate, 4–5 mm long, subtended by a small bract with a long awn and a basal prophyll and 5 glumes; lower glumes with a strong vein ending in a mucro, the upper ones membranous and muticous. Flower with 6 hypogynous setae 2–3 mm long, scabrous; stamens 3; ovary topped by a long robust beak bearing a deciduous non-branched or slightly bifid style. Achene urceolate or obovoid, 2–2.5 × 1.2–1.5 mm, brown, bordered by thickened ribs having on the "shoulders" short triangular spines; beak yellowish, grooved, about as long as the fruit.*
+
 ## Notes
 
 <!-- TODO:notes -->

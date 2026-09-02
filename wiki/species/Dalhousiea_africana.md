@@ -41,6 +41,12 @@ dibimp-dikodi (bongom)
 
 The wood is sometimes used for small objects. b: De la Estrella et al. (2010), Pellegrin (1949), Raponda-Walker & Sillans (1961), Tous ibliographie saint (1953)
 
+## Figures
+
+![Dalhousiea africana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_061_p0163.png)
+
+*Plate 53 : Dalhousiea africana : 1. Floral bud with bracteole turned back (× 2). – 2. Open flower, with bracteole partially detached and calyx collapsed (× 2). – 3. Flower, longitudinal section (× 2). – 4. Half of the standard, inner surface (× 2). – 5. Wing, outer surface (× 2). – 6. Petal of the keel, outer surface (× 2). – 7. Pod (× ½). – 8. Seed (× ⅓). (1–6: Louis 1581 ; 7, 8: Leemans 380 ). Drawing by G. Esperant, Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

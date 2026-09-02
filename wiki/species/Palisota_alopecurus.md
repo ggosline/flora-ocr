@@ -42,6 +42,12 @@ okakalang (fang) ; olílóró (batéké (‘grosse feuilles’) ; même nom util
 
 The species is close to P. schweinfurthii, but differs by its very massive and erect inflorescences, and its short peduncle, surrounded by foliaceous bracts. B: Bidault & van der Burg (2019), Pellegrin (1938), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Palisota alopecurus](../sources/Commelinaceae_vol55_liteparse/figures/fig_029_p0053.png)
+
+*Plate 13 : Palisota alopecurus : 1. General appearance (× ⅙). – 2. Leaf (× ⅓). – 3. Floral bract (× 4). – 4. Floral bud (× 4). – 5. Sepal (× 5). – 6. Upper stamen (× 4). – 7. Lower stamen (× 4). – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

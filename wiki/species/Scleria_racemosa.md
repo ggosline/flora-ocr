@@ -37,6 +37,12 @@ swamp forest and near streams, in permanently wet terrain and usually partially 
 
 dirala (échira, bavarama, bavungu), dirara (bapunu), égyagya (mitsogo), gyagya (apindji), ngwè-y’oyèngè (mpongwè), obota w’oyèngè (orungu), ogoï-w’oyèngèlè (nkomi), okèngèng-bekôn (fang), oyèngé-ompolo (mpsongwè, galoa, orungu). Note taxonomique : très proche de S. verrucosa et de S. vogelii . S. racemosa pourrait être considérée comme une sous-espèce ou une variété de S. verrucosa , mais elle en diffère par ses akènes lisses et plus grands. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Piérart (1953), Robinson (1966)
 
+## Figures
+
+![Scleria racemosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_201_p0223.png)
+
+*Planche 139 . Scleria naumanniana. A. Plante. – B. Planche 140 . Scleria racemosa subsp. racemosa.*
+
 ## Notes
 
 <!-- TODO:notes -->

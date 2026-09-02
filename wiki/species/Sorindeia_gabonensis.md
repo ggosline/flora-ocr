@@ -38,6 +38,12 @@ Sorindeia 21 Fruit. (1, 2, 7, 8: Breteler et al. 8731; 3, Breteler et al. 11231A
 
 primary or secondarized forest; at 200–475 m altitude. B: Bourobou-Bourobou & Breteler (1997), Breteler (2003). Bibliography
 
+## Figures
+
+![Sorindeia gabonensis](../sources/Anacardiaceae_vol50_liteparse/figures/fig_018_p0028.png)
+
+*Plate 8. Sorindeia gabonensis: 1. 5-foliolate leaf, lower surface. – 2. 3-foliolate leaf, upper surface. – 3. 1-foliolate leaf with male inflorescence. – 4. Detail of the male inflorescence. – 5. Male flower. – 6. Idem, 1 petal removed. – 7. Female flower. – 8. Idem, 1 petal removed. – 9. Fruitfructescence. – 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

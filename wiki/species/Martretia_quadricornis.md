@@ -34,6 +34,12 @@ Species from Sierra Leone to Nigeria, Cameroon, Central African Republic, Gabon,
 
 Banks of rivers and lakes, swamp forest; in Gabon, at 0–300 m altitude. b: Keay (1958), Léonard (1989), Pax & Hoffman (1922). Bibliography
 
+## Figures
+
+![Martretia quadricornis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_023_p0057.png)
+
+*Plate 17. Martretia quadricornis : A. Female flowering branch. ‒ B. Leaf lower surface. ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

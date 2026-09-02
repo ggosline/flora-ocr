@@ -50,6 +50,19 @@ ellipsoid, apex straight; tree reaching 20–25 m in height
 floral buds narrowly ovoid, apex often slightly curved; small tree or shrub up to 5 m
 in height ............................................... R. harrisonii
 
+## Key to the species
+
+1. - Inflorescences uniflorous or in the form of biparous cymes with 1–2 bifurcations,
+resulting in 1, 2 or 4 flowers ....................................................................... R. mangle
+- Inflorescences in the form of multiflorous biparous cymes with (3–)4–5 bifurcations
+and more than 8 (normally ± 32) flowers ................................................................... 2
+2. - Inflorescences subglobose, with 5–6 bifurcations at ± right angle ; floral buds
+ellipsoid, the apex straight ; tree reaching 20–25 m in height
+................................................................................................................ R. racemosa
+- Inflorescences subumbelliform, with (3–)4–6 bifurcations at 30–60° angle;
+floral buds narrowly ovoid, the apex often slightly curved ; small
+tree or shrub up to 5 m in height ............................................... R. harrisonii
+
 ## Species in region
 
 | Species | Vol | Pages |

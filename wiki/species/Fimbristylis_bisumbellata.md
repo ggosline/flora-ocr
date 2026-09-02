@@ -31,6 +31,12 @@ Tropical regions of Africa and Asia; in Africa, more frequent in the dry regions
 
 Sandy places on riverbanks; at 0–600 m altitude. Taxonomic note: Found in Gabon is an annual form of F. dichotoma that is smaller in all its parts than the perennial form and with only 7 longitudinal striae. This form covers the variations of F. bisumbellata. However, the Gabon specimens of F. bisumbellata examined belong to the annual form of F. dichotoma. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1995, 1997)
 
+## Figures
+
+![Fimbristylis bisumbellata](../sources/Cyperaceae_vol44_liteparse/figures/fig_113_p0137.png)
+
+*Planche 87 . Eleocharis variegata . A. Plante. – B. Planche 88 . Fimbristylis bisumbellata . A. Plante.*
+
 ## Notes
 
 <!-- TODO:notes -->

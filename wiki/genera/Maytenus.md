@@ -41,6 +41,12 @@ This pantropical and subtropical genus groups approximately 200 species; two are
 
 1'. Shrub spiny; vegetative apparatus without latex; fruit trivalvate; basal aril; filament long; style long; petals erect and glabrous..... 2. M. buchananii
 
+## Key to the species
+
+1. Shrub unarmed; vegetative apparatus containing latex threads, fruit bivalved; aril completely surrounding the seed; filament very short; style short; petals reflexed inwardly and pubescent at the apex..... 1. M. acuminata
+
+1'. Shrub spiny; vegetative apparatus without latex; fruit trivalved; aril basal; filament long; style long; petals erect and glabrous..... 2. M. buchananii
+
 ## Species in region
 
 | Species | Vol | Pages |

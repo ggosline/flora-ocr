@@ -36,6 +36,12 @@ primary and secondarized evergreen and semi-deciduous forest; in Gabon and elsew
 
 Amvout (nom pilote) ; Amvut, Olèla (fang) ; Andjombwè, Ndjambo (béséki) ; Olele (ambamba)Élola (benga) ; Gémbómó (apindji) ; Gémbuta (bavové) ; Lébuta (bakèlè) ; Mufura-fura (ngowé) ; Mufura, Mumbundu (balumbu) ; Mulili (bavili, baduma, banzabi, mindumu) ; Mumbundu (bapunu) ; Mumbundu-kènga (bavungu) ; Musungu-ndèndi (éshira, bavarama) ; Muta, Itsili (bakota) ; Mvuta (loango) ; Osèè, Gèdwamba (mitsogo) ; Osungu-ndèndè (nkomi) ; Owura (mpongwè, galoa) ; Tsèngè (ivea). D’après Wilks & Issembé (2000), le nom vernaculaire Engong est utilisé pour les Trichoscypha de grande taille sans fruits sur le tronc ( T. engong et T. parvifolia ) et Amvout pour les espèces à fruits sur le tronc ( T. acuminata et T. oddonii ). B : Breteler (2004), Burkill (1985), Meunier et al. (2015), Raponda-Walker & Sillans (1961), i B liographie Van der Veken (1960a), Wilks & Issembé (2000)
 
+## Figures
+
+![Trichoscypha acuminata](../sources/Anacardiaceae_vol50_liteparse/figures/fig_023_p0038.png)
+
+*Plate 13 : Trichoscypha acuminata : 1. Trunk with infructescences. – 2. Leaf. – 3, 4. Male flowers, one petal removed. – 5. Female flower, one petal removed. (1 : Breteler 15670 , 2 : Sosef et al. 516, 3 : Breteler 15680 ). Drawing by Danièle Molez (1, 2), reproduced from Ake Assi et al. (1978) and Hans de Vries (3–5), Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -24,6 +24,12 @@ Longitudinal section and seen in the ovary; ± Infructescence; ±. Klaine 3158; 
 
 Distribution endemic to Gabon, known from the Estuaire and the Moyen-Ogooué. Ecology under forest of the forest up to m of altitude. B: Omino (1996). BIBLIOGRAPHY
 
+## Figures
+
+![Hunteria hexaloba](../sources/Apocynaceae_vol59_liteparse/figures/fig_093_p0098.jpeg)
+
+*Plate 39 . Hunteria hexaloba : 1. Flowering branch (× ½). – 2. Floral bud (× 3). – 3. Lobe of the calyx, internal face (× 30). – 4. Corolla, longitudinal section, with stamens (× 4). – 5. Pistil (× 4). – 6. Idem,*
+
 ## Notes
 
 <!-- TODO:notes -->

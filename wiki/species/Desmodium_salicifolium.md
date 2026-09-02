@@ -45,6 +45,12 @@ fausse arachide (fr.) ; akorikosi (mindumu) ; boï-bu-pinda (éshira, bavarama) 
 
 Var. densiflorum Schubert is cited from the Democratic Republic of the Congo and Uganda. It has compact and dense racemes 3–6 cm long and the peduncles do not elongate at fruiting. b: Botton & Hallé (1958), De la Estrella et al. (2010), Ern (1984), Hepper (1958), Mackin et al. (2001), van der Maesen (2006a), Pellegrin (1949), Raponda-Walker & Sillans (1961), Schubert (1954, 1971)
 
+## Figures
+
+![Desmodium salicifolium](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_064_p0173.png)
+
+*Plate 56 : Desmodium salicifolium var. salicifolium : 1. Flowering and fruiting branch (× ½). –2. Primary bract, secondary bracts and 2 flower buds (× 5). –3. Open flower (× 4). – 4. Standard, inner surface (× 4). – 5. Wing, inner surface (× 4). – 6. Keel spread (× 4). – 7. Androecium lacking anthers and ovary in longitudinal section (× 5). – 8. Pod (× 2). – 9. Seed (× 4). (1, 2, 4–7 : Quarré 222 ; 3 :*
+
 ## Notes
 
 <!-- TODO:notes -->

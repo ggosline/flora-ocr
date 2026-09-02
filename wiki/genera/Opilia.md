@@ -29,6 +29,12 @@ This African and Asian genus comprises about twenty species. 15 are represented 
 
 1'. Tree; young inflorescence not strobiliferous; raceme of fascicles longer than or equal to the leaf..... 2. O. congolana.
 
+## Key to the species
+
+1. Shrub or liane; young inflorescence strobiliforme; raceme.....
+
+1'. Tree; young inflorescence not strobiliforme; raceme of fascicles longer than or equal to the leaf..... 2. O. congolana.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -34,6 +34,12 @@ endemic to Gabon, known from Moyen-Ogooué, Ngounié and Nyanga (Doudou Mountain
 
 mature or secondary forest, river edge or ridge-top; 170 to 830 m in altitude. B: Sosef & Dauby (2012). Bibliography
 
+## Figures
+
+![Garcinia gabonensis](../sources/Clusiaceae_vol45_liteparse/figures/fig_013_p0026.png)
+
+*Plate 4. Garcinia gabonensis : 1. Flowering branch. – 2, 3. Leaves, showing variation. – 4. Male flower. – 5. Idem, opened and three petals removed. – 6. Androecium. – 7. Stamen. – 8. Pistillode. – 9. Female flower. – 10. Gynoecium with disk. – 11. Fruit. (1, 4–8 : Leeuwenberg & Persoon 13683 ; 2, 11 : Arends et al. 510 ; 3, 9, 10 : Wieringa et al. 4546 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (section NHN) ©.*
+
 ## Notes
 
 <!-- TODO:notes -->

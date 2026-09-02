@@ -32,6 +32,12 @@ east of Nigeria, west of Cameroon and north of Gabon
 
 on slopes, river beds or rocky cliffs in primary forest, often at the edge of watercourses and rapids; 560–1250 m in altitude. B: Hutchinson, Dalziel & Keay (1954), Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia scapigera](../sources/Begoniaceae_vol39_liteparse/figures/fig_027_p0033.png)
+
+*Plate 12. Begonia scapigera subsp. scapigera: 1. Flowering plant (× ⅔). – 2. Leaf blade, upper surface (× ⅔). – 3. Female flower (× 1). – 5. Styles and stigmas (× 4). – 6. Fruit (× 1). (1:*
+
 ## Notes
 
 <!-- TODO:notes -->

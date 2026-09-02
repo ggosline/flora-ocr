@@ -35,6 +35,16 @@ observed in West Africa, along the coasts and on the surrounding massifs, from L
 
 open and disturbed habitats, forest edges, bushes, beach and roadsides; in Gabon from sea level to 260 m altitude, elsewhere up to 2000 m. Use: The fruits are incorporated into soups and sauces or more rarely consumed fresh. In West Africa, the juice of the leaves and fruits is used to treat leprosy, as a laxative or to mitigate skin inflammations. Bib.: Bikandu et al. (2020), Heine (1963), Jansen (2004), Vorontsova & Knapp (2016). Bibliography
 
+## Figures
+
+![Solanum anomalum](../sources/Solanaceae_vol55_liteparse/figures/fig_054_p0108.jpeg)
+
+*Figure 7. Physalis angulata (Moyen-Ogooué, Gabon, Bidault et al. 1934 ) : A. General aspect and fruiting calyx, B. Flower. – Physalis peruviana (La Paz, Bolivia, Maldonado et al. 3081 ) : C. General aspect and flower. – Schwenckia americana (Ogooué-Maritime, Gabon, Bidault & Ikabanga 1707): D. Flower, E. Fruit. – Solanum terminale (Ogooué-Ivindo, Gabon, Bidault et al. 4488 ) : F. Inflorescence, G. Fructification. – Solanum aculeatissimum (Estuaire, Gabon, Bidault et al. 3627 ) : H. Inflorescence. – Solanum americanum (Ica, Pérou, Knapp s.n. ) : I. Inflorescence. – Solanum anguivi (Ngong, Kenya, Vorontsova et al. 100 ) : J. Inflorescence. – Solanum anomalum (Ogooué-Ivindo, Gabon, Texier 2255 ) : K. Fructifications. – Solanum dasyphyllum (Tegetero, Tanzania, Vorontsova et al. 151 ) : L. Inflorescence. – Solanum torvum (Nzérékoré, Guinea, Bidault & Diabaté 668 ) : M. Flower. (Photos A, B, D-H, M by Ehoarn Bidault (CC-*
+
+![Solanum anomalum](../sources/Solanaceae_vol55_liteparse/figures/fig_061_p0123.png)
+
+*Plate 38 . Solanum anomalum : 1. Fertile stem with superficially lobed leaves and small prickles. – 2. Flowering stem with deeply lobed leaves and broad prickles. – 3. Long-styled flower. – 4. Infructescence. – 5. Seed. – 6. Multangulate stellate hair. – 7. Erect stellate hair on the lower surface of the blade.*
+
 ## Notes
 
 <!-- TODO:notes -->

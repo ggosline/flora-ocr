@@ -30,6 +30,12 @@ endemic to Gabon (Monts de Cristal and Massif du Chaillu); rare species
 
 on damp and mossy rocky walls and on rocky blocks, along streams in primary forest; 320–1000 m elevation. B: Hallé (1972), Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia vittariifolia](../sources/Begoniaceae_vol39_liteparse/figures/fig_047_p0069.png)
+
+*Plate 32. Begonia vittariifolia : 1. Fertile plant. – 2. Stipule of 5 mm. – 3. Detail of petiole. – 4, 5. Details of leaf blade when dry. – 6. Detail of inflorescence peduncle. – 7. Bract of 3 mm. – 8. Androecium of 3 mm. – 9. Styles and stigmas of 3.8 mm. – 10. Detail of a stigma ; – 11. Fruit in vivo from photo. – 12. Fruit in sicco , 15 mm. – 13. Seed of 0.25 mm. (1-13 : N. Hallé 5095 ) .*
+
 ## Notes
 
 <!-- TODO:notes -->

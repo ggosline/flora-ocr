@@ -31,6 +31,16 @@ Jardinea gabonensis Steud. was described from Gabon, but the presence of another
 
 1'. Racemes very numerous, whorled or sub-whorled, at least the lower ones, relatively flexuous; pedicellate spikelets similar to the sessile ones or somewhat reduced..... 2. J. congoensis.
 
+## Key to the species
+
+1. Racemes 6 to 12, rigid, fragile, opposite or distributed along the axis of the inflorescence; pedicelled spikelets reduced to a small glume or almost suppressed..... 1. J. gabonensis.
+
+1'. Racemes very numerous, whorled or sub-whorled, at least the lower ones, relatively flexuous; pedicelled spikelets similar to the sessile or somewhat reduced..... 2. J. congoensis.
+
+---
+
+---
+
 ## Species in region
 
 | Species | Vol | Pages |

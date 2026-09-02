@@ -34,6 +34,15 @@ In the broad sense approximately 300 species, mostly tropical.
 
 3. H. splendidum.
 
+## Key to the species
+
+1. Frond glabrous, margin entire (Mecodium)..... I. H. Kühnii.
+1'. Frond bearing stellate hairs (Sphaerocionium).
+
+2. Stellate hairs only on the veins and margins; frond 5-15 cm..... 2. H. hirsutum.
+2'. Stellate hairs also on the parenchyma; frond reaching 30 cm.
+3. H. splendidum.
+
 ## Species in region
 
 | Species | Vol | Pages |

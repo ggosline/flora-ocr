@@ -43,6 +43,110 @@ The African species can be arranged, roughly speaking, into 4 fairly distinct gr
 
 The first group comprises species originally placed in the genus Craterogyne, plus D. elliptica, the sole species of the section Nothodorstenia ENGL. (1898). These are shrubs or subshrubs that can exceed 1 m in height and even reach 6 m. The stems, branched or unbranched, arise (in all species?) from creeping rhizomes. The orbicular receptacles of the inflorescence bear on the margin devoid of fringe, at least 2 rows of small bracts or small bracts lower on the peduncle. These bracts resemble the stipules in their form and texture. The stipules have a broad base and are semi-amplexicaul (except in D. elliptica). In 3 of these 5 species, the inflorescence generally possesses a single central female flower. The stone, fairly large, is smooth.
 
+## Key to the species
+
+1. Leaves pinnatifid to the midvein; herbs reaching 10 cm in height ..... 16. D. letestui.
+
+1'. Leaves less deeply divided; herbaceous plants to shrubs.
+
+2. Stems leafy creeping; stipules with broad base (triangular and semi-amplexicaul); inflorescences orbicular, the margins with small triangular lobes ..... 5. D. picta.
+
+2'. Plants with aphyllous rhizomes and ascending or erect stems, or succulent plants most often with tuberous underground parts.
+
+3. Succulent plants, most often with tuberous underground parts; nucleus tuberculate ..... 17. D. preussii.
+
+3'. Plant non-succulent or only the leaves slightly succulent; nucleus smooth.
+
+4. Leaves with appressed hairs, fairly long on the upper surface; inflorescences orbicular with a margin formed of lobes reaching 1 mm in length ..... 6. D. subdentata.
+
+4'. Leaves without hairs of this type on the upper surface.
+
+5. Inflorescences actinomorphic or zygomorphic.
+
+6. Inflorescences actinomorphic; if tending to be zygomorphic, then receptacle with a broad margin.
+
+7. Stipules with enlarged base (semi-amplexicaul), shrubs generally branched.
+
+8. A single row of appendages at the margin of the receptacle; shrubs reaching 1.5 mm in height ..... 4. D. turbinata.
+
+8'. Receptacle margin bearing at least 2 rows of short appendages (bracts) which may also be present lower on the lower surface of the receptacle to the peduncle.
+
+9. Shrublets branched; leaves distichous on the branches; stipules usually less than 10 mm with only one prominent main vein.
+
+10. Leaf margin generally entire; inflorescences in groups of 2 or more, turbinate; peduncles 5–27 mm in length ..... 2. D. africana.
+
+10'. Leaf margin generally dentate to lobed; inflorescences often solitary, discoid to broadly turbinate; peduncle 2–9 mm ..... 2 bis. D. kameruniana.
+
+9'. Shrublets generally not branched; leaves arranged in spirals; stipules generally more than 10 mm, with prominent parallel veins ..... 1. D. oligogyna.
+
+7'. Stipules subulate, lateral.
+
+11. Small appendages (bracts) in at least 2 rows on the receptacle margin and lower on the lower surface of the receptacle to the peduncle and on the peduncle itself ..... 3. D. elliptica.
+
+11'. Receptacle with a single row of appendages on its margin, or if 2 rows, then the appendages of clearly different lengths.
+
+---
+
+12. Leaves with appressed hairs fairly long on the upper surface; receptacle orbicular, with a lobed margin with lobes reaching 1 mm in length ..... 6. D. subdentata.
+
+12'. Leaves without hairs of this type on the upper surface; marginal appendages much longer and most often of unequal lengths, or margin more than 1 mm in width.
+
+13. Receptacle with a margin 3–15 mm in width.
+
+14. Flowers clustered; pistillode very reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle ..... 14. D. poinsettifolia.
+
+14'. Flowers spaced; pistillode present (distinctly); no distinct ribs in the middle of the lower surface of the receptacle.
+
+15. Numerous appendages, long up to 12 cm, the longest strongly pectinate in their lower part ..... 12. D. yambuyaensis.
+
+15. 3 to numerous appendages, reaching a length of 6 cm, the longest sometimes dentate at their base ..... 11. D. barteri.
+
+13'. Receptacle with narrow margin, at most 2 (–3) mm in width.
+
+16. Inflorescences with 4 (–5) appendages 2.5–12.5 cm long and a peduncle of (1.5–) 4–8 cm ..... 10 bis. D. zenkeri.
+
+16'. Inflorescences with more than 5 appendages, if 4–5 only (in some specimens of D. mannii) then the peduncle does not exceed 25 mm.
+
+17. Numerous appendages, the largest arising near the margin of a prominent rib on the lower surface of the receptacle ..... 8. D. ciliata.
+
+17. Appendages arising only from the receptacle margin.
+
+18. Floriferous surface with lobes that grade imperceptibly into the largest appendages; sometimes 1–6 small appendages in the sinuses (between the lobes) ..... 7. D. mannii.
+
+18'. Floriferous surface orbicular or multiangular.
+
+19. Floriferous surface plane to sometimes convex in fruit; primary appendages 10–15; 2–6 secondary appendages of variable size between the primary appendages ..... 9. D. lujae.
+
+19. Floriferous surface plane to strongly convex; primary appendages (3–) 6–12; secondary appendages absent, sometimes 1, or occasionally 5, 1 mm in length ..... 10. D. tene.
+
+6'. Inflorescences zygomorphic (obtriangular in D. preussii).
+
+20. Inflorescences navicular, vertical, with one long erect appendage, one short pendant appendage; margin entire ..... 13. D. psilurus.
+
+20'. Inflorescences not thus.
+
+21. Inflorescences obtriangular, with 2–3 appendages on the short side and an appendage at the angle formed by the 2 long ribs; herbs (succulent) reaching 20 cm in height ..... 17. D. preussii.
+
+21'. Inflorescences not thus.
+
+---
+
+MORACEAE
+
+22. Inflorescences navicular or infundibuliform and laterally compressed; margin absent or very narrow (to about 0.5 mm); primary appendages not enlarged at the base ..... 15. D. dinklagei.
+
+22'. Inflorescences discoid or infundibuliform sometimes laterally compressed, variable as to the width of the margin and the number and size of the appendages ..... 14. D. poinsettifolia.
+
+5'. Inflorescences neither actinomorphic nor distinctly zygomorphic.
+
+23. Shrubs, receptacle turbinate ..... 4. D. turbinata.
+
+23'. Herbs, lower part of the stem only woody, receptacle non-turbinate.
+
+24. Flowers spaced; pistillode distinct; no distinct ribs in the middle of the lower surface of the receptacle ..... 11. D. barteri.
+
+24'. Flowers clustered; pistillode strongly reduced or absent; 2 distinct ribs in the middle of the lower surface of the receptacle ..... 14. D. poinsettifolia.
+
 ## Species in region
 
 | Species | Vol | Pages |

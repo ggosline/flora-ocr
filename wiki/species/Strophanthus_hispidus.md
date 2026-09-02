@@ -29,6 +29,12 @@ appendices partially cut × —. Same, section longitudinal of corolla, only wit
 
 brown strophanthus, hairy strophanthus (angl.). B : Beentje (1982, 2008b, 2021), Omino (2002). IBLIOGRAPHIE
 
+## Figures
+
+![Strophanthus hispidus](../sources/Apocynaceae_vol59_liteparse/figures/fig_196_p0227.jpeg)
+
+*Planche 104 . Strophanthus hispidus 5DPHDXÀRULIqUHîҀ±'pWDLOGHUDPHDXî±)OHXU*
+
 ## Notes
 
 <!-- TODO:notes -->

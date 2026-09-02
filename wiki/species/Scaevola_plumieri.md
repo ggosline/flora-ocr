@@ -32,6 +32,12 @@ Widespread along the coasts of Africa, Madagascar and the Mascarene Islands, sou
 
 Species of sandy coasts and dunes, sometimes on sandstone or in thickets. Use: The species could be used to stabilize dunes. The leaves are used in traditional medicine, against inflammations, venereal diseases or as a diuretic. These uses derived from traditional knowledge would merit confirmation by phytochemical studies. B: Burkill (1994), Davies (1978), Guillaumet (1978), Hepper (1963b). BIBLIOGRAPHY
 
+## Figures
+
+![Scaevola plumieri](../sources/Goodeniaceae_vol38_liteparse/figures/fig_014_p0017.png)
+
+*Plate 3. Scaevola plumieri : 1. Flowering branch. – 2. Leaf axil. – 3. Flower. – 4. Corolla, opened and spread. – 5. Stamen. – 6. Calyx and style. – 7. Apex of style. – 8. Ovary, longitudinal section. – 9. Fruit, fresh state. – 10. Fruit, dry state. Plate by M. Tebbs (©), reproduced with permission from Launert (1983) l.c.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, known from Estuaire, M
 
 primary and secondarized forest; in Gabon at 15–760 m altitude, elsewhere up to 880 m. b: Breteler (1994a), Pellegrin (1949). ibliography
 
+## Figures
+
+![Leucomphalos capparideus](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_088_p0242.png)
+
+*Plate 80 : Leucomphalos capparideus : 1. Flowering branch (× ⅔). – 2. Leaflet, lower surface (× ⅔). – 3. Part of the inflorescence (× 2). – 4. Standard (× 2). – 5. Wings. (× 2). – 6. Petals of the keel (× 2). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

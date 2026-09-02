@@ -37,6 +37,16 @@ Bibliography: De Wilde (1975), Fernandes & Fernandes (1978), Hutchinson & Dalzie
 
 ...................................................................................................................... P. edulis
 
+## Key to the species
+
+1. - Limb entire, pinnately veined ............................................................. P. quadrangularis
+- Limb lobed, 3–5-palmatinerved ................................................................................ 2
+2. - Plant fetid to the touch; involucral bracts (surrounding the flower and fruit)
+2–4-times pinnatipartite, the ultimate segments narrowly linear and surmounted
+by a gland; petals white ..................................................................... P. foetida
+- Plant without foul odor; involucral bracts simple; petals blue-purple
+...................................................................................................................... P. edulis
+
 ## Species in region
 
 | Species | Vol | Pages |

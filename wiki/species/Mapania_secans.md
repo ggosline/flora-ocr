@@ -34,6 +34,16 @@ Cameroon and Gabon; fairly widely distributed in Gabon, found in Estuaire, Ogoou
 
 swamp forests, sometimes along watercourses and at the edge of pools; at 0–700 m altitude. Taxonomic note: very close to M. pynaertii, it differs by its violet sheaths at the base of the stems, the involucral bracts purple to violet, and the smaller achenes with different colour patterns. b: Nelmes (1955a), Raynal (1968b). Bibliography
 
+## Figures
+
+![Mapania secans](../sources/Cyperaceae_vol44_liteparse/figures/fig_159_p0182.png)
+
+*Planche 115 . Mapania secans . A. Plante. – B. Planche 116 . Mapania sylvatica . A. Plante. – B.*
+
+![Mapania secans](../sources/Cyperaceae_vol44_liteparse/figures/fig_161_p0183.jpeg)
+
+*Figure 20. Akènes de a) Mapania scaberrima ( Raynal 18474 , Cameroun) et b) Mapania secans ( Hallé 4298 , Estuaire, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

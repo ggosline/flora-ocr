@@ -41,6 +41,12 @@ mature or secondary dense forest; between 250 and 705 m altitude. Flowering in N
 
 The species differs from all others by the combination of alternate leaves, but terminating in a pseudowhorl, its terminal white densely woolly inflorescence, erect bracts and hairy flowers with very long pedicels. B : Bidault & van der Burg (2019). Bibliography
 
+## Figures
+
+![Palisota stevartii](../sources/Commelinaceae_vol55_liteparse/figures/fig_042_p0078.png)
+
+*Plate 24 . Palisota stevartii : 1, 2. General aspect. –3. Detail of the margin of an upper surface of a leaf. – 4. Detail of the lower surface of a leaf with the main vein. – 5. Inflorescence. – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

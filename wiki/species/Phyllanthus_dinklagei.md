@@ -36,6 +36,12 @@ secondary or secondarized forest; in Gabon, at 0–600 m altitude. b: Brunel (19
 
 Female flower. ‒ H. Female flower, one sepal removed. ‒ I. Fruit. (A ‒ C, E ‒ H: Bissiengou et al. 606; D: Floret et al. 1697; I: Bissiengou et al. 560). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Phyllanthus dinklagei](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_025_p0063.png)
+
+*Plate 19. Phyllanthus dinklagei: A, B. Flowering branch. ‒ C. Part of a branch with female flowers. ‒ D. Bract and spiny stipules. ‒ E. Male flower. ‒ F. Male flower, one sepal removed. ‒ G.*
+
 ## Notes
 
 <!-- TODO:notes -->

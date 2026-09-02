@@ -44,11 +44,11 @@ Pax & Hoffmann (1922), Quintanar et al. (2021b), Sosef et al. (2006)
 
 ![Drypetes laciniata](../sources/Putranjivaceae_vol57_paddle/figures/fig_098_p0147.png)
 
-*Planche 47. Drypetes laciniata: 1. Feuille, avec nervures tertiaires. – 2. Stipule, bourgeon axillaire, pétiole et base du limbe. – 3. Limbe foliaire, détail de la nervation tertiaire, face inférieure. – Drypetes magnistipula: 4. Rameau avec feuilles et stipules. – 5. Fleur femelle, un sépale enlevé. – Drypetes stipularis: 6. Feuille, avec nervures tertiaires. – 7. Paire de stipules, pétiole et base du limbe. – 8. Limbe foliaire, détail de la nervation tertiaire, face inférieure. (1-3 : Harris 3461; 6-8 : Harris 7197). Dessin par R. Wise (1-3, 6-8), Royal Botanic Garden Edinburgh (©), et par Anonymus (4, 5), reproduit avec permission à partir de Harris & Wortley (2008) et Pax & Hoffmann (1922).*
+*Plate 47. Drypetes laciniata: 1. Leaf, with tertiary venation. – 2. Stipule, axillary bud, petiole and base of the blade. – 3. Leaf blade, detail of the tertiary venation, lower surface. – Drypetes magnistipula: 4. Branch with leaves and stipules. – 5. Female flower, one sepal removed. – Drypetes stipularis: 6. Leaf, with tertiary venation. – 7. Pair of stipules, petiole and base of the blade. – 8. Leaf blade, detail of the tertiary venation, lower surface. (1-3: Harris 3461; 6-8: Harris 7197). Drawing by R. Wise (1-3, 6-8), Royal Botanic Garden Edinburgh (©), and by Anonymus (4, 5), reproduced with permission from Harris & Wortley (2008) and Pax & Hoffmann (1922).*
 
 ![Drypetes laciniata](../sources/Putranjivaceae_vol57_paddle/figures/fig_099_p0148.png)
 
-*Figure 10. Drypetes laciniata: A, Inflorescence mâle; B, Stipule. – Drypetes moliwensis: C, Rameau florifère mâle; D, Fleurs mâles. – Drypetes paxii: E, Jeune fruit. – Drypetes preussii: F, Rameau feuillé; G, Inflorescence mâle; H, Jeunes fruits. Photos A, B par E. Bidault (Gabon, Bidault 2245), C, D par E. Bidault (Gabon, Bidault 2241), E par D. Harris (Rép. Centrafricaine, Harris 8171), F, G par D. Nguema (Gabon, Nguema 3396), H par A. Boupoya (Gabon, Boupoya 2083).*
+*Figure 10. Drypetes laciniata: A, Male inflorescence; B, Stipule. – Drypetes moliwensis: C, Male flowering branch; D, Male flowers. – Drypetes paxii: E, Young fruit. – Drypetes preussii: F, Leafy branch; G, Male inflorescence; H, Young fruits. Photos A, B by E. Bidault (Gabon, Bidault 2245), C, D by E. Bidault (Gabon, Bidault 2241), E by D. Harris (Central African Rep., Harris 8171), F, G by D. Nguema (Gabon, Nguema 3396), H by A. Boupoya (Gabon, Boupoya 2083).*
 
 ## Notes
 

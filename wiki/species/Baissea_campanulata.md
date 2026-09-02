@@ -24,6 +24,12 @@ Leeuwenberg 11566; 2, 6, 7: Florence 1599). Drawing by Yuen Fang Tan, Naturalis 
 
 cylindrical, 2.2–5.5 mm long, with dense and clear pubescence on the exterior, except at the base, tufts of hairs on the interior; lobes ovate to ribbon-shaped—sometimes as long as the tube—sometimes as long as wide—0.5–1.7 ± mm, sometimes auriculate at the base, partially pubescent on the exterior, glabrous on the interior, except at the apex; stamens inserted near the base of the tube, included, anther 1.6–2.8 mm long, pubescent on the exterior; ovary glabrous, sometimes with a few hairs at the apex of one or both carpels. Fruit: follicles ± 50 × ± 0.7 cm, glossy, glabrous. Distribution from Côte d'Ivoire to Democratic Republic of the Congo. In Gabon: Ogooué, Ivindo, Ogooué-Lolo and Woleu-Ntem. Ecology: primary and secondary forest, often near watercourses. In Gabon up to m altitude. B: van Dilst (1995), Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Baissea campanulata](../sources/Apocynaceae_vol59_liteparse/figures/fig_042_p0050.jpeg)
+
+*Plate 18. Baissea campanulata : 1. Floriferous branch (× 1). – 2. Detail of the lower surface of the leaf limb, with domatia (× 2). – 3. Flower (× 2). – 4. Idem, longitudinal section (× 2). – 5. Stamen, view*
+
 ## Notes
 
 <!-- TODO:notes -->

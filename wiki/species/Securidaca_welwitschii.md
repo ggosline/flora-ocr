@@ -44,6 +44,14 @@ mondjibu-ndjibu (Apindji, Mitsogo), mundjindjibu (Bavarama, Bavungu, Échira), n
 
 3 3 3 3
 
+## Figures
+
+![Securidaca welwitschii](../sources/Polygalaceae_vol42_liteparse/figures/fig_039_p0091.png)
+
+*Plate 26. Securidaca welwitschii : 1. Flowering stem. – 2. Flower. – 3. Fruiting stem. – 4. Fruit. (1, 2 :*
+
+![Securidaca welwitschii](../sources/Polygalaceae_vol42_liteparse/figures/fig_040_p0094.png)
+
 ## Notes
 
 <!-- TODO:notes -->

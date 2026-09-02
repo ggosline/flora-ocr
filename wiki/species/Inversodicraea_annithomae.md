@@ -32,6 +32,12 @@ Endemic to Gabon, known from a single collection from the Ogooué at Boué (Ogoo
 
 at approximately 150 m altitude. B : Cheek et al. (2017), Cusset (1983), Sosef et al. (2006). i Bibliography
 
+## Figures
+
+![Inversodicraea annithomae](../sources/Podostemaceae_vol51_liteparse/figures/fig_026_p0028.png)
+
+*Plate 8. Inversodicraea annithomae . 1. General view of a young individual (× 3). – 2. Inflorescence (× 8). – 3. Young flower (× 8). - 4. Leaflet (× 22). – 5. Leaflets near the spatules (× 22). – 6. Young flower freed from the spatule (× 22). – 7 & 8. Open flowers (× 14). Drawing by C. Cusset, Museum*
+
 ## Notes
 
 <!-- TODO:notes -->

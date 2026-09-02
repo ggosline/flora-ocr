@@ -36,6 +36,14 @@ in grassy savanna and hills; in Gabon, at 100–750 m altitude, up to 1200 m in 
 
 Leaf sheath and base of blade. – C. Inflorescence. A. Plant. – B. Base of plant, leaf sheath – D, E. Spikelet. – F. Glume and flower. – G. Fruit. and base of blade. – C. Apex of blade. – D, E. Original drawing by Richard W. Haines ©. Inflorescence. – F. Spikelet. – G. Glume. – H. Fruit. Original drawing by Richard W. Haines ©. Uses: In Ghana, the whole plant is used to make brooms (Abbiw 1990, Burkill 1985). Taxonomic note: the only African species with compressed spikelets and at the same time, a persistent bulbous base of the style. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972).
 
+## Figures
+
+![Bulbostylis pilosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_027_p0033.png)
+
+*Planche 15 . Bulbostylis pilosa. A. Plante. – B. Planche 16 . Bulbostylis pusilla subsp. yalingensis.*
+
+![Bulbostylis pilosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_028_p0033.png)
+
 ## Notes
 
 <!-- TODO:notes -->

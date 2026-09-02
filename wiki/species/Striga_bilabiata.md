@@ -34,6 +34,12 @@ Gabon, Democratic Republic of the Congo, Rwanda, Burundi, Zambia, Zimbabwe, Mala
 
 rocky savannas; in Gabon, at 600 m, in East Africa, up to 1700 m. Taxonomic note: Mohamed et al. (2001) distinguish six subspecies of S. bilabiata which can be identified by the width of the bracts and the shape of the lobes of the lower lip (bracts wider than the leaves, lobes obtuse: subsp. bilabiata, subsp. jaegeri Hepper; bracts narrower than the leaves, lobes acute: subsp. linearifolia (Schumach. & Thonn.) Mohamed, subsp. ledermannii (Pilg.) Hepper, subsp. rowlandii (Engl.) Hepper, subsp. barteri (Engl.) Hepper). In Gabon, only subsp. bilabiata has been collected. The species in the broad sense is distributed from Senegal to the Cape. B: Mielcarek (1996), Mohamed et al. (2001), Philcox (1990). Bibliography
 
+## Figures
+
+![Striga bilabiata](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

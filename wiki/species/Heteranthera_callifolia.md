@@ -35,6 +35,16 @@ Fresh or brackish waters, stagnant or slow-flowing, pools, ponds, rivers, marshe
 
 .203-3+20.3 1+13 7 95 5
 
+## Figures
+
+![Heteranthera callifolia](../sources/Pontederiaceae_vol40_liteparse/figures/fig_055_p0067.png)
+
+*Plate 16. Heteranthera callifolia : 1. Entire plant (× ½). – 2. Chasmogamous flower bud (× 5). – 3. Open chasmogamous flower (× 5). – 4. Idem, longitudinal section (× 5). – 5. Ovary, cross-section (× 10). – 6. Fruit (× 2). – 7. Seed (× 20). (1-7 : Troupin 1296 ). Reproduced with the permission of the National Botanic Garden of Belgium (©) from Lawalrée & Bruynseels (1981).*
+
+![Heteranthera callifolia](../sources/Pontederiaceae_vol40_liteparse/figures/fig_056_p0069.png)
+
+![Heteranthera callifolia](../sources/Pontederiaceae_vol40_liteparse/figures/fig_057_p0069.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

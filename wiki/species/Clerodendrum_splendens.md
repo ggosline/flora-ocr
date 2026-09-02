@@ -34,6 +34,12 @@ Secondary forests, forest margins, swamp forests, Raphia swamps, roadsides, brok
 
 bleeding heart vine, flaming glorybower, pagoda flower (angl.); bedembwe (saké) ; belbayem (fang) ; elelem (makina). B : Burkill (2000), Huber et al. (1963), Raponda-Walker & Sillans (1961), Vande weghe et i B liographie al. (2016)
 
+## Figures
+
+![Clerodendrum splendens](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_041_p0042.jpeg)
+
+*Figure 3. Clerodendrum schweinfurthii: A. Inflorescence; B. Flowers. – Clerodendrum silvanum: C. Inflorescence; D. Flowers. – Clerodendrum splendens: E. Flowers; F. Fruits on pink calyces. – Clerodendrum umbellatum: G. Inflorescence. Photos by Matthew Walters (A, B: Nigeria, Mambilla Plateau, Ngel*
+
 ## Notes
 
 <!-- TODO:notes -->

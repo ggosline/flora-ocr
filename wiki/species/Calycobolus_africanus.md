@@ -36,6 +36,12 @@ primary and secondarized forest; in Gabon, at 300–500 m altitude, elsewhere at
 
 Louis et al. 708; 6: Wieringa et al. 4120). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
+## Figures
+
+![Calycobolus africanus](../sources/Convolvulaceae_vol46_liteparse/figures/fig_016_p0021.png)
+
+*Plate 6. Calycobolus africanus : 1. Flowering branch. – 2. Flower. – 3. Corolla in bud. – 4. Corolla, basal part open. – 5. Gynoecium. – 6. Fruit. Drawing by Stella Ross-Craig, reproduced with permission from Royal Botanic Gardens, Kew (©) from Heine (1963).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -36,6 +36,14 @@ in grasslands, or in open wooded areas, often on rocky slopes; in Gabon, at 0–
 
 Part of the inflorescence. – E. Section of the basal part of the inflorescence and basal part of a style and three filaments. Original drawing by Richard W. group of spikes. – F. Basal part of the main peduncles. – G. Part of a spike. – H. Spikelet. – I. Flower. – J. Fruit. Original drawing by Richard W. Haines ©. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997).
 
+## Figures
+
+![Cyperus niveus](../sources/Cyperaceae_vol44_liteparse/figures/fig_051_p0067.png)
+
+*Planche 39 . Cyperus margaritaceus. A. Plante. – Planche 40 . Cyperus niveus var. leucocephalus.*
+
+![Cyperus niveus](../sources/Cyperaceae_vol44_liteparse/figures/fig_054_p0069.png)
+
 ## Notes
 
 <!-- TODO:notes -->

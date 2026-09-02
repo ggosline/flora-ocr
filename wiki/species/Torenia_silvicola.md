@@ -36,6 +36,16 @@ rainforest, near rivers and streams, on rocks in streams, swamp forests; in Gabo
 
 Corolla. – D. Corolla open and spread. – E. Adaxial stamen. – F. Abaxial stamen. (A–F: Le Testu 8320). Drawing by E. Fischer (©).
 
+## Figures
+
+![Torenia silvicola](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_063_p0146.png)
+
+*Plate 49. Torenia silvicola: A. Flowering plant. – B. Calyx partially dissected and gynoecium. – C.*
+
+![Torenia silvicola](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_069_p0155.jpeg)
+
+*Planche 55. A–B. Torenia crustacea . – C–D. Torenia dinklagei . – E–G. Torenia silvicola . – H–K. Arta - nema longifolium . (A–B : photo par E. Fischer; C–D : photo par O. Lachenaud ; E–K : photo par E.*
+
 ## Notes
 
 <!-- TODO:notes -->

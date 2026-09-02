@@ -38,6 +38,16 @@ marshes, lake and river banks, often forming large floating stands; in Gabon, at
 Base of the blade and opening of the leaf sheath showing Base of the blade and opening of the leaf sheath showing the stem in section. – C. Part of the inflorescence. – the stem in section. – C. Inflorescence. – D, E. Part D. Bisexual spikelet. – E. Glume. – F. Fruit. Original E. Male spikelet. – G. Female spikelet. – H. Fruit. of the inflorescence. – F. Original drawing by drawing by Richard W. Haines ©.
 Richard W. Haines ©.
 
+## Figures
+
+![Scleria melanomphala](../sources/Cyperaceae_vol44_liteparse/figures/fig_195_p0219.png)
+
+*Plate 135 . Scleria melaleuca . A. Base of Plate 136 . Scleria melanomphala. A. Plant. – B. plant and plant. – B. Section of blade. – C. Part Base of blade and opening of leaf sheath showing basally of a lateral inflorescence. – D, E. Part the stem in section. – C. Part of inflorescence. – D. of inflorescence. - F. Female spikelet with fruit. Two spikelets. – E. Female spikelet. – F. Fruit with*
+
+![Scleria melanomphala](../sources/Cyperaceae_vol44_liteparse/figures/fig_196_p0219.png)
+
+![Scleria melanomphala](../sources/Cyperaceae_vol44_liteparse/figures/fig_198_p0220.png)
+
 ## Notes
 
 <!-- TODO:notes -->

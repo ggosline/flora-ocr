@@ -44,7 +44,7 @@ Hutchinson (1912), Keay (1958), Pax & Hoffmann (1922), Quintanar et al. (2021b),
 
 ![Drypetes klainei](../sources/Putranjivaceae_vol57_paddle/figures/fig_093_p0136.png)
 
-*Planche 43. Drypetes diopa: 1. Feuille, avec nervures tertiaires. 2. Rameau, pétiole et base du limbe. 3. Limbe foliaire, détail de la nervation tertiaire, face inférieure. 4. Drypetes cinnabarina: 4. Feuille, avec nervures tertiaires. 5. Rameau, bourgeon axillaire, pétiole et base du limbe. 6. Limbe foliaire, détail de la nervation tertiaire, face inférieure. 7. Drypetes fallax: 7. Feuille, avec nervures tertiaires. 8. Rameau, paire de stipules, pétiole, base du limbe. 9. Limbe foliaire, détail de la nervation tertiaire, face inférieure. 10. Drypetes klainei: 11. Rameau fructifère. 12. Feuille. 13. Harris 7422; 4-6: Harris 4506; 7-9: Harris 3493). Dessin par R. Wise (1-9), Royal Botanic Garden Edinburgh (©), et par A. Aubréville (10, 11),*
+*Plate 43. Drypetes diopa: 1. Leaf, with tertiary veins. 2. Branch, petiole and base of lamina. 3. Leaf lamina, detail of tertiary venation, lower surface. 4. Drypetes cinnabarina: 4. Leaf, with tertiary veins. 5. Branch, axillary bud, petiole and base of lamina. 6. Leaf lamina, detail of tertiary venation, lower surface. 7. Drypetes fallax: 7. Leaf, with tertiary veins. 8. Branch, pair of stipules, petiole, base of lamina. 9. Leaf lamina, detail of tertiary venation, lower surface. 10. Drypetes klainei: 11. Fruiting branch. 12. Leaf. 13. Harris 7422; 4-6: Harris 4506; 7-9: Harris 3493). Drawing by R. Wise (1-9), Royal Botanic Garden Edinburgh (©), and by A. Aubréville (10, 11),*
 
 ## Notes
 

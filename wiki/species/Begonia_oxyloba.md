@@ -30,6 +30,10 @@ Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, B
 
 dense primary or secondary forests; preferably in humid stations at the edge of streams; in Gabon mainly on calcareous soils; sometimes saxicolous on rocky outcrops, rarely epiphytic on tree trunks; between 180 m and 2300 m altitude. B: Klazenga, de Wilde & Quené (1994), Plana & al. (2006), Wilczek BIBLIOGRAPHY (1969a). Stigma (× 6). – 12. Ovary and various transverse sections (A, B, C) showing schematically different types of carpel fusion. – 13. Ovary, median transverse section and placentation (× 5). – 14. Fruit (× 1). (1-8: de Wilde c.s. (WALK-B) 744. – 9-14: de Wilde 8650). Drawing by IKE Z, National Herbarium of the Netherlands – Wageningen branch. EWALD
 
+## Figures
+
+![Begonia oxyloba](../sources/Begoniaceae_vol39_liteparse/figures/fig_030_p0039.png)
+
 ## Notes
 
 <!-- TODO:notes -->

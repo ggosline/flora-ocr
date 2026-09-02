@@ -34,6 +34,12 @@ In dry and irrigated cultivation everywhere in warm regions, sometimes escaped/s
 
 arachide, cacah(o)uète, pistache de terre (fr.) ; groundnut, peanut (angl.) ; mbénda (mpongwè, nkomi, orungu, benga, kombè, baléngi, béséki) ; mpinda (loango) ; mvèna, ogôn, owôn, owuni (fang) ; nzolè (bakota) ; pénda (apindji, mitsogo, ivéa, simba, bavové, okandè, bakèlè, baduma, banzabi, bawumpfu) ; pina (mindumu) ; pinda (galoa, éshira, ngowé, bavili, balumbu, bapunu, bavungu, bavarama) ; pindè (masangu). b : Léonard (1954b), Lewis et al. (2005), Ntare (2007), Pellegrin (1949), Raponda-Walker ibliographie & Sillans (1961)
 
+## Figures
+
+![Arachis hypogaea](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_021_p0051.png)
+
+*Plate 13 : Arachis hypogea : 1. Habit. – 2. Flower. – 3. Flower, longitudinal section. – 4. Base of the plant with inflorescence and infructescence. – 5. Pod. Drawing reproduced with permission from Purse glove (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

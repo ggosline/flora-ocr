@@ -46,6 +46,12 @@ wengé (nom pilote) ; awong, bois de fer, bois noir, faux ébénier, palissandre
 
 Sometimes described as a liane, but in our view, this is an error. b: Hauman (1954a), Pellegrin (1949), Tchinda (2008), Wilks & Issembé (2000). Bibliography
 
+## Figures
+
+![Millettia laurentii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_099_p0275.png)
+
+*Plate 91 : Millettia laurentii : 1. Base of trunk. – 2. Flowering branch. – 3. Flower and floral bud. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

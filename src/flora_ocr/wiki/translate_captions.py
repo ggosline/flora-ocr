@@ -36,7 +36,10 @@ from flora_ocr.wiki.translate_pages import DEFAULT_MODEL, SENTINEL
 WIKI_DIR = REPO_ROOT / "wiki"
 CACHE = REPO_ROOT / "build" / "caption_translations.json"
 
-CAPTION_RE = re.compile(r"^\*((?:PL|Pl|FIG|Fig)\..*)\*$", re.M)
+# The recovered liteparse captions open with "Planche 2." rather than "PL." --
+# and 39 captions were left untranslated by the first pass for want of this.
+CAPTION_RE = re.compile(
+    r"^\*((?:PL\.|Pl\.|FIG\.|Fig\.|Planche|PLANCHE|Plate|Figure)\s.*)\*$", re.M)
 
 # Words that mark a caption as still French. Deliberately common botanical
 # vocabulary: a caption already in English matches none of them and is skipped.

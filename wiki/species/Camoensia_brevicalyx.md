@@ -34,6 +34,12 @@ South-eastern Nigeria, Cameroon, Equatorial Guinea, Gabon, Democratic Republic o
 
 swamp forest, stream banks, lakes and lagoons; in Gabon at 2–500 m in altitude. Bibliography: Lewis et al. (2005), Pellegrin (1949), Toussaint (1953).
 
+## Figures
+
+![Camoensia brevicalyx](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_030_p0076.png)
+
+*Plate 22 : Camoensia brevicalyx : 1. Floriferous branch. – 2. Leaf. – 3. Pod. – 4. Various elements of the flower. (1–3 : Breteler et al. 13198 ; 4 : Klaine 418 ). Drawing by Hans de Vries (no 4 after pencil drawing by E. Delpy), Naturalis Biodiversity Center (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

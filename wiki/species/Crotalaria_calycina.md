@@ -35,6 +35,12 @@ savannas with humid seasons, ruderal places; in Gabon at 0–150 m altitude, els
 
 Open flower (× 1). – 4. Open flower, longitudinal section (× 1). – 5. Calyx (× 1). – 6. Androecium in longitudinal section and gynoecium (× 2). – 7. Seed (× 3). (1–7: Bequaert 5324). Drawing by A. Cleuter, Meise Botanical Garden (©).
 
+## Figures
+
+![Crotalaria calycina](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_036_p0096.png)
+
+*Plate 28: Crotalaria calycina: 1. Flowering stem (× ½). – 2. Flower (× 2,5). – 3. Calyx, open (× 1,5). – 4. Standard, inner surface (× 3). – 5. Wing (× 3). – 6. Keel (× 3). – 7. Stamens, tube open (× 3). – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

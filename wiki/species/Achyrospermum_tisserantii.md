@@ -33,6 +33,22 @@ Streamsides, paths in dense humid forest; in Gabon at 150 m altitude, up to 940 
 
 A B C D E F Liberia, Mont Balagiz), Warren D. Stevens (B: Nicaragua), Marco Schmidt (C: Cameroon), Stefan Dressler (D: Burkina Faso, Niangoloko Classified Forest), Paul Latham (E: Dem. Rep. Congo, Kisantu Botanical Garden) and Augustin Konda (F: Dem. Rep. Congo, Kisantu Botanical Garden).
 
+## Figures
+
+![Achyrospermum tisserantii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_021_p0016.jpeg)
+
+![Achyrospermum tisserantii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_022_p0016.jpeg)
+
+![Achyrospermum tisserantii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_023_p0016.jpeg)
+
+![Achyrospermum tisserantii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_024_p0016.jpeg)
+
+![Achyrospermum tisserantii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_025_p0016.jpeg)
+
+![Achyrospermum tisserantii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_026_p0017.png)
+
+*Plate 1 . Achyrospermum tisserantii : 1. Flowering plant (× ⅔). – 2. Inflorescence (× 3). – 3. Bract (× 6). – 4. Flower (× 6). – 5. Fruiting stem (× ⅔). – 6. Detail of the lower surface of the leaf limb (× 2). – 7. Fruit and calyx, longitudinal section (× 6). – 8. Achene (× 10). (1-4 : Letouzey 5299 ; 5-8 : Letouzey 8318 ). Drawing by Hélène Lamourdedieu, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1967).*
+
 ## Notes
 
 <!-- TODO:notes -->

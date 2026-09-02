@@ -30,6 +30,12 @@ L. owariensis clearly comprises on the whole in Gabon and Cameroon several speci
 
 Photos of fruits of L. dulcis s.l., from different parts of its range, show great differences in form and color. In particular, the very smooth and pyriform fruits of Nigeria and southwest Cameroon, yellow to orange in color with dark longitudinal lines (Carpodinus barteri Stapf) justify the resurrection of former species that were included in L. dulcis in Persoon's revision (1992). For this reason, L. dulcis s.l. will be divided into several species for which names are already available. In Gabon, only one of these species, L. parviflora, is present. B : Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia owariensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_131_p0146.jpeg)
+
+*Plate 63. Landolpia owariensis longitudinal section (× 4). (1, 5, 8: Reitsma 1450; 2: Gossweiler 7616; 3, 7: Leeuwenberg & Persoon 13643; 4: Leeuwenberg & Persoon 13646; 6, 9: Attims 179). Drawing by Wil Wessel-Brand, Naturalis*
+
 ## Notes
 
 <!-- TODO:notes -->

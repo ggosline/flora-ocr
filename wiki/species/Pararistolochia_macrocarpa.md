@@ -20,6 +20,12 @@ tags: [species, generated]
 
 Aristolochia macrocarpa Duch. in A.DC., Prodr. 15(1) : 497 (1864). Aristolochia soyauxiana Oliv., Hooker's Icon. Pl. , sér. 3, 15 : t. 1410 (1883). Aristolochia staudtii Engl., Bot. Jahrb. Syst. 24 : 491 (1897). Pararistolochia soyauxiana (Oliv.) Hutch. & Dalziel, Kew Bull. 1928 : 23 (1928). Pararistolochia staudtii (Engl.) Hutch. & Dalziel, Kew Bull. 1928 : 24 (1928). Aristolochia flos-avis A.Chev., J. Bot. 12 : 129 (1909). Pararistolochia flos-avis (A.Chev.) Hutch. & Dalziel, Kew Bull. 1928 : 24 (1928). Aristolochia tribrachiata S.Moore, Cat. pl. Oban : 92 (1913). Pararistolochia tribrachiata (S.Moore) Hutch. & Dalziel, Kew Bull. 1928 : 24 (1928).
 
+## Figures
+
+![Pararistolochia macrocarpa](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_012_p0018.png)
+
+*Plate 4. Pararistolochia macrocarpa . 1. Leafy branch. – 2. Aged stem with inflorescence. – 3.*
+
 ## Also treated in vol 42
 
 **Pages**: 17-19 · **Source**: `sources/Aristolochiaceae_vol42_liteparse`

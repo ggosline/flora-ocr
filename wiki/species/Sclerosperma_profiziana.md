@@ -32,6 +32,12 @@ Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, a s
 
 in periodically flooded forest zones, swampy areas or along rivers; in Gabon, at low altitude, elsewhere up to 480 m. B: Bourobou Bourobou et al. (2016), van Valkenburg et al. (2007, 2008). Bibliography
 
+## Figures
+
+![Sclerosperma profiziana](../sources/Arecaceae_vol53_liteparse/figures/fig_043_p0070.png)
+
+*Plate 25 . Sclerosperma profiziana : 1. Habit. – 2. Detail of the stem. – 3-5. Leaves. – 6. Basal part of the petiole with sheath. – 7. Various stages of development of the immature inflorescence. – 8. Inflorescence, prophyll removed. – 9. Part of the inflorescence with young fruits. – 10. Basal part of the inflorescence in male stage, peduncular bract partially removed. – 11. Male flower from the upper part of the inflorescence. – 12. Infructescence with immature fruits, peduncular bract opened. – 13. Seedling. (1 : photo by Hall & Enti GC 36150 ; 2 : photo by Moore 9883 ; 3-5 : Profizi 840 ; 6, 8-10, 11, 13 : Gillet 279a ; 7, 12 : Laurent 1054 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from van Valkenburg et al. (2008).*
+
 ## Notes
 
 <!-- TODO:notes -->

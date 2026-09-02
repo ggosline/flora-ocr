@@ -40,6 +40,12 @@ Bush, savanna, open habitats; in Gabon at ± 400 m altitude, elsewhere at 600–
 
 Pellegrin (1949) suggested its existence in Gabon, but no specimens have been found since. Verdcourt (1970, 1971c) distinguished several infraspecific taxa, but as their status remains doubtful, we think their distinction is not useful here. Bibliography: Burkill (1995), Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Tulin (1983), Verdcourt (1970, 1971c)
 
+## Figures
+
+![Teramnus labialis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_132_p0367.png)
+
+*Plate 124 : Teramnus labialis : 1. Flowering and fruiting stem (× ⅔). – 2. Detail of the upper surface of the leaflet (× 4). – 3. Idem, lower surface (× 4). – 4. Flower (× 4). – 5. Calyx, open (× 6). – 6. Standard (× 6). – 7. Wings (× 6). – 8. Keel (× 6). – 9. Androecium, open tube (× 6). – 10. Gynoecium, longitudinal section (× 6). – 11, 12. Pods (× 1½). – 13. Seeds (× 2½). (1–3, 11, 13 : Faulkner 658 ; 4 : living coll. at Kew ; 5–10 : Drummond & Hemsley 3326 ; 12 : Liebenberg 948 ). Drawing by Derrick Erasmus, Royal*
+
 ## Notes
 
 <!-- TODO:notes -->

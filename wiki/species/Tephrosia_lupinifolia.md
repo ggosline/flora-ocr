@@ -34,6 +34,12 @@ Tropical Africa, from Senegal to Sudan, Tanzania, Angola and southern Africa; in
 
 open savanna, on sandy soil; in Gabon at 15–800 m altitude, elsewhere up to 1400 m. Flowers and fruits in February, May, August and September. B: Brummitt et al. (2007), Burkill (1995), Cronquist (1954), Gillett (1971d), Pellegrin Bibliography (1949)
 
+## Figures
+
+![Tephrosia lupinifolia](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_130_p0362.png)
+
+*Plate 122 : Tephrosia lupinifolia : 1. Habit (× ½). – 2. Flower (× 3½). – 3. Standard (× 3½). – 4. Wing (× 3½). – 5. Keel (× 3½). – 6. Androecium (× 3½). – 7. Gynoecium (× 3½). – 8. Pod (× 2). – 9. Geocarpic pod (× 3). – 10. Seed (× 3). Drawing by Heather Wood, Royal Botanic Gardens, Kew (©), reproduced with permission from Gillett (1971d).*
+
 ## Notes
 
 <!-- TODO:notes -->

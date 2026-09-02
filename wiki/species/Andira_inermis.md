@@ -42,6 +42,12 @@ Pennington (2003) distinguishes three subspecies, of which two in Africa. Subsp.
 
 Flower. – 5. Flower, corolla removed. – 6. Fruit (× ⅔). Drawing by J.G.A. (1, 2, 6) and W.H. Hekking (3–5), reproduced with permission from Little & Wadsworth (1964) and Lindeman et al. (1963).
 
+## Figures
+
+![Andira inermis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_018_p0044.png)
+
+*Plate 10 : Andira inermis subsp. inermis : 1. Inflorescence (× ⅔). – 2. Leaf (× ⅔). – 3. Leaflet. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -48,6 +48,12 @@ See under the genus. Letouzey (1967) discussed, like many earlier authors, the p
 
 Bibliography 85
 
+## Figures
+
+![Urera trinervis](../sources/Urticaceae_vol51_liteparse/figures/fig_053_p0090.png)
+
+*Plate 34. Urera trinervis : 1. Old stem, showing the bark and the transverse section (± × ½). – 2.*
+
 ## Notes
 
 <!-- TODO:notes -->

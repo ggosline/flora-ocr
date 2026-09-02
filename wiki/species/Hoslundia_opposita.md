@@ -35,6 +35,12 @@ secondary forests, degraded vegetation; in Gabon at ± 500 m altitude, elsewhere
 
 The specimen cited in Sosef et al. (2006) belongs to Ficus natalensis Hochst. B: Arbonnier (2019), Burkill (1995), Morales (2011), Morton (1963), Paton et al. (2013). Bibliography
 
+## Figures
+
+![Hoslundia opposita](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_062_p0066.png)
+
+*Plate 14 . Hoslundia opposita : 1. Flowering stem (× 1). – 2. Gynoecium (× 9). – 3. Apex of corolla, longitudinal section (× 9). – 4. Flower (× 9). – 5. Calyx in flower (× 9). – 6. Calyx in fruit (× 2). – 7. Ditto, longitudinal section (× 2). – 8. Achene (× 9). (1-8 : from a living plant of Mrs Jenkins). Drawing by Rosemary C. Holcroft, South African National Biodiversity Institute (SANBI) (©), reproduced with permission from Codd (1985).*
+
 ## Notes
 
 <!-- TODO:notes -->

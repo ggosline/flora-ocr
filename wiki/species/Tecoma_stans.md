@@ -38,7 +38,7 @@ Although no specimen from Gabon has been observed, it is possible that this spec
 
 ![Tecoma stans](../sources/Bignoniaceae_vol27_paddle/figures/fig_013_p0058.png)
 
-*PL. 13. – Tecoma stans (L.) Juss. ex HBK.: 1, flowering branch × 0,66; 2, limb lower surface; 3, calyx × 2; 4, corolla inner surface × 1; 5, anther × 3; 6, pistil and disk × 3; 7, fruit × 0,66; 8, seed × 1 (1-3, 5, 8, Raynal J. & A. 11996 bis, Cameroon; 4, 6, 7, Dang 489, Cameroon). (Taken from Flora of Cameroon 27: tab. 18, 1984).*
+*PL. 13. – Tecoma stans (L.) Juss. ex HBK.: 1, flowering branch × 0.66; 2, limb lower surface; 3, calyx × 2; 4, corolla inner surface × 1; 5, anther × 3; 6, pistil and disk × 3; 7, fruit × 0.66; 8, seed × 1 (1-3, 5, 8, Raynal J. & A. 11996 bis, Cameroon; 4, 6, 7, Dang 489, Cameroon). (Taken from Flora of Cameroon 27: tab. 18, 1984).*
 
 ## Notes
 

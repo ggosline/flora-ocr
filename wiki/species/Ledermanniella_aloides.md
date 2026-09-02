@@ -32,6 +32,12 @@ Sierra Leone, Cameroon, Central African Republic, Gabon and Angola; in Gabon, kn
 
 in Gabon at ± 150 m altitude, elsewhere up to 100 m. Bi: Cusset (1984, 1987a). Bibliography
 
+## Figures
+
+![Ledermanniella aloides](../sources/Podostemaceae_vol51_liteparse/figures/fig_031_p0037.png)
+
+*Plate 13. Ledermanniella aloides . 1. General view (× 10). – 2. Young flower (× 30). – 3. Young flower freed from the spathe (× 30). – 4. Ovary (× 20). – Inversodicraea thollonii . – 5 & 6. General views (× 5). – 7. Stamens (× 22). – 8. Dehiscent capsule (× 22). – 9. Seed (× 160). Drawing by C. Cusset,*
+
 ## Notes
 
 <!-- TODO:notes -->

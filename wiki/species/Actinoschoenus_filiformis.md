@@ -35,6 +35,16 @@ on inselbergs and rocky domes in forest; in Gabon, at 500–850 m altitude. B: B
 
 B. Spikelet. – C. Flower. – D. Female part of the flower. – E. Fruit. Reproduced from Bentham (1881c).
 
+## Figures
+
+![Actinoschoenus filiformis](../sources/Cyperaceae_vol44_liteparse/figures/fig_007_p0012.png)
+
+*Planche 1 . Actinoschoenus filiformis. A. Plante. –*
+
+![Actinoschoenus filiformis](../sources/Cyperaceae_vol44_liteparse/figures/fig_008_p0013.jpeg)
+
+*Figure 1. Akènes de a) Actinoschoenus filiformis ( Ngok Banak 1650 , Woleu-Ntem, Gabon) et b)*
+
 ## Notes
 
 <!-- TODO:notes -->

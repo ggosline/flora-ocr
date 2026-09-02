@@ -37,6 +37,12 @@ Mature humid forests, more rarely in secondary forests, common on periodically f
 
 ikandji (kota) ; mokangé (pinji, mitsogo) ; mukanda (duma, lumbu, éshira) ; nkan (fang) ; nkanda (kélé) ; nkandjé (bakota) ; nkanyi (seki) ; nkogu (myene) ; okana (ndumu). Usage : Les cannes sont fortement prisées pour la vannerie. Les jeunes pousses sont fréquemment cou pées et cuisinées entières, la moelle, ainsi ramollie, est alors mangée. B : Faye et al. (2014), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Sunderland i B liographie (1998, 2007, 2012)
 
+## Figures
+
+![Laccosperma secundiflorum](../sources/Arecaceae_vol53_liteparse/figures/fig_031_p0044.png)
+
+*Plate 13 : Laccospermum secundiflorum : 1. Mature stipe. – 2. Leaflets. – 3. Spine-like leaflets. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

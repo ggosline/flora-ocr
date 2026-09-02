@@ -35,6 +35,14 @@ Ivory Coast, Ghana, Nigeria, Gabon, Democratic Republic of the Congo, more wides
 
 in forest or at forest margins near swamps or rivers; in Gabon, at 400–500 m altitude, up to 1200 m in East Africa. Taxonomic note: recognized by its erect habit and its violet achene in the upper part. It is close to S. boivinii which is a climbing plant, thus with a very different habit. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliography Robinson (1966)
 
+## Figures
+
+![Scleria iostephana](../sources/Cyperaceae_vol44_liteparse/figures/fig_187_p0213.png)
+
+*Planche 131 . Scleria distans . A. Plante. – B. Planche 132 . Scleria iostephana . A. Plante. – B.*
+
+![Scleria iostephana](../sources/Cyperaceae_vol44_liteparse/figures/fig_190_p0215.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

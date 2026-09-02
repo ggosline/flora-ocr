@@ -55,6 +55,23 @@ This genus comprises 7 species, 5 from tropical Africa and 2 from Asia. In Afric
 
 2'. Sepals (2.5–)3–4(–5) mm long, edged with multicellular hairs; mucilage cells absent; most hairs fasciculate by 3 or 4.
 
+## Key to the species
+
+1. Leaves 5-foliolate ..... 1. A. gabonensis
+1'. Leaves 3-foliolate.
+
+2. Sepals 1.5–2 mm long, not bordered with multicellular hairs; numerous mucilage cells on the upper surface of the leaflets, forming small punctations when dry; hairs not fasciculate ..... 2. A. parado
+
+2'. Sepals (2.5–)3–4(–5) mm long, bordered with multicellular hairs; mucilage cells absent; most hairs fasciculate by 3 or 4.
+
+3. Follicles furnished with numerous coarse protuberances; hairs of young branches at most >0.5 mm long; adult leaflets glabrous or with remains of indumentum on the main vein; pair of main lateral veins always longer than the others ..... 5. A. rubiginosa
+
+3'. Follicles without coarse protuberances but sometimes wrinkled after drying; young branches sometimes with hairs >0.5 mm long; adult leaflets glabrous to pubescent; on the terminal leaflet, the large secondary veins II of the basal pair shorter or longer than the others.
+
+4. Venation of the terminal leaflet always pinnate; large secondary veins II of the basal pair always distinctly shorter than the following ones; young leaflets entirely covered with a white, slightly glossy arachnoid indumentum; older leaflets glabrous on both surfaces or with a remnant of arachnoid covering on their midvein; length of the rachis 0.1–1 cm ..... 4. A. poggeana
+
+4'. Venation of the terminal leaflet generally palmate but sometimes pinnate; large secondary veins II of the basal pair never distinctly smaller than the following ones; young leaflets rarely covered with an arachnoid indumentum; older leaflets glabrous to pubescent; length of the rachis ≤ 4 cm ..... 3. A. pentagyna
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -37,6 +37,12 @@ very widespread in tropical Africa: from Cameroon, Equatorial Guinea and Gabon e
 
 wet grasslands, flooded or floodable marshy stations; in Gabon at low altitude, elsewhere up to 2300 m. B: Lewis (1981), Lock (1999, 2010). Bibliography
 
+## Figures
+
+![Xyris congensis](../sources/Xyridaceae_vol42_liteparse/figures/fig_043_p0105.png)
+
+*Planche 28. Xyris congensis : 1. Plante (× ⅔). – 2. Épi (× 1). – 3. Épi après floraison (× 1). – 4, 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -47,7 +47,7 @@ Holstein & Renner (2010, 2011), Holstein (2015), Keraudren (1967), Keraudren-Aym
 
 ![Coccinia heterophylla](../sources/Cucurbitaceae_vol57_paddle/figures/fig_043_p0056.png)
 
-*Planche 15. Coccinia heterophylla: 1. Tige fructifère (×2/3). - 2. Bouton floral mâle, partie du périanthe enlevé (×3). - 3. Fleur femelle (×1). - 4. Graine (×3). (1-4: Klaine 414). Dessin par J. Saussotte-Guérez, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 15. Coccinia heterophylla: 1. Fruiting stem (×2/3). - 2. Male floral bud, part of the perianth removed (×3). - 3. Female flower (×1). - 4. Seed (×3). (1-4: Klaine 414). Drawing by J. Saussotte-Guérez, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

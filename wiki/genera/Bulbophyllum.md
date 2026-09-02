@@ -23,6 +23,42 @@ The flowers attract flies by dull insipid colours either greenish or brown-purpl
 
 This genus exceeds 1100 species widely distributed in the tropical and subtropical regions of the New and Old World: nearly 70 species occur in continental Africa. In a recent revision of these, VERMEULEN (1987) proposed no infrageneric classification of the genus. CRIBB (1984) adopted the division into sections of SUMMERHAYES (1935), yet far from being satisfactory. Faced with such a situation, we have divided this genus into 4 artificial groups for a primarily practical purpose and with no phylogenetic significance.
 
+## Key to the species
+
+1. Lip with hairs along the margins, length of hairs ≥ the width of the lip ..... Group 1 (p. 132)
+
+1'. Lip papillose or shortly ciliate along the margins, but then hairs distinctly shorter than half the width of the lip or lip entirely glabrous.
+
+2. Rachis distinctly flattened ..... Group 2 (p. 144)
+
+3. Pseudobulbs 2-leaved ..... Group 3 (p. 170)
+
+3'. Pseudobulbs 1-leaved ..... Group 4 (p. 186)
+
+KEY TO GROUP 1: species with hairy lip margins
+
+1. Pseudobulbs bifoliate ..... 2. B. cochleatum
+1'. Pseudobulbs unifoliate.
+
+2. Lip linear in its lower part and broadly ovate or elliptic above ..... 4. B. phaeopogon
+
+2'. Lip globally linear or lanceolate and progressively narrowed toward the apex.
+
+3. Lower bracts ≥15 mm.
+
+4. Lip with a basal adaxial tooth ..... 7. B. subligaculiferum
+
+4'. Lip without a basal adaxial tooth ..... 6. B. schinzianum
+3'. Lower bracts <13 mm.
+
+5. Petals sub-visible <1 mm, apex of lip covered with thick hairs ..... 1. B. barbigerum
+
+5'. Petals longer, apex of lip with non-thickened hairs.
+
+6. Hairs gathered at the apex of the lip and oriented toward the base of the lip ..... 3. B. finetii
+
+6'. Hairs borne along the margins of the lip, just above its basal third, widely divergent ..... 5. B. saltatorium
+
 ## Species in region
 
 | Species | Vol | Pages |

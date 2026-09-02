@@ -38,6 +38,12 @@ Endemic to Gabon, known from a single collection from the Bolo waterfall (betwee
 
 at ± 600 m altitude. B: Cusset (1984), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Ledermanniella boloensis](../sources/Podostemaceae_vol51_liteparse/figures/fig_033_p0040.png)
+
+*Plate 15. Ledermanniella boloensis . 1. General view (× 1). – 2. Inflorescence (× 10). – 3. Flower at anthesis (× 14). – 4. Opened flower (× 14). – 5. Androecium with 3 stamens (× 14). – 6. Capsule (× 22). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,44 @@ African genus, very distinct among the Sonerileae, especially diversified in the
 
 2. Fruit pedicellate, narrowly obconic, without prominent scales. Dehiscent over its entire height; seeds appendiculate at both extremities; often epiphytic ..... 2. C. trochainii.
 
+## Key to the species
+
+1. Plant setulous, including on the hypanthium. Cymes contracted; fruits cylindrical, scales prominent; often epiphytic ..... 1. C. hirsuta.
+
+1'. Plants glabrescent, or only furfuraceous on young parts.
+
+2. Fruit pedicellate, narrowly obconical, without prominent scales. Dehiscent over entire length; seeds appendiculate at both extremities; often epiphytic ..... 2. C. trochainii.
+
+2'. Fruits sessile or subsessile¹, from cylindrical to broadly obconical, scales prominent.
+
+3. Leaves narrow, ca. 3 times longer than broad; not more than 5 cm in length.
+
+4. Leaves narrowly lanceolate, 0.8 × 3 cm; margins entire, internodes short ..... 3. C. sp.
+
+4'. Leaves whitened, very attenuate on the petiole, 1.5 × 5 cm; margins serrate ..... 4. C. seretii.
+
+3'. Leaves variously ovate, elliptic, etc., not more than 2 times longer than broad.
+
+5. Fruit stelliform by the crown, whose prominent part is as long as the hypanthium, the latter finely ribbed. Calyx persistent; leaf sinuate to serrate, 3 × 5 cm; often the plant is branched with numerous simultaneous cymes ..... 5. C. orientalis
+
+5'. Fruits cylindrical or broadly obconical; wall often whitish, aeriferous, grooved; crown shorter than the hypanthium.
+
+6. Leaves ovate, ± cordate, 9 × 12 cm; fruits cylindrical; robust shrubs, rupicoline ..... 6. C. pulcherrima.
+
+6'. Leaves elliptic or lanceolate and ± cordate.
+
+1. The solitary flowers of impoverished specimens appear pedicellate by the axis of the cyme.
+
+---
+
+7. Leaves oblong-lanceolate, 2.5 × 8 cm, narrowly cordate at base. Cymes several times divided; shrub of swampy understory ..... 6 bis. C. sapinii.
+
+7'. Leaves elliptic, less than 3 times longer than broad.
+
+8. Leaves up to 5 × 10 cm; cymes up to 20 cm, sinuous; flowers spaced 1 to 2 cm apart ..... 7. C. monticola.
+
+8'. Leaves 1.2 × 2 cm, subcircular, cymes often reduced to a single flower ..... juvenile form of C. monticola.
+
 ## Species in region
 
 | Species | Vol | Pages |

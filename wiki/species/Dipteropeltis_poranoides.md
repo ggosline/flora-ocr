@@ -34,6 +34,12 @@ primary and secondarized forest; in Gabon up to 600 m altitude, elsewhere up to 
 
 Taxonomic note: The subdivision of this species into varieties (De Wildeman 1912 & Good 1929) was suppressed by Lejoly & Liswowski (1993). Their treatment is followed here, except their synonymization of Dipteropeltis mayumbensis R.D.Good (Breteler 1995). B: Breteler (1995), Lejoly & Lisowski (1993). Bibliography
 
+## Figures
+
+![Dipteropeltis poranoides](../sources/Convolvulaceae_vol46_liteparse/figures/fig_021_p0028.png)
+
+*Plate 9. Dipteropeltis poranoides, showing variation within the species: 1, 2. Parts of inflorescence (× 2). – 3, 4. Flowers (× 3). – 5, 6. Corolla, exterior (× 3). – 7, 8. Corolla open, interior with stamens (× 3). – 9, 10. Gynoecia (× 3). – 11. Indumentum on the gynoecium (× 45). (1, 3, 5, 7, 9: Breteler et al. 12186; 2, 4, 6, 8, 10, 11: Breteler et al. 12413). Drawing by Hans de Vries, author's private collection (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

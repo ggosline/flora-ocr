@@ -27,6 +27,12 @@ Malouetiella parviflora Pichon, Bull. Jard. Bot. État Bruxelles 22 : 133 (1952)
 
 mountain forest; in Gabon at 575–850 m altitude, elsewhere at 900–1400 m. B: Beentje (2021), van der Ploeg (1985). BIBLIOGRAPHY
 
+## Figures
+
+![Malouetia mildbraedii](../sources/Apocynaceae_vol59_liteparse/figures/fig_142_p0164.jpeg)
+
+*Plate 74. Malouetia mildbraedii: 1. Flowering branch (× 1). – 2. Leaf, lower surface (× 1). – 3. Idem, detail with domatia (× 3). – 4. Flower, upper view (× 4). – 5. Flower (× 4). – 6. Part of a flower, longitudinal section, calyx removed (× 8). – 7. Idem, stylar-staminal cone removed (× 8). – 8. Stamen, views*
+
 ## Notes
 
 <!-- TODO:notes -->

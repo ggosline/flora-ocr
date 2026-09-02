@@ -45,6 +45,15 @@ Bibliography
 
 infructescence ..................................................................................................... S. walkeri
 
+## Key to the species
+
+1. - Mature leaves entire, with deeply bifid apex ........................... S. profiziana
+- Mature leaves pinnate, divided into 8 to 40 pairs of leaflets ..................................... 2
+2. - Leaflets 8 to 17(–24) ; inflorescence rachis 3–6 cm ; < 17 fruits per infructescence
+............................................................................................................................ S. mannii
+- Leaflets (20–)25 to 40 ; inflorescence rachis 7–11 cm ; up to 30 fruits per
+infructescence ..................................................................................................... S. walkeri
+
 ## Species in region
 
 | Species | Vol | Pages |

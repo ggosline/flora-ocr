@@ -33,6 +33,10 @@ hygromesophilous epiphyte in dense humid semi-deciduous forests, also in the sub
 
 <!-- caption: Plate 45. Begonia komoensis: 1. Top of a branch with young infructescences and ♀ inflorescences (× ½). – 2-4. Various leaf forms (× ½); – 5. Part of the ligneous base of a radiciferous branch (× ½). – 6. ♂ Inflorescence (× ½). – 7. ♂ Flower (× 1.5). – 8, 9. Androecium, front and back view (× 5). – 10-12. Anther from the center of the androecium, front, back and side view (× 10). – 13, 14. -->
 
+## Figures
+
+![Begonia kisuluana](../sources/Begoniaceae_vol39_liteparse/figures/fig_060_p0097.png)
+
 ## Notes
 
 <!-- TODO:notes -->

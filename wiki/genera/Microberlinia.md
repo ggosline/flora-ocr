@@ -31,6 +31,12 @@ Two neighboring species, one Gabonese, the other Cameroonian, both producers of 
 
 1'. Leaflets larger and more numerous; 12-18 pairs; 15-35 × 8-10 mm, clearly emarginate…… M. bisulcata.
 
+## Key to the species
+
+1. Leaflets 10-12 pairs, 10-16 mm × 5-7 mm, rounded or scarcely emarginate..... 1. M. brazzavillensis.
+
+1'. Leaflets larger and more numerous; 12-18 pairs; 15-35 × 8-10 mm, distinctly emarginate…… M. bisulcata.
+
 ## Species in region
 
 | Species | Vol | Pages |

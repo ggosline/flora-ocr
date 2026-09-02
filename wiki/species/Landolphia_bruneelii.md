@@ -24,6 +24,12 @@ cut longitudinally × [text unclear in original]. Seed × [text unclear in origi
 
 in pairs, the distal ones sepaloid, long of 2.5–4.5 mm, calyx with lobes 3–5 times as long as wide, 4–7 × 0.8–1.8 mm, glabrous or hairy to pubescent at the exterior. Corolla white, the tube sometimes greenish or pink, tube long of 19–34 mm, wide of 2.5–3.7 mm at the level of the anthers and 1.9–3 mm at the throat, with the widest part ± in the middle, partially hairy inside, glabrous outside on the basal 8 mm, otherwise glabrous or hairy to pubescent, especially in bands under the auricles, lobes 0.6–1.5 times as long as the tube, [text unclear in original] times as long as wide, 5–11 × 2–3.5 mm. Stamens inserted at 32–42% of the tube length, included 5–9 mm, anther long of 2.3–3 mm; pistil long of 12.5–22 mm, ovary hairy; style 7.5–16.5 mm, densely hairy to pubescent, glabrescent towards the apex. Fruit unknown. Distribution: Cameroon, Gabon and Democratic Republic of the Congo. In Gabon: Estuaire, Haut-Ogooué, Ngounié, Ogooué, Ivindo, Ogooué-Lolo and Ogooué-Maritime. Ecology: forest fringes of swamp forest in Gabon, up to 350 m altitude, elsewhere up to 1400 m. B: Beentje (2021), Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia bruneelii](../sources/Apocynaceae_vol59_liteparse/figures/fig_102_p0116.jpeg)
+
+*Plate 48. Landolphia breviloba: 1. Flower. – Landolphia bruneelii: 2. Flowering branch (× 2). – 3. Corolla, longitudinal section, lobes partially cut (× 2). – 4. Pistil (× 6). – 5, 6. Stamen, dorsal and ventral views (× 6). – Landolphia ligustrifolia: 7. Flowering branch (× 2). – 8. Calyx (× 2). – 9. Flower, longitudinal section (× 2).*
+
 ## Notes
 
 <!-- TODO:notes -->

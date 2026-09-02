@@ -41,6 +41,12 @@ alilor (batéké) : même nom que pour P. mannii et P. alopecurus
 
 P. schweinfurthii is a fairly variable species of which most collections show plants with a single massive inflorescence per apical whorl. Others, such as the type specimen (Welwitsch 6599), have 2 to 5 more gracile inflorescences with strong pubescence on the pedicels, clearly visible in young inflorescences when dry. Bibliography: Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Faden (2007a, 2012), Morton (1967), Sosef et al. (2006)
 
+## Figures
+
+![Palisota schweinfurthii](../sources/Commelinaceae_vol55_liteparse/figures/fig_041_p0077.png)
+
+*Plate 23 . Palisota schweinfurthii : 1. Floriferous stem. – 2. Cincinnus with buds, one male flower and two persistent faded flowers. – 3. Bisexual flower, lateral view. – 4. Male flower, lateral view. – 5. Fruit. – 6. Seed, ventral view showing the hilum. – 7. Idem, dorsal view showing the embryotega. (1-4 : Kahn 93/26 ; 5-7 : Harris 3035 ). Drawing by Alice Tangerini, Smithsonian Institution (©), reproduced with permission from Faden (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

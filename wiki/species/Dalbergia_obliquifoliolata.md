@@ -34,6 +34,12 @@ primary forest; at about 200 m altitude. Flowering in December
 
 This species is very closely related to D. adiantifolia and D. bakeri. It differs from D. bakeri in its leaflets slightly emarginate at the apex and glabrous on the upper surface (except on the midvein), as well as in the longer calyx with very marked teeth. From D. adiantifolia, it is distinguished by the distinctly larger leaflets, with very glaucous and sparsely pubescent lower surface, as well as by the longer floral pedicels and calyces. The type of D. obliquifoliolata was previously referred to D. heudelotii Stapf (Sosef et al. 2006), a surprising confusion since the two species scarcely resemble each other
 
+## Figures
+
+![Dalbergia obliquifoliolata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_055_p0148.png)
+
+*Plate 47: Dalbergia obliquifoliolata: 1. Flowering branch. – 2. Leaflet, detail of the lower surface. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

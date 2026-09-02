@@ -33,6 +33,12 @@ Tropical Africa, tropical Asia, Australia; in Gabon, known from Estuaire, Ogoou�
 
 Sandy beaches, sand savannas, ruderal stations; in Gabon, up to about 500 m, elsewhere, up to 1550 m. Taxonomic note: Another subspecies, subsp. alatipes (Dammer) Verdc. (= Xenostegia tridentata (L.) Austin & Staples subsp. alatipes (Dammer) Lejoly & Lisowski) is not present in Gabon. B: Deroin (2001), Gonçalves (1987), Heine (1963), Verdcourt (1963). Bibliography
 
+## Figures
+
+![Merremia tridentata](../sources/Convolvulaceae_vol46_liteparse/figures/fig_034_p0052.png)
+
+*Plate 22. Merremia tridentata subsp. angustifolia : 1. Floriferous branches. – 2, 3. Sepals. – 4. Corolla spread with stamens. – 5. Gynoecium with part of the calyx. – 6. Ovary in longitudinal section. – 7. Fruit. – 8. Seed. (2–8 : Peltier 5001 ). Drawing by T. Peng (1) and Thierry Deroin (2–8) reproduced with permission of the Publications Scientifiques du Muséum national d'Histoire naturelle, Paris (©) from Berhaut (1975) and Deroin (2001).*
+
 ## Notes
 
 <!-- TODO:notes -->

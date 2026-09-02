@@ -41,6 +41,12 @@ voandzou, pois de terre, pois bambara, haricot pistache (fr.) ; bambara groundnu
 
 The wild forms (var. spontanea (Harms) Pasquet) grow from northeastern Nigeria to Sudan. They have long stems extending over several meters and their pods and seeds are smaller than those of cultivated Bambara groundnut. The pod wall is thinner. Bi: Brink et al. (2006), Linneman (1994), Pasquet (2001), Raponda-Walker & Sillans (1961), Bibliography Verdcourt (1971c), Wilczek (1954)
 
+## Figures
+
+![Vigna subterranea](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_136_p0383.png)
+
+*Plate 128 : Vigna subterranea var. subterranea : 1. Habit (× ⅔). – 2. Flower (× 3). – 3. Bracteole (× 8). – 4. Calyx, open (× 4). – 5. Standard (× 4). – 6. Wings (× 4). – 7. Keel (× 4). – 8. Androecium (× 4). – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

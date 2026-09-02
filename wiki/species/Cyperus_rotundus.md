@@ -39,6 +39,14 @@ in seasonally humid grassy areas, marshes and margins of springs and streams, al
 
 souchet rond (fr.) ; coco grass, nut grass, nut sedge, purple nut grass, purple nut sedge (angl.) ; alho-bravo, capim-alho, capim-dandá, tiririca., tiriricavermelha (port.). Usage : c’est une herbe douce-amère qui soulage les douleurs et spasmes, surtout du système digestif et de l’utérus. Elle est également utilisée comme fourrage et les racines et tubercules sont comestibles et aromatiques. Les tiges servent pour fabriquer des tapis. Note taxonomique : très variable tant pour la couleur que pour la taille des glumes ; plusieurs sous-espèces ont été reconnues. C. rotundus subsp. merkeri (C.B.Clarke) Kük. diffère de la subsp. rotundus par ses glumes plus courtes (2,7‒3,2 mm au lieu de 3,3‒4,3 mm) et habituellement une couleur plus foncée. Cette forme a été trouvée dans le Woleu-Ntem. Cependant, Hoenselaar et al. (2010) dans Flora of Tropical East Africa , ne retiennent, comme nous, aucune sous-espèce ou variété. B : Burkill (1985), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & ibliographie Napper (1972), Lye (1997)
 
+## Figures
+
+![Cyperus rotundus](../sources/Cyperaceae_vol44_liteparse/figures/fig_055_p0073.png)
+
+*Plate 43. Cyperus pustulatus. A. Plant. – B. Plate 44. Cyperus rotundus. A, B. Base of the*
+
+![Cyperus rotundus](../sources/Cyperaceae_vol44_liteparse/figures/fig_056_p0073.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ Understory, trail edges, very rare in Gabon and elsewhere; in Gabon from 15 to �
 
 No known specimen of this species presents the base of the plant, but all collections report a plant of approximately 1.5 m in height. This species appears to be part of the group of decumbent species. P. fadenii is close to P. brachythyrsa, but differs from it by its more slender habit, and its more massive inflorescences, with strong crisp pubescence, and its flowers with the lower sepal broadly ovate. B: Bidault & van der Burg (2019). Bibliography
 
+## Figures
+
+![Palisota fadenii](../sources/Commelinaceae_vol55_liteparse/figures/fig_036_p0066.png)
+
+*Plate 19. Palisota fadenii : 1. General aspect. – 2. Inflorescence. – 3. Bisexual flower. – 4. Upper sepal. – 5. Lower sepal. – 6. Petal. – 7. Upper stamen. – 8. Lower stamen. – 9. Staminode. – 10. Gynoecium. (1-10: Sita 535). Drawing by D. Geffard-Kuriyama & L. Longou, National Museum of Natural History, Paris (©), reproduced with permission from Bidault & van der Burg (2019).*
+
 ## Notes
 
 <!-- TODO:notes -->

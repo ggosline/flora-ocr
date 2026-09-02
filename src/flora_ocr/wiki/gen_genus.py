@@ -57,7 +57,7 @@ FAMILY_ALIASES = {
 # no page: a "Leguminosae" or "Materiel" genus page would be pure noise.
 NOT_A_TAXON = {
     "Leguminosae", "Materiel", "Materiel etudie", "Heterostylie",
-    "Cl", "St", "Ilomba", "Ossoko", "Ekoune",
+    "Cl", "St", "Ilomba", "Ossoko", "Ekoune", "Noticealamemoirede",
     # "Ordre I. LYCOPODIALES" -- a French ordinal heading, not a genus
     "Ordre", "Ordres", "Famille", "Familles", "Tribu", "Tribus",
 }
@@ -160,6 +160,28 @@ def diagnosis_text(body: str, limit: int = 2500) -> str:
     return "\n\n".join(lines)
 
 
+# Where a genus treatment's key begins: an explicit heading, or failing that
+# the first numbered lead. The diagnosis is capped at a few thousand characters,
+# which silently cut 311 keys in half -- Pararistolochia's stopped at lead 3.
+# The key is not prose to be summarised: a half key is useless, so it is pulled
+# out whole into its own section, which is what the wiki schema asks for.
+KEY_HEADING_RE = re.compile(
+    r"^\s*(?:CL[EÉ]S?\s+DES\s+ESP[EÈ]CES|KEY\s+TO\s+THE\s+SPECIES|"
+    r"CL[EÉ]\s+DE\s+D[EÉ]TERMINATION|KEY\s+TO\s+SPECIES)\b.*$", re.I | re.M)
+KEY_LEAD_RE = re.compile(r"^\s*1\s*[.\-]\s*[-–—]?\s*\S.*\.{4,}", re.M)
+
+
+def split_key(text: str) -> tuple[str, str]:
+    """Return (prose, key). The key is everything from where it starts."""
+    m = KEY_HEADING_RE.search(text)
+    if m is None:
+        m = KEY_LEAD_RE.search(text)
+        if m is None:
+            return text, ""
+        return text[:m.start()].rstrip(), text[m.start():].strip()
+    return text[:m.start()].rstrip(), text[m.end():].strip()
+
+
 def species_rows(blocks: list[dict], genus: str) -> list[dict]:
     return [b for b in blocks if b["rank"] == "species" and b.get("genus") == genus]
 
@@ -243,11 +265,24 @@ def render(genus: str, entries: list[tuple[dict, dict]]) -> str:
     body.append("")
     body.append("<!-- TODO:translate — source text below, verbatim and untranslated -->")
     body.append("")
+    keys = []
     for _, gblock in entries:
         _, rest = split_heading(gblock.get("text", ""))
-        d = diagnosis_text(rest)
+        prose, key = split_key(clean(rest))
+        d = diagnosis_text(prose)
         if d:
             body.append(d)
+            body.append("")
+        if key:
+            keys.append(key)
+
+    if keys:
+        body.append("## Key to the species")
+        body.append("")
+        body.append("<!-- TODO:translate — source text below, verbatim and untranslated -->")
+        body.append("")
+        for key in keys:
+            body.append(key)
             body.append("")
 
     body.append("## Species in region")
@@ -255,8 +290,12 @@ def render(genus: str, entries: list[tuple[dict, dict]]) -> str:
     if species_all:
         body.append("| Species | Vol | Pages |")
         body.append("|---------|-----|-------|")
+        seen_rows: set[str] = set()
         for s, t in species_all:
             name = s["name"]
+            if name in seen_rows:
+                continue        # a variety is its own block; one row per species
+            seen_rows.add(name)
             link = name.replace(" ", "_")
             epithet = name.split(" ", 1)[1] if " " in name else name
             body.append(

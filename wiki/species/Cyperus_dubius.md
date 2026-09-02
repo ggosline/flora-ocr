@@ -34,6 +34,12 @@ Widely distributed in tropical zones of Africa and Asia; rare in Gabon or poorly
 
 In shallow seasonally humid soils of rocky outcrops, in grassy areas or as a weed of crops and gardens; in Gabon, at 0–200 m altitude, up to 1800 m in East Africa. Taxonomic note: recognized by its greenish-white head inflorescence with the base of stems succulent. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Cyperus dubius](../sources/Cyperaceae_vol44_liteparse/figures/fig_043_p0057.png)
+
+*Plate 31 . Cyperus distans. A, B. Base of the plant Plate 32 . Cyperus dubius. A. Plant. – B. and inflorescence. – C. Transverse section of the blade. – Inflorescence. – C. Receptacle of the inflorescence. –*
+
 ## Notes
 
 <!-- TODO:notes -->

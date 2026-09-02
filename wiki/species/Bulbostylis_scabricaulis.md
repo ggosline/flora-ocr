@@ -35,6 +35,14 @@ very widespread in tropical Africa, from Senegal to Kenya and southwards to Ango
 
 in fairly dry scattered savannas; in Gabon, at 100–150 m altitude, up to 1900 m in East Africa. Taxonomic note: differs from B. filamentosa by the less crowded spikelets and achenes almost smooth (finely papillose in B. filamentosa). B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Bulbostylis scabricaulis](../sources/Cyperaceae_vol44_liteparse/figures/fig_029_p0035.png)
+
+*Planche 17 . Bulbostylis scabricaulis. A. Plante. – Planche 18 . Bulbostylis vanderystii. A. Plante.*
+
+![Bulbostylis scabricaulis](../sources/Cyperaceae_vol44_liteparse/figures/fig_030_p0035.png)
+
 ## Notes
 
 <!-- TODO:notes -->

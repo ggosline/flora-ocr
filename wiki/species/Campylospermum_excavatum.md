@@ -34,6 +34,12 @@ Cameroon, southern Central African Republic, Equatorial Guinea, Gabon and Republ
 
 primary and secondary forest, forest on slope; in Gabon, at 400–450 m altitude, elsewhere also at lower altitudes. Use: The crushed leaves with seeds of Aframomum melegueta are powdered and rubbed into scarifications (Neuwinger 2000). b: Bissiengou (2014), Farron (1963, 1965, 1985). ibliography
 
+## Figures
+
+![Campylospermum excavatum](../sources/Ochnaceae_vol48_liteparse/figures/fig_023_p0048.png)
+
+*Plate 11. Campylospermum excavatum: 1. Flowering branchlet. – 2. Branchlet in flower buds. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,17 @@ Bibliography
 
 - Corolla up to 3–4 mm in length; bracteoles present; stem pubescent; flowers in lax racemes ............................................................................. L. barteri
 
+## Key to the species
+
+1. - Limb of aerial leaves of the floriferous part ± deeply lobed or divided
+..................................................................................................................... L. indica
+- Limb of aerial leaves of the floriferous part ± entire, with dentate or crenate margins,
+never divided or lobed .............................................................................. 2
+2. - Corolla up to 14 mm in length; bracteoles absent; stem densely pubescent; flowers in
+dense racemes .................................................. L. dasyantha
+- Corolla up to 3–4 mm in length; bracteoles present; stem pubescent; flowers in
+lax racemes ............................................................................. L. barteri
+
 ## Species in region
 
 | Species | Vol | Pages |

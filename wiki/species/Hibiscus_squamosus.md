@@ -38,6 +38,12 @@ savanna, fallows and marshy grasslands; up to 450 m altitude
 
 hibiscus à écailles (fr.)
 
+## Figures
+
+![Hibiscus squamosus](../sources/Malvaceae_vol45_liteparse/figures/fig_031_p0075.png)
+
+*Plate 20. Hibiscus squamosus : 1. Branch with flowers and fruits. – 2. Leaf. – 3. Fruit, open. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ Sierra Leone, Liberia, Côte d'Ivoire, Nigeria, Cameroon, Equatorial Guinea, Gab
 
 humid forests, in zones sometimes flooded along watercourses; in Gabon, up to 600 m altitude, in Cameroon, up to 650 m. Taxonomic note: recognized at maturity by its achenes, which are pale brown with purple dots and smooth or slightly ribbed. Other parts of the plant also sometimes have a violaceous tint. It is very close to M. afro-orientalis which differs by its constricted achene. It is also close to M. chevalieri, which has larger spikelets (9–12 mm long versus 5–8 mm) and different achenes (entirely wrinkled in M. chevalieri). M. heterophylla differs by its spikelets and smaller achenes. b: Nelmes (1955a), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Mapania purpurascens](../sources/Cyperaceae_vol44_liteparse/figures/fig_153_p0177.png)
+
+*Planche 111 . Mapania pubisquama . A. Plante. – B. Planche 112 . Mapania purpurascens . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

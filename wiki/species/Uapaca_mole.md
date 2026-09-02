@@ -36,6 +36,12 @@ primary and secondary forest, on firm and swampy soil and along river margins; i
 
 rikio des marais (fr.). b : Breteler (2012a, b), De Wildeman (1936), Pax & Hoffmann (1922), ibliographie Schmelzer (2008d)
 
+## Figures
+
+![Uapaca mole](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_039_p0100.png)
+
+*Plate 33. Uapaca mole : A. Leaf. ‒ B. Detail lower surface of leaf. ‒ C, D. Stipules. ‒ Ua - paca pynaertii : E. Leaf. ‒ Uapaca staudtii : F. Leafy branch with stipules. ‒ G. Stipule. (A, B :*
+
 ## Notes
 
 <!-- TODO:notes -->

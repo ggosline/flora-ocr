@@ -37,6 +37,12 @@ old secondary forest; in Gabon around 475 m elevation. Flowers in March and Apri
 
 This species is reported here for the first time from Gabon. It is close to D. hostilis but differs from it by the fewer and generally larger leaflets, larger flowers, petals with much longer claw, androecium with 10 stamens instead of 9, the elongate linear style, and glaucous pods (Lachenaud & Maesen 2016). b: Cronquist (1954), Lachenaud & Maesen (2016). Bibliography
 
+## Figures
+
+![Dalbergia gilbertii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_046_p0127.png)
+
+*Plate 38 : Dalbergia gilbertii : 1. Flowering branch. – 2. Part of an old stem with spines. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

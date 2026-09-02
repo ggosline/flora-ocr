@@ -35,6 +35,12 @@ In almost monospecific colonies in swampy, inundated, or periodically inundated 
 
 R. laurentii and R. monbuttorum share the character of an inflorescence that is neither completely pendulous as in R. hookeri and R. textilis, nor erect as in R. regalis, but rather semi-erect, initially erect then arched downward. Moreover, R. laurentii and R. monbuttorum (with R. zamiana) have a partial inflorescence structure that is said to be "raphiaceous," that is with secondary flowering branches (the terminal ones) ± of the same length along the entire length of the axis and generally perpendicular to the primary flowering branches. In R. hookeri, the secondary flowering branches are longer in basal position than in apical position and directed toward the apex. R. laurentii is easy to identify thanks to its straight and pointed fibres, its semi-erect inflorescences and especially the bracts on the secondary flowering branches that are very closely packed together, forming compressed rings. To date, this species is known from Gabon only from a single collection. Bibl.: Stauffer et al. (2014), Tuley (1995). Bibliography
 
+## Figures
+
+![Raphia laurentii](../sources/Arecaceae_vol53_liteparse/figures/fig_039_p0061.png)
+
+*Plate 21. Raphia laurentii : 1. Part of the inflorescence with flowering branch of second order. – 2. Female flower. – 3. Male flower. – 4. Idem, longitudinal section. – 5. Stamens. – 6. Fruit. – 7. Seed. Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

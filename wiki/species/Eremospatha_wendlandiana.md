@@ -42,6 +42,16 @@ In its juvenile form (acaulous in the understory), E. wendlandiana is easily con
 
 Nkefor 920). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
+## Figures
+
+![Eremospatha wendlandiana](../sources/Arecaceae_vol53_liteparse/figures/fig_023_p0030.png)
+
+*Plate 10 . Eremospatha wendlandiana : 1. Mature stem. – 2. Leaflets. – 3. Spine-like leaflets. – 4. Fruit and infrutescence. Scale bar : 1 = 6 cm, 2 = 5 cm, 3 = 2 cm, 4 = 2.5 cm. (1-3 : Sunderland 1798 ; 4 :*
+
+![Eremospatha wendlandiana](../sources/Arecaceae_vol53_liteparse/figures/fig_026_p0037.jpeg)
+
+*Figure 2. Eremospatha laurentii (near Bambidie, Lastoursville): A. General habitat, B. Detail of the base of leaves with presence of a knee, or prominent swelling. – Eremospatha cuspidata (Mondah forest): C. General habitat, D. Detail of the cuspidate (pointed) apex of a leaflet. – Eremospatha wendlandiana (Bambidie, Lastoursville): E. Detail of rhomboidal leaves (fishtail-like), F.*
+
 ## Notes
 
 <!-- TODO:notes -->

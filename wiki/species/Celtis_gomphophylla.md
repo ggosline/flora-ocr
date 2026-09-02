@@ -39,6 +39,12 @@ Koritschoner 1574; 7: Wallace 1201). Drawing by Maureen Church (©), reproduced 
 
 bastard white stinkwood, forest celtis (angl.) ; ohia (nom pilote). Bi : Hutchinson et al. (1958), Letouzey (1968), Obeng (2008), Polhill (1966), Sattarian B liographie (2006), Wilmot-Dear (1991)
 
+## Figures
+
+![Celtis gomphophylla](../sources/Ulmaceae_vol58_liteparse/figures/fig_098_p0125.png)
+
+*Plate 33 . Celtis gomphophylla : 1. Flowering branch (× ⅔). – 2. Male flower, one tepal and one stamen removed (× 8). – 3. Idem, with aborted ovary better developed (× 8). – 4. Tepal and stamen (× 12). – 5. Female flower (× 8). – 6. Idem, longitudinal section (× 6). – 7. Fruiting branch (× ⅔). (1-4 : Kakoire 79 ; 5-6 :*
+
 ## Notes
 
 <!-- TODO:notes -->

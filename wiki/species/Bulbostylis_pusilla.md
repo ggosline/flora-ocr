@@ -35,6 +35,12 @@ Tropical Africa, from Mali to Ethiopia and southward, to Angola and Zimbabwe; ve
 
 in grassy zones and savannas, often in disturbed habitats; in Gabon, 0–650 m altitude, up to 2000 m in East Africa. Taxonomic note: Goetghebeur & Coudijzer (1984b) consider this taxon identical to subsp. pusilla, but although these two subspecies are very similar, the latter has more glabrous glumes and a larger achene (0.9–1 × 0.6–0.7 mm). It is also very close to B. congolensis, but differs from it by the non-hairy stems and weakly hairy glumes. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Bulbostylis pusilla](../sources/Cyperaceae_vol44_liteparse/figures/fig_027_p0033.png)
+
+*Planche 15 . Bulbostylis pilosa. A. Plante. – B. Planche 16 . Bulbostylis pusilla subsp. yalingensis.*
+
 ## Notes
 
 <!-- TODO:notes -->

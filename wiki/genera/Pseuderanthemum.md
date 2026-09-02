@@ -35,6 +35,12 @@ Approximately 80 species from tropical regions, and notably Indo-Pacific.
 
 1'. Shrub up to 3 m tall; inflorescences up to 3 cm long; flowers 6–8 or more per node, in very dense fascicles; flowers white; tube 3 cm long, stamens exsert..... 2. P. ludovicianum.
 
+## Key to the species
+
+1. Perennial plant or shrub 20-50 cm tall; inflorescence 10-15 cm long; 1-3 flowers per node; flowers white or pale violet; corolla tube 14 mm long, stamens included .....
+
+1'. Shrub up to 3 m tall; inflorescences up to 3 cm long; flowers 6-8 or more per node, in very dense fascicles; flowers white; tube 3 cm long, stamens exserted..... 2. P. Ludovicianum.
+
 ## Species in region
 
 | Species | Vol | Pages |

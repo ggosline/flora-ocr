@@ -38,6 +38,12 @@ This species is very close to D. xylocarpa from which it is difficult to separat
 
 Phalanx of 5 stamens. – 8. Gynoecium. – 9. Pod. – 10. Transverse section of a pod at maturity (toward mid-height). (1, 3–8: J.J.F.E. de Wilde 8122; 2, 9, 10: Dessein et al. 2426). Drawing by Antonio Fernandez, Meise Botanical Garden (©).
 
+## Figures
+
+![Dalbergia semiapplanata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_057_p0154.png)
+
+*Plate 49: Dalbergia semiapplanata: 1. Flowering branch. – 2. Leaflet, detail of the lower surface. – 3. Flower. – 4. Standard, internal surface. – 5. Wing, external surface. – 6. Petal of the keel, external surface. – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

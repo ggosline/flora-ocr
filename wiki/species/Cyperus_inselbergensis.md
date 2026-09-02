@@ -35,6 +35,14 @@ seasonally wet grasslands and shallow soils of inselbergs; in Gabon, towards 500
 
 Taxonomic note: close to C. triceps (Kyllinga tenuifolia), but distinguished by its simple spherical inflorescence (not compound), its small spikelets 1.7–2 mm long (not 2–2.5 mm), its glumes with scabrous winged keel and the achene 1 mm long (not 1.5 mm). B: Lye (2012c). Bibliography
 
+## Figures
+
+![Cyperus inselbergensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_071_p0091.jpeg)
+
+*Figure 6. Épillet de a) Cyperus densicaespitosus ( Ngok Banak 2015 , Ogooué-Ivindo, Gabon) et akène de b) Cyperus inselbergensis ( J.J. de Wilde 7771 , Cameroun).*
+
+![Cyperus inselbergensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_074_p0093.png)
+
 ## Notes
 
 <!-- TODO:notes -->

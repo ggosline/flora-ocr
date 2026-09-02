@@ -39,6 +39,18 @@ ocean shores, behind beaches, often in marshy sandy soil along tidal basins, lag
 
 Carribean island spikesedge (angl.). Usage : Les tiges sont utilisées pour faire des nattes. Note taxonomique : facilement reconnue par son habitat côtier, son inflorescence en tête sphérique dense et ses épaisses tiges rigides nues. B : Brink (2011b), Hooper & Napper (1972), Nelmes & Baldwin (1952). ibliographie
 
+## Figures
+
+![Cyperus peruvianus](../sources/Cyperaceae_vol44_liteparse/figures/fig_077_p0098.png)
+
+*Planche 59 . Cyperus peruvianus. A. Plante. – B. Planche 60 . Cyperus richardii . A. Plante. – B.*
+
+![Cyperus peruvianus](../sources/Cyperaceae_vol44_liteparse/figures/fig_079_p0099.jpeg)
+
+*Figure 7. Akène de a) Cyperus peruvianus ( Walter & Harris 1573 , Ogooué-Maritime, Gabon) et épillet de b) Cyperus teres ( Le Testu 8937 , Ogooué-Ivindo, Gabon).*
+
+![Cyperus peruvianus](../sources/Cyperaceae_vol44_liteparse/figures/fig_080_p0099.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

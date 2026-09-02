@@ -35,6 +35,16 @@ Primary forests or old secondary forests, in Gabon up to 500 m in altitude, else
 
 3
 
+## Figures
+
+![Afrothismia saingei](../sources/Thismiaceae_vol41_liteparse/figures/fig_042_p0067.png)
+
+*Plate 15. Afrothismia saingei : 1. Plant. – 2. Flower, longitudinal section. – 3. Flower, lateral view. – 4. Style and stigma, apical and lateral view. – 5. Flower, transverse section showing the arrangement of stamens. – 6. Anthers, dorsal, ventral and lateral view. (1–5 : Sainge 1053 ). Drawing by T.*
+
+![Afrothismia saingei](../sources/Thismiaceae_vol41_liteparse/figures/fig_043_p0069.png)
+
+![Afrothismia saingei](../sources/Thismiaceae_vol41_liteparse/figures/fig_044_p0069.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -30,6 +30,12 @@ Native to South America; today widespread throughout the tropics, regularly plan
 
 Often planted in gardens, escaping into fallow land and roadsides. Uses: It is an ornamental plant with some medicinal properties and also used as a firebreak. Vernacular names: tapez de la Guyane (Fr.); common allamanda, golden trumpet vine, yellow allamanda (Engl.). Notes: This plant would be incorrectly identified by Raponda Walker & Sillans as Allamanda nobilis T. Moore. B: B. Eentje (2021), Leeuwenberg & Kupicha (1985), Omino (2002). BIBLIOGRAPHY
 
+## Figures
+
+![Allamanda cathartica](../sources/Apocynaceae_vol59_liteparse/figures/fig_011_p0018.jpeg)
+
+*Figure 1 . Acanthaceae III : A. Flowers. – Allamanda cathartica : B. Flowers ; C. Fruit. – Alstonia boonei : D. Trunk ; E. Leaves ; F. Inflorescence and gynoecium ; G. Flowers. Photos by Bart Würsten ; A. Lomami Rep. Dem. Congo ; Diego Monsores, B.P.10M.G, Rio de Janeiro, Brazil ; Gordon McPherson, C. Rio Caimito, Panama ; Carel Jongkind ; D. Mts Nimba, Guinea and David Harris ; F. Sangha Rep.*
+
 ## Notes
 
 <!-- TODO:notes -->

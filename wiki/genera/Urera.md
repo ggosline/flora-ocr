@@ -26,6 +26,42 @@ Genus with approximately 40 species, distributed in tropical Africa, Madagascar,
 
 70 Ib FRIIS
 
+## Key to the species
+
+1. - Plant with stem creeping on the ground, rarely somewhat lianescent or climbing on
+fallen rocks or trees, if creeping, then always rooting; lamina suborbicular, with base
+deeply cordate, with a sinus of 1–3 cm ........................... U. repens
+- Woody liane, generally climbing in trees, sometimes with axillary roots;
+lamina longer than wide, with base cuneate, rounded, or sometimes slightly cordate, with
+a sinus of less than 1 cm .............................................................................................. 2
+2. - Lamina with margin distinctly entire ................................................................................... 3
+- Lamina with margin crenate, crenulate or serrulate, at least in the upper half ......... 4
+
+---
+
+Urera 71
+3. - Lamina with the basal pair of lateral veins reaching at least two-thirds and
+often three-quarters of the upper lamina, with 1(–2) pair of lateral veins above
+the basal pair; male flower 4-merous ...................................................... U. trinervis
+- Lamina with the basal pair of lateral veins reaching one-half, more rarely two-thirds
+of the upper lamina, with 3 or sometimes 4 pairs of lateral veins above
+the basal pair; male flower 5-merous ...................................................... U. thonneri
+4. - Lamina with margin serrulate, the teeth straight and almost symmetrical, with a
+minuscule mucro at the apex; plant often with dense golden pubescence, tomentose or
+pubescent ................................................................................................ U. flamigniana
+- Lamina with margin crenate, crenulate to subentire (rarely with poorly marked teeth,
+with unequal margins); plant finely pubescent or subglabrous ......................................... 5
+5. - Young branches or scarcely older with numerous dark brownish-purple protuberances
+(which may also be found on the petioles) ......................................................... 6
+- Young branches or scarcely older without protuberances (a few possibly occurring
+on the petioles) ..................................................................................... U. batesii
+6. - Lamina suborbicular to ovate (wider below the middle), with base rounded or
+slightly emarginate to cordate, rarely deeply lobed, with margin crenate to
+obscurely dentate ..................................................................................... U. cordifolia
+- Lamina suborbicular to obovate (wider above the middle), with base rounded to
+slightly emarginate, with margin crenate or crenulate toward the apex or rarely
+subentire ................................................................................................... U. gabonensis
+
 ## Species in region
 
 | Species | Vol | Pages |

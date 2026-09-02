@@ -33,6 +33,14 @@ Plant. – F. Inflorescence. – G. Flower surrounded by its bracts. – H. Ache
 
 Primary or secondary forest, often along rivers and streams; probably only at medium altitude (300–600 m). Taxonomic note: formerly included in M. macrantha, but differs by the head inflorescence with less crowded and more distinct spikes, and also by the shorter spikelet and floral bracts (6–7 mm in M. raynaliana and respectively 9–10 and 8–11 mm in M. macrantha). M. purpuriceps differs by its purplish inflorescence, with larger spikelet and floral bracts. Bibliography b: Simpson (1992).
 
+## Figures
+
+![Mapania raynaliana](../sources/Cyperaceae_vol44_liteparse/figures/fig_157_p0181.png)
+
+*Plate 113. Mapania pynaertii (A-D) and Mapania Plate 114. Mapania raynaliana. A. Plant. – B. scaberrima (E-H). A. Plant. – B. Inflorescence. Inflorescence. – C. Blade margin. – D. Bract – C. Flower, scales separated. – D. Achene. – E. spicoid. – E. Spicoid. Drawing by Christine*
+
+![Mapania raynaliana](../sources/Cyperaceae_vol44_liteparse/figures/fig_158_p0181.png)
+
 ## Notes
 
 <!-- TODO:notes -->

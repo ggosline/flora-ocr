@@ -33,6 +33,12 @@ Chad, Nigeria, Cameroon, Gabon, Central African Republic, Sudan, Democratic Repu
 
 Shrubby formations, open and dry shrubby savannas, and marshy grass formations; in Gabon at 100–600 m altitude, elsewhere up to 1600 m. Uses: The fragrant roots (as with the entire plant) are used as a scented unguent; reduced to powder, they are used against sore throat. The stem bark reduced to powder and the pulpy bark of the roots are used as a topical application for infected wounds. Bibliography: Burkill (1997b), Keay & Taylor (1954), Paiva (1998, 2007), Petit (1958), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Polygala acicularis](../sources/Polygalaceae_vol42_liteparse/figures/fig_036_p0083.png)
+
+*Plate 23. Seeds of various species of Polygala : 1. P. acicularis (× 12). – 2. P. arenaria (× 20). – 3. P. capillaris subsp. capillaris (× 60). – 4. P. ganguelensis (× 20). – 5. P. gilletiana (× 20). – 6. P. lecardii (× 40). – 7. P. welwitschii subsp. pygmaea (× 30). (1 : Le Testu 2929 ; 2 :*
+
 ## Notes
 
 <!-- TODO:notes -->

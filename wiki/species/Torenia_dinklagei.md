@@ -34,6 +34,16 @@ Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Equatorial Guinea (
 
 secondarized places, edges of roads and forest paths in rainforest, granitic inselbergs in forest; in Gabon, at 400–500 m altitude, in the Democratic Republic of the Congo, up to 1000 m. B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Hepper (1963). Bibliography
 
+## Figures
+
+![Torenia dinklagei](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_061_p0143.png)
+
+*Plate 47. Torenia dinklagei: A. Entire plant. – B. Flower. – C. Abaxial stamen. – D. Adaxial stamen. (A–D: Leeuwenberg 4890). Drawing by E. Fischer (©).*
+
+![Torenia dinklagei](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_069_p0155.jpeg)
+
+*Planche 55. A–B. Torenia crustacea . – C–D. Torenia dinklagei . – E–G. Torenia silvicola . – H–K. Arta - nema longifolium . (A–B : photo par E. Fischer; C–D : photo par O. Lachenaud ; E–K : photo par E.*
+
 ## Notes
 
 <!-- TODO:notes -->

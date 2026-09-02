@@ -36,6 +36,12 @@ humid tropical forest, growing on terra firme, in hills, or along rivers and str
 
 R. gabonica is the only Raphia endemic to Gabon. Its very localized distribution in unprotected forests makes it a species at risk of extinction. With R. regalis, it is the only known terra firme species; other Raphia are generally confined to swampy areas or riverbanks. R. gabonica is easily recognizable by the small number of leaves (7 or 8), the absence of spines on the upper surface of the rachis, its solitary stems covered with a network of fine curved fibres, its pendulous inflorescence with its slender flowering branches and its spherical to ovoid fruit, non or slightly rostrate. B: Mogue et al. (2018). Bibliography
 
+## Figures
+
+![Raphia gabonica](../sources/Arecaceae_vol53_liteparse/figures/fig_037_p0057.png)
+
+*Plate 19. Raphia gabonica: 1. Habitat (bar = 1 m). – 2. Details of the trunk, note the weakly curved fibers. – 3. Detail of the inflorescence. – 4. Detail of the base of the inflorescence. – 5. Peduncular bracts. – 6. Partial inflorescence with old flowers. – 7. Detail of the basal part of the flowering branches with old flowers. – 8. Detail of the apical part of the flowering branches with old flowers (bar = 1 cm). – 9. Partial inflorescence with old fruits. – 10. Fruit. – 11. Longitudinal section of the fruit. (1 : Mogue 22 ; 2-11 : Mogue 23 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from Mogue et al. (2018)*
+
 ## Notes
 
 <!-- TODO:notes -->

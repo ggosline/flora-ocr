@@ -34,6 +34,16 @@ sandy beaches, grassy areas on sandy soil, and salt marshes; near sea level only
 
 B. Base of the blade showing the sheath opening. – Base of the plant. – C. Base of the inflorescence. – C. Spikelet. – D. Glume. – E. Flower. – F. Style. – G. D. Spikelet. – E. Glume and flower. Original drawing by Fruit. Original drawing by Richard W. Haines ©. Richard W. Haines ©.
 
+## Figures
+
+![Fimbristylis cymosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_115_p0141.png)
+
+*Planche 89 . Fimbristylis complanata . A. Plante. – Planche 90 . Fimbristylis cymosa . A. Plante. – B.*
+
+![Fimbristylis cymosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_116_p0141.png)
+
+![Fimbristylis cymosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_118_p0142.png)
+
 ## Notes
 
 <!-- TODO:notes -->

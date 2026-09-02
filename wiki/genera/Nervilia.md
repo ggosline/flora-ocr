@@ -54,6 +54,26 @@ The genus comprises approximately sixty species distributed in Africa, Asia and 
 
 2'. Leaf larger and apiculate ..... 1. N. adolphi
 
+## Key to the species
+
+1. Labellum with apical margin fimbriate or crenate ..... 3. N. petraea
+
+1'. Labellum with apical margin entire ..... 2
+
+2. Lower part of labellum pandurate, wider at apex, lateral lobes obtuse ..... 1. N. adolphi
+
+2'. Lower part of labellum oblong-elliptic to lunate-oblong, wider near the middle, lateral lobes acute to auriculiform ..... 2. N. bicarinata
+
+KEY TO SPECIES (by the leaves)
+
+1. Petiole > 10 cm ..... 2. N. bicarinata
+
+1'. Petiole < 6(7) cm ..... 2
+
+2. Leaf very small, width < 2(2.5) cm and without distinct apicule ..... 3. N. petraea
+
+2'. Leaf larger and apiculate ..... 1. N. adolphi
+
 ## Species in region
 
 | Species | Vol | Pages |

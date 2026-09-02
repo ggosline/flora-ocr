@@ -23,6 +23,14 @@ Key to species
 1. - Perennial herb, with whitish-grey spikes ............................................. L. chinensis
 - Annual herb, with dark spikes ...................................................... L. filiformis
 
+## Figures
+
+![Lipocarpha filiformis](../sources/Cyperaceae_vol44_liteparse/figures/fig_136_p0159.jpeg)
+
+![Lipocarpha filiformis](../sources/Cyperaceae_vol44_liteparse/figures/fig_137_p0161.png)
+
+*Planche 105 . Lipocarpha filiformis . A. Plante. – B. Planche 106 . Mapania africana var. africana . A.*
+
 ## Also treated in vol 44
 
 **Pages**: 160-161 · **Source**: `sources/Cyperaceae_vol44_liteparse`

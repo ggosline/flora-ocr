@@ -39,6 +39,27 @@ Bourobou et al. (2016), Dransfield (1986, 2010), Dransfield et al. (2008), Faye 
 
 3. - Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to trapezoidal .......................................................................................... E. wendlandiana
 
+## Key to the species
+
+1. - Leaflets irregularly distributed along the rachis, grouped by 2 or 3
+........................................................................................................... E. quinquecostulata
+- Leaflets regularly distributed along the rachis, solitary ...................................... 2
+2. - Knee clearly present below the petiole insertion ...................................... 3
+- Knee absent .................................................................................................................. 6
+3. - Ochrea V-shaped, splitting longitudinally; leaflets rhomboidal to
+trapezoidal .......................................................................................... E. wendlandiana
+- Ochrea entire, with horizontal or oblique apex ............................................................ 4
+4. - Leaflets fewer than 20 pairs; cirrhus with small spines ........................................... 5
+- Leaflets more than 20 pairs; cirrhus without spines ................................................ E. laurentii
+5. - Leaflets obovate-elliptic; inflorescence glabrous ......................................... E. hookeri
+- Leaflets obovate to suborbicular; inflorescence with dense brown pubescence
+........................................................................................................................... E. cabrae
+6. - Leaflets with apex narrowly and broadly premorse (as if cut with
+teeth) ........................................................................................................................ 7
+- Leaflets with entire, apiculate apex ................................................................. E. cuspidata
+7. - Cirrhus with small spines ............................................................... E. haullevilleana
+- Cirrhus without spines ..................................................................................... E. macrocarpa
+
 ## Species in region
 
 | Species | Vol | Pages |

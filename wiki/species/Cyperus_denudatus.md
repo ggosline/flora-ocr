@@ -35,6 +35,14 @@ in marshes and their margins, along ditches and in other humid habitats; in Gabo
 
 Atypical inflorescences. – D. Base of the peduncle – C. Base of the inflorescences. – D. Part of (ray) showing the prophyll. – E. Spikelet. – F. of the inflorescence. – E. Spikelets. – F. Glume. – G. Flower. Glume. – G. Flower. – H. Young fruit with style and – H. Fruit. Original drawing by Richard W. Haines ©. 3 filaments. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus denudatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_083_p0105.png)
+
+*Planche 63 . Cyperus denudatus . A. Plante. – B, C. Planche 64 . Cyperus difformis . A, B. Plante.*
+
+![Cyperus denudatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_084_p0105.png)
+
 ## Notes
 
 <!-- TODO:notes -->

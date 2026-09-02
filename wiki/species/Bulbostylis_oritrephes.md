@@ -33,6 +33,12 @@ Tropical and subtropical Africa, from Guinea to Kenya and southwards to South Af
 
 on relatively bare ground, in open herbaceous savannas or in disturbed places, often in intensely grazed or trampled habitats; in Gabon, at 0–200 m altitude, up to 2100 m in East Africa. Taxonomic note: distinguished from all other species by its stems with bulbous base, in horizontal rows. It can sometimes be confused with B. filamentosa, but the latter has an achene with fine papillae and without transverse undulations. B : Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Bulbostylis oritrephes](../sources/Cyperaceae_vol44_liteparse/figures/fig_026_p0031.png)
+
+*Plate 14. Bulbostylis oritrephes. A. Plant. – B. Leaf sheath and base of the limb. – C, D.*
+
 ## Notes
 
 <!-- TODO:notes -->

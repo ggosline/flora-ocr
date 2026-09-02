@@ -38,6 +38,12 @@ IL ESSEL
 
 sometimes cultivated by amateurs for ornamental purposes. The only Gabonese specimen is somewhat distinct, and could represent a new taxon. B: Irmscher (1954), Sosef (1994), Thompson & Thompson (1981). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia microsperma](../sources/Begoniaceae_vol39_liteparse/figures/fig_024_p0028.png)
+
+*Plate 9. Begonia microsperma: 1. Flowering plant (× ⅔). – 2. Detail of lower surface of limb (× 4). – 3. Flower ♀ (× 1). – 4. Styles and stigmas (× 4). (1-4: van Veldhuizen 1312, plant cultivated in greenhouse). Drawing by W W, National Herbarium of the Netherlands – Wageningen branch.*
+
 ## Notes
 
 <!-- TODO:notes -->

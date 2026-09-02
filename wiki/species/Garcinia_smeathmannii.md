@@ -39,6 +39,12 @@ primary or secondarized forest, forest galleries, riparian forest, on sandy to c
 
 ipina-vina (ngowé), mpina-vina (nkomi), gbodani, ouropoupati. Note taxonomique : voir aussi sous G. ovalifolia . Cette espèce est également proche de G. staudtii Engl., du Nigéria et du Cameroun, mais qui se distingue facilement de G. smeathmannii par ses feuilles sessiles et cordées à la base . B : Bamps (1970a), Bamps et al. (1978), Hutchinson & Dalziel (1954), Peli B liographie legrin (1959), Robson (1961)
 
+## Figures
+
+![Garcinia smeathmannii](../sources/Clusiaceae_vol45_liteparse/figures/fig_017_p0039.png)
+
+*Plate 8. Garcinia smeathmannii : 1. Flowering branch (× ⅔). – 2. Petiole with fovea (× 2,5). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

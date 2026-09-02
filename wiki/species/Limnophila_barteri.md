@@ -34,6 +34,12 @@ Senegal, Guinea-Bissau, Guinea-Conakry, Mali, Côte d'Ivoire, Burkina Faso, Nige
 
 marshes and small pools; in Gabon, at 100 m elevation, in East Africa, up to 1000 m. B: Fischer (1999), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Bibliography Philcox (1970, 1990)
 
+## Figures
+
+![Limnophila barteri](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_048_p0116.png)
+
+*Plate 34. Limnophila barteri : A. Entire plant. – B. Flower. – C. Opened and spread corolla. – D. Stamen. – E. Gynoecium. (A–E : Milne-Redhead & Taylor 10846 ). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

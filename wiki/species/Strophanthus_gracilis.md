@@ -26,6 +26,12 @@ Letouzey 15094; 2, 6: Brass & Woodward 20832; 3, 4: Krukoff & Letouzey 215; 5: L
 
 Ecology: Coastal and fluvial forest in Gabon and elsewhere up to 800 m altitude. Use: Seeds and wood are used locally as ichthyotoxic and arrow poison. BIBLIOGRAPHY: B: Beentje (1982), Burkill (1985).
 
+## Figures
+
+![Strophanthus gracilis](../sources/Apocynaceae_vol59_liteparse/figures/fig_194_p0224.jpeg)
+
+*Plate 102. Strophanthus gracilis: 1. Flowering branch (×1). – 2. Detail of the blade, lower surface (× 2). – 3. Flower, longitudinal section, lobes partially cut (× 2). – 4. Stamen, dorsal view*
+
 ## Notes
 
 <!-- TODO:notes -->

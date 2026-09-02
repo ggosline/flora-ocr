@@ -42,6 +42,12 @@ liane madame, pois bleu, pois des haies, pois sauvage, pois savane, pois tonnell
 
 Recently recorded in Gabon, very little collected. Bibliography: Botton & Hallé (1958), Fantz (1980), Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1971c), Wilczek (1954)
 
+## Figures
+
+![Clitoria ternatea](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_033_p0085.png)
+
+*Plate 25 : Clitoria falcata : 1. Flowering stem. – 2. Flower. – 3. Pods. – Clitoria ternatea : 4. Flowering stem. – 5. Stipules. – 6. Flower. – 7. Standard, wing and keel. – 8. Stamens and pistil. – 9. Split and closed pod. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodriguez (2005).*
+
 ## Notes
 
 <!-- TODO:notes -->

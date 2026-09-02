@@ -31,6 +31,12 @@ Benin, Cameroon, Gabon; in Gabon collected north of Libreville and at Lastoursvi
 
 in coastal savannas and pond margins, on dry and wet soils; in Gabon at 0–250 m altitude, elsewhere up to 700 m. Taxonomic note: The distinction from the related species, L. sudanica (A.Chev.) Burg, is not obvious and the two could well represent the same species. B : van der Burg (2006), Speta (1998a). Bibliography
 
+## Figures
+
+![Ledebouria camerooniana](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_028_p0033.png)
+
+*Plate 7. Ledebouria camerooniana: A. Plant. – B. Dried bulb, longitudinal section. – C.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ Breteler & Jongkind 10327; D, E: Mcpherson 15094). Drawing by H. de Vries, NCB N
 
 Taxonomic note: I followed Hawthorne & Jongkind (2006) who treat A. strobilacea as a synonym of A. bracteosa. B: Aubréville (1959), Hawthorne & Jongkind (2006), Keay (1958), Pax & Bibliography Hoffmann (1922).
 
+## Figures
+
+![Amanoa bracteosa](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_007_p0012.png)
+
+*Plate 1. Amanoa bracteosa : A. Flowering branch. ‒ B. Inflorescence with male flower and pistil of a female flower. ‒ C. Fruit. ‒ D, E. Seed, lateral and dorsal face. (A, B : Breteler et al . 9661 ; C :*
+
 ## Notes
 
 <!-- TODO:notes -->

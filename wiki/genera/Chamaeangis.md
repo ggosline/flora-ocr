@@ -49,6 +49,17 @@ Genus of approximately 15 known species from tropical Africa, Madagascar and the
 
 4'. Labellum with a callus at the spur throat, spur incurved, 2 flowers at each node ..... 46. 5. Ch. vesicata
 
+## Key to the species
+
+1. Labellum trilobed at the apex ..... 2
+1'. Labellum entire ..... 3
+2. Spur very inflated in the apical half or nearly so, single flower at each node, leaves large, flat ..... 46. 2. Ch. ichneumonea
+2'. Spur generally not inflated, 3 flowers at each node, leaves narrow with revolute margins ..... 46. 1. Ch. gabonensis
+3. Spur not inflated, narrowly cylindric ..... 46. 4. Ch. odoratissima
+3'. Spur distinctly inflated ..... 5
+4. Labellum without callus, spur straight, single flower at each node ..... 46. 3. Ch. lanceolata
+4'. Labellum with a callus at the throat of the spur, spur incurved, 2 flowers at each node ..... 46. 5. Ch. vesicata
+
 ## Species in region
 
 | Species | Vol | Pages |

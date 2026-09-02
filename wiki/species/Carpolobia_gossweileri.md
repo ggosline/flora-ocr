@@ -36,6 +36,12 @@ primary or secondary evergreen forest, forest margins behind mangrove; at 0–65
 
 Flower (× 5). – 7. Corolla and stamens (× 5). – 8. Sepals (× 5). – 9. Pistil (× 5). – 10. Ovary, longitudinal section (× 10). – 11. Fruit (× 2). – 12. Fruit, transverse section (× 2). – 13-14. Seeds (× 2). – 15. Calyx schematic, external view. (1, 5-14: Breteler 6680; 2: Le Testu 8301; 3: Zenker 107; 4: Zenker 1159). Drawing by Ike Zewald, NCB Naturalis (section NHN-Wageningen) (©).
 
+## Figures
+
+![Carpolobia gossweileri](../sources/Polygalaceae_vol42_liteparse/figures/fig_034_p0077.png)
+
+*Plate 21. Carpolobia gossweileri : 1. Flowering and fruiting stem (× ½). – 2. Stem with globular inflorescence (× 1). – 3-4. Leaves, upper view (× ½). – 5. Rachis with bracts and bracteoles (× 5). – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

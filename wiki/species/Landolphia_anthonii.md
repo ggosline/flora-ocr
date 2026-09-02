@@ -26,6 +26,14 @@ Large vine; branchlets smooth and glabrous. Leaf glabrous; petiole 4–6 mm; bla
 
 humid forest, hills, lake margins; at 500–1000 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia anthonii](../sources/Apocynaceae_vol59_liteparse/figures/fig_099_p0112.jpeg)
+
+![Landolphia anthonii](../sources/Apocynaceae_vol59_liteparse/figures/fig_100_p0113.jpeg)
+
+*Plate 46. Landolphia anthonii: 1. Flowering branch (× 1). – 2. Leaf, lower surface (× 1). – 3. Flower (× 1). – 4. Calyx lobe, inner surface. – 5. Bract, lower surface. – 6. Part of open corolla, with stamens. (1-6:*
+
 ## Notes
 
 <!-- TODO:notes -->

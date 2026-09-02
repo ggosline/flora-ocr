@@ -41,6 +41,12 @@ Dehiscent fruit (× 2). – 7. Open fruit showing two horned placentas (× 2). (
 
 Taxonomic note: Floral measurements and character of the pistil are not given, because the characters mentioned were obtained by dissection of floral buds. B: Breteler (1992). Bibliography
 
+## Figures
+
+![Bonamia ngouniensis](../sources/Convolvulaceae_vol46_liteparse/figures/fig_013_p0015.png)
+
+*Plate 3. Bonamia ngouniensis : 1. Flowering branch. – 2. Leaf. – 3. Leaf, detail of the lower surface. – 4. Spread corolla of a bud, outer view. – 5. Spread corolla of a bud, inner view. – 6. Gynoecium in bud. (1–6 : Wieringa et al. 3170 ). Drawing by Hans de Vries, private collection of the author (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

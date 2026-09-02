@@ -38,6 +38,16 @@ E. africanum and typical E. suaveolens do not occur in Gabon. E. suaveolens is p
 
 2'. Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midrib; margins of humid dense forest, forest galleries and dense dry forests ..... E. suaveolens.
 
+## Key to the species
+
+1. Leaflets obtuse or rounded or slightly emarginate at the apex, not acuminate; wooded savannas and open Sudano-Zambezian forests ..... E. africanum.
+
+1'. Leaflets acuminate.
+
+2. Ovate-oblong, ordinarily obtuse at the base; flowers subsessile; petals densely villous externally; humid evergreen and semi-deciduous dense forest ..... E. ivorense.
+
+2'. Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midvein; edges of humid dense forest, forest galleries and dense dry forests ..... E. suaveolens.
+
 ## Species in region
 
 | Species | Vol | Pages |

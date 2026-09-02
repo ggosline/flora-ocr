@@ -33,6 +33,16 @@ widely distributed in tropical Africa, South Africa, Madagascar and South Americ
 
 moist depressions of grasslands and forests, often near streams; in Gabon, at 100–200 m altitude, at 0–1160 m in East Africa. Taxonomic note: recognized by its almost smooth ovoid achenes and its very rudimentary hypogynium. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997), Piérart (1953), Robinson (1966)
 
+## Figures
+
+![Scleria lagoensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_191_p0216.png)
+
+*Plate 133 . Scleria lacustris . A. Lower part Plate 134 . Scleria lagoensis . A. Plant. – B. Base of a plant. – B. Fertile part of plant. – C. of blade and opening of leaf sheath showing*
+
+![Scleria lagoensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_193_p0217.jpeg)
+
+*Figure 27. Akènes de a) Scleria lagoensis ( Sosef 2650 , Nyanga, Gabon) et b) Scleria melaleuca ( Thery 105 , Ogooué-Ivindo, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

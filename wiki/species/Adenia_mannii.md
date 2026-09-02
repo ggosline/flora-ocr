@@ -34,6 +34,16 @@ from Sierra Leone to Ghana and from Cameroon and Gabon to Uganda; very common in
 
 primary and secondary forests, swamp forests, forest galleries; in Gabon and elsewhere, up to 1000 m altitude. Flowers and fruits year-round. b : De Wilde (1971, 1975). Bibliography
 
+## Figures
+
+![Adenia mannii](../sources/Passifloraceae_vol46_liteparse/figures/fig_039_p0064.png)
+
+*Plate 25. Adenia spp. – Schematized leaves : 1. Adenia lobata (2 variants) . – 2. Adenia cynanchiifolia. – 3. Adenia cissampeloides. – 4. Adenia staudtii. – 5. Adenia mannii. – 6. Adenia bequartii subsp. occidentalis. – 7. Adenia poggei. Drawing by W.J. van der Burg.*
+
+![Adenia mannii](../sources/Passifloraceae_vol46_liteparse/figures/fig_043_p0072.png)
+
+*Plate 29. Adenia mannii : 1. Male flowering branch (× ½). – 2. Female flowering branch (× ½). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

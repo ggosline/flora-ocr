@@ -38,6 +38,12 @@ Evergreen rainforest, more rare in semi-deciduous forest; in Gabon, up to 480 m 
 
 dibétou (nom commercial) ; noyer d’Afrique, noyer du Gabon (fr.). B : Aubréville (1959), Nyunaï Nyemb (2008), Staner & Gilbert (1958), ibliographie Styles & White (1991), Voorhoeve (1965), Wilks & Issembé (2000)
 
+## Figures
+
+![Lovoa trichilioides](../sources/Meliaceae_vol47_liteparse/figures/fig_028_p0052.png)
+
+*Plate 14. Lovoa trichilioides : A. Flowering branch (× 0.5). – B. Flower opened (× 4). – C. Fruit (× 1). – D. Seed (× 1). – E. Seedling (× 0.5). – F. Columella (× 1). Drawing by L. van der Riet from Voorhoeve (1965), Naturalis Biodiversity Center, Leiden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

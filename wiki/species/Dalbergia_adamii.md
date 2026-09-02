@@ -55,6 +55,12 @@ Other specimens studied: Breteler et al. 14447 (BR, WAG), Gabon, Gamba, c. 2°42
 
 bracteoles persistent long after flowering, narrowly elliptic to lanceolate, 1–1.5 × 0.3–0.5 mm, pubescent; calyx green or brown, with fairly dense and ± appressed golden-brown hairs, tube 1.7–2 × 1.8–2.5 mm, teeth ± equal, valvate, triangular, acute, 0.5–1 mm long; corolla white, petals with claw equalling or exceeding the calyx, standard sharply bent very obliquely, with claw 1.5–2.3 mm and orbicular limb 3.2–4.5 × 3–4.5 mm, rounded at base and apex scarcely emarginate, wings ± equalling the keel, with claw 2–2.3 mm and ± rectangular limb 3.6–4.5 × 1.5–2 mm, smooth externally, with truncate or shortly auriculate base, keel distinctly curved, with claw 2–2.3 mm and limb 3–4.5 × 1.5–2 mm, with shortly auriculate base; stamens in 2 bundles of 5 (or exceptionally all fused), filaments 5.5–6 mm, fused at ⅔ or at ⅘ of their length, straight at the base and curved in their free part; ovary 2–2.7 × 0.5–0.6 mm, pubescent at least on the upper border, with 2 ovules, with straight stipe 2–3 mm; style linear, 1–1.5 mm, with punctiform stigma. Pod with pedicel 2 mm and stipe 3–4 mm, papyraceous, flattened and ellipsoid, 4.7–7.2 × 1.5–2.6 cm, rounded at both ends, 1-seeded, slightly reticulate over the whole surface, with very dense appressed short hairs when young then fairly sparse at maturity. Seed ellipsoid and flattened, 10 × 6 mm.
 
+## Figures
+
+![Dalbergia adamii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_042_p0114.png)
+
+*Plate 34 : Dalbergia adamii subsp. gabonica : 1. Fruiting branch. – 2. Leaflet, detail of the lower surface. – 3. Flower. – 4. Standard, internal surface. – 5. Wing, internal surface. – 6. Keel petal, internal surface. – 7. Stamens and ovary. – 8. Pod. – 9. Idem, detail of the surface. – Dalbergia adamii subsp. erectipilis : 10. Leaflet, detail of the lower surface (1, 2, 8, 9 : Wieringa et al. 5271 ; 3–7 : Breteler et al. 14447 ; 10 : A.M. Louis 1827 ). Drawing by Antonio Fernandez, Botanical Garden Meise (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

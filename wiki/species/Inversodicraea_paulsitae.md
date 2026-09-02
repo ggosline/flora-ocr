@@ -32,6 +32,12 @@ Gabon and Republic of the Congo; in Gabon, known from the Ngounié
 
 at 350–700 m altitude. B: Cheek et al. (2017), Cusset (1983), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Inversodicraea paulsitae](../sources/Podostemaceae_vol51_liteparse/figures/fig_030_p0034.png)
+
+*Plate 12. Inversodicraea paulsitae. 1. Stem fragment (× 3). – 2. Inflorescent branch (× 14). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

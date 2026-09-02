@@ -29,6 +29,12 @@ Lower glume and upper lemma cuspidate or shortly awned; ligule represented by a 
 
 1'. Spikelets long-awned, 4 to 6 mm long, awn up to 2 cm and more, panicle rather loose; floating grasses from flooded stations ..... E. stagnina.
 
+## Key to the species
+
+1. Spikelets only acuminate or very shortly cuspidate, 3 to 4 mm long, in dense panicles formed of sub-horizontal or slightly erect branches; tall erect grasses with stiff and cutting leaves from marshy stations ..... E. pyramidalis
+
+1'. Spikelets with long awns, 4 to 6 mm long, awn up to 2 cm and more, panicle rather lax; floating grasses from inundated stations ..... E. stagnina.
+
 ## Species in region
 
 | Species | Vol | Pages |

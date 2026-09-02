@@ -46,6 +46,14 @@ as the typical variety. B: Bamps (1966, 1969, 1970). i Bibliography
 
 dufuru (Échira), mèkida (Bakèlè), mekie (Fang), ozuga-zuga (Galoa, Mpongwe). Usage : La sève sert à panser les plaies et ailleurs elle est utilisée, combinée avec de la vase, pour teindre les tissus en bleu. B : Bamps (1966, 1969, 1970), Milne-Redhead (1953), Raponda-Walker & i B liographie Sillans (1961). var. tomentosa Bamps Bull. Jard. Bot. État Bruxelles 36 : 432 (1966). Feuille : limbe atteignant 9 × 6 cm, tomenteux à poils étoilés en dessous, surface inférieure du limbe non visible
 
+## Figures
+
+![Vismia rubescens](../sources/Hypericaceae_vol42_liteparse/figures/fig_022_p0043.png)
+
+*Plate 12. Vismia rubescens var. rubescens: 1. Fruiting branch. – 2. Leaf, detail of the lower surface with glands. – 3. Flower. – 4. Flower, 2 sepals removed. – 5. Fruit. (1–2, 5: Wieringa et al. 5425; 3–4: Niangadouma 374). Drawing by Hans de Vries, NCB Naturalis (NHN section) ©.*
+
+![Vismia rubescens](../sources/Hypericaceae_vol42_liteparse/figures/fig_023_p0046.png)
+
 ## Notes
 
 <!-- TODO:notes -->

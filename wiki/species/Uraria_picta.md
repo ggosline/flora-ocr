@@ -37,6 +37,12 @@ herbaceous and shrubby savannas, ruderal stations, roadsides; in Gabon at 5–35
 
 mbindi (bavungu) ; musaga-mbèndi (bapunu). B : Burkill (1995), Léonard (1954b), Pellegrin (1949), Raponda-Walker & Sillans (1961), i B liographie Verdcourt (1971d, 2000)
 
+## Figures
+
+![Uraria picta](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_133_p0370.png)
+
+*Plate 125 : Uraria picta : 1. Flowering branch (× ⅔). – 2. Branch with young and older inflorescences (× ⅔). – 3. Flower (× 3). – 4. Calyx, open (× 3). – 5. Standard (× 3). – 6. Wing (× 3). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

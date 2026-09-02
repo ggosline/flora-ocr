@@ -40,6 +40,12 @@ This species is very similar to D. rosulata Mwachala & Eb.Fisch., described from
 
 Flower. – 7. Corolla, open, and stamens. – 8. Gynoecium. – 9. Stamen. Drawing by Miss Vesque, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Pellegrin (1938)
 
+## Figures
+
+![Dracaena nyangensis](../sources/Dracaenaceae_vol54_liteparse/figures/fig_043_p0048.png)
+
+*Plate 16. Dracaena nyangensis : 1. Tip of a flowering branch. – 2. Flower. – 3. Gynoecium and cross-section of the ovary. – 4. Stamen. – Dracaena viridiflora : 5. Tip of a flowering branch. – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -28,6 +28,16 @@ Taxonomic note: Syngonanthus can be immediately distinguished from Eriocaulon by
 
 The generic description given above applies only to the African species. In the Americas, the genus is much more diversified, sometimes with an elongate and branched stem, greater variability of the inflorescence and floral morphology. In Africa, Syngonanthus is a critical genus of closely related species, often difficult to separate from one another. Unlike Eriocaulon, the floral structure is very uniform and the delimitation of species is based mainly on small differences in the
 
+## Key to the species
+
+1. - Annuals; scapes 5–15 cm tall; capitula 3.5–4.5 mm wide
+............................................................................................................... S. schlechteri
+- Perennials; scapes 20–40 cm tall; capitula 5–8.5 mm wide .................... 2
+2. - Leaves soft, dull, 0.7–1.4 mm wide; capitula 5–6.3 mm wide;
+involucral bracts acute ................................................................ S. ngoweensis
+- Leaves stiff, weakly shiny, 1.2–2.5 mm wide; capitula
+(5.5–)6–8.5 mm wide; involucral bracts obtuse .................................. S. poggeanus
+
 ## Species in region
 
 | Species | Vol | Pages |

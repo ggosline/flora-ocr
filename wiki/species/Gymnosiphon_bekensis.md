@@ -35,6 +35,14 @@ Wieringa 273; 2: Wieringa 5636; 3, 4: A.M. Louis 1292). Drawing by Anita Walsmit
 
 primary forests; in Gabon at approximately 700 m altitude. Taxonomic notes: Gymnosiphon bekensis is characterized by a very long perianth tube (12–13 mm) compared to the two other Gabonese species (tube 1–5 mm), and by stigmas without filiform appendages. In the species description by Letouzey (1967), the inner lobes are not mentioned, whereas they are present in all other species of the genus. Nevertheless, we have identified their presence without any doubt in van der Burgt et al. 1274 (WAG) from Guinea-Conakry. B: Cheek (2004), Letouzey (1967), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Gymnosiphon bekensis](../sources/Burmanniaceae_vol41_liteparse/figures/fig_012_p0023.png)
+
+*Plate 4. Gymnosiphon bekensis : 1. Plant with flower and fruits (× 2). – 2. Perianth and stamens, view from above (× 3). – 3. Stamen (× 16). – 4. Gynoecium with opened ovary (× 10). – 5. Fruiting plant (× 2). – 6. Fruit (× 8). – 7. Seed (× 60). (1, 2 : N. Hallé 4002 ; 3–7 : Tisserant 2050 ). Drawing by Hélène Lamourdedieu, reproduced with permission, © Scientific Publications of the National Museum of Natural History, Paris, from Letouzey (1967) l.c.*
+
+![Gymnosiphon bekensis](../sources/Burmanniaceae_vol41_liteparse/figures/fig_014_p0025.png)
+
 ## Notes
 
 <!-- TODO:notes -->

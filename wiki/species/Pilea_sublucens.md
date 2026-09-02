@@ -46,6 +46,12 @@ Letouzey (1968) distinguished specimens with an elliptic blade (widest in the mi
 
 mbongo (bakota). B : Keay (1958), Letouzey (1968), Friis (1989a, 1989c), Lebrun & Stork (2010). i B liographie
 
+## Figures
+
+![Pilea sublucens](../sources/Urticaceae_vol51_liteparse/figures/fig_046_p0071.png)
+
+*Plate 27. Pilea sublucens: 1. Flowering and fruiting plant (× ⅔). – 2. Base of blade, lower surface (× 4). – 3. Detail of lower surface of blade, near the apex (× 4). – 4. Idem, upper surface (× 4). – 5. Male flower before pollen dispersal (× 20). – 6. Female flower (× 28). – 7. Fruit, before achene expulsion (× 20). – 8. Fruit, after achene expulsion (× 20). – 9, 10. Leaf blades (× ⅔). (1–8:*
+
 ## Notes
 
 <!-- TODO:notes -->

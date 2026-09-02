@@ -36,6 +36,12 @@ understory of primary and secondary forest; in Gabon, below 100 m altitude. Note
 
 Juliet Williamson, Naturalis Biodiversity Center (©), reproduced from Leeuwenberg (1985).
 
+## Figures
+
+![Voacanga psilocalyx](../sources/Apocynaceae_vol59_liteparse/figures/fig_245_p0272.jpeg)
+
+*Plate 125 : Voacanga psilocalyx : 1. Flowering branch (× ⅔). – 2. Calyx open, with colleters (× 2). – 3. Flower, calyx removed (× 1). – 4, 5. Corolla lobes (× 2). – 6. Open corolla, with stamens (× 3). – 7. Pistil (× 3). – 8. Head of the pistil (× 6). (1-4, 6-8 : van Meer 1265 ; 5 : Leeuwenberg 5571 ). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

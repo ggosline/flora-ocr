@@ -19,6 +19,14 @@ tags: [species, generated]
 
 *No descriptive text was segmented for this species.*
 
+## Figures
+
+![Afrotrilepis pilosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_009_p0013.jpeg)
+
+![Afrotrilepis pilosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_010_p0014.png)
+
+*Planche 2 . Afrotrilepis pilosa. A. Plante. – B. Partie de l’inflorescence. – C. Épillet avec pédoncule. – D.*
+
 ## Also treated in vol 44
 
 **Pages**: 13-15 · **Source**: `sources/Cyperaceae_vol44_liteparse`

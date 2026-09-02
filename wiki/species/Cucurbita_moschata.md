@@ -49,7 +49,7 @@ Grubben & Chigumira Ngwerume (2004), Keraudren (1967), Keraudren-Aymonin (1975)
 
 ![Cucurbita moschata](../sources/Cucurbitaceae_vol57_paddle/figures/fig_048_p0068.png)
 
-*Planche 20. Cucurbita moschata : 1. Tige à fleur mâle. – 2. Fleur femelle. – 3. Style et stigmate. – 4. Étamines. – 5, 6. Fruits. – 7. Graine. Dessin par Zhang Ronghou & Wu Zhanghua, Science Press & Missouri Botanical Garden (©), reproduit avec permission à partir de Lu Anmin et al. (2012).*
+*Plate 20. Cucurbita moschata : 1. Stem with male flower. – 2. Female flower. – 3. Style and stigma. – 4. Stamens. – 5, 6. Fruits. – 7. Seed. Drawing by Zhang Ronghou & Wu Zhanghua, Science Press & Missouri Botanical Garden (©), reproduced with permission from Lu Anmin et al. (2012).*
 
 ## Notes
 

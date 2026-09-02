@@ -40,6 +40,12 @@ bukó-bwa-limanga (bavili) ; dikakadundu (masungu) ; dikububu (éshira) ; ditsó
 
 see under P. acaulis. B: Faye et al. (2016), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008)
 
+## Figures
+
+![Podococcus barteri](../sources/Arecaceae_vol53_liteparse/figures/fig_036_p0054.png)
+
+*Plate 18. Podococcus barteri : 1. Habit and stolon. – 2. Apex of a leaf. – 3. Detail of the indumentum on the lower surface of the leaflet. – 4. Female flower. – 5. Fruits. (1 (habit), 3, 5: van Valkenburg 3236; 1 (stolon): Moore 9900; 4: Bos 2995). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced with permission from van Valkenburg & Sunderland (2008).*
+
 ## Notes
 
 <!-- TODO:notes -->

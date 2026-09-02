@@ -33,6 +33,12 @@ scattered in tropical Africa; uncommon in Gabon, found in Haut-Ogooué, Ngounié
 
 marshes and river banks, also on the margins of running water; in Gabon, at 100–600 m altitude, up to 1100 m in East Africa. Taxonomic note: recognized by its whitish capitate inflorescences, its filiform leaves and its stems swollen at the base and covered by the fibrous remains of old sheaths. The typical variety has a darker brown inflorescence. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus fibrillosus](../sources/Cyperaceae_vol44_liteparse/figures/fig_093_p0115.png)
+
+*Planche 71 . Cyperus fibrillosus var. scaettae . A. Planche 72 . Cyperus flavescens . A. Plante. – B, C.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -41,6 +41,14 @@ abalé (Fr.) ; essia (nom pilote). abing (Fang), mbindji (Mpongwé), mbindju (Es
 
 3 3 3
 
+## Figures
+
+![Petersianthus macrocarpus](../sources/Lecythidaceae_vol42_liteparse/figures/fig_026_p0058.png)
+
+*Plate 15. Petersianthus macrocarpus : 1. Flowering branch (× ½). – 2. Floral bud (× 3). – 3.*
+
+![Petersianthus macrocarpus](../sources/Lecythidaceae_vol42_liteparse/figures/fig_027_p0060.png)
+
 ## Notes
 
 <!-- TODO:notes -->

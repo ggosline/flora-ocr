@@ -44,6 +44,12 @@ wet open forest and wooded savanna, in clearings of lowland evergreen forest, so
 
 Léandri (1965) cited two varieties of P. guineensis for Madagascar and the Comores. Wilmot-Dear & Friis (2006) reduced P. guineensis var. madagascariensis Wedd. in DC. (1869) to a synonym of P. boiviniana (Blume) Wedd. (1857) and P. guineensis var. seyrigii Léandri (1965) to a synonym of P. weddellii Léandri (1951). After this taxonomic clarification, P. guineensis is restricted to continental Africa. P. guineensis is highly variable, from slender annuals to robust shrublets, the first form was originally called P. abyssinica and the second, P. guineensis. But the two rather occur together over their range, from west to east Africa, with the "P. abyssinica" form in wooded savannas and the "P. guineensis" form along forest edges and in forest clearings. There are intermediate forms that are common particularly in the central part of the
 
+## Figures
+
+![Pouzolzia guineensis](../sources/Urticaceae_vol51_liteparse/figures/fig_047_p0075.png)
+
+*Plate 28. Pouzolzia guineensis, form "guineensis": 1. Flowering and fruiting stem (× ⅔). – 2. Stipule (× 6). – 3. Male floral bud (× 14). – 4. Glomérule of female flowers, with some fruits, surrounded by bracts (× 8). – 5. Bract of female inflorescence; above: upper surface, below: lower surface, view from ¾ profile (× 6). – 6. Young female flower (× 14). – 7. Fruiting perianth with two lateral wings and surrounding the achene (× 10). – 8. Fruiting perianth without wings (× 10). – 9. Achene (× 10). – Form "abyssinica": 10. Flowering and fruiting branches (× ⅔). – 11. Stipule (× 6). – 12. Fruiting perianth (× 10). (1–9: Letouzey 8160; 10–12: Letouzey 6615). Drawing by Hélène Lamourdedieu, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

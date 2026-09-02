@@ -32,6 +32,12 @@ endemic to Gabon, limited to the Monts de Cristal and the Chaillu Massif
 
 on half-shaded rocky slopes between 350 m and 800 m altitude. B: Irmscher (1925). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia aspleniifolia](../sources/Begoniaceae_vol39_liteparse/figures/fig_017_p0014.png)
+
+*Plate 2. Begonia aspleniifolia: 1. Fruiting branch and rooting base (× ¾). – 2. Stipule (× 2). – 3. Upper tepal of male flower (× 6). – 4. Androecium (anthers 0.8 mm). – 5. Styles and stigmas (3.2 mm long). – 6. Ripe fruit (6.5 mm wide). – 7. Seed (0.3 mm long). (1-7 : N. Hallé 2421 ). Drawing by N H and reproduced with his permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

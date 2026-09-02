@@ -31,6 +31,11 @@ A. altilis (Breadfruit tree) and A. heterophyllus (Jackfruit tree) are cultivate
 
 1'. Cauliflorous trees; leaves entire ..... 2. A. heterophyllus.
 
+## Key to the species
+
+1. Trees ramiflorous; leaves lobed ..... 1. A. altilis.
+1'. Trees cauliflorous; leaves entire ..... 2. A. heterophyllus.
+
 ## Species in region
 
 | Species | Vol | Pages |

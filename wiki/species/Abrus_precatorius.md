@@ -41,6 +41,12 @@ herbe à beau-père, liane-réglisse, oeil de serpent, pois de Bedeau, sucre-suc
 
 Pistil (× 10). – 9. Stigma (× 50). – 10. Infructescence (× ½). – 11. Seed (× 2). (After living material at Wageningen). Drawing by Ike Zewald, Naturalis Biodiversity Center (©).
 
+## Figures
+
+![Abrus precatorius](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_010_p0022.png)
+
+*Plate 2: Abrus precatorius: 1. Young stem (× ½). – 2. Leaflet, lower surface (× 2). – 3. Inflorescence (× ½). – 4. Petals (× 2). – 5. Flower, petals removed (× 3). – 6. Stamens (× 3). –7. Anther (× 15). –8.*
+
 ## Notes
 
 <!-- TODO:notes -->

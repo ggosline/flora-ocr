@@ -38,6 +38,12 @@ Cameroon, Equatorial Guinea, Gabon and Democratic Republic of the Congo; in Gabo
 
 primary and secondarized forest; in Gabon, at 350–600 m altitude. Bibliography: Lachenaud & Breteler (2011), Léonard (1994).
 
+## Figures
+
+![Maesobotrya pauciflora](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_021_p0052.png)
+
+*Plate 15. Maesobotrya pauciflora : A. Branch with male inflorescences. ‒ B. Male inflorescence. ‒ C. Male flower. ‒ D. Female inflorescence. ‒ E. Fruits. ‒ F. Dehiscent fruit. (A ‒ C : Bissiengou et al. 892 ; D, F : Bissiengou et al. 891 ; E : Breteler 15390 ). Drawing by H. de Vries, NCB*
+
 ## Notes
 
 <!-- TODO:notes -->

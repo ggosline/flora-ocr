@@ -37,6 +37,12 @@ maritime sands, wooded and herbaceous savannas, ruderal stations, roadsides, ver
 
 Nigerian stylo (angl.). B : Botton & Hallé (1958), Burkill (1995), Léonard (1954b), Lewis et al. (2005), Mohleni B liographie brock (1957), Pellegrin (1949), Raponda-Walker & Sillans (1961), Vercourt (1971e)
 
+## Figures
+
+![Stylosanthes erecta](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_127_p0354.png)
+
+*Plate 119: Stylosanthes erecta: 1. Leaf with stipules (× 2½). – 2. Floral bud with primary and secondary bracts, bracteoles and plumose axis (× 5). – 3. Flower, longitudinal section, perianth removed except half of the standard (× 5). – 4. Calyx, spread out (× 5). – 5. Wing, external face (× 5). – 6. Wing, internal face with appendage (× 5). – 7. Half-keel, external face with pouch entrance (× 5). – 8. Half-keel, base of the internal face with pouch (× 5). – 9. Pod with primary and secondary bracts and one bracteole (× 5). (1–9: Schouteden 27). Drawing by G. Esperant, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

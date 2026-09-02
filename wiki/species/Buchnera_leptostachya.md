@@ -32,6 +32,12 @@ Senegal, Gambia, Mali, Guinea-Bissau, Sierra Leone, Ghana, Nigeria, Cameroon, Ga
 
 marshes and humid savannas; in Gabon, up to 170 m in altitude, elsewhere, up to 2100 m. Taxonomic note: Recorded here for the first time in Gabon. B: Ghazanfar et al. (2008), Hepper (1963), Philcox (1990). ibliography
 
+## Figures
+
+![Buchnera leptostachya](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

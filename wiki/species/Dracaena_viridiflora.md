@@ -33,6 +33,12 @@ Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democ
 
 Rather open and dry forest, also in dwarf forest and along river margins; in Gabon at 0–1000 m altitude, elsewhere at 0–2000 m. Flowering recorded in February, May, August and September. Bibliography: Bos (1984), Damen et al. (2018), Figueiredo & Smith (2008), Hepper (1968), Mwachala (2005), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena viridiflora](../sources/Dracaenaceae_vol54_liteparse/figures/fig_043_p0048.png)
+
+*Plate 16. Dracaena nyangensis : 1. Tip of a flowering branch. – 2. Flower. – 3. Gynoecium and cross-section of the ovary. – 4. Stamen. – Dracaena viridiflora : 5. Tip of a flowering branch. – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

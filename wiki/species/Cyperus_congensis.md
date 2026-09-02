@@ -32,6 +32,12 @@ widely distributed in West and Central Africa, from Senegal to Gabon and the Dem
 
 in seasonally humid habitats such as grassy savannas and river margins; in Gabon, at 0–100 m altitude, up to 1600 m elsewhere. Taxonomic note: is identified by its narrow spikelets with very spaced flowers. B: Haines & Lye (1983), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus congensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_035_p0049.png)
+
+*Planche 23 . Cyperus compressus. A. Plante. – B, Planche 24 . Cyperus congensis. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

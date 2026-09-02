@@ -19,6 +19,12 @@ tags: [species, generated]
 
 Monelasmum plicatum Tiegh., J. Bot. (Morot) 16: 202 (June 1902). Ouratea pseudospicata Gilg, Bot. Jahrb. Syst. 33: 263 (March 1903). Ouratea gymnoura Gilg & Mildbr., Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot. 6: 559 (1913). Ouratea goossensii De Wild., Pl. Bequaert. 4: 476 (1929).
 
+## Figures
+
+![Campylospermum plicatum](../sources/Ochnaceae_vol48_liteparse/figures/fig_029_p0064.png)
+
+*Plate 17. Campylospermum plicatum : 1. Flowering branch. – 2. Sterile branch. – 3. Drupe, longitudinal section. – 4. Incumbent cotyledon. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

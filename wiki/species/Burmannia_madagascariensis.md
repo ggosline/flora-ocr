@@ -32,6 +32,12 @@ Species with wide distribution, known from all tropical regions of Africa and Ma
 
 Common in humid or marshy savannas, open mangroves, on inselbergs, on sandy to clayey or even rocky soil; in Gabon up to 750 m altitude, elsewhere up to 1600 m. Taxonomic notes: Morphologically, Burmannia madagascariensis closely resembles B. bicolor Mart., a species common in the savanna regions of tropical America, but according to Merckx (2008), there are differences at the molecular level. B. madagascariensis has almost always been attributed to Martius (1823), but who published the name without description. Baker (1883), being the first to give such a description and having not included a reference to Martius (1823), is therefore formally the author. Bibliography: Jonker (1938), Geerinck (1970), Merckx (2008), Perrier de la Bâthie (1946)
 
+## Figures
+
+![Burmannia madagascariensis](../sources/Burmanniaceae_vol41_liteparse/figures/fig_010_p0019.png)
+
+*Plate 2. Burmannia madagascariensis : 1, 2. Plants (× 0.75). – 3. Plant with pauciflore inflorescence (× 1). – 4. Flower (× 4). – 5. Flower, longitudinal section (× 4). – 6. Stamen (× 30). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

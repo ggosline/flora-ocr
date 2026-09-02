@@ -42,6 +42,12 @@ cocotier (fr.) ; coconut (angl.) ; gékadi-sa-gékamba (mitsogo) ; gékadi-sa mi
 
 C. nucifera is a very widely distributed species used throughout the tropics. Studies on the genetic diversity of this species suggest two centres of domestication: one in the islands of the Pacific Ocean and another in the islands of the Indian Ocean. It is therefore introduced, but naturalized in Gabon. B: Dransfield (2010), Dransfield et al. (2008), Gunn et al. (2011), Harries (1978), Rapondai Bibliography Walker & Sillans (1961), Stauffer et al. (2014), Vossen & Chipungahelo (2007)
 
+## Figures
+
+![Cocos nucifera](../sources/Arecaceae_vol53_liteparse/figures/fig_015_p0014.png)
+
+*Plate 2. Cocos nucifera: 1. Habit. – 2. Inflorescence. – 3. Fruiting inflorescence. Drawing by Dominique Troupin, General Agency for Cooperation and Development of Belgium (©), reproduced with permission from Raemakers (2001).*
+
 ## Notes
 
 <!-- TODO:notes -->

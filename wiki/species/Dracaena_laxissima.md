@@ -40,6 +40,12 @@ Understory, humid places, often along water margins and in mangrove; in Gabon at
 
 In the Democratic Republic of the Congo and Tanzania a form with white or yellowish bands irregularly undulate along the transverse veins of the leaves has been observed (D. laxissima forma aureilicia Wiland & Q.Luke). It could also be present in Gabon. B: Baker (1898), Bos (1984), Damen et al. (2018), Hepper (1968), La Croix (2010), Marquet (1987), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena laxissima](../sources/Dracaenaceae_vol54_liteparse/figures/fig_031_p0040.png)
+
+*Plate 14. Dracaena laxissima : 1. Apex of a flowering branch. Drawing by Wil Wessel-Brand,*
+
 ## Notes
 
 <!-- TODO:notes -->

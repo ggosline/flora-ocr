@@ -46,6 +46,12 @@ Uses: Used as green manure and cover crop. b: Ern (1984), Hepper (1958), van der
 
 dipinda dimoukouyi (arachide des mauvais esprits ?) (yinzebi) ; ipinda sabambo (arachide des mauvais esprits) (omyène) ; obumen zeney (fang). b : Ern (1984) ; De la Estrella et al. (2010), Hepper (1958), Mackinder et al. (2001), van ibliographie der Maesen (2006a), Raponda-Walker & Sillans (1961), Schubert (1971), Setyowati-Indarto & Brink (1999a), Towns & van Andel (2014), Vande weghe (2006). var. robustum Schubert Bull. Jard. Bot. État Bruxelles 22 : 290 (1952). Diffère de la var. adscendens par les folioles à limbe plus épais, souvent plus grand, glabre dessus, et les bractées densément apprimés-poilues
 
+## Figures
+
+![Desmodium adscendens](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_062_p0167.png)
+
+*Plate 54 : Desmodium adscendens var. adscendens : 1. Habit. – 2. Pod. Drawing by P. Verheij-Hayes,*
+
 ## Notes
 
 <!-- TODO:notes -->

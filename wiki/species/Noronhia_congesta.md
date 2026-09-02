@@ -38,6 +38,12 @@ Understory of primary or secondarized forest, limestone cliff, coastal forest, r
 
 This species is by far the most common of Noronhia in Gabon. Stearn (1980) had reduced N. congesta as a subspecies of N. mannii, stating that the characters overlapped. In our view, he had reached this conclusion because he had included in his concept of N. mannii specimens from other species; N. mannii s.s. and N. congesta are well distinct. B: Liben (1973), Stearn (1980). Bibliography
 
+## Figures
+
+![Noronhia congesta](../sources/Oleaceae_vol51_liteparse/figures/fig_023_p0021.png)
+
+*Plate 6. Noronhia congesta : 1. Flowering branch (× ½). – 2. Flower (× 3). – C. Fruits (× 1). (1 : Evrard 4484 ; B : Louis 13278 ; C : Compère 1672 ). Drawing by D. Leyniers, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

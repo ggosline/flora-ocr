@@ -37,6 +37,12 @@ herbaceous swamps, flooded savannas, rice fields; in Gabon at 100 m altitude, el
 
 The absence of staminodes led Chevalier to describe this species in a separate genus, Baoulia A.Chev. However, this genus was placed in synonymy with Murdannia by Brenan (1952) and the current name is widely accepted. The habit of the plant resembles that of a Poaceae and in the sterile state it is sometimes confused with a species of this family. Bibliography: Brenan (1952, 1968b), Brunel et al. (1984), van der Burg (2006), Faden (2012), Vanden Berghen (1988).
 
+## Figures
+
+![Murdannia tenuissima](../sources/Commelinaceae_vol55_liteparse/figures/fig_026_p0045.png)
+
+*Plate 10 . Murdannia tenuissima : 1. Base of the plant (× ½). – 2. Upper part of the stem, with inflorescences (× ½). – 3. Flower (× 4). – 4. Fruit (× 4½). – 5. Seed, showing the embryotega (× 10). Drawing by S.K. Avumatsodo, Ghana, reproduced from Morton (1967).*
+
 ## Notes
 
 <!-- TODO:notes -->

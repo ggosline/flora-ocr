@@ -42,6 +42,12 @@ In Gabon, almost always in secondary and sterile forest; elsewhere with a broade
 
 The species appears close to U. batesii, U. cordifolia and U. gabonensis, but has more pronounced margin teeth on the blade, is more pubescent and appears generally devoid of dark brown protuberances on young stems, whereas these are prominent in U. cordifolia and U. gabonensis. In Gabon, it is known only from two localities, represented by four collections, generally sterile and the identity of three of them is somewhat doubtful. Bi: Hauman (1948b), Lambinon (1959), Lebrun & Stork (2010), Letouzey (1968). Bibliography
 
+## Figures
+
+![Urera flamigniana](../sources/Urticaceae_vol51_liteparse/figures/fig_050_p0083.png)
+
+*Plate 31. Urera flamigniana : 1. Young shoot (× ½). – 2. Top of an older stem (± × ½). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

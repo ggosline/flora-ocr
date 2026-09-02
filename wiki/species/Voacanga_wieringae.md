@@ -48,6 +48,22 @@ BURKILL H.M. 1985. The useful plants of West tropical Africa, vol. 1, families A
 
 LEEUWENBERG A.J.M. & BJERKLAND M. 1988. Clitandra Benth. and Chamaeclitandra (Stapf) Pichon. Series of revisions of Apocynaceae XXV, Bull. Jard. Bot. Natl. Belg. 58 : 159–168. LEEUWENBERG A.J.M. 1989. Saba (Pichon) Pichon. Series of revisions of Apocynaceae XXVI, Bull. Jard. Bot. Natl. Belg. 59 : 189–206. LEEUWENBERG A.J.M. & UPICHA F.K. 1985. Apocynaceae. In LAUNERT E. (ed.), Flora Zambesiaca 7(2) : 395–)ORUD=DPEHVLDFD0DQDJLQJ&RPPLWWHH/RQGRQ LEMMENS R.H.M.J. 2012. Pleiocarpa pycnantha (K.Schum.) Stapf. In LOUPPE O., OTENG-AMOAKO A.A. & BRINK M. (eds), Plant resources of tropical Africa 7. Timber 1 : 511–512. PROTA Foundation, Backhuys Publishers, CTA, Wageningen.
 
+## Figures
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_247_p0274.jpeg)
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_248_p0274.jpeg)
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_249_p0274.jpeg)
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_250_p0274.jpeg)
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_251_p0274.jpeg)
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_252_p0274.jpeg)
+
+![Voacanga wieringae](../sources/Apocynaceae_vol59_liteparse/figures/fig_253_p0274.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -24,6 +24,12 @@ Large liana; branchlets lenticellate, glabrous. Leaf glabrous; petiole 5–17 mm
 
 The difference between this species and L. ligustrifolia (see the key) is not evident and encompasses only a few foliar characters. Uniting the two seems not to be the solution. Supplementary research is necessary to see if more than two species are involved here. B: Beentje (2021), Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia violacea](../sources/Apocynaceae_vol59_liteparse/figures/fig_140_p0160.jpeg)
+
+*Planche 72 . Landolphia violacea : 5DPHDXÀRULIqUHîҀDYHFGpWDLOGXOLPEHIROLDLUHIDFHLQIpULHXUH î±3DUWLHG¶XQUDPHDXOHQWLFHOOpîҀ±)OHXUFRXSHORQJLWXGLQDOHî±&DOLFHî± 3LVWLOî±eWDPLQHYXHVGRUVDOHHWYHQWUDOHî±)UXLWîҀ±,GHPFRXSHORQJLWXGLQDOH îҀ±*UDLQHFRXSHORQJLWXGLQDOHPRQWUDQWO¶HPEU\RQîҀ Le Testu 5965 ; 2 : Seret 1011 ; 3, 5-7 : Le Testu 7101 ; 4 : Donis 2160 ; 8-10 : Germain 5129 ). Dessin par Wil Wessel-Brand, Naturalis*
+
 ## Notes
 
 <!-- TODO:notes -->

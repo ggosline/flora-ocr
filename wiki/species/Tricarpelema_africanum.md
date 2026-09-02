@@ -40,6 +40,12 @@ inselbergs in forest, from full sun to shade, shallow soil, rocky slabs and clif
 
 Outside of Gabon blue, mauve, pale violet or white flowers have also been observed. Although reproductive characteristics place this species in this principally Asian genus, its very distinctive vegetative morphology and ecology led to its placement in a separate subgenus, subgen. Keatingia Faden. Its generic placement has not yet been confirmed by molecular studies due to lack of material of Asian species. Bi: Cabezas et al. (2014), Faden (2007), Parmentier et al. (2001), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Tricarpelema africanum](../sources/Commelinaceae_vol55_liteparse/figures/fig_047_p0093.png)
+
+*Plate 28. Tricarpelema africanum: 1. General aspect. – 2. Cincinnus. – 3. Bisexual flower, front view. – 4. Idem, lateral view. – 5. Upper stamen. – 6. Lower stamen. – 7. Dehiscent fruit, one sepal removed. – 8. Terminal seed, dorsal view showing the embryotega. – 9. Idem, ventral view showing the hilum. – 10. Median seed, dorsal view. – 11. Idem, ventral view. (cultivated plant of Parmentier &*
+
 ## Notes
 
 <!-- TODO:notes -->

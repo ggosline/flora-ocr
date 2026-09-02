@@ -41,6 +41,16 @@ In a great diversity of habitats, from forests and forest margins to clearings, 
 
 This species combines significant morphological variability with a very wide distribution range and its circumscription has been the subject of contradictory hypotheses (see Vorontsova & Knapp 2016 for the complete list). It was long known under the name 'Solanum indicum L.' in African Floras (Heine 1963), a name also used to designate the Asian species S. violaceum Ortega as well as other morphologically similar taxa and which has since been rejected (Hepper 1978). Comparative and phylogenetic analyses have also shown that S. anguivi and S. violaceum form two distinct entities (Aubriot et al. 2016, 2018, Vorontsova et al. 2013). S. anguivi is the progenitor species of the African eggplant, S. aethiopicum, which is cultivated throughout tropical Africa (cf. above). Bibliography: Heine (1963), Schippers (2000), Vorontsova & Knapp (2016).
 
+## Figures
+
+![Solanum anguivi](../sources/Solanaceae_vol55_liteparse/figures/fig_054_p0108.jpeg)
+
+*Figure 7. Physalis angulata (Moyen-Ogooué, Gabon, Bidault et al. 1934 ) : A. General aspect and fruiting calyx, B. Flower. – Physalis peruviana (La Paz, Bolivia, Maldonado et al. 3081 ) : C. General aspect and flower. – Schwenckia americana (Ogooué-Maritime, Gabon, Bidault & Ikabanga 1707): D. Flower, E. Fruit. – Solanum terminale (Ogooué-Ivindo, Gabon, Bidault et al. 4488 ) : F. Inflorescence, G. Fructification. – Solanum aculeatissimum (Estuaire, Gabon, Bidault et al. 3627 ) : H. Inflorescence. – Solanum americanum (Ica, Pérou, Knapp s.n. ) : I. Inflorescence. – Solanum anguivi (Ngong, Kenya, Vorontsova et al. 100 ) : J. Inflorescence. – Solanum anomalum (Ogooué-Ivindo, Gabon, Texier 2255 ) : K. Fructifications. – Solanum dasyphyllum (Tegetero, Tanzania, Vorontsova et al. 151 ) : L. Inflorescence. – Solanum torvum (Nzérékoré, Guinea, Bidault & Diabaté 668 ) : M. Flower. (Photos A, B, D-H, M by Ehoarn Bidault (CC-*
+
+![Solanum anguivi](../sources/Solanaceae_vol55_liteparse/figures/fig_060_p0121.png)
+
+*Plate 37 . Solanum anguivi : 1. Fruiting stem of the most common form. – 2. Flowering stem of an unarmed form, with subentire leaves and few flowers. – 3. Flowering stem of a form with deeply lobed leaves and branched inflorescence. – 4. Fruiting stem of a form with pubescent leaves and branched inflorescence. – 5. Fruiting stem with large curved prickles. – 6. Sessile erect stellate hair on the lower surface of the blade. – 7. Idem, erect stellate stipitate hair. Scale bar: 4 cm (1–5), 0.5 cm (6–7). (1, 6 : Semsei 4149 ; 2, 7 : Bally 5097 ; 3 : Richards 8475 ; 4 : Faden 68/514 ; 5 : Kerfoot 4721 ). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

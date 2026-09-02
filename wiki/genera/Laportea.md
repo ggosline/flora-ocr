@@ -25,6 +25,37 @@ Notes: Chew (1965) united the genera Laportea and Fleurya within Laportea with s
 
 L. mooreana (Hiern) Chew (1965) of sect. Fleurya is found in Cameroon, in the Republic of the Congo, in Angola and elsewhere in Africa, but is principally localized in humid stations of the Sudano-Zambezian regions; it could be present in Gabon. L. interrupta (L.) Chew (1965), of the same section, is a rather ruderal species associated with unstable habitats; common in tropical Africa, Asia and Oceania, it is known from Cameroon and could be encountered in Gabon, in
 
+## Key to the species
+
+1. - Leaf blade broadly ovate to triangular, with truncate base, margin with 8 to 10
+large triangular teeth on each side; entire plant covered with stinging and burning hairs,
+on the petioles and sometimes also the stems, these hairs borne on a multicellular
+protuberance reaching up to 1 mm in length
+............................................................................................... L. mooreana (Hiern) Chew
+- Leaf blade elliptic to ovate, sometimes notably widened in the lower half,
+but never distinctly triangular, with cuneate base, margin with 10 (and more) small
+
+---
+
+58 Ib FRIIS
+sharp or rounded teeth; stinging and burning hairs absent, limited to the inflorescence
+or sometimes on the entire plant, but never borne on a multicellular protuberance
+......................................................................................................................................... 2
+2. - Female pedicel laterally winged (more so in fruit) .................... L. alatipes Hook.f.
+- Female pedicel not winged or dorso-ventrally winged ................................................... 3
+3. - Perennial herb; inflorescence almost always entirely unisexual, in interrupted spikes,
+with glomerules on a distinct axis; male inflorescence generally in the upper leaf axils of
+erect stems, the female in the lower leaf axils of erect stems or on creeping and
+subterranean stolons; style distinctly trifid at the apex (branches unequal, the longest
+± 3 mm) ............................... L. ovalifolia
+- Annual or briefly perennial herb; bisexual inflorescences, in a broad flattened panicle
+or in interrupted spikes with bisexual glomerules; style branched or simple
+......................................................................................................................................... 4
+4. - Inflorescence in an ample, flattened panicle, triangular in outline; style simple
+......................................................................................................................... L. aestuans
+- Inflorescence in interrupted spikes with bisexual glomerules along an axis; style
+branched .................................................................................. L. interrupta (L.) Gaudich.
+
 ## Species in region
 
 | Species | Vol | Pages |

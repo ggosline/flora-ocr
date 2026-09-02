@@ -34,6 +34,12 @@ Cameroon, Equatorial Guinea, Democratic Republic of the Congo, Angola (Cabinda) 
 
 Primary and secondarized forest; up to 550 m altitude. B: Breteler (2010), Lejoly & Lisowski (1984). Bibliography
 
+## Figures
+
+![Neuropeltis incompta](../sources/Convolvulaceae_vol46_liteparse/figures/fig_036_p0058.png)
+
+*Plate 24. Neuropeltis incompta : 1. Flowering branch. – 2. Leaf. – 3. Flower. – 4. Petiole with bract. – 5. Open calyx, outer surface. – 6. Open calyx, inner surface. – 7. Corolla spread out, outer surface. – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -39,6 +39,12 @@ Cameroon, Gabon, Central African Republic, Democratic Republic of the Congo, Bur
 
 marshy savannas often on Kalahari sand, small ponds; in Gabon at 5–420 m altitude, in the Central African Republic, reaching 700 m, in East Africa, mainly between 1500 and 1860 m. B: Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia appendiculata](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_083_p0098.png)
+
+*Plate 32. Utricularia appendiculata : 1. Entire plant (× 1). – 2. Base of the plant showing the rhizoids, stolons, utricles and base of the peduncle (× 8). – 3. Leaves (× 8). – 4. Utricle (× 60). – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ savannas, wooded savannas; in Gabon at 100–500 m altitude, elsewhere up to 200
 
 gikukuma (éshira, bavarama) ; idjana (bapunu). b : Pellegrin (1949), Polhill (1982, 2003), Raponda-Walker & Sillans (1961), Wilczek ibliographie (1953)
 
+## Figures
+
+![Crotalaria glauca](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_037_p0098.png)
+
+*Plate 29 : Crotalaria glauca : 1. Fertile plant (× ½). – 2. Open flower (× 2,5). – 3. Standard with basal appendages, inner surface (× 2). – 4. Wing, outer surface (× 2). – 5. Keel viewed in profile (× 2). – 6. Gynoecium, longitudinal section (× 4). – 7. Pod (× 1). – 8. Seed (× 3). – Crotalaria goreensis : 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

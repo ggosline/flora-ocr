@@ -34,6 +34,12 @@ Cameroon, Gabon, Democratic Republic of the Congo and Angola; widespread in Gabo
 
 Primary or secondary forest, often along rivers and streams; in Gabon, at approximately 50–700 m altitude, in Cameroon up to 500 m. Taxonomic note: differs from all other Gabonese species without a pseudo-petiole by its relatively narrow blade, 1.5–2.2 cm wide (the other species have blades at least 3.5 cm wide). M. testui also has a narrow blade (at most 2 cm), but with a pseudo-petiole. Bibliography: Simpson (1992).
 
+## Figures
+
+![Mapania soyauxii](../sources/Cyperaceae_vol44_liteparse/figures/fig_163_p0185.jpeg)
+
+*Figure 21. Akènes de a) Mapania soyauxii ( Thery 108 , Ogooué-Maritime, Gabon) et b) Rhynchospora brownii ( Alers & Blom L 164 , Ogooué-Ivindo, Gabon). ope*
+
 ## Notes
 
 <!-- TODO:notes -->

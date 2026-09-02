@@ -28,6 +28,16 @@ Wageningen Agr. Univ. Papers 96(1) : 107 (1996). Erect and slender shrub, reachi
 
 Understory of primary and secondary forest; in Gabon at 225–580 m altitude. B: Omino (1996). BIBLIOGRAPHY
 
+## Figures
+
+![Hunteria macrosiphon](../sources/Apocynaceae_vol59_liteparse/figures/fig_083_p0094.jpeg)
+
+*Figure 6. Hunteria macrosiphon ) B, Inflorescence ± Hunteria ballayi : C : Fruits. –*
+
+![Hunteria macrosiphon](../sources/Apocynaceae_vol59_liteparse/figures/fig_095_p0101.jpeg)
+
+*Planche 41 . Hunteria macrosiphon 5DPHDXÀRULIqUHîҀ±/REHGXFDOLFHIDFHLQWHUQHî± )OHXUYXHGXGHVVXVî±%RXWRQÀRUDOî±,GHPFRUROOHRXYHUWHDYHFpWDPLQHVî±*
+
 ## Notes
 
 <!-- TODO:notes -->

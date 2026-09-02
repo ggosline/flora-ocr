@@ -30,6 +30,10 @@ Gabon, endemic to the Monts de Cristal and the Chaillu Massif
 
 Dense ombrophilous forests; 200–600 m elevation. B: Arends (1992), de Wilde (2002). BIBLIOGRAPHY Summit of a ♂ inflorescence (× ½). – 10-12. Androecium front, back and profile (× 4). – 13-15. Stamen from the base of the androecium, front, back and profile (× 8). – 16, 17. Idem, from the summit of the androecium, front and back (× 8). – 18. Outline of the transverse section of the summit of the petiole (× 2.5). – 19. Hairs of the petiole (× 24). – 20. Hairs of the blade (× 24). – 21. Idem, detail. – 22. Transverse section of the middle of the ovary (× 6.5). – 23, 24. Idem, schematic sections ascending towards the summit. – 25. Fruit (× 0.8). – 26. Idem, ripe fruit with longitudinal dehiscence (× 0.8). – 27. Ovule and attachment to the placenta (× 16). – 28. Seed, idem (× 16). (1-24, 26-28: Breteler & de Wilde 335, herbarium, cultivated plant and preserved in alcohol; 25: de Wilde et al. (1983) 158). Drawing by I Z, National Herbarium – Wageningen, Kew Herbarium, Netherlands branch
 
+## Figures
+
+![Begonia karperi](../sources/Begoniaceae_vol39_liteparse/figures/fig_059_p0095.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

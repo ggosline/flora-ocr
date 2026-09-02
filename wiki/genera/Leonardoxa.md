@@ -27,6 +27,12 @@ Three Guineo-Congolian species, one in southern Cameroon and two in Congo. Two s
 
 1'. Acumen emarginate; rachis canaliculate; secondary venation not pronounced; sepals 0.5-1.4 cm…… 2. L. bequaertii.
 
+## Key to the species
+
+1. Acumen not emarginate; rachis not channelled; secondary venation in prominent arches; sepals 5–6 mm..... 1. L. africana.
+
+1'. Acumen emarginate; rachis channelled; secondary venation inconspicuous; sepals 0.5–1.4 cm…… 2. L. Bequaertii.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -35,6 +35,14 @@ Gabon, Democratic Republic of the Congo, Uganda and Madagascar; rare in Gabon, f
 
 in savannas, near swamps and on disturbed ground, such as roadsides, on both lateritic and sandy soils; in Gabon, up to approximately 200 m, and up to 1180 m in East Africa. Taxonomic note: The slender tufts and acute spikelets spread with acute glumes make it possible to distinguish it from other species with capitate inflorescences. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010)
 
+## Figures
+
+![Bulbostylis cardiocarpoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_013_p0020.png)
+
+*Plate 5. Bulbostylis andongensis. A. Plant. Plate 6. Bulbostylis cardiocarpoides. A. – B. Leaf sheath and base of limb. – C, D, E. Plant. – B. Leaf sheath and base of limb. – C.*
+
+![Bulbostylis cardiocarpoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_016_p0021.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

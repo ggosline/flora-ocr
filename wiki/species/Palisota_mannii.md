@@ -44,6 +44,12 @@ aliloró (« grosse feuilles » en batéké). Ce nom est aussi utilisé pour P. 
 
 The distinction between the typical subspecies and subspecies megalophylla is sometimes difficult to establish in Central Africa, where both are present. According to Faden (2007a), all collections of P. mannii from East Africa are to be assigned to subspecies megalophylla, the typical subspecies being absent there. B: Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Faden (2007a, Bibliography 2012), Morton (1967), Sosef et al. (2006), Vandeweeghe et al. (2016). subsp. megalophylla (Mildbr.) Faden Kew Bull 62 : 137 (2007). P. megalophylla Mildbr., Notizbl. Bot. Gart. Berlin-Dahlem 84 : 248 (1925). Like the typical subspecies, but leaf blade on the lower surface with dense velvety indumentum, white or brown only on the main vein.
 
+## Figures
+
+![Palisota mannii](../sources/Commelinaceae_vol55_liteparse/figures/fig_038_p0072.jpeg)
+
+*Figure 5. Palisota mannii subsp. mannii (Ipassa, Gabon, Bidault et al. 4513): A. Plant with immature fruits, (between Dibwangui and Lebamba, Gabon, Bidault et al. 3794): B. Flower. – Palisota plicata (Monts de*
+
 ## Notes
 
 <!-- TODO:notes -->

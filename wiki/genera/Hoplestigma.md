@@ -25,6 +25,12 @@ Notes: Hoplestigma was first placed in Flacourtiaceae by Pierre (1899), then in 
 
 H. pierreanum Gilg is known from southern Cameroon, the type specimen was collected at Bipindi; the species included in the key below should therefore be sought in Gabon. According to Gilg (1908), the differences with H. klaineanum are: larger fruits, larger leaves more densely furnished with softer hairs, whereas H. klaineanum has more rigid appressed sparse hairs. Heine (1963) adds two other characters to this: longer petiole and more numerous lateral veins. I examined specimens of these two species from Cameroon, Gabon, Equatorial Guinea and Côte d'Ivoire. I saw no differences between these two species with respect to the size of the lamina, petiole and number of veins, nor the size of the fruits. Only pubescence remains, and one may wonder whether the two species should be recognized as distinct.
 
+## Key to the species
+
+1. - Leaf blade sparsely pilose with appressed white hairs beneath, (sub)glabrous above..... H. klaineanum
+
+- Leaf blade, branches of the inflorescence and petiole densely pilose with erect ferruginous hairs (to be sought in Gabon; plate 7.11)..... H. pierreanum Gilg
+
 ## Species in region
 
 | Species | Vol | Pages |

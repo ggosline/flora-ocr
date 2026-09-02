@@ -33,6 +33,12 @@ Mali, Guinea-Conakry, Sierra Leone, Ghana, Togo, Nigeria, Cameroon, Central Afri
 
 swampy savannas; in Gabon, up to 250 m altitude, in East Africa, up to 2300 m. B: Fischer (2006b), Ghazanfar et al. (2008), Mielcarek (1996), Philcox (1990)
 
+## Figures
+
+![Sopubia simplex](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_056_p0132.png)
+
+*Plate 42. Sopubia simplex: 1. Habit (× 2/3). – 2. Flower (× 2.5). – 3. Open and spread calyx (× 4). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

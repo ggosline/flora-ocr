@@ -37,6 +37,16 @@ Bibliography: Delgado-Salinas et al. (2011), Lewis et al. (2005), Mackinder et a
 
 .................................................................................................................... M. lathyroides
 
+## Key to the species
+
+1. - Procumbent herb; basal leaves with leaflets having oval to rhomboidal blade, generally more or less lobed, especially at the base of the plant, grey-tomentose beneath
+............................................................................................................. M. atropurpureum
+
+---
+
+- Erect herb, with stem sometimes climbing (twining) toward the apex; basal leaves with leaflets having elliptic to narrowly oval blade, entire, with loose pubescence beneath
+.................................................................................................................... M. lathyroides
+
 ## Species in region
 
 | Species | Vol | Pages |

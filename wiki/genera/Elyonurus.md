@@ -36,6 +36,12 @@ the rainy season and then regrow: these regrowths are often rather poorly develo
 
 1'. Herbs up to 1.50 m tall; racemes solitary at the apex of culms or of few lateral branches, generally 8 to 10 cm long; spikelets 8 mm long, callus included; lower glume bifid over 1/5 or 1/4 of its length ..... 2. E. argenteus.
 
+## Key to the species
+
+1. Herbs 30 to 70 cm tall; fertile branches fairly numerous, racemes of ± 6 cm long; spikelets, callus included, about 6 mm long; lower glume bifid over approximately 1/3 of its length ..... 1. E. Hensii.
+
+1'. Herbs up to 1.50 m tall; racemes solitary at the apex of culms or of few lateral branches, generally 8 to 10 cm long; spikelets 8 mm long, callus included; lower glume bifid over 1/5 or 1/4 of its length ..... 2. E. argenteus.
+
 ## Species in region
 
 | Species | Vol | Pages |

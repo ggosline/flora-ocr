@@ -24,6 +24,24 @@ B A C E D F G Olivier Lachenaud (C: Ndendé-Lebamba, Gabon), Archange Boupoya (D
 
 Ecology riverbanks, swampy rivers in forest in Gabon, up to 700 m in altitude, elsewhere at 0–700 m. Notes In flowers, this species resembles a small T. crassa which may also have a corolla tube as long. The orange and non-subglobulous fruits of T. hallei are clearly different. The name T. hallei (Boiteau) Leeuwenberg had already been published in 1984, but in an invalid form, in J. Ethno-pharmacol. 10(1): 13. B: Boiteau & Allorge (1981), Leeuwenberg (1991). BIBLIOGRAPHY
 
+## Figures
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_215_p0246.jpeg)
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_216_p0246.jpeg)
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_217_p0246.jpeg)
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_218_p0246.jpeg)
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_219_p0246.jpeg)
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_220_p0246.jpeg)
+
+![Tabernaemontana hallei](../sources/Apocynaceae_vol59_liteparse/figures/fig_221_p0247.jpeg)
+
+*Planche 114 . Tabernaemontana hallei 5DPHDXÀRULIqUHîѿ±&DOLFHFRXSHORQJLWXGLQDOHDYHF collétères (× 2). (1 : J.J.F.E. de Wilde 7525 EUDQFKHÀHXULHHQERXWRQ N. Hallé 2703 ÀHXURXYHUWH 2 : N. Halle 2703 'HVVLQSDU-DFTXHOLQH6DXVVRWWH*XpUHO0XVpXPQDWLRQDOG¶+LVWRLUHQDWXUHOOH3DULV (©), adapté et reproduit avec permission à partir de Leeuwenberg (1991).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ West and Central Africa: Liberia, Côte d'Ivoire, Ghana, Cameroon, Gabon, Congo 
 
 primary and secondary evergreen forest, semi-deciduous forest, forest edges of back-mangrove; at 0–500 m altitude. B: Breteler & Smissaert-Houwing (1977), Keay (1954). Bibliography
 
+## Figures
+
+![Atroxima liberica](../sources/Polygalaceae_vol42_liteparse/figures/fig_031_p0071.png)
+
+*Plate 18. Atroxima liberica : 1. Stem, in flower (× ½). – 2. Flower (× 3). – 3. Corolla and stamens (× 4.5). – 4. Sepals (× 3). – 5. Pistil (× 6). – 6. Anther (× 12). – 7-8. Fruit (× ½). – 9. Fruit, longitudinal section (× ½). – 10-11. Seed (× ½). – 12. Juicy indumentum of the seed. – 13. Idem, view from above. – 14. Seedling. (1-6: Bos 2256; 7-9: Breteler 5932; 10-13: Breteler 7364). Drawing by Ike*
+
 ## Notes
 
 <!-- TODO:notes -->

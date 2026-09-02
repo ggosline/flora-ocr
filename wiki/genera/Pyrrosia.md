@@ -28,6 +28,11 @@ Type: Pyrrosia chinensis Mirb.
 
 1'. Rhizome creeping, bearing entire scales..... 2. P. Mechowii.
 
+## Key to the species
+
+1. Rhizome long-creeping, bearing ciliate scales; fronds very distant..... 1. P. lanceolata.
+1'. Rhizome creeping, bearing entire scales..... 2. P. Mechowii.
+
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

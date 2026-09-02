@@ -38,6 +38,24 @@ Botanic Gardens, Kew (©), reproduced with permission from Taylor (1964).
 
 A B C D E Mayumba): D-E. (Photos A-C by A. Fleischmann ©; D-E, by J.P. Vande weghe ©).
 
+## Figures
+
+![Utricularia gibba](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_098_p0109.png)
+
+*Plate 37. Utricularia gibba : 1-6. Entire flowering and fruiting plants (× 1). – 7. Flattened bract (× 30). – 8. Flower, lateral view (× 8). – 9, 10. Flowers, front view (× 8). – 11, 12. Two seeds from the same fruit (× 30). – 13. Transverse section of the seed (× 30). – 14. Cells of the testa of a verrucose seed (× 150). (1, 2, 10 : Milne-Redhead & Taylor 8076 ; 3 : E.A. Williams 12347 ; 4, 5, 8, 9, 11- 14 : Richards 12875 ; 6 : Richards 6089 ; 7 : Drummond & Hemsley 4642 ). Drawing by P. Taylor, Royal*
+
+![Utricularia gibba](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_100_p0110.jpeg)
+
+![Utricularia gibba](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_101_p0110.jpeg)
+
+![Utricularia gibba](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_102_p0110.jpeg)
+
+![Utricularia gibba](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_103_p0110.jpeg)
+
+![Utricularia gibba](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_106_p0114.jpeg)
+
+*Figure 12. Utricularia gibba (Zambie, N de Kasama) : A, B. – Utricularia inflexa : C-E . (Photos A, B par*
+
 ## Notes
 
 <!-- TODO:notes -->

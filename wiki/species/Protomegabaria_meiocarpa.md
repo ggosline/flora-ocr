@@ -34,6 +34,12 @@ known from eastern Democratic Republic of the Congo and fairly recently recorded
 
 primary forest; in Gabon, at 450–600 m altitude. b: Breteler (2012c), Léonard (1995b). Bibliography
 
+## Figures
+
+![Protomegabaria meiocarpa](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_031_p0079.png)
+
+*Plate 25. Protomegabaria meiocarpa : A. Leafy branch with male inflorescences (× ½). ‒ B.*
+
 ## Notes
 
 <!-- TODO:notes -->

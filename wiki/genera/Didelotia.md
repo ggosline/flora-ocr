@@ -33,6 +33,22 @@ forming an intrapetiolar blade whose base is distinctly persistent. These are pr
 
 D. Morelii is very incompletely known. It is likely that another Gabonese species will yet be added to these, when it is better known. Indeed no. 2010 of Saint-Aubin studied by Oldeman (Blumea 12,2: 213 and fig. 5) which he had referred with doubt to Toubaouate brevipaniculata, is for us a species of Didelotia recognizable notably by its persistent intrapetiolar stipules, but is not Toubaouate (Didelotia) brevipaniculata of which it does not present either the close annular scars at the base of the branches. The comparison also made by Oldeman with no. 26679 Chevalier (Fleury) is probably acceptable, but this no. corresponds to a sterile specimen whose name that was cited by Chevalier, Brachystegia Fleuryana, was not accompanied by any valid diagnosis. Until new material is collected, it will be difficult to decide with complete certainty.
 
+## Key to the species
+
+1. Leaves unifoliolate..... 1. D. unifoliolata
+1'. Leaves unijugate, slightly falciform.
+
+2. Leaflets 5-8 cm in length by 2-4 cm in width; no filiform petals; ovary glabrous. ..... 2. D. Letouzeyi.
+
+2'. Leaflets 6-13 cm in length by 2.5-6 cm in width; 5 filiform petals; ovary pubescent on the margins..... 3. D. africana.
+1". Leaves multijugate.
+
+3. 8-12 jugate; leaflets linear-oblong 8-10 × 2-2.5 mm; (3-)
+5 filiform petals; ovary pubescent..... 4. D. minutiflora.
+
+3'. ± 18 jugate; leaflets oblong, 20-25 × 5 mm approximately;
+5 filiform petals; ovary glabrous..... 5. D. Morelii.
+
 ## Species in region
 
 | Species | Vol | Pages |

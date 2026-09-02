@@ -36,6 +36,14 @@ endemic to Gabon and found in Estuaire, Moyen-Ogooué, Ngounié, Nyanga and Wole
 
 primary or secondary forest, often along rivers and streams; at 0–500 m altitude. Taxonomic note: easily distinguished by its violet inflorescence with large spicoid and floral bracts. It resembles M. macrantha which has a brown and not violet inflorescence; M. macrantha differs further by a denser grouping of ± indistinct spikes. b: Simpson (1992). Bibliography
 
+## Figures
+
+![Mapania purpuriceps](../sources/Cyperaceae_vol44_liteparse/figures/fig_155_p0179.jpeg)
+
+*Figure 19. Achenes of a) Mapania purpuriceps ( Klaine 12 , Estuaire, Gabon) and b) Mapania pynaertii ( Raynal 10375 , Cameroon). of 9–11 mm , plane, linear, the 2 lower ones wide 1–1,2 mm , brown becoming strongly striated with dark purplish brown toward the tip, keel non-winged and coarsely denticulate-hispid, acute at apex, the 2 upper ones wide 0,7–0,8 mm, glabrous, acute or truncate at apex ; style of 6,5–9 mm, with 2 branches long 3–4,5 mm. Obovoid achene, 1,3–1,6 × 0,9–1,1 mm, brown to blackish, rugose with 2 lateral ribs and 1 anterior.*
+
+![Mapania purpuriceps](../sources/Cyperaceae_vol44_liteparse/figures/fig_156_p0179.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

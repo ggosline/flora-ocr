@@ -41,6 +41,12 @@ secondary forests, riverbanks, forest galleries, open forests, margins of inselb
 
 D. mayumbensis is highly variable in the size and pubescence of leaflets; these have hairs sometimes appressed and very short, sometimes long and erect. In general, plants from savanna regions have larger and more hairy leaflets than those from humid forest regions, but many intermediates exist and pubescence sometimes varies within the same locality. It is therefore not possible to maintain D. noldeae and D. bignonae as separate taxa. Consequently, the species has a much more extensive range than was previously supposed, extending over the entire Guineo-Congolian region and its periphery. D. mayumbensis is very close to D. ealaensis (see this species for the differences) and to D. saxatilis, with which it is often confused. It differs from the latter by its somewhat larger flowers, with more developed and generally persistent bracteoles. The two species have identical fruits and are sometimes difficult to separate in the absence of flowers, although the leaflets of D. mayumbensis are generally more coriaceous and narrower. Some of the material cited by Cronquist (1954) under D. saxatilis belongs to D. mayumbensis. b: Adam (1971), Berhaut (1976). Pellegrin (1949), Sousa (1966). Bibliography
 
+## Figures
+
+![Dalbergia mayumbensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_052_p0140.png)
+
+*Plate 44: Dalbergia mayumbensis: 1. Flowering branch. – 2 & 3. Leaflet, details of lower surface. – 4. Flower. – 5. Flower with petals fallen, showing stamens and ovary. – 6. Standard, outer surface. – 7. Wing, outer surface. – 8. Keel petal, outer surface. – 9. Pod. (1, 2: Bissiengou et al. 491; 3, 9:*
+
 ## Notes
 
 <!-- TODO:notes -->

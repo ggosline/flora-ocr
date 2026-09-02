@@ -38,6 +38,12 @@ Primary forest, flooded forest, river margin, on sand or rocks; in Gabon from 75
 
 The species is close to P. bogneri, but is distinguished by its more robust habit, as well as by its purple flowers and unequal anthers, the two upper ones yellow, the lower one white or pale yellow with pollen of the same color (instead of white flowers with 3 yellow stamens). Bi: Bidault & van der Burg (2019), Vande weghe et al. (2016; as "P. sp. nov. 1"). Bibliography
 
+## Figures
+
+![Palisota alboanthera](../sources/Commelinaceae_vol55_liteparse/figures/fig_028_p0051.png)
+
+*Plate 12. Palisota alboanthera: 1. General appearance. – 2. Inflorescence. – 3. Bisexual flower with lower stamen mature reflexed. – 4. Male flower with reduced ovary. – 5. Sepal. – 6. Petal. – 7. Lower stamen. – 8. Upper stamen. – 9. Upper staminode. – 10. Lower staminode. – 11. Gynoecium. – 12. Cilium of a staminode. – 13. Hair of the ovary. (1: J.J.F.E. De Wilde & R.W. De Wilde-Bakhuizen 11713; 2-13: E. Bidault et al. 1352). Drawing by Hans de Vries, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ on slopes, river beds or rock faces in primary forest or old secondary forest, o
 
 sanga-batsema (Bakota). B : Hallé (1967), Sosef (1994), Wilczek (1969a). IBLIOGRAPHIE
 
+## Figures
+
+![Begonia scutifolia](../sources/Begoniaceae_vol39_liteparse/figures/fig_028_p0035.png)
+
+*Plate 13. Begonia scutifolia : 1. Flowering plant (× ⅔). – 2. Male flower (× 2). – 3. Female flower (× 2). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

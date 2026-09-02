@@ -32,6 +32,12 @@ Egypt (fide Hepper, 1963), tropical West Africa, Cameroon, Gabon, Republic of th
 
 Roadside in secondary forest; in Gabon at 500 m altitude, elsewhere up to 1800 m. B: Huber et al. (1963). Bibliography
 
+## Figures
+
+![Clerodendrum schweinfurthii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_041_p0042.jpeg)
+
+*Figure 3. Clerodendrum schweinfurthii: A. Inflorescence; B. Flowers. – Clerodendrum silvanum: C. Inflorescence; D. Flowers. – Clerodendrum splendens: E. Flowers; F. Fruits on pink calyces. – Clerodendrum umbellatum: G. Inflorescence. Photos by Matthew Walters (A, B: Nigeria, Mambilla Plateau, Ngel*
+
 ## Notes
 
 <!-- TODO:notes -->

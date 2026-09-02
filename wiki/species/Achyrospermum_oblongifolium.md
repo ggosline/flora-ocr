@@ -30,6 +30,12 @@ from Guinea to Nigeria, Cameroon, Equatorial Guinea (Bioko and Rio Muni), São T
 
 stream banks, paths and humid open areas in forest; in Gabon at 150–900 m altitude, elsewhere up to 1280 m. B: Bruce (1936), Morales (2011), Morton (1963). Bibliography
 
+## Figures
+
+![Achyrospermum oblongifolium](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_020_p0016.jpeg)
+
+*Figure 1 . Achyrospermum oblongifolium : A. Inflorescence. – Cantinoa americana : B. Inflorescence. – Clerodendrum bipindense : C. Inflorescence. – Clerodendrum capitatum : D. Inflorescence. – Clerodendrum excavatum : E. Flowering stem ; F. Inflorescence, view from below. Photos by Ehoarn Bidault (A :*
+
 ## Notes
 
 <!-- TODO:notes -->

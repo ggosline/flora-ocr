@@ -27,6 +27,18 @@ Flowers hermaphrodite, pentamerous, sometimes heterostylous. Perianth tube 2 to 
 
 one-quarter or one-third of the tube length, and corresponding to the sepals; these rather narrow, rarely spread even in the adult flower, green or yellowish, somewhat fleshy. Position of the inner perianth circle (petals) marked only by a series of ten more or less glandular thickenings, scarcely visible, situated at the throat of the tube, somewhat below the level of individualization of the sepals. 10 stamens with filaments of unequal lengths, inserted in the upper third or at the throat of the tube, the episepalous filaments longer than the alternisepalous ones. Anthers bithecal, 0.5 mm, with connective somewhat widened. Ovary sessile or subsessile, oblong, sometimes somewhat pubescent, unilocular; style rather fine, exsert or not; stigma globulous, exsert or not. Hypogynous disc reduced to a very small cup more or less obliquely truncate.
 
+## Key to the species
+
+1. Filaments of the stamens much longer than the anthers; the latter distinctly exserted, as is the stigma; flower open at anthesis; leaves very rounded at the base, almost subcordate, coriaceous..... I. C. cf. Soyauxii.
+
+---
+
+1'. Filaments of the stamens very short; stamens and stigma not or scarcely exserted.
+
+2. Perianth tube very slender, scarcely 0.5 mm in diameter at its base; lobes acute, narrow, often three times longer than wide.
+
+2'. Perianth tube fairly thick, approximately 1 mm in diameter at its base; lobes very broadly ovate obtuse, scarcely longer than wide..... 3. C. cf. pseudoscandens.
+
 ## Species in region
 
 | Species | Vol | Pages |

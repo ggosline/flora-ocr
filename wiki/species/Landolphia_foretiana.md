@@ -25,6 +25,26 @@ A B C E D F Flowers. Photos by Ehoarn Bidault (A: Lac Alombié, Gabon; D, E: Riv
 
 oval to obovate – times as long as wide – 0.5–2 cm attenuated to narrowly rounded at the base, rounded to acuminate at the apex, entirely glabrous above or weakly pilose at the base, pubescent below or only at the base of the midvein, often brown-orange below on the dry material; secondary veins 5 to 13, curved, tertiary venation scalariform, rather visible below. Inflorescence axillary with flowers, dense; sessile or peduncle reaching 3.5 mm; bracts 1.5–2 mm long, tomentose on the exterior. Flower with sweet fragrance; pedicel 0.5–3.5 mm; calyx with 4 or 5 triangular to oval lobes, 1–2.2 mm long, often ciliate, tomentose on the exterior; corolla white to pale yellow, with tube 6–14.7 mm long, 1.6–2.8 mm wide at the level of the anthers, the exterior glabrous at the base becoming progressively tomentose or pubescent higher up, hairy on the interior around the anthers otherwise glabrous; lobes – times as long as wide, 0.3–1 times as long as the tube, 2.8–11 × 1.4–4 mm, partially hairy to glabrous, ciliate; stamens inserted at 0.7–0.85 of the tube length, included 0.1–1 mm, anther 1–1.7 mm long; pistil 6–12.5 mm long, ovary densely hairy; style glabrous or hairy on the lower part. Fruit variable in shape, 4.3–21 cm in diameter, yellow to reddish or violaceous, smooth or slightly bumpy, with 5 to 50 seeds; wall 1–3 cm thick; pulp pale yellow to orange. Distribution from Guinea to the Democratic Republic of the Congo, the Central African Republic and Angola. Cabinda in Gabon. Estuary, Moyen-Ogooué or Ngounié, Nyanga, Ogooué, Ivindo, Ogooué, Lolo and Ogooué, Maritime. Ecology Primary, secondary, or gallery forests in Gabon, up to m altitude elsewhere, up to 1700 m. Use The pulp of the fruits would be edible in the Republic of the Congo; it would be used to treat blenorrhagia and hematuria. B Beentje, Bouquet, Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_105_p0124.jpeg)
+
+*Planche 52 . Landolphia foretiana 5DPHDXÀRULIqUHîҀ±9ULOOHîҀ±3DUWLHG¶XQHYLHLOOH*
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_106_p0125.jpeg)
+
+*Figure 7 . Landolphia foretiana $,QÀRUHVFHQFH%6RPPHWG¶XQHWLJH± Landolphia incerta : C : ,QÀRUHVFHQFH± Landolphia letestui '7LJHÀRULIqUH(,QÀRUHVFHQFH± Landolphia subrepanda : F :*
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_107_p0125.jpeg)
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_108_p0125.jpeg)
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_109_p0125.jpeg)
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_110_p0125.jpeg)
+
+![Landolphia foretiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_111_p0125.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

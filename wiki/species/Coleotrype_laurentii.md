@@ -33,6 +33,12 @@ Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic 
 
 forests and sometimes abundant in clearings; in Gabon at 300 m altitude, elsewhere from 300 to 1050 m. Flowering in Gabon in January. Flowers opening from 11 a.m. to 3 p.m. in West Africa (Brenan 1986b). B: Brenan (1968a, 1968b), Faden (2012), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Coleotrype laurentii](../sources/Commelinaceae_vol55_liteparse/figures/fig_019_p0024.png)
+
+*Plate 5. Coleotrype laurentii: 1. General aspect (× ⅛). – 2. Inflorescence with perforated sheath and leaf (× 1). – 3. Flower (× 5). – 4. Infructescence (× 1). – 5. Fruit (× 2). – 6. Seed (× 6). Drawing by M. Grierson (©; 1, 2, 4) and by S.K. Avumatsodo, Ghana (3, 5, 6), reproduced with permission from Brenan (1966) and Morton (1967).*
+
 ## Notes
 
 <!-- TODO:notes -->

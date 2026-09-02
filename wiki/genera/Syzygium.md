@@ -54,6 +54,50 @@ Several species have edible fruits. The clove tree, S. aromaticum (L.) Merrill e
 
 6. Shrub or small tree of the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long..... 5 c. var. littorale.
 
+## Key to the species
+
+1. Indigenous species. Petals always connate.
+
+2. Leaves subsessile, cordate at the base, elongate, 10–25 cm long; flowers large: mature floral buds 8–10 mm diam.
+2. S. Gilletii.
+
+2'. Leaves petiolate, acute, obtuse or rounded at the base, smaller; flowers smaller: floral buds 2–5 mm diam.
+
+3. Young branches quadrangular; leaves rather small, 4–7 cm long; sepals scarcely developed..... 1. S. Staudti.
+
+---
+
+3'. Young branches rounded; leaves broader.
+
+4. Sepals distinct, also on the fruit, subimbricately arranged in the bud, 1 mm tall; leaves obovate, long-cuneate at the base, shortly acuminate at the apex..... 3. S. congolense.
+
+4'. Sepals scarcely developed.
+
+5. Marsh tree, with stilt roots; leaves ovate-elliptic, often rounded at the base, long-acuminate at the apex and very acute..... 4. S. ovariense.
+
+5'. Trees of non-swampy sites, without stilt roots; leaves acute at the base..... 5. S. guineense s.l.
+
+6. Shrub or small tree of the seashore; leaves ovate-elliptic, extremely coriaceous, rounded or obtuse, sometimes shortly acuminate at the apex; petiole short and thick, about 5 mm long..... 5 c. var. littorale.
+
+6'. Trees or shrubs of savannas or forest galleries; petiole longer than above.
+
+7. Tree or shrub of savanna; petiole 2–4 cm long; leaves obovate, often rounded or obtuse at the apex; inflorescences often on leafless branches..... 5 b. var. macrocarpon.
+
+7'. Tree of forest gallery; petiole 0.5–2 cm long; leaves acuminate, persistent; inflorescences always terminal..... 5 a. var. guineae
+
+r'. Cultivated species, sometimes naturalized; petals often free.
+
+8. Petals connate, capping the floral bud, detaching all together.
+
+9. Ovary cylindric, somewhat quadrangular; sepals triangular; inflorescences terminal..... 6. S. aromaticum.
+
+9'. Ovary obconic; sepals scarcely developed; inflorescences lateral, on leafless portions of branches..... 7. S. cumini.
+
+8'. Petals free, rather large, 1–2 cm long.
+
+10. Inflorescence on old wood; flowers red..... 9. S. malaccense.
+10'. Inflorescence terminal; flowers white; leaves narrow lanceolate..... 8. S. jambos.
+
 ## Species in region
 
 | Species | Vol | Pages |

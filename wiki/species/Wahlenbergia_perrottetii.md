@@ -35,6 +35,18 @@ wooded savannas, often along roadsides or degraded habitats; at 100–640 m alti
 
 7 7 7 3 9 7 9 9 9
 
+## Figures
+
+![Wahlenbergia perrottetii](../sources/Campanulaceae_vol40_liteparse/figures/fig_017_p0017.png)
+
+*Plate 3. Wahlenbergia perrottetii : 1. Flowering plant. – 2. Flower bud. – 3. Open flower. – 4. idem, corolla spread. – 5. Stigmas. – 6. Ovary in transverse section. – 7. Fruit. Plate by*
+
+![Wahlenbergia perrottetii](../sources/Campanulaceae_vol40_liteparse/figures/fig_018_p0019.png)
+
+![Wahlenbergia perrottetii](../sources/Campanulaceae_vol40_liteparse/figures/fig_019_p0019.png)
+
+![Wahlenbergia perrottetii](../sources/Campanulaceae_vol40_liteparse/figures/fig_020_p0019.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -29,6 +29,55 @@ I. sect. Ophryoscleria (Nees) Core (S. racemosa, S. verrucosa and S. vogelii) is
 
 II. sect. Scleria (the other Gabonese species) generally has a fruit with the hypogynium well developed and 3-lobed. Most species have an intermediate size.
 
+## Key to the species
+
+1. - Bracts foliacious; inflorescence terminal and lateral paniculate; hypogynium often prominent ................................................................................................. 2
+- Bracts non-foliacious; inflorescence terminal composed of a "spike" bearing several spikelets glomerate; hypogynium absent (sect. 1. Hypoporum ) ........ 18
+2. - Hypogynium ciliate at the upper margin, at maturity, enlarged into a cup wider than the achene (sect. 3. Ophryoscleria ) ....................................................................... 3
+- Hypogynium glabrous at the upper margin, never wider than the achene, often trilobate or reduced (sect. 2. Scleria ) ............................................................................ 5
+3. - Achene verrucose except at the apex ....................................................... S. verrucosa
+- Achene smooth and shiny, not verrucose .................................................................. 4
+4. - Achene 3.5–5 mm wide, apex often gradually acute
+..................................................................................... S. racemosa subsp. racemosa
+- Achene 2.5–3.5 mm wide, apex truncate or rounded ........................... S. vogelii
+5. - Perennial plant; male spikelet 8–13 mm long; female glume 10–14 mm long; achene 3.7–4.8 mm long; hypogynium reduced ................................ 6
+- Perennial or annual plant; male spikelet 4–8 mm long; female glume 2–8 mm long; achene at most 4 mm long; hypogynium trilobate or reduced ............. 7
+6. - Blade 7–18 mm wide; lateral panicles fairly dense, often pendulous on peduncles reaching 25 cm in length ............................... S. melanomphala
+- Blade 2–6 mm wide; lateral panicles loose, scarcely exceeding the sheaths
+...................................................................................................................... S. induta
+7. - At least some bisexual spikelets; blade 6–23 mm wide .......................... 8
+- All spikelets unisexual; blade less than 12 mm wide ................................ 9
+8. - Blade 10–23 mm wide, scarcely scabrous; achene 3 mm long, ovate, smooth and shiny; in shallow waters .............................................................. S. lacustris
+- Blade 6–8 mm wide, distinctly scabrous at least on the main nerve; achene 2.5 mm long, globulous, verrucose; in humid forests ..... S. goossensii
+9. - Annual plant; achene approximately 2.5 × 2 mm, finely glandular with prominent lacunae; hypogynium trilobate ......................................... S. mikawana
+- Perennial plant with well-developed rhizome; achene without glands; hypogynium lobed or not ............................................................................................................ 10
+10. - Male spikelets curved, 7–9 mm long; achene longitudinally striate
+.............................................................................................................. S. spiciformis
+- Male spikelets straight, 4–9 mm long; achene not longitudinally striate ....... 11
+11. - Blade distinctly scabrous; plant often climbing on trees; achene 3–3.5 mm long, violaceous or rarely white, finely hairy .............................. S. boivinii
+- Blade scarcely or not scabrous; plant erect or prostrate; achene 2–3.5 mm long, violaceous or white, hairy or glabrous .......................................................................... 12
+12. - Achene white and smooth with a dark blue-violet apex, glabrous; hypogynium with 3 thick lobes, square with rounded angles ......................................... S. iostephana
+- Achene white or greyish-brown, without dark apex or, otherwise, hairy; hypogynium annular or sometimes if achene hairy, then 3-lobed .................................................. 13
+13. - Achene glabrous, 2–3 mm long ............................................................................. 14
+- Achene hairy, 2.2–3.5 mm long .......................................................................... 15
+
+---
+
+14. - Hypogynium distinctly trilobate ....................................................... S. naumanniana
+- Hypogynium not distinctly lobed ............................................. S. baroni-clarkei
+15. - Peduncles of lateral branches short, erect, not exceeding or scarcely exceeding the sheaths; achene globulous with tufts of long hairs particularly towards the base; hypogynium with 3 rounded rigid lobes .................................... S. melaleuca
+- Peduncles of lateral branches long, pendulous, 1–30 cm; hypogynium scarcely distinct or with 3 fine lobes ........................................................................................ 16
+16. - Hypogynium scarcely distinct; achene almost smooth ..................................... S. lagoensis
+- Hypogynium trilobate; achene distinctly or weakly lacunose .......................... 17
+17. - Lateral panicles solitary or rarely in pairs; hypogynium without annulus, with 3 prominent lobes ............................................................................... S. achtenii
+- Lateral panicles in 2–3; hypogynium with an orange annulus, lobes reduced to points 0.1–0.3 mm long ....................................... S. aurantiaca
+18. - Perennial plant; glomerate pendulous ..................................................................... 19
+- Annual plant; glomerate erect, spreading or pendulous ..................................... 20
+19. - Plant with slender stolons each producing a new stem at their apex; basal leaves numerous, with well-developed blade ............... S. catophylla
+- Plant with woody rhizome producing a row of stems; basal leaves without blade or with very reduced blade ............................................................. S. distans
+20. - Glomerate erect or spreading; achene 1.2–1.8 mm in length ............ S. interrupta
+- Glomerate pendulous; achene 3.7–4.2 mm in length ................... S. melanotricha
+
 ## Species in region
 
 | Species | Vol | Pages |

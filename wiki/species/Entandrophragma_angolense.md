@@ -39,6 +39,20 @@ evergreen humid and semi-deciduous forest; in Gabon, up to 500 m elevation, else
 
 acajou tiama, tiama, tiama blanco (noms pilotes) ; tiama mahogany, tiama white (angl.) ; kibaba da queta (port.) ; abebènyé, abèbé, abeubègne (fang), dilolo (N’Komi-Echira), coba-coba (bakota). B : De Saint Aubin (1963), Raponda-Walker & Sillans (1961), Staner (1941), ibliographie Styles & White (1991), Wilks & Issembé (2000)
 
+## Figures
+
+![Entandrophragma angolense](../sources/Meliaceae_vol47_liteparse/figures/fig_017_p0026.png)
+
+*Plate 3. Entandrophragma spp., Lower surface of leaflets with details of apex and pubescence of midvein : A, B, C : E. angolense . – D, E, F : E. congoense . – G, H, I : E. candollei . – J, K, L :*
+
+![Entandrophragma angolense](../sources/Meliaceae_vol47_liteparse/figures/fig_018_p0028.png)
+
+*Plate 4. Entandrophragma angolense : A. Flowering branch (× 0.5). – B. Apex of a leaflet with spoon-shaped acumen, upper surface (× 2). – C. Opened flower (× 3). – D. Longitudinal section of the ovary (× 10). (A–D : Leeuwenberg 2493 ). Drawing by L. van der Riet, Naturalis Biodiversity Center, Leiden (©).*
+
+![Entandrophragma angolense](../sources/Meliaceae_vol47_liteparse/figures/fig_019_p0030.png)
+
+*Plate 5. Entandrophragma angolense: A. Fruit open with one valve removed, exposing the columella covered with seeds (× 0.5). – B. Germination (× 0.5). – Entandrophragma utile: C. Fruit, ditto (× 0.5). –*
+
 ## Notes
 
 <!-- TODO:notes -->

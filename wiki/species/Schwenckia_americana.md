@@ -33,6 +33,16 @@ Native to tropical America, introduced to Africa probably accidentally in the ea
 
 Adventive, locally abundant in disturbed habitats (dumps, cultivated and abandoned fields, secondary forests), in savannas and grasslands; in Gabon at 0–630 m altitude, elsewhere up to 1300 m. Uses: In West Africa the aerial parts are generally used to treat affections of infants and young children. Various parts of the plant (roots, leafy stems, sap) are used to treat respiratory diseases (cough and asthma), stomach complaints, headaches, convulsions with fever, aphthous ulcers, skin diseases (measles, edemas and chickenpox) as well as for various curative and preventive uses (antidote, teeth whitening, laxative or female infertility). B: Bikandu et al. (2020), Bosch (2008a), Edmonds (2012), Heine (1963). Bibliography
 
+## Figures
+
+![Schwenckia americana](../sources/Solanaceae_vol55_liteparse/figures/fig_054_p0108.jpeg)
+
+*Figure 7. Physalis angulata (Moyen-Ogooué, Gabon, Bidault et al. 1934 ) : A. General aspect and fruiting calyx, B. Flower. – Physalis peruviana (La Paz, Bolivia, Maldonado et al. 3081 ) : C. General aspect and flower. – Schwenckia americana (Ogooué-Maritime, Gabon, Bidault & Ikabanga 1707): D. Flower, E. Fruit. – Solanum terminale (Ogooué-Ivindo, Gabon, Bidault et al. 4488 ) : F. Inflorescence, G. Fructification. – Solanum aculeatissimum (Estuaire, Gabon, Bidault et al. 3627 ) : H. Inflorescence. – Solanum americanum (Ica, Pérou, Knapp s.n. ) : I. Inflorescence. – Solanum anguivi (Ngong, Kenya, Vorontsova et al. 100 ) : J. Inflorescence. – Solanum anomalum (Ogooué-Ivindo, Gabon, Texier 2255 ) : K. Fructifications. – Solanum dasyphyllum (Tegetero, Tanzania, Vorontsova et al. 151 ) : L. Inflorescence. – Solanum torvum (Nzérékoré, Guinea, Bidault & Diabaté 668 ) : M. Flower. (Photos A, B, D-H, M by Ehoarn Bidault (CC-*
+
+![Schwenckia americana](../sources/Solanaceae_vol55_liteparse/figures/fig_055_p0111.png)
+
+*Plate 33 . Schwenckia americana : 1. Fertile stem. – 2. Flower. – 3. Calyx, interior view. – 4. Corolla, interior view with the two stamens and the three staminodes. – 5. Gynoecium. – 6. Capsule in the accrescent calyx. – 7. Seed. (1-5 : Lye 2682 ; 6, 7 : Wood 585 ). Drawing by M. Tebbs (©), Royal Botanic Gardens, Kew, reproduced with permission from Edmonds (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

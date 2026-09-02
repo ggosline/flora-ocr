@@ -59,6 +59,42 @@ Breteler (2008) gives brief descriptions of the subgenera to be distinguished in
 
 3. - Lamina with principal vein glabrous or almost glabrous above; pedicel 7–15 mm ..... C. le-testui
 
+## Key to the species
+
+1. - Stamens twice as numerous as calyx lobes* ............................... 2
+- Stamens at least three times as numerous as calyx lobes ................. 5
+2. - Anthers hairy; no gummous exudate between flowers; small shrubs of the interior
+................................................................................................ 3
+- Anthers glabrous; gummous exudate between flowers; coastal shrub or forest tree
+......................................................................................................................... 4
+3. - Limb with main vein glabrous or nearly glabrous above; pedicel
+7–15 mm .................................................................................................. C. le-testui
+- Limb with main vein hispid; pedicel ± 1 mm ................................ C. nana
+4. - Subshrub or coastal shrub; nodes distinctly swollen; ovary pubescent C. barteri
+- Tree of the interior; nodes generally slightly swollen; ovary generally glabrous,
+except for a few hairs at the apex .................. C. gummiflua
+5. - Anthers hairy ...................................................................................................... 6
+- Anthers glabrous ...................................................................................................... 7
+6. - Ovary glabrous, 3–5-locular; fruit glabrous, deeply furrowed .... C. ndambiana
+- Ovary hairy, 3-locular; fruit hairy, not furrowed ............................. C. schizocalyx
+7. - Calyx with (4–)5(–6) lobes at least as long as the tube; petal with filiform or
+ribbonlike lobes, glabrous .................................................................................................. 8
+- Calyx with 4 lobes slightly shorter than the tube; petal with filiform lobes, hairy
+....................................................................................................... C. plumosa
+8. - Anthers non-apiculate ............................................................................................. 9
+- Anthers apiculate ...................................................................................... C. pumila
+9. - Calyx with lobes glabrous or with indument ± appressed internally; petal with ≤ 10
+lobes; ovary glabrous to hirsute-hispid; style ≥ 3 mm in length .................................. 10
+- Calyx with lobes densely silky internally; petal with > 15 lobes; ovary with appressed
+pubescence; style ± 1 mm in length ......................... C. carringtoniana
+10. - Calyx glabrous or nearly glabrous internally; ovary and fruit glabrous or with a few
+hairs at the apex and along the sutures or upper part hairy
+.............................................................................................................. C. congoensis
+- Calyx hairy internally; ovary and fruit entirely hairy, indument less dense in fruit
+.................................................................................. C. ruwensorensis
+* Character difficult to observe and not entirely reliable, but more distinctive vegetative or floral
+characters are lacking at this level. However, the following should allow for satisfactory determination.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -39,6 +39,12 @@ Secondary forests and forest edges, forest galleries, often in flooded terrain; 
 
 This species was known, until now, only from the types (Pellegrin 1949; Sosef et al. 2006). It is, in reality, fairly widespread in Gabon; we also report it for the first time from the Republic of the Congo, based on the specimen M'Boungou 446 (P, WAG). The pods are described here for the first time. Although very flat, they are clearly woody, which distinguishes D. librevillensis from related Gabonese species. Their shape is moreover fairly variable, as illustrated in the figure. A specimen from the Makokou region, Hladik 1539 (P), resembles D. librevillensis closely in the shape of the leaflets and in the standard bent at a right angle, but has more discolorous leaves and the keel less curved and narrower, which brings it closer to D. adamii; moreover the ovary is entirely glabrous. Additional collections, notably in fruit, would be necessary to clarify its status. b: Pellegrin (1949). Bibliography
 
+## Figures
+
+![Dalbergia librevillensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_050_p0136.png)
+
+*Plate 42: Dalbergia librevillensis: 1. Flowering branch. – 2. Prehensile branches. – 3. Leaflet, detail of lower surface. – 4. Flower. – 5. Flower with petals fallen, showing stamens. – 6. Standard, inner surface. – 7. Wing, outer surface. – 8. Keel petal, outer surface. – 9. Gynoecium. – 10 & 11. Pods. (1, 3–9: Dibata 1135; 2: Jongkind 5904; 10: M'Boungou 446; 11: Mcpherson 16722). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

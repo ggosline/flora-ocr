@@ -31,6 +31,11 @@ B: Fischer (1996, 2006b), Hepper (1963), Mielcarek (1996), Morawetz & Wolfe (200
 
 - Calyx glabrous to ciliate; corolla glabrous .................................................... A. sessiliflora
 
+## Key to the species
+
+1. - Calyx with stipitate glands and hispid hairs; corolla with stipitate glands on the exterior ............................................................................................ A. glandulosa
+- Calyx glabrous to ciliate; corolla glabrous .................................................... A. sessiliflora
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -66,11 +66,11 @@ Baker & Wright (1905), Brenan (1954), Figueiredo et al. (2011), Lemmens (2009), 
 
 ![Ehretia cymosa](../sources/Boraginaceae_vol57_paddle/figures/fig_012_p0019.png)
 
-*Planche 4. Ehretia cymosa: 1. Rameau florifère. – 2. Feuille. – 3. Fleur. – 4. Gynécée. – 5. Diagramme floral. (1-5: à partir du matériel vivant). Dessin par William Burger (©), reproduit avec permission à partir de Burger (1967).*
+*Plate 4. Ehretia cymosa: 1. Flowering branch. – 2. Leaf. – 3. Flower. – 4. Gynoecium. – 5. Floral diagram. (1-5: from living material). Drawing by William Burger (©), reproduced with permission from Burger (1967).*
 
 ![Ehretia cymosa](../sources/Boraginaceae_vol57_paddle/figures/fig_013_p0022.png)
 
-*Figure 1. Euploca katangensis: A. Port (Zimbabwe). – Heliotropium indicum: B. Inflorescence (P.N. de Loango, Gabon). – Ehretia cymosa: C. Inflorescence (Rép. dém. Congo); D. Infrutescence (Bas-Congo, Rép. dém. Congo). Photos par Bart Würsten (A, ©), Jean Pierre Vande weghe (B, ©), Francesca Lanata (C, ©) et Paul Latham (D, ©).*
+*Figure 1. Euploca katangensis: A. Habit (Zimbabwe). – Heliotropium indicum: B. Inflorescence (P.N. de Loango, Gabon). – Ehretia cymosa: C. Inflorescence (Dem. Rep. Congo); D. Infructescence (Lower-Congo, Dem. Rep. Congo). Photos by Bart Würsten (A, ©), Jean Pierre Vande weghe (B, ©), Francesca Lanata (C, ©) and Paul Latham (D, ©).*
 
 ## Notes
 

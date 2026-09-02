@@ -37,6 +37,15 @@ dark purple at maturity ........................................................
 
 - Solitary palm with stem up to 3 m; leaf 0.5–1.2 m in length; lower surface of
 
+## Key to the species
+
+1. - Acaulescent palm; leaf 1.5–4 m long; abaxial surface of leaflets pubescent to
+tomentose; erect infructescence, with olive-green fruits spotted with purple becoming
+dark purple at maturity ............................................................................................. P. acaulis
+- Solitary palm with stem up to 3 m; leaf 0.5–1.2 m long; abaxial surface of leaflets
+sparsely pubescent and glabrescent to glabrous; recurved infructescence, with
+brown-orange fruits becoming bright orange at maturity ...................................................... P. barteri
+
 ## Species in region
 
 | Species | Vol | Pages |

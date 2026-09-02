@@ -38,6 +38,12 @@ Gabon, Democratic Republic of the Congo and Tanzania (Usambara); in Gabon, rare 
 
 primary forest, swamp forest; in Gabon at approximately 600 m elevation, elsewhere up to 1050 m. Use: The wood is used for construction and for the manufacture of musical instruments, and gives a beautiful polish. B: Gillett (1971d), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Schefflerodendron usambarense](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_124_p0346.png)
+
+*Plate 116: Schefflerodendron usambarense: 1. Flowering branch. – 2. Detail of lower surface of leaflet. – 3. Stipules. – 4. Base of leaflet with stipels. – 5. Flower bud. – 6. Detail of indu - mentum on external surface of calyx. – 7. Pod. – 8. Pod, open. Drawing by Hans de Vries, Naturalis.*
+
 ## Notes
 
 <!-- TODO:notes -->

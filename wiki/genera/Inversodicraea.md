@@ -29,6 +29,22 @@ Notes: Cusset (1983) divided Ledermanniella into two subgenera: subgen. Phylloso
 
 The term "bract" was generally used by Cusset (Cusset 1978, 1983, 1984, 1987a, 1987b, Cusset & Cusset 1988a, 1988b) to designate small leaves, modified or otherwise, subtending the flowers in
 
+## Key to the species
+
+1. - Foliaceous scales densely covering (generally overlapping) the main stem and the inflorescence axes .............................................................................................. 2
+- Foliaceous scales covering only the inflorescence axes or scattered (non-overlapping) on the stem and secondary branches ...................................................... 5
+2. - Foliaceous scales always entire, on the stem as on the branches, broadly elliptic with obtuse to rounded apex toward the branch apices ............ I. boumiensis
+- Foliaceous scales lobed, at least on the branches, if not on the entire plant .. 3
+3. - Foliaceous scales entire appressed, broadly ovate at the base of the stem, 1- to 3-lobed, narrowly ovate on the branches ............................................. I. gabonensis
+- Foliaceous scales all of the same form, lobed or with triangular teeth on the stem and on the branches ............................................................................................................... 4
+4. - Foliaceous scales with 3 teeth toward the base of the stem, smaller than those with 5 to 9(–10) teeth on the branches; pedicel 5–10 mm after anthesis; tepals ± 0.8 mm in length ....................................................................................................... I. cristata
+- Foliaceous scales bearing 3 equal teeth on the stem as well as on the branches; pedicel 3–4 mm after anthesis; tepals 0.3–0.4 mm in length ....... I. ledermannii
+5. - Stem simple or branched, 1–2 cm long ..................................................... I. thollonii
+- Stem simple or rarely bifid, 5–25 cm long ...................................................... 6
+6. - Foliaceous scales on the stem broadly elliptic to suborbicular, entire to denticulate; filaments fused for more than half their length ....................... I. annithomae
+- Foliaceous scales digitate, with 3 equal lobes; filaments fused for ± ⅓ of their length
+......................................................................................................................... I. paulsitae
+
 ## Species in region
 
 | Species | Vol | Pages |

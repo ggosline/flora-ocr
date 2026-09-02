@@ -36,6 +36,12 @@ Primary forest, secondary forest, gallery forests, sometimes in dry forests, on 
 
 Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.
 
+## Figures
+
+![Campylospermum engama](../sources/Ochnaceae_vol48_liteparse/figures/fig_022_p0046.png)
+
+*Plate 10. Campylospermum engama: 1. Sterile branch. – 2. Fruitinflorescence. – 3. Margin of blade.*
+
 ## Notes
 
 <!-- TODO:notes -->

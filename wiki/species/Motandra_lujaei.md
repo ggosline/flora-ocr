@@ -37,6 +37,12 @@ from Guinea to Uganda and Angola; in Gabon: Nyanga and Ogooué-Ivindo
 
 clear deciduous or secondary forest, gallery forest, secondary regrowth, on sandy or clayey soils and on rocky outcrops; in Gabon to ± m altitude; elsewhere up to m. Use: In West Africa, the leaf juice is applied to treat eye infections and toothache. B: Boone (2008), de Kruif (1984). BIBLIOGRAPHY
 
+## Figures
+
+![Motandra lujaei](../sources/Apocynaceae_vol59_liteparse/figures/fig_143_p0166.jpeg)
+
+*Plate 75. Motandra lujaei: 1. Flowering branch (× ⅔). – 2. Fruiting branch (× ⅔). – 3. Base of the petiole and blade, upper surface (× 4). – 4. Domatium (× 2). – 5. Flower (× 6). – 6. Idem, longitudinal section*
+
 ## Notes
 
 <!-- TODO:notes -->

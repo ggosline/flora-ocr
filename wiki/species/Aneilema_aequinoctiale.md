@@ -37,6 +37,16 @@ Ghana, reproduced from Morton (1966).
 
 Use: Its main uses in Africa are medicinal, culinary and domestic. The plant is used throughout Africa; the roots are used to treat skin disorders, eye diseases, constipation, leprosy, kwashiorkor and amenorrhea. Self-medication by A. aequinoctiale has been observed in chimpanzees that consume the entire leaves. Normally, the plant is not part of the chimpanzee diet; this behaviour is most often observed during the rainy season, when animals are more likely to be affected by parasitic nematodes such as Oesophagostomum stephanostomum. B: Brenan (1968b), Burkill (1985), Cabezas et al. (2014), Faden (2012), Hyde et al. (2019a), Bibliography Vandeweghe et al. (2016).
 
+## Figures
+
+![Aneilema aequinoctiale](../sources/Commelinaceae_vol55_liteparse/figures/fig_014_p0012.jpeg)
+
+*Figure 1 . Amischotolype scandens (Mts of Cristal, Gabon, Bidault et al. 3567 & 3417 ) : A. Flowering stem, B. Inflorescence and flower. – Aneilema beniniense (Lake Azingo, Gabon, Bidault et al. 1850 ) : C. Flowering stem. – Aneilema aequinoctiale (Durban, South Africa) : D. Flowering stems. – Aneilema umbrosum (Ivindo, Gabon, Bidault et al. 2123 ) : E. Flowering stem, (Kouilou, Rep. of Congo, Bidault et al. 3055 ) :*
+
+![Aneilema aequinoctiale](../sources/Commelinaceae_vol55_liteparse/figures/fig_016_p0017.png)
+
+*Plate 2. Aneilema aequinoctiale: 1. General aspect (× ⅔). – 2. Hairs on the stem. – 3. Flower, lateral view (× 2). – Idem, front view (× 2). – 5. Upper staminode (× 6). – 6. Fruit, with persistent sepal (× 2). – 7. Seed, ventral view showing the hilum (× 8). – 8. Idem, dorsal view (× 8). Drawing by S.K. Avumatsodo,*
+
 ## Notes
 
 <!-- TODO:notes -->

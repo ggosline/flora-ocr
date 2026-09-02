@@ -41,6 +41,12 @@ papyrus, papier du Nil, souchet à papier (fr.) ; Egyptian paper plant, paper re
 
 The pith of the stem was used in ancient civilizations (Egyptians, Greeks and Romans) to make a primitive form of paper; it was also consumed raw or cooked and used to caulk boats. Today, it is only cultivated on a small scale and used locally to make mats, fishing nets, cordage and other comparable uses. Taxonomic note: easily identified by its giant stems without blades, trigonous with rounded angles. It resembles no other species in Gabon and West Africa. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997), Raponda-Walker & Sillans (1961), Vaughan (2011)
 
+## Figures
+
+![Cyperus papyrus](../sources/Cyperaceae_vol44_liteparse/figures/fig_053_p0069.png)
+
+*Plate 41 . Cyperus papyrus . A. Plant. – B. Base Plate 42 . Cyperus pseudopilosus . A. Plant. – B. of the plant. – C. Upper leaf sheath. – D. Spikelet. – C. Glume. – D. Anther. – E. Fruit with*
+
 ## Notes
 
 <!-- TODO:notes -->

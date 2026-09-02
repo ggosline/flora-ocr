@@ -36,6 +36,16 @@ from Senegal, Mali and Guinea to Nigeria, Cameroon and the Central African Repub
 
 gallery forest, anthropogenic savanna; in Gabon, at 300–400 m altitude. b: Breteler (2012a, b), De Wildeman (1936), Keay (1958), Pax & Hoffmann Bibliography (1922)
 
+## Figures
+
+![Uapaca togoensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_041_p0105.png)
+
+*Plate 35. Uapaca togoensis : A. Male flowering branch (× ⅔). ‒ B. Male inflorescence (× 4). ‒ C.*
+
+![Uapaca togoensis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_042_p0107.png)
+
+*Plate 36. Uapaca togoensis : A. Fruit. ‒ Uapaca vanhouttei : B. Leaf. ‒ C. Detail of the lower surface of the leaf. ‒ D. Stipule. ‒ E. Fruit. (A : Breteler 6779 ; B, C : Wieringa et al . 3567 ;*
+
 ## Notes
 
 <!-- TODO:notes -->

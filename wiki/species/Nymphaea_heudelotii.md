@@ -34,6 +34,12 @@ from Senegal to Angola; in Gabon known from Nyanga (Moukalaba Doudou region) and
 
 lakes, riverbanks, swamp forests, savanna pools; in Gabon up to 200 m altitude, elsewhere up to 1850 m. B : Conard (1905), Hauman (1951), Verdcourt (1989b). i Bibliography
 
+## Figures
+
+![Nymphaea heudelotii](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_047_p0057.png)
+
+*Plate 13. Nymphaea heudelotii : 1. Flowering plant (× ½). – 2. Flower (× ½). – 3. Stamens, internal surface (× 2). – 4. Seed (× 10). (1–4 : Lebrun 1934, Descamps s.n.). Drawing by J.M. Lerinckx reproduced with the permission of the National Botanical Garden of Belgium (©), from Hauman (1951).*
+
 ## Notes
 
 <!-- TODO:notes -->

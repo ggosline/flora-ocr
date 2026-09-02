@@ -41,6 +41,20 @@ understory, often on steep slopes; in Gabon as elsewhere at 0–1000 m altitude.
 
 See the notes under D. aubryana. B: Baker (1898), Bos (1984), Damen et al. (2018), Mwachala (2005). Bibliography
 
+## Figures
+
+![Dracaena tholloniana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_047_p0054.jpeg)
+
+![Dracaena tholloniana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_048_p0054.jpeg)
+
+![Dracaena tholloniana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_049_p0054.jpeg)
+
+![Dracaena tholloniana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_050_p0054.jpeg)
+
+![Dracaena tholloniana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_051_p0056.png)
+
+*Plate 19. Dracaena tholloniana: 1. General aspect. – 2. Part of fruiting inflorescence. Drawing by Eberhard*
+
 ## Notes
 
 <!-- TODO:notes -->

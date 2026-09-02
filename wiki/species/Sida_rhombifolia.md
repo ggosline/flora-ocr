@@ -42,6 +42,12 @@ faux thé (fr.) ; arrow-leaf sida, Cuban jute (angl.) ; nom-nzisim (fang). Note 
 
 Open flower, showing the androecium and two petals. – 5. Gynoecium. – 6. Drawing by Anita Walsmit Sachs, Naturalis Biodiversity Center (section NHN) ©.
 
+## Figures
+
+![Sida rhombifolia](../sources/Malvaceae_vol45_liteparse/figures/fig_037_p0088.png)
+
+*Plate 26. Sida rhombifolia : 1. Branch with floral buds and fruits. – 2. Leaf. – 3. Flower. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

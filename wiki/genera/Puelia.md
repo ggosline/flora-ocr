@@ -53,6 +53,17 @@ ROTTBOELLIA
 
 55.1 chevalieri
 
+## Key to the species
+
+1. Fertile culms and sterile culms separated.....
+
+P. Schumanniana Pilger (Cameroon).
+1'. Inflorescence at the apex of leafy culms.
+
+2. Leaves elongate, 20-30 × 5-7 cm; terminal inflorescence elongate, 10-15 cm long... P. Dewevrei De Wild. (Congo).
+
+2'. Leaves ovate-lanceolate, 25-30 × 10-20 cm; terminal panicle short; leaves ciliate on the margins..... 1. P. ciliata.
+
 ## Species in region
 
 | Species | Vol | Pages |

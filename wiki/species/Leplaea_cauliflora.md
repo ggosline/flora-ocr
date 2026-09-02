@@ -37,6 +37,12 @@ Andel 3926; H: Sosef et al. 688; J: Wieringa 377). Drawing by Hans de Vries, Nat
 
 Seed, adaxial face. – I. Superposed cotyledons. – J. Seedling. (A–D: Voorhoeve 1160; E: Gilbert 1283; F: Voorhoeve 300; G: de Koning 3978; H, I: Jongkind 7769; J: Harley s.n.). Drawing by L. van der Riet (A, C, F & J) and Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
 
+## Figures
+
+![Leplaea cauliflora](../sources/Meliaceae_vol47_liteparse/figures/fig_025_p0045.png)
+
+*Plate 11. Leplaea cauliflora: A. Leaf. – B. Detail of a leaflet, lower surface. – C. Inflorescences on the trunk. – D. Flower. – E. Functionally male flower, longitudinal section. – F. Functionally female flower, ditto. – G. Fruit. – H. Fruit in transverse section. – I. Cotyledons. – J. Fruit viewed from above. (A: Wieringa et al. 6270; B, E: N. Hallé 3870; C: N. Hallé 3030; D, F: van Andel 3299; G, I: van*
+
 ## Notes
 
 <!-- TODO:notes -->

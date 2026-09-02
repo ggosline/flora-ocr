@@ -38,6 +38,12 @@ Understory of deeply shaded primary forests, on well-drained sandy soil, sometim
 
 In various botanical gardens, a plant is cultivated under the name of D. goldieana which in sterile state resembles this species closely. However, the difference is that these plants have a spiciform inflorescence with glomerules and not a capitate inflorescence, as is usual in D. goldieana. The provenance data are not clear; it could be a hybrid between D. goldieana and D. fragrans. B: Baker (1898), Bos (1984), Damen et al. (2018), Hepper (1968), Mwachala (2005), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena goldieana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_028_p0036.jpeg)
+
+*Plate 11. Dracaena goldieana: 1. Tip of a flowering branchlet. – 2. Flower. – 3. Stamens. Drawing by J.N. Fitch Lith, reproduced from Baker (1872).*
+
 ## Notes
 
 <!-- TODO:notes -->

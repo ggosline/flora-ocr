@@ -37,6 +37,13 @@ Bibliography: Mabberley (2011), Pennington & Styles (1975), Staner & Gilbert (19
 
 - Calyx 2–3.5 mm long; petals 8–11 mm; fruit compact, ovoid to obovoid, often mammillose, mucronate at apex ............................. H. zenkeri
 
+## Key to the species
+
+1. - All leaves 3-foliolate .............................................................. H. trifoliolata
+- Leaves with 5–15 leaflets, rarely mixed with a 3-foliolate leaf .............. 2
+2. - Calyx 1–2(–2.5) mm long; petals 6–8(–9.5) mm long; fruit narrowly ovoid to cylindrical, but often asymmetric, ridged and moniliform, beaked ........................................................................................................ H. staudtii
+- Calyx 2–3.5 mm long; petals 8–11 mm; fruit compact, ovoid to obovoid, often mammillate, mucronate at the apex ............................. H. zenkeri
+
 ## Species in region
 
 | Species | Vol | Pages |

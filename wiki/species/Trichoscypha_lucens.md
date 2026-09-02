@@ -37,6 +37,12 @@ primary and secondarised forest; in Gabon up to 640 m altitude, elsewhere at 50�
 
 The fruits are edible. B: Breteler (2001, 2004). Bibliography
 
+## Figures
+
+![Trichoscypha lucens](../sources/Anacardiaceae_vol50_liteparse/figures/fig_026_p0045.png)
+
+*Plate 16 . Trichoscypha lucens : 1. Leaflet, detail of the upper surface (× 5). – 2. Male flower (× 10). – 3. Female flower, longitudinal section (× 10). (1, 3 : Pierlot 2881 ; 2 : Pierlot 2882 ). Drawing by J.M.*
+
 ## Notes
 
 <!-- TODO:notes -->

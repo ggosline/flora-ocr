@@ -35,6 +35,11 @@ This tropical genus is American and African. Two species are present in the Came
 
 1'. Leaflets very narrow; staminodes longer than the stamens; legume 25 cm long ..... 2. P. eetveldeana.
 
+## Key to the species
+
+1. Leaflets broad ; staminodes as long as the stamens ; pod 50 cm long ..... 1. P. macrophylla.
+1'. Leaflets very narrow ; staminodes longer than the stamens ; pod 25 cm long ..... 2. P. eetveldeana.
+
 ## Species in region
 
 | Species | Vol | Pages |

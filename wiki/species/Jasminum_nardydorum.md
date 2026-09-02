@@ -38,6 +38,12 @@ Jasminum 9 Meise (©).
 
 10 Frans J. BRETELER & Carel C.H. JONGKIND
 
+## Figures
+
+![Jasminum nardydorum](../sources/Oleaceae_vol51_liteparse/figures/fig_021_p0016.png)
+
+*Plate 4. Jasminum nardydorum : 1. Flowering branch. – 2. Domatium. – 3. Inflorescences. – 4. Floral bud, longitudinal section. (1–4 : Breteler et al. 15643 ). Drawing by Hans de Vries, Botanical Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

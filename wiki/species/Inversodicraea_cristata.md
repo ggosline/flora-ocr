@@ -36,6 +36,12 @@ Cameroon, Central African Republic, Gabon and Angola; in Gabon, known from a sin
 
 In Gabon, at ± 150 m altitude, elsewhere up to 780 m. Bi: Cheek et al. (2017), Cusset (1983, 1987a), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Inversodicraea cristata](../sources/Podostemaceae_vol51_liteparse/figures/fig_028_p0031.png)
+
+*Plate 10. Inversodicraea cristata. 1. General view (× 4). – 2. End of branch (× 10). – 3. Leaflet (× 22). – 4. Very young flower removed from the spatheole (× 15). – 5. Open flower (× 22). – 6. Seed (× 160).*
+
 ## Notes
 
 <!-- TODO:notes -->

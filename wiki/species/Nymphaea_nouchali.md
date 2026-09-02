@@ -35,6 +35,22 @@ stagnant waters, marshes, lakes, etc.; in Gabon up to 400 m altitude, elsewhere 
 
 .203-3+20.3 1+13 7 95 3 5
 
+## Figures
+
+![Nymphaea nouchali](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_048_p0059.png)
+
+*Plate 14. Nymphaea nouchali var. caerulea : 1. Leaf (× ⅔). – 2. Flower (× ⅔). – 3. Flower in longitudinal section (× 2). – 4. Inner stamen (× 9). – 5. Stigmas (× 5). – 6. Ovule (× 24). – 7.*
+
+![Nymphaea nouchali](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_049_p0061.png)
+
+![Nymphaea nouchali](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_050_p0061.png)
+
+![Nymphaea nouchali](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_051_p0061.png)
+
+![Nymphaea nouchali](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_052_p0061.png)
+
+![Nymphaea nouchali](../sources/Nymphaeaceae_vol40_liteparse/figures/fig_053_p0061.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

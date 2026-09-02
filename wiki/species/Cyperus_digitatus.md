@@ -37,6 +37,12 @@ in swamps or near water, often along rivers or in seasonally flooded habitats; i
 
 digitate cyperus, finger flatsedge, red-root flatsedge (angl.). Usage : Les tiges sont utilisées pour fabriquer des tapis et corbeilles Les racines et les tiges sont odorantes et parfois utilisées pour aider les femmes à récupérer après un accouchement. Note taxonomique : se reconnaît à ses épis cylindriques ayant des épillets assez anguleux et non comprimés, brun rougeâtre à dorés. Elle diffère de C. dives Delile et de C. imbricatus par ses épillets moins nombreux qui ne cachent pas le rachis. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
 
+## Figures
+
+![Cyperus digitatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_041_p0055.png)
+
+*Planche 29 . Cyperus digitatus subsp. auricomus. Planche 30 . Cyperus dilatatus. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

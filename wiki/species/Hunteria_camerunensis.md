@@ -32,6 +32,12 @@ Cameroon and Gabon; in Gabon: Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem. Ecolo
 
 Omino (1996)
 
+## Figures
+
+![Hunteria camerunensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_092_p0097.jpeg)
+
+*Plate 38 . Hunteria camerunensis (× 10). – 4. Open corolla, with stamens (× 10). – 5. Calyx lobe, inner surface (× 14). – 6. Pistil (× 14). (1-6 : Zenker 1211 ). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Omino (1996).*
+
 ## Notes
 
 <!-- TODO:notes -->

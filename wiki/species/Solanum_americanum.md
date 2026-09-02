@@ -41,6 +41,12 @@ brède-morelle, morelle noire (fr.) ; glossy nightshade (angl.) ; etchango (mits
 
 Historically the species S. americanum and S. nigrum L. were considered as widely distributed throughout the Old World as a whole; they were notably recorded as present in Gabon (Sosef et al. 2006). But the lack of clear delimitation for these two species (and more broadly for the species of the group to which they belong, the 'Morelloid' clade) was at the origin of a long series of confusions. The name S. nigrum in particular was often used to designate all or part of the species of the 'Morelloid' clade. The most recent taxonomic and phylogenetic studies (Särkinen et al. 2015, 2018) have made it possible to precisely circumscribe S. americanum and S. nigrum, both in their morphology and in their distribution. The two species are distinguished notably by the size of their anthers, < 1.5 mm for S. americanum and > 2 mm for S. nigrum (see Särkinen et al. 2018 for more detail). Geographically, S. americanum is present throughout the tropical zones of the globe while S. nigrum is found mostly in the temperate and subtropical zones of the Old World. The two species are sympatric only in tropical Asia and only S. americanum is present in sub-Saharan Africa and therefore in Gabon. Bibliography: Edmonds (2012), Heine (1963), Manoko & van der Weerden (2004), Raponda-Walker & Sillans (1961), Särkinen et al. (2015, 2018)
 
+## Figures
+
+![Solanum americanum](../sources/Solanaceae_vol55_liteparse/figures/fig_059_p0119.png)
+
+*Plate 36 . Solanum americanum : 1. Fertile stem. – 2. Detail of the lower surface of the blade. – 3. Detail of the upper surface of the blade. – 4. Inflorescence. – 5. Leaf. – 6. Flower, longitudinal section. – 7. Berry. (1-4, 6-7 : Cremers 8084 ; 5 : Farrugia 2773 ). Drawing by Rosemary Wise (©), reproduced with permission from Särkinen et al. (2018).*
+
 ## Notes
 
 <!-- TODO:notes -->

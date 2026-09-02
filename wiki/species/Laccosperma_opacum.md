@@ -47,6 +47,12 @@ understory of humid tropical forests, on well-drained basaltic or volcanic soil;
 
 round-warty-seeded African rattan (angl) ; abulo (bakele) ; di-bulu (lumbu, éshira) ; éboa (mitsogo) ; ibulu (myene) ; npue-nkan (fang) ; ulóngó-mwa-iki (benga). Usage : Au Gabon, les forestiers boivent la sève des stipes, particulièrement durant la saison sèche. B : Faye et al. (2014), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Sunderland i B liographie (1998, 2007, 2012)
 
+## Figures
+
+![Laccosperma opacum](../sources/Arecaceae_vol53_liteparse/figures/fig_024_p0035.png)
+
+*Plate 11. Laccospermum laeve: 1. Mature stipe. – 2. Leaf. – 3. Inflorescence. – 4. Fruit. – 5. Seed. – Laccospermum opacum: 6. Part of a leaflet. – 7. Inflorescence. – 8. Flower in bud. – 9. Fruit. – 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

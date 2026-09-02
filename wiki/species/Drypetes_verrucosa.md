@@ -44,11 +44,11 @@ Hutchinson (1912), Pax & Hoffmann (1922), Sosef et al. (2006)
 
 ![Drypetes verrucosa](../sources/Putranjivaceae_vol57_paddle/figures/fig_104_p0158.png)
 
-*Figure 11. Drypetes principum: A, Rameau feuillé; B, Jeunes fruits. – Drypetes stipularis: C, Boutons floraux femelles; D, Stipule; E, Fruits. – Drypetes umbricola: F, Tronc. – Drypetes verrucosa: G, Inflorescence mâle; H, Stipule; I, Fruits; J, Rameau feuillé. Photos A, B par N. Texier (Gabon, Texier 1177), C par D. Harris (Rép. Congo, Harris 8874), D, E par D. Harris (Rép. Congo, Harris 9316), F par D. Harris (Rép. Centrafricaine, Harris 8810), G par B. Sonké (Gabon, Sonké 6041), H-J par E. Bidault (Gabon, Bidault 1940).*
+*Figure 11. Drypetes principum: A, Leafy branch; B, Young fruits. – Drypetes stipularis: C, Female flower buds; D, Stipule; E, Fruits. – Drypetes umbricola: F, Trunk. – Drypetes verrucosa: G, Male inflorescence; H, Stipule; I, Fruits; J, Leafy branch. Photos A, B by N. Texier (Gabon, Texier 1177), C by D. Harris (Rep. Congo, Harris 8874), D, E by D. Harris (Rep. Congo, Harris 9316), F by D. Harris (Central African Rep., Harris 8810), G by B. Sonké (Gabon, Sonké 6041), H-J by E. Bidault (Gabon, Bidault 1940).*
 
 ![Drypetes verrucosa](../sources/Putranjivaceae_vol57_paddle/figures/fig_107_p0166.png)
 
-*Planche 54. Drypetes verrucosa : 1. Rameau feuillé. - 2. Infrutescence ( $ \times\frac{1}{2} $). - 3. Fruit ( $ \times1 $). - 4, 5. Idem, coupe longitudinale ( $ \times1 $). - 6, Idem, coupe transversale ( $ \times1 $). - 7, Graine, vue ventrale ( $ \times2\frac{1}{2} $). - 8. Idem, vue latérale ( $ \times2\frac{1}{2} $). (1-7: Klaine 2589). Dessin par E. Delpy, Muséum nationale d'Histoire naturelle, Paris (©), reproduit à partir d'une gravure originale.*
+*Plate 54. Drypetes verrucosa : 1. Leafy branch. - 2. Infructescence ( $ \times\frac{1}{2} $). - 3. Fruit ( $ \times1 $). - 4, 5. Idem, longitudinal section ( $ \times1 $). - 6, Idem, transverse section ( $ \times1 $). - 7, Seed, ventral view ( $ \times2\frac{1}{2} $). - 8. Idem, lateral view ( $ \times2\frac{1}{2} $). (1-7: Klaine 2589). Drawing by E. Delpy, National Museum of Natural History, Paris (©), reproduced from an original engraving.*
 
 ## Notes
 

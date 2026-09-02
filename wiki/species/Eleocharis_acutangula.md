@@ -33,6 +33,12 @@ widely distributed throughout all tropical regions of Africa, America and Asia; 
 
 on the shores of ponds and lakes; in Gabon, at 100–120 m altitude, at 0–1500 m elsewhere in Africa. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Eleocharis acutangula](../sources/Cyperaceae_vol44_liteparse/figures/fig_105_p0129.png)
+
+*Planche 79 . Eleocharis acutangula . A. Plante. – B. Planche 80 . Eleocharis atropurpurea . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

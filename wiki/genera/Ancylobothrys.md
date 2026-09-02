@@ -41,6 +41,15 @@ Corolla tube 10–44 mm long, equalling or shorter than the lobes, pubescent ext
 
 ................................................................................................................... A. pyriformis
 
+## Key to the species
+
+Attention: the leaves can vary considerably on the same plant.
+1. - Leaf blade with 5 to 14 pairs of secondary veins, most often short-curved, forming an angle of ± ° with the midrib; petiole of ± mm; corolla tube 10.5–20 mm long ........................................................................ A. robusta
+- Leaf blade with 8 to 25 pairs of secondary veins, ± straight, forming an angle of ± ° with the midrib; petiole of ± mm; corolla tube 7.5–44 mm long .................................................................................................................. 2
+Corolla tube 7.5–15 mm long, longer than the lobes, glabrous or with short and sparse external pubescence; petiole of 4–15 mm ................................. A. scandens
+Corolla tube 16–44 mm long, equal to or shorter than the lobes, pubescent externally, often regularly dense; petiole of 8–20 mm
+................................................................................................................... A. pyriformis
+
 ## Species in region
 
 | Species | Vol | Pages |

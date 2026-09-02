@@ -44,6 +44,12 @@ haricot sauvage (fr) ; hairypod cowpea, deer pea (angl) ; adong (fang)
 
 The description by Pellegrin (1949) and Raponda-Walker & Sillans (1961) of V. oblonga refers to V. luteola. The latter, from Atlantic Ocean beaches, was often determined as V. marina (Burm.) Merr., because of its thicker leaflets (halophyte syndrome), but V. marina is found only on the coasts of the Indian Ocean and Pacific Ocean and its seeds are larger, 5.5–7 × 4.5–6 × 4–5 mm. Bibliography: Bosch (2004c), van der Maesen (2007), Paludosi & Ng (1993), Pellegrin (1949), Raponda-Walker & Sillans (1961), Verdcourt (1971c), Wilczek (1954)
 
+## Figures
+
+![Vigna luteola](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_135_p0377.png)
+
+*Plate 127 : Vigna luteola : 1. Flowering and fruiting branch (× ½). – 2. Stipule (× 2). – 3. Detail of the venation of the leaflet (× 4). – 4. Axis of the inflorescence (× 1½). – 5. Nectaries on axis of the inflorescence (× 10). – 6. Inflorescence in bud (× 3). – 7. Bracteole (× 10). – 8. Bract (× 10). – 9. Calyx, open (× 1½). – 10. Flower, frontal and lateral view (× ½). – 11. Standard (×1½). – 12. Idem, detail of the base with callositiesties (× 2). – 13. Wing (× 2). – 14. Keel, view from above (× 2). – 15. Idem, lateral view (× 2). – 16.*
+
 ## Notes
 
 <!-- TODO:notes -->

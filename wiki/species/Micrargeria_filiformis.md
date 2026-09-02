@@ -34,6 +34,12 @@ West and central Africa, Sudan, Burundi, Kenya, Tanzania, Zambia, Malawi, Zimbab
 
 marshes and grasslands, wet rocky savannas; in Gabon, at 100–300 m altitude, in East Africa, up to 2000 m. B: Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Philcox (1990). Bibliography
 
+## Figures
+
+![Micrargeria filiformis](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_053_p0126.png)
+
+*Plate 39. Micrargeria filiformis : A. Flowering stem. – B. Flower. – C. Corolla opened and spread. – D.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -31,6 +31,12 @@ Guinea, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Central African Republic
 
 primary and secondary forest, gallery forest, coastal, littoral and swampy forest, forest edges; on sandy and silvery soil; in Gabon, at 30–850 m altitude, elsewhere up to 1100 m. Taxonomic note: The distinction between C. calanthum and C. dybovskii is sometimes difficult. The former generally has much broader laminae with lateral nerves prominent below, but some individuals of C. calanthum have rather narrow laminae, while some individuals of C. dybovskii have lateral nerves slightly prominent below. In these cases, C. calanthum can be identified by its persistent stipules and leaves that are slightly to distinctly bullate (stipules caducous and leaves smooth in C. dybovskii). b: Bamps & Farron (1967), Bissiengou (2014), Exell & Mendonça (1951), Bibliography Farron (1963, 1985), Hawthorne & Jongkind (2006)
 
+## Figures
+
+![Campylospermum calanthum](../sources/Ochnaceae_vol48_liteparse/figures/fig_017_p0036.png)
+
+*Plate 5. Campylospermum calanthum: Fruiting branch. Drawing by Sabine Bousani in Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

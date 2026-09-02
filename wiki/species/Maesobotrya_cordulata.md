@@ -34,6 +34,12 @@ Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, col
 
 Primary and secondarized forest; in Gabon, at 200–700 m elevation. b: Léonard (1994). Bibliography
 
+## Figures
+
+![Maesobotrya cordulata](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_018_p0045.png)
+
+*Plate 12. Maesobotrya cordulata: A. Leaves (upper and lower surfaces × 0.6). ‒ B. Stipule (× 5). ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

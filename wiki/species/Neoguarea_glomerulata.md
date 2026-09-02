@@ -34,6 +34,12 @@ Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democrati
 
 understory of primary humid forest and old secondary forest; in Gabon, at 250–1020 m elevation, elsewhere up to 1750 m. B: Koenen & de Wilde (2012), Staner (1941). Bibliography
 
+## Figures
+
+![Neoguarea glomerulata](../sources/Meliaceae_vol47_liteparse/figures/fig_029_p0055.png)
+
+*Plate 15. Neoguarea glomerulata : A. Branch with leaf and functionally female inflorescence. – B. Detail of a leaflet, lower surface. – C. Leaf with leaflets of different shape. – D.*
+
 ## Notes
 
 <!-- TODO:notes -->

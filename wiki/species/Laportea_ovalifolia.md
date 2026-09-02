@@ -41,6 +41,12 @@ batsi (bapunu, bavarama, bavungu, éshira) ; bopélé (bavové) ; dipatsangwé (
 
 It does not seem possible to distinguish an infraspecific taxon with only creeping stems, as proposed by Peter (1932), Hauman (1948b) and Lambinon (1959). Among the material examined, there is a complete range, from specimens with erect stems to prostrate specimens with erect inflorescences arising directly from the prostrate stems or stolons. The prostrate forms should be understood as modifications induced by the environment, generally growing in humid and shaded herbaceous formations, and should not be given taxonomic status. This species is unique among the Urticaceae and most other families by its inflorescences often arising at some distance from the assimilatory leafy stems from underground stolons, and by the female inflorescences often arising on or beneath the litter of the forest floor. Specimens of this species may sometimes appear to consist of an isolated erect male inflorescence with a fragment of an underground rootstock stolon devoid of leaves, but we should consider that it must have been attached to a leafy plant. The trifid style is a character that L. ovalifolia shares only with L. interrupta; the very large achene does not exist in other species of the genus. B: Bosch (2004), Chew (1969), Friis (1989a, 1991), Hauman (1948b), Keay (1958), Lambinon (1959), Letouzey (1968), Marais (1985), Raponda-Walke & Sillans (1961)
 
+## Figures
+
+![Laportea ovalifolia](../sources/Urticaceae_vol51_liteparse/figures/fig_045_p0067.png)
+
+*Plate 26. Laportea ovalifolia : 1. Portion of a prostrate-rooting stem with a leafy shoot and a male inflorescence (× ⅔). – 2. Male flower after pollen ejection (× 6). – 3. Prostrate branch with a male inflorescence and three female ones, partially fruit-bearing (× ⅔). – 4. Female flower (× 10). – 5. Fruit (× 6). 6. Stem with male inflorescence (towards the right) and female in young fruit (× ⅔). – 7. Detail of the lower surface of the blade (× 3). 8. Idem, upper surface (× 3). (1, 2 : Mission bot. Camer. 250 ; 3–5 : J. de Wilde 2688A ; 6 : J. de Wilde 3734 ; 7, 8: Letouzey 5438 ). Drawing by Hélène Lamourdedieu, National Museum of Natural History, Paris (©), reproduced with permission from Letouzey (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

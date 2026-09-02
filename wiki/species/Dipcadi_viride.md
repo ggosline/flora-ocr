@@ -31,6 +31,12 @@ species with a wide distribution throughout tropical Africa extending to souther
 
 herbaceous and shrubby savannas, often on shallow soils or in rocky places; in Gabon between 600 and 700 m altitude, elsewhere from 75 to 2400 m. Taxonomic notes: very variable species, which explains the high number of synonyms. The taxonomic status of the different forms remains highly problematic. B : van der Burg (2006), Obermeyer (1964), Stedje (1996). i Bibliography
 
+## Figures
+
+![Dipcadi viride](../sources/Hyacinthaceae_vol40_liteparse/figures/fig_026_p0029.png)
+
+*Plate 5. Dipcadi viride: 1. Bulb and leaves (× 2/3). – 2. Inflorescence (× 2/3). – 3. Flower with bract (× 2). – 4. Flower, longitudinal section (× 2). – 5. External tepal, with caudate appendage (× 2). – 6. Internal tepal with stamen (× 4). – 7. Gynoecium (× 4). – 8. Fruit (× 2). – 9. Seeds (× 2).*
+
 ## Notes
 
 <!-- TODO:notes -->

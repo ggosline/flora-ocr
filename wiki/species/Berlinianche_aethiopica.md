@@ -33,6 +33,20 @@ parasite on species of the family Leguminosae, subfamily Caesalpinioidae, tribe 
 
 649452. 2-41343 .203-3+20,3 1+13 7 95 5
 
+## Figures
+
+![Berlinianche aethiopica](../sources/Apodanthaceae_vol40_liteparse/figures/fig_009_p0009.png)
+
+*Plate 1. Berlinianche aethiopica : 1. Plant (× 1). – 2. Plant (× 2). – 3. Male flower (× 8). – 4.*
+
+![Berlinianche aethiopica](../sources/Apodanthaceae_vol40_liteparse/figures/fig_010_p0011.png)
+
+![Berlinianche aethiopica](../sources/Apodanthaceae_vol40_liteparse/figures/fig_011_p0011.png)
+
+![Berlinianche aethiopica](../sources/Apodanthaceae_vol40_liteparse/figures/fig_012_p0011.png)
+
+![Berlinianche aethiopica](../sources/Apodanthaceae_vol40_liteparse/figures/fig_013_p0011.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

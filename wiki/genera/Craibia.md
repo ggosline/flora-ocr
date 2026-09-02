@@ -44,6 +44,21 @@ or more in length; stamens 15–25 mm; pedicel 1 cm or more ....................
 - Leaf with 7 to 9 leaflets; calyx, pedicel and bracteoles with dense, dark brown,
 semi-appressed indumentum; corolla reaching 13 mm in length; stamens 8–13 mm;
 
+## Key to the species
+
+1. - Leaf unifoliolate; legume lanceolate .............................................................. C. simplex
+- Leaf with 3 to 9 leaflets; legume suborbicular or obliquely obovate-oblanceolate
+(unknown in C. macrantha) ........................................................................................ 2
+2. - Leaf with 3 to 5 leaflets; calyx, pedicels and bracteoles glabrescent; corolla 2 cm
+or more in length; stamens 15–25 mm; pedicel 1 cm or more .............................. 3
+- Leaf with 7 to 9 leaflets; calyx, pedicel and bracteoles with dense, dark brown,
+semi-appressed indumentum; corolla reaching 13 mm in length; stamens 8–13 mm;
+pedicel up to 6 mm ................................................................................... C. laurentii
+3. - Bracteoles distant from the base of the calyx, below the hypanthium; auricles of the
+wings and keel less than 2 mm in length; stamens 15–18 mm ................................. C. lujae
+- Bracteoles at the base of the calyx; auricles of the wings and keel 3 mm or more in length;
+stamens 18–25 mm .................................................................................... C. macrantha
+
 ## Species in region
 
 | Species | Vol | Pages |

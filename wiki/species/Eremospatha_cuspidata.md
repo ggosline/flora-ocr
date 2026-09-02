@@ -41,6 +41,16 @@ ndera (fang). B : Cosiaux et al. (2018), Faye et al. (2014), Pajarón et al. (20
 
 Spine-like leaflets. – 5. Flower. – 6. Idem, longitudinal section. – 7. Fruit and infructescence. E. Flower. F. Longitudinal section of a flower. G. Fruit and infructescence. Scale bar: 1 = 2.5 cm. 2 = 5 cm, 3 = 3 cm, 4 = 2.5 cm, 5, 6 = 1 cm, 7 = 2 cm. (1-3, 7: Sunderland 1909; 4: Sunderland 1792; 5, 6: Sunderland 1922). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
+## Figures
+
+![Eremospatha cuspidata](../sources/Arecaceae_vol53_liteparse/figures/fig_018_p0021.png)
+
+*Plate 5. Eremospatha cuspidata: 1. Mature stem. – 2. Leaflets. – 3. Apex of a leaflet. – 4.*
+
+![Eremospatha cuspidata](../sources/Arecaceae_vol53_liteparse/figures/fig_026_p0037.jpeg)
+
+*Figure 2. Eremospatha laurentii (near Bambidie, Lastoursville): A. General habitat, B. Detail of the base of leaves with presence of a knee, or prominent swelling. – Eremospatha cuspidata (Mondah forest): C. General habitat, D. Detail of the cuspidate (pointed) apex of a leaflet. – Eremospatha wendlandiana (Bambidie, Lastoursville): E. Detail of rhomboidal leaves (fishtail-like), F.*
+
 ## Notes
 
 <!-- TODO:notes -->

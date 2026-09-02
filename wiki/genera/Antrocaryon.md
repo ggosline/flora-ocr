@@ -37,6 +37,15 @@ Bibliography
 
 – Leaflets with 20 to 30 pairs of lateral veins (principal ones and those between the principal ones); stone subspherical to broadly obovoid, ± compressed laterally, 3.5–4.5 cm in height, 3–3.5 cm in width and 3.5–4 cm in thickness ........... A. nannanii
 
+## Key to the species
+
+1. - Leaflets with 10 to 14 pairs of lateral veins (principal and those between the principal); stone flattened, 5- or 6-lobed, 1–1.5 cm in height and 2.2–2.6 cm in diameter ..................................................................................................... A. klaineanum
+
+---
+
+4 Frans J. BRETELER
+- Leaflets with 20 to 30 pairs of lateral veins (principal and those between the principal); stone subspherical to broadly obovoid, ± laterally compressed, 3.5–4.5 cm in height, 3–3.5 cm in width and 3.5–4 cm in thickness ........... A. nannanii
+
 ## Species in region
 
 | Species | Vol | Pages |

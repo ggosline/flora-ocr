@@ -35,6 +35,10 @@ evergreen forests and semi-deciduous forests, primary and secondary; up to 1100 
 
 sanga-batsema (Bakota). B : Wilczek (1969a), de Wilde (2002). IBLIOGRAPHIE KE EWALD Pays-Bas – Wageningen branche
 
+## Figures
+
+![Begonia subscutata](../sources/Begoniaceae_vol39_liteparse/figures/fig_068_p0113.png)
+
 ## Notes
 
 <!-- TODO:notes -->

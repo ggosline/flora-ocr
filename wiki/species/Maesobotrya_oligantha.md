@@ -34,6 +34,12 @@ Equatorial Guinea and Gabon where it was collected in the Estuaire (Cristal Moun
 
 Primary forest; in Gabon, at 520–850 m altitude. b: Lachenaud & Breteler (2011). Bibliography
 
+## Figures
+
+![Maesobotrya oligantha](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_020_p0051.png)
+
+*Plate 14. Maesobotrya oligantha : A. Branch with female flowers. ‒ B. Male inflorescence. ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

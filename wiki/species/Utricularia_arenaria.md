@@ -37,6 +37,32 @@ Melville & Hooker 157; 9, 11: Faulkner K444; 10, 12, 15, 16: Milne-Redhead & Tay
 
 A D B C Vandeweghe ©).
 
+## Figures
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_084_p0100.jpeg)
+
+*Figure 9. Utricularia arenaria (Zambie, Samfya) : A, B. – Utricularia benjaminiana : C–F (C, D, F,*
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_085_p0100.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_086_p0100.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_087_p0100.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_088_p0100.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_089_p0100.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_090_p0101.png)
+
+*Plate 33. Utricularia arenaria : 1, 2. Entire plant (× 1). – 3. Base of the plant showing the stolons, rhizoids, leaves, utricles and the base of the peduncle (× 8). – 4. Utricle, lateral view (× 60). – 5, 6. Papillae at the base of the peduncle (× 150). – 7. Bract (× 30). – 8. Bracteole (× 30). – 9, 10. Flower, lateral view (× 8). – 11. Flower, posterior view (× 8). – 12. Flower, front view (× 8). – 13. Stamen (× 30). – 14. Ovary (× 30). – 15. Fruit, ventral view (× 12). – 16. Fruit, dorsal view (× 12). – 17. Seed, basal view (× 60). – 18. Seed, lateral view (× 60). – 19. Cells of the testa (× 150). (1 : Bogdan 4666 : 2 : P.W. Richards s.n. : 3 : Tweedie 868 ; 4 : Hepper 1000 ; 5 : Faulkner 2031 ; 6 : Milne-Redhead & Taylor 9237 ; 7, 8, 17, 18 :*
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_092_p0102.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_093_p0102.jpeg)
+
+![Utricularia arenaria](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_094_p0102.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

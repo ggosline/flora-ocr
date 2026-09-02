@@ -34,6 +34,12 @@ Gabon and Democratic Republic of the Congo; in Gabon, known from a single collec
 
 primary or secondarized forest; in Gabon at approximately 300 m altitude. b: Hauman (1954d). Bibliography
 
+## Figures
+
+![Leptoderris reygaertii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_084_p0234.png)
+
+*Plate 76: Leptoderris reygaertii: 1. Flowering branch (× ½). – 2. Bract (× 4). – 3. Flower (× 4). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

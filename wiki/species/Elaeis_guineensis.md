@@ -43,6 +43,16 @@ palmier à huile (fr.) ; oil palm (angl.) ; alén, alèn-bingom, okóm (fang) ; 
 
 E. guineensis is highly variable (external color of fruits and mesocarp; fruit morphology; endocarp thickness) which has led to the description of numerous varieties and subspecies. This treatment concerns exclusively the specific level. Nevertheless, one encounters sporadically in Gabon (and in other Central African countries) a form which is important to note here, since the leaves have leaflets more or less fused giving a rather characteristic appearance to the palm. Chevalier named this variety E. guineensis var. idolatrica A.Chev. (Figure 5G) and it is commonly known by the name "idolatrica type" with the vernacular name of "fetish palm". This form would be controlled by a particular gene (Corley & Tinker 2016). It is said that the quality of the nuts of var. idolatrica is inferior to that of the other varieties. The Vascular Plant Checklist of Gabon (Sosef et al. 2006) highlights the presence of an endemic species: E. dybowskii Hua. Examination of the type at Paris, and more particularly of the photograph associated with the type, indicates that this name is linked to the form with fused leaflets (idolatrica type) mentioned above and it is therefore synonymous with E. guineensis. B: Ataga & Vossen (2007), Chevalier (1943), Corley & Tinker (2016), Dransfield et al. Bibliography (2008), Pajarón et al. (2015), Stauffer et al. (2014), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Elaeis guineensis](../sources/Arecaceae_vol53_liteparse/figures/fig_016_p0016.png)
+
+*Plate 3 . Elaeis guineensis : 1. Habit (× 1/100). – 2. Section from the middle of the leaf (× ⅔). – 3. Part of the petiole with spines (× ⅔). – 4. Male inflorescence (× / – 5. Male flower (× 6). – 6. Female inflorescence 1 5). (× / – 7. Female flowering branch (× / – 8. Fruit (× ⅔). – 9. Idem, longitudinal section (× ⅔). – 10. 1 5). 3 5).*
+
+![Elaeis guineensis](../sources/Arecaceae_vol53_liteparse/figures/fig_025_p0036.jpeg)
+
+*Figure 1 . Hyphaene guineensis (Iguéla, Gabon) : A. General habitat, B. Detail of leaves and infructescences, C. Detail of the leaf, note the costapalmate nature of the leaf, D. Detail of the inflorescence and flowers. – Calamus deeratus (Obut, Cameroon) : E. General habitat. – Elaeis guineensis (Kribi, Cameroon) : F. General habitat. – Elaeis guineensis , form idolatrica (Bipindi, Cameroon) : G. Fused leaflets. – Phoenix reclinata (Belo, Cameroon) : H. General habitat. (Photos A-D by Johan van Valkenburg © ; E-H by Thomas L.P. Couvreur ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

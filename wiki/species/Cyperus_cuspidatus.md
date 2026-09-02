@@ -37,6 +37,12 @@ in seasonally wet habitats, grasslands, savannas, wooded areas, on the margins o
 
 kisi (mitsogo), nkôzi (galoa). Note taxonomique : se reconnaît à son port annuel et ses épillets hérissés digités. Elle est proche de C. maderaspatanus Willd. , qui a des glumes longues de 2,5 mm (1,4‒2,2 mm chez C. cuspidatus ). C. maderaspatanus n’a pas encore été trouvée au Gabon. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
 
+## Figures
+
+![Cyperus cuspidatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_037_p0051.png)
+
+*Planche 25 . Cyperus crassipes. A. Plante. – B. Planche 26 . Cyperus cuspidatus. A, B. Plante. – C.*
+
 ## Notes
 
 <!-- TODO:notes -->

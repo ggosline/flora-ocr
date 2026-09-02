@@ -33,6 +33,16 @@ widespread in tropical Africa, Madagascar and South America; very rare in Gabon,
 
 humid wooded zones; in Gabon, at 100 m altitude, at 0–750 m in East Africa. Taxonomic note: easily recognized by its spherical smooth achenes shiny on the upper surface, with small tufts of whitish hairs on the side and with a distinctly trilobed hypogynium. The other Gabonese species with spherical achenes, S. mikawana, has an achene with a lacunose surface. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Piérart (1953)
 
+## Figures
+
+![Scleria melaleuca](../sources/Cyperaceae_vol44_liteparse/figures/fig_193_p0217.jpeg)
+
+*Figure 27. Akènes de a) Scleria lagoensis ( Sosef 2650 , Nyanga, Gabon) et b) Scleria melaleuca ( Thery 105 , Ogooué-Ivindo, Gabon).*
+
+![Scleria melaleuca](../sources/Cyperaceae_vol44_liteparse/figures/fig_195_p0219.png)
+
+*Plate 135 . Scleria melaleuca . A. Base of Plate 136 . Scleria melanomphala. A. Plant. – B. plant and plant. – B. Section of blade. – C. Part Base of blade and opening of leaf sheath showing basally of a lateral inflorescence. – D, E. Part the stem in section. – C. Part of inflorescence. – D. of inflorescence. - F. Female spikelet with fruit. Two spikelets. – E. Female spikelet. – F. Fruit with*
+
 ## Notes
 
 <!-- TODO:notes -->

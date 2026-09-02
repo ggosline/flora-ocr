@@ -37,6 +37,16 @@ Key to the species
 
 - Shrub reaching 3 m; fruit densely and shortly velutinous, surface obscured by pubescence; seeds with appressed pubescence ............................. C. gabonica
 
+## Key to the species
+
+1. - Fruit pilose; bracts and bracteoles suborbicular or oval to elliptic .......... 2
+- Fruit glabrous; bracts and bracteoles narrowly oblong-lanceolate to subulate
+....................................................................................................................... C. alba
+2. - Tree reaching 30 m; fruit puberulent to finely tomentose, the visible surface
+between the hairs; seeds with erect pilosities .......................................... C. gossweileri
+- Shrub reaching 3 m; fruit densely and shortly velutinous, the surface
+obscured by the pilosities; seeds with appressed pilosities ............................. C. gabonica
+
 ## Species in region
 
 | Species | Vol | Pages |

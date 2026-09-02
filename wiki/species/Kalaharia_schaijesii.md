@@ -34,6 +34,12 @@ Present on the Kalahari sands of the Batéké plateaus; in Gabon at 700 m altitu
 
 In the literature, K. schaijesii and K. uncinata have long been confused. B: Bamps (2013), Vandeweghe et al. (2016). Bibliography
 
+## Figures
+
+![Kalaharia schaijesii](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_051_p0054.jpeg)
+
+*Figure 4. Coleus decurrens: A. Inflorescence. – Equilabium glandulosum: B. Flowering plant; C. Part of the inflorescence. – Kalaharia schaijesii: D. Flower. – Kalaharia uncinata: E. Inflorescences. – Pogoste­mon micangensis: F. Part of the inflorescence. – Premna lucens: G. Floriferous stem; H. Flower open and buds. – Rotheca violacea subsp. violacea: I. Inflorescence. Photos by Benedict Pollard (A: Cameroon, SW Region, Mwambong; B, C: Cameroon, NW Region, Laikom), Michel Schaijes (D: Dem. Rep.*
+
 ## Notes
 
 <!-- TODO:notes -->

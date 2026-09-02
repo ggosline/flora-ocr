@@ -38,6 +38,12 @@ primary or secondarized forest, sometimes in temporarily inundated places, but a
 
 izombé (nom pilote) ; aké, akevuoe, akewa (fang), ésombé (apindji), gisombu (éshira), izombé (galoa, nkomi), mugóngu (bavungu, bapunu), nom akoga (fang), sombé, zombé (bakèlè, bakota). Note taxonomique : Les fleurs ont été rarement récoltées. T. gabonensis figure dans la catégorie “en danger” sur la Liste Rouge de l’UICN des espèces menacées. b : CTFT (1952), Oduro (2012), Pellegrin (1924), Raponda-Walker & Silibliographie lans (1961), Wilks & Issembé (2000)
 
+## Figures
+
+![Testulea gabonensis](../sources/Ochnaceae_vol48_liteparse/figures/fig_039_p0094.png)
+
+*Plate 27. Testulea gabonensis: 1. Flowering branch (× ⅓). – 2. Leaf, lower surface (× ⅔). – 3. Leaf base with axillary stipule (× 1). – 4. Flower (× 1½). – 5. Fruit (× ⅔). – 6. Seed (× 1). Drawing by J.*
+
 ## Notes
 
 <!-- TODO:notes -->

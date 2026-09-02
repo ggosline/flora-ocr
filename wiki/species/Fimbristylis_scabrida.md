@@ -33,6 +33,12 @@ Sierra Leone, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gabon, Democratic 
 
 in well-drained grassy and sandy areas of savannas, especially in heavily grazed places; in Gabon, at approximately 150 m altitude, up to 950 m in East Africa. Taxonomic note: only Gabonese species with wide leaves and very scabrous stems; somewhat resembles F. dichotoma, but it has a more fibrous base and very different fruit. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Fimbristylis scabrida](../sources/Cyperaceae_vol44_liteparse/figures/fig_125_p0149.png)
+
+*Planche 97 . Fimbristylis quinquangularis . A. Planche 98 . Fimbristylis scabrida . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

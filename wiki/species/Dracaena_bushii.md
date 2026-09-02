@@ -37,6 +37,16 @@ understory of secondary forests and forest margins, humid stations, on sandy soi
 
 D. bushii is close to D. phrynioides, the two having capitate inflorescences and long-petiolate leaves. D. bushii is easily distinguished by flowers 2 times longer, the more erect habit which is not subacaulous and by leaves not in a rosette as in D. phrynioides. B: Damen et al. (2018). Bibliography
 
+## Figures
+
+![Dracaena bushii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_020_p0026.jpeg)
+
+*Figure 2 . Dracaena braunii (Pongara, Gabon) : A. General aspect with inflorescence with 1 to 3 flowers per fascicle. – Dracaena bushii (cult., Hortus Botanicus Leiden, Netherlands) : B. Equitant leaf bases and capitate inflorescences. – Dracaena cerasifera (near Abidjan, Ivory Coast) : C. Inflorescence showing slender pedicels. – Dracaena glomerata (Mabounié, Gabon) : D. Infructescence with zigzag rachis and elliptic pseudopetiolate leaves. (Photos A, B by Theo H.J. Damen © ; C by A.J.M.*
+
+![Dracaena bushii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_024_p0028.png)
+
+*Plate 7. Dracaena bushii: 1. General aspect. – 2. Leaf. – 3. Seedling. – 4. Transverse section of inflorescence. – 5. Flowers. – 6. Part of a flower. – 7. Opened flower, internal surface. – 8. Infructescence. – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

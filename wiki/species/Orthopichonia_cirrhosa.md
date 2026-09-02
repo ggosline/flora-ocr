@@ -30,6 +30,12 @@ B: Beentje (2021), Vonk (1989).
 
 BIBLIOGRAPHY
 
+## Figures
+
+![Orthopichonia cirrhosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_153_p0183.jpeg)
+
+*Planche 85 . Orthopichonia cirrhosa 5DPHDXÀRULIqUHîҀ±&RUROOHFRXSHORQJLWXGLQDOHDYHF*
+
 ## Notes
 
 <!-- TODO:notes -->

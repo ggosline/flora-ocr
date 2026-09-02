@@ -40,6 +40,12 @@ n’tana (nom pilote, Fang), okip 2 (région de Nyanga), faux okip, pseudo okip 
 
 3
 
+## Figures
+
+![Trillesanthus excelsus](../sources/Dipterocarpaceae_vol41_liteparse/figures/fig_026_p0045.png)
+
+![Trillesanthus excelsus](../sources/Dipterocarpaceae_vol41_liteparse/figures/fig_027_p0045.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

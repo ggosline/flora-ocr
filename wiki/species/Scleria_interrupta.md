@@ -33,6 +33,12 @@ Widely distributed in tropical Africa, also in South Africa, Madagascar and Sout
 
 Humid depressions of grasslands and forests, often near watercourses; in Gabon, at 100–200 m altitude, at 0–1160 m in East Africa. Taxonomic note: close to S. melanotricha and differs from it by its glomerate spikelets erect or spreading, never pendulous. b: Haines & Lye (1983), Hooper & Napper (1972), Raynal (1976), Robinson ibliography (1966)
 
+## Figures
+
+![Scleria interrupta](../sources/Cyperaceae_vol44_liteparse/figures/fig_189_p0215.jpeg)
+
+*Figure 26. Akènes de a) Scleria interrupta ( Lisowski D-417 , Benin) et b) Scleria lacustris ( Morton &*
+
 ## Notes
 
 <!-- TODO:notes -->

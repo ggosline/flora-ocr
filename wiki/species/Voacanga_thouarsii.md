@@ -36,6 +36,16 @@ voacanga de Thouars (fr.) ; wild frangipani (angl.)
 
 Perhaps more common and more widespread in Gabon, but little collected, as it grows in swamps. B. Leeuwneberg, Schmeltzer d. BIBLIOGRAPHY
 
+## Figures
+
+![Voacanga thouarsii](../sources/Apocynaceae_vol59_liteparse/figures/fig_246_p0274.jpeg)
+
+*Figure 16 . Voacanga thouarsii : A. Foliage ; B. Fruiting stem ; C. Flower, front view. – Voacanga wieringae : D. Inflorescence. E. Calyx sectioned showing the collateral band. F. Flower front view. G. Fruit. H. Inflorescence in bud. Photos by Carel Jongkind (A, C, Grand Cape Mount, Liberia ; B, Lofa, Liberia ; Olivier Lachenaud ; D, F, Massif du Mayombe, Gabon ; Tariq Stévart ; G, Koulamoutou, Pana*
+
+![Voacanga thouarsii](../sources/Apocynaceae_vol59_liteparse/figures/fig_254_p0275.jpeg)
+
+*Planche 126 . Voacanga thouarsii 5DPHDX ÀRULIqUH ± 6RPPHW G¶XQ UDPHDX ± %RXWRQÀRUDOîҀ±&DOLFHRXYHUWDYHFFROOpWqUHVîҀ±eWDPLQHIDFHYHQWUDOHî±3LVWLO*
+
 ## Notes
 
 <!-- TODO:notes -->

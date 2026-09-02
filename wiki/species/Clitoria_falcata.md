@@ -37,6 +37,12 @@ Thickets on sandy soils, swampy places; in Gabon at 200 m altitude, elsewhere up
 
 Recorded only once in Gabon. b : Fantz (1980), Verdcourt (1971c). Bibliography
 
+## Figures
+
+![Clitoria falcata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_033_p0085.png)
+
+*Plate 25 : Clitoria falcata : 1. Flowering stem. – 2. Flower. – 3. Pods. – Clitoria ternatea : 4. Flowering stem. – 5. Stipules. – 6. Flower. – 7. Standard, wing and keel. – 8. Stamens and pistil. – 9. Split and closed pod. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodriguez (2005).*
+
 ## Notes
 
 <!-- TODO:notes -->

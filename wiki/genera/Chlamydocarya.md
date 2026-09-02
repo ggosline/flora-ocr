@@ -45,6 +45,16 @@ KEY TO SPECIES BY VEGETATIVE APPARATUS
 
 1'. Hydathodes present ..... 3. C. thomsoniana.
 
+## Key to the species
+
+1. Hydathodes absent.
+
+2. Veinlets in lax reticulum; 8-9 pairs of secondary veins; petiole sparsely pubescent above and glabrous below..... 1. C. anhydathoda.
+
+2'. Veinlets in dense reticulum; 8-15 pairs of secondary veins; petiole entirely pubescent ..... 2. C. soyauxii.
+
+1'. Hydathodes present ..... 3. C. thomsoniana.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -35,6 +35,14 @@ widely distributed in tropical and subtropical Africa; rare in Gabon, found only
 
 in dry grassy areas and seasonally burned savannas; in Gabon, 0‒500 m altitude, up to 2100 m in East Africa. Taxonomic note: very close to C. margaritaceus and C. niveus, but differs from them by its leaves only 0.3‒0.7 mm wide. C. tisserantii is frequently collected at a very young stage, as the white heads are very visible in the middle of burned black grasses. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus tisserantii](../sources/Cyperaceae_vol44_liteparse/figures/fig_065_p0081.jpeg)
+
+*Figure 5. Achene of a) Cyperus tisserantii ( Lamto 644 , Côte d'Ivoire) and spikelet of b) Cyperus camerunensis ( Chermezon 9239 , Ogooué-Ivindo, Gabon). to the limb but with the base resembling the glumes, the largest of 1‒10 cm. Ovoid spikelet, of 6‒9 × 4‒5 mm , compressed, white becoming brown when dry, with 10‒15 flowers ; elliptic–lanceolate glumes, 3.5‒4 mm long, white, becoming brown when dry, central nerve often green, ending at the rounded apex or slightly exceeding it, often with 5‒6 nerves on each side. Flower : style with 3 long branches.*
+
+![Cyperus tisserantii](../sources/Cyperaceae_vol44_liteparse/figures/fig_066_p0081.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

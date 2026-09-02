@@ -36,6 +36,16 @@ Senegal, Guinea-Bissau, Guinea, Mali, Sierra Leone, Ivory Coast, Niger, Ghana, T
 
 stagnant or slow-flowing waters of lakes, ponds and rivers; in Gabon at sea level, in West and East Africa mainly between 0 and 1500 m. B: Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia foliosa](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_097_p0108.png)
+
+*Plate 36. Utricularia foliosa : 1. Entire plant (× 1). – 2. Infructescence (× 1). – 3. Transverse section of the stolon (× 8). – 4. Secondary segment of the leaf with utricles (× 8). – 5. Utricle (× 30). – 6. Bract (× 8). – 7. Calyx (× 8). – 8. Corolla, front view (× 8). – 9. Spur, rear view (× 8). – 10. Stamen (× 16). – 11. Ovary (× 16). – 12. Fruit, lateral view, with part of wall separated to show the seeds (× 8). – 13. Glands on the capsule wall (× 150). – 14. Seed, apical view (× 12). – 15. Transverse section of the seed (× 12). – 16. Cells of the testa (× 150). (1, 2 : Fanshawe 5752 ; 3-7, 9-11, 13, 16 :*
+
+![Utricularia foliosa](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_099_p0110.jpeg)
+
+*Figure 11. Utricularia foliosa (Zambie, Lac Lusiwasi) : A-C. – Utricularia pubescens (Gabon, PN de*
+
 ## Notes
 
 <!-- TODO:notes -->

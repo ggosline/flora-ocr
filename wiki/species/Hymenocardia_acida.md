@@ -44,6 +44,12 @@ multiple uses in tropical Africa, but very few reported from Gabon. The acidic l
 
 cœurs-volants (fr.) ; heart-fruit (angl.) ; ogaraga (ambèdè). b : Keay (1958), Leonard & Mosango (1985), Pax & Hoffman (1922), ibliographie Schmelzer (2008b)
 
+## Figures
+
+![Hymenocardia acida](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_015_p0035.png)
+
+*Plate 9. Hymenocardia ulmoides: A. Flowering male branchlet. ‒ B. Male inflorescence. ‒ C, D. Male flower. ‒ E. Fruiting branchlet. ‒ Hymenocardia acida: F. Fruiting branchlet. ‒ G. Leaf. ‒ H.*
+
 ## Notes
 
 <!-- TODO:notes -->

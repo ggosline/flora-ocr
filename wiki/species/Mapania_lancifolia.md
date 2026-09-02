@@ -34,6 +34,16 @@ Cameroon, Equatorial Guinea and Gabon; in Gabon, found in Moyen-Ogooué, Ngouni�
 
 humid forests, sometimes along rivers and watercourses, also found between large boulders (low light) at the summit of an inselberg; in Gabon, at 100–700 m altitude, elsewhere up to 1000 m. Taxonomic note: easily recognized by its loose inflorescence, its leaves with clearly lanceolate blade arranged in the upper two-thirds of the stem and its basal cataphylls, instead of the usual grouping in basal leaves. b: Nelmes (1955a). Bibliography
 
+## Figures
+
+![Mapania lancifolia](../sources/Cyperaceae_vol44_liteparse/figures/fig_141_p0167.png)
+
+*Plate 109. Mapania amplivaginata. A. Plant. Plate 110. Mapania lancifolia (A-B) and Mapania – B. Apex of the blade. – C. Spike. – D. Bract heteromorpha (C-E). A. Plant. – B. Achene. – C. spicoidal. – E. Spicoid. – F. Fruit. Drawing Plate. – D. Flower in its bracts. – E. Achene. by Christine Grey-Wilson (©), reproduced with Drawing by M. Bizien for "Flora of Cameroon". permission from Simpson (1992).*
+
+![Mapania lancifolia](../sources/Cyperaceae_vol44_liteparse/figures/fig_147_p0171.jpeg)
+
+*Figure 16. Achenes of a) Mapania lancifolia ( Sosef 2305 , Ogooué-Maritime, Gabon) and b) Mapania macrantha ( Cheek 7194 , Cameroon). spreading, foliaceous, linear , green, acute at apex, the lower one generally longer than the inflorescence ; obovoid to almost globular spikes at maturity, 3,5–5 × 1,5–4 mm , brown, obtuse at apex ; spicoidal bracts broadly obovate to orbicular, 1,5–2 × approximately 1,5 mm , light brown, paler along the margins, glabrous, obtuse or emarginate at apex. Flower : floral bracts 2 ; style with 2 branches. Ellipsoid and slightly flattened at base achene, 1,5–2 × 1,2–1,5 mm , almost smooth, reddish brown or dotted with reddish brown.*
+
 ## Notes
 
 <!-- TODO:notes -->

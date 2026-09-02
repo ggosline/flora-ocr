@@ -35,6 +35,15 @@ BIBLIOGRAPHY
 
 Latex poisonous when rubbed between the fingers; domatia present at the axil of secondary veins, in tuft of straight hairs; ovary pubescent; follicle almost fusiform, 0.5–2 × 0.5–1 cm, narrowed at the apex acute or rarely subobtuse; mature bud 8.5–22 mm long, obtuse or acute at the apex; calyx with lobes 1.5–4 mm long; corolla glabrous or puberulent outside, with lobes sometimes auriculate, shorter or longer than the tube, 3–5 mm long and
 
+## Key to the species
+
+/Latex sticky when rubbed between the fingers; domaties, if present, at the axil of secondary nerves, in tufts of straight hairs; ovary pubescent; fol-
+
+---
+
+licule almost fusiform, 0.5–1.2 cm, tapered at the apex, acute or rarely subobtuse; mature bud 8.5–22 mm long, obtuse or acute at the apex; calyx with lobes 1.5–4 mm long; corolla glabrous or puberulent on the exterior, with lobes sometimes auriculate shorter or longer than the tube, 1–3 mm long and obtuse or acute at the apex ........................................................................... F. africana
+Latex forming quickly small rubber balls when rubbed between the fingers; domaties, if present, at the axil of secondary nerves, in pits, possibly with a margin ± densely ciliate; ovary glabrous; follicle ± claviform, 8–19 × 3.6–8 cm, not constricted, with apex obtuse to subacute; mature bud 7–17 mm long, acute or subacute at the apex; calyx with lobes 3–5 mm long; corolla glabrous on the exterior, lobes aurículate shorter than the tube, 3–7 mm long, acute at the apex (to be sought in Gabon) ......... F. elastica (Preuss) Stapf
+
 ## Species in region
 
 | Species | Vol | Pages |

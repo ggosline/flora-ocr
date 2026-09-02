@@ -39,6 +39,20 @@ mellonenbaume (Allem.) ; papaya, pawpaw, tree melon (Angl.) ; papaye, papayer, a
 
 3 7 9 3 95 9 9 9 5
 
+## Figures
+
+![Carica papaya](../sources/Caricaceae_vol40_liteparse/figures/fig_021_p0021.png)
+
+*Plate 4. Carica papaya : 1. Fruiting tree. – 2. Inflorescence ♂. – 3. Flower ♂. – 4. Flower ♀. – 5.*
+
+![Carica papaya](../sources/Caricaceae_vol40_liteparse/figures/fig_022_p0025.png)
+
+![Carica papaya](../sources/Caricaceae_vol40_liteparse/figures/fig_023_p0025.png)
+
+![Carica papaya](../sources/Caricaceae_vol40_liteparse/figures/fig_024_p0025.png)
+
+![Carica papaya](../sources/Caricaceae_vol40_liteparse/figures/fig_025_p0025.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

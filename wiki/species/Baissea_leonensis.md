@@ -24,6 +24,30 @@ tags: [species, generated]
 
 The characters used by van Dilst (1995) to separate B. longipetiolata from B. leonensis are not robust. The type of B. dichotoma Stapf – a synonym of B. leonensis in van Dilst (1995) – is almost equivalent to that of B. longipetiolata for the length of the petiole and the form of the flowers. The "pits" in the corolla tube of B. longipetiolata can also be found in certain other specimens of B. leonensis, and the length of the corolla lobes can vary in B. leonensis, even in a single inflorescence. Consequently, B. longipetiolata is included here in B. leonensis. B: van Dilst (1995). BIBLIOGRAPHY
 
+## Figures
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_044_p0055.jpeg)
+
+*Plate 20 . Baissea leonensis : 1. Flowering branch (× ⅔). – 2. Detail of the lower surface of the foliose limb, with domatia (× 2) – 3. Flower (× 4). – 4. Ditto, open (× 14). – 5. Calyx lobe, internal surface with (1, 2 : Leeuwenberg et al. 11048 ; 3-6 : Beentje 84 ; 7, 8 : Lisowski 52003 ; 9 : de Koning 5454 ). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from van Dilst (1995).*
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_045_p0056.jpeg)
+
+*Figure 3. Baissea leonensis: A. Floriferous stems, B. Inflorescence, C. Flower – Baissea odorata: D. Floriferous stem – Callichilia bequaertii: E. Flower with young fruit. – Calocrater preussii: F. Habit; G. Fruit; H. Inflorescence. Photos by Ehoarn Bidault (A, C: Mts Birougou, Gabon; E: Rivière Louetsi, Gabon; F, G: Mabounié, Gabon; and Davy Ikabanga (D: northeast of Robertsport, Liberia; and H).*
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_046_p0056.jpeg)
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_047_p0056.jpeg)
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_048_p0056.jpeg)
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_049_p0056.jpeg)
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_050_p0056.jpeg)
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_051_p0056.jpeg)
+
+![Baissea leonensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_052_p0056.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

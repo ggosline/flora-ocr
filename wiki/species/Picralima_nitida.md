@@ -42,6 +42,16 @@ pneumonia and intestinal worms. A wide range of other medicinal uses is known. T
 
 %HHQWMH0HXQLHU et al. (2015), Omino (1996, 2002), Raponda-Walker & Sillans
 
+## Figures
+
+![Picralima nitida](../sources/Apocynaceae_vol59_liteparse/figures/fig_154_p0186.jpeg)
+
+*Figure 9. Picralima nitida : A. Fruits ; B. Leaf, lower surface. – Petchia africana C, Inflorescence ±*
+
+![Picralima nitida](../sources/Apocynaceae_vol59_liteparse/figures/fig_165_p0189.jpeg)
+
+*Plate 87 . Picralima nitida : 4, 5. Flower, view from above (× 1). – 6. Corolla, view from below (× 1). – 7. Lobe of the calyx, internal surface with colleters (× 2). – 8. Part of the opened corolla, with stamens (× 2). – 9. Pistil (× 4,6). – 10-12.*
+
 ## Notes
 
 <!-- TODO:notes -->

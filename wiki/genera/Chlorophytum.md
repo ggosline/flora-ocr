@@ -45,6 +45,23 @@ Kativu et al. (2008).
 
 1. - Plants more than 1.5 m in height; cormiform rhizome; tepals exceeding
 
+## Key to the species
+
+1. - Plants more than 1.5 m tall; corm-like rhizome; tepals exceeding 10 mm in length; capsule almost circular in transverse section, slightly wrinkled ...................................................................................................... C. stoltzii
+- Plants less than 1 m tall; rhizome not corm-like; tepals less than 8 mm in length; capsule 3-angular in transverse section, smooth ................... 2
+2. - Pedicel articulated in the lower half; capsule with stipitate or attenuate base; seeds 4–5 mm in diameter; petiole distinctly channelled; blade forming a distinct angle with the petiole then more or less horizontal ......... C. alismatifolium
+- Pedicel articulated in the upper half; capsule truncate at the base; seeds reaching 3 mm in diameter; petiole, if present, not channelled; blade in line with the petiole .......................................................................................... 3
+3. - Blade reaching 8 cm in length, always green after drying; inflorescence at least 5 times longer than the blade; plant reproducing by plantlets found at the nodes of the inflorescence (pseudo-vivipary) ............... C. petrophilum
+- Blade more than 10 cm in length, greenish or blackish when dried; inflorescence at most 4 times longer than the blade; plant sometimes reproducing by pseudo-vivipary ...................................................................................................... 4
+4. - Robust plants, most often blackish after drying; leaf (petiole included) more than 35 cm in length, blade 5–10 cm wide ............................................... 5
+- Moderately robust plants, greenish after drying, leaf (petiole included) less than 35 cm in length, blade 3–7 cm wide .................. 6 ( C. sparsiflorum )
+5. - Leaves distinctly petiolate, blade ± truncate at the base; rachis glabrous, rarely somewhat scabrous, inflorescence with 0–7 branches; capsule 5–8 mm in length
+........................................................................................................... C. orchidastrum
+- Leaves not distinctly petiolate, blade gradually narrowed toward the base; rachis distinctly scabrous, inflorescence with 0–3 branches; capsule 7–11 mm in length ............................................................................................. C. filipendulum
+6. - Leaves gradually narrowed toward the base, lower surface not distinctly striated ..................................................................... C. sparsiflorum var. sparsiflorum
+- Leaves distinctly petiolate, lower surface distinctly striated
+.................................................................................. C. sparsiflorum var. bipindense
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -20,6 +20,36 @@ tags: [genus, generated]
 
 Trees, shrubs or lianes, spines present or absent, monocarpic [dying after a single flowering] or polycarpic [flowering several times], hermaphrodite, dioecious or monoecious; crownshaft [trunk] absent (and thus plant acaulescent) or short to several metres in length, solitary or caespitose, smooth or covered with remains of old leaves or leaf sheaths, fibres around the crownshaft absent or present. Leaves alternate, spiral; leaf sheath tubular or splitting, armed or unarmed with spines; ochrea [part extending the sheath apically] present or absent; petiole present or absent (on mature leaf), very short to long, armed or unarmed with spines, in certain cases presence of basal leaflets modified into spines; blade bifid, pinnate, palmate (outside Gabon) or costapalmate [blade palmate but with the main vein well developed]; leaflets linear, elliptic, sigmoid or absent, apex acuminate, apiculate or premorse [as if cut with teeth], margins armed or unarmed with spines, sometimes the rachis extended into a cirrhus [whip-like extension] generally bearing leaflet-spines 1.5–5 cm in length [apical leaflets modified into hooks (acanthophylls in English)], the rachis of the cirrhus spinose or not. Inflorescences axillary, solitary or not, situated below or between the leaves, in a spike or panicle branched up to 6 times, sometimes (genus Calamus) a flagellum emerges at the same position on the axis (suggesting it is a modified inflorescence); peduncle long or short; prophyll (formerly called spathe) generally dividing into two; peduncular bracts absent to several; rachis shorter, equalling or longer than the peduncle; flowering branches short to long, slender or very thick. Flowers hermaphrodite or unisexual, sessile or pedicellate, solitary or in 2, 3 or more in scorpioid cymes (cincinnus, outside Gabon); perianth differentiated into calyx and corolla; sepals 3, free or fused; petals 3, free or fused; stamens 6 to numerous, filaments erect, adnate to the corolla, anther latrorse or extrorse, basifixed or medifixed, staminodes generally present; gynoecium apocarpous [with free carpels] or syncarpous [with fused carpels], with (2–)3(–4) carpels glabrous or covered with small scales, uni- to plurilocular, each locule with 1 ovule basifixed, medifixed or apical; style free or fused, stigma erect or curved; pistillode present or absent in male flowers. Fruits large with remains of stigma—
 
+## Key to the species
+
+1. - Leaf pinnate ................................................................................................................. 2
+- Leaf costapalmately (palmate but with the main vein well developed)
+......................................................................................................................... Hyphaene
+2. - Petiole and/or leaflet entirely devoid of spines ....................................................... 3
+- Petiole and/or leaflet with spines (small or large) .............................................. 5
+3. - Stem > 10 cm in diameter; blade with > 80 pairs of leaflets; coastal .................... Cocos
+- Stem < 5 cm in diameter or acaulescent plant; blade with < 50 pairs of leaflets; understory
+species ......................................................................................................................... 4
+4. - Leaflet rhomboidal, green and unicolorous ........................................................ Podococcus
+- Leaflet lanceolate to sigmoid, bicolorous, lower surface pale green or whitish
+................................................................................................................... Sclerosperma
+5. - Climbing palm ........................................................................................................... 6
+- Palm with well-developed stem or acaulescent palm ............................................... 9
+6. - Adult leaf with a cirrus [prolongation of the rachis into a whip] armed with spine-leaflets
+[apical leaflets modified into hooks] ........................................................................ 7
+- Adult leaf without cirrus ................................................................................... Calamus
+7. - Leaf sheath without spines .......................................................................... Eremospatha
+- Leaf sheath armed with distinct spines .............................................................................. 8
+8. - Ochrea [apical prolongation of the sheath] ± triangular, desiccating, generally
+grey in color; leaf sheath covered with cylindrical spines, hard, persistent or
+not falling readily ......................................................................... Laccosperma
+- Ochrea tubulate, not desiccating, generally green in color; leaf sheath
+covered with flattened spines, caducous or falling readily .................... Oncocalamus
+9. - Petiole devoid of spines; fruit covered with scales ............................................ Raphia
+- Petiole with large spines; fruit with smooth exocarp ............................................. 10
+10. - Transverse section of leaflets reduplicate [inverted V-shaped] ................... Elaeis
+- Transverse section of leaflets induplicate [V-shaped] ............................ Phoenix
+
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

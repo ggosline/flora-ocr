@@ -35,6 +35,15 @@ B: Cowley (1988), Jonker (1938), Maas et al. (1986), Merckx (2008).
 
 – Perianth tube 2–5 mm in length, without apical constriction ..... G. longistylus
 
+## Key to the species
+
+1. - Perianth tube approximately 12 mm in length; stigmas without filiform appendages; flowers sessile ............................................................................ G. bekensis
+- Perianth tube 1–5 mm in length; stigmas with filiform appendages;
+floral pedicel 1–4 mm in length ....................................................................... 2
+2. - Perianth tube 1–2 mm in length, with an apical constriction
+.............................................................................................................. G. constrictus
+- Perianth tube 2–5 mm in length, without apical constriction ..... G. longistylus
+
 ## Species in region
 
 | Species | Vol | Pages |

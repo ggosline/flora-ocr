@@ -37,6 +37,12 @@ Usage: The Bapunu use the leaves as a febrifuge and against tumours. Used as a f
 
 akang-ngubi (bakèlè) ; ava-si (fang) ; digèngi (éshira, bavarama) ; éhokuluku (benga) ; gékwakwa (mitsogo) ; mobenèndjègèa (ivea) ; mubèndjè (bavili) ; ndjòruru (bapunu) ; nyazi (mpongwè) ; tomb’idjoro-mpolo (nkomi). B : Burkill (1995), Morton (1963), Paton et al . (2013), Ryding (1986). i B liographie
 
+## Figures
+
+![Aeollanthus suaveolens](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_027_p0019.png)
+
+*Plate 2. Aeollanthus suaveolens: 1. Habit. – 2. Flower. – 3. Two bracts of the same node. – 4. Calyx in fruit. Drawing by Olof Ryding (©), reproduced with permission from Ryding (1986).*
+
 ## Notes
 
 <!-- TODO:notes -->

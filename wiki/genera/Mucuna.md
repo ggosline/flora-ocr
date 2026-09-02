@@ -45,6 +45,26 @@ Botton & Hallé (1958), Duke (1981), Hauman (1954e), Mackinder et al. (2001), Mo
 
 - Flowers in racemes; branchlets glabrous or covered with reddish stinging hairs ..................... 3
 
+## Key to the species
+
+1. - Climbing plant; lateral leaflets differing in form and/or size from the terminal one ......................................................................................................................... 2
+- Erect shrub, lateral leaflets of the same form and/or size as the terminal (to be searched for in Gabon) ................................................................ M. stans Welw. ex Baker
+2. - Flowers arranged 2 to 10(–15) in umbels; branchlets finely grey pubescent
+.......................................................................................................................... M. sloanei
+- Flowers in racemes; branchlets glabrous or covered with rusty stinging hairs ..................... 3
+3. - Raceme with very long peduncle, up to 3 m, and zigzag rachis; pod ornamented with crests or prominent transverse wrinkles ............................................................. M. flagellipes
+- Raceme with peduncle up to 40 cm long and straight rachis; pod smooth or marked with longitudinal wrinkles ..................................................................................... 4
+4. - Corolla whitish, greenish or yellowish (darkening in herbarium), 5–8 cm long;
+pod 5–20 × 3–4 cm, with 2 or 3 seeds, distinctly undulate .................. M. occidentalis
+- Corolla violet or dark purple, up to 4 cm long; pod 5–8 × 1–1.5 cm, with 5 or 6 seeds, ± sigmoid ............................................................................................... 5
+5. - Pod covered with long erect, rigid and stinging hairs, without longitudinal wrinkles;
+seed black spotted with brown ................................................... M. pruriens var. pruriens
+
+---
+
+- Pod covered with short hairs, often appressed and non-stinging, with one or more longitudinal wrinkles; seed of highly variable colours: brown, purple, grey or white; plant sometimes cultivated (to be searched for in Gabon)
+.................................................. M. pruriens var. utilis (Wall. ex Wight) Baker ex Burck
+
 ## Species in region
 
 | Species | Vol | Pages |

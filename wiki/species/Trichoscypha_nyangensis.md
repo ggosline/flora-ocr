@@ -38,6 +38,12 @@ primary or secondarized forest; at approximately 200–300 m altitude
 
 The original material consists of leaves, male and female inflorescences, and is accompanied by an observation of the collector stating: "polygamous or dioecious (?) I believe rather polygamous". The second collection cited as T. nyangensis in Check-list of Vascular Plants of Gabon (Sosef et al. 2006) does not belong to this species. It remains undetermined. B: Breteler (2004). Bibliography
 
+## Figures
+
+![Trichoscypha nyangensis](../sources/Anacardiaceae_vol50_liteparse/figures/fig_028_p0048.png)
+
+*Plate 18. Trichoscypha nyangensis : 1. Male flower, one petal removed. – 2. Female flower, one petal removed. – 3. Detail of the petiole. (Le Testu 2034). Drawing by Hans de Vries, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

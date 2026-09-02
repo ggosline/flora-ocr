@@ -34,6 +34,18 @@ Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon and Gabon; fairly widespread i
 
 swampy forest and near streams, in permanently humid terrain and usually partially shaded; in Gabon, at 0–500 m altitude. Taxonomic note: This species is not clearly separated from S. racemosa. It differs from it by its smaller achenes and should perhaps be considered as a variety or subspecies of S. racemosa or of S. verrucosa. Intermediate forms exist in Gabon (e.g. Mann 1023). b: Hooper & Napper (1972), Piérart (1953). Bibliography
 
+## Figures
+
+![Scleria vogelii](../sources/Cyperaceae_vol44_liteparse/figures/fig_205_p0226.jpeg)
+
+*Figure 30. Akène de Scleria vogelii ( Sosef 2420 ,*
+
+![Scleria vogelii](../sources/Cyperaceae_vol44_liteparse/figures/fig_206_p0227.png)
+
+*Plate 141. Scleria verrucosa . A. Parts Plate 142. Scleria vogelii . A, B. Vegetative and fertile parts of a stem. – B. Base of the limb vegetative and fertile parts of a stem. – C. Base of the limb and orifice of a leaf sheath showing the stem and opening of the leaf sheath showing the stem in in section. – C. Opening of the leaf sheath. – D. section. – D. Part of the inflorescence. – E. Spikelet*
+
+![Scleria vogelii](../sources/Cyperaceae_vol44_liteparse/figures/fig_207_p0227.png)
+
 ## Notes
 
 <!-- TODO:notes -->

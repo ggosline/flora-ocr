@@ -33,6 +33,12 @@ Dry zones of Africa, up to India; in Gabon uncommon, known only from Ogooué-Lol
 
 Savannas, forests, roadsides; in Gabon at 400 m, elsewhere at 0–2350 m. Flowers observed in April and September. B: Berhaut (1979), Exell & Meeuse (1961), Hauman (1963), Verdcourt (2009)
 
+## Figures
+
+![Sida ovata](../sources/Malvaceae_vol45_liteparse/figures/fig_036_p0086.png)
+
+*Plate 25. Sida ovata : 1. Plant with flowers and fruits. – 2. Flower. – 3. Longitudinal section of a flower. – 4. Fruit. – 5. Mericarp. – 6. Transverse section of the syncarp. Drawing by A. Cleuter, reproduced with permission, © National Institute for Agronomic Research of the Congo.*
+
 ## Notes
 
 <!-- TODO:notes -->

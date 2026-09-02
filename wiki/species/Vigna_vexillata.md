@@ -41,6 +41,12 @@ pois poison, pois zombie (fr.) ; aka sasage, wild cowpea, zombi pea (angl.)
 
 Other varieties are found elsewhere in Africa. B: Maréchal et al. (1978), Pellegrin (1949), Pasquet (2001), Verdcourt (1970, 1971c), Wilczek (1954)
 
+## Figures
+
+![Vigna vexillata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_138_p0388.png)
+
+*Plate 130 : Vigna vexillata var. vexillata : 1. Flowering stem (× ½). – 2. Fruiting stem (× ½). – 3. Stipule (× 2). – 4. Flower (× 1). – 5. Standard, internal surface (× 1). – 6. Wing, internal surface (× 1). – 7. Keel (× 1). – 8. Androecium (× 2). – 9. Gynoecium (× 2). – 10. Infrutescence with open pods (× ½). – 11. Seed (× 4). (1–10 : Ghesquière 4988 ; 11 : Lebrun 9062). Drawing by M. Boutique, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

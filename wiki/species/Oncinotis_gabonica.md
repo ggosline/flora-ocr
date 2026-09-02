@@ -26,6 +26,12 @@ Liane; branches with tawny pubescence of simple crisp hairs, approximately 0.3 m
 
 evergreen secondary forest; at approximately 300 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Oncinotis gabonica](../sources/Apocynaceae_vol59_liteparse/figures/fig_147_p0172.jpeg)
+
+*Planche 79 . Oncinotis gabonica 5DPHDXÀRULIqUH±'pWDLOGXOLPEHIROLDLUHIDFHLQIpULHXUH±*
+
 ## Notes
 
 <!-- TODO:notes -->

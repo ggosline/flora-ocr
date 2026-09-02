@@ -34,6 +34,12 @@ Gabon and Republic of the Congo to Kenya, in Tanzania and Zambia; in Gabon, rare
 
 Savanna, periodically swampy stations, open grounds and fallows; in Gabon around 500 m in altitude, elsewhere at 500–1700 m. Bibliography: Cronquist (1954), Gillett (1971a), Schrire (1992, 2012).
 
+## Figures
+
+![Microcharis asparagoides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_094_p0254.png)
+
+*Plate 86 : Microcharis asparagoides : 1. Habit (× 1). – 2. Hair (× 60). – 3. Leaf (× 2). – 4. Flower (× 5). – 5. Standard (× 6). – 6. Wing (× 5). – 7. Keel (× 6). – 8. Stamens, tube opened (× 12). – 9. Anther with short appendage (× 30). – 10. Anther with long appendage (× 30). – 11. Gynoecium (× 12). – 12. Legumes (× 2). – 13. Seed with funicle (× 10). – 14. Seed, view of the hilum (× 10). (1–14 : Haarer 2156 ). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

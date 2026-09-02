@@ -38,6 +38,12 @@ koko (Fr.) ; eru (Angl.). kumbu (Iduma, Wandzi, Nzébi, Sango), nkumu (Obamba, T
 
 and Robyns (1948), reproduced from Schippers & Besong (2004) and made available to us by PROTA (©).
 
+## Figures
+
+![Gnetum africanum](../sources/Gnetaceae_vol42_liteparse/figures/fig_016_p0027.png)
+
+*Plate 7. Gnetum africanum: 1. Male inflorescence. – 2. Part of male strobilus. – 3. Male flower. – 4. Stem with female inflorescence and infructescence. – 5. Female strobilus. – 6. Seed. Drawing by W.*
+
 ## Notes
 
 <!-- TODO:notes -->

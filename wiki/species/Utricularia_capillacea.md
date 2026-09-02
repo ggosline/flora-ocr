@@ -37,6 +37,16 @@ Guinea, Ivory Coast, Nigeria, Cameroon, Central African Republic, Democratic Rep
 
 swampy savannas, humid rocks in forest; in Gabon, at 310–540 m altitude, in West and East Africa, mostly between 0 and 2300 m. B: Fleischmann (2012a), Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia capillacea](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_091_p0102.jpeg)
+
+*Figure 10. Utricularia andongensis (Gabon) : A-C. – Utricularia capillacea (Gabon) : D (Photos J.P.*
+
+![Utricularia capillacea](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_096_p0106.png)
+
+*Plate 35. Utricularia capillacea : 1, 2. Entire plant (× 1). – 3. Base of the plant showing the rhizoids, stolons, utricles and the base of the peduncle (× 8). – 4. Utricle (× 60). – 5. Aberrant appendages of the utricle, dorsal view (× 24). – 6. Bract (× 16). – 7. Bracteole (× 16). – 8. Flower, lateral view (× 10). – 9. Idem, in situ (× 10). – 10. Flower, front view (× 10). – 11. Calyx (× 10). – 12, 13. Upper lip of the corolla (× 10). – 14. Palate and lower lip of the corolla, without spur (× 10). – 15. Stamen (× 24). – 16. Style and stigma (× 24). – 17. Fruit, ventral view, with calyx (× 10). – 18. Seed (× 90). (1, 3, 4, 18 : Milne-Redhead & Taylor 8008b ; 2 : Hepper 1963 ; 5-7, 9, 11, 13, 15, 16 : Thulin 703 ; 8, 12, 14, 17 : Milne-Redhead & Taylor 8008d ; 10 : Swaminathan 5 ). Drawing by P. Taylor, Royal Botanic Gardens,*
+
 ## Notes
 
 <!-- TODO:notes -->

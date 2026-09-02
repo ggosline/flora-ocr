@@ -37,6 +37,12 @@ in grasslands or flooded or seasonally flooded savannas, also at the edge of mar
 
 This plant is good forage for livestock (Burkill 1985). Taxonomic note: resembles certain species of Cyperus subgenus Kyllinga with white inflorescence, but it is easily distinguished by the different structure of the spikelet and by the perfectly round capitate inflorescence viewed from above. The obovate winged squamella distinguishes it from other species of the genus. B: Goetghebeur (1980), Haines & Lye (1983), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Ascolepis capensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_011_p0018.png)
+
+*Planche 3. Ascolepis capensis. A. Plante. – B. Planche 4. Bulbostylis abortiva. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,13 @@ Bibliography
 
 - Calyx with teeth acute or mucronate at apex, with shorter cilia; upper part of the stem densely pubescent to pilose, with hairs generally appressed and directed downward; upper surface of leaf limb practically glabrous except on the vein
 
+## Key to the species
+
+1. - Terminal inflorescence globose or shortly cylindric, reaching 3 cm in length; leaf blade generally marked with white on the veins of the upper surface (character sometimes not visible in herbarium material) ............................... A. tisserantii
+- Terminal inflorescence cylindric, 3–9 cm long; leaf blade uniformly green on the upper surface .................................................................................. 2
+2. - Calyx with teeth longly acuminate-caudate, with cilia of ± 1 mm; upper part of the stem villous, with hairs generally spreading; upper surface of the leaf blade with stiff hairs 1–1.5 mm ............................................................................ A. ciliatum
+- Calyx with teeth acute or mucronate at the apex, with shorter cilia; upper part of the stem densely pubescent to pilose, with hairs generally appressed and directed downward; upper surface of the leaf blade practically glabrous except on the main vein .................................................................................... A. oblongifolium
+
 ## Species in region
 
 | Species | Vol | Pages |

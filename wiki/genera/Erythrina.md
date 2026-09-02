@@ -29,6 +29,27 @@ Vernacular names: coral tree, immortal tree (Fr.); coral tree (Eng.).
 
 Notes: Genus rarely collected in Gabon. The following species have been included in the key and remain to be found in Gabon. E. variegata L., an ornamental species originating from Asia and East Africa, often with variegated leaflets with yellow veins, is found in gardens, but herbarium specimens are lacking. E. excelsa Baker, widespread from Guinea to Equatorial Guinea, is a large forest tree to be sought in Gabon. E. fusca Lour., large tree originating from Asia, but regularly planted elsewhere, on marshy coast and at low altitude, is found in Africa, from Ghana to Tanzania.
 
+## Key to the species
+
+1. - Calyx broadly campanulate, without a slit (to be sought in Gabon) ............. E. fusca Lour.
+- Calyx tubular or with a slit ........................................................................... 2
+2. - Calyx with a dorsal or lateral slit; corolla orange or white, petals of the keel free; pod straight, reaching 30 cm in length; indumentum with numerous stellate hairs, glabrescent at maturity (to be sought in Gabon) ......................... E. variegata L.
+- Calyx without a slit or with a ventral (abaxial) slit; corolla bright red to orange, sometimes with some purple, petals of the keel fused or free; indumentum with simple to branched or stellate hairs; pod spiralled to curved, or if straight, reaching 18 cm in length .. 3
+3. - Petals of the keel free; leaflets with papyraceous limb; calyx limb formed of 5 ± equal and ± fleshy lobes of 1.5–2.5 or of 8–15 mm; seed with black hilum ............................. 4
+- Petals of the keel fused, at least at the base, by the abaxial margin; leaflets with firmer limb; calyx with digitate or dentiform lobes of 1–2 mm, or calyx limb formed of 1 or 2 membranous lobes; seed with white hilum (not known in E. wieringae ) .................................................................................................................. 5
+4 - Calyx lobes small, semicircular, 1.5–2.5 mm in length; pod straight, flexible, with thin wall, coriaceous, articles ± 2 cm in diameter; terminal leaflets with limb generally deltoid (with the greatest width below the middle) and with apex acute to slightly acuminate ................................................................................... E. tholloniana
+- Calyx lobes linear, 8–15 mm in length; pod coiled, rigid, with very thick and woody wall, articles ± 4 cm in diameter; terminal leaflets with limb generally rhomboidal (with the greatest width ± at the middle) and with apex obtuse to rounded ................................................................................................. E. droogmansiana
+
+---
+
+5. - Calyx tubular, with digitate or dentiform lobes of 1–2 mm in length; seed hard and smooth; small forest or wooded savanna tree .......................................... E. vogelii
+- Calyx spatulate or with laciniate and longer lobes; seed soft and rugose; large forest tree .............................................................................................. 6
+6. - Calyx spatulate, with a single coriaceous lobe bidentate at the apex, glabrescent; pod 20 cm in length; petioles 4–21 cm; rachis 2–8.5 cm (to be sought in Gabon)
+................................................................................................................ E. excelsa Baker
+- Calyx with 2 very unequal membranous lobes; pod 5–15 cm in length (not known in E. wieringae ); petioles 8–12 cm; rachis ± 2 cm ................................................... 7
+7. - Flowers sessile, in a simple, robust, terminal pseudoraceme; calyx 18–30 mm in width .......................................................................................................... E. wieringae
+- Flowers with a pedicel of 5–15 mm, in pseudoracemes grouped in tufts, with slender lateral axes; calyx 7–10 mm in width ............................................................ E. mildbraedii
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -42,6 +42,12 @@ abre huileux (fr.)
 
 Among the three Gabonese collections cited under P. mutica by Omino (1996), two are now identified as P. robusta (Breteler 6558 and 13338), while the third is P. brevistyla (Breteler & van Raalte 5635). Three other specimens, Mcpherson 17968, Nguema Miyono 1879 and Wieringa 853, two of which were collected after Omino's revision, now represent P. mutica for Gabon. P. mutica seems to reach its southern limit in the Cristal Mountains in the northwest of Gabon. B: Jongkind & Lachenaud, Nyunà, Omino. BIBLIOGRAPHY
 
+## Figures
+
+![Pleiocarpa mutica](../sources/Apocynaceae_vol59_liteparse/figures/fig_168_p0195.jpeg)
+
+*Planche 90 . Pleiocarpa mutica 5DPHDXÀRULIqUHîҀ±)OHXUî±&RUROOHRXYHUWHDYHF pWDPLQHVî±3DUWLHGXFDOLFHDYHFSLVWLOî±,QIUXWHVFHQFHîҀ*UDLQHFRXSHORQJLWX - dinale (× 1). – 8. Embryon (× 2). (1 : J.J.F.E. de Wilde 7548 ; 2-4 : Leeuwenberg 12219 ; 5-10 : de Koning 5790 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Omino (1996).*
+
 ## Notes
 
 <!-- TODO:notes -->

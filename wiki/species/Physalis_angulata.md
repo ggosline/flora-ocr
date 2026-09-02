@@ -44,6 +44,16 @@ Physalis has long been recognized as a particularly complex genus from a taxonom
 
 BY-NC-ND), C by Carla Maldonado (CC-BY-NC-SA), I by Sandra Knapp (CC-BY), J, L by Maria Vorontsova (CC-BY), K by Nicolas Texier (CC-BY-NC-ND)).
 
+## Figures
+
+![Physalis angulata](../sources/Solanaceae_vol55_liteparse/figures/fig_053_p0107.png)
+
+*Plate 32 . Physalis peruviana : 1. Fertile stem (× ⅔). – 2. Calyx (× 1½). – 3. Flower (× 1½). – 4. Dissected flower, interior of the corolla (× 1½). – 5. Anther (× 4). – 6. Gynoecium (× 1½). – 7. Fruit in the calyx (× 1½). – 8. Fruit (× 1). – 8'. Idem, transverse section (× 1). – 9. Seed (× 4). – 9'. Idem, detail of the testa. – Physalis angulata : 10. Fruiting stem (× ⅔). – 11. Calyx (× 4). – 12. Flower (× 4). – 13. Dissected flower, interior of the corolla (× 4). – 14. Gynoecium (× 4). – 15. Fruit (× 1). – 16. Seed (× 4). 16'. Idem, detail of the testa. (1, 3, 5-8', 9 : Balansa 525 ; 2 : Deplanche s.n. ; 4 : Cribs 1224 ; 10, 15, 16, 16' : Mackee 15645 ; 11-14 : Balansa 516 ). Drawing by Gisèle Chypre (©), reproduced with permission from Heine (1976).*
+
+![Physalis angulata](../sources/Solanaceae_vol55_liteparse/figures/fig_054_p0108.jpeg)
+
+*Figure 7. Physalis angulata (Moyen-Ogooué, Gabon, Bidault et al. 1934 ) : A. General aspect and fruiting calyx, B. Flower. – Physalis peruviana (La Paz, Bolivia, Maldonado et al. 3081 ) : C. General aspect and flower. – Schwenckia americana (Ogooué-Maritime, Gabon, Bidault & Ikabanga 1707): D. Flower, E. Fruit. – Solanum terminale (Ogooué-Ivindo, Gabon, Bidault et al. 4488 ) : F. Inflorescence, G. Fructification. – Solanum aculeatissimum (Estuaire, Gabon, Bidault et al. 3627 ) : H. Inflorescence. – Solanum americanum (Ica, Pérou, Knapp s.n. ) : I. Inflorescence. – Solanum anguivi (Ngong, Kenya, Vorontsova et al. 100 ) : J. Inflorescence. – Solanum anomalum (Ogooué-Ivindo, Gabon, Texier 2255 ) : K. Fructifications. – Solanum dasyphyllum (Tegetero, Tanzania, Vorontsova et al. 151 ) : L. Inflorescence. – Solanum torvum (Nzérékoré, Guinea, Bidault & Diabaté 668 ) : M. Flower. (Photos A, B, D-H, M by Ehoarn Bidault (CC-*
+
 ## Notes
 
 <!-- TODO:notes -->

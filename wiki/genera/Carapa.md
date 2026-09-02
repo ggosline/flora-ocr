@@ -27,6 +27,19 @@ Bibliography: Kenfack (2011), Noamesi (1958), Pennington & Styles (1975), Staner
 
 ### Key to species
 
+## Key to the species
+
+1. - Tree reaching 35 m in height; leaf with 15–25 pairs of leaflets; most leaflets 5 or 6 times longer than wide ...................................... C. angustifolia
+- Small tree or shrub; leaves generally with up to 15(–19) pairs of leaflets; most leaflets < 5 times longer than wide ........................... 2
+2. - Petiole with thickened base above the pulvinus ≥ 10 mm in diameter; leaf with 7–15(–19) pairs of leaflets .................................................................................... 3
+- Petiole 3–7(–9) mm in diameter above the pulvinus; leaf with up to 6(–11) pairs of leaflets ........................................................................................... 4
+3. - Leaflets with main vein hairy, puberulent or velvety beneath; ovary with 5–6 ovules per locule ....................................................................................... C. dinklagei
+- Leaflets with main vein glabrous beneath; ovary with (3–)4 ovules per locule ................................................................................................................ C. parviflora
+4. - Shrub generally 2.5–8(–12) m in height; leaf with (2–)3–4 pairs of leaflets; ovary 4- or 5-locular, with 2 ovules per locule ............................... C. batesii
+- Small tree 5–20(–30) m in height; leaf with (3–)4–6(–11) pairs of leaflets; ovary 5-locular, with 3–5 ovules per locule ................................................................ 5
+5. - Leaflets with acuminate apex, terminated by a slender, acute or obtuse point; petals 4–5 mm in length ............................................................... C. hygrophila
+- Leaflets with obtuse apex, terminated in a short acumen or mucronate; petals (5.5–)7–9 mm in length (to be searched for in Gabon) .......................... C. macrantha
+
 ## Species in region
 
 | Species | Vol | Pages |

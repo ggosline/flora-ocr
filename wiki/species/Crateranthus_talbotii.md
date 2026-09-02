@@ -38,6 +38,12 @@ swamp forest, secondary forest, forest on sand, riparian forest; in Gabon up to 
 
 mondjadi. Notes taxonomiques : Baker (1913) a décrit deux variétés chez C. talbotii à partir des caractères des feuilles plus petites et plus ou moins arrondies au sommet ( C. talbotii Bak.f var. parvifolia Bak.f.) et des bractées disposées en 4–5 séries ( C. talbotii Bak.f var. multibracteata Bak.f.) au lieu de bractées opposées. Au Gabon, nous n’avons observé que des échantillons de C. talbotii renfermant des bractées opposées et des feuilles assez larges à apex aigu ou acuminé. Il est possible malgré tout que ces variétés existent également au Gabon. Lecomte (1920) a distingué C. le-testui basé sur plusieurs caractères, notamment les rameaux à ailes plus larges, les limbes à plus de nervures latérales, la couronne avec plus de plis et l’ovaire à 4 loges au lieu de 3. Nous avons observé des situations intermédiaires dans plusieurs échantillons, ce qui nous a convaincu que les deux doivent être traitées comme la même espèce. B : Hutchinson & Dalziel (1954), Knuth (1939), Lecomte (1920), Rendle et i B liographie al. (1913), Tsou (1994)
 
+## Figures
+
+![Crateranthus talbotii](../sources/Lecythidaceae_vol42_liteparse/figures/fig_024_p0050.png)
+
+*Plate 13. Crateranthus talbotii : 1. Flowering branch (× ½). – 2. Flower bud (× 1). – 3. Flower, longitudinal section (× 1). – 4. Stamen (× 5). – 5. Young fruit (× ½). Drawing reproduced from*
+
 ## Notes
 
 <!-- TODO:notes -->

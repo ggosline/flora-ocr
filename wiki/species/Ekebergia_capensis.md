@@ -31,6 +31,12 @@ species with wide African distribution, from Senegal to Ethiopia and south to So
 
 limited to mountainous zones; up to 2600 m altitude. Taxonomic notes: 1 - We follow here Styles & White (1991) who consider that the Ekebergia of West Africa belong to a single variable taxon with varied ecology and wide distribution. 2 - The only Gabonese specimen previously attributed to the genus Ekebergia and preserved at the National Herbarium of Paris, namely Soyaux 103, belongs to Pseudospondias (Anacardiaceae). B: Staner & Gilbert (1958), Styles & White (1991). Bibliography
 
+## Figures
+
+![Ekebergia capensis](../sources/Meliaceae_vol47_liteparse/figures/fig_016_p0024.png)
+
+*Plate 2. Ekebergia capensis : A. Flowering branch (× 0.5). – B. Opened flower (× 3). – C. Ditto, longitudinal section (× 3). – D. Fruit (× 0.5). – E. Ditto, transverse section (× 1). (A : Louis 6700 ; B, C : Louis 16366 : D, E : Louis 4299 ). Drawing by J.M. Lerinckx, reproduced with permission from the National Botanical Garden of Belgium (©) from Staner & Gilbert (1958).*
+
 ## Notes
 
 <!-- TODO:notes -->

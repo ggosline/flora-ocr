@@ -41,6 +41,12 @@ roadside, spontaneous herb in garden; at 60–80 m altitude
 
 This species is close to C. glauca, but the leaves are 3-foliolate, not simple, and the plant is more robust. b: van der Maesen (2013). Bibliography
 
+## Figures
+
+![Crotalaria tchibangensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_040_p0105.png)
+
+*Plate 32 : Crotalaria tchibangensis : 1. Whole plant. – 2. Various forms of leaves. – 3. Base of the leaf. – 4. Flower. – 5. Calyx, interior face. – 6. Standard, interior face. – 7. Wing, interior face. – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

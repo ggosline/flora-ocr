@@ -30,6 +30,12 @@ Bequaert 2172; 7-8: J. Louis 12996). Drawing by Yuen Fang Tan, Naturalis Biodive
 
 one stamen and the appendices of one corolla lobe; Follicle; Base of the fruit. Zenker 157; 2-4: Mildbread 5876; 5-7: Zenker 2920). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Barink (1984).
 
+## Figures
+
+![Pleioceras zenkeri](../sources/Apocynaceae_vol59_liteparse/figures/fig_173_p0204.jpeg)
+
+*Plate 95 . Pleioceras zenkeri 5DPHDXÀRULIqUHîҀ±)OHXUî±)ORZHUORQJLWXGLQDO section, showing two pairs of appendages, two stamens and the pistil (× 6). – 4. Part of the corolla showing*
+
 ## Notes
 
 <!-- TODO:notes -->

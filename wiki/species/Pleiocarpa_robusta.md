@@ -26,6 +26,12 @@ Shrub 0–3 m tall with white latex. Leaf glabrous; petiole 0.7–1.7 cm; blade 
 
 Evergreen forest, on drained soils; at 250–500 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Pleiocarpa robusta](../sources/Apocynaceae_vol59_liteparse/figures/fig_170_p0199.jpeg)
+
+*Planche 92 . Pleiocarpa robusta 5DPHDXÀRULIqUH±&DOLFHHWRYDLUHVpSDOHVHQOHYpV±%RX -*
+
 ## Notes
 
 <!-- TODO:notes -->

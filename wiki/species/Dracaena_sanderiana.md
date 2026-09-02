@@ -37,6 +37,12 @@ very humid stations in forest, near or in rivers or marshes; in Gabon at 110 m a
 
 dragonnier de Sander (fr.) ; lucky bamboo (angl.). B : Baker (1898), Damen et al. (2018), Mwachala (2005). i B liographie
 
+## Figures
+
+![Dracaena sanderiana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_046_p0054.jpeg)
+
+*Figure 5 . Dracaena sanderiana (cult., Libreville, Gabon ; cult., Wageningen University, Pays-Bas) : A.*
+
 ## Notes
 
 <!-- TODO:notes -->

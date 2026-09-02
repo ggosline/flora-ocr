@@ -38,6 +38,12 @@ primary and secondary forest, sometimes in semi-deciduous forests; in Gabon and 
 
 diania (nom pilote) ; African celtis (angl.) ; engo (fang) ; ghétsemè (mitsogho, babongo). Usage : L’arbre est récolté pour son bois, en usage local et à l’exportation. Il est peu durable et utilisé en intérieur pour la menuiserie, les coffrages, etc. et la fabrication de contreplaqué. En médecine traditionnelle, l’écorce et les racines sont utilisées comme antalgiques. Des préparations à base d’écorce sont prescrites en cas de diarrhée et de fièvre, tandis que celles à base de feuilles soignent l’inflammation des voies respiratoires, la tachycardie et l’anémie. B : Hauman (1948), Hutchinson et al. (1958), Letouzey (1968), Meunier et al. (2015), Sat i B liographie tarian (2006)
 
+## Figures
+
+![Celtis tessmannii](../sources/Ulmaceae_vol58_liteparse/figures/fig_099_p0128.jpeg)
+
+*Plate 34 . Celtis tessmannii : 1. Flowering branch (× ½). – 2. Female flowering branch, tip (× ½). – 3. Male flower (× 10). – 4. Female flower (× 5). – 5. Idem, longitudinal section (× 5). – 6. Young fruits (× ½). – 7. Ripe fruit (× ½). (2 : Dubois 768 ; 4, 5 : Louis 3622 ; 6 : Louis 3908 ; 7 : Louis 5633 ). Drawing by J.M. Lerinckx, Botanical Garden of Meise (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

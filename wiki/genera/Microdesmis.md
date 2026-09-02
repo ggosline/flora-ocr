@@ -80,6 +80,54 @@ TYPE SPECIES: Microdesmis puberula Hook. f. ex Planchon.
 
 1'. Fruit glabrous..... 4. M. haumaniana
 
+## Key to the species
+
+I. Based on the specimens:
+
+1. Branchlets ± strongly pubescent.
+
+2. Petals glabrous internally..... 1. M. klainei
+
+3. Pistillode pubescent..... 2. M. pierlotiana
+
+3'. Pistillode glabrous..... 3. M. puberula
+
+1'. Branchlets glabrous or very strongly glabrescent.
+
+4. Petals pubescent or puberulent internally..... 4. M. haumaniana
+
+4'. Petals glabrous internally..... 5. M. camerunensis
+
+II. Based on the specimens
+
+2. Branchlets glabrous..... 5. M. camerunensis
+
+2.¹ Branchlets pubescent..... 1. M. klainei
+
+3. 2 styles..... 3. M. puberula
+
+4. Ovary glabrous ..... 4. M. haumaniana
+
+4'. Ovary pubescent..... 2. M. pierlotiana
+
+III. Based on the Fruiting Specimens:
+
+1. Fruit entirely or partially pubescent or puberulent.
+
+2. Fruit entirely puberulent; diameter 1–2 cm.
+
+3. Apex of fruit not depressed..... 1. M. ki
+
+¹. Apex of fruit depressed..... 2. M. pierloti
+
+Fruit partially puberulent or pubescent; diameter less than 1 cm.
+
+4. (1–) 2 (–3) locules; apex pubescent..... 3. M. puberula
+
+4'. 3 locules; apex puberulent..... 5. M. camerunensis
+
+1'. Fruit glabrous..... 4. M. haumaniana
+
 ## Species in region
 
 | Species | Vol | Pages |

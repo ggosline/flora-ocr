@@ -33,6 +33,12 @@ widely distributed in tropical Africa and Madagascar; apparently rare in Gabon, 
 
 in grasslands and open forests, often along forest margins and in secondary forests, also a weed of cultivated areas and roadsides; at 0–2200 m altitude. Taxonomic note: close to C. cyperoides, but often a larger plant with wider leaves, larger spikes and longer glumes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus luteus](../sources/Cyperaceae_vol44_liteparse/figures/fig_049_p0065.png)
+
+*Plate 37 . Cyperus luteus. A. Plant. – B. Spikelet. Plate 38 . Cyperus maculatus . A. Plant. – B. – C. Rachis of spikelet. – D. Glume. – E. Flower with Base of the plant with bulb. – C. Spikelet. – D. young fruit, style and three filaments. Drawing original by Glume. – E. Fruit with style and three filaments. Drawing*
+
 ## Notes
 
 <!-- TODO:notes -->

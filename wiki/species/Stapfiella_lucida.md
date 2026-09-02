@@ -38,6 +38,14 @@ Fruit. – 6. Seed. Drawing by G. Van Assche, reproduced with permission of the 
 
 3
 
+## Figures
+
+![Stapfiella lucida](../sources/Turneraceae_vol42_liteparse/figures/fig_041_p0097.png)
+
+*Plate 27. Stapfiella lucida: 1. Flowering stem. – 2. Leaf, detail of lower surface. – 3-4. Flowers. – 5.*
+
+![Stapfiella lucida](../sources/Turneraceae_vol42_liteparse/figures/fig_042_p0098.png)
+
 ## Notes
 
 <!-- TODO:notes -->

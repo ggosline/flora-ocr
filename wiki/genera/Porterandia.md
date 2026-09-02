@@ -43,6 +43,18 @@ Genus represented in Asia by 9 non-climbing species, of which the type species P
 
 …… 4. P. annulata
 
+## Key to the species
+
+1. Shrubs or trees.
+
+2. Fruit elliptic ± smooth; limb with rounded apex and upper surface glabrous or glabrescent..... 1. P. cladantha
+2'. Fruit subglobose coarsely ribbed; limb with lanceolate apex and upper surface pubescent..... 2. P. nalaensis
+
+3. Leaf limb hairy on both surfaces; inflorescences 8-12-flowered; disk pubescent..... 3. P. castaneofulva
+
+3'. Limb glabrescent above; inflorescences 2-8 flowered; disk glabrous.
+…… 4. P. annulata
+
 ## Species in region
 
 | Species | Vol | Pages |

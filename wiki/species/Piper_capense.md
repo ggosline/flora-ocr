@@ -38,6 +38,12 @@ undergrowth of dense humid forest, humid places, sometimes open, gallery forest;
 
 Two varieties are recognized in Flora of Tropical East Africa, but only var. capense is recorded in Gabon. B: Baker & Wright (1909), Balle (1948), Diniz (1997), Verdcourt (1996). Bibliography
 
+## Figures
+
+![Piper capense](../sources/Piperaceae_vol50_liteparse/figures/fig_039_p0076.png)
+
+*Plate 27 . Piper capense var. capense : 1. Habit (× ½). − 2. Male spike, partial (× 5). – 3. Female spike, partial (× 5). – 4. Bisexual flower (× 10). − 5. Bract (× 10). – 6. Ovary, longitudinal section (× 10). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

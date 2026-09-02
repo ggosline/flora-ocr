@@ -36,6 +36,12 @@ disjunct, rare in Ivory Coast and Ghana, then in southeastern Cameroon, Gabon, C
 
 often on slopes, talus or rocky faces, but also along forest trails, in primary and secondary forests, often along watercourses and rivers; 100–950 m altitude. B : Irmscher (1925), Sosef (1994), Wilczek (1969a; as B. quadrialata ). IBLIOGRAPHY
 
+## Figures
+
+![Begonia mildbraedii](../sources/Begoniaceae_vol39_liteparse/figures/fig_042_p0060.png)
+
+*Plate 27. Begonia mildbraedii: 1. Fruiting plant (× ⅔). – 2. Inflorescence (× ⅔). – 3. Flower ♀ (× 2). – 4. Styles and stigmas (× 4). – 5. Fruit (× 2). – 6. Leaf, upper surface (× ⅔). (1: de Wilde c.s. 9626; 2-4: cultivated plant in greenhouse under no. 90PTGA022; 5: Breteler & de Wilde 428; 6:*
+
 ## Notes
 
 <!-- TODO:notes -->

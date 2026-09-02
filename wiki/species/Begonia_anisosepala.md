@@ -34,6 +34,12 @@ LEIDEN National Herbarium of the Netherlands – Wageningen branch.
 
 on slopes, river beds or hillsides in primary or secondarized forest, often at the edge of watercourses; 50–600 m altitude. B: Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia anisosepala](../sources/Begoniaceae_vol39_liteparse/figures/fig_032_p0044.png)
+
+*Plate 17. Begonia anisosepala : 1. Flowering plant (× ⅔). – 2. Female flower (× 2). – 3. Styles and stigmas (× 4). – 4. Fruit (× 2). – 5, 6. Leaves, upper surface (× ⅔). (1 : de Wilde & Sosef 10342 ; 2, 3, 6 : de Wilde & Sosef 10278 ; 4, 5 : Breteler & de Wilde 181 ) . Drawing by W W , Herbarium*
+
 ## Notes
 
 <!-- TODO:notes -->

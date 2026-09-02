@@ -49,7 +49,7 @@ Chigumira Ngwerume & Grubben (2004), Keraudren (1967), Keraudren-Aymonin (1975),
 
 ![Cucurbita maxima](../sources/Cucurbitaceae_vol57_paddle/figures/fig_047_p0067.png)
 
-*Planche 19. Cucurbita maxima: 1. Tige avec fleur femelle (×½). – 2. Bouton d'une fleur mâle (×½). – 3. Fleur femelle, coupe longitudinale, sans ovaire (×½). – 4. Fleur mâle, coupe longitudinale (×½). – 5. Graine, vue de face et de profil (×½). – 6. Idem, ouverte, avec embryon (×½). – 7. Plantule (×½). (1, 2, 4: Westphal 9356: 3: Leeuwenberg & van Beek 10404: 5: Westphal 9113: 6: Westphal 9112; 7: Westphal 9247). Dessin par Wil Wessels, Naturalis Biodiversity Center (©), reproduit à partir de Stevels (1990).*
+*Plate 19. Cucurbita maxima: 1. Stem with female flower (×½). – 2. Bud of a male flower (×½). – 3. Female flower, longitudinal section, without ovary (×½). – 4. Male flower, longitudinal section (×½). – 5. Seed, front view and side view (×½). – 6. Idem, open, with embryo (×½). – 7. Seedling (×½). (1, 2, 4: Westphal 9356: 3: Leeuwenberg & van Beek 10404: 5: Westphal 9113: 6: Westphal 9112; 7: Westphal 9247). Drawing by Wil Wessels, Naturalis Biodiversity Center (©), reproduced from Stevels (1990).*
 
 ## Notes
 

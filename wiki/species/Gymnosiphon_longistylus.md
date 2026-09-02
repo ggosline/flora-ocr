@@ -35,6 +35,16 @@ primary forests; in Gabon between 0 and 900 m altitude. Taxonomic note: In two A
 
 APPENDIX A nomenclatural novelty and a new species of
 
+## Figures
+
+![Gymnosiphon longistylus](../sources/Burmanniaceae_vol41_liteparse/figures/fig_015_p0027.png)
+
+*Plate 6. Gymnosiphon longistylus : 1. Plant (× 0.7). – 2. Plant (× 2). – 3. Flower, longitudinal section (× 20). – 4. Flower, view from above (× 4). – 5. Perianth, split longitudinally and open (× 10). – 6. Gynoecium (× 7). – 7. Ovary, transverse section (× 20). Drawing by D. Leyniers (1) and M.-*
+
+![Gymnosiphon longistylus](../sources/Burmanniaceae_vol41_liteparse/figures/fig_016_p0029.png)
+
+![Gymnosiphon longistylus](../sources/Burmanniaceae_vol41_liteparse/figures/fig_017_p0029.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

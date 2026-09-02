@@ -22,6 +22,12 @@ Fl. Trop. Afr. 4(1) : 99 (1902). Shrub or tree 1.5–20(–30) m tall, rarely sc
 
 Naturalis Biodiversity Center (©), reproduced from Omino (1996).
 
+## Figures
+
+![Pleiocarpa pycnantha](../sources/Apocynaceae_vol59_liteparse/figures/fig_169_p0197.jpeg)
+
+*Plate 91 . Pleiocarpa pycnantha – 4. Idem, view from above (× 4). – 5. Calyx lobe, inner surface (× 8). – 6. Corolla open, with stamens (× 6). – 7. Pistil (× 8). (1 : J. Louis 12898 ; 2-7 : Breteler & De Wilde 636 ). Drawing by Yuen Fang Tan,*
+
 ## Notes
 
 <!-- TODO:notes -->

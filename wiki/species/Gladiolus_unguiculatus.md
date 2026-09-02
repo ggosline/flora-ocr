@@ -31,6 +31,12 @@ Senegal, Mali, Guinea-Bissau, Guinea, Sierra Leone, Burkina Faso, Ivory Coast, G
 
 Savannas and forest margins; up to 2200 m altitude. B: Baker (1892, 1898), Geerinck (2005), Goldblatt (1993, 1996a, 1996b), BIBLIOGRAPHY Hepper (1968c)
 
+## Figures
+
+![Gladiolus unguiculatus](../sources/Iridaceae_vol38_liteparse/figures/fig_022_p0039.png)
+
+*Plate 8: Gladiolus unguiculatus: A. Plant (× ½), Flower, lateral view (× 1). – Gladiolus gregarius: B. Plant (× ½), Flower, frontal view and longitudinal section (× 1). (A: Schaijes 5123; B:*
+
 ## Notes
 
 <!-- TODO:notes -->

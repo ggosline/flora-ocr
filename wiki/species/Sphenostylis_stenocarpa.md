@@ -38,6 +38,12 @@ herbaceous or shrubby savanna, on sandy soils; in Gabon at 430–640 m altitude,
 
 pomme de terre batéké (fr.) ; African yam bean (angl.) ; mpembo-dari, pémo. B : Anonymous (1979), Burkill (1995), Lewis et al. (2005), Pellegrin (1949), Raponda-Wali B liographie ker & Sillans (1961), Verdcourt (1971c), Wilczek (1954)
 
+## Figures
+
+![Sphenostylis stenocarpa](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_126_p0352.png)
+
+*Plate 118: Sphenostylis stenocarpa: 1. Flowering branch (× ½). – 2. Stipules (× 3). – 3. Flower (× 1). – 4. Standard, internal face (× 1). – 5. Wing, internal face (× 1). – 6. Keel (× 1). – 7. Androecium (× 1). – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

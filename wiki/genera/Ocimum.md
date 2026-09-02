@@ -21,6 +21,15 @@ Genus of 66 species spread throughout the tropics, mainly in Africa, often culti
 
 Notes: An occurrence of O. basilicum L. has been reported at Cape Lopez. Raponda-Walker & Sillans (1961) suggest that it is widely cultivated in Gabon and known under the following names: igondjo-maria, ivaï (mpongwè); ntsomo (galoa); ntsome, ozasa (nkomi); osim (fang); ndzatsi (balumbu); ndzandza (bapunu, bavungu); mundzandza (banzabi); dika dumba-digègi (eshira); lévuvumba-lè-nkyénto (loango); ozindza, asindzi (bakèle); usendjo (béséki); adjumadju (mindumu); étsipo-a-mokèè (mitsogo); tsèputsèlè (apindji); ivahi (benga). This species is commonly cultivated as a culinary herb throughout the tropics and it is often confused with O. africanum Lour. (synonyms: O. americanum L. var. pilosum (Willd.) A.J. Paton and O. citriodorum Vis.) which is much more frequently naturalized, in
 
+## Key to the species
+
+1. - Calyx throat with a ring of hairs inside; annual or ephemeral herb ...................................................................................................... O. americanum
+- Calyx throat glabrous inside; perennial herb or suffrutex ................................. 2
+2. - Fruiting calyx throat closed by the incurved median teeth of the lower lip, lower lip much shorter than the upper lip ( O. gratissimum ) .. 3
+- Fruiting calyx throat open, the 2 median teeth of the lower lip as long as or longer than the upper lip ................................... O. tenuiflorum
+3. - Stem hairy all around; leaf blade generally pubescent; inflorescence lax or dense .......................................................... O. gratissimum var. gratissimum
+- Stem glabrous toward the base or with short hairs on one or two sides of the stem only; leaf blade glabrous or with hairs confined to the veins below; inflorescence lax ...................................................................... O. gratissimum var. macrophyllum
+
 ## Species in region
 
 | Species | Vol | Pages |

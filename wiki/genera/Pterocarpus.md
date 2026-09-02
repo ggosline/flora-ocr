@@ -39,6 +39,28 @@ Bibliography: Hauman (1954d), Lewis et al. (2005), Pellegrin (1949), Polhill (19
 
 - Leaflets 5 to 9, with blade 4–20 × 2–8 cm; pod ± orbicular or falciform, 2.5–4.5 or else 8–14 cm in diameter, papyraceous to woody ..................................................... 3
 
+## Key to the species
+
+1. - Branches, peduncles, centre of the legume and base of leaflets spiny (to be sought in
+Gabon) ......................................................................................................... P. osun Craib
+- Tree without spines on these structures ............................................................................... 2
+2. - Leaflets (9–)11 to 15, with lamina (3.5–)5–10 × 2.5–4.5 cm; legume ± orbicular,
+5–9 cm in diameter, papyraceous ...................................................................... P. soyauxii
+- Leaflets 5 to 9, with lamina 4–20 × 2–8 cm; legume ± orbicular or falcate, 2.5–4.5
+or else 8–14 cm in diameter, papyraceous to woody ..................................................... 3
+3. - Leaflets with lamina 9–20 × 4–8 cm; stipules up to 1 cm in length; legume
+orbicular, 8–14 cm in diameter; bracts persistent, lanceolate
+..................................................................................... P. mildbraedii subsp. mildbraedii
+- Leaflets with lamina 4–13 × 2–6.5 cm; stipules up to 2(–3) cm in length; legume
+falcate to oblong and 11.5–13.5 cm in length or else orbicular and 2.5–4.5 cm in
+diameter; bracts filiform or minute, caducous or persistent ........................ 4
+4. - Leaflets with lamina 5–13 × 3–6.5 cm; petals bright yellow to orange, standard with
+lamina 10–12 mm in length; legume orbicular, 2.5–4.5 cm in diameter, with centre
+convex, of ± 2 cm in diameter and narrow wing ....................................................... P. santalinoides
+- Leaflets with lamina 4–8 × 2–3 cm; petals yellow with keel and base of standard red,
+standard with lamina 7–8 mm in length; legume falcate to oblong, 11.5–13.5 ×
+3.8–4.5 cm, with broad wing ................................................................................ P. tessmannii
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -41,6 +41,12 @@ ruderal places, cultivations, fields, roadsides and paths, savannas, often on sa
 
 herbe à balai, balai doux (fr.), licorice weed, sweet broomweed (angl.). B : Aguilar & Schmelzer (2001), Fischer (1999), Ghazanfar et al. (2008), ibliographie Hepper (1963), Mielcarek (1996), Philcox (1990)
 
+## Figures
+
+![Scoparia dulcis](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_055_p0130.png)
+
+*Plate 41. Scoparia dulcis : A. Flowering stem. – B, C. Flower. – D. Opened and flattened corolla. – E. Calyx and gynoecium. (A–E : Fischer 3867 ). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

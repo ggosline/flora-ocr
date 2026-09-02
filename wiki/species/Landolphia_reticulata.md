@@ -35,6 +35,16 @@ tudinal ± Stamen seen ventrally ± Young inflorescence ramified ± Young floral
 
 Distribution Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola. Cabinda in Gabon, all the provinces. Ecology primary and secondary forest in Gabon up to m altitude, elsewhere up to m. B: Beentje (2021), Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia reticulata](../sources/Apocynaceae_vol59_liteparse/figures/fig_134_p0151.jpeg)
+
+*Planche 66 . Landolphia reticulata 5DPHDXjMHXQHLQÀRUHVFHQFHîҀ±&RUROOHFRXSHORQJL -*
+
+![Landolphia reticulata](../sources/Apocynaceae_vol59_liteparse/figures/fig_135_p0152.jpeg)
+
+*Planche 67 . Landolphia robustior 5DPHDXÀRULIqUHîҀ±)OHXUî±,GHPFRXSHORQJLWX -*
+
 ## Notes
 
 <!-- TODO:notes -->

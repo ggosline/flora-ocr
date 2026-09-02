@@ -33,6 +33,12 @@ from Gabon to the Democratic Republic of the Congo; rare in Gabon, found only in
 
 in marshes and other humid habitats; at 0–600 m altitude. Taxonomic note: recognized by its rounded stems, its leaves without blades and its hemispherical inflorescence whitish-green becoming cinnamon-colored when dry. It is very close to C. aromaticus and should perhaps be included within it. B: Clarke (1902), Lye (2011b). Bibliography
 
+## Figures
+
+![Cyperus teres](../sources/Cyperaceae_vol44_liteparse/figures/fig_079_p0099.jpeg)
+
+*Figure 7. Akène de a) Cyperus peruvianus ( Walter & Harris 1573 , Ogooué-Maritime, Gabon) et épillet de b) Cyperus teres ( Le Testu 8937 , Ogooué-Ivindo, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

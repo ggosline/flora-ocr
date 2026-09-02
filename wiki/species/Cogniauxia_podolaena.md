@@ -52,7 +52,7 @@ Burkill (1985), Keraudren (1967), Keraudren-Aymonin (1975), Raponda-Walker & Sil
 
 ![Cogniauxia podolaena](../sources/Cucurbitaceae_vol57_paddle/figures/fig_045_p0059.png)
 
-*Planche 16. Cogniauxia podolaena: 1. Tige florifère mâle (×2½). - 2. Fleur mâle, deux pétales enlevés, deux sépales coupés (×1½). - 3, 4. Étamines (×2). - 5. Jeune fleur femelle, périanthe ouvert (×4). - 6. Fruit (×2½). - 7. Graine (×1½). 1-4: Jacques-Félix 2448; 5-7: Endengle 201). Dessin par F. Bagot, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 16. Cogniauxia podolaena: 1. Male flowering stem (×2½). - 2. Male flower, two petals removed, two sepals cut (×1½). - 3, 4. Stamens (×2). - 5. Young female flower, perianth open (×4). - 6. Fruit (×2½). - 7. Seed (×1½). 1-4: Jacques-Félix 2448; 5-7: Endengle 201). Drawing by F. Bagot, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

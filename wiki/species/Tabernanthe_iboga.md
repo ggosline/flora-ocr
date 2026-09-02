@@ -30,6 +30,28 @@ of— of the bud length, to conical or ovoid head, glabrous to the throat; tube 
 
 iboga (nom commun) ; bois amer, bois sacré (fr.) ; bitter grass, eboka, leaf of God, sacred wood (angl.) ; boga (apindji) ; diboga (béséki, balumbu, ngowé) ; diguga (éshira, bavarama, masango) ; dibugi (bavungu) ; dibuyi (bapunu) ; éboga (fang, bavové) ; ébogè (mitsogho) ; léboga (bakèlè) ; Operndorqdjropexjdedq]DELOLEXJDEDYLOLOLEXJDREXNDPLQGXPX B : Beentje (2021), Bourobou Bourobou (2008), Endress et al. (2019), Raponda-Walker & IBLIOGRAPHIE Sillans (1961), Vonk & Leeuwenberg (1989)
 
+## Figures
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_226_p0255.jpeg)
+
+*Plate 119. Tabernanthe iboga: 1. Flowering branch (× ⅔). – 2. Base of a subsessile leaf (× ⅔). – 3. Floral bud (× 5). – 4. Calyx lobe, internal face (× 5). – 5. Corolla, longitudinal section (× 5). – 6. Corolla lobe (× 5). – 7. Stamen, dorsal view (× 5). – 8. Idem, lateral view (× 10). – 9.*
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_227_p0256.jpeg)
+
+*Figure 14 . Tabernanthe iboga : A. Inflorescence. B. Fruit. – Vahadenia laurentii : C. Fruiting stem ; D.*
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_228_p0256.jpeg)
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_229_p0256.jpeg)
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_230_p0256.jpeg)
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_231_p0256.jpeg)
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_232_p0256.jpeg)
+
+![Tabernanthe iboga](../sources/Apocynaceae_vol59_liteparse/figures/fig_233_p0256.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ Nigeria, Cameroon, Equatorial Guinea (except Bioko), Gabon, Republic of the Cong
 
 Understory of evergreen and semi-deciduous rainforest, old secondary forest ; in Gabon, up to 820 m altitude, elsewhere up to 1000 m. B : Staner & Gilbert (1958), de Wilde (2007). Bibliography
 
+## Figures
+
+![Heckeldora staudtii](../sources/Meliaceae_vol47_liteparse/figures/fig_022_p0036.png)
+
+*Plate 8. Heckeldora staudtii : A. Functionally male flower, longitudinal section. – B. Functionally female flower, ditto. – C. Fruit. – D. Midvein of a leaflet, transverse section. – Heckeldora zenkeri : E. Leaf. – F. Male inflorescence ♂. – G. Functionally male flower ♂, longitudinal section. – H. Functionally female flower ♀, ditto. – I. Ovary, longitudinal section. – J. Fruit. – K. Ditto, opened. – L.*
+
 ## Notes
 
 <!-- TODO:notes -->

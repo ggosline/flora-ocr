@@ -34,6 +34,12 @@ coastal zones, mangroves, swamps, in Africa introduced or adventive, known in Ga
 
 Dashorst, Botanic Gardens and State Herbarium (Adelaide, South Australia; ©), reproduced with permission from Munir (1989).
 
+## Figures
+
+![Volkameria inermis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_094_p0118.png)
+
+*Plate 31 . Volkameria inermis : 1. Flowering stem. – 2. Flower. – 3. Idem, longitudinal section. – 4. Ovary. – 5. Idem, transverse section. – 6. Achenes with persistent calyx. (1-6 : Gray 175 ). Drawing by Gilbert R.M.*
+
 ## Notes
 
 <!-- TODO:notes -->

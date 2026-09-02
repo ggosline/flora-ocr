@@ -35,6 +35,14 @@ seasonally humid grasslands, lake margins and marshes, often in swamps and ditch
 
 Base of the inflorescence. – B. Leaf sheath opening. – C. Inflorescence. – D. Spikelet. – E. Spikelet rachis with a fruit. – F. Glume. – G. Fruit. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus flavescens](../sources/Cyperaceae_vol44_liteparse/figures/fig_093_p0115.png)
+
+*Planche 71 . Cyperus fibrillosus var. scaettae . A. Planche 72 . Cyperus flavescens . A. Plante. – B, C.*
+
+![Cyperus flavescens](../sources/Cyperaceae_vol44_liteparse/figures/fig_096_p0117.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ endemic to Gabon, known from Ogooué-Ivindo and Ogooué-Lolo
 
 primary and secondarised forest; at 200–500 m altitude. b: Breteler (2011b). Bibliography
 
+## Figures
+
+![Cleistanthus bambidianus](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_011_p0026.png)
+
+*Plate 5. Cleistanthus bambidianus: A. Flowering branch. ‒ B. Detail of the underside of a leaf. ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

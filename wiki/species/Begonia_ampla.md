@@ -32,6 +32,10 @@ Primary ombrophilous forests or old secondary forests; generally above 500 m alt
 
 <!-- caption: Plate 35. Begonia poculifera var. poculifera : 1. Flowering branch (× 0.4). – 2-4. Leaves (× 0.4). – 5. Male flower (× 0.8). – 6. Tepal of a male flower, external face (× 0.8). – 7. Stamen in front view (× 5). – 8. Female flower (× 0.8). – 8a. Indumentum of the ovary. – 9. Stigma, external face (× 5). – 10. Stigma papilla. – 11. Ovary, schematic transverse section (× 10). – 12, 12a. Mature fruit (× 1.5) with its indumentum. – 13. Detail of the apex of the fruit with remnant of the perianth column. – 14, 14a. -->
 
+## Figures
+
+![Begonia ampla](../sources/Begoniaceae_vol39_liteparse/figures/fig_049_p0073.png)
+
 ## Notes
 
 <!-- TODO:notes -->

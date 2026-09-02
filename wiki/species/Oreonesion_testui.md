@@ -34,6 +34,16 @@ Equatorial Guinea and Gabon; in Gabon known from Woleu-Ntem and Ogooué-Ivindo
 
 rocky pavements and grasslands of inselbergs; between 450 and 750 m altitude. B: Raynal (1965), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Oreonesion testui](../sources/Gentianaceae_vol54_liteparse/figures/fig_066_p0082.png)
+
+*Plate 27 . Oreonesion testui : 1. Habit (× 0.1). – 2. Flowering branch (× 2). – 3. Floral bud (× 5). – 4.*
+
+![Oreonesion testui](../sources/Gentianaceae_vol54_liteparse/figures/fig_069_p0086.jpeg)
+
+*Figure 7. Neurotheca loeselioides (Gabon, Franceville) : A, Habit ; B, Flowers. – Oreonesion testui (Gabon,*
+
 ## Notes
 
 <!-- TODO:notes -->

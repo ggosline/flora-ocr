@@ -42,6 +42,12 @@ avodiré (fr.) ; avodire (angl.). B : Aubréville (1959), Owusu (2008), Staner (
 
 Opened flower (× 1). – D. Fruit cluster (× 0.5). – E. Germination (× 0.5). – F. Seed (× 0.5). (A–F : Voorhoeve 1169 & 1174 ; J.J. de Wilde 3133 ; Leeuwenberg 3751 ). Drawing by L. van der Riet, Naturalis Biodiversity Center, Leiden (©).
 
+## Figures
+
+![Turraeanthus africanus](../sources/Meliaceae_vol47_liteparse/figures/fig_040_p0080.png)
+
+*Plate 26. Turraeanthus africanus : A. Branch with leaf (× 0.5). – B. Flowering branch (× 0.5). – C.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -41,6 +41,12 @@ Serves as food for rabbits, guinea pigs, goats and pigs. In the belief of indige
 
 bilyabi-ngulu, makaya-ma-ngulu (loango) ; ékata-bélemba (benga) ; nando (mpongwè) ; ndzic-bikôreghe (fang) ; ogóngó (nkomi). Note taxonomique : Verdcourt (1963) distingue deux variétés : var. cairica à corolle de 4,6–6 cm de longueur et var. indica à corolle de 2,3–3 cm de longueur. La dernière est seulement connue du Kenya, de la Somalie et de l’Inde. B : Gonçalves (1987), Lejoly & Lisowski (1992), Raponda-Walker & Sillans ibliographie (1961)
 
+## Figures
+
+![Ipomoea cairica](../sources/Convolvulaceae_vol46_liteparse/figures/fig_026_p0038.png)
+
+*Plate 14. Ipomoea cairica var. cairica : 1. Flowering branch. – 2. Corolla spread out with stamens. – 3. Gynoecium with part of the calyx. – 4–7. Sepals. – 8. Fruit. – 9. Seed. – 10. Ovary in longitudinal section. – 11. Septum. – 12. Pollen grain. (1: Richards 1050; 2–10: Humbert 2694). Drawing by C. Pinto (1) and Thierry Deroin (2-12) reproduced with permission respectively from Royal Botanic Gardens, Kew (©) and Scientific Publications of the National Museum of Natural History, Paris (©) from Gonçalves (1987) and Deroin (2001).*
+
 ## Notes
 
 <!-- TODO:notes -->

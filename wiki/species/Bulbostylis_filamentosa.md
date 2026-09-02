@@ -35,6 +35,14 @@ Tropical and subtropical Africa, from Senegal to Sudan and southward, in South A
 
 in savannas; in Gabon, at approximately 400–700 m altitude, up to 2300 m in East Africa. Taxonomic note: very close to B. scabricaulis, but differing by more crowded spikelets and finely papillose achenes, neither smooth nor weakly reticulate. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
+## Figures
+
+![Bulbostylis filamentosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_019_p0025.png)
+
+*Planche 9. Bulbostylis congolensis. A. Plante. – B. Planche 10. Bulbostylis filamentosa. A. Plante. –*
+
+![Bulbostylis filamentosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_020_p0025.png)
+
 ## Notes
 
 <!-- TODO:notes -->

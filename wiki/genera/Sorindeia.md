@@ -41,6 +41,25 @@ B: Bourobou-Bourobou & Breteler (1997, 1999), Breteler (2003), Fernandes & Ferna
 
 - Fertile branches with leaves all 1-foliolate ............................................. S. gabonensis
 
+## Key to the species
+
+1. - Leaflet with midvein prominent or plane adaxially; calyx ± shortly lobed (lobes ≤ ⅓ of total calyx length) or sometimes more deeply lobed, not ciliate (Plate 11A-E) ............................................................................................................. 2
+- Leaflet with midvein impressed adaxially; calyx ± deeply lobed (lobes ± half of total calyx length), ciliate (Plate 11F) ............................................ S. winkleri
+2. - Fertile branches generally with pinnate leaves, sometimes 3-foliolate or, rarely, 1-foliolate, but in this case mixed with pinnate or 3-foliolate leaves ............ 3
+Fertile branches with all leaves 1-foliolate ............................................. S. gabonensis
+3. - Petals valvate in bud (Plate 11A) .................................................................... 4
+- Petals imbricate in bud, at least on the apical part (Fig. 11C3); species to be sought in Gabon ......................................................................... S. grandifolia Engl.
+4. - Upper part of pedicel and calyx glabrous (Plate 11D, E), or rarely with a few hairs in S. juglandifolia and S. oxyandra ....................................................... 5
+- Upper part of pedicel and calyx hairy, also in fruit (Plate 11A) . S. africana
+5. - Ovary and fruit glabrous ..................................................................................................... 6
+- Ovary and fruit hairy (Plate 12B) .......................................................... S. batekeensis
+6. - Calyx lobes shorter than the tube; petals (2–)3–3.5 mm long; fertile anthers (1–)1.2–1.5 mm long .............................................................................. 7
+- Calyx lobes as long as or longer than the tube; petals 4–5 mm long; fertile anthers 2–2.5 mm long (Plate 10) ................................... S. oxyandra
+7. - Shrub to small tree up to 3.5 m tall; leaflets (1–)3 to 5; male flower with 6 to 10(–13) stamens; infructescence pendulous, with fruits erect, orange-red at maturity
+..................................................................................................................... S. gabonensis
+- Medium tree up to 23 m tall and trunk up to 40 cm in diameter, or sometimes shrub or liane; leaflets (1–)5 to 11(–15); male flower with (10–)13 to 15 stamens; infructescence pendulous or not, if pendulous the fruits not erect, yellow at maturity
+.................................................................................................................. S. juglandifolia
+
 ## Species in region
 
 | Species | Vol | Pages |

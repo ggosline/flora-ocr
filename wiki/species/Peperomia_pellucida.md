@@ -42,6 +42,12 @@ cresson, herbe à couleuvre, herbe à couresse, pépéromia, salade soda, salade
 
 When crushed, the spike releases a slight aromatic odor. B: Baker & Wright (1909), Balle (1948), Diniz (1997), Düll (1973), Keay (1954), Mosango Bibliography (2008), Raponda-Walker & Sillans (1961), Verdcourt (1996)
 
+## Figures
+
+![Peperomia pellucida](../sources/Piperaceae_vol50_liteparse/figures/fig_038_p0072.png)
+
+*Plate 26 . Peperomia pellucida : 1. Habit. – Peperomia thomeana : 2. Habit. – Peperomia bangroana : 3. Habit. – Peperomia tetraphylla : 4. Habit. (1 : J.J.F.E. de Wilde et al. 10408 ; 2 : Ogonovszky 326 ; 3 :*
+
 ## Notes
 
 <!-- TODO:notes -->

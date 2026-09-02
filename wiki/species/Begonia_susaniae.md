@@ -39,6 +39,12 @@ locally common, on soil or on mossy rocks, preferring slopes or embankments, in 
 
 The characters of the leaves are very variable: the shape, width, colors and number of protuberances can vary greatly. On one hand, there are plants with nearly circular leaves, uniformly colored, furnished with small protuberances. On the other hand, one finds plants with elliptic-ovate leaves, purplish-brown along the margin and at the center, furnished with large protuberances. However, all intermediates can be found. B: Sosef (1992a), Sosef (1994). IBLIOGRAPHY
 
+## Figures
+
+![Begonia susaniae](../sources/Begoniaceae_vol39_liteparse/figures/fig_045_p0065.png)
+
+*Plate 30. Begonia susaniae : 1. Flowering plant (× ⅔). – 2. Leaf blade, upper surface (× ⅔). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

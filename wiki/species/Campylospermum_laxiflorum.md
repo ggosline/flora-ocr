@@ -31,6 +31,12 @@ from Senegal to Ghana and from southern Nigeria to the Democratic Republic of th
 
 primary and secondary forest, on slopes, in swampy or inundated forest, riparian forest, on sandy soil; in Gabon, up to 1000 m altitude, elsewhere up to 1500 m. Taxonomic note: This species shares certain characteristics with C. reticulatum, notably the tertiary venation forming a dense network. But C. laxiflorum possesses minute tubercles on the blade often slightly bullate and persistent stipules (see also the note under C. reticulatum). Bibliography: Bamps & Farron (1967), Bissiengou (2014), Farron (1963, 1968, 1985), Hutchinson, Dalziel & Keay (1954)
 
+## Figures
+
+![Campylospermum laxiflorum](../sources/Ochnaceae_vol48_liteparse/figures/fig_028_p0060.png)
+
+*Plate 16. Campylospermum laxiflorum : Flowering branch. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

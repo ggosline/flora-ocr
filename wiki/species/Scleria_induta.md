@@ -33,6 +33,10 @@ known only from Zambia, Democratic Republic of the Congo, and Angola; the presen
 
 wooded areas; in Africa, up to 1350 m altitude. b: Haines & Lye (1983), Piérart (1953), Robinson (1966). ibliography
 
+## Figures
+
+![Scleria induta](../sources/Cyperaceae_vol44_liteparse/figures/fig_188_p0213.png)
+
 ## Notes
 
 <!-- TODO:notes -->

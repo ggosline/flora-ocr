@@ -24,6 +24,16 @@ Tree up to 25 m high, up to 1 m in diameter, with fluted base or steep buttresse
 
 émien (nom pilote). B et al. (2015), Omino (2002), Sidiyasa (1998). IBLIOGRAPHIE
 
+## Figures
+
+![Alstonia boonei](../sources/Apocynaceae_vol59_liteparse/figures/fig_011_p0018.jpeg)
+
+*Figure 1 . Acanthaceae III : A. Flowers. – Allamanda cathartica : B. Flowers ; C. Fruit. – Alstonia boonei : D. Trunk ; E. Leaves ; F. Inflorescence and gynoecium ; G. Flowers. Photos by Bart Würsten ; A. Lomami Rep. Dem. Congo ; Diego Monsores, B.P.10M.G, Rio de Janeiro, Brazil ; Gordon McPherson, C. Rio Caimito, Panama ; Carel Jongkind ; D. Mts Nimba, Guinea and David Harris ; F. Sangha Rep.*
+
+![Alstonia boonei](../sources/Apocynaceae_vol59_liteparse/figures/fig_025_p0032.jpeg)
+
+*Planche 9 . Alstonia boonei 9HUWLFLOOHIROLDLUHîҀ±6RPPHWG¶XQHIHXLOOHîҀ±,QÀRUHV -*
+
 ## Notes
 
 <!-- TODO:notes -->

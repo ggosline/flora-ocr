@@ -49,7 +49,7 @@ Gurib-Fakim (2006b), Hilger & Diane (2003), Simons & Wieringa (2019), Taton (197
 
 ![Euploca ovalifolia](../sources/Boraginaceae_vol57_paddle/figures/fig_016_p0023.png)
 
-*Planche 5. Euploca ovalifolia: 1. Port. – 2. Fleur. – 3. Fruit. – 4. Akènes. Dessin par Iskak Syamsudin, PROTA Foundation (©), reproduit avec permission à partir de Gurrib-Fakim (2006b).*
+*Plate 5. Euploca ovalifolia: 1. Habit. – 2. Flower. – 3. Fruit. – 4. Achenes. Drawing by Iskak Syamsudin, PROTA Foundation (©), reproduced with permission from Gurrib-Fakim (2006b).*
 
 ## Notes
 

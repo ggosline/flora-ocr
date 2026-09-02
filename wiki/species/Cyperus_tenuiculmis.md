@@ -33,6 +33,16 @@ widely distributed in the tropical regions of Africa and Asia; common in Gabon, 
 
 in seasonally humid herbaceous grasslands, usually on sandy soil; in Gabon, at 0–700 m altitude, up to 1800 m in East Africa. Taxonomic note: recognized by its thick creeping rhizome and inflorescence with linear–lanceolate spikelets, often golden. Three varieties are often recognized, but they differ only in minor characters. C. tenuiculmis var. schweinfurthianus (Boeckeler) Hooper differs in its robust scabrous stems and broader leaves. It has been found in Nyanga. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Cyperus tenuiculmis](../sources/Cyperaceae_vol44_liteparse/figures/fig_059_p0077.png)
+
+*Plate 47. Cyperus tenax. A. Plant. – B. Transverse section of the blade. – C. Fascicle of digitate spikelets. – D. Spikelet. – E. Part of a spikelet showing two flowers. – F. Glume. – G. Flower. – H. Fruit with style and three bristles. Original drawing by Richard W. Haines ©. Plate 48. Cyperus tenuiculmis. A. Plant. – B. Basal part of the inflorescence. – C. Spikelet. – D. Glume. – E. Fruit with style and three bristles.*
+
+![Cyperus tenuiculmis](../sources/Cyperaceae_vol44_liteparse/figures/fig_061_p0079.jpeg)
+
+*Figure 4. Achenes of a) Cyperus tenuiculmis (Sosef 1657, Ogooué-Maritime, Gabon) and b) Cyperus tenuis (Thery 128, Ogooué-Maritime, Gabon). angular or compressed rays, glabrous, up to 45 mm in length, but generally shorter; involucral bracts 5‒12, foliaceous, erect or spreading, of very unequal length, the largest 10‒25 cm × 2‒3.5 mm; spikes 8‒30 × 6‒20 mm, cylindrical with 20‒30 spaced greenish spikelets. Spikelet linear, 4‒13 × 0.6‒1.5 mm, green to brownish, with 4‒10 flowers, with almost filiform basal bract 3‒5 mm long, falling as a unit at maturity, but filiform bract persisting on the rachis with the cylindrical base of the spikelet; prophyll at the base of the spikelet, 1‒1.2 mm long, light brown; glumes oval-lanceolate, 2‒3 mm long, light reddish-brown to golden with a wide rounded green midvein, ending below the acute or obtuse apex. Flower with 2‒3 stamens; style with 3 branches. Achene narrowly elliptic to cylindric, 1.3‒1.9 × 0.3‒0.5 mm, reddish-brown, smooth to finely papillose.*
+
 ## Notes
 
 <!-- TODO:notes -->

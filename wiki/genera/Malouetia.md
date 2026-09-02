@@ -39,6 +39,11 @@ BIBLIOGRAPHY
 
 - Corolla with tube 12–18.5 mm long, with lobes 8–17 × 5–10 mm; stamens exserted; domatia with glabrous margin; follicles 16–47 cm long ....... M. bequaertiana
 
+## Key to the species
+
+1. - Corolla with tube 4.5–5.5 mm long, lobes 4.5–6.5 × 0.9–1.5 mm; stamens included; domatia with ciliate margin; follicles 8–11 cm long .......... M. mildbraedii
+- Corolla with tube 12–18.5 mm long, lobes 8–17 × 5–10 mm; stamens exserted; domatia with glabrous margin; follicles 16–47 cm long ....... M. bequaertiana
+
 ## Species in region
 
 | Species | Vol | Pages |

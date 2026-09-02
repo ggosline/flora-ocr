@@ -36,6 +36,18 @@ wet or flooded places in forests or on their margins, also on the margins of man
 
 Base of blade and opening of leaf sheath showing A. Plant. – B. Leaf sheath showing the saw-tooth edge. – C. Part of the inflorescence. – the stem in section. – D. Spikelet. – E. Glume. – F. Fruit with trilobed hypogynium. Group of a male spikelet and a female spikelet. – Original drawing by Jana Taborska ©. E. Fruit with cup-shaped hypogynium. – F. Apex of fruit with base of style detached. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Scleria naumanniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_199_p0221.jpeg)
+
+*Figure 28. Akènes de a) Scleria melanotricha ( Ngok Banak 1956 , Ogooué-Ivindo, Gabon) et b) Scleria naumanniana ( Thery 44 , Ogooué-Maritime, Gabon).*
+
+![Scleria naumanniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_201_p0223.png)
+
+*Planche 139 . Scleria naumanniana. A. Plante. – B. Planche 140 . Scleria racemosa subsp. racemosa.*
+
+![Scleria naumanniana](../sources/Cyperaceae_vol44_liteparse/figures/fig_202_p0223.png)
+
 ## Notes
 
 <!-- TODO:notes -->

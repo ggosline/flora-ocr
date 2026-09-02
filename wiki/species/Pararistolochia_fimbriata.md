@@ -34,6 +34,12 @@ endemic to Gabon, rare in the coastal region north of the Ogooué
 
 coastal forest, at 0–200 m altitude. Taxonomic note: P. fimbriata is distinguished from all other species of Pararistolochia by the dark red lobes covered with a fimbriate indument. 1 NHN – Wageningen
 
+## Figures
+
+![Pararistolochia fimbriata](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_010_p0016.png)
+
+*Plate 3. Pararistolochia fimbriata. 1. Flower. – Pararistolochia incisiloba . 2. Flower, frontal view. – 3. Flower, lateral view. Drawings by Miguel Leal (1) and Carel Jongkind (2, 3), NCB Naturalis, section*
+
 ## Notes
 
 <!-- TODO:notes -->

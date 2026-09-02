@@ -37,6 +37,12 @@ savannas, forest margins, ruderal and cultivated stations, savannas burned in Ma
 
 The var. angustifolium Mackinder has narrower leaflets (more than 6 times longer than wide) and is known only from Zambia. b: Mackinder (1999), Mackinder et al. (2001), Walters et al. (2011), Wilczek (1954). ibliography
 
+## Figures
+
+![Dolichos subcapitatus](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_068_p0184.png)
+
+*Plate 60 : Dolichos subcapitatus var. subcapitatus : 1. Habit (× ½). – 2. Open flower, with bracteole (× 3). – 3. Calyx spread out, inner face (× 3). – 4. Standard, inner face (× 3). – 5. Wing, outer face (× 3). – 6. Keel seen from the side (× 3). – 7. Androecium (× 3). – 8. Gynoecium, longitudinal section (× 3). (1–8: Verheyen in G. de Witte 3116 ). Drawing by M. Boutique, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,18 @@ mangroves; prefers brackish waters, of the three species, growing furthest from 
 
 mangrove rouge (fr.) ; red mangrove (angl.) ; atenda (nkomi), di randa (ngowé, balumbu), ditanda (éshira, bavarama, bavungu, bapunu), étanda (mitsogo, apindji, ivéa, bavové, simba), itanda (bakota, mpongwè, nkomi, galoa, orungu), létanda (banzabi), litanda (bavili, baduma), motsami (mindumu), mwèma (loango), ntana (fang), ntandè, ntandji (bakèlè), tandó (béséki), utanda (benga). b : Breteler (1969, 2006), Keay (1953, 1954), Liben (1987), Raponda-Wal ibliographie ker & Sillans (1961)
 
+## Figures
+
+![Rhizophora racemosa](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_057_p0116.png)
+
+*Plate 39. Rhizophora racemosa : 1. Flowering branch (× ½) : a. Stipule, b. leaf, upper surface, c. leaf, lower surface. – 2. Flower, without stamens (× 3). – 3. Flower, longitudinal section (× 3). – 4. Petal, internal face (× 6). – 5. Stamen (× 6). – 6. Detail of stamen, ventral face, showing the detail of the pollen sacs (× 12½). – 7. Fruit with the plantule attached (× ½). – 8. Fruit with the cotyledonary cylinder, after the detachment of the plantule (× ½). (1 : Breyne 4351 ; 2-6 : Wagemans 588 : 7 : Pauwels 5226 ; 8 : Compère 1835 ). Drawing by M. Allard, reproduced from Liben (1987), Meise Botanic Garden ©.*
+
+![Rhizophora racemosa](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_058_p0124.jpeg)
+
+![Rhizophora racemosa](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_059_p0124.png)
+
+![Rhizophora racemosa](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_060_p0124.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -28,6 +28,12 @@ Leeuwenberg (1985)
 
 J. Louis 3488; 2–6: Bamps 610; 7: Évrard 2278; 8, 9: J. Louis 4314). Drawing by Juliet Williamson, Naturalis Biodiversity Center (©), reproduced from Leeuwenberg (1985).
 
+## Figures
+
+![Voacanga chalotiana](../sources/Apocynaceae_vol59_liteparse/figures/fig_242_p0266.jpeg)
+
+*Plate 122 : Voacanga chalotiana : 1. Flowering branch (× ⅔). – 2. Floral bud (× 2). – 3. Calyx open, with colleters (× 2). – 4. Corolla, longitudinal section, with stamens (× 4). – 5. Stamen, view*
+
 ## Notes
 
 <!-- TODO:notes -->

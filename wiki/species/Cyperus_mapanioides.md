@@ -33,6 +33,12 @@ widely distributed in the forest regions of tropical Africa; scattered in Gabon,
 
 in forest, often along paths, trails and at forest edge, also in degraded forest, always in well-drained habitat; in Gabon, at 100–600 m altitude, up to 1800 m in East Africa. Taxonomic note: easily identified by its forest habitat and compact whitish inflorescence subtended by numerous large foliaceous bracts. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus mapanioides](../sources/Cyperaceae_vol44_liteparse/figures/fig_087_p0109.png)
+
+*Planche 67 . Cyperus laxus subsp. buchholzii . A. Planche 68 . Cyperus mapanioides . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

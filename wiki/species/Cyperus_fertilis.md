@@ -35,6 +35,14 @@ in swampy forests, along forest trails and watercourses; in Gabon, at 0–900 m 
 
 Inflorescence. – E. Spikelet with viviporous proliferation. Section of the stem. – F. Part of the inflorescence. – G. Original drawing by Richard W. Haines ©. Spikelets. – H. Glume. – I. Flower. – J. Fruit. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus fertilis](../sources/Cyperaceae_vol44_liteparse/figures/fig_085_p0107.png)
+
+*Plate 65. Cyperus fertilis. A, B. Plant and Plate 66. Cyperus haspan. A, B. Plant. – C. part of the plant. – C. Apex of the blade. – D. Base of the plant. – D. Section of the blade. – E.*
+
+![Cyperus fertilis](../sources/Cyperaceae_vol44_liteparse/figures/fig_086_p0107.png)
+
 ## Notes
 
 <!-- TODO:notes -->

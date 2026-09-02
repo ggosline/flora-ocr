@@ -42,6 +42,12 @@ piment, piment de Cayenne, piment enragé, piment oiseau, poivre de Cayenne (fr.
 
 C. frutescens is the most commonly harvested Capsicum species in Africa. It has been suggested that this species was first domesticated in the Panama region before being introduced to Central and South America and more recently to the rest of the world (De Witt & Bosland 1996). Differentiating sweet pepper (C. annuum L.) and C. frutescens from herbarium specimens is particularly difficult and the delimitation of these two species is subject to controversy. Nevertheless, it is possible to differentiate two distinct taxonomic entities at the level of inflorescence, flowers and fruits. Flowers are generally solitary in C. annuum whereas they are most often in 2 to 4 in C. frutescens. Fruits are always solitary, often pendant and of relatively large size (2.5–5 × 1.5–2 cm) in C. annuum; they are generally in pairs, erect and of smaller size (0.8–2 × 0.3–1 cm) in C. frutescens. After a thorough re-examination of the Capsicum collections available for Gabon, it appears that only C. frutescens is actually present in the collection; C. annuum, the most widespread and cultivated species of the genus in the world, is comparatively poorly represented in the herbarium material from Africa (Edmonds 2012). B: Bikandu et al. (2020), Edmonds (2012), Heine (1963), Raponda-Walker & Sillans (1961), Bibliography Sosef et al. (2006)
 
+## Figures
+
+![Capsicum frutescens](../sources/Solanaceae_vol55_liteparse/figures/fig_051_p0102.png)
+
+*Plate 30 . Capsicum frutescens : 1. Fertile stem. – 2. Flower. – 3. Dissected flower, interior of corolla. – 4. Gynoecium. – 5. Fruit. – 6. Seed. (1, 6 : Chancellor 279 ; 2-4 : Kassner 332 ; 5 : Borhidi 86457 ). Drawing by M. Tebbs (©), Royal Botanic Gardens, Kew, reproduced with permission from Edmonds (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

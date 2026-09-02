@@ -24,6 +24,12 @@ Leaf hairs (× 25). – 6. Flower (× 4). – 7. Idem, with corolla tube in long
 
 Uses In Cameroon and equatorial Guinea, the latex of the bark is sprayed on lesions caused by yaws. The plant has particular ornamental interest. In Nigeria, the stems are used to make bowstrings. B: Boone (2008b), de Kruif (1985), Omino (2002). BIBLIOGRAPHY
 
+## Figures
+
+![Oncinotis glabrata](../sources/Apocynaceae_vol59_liteparse/figures/fig_148_p0173.jpeg)
+
+*Plate 80 . Oncinotis glabrata : 1. Flowering branch (× ⅔). – 2. Detail of a branch (× ⅔). – 3. Domatium (× 4). – 4. Base of leaf blade, upper surface (× 4). – 5. Flower (× 6). – 6. Corolla tube, section*
+
 ## Notes
 
 <!-- TODO:notes -->

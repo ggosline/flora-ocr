@@ -35,6 +35,14 @@ This represents the first record of this species for the flora of Gabon. The inf
 
 As the types of V. zenkeri were much more widely distributed, it is preferable to retain this name (Meerts 2020a). B: Huber et al. (1963), Meerts (2020a). Bibliography. Insufficiently known taxa and doubtless new species. The material collected in Gabon includes specimens that cannot be assigned with certainty to any of the species treated above. These are probably new species, which will remain to be described when sufficient material becomes available. One of the most remarkable is the following. Vitex sp. 1 Canopy tree of dense forests, reaching 30 m in height. Leaf: petiole 12–16 cm; leaflets 5, with petiolules 5–15 mm, with blade very broadly elliptic, 10–16 × 5–9 cm, acute to rounded-cuspidate at the apex, glabrous to somewhat strigose on the upper surface, lower surface discolorous, with reticulum prominent, entirely covered with short velvety pilosité yellowish-green (hyaline hairs 0.2–0.5 mm). Fruit ± 11 × 10 mm, shortly hairy at the apex. Specimens observed: van Valkenburg, Degreef, Issembé & Boussiengui 2969 (BRLU, K, WAG); Dauby et al. 2855 (BRLU). A B Gabon, Ndendé towards Congo, Mont Fouari) and Anne-Hélène Paradis (B: Gabon, Forêt des Abeilles).
 
+## Figures
+
+![Vitex zenkeri](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_092_p0115.jpeg)
+
+*Figure 7. Vitex zenkeri : A. Fruiting stem ; B. Part of the inflorescence. Photos by Ehoarn Bidault (A :*
+
+![Vitex zenkeri](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_093_p0115.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

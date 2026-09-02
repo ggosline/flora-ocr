@@ -37,6 +37,24 @@ Fernandes (1998) recognized numerous infraspecific taxa within C. silvanum, in p
 
 A B C D E F G Nyaki Forest Reserve), Warren Mcleland (C, D: Zambia, Lumangwe Falls), Ehoarn Bidault (E: Gabon, Ivindo); F: Gabon, N. of Lake Alombié) and Rainer Wendt (G: Guinea).
 
+## Figures
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_041_p0042.jpeg)
+
+*Figure 3. Clerodendrum schweinfurthii: A. Inflorescence; B. Flowers. – Clerodendrum silvanum: C. Inflorescence; D. Flowers. – Clerodendrum splendens: E. Flowers; F. Fruits on pink calyces. – Clerodendrum umbellatum: G. Inflorescence. Photos by Matthew Walters (A, B: Nigeria, Mambilla Plateau, Ngel*
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_042_p0042.jpeg)
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_043_p0042.jpeg)
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_044_p0042.jpeg)
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_045_p0042.jpeg)
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_046_p0042.jpeg)
+
+![Clerodendrum silvanum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_047_p0042.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

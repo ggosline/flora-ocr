@@ -42,6 +42,12 @@ vegetable tallow tree (angl.) ; nsangoma, sangoma (nom pilot) ; asangom (fang), 
 
 The wood is used in cabinetmaking and for turning. The seeds yield an edible fatty matter that can replace tallow. A decoction of the bark is used against dysentery or as a gargle for toothache. Taxonomic note: The species has been mentioned for West Africa (Sierra Leone to Ghana), but this information is based on specimens now identified as A. parviflora A.Chev. Bibliography: B Bamps (1969, 1970a), Hutchinson et al. (1954), Orwa & Munjuga (2007), Pellegrin (1959), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Allanblackia floribunda](../sources/Clusiaceae_vol45_liteparse/figures/fig_010_p0012.png)
+
+*Plate 1. Allanblackia floribunda : 1 : Flowering branch (× ¾). – 2. Female flower in longitudinal section (one petal removed) (× 2). – 3. Male flower in longitudinal section (× 1.5). –4. Fruit in transverse section (× ½). – 5. Discal glands of the male flower (× 2). – Allanblackia staneriana : 6. Discal glands of the male flower (× 2). – 7. Staminodial phalanx, internal and external face (× 2). (5 : Louis 8531 ; 6, 7 : Gossweiler 6969 ). Drawing by J. Fleischmann (1–4) and D. Leyniers (5–7), reproduced respectively from Thonner (1908) and with permission from the National Botanic Garden of Belgium (©) from Bamps (1970a).*
+
 ## Notes
 
 <!-- TODO:notes -->

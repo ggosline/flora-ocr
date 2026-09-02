@@ -33,6 +33,12 @@ Democratic Republic of the Congo and Gabon, where it is known from a single loca
 
 dense humid forest; in Gabon at 300–360 m altitude, elsewhere at 200–300 m. B: Breteler (1992), Lejoly & Lisowski (1993). Bibliography
 
+## Figures
+
+![Bonamia nzabii](../sources/Convolvulaceae_vol46_liteparse/figures/fig_014_p0016.png)
+
+*Plate 4. Bonamia nzabii : 1. Flowering branch (× ⅔). – 2. Flower (× 3). – 3. Corolla opened with stamens (× 3). – 4. Detail showing the fusion between stamen and corolla, side view (× 3). – 5. Gynoecium (× 3). – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ Open forests, forest margins, shrubby savanna; in Gabon at low altitude, elsewhe
 
 mukulu (eshira, bapunu). B : Burkill (1995), De la Estrella et al. (2010), Moteetee et al. (2012), Verdcourt (1971c). i B liographie
 
+## Figures
+
+![Rhynchosia hirta](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_120_p0338.png)
+
+*Plate 112: Rhynchosia hirta: 1. Flowering stem. – 2. Calyx, open. – 3. Standard. – 4. Wing. – 5. Keel. – 6. Androecium and gynoecium. – 7. Gynoecium. – 8. Pod. (1: G.B. Deall 42 ; 2–8: A.T. Renny s.n. PRE 5613 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

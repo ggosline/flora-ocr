@@ -38,6 +38,12 @@ abundant in coastal thickets on sandy soils, savannas, raised parts of mangroves
 
 dinkandou (bapouno). b : Breteler (2006, 2008), Keay (1954), Liben (1987). ibliographie
 
+## Figures
+
+![Cassipourea barteri](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_047_p0094.png)
+
+*Plate 29. Cassipourea : Fruits (× 3). 1. C. barteri . – 2. C. congoensis . – 3. C. gummiflua . – 4. C. ruwen - sorensis . (1 : Wagemans 614 ; 2 : J. Léonard 611 ; 3 : Pierlot 3095 ; 4 : A. Léonard 3221 ). Drawing by R.*
+
 ## Notes
 
 <!-- TODO:notes -->

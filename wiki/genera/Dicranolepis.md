@@ -23,6 +23,51 @@ Leaves alternate, often arranged in a horizontal plane in vivo, simple and very 
 
 Inflorescences axillary, arising at the base of leaves on horizontal branches. Flowers solitary, grouped in pairs or united in glomerules of 3-12 flowers. Flowers generally erect perpendicular to the plane of the leaves, more rarely oblique or pendulous, shorter than the leaves or sometimes equalling them. Perianth highly variable in dimensions, 10 to 50 mm, the divisions (sepals and petals) generally being shorter than the tube. Tube and sepals almost always very greyish pubescent externally, simply setose or glabrous internally, white or straw-coloured. Sepals 5 in number. Petals 5, inserted at the base of the perianth divisions, almost always deeply bifid, each of the 10 lobes able to be cordate, laciniate or entire, pearly white or cream. 10 stamens inserted in two rows near the throat of the tube, with very slender filaments, sometimes thickened at the level of the connective which is fairly broad. Anthers exserted or included. Ovary shortly pedicellate, glabrous, pubescent or glandular, with a single uni-ovulate locule; style slender; stigma often very exserted, claviform, discoid or globose, sometimes variable. Ovary provided at its base with glandular or discoid outgrowths fairly well individualized.
 
+## Key to the species
+
+1. Perianth tube furnished with stipitate glands persisting on the fruit..... I. D. glandulosa.
+
+1'. Perianth tube not glandular.
+
+2. Perianth tube densely velvety-silky.
+
+3. Flowers large, often exceeding 35 mm in length, with petals longer than the sepals or equalling them, with perianth tube narrow.
+
+4. Petal lobes distinctly lacerate-fimbriate.. 2. D. pulcherrima
+
+4'. Petal lobes entire or somewhat dentate, with distal part enlarged into a spatule, far exceeding the sepals, the latter rounded at the apex..... D. grandiflora Engl.
+
+4'' Petal lobes slightly dentate, acute; sepals lanceolate acute..... 3. D. Baertsiana.
+
+3'. Flowers medium-sized, 25-30 mm in length, with petals most often shorter than the sepals, with perianth tube thick, widened at the base..... D. vestita Engl.
+
+3''. Flowers less than 25 mm, with tube very narrow..... 4. D. Soyauxii.
+
+2'. Perianth tube pubescent-greyish, with rather short and stiff hairs, not velvety-silky (see also 2'').
+
+5. Flowers more than 25 mm, with petals equalling or exceeding the sepals in general.
+
+6. Flowers shorter than the leaves, the latter very ovate, slightly oblique..... 3. D. Baertsiana.
+
+6'. Flowers almost as long as or longer than the leaves,
+
+<<<---SECTION-BREAK--->>>
+
+the latter very asymmetric-oblique .....
+..... D. polygaloides Gilg ex Pears (PL. IX).
+
+5'. Flowers less than 25 mm, with petals almost always shorter than the sepals, with tube very narrow; leaves densely velvety-hirsute on lower face, with stiff and long hairs.... 4. D. Soyauxii.
+
+2''. Perianth tube furnished with scattered appressed hairs, or completely glabrous.
+
+7. Flowers more than 20 mm, often reaching one-third or one-half the length of the leaves, with petal lobes equalling the sepals ..... 5. D. disticha.
+
+7'. Flowers less than 15 mm.
+
+8. Flowers reaching 1/4 or 1/3 the length of the leaves, with petal lobes smaller than the sepals... 6. D. Buchholzii.
+
+8'. Flowers exceeding one-half the length of the leaves, with petal lobes almost equalling the sepals; leaves very small, without individualized acumen..... 7. D. pusilla.
+
 ## Species in region
 
 | Species | Vol | Pages |

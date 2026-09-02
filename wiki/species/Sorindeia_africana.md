@@ -33,6 +33,12 @@ Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo, Democ
 
 Primary and secondarized forest; in Gabon at 100–800 m in altitude, elsewhere up to 1500 m. B: Breteler (2003), Keay (1958), Van der Veken (1960a). Bibliography
 
+## Figures
+
+![Sorindeia africana](../sources/Anacardiaceae_vol50_liteparse/figures/fig_017_p0026.png)
+
+*Plate 7. Sorindeia africana: 1. Flowering female branch (× ½). – 2. Floral bud (× 5). – 3. Flower male open, 2 petals removed (× 12). – 4. Flower female open, longitudinal section (× 12). – 5.*
+
 ## Notes
 
 <!-- TODO:notes -->

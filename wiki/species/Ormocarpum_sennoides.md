@@ -37,6 +37,12 @@ Undergrowth of dry and secondary forests, forest galleries, edge of running wate
 
 The subsp. zanzibaricum Brenan & Gillett is found in East Africa and the subsp. sennoides is found in India. B: Burkill (1995), Gillett (1966), Léonard (1954a, 1954b), Pellegrin (1949), Verdcourt (2000)
 
+## Figures
+
+![Ormocarpum sennoides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_109_p0314.png)
+
+*Plate 101: Ormocarpum sennoides: 1. Habit. – 2. Flower, corolla and androecium removed. – 3. Androecium.*
+
 ## Notes
 
 <!-- TODO:notes -->

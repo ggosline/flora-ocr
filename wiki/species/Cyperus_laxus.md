@@ -37,6 +37,14 @@ Plant. – B. Base of blade and sheath. – C. Section B. Section of stem. – C
 
 smaller than the glumes gives it a particular aspect at maturity, with the glumes spreading and the achenes exposed. The subspecies laxus grows in India and East Asia. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Cyperus laxus](../sources/Cyperaceae_vol44_liteparse/figures/fig_087_p0109.png)
+
+*Planche 67 . Cyperus laxus subsp. buchholzii . A. Planche 68 . Cyperus mapanioides . A. Plante. –*
+
+![Cyperus laxus](../sources/Cyperaceae_vol44_liteparse/figures/fig_088_p0109.png)
+
 ## Notes
 
 <!-- TODO:notes -->

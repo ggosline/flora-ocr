@@ -34,6 +34,12 @@ understory, forest edge or logging areas, but also along roadsides, along rivers
 
 croc de chien, esquine, salsepareille (Fr), West African sarsaparilla, Mauritius sarsaparilla, greenbrier (Ang), Zarzaparilla (Esp). Yomboda, yombila (Bakèlè), mukulu-ngwèndji (Bapunu), okóme (Fang), mokwèè-ngèndjé (Mitsogo), Owono-w’akowa (Mpongwe). B : Burkill (2000), Conran (1998), Cowley (1989), Marais & Coode (1978), IBLIOGRAPHIE Raponda Walker & Sillans (1961)
 
+## Figures
+
+![Smilax anceps](../sources/Smilacaceae_vol38_liteparse/figures/fig_028_p0053.png)
+
+*Plate 11. Smilax anceps: 1. Flowering branch (×1). – 2. Fruiting branch (×1). – 3. Female flower (×10). – 4. Male flower (×10). (1, 4: Richard 460 ; 2: Bosser 9416 ; 3: Frappier 343 ) . Reproduced with permission from the Board of Trustees of the Royal Botanic Gardens, Kew (©), from Marais & Coode (1978) l.c.*
+
 ## Notes
 
 <!-- TODO:notes -->

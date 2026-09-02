@@ -34,6 +34,18 @@ widely distributed in tropical Africa and Madagascar, also in tropical America; 
 
 humid zones of grasslands, marshes and along the margins of lakes and watercourses; in Gabon, at 0–600 m altitude, up to 2100 m in East Africa. Taxonomic note: sometimes confused with a single-headed form of C. flavescens, but the head is usually larger, the spikelet wider and the achenes do not have transverse ridges. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Cyperus lanceolatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_095_p0117.png)
+
+*Planche 73 . Cyperus fluminalis . A. Plante. – B. Planche 74 . Cyperus lanceolatus . A. Plante. – B.*
+
+![Cyperus lanceolatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_099_p0119.jpeg)
+
+*Figure 9. Akènes de a) Cyperus lanceolatus ( Ngok Banak 1969 , Ogooué-Ivindo, Gabon) et b) Cyperus subtrigonus ( Tisserant 3494 , République du Congo).*
+
+![Cyperus lanceolatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_100_p0119.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

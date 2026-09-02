@@ -21,6 +21,12 @@ Vine reaching 40 m in height; young branches with rusty pubescence, glabrescent.
 
 and dorsal; ±cm Calyx with two lobes raised, showing the style and pistil; ±cm Fruit; ± cm Zenker 279; 2: Zenker 2063; 3-7, 11: Breteler & de Wilde 472; 8: J. Louis 14322; 9-10: Tisserant 1127). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from van der Ploeg (1983).
 
+## Figures
+
+![Pycnobotrya nitida](../sources/Apocynaceae_vol59_liteparse/figures/fig_174_p0206.jpeg)
+
+*Plate 96 . Pycnobotrya nitida 5DPHDXÀRULIqUHîҀ±'HWDLORIWKH°XGRIDEUDQFKZLWKternate leaves (× 2). – 3. Flower (× 6). – 4. Corolla open, with stamens (× 6). – 5, 6. Stamen, ventral views*
+
 ## Notes
 
 <!-- TODO:notes -->

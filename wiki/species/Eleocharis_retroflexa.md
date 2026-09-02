@@ -34,6 +34,12 @@ widely distributed in tropical regions of Africa, America and Asia; very rare in
 
 in marshes and pools of fresh water or inundated savanna areas; in Gabon, at approximately 400–700 m elevation, up to 1500 m in East Africa. Taxonomic note: In Gabon, this species is recognized by its annual habit and blackish achenes with prominent superficial cells. It differs from E. atropurpurea by the 3-branched style and achene with triangular appendage with distinct superficial cells. B: Hoenselaar et al. (2010), Haines & Lye (1983). Bibliography
 
+## Figures
+
+![Eleocharis retroflexa](../sources/Cyperaceae_vol44_liteparse/figures/fig_111_p0135.png)
+
+*Planche 85 . Eleocharis naumanniana . A. Plante. – Planche 86 . Eleocharis retroflexa . A, B. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

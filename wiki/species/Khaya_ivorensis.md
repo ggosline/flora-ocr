@@ -42,6 +42,12 @@ Acajou du Gabon, Acajou d’Afrique, Acajou rouge (fr. ; noms pi lotes) ; red ma
 
 mombèga (Ivéa), mumbèga (Éshira, Bovarama, Bavungu, Bavili, Balumbu, Masangu, Ngowé), mumbègè (Banzabi), ndjambi-wè-ngilo (Béséki), ndjamèngila (Benga, Mpongwè), nzam`ngila (Fang, Bakèlè), ombèga (Galoa, Mpongwè, Nkomi, Orungu, Mitsogo, Apindji, Simba, Ivéa, Bavové), umbèga (Benga, Béséki), zaminguila (Gabonese). Taxonomic notes: It is noteworthy that the original diagnosis of K. anthotheca (Welw.) C.DC. (1878) mentions leaves "5–10-jugate" whereas 3 to 6 pairs of leaflets are described by A. Chevalier (1909) to characterize K. ivorensis. The additional discriminating characters are weak and it is not impossible that the two species in fact represent a single specific entity. A deeper taxonomic study is highly desirable. Bibliography: De Saint Aubin (1963), Lemmens (2008a), Raponda-Walker & Sillans (1961), Styles & White (1991), Wilks & Issembé (2000).
 
+## Figures
+
+![Khaya ivorensis](../sources/Meliaceae_vol47_liteparse/figures/fig_024_p0042.png)
+
+*Plate 10. Khaya anthotheca: A. Flowering branch (× 0.5). – B. Open flower, one petal removed (× 3). – C. Fruit seen from above (× 0.5). – D. Seed (× 0.5). – E. Seedling (× 0.5). – Khaya ivorensis: F. Open fruit, one valve removed (× 0.5). (A–E: Leeuwenberg 3744; F: Leeuwenberg 3955). Drawing by L. van der Riet, Naturalis Biodiversity Center, Leiden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

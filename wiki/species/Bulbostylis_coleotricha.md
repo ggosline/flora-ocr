@@ -35,6 +35,14 @@ Group of leaf sheaths and base of blades. – B. Transverse section of stem. –
 
 in dry grasslands on inselbergs; in Gabon, at 500 m altitude, up to 1200 m in East Africa. Taxonomic note: The pale and ovoid spikelets, each furnished with a fascicle of long awns, are characteristic. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Bulbostylis coleotricha](../sources/Cyperaceae_vol44_liteparse/figures/fig_017_p0023.png)
+
+*Planche 7. Bulbostylis cioniana. A. Plante. – B. Planche 8. Bulbostylis coleotricha. A. Plante.*
+
+![Bulbostylis coleotricha](../sources/Cyperaceae_vol44_liteparse/figures/fig_018_p0023.png)
+
 ## Notes
 
 <!-- TODO:notes -->

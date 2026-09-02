@@ -34,6 +34,12 @@ understory of primary and secondarized forest, forest galleries; in Gabon, at 0�
 
 D. Details of leaf underside showing the domatia. ‒ E. Branchlet with male inflorescences. ‒ F. Part of a male inflorescence axis with sessile flower. ‒ G. Androecium with disk glands. ‒ H. Transverse section of disk and stamen filaments. ‒ I. Part of a female inflorescence with flower. ‒ J. Pistil. ‒ K. Fruiting inflorescence. ‒ L. Fruit. (A, C, D: J.J. de Wilde & van der Maesen 10998; B: Breteler et al. 11382; E ‒ H: Breteler & Jongkind 10794; I, J: Reitsma c.s. 1765; K, L: Bissiengou et al. 492). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Antidesma vogelianum](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_008_p0016.png)
+
+*Plate 2. Antidesma vogelianum: A. Female flowering branch. ‒ B. Narrow leaf. ‒ C. Stipules. ‒*
+
 ## Notes
 
 <!-- TODO:notes -->

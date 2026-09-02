@@ -37,6 +37,12 @@ epiphytic or terrestrial in dense submontane and montane forest; in Gabon at 490
 
 Species with disjunct distribution, apparently very frequent in Cameroon. B : Düll (1973). Bibliography
 
+## Figures
+
+![Peperomia thomeana](../sources/Piperaceae_vol50_liteparse/figures/fig_038_p0072.png)
+
+*Plate 26 . Peperomia pellucida : 1. Habit. – Peperomia thomeana : 2. Habit. – Peperomia bangroana : 3. Habit. – Peperomia tetraphylla : 4. Habit. (1 : J.J.F.E. de Wilde et al. 10408 ; 2 : Ogonovszky 326 ; 3 :*
+
 ## Notes
 
 <!-- TODO:notes -->

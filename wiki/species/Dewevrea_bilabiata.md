@@ -38,6 +38,12 @@ gallery forest, swamp forest and secondary forest; in Gabon, at 385–500 m in a
 
 The plate (from Lewis et al., 2005) presents the standard with apex doubly emarginate, or else furnished with an apicule in the middle of the incision, but our observations show the standard simply emarginate. Pellegrin (1949) described the standard with external pubescence, we have only seen glabrous standards. The second species of this genus, D. gossweileri Baker f., is reported in Angola (Cabinda). The leaves are 5-foliolate and the style is shorter. It can only represent a variety of our species. b: Geesink (1984), Hauman (1954a), Lewis et al. (2005). Bibliography
 
+## Figures
+
+![Dewevrea bilabiata](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_066_p0179.png)
+
+*Plate 58 : Dewevrea bilabiata : 1. Flowering branch. – 2. Detail of the venation of a leaflet. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

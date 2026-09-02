@@ -31,6 +31,20 @@ forest and forest margin; at low altitude
 
 In the revision of Tabernaemontana (Leeuwenberg 1991) T. crispif lora is treated as a synonym of T. eglandulosa. B: Boiteau & Allorge (1981), Stapf (1902). BIBLIOGRAPHY Soyaux 183. Drawing by Jacqueline Saussotte, Guéret, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Boiteau & Allorge (1981).
 
+## Figures
+
+![Tabernaemontana crassa](../sources/Apocynaceae_vol59_liteparse/figures/fig_199_p0232.jpeg)
+
+*Figure 12 . Strophanthus preussii : A, B. Flowers showing color variation. – Strophanthus sarmentosus : C. Flowering stems. – Tabernaemontana brachyantha : D. Inflorescence. – Tabernaemontana brachypoda : E. Inflorescence. – Tabernaemontana crassa : F. Leaf and flowers in bud. G. Flowers. H. Fruit. Photos by Erik Koenen (A, Nzérékoré, Guinea ; Erik Simons ; B, West of P.N. Lopé, Gabon ; Carel Jongkind ; C, Lofa, Liberia ; F, H, Libassa, Liberia ; Xander van der Burgt ; D, P.N. Korup, Came-*
+
+![Tabernaemontana crassa](../sources/Apocynaceae_vol59_liteparse/figures/fig_211_p0242.jpeg)
+
+*Plate 111. Tabernaemontana crassa: 1. Flowering branch (× ½). – 2. Corolla (× ½). – 3. Idem, longitudinal section (× ½). – 4. Calyx lobe, internal face (× 2). – 5. Part of calyx and young pistil (× 1½). – 6.*
+
+![Tabernaemontana crassa](../sources/Apocynaceae_vol59_liteparse/figures/fig_212_p0243.jpeg)
+
+*Plate 112. Tabernaemontana crispiflora: 1. Flowering branch (× ½). – 2. Calyx, longitudinal section (× 2). – 3. Part of corolla, longitudinal section with stamens (× 1½). – 4. Pistil (× 3). – 5. Fruit.*
+
 ## Notes
 
 <!-- TODO:notes -->

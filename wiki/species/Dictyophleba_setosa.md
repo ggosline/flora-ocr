@@ -32,6 +32,32 @@ B A D C E F G Fruiting. G, Inflorescence. Photos by Nicolas Texier. A, B, P10 Mw
 
 <!-- caption: Plate 34. Farquharia elliptica Flowering branch, ± °; Node with refractive sympodial axis of --> 0.7–1.4 mm. Fruit globose to broadly ellipsoid, ± cm in diameter; pericarp of ripe fruit 10–15 mm thick. Seed 8.5–24 × 5–18 × 3–10 mm, smooth or rugose. Distribution Ivory Coast, Nigeria, Cameroon, Gabon and Republic of the Congo; in Gabon, Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem. Ecology Primary and secondary forest; in Gabon up to ± m altitude, elsewhere at ± m. Notes The flowers probably open at night B: de Hoogh (1989). BIBLIOGRAPHY
 
+## Figures
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_058_p0068.jpeg)
+
+*Figure 4. Catharanthus roseus: A. Flowering plant – Clitandra cymulosa: B. Inflorescence, C. Fruits in longitudinal section. – Criocerasdipladeenii: D. Inflorescence, E. Flower viewed from above, F. Fruit – Dictyophleba setosa: G. Fruiting stem. Photos by Lucius Oupa (A: South Africa, Nicolas Texier; B: Mts Birougou, Gabon, Marie Cakupewa; C: Fundiko, Central African Republic; D: department of Congo; and E: Ehoarn Bidault; D, F, P.N. Akanda, Gabon; G: southeast of Lake Ezanga, Gabon.*
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_071_p0082.jpeg)
+
+*Plate 32 . Dictyophleba setosa : 1. Flowering branch (× 1). – 2. Node of a branch with stipules (× 10). – 3. Leaf (× 1). – 4. Flower (× 10). – 5. Open corolla (× 10). – 6. Pistil (× 10). – 7. Stamen, dorsal view (× 20). – 8. Fruit (× 1). – 9, 10. Seed (× 1). (1 : Bos 5390 & Satabié 478 ; 2, 3 : Bos 5390 ; 4-7 : Satabié 478 ; 8-10 : J.J.F.E. de Wilde 7810 ). Drawing by Ben de Hoogh, Naturalis Biodiversity Center (©), reproduced from de Hoogh (1989).*
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_072_p0083.jpeg)
+
+*Plate 33 . Dictyophleba stipulosa : 1. Flowering branch (× 2). – 2. Corolla, longitudinal section (× 4). – 3. Pistil (× 10). (1, 3 : Le Testu 6396 ; 2 : Le Testu 7347bis). Drawing by Guido M. Pichon, Muséum national d'Histoire naturelle, Paris (©), adapted and reproduced with permission from Pichon (1953).*
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_074_p0084.jpeg)
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_075_p0084.jpeg)
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_076_p0084.jpeg)
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_077_p0084.jpeg)
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_078_p0084.jpeg)
+
+![Dictyophleba setosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_079_p0084.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

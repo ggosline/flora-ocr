@@ -32,6 +32,12 @@ widespread in Guinea-Conakry, Ghana, Nigeria, Cameroon, Gabon, Republic of the C
 
 marshes and humid savannas; in Gabon, at 25–130 m altitude, in East Africa, up to 2600 m. B: Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Philcox (1990)
 
+## Figures
+
+![Buchnera capitata](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_046_p0110.png)
+
+*Plate 32 . Buchnera capitata : A. Whole plant. – B, C. Inflorescence. (A–C : Fischer s.n. ). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

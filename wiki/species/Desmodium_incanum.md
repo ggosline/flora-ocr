@@ -39,6 +39,12 @@ dry forest, fallows, grassland, roadside; in Gabon at low altitude, elsewhere up
 
 colle-colle, collant, gros trèfle (fr.) ; creeping beggarweed, Spanish clover, tick trefoil (angl.). b : De la Estrella et al. (2010), Mackinder et al. (2001), Nicolson (1978), Schubert (1954, ibliographie 1971)
 
+## Figures
+
+![Desmodium incanum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_063_p0171.png)
+
+*Plate 55 : Desmodium incanum : 1. Fertile stem. – 2. Stipules. – 3. Flower. – 4. Pod. – Desmodium hirtum : 5. Pod (× 2). – Desmodium setigerum : 6. Pod (× 2). Drawing by Bobbi Angell (1–4, ©), reproduced with permission from Acevedo-Rodrigues (2005) and by G. Esperant (5, 6), Garden*
+
 ## Notes
 
 <!-- TODO:notes -->

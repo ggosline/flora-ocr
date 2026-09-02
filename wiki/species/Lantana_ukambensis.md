@@ -37,6 +37,12 @@ Woodland grasslands, grasslands, former plantations; in Gabon at approximately 5
 
 This species had been incorporated into L. rhodesiensis Moldenke by Huber et al. (1963) and Verdcourt (1992). However, this was questioned by Fernandes (1989) and Fernandes & Diniz (2005), who stated that specimens from West Africa that they had seen were different from those in the Flora Zambesiaca region and those from the Democratic Republic of Congo and they therefore reinstated this species as a distinct taxon. Bi: Fernandes (1989), Fernandes & Diniz (2005), Huber et al. (1963), Verdcourt (1992). Bibliography
 
+## Figures
+
+![Lantana ukambensis](../sources/Verbenaceae_vol58_liteparse/figures/fig_103_p0139.png)
+
+*Plate 37 . Lantana ukambensis : 1. Habit (× ⅔). – 2. Detail of the upper surface of the leaves (× 8). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ in West Africa, from Senegal and Mali eastward to Nigeria, then in Cameroon, Equ
 
 primary and secondarized forest, gallery forest; in Gabon at 5–630 m elevation, elsewhere up to 2000 m. Use: The fruits are edible. The leaves are used in traditional medicine. B: Burkill (1985), Keay (1958), Breteler (2003), Van der Veken (1960a). Bibliography
 
+## Figures
+
+![Sorindeia juglandifolia](../sources/Anacardiaceae_vol50_liteparse/figures/fig_019_p0029.png)
+
+*Plate 9. Sorindeia juglandifolia: 1. Leaf. – 2. Flower. – 3. Flower, longitudinal section. – 4. Fruit inflorescence. – 5. Fruit, transverse section. Drawing by William E. Trevithick, Royal Botanic Gardens, Kew (©), reproduced with permission from Keay (1958).*
+
 ## Notes
 
 <!-- TODO:notes -->

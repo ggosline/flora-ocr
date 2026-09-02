@@ -47,6 +47,12 @@ cascavelle trois feuilles (fr.) ; smooth crotalaria, streaked rattlepod, striped
 
 The synonyms given by Pellegrin (1949) for C. striata concern var. obovata. b: Aguilar (1997), Pellegrin (1949), Polhill (1982). Bibliography
 
+## Figures
+
+![Crotalaria pallida](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_039_p0102.png)
+
+*Plate 31 : Crotalaria pallida var. pallida : 1. Flowering and fruiting stem (× 1). – 2. Flower (× 4). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

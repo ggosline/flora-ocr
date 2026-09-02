@@ -30,6 +30,12 @@ endemic to Gabon, restricted to the Monts de Cristal and the Chaillu Massif
 
 moist friable soils or stream margins in riparian forests; between 130 and 720 m elevation. Uses: sorrel substitute. B: Raponda-Walker & Sillans (1961), Sosef & al. (2006), Wilczek (1969b). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia auriculata](../sources/Begoniaceae_vol39_liteparse/figures/fig_018_p0015.png)
+
+*Plate 3. Begonia auriculata : 1. Flowering plant (× 1). – 2. Bract of a young inflorescence, inner surface (× 6). – 3. Inflorescence at the female stage (♂ flowers and bracts fallen) (× 3). – 4. Capsule (× 1,5). – 5. Leaf, upper surface (× 1). (1-3 : Breteler & de Wilde 261 ; 4, 5 : Arends, Louis & de Wilde 367 ) . Drawing by I Z , National Herbarium of the Netherlands – Wageningen branch.*
+
 ## Notes
 
 <!-- TODO:notes -->

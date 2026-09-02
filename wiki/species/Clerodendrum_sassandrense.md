@@ -37,6 +37,16 @@ evergreen tropical forests, secondarized forests dominated by Aucoumea klaineana
 
 This species appears to be unique within the genus, as it is a partly subterranean vine, the main stem generally not being visible, as it grows beneath the upper layer of litter in the evergreen tropical forest. It often has the deceptive appearance of being a group of shrubs or gregarious erect herbs, but it is in reality a single plant. A specimen from the Republic of the Congo, Mpandzou 465, mentions 20 "plants" seen in a plot of 5 × 2 m, which are in fact flowering shoots arising from a single main axis. The only known collection from Gabon reports that it is "fairly abundant" in a small area. Due to the particular habit of this species, it is hardly surprising that it has not developed pseudospines, otherwise so common in the climbing species of Clerodendrum of tropical Africa. The species was originally published in 2002 based on two collections from Côte d'Ivoire. A series of collections was subsequently made in 2010/2011, far from the others, to the southeast, in the Chaillu Massif, in the Republic of the Congo, near the border with Gabon. Jongkind (2014) stated that it was likely to be found in Liberia, but no specimen was known to the author. The author suspected that this species could well also be present in Gabon and a specimen was discovered there in 2017. The protologue illustrates this species from herbarium material pressed where it can be difficult to decipher the symmetry/asymmetry of the corolla lobes. A series of photographs of this species taken in the Congo during fieldwork by staff of the Royal Botanic Gardens, Kew in 2010 and 2011, clearly shows that the corolla is zygomorphic, with four lower lobes and one reflexed upper lobe. This appears to be confirmed by the photographs of the Gabonese specimen (Texier 944). B: Jongkind (2002, 2015). Bibliography
 
+## Figures
+
+![Clerodendrum sassandrense](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_032_p0034.jpeg)
+
+*Figure 2 . Clerodendrum formicarum : A. Inflorescence ; B. Flowers. – Clerodendrum fuscum : C. Flowering stem ; D. Fully open flowers and in bud. – Clerodendrum sassandrense : E. Habit (uprooted plant) ;*
+
+![Clerodendrum sassandrense](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_040_p0039.png)
+
+*Plate 8. Clerodendrum sassandrense: 1. Flowering stem. – 2. Habit of the plant, with stems extending over the ground. – 3. Pedicels with minute bracts. – 4. Indument of the stem. – 5. Petiole, lower surface. – 6. Idem, transverse section. – 7. Detail of the lower surface of the leaf blade with black glands. – 8. Flower, lateral view. – 9. Idem, frontal view. – 10. Calyx, open, outer surface. – 11. Corolla, open, with stamens. – 12. Indument on corolla tube. – 13. Gynoecium. – 14. Stigma. – 15. Fruit with 2 mericarps. – 16.*
+
 ## Notes
 
 <!-- TODO:notes -->

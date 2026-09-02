@@ -23,6 +23,18 @@ One genus with at least 250 species in all tropical regions and most subtropical
 
 Notes: Pilea angolensis (Hiern) Rendle, close to P. sublucens, is known from countries north, east and south of Gabon; it is often found on rocky outcrops, in savanna woodland and open forest. As it could be present in Gabon, it is included in the key below. Young specimens
 
+## Key to the species
+
+1. - Blade with entire or weakly crenate margin, mature leaves < 10(–15) mm in length (including petiole) ..................................................................... P. microphylla
+- Blade with dentate or distinctly crenate margin, mature leaves > 15 mm in length (including petiole) (dwarf forms of P. angolensis sometimes with leaves of 5–10 mm in length and blade with margin not distinctly dentate) .................................................... 2
+2. - Annual herb, slender, basal part short and curved, with numerous roots, without stolons; stem erect, reaching up to ± 20 cm in height; blade with 5 to 7 marginal teeth on each side; inflorescence simple and with one or few fascicles of flowers, or with a few lateral branches reaching up to 3 mm in length
+............................................................................................. P. angolensis (Hiern) Rendle
+
+---
+
+Pilea 63
+- Herb apparently always perennial, with slender stolons; stem erect, up to 40 cm in height; blade with 7 to 12(–20) marginal teeth on each side; inflorescence in ± loose panicle, with lateral branches of 3–18 mm in length .................. P. sublucens
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -41,6 +41,12 @@ palétuvier rouge (fr.) ; pareils à ceux de R. racemosa . b : Breteler (1969, 2
 
 R. racemosa: a: Inflorescence (× ½), b. floral bud (× 3). – 3. R. mangle: a. Inflorescence (× ½)., b. floral bud (× 3). (1: Breteler 5168; 2: Breteler 5164; 3a: De Bruijn 1268; 3b: Breteler 5173). Drawing adapted, original by L. van der Riet, Naturalis Biodiversity Center (©).
 
+## Figures
+
+![Rhizophora mangle](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_056_p0114.png)
+
+*Plate 38. Rhizophora spp. : 1. R. harrisonii : a. Flowering branch (× ½), b. floral bud (× 3). – 2.*
+
 ## Notes
 
 <!-- TODO:notes -->

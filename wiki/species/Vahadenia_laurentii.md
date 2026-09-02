@@ -24,6 +24,16 @@ Fl. trop. Afr. 4(1): 30 (1902). Liane reaching 50 m in height; bark smooth, 2–
 
 Beentje (2021), Burkill (1985), Haegens (1994)
 
+## Figures
+
+![Vahadenia laurentii](../sources/Apocynaceae_vol59_liteparse/figures/fig_227_p0256.jpeg)
+
+*Figure 14 . Tabernanthe iboga : A. Inflorescence. B. Fruit. – Vahadenia laurentii : C. Fruiting stem ; D.*
+
+![Vahadenia laurentii](../sources/Apocynaceae_vol59_liteparse/figures/fig_234_p0259.jpeg)
+
+*Plate 120. Vahadenia laurentii: 1. Flowering branch (× ⅔). – 2. Corolla, longitudinal section (× 2). – 3. Longitudinal section of part of the corolla, showing the stamens (× 4). – 4. Longitudinal section*
+
 ## Notes
 
 <!-- TODO:notes -->

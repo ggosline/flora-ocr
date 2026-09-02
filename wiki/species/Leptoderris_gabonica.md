@@ -41,6 +41,12 @@ endemic to Gabon, known from Estuaire and Moyen Ogooué
 
 primary and secondary forest; at low altitude
 
+## Figures
+
+![Leptoderris gabonica](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_083_p0231.png)
+
+*Plate 75: Leptoderris gabonica: 1. Flowering branch. – 2. Leaf. – 3. Detail of the indument on the lower surface of the leaflet. – 4. Flower. – 5. Calyx, open. – 6. Detail of the indument of the calyx, outer surface. – 7. Idem, inner surface. – 8. Standard. – 9. Wing. – 10. Keel. – 11. Wing. – 12. Pistil. – 13. Androecium. (1: Pobéguin 156; 2, 3: Klaine 3445; 4, 5, 8–13: Klaine 1418; 6, 7: Trilles 18). Drawing by Hans de*
+
 ## Notes
 
 <!-- TODO:notes -->

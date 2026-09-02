@@ -38,6 +38,12 @@ primary and secondary forest, gallery forest, montane forest; in Gabon at 30–6
 
 Beentje (2021), Omino (2002), Persoon et al. (1992), Pichon (1953)
 
+## Figures
+
+![Landolphia landolphioides](../sources/Apocynaceae_vol59_liteparse/figures/fig_114_p0131.jpeg)
+
+*Plate 55 . Landolphia landolphioides 5DPHDXÀRULIqUHîҀ±&RUROOHRXYHUWHDYHFpWDPLQHV (× 1). – 3. Calyx (× 2). – 4. Calyx lobe, outer surface (× 6). – 5. Stamen open (× 10). – 6. Pistil*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ Seedling. – 5. – Flower. – 6. Flower, schematic longitudinal section. – 
 
 primary and secondary forest, riparian or periodically inundated forest, on sandy humic soil; in Gabon, up to 800 m altitude, elsewhere up to 1150 m. Taxonomic note: Species easily recognizable by its remarkably long and flattened axillary peduncles. b: Bamps & Farron (1967), Bissiengou (2014), Exell & Mendonça (1951), Bibliography Farron (1965, 1968, 1985), Hutchinson, Dalziel & Keay (1954)
 
+## Figures
+
+![Campylospermum elongatum](../sources/Ochnaceae_vol48_liteparse/figures/fig_021_p0044.png)
+
+*Plate 9. Campylospermum elongatum: 1. Flowering branchlet. – 2. Stipules. – 3. Inflorescence. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

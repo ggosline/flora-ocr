@@ -42,6 +42,12 @@ Drawing by L. Milne-Redhead (©), reproduced with permission from Robson (1961).
 
 the mother after childbirth. The oils of takamaka are today the subject of industrial production of cosmetics or medicines in the South Pacific. Finally, the species is used in reforestation to combat coastal erosion. B: Bamps et al. (1978), Lemmens (2008a), Robson (1961), Stevens (1980). Bibliography
 
+## Figures
+
+![Calophyllum inophyllum](../sources/Clusiaceae_vol45_liteparse/figures/fig_011_p0016.png)
+
+*Plate 2. Calophyllum inophyllum : 1. Floriferous branch (× ⅔). – 2. Flower, longitudinal section (× 2). – 3. Fruit (× ⅔). – 4. Seed (× ⅔). – 5. Fruit in longitudinal section, seed removed. (1–5 : Faulkner 762 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

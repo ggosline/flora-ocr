@@ -38,6 +38,12 @@ in humid herbaceous zones, marshes, ditches, ponds, river banks, also in brackis
 
 yefen (angl.). Note taxonomique : Une des espèces les plus caractéristiques, habituellement facile à identifier par ses larges feuilles poilues. Cependant, sur le littoral du Gabon, pousse une forme avec des feuilles étroites, qui ressemble à F. stricta , mais peut se distinguer par son périanthe à segments plats (en aiguilles garnies de barbes rétrorses pour F. stricta ). B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Sosef & van der Maesen (1997)
 
+## Figures
+
+![Fuirena umbellata](../sources/Cyperaceae_vol44_liteparse/figures/fig_133_p0157.png)
+
+*Planche 103 . Fuirena umbellata . A. Plante. – B. Planche 104 . Lipocarpha chinensis . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

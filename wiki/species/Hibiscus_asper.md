@@ -37,6 +37,12 @@ weed of fields and fallows, savannas, forest margins, humid places; in Gabon at 
 
 roselle sauvage (fr.) ; wild sorrel, false roselle (angl.). Note taxonomique : nouveautée pour le Gabon. L’espèce est voisine de H. cannabinus L. (espèce cultivée, non encore trouvée au Gabon). Nous suivons Wilson (1999) qui considère H. asper comme bien différente de H. cannabinus . Elle peut facilement être distinguée par ses feuilles presque 3 ‒ 5-divisées, les marges des segments ondulées à lobées et par l’absence de poils blanchâtres sur les sépales qui sont plutôt roux. Bi : Akoègninou et al. (2006), Berhaut (1979), Schippers & Bosch (2004), B liographie Wilson (1999)
 
+## Figures
+
+![Hibiscus asper](../sources/Malvaceae_vol45_liteparse/figures/fig_027_p0065.png)
+
+*Plate 16. Hibiscus asper : 1 and 2. Flowering and fruiting branches, showing the variability of the leaves. Drawing by J. Berhaut & B. Jouet, reproduced from Berhaut (1979).*
+
 ## Notes
 
 <!-- TODO:notes -->

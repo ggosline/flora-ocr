@@ -34,6 +34,12 @@ from Senegal to Liberia, the Republic of the Congo, the Democratic Republic of t
 
 humid soil near the sea; at low altitude. Taxonomic notes: This small species has not been found again in Gabon since a collection from Cape Lopez, at Akosso in 1894. It occurs sporadically across Africa in open humid stations on sand; it is probably under-collected. It can be distinguished immediately from Eriocaulon of comparable size by the strongly pilose scapes, the weakly elongate stem and the absence of septa in the leaves. The seed dispersal type is also different. The indurate, white and grey striated sepals of the female flowers curve outward, thus lifting the petals and ovary sheltered above the surface of the capitulum where they fall. The trilobed, empty calyces with a central cavity, remaining attached to the capitulum, are also another character allowing easy distinction of mature specimens from Eriocaulon, without the need for dissection. Bibliography: Lecomte (1908, 1909), Meikle (1968), Milne-Redhead (1949), Phillips (1997a, 2010)
 
+## Figures
+
+![Paepalanthus lamarckii](../sources/Eriocaulaceae_vol48_liteparse/figures/fig_013_p0020.jpeg)
+
+*Plate 3. Paepalanthus lamarckii : 1. Habit of plant (× ⅔). – 2. Capitulum (× 4). – 3. Involucral bract (× 20). – 4. Floral bract (× 20). – 5. Male flower (× 20). – 6. Female flower (× 20). – 7. Female calyx recurved after the fall of petals and ovary (× 40). (1–7 : Goyder, Pope & Radcliffe-Smith 3081). Drawing by Margaret Tebbs (©), reproduced with permission from Phillips (1997a).*
+
 ## Notes
 
 <!-- TODO:notes -->

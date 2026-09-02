@@ -33,6 +33,12 @@ KEY TO SPECIES
 
 1'. Leaves subsessile, elliptic-lanceolate, base narrowly cordate; apical cymes: terminal and axillary; sepal lobes hairy-glandular ..... 2. P. gabonensis.
 
+## Key to the species
+
+1. Leaves petiolate, ovate-lanceolate, base rounded; terminal cymes; sepals lobes glabrous ..... 1. P. kamerunensis.
+
+1'. Leaves subsessile, elliptic-lanceolate, base narrowly cordate; cymes at the apex: terminal and axillary; sepal lobes hairy-glandular ..... 2. P. gabonensis.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -31,6 +31,12 @@ From Senegal to Uganda and Angola; in Gabon: Ogooué-Ivindo, Ogooué-Lolo and Wo
 
 The second variety, var. globriflorus Monachino, which differs notably in the axes and calyx glabrous and the leaf limb generally narrower, is known from Guinea. B: Beentje (1982, 2008d, 2021), Omino (2002), Raponda-Walker & Sillans (1961). BIBLIOGRAPHY
 
+## Figures
+
+![Strophanthus sarmentosus](../sources/Apocynaceae_vol59_liteparse/figures/fig_208_p0235.jpeg)
+
+*Planche 108 . Strophanthus sarmentosus var. sarmentosus 5DPHDXÀRULIqUHîҀ±)OHXURXYHUWH*
+
 ## Notes
 
 <!-- TODO:notes -->

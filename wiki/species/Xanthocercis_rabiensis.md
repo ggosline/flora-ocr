@@ -33,6 +33,12 @@ endemic to Gabon, known from Ogooué-Maritime, Rabi-Kounga and Fernand-Vaz
 
 evergreen humid forest; at 30 m altitude. Flowers in March; fruits in September. B: Détienne (1998), van der Maesen (1997). Bibliography
 
+## Figures
+
+![Xanthocercis rabiensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_139_p0390.png)
+
+*Plate 131 : Xanthocercis rabiensis : 1. Flowering branch (× ½). – 2. Seedling (× ½). – 3. Flower (× 2). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

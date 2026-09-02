@@ -41,6 +41,12 @@ haricot sabre, pois sabre (fr.) ; jack bean, sword bean (angl.) ; gisima (éshir
 
 Sometimes confused with C. gladiata (Jacq.) DC. (also called sword pea) with straighter pods and brown seeds, native to Southeast Asia. b: Bosch (2004a), Chee et al. (1992), Kay (1979), Mackinder et al. (2001), Pellegrin (1949), Bibliography Raponda-Walker & Sillans (1961), Sauer (1964)
 
+## Figures
+
+![Canavalia ensiformis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_031_p0079.png)
+
+*Plate 23 : Canavalia ensiformis : 1. Leaf. – 2. Flower. – 3. Pod. – 4. Pod, split open. – 5. Seed. –*
+
 ## Notes
 
 <!-- TODO:notes -->

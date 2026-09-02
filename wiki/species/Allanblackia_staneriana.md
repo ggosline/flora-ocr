@@ -34,6 +34,12 @@ rare species from southern Cameroon, Gabon, western Democratic Republic of the C
 
 primary forest, forest edges; in Gabon at 30 m altitude, elsewhere up to 300 m. Taxonomic note: In the literature, the epithet of this species name is often spelled as "stanerana". Exell clearly indicates that he named the species after Dr. P. [Pierre] Staner. If one follows recommendation 60C.1d of the Code of Nomenclature, it is necessary to correct the spelling as "staneriana". Bi: Bamps (1969, 1970a). Bibliography
 
+## Figures
+
+![Allanblackia staneriana](../sources/Clusiaceae_vol45_liteparse/figures/fig_010_p0012.png)
+
+*Plate 1. Allanblackia floribunda : 1 : Flowering branch (× ¾). – 2. Female flower in longitudinal section (one petal removed) (× 2). – 3. Male flower in longitudinal section (× 1.5). –4. Fruit in transverse section (× ½). – 5. Discal glands of the male flower (× 2). – Allanblackia staneriana : 6. Discal glands of the male flower (× 2). – 7. Staminodial phalanx, internal and external face (× 2). (5 : Louis 8531 ; 6, 7 : Gossweiler 6969 ). Drawing by J. Fleischmann (1–4) and D. Leyniers (5–7), reproduced respectively from Thonner (1908) and with permission from the National Botanic Garden of Belgium (©) from Bamps (1970a).*
+
 ## Notes
 
 <!-- TODO:notes -->

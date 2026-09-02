@@ -37,6 +37,12 @@ in marshes and their margins, along ditches and in other wet habitats; in Gabon,
 
 haspan flatsedge, sheathed flatsedge (angl.). Note taxonomique : très proche de C. denudatus , mais en diffère par son port plus grêle, sans rhizome rampant et habituellement à feuilles plus développées. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Kern (1974), Lye (1997)
 
+## Figures
+
+![Cyperus haspan](../sources/Cyperaceae_vol44_liteparse/figures/fig_085_p0107.png)
+
+*Plate 65. Cyperus fertilis. A, B. Plant and Plate 66. Cyperus haspan. A, B. Plant. – C. part of the plant. – C. Apex of the blade. – D. Base of the plant. – D. Section of the blade. – E.*
+
 ## Notes
 
 <!-- TODO:notes -->

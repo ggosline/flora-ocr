@@ -43,6 +43,16 @@ pois ailé africain, kikalakasa (fr.) ; African winged bean, tropical African wi
 
 See the note under P. palustris. Bi: Burkill (1995), Schippers (2004b), Verdcourt (1968, 1971c), Verdcourt & Halliday Bibliography (1978)
 
+## Figures
+
+![Psophocarpus scandens](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_114_p0326.png)
+
+*Plate 106: Psophocarpus palustris: 1. Flowering stem (× ⅔). – 2. Stipules (× 2). – 3. Bracteole (× 4). – 4. Standard (× 2). – 5. Wing (× 2). – 6. Keel (× 2). – 7. Androecium (× 2). – 8. Gynoecium (× 2). – 9. Stigma (× 8). – 10. Pod (× 1). 11, 12. Seeds (× 2). (1–3, 7–12: Irvine 1942; 4–6: Dalziel 8016). Drawing by Pat Halliday, Royal Botanic Gardens, Kew (©), reproduced with permission from Verdcourt &*
+
+![Psophocarpus scandens](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_115_p0327.png)
+
+*Plate 107: Psophocarpus scandens: 1. Flowering stem (× ⅔). – 2. Lobed leaflet (× ⅔). – 3. Stipules (× 2). – 4. Bracteole (× 2). – 5. Standard (× 2). – 6. Wing (× 2). – 7. Keel (× 2). – 8. Androecium (× 2). – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ widely distributed in the tropical regions of Africa, America and Asia; very rar
 
 on bare mud of mangroves near watercourses, in swamps and freshwater ponds; in Gabon, at sea level, up to 1700 m in East Africa. Taxonomic note: The fertility of all the glumes is an exception to the usual description of the genus giving the 2 lower glumes empty. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1995, 1997)
 
+## Figures
+
+![Eleocharis atropurpurea](../sources/Cyperaceae_vol44_liteparse/figures/fig_105_p0129.png)
+
+*Planche 79 . Eleocharis acutangula . A. Plante. – B. Planche 80 . Eleocharis atropurpurea . A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ from south-western Cameroon to Gabon, Angola (Cabinda) and western Democratic Re
 
 primary and secondary forests, roadsides, distinctly distant from the coast; in Gabon and elsewhere at low altitude (up to 100 m). Flowers observed from September to March. Taxonomic note: Leaves vary greatly in size. Several previously recognized species have been placed in synonymy by De Vos & Breteler (2009). Only one other species known from the region (southern Cameroon) is P. atrichogyna J.M.de Vos & Breteler, with a glabrous ovary and filaments adnate to the ovary. b: De Vos & Breteler (2009), Sleumer (1976). Bibliography
 
+## Figures
+
+![Paropsiopsis decandra](../sources/Passifloraceae_vol46_liteparse/figures/fig_050_p0090.png)
+
+*Plate 36. Paropsiopsis decandra : 1. Flowering branch (× 0,7). – 2. Apex of a young shoot (× 0,7). – 3. Branch with young shoot (× ½). – 4. Base of leaf with glands (× 5). – 5. Detail of a gland (× 30). – 6. Flower (× 3). – 7. Interior of a flower with a portion of the two crowns removed showing the androgynophore (× 10). – 8. Two fruits with persistent sepals and petals (× 2¼). (1 : Bos 6556 ; 2 : Bos 3853 ; 3 : Bos 5770 ; 4–5: Mcpherson 15069 ; 6-7 : W.J. de Wilde 1527 ; 8 : Bos 3499 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

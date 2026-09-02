@@ -42,6 +42,12 @@ Resembles Millettia sanagana Harms greatly, but its pods are narrower and slight
 
 Lewis 1114). Drawing by Samira Rolim, reproduced from da Silva & Azevedo Tozzi (2012) with permission of the first author (©).
 
+## Figures
+
+![Lonchocarpus sericeus](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_089_p0244.png)
+
+*Plate 81 : Lonchocarpus sericeus : 1. Flowering branch. – 2. Calyx, opened. – 3. Standard. – 4. Wing. – 5. Petal of the keel. – 6. Androecium and style. – 7. Gynoecium. – 8. Legume. (1–7 : Pennington 1316 ; 8 :*
+
 ## Notes
 
 <!-- TODO:notes -->

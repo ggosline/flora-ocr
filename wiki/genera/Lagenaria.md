@@ -31,6 +31,16 @@ BIBLIOGRAPHY: Clarke et al. (2006), Erickson et al. (2005), Jeffrey (1967), Kera
 
 - Sepals non-glandular; receptacle of the male flower 2–3 cm long..... L. breviflora
 
+## Key to the species
+
+1. - Monoecious plant; male flowers solitary..... L. siceraria
+
+- Dioecious plant; male flowers in raceme..... 2
+
+2. - Sepals glandular on the margins; receptacle of the male flower 4–5 cm long
+
+- Sepals non-glandular; receptacle of the male flower 2–3 cm long..... L. breviflora
+
 ## Species in region
 
 | Species | Vol | Pages |

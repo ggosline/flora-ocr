@@ -41,6 +41,12 @@ CHLORIS
 
 9.3 robusta
 
+## Key to the species
+
+1. Spikelets flattened, many-flowered, 8 to 15 mm long. Lemmas glabrous; leaf blades lanceolate, rounded and sub-amplexicaul at the base; 5 main nerves on each side of the primary nerve..... 1. C. mucronata.
+
+1'. Spikelets with 2 or 3 flowers, at most 8 mm long. Lemmas of the upper flowers bearing hairs with tuberculate base; leaf blades narrowed toward the base and subpetiolate; generally 4 main nerves on each side of the primary nerve..... 2. C. lappacea.
+
 ## Species in region
 
 | Species | Vol | Pages |

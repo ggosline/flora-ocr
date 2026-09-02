@@ -41,6 +41,12 @@ châtaigne d’eau, châtaigne d’eau chinoise (fr.) ; Chinese waterchestnut (a
 
 Widely cultivated for its edible bulbs. Sweet with a slight hazelnut flavour, they are rich in starch and can be eaten raw or cooked. The stems can be used for weaving. Taxonomic note: easily recognized by its robust rounded hollow stems with transverse septa. It resembles no other African species. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Eleocharis dulcis](../sources/Cyperaceae_vol44_liteparse/figures/fig_108_p0131.png)
+
+*Planche 82 . Eleocharis dulcis . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

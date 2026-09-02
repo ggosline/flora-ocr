@@ -37,6 +37,12 @@ marshes, herbaceous savannas and ruderal areas; in Gabon, at 640 m, in Rwanda, u
 
 The flowers as well as the roots (haustoria) have been used to dye textiles and to color wood. The species also has several medicinal applications. Taxonomic note: Hepper (1960) distinguished 3 varieties which are linked by intermediate forms. For this reason we have not attempted to distinguish varieties here. For Gabon, the typical variety and var. monticola (Engl.) Melchior have been recorded. Bibliography: Fischer (1996, 2006b), Ghazanfar et al. (2008), Hepper (1960, 1963), Jansen (2005), Mielcarek (1996), Philcox (1990)
 
+## Figures
+
+![Alectra sessiliflora](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_042_p0102.png)
+
+*Plate 28. Alectra sessiliflora: A. Entire plant. – B. Open and spread corolla. – C. Calyx. – D.*
+
 ## Notes
 
 <!-- TODO:notes -->

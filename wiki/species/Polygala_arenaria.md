@@ -36,6 +36,12 @@ widely distributed across tropical Africa: Mauritania, Ethiopia and Sudan, Mali,
 
 forest, dry savanna, sandy soils, cultivated areas and roadsides; in Gabon at 0–250 m altitude, elsewhere up to 1700 m. Uses: The plant sap is squeezed into the eyes to treat headaches. Crushed leaves are used as a poultice for smallpox pustules. Powder of dried leaves and sap of fresh leaves are applied to wounds. The roots are considered to have fetish properties. Ashes mixed with castor oil are rubbed on the mouth or placed in the mouth to treat snake bites. B: Burkill (1997b), Gilbert (2000), Keay & Taylor (1954), Paiva (1998, Bibliography 2007), Petit (1958)
 
+## Figures
+
+![Polygala arenaria](../sources/Polygalaceae_vol42_liteparse/figures/fig_037_p0084.png)
+
+*Plate 24. Polygala arenaria : 1. Plant. – 2. Stem, detail with curved hairs. – 3. Flower. – 4. Flower, longitudinal section. – 5, 6. Outer sepals. – 7. Winged sepal. – 8. Lateral petal. – 9. Stamens in tube. – 10. Anther. – 11. Ovary, longitudinal section. – 12. Ovule. Drawing by W.E. Trevithick, reproduced from Keay & Taylor (1954).*
+
 ## Notes
 
 <!-- TODO:notes -->

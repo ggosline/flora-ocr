@@ -36,6 +36,20 @@ humid coastal savannas, on white sand: between 0 and 20 m altitude
 
 This species, fairly common between Omboué and Iguéla, is well illustrated by Vande weghe (2007), remarkable with its blue to purple flowers, gathered in terminal and corymbiform inflorescences. Bibliography: Raynal (1968), Vande weghe (2007).
 
+## Figures
+
+![Neurotheca corymbosa](../sources/Gentianaceae_vol54_liteparse/figures/fig_061_p0078.jpeg)
+
+![Neurotheca corymbosa](../sources/Gentianaceae_vol54_liteparse/figures/fig_062_p0078.jpeg)
+
+![Neurotheca corymbosa](../sources/Gentianaceae_vol54_liteparse/figures/fig_063_p0078.jpeg)
+
+![Neurotheca corymbosa](../sources/Gentianaceae_vol54_liteparse/figures/fig_064_p0078.jpeg)
+
+![Neurotheca corymbosa](../sources/Gentianaceae_vol54_liteparse/figures/fig_065_p0080.png)
+
+*Plate 26 . Neurotheca corymbosa : 1. Habit (× ½). – 2. Elementary cyme (× 5). (1 : Leroy s.n. ; 2 : A.*
+
 ## Notes
 
 <!-- TODO:notes -->

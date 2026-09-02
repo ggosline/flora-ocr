@@ -45,6 +45,20 @@ bango (téké), munguengui (ipunu), oghoubé (mitsogho)
 
 See the note under D. mannii. Figueiredo (2008) mentioned this species under D. mannii. B : Baker (1898), Damen et al. (2018), Figueiredo (2008). Bibliography
 
+## Figures
+
+![Dracaena nitens](../sources/Dracaenaceae_vol54_liteparse/figures/fig_038_p0046.jpeg)
+
+*Figure 4. Dracaena nitens (near Ambam, Cameroon): A. Fruiting branch with coriaceous linear leaves. – Dracaena perrottetii (near Man airport, Ivory Coast): B. Fruiting branches, C.*
+
+![Dracaena nitens](../sources/Dracaenaceae_vol54_liteparse/figures/fig_039_p0046.jpeg)
+
+![Dracaena nitens](../sources/Dracaenaceae_vol54_liteparse/figures/fig_040_p0046.jpeg)
+
+![Dracaena nitens](../sources/Dracaenaceae_vol54_liteparse/figures/fig_041_p0046.jpeg)
+
+![Dracaena nitens](../sources/Dracaenaceae_vol54_liteparse/figures/fig_042_p0046.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -36,6 +36,12 @@ sésame sauvage (Fr.) ; black benniseed, wild benniseed (Angl.). okosa w’abamb
 
 savanna, on sandy or rocky soil, on inselbergs, or in ruderal and sometimes cultivated places; up to 1200 m altitude. Use: The young leaves are used as a vegetable or condiment in sauces, while the sticky seeds serve to extract oil. B: Bedigian (2004a, 2004b), Dalziel (1955), Heine (1963). Bibliography
 
+## Figures
+
+![Sesamum radiatum](../sources/Pedaliaceae_vol42_liteparse/figures/fig_029_p0066.png)
+
+![Sesamum radiatum](../sources/Pedaliaceae_vol42_liteparse/figures/fig_030_p0068.png)
+
 ## Notes
 
 <!-- TODO:notes -->

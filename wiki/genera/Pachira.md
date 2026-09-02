@@ -59,6 +59,26 @@ This essentially Neotropical genus is represented in Africa by introduced specie
 
 2'. Seeds with non-prominent striations ..... 3. P. aquatica
 
+## Key to the species
+
+1. Leaflets petiolulate ..... 3. P. aquatica
+
+1'. Leaflets sessile or subsessile.
+
+2. Abaxial surface of blade puberulent or lepidote..... 1. P. glabra
+
+2'. Abaxial surface of blade glabrous..... 2. P. sessilis
+
+KEY TO SPECIES BY FRUITS
+
+1. Valves glabrous ..... 1. P. glabra
+
+1'. Valves pubescent or puberulent.
+
+2. Seeds with strongly prominent striations..... 2. P. sessilis
+
+2'. Seeds with non-prominent striations..... 3. P. aquatica
+
 ## Species in region
 
 | Species | Vol | Pages |

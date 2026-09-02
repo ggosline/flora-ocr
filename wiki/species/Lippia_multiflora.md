@@ -41,6 +41,12 @@ afi (fang) ; bogolo (benga) ; dikadumba di kumu (eshira, bavarama) ; ewuma (nkom
 
 It is highly probable that L. adoensis Hochst. ex Walp. treated by Raponda-Walker & Sillans (1961) in fact represents L. multiflora, which is why their data are reproduced above. Bibliography: Burkill (2000), Huber et al. (1963), Raponda-Walker & Sillans (1961), Sosef et al. (2006), Verdcourt (1992)
 
+## Figures
+
+![Lippia multiflora](../sources/Verbenaceae_vol58_liteparse/figures/fig_104_p0141.png)
+
+*Plate 38 . Lippia multiflora : 1. Part of a leafy branch (× ½). – 2. Flowering branch (× ⅔). – 3. Floral bracts (× 10). – 4. Flower (× 12). – 5. Part of the corolla showing the insertion of the stamens (× 12). – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

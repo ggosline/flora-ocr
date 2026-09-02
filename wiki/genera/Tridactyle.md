@@ -65,6 +65,35 @@ PL. 177. – Structure of the gynostemium of the genus Tridactyle Schltr.: A, fr
 
 9'. Median lobe of the lip clearly shorter than the lateral ones, triangular, entire, lateral lobes with more or less fimbriate margins ..... 10
 
+## Key to the species
+
+1. Labellum entire or weakly trilobed ..... 2
+1'. Labellum strongly trilobed ..... 5
+2. Median lobe of labellum rectangular or subquadrate, truncate with a short apicule at the apex ..... 41. 5. T. filifolia
+2'. Median lobe of labellum narrowly triangular, acute ..... 3
+3. Leaves very thick, transverse section semi-circular or triangular, leaf margins rolled inward ..... 41. 4. T. crassifolia
+3'. Leaves thin, flat in transverse section, leaf margins recurved ..... 4
+4. Inflorescence 2–4-flowered, labellum 3–6 mm ..... 41. 1. T. anthomaniaca
+
+---
+
+PL. 177. – Structure of the gynostemium of the genus Tridactyle Schltr.: A, front view; B, lateral view; C, remainder of rostellum; D, anther; E, tegula and viscidium; F, pollinia (A–F, ex SZLACHETKO, 2003).
+
+---
+
+5. Spur geniculatе, labellum trilobed just below the middle, lateral lobes falcate divergent, entire, as long as the median lobe ..... 41. 6. T. lagosensis
+5'. Spur straight, lateral lobes of labellum pendent or divergent, generally fimbriate at least as long as the median lobe, generally longer ..... 6
+6. Spur 0.4–0.8 mm, obtuse ..... 41. 3. T. brevicalcarata
+6'. Spur longer ..... 7
+7. Median lobe of labellum hooked ..... 41. 2. T. bicaudata
+7'. Median lobe of labellum not as above ..... 8
+8. Lateral lobes of labellum truncate, irregularly denticulate at the apex ..... 41. 11. T. truncatiloba
+8'. Lateral lobes of labellum caudate or apiculate, but not truncate ..... 9
+9. All lobes of the labellum of the same length and form ..... 41. 10. T. tridactylites
+9'. Median lobe of labellum distinctly shorter than the lateral lobes, triangular, entire, lateral lobes with margins more or less fimbriate ..... 10
+10. Leaves oblong-elliptic, 1.7–2.5 cm wide, approximately 5 times as long as wide, rachis winged ..... 41. 7. T. latifolia
+10'. Leaves linear, reaching 1.2 cm wide, approximately 9–10 times as long as wide, rachis cylindric ..... 41. 9. T. lisowskii
+
 ## Species in region
 
 | Species | Vol | Pages |

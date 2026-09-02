@@ -34,6 +34,14 @@ Tropical Africa, from Senegal to Sudan and southward to Zimbabwe; uncommon in Ga
 
 in sandy grasslands, open savannas and on rocky outcrops; in Gabon, up to 500 m altitude, up to 2100 m in East Africa. Taxonomic note: The scaly appearance of the achene surface is characteristic of this species. The achene is also usually larger than that of most other annual species. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Bulbostylis abortiva](../sources/Cyperaceae_vol44_liteparse/figures/fig_011_p0018.png)
+
+*Planche 3. Ascolepis capensis. A. Plante. – B. Planche 4. Bulbostylis abortiva. A. Plante. – B.*
+
+![Bulbostylis abortiva](../sources/Cyperaceae_vol44_liteparse/figures/fig_012_p0018.png)
+
 ## Notes
 
 <!-- TODO:notes -->

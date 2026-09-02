@@ -33,6 +33,12 @@ widely distributed in tropical and southern Africa (but not west of Nigeria); al
 
 seasonally flooded grasslands; in Gabon, at 0–550 m elevation, up to 2300 m in East Africa. Taxonomic note: possesses an inflorescence similar to S. catophylla, but its stolons and basal leaves are very different from the long horizontal rhizome and non-leafy basal sheaths of S. distans. Plants with achenes bearing small wrinkles or tubercles are sometimes recognized as the variety chondrocarpa (Nelmes) Lye. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997), Raynal (1976), Robinson (1966).
 
+## Figures
+
+![Scleria distans](../sources/Cyperaceae_vol44_liteparse/figures/fig_187_p0213.png)
+
+*Planche 131 . Scleria distans . A. Plante. – B. Planche 132 . Scleria iostephana . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

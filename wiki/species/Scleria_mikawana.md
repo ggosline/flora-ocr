@@ -33,6 +33,12 @@ Senegal, Sierra Leone, Côte d'Ivoire, Gabon, Democratic Republic of the Congo, 
 
 marshy herbaceous zones; in Gabon, near sea level, up to 1140 m altitude in East Africa. Taxonomic note: recognized by its annual habit and its globose glandular achenes. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Robinson (1966)
 
+## Figures
+
+![Scleria mikawana](../sources/Cyperaceae_vol44_liteparse/figures/fig_197_p0220.png)
+
+*Planche 137 . Scleria melanotricha. A. Plante. – B. Planche 138 . Scleria mikawana . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

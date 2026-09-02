@@ -33,6 +33,16 @@ Senegal, Mali, Sierra Leone, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gab
 
 stagnant or slow-flowing waters in pools and marshes; in Gabon up to 125 m altitude, in West and East Africa mainly between 0 and 2400 m. B: Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia reflexa](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_111_p0116.png)
+
+*Plate 40. Utricularia reflexa : 1–3. Entire plant (× 1). – 4. Rhizoidal branch (× 30). – 5. Part of a leaf with utricles (× 8). – 6. Utricle, hairy form (× 30). – 7. Simple and stellate hairs on a stolon (× 30). – 8. Tubercle (× 8). – 9. Bract (× 12). – 10, 11. Flowers, view from behind (× 8). – 12. Flower, view from front (× 8). – 13. Stamen (× 30). – 14. Style and stigma (× 30). – 15. Fruit, lateral view, with calyx (× 12). – 16. Seed, apical view (× 30). – 17. Seed, lateral view (× 30). – 18. Small seed, apical view (× 30). – 19. Cells of the testa (× 150). (1 : Richards 802a ; 2 : Meikle 520 ; 3, 4, 11 : Milne-Redhead &*
+
+![Utricularia reflexa](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_112_p0118.jpeg)
+
+*Figure 13. Utricularia reflexa (A-E, Zambie, N de Kasama ; F, Zambie, Kapiri Mposhi) : A-F (Photos par A. Fleischmann ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

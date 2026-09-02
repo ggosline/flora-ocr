@@ -43,6 +43,30 @@ B: Doorenbos, Sosef & de Wilde (1998), Hooker (1871), Hutchinson, Dalziel & Keay
 
 - Herbaceous plants, terrestrial or rarely climbing, without scaly indument; .....
 
+## Key to the species
+
+1. - Flowers with 4 tepals ..................................................................................................... 2
+- Flowers with 2 tepals ..................................................................................................... 3
+2. - Terrestrial plant; leaves palmatilobed with palmate venation; fruit broadly ellipsoid with 3 or 6 prominent nerves, indehiscent ...................... sect. Mezierea (p. 30)
+- Plants mostly epiphytic; leaves with entire or dentate margin, never palmatilobed; fruit fusiform, rarely claviform, dehiscent in valves or by fissures ................................................................................... sect. Tetraphila (p. 72)
+3. - Epiphytes with woody stems, indumentum formed of fimbriate scales; with 2 large persistent bracts forming a flattened cupule enveloping the inflorescence and infructescence ............................................................. sect. Squamibegonia (p. 65)
+- Herbaceous plants, terrestrial or rarely climbing, without scaly indumentum; inflorescence with bracts not united in a cupule ...................................................... 4
+4. - Stems creeping and climbing by adventitious roots ........ sect. Cristasemen (p. 3)
+- Plants with erect or rhizomatous stems .............................................................. 5
+5. - Inflorescence in biparous cyme (dichasium), with developed branches, containing several female flowers ........................................................ sect. Mezierea (p. 30)
+- Inflorescence in uniparous cyme (monochasium), with strongly reduced branches, containing a single terminal female flower ........................................................... 6
+6. - Plants with clearly erect stems; fruit pendant, capsular, dry, opening by longitudinal fissures ......................................................... sect. Filicibegonia (p. 6)
+- Plants with rhizomes prostrate or rarely erect; fruit more or less fleshy, indehiscent .............................................................................................................. 7
+7. - Fruiting pedicel erect or prostrate but always straight; ovary and fruit (wings included) narrowly elliptic or rarely very broadly obovoid, pericarp translucent when fresh ..................................................... sect. Loasibegonia (p. 15)
+- Fruiting pedicel curved toward the substrate; ovary and fruit (wings included) broadly obovoid to very broadly obtriangular, exceptionally narrowly ellipsoid, pericarp opaque when fresh .... sect. Scutobegonia (p. 34)
+sect. CRISTASEMEN J.J. de Wilde
+Agric. Univ. Wageningen Papers 84(3) : 113–129 (1985).
+Terrestrial, herbaceous, lianescent plants, with stems creeping and climbing by adventitious roots (like ivy, Hedera helix L.). Leaf not peltate, with palmate venation. Inflorescence axillary, bisexual, pauciflorous, in a visibly biparous cyme at the base, the central male flowers early deciduous, branches subsequently uniparous and bearing laterally a female flower. Flowers with 2 yellow tepals. ♂ Flower: androecium zygomorphic, stamens with filaments united at their base. ♀ Flower: ovary tri-winged, 3-locular; central placentas, entire; styles 3, deeply bifid, each branch again divided. Infructescence generally with a single pendant fruit, suspended from a slender and long pedicel. Fruit capsular, with 3 unequal wings, crowned by the persistent styles. Seed J- or S-shaped, at the extremities composed of elongated and swollen cells.
+
+Section comprising a species limited to Gabon and the island of São Tomé.
+B : Doorenbos, Sosef & de Wilde (1998), de Wilde (1985).
+IBLIOGRAPHY
+
 ## Species in region
 
 | Species | Vol | Pages |

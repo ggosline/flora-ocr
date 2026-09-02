@@ -27,6 +27,12 @@ TYPE SPECIES: Buchholzia coriacea Engler.
 
 The genus Buchholzia comprises 2 closely related species restricted to the western regions of tropical Africa. Both species are present in Gabon: B. tholloniana is widely distributed and common there while B. coriacea has been collected there only once. This genus is well characterized by its actinomorphic and apetalous flower as well as by its fleshy and campanulate disk, formed from the inner face of the receptacle. It has never been recognized as having affinity with any other genus.
 
+## Key to the species
+
+1. Lateral veins 11–17, prominent on the upper surface of the blade; leaves mostly 3–7 cm wide, elliptic to obovate; apex acute to acuminate. Inflorescences often terminal and branched ..... 1. B. tholloniana.
+
+1'. Lateral veins ≤ 10, depressed on the upper surface of the blade; leaves mostly 3–11 cm wide, broadly obovate; apex abruptly acuminate; inflorescence usually simple, axillary or subterminale ... 2. B. coriacea.
+
 ## Species in region
 
 | Species | Vol | Pages |

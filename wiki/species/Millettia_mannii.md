@@ -38,6 +38,12 @@ primary and secondary forest, white sands and gravels, river margins and pools, 
 
 eboba (langue inconnue) ; mvakoué, vénékoué, nara (pahouin). b : Pellegrin (1949), Mollel & Adema (2006). ibliographie
 
+## Figures
+
+![Millettia mannii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_104_p0298.png)
+
+*Planche 96 : Millettia mannii : 1. Étendard. – 2. Aile. – 3. Carène. – 4. Androcée. – 5. Gynécée. – Millet- tia thonneri : 6. Étendard. – 7. Aile. – 8. Carène. – 9. Androcée. – 10. Gynécée. (1–5 : Champluvier 5110 ; 6–10 : Thonner 268 ). Dessin par Anita Walsmit Sachs, Naturalis Biodiversity Center (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

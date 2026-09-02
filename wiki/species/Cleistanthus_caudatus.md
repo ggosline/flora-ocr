@@ -37,6 +37,12 @@ from the Central African Republic to Cameroon, Gabon and the Democratic Republic
 
 primary forest and old secondary forest; at 0–500 m altitude. b: Breteler (2011b), Léonard (1960, 1962). Bibliography
 
+## Figures
+
+![Cleistanthus caudatus](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_012_p0027.png)
+
+*Planche 6. Cleistanthus caudatus : variations foliaires. (A : Floret & Louis 1566 ; B : Le Testu 8406 ; C : Breteler et al . 15259 ; E : Breteler 15345 ; F : Le Testu 7492 ; G : Le Testu 5525 ; H :*
+
 ## Notes
 
 <!-- TODO:notes -->

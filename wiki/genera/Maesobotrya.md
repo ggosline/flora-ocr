@@ -37,6 +37,37 @@ ibliography
 
 - Branchlets, petiole and blade pubescent (with ± soft hairs) when young, glabrescent when adult; inflorescences axillary, solitary to ternate.................. M. bertramiana
 
+## Key to the species
+
+1. - Stipules generally asymmetric, ± falciform, 3–25 × 1–15 mm, persistent or
+caducous .................................................................................................................. 2
+- Stipules symmetric, narrowly triangular to lanceolate, 2–8(–13) × 0.5–1(–2)
+mm, early caducous .................................................................................................... 3
+2. - Branchlets, petiole and lamina hispid–setulose with spreading hairs ; inflorescences
+fasciculate on the trunk or on old branches ........................................... M. klaineana
+- Branchlets, petiole and lamina pubescent (with ± soft hairs) when young, glabrescent
+when mature ; inflorescences axillary, solitary to ternate .............. M. bertramiana
+3. - Shrubs 0.5–2.5(–3.5) m tall ; inflorescences axillary, 0.5–2 (–5)
+cm long ; fruits ovoid, acute .................................................................... 4
+- Shrubs to small trees (2–)3–10(–12) m tall ; inflorescences axillary
+or on old branches and trunk, (1–)4–10(–17) cm long ; fruits globose
+or ellipsoid .......................................................................................................... 5
+4. - Branchlets hirsute ; lamina rounded to subcordate at the base, hirsute ............ M. oligantha
+- Branchlets glabrous or with appressed hairs ; lamina long-attenuate at the base, glabrous
+or nearly so ........................................................................................... M. pauciflora
+5. - Branchlets and leaves glabrous or early glabrescent .................................................... 6
+- Branchlets and leaves with persistent indumentum or leaves late glabrescent .. 7
+6. - Lamina with 4–6 pairs of lateral veins ........................................... M. griffoniana
+- Lamina with (6–)8–11 pairs of lateral veins ...................................... M. longipes
+7. - Inflorescences on the trunk, old branches and sometimes at the same time axillary . 8
+- Inflorescence axillary or on branches just below the leaves, never on
+the trunk or on old branches ........................................................ M. floribunda
+8. - Branchlets and leaves with ± appressed indumentum ; stipules (2–)4–7 mm long ;
+lamina cuneate to rounded-obtuse or sometimes slightly cordate at the base ; bracts 1–2 mm long ; ovary and fruit glabrous ............................................................... M. barteri
+- Branchlets and leaves with setulose–hispid indumentum ; stipules 2–3(–6) mm
+long ; lamina cordate to rounded at the base ; bracts ≤ 0.5 mm long ; ovary
+pilose ; fruit sparsely pubescent with appressed hairs ........................... M. cordulata
+
 ## Species in region
 
 | Species | Vol | Pages |

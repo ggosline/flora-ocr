@@ -33,6 +33,12 @@ Western coast of Africa, tropical America and the Pacific; very rare in Gabon or
 
 Marshes of coastal dunes, margins of lagoons; at low altitude. Taxonomic note: recognized by its robust habit, large inflorescence and cylindric spikelets disarticulating at the base of the glumes. B: Hooper & Napper (1972). Bibliography CYPERUS L. subgenus KYLLINGA (Rottb.) Valck.Sur. Cyperus: 42 (1898). Kyllinga Rottb., Descr. icon. rar. pl.: 12, t. 4 (1773). Perennial or more rarely annual herbs; stems 5–80 cm long, triangular. Leaves usually with well-developed blade. Anatomy of stems and leaves of chlorocyperoid type (that is, with C4 type anatomy). Inflorescence a dense anthela formed of one to several spheric to cylindric spikes, composed of few or many sessile spikelets tightly packed, rarely in a group of a few
 
+## Figures
+
+![Cyperus odoratus](../sources/Cyperaceae_vol44_liteparse/figures/fig_063_p0080.png)
+
+*Plate 49. Cyperus zollingeri. A. Plant. Plate 50. Cyperus odoratus. A. Plant. – B. Spike. – B. Top of the sheath and base of the blade. – C, D. – C. Spikelet. – D, E. Glume. – F. Glume subtending*
+
 ## Notes
 
 <!-- TODO:notes -->

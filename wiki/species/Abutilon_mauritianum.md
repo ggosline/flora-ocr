@@ -41,6 +41,12 @@ mauve des champs (fr.) ; dongi, momadèté (béséki), dundópi (bapunu, bavungu
 
 békè-mè-gwè (bakèlè), liwanga-téna (loango), mudongi (ngowé), mwólu (éshiraMgo'is, bavarama), ndjoa (ivéa), nzisim (ngowé), nzisim, odongi (mpongwè, galoa, nkomi, orungu), póndubuga (balumbu), tsivi-lla-tava (bavili), udongi (benga). B: Akoègninou et al. (2006), Exell & Meeuse (1961), Raponda-Walker & Sillans (1961), Verdcourt (2009).
 
+## Figures
+
+![Abutilon mauritianum](../sources/Malvaceae_vol45_liteparse/figures/fig_025_p0059.png)
+
+*Plate 14. Abutilon mauritianum : 1. Branch with flowers and fruits. – 2. Flower, 2 petals and sepals removed. – 3. Longitudinal section of the androecium and gynoecium. – 4. Anther, opened. – 5. Mericarp. – 6. Seed.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ understory of humid and deciduous or semi-deciduous forest, often of secondary f
 
 The wood is used in the construction of dwellings, particularly for piles, and is locally appreciated for carving. The bark is commonly used in traditional medicine. B: Aubréville (1959), Burkill (1997), Lemmens (2008c), Staner & Gilbert (1958), de Wilde (1968)
 
+## Figures
+
+![Trichilia monadelpha](../sources/Meliaceae_vol47_liteparse/figures/fig_033_p0064.png)
+
+*Plate 19. Trichilia monadelpha: A. Flowering branch (× 0,5). – B. Functionally male flower opened (× 2). – C. Dito, partially dissected and showing the pistillode (× 4). – D. Dito, part of the staminal tube, internal surface (× 4). – E. Dito, external surface (× 4). – F. Anther, front view (× 8). – G. Dito, back view (× 8). – H. Functionally female flower, longitudinal section (× 4). – K. Fruiting branch (× 0,5). – M. Fruit in transverse section (× 1). – N. Seed, the seed coat widely developed into sarcotesta (× 1). – P. Cotyledons juxtaposed (× 1). R. Seed, transverse section (× 1). – S. Detail of a leaflet, lower surface (× 20). – T. Midvein of a leaflet, transverse section (× 10). (A, F, G:*
+
 ## Notes
 
 <!-- TODO:notes -->

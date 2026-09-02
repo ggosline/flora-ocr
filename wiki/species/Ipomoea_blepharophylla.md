@@ -32,6 +32,12 @@ species of tropical Africa from west to east; in Gabon, collected only in the Lo
 
 wooded savanna; in Gabon at low altitude, elsewhere up to 1900 m. B: Gonçalves (1987), Lejoly & Lisowski (1992). Bibliography
 
+## Figures
+
+![Ipomoea blepharophylla](../sources/Convolvulaceae_vol46_liteparse/figures/fig_025_p0037.png)
+
+*Plate 13. Ipomoea blepharophylla : 1. Plant (× ½). – 2. Flower (× 1). – 3. Corolla spread open with stamens and gynoecium (× 1). – 4. Fruit (× 2). – 5. Seed (× 2). (1–5 : Drummond 4906). Drawing by C. Pinto reproduced with permission from Royal Botanic Gardens, Kew (©) from Gonçalves (1987).*
+
 ## Notes
 
 <!-- TODO:notes -->

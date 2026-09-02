@@ -43,6 +43,12 @@ kangkong, liseron d’eau, patate aquatique (fr) ; kangkong, kangkung, swamp spi
 
 Young shoots and leaves of kangkong are harvested as a green vegetable, especially in Southeast Asia and China where it is very popular and frequently cultivated. B: Lejoly & Lisowski (1992), Grubben (2004). Bibliography
 
+## Figures
+
+![Ipomoea aquatica](../sources/Convolvulaceae_vol46_liteparse/figures/fig_023_p0034.png)
+
+*Plate 11. Ipomoea aquatica: 1, 2. Two flowering branchlets showing the variation in leaf shape.*
+
 ## Notes
 
 <!-- TODO:notes -->

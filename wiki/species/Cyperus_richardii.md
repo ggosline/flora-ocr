@@ -35,6 +35,12 @@ widespread in tropical Africa, except in the driest regions; rare or poorly know
 
 open grasslands, roadsides, lawns and other disturbed ground; in Gabon, at 0–100 m altitude, up to 2000 m elsewhere. Taxonomic note: recognized by its 3–5-flowered spikelets and its slender stolons. It resembles no other species in Gabon and West Africa, but it is close to an East African species, C. purpureo-glandulosus Mattf. & Kük. (Kyllinga sphaerocephala Boeckeler), which was wrongly included in Kyllinga bulbosa in Flora of Tropical East Africa (Hoenselaar et al., 2010). Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Cyperus richardii](../sources/Cyperaceae_vol44_liteparse/figures/fig_077_p0098.png)
+
+*Planche 59 . Cyperus peruvianus. A. Plante. – B. Planche 60 . Cyperus richardii . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

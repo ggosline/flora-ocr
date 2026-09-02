@@ -41,6 +41,16 @@ Malaysian false pimpernel (angl.)
 
 The species is used chiefly in Asia as a medicinal plant and has given good results in the treatment of hepatitis, dysentery, amenorrhea and gallbladder disorders. It is one of the most common plants in Chinese pharmacies. B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Ipor (2001), Hepper (1963).
 
+## Figures
+
+![Torenia crustacea](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_059_p0140.png)
+
+*Plate 45. Torenia crustacea: A. Flowering stem. – B. Open and spread corolla. – C. Abaxial stamen. (A–C: Fischer 598/87). Drawing by E. Fischer (©).*
+
+![Torenia crustacea](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_069_p0155.jpeg)
+
+*Planche 55. A–B. Torenia crustacea . – C–D. Torenia dinklagei . – E–G. Torenia silvicola . – H–K. Arta - nema longifolium . (A–B : photo par E. Fischer; C–D : photo par O. Lachenaud ; E–K : photo par E.*
+
 ## Notes
 
 <!-- TODO:notes -->

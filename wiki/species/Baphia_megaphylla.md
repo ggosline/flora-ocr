@@ -34,6 +34,12 @@ endemic species to Gabon, known only from Ogooué-Ivindo and Ogooué-Lolo
 
 primary and secondarized forest; at ± 300–500 m in altitude. b: Breteler (2008). Bibliography
 
+## Figures
+
+![Baphia megaphylla](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_025_p0064.png)
+
+*Plate 17 : Baphia megaphylla : 1. Flowering branch. – 2. Leaf. – 3. Detail of the indumentum of the leaf, upper surface. – 4. Idem, lower surface. – 5. Stipule. – 6. Fascicle of flowers. – 7. Young flower bud with bracteoles. – 8. Mature flower bud. – 9. Open flower. – 10. Standard. – 11. Wings. – 12.*
+
 ## Notes
 
 <!-- TODO:notes -->

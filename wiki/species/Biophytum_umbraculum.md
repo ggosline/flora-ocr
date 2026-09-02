@@ -34,6 +34,12 @@ savannas, stream margins, marshes, pastures. Use: A decoction of peeled roots in
 
 Chase 814 .). Reproduced with the permission of the Board of Trustees of the Royal Botanic Gardens, Kew (©), from Kabuye (1971) l.c.
 
+## Figures
+
+![Biophytum umbraculum](../sources/Oxalidaceae_vol38_liteparse/figures/fig_025_p0045.png)
+
+*Plate 9: Biophytum umbraculum: A. Plant (×1⁄2). – B. Leaf (×1). – C. Leaflet (×3). (A-C:*
+
 ## Notes
 
 <!-- TODO:notes -->

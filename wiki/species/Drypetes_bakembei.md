@@ -44,7 +44,7 @@ Harris & Wortley (2008)
 
 ![Drypetes bakembei](../sources/Putranjivaceae_vol57_paddle/figures/fig_083_p0129.png)
 
-*Planche 41. Drypetes bakembei: 1. Rameau fleuri mâle. – 2. Pétiole et base du limbe foliaire. – 3. Stipule. – 4. Sépales. – 5. Fleur mâle, sépales enlevés. – 6. Détail des étamines et disque. – 7. Fruit immature. – 8. Fruit mûr, en coupe transversale. – 9. Graine, vue ventrale et latérale. (1-6: Harris 5477; 7: Harris 5561; 8, 9: Remis 105-95). Dessin par R. Wise, Royal Botanic Garden Edinburgh (©), reproduit avec permission à partir de Harris & Wortley (2006).*
+*Plate 41. Drypetes bakembei: 1. Male flowering branch. – 2. Petiole and base of the leaf blade. – 3. Stipule. – 4. Sepals. – 5. Male flower, sepals removed. – 6. Detail of the stamens and disk. – 7. Immature fruit. – 8. Mature fruit, in transverse section. – 9. Seed, ventral and lateral view. (1-6: Harris 5477; 7: Harris 5561; 8, 9: Remis 105-95). Drawing by R. Wise, Royal Botanic Garden Edinburgh (©), reproduced with permission from Harris & Wortley (2006).*
 
 ## Notes
 

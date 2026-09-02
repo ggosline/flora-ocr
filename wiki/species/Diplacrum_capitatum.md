@@ -34,6 +34,18 @@ Sierra Leone, Liberia, Ghana, Nigeria, Gabon and also in tropical America; rare 
 
 in swamps and mangroves; in Gabon, at 0–500 m altitude, up to 1200 m in East Africa. B: Haines & Lye (1983), Napper (1971, 1972). Bibliography
 
+## Figures
+
+![Diplacrum capitatum](../sources/Cyperaceae_vol44_liteparse/figures/fig_101_p0123.png)
+
+*Plate 77. Cyperus pumilus var. patens. A. Plant. Plate 78. Diplacrum capitatum. A. Plant. – B. – B. Apex of the blade. – C. Spikelet. – D. Part of the inflorescence. Section of the blade. – C. Inflorescence. – D. Fruit. – E. Rachis of the spikelet with glumes and young fruits. – F. Glume. – G. Flower. – H. Fruit.*
+
+![Diplacrum capitatum](../sources/Cyperaceae_vol44_liteparse/figures/fig_103_p0125.jpeg)
+
+*Figure 10. Akènes de a) Diplacrum capitatum ( J.J. de Wilde 9687 , Ogooué-Maritime, Gabon) et b)*
+
+![Diplacrum capitatum](../sources/Cyperaceae_vol44_liteparse/figures/fig_104_p0125.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

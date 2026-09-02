@@ -43,6 +43,12 @@ nom ossol, noum-ossol, noung-ossol (fang), mongoli-nyondje (eschira). Usage : Le
 
 Regularly, the flowers show a monstrosity, probably caused by galls, and produce numerous leafy structures at the center. The species shows remarkable morphological variation. The inflorescence can be open to compact and the sepals can be relatively small to quite broad. It seems to us that compact inflorescences often bear flowers with comparatively broad sepals. We hesitated to delimit these two forms as different taxa (subspecies?). This variation could also be due to the fact that the flowers are not bisexual, as indicated in the literature, but rather functionally male and female. This situation should be studied further. Bi: Bamps (1970a), Hutchinson et al. (1954), Pellegrin (1959), Spirlet (1966). Bibliography
 
+## Figures
+
+![Endodesmia calophylloides](../sources/Clusiaceae_vol45_liteparse/figures/fig_012_p0018.png)
+
+*Plate 3. Endodesmia calophylloides : 1. Flowering branch (× ½). – 2. Flower buds (× 5). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -41,6 +41,22 @@ Bibliography: Lewis et al. (2005), Polhill (1971c), Povydysh et al. (2010), Tous
 
 4. - Shrub or small tree up to 6 m in height; inflorescence 1–4(–12) cm
 
+## Key to the species
+
+1. - Hypanthium at angle close to 90° with the rest of the calyx .............................................. 2
+- Hypanthium extended towards the rest of the calyx without sharp angle .......................................... 4
+2. - Inflorescence with axis 1–3 cm in length, pubescent or hairy ; legume pubescent, with
+dry pericarp ................................................................................................................... 3
+- Inflorescence with axis 3–6(–10) cm in length, glabrous ; legume glabrous, with
+fleshy pericarp ....................................................................................................... A. oligophyllus
+3. - Pedicel ± 4 mm ; legume winged when dry ..................................................... A. talbotii
+- Pedicel 8–10 mm ; legume not winged ...................................................... A. vermeulenii
+4. - Shrub or small tree up to 6 m in height ; inflorescence 1–4(–12) cm in
+length ; petals pink or pinkish ; leaflets with ovate or rarely ovate-
+elliptic blade, (4–)5–9 cm in width ........................................................... A. boutiqueanus
+- Tree up to 35 m in height ; inflorescence 5–18 cm in length ; petals white or
+cream yellow ; leaflets with elliptic blade, 3–6 cm in width ......................... A. pynaertii
+
 ## Species in region
 
 | Species | Vol | Pages |

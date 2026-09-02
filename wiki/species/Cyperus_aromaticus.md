@@ -36,6 +36,14 @@ in seasonally humid grasslands and rocky habitats; in Gabon, around 900 m altitu
 
 B. Apex of blade. – C. Inflorescence. – D. Inflorescence. – E. Spikelet. – D. Glume. – E. Transverse section of an old flower with glume. – F. Inflorescence with fallen spikelets showing receptacles. – E, F. Spikelets. – G. Fruit. Original drawing by Richard W. Haines ©. – G. Fruit. Drawing by J.L. Castillo, reproduced with permission from Real Jardín Botánico, Madrid © based on Luceño et al. (2007). Taxonomic note: resembles C. melanospermus, but differs mainly in its fewer and shorter involucral bracts. It differs from C. erectus by its greater height, its inflorescence with several crowded spikes, and its glumes scabrous on the central nerve. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus aromaticus](../sources/Cyperaceae_vol44_liteparse/figures/fig_067_p0087.png)
+
+*Planche 51 . Cyperus aromaticus . A. Plante. – Planche 52 . Cyperus brevifolius . A. Plante. – B.*
+
+![Cyperus aromaticus](../sources/Cyperaceae_vol44_liteparse/figures/fig_068_p0087.png)
+
 ## Notes
 
 <!-- TODO:notes -->

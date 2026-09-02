@@ -42,6 +42,12 @@ Onzabili (nom pilote)
 
 This species is listed under the name A. micraster in Wilks & Issembé (2000). B: Van der Veken (1960a), Wilks & Issembé (2000). Bibliography
 
+## Figures
+
+![Antrocaryon nannanii](../sources/Anacardiaceae_vol50_liteparse/figures/fig_012_p0013.png)
+
+*Plate 2. Antrocaryon nannanii: 1. Male flowering branch (× ½). – 2. Part of leaflet, lower surface (× 10). – 3. Young male flower (× 8). – 4. Opened female flower (× 6). – 5. Female flower, longitudinal section (× 6). – 6. Stone, front view (× ½). – 7. Stone, top view (× ½). (1, 3 : Louis 11388 ; 2 : Toussaint 368 ; 4, 5 : Louis 10201 ; 6, 7 : Louis 4143 ). Drawing by M. Boutique, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

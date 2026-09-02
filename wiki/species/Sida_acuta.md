@@ -38,6 +38,12 @@ Savanna, new fallows, ruderal stations; in Gabon at 100–450 m altitude, elsewh
 
 sida aigu (fr.) ; broomweed, common fanpetals (angl.). Note taxonomique : Une espèce très variable, parfois divisée en sous-espèces. Au Gabon, on ne trouve que des formes qui appartiennent à la sous-espèce acuta . La sous-espèce carpinifolia (L.f.) Borss. Waalk. est mentionnée par Sosef et al. (2006), mais la différence avec la sous-espèce acuta n’est pas évidente. De plus, la sous-espèce carpinifolia n’est connue que des Mascareignes, de l’Asie et du Pacifique. B : Akoègninou et al. (2006), Berhaut (1979), Exell & Meeuse (1961), Haui B liographie man (1963), Verdcourt (2009)
 
+## Figures
+
+![Sida acuta](../sources/Malvaceae_vol45_liteparse/figures/fig_034_p0082.png)
+
+*Plate 23. Sida acuta subsp. acuta : 1. Flowering branch with a fruit. – 2. Calyx open showing the mericarps. – 3. Mericarp. Drawing by J. Berhaut & B. Jouet, reproduced from Berhaut (1979).*
+
 ## Notes
 
 <!-- TODO:notes -->

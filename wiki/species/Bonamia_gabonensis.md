@@ -34,6 +34,12 @@ Republic of Congo and Gabon where it is known from a single collection from the 
 
 primary or secondarized forest; in Gabon, at approximately 700 m altitude, elsewhere, around 400–500 m. B: Breteler (1992). ibliography
 
+## Figures
+
+![Bonamia gabonensis](../sources/Convolvulaceae_vol46_liteparse/figures/fig_012_p0014.png)
+
+*Plate 2. Bonamia gabonensis : 1. Flowering branch (× ⅔). – 2. Flower (× 3). – 3. Open corolla with stamens (× 3). – 4. Gynoecium (× 3). (1–4 : Breteler 6908 ). Drawing by Wil Wessel, Naturalis Biodiversity*
+
 ## Notes
 
 <!-- TODO:notes -->

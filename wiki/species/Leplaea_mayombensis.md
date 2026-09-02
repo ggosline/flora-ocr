@@ -37,6 +37,12 @@ understory of evergreen and semi-deciduous humid forest, orophilous forest group
 
 mposa, nkaya nkaya (Mayumbe). B : Koenen & de Wilde (2012), Staner (1941), Staner & Gilbert (1958), ibliographie Styles & White (1991)
 
+## Figures
+
+![Leplaea mayombensis](../sources/Meliaceae_vol47_liteparse/figures/fig_027_p0050.png)
+
+*Plate 13. Leplaea mayombensis : A. Branch with leaf and young inflorescences. – B. Detail of a leaflet, lower surface. – C. Flower in bud. – D. Ditto, longitudinal section. – E. Gynoecium, longitudinal section. – F. Ovary, transverse section. – G. Fruit with delayed dehiscence. – H. Seed, part of integument removed. – I. Superposed cotyledons with adaxial radicle. (A–C, F : J.J. de Wilde 7993 ; D,*
+
 ## Notes
 
 <!-- TODO:notes -->

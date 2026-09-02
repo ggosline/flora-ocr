@@ -37,6 +37,26 @@ Senegal, Guinea-Bissau, Guinea, Mali, Sierra Leone, Liberia, Côte d'Ivoire, Gha
 
 swampy savannas on Kalahari sands; in Gabon, at 400 m altitude, in East Africa, between 0 and 1860 m. B : Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_137_p0130.png)
+
+*Plate 46. Utricularia tortilis: 1. Entire plant (× 1). – 2. Base of the plant showing the stolons, rhizoids, leaves, utricles and the base of the peduncle (× 8). – 3. Leaf with utricle (× 8). – 4. Utricle (× 60). – 5. Appendage of the utricle (× 150). – 6. Bract (× 12). – 7. Bracteole (× 12). – 8, 9. Flowers, lateral view (× 8). – 10, 11. Calyx (× 12). – 12, 13. Upper lip of the corolla (× 8). – 14, 15. Lower lip of the corolla (× 8). – 16. Stamen (× 30). – 17. Ovary (× 30). – 18. Fruit, ventral view (× 10). – 19.*
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_138_p0131.jpeg)
+
+*Figure 17. Utricularia subulata : A-D. – Utricularia tortilis (Zambie, N de Mpika) : E, F. (Photos A-D par J.P. Vande weghe © ; E, F, par A. Fleischmann ©).*
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_139_p0131.jpeg)
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_140_p0131.jpeg)
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_141_p0131.jpeg)
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_142_p0131.jpeg)
+
+![Utricularia tortilis](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_143_p0131.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

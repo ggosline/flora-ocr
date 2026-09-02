@@ -28,6 +28,12 @@ Læsenera are shrubs or small trees, often of marshy soils, sometimes remarkable
 
 1' Leaves with 4-5 pairs of leaflets ..... 2. L. Walkeri.
 
+## Key to the species
+
+1. Leaves with 1 pair of leaflets..... 1. L. gabonensis.
+
+1' Leaves with 4-5 pairs of leaflets ..... 2. L. Walkeri.
+
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

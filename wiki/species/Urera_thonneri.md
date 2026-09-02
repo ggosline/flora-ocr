@@ -37,6 +37,12 @@ apparently not rising as high in the canopy as U. trinervis, generally in second
 
 Superficially comparable to U. trinervis, but differing in the number of lateral nerves above the basal ones (one pair in U. trinervis, 2 or 3(4) in U. thonneri) and in its 5-merous male flowers (4-merous in U. trinervis). B: Lebrun & Stork (2010), Letouzey (1968). Bibliography
 
+## Figures
+
+![Urera thonneri](../sources/Urticaceae_vol51_liteparse/figures/fig_052_p0088.png)
+
+*Plate 33. Urera thonneri : 1. Leafy stem (± × ½). – 2. Male inflorescence (± × ½). – 3. Detail of a male inflorescence in bud (× 4). – 4. Expanded male flower (× 10). – 5. Female inflorescence (± × ½). – 6. Ripening female inflorescence (± × ½). – 7. Detail of a female inflorescence (× 6). – 8. Detail of an infructescence with almost ripe achenes enclosed in perianths (× 4). – 9. Ripe achene (× 4). (1 : Letouzey 7734 ; 2–4 : Mildbraed 4075 ; 5–9 : J. & A. Raynal 9645 ; stem in 6 : J. & A. Raynal 10194 ). Drawing by Hélène Lamourdedieu, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,12 @@ quite rare and sub-endemic to Gabon and Equatorial Guinea; in Gabon, known from 
 
 dense humid forest, up to 650 m altitude. Flowers from December to February. b: Breteler (2003). Bibliography
 
+## Figures
+
+![Paropsia gabonica](../sources/Passifloraceae_vol46_liteparse/figures/fig_048_p0086.png)
+
+*Plate 34. Paropsia gabonica : 1. Branch with leaves and flowers. – 2. Flower. – 3. Flower with withered stamens and young fruit cut longitudinally. – 4. Idem, gynoecium removed to expose the crown. – 5. Stigma. – 6. Tubercle with hairs of the ovary. – 7. Young fruit. – 8. Seed. (1-4, 6 : Breteler et al. 15134 ; 5, 7 : Breteler et al. 14800 ; 8 : Mcpherson 16161 ). Drawing by Hans de Vries, made available to us by*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -32,6 +32,10 @@ Evergreen and semi-deciduous forests; between 50 and 1150 m altitude. B: de Wild
 
 <!-- caption: Plate 51. Begonia squamulosa: 1. Creeping root-bearing branch with young ♂ inflorescence (× 0.4). – 1a, 1b. Schematic transverse sections of the apex and base of the petiole, respectively of a diploid plant (1a) and tetraploid (1b). – 2. Part of another plant, with a narrowly elliptic leaf (× 0.4). – 3. ♂ Inflorescence (× 0.8). – 4. ♂ Flower (× 1.5). – 5, 6. Androecium front and back view (× 5). – 7, 8. Anther front and back view (× 8). – 9. Another anther, front view (× 8). – 10. -->
 
+## Figures
+
+![Begonia polygonoides](../sources/Begoniaceae_vol39_liteparse/figures/fig_066_p0109.png)
+
 ## Notes
 
 <!-- TODO:notes -->

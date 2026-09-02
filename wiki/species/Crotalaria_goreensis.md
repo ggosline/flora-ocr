@@ -41,6 +41,12 @@ Gambia pea (angl.). b : Polhill (1982, 2003), Wilczek (1953). ibliographie
 
 Leaf with stipules (× ½). – 10. Open flower (× 2.5). – 11. Pod, longitudinal section (× 2). (1–8: Ghesquiere 3590; 9–11: Bredo 2015). Drawing by M. Boutique, Meise Botanical Garden (©).
 
+## Figures
+
+![Crotalaria goreensis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_037_p0098.png)
+
+*Plate 29 : Crotalaria glauca : 1. Fertile plant (× ½). – 2. Open flower (× 2,5). – 3. Standard with basal appendages, inner surface (× 2). – 4. Wing, outer surface (× 2). – 5. Keel viewed in profile (× 2). – 6. Gynoecium, longitudinal section (× 4). – 7. Pod (× 1). – 8. Seed (× 3). – Crotalaria goreensis : 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

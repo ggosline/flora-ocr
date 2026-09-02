@@ -37,6 +37,14 @@ B: Léonard (1954b), Lewis et al. (2005), Milne-Redhead (1954, 1971), Mohlenbroc
 
 ............................................................................................................. Z. glochidiata DC.
 
+## Key to the species
+
+1. - Perennial herb; bracts lanceolate, 2–3 mm wide; calyx pubescent
+..................................................................................................... Z. latifolia var. latifolia
+- Generally annual herb; bracts elliptic to ovate, 3.5–7 mm wide;
+calyx glabrous, except the midvein of the lower sepal (to be sought in Gabon)
+............................................................................................................. Z. glochidiata DC.
+
 ## Species in region
 
 | Species | Vol | Pages |

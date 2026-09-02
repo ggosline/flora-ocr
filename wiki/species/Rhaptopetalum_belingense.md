@@ -47,7 +47,7 @@ Hallé N. 4125, Bélinga, 70 km NNE Makokou (v. fl., j. fr., juin).
 
 ![Rhaptopetalum belingense](../sources/Scytopetalaceae_vol24_paddle/figures/fig_046_p0171.png)
 
-*PL. 46. — Rhaptopetalum belingense R. Let. : 1, leafy branch × 4/9; 2, lower surface of limb × 6; 3, aspect of bark × 2/3; 4, young fruitescences × 2/3; 5, young fruit × 10/3; 6, long. section fl. × 20/3. (Hallé N. 4125). (Reprinted from Adansonia 17 (2) : tab. 2, 1977).*
+*PL. 46. — Rhaptopetalum belingense R. Let. : 1, leafy branch × 4/9; 2, lower surface of limb × 6; 3, aspect of bark × 2/3; 4, young fructescences × 2/3; 5, young fruit × 10/3; 6, long. section fl. × 20/3. (Hallé N. 4125). (Reprinted from Adansonia 17 (2) : tab. 2, 1977).*
 
 ## Notes
 

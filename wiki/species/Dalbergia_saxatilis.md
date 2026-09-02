@@ -38,6 +38,12 @@ secondary forests, forest margins and regrowth, sometimes on rocky soil, often c
 
 D. saxatilis is highly variable in the number, size and pubescence of the leaflets, as well as in the pubescence of the calyx (glabrous to sparsely pubescent). Forms that are very hairy, with leaflets often smaller and more numerous, are sometimes distinguished as var. isangiensis (Cronquist 1954). We have not recognized this variety here, as intermediates with the typical form are frequent. D. saxatilis is very close to D. fouilloyana and D. mayumbensis (see these species), as well as to D. lactea Vatke, a montane species present from Nigeria to East Africa, generally above 1000 m altitude. This latter species has been incorrectly reported from Gabon (Pellegrin 1949; Sosef et al. 2006) through confusion with forms of D. saxatilis with sparsely pubescent calyx. It differs from D. saxatilis in its calyx with very dense hairs completely concealing the epidermis, its inflorescences with flowers densely agglomerated at the apex of the branches, and its generally more robust dimensions. An excellent photograph of D. lactea appears in Fischer & Killmann (2008: 236). D. preussii Harms is a synonym of D. lactea (Hepper 1958) and not a variety of D. saxatilis, as Cronquist (1954) considers it. Bibliography: Adam (1971), Berhaut (1976), Cronquist (1954), Hawthorne & Jongkind (2006), Hepper (1958), Pellegrin (1949), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Dalbergia saxatilis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_056_p0152.png)
+
+*Plate 48: Dalbergia saxatilis: 1. Flowering branch (× ½). – 2. Flower (× 5). – 3. Standard cut in two longitudinally, internal surface (× 5). – 4. Wing, internal surface (× 5). – 5. Petal of the keel, internal surface (× 5). – 6. Stamens and gynoecium (× 5). – 7. Idem, one of the stamineal phalanges removed (× 5). – 8. Pod (× ½). (1–7: J. Louis 10619; 8: Toussaint 420). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

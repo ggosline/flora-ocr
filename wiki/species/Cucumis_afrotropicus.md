@@ -59,11 +59,11 @@ Endl et al. (2018), Jeffrey (1967), Keraudren (1967, 1975), Sebastian et al. (20
 
 ![Cucumis afrotropicus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_041_p0052.png)
 
-*Figure 2. Cucumis afrotropicus (Kenema, Sierra Leone, Schaefer 06/434): A. Feuille, B. Fruits. – Cucumis melo subsp. melo (cultivé, Freising, Allemagne): C. Aspect général. – Cucumis melo subsp. meloides (Sal Rei, Boa Vista, Cabo Verde, Schaefer 2016/250): D. Fruits mûrs. – Cucumis metuliferus (cultivé, Freising, Allemagne): E. Aspect général. – Citrullus lanatus subsp. lanatus (cultivé, Freising, Allemagne): F. Aspect général. Photos A-F par Hanno Schaefer.*
+*Figure 2. Cucumis afrotropicus (Kenema, Sierra Leone, Schaefer 06/434): A. Leaf, B. Fruits. – Cucumis melo subsp. melo (cultivated, Freising, Germany): C. General appearance. – Cucumis melo subsp. meloides (Sal Rei, Boa Vista, Cabo Verde, Schaefer 2016/250): D. Ripe fruits. – Cucumis metuliferus (cultivated, Freising, Germany): E. General appearance. – Citrullus lanatus subsp. lanatus (cultivated, Freising, Germany): F. General appearance. Photos A-F by Hanno Schaefer.*
 
 ![Cucumis afrotropicus](../sources/Cucurbitaceae_vol57_paddle/figures/fig_046_p0062.png)
 
-*Planche 18. Cucumis afrotropicus : 1. Tige florifère, à fleurs mâles et fruits (×3/4). – 2. Détail de la face inférieure du limbe foliaire (×8). – 3. Bouton floral mâle (×7). – 4. Fleur mâle, périanthe ouvert (×10). – 5. Étamine, vue extérieure (×12). – 6. Bouton floral femelle (×7). – 7. Fleur femelle, partie du périanthe enlevé (×14). – 8. Fruit (×1/3). – 9. Graines, vue de face et de profil (×2/2). (1-9: Jacques-Félix 4317). Dessin par C. Seghers, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 18. Cucumis afrotropicus : 1. Flowering stem, with male flowers and fruits (×3/4). – 2. Detail of the lower surface of the leaf limb (×8). – 3. Male flower bud (×7). – 4. Male flower, perianth open (×10). – 5. Stamen, exterior view (×12). – 6. Female flower bud (×7). – 7. Female flower, part of the perianth removed (×14). – 8. Fruit (×1/3). – 9. Seeds, front and side view (×2/2). (1-9: Jacques-Félix 4317). Drawing by C. Seghers, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

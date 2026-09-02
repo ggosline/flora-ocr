@@ -40,6 +40,12 @@ Other specimens examined: Dhetchuvi 1451 & 1464 (BRLU), Gabon, Ogooué-Lolo, Mak
 
 Same, lower surface. – 4. Flower. – 5. Section of a flower with petals removed, showing the stamens. – 6. Standard, internal surface. – 7. Wing, external surface. – 8. Keel petal, external surface. (1–8: Gesnot 7). Drawing by Antonio Fernandez, Meise Botanic Garden (©).
 
+## Figures
+
+![Millettia geerinckiana](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_096_p0263.png)
+
+*Plate 88: Millettia geerinckiana: 1. Flowering branchlet. – 2. Leaflet, detail of upper surface. – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -35,6 +35,12 @@ tree-fall gaps and margins, understory of primary and secondary forest, fallows;
 
 Standard, inner face (× 2). – 4. Wing, outer face (× 2). – 5. Keel (× 2). – 6. Androecium and gynoecium (× 2). – 7. Pod and seed (× 2). (1–6: Lebrun 6749; 7: Lebrun 6284). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).
 
+## Figures
+
+![Rhynchosia mannii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_121_p0340.png)
+
+*Plate 113: Rhynchosia mannii: 1. Fruiting branch (× ½). – 2. Calyx spread open, internal face (× 3). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

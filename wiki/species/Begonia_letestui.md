@@ -39,6 +39,10 @@ makulu (Inzèbi). B : de Wilde (2002). IBLIOGRAPHIE Androcée (× 8). – 6-8. A
 
 <!-- caption: Plate 47. Begonia longipetiolata: 1. Creeping rooting base with spent ♂ inflorescence and leaves (× 0.4). – 1a. Schematic cross-section of the apex of the petiole (× 2.5). – 2-6. Various leaf forms (× 0.4). – 7. Young ♂ inflorescence (× 0.8). – 8. Same, in flower (× 0.8). – 9, 10. -->
 
+## Figures
+
+![Begonia letestui](../sources/Begoniaceae_vol39_liteparse/figures/fig_062_p0101.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -43,6 +43,12 @@ Noronhia 15 Corolla open, with extrorse stamens. – 5. Calyx and gynoecium, one
 
 16 Frans J. BRETELER & Carel C.H. JONGKIND were included. In the taxonomy adopted here, these samples no longer form part of N. mannii; the sample from Gabon, White 886, represents N. nilotica. In the literature, the presence of N. mannii in West Africa (Sierra Leone to Equatorial Guinea) has been mentioned, but in the taxonomy adopted here, these collections belong to N. nilotica (sometimes under the name Linociera lingelsheimiana) and another species not yet described. B : Stearn (1980). Bibliography
 
+## Figures
+
+![Noronhia mannii](../sources/Oleaceae_vol51_liteparse/figures/fig_024_p0022.png)
+
+*Plate 7. Noronhia mannii: 1. Flowering branch. – 2. Flower, lateral view. – 3. Flower, upper view. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ regions of high and equitable rainfall, forest margins, river and lake edges, ra
 
 The pubescent vein on the standard is difficult to discern. b: Polhill (1982, 2003), Watt & Breyer-Brandwijk (1962), Wilczek (1953). Bibliography
 
+## Figures
+
+![Crotalaria axillaris](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_035_p0094.png)
+
+*Plate 27: Crotalaria axillaris: 1. Flowering and fruiting branch (× ½). – 2. Floral bud (× 1). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

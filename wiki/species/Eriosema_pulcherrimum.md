@@ -32,6 +32,12 @@ Ghana, Togo, Benin, Nigeria, Sudan, Gabon, Republic of the Congo and Democratic 
 
 savannas, sometimes as a pyrophyte; in Gabon at ± 450 m altitude, elsewhere at 250–680 m. Flowers in December. Bibliography: Ern (1984); Hauman (1954c), Hepper (1958), van der Maesen (2006a), Pellegrin (1949).
 
+## Figures
+
+![Eriosema pulcherrimum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_071_p0194.png)
+
+*Plate 63: Eriosema pulcherrimum: 1. Habit (× ½). – 2. Stipule (× 2). – 3. Calyx spread, inner surface (× 4). – 4. Standard, inner surface (× 3). – 5. Wing, outer surface (× 3). – 6. Half of keel, outer surface (× 3). – 7. Vexillar stamen (× 3). – 8. Staminal tube spread (× 3). – 9. Gynoecium (× 3). – 10. Pod (× 2). (1–9: Germain 807; 10: Devred 175). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

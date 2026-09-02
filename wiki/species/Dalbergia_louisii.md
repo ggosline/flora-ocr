@@ -37,6 +37,12 @@ Inundated forests of lake or river margins; in Gabon at 0–430 m altitude, else
 
 D. louisii is very close to D. ecastaphyllum, from which it differs especially in the fruits. In the flowering state, separation of the two species is sometimes difficult; the risk of confusion exists only on the coast, however, since only D. louisii is present in the interior. D. louisii is a very variable species. Gabonese specimens have rather small and almost smooth pods, and leaves with lower surface more or less pubescent; in certain specimens (described as D. ecastaphyllum var. cuprea Pellegr.), the pubescence forms a very dense golden layer on the lower surface. In the Democratic Republic of the Congo, there are forms with very tuberculate pods and almost glabrous leaves, represented notably by the type. The dimensions in parentheses in the above description concern non-Gabonese material. The fruits of D. louisii are sometimes deformed by galls, they are then shorter and thicker than normal fruits and usually show a hole on the side. b: Cronquist (1954). ibliography
 
+## Figures
+
+![Dalbergia louisii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_051_p0138.png)
+
+*Plate 43: Dalbergia louisii: 1. Flowering branch (× ½). – 2. Flower (× 4). – 3. Standard (cut in half), inner surface (× 5). – 4. Wing, inner surface (× 5). – 5. Keel petal, inner surface (× 5). – 6. Androecium (× 5). – 7. Gynoecium and androecium in longitudinal section (× 5). – 8. Pod seen in profile (× 1). – 9. Same, seen from face (× 1). (1–7: J. Louis 12933; 8–9: Germain 5032). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -30,6 +30,12 @@ ovate, of 18–41 × 10–18.5 mm, acute or slightly acuminate at the apex, dark
 
 Thollon’s strophanthus (angl.). B : Beentje (1982, 2008e, 2021). IBLIOGRAPHIE
 
+## Figures
+
+![Strophanthus thollonii](../sources/Apocynaceae_vol59_liteparse/figures/fig_209_p0236.jpeg)
+
+*Planche 109 . Strophanthus thollonii 5DPHDXÀRULIqUHîҀ±%RXWRQÀRUDOî±)OHXUFRXSH*
+
 ## Notes
 
 <!-- TODO:notes -->

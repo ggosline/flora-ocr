@@ -37,6 +37,12 @@ Savannas; in Gabon at low altitude, elsewhere at 0–2500 m
 
 C. alata, also known from tropical Asia, is the only species of Gentianaceae in Gabon with zygomorphic flowers. With its dichasial inflorescence it resembles species of the genus Centaurium Hill. Bibliography: Boutique (1972), Klackenberg (1990), van der Maesen (2006), Paiva & Nogueira (1990), Sileshi (2002), Struwe & Albert (2002), Taylor (1963), Thiv (2003)
 
+## Figures
+
+![Canscora alata](../sources/Gentianaceae_vol54_liteparse/figures/fig_056_p0070.png)
+
+*Plate 22 . Canscora alata : 1. Habit (× ½). – 2. Flower, calyx removed, corolla open. (× 3). – 3. Fertile stamens (× 25). – 4. Sterile stamens (× 25). – 5. Fruit, corolla removed (× 3). (1 : Bosser 18009 ; 2-5 :*
+
 ## Notes
 
 <!-- TODO:notes -->

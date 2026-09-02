@@ -24,6 +24,12 @@ Leaf (× 1). – 4. Flower (× 5). – 5. Corolla tube open, with stamens (× 5)
 
 mm, tomentose, ciliate; corolla 14.5–34 mm long, white, greenish-yellow in bud, tube ± as long as calyx, ± mm, often yellowish, with lobes ± as long as wide, ± mm; stamens with anthers ± mm; style 2–10 mm. Fruit globose, 2.6–15 cm in diameter, smooth or finely tuberculate and striate at apex; pulp yellow, sweet-sour. Seed angular, ± 0.8 mm in diameter. Distribution Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic and Democratic Republic of the Congo; in Gabon: Estuaire, Moyen-Ogooué or Ngounié, Nyanga, Ogooué, Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem Ecology Primary and secondary forest in Gabon, up to m altitude; elsewhere up to m. B: Beentje (2021), de Hoogh (1989). BIBLIOGRAPHY
 
+## Figures
+
+![Dictyophleba ochracea](../sources/Apocynaceae_vol59_liteparse/figures/fig_070_p0080.jpeg)
+
+*Planche 31 . Dictyophleba ochracea 5DPHDXÀRULIqUHî±-HXQHSRXVVHDYHFVWLSXOHVî±*
+
 ## Notes
 
 <!-- TODO:notes -->

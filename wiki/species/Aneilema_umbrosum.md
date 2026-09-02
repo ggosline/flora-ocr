@@ -42,6 +42,16 @@ evergreen forest, swamp forest, humid soils; in Gabon from 75 to 1000 m altitude
 
 A. umbrosum is an extremely variable species morphologically and in chromosome number (Faden 2012). Morton (1967) and Brenan (1968b) recognized two subspecies. In West Africa, intermediates between the two have been noted (Morton 1966). B : Brenan (1968b), van der Burg (2006), Faden (2012), Morton (1966, 1967), Vande weghe et al. (2016). subsp. ovato-oblongum (P.Beauv.) J.K.Morton J. Linn. Soc. Bot. 59 : 461 (1966). A. ovato-oblongum P.Beauv., Fl. Oware 2 : 72 (1818), pl. 104(1) (1819). A. umbrosum (Vahl) Kunth var. ovato-oblongum (P.Beauv.) Brenan, Kew Bull. 7 : 200 (1952). Like the preceding, but often less robust. Leaf: sheath and pseudpetiole with short pubescence of hooked hairs; lamina oval to oval-lanceolate, glabrous or finely ciliate, ± 2 times smaller than that of subspecies umbrosum. Inflorescence often less wide, less branched (4 to 6 branches) and with fewer cincinni (up to 8 per branch) and the branches with fewer bracteoles (approximately 4 to 6 per branch). Flower 6–7 mm in diameter, opening in the morning and closing around 14:00. Seed 1.5–1.7 mm in length
 
+## Figures
+
+![Aneilema umbrosum](../sources/Commelinaceae_vol55_liteparse/figures/fig_014_p0012.jpeg)
+
+*Figure 1 . Amischotolype scandens (Mts of Cristal, Gabon, Bidault et al. 3567 & 3417 ) : A. Flowering stem, B. Inflorescence and flower. – Aneilema beniniense (Lake Azingo, Gabon, Bidault et al. 1850 ) : C. Flowering stem. – Aneilema aequinoctiale (Durban, South Africa) : D. Flowering stems. – Aneilema umbrosum (Ivindo, Gabon, Bidault et al. 2123 ) : E. Flowering stem, (Kouilou, Rep. of Congo, Bidault et al. 3055 ) :*
+
+![Aneilema umbrosum](../sources/Commelinaceae_vol55_liteparse/figures/fig_018_p0021.png)
+
+*Plate 4 . Aneilema umbrosum subsp. umbrosum : 1. General appearance. – 2. Flower. – 3. Dehiscent fruit, with persistent sepals. – 4. Seed, dorsal view showing the embryotegium. – 5. Idem, ventral view showing the hilum. (1 : I.N.P.A. 48.584 ; 2-5 : Gentry 12021 ). Drawing by Cathy Pasquale, Royal Botanic Gardens, Kew (©), reproduced with permission from Faden (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

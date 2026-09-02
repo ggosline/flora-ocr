@@ -41,6 +41,15 @@ Bibliography: Breteler (1994a), Lewis et al. (2005), Pellegrin (1949).
 
 ................................................................................................................. L. brachycarpus
 
+## Key to the species
+
+1. - Corolla with subequal petals; anthers 4–6 mm long, much longer than the
+filaments; leaflets with glabrous blade, rarely with a few hairs beneath in the young
+state; legume glabrous ............................................................................................ L. capparideus
+- Corolla papilionaceous; anthers 2.5–3 mm long, much shorter than the
+filaments; leaflets with blade ± densely pubescent beneath; legume densely pilose
+................................................................................................................. L. brachycarpus
+
 ## Species in region
 
 | Species | Vol | Pages |

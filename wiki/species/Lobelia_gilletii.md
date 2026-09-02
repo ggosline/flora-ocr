@@ -35,6 +35,12 @@ humid forest; at 100–300 m altitude. Taxonomic note: In the Check-list of the 
 
 .203-3+20.3 1+13 7 95 5
 
+## Figures
+
+![Lobelia gilletii](../sources/Lobeliaceae_vol40_liteparse/figures/fig_039_p0047.png)
+
+![Lobelia gilletii](../sources/Lobeliaceae_vol40_liteparse/figures/fig_040_p0047.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

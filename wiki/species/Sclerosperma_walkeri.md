@@ -36,6 +36,16 @@ understory of humid tropical forests in swampy areas, periodically inundated or 
 
 manga (ivili) ; mbègho (mitsogo). Usage : Les feuilles sont utilisées pour la couverture des toits, servent à dresser des murs et à confection ner des nattes. B : van Valkenburg et al. (2007, 2008). i B liographie
 
+## Figures
+
+![Sclerosperma walkeri](../sources/Arecaceae_vol53_liteparse/figures/fig_029_p0040.jpeg)
+
+*Figure 5. Sclerosperma walkeri (near Lastoursville, Gabon): A. Habit and habitat, B. Leaflets. – Sclerosperma mannii (Otottomo, Cameroon): C. Spiciform and erect inflorescence arising from the base of leaves. – Podococcus acaulis (Ndjolé, Gabon): D. Habit, acaulous plant, E. Detail of the lower surface of a pubescent leaflet, F. Young spiciform and erect inflorescence arising from the base of leaves. – Podococcus barteri (Mondah, Gabon): G. Habit with stem, H. Fruits. (photos by Thomas L.P. Couvreur ©).*
+
+![Sclerosperma walkeri](../sources/Arecaceae_vol53_liteparse/figures/fig_042_p0068.png)
+
+*Plate 24 . Sclerosperma mannii : 1. Habit. – 2. Leaf. – 3. Infructescence. – 4. Fruit. – 5. Remainder of an infructescence. – Sclerosperma walkeri : 6. Habit. – 7. Leaf. – 8. Infructescence. – 9. Fruit. – 10. Idem, transverse section. – 11. Remainder of an infructescence. (1 : photo of van Valkenburg 3234 ; 2, 4, 5 : van*
+
 ## Notes
 
 <!-- TODO:notes -->

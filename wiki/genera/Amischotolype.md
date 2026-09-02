@@ -31,6 +31,12 @@ Bibliography
 
 1. - Habit creeping and ascending on tree trunks by means of cauline and aerial roots, up to 3 m in height; leaf blade narrowly elliptic-ovate to elliptic, generally 3 times longer than wide; peduncle up to 12 mm
 
+## Key to the species
+
+1. - Climbing and ascending habit on tree trunks by means of cauline and aerial roots, up to 3 m in height; leaf blade narrowly elliptic-ovate to elliptic, generally 3 times longer than wide; peduncle up to 12 mm
+..................................................................................................................... A. scandens
+- Decumbent or erect habit up to 1 m in height, without aerial roots; leaf blade broadly elliptic to elliptic, generally no more than 2 times longer than wide; peduncle up to 3 mm ............................................................... A. tenuis
+
 ## Species in region
 
 | Species | Vol | Pages |

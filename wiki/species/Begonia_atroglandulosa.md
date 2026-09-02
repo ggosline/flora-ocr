@@ -38,6 +38,12 @@ The species comprises two subspecies; in Gabon only the subspecies
 
 La sous-espèce tshelaensis Sosef, distincte par les tépales blancs, est répandue au Congo (Brazzaville) et en République Démocratique du Congo. B : Sosef (1992a), Sosef (1994). IBLIOGRAPHIE
 
+## Figures
+
+![Begonia atroglandulosa](../sources/Begoniaceae_vol39_liteparse/figures/fig_021_p0024.png)
+
+*Plate 6. Begonia atroglandulosa subsp. atroglandulosa : 1. Flowering plant (× 1). – 2. Detail of petiole with hairs and glands (× 10). – 3. Flower ♂ (× 2). – 4. Flower ♀ (× 2). – 5. Styles and stigmas (× 4). – 6. Detail of the indumentum of the wing of the ovary (× 10) ; – 7. Fruit (× 2). (1-6 : van Veldhuizen 968 ; 7 : Breteler 7727 ) . Drawing by W W , National Herbarium of the Netherlands – Wageningen*
+
 ## Notes
 
 <!-- TODO:notes -->

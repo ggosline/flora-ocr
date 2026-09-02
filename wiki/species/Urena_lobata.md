@@ -39,6 +39,12 @@ jute de Madagascar, paka (en culture) (fr.) ; aramina, Congo jute, urena (angl.)
 
 Berhaut (1979), Escobin & Widodo (2003), Bibliography Exell & Meeuse (1961), Hauman (1963), Raponda-Walker & Sillans (1961), Verdcourt (2009).
 
+## Figures
+
+![Urena lobata](../sources/Malvaceae_vol45_liteparse/figures/fig_039_p0092.png)
+
+*Plate 28. Urena lobata var. lobata : 1. Flowering branch with 2 fruits. – 2. Leaf. Drawing by J.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -42,6 +42,16 @@ pomme d’amour (fr.) ; cockroach berry, devil’s apple, love apple, soda-apple
 
 S. aculeatissimum is often confused with S. viarum Dunal, a species that belongs to the same clade (Levin et al. 2005) and which is also, originating from the New World and naturalized throughout the tropical regions of the Old World. They can be differentiated by (1) the morphology of the calyx lobes, the lobes being narrowly triangular to caudate in S. aculeatissimum whereas they are broadly triangular in S. viarum, (2) the type of pubescence, the branches of S. aculeatissimum presenting less uniform pubescence with larger glandular hairs than those of the branches of S. viarum, and (3) the morphology of the prickles, these being straight and of variable size in S. aculeatissimum, whereas they are often curved and of relatively comparable size in S. viarum. S. aculeatissimum is more common in Africa, whereas S. viarum is observed mainly in tropical Asia. B: Heine (1963), Nicholson (2008), Raponda-Walker & Sillans (1961), Vorontsova & Bibliography Knapp (2016)
 
+## Figures
+
+![Solanum aculeatissimum](../sources/Solanaceae_vol55_liteparse/figures/fig_054_p0108.jpeg)
+
+*Figure 7. Physalis angulata (Moyen-Ogooué, Gabon, Bidault et al. 1934 ) : A. General aspect and fruiting calyx, B. Flower. – Physalis peruviana (La Paz, Bolivia, Maldonado et al. 3081 ) : C. General aspect and flower. – Schwenckia americana (Ogooué-Maritime, Gabon, Bidault & Ikabanga 1707): D. Flower, E. Fruit. – Solanum terminale (Ogooué-Ivindo, Gabon, Bidault et al. 4488 ) : F. Inflorescence, G. Fructification. – Solanum aculeatissimum (Estuaire, Gabon, Bidault et al. 3627 ) : H. Inflorescence. – Solanum americanum (Ica, Pérou, Knapp s.n. ) : I. Inflorescence. – Solanum anguivi (Ngong, Kenya, Vorontsova et al. 100 ) : J. Inflorescence. – Solanum anomalum (Ogooué-Ivindo, Gabon, Texier 2255 ) : K. Fructifications. – Solanum dasyphyllum (Tegetero, Tanzania, Vorontsova et al. 151 ) : L. Inflorescence. – Solanum torvum (Nzérékoré, Guinea, Bidault & Diabaté 668 ) : M. Flower. (Photos A, B, D-H, M by Ehoarn Bidault (CC-*
+
+![Solanum aculeatissimum](../sources/Solanaceae_vol55_liteparse/figures/fig_057_p0115.jpeg)
+
+*Planche 34 . Solanum aculeatissimum . Dessin reproduit à partir de Jacquin (1781-1793).*
+
 ## Notes
 
 <!-- TODO:notes -->

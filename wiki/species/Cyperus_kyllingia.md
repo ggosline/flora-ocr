@@ -40,6 +40,14 @@ white kyllinga, whitehead spikesedge (angl.)
 
 B. Throat of a leaf sheath. – C. Inflorescence. – the stem. – C. Apex of the lamina. – D. Inflorescence. D. Spikelet. – E. Flowers subtended by the glumes. – E. Spikelet. – F. Spikelet with young fruit. – G. Flower. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©. Taxonomic note: recognized by its well-spaced stems, the relatively small whitish heads with long foliaceous involucral bracts and the winged keels of the glumes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997).
 
+## Figures
+
+![Cyperus kyllingia](../sources/Cyperaceae_vol44_liteparse/figures/fig_073_p0093.png)
+
+*Planche 55 . Cyperus erectus subsp. albescens. Planche 56 . Cyperus kyllingia. A. Plante. – B.*
+
+![Cyperus kyllingia](../sources/Cyperaceae_vol44_liteparse/figures/fig_076_p0095.png)
+
 ## Notes
 
 <!-- TODO:notes -->

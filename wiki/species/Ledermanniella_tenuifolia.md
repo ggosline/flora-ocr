@@ -32,6 +32,12 @@ South-eastern Nigeria, Gabon; in Gabon, known from the Ogooué, near Lastoursvil
 
 in Gabon at ± 225 m altitude. Bi: Cusset (1984), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Ledermanniella tenuifolia](../sources/Podostemaceae_vol51_liteparse/figures/fig_038_p0048.png)
+
+*Plate 20. Ledermanniella tenuifolia . 1. Plant in its habitat (× 3). – 2. Leaf (× 15). – 3. Flowering branch (× 10). – 4. Branch bearing a young fruit (× 10). – 5 & 6. Flowers inside the closed spathe (× 20). – 7. Anther (× 20). – 8. Pollen grain (× 100). – 9. Young capsule with persistent tepals and androecium (× 20). – 10. Section of the ovary (diagram). – 11. Dehiscent capsule (× 20). – 12. Valve of the capsule (× 20). Drawing by E. Margareth Stone , Royal Botanic Gardens, Kew, London (©), reproduced with permission from Taylor (1953).*
+
 ## Notes
 
 <!-- TODO:notes -->

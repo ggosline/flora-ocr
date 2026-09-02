@@ -37,6 +37,12 @@ Mature humid lowland forests; in Gabon from 10 to 530 m in altitude. Flowering f
 
 A poorly known species, apparently highly variable in its size, in the base of the limb more or less rounded to gradually narrowed, in the length of the peduncle, etc. It seems to us that plants with leaves having a rounded base of the limb and glabrous petiole are close to the type specimen. The more robust plants with limbs gradually narrowed at the base are more distant from the type and could even represent a mixture of several undescribed species, some of which could approach P. alboanthera. More herbarium material and field observations are necessary in order to resolve the taxonomic complex that this species represents. Although mentioned in the Flora of Equatorial Guinea (Cabezas et al. 2014), this species has not yet been recorded there. The specimen cited (Senterre & Ngomo 896) actually represents P. plicata. B: Bidault & van der Burg (2019), Brenan (1984), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Palisota bogneri](../sources/Commelinaceae_vol55_liteparse/figures/fig_031_p0058.png)
+
+*Plate 15. Palisota bogneri : 1. General appearance. – 2. Base of leaf. – 3. Flower. – 4. Fruit. Palisota satabiei : 5. General appearance. – 6. Base of leaf. – 7. Flower. (1-4: Bogner 1264; 5-7: Letouzey 8977). Drawing by Eleanor Catherine (©), reproduced with permission from Brenan (1984).*
+
 ## Notes
 
 <!-- TODO:notes -->

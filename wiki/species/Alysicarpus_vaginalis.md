@@ -45,6 +45,12 @@ alyce clover, buffalo clover, one-leaf clover (angl.)
 
 For Asia, Adema (2003) considers the species A. ovalifolius and A. vaginalis as conspecific, because of overlapping characters. Previously, A. ovalifolius was distinguished as an annual species, with loose inflorescence (flowers shorter than the internodes) and pod not partitioned, whereas A. vaginalis was perennial, with dense inflorescence (flowers longer than the internodes) and partitioned pod. If these differences are fairly clear, for example for Beninese material (van der Maesen 2006a), two entities could be discerned. However, in Gabon, and also in East Africa (Verdcourt, 1971b), the material is more variable. In conclusion, we corroborate Adema's view (2003). b : Adema (2003), Halim & Pengelly (1992), Léonard (1954a), Pellegrin (1949), Rapondaibliography Walker & Sillans (1961), Verdcourt (1971d)
 
+## Figures
+
+![Alysicarpus vaginalis](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_016_p0038.png)
+
+*Plate 8: Alysicarpus vaginalis: 1. Habit (× ½). – 2. Petiole, stipels and base of leaflet (× 10). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

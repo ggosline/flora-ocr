@@ -42,6 +42,12 @@ kibayu kivambaka
 
 The species is very similar to M. eetveldeana (Micheli) Hauman, from the Democratic Republic of the Congo, but M. drastica has pedicels shorter than the calyx and leaflets with blade bearing small translucent areas in the meshes of the venation (with light and strong magnification). b: Banzouzi et al. (2008), Hauman (1954a). Bibliography
 
+## Figures
+
+![Millettia drastica](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_101_p0291.png)
+
+*Plate 93 : Millettia drastica : 1. Flowering branch (× ½). – 2. Part of inflorescence (× 1.5). – 3. Part of rachis and short branchlet showing insertions of pedicels (× 5). – 4. Floral bud (× 1) – 5. Stan - dard, inner surface (× 2). – 6. Wing, inner surface (× 2). – 7. Keel, outer surface (× 2). – 8. Calyx in longitudinal section and androecium (× 2). – 9. Pod (× ½). (1, 4–8 : Louis 8463 ; 2 : Louis 8463 ; 3 : Louis 9702 ; 9 : Bequaert 2074 ). Drawing by J.M. Lerinckx (1, 3–9) and G. Esperant (2), Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

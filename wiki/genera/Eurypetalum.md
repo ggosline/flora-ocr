@@ -33,6 +33,16 @@ Type species: E. Tessmannii Harms.
 
 2'. Shortly acuminate..... 2. E. Tessmannii.
 
+## Key to the species
+
+1. A single pair of leaflets; petiole short, 3–9 mm; flowers with long pedicels of 15–20 mm..... E. unijugum.
+
+1'. Two pairs of leaflets; flowers with short pedicels.
+
+2. Longly acuminate acute..... 1. E. Batesii.
+
+2'. Shortly acuminate..... 2. E. Tessmannii.
+
 ## Species in region
 
 | Species | Vol | Pages |

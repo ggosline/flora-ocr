@@ -20,6 +20,12 @@ tags: [species, generated]
 
 Pycreus fluminalis (Ridl.) Troupin, Fl. Spermat. Parc Nat. Garamba 1 : 126 (1956).
 
+## Figures
+
+![Cyperus fluminalis](../sources/Cyperaceae_vol44_liteparse/figures/fig_095_p0117.png)
+
+*Planche 73 . Cyperus fluminalis . A. Plante. – B. Planche 74 . Cyperus lanceolatus . A. Plante. – B.*
+
 ## Also treated in vol 44
 
 **Pages**: 117-118 · **Source**: `sources/Cyperaceae_vol44_liteparse`

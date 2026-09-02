@@ -42,6 +42,16 @@ The timber is commonly used in building, parquetry and carpentry, as well as for
 
 15.358 5 .203- 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
 
+## Figures
+
+![Symphonia globulifera](../sources/Clusiaceae_vol45_liteparse/figures/fig_021_p0049.png)
+
+*Plate 12. Symphonia globulifera: 1. Flowering branch (× ⅔). – 2. Flower (× 2). – 3. Flower, petals removed (× 4). – 4. Flower, perianth and staminal tube removed (× 4). – 5. Idem, but showing the ovary in transverse section (× 4). – 6. Fruit (× 1.3). – 7. Seed (× 1.3). (1–5: Milne-Redhead 2948; 6, 7:*
+
+![Symphonia globulifera](../sources/Clusiaceae_vol45_liteparse/figures/fig_022_p0052.png)
+
+![Symphonia globulifera](../sources/Clusiaceae_vol45_liteparse/figures/fig_023_p0052.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

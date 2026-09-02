@@ -33,6 +33,12 @@ Widely distributed in tropical Africa and Madagascar, also in India and America;
 
 Weed of lawns, cultivated areas and other disturbed ground; in Gabon, at 0–150 m altitude, up to 1400 m elsewhere. Taxonomic note: easily identified by its small size and winged glumes with large teeth. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Cyperus metzii](../sources/Cyperaceae_vol44_liteparse/figures/fig_075_p0095.png)
+
+*Plate 57 . Cyperus melanospermus. A. Plant. – Plate 58 . Cyperus metzii. A. Plant. – B. Base of*
+
 ## Notes
 
 <!-- TODO:notes -->

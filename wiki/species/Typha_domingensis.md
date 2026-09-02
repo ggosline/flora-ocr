@@ -36,6 +36,12 @@ marshes, lake and river margins, in fresh or brackish waters reaching a depth of
 
 massette, masse-d’eau, roseau, roseau-quenouille (Fr), bulrush, southern cattail, Indian reedmace (En). Ntsówira (Nkomi) ; tsobiro (Ngowè). Note taxonomique : Hormis cette espèce, Raponda-Walker & Sillans (1961) ont signalé (dans le Fernan-Vaz) Typha latifolia L., mais il s’agit probablement d’une erreur d’identification, T. latifolia n’étant pas présent dans les zones tropicales humides. La citation de Raponda-Walker & Sillans l.c. est reprise par Burkill (2000). B : Burkill (2000), Hepper (1968c), Napper (1971), Riedl (2003). i B liographie
 
+## Figures
+
+![Typha domingensis](../sources/Typhaceae_vol40_liteparse/figures/fig_058_p0071.png)
+
+*Plate 17. Typha domingensis : 1. Part of the culm with mature male and immature female inflorescence (× ½). – 2. Sheath (× ½). – 3. Mature female spike (× ½). – 4. Androecium (× 7½). – 5. Bracteoles of the male flower (× 13). – 6. Female flower with ovary, bristles and bracteole (× 7½). – 7. Sterile female flower with pistillode, bristles and bracteole (× 7½). Drawing by Heather Wood (©), reproduced with permission from Napper (1971).*
+
 ## Notes
 
 <!-- TODO:notes -->

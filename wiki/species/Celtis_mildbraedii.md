@@ -42,6 +42,12 @@ celtis d’Afrique, faux wengé (fr.) ; red-fruited celtis, red-fruited white st
 
 C. soyauxii Engl. was reported for Gabon by Raponda-Walker & Sillans (1961). From their description, it is impossible to determine with certainty to which accepted species they refer, but it almost certainly belongs to this species (see also Oyen, 2008). B: Hutchinson et al. (1958), Letouzey (1968), Oyen (2008), Polhill (1966), Raponda-Walker & Sillans (1961), Sattarian (2006), Wilmot-Dear (1991)
 
+## Figures
+
+![Celtis mildbraedii](../sources/Ulmaceae_vol58_liteparse/figures/fig_097_p0123.png)
+
+*Plate 32 . Celtis adolfi-fridericii : 1. part of a fruiting branch (× 0,6). – Celtis mildbraedii : 2.*
+
 ## Notes
 
 <!-- TODO:notes -->

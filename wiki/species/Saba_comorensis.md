@@ -28,6 +28,16 @@ Le Testu 9203 ; 2-5 : P. Wit 2346 ). Drawing by Yuen Fang Tan, Naturalis Biodive
 
 Beentje (2021), Burkill (1985), Leeuwenberg & van Dilst (1989), Omino (2002), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Saba comorensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_182_p0214.jpeg)
+
+*Figure 11 . Rauvolfiovonitoria : A. Habit of the plant. B. Flowering stem. C. Flowers. – Saba comorensis : D. Inflorescence. – Strophanthus bullenianus : E, F : Flower, front and side views. – Strophanthus congensis : G : Flower. – Strophanthus gratus : H. Inflorescence. Photos by Carel Jongkind (A, Guinea ; B, Sino County, Liberia ; Bart Würsten ; C, Yangambi, Dem. Rep. Congo ; D. Lomami, Dem. Rep. Congo ; Xander van der Burgt ; E, F, P.N. Korup, Cameroon ; Ehoarn Bidault ; G, Fernan Vaz, Gabon and Nicolas*
+
+![Saba comorensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_191_p0217.jpeg)
+
+*Plate 99 . Saba comorensis 5DPHDXÀRULIqUHî±)OHXUî±/RQJLWXGLQDOVHFWLRQRIWKH part of the corolla tube comprising the stamens (× 6). – 4. Calyx and pistil (× 6). – 5. Ovary (× 6). (1 :*
+
 ## Notes
 
 <!-- TODO:notes -->

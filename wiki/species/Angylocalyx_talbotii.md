@@ -33,6 +33,12 @@ Nigeria, Cameroon and Gabon: in Gabon, known from the Ngounié, Nyanga, Ogooué-
 
 degraded forest, clearings; at 0–740 m altitude. b: Baker (1929), Povydysh et al. (2010), Yakovlev (1968). Bibliography
 
+## Figures
+
+![Angylocalyx talbotii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_019_p0047.png)
+
+*Plate 11: Angylocalyx oligophyllus: 1. Leaf. – 2, 3. Inflorescences. – 4. Calyx (receptacle with cupule). – 5. Standard. – 6. Wing. – 7. Keel. – 8. Infructescence. – 9. Seed. – Angylocalyx talbotii: 10.*
+
 ## Notes
 
 <!-- TODO:notes -->

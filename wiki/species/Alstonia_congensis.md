@@ -28,6 +28,12 @@ Ecology: confined to swampy zones or to shallow soils on rocks in Gabon up to 44
 
 bekuka (bakèlé) ; ékuc (fang) ; mofoga (mindumu) ; movuga (ivéa) ; mukuka HVKLUDEDYDUDPDEDYXQJXEDSXQXEDQ]DELPDVVDQJRQJXJDPSRQJZpJDORDQNRPLEDOXPEX orungu) ; oguga (apindji) ; okuka (mitsogho, bavovè). B : Beentje (2021), de Jong (1979), Raponda-Walker & Sillans (1961), Sidiyasa (1998), IBLIOGRAPHIE Wilks & Issembé (2000)
 
+## Figures
+
+![Alstonia congensis](../sources/Apocynaceae_vol59_liteparse/figures/fig_026_p0034.jpeg)
+
+*Plate 10 . Alstonia congensis 9HUWLFLOOHIRODLUHîҀ±6RPPHWGHODIHXLOOHîҀ±,QÀR - – 8. Seed (× 1). (1 : Leeuwenberg 11209 ; 2, 7-8 : Devred 2828 ; 3 : Jans 305 ; 4-6 : Ghesquière 3366 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

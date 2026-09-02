@@ -43,11 +43,11 @@ Quintanar et al. (2021a)
 
 ![Drypetes umbricola](../sources/Putranjivaceae_vol57_paddle/figures/fig_104_p0158.png)
 
-*Figure 11. Drypetes principum: A, Rameau feuillé; B, Jeunes fruits. – Drypetes stipularis: C, Boutons floraux femelles; D, Stipule; E, Fruits. – Drypetes umbricola: F, Tronc. – Drypetes verrucosa: G, Inflorescence mâle; H, Stipule; I, Fruits; J, Rameau feuillé. Photos A, B par N. Texier (Gabon, Texier 1177), C par D. Harris (Rép. Congo, Harris 8874), D, E par D. Harris (Rép. Congo, Harris 9316), F par D. Harris (Rép. Centrafricaine, Harris 8810), G par B. Sonké (Gabon, Sonké 6041), H-J par E. Bidault (Gabon, Bidault 1940).*
+*Figure 11. Drypetes principum: A, Leafy branch; B, Young fruits. – Drypetes stipularis: C, Female flower buds; D, Stipule; E, Fruits. – Drypetes umbricola: F, Trunk. – Drypetes verrucosa: G, Male inflorescence; H, Stipule; I, Fruits; J, Leafy branch. Photos A, B by N. Texier (Gabon, Texier 1177), C by D. Harris (Rep. Congo, Harris 8874), D, E by D. Harris (Rep. Congo, Harris 9316), F by D. Harris (Central African Rep., Harris 8810), G by B. Sonké (Gabon, Sonké 6041), H-J by E. Bidault (Gabon, Bidault 1940).*
 
 ![Drypetes umbricola](../sources/Putranjivaceae_vol57_paddle/figures/fig_106_p0164.png)
 
-*Planche 53. Drypetes umbricola: 1. Rameau fleuri femelle. – 2. Rameau fleuri mâle. – 3. Sommet d'un rameau avec stipules. – 4. Fleur femelle. – 5. Idem, sépales enlevés montrant le disque. – 6. Fleur mâle. – 7. Idem, sépales et une étamine enlevés, montrant le disque. (1, 4, 5 : J.M. Reitsma & B. Reitsma 1658 (NY); 2, 6, 7 : J.J.F.E. de Wilde 8491 (MA); 3 : D.J. Harris et al. 6597 (E)). Dessin par R. García Mora, Real Jardín Botánico de Madrid (©), reproduit avec permission.*
+*Plate 53. Drypetes umbricola: 1. Female flowering branch. – 2. Male flowering branch. – 3. Top of a branch with stipules. – 4. Female flower. – 5. Idem, sepals removed showing the disk. – 6. Male flower. – 7. Idem, sepals and one stamen removed, showing the disk. (1, 4, 5 : J.M. Reitsma & B. Reitsma 1658 (NY); 2, 6, 7 : J.J.F.E. de Wilde 8491 (MA); 3 : D.J. Harris et al. 6597 (E)). Drawing by R. García Mora, Royal Botanical Garden of Madrid (©), reproduced with permission.*
 
 ## Notes
 

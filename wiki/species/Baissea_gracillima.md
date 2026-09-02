@@ -42,6 +42,12 @@ primary and secondary forest; in Gabon below 500 m altitude, elsewhere distribut
 
 In the revision of the genus (van Dilst 1995), Blaxiflora was placed in synonymy with B multiflora and the distribution map of this species showed a very unusual pattern. Here the plants from the two disjunct zones on the map each represent again two different species, B multiflora s.s. to the west and B laxiflora to the east. There are clear characters to separate the two, as Huber had done previously. It is quite possible that there are still more cryptic species under these two names. The pilosiness of the ovary may be an index to the west of the range of B laxiflora and in western Gabon, the ovary is distinctly hairy at the apex (for example Arends et al. 583 & Le Testu 1738) and further east, the ovary is glabrous (for example Thollon 852 – holotype of Baissea thollonii Hua – and Le Testu 7141 & 7152). B: van Dilst (1995), Huber (1963), Stapf (1902). BIBLIOGRAPHY
 
+## Figures
+
+![Baissea gracillima](../sources/Apocynaceae_vol59_liteparse/figures/fig_043_p0053.jpeg)
+
+*Planche 19 . Baissea gracillima 5DPHDXÀRULIqUHîҀ±'pWDLOGHODIDFHLQIpULHXUHGXOLPEH*
+
 ## Notes
 
 <!-- TODO:notes -->

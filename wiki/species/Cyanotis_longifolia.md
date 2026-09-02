@@ -42,6 +42,12 @@ savannas, wooded savannas, rocky places; in Gabon from 380 to 600 m altitude, el
 
 The species is highly variable and several described varieties exist, particularly in West Africa. Plants of var. gracilis can easily be confused with C. caespitosa Kotschy & Peyr. The bracts of C. longifolia are much longer, that is 2 to 5(‒10) times the diameter of the capitulum, whereas those of C. caespitosa are scarcely or not longer than the capitulum. C. caespitosa with its often robust underground base gives the impression of being more perennial than C. longifolia whose basal leaf rosette bases are scarcely or not underground, and whose leaves are always present at flowering, whereas those of C. caespitosa generally appear later. Var. longifolia is known from Cameroon and Nigeria, and is distinguished from var. gracilis by its more robust habit. B: Brenan (1968b), van der Burg (2006), Faden (2012), Sosef et al. (2006), Vandeweghe et al. (2016)
 
+## Figures
+
+![Cyanotis longifolia](../sources/Commelinaceae_vol55_liteparse/figures/fig_022_p0034.png)
+
+*Plate 7. Cyanotis longifolia var. gracilis: 1. Apex of a stem with two inflorescences. – 2. In - florescence partial. – 3. Bracteole. – 4, 4'. Sepals. – 5. Petals. – 6. Stamen. – 7. Young fruit, transverse section. – 8, 8'. Fruits. – 9. Seed. (1-9: Vanden Berghen 7390). Drawing by C. Vanden Berghen,*
+
 ## Notes
 
 <!-- TODO:notes -->

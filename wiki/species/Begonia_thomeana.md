@@ -50,6 +50,10 @@ sect. FILICIBEGONIA A.DC. Prodr. 15, 1: 392 (1864). Terrestrial, herbaceous, per
 6. - Inflorescence with peduncle (5–)7–19 mm; bracts rounded at apex ............................................................................................................ B. macrocarpa
 - Inflorescence with peduncle 14–50 mm; bracts most often truncate and dentate at apex ............................................................................... B. auriculata
 
+## Figures
+
+![Begonia thomeana](../sources/Begoniaceae_vol39_liteparse/figures/fig_016_p0011.png)
+
 ## Notes
 
 <!-- TODO:notes -->

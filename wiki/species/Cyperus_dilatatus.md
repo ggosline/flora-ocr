@@ -34,6 +34,14 @@ in seasonally humid herbaceous grasslands; in Gabon, at sea level; up to 600 m e
 
 D. Spikelet. – E. Part of a spikelet. – F. Glume. – G. D. Spikelet. – E. Glume with flower. – F. Fruit with Flower. – H. Young fruit with persistent style. Drawing style. Original drawing by Richard W. Haines ©. original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Cyperus dilatatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_041_p0055.png)
+
+*Planche 29 . Cyperus digitatus subsp. auricomus. Planche 30 . Cyperus dilatatus. A. Plante. – B.*
+
+![Cyperus dilatatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_044_p0057.png)
+
 ## Notes
 
 <!-- TODO:notes -->

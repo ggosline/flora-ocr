@@ -42,6 +42,18 @@ humid forests, at medium altitudes
 
 Taxonomic note: M. africana var. filipes appears very different from the typical variety. Simpson (1992) therefore considered it as a distinct subspecies. However, as an intermediate plant has been found in Gabon, we will consider it only as a variety, as Raynal did. b: Raynal (1968a), Simpson (1992). ibliography
 
+## Figures
+
+![Mapania africana](../sources/Cyperaceae_vol44_liteparse/figures/fig_137_p0161.png)
+
+*Planche 105 . Lipocarpha filiformis . A. Plante. – B. Planche 106 . Mapania africana var. africana . A.*
+
+![Mapania africana](../sources/Cyperaceae_vol44_liteparse/figures/fig_139_p0165.png)
+
+*Planche 107 . Mapania africana var. filipes . A. Planche 108 . Mapania afro-orientalis . A. Plante.*
+
+![Mapania africana](../sources/Cyperaceae_vol44_liteparse/figures/fig_140_p0165.png)
+
 ## Notes
 
 <!-- TODO:notes -->

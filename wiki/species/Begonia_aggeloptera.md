@@ -30,6 +30,12 @@ endemic to Gabon in the Cristal Mountains; original station reduced; rare specie
 
 locally fairly common, along forest paths in secondarily disturbed forest; at 300–600 m elevation. B: Hallé (1972), Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia aggeloptera](../sources/Begoniaceae_vol39_liteparse/figures/fig_031_p0043.png)
+
+*Plate 16. Begonia aggeloptera : 1. Flowering plant (× 2). – 2. Stipule (× 6). – 3. Detail of the petiole (× 6). – 4. Bract (× 8). – 5. Androecium from the front (× 10). – 6. Styles and stigmas (× 8). – 7. Ripe fruit (× 4). – 8. Seed (× 25). (1-8 : N. Hallé 4817 ) . Drawing by N H and reproduced with his*
+
 ## Notes
 
 <!-- TODO:notes -->

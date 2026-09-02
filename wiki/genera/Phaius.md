@@ -33,6 +33,12 @@ This genus comprises approximately 85 paleotropical species, particularly from S
 
 1'. Spur rudimentary, 1 mm long, lateral lobes of the labellum scarcely visible, rounded ..... 2. P. occidentalis
 
+## Key to the species
+
+1. Spur prominent, 20-25 mm long, lateral lobes of the labellum prominent, triangular, acute ..... 1. P. ma
+
+1'. Spur rudimentary, 1 mm long, lateral lobes of the labellum very inconspicuous, rounded ..... 2. P. occidentalis
+
 ## Species in region
 
 | Species | Vol | Pages |

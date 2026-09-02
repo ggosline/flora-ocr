@@ -33,6 +33,12 @@ Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the C
 
 humid places, pools, ponds, lakes and rivers; in Gabon, at 50 m elevation, elsewhere, at 0–500 m. Taxonomic note: Recorded here for the first time in Gabon. B: Fischer (1999). ibliography
 
+## Figures
+
+![Bacopa egensis](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_045_p0108.png)
+
+*Plate 31. Bacopa egensis : A. Flowering stem. – B. Flower. – C. Corolla. - D. Corolla open and spread. – E.*
+
 ## Notes
 
 <!-- TODO:notes -->

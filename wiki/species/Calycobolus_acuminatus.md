@@ -31,6 +31,12 @@ Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola
 
 dense wet evergreen and semi-deciduous forest, gallery forest; in Gabon, at 0–600 m altitude, elsewhere up to 1050 m. B: Breteler (2013). ibliography
 
+## Figures
+
+![Calycobolus acuminatus](../sources/Convolvulaceae_vol46_liteparse/figures/fig_015_p0020.png)
+
+*Plate 5. Calycobolus acuminatus: 1. Flowering branch. – 2. Flower. – 3. Corolla open, with stamens and gynoecium. – 4. Anther. – 5. Fruit. – 6. Fruit, one sepal removed. (1–4: Breteler et al. 14842; 5: A.M.*
+
 ## Notes
 
 <!-- TODO:notes -->

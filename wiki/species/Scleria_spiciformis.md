@@ -35,6 +35,14 @@ a b
 
 swamps, humid savannas, herbaceous areas on sand and seepage areas on inselbergs and rocky outcrops; in Gabon, up to 750 m altitude. Taxonomic note: recognized by its very narrow and dense spiciform panicles, as well as by the curved male spikelets. b : Hooper & Napper (1972), Piérart (1953). Bibliography
 
+## Figures
+
+![Scleria spiciformis](../sources/Cyperaceae_vol44_liteparse/figures/fig_203_p0225.jpeg)
+
+*Figure 29. Akènes de a) Scleria spiciformis ( Ngok Banak 1955 , Ogooué-Ivindo, Gabon) et b) Scleria verrucosa ( Sosef 623 , Ogooué-Ivindo, Gabon). la Ngounié, le Moyen-Ogooué, l’Ogooué-Ivindo, l’Ogooué-Maritime et le Woleu-Ntem (18 récoltes).*
+
+![Scleria spiciformis](../sources/Cyperaceae_vol44_liteparse/figures/fig_204_p0225.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

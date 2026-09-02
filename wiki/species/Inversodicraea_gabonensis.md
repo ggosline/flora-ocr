@@ -27,6 +27,12 @@ Kew Bull. 72(4): 55, 2 (2016). Ledermanniella gabonensis C.Cusset, Bull. Mus. na
 
 Gabon and Republic of the Congo; in Gabon rare and known from a single collection from the Ngounié. Bi: Cheek et al. (2017), Cusset (1983), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Inversodicraea gabonensis](../sources/Podostemaceae_vol51_liteparse/figures/fig_029_p0033.png)
+
+*Plate 11. Inversodicraea gabonensis. 1. General view (× 5). – 2. Flower at anthesis (× 22). – 3. Seed (× 160). – Inversodicraea ledermannii. - 4. General view (× 4.5). – 5. Portion of branchlet (× 15). – 6. Flower in full bloom (× 9). Drawings by C. Cusset and F. Theureau, National Museum of Natural History, Paris (©), reproduced with permission from Cusset (1983, 1987a).*
+
 ## Notes
 
 <!-- TODO:notes -->

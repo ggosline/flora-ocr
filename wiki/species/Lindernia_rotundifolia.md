@@ -34,6 +34,12 @@ Gabon, Kenya, Tanzania, Madagascar, Sri Lanka, India, China, Central and South A
 
 swampy places in rainforest, marshes, edge of lakes and rivers, swampy ruderal places; in Gabon, at 5–130 m altitude, in Madagascar, up to 1250 m. Taxonomic note: Pantropical species of low altitudes and especially coastal regions, probably introduced to Central America. In the mountains of tropical Africa, the species is replaced by Lindernia rotundata (Pilger) Eb.Fisch. B: Fischer (1992, 1995), Fischer et al. (2008), Ghazanfar et al. (2008), Hepibliographie per (1963)
 
+## Figures
+
+![Lindernia rotundifolia](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_052_p0124.jpeg)
+
+*Plate 38. Lindernia rotundifolia : A. Entire plant. – B. Flower. – C. Calyx. – D. Corolla opened and spread. – E, F. Abaxial staminodes. – G. Adaxial stamens. (A–G: Fischer s.n. ). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -40,6 +40,12 @@ margins of secondary and primary forests, as well as inselbergs; in Gabon, from 
 
 The name Urera gabonensis was used as a nomen nudum on herbarium material from Cameroon and Gabon closely related to Urera cordifolia Engl., but differing by the characters indicated in the aforementioned diagnosis: young shoots with dense ferruginous pubescence, a suborbicular or obovate lamina (up to 20 × 12 cm), with a rounded-emarginate base, a rounded apex with a short triangular acumen and an entire or rarely crenulate margin in the upper half. Letouzey (1968: 95–98) decided not to validate the name Urera gabonensis for these specimens, suggesting that it would be imprudent to do so in a genus as poorly known as Urera, with few collections for many species and inflorescences and flowers always incompletely known. The present author considers that a validly published name must be available for the Flora of Gabon, even if its taxonomic status cannot be established with certainty. Urera gabonensis may represent a distinct species or a subspecies of U. cordifolia Engl. It seems more common in the southern part of the common range of the two species, whereas U. cordifolia seems more common in the northern part of the range, typically towards the northern limit of the forests of Cameroon. B: Letouzey (1968). Bibliography
 
+## Figures
+
+![Urera gabonensis](../sources/Urticaceae_vol51_liteparse/figures/fig_048_p0079.png)
+
+*Plate 29. Urera gabonensis : 1. Leafy stem (× ⅔). – Urera batesii : 2. Stem with leaves and female inflorescence (× ⅔). (1 : Le Testu 8905 ; 2 : Bates 364 ). Drawing by Hélène Lamourdedieu, National Museum of Natural History, Paris (©), reproduced with permission from Letouzey (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

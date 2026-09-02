@@ -39,6 +39,12 @@ restricted to dense humid lowland forests, not abundant; in Gabon and elsewhere,
 
 The wood has been used for construction. The bark has been used as a laxative and against stomach problems. Taxonomic note: This species shows extremely variable indumentum; from nearly glabrous to a dense layer of hairs. B: Aubréville (1959), Burkill (1997), Staner & Gilbert (1958), de Wilde (1968). Bibliography
 
+## Figures
+
+![Trichilia tessmannii](../sources/Meliaceae_vol47_liteparse/figures/fig_036_p0070.png)
+
+*Plate 22. Trichilia tessmannii : A. Floriferous branch, inflorescences functionally male (× 0,5). –*
+
 ## Notes
 
 <!-- TODO:notes -->

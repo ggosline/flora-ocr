@@ -39,6 +39,12 @@ apparently not naturalized on a large scale, but its sporadic presence in certai
 
 arbre à patates (fr.) ; Brazilian potato tree, potato tree (angl.). Bi : Bikandu et al. (2020), Edmonds (2012), Heine (1963), Nee (1999), Vorontsova & Knapp B liographie (2016)
 
+## Figures
+
+![Solanum wrightii](../sources/Solanaceae_vol55_liteparse/figures/fig_067_p0135.png)
+
+*Plate 44. Solanum wrightii: 1. Deeply lobed leaf with triangular lobes. – 2. Deeply lobed leaf with rounded lobes. – 3. Superficially lobed leaf. – 4. Inflorescence. – 5. Infructescence. – 6. Seed. – 7. Spreading stellate hair of lower surface of lamina. – 8. Spreading stellate hair of young branch. – 9. Simple hair of young branch. Scale bar: 4 cm (1–5), 2.5 mm (6), 0.6 mm (7), 1.2 mm (8, 9). (1, 4: Hall & Bockus 7091; 2: Coronado et al. 802; 3, 5-9: Wiakabu & Umba LAE70377). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

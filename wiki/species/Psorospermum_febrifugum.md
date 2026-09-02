@@ -43,6 +43,12 @@ ontcholè (Téké)
 
 Taxonomic note: In the past, plants with tomentose indumentum on the lower leaf surface, peduncles, pedicels and sepals were recognized as a distinct variety: P. febrifugum var. ferrugineum (Hook.f.) Keay & Milne-Redh. As already noted by Pellegrin (1959), we have also observed that among different collections these structures range from glabrous to hairy by small transitions and that, for example, young leaves may be tomentose below, while older ones on the same branch are glabrous; sometimes floral buds are tomentose, whereas on the same collection, persistent sepals under the fruits are glabrous. This is why we have not recognized this variety. B: Bamps (1966, 1970), Milne-Redhead (1953), Pellegrin (1959), Robson (1961).
 
+## Figures
+
+![Psorospermum febrifugum](../sources/Hypericaceae_vol42_liteparse/figures/fig_020_p0036.png)
+
+*Plate 10. Psorospermum febrifugum: 1. Flowering branch (× 2/3). – 2. Leaf, lower surface (× 14). – 3. Flower (× 8). – 4. Flower, one sepal and two petals separated (× 8). – 5. Sepal, inner surface (× 8). – 6. Petal, inner surface (× 8). – 7. Staminode (× 24). – 8. Stamen bundle (× 16). – 9. Gynoecium (× 16). – 10. Ovary, transverse and longitudinal section (× 16). – 11. Fruit (× 4). – 12. Calyx, stamen bundles and staminodes, berry separated (× 4). – 13. Seed, fresh state (× 4). – 14. Seed, dry state (× 4). (1–10: Brasnet 47; 11–14: Dawe 824; 15: Eggeling 180). Drawing by E.M.S. (©), reproduced with permission from Milne-Redhead (1953) l.c.*
+
 ## Notes
 
 <!-- TODO:notes -->

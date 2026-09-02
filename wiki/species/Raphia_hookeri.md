@@ -42,6 +42,16 @@ R. hookeri is a very widespread species with several varieties described by Oted
 
 Drawing by M. Grierson, reproduced with permission from Russel (1965).
 
+## Figures
+
+![Raphia hookeri](../sources/Arecaceae_vol53_liteparse/figures/fig_028_p0039.jpeg)
+
+*Figure 4. Raphia hookeri in periodically flooded zone (near Mouila): A. General habitat, B.*
+
+![Raphia hookeri](../sources/Arecaceae_vol53_liteparse/figures/fig_038_p0059.png)
+
+*Plate 20 . Raphia hookeri : 1. Part of the inflorescence with second-order flowering branch. – 2. Fruit.*
+
 ## Notes
 
 <!-- TODO:notes -->

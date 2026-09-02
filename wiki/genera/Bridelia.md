@@ -37,6 +37,36 @@ Bibliography: Breteler (2011b), Dressler (1996), Jablonsky (1915), Keay (1958), 
 
 3. - Small or large forest tree; blade most often distinctly acuminate, (1.5–)2–3(–3.5) times longer than broad, pubescent beneath with hairs most often appressed, with 8–16(–18) pairs of lateral veins; opened flower 2–3 mm in diameter ................................................................................................................... 4
 
+## Key to the species
+
+1. - Blade with lateral veins anastomosing in arcs submarginal to the margin .................... 2
+- Blade with lateral veins ± all confluent in a marginal vein ............ 3
+2. - Branchlets pubescent to glabrescent; blade pubescent below especially on the
+midvein and the 14–17(–21) pairs of lateral veins; bracts all narrowly
+triangular; female flower with pubescent pedicel and sepals 2–2.5 mm in
+length ............................................................................................... B. atroviridis
+- Branchlets and blade glabrous or with few scattered hairs; lateral veins
+(8–)9–12(–14) pairs; external bracts very broad, 1–1.5 × 2–3 mm, the
+internal ones narrowly triangular, ± 1 mm in length; female flower with
+glabrous pedicel and sepals 1–1.5 mm in length ............................................ B. wilksii
+3. - Small or large tree of the forest; blade most often distinctly acuminate, (1.5–)
+2–3(–3.5) times longer than wide, pubescent below with hairs most often
+appressed, with 8–16(–18) pairs of lateral veins; open flower 2–3 mm in
+diameter ................................................................................................................... 4
+- Small tree or shrub of the savanna or forest gallery; blade most often not or
+scarcely acuminate, 1.5–2(–2.5) times longer than wide, hirsute below, with
+hairs not appressed, with (7–)8–10(–11) pairs of lateral veins; open flower
+5–6 mm in diameter ............................................................................ B. ferruginea
+
+---
+
+4. - Blade (4.5–)8–10(–15) × (1.5–)2.5–4(–6) cm, with 8–12(–13) pairs of lateral
+veins, the tertiaries between the laterals scarcely visible below; female disk
+glabrous ......................................................................................................... B. grandis
+- Blade (5.5–)9–15(–18) × (2.5–)4–8 cm, with 12–16(–18) pairs of lateral veins,
+the tertiaries between the laterals well visible below; female disk puberulent ....
+................................................................................................................ B. micrantha
+
 ## Species in region
 
 | Species | Vol | Pages |

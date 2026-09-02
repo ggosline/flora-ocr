@@ -35,6 +35,12 @@ endemic to the Lopé Reserve, in the heart of Gabon; very localized and rare
 
 on vertical rocky walls along watercourses, in primary forest; at 500 m elevation. B: Sosef & Leal (2002). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia lopensis](../sources/Begoniaceae_vol39_liteparse/figures/fig_040_p0057.png)
+
+*Plate 25. Begonia lopensis : 1. Fruiting plant. – 2. Leaf, lower surface. – 3. Detail of the peltate base of the leaf. – 4. Flower ♂. – 5. Fruit. (1, 2, 3, 5 : Leal 184 ; 4 : Leal 173 ) . Drawing by W*
+
 ## Notes
 
 <!-- TODO:notes -->

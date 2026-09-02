@@ -37,6 +37,12 @@ Southern Nigeria to the Democratic Republic of the Congo; in Gabon, known from O
 
 terra firme forests; in Gabon at 60–480 m altitude, elsewhere at 350–800 m. Uses: The wood is yellow and homogeneous; in the Democratic Republic of the Congo, the wood is used in the construction of chairs. Bibliography: Povydysh et al. (2010), Raponda-Walker & Sillans (1961), Toussaint (1953), Yakovlev (1968)
 
+## Figures
+
+![Angylocalyx pynaertii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_020_p0048.png)
+
+*Plate 12: Angylocalyx pynaertii: 1. Branch tip (× ½). – 2. Inflorescences (× ½). – 3. Flower open (× 2). – 4. Flower, longitudinal section (× 2). – 5. Standard, internal face (× 2). – 6. Wing, external face (× 2). – 7. Keel petal, external face (× 2). – 8. Pod (× ½). (1, 3-7: Louis 6481; 2: Louis 7825; 8: Louis 6049). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

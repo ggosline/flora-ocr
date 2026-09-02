@@ -30,6 +30,12 @@ endemic to the Doudou Mountains, south-western Gabon; original stations reduced;
 
 on vertical rocky walls, mossy and sometimes relatively dry, in submontane primary forest; 600–700 m elevation. B: Sosef (1992a), Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia dewildei](../sources/Begoniaceae_vol39_liteparse/figures/fig_034_p0048.png)
+
+*Plate 19. Begonia dewildei: 1. Fertile plants (× 0,5). – 2, 3. Habit of a plant respectively front view and side view (× 0,2). – 4. Male flower (× 1,3). – 5, 6, 7. Androecium front view, back view and side view (× 4,5). – 8. Stamens of the same androecium, front view (× 9). – 9. Idem, back view. – 10. Idem, side view. – 11. Female flower (× 1,3). – 12. Styles and stigmas (× 9). – 13. Stigmas, top view (× 9). – 14-16. Stigma front view, back view and side view (× 17). – 17. Fruit (× 2,5). – 18. Seed (× 45). (1-18:*
+
 ## Notes
 
 <!-- TODO:notes -->

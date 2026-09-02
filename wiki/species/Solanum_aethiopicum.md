@@ -41,6 +41,12 @@ aubergine africaine, aubergine de village, aubergine écarlate, djakattou, gilo,
 
 In general, this species is divided into four groups of cultivars. A first group ('Aculeatum') corresponds to cultivars common in botanical gardens of Europe and Asia (from which they probably originate); densely spiny and pubescent plants present very bitter fruits. The three other groups all originate from sub-Saharan Africa where their leaves and/or fruits are consumed. The 'Gilo' group, the most common, is the one that presents the greatest diversity of fruits (in terms of shape, size and color); individuals are most often pubescent. The 'Kumba' group is cultivated for its leaves and fruits and is found especially in the semi-arid zones of western and northwestern Africa; plants are glabrous. Finally, the 'Schum' group comprises individuals whose only leaves (glabrous) are consumed; cultivated especially in western and central sub-Saharan Africa, this group presents plants with small bitter fruits rarely consumed. The specimens observed for Gabon belong to the 'Gilo' group or the 'Schum' group. Bibliography: Aubriot & Daunay (2019), Lester & Seck (2004), Page et al. (2019), Raponda-Walker & Sillans (1961), Schippers (2000), Vorontsova et al. (2013), Vorontsova & Knapp (2016)
 
+## Figures
+
+![Solanum aethiopicum](../sources/Solanaceae_vol55_liteparse/figures/fig_058_p0117.png)
+
+*Plate 35 . Solanum aethiopicum : 1. Flowering stem (× ⅔). – 2. Detail of the hairiness of the lower surface of the calyx with simple and stellate hairs (× 20). – 3. Flower (× 2). – 4. Idem, longitudinal section (× 2). – 5. Fruit (× ⅔). – 6. Idem, transverse section (× ⅔). – 7, 8 Fruits (× 1). – 9. Seed (× 4). – 10. Idem, longitudinal section (× 4). (1, 2 : Westphal & Westphal-Stevens 9634 ; 3, 4 : Westphal & Westphal-Stevens 9141 ; 5, 6, 9, 10 : Westphal & Westphal-Stevens 9426 ; 7 : Westphal & Westphal-Stevens 9829 ; 8 : Westphal & Westphal-Stevens 9418 ). Drawing by Wil Wessel, Naturalis Biodiversity Center (©), reproduced with permission from Stevels (1990).*
+
 ## Notes
 
 <!-- TODO:notes -->

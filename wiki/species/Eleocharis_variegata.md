@@ -35,6 +35,14 @@ in humid zones of swamps such as pools and muddy holes; in Gabon, around 100–3
 
 Stem section. – C. Spikelet. – D. Glume. – E. – B. Base of the inflorescence showing bract, Fruit with style, filaments and perianth segments. prophyll and base of the peduncle. – C. Spikelet. – D. Original drawing by Richard W. Haines ©. Glume. – E. Stamens. – F. Young fruit with persistent filament and style. – G. Fruit. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Eleocharis variegata](../sources/Cyperaceae_vol44_liteparse/figures/fig_113_p0137.png)
+
+*Planche 87 . Eleocharis variegata . A. Plante. – B. Planche 88 . Fimbristylis bisumbellata . A. Plante.*
+
+![Eleocharis variegata](../sources/Cyperaceae_vol44_liteparse/figures/fig_114_p0137.png)
+
 ## Notes
 
 <!-- TODO:notes -->

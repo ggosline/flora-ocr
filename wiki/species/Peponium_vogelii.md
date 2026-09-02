@@ -50,11 +50,11 @@ The Breteler collection 6422 (WAG), Gabon, km 5 Moanda to Franceville, 1970, app
 
 ![Peponium vogelii](../sources/Cucurbitaceae_vol57_paddle/figures/fig_067_p0099.png)
 
-*Planche 32. Peponium vogelii: 1. Tige florifère (× ½). – 2. Inflorescence mâle (× ½). – 3. Fleur mâle (× 1). – 4. Androcée (× 4). – 5. Fleur femelle (× 1). – 6. Fruit (× ½). – 7. Idem, coupe longitudinale (× 1). – 8. Graine, vue de profil et de face (× 4). (1: Drummond & Hemsley 3440; 2: Braun 688; 3-5: Drummond & Hemsley 1100; 6: Drummond & Hemsley 1343; 7: Chancellor 240; 8: Verdcourt 2259). Dessin par E. Margaret Stone, Royal Botanic Gardens, Kew, reproduit avec permission à partir de Jeffrey (1967).*
+*Plate 32. Peponium vogelii: 1. Flowering stem (× ½). – 2. Male inflorescence (× ½). – 3. Male flower (× 1). – 4. Androecium (× 4). – 5. Female flower (× 1). – 6. Fruit (× ½). – 7. Idem, longitudinal section (× 1). – 8. Seed, lateral and front view (× 4). (1: Drummond & Hemsley 3440; 2: Braun 688; 3-5: Drummond & Hemsley 1100; 6: Drummond & Hemsley 1343; 7: Chancellor 240; 8: Verdcourt 2259). Drawing by E. Margaret Stone, Royal Botanic Gardens, Kew, reproduced with permission from Jeffrey (1967).*
 
 ![Peponium vogelii](../sources/Cucurbitaceae_vol57_paddle/figures/fig_068_p0100.png)
 
-*Figure 6. Peponium vogelii (Usambara, Tanzania): A. Tige florifère mâle. – Ruthalicia longipes (Kenema, Sierra Leone): B. Tige florifère mâle. – Telfairia occidentalis (Rhoko, Cross River State, Nigeria): C. Fleur mâle, D. Fruit mûr et bouton floral femelle. – Trichosanthes cucumerina var. anguina (Rhoko, Cross River State, Nigeria): E. Fleur mâle. Photos A-E par Hanno Schaefer.*
+*Figure 6. Peponium vogelii (Usambara, Tanzania): A. Male flowering stem. – Ruthalicia longipes (Kenema, Sierra Leone): B. Male flowering stem. – Telfairia occidentalis (Rhoko, Cross River State, Nigeria): C. Male flower, D. Mature fruit and female flower bud. – Trichosanthes cucumerina var. anguina (Rhoko, Cross River State, Nigeria): E. Male flower. Photos A-E by Hanno Schaefer.*
 
 ## Notes
 

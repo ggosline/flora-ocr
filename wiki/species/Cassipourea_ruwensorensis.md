@@ -33,6 +33,12 @@ Central African Republic, Gabon, Democratic Republic of Congo, Rwanda, Burundi, 
 
 Dry forests, gallery forests, savannas, dense humid and swampy forests; at 640–860 m altitude. Flower buds and ripe fruits in July. Uses: Elsewhere, the wood is used in carpentry. Bibliography: Breteler (2008), Lewis (1956), Liben (1987).
 
+## Figures
+
+![Cassipourea ruwensorensis](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_054_p0108.png)
+
+*Plate 36. Cassipourea ruwensorensis : 1. Flowering branch (× ⅔). – 2. Leaf, lower surface (× ⅔). – 3. Young fruit, longitudinal section (× 8). – 4. Young fruit (× 4). – 5. Young fruit, stigma removed (× 4). (1, 2, 4 : Drummond & Hemsley 4571 ; 3 : Eggeling 3171 ; 5 : Dale 3131 ). Drawing by Margareth Stone ©, reproduced with permission from Lewis (1956).*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ Dense humid forest, often in open localities such as clearings and road margins,
 
 Brenan (1960) distinguished var. glabrisepala (De Wild.) Brenan as having glabrous sepals and pedicel, whereas var. imperforata shows glandular pubescence on these parts. Some specimens collected in Gabon have glabrous sepals and pedicels, others with substantial glandular pubescence, but we have also observed intermediates. We therefore choose not to distinguish between the two varieties. A complete revision of the genus on an African scale remains necessary, and could lead to the synonymization of var. glabrisepala. B: Brenan (1960, 1968b), Cabezas et al. (2014), Ensermu & Faden (1997), Faden (2012), Bibliography Morton (1967), Raponda-Walker & Sillans (1961), Sosef et al. (2006), Vandeweghe et al. (2016)
 
+## Figures
+
+![Stanfieldiella imperforata](../sources/Commelinaceae_vol55_liteparse/figures/fig_046_p0090.png)
+
+*Plate 27 . Stanfieldiella imperforata : 1. General aspect (× ½). – 2. Spread flower (× 5). – 3. Stamen (× 12). – 4. Ovary, transverse section (× 30). – 5. Dehiscent fruit (× 3). – 6. Seed showing the embryotège (× 13). (1-6 : Bequaert 3096 ). Drawing by A. Cleuter, Botanic Garden of Meise (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

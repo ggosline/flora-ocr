@@ -29,6 +29,12 @@ The genus comprises a very large number of species in tropical America (100–12
 
 S. madagascariensis.
 
+## Key to the species
+
+1. Leaflets ovate, acuminate ..... 1. S. fistuloides.
+1'. Leaflets elliptic-oblong, with rounded apex and slightly emarginate..
+S. madagascariensis.
+
 ## Species in region
 
 | Species | Vol | Pages |

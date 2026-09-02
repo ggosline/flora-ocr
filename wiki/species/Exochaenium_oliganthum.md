@@ -37,6 +37,16 @@ Primary forests; in Gabon between 0 and 200 m altitude, elsewhere up to 1250 m
 
 E. oliganthum, studied in detail by Raynal (1967b), is a very particular species by the absence of chlorophyll, heterostyly and basal cleistogamous flowers. B: Boutique (1972), Kissling (2012), Raynal (1967b), Sileshi (2002). Bibliography
 
+## Figures
+
+![Exochaenium oliganthum](../sources/Gentianaceae_vol54_liteparse/figures/fig_059_p0076.png)
+
+*Plate 25 . Exochaenium oliganthum : 1. Habit showing subterranean and aerial inflorescence (× 3). – 2.*
+
+![Exochaenium oliganthum](../sources/Gentianaceae_vol54_liteparse/figures/fig_060_p0078.jpeg)
+
+*Figure 6. Exochaenium oliganthum (Guinea, Bel-Air, Bidault 2380 ) : A, Inflorescence. – Faroa acaulis (Democratic Republic of the Congo, Haut Katanga, Schaijes 4342 ) : B, Plant ; C, Inflorescence. – Neurotheca corymbosa (Gabon, PN de Loango) : D, Landscape ; E, Plant in flower. (Photo A by E. Bidault (©) ;*
+
 ## Notes
 
 <!-- TODO:notes -->

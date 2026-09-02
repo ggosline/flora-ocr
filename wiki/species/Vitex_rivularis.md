@@ -35,6 +35,12 @@ Dense forests; at 0–1200 m altitude
 
 This represents the first record of this species for the Gabon flora. The type of V. longipetiolata Gürke falls within the variation of V. rivularis Gürke. Bibliography: Aubréville (1956), Hawthorne & Jongkind (2006), Huber et al. (1963), Lisowski (2009), Meerts (2020a, 2020b)
 
+## Figures
+
+![Vitex rivularis](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_091_p0112.png)
+
+*Plate 30 . Vitex oxycuspis : 1. Leaflet. – Vitex rivularis : 2. Leaf and inflorescence. – 3. Flower. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

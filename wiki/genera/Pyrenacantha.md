@@ -61,6 +61,54 @@ This genus is African, Madagascan and Asian. Most of the 25 recognized species a
 
 9'. Bracts of ♂ flowers at the base or middle of the pedicel; petals sparingly pubescent; prickles curved at the apex on the internal face of the endocarp ..... 8. P. lebrunii.
 
+## Key to the species
+
+1. Leaves palmatinerved; inflorescences cauline; hydathodes 5 mm from the leaf margin ..... 1. P. klaineana.
+
+2. Limb sparsely pubescent or tomentose; primary and secondary nerves pubescent ___ var. klaineana.
+
+2'. Limb densely and very finely pubescent or tomentose; primary and secondary nerves glabrous ..... var. congolana.
+
+1'. Leaves penninerved; inflorescences axillary; hydathodes absent or on the leaf margin.
+
+3. Limb glabrous or very sparsely pubescent.
+
+4. Base rounded or very weakly attenuate; limb 8–14 × 3.5–7 cm.
+
+2. P. glabrescens.
+
+4'. Base obtuse or shortly auriculate; limb large: 20–23 × 9–10 cm ..... 3. P. grandifolia.
+
+3'. Limb pubescent beneath.
+
+5. Hydathodes present.
+
+6. Hairs appressed.
+
+7. Hydathodes globose, slightly prominent; midvein glabrous above; pubescence of the lower face rather dense; stem glabrous; flowers sessile; prickles hooked on the inner face of the endocarp .....
+
+…… 4. P. vogeliana.
+
+7'. Hydathodes pyriform, very prominent; midvein pubescent above; pubescence of the lower face very dense; stem pubescent; male flowers pedicellate; prickles straight on the inner face of the endocarp ..... 5. P. acuminata.
+
+6'. Hairs not appressed, erect and ‡ interlocking.
+
+8. Hydathodes globose, not erect; male inflorescences in dense spike; female inflorescences in glomerules ..... 6. P. staudtii.
+
+8'. Hydathodes pyriform; male inflorescences in loose multiflowered racemes; female inflorescences in racemes.
+
+9. Bracts of male flowers at the apex of the pedicel; petals densely pubescent; prickles straight or forked on the inner face of the endocarp ..... 7. P. sylvestris.
+
+9'. Bracts of male flowers at the base or middle of the pedicel; petals sparsely pubescent; prickles curved at the apex on the inner face of the endocarp ..... 8. P. lebrunii.
+
+---
+
+5'. Hydathodes absent.
+
+10. Leaf base attenuate or weakly cuneate; stem glabrous; limb elliptic; hairs of the lower face short ..... 9. P. longirostrata.
+
+10'. Leaf base cordate; stem pubescent; hairs of the lower face of the limb very dense ..... 10. P. cordicula.
+
 ## Species in region
 
 | Species | Vol | Pages |

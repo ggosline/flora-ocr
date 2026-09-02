@@ -38,6 +38,12 @@ The species would be sought for its fruits and also to treat stomach ailments. B
 
 Flower, without coronas (× 2). – 7. Apex of calyx lobes with glands (× 5). – 8. Fragment of the first staminodial corona, external face (× 2). – 9. Same, internal face (× 2). – 10. Segment of the second staminodial corona, external face (× 2). – 11. Same, in profile (× 2). – 12. Fragment of the third staminodial corona, external face (× 2). – 13. Detail of the staminal corona, external face (× 3). – 14. Same, internal face (× 3). – 15. Fruit (× ½). – 16. Seed (× ½). (1–13: J. Dubois 302; 14, 15: J. Dubois 201). Drawing by D. Leyniers, reproduced with permission from the National Botanic Garden of Belgium (©) from Liben (1971b).
 
+## Figures
+
+![Napoleonaea vogelii](../sources/Lecythidaceae_vol42_liteparse/figures/fig_025_p0056.png)
+
+*Plate 14. Napoleonaea vogelii : 1. Flowering branch (× ½). – 2. Flower bud (× 1). – 3. Flower spread out (× 1). – 4. Flower, longitudinal section (× 3). – 5. Detail of the staminal crown (× 3). – 6.*
+
 ## Notes
 
 <!-- TODO:notes -->

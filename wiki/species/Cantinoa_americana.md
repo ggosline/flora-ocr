@@ -39,6 +39,16 @@ lake margins, riverbanks, floodplains, cultivated lands; altitude in Gabon unkno
 
 dikinga (éshira) ; ngwè-yi-kagange (nkomi). Usage : Les Éshira utilisent la cendre dans des frictions contre la gale. La plante est parfois cultivée pour ses graines comestibles. Bi : Burkill (1995), Morton (1963), Paton et al. (2013), Raponda-Walker & Sillans (1961). B liographie
 
+## Figures
+
+![Cantinoa americana](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_020_p0016.jpeg)
+
+*Figure 1 . Achyrospermum oblongifolium : A. Inflorescence. – Cantinoa americana : B. Inflorescence. – Clerodendrum bipindense : C. Inflorescence. – Clerodendrum capitatum : D. Inflorescence. – Clerodendrum excavatum : E. Flowering stem ; F. Inflorescence, view from below. Photos by Ehoarn Bidault (A :*
+
+![Cantinoa americana](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_029_p0023.png)
+
+*Plate 4 . Cantinoa americana : 1. Seedlings. – 2. Flowering stem. – 3. Section of the stem. – 4. Detail of the leaf, upper surface. – 5. Idem, lower surface. – 6. Bract. – 7. Flower. – 8. Achene, ventral face. – 9. Idem, dorsal face. – 10. Idem, transverse section. (1-10 : Le Bourgeois 607 ). Drawing by François*
+
 ## Notes
 
 <!-- TODO:notes -->

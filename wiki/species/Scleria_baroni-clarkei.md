@@ -33,6 +33,12 @@ known only from Gabon and the Democratic Republic of the Congo; very rare in Gab
 
 wooded areas; in Gabon, probably at 500–900 m altitude. Taxonomic note: very close to S. induta, but distinguished by its disc having a prominent narrow ring immediately below the achene. Also close to S. naumanniana and S. iostephana, but these 2 species have a clearly trilobed hypogynium. b : De Wildeman (1927a, 1927b), Nelmes (1958), Piérart (1953). ibliography
 
+## Figures
+
+![Scleria baroni-clarkei](../sources/Cyperaceae_vol44_liteparse/figures/fig_185_p0211.jpeg)
+
+*Figure 25. Akènes de a) Scleria baroni-clarkei ( Bos 10687 , Ogooué-Ivindo, Gabon) et b) Scleria goosensii ( Sosef 1890 , Woleu-Ntem, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

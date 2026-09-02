@@ -37,6 +37,12 @@ Herbaceous savannas and wooded savannas, fallows, water margins; in Gabon at 600
 
 cocotte fermé, pois piant (fr.) ; butterfly pea (angl.). b : Botton & Hallé (1958), Sosef & van der Maesen (1997), Wilczek (1954). ibliographie
 
+## Figures
+
+![Centrosema plumieri](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_032_p0082.png)
+
+*Plate 24 : Centrosema plumieri : 1. Flowering stem. – 2. Flower and bracteole. – 3. Standard, wing and keel. – 4. Stamens with detail of the anthers. – 5. Pistil with detail of the stigma. – 6. Pod split open and seed. –*
+
 ## Notes
 
 <!-- TODO:notes -->

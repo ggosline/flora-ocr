@@ -41,6 +41,16 @@ Old humid forest on slopes or along river banks; from 430 to 550 m in altitude. 
 
 This species appears close to P. leewhitei and P. cristalensis by the combination of a creeping-trailing habit, a short, axillary, erect inflorescence, and roots with numerous yellow rootlets. Nevertheless, it differs from them among other things, by its longitudinally plicate leaves. Bi : Bidault & van der Burg (2019). Bibliography
 
+## Figures
+
+![Palisota plicata](../sources/Commelinaceae_vol55_liteparse/figures/fig_038_p0072.jpeg)
+
+*Figure 5. Palisota mannii subsp. mannii (Ipassa, Gabon, Bidault et al. 4513): A. Plant with immature fruits, (between Dibwangui and Lebamba, Gabon, Bidault et al. 3794): B. Flower. – Palisota plicata (Monts de*
+
+![Palisota plicata](../sources/Commelinaceae_vol55_liteparse/figures/fig_039_p0073.png)
+
+*Plate 21 . Palisota plicata : 1. General aspect. – 2. Inflorescence. – 3. Bisexual flower, lateral view. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

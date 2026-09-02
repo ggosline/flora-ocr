@@ -44,6 +44,12 @@ swampy riparian forest; about 500 m altitude. Flowering in December
 
 Other specimen studied: Bates 1697 (P), Cameroon, Bitya, near the river Ja, 1922 (fl). This species resembles D. crispa in its few leaflets, covered with crisp brown hairs on the lower surface, and with very prominent lateral nerves. Its flowers are also very similar to those of D. crispa. However, it differs in the leaflets rounded at the apex and subopposite; furthermore, the pods, although known only in very young state, differ distinctly from those of D. crispa in their flattened and narrower form, as well as in their glabrous surface
 
+## Figures
+
+![Dalbergia nervosa](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_054_p0144.png)
+
+*Plate 46: Dalbergia nervosa: 1. Flowering branch. – 2. Leaflet, detail of the lower surface. – 3. Idem, greatly magnified. – 4. Flower. – 5. Flower with fallen petals, showing the stamens and ovary. – 6. Standard, internal surface. – 7. Wing, external surface. – 8. Petal of the keel, external surface. – 9. Very young pod. (1–9:*
+
 ## Notes
 
 <!-- TODO:notes -->

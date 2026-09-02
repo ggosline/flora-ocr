@@ -41,6 +41,12 @@ ambrevade, pois d’Angola, pois d’Angole (fr.) ; pigeonpea (angl.) ; bésangb
 
 Verdcourt, in Lewis et al. (2005), considered C. cajan (L.) Huth as the correct authority, but Huth (1893), using Cajanus cajan as an example of pseudo-tautonymy, did not intend to make this combination himself. In 1900, Millspaugh formally published this name. b : Lewis et al. (2005), Pellegrin (1949), Raponda-Walker & Sillans (1961), van der Maesen Bibliography (1986, 2006b)
 
+## Figures
+
+![Cajanus cajan](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_028_p0072.png)
+
+*Plate 20 : Cajanus cajan : 1. Flowering branch. – 2. Standard. – 3. Detail of the base of the standard. – 4. Wing with detail of the rugose surface. – 5. Keel. – 6. Androecium. – 7. Pistil. – 8. Stigma. – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

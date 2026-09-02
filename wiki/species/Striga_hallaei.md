@@ -35,6 +35,16 @@ Gabon and Democratic Republic of the Congo; in Gabon, observed in the Woleu-Ntem
 
 ombroph ilous forests, river edge in forest; in Gabon, at 540 m, in the Democratic Republic of the Congo, at 850–1700 m. B: Mielcarek (1996), Mohamed et al. (2001), Raynal (1969). ibliography
 
+## Figures
+
+![Striga hallaei](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_058_p0136.png)
+
+*Plate 44. Striga hallaei: 1. Entire plant (× 2/3). – 2. Flower, face view (× 1). – 3. Corolla, top view (× 1). – 4. Adaxial stamen inserted on corolla (× 20). – 5–7. Anther, profile, face and back view (× 17). – 8. Stigma (× 20). – 9. Capsule (× 10). – 10. Capsule in course of dehiscence (× 10). – 11. Seed (× 50). (A–G: Hallé & Villiers 4914). Drawing by A. Raynal, reproduced with permission from*
+
+![Striga hallaei](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

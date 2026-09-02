@@ -35,6 +35,12 @@ in herbaceous savannas, often on lateritic soils, particularly frequent on annua
 
 Inflorescence. – E. Spikelet. – F. Glumes. – G. Fruit. Original drawing by Richard W. Haines ©. B: Goetghebeur & Coudijzer (1984b), Hooper & Napper (1972), Nelmes & Baldwin (1952).
 
+## Figures
+
+![Bulbostylis laniceps](../sources/Cyperaceae_vol44_liteparse/figures/fig_025_p0030.png)
+
+*Plate 13. Bulbostylis laniceps. A, B. Plant. – C. Inflorescence. – D. Spikelet. – E. Glumes, lateral and ventral view. – F. Flower. – G. Fruit. Original drawing by E.M. Stones ©, reproduced with permission from Nelmes & Baldwin (1952).*
+
 ## Notes
 
 <!-- TODO:notes -->

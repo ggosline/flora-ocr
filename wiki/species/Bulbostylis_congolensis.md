@@ -35,6 +35,12 @@ Tropical Africa, from Senegal to Ethiopia and southwards to the Democratic Repub
 
 in grasslands and open forests, often in seasonally humid habitats; in Gabon, at 400–700 m altitude, up to 1500 m in East Africa. Taxonomic note: Close to B. pusilla subsp. yalingensis (Cherm.) R.W.Haines, but distinguished by its very hairy stems. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Bulbostylis congolensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_019_p0025.png)
+
+*Planche 9. Bulbostylis congolensis. A. Plante. – B. Planche 10. Bulbostylis filamentosa. A. Plante. –*
+
 ## Notes
 
 <!-- TODO:notes -->

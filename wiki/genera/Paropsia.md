@@ -43,6 +43,13 @@ Bibliography: Breteler (2003), De Vos & Breteler (2009), De Wilde (1975), Sleume
 
 – Branchlets pubescent, underside of lamina nearly glabrous; sepals puberulent, covered with short flexuous hairs; ovary tomentose; lamina (3.5–)7–11(–13) cm long, sub-coriaceous .................................................. P. grewioides var. grewioides
 
+## Key to the species
+
+1. - Sepals < 9 mm in length; flowers present during or after leaf fall, in false spikes (with dozens of flowers) terminal or, if axillary and solitary, the leaves very reduced; ovary glabrous; branchlets with whitish lenticels ........................................................................................... P. guineensis
+- Sepals > 15 mm in length; flowers on young leafy branchlets, axillary, solitary or in pairs (–3); ovary densely hairy; branchlets without distinct lenticels ................................................................................................................. 2
+2. - Branchlets, lower surface of lamina and ovary hispid; sepals with hispid midvein, with long hairs bearing a tiny white tubercle at the base; lamina (11–)16–20 cm in length, papyraceous ......................................... P. gabonica
+- Branchlets pubescent, lower surface of lamina almost glabrous; sepals puberulent, covered with short flexuous hairs; ovary tomentose; lamina (3.5–)7–11(–13) cm in length, sub-coriaceous .................................................. P. grewioides var. grewioides
+
 ## Species in region
 
 | Species | Vol | Pages |

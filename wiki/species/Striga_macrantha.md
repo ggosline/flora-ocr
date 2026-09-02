@@ -32,6 +32,12 @@ Senegal, Guinea-Bissau, Guinea-Conakry, Liberia, Sierra Leone, Mali, Chad, Niger
 
 savannas; in Gabon, at 260 m elevation, in the Democratic Republic of the Congo (Katanga), up to 1200 m. Taxonomic note: Recorded here for the first time in Gabon. B: Mielcarek (1996), Mohamed et al. (2001), Musselman & Hepper (1986), Bibliography Philcox (1990)
 
+## Figures
+
+![Striga macrantha](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_057_p0134.png)
+
+*Plate 43. Striga asiatica: A. Entire plant. – B. Corolla. – Striga macrantha: C. Stem with inflorescence. – D, E. Detail of inflorescence. (A–B: Fischer s.n., C–E: Fischer s.n.). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

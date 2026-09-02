@@ -44,6 +44,16 @@ primary or mature secondary hyperhumid upland forest in lowlands, or flooded are
 
 The collection of recent specimens has highlighted the importance of certain characters not mentioned by previous authors who worked on the genera Buforrestia, Forrestia and Amischotolype. In particular, alcohol-preserved collections and, more recently, photographs of living plants have made it possible to clearly separate from A. tenuis a taxon with climbing habit, aerial roots, narrowly elliptic-ovate leaves and inflorescences composed of two cincinni on a short common peduncle, rather flattened and growing at an angle of approximately 60 degrees. This now well-discriminated taxon is described here as A. scandens. A. tenuis is distinguished from it by its non-climbing habit, lacking or with few aerial roots, the leaves are broader, and the two cincinni clearly scorpioid (especially when young) generally grow in opposite directions, thus at 180 degrees
 
+## Figures
+
+![Amischotolype scandens](../sources/Commelinaceae_vol55_liteparse/figures/fig_014_p0012.jpeg)
+
+*Figure 1 . Amischotolype scandens (Mts of Cristal, Gabon, Bidault et al. 3567 & 3417 ) : A. Flowering stem, B. Inflorescence and flower. – Aneilema beniniense (Lake Azingo, Gabon, Bidault et al. 1850 ) : C. Flowering stem. – Aneilema aequinoctiale (Durban, South Africa) : D. Flowering stems. – Aneilema umbrosum (Ivindo, Gabon, Bidault et al. 2123 ) : E. Flowering stem, (Kouilou, Rep. of Congo, Bidault et al. 3055 ) :*
+
+![Amischotolype scandens](../sources/Commelinaceae_vol55_liteparse/figures/fig_015_p0013.png)
+
+*Plate 1 . Amischotolype scandens : 1. General aspect with inflorescences. – 2. Stem showing a branching. – 3. Sheath of a leaf with inflorescence and young aerial roots. – 4. Bud with some tepals removed. – 5. Flower. – 6. Cilium of a staminode. (1, 3 : Maas 10258 ; 2, 4-6 : Tchouto 3211 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

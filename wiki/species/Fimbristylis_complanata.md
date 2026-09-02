@@ -33,6 +33,12 @@ in most tropical regions; uncommon in Gabon, found in Estuaire, Haut-Ogooué and
 
 in humid grasslands, on river banks in forest, at the edge of swamps and pools; in Gabon, at 0–450 m altitude, up to 1700 m in East Africa. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1995, 1997)
 
+## Figures
+
+![Fimbristylis complanata](../sources/Cyperaceae_vol44_liteparse/figures/fig_115_p0141.png)
+
+*Planche 89 . Fimbristylis complanata . A. Plante. – Planche 90 . Fimbristylis cymosa . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ endemic to Gabon, known from Estuaire, Moyen-Ogooué and Woleu-Ntem
 
 primary and secondarized forest; at 0–600 m altitude. B: Breteler (1995). Bibliography
 
+## Figures
+
+![Dipteropeltis macrantha](../sources/Convolvulaceae_vol46_liteparse/figures/fig_020_p0026.png)
+
+*Plate 8. Dipteropeltis macrantha: 1. Flowering branch (× ½). – 2. Part of an inflorescence (× 3). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

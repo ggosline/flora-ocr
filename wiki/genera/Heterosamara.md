@@ -43,6 +43,43 @@ Polygala cabrae Chodat, Bull. Herb. Boissier 6: 838 (1898).
 
 Perennial herb, ± erect, 20–60 cm, sometimes epiphytic; stem erect from a woody base, branched, ± pubescent. Leaves alternate; petiole 2–10 mm, pubescent to glabrous; blade broadly oblong-elliptic to oblong-lanceolate, 4–12 × 1.5–4 cm, cuneate at the base, rounded to obtuse or sometimes emarginate at the apex, upper face sparsely pubescent, lower face glabrescent except the nerves. Inflorescence: terminal or
 
+## Key to the species
+
+1. - Lower external sepals fused; seeds pyriform, with a sublateral and oblong caruncle; herb ± erect, 20–60 cm, ± pubescent ......... H. cabrae
+- Lower external sepals free; seeds ellipsoid, with a terminal and subglobose caruncle; herb prostrate, glabrescent to glabrous .......... H. mannii
+
+heterosamara cabrae (Chodat) Paiva
+Fontqueria 50 : 128, tab. 53.f (1998).
+Polygala cabrae Chodat, Bull. Herb. Boissier 6 : 838 (1898).
+
+Perennial herb, ± erect, 20–60 cm, sometimes epiphytic; stem erect from a woody rootstock, branched, ± pubescent. Leaves alternate; petiole 2–10 mm, pubescent to glabrous; blade broadly oblong-elliptic to oblong-lanceolate, 4–12 × 1.5–4 cm, cuneate at base, rounded to obtuse or sometimes emarginate at apex, upper surface sparsely pubescent, lower surface glabrescent except the veins. Inflorescence: terminal or sublateral racemes, 3–6 cm long; peduncle shorter than the raceme, rachis and peduncle glabrous or sparsely pubescent; bracts and bracteoles lanceolate to linear, 0.75–1 mm long, pubescent, caducous. Flower pinkish to whitish; sepals caducous, the upper one keeled, 3 × 1.5 mm, mucronate, lower external sepals ovate, 2.5 mm in diameter, fused, winged sepals elliptic, 6 × 3 mm, mucronate; upper petals oblong-elliptic, 5.5 × 1.5 mm, keel 5 × 2 mm, crest 1 mm long, lobed. Fruit flattened ovoid, 4.5–5 mm in diameter, emarginate, wings up to 0.5 mm wide. Seeds pyriform, 4–5 × 1.75–2 mm, covered with whitish silky hairs; caruncle oblong, sublateral, appendages up to 2.25 mm long.
+
+Distribution: Central tropical Africa: Nigeria, Cameroon, Gabon, Equatorial Guinea (Bioko), Democratic Republic of the Congo and Angola; in Gabon: Estuaire, Nyanga and Ngounié.
+
+Ecology: primary evergreen forest, under shrubs on inselbergs; in Gabon at 600–800 m altitude, elsewhere up to 1800 m.
+
+Bibliography: Keay & Taylor (1954), Paiva (1998), Petit (1958).
+
+<<<---SECTION-BREAK--->>>
+
+heterosamara mannii (Oliv.) Paiva Plate 22
+Fontqueria 50 : 126, tab. 53.h (1998).
+Polygala mannii Oliv., Fl. trop. Afr. 1 : 130 (1868).
+
+Perennial herb, prostrate, glabrescent to glabrous. Leaves alternate; petiole 0.5–1.5 mm, glabrous; blade broadly elliptic to ovate-lanceolate, 4.5–10 × 2–4 cm, cuneate at base, acuminate at apex, glabrous. Inflorescence: terminal racemes, up to 5.5 cm long; peduncle and rachis glabrous; bracts and bracteoles suborbicular, 0.2–0.3 mm in diameter. Flower pinkish whitish; sepals caducous, the upper one ovate, 2 × 1.5 mm, ciliate, winged sepals obovate, 4–5 × 2–3 mm, glabrous, lower external sepals ovate, 1.5 × 1 mm, ciliate, free; upper petals oblong-elliptic, 3 × 1.5 mm, keel 4–5 mm long, crest 1 mm long, lobed. Fruit flattened, obovoid, 5–6 × 4 mm, glabrous, wings up to 0.5 mm wide. Seeds ellipsoid, 4 × 2.5 mm, with appressed white silky pubescence; caruncle subglobose, terminal, without appendages.
+
+Distribution: endemic to Gabon: Woleu-Ntem and Estuaire.
+
+Ecology: primary humid evergreen forest; at 650–750 m altitude.
+
+Bibliography: Paiva (1998).
+
+<<<---SECTION-BREAK--->>>
+
+Drawing by Sílvia Castro, Centre for Functional Ecology, Department of Life Sciences, University of Coimbra.
+
+<<<---SECTION-BREAK--->>>
+
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

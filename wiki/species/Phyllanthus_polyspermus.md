@@ -37,6 +37,12 @@ Secondary vegetation, often on humid soils; in Gabon, at 0–300 m altitude. Use
 
 potato plant, potato smell, seaside laurel (angl.). Note taxonomique : Jusqu’à récemment, le matériel africain de cette espèce fut nommé P. reticulatus Poir. (Smith 1987, Radcliffe-Smith 1996b) ou classé sous le dernier nom et P. polyspermus (Brunel 1987). Les résultats d’une analyse moléculaire (Luo et al . 2011) ont démontré que P. reticulatus est une espèce asiatique et que le matériel d’Afrique classé sous ce nom appartient à P. polyspermus. b : Brunel (1987), Keay (1958), Luo et al. (2011), Maroyi (2008), Radcliffeibliographie Smith (1996b), Smith (1987)
 
+## Figures
+
+![Phyllanthus polyspermus](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_028_p0070.png)
+
+*Plate 22. Phyllanthus polyspermus : A. Flowering branch. ‒ B. Leaf. ‒ C. Inflorescence. ‒ D.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -36,6 +36,22 @@ Africa and African islands, Siam, Indochina, Malesia, New Guinea.
 
 3'. Sterile pinnae with truncate bases; rachis of fertile pinnae scaly..... 4. L. hederacea.
 
+## Key to the species
+
+1. Sterile frond always simple..... 1. L. palustris.
+1'. Adult sterile frond pinnate.
+
+2. Fertile pinnae with naked, caudate apex, approximately 5 mm long
+2. L. guineensis.
+
+2'. Fertile pinnae bearing sporangia to the non-caudate apex.
+
+3. Sterile pinnae with rounded bases, abruptly acuminate;
+rachis of fertile pinnae not scaly..... 3. L. Rossii.
+
+3'. Sterile pinnae with truncate bases; rachis of fertile pinnae
+scaly ..... 4. L. hederacea.
+
 ## Species in region
 
 | Species | Vol | Pages |

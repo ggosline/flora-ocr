@@ -42,6 +42,12 @@ primary and secondarized forest; in Gabon up to 500 m altitude, elsewhere up to 
 
 The name T. braunii Engl. var. regularis is present on a specimen deposited in Paris (Thollon 1114), but has never been formally published. B: Breteler (2004). Bibliography
 
+## Figures
+
+![Trichoscypha rubicunda](../sources/Anacardiaceae_vol50_liteparse/figures/fig_029_p0052.png)
+
+*Plate 19. Trichoscypha rubicunda: 1. Leaf. – 2. Leaflet, lower surface. – 3. Male flower. – 4. Female flower. – 5. Young fruiting inflorescence. – 6. Young fruit. – 7. Idem, showing the flower remnants. – 8. Young fruit, longitudinal section. – 9, 10. Detail of the fruit pubescence. (1, 2, 5–10 : Reitsma et al. 862 ; 3 : Le*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -37,6 +37,12 @@ montane forest, often saxicolous, forest galleries; in Gabon, at 400–900 m alt
 
 lesser heart fruit, red heart fruit, small red-heart (angl.). b : Leonard & Mosango (1985), Pax & Hoffman (1922). ibliographie
 
+## Figures
+
+![Hymenocardia ulmoides](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_015_p0035.png)
+
+*Plate 9. Hymenocardia ulmoides: A. Flowering male branchlet. ‒ B. Male inflorescence. ‒ C, D. Male flower. ‒ E. Fruiting branchlet. ‒ Hymenocardia acida: F. Fruiting branchlet. ‒ G. Leaf. ‒ H.*
+
 ## Notes
 
 <!-- TODO:notes -->

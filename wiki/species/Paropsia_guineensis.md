@@ -34,6 +34,12 @@ from Ghana to Cameroon, Gabon, Angola, the Democratic Republic of the Congo and 
 
 gallery forest, dense humid forest, semi-deciduous forest, secondary forest; in Gabon, at approximately 100–300 m altitude, elsewhere up to 750 m. Flowers during or after leaf fall. Bibliography: Breteler (2003), De Wilde (1975), Raponda-Walker & Sillans (1961), Sinsin (2006), Sleumer (1970, 1976)
 
+## Figures
+
+![Paropsia guineensis](../sources/Passifloraceae_vol46_liteparse/figures/fig_049_p0088.png)
+
+*Plate 35. Paropsia guineensis : 1. Apex of a branch with leaves (× ⅔). – 2. Apex of a branch of the inflorescence (× ⅔). – 3. Flower (× 6). – 4. Flower with sepals and petals removed to expose the androecium and gynoecium (× 6). – 5. Anther (× 12). – 6. Fruit (× 1⅓). – 7. Seed (× 4). (1 : Dawkins 360 ; 2-5 : Toussaint 2481 ; 6, 7 : Letouzey 4494 ). Drawing by Victoria Goaman, reproduced with permission from*
+
 ## Notes
 
 <!-- TODO:notes -->

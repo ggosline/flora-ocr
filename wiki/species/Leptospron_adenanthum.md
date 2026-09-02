@@ -39,6 +39,12 @@ pois marron (fr.) ; wild bean (angl.)
 
 Reported in 2011 for the first time in Gabon. b : Brink & Jansen (2006), Delgado-Salinas et al. (2011), van der Maesen (2006a). Bibliography
 
+## Figures
+
+![Leptospron adenanthum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_086_p0238.png)
+
+*Plate 78: Leptospron adenanthum: 1. Branchlet with flowers and fruits. – 2. Stipule. – 3. Rachis, stipels and petiolules. – 4. Flower. – 5. Idem, one wing removed, showing the keel. – 6. Detail of the rostrum of the keel. – 7. Mature fruits. Drawing by Silvia Troyo (©), reproduced with permission from Zamora (2010). rolled in bud, standard orbicular, ± 25 × 18 mm, the base cordate, auricles minute, apex slightly emarginate, wings obtrapezoid, ± 25 × 15 mm, with claw of 5 mm, auricles obtuse; ovary glabrous; style bearded, compressed, stigma oblique, obtuse. Pod linear, slightly curved, 9–14 × 0.8–1.4 cm, flattened but swollen over the seeds, with short apex, curved, with 8 to 15 seeds. Seed reniform, ± 7 × 5 mm, reddish-brown; hilum elliptic, central, white.*
+
 ## Notes
 
 <!-- TODO:notes -->

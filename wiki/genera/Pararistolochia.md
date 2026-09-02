@@ -42,6 +42,25 @@ Key to the species
 
 3. - Entire leaf; flower with lobes not exceeding 3 cm in length, not folded and glabrous or entirely pubescent .......................................................................... 4
 
+## Key to the species
+
+1. - Flower with 3 distinct lobes ........................................................................................... 2
+- Flower with 2 distinct lobes (sometimes the third reduced), either with ribbon-like appendages, or
+the upper lobe incised ............................................................................................ 5
+2. - Flower with equal lobes; fruit generally longitudinally ribbed (but still
+unknown in one species) ........................................................................................ 3
+- Flower with 2 lateral lobes somewhat larger than the lower one; fruit with ribs more or
+less marked, but rounded ........................................................ P. macrocarpa
+3. - Leaf entire; flower with lobes not exceeding 3 cm in length, not folded and
+glabrous or entirely pubescent .......................................................................... 4
+- Leaf with undulate margin, up to 3- or 5-lobed; flower with lobes of (2–)4–7 cm in
+length, longitudinally folded and pubescent at the apex or in the upper
+half .................................................................................................. P. triactina
+4. - Flower with caudate lobes, orange to golden yellow, glabrous .......................... P. ceropegioides
+- Flower with narrowly triangular lobes, dark red and pubescent ........... P. fimbriata
+5. - Flower with lobes bearing a long ribbon-like appendage .......................... P. promissa
+- Flower with upper lobe incised .................................................................. P. incisiloba
+
 ## Species in region
 
 | Species | Vol | Pages |

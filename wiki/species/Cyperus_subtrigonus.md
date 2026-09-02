@@ -33,6 +33,12 @@ Gabon, Republic of Congo and Democratic Republic of Congo; rare in Gabon, found 
 
 grasslands and other seasonally humid habitats; at 400–700 m altitude. Taxonomic note: very close to C. flavescens and C. lanceolatus, it differs from them by its particular achene which is trigonous with well-developed shoulders. B: Kükenthal (1936). Bibliography
 
+## Figures
+
+![Cyperus subtrigonus](../sources/Cyperaceae_vol44_liteparse/figures/fig_099_p0119.jpeg)
+
+*Figure 9. Akènes de a) Cyperus lanceolatus ( Ngok Banak 1969 , Ogooué-Ivindo, Gabon) et b) Cyperus subtrigonus ( Tisserant 3494 , République du Congo).*
+
 ## Notes
 
 <!-- TODO:notes -->

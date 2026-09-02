@@ -31,6 +31,14 @@ Cameroon and Gabon; in Gabon widely distributed but rather rare
 
 evergreen or semi-deciduous lowland to submontane forest; in Gabon, at 0–700 m altitude, elsewhere up to 1100 m. B: Hutchinson & Dalziel (1928), Poncy (1978). Bibliography
 
+## Figures
+
+![Pararistolochia ceropegioides](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_009_p0015.png)
+
+*Plate 2. Pararistolochia ceropegioides . 1, 2. Leaf (× ⅓). – 3. Inflorescence (× ½). – 4. Pendant flower, front view (× 1). − 5. Gynostemium (× 10). – 6. Fruit (× ½). – 7. Fruit, transverse section (× ½). Drawing by J. Lemeux, reproduced with permission from the National Museum of Natural History (©) from Poncy (1978).*
+
+![Pararistolochia ceropegioides](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_011_p0016.png)
+
 ## Notes
 
 <!-- TODO:notes -->

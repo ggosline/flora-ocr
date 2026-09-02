@@ -47,6 +47,20 @@ Trichoscypha 49 LIKOX 56; B2: van Andel et al. 3890; C1: Leeuwenberg 5213; C2: v
 
 50 Frans J. BRETELER
 
+## Figures
+
+![Trichoscypha wilksii](../sources/Anacardiaceae_vol50_liteparse/figures/fig_030_p0054.png)
+
+*Plate 20 . Trichoscypha wilksii : 1. Leaf and inflorescence. – 2. Detail of the upper surface of the leaf, main vein. – 3. Ditto, lower surface, lateral vein. – 4. Part of the inflorescence. – 5.*
+
+![Trichoscypha wilksii](../sources/Anacardiaceae_vol50_liteparse/figures/fig_031_p0055.png)
+
+*Plate 21 . Trichoscypha spp., male and female flowers (except for T. hallei ), often with one petal removed :*
+
+![Trichoscypha wilksii](../sources/Anacardiaceae_vol50_liteparse/figures/fig_032_p0056.png)
+
+*Plate 22 . Trichoscypha spp., male and female flowers, one petal removed : A. T. oddonii . – B. T. oliveri . – C. T. patens . – D. T. reygaertii . (A1 : J.J. de Wilde 11197 ; A2 : J.J. de Wilde 11196 ; B1 : Tchouto et al.*
+
 ## Notes
 
 <!-- TODO:notes -->

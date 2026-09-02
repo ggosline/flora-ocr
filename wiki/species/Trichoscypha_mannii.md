@@ -38,6 +38,12 @@ primary and secondarized forest; in Gabon and elsewhere up to 300 m altitude
 
 The great variability of leaflets is illustrated by Breteler (2004, fig. 9). B : Breteler (2001, 2004). Bibliography
 
+## Figures
+
+![Trichoscypha mannii](../sources/Anacardiaceae_vol50_liteparse/figures/fig_027_p0046.png)
+
+*Plate 17 . Trichoscypha mannii : 1. Flowering branches with unifoliolate leaves. – 2. Leaflet, lower surface. – 3. Young branchlet. – 4. Fruit-bearing inflorescence. – 5. Young fruit. – 6. Calyx of the male flower. – 7. Male flower. (1, 6, 7 : Wieringa 1242 ; 2, 3 : Breteler et al. 9746 ; 4, 5 : Reitsma & Reitsma 1359 ). Drawing by Wil*
+
 ## Notes
 
 <!-- TODO:notes -->

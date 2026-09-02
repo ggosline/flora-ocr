@@ -35,6 +35,25 @@ In the territories of our jurisdiction C. Demeusii is a large tree of the floode
 
 1'. Fruits compressed, suborbicular, thin, indehiscent, completely surrounded by a very narrow margin; seeds not arillate; leaflets with translucent dots; petioles 1.5-3 cm in length; bracteoles persistent at the base of the bud, cup-shaped; ovary glabrous (subgenus Guibourtia)..... 3. G. Demeusii.
 
+## Key to the species
+
+1. Translucent dots present.
+
+2. Petiole 1.5–3 cm long; blade coriaceous; ovary glabrous.
+3. G. Demeusii.
+
+2'. Petiole 0.4–0.8 cm long; blade membranous; ovary pubescent.
+4. G. Arnoldiana.
+
+---
+
+1'. Translucent dots absent.
+
+3. Petiole 1.5–3.5 cm long.
+4. External base of blade cuneate..... 1. G. Tessmannii.
+4'. External base of blade rounded..... 2. G. Pellegriniana.
+3'. Petiole 0.4–0.6 (–1) cm long..... 5. G. ehie.
+
 ## Species in region
 
 | Species | Vol | Pages |

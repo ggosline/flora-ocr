@@ -34,6 +34,12 @@ Forests, secondary forests, roadsides; in Gabon at 480 m altitude, elsewhere at 
 
 C. capitatum previously included two varieties: the typical variety and var. cephalanthum (Oliv.) Baker sensu Huber in Hepper (1963). It was recently shown that the latter represents a new West African subspecies of C. cephalanthum Oliv. It is now treated as subsp. occidentale Jongkind, absent from Gabon. B: Cheek et al. (2004), Huber et al. (1963), IUCN SSC Global Tree Specialist Group & Bibliography BGCI (2020a), Jongkind (2006)
 
+## Figures
+
+![Clerodendrum capitatum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_020_p0016.jpeg)
+
+*Figure 1 . Achyrospermum oblongifolium : A. Inflorescence. – Cantinoa americana : B. Inflorescence. – Clerodendrum bipindense : C. Inflorescence. – Clerodendrum capitatum : D. Inflorescence. – Clerodendrum excavatum : E. Flowering stem ; F. Inflorescence, view from below. Photos by Ehoarn Bidault (A :*
+
 ## Notes
 
 <!-- TODO:notes -->

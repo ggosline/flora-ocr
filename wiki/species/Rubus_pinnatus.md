@@ -41,6 +41,12 @@ South African blackberry (Angl.)
 
 Hauman (1952), Letouzey (1978), Mendes & Kupicha (1978).
 
+## Figures
+
+![Rubus pinnatus](../sources/Rosaceae_vol41_liteparse/figures/fig_036_p0059.png)
+
+*Plate 13. Rubus pinnatus var. afrotropicus : 1. Stem with infrutescence (× ½). – 2. Fruit (× 3). – 3.*
+
 ## Also treated in vol 41
 
 **Pages**: 58-61 · **Source**: `sources/Rosaceae_vol41_liteparse`

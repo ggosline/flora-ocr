@@ -30,6 +30,20 @@ tags: [genus, generated]
 
 3'. Inflorescence simple, rostellum short and broad .....29. Eulophia
 
+## Key to the species
+
+1. Labellum without spur .....26. Ansellia
+
+1'. Labellum generally with a prominent spur or, at least, saccate .....2
+
+2. Pseudobulbs with a single node .....27. Oeceoclades
+
+2'. Pseudobulbs with several nodes or caulescent stems ..... 3
+
+3. Inflorescence paniculate, rostellum beaked .....28. Graphorkis
+
+3'. Inflorescence simple, rostellum short and broad .....29. Eulophia
+
 ## Species in region
 
 *No species blocks were segmented for this genus in the source.*

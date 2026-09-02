@@ -38,6 +38,12 @@ herbaceous and shrubby savanna, fallows, on poor soils; in Gabon at approximatel
 
 African stylo, shrubby pencil-flower, wild lucerne (angl.). B : Burkill (1995), Léonard (1954b), Lewis et al. (2005), Mohlenbrock (1957), Verdcourt i B liographie (1971e)
 
+## Figures
+
+![Stylosanthes fruticosa](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_128_p0356.png)
+
+*Plate 120 : Stylosanthes fruticosa : 1. Flowering stem (× ⅔). – 2. Leaf (× 2). – 3. Inflorescence (× 2). – 4. Flower with primary and secondary bracts, bracteoles and feathery axis (× 2). – 5. Flower, longitudinal section (× 6). – 6. Upper part of the calyx, open (× 2). – 7. Standard (× 6). – 8. Wings (× 6). – 9. Base of a wing, inner surface (× 6). – 10. Keel (× 6). – 11. Petal of the keel, inner surface (× 6). – 12. Stamens, open tube (× 6). – 13. Gynoecium (× 6). – 14. Fruit, with bracts and bracteoles (× 6). (1–13 : Faulkner 1998 ; 14 : Peter 49595 ). Drawing by Derrick Erasmus, Royal Botanic Gardens, Kew (©), reproduced with permission from Verdcourt (1971e).*
+
 ## Notes
 
 <!-- TODO:notes -->

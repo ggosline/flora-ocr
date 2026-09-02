@@ -33,6 +33,12 @@ Gabon, Democratic Republic of the Congo, Zambia; in Gabon, observed in Ngounié 
 
 swampy savannas; in Gabon, at low altitude, in East Africa up to 1700 m. B: Mielcarek (1996), Philcox (1990). Bibliography
 
+## Figures
+
+![Alectra glandulosa](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_070_p0156.jpeg)
+
+*Planche 56. A–B. Alectra glandulosa . – C. Striga asiatica . – D–E. Buchnera paucidentata . – F. Striga bilabiata . – G. Cycnium adonense ssp. camporum . – H–I. Buchnera leptostachya . – K. Striga hallaei . –*
+
 ## Notes
 
 <!-- TODO:notes -->

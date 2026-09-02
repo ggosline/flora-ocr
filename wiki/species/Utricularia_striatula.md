@@ -32,6 +32,16 @@ Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Bioko, Pr�
 
 among mosses on trees and rocks in forest, particularly in sites with high humidity such as, for example, near waterfalls; in Gabon at low altitude, elsewhere up to 3300 m. B: Taylor (1964, 1972, 1989). Bibliography
 
+## Figures
+
+![Utricularia striatula](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_131_p0126.png)
+
+*Planche 44. Utricularia striatula : 1–3. Plantes entières chasmogames florifères et fructifères (× 1). – 4.*
+
+![Utricularia striatula](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_133_p0128.jpeg)
+
+*Figure 16. Utricularia striatula (Gabon, Tchimbele–Kinguele) : A-D. (Photos par E. Fischer ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

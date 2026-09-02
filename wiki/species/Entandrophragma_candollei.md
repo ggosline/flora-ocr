@@ -38,6 +38,16 @@ old humid semi-deciduous forest, sometimes also in evergreen forest; in Gabon, u
 
 acajou kosipo, kosipo (noms pilote) ; boubousou rouge (fr.) ; heavy mahogany, west african cedar (angl.) ; etom, nsut etom (fang). B : Harms (1940), Nyunaï Nyemb (2008), Staner (1941), Wilks & Issembé ibliographie (2000)
 
+## Figures
+
+![Entandrophragma candollei](../sources/Meliaceae_vol47_liteparse/figures/fig_020_p0032.png)
+
+*Plate 6. Entandrophragma utile : A. Flowering branch (× 0.5). – B. Flower, two petals removed exposing the staminal tube (× 4). – C. Detail of the lower surface of a leaflet showing the hairs at the axil of the lateral veins (× 3). – Entandrophragma candollei : D. top of branch and part of a leaf with the lower surface of the leaflets (× 0.5). – E. Open flower (× 4). (A, C : Leeuwenberg 2510 ; B :*
+
+![Entandrophragma candollei](../sources/Meliaceae_vol47_liteparse/figures/fig_021_p0034.png)
+
+*Plate 7. Entandrophragma cylindricum: A. Part of branch with leaf (× 0.5). – B. Opened flower and in bud (× 4). – C. Functionally female flower, longitudinal section (× 4). – D. Opened fruit, one valve removed (× 0.5). – E. Interior of a valve (× 0.5). – F. Seed (× 0.5). – Entandrophragma candollei: G. Fruit (× 0.5). – H. Seed (× 0.5). (A: Leeuwenberg 2483; B–F: Voorhoeve 194; G, H:*
+
 ## Notes
 
 <!-- TODO:notes -->

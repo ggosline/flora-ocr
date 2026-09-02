@@ -37,6 +37,13 @@ B: Botton & Hallé (1958), Ferreira & Sousa Costa (1979), Gillies & Abbott (1996
 
 - Stipules 1–2 cm long; plant with hairs 1.5–2 mm; a single secondary bract; pod with one article with inconspicuous veins and beak 0.1–0.5 mm long ....................................................................................................... S. guianensis
 
+## Key to the species
+
+1. - Stipules 0.5–1 cm in length; plant with hairs 0.5 mm; secondary bracts 2; pod with one or two articles with salient nerves, with beak 1–2.5 mm in length ..... 2
+- Stipules 1–2 cm in length; plant with hairs 1.5–2 mm; a single secondary bract; pod with one article with inconspicuous nerves and beak 0.1–0.5 mm in length ....................................................................................................... S. guianensis
+2. - Branchlets entirely pubescent; inflorescence in spike 1–1.5(–2) cm in length; hairs on the inflorescence and stipules often with bulbous base; leaf rachis almost absent; calyx with tube 4–7 mm in length and lobes 2.5–3 mm in length; standard 5–7 mm in length; pod articles silky-villous, the upper pubescent at least along the ribs .................................................................................. S. fruticosa
+- Branchlets with hairs arranged in a longitudinal line; inflorescence in spikes 1–5 cm in length; leaf rachis 2–3 mm; calyx with tube 8–9 mm in length and lobes 3.5–5 mm in length; standard 7–8 mm in length; pod articles glabrous to pubescent ........................................................................................... S. erecta
+
 ## Species in region
 
 | Species | Vol | Pages |

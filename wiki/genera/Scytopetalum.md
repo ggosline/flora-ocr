@@ -29,6 +29,12 @@ Type species: Scytopetalum klaineanum Pierre ex Engler.
 
 This genus is represented in tropical Africa by 3 species whose ranges appear fairly distinct: S. tieghemii A. Chev. ex Hutch. & Dalz. from the dense evergreen forests of Sierra Leone, Liberia, Ivory Coast and Ghana, with narrowly oblong-elliptic leaf, fairly narrowly cuneate at the base and long caudate-acuminate at the apex; S. klaineanum Pierre ex Engl. from the dense evergreen forests of Cameroon where it is fairly scattered, of Gabon where it occurs locally abundant, its range furthermore reaching Congo (Lower Kouilou) and Cabinda (Maiombe); finally S. pierreanum (De Wild.) V. Tiegh. which appears to be an endemic of the Congo–Zaïre basin, localized at the edges of rivers or in hydromorphic forests, thus occurring in south-eastern Cameroon. A fourth species is perhaps present on the island of São Tomé, but would hitherto be known only from a single sterile specimen (Chevalier 15860), with leaves with relatively long petiole.
 
+## Key to the species
+
+1. Lamina broadly elliptic, 3–8 × 4–14 cm, with base obtuse to rounded symmetric, with apex obtuse abruptly acuminate ..... 1. S. klaineanum.
+
+1'. Lamina elliptic-oblong, generally obovate-elliptic and falcate, 2–6 × 5–16 cm, with base asymmetric and more often very asymmetric, with apex acute or obtuse ± gradually acuminate..... 2. S. pierreanum.
+
 ## Species in region
 
 | Species | Vol | Pages |

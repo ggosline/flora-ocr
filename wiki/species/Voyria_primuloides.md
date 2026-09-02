@@ -33,6 +33,12 @@ Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Republic of the Congo 
 
 primary forests, in the litter of decomposing leaves; in Gabon, between 0 and 1020 m elevation, elsewhere up to 1100 m. B : Bouman & Louis (1989), Maas & Ruyters (1986), Raynal (1967a), Taylor (1963), Vande i B liography weghe et al. (2016)
 
+## Figures
+
+![Voyria primuloides](../sources/Gentianaceae_vol54_liteparse/figures/fig_068_p0085.png)
+
+*Plate 29 . Voyria primuloides : 1. Habit (× 3). –2. Flower of the same specimen (× 3). – 3, 4. Flowers of another specimen (× 3). – 5. Corolla, upper view (× 3). – 6. Corolla in bud (× 3). – 7. Fragment of the calyx, inner surface (× 10). – 8. Flower, longitudinal section, pistil removed (× 3). – 9. Stamen after dehiscence (× 20). – 10. Pistil (× 3). – 11. Stigma, viewed from below, showing the staminodial pits and interstaminal ridges (× 10). –12. Ovary (× 10). – 13. Idem, transverse section (× 10). – 14. Seed (the embryo and its suspensor are shaded) (× 200). (1, 2, 5-8, 10-13 : N. Halle 4038 ; 3, 4, 9 : Adam 21056 ; 14 : Le Testu 5226 ; 1 in part, 5, 6, 8, 10, 11, 13 : from drawings made in vivo by N. Hallé).*
+
 ## Notes
 
 <!-- TODO:notes -->

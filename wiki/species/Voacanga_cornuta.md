@@ -26,6 +26,12 @@ Small tree (?); branches glabrous. Leaf elliptic or oblong, 7–18 × 1.5–6 cm
 
 dense evergreen forest understorey; at 500–600 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Voacanga cornuta](../sources/Apocynaceae_vol59_liteparse/figures/fig_243_p0268.jpeg)
+
+*Planche 123 . Voacanga cornuta 5DPHDXÀRULIqUH±'pWDLOGXOLPEHIROLDLUHIDFHLQIpULHXUH±*
+
 ## Notes
 
 <!-- TODO:notes -->

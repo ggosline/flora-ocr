@@ -37,6 +37,12 @@ in stagnant waters, often at the edge of pools, marshes and lagoons, occasionall
 
 jointed flatsedge, piripiri (angl.) ; piripiri de vibora (esp.). andac (fang), déndaka (bakélé), dundalagu (balumbu), dusasagu (éshira, bavarama, bapunu, bavungu), indaki (benga), lésisagi, létsitsagi (mindumu), lézizaki (bakota, ambèdè), lisasaku (loango), ndago-na-bènga (ngowé), sako-sako (apindji), tsako-sako (mitsogo, ivéa, bavové), tsatsagu (bavili, banzabi). Usage : Les racines ont plusieurs usages médicinaux, notamment comme anti-vomitif et contre les migraines. Les tubercules odorants contiennent une huile essentielle utilisée comme parfum et insecticide. Les tiges sont utilisées pour la fabrication des tapis. Note taxonomique : facilement identifiée par ses tiges robustes, cloisonnées, sans limbes et par son inflorescence terminale assez grande avec de très petites bractées. B : Burkill (1985), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & ibliographie Napper (1972), Lye (1997), Raponda-Walker & Sillans (1961)
 
+## Figures
+
+![Cyperus articulatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_033_p0047.png)
+
+*Planche 21 . Cyperus angolensis. A. Plante. – B. Planche 22 . Cyperus articulatus. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

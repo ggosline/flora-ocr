@@ -33,6 +33,12 @@ Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda and Zambi
 
 swampy savannas, esobé, marshes, lake and river margins; in Gabon, at 400 m altitude, elsewhere at 350–1500 m. Bibliography: Bamps & Farron (1967), Robson (1963), Sastre (1971), Verdcourt (2005).
 
+## Figures
+
+![Sauvagesia africana](../sources/Ochnaceae_vol48_liteparse/figures/fig_038_p0092.png)
+
+*Plate 26. Sauvagesia erecta subsp. erecta : 1. Flowering plant (× 1). – 2. Stipule (× 4). – 3. Flower (× 2). – 4. Part of the androecium and gynoecium (× 8). – 5. Ovary in transverse section (× 16). – 6. Seed (× 20). – Sauvagesia africana : 7. Flowering plant (× 1). – 8. Stipule (× 4). – 9. Flower (× 2). – 10. Part of the androecium and gynoecium (× 8). – 11. Open capsule (× 2). (1–5 : Fanshawe 3630 ; 6 : Walter 28 ; 7, 8 :*
+
 ## Notes
 
 <!-- TODO:notes -->

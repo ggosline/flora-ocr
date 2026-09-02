@@ -33,6 +33,16 @@ Senegal, Côte d'Ivoire, Burkina Faso, Togo, Benin, Nigeria, Cameroon, Central A
 
 damp places, marshes, ponds, lakes and rivers; in Gabon, at 0–520 m altitude, in East Africa, up to 1600 m. B: Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Philcox (1990). Bibliography
 
+## Figures
+
+![Bacopa crenata](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_044_p0107.png)
+
+*Plate 30. Bacopa crenata : A. Entire plant. – B. Flower. – C. Corolla opened and spread. – D. Gynoecium. (A–D : J.J. de Wilde 968 ). Drawing by E. Fischer (©).*
+
+![Bacopa crenata](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_068_p0154.jpeg)
+
+*Planche 54. A. Bacopa crenata. – B. Bacopa monnieri . – C–D. Craterostigma nummulariifolium. – E–F.*
+
 ## Notes
 
 <!-- TODO:notes -->

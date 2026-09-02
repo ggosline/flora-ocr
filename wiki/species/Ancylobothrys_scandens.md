@@ -28,6 +28,16 @@ Liane JULPSDQWMXVTX¶jSRLOVSOXW{WFRXUWV. Leaf glabrous: petiole 4–15 mm; lamin
 
 from Guinea to Burundi and Angola; in Gabon: Estuaire, Haut-Ogooué, Nyanga, Ogooué, Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem. Ecology: costal thicket, woodland and forest edge in Gabon, up to 650 m elevation; elsewhere up to 1200 m. B: Pichon (1953), Vonk et al. (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Ancylobothrys scandens](../sources/Apocynaceae_vol59_liteparse/figures/fig_028_p0038.jpeg)
+
+*Figure 2 . Ancylobothrys pyriformis : A. Fruits. – Ancylobothrys scandens : B. Fruit. – Baissea congensis : C. Flowering stem. D. Lower surface of a leaf with domatia. E. Inflorescence. F. Flower. – Baissea gracillima : G. Flowering stem. H. Part of an inflorescence. Photos by Nicolas Texier (A, Mts Birougou, Gabon ; Ehoarn Bidault ; B, south of the Island Mandji, Gabon ; C, Between Mabanda and Ndendé, Gabon ; G, H, Mts Birougou, Gabon).*
+
+![Ancylobothrys scandens](../sources/Apocynaceae_vol59_liteparse/figures/fig_037_p0041.jpeg)
+
+*Planche 13 . Ancylobothrys scandens 5DPHDXÀRULIqUHîҀ±)OHXUî±&RUROOHRXYHUWH*
+
 ## Notes
 
 <!-- TODO:notes -->

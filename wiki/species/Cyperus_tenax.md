@@ -36,6 +36,14 @@ Tropical Africa; common in Gabon, in coastal zones and scattered elsewhere; foun
 
 habitats poor in nutrients such as dunes, sandy grassland soils, savannas, wooded areas and mangrove margins; in Gabon, at 0–400 m altitude, up to 1800 m elsewhere. Taxonomic note: recognized by its stems leafy at the base, the rather open dark inflorescence and the small glumes. It resembles somewhat C. amabilis which is an annual species. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
+## Figures
+
+![Cyperus tenax](../sources/Cyperaceae_vol44_liteparse/figures/fig_059_p0077.png)
+
+*Plate 47. Cyperus tenax. A. Plant. – B. Transverse section of the blade. – C. Fascicle of digitate spikelets. – D. Spikelet. – E. Part of a spikelet showing two flowers. – F. Glume. – G. Flower. – H. Fruit with style and three bristles. Original drawing by Richard W. Haines ©. Plate 48. Cyperus tenuiculmis. A. Plant. – B. Basal part of the inflorescence. – C. Spikelet. – D. Glume. – E. Fruit with style and three bristles.*
+
+![Cyperus tenax](../sources/Cyperaceae_vol44_liteparse/figures/fig_060_p0077.png)
+
 ## Notes
 
 <!-- TODO:notes -->

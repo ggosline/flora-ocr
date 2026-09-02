@@ -41,6 +41,12 @@ essang (fang). Usage : Utilisé comme nettoyant vaginal
 
 In Gabon (and in West and central Africa) this is the typical subspecies. Subsp. montana J.K.Morton, present in Cameroon and Equatorial Guinea, is distinguished by its leaves without pseudpetiole, with blade base cordate to subcordate, and its smooth seeds. B: Brenan (1968b), Brunel et al. (1984), van der Burg (2006), Cabezas et al. (2014), Faden (1982, 2012), Morton (1967), Sosef et al. (2006), Vande weghe et al. (2016), Vanden Berghen (1988)
 
+## Figures
+
+![Commelina diffusa](../sources/Commelinaceae_vol55_liteparse/figures/fig_021_p0030.png)
+
+*Plate 6 . Commelina diffusa : 1. General appearance. – 2. Spathe with male flower in upper cincinnus. – 3. Male flower. – 4. Fruit. – 5, 6. Seed from the ventral locule, ventral and dorsal view. (1 : Prévost 2714 ; 2, 4-6 : Faden 76/1 ; 3 : Faden 76/325 ). Drawing by Cathy Pasquale (©), reproduced with permission from Faden (2012).*
+
 ## Notes
 
 <!-- TODO:notes -->

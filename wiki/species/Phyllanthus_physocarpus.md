@@ -36,6 +36,12 @@ Primary and secondarised forest, coastal shrubby vegetation; in Gabon, at 0–90
 
 Fruit. (A ‒ E : Mcpherson 16148 ; F : Wieringa et al . 5107 ; G : Mayombo et al . 1642 ). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Phyllanthus physocarpus](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_027_p0069.png)
+
+*Plate 21. Phyllanthus physocarpus : A. Leafy branch. ‒ B. Branch with male inflorescences. ‒ C. Male inflorescence. ‒ D. Male flower. ‒ E. Male flower, one sepal removed. ‒ F. Female flower. ‒ G.*
+
 ## Notes
 
 <!-- TODO:notes -->

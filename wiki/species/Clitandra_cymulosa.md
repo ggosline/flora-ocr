@@ -24,6 +24,16 @@ in Hook., Niger Fl . : 445 (1849). C. arnoldiana De Wild., Compt. Rend. Hebd. S�
 
 dènga (bavové) ; iganda (nkomi) ; kombe (mitsogo) ; lékaga (mindumu) ; mukumbi EDYLOLpVKLUDQNRPE\qJDORDPSRQJZqRYqQJQG]LFIDQJ B : Beentje (2021), Leeuwenberg & Berndsen (1988), Omino (2002), Raponda-Walker & IBLIOGRAPHIE Sillans (1961)
 
+## Figures
+
+![Clitandra cymulosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_058_p0068.jpeg)
+
+*Figure 4. Catharanthus roseus: A. Flowering plant – Clitandra cymulosa: B. Inflorescence, C. Fruits in longitudinal section. – Criocerasdipladeenii: D. Inflorescence, E. Flower viewed from above, F. Fruit – Dictyophleba setosa: G. Fruiting stem. Photos by Lucius Oupa (A: South Africa, Nicolas Texier; B: Mts Birougou, Gabon, Marie Cakupewa; C: Fundiko, Central African Republic; D: department of Congo; and E: Ehoarn Bidault; D, F, P.N. Akanda, Gabon; G: southeast of Lake Ezanga, Gabon.*
+
+![Clitandra cymulosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_065_p0070.jpeg)
+
+*Plate 26 . Clitandra cymulosa 5DPHDXÀRULIqUHîҀ±1°XGDYHFYULOOHîҀ±)HXLOOH ventral and dorsal of a stamen (× 18). (1, 4-8 : Hart 282 ; 2 : J.J.F.E. de Wilde 8236 ; 3 : Staner 1341 ).*
+
 ## Notes
 
 <!-- TODO:notes -->

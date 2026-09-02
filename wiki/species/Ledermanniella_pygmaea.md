@@ -32,6 +32,12 @@ Endemic to Gabon, known from a single collection from the Falls of Empress Eugé
 
 on granitic rocks; at ± 50 m altitude. B : Cusset (1984), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Ledermanniella pygmaea](../sources/Podostemaceae_vol51_liteparse/figures/fig_037_p0046.png)
+
+*Plate 19. Ledermanniella pygmaea. 1. General view (× 16). – 2. Sessile individual (× 16). – 3. Young individual (× 16). – 4. Seed (× 180). – Ledermanniella sanagaensis. – 5. Portion of thallus with 2 shoots (× 14). – 6. Leaf base (× 22). – 7. Young flower freed from the spathe (× 22). Drawing by C. Cusset,*
+
 ## Notes
 
 <!-- TODO:notes -->

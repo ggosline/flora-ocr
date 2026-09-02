@@ -33,6 +33,16 @@ from Cameroon and the Central African Republic to Angola; very rare in Gabon, kn
 
 Ombrophilous forests, swamp forests, forest galleries, clearings, fallows; in Gabon at approximately 300 m altitude, elsewhere up to 1000 m. Flowers observed in August and December. b : De Wilde (1971), Robyns (1995). Bibliography
 
+## Figures
+
+![Adenia staudtii](../sources/Passifloraceae_vol46_liteparse/figures/fig_039_p0064.png)
+
+*Plate 25. Adenia spp. – Schematized leaves : 1. Adenia lobata (2 variants) . – 2. Adenia cynanchiifolia. – 3. Adenia cissampeloides. – 4. Adenia staudtii. – 5. Adenia mannii. – 6. Adenia bequartii subsp. occidentalis. – 7. Adenia poggei. Drawing by W.J. van der Burg.*
+
+![Adenia staudtii](../sources/Passifloraceae_vol46_liteparse/figures/fig_044_p0074.png)
+
+*Plate 30. Adenia staudtii : 1. Branch with leaf and inflorescence (× ½) . – 2. Leaf (× ½) . – 3. Base of leaf below with glands (× 2½) . – 4. Longitudinal section of a male flower (× 2½) . - 5. Longitudinal section of a female flower (× 2½) . – 6. Infructescence (× ½). – 7. Seed (× 2½) . (1, 3 : Troupin 10124 ; 2, 5 : Lebrun 4149 ; 4 : Toussaint 345 ; 6 : Gillet 1909 ; 7 : Gérard 5764 ). Drawing by Ruth van*
+
 ## Notes
 
 <!-- TODO:notes -->

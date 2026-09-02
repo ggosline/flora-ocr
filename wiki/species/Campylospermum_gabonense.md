@@ -38,6 +38,12 @@ primary and secondary forest, sometimes along rivers or streams; at 70–400 m a
 
 primary, humid and inundated forest, rock slabs with streams, on sandy soil; at 3–350 m altitude. b: Bissiengou (2014), Bissiengou et al. (2013). Bibliography
 
+## Figures
+
+![Campylospermum gabonense](../sources/Ochnaceae_vol48_liteparse/figures/fig_025_p0052.png)
+
+*Plate 13. Campylospermum gabonense subsp. australe : 1. Plant habit. – 2. Flowering branch. – 3. Part of leaf between two lateral veins, lower surface. – 4. Stipules. – 5. Bud scales. – 6. Structure of inflorescence. – 7. Cymule. – 8. Sepals and receptacle. – 9. Flower. – 10. Drupelet, longitudinal section. – 11. Cotyledon, dorsal view, with small external cotyledon. Drawing by Sabine Bousani at Neuchâtel (©) and reproduced with permission.*
+
 ## Notes
 
 <!-- TODO:notes -->

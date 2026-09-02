@@ -33,6 +33,12 @@ Macropodiella 43 Cusset (1978).
 
 Tristicha 45
 
+## Figures
+
+![Macropodiella heteromorpha](../sources/Podostemaceae_vol51_liteparse/figures/fig_040_p0051.png)
+
+*Plate 22. Macropodiella heteromorpha . 1. General view (× 1). – 2. Young flower in the spathella (× 14). – 3. Open flower (× 14). – 4 & 5. Stigmas (× 20). Drawing by F. Theureau, Muséum National d'Histoire Naturelle, Paris (©), reproduced with permission from Cusset (1987a).*
+
 ## Notes
 
 <!-- TODO:notes -->

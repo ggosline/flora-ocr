@@ -48,6 +48,12 @@ secondarized forest; from low altitude to up to 700 m
 
 In the previous publication on the genus in Gabon, with a synoptic treatment of the species (Breteler 2002), the material of this new species was classified under J. kwangense Liben. However, the detailed description of this species shows that the two collections from the southern part of the country possess clearly different characters. B: Breteler (2002). Bibliography
 
+## Figures
+
+![Jasminum mouilaense](../sources/Oleaceae_vol51_liteparse/figures/fig_020_p0014.png)
+
+*Plate 3. Jasminum mouilaense : 1. Flowering branch. – 2. Part of a branchlet. – 3. Leaf blade, detail of lower surface. – 4. Young inflorescence. – 5. Flower. – 6. Idem, longitudinal section. (1, 5, 6 :*
+
 ## Notes
 
 <!-- TODO:notes -->

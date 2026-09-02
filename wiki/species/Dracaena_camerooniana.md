@@ -39,6 +39,12 @@ understory of primary and secondary forests, forest margins, humid or flooded st
 
 A species with variable leaves with short and long pseudopetioles even on the same plant. Plants growing in flooded and heavily shaded forests generally have smaller leaves and tend to have more congested subumbellate inflorescences with poorly developed flowers much smaller than those of typical D. camerooniana, as well as malformed fruits. The same phenomenon was observed by Bos (1984): a cutting from a plant with a congested inflorescence recovered a normal inflorescence when transferred to drier conditions. B: Baker (1898), Bos (1984), van der Burg (2006), Damen et al. (2018), Figueiredo & Smith Bibliography (2008), Hepper (1968), La Croix (2010), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena camerooniana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_025_p0030.png)
+
+*Plate 8. Dracaena camerooniana: 1. Flowering branch. – 2. Detail of the leaf. – 3. Open flower, internal surface. – 4. Fruit. – 5. Fruit in transverse section. Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from Bos (1984).*
+
 ## Notes
 
 <!-- TODO:notes -->

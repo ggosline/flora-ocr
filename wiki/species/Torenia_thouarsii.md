@@ -33,6 +33,12 @@ Senegal, Mali, Guinea-Conakry, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Tog
 
 frequented places, fields, Cyperus marshes, secondary ombrophilous forests; in Gabon, at 0–530 m altitude, in Rwanda, up to 2000 m. B: Fischer (1992, 1995, 1999), Ghazanfar et al. (2008), Hepper (1963), Philibliographie cox (1990)
 
+## Figures
+
+![Torenia thouarsii](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_064_p0148.png)
+
+*Plate 50. Torenia thouarsii: A. Flowering stem. – B. Corolla open and spread out. – C. Abaxial stamen. (A–C: Fischer 833/87). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

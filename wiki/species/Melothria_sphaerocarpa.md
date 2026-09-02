@@ -58,7 +58,7 @@ Egunjobi & Adebisi (2004), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (
 
 ![Melothria sphaerocarpa](../sources/Cucurbitaceae_vol57_paddle/figures/fig_052_p0077.png)
 
-*Figure 3. Lagenaria siceraria (Paúl, Santo Antão, Cabo Verde): A. Feuilles, bouton et fleur mâle. – Luffa aegyptiaca (Rhoko, Cross River State, Nigeria): B. Inflorescence mâle; (marché, Yangon, Myanmar): C. Fruits pelés pour servir comme éponge. – Melothria sphaerocarpa (cultivé, Freising, Allemagne): D. Feuille et inflorescence à fleur mâle. Photos A-D par Hanno Schaefer.*
+*Figure 3. Lagenaria siceraria (Paúl, Santo Antão, Cabo Verde): A. Leaves, bud and male flower. – Luffa aegyptiaca (Rhoko, Cross River State, Nigeria): B. Male inflorescence; (market, Yangon, Myanmar): C. Peeled fruits for use as sponge. – Melothria sphaerocarpa (cultivated, Freising, Germany): D. Leaf and inflorescence with male flower. Photos A-D by Hanno Schaefer.*
 
 ![Melothria sphaerocarpa](../sources/Cucurbitaceae_vol57_paddle/figures/fig_054_p0081.png)
 

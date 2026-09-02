@@ -33,6 +33,12 @@ Conservation status: Widely distributed; probably Least Concern (LC).
 
 wet zones in grasslands or open forests, also recorded as an adventive in crops; in Gabon at 480–630 m altitude, elsewhere at 220–2100 m. B: Paton (1997a), Paton et al. (2009, 2013), Walters et al. (2011). Bibliography
 
+## Figures
+
+![Haumaniastrum caeruleum](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_061_p0064.png)
+
+*Plate 13 : Haumaniastrum caeruleum : 1, Flowering stem (× ⅔). – 2. Base of the plant (× 2). – 3. Inflorescence (× 3). – 4. Calyx in fruit (× 12). – 5. Upper leaf subtending the head inflorescence (× 6). (1-5 : Mutch 27967 ). Drawing by Emmanuel Papadopoulos, Royal Botanic Gardens, Kew (©), adapted and reproduced with permission from Paton (1997a).*
+
 ## Notes
 
 <!-- TODO:notes -->

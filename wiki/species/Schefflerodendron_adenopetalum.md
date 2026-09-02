@@ -40,6 +40,12 @@ hillsides in primary forest, riparian and secondary forest; in Gabon at 200–40
 
 mlolay, muchiche. B : Hauman (1954a), Pellegrin (1949), Raponda-Walker & Sillans (1961). i B liographie
 
+## Figures
+
+![Schefflerodendron adenopetalum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_122_p0343.png)
+
+*Plate 114: Schefflerodendron adenopetalum: 1. Flowering branch. – 2. Detail of lower surface of a leaflet. – 3. Flower. – 4. Standard. – 5. Wings. – 6. Keel. – 7. Gynoecium. – 8. Androecium, open. – 9.*
+
 ## Notes
 
 <!-- TODO:notes -->

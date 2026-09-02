@@ -49,11 +49,11 @@ Gurib-Fakim (2006a), Heine (1963), Prévost et al. (2004), Raponda-Walker & Sill
 
 ![Heliotropium indicum](../sources/Boraginaceae_vol57_paddle/figures/fig_013_p0022.png)
 
-*Figure 1. Euploca katangensis: A. Port (Zimbabwe). – Heliotropium indicum: B. Inflorescence (P.N. de Loango, Gabon). – Ehretia cymosa: C. Inflorescence (Rép. dém. Congo); D. Infrutescence (Bas-Congo, Rép. dém. Congo). Photos par Bart Würsten (A, ©), Jean Pierre Vande weghe (B, ©), Francesca Lanata (C, ©) et Paul Latham (D, ©).*
+*Figure 1. Euploca katangensis: A. Habit (Zimbabwe). – Heliotropium indicum: B. Inflorescence (P.N. de Loango, Gabon). – Ehretia cymosa: C. Inflorescence (Dem. Rep. Congo); D. Infructescence (Lower-Congo, Dem. Rep. Congo). Photos by Bart Würsten (A, ©), Jean Pierre Vande weghe (B, ©), Francesca Lanata (C, ©) and Paul Latham (D, ©).*
 
 ![Heliotropium indicum](../sources/Boraginaceae_vol57_paddle/figures/fig_017_p0026.png)
 
-*Planche 6. Heliotropium indicum: 1. Port. – 2. Fleur. – 3. Fruit. – 4. Idem, section transversale. Dessin par Iskak Syamsudin, PROSEA Foundation (©), reproduit avec permission à partir de Chuakul et al. (1999).*
+*Plate 6. Heliotropium indicum: 1. Habit. – 2. Flower. – 3. Fruit. – 4. Idem, transverse section. Drawing by Iskak Syamsudin, PROSEA Foundation (©), reproduced with permission from Chuakul et al. (1999).*
 
 ## Notes
 

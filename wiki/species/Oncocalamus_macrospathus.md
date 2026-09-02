@@ -33,6 +33,16 @@ Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic o
 
 frequent along forest edges, in clearings and in secondary forests, abundant on periodically flooded soils and along rivers; in Gabon between 30 and 500 m altitude, elsewhere between 10 and 550 m. Bibliography: Faye et al. (2014), Pajarón et al. (2015), Sunderland (2007, 2012). Bibliography
 
+## Figures
+
+![Oncocalamus macrospathus](../sources/Arecaceae_vol53_liteparse/figures/fig_027_p0038.jpeg)
+
+*Figure 3. Laccosperma robustum (Bambidie, Lastoursville): A. General habitat, note the drooping leaflets, B. Detail of the base of a leaf, note the numerous round spines, C. Detail of a leaflet-spine on the cirrhus. – Oncocalamus macrospathus (near Mandji): D. Juvenile form in understory,*
+
+![Oncocalamus macrospathus](../sources/Arecaceae_vol53_liteparse/figures/fig_032_p0047.png)
+
+*Plate 14 . Oncocalamus macrospathus : 1. Mature stem. – 2. Leaflets. – 3. Inflorescence. – 4. Part of immature flowering branch. – 5. Diagram of a cluster of flowers. – 6. Female flower with bracteole. – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

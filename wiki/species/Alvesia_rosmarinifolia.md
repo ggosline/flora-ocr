@@ -31,6 +31,12 @@ Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and Zambi
 
 periodically flooded zones in dry forest; in Gabon at low altitude, elsewhere up to 1400 m. Bi : Paton et al. (2013). Bibliography
 
+## Figures
+
+![Alvesia rosmarinifolia](../sources/Labiataeulmaceaeverbenaceae_vol58_liteparse/figures/fig_028_p0021.png)
+
+*Plate 3 . Alvesia rosmarinifolia : 1. Flowering stem. –2. Calyx in fruit. – 3. Flower without calyx. Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

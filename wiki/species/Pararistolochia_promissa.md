@@ -32,6 +32,12 @@ Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, République Centrafricaine, G
 
 lowland forest to montane forest, sometimes in secondarized stations ; in Gabon at 100–900 m altitude, elsewhere up to 1500 m. B : Hauman (1948), Hawthorne & Jongkind (2006), Hutchinson & Dalziel (1928), Poncy (1978)
 
+## Figures
+
+![Pararistolochia promissa](../sources/Aristolochiaceae_vol42_liteparse/figures/fig_013_p0020.png)
+
+*Plate 5. Pararistolochia promissa. 1, 2. Leafy branches (× ½). – 3–5. Inflorescences, showing the variation of the perianth (× ½). – 6. Gynostemium (× 4). – 7. Old stem, cross section (× 1). Drawing by J. Lemeux, reproduced with permission from the National Museum of Natural History (©) from Poncy (1978).*
+
 ## Notes
 
 <!-- TODO:notes -->

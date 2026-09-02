@@ -36,6 +36,12 @@ primary and secondarized forest, forest regrowth; in Gabon, at 0–300 m altitud
 
 Male flower. ‒ E. Female flower. ‒ F. Male flower, one sepal and two petals removed. ‒ G. Sepal. ‒ H. Petal. ‒ I. Infructescence. ‒ J. Seed, lateral face. ‒ K. Seed, ventral face. (A, E ‒ H: Breteler & Jongkind 10365; B ‒ D: Bourobou et al. 246; I: Leeuwenberg 5192; J, K: van der Maesen et al. 5496). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Pentabrachion reticulatum](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_024_p0059.png)
+
+*Plate 18. Pentabrachion reticulatum : A. Female flowering branch. ‒ B. Narrow leaf. ‒ C, D.*
+
 ## Notes
 
 <!-- TODO:notes -->

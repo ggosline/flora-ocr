@@ -36,6 +36,12 @@ in open tree vegetation, savannas, dry zones and stream banks, on heavy soils; i
 
 79+5122,1 -13
 
+## Figures
+
+![Chlorophytum stolzii](../sources/Anthericaceae_vol41_liteparse/figures/fig_008_p0017.png)
+
+![Chlorophytum stolzii](../sources/Anthericaceae_vol41_liteparse/figures/fig_009_p0017.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

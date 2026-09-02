@@ -38,6 +38,12 @@ dense humid or semi-deciduous forest, primary or secondary, gallery forest; in G
 
 The bark is used as an antipyretic and as a purgative. The oil of its seeds is an emetic. B: Lemmens (2008c), Staner & Gilbert (1958), de Wilde (1968). Bibliography
 
+## Figures
+
+![Trichilia gilletii](../sources/Meliaceae_vol47_liteparse/figures/fig_032_p0062.png)
+
+*Plate 18. Trichilia gilletii : A. Floriferous branch (× 0.5). – B. Part of a female inflorescence (× 0.5). – C. Bud and functionally male flowers (× 2). – D. Functionally female flower, one sepal and petals removed, longitudinal section (× 4). – E. Functionally male flower, ditto (× 4). – F. Ditto, part of the staminal tube, internal face (× 4). – G. Ditto, external face. – K. Fruit-bearing inflorescence (× 0.5). – M. Young fruit, transverse section (× 3). – N. Seed (× 1). – P. Ditto, transverse section (× 1). – R. Cotyledons juxtaposed (× 1). – S. Median vein of a leaflet, transverse section (× 10). – T. Detail of a leaflet, lower surface (× 15). (A, B, D, M, S–T: J. Louis 1413; C, E–G: J. Louis 7987; K: Descoings 8671;*
+
 ## Notes
 
 <!-- TODO:notes -->

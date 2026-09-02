@@ -44,7 +44,7 @@ Pax & Hoffmann (1922), Sosef et al. (2006)
 
 ![Drypetes magnistipula](../sources/Putranjivaceae_vol57_paddle/figures/fig_098_p0147.png)
 
-*Planche 47. Drypetes laciniata: 1. Feuille, avec nervures tertiaires. – 2. Stipule, bourgeon axillaire, pétiole et base du limbe. – 3. Limbe foliaire, détail de la nervation tertiaire, face inférieure. – Drypetes magnistipula: 4. Rameau avec feuilles et stipules. – 5. Fleur femelle, un sépale enlevé. – Drypetes stipularis: 6. Feuille, avec nervures tertiaires. – 7. Paire de stipules, pétiole et base du limbe. – 8. Limbe foliaire, détail de la nervation tertiaire, face inférieure. (1-3 : Harris 3461; 6-8 : Harris 7197). Dessin par R. Wise (1-3, 6-8), Royal Botanic Garden Edinburgh (©), et par Anonymus (4, 5), reproduit avec permission à partir de Harris & Wortley (2008) et Pax & Hoffmann (1922).*
+*Plate 47. Drypetes laciniata: 1. Leaf, with tertiary venation. – 2. Stipule, axillary bud, petiole and base of the blade. – 3. Leaf blade, detail of the tertiary venation, lower surface. – Drypetes magnistipula: 4. Branch with leaves and stipules. – 5. Female flower, one sepal removed. – Drypetes stipularis: 6. Leaf, with tertiary venation. – 7. Pair of stipules, petiole and base of the blade. – 8. Leaf blade, detail of the tertiary venation, lower surface. (1-3: Harris 3461; 6-8: Harris 7197). Drawing by R. Wise (1-3, 6-8), Royal Botanic Garden Edinburgh (©), and by Anonymus (4, 5), reproduced with permission from Harris & Wortley (2008) and Pax & Hoffmann (1922).*
 
 ## Notes
 

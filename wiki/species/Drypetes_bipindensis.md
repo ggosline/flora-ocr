@@ -46,7 +46,7 @@ Hutchinson (1912), Pax & Hoffmann (1922), Sosef et al. (2006)
 
 ![Drypetes bipindensis](../sources/Putranjivaceae_vol57_paddle/figures/fig_080_p0124.png)
 
-*Figure 7. Drypetes diopa: A. Rameau et fruits; B, Sommet du fruit à stigmate semi-persistent; C, Base du limbe foliaire. – Drypetes arborescens: D, Feuilles; E, Inflorescence mâle. – Drypetes aylmeri: F, Inflorescence mâle; G, Rameau florifère mâle. – Drypetes bipindensis: H, Inflorescence mâle; I, Stipule et base de la feuille; J, Rameau florifère mâle. Photos A par E. Bidault (Gabon, Bidault 4247), B par D. Harris (République Centrafricaine, Harris 8178), C par E. Bidault (Gabon, Bidault 4247), D, E par D. Nguema (Gabon, Nguema 1413), F, G par E. Bidault (Gabon, Bidault 2236), H-J par E. Bidault (Gabon, Bidault 5349).*
+*Figure 7. Drypetes diopa: A. Branch and fruits; B, Apex of the fruit with semi-persistent stigma; C, Base of the leaf limb. – Drypetes arborescens: D, Leaves; E, Male inflorescence. – Drypetes aylmeri: F, Male inflorescence; G, Male flowering branch. – Drypetes bipindensis: H, Male inflorescence; I, Stipule and leaf base; J, Male flowering branch. Photos A by E. Bidault (Gabon, Bidault 4247), B by D. Harris (Central African Republic, Harris 8178), C by E. Bidault (Gabon, Bidault 4247), D, E by D. Nguema (Gabon, Nguema 1413), F, G by E. Bidault (Gabon, Bidault 2236), H-J by E. Bidault (Gabon, Bidault 5349).*
 
 ## Notes
 

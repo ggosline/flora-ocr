@@ -30,6 +30,12 @@ southern Cameroon and Gabon (Chaillu Massif)
 
 primary forest. B: Sosef (1992b), Sosef (1994). BIBLIOGRAPHY
 
+## Figures
+
+![Begonia mbangaensis](../sources/Begoniaceae_vol39_liteparse/figures/fig_041_p0059.png)
+
+*Plate 26. Begonia mbangaensis : 1. Flowering plant (× ⅔). – 2. Detail of the indument of the upper surface of a young blade (× 4). – 3. Detail of the indument of the lower surface of the adult blade (× 4). – 4. Flower ♀ (× 2). – 5. Flower ♂ (× 2). – 6. Tepal of a flower ♂, external face (× 2). – 7. Young fruit with styles and stigmas (× 2). (1-4, 7 : Letouzey 9460 ; 5, 6 : Bates 297 ) . Drawing by W W -*
+
 ## Notes
 
 <!-- TODO:notes -->

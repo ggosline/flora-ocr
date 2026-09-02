@@ -29,6 +29,12 @@ ment in the middle; corolla cream, with tube 3.8–6.8 mm long, 1.8–2.2 mm wid
 
 forest; in Gabon at ± 100–200 m altitude, elsewhere at ± 25 m. B: Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY Landolphia breviloba J.M. Pers Plate 48(1); Figure 6(G) Wageningen Agric. Univ. Pap. 92(2): 22 (1992). Large liana; branches generally glabrous. Leaf: petiole 3–10 mm; limb narrowly oval to obovate, 2.8–3.5 times as long as wide, of 15–39 × 5–13 cm, acute to subcordate at the base, acuminate at the apex, glabrous or almost glabrous; secondary nerves 9 to 14 pairs, straight or curved, with 1 or 2 less distinct nerves between two secondaries, tertiary nervation generally scarcely visible below. Inflorescence axillary, with 3 to 12 flowers. Flower: perfumed; pedicel up to 1.5 mm, with 1–2 bracts; calyx with lobes 1–1.5 times as long as wide, 1.8–2.8 × 1.5–1.8 mm, pilose or pubescent at the exterior; corolla violet, pale or whitish, with tube 19–27 mm long, 1.8–3.1 mm wide at the level of the anthers and 1.7–2.4 mm at the throat, the widest part at 15–23 mm from the base, at least the widest part puberulent to the exterior, the interior partially pilose, with narrowly oval to oval lobes, 0.24–0.4 times as long as the tube, 1.8–2.1 times as long as wide, of 5–12 × 2.7–4.5 mm, partially glabrous, margin (partially) ciliate; stamens inserted at 0.73–0.8 of the length of the tube, clearly included, anther 1.2–2.1 mm long; pistil 16.5–21 mm long, ovary pilose with longer hairs in the centre, gradually narrowed towards the apex; style 10.5–17 mm, pilose to densely pilose, less dense towards the apex. Fruit ellipsoidal to subglobose, 3–6 × 2.8–5 cm, smooth, with yellow and red-purple longitudinal pattern, with numerous seeds; pulp sweet-tasting. Distribution Gabon and Republic of the Congo; in Gabon, Haut-Ogooué, Moyen-Ogooué, Ngounié, Ogooué-Ivindo and Woleu-Ntem. Ecology primary and secondary forests, up to 700 m altitude. B: Persoon et al. (1992). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia axillaris](../sources/Apocynaceae_vol59_liteparse/figures/fig_101_p0114.jpeg)
+
+*Plate 47. Landolphia axillaris: 1. Flowering branch (× 2). – 2. Corolla open with stamens (× 2). – 3. Calyx (× 4). – 4. Stamen open, lateral view (× 12). – 5. Pistil (× 6). – 6. Ovary (× 14). – 7. Head of the pistil (× 20). – 8, 9. Lobe of the calyx, external and internal surface (× 6). (1-9: Le Testu 1847). Drawing by*
+
 ## Notes
 
 <!-- TODO:notes -->

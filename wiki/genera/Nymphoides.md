@@ -35,6 +35,11 @@ i Bibliography
 
 - Corolla white with yellow centre, with tube 4–9 mm long and lobes 8–11 mm long; petiole (10–)15–60 mm long; blade up to 25–30 cm in diameter; fruit with a large number of seeds (often more than 50) ...... N. indica subsp. occidentalis
 
+## Key to the species
+
+1. - Corolla yellow, with tube 3–3.5 mm long and lobes 6–8 mm long; petiole 3–10(–30) mm long; limb scarcely exceeding 12 cm in diameter; fruit with up to 12 seeds ................................................................................. N. forbesiana
+- Corolla white with yellow center, with tube 4–9 mm long and lobes 8–11 mm long; petiole (10–)15–60 mm long; limb up to 25–30 cm in diameter; fruit with a large number of seeds (often more than 50) ...... N. indica subsp. occidentalis
+
 ## Species in region
 
 | Species | Vol | Pages |

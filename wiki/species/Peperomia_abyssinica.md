@@ -42,6 +42,12 @@ Peperomia 63
 
 64 Tariq STÉVART & Daniel J.L. GEERINCK
 
+## Figures
+
+![Peperomia abyssinica](../sources/Piperaceae_vol50_liteparse/figures/fig_037_p0070.png)
+
+*Plate 25 . Peperomia molleri subsp. molleri : 1. Habit. – Peperomia abyssinica : 2. Habit. – Peperomia fernandopoana var. fernandopoana : 3. Habit. (1 : Arends et al. 545 ; 2 : Droissart et al. 1238 ; 3 : J.J.F.E. de Wilde et al. 11647 ). Drawing by Antonio Fernandez, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

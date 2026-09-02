@@ -36,6 +36,12 @@ southern Nigeria, Cameroon and Gabon; in Gabon, only collected in the provinces 
 
 dense humid forests; in Gabon at low altitude up to 300 m, elsewhere up to 720 m. Taxonomic notes: The second African species, S. africana A.Chev., is known from Ivory Coast and Ghana. This species has many more flowers than S. ledermannii and the pedicels are not recurved. We were not able to verify the presence of staminodes in the female flowers as mentioned in the literature. B : Hepper (1968), Engler (1909), Symoens (1984). Bibliography
 
+## Figures
+
+![Sciaphila ledermannii](../sources/Triuridaceae_vol41_liteparse/figures/fig_045_p0071.png)
+
+*Plate 16. Sciaphila ledermannii . 1. Plant (× ⅔). – 2. Bract (× 5). – 3. Cauline leaf (× 4). – 4. Male flower (× 20). – 5. Stamen (× 24). – 6. Bisexual flower (× 20). – 7. Young carpel (× 20). – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

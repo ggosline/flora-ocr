@@ -41,6 +41,12 @@ fever leaf, West African hardwood, Yoruba ironwood (angl.). : Adebisi & Ladipo (
 
 B. ferruginea. ‒ E, F: B. grandis. ‒ G, H: B. micrantha. ‒ I, J: B. wilksii. (A, B: Dibata 142; C, D: J.J. de Wilde et al. 8953; E, F: Breteler c.s. 15563; G, H: Reitsma c.s. 742; I, J: Sosef et al. 2588). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Bridelia atroviridis](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_009_p0019.png)
+
+*Plate 3. Bridelia spp., leaves with details of the lower surface : A, B : B . atroviridis . ‒ C, D :*
+
 ## Notes
 
 <!-- TODO:notes -->

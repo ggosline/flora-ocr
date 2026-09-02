@@ -33,6 +33,16 @@ Liberia, Côte d'Ivoire, Ghana, Cameroon, Central African Republic, Equatorial G
 
 understory of primary and secondary forests, often deeply shaded; in Gabon, as elsewhere at 0–800 m altitude. Flowering recorded from November to February. Bibliography: Baker (1898), Bos (1984), Damen et al. (2018), Figueiredo & Smith (2008), Hepper (1968), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena cerasifera](../sources/Dracaenaceae_vol54_liteparse/figures/fig_020_p0026.jpeg)
+
+*Figure 2 . Dracaena braunii (Pongara, Gabon) : A. General aspect with inflorescence with 1 to 3 flowers per fascicle. – Dracaena bushii (cult., Hortus Botanicus Leiden, Netherlands) : B. Equitant leaf bases and capitate inflorescences. – Dracaena cerasifera (near Abidjan, Ivory Coast) : C. Inflorescence showing slender pedicels. – Dracaena glomerata (Mabounié, Gabon) : D. Infructescence with zigzag rachis and elliptic pseudopetiolate leaves. (Photos A, B by Theo H.J. Damen © ; C by A.J.M.*
+
+![Dracaena cerasifera](../sources/Dracaenaceae_vol54_liteparse/figures/fig_026_p0032.png)
+
+*Plate 9. Dracaena cerasifera: 1. Apex of a flowering branchlet. – 2. Branch. – 3. Young shoot. – 4. Flower. – 5. Open flower, inner surface. – 6. Stamen. – 7. Fruit, view from below. Drawing by Y.F. Tan,*
+
 ## Notes
 
 <!-- TODO:notes -->

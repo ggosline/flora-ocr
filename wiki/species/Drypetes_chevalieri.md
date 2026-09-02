@@ -50,11 +50,11 @@ Keay (1958), Quintanar et al. (2021b), Sosef et al. (2006)
 
 ![Drypetes chevalieri](../sources/Putranjivaceae_vol57_paddle/figures/fig_092_p0132.png)
 
-*Figure 8. Drypetes capillipes: A, Rameau fructifère; B, Fleur mâle. – Drypetes chevalieri: C, Rameau fructifère; D, fruit. – Drypetes cinnabarin: E, Rameau florifère mâle. – Drypetes gilgiana: F, Rameau florifère femelle; G, Fleur femelle; H, fleurs mâles. Photos A par N. Texier (Gabon, Texier 2165), B par T. Stévart (Gabon, Stévart 4332), C, D par E. Bidault (Gabon, Bidault 2297), E par D. Harris (Rép. Centrafricaine, Harris s.n.), F, G par E. Bidault (Gabon, Bidault 2265), H par E. Bidault (Bagon, Bidault 4844).*
+*Figure 8. Drypetes capillipes: A, Fruiting branch; B, Male flower. – Drypetes chevalieri: C, Fruiting branch; D, Fruit. – Drypetes cinnabarin: E, Male flowering branch. – Drypetes gilgiana: F, Female flowering branch; G, Female flower; H, Male flowers. Photos A by N. Texier (Gabon, Texier 2165), B by T. Stévart (Gabon, Stévart 4332), C, D by E. Bidault (Gabon, Bidault 2297), E by D. Harris (Central African Rep., Harris s.n.), F, G by E. Bidault (Gabon, Bidault 2265), H by E. Bidault (Gabon, Bidault 4844).*
 
 ![Drypetes chevalieri](../sources/Putranjivaceae_vol57_paddle/figures/fig_105_p0159.png)
 
-*Planche 52. Drypetes principum: 1. Rameau florifère. – 2. Bouton d'une fleur mâle. – Drypetes chevalieri: 3. Rameau fructifère. – 4. Gynécée. – 5. Fruit mûr. Dessin par A. Aubréville, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Aubréville (1959).*
+*Plate 52. Drypetes principum: 1. Flowering branch. – 2. Bud of a male flower. – Drypetes chevalieri: 3. Fruiting branch. – 4. Gynoecium. – 5. Ripe fruit. Drawing by A. Aubréville, National Museum of Natural History, Paris (©), reproduced with permission from Aubréville (1959).*
 
 ## Notes
 

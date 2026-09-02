@@ -37,6 +37,16 @@ Landolphia pyramidata Pierre-J.P. Pers. Plate 65; Figure 8(C, D) Wageningen Agri
 
 Pistil (× 10). – 7. Fruit (× ½). – 8. Idem, view from below (× ½). (1: Leeuwenberg 12408; 2-5: Arends et al. 599; 6-8: A.M. Louis et al. 1405). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
+## Figures
+
+![Landolphia persooniana](../sources/Apocynaceae_vol59_liteparse/figures/fig_132_p0148.jpeg)
+
+*Plate 64. Landolpia persooniana 5DPHDXÀRULIqUH±'pWDLOGXOLPEHIROLDLUHIDFHLQIpULHXUH± 3. Flower. – 4. Bract, inner surface. – 5. Lobe of calyx, outer surface. – 6. Idem, inner surface. – 7. Corolla, open. – 8. Stamen, ventral view. – 9. Idem, dorsal view. (1-9: Wieringa, van Proosdij & Nzabi 7454). 'HVVLQSDU+DQVGH9ULHV-DUGLQERWDQLTXHGH0HLVH*
+
+![Landolphia persooniana](../sources/Apocynaceae_vol59_liteparse/figures/fig_133_p0149.jpeg)
+
+*Plate 65. Landolpia pyramidata 5DPHDXÀRULIqUHîò±%UDQFKVKRZLQJWKHH[IROLDWHGEDNHÎÒ±6SLUHÎÒ±3HWDOV±7KHFRUUHHWXQWUHVVHG±,GHP6SLUHVGHWDLOÎ*
+
 ## Notes
 
 <!-- TODO:notes -->

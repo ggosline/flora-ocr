@@ -83,6 +83,102 @@ SPECIES WITH CENTRAL FERTILE STEM
 
 2. - Basal leaves reduced to sheaths; fertile stem leafed mainly in the
 
+## Key to the species
+
+1. - Central fertile stem, often with a leaf ..................................................... 2
+- Lateral fertile stem, without a leaf, appearing at the axil of old basal leaves
+(sometimes decomposed) .............................................................................. 16
+SPECIES WITH CENTRAL FERTILE STEM
+2. - Basal leaves reduced to sheaths; fertile stem leafy mainly in the upper 2/3 or
+stem non-leafy (involucral bracts present) ..................... 3
+- Fertile stem leafy near the base (sheaths without blade may also be present in
+addition to those bearing a blade) .......................................................... 4
+3. - Stem non-leafy; inflorescence surrounded by 3 involucral foliaceous bracts,
+equal, ovate, 3–6 cm long; basal leaves reduced to purplish sheaths;
+inflorescence in compact ovate head .......................... M. sylvatica subsp. gabonica
+- Stem with 5–10 leaves, the largest 25–40 cm long; inflorescence surrounded by
+foliaceous involucral bracts of different sizes and at most 2 cm wide; inflorescence
+lax ......................................................... M. lancifolia
+4. - Inflorescence lax; blade linear; spicoid with 2 floral bracts .................. 5
+- Inflorescence compact, capitate; blade linear or lanceolate to ovate, sometimes
+with a pseudo-petiole between sheath and blade; spicoid with 4–6 floral
+bracts ..................................................................................................................... 9
+5. - Spikes 3.5–5 mm long at maturity; spicoid bracts 1.5–2 mm long
+........................................................................................................... M. heterophylla
+- Spikes 5–18 mm long at maturity; spicoid bracts 2.5–3 mm long ... 6
+6. - Spicoid bracts marbled; largest blade 3–4.5 cm wide
+............................................................................................................ M. polystachya
+- Spicoid bracts without marbling; largest blade 2–3 cm wide .............. 7
+
+---
+
+7. - Achene entirely wrinkled ........................................................................ M. chevalieri
+- Achene not entirely wrinkled, upper part almost smooth .................................. 8
+8. - Achene straw yellow with reddish dots, smooth or with longitudinal lines or weak
+ribs or slightly wrinkled below, without constriction
+........................................................................................................ M. purpurascens
+- Achene straw yellow to brownish, wrinkled or striated below, often constricted
+above the middle ............................................................................................ M. afro-orientalis
+9. - Leaf with a pseudo-petiole; blade linear to ovate–lanceolate ......................... 10
+- Leaf without pseudo-petiole; blade linear, gradually narrowed into sheath .... 13
+10. - Spicoid bracts with hyaline hairs; style with 3 branches; 6 floral bracts
+........................................................................................................... M. pubisquama
+- Spicoid bracts glabrous or sparsely hairy; style with 2 branches; 4 floral
+bracts ................................................................................................................... 11
+11. - Terminal inflorescence formed of a dense globose cluster of spikes, often
+partially surrounded by the basal involucral bract; spicoid bracts 5–8 mm long,
+hispid toward the apex ............................... M. amplivaginata
+- Terminal or pseudolateral inflorescence formed of a cluster of spikes, dense or
+more lax, not hidden by the involucral bracts; spicoid bracts 4–5 mm long,
+glabrous .................................................................................................... 12
+12. - Largest blades 2–6 cm wide; basal involucral bracts 2.5–5 cm wide;
+inflorescence 2–4.5 cm wide; floral bracts approximately the same
+length .......................................................................................... M. mannii
+- Largest blades 1.5–2 cm wide; basal involucral bracts narrower (<1.8 cm);
+inflorescence 1.4–2.2 cm wide; lower floral bracts longer than the
+upper ......................................................................... M. testui
+13. - Largest blades less than 3.1 cm wide ........................................ M. soyauxii
+- Largest blades more than 3.5 cm wide ......................................................... 14
+14. - Inflorescence in compact cluster of often indistinct spikes; spicoid bracts
+9–10 × 1–1.2 mm; floral bracts 9–11 mm long ............ M. macrantha
+- Inflorescence in slightly more open cluster of indistinct spikes; spicoid bracts
+6–10 × 1.2–2.5 mm; floral bracts 6–11 mm long ........ 15
+15. - Inflorescence purplish; style 6.5–9 mm with branches 3–4.5 mm long; the 2
+lower floral bracts 9–11 mm long
+............................................................................................................ M. purpuriceps
+- Inflorescence medium to dark brown; style 4.9–5 mm with branches 1.5–2.3 mm
+long; the 2 lower floral bracts 6–7 mm long
+............................................................................................................ M. raynaliana
+SPECIES WITH LATERAL FERTILE STEM
+16. - Inflorescence in lax corymbiform anthela, 3–15 cm wide; fruit with longitudinal
+ribs ....................................................................... M. heteromorpha
+- Inflorescence in dense spheric head formed of crowded spikes, rarely in lax
+hemispherical anthela at most 3 cm wide; fruit tuberculate or smooth ................... 17
+17. - Stem very scabrous below the inflorescence with narrow ribs bearing small teeth;
+inflorescence in very dense spheric head .............................. M. scaberrima
+- Stem rounded below the inflorescence, smooth; inflorescence in dense or lax
+head ... 18
+
+---
+
+18. - Inflorescence in spheric head 1–3 cm wide, rarely more; 2 floral bracts ........... 19
+- Inflorescence in spheric head 0.5–1.8 cm wide; 4–8 floral bracts .......... 21
+19. - Spike pale or whitish or at least white toward the apex ............. M. senegalensis
+- Spike brown, without whitish parts ......................................................................... 20
+20. - Inflorescence in dense head of spikes or in umbel with branches terminating in a
+small cluster of spikes; involucral bracts purplish; achene 2–3 mm long,
+tuberculate .................................................................................................... M. secans
+- Inflorescence in dense spheric head formed of crowded spikes; involucral bracts
+green; achene 3.5–4.5 mm long, weakly wrinkled, with a prominent
+beak ................................................................................................................ M. pynaertii
+21. - Spicoid bracts 2–2.5 mm long; floral bracts 2.3–2.5 mm long
+......................................................................................... M. pallescens
+- Spicoid bracts 3.5–5.5 mm long; floral bracts 3.5–5 mm long ...................................... 22
+22. - Stem 0.9–2 mm wide, ± erect; inflorescence with at least 3 spikes
+............................................................................................ M. africana var. africana
+- Stem 0.4–0.7 mm wide, curved; inflorescence with 1–2 spikes
+............................................................................................... M. africana var. filipes
+
 ## Species in region
 
 | Species | Vol | Pages |

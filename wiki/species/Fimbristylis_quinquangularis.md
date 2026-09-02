@@ -34,6 +34,14 @@ Asia and Australia; perhaps introduced to Africa and America with rice cultivati
 
 in marshy grasslands, cultivated land in particular rice fields; in Gabon, at 0–500 m altitude, up to about 1100 m in East Africa. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
+## Figures
+
+![Fimbristylis quinquangularis](../sources/Cyperaceae_vol44_liteparse/figures/fig_125_p0149.png)
+
+*Planche 97 . Fimbristylis quinquangularis . A. Planche 98 . Fimbristylis scabrida . A. Plante. – B.*
+
+![Fimbristylis quinquangularis](../sources/Cyperaceae_vol44_liteparse/figures/fig_126_p0149.png)
+
 ## Notes
 
 <!-- TODO:notes -->

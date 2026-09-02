@@ -35,6 +35,11 @@ Bibliography
 
 - Stem unarmed; leaf blade pinninerved; inflorescence 5–6(–10) × 5–6 cm; calyx lobes 1(–1.5) mm long; stamens exsert for 2–3(–5) cm .... V. inermis
 
+## Key to the species
+
+1. - Stem armed with recurved prickles; leaf blade 3-veined; inflorescence 15(–35) × 15(–20) cm; calyx lobes 3–4 mm long; stamens exserted for (1–)1.5 cm ................................................................................................................ V. aculeata
+- Stem unarmed; leaf blade pinnate-veined; inflorescence 5–6(–10) × 5–6 cm; calyx lobes 1(–1.5) mm long; stamens exserted for 2–3(–5) cm .... V. inermis
+
 ## Species in region
 
 | Species | Vol | Pages |

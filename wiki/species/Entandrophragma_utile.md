@@ -41,6 +41,16 @@ sipo (nom pilote) ; acajou sipo (fr.) ; brown mahogany, heavy maho gany, sipo ma
 
 Chipp 106 ). Drawing by L. van der Riet, Naturalis Biodiversity Center, Leiden (©).
 
+## Figures
+
+![Entandrophragma utile](../sources/Meliaceae_vol47_liteparse/figures/fig_019_p0030.png)
+
+*Plate 5. Entandrophragma angolense: A. Fruit open with one valve removed, exposing the columella covered with seeds (× 0.5). – B. Germination (× 0.5). – Entandrophragma utile: C. Fruit, ditto (× 0.5). –*
+
+![Entandrophragma utile](../sources/Meliaceae_vol47_liteparse/figures/fig_020_p0032.png)
+
+*Plate 6. Entandrophragma utile : A. Flowering branch (× 0.5). – B. Flower, two petals removed exposing the staminal tube (× 4). – C. Detail of the lower surface of a leaflet showing the hairs at the axil of the lateral veins (× 3). – Entandrophragma candollei : D. top of branch and part of a leaf with the lower surface of the leaflets (× 0.5). – E. Open flower (× 4). (A, C : Leeuwenberg 2510 ; B :*
+
 ## Notes
 
 <!-- TODO:notes -->

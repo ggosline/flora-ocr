@@ -37,6 +37,12 @@ Understory and brush, often at water's edge; in Gabon at 150–650 m altitude, e
 
 See the note under D. aubryana. B: Bos (1984), Mwachala (2005, 2007). Bibliography
 
+## Figures
+
+![Dracaena kindtiana](../sources/Dracaenaceae_vol54_liteparse/figures/fig_030_p0038.jpeg)
+
+*Plate 13. Dracaena kindtiana : 1. End of a branch with base of inflorescence. – 2. Details of stem with prophylls and leaf bases. – 3. End of inflorescence. – 4. Open flower, internal surface. – 5. Anther. – 6. End of style. – 7. Infructescence. – 8. Fruit. Drawing by Cynthna Letty,*
+
 ## Notes
 
 <!-- TODO:notes -->

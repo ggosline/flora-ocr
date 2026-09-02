@@ -46,6 +46,20 @@ Asparagus tree, Asparagus bush (angl.) ; alen ocpo (nom pilote)
 
 D. nitens, D. perrottetii and D. usambarensis are closely related to D. mannii and are even treated as synonyms by Bos (1984). Here, we treat them as distinct taxa based on the characters mentioned in the key. B: Baker (1898), Bos (1984), Burkill (1985), Damen et al. (2018), Hepper (1968), Marquet (1987), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
+## Figures
+
+![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_032_p0042.jpeg)
+
+*Figure 3. Dracaena mannii (near Ndjolé, Gabon; near Oyem, Gabon): A. Erect inflorescences and leaves arranged in dense spirals, B. Gray bark with longitudinal fissures. – Dracaena marina (Montigny site at Okala, Gabon; Mondah, Gabon; Port Gentil, Gabon): C. General appearance showing smooth bark and leaves in terminal tufts, D. Floriferous branch with oblanceolate leaves and an old bright orange erect infrutescence, E. Stilt roots produced by growth in flooded conditions. (Photos A, B, D by Theo H.J. Damen ©; C by Tariq Stewart ©; E by Frans J. Breteler ©).*
+
+![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_033_p0042.jpeg)
+
+![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_034_p0042.jpeg)
+
+![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_035_p0042.jpeg)
+
+![Dracaena mannii](../sources/Dracaenaceae_vol54_liteparse/figures/fig_036_p0042.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

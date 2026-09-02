@@ -38,6 +38,12 @@ riparian and swampy forest, secondary bush; in Gabon up to 530 m altitude, elsew
 
 fève de Calabar, haricot de Calabar (fr.) ; Calabar bean, ordeal bean (angl.) ; ezèrè (mpongwè) ; motôndi (apindji, mitsogo, bavové, simba) ; munyungi (bavili, baduma, banzabi, bawandji) ; ntóna, nkóle-ndoghe (fang), ntóndè (bakèlè) ; osógó (ivéa) ; sógó (galoa, nkomi, orungu) ; tsógó (ngowé) ; tsógó-nyundji (masangu). B : Burkill (1995), Lewis et al. (2005), Pellegrin (1949), Raponda-Walker & Sillans (1961), i B liographie Wilczek (1954)
 
+## Figures
+
+![Physostigma venenosum](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_111_p0317.png)
+
+*Plate 103: Physostigma venenosum: 1. Flowering branch (× ½). – 2. Flower (× 1½). – 3. Calyx, in longitudinal section, and gynoecium (× 2). – 4. Style and stigma (× 4). – 5. Pod (× ½). – 6. Seed (× ¾). (1–6: Bentley & Trimen). Drawing reproduced from Taubert (1894).*
+
 ## Notes
 
 <!-- TODO:notes -->

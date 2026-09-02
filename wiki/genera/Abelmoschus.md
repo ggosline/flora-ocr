@@ -29,6 +29,11 @@ B: Bayer & Kubitzki (2003), Hauman (1963), Siemonsma (1991), Siemonsma & Kouamé
 
 - Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal ....................................................................... A. esculentus
 
+## Key to the species
+
+1. - Epicalyx (calyculus) segments 5–10, ovate to oblong, 4–13 mm wide; fruit ovoid to cylindric ............................................................................ A. caillei
+- Epicalyx segments 7–18, filiform to linear, 0.5–3 mm wide; fruit cylindric to pyramidal ....................................................................... A. esculentus
+
 ## Species in region
 
 | Species | Vol | Pages |

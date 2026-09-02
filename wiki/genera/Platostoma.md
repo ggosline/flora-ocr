@@ -39,6 +39,14 @@ Bibliography
 
 ................................................................................................................... P. africanum
 
+## Key to the species
+
+1. - Lower lip of the fruiting calyx horizontal or ascending, entire, rounded at the apex and exceeding the upper lobe; calyx in fruit ≤ 2.5 mm long; annual herb; stem generally erect, sometimes rooting at the lower nodes and soon developing numerous lateral curved-ascending branches ................................................................................................................... P. africanum
+- Lower lip of the fruiting calyx appressed to the upper lip, closing the throat, toothed, finely toothed or emarginate at the apex; fruiting calyx ≥ 2.5 mm long; perennial herb; stem creeping, often rooting at the lower nodes, with ascending flowering shoots ....................................................................... 2
+2. - Leaf blade crenate to closely crenate, with 20 to 40 teeth; fruiting calyx funnel-shaped, with lower lip bearing 5 small teeth or lobes at the apex .............. P. denticulatum
+- Leaf blade deeply crenate, almost lobed, with 10 (to 20) teeth; fruiting calyx urceolate, with lower lip emarginate to rounded with very reduced lobes
+.................................................................................................................. P. gabonense
+
 ## Species in region
 
 | Species | Vol | Pages |

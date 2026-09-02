@@ -33,6 +33,18 @@ widely distributed in tropical and temperate regions; rare in Gabon, found only 
 
 margins of open waters such as pools or streams, marshes and river beds; in Gabon, at 500–750 m altitude, up to 1370 m in East Africa. Taxonomic note: This species is immediately identified by its triquetrous stems and its short bract resembling the stem. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Schoenoplectus mucronatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_177_p0199.png)
+
+*Planche 125 . Rhynchospora rubra subsp. africana . Planche 126 . Schoenoplectus mucronatus . A.*
+
+![Schoenoplectus mucronatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_179_p0201.jpeg)
+
+*Figure 24. Akènes de a) Schoenoplectus mucronatus ( Wieringa 4668 , Ngounié, Gabon) et b) Scleria aurantiaca ( Wieringa et al. 6430 , Haut-Ogooué, Gabon). noplectus ), et plumeux chez S. subulatus (parfois placée dans la section Malacochaete (Ohwi) S.G. Sm. & Hayasaka). Aujourd’hui, les espèces annuelles grêles partiennaient auparavant à Schoenoplectus , sont maintenant généralement placées dans le genre Schoe- noplectiella Lye. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie*
+
+![Schoenoplectus mucronatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_180_p0201.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

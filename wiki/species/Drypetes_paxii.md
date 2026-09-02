@@ -42,11 +42,11 @@ BIBLIOGRAPHY: Keay (1958, 1989), Keay, Onochie & Stanfield (1960), Pax & Hoffman
 
 ![Drypetes paxii](../sources/Putranjivaceae_vol57_paddle/figures/fig_099_p0148.png)
 
-*Figure 10. Drypetes laciniata: A, Inflorescence mâle; B, Stipule. – Drypetes moliwensis: C, Rameau florifère mâle; D, Fleurs mâles. – Drypetes paxii: E, Jeune fruit. – Drypetes preussii: F, Rameau feuillé; G, Inflorescence mâle; H, Jeunes fruits. Photos A, B par E. Bidault (Gabon, Bidault 2245), C, D par E. Bidault (Gabon, Bidault 2241), E par D. Harris (Rép. Centrafricaine, Harris 8171), F, G par D. Nguema (Gabon, Nguema 3396), H par A. Boupoya (Gabon, Boupoya 2083).*
+*Figure 10. Drypetes laciniata: A, Male inflorescence; B, Stipule. – Drypetes moliwensis: C, Male flowering branch; D, Male flowers. – Drypetes paxii: E, Young fruit. – Drypetes preussii: F, Leafy branch; G, Male inflorescence; H, Young fruits. Photos A, B by E. Bidault (Gabon, Bidault 2245), C, D by E. Bidault (Gabon, Bidault 2241), E by D. Harris (Central African Rep., Harris 8171), F, G by D. Nguema (Gabon, Nguema 3396), H by A. Boupoya (Gabon, Boupoya 2083).*
 
 ![Drypetes paxii](../sources/Putranjivaceae_vol57_paddle/figures/fig_102_p0155.png)
 
-*Planche 50. Drypetes paxii: 1. Rameau fleuri mâle (×½). - 2. Rameau fleuri femelle (×½). - 3. Limbe foliaire, détail de la nervation tertiaire, face inférieure. - 4. Rameau, bourgeon axillaire, pétiole et base du limbe. - 5. Bouton mâle (×8). - 6. Fleur mâle (×8). - 7. Fleur femelle (×5). - 8. Fruit (×1½). (1, 5, 6: Louis 9557; 2, 7: Léonard 1171; 3, 4: Harris 6716; 8: Deschamps 220). Dessin par M. Boutique (1, 2, 5-8), Jardin botanique de Meise (©) et par R. Wise (3, 4), Royal Botanic Garden Edinburgh (©), reproduit avec permission à partir de Harris & Wortley (2008).*
+*Plate 50. Drypetes paxii: 1. Male flowering branch (×½). – 2. Female flowering branch (×½). – 3. Leaf blade, detail of tertiary venation, lower surface. – 4. Branch, axillary bud, petiole and base of limb. – 5. Male bud (×8). – 6. Male flower (×8). – 7. Female flower (×5). – 8. Fruit (×1½). (1, 5, 6: Louis 9557; 2, 7: Léonard 1171; 3, 4: Harris 6716; 8: Deschamps 220). Drawing by M. Boutique (1, 2, 5–8), Meise Botanical Garden (©) and by R. Wise (3, 4), Royal Botanic Garden Edinburgh (©), reproduced with permission from Harris & Wortley (2008).*
 
 ## Notes
 

@@ -33,6 +33,12 @@ West and East Africa, from Guinea to Sudan, Tanzania and Angola; in Gabon, known
 
 herbaceous and shrubby savannas, humid savannas, fallows, river banks, on sandy or shallow soil; in Gabon at 100–800 m altitude, elsewhere up to 1200 m. Flowers and fruits in February and October. B: Burkill (1995), Cronquist (1954), Gillett (1971d), Pellegrin (1949). Bibliography
 
+## Figures
+
+![Tephrosia elegans](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_129_p0360.png)
+
+*Plate 121 : Tephrosia elegans : 1. Habit (× ½). – 2. Open flower (× 2½). – 3. Flower, longitudinal section (× 2½). – 4. Half of standard, inner surface (× 2½). – 5. Wing, outer surface (× 2½). – 6. Petal of the keel, outer surface (× 2½). – 7. Base of the androecium (× 4). – 8. Gynoecium (× 4). – 9. Idem, longitudinal section (× 4). – 10. Immature pod (× 1). – 11. Valve (× 1). – 12. Seed (× 2½). (1–9 : Roucou s.n. ; 10–12 : Nelis s.n. ). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

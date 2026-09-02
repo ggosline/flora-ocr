@@ -43,6 +43,12 @@ heliophilous, common in clearings of humid forests and other open habitats; in G
 
 asa-nlong (juvénile), ndoro (adulte) (fang). Usage : Les cannes sont d’une qualité médiocre pour la vannerie, mais sont utilisées en l’absence d’autres espèces de rotins. B : Faye et al. (2014), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Sunderland i B liographie (1998, 2007, 2012)
 
+## Figures
+
+![Oncocalamus mannii](../sources/Arecaceae_vol53_liteparse/figures/fig_033_p0048.png)
+
+*Plate 15. Oncocalamus mannii : 1. Mature stem. – 2. Leaflets. – 3. Inflorescence. – 4. Part of the flowering branch. 5. Diagram of a flower cluster. – 6. Female flower. – 7. Idem, longitudinal section. – 8. Male flower. – 9. Fruit. – 10. Seed. – 11. Idem, longitudinal section. Scale bar: 1, 2 = 2.5 cm, 3 = 3 cm, 4 = 2.5 cm, 5 = 0.4 cm, 6-8 = 0.5 cm, 9-11 = 1 cm. (1-3: Sunderland 1921; 4-8: Sunderland 1923; 9-11:*
+
 ## Notes
 
 <!-- TODO:notes -->

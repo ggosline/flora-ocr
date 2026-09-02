@@ -37,6 +37,12 @@ Center (©), reproduced from Damen et al. (2018).
 
 National Herbarium Pretoria, reproduced from Killick (1959).
 
+## Figures
+
+![Dracaena haemanthoides](../sources/Dracaenaceae_vol54_liteparse/figures/fig_029_p0037.png)
+
+*Plate 12. Dracaena haemanthioides: 1. General appearance. – 2. Leaf, upper part. – 3. Flower open, internal face. – 4. Fruit-bearing inflorescence. – 5. Seed. Drawing by Hans de Vries, Naturalis Biodiversity*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -44,6 +44,12 @@ Fruit (× ½). – 4. Seedling (× ½). (1: Voorhoeve 470; 2: Voorhoeve 432; 3: 
 
 is edible. The wood serves as a multipurpose timber and is of good quality. The roots serve as a toothbrush. The macerated bark is used in lotions treating parasitic skin diseases and, boiled, as an antidiarrheal. B: Bamps (1970a, 1971), Pellegrin (1959), Sinsin & Avocèvou (2007), Bibliography (1965).
 
+## Figures
+
+![Pentadesma butyracea](../sources/Clusiaceae_vol45_liteparse/figures/fig_019_p0045.png)
+
+*Plate 10. Pentadesma butyracea: 1. Flowering branch (× ½). – 2. Leaf, lower surface (× 1). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

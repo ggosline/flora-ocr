@@ -39,6 +39,13 @@ B: Fischer (1992, 1995, 1999), Fischer et al. (2013), Ghazanfar et al. (2008).
 
 - Limb ovate to orbicular, 10–18 × 8–13 mm; corolla pale pink with lower lip blue; capsule 18–25 mm in length ...................................................... V. vogelii
 
+## Key to the species
+
+1. - Corolla cream-white with small purplish spots; capsule 8–10(–12) mm in length, exceeding the calyx by one-third of its length ............................. V. diffusa
+- Corolla pale purplish or pale pink with lower lip blue; capsule 13–25 mm in length, at least 2 times longer than the calyx ............................................... 2
+2. - Limb obovate to ovate-triangular, 20–40 × 10–25 mm; corolla pale purplish; capsule 13–14 mm in length ........................................................ V. senegalensis
+- Limb ovate to orbicular, 10–18 × 8–13 mm; corolla pale pink with lower lip blue; capsule 18–25 mm in length ...................................................... V. vogelii
+
 ## Species in region
 
 | Species | Vol | Pages |

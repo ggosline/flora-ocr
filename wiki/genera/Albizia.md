@@ -57,6 +57,36 @@ This genus comprises approximately 145 species from tropical and subtropical reg
 
 8'. Venation ± concave ..... 5. A. lebbekoides.
 
+## Key to the species
+
+(See keys at the tribe level page 132 sqq.)
+
+KEY TO SPECIES BY FRUITS
+
+1. Fruit distinctly stipitate.
+
+2. Pod ± pubescent or puberulent.
+
+3. Venation of the faces very prominent; fruit distinctly densely pubescent ..... 3. A. adianthifolia (var. adianthifolia, and var. intermedia)
+3'. Venation of the faces little prominent.
+
+4. Seed with central oblong aril ..... 1. A. laurentii.
+4'. Seed with small apical aril ..... 2 bis. A. glaberrima.
+
+5. Seed with central oblong aril ..... 2.
+
+5. Seed with small apical aril ..... 2 bis. A
+
+1'. Fruit not distinctly stipitate or not stipitate.
+
+6. Seeds prominent alternately on one of the faces (undulate aspect of the fruit) ..... 6. A. lebbeck.
+
+7. Venation of the fruit faces very effaced or absent ..... 7. A. chinensis.
+
+8. Venation prominent ..... 4. A. ferruginea.
+
+8'. Venation ± concave ..... 5. A. lebbekoides.
+
 ## Species in region
 
 | Species | Vol | Pages |

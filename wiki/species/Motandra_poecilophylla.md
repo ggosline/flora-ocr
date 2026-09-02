@@ -24,6 +24,16 @@ Liane reaching 5 m in height; branches brownish-grey, without lenticels; branchl
 
 Florence 1697; 2-8: Letouzey 8276). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from de Kruif (1984).
 
+## Figures
+
+![Motandra poecilophylla](../sources/Apocynaceae_vol59_liteparse/figures/fig_144_p0168.jpeg)
+
+*Plate 76. Motandra paniculata: 1. Flowering branch (× ⅔). – 2. Part of a branch with lenticels, longitudinal section, part of the corolla removed (× 20). – 7, 8. Stamen, ventral and dorsal views (× 6). – 9. Ovary, transverse section (× 20). – 10. Pistil, longitudinal section (× 20). – 11. Fruit (× ⅔). – 12. Fruit*
+
+![Motandra poecilophylla](../sources/Apocynaceae_vol59_liteparse/figures/fig_145_p0169.jpeg)
+
+*Plate 77. Motandra poecilophylla: 1. Flowering branch (× ⅔). – 2. Fruiting branch (× ⅔). – 3. Petiole and base of blade, upper surface (× 2). – 4. Domatia (× 2). – 5. Flower (× 10). – 6. Idem, longitudinal section, showing a stamen and the pistil, lobes of the corolla cut (× 20). – 7. Stamen, ventral view*
+
 ## Notes
 
 <!-- TODO:notes -->

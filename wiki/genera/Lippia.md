@@ -73,6 +73,12 @@ appressed hairs, without glandular hairs; floral bracts with apex acute to acumi
 
 ....................................................................................................................... L. rugosa
 
+## Key to the species
+
+1. - Upper surface of leaf blade smooth to the touch; stem subglabrous or with scattered hairs appressed in a rigid manner and other glandular ones; secondary bracts with apex obtuse to shortly mucronate ..................................................................... L . multiflora
+- Upper surface of leaf blade rugose to the touch; stem generally furnished with appressed hairs, without glandular hairs; floral bracts with apex acute to acuminate
+....................................................................................................................... L . rugosa
+
 ## Species in region
 
 | Species | Vol | Pages |

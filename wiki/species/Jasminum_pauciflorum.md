@@ -38,6 +38,12 @@ primary and secondarized forest, forest galleries, fallow land; in Gabon, at low
 
 The single Gabon collection of this species, dating from the early twentieth century, perhaps indicates that in this case it is an old introduction, at least near Libreville. On the other hand, photograph no. 2081 in Vande weghe et al. (2016) suggests that its presence in Minkébé National Park is indeed natural. Investigation of the type of J. preussii f. minutiflorum Roberty (1953) led to the conclusion that it is a very hairy specimen of J. pauciflorum. Bibliography: Breteler (2002), Green (1963), Kupicha (1983), Liben (1973), Turrill (1952), Vande weghe et al. (2016)
 
+## Figures
+
+![Jasminum pauciflorum](../sources/Oleaceae_vol51_liteparse/figures/fig_022_p0018.png)
+
+*Plate 5. Jasminum pauciflorum: 1. Flowering branch. – 2. Flower, longitudinal section. – 3. Calyx. – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

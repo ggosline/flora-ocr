@@ -41,6 +41,14 @@ golden beaksedge, matamat (angl.). Usage : La plante entière sert comme engrais
 
 Inflorescence. – D. Part of the inflorescence. – of the inflorescence. – D. Base of the peduncle with E. Spikelet. – F. Flower. – G. Fruit and style. Drawing bract and prophyll. – E. Cluster of spikelets. – F. Original by Richard W. Haines ©. Spikelet without the 4 lower scales showing the flowers. – G. Fruit with perianth segments and 3 filaments. Original drawing by Richard W. Haines ©. b: Faridah Hanum & van der Maesen (1997), Haines & Lye (1983), Hoenibliography selaar et al. (2010), Hooper & Napper (1972), Lye (1997), Raynal (1971), Robinson (1961a).
 
+## Figures
+
+![Rhynchospora corymbosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_167_p0193.png)
+
+*Plate 119. Rhynchospora candida. A. Plant. Plate 120. Rhynchospora corymbosa. A. Plant. – B. Base of blade and sheath orifice. – C. – B. Base of blade and sheath orifice. – C. Part.*
+
+![Rhynchospora corymbosa](../sources/Cyperaceae_vol44_liteparse/figures/fig_168_p0193.png)
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -42,6 +42,12 @@ forming 4–5 areoles clearly semi-circular (brochidodromous venation). Inflores
 
 unknown. b : Breteler (2008). Bibliography
 
+## Figures
+
+![Cassipourea gummiflua](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_050_p0100.jpeg)
+
+*Plate 32. Cassipourea gummiflua : 1, 2. Flowering branches (× ½). – 2. Flower (× 6.) – 4. Flower, longitudinal section (× 6) – 5. Petal (× 12½). – 6. Fruit (× 4½). – 7. Seed surrounded by its aril (× 4½) . – 8.*
+
 ## Notes
 
 <!-- TODO:notes -->

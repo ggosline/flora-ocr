@@ -37,6 +37,12 @@ weed of gardens and cultivated areas, but also present in seasonally humid or sw
 
 amande de terre, choufa, souchet comestible (fr.) ; chufa, earth almond, edible galingale, yellow nutsedge (angl.) ; Erdamandel (allem.) ; chufa, junquinha mansa, tiririca (port.). Usage : Les tubercules sont mangés comme légume, et grillés, comme succédané du café. Les tubercules broyés et mélangés avec du lait, du miel et du maïs, produisent un plat reconstituant. Les tiges sont utilisées pour fabriquer des tapis. Note taxonomique : Bien que parfois confondue avec C. rotundus , cette espèce est souvent facilement identifiée par ses épillets roux et arrondis. B : Burkill (1985), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & ibliographie Napper (1972), Lye (1997)
 
+## Figures
+
+![Cyperus esculentus](../sources/Cyperaceae_vol44_liteparse/figures/fig_045_p0061.png)
+
+*Planche 33 . Cyperus esculentus. A. Plante. – B. Planche 34 . Cyperus imbricatus. A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

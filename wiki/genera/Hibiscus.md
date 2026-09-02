@@ -49,6 +49,45 @@ Bibliography
 
 5. – Flower or flowers on a set of peduncles and pedicels of 3–11 cm,
 
+## Key to the species
+
+1. - Epicalyx bracteoles (calyculus) forming a cupule with 8–10 teeth;
+coastal shrub ........................................................................................... H. tiliaceus
+- Epicalyx bracts for the most part free, fused only at the base ....... 2
+2. - Calyx accrescent after flowering, becoming red and fleshy ............... H. sabdariffa
+- Calyx little or not accrescent, not becoming fleshy ........................................... 3
+3. - Epicalyx bracteoles clearly or obscurely forked ............................. 4
+- Bracteoles simple ................................................................................................ 10
+4. - Stipules oval, auriculate, amplexicaul; epicalyx with 10 foliaceous bracteoles,
+elliptic or ovate, remarkably spread out in a plane forming a
+crown .............................................................................................. H. surattensis
+- Stipules linear or subulate, not amplexicaul; epicalyx reflexed, spread out or
+more or less appressed, not forming a crown, ............................................... 5
+5. - Flower or flowers on a set of peduncles and pedicels of 3–11 cm,
+resembling a geniculate pedicel; pedicel hairs often longer than
+those of the peduncle; plant robust, hispid ........................................ H. rostellatus
+- Flowers sessile or briefly pedicellate, no remarkable distinction between
+peduncle and pedicel ............................................................................................. 6
+6. - Limb lobed to the middle or more, or if entire, smooth, often with purple margin 7
+- Limb simple, palmately lobed or ovate-hastate and 3-lobed ............................................. 9
+7. - Limb smooth, often irregularly and slightly lobed toward the apex,
+often with purple margin ...................................................................... H. acetosella
+- Limb rugose or woolly, flowers yellow or violet ............................................. 8
+8. - Limb rugose, stems with hooks, flowers yellow ................................... H. noldeae
+- Entire plant woolly, hairs yellowish, no hooks, flowers violet
+.......................................................................................................... H. minkebeensis
+9. - Limb pentagonal, slightly lobed, with irregularly dentate margin, plant
+covered with stellate hairs; flowers white ......................................... H. ngokbanakii
+- Limb elongately ovate to ovate-hastate, plant hispid, flowers yellow H. sudanensis
+10. - Limb simple, linear-lanceolate .......................................................... H. squamosus
+- Limb lobed or divided ............................................................................................. 11
+11. - Limb lobed, the lower surface furnished with whitish incrustatations between the
+bases of the veins; irritant hairs; calyx foliaceous; epicalyx composed of 10
+filiform divergent bracteoles ...................................................... H. physaloides
+- Limb 3–5-divided, without incrustatations between the veins; plant rugose;
+calyx coriaceous, epicalyx composed of 5(–7) narrowly triangular
+to linear, coriaceous and rugose bracteoles, more or less spread out ............................ H. asper
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -43,6 +43,12 @@ herbe à Nicot, tabac (fr.) ; tobacco (angl.) ; akaya (atégé, batéké) ; dita
 
 Cultivated tobacco is derived from a natural cross between N. sylvestris Speg. and N. tomentosiformis Goodsp. It is a highly polymorphic species and a large number of cultivars are used in tobacco manufacture. B: Bikandu et al. (2020), Edmonds (2012), Heine (1963), Raponda-Walker & Sillans (1961), Bibliography Ren & Timko (2001)
 
+## Figures
+
+![Nicotiana tabacum](../sources/Solanaceae_vol55_liteparse/figures/fig_052_p0104.png)
+
+*Plate 31 . Nicotiana tabacum : 1. Flowering stem. – 2. Leaf. – 3. Dissected flower, interior of the co - rolla. – 4. Detail of the pilosity of the branches. – 5. Ovary. – 6. Stigma. – 7. Capsule included in the accrescent calyx. – 8. Seed. (1, 7-8 : Volkens 2234 ; 2-6 : Mwangangi 969 ). Drawing by M. Tebbs (©), Royal*
+
 ## Notes
 
 <!-- TODO:notes -->

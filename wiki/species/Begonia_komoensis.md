@@ -37,6 +37,10 @@ The leaves are eaten, raw or boiled, as a vegetable. B: de Wilde (2002). BIBLIOG
 
 <!-- caption: Plate 46. Begonia letestui: 1. Fertile branch with ♂ inflorescences (× ½). – 2. Idem, with ♀ inflorescence (× ½). – 3. Idem, leaf removed, schematic view showing the stipules and the position of the ♀ inflorescence with its bracts and (a) an axillary bud. – 4. Flower ♂ (× 1.5). – 5. -->
 
+## Figures
+
+![Begonia komoensis](../sources/Begoniaceae_vol39_liteparse/figures/fig_061_p0099.png)
+
 ## Notes
 
 <!-- TODO:notes -->

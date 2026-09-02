@@ -22,6 +22,14 @@ Slender to robust herb, with an indistinct rhizome; 1–6 lateral stems, 5–15 
 
 a b
 
+## Figures
+
+![Mapania pallescens](../sources/Cyperaceae_vol44_liteparse/figures/fig_149_p0173.jpeg)
+
+*Figure 17. Akènes de a) Mapania mannii ( Breteler 11342 , Ogooué-Lolo, Gabon) et b) Mapania pallescens ( Sosef et al. 2304 , Ogooué-Maritime, Gabon).*
+
+![Mapania pallescens](../sources/Cyperaceae_vol44_liteparse/figures/fig_152_p0175.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

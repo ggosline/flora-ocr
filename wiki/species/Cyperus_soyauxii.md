@@ -32,6 +32,12 @@ Widely distributed in West Africa from Senegal to Gabon; rare in Gabon, found on
 
 In dry herbaceous zones and disturbed habitats; at low altitude (< 300 m). Taxonomic note: recognized by its solitary, spiny head formed of pale rounded spikelets. The compactness of the inflorescence is quite variable. The subspecies pallescens Lye from East Africa has larger and more open inflorescences, and very pale spikelets. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus soyauxii](../sources/Cyperaceae_vol44_liteparse/figures/fig_022_p0027.jpeg)
+
+*Figure 3. Akènes de a) Bulbostylis hensii ( Thery 99 , Haut-Ogooué, Gabon) et b) Cyperus soyauxii ( Wilks 2299 , Estuaire, Gabon).*
+
 ## Notes
 
 <!-- TODO:notes -->

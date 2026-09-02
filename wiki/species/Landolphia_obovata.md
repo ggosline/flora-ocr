@@ -26,6 +26,12 @@ L. obovata comprises all specimens cited under L. glandulosa sensu Persoon et al
 
 Transverse section ◄ (scale 1 cm) ; Seed ◄ (scale 1 cm) ; Idem, longitudinal section showing embryo ◄ (scale 1 cm) (1, 3–9: Le Testu 6390; 2, 10–13: Leeuwenberg & Persoon 13588). Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
+## Figures
+
+![Landolphia obovata](../sources/Apocynaceae_vol59_liteparse/figures/fig_130_p0144.jpeg)
+
+*Plate 62. Landolpia obovata: 5DPHDXÀRULIqUHîҀ±9ULOOHîҀ±'pWDLOGXOLPEHIROLDLUH lower surface (× 4). – 4. Flower (× 2). – 5. Idem, longitudinal section (× 2). – 6, 7. Stamen, ventral views*
+
 ## Notes
 
 <!-- TODO:notes -->

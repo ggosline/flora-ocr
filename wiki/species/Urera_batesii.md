@@ -41,6 +41,12 @@ The presence of this species in Central African Republic and Democratic Republic
 
 Urera 73 This poorly known species is somewhat comparable to U. cordifolia and U. gabonensis; it resembles in particular the latter by the suborbicular lamina, elliptic to weakly obovate, but the brown protuberances on the trunks appear to be lacking. The female perianth appears more deeply divided than in the other species of the complex, closer to that of U. hypselodendron (A. Rich.) Wedd., an eastern afromontane species. It is known from the mountains of Cameroon, and the margin of the lamina appears almost entirely regular. In the absence of more complete material, both from Gabon and elsewhere, it was decided to maintain U. batesii as distinct and to refer to it from Gabon, the only material from Nyanga. The preceding description is based on truly limited material that can be referred to U. batesii with reasonable certainty. Bi: Keay (1958), Lebrun & Stork (2010), Letouzey (1968). Bibliography
 
+## Figures
+
+![Urera batesii](../sources/Urticaceae_vol51_liteparse/figures/fig_048_p0079.png)
+
+*Plate 29. Urera gabonensis : 1. Leafy stem (× ⅔). – Urera batesii : 2. Stem with leaves and female inflorescence (× ⅔). (1 : Le Testu 8905 ; 2 : Bates 364 ). Drawing by Hélène Lamourdedieu, National Museum of Natural History, Paris (©), reproduced with permission from Letouzey (1968).*
+
 ## Notes
 
 <!-- TODO:notes -->

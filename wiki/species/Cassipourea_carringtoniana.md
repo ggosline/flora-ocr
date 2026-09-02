@@ -36,6 +36,16 @@ dry coastal forest, secondary forest; at approximately 10–20 m altitude. Flowe
 
 Breteler et al. 13274). Drawing by Hans de Vries, made available by Frans Breteler ©.
 
+## Figures
+
+![Cassipourea carringtoniana](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_048_p0096.png)
+
+*Plate 30. Cassipourea : Flowers. 1. C. barteri : a. Flower, b. Flower, longitudinal section. – 2. C. plumosa : a. Flower, b. Flower, longitudinal section, c. Stamen. – 3. C. nana : a. Flower, without petals and one sepal cut, b. Petal, c. Stamen. – 4. C. carringtoniana : Flower. – 5. C. ndambiana : a. Flower, longitudinal section, b. Petal. (1 : A.M. Louis 1727 ; 2. A.M. Louis 1822 ; 3. J.J. de Wilde et al. 8985 ; 4 : Wieringa 1281 ; 5 :*
+
+![Cassipourea carringtoniana](../sources/Rhizophoraceae_vol47_liteparse/figures/fig_049_p0098.png)
+
+*Plate 31. Cassipourea carringtoniana : 1. Flowering branch. – 2. Top of the branch showing the stipules. – 3a. Flower. – 3b. Indumentum of the interior of the calyx. – 4. Petal. – 5. Young fruit. – 6. Young fruit, longitudinal section. – 7. Seed. (1, 2, 3a, 4-7: Wieringa 1281 ; 3b : Mouandza 301 ). Drawing by Hans de*
+
 ## Notes
 
 <!-- TODO:notes -->

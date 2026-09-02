@@ -31,6 +31,12 @@ Ghana, Liberia, Nigeria, Cameroon, Gabon, Democratic Republic of the Congo and A
 
 primary forests; in Gabon between 50 and 460 m altitude, elsewhere at 0–200 m. Taxonomic note: see the appendix. B: Geerinck (1970), Hepper (1968), Jonker (1938), Merckx (2008). Bibliography
 
+## Figures
+
+![Campylosiphon congestus](../sources/Burmanniaceae_vol41_liteparse/figures/fig_011_p0021.png)
+
+*Plate 3. Campylosiphon congestus : 1. Plant (× 1). – 2. Young flower (× 8). – 3. Apex of perianth, inner surface (× 9). – 4. Mature flower (× 7). – 5. Style (× 10). – 6. Stamen, dorsal surface (× 20). – 7. Idem, ventral surface. – 8. Idem, lateral view. Drawing reproduced from Schlechter (1906) l.c.*
+
 ## Notes
 
 <!-- TODO:notes -->

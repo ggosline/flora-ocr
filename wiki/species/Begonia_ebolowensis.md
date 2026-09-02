@@ -40,6 +40,10 @@ essam-ekwe (Fang). B : Wilczek (1969b), de Wilde (2002). IBLIOGRAPHIE Fruit mûr
 
 <!-- caption: Plate 39. Begonia elaeagnifolia: 1. Branch with ♂ inflorescences (× ½). – 1a. Schematic transverse section of the apex of the petiole (× 6.5). – 1b. Schematic transverse section of the base of the petiole. – 2. Radiciferous branch with ♀ and ♂ inflorescences (× ½). – 3-8. Different leaf forms (× ½). – 9. ♂ Inflorescence (× 1.5). – 10-12. Androecia in face view (× 5). – 13-15. Anthers in face view, in profile and again in face view (× 6.5). – 16. ♀ Flower (× ½). – 17. ♀ Inflorescence 1-flowered (× 1.5). – 17a. Same, detail with bracts and vestiges of a second flower (× 13). – 18-19. Styles and stigmas of different plants (× 5). – 20. Fruit, transverse section (× 8). – 21. Fruit (× 0.8). – 22-23. Fruits of various forms (× 0.8). – 24. Ripe fruit with longitudinal dehiscence (× 1.5). – 25. -->
 
+## Figures
+
+![Begonia ebolowensis](../sources/Begoniaceae_vol39_liteparse/figures/fig_053_p0083.png)
+
 ## Notes
 
 <!-- TODO:notes -->

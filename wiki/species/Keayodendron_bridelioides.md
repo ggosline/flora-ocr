@@ -34,6 +34,12 @@ Species with a very disjunct range, known from Côte d'Ivoire, Nigeria, Cameroon
 
 Primary and secondarized forest, probably more common in semi-deciduous forest; in Gabon, up to 500 m altitude. Uses: The wood is used in joinery. The carbonized and pounded bark mixed with palm oil serves to treat kidney ailments. The pulverized bark is eaten, mixed with seeds of Aframomum melegueta K.Schum. in cases of bronchitis and cough. Bibliography: Bouguet (1969), Breteler (1993), Hawthorne & Jongkind (2006).
 
+## Figures
+
+![Keayodendron bridelioides](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_016_p0039.png)
+
+*Plate 10. Keayodendron bridelioides: A. Flowering branch (× 1). ‒ B. Male bud (× 15). ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

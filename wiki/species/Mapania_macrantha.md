@@ -35,6 +35,14 @@ Cameroon and Gabon; rare in Gabon, found in Estuaire, Ngounié, Nyanga and Woleu
 
 primary or secondary forests, often along rivers and streams; in Gabon, at 0–500 m altitude, in Cameroon, up to 1350 m. Taxonomic note: resembles M. purpuriceps very much, but without the purple color of that species. It differs from it also by a denser grouping of smaller and less distinct spikes. Under magnification, it differs from it by its narrower spicoid bracts and floral bracts with a hispid and not winged keel (coarsely denticulate–hispid in M. purpuriceps). b: Hooper & Napper (1972), Simpson (1992). Bibliography
 
+## Figures
+
+![Mapania macrantha](../sources/Cyperaceae_vol44_liteparse/figures/fig_147_p0171.jpeg)
+
+*Figure 16. Achenes of a) Mapania lancifolia ( Sosef 2305 , Ogooué-Maritime, Gabon) and b) Mapania macrantha ( Cheek 7194 , Cameroon). spreading, foliaceous, linear , green, acute at apex, the lower one generally longer than the inflorescence ; obovoid to almost globular spikes at maturity, 3,5–5 × 1,5–4 mm , brown, obtuse at apex ; spicoidal bracts broadly obovate to orbicular, 1,5–2 × approximately 1,5 mm , light brown, paler along the margins, glabrous, obtuse or emarginate at apex. Flower : floral bracts 2 ; style with 2 branches. Ellipsoid and slightly flattened at base achene, 1,5–2 × 1,2–1,5 mm , almost smooth, reddish brown or dotted with reddish brown.*
+
+![Mapania macrantha](../sources/Cyperaceae_vol44_liteparse/figures/fig_150_p0173.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

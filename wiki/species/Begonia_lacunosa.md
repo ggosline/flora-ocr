@@ -31,6 +31,12 @@ western Cameroon, Equatorial Guinea, Gabon, western Congo (Brazzaville), Angola 
 
 on flat terrain but preferring slopes, banks or rocky outcrops, in primary and secondary forests, often along streams, rivers and waterfalls; to 1000 m altitude. B: Hutchinson, Dalziel & Keay (1954), Irmscher (1925), Sosef (1994), Wilczek (1969a)
 
+## Figures
+
+![Begonia lacunosa](../sources/Begoniaceae_vol39_liteparse/figures/fig_039_p0056.png)
+
+*Plate 24. Begonia lacunosa : 1. Flowering plant (× ⅔). – 2. Blade, upper surface weakly bullate (× ⅔). – 3. Detail of bullae (× 4). – 4. Female flower (× 2). – 5. Styles and stigmas (× 4). – 6. Infructes - cence (× 2). (1 : de Wilde c.s. (WALK-B) 444 ; 2, 3 : de Wilde10380 ; 4, 5 : Breteler 7728 ; 6 : A.*
+
 ## Notes
 
 <!-- TODO:notes -->

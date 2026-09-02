@@ -38,6 +38,12 @@ secondary or secondarized forest, swamp forest; in Gabon at 100–700 m altitude
 
 Ofoss (nom pilote) ; Kunghele, Okolèngo, Angolengó (fang) ; Mombokolo (mindumu) ; Nyalèngwè (bakèlè) ; Osóngó-sóngó (mpongwè) ; Otsongotsidè (mitsogo, bavové) ; Sóngó-sóngó (béséki) ; Tsongo-tsongo (apindji). B : Burkill (1985), Keay (1958), Kokwaro (1986), Meunier et al. (2015), Raponda-Walker & i B liographie Sillans (1961), Van der Veken (1960a), Wilks & Issembé (2000)
 
+## Figures
+
+![Pseudospondias microcarpa](../sources/Anacardiaceae_vol50_liteparse/figures/fig_016_p0023.png)
+
+*Plate 6 . Pseudospondias microcarpa : 1. Male flowering branch (× ⅓). – 2. Opened male flower, one petal removed (× 10). – 3. Male flower, longitudinal section (× 10). – 4. Opened female flower, one petal removed (× 10). – 5. Pistil, longitudinal section (× 10). – 6. Drupe (× 1). – 7. Stone (× 1). (1-3 : Louis 11428 ; 4, 5 : Gille 251 ; 6 : Louis 16187 ; 7 : Robyns 242 ). Drawing by J.M. Lerinckx, Botanical garden*
+
 ## Notes
 
 <!-- TODO:notes -->

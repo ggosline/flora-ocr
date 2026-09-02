@@ -63,6 +63,29 @@ rarely reaching 1 mm in diameter when dry ......................................
 
 6. – Herb generally epiphytic; leaf blade elliptic (width/length ratio < ½),
 
+## Key to the species
+
+1. - Leaves generally quaternate, but sometimes opposite or ternate (especially in young plants) ............................................................................................ P. tetraphylla
+- Leaves alternate or opposite ........................................................................................ 2
+2. - Plant creeping; leaf blade generally broadly elliptic to circular, but sometimes elliptic .......................................................................................... P. bangroana
+- Plant erect; leaf blade ovate, elliptic or broadly ovate-triangular .......... 3
+3. - Spikes numerous (approximately 20 or more); leaf blade membranous, broadly ovate-
+triangular, ± as long as wide, base truncate-rounded to cordate ........ P. pellucida
+- Spikes few (rarely more than 5); leaf blade thick and often fleshy, ovate
+or elliptic, longer than wide, base never cordate ................................................. 4
+4. - Leaf blade apex acute or obtuse, not apiculate to rounded-emarginate; spikes
+1–2.5 mm in diameter when dry .................................................................................. 5
+- Leaf blade apex acute-apiculate, subcuspidulate to long-acuminate; spikes
+rarely reaching 1 mm in diameter when dry ......................................................... 6
+5. - Spikes terminal or subterminal, several per node .................................. P. thomeana
+- Spikes terminal and/or axillary, 1 per node ................................................ P. abyssinica
+6. - Herb generally epiphytic; leaf blade elliptic (width/length ratio < ½),
+base attenuate and apex shortly to long-acuminate
+.............................................................................. P. fernandopoana var. fernandopoana
+- Herb generally terrestrial; leaf blade broadly ovate-elliptic (width/length ratio > ½), 
+base rounded and apex acute-apiculate to subcuspidulate
+.................................................................................................... P. molleri subsp. molleri
+
 ## Species in region
 
 | Species | Vol | Pages |

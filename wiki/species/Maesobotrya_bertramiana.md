@@ -36,6 +36,12 @@ Primary and secondarized forest; in Gabon, at 0–650 m altitude. Morphological 
 
 Male flower in longitudinal section. ‒ I. Hermaphrodite flower. ‒ J. Hermaphrodite flower in longitudinal section. ‒ K. Basal part of the ovary in longitudinal section. ‒ L. Sepals. ‒ M. Disk of a male flower. ‒ N. Fruit. ‒ O. Fruit in longitudinal section. ‒ P. Fruit in transverse section. (A ‒ N: Wieringa 5276). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
+## Figures
+
+![Maesobotrya bertramiana](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_017_p0043.png)
+
+*Plate 11. Maesobotrya bertramiana: A. Flowering and fruiting branchlet. ‒ B. Detail of a tuft of marginal hairs. ‒ C. Branch with stipule and stipular scar. ‒ D. Part of inflorescence with male flowers. ‒ E. Male bud. ‒ F. Androecium of a male bud. ‒ G. Male flower in full bloom. ‒ H.*
+
 ## Notes
 
 <!-- TODO:notes -->

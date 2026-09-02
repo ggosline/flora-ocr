@@ -38,6 +38,12 @@ Forest margins, open stations, shrubby savanna, riverbanks and littoral forests 
 
 See the notes under D. mannii. B: Bos (1992, as D. mannii), Damen et al. (2018), La Croix (2010, as D. mannii). Bibliography
 
+## Figures
+
+![Dracaena usambarensis](../sources/Dracaenaceae_vol54_liteparse/figures/fig_052_p0058.png)
+
+*Plate 20. Dracaena usambarensis : 1. Tip of a flowering branch. – 2. Flower. – 3. Part of infructescence. Drawing by A. Birnie (©), reproduced with permission from Mbuya et al. (1994).*
+
 ## Notes
 
 <!-- TODO:notes -->

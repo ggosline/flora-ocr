@@ -37,6 +37,12 @@ Bosser 2078). Drawing by J. Klackenberg (©), reproduced with permission from Kl
 
 Part of the corolla with stamens (× 10). – 5. Stamen, dorsal view (× 30). – 6. Same, lateral view (× 30). – 7. Gynoecium (× 10). – 8. Stigma (× 30). – 9. Fruiting calyx (× 10). – 10. Capsule valve after dehiscence (× 10). (1, 3-8: Hallé 3837; 2: Descoings 9819; 9, 10: J. Léonard 283). Drawing by A. Raynal, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Raynal (1968).
 
+## Figures
+
+![Congolanthus longidens](../sources/Gentianaceae_vol54_liteparse/figures/fig_057_p0071.png)
+
+*Plate 23 . Congolanthus longidens : 1. Habit (× ½). – 2. Floriferous node (× 5). – 3. Flower (× 10). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

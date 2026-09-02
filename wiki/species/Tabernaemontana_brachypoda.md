@@ -24,6 +24,12 @@ Gabunia brachypoda (K.Schum.) Stapf, Fl. trop Afr. 4(1) : 137 (1902). Gabunia la
 
 In the revision of Tabernaemontana (Leeuwenberg 1991), T. brachypoda is treated as a synonym of T. eglandulosa. Better knowledge of the fruits of T. eglandulosa s.l. has made comprehensible the re-establishment of T. brachypoda as a distinct species. B : Boiteau & Allorge (1981), Stapf (1902). BIBLIOGRAPHY
 
+## Figures
+
+![Tabernaemontana brachypoda](../sources/Apocynaceae_vol59_liteparse/figures/fig_199_p0232.jpeg)
+
+*Figure 12 . Strophanthus preussii : A, B. Flowers showing color variation. – Strophanthus sarmentosus : C. Flowering stems. – Tabernaemontana brachyantha : D. Inflorescence. – Tabernaemontana brachypoda : E. Inflorescence. – Tabernaemontana crassa : F. Leaf and flowers in bud. G. Flowers. H. Fruit. Photos by Erik Koenen (A, Nzérékoré, Guinea ; Erik Simons ; B, West of P.N. Lopé, Gabon ; Carel Jongkind ; C, Lofa, Liberia ; F, H, Libassa, Liberia ; Xander van der Burgt ; D, P.N. Korup, Came-*
+
 ## Notes
 
 <!-- TODO:notes -->

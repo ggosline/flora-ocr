@@ -42,6 +42,12 @@ Urera 75 Uses: The leaves are consumed in soup and as cooked mucilaginous vegeta
 
 This species is very close to U. gabonensis. U. cordifolia appears to be mostly present in the northern part of the area of distribution common to both species and near the northern limit of the forest zone, whereas U. gabonensis is mostly present within the forest zone. See more under U. gabonensis. The protuberances, according to field observation from Cameroon, are often associated with the presence of ants living on the liane; on each side of the base of the petiole, a pectinate protuberance, concealing the entrance to a small cavity where mites live, is visited by ants for honeydew. B: Bosch (2004c), Keay (1958), Lebrun & Stork (2010), Letouzey (1967, 1968). Bibliography
 
+## Figures
+
+![Urera cordifolia](../sources/Urticaceae_vol51_liteparse/figures/fig_049_p0081.png)
+
+*Plate 30. Urera cordifolia : 1. Old stem showing bark and transverse section (× ⅔). – 2. Stem with leaf and male inflorescence (± × ½). – 3. Upper surface of leaf blade with punctiform to elongate cystoliths (× 4). – 4. Lower surface of leaf blade (× 4). – 5. Male flower bud (× 8). – 6. Relatively young stem with rows of protuberances with burst apices and pectinate protuberances on each side of petiole, and a female inflorescence with immature fruits (× ⅔). – 7. Detail of an infructescence with accrescent perianths (× 4). – 8. Female flower just after pollination (× 8). – 9. Mature achene enveloped by perianth, lateral view (× 8). – 10. Idem, apical view (× 8). – 11. Idem, perianth partially removed (× 8). (1 : Breteler 1812 ; 2–5 : Letouzey 7922 ; 6 (stem) : Letouzey 8189 , (inflorescence) :*
+
 ## Notes
 
 <!-- TODO:notes -->

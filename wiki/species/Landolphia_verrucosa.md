@@ -26,6 +26,16 @@ nerves 9 to 12 pairs, looping into a well-visible intramarginal nerve, tertiary 
 
 Distribution endemic to Gabon, known from three stations in the Estuaire, the Moyen-Ogooué and the Ngounié. Ecology: humid evergreen lowland forest up to 200 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia verrucosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_138_p0157.jpeg)
+
+*Planche 70 . /DQGROSKLDXQLÀRUD 5DPHDXÀRULIqUHîҀ±3DUWLHG¶XQUDPHDXîҀ±)OHXU*
+
+![Landolphia verrucosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_139_p0158.jpeg)
+
+*Plate 71. Landolphia verrucosa: 1. Flowering branch. – 2. Inflorescence. – 3. Flower. – 4. Idem, corolla in longitudinal section. (1-4: Breteler, Jongkind & Wieringa 11133). Drawing by Esmée Winkel, Naturalis*
+
 ## Notes
 
 <!-- TODO:notes -->

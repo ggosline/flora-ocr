@@ -28,6 +28,12 @@ About twenty species, from Arabia to Madagascar, Luzon, Fiji, New Guinea, New Ca
 
 1'. Frond apex pinnatifid: lateral pinnae with equal or subequal bases, presence of white calcareous glands on the upper surface of the blade..... 2. A. orientalis.
 
+## Key to the species
+
+1. Terminal pinna similar to the lateral ones, with upper base auriculate, lower base oblique..... I. A. Palisoti.
+
+1'. Apex of frond pinnatifid: lateral pinnae with equal or subequal bases, presence of white calcareous glands on the upper surface of the lamina..... 2. A. orientalis.
+
 ## Species in region
 
 | Species | Vol | Pages |

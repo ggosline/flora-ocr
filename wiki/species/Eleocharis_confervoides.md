@@ -44,6 +44,14 @@ dungalagu-du-mamba (balumbu), dusasagu-du-mamba dusasagudu-dyanga (échira, bapu
 
 Section of the stem. – C. Top of the leaf sheath. – D. Top of the basal sheath – E. Spikelet. – F. Glume. – G. Flower. Original drawing by Richard W. Haines ©.
 
+## Figures
+
+![Eleocharis confervoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_106_p0129.png)
+
+![Eleocharis confervoides](../sources/Cyperaceae_vol44_liteparse/figures/fig_107_p0130.png)
+
+*Planche 81 . Eleocharis confervoides . A. Plante. – B, C, D. Nœuds avec un faisceau de branches. – E.*
+
 ## Notes
 
 <!-- TODO:notes -->

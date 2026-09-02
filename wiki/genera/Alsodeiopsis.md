@@ -92,6 +92,36 @@ This African genus comprises 11 species, of which 7 are present in Cameroon and 
 
 7. Base unequilateral rounded on one side and attenuate on the other; pubes-
 
+## Key to the species
+
+1. 8-19 pairs of secondary nerves.
+
+2. Abaxial leaf surface glabrous..... 3. A. mannii.
+
+2'. Abaxial leaf surface pubescent; petiole pubescent..... 1. A. rubra.
+
+1'. 6-8 pairs of secondary nerves.
+
+3. Hairs erect on the abaxial surface ..... 7. A. poggei var. poggei.
+
+3'. Hairs appressed on the abaxial surface.
+
+4. Adaxial surface pubescent..... 2. A. weissenborniana.
+
+4'. Adaxial surface glabrous or glabrescent.
+
+5. Abaxial surface with reddish-brown or yellowish pubescence; leaf blade narrowly elliptic in shape ..... 5. A. zenkeri.
+
+5'. Abaxial surface with white pubescence; leaf blade elliptic to oblong-elliptic in shape.
+
+6. Leaf apex distinctly acute acuminate mucronate..... 6. A. rowlandii.
+
+6'. Leaf apex obtuse acuminate mucronate.
+
+7. Base inequilateral rounded on one side and attenuate on the other; pubescence of the abaxial leaf surface rather sparse..... 4. A. staudti.
+
+7'. Leaf base inequilateral rounded on both sides; pubescence of the abaxial surface dense ..... 7. A. poggei var. robynsii.
+
 ## Species in region
 
 | Species | Vol | Pages |

@@ -30,6 +30,12 @@ endemic to Gabon, known from the Cristal Mountains and the northern part of the 
 
 primary forests, between 300 and 600 m in altitude; flowering from November to January. Taxonomic note: see the Appendix
 
+## Figures
+
+![Gymnosiphon constrictus](../sources/Burmanniaceae_vol41_liteparse/figures/fig_013_p0025.jpeg)
+
+*Plate 5. Gymnosiphon constrictus: 1. Plant and inflorescence with floral bud. – 2. Infructescence. – 3. Floral bud. – 4. Reconstruction of a flower on the basis of an alcohol-preserved bud. (1:*
+
 ## Notes
 
 <!-- TODO:notes -->

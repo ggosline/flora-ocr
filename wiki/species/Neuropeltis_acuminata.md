@@ -37,6 +37,12 @@ primary and secondarised forest; in Gabon, up to 650 m altitude, elsewhere, up t
 
 In Gabon, the leaves are eaten as a vegetable. Taxonomic note: Flowering collections of this species appear with corollas of (5–)6–8 mm in length and others with smaller corollas, of 3–4(–5) mm in length, often accompanied by narrower leaves. This phenomenon is present throughout its range of distribution. Study of this variation has not led to the discovery of an associated character. There is therefore no reason, at least for now, to formally recognize it as a taxon. B: Breteler (2010), Burkill (1985), Heine (1963), Lejoly & Lisowski (1984). Bibliography
 
+## Figures
+
+![Neuropeltis acuminata](../sources/Convolvulaceae_vol46_liteparse/figures/fig_035_p0056.png)
+
+*Plate 23. Neuropeltis acuminata : 1. Flowering branch. – 2. Flower. – 3. Corolla viewed from above. – 4. Corolla viewed from below. – 5. Flower, corolla removed. – 6. Ovary. – 7. Infructescence. – 8. Fruit, detail. (1–6 : Wieringa et al. 3911 ; 7, 8 : Leeuwenberg & Persoon 13644 ). Drawing by Hans de Vries, Naturalis*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -24,6 +24,12 @@ Breteler et al. 11299). Drawing by Hans de Vries, Naturalis Biodiversity Center 
 
 Two flowers, one of which without corolla – Corolla open with stamens – Calyx lobe, inner face (× 14). – 7. Pistil (× 10). – 8. Fruit (apex open due to pressure) Espirito Santo 3001; 8: Jansen 2147). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center, modified and reproduced from Omino (1996).
 
+## Figures
+
+![Hunteria umbellata](../sources/Apocynaceae_vol59_liteparse/figures/fig_097_p0104.jpeg)
+
+*Planche 43 . Hunteria umbellata 5DPHDXÀRULIqUHîҀ±)HXLOOHIDFHLQIpULHXUHîҀ±%RX -*
+
 ## Notes
 
 <!-- TODO:notes -->

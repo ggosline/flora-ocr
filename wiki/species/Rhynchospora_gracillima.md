@@ -20,6 +20,12 @@ tags: [species, generated]
 
 ope b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Raynal (1971).
 
+## Figures
+
+![Rhynchospora gracillima](../sources/Cyperaceae_vol44_liteparse/figures/fig_169_p0194.jpeg)
+
+*Planche 121 . Rhynchospora eximia . A. Plante. – Planche 122 . Rhynchospora gracillima subsp.*
+
 ## Also treated in vol 44
 
 **Pages**: 195-196 · **Source**: `sources/Cyperaceae_vol44_liteparse`

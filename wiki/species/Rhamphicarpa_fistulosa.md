@@ -33,6 +33,12 @@ very widespread in tropical Africa, also in Madagascar, Australia and New Guinea
 
 marshes on granitic rocks, margins of lakes and rivers; in Gabon, at 2–10 m altitude, in East Africa up to 2000 m. B: Fischer (2006b), Ghazanfar et al. (2008), Hansen (1975a), Hepper (1963), Bibliography Mielcarek (1996), Philcox (1990)
 
+## Figures
+
+![Rhamphicarpa fistulosa](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_054_p0128.png)
+
+*Plate 40. Rhamphicarpa fistulosa : A. Flowering stem. – B. Opened and flattened corolla. – C. Stamen. – D.*
+
 ## Notes
 
 <!-- TODO:notes -->

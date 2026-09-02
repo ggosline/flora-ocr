@@ -37,6 +37,12 @@ in stagnant fresh waters or with fairly rapid current, pools, ponds, rivers and 
 
 Some authors have considered that E. natans is a synonym of E. diversifolia (Vahl) Urb. from South America. However, today several distinctive characters allow them to be separated. B: Burkill (1997), Catarino & Martins (1997), Lawalrée & Bruynseels (1981), Verdcourt (1968)
 
+## Figures
+
+![Eichhornia natans](../sources/Pontederiaceae_vol40_liteparse/figures/fig_054_p0065.png)
+
+*Plate 15. Eichhornia natans : 1. Stem with swimming and floating leaves (× ½). – 2. Flowering branch (× 1). – 3. Flower (× 3). – 4. Split perianth, inner surface (× 3). – 5. Ovary, transverse section (× 12,5). – 6. Fruit (× 1). – 7. Seed (× 12,5). (1 : Troupin 1342 ; 2-5 : J. Louis 16123 ; 6,7 :*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -42,6 +42,16 @@ alén okwe, alen okue (pahouin de Libreville)
 
 D. marina is close to D. mannii and D. cerasifera, but is easily distinguished by flowers almost 2 times longer and more obovate leaves. B: Damen et al. (2018). Bibliography
 
+## Figures
+
+![Dracaena marina](../sources/Dracaenaceae_vol54_liteparse/figures/fig_032_p0042.jpeg)
+
+*Figure 3. Dracaena mannii (near Ndjolé, Gabon; near Oyem, Gabon): A. Erect inflorescences and leaves arranged in dense spirals, B. Gray bark with longitudinal fissures. – Dracaena marina (Montigny site at Okala, Gabon; Mondah, Gabon; Port Gentil, Gabon): C. General appearance showing smooth bark and leaves in terminal tufts, D. Floriferous branch with oblanceolate leaves and an old bright orange erect infrutescence, E. Stilt roots produced by growth in flooded conditions. (Photos A, B, D by Theo H.J. Damen ©; C by Tariq Stewart ©; E by Frans J. Breteler ©).*
+
+![Dracaena marina](../sources/Dracaenaceae_vol54_liteparse/figures/fig_037_p0044.png)
+
+*Plate 15. Dracaena marina : 1. Tip of a flowering branch. – 2. Leaf. – 3. Flower. – 4. Opened flower, inner surface. – 5. Fruit. Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced from Damen et al. (2018).*
+
 ## Notes
 
 <!-- TODO:notes -->

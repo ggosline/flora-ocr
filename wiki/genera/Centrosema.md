@@ -37,6 +37,16 @@ Bibliography: Baker (1929), Mackinder et al. (2001), Wilczek (1954).
 
 - Leaflet with glabrous blade, oblong-lanceolate, 2–4 × 1–2 cm; corolla blue to yellow, standard 1.5–2 cm in length; pod curved, 6–10 cm in length ................ C. virginianum
 
+## Key to the species
+
+1. - Calyx truncate; corolla white spotted with red-purple; stipules 7–12 mm long; pod 1–1.6 cm wide, with straight beak 2 cm long ....... C. plumieri
+- Calyx with 5 teeth; corolla red-purple to blue and yellow; stipules 2–4 mm long; pod 0.5–0.7 cm wide, with beak ± 1 cm long ......................... 2
+
+---
+
+2. - Leaflet with pubescent blade, elliptic, 4–6 × 2–3 cm, slightly acuminate; corolla pink to mauve, sometimes yellow on the outside, standard 3–4 cm long; pod straight, 8–17 cm long ................................................................................... C. pubescens
+- Leaflet with glabrous blade, oblong-lanceolate, 2–4 × 1–2 cm; corolla blue to yellow, standard 1.5–2 cm long; pod curved, 6–10 cm long ................ C. virginianum
+
 ## Species in region
 
 | Species | Vol | Pages |

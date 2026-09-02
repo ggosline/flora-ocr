@@ -39,6 +39,12 @@ gardens, fields and fallows, cultivated or subspontaneous; up to 1600 m in altit
 
 gombo, gombaud, doigt de dame, ketmie comestible (fr.) ; common okra, okra, okro, lady’s fingers (angl.) ; déndatamu (apindji, ivéa), dóngó-dóngó (bakota), ététam (fang), ibogolo (banzabi), l`nzamu (baduma), lénkulu (mindumu), mbóló (bakèlè, béséki), mobódó (mitsogo), mobóló (apindji, ivéa), mobóró (balèngi), moléndji (mindumu), mubóló (bavili), ndjómbó (bavové), nèfu (mpongwè, galoa, nkomi, orungu, benga, éshira, bavarama, bavungu, bapunu, balumbu, ngowé). B : Akoègninou et al. (2006), Charrier (1984), Raponda-Walker & Sillans i B liographie (1961), Schippers (2000), Siemonsma & Kouamé (2004), Verdcourt (2009)
 
+## Figures
+
+![Abelmoschus esculentus](../sources/Malvaceae_vol45_liteparse/figures/fig_024_p0056.png)
+
+*Plate 13. Abelmoschus esculentus : 1. Branch with flower and fruits. – 2. Flower, in bud. – 3. Fruit. –*
+
 ## Notes
 
 <!-- TODO:notes -->

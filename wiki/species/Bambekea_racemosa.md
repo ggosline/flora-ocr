@@ -45,7 +45,7 @@ Keraudren (1967), Keraudren-Aymonin (1975)
 
 ![Bambekea racemosa](../sources/Cucurbitaceae_vol57_paddle/figures/fig_033_p0046.png)
 
-*Planche 11. Bambeka racemosa: 1. Tige florifère mâle (×²/³). - 2. Bouton floral mâle (×6). - 3. Fleur mâle, un pétale enlevé (×4). - 4. Fleur femelle, un pétale enlevé (×4). - 5. Jeunes fruits (×²/³). - 6. Graine, vue de face (×4). - 7. Idem, vue de profil (×4). (1: Zenker 4648; 2, 3: J. Louis 3118; 4: Klaine 2756: 5-7: Van den Bosches 85). Dessin par Gisèle Chypre, Muséum national d'Histoire naturelle, Paris (©), reproduit avec permission à partir de Keraudren (1967).*
+*Plate 11. Bambeka racemosa: 1. Male flowering stem (×²/³). - 2. Male flower bud (×6). - 3. Male flower, one petal removed (×4). - 4. Female flower, one petal removed (×4). - 5. Young fruits (×²/³). - 6. Seed, front view (×4). - 7. Idem, side view (×4). (1: Zenker 4648; 2, 3: J. Louis 3118; 4: Klaine 2756; 5-7: Van den Bosches 85). Drawing by Gisèle Cyprus, National Museum of Natural History, Paris (©), reproduced with permission from Keraudren (1967).*
 
 ## Notes
 

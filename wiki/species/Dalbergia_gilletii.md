@@ -38,6 +38,12 @@ forest galleries, shrubby savannas, forest regrowth and inselberg thickets; in G
 
 Old stems generally have spines, but it is not certain that these are always present. This species has long been confused with D. hostilis, from which it differs however by numerous characters (Lachenaud & Maesen 2016; see key). It is very variable in the number, size and pubescence of the leaflets. The typical form, which is not known from Gabon, has small and numerous leaflets, with long straight and sparse hairs on both faces. Specimens from Gabon, and most from Cameroon and West Africa, have larger and fewer leaflets, glabrous or with fairly short crispy hairs. There are intermediates between these two forms, notably in the Democratic Republic of the Congo. b: Lachenaud & Maesen (2016). Bibliography
 
+## Figures
+
+![Dalbergia gilletii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_047_p0128.png)
+
+*Plate 39 : Dalbergia gilletii : 1. Flowering branch. – 2. Part of an old stem with spines and a prehensile branch. – 3 & 4. Leaflet, details of the lower surface. – 5. Flower. – 6. Standard, internal face. – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

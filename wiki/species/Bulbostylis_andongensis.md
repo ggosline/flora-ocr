@@ -36,6 +36,18 @@ Inflorescence. – F, G. Spikelet. – H. Style, anther. Inflorescence. – D. S
 
 in organic and seasonally humid soils of rocky outcrops; in Gabon, at approximately 400–700 m altitude. Taxonomic note: close to B. hispidula, but it is less hairy. The base of the style always persists as a small dark knob on the mature achene. It differs from B. congolensis by its smaller size with a smaller anthelae, by the wider spikelets and by the larger glumes. B: Clarke (1902). ibliography
 
+## Figures
+
+![Bulbostylis andongensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_013_p0020.png)
+
+*Plate 5. Bulbostylis andongensis. A. Plant. Plate 6. Bulbostylis cardiocarpoides. A. – B. Leaf sheath and base of limb. – C, D, E. Plant. – B. Leaf sheath and base of limb. – C.*
+
+![Bulbostylis andongensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_014_p0020.png)
+
+![Bulbostylis andongensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_015_p0021.jpeg)
+
+*Figure 2. Achenes of a) Bulbostylis andongensis (Le Testu 8964, Woleu-Ntem, Gabon) and b) Bulbostylis cioniana (Breteler 13064, Moyen-Ogooué, Gabon). 4‒8 cm × 0.2‒0.4 mm, flat or channeled, glabrous or bearing some spiny hairs (sometimes numerous near the apex). Inflorescence in a head of 3‒10 sessile and spreading spikelets (in a cross, if there are only 3‒4 spikelets); main involucral bracts 3‒12 mm long, often erect. Spikelet 3‒8 × 1‒1.5 mm, acute; glumes reddish-brown with the central vein and margin paler, acute or subulate, glabrous and shiny.*
+
 ## Notes
 
 <!-- TODO:notes -->

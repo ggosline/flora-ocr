@@ -33,6 +33,16 @@ Sierra Leone, Côte d'Ivoire, Nigeria, Cameroon, Gabon, Democratic Republic of t
 
 savannas, small marshes, quartzitic rocks and inselbergs; in Gabon, at 380 m altitude, in Rwanda up to 2100 m. B: Fischer (1992, 1995, 1999, 2006b), Fischer et al. (2013), Ghazanfar et al. Bibliography (2008), Hepper (1963), Philcox (1990)
 
+## Figures
+
+![Craterostigma nummulariifolium](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_047_p0114.png)
+
+*Plate 33. Craterostigma nummulariifolium : A. Entire plant. – B. Opened and spread corolla. – C.*
+
+![Craterostigma nummulariifolium](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_068_p0154.jpeg)
+
+*Planche 54. A. Bacopa crenata. – B. Bacopa monnieri . – C–D. Craterostigma nummulariifolium. – E–F.*
+
 ## Notes
 
 <!-- TODO:notes -->

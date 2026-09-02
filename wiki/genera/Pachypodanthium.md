@@ -31,6 +31,20 @@ The fruit of Pachypodanthium has moreover never been clearly defined, owing to t
 
 As has already been remarked by Sinclair (Gardens Bull. Singapore 14: 167, 171, 1955), the genus Pachypodanthium belongs to a phylum derived from the Uvarieae but distinctly more advanced, the fruit having become syncarpic by the fusion of the free carpels in the flower. This evolution is manifested within the genus itself, where the fusion of the mericarps is ± advanced in the three species. This phylum would be constituted by the two African genera: Pachypodanthium and Letestudoxa and the American genus: Fusaea. Sinclair adjoins to it the genus Anonidium, according to the known descriptions of this African genus, but our observations have led us to rank it with certainty among the Unoneae.
 
+## Key to the species
+
+I. Lower leaf surface covered with a very dense felt of whitish-yellowish stellate hairs.
+
+2. Flowers arising on leafless branches; floral bud 10–15 mm in diameter; leaves oblong-lanceolate, 20–40 cm long, 4–11 cm wide, attenuate towards the base, itself rounded and decurrent on the petiole... 1. P. confine
+
+2'. Flowers axillary on leafy branches; floral bud 5 mm in diameter; leaves smaller, 10–14 cm long, 2.5–3.5 cm wide, cuneiform at the base.... 2. P. confine var. Sargosii
+
+I'. Lower leaf surface scattered with small stellate hairs.
+
+3. Flowers extra-axillary; leaves narrowly oblong, shortly attenuate at both ends; petals pearly white; ovaries pubescent; stigmas obovoid; fruit with contiguous mericarps, detaching easily from one another.... 2. P. Staudtii
+
+3'. Flowers axillary; leaves elliptic-lanceolate, attenuate towards each end from the median portion; petals red, becoming pink-yellow; ovaries puberulent; stigmas subtrigonous; fruit with mericarps fused to one another at the lower portion.... 3. P. Barteri
+
 ## Species in region
 
 | Species | Vol | Pages |

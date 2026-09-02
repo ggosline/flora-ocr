@@ -33,6 +33,20 @@ in permanent ponds and shallow waters, sometimes along lakes and rivers; in Gabo
 
 3 7 9 3 95 9 9 9 5
 
+## Figures
+
+![Nymphoides indica](../sources/Menyanthaceae_vol40_liteparse/figures/fig_042_p0051.jpeg)
+
+*Plate 12. Nymphoides indica subsp. occidentalis: 1. Leaf and inflorescence. – 2. Longistyle flower. – 3. Brevistyle flower. – 4. Androecium and pistil of a longistyle flower. – 5. Androecium and pistil of a brevistyle flower. – 6. Fruit. (1–6: J. & A. Raynal 9476). Drawing by J. Lemeux, reproduced with the permission of the Association for Tropical Botany, Paris (©) from Raynal (1975).*
+
+![Nymphoides indica](../sources/Menyanthaceae_vol40_liteparse/figures/fig_043_p0053.png)
+
+![Nymphoides indica](../sources/Menyanthaceae_vol40_liteparse/figures/fig_044_p0053.png)
+
+![Nymphoides indica](../sources/Menyanthaceae_vol40_liteparse/figures/fig_045_p0053.png)
+
+![Nymphoides indica](../sources/Menyanthaceae_vol40_liteparse/figures/fig_046_p0053.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

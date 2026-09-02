@@ -34,6 +34,12 @@ Appendages of the stamens and interstaminal glands without hairs. – J. Detail 
 
 <!-- caption: Plate 4: K --> <!-- caption: Plate 4: L -->
 
+## Figures
+
+![Illigera cava](../sources/Hernandiaceae_vol38_liteparse/figures/fig_016_p0022.png)
+
+*Plate 4. Illigera cava : A. Flowering branch. – B. Detail of the hollow stem. – C. Leaflet, lower surface. – D. Flower. – E. Floral bud, longitudinal section. – F. Pistil. – G. Detail of the pubescence of the ovary. – H. Detail of the flower with sepal, stamen, appendages and interstaminal glands. – I.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -34,6 +34,12 @@ Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, kno
 
 Forest margins in primary and secondary forest; in Gabon and elsewhere at 300–1000 m altitude. B: Staner (1941), Staner & Gilbert (1958). Bibliography
 
+## Figures
+
+![Turraea cabrae](../sources/Meliaceae_vol47_liteparse/figures/fig_039_p0076.png)
+
+*Plate 25. Turraea cabrae : A. Flowering branch (× 0.5). – B. Expanded flower (× 1). – C. Base of the flower, longitudinal section (× 5). – D, E, F : Apexes of staminale tubes, longitudinal sections (× 5). – G.*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -38,6 +38,12 @@ Secondary forest; at 500 m altitude. The crown was observed with a leafy part an
 
 A large tree with flowers resembling E. mildbraedii, but with simple, robust inflorescences, and larger sessile flowers, orange with red blotches. E. mildbraedii has inflorescences in more slender fascicles, and flowers with pedicel of 3–5 mm, narrower, of pink colour. Bibliography: Krukoff & Barneby (1974), van der Maesen (2013).
 
+## Figures
+
+![Erythrina wieringae](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_073_p0200.png)
+
+*Plate 65: Erythrina wieringae: 1. Leaf. – 2. Inflorescence. – 3. Flower. – 4. Detail of the indument on calyx. – 5. Calyx, inner surface. – 6. Standard. – 7. Wings. – 8. Keel. – 9. Androecium. – 10. Pistil. –*
+
 ## Notes
 
 <!-- TODO:notes -->

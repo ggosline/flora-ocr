@@ -34,6 +34,16 @@ from Senegal and southern Mali to Nigeria, Cameroon, Equatorial Guinea, Central 
 
 riparian forest, always near or partially in water; in Gabon, at 0–500 m altitude. Uses and vernacular names: as in U. guineensis. Bibliography: Breteler (2012a, b), De Wildeman (1936), Keay (1958), Pax & Hoffmann (1922)
 
+## Figures
+
+![Uapaca heudelotii](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_036_p0095.png)
+
+*Plate 30. Uapaca acuminata : A. Leaf. ‒ Uapaca guineensis : B. Leaf. ‒ C. Fruit. ‒ Uapaca heudelotii : D, E. Leaves. ‒ F. Young branch (leaves removed). (A : Le Testu 1499 ; B : Reitsma c . s . 1268 ; C : Reitsma c.s . 2288 ; D : Bissiengou et al . 597 ; E : Bissiengou et al . 658 ; F : White 993 ). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.*
+
+![Uapaca heudelotii](../sources/Phyllanthaceae_vol43_liteparse/figures/fig_038_p0099.png)
+
+*Plate 32. Uapaca heudelotii : A. Male flowering branch (× ⅔). ‒ B. Male inflorescence (× 1). ‒ C.*
+
 ## Notes
 
 <!-- TODO:notes -->

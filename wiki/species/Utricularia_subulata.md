@@ -41,6 +41,22 @@ subcosmopolitan, in tropical Africa, Senegal, Guinea-Bissau, Guinea, Mali, Sierr
 
 marshy savannas on Kalahari sand, wet rocks, inselbergs; in Gabon at 5–540 m in altitude, in East Africa between 0 and 2600 m. B: Taylor (1964, 1972, 1989), Vande weghe et al. (2016). Bibliography
 
+## Figures
+
+![Utricularia subulata](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_132_p0127.png)
+
+*Plate 45. Utricularia subulata: 1–3. Entire plant (× 1). – 4. Base of plant showing rhizoids, stolons, leaves, utricles and base of peduncle (× 8). – 5. Papillae at base of peduncle (× 150). – 6.*
+
+![Utricularia subulata](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_134_p0128.jpeg)
+
+![Utricularia subulata](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_135_p0128.jpeg)
+
+![Utricularia subulata](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_136_p0128.jpeg)
+
+![Utricularia subulata](../sources/Lentibulariaceae_vol54_liteparse/figures/fig_138_p0131.jpeg)
+
+*Figure 17. Utricularia subulata : A-D. – Utricularia tortilis (Zambie, N de Mpika) : E, F. (Photos A-D par J.P. Vande weghe © ; E, F, par A. Fleischmann ©).*
+
 ## Notes
 
 <!-- TODO:notes -->

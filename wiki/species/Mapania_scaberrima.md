@@ -36,6 +36,16 @@ a b
 
 swampy forest, sometimes along rivers and watercourses; at 0–600 m altitude. Taxonomic note: very close to M. pynaertii and M. secans, but differing in its very scabrous stems and its obovate achene, longitudinally ribbed at the base. b: Nelmes (1955a), Raynal (1968b). Bibliography
 
+## Figures
+
+![Mapania scaberrima](../sources/Cyperaceae_vol44_liteparse/figures/fig_160_p0182.png)
+
+![Mapania scaberrima](../sources/Cyperaceae_vol44_liteparse/figures/fig_161_p0183.jpeg)
+
+*Figure 20. Akènes de a) Mapania scaberrima ( Raynal 18474 , Cameroun) et b) Mapania secans ( Hallé 4298 , Estuaire, Gabon).*
+
+![Mapania scaberrima](../sources/Cyperaceae_vol44_liteparse/figures/fig_162_p0183.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

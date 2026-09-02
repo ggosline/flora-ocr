@@ -41,6 +41,12 @@ fleur vanille (fr.) ; golden dewdrops (angl.). Bi : Burkill (2000), Fernandes & 
 
 Fruit (× 2). (1, 3, 4: Rutherford Smith 458; 2: Leach 11652). Drawing by Judi Stone (©), reproduced with permission from Fernandes (2005).
 
+## Figures
+
+![Duranta erecta](../sources/Verbenaceae_vol58_liteparse/figures/fig_102_p0135.png)
+
+*Plate 36 . Duranta erecta : 1. Flowering branch (× ⅔). – 2. Fruiting branch (× ⅔). – 3. Flower (× 2). – 4.*
+
 ## Notes
 
 <!-- TODO:notes -->

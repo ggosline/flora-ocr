@@ -36,6 +36,12 @@ primary forest, forest galleries, riparian forest; in Gabon, up to 900 m elevati
 
 ngale, okes (fang), ossol. B : Bamps (1970a, 1970b), Hutchinson & Dalziel (1954), Pellegrin (1959), i B liographie Robson (1961)
 
+## Figures
+
+![Garcinia punctata](../sources/Clusiaceae_vol45_liteparse/figures/fig_016_p0036.png)
+
+*Plate 7. Garcinia punctata: 1. Flowering branch (× ½). – 2. Detail of leaf, lower surface (× 3). – 3. Male flower (× 5). – 4. Female flower (× 5). – 5. Fruit (× 2). (1, 2: Louis 604; 3: Louis 2938; 4: Louis 1411; 5: Louis 4132). Drawing by D. Leyniers, reproduced with permission of the National Botanic Garden of Belgium (©) from Bamps (1970a).*
+
 ## Notes
 
 <!-- TODO:notes -->

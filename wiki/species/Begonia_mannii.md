@@ -33,6 +33,10 @@ Rainforests; up to 1200 m altitude. B: Hooker (1864), de Wilde (2002). BIBLIOGRA
 
 <!-- caption: Plate 50. Begonia polygonoides: 1. Branch with ♂ and bisexual inflorescences (× ½). – 2. -->
 
+## Figures
+
+![Begonia mannii](../sources/Begoniaceae_vol39_liteparse/figures/fig_065_p0107.png)
+
 ## Notes
 
 <!-- TODO:notes -->

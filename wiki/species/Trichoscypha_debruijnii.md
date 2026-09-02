@@ -34,6 +34,12 @@ endemic to Gabon, known from a single collection from Ogooué-Lolo
 
 primary or secondarized forest; at 300–400 m altitude. B: Breteler (2004). Bibliography
 
+## Figures
+
+![Trichoscypha debruijnii](../sources/Anacardiaceae_vol50_liteparse/figures/fig_025_p0042.png)
+
+*Plate 15 . Trichoscypha debruijnii : 1. Leaf. – 2. Leaflet, lower surface. – 3, 4. Idem, detail. – 5–7.*
+
 ## Notes
 
 <!-- TODO:notes -->

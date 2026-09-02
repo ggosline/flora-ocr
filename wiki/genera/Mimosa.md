@@ -29,6 +29,11 @@ This genus contains approximately 600 species from tropical and subtropical regi
 
 1'. Leaf rachis with scarcely visible internodes; a single hooked spine on the stems per internode; fruit spiny ..... 2. M. pudica.
 
+## Key to the species
+
+1. Leaf rachis with clearly visible internodes; several spines on the stems per internode; fruit pubescent and bristly ..... 1. M. pigra.
+1'. Leaf rachis with poorly visible internodes; a single hooked spine on the stems per internode; spiny fruit ..... 2. M. pudica.
+
 ## Species in region
 
 | Species | Vol | Pages |

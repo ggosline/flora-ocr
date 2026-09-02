@@ -33,6 +33,12 @@ known from all tropical Africa, including Madagascar, Asia, Australia and Pacifi
 
 river banks, roadsides, secondary vegetation areas; in Gabon, up to 500 m altitude, elsewhere, up to 800 m. B: Gonçalves (1987), Heine (1963), Lejoly & Lisowski (1993), Verdcourt Bibliography (1963)
 
+## Figures
+
+![Merremia hederacea](../sources/Convolvulaceae_vol46_liteparse/figures/fig_033_p0050.png)
+
+*Plate 21. Merremia hederacea : 1. Flowering branch. – 2, 3. Sepals. – 4. Corolla spread open with stamens. – 5. Gynoecium with part of the calyx. – 6. Young fruit. – 7. Ripe fruit. – 8. Seed. (2–6 : Perrier de la Bâthie 14645 ; 7–9 : Decary 19198 ). Drawing by J. Berhaut (1) and Thierry Deroin (2–9) reproduced with permission from the Scientific Publications of the National Museum of Natural History, Paris (©) from Berhaut (1975) and Deroin (2001).*
+
 ## Notes
 
 <!-- TODO:notes -->

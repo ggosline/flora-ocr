@@ -27,6 +27,12 @@ Adansonia, ser. 2, 17(3): 300 (1978). Plant with simple or rarely bifid stem, 20
 
 endemic to Gabon, rare and known only from the Ogooué (Ogooué-Ivindo). B: Cusset (1978), Sosef et al. (2006). Bibliography
 
+## Figures
+
+![Macropodiella hallei](../sources/Podostemaceae_vol51_liteparse/figures/fig_039_p0050.png)
+
+*Plate 21. Macropodiella hallei . 1. General view (× 2/3). – 2. Portion of the stem (× 3). – 3. Flower at anthesis (× 12). – 4. Opened flower (× 12). – 5. Stamens (× 24). – 6. Schematic transverse section of the ovary (× 24). – 7. Stigmas (× 45). – 8. Placenta laden with ovules (× 24). – 9. Seed (× 180). Drawing by C. Cusset, National Museum of Natural History, Paris (©), reproduced with permission from*
+
 ## Notes
 
 <!-- TODO:notes -->

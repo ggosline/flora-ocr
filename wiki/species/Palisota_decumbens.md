@@ -28,6 +28,16 @@ Cincinus with immature fruit, mature fruit and persistent withered flowers. – 
 
 Ezavin 330A, herbarium specimen Faden 95/42). Drawing by Alice Tangerini, Smithsonian Institution (©).
 
+## Figures
+
+![Palisota decumbens](../sources/Commelinaceae_vol55_liteparse/figures/fig_033_p0062.png)
+
+*Plate 17 . Palisota decumbens : 1. General appearance. – 2. Limb margin, detail of the lower surface. – 3.*
+
+![Palisota decumbens](../sources/Commelinaceae_vol55_liteparse/figures/fig_034_p0063.png)
+
+*Plate 18. Palisota decumbens : 1. Female flower, lateral view. – 2. Idem, frontal view. – 3. Male flower, lateral view. – 4. Idem, frontal view. – 5. Staminode. – 6. Upper stamen, ventral and dorsal views. – 7. Lower stamen of the female flower, ventral and dorsal view. – 8. Gynoecium. – 9. Ovary, longitudinal section. – 10. Idem, transverse section. – 11. Seed, dorsal and ventral views. (cultivated plants from*
+
 ## Notes
 
 <!-- TODO:notes -->

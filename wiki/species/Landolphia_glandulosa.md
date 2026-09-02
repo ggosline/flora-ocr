@@ -24,6 +24,12 @@ Breteler 6487; 8: Le Testu 1968). Drawing by Yuen Fang Tan (1-7), Naturalis Biod
 
 0.6–1.1 mm long; pistil ± mm long; ovary glabrous or with some stiff hairs at the middle; style up to ± mm or absent, glabrous. Fruit ellipsoid, obovoid or globose, 1.5–4.5 × 1–3 cm, orange, often with white spots, lenticellate, with 1 to 12 seeds; wall 0.7–1.4 mm thick; pulp orange. Distribution from Guinea-Bissau to the Central African Republic, the Democratic Republic of the Congo, and Angola; in Gabon, recorded from all provinces. Ecology primary and secondary forest in Gabon, up to m altitude, elsewhere up to m. B: Beentje (2021), Persoon et al. (1992). BIBLIOGRAPHY
 
+## Figures
+
+![Landolphia glandulosa](../sources/Apocynaceae_vol59_liteparse/figures/fig_112_p0128.jpeg)
+
+*Plate 53 . Landolphia incerta : 5DPHDXÀRULIqUHîҀ±&RUROOHî±3DUWLHGHFRUROOHDYHF stamen (× 6). – 4. Pistil (× 20). – 5. Fruit (× 1). – 6. Seed (× 2). – 7. Idem, longitudinal section showing the embryo (× 2). – Landolphia glandulosa Leeuwenberg 9027 ; 5-7 :*
+
 ## Notes
 
 <!-- TODO:notes -->

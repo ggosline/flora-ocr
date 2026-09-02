@@ -41,6 +41,12 @@ on inselbergs, especially in savannas and forest regrowth; in Gabon up to 750 m 
 
 everblooming jasmin, Gold Coast jasmin (angl.) ; andjunu (mindumu). Usage : Plante ornementale avec un fruit comestible, mais aussi utilisé comme colorant. La feuille est utilisée contre des infections parasitaires, des affections des yeux, la fièvre, etc. Bi : Breteler (2002), Burkill (1998), Green (1963), Kupicha (1983), Lachenaud (2009), Liben B liographie (1973), Raponda-Walker & Sillans (1961), Turrill (1952)
 
+## Figures
+
+![Jasminum dichotomum](../sources/Oleaceae_vol51_liteparse/figures/fig_018_p0011.png)
+
+*Plate 1. Jasminum dichotomum : 1. Flowering branch (× 1). – 2. Leaf, lower surface (× 1). – 3.*
+
 ## Notes
 
 <!-- TODO:notes -->

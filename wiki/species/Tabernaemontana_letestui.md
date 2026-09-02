@@ -26,6 +26,16 @@ Notes In the Democratic Republic of the Congo, near the border with Gabon, the t
 
 Notes According to Leeuwenberg, the fruits can be orange, which is doubtful, for all field notes on the fruits give a color of white, greenish or glaucous. The photograph of Figure (E) shows the same color. B: Beentje (2021), Leeuwenberg (1991). BIBLIOGRAPHY
 
+## Figures
+
+![Tabernaemontana letestui](../sources/Apocynaceae_vol59_liteparse/figures/fig_214_p0246.jpeg)
+
+*Figure 13 . Tabernaemontana eglandulosa : A. Inflorescence in bud. B. Fruit. – Tabernaemontana inconspicua : C. Fruit. – Tabernaemontana letestui : D. Fruit. – Tabernaemontana pendulifiora : E. Fruit. – Tabernaemontana psorocarpa : F. Inflorescence. G. Fruit. Photos by Vincent Droissart (A, Ebo Reserve, Cameroon), Ehoarn Bidault (B : Kouilou, Rep. Congo ; F, G : Right bank of the Komo, Gabon),*
+
+![Tabernaemontana letestui](../sources/Apocynaceae_vol59_liteparse/figures/fig_223_p0250.jpeg)
+
+*Planche 116 . Tabernaemontana letestui 5DPHDXÀRULIqUHîò±,QÀRUHVFHQFHDYHFERXWRQPU î±,QÀRUHVFHQFHîò±&RUROOHRXYHUWHDYHFpWDPLQHVî±3LVWLOîò±/REH*
+
 ## Notes
 
 <!-- TODO:notes -->

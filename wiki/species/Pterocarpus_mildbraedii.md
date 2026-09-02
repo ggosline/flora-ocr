@@ -50,6 +50,12 @@ The subspecies usambarensis (Verdc.) Polhill is found in Tanzania and differs by
 
 Pterocarpus santalinoides L'Hér. ex DC. Plate 108 Prodr. 2: 419 (1825). P. esculentus Schumach & Thonn., Beskr. Guin. pl.: 330 (1827). Evergreen or sometimes briefly deciduous tree, low-branched, 10–12 m in height; trunk with buttresses; bark thin, scaly. Stipules ± falciform, up to 2(–3) cm in length, striate, pubescent. Leaf: petiole (2–)3–4(–5.5) cm; rachis (4.5–)8–11(–16) cm, glabrescent; leaflets 5 to 9, with lamina ovate-elliptic, 5–13 × 3–6.5 cm, rounded or sometimes cuneate at the base, apex acuminate, glabrous, with reticulate venation beneath. Inflorescence in axillary racemes, 4–10 cm in length, little branched, with large flowers, numerous; bracts filiform, pubescent, tawny. Flower: pedicel 2–4(–5) mm; bracteoles near the base of the calyx, filiform; calyx with tube 7–8 mm in length, lobes 2–3 mm in length, tomentose; corolla bright yellow to orange, ± 2 cm in length; stamens monadelphous, with tube split adaxially; ovary pubescent, polyovulate; style pubescent. Pod suborb­icular, 2.5–4.5 × 3 × 2 cm, with 1 or 2 seeds, woody, very convex in the middle, the swollen part knobby, with narrow wing. Seed obliquely orbicular, 1.6–2 × 0.8–1.2 cm, with undulate surface, chocolate brown, mat.
 
+## Figures
+
+![Pterocarpus mildbraedii](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_116_p0330.png)
+
+*Plate 108: Pterocarpus santalinoides: 1. Flowering branchlet (× ½). – 2. Stipules (× ½). – 3. Flower buds. – 4. Flower, top view (× 1). – 5. Flower, bottom view (× 1). – 6. Flower, corolla enveloped (× 1). – 7.*
+
 ## Notes
 
 <!-- TODO:notes -->

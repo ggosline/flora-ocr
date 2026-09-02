@@ -33,6 +33,12 @@ widely distributed in Africa and Madagascar, rarer in Mediterranean regions and 
 
 floating on stagnant or slow-flowing waters, marshes, margins of lakes and ponds; in Gabon, probably between 400 and 800 m altitude, up to 2200 m in East Africa. Taxonomic note: This is the only Gabonese species with blades spaced along the fertile stems (the other species have blades grouped towards the base). This is a specialization associated with the floating habitat. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
+## Figures
+
+![Cyperus mundtii](../sources/Cyperaceae_vol44_liteparse/figures/fig_097_p0118.png)
+
+*Planche 75 . Cyperus mundtii . A. Plante. – B. Planche 76 . Cyperus polystachyos . A. Plante. – B.*
+
 ## Notes
 
 <!-- TODO:notes -->

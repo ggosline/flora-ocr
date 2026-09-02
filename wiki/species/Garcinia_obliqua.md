@@ -33,6 +33,12 @@ endemic to Gabon, known from Ogooué-Ivindo and Ngounié
 
 primary upland forest; at 450 ‒ 650 m altitude. B: Sosef & Dauby (2012). Bibliography
 
+## Figures
+
+![Garcinia obliqua](../sources/Clusiaceae_vol45_liteparse/figures/fig_015_p0032.png)
+
+*Plate 6. Garcinia obliqua : 1. Flowering branch. – 2. Leaf, lower surface. – 3. Idem, detail. – 4. Flower. – 5. Flower, 1 sepal and 2 petals removed. – 6. Fruit. (1 : Breteler et al. 8993 ; 2, 3, 6 : Dauby et al. 1570 ; 4, 5 : Breteler et al. 8738 ). Drawing by Hans de Vries, Naturalis Biodiversity Center (section NHN) ©.*
+
 ## Notes
 
 <!-- TODO:notes -->

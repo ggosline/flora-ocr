@@ -36,6 +36,10 @@ In the Chaillu Massif, at Mount Naguila near Mimongo, we have recorded between 8
 
 <!-- caption: Plate 38. Begonia ebolowensis : 1. Flowering branch (× ½). – 2. Arrangement of ♂ and ♀ flowers of an inflorescence, schematic. – 3. ♂ Flower (× 1.5). – 4-6. Androecium front, back and side view (× 5). – 7-9. Anther front, back and side view (× 10). – 10-11. ♀ Flowers (× 1.5). – 12. Styles and stigmas (× 5). – 13-15. Stigmas front, back and side view (× 10). – 16. Ovary, transverse section (× 6.5). – 17. -->
 
+## Figures
+
+![Begonia capillipes](../sources/Begoniaceae_vol39_liteparse/figures/fig_052_p0081.png)
+
 ## Notes
 
 <!-- TODO:notes -->

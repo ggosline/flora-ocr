@@ -33,6 +33,12 @@ widely distributed in tropical Africa, also in Natal; rare in Gabon, found only 
 
 margins of swamps and periodically humid depressions, usually intimately mixed with tufts of grasses that support the weak stems, but sometimes erect without support (the stems and leaves are then short); in Gabon, 0–500 m elevation, up to 1180 m in East Africa. Taxonomic note: very close to S. nyasensis C.B.Clarke from East Africa. S. achtenii has only 1(–2) peduncle at the node bearing the lower panicle whereas S. nyasensis has 3–5; the peduncles are also shorter and thicker. The achene is smaller and less distinctly alveolate than that of S. nyasensis. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Piérart (1951), Robinson (1966)
 
+## Figures
+
+![Scleria achtenii](../sources/Cyperaceae_vol44_liteparse/figures/fig_181_p0203.png)
+
+*Plate 127 : Schoenoplectus subulatus . A. Plant. Plate 128 : Scleria achtenii . A. Plant. – B. – B. Part of the inflorescence. – C. Spikelet. – D. Section of a stem. – C. Opening of the leaf sheath*
+
 ## Notes
 
 <!-- TODO:notes -->

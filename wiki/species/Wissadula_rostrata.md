@@ -38,6 +38,18 @@ Drawing by Heather Wood, reproduced with permission, © The Board of Trustees of
 
 Taxonomic note: Some authors regard the species as conspecific with W. amplissima (L.) R.E.Fr. or W. hernandioides (L'Hérit.) Garcke. Here, we follow Exell & Meeuse (1961) and Verdcourt (2009), treating it as a distinct species. Bibliography: Akoègninou et al. (2006), Berhaut (1979), Exell & Meeuse (1961), Hauman (1963), Verdcourt (2009).
 
+## Figures
+
+![Wissadula rostrata](../sources/Malvaceae_vol45_liteparse/figures/fig_040_p0094.png)
+
+*Plate 29. Wissadula rostrata : 1. Leaf. – 2. Flowering and fruiting branch. – 3. Flower, longitudinal section showing the androecium and gynoecium. – 4. Anther. – 5. Fruit with 4 mericarps. – 6. Seed.*
+
+![Wissadula rostrata](../sources/Malvaceae_vol45_liteparse/figures/fig_041_p0102.png)
+
+![Wissadula rostrata](../sources/Malvaceae_vol45_liteparse/figures/fig_042_p0102.png)
+
+![Wissadula rostrata](../sources/Malvaceae_vol45_liteparse/figures/fig_043_p0102.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

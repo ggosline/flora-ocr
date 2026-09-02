@@ -54,7 +54,7 @@ Burkill (1985), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), Rapo
 
 ![Momordica foetida](../sources/Cucurbitaceae_vol57_paddle/figures/fig_062_p0089.png)
 
-*Figure 5. Momordica cissoides (Kenema, Sierra Leone): A. Feuilles et fleur mâle, B. Fruit. – Momordica enneaphylla (Wieringa 5849): C. Inflorescence mâle. – Momordica foetida (Usambara, Tanzania): D. Feuilles et inflorescences mâles, E. Tige fructifère, F. Fruit mûr. Photos A-B, D-F par Hanno Schaefer, C par Jan J. Wieringa.*
+*Figure 5. Momordica cissoides (Kenema, Sierra Leone): A. Leaves and male flower, B. Fruit. – Momordica enneaphylla (Wieringa 5849): C. Male inflorescence. – Momordica foetida (Usambara, Tanzania): D. Leaves and male inflorescences, E. Fruiting stem, F. Mature fruit. Photos A-B, D-F by Hanno Schaefer, C by Jan J. Wieringa.*
 
 ![Momordica foetida](../sources/Cucurbitaceae_vol57_paddle/figures/fig_064_p0092.png)
 

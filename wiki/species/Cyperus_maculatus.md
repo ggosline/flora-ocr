@@ -34,6 +34,14 @@ in marshes and along rivers, often in the bed of watercourses and on sand; in Ga
 
 A. Plant. – B. Swollen base of the plant. – C. Leaf sheath and base of blade. – D. Summit of the prophyll. – E. Base of the blade. – F. Inflorescence. – G. Spikelet. – H. Rachis of the spikelet. – I. Glume. – J. Fruit. Original drawing by Richard W. Haines ©. – B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997). Taxonomic note: Resembles C. rotundus, but easily distinguished by its slightly shorter glumes with a wide transparent margin. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997).
 
+## Figures
+
+![Cyperus maculatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_049_p0065.png)
+
+*Plate 37 . Cyperus luteus. A. Plant. – B. Spikelet. Plate 38 . Cyperus maculatus . A. Plant. – B. – C. Rachis of spikelet. – D. Glume. – E. Flower with Base of the plant with bulb. – C. Spikelet. – D. young fruit, style and three filaments. Drawing original by Glume. – E. Fruit with style and three filaments. Drawing*
+
+![Cyperus maculatus](../sources/Cyperaceae_vol44_liteparse/figures/fig_052_p0067.png)
+
 ## Notes
 
 <!-- TODO:notes -->

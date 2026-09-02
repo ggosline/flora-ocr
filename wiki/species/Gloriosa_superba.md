@@ -39,6 +39,16 @@ lis de Malabar, lis glorieux, lis grimpant (Fr), climbing lily, cree ping lily, 
 
 Species with a wide diversity of uses, especially in traditional medicine, against pain, in case of fainting, for treating asthma, rheumatism, as an antimalarial, etc. (Dounias, 2008); also cultivated as an ornamental plant. 3 Taxonomic note: highly variable species, formerly divided into several species and of which only varieties or localized ecotypes are now distinguished. This plant quite invasive and, although very decorative and sometimes cultivated, is often considered a "weed". Bibliography: Dounias (2008), Field (1971), Hoenselaar (2005), Thulin (1995).
 
+## Figures
+
+![Gloriosa superba](../sources/Colchicaceae_vol41_liteparse/figures/fig_018_p0031.png)
+
+*Plate 7. Gloriosa superba var. superba: 1. Habit. ─ 2. Flower. ─ 3. Capsule. (1–2: Wiltshire 1; 3:*
+
+![Gloriosa superba](../sources/Colchicaceae_vol41_liteparse/figures/fig_019_p0033.png)
+
+![Gloriosa superba](../sources/Colchicaceae_vol41_liteparse/figures/fig_020_p0033.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

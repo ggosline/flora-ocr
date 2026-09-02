@@ -41,6 +41,12 @@ ngwè-yígongo (mpongwè). b : De la Estrella et al. (2010), Ern (1984), Hauman 
 
 Cleuter, Jardin Botanique Meise (©).
 
+## Figures
+
+![Eriosema psoraleoides](../sources/Millettiaspeciesfabaceae_vol49_liteparse/figures/fig_070_p0192.png)
+
+*Plate 62: Eriosema psoraleoides: 1. Flowering and fruiting branch (× ½). – 2. Flower open (× 1½). – 3. Idem, longitudinal section (×1 ½). – 4. Calyx (× 2). – 5. Gynoecium (× 2). – 6. Androecium, longi - tudinal section (× 2). – 7. Dehiscent pod (× 1). – 8. Seed (× 2). (1–8: G. de Witte 1650). Drawing by A.*
+
 ## Notes
 
 <!-- TODO:notes -->

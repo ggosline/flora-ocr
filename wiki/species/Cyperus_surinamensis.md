@@ -39,6 +39,18 @@ CYPERUS L. subgenus PYCREUS (P.Beauv) J.Carey Carices North. U.S.: 517 (1847). P
 
 6. - Anthela ± loose, with spikelets generally numerous and small, fasciculate in "brush-like" clusters; achene subcylindric, at least 3 times longer than wide, distinctly papillose ........................................................................................... C. polystachyos - Anthela capitate, generally compact; achene obovoid to almost lenticular, less than 2 times longer than wide, transversely wrinkled .................................... 7 7. - Perennial herb stoloniferous or with short rhizome; glumes 2–3 mm long ............................................................................................................. C. lanceolatus - Annual herb with fibrous roots; glumes 1.5–3 mm long ........................ 8 8. - Achene trigonous in section, obtriangular in profile with "shoulders" ............................................................................................................. C. subtrigonus - Achene lenticular to subspherical in section, oval in profile, without "shoulders" .... 9 9. - Achene subspherical to biconvex, surface with hexagonal cells not much elongated .................................................................................................... C. pseudodiaphanus - Achene lenticular, surface with cells elongated vertically ............ C. flavescens
 
+## Figures
+
+![Cyperus surinamensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_089_p0111.png)
+
+*Plate 69. Cyperus renschii. A. Base of the plant. Plate 70. Cyperus surinamensis. A. Plant. – B. – B. Section of the blade. – C. Inflorescence. – D. Part of the inflorescence. – C. Spikelet. – D. Glumes*
+
+![Cyperus surinamensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_091_p0112.jpeg)
+
+*Figure 8. Achenes of a) Cyperus surinamensis ( Thery 88 , Ogooué-Maritime, Gabon) and b) Cyperus cataractarum ( Hallé & Villiers 4630 , Estuaire, Gabon). each a fascicle of spikelets or a new group of fascicles of sessile and pedunculate spikelets ; main branches of the inflorescence up to 10 cm long, glabrous or finely scabrous ; fascicles of spikelets, neither in spikes nor digitate, but densely grouped into small irregular heads ; involucral bracts usually 5‒10, foliaceous, erect or spreading, the largest 5‒30 cm long, far exceeding the inflorescence. Oval spikelet becoming sometimes linear at maturity, of 4‒6 × 1.5‒2 mm , whitish or greenish white, strongly flattened, with 15‒30 flowers ; elliptic and clearly concave glumes, 1.2‒1.4 mm long, white or light brown, easily deciduous with the margins partially enveloping the achene, central nerve green trinerved. Flower : style with 3 branches. Achene elliptic to fusiform, of 0.7‒0.9 × 0.3 mm , triangular, reddish brown, smooth or finely papillose.*
+
+![Cyperus surinamensis](../sources/Cyperaceae_vol44_liteparse/figures/fig_092_p0112.jpeg)
+
 ## Notes
 
 <!-- TODO:notes -->

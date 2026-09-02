@@ -39,6 +39,58 @@ L. ectypetala Hallé, from West Africa, is the only African species not from Cam
 
 2. Disc fleshy provided with a cupule, a collar, a small annular rim or 5 denticules; base of petals free, not adnate to the disc cupule.
 
+## Key to the species
+
+1. Disk ± complex, with a cupule, collar, annular rim or lower margin denticulate, not at the same time fleshy, truncoconical and simple.
+
+2. Disk fleshy furnished with a cupule, a collar, a small annular rim or 5 denticules; base of petals free, not adnate to the discal cupule.
+
+3. Disk truncoconical with 5 ribs, 5-denticulate at the base, taller than wide under the stamens (see also 3' and 3") ..... 1. L. apiculata.
+
+3'. Disk double, fleshy under the stamens, furnished with a cupule or collar at the base; see also 3".
+
+4. Petals puberulent or pubescent.
+
+5. Petals puberulent; cupule cavity hidden; fleshy disk mass barrel-shaped borne on a columniform androgynophore; stamens and pistil glabrous.
+
+6. Petals thin to the apex and subacute ..... 2. L. clematoides.
+
+6. Petals fleshy, especially toward the apex and subobtuse .....
+
+..... L. ectypetala Hallé (West Africa).
+
+5'. Petals pubescent; cupule cavity well apparent; fleshy mass in small barrel-shaped sessile form sometimes somewhat pubescent; stamens puberulent; pistil pubescent toward the base between the filaments ..... 3. L. crena.
+
+4'. Petals glabrous; fleshy disk mass turbinate or subspheric.
+
+7. Disk pubescent between the cupule and the stamens and turbinate, the cupule being scarcely visible; petals triangular elongate .....
+
+7. Disk entirely glabrous.
+
+8. Disk globose; cupule reduced, not apparent, not festooned; petals oblong elliptic, rounded at the apex ..... 5. L. yaundina.
+
+8'. Disk turbinate with flared cupule well apparent, with scalloped margin; petal narrow, attenuate, at apex somewhat arched like a prow .....
+
+3". Disk not clearly double, rather marginate: toward the base a narrow torus or a mediocre subcupuliform ring; the central fleshy part is broad and scarcely elevated.
+
+9. Petals pubescent; style very short.
+
+10. Disk small, 2 mm in diameter or less; plant pubescent; petals narrow or ± deltoid ..... 6. L. apocynoides.
+
+10'. Disk medium, 3 mm in diameter or more; plant hirsute or very villous
+
+..... 7. L. iotricha.
+
+9. Petals glabrous, style long; there are transitional forms with the two other varieties that follow ..... 8. L. africana (var. obtusifolia).
+
+---
+
+2'. Disk without a central fleshy mass under the style and androecium; broad flared cupule, clearly adnate to the base of the petals .....
+
+8. L. africana (var. richardiana).
+
+1'. Disk at the same time simple, truncoconical and fleshy, neither cupulate nor marginate at the base.
+
 ## Species in region
 
 | Species | Vol | Pages |

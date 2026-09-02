@@ -33,6 +33,12 @@ from Senegal to Ethiopia and from Uganda to Mozambique, also in tropical Asia an
 
 marshes and small ponds; in Gabon, at low altitude, in East Africa up to 1250 m. B: Fischer (1999), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Bibliography Philcox (1970, 1990)
 
+## Figures
+
+![Limnophila indica](../sources/Scrophulariaceae_vol48_liteparse/figures/fig_050_p0120.png)
+
+*Plate 36. Limnophila indica : A. Flowering stem. – B. Flower. – C. Corolla. – D, E. Stamens. – F. Stigma. (A : Jansen, de Koning & de Wilde 138 ; B–F : Raynal 12734 ). Drawing by E. Fischer (©).*
+
 ## Notes
 
 <!-- TODO:notes -->

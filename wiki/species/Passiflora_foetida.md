@@ -35,6 +35,12 @@ ruderal formations, fallow land, street margins; in Gabon, up to 620 m altitude,
 
 passiflore fétide (fr.), fetid passion flower, stinking granadilla, stin king passion flower (angl.). aboumboulou (nkomi), anóngó-araro (nkomi), ati-mi-mboni (mpongwè, nkomi), lubi-la-mbodi (benga), bési-bémbodyè (bakèlè), dibómbulani (béséki), dibugulu (bapunu), mbuga (mitsogo), mevul-mevuloe, mikó-mi-ngón (fang : Ogowè et Como), myómyóru (éshira). b : De Wilde (1975), Fernandes & Fernandes (1978), Killip (1938), Raponibliographie da-Walker & Sillans (1961), Robyns (1995), Zepernick & Timler (1984)
 
+## Figures
+
+![Passiflora foetida](../sources/Passifloraceae_vol46_liteparse/figures/fig_051_p0094.png)
+
+*Plate 37. Passiflora foetida : 1. Branch with leaves and flowers (× ½). – 2. Margin of blade, lower surface (× 2). – 3. Flower (× 1). – 4. Longitudinal section of a flower (× 1). – 5. Fruit with involucre of bracts (× ¾). – 6. Seed (× 5). (1 : Clemens 3011 ; 2 : Ross 35 ; 3, 4 : Faulkner 198 ; 5, 6 : Santos Horta s.n. ). Drawing by Annie Farrer, reproduced with permission from Royal Botanic Gardens Kew (©) from*
+
 ## Notes
 
 <!-- TODO:notes -->

@@ -33,6 +33,12 @@ widely distributed in paleotropical regions, but in West Africa, present only in
 
 at water margins; in Gabon, near sea level, up to 1900 m altitude in East Africa. Taxonomic note: fairly close to C. aromaticus, and further research is necessary to determine whether the African plants are the same as those of Asia. It differs from C. aromaticus by a less developed blade, a more golden inflorescence, and involucral bracts fewer in number and shorter. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
+## Figures
+
+![Cyperus melanospermus](../sources/Cyperaceae_vol44_liteparse/figures/fig_075_p0095.png)
+
+*Plate 57 . Cyperus melanospermus. A. Plant. – Plate 58 . Cyperus metzii. A. Plant. – B. Base of*
+
 ## Notes
 
 <!-- TODO:notes -->

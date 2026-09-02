@@ -24,6 +24,12 @@ Wageningen Agric. Univ. Papers 96(1) : 112 (1996). Tree or shrub reaching 6 m ta
 
 In Omino's (1996) revision, the considerably larger size and the description of the trunk and wood appear to be based entirely on a single specimen geographically isolated from the east of the Democratic Republic of the Congo. This specimen in fruit, Michelson 85, is today identified as H. umbellata. B: Beentje (2021), Omino (1996). BIBLIOGRAPHY
 
+## Figures
+
+![Hunteria oxyantha](../sources/Apocynaceae_vol59_liteparse/figures/fig_096_p0103.jpeg)
+
+*Plate 42. Hunteria oxyantha: 1. Flowering branch (× 1). – 2. Leaf, lower surface (× 1). – 3. Calyx lobe, inner surface, with colleters (× 30). – 4. Open corolla, with stamens (× 4). – 5. Stamen, view*
+
 ## Notes
 
 <!-- TODO:notes -->
