@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1-4 m in height, with narrow crown. Lateral branches ascending. Vegetative apparatus entirely glabrous. Stipules similar to those of the preceding species but somewhat shorter. Petioles 2-8 mm. Leaves not reduced in length on orthotropic axes, olivaceous or greyish-brown when dry; laminae glossy, laurel-like or elliptical 3-11 × 1-3 cm, attenuate at the extremities; base acute; apex narrowly obtuse at the tip. 5-7 pairs of secondary veins. Domatia absent. Extremities of lateral branches sometimes modified and then presenting a succession of short internodes and reduced cordate, subsessile leaves; these leaves axil contracted inflorescences. No domatia.
 
-Arbrisseau de 1-4 m de hauteur, à cime étroite. Rameaux latéraux ascendants. Appareil végétatif entièrement glabre. Stipules semblables à celles de l'espèce précédente mais un peu plus courtes. Pétioles de 2-8 mm. Feuilles non réduites en longueur sur les axes orthotropes, olivacées ou gris brun à sec; limbes vernissés, lauriformes ou elliptiques de 3-11 × 1-3 cm, atténués aux extrémités; base aiguë; apex étroitement obtus en bout. 5-7 paires de nervures secondaires. Domaties nulles. Extrémités des rameaux latéraux parfois modifiés et présentant alors une succession d'entrenœuds courts et de feuilles réduites cordiformes, subses-
+Axillary pauciflorous inflorescences erect with contracted head, with peduncle clearly compressed lengthwise and 5-35 mm in length. Flowers sessile with glabrous calyx; 5 unequal subspatulate lobes reaching 1-2 × 0.6 mm. Corolla glabrous 6 mm long, green with tube ± washed with garnet-red and slightly flared; 5 ovate lobes 2 × 1.5 mm. Ovary slightly furrowed lengthwise with 2 or 3 locules.
 
-siles; ces feuilles axillent des inflorescences contractées. Pas de domaties.
-
-Inflorescences axillaires pauciflores dressées à tête contractée, à pédoncule nettement comprimé en long et de 5-35 mm de longueur. Fleurs sessiles à calice glabre; 5 lobes inégaux subspa-thulés atteignant 1-2 × 0,6 mm. Corolle glabre longue de 6 mm, verte à tube ± lavé de rouge grenat et un peu évasé; 5 lobes ovés de 2 × 1,5 mm. Ovaire légèrement sillonné en long à 2 ou 3 loges.
-
-Fruit ellipsoïde atteignant 10 × 5 mm avant maturité, à couronne calycinale de 2-3 mm de diam. 2 graines?
+Fruit ellipsoid reaching 10 × 5 mm before maturity, with calyxine crown 2-3 mm in diam. 2 seeds?
 
 ## Type
 
@@ -33,11 +29,9 @@ Büttner 445, Tondoa, en face de Vivi, bas-Congo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is closely related, by virtue of intermediates, to P. Gilletii De Wild. The latter perhaps represents only a form with greater development.
 
-Cette espèce est étroitement apparentée, du fait d'intermédiaires, au P. Gilletii De Wild. Ce dernier n'en représente peut-être qu'une forme à plus grand développement.
-
-Héliophyte de rives rocheuses enracinée entre les blocs et entièrement recouverte aux plus hautes eaux. Congo et Ogooué.
+Heliophyte of rocky banks rooted between blocks and entirely covered at the highest water levels. Congo and Ogooué.
 
 ## Specimens examined
 

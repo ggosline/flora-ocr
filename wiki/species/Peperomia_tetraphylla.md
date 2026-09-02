@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+P. reflexa (L.f.) A.Dietr., Sp. pl., ed. 6, 1 : 180 (1831), nom. illeg., non Kunth (1815). Perennial herb, epiphytic, up to 25 cm tall, glabrous. Leaves generally quaternate but sometimes opposite or ternate (especially in young plants); petiole 1–3 mm; blade ovate-elliptic to broadly ovate, 5–12 × 3–10 mm, with cuneate-subrounded base, with rounded to obtuse apex, with 3 obscure palmate veins. Inflorescence in axillary spikes, 1 per
 
-P. reflexa (L.f.) A.Dietr., Sp. pl., éd. 6, 1 : 180 (1831), nom. illeg ., non Kunth (1815). Herbe vivace, épiphyte , jusqu’à 25 cm de hauteur, glabre. Feuilles généralement quaternées mais parfois opposées ou ternées (surtout chez les jeunes plantes) ; pétiole 1–3 mm ; limbe ovale-elliptique à largement ovale, 5–12 × 3–10 mm, à base cunéée-subarrondie, à sommet arrondi à obtus , avec 3 nervures palmées obscures. Inflorescence en épis axillaires, 1 par
-
-Piper 67 nœud , 0,5–4 cm × 1–2 mm, verts à jaunâtres ; pédoncule 10–20 mm. Fruit subcylindrique, ± 1 × < 0,5 mm, lisse, brun rougeâtre.
+Piper 67 node, 0.5–4 cm × 1–2 mm, greenish to yellowish; peduncle 10–20 mm. Fruit subcylindric, ± 1 × < 0.5 mm, smooth, reddish-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropical ; au Gabon, connu de l’Estuaire
+pantropical; in Gabon, known from Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-épiphyte ou sur des troncs ou des rochers couverts de mousses, forêt dense côtière, forêt de montagne humide ; au Gabon à environ 100 m d’altitude, ailleurs jusqu’à 2800 m
+epiphytic or on trunks or rocks covered with mosses, dense coastal forest, humid montane forest; in Gabon at approximately 100 m altitude, elsewhere up to 2800 m
 
 ## Vernacular names
 

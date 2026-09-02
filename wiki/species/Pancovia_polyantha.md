@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenwelt Afr. 3(2) : 276 (1921); Hutch. & DALZ., FWTA, ed. 1, 1 : 504 (1928).
 
-Arbuste? Feuilles 3-4-juguées; folioles 14-20 × 4,5-8 cm; pétiolues 1 cm.
+Shrub? Leaves 3–4-jugate; leaflets 14–20 × 4.5–8 cm; petiolules 1 cm.
 
-Inflorescence, 15-30 cm, égalant 2 fois le pétiole; boutons de  $ 4 \times 3 $ mm; pédicelles de 5 mm; calice velu tomentelleux dehors, glabriuscule dedans.
+Inflorescence 15–30 cm, equalling twice the petiole; flower buds 4 × 3 mm; pedicels 5 mm; calyx velutinous tomentellous outside, glabriusculous inside.
 
 ## Type
 
@@ -31,9 +29,7 @@ Staudt 906, Johann-Albrechtsthöhe (actuel Kumba), Cameroun (fl., mars 1897) (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le nom polyantha évoque le même aspect que floribunda mais il faudrait plus de détails dans la description pour autoriser une assimilation complète. A rechercher de nouveau au Cameroun.
+The name polyantha evokes the same aspect as floribunda but more details in the description would be needed to authorize complete assimilation. To be searched again in Cameroon.
 
 ## Notes
 

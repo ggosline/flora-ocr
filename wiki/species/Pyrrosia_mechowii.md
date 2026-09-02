@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, Contr. Contr. Fl. Mog. 12 : 37 (1955); FWTA : 46 (1959).
 
-Rhizome rampant, portant des écailles lancéolées, peltées à la base, à bords entiers, formées de cellules à parois minces, celles du sommet de l'écaille épaissies et foncées. Limbe à contour linéaire, progressivement rétréci sur le court pétiole écailleux (long de 1-3 cm), long de 15-20 cm sur 1,5-2 de large, à extrémité effilée. Texture coriace. Face supérieure du limbe ponctuée, glabre, à nervure médiane peu apparente. Face inférieure portant des écailles grisâtres formées de branches nombreuses, égales. Fronde fertile semblable à la stérile. Sores localisés à la partie supérieure du limbe.
+Rhizome creeping, bearing lanceolate scales, peltate at the base, with entire margins, formed of cells with thin walls, those at the apex of the scale thickened and dark. Lamina with linear outline, gradually narrowed onto the short scaly petiole (1-3 cm long), 15-20 cm long by 1.5-2 cm wide, with attenuate apex. Texture coriaceous. Upper surface of lamina punctate, glabrous, with midvein scarcely apparent. Lower surface bearing greyish scales formed of numerous, equal branches. Fertile frond similar to the sterile. Sori localized to the upper part of the lamina.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mann 788, Ambas Bay (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De Guinée au Congo, Angola, Afrique orientale.
+From Guinea to Congo, Angola, East Africa.
 
 ## Specimens examined
 

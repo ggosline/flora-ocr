@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree with hard, twisted wood. Bark smooth, detaching in thin plates. Branchlets quadrangular, pubescent. Leaves petiolate, elliptic or oblong, acute or obtuse at apex, obtuse at base, pubescent beneath, 4–12 cm long, 3.5–5 cm wide; lateral veins 12–16 pairs, impressed beneath, prominent above.
 
-Petit arbre à bois dur, tortueux. Ecorce lisse, se détachant par plaques minces. Rameaux quadrangulaires, pubescents. Feuilles pétiolées, elliptiques ou oblongues, aiguës ou obtuses au sommet, obtuses à la base, pubescentes en dessous, de 4-12 cm long, de 3,5-5 cm large; nervures latérales 12-16 paires, imprimées en dessous, saillantes en dessus.
+Peduncles 1–3-flowered, 1–5 cm long. Calyx pubescent, closed in bud. Petals 1.5–2 cm long. Berry globose or pyriform, with very numerous seeds, sweet and refreshing, 3–6 cm in diameter.
 
-Pédoncules 1-3-flores, de 1-5 cm long. Calice pubescent, clos dans le bouton. Pétales de 1,5-2 cm long. Baie globuleuse ou pyriforme, à graines très nombreuses, sucrée et rafraîchissante, de 3-6 cm de diamètre.
-
-Les fruits se mangent crus ou en compote. Le bois dur peut faire un excellent bois de chauffage; il est également propre à faire des manches d'outils.
+The fruits are eaten raw or as compote. The hard wood makes an excellent firewood; it is also suitable for making tool handles.
 
 ## Notes
 

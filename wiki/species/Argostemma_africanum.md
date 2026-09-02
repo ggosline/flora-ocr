@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tender herb with a cylindrical succulent erect simple stem; 2–5 cm tall below the inflorescence. Stipules in a dentate transverse border and connate to the petiolar margins. 6 to 10 leaves in pairs ± anisophyllous, ± laterally curved, arranged in a single oblique plane, sometimes pseudoverticillate; blade thin, 2–7 × 0.5–3 cm; base acute, apex lanceolate, more rarely subobtuse. Upper surface of blade ± pubescent. 4–7 pairs of secondary veins.
 
-Petite herbe tendre à tige succulente cylindrique dressée simple; haute de 2-5 cm sous l'inflorescence. Stipules en rebord denticulé transversalement disposé et conné aux marges pétio-laires. 6 à 10 feuilles en paires ± anisophylles, ± arquées latérale-ment, disposées dans un unique plan oblique, parfois pseudoverti-cillées; limbe mince de 2-7 × 0,5-3 cm; base aiguë, sommet lancéolé, plus rarement subobtus. Dessus du limbe ± pubescent. 4-7 paires de nervures secondaires.
+Terminal inflorescence pedunculate for 1–2 cm; 3 to 13 flowers. Cyme with terminal flower, with opposite elliptic bracts 3–5 × 1–2 cm, ± unequal. Pedicel slender, glabrous, 6–20 mm long. Calyx glabrous, green, 4–5 short lobes tapering to denticules after anthesis. Bud green with obtuse apex not protected by the calyx. Corolla pure white. 4–5 petals 7–8 × 2.5–3 mm. Stamens 4 mm; anther 2 × 0.5 mm; filament 2 mm.
 
-Inflorescence terminale pédonculée sur 1-2 cm; 3 à 13 fleurs. Cyme à fleur terminale, à bractées opposées elliptiques de 3-5 × 1-2 cm, ± inégales. Pédicelle grêle, glabre de 6-20 mm de longueur. Calice glabre, vert, 4-5 lobes courts s'amenuisant en denticules après l'anthèse. Bouton vert à sommet obtus non protégé par le calice. Corolle blanc pur. 4-5 pétales de 7-8 × 2,5-3 mm. Élamines de 4 mm; anthère 2 × 0,5 mm; filet 2 mm.
-
-Fruit turbiné brièvement subconique de 4-5 mm de diamètre.
+Fruit turbinate, briefly subconical, 4–5 mm in diameter.
 
 ## Type
 
@@ -31,9 +29,7 @@ Preuss s. n., Cameroun (probablement détruit); autre spécimen de référence :
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud Nigeria, Cameroun, Guinée espagnole, Gabon. Grégaire sur rochers humides et ombragés dans le lit de torrents. Affectionne les parois verticales moussues avec Hyménophyllacées.
+South Nigeria, Cameroon, Spanish Guinea, Gabon. Gregarious on wet and shaded rocks in streambeds. Prefers vertical mossy walls with Hymenophyllaceae.
 
 ## Specimens examined
 

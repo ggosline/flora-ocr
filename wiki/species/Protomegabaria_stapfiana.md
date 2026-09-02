@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Hooker's Icon. Pl., ser. 4, 10(2): t. 2929 (1911). Shrub to medium tree up to 15 m tall; trunk up to 22 cm diameter; branches glabrous; branchlets generally puberulent, rapidly glabrescent. Stipules ± triangular, (1–)2–4(–6) mm long, puberulent on the outside. Leaf: petiole slightly canaliculate above, 3–11(–15) cm, sparsely puberulent when young, glabrescent; blade narrowly oblong-elliptic, (2–)2.5–3(–4.5) times longer than wide, (13–)16–28(–43) × 5–10(–13) cm, rounded to briefly cuneate at the base, rounded to briefly acuminate over 0.5–1.5 cm at the apex, glabrous on the upper surface, puberulent below when young and glabrous or hairy on the midvein and often on the laterals when adult, base mostly with 1–2(–5) glands on the external face, sparsely glandular below; lateral nerves (9–)11–15(–17) pairs. Inflorescence ± glabrous, the male ones up to 10 cm long, the female ones ± 4 cm, but up to 15 cm long in fruit. Male flower: pedicel 1–2.5 mm; sepals ovate-triangular, 1–2 mm long, ciliolate; stamens 1.5–2.5 mm long, anthers 0.5 mm long; pistillode conical, 1 mm long. Female flower: pedicel 1–3 mm; sepals ovate-triangular, 1.5–2 mm long, with (2–)3(–4) glands at the internal base; ovary (2–)3(–4)-locular, subglobose to ovoid, 2–3 mm long; stigmas (2–)3, ≤ 0.5 mm long, bilobed at the apex. Fruit subglobose, often slightly trilobed, 3–4 × 3.5–4.5 cm. Seeds obovoid, ± 12 × 17 mm, smooth, shiny.
 
-Hooker’s Icon . Pl ., sér. 4, 10(2) : t. 2929 (1911). Arbuste à arbre moyen jusqu’à 15 m de hauteur ; tronc jusqu’à 22 cm de diamètre ; ra meaux glabres ; ramilles en général pubérulentes, rapidement glabrescentes . Stipules ± triangulaires, (1–)2–4(–6) mm de longueur, pubérulentes à l’extérieur. Feuille : pé tiole légèrement canaliculé dessus, 3–11(–15) cm, éparsement pubérulent à l’état jeune, glabrescent ; limbe étroitement oblong-elliptique, (2–)2,5–3(–4,5) fois plus long que large, (13–)16–28(–43) × 5–10(–13) cm, arrondi à brièvement cunéé à la base, arrondi à brièvement acuminé sur 0,5–1,5 cm au sommet, glabre à la face supérieure, pubérulent dessous à l’état jeune et glabre ou poilu sur la médiane et souvent sur les latérales à l’état adulte, base le plus souvent à 1–2(–5) glandes sur la face externe, éparsement glandu leux dessous ; nervures latérales (9–)11–15(–17) paires. Inflorescence ± glabre, les mâles jusqu’à 10 cm de longueur, les femelles ± 4 cm, mais jusqu’à 15 cm de longueur en fruit. Fleur mâle : pédicelle 1–2,5 mm ; sépales ovales-triangulaires, 1–2 mm de longueur, ciliolés ; étamines 1,5–2,5 mm de longueur, anthères 0,5 mm de longueur ; pistillode co nique, 1 mm de longueur. Fleur femelle : pédicelle 1–3 mm ; sépales ovales-triangulaires, 1,5–2 mm de longueur, avec (2–)3(–4) glandes à la base interne ; ovaire (2–)3(–4)-locu laire, subglobuleux à ovoïde , 2–3 mm de longueur ; stigmates (2–)3, ≤ 0,5 mm de lon -
-
-Inflorescence femelle (× ½). ‒ C. Détail de la face inférieure d’une feuille (× 12). ‒ D. Fascicules mâles (× 6). ‒ E. Fleur mâle (× 12). ‒ F. Bouton femelle (× 9). ‒ G. Fleur femelle (× 6). ‒ H. Capsule (× 1,5). ‒ I. Idem, vue du haut (× 1,5). ‒ J. Coque bivalve (× 1,5). (A ‒ E : A. Léonard 3829 ; F, H ‒ J : A. Léonard 5153 ; G : A. Léonard 3824 ). Dessin par A. Fernandez, reproduit avec permission du Jardin botanique national de Belgique (©) à partir de Léonard (1995b).
-
-gueur , bilobés au sommet. Fruit subglobuleux, souvent légèrement trilobé, 3–4 × 3,5–4,5 cm. Graines obovoïdes, ± 12 × 17 mm, lisses, luisantes.
+Female inflorescence (× ½). ‒ C. Detail of the lower surface of a leaf (× 12). ‒ D. Male fascicles (× 6). ‒ E. Male flower (× 12). ‒ F. Female bud (× 9). ‒ G. Female flower (× 6). ‒ H. Capsule (× 1.5). ‒ I. Idem, view from above (× 1.5). ‒ J. Bivalve shell (× 1.5). (A ‒ E: A. Léonard 3829; F, H ‒ J: A. Léonard 5153; G: A. Léonard 3824). Drawing by A. Fernandez, reproduced with permission from the National Botanical Garden of Belgium (©) from Léonard (1995b).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone jusqu’au Cameroun, le Sao Tomé et Principe, le Gabon et l’Angola (Cabinda) ; au Gabon, connue de l’Estuaire, de la Ngounié, de la Nyanga, de l’Ogooué-Maritime et du Woleu-Ntem
+from Sierra Leone to Cameroon, São Tomé and Príncipe, Gabon and Angola (Cabinda); in Gabon, known from Estuaire, Ngounié, Nyanga, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon jusqu’à 400 m d’altitude. b : Aubréville (1959), Breteler (2012c), Keay (1958), Pax & Hoffmann ibliographie (1922)
+primary and secondarized forest; in Gabon up to 400 m altitude. b: Aubréville (1959), Breteler (2012c), Keay (1958), Pax & Hoffmann Bibliography (1922)
 
 ## Notes
 

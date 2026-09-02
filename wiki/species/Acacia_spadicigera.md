@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree. Older branches grey, finely grooved, with numerous lighter lenticels. Stipules fused at the base, elongate conical, woody, hollow, spinescent, straight to strongly recurved, 3–9 cm long, apex very acute. Petiole puberulent, 0.7–1.5 cm long; bearing a broadly conical gland flattened or narrowly ellipsoid, with apex ± cupular, enlarged at the level of the gland, channelled above; base fused to the stipules. Rachis very shortly puberulent, 3.4–13.5 cm long; glands present (similar to those of the petiole) or absent on the upper deeply channelled face; apex terminating below with a linear triangular mucro 2.25 mm long, with acute apex, caducous. Pinnae 4–10 pairs. Pinnae axis finely puberulent at least on the keel, 2.5–5.2 cm long; base channelled, then prominent dorsal keel; apex bearing below a narrowly triangular mucro, 0.75 mm long, recurved, acute apex, caducous. Leaflets 9–22 pairs, sessile. Blade glabrous on both faces; brown above and green below when dry, oblong, 1–2 × 6–11 mm, base very asymmetric: proximal margin broadly rounded to weakly
 
-Arbuste ou arbrisseau. Rameaux âgés gris, finement sillonnés, avec de nombreuses lenticelles plus claires. Stipules souduées à la base, longuement coniques, ligneuses, creuses, spinescentes, droites à fortement repliées, longues de 3-9 cm, sommet très aigu. Pétiole pubérulent, long de 0,7-1,5 cm ; portant une glande largement conique aplatie ou étroitement ellipsoïde, à sommet ± cupulaire, élargi au niveau de la glande, canaliculé dessus ; base soudée aux stipules. Rachis très courtement pubérulent, long de 3,4-13,5 cm ; glandes présentes (similaires à celles du pétiole) ou absentes à la face supérieure canaliculée profondément ; sommet terminé dessous par un mucron linéaire triangulaire long de 2,25 mm, à sommet aigu, caduc. Pennes 4-10 paires. Axe de la penne finement pubérulent au moins sur la carène, long de 2,5-5,2 cm ; base canaliculée, puis carène dorsale importante ; sommet portant dessous un mucron étroitement triangulaire, long de 0,75 mm, replié, sommet aigu, caduc. Folioles 9-22 paires, sessiles. Limbe glabre sur les deux faces ; marron dessus et vert dessous sur le sec, oblong, 1-2 × 6-11 mm, base très asymétrique : bord proximal largement arrondi à faiblement
+1. This specimen indicates two collection dates: 17-XII-1902 and 7-I-1903.
 
-1. Cet échantillon indique deux dates de récolte : 17-XII-1902 et 7-I-1903.
+subcordate and distal margin shortly rounded attenuate; apex rounded to subtruncate, weakly retuse. Main vein ± median, prominent on both faces. Secondary veins ascending slightly curved to curved; weakly prominent above and prominent below. Veinlets in a poorly defined network, weakly prominent below.
 
-subcordé et bord distal courtement arrondi atténué ; sommet arrondi à subtronqué, faiblement rétus. Nervure principale ± médiane, saillante sur les deux faces. Nervures secondaires ascendantes peu arquées à arquées ; faiblement saillantes dessus et saillantes dessous. Nervilles en réseau peu net, faiblement saillant dessous.
+Inflorescences in dense axillary spikes, solitary or geminate. Peduncle sometimes with small spines at the base, finely shortly thickly pubescent, numerous fine keels; bearing towards the base broadly ovate bracts, finely pubescent and ciliolate on the margin. Bracteoles numerous, peltate, 1.5 mm long; base sparsely pubescent; elliptic disc, ± pubescent above. Flowers ♂, sessile, yellow in life. Calyx oblongoid flattened, finely pubescent puberulent in the upper 1/2 and on the ribs, 1.5 mm long; tube ribbed; lobes free scarcely discernible. Corolla tubular flattened, 1.75 mm long; tube glabrous; free lobes finely puberulent; imbricate after anthesis; lanceolate, 0.25 mm long. Stamens numerous, 2.5 mm long; fused in a tube 1.5 mm long; anther broadly oblong, ± 0.1 mm long. Pistil without stipe; ovary glabrous, ellipsoid, 0.75 mm long, with 15 ovules; style 1.75 mm long.
 
-Inflorescences en épis denses axillaires, solitaires ou géminés. Pédoncule avec parfois de petites épines à la base, finement courtement pubescent épais, nombreuses fines carènes ; portant vers la base des bractées largement ovées, finement pubescentes et ciliolées sur le bord. Bractéoles nombreuses, peltées, longues de 1,5 mm ; base éparsement pubescente ; plateau elliptique, ± pubescent dessus. Fleurs ♂, sessiles, jaunes sur le vivant. Calice oblongoïde aplati, finement pubescent pubérulent dans la 1/2 supérieure et sur les côtes, long de 1,5 mm ; tube côtelé ; lobes libres peu discernables. Corolle tubuleuse aplatie, longue de 1,75 mm ; tube glabre ; lobes libres finement pubérulents ; imbriqués après l'anthèse ; lancéolés, longs de 0,25 mm. Étamines nombreuses, longues de 2,5 mm ; soudées en tube long de 1,5 mm ; anthère largement oblongue, longue de ± 0,1 mm. Pistil sans stipe ; ovaire glabre, ellipsoïde, long de 0,75 mm, à 15 ovules ; style long de 1,75 mm.
-
-Gousse très éparsement pubescente à pubérulente ; jaune, jaune verdâtre rougeâtre sur le sec ; ellipsoïde à faiblement obovoïde fusiforme, ± ligneuse, 7-9 × ± 1,5 cm ; base stipitée et sommet longuement apiculé aigu. Graines 12, noires ± luisantes, incluses dans une pulpe jaune sur le vivant et marron roussâtre sur le sec, oblongoïdes, 9 × 5 mm ; aréole aussi longue que la graine mais plus étroite.
+Pod very sparsely pubescent to puberulent; yellow, yellowish greenish reddish when dry; ellipsoid to weakly obovoid fusiform, ± woody, 7–9 × ± 1.5 cm; base stipitate and apex elongate acuminate acute. Seeds 12, black ± lustrous, enclosed in yellow pulp in life and reddish brown when dry, oblongoid, 9 × 5 mm; aril as long as the seed but narrower.
 
 ## Type
 
@@ -35,11 +33,9 @@ Deppe & Schiede s.n., Mexique : près de la Lagune verte
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In America, the hollow stipular spines serve as a refuge for ants.
 
-En Amérique, les épines stipulaires creuses servent de refuge aux fourmis.
-
-Cette espèce est originaire des régions sèches du Mexique. Elle a été introduite dans d'autres régions tropicales comme plante de clôture. Au Gabon, elle n'est connue que par un échantillon provenant d'un jardin.
+This species is native to the dry regions of Mexico. It has been introduced into other tropical regions as a hedge plant. In Gabon, it is known only from a specimen from a garden.
 
 ## Specimens examined
 

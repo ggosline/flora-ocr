@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Polystachya trigonochila Kraenzl., Bot. Jahrb. Syst. 28 : 167 (1900).
 
-Pseudobulbes (2,5-) 4-7 (-11,5) × 0,3-0,5 cm. Feuilles 4,5-17 × 0,5-0,8 cm, étroitement lancéolées. Inflorescence 4-10 cm, 5-30-flore. Fleurs blanches avec un centre rose. Sépale dorsal oblong-ové. Sépales latéraux obliquement oblongs-ovés à ovés, aigus à apiculés. Labelle glabre, distinctement trilobé juste au-dessus de la base, callus bilobé formant deux carènes parallèles élevées au centre ; lobe médian très grand, ové-lancéolé, acuminé ; lobes latéraux triangulaires, aigus. Éperon sacciforme. - Pl. 129, p. 295.
+Pseudobulbs (2.5-) 4-7 (-11.5) × 0.3-0.5 cm. Leaves 4.5-17 × 0.5-0.8 cm, narrowly lanceolate. Inflorescence 4-10 cm, 5-30-flowered. Flowers white with a pink center. Dorsal sepal oblong-ovate. Lateral sepals obliquely oblong-ovate to ovate, acute to apiculate. Lip glabrous, distinctly trilobate just above the base, callus bilobed forming two parallel raised keels at the center; midlobe very large, ovate-lanceolate, acuminate; lateral lobes triangular, acute. Spur sacciform. - Pl. 129, p. 295.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Gabon, Rwanda, Ouganda
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Rwanda, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 750-2,500 m. Epiphytic in montane and submontane forest, sometimes degraded forest, observed on Ficus exposed
 
-alt. 750-2 500 m. Épiphyte en forêt montagnarde et submontagnarde, parfois forêt dégradée, observé sur Ficus exposé
+MATERIAL STUDIED (Map 58):
 
-MATÉRIEL ÉTUDIÉ (Carte 58) :
+Breteler & De Wilde 214, approximately 5 km along the road between Asok and the hydroelectric station on the Riv. Tchimbélé, alt. ± 750 m, epiphytic growing on rotting branches (fl. Aug.), WAG!.
 
-Breteler & De Wilde 214, à environ 5 km le long de la route entre Asok et la station hydroélectrique sur la Riv. Tchimbélé, alt. ± 750 m, épiphyte poussant sur les branches pourries (fl. Août), WAG!.
-
-Hallé 1247, Bélinga, N de Makokou (fl. Févr.), P!.
+Hallé 1247, Bélinga, N of Makokou (fl. Feb.), P!.
 
 ## Figures
 

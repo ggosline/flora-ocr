@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste jusqu’au 20 m de hauteur ; tronc jusqu’à 50 cm de diamètre ; écorce lisse, grisâtre à brunâtre. Feuille : pétiole de 0,5–2 cm, pubescent à glabre ; limbe papyracé, spa thulé, obovale ou oblancéolé à lancéolé, 5-18 × 1,5–4,5 cm, base cunée, sommet émarginé ou arrondi à acuminé, glabre ou la nervure principale pubescente en dessous, marge entière ; nervure principale aplatie à noyée dessus, nervures latérales 7–12(–15) de chaque côté, nervation tertiaire distincte. Inflorescence paniculée, jusqu’à 8 × 8 cm. Fleur : pédicelle de 3–10 mm, glabre à pubescent ; sépales lancéolés à lancéolés-linéaires, 1–3(–6) mm de longueur, diversement soudés, glabres à pubescents ; pétales lancéolés à oblongs , 4–9 × 1,5–3 mm ; étamines 2,5–7 mm de longueur, à anthères de 1,2–2,2 mm ; ovaire étroitement ellipsoïde à ellipsoïde, 2–3 mm de longueur, glabre ou pubescent à la base ; style 2–3 mm de longueur. Fruit ± sphérique, 6–8(–10) mm de diamètre, vert foncé, apiculé ; valves jusqu’à 2 mm d’épaisseur , horizontales à réfléchis à maturité . Graines 4,5–6 mm de longueur, rouges à rouge-orangé, à odeur de feuille de carotte.
+Tree or shrub up to 20 m tall; trunk up to 50 cm in diameter; bark smooth, greyish to brownish. Leaf: petiole 0.5–2 cm, pubescent to glabrous; lamina papyraceous, spatulate, obovate or oblanceolate to lanceolate, 5–18 × 1.5–4.5 cm, base cuneate, apex emarginate or rounded to acuminate, glabrous or midvein pubescent below, margin entire; midvein flattened to impressed above, lateral veins 7–12(–15) on each side, tertiary venation distinct. Inflorescence paniculate, up to 8 × 8 cm. Flower: pedicel 3–10 mm, glabrous to pubescent; sepals lanceolate to linear-lanceolate, 1–3(–6) mm long, variously connate, glabrous to pubescent; petals lanceolate to oblong, 4–9 × 1.5–3 mm; stamens 2.5–7 mm long, with anthers 1.2–2.2 mm; ovary narrowly ellipsoid to ellipsoid, 2–3 mm long, glabrous or pubescent at base; style 2–3 mm long. Fruit ± spheric, 6–8(–10) mm in diameter, dark green, apiculate; valves up to 2 mm thick, horizontal to reflexed at maturity. Seeds 4.5–6 mm long, red to red-orange, with a carrot-leaf odour.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue dans tout l’Afrique tropicale et Madagascar (et une forme au Yémen) ; au Gabon seulement connue de la partie orientale (Ogooué-Ivindo et OgoouéLolo)
+very widespread throughout tropical Africa and Madagascar (and one form in Yemen); in Gabon known only from the eastern part (Ogooué-Ivindo and Ogooué-Lolo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt dense sempervirente, forêt secondaire ou plus sèche, parfois en forêt 3 ripicole ou marécageuse ; en Afrique tropical à 500–2500 m, mais en Afrique du Sud à 0–2000 m d’altitude
+in dense evergreen forest, secondary or drier forest, sometimes in riparian or swampy forest; in tropical Africa at 500–2500 m, but in southern Africa at 0–2000 m altitude
 
 ## Vernacular names
 
 White Cape Beech (Angl.). Note taxonomique : Espèce très variable, si bien qu’autrefois plusieurs espèces différentes étaient distinguées, aujourd’hui des groupes informels sont reconnus à l’intérieur d’une seule espèce (voir Friis, 1987). Les échantillons gabonais appartiennent au groupe ‘ripi colum’ reconnu par les feuilles acuminées à nervure principale noyée et sépales libres de 1,5–3 mm de longueur. b : Cufodontis (1966), Friis (1987), Killick (1991), Léonard (1951). ibliographie
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 3
 

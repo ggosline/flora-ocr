@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 4-6 (11) m tall with a straight trunk and harmoniously tiered and spreading branches, rarely forked. Twig tips velutinous. Internodes pubescent, 40-70 × 3-6 mm. Stipules with fine and dense yellow-green pubescence, ovate-lanceolate, 11-21 × 9-14 mm, much broadened above the insertion point, attenuate-acute at the apex, generally caducous at the level of the inflorescences. Petiole pubescent, 4-9 mm. Blade yellowish-green when dry, puberulent-scabrous above, pubescent below, very elongate oblong-lanceolate, 20-40 × 4-12 cm; base obtuse to subcordate; apex attenuate-acute to subcaudate. Midvein pubescent. 20-28 pairs of secondary veins pubescent, moderately ascending and closed in arches at 0.5-2 mm from the margin. Domatia absent.
 
-Arbuste ou petit arbre de 4-6 (11) m à tronc droit et à branches harmonieusement étagées et étalées, rarement fourchues. Extrémités velues. Entrenœuds pubescents de 40-70 × 3-6 mm. Stipules à fine et dense pubescence jaune-vert, ovées-lancéolées de 11-21 × 9-14 mm, très élargies au-dessus de l'insertion, atténuées aiguës au sommet, généralement caduques au niveau des inflorescences. Pétiole pubescent de 4-9 mm. Limbe vert-jaunâtre à sec, pubérulent scabre dessus, pubescent dessous, très longuement oblong-lancéolé, de 20-40 × 4-12 cm; base obtuse à subcordée; sommet atténué-aigu à subcaudé. Nervure médiane pubescente. 20-28 paires de nervures secondaires pubescentes, médiocrement ascendantes et fermées en arceaux à 0,5-2 mm de la marge. Domaties nulles.
+Inflorescences multiflorous axillary, corymbiform, solitary or issuing in pairs to groups of 4 from serial buds, 2.5-5 cm long, with peduncle 0.7-2 cm, pubescent. The peduncle is interrupted at a median or variable level by a pair of bracteoles generally linear, stipulate. Pedicel 1-5 mm, pubescent. Bud conical and glabrous, sulcate when dry, approximately 5 mm long. Flowers white, green, greenish or bluish. Calyx somewhat pubescent beneath the cup which is glabrous, almost edenate, 1.5-2 mm high, often flared. Corolla 5-7 mm long, glabrous, with 5 triangular lobes ± erect, 2-2.5 mm long, with apparent internal pubescence. Anthers mediidorsifixed, 2-4 × 1-1.5 mm, with flat apical rostrum and rather well-developed. Pollen white. Style approximately 4-6 mm in its long form, pubescent except at the base, with ovate subconical stigma. Disc truncate-conical, 2 × 1 mm, puberulent to subhirsute, ± ornamented with fossulae at the summit. Ovary 2-locular; each with two distinct multivolular masses.
 
-Inflorescences multiflores axillaires corymbiformes solitaires ou issues par 2-4 de bourgeons sériaux, longues de 2,5-5 cm, à pédoncule de 0,7-2 cm, pubescentes. Le pédoncule est interrompu à un niveau moyen ou variable, par une paire de préfeuilles généralement linéaires, stipulées. Pédicelle de 1-5 mm, pubescent. Bouton conique et glabre, cannelé à sec, long d'env. 5 mm. Fleurs blanches, vertes, verdâtes ou bleuâtras. Calice un peu pubescent sous la cupule qui est glabre, presque indentée, haute de 1,5-2 mm, souvent évasée. Corolle de 5-7 mm de long, glabre, à 5 lobes triangulaires ± érigés de 2-2,5 mm de long, à pubescence interne apparente. Anthères méditorsifxes de 2-4 × 1-1,5 mm, à rostre apical plat et assez développé. Pollen blanc. Style d'env. 4-6 mm dans sa forme longue, pubescent sauf à la base, à stigmate ové subconique. Disque tronconique, de 2 × 1 mm pubérulent à subhirsute, ± orné de fossules au sommet. Ovaire à 2 loges; chacune avec deux masses multovulaires distinctes.
-
-Fruits globuleux de ± 6 mm, verts avant maturité, nombreux. Graines nombreuses subovales de 0,8-0,9 mm (avant pleine maturité), cristées muriculées, brunes.
+Fruits globose, approximately 6 mm, green before maturity, numerous. Seeds numerous, subovate, 0.8-0.9 mm (before complete maturity), cristate muriculate, brown.
 
 ## Type
 
@@ -35,25 +33,23 @@ Mann 1826, Rio Muni (K, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, the most beautiful of the genus, occurs from Cameroon to central Congo. A variety exists with glabrous blades above in the Yaoundé region.
 
-Cette espèce, la plus belle du genre, existe du Cameroun au Congo central. Il en existe une variété à limbes glabres dessus dans la région de Yaoundé.
+Vernacular names (A. Walker): Ezombolo (Mpongwé, Galoa, Nkomi, Orungu); Gigombolo (Ngowé); Divyo (Benga); Etsileghe (Fang); Dituda, Ditili (Eshira, Bavarama); Adjonda (Bakélé); Dibumbo (Béséki); Lésonyi (Loango); Esiva (Ivea); Divévé, Mopoto-poto (Apindji); Mopoto-poto (Mitsogho); Muakabi (Bavungu, Bapunu). Kokonne (Bakota according to N. Hallé).
 
-Noms vernaculaires (A. Walker) : Ezombolo (Mpongwé, Galoa, Nkomi, Orungu); Gigombolo (Ngowé); Divyo (Benga); Etsileghe (Fang); Dituda, Ditili (Eshira, Bavarama); Adjonda (Bakélé); Dibumbo (Béséki); Lésonyi (Loango); Esiva (Ivea); Divévé, Mopoto-poto (Apindji); Mopoto-poto (Mitsogho); Muakabi (Bavungu, Bapunu). Kokonne (Bakota d'après N. Hallé).
+Uses (A. Walker): the wood is used to make house posts and large paddles. The bark is used against certain headaches and to clean ulcerous wounds; in Congo a yellow or red dye can be extracted from it. The fresh downy leaves serve as hygiene paper for infants.
 
-Usages (A. Walker) : le bois sert à faire des piquets de cases et de grandes pagaies. On utilise l'écorce contre certains maux de tête et pour nettoyer les plaies ulcéreuses; au Congo on sait en extraire une teinture jaune ou rouge. Les feuilles fraîches duveteuses servent de papier hygiénique pour les nourissons.
+Gabon material (used for the description):
 
-Matériel gabonais (utilisé pour la description) :
+J. de Brazza: 54, Franceville (end of fl. Sept.).
 
-J. de Brazza : 54, Franceville (fin de fl. sept.).
+A. Chevalier: 26917, Agonenzork, Upper Komo (fl. Oct.); 27118, Upper Ramboué (fl. Oct.).
 
-A. Chevalier : 26917, Agonenzork, Haut-Komo (fl. oct.); 27118, Haut-Ramboué (fl. oct.).
+N. Hallé: 1132, Makokou region (j. fr. Feb.); 3279, 3571, Bélinga (fl. end of Dec.)
 
-N. Hallé : 1132, région de Makokou (j. fr. fév.); 3279, 3571, Bélinga (fl. fin déc.)
+G. Le Testu: 1220, Massanga, Tchibanga region (fl. Nov.); 7522, Lastoursville (fl. Oct.).
 
-G. Le Testu : 1220, Massanga, région de Tchibanga (fl. nov.); 7522, Lastours-ville (fl. oct.).
-
-A. Walker : 1938, Saint-Martin, Haute Ngounyé (fl. et fr. mars).
+A. Walker: 1938, Saint-Martin, Upper Ngounyé (fl. and fr. March).
 
 ## Figures
 

@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The synonymy occupies 4 and a half pages in this latter work, the common names a page!
 
-La synonymie occupe 4 pages et demie dans ce dernier ouvrage, les noms vulgaires une page!
+Tree reaching 4–10, sometimes 20 m. Leaves 3–6-jugate; petiole and rachis winged; leaflets variable, either elliptic-lanceolate or narrower and falciform, entire, membranous; veins prominent especially on the upper surface, glabrous.
 
-Arbre s'élevant à 4-10, parfois 20 m. Feuilles 3-6-juguées; pétiole et rachis ailés; folioles variables, soit elliptiques-lancéolées, soit plus étroites et falciformes, entières, membraneuses; nervures marquées en relief surtout dessus, glabres.
+Inflorescences 15–20 cm in compound racemes with ultimate ramifications of 2–3 cm bearing, according to a spiral arrangement of 5/2, biparous cymules with 3–9 flowers; floral axes with very short, 0.1 mm hairs, very densely packed. Flower buds 1.5 mm in diameter, villous at the base. Flowers with glabrous sepals but ciliate at the margin; petals elliptic, $ 1.2 \times 0.7 $ mm, glabrous, nerved, with curled cilia on the margin; the petals are folded inward toward the middle portion, which may resemble a rudimentary scale; disk with 8 flattened lobes forming a cup. Fresh mericarps 15–20 mm in diameter; spherical black seed 12 mm in diameter, with integument approximately 1 mm thick; linear vertical hilum $ 1.5 \times 0.4 $ mm; embryo with radicle engaged in a fold of the integument, upper cotyledon thicker, folded, the lower one curved. PL. 12, 1–11, p. 59.
 
-Inflorescences 15-20 cm en grappes composées dont les ramifications ultimes de 2-3 cm portent, selon une spire d'insertion de 5/2, des cymules bipares à 3-9 fleurs; axes floraux à poils très courts, 0,1 mm, et très serrés. Boutons de 1,5 mm de diamètre, velus à la base. Fleurs à sépales glabres mais ciliés au bord; pétales elliptiques, de  $ 1,2 \times 0,7 $ mm, glabres, nerviés, avec des cils frisés, au bord; les pétales sont repliés à l'intérieur vers la partie moyenne, ce qui peut figurer une écaille rudimentaire; disque à 8 lobes aplatis formant une coupe. Méricarpes frais de 15-20 mm de diamètre; graine noire sphérique de 12 mm de diamètre, à tégument épais d'env. 1 mm; hile linéaire vertical de  $ 1,5 \times 0,4 $ mm; embryon à radicule engagée dans un repli du tégument, cotylédon supérieur plus épais, plié, l'inférieur courbé. PL. 12, 1-11, p. 59.
-
-C'est la fa. saponaria, spontanée en Amérique tropicale, qui a été introduite en Afrique; elle est caractérisée par le pétiole ailé. Il existe, en effet, 2 autres formes : inxqualis (DC.) Radlk. à pétiole nu et folioles dissymétriques, des Philippines, et microcarpus Radlk., à petit fruit, d'Océanie.
+It is the f. saponaria, spontaneous in tropical America, which was introduced to Africa; it is characterized by the winged petiole. There exist, in fact, 2 other forms: inxqualis (DC.) Radlk. with naked petiole and dissymmetric leaflets, from the Philippines, and microcarpus Radlk., with small fruit, from Oceania.
 
 ## Specimens examined
 

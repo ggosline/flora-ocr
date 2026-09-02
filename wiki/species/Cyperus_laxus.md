@@ -21,7 +21,7 @@ C. diffusus Vahl subsp buchholzii (Boeck) Kük. in Engl. & Diels, Pflanzenr. IV.
 
 ## Distribution
 
-in the forest regions of tropical Africa; locally common in Gabon in the Estuary, Ogooué-Ivindo and Woleu-Ntem, less in Ngounié, Ogooué-Maritime and Ogooué-Lolo (23 collections)
+in the forest regions of tropical Africa; locally common in Gabon in the Estuaire, Ogooué-Ivindo and Woleu-Ntem, less in Ngounié, Ogooué-Maritime and Ogooué-Lolo (23 collections)
 
 ## Ecology
 

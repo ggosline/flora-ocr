@@ -23,7 +23,7 @@ Bos 6803; 3–6: Soyaux 269; 7–10: Klaine 910). Drawing by Wil Wessel-Brand, N
 
 nerves 9 to 12 pairs, looping into a well-visible intramarginal nerve, tertiary venation reticulate. Inflorescence terminal, generally sparsely branched, sometimes in whorls with velvety axes. Flower: bracteoles velvety surrounding the calyx; calyx with lobes ± 2 × 3 mm, rounded, velvety; corolla ± succulent, brownish outside, dark cream inside, with cylindrical tube ± 7 mm long, velvety outside, glabrous inside, with lobes 8–9 mm long, at first extending the tube before curving outward, hairy inside, velvety outside but less densely so than the tube; stamens inserted at ± 7 mm above the base, anther 1.5 mm long, glabrous; pistil 2.5–3 mm long. Fruit subglobose, ± 4 cm in diameter, smooth but wrinkled into twisted ridges and bosses, very pale green or brown, glabrous. Biodiversity Center (©).
 
-Distribution endemic to Gabon, known from three stations in the Estuary, the Middle Ogooué and the Ngounié. Ecology: humid evergreen lowland forest up to 200 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
+Distribution endemic to Gabon, known from three stations in the Estuaire, the Moyen-Ogooué and the Ngounié. Ecology: humid evergreen lowland forest up to 200 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
 ## Notes
 

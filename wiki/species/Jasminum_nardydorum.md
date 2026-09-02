@@ -21,7 +21,7 @@ Adansonia, sér. 3, 24(1): 50 (2002). Liane ± slender, with stem reaching up to
 
 ## Distribution
 
-endemic to Gabon, known from the Estuary and Woleu-Ntem
+endemic to Gabon, known from the Estuaire and Woleu-Ntem
 
 ## Ecology
 

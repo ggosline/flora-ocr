@@ -33,7 +33,7 @@ Type from Gabon: Mann, Gaboon river (K).
 
 Robust liane of forest formations, forest galleries, margins and forest regrowth. The range of this species covers central Africa, from the Gulf of Guinea to East Africa.
 
-Vernacular names, according to A. Walker (in shed.): Imeno-Itani, Ntchomé (Mpongwé of Libreville), Essang-enyoume (Fang of the Estuary), Byalemyogou (Eshira).
+Vernacular names, according to A. Walker (in shed.): Imeno-Itani, Ntchomé (Mpongwé of Libreville), Essang-enyoume (Fang of the Estuaire), Byalemyogou (Eshira).
 
 ## Specimens examined
 

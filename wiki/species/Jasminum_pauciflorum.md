@@ -21,7 +21,7 @@ in Hook., Niger Fl. : 443 (1849). J. preussii Engl. & Knobl. forma minutiflorum 
 
 ## Distribution
 
-throughout tropical Africa, from Guinea-Bissau to Kenya, Mozambique and Angola; in Gabon, known from a single collection from the Estuary and perhaps also from Ogooué-Ivindo (see Notes)
+throughout tropical Africa, from Guinea-Bissau to Kenya, Mozambique and Angola; in Gabon, known from a single collection from the Estuaire and perhaps also from Ogooué-Ivindo (see Notes)
 
 ## Ecology
 

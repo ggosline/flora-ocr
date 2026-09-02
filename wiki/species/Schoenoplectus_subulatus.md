@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Schoenoplectus scirpoides (Schrad.) Browning, South Afr. J. Bot. 60 : 172 (1994). Herbe robuste, vivace , à stolons épais de 11 mm ; tige 70–450 cm × 6–12 mm (2–3 mm sous l’inflorescence), arrondie ou parfois faiblement triangulaire sous l’inflorescence. Feuilles basales ; gaine jusqu’à 70 cm × 35 mm ; limbe jusqu’à 70 cm de longueur, seulement, en V en bas, apparaissant triangulaire et ailé au sommet. Inflorescence terminale en apparence, en anthèle simple ou composée , à rayons inégaux, habituellement longs de 1–3 cm, portant chacun un épillet solitaire ou une ombelle d’épillets ; bractée principale de l’inflorescence dressée et raide, longue de 4–6 cm, foliacée ou ressemblant à la tige , plane ou anguleuse. Épillet ovale à cylindrique, 6–12 × 2–4,5 mm, obtus, pâle à brun moyen ; glumes transversalement largement elliptique, longues de 3–4 mm, arrondies au sommet , fortement concaves, pâles avec des lignes ou des taches brunes plus foncées, à bordure transparente et nettement ciliée, surtout vers le sommet ; nervure principale distincte, prolongée par une courte pointe, fortement ciliée ou scabre. Fleur : périanthe à 4–5 soies plumeuses, aussi longues ou un peu plus longues que l’akène ; étamines 3, à filets aplatis, sommet des anthères avec des cils blanchâtres épineux en éventail ; style bifide. Akène obovale, long d’environ 2 mm (apex long de 0,5 mm non compris), à base cunéiforme et sommet très distinct, lisse , brun jaunâtre à brun foncé, lisse .
+Schoenoplectus scirpoides (Schrad.) Browning, South Afr. J. Bot. 60 : 172 (1994). Robust, perennial herb, with thick stolons 11 mm; stem 70–450 cm × 6–12 mm (2–3 mm below the inflorescence), rounded or sometimes weakly triangular below the inflorescence. Basal leaves; sheath up to 70 cm × 35 mm; blade up to 70 cm long, V-shaped at base, appearing triangular and winged at the apex. Inflorescence apparently terminal, in simple or compound anthela, with unequal rays, usually 1–3 cm long, each bearing a solitary spikelet or an umbel of spikelets; main inflorescence bract erect and stiff, 4–6 cm long, foliaceous or stem-like, flat or angled. Spikelet ovate to cylindric, 6–12 × 2–4.5 mm, obtuse, pale to medium brown; glumes transversely broadly elliptic, 3–4 mm long, rounded at apex, strongly concave, pale with darker brown lines or spots, with transparent and distinctly ciliate margin, especially toward the apex; main nerve distinct, produced into a short point, strongly ciliate or scabrous. Flower: perianth with 4–5 plumose bristles, as long as or slightly longer than the achene; stamens 3, with flattened filaments, apex of anthers with whitish spinose cilia in a fan; style bifid. Achene obovate, about 2 mm long (apex 0.5 mm not included), with cuneate base and very distinct apex, smooth, yellowish-brown to dark brown, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Widely distributed in tropical and temperate regions (except America); in Gabon, known only from the coast of Ogooué-Maritime.
 
-largement répandue dans les régions tropicales et tempérées (sauf l’Amérique) ; au Gabon, connue seulement du littoral de l’Ogooué-Maritime
-
-Glume. – E. Fleur. – F. Anthère. – G. Fruit avec des feuilles inférieure et supérieure. – D. Section segments du périanthe et 3 filets. Dessin original du limbe. – E. Partie de l’inflorescence. – F. par Richard W. Haines ©. Épillet mâle. – G. Épillet femelle. – H. Fruit avec hypogynium trilobé. Dessin original par Richard W. Haines ©.
+Glume. – E. Flower. – F. Anther. – G. Fruit with lower and upper leaves. – D. Section perianth segments and 3 filaments. Original drawing of the blade. – E. Part of the inflorescence. – F. by Richard W. Haines ©. Male spikelet. – G. Female spikelet. – H. Fruit with trilobed hypogynium. Original drawing by Richard W. Haines ©.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-eaux profondes de 0,5–2 m en bordure des lacs, lagunes et rivières à faible courant ; au Gabon, près du niveau de la mer, jusqu’à 1900 m en Afrique de l’Est. Note taxonomique : facilement identifiée par son périanthe à segments plumeux. Dans Hooper & Napper (1972) et Hoenselaar et al. (2010), elle est appelée respectivement Scirpus littoralis et Schoenoplectus scirpoides , parce que les auteurs de ces flores pensaient à tort, que le type de S. subulatus n’avait pas de cils au sommet des glumes. b : Browning et al. (1994), Haines & Lye (1983), Hoenselaar et al. (2010), ibliographie Hooper & Napper (1972), Lye (1995, 1997)
+Deep waters 0.5–2 m bordering lakes, lagoons and rivers with slow current; in Gabon, near sea level, up to 1900 m in East Africa. Taxonomic note: easily identified by its perianth with plumose segments. In Hooper & Napper (1972) and Hoenselaar et al. (2010), it is called respectively Scirpus littoralis and Schoenoplectus scirpoides, because the authors of these floras erroneously thought that the type of S. subulatus had no cilia at the apex of the glumes. b: Browning et al. (1994), Haines & Lye (1983), Hoenselaar et al. (2010), Bibliography Hooper & Napper (1972), Lye (1995, 1997)
 
 ## Notes
 

@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chlamydocarya glabrescens ENGL., Bot. Jahrb. 24 : 485 (1897).
 
 — P. mangenotiana Miège, Bull. I.F.A.N., ser. A, 17 : 8, tab. 1, 2 (1955). — KEAY, FWTA ed. 2, 1 : 641 (1958), syn. nov.
 
-Liane à tige glabre, faiblement côtelée, grise ou beige clair, pustuleuse. Pétiole très éparsement pubescent, long de 1-3 cm; à section circulaire. Limbe glabre dessus, très éparsement pubescent ou glabre dessous, vert foncé devenant noir en séchant à la face supérieure et marron foncé ± luisant à la face inférieure, elliptique, largement elliptique ou blancéolé, 8-16 × 3,5-8 cm; base arrondie ou atténuée, sommet courtement acuminé obtus mucroné. Nervure médiane saillante glabre dessus, saillante dessous. Nervures secondaires 3-4 paires, très ascendantes, arquées, s'anastomosant à 3-4 mm du bord du limbe, saillantes à la face supérieure, très fortement saillantes à la face inférieure. Nervilles en réseau dense saillant dessus, très fortement saillant dessous. Hydathodes absents.
+Liane with glabrous stem, weakly ribbed, grey or light beige, pustulous. Petiole very sparsely pubescent, 1–3 cm long; circular in section. Blade glabrous above, very sparsely pubescent or glabrous below, dark green becoming black when dry on the upper surface and dark brown ± glossy on the lower surface, elliptic, broadly elliptic or lanceolate, 8–16 × 3.5–8 cm; base rounded or attenuate, apex shortly acuminate obtuse mucronate. Midvein prominent glabrous above, prominent below. Secondary veins 3–4 pairs, very ascending, arched, anastomosing 3–4 mm from the blade margin, prominent on the upper surface, very strongly prominent on the lower surface. Veinlets in dense network prominent above, very strongly prominent below. Hydathodes absent.
 
-Inflorescences ♂ et ♀ en épis axillaires solitaires. Rachis de l'inflorescence ♂ ± fortement pubescent à poils roux, vert à l'état frais devenant noir à l'état sec, long de 11-16 cm. Bouton floral globuleux, pubescent. Bractée charnue, éparsement pubescente à la base, densément pubescente rousse au sommet, fortement apprimée contre le rachis inflorescentiel, lancéolée, longue de 1 mm. Fleur ♂ tétramère, sessile. Calice absent. Pétales
+Inflorescences ♂ and ♀ in solitary axillary spikes. Rachis of the ♂ inflorescence ± strongly pubescent with rusty hairs, green when fresh becoming black when dry, 11–16 cm long. Floral bud globose, pubescent. Bract fleshy, sparsely pubescent at the base, densely rusty pubescent at the apex, strongly appressed against the inflorescence rachis, lanceolate, 1 mm long. ♂ Flower tetramerous, sessile. Calyx absent. Petals free from one another to the base, pubescent externally, glabrous internally, elliptic, 2.5 × 1.5 mm; apex obtuse. Stamens 0.75 mm long; filament short, 0.3 mm long, terminating at the apex in a collar surrounding the anthers, with undulate upper margin; anther ellipsoid 0.3 mm long. Pistillode reduced to a tuft of hairs. ♀ Inflorescence rachis 4–4.5 cm long, rusty pubescent. Floral bud rusty pubescent, globose. Bract similar to that of ♂ inflorescences. ♀ Flower tetramerous, pale green, sessile. Calyx absent. Petals free, rusty pubescent externally, glabrous internally, elliptic, 2.5 × 1.5 mm; apex obtuse. Ovary superior densely rusty pubescent (hairs uncinate). Style short terminating in a digitate stigma.
 
-libres entre eux jusqu'à la base, pubescents extérieurement, glabres intérieurement, elliptiques,  $ 2.5 \times 1.5 $ mm; sommet obtus. Étamines longues de 0,75 mm; filet court, long de 0,3 mm, se terminant au sommet par une collerette entourant les anthères, à bord supérieur ondulé; anthère ellipsoïde longue de 0,3 mm. Pistillode réduit à une touffe de poils. Rachis inflorescentiel ♀ long de 4-4,5 cm, pubescent roux. Bouton floral pubescent roux, globuleux. Bractée semblable à celle des inflorescences ♂. Fleur ♀ tétramère, vert pâle, sessile. Calice absent. Pétales libres, pubescents roux extérieurement, glabres intérieurement, elliptiques,  $ 2.5 \times 1.5 $ mm; sommet obtus. Ovaire supère densément pubescent roux (poils uncinés). Style court se terminant par un stigmate digité,
-
-Drupe de 30-35 × 15-18 mm à l'état frais, 25-30 × 15-18 mm à l'état sec, légèrement aplatie transversalement, finement pubescente, ellipsoïde. Aiguillons fins dressés à la face interne de l'endocarpe ligneux. PL. 17, p. 75.
+Drupe 30–35 × 15–18 mm when fresh, 25–30 × 15–18 mm when dry, slightly flattened transversely, finely pubescent, ellipsoid. Fine prickles erect on the inner face of the woody endocarp. PL. 17, p. 75.
 
 ## Type
 
@@ -37,11 +33,9 @@ Soyaux 302, Gabon (holo-, B, delet.; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This specimen could be compared with the ♀ samples used for the diagnosis of Pyrenacantha mangenotiana Miège. The morphology of the vegetative organs, the inflorescence axes and the bracts of the two species does not differ notably. We therefore accept their synonymy.
 
-Ce type a pu être comparé aux échantillons ♀ ayant servi à la diagnose du Pyrenacantha mangenotiana Miège. La morphologie des organes végétatifs, des axes inflorescentiels et des bractées des deux espèces ne diffère pas notablement. Nous admettons donc leur synonymie.
-
-Cette espèce a une aire très discontinue : Côte d'Ivoire et Gabon.
+This species has a very discontinuous distribution: Côte d'Ivoire and Gabon.
 
 ## Specimens examined
 

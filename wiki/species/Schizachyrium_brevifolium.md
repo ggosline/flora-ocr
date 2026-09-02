@@ -25,15 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs, stems up to 50–60 cm long, creeping and finally erect. Lower internodes and leaf sheaths flattened, glabrous; ligules short, ciliate. Blades 2 to 5 cm long and up to 6 mm wide, often tinged with red, as are the spathes.
 
-Herbes annuelles, tiges jusqu'à 50-60 cm de long, rampantes et finalement dressées. Entrençéds inférieurs et gaines foliaires
+Racemes finely pedunculate, 1 to 3 cm long; 5 to 11 articles glabrous, approximately 2 mm long. Pedicels similar, but more slender. Lower glume of sessile spikelets bidentate, scabrous along the keels, with very fine nerves. Upper glume acuminate, ciliate, with 1 nerve. Lower flower reduced to a glumella. Fertile lemma divided almost to the base, 3 mm long. Awn 7 to 14 mm long. Pedicellate spikelet reduced to a small glume often scarcely distinct from the pedicel, and prolonged by a fine subule 3 to 4 mm long.
 
-aplatis, glabres; ligules courtes, ciliées. Limbes de 2 à 5 cm de long et jusqu'à 6 mm de large, souvent teintés de rouge, ainsi que les spathes.
-
-Racèmes finement pédonculés, de 1 à 3 cm de long; 5 à 11 articles glabres, environ 2 mm de long. Pédicelles semblables, mais plus fins. Glume inférieure des épillets sessiles bidentée, scabre le long des carènes, à nervures très fines. Glume supérieure acuminée, ciliée, à 1 nervure. Fleur inférieure réduite à une glumelle. Lemma fertile divisée presque jusqu'à la base, de 3 mm de long. Arête de 7 à 14 mm de long. Épillet pédicellé réduit à une petite glume souvent peu distincte du pédicelle, et prolongée par une fine subule de 3 à 4 mm de long.
-
-Cette espèce est répartie dans l'ensemble de la zone tropicale. Au Gabon, on la rencontre souvent dans les jachères, les terrains vagues, parfois en savane sous les grandes Graminées. Elle indique des sols relativement bien pourvus en matière organique. Ce serait une bonne plante fourragère, mais sa durée d'utilisation est limitée à la saison des pluies.
+This species is distributed throughout the tropical zone. In Gabon, it is often encountered in fallows, waste ground, sometimes in savanna under large grasses. It indicates soils relatively well supplied with organic matter. It would be a good forage plant, but its period of use is limited to the rainy season.
 
 ## Vernacular names
 

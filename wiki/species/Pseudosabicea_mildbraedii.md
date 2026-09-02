@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant ± woody, at least the rootstock which may reach nearly 1 cm diam., ± creeping (on bare slope) or erect (under shade), reaching 50–75 cm in height. Branch tips whitish with dense and fine woolly indumentum ± rapidly caducous, containing in mixture in the typical form, long fine hairs ± appressed or erect. Internodes well developed with ± sparse pubescence, or glabrous (form glabrescens). Stipules at first ± lanate then glabrescent membranaceous with margins ± ciliate to (1) 2–5 (6) attenuate teeth, 8–11 mm long, persistent and often reflexed. Excessive anisophylly: smallest blade 6–10 mm. Petiole (3) 5–30 mm, pubescent, ciliate on the margins of the channel. Blade discolorous, glabrous or with ± lax pubescence above, with dense white-woolly indumentum below, (form glabrescens) elliptic, 6–12 × 3–7 cm; base very asymmetric offset 2–10 mm, subobtuse to cordate on the dominant side; short and acute acumen. Midvein ciliate on the upper surface; 8–14 lateral nerves per side.
 
-Plante ± ligneuse, au moins la souche qui peut atteindre près de 1 cm de diam., ± rampante (sur talus découvert) ou redressée (sous ombrage), atteignant 50-75 cm de hauteur. Extrémités blanchâtres à dense et fin revêtement laineux ± rapidement caduc, contenant en mélange dans la forme typique, de
+Inflorescences multiflorous sessile inserted at the axil of the reduced leaf. Bud with spherical apex clothed in white wool as also the outer face of the sepals. Calyx white pubescent on the outside, with 5 subacute to rounded lobes, ca. 1–2 mm (greener in the short-styled form). Corolla white with 5 spreading or reflexed lobes 4–6 mm diam., with tube 3.5–4 × 1.4 mm. Pubescence of the throat abundant; the longest hairs exceed 1 mm; those adjacent to the base of the lobes are shorter and arranged in a string. Anthers white mediodorsifix, emarginate above, emarginate below, 1.3 × 0.4 mm; pollen white. Style glabrous reaching 6 mm (long form), including the stigma with two flattened papilliferous lobes, white, 0.9 mm. Disk glabrous pale green. Ovary with 2 locules, each with a cordate suborbicular placenta of ca. 1.8 mm and more clearly expanded towards the base.
 
-longs poils fins ± couchés ou dressés. Entrenceuds développés à pilosité ± clairsemée, ou glabres (forme glabrescens). Stipules d'abord ± lanugineuses puis glabrescentes membranacées à marges ± ciliées à (1) 2-5 (6) dents atténuées, longues de 8-11 mm, persistantes et souvent réfractées. Anisophyllie excessive : limbe le plus petit de 6-10 mm. Pétiole de (3) 5-30 mm, pubescent, cilié sur les marges du canal. Limbe discolore, glabre ou à pubescence ± lâche dessus, à dense revêtement blanc-laineux dessous, (forme glabrescens) elliptique, de 6-12 × 3-7 cm; base très dissymétrique décalée de 2-10 mm, subobtuse à cordée du côté dominant; acumen court et aigu. Nervure médiane ciliée sur la face supérieure; 8-14 nervures latérales par côté.
-
-Inflorescences multiflores sessiles insérées à l'aisselle de la feuille réduite. Bouton à sommet sphérique vêtu de laine blanche ainsi que la face externe des sépales. Calice blanc pubescent à l'extérieur, à 5 lobes subaigus à arrondis, de 1-2 mm env. (plus verts dans la forme brévistyle). Corolle blanche à 5 lobes étalés ou réfractés de 4-6 mm de diam., à tube de 3,5-4 × 1,4 mm. Pilosité de la gorge abondante; les plus longs poils dépassent 1 mm; ceux qui avoisinent la base des lobes sont plus courts et en chapelet. Anthères blanches médidorsifixes, émarginées en haut, échancrées en bas, de 1,3 × 0,4 mm; pollen blanc. Style glabre atteignant 6 mm (forme longue), inclus le stigmate à deux lobes aplatis papillifères, blancs, de 0,9 mm. Disque glabre vert pâle. Ovaire à 2 loges, chacune avec un placenta cordé suborbiculaire d'env. 1,8 mm et plus nettement épanoui vers le bas.
-
-Fruit succulent atteignant 5-7 mm de diam., sphérique ou elliptique, vert pâle puis gris-beige, glabrescent-lisse, à petits sépales dressés, contenant jusqu'à 190 graines ovées, brunes, de 0,5 × 0,3 mm.
+Fruit succulent reaching 5–7 mm diam., spherical or elliptic, pale green then grey-beige, glabrescent-smooth, with small erect sepals, containing up to 190 ovate brown seeds, 0.5 × 0.3 mm.
 
 ## Type
 
@@ -41,35 +37,33 @@ N. Hallé 1143, Makokou, piste du Bouéni (fr. fév.) (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+original. The Hamburg plant nevertheless still shows a certain pubescence on the upper surface of the blade of young leaves, and the pubescence of young internodes is still in part erect.
 
-originale. La plante de Hambourg présente cependant encore une certaine pubescence sur le dessus du limbe des jeunes feuilles, et la pilosité des jeunes entrenceuds est encore en partie dressée.
+With the typical form, one encounters mixed with it the form glabrescens (Wernh.) N. Hallé; type: Gillet 3520, Kisantu, Congo (BR!).
 
-Avec la forme typique, on rencontre en mélange la forme glabrescens (Wernh.) N. Hallé; type : Gillet 3520, Kisantu, Congo (BR!).
+From Gabon to Congo, forest edges, banks of the middle Ogooué, humid slopes and banks with Ferns, Selaginellas and Melastomataceae.
 
-Du Gabon au Congo, Lisières, rives du moyen-Ogooué, talus et pentes humides à Fougères, Sélaginelles et Mélasto-macées.
+Gabonese material studied (incl. f. glabrescens very frequent):
 
-Matériel gabonais étudié (incl. f. glabrescens très fréquente) :
-
-N. Hallé : 1661, 1662, 1896, Ayem, chantier C.E.F.A., SW de Ndjolé (fl. fr. avr.); 2865, Bélinga (bout. oct.).
+N. Hallé: 1661, 1662, 1896, Ayem, C.E.F.A. worksite, SW of Ndjolé (fl. fr. Apr.); 2865, Bélinga (bud. Oct.).
 
 3 bis. Ps. Mildbraedii (Wernh.) N. Hallé var. Letestui N. Hallé v. nov.
 
-= Sabicea Mildbraedii sensu Pellegr., Fl. Mayombe 3 : 9 (1938).
+= Sabicea Mildbraedii sensu Pellegr., Fl. Mayombe 3: 9 (1938).
 
-A typo, internodiis gracilibus, laxe villosis, inflorescentiis globulosis dense lanuginosis, differt.
+From the type, differing by slender internodes, laxly villous, globular inflorescences densely lanate.
 
-Plante redressée grêle, à entrenœuds de 5-11 cm de longueur. Pilosité dressée très éparse sur les tiges et les pétioles. Lobes du calice très densément feutrés de blanc sur la face externe.
+Plant erect slender, with internodes 5–11 cm in length. Pubescence erect very sparse on the stems and petioles. Calyx lobes very densely felted white on the outer face.
 
-Cette variété se rapproche d'une autre non connue du Gabon, et très remarquable par l'abondance de sa pilosité : Ps. Mildbreadii var. dubia (Wernh.) N. Hallé (Bull. J.B. Brux 34 : 400, 1964); cette variété est principalement répandue dans la région de Léopoldville-Brazzaville, et se distingue, outre sa pilosité, par ses sépales un peu plus étroitement allongés et moins laineux (Descoings 9668).
+This variety approaches another not known from Gabon, and very remarkable for the abundance of its pubescence: Ps. Mildbraedii var. dubia (Wernh.) N. Hallé (Bull. J.B. Brux 34: 400, 1964); this variety is principally distributed in the Leopoldville–Brazzaville region, and is distinguished, besides its pubescence, by its sepals somewhat more narrowly elongate and less woolly (Descoings 9668).
 
 3 ter. Ps. Mildbraedii (Wernh.) N. Hallé var. Jacfelicis N. Hallé v. nov.
 
-A typo, laminis insuper scabris, caulis lignosis elongatis, fructibus juvenilibus violaceis, lobis calycis oblongis, differt.
+From the type, differing by blades moreover scabrous, elongate woody stems, young fruits violaceous, calyx lobes oblong.
 
-Plante lianescente s'élevant à 2 m de hauteur, ou buissonnante. Tiges ligneuses entremélées, dépassant 6 mm de diam., longues de plusieurs mètres et ± rameuses. Limbe souvent un peu atténué vers les extrémités (largeur 2-3,5 cm dans les petites feuilles inférieures à 10 cm de longueur, jusqu'à 6 cm dans les plus grandes). Le dessus du limbe est scabre : petits poils raides, épars ou abondants. Nombreuses inflorescences échelonnées aux nœuds feuillés ou défeuillés. Jeunes fruits (6 × 4,5 mm) noir grenat à sépales verts ± oblongs, groupés en infrutescences sphériques. Les graines des fruits immatures ont donné un médiocre pourcentage de germination en 35 jours. Cf. fig. 1 p. 18.
+Plant lianescent rising to 2 m in height, or bushy. Woody stems intermingled, exceeding 6 mm diam., several metres long and ± branched. Blade often slightly attenuate towards the extremities (width 2–3.5 cm in small leaves less than 10 cm in length, up to 6 cm in the largest). The upper surface of the blade is scabrous: small rigid hairs, sparse or abundant. Numerous inflorescences graduated at the leafy or leafless nodes. Young fruits (6 × 4.5 mm) dark garnet with ± oblong green sepals, grouped in spherical infructescences. The seeds of immature fruits gave a poor germination percentage in 35 days. Cf. fig. 1 p. 18.
 
-Cette variété ripicole existe aussi au Cameroun (Letouzey 3876, et région frontalière NE Gabon : Jacques-Félix 5128, bords du Ntem).
+This riparian variety also exists in Cameroon (Letouzey 3876, and NE Gabon border region: Jacques-Félix 5128, banks of the Ntem).
 
 ## Figures
 

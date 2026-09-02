@@ -20,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aff. var. typica but flowers often 4-merous, ovaries pauciovulate, domatia absent, differing.
 
-Aff. var. typica sed floribus sæpe 4-meris, ovariis paucivulatis, domatiis nullis, differt.
+Shrub 1.5 to more than 6 m in height and exceeding 5 cm in diameter, presenting in its most harmonious forms a single orthotropic stem and numerous plagiotropic branches, opposite or verticillate by three, and rarely branched. Vegetative apparatus entirely glabrous. Triangular stipules 3–6 mm long, with developed slender lateral edges, with an acumen 1.5–3 mm, narrow, obliquely prominent, arising from an axial keel. Petioles 3–8 (10) mm, distinctly canaliculate. Leaves reddish ± discolorous when dry, those on the orthotropic axis noticeably reduced in length. Limbs of lateral axes elliptic, 5.5–15 × 2.5–6.5 cm, with base ± briefly acute to subobtuse; apex with vigorous acumen, weakly attenuate or subspathulate at the tip. 6–8 pairs of secondary veins moderately ascending. Reticulation poorly distinct. Domatia absent, vein axils entirely glabrous.
 
-Arbuste de 1,5 à plus de 6 m de hauteur et dépassant 5 cm de diamètre, présentant dans ses formes les plus harmonieuses, une tige orthotrope unique et des rameaux plagiotropes nombreux, opposés ou verticillés par trois, et rarement ramifiés. Appareil végétatif entièrement glabre. Stipules triangulaires longues de 3-6 mm, à bords latéraux développés amincis, à acumen de 1,5-3 mm, étroit, obliquement saillant, issu d'une carène axiale. Pétioles de 3-8 (10) mm, nettement canaliculés. Feuilles roussâtres ± discolores à sec, celles de l'axe orthotrope sensiblement réduites en longueur. Limbes des axes latéraux elliptiques, de 5,5-15 × 2,5-6,5 cm, à base ± brièvement aiguë à subobtuse; sommet à acumen vigoureux, faiblement atténué ou subpathulé à l'apex. 6-8 paires de nervures secondaires médiocrement ascendantes. Réticule peu distinct. Domaties absentes, aisselles nervaires tout à fait glabres.
+Inflorescences axillary opposite on successive nodes in the middle region of plagiotropic branches, very slender, pendulous, lax, paniculate, often pauciflorous (2 to 12 flowers at most), 2 to 6.5 cm long, glabrous. Bractlets deltoid reduced to 0.1–1 mm in length; rarely one of the lower ones is larger and foliaceous. Pedicels very slender 3–6 mm long, accrescent in fruit. Bud fusiform subacute. Calyx tubulous for 0.5 mm, with 3–5 denticles 0.3–0.6 mm long, moderately ciliolate. Corolla white or pale green with tube 3–4 × 1 mm, glabrous externally, pubescent in the middle internal region; 4–5 lobes overlapping to the left ca. 1.5 × 1 mm, oblong, extrorsely curved, glabrous. Anthers sessile semi-exsert sagittate reaching 2.9 × 0.7 mm, with acute acumen, with cleft base; insertion toward the lower quarter; pollen white. Style with pilose column, with exsert stigmatic club, white, fusiform 2.5 × 0.7 mm in vivo, with 2 apices first adherent then divergent. Lower annular disk less than 1 mm. Ovary bilocular. Placentas very small, opposite toward the apex of the septum; 2 ovules per locule, pendulous.
 
-Inflorescences axillaires opposées sur des nœuds successifs dans la région moyenne des rameaux plagiotropes, très grêles, pendantes, lâches, paniculiformes, souvent pauciflores (2 à 12 fleurs au plus), longues de 2 à 6,5 cm, glabres. Bractéoles deltoides réduites de 0,1-1 mm de longueur; rarement une des inférieures est plus grande et foliacée. Pédicelles très grêles longs de 3-6 mm, accrescents dans le fruit. Bouton fusiforme subaigu. Calice tubuleux sur 0,5 mm, à 3-5 denticules longs de 0,3-0,6 mm, médiocrement ciliolés. Corolle blanche ou vert pâle à tube de 3-4 × 1 mm, glabre extérieurement, pubescent dans la région interne moyenne; 4-5 lobes recouvrants vers la gauche d'env. 1,5 × 1 mm, oblongs, arqués extrorses, glabres. Anthères sessiles semi-exsertes sagittées atteignant 2,9 × 0,7 mm, à acumen aigu, à base fendue; insertion vers le quart inférieur; pollen blanc. Style à colonne pileuse, à massue stigmatique exserte, blanche, fusiforme de 2,5 × 0,7 mm in vivo, à 2 sommets d'abord adhérents puis divergents. Disque annulaire inférieur à 1 mm. Ovaire biloculaire. Placentas très petits, opposés vers le sommet de la cloison; 2 ovules par loge, pendants.
-
-Fruit succulent pendant, rouge vif vernissé, ± piriforme de  $ 15 \times 7-9 $ mm, à couronne calycinale étroite de  $ 1,5 $ mm de diam. Généralement une seule graine développée (parfois 2), ovée de
-
-9 × 3 mm, prolongée vers la base du fruit par un appendice atténué, à testa brun clair d'aspect striolé. Albumen entourant l'embryon de 3 × 1,2 mm, blanc, à radicule droite dirigée vers le sommet du fruit.
+Fruit succulent pendulous, bright red varnished, ± pyriform 15 × 7–9 mm, with narrow calyxinal crown 1.5 mm in diam. Generally a single seed developed (sometimes 2), ovate 9 × 3 mm, extended toward the base of the fruit by an attenuate appendage, with light brown testa of striolate appearance. Albumen surrounding the embryo 3 × 1.2 mm, white, with straight radicle directed toward the apex of the fruit.
 
 ## Type
 
@@ -38,9 +34,7 @@ N. Hallé 3458 (P!), Bélinga (fl. et fr. 10 déc. 1964). En forêt dense sur pe
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La variété africana, bien que variable, présente toujours des domaties axillaires velues; son écologie est bien différente; sa distribution est surtout occidentale : Sénégal, Soudan, Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo et Nord Nigeria. D'Oubangui-Chari où elle est citée par Aubréville nous ne connaissons que le P. Gilletii. Des matériaux du Congo oriental paraissent pouvoir être rapportés à la var. œquatorialis. (C. Evrard 2788, Monkoto; G. Troupin 10083, Kalehe.)
+The African variety, although variable, always presents hairy axillary domatia; its ecology is quite different; its distribution is mainly western: Senegal, Sudan, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo and Northern Nigeria. From Oubangui-Chari where it is cited by Aubréville we know only P. Gilletii. Materials from eastern Congo appear to be referable to var. œquatorialis. (C. Evrard 2788, Monkoto; G. Troupin 10083, Kalehe.)
 
 ## Specimens examined
 

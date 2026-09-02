@@ -22,21 +22,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — HACK. Bolet. Soc. Brot. III : 136, t. II. — BUR. Compt. Rend. CIII : 36 (2-VII 1886).
 
-Herbe pérenne, d'environ 50 cm de haut en toulfes denses; chaumes minces et glabres. Gaines auriculées au sommet; limbes foliaires étroitement linéaires, enroulés, d'environ 1 mm de large.
+Perennial herb, approximately 50 cm tall in dense tufts; culms slender and glabrous. Sheaths auriculate at the apex; leaf blades narrowly linear, rolled, approximately 1 mm wide.
 
-Racèmes solitaires très minces, cylindriques, de 5-15 cm de long, souvent rouge-violacé et se brisant facilement entre chaque paire d'épillets. Articles renflés, concaves sur la face interne, arrondis sur le dos, de 3 à 5 mm de long. Pédicelles aplatis, apprimés contre l'article correspondant et légèrement plus courts que lui.
+Racemes solitary, very slender, cylindrical, 5–15 cm long, often reddish-violet and breaking easily between each pair of spikelets. Articles tumid, concave on the inner face, rounded on the back, 3 to 5 mm long. Pedicels flattened, appressed against the corresponding article and slightly shorter than it.
 
-Épillet sessile linéaire lancéolé, de 4 mm de long; glume inférieure coriace, acuminée, bidentée ou avec deux courtes subules, transversalement rugueuse dans sa partie inférieure, à environ 7 nervures. Glume supérieure hyaline à 3 nervures, acuminée ou courtement subulée. Fleur inférieure mâle, lemma et paléa hyalines, à 3 nervures. Glumelles de la fleur supérieure semblables. Épillet pédicellé réduit à un mucron, à une courte soie, ou parfois à deux glumes rudimentaires.
+Sessile spikelet linear-lanceolate, 4 mm long; lower glume coriaceous, acuminate, bidentate or with two short subules, transversely rugose in its lower part, with approximately 7 nerves. Upper glume hyaline with 3 nerves, acuminate or shortly subulate. Lower flower male, lemma and palea hyaline, with 3 nerves. Glumelles of the upper flower similar. Pedicelled spikelet reduced to a mucro, to a short bristle, or sometimes to two rudimentary glumes.
 
-Espèce largement répandue en Afrique tropicale, signalée au Gabon par Koechlin dans les plaines côtières au sud de Port-Gentil. C'est une plante caractéristique de zones marécageuses à sol tourbeux, sans valeur fourragère.
+Species widely distributed in tropical Africa, recorded from Gabon by Koechlin in the coastal plains south of Port-Gentil. It is a characteristic plant of marshy areas with peaty soil, of no forage value.
 
-Matériel d'Herbier Gabonais :
+Gabonese Herbarium material:
 
-Walker : sans localité.
+Walker: no locality.
 
 ## Notes
 

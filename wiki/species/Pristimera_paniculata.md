@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 EXELL & MENDONÇA, CFA 2 (1): 19 (1954); KEAY & BLAKELOCK, FWTA., ed. 2, 1 (2): 627 (1958). Simirestis paniculata (VAHL) HALLÉ, Mon. Hippocr. Afr. occid., Thèse, Paris: 71 (1958); Bull. IFAN, sér. A, 21 (3): tab. 57 (1959); Pollen & Spores 2 (1): 9 (1960); Mêm. IFAN 64: 77, tab. 31 (1962); WILCZEK, FCB 9: 162 (1960).
 
-Liane ligneuse élevée, parfois buissonnante en végétation littorale dégradée. Jeunes rameaux glabres et lisses, cylindriques. Pétioles de
+High woody liana, sometimes shrubby in degraded coastal vegetation. Young branchlets glabrous and smooth, cylindrical. Petioles 8(25) mm. Blade yellow-green and with a more or less crisped appearance when dry, elliptic often slightly acute at base and not distinctly acuminate at apex, 6–20(23) × 3–10(12) cm, with ± distinct teeth, often not very prominent. Secondary veins 6–8(9) pairs; intersecondaries fine and often subtransverse; reticulum fine and apparent on each face.
 
-8(25) mm. Limbe vert jaunâtre et d'aspect plus ou moins crispé à sec, elliptique souvent subaigu à la base et peu distinctement acuminé au sommet, de 6-20(23) × 3-10(12) cm, à dents ± nettes, souvent peu saillantes. Nervures secondaires 6-8(9) paires ; intersecondaires fines et souvent subtransverses ; réticule fin apparent sur chaque face.
+Axillary cymes 3–8 cm, glabrous, often ± crowded in large terminal panicles; cymes with peduncles 1.5–4.5 cm, with divaricate branching candelabra-like when dry. Small bracts acute slightly denticulate. Small buds sessile globose, fragile in herbarium. Flowers white or green, sometimes cream-yellow, fragrant, subsessile, approximately urceolate. Calyx green with 5 short subovate denticulate sepals. Petals 5, orbicular, narrow at base between the lobes of the disk whose diameter reaches 1.5 mm. Stamens very short; anthers 0.3 mm wide. Ovary semi-immersed in the disk; 4–8 ovules per locule. Style very short with subpunctiform stigma.
 
-Cymes axillaires de 3-8 cm, glabres, souvent ± rapprochées en grandes panicules terminales ; cymes à pédoncule de 1,5-4,5 cm, à ramifications divariquées en candélabres à sec. Petites bractées aiguës un peu denticulées. Petits houtons sessiles globuleux, fragiles en hcrbier. Fleurs blanches ou vertes, parfois jaune crème, odorantes, subsessiles, à peu près urcéolées. Calice vert à 5 courts sépales subovés denticulés. Pétales 5 orbiculaires étroits à la base entre les lobes du disque dont le diamètre atteint 1,5 mm. Étamines très courtes ; anthères larges de 0,3 mm. Ovaire semi-enfoncé dans le disque ; 4-8 ovules par loge. Style très court à stigmate subponctiforme.
-
-Carpelles d'environ 5-6 × 2-3 cm. Graines de 38-50 mm, rousses. - Pl. 57, fig. 1-15, p. 201.
+Carpels approximately 5–6 × 2–3 cm. Seeds 38–50 mm, russet. – Pl. 57, fig. 1–15, p. 201.
 
 ## Type
 
@@ -41,25 +37,21 @@ Bequaert 1903, Zaire (holo-, BR!, ; iso-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Senegal to Côte d'Ivoire where the species is frequent in sublittoral forest, rare further East: Central African Republic, Gabon, Zaïre and Angola.
 
-Du Sénégal à la Côte d'Ivoire où l'espèce est fréquente en forêt sublittorale, rare plus à l'Est : Centrafrique, Gabon, Zaïre et Angola.
-
-Espèce rare et très dispersée ; la variété-type est à rechercher au Cameroun et au Gabon. Outre le type elle n'est connue que du Liberia (Cooper 409, BM, K, L).
+Rare and very scattered species; the typical variety is to be sought in Cameroon and Gabon. Besides the type it is known only from Liberia (Cooper 409, BM, K, L).
 
 b. var. kribiana Hallé, var. nov.
 
-Var typicae affinis, sed foliis in sicco fusco-atratis, nervis secundarii 4-6 jugatis, petalis paulum cucullatis, disco angustato, differt.
+Affinis var typicae, sed foliis in sicco fusco-atratis, nervis secundariis 4–6 jugatis, petalis paulum cucullatis, disco angustato, differt.
 
-Cette variété présente en herbier des feuilles brun roussâtre, limbe acuminé de 4-10(-13) × 2-6,6 cm. Les nervures secondaires sont au nom-
+This variety presents in herbarium russet-brown leaves, blade acuminate 4–10(–13) × 2–6.6 cm. The secondary veins number 4–6 pairs; veinlets flabellate. Peduncles of cymes 0.5–3.4 cm long. Pedicel 1.5–2.2 mm. Buds globose or ovate approximately 1–1.4 mm in diameter. Disk in a small narrow ring at contact with filaments. 4 ovules per locule. Mericarps reaching 62 × 42 mm and containing 4 seeds (seen immature). – Pl. 57, fig. 16–32, p.p., p. 201.
 
-bre de 4-6 paires ; nervilles flabellées. Pédoncules des cymes longs de 0,5-3,4 cm. Pédicelle de 1,5-2,2 mm. Boutons globuleux ou ovés d'environ 1-1,4 mm de diamètre. Disque en petit anneau étroit au contact des filets. 4 ovules par loge. Méricarpes atteignant 62 × 42 mm et contenant 4 graines (vues immatures). – Pl. 57, fig. 16-32, p.p., p. 201.
+Because of the great similarity between the floral characters of the Cameroonian collections of J. BOS and those previously described from Cabinda and Liberia and despite the markedly different appearance of the leaves, the rank of variety is retained for this new taxon, to be sought in Gabon.
 
-A cause de la grande similitude entre les caractères floraux des récoltes camerounaises de J. BOS et celles précédemment décrites du Cabinda et du Liberia et malgré l'aspect bien différent des feuilles, le rang de variété est retenu pour ce nouveau taxon, à rechercher au Gabon.
+MATERIALS STUDIED (Cameroon):
 
-MATÉRIAUX ÉTUDIÉS (Cameroun) :
-
-Bos 3739, 15 km N Kribi, Riv. Mpolongwé, 3.01 N, 9.58 E, 1969 (bout., fl.); 4984, 9 km N Kribi, forêt littorale, 3.00 N, 9.56 E, 1969 (bout., fl., j. fr.); 6677, 20 km SE Kribi, route du Mt. Éléphant, 2.47 N, 10.02 E, 1.4.1970 (fin fl.).
+Bos 3739, 15 km N Kribi, Riv. Mpolongwé, 3.01 N, 9.58 E, 1969 (bout., fl.); 4984, 9 km N Kribi, littoral forest, 3.00 N, 9.56 E, 1969 (bout., fl., j. fr.); 6677, 20 km SE Kribi, Mt. Éléphant road, 2.47 N, 10.02 E, 1.4.1970 (fin fl.).
 
 1 ter. Pristimera plumbea (Blakelock & Wilczek) Hallé
 
@@ -67,19 +59,17 @@ Bull. Mus. natn. Hist. nat., Paris, 4 $ ^{e} $ sér., B, 3, Adansonia (1): 9 (19
 
 – Hippocratea plumbea BLAKELOCK & WILCZEK, Kew Bull.: 39 (1957).
 
-– Simirestis plumbea (BLAKELOCK & WILCZEK) HALLÉ, Monogr. Hipp. Afr. occ., Thèse : 74 (1958); Bull. IFAN, sér. A, 21 (3): tab. 58 (1959); Pollen & Spores 2 (1): 9 (1960); Mém. IFAN 64: 80 (1962); WILCZEK, FCB 9: 159 (1960).
+– Simirestis plumbea (BLAKELOCK & WILCZEK) HALLÉ, Monogr. Hipp. Afr. occ., Thèse: 74 (1958); Bull. IFAN, sér. A, 21 (3): tab. 58 (1959); Pollen & Spores 2 (1): 9 (1960); Mém. IFAN 64: 80 (1962); WILCZEK, FCB 9: 159 (1960).
 
-Liane à rameaux cylindriques, à rhytidome fauve presque lisse puis très finement lenticellé. Feuilles à sec gris olivacé clair dessus, plombé grisâtre dessous. Pétiole de 8-15 mm. Limbe papyracé de (3,4)-9-15×(1,9)-4-7,5 cm, ± cunéiforme à la base, à sommet médiocrement acuminé. Nervures secondaires 4-6 paires, et nervilles en fin relief sur les deux faces.
+Liana with cylindrical branchlets, with fawn rhytidome almost smooth then very finely lenticellate. Leaves when dry light olive-grey above, leaden-greyish below. Petiole 8–15 mm. Blade papyraceous (3.4)–9–15 × (1.9)–4–7.5 cm, ± cuneate at base, with moderately acuminate apex. Secondary veins 4–6 pairs, and veinlets in fine relief on both faces.
 
-Inflorescences en longues panicules, 10-30 cm, composées de cymes, axillaires ou terminales et multiflores; cymes simples dichotomes, à pédoncule de 5-15 mm. Bractées de 0,5-1,5 mm, parfois subopposées sur le rachis glabrescent dont les entre-nœuds les plus longs atteignent 4-5 cm ; les cymes sont vêtues d'une dense pubérulence jaunâtre. Pédi-celles pubérulents longs de 0,5-1,5(-2) mm. Les poils sont souvent de 3-4 cellules unisériées. Boutons globuleux de 1 mm de diamètre. Fleurs vertes de 2-3 mm de diamètre, subrotacées. Sépales 5 pubérulents imbriqués inégaux, semi-orbiculaires, à marge finement denticulée, larges de 0,5-0,8 mm. Pétales 5 arrondis, denticulés subfimbriés, à base un peu étirée en long, formant comme un large onglet, de 1-1,6 × 0,8-1,1 mm, à nervures foncées, apparentes sur pièces réhydratées. Disque de 0,75-0,9 mm de diamètre, subpentagonal à rebord dominant médiocrement le niveau d'insertion de l'androcée. Filet court, large à la base ; anthère
+Inflorescences in long panicles, 10–30 cm, composed of cymes, axillary or terminal and multiflorous; simple dichotomous cymes, with peduncles 5–15 mm. Bracts 0.5–1.5 mm, sometimes subopposite on the glabrescent rachis whose longest internodes reach 4–5 cm; the cymes are clothed in dense yellowish puberulence. Pedicels puberulent 0.5–1.5(–2) mm long. The hairs are often of 3–4 uniseriate cells. Buds globose 1 mm in diameter. Flowers green 2–3 mm in diameter, subrotate. Sepals 5 puberulent imbricate unequal, semi-orbicular, with finely denticulate margin, 0.5–0.8 mm wide. Petals 5 rounded, denticulate subfimbriate, with base somewhat drawn out into a long form, forming as it were a broad claw, 1–1.6 × 0.8–1.1 mm, with dark veins, apparent on rehydrated specimens. Disk 0.75–0.9 mm in diameter, subpentagonal with margin moderately overtopping the level of insertion of the androecium. Filament short, broad at base; anther transverse 0.2 mm wide. Style conical 0.5 mm. Ovary immersed, except for the apex of the locules, below the upper level of the disk. 5–8 ovules per locule.
 
-transversale large de 0,2 mm. Style conique de 0,5 mm. Ovaire enfoncé, sauf le sommet des loges, sous le niveau supérieur du disque. 5-8 ovules par loge.
+Fruit 3 with compressed mericarps. Seeds observed 7, winged, $ 48 \times 14 $ mm. – Pl. 58, fig. 1–11, p. 205.
 
-Fruit 3 à méricarpes comprimés. Graines observées par 7, ailées, de  $ 48 \times 14 $ mm. - Pl. 58, fig. 1-11, p. 205.
+Rare species with discontinuous range: Côte d'Ivoire, Central African Republic, Cameroon (to be confirmed), Zaïre and Uganda. To be sought in Gabon.
 
-Espèce rare à répartition discontinue : Côté d'Ivoire, Centrafrique, Cameroun (à confirmer), Zaïre et Ouganda. A rechercher au Gabon.
-
-MATÉRIEL CAMEROUNAIS (sans fleurs, déterminé avec doute) :
+CAMEROONIAN MATERIAL (without flowers, determined with doubt):
 
 Leeuwenberg 7788, 14 km E Dimako, 650 m, 8.2.1966 (fr., gr.).
 

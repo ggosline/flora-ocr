@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Akin to P. sylvicolae (Hutch. et Dalz.) Brem., but differing in densely puberulous internodes, leaves reddish when dry, median surface above glabrous, perforated domatia not villous, axillary solitary uniflorous inflorescences; also akin to P. canthiiflorae Hook. f., but differing in larger leaves, calyx teeth 0.8 mm long, blue trilocular fruit.
 
-Affinis P. sylvicolae (Hutch. et Dalz.) Brem., sed internodiis dense puberulis, foliis in sicco rubescentibus, mediana supra glabra, domatiis perforatis non villosis, inflorescentiis unifloris axillaribus solitariis, differt; affinis etiam P. canthiiflorae Hook. f., sed foliis majoribus, dentibus calycis 0,8 mm longis, fructu coeruleo triloculato differt.
+Small shrub. Slender internodes 3–4.5 cm, with dense pale-brown erect pubescence. Stipules attenuate-subulate 5–7 mm long. Petioles pubescent 4–6 mm long. Blade reddish beneath when dry, dull grey-green above, ovate 6–9.5 × 2.5–4 cm, entirely glabrous on the upper surface; base acute; apex with attenuate-acute acumen ca. 12–18 × 2 mm, with an apical mucro reaching 1 mm. 6–7 pairs of secondary nerves arched ascending slightly pubescent beneath as well as the transverse inter-secondary nerves and the marginal edge. Axillary domatia without tuft of hairs and with a distinct oval opening under magnification, arranged along the midvein, the secondary or even tertiary nerves.
 
-Petit arbuste. Entrenœuds grêles de 3-4,5 cm, à pubescence brun clair dense et couchée. Stipules effilées-subulées de 5-7 mm
+Axillary uniflorous inflorescences. Pedicel 3–5 mm, not glabrous, bearing towards the middle 2–4 linear denticles at the level of the same node. Ovary glabrescent after fruit-set; calycine edge ca. 1 mm with 5–6 triangular acute teeth ca. 0.8 mm and nearly glabrous. Disc 1–1.5 mm diam., convex and micropubérulent. Ovary mauve-garnet at softening, with 3 locules and 3 V-shaped multiovulate placentas. Corolla unknown. Young fruits, blue and smooth, ca. 4 mm diam., with calyx lobes erect.
 
-de long. Pétioles pubescents longs de 4-6 mm. Limbe rubescent dessous à sec, gris vert terne dessus, ovale de 6-9,5 × 2,5-4 cm, tout à fait glabre à la face supérieure; base aiguë; sommet à acumen atténué-aigu d'env. 12-18 × 2 mm, avec un mucron apical atteignant 1 mm. 6-7 paires de nervures secondaires arquées ascendantes un peu pubescentes dessous ainsi que les nervures inter-secondaires transverses et le bord marginal. Domaties axillaires sans touffe de poils et à ouverture ovale distincte à la loupe, disposées le long de la médiane, des nervures secondaires ou même tertiaires.
+Type and only known material: N. Hallé 894 (P), Akoga, W. of Médouneu, Monts-de-Cristal (flowering late August, collected in 1959).
 
-Inflorescences axillaires uniflores. Pédicelle de 3-5 mm, non glabre, portant vers le milieu 2-4 denticules linéaires au niveau
-
-d'un même nœud. Ovaire glabrescent après nouaison; bord caly-cinal d'env. 1 mm dont 5-6 dents triangulaires aiguës de 0,8 mm env. et quasiment glabres. Disque de 1-1,5 mm de diam., bombé et micropubérulent. Ovaire mauve-grenat au ramollissage, à 3 loges et 3 placentas en V multiovulés. Corolle inconnue. Jeunes fruits, bleus et lisses, de ± 4 mm de diam., à lobes du calice dressés.
-
-Type et seul matériel connu : N. Hallé 894 (P), Akoga, W. de Médouneu, Monts-de-Cristal (j. fr. fin août, récolté en 1959).
-
-Malgré la taille et la couleur des limbes en herbier, l'espèce présente une certaine ressemblance avec le P. canthiiflora. Le caractère rare d'ovaire à 3 loges rapproche ce nouveau Pauridiantha du P. sylvicola (Huch. et Dalz.) Bremek, de l'ouest africain.
+Despite the size and colour of the leaf blades in the herbarium, the species shows a certain resemblance to P. canthiiflora. The rare character of a 3-locular ovary brings this new Pauridiantha close to P. sylvicola (Hutch. et Dalz.) Bremek., from West Africa.
 
 ## Figures
 

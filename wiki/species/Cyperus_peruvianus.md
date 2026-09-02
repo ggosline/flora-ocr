@@ -23,7 +23,7 @@ a b
 
 ## Distribution
 
-in tropical coastal regions of the Americas and Africa, from Senegal to the Democratic Republic of the Congo; in Gabon, widely distributed along the coasts, found in the Estuary, Nyanga and Ogooué-Maritime (12 collections)
+in tropical coastal regions of the Americas and Africa, from Senegal to the Democratic Republic of the Congo; in Gabon, widely distributed along the coasts, found in the Estuaire, Nyanga and Ogooué-Maritime (12 collections)
 
 ## Ecology
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in DC., Prodr . 10 : 504 (1846). Macrosiphon fistulosus Hochst., Flora 1 : 374 (1841). Herbe à tige de (3–)5–50(–120) cm de hauteur. Feuille : limbe entier et filiforme ou pennatiséqué, (0,5–)1–6(–10) cm de longueur, segments filiformes 2–20(–35) × 1 mm . Fleur : pédicelle (5–)9–20(–30) mm ; calice 3,5–9(–13) mm de longueur ; corolle à tube de (22–)25–30(–35) mm de longueur, lobes 6–9 × 5–8 mm ; étamines à anthères de 2–3,5 mm de longueur ; ovaire 3–4 × 1,5–2 mm ; style 17–30 mm. Fruit ovoïde, (6–)7– 10(–15) × 4–7 mm.
+in DC., Prodr. 10: 504 (1846). Macrosiphon fistulosus Hochst., Flora 1: 374 (1841). Herb with stem (3–)5–50(–120) cm tall. Leaf: blade entire and filiform or pinnatisect, (0.5–)1–6(–10) cm long, segments filiform 2–20(–35) × 1 mm. Flower: pedicel (5–)9–20(–30) mm; calyx 3.5–9(–13) mm long; corolla with tube (22–)25–30(–35) mm long, lobes 6–9 × 5–8 mm; stamens with anthers 2–3.5 mm long; ovary 3–4 × 1.5–2 mm; style 17–30 mm. Fruit ovoid, (6–)7–10(–15) × 4–7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue en Afrique tropicale, aussi à Madagascar, l’Australie et la Nouvelle Guinée ; au Gabon, observée dans l’Estuaire, le Moyen-Ogooué, la Nyanga et l’Ogooué-Maritime
+very widespread in tropical Africa, also in Madagascar, Australia and New Guinea; in Gabon, observed in the Estuaire, the Moyen-Ogooué, the Nyanga and the Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais sur rochers granitiques, marges des lacs et rivières ; au Gabon, à 2–10 m d’altitude, en Afrique de l’Est jusqu’à 2000 m. B : Fischer (2006b), Ghazanfar et al. (2008), Hansen (1975a), Hepper(1963), ibliographie Mielcarek (1996), Philcox (1990)
+marshes on granitic rocks, margins of lakes and rivers; in Gabon, at 2–10 m altitude, in East Africa up to 2000 m. B: Fischer (2006b), Ghazanfar et al. (2008), Hansen (1975a), Hepper (1963), Bibliography Mielcarek (1996), Philcox (1990)
 
 ## Notes
 

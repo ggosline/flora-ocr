@@ -15,35 +15,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Upper lemma of the sessile spikelet entire or bifid to the middle; spikelets dorsally compressed:
 
-1. Lemma supérieure de l'épillet sessile entière ou bifide jusqu'à la moitié ; épilets comprimés dorsalement :
+2. Plumose racemes, hairs 5–8 mm long; upper lemma of the sessile spikelet entire .....S. pulchellum
 
-2. Racèmes plumeux, poils longs de 5-8 mm ; lemma supérieure de l'épillet, sessile et entière .....S. pulchellum
+2. Racemes with hairs up to 4 mm long; upper lemma of the sessile spikelet truncate to bidentate .....S. thollonii
 
-2. Racèmes avec poils pouvant atteindre 4 mm ; lemma supérieure de l'épillet sessile tronquée à bidentée .....S. thollonii
+1. Upper lemma of the sessile spikelet bifid below the middle; spikelets laterally compressed:
 
-1. Lemma supérieure de l'épillet sessile bifide jusqu'en dessous du milieu ; épillets comprimés latéralement :
+3. Leaf with blade attenuate at apex ..... S. sanguineum
 
-3. Feuille à limbe atténué au sommet ..... S. sanguineum
+4. Culm diameter 3–4 mm; anthers 2–3 mm long; leaf blade 7–15 cm long and 3–10 mm wide ..... S. platyphyllum
 
-4. Diamètre du chaume 3-4 mm ; anthères longues de 2-3 mm ; limbe foliaire long de 7-15 cm et large de 3-10 mm ..... .S. platphyllum
+4. Culm diameter 1–2 mm; anthers 0.5–1 mm long; leaf blade 2–6 cm long and 2–5 mm wide:
 
-4. Diamètre du chaume 1-2 mm ; anthères longues de 0,5-1 mm ; limbe foliaire long de 2-6 cm et large de 2-5 mm :
+5. Internodes of the rachis narrowly claviform to linear, narrower than the spikelets; lower glume of the sessile spikelet keeled only at the apex ..... S. brevifolium
 
-5. Entre-nœuds du rachis étroitement claviformes à linéaires, plus étroits que les épillets ; glume inférieure de l'épillet sessile carénée seulement au sommet ..... S. brevifolium
+5. Internodes of the rachis inflated at apex and wider than the spikelets; lower glume of the sessile spikelet keeled along its entire length .....S. maclaudii
 
-5. Entre-nœuds du rachis renflés au sommet et plus larges que les épilets ; glume inférieure de l'épillet sessile carénée sur toute sa longeur .....S. maclaudii
+56.1 Schizachyrium brevifolium (Sw.) Büse – Pl. 17, 1–4, p. 57
 
-56.1 Schizachyrium brevifolium (Sw.) Büse – Pl. 17, 1-4, p. 57
+Fl. Gab.: 156; FACB 1: 110; FWTA: 478; FTEA: 754; Gram. Cam.: 452, Pl. 99; Poac. Cl.: 518, 519; Gram. CB.: 283.
 
-Fl. Gab.: 156; FACB 1: 110; FWTA: 478; FTEA: 754; Gram. Cam.: 452, Pl. 99; Poac. CI.: 518, 519; Gram. CB.: 283.
+Alers & Blom (Lopé) 53 A, 23.05.1986, c. 0°07'S–11°37'E, Lopé Reserve; 55, 26.05.1986, c. 0°07'S–11°37'E, Lopé Reserve. Dibata 723, 06.02.1991, c. 1°05'S–10°15'E, Ezanga. Gilles 64, 14.03.1970, c. 0°25'N–9°25'E, Libreville.
 
-Alers & Blom (Lopé) 53 A, 23.05.1986, c. 0°07'S-11°37'E, Réserve de la Lopé ; 55, 26.05.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. Dibata 723, 06.02.1991, c. 1°05'S-10°15'E, Ezanga. Gilles 64, 14.03.1970, c. 0°25'N-9°25'E, Libreville.
+*56.2 Schizachyrium maclaudii (Jacq.-Fél.) S.T. Blake – Pl. 17, p. 57, 5–8
 
-*56.2 Schizachyrium macclaudii (Jacq.-Fél.) S.T. Blake – Pl. 17, p. 57, 5-8
-
-FWTA : 479 ; Gram. Cam. : 453, Pl. 99.
+FWTA: 479; Gram. Cam.: 453, Pl. 99.
 
 ## Specimens examined
 

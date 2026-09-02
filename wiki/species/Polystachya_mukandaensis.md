@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Polystachya huyghei De Wild., Le Congo 1: 5 (1904).
 
 – Polystachya plehniana Schltr., Bot. Jahrb. Syst. 38 : 8 (1905).
 
 – Polystachya dorotheae Rendle, Cat. PL. Talbot : 103 (1913).
 
-Pseudobulbes 1,5-2,5 x 0,5-1 cm. Feuilles 12-33 x 1-3,5 cm, ligulées. Inflorescence 10-45 cm, 50-200-flore. Fleurs vert-brunâtre taché de violet, labelle jaune-verdâtre clair. Pétales linéaires, aigus. Sépales latéraux obliquement triangulaires-ovés, acuminés. Labelle éparsément pubescent sur la face supérieure, obscurément trilobé au sommet, callus central, oblong, pubescent, avec un autre au sommet du lobe médian ; lobe médian transversalement elliptique, convexe, brièvement apiculé, marges ondulées-crénelées ; lobes latéraux plus longs que le médian, oblongs-ovés, falciformes. Éperon conique-sacciforme. Pl. 123, p. 281.
+Pseudobulbs 1.5–2.5 × 0.5–1 cm. Leaves 12–33 × 1–3.5 cm, ligulate. Inflorescence 10–45 cm, 50–200-flowered. Flowers greenish-brown spotted with violet, labellum pale greenish-yellow. Petals linear, acute. Lateral sepals obliquely triangular-ovate, acuminate. Labellum sparsely pubescent on the upper surface, obscurely trilobed at the apex, central callus oblong, pubescent, with another at the apex of the median lobe; median lobe transversely elliptic, convex, briefly apiculate, margins undulate-crenate; lateral lobes longer than the median, oblong-ovate, falcate. Spur conical-saccate. Pl. 123, p. 281.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Angola, République centrafricaine, Zaïre, Ouganda
+Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Angola, Central African Republic, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic on tree trunks and large branches in riparian forest and humid forest
 
-épiphyte sur tronc d'arbre et grosse branche en forêt rivulaire et forêt humide
+MATERIAL STUDIED (Map 54) :
 
-MATÉRIEL ÉTUDIÉ (Carte 54) :
+Hallé 2092, above Lake Ezanga (fl. May), P!.
 
-Hallé 2092, au-dessus du Lac Ezanga (fl. Mai), P!.
-
-PL. 124. – Polystachya odorata Lindl.: A, fleur et bractée florale; B, labelle; C, sépale latéral; D, pétale; E, sépale dorsal; F, G, feuille (A-G, Zahn s.n., HBG).
+PL. 124. – Polystachya odorata Lindl.: A, flower and floral bract; B, labellum; C, lateral sepal; D, petal; E, dorsal sepal; F, G, leaf (A–G, Zahn s.n., HBG).
 
 ## Figures
 

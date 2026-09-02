@@ -21,7 +21,7 @@ Annual herb, erect, 1–3.5 m tall; stem hairy and with uncinate hairs, lignifie
 
 ## Distribution
 
-native to tropical and subtropical America, introduced to the tropics of the Old World; in Gabon, known from Upper Ogooué
+native to tropical and subtropical America, introduced to the tropics of the Old World; in Gabon, known from Haut-Ogooué
 
 ## Ecology
 

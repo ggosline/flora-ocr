@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 15.1 Cyrtococcium chaetophoron (Roem. & Schult.) Dandy Fl. Gab.: 76, Pl. 12; FACB 2: 230, Pl. 41; FWTA: 426; FTEA: 500, fig. 122; Gram. Cam.: 239, Pl. 51; Poac. CI.: 282, 283; Gram. CB.: 143, fig. 16.
 
 $ ^{*} $16. Dactyloctenium Willd.

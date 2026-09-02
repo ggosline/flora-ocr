@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pfl. R. 4, 48 : 38 (1902).
 
-Plante atteignant 2 m. de haut ; feuilles longuement pétiolées, callus jusqu'à 2 cm de long. Limbe oblong lancéolé, brièvevement acuminé au scmmet, arrondi à la base, jusqu'à 27 × 6 cm, densément couvert à la face inférieure d'une pubescence courte formée de poils tuberculés à la base ; gaines densément villeuses.
+Plant reaching 2 m tall; leaves long-petiolate, callus up to 2 cm long. Limb oblong-lanceolate, briefly acuminate at the apex, rounded at the base, up to 27 × 6 cm, densely covered on the lower surface with short pubescence formed of tubercle-based hairs; sheaths densely villous.
 
-Inflorescence paniculée, ample ; pédoncule, axes des racèmes et pédicelles floraux très pubescents. Bractées pubescentes de 2,3 cm de long, axillant une seule cyme biflore. Sépales de 3 mm de long ; corolle à tube très court et lobes de 5 mm de long.
+Inflorescence paniculate, ample; peduncle, rachis of racemes and floral pedicels very pubescent. Bracts pubescent 2.3 cm long, subtending a single biflorous cyme. Sepals 3 mm long; corolla with very short tube and lobes 5 mm long.
 
-Contrairement à ce qui est noté dans la diagnose originale, les feuilles sont pubescentes à la face inférieure. Cette espèce se distingue cependant bien des variétés pubescentes des autres espèces du genre par la villosité important des bractées et des axes d'inflorescence.
+Contrary to what is noted in the original diagnosis, the leaves are pubescent on the lower surface. This species is nonetheless well distinguished from the pubescent varieties of other species of the genus by the significant villosity of the bracts and inflorescence axes.
 
-Type et seul matériel connu : Mann, Gabon (K, échantillon vu).
+Type and only known material: Mann, Gabon (K, specimen seen).
 
 ## Notes
 

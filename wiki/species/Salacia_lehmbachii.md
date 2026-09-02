@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is complex due to the variability of several of its characters. It is evident that more or less isolated populations tend to stabilize after diversification of certain characters variously combined among themselves in the vegetative apparatus, inflorescence, flower or fruit; this phenomenon appears to be favored by the fact that these are shrubs rather than lianes. The establishment of necessary taxa poses here the problem of difficult typification. The principal specimens, Lehmbach 116 and 208, not seen and perhaps permanently lost, were fruit-bearing. The third syntype of LOESENER, Staudt 52, apparently provided the floral characters of the original description but the isotypes examined have no flowers. It is moreover probable that the three syntypes differ somewhat in their vegetative characters, which is the reason for the variable terms in LOESENER's description. For us, all varieties combined, the specific characters that are approximately constant are as follows.
 
-Cette espèce est complexe du fait de la variabilité de plusieurs de ses caractères. On constate que des populations plus ou moins isolées tendent à se stabiliser après diversification de tels ou tels caractères diversement combinés entre eux de l'appareil végétatif, de l'inflorescence, de la fleur ou du fruit, phénomène favorisé semble-t-il, par le fait qu'il s'agit d'arbustes et non de lianes. L'établissement des taxons indispensables pose ici le problème d'une typification difficile. Les spécimens principaux, Lehmbach 116 et 208, non vus et peut-être définitivement perdus, étaient fructifères. Le troisième syntépe de LOESENER, Staudt 52, a vraisemblablement fourni les caractères floraux de la description originale mais les isotypes examinés n'ont aucune fleur. Il est en outre probable que les trois syntypes diffèrent un peu dans leurs caractères végétatifs sont la raison des termes variables de la description de LOESENER. Pour nous, toutes variétés confondues, les caractères spécifiques à peu près constants sont les suivants.
+Trees or shrubs not scandent, entirely glabrous, without rubber filaments, with normal cylindrical wood. Juvenile branchlets yellowish or greenish, not slender. Leaves opposite or subopposite. Blade elliptic, rarely oblong, medium-sized for the genus, non-thin in texture, olivaceous or olivaster green above when dry, below paler, lighter or more yellow. Margin entire or with mediocre spaced denticles, sometimes irregular, generally bordered.
 
-Arbres ou arbrisseaux non sarmenteux, entièrement glabres, sans filaments de caoutchouc, à bois cylindrique normal. Rameaux juvéniles jaunâtres ou verdâtres non grêles. Feuilles opposées ou subopposées. Limbe elliptique, rarement oblong, de taille moyenne pour le genre, de texture non mince, vert olivacé ou olivâtre dessus à sec, dessous plus clair, plus pâle ou plus jaune. Marge entière ou à médiocres denticules espacés, parfois irréguliers, généralement rebordée.
+Inflorescences pauciflorous or pluriflorous axillary, variable but always pedunculate. Buds globose; pedicel fine. Flowers reddish, red, carmine, salmon or orange, rotate. Sepals unequal, rounded. Petals orbicular subungulate. Disk as a flat cushion at anthesis, red or orange. Staminodial filaments slightly broadened at the base. Anthers with confluent locules and a single transverse dehiscence fissure. Ovary the same color, shortly pyramidal with punctiform stigma; 2 to 4 ovules per ovary locule.
 
-Inflorescences pauci- ou pluriflores axillaires variables mais toujours pédonculées. Boutons globuleux ; pédicelle fin. Fleurs rougeâtres, rouges, carminées, saumonées ou orangées, rotacées. Sépales inégaux arrondis. Pétales orbiculaires subonguiculés. Disque en coussinet plat à l'anthèse, rouge ou orangé. Filet staminaux peu élargis à la base. Anthères à loges confluentes à une seule fente transversale de déhiscence. Ovaire de même couleur, courtement pyramidal à stigmate ponctiforme ; 2 à 4 ovules par loge d'ovaire.
-
-Fruit plus ou moins allongé, plus ou moins atténué aux extrémités, à surface chagrinée ou non, contenant peu de graines. Pulpe souvent ± spongieuse et peu comestible. - Pl. 19, fig. 9-17, p. 71.
+Fruit more or less elongate, more or less attenuate at the extremities, with shagreened or smooth surface, containing few seeds. Pulp often ± spongy and poorly edible. - Pl. 19, fig. 9-17, p. 71.
 
 ## Type
 
@@ -43,125 +41,119 @@ Letouzey 10226, Cameroun (holo-, P!, iso-, WAG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Distribution from Sierra Leone to Tanzania (var. usambarensis Loes.) in generally dense forests, excluding very humid forests and low coasts.
 
-Distribution de Sierra Leone à la Tanzanie (var. usambarensis Loes.) dans des forêts généralement denses, à l'exclusion de forêts très humides et de basses côtes.
+KEY TO THE VARIETIES OF WEST AFRICA
 
-CLÉ DES VARIÉTÉS DE L'AFRIQUE DE L'OUEST
+1. Inflorescences undivided or with small ± opposite divisions inserted at the apex of the peduncle; internodes noticeably winged or not.
 
-1. Inflorescences non divisées ou à petites divisions ± opposées s'insérant au som- met du pédoncule ; entre-nœuds notablement ailes ou non.
+2. Base of the leaf blade often obtuse or rounded; leaves often papyraceous rather than subcoriaceous; petals fringed or not; ovules often 2 per locule.
 
-2. Base du limbe foliaire souvent obtuse ou arrondie ; feuilles souvent papyracées plutôt que subcoriaces ; pétales effrangés ou non ; ovules souvent 2 par loge.
+3. Bracteoled floriferous divisions of the inflorescence 2-3(-4) mm at most in length.
 
-3. Divisions bractéolées florifères de l'inflorescence longues de 2-3(-4) mm au plus.
+4. Inflorescences often short, rarely slender; base of the blade rounded, obtuse or rarely slightly acute; internodes often finely pustulate, rough to the touch, with or without ridges (mixture of the forms described by LOESENER) ..... 9a. var. lehmbachii.
 
-4. Inflorescences souvent courtes, rarement grêles ; base du limbe arrondie, obtuse ou rarement un peu aiguë ; entre-nœuds souvent finement pustuleux, rudes au toucher, avec ou sans arêtes (mélange des formes décri-tes par LOESENER) ..... 9a. var. lehmbachii.
+4'. Inflorescences often slender and ± long; base of the blade broadly rounded to obtuse; internodes slightly or not pustulate, often smooth to the touch, with distinct ridges or small wings; petals often fringed ..... 9b. var. leonensis fa. leonensis
 
-4'. Inflorescences souvent grêles et ± longues ; base du limbe largement arrondie à obtuse ; entre-nœuds peu ou non pustuleux, souvent lisses au toucher, à nettes arêtes ou petites ailes ; pétales souvent effrangés 9b. var. leonensis fa. leonensis
+4". Like the preceding form but with internodes even more distinctly winged; base of the blade wider and up to cordate on a petiole whose free base is much reduced; blade rather oblong than elliptic; tendency toward reduction in the number of secondary veins, 4 pairs or fewer ... 9b bis. var. leonensis fa. cucumerella, West Africa.
 
-4". Comme la forme précédente mais avec des entre-nœuds encore plus nettement ailés ; base du limbe plus large et jusqu'à cordée sur un pétiole dont la base libre est très réduite ; limbe plutôt oblong qu'elliptique ; tendance à une réduction du nombre des nervures secondaires, 4 paires ou moins ... 9b bis. var. leonensis fa. cucumerella, Afrique occidentale.
+3'. Inflorescences remarkable for their long bracteoled floriferous divisions, about 6-12 mm, with more than 8 pairs of bracteoles arranged in a chain; other characters as in 4 or 4'..... 9c. var. manus-lacertae.
 
-3'. Inflorescences remarquables par leurs longues divisions bractéolées florifères, d'environ 6-12 mm, avec plus de 8 paires de bractéoles disposées en chaînette ; autres cacractères comme 4 ou 4'..... 9c. var manus-lacertae.
+2'. Base of the blade acute and cuneate, rarely subobtuse; leaves subcoriaceous or coriaceous; petals often entire; sepals often very unequal; ovules often 4 per locule.
 
-2'. Base du limbe aiguë et en coin, rarement subobtuse ; feuilles subcoriaces ou coriaces ; pétales souvent entiers ; sépales souvent très inégaux ; ovules souvent 4 par loge.
+PL. 19. – Salacia pyriformioides Loes.: 1, bud; 2, calyx seen from below; 3, sepal in oblique view; 4, flower, diam. 4.5 mm; 5, section of disk, diam. 1.8 mm; 6, disk, diam. 1.5 mm; 7, stamen, 0.7 mm; 8, locules with 4-6 ovules (1, 2, 6, Ndjélé 671, Zaire; 3, 4, 7, 8, Letouzey 10898; 5, Klaine 3023). – S. lehmbachii Loes.: 9, bud; 10, calyx seen from below; 11, flower 8.5 mm in diam.; 12, section of disk, 2.5 mm; 13, young anthers; 14, ovary in section; 15, fruit 7.6 cm long; 16, 17, seed 2.2 cm and section (9-14, Hallé N. 3455; 15-17, Hallé N. 3231).
 
-PL. 19. – Salacia pyriformioides Loes. : 1, bouton ; 2, calice vu par dessous ; 3, sépale en vue oblique ; 4, fleur, diam. 4,5 mm : ; 5, coupe du disque, diam. 1,8 mm ; 6, disque, diam. 1,5 mm ; 7, étanine, 0,7 mm ; 8, loges 4-6-ovulées (1, 2, 6, Ndjélé 671, Zaire ; 3, 4, 7, 8, Letouzey 10898 ; 5, Klaine 3023). – S. lembachii Loes. : 9, bouton ; 10, calice vu par dessous ; 11, fleur de 8,5 mm de diam. ; 12, coupe du disque, 2,5 mm ; 13, antères juv. ; 14, ovaire en coupe ; 15, fruit long de 7,6 cm ; 16, 17, graine de 2,2 cm et coupe (9-14, Hallé N. 3455 ; 15-17, Hallé N. 3231).
+5. Petiole 5-10 mm; blade slightly denticulate; 8-12 pairs of secondary veins; flowers 12-14 mm in diameter; petals about 5 mm in diameter ..... 9d. var. uregaensis, Zaire.
 
-5. Pétiole de 5-10 mm ; limbe un peu denticulé ; 8-12 paires de nervures secondaires ; fleurs de 12-14 mm de diamètre ; pétales d'environ 5 mm de diamètre ..... 9d. var. uregaensis, Zaire.
+5'. Petiole 3-7 mm; blade entire; 4-7 pairs of secondary veins; flowers 5-10 mm in diameter; petals about 3-4 mm in diameter; fruit short ..... 9e. var. aurantiaca.
 
-5'. Pétiole de 3-7 mm ; limbe entier ; 4-7 paires de nervures secondaires ; fleurs de 5-10 mm de diamètre ; pétales d'environ 3-4 mm de diamètre ; fruit court ..... 9e. var. aurantiaca.
-
-1'. Inflorescences à divisions alternes, la première division située 4 à 20 mm plus bas que le sommet du rachis-pédoncule qui est long et grêle ; parfois une des bractées est plus développée que les autres ; entre-nœuds très nettement comprimés, nettement ailes et lisses ; fruit long et acuminé ..... 9f. var. pes-ranulae.
+1'. Inflorescences with alternate divisions, the first division situated 4 to 20 mm below the apex of the rachis-peduncle which is long and slender; sometimes one of the bracts is more developed than the others; internodes very distinctly compressed, distinctly winged and smooth; fruit long and acuminate ..... 9f. var. pes-ranulae.
 
 9a. var. lehmbachii
 
-Voir ci-dessus les caractères indiqués dans la clé.
+See above for the characters indicated in the key.
 
-Cameroun, Gabon, Congo (Attims 112, Bouquet 771), Zaïre.
+Cameroon, Gabon, Congo (Attims 112, Bouquet 771), Zaïre.
 
-MATÉRIEL ÉTUDIÉ¹ :
+MATERIAL STUDIED¹:
 
-Hallé N. 1858, Ayem, 10 km SW Ndjolé, 24.4.1963 (fl. ; fr. petit, faiblement bosselé, otus, non acuminé ; entre-nœuds un peu ruguleux à arêtes) ; 2971, Bélinga, 900 m, 2.11.1964 (fl. ; fruit plutôt long, aigu subacuminé, chagriné ; entre-nœuds très ruguleux à arêtes peu nettes).
+Hallé N. 1858, Ayem, 10 km SW Ndjolé, 24.4.1963 (fl.; fr. small, weakly bosselate, obtuse, not acuminate; internodes somewhat rugose with ridges); 2971, Bélinga, 900 m, 2.11.1964 (fl.; fruit rather long, acute subacuminate, shagreened; internodes very rugose with indistinct ridges).
 
-Le Testu 7290, Lastoursville, 6.5.1929 (fl. ; entre-nœuds ruguleux sans arêtes ; infl. à digitations bractéolées longues de 2-6(-7) mm).
+Le Testu 7290, Lastoursville, 6.5.1929 (fl.; internodes rugose without ridges; infl. with bracteoled digitations 2-6(-7) mm long).
 
-MATÉRIEL COMPLÉMENTAIRE (Cameroun) :
+COMPLEMENTARY MATERIAL (Cameroon):
 
-De Wilde J.J., 8173 A, km 18 route Ebolowa-Ambam, 800 m, pente de colline, 17.4.1975 (fl., fr.). Koufani 8, Ngongonjie, Akone, route Ebolowa-Ambam, 2.30'S, 650 m, 14.1.1978 (fruit 25-32 × 10-13 mm, ruguleux, subaigu ; entre-nœuds ruguleux sans arêtes).
+De Wilde J.J., 8173 A, km 18 road Ebolowa-Ambam, 800 m, hillside, 17.4.1975 (fl., fr.). Koufani 8, Ngongonjie, Akone, road Ebolowa-Ambam, 2.30'S, 650 m, 14.1.1978 (fruit 25-32 × 10-13 mm, rugose, subacute; internodes rugose without ridges).
 
-Leeuwenberg 6583, 3 km N Lomie, 590 m, 9.9.1965 (fr. fusiformes chagrinés ; infl. très courtes ; entre-nœuds à très faibles arêtes, très ruguleux), WAG.
+Leeuwenberg 6583, 3 km N Lomie, 590 m, 9.9.1965 (fr. fusiform shagreened; infl. very short; internodes with very weak ridges, very rugose), WAG.
 
-Letouzey 9866, Eminemvom, 20 km SE Ebolowa, 19.1.1970 (fr. semblable au numéro qui précède); 11478, Nkolandjom, Ngoakèle, 25 km W Ngoulémakong, route Mbalmayo-Ebolowa, 12.7.1972 (fr. 21-25 × 11-13 mm, semblable aux numéros précédents).
+Letouzey 9866, Eminemvom, 20 km SE Ebolowa, 19.1.1970 (fr. similar to the preceding number); 11478, Nkolandjom, Ngoakèle, 25 km W Ngoulémakong, road Mbalmayo-Ebolowa, 12.7.1972 (fr. 21-25 × 11-13 mm, similar to preceding numbers).
 
-Mbenkum 317, Ndongo, 40 km WNW Moloundou, 17.3.1973 (fr. 36-60(-80) × 15-18 mm, chagriné acuminé ; entre-nœuds lisses à faibles arêtes).
+Mbenkum 317, Ndongo, 40 km WNW Moloundou, 17.3.1973 (fr. 36-60(-80) × 15-18 mm, shagreened acuminate; internodes smooth with weak ridges).
 
-Staudt 52, Lolodorf, 500-650 m, 1896 (infl. dégarnies, à rachis de 5-8 mm ; entre-nœuds lisses à faibles arêtes).
+Staudt 52, Lolodorf, 500-650 m, 1896 (infl. sparse, with rachis 5-8 mm; internodes smooth with weak ridges).
 
 Thomas 1173, Korup Res., 3.1979 (fl.), K.
 
-Villiers J.-F. 616, 32 km NE Moloundou, Riv. Djombi, 6.4.1971 (fin de floraison, fruits juvéniques longs ; entre-nœuds presque lisses inégalement pourvus d'arêtes) ; 651, Batéka Malembé, 24 km N Moloundou (fruit long 5 cm, rouge, chagriné verruequeux, acuminé ; entre-nœuds comme le numéro précédent).
+Villiers J.-F. 616, 32 km NE Moloundou, Riv. Djombi, 6.4.1971 (end of flowering, juvenile elongate fruits; internodes nearly smooth unevenly provided with ridges); 651, Batéka Malembé, 24 km N Moloundou (fruit long 5 cm, red, shagreened verrucose, acuminate; internodes as in the preceding number).
 
-MATÉRIEL CITÉ (Cameroun) :
+CITED MATERIAL (Cameroon):
 
-Lehmbach 116, 208, Buea, 1 100 m, 2-4.1896 ou 1897 (fr. 7 × 3 cm, acuminé ; on peut déduire de la publication originale que les entre-nœuds étaient ruguleux).
+Lehmbach 116, 208, Buea, 1,100 m, 2-4.1896 or 1897 (fr. 7 × 3 cm, acuminate; it may be deduced from the original publication that the internodes were rugose).
 
-1. — Avec indication de caractères provisoirement considérés comme accessoires en l'attente de vues taxonomiques plus poussées.
+1. — With indication of characters provisionally considered as accessory pending more advanced taxonomic views.
 
 9b. var. leonensis (Hutchinson & M.B. Moss) Hallé, stat. nov.
 
-- S. leonensis HUTCH. & M.B. Moss, FWTA 1: 453 (1928), nomen ; Kew Bull. : 22 (1929), lat. descr. ; HALLÉ, Mon. Hippocr. Afr. occid., Thèse : 159 (1958) ; Mém. IFAN 64 : 162 (1962).
+- S. leonensis HUTCH. & M.B. Moss, FWTA 1: 453 (1928), nomen; Kew Bull.: 22 (1929), lat. descr.; HALLÉ, Mon. Hippocr. Afr. occid., Thèse: 159 (1958); Mém. IFAN 64: 162 (1962).
 
-Voir ci-dessus les caractères indiqués dans la clé.
+See above for the characters indicated in the key.
 
-Voir ci-dessus les caractères indiqués dans la clé.
+See above for the characters indicated in the key.
 
-Hallé N. 2991, Bélinga, 950 m, 3.11.1964 (bout.; pédoncule d'inflorescence grêle, de 20-35 mm; base du limbe obtuse; 6-8 paires de nervures secondaires; pétiole de 3-4 mm); 3455, ibid., 850-900 m, 9.12.1964 (fl.; pédoncule d'infl. de 20-27 mm; base du limbe obtuse; 7-9 paires de nervures secondaires; pétiole de 3-4 mm; entre-nœuds subsessiles et subailés).
+Hallé N. 2991, Bélinga, 950 m, 3.11.1964 (bud.; inflorescence peduncle slender, 20-35 mm; base of blade obtuse; 6-8 pairs of secondary veins; petiole 3-4 mm); 3455, ibid., 850-900 m, 9.12.1964 (fl.; infl. peduncle 20-27 mm; base of blade obtuse; 7-9 pairs of secondary veins; petiole 3-4 mm; internodes subsessile and subwinged).
 
-Hallé N. & Villiers J.-F. 4769, Nkan-Méla, Mts de Cristal, 30.1.1968 (fl. ; pédoncule d'infl. 2-14 mm ; base du limbe obtuse ; 5-6 paires de nervures secondaires ; pétiole de 3-4 mm).
+Hallé N. & Villiers J.-F. 4769, Nkan-Méla, Mts de Cristal, 30.1.1968 (fl.; infl. peduncle 2-14 mm; base of blade obtuse; 5-6 pairs of secondary veins; petiole 3-4 mm).
 
 9d. var. uregaensis (Wilczek) Hallé, stat. nov.
 
 – S. uregaensis Wilczek, Bull. Jard. Bot. Etat Brux. 26: 426 (1956).
 
-Voir ci-dessus les caractères indiqués dans la clé.
+See above for the characters indicated in the key.
 
 9e. var. aurantiaca (Hallé) Hallé, stat. nov.
 
 – S. uregaensis Wilczek var. aurantiaca Hallé, Bull. Mus. natn. Hist. nat., Paris, 30 (5): 468 (1958); Bull. IFAN sér. A, 21 (3): tab. 82 (1959); Pollen & Spores 2 (1): 12 (1960).
 
-Voir ci-dessus les caractères indiqués dans la clé.
+See above for the characters indicated in the key.
 
-En Côte-d'Ivoire, les var. aurantiaca et leonensis qui cohabitent très partiellement ne présentent, comme s'il s'agissait de bonnes espèces, aucun intermédiaire. La délimitation de ces variétés est beaucoup moins évidente en Afrique équatoriale occidentale ; il en résulte dans les cas douteux, une importance plus grande accordée à la variété-type qui correspond au taxon de LOESENER.
+In Côte-d'Ivoire, var. aurantiaca and leonensis which coexist very partially present, as if they were good species, no intermediates. The delimitation of these varieties is much less evident in western equatorial Africa; it results from this that in doubtful cases, greater importance is accorded to the typical variety which corresponds to LOESENER's taxon.
 
-Le fruit, bien connu de Côte d'Ivoire, se présente comme une moyenne ou petite prune ou comme une olive, aigu, subaigu ou obtus aux extrémités, à légument à peu près lisse, à sec parfois ± ridé comme un pruneau mais non à surface chagrinée.
+The fruit, well known from Côte-d'Ivoire, presents itself as a medium or small plum or as an olive, acute, subacute or obtuse at the extremities, with tegument nearly smooth, when dry sometimes ± wrinkled like a prune but not with shagreened surface.
 
-Sierra-Leone, Côté d'Ivoire, Ghana, Nigeria (Daramola FHI 32799a), Gabon ; à rechercher au Cameroun.
+Sierra Leone, Côte-d'Ivoire, Ghana, Nigeria (Daramola FHI 32799a), Gabon; to be sought in Cameroon.
 
-Floret & Louis 1333, forêt de la Mvoum, piste de Mviadi, 20.9.1983 (fl.).
+Floret & Louis 1333, forest of the Mvoum, Mviadi trail, 20.9.1983 (fl.).
 
-Floret, Louis & Moungazi 1887, 2 km après la gare de Boué, piste Ivindo, 12.10.1983 (j. bout.).
+Floret, Louis & Moungazi 1887, 2 km beyond Boué station, Ivindo trail, 12.10.1983 (j. bud.).
 
-Hallé N. 713, La Nkoulounga, 1.7.1959 (fr. court, obtus, lisse).
+Hallé N. 713, La Nkoulounga, 1.7.1959 (fr. short, obtuse, smooth).
 
-Le Testu 7647, Lastoursville, 15.11.1929 (fl. rose saumon de 5 mm de diam. ; entre-nœuds
-
-ruguleux sans arêtes ; glomérules florifères sur pédoncules très courts, U,5-1 mm).
+Le Testu 7647, Lastoursville, 15.11.1929 (fl. pink salmon 5 mm in diam.; internodes rugose without ridges; floriferous glomules on very short peduncles, 0.5-1 mm).
 
 9f. var. pes-ranulae Hallé, var. nov.
 
-Frutex modestus 0,30-2,5 mm altus, inflorescentiis longe pedunculatis gracilibus, cum parvo ramusculo laterali separato citra apicem; interdum cum bractea paulum foliacea; fructus longus acuminatus extra ± verruculosus; internodia valde alata laeviaque; folia clare et late cordata cum petiolo perbrevi vel subsessili. Camerunica.
+Frutex modestus 0.30-2.5 mm altus, inflorescentiis longe pedunculatis gracilibus, cum parvo ramusculo laterali separato citra apicem; interdum cum bractea paulum foliacea; fructus longus acuminatus extra ± verruculosus; internodia valde alata laeviaque; folia clare et late cordata cum petiolo perbrevi vel subsessili. Camerunica.
 
-Cette variété très remarquable (caractères indiqués dans la clé p. 72) et très localisée, nous est connue d'Oban, Sud Nigeria (van Meer 1453, WAG) et, au Cameroun, du SE d'Ebolowa. Non encore connue du Gabon.
+This very remarkable variety (characters indicated in the key p. 72) and very localized, is known to us from Oban, South Nigeria (van Meer 1453, WAG) and, in Cameroon, from the SE of Ebolowa. Not yet known from Gabon.
 
-MATÉRIEL ÉTUDIÉ (Cameroun):
+MATERIAL STUDIED (Cameroon):
 
-De Wilde J.J. 7713A, colline au-dessus de Nkolandom, 2.48'N, 11.10'E, 700 m, 14.11.1974 (fl.), WAG. Letouzey 9870, colline d'Ebaleboum près Meyos, 15 km SE Ebolowa, 19.1.1970 (fl.); 10226, colline Mbok, E Meyoo, 40 km SSW Ebolowa, 24.3.1970 (fl., fr.); 14120, Tinta-Atolo, 15 km S Akwaya, piste de Mamfe, 400 m, 26.7.1975 (fr.).
+De Wilde J.J. 7713A, hill above Nkolandom, 2.48'N, 11.10'E, 700 m, 14.11.1974 (fl.), WAG. Letouzey 9870, hill of Ebaleboum near Meyos, 15 km SE Ebolowa, 19.1.1970 (fl.); 10226, Mbok hill, E Meyoo, 40 km SSW Ebolowa, 24.3.1970 (fl., fr.); 14120, Tinta-Atolo, 15 km S Akwaya, Mamfe trail, 400 m, 26.7.1975 (fr.).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-haute Guinée (Schnell 3766), Liberia, Côte-d'Ivoire, Gabon, Congo (Bouquet & Sita 2387). A rechercher au Cameroun
+Upper Guinea (Schnell 3766), Liberia, Côte-d'Ivoire, Gabon, Congo (Bouquet & Sita 2387). To be sought in Cameroon
 
 ## Specimens examined
 

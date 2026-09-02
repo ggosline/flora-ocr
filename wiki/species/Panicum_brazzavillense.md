@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb in dense tufts approximately thirty centimeters tall. Leaves collected at the base, sheaths strongly striated, persistently long-lasting, ciliate ligules, filiform leaves, up to approximately twenty centimeters long.
 
-Herbe pérenne en touffes denses d'une trentaine de centimètres de haut. Feuilles rassemblées à la base, gaines fortement striées,
+Panicle 3 to 5 cm long, divided to the 3rd degree, axes and pedicels filiform. Spikelets slightly more than 1 mm long, sometimes tinged with violet, glabrous. Glumes membranous, the lower one with 3 nerves. Lower flower male, lemma similar to the upper glume; palea slightly shorter, acuminate. Upper flower ovate-acuminate, glumelles white, sparsely verrucose, sometimes smooth.
 
-longuement persistantes, ligules ciliées, feuilles filiformes, jusqu'à une vingtaine de centimètres de long.
+Plant known only from Lower Congo and Gabon, colonizing very poor white sands and temporarily flooded.
 
-Panicule de 3 à 5 cm de long, divisée jusqu'au 3° degré, axes et pédicelles filiformes. Épillets d'un peu plus de 1 mm de long, parfois teintés de violet, glabres. Glumes membraneuses, l'inférieure à 3 nervures. Fleur inférieure mâle, lemma semblable à la glume supérieure; paléa un peu plus courte, acuminée. Fleur supérieure ovale-acuminée, glumelles blanches, éparsemment verru-queuses, parfois lisses.
-
-Plante connue uniquement du Bas-Congo et du Gabon, colonisant des sables blancs très pauvres et temporairement inondés.
-
-C'est un fourrage de très faible valeur, certainement fortement carency en matières minérales, étant donné la nature des sols sur lesquels il pousse.
+It is a forage of very poor quality, certainly strongly deficient in mineral matter, given the nature of the soils on which it grows.
 
 ## Specimens examined
 

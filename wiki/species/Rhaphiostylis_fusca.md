@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chelonocarya fusca Pierre, 1. c. : 1261 (1897).
 
-Liane à rameaux adultes glabres et ramilles pubérulentes à poils étoilés, obscurément striées longitudinalement. Pétiole long de 3-5 mm, glabre, canaliculé, ridé dessus, très fortement ridé dessous. Limbe glabre sur les deux faces, marron noir à la face supérieure, marron foncé à la face inférieure, étoitement oblong à étroitement elliptique, 6-11 × 1,5-4 cm; base arrondie à subcunéiforme; sommet acuminé aigu. Nervure médiane concave dessus, saillante pubescente dessous. Nervures secondaires 4-6 paires, ascendantes, arquées, s'anastomosant à 1,5-2,5 mm du bord du limbe, concaves à la face supérieure, saillantes à la face inférieure. Nervilles en réseau lâche, obscurément saillant à la face inférieure.
+Liane with glabrous adult branches and puberulous branchlets with stellate hairs, obscurely longitudinally striated. Petiole 3-5 mm long, glabrous, canaliculate, wrinkled above, very strongly wrinkled below. Lamina glabrous on both surfaces, dark brown on the upper surface, dark brown on the lower surface, narrowly oblong to narrowly elliptic, 6-11 × 1.5-4 cm; base rounded to subcuneate; apex acute acuminate. Midvein concave above, prominent pubescent below. Secondary veins 4-6 pairs, ascending, arched, anastomosing 1.5-2.5 mm from the lamina margin, concave on the upper surface, prominent on the lower surface. Tertiary veins in loose reticulation, obscurely prominent on the lower surface.
 
-Inflorescence en fascicule axillaire multiflore. Bouton floral ellipsoïde de  $ 10 \times 1.5 $ mm, à pétales valvaires et sépales ± dressés. Fleur blanche.
+Inflorescence in multiflorous axillary fascicles. Floral bud ellipsoid 10 × 1.5 mm, with valvate petals and ± erect sepals. Flower white.
 
-Pédicelle densément pubescent à tomenteux à poils étoilés, long de 3 mm, porteur de bractéoles. Sépales soudés, pubescents à la face externe et glabres à la face interne, largement elliptiques,  $ 6 \times 1 $ mm, étalés. Pétales libres, pubescents à la face externe, glabres à la face interne, linéaires ou étroitement elliptiques,  $ 6 \times 1 $ mm. Étamines 5, libres, gynobasiques, longues de 6 mm; filet oblong large, long de 0,8 mm, se rétrécissant brusquement au sommet; anthère à 2 loges oblongues; connectif mucroné au sommet. Pistil long de 6 mm; ovaire ellipsoïde pubescent; style glabre à stigmate globuleux.
+Pedicel densely pubescent to tomentose with stellate hairs, 3 mm long, bearing bracteoles. Sepals connate, pubescent on the external face and glabrous on the internal face, broadly elliptic, 6 × 1 mm, spreading. Petals free, pubescent on the external face, glabrous on the internal face, linear or narrowly elliptic, 6 × 1 mm. Stamens 5, free, gynobasic, 6 mm long; filament broadly oblong, 0.8 mm long, abruptly narrowing at the apex; anther with 2 oblong locules; connective mucronate at the apex. Pistil 6 mm long; ovary ellipsoid pubescent; style glabrous with globose stigma.
 
-Drupe réniforme glabre aplatie à fortes ornamentations de côtes et de pointes,  $ 2,7 \times 2,2 \times 1,5 $ cm. Endocarpe ligneux. Graine réniforme à embryon apical. PL. 9, 1-11, p. 39.
+Drupe reniform glabrous flattened with strong ornamentation of ribs and points, 2.7 × 2.2 × 1.5 cm. Endocarp woody. Seed reniform with apical embryo. PL. 9, 1-11, p. 39.
 
 ## Type
 
@@ -35,9 +33,7 @@ Klaine 158, Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts, du Gabon au Kasaï.
+This species is found in forests, from Gabon to Kasai.
 
 ## Specimens examined
 

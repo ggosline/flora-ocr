@@ -17,31 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant with rhizomes reaching several metres in length. Culms reaching 3 m tall and more, up to 3 or 4 cm in diameter, with numerous nodes. Sheaths imbricate, glabrous, or pubescent at their opening; blades linear-lanceolate, acute at the apex, up to 70 × 4 cm, often shorter on sterile culms, sometimes pubescent near the ligule, smooth or scabrous.
 
-Plante pérenne à rhizomes pouvant atteindre plusieurs mètres de long. Chaumes atteignant 3 m de haut et plus, jusqu'à 3 ou 4 cm de diamètre, à nombreux nœuds. Gaines imbriquées, glabres, ou pubescentes à leur ouverture; limbes linéaires lancéolés, aigus à
+Panicle reaching 60 cm tall and 30 cm wide, rachis pubescent at the nodes, pedicels filiform about ten mm long. Spikelets 7 to 16 mm, glumes oval-oblong, with 3 or 5 nerves, the lower 2 to 4 mm long, the upper up to 5 mm. 4 to 11 flowers, lower lemma 3 to 11 mm, with 3 nerves. Fertile lemmas acuminate mucronate, 3 to 11 mm long, with 1 or 3 nerves, all scabrous on the back. Paleas linear, 2 to 4 mm long. Callus 1 mm; hairs 4 to 7 mm long.
 
-l'extrémité, jusqu'à 70 × 4 cm, souvent plus courts sur les chaumes stériles, parfois pubescents près de la ligule, lisses ou scabres.
+Species widespread from Sierra Leone to Cameroon and Ubangi, in East Africa, in former Belgian Congo, in the Brazzaville region, in Angola, in southern Africa.
 
-Panicule atteignant 60 cm de haut et 30 cm de large, rachis pubescent aux nœuds, pédicelles filiformes d'une dizaine de mm de long. Épillets de 7 à 16 mm, glumes ovales oblongues, à 3 ou 5 nervures, l'inférieure de 2 à 4 mm de long, la supérieure jusqu'à 5 mm. 4 à 11 fleurs, lemma inférieure de 3 à 11 mm, à 3 nervures. Lemmas fertiles acuminées mucronées, de 3 à 11 mm de long, à 1 ou 3 nervures, toutes scabres sur le dos. Palées linéaires, de 2 à 4 mm de long. Callus de 1 mm ; poils de 4 à 7 mm de long.
+The culms have numerous uses, for the manufacture of arrows, mats, and for various constructions.
 
-Espèce répandue du Sierra-Leone au Cameroun et à l'Oubangui, dans l'Est Africain, au Congo ex-Belge, dans la région de Brazzaville, en Angola, en Afrique australe.
+Vernacular names (after Walker and Sillans): Motove-a-pippa (Mitsogo).
 
-Les chaumes ont de nombreux usages, pour la fabrication de flèches, de nattes, et pour des constructions diverses.
+VIII. ORYZEAE
 
-Noms vernaculaires (d’après Walker et Sillans) : Motove-a-pippa (Mitsogo).
+Spikelets with a single fertile flower and sometimes two rudimentary neuter flowers represented at the base of the spikelet by small scales. Glumes null, greatly reduced or represented by a simple rim at the apex of the pedicel.
 
-VIII. ORYZÉES
+1. Lower flowers represented by two small scales at the base of the spikelet, which fall with it.
 
-Épillets à une seule fleur fertile et parfois deux flcurs neutres rudimentaires représentées à la base de l'épillet par de petites écailles. Glumes nulles, très réduites ou représentées par un simple bourrelet au sommet du pédicelle.
+2. Fertile lemma scabrous, coriaceous, sometimes awned; plants of marshy zones with narrow linear leaves..... 52. Oryza.
 
-1. Fleurs inférieures représentées par deux petites écailles à la base de l'épillet, qui tombent avec lui.
+2'. Fertile lemma thin, awnless, not scabrous; plants with linear-lanceolate leaves, from shaded humid zones. 53. Potamophila.
 
-2. Lemma fertile scabre, coriace, parfois aristée; plantes de zones marécageuses à feuilles linéaires étroites..... 52. Oryza.
-
-2'. Lemma fertile mince, mutique, non scabre; plantes à feuilles linéaires lancéolées, de zones ombragées humides. 53. Potamophila.
-
-1'. Fleurs inférieures totalement supprimées; lemmas papyracées; herbes de marais, souvent en prairies flottantes à feuilles coupantes ..... 54. Leersia.
+1'. Lower flowers totally suppressed; lemmas papyraceous; marsh herbs, often in floating meadows with cutting leaves ..... 54. Leersia.
 
 ## Figures
 

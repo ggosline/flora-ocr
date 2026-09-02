@@ -16,23 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in BRETELER (éd.), AUWP 89 (6): 319 (1989).
+in BRETELER (ed.), AUWP 89 (6): 319 (1989).
 
 – Paxia calophylloides SCHELLENB., PR 103 (4, 127): 115 (1938). TYPE: Gabon, Tchi-banga, Le Testu 1735 (holo-B; iso-P).
 
-Très grande liane.
+Very large liana.
 
-Feuilles. Pétiole long de ≤12 cm ; rachis de ≤30 cm ; pétioules longs de 2-6 mm ; folioles 3-7, elliptiques à obovées ; limbe glabre finement coriace, acuminé au sommet ; foliole terminale 18-19 × 10-12 cm ; folioles latérales 10-12 × 6-10 cm.
+Leaves. Petiole up to 12 cm long; rachis up to 30 cm; petiolules 2–6 mm long; leaflets 3–7, elliptic to obovate; blade glabrous, finely coriaceous, acuminate at apex; terminal leaflet 18–19 × 10–12 cm; lateral leaflets 10–12 × 6–10 cm.
 
-Inflorescences longues de ≤10 cm, avec de nombreux petits poils glanduleux, souvent cauliflores ou subcauliflores.
+Inflorescences up to 10 cm long, with numerous small glandular hairs, often cauliflorous or subcauliflorous.
 
-Fleurs : boutons oblongs. Pédicelles de 3-5 mm au-dessus de l'articulation. Sépales 5-9 × 2-3 mm, poils ordinaires sur les deux faces, nombreux petits poils glanduleux seulement sur la face externe. Pétales 12-13 × 1,5-2 mm, en forme de lanière, cohérents près de la base, enroulés dans le bouton, glabres. Étamines, les grandes longues de 3,5-6 mm, les courtes de 2-4 mm. Pistil long de 2-7 mm ; style avec de nombreux poils ; ovaire pubescent.
+Flowers: buds oblong. Pedicels 3–5 mm above the articulation. Sepals 5–9 × 2–3 mm, ordinary hairs on both surfaces, numerous small glandular hairs only on the outer surface. Petals 12–13 × 1.5–2 mm, ribbon-shaped, coherent near the base, enrolled in the bud, glabrous. Stamens, the longer ones 3.5–6 mm long, the shorter ones 2–4 mm. Pistil 2–7 mm long; style with numerous hairs; ovary pubescent.
 
-Fruits : follicules veloutés, souvent > 1 par fleur, terminés par un bec, déhiscents selon une suture ventrale. Sépales 6-9 × 2,5-4 mm sous le fruit, extérieur couvert de poils glanduleux assez denses.
+Fruits: velvety follicles, often > 1 per flower, terminated by a beak, dehiscent along a ventral suture. Sepals 6–9 × 2.5–4 mm beneath the fruit, exterior covered with rather dense glandular hairs.
 
-Graine: testa pour  $ \approx $ 1/4 charnu. Radicule ventrale. - Pl. 33, p. 111.
+Seed: testa for approximately 1/4 fleshy. Radicle ventral. – Pl. 33, p. 111.
 
 ## Type
 
@@ -40,15 +38,11 @@ Le Testu 1735, Tchibanga, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud du Gabon
+Southern Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles de basse altitude
+lowland rainforests
 
 ## Specimens examined
 

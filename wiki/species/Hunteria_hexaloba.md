@@ -21,7 +21,7 @@ Wageningen Agric. Univ. Pap. 96(1) : 104 (1996). Shrub of ± 1.6 m in height. Le
 
 Longitudinal section and seen in the ovary; ± Infructescence; ±. Klaine 3158; 7: Trilles 118). Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced from Omino (1996).
 
-Distribution endemic to Gabon, known from the Estuary and the Middle Ogooué. Ecology under forest of the forest up to m of altitude. B: Omino (1996). BIBLIOGRAPHY
+Distribution endemic to Gabon, known from the Estuaire and the Moyen-Ogooué. Ecology under forest of the forest up to m of altitude. B: Omino (1996). BIBLIOGRAPHY
 
 ## Notes
 

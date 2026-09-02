@@ -23,7 +23,7 @@ Tree reaching 27 m in height; trunk up to 68 cm in diameter (up to 75 in Equator
 
 ## Distribution
 
-Liberia, Côte d'Ivoire, southern Cameroon, Equatorial Guinea and Gabon; in Gabon, observed in the Estuary and in the Middle-Ogooué, probably very rare, and poorly known
+Liberia, Côte d'Ivoire, southern Cameroon, Equatorial Guinea and Gabon; in Gabon, observed in the Estuaire and in the Middle-Ogooué, probably very rare, and poorly known
 
 ## Ecology
 

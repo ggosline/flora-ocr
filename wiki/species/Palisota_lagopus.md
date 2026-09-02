@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne, 30–60 cm de hauteur ; tige jusqu’à 30 cm, à pubescence laineuse. Feuilles en rosette ; pseudopétiole 0–15 cm ; limbe nettement obovale, presque spatuliforme , 30–40 × 8–12 cm, à base se rétrécissant très graduellement vers la gaine , sommet arrondi abrupte-
-
-ment apiculé , marges ciliées, brun roux, face supérieure vert moyen, luisante, face inférieure vert clair à pubescence aranéeuse blanche ou beige. Inflorescence d’abord érigée, puis recourbée et finalement sous la litière à la fructification , ovoïde ou courtement oblongoïde, 2,5–5 × 2,5 cm, densément pubescente à poils cotonneux blanc sale ; pédoncule 4–15(–20) × 0,5 cm, à pubescence laineuse beige devenant brunâtre ; bractées ovales, ± 8 × 5–6 mm, pubescentes, blanches . Fleur 8–10 mm de diamètre, émergeant à peine du thyrse ; périanthe érigé ou réfléchi et apprimé contre la masse de l’inflorescence ; sépales pétaloïdes, ovales , 4,5 × 3 mm, blanc verdâtre ; pétales elliptiques , 5–5,5 × 2 mm, blancs à rosâtres, à sommet rond, un peu cucullés, surtout l’inférieur ; étamines inégales , à anthère de 1,5 mm de longueur, jaune, les 2 supérieures à filet de ± 2,5 mm, anthère oblongoïde, l’inférieure à filet de 1,5 mm, anthère réniforme, à pollen jaune ; staminodes peu visibles, aussi longs que les filets, blancs, à poils de ± 2 mm ; ovaire ovoïde, 0,5 mm de diamètre ; style 3,5 mm, blanc rosâtre, stigmate capité. Fruit ovoïde , ± 1–1,5 × 0,5–1 cm, à sommet acuminé, carmin, à dense pubescence rousse , brun foncé ou pourpre, contenant peu de graines (3?), à forte odeur fétide de térébenthine . Graine largement conique, 4–5 mm de diamètre ; testa gris clair ; embryotège dans une large dépression, bordée d’une crête avec ± 25 cannelures irrégulières, le dos fovéolé avec un hile de 1,5 mm de diamètre.
+Perennial herb, 30–60 cm tall; stem up to 30 cm, with woolly pubescence. Leaves in rosette; pseudopetiole 0–15 cm; blade distinctly obovate, nearly spatulate, 30–40 × 8–12 cm, with base tapering very gradually toward the sheath, apex abruptly rounded apiculate, margins ciliate, reddish-brown, upper surface medium green, shining, lower surface pale green with white or beige arachnose pubescence. Inflorescence initially erect, then curved and finally beneath the litter at fruiting, ovoid or shortly oblongoid, 2.5–5 × 2.5 cm, densely pubescent with dirty white cottony hairs; peduncle 4–15(–20) × 0.5 cm, with beige woolly pubescence becoming brownish; bracts ovate, ± 8 × 5–6 mm, pubescent, white. Flower 8–10 mm in diameter, scarcely emerging from the thyrse; perianth erect or reflexed and appressed against the mass of the inflorescence; sepals petaloid, ovate, 4.5 × 3 mm, greenish-white; petals elliptic, 5–5.5 × 2 mm, white to pinkish, with rounded apex, somewhat cucullate, especially the lower; stamens unequal, anther 1.5 mm long, yellow, the 2 upper with filament ± 2.5 mm, anther oblongoid, the lower with filament 1.5 mm, anther reniform, with yellow pollen; staminodes scarcely visible, as long as the filaments, white, with hairs ± 2 mm; ovary ovoid, 0.5 mm in diameter; style 3.5 mm, white-pinkish, stigma capitate. Fruit ovoid, ± 1–1.5 × 0.5–1 cm, with acuminate apex, carmine, with dense reddish pubescence, dark brown or purple, containing few seeds (3?), with strong fetid odor of turpentine. Seed broadly conical, 4–5 mm in diameter; testa pale gray; embryotegum in a wide depression, bordered by a crest with ± 25 irregular ridges, the dorsal surface foveolate with a hilum 1.5 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Río Muni), Gabon et République du Congo ; au Gabon dans toutes les provinces, sauf le Haut-Ogooué
+Cameroon, Equatorial Guinea (Río Muni), Gabon and Republic of the Congo; in Gabon in all provinces, except Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et secondaires, endroits humides, près des fleuves et rivières, assez commun au Gabon ; de 30 à 960 m d’altitude au Gabon, ailleurs jusqu’à 1200 m d’altitude. Floraison en mars, avril et de septembre à novembre ; fructification d’octobre à janvier. B : Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Morton (1967), i B liographie Sosef et al. (2006), Vande weghe et al. (2016)
+Primary and secondary forests, humid areas, near rivers and streams, fairly common in Gabon; from 30 to 960 m altitude in Gabon, elsewhere up to 1200 m altitude. Flowering in March, April and September to November; fruiting from October to January. Bibliography: Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Morton (1967), Sosef et al. (2006), Vande weghe et al. (2016)
 
 ## Notes
 

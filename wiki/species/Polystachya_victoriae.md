@@ -17,41 +17,35 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 3,5 cm × 0,6 cm. Feuilles 15,5 × 2,2 cm, oblonges-lancéolées, inégalement bilobées au sommet, apparaissant après la floraison. Inflorescence < 20 cm, < 35-flore. Fleurs blanches à marges net-tement violet clair, roses ou violacées, labelle jaune d'or ou blanc, coussins de poils jaunes. Sépale dorsal 5 × 3,5 mm, elliptique à orbiculaire, brièvement apiculé. Sépales latéraux obliquement triangulaires-ovés. Labelle comprimé dans le quart supérieur ; hypochile ové-panduré à la base, carène triangulaire élevée, au centre deux coussins de poils ; épichile ové, irrégulièrement denticulé le long des marges. Éperon sacciforme. – Pl. 110, p. 249.
+Pseudobulbs 3.5 cm × 0.6 cm. Leaves 15.5 × 2.2 cm, oblong-lanceolate, unequally bilobed at apex, appearing after flowering. Inflorescence < 20 cm, < 35-flowered. Flowers white with clearly violet-light, pink or violaceous margins, labellum golden yellow or white, yellow hair cushions. Dorsal sepal 5 × 3.5 mm, elliptic to orbicular, briefly apiculate. Lateral sepals obliquely triangular-ovate. Labellum compressed in the upper quarter; hypochile ovate-panduriform at base, elevated triangular keel, at centre two hair cushions; epichile ovate, irregularly denticulate along the margins. Spur sacciform. – Pl. 110, p. 249.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–950 m. Epiphytic on mangrove tree and sublittoral forest
 
-alt. 0-950 m. Épiphyte sur arbre de mangrove et forêt sublittorale
+MATERIAL STUDIED (Map 42):
 
-MATÉRIEL ÉTUDIÉ (Carte 42) :
+De Wilde, Arends, Louis, Bouman & Karper 112, Monts de Cristal, 6 km along the Tchimbélé–Kinguélé road, alt. ± 680 m, epiphytic on trunk of felled tree (fl. Jan.), WAG!.
 
-De Wilde, Arends, Louis, Bouman & Karper 112, Monts de Cristal., 6 km le long de la route Tchimbélé-Kinguélé, alt. ± 680 m, épiphyte sur tronc d'arbre abattu (fl. Janv.), WAG!.
+De Wilde & Sosef 10436, 25 km on the Lépamba–Yéno road, alt. ± 250 m, in exploited forest, 2° 02' S, 11° 26' E, epiphytic on branch on ground (fl. Feb.), WAG!. Hallé 923, approximately 8 km N of Libreville (fl. Jan.). P!.
 
-De Wilde & Sosef 10436, 25 km sur la route Lépamba-Yéno, alt. ± 250 m, en forêt exploité, 2° 02' S, 11° 26' E, épiphyte sur branche au sol (fl. Févr.), WAG!. Hallé 923. environ 8 km au N de Libreville (fl. Janv.). P!.
-
-Hallé & Villiers 4733, Monts de Cristal, entre Nkan et Méla (fl. Janv.), P! ; 5511, Cap Estérias (fl. Févr.), P! ; 5392, Monts de Cristal, chutes de Kinguélé (fl. Févr.), P!. Klaine 309, s.loc., P! ; 785, environs de Libreville (fl. Janv.), P!.
+Hallé & Villiers 4733, Monts de Cristal, between Nkan and Méla (fl. Jan.), P! ; 5511, Cap Estérias (fl. Feb.), P! ; 5392, Monts de Cristal, Kinguélé falls (fl. Feb.), P!. Klaine 309, s.loc., P! ; 785, environs of Libreville (fl. Jan.), P!.
 
 2. Sect. Affines Kraenzl.
 
 Rep. Sp. Nov. Regni Veg., 39 : 93, 1926.
 
-* Échantillon, nature et lieux de dépôt signalés différemment par erreur dans FCAM.
+* Specimen, nature and deposit localities indicated differently by error in FCAM.
 
-PL. 111. – Polystachya affinis Lindl.: A, fleur; B, C, labelle, vues diverses; D, sépale dorsal; E, pétale; F, sépale latéral (A-F, Le Testu 6511, P).
+PL. 111. – Polystachya affinis Lindl.: A, flower; B, C, labellum, various views; D, dorsal sepal; E, petal; F, lateral sepal (A–F, Le Testu 6511, P).
 
-Pseudobulbes de formes et de tailles variées, fusiformes, oblongs-ellipsoïdes à presque sphériques, comprimés dorsiventralement, souvent couchés sur le substrat, de nouveaux pseudobulbes apparaissant juste aussous de l'apex du précédent. Feuilles une à plusieurs au sommet des pseudobulbes. Inflorescence ramifiée ou non. Labelle avec un callus pubescent ou glabre à la base ou vers le milieu.
+Pseudobulbs of varied forms and sizes, fusiform, oblong-ellipsoid to almost spherical, compressed dorsiventrally, often lying on the substrate, new pseudobulbs appearing just below the apex of the preceding one. Leaves one to several at the apex of the pseudobulbs. Inflorescence branched or unbranched. Labellum with a pubescent or glabrous callus at the base or towards the middle.
 
-<table><tr><td>1. Pseudobulbes unifoliés</td><td>25. 5. P. obanensis</td></tr><tr><td>1&#x27;. Pseudobulbes plurifoliés</td><td>2</td></tr><tr><td>2. Labelle avec une carène glabre dans la moitié inférieure</td><td>25. 6. P. testuana</td></tr><tr><td>2&#x27;. Labelle avec un callus papilleux dans la moitié inférieure</td><td>25. 4. P. affinis</td></tr></table>
+<table><tr><td>1. Pseudobulbs unifoliate</td><td>25. 5. P. obanensis</td></tr><tr><td>1'. Pseudobulbs multifoliate</td><td>2</td></tr><tr><td>2. Labellum with a glabrous keel in the lower half</td><td>25. 6. P. testuana</td></tr><tr><td>2'. Labellum with a papillose callus in the lower half</td><td>25. 4. P. affinis</td></tr></table>
 
 ## Figures
 

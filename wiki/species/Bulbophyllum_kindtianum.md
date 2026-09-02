@@ -60,7 +60,7 @@ Pobeguin s.n., Port Gentil, P!
 
 Reitsma 1975, Doudou Mountains, 30 km SW of Doussala, 2°32' S, 10°29' E (fl., Feb.), WAG!, LBV, NY.
 
-van der Maesen 5333, Middle Ogooué, Lake Rivanda, connected to the Ogooué, near Lamaréné, 0°53' S, 10°05' E (fl., Nov.), WAG!.
+van der Maesen 5333, Moyen-Ogooué, Lake Rivanda, connected to the Ogooué, near Lamaréné, 0°53' S, 10°05' E (fl., Nov.), WAG!.
 
 van der Maesen, Louis & de Bruijn 5712, N of the main road Lastoursville-Moanda, EGG Logging sites (Gabon Timber Exp.), 31 km SE of Lastoursville, at 12 km on the main road, 0° 58' S, 12° 55' E (fl., Nov.), WAG!, LBV.
 

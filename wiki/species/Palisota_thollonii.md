@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe lianescente, grimpante, jusqu’à 7–10 m de hauteur ; tige ramifiée , genouillée, à entrenœuds de (4–)8–12 cm. Feuilles verticillées ; gaine à bords supérieurs ciliés de brun roux ; pseudopétiole 1–2 cm ; limbe étroitement elliptique-ovale, (12–)15–18 × 4,5–5,5 cm, à sommet longuement acuminé, marge ciliée de brun roux à la base, à poils apprimés fauves ou roux vers le sommet, face supérieure vert franc brillant, face inférieure argentée à blanchâtre terne , nervure principale dessous parfois à pubescence brunâtre. Inflorescence terminale , composée de 1 à 4 thyrses spiciformes , et axillaire, aux aisselles des verticilles inférieurs , compacte avant l’anthèse, s’allongeant lors de la floraison et devenant lâches , jusqu’à 20(– 27) cm de longueur ; pédoncule à 1 ou 2 bractées étroitement elliptiques-ovales, engainantes ; axe central blanchâtre ou blanc vert jaunâtre, avec ± 25 à 70 cincinni étalés, concolores, les basales sans fleurs et les supérieures avec 10 à 20 fleurs, s’allongeant lors de la fructifi cation pour atteindre jusqu’à 2(–3) cm. Fleur blanche ou bleutée ; pédicelle 3 mm ; sépales subégaux, ovales, 4 mm de longueur, pétaloïdes ; pétales largement ovales, cupuliformes , 4 × 2 mm, souvent pourpre foncé au sommet ; étamines à filet blanc, les 2 supérieures à filet de
-
-2 mm, glabres, à anthère basifixe, ovale-oblongue, 1,5 mm de longueur, jaune, l’inférieure à filet dirigé vers le bas, de 3,5 mm, à anthère ovale-ellipsoïdale, orangé avec connectif plus foncé , les thèques indéhiscentes, possiblement stériles ; staminodes lilas ; ovaire ovoïde à ellipsoïdal, 1 mm de longueur ; style 1,5 mm, blanc ou lilas pâle, stigmate claviforme . Fruit globuleux à ovoïde, 6–10 × 5–8 mm, d’abord blanc à sommet pourpre, puis entièrement bleu, violet à noir, ciré . Graine ovale-conique, 3,5–4 × 2–2,5 mm ; hile brun, bordé d’une crête avec 10 à 15 rides irrégulières, profondes, continues sur le dos ; testa noir brillant ; embryotège circulaire, 1 mm de diamètre, grise, à circonférence blanche.
+Lianescent herb, climbing, up to 7–10 m in height; stem branched, geniculate, with internodes of (4–)8–12 cm. Leaves whorled; sheath with upper margins ciliate with reddish-brown; pseudopetiole 1–2 cm; blade narrowly elliptic-ovate, (12–)15–18 × 4.5–5.5 cm, with apex long-acuminate, margin ciliate with reddish-brown at the base, with appressed tawny or reddish hairs toward the apex, upper surface bright green, lower surface silvery to whitish-dull, main vein beneath sometimes with brownish pubescence. Inflorescence terminal, composed of 1 to 4 spike-like thyrses, and axillary, at the axils of the lower whorls, compact before anthesis, elongating during flowering and becoming lax, up to 20(–27) cm in length; peduncle with 1 or 2 narrowly elliptic-ovate, sheathing bracts; central axis whitish or yellowish-white-green, with ± 25 to 70 spreading cincinni, concolorous, the basal ones without flowers and the upper ones with 10 to 20 flowers, elongating during fruiting to reach up to 2(–3) cm. Flower white or bluish; pedicel 3 mm; sepals subequal, ovate, 4 mm in length, petaloid; petals broadly ovate, cupuliform, 4 × 2 mm, often dark purple at the apex; stamens with white filament, the 2 upper ones with filament of 2 mm, glabrous, with basifixed anther, ovate-oblong, 1.5 mm in length, yellow, the lower one with filament directed downward, of 3.5 mm, with ovate-ellipsoidal anther, orange with darker connective, the thecae indehiscent, possibly sterile; staminodes lilac; ovary ovoid to ellipsoidal, 1 mm in length; style 1.5 mm, white or pale lilac, stigma claviform. Fruit globose to ovoid, 6–10 × 5–8 mm, at first white with purple apex, then entirely blue, violet to black, waxy. Seed ovate-conical, 3.5–4 × 2–2.5 mm; hilum brown, bordered by a crest with 10 to 15 irregular, deep ridges, continuous on the dorsal side; testa glossy black; caruncle circular, 1 mm in diameter, grey, with white circumference.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo et République Centrafricaine ; au Gabon dans toutes les provinces
+Cameroon, Gabon, Republic of the Congo and Central African Republic; in Gabon in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire jeune ou mature, forêt périodiquement inondée, assez commun ; au Gabon de 20 à 1000 m d’altitude, ailleurs jusqu’à 1800 m. Floraison à midi, en mars, juin, août et d’octobre à décembre ; fruits de janvier à mars, en juin et octobre. Usage : Les feuilles sont utilisées en sorcellerie pour calmer les femmes en colère. Les branches sont utilisées comme bâton pour soutenir la marche de l’enfant
+young or mature secondary forest, periodically inundated forest, fairly common; in Gabon from 20 to 1000 m in altitude, elsewhere up to 1800 m. Flowering at midday, in March, June, August and from October to December; fruits from January to March, in June and October. Use: The leaves are used in witchcraft to calm angry women. The branches are used as a stick to support the child's walking
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La tige émet à la coupe, après quelques minutes, un suc visqueux restant transparent au contact de l’air. B : Bidault & van der Burg (2019), Cabezas et al. (2014), Sosef et al. (2006). i B liographie
+The stem exudes, when cut, after a few minutes, a viscous sap remaining transparent on contact with air. B: Bidault & van der Burg (2019), Cabezas et al. (2014), Sosef et al. (2006). Bibliography
 
 ## Notes
 

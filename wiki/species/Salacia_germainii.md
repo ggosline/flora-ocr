@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Two ovules per locule.
 
-1. Deux ovules par loge.
+2. Leaves not cordate; petiole 5-9 mm ..... 20a. var. germainii.
 
-2. Feuilles non cordées ; pétiole de 5-9 mm ..... 20a. var. germainii.
+2'. Leaves cordate or subcordate; petiole 1.5-4 mm ..... 20b. var. cordata.
 
-2'. Feuilles cordées ou subcordées ; pétiole de 1,5-4 mm ..... 20b. var. cordata.
+1'. 4-6 ovules per locule; leaves not cordate ..... 20c. var. chlorion.
 
-1'. 4-6 ovules par loge ; feuilles non cordées ..... 20c. var. chlorion.
+Distribution and ecology of the three varieties: Gabon, Congo (Bitsindou 498, P) and Zaire. Riparian forests or very humid high ridges from 450 to 1,000 m. A very closely related species that one might find in the South or SW of Gabon is S. maudouxii Wilczek (Bull. Jard. Bot. Etat Brux. 26: 412, 1956. TYPE: Maudoux 249, Mayombe congolais). - Pl. 29, fig. 21-29, p. 107.
 
-Distribution et écologie des trois variétés : Gabon, Congo (Bitsindou 498, P) et Zaïre. Forêts ripicoles ou crêtes élevées très humides de 450 à 1 000 m. Une espèce très voisine que l'on pourrait trouver dans le Sud ou SW du Gabon est le S. maudouxii Wilczek (Bull. Jard. Bot. Etat Brux. 26 : 412, 1956. TYPE : Maudoux 249, Mayombe congolais). - Pl. 29, fig. 21-29, p. 107.
+20a. var. germainii
 
-20a. var. germaini
+Tall liane exceeding 5-10 m in height and 6 cm in diameter, glabrous, lacking rubber, with young internodes bearing 4 angles, olive green when dry. Leaves opposite or subopposite. Petiole 5-9 mm with canal margins straight or somewhat sinuous. Lamina olive or olivaceous when dry, glossy above, often slightly waffle-textured, elliptic 6-14.5 × 2.5-7.5 cm, with base often broad and shortly cuneate, apex with medium to strong acumen, margin dentate or denticulate in a somewhat lax manner. Secondary nerves 7-10 pairs; fine veinlets often more visible above than beneath the lamina.
 
-Liane élevée dépassant 5-10 m de hauteur et 6 cm de diamètre, glabre, dépourvue de caoutchouc, à jeunes entre-nœuds à 4 arêtes, vert olive à sec. Feuilles opposées ou subopposées. Pétiole de 5-9 mm à bords du canal droits ou un peu sinueux. Limbe olive ou olivâtre à sec, brillant dessus, souvent un peu gaufré, elliptique de 6-14,5 × 2,5-7,5 cm, à base souvent large et brièvement cunéiforme, sommet à acumen moyen ou fort, marge dentée ou denticulée de façon un peu lâche. Nervures secondaires 7-10 paires ; nervilles fines souvent plus visibles par-dessus que sous le limbe.
+Inflorescences 1-3-flowered axillary with basal glomerate sessile. Buds oblong $ 2-3 \times 1-1.6 $ mm. Pedicels 1.4-2 mm. Flowers orange-yellowish or brownish. Sepals short, ovate to semi-orbicular, entire or sparsely denticulate, subequal, 0.7-1.2 mm wide. Petals semi-erect, spreading, oblong or subspatulate, 2.5-3.6 × 0.8-1.3 mm. Disk subcylindric, 0.9-1.6 × 0.8-1.2 mm, with small basal constriction. Stamens erect in young bud, short, less than 1 mm, with anther bearing a transverse arcuate subapical slit, 0.3-0.5 mm wide. Pistil polyhedral and fleshy between the stamens and abruptly attenuated subulate into a style approximately 0.6 mm long with punctiform stigma; locules sunken somewhat more than halfway, each containing two superposed ovules.
 
-Inflorescences 1-3-flores axillaires à glomérule basal sessile. Boutons oblongs de  $ 2-3 \times 1-1,6 $ mm. Pédicelles de 1,4-2 mm. Fleurs orangé jaunâtre ou brunâtres. Sépales courts, ovés à semi-orbiculaires, entiers ou paucidenticulés, subégaux, larges de 0,7-1,2 mm. Pétales semi-érigés
-
-PL. 29. - Salacia germainii Wilczek : 1, 2, bouton ; 3, sépale ; 4, pétale de 4 mm ; 5, fleur, diam. 7 mm ; 6-10, disques, diam. 1-1,7 mm ; 11, coupe de l'ovaire ; 12, 13, anthères ; 14, étamine ; 15-18, loges d'ovaire ; 19, fruit, diam. 37 mm ; 20, graine de 19 mm (var. chlorion : 1, 11, 19, 20, Hallé N. 3061 ; 2, 9, 17, Hallé N. 3406 ; 3, 8, 12, 18, Le Testu 8861 - var. germainii : 4, 6, 7, 14, 16, Germain 4652, Zaire : 5, 10, Hallé N. 3591 ; 13, 15, Bitsindou 498, Congo. - S. maudouxi R. Wilczek : 21, 22, boutons ; 23, fleur, diam. 4,5 mm ; 24, sépales larges de 0,8-1 mm ; 25-27, disques, diam. 1,2 mm ; 28, jeune étamine de profil ; 29, anthère ouverte de face (21, 25, 2, 28, Compère 1922, Zaire ; 22, 27, Maudoux 249, Zaire ; 23, 24, 29, Toussaint 176, Zaire).
-
-évasés, oblongs ou subspatulés, de 2,5-3,6 × 0,8-1,3 mm. Disque subcy-lindrique, 0,9-1,6 × 0,8-1,2 mm, à petit étranglement basal. Étamines érigées dans le jeune bouton, courtes, de moins de 1 mm, à anthère à fente transverse arquée subapicale, large de 0,3-0,5 mm. Pistil polyé-drique charnu entre les étamines et brusquement atténué subulé en style d'environ 0,6 mm à stigmate ponctiforme ; loges enfoncées un peu plus qu'à demi, contenant deux ovules superposés chacune.
-
-Fruit orangé sphérique de 28 mm de diamètre, presque lisse in vivo avec 3 chevrons en légère saillie, à pulpe sucrée, contenant 3-4 graines. La forme typique du Zaïre présente un exocarpe plus épais à relief plus complexe comprenant de nombreux replis sinueux. - Pl. 29, fig. 4-7, 10, 13,-16, p. 107.
+Fruit orange spherical 28 mm in diameter, almost smooth in vivo with 3 chevrons in slight relief, with sweet pulp, containing 3-4 seeds. The typical form from Zaire presents a thicker exocarp with more complex relief comprising numerous sinuous folds. - Pl. 29, fig. 4-7, 10, 13-16, p. 107.
 
 ## Type
 
@@ -51,9 +45,7 @@ Le Testu 8861, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce, bien que gardant un aspect assez homogène, présente cependant assez de variation pour mériter un découpage en variétés, sans qu'il y ait toutefois une claire corrélation entre les critères distinctifs. Il est vraisemblable que des récoltes plus abondantes et des analyses plus nombreuses, surtout au Gabon où les 3 variétés cohabitent, permettraient de réviser le statut variétal choisi par commodité.
+This species, although maintaining a fairly homogeneous appearance, nonetheless presents enough variation to merit subdivision into varieties, although there is no clear correlation between the distinctive criteria. It is likely that more abundant collections and more numerous analyses, especially in Gabon where the 3 varieties coexist, would allow revision of the varietal status chosen for convenience.
 
 ## Specimens examined
 

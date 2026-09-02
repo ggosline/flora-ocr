@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Phyllanthus diandrus Pax, Bot. Jahrb. Syst. 33(2) : 276 (1903). Lingelsheimia longipedicellata J.Léonard, Bull. Jard. Bot. État Bruxelles 32 : 515 (1962). Arbuste à petit arbre, jusqu’à 12 m de hauteur, glabre ; tronc jusqu’à 12 cm de diamètre. Stipules obliquement ovales , 1–2 mm de longueur, cordées à la base , à bord ± hyalin et souvent découpé. Feuille : pétiole canaliculé dessus, 1–3(–4) mm ; limbe obovale-el liptique à oblong, parfois suborbiculaire, (3–)8–21 × (1,5–)2,5–7,5 cm, arrondi à cunéé à la base, acuminé sur (0,5–)1–2,5 cm au sommet, papyracé à coriace ; nervures latérales principales (5–)6–7(–9) paires. Inflorescence : fleurs mâles séparées des femelles, soit sur des branches différentes, soit sur différentes parties de la même branche, les mâles en bas, les femelles vers le sommet . Fleur mâle ± dressée ; pédicelle capillaire, jusqu’à ± 10 mm ; sépales étalés, ± elliptiques, 1,5 mm de longueur ; disque ± hexagonal ; étamines ± 0,3 mm de longueur, à anthères ± aussi longues que les filets. Fleur femelle pendante , ± 5 mm de diamètre ; pédicelle filiforme , jusqu’à 4,5 cm et 7 cm en fruit ; sépales ± soudés à la base, étalés, elliptiques, 1–1,5 mm de longueur ; disque hexagonal, ± 3mm de diamètre ; ovaire ± trilobé ; styles 6, ± libres ou à style bifurqué. Fruit trilobé, 8–13 × 5–8 mm. Graines ± obovoides à ellipsoïdes, 5–6 mm de longueur, brun clair.
+Phyllanthus diandrus Pax, Bot. Jahrb. Syst. 33(2) : 276 (1903). Lingelsheimia longipedicellata J.Léonard, Bull. Jard. Bot. État Bruxelles 32 : 515 (1962). Shrub to small tree, up to 12 m tall, glabrous; trunk up to 12 cm in diameter. Stipules obliquely ovate, 1–2 mm long, cordate at base, with margin ± hyaline and often lacerate. Leaf: petiole channelled above, 1–3(–4) mm; blade obovate-elliptic to oblong, sometimes suborbicular, (3–)8–21 × (1.5–)2.5–7.5 cm, rounded to cuneate at base, acuminate over (0.5–)1–2.5 cm at apex, papyraceous to coriaceous; primary lateral veins (5–)6–7(–9) pairs. Inflorescence: male flowers separated from female flowers, either on different branches or on different parts of the same branch, males at the base, females towards the apex. Male flower ± erect; pedicel capillary, up to ± 10 mm; sepals spreading, ± elliptic, 1.5 mm long; disk ± hexagonal; stamens ± 0.3 mm long, with anthers ± as long as the filaments. Female flower pendulous, ± 5 mm in diameter; pedicel filiform, up to 4.5 cm and 7 cm in fruit; sepals ± united at base, spreading, elliptic, 1–1.5 mm long; disk hexagonal, ± 3 mm in diameter; ovary ± trilobed; styles 6, ± free or with bifid style. Fruit trilobed, 8–13 × 5–8 mm. Seeds ± obovoid to ellipsoid, 5–6 mm long, light brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée Équatoriale, Gabon et République du Congo ; au Ga bon, fréquemment rencontrée dans toutes les provinces sauf dans le Haut-Ogooué
+Cameroon, Equatorial Guinea, Gabon and Republic of the Congo; in Gabon, frequently encountered in all provinces except in Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, recru forestier ; au Gabon, jusqu’à 550 m d’al titude. Note taxonomique : Contrairement à la description de Brunel (1987), l’espèce est mo noïque et non dioïque. b : Breteler (1991). ibliographie
+primary and secondarized forest, forest regrowth; in Gabon, up to 550 m altitude. Taxonomic note: Contrary to the description by Brunel (1987), the species is monoecious and not dioecious. b: Breteler (1991). Bibliography
 
 ## Notes
 

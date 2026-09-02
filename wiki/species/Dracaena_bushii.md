@@ -21,7 +21,7 @@ Erect shrub, up to 2.5 m tall; rhizome woody; trunk simple, up to 5 cm in diamet
 
 ## Distribution
 
-fairly rare species from Cameroon, Equatorial Guinea and Gabon; in Gabon, in the Estuary and Ogooué-Ivindo
+fairly rare species from Cameroon, Equatorial Guinea and Gabon; in Gabon, in the Estuaire and Ogooué-Ivindo
 
 ## Ecology
 

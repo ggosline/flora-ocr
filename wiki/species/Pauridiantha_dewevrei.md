@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (De Wild. et Dur.) Brem. (Pl. 51)
 
-Arbuste de 2-8 m de haut. Tronc jusqu'à 10 cm de diam. Tige dressée et rameaux plagiotropes. Entrenœuds pubescents de 30-60 × 2,5-4 mm. Stipules pubescentes de 8-13 × 3-4,5 mm, triangulaires aiguës. Pétiole pubescent de 3-8 mm. Limbe souvent terne dessus, brunâtre ou olivâtre à sec; dessus ± pubescent ou glabre, avec la ligne médiane pubescente, ainsi que parfois la base des nervures secondaires; dessous pubescent ou ± glabre; forme elliptique ou oblongue elliptique de 8-19 × 2,3-5 cm; base aiguë à arrondie, sommet sublancéolé ± acuminé. Pas de ligne marginale spécialement pubescente. 9-12 paires de nervures secondaires ± pubescentes à la face inférieure, obliques ascendantes, les supérieures arquées et plus nettement ascendantes. Domaties velues.
+Shrub 2–8 m tall. Trunk up to 10 cm diam. Stem erect and branches plagiotropic. Internodes pubescent 30–60 × 2.5–4 mm. Stipules pubescent 8–13 × 3–4.5 mm, triangular acute. Petiole pubescent 3–8 mm. Lamina often dull above, brownish or olivaceous when dry; above ± pubescent or glabrous, with the midline pubescent, as well as sometimes the base of the secondary veins; below pubescent or ± glabrous; elliptic or oblong-elliptic form 8–19 × 2.3–5 cm; base acute to rounded, apex sublanceolate ± acuminate. No specially pubescent marginal line. 9–12 pairs of secondary veins ± pubescent on the lower surface, obliquely ascending, the upper ones arched and more distinctly ascending. Domatia hairy.
 
-Inflorescences axillaires rarement solitaires, apparaissant souvent par 2-4 de bourgeons axillaires sériaux, pubescentes, à pédoncule grêle de 4-20 mm portant une paire de préfeuilles étroites et stipulées, à aisselles florifères ou non. Petit panicule assez lâche de 6-20 fleurs. Pédicelles de 1-3 mm. Bouton atteignant 4,5 mm, à sommet obtus micropubérulent. Calice pubescent ou non à (4) 5 (6) dents aiguës d'env. 1 mm. Corolle jaune clair ou jaune verdâtre atteignant 5-6 mm de diam., à tube ± glabre de 3 mm de hauteur, à (4) 5 lobes triangulaires d'env. 1,5 × 1,2 mm; pilosité de la gorge formant un anneau de 2 mm de hauteur vers le niveau des étamines. Anthère ovale de 1,3 × 0,6 mm, faiblement apiculée, à loges internes plus courtes que les externes. Style de 2-2,5 mm, parfois un peu pubescent sous le stigmate. Disque bombé de 1,1-1,8 mm de diam. et 0,5-1 mm d'épaisseur, glabre,
+Inflorescences axillary rarely solitary, often appearing by 2–4 from serial axillary buds, pubescent, with slender peduncle 4–20 mm bearing a pair of narrow stipulate prefoliage leaves, with floriferous or non-floriferous axils. Small rather lax panicle of 6–20 flowers. Pedicels 1–3 mm. Bud reaching 4.5 mm, with obtuse micropubescent apex. Calyx pubescent or not with (4) 5 (6) acute teeth approx. 1 mm. Corolla pale yellow or yellowish-green reaching 5–6 mm diam., with ± glabrous tube 3 mm tall, with (4) 5 triangular lobes approx. 1.5 × 1.2 mm; pilosity of the throat forming a ring 2 mm tall at about the level of the stamens. Anther oval 1.3 × 0.6 mm, weakly apiculate, with internal locules shorter than the external ones. Style 2–2.5 mm, sometimes slightly pubescent below the stigma. Disk convex 1.1–1.8 mm diam. and 0.5–1 mm thick, glabrous, crowned with small pits. Ovary with 2 locules each containing two ovoid ovular masses juxtaposed at the base but inserted on distinct placental lobes.
 
-couronné de fossules. Ovaire à 2 loges contenant chacune deux masses ovulaires ovoïdes juxtaposées à la base mais insérées sur des lobes placentaires distincts.
-
-Fruit dépassant 6 mm de diam., globuleux à sommet subtronqué, quadrilobé légèrement en vue apicale à sec, jaune, rougeêtre, grenat puis enfin noirâtre à maturité. Graines nombreuses, ovales, longues de 1,2-1,5 mm, réticulées-cristées, brun roux.
+Fruit exceeding 6 mm diam., globose with subtruicate apex, slightly quadrilobed in dry apical view, yellow, reddish, garnet then finally blackish at maturity. Seeds numerous, oval, 1.2–1.5 mm long, reticulate-crested, reddish-brown.
 
 ## Type
 
@@ -39,15 +35,13 @@ Dewèvre 1130 (BR!), Kassaï, Congo ex-belge
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species rather variable as to the pubescence of the laminae, the number of inflorescences per axil (sometimes only one: Letouzey 4328, from Cameroon), the dimensions of the inflorescences and flowers (flowers smaller than above in Jean-Louis 2333, from Congo), the pubescence of the style below the stigma (micropapillose to glabrous in specimens from Bélinga).
 
-Espèce assez variable quant à la pubescence des limbes, au nombre des inflorescences par aisselle (parfois une seule : Letouzey 4328, du Cameroun), à la dimension des inflorescences et des fleurs (fleurs plus petites que ci-dessus chez Jean-Louis 2333, du Congo), à la pubescence du style sous le stigmate (micropa pillifère à glabre chez les spécimens de Bélinga).
+P. Dewevrei has been collected in dense forest but more often in degraded forest margins; drained sometimes rocky soils. Cameroon, Gabon, Central African Republic and Congo.
 
-Le P. Dewevrei a été récolté en forêt dense mais plus souvent dans des lisières dégradées; sols drainés parfois rocheux. Cameroun, Gabon, Centrafrique et Congo.
+N. Hallé: 1154, Zoolendé, SE of Makokou (fr. Feb.); 3054, 3202, 3213, 3326, Bélinga, alt. 800 to 1000 m (fl. Nov.).
 
-N. Hallé : 1154, Zoolendé, SE de Makokou (fr. fév.); 3054, 3202, 3213, 3326, Bélinga, alt. 800 à 1000 m (fl. nov.).
-
-Thollon : s. n., sans localité.
+Thollon: s. n., locality unknown.
 
 ## Notes
 

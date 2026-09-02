@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmier à stipe solitaire, 3–5(–10) m, jusqu’à 20 cm de diamètre , couvert de vieilles gaines foliaires ou lisse chez les vieux individus, à fibres faiblement bouclées, mesurant 1 à 2 mm de large . Feuilles 5 ou 6 ; gaine ± 1 m de longueur ; pétiole 1–2 m ; rachis 3–4 m, armés d’épines sur la face supérieure ; limbe avec 100 à 130 paires de folioles à disposition irré gulière, groupées par deux, linéaires, 100–120 × 3–6 cm. Inflorescences (3–)4, pendantes le long du stipe , 1–2 m de longueur ; rachis 45–60 cm ; rameaux florifères de premier ordre ± 100, ± 1 m de longueur, ceux du second ordre 20 à 30, pendants, 20–35 cm de longueur, < 8 mm de diamètre, fins et frêles, facilement cassables chez les jeunes inflorescences . Fleur mâle : corolle à lobes de 5–8 × 2–3 mm ; étamines ± 6. Fleur femelle : corolle à lobes de 4–8 × 2–3 mm. Fruit globuleux , 3–5 × 3–4 cm, très légèrement rostré, avec 5 à 6 rangs d’écailles , orange à brun foncé. Graine globuleuse, 2–4 cm de diamètre.
+Palm with solitary stem, 3–5(–10) m, up to 20 cm in diameter, covered with old leaf sheaths or smooth in old individuals, with weakly curled fibres, measuring 1 to 2 mm wide. Leaves 5 or 6; sheath ± 1 m long; petiole 1–2 m; rachis 3–4 m, armed with spines on the upper surface; blade with 100 to 130 pairs of leaflets in irregular arrangement, grouped in twos, linear, 100–120 × 3–6 cm. Inflorescences (3–)4, pendulous along the stem, 1–2 m long; rachis 45–60 cm; primary branches ± 100, ± 1 m long, those of the second order 20 to 30, pendulous, 20–35 cm long, < 8 mm in diameter, fine and frail, easily breakable in young inflorescences. Male flower: corolla with lobes 5–8 × 2–3 mm; stamens ± 6. Female flower: corolla with lobes 4–8 × 2–3 mm. Fruit globose, 3–5 × 3–4 cm, very slightly rostrate, with 5 to 6 rows of scales, orange to dark brown. Seed globose, 2–4 cm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République démocratique du Congo et Angola ; au Gabon, connu de l’OgoouéLolo et du Haut-Ogooué. Statut de conservation : Préoccupation mineure (LC)
+Gabon, Democratic Republic of the Congo and Angola; in Gabon, known from Ogooué-Lolo and Haut-Ogooué. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire de terre ferme ou périodiquement inondée, le long des routes, la forme juvé nile dans les sous-bois ; au Gabon entre 200 et 400 m d’altitude, à la République démocratique du Congo à 300 m
+secondary upland or periodically flooded forest, along roads, the juvenile form in the understory; in Gabon between 200 and 400 m altitude, in the Democratic Republic of the Congo at 300 m
 
 ## Vernacular names
 
@@ -39,11 +33,7 @@ atut (fang) ; dinimba (bavarama, bavungu, béséki. éshira) ; dinyimba (bapunu)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-R. textilis se différencie des autres espèces par son stipe solitaire couvert d’un réseau de fibre fines (1–2 mm de large) et légèrement bouclées (contre fibres > 1 cm et fortement bouclées chez R. hookeri ), ses inflorescences tombantes, ses rameaux florifères fins et frêles se cassant facilement, et le faible
-
-nombre de rangées d’écailles sur son fruit. C’est une espèce souvent plantée près des habitations. B : Stauffer et al. (2014), Tuley (1995), Raponda-Walker & Sillans (1961). i B liographie
+R. textilis differs from other species by its solitary stem covered with a network of fine fibres (1–2 mm wide) and slightly curled (versus fibres > 1 cm and strongly curled in R. hookeri), its pendulous inflorescences, its fine and frail floral branches easily breaking, and the small number of rows of scales on its fruit. It is a species often planted near dwellings. B: Stauffer et al. (2014), Tuley (1995), Raponda-Walker & Sillans (1961). Bibliography
 
 ## Notes
 

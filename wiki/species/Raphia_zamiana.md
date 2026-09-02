@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmier à stipes cespiteux , de 3–8 m, 29–38 cm de diamètre, couverts de vieilles gaines foliaires et de fibres linéaires et pointues . Feuilles 10 à 12 ; gaine 0,9–1,5 m de longueur ; pétiole 4–11 m ; rachis 7–13 m, armés d’épines sur la face supérieure ; limbe avec 140 à 270 paires de folioles à disposition irrégulière, groupées par deux, linéaires, de 150–190 × 5–9 cm. Inflorescences 3 ou 4, pendantes , 1,5–3 m de longueur ; rachis 1,2–2,6 m ; rameaux florifères de premier ordre 50 à 70, 25–105 cm de longueur, plus longs en position basale qu’en position sommitale, ceux de deuxième ordre 48 à 65, 15–35 cm de longueur, plus longs à la base qu’au sommet, robustes, > 1 cm de diamètre . Fleur mâle : corolle à 3 lobes, de 8,5–15(–20) × 4–6 mm ; étamines 11 à 18. Fleur femelle : corolle à 3 lobes de 5–8 mm de longueur ; staminodes 17 à 19. Fruit ovoïde à ellipsoïde , 4–8,7 × 3,5 × 4,7 cm, avec 11 ou 12 rangs d’écailles, orange-jaune à maturité, sommet courtement rostré, monosperme. Graine oblongue.
+Palm with cespitose stems, 3–8 m, 29–38 cm in diameter, covered with old leaf sheaths and linear pointed fibers. Leaves 10 to 12; sheath 0.9–1.5 m long; petiole 4–11 m; rachis 7–13 m, armed with spines on the upper surface; blade with 140 to 270 pairs of leaflets in irregular arrangement, grouped by twos, linear, 150–190 × 5–9 cm. Inflorescences 3 or 4, pendulous, 1.5–3 m long; rachis 1.2–2.6 m; primary flowering branches 50 to 70, 25–105 cm long, longer in basal position than in apical position, secondary ones 48 to 65, 15–35 cm long, longer at the base than at the apex, robust, > 1 cm in diameter. Male flower: corolla with 3 lobes, 8.5–15(–20) × 4–6 mm; stamens 11 to 18. Female flower: corolla with 3 lobes 5–8 mm long; staminodes 17 to 19. Fruit ovoid to ellipsoid, 4–8.7 × 3.5 × 4.7 cm, with 11 or 12 rows of scales, orange-yellow at maturity, apex shortly rostrate, monospermic. Seed oblong.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon, connu du Woleu-Ntem, de l’Ogooué-Ivindo, de l’OgoouéMaritime et de la Ngounié. Statut de conservation : Préoccupation mineure (LC)
+Cameroon and Gabon; in Gabon, known from Woleu-Ntem, Ogooué-Ivindo, Ogooué-Maritime and Ngounié. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-toujours sur sols marécageux ou inondés, en forêt dense, forêts côtières sur sols sableux et à salinité plus ou moins élevée, savanes inondées, très commun le long des routes ; au Gabon entre 0 et 350 m d’altitude, ailleurs jusqu’à 700 m
+always on marshy or flooded soils, in dense forest, coastal forests on sandy soils with more or less elevated salinity, flooded savannas, very common along roadsides; in Gabon between 0 and 350 m altitude, elsewhere up to 700 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-R. zamiana est la troisième espèce de la section des « raphiacée » connue au Gabon (voir Notes sous le traitement de R. laurentii ). Elle se distingue de R. laurentii et R. monbuttorum par son inflores cence pendante (semi-érigée chez les deux autres) et des rameaux florifères très robustes et épais, géné ralement de plus de 1 cm de diamètre. R. zamiana est très commun le long des routes au Gabon mais n’a été que rarement collecté (probablement à cause de son accès difficile). Malgré son amplitude écologique large, des études moléculaires confirment bien qu’il s’agit d’une seule et même espèce (résultats non publiés). B : Mogue et al. (2018). i B liographie
+R. zamiana is the third species of the "raphiaceous" section known from Gabon (see Notes under the treatment of R. laurentii). It is distinguished from R. laurentii and R. monbuttorum by its pendulous inflorescence (semi-erect in the other two) and very robust and thick flowering branches, generally more than 1 cm in diameter. R. zamiana is very common along roadsides in Gabon but has been only rarely collected (probably because of its difficult access). Despite its broad ecological amplitude, molecular studies confirm that it is indeed a single species (unpublished results). B: Mogue et al. (2018). Bibliography
 
 ## Notes
 

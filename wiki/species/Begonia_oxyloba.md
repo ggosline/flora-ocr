@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 120 cm de hauteur, glabre à parsemée de poils glanduleux minuscules. Stipules caduques, étroitement ovales, 7–33 × 3–10 mm, acuminées-aiguës, marge entière. Feuille : pétiole de 2–22(–28) cm ; limbe oblique, à contour largement ovale, 7,5–25(–28) × 4–20(–24) cm, profondément cordé à la base, 3–5 palmatilobé à lobes inégaux, aigus et denticulés, vert ou souvent pourpre en dessous . Inflorescence comprenant 2–15(–31) fleurs ; pédoncule 5–26(–31) mm, rameaux primaires 2–12(–16) mm ; bractées ovales à largement ovales, 7–14 × 3–8 mm, acuminées au sommet. Fleur ♂ : pédicelle de 3–19 mm, éparsement pubérulent ; tépales 2, parfois 4, les internes réduits, ovales à très largement ovales, 5–14 × 3–16 mm ; androcée faiblement zygomorphe, étamines (7–)15–25(–35). Fleur ♀ : pédicelle atteignant 12 mm ; tépales comme la fleur ♂, mais 3–13 mm de diamètre ; ovaire 5–18 × 2–7 mm ; styles 3(–5), bifide, plage stigmatique en forme de fer à cheval, les extrémités spiralées autour des branches. Fruit : à pédicelle de 4–28 mm, 15–45 × 5–21 mm, glabre, à 3 ou 6 côtes saillantes, couronné par le périanthe persistant.
+Plant reaching 120 cm in height, glabrous to scattered with minute glandular hairs. Stipules caducous, narrowly ovate, 7–33 × 3–10 mm, acuminate-acute, margin entire. Leaf: petiole 2–22(–28) cm; lamina oblique, broadly ovate in outline, 7.5–25(–28) × 4–20(–24) cm, deeply cordate at base, 3–5 palmatilobed with unequal, acute and denticulate lobes, green or often purple beneath. Inflorescence comprising 2–15(–31) flowers; peduncle 5–26(–31) mm, primary branches 2–12(–16) mm; bracts ovate to broadly ovate, 7–14 × 3–8 mm, acuminate at apex. Male flower: pedicel 3–19 mm, sparsely puberulent; tepals 2, sometimes 4, the inner ones reduced, ovate to very broadly ovate, 5–14 × 3–16 mm; androecium weakly zygomorphic, stamens (7–)15–25(–35). Female flower: pedicel reaching 12 mm; tepals as in male flower, but 3–13 mm in diameter; ovary 5–18 × 2–7 mm; styles 3(–5), bifid, stigmatic area horseshoe-shaped, the ends spiralled around the branches. Fruit: with pedicel 4–28 mm, 15–45 × 5–21 mm, glabrous, with 3 or 6 prominent ridges, crowned by the persistent perianth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Libéria, Côte d’Ivoire, Ghana, Togo, Nigéria, Cameroun, Bioko, Gabon, Congo (Brazzaville), République Démocratique du Congo, Angola, Rwanda, Burundi, Ouganda, Kenya, Tanzanie, Malawi, Mozambique et Madagascar ; rare au Gabon, jusqu’à présent connue seulement de trois localités
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Bioko, Gabon, Congo (Brazzaville), Democratic Republic of the Congo, Angola, Rwanda, Burundi, Uganda, Kenya, Tanzania, Malawi, Mozambique and Madagascar; rare in Gabon, until now known only from three localities
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses primaires ou secondaires ; de préférence en stations humides au bord des ruisseaux ; au Gabon surtout sur des sols calcaires ; parfois saxicole sur rocailles, rarement épiphyte sur troncs d’arbres ; entre 180 m et 2300 m d’altitude. B : Klazenga, de Wilde & Quené (1994), Plana & al. (2006), Wilczek IBLIOGRAPHIE (1969a). Stigmate (× 6). – 12. Ovaire et coupes transversales diverses (A, B, C) montrant schématiquement différents types de soudure des carpelles. – 13. Ovaire, coupe transversale médiane et placentation (× 5). – 14. Fruit (× 1). (1-8 : de Wilde c.s. (WALK-B) 744. – 9-14 : de Wilde 8650 ) . Dessin par I KE Z , Herbier National des Pays-Bas – Wageningen branche. EWALD
+dense primary or secondary forests; preferably in humid stations at the edge of streams; in Gabon mainly on calcareous soils; sometimes saxicolous on rocky outcrops, rarely epiphytic on tree trunks; between 180 m and 2300 m altitude. B: Klazenga, de Wilde & Quené (1994), Plana & al. (2006), Wilczek BIBLIOGRAPHY (1969a). Stigma (× 6). – 12. Ovary and various transverse sections (A, B, C) showing schematically different types of carpel fusion. – 13. Ovary, median transverse section and placentation (× 5). – 14. Fruit (× 1). (1-8: de Wilde c.s. (WALK-B) 744. – 9-14: de Wilde 8650). Drawing by IKE Z, National Herbarium of the Netherlands – Wageningen branch. EWALD
 
 ## Notes
 

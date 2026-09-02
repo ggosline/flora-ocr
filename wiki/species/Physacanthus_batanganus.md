@@ -24,23 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Ruellia batangana J. Braun et K. Schum., Mitt. deutsch. Schutzgeb. 2:173 (1889).
 
 ≡ Lankesteria batangana (J. Braun et K. Schum.) Lindau, Engl. et Prantl, Natürl. Pflanzenf. IV 3B : 311 (1895).
 
 ≡ Haselhoffia batangana (J. Braun et K. Schum.) Lindau, Bot. Jahrb. 43 : 352 (1909).
 
-≡ Haselhoffia cylindrica (C. B. Clarke) Lindau, Bot. Jahrb. 43 : 352 (3 août 1909), pro maiore parte : 3 spécimens de Mann 1669, et 1670, du Gabon.
+≡ Haselhoffia cylindrica (C. B. Clarke) Lindau, Bot. Jahrb. 43 : 352 (3 August 1909), pro maiore parte : 3 specimens from Mann 1669, and 1670, from Gabon.
 
-Plante herbacée, pubescente, de 15-40 (80) cm de haut, dressée ou couchée à la base, rampante et ascendante; tige subquadrangulaire, parfois un peu ligneuse à la base, très densément pubescente au sommet, mais glabrescente vers la base. Pétioles de 5-30 mm de long, densément pubescents. Feuilles supérieures rapprochées de l'inflorescence et ± subsessiles; limbe de 5-20 × 2-7,5 cm, elliptique, aigu à la base et acuminé au sommet. 7-12 paires de nervures latérales anastomosées à une distance de 1-3 mm des bords; face supérieure du limbe vert, ± foncé, quelquefois vert clair; face inférieure violet ± foncé; l'intensité de ces couleurs, comme la pilosité est fort vraisemblablement due à une influence écologique (lumière, humidité, etc...); les feuilles sont quelquefois marbrées de blanc en dessus, et veinées de violet, surtout en dessous si la face inférieure du limbe n'est pas d'un violet foncé; le limbe est pubescent de façon variable sur les deux faces; bords subentiers, ondulés, parfois obtusément denté.
+Herbaceous plant, pubescent, 15-40 (80) cm tall, erect or decumbent at the base, trailing and ascending; stem subquadrangular, sometimes slightly woody at the base, very densely pubescent at the apex, but glabrescent towards the base. Petioles 5-30 mm long, densely pubescent. Upper leaves approximated to the inflorescence and ± subsessile; blade 5-20 × 2-7.5 cm, elliptic, acute at the base and acuminate at the apex. 7-12 pairs of lateral veins anastomosing at a distance of 1-3 mm from the margins; upper surface of blade green, ± dark, sometimes light green; lower surface violet ± dark; the intensity of these colours, as well as the hairiness, is most likely due to an ecological influence (light, humidity, etc.); the leaves are sometimes marbled with white above, and veined with violet, especially below if the lower surface of the blade is not dark violet; the blade is pubescent variably on both surfaces; margins subentire, undulate, sometimes obtusely dentate.
 
-Fleurs terminales, par (1) 2-9 disposées en pseudo-fascicules ou racèmes, subsessiles ou pédonculées; pédoncule et pédicelle de (2) 3-8 mm; bractées lancéolées, acuminées, de 5 × 1,5 mm très poilues et ciliées. Calice de 2-4 cm de long, renflé, de 5-10 (12) mm de diamètre; sépales lancéolées, accrescents pendant la -floraison et la fructification, triplinerves, soudés longitudinalement en une
+Flowers terminal, arranged by (1) 2-9 in pseudo-fascicles or racemes, subsessile or pedicellate; peduncle and pedicel (2) 3-8 mm; bracts lanceolate, acuminate, 5 × 1.5 mm, very hairy and ciliate. Calyx 2-4 cm long, swollen, 5-10 (12) mm in diameter; sepals lanceolate, accrescent during flowering and fruiting, triplinerved, united longitudinally in a sort of tube; the free apices of the sepals form triangular teeth 2.5-6 mm long; pluricellular hairs, 0.5-2 mm along the veins, at the margins and at the center; very fine and short hairs between the veins and in small glabescent forms; the calyx is pale green or ± violet-garnet. Corolla white, or pale violet with the throat white and a white basal spot on the lower lobe; corolla tube, 4-5 cm long, cylindrical, approximately 1.5-2 mm in diameter, pubescent; limb reaching 1.5-2.3 cm in diameter at anthesis; lobes obovate, rounded, 6-8 mm in diameter. Stamens with very short filament (less than 1 mm) and subsessile anthers; anthers approximately 1 mm long, with a barbed connective; staminode approximately 3 mm, pubescent. Ovary glabrous; style reaching the base of the anthers, slightly pubescent in the upper part; stigma entire, oblique.
 
-sorte de tube; les sommets libres des sépales forment des dents triangulaires de 2,5-6 mm de long; poils pluricellulaires, de 0,5-2 mm le long des nervures, aux bords et au centre; poils très fins et courts entre les nervures et chez les formes petites glabrescentes; le calice est vert pâle ou ± violacé-grenat. Corolle blanche, ou violet pâle avec le cœur blanc et une tache basilaire blanche au lobe inférieur; tube de la corolle, de 4-5 cm de long, cylindrique, d'environ 1,5-2 mm de diamètre, pubescent; limbe atteignant 1,5-2,3 cm de diamètre à l'anthèse; lobes obovales, arrondis, de 6-8 mm de diamètre. Étamines à filet très court (moins de 1 mm) et anthères subsessiles; anthères d'environ 1 mm de long, à connectif barbelé; staminode d'environ 3 mm, pubescent. Ovaire glabre; style atteignant la base des anthères, un peu pubescent dans la partie supérieure; stigmate entier oblique.
-
-Capsule glabre, cylindrique, de 20-25 mm de long; environ 14 graines. Graines obliquement lenticulaires, de 1,5 × 1 × 0,3 mm brunes, finement tuberculées sur les deux faces, à tubercules blanc crème.
+Capsule glabrous, cylindrical, 20-25 mm long; approximately 14 seeds. Seeds obliquely lenticular, 1.5 × 1 × 0.3 mm, brown, finely tuberculate on both surfaces, with cream-white tubercles.
 
 ## Type
 
@@ -48,15 +44,11 @@ J. Braun 24, Batanga (B, holotype détruit)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côté-d'Ivoire, Nigeria, Cameroun, Gabon et Congo.
+Liberia, Côte d'Ivoire, Nigeria, Cameroon, Gabon and Congo.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-— Cette espèce est assez variable en ce qui concerne les dimensions des parties végétatives et surtout du calice. Chez beaucoup de spécimens d'Afrique occidentale, le calice ne dépasse pas la longueur de 2 cm. Des exemplaires grands et bien développés du Cameroun et du Gabon ont été décrits sous les noms suivants : Ruellia batangana, Haselhoffia leucophthalma et Physacanthus lucernarius. Ph. inflatus est un nom illégitime et superflu de C. B. Clarke, qui embrassait les synonymes premier, second et quatrième de la liste ci-dessus. Des spécimens à calices moins développés de 2 cm de longueur au plus (Mann 1670, et trois spécimens de Mann 1669, mélangés à quatre autres spécimens du même numéro) appartiennent à une espèce bien différente mais non encore reconnue à l'époque de la rédaction de la Flora of Tropical Africa : Haselhoffia nematosiphon (1909); ces spécimens ont été décrits sous le nom de Ph. cylindricus en 1899. Mais ce dernier nom, basé sur des éléments hétérogènes, constitue un « nomen ambiguum » qu'il faut abandonner bien qu'il désigne, en partie, une espèce nouvelle lors de la date de sa publication
+— This species is quite variable with respect to the dimensions of the vegetative parts and especially of the calyx. In many specimens from West Africa, the calyx does not exceed a length of 2 cm. Large and well-developed specimens from Cameroon and Gabon were described under the following names: Ruellia batangana, Haselhoffia leucophthalma and Physacanthus lucernarius. Ph. inflatus is an illegitimate and superfluous name of C. B. Clarke, which encompassed the first, second and fourth synonyms from the list above. Specimens with less developed calyces of 2 cm in length at most (Mann 1670, and three specimens of Mann 1669, mixed with four other specimens of the same number) belong to a well-differentiated species but not yet recognized at the time of the writing of the Flora of Tropical Africa: Haselhoffia nematosiphon (1909); these specimens were described under the name of Ph. cylindricus in 1899. But this latter name, based on heterogeneous elements, constitutes a "nomen ambiguum" that must be abandoned although it designates, in part, a new species at the date of its publication.
 
 ## Specimens examined
 

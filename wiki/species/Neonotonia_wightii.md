@@ -23,7 +23,7 @@ Slender herb with twining stem up to 5 m long; plant glabrescent to densely silk
 
 ## Distribution
 
-widely distributed in the tropics; in Gabon, in the Estuary and Ngounié
+widely distributed in the tropics; in Gabon, in the Estuaire and Ngounié
 
 ## Ecology
 

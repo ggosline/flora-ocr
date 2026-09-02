@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree, branching, reaching 10 m. Stipules broad, ovate or subtruncate, 3–6 mm long, with thin margin lacking glands, rapidly caducous. Petiole glabrous, 8–23 mm. Blade discolorous, subcoriaceous, entirely glabrous including the domatia on the lower surface, 4–16 × 1.5–6 cm; base attenuate acute; apex subacute or briefly acuminate. 5–7 pairs of secondary nerves inconspicuous; tertiary nerves not apparent.
 
-Arbrisseau ou petit arbre rameux atteignant 10 m. Stipules larges, ovées ou subtronquées, longues de 3-6 mm, à marge mince dépourvue de glandes, rapidement caduques. Pétiole glabre de 8-23 mm. Limbe discolore subcoriace, entièrement glabre y compris les domaties de la face inférieure, de 4-16 × 1,5-6 cm; base atténuée aiguë; sommet subaigu ou brièvement acuminé. 5-7 paires de nervures secondaires peu apparentes; nervilles non apparentes.
+Inflorescences erect, about ten centimeters long, sometimes ramified at the base, pedunculate for 2–4 cm; large bracts with petiole 2.5–5 cm and blade 4.5–7 × 2–3 cm. The small linear bracts are relatively long. Rachis, pedicels and ovaries puberulent. Calyx lobes narrow and oblong, slightly puberulent, 1–2 mm long. Corolla pinkish, c. 6 × 3 mm, with very short triangular lobes. Style long.
 
-Inflorescences dressées d'une dizaine de centimètres, parfois ramiﬁées à la base, pédonculées sur 2-4 cm; grandes bractées à pétiole de 2,5-5 cm et limbe de 4,5-7 × 2-3 cm. Les petites bractées linéaires sont relativement longues. Rachis, pédicelles et ovaires pubérulents. Lobes calycinaux étroits et oblongs un peu pubérulents, de 1 à 2 mm de long. Corolle rosée d'env. 6 × 3 mm, à très courts lobes triangulaires. Style long.
-
-Fruit de 11-18 mm, à pédicelle de 6-10 mm; valves brunâtres lenticellées. Graines ochracées de  $ 10 \times 1.5 $ mm, à extrémités aliformes étroites.
+Fruit 11–18 mm, with pedicel 6–10 mm; valves brownish, lenticellate. Seeds ochraceous, 10 × 1.5 mm, with narrow alate extremities.
 
 ## Type
 
@@ -31,11 +29,9 @@ Barter 1999 (P! ex K), île du Prince
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant of rocks and exposed summits.
 
-Plante de rochers et sommets découverts.
-
-S Nigeria, Fernando-Po, Cameroun et Gabon.
+S Nigeria, Fernando-Po, Cameroon and Gabon.
 
 ## Specimens examined
 

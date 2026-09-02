@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Polystachya bituberculata Kraenzl., Bot. Jahrb. Syst. 28 : 165 (1900).
 
-Pseudobulbes de 1,5-2,5 × 0,5 cm, coniques. Feuilles 3-8 (-15) × 0,4-2,5 cm, blancéolées. Inflorescence 4,5-12 cm, 10-25-flore. Fleurs
+Pseudobulbs 1.5–2.5 × 0.5 cm, conical. Leaves 3–8 (–15) × 0.4–2.5 cm, lanceolate. Inflorescence 4.5–12 cm, 10–25-flowered. Flowers
 
-$ ^{*} $ Nature du type signalée différemment par erreur dans FCAM.
+$ ^{*} $ Nature of type reported differently by error in FCAM.
 
-blanc-verdâtre ou crème, rayées de brun-violet, d'odeur agréable. Sépale dorsal ové-triangulaire, longuement apiculé. Sépales latéraux obliquement triangulaires longuement apiculés. Labelle nettement trilobé dans le tiers apical, mince, frêle, sans callus, partie basale obtriangulaire à semi-arrondie ; lobe médian oblong-ové, apiculé ; lobes latéraux triangulaires-ovés, arrondis, éparsement ciliés sur la face interne. Éperon sacciforme. – Pl. 130, p. 297.
+whitish-greenish or cream, striped with brown-violet, pleasantly scented. Dorsal sepal ovate-triangular, long-apiculate. Lateral sepals obliquely triangular, long-apiculate. Lip distinctly three-lobed in the apical third, thin, delicate, without callus, basal part obtrapezoidal to semi-rounded; midlobe oblong-ovate, apiculate; lateral lobes triangular-ovate, rounded, sparsely ciliate on the inner face. Spur saccate. – Pl. 130, p. 297.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Gabon, Congo, Zaïre
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Congo, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic in humid dense lowland and mid-altitude forest
 
-épiphyte en forêt dense humide de basse et moyenne altitude
+MATERIAL STUDIED (Map 58):
 
-MATÉRIEL ÉTUDIÉ (Carte 58) :
+Le Testu 1023, between Mayumba and Yéhibanga (fl. Apr.), P!.
 
-Le Testu 1023, entre Mayumba et Yéhibanga (fl. Avr.), P!.
+Mann 1884; Corisco Bay (Aug. 1862), K, W-R!.
 
-Mann 1884 ; Baie Corisco (Aout 1862), K, W-R!.
-
-Schönmaker 42, Ogooué-Maritime, Rabi-Kounga, près de Rabi 56, Rig Sedeco Forex, environ 1° 56' S, 9° 52' E, épiphyte (fl. Oct.), WAG!.
+Schönmaker 42, Ogooué-Maritime, Rabi-Kounga, near Rabi 56, Rig Sedeco Forex, approximately 1° 56' S, 9° 52' E, epiphytic (fl. Oct.), WAG!.
 
 Thollon s.n., s.loc., P!.
 

@@ -20,17 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Branches slender, terete. Stipules deciduous. Leaves shortly petiolate, elliptic, acute at base, acuminate, glabrous on both surfaces. Secondary nerves 7-8 on either side; reticulum clear. Flowers solitary, peduncle 5-18 mm long, with three pairs of bracteoles. Calyx tube 6 mm long, puberulous outside, pilose-glandulous inside, 5-costate at apex; lobes 5, subulate, 4 mm long, puberulous. Corolla funnel-shaped, 15-16 cm long, densely griseo-pubescent, throat campanulate, glabrous inside, 24 mm long, with 5 elliptic lobes. Anthers included, linear, medifixed, with puberulous connective. Disc short. Style glabrous. Stigma slightly exserted, slightly thickened, with 2 recurved lobes. Ovary bilocular with complete septum. Placentae oblong, narrowed, ovules immersed.
 
-Rami graciles teretes. Stipulae deciduae. Folia breviter petiolata, elliptica basi acuta, acuminata, utraque pagina glabra. Nervi secundarii utrinque 7-8; reticulum clarum. Flores solitarii pedunculo 5-18mm longo, ter bibracteolato. Tubus calycis 6 mm longus, extra puberulus, intus piloso-glandulosus, apice 5-costulatus; lobi 5 subulati 4 mm longi puberuli. Corolla infundibuliformis 15-16 cm longa, dense griseo-pubescens, fauce campanulata intus glabra 24 mm longa, lobis 5 ellipticus. Antherae inclusae lineares medifixae con nectivo
+This species is very close to R. longiflora Salisb. but is distinguished from it by its more slender internodes, by its limbs sometimes larger, 8-20 × 6-9.5 cm, of a lighter olive-green when dry, of a thinner chartaceous texture with a reticule of venules clearly apparent on both surfaces. 7-8 pairs of secondary nerves. Domatia pilose.
 
-puberulo. Discus brevis. Stylus glaber. Stigma exsertum paulum incrassatum lobis 2 recurvis. Ovarium biloculatum septo completo. Placentæ oblongae augustatae, ovulis immersis.
+The flower differs by its costa te calyx ± pubescent and by its lobes 2 to 4 mm long. The anthers are more distinctly pubescent on the margins of the connective and at its extremities. The recurved lobes of the stigma are distinctive.
 
-Cette espèce est très voisine de R. longiflora Salisb. mais elle s'en distingue par ses entrenœuds plus grêles, par ses limbes parfois plus grands de 8-20 × 6-9,5 cm, d'un vert olive plus clair à sec, d'une texture chartacée plus mince à réticule de nervilles bien apparent sur les deux faces. 7-8 paires de nervures secondaires. Domaties pileuses.
-
-La fleur diffère par son calice costulé ± pubescent et par ses lobes longs de 2 à 4 mm. Les anthères sont plus nettement pubescentes sur les marges du connectif et à ses extrémités. Les lobes récurvés du stigmate sont particuliers.
-
-Fruit (Soyaux 269) globoïde, de 35 mm de diamètre, brun et faiblement nervuré à sec, à paroi mince. Graine sublenticulaire d'environ 5 mm.
+Fruit (Soyaux 269) globoid, 35 mm in diameter, brown and weakly nerved when dry, with thin wall. Seed sublen ticular, approximately 5 mm.
 
 ## Type
 
@@ -38,15 +34,13 @@ Jolly 5 (P), env. de Libreville (fl. mai 1891)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+OTHER MATERIAL EXAMINED:
 
-AUTRE MATÉRIEL ÉTUDIÉ :
+H. Lecomte: C-50, Niounvoux, Kouilou region (fl. 14 Jan. 1894).
 
-H. Lecomte : C-50, Niounvoux, région du Kouilou (fl. 14 janv. 1894).
+G. Le Testu 5211, Mouila-Kembélé (fl. Feb.) (P ex BM).
 
-G. Le Testu 5211, Mouila-Kembélé (fl. fév.) (P ex BM).
-
-H. Soyaux 269, Loango, Tonde-forest near Chinchoxo (fr. mars) (K).
+H. Soyaux 269, Loango, Tonde-forest near Chinchoxo (fr. Mar.) (K).
 
 ## Notes
 

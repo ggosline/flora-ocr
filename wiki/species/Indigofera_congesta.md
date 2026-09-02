@@ -20,7 +20,7 @@ in Oliv., Fl. trop. Afr. 2 : 70 (1871). Perennial herb, 0.15–1 m tall; stems n
 
 ## Distribution
 
-West tropical Africa, Democratic Republic of the Congo, Angola, Uganda and Tanzania; in Gabon, known from the Middle Ogooué and Nyanga
+West tropical Africa, Democratic Republic of the Congo, Angola, Uganda and Tanzania; in Gabon, known from the Moyen-Ogooué and Nyanga
 
 ## Ecology
 

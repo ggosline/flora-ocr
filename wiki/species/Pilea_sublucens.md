@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in DC., Prodr. 16(1): 130 (1869). P. preussii Engl., Bot. Jahrb. Syst. 33: 123 (1902). P. chevalieri Schnell, Rev. Gén. Bot. 57: 280 (1950). Herb probably always perennial, up to ± 40 cm tall, almost glabrous, with weakly branched, slender stolons; stem prostrate to ascending, translucent and turgescent; spike -
 
-in DC., Prodr . 16(1) : 130 (1869). P. preussii Engl., Bot. Jahrb. Syst . 33 : 123 (1902). P. chevalieri Schnell, Rev. Gén. Bot . 57 : 280 (1950). Herbe probablement toujours pérenne, jusqu’à ± 40 cm de hauteur, presque glabre, à stolons faiblement ramifiés, grêles ; tige prostrée à ascendante, translucide et turgescente ; épi -
+64 Ib FRIIS Letouzey 8158; 9: Schnell 952; 10: Mann 630). Drawing by Hélène Lamourdedieu, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Letouzey (1968).
 
-64 Ib FRIIS Letouzey 8158 ; 9 : Schnell 952 ; 10 : Mann 630 ). Dessin de H é l è ne Lamourdedieu, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de Letouzey (1968).
-
-Pouzolzia 65 derme à quelques glandes rougeâtres dispersées et des cystolithes linéaires . Stipules large ment triangulaires, mais peu marquées, 0,6–0,8 mm de longueur. Feuilles d’une paire subé gales à fortement inégales, parfois une feuille atteignant seulement la moitié de l’autre en taille et à pétiole beaucoup plus court ; pétiole 0,4–5 cm, glabre ou avec quelques poils disposés en une touffe à l’insertion du limbe ; limbe ovale à lancéolé ou étroitement elliptique, 1 , 2–8(– 9) × 0 , 6–3,5(–4 , 7) cm , base arrondie, sommet aigu ou généralement acuminé, marge serrée, avec 12 à 20 dents de chaque côté , chaque dent avec la marge distale convexe ou en S et la proximale concave, finement cartacé à turgescent, vert sombre, face supérieure glabre, avec des cystolithes dispersés, face inférieure glabre avec des hydatodes dispersés ; paire basale des nervures latérales atteignant la 2 ou la 3 dent apicale avant de se courber et de rejoindre e e les nervures latérales supérieures ou atteignant rarement l’acumen, nombreuses nervures laté rales au-dessus des basales, mais se résolvant dans les deux tiers inférieurs du limbe en un réseau tertiaire dense. Inflorescence unisexuée, en panicule ± lâche, 0,6–6 cm de longueur, avec quelques branches alternes et les fleurs disposées en petits glomérules cymeux ± dif fus ; inflorescence mâle à pédoncule de 0,8–1,3 cm, glomérules généralement peu nombreux, jusqu’à 6 mm de diamètre ; inflorescence femelle plus ramifiée que les mâles, glomérules 2–3 mm de diamètre. Fleur mâle : pédicelle 0,6–1 mm ; périanthe 4-mère, ± 1 mm de diamètre, tépales avec un appendice subapical. Fleur femelle : pédicelle ± 0,5 mm ; périanthe ± 1 mm de longueur, le lobe médian mutique, les latéraux moitié moins larges que longs ; ovaire égalant ± le lobe médian du périanthe. Fruit ovoïde, comprimé latéralement, 1–1,5 mm de longueur, brun.
+Pouzolzia 65 dermis with a few scattered reddish glands and linear cystoliths. Stipules broadly triangular, but inconspicuous, 0.6–0.8 mm long. Leaves of a pair subequal to strongly unequal, sometimes one leaf reaching only half the size of the other and with much shorter petiole; petiole 0.4–5 cm, glabrous or with a few hairs arranged in a tuft at the insertion of the blade; blade ovate to lanceolate or narrowly elliptic, 1.2–8(–9) × 0.6–3.5(–4.7) cm, base rounded, apex acute or generally acuminate, margin serrate, with 12 to 20 teeth on each side, each tooth with the distal margin convex or S-shaped and the proximal margin concave, finely cartilaginous to turgescent, dark green, upper surface glabrous, with scattered cystoliths, lower surface glabrous with scattered hydatodes; basal pair of lateral veins reaching the 2nd or 3rd apical tooth before curving and joining the upper lateral veins or rarely reaching the acumen, numerous lateral veins above the basal ones, but resolving in the lower two-thirds of the blade into a dense tertiary network. Inflorescence unisexual, in ± lax panicle, 0.6–6 cm long, with a few alternate branches and flowers arranged in small ± diffuse cymose glomérules; male inflorescence with peduncle 0.8–1.3 cm, glomérules generally few, up to 6 mm in diameter; female inflorescence more branched than the males, glomérules 2–3 mm in diameter. Male flower: pedicel 0.6–1 mm; perianth 4-merous, ± 1 mm in diameter, tepals with a subapical appendage. Female flower: pedicel ± 0.5 mm; perianth ± 1 mm long, the median lobe muticous, the lateral ones half as wide as long; ovary equalling ± the median lobe of the perianth. Fruit ovoid, laterally compressed, 1–1.5 mm long, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée, du Libéria et de la Côte d’Ivoire, à travers le Nigéria, le Cameroun, la Guinée équatoriale (Bioko), jusque à l’est de la République démocratique du Congo, au Rwanda et en Ouganda, au sud jusqu’au Gabon ; au Gabon, pas commun mais connu de la Ngounié, de la Nyanga, de l’OgoouéIvindo et du Woleu-Ntem
+from Guinea, Liberia and Côte d'Ivoire, across Nigeria, Cameroon, Equatorial Guinea (Bioko), to the east of the Democratic Republic of the Congo, Rwanda and Uganda, south to Gabon; in Gabon, not common but known from Ngounié, Nyanga, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt humide de basse et moyenne altitude, souvent à la base des troncs ou sur des affleu rements rocheux forestiers, avec des espèces d’ Impatiens et de Begonia, à 50–800 m d’altitude, ailleurs jusqu’à 1500(–1900) m
+in humid lowland and mid-altitude forest, often at the base of trunks or on forest rocky outcrops, with species of Impatiens and Begonia, at 50–800 m altitude, elsewhere up to 1500(–1900) m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Letouzey (1968) distingua les spécimens à limbe elliptique (plus large au milieu) sous Pilea chevalieri et ceux à limbe ovale sous P. sublucens . Le présent auteur considère qu’il est impossible de maintenir cette distinction et traite alors P. chevalieri comme synonyme de P. sublucens
+Letouzey (1968) distinguished specimens with an elliptic blade (widest in the middle) under Pilea chevalieri and those with an ovate blade under P. sublucens. The present author considers it impossible to maintain this distinction and treats P. chevalieri as a synonym of P. sublucens.
 
 ## Vernacular names
 

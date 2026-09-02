@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 LAM., III. I : 173 (?) (1791). — F.T.A., IX : 726 (1920). — SPRENG. Syst. I : 321 (1828). — KUNTH., RÉV. Gram. II, t. 114 (1829).
 
-Herbe pérenne; chaumes florifères dressés au dessus des touffes jusqu'à 30 cm de haut environ, très minces, ramifiés, glabres. Feuilles glabres à gaines plus courtes que les entre-nœuds. Nervures du limbe tessellées.
+Perennial herb; fertile culms erect above the tufts up to approximately 30 cm tall, very slender, branched, glabrous. Leaves glabrous with sheaths shorter than the internodes. Blade venation tessellate.
 
-Panicules ramifiées au  $ 3^{\text{e}} $ degré. Épillets elliptiques, glume inférieure à 3 nervures, moitié aussi longue que l'épillet, la supérieure aussi longue que l'épillet, à 5 nervures. Fleur inférieure neutre. Fleur supérieure à glumelles coriaces, blanches, lisses.
+Panicles branched at the $ 3^{\text{rd}} $ degree. Spikelets elliptic, lower glume with 3 nerves, half as long as the spikelet, the upper as long as the spikelet, with 5 nerves. Lower floret neuter. Upper floret with coriaceous, white, smooth lemmas and paleas.
 
-Afrique tropicale, Madagascar et Amérique tropicale du Sud, souvent en peuplements dans les zones inondables sableuses. Sans grand intérêt économique.
+Tropical Africa, Madagascar and tropical South America, often in stands in sandy flooded zones. Of little economic interest.
 
 ## Specimens examined
 

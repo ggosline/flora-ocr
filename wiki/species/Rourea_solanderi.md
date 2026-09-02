@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-JONGKIND, in BRETELER (éd.), AUWP 89 (6): 355 (1989). TYPE : Sierra Leone, s.l., Afzelius s.n. (holo-BM).
+JONGKIND, in BRETELER (ed.), AUWP 89 (6): 355 (1989). TYPE: Sierra Leone, s.l., Afzelius s.n. (holo-BM).
 
 – Spiropetalum solanderi (BAK.) GILG, EBJ 23: 214 (1896); SCHELLENBERG, PR 103 (4, 127): 104 (1938).
 
@@ -29,19 +27,19 @@ JONGKIND, in BRETELER (éd.), AUWP 89 (6): 355 (1989). TYPE : Sierra Leone, s.l.
 
 – Spiropetalum odoratum GILG, EBJ 14: 336 (1891); SCHELLENBERG, l.c.: 105 (1938);
 
-- Spiropetalum odoratum GILG, EBJ 14: 336 (1891); SCHELLENBERG, I.C.: 1925, TROUPIN, FCBR 3: 127 (1952); EXELL & MENDONÇA, CFA 2: 144 (1954). TYPE: Gabon, Sibange Farm, près de Libreville, Soyaux 249 (holo-B delet.; lecto-P).
+- Spiropetalum odoratum GILG, EBJ 14: 336 (1891); SCHELLENBERG, l.c.: 1925, TROUPIN, FCBR 3: 127 (1952); EXELL & MENDONÇA, CFA 2: 144 (1954). TYPE: Gabon, Sibange Farm, near Libreville, Soyaux 249 (holo-B delet.; lecto-P).
 
-Arbuste à liane de grande taille. Rameaux glabres, cylindriques ou cannelés ; jeunes rameaux tomenteux ou glabres.
+Shrub to large liana. Branches glabrous, cylindric or grooved; young branches tomentose or glabrous.
 
-Feuilles. Pétiole long de 1-13 cm, rachis de 0-15 cm, glabres ou tomenteux, parfois avec quelques poils glandulaires ; pétioules longs de 2-5 mm ; foliolules 1-9, ovées à elliptiques, cartacées à coriaces, glabres à tomenteuses, souvent avec de nombreuses cellules muqueuses à la face supérieure ayant l'aspect de petites ponctuations en herbier ; sommet aigu à acuminé, mucroné ; sur les feuilles en développement, l'extrémité mucronée est déjà complètement achevée alors que le reste en est encore au tout début de sa croissance ; foliole terminale 2-18 × 3-9 cm, les latérales 1,5-18 × 1-8 cm, presque symétriques.
+Leaves. Petiole 1-13 cm long, rachis 0-15 cm, glabrous or tomentose, sometimes with a few glandular hairs; petiolules 2-5 mm long; leaflets 1-9, ovate to elliptic, chartaceous to coriaceous, glabrous to tomentose, often with numerous mucilage cells on the upper surface appearing as small punctations when dried; apex acute to acuminate, mucronate; on developing leaves, the mucronate apex is already completely formed while the rest is still in the early stages of growth; terminal leaflet 2-18 × 3-9 cm, the lateral ones 1.5-18 × 1-8 cm, nearly symmetric.
 
-Inflorescences longues de ≤7 cm, pubérulentes à tomenteuses. Sépales partiellement réunis, certains d'entre eux aux 3/4 connés, ≈ 2,5 × ≈ 5 mm (plus larges que longs), veloutés sur les deux faces. Pétales 10-24 - 1,5-3 mm, en forme de lanière, souvent connivent à la base, pliés vers l'intérieur dans le bouton. Étamines, les grandes longues de 2-7,5 mm, les courtes 1,5-4,5 mm. Pistil long de 1,3-4,5 mm ; style avec poils rares ou très nombreux ; ovaire pubescent.
+Inflorescences ≤7 cm long, puberulent to tomentose. Sepals partially united, some of them 3/4 connate, ≈ 2.5 × ≈ 5 mm (wider than long), velvety on both faces. Petals 10-24 - 1.5-3 mm, strap-shaped, often connivent at the base, folded inward in bud. Stamens, the long ones 2-7.5 mm long, the short ones 1.5-4.5 mm. Pistil 1.3-4.5 mm long; style with sparse or very numerous hairs; ovary pubescent.
 
-Fruits : follicules 1-3 par fleur, rarement davantage, 20-35 × 10-25 mm, souvent avec un bec, veloutés et parfois aussi avec un peu de poils glanduleux. Partie libre des sépales sous le fruit avec de petits poils glanduleux.
+Fruits: follicles 1-3 per flower, rarely more, 20-35 × 10-25 mm, often with a beak, velvety and sometimes also with some glandular hairs. Free part of sepals beneath the fruit with small glandular hairs.
 
-Graine à testa pour 1/4 charnu, le reste étant mince noir et luisant.
+Seed with testa 1/4 fleshy, the rest thin, black and shiny.
 
-Germination hypogée ; premières feuilles souvent réduites à des écailles ou avortées. - Pl. 42, p. 131.
+Hypogeal germination; first leaves often reduced to scales or aborted. - Pl. 42, p. 131.
 
 ## Type
 
@@ -49,15 +47,11 @@ Afzelius s.n., s.l., Sierra Leone
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et centrale
+West and Central Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-des forêts ombrophiles jusqu'aux savanes et aux zones littorales marines ; altitude 0-650 m
+from ombrophilous forests to savannas and marine coastal zones; altitude 0-650 m
 
 ## Specimens examined
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, syn. nov. P. delpyanus Hutch. in Dyer, Fl. trop. Afr. 6(1) : 1047 (1913), syn. nov. P. klainei Hutch. in Dyer, Fl. trop. Afr. 6(1) : 1048 (1913), syn. nov. Arbuste , probablement parfois sarmenteux, jusqu’à 2 m de hauteur ou arbre jusqu’à 27 m de hauteur et 60 cm de diamètre, glabre. Stipules étroitement triangulaires, 1–3 mm de longueur. Feuille : pétiole 1,5–4 mm ; limbe ovale à lancéolé ou elliptique (1–)4–7,5(–9) × (0,5–)2,5–5 cm, tronqué à arrondi à la base, obtus à aigu au sommet, souvent glauque à la face inférieure, à (3–)4–7 paires de nervures latérales. Fleurs dioïques. Fleurs mâles en glomérules compacts sur des ramilles souvent ± aphylles ; pédicelle (1–)2–4 mm ; sépales 4–5, ovales, 1–1,5 mm de longueur ; disque formé d’éléments alternisépales ; étamines 4–5, 0,2–0,5 mm de longueur, à filets soudés à la base. Fleur femelle ± solitaire sur des ramilles souvent feuillées ; pédicelle (1–)3–10 mm ; sépales 4–5, 1–1,5 mm de longueur, ± coriaces ; disque annulaire ; ovaire lisse ; styles 3–4(–5), bifides. Fruit indéhiscent, globuleux à 3–5-lobé, ± 15–20 mm de diamètre, charnu , rougeâtre. Graines subglobuleuses, 5–7 mm de longueur, brun clair, lisses.
+, syn. nov. P. delpyanus Hutch. in Dyer, Fl. trop. Afr. 6(1) : 1047 (1913), syn. nov. P. klainei Hutch. in Dyer, Fl. trop. Afr. 6(1) : 1048 (1913), syn. nov. Shrub, probably sometimes scandent, up to 2 m tall or tree up to 27 m tall and 60 cm in diameter, glabrous. Stipules narrowly triangular, 1–3 mm long. Leaf: petiole 1.5–4 mm; lamina ovate to lanceolate or elliptic (1–)4–7.5(–9) × (0.5–)2.5–5 cm, truncate to rounded at base, obtuse to acute at apex, often glaucous on lower surface, with (3–)4–7 pairs of lateral veins. Flowers dioecious. Male flowers in compact glomerules on twigs often ± leafless; pedicel (1–)2–4 mm; sepals 4–5, ovate, 1–1.5 mm long; disc formed of elements alternating with sepals; stamens 4–5, 0.2–0.5 mm long, with filaments fused at base. Female flower ± solitary on twigs often leafy; pedicel (1–)3–10 mm; sepals 4–5, 1–1.5 mm long, ± coriaceous; disc annular; ovary smooth; styles 3–4(–5), bifid. Fruit indehiscent, globose to 3–5-lobed, ± 15–20 mm in diameter, fleshy, reddish. Seeds subglobose, 5–7 mm long, light brown, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce répandue du Cameroun, Sao-Tomé et Principe et Gabon vers l’Afrique de l’Est, Mozambique, Zambie et Angola ; au Gabon, récoltée dans toutes les provinces, sauf dans le Haut-Ogooué et le Moyen-Ogooué
+Species widespread from Cameroon, São Tomé and Príncipe and Gabon towards East Africa, Mozambique, Zambia and Angola; in Gabon, collected in all provinces except in the Haut-Ogooué and Moyen-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Primary and secondarised forest, coastal shrubby vegetation; in Gabon, at 0–900 m elevation. Taxonomic note: P. delpyanus was treated as a species distinct from P. polyanthus by Brunel (1987) and Smith (1987), but placed in synonymy with the latter by Radcliffe-Smith in 1996. Here, this complex, with P. klainei, is placed for the first time in synonymy with P. physocarpus. b: Brunel (1987), Radcliffe-Smith (1996a, 1996b), Smith (1987). ibliography
 
-forêt primaire et secondarisée, végétation arbustive côtière ; au Gabon, à 0–900 m d’altitude. Note taxonomique : P. delpyanus fut traitée comme espèce distincte de P . polyanthus par Brunel (1987) et Smith (1987), mais placé en synonymie de la dernière par RadcliffeSmith en 1996. Ici, cet ensemble, avec P. klainei , est mis pour la première fois en syno nyme de P. physocarpus . b : Brunel (1987), Radcliffe-Smith (1996a, 1996b), Smith (1987). ibliographie
-
-Fruit. (A ‒ E : Mcpherson 16148 ; F : Wieringa et al . 5107 ; G : Mayombo et al . 1642 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+Fruit. (A ‒ E : Mcpherson 16148 ; F : Wieringa et al . 5107 ; G : Mayombo et al . 1642 ). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

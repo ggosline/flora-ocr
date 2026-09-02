@@ -16,27 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Énum. pl. Laurent : 26 (1903). Palmier cespiteux avec 4 à 6 stipes de 2–7 m, jusqu’à 20 cm de diamètre, couverts de vieilles gaines foliaires et de fibres droites et pointues . Feuilles 8 à 10 ; gaine ± 1 m de longueur ; pétiole 4 m ; rachis 3–4 m, armés d’épines sur la face supérieure ; limbe comprenant 150 à 180 paires de folioles à disposition irrégulière, groupées par deux, linéaires, de 120–150 × 3–6 cm. Inflorescences (3–)4, semi-érigées puis recourbées vers le bas en fruit , 1–2 m de longueur ; rachis ± 1,5 m ; 10 à 15 rameaux florifères d’ordre 1, de 40–43 cm de longueur, 40 à 44 d’ordre 2, digitées , 16–21 cm de longueur, 7–9 mm de diamètre, à bractées florales étroitement serrées formant des anneaux, de longueur plus ou moins égale le long de l’axe et perpendiculaires aux rameaux florifères de premier ordre . Fleur mâle : corolle à lobes de ± 10 × 2–3 mm ; étamines 10 à 12. Fleur femelle : non observée. Fruit ovoïde à ellipsoïde , 5–6 × 3–4 cm, sommet très légèrement rostré, avec 11 ou 12 rangs d’écailles, orange à brun foncé. Graine ellipsoïde, 3,5 cm de diamètre.
+Enum. pl. Laurent: 26 (1903). Cespitose palm with 4 to 6 stems 2–7 m tall, up to 20 cm in diameter, covered with old leaf sheaths and straight and pointed fibres. Leaves 8 to 10; sheath ± 1 m long; petiole 4 m; rachis 3–4 m, armed with spines on the upper surface; blade comprising 150 to 180 pairs of leaflets in irregular arrangement, grouped in pairs, linear, 120–150 × 3–6 cm. Inflorescences (3–)4, semi-erect then curved downward in fruit, 1–2 m long; rachis ± 1.5 m; 10 to 15 primary flowering branches, 40–43 cm long, 40 to 44 secondary branches, digitate, 16–21 cm long, 7–9 mm in diameter, with floral bracts tightly packed forming rings, of more or less equal length along the axis and perpendicular to the primary flowering branches. Male flower: corolla with lobes ± 10 × 2–3 mm; stamens 10 to 12. Female flower: not observed. Fruit ovoid to ellipsoid, 5–6 × 3–4 cm, apex very slightly rostrate, with 11 or 12 rows of scales, orange to dark brown. Seed ellipsoid, 3.5 cm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République démocratique du Congo et Angola ; au Gabon, connu de l’OgoouéIvindo. Statut de conservation : Préoccupation mineure (LC)
+Gabon, Democratic Republic of the Congo and Angola; in Gabon, known from the Ogooué-Ivindo. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En colonies presque monospéficiques dans des milieux marécageux, inondés, ou périodique ment inondés ; au Gabon à ± 450 m d’altitude, ailleurs jusqu’à 600 m
+In almost monospecific colonies in swampy, inundated, or periodically inundated habitats; in Gabon at ± 450 m altitude, elsewhere up to 600 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-R. laurentii et R. monbuttorum partagent le caractère de l’inflorescence qui n’est pas totalement tombante comme chez R. hookeri et R. textilis , ni érigée comme chez R. regalis , mais plutôt semi-érigée, d’abord érigée puis arquée vers le bas. De plus, R. laurentii et R. monbuttorum (avec R. zamiana ) ont une structure de l’inflorescence partielle qui est dite « raphiacée », c’est-à-dire avec des rameaux florifères du second ordre (les derniers) ± de même longueur sur toute la longueur de l’axe et généralement perpendi culaires aux rameaux florifères du 1 er ordre. Chez R. hookeri , les rameaux florifères du second ordre sont plus longs en position basale qu’en position sommitale et dirigés vers le sommet. R. laurentii est facile à identifier grâce à ses fibres droites et pointues, ses inflorescences semi-érigées et surtout les bractées sur les rameaux florifères du second ordre qui sont très rapprochées entre elles, for mant des anneaux compressés. Á ce jour, cette espèce n’est connue au Gabon que d’une récolte. Bi : Stauffer et al. (2014), Tuley (1995). B liographie
+R. laurentii and R. monbuttorum share the character of an inflorescence that is neither completely pendulous as in R. hookeri and R. textilis, nor erect as in R. regalis, but rather semi-erect, initially erect then arched downward. Moreover, R. laurentii and R. monbuttorum (with R. zamiana) have a partial inflorescence structure that is said to be "raphiaceous," that is with secondary flowering branches (the terminal ones) ± of the same length along the entire length of the axis and generally perpendicular to the primary flowering branches. In R. hookeri, the secondary flowering branches are longer in basal position than in apical position and directed toward the apex. R. laurentii is easy to identify thanks to its straight and pointed fibres, its semi-erect inflorescences and especially the bracts on the secondary flowering branches that are very closely packed together, forming compressed rings. To date, this species is known from Gabon only from a single collection. Bibl.: Stauffer et al. (2014), Tuley (1995). Bibliography
 
 ## Notes
 

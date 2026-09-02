@@ -23,7 +23,7 @@ at the base, rounded to obtuse at the apex, dense, pubescent with pale brownish 
 
 ## Distribution
 
-Tropical and southern Africa including: Nigeria, Cameroon, Gabon, Central African Republic and Democratic Republic of the Congo; in Gabon: Upper Ogooué. Conservation status: Widely distributed and cultivated; probably Least Concern (LC)
+Tropical and southern Africa including: Nigeria, Cameroon, Gabon, Central African Republic and Democratic Republic of the Congo; in Gabon: Haut-Ogooué. Conservation status: Widely distributed and cultivated; probably Least Concern (LC)
 
 ## Ecology
 

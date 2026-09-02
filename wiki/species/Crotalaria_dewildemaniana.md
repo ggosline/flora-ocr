@@ -21,7 +21,7 @@ Herb 1–3 m tall; stem erect, branched, furrowed when young, subcylindrical, wi
 
 ## Distribution
 
-Cameroon, Gabon, East Democratic Republic of the Congo, Rwanda, Burundi, Uganda and Tanzania; in Gabon, known from the Estuary
+Cameroon, Gabon, East Democratic Republic of the Congo, Rwanda, Burundi, Uganda and Tanzania; in Gabon, known from the Estuaire
 
 ## Ecology
 

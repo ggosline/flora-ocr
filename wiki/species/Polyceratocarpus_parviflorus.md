@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+.— Pellegrin, Bull. Soc. Bot. Fr., Mem. 31: 68 (1950).— Keay, F.W.T.A., ed. 2, 1, I: 45 (1954).— Aubreville, F.F.C.I., ed. 2, I: 142 (1959).— Keay et al., Nigerian trees I: 53 (1960).— Paiva, Mem. Soc. Brot. 19: 52 (1966).
 
-.— Pellegrin,Bull. Soc.Bot.Fr., Mem.31 : 68 (195o).—Keay,F.W.T.A.,ed. 2,1,I :45 (1954).—Aubreville,F.F.C.I.,ed. 2,I : 142 (1959).- Keay et al., Nigerian trees I : 53 (1960).— Paiva,Mem.Soc.Brot.I9 :52 (1966).
+Small tree or shrub reaching 10–12 m in height, with a straight trunk and fibrous, weakly aromatic bark; branches glabrous, branchlets puberulent. Leaves with a short petiole; lamina obovate-oblong, 9–23 cm long, 3–10 cm wide, attenuate to rounded at the base, acuminate at the apex; upper surface glabrous, lower surface glaucous scattered with appressed hairs, especially on the nerves. Midrib impressed above, prominent below. Lateral nerves 9–11 pairs, obliquely ascending, united in arches near the margin; nervules parallel, scarcely apparent.
 
-Petit arbre ou arbuste atteignant 1o-I2 m de hauteur, ä fut droit,écorce fibreuse,faiblement aromatique;rameaux glabres, ramilles pubérulentes. Feuilles â pétiole court;limbe obové- oblong,long de 9-23 cm, large de 3-1o cm,atténué â arrondi a la base,acuminé au sommet; face supérieure glabre,face inférieure glauque parsemée de poils apprimés, surtout sur les nervures. Nervure médiane imprimée au-dessus, saillante en dessous. Nervures latérales 9-II paires,obliques ascendantes réunies en arceaux pres de la marge; nervilles paralleles peu apparentes.
+Flowers cream-coloured, axillary, solitary; pedicel thick, 6 mm long. Sepals reddish-brown, broadly ovate, 1.5 mm long, 2 mm wide, united at the base, tomentose on the outside. Outer petals ovate, 10 mm long, 6 mm wide; inner petals somewhat smaller, obovate, 7.5 mm long, 4 mm wide, concave, contiguous at the apex, narrowed at the base, tomentellous on the outside. Receptacle subglobose. Stamens very numerous forming a cone, the smallest (2 mm) at the base, the largest (6 mm) at the apex; thecae linear extrorse, connectives dilated and truncate above the anthers. Carpels 2–4, approximately 3 mm long, ovaries cylindric, densely pubescent, stigmas pulvinate, united together and exceeding the stamens. Ovules numerous on two rows.
 
-Fleurs de couleur creme,et ,axillaires, solitaires; pédicelle épais, long de 6 mm. Sépales brun roux, largement ovés, longs de 1,5 mm,larges de 2 mm,soudés a la base, tomenteux á l'extérieur. Pétales externes ovés, longs de Io mm, larges de 6 mm; pétales internes,un peu plus petits, oboves,longs de 7,5 mm, larges de 4 mm,concaves,contigus au sommet, rétrécis a la base, tomentelleux ä I'extérieur. Réceptacle subglobuleux. Etamines tres nombreuses formant un cone,les plus petites (2 mm)ä la base,les plus grandes (6 mm) au sommet;theques linéaires extrorses,connectifs dilatés et tronqués au-dessus des antheres. Carpelles 2-4,longs de 3 mm environ,ovaires cylindriques, densément pubescents, stigmates pulvines, soudés entre eux et dépassant les étamines. Ovules nombreux sur deux rangs.
-
-Fruits á pcdicclle épais,long de 1,2-1,5 cm, ^ sépales persistants;méricarpes oranges ä maturité,cylindriques,atteignant 4 cm de longueur et 1,5 cm de largeur,± contractés entre les graines,marqués d'une ligne suturale noire,glabres.Graines brunes,aplaties,longues de 1 cm environ,larges de o,5 cm.
+Fruits on a thick pedicel, 1.2–1.5 cm long, with persistent sepals; mericarps orange at maturity, cylindric, reaching 4 cm in length and 1.5 cm in width, ± contracted between the seeds, marked with a black sutural line, glabrous. Seeds brown, flattened, approximately 1 cm long, 0.5 cm wide.
 
 ## Type
 
@@ -37,11 +35,9 @@ Talbot 16o7, Oban, Nigeria du Sud (holotype BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small shrub of the understory of the dense humid forests of French Guinea, Liberia, Côte d'Ivoire, Ghana, southern Nigeria, Cameroon and Gabon.
 
-Petit arbuste de sous-bois des foréts denses humides de Guinée frangaise,Liberia,Cote d'Ivoire,Ghana,Nigeria du Sud, Cameroun et Gabon.
-
-Tres affine de P. angustifolius Paiva, espece d'Angola, connue par un seul spécimen, elle n'en différe semble-t-il que par des caractéres d'ordre quantitatif.Un matériel plus abondant de la région du Mayombc au Gabon et en Angola,permettrait peutétre de réunir ces deux especes.
+Very closely related to P. angustifolius Paiva, a species from Angola, known from only a single specimen, from which it apparently differs only in characters of a quantitative nature. More abundant material from the Mayombe region in Gabon and Angola would perhaps allow these two species to be united.
 
 ## Specimens examined
 

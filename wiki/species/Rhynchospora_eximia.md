@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, up to 65 cm tall, with fibrous roots, with one or a few leafy stems; stem 15–40 cm × 0.7–1.2 mm, glabrous, triangular to cylindrical, grooved. Basal leaves without or with a short blade; sheath brownish near the base, green higher up; blade of increasing length upwards, flat, acuminate, glabrous or scabrous along the margins near the apex, the largest 10–25 cm × 2–5 mm. Inflorescence in (1–)2(–3) corymbs emerging from each of the upper sheaths; each corymb with 5–25 pedicellate spikelets or more rarely sessile; bracts at the base of the corymb, foliaceous, but with successively shorter sheaths. Spikelet ovoid to lanceolate–ellipsoid, 6–10 × 2.4–3.5 mm, brown, with numerous flowers, on long and rather robust pedicels, 1–3 per branch; glumes ovate, 4–4.5 × 1.6–2.5 mm, glabrous, brown with a keel with a nerve terminated by a short mucro. Flower: perianth absent; stamens 2; style with 2 long branches. Achene obovoid to orbicular, 1–1.5 mm in width, greyish, strongly ridged transversely or wrinkled; base of style whitish grey, crowning the apex and the "shoulders" of the achene; apex of the pedicel 0.1–0.3 mm long.
 
-Herbe annuelle , haute de 65 cm au plus, à racines fibreuses, avec une ou quelques tiges feuillées ; tige 15–40 cm × 0,7–1,2 mm, glabre, triangulaire à cylindrique, cannelée. Feuilles basales sans ou avec un limbe court ; gaine brunâtre près de la base, verte plus haut ; limbe de longueur croissante vers le haut, plan, acuminé, glabre ou scabre le long des marges près du sommet, les plus grands de 10–25 cm × 2–5 mm. Inflorescence en (1–)2(–3) corymbes émergeant de chacune des gaines supérieures ; chaque corymbe avec 5–25 épillets pétiolés ou plus rarement sessiles ; bractées à la base du corymbe, foliacées, mais avec des gaines successivement plus courtes. Épillet ovoïde à lancéolé–ellipsoïde, 6–10 × 2,4–3,5 mm, brun, à nombreuses fleurs , sur des pédoncules longs et plutôt
-
-B. Base du limbe et orifice de la gaine. – C. Partie subquadrata . A. Plante. – B. Base du limbe et orifice de l’inflorescence. – D. Épillet. – E. Glume. – F. de la gaine. – C. Sommet du limbe. – D. Partie de Style. – G. Fruit. Dessin original par Richard W. l’inflorescence. – E. Base d’un pédoncule. – F. Haines ©. Épillet. – G. Épillet sans les 5 écailles inférieures. – H. Fleur. – I. Fruit. Dessin original par Richard W. Haines ©. robustes, à 1–3 par rameau ; glumes ovales, 4–4, 5 × 1,6–2,5 mm, glabres, brunes avec une carène à nervure terminée par un mucron court. Fleur : périanthe absent ; étamines 2 ; style à 2 longues branches. Akène obovoïde à orbiculaire, 1–1,5 mm de largeur, grisâtre, fortement ridé transversalement ou rugueux ; base du style blanc grisâtre, coiffant le sommet et les « épaules » de l’akène ; sommet du pédicelle long de 0,1– 0,3 mm.
+A. Plant. – B. Base of blade and opening of the sheath. – C. Subquadrate part. – D. Spikelet. – E. Glume. – F. Style. – G. Fruit. Original drawing by Richard W. Haines ©. Spikelet. – G. Spikelet without the 5 lower scales. – H. Flower. – I. Fruit. Original drawing by Richard W. Haines ©.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue en Afrique tropicale occidentale, du Sénégal à la République Centrafricaine, Gabon et Malawi ; également en Amérique tropicale, du Mexique au Brésil ; très rare ou méconnue au Gabon, trouvée seulement dans l’Ogooué-Ivindo et l’Ogooué-Maritime (2 récoltes)
+very widespread in tropical western Africa, from Senegal to the Central African Republic, Gabon and Malawi; also in tropical America, from Mexico to Brazil; very rare or poorly known in Gabon, found only in Ogooué-Ivindo and Ogooué-Maritime (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais et ruisseaux ou dépressions humides dans les savanes ; au Gabon, à 0–200 m d’altitude, ailleurs jusqu’à 600 m. Note taxonomique : ressemble un peu à R. gracillima , mais a des feuilles planes, larges de 4 mm au plus, un rachis droit, des pédoncules plus robustes, des épillets ayant davantage de fleurs et un akène différent. Elle a un akène similaire à R. perrieri , mais cette espèce a des épillets serrés
+marshes and streams or wet depressions in savannas; in Gabon, at 0–200 m altitude, elsewhere up to 600 m. Taxonomic note: somewhat resembles R. gracillima, but has flat leaves, at most 4 mm wide, a straight rachis, more robust pedicels, spikelets with more flowers and a different achene. It has an achene similar to R. perrieri, but this species has crowded spikelets
 
 a b
 

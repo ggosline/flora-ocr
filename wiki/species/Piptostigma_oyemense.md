@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Not. Syst. 14 : 75 (195o); Bull. Soc.Bot.Fr., Mém.31 : 54 (1949).
 
-Arbuste ou petit arbre de 6-7 m de hauteur et Io cm de diamétre,ä écorce fissurée,glabre,ramilles glabrescentes.Feuilles a pétiole long de 3-5 mm,pubérulent á glabre; limbe papyracé, elliptique, long de I1-25 cm, large de 4-8,5 cm,cunéiforme á la base,longuement acuminé au sommet; face supérieure glabre, face inférieure glabrescente.Nervure médiane imprimée au-dessus, proéminente en dessous;nervures latérales 2o-3o paires obliques ascendantes,saillantes en dessous; nervilles paralleles et régulieres, peu saillantes en dessous.
+Shrub or small tree 6–7 m in height and 10 cm in diameter, with fissured bark, glabrous, branchlets glabrescent. Leaves with petiole 3–5 mm long, puberulent to glabrous; blade papyraceous, elliptic, 11–25 cm long, 4–8.5 cm wide, cuneate at base, long-acuminate at apex; upper face glabrous, lower face glabrescent. Midvein impressed above, prominent below; lateral nerves 20–30 pairs, oblique, ascending, prominent below; veinlets parallel and regular, slightly prominent below.
 
-Fleurs rose saumoné,solitaires ou 2-3 fasciculées, sur les rameaux défeuillés ou sur le tronc; pédicelle long de I-1,5 cm; bractéole linéaire,longue de 2 mm environ,hirsute.Sépales triangulaires aigus, longs de 2-5 mm, larges de 2-4 mm,pubescents ä T'extérieur,glabrcs ä l'intcricur.Pctalcs cxtcrnes dressés, verdatres, longs de 4-18 mm, triangulaires a lancéoles aigus, pubescents ^ I'extérieur; pétales internes roses,lancéoles étroits, aigus au sommet, longs de 4-6 cm,larges de 6-8 mm,a nervures longitudinales bien visibles,rouges sur le vif,pubescents á longs poils apprimés á l'extérieur,tomentelleux laineux ä l'intérieur. Etamines sessiles, theques extrorses,connectifs dilatés et tronques au-dessus des antheres. Carpelles 2-3, ovaires oblongs, velus, stigmates sessiles,capités,densément pubérulents.Ovules 6-8, biseries.
+Flowers salmon-rose, solitary or 2–3 fasciculate, on leafless branches or on the trunk; pedicel 1–1.5 cm long; bracteole linear, about 2 mm long, hirsute. Sepals triangular, acute, 2–5 mm long, 2–4 mm wide, pubescent on the outside, glabrous on the inside. External petals erect, greenish, 4–18 mm long, triangular to acute-lanceolate, pubescent on the outside; internal petals pink, narrow-lanceolate, acute at apex, 4–6 cm long, 6–8 mm wide, with prominent longitudinal nerves, red on the living plant, pubescent with appressed long hairs on the outside, tomentose-woolly on the inside. Stamens sessile, anthers extrorse, connectives dilated and truncate above the anthers. Carpels 2–3, ovaries oblong, hairy, stigmas sessile, capitate, densely puberulent. Ovules 6–8, biseriate.
 
-Fruits â pédicelle long de 1,5 cm environ,sépales persistants;méricarpes ovoides-ellipsoides, sessiles, longs de 4,5 cm, larges de 3,5 cm, rose saumoné sur le vif,muriques-épineux, glabres. Graines 5,réniformes, longues de 1,7 cm,larges de 1,5 cm sur le frais.
+Fruits with pedicel about 1.5 cm long, sepals persistent; mericarps ovoid-ellipsoid, sessile, 4.5 cm long, 3.5 cm wide, salmon-rose on the living plant, muricate-spiny, glabrous. Seeds 5, reniform, 1.7 cm long, 1.5 cm wide on the living plant.
 
 ## Type
 
@@ -33,9 +31,7 @@ Le Testu 9624, Oyem, Gabon,fl. (holotype,P!; isotype, BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espece connue seulement du nord du Gabon,cohabitant avec Piptostigma calophyllum,dans le sous-bois de la foret dense.
+Species known only from northern Gabon, cohabiting with Piptostigma calophyllum, in the understory of dense forest.
 
 ## Specimens examined
 

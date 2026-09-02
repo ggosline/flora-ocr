@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref. — PELLEGR. Sterc. Gab., Mém. S. B. Fr.: 47 (1950-1951).
 
-, réf. orig. — PELLEGR. Sterc. Gab., Mém. S. B. Fr.: 47 (1950-1951).
+Shrub 0.50–1.50 m tall, rarely reaching 2–3 m, with a trunk approximately 1–1.5 cm in diameter. Young shoots moderately pubescent or nearly glabrous. Stipules acute, caducous. Petioles finely pubescent then glabrous, 3–6 mm long. Blade elliptic, 10–28 cm long by 2.5–11.5 cm wide, base generally obtuse, variable from subacute to rounded; apex acuminate. Lower surface of blade appearing glabrous but often bearing scattered micropubescence. Midvein prominent on the upper side of the blade. Lateral veins pinnate, 8–13 pairs including one basal; numerous small third-order veins perpendicular to the midvein. Fine reticulate network, very apparent.
 
-Arbrisseau de 0,50-1,50 m de hauteur, atteignant rarement 2-3 m, à tronc d'env. 1-1,5 cm de diam. Jeunes extrémités médiocrement pubescentes ou presque glabres. Stipules aiguës, caduques. Pétioles finement pubescents puis glabres, de 3-6 mm de long. Limbe elliptique de 10-28 cm de long sur 2,5-11,5 cm de large, à base généralement obtuse, variable de subaiguë à arrondie; sommet acuminé. Face inférieure du limbe paraissant glabre, mais ayant souvent une micropubérulence éparse. Nervure médiane saillante sur le dessus du limbe. Nervures latérales pennées, 8-13 paires dont une basilaire; nombreuses petites nervures de 3° ordre perpendiculares à la médiane. Fin réseau en réticule, très apparent.
+Inflorescences few-flowered (up to 4–6 flowers) on old wood; peduncle more or less bracteolate, 1–15 (20) cm long; bracteoles puberulent, acute, 2–5 mm long. Pedicels 10–30 mm long, finely puberulent, articulate basally at the level of a cluster of bracteoles. Flower purple, garnet or dark violet. 5 lanceolate acute sepals 20–40 mm long by 3–7 mm wide. 5 red-violet petals, puberulent on the outer face, 14–18 mm long, cucullate, apex acute with two more or less acute lateral sinuosities. Collar of the androecium funnel-shaped, pentagonal; margin of the membrane ornamented with two teeth between the stamen bundles. Ovary pubescent with 5 locules each containing approximately 17 biseriate ovules. Style subulate, glabrous. Fruit prismatic, 4–6 cm long, half as wide, 5-carpellate, upper and lower extremities each ornamented with 5 horn-shaped appendages; longitudinal dehiscence, sepals persistent before maturity. Seed puberulent, oblong, with a laciniate and reduced aril.
 
-Inflorescences pauciflores (jusqu'à 4-6 fleurs) sur le vieux bois; pédoncule plus ou moins bractéolé de 1-15 (20) cm de long; bractéoles pubérulentes aiguës de 2-5 mm de long. Pédicelles de 10-30 mm de long, finement pubérulents, articulés basalement au niveau d'un groupe de bractéoles. Fleur pourpre, grenat ou violacé foncé. 5 sépales lancéolés aiguës de 20-40 mm de long sur 3-7 mm de large. 5 pétales rouge violacé, pubérulents sur la face externe, de 14-18 mm de long, eucullés, à sommet aigu avec deux sinuosités latérales plus ou moins aiguës. Collerette de l'androcée en entonnoir pentagonal; bord de la membrane orné de deux dents entre les bouquets staminaux. Ovaire pubescent à 5 loges contenant chacune environ 17 ovules bisériés. Style subulé glabre. Fruit prismatique de 4-6 cm de long, moitié moins large, 5-carpellé, aux extrémités supérieures et inférieures ornées chacune de 5 appendices en forme de corne; déhiscence longitudinale, sépales persistants avant maturité. Graine pubescente oblongue à arille laciniée et réduite.
+Type of the species: Zenker 882 from Cameroon (cotype P.).
 
-Type de l'espèce : Zenker 882 du Cameroun (cotype P.).
-
-Le Sc. macranthum n'est peut-être qu'une forme variétale du Sc. longipedunculatum suivant la supposition de Pellegrin.
+Sc. macranthum is perhaps only a varietal form of Sc. longipedunculatum according to Pellegrin's supposition.
 
 ## Specimens examined
 

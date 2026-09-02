@@ -41,7 +41,7 @@ MATERIAL STUDIED (Map 1):
 
 Breteler 6767, km 55, road Moanda–Franceville (fl., Oct.), WAG! and 6986, 15 km SSE of Pana, 1°51'S, 12°41'E (fl., Oct.), WAG!.
 
-Le Testu 1256, Moumbain, NW marshes of Tayday (fl., Dec.), BM! BR! P! ; 1665, Mayumbe Bayaka forest, Massanga (fl., Nov.), P! ; 7670, Upper Ogooué, savanna at the edge of the Ogooué, Bassegha (fl., Nov.), P!.
+Le Testu 1256, Moumbain, NW marshes of Tayday (fl., Dec.), BM! BR! P! ; 1665, Mayumbe Bayaka forest, Massanga (fl., Nov.), P! ; 7670, Haut-Ogooué, savanna at the edge of the Ogooué, Bassegha (fl., Nov.), P!.
 
 ## Ecology
 

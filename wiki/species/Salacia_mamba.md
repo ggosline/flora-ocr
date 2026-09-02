@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. eleganti Welw. ex Oliv. partibus floralibus affinis. Liana filamentis resinosis, ramulis lenticellatis. Folia elliptica vel angusto-elliptica integra, discoloria. Inflorescentiae perbreviter et minute pedunculatae, pauciflorae. Alabaster globosus ; pedicellum breve. Flos inter minores, flavus pallidus, fere urceolatus, sepalis obtusis ; petalis ovatis paucinervis, disco parvo annulato intus sulcato, antheris acutis apiculatis, rimis dehiscentibus longitudinalibus, loculis demissis abortivis vel uniovulatis. Fructus subglobosus. Semina 1-3, brunneorubra, cotyledonibus haud adherentibus. Incolit in Africa occidentali aequatoriali.
+S. eleganti Welw. ex Oliv. affine to floral parts. Liana with resinous filaments, branchlets lenticellate. Leaves elliptic or narrowly elliptic, entire, discolorous. Inflorescences very shortly and minutely pedunculate, pauciflorous. Bud globose; pedicel short. Flower among the smaller ones, pale yellow, nearly urceolate, with obtuse sepals; petals ovate with few nerves, small annular disk with furrow inside, anthers acute apiculate, with longitudinal dehiscence slits, locules sunken abortive or uniovulate. Fruit subglobose. Seeds 1-3, reddish-brown, cotyledons not adhering. Inhabits equatorial West Africa.
 
 ## Type
 
@@ -26,17 +24,15 @@ Hallé N. 1192, Gabon (holo-, P !). Étymologie : le nom est celui d'un serpent 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous liana 6-20 m high, with rubber filaments; main stem exceeding 1.5 cm in diameter. Narrowest internodes already reddish and rendered scabrous by fine dark lenticels; branches with very fine grooves when dry. Leaves opposite or subopposite. Petiole 4-9(-10) mm. Blade olivaceous discolorous, pale beneath, elliptic to narrowly elliptic, (4)6-15(17) × 1.8-6.7 cm, with acute or sometimes obtuse base, acuminate apex, entire margin sometimes weakly subangular. Secondary veins 6-12 pairs, with veinlets raised on both surfaces when dry.
 
-Liane glabre de 6-20 m de hauteur, à filaments de caoutchouc ; tige principale dépassant 1,5 cm de diamètre. Entre-nœuds les plus étroits déjà roussâtes et rendus scabres par de fines lenticelles foncées ; rameaux avec des cannelures très fines à sec. Feuilles opposées ou subopposées. Pétiole de 4-9(-10) mm. Limbe olivacé discolore, pâle dessous, elliptique à étroitement elliptique, de (4)6-15(17) × 1,8-6,7 cm, à base aiguë ou parfois obtuse, à sommet acuminé, à marge entière parfois faiblement subanguleuse. Nervures secondaires 6-12 paires, avec les nervilles en relief sur les deux faces à sec.
+Inflorescences axillary minute and subsessile, with narrow peduncle 0.5(-1) mm long, bearing a pauciflorous glomule or minute bracteolate pauciflorous branchlets. Bud globose approximately 1.6 mm. Pedicel 1-2 mm. Flower entirely yellow, pale orange-yellow or cream, 1.6-2 mm in diameter and height, opening little. Calyx with approximately equal and obtuse sepals. Petals ovate $ 1.5 \times 1.4 $ mm, with 5 parallel veins. Disk as a mediocre circular or pentagonal ring, 0.9-1 mm in diameter. Stamens inserted in a perigynous groove, with filament 1 mm or less, with acute apiculate anther 0.3-0.6 mm wide, with acute chevron dehiscence slits; pollen yellowish. Ovary below the level of stamen insertion, with 3 abortive or uniovulate locules. Style approximately 1 mm, with shortly but clearly trifid stigma.
 
-Inflorescences axillaires minuscules et subsessiles, à pédoncule étroit de 0,5(-1) mm de longueur, portant un glomérule pauciflore ou de minuscules ramules bractéolées pauciflores. Bouton globuleux d'environ 1,6 mm. Pédicelle de 1-2 mm. Fleur entièrement jaune, jaune orangé pâle ou crème, de 1,6-2 mm de diamètre et de hauteur et s'ouvrant peu. Calice à sépales à peu près égaux et obtus. Pétales ovés de  $ 1,5 \times 1,4 $ mm, à 5 nervures parallèles. Disque en médiocre anneau circulaire ou pentagonal, de 0,9-1 mm de diamètre. Étamines insérées dans un sillon périgyne, à filet de 1 mm ou moins, à anthère apiculée aiguë de 0,3-0,6 mm de largeur, à fentes de déhiscence en chevron aiguë; pollen jaunâtre. Ovaire sous le niveau d'insertion des étamines, à 3 loges avortées ou uniovulées. Style d'environ 1 mm, à stigmate brièvement mais nettement trifide.
+Fruit globose or short and subglobose, appearing laterally compressed if containing only two seeds, with thin smooth pericarp, bright orange at maturity, $ 23-30 \times 28-40 $ mm, containing 1-3 seeds in whitish pulp. Seeds roseate $ 16 \times 13 $ mm with well-separated cotyledons. - Pl. 42, fig. 1-15, p. 147.
 
-Fruit globuleux ou court et subglobuleux, paraissant latéralement comprimé s'il ne contient que deux graines, à péricarpe mince et lisse, orange vif à maturité, de  $ 23-30 \times 28-40 $ mm, contenant 1-3 graines dans une pulpe blanchâtre. Graines rosâtres de  $ 16 \times 13 $ mm à cotylédons bien séparés. - Pl. 42, fig. 1-15, p. 147.
+Cameroon, Gabon and Congo. River margins in dense humid forest.
 
-Cameroun, Gabon et Congo. Bords de rivières en forêt dense humide.
-
-Hallé N. 1192, Makokou, Mission Catholique, ravin boisé, 18.2.1961 (fl., fr.); 1353, Mboundou, 37 km SE Makokou, rivière, 27.2.1961 (fl.). Hladik 2738, Ipassa, 10 km S Makokou, 500 m, 9.4.1975 (fr.).
+Hallé N. 1192, Makokou, Mission Catholique, wooded ravine, 18.2.1961 (fl., fr.); 1353, Mboundou, 37 km SE Makokou, river, 27.2.1961 (fl.). Hladik 2738, Ipassa, 10 km S Makokou, 500 m, 9.4.1975 (fr.).
 
 ## Specimens examined
 

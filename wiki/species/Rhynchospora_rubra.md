@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-non R. africana Cherm. (1931). Herbe grêle, en touffes, annuelle ou rarement vivace avec une base légèrement ligneuse ; tige 15–40 cm × 0,5–1 mm, trigone, glabre. Feuilles basales et 1–2 caulinaires ; gaine verdâtre ; limbe 10–20 cm × 0,7–1,5 mm, scabre sur la marge au moins près de l’apex, beaucoup plus court que la tige. Inflorescence en tête solitaire, hémisphérique, large de 5–12 mm, jaunâtre , entourée de 2–5 bractées involucrales foliacées, dressées ou étalées, à marge ciliée vers la base. Épillet ovale–lancéolé, long de 3–4 mm, à 1–2 fleurs. Fleur : périanthe nu ou avec 3–6 soies scabres et poilues près de la base, plus courtes que l’akène ; étamines 2–3 ; style très long, non ramifié, dépassant de l’épillet, à base pyramidale plus étroite que l’akène. Akène largement obovale, long de 1–1,5 mm, ridé transversalement et scabre au moins près de l’apex.
+non R. africana Cherm. (1931). Slender herb, tufted, annual or rarely perennial with slightly woody base; stem 15–40 cm × 0.5–1 mm, trigonous, glabrous. Basal leaves and 1–2 cauline leaves; sheath greenish; blade 10–20 cm × 0.7–1.5 mm, scabrous on margin at least near apex, much shorter than stem. Inflorescence in solitary head, hemispherical, 5–12 mm wide, yellowish, surrounded by 2–5 foliaceous involucral bracts, erect or spreading, ciliate on margin towards base. Spikelet ovate–lanceolate, 3–4 mm long, with 1–2 flowers. Flower: perianth naked or with 3–6 scabrous bristles and hairy near base, shorter than achene; stamens 2–3; style very long, unbranched, protruding from spikelet, with pyramidal base narrower than achene. Achene broadly obovate, 1–1.5 mm long, wrinkled transversely and scabrous at least near apex.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+scattered in tropical regions of West Africa, Gabon and southeastern Africa; in Gabon, found only in Estuaire, Moyen-Ogooué and Ogooué-Maritime (8 collections)
 
-dispersée dans les régions tropicales de l’Afrique de l’Ouest, au Gabon et en Afrique du sud-est ; au Gabon, trouvée seulement dans l’Estuaire, le Moyen-Ogooué et l’Ogooué-Maritime (8 récoltes)
-
-A. Plante. – B. Base du limbe et orifice de la gaine. Plante. – B, C. Inflorescences. – D. Épillet. – E. – C. Sommet du limbe. – D. Inflorescence. – E, F. Glume. – F. Fleur. – G. Fruit avec segments du Épillet. – G. Partie fertile d’un épillet. – H. Fruit. périanthe et 3 filets. Dessin original par Richard W. Dessin original par Richard W. Haines ©. Haines ©.
+A. Plant. – B. Base of blade and sheath opening. Plant. – B, C. Inflorescences. – D. Spikelet. – E. – C. Apex of blade. – D. Inflorescence. – E, F. Glume. – F. Flower. – G. Fruit with segments of Spikelet. – G. Fertile part of a spikelet. – H. Fruit. perianth and 3 filaments. Original drawing by Richard W. Original drawing by Richard W. Haines ©. Haines ©.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marécages d’eau douce ou saumâtre ou prairies ; au Gabon, à 0–50 m d’altitude, ailleurs jusqu’à 100 m. Note taxonomique : se reconnaît facilement à son port grêle, son inflorescence solitaire hémisphérique et son long style non ramifié. La sous-espèce type pousse en Asie. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Raynal (1967, 1971), Robinson (1961a)
+freshwater or brackish marshes or grasslands; in Gabon, at 0–50 m altitude, elsewhere up to 100 m. Taxonomic note: easily recognized by its slender habit, solitary hemispherical inflorescence and long unbranched style. The typical subspecies grows in Asia. b: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Raynal (1967, 1971), Robinson (1961a)
 
 ## Notes
 

@@ -21,7 +21,7 @@ Plate 14 (8-9) Sp. pl.: 511 (1753). N. leucantha Peter, Abh. Ges. Wiss. Götting
 
 ## Distribution
 
-Widely recorded in tropical Africa, from Senegal to Egypt, Angola and Madagascar, also known from Southeast Asia and cultivated in the United States and South America. In Gabon, fairly common species, found in the Estuary, Woleu-Ntem, Ogooué-Ivindo and Ogooué-Maritime, between 0 and 200 m altitude, elsewhere up to 1200 m.
+Widely recorded in tropical Africa, from Senegal to Egypt, Angola and Madagascar, also known from Southeast Asia and cultivated in the United States and South America. In Gabon, fairly common species, found in the Estuaire, Woleu-Ntem, Ogooué-Ivindo and Ogooué-Maritime, between 0 and 200 m altitude, elsewhere up to 1200 m.
 
 ## Ecology
 

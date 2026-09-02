@@ -21,7 +21,7 @@ A. lujae De Wild. & T.Durand, Ann. Mus. Congo belge, Bot., sér. 2, 1(1) : 63 (1
 
 ## Distribution
 
-Senegal, Guinea, Guinea-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Equatorial Guinea (Bioko and Río Muni), Democratic Republic of São Tomé and Príncipe, Gabon, Republic of the Congo, Chad, Central African Republic, Democratic Republic of the Congo, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Angola and Zambia; very common in Gabon, present in the Estuary, Middle Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
+Senegal, Guinea, Guinea-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Equatorial Guinea (Bioko and Río Muni), Democratic Republic of São Tomé and Príncipe, Gabon, Republic of the Congo, Chad, Central African Republic, Democratic Republic of the Congo, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Angola and Zambia; very common in Gabon, present in the Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 

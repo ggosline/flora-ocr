@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pflanzenw. Afr. 3 (1) : 303 (1915); DALZ., US. Pl. W. Trop. Afr. : 168 (1937); AUBR., FFSG : 202, cart. 17 (1950); ANDREWS, FLOW. Pl. Anglo-Egypt. Sudan 2 : 106, tab. 42 (1952); KEAY, FWTA, ed. 2, 1 (2) : 429, tab. 141 (1958); AUBR., FFCI, ed. 2, 1 : 180, tab. 53 (1959); GRAHAM, FTEA, Rosacee : 49 (1960); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 318 (1960); TAYLOR, Synec. Silv. Ghana : 284, tab. 88 (1960); IRVINE, Woody Pl. Ghana : 264, tab. 61 (1961); WHITE, For. Fl. North. Rhod. : 70 (1962); VOORHOEVE, Lib. For. Trees : 314, tab. 60, phot. 28 (1965); ADAM, Mém. Mus. Nat. Hist. Nat. Paris, Bot. 22, Fl. descr. Monts Nimba : 538, tab. 200 (1971); WHITE, BJBB 46 : 333 (1976).
+Pflanzenw. Afr. 3 (1) : 303 (1915); DALZ., US. Pl. W. Trop. Afr. : 168 (1937); AUBR., FFSG : 202, cart. 17 (1950); ANDREWS, FLOW. Pl. Anglo-Egypt. Sudan 2 : 106, tab. 42 (1952); KEAY, FWTA, ed. 2, 1 (2) : 429, tab. 141 (1958); AUBR., FFCI, ed. 2, 1 : 180, tab. 53 (1959); GRAHAM, FTEA, Rosaceae : 49 (1960); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 318 (1960); TAYLOR, Synec. Silv. Ghana : 284, tab. 88 (1960); IRVINE, Woody Pl. Ghana : 264, tab. 61 (1961); WHITE, For. Fl. North. Rhod. : 70 (1962); VOORHOEVE, Lib. For. Trees : 314, tab. 60, phot. 28 (1965); ADAM, Mém. Mus. Nat. Hist. Nat. Paris, Bot. 22, Fl. descr. Monts Nimba : 538, tab. 200 (1971); WHITE, BJBB 46 : 333 (1976).
 
 — P. holstii Engl., Pflanzenw. Ost.-Afr. B : 298 (1895).
 
@@ -53,21 +51,17 @@ Pflanzenw. Afr. 3 (1) : 303 (1915); DALZ., US. Pl. W. Trop. Afr. : 168 (1937); A
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Not P. brachystachya auct. non Benth. : Prance, Fl. Neotr. 9 : 185 (1972)
 
-Non P. brachystachya auct. non Benth. : Prance, Fl. Neotr. 9 : 185 (1972)
+Large tree attaining 25–30 (–50) m total height and 100–120 (–150) cm diameter above 5–6 buttresses rising to 2–4 m high and spreading 1–2 m on the ground, with straight or slightly concave profile, thick to 10 cm. Rhytidome pale gray-yellowish ± mossy, with granulate lenticellate surface, exfoliating in irregular scales about ten centimeters across. Bole straight or sinuous, sometimes slightly grooved above the base, 8 to 20 m long, branching into thick ± erect or spreading and tortuous branches, dividing rapidly into small leafy twigs. Crown hemispherical and extensive with foliage of tawny-golden hue occupying 75% of the crown surface.
 
-Grand arbre atteignant 25-30 (-50) m de hauteur totale et 100-120 (-150) cm de diamètre au-dessus de 5-6 contreforts s'élevant à 2-4 m de hauteur et s'écartant à 1-2 m sur le sol, à profil droit ou un peu concave, épais de 10 cm. Rhytidome gris clair jaunâtre ± moussu, à surface lenticellée granuleuse, s'exfoliant en écailles irrégulières d'une dizaine de centimètres. Fût droit ou sinueux, parfois un peu cannelé au-dessus de la base, de 8 à 20 m de longueur, se ramifiant en grosses branches ± dressées ou
+Young plants (H 50 cm) with curved very leafy stem, with golden apex, bearing persistent elongate tapering stipules (10–15 mm) and distichous oblong acute leaves (2 × 9 cm), with rounded to subcordate base, ± 30 pairs of lateral veins perpendicular to the midvein, upper surface glossy green and lower surface grayish-whitish.
 
-étalées et tortueuses, se divisant rapidement en petits rameaux feuillés. Cime hémisphérique étendue avec feuillage de teinte fauve doré occupant 75 % de la surface de la cime.
+For mature trees, young twigs, petiole and underside of midvein initially covered with golden pubescence of ascending hairs, then glabrescent. Petiole 4–6(–8) mm bearing, at or slightly below the middle, 2 circular brown glands, fairly large and fairly close together, flat. Blade coriaceous, elliptic (3.5–5 × 7–10 cm) to elliptic-oblong (3 × 10 cm), but sometimes smaller (2.5 × 5 cm) and often variable in size on the same branch; base cuneate or rounded, small hydatodes ± visible near margin below, apex acute to broadly acute ± abruptly acuminate (acumen up to 1 cm long), approximately 20–25 pairs of lateral veins; surface glabrous above, below initially with dense golden tomentum then veins and veinlets glabrous with golden then grayish tomentum in the crypts between veins and veinlets.
 
-Jeunes plants (H 50 cm) à tige courbée très feuillée, avec extrémité dorée, garnie de stipules persistantes allongées effilées (10-15 mm) et de feuilles distiques oblongues acuminées (2 × 9 cm), avec base arrondie à subcordée, ± 30 paires de nervures latérales perpendiculaires à la nervure médiane, dessus vert luisant et dessous grisâtre-blanchâtre.
+Inflorescences, often very abundant on the crown, in leafy terminal panicles, rarely reaching 20 cm height, densely flowered and fairly compact, covered with a dense yellowish-golden pubescence of silky ascending hairs, extending to the apex of the sepals. Bracts and bracteoles ovate, glabrous within, tardily caducous. Pedicel 1–1.5 mm long; receptacle 3–3.5 mm high, gibbous at base and distinctly campanulate, with descending internal pubescence localized on the receptacle margin; sepals 2–2.5(–3) mm high; petals white tinged pink, obovate-oblanceolate, 2–2.5(–5) mm high; 7–8 fertile stamens, staminodes ± acicular.
 
-Pour les arbres adultes, jeunes rameaux, pétiole et dessous de la nervure médiane garnis d'abord d'une pubescence dorée de poils ascendants, puis glabrescents. Pétiole 4-6(-8) mm garni, vers le milieu ou un peu plus bas, de 2 glandes circulaires brunes, assez grosses et assez rapprochées, planes. Limbe coriace, elliptique (3,5-5 × 7-10 cm) à elliptique-oblong (3 × 10 cm), mais parfois de plus petite taille (2,5 × 5 cm) et souvent de taille variable sur une même branche; base cunéiforme ou arrondie, petits hydatodes ± visibles près de la marge dessous, sommet aigu à largement aigu ± abruptement acuminé (acumen jusqu'à 1 cm de longueur), environ 20-25 paires de nervures latérales; surface glabre dessus, dessous avec d'abord dense feutrage doré puis nervures et nervilles glabres avec feutrage doré puis grisâtre dans les cryptes entre nervures et nervilles.
-
-Inflorescences, souvent très abondantes sur la cime, en panicules terminales feuillées, atteignant rarement 20 cm de hauteur, densément fleuries et assez resserrées, couvertes d'une compacte pubescence jaunâtre dorée de poils soyeux ascendants, jusqu'à l'extrémité des sépales. Bractées et bractéoles ovales, glabres intérieurement, tardivement caduques. Pédicelle long de 1-1,5 mm; réceptacle haut de 3-3,5 mm, gibbeux à la base et nettement campanulé, avec pubescence interne descendante localisée sur le bord du réceptacle; sépales hauts de 2-2,5(-3) mm; pétales blanc teinté de rose, obovales-oblancéolés, hauts de 2-2,5(-5) mm; 7-8 étamines fertiles, staminodes ± aciculaires.
-
-Drupes ± sphériques, 3-4 × 5-6 cm, vertes puis jaunes, puis brun rouge atte avec macules subérifiées; mésocarpe charnu, jaunâtre, devenant blet et très odorant à maturité. — PL. 39, p. 131.
+Drupes ± spherical, 3–4 × 5–6 cm, green then yellow, then reddish-brown with suberified macules; mesocarp fleshy, yellowish, becoming overripe and very fragrant at maturity. — PL. 39, p. 131.
 
 ## Type
 
@@ -75,29 +69,21 @@ Don s.n., Sierra Leone (holo-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1) The distinction sometimes made between the specific or subspecific taxa excelsa and holstii, based on indumentum consistency, as well as on flower size, cannot be accepted, considering the variations observed throughout the range in similar specimens collected together; these variations are found in Cameroon and Gabon, despite the small number of specimens collected.
 
-1) La distinction parfois établie entre les taxons spécifiques ou subspécifiques excelsa et holstii, basée sur des consistance d'indumentum, ainsi que sur la taille des fleurs, ne peut être admise, compte tenu des variations constatées dans toute l'aire des échantillons similaires rassemblés; ces variations se retrouvent au Cameroun et au Gabon, malgré le faible nombre de spécimens récoltés.
+2) This species approaches in most of its morphological characters Parinari curatellifolia Pl. ex Benth., but habit, bark, growth and ecology isolate these two species which remain autonomous, it seems, when their distribution ranges overlap.
 
-2) Cette espèce se rapproche par la plupart de ses caractères morphologiques de Parinari curatellifolia Pl. ex Benth. mais port, écorce, croissance et écologie isolent ces
+3) Parinari excelsa Sab., a large forest tree with acuminate leaf, differs rather readily from P. congensis Didr., a small tree of watercourse margins with broadly acute leaf, from P. curatellifolia Pl. ex Benth., a small savanna tree with rounded or emarginate leaf, and finally from P. hypochrysea (Mildbr.) R. Let. & F. White, another large forest tree, more humid, with cordate leaf base.
 
-deux espèces qui restent autonomes semble-t-il lorsque leurs aires de distribution chevauchent.
+4) PRANCE (Fl. Neotr. 9 : 185, 1972) considers that this species is found in South America, corresponding in particular to Parinari brachystachya Benth., an hypothesis already advanced by BENTHAM (FTA 2 : 367, 1871). This view cannot be accepted because American fruits are always stipitate, unlike African fruits where this character is only very rarely and slightly sketched.
 
-3) Parinari excelsa Sab., grand arbre de forêt à feuille acuminée, se différencie assez aisément de P. congensis Didr., petit arbre de bord des cours d'eau à feuille largement aiguë, de P. curatellifolia Pl. ex Benth., petit arbre de savane à feuille arrondie ou émarginée, enfin de P. hypochrysea (Mildbr.) R. Let. & F. White, autre grand arbre de forêt, plus humide, à feuille cordée à la base.
+Parinari excelsa Sab. is found, sometimes locally abundant, in all humid dense forests between Senegal and Sudan to the North, Mozambique and Angola to the South, often with a certain preference for relatively dry forests, especially in the southern hemisphere. It is moreover absent from the most humid forests where only an apparently similar species remains, P. hypochrysea Mildbr. ex R. Let. & F. White; it is thus practically unknown in Cameroon in the region situated north of Mount Cameroon to Mamfe and even along the Atlantic coast behind Kribi. It thus appears, in Cameroon, more frequent in semi-deciduous forest with Sterculiaceae and Ulmaceae and is thus localized especially from Moloundou to Bertoua and from Moloundou to Ebolowa where, in this latter zone, it appears to live mixed with P. hypochrysea; it exists still further north in isolated forest masses and gallery forests of the Pangar. An analogous phenomenon is observed in Gabon where P. hypochrysea is found alone behind Libreville, while P. excelsa only appears towards Oyem, Makokou, Lastoursville or Tchibanga.
 
-4) PRANCE (Fl. Neotr. 9 : 185, 1972) considère que cette espèce se retrouve en Amérique du Sud, correspondant en particulier à Parinari brachystachya Benth., hypothèse deja avancée par BENTHAM (FTA 2 : 367, 1871). Ce point de vue ne peut être admis car les fruits américains sont toujours stipés, à la différence des fruits africains où ce caractère n'est que très rarement et à pincé chauché.
-
-Parinari excelsa Sab. se rencontre, parfois localement abondant, dans toutes les forêts denses humides comprises entre le Sénégal et le Soudan au Nord, le Mozambique et l'Angola au Sud, bien souvent avec une certaine préférence pour les forêts relativement sèches, surtout dans l'hémisphère austral. Il est d'ailleurs absent des forêts les plus humides où seule demeure une espèce en apparence similaire, P. hypochrysea Mildbr. ex R. Let. & F. White; il est ainsi pratiquement inconnu, au Cameroun, dans la région située au Nord du Mont Cameroun jusqu'à Mamfe et même au long de la côte atlantique en arrière de Kribi. Il paraît donc, au Cameroun, plus fréquent en forêt semi-décidue à Sterculiacées et Ulmacées et se localise surtout ainsi de Moloundou à Bertoua et de Moloundou à Ebolowa où, dans cette dernière zone, il paraît vivre en mélange avec P. hypochrysea; il existe encore plus au Nord dans les massifs forestiers isolés et galeries du Pangar. Un phénomène analogue se constate au Gabon où P. hypochrysea se rencontre seul en arrière de Libreville, alors que P. excelsa ne fait son apparition que vers Oyem, Makokou, Lastoursville ou Tchibanga.
-
-Cette espèce est parfois abondante dans les forêts et ravins forestiers de certains massifs montagneux, jusqu'à 2000 m d'altitude, en Afrique orientale et surtout en Afrique occidentale, mais elle est cependant absente de la plupart des massifs volcaniques de ces régions; ceci est aussi le cas pour le Cameroun où elle semble ainsi se cantonner, à l'état dispersé d'ailleurs, aux forêts de basse et moyenne altitude. Elle ne croît ici que sur terre ferme et, dans toute l'étendue de son aire, n'est signalée dans les forêts marécageuses qu'au Sénégal et en Casamance; elle a cependant été exceptionnellement observée au Cameroun dans une forêt marécageuse à Zeyherella longipedicellata de la plaine tikar.
+This species is sometimes abundant in forests and forest ravines of certain mountainous massifs, up to 2000 m altitude, in East Africa and especially in West Africa, but it is however absent from most of the volcanic massifs of these regions; this is also the case for Cameroon where it thus seems to be confined, in a scattered state moreover, to forests of low and middle altitude. It grows here only on firm ground and, throughout the extent of its range, is recorded in swamp forests only in Senegal and Casamance; it has however been exceptionally observed in Cameroon in a swamp forest with Zeyherella longipedicellata of the Tikar plain.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Écorce purgative (Zaïre) et cicatrisante (Afr. occ.). Cendre du bois et de l'écorce tannifère (Afr. occ.). Aubier blanc crème; bois brun rouge, dur et lourd, siliceux, difficile à travailler, utilisable pour traverses de chemin de fer et charpentes,
-
-bois de chauffage et charbon de bois. Fruit à pulpe comestible, fermentescible; infusion du fruit antidysentérique (Afr. occ.) et tinctoriale (Zaïre). Graine oléagineuse consommable.
+Bark purgative (Zaire) and wound-healing (W. Afr.). Ash of wood and bark tannic (W. Afr.). Sapwood cream-white; wood reddish-brown, hard and heavy, siliceous, difficult to work, usable for railroad ties and timber, fuelwood and charcoal. Fruit with edible pulp, fermentable; fruit infusion antidysenteric (W. Afr.) and tinctorial (Zaire). Oilseed edible.
 
 ## Vernacular names
 

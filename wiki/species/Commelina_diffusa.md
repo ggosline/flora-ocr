@@ -21,7 +21,7 @@ C. diffusa Burm.f. subsp. aquatica (J.K.Morton) Ogwal in Seyani & Chikuni, Proc.
 
 ## Distribution
 
-pantropical, but introduced in South and North America; in Gabon in the Estuary, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
+pantropical, but introduced in South and North America; in Gabon in the Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 

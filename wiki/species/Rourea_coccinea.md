@@ -16,53 +16,50 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(synonyms and types: cf. subspecies and varieties)
 
-(synonymes et types : cf. sous-espèces et variétés)
+Very large vine or shrub. Branchlets lenticellate, cylindrical, sometimes with a distinct corky layer.
 
-Très grande liane ou arbuste. Rameaux lenticellés cylindriques, parfois avec une couche liégeuse nette.
+Leaves. Petiole 0.9–7.5 cm long; rachis 0–12 cm; petiolules 0.5–5 mm long; leaflets 1–21, ovate to oblong or obovate, glabrous to pubescent, chartaceous to finely coriaceous, apex emarginate to acuminate; terminal leaflet 1.6–15 × 1–8 cm; lateral leaflets symmetric to remarkably asymmetric, 0.7–10 × 0.6–5.5 cm.
 
-Feuilles. Pétiole long de 0,9-7,5 cm ; rachis de 0-12 cm ; pétioules longs de 0,5-5 mm ; folioles 1-21, ovées à oblongues ou obovées, glabres à pubescentes, cartacées à finement coriaces, sommet émarginé à acuminé ; foliole terminale 1,6-15 × 1-8 cm ; folioles latérales symétriques à remarquablement asymétriques, 0,7-10 × 0,6-5,5 cm.
+Inflorescence ≤11 cm long, pauciflorous, glabrous to pubescent. Pedicels 1–10 (–30) mm above the articulation.
 
-Inflorescence longue de ≤11 cm, pauciflore, glabre à pubescente. Pédicelles de 1-10 (-30) mm au-dessus de l'articulation.
+Flowers. Sepals 1.5–4 × 1.5–3 mm, generally wider than long. Petals 6–11.5 × 1.5–3.5 mm, often coherent near the base, imbricate and not folded in the bud, apex emarginate to acute, sometimes with a few hairs at the apex. Stamens, the longer ones 1.8–7 mm long, the shorter ones 1.3–6 mm. Pistil 1.7–9 mm long; style with few to very numerous hairs; ovary pubescent.
 
-Fleurs. Sépales 1,5-4 × 1,5-3 mm, en général plus larges que longs. Pétales 6-11,5 × 1,5-3,5 mm, souvent cohérents près de la base, imbriqués et non pliés dans le bouton, sommet émarginé à aigu, parfois avec quelques poils au sommet. Étamines, les grandes longues de 1,8-7 mm, les courtes de 1,3-6 mm. Pistil long de 1,7-9 mm ; style avec des poils peu à très nombreux ; ovaire pubescent.
+Fruits: follicles 1–2 per flower, rarely more, ellipsoid with rounded or acute apex, 15–20 × 7–10 mm, glabrous, dehiscent along a ventral suture.
 
-Fruits : follicules 1-2 par fleur, rarement davantage, ellipsoïdaux avec un sommet arrondi ou aigu, 15-20 × 7-10 mm, glabres, déhiscents selon une suture ventrale.
+Seed with ventral radicle; testa 1/4 to entirely fleshy, this portion being orange to red, the remainder, when present, black and glossy; cotyledons green.
 
-Graine avec radicule ventrale ; testa de 1/4 à entièrement charnu, cette portion étant orange à rouge, le reste, quand il existe, est noir et brillant ; cotylédons verts.
-
-Germination hypogée (hypocotyle ne subissant aucun allongement); les 2 premières feuilles opposées.
+Germination hypogeal (hypocotyl undergoing no elongation); the 2 first leaves opposite.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+West, central and East Africa, with a disjunction in the East. This disjunction separates the western subspecies coccinea from the eastern subspecies boiviniana.
 
-Afrique de l'Ouest, du centre et de l'Est, avec une disjonction dans l'Est. Cette disjonction sépare la sous-espèce coccinea de l'Ouest de la sous-espèce boiviniana de l'Est
+KEY TO THE VARIETIES OF R. coccinea subsp. coccinea
 
-CLÉ DES VARIÉTÉS DE R. coccinea subsp. coccinea
-
-Folioles latérales 4-20 ; sommet émarginé à aigu ..... 4a. var. coccinea Folioles latérales 0-6 ; sommet acuminé ..... 4b. var. viridis
+Lateral leaflets 4–20; apex emarginate to acute ..... 4a. var. coccinea
+Lateral leaflets 0–6; apex acuminate ..... 4b. var. viridis
 
 4a. subsp. coccinea var. coccinea
 
-in BRETELER (éd.), AUWP 89 (6): 325 (1989).
+in BRETELER (ed.), AUWP 89 (6): 325 (1989).
 
-– Byrsocarpus coccineus Thonning ex Schumacher, Beskrivelse af guineiske Planter: 227 (1827); Baker, FTA 1: 452 (1868); Schellenberg, PR 103 (4, 127): 148 (1938); Troupin, FCBR 3: 91 (1952); Exell & Mendonça, CFA 2: 148 (1954); Hemsley, FTEA, Connarraceae: 17 (1956); Hepper, FWTA, ed. 2, 1 (2): 741 (1958); Mendes, Fl. Zamb. 2 (2): 624 (1966). Type: Ghana, s.l., Thonning 19 (holo-C).
+– Byrsocarpus coccineus Thonning ex Schumacher, Beskrivelse af guineiske Planter: 227 (1827); Baker, FTA 1: 452 (1868); Schellenberg, PR 103 (4, 127): 148 (1938); Troupin, FCBR 3: 91 (1952); Exell & Mendonça, CFA 2: 148 (1954); Hemsley, FTEA, Connaraceae: 17 (1956); Hepper, FWTA, ed. 2, 1 (2): 741 (1958); Mendes, Fl. Zamb. 2 (2): 624 (1966). Type: Ghana, s.l., Thonning 19 (holo-C).
 
-– Rourea coccinea (Thonn. ex Schum.) Benth., Niger Fl.: 290 (1849); Hiern, Catalogue of the african plants collected by Welwitsch en 1835-1861: 186 (1896).
+– Rourea coccinea (Thonn. ex Schum.) Benth., Niger Fl.: 290 (1849); Hiern, Catalogue of the african plants collected by Welwitsch en 1835–1861: 186 (1896).
 
-Arbuste, sous-frutex rhizomateux ou liane, souvent décidus. Jeunes rameaux avec lenticelles de couleur distincte, rameaux parfois munis d'une couche liégeuse nette.
+Shrub, rhizomatous subshrub or vine, often deciduous. Young branchlets with lenticels of distinct color, branchlets sometimes bearing a distinct corky layer.
 
-Feuilles : folioles 5-21, ovées à elliptiques ou triangulaires-oblongues ; foliole terminale  $ 1,5-4 \times 1-3 $ cm, sommet émarginé à légèrement acuminé ; folioles latérales symétriques à remarquablement asymétriques,  $ 0,5-5 \times 0,5-3 $ cm à sommet émarginé à aigu (jamais acuminé).
+Leaves: leaflets 5–21, ovate to elliptic or triangular-oblong; terminal leaflet $ 1.5–4 \times 1–3 $ cm, apex emarginate to slightly acuminate; lateral leaflets symmetric to remarkably asymmetric, $ 0.5–5 \times 0.5–3 $ cm with apex emarginate to acute (never acuminate).
 
-Inflorescences longues de ≈6 cm, à l'aisselle de feuilles adultes ou déjà tombées.
+Inflorescences approximately 6 cm long, in the axil of adult leaves or already fallen leaves.
 
-Graine, testa en tout ou en partie charnu. – Pl. 35, p. 115.
+Seed, testa wholly or partly fleshy. – Pl. 35, p. 115.
 
-majeure partie de l'Afrique tropicale mais dans l'Est africain, seulement en Tanzanie
+greater part of tropical Africa but in East Africa only in Tanzania
 
-depuis le Nigeria à la Centrafrique vers l'Est, et à l'Angola vers le Sud
+from Nigeria to Central Africa towards the East, and to Angola towards the South
 
 ## Type
 
@@ -70,31 +67,29 @@ Thonning 19, s.l., Ghana
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+savannas, wooded savannas and secondary forests; alt. 0–1250 m
 
-savanes, savanes boisées et forêts secondaires ; alt. 0-1250 m
+ombrophilous forests and forest galleries; alt. 0–870 m
 
-forêts ombrophiles et galeries forestières ; alt. 0-870 m
+Breteler 6978, 15 km S.S.E. of Pano (fr., Oct.), LBV, WAG; 8542, km 15 track from Libreville to Kango (fr., Dec.), WAG.
 
-Breteler 6978, 15 km S.S.E. de Pano (fr., Oct.), LBV, WAG ; 8542, km 15 piste de Libreville à Kango (fr., Déc.), WAG.
+Breteler & de Wilde 691, km 5 Bélinga–Makokou (fl., Sept.), LBV, WAG.
 
-Breteler & de Wilde 691, km 5 Bélinga-Makokou (fl., Sept.), LBV, WAG.
-
-De Wilde & Sosef 10483, km 5 de Bilengui à Mouila, sur un chantier forestier (fr., Fév.), LBV, WAG.
+De Wilde & Sosef 10483, km 5 from Bilengui to Mouila, on a forestry site (fr., Feb.), LBV, WAG.
 
 Floret & al. 1739, la Nké (fl., Oct.), LBV, P.
 
-Klaine 1988, env. de Libreville (fl.), B, P.
+Klaine 1988, env. of Libreville (fl.), B, P.
 
-Leeuwenberg 11426, 9 km S.S.O. de Makokou (fr., Nov.), LBV, WAG.
+Leeuwenberg 11426, 9 km S.S.W. of Makokou (fr., Nov.), LBV, WAG.
 
 Le Testu 6082, Pingo (fl., Sept.), BM, BR, P; 7458, Moupeyou (fl., Sept.), BM, BR, WAG.
 
-Louis & al. 1325, 32 km S.E. de Sindara (fr., Déc.), LBV, WAG.
+Louis & al. 1325, 32 km S.E. of Sindara (fr., Dec.), LBV, WAG.
 
-Van der Maesen & de Bruijn 5949, 23 km de Lastoursville, pont du chemin de fer (fr., Nov.), LBV, WAG.
+Van der Maesen & de Bruijn 5949, 23 km from Lastoursville, railway bridge (fr., Nov.), LBV, WAG.
 
-Wilks 1150, 16 km O.S.O. de Yéno (fr., Nov.), LBV, WAG.
+Wilks 1150, 16 km W.S.W. of Yéno (fr., Nov.), LBV, WAG.
 
 ## Specimens examined
 
@@ -130,9 +125,7 @@ Graine, testa presque toujours entièrement charnu. - Pl. 36, p. 117.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-chez R. coccinea, la variation foliaire s'étend de feuilles à 21 petits folioles à sommet émarginé à des feuilles à 1 ou 3 grandes folioles à sommet acuminé. Entre ces extrêmes, on peut trouver tous les intermédiaires possibles pour le nombre et la taille des folioles
+in R. coccinea, leaf variation ranges from leaves with 21 small leaflets with emarginate apex to leaves with 1 or 3 large leaflets with acuminate apex. Between these extremes, all possible intermediates can be found for both the number and size of leaflets.
 
 ## Figures
 

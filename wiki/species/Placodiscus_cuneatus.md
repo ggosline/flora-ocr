@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 814 (1932).
 
-Arbre de 10-15 m. Rachis des feuilles à 2 sillons au-dessus, folioles coriaces, très nerviées, 7-12 paires, alternes ou sub-opposées; pétioles 8-10 cm; pétioules 6-8 mm.
+Tree 10-15 m tall. Leaf rachis with 2 grooves above, leaflets coriaceous, very prominently veined, 7-12 pairs, alternate or sub-opposite; petioles 8-10 cm; petiolules 6-8 mm.
 
-Épis ramiés à la base (env. 2 rameaux), couverts de cymules sessiles serrées. Fruit, 25 mm, à 2-3-4 lobes; pédicelle 6 mm, et 2 mm de diamètre.
+Spikes branched at the base (c. 2 branches), covered with dense sessile cymules. Fruit, 25 mm, with 2-3-4 lobes; pedicel 6 mm, and 2 mm in diameter.
 
 ## Type
 
@@ -30,9 +28,7 @@ Zenker 2120, 4684, 4698, Cameroun (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Aspect voisin de P. glandulosus dont il diffère bien entendu, par l'absence de poils glanduleux. On peut lui attribuer 2 autres échantillons, l'un de Côte d'Ivoire à cymule de 1-3 fleurs ♀ (Aubréville 2793), l'autre du Congo (Bouquet 677, j. fr., nov.).
+Aspect close to P. glandulosus from which it differs clearly by the absence of glandular hairs. Two other specimens can be attributed to it, one from Côte d'Ivoire with cymule of 1-3 ♀ flowers (Aubréville 2793), the other from Congo (Bouquet 677, j. fr., Nov.).
 
 ## Specimens examined
 

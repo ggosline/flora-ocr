@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 S. cornifoliae Hook. f. affinis, sed foliorum acuminibus in apice callo parvulo munito, laminae reticulo manifesto, floribus flavis minoribus, sepalis denticulatis ciliolatis, disco pulvinato margine subsinuato, in summo vix sulcato, fructu sphaerico valde reticuloso lamellato, satis differt. Incolit in Gabunia.
 
 ## Type
@@ -26,33 +24,31 @@ Klaine 370, Gabon (holo-, P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous liane devoid of rubber, exceeding 5 m in height, with old branches rough, lenticellate, greyish, young internodes rather smooth and olivaceous when dry. Leaves opposite to subopposite. Petiole 5–8 mm, with the margins of the channel straight and pinched. Blade olivaceous when dry, subcoriaceous, concolorous or somewhat discolorous, elliptic 5–15 × 2–7 cm, with base moderately to briefly acute, with apex acuminate or sublanceolate, at the tip of the acumen thickened by a small callus from the apex of the midrib; margins of the blade entire or very confusedly crenulate. Secondary veins 7–10 pairs; fine reticulation very apparent on both surfaces when dry.
 
-Liane glabre dépourvue de caoutchouc, dépassant 5 m de hauteur, à rameaux âgés rudes, lenticellés, grisâtres, à jeunes entre-nœuds plutôt lisses et olivacés à sec. Feuilles opposées à subopposées. Pétiole de 5-8 mm, à marges du canal droites et pincées. Limbe olivacé à sec, subcoriace, concolore ou un peu discolore, elliptique de 5-15 × 2-7 cm, à base moyennement à brièvement aiguë, à sommet acuminé ou sublancéolé, à l'extrémité de l'acumen épaissi par un petit callus du bout de la nervure médiane ; marges du limbe entières ou très confusément créne-lées. Nervures secondaires 7-10 paires ; fin réticule très apparent sur les deux faces à sec.
+Inflorescences in sessile axillary glomerules (1)3–6-flowered approximately. Pedicel 4–6.5 mm; bud ovate 2–2.2 mm, almost as wide as long. Flower 6 mm in diameter, yellowish white or yellow. Sepals unequal, subacute, ovate or semicircular, denticulate ciliolate, 0.7–1.4 mm wide. Petals ovate 2.5–2.9 × 2 mm, ± reflexed. Disc as a circular cushion 1.5–1.8 mm in diameter, with weakly sinuous margin not margined, marked, fairly distinctly in the bud, by a weak sulcus
 
-Inflorescences en glomérules axillaires sessiles (1)3-6-flores environ. Pédicelle de 4-6,5 mm ; bouton ové de 2-2,2 mm, presque aussi large que long. Fleur de 6 mm de diamètre, blanc jaunâtre ou jaune. Sépales inégaux, subaigus, ovés ou semi-circulaires, denticulés ciliolés, de 0,7-1,4 mm de large. Pétales ovés 2,5-2,9 × 2 mm, ± réfléchis. Disque en coussin circulaire de 1,5-1,8 mm de diamètre, à bord faiblement sinueux non marginé, marqué, assez nettement dans le bouton, d'un faible sillon
+PL. 35. - Salacia tessmannii Loes.: 1, bud; 2, flower, diam. 9 mm; 3, calyx, diam. 3.1 mm; 4–6, disc, diam. 2.3 mm; 7, 8, stamens; 9, locules of an ovary (Tessmann 26). - S. pierrei Hallé: 10, bud; 11, flower, diam. 6 mm; 12, calyx, diam. 2.1 mm; 13, sepal wide 1.4 mm; 14, petal long 2.9 mm; 15–16, disc, diam. 1.6 mm; 17–20, anthers; 21, 22, locules of ovaries (10, 13–15, 20, Klaine 1423; 11, 17, 18, 22, Klaine 597; 12, 16, 19, 21, Klaine 370; 23, Hladik 2692).
 
-PL. 35. - Salacia tessmannii Loes.: 1, bouton; 2, fleur, diam. 9 mm; 3, calice, diam. 3,1 mm; 4-6, disque, diam. 2,3 mm; 7, 8, étamines; 9, loges d'un ovaire (Tessmann 26). - S. pierrei Hallé: 10, bouton; 11, fleur, diam. 6 mm; 12, calice, diam. 2,1 mm; 13, sépale large de 1,4 mm; 14, pétale long de 2,9 mm; 15-16, disque, diam. 1,6 mm; 17-20, anthères; 21, 22, loges d'ovaires (10, 13-15, 20, Klaine 1423; 11, 17, 18, 22, Klaine 597; 12, 16, 19, 21, Klaine 370; 23, Hladik 2692).
+perigynous. Stamens 1.5–2 mm, spaced at the base; anther 0.5–0.6 mm wide, with a chevron-like slit at a right angle or ± obtuse. Pistil pyramidal subulate with punctiform stigma. Locules with 3–5 overlapping biseriate ovules.
 
-périgyne. Étamines de 1,5-2 mm, espacées à la base ; anthère large de 0,5-0,6 mm, à fente en chevron à angle droit ou ± obtus. Pistil pyramidal subulé à stigmate ponctiforme. Loges à 3-5 ovules imbriqués bisériés.
+Fruit entirely spherical 2.5–5.5 cm in diameter, bright red or orange at maturity, ornate with a network of lamellose, tortuous or ± lobed ridges; walls and partitions yellow in section in vivo. Seeds 4–9 approximately 1.5 × 1.5 cm, enrobed in abundant mucilage. Cotyledons fused pale yellow in section. - Pl. 35, 10–23, pl. 129.
 
-Fruit tout à fait sphérique de 2,5-5,5 cm de diamètre, rouge ou orangé vif à maturité, ornementé d'un réseau de crêtes lamelleuses, torrueuses ou ± lobées ; parois et cloisons jaunes en coupe in vivo. Graines 4-9 d'environ 1,5 × 1,5 cm, enrobées d'un mucilage abondant. Cotylédons soudes blanc jaune clair en coupe. - Pl. 35, 10-23, pl. 129.
+This neglected Salacia was confused by WILCZEK partly with S. erecta (flowering material) and partly with S. gabunensis (fruiting material). In reality the species is closer to S. cornifolia than to any other. Although it is probably endemic to Gabon, it is like the latter more abundant in sublittoral forests and their margins where we observed it in vast brushy screens, than in interior forests where it appears rare and ripicole.
 
-Ce Salacia négligé a été confondu par WILCZEK en partie avec le S. erecta (matériel florifère) et en partie avec le S. gabunensis (matériel fructifère). En réalité l'espèce est plus voisine du S. cornifolia que d'aucune autre. Bien qu'elle soit probablement endémique du Gabon, elle est comme cette dernière plus abondante dans les forêts sublittorales et leurs lisières où nous l'avons observée en vastes écrans broussailleux, que dans les forêts de l'intérieur où elle semble rare et ripicole.
+The species is dedicated to LOUIS PIERRE, eminent botanist who, after his fine works on the flora of Indochina, made so many original observations on African collections, especially those of KLAINE, and notably in the Hippocrateoideae; we owe him the genus Helictonema.
 
-L'espèce est dédiée à LOUIS PIERRE, botaniste éminent qui, après ses beaux travaux sur la flore de l'Indochine, fit tant d'observations originales sur les récoltes africaines, spécialement sur celles de KLAINE, et notamment dans les Hippocrateoideae ; on lui doit le genre Helictonema.
-
-NOM LOCAL : « orendé rouge »; c'est aussi le nom Mpongwé d'un Cola nain.
+LOCAL NAME: "red orendé"; it is also the Mpongwé name of a dwarf Cola.
 
 Florence 83, Ipassa, 10 km S Makokou, 500 m, 23.3.1977 (fr.).
 
-Floret, Louis & Moungazi 1883, 2 km gare de Boué, piste Ivindo, 12.10.1983 (fr.).
+Floret, Louis & Moungazi 1883, 2 km station at Boué, Ivindo trail, 12.10.1983 (fr.).
 
-Hallé N. & Villiers J.-F. 5454, Cap Esterias, 22.2.1968 (fr.).
+Hallé N. & Villiers J.-F. 5454, Cape Esterias, 22.2.1968 (fr.).
 
-Hladik 2525, ílot de l'Ivindo à Ipassa, 500 m, 15.2.1975 (fr.); 2692, Ipassa, 10 km S Makokou, 500 m, 23.3.1975 (fr.).
+Hladik 2525, islet of the Ivindo at Ipassa, 500 m, 15.2.1975 (fr.); 2692, Ipassa, 10 km S Makokou, 500 m, 23.3.1975 (fr.).
 
-Klaine 370, env. de Libreville, 1896 (mois de récolte 3, 9 ou 10) (fl., fr.); 597, ibid., 28.10.1896 (fl.); 1423, ibid., 23.11.1898 (fl.).
+Klaine 370, env. of Libreville, 1896 (month of collection 3, 9 or 10) (fl., fr.); 597, ibid., 28.10.1896 (fl.); 1423, ibid., 23.11.1898 (fl.).
 
 ## Figures
 

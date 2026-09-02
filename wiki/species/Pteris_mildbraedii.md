@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier., Engl. Jahrb. 53 : 418 (1915). — Tard., Mém. IFAN 28 : 77, t. 12, f. 4-5. — Alston, FWTA : 42 (1959).
 
-Rhizome dressé, à frondes rapprochées, portant des écailles linéaires, à pseudo-nervure noire, bords formés de cellules minces, courtes. Pétiole plus long que le limbe, ayant 50 cm à 75 cm, canaliculé, foncé, écailleux et muriculé à la base, straminé plus haut. Limbe à contour ovale, bipinnatifide, portant 2-4 paires de pennes latérales; penne terminale semblable, mais plus grande. Pennes opposées ou subopposées, espacées, longues de 30-40 cm sur 10-12 de large, cunéiformes à la base, à extrémité entière sur
-
-2-3 cm, divisées, jusqu'à 1 cm environ du costa, en 20-25 segments deltoïdes aigüs, subcrénelés au sommet, séparés par des sinus étroits. Rachis canaliculé, straminé, lisse, portant quelques courtes protubérances obtuses à la base. Nervilles latérales, environ 25 par lobe, les inférieures de deux lobes voisins formant une aréole surbaissée, parallèle au costa de la penne, et, parfois, quelques rares aréoles parallèles à la nervure médiane des segments. Sores ne faisant pas le tour des sinus, atteignant presque le sommet du lobe.
+Rhizome erect, with fronds crowded, bearing linear scales, with black pseudo-vein, margins formed of thin, short cells. Petiole longer than the lamina, reaching 50 cm to 75 cm, canaliculate, dark, scaly and muricate at the base, stramineous higher up. Lamina with oval outline, bipinnatifid, bearing 2-4 pairs of lateral pinnae; terminal pinna similar, but larger. Pinnae opposite or subopposite, spaced, 30-40 cm long by 10-12 cm wide, cuneate at the base, with entire apex for 2-3 cm, divided, to about 1 cm from the costa, into 20-25 acute deltoid segments, subcrenate at the apex, separated by narrow sinuses. Rachis canaliculate, stramineous, smooth, bearing a few short obtuse protuberances at the base. Lateral venules, approximately 25 per lobe, the lower ones of two adjacent lobes forming a depressed areole, parallel to the costa of the pinna, and, sometimes, a few rare areoles parallel to the midvein of the segments. Sori not extending around the sinuses, reaching almost to the apex of the lobe.
 
 ## Type
 
@@ -34,9 +30,7 @@ Mildbraed 5986 (B), Kribi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée espagnole, Ghana, Nigeria, Congo, Fernando-Po. Raphiales.
+Spanish Guinea, Ghana, Nigeria, Congo, Fernando-Po. Raphiales.
 
 ## Specimens examined
 

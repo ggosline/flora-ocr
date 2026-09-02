@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1.50 m tall with erect stem and horizontal lateral branches; internodes hirsute. Stipules pubescent, triangular with attenuate-caudate apex, 9–11 [14] mm long. Petioles hairy, 3–6 [10] mm. Blade olivaceous, darker above, pubescent on both surfaces, elliptic or scarcely obovate, 10–15 [18] × 3–5 [6] cm, with obtuse or narrowly rounded base, with attenuate very acute acumen ca. 15 mm long. Midvein hirsute; (9) 10 (11) pairs of secondary veins.
 
-Arbrisseau de 1,50 m à tige dressée et rameaux latéraux horizontaux; entrenœuds hirsutes. Stipules pubescentes triangulaires à sommet atténué-caudé, longues de 9-11 [14] mm. Pétioles velus de 3-6 [10] mm. Limbe olivâtre plus foncé dessus, pubescent dessus et dessous, elliptique ou à peine obové, de 10-15 [18] × 3-5 [6] cm, à base obtuse ou étroitement arrondie, à acumen atténué très aigu d'env. 15 mm de long. Nervure médiane hirsute; (9) 10 (11) paires de nervures secondaires.
+Inflorescences axillary with 1–3 (4) flowers. Peduncle pubescent, 1–2 mm. Involucre pubescent with 4 lobes 3–6 × 1–1.7 mm. Flower subsessile with calyx covered with dense violaceous hairs at the level of the ovary; 5 subspathulate lobes 4 × 1.5 mm, hairy, except the inner surface which is glabrous. [Corolla greenish within, reddish without, 5–6 mm long with lobes 3–4 mm. Style equal to the tube, with capitate 5-lobed stigma]. Disk 1.7 mm diam.
 
-Inflorescences axillaires à 1-3 (4) fleurs. Pédoncule pubescent de 1-2 mm. Involucre pubescent à 4 lobes de 3-6 × 1-1,7 mm. Fleur subsessile à calice couvert de poils violacés denses au niveau de l'ovaire; 5 lobes subspathulés de 4 × 1,5 mm, velus, sauf la face interne qui est glabre. [Corolle verdâtre à l'intérieur, rougeâtre à l'extérieur, longue de 5-6 mm avec des lobes de 3-4 mm. Style égal au tube, à stigmate capité 5-lobé]. Disque de 1,7 mm de diam.
+Ovary 2 mm high; 5 ovary locules; placentas V-shaped; ovular mass narrowly cordiform, 0.7 mm high. The fruit is unknown.
 
-Ovaire haut de 2 mm; 5 loges ovariennes; placentas en V; masse ovulaire étroitement cordiforme haute de 0,7 mm. Le fruit est inconnu.
+The characters in brackets are taken from the original description. Type Gossweiler 7861 (K, not seen), Portuguese Mayombe. Very moist and shaded riparian stations.
 
-Les caractères entre crochets sont tirés de la description originale. Type Gossweiler 7861 (K, non vu), Mayombe portugais. Stations ripicoles très humides et ombragées.
+Material studied (described above):
 
-Matériel étudié (décrit ci-dessus) :
-
-N. Hallé et G. Cours : 5891, Etéké (vieilles fl. mai).
+N. Hallé and G. Cours: 5891, Etéké (old flowers, May).
 
 ## Notes
 

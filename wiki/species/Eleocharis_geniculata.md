@@ -21,7 +21,7 @@ tags: [species, generated]
 
 ## Distribution
 
-widely distributed in tropical regions of Africa, America and Asia, also in South Africa; in Gabon, fairly common in the Estuary and Ogooué-Maritime, but not collected in other provinces (14 collections)
+widely distributed in tropical regions of Africa, America and Asia, also in South Africa; in Gabon, fairly common in the Estuaire and Ogooué-Maritime, but not collected in other provinces (14 collections)
 
 ## Ecology
 

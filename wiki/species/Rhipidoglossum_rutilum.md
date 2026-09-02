@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys rutilus (Rchb. f.) Ridl., Bol. Soc. Brot. 5 : 200 (1887).
 
 – Mystacidium rutilum (Rchb. f.) Durand & Schinz., Consp. Fl. Afr. 5 : 54 (1895).
@@ -37,25 +35,19 @@ tags: [species, generated]
 
 – Chamaeangis schliebenii Mansf., Notizbl. Bot. Gart. Berlin 11: 809 (1933).
 
-Tige 3-40 cm. Feuilles 3-10, 3-15 x 0,5-2,5 cm, linéaires, étroitement elliptiques à obovées, tordues à la base pour se situer dans un même plan. Inflorescence 5-20 cm, 10-40-flore. Fleurs petites, rose mat teinté de violacé, blanc rosé, vert clair, vert violacé clair. Sépale dorsal elliptique, oblong à obové, obtus. Pétales orbiculaires, largement ovés, obliques, obtus. Sépales latéraux oblongs à linéaires, falciformes, obtus. Labelle flabellé, rétus au sommet, mince, frêle, sans callus. Éperon 4,3-7 mm, incurvé, étroitement cylindrique, aigu. – Pl. 213, p. 449.
+Stem 3-40 cm. Leaves 3-10, 3-15 × 0.5-2.5 cm, linear, narrowly elliptic to obovate, twisted at the base to lie in the same plane. Inflorescence 5-20 cm, 10-40-flowered. Flowers small, dull pink tinged with violet, rose-white, light green, light violet-green. Dorsal sepal elliptic, oblong to obovate, obtuse. Petals orbicular, broadly ovate, oblique, obtuse. Lateral sepals oblong to linear, falcate, obtuse. Lip flabellate, retuse at the apex, thin, delicate, without callus. Spur 4.3-7 mm, incurved, narrowly cylindrical, acute. – Pl. 213, p. 449.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Gabon, Sao Tomé, Congo, Guinée équatoriale, République centrafricaine, Zaïre, Rwanda, Burundi, Soudan, Ouganda, Kenya, Tanzanie, Angola, Zambie, Malawi, Zimbabwe, Mozambique
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gabon, São Tomé, Congo, Equatorial Guinea, Central African Republic, Zaïre, Rwanda, Burundi, Sudan, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe, Mozambique
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-signalée du Gabon par Summerhayes (1968)
+reported from Gabon by Summerhayes (1968)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 600-2 200 m. Épiphyte sur branche de la canopée en forêt haute, forêt rivulaire et montagnarde, observé sur cacaoyer et caféier, sur Anonidium mannii, Chytranthus laurentii
+alt. 600-2,200 m. Epiphytic on canopy branch in tall forest, riparian and montane forest, observed on cacao and coffee, on Anonidium mannii, Chytranthus laurentii
 
 ## Specimens examined
 

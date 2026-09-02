@@ -23,7 +23,7 @@ pedicel 4–10 mm; calyx 2–4 mm long, reddish, lobes triangular-acuminate, 1�
 
 ## Distribution
 
-Native to America and naturalized in Africa, Asia and the Pacific; in Africa, fairly widespread from Guinea to Cameroon and Gabon, southern Africa, Madagascar, South America and the Caribbean; in Gabon, known from the Estuary. Botanic Gardens Meise (©)
+Native to America and naturalized in Africa, Asia and the Pacific; in Africa, fairly widespread from Guinea to Cameroon and Gabon, southern Africa, Madagascar, South America and the Caribbean; in Gabon, known from the Estuaire. Botanic Gardens Meise (©)
 
 ## Ecology
 

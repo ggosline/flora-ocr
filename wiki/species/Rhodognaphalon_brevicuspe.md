@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bombax brevicuspe SPRAGUE, Kew Bull. : 306 (1909); ULBRICHT, Notizbl. Bot. Gart. Berlin 6 : 51 (1913); Bot. Jahrb. 49 : 538 (1913); KEAY, FWTA, ed. 2, 1 : 334 (1958); IRVINE, Pl. Gold Coast : 59 (1930); Woody Pl. Ghana : 188 (1961); AUBRÉVILLE, FFCI, ed. 1, 2 : 264, tab. 226 (1936); A. ROBYNS, Bull. Jard. Bot. Etat. Bruxelles 27 : 663, tab. 64 (1957).
 
 — Bombax chevalieri PELLEGR., Bull. Mus. Nat. Hist. Nat. Paris 27 : 445 (1921); Fl. Mayombe 1 : 29 (1924).
 
 — Bombax rhodognaphalon auct. non K. Schum. ex Engl. : Bakhuizen, Bull. Jard. Bot. Buitenz., ser. 3, 6 : 184 (1924), p.p.
 
-— Bombax sp. « à fleurs blanches » Chev., Forêt Bois Gabon : 77, tab. 1 (1917).
+— Bombax sp. « with white flowers » Chev., Forêt Bois Gabon : 77, tab. 1 (1917).
 
-Arbre haut de 25-30 m, décidu; fût droit et cylindrique, atteignant une circonférence de 5 m et plus. Petits contreforts aliformes à la base du tronc; houppier arrondi et lâche. Écorce grisâtre, rugueuse à l'état adulte, fibreuse, épaisse de 2-2,5 cm, rouge vineuse en section; rhytidome s'exfoliant en rares plaques épaisses de forme irrégulière laissant en se détachant des dépressions marquées de fins sillons verticaux parallèles; lenticelles peu saillantes. Bourgeons et jeunes rameaux pubescents. Feuilles 5-7-foliolées; stipules triangulaires, densément pubescentes extérieurement; pétiole long de 2-7,5 cm, densément pubescent, hirsute chez les feuilles jeunes, plat dessus. Folioles sessiles ou subsessiles, pubescentes dans les stades juvéniles et glabres dans les stades âgés, vert foncé dessus et vert pâle dessous, mates à l'état frais, marron foncé dessus et marron plus clair dessous à l'état sec, assez coriaces, blancéolées, 4-14 × 2-4 cm, base cunéiforme et sommet arrondi, courtement apiculé, obtus ou émarginé. Nervure médiane glabre à l'état adulte, saillante sur les deux faces; nervures secondaires 10-15 paires, peu ascendantes, peu arquées, s'anastomosant à 3-5 mm du bord du limbe, saillantes sur les deux faces. Nervilles en réseau très lâche à mailles allongées, faiblement saillantes et distinctes sur les deux faces, nervures quaternaires indistinctes.
+Tree reaching 25–30 m tall, deciduous; trunk straight and cylindrical, attaining a girth of 5 m and more. Small aliform buttresses at the base of the trunk; crown rounded and loose. Bark greyish, rugose when mature, fibrous, 2–2.5 cm thick, wine-red in section; rhytidome exfoliating in rare plates of irregular shape, leaving marked depressions with fine parallel vertical furrows when detaching; lenticels slightly prominent. Buds and young branches pubescent. Leaves 5–7-foliolate; stipules triangular, densely pubescent externally; petiole 2–7.5 cm long, densely pubescent, hirsute on young leaves, flat above. Leaflets sessile or subsessile, pubescent in juvenile stages and glabrous in mature stages, dark green above and pale green below, dull when fresh, dark brown above and lighter brown below when dry, fairly coriaceous, lanceolate, 4–14 × 2–4 cm, base cuneate and apex rounded, shortly apiculate, obtuse or emarginate. Midvein glabrous when mature, prominent on both surfaces; secondary veins 10–15 pairs, slightly ascending, slightly arched, anastomosing 3–5 mm from the leaf margin, prominent on both surfaces. Tertiary venules in a very loose reticulate pattern with elongated meshes, weakly prominent and distinct on both surfaces, quaternary veins indistinct.
 
-Inflorescences en courtes grappes pauciflores sur rameaux courts pubescents. Fleurs ¥, blanches; pédicelles pubescents à éparsement pubé-rulents (poils étoilés appressés et poils laciniés dressés) longs de 0,5-1 cm. Réceptacle long de 0,2 cm, à 5 glandes noirâtres, éparsement pubérulent (poils étoilés appressés). Calice cupuliforme à 5 lobes ± distincts, 0,6-0,9 × 0,8-1 cm, ± fortement pubescent à poils étoilés appressés exté-rieurement et densément pubescent à poils courts denses à la base, devenant ± épars au sommet intérieurement. Pétales 5, contortés, pubescents, toment-teux extérieurement et glabres intérieurement (mais bords tomentaux), oblancéolés, elliptiques ou oblongs, 3,5 × 0,8-1 cm, soudés par la base au tube staminal, sommet parfois asymétrique. Étamines 220, rouge vif sur le vivant, longues de 4 cm, unies en un tube staminal glabre, long de 0,5-0,6 cm, se divisant en 10 phalanges; anthères médifixes, ellipsoïdes, longues de 2 mm, extorses. Ovaire glabre, 5-loculaire; disque à 5 lobes ± nets. Style égal à la longueur des pétales, de section pentagonale.
+Inflorescences in short few-flowered racemes on short pubescent branchlets. Flowers ¥, white; pedicels pubescent to sparsely puberulent (appressed stellate hairs and erect lacinate hairs) 0.5–1 cm long. Receptacle 0.2 cm long, with 5 blackish glands, sparsely puberulent (appressed stellate hairs). Calyx cupuliform with 5 ± distinct lobes, 0.6–0.9 × 0.8–1 cm, ± strongly pubescent with appressed stellate hairs externally and densely pubescent with short dense hairs at the base, becoming ± sparse at the apex internally. Petals 5, contorted, pubescent, tomentose externally and glabrous internally (but with tomentose margins), oblanceolate, elliptic or oblong, 3.5 × 0.8–1 cm, united by the base to the stamen tube, apex sometimes asymmetric. Stamens 220, bright red on the living plant, 4 cm long, united into a glabrous stamen tube 0.5–0.6 cm long, dividing into 10 phalanges; anthers medifixed, ellipsoid, 2 mm long, extrorse. Ovary glabrous, 5-locular; disk with 5 ± distinct lobes. Style equal to the length of the petals, pentagonal in section.
 
-Capsule localicide à 5 valves, obovoïde à oblongue 5-8 × 3-4 cm, base atténuée et sommet apiculé. Calice persistant à la base du fruit. Valves glabres extérieurement, lisses, brunes ou jaunâtres sur le sec. Graines piriformes lisses, marquées d'une forte dépression sur l'une des faces larges, brun foncé, 0,9-1,2 × 0,7 cm. Kapok roussâtre abondant. PL. 9, 2, 6, p. 35; PL. 11, p. 43.
+Capsule loculicidal with 5 valves, obovoid to oblong 5–8 × 3–4 cm, base attenuate and apex apiculate. Calyx persistent at the base of the fruit. Valves glabrous externally, smooth, brown or yellowish when dry. Seeds piriform smooth, marked by a strong depression on one of the broad faces, dark brown, 0.9–1.2 × 0.7 cm. Kapok reddish-brown abundant. PL. 9, 2, 6, p. 35; PL. 11, p. 43.
 
-Plantule à hypocotyle d'environ 6 cm; cotylédons pétiolés, faiblement ondulés, à nervation palmée (5 nervures primaires). Premières feuilles trifoliolées.
+Seedling with hypocotyl about 6 cm; cotyledons petiolate, weakly undulate, with palmate venation (5 primary veins). First leaves trifoliolate.
 
 ## Type
 
@@ -41,9 +39,7 @@ Thompson 10, Subirinsu, Ghana (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Rhodognaphalon breviscuspe est une espèce guinéenne dont l'aire s'élend de la Sierra Leone au Gabon. Elle se rencontre dans les forêts ombrophiles primaires ou secondaires.
+Rhodognaphalon brevicuspe is a Guinean species whose range extends from Sierra Leone to Gabon. It occurs in primary or secondary rain forests.
 
 ## Vernacular names
 
@@ -51,11 +47,9 @@ ogumalanga (mpongwè, galoa, nkomi, orungu); ogumyalango (benga); gégumananga, 
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The sapwood is white when fresh and browns on exposure to air. The heartwood, red, can be used in joinery. The kapok and bark have the same uses as in the kapok tree. The bark is used against sore throats or as an emetic or to prevent miscarriage. This bark, mixed with those of Pycnanthus angolensis or Xylopia aethiopica and Anthocleista nobilis, is said to combat sterility when taken as a potion or enema.
 
-L'aubier est blanc à l'état frais et brunit à l'air. Le bois de cœur, rouge, peut servir en menuiserie. Le kapok et l'écorce ont les mêmes usages que chez le fromager. On emploie l'écorce contre les angines ou comme vomitif ou pour empêcher l'avortement. Celle-ci, mélangée avec celles de Pycnanthus angolensis ou de Xylopia xthiopica et d'Anthocleista nobilis, combattrait la stérilité quand elle est prise en potion ou en lavement
-
-Elle entre aussi dans la composition de bains rituels destinés à chasser les esprits malfaisants. L’arbre est planté près des cases, c’est un fétiche protecteur; il indique aussi les habitations où sont nés des jumeaux.
+It also enters into the composition of ritual baths intended to drive away evil spirits. The tree is planted near dwellings, it is a protective fetish; it also indicates houses where twins have been born.
 
 ## Specimens examined
 

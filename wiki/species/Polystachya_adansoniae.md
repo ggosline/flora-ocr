@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Polystachya albo-violacea Kraenzl., Bot. Jahrb. Syst. 17 : 50 (1893).
 
 – Polystachya dusenii Kraenzl., Bot. Jahrb. Syst. 19 : 250 (1894).
@@ -27,25 +25,21 @@ tags: [species, generated]
 
 – Polystachya caillei Guill., Bull. Mus. Hist. Nat., Paris 26 : 672 (1920).
 
-Plantes < 30 cm. Pseudobulbes < 9 x 1 cm, étroitement cylindrico-coniques. Feuilles 8-19 x 0,6-1,3 cm, linéaires. Inflorescence 5-20 cm, multiflore. Fleurs blanches à jaune-verdâtre, pétales, labelle et anthères violets ou brun-chocolat. Bractées florales 2-8 mm, sétacées, généralement plus longues que le pédicelle et ovaire. Tépales acuminés. Labelle à partie basale saillante, linéaire, canaliculé, mince, nettement trilobé dans la moitié supérieure, callus à partie apicale charnue à longuement pubescent, placé entre les lobes latéraux ; lobe médian triangulaire, aigu ; lobes latéraux orbiculaires, glabres, cochléiformes. Éperon sacciforme. Pl. 127, p. 289.
+Plants < 30 cm. Pseudobulbs < 9 x 1 cm, narrowly cylindrico-conical. Leaves 8-19 x 0.6-1.3 cm, linear. Inflorescence 5-20 cm, multiflorous. Flowers white to yellowish-green, petals, labellum and anthers purple or chocolate-brown. Floral bracts 2-8 mm, setaceous, generally longer than the pedicel and ovary. Tepals acuminate. Labellum with prominent basal part, linear, channeled, thin, clearly trilobed in the upper half, callus with fleshy to long-pubescent apical part, placed between the lateral lobes; median lobe triangular, acute; lateral lobes orbicular, glabrous, cochleariform. Spur saccate. Pl. 127, p. 289.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Nigeria, Cameroun, Guinée équatoriale, Gabon, Zaïre, Rwanda, Burundi, Ouganda, Kenya, Tanzania, Angola, Zambie, Malawi, Zimbabwe
+Guinea, Sierra Leone, Liberia, Ivory Coast, Nigeria, Cameroon, Equatorial Guinea, Gabon, Zaire, Rwanda, Burundi, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-2,500 m. In open forest, montane forest, secondary forest, wooded savanna, swampy formation, sometimes on termite mound, epiphyte notably on Brachystegia baehmii, Prunus africana
 
-alt. 0-2 500 m. En forêt claire, forêt de montagne, forêt secondaire, savane boisée, formation marécageuse, parfois sur termitière, épiphyte notamment sur Brachystegia baehmii, Prunus africana
+MATERIAL STUDIED (Map 57):
 
-MATÉRIEL ÉTUDIÉ (Carte 57) :
+Bos, Van der Laan & Nzabi 10746 – Babiel-Sud, Okoumé road km 5, 1° 02' N, 13° 10' E (fl. July), WAG.
 
-Bos, Van der Laan & Nzabi 10746 – Babiel-Sud, route d'Okoumé km 5, 1° 02' N, 13° 10' E (fl. Juil.), WAG.
-
-De Wilde, Arends, Louis, F. Bouman & J. J. Karper 293, Monts de Cristal., exploitation forestière Leroy, 20 km au NO de Asok, 0° 53' N, 10° 12' E, alt. ± 610 m, forêt haute exploité, épiphyte sur branche morte (fl. Janv.), WAG.
+De Wilde, Arends, Louis, F. Bouman & J. J. Karper 293, Cristal Mountains, Leroy forest exploitation, 20 km NW of Asok, 0° 53' N, 10° 12' E, alt. ± 610 m, exploited tall forest, epiphyte on dead branch (fl. Jan.), WAG.
 
 ## Figures
 

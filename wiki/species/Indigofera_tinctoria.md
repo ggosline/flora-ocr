@@ -21,7 +21,7 @@ Herb with woody base, 0.5–1.7 m tall; stem and calyx pubescence white, appress
 
 ## Distribution
 
-Probably native to India, now in many tropical countries, as in most African countries and Madagascar, except the Republic of the Congo, the Democratic Republic of the Congo, and Namibia; in Gabon, rarely cultivated, perhaps introduced from West Africa before the French period. Reported from the Estuary (Raponda-Walker & Sillans 1961), but herbarium specimens are lacking.
+Probably native to India, now in many tropical countries, as in most African countries and Madagascar, except the Republic of the Congo, the Democratic Republic of the Congo, and Namibia; in Gabon, rarely cultivated, perhaps introduced from West Africa before the French period. Reported from the Estuaire (Raponda-Walker & Sillans 1961), but herbarium specimens are lacking.
 
 ## Ecology
 

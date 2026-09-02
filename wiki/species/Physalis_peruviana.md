@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne, parfois annuelle, dressée, jusqu’à 1,6 m de hauteur, plus rarement buis sonnante et ligneuse à la base ; tiges prostrées à dressées, densément pubescentes à poils simples . Feuille : pétiole 1–5,2 cm, pubescent ; limbe ovale, 4,5–7(–11) × 3–5,5(–8) cm, cordé et souvent oblique à la base, aigu à acuminé au sommet, marge entière à sinuée-dentée, par fois faiblement lobée, concolore, pubescent à poils simples, plus densément pubescent sur les nervures et en dessous. Inflorescence à fleurs solitaires. Fleur : pédicelle dressé, plus rarement recourbé au sommet, 6–12 mm ; calice cupuliforme à campanulé, 5–10 mm de longueur, élargi et persistant en fruit, pubescent, à lobes triangulaires, 3,5–6 mm de longueur, en fruit jusqu’à 1 cm ; corolle largement campanulée, 1–2 cm de diamètre , jaune à jaune ver dâtre, avec 5 taches internes foncées, grises, brunes, pourpres ou noires à la base de la gorge, à couronne de poils jaunes sous l’insertion des étamines , à lobes largement triangulaires, 1–2 × 2,5–6 mm ; étamines glabres, filet 2,5–5 mm, anthère 3–4 mm de longueur , teintée de pourpre ; style 4,5–7 mm. Fruit sphérique à ovoïde, 0,8–1,5 cm de diamètre, lisse, jaune, orange ou rouge à maturité, inclus dans le calice élargi de 3–4,5 cm de longueur, pubescent, vert-jaune . Graine ovoïde à sphérique, 1,5–2 × 1–1,7 mm, jaunâtre à brunâtre.
+Perennial herb, sometimes annual, erect, up to 1.6 m tall, more rarely bushy and woody at the base; stems prostrate to erect, densely pubescent with simple hairs. Leaf: petiole 1–5.2 cm, pubescent; blade ovate, 4.5–7(–11) × 3–5.5(–8) cm, cordate and often oblique at the base, acute to acuminate at the apex, margin entire to sinuate-dentate, sometimes weakly lobed, concolorous, pubescent with simple hairs, more densely pubescent on the nerves and beneath. Inflorescence with solitary flowers. Flower: pedicel erect, more rarely curved at the apex, 6–12 mm; calyx cupuliform to campanulate, 5–10 mm long, enlarged and persistent in fruit, pubescent, with triangular lobes, 3.5–6 mm long, up to 1 cm in fruit; corolla broadly campanulate, 1–2 cm in diameter, yellow to yellowish-green, with 5 dark internal spots, grey, brown, purple or black at the base of the throat, with a crown of yellow hairs below the insertion of the stamens, with broadly triangular lobes, 1–2 × 2.5–6 mm; stamens glabrous, filament 2.5–5 mm, anther 3–4 mm long, tinged with purple; style 4.5–7 mm. Fruit spherical to ovoid, 0.8–1.5 cm in diameter, smooth, yellow, orange or red at maturity, enclosed in the enlarged calyx 3–4.5 cm long, pubescent, yellowish-green. Seed ovoid to spherical, 1.5–2 × 1–1.7 mm, yellowish to brownish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique du Sud, introduit et naturalisé dans un grand nombre de régions tropicales et tempérées, se retrouve dans toute l’Afrique subsaharienne ; un seul spécimen pour le Gabon provenant du Haut-Ogooué
+Native to South America, introduced and naturalized in a large number of tropical and temperate regions, found throughout sub-Saharan Africa; only one specimen for Gabon from the Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-adventice, souvent dans les zones cultivées, bords de forêt, berges, habitats ouverts et perturbés (clairières, décharges, etc.) ; au Gabon à 420 m d’altitude, ailleurs en Afrique à 400–2500 m. Usage : Les fruits sont consommés frais, en salade ou pour décorer les plats, conservés en confiture ou transformés en purées et en sauce. Les feuilles sont utilisées en usage externe pour traiter la rougeole et les douleurs articulaires ; le macérat des feuilles est utilisé comme vermifuge, diurétique et sert à atténuer les maux de ventre et traiter la jaunisse. Les plantes et les racines sont aussi utilisées pour atténuer les douleurs menstruelles et provoquer l’accouchement
+Weed, often in cultivated areas, forest edges, riverbanks, open and disturbed habitats (clearings, waste dumps, etc.); in Gabon at 420 m altitude, elsewhere in Africa at 400–2500 m. Uses: The fruits are consumed fresh, in salads or to decorate dishes, preserved as jam or transformed into purées and sauces. The leaves are used externally to treat measles and joint pain; the leaf macerate is used as a vermifuge, diuretic and serves to alleviate abdominal pain and treat jaundice. The plants and roots are also used to alleviate menstrual pain and induce labour
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ alkékenge du Pérou, amour en cage, cerise de terre, cerise péruvienne, coquer
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En herbier et dans les travaux floristiques, y compris dans la Check-list des plantes vasculaires du Gabon (Sosef et al. 2006), les spécimens de cette espèce ont souvent été identifiés comme P. pubescens L. P. peruviana et P. pubescens sont morphologiquement similaires, les deux espèces étant pubescentes ; elles diffèrent néanmoins par le type de la pubescence, la taille des pédicelles et de la corolle, ainsi que par la forme des feuilles et des côtes des calices fructifères. D’un point de vue phylogénétique, ces deux espèces ne sont pas directement apparentées (Zamora-Tavares et al. 2016). B : Bikandu et al. (2020), Edmonds (2012), Heine (1963), Khare (2007), Quattrocchi (2012), i B liographie Sosef et al. (2006), Waterfall (1967)
+In herbaria and in floristic works, including in the Check-list of vascular plants of Gabon (Sosef et al. 2006), specimens of this species have often been identified as P. pubescens L. P. peruviana and P. pubescens are morphologically similar, both species being pubescent; they differ nevertheless in the type of pubescence, the size of the pedicels and corolla, as well as in the shape of the leaves and ribs of the fruiting calyces. From a phylogenetic point of view, these two species are not directly related (Zamora-Tavares et al. 2016). B: Bikandu et al. (2020), Edmonds (2012), Heine (1963), Khare (2007), Quattrocchi (2012), Bibliography Sosef et al. (2006), Waterfall (1967)
 
 ## Notes
 

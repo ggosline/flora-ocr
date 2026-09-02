@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree reaching 8 m in height; branches glabrous, branchlets puberulent rusty. Leaves with petiole 5–8 mm long; blade coriaceous, oblong to elliptic-oblong, 14–34 cm long, 3.5–8 cm wide, acute at base, acute or ± long-acuminate at apex; upper surface shining and glabrous, lower surface glaucous, sprinkled with very short hairs. Midvein impressed above, prominent below. Lateral nerves 9–15 pairs, obliquely ascending, impressed above, prominent below; nervilles parallel, scarcely visible.
 
-Arbre atteignant 8 m de hauteur;rameaux glabres,ramilles pubérulentes rousses. Feuilles ä pétiole long de 5-8 mm; limbe coriace,oblong ä elliptique-oblong,long de 14-34 cm,large de
+Flowers ochraceous, arising on old leafless branches, solitary or 2–3-fasciculate; pedicel thick, 6–8 mm long, rusty tomentellous, bearing near the base a very small oval bract. Floral bud subglobose. Sepals broadly ovate-triangular, concave, 3.5 mm long, 7–8 mm wide, connate at base, tomentellous on the outside. Petals densely rusty tomentose on the outside, glabrous on the inside; the outer ones elliptic-oblong, 10–14 mm long, 6–9 mm wide; the inner ones obovate-oblong, of the same length, 5–7 mm wide. Receptacle convex. Stamens very numerous, 2–2.5 mm long, thecae extrorse, connectives dilated above the anthers and slightly extended toward the center of the flower. Female flowers unknown.
 
-3,5-8 cm,aigu á la base,aigu ou ± longuement acuminé au sommet; face supérieure luisante et glabre,face inférieure glauque, parsemee de poils tres courts. Nervure médiane imprimée au-dessus, saillnte en dessous. Nervures latérales 9-15 paires,obliques ascendantes,imprimées au-dessus,saillantes en dessous;nervilles paralleles peu visibles.
-
-Fleurs  ochracées, naissant sur les vieux rameaux defeuillés, solitaires ou 2-/-fasciculées; pédicelle épais, long de 6-8 mm, tomentelleux roux,muni vers la base d'une tres petite bractée ovale.Bouton floral subglobuleux. Sépales largement ovés-triangulaires,concaves,longs de 3,5 mm,larges de 7-8 mm,soudés ä la base,tomentelleux ä l'extérieur.Pétales densément tomenteux roux á l'extérieur,glabres á l'intérieur; les externes elliptiquesoblongs,longs de 1o-14 mm,larges de 6-9 mm; les internes obovesoblongs,de méme longueur,larges de 5-7 mm. Réceptacle convexe. Etamines tres nombreuses,longues de 2-2,5 mm,theques extrorses, connectifs dilatés au-dessus des antheres et légerement prolongés vers le centre de la fleur. Fleurs  inconnues.
-
-Fruits inconnus.
+Fruits unknown.
 
 ## Type
 
@@ -37,9 +33,7 @@ Zenker 2899,Bipindi, Cameroun,fl.,mars (holotype B; isotypes P!, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espece répandue au Cameroun, au Gabon et au Congo-Brazzaville en foret dense humide cotiere.
+Species widespread in Cameroon, Gabon and Congo-Brazzaville in dense humid coastal forest.
 
 ## Specimens examined
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Angraecum englerianum Kraenzl., Bot. Jahrb. Syst. 7 : 333 (1886).
 
 – Listrostachys engleriana (Kraenzl.) Kraenzl., Bot. Jahrb. Syst. 19 : 254 (1894), in obs.
@@ -49,25 +47,21 @@ tags: [species, generated]
 
 – Aerangis floribunda (Rolfe) Summerh., Kew Bull. 1932 : 509 (1932).
 
-Tiges 1-6 (-30) cm. Feuilles 5-11, 6,5-20 × 0,6-2 cm, en éventail, rubanées, inégalement bilobées au sommet. Inflorescence 5-25 (-42) cm, 5-15-flore. Fleurs assez petites, résupinées, blanches puis jaune-orange, éperon vert olive rosâtre ou blanc, parfumées le jour. Sépale dorsal ové, aigu. Pétales obliquement linéaires-lancéolés. Sépales latéraux oblique-ment lancéolés à oblongs-ovés. Labelle 6,7-8,5 × 4-7 mm, ové-cordé, très faiblement trilobé ; lobe médian ové-triangulaire ; lobes latéraux arrondis. Éperon (4-) 5,5-10 (-12) cm, filiforme, pendant. - Pl. 172, p. 377.
+Stems 1–6 (–30) cm. Leaves 5–11, 6.5–20 × 0.6–2 cm, fan-shaped, ribbon-like, unequally bilobed at apex. Inflorescence 5–25 (–42) cm, 5–15-flowered. Flowers rather small, resupinate, white then yellow-orange, spur olive-green rosaceous or white, fragrant during the day. Dorsal sepal ovate, acute. Petals obliquely linear-lanceolate. Lateral sepals obliquely lanceolate to oblong-ovate. Labellum 6.7–8.5 × 4–7 mm, ovate-cordate, very weakly trilobed; median lobe ovate-triangular; lateral lobes rounded. Spur (4–) 5.5–10 (–12) cm, filiform, pendulous. - Pl. 172, p. 377.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Zaire, Rwanda, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe, Mozambique, South African Republic
 
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Zaïre, Rwanda, Ouganda, Kenya, Tanzanie, Angola, Zambie, Malawi, Zimbabwe, Mozambique, République sudafricaine
-
-PL. 171. – Structure du gynostème du genre Rangaeris (Schltr.) Summerh. : A, vue de face ; B, vue latérale ; C, rostelle avec tegula et viscidie, vue de face ; D, vue latérale, pollinie enlevée ; E, F, reste du rostelle, vue de face ; G, pollinies, vues diverses ; H-J, tegula et viscidie, vues diverses (A-J, ex SZLACHETKO & al., 2003).
+PL. 171. – Structure of the gynostegium of the genus Rangaeris (Schltr.) Summerh.: A, front view; B, lateral view; C, rostellum with tegula and viscidium, front view; D, lateral view, pollinium removed; E, F, remainder of rostellum, front view; G, pollinia, various views; H–J, tegula and viscidium, various views (A–J, ex SZLACHETKO & al., 2003).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,180–2,200 m. Epiphytic in evergreen forest of low and medium altitude, Brachystegia forest, observed on Brachystegia bœhmii, Erythrophleum guineense, Irvingia smithii, lithophytic on granitic rock with Asplenium stuhlmanii and Anthropteris orientalis
 
-alt. 1 180-2 200 m. Épiphyte en forêt sempervirente de basse et moyenne altitude, forêt à Brachystegia, observé sur Brachystegia bœhmii, Erythrophleum guineense, Irvingia smithii, lithophyte sur rocher granitique avec Asplenium stuhlmanii et Anthropteris orientalis
+MATERIAL STUDIED (Map 79):
 
-MATÉRIEL ÉTUDIÉ (Carte 79) :
-
-Duparquet s.n., s.loc., P!. Hallé 2845, Bélinga (fl. Oct.), P!. Klaine 2053, Libreville (fl. Déc.), P!. Pobecguin 192, îlc dc N'Jégoué (fl. Déc.), P!.
+Duparquet s.n., s.loc., P!. Hallé 2845, Bélinga (fl. Oct.), P!. Klaine 2053, Libreville (fl. Dec.), P!. Pobeguin 192, Isle of N'Jégoué (fl. Dec.), P!.
 
 ## Figures
 

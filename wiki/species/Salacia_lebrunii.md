@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climber exceeding 1 cm in diameter with abnormal wood structure showing concentric striae. No latex. Internodes glabrous with 4(5) prominent subwinged angular ridges, olivaceous and micropustulate. Leaves opposite or slightly subopposite. Petiole 2-3(5) mm, with margins of the channel finely undulate. Lamina 2.5-7.5 × 1.5-3 mm (up to 9.5 × 4 mm in Zaïre), olivaceous concolorous when dry, obtuse to rounded at the base, with acumen 4-8 mm, dentate. Secondary veins 5-8 pairs.
 
-Liane dépassant 1 cm de diamètre à bois de structure anormale à strie concentrique. Pas de caoutchouc. Entre-nœuds glabres à 4(5) arêtes saillantes subaliformes, micropustuleux olivacés. Feuilles opposées ou un peu subopposées. Pétiole de 2-3(5) mm, à bords du canal finement ondulés. Limbe de 2,5-7,5 × 1,5-3 mm (jusqu'à 9,5 × 4 mm au Zaïre), olivacé concolore à sec, obtus à arrondi à la base, à acumen de 4-8 mm, denté. Nervures secondaires 5-8 paires.
+Axillary fascicles pauciflorous (1-3 and up to 6 flowers in Zaïre). Pedicel 3-5 mm, micropustulate when dry. Bud oblong, 1.8-2.8 × 1-1.5 mm. Flowers 4-4.5 mm in diameter, yellow-orange. Sepals somewhat unequal, semi-orbicular denticulate. Petals 5, spreading, 2-3 × 1 mm, sometimes slightly angular at the apex. Disc yellow, nearly 1 mm in diameter, elevated in barrel form by a small androphore that separates it from the two stamens. Ribbon-like filament excurved, exceeding 1 mm; anther orange-red with 2 short lobes in chevron at 90°. Style subconical rostrate, 1 mm, slightly compressed between the stamens. Ovary with 2 locules superior to the disc (slightly sunken in Zaïre), each with 2 superposed ovules.
 
-Fascicules axillaires pauciflores (1-3 et jusqu'à 6 fleurs au Zaïre). Pédicelle de 3-5 mm, micropustuleux à sec. Bouton oblong de 1,8-2,8 × 1-1,5 mm. Fleurs de 4-4,5 mm de diamètre, jaune orangé. Sépales un peu inégaux, semi-orbiculaires denticulés. Pétales 5 étalés de 2-3 × 1 mm, parfois un peu anguleux au sommet. Disque jaune de près de 1 mm de diamètre, haussé en tonnelet par un petit androphore qui le sépare des deux étamines. Filet rubané excurvé dépassant 1 mm ; anthère orangée à 2 loges courtes en chevron à 90°. Style subconique rostré, de 1 mm, un peu comprimé entre les étamines. Ovaire à 2 loges supérieures au disque (un peu enfoncées au Zaïre), chacune à 2 ovules superposés.
-
-Fruit globuleux d'environ 1,5 cm de diamètre, contenant 1 ou 2 graines. - Pl. 37, fig. 13-25, p. 135.
+Fruit globose, approximately 1.5 cm in diameter, containing 1 or 2 seeds. — Pl. 37, fig. 13-25, p. 135.
 
 ## Type
 
@@ -31,9 +29,7 @@ Lebrun 6302, Zaïre, lac Léopold II, 10.1932 (holo-, BR !, iso-, K !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Zaïre. À rechercher au Sud Cameroun.
+Gabon, Zaïre. To be sought in South Cameroon.
 
 ## Specimens examined
 

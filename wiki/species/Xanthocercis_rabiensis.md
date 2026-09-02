@@ -21,7 +21,7 @@ Tree of ± 40 m in height; trunk up to 3 m in diameter; branchlets with grey-bro
 
 ## Distribution
 
-endemic to Gabon, known from Ogooué Maritime, Rabi-Kounga and Fernand-Vaz
+endemic to Gabon, known from Ogooué-Maritime, Rabi-Kounga and Fernand-Vaz
 
 ## Ecology
 

@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Diaphananthe densiflora (Summerh.) Summerh., Kew. Bull. 14 : 143 (1960).
 
-Tige 10-50 cm. Feuilles 4-12 x 0,8-2,5 cm, tordues à la base pour se situer dans un même plan, elliptiques à oblongues ou blancéolées. Inflorescence 1-4 cm, 10-20-flore. Fleurs minuscules, non résupinées,
-
-cireuses, blanches, jaunâtres ou verdâtres. Sépale dorsal oblong-elliptique, obtus. Pétales orbiculaires, tronqués à brièvement apiculés. Sépales latéraux obliquement elliptiques à oblongs-lancéolés. Labelle 2,5-4 x 3,5-5 mm, transversalement elliptique ou largement orbiculaire, entier ou très faiblement trilobé ; lobe médian petit, subaigu, callus double à la gorge de l'éperon, bas, transversal et cilié. Éperon 2-3 mm, ellipsoïde-claviforme, obtus, droit. – Pl. 211, p. 445.
+Stem 10–50 cm. Leaves 4–12 × 0.8–2.5 cm, twisted at the base to lie in one plane, elliptic to oblong or lanceolate. Inflorescence 1–4 cm, 10–20-flowered. Flowers minute, non-resupinate, waxy, white, yellowish or greenish. Dorsal sepal oblong-elliptic, obtuse. Petals orbicular, truncate to shortly apiculate. Lateral sepals obliquely elliptic to oblong-lanceolate. Labellum 2.5–4 × 3.5–5 mm, transversely elliptic or broadly orbicular, entire or very weakly trilobed; median lobe small, subacute; callus double at the mouth of the spur, low, transverse and ciliate. Spur 2–3 mm, ellipsoid-clavate, obtuse, straight. – Pl. 211, p. 445.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Cameroun, Gabon, Zaïre, Rwanda, Ouganda, Angola, Zambie
+Liberia, Cameroon, Gabon, Zaire, Rwanda, Uganda, Angola, Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,050–2,000 m. Epiphytic in dense humid forest, montane forest
 
-alt. 1 050-2 000 m. Épiphyte en forêt dense humide, forêt de montagne
+MATERIAL EXAMINED (Map 95):
 
-MATÉRIEL ÉTUDIÉ (Carte 95) :
-
-Le Testu 5767, chutes de la Mboumi à Mbigou (fl. Nov.), BR!, K, P!.
+Le Testu 5767, falls of the Mboumi at Mbigou (fl. Nov.), BR!, K, P!.
 
 ## Figures
 

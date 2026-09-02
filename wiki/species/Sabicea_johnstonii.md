@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small climber related to the preceding species. Petioles 5–25 mm. Leaf not entirely glabrous above: there are at least a few hairs on the veins and between them; below much paler, white-felted; lamina 5–12 × 2–6 cm with acute apices. Midvein pubescent above; 9–18 pairs of lateral veins brown, pubescent below.
 
-Petite liane voisine de l'espèce précédente. Pétioles de 5-25 mm. Feuille non tout à fait glabre dessus : il y a au moins quelques poils sur les nervures et entre celles-ci; dessous beaucoup plus clair blanc-feutré; limbe de 5-12 × 2-6 cm à extrémités aiguës. Médiane pubescente dessus; 9-18 paires de nervures latérales brunes pubescentes dessous.
+Inflorescence peduncle 2–7(9) cm long, pubescent. At least 4 pubescent suborbicular-acute bracts, at first enveloping then reflexed. Flowers very numerous in a spherical cluster, at first ± sessile. Sepals pubescent ± woolly externally, lanceolate acute, 3–6 × 0.5–1.5 mm, little spreading, rather suberect. Corolla white or salmon-pink. Pedicel accrescent at the end of anthesis.
 
-Pédoncule de l'inflorescence long de 2-7(9) cm, pubescent. Au moins 4 bractées pubescentes suborbiculaires-aiguës d'abord enveloppantes puis rabattues. Fleurs très nombreuses en bouquet sphérique, d'abord ± sessiles. Sépales pubescents ± laineux extérieurement, lancéolés aigus de 3-6 × 0,5-1,5 mm, peu étalés, plutôt subérigés. Corolle blanche ou rose-saumon. Pédicelle accrescent en fin d'anthèse.
-
-Fruit à pédicelle de 2-10 mm, blanc à pulpe rouge.
+Fruit with pedicel 2–10 mm, white with red pulp.
 
 ## Type
 
@@ -31,9 +29,7 @@ Johnston s.n., Cross-River, Sud Nigeria (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue du Sud Nigeria jusqu'au Congo oriental. Le matériel gabonais, encore insuffisant, diffère du type par ses nervures foliaires moins nombreuses, ses pédicelles moins longs, ses sépales étroits non laineux et son port plus volubile.
+Species widespread from southern Nigeria to eastern Congo. The Gabonese material, still insufficient, differs from the type by its fewer foliar veins, its shorter pedicels, its narrow non-woolly sepals and its more twining habit.
 
 ## Specimens examined
 

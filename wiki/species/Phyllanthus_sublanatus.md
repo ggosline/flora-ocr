@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe à base ligneuse ou arbrisseau jusqu’à 90 cm de hauteur , glabre. Stipules trian gulaires, ± 1 mm de longueur. Feuille : pétiole 0,3–0,5 mm ; limbe oblong à lancéolé, (2–)3–9 × (1,5–)2–3 mm, à base arrondie, à sommet aigu, à marge finement denticulée et à 4–7 paires de nervures latérales. Fleurs monoïques. Fleur mâle en cymules axillaires ; pédicelle 0,2–0,45 mm ; sépales 5, 0,6–0,9 × 0,4–0,5 mm ; disque formé d’éléments al -
-
-ternisépales ; étamines 3 , ± 0,5 mm de longueur, à filets soudés. Fleur femelle solitaire ; pédicelle 1,8–2,4 mm ; sépales 5 , 0,7–1,2 × 0,4–0,7 mm ; disque annulaire ; ovaire lisse ; stigmates sessiles , souvent un peu bilobés. Fruit capsulaire , 2,5–2,8 mm de diamètre. Graines en forme d’onglet sphérique, brunâtres à noirâtres, ornés dorsalement de 8–10 costules longitudinales.
+Herb with woody base or shrub up to 90 cm tall, glabrous. Stipules triangular, ± 1 mm long. Leaf: petiole 0.3–0.5 mm; lamina oblong to lanceolate, (2–)3–9 × (1.5–)2–3 mm, with rounded base, acute apex, finely denticulate margin and 4–7 pairs of lateral veins. Flowers monoecious. Male flower in axillary cymules; pedicel 0.2–0.45 mm; sepals 5, 0.6–0.9 × 0.4–0.5 mm; disk formed of alternisepalous elements; stamens 3, ± 0.5 mm long, with fused filaments. Female flower solitary; pedicel 1.8–2.4 mm; sepals 5, 0.7–1.2 × 0.4–0.7 mm; disk annular; ovary smooth; stigmas sessile, often slightly bilobed. Fruit capsular, 2.5–2.8 mm in diameter. Seeds spiculate, brownish to blackish, adorned dorsally with 8–10 longitudinal costules.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue de l’Afrique de l’Ouest, du Mali et de la Sierra Leone jusqu’au nord du Nigeria ; au Gabon, signalée ici pour la première fois, dans l’Ogooué–Maritime
+Known from West Africa, from Mali and Sierra Leone to northern Nigeria; in Gabon, recorded here for the first time, in Ogooué–Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains à végétation secondaire ; au Gabon, à 100–350 m d’altitude. b : Brunel (1987), Keay (1958). ibliographie
+Secondary vegetation areas; in Gabon, at 100–350 m altitude. b: Brunel (1987), Keay (1958). Bibliography
 
 ## Notes
 

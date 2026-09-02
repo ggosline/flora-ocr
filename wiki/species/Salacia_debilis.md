@@ -17,17 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender rather than stout liane, glabrous, lacking rubber, 3–30 m high; wood reaching 4 cm in diameter, with fine concentric parenchymatous striae spaced 1–3 mm apart on the cross-section. Young internodes with 4 fine ridges and an epidermis often micropustulate; branches often lenticellate. Petiole (2)3.5–9 mm, with margins of the canal crisp and undulate. Blade elliptic, 5–13 × 2–6 cm, discolorous when dry, rounded or obtuse at base, acuminate at apex, with loosely dentate margins. Midvein forming a fine prominent ridge above; 6–8 pairs of secondary nerves.
 
-Liane plutôt grêle, glabre, dépourvue de caoutchouc, haute de 3-30 m ; bois atteignant 4 cm de diamètre, à coupe ornée de fines stries parenchymateuses concentriques espacées de 1-3 mm. Jeunes entre-nœuds avec 4 fines arêtes et un épiderme souvent micropustuleux ; rameaux souvent lenticellés. Pétiole de (2)3,5-9 mm, à marges du canal crispées ondulées. Limbe elliptique de 5-13×2-6 cm, discolore à sec, arrondi ou obtus à la base, acuminé au sommet, à marges dentées de façon lâche. Nervure médiane formant une fine crête en saillie dessus ; 6-8 paires de nervures secondaires.
+Axillary fascicles or sessile glomerules (1)2–8-flowered. Pedicel slender, (3)6–21 mm long. Bud globose, approximately 1.8 mm in diameter. Flower rotate, 3–5 mm in diameter, yellow, yellow-green or pale green. Sepals subequal, approximately 1 mm wide, 0.4 mm long, the inner ones at least rounded, denticulate to ciliolate. Petals curved outward above the base, 1.8–2 mm, about as wide as or nearly as long, irregularly orbicular or subpolygonal, marked with subapical pits. Disk subpentagonal, with a weak subcupular margin and somewhat fleshy around the stamens; filaments very short and not in contact; anthers transversely dehiscent, approximately 0.4 mm wide. Pistil pyramidal, very short; locules half-sunken below the disk level; 2 superposed ovules per locule.
 
-Fascicules axillaires ou glomérules sessiles (1)2-8-flores. Pédicelle grêle long de (3)6-21 mm. Bouton globuleux d'environ 1,8 mm de diamètre. Fleur rotacée de 3-5 mm de diamètre, jaune, jaune vert ou vert pâle. Sépales subégaux, d'environ 1 mm de largeur, sur 0,4 mm de lon-
-
-PL. 23. – Salacia togoica Loes. : 1, bouton ; 2, calices vus par dessous ; 3, fleur, diam. 9 mm ; 4, pétales 3,6 × 3,5 mm ; 5, 5, disque ; 6, coupe du disque, diam. 2,5 mm ; 7, 7, jeune anthère ; 8, 8, étam- 9, 9, loges biovulées (1, 2, 4, 5, 5, 7, 8, Keay FHI 28265, Nigeria ; 2, 3, 8, 9, Letouzey 14822 ; 6, 7, 9, Aké Assi 1465, Côté-d'Ivoire. – S. gabunensis Loes. : 10, bouton ; 11, calice vu par dessous ; 12, 12, sépales, largeur env. 1,3 mm ; 13, fleur, diam. env. 5,2 mm ; 14, 14, pétales, env. 2,3 × 1,5 mm ; 15, 15, disques ; 16, coupe du disque, diam. 1,6 mm ; 17, jeune anthère ; 18, étam- 19, coupe du pistil ; 20, 20, loges pluriovulees (10, 12, 15, 19, Klaine 3276 ; 11, 20, Bos 5744 ; 12, 14, 17, 20, Tessmann 956 ; 13, 16, 18, Leeuwenberg 5242 ; 14, 15, Soyaux s.n.).
-
-gueur, les intérieurs au moins arrondis, denticulés à ciliolés. Pétales arqués extérieurement au-dessus de la base, de 1,8-2 mm, aussi larges ou presque que longs, irrégulièrement orbiculaires ou subpolygonaux, marqués de fossettes subapicales. Disque subpentagonal, à faible rebord subcupulaire et un peu charnu autour des étamines ; filets très courts et non jointifs ; anthères transversalement déhiscentes et larges d'environ 0,4 mm. Pistil pyramidal très court ; loges demi-enfoncées sous le niveau du disque ; 2 ovules superposés par loge.
-
-Fruit lisse devenant rouge, comme une cerise de 1,7-3,2 mm de diamètre et contenant 1-3 graines. – Pl. 24, fig. 1-13, p. 91.
+Fruit smooth, becoming red, like a cherry, 1.7–3.2 mm in diameter, containing 1–3 seeds. – Pl. 24, fig. 1–13, p. 91.
 
 ## Type
 
@@ -37,21 +31,19 @@ Winkler & Stoessel 84, Cameroun (iso-, G!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Senegal, Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Fernando Po, Cameroon, Gabon, Central African Republic, Congo, Zaïre.
 
-Sénégal, Guinée, Sierra Leone, Liberia, Côte-d'Ivoire, Ghana, Fernando-Po, Cameroun, Gabon, Centrafrique, Congo, Zaïre.
+Liane of primary or old secondary forest, often flowering on riverbanks, wind-throw areas or forest margins.
 
-Liane de forêt primitive ou secondaire ancienne, fleurissant souvent en rives, chablis ou lisières.
+A very closely related species from swamp forest in Zaïre is to be sought in Cameroon and Gabon: S. alveolata Louis ex Wilczek. The flowers are somewhat larger, 5 mm in diameter; the sepals longer and more acute, furnished on the overlapping margins with 1–3 long cilia; the pistil is depressed and hollowed out by 3 pits bearing the stamens; the leaves are less distinctly dentate; the young branches are more compressed and do not, as in debilis, show the tendency to be quadrate in cross-section and subalate.
 
-Une espèce très voisine de forêt marécageuse au Zaïre, est à rechercher au Cameroun et au Gabon : S. alveolata Louis ex Wilczek. Les fleurs sont un peu plus grandes, 5 mm de diamètre ; les sépales plus longs et plus aigus sont munis sur les marges recouvrantes de 1-3 longs cils ; le pistil est surbaissé et creusé de 3 fossettes portant les étamines ; les feuilles sont moins nettement dentées ; les jeunes rameaux sont plus comprimés et n'ont pas comme chez debilis la tendance à être carrés en coupe et subailés.
+In another very closely related species, S. volubilis, the pistil is more elevated than that of debilis (cfr. below).
 
-Chez une autre espèce très voisine, S. volubilis, le pistil est plus surélévé que celui de debilis (cfr. ci-dessous).
+In various respects the species is related to S. debilis (G. Don) Walp. despite the elongation of the central organs of the flower. In reality this elongation varies according to the collections: Letouzey 14966 has the smallest flowers, 2.5 mm, those of De Wilde J.J. 7870 measure 3.8 mm. The tomentose branches and glabrescescent leaves of the Latin diagnosis are in contradiction with the isotype studied. There is no rubber contrary to the indication in FWTA (ed. 2).
 
-A divers titres l'espèce est apparentée au S. debilis (G. Don) Walp. malgré l'allongement des organes centraux de la fleur. En réalité cet allongement s'échelonne suivant les récoltes : Letouzey 14966 a les plus petites fleurs, 2,5 mm, celles de De Wilde J.J. 7870 mesurent 3,8 mm. Les rameaux tomenteux et les feuilles glabrescentes de la diagnose latine sont en contradiction avec l'isotype étudié. Il n'y a pas de caoutchouc contrairement à l'indication de la FWTA (ed. 2).
+MATERIAL STUDIED (Cameroon):
 
-MATÉRIEL ÉTUDIÉ (Cameroun) :
-
-De Wilde J.J. 7870, Nkolandom, colline 730 m, 3.1.1975 (fl.). Letouzey 9788, Riv. Ngobo, piste Okola-Mva-Evodula, 3.1.1970 (fl.); 14966, SE Mt. Etinde ou Petit Mt. Cameroun, 10 km NW Limbé (Victoria), 750 m, 24.5.1976 (fl., fr.). Thomas 2216, Rés. Sud Korup, Riv. Mana, 50 m, 4.55'N, 8.50'E, 6-16.7.1983 (fl.). Winkler & Stoessel 84, Limbé (Victoria), 18.6.1904 (fl.), G.
+De Wilde J.J. 7870, Nkolandom, hill 730 m, 3.1.1975 (fl.). Letouzey 9788, Riv. Ngobo, trail Okola-Mva-Evodula, 3.1.1970 (fl.); 14966, SE Mt. Etinde or Petit Mt. Cameroon, 10 km NW Limbé (Victoria), 750 m, 24.5.1976 (fl., fr.). Thomas 2216, Rés. Sud Korup, Riv. Mana, 50 m, 4.55'N, 8.50'E, 6–16.7.1983 (fl.). Winkler & Stoessel 84, Limbé (Victoria), 18.6.1904 (fl.), G.
 
 ## Specimens examined
 

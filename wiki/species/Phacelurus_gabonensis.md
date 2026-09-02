@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Poac. CI.: 644, 645 ; Gram. CB.: 323. – Jardinea congoensis (Hack.) Franch. – Fl. Gab.: 125 ; FACB 1: 55, Pl. 1 ; FWTA: 504. – J. gabonensis Steud. – Fl. Gab.: 124 ; FACB 1: 55. – Phacelurus congoensis (Hack.) van der Zon – Gram. Cam.: 521, Pl. 113.
 
 ## Specimens examined

@@ -21,7 +21,7 @@ Shrub 1–3 m tall, much branched; branchlets straight, striate, finely pubescen
 
 ## Distribution
 
-of American origin, now distributed in intertropical zones; in Africa, known from West and Central Africa; in Gabon, observed in the Estuary and Ogooué-Ivindo
+of American origin, now distributed in intertropical zones; in Africa, known from West and Central Africa; in Gabon, observed in the Estuaire and Ogooué-Ivindo
 
 ## Ecology
 

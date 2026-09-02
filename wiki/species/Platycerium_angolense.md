@@ -21,13 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Welw. ex Hk., Syn. Fil.: 425 (1868). — Tard., Mém. IFAN 28 : 208, pl. 41, f. 2. — Alston, FWTA : 46 (1959).
 
-Rhizome couvert d'écailles étroitement lancéolées, très effilées, portant une pseudo-nervure centrale formée de cellules
-
-très épaisses noires, cellules marginales très minces et pâles. Feuilles collectrices d'humus arrondies, scarieuses, longues de 10-12 cm sur autant de large, entières, ou presque. Feuilles normales pendantes, ovales-linguiformes, entières, pouvant atteindre 30-40 cm sur 15-20 de large, fertiles au sommet seulement, ou la partie fertile pouvant occuper presque toute la fronde. Sporanges mêlés de poils stellés.
+Rhizome covered with scales that are narrowly lanceolate, very attenuate, bearing a pseudo-nerve formed of very thick black cells, marginal cells very thin and pale. Humus-collecting leaves rounded, scarious, 10–12 cm long by as much wide, entire or nearly so. Normal leaves pendulous, ovate-ligulate, entire, able to reach 30–40 cm by 15–20 wide, fertile at the apex only, or the fertile part able to occupy almost the entire frond. Sporangia mixed with stellate hairs.
 
 ## Type
 
@@ -39,17 +35,15 @@ Drynaria quercifolia (L.) J. Sm
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa, Comoros.
 
-Afrique tropicale, Comores.
+Rarely on rocks. Most often epiphytic. Savanna and forest galleries.
 
-Rarement sur les rochers. Le plus souvent épiphyte. Savane et galeries forestières.
+Madagascar. That of Madagascar is Platycerium alcicorne (Willm.) Desv. (I incorrectly made the combination P. alcicorne (Willm.) Tard. in Not. Syst. 15 : 417 (1959) (= Acrostichum alcicorne of Willemet and Sw.). That of Africa is P. stemaria of Palisot but the author himself confused the two species and, although he figured his new species, he says: "This pretty fern had been found by Commerson in Madagascar" (the plant exists in the Jussieu herbarium, but it is P. alcicorne).
 
-Madagascar. Celui de Madagascar est le Platycerium alcicorne (Willm.) Desv. (j'ai fait à tort la combinaison P. alcicorne (Willm.) Tard. in Not. Syst. 15 : 417 (1959) (= Acrostichum alcicorne de Willemet et de Sw.). Celui d'Afrique est le P. stemaria de Palisot mais l'auteur lui-même a confondu les deux espèces et, bien qu'il ait figuré son espèce nouvelle, il dit : « Cette jolie fougère avait été trouvée par Commerson à Madagascar » (la plante existe dans l'herbier Jussieu, mais c'est le P. alcicorne).
+Tropical Africa, Comoros. Epiphytic on Elaeis or mango.
 
-Afrique tropicale, Comores. Epiphyte sur Elaeis ou manguier.
-
-Environ 20 espèces. 3 en Afrique et Madagascar, le reste d'Asie au Queensland; une seule espèce au Gabon.
+About 20 species. 3 in Africa and Madagascar, the rest from Asia to Queensland; only one species in Gabon.
 
 ## Specimens examined
 

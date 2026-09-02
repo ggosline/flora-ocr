@@ -25,7 +25,7 @@ purple, paler at throat, pubescent on exterior, tube 20–22 mm long, upper lip 
 
 ## Distribution
 
-Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda and Tanzania, also in tropical Asia, from Sri Lanka to the Philippines; in Gabon, observed in Ogooué-Maritime (Doudou Mountains) and Middle Ogooué (Lambaréné).
+Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda and Tanzania, also in tropical Asia, from Sri Lanka to the Philippines; in Gabon, observed in Ogooué-Maritime (Doudou Mountains) and Moyen-Ogooué (Lambaréné).
 
 ## Ecology
 

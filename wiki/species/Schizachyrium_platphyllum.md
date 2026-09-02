@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs generally annual, though some individuals sometimes manage to regrow after the dry season. Stems creeping at the base, then erect, capable of rising more than 2 m high, thanks to support provided by other Grasses. Leaf sheaths very flattened, glabrous; ligules membranous, short, ciliate; blades 2.5 to about ten centimetres long and 2 to 10 mm wide, glabrous, except sometimes above the ligule, often tinged with red-brown, as are the sheaths.
 
-Herbes généralement annuelles, certains pieds arrivant cependant parfois à repousser après la saison sèche. Tiges rampantes à la base, puis dressées, pouvant s'élever à plus de 2 m de haut, grâce au support fourni par les autres Graminées. Gaines foliaires
+Inflorescences reaching about thirty centimetres long, highly branched. Spathes and spathеoles narrow, racemes 5 to 8 cm long, slender, with 6 to 10 glabrous articles, about 3 mm long. Sessile spikelet lanceolate, narrow, slightly convex on the back, about 4 mm long. Lower glume bidentate or truncate, finely scabrous, with 3 or 5 nerves. Upper glume with 1 nerve. Lower flower reduced to a hyaline glumella as long as the glumes. Fertile lemma bifid almost to the base, awn 8 mm long. Palea absent. Pedicellate spikelets reduced to a single glume about 1 mm long and terminated by a subule about 2 mm.
 
-très aplaties, glabres; ligules membraneuses courtes, ciliées; limbes de 2,5 à une dizaine de centimètres de long et 2 à 10 mm de large, glabres, sauf quelquefois au-dessus de la ligule, souvent teintés de brun-rouge, ainsi que les gaines.
-
-Inflorescences atteignant une trentaine de centimètres de long, très ramiﬁées. Spathes et spathéoles étroites, racèmes de 5 à 8 cm de long, fins, avec 6 à 10 articles glabres, d'environ 3 mm de long. Épillet sessile lancéolé étroit, légèrement bombé sur le dos, d'environ 4 mm de long. Glume inférieure bidentée ou tronquée, finement scabre, à 3 ou 5 nervures. Glume supérieure à 1 nervure. Fleur inférieure réduite à une glumelle hyaline aussi longue que les glumes. Lemma fertile bifide presque jusqu'à la base, arête de 8 mm de long. Paléa absente. Épillets pédicellés réduits à une seule glume d'environ 1 mm de long et terminée par une subule d'environ 2 mm.
-
-L'espèce est signalée au Congo Belge, dans la région de Brazzaville, en Oubangui et en Guinée. En fait, elle doit avoir une répartition assez générale dans toutes les zones de savanes guinéennes et soudano-guinéennes d'Afrique occidentale et centrale, sur des terrains sablo-argileux à argileux relativement frais. C'est une bonne plante fourragère. Au Gabon, on peut la rencontrer surtout dans les savanes de la Ngounyé et de la Nyanga, sur les terrains argileux d'origine schisto-calcaire.
+The species is recorded from Belgian Congo, in the Brazzaville region, in Ubangi and in Guinea. In fact, it must have a fairly general distribution throughout all the Guinean and Sudano-Guinean savanna zones of West and Central Africa, on relatively fresh sandy-clay to clay soils. It is a good forage plant. In Gabon, it can be encountered especially in the savannas of the Ngounyé and Nyanga, on clay soils of schisto-calcareous origin.
 
 ## Specimens examined
 

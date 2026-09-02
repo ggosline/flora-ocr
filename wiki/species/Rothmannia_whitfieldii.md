@@ -31,15 +31,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 2–5 (8–15?) m tall. Internodes puberulent. Stipules deltoid acuminate pubescent 4–5 mm, caducous. Petiole 6–15 mm, puberulent then glabrescent. Lamina glabrous above, pubescent or ± glabrous below, sometimes glossy, sometimes discolorous, elliptic, sometimes obovate, 13–25 × 4–10 cm, acute or subobtuse at base. Venation pubescent or glabrous below; 9–15 pairs of secondary arched ascending veins; intersecondary veinlets distinct on lower surface. Domatia absent.
 
-Arbuste ou petit arbre de 2-5 (8-15?) m de hauteur. Entre-nœuds pubérulents. Stipules deltoïdes acuminées pubescentes de 4-5 mm, caduques. Pétiole de 6-15 mm, pubérulent puis glabrescent. Limbe glabre dessus, pubescent ou ± glabre dessous, parfois vernissé, parfois discolore, elliptique, parfois obové, de 13-25 × 4-10 cm, à base aiguë ou subobtuse. Nervures pubescentes ou glabres dessous; 9-15 pairs de secondaires arquées ascendantes; nervilles intersecondaires distinctes à la face inférieure. Domaties nulles.
+Flowers solitary white, pendulous, arising from an internode 2–6 (15) mm, borne on a reddish pubescent peduncle 10–25 mm bearing 4 to 6 opposite or supposed bracteoles, deltoid acute 3–5 mm. Ovary ± distinctly 10-furrowed reddish pubescent as well as the 5-prismatic or cylindrical calyx tube; 5 linear or tapered erect lobes, (12) 15–50 (70) mm long, subequal. Corolla when dry reddish pubescent, of variable size, 10–23 cm long ordinarily in Gabon; tube 3–6 cm long in its narrow part, with expanded throat approximately 3–5 × 4–6 cm, glabrous inside; 5 ovate acute to orbicular lobes approximately 2.5–4 cm. Anthers almost entirely included attaining 40 × 3 mm, with apiculate or obtuse apex, attenuate at base and briefly bilobed or obtuse. Pollen tricolporate breviaxial reticulate. Style filiform glabrous with fleshy white clavate head approximately 5 × 1 cm, bilabirate at apex, entirely exsert.
 
-Fleurs solitaires blanches, pendantes, issues d'un entrenœud de 2-6 (15) mm, portées par un pédoncule roux pubescent de 10-25 mm portant 4 à 6 bractéoles opposées ou supposées, deltoïdes aiguës de 3-5 mm. Ovaire ± distinctement 10-sillonné roux pubescent ainsi que le tube du calice 5-prismatique ou cylindrique; 5 lobes linéaires ou effilés dressés, longs de (12) 15-50 (70) mm, subégaux. Corolle à sec roux pubescent, de taille variable, de 10-23 cm de longueur ordinairement au Gabon; tube de 3-6 cm de longueur dans sa partie étroite, à gorge évasée d'env. 3-5 ×
-
-4-6 cm. glabre à l'intérieur; 5 lobes ovés aigus à orbiculaires d'env. 2,5-4 cm. Anthères presque entièrement incluses atteignant 40 × 3 mm, à sommet apiculé ou obtus, à base atténuée et brièvement bilobée ou obtuse. Pollen tricolporé briviaxe réticulé. Style filiforme glabre à massue charnue blanche d'env. 5 × 1 cm, bilabiée au sommet, entièrement exserte.
-
-Fruit globoïde de 5-7 cm de diamètre, tantôt sphérique, tantôt ± profondément 10-costé, à tube du calice persistant présentant parfois un étranglement à la base. Paroi du fruit épaisse d'environ 3-5 mm. Graines sublenticulaires d'env. 11 mm.
+Fruit globoid 5–7 cm in diameter, sometimes spherical, sometimes ± deeply 10-ribbed, with persistent calyx tube sometimes presenting a constriction at the base. Fruit wall approximately 3–5 mm thick. Seeds sublenticular approximately 11 mm.
 
 ## Type
 
@@ -47,11 +43,9 @@ Whitfield 1844 (holotype BM!, isotype K), Sierra Leone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The variability of the species and its very wide distribution explain the abundance of synonymy. Smooth-fruited and ribbed-fruited specimens are found in Gabon.
 
-La variabilité de l'espèce et sa très large distribution expliquent l'abondance de la synonymie. On trouve au Gabon des fruits lisses et des fruits côtelés.
-
-Sénégal, Soudan, Guinées, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Rio-Muni, Gabon, Congo, Centrafrique, Kenya, Tanganyika, Uganda, Nord Rhodésie et Angola.
+Senegal, Sudan, Guineas, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Rio Muni, Gabon, Congo, Central African Republic, Kenya, Tanganyika, Uganda, Northern Rhodesia and Angola.
 
 ## Vernacular names
 

@@ -27,19 +27,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, stoloniferous, culms reaching 6 m tall and 2 to 3 cm in diameter, often pruinose and pubescent. Ligule ciliate, sheaths and blades more or less pubescent with tubercle-based hairs.
 
-Herbe pérenne, stolonifère, chaumes atteignant 6 m de haut et 2 à 3 cm de diamètre, souvent pruineux et pubescents. Ligule ciliée, gaines et limbes plus ou moins pubescents à poils tuberculés à la base.
+Inflorescences most often yellow. Spikelets solitary or in glomerate clusters; involucres with numerous bristles, a certain number toward the center are plumose, the others scabrous; one, longer than the rest, may reach 15 to 40 mm in length, the others measuring between 10 and 20 mm.
 
-Inflorescences le plus souvent jaunes. Épillets solitaires ou en glomérules; involucres à nombreuses soies, un certain nombre vers le centre, sont plumeuses, les autres scabres; l'une, plus longue peut atteindre de 15 à 40 mm de long, les autres ayant entre 10 et 20 mm.
+Spikelets lanceolate, 4.5 to 7 mm long; lower glume suppressed or reduced, the upper glume approximately 1 mm, with 1 nerve more or less distinct. Lower floret most often sterile; lemma of variable size, with 1 or 3 nerves; palea often reduced or absent. Upper floret with lemma as long as the spikelet, scabrous in its upper part, with 5 or 7 nerves; palea narrow, shorter.
 
-Épillets lancéolés, de 4,5 à 7 mm de long; glume inférieure supprimée ou réduite, la supérieure d'environ 1 mm, à 1 nervure plus ou moins distincte. Fleur inférieure le plus souvent neutre; lemma de taille variable, à 1 ou 3 nervures; paléa souvent réduite ou nulle. Fleur supérieure à lemma aussi longue que l'épillet, scabre dans sa partie supérieure, à 5 ou 7 nervures; paléa étroite, plus courte.
+Herb very widespread in all forested or sub-forested regions, often in nearly monospecific stands sometimes of considerable extent. Excellent forage, easy to propagate by cutting of culms, known by the name of "Elephant Grass" or "Napier". Resists trampling poorly.
 
-Herbe très répandue dans toutes les régions forestières ou sub-forestières, souvent en peuplements presque monospécifiques parfois considérables. Excellent fourrage, facile à multiplier par bouturage de chaumes, connu sous le nom d’« Herbe à Eléphants » ou de « Napier ». Résiste mal au piétinement.
+Found in forest fallows or on sandy alluvium along rivers where it can tolerate heavy flooding. Nevertheless succeeds well in cultivation in plateau soils that are not too poor.
 
-Se rencontre dans les jachères forestières ou sur des alluvions sableuses le long des rivières où il peut supporter une forte inondation. Réussit cependant bien en culture dans des sols de plateau pas trop pauvres.
-
-Signalé au Gabon par Thollon, sans localité précise, et par Koechlin, aux environs de Libreville et dans le Fernan-Vaz.
+Recorded from Gabon by Thollon, without precise locality, and by Koechlin, in the vicinity of Libreville and in the Fernan-Vaz.
 
 ## Vernacular names
 

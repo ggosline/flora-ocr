@@ -17,47 +17,41 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – S. adolfi-fridericii LOES., Wiss. Ergebn. Zentr.-Afr.-Exped. 1910-1911, 2: 58, 77 (1922), nom. nud.
 
 – S. echinulata Louis ex Wilczek, Bull. Jard. Bot. Etat Brux. 26 : 423 (1956) ; FCB 9 : 224 (1960), syn. nov. TYPE : Louis 14744, Zaïre (holo-, BR !).
 
-Liane de 25-40 m de hauteur et plus de 100 m de longueur, glabre, sans caoutchouc (ou par exception quelques très rares filaments). Bois dépassant 12 cm de diamètre, orné en coupe de cernes concentriques un peu festonnés, espacés de 3-4 mm ; écorce avec une mince couche orange. Rameaux subcylindriques lisses et olivacés, élargis vers les nœuds. Feuilles opposées ou subopposées. Pétiole de 8-20 mm, à bords du canal droits. Limbe concolore vert olive ou olivâtre, elliptique de 8-18 × 3-9(10) cm, à base aiguë, plus rarement un peu obtuse, à acumen souvent médiocre et fréquemment rétréci vers l'extrémité, à marge entière ou parfois ± ondulés subentière. Nervures secondaires 6-9 paires ; fin réseau visible sur les deux faces à sec.
+Liane 25-40 m in height and more than 100 m in length, glabrous, lacking rubber (or exceptionally a few very rare filaments). Wood exceeding 12 cm in diameter, ornamented in cross-section with somewhat scalloped concentric rings, spaced 3-4 mm apart; bark with a thin orange layer. Branchlets subcylindric, smooth and olivaceous, enlarged toward the nodes. Leaves opposite or subopposite. Petiole 8-20 mm, with straight margins of the channel. Blade concolorous olive-green or olivaceous, elliptic 8-18 × 3-9(10) cm, acute at base, more rarely somewhat obtuse, with often mediocre acumen and frequently narrowed toward the apex, with entire margin or sometimes ± undulate subentire. Secondary nerves 6-9 pairs; fine reticulation visible on both surfaces when dry.
 
-Inflorescences en fascicules axillaires sessiles 1-10(15)-flores. Pédi-celles de (4,5)6-15 mm. Bouton ovoide ou subtroniconico-ovoide, de 2,5-3,5 mm de largeur. Fleur subrotacée de (7)8-11 mm de diamètre, jaune, jaune vert ou verdâtre (jaune brunâtre chez le type Mildbraed 4705). Sépales inégaux, plutôt courts, larges de 1,5-3 mm, les plus petits ovés, les plus grands largement arrondis, à marge érodée ciliolée ou paucicilio-lée. Pétales (orangés chez Louis 14744) ovés de 3-5 × 2,5-3,9 mm, entiers, à nervures flabellés. Disque vert, un peu plus foncé vers le bord (marginé), en coussinet subcirculaire de 2,5-3 mm de diamètre, épais de 0,5 mm, ou un peu plus entre les pétales dont les bases sont embrassées. Pas de sillon périgyne. Étamines assez grêles atteignant 1,5-2 mm, à anthère de 0,6-0,9 mm de largeur, à loges confluentes déhiscentes en un chevron obtus. Pistil pyramidal de 1-1,5 mm de hauteur, à stigmate ponctiforme. Loges de l'ovaire demi-enfoncées, à (3)4-6 ovules bisériées chacune.
+Inflorescences in sessile axillary fascicles 1-10(15)-flowered. Pedicels (4.5)6-15 mm. Bud ovoid or subtruncate-ovoid, 2.5-3.5 mm wide. Flower subrotund 7)8-11 mm in diameter, yellow, yellow-green or greenish (yellowish-brown in the type Mildbraed 4705). Sepals unequal, rather short, 1.5-3 mm wide, the smallest ovate, the largest broadly rounded, with eroded ciliolate or pauciciliolate margin. Petals (orange in Louis 14744) ovate 3-5 × 2.5-3.9 mm, entire, with flabellate nerves. Disk green, slightly darker toward the edge (marginate), in a subcircular cushion 2.5-3 mm in diameter, 0.5 mm thick, or somewhat more between the petals whose bases are embraced. No perigynous groove. Stamens rather slender reaching 1.5-2 mm, with anther 0.6-0.9 mm wide, with confluent locules dehiscent in an obtuse chevron. Pistil pyramidal 1-1.5 mm in height, with punctiform stigma. Ovary locules half-sunken, with (3)4-6 biseriate ovules each.
 
-Fruit globuleux de 3-5,5 cm de diamètre, à paroi très épaisse jusqu'à 8-9 mm, à ornamentation surtout lobulée échinulée avec un réseau ± réduit de rides sinueuses. Graines (1)3-6 à cotylédons entièrement soudés. - Pl. 34, fig. 13-24, p. 125.
+Fruit globose 3-5.5 cm in diameter, with very thick wall up to 8-9 mm, with ornamentation chiefly lobed echinulate with a ± reduced network of sinuous wrinkles. Seeds (1)3-6 with entirely fused cotyledons. - Pl. 34, fig. 13-24, p. 125.
 
-SYNTYPES (un seul des quatre n'a pas été vu) : Mildbraed 4705 (HBG !) ; 5166 (HBG !) ; 5201, env. de Lomié, 14.5.1911 ; 5418 (HBG !) ; tous du Cameroun.
+SYNTYPES (only one of four not seen) : Mildbraed 4705 (HBG !) ; 5166 (HBG !) ; 5201, env. de Lomié, 14.5.1911 ; 5418 (HBG !) ; all from Cameroon.
 
-L'espèce a quelques ressemblances avec le S. cornifolia Hook. f. avec lequel elle a parfois été confondu (HALLÉ, Mém. IFAN 64: 194,
+The species has some resemblances to S. cornifolia Hook. f. with which it has sometimes been confused (HALLÉ, Mém. IFAN 64: 194, 1962, collections from Oubangui). S. adolfi-friderici has less coriaceous leaves, often larger, and the disk is marginate: that is to say that the zone of nectar-secreting papillae does not exceed the mid-thickness of the disk; it occupies its entire thickness in S. cornifolia.
 
-1962, récoltes de l'Oubangui). S. adolfi-friderici a des feuilles moins coriaces, souvent plus grandes, et le disque est marginé : c'est-à-dire que la zone des papilles secrétrices de nectar ne dépasse pas la mi-épaisseur du disque ; elle en occupe toute l'épaisseur chez S. cornifolia.
+Note: the fruit was confused by WILCZEK with that of S. pierrei under the erroneous name S. gabunensis. The rich ornamentation of the fruit of pierrei is more lamellose than digitate-echinulate. As for the fruit of S. gabunensis which is little ornamented, it has in common only the remarkable thickness of its wall.
 
-Nota : le fruit a été confondu par WILCZEK avec celui du S. pierrei sous le nom erroné de S. gabunensis. La riche ornamentation du fruit du pierrei est plus lamelleuse que digitée échinulée. Quant au fruit du S. gabunensis qui est peu orné, il n'a de commun que l'épaisseur remarquable de sa paroi.
+Ghana (Hall & Enti 40180, K ; Lock & Hall 44139, K), Cameroon, Gabon (?), Central African Republic (Tisserant 1445, Boukoko). In the large trees of certain dense semi-deciduous forests.
 
-Ghana (Hall & Enti 40180, K ; Lock & Hall 44139, K), Cameroun, Gabon (?), Centrafrique (Tisserant 1445, Boukoko). Dans les grands arbres de certaines forêts denses semi-caducifoliées.
+GABONESE MATERIAL (sterile and doubtful):
 
-MATÉRIEL GABONAIS (stérile et douteux):
+Hallé N. & Le Thomas 718, Bélinga, plot 1, N11, 7.1966.
 
-Hallé N. & Le Thomas 718, Bélinga, relevé 1, N11, 7.1966.
+MATERIAL STUDIED (Cameroon) :
 
-MATÉRIEL ÉTUDIÉ (Cameroun) :
-
-Breteler 1718, Dimako, 28 km SW Bertoua, 650 m, 31.7.1961 (bois, bout.); 2830, NW Bamékok, 30 km SW Batouri, 16.4.1962 (fl.). Letouzey 4773, Bamékok, 35 km SW Batouri, 16.4.1962 (fl.). Mildbraed 4705, Molundu, 15.22'E, 3.27'N, 21.3.1911 (fl.), HBG; 5166, env. de Lomie, 3.9'N, 13.38'E, 12.5.1911 (fl.), HBG; 5418, boucle du Dja, 13.30'N, 12.25'E, 23.5.1911 (fl.), HBG.
+Breteler 1718, Dimako, 28 km SW Bertoua, 650 m, 31.7.1961 (wood, buds); 2830, NW Bamékok, 30 km SW Batouri, 16.4.1962 (fl.). Letouzey 4773, Bamékok, 35 km SW Batouri, 16.4.1962 (fl.). Mildbraed 4705, Molundu, 15.22'E, 3.27'N, 21.3.1911 (fl.), HBG; 5166, env. de Lomie, 3.9'N, 13.38'E, 12.5.1911 (fl.), HBG; 5418, Dja loop, 13.30'N, 12.25'E, 23.5.1911 (fl.), HBG.
 
 27 bis. Salacia tessmannii Loesener
 
-ne pas confondre avec S. tessmanniana Loes. ex Harms, du Pérou.
+not to be confused with S. tessmanniana Loes. ex Harms, from Peru.
 
-Liane glabre dépourvue de caoutchouc, à rameaux âgés densément lenticellés. Pétiole canaliculé de 8-10 mm, à canal étroit. Limbe discolore et olivâtre dessus, de  $ 10-20 \times 4,5-10 $ cm, elliptique, à base largement cunéiforme ou presque arrondie, à sommet faiblement acuminé, à marge entière ou à peine serrulée de minuscules denticules.
+Glabrous liane lacking rubber, with densely lenticellate old branchlets. Petiole canaliculate 8-10 mm, with narrow channel. Blade discolorous and olivaceous above, 10-20 × 4.5-10 cm, elliptic, with broadly cuneiform or almost rounded base, with feebly acuminate apex, with entire or barely serrulate margin of minute denticules.
 
-Glomérules floraux axillaires sessiles 1-4-flores. Pédicelles de 10-17 mm, grêles. Bouton de  $ 2,4 \times 3 $ mm, ové. Fleur de 8-9 mm de diamètre. Sépales inégaux très bombés, les externes petits, larges de 1 mm, plutôt deltoïdes et paucidentés apicalement, les internes plus grands, obtus ou arrondis, entiers, larges de 1,3-2,3 mm. Pétales ovés elliptiques, étalés ou ± réfléchis, de 3-3,25 × 2,3 mm. Disque en collerette basale amincie et étalée, subpentagonale et sinueuse en vue latérale, de 2,3 mm de diamètre, surmonté par un coussin charnu de 1,5 mm de diamètre dépourvu de sillon périgyne. Étamines longues de 1,7-3 mm, à filet étroit ; les filets sont un peu élargis à la base mais espacés à leur insertion sur le pseudodisque supérieur ; anthère subréniforme, large de 0,8 mm dans le bou
+Axillary sessile floral glomerules 1-4-flowered. Pedicels 10-17 mm, slender. Bud 2.4 × 3 mm, ovoid. Flower 8-9 mm in diameter. Sepals very convex and unequal, the external ones small, 1 mm wide, rather deltoid and paucidentate apically, the internal ones larger, obtuse or rounded, entire, 1.3-2.3 mm wide. Petals ovate-elliptic, spreading or ± reflexed, 3-3.25 × 2.3 mm. Disk in a basal collar thinned and spreading, subpentagonal and sinuous in lateral view, 2.3 mm in diameter, surmounted by a fleshy cushion 1.5 mm in diameter lacking a perigynous groove. Stamens 1.7-3 mm long, with narrow filament; the filaments are somewhat widened at the base but spaced at their insertion on the upper pseudodisk; anther subreniform, 0.8 mm wide in the bud, with subtransverse slit, the two locules being confluent. Pistil triedric attenuate in short style, approximately 1 mm, with punctiform stigma; the locules are distinctly sunken between the levels of the androecium and the base of the disk. (6)7-8 biseriate ovules per locule.
 
-ton, à fente subtransversale, les deux loges étant confluentes. Pistil triédrique atténué en style court, environ 1 mm, à stigmate ponctiforme ; les loges sont nettement enfoncées entre les niveaux de l'androcée et de la base du disque. (6)7-8 ovules bisériés par loge.
-
-Fruit inconnu. Les tissus floraux réhydratés sont jaune vert et pâles. - Pl. 35, fig. 1-9, p. 129.
+Fruit unknown. Rehydrated floral tissues are pale yellow-green. - Pl. 35, fig. 1-9, p. 129.
 
 ## Type
 
@@ -65,13 +59,11 @@ Tessmann 26, Guinée équatoriale, Aleu près Nkolentongan, 450 m, 9.12.1907, fl
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+LOESENER indicates this species as related to S. gabunensis Loes., we find it even more closely related to S. pyriformioides Loes.
 
-LOESENER indique cette espèce comme voisine du S. gabunensis Loes., nous la trouvons plus voisine encore du S. pyriformioides Loes.
+This species should be sought in Cameroon and Gabon.
 
-Cette espèce est à rechercher au Cameroun et au Gabon.
-
-NOM LOCAL : ngokobbo.
+LOCAL NAME: ngokobbo.
 
 ## Notes
 

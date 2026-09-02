@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 33
 
-Planche 33
-
-Herbe à tige grimpante, grêle, sillonnée longitudinalement, à poils assez fragiles. Feuille: pétiole 2,5–6,5 cm, droit ou flexueux, hérissé de poils denses courts; limbe de contour ovale, pentagonal ou parfois presque 3-lobé, de 4,5–13 × 4,5–11 cm, profondément émarginé à la base, acuminé à cuspidé-mucronulé au sommet, à bord finement denticulé et à dents subulées, vert vif et scabre dessus, vert plus pâle et portant quelques poils fins et épars dessous; nervures hérissées de poils. Inflorescence: la femelle à fleurs fasciculées ou solitaires. Fleur mâle: pédicelle 1 cm, pubérulent; réceptacle campanulé; sépales subulés, entiers, parfois dentés ou pinnatifides, longs de 6–8 mm; pétales soudés en tube sur les 3/4 de leur longueur, finement pubescents, tube long de 15–18 mm; étamines à filet de 2–3 mm. Fleur femelle: pédicelle 1–3 cm, grêle; sépales à lobes très fins; ovaire obovoïde, de 20 × 6–7 mm, fortement hispide. Fruit cylindrique à ellipsoïdal-oblong, de 6–7 × 2,5 cm, densément couvert de poils soyeux, roux. Graine largement ovoïde, de 6–7 × 5 × 1,5 mm, arrondie au sommet, finement marginée, blanchâtre.
+Herb with climbing, slender, longitudinally furrowed stem, bearing rather fragile hairs. Leaf: petiole 2.5–6.5 cm, straight or flexuous, bristly with dense short hairs; blade oval in outline, pentagonal or sometimes almost 3-lobed, 4.5–13 × 4.5–11 cm, deeply emarginate at the base, acuminate to cuspidate-mucronulate at the apex, with finely denticulate margin and subulate teeth, bright green and scabrous above, paler green and bearing some scattered fine hairs beneath; veins bristly-hairy. Inflorescence: the female with fasciculate or solitary flowers. Male flower: pedicel 1 cm, puberulent; receptacle campanulate; sepals subulate, entire, sometimes dentate or pinnatifid, 6–8 mm long; petals fused into a tube for 3/4 of their length, finely pubescent, tube 15–18 mm long; stamens with filament 2–3 mm. Female flower: pedicel 1–3 cm, slender; sepals with very fine lobes; ovary obovoid, 20 × 6–7 mm, strongly hispid. Fruit cylindric to ellipsoid-oblong, 6–7 × 2.5 cm, densely covered with silky, rusty hairs. Seed broadly ovoid, 6–7 × 5 × 1.5 mm, rounded at the apex, finely marginate, whitish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République démocratique du Congo, Burundi, Ouganda et Angola ; au Gabon : Moyen-Ogooué et Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Burundi, Uganda and Angola; in Gabon: Moyen-Ogooué and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile, forêt riveraine ou secondaire, lisières; au Gabon à 40–900 m d'altitude, ailleurs jusqu'à 850 m
+Rainforest, riparian or secondary forest, forest edges; in Gabon at 40–900 m altitude, elsewhere up to 850 m
 
 ## Bibliography
 

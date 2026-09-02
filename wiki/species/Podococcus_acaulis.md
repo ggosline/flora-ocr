@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Palmier acaule . Feuilles nombreuses , rayonnantes à partir de la base ; gaine jusqu’à 20 cm, densément brun rouge tomenteux ; pétiole (75–)100–200 cm ; rachis (75–)100–200 cm ; limbe comprenant jusqu’à 10 paires de folioles, opposées à subopposées, de 5–10 × 15–30 cm, foliole apicale 15–20 × 15–25 cm, face supérieure glabre, face inférieure pubescente à tomenteuse . Inflorescence interfoliaire [entre les feuilles] ; pédoncule 40–80 cm, densément couvert d’une pilosité tomenteuse persistant ; rachis 20–80 cm. Fleur mâle : sépales 1 × 2 mm ; pétales 2 × 4 mm ; étamines à filet subulé, assez courts, incurvés distalement, anthères courtes ; pistillode court, 3-lobé. Fleur femelle : sépales 1 × 2,5 mm, à sommet irrégulièrement entaillé ; pétales à sommet étalé à l’anthèse ; stigmates recourbés à l’anthèse. Fruit étroitement ovoïde, 20–30 × 5–10 mm, vert olive, tacheté de pourpre et devenant brun violacé à maturité .
+Acaulescent palm. Leaves numerous, radiating from the base; sheath up to 20 cm, densely brown-red tomentose; petiole (75–)100–200 cm; rachis (75–)100–200 cm; blade comprising up to 10 pairs of leaflets, opposite to subopposite, 5–10 × 15–30 cm, apical leaflet 15–20 × 15–25 cm, upper surface glabrous, lower surface pubescent to tomentose. Inflorescence interfoliar [between the leaves]; peduncle 40–80 cm, densely covered with persistent tomentose indumentum; rachis 20–80 cm. Male flower: sepals 1 × 2 mm; petals 2 × 4 mm; stamens with subulate filament, rather short, distally incurved, anthers short; pistillode short, 3-lobed. Female flower: sepals 1 × 2.5 mm, with apex irregularly incised; petals with apex spreading at anthesis; stigmas recurved at anthesis. Fruit narrowly ovoid, 20–30 × 5–10 mm, olive-green, spotted with purple and becoming brown-violet at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-subendémique au Gabon, aussi au sud-ouest de la République du Congo (Massif du Chail lu) ; au Gabon, présent dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Maritime. Statut de conservation : Préoccupation mineure (LC)
+Subendemicto Gabon, also in south-western Republic of the Congo (Chail lu Massif); in Gabon, present in Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts denses humides primaires ou secondaires anciennes, sol de terre ferme sur pente ; au Gabon entre 10 et 600 m d’altitude, ailleurs jusqu’à 650 m
+Understory of primary or old secondary dense humid forests, terra firme soil on slope; in Gabon between 10 and 600 m elevation, elsewhere up to 650 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-P. acaulis était longtemps traité comme conspécifique de P. barteri , mais l’espèce se différencie par son port acaule avec des feuilles nombreuses et larges et des folioles nettement pubescentes dessous. Dans la Check-list des plantes vasculaires du Gabon (Sosef et al. 2006) elle est mentionnée comme « espèce de statut douteux », mais des études morphologiques (van Valkenburg & Sunderland 2008) et
+P. acaulis was long treated as conspecific with P. barteri, but the species differs by its acaulescent habit with numerous and broad leaves and leaflets clearly pubescent below. In the Check-list of vascular plants of Gabon (Sosef et al. 2006) it is mentioned as an "species of doubtful status", but morphological studies (van Valkenburg & Sunderland 2008) and
 
 Sunderland (2008).
 
-génétiques (Faye et al. 2016) montrent qu’il existe clairement deux espèces distinctes de Podococcus, les deux connues du Gabon. B : Faye et al. (2016) van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008). i B liographie
+genetic studies (Faye et al. 2016) show that there clearly exist two distinct species of Podococcus, both known from Gabon. B: Faye et al. (2016) van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008). Bibliography
 
 ## Notes
 

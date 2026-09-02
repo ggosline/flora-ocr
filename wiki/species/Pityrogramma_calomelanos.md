@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Link, Hand. d. Gewäschs. 3 : 30 (1833). — Tard., Mém. IFAN 28 : 206 (1953). — Alston, FWTA : 38 (1959).
 
-Rhizome court, à frondes en touffes, portant des écailles lancéolées, formées de cellules à parois brun clair, minces, contenu brun. Pétiole long de 15-20 cm, violacé, brillant, canaliculé, portant quelques écailles à la base. Limbe oblong, long de 25-30 cm sur 10-12 de large, bipenné; une quinzaine de paires de pennes latérales alternes, faisant un angle de  $ 45^{\circ} $ avec le rachis, pétiolées, les inférieures légèrement réduites, les moyennes atteignant 10-12 cm de long sur 2 de large, à extrémité longuement effilée, pennées à la base, profondément pinnatipartites jusqu'au rachis aile. Pinnules sessiles, sub-opposées, longues de 0,5 cm environ, lancéolées, à base supérieure auriculée (à auricule aiguë), entières ou lobées, aiguës au sommet. Rachis violet, brillant, nu. Face inférieure portant un enduit pulvérulent, blanchâtre. Sporanges plus ou moins confluents à maturité.
+Rhizome short, with fronds in tufts, bearing lanceolate scales, formed of cells with thin, pale brown walls, brown contents. Petiole 15-20 cm long, violaceous, glossy, channelled, bearing a few scales at the base. Blade oblong, 25-30 cm long by 10-12 cm wide, bipinnate; about fifteen pairs of alternate lateral pinnae, making an angle of $ 45^{\circ} $ with the rachis, petiolate, the lower ones slightly reduced, the median ones reaching 10-12 cm long by 2 cm wide, with a long tapering apex, pinnate at the base, deeply pinnatifid to the winged rachis. Pinnules sessile, subopposite, about 0.5 cm long, lanceolate, with auriculate upper base (auricle acute), entire or lobed, acute at the apex. Rachis violet, glossy, naked. Lower surface bearing a powdery, whitish coating. Sporangia more or less confluent at maturity.
 
-Originaire d'Amérique tropicale. Introduit un peu partout dans les régions chaudes du globe. En Afrique occidentale, commun sur les rochers ombragés au bord des routes, talus et fosses humides.
+Native to tropical America. Introduced throughout the warm regions of the globe. In West Africa, common on shaded rocks at the edges of roads, slopes and damp ditches.
 
 ## Specimens examined
 

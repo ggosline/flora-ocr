@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub to tree 5–10 m; diameter 30 cm; trunk fluted, very branched; rhytidome violaceous, bark not thick with yellowish inner surface (LETOUZEY); branches rounded, striated, glabrous. Leaves 2–4 (–5)-jugate; petiole fluted with approximately 8 grooves, 3–8 cm, with fine reddish pubescence; leaflets separated by an interval of 2–4 cm; petiolules black, wrinkled, 8 mm; basal leaflets 6–8 × 2.5–3.5 cm, the upper ones 12–15 × 3.5–5.5 cm, elliptic, acuminate for 10–15 mm, glabrous, concolorous, underside dull, with 7–9 pairs of veins.
 
-Arbuste à arbre de 5-10 m; diamètre 30 cm; fût cannelé, très branchu; rhytidome violacé, écorce peu épaisse à tranche jaunâtre (LETOUZEY); rameaux arrondis, striés, glabres. Feuilles 2-4 (-5)-juguées; pétiole cannelé à env. 8 sillons, 3-8 cm, à fine pubérulence rousse; folioles séparées par un intervalle de 2-4 cm; pétioules noirs, ridés, de 8 mm; folioles basales 6-8 × 2,5-3,5 cm, les supérieures 12-15 × 3,5-5,5 cm, elliptiques, acuminées sur 10-15 mm, glabres, concolores, dessous mat, à 7-9 paires de nervures.
-
-Épi de 4-8 cm, simple ou avec un rameau, axillaire ou caulinaire, portant 10-15 cymules de 1-3 fleurs, réparties dès la base; pas de pédoncule; pédicelles de 3-4 mm, articulés à la base, pubérulents (poils roux denses, 0,05 mm) comme l'axe cannelé de l'épi; calice vert pâle, 4,5-5 mm, velu très ras (0,05 mm) à l'extérieur, subglabre à l'intérieur; pétales blancs et jaunes, de 4 mm dont 1,5 pour l'onglet velu frisé; limbe arrondi denticulé, glabre, ainsi que l'écaille dentée et son excroissance pectinée ou disséquée; 7-8 (-9) étamines roses à filets velus. Fruit de 1,5-2 cm, à 3 lobes non aigus, pulvérulents, ocre jaune. PL. 28, 1-4', p. 119.
+Spike 4–8 cm, simple or with a branch, axillary or cauline, bearing 10–15 cymules of 1–3 flowers, distributed from the base; no peduncle; pedicels 3–4 mm, articulated at the base, puberulent (dense reddish hairs, 0.05 mm) like the fluted axis of the spike; calyx pale green, 4.5–5 mm, very short-hairy (0.05 mm) on the outside, subglabrous on the inside; petals white and yellow, 4 mm of which 1.5 for the hairy curled claw; limb rounded denticulate, glabrous, as are the denticulate scale and its pectinate or dissected excrescences; 7–8 (–9) stamens pink with hairy filaments. Fruit 1.5–2 cm, with 3 non-acute lobes, pulverulent, ochre yellow. PL. 28, 1–4', p. 119.
 
 ## Type
 
@@ -29,9 +27,7 @@ Staudt 596, Cameroun (holo-, B; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue également de Côté d'Ivoire (Aubréville 1518), de République Centrafricaine (Le Testu 4505) et de Guinée équatoriale (Tessmann 150).
+Species also known from Côte d'Ivoire (Aubréville 1518), Central African Republic (Le Testu 4505) and Equatorial Guinea (Tessmann 150).
 
 ## Vernacular names
 
@@ -57,13 +53,11 @@ Thollon 1254, forêt de Mayombe (fl., nov.).
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+RADLKOFER (l.c.: 804) separates P. turbinata (Sitzungsber. Bayer. Akad. Wiss. München 8: 270) characterized by the turbinate form of the buds 3 × 2 mm, with pedicel 2 mm; shrub or small tree 1–3.5 m, with young striated ferruginous tomentellous branches then glabrous; leaves 2–5-jugate; petioles 4–7 cm; leaflets 12–16 × 3–5 cm. Fruit excellent edible, ribbed, 1.5 × 1 cm.
 
-RADLKOFER (l.c. : 804) sépare P. turbinata (Sitzungsber. Bayer. Akad. Wiss. München 8 : 270) caractérisée par la forme turbinée des boutons de 3 × 2 mm, à pédicelle de 2 mm; arbuste ou petit arbre de 1-3,5 m, à jeunes rameaux striés tomentcllcux ferrugineux puis glabres; feuilles 2-5-juguées; pétioles de 4-7 cm; folioles, 12-16 × 3-5 cm. Fruit comestible excellent, à côtes, de 1,5 × 1 cm
+Known from Guinea (Heudelot 869), Cameroon (Preuss 9, Barombi); and Angola (Welwitsch 4516).
 
-Connue de Guinée (Heudelot 869), Cameroun (Preuss 9, Barombi); et Angola (Welwitsch 4516).
-
-Il est difficile de séparer P. turbinata et P. pedicellaris car on observe le passage des pédicelles courts : 2 mm pour P. turbinata aux pédicelles plus longs : 3-4 mm, caractérisant P. pedicellaris. Ainsi, un échantillon cité par RADLKOFER comme P. pedicellaris, montre des boutons à pédicelle court (Zenker 766). La longueur des inflorescences n'est pas décisive non plus : 4-8 cm pour P. pedicellaris et 5-10 cm pour P. turbinata. Cette espèce ne sera donc pas maintenue ici et les échantillons de P. turbinata rapportés à pedicellaris.
+It is difficult to separate P. turbinata and P. pedicellaris because a transition is observed from short pedicels: 2 mm for P. turbinata to longer pedicels: 3–4 mm, characterizing P. pedicellaris. Thus, a specimen cited by RADLKOFER as P. pedicellaris shows buds with short pedicel (Zenker 766). The length of the inflorescences is not decisive either: 4–8 cm for P. pedicellaris and 5–10 cm for P. turbinata. This species will therefore not be maintained here and the specimens of P. turbinata referred to pedicellaris.
 
 ## Figures
 

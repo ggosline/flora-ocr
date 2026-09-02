@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 3,5 cm × 0,6 cm. Feuilles absentes à la floraison. Inflorescence dense, < 14,5 cm, multiflore. Fleurs roses, lilas ou blanches, à sépales à bords bleu violacé clair, labelle jaune orange vif avec des coussins de poils jaunes. Sépale dorsal 4-5 × 3-3,5 mm, elliptique à largement ovale, apiculé. Labelle 10-11 × 4 mm, comprimé dans le quart supérieur ; hypochile oblong-obovale avec à la base, deux grandes carènes subcarrées à ailées et au-dessus, deux coussins de poils d'environ 2,5 mm ; épichile flabellé, tronqué au sommet et non à la base. – Pl. 109, p. 247.
+Pseudobulbs 3.5 cm × 0.6 cm. Leaves absent at flowering. Inflorescence dense, < 14.5 cm, multiflorous. Flowers pink, lilac or white, with sepals having pale blue-violet margins, labellum bright yellow-orange with yellow hair cushions. Dorsal sepal 4–5 × 3–3.5 mm, elliptic to broadly ovate, apiculate. Labellum 10–11 × 4 mm, compressed in the upper quarter; hypochile oblong-obovate with at the base two large subquadrate to winged carinae and above, two hair cushions approximately 2.5 mm; epichile flabellate, truncate at the apex and not at the base. – Pl. 109, p. 247.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Cameroun, Gabon
+Guinea, Sierra Leone, Liberia, Ivory Coast, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–600 m. Epiphytic on subvertical granitic rock face, at approximately 25 m height, with Parmelia sp
 
-alt. 0-600 m. Épiphyte sur paroi granitique subverticale, vers 25 m de hauteur, avec Parmelia sp
+MATERIAL STUDIED (Map 42):
 
-MATÉRIEL ÉTUDIÉ (Carte 42) :
-
-J. M. & B. Reitsma 574, le long de la plage entre Libreville et Santa Clara, 0° 27' N, 9° 24' E, épiphyte sur Manillkara lacera, à une hauteur d'environ 6 m (fl. Févr.), WAG!. Wieringa 521, 7 km au NE de Tchimbélé, sur le lac de Tchimbélé, alt. ± 532 m, 10° 27' E, 0° 39' N, épiphyte sur arbre mort du lac (fl. Févr.), WAG!.
+J. M. & B. Reitsma 574, along the beach between Libreville and Santa Clara, 0° 27' N, 9° 24' E, epiphytic on Manillkara lacera, at a height of approximately 6 m (fl. Feb.), WAG!. Wieringa 521, 7 km NE of Tchimbélé, on the lake at Tchimbélé, alt. ± 532 m, 10° 27' E, 0° 39' N, epiphytic on dead tree in the lake (fl. Feb.), WAG!.
 
 ## Figures
 

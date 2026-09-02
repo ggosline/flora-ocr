@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing twining lianule reaching 1-2 m in height, sometimes ± creeping and with rootlet-bearing internodes. Internodes pubescent toward the extremities, slender and reaching up to 10 (20) cm in length. Stipules ovate-acute, reflexed, 3-5 (7) mm wide, glabrous above. Petioles pubescent, 5-30 (45) mm long, often somewhat unequal within the same pair.
 
-Lianule grimpante volubile atteignant 1-2 m de hauteur, parfois ± rampante et à entrenœuds radicifères. Entrenœuds
+Blade with ± sparse or rare pubescence above, variable but not absent below, elliptic, 4-9 × 2-5 cm, base variable often cordate, apex acute ± acuminate. Midvein pubescent above, 6-13 pairs of secondary nerves arched, hairy on the lower face.
 
-pubescents vers les extrémités, grêles et atteignant jusqu'à 10 (20) cm de longueur. Stipules ovées-aiguës rabattues, larges de 3-5 (7) mm, glabres dessus. Pétioles pubescents, longs de 5-30 (45) mm, souvent un peu inégaux dans une même paire.
+Inflorescences most abundant spherical with up to more than 20 flowers. Peduncle glabrous and slender 2-8 (12) cm long. 2 orbicular or cordate bracts 9-18 mm wide, glabrous, greenish or purpurescent; 1-2 additional less rounded bracts, inserted at the same level, at the base of flowers arranged in a pseudoumbel. Pedicels 1-2 and up to 8-10 mm at fruiting, glabrous. Calyx with (2)3(4) ± equal lobes pale green or pinkish, elliptic, 8-13 × 3-7 mm, subacute, glabrous with margin sometimes ciliate. Corolla white glabrous externally, 13-20 mm long, with 5 short spreading lobes, with narrow tube reaching 2 mm diam. at the throat, with short internal hairiness. 5 anthers. Style glabrous with 5-furcate stigma. Ovary glabrous with 5 locules.
 
-Limbe à pubescence ± éparse ou rare dessus, variable mais non nulle dessous, elliptique, de 4-9 × 2-5 cm, à base variable souvent cordée, à sommet aigu ± acuminé. Nervure médiane pubescente dessus, 6-13 paires de nervures secondaires arquées, velues à la face inférieure.
-
-Inflorescences les plus fournies sphériques avec jusqu'à plus de 20 fleurs. Pédoncule glabre et grêle de 2-8 (12) cm de long. 2 bractées orbiculaires ou cordiformes de 9-18 mm de large, glabres, verdâtes ou purpurescentes; 1-2 bractées supplémentaires moins arrondies, insérées au même niveau, à la base des fleurs disposées en pseudombelle. Pédicelles de 1-2 et jusqu'à 8-10 mm à la fructification, glabres. Calice à (2)3(4) lobes ± égaux vert-pâle ou rosâtre, elliptiques, de 8-13 × 3-7 mm, subaigus, glabres à marge parfois ciliée. Corolle blanche glabre extérieurement, longue de 13-20 mm, à 5 lobes courts étalés, à tube étroit atteignant 2 mm de diam. à la gorge, à pilosité interne courte. 5 anthères. Style glabre à stigmate 5-furqué. Ovaire glabre à 5 loges.
-
-Fruit sphérique de 8-9 mm de diam., devenant grenat, violacé ou noirâtre. Graines rousses ± angulo-ovoïdes de 0,6 mm de long.
+Fruit spherical 8-9 mm diam., becoming garnet, violet or blackish. Seeds reddish ± angulo-ovoid 0.6 mm long.
 
 ## Type
 
@@ -35,13 +31,11 @@ Vogel 35, Fernando-Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Damp margins, post-cultural scrub; species widespread from Sierra Leone to the Congolese Mayombe.
 
-Lisières humides, broussailles postculturales; espèce répandue de Sierra-Leone jusqu'au Mayombe congolais.
+Fang name: Phaoloi? (Jolly).
 
-Nom Fang : Phaoloi? (Jolly).
-
-Les feuilles seraient comestibles et la plante entre dans la confection d'amulettes (Jolly). Quelques propriétés médicinales (stimulantes, laxatives) mal connues, sont citées en Afrique occidentale (J. M. Dalziel. Usef. Pl. : 410, 1937).
+The leaves would be edible and the plant enters into the making of amulets (Jolly). Some poorly known medicinal properties (stimulant, laxative) are cited in West Africa (J. M. Dalziel. Usef. Pl.: 410, 1937).
 
 ## Specimens examined
 

@@ -23,7 +23,7 @@ stamens: anthers 5–6 mm long; style 6–7 mm. Fruit: receptacle approximately 
 
 ## Distribution
 
-Equatorial Guinea (Rio Muni), Gabon and southwestern Republic of the Congo (Niari); in Gabon, quite rare, known from Estuaire, Ngounié, Moyen-Ogooué, Ogooué-Ivindo, Ogooué Maritime and Woleu-Ntem
+Equatorial Guinea (Rio Muni), Gabon and southwestern Republic of the Congo (Niari); in Gabon, quite rare, known from Estuaire, Ngounié, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 

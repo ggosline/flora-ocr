@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 5,2-10 × 2-3 mm. Feuille 7,2-20 × 0,6-1,2 cm, linéaire-lancéolée. Inflorescence de 5,5-15 cm, < 20-flore. Fleurs jaunes, jaune-vert, blanc-verdâtre, marbrées de violet. Sépale dorsal oblong-tri-angulaire, apiculé, pubescent sur la face abaxiale. Pétales étroitement elliptiques. Sépales latéraux obliquement triangulaires, apiculés, pubescents sur la face abaxiale, trinerviés. Labelle 7,5-10 × 3,6-5 mm, sessile, charnu, fortement recourbé, nettement trilobé ; lobe médian, arrondi-subcarré, brièvement apiculé, glanduleux-pubescent dessous ; lobes latéraux largement elliptiques.- Pl. 113, p. 257.
+Pseudobulbs 5.2-10 × 2-3 mm. Leaf 7.2-20 × 0.6-1.2 cm, linear-lanceolate. Inflorescence 5.5-15 cm, < 20-flowered. Flowers yellow, yellowish-green, whitish-green, marbled with violet. Dorsal sepal oblong-triangular, apiculate, pubescent on the abaxial surface. Petals narrowly elliptic. Lateral sepals obliquely triangular, apiculate, pubescent on the abaxial surface, trinerved. Labellum 7.5-10 × 3.6-5 mm, sessile, fleshy, strongly recurved, clearly trilobed; midlobe rounded-subquadrate, briefly apiculate, glandular-pubescent below; lateral lobes broadly elliptic. — Pl. 113, p. 257.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Zaïre, Ouganda
+Cameroon, Gabon, Zaïre, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 650-1 650 m. Épiphyte sur branche couverte de lichens ou sur tronc à 3 m au-dessus du sol
+alt. 650-1,650 m. Epiphytic on lichen-covered branch or on trunk 3 m above ground
 
 ## Specimens examined
 

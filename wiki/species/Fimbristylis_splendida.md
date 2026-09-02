@@ -20,7 +20,7 @@ in Dyer, Fl. trop. Afr. 8: 527 (1902). Perennial herb, very robust, forming thic
 
 ## Distribution
 
-Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, found only on the Batéké Plateaus (Upper Ogooué) (2 collections)
+Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, found only on the Batéké Plateaus (Haut-Ogooué) (2 collections)
 
 ## Ecology
 

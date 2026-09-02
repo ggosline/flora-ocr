@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Candollea 74(2) : 189 (2019). Herbe rampante et décombante ; tige apprimée sur la litière ou partiellement cachée par elle , érigée sur ± 10–15 cm, 5 mm de diamètre, teintée de pourpre, à racines perforant la base des gaines, très abondantes, couvertes de poils racinaires jaunes . Feuilles spiralées le long de la tige, quelques-unes rassemblées au sommet ; gaine ± 12 mm de longueur, pourpre , peu ou non renflée à la base ; pseudopétiole 1–2 cm, canaliculé , vert, brun à pourpre, à longue pubescence raide, rouge foncé sur les marges ; limbe plan, étroitement obovale à obovale-elliptique, 7–13 × 3,5–4,5 cm , longuement décurrent à la base, sommet acuminé, marges à petits poils roux apprimés. Inflorescence strictement axillaire , cachée sous la tige et les feuilles, souvent à peine émergeante , ± 5 cm de longueur, simple ; pédoncule érigé, court, à 1 bractée basale largement ovale, au sommet longuement pubescent, et ± 3 bractées similaires, ainsi que des bractées supplémentaires linéaires pseudoverticillées, pubescentes ; cincinni 1 ou 2, avec ± 5 fleurs terminales. Fleur blanche, rosâtre après floraison ; pédicelle 15–20 mm, spiralé après floraison ; sépales subégaux, oblongs, 6 × 2 mm, pétaloïdes, le supé rieur un peu plus petit et plus ferme que les autres, à sommet pourvu de quelques poils ridés ; pétales similaires aux sépales, 6 × 2(–2,5) mm, mais glabres ; étamines inégales , glabres, les 2 supérieures à filet de 1,6–1,8 mm, à anthère subbasifixe, oblongoïde, 1,5 × 0,6–0,7 mm, à sommet arrondi, jaune, l’inférieure plus ferme, à filet de 2,5 mm, à anthère de 2 × 2 mm, les thèques courbées, réniformes ; staminodes blancs ; ovaire ovoïde à ellipsoïdal, 1,5 × 0,8 mm, légèrement pubescent à poils raides ; style 1,5 × 0,3 mm, glabre, blanc, stigmate tronqué. Fruit ovoïde, pointu (style persistant), légèrement oblique, faiblement triangulaire en section transversale, 2–2,5(–2,7) × 1 cm, avec quelques poils raides vers le sommet, rouge vif. Graine largement ovoïde à polygonale, 3,5–4,5 mm de diamètre, avec ± 40 à 45 cannelures crénelées ;
-
-testa rugueux, noir, couvert d’un épiderme brun grisâtre, papyracé sur le sec ; embryotège circulaire, légèrement creuse.
+Candollea 74(2): 189 (2019). Creeping and decumbent herb; stem pressed onto the litter or partially hidden by it, erect for ± 10–15 cm, 5 mm in diameter, tinged with purple, with roots piercing the base of the sheaths, very abundant, covered with yellow root hairs. Leaves spiralled along the stem, a few gathered at the apex; sheath ± 12 mm long, purple, slightly or not swollen at the base; pseudpetiole 1–2 cm, channelled, green, brown to purple, with long stiff pubescence, dark red on the margins; blade plane, narrowly obovate to obovate-elliptic, 7–13 × 3.5–4.5 cm, long-decurrent at the base, apex acuminate, margins with small reddish-brown appressed hairs. Inflorescence strictly axillary, hidden beneath the stem and leaves, often barely emerging, ± 5 cm long, simple; peduncle erect, short, with 1 basal bract broadly ovate, at the apex long-pubescent, and ± 3 similar bracts, as well as additional linear pseudo-whorled bracts, pubescent; cincini 1 or 2, with ± 5 terminal flowers. Flower white, pinkish after anthesis; pedicel 15–20 mm, spiral after anthesis; sepals subequal, oblong, 6 × 2 mm, petaloid, the upper one somewhat smaller and firmer than the others, with apex bearing a few wrinkled hairs; petals similar to the sepals, 6 × 2(–2.5) mm, but glabrous; stamens unequal, glabrous, the 2 upper ones with filament 1.6–1.8 mm, with anther subbasifixed, oblongoid, 1.5 × 0.6–0.7 mm, with rounded apex, yellow, the lower one firmer, with filament 2.5 mm, with anther 2 × 2 mm, the thecae curved, reniform; staminodes white; ovary ovoid to ellipsoidal, 1.5 × 0.8 mm, slightly pubescent with stiff hairs; style 1.5 × 0.3 mm, glabrous, white, stigma truncate. Fruit ovoid, pointed (style persistent), slightly oblique, weakly triangular in cross-section, 2–2.5(–2.7) × 1 cm, with some stiff hairs towards the apex, bright red. Seed broadly ovoid to polygonal, 3.5–4.5 mm in diameter, with ± 40 to 45 crenulate grooves; testa wrinkled, black, covered with a greyish-brown epidermis, papyraceous when dry; embryotegium circular, slightly concave.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu uniquement de la Forêt Classée de la Mondah, dans l’Estuaire
+Endemic to Gabon, known only from the Mondah Classified Forest, in the Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-vieille forêt littorale très humide sur sol sableux. Cette espèce est apparemment fécondée par des animaux vivant dans ou sur le sol ; au Gabon jusqu’à ± 20 m d’altitude. Floraison en octobre et no vembre ; fructification de février à avril
+very humid old littoral forest on sandy soil. This species is apparently pollinated by animals living in or on the soil; in Gabon up to ± 20 m altitude. Flowering in October and November; fruiting from February to April
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Malgré sa relative abondance dans la forêt de la Mondah, la plante a longtemps été négligée du fait de ses fleurs et fruits particulièrement discrets. L’espèce est différente de tous les autres Palisota par la combinaison d’un port rampant, de longs poils couleur rousse sur les bords du pseudopétiole canali culé, et de courtes inflorescences émergeant à peine de la litière. Bi : Bidault & van der Burg (2019), Vande weghe et al. (2016 ; comme « P. sp. nov. 2 »). B liographie
+Despite its relative abundance in the Mondah forest, the plant was long neglected because of its particularly inconspicuous flowers and fruits. The species is different from all other Palisota by the combination of a creeping habit, long rust-coloured hairs on the margins of the channelled pseudpetiole, and short inflorescences barely emerging from the litter. Bi: Bidault & van der Burg (2019), Vande weghe et al. (2016; as "P. sp. nov. 2"). Bibliography
 
 ## Notes
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender small vine, 6 m high, twining. Stem glabrous (or very sparsely pubescent), weakly twisted. Rhytidome grey. Young stem pubescent. Petiole glabrous, 1.5-2 cm long, circular in section. Lamina black on both surfaces when dry, weakly glossy or dull above, glossy below, glabrous on the upper surface, sparsely pubescent or pubescent on the lower surface, elliptic to broadly elliptic, 13-18 × 4.3-8 cm; base attenuate, apex long-acuminate mucronate. Midvein prominent on both surfaces. Secondary veins 5-6 pairs, very ascendant, slightly curved, anastomosing 1.5-3.5 mm from the lamina margin, prominent on both surfaces. Hydathodes absent. Veinlets in dense network prominent on both surfaces.
 
-Petite liane grêle, haute de 6 m, volubile. Tige glabre (ou très éparsement pubescente), faiblement torsadée. Rhytidome gris. Jeune tige pubescente. Pétiole glabre, long de 1,5-2 cm, section circulaire. Limbe noir sur les deux faces à l'état sec, faiblement luisant ou mat dessus, luisant dessous, glabre à la face supérieure, éparsement pubescent ou pubescent à la face inférieure, elliptique à largement elliptique, 13-18 × 4,3-8 cm; base atténuée, sommet longuement acuminé mucroné. Nervure médiane saillante sur les deux faces. Nervure secondaires 5-6 paires, très ascendantes, peu arquées, s'anastomosant à 1,5-3,5 mm du bord du limbe, saillantes sur les deux
+Male inflorescences and flowers unknown. Female inflorescence spiciform, axillary or supra-axillary, solitary. Rachis shortly pubescent, 6-9 cm long. Flowers 6-8 grouped at the apex of the rachis. Female flower tetramerous, 3 × 2 mm. Calyx absent. Petals pubescent externally at the base and glabrous internally, broadly elliptic, 3 × 1 mm, reflexed, apex acute. Ovary superior, pubescent (some hairs uncinate), 2 mm long, unilocular with 2 pendulous ovules, apex thickened. Style short and stout, practically absent, terminating in a multidigitate stigma.
 
-faces. Hydathodes absents. Nervilles en réseau dense saillant sur les deux faces.
-
-Inflorescences et fleurs ♂ inconnues. Inflorescence ♀ spiciforme, axillaire ou supra-axillaire, solitaire. Rachis courtement pubescent, long de 6-9 cm. Fleurs 6-8 groupées au sommet du rachis. Fleur ♀ tétramère, 3 × 2 mm. Calice absent. Pétales pubescents extérieurement à la base et glabres intérieurement, largement elliptiques, 3 × 1 mm, réfléchis, sommet aigu. Ovaire supère, pubescent (certains poils uncinés), long de 2 mm, uniloculaire à 2 ovules pendant, sommet épaissi. Style court et trapu, pratiquement nul, se terminant par un stigmate multidigité.
-
-Drupe très comprimée latéralement, brun violacé à l'état frais pour les fruits immatures, devenant orangé brillant à maturité, très finement pubescente, 3-3,5 × 1,6-1,8 × 0,8 cm, très longuement rostrée (rostre long de 1-1,8 cm). Pétales persistantes à la base du fruit. Endocarpe ligneux alvéolé extérieurement, garni d'aiguillons assez longs, droits ou ± infléchis, ± globuleux au sommet. Graine solitaire, aplatie transversalement à surface alvéolée. Embryon apical à cotylédons plissés. PL. 21, p. 87.
+Drupe very laterally compressed, brownish-violet when fresh in immature fruits, becoming brilliant orange at maturity, very finely pubescent, 3-3.5 × 1.6-1.8 × 0.8 cm, very long-rostrate (rostrum 1-1.8 cm long). Persistent petals at the base of the fruit. Endocarp woody alveolate externally, furnished with fairly long prickles, straight or ± inflexed, ± globular at the apex. Seed solitary, flattened transversely with alveolate surface. Embryo apical with plicate cotyledons. PL. 21, p. 87.
 
 ## Type
 
@@ -33,9 +29,7 @@ Hallé N. & Villiers J.-F. 4968, Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante n'est connue que du Cameroun et du Gabon.
+This plant is known only from Cameroon and Gabon.
 
 ## Specimens examined
 

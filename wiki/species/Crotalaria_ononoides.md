@@ -20,7 +20,7 @@ in Hooker, London J. Bot. 2: 572 (1843). Annual herb, spreading, procumbent or a
 
 ## Distribution
 
-very widespread in tropical Africa, except the North-East and South-East, and in Madagascar; in Gabon, found only once in the Upper Ogooué
+very widespread in tropical Africa, except the North-East and South-East, and in Madagascar; in Gabon, found only once in the Haut-Ogooué
 
 ## Ecology
 

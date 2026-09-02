@@ -21,7 +21,7 @@ Lidia 7(4) : 97 (2011). Kyllinga nigritana C.B.Clarke in Dyer, Fl. trop. Afr . 8
 
 ## Distribution
 
-widely distributed in tropical West and central Africa; rare in Gabon, found only in the Upper Ogooué
+widely distributed in tropical West and central Africa; rare in Gabon, found only in the Haut-Ogooué
 
 ## Ecology
 

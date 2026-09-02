@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herb 10 to 50 cm tall, leafy in its upper part, covered by leafless sheaths toward the base. Leaves with sheaths ciliate at the opening and on the margins; blade 10–20 × 2.5–5 cm, shortly petioled, rounded at the base and long-acuminate at the apex, scabrous with pubescent margins.
 
-Herbe dressée de 10 à 50 cm de haut, fenillée dans sa partie supérieure, couverte par des gaines aphylles vers le bas. Feuilles à gaines ciliées à l'ouverture et sur les bords; limbe de 10-20 × 2,5-5 cm, courtement pétolé, arrondi à la base et longuement acuminé au sommet, scabre avec les bords pubescents.
+Inflorescence a short terminal panicle, with unilateral branches. Spikelets flattened, 8–12 × 3–4 mm, ovate-lanceolate, 4 to 5 pubescent glumes 1 to 3 mm long. On average 5 male flowers with coriaceous lemmas, glabrous, acuminate, with numerous nerves. Paleae bicarinate with ciliate, winged keels.
 
-Inflorescence en panicule terminale courte, à ramifications unilatérales. Épillets aplatis, de  $ 8-12 \times 3-4 $ mm, ovale-lancéolés,  $ 4 à 5 $ glumes pubescentes de  $ 1 à 3 $ mm de long. En moyenne  $ 5 $ fleurs mâles à lemmas coriaces, glabres, acuminées, à nombreuses nervures. Palées bicarénées à carènes ciliées, ailées.
+Terminal female flower with rigid glumelles, pubescent, acuminate. Caryopsis with the persistent part of the styles longer than the glumelles.
 
-Fleur femelle terminale à glumelles rigides, pubescentes, acuminées. Caryopse avec la partie persistante des styles plus longs que les glumelles.
-
-Espèce connue au Gabon, Cameroun, Congo, Oubangui.
+Species known from Gabon, Cameroon, Congo, Oubangui.
 
 ## Specimens examined
 

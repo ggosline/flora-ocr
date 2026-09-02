@@ -21,7 +21,7 @@ Mol. Phylogen. Evol. 67(2) : 376 (2013). Chionanthus mannii (Soler.) Stearn, Bot
 
 ## Distribution
 
-endemic to Gabon, known only from the Estuary (environs of Libreville)
+endemic to Gabon, known only from the Estuaire (environs of Libreville)
 
 ## Ecology
 

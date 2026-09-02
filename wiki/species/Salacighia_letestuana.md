@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Salacia letestuana PELLEGRIN, Bull. Mus. natn. Hist. nat. Paris 28: 312 (1922).
 
 – Salacia denudata Chev., Expl. Bot. 1: 133 (1920), nom. nud.; Hutch. & Moss, FWTA 1: 453 (1927).
 
 – Salacighia malpighioides LOES., Fedde Repert. 49 : 228 (1940) ; Pflanzenf., ed. 2, 20 B : 217 (1942) ; EXELL & MENDONÇA, CFA 2 (1) : 27 (1954).
 
-PL. 5. - Salacighia letestuana (Pellegrin) Blakelock : 1, rameau stérile ; 2, rameau inflorescentiel ; 3, 4, boutons, diam. 3,5 et 4,9 mm ; 5, fleur, diam. 11 mm ; 6, pétale long de 6,2 mm ; 7, détail de la marge du pétale ; 8, androcée dans le jeune bouton, disque 3,2 mm diam. ; 9, fleur sans les pétales ; 10, 11, disque, diam. 4,1 mm ; 12, disque vu par dessous (périanthe coupé) ; 13-16, étamines ; 17-18, loge ouverte et coupe d'ovaire ; 19-21, fruits, diam. 20-35 mm ; 22, coupe de fruit (1, 3, 9, 11-14, 16-18, Le Testu 1907 ; 2, 20, Tisserant 1006, Centrafrique ; 4, 6-8, 10, 15, Letouzey 10585 ; 5, 21, 22, Hallé N. 554, Côté-d'Ivoire ; 19, Hallé N. & Villiers J.-F. 4934).
+PL. 5. - Salacighia letestuana (Pellegrin) Blakelock : 1, sterile branchlet ; 2, inflorescent branchlet ; 3, 4, buds, diam. 3.5 and 4.9 mm ; 5, flower, diam. 11 mm ; 6, petal 6.2 mm long ; 7, detail of petal margin ; 8, androecium in young bud, disc 3.2 mm diam. ; 9, flower without petals ; 10, 11, disc, diam. 4.1 mm ; 12, disc viewed from below (perianth cut away) ; 13-16, stamens ; 17-18, open locule and ovary section ; 19-21, fruits, diam. 20-35 mm ; 22, fruit section (1, 3, 9, 11-14, 16-18, Le Testu 1907 ; 2, 20, Tisserant 1006, Central African Republic ; 4, 6-8, 10, 15, Letouzey 10585 ; 5, 21, 22, Hallé N. 554, Ivory Coast ; 19, Hallé N. & Villiers J.-F. 4934).
 
-Grande liane dépassant 10 ou même 30 m ; bois jusqu'à plus de 10 cm de diamètre. Rameaux roussâtres, rudes, lenticellés. Feuilles opposées ou ± alternes, à pétiole de 7-15 mm. Limbe elliptique de 7-18 × 3-9 cm, subcoriace, rebordé, entier (ou denticulé chez les plantules) ; base cunéiforme ou obtuse ; sommet souvent avec un acumen de 3-10 mm. Nervures secondaires 5-8 paires, très en relief à sec surtout dessous ; nervilles flabellées en relief.
+Large liana exceeding 10 or even 30 m ; wood up to more than 10 cm in diameter. Branchlets reddish-brown, rough, lenticellate. Leaves opposite or ± alternate, with petiole 7-15 mm. Blade elliptic 7-18 × 3-9 cm, subcoriaceous, bordered, entire (or denticulate in seedlings) ; base cuneate or obtuse ; apex often with an acumen 3-10 mm. Secondary veins 5-8 pairs, very prominent when dry especially beneath ; veinlets flabellate and prominent.
 
-Rameaux inflorescentiels sans feuilles, longs de 60 cm et plus, portant les rameaux florifères ± pendants, parfois très longs, 140 cm, à nombreux glomérules pauci- à multiflores. Boutons larges, diamètre 4-5 mm, tronqués à la base, subaigus apiculés au sommet. Pédicelle de 6-20 mm. Fleur odorante blanc jaune ou vert pâle. Calice se déchirant en 2-3 lobes irréguliers. Pétales (4-)5(-7) suborbiculaires ou un peu oblongs de 4-6 mm à marge fimbriée, insérés sur un court onglet. Disque vert ou crème pâle, en coussinet massif subpentagonal, de 2-4 mm de diamètre, à 6 fossettes culminales. Étamines 3(4) dépassant nettement le pistil avant la déhiscence ; pollen orangé. Ovaire à 3(4) loges ; 2 ovules superposés par loge.
+Inflorescent branchlets without leaves, 60 cm or more long, bearing ± pendulous flowering branchlets, sometimes very long, 140 cm, with numerous pauci- to multiflorous glomerules. Buds broad, diameter 4-5 mm, truncate at base, subacute apiculate at apex. Pedicel 6-20 mm. Flower fragrant, yellowish white or pale green. Calyx tearing into 2-3 irregular lobes. Petals (4-)5(-7) suborbicular or somewhat oblong 4-6 mm with fimbriate margin, inserted on a short claw. Disc green or pale cream, a stout subpentagonal cushion, 2-4 mm in diameter, with 6 culminal fossettes. Stamens 3(4) distinctly exceeding the pistil before dehiscence ; pollen orange. Ovary with 3(4) locules ; 2 superposed ovules per locule.
 
-Fruit globuleux, lisse ou bosselé, parfois avec 3(4) sillons longitudinaux, de 1,8-3,5 cm de diamètre, rouge orangé à maturité, à pédoncule long au plus de 2 cm. Graines 1-6 subglobuleuses, environ  $ 10 \times 7 $ mm. - Pl. 5, p. 19.
+Fruit globose, smooth or bosselated, sometimes with 3(4) longitudinal grooves, 1.8-3.5 cm in diameter, orange-red at maturity, with peduncle at most 2 cm long. Seeds 1-6 subglobose, approximately $ 10 \times 7 $ mm. - Pl. 5, p. 19.
 
 ## Type
 
@@ -39,9 +37,7 @@ Le Testu 1907, Gabon (holo-, P!; iso-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De la Côte d'Ivoire au Zaïre (Kivu) Centrafrique et Cabinda, l'aire étant interrompue du Ghana au Dahomey. Cette espèce est dispersée et se rencontre ça et là, en forêt dense sèche ou non, en station rocheuse ou en raphiale, à des altitudes variées de 10 à 1 000 m.
+From Ivory Coast to Zaïre (Kivu), Central African Republic and Cabinda, the range being interrupted from Ghana to Dahomey. This species is scattered and occurs here and there, in dry or non-dry dense forest, in rocky station or in raphiale, at varied altitudes from 10 to 1,000 m.
 
 ## Specimens examined
 

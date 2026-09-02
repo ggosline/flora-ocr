@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree, up to 2.5 m tall; branchlets with hispid, reddish hairs. Stipules inconspicuous, less than 1 mm long. Leaf with petiole (2–)4–8 mm; lamina obovate to elliptic, (11–)16–20 × (4–)5–7(–8) cm, base cuneate, apex acuminate, papyraceous, margin denticulate, teeth with some hispid hairs; midvein hispid below. Inflorescence with axillary flowers, solitary or in 2(–3). Flower with pedicel 4–6 mm; sepals 5, narrowly obovate-oblong, 15–16 mm long, apiculate, with hispid midvein, reddish hairs bearing a tiny white tubercle at the base; petals 5, narrowly obovate-oblong, 13–16 mm long, apiculate, puberulent on the outside; corona 2.5 mm tall, composed of lobes free or partially connate at the base in groups of 2–4, apex hairy; stamens with filament 10 mm, anthers 2–2.5 mm long; gynophore 2 mm long; ovary 2–2.5 mm long, with long hispid hairs; styles 5–7 mm, glabrous, flattened. Fruit subglobose to elliptic, 2.5–3.5 × 1.5–2.5 cm, with long simple hairs. Seeds few per capsule, obotriangular to obcordate, 10 × 8–9 mm, fairly broad, flattened.
 
-Arbuste ou petit arbre , jusqu’à 2,5 m de hauteur ; rameaux à poils hispides, roux . Stipules non évidents , moins de 1 mm de longueur. Feuille à pétiole de (2–)4–8 mm ; limbe obovale à elliptique, (11–)16–20 × (4–)5–7(–8) cm, base cunéé, sommet acuminé, papyracé, marge denticulée, dents pourvues de quelques poils hispides ; nervure médiane hispide dessous. Inflorescence à fleurs axillaires, solitaires ou par 2(–3). Fleur à pédicelle de 4–6 mm ; sépales 5, étroitement obovales-oblongs, 15–16 mm de longueur , apiculés, à nervure médiane hispide, poils roux pourvus d’un minuscule tubercule blanc à la base ; pétales 5, étroitement obovales-oblongs, 13–16 mm de longueur, apiculés, pubérulents à l›extérieur ; couronne 2,5 mm de hauteur, composée de lobes libres ou partiellement connés à la base en groupes de 2–4, sommet poilu ; étamines à filet de 10 mm, anthères 2–2,5 mm de longueur ; gynophore 2 mm de longueur ; ovaire 2–2,5 mm de longueur, à longs poils hispides ; styles 5–7 mm, glabres , aplatis. Fruit sub-globuleux à elliptique, 2,5–3,5 × 1,5–2,5 cm, pourvu de longs poils simples. Graines quelques-unes par capsule, obtriangulaires à obcordées, 10 × 8–9 mm, assez larges, aplaties.
-
-F.J. Breteler (©) et reproduit avec sa permission.
+F.J. Breteler (©) and reproduced with his permission.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-assez rare et sub-endémique du Gabon et de la Guinée Équatoriale ; au Gabon, connue de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+quite rare and sub-endemic to Gabon and Equatorial Guinea; in Gabon, known from Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide, jusqu’à 650 m d’altitude. Fleurs de décembre à février. b : Breteler (2003). ibliographie
+dense humid forest, up to 650 m altitude. Flowers from December to February. b: Breteler (2003). Bibliography
 
 ## Notes
 

@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Bull.Jard.Bot. Etat Brux.4 :383 (19I4).- Boutique,Fl. Congo Belge 2 : 307 (1951).
 
-Petit arbre de 8-1o m de hauteur, atteignant 18 cm de diamétre,á fut cannelé. Ramilles tomenteuses fauves;rameaux glabres.Feuilles á pétiole court,1 á 2 mm,tomenteux fauve; limbe papyracé,eliptique ä obové-oblong,long de 9-23 cm, large de 4-9 cm,± brusquement et courtement acuminé au sommet,cunéiforme á subarrondi á la base; face supérieure glabre, face inférieure pubescente ferrugineuse, les poils étant inserés sur toutes les nervures et les nervilles. Nervures latérales 25-3o paires, régulieres, imprimées au-dessus, saillantes a la face inférieure; réseau de nervilles paralleles,ä peine visible ä la face supérieure, saillant ä la face inférieure.
+Small tree 8-10 m tall, reaching 18 cm in diameter, with a fluted trunk. Branchlets tomentose tawny; branches glabrous. Leaves with short petiole, 1–2 mm, tomentose tawny; blade papyraceous, elliptic to obovate-oblong, 9-23 cm long, 4-9 cm wide, ± abruptly and shortly acuminate at the apex, cuneate to subrounded at the base; upper surface glabrous, lower surface ferruginous-pubescent, the hairs inserted on all the nerves and nervules. Lateral nerves 25-30 pairs, regular, impressed above, prominent on the lower surface; network of parallel nervules, scarcely visible on the upper surface, prominent on the lower surface.
 
-Inflorescences caulinaires,particulierement abondantesä la base du tronc d'ou elles pendent dans la litiere et peuvent simuler a premiere vue des racines;longs panicules fastigies pauciflores, pouvant atteindre 2,70 m, et l'axe o,5 cm de diametre; fleurs le plus souvent solitaires le long du rachis ou parfois en cymes unipares pauciflores.Pédicelle long de o,7-1,5 cm,tomenteux fauve; bractéole semi-amplexicaule, triangulaire-ovee, aigue, ±longuement et finement acuminée au sommet,longue de 5-7 mm, pubescente â l'extérieur,glabre a l'intérieur. Sépales triangulaires a triangulaires-ovés,longs de 2-3 mm,pubescents fauves á I'extérieur,glabres á 'intérieur.Pétales externes sépaloides,triangulaires aigus, longs de 2-5 mm, larges de 2-3 mm, tomenteux â l'extérieur, glabres ä l'intérieur;pétales internes oves-lancéoles, érigés, longs de 3-5,5 cm, larges de 1-2 cm, ä 7-8 nervures paralleles bien visibles á 'extérieur, vert jaunätre päle et soyeux brun pourpre ä la base sur la face externe,glabre á glabrescent et rouge framboise a la base sur la face interne. Etamines rouges, longues de 1,5-2 mm,cunéiformes. Carpelles 4-5, longs de 3 mm, ovaires cylindriques,pubescents-soyeux, stigmates sessiles,capités, gris mastic sur le vif, tomenteux. Ovules 8,biséries.
+Cauline inflorescences, particularly abundant at the base of the trunk where they hang in the litter and may at first glance simulate roots; long fastigiate panicles few-flowered, reaching 2.70 m, and the axis 0.5 cm in diameter; flowers most often solitary along the rachis or sometimes in few-flowered uniparious cymes. Pedicel 0.7-1.5 cm long, tawny tomentose; bracteole semi-amplexicaul, triangular-ovate, acute, ± long and finely acuminate at the apex, 5-7 mm long, pubescent outside, glabrous inside. Sepals triangular to triangular-ovate, 2-3 mm long, tawny pubescent outside, glabrous inside. External petals sepaloid, triangular acute, 2-5 mm long, 2-3 mm wide, tomentose outside, glabrous inside; inner petals ovate-lanceolate, erect, 3-5.5 cm long, 1-2 cm wide, with 7-8 well-visible parallel nerves on the outside, pale yellowish-green and purple-brown silky at the base on the external face, glabrous to glabrescent and raspberry-red at the base on the internal face. Stamens red, 1.5-2 mm long, cuneate. Carpels 4-5, 3 mm long, ovaries cylindric, pubescent-silky, stigmas sessile, capitate, mastic-grey in life, tomentose. Ovules 8, biseriate.
 
-Infrutescences pendantes sur le tronc;fruits á pedicelle long de 1-1,5 cm,± pubescent;méricarpes 1-3,sessiles,ellipsoides, arrondis a la base,atténues-apiculés au sommet, longs de 3-3,5 cm, larges de 2-2,5 cm,fortement tuberculés-échinulés, veloutés brun foncé.Graines 4-8,bisériées,subglobuleuses-dis= coides,longues de ± 1 cm,larges de o,7-o,8 cm.
+Infructescences pendulous on the trunk; fruits with pedicel 1-1.5 cm long, ± pubescent; mericarps 1-3, sessile, ellipsoid, rounded at the base, attenuate-apiculate at the apex, 3-3.5 cm long, 2-2.5 cm wide, strongly tuberculate-echinulate, dark brown velvety. Seeds 4-8, biseriate, subglobose-discoid, ± 1 cm long, 0.7-0.8 cm wide.
 
 ## Type
 
@@ -40,15 +38,11 @@ Zenker 2263,Bipindi, Cameroun,fl. (holotype B; isotypes P!,K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The variety pilosa described by Sillans in 1953 and typified by the specimen Tisserant 2335 from Central Africa, presents no difference in pubescence from the Congo specimens we have examined. Furthermore, it had been transferred by Fr. Tisserant into the species longepilosum, under the name var. subnudum, because he attributed to P. Mortehani "narrow linear petals"; Tisserant had probably not seen the type of P. Mortehani and then relied on erroneous determinations of Brieya fasciculata = Piptostigma fasciculatum, called on certain herbarium sheets in the Museum of Paris herbarium: "Brieya Mortehani". The Central African material is in reality P. Mortehani and extends its range.
 
-La variété pilosa décrite par Sillans en 1g53 et typifee par le spécimen Tisserant 2335 de Centrafrique, ne présente aucune différence de pubescence avec les échantillons du Congo que nous
+It is a species of dense humid forest understory, widespread in Gabon, the Central African Republic and Congo-Kinshasa. It is very closely related to P. glabrescens and P. mayumbense.
 
-avons examinés.En outre,elle avait été transférée par le R.P.Tisserant dans lespece longepilosum,sous le nom de var.subnudum, car il attribuait á P. Mortehani“ des pétales linéaires étroits 》; Tisserant n'avait probablement pas vu le type de P.Mortehani et s'est alors appuyé sur de fausses déterminations du Brieya fasciculata = Piptostigma fasciculatum,appelé sur certains exsiccata de l'herbier du Muséum de Paris :“ Brieya Mortehani o.Le matériel centrafricain est en réalité P.Mortehani et élargit son aire de répartition.
-
-C'est une espéce de forét dense humide en sous-bois,répandue au Gabon,en République centrafricaine et au Congo-Kinshasa. Elle est tres affine de P. glabrescens et P.mayumbense.
-
-Arbuste de foret dense humide en sous-bois au Cameroun et au Gabon.
+Shrub of dense humid forest understory in Cameroon and Gabon.
 
 ## Vernacular names
 

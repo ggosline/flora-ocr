@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref.: Fl. Mayombe: 31 (1924), and Sterc. Gab. in Mém. S. B. Fr.: 47 (1950-1951).
 
-, réf. orig. : Fl. Mayombe : 31 (1924), et Sterc. Gab. in Mém. S. B. Fr. : 47 (1950-1951).
+This species is very close to the preceding one; like it, it is a small shrub 0.50-0.80 m tall, with inflorescences on long peduncles appearing near soil level or on the rhizomes, and with yellow flowers (up to 10-15 per inflorescence). The leaves are similar except for the lateral veins which are more arched and less obliquely ascending. A more important difference concerns the calyx which is valvate to the apex in the bud, with sepals more or less united to one another. At anthesis, the calyx divides into two or three lobes scarcely before the corolla. Ovary pubescent with 5 locules 8-10 ovulate. Fruit unknown.
 
-Cette espèce est très voisine de la précédente; c'est, comme elle, un petit arbrisseau de 0,50-0,80 m de haut, à inflorescences longuement pédonculées apparaissant près du niveau du sol ou
-
-sur les rhizomes, et à fleurs jaunes (jusqu'à 10-15 par inflorescence). Les feuilles sont semblables à part les nervures latérales qui sont plus arquées et moins obliquement ascendantes. Une différence plus importante concerne le calice qui est valvé jusqu'à l'apex dans le bouton, à sépales plus ou moins soudés entre eux. À l'anthèse, le calice se divise en deux ou trois lobes également à peine la corolle. Ovaire velu à 5 loges 8-10 ovulées. Fruit non connu.
-
-Type de l'espèce : Le Testu 2138 (P.).
+Type of the species: Le Testu 2138 (P.).
 
 ## Specimens examined
 

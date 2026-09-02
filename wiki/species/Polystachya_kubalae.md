@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 19 x 0,2 cm. Feuille unique, 19,5 x 1,5 cm, linéaire-oblancéolée. Inflorescence 2,3 cm, 12-flore. Fleurs jaunes. Labelle obové-oblancéolé, très épais, densément et finement papilleux sur la face externe, éparsément et mollement pubescent sur toute la surface interne ; callus oblong dans la moitié inférieure, épais, glabre ; labelle faiblement trilobé juste au-dessus du milieu, fortement recourbée, juste au-dessus de la base et de nouveau sous l'apex ; lobe médian presque orbiculaire, très grand, avec un appendice court et obtus, juste sous l'apex arrondi sur la face externe ; lobes latéraux triangulaires obtus.- Pl. 114, p. 259.
+Pseudobulbs 19 × 0.2 cm. Single leaf, 19.5 × 1.5 cm, linear-oblanceolate. Inflorescence 2.3 cm, 12-flowered. Flowers yellow. Labellum obovate-oblanceolate, very thick, densely and finely papillose on the external face, sparsely and softly pubescent over the entire internal surface; callus oblong in the lower half, thick, glabrous; labellum weakly trilobed just above the middle, strongly recurved just above the base and again below the apex; midlobe almost orbicular, very large, with a short and obtuse appendage just below the rounded apex on the external face; lateral lobes triangular obtuse.— Pl. 114, p. 259.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue que de la localité-type
+known only from the type locality
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+altitude unknown
 
-alt inconnue
+MATERIAL EXAMINED (Map 46):
 
-MATÉRIEL ÉTUDIÉ (Carte 46) :
-
-Le Testu 5924, Piti-Masango (fl. Avr.), P!
+Le Testu 5924, Piti-Masango (fl. Apr.), P!
 
 ## Figures
 

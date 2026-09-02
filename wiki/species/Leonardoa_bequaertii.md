@@ -24,17 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 1–2 pairs of opposite leaflets, elliptic to lanceolate, acuminate-emarginate, asymmetric at base, 3–15 cm long by 1.5 cm wide. Rachis at most 5 cm long, channeled. Veins and veinlets forming a ± dense and visible reticulum beneath.
 
-Arbres. Feuilles à 1-2 paires de folioles opposées, elliptiques à lancéolées, acuminées-émarginées, asymétriques à la base, de 3-15 cm de longueur sur 1,5 cm de largeur. Rachis de 5 cm de longueur au plus, canalicule. Nervures et nervilles formant un réticulum ± dense et visible en dessous.
+Scaly buds. Small axillary racemes of pink flowers, at most 3 cm long. Pedicels 7–20 mm. Sepals oblong-lanceolate, up to 12 mm long, reflexed in the open flower. Ovary glabrous.
 
-Bourgeons écailleux. Petits racèmes axillaires de fleurs roses, de 3 cm de longueur au plus. Pédicelles de 7-20 mm. Sépales oblongs lancéolés, jusqu'à 12 mm de longueur, réfléchis dans la fleur épanouie. Ovaire glabre.
+Oblongus pod reaching 7 cm in length, flattened.
 
-Gousse oblongue atteignant 7 cm de longueur, aplatie.
+Type of Cynometra Bequaertii: Bequaert 53 Kindu, Congo.
 
-Type du Cynometra Bequaertii : Bequaert 53 Kindu, Congo.
-
-Nous rapportons à la variété Bergeri de l'espèce Bequaertii décrite de la forêt congolaise, un unique numéro de Le Testu du Gabon, 8413 récolté à Poupa dans la région de Lastoursville (fl. oct.).
+We attribute to the variety Bergeri of the species Bequaertii described from the Congolese forest, a single number from Le Testu from Gabon, 8413 collected at Poupa in the Lastoursville region (fl. Oct.).
 
 ## Notes
 

@@ -53,6 +53,10 @@ Rules:
    English terminology (imparipinnate, glabrous, pubescent, drupe, etc.).
 2. Preserve EXACTLY, character-for-character:
    - Latin scientific names and author citations
+   - place names: countries, provinces, localities, collecting sites. Leave
+     them in the form the source prints them. "l'Estuaire" is the name of a
+     Gabonese province and stays "Estuaire", never "the Estuary";
+     "Moyen-Ogooue" never becomes "Middle Ogooue"
    - numbers, measurements and ranges (0,5-2 cm stays as 0.5-2 cm — convert the
      French decimal comma to a point, but change nothing else)
    - markdown structure and any bold or italic markers

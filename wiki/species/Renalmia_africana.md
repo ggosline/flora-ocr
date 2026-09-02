@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hook. f. Ic. Pl : t. 1430 (1883).
 
-Herbe en grosses touffes, jusqu'à 2 m de haut. Feuilles à pétiole atteignant 7 à 8 cm de long; limbe étroitement blancéolé, caudéacuminé au sommet, atténué à la base, glabre, jusqu'à 60 × 10 cm. Ligule obtuse, de 2 mm de long.
+Herb in large tufts, up to 2 m tall. Leaves with petiole reaching 7 to 8 cm long; blade narrowly lanceolate, caudate-acuminate at apex, attenuate at base, glabrous, up to 60 × 10 cm. Ligule obtuse, 2 mm long.
 
-Inflorescence paniculée, relativement dense, de 30 à 40 cm de long, portée par un pédoncule gris atteignant une trentaine de cm de haut et couvert de gaines aphylles glabres d'environ 5 cm de long. Rachis rouge, finement pubescent, ainsi que les différentes parties de l'inflorescence. Bractées hyalines, blanchâtres, plus ou moins caduques, les plus grandes d'environ 4 cm de long. Inflorescences secondaires subsessiles, à 3 ou 4 fleurs. Bractéoles fendues presque jusqu'à la base, de 8 mm de long, de même texture que les bractées. Pédicelles floraux d'une dizaine de mm de long, rouge-orangés. Calice en entonnoir, irrégulièrement tridenté, de 6-9 mm de long, de même couleur que les pédicelles. Corolle rose (?). Labelle de 9 mm de long, blanc, strié de rose. Capsule elliptique, allongée, de 9 à 10 mm de long, noire; graines à arille orangé.
+Inflorescence paniculate, relatively dense, 30 to 40 cm long, borne on a grey peduncle reaching about thirty cm tall and covered with glabrous aphyllous sheaths approximately 5 cm long. Rachis red, finely pubescent, as are the various parts of the inflorescence. Bracts hyaline, whitish, more or less caducous, the largest about 4 cm long. Secondary inflorescences subsessile, with 3 or 4 flowers. Bracteoles split almost to the base, 8 mm long, of the same texture as the bracts. Floral pedicels about ten mm long, red-orange. Calyx funnelform, irregularly tridentate, 6–9 mm long, the same colour as the pedicels. Corolla pink (?). Labellum 9 mm long, white, streaked with pink. Capsule elliptic, elongate, 9 to 10 mm long, black; seeds with orange aril.
 
 ## Type
 
@@ -34,9 +32,7 @@ Mann s.n., Fernando-Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue également du Cameroun, du Gabon, du Congo et de l'Angola.
+Species also known from Cameroon, Gabon, Congo, and Angola.
 
 ## Specimens examined
 

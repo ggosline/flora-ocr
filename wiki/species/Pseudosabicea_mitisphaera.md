@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woolly sarmentose plant 2–4 m tall; the woody rootstock of subquadrangular cross-section reaches 2 cm diam. and produces several stems. Internodes tawny-woolly 9–20 (25) × 0.4–0.7 cm. Stipules erect 15–20 mm long, lanceolate acute, ± folded lengthwise, tawny-woolly. Petioles 20–85 mm long, tawny-woolly, somewhat unequal within each pair. Blade discolorous, dark green above in vivo, brownish when dry, glabrous, below with thick bistro-tawny woolly indumentum, ovate-acute, 10–21 × 6–14 cm; base rounded to cordate; apex acute to ± attenuate point. Weak but perceptible anisophylly. 10–15 pairs of secondary veins hairy above only in very young stage as well as the midvein.
 
-Plante laineuse sarmenteuse de 2-4 m de hauteur; la souche ligneuse de section subquadrangulaire atteint 2 cm de diam. et émet plusieurs tiges. Entrenœuds fauve-laineux de 9-20 (25) × 0,4-0,7 cm. Stipules dressés de 15-20 mm de long, lancéolées aiguës, ± pliées en long, fauve-laineuses. Pétioles de 20-85 mm de long, fauve-laineux, un peu inégaux dans chaque paire. Limbe discolore dessus vert foncé in vivo, brunâtre à sec, glabre, dessous à épais revêtement bistre-fauve laineux, ové-aigu, de 10-21 × 6-14 cm; base arrondie à cordée; sommet aigu à pointe ± atténuée. Anisophyllie faible mais sensible. 10-15 paires de nervures secondaires velues dessus seulement dans le très jeune âge ainsi que la médiane.
+Inflorescences axillary, densely ochraceous woolly, spherical 2–3 cm diam., multiflorous, subsessile or with peduncle reaching 1–2 cm. The largest bracts ± acute, reaching 15 × 6 mm; between the flowers linear bracts reaching ca. 4–8 mm. Calyx with 5 lobes not acute subequal ca. 1.5–3 mm, densely clothed with fine woolly fluff. Corolla in bud with blunt pubescent apex, in vivo reddish-violet. Corolla tube 3–4 mm, glabrous externally; 5 white triangular lobes ca. 1.5 mm; internal pubescence tiered over 2 mm towards the androecium and throat, and composed of white hairs ca. 0.4 mm, in strings with 4–6 grains (upper hairs) or with numerous fine grains (lower hairs). Anthers medifixed subsessile ca. 1 × 0.6 mm, yellow with yellow pollen, scarcely subemarginate at apex, split toward the base. Style reaching 3 mm, pale green, with 2 spatulate fleshy lobes ca. 0.9 × 0.7 mm, and ornate on the outside, beneath the apex, with (0)1–3 filiform hairs (longistyle form studied). Ovary hairy externally, 2-locular, each with a multiovular elliptic mass nearly 1 mm tall.
 
-Inflorescences axillaires, densément ochracées laineuses, sphériques de 2-3 cm de diam., multiflores, subsessiles ou à pédon-cule atteignant 1-2 cm. Les plus grandes bractées ± aiguës, atteignent 15 × 6 mm; entre les fleurs des bractées linéaires atteignent env. 4-8 mm. Calice à 5 lobes non aigus subégaux d'env. 1,5-3 mm, densément vêtus de bourre laineuse fine. Corolle en bouton à sommet camus pubescent, in vivo rose violacé. Tube de la corolle de 3-4 mm, glabre extérieurement; 5 lobes blancs triangulaires d'env. 1,5 mm; pubescence interne étagée sur 2 mm vers l'androcée et la gorge, et composée de poils blancs d'env. 0,4 mm, en chapelet à 4-6 grains (poils supérieurs) ou à nombreux grains fins (poil inférieurs). Anthères médifixes subsessiles d'env. 1 × 0,6 mm, jaunes à pollen jaune, à peine subémarginées au sommet, fendues vers le bas. Style atteignant 3 mm, vert pâle, à 2 lobes spathulés charnus d'env. 0,9 × 0,7 mm, et ornés à
-
-l’extérieur, sous l’apex, de (0)1-3 poils effilés (forme longistyle étudiée). Ovaire velu à l’extérieur, à 2 loges, chacune avec une masse multiovulaire elliptique de près de 1 mm de hauteur.
-
-Infrutescence ± sphérique dépassant 6 cm de diam., blanche, d'une ou plusieurs dizaines de fruits; axes moins contractés que dans l'inflorescence et pédicelles accrescents de 0 à 1 cm, grêles, velus et persistent après la chute des fruits. Le fruit est blanc, charnu mou de 17-20 × 14 mm, obové, à paroi de 3,5 mm d'épaisseur, à sépales extorsores persistants; chaque loge s'accroît en une cavité de 12 × 8 × 2 mm, emplie d'un suc clair à peine sucré dans lequel baignent les graines détachées des placentas. Ces derniers de 4 × 2,3 mm, ovés-oblongs et subéchinulés, sont à peine cordés au sommet et présentent une longue surface d'insertion axiale. Graines brunes ± ovées ou anguleuses, de 0,4-0,5 mm; 600 graines comptées dans un fruit.
+Infructescence ± spherical exceeding 6 cm diam., white, with one or several dozens of fruits; axes less contracted than in the inflorescence and pedicels accrescent 0 to 1 cm, slender, hairy and persistent after fruit fall. The fruit is white, soft fleshy 17–20 × 14 mm, obovate, with wall 3.5 mm thick, with persistent extorsive sepals; each locule develops into a cavity 12 × 8 × 2 mm, filled with clear barely sweet juice in which the seeds detached from the placentas bathe. These latter 4 × 2.3 mm, ovate-oblong and subechinulate, are scarcely cordate at apex and present a long axial insertion surface. Seeds brown ± ovate or angular, 0.4–0.5 mm; 600 seeds counted in one fruit.
 
 ## Type
 
@@ -33,21 +29,19 @@ N. Hallé 1129 (P), env. de Makokou
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This very remarkable species, particularly conspicuous in the season of ripe fruits, not rare and even fairly widespread, remained unknown until 1963. Type of the genus and sole in Gabon of the section SPHAERICAE N. Hallé, it situates itself perfectly both by its habit and by its morphological characters, between the anisophyllous Pseudosabicea low with contracted and sessile inflorescences (section Anisophyllae N. Hallé), and the other non-anisophyllous species with lax inflorescences (section FLORIBUNDAE Wernh. ex N. Hallé).
 
-Cette espèce très remarquable, particulièrement visible à la saison des fruits mûrs, non rare et même assez répandue, est restée inconnue jusqu'en 1963. Type du genre et seule au Gabon de la section SPHAERICAE N. Hallé, elle se situe parfaitement tant par son port que par ses caractères morphologiques, entre les Pseudosabicea anisophylles bas à inflorescences contractées et sessiles (section Anisophyllae N. Hallé), et les autres espèces non anisophylles à inflorescences lâches (section FLORIBUNDAE Wernh. ex N. Hallé).
+Gabon and Congolese Mayombe. Ps. mitisphaera leans on shrubs or bushes of roadside slopes.
 
-Gabon et Mayombe congolais. Le Ps. mitisphaera prend appui sur les arbustes ou buissons des talus du bord des routes.
+Gabonese material (or adjacent):
 
-Matériel gabonais (ou limitrophe) :
+A. Bouquet: 1087, Moetché, Congo (fl. Jan.).
 
-A. Bouquet : 1087, Moetché, Congo (fl. janv.).
+N. Hallé: 1129, 20 km SW of Makokou (fl. Feb.); 1974, 1974 bis and 2001, Ayem region, C.E.F.A. worksite, 10 km SW of Ndjolé (fl. and fr. May).
 
-N. Hallé : 1129, 20 km SW de Makokou (fl. fév.); 1974, 1974 bis et 2001, région d'Ayem, Chantier C.E.F.A., 10 km SW de Ndjolé (fl. et fr. mai).
+N. Hallé and G. Cours: 5873, 5874, road from Lépamba to Etéké (fr. May): frequent in the region.
 
-N. Hallé et G. Cours : 5873, 5874, route de Lépamba à Etéké (fr. mai) : fréquent dans la région.
-
-Lecomte : D6, riv. Loukambo, affl. rive gauche du Kouilou en aval de Kitabi (fl. janv.).
+Lecomte: D6, Loukambo river, left bank tributary of the Kouilou downstream from Kitabi (fl. Jan.).
 
 ## Figures
 

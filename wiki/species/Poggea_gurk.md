@@ -16,25 +16,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 WARB., in ENGL. & PRANTL, NPF 3 (6a) : 16 (1893) ; GILG, in ENGL., PWA 3 (2) : 563 (1921) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 11 (1968) ; SLEUMER, EBJ 94 (3) : 296 (1974).
 
-Arbustes (1-7 m de haut) inermes.
+Shrubs (1–7 m tall) unarmed.
 
-Feuilles stipulées, dentées ou denticulées.
+Leaves stipulate, dentate or denticulate.
 
-Fleurs ♀, solitaires à l’aisselle des feuilles supérieures ; sépales 3, imbriqués ; pétales 8-12 ; étamines nombreuses (60-80) ; ovaire pubes-cent à tomenteux, à 2-5 placentas pluriovulés ; style entier.
+Flowers ♀, solitary in the axils of the upper leaves ; sepals 3, imbricate ; petals 8–12 ; stamens numerous (60–80) ; ovary pubescent to tomentose, with 2–5 pluriovulate placentas ; style entire.
 
-Fruits : capsules tardivement déhiscentes, 4-6-ailées ; graines ± pubescentes.
+Fruits : capsules tardily dehiscent, 4–6-winged ; seeds ± pubescent.
 
-ESPÈCE-TYPE : P. alata GILG.
+TYPE SPECIES : P. alata GILG.
 
-Genre d'Afrique tropicale occidentale et centrale comprenant 3 espèces, dont 2 pour la Flore.
+Genus of tropical western and central Africa comprising 3 species, 2 of which occur in the Flora.
 
-1. Jeunes rameaux et boutons floraux ± pubescents ; surface inférieure des feuilles glabrescente ; limbe denticulé ..... 1. P. alata
+1. Young branches and flower buds ± pubescent ; lower leaf surface glabrescent ; limb denticulate ..... 1. P. alata
 
-1'. Jeunes rameaux et boutons floraux densément velus ; surface inférieure des feuilles tomenteuse ; limbe denté à denticulé-mucroné ..... 2. P. gossweileri
+1'. Young branches and flower buds densely villous ; lower leaf surface tomentose ; limb dentate to denticulate-mucronate ..... 2. P. gossweileri
 
 ## Notes
 

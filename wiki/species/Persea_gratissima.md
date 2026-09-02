@@ -20,15 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Gaertner, Fruct. 3 : 222 (1805).
 
-Introduit depuis longtemps au Gabon, il est cultivé un peu partout, au voisinage des habitations. C'est un arbre de 5-10 m, à feuilles alternes vert foncé, penninerves, gaufrées-papyracées, légèrement velues sur les 2 faces. Les fleurs, groupées en cymes, sont vert-jaunâtre, odorantes; sur plusieurs fleurs examinées, le périanthe présente les 6 tépales classiques, sur 2 rangs et un tépale supplémentaire un peu plus petit qui pourrait être une bractée placée tout contre la fleur. Les étamines ont 4 loges superposées à 2; les staminodes sont sagittés et stipités; l'ovaire est velu. Le fruit, ou poire d'avocat, est très variable dans sa couleur : vert, violacé ou rougeâtre; dans sa forme : arrondi ou pyriforme, lisse ou verruqueux; dans ses dimensions : de 8 à 20 cm de long. La graine, très grosse, formée de 2 cotylédons charnus, plan-convexes, adhère ou non, selon les variétés, au péricarpe charnu que l'on consomme en hors-d'œuvre ou au dessert.
+Introduced long ago to Gabon, it is cultivated everywhere, in the vicinity of habitations. It is a tree of 5–10 m, with alternate dark green leaves, penninerved, goffered-papyraceous, slightly pubescent on both faces. The flowers, grouped in cymes, are greenish-yellow, fragrant; on several flowers examined, the perianth presents the 6 classical tepals, in 2 rows and an additional tepal somewhat smaller that could be a bract placed directly against the flower. The stamens have 4 superposed loges in pairs of 2; the staminodes are sagittate and stipitate; the ovary is pubescent. The fruit, or avocado pear, is highly variable in its colour: green, purplish or reddish; in its form: rounded or pyriform, smooth or warty; in its dimensions: from 8 to 20 cm long. The seed, very large, formed of 2 fleshy cotyledons, plane-convex, adheres or not, depending on the varieties, to the fleshy pericarp that is consumed as an appetizer or for dessert.
 
-Les noms vernaculaires, très nombreux, dérivent presque tous du mot caraïbe « avoka », puisque l'arbre est originaire de l'Amérique tropicale. Ont été relevés : Ovaka (dialectes Mpongwé, Galoa, Nkomi, Ovongu, Mitsogo, Apindji, Simba, Ivéa). — Movoka (dial. Bavové). — Mvoka (dial. Loango). — Mvoka
-
-(dial. Eshira, Bavarama, Bavungu, Bapunu, Balumbu, Bavili, Baduma, Banzabi, Massangu, Ngowé). — Avoga (dial. Fang). — Ivoka (dial. Masango). — Dèye (dial. Benga, Béséki). — D'après A. Walker et R. Sillans, Plantes utiles du Gabon, 1961.
+The vernacular names, very numerous, derive almost all from the Carib word "avoka", since the tree is native to tropical America. The following have been noted: Ovaka (dialects Mpongwé, Galoa, Nkomi, Ovongu, Mitsogo, Apindji, Simba, Ivéa). — Movoka (dial. Bavové). — Mvoka (dial. Loango). — Mvoka (dial. Eshira, Bavarama, Bavungu, Bapunu, Balumbu, Bavili, Baduma, Banzabi, Massangu, Ngowé). — Avoga (dial. Fang). — Ivoka (dial. Masango). — Dèye (dial. Benga, Béséki). — According to A. Walker and R. Sillans, Useful Plants of Gabon, 1961.
 
 ## Vernacular names
 

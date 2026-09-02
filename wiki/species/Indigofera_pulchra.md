@@ -23,7 +23,7 @@ Erect suffrutex, reaching 1.5 m in height; ramules angular, puberulent with grey
 
 ## Distribution
 
-widely distributed in tropical Africa, from Senegal to Ethiopia and southward to Angola and Zambia; in Gabon, known from the Estuary and Ogooué-Ivindo
+widely distributed in tropical Africa, from Senegal to Ethiopia and southward to Angola and Zambia; in Gabon, known from the Estuaire and Ogooué-Ivindo
 
 ## Ecology
 

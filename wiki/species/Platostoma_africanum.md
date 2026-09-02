@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle , aromatique ou peu aromatique, de 20–60 cm de hauteur ; tige mince, dressée, parfois à racines adventives près de la base, éparsement ramifiée , à branches ascendantes , pubescente à poils courts et dirigés vers le bas, parfois bleutés sur l’axe de l’inflores cence. Feuille : pétiole 5–15(–20) mm ; limbe ovale, de 1,5–4(–6) × 1–2,5(–3,5) cm, atténué à la base, aigu ou obtus à l’apex, denté , légèrement pubescent sur les deux faces et à glandes sessiles dessous. Inflorescence lâche ; verticillastres avec 6 à 10 fleurs, espacées de 4–10 mm ou presque contiguës ; bractées elliptiques, longues de 1–10 mm, généralement entières, bleuâtres ou blanches à la base. Fleur : pédicelle 2 mm ; calice en forme d’entonnoir , long de 1–1,5 mm à l’anthèse et de 2–2,5 mm en fruit, lobe supérieur dressé, les latéraux petits, triangulaires, disposés près du lobe supérieur, lèvre inférieure entière, arrondie à l’apex , dépassant la supérieure , horizontale ou ascendante , mais ne fermant pas la gorge à maturité ; corolle blanche, rose ou bleue, longue de 1,5–3 mm.
+Annual herb, aromatic or weakly aromatic, 20–60 cm tall; stem slender, erect, sometimes with adventitious roots near the base, sparsely branched, with ascending branches, pubescent with short hairs directed downward, sometimes bluish on the inflorescence axis. Leaf: petiole 5–15(–20) mm; blade ovate, 1.5–4(–6) × 1–2.5(–3.5) cm, attenuate at the base, acute or obtuse at the apex, dentate, slightly pubescent on both surfaces and with sessile glands beneath. Inflorescence lax; verticillasters with 6 to 10 flowers, spaced 4–10 mm apart or almost contiguous; bracts elliptic, 1–10 mm long, generally entire, bluish or white at the base. Flower: pedicel 2 mm; calyx funnel-shaped, 1–1.5 mm long at anthesis and 2–2.5 mm in fruit, upper lobe erect, lateral lobes small, triangular, arranged near the upper lobe, lower lip entire, rounded at the apex, exceeding the upper lip, horizontal or ascending, but not closing the throat at maturity; corolla white, pink or blue, 1.5–3 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Asie et en Afrique tropicale, y inclus le Nigéria, le Cameroun, la Guinée équatoriale (Bioko, Rio Muni), le Gabon, São Tomé, la République du Congo, la République Centrafricaine, la République démocratique du Congo et l’Angola ; au Gabon : Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime et Woleu-Ntem. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+distributed in tropical Asia and Africa, including Nigeria, Cameroon, Equatorial Guinea (Bioko, Rio Muni), Gabon, São Tomé, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon: Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones ouvertes ou mouillées des forêts ouvertes et forêts sempervirentes, berges de rivières et ruisseaux, brousses, jardins, fossés, bords de routes ; au Gabon à 0–800 m altitude, ailleurs jusqu’à 1300 m
+open or wet zones of open forests and evergreen forests, river and stream banks, scrub, gardens, ditches, roadsides; in Gabon at 0–800 m altitude, elsewhere up to 1300 m
 
 ## Vernacular names
 
@@ -37,9 +31,7 @@ ebolo (fang) (sous Ocimum sp . chez Raponda-Walker & Sillans, 1961). Usage : Au 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-P. denticulatum : 4. Fleur. – 5. Corolle ouverte et étamines. – 6. Calice. (1 : de Wilde & Jongkind 9385 ; 4, 5 : Bequaert 5651 ). Dessin par Emmanuel Papadopoulos (1-3, 6), Royal Botanic Gardens, Kew (©), adap té et reproduit avec permission à partir de Paton et al. (2009) par J.M. Lerinckx, Jardin botanique de Meise.
+P. denticulatum: 4. Flower. – 5. Open corolla and stamens. – 6. Calyx. (1: de Wilde & Jongkind 9385; 4, 5: Bequaert 5651). Drawing by Emmanuel Papadopoulos (1–3, 6), Royal Botanic Gardens, Kew (©), adapted and reproduced with permission from Paton et al. (2009) by J.M. Lerinckx, Meise Botanic Garden.
 
 ## Notes
 

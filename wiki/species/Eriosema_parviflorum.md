@@ -21,7 +21,7 @@ Perennial herb, densely pilose with long spreading or reflexed hairs, reddish-br
 
 ## Distribution
 
-fairly widely distributed: from Nigeria to the Central African Republic, to Natal and to Zanzibar; in Gabon, known from the Estuary, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Woleu-Ntem
+fairly widely distributed: from Nigeria to the Central African Republic, to Natal and to Zanzibar; in Gabon, known from the Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Woleu-Ntem
 
 rather coastal, from Sierra Leone to Gabon; in Gabon, known from Ngounié
 

@@ -16,25 +16,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in THIS ELTON-DYER, Fl. Cap. 4 (2): 449 (1904); GENTRY, Flora of Ecuador 7: 122 (1977); Fl. Cam. 27: 54 (1984).
 
 - Tecoma ricasoliana TANFANI, Bull. Soc. Tosc. Ortic. 1887 : 17 (1887).
 
 – Pandorea ricasoliana (TANFANI) BAILL., Hist. Pl. 10 : 40 (1888).
 
-Plante grimpante ou arbuste sarmenteux. Feuilles composées imparipennées, habituellement 7-9 folioles, sans vrille, folioles ± ovées, obtuses à courtement acuminées, dentées, tronquées à cunéiformes ou un peu atténuées, 2,5-3,8 × 1,5-2 cm, pétiolulées.
+Climbing plant or sarmentose shrub. Leaves compound imparipinnate, usually 7–9 leaflets, without tendril, leaflets ± ovate, obtuse to shortly acuminate, serrate, truncate to cuneiform or slightly attenuate, 2.5–3.8 × 1.5–2 cm, petiolulate.
 
-Inflorescence en panicule terminale. Calice large, cupulaire-campanulé, long de 1,5-2 cm, fortement 5-denté, avec des lobes apiculés, lavande pâle ou rosâtre avec une tache magenta à la base des deux lobes adaxiaux, tube blanc avec des lignes magenta sombre à l'intérieur, campanulée au-dessus d'une courte base cylindrique, longue de 6-8 cm ; avec des écailles squameuses dispersées sur les lobes, glandulaire-pubescente au niveau de l'insertion des étamines à l'intérieur et pubescente avec des poils crépus dans les sinus entre les lobes. Étamines didynamics, thèques divariquées, longues de 3 mm. Pistil long de 3-3,5 cm ; ovaire linéaire, glabre, long de 5 mm, large de 1,5 mm ; ovules 6-sériés dans chaque loge. Disque pulviné, long de 0,5 mm, large de 1,5-2 mm.
+Inflorescence in terminal panicle. Calyx broad, cupular-campanulate, 1.5–2 cm long, strongly 5-toothed, with apiculate lobes, pale lavender or pinkish with a magenta spot at the base of the two adaxial lobes, tube white with dark magenta lines inside, campanulate above a short cylindrical base, 6–8 cm long; with squamose scales scattered on the lobes, glandular-pubescent at the insertion of the stamens inside and pubescent with crisp hairs in the sinuses between the lobes. Stamens didynamous, thecae divaricate, 3 mm long. Pistil 3–3.5 cm long; ovary linear, glabrous, 5 mm long, 1.5 mm wide; ovules 6-seriate in each locule. Disc pulvinate, 0.5 mm long, 1.5–2 mm wide.
 
-BIGNONIACEA
+BIGNONIACEAE
 
-Capsule linéaire, squameuse, déhiscente perpendiculaire au septum. Graines biaillées avec des ailes hyalines membraneuses.
+Capsule linear, squamose, dehiscent perpendicular to the septum. Seeds biariate with hyaline membranous wings.
 
-Originaire d'Afrique du Sud, largement cultivé dans les régions tropicales pour ses fleurs voyantes.
+Native to South Africa, widely cultivated in tropical regions for its showy flowers.
 
-Aucune collection du Gabon n'a été trouvée ; il est cependant possible qu'il y existe ; on le cultive au Cameroun et ailleurs en Afrique.
+No collections from Gabon have been found; however, it is possible that it exists there; it is cultivated in Cameroon and elsewhere in Africa.
 
 ## Notes
 

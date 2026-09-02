@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, grêle , haute de 80 cm au plus, à rhizome court et quelques tiges groupées ; tige 40–60 cm × 1–2 mm , trigone, lisse, glabre à pubescente, à base renflée. Feuille : gaine couverte de poils ras, les basales violacées sans limbe, les supérieures vertes portant un limbe ; limbe 30 cm × 2–4 mm, plan, scabre sur la marge et la nervure centrale, sinon glabre. Inflorescence composée de 2–3 panicules pendantes issues de chacune des 3–4 gaines foliaires supérieures ; pédoncule grêle, généralement 10–30 cm × 0,3–0,8 mm, triangulaire, glabre ; panicule 2–4 × 1–2 cm, elliptique à lancéolée, comptant 4–8 groupes d’épillets. Épillet mâle long d’environ 6 mm. Épillet femelle long de 7–8 mm ; glumes entourant les fruits longues de 6 mm, glabres, pâles à brun rougeâtre avec une nervure centrale verte prolongée par un mucron de 1 mm. Akène elliptique, 3–3,5 × 2,5 mm, apiculé, de section ronde, blanc pur ou légèrement verdâtre , avec des groupes de 5–10 poils blancs de 0,1–0,2 mm ; hypogynium long d’environ 0,5 mm, consistant en un pédoncule blanchâtre grossièrement triangulaire avec 3 arêtes saillantes, scabres ou poilues, et se terminant par un anneau étroit étreignant la base de l’akène, anneau orange vif à maturité avec 3 petits lobes aigus longs seulement de 0,2–0,4 mm .
+Perennial herb, slender, up to 80 cm tall, with short rhizome and a few grouped stems; stem 40–60 cm × 1–2 mm, trigonous, smooth, glabrous to pubescent, swollen at base. Leaf: sheath covered with short hairs, the basal ones violaceous without blade, the upper ones green bearing a blade; blade 30 cm × 2–4 mm, flat, scabrous on the margin and central nerve, otherwise glabrous. Inflorescence composed of 2–3 pendulous panicles arising from each of the 3–4 upper leaf sheaths; peduncle slender, generally 10–30 cm × 0.3–0.8 mm, triangular, glabrous; panicle 2–4 × 1–2 cm, elliptic to lanceolate, comprising 4–8 groups of spikelets. Male spikelet approximately 6 mm long. Female spikelet 7–8 mm long; glumes surrounding the fruits 6 mm long, glabrous, pale to reddish-brown with a green central nerve prolonged by a mucro of 1 mm. Achene elliptic, 3–3.5 × 2.5 mm, apiculate, round in section, pure white or slightly greenish, with groups of 5–10 white hairs 0.1–0.2 mm; hypogynium approximately 0.5 mm long, consisting of a whitish peduncle roughly triangular with 3 prominent scabrous or hairy edges, and terminating in a narrow ring gripping the base of the achene, ring bright orange at maturity with 3 small acute lobes only 0.2–0.4 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon ; très rare et trouvée seulement dans le Haut-Ogooué (1 récolte)
+endemic to Gabon; very rare and found only in Haut-Ogooué (1 collection)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-brousse dans les zones de forêt ; à 435 m d’altitude. Note taxonomique : proche de S. nyasensis . Elle en diffère par son hypogynium ayant un anneau orangé proéminent avec 3 petits lobes aigus, alors que celui de S. nyasensis est blanc grisâtre et formé de 3 lobes proéminents sans anneau
+brush in forest zones; at 435 m altitude. Taxonomic note: close to S. nyasensis. It differs from it by its hypogynium having a prominent orange ring with 3 small acute lobes, whereas that of S. nyasensis is greyish white and formed of 3 prominent lobes without a ring
 
 ## Notes
 

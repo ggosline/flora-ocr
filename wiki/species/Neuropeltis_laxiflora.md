@@ -23,7 +23,7 @@ Corolla spreading, inner face with stamens. – 9. Gynoecium. – 10. Fruit. –
 
 ## Distribution
 
-Cameroon and Gabon, where it was collected in the Estuary, Ngounié and Ogooué-Lolo
+Cameroon and Gabon, where it was collected in the Estuaire, Ngounié and Ogooué-Lolo
 
 ## Ecology
 

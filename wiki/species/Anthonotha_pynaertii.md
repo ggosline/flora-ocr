@@ -23,11 +23,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves 3-5 jugate. Leaflets oblong elliptic, caudate acuminate acute, appressed pubescent ferruginous and ± lustrous beneath, 4-20 cm long by 2-9 cm wide.
 
-Arbres. Feuilles 3-5 juguées. Folioles oblongues elliptiques, caudées acuminées aiguës, pubescentes apprimées ferrugineuses et ± luisantes dessous, longues de 4-20 cm sur 2-9 cm de large.
-
-Racèmes très courts fasciculés, axillaires ou sur le vieux bois, formant ensemble de petites boules densément fleuries.
+Racemes very short fasciculate, axillary or on old wood, forming together small densely flowered globules.
 
 ## Type
 
@@ -35,11 +33,9 @@ Pynaert 1226 (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very close to A. macrophylla from which it is separated by the condensed inflorescences.
 
-Cette espèce est très proche de A. macrophylla dont elle se sépare par les inflorescences condensées.
-
-Elle est répandue du Gabon au Cabinda et à l'Angola.
+It is distributed from Gabon to Cabinda and Angola.
 
 ## Specimens examined
 

@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Related to P. setiflora (R. Good) Brem. and P. Schumannio Brem., but differing in the calyx lobes glabrous on the exterior and the calyx tube shortly pilose, the laminae glabrous, the veins 7-8 on each side, appressed-pilose below and not hirsute, and the stipules linear.
 
-Affinis P. setifloro (R. Good) Brem. atque P. Schumannio Brem., sed lobis calycis extus glabris et tubo calycis breviter piloso, laminis glabris, venis 7-8 utrinque, infra appresso-pilosis non hirsutis, stipulis linearibus differt.
+Shrub 1 m tall with horizontal branches; internodes with ± appressed pubescence. Stipules linear 6-12 × 1-1.5 mm, pubescent. Petioles pubescent, canaliculate, 3-5 mm long. Blade discolorous when dry, glabrous above, sparingly pubescent below, elliptic to obovate 8-14 × 2.5-5 cm, subacute to obtuse at the base, with an acumen 8-12 mm. Midvein ± hirsute on the upper side. 7-8(9) pairs of secondary veins with appressed hairs below as on the midvein.
 
-Arbrisseau de 1 m à rameaux horizontaux; entrenœuds à pubescence ± couché. Stipules linéaires de 6-12 × 1-1,5 mm, pubescentes. Pétioles pubescents canaliculés de 3-5 mm de long. Limbe discolore à sec, glabre dessus, paucipubescent dessous, elliptique à obové de 8-14 × 2,5-5 cm, subaigu à obtus à la base, à acumen de 8-12 mm. Nervure médiane ± hirsute sur le dessus. 7-8(9) paires de nervures secondaires à poils couchés dessous comme sous la médiane.
+Inflorescences axillary, bi- or triflorous. Peduncle 1-1.5 mm; involucre with lobes 2-4 × 1 mm; pedicels 0 to 2 mm long, with short pubescence also covering the ovary. 5 pale green sepals ± unequal 3-4 × 1.5-2.7 mm, ovate acute, with puberulent margins, with faces almost glabrous, 3-5 nerved toward the base. Corolla pale dull yellow with tube externally glabrous 4 mm long, with 5 lobes 2.5 mm, spread over 7 mm at anthesis, well pubescent externally, weakly puberulent on the upper face; hairs of the throat violaceous, dense and erect, the lower ones somewhat reflexed. 5 anthers 1 mm long, situated in the pilose zone of the upper half of the tube. Style 3 mm, hirsute, with 5 short lobes united introsely into a capitate stigma 1 mm diam. Disk 1.2 mm diam. by 0.4 mm in height, micropuberulent. 5 locules of the ovary. Placentas V-shaped; ovular mass cordate, 0.6 mm in height.
 
-Inflorescences axillaires bi ou triflores. Pédoncule de 1-1,5 mm ; involucre à lobes de 2-4 × 1 mm ; pédicelles de 0 à 2 mm de long, à pubescence rase couvrant aussi l'ovaire. 5 sépales vert clair ± inégaux de 3-4 × 1,5-2,7 mm, ovés aïgus, à marge pubérulente, à faces presque glabres, 3-5 nervés vers la base. Corolle jaune pâle terne à tube extérieurement glabre de 4 mm de long, à 5 lobes de 2,5 mm, étalés sur 7 mm à l'anthèse, bien pubescents extérieure
-
-ment, faiblement pubérulents sur la face supérieure; poils de la gorge violacés serrés et dressés, les inférieurs un peu rabattus. 5 anthères de 1 mm de long, situées dans la zone pilifère de la moitié supérieure du tube. Style de 3 mm, hirsute, à 5 courts lobes réunis introrses en un stigmate capité de 1 mm de diam. Disque de 1,2 mm de diam. sur 0,4 mm de hauteur, micropubérulent. 5 loges ovariennes. Placentas en V; masse ovulaire cordiforme haute de 0,6 mm.
-
-Fruit globuleux de 4-5 mm de diam. (mûrs?), à sépales persistants verts. Graines globoïdes de 0,5 mm, réticulées-fossulées, submuriquées.
+Fruit globose 4-5 mm diam. (mature?), with persistent green sepals. Seeds globoid 0.5 mm, reticulate-fossulate, submuriculate.
 
 ## Type
 

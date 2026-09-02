@@ -21,7 +21,7 @@ Annual herb, erect, 0.5–2(–5) m tall; stem simple or branched, glabrous or s
 
 ## Distribution
 
-Native to tropical America, now cultivated in all tropical regions, subspontaneous and naturalized; in Gabon, known from the Estuary
+Native to tropical America, now cultivated in all tropical regions, subspontaneous and naturalized; in Gabon, known from the Estuaire
 
 ## Ecology
 

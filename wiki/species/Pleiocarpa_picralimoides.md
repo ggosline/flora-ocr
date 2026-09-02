@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Wageningen Agric. Univ. Papers 96(1) : 156 (1996). Carpodinopsis (?) picralimoides Pichon, Bol. Soc. Brot. Arbuste atteignant 2 m de hauteur. Feuilles opposées, glabres ; pétiole de 5–10 mm ; limbe HOOLSWLTXHGH±î±FPFXQppjODEDVHDFXPLQpDXVRPPHWFRULDFHQHUYXUHVVH condaires 11 à 18 paires SHXPDUTXpHVGURLWHVjOpJqUHPHQWFRXUEpHVIDLVDQWXQDQJOHGH DYHFODPpGLDQHHWERXFODQWHQXQHQHUYXUHVXEPDUJLQDOHQHUYDWLRQWHUWLDLUHREVFXUH ,QÀRUHVFHQFH et ÀHXU inconnues. Fruit axillaire , jaune à orange, à 4 ou 5 méricarpes distincts GH±î±PPDUURQGLVjO¶DSH[OLVVHVjYHUUXTXHX[j 3 ou 4 graines . Graine de formes variées, longue de 11–15 mm. Distribution *DERQ5pSXEOLTXHGX&RQJRHW$QJROD&DELQGD$X*DERQ0R\HQ2JRRXp1\DQJD HW2JRRXp0DULWLPH Écologie VRXVERLVGHIRUrWSULPDLUHHWVHFRQGDLUHMXVTX¶jPG¶DOWLWXGH B : Jongkind & Lachenaud (2022), Omino (1996). IBLIOGRAPHIE
+Wageningen Agric. Univ. Papers 96(1) : 156 (1996). Carpodinopsis (?) picralimoides Pichon, Bol. Soc. Brot. Shrub reaching 2 m in height. Leaves opposite, glabrous; petiole 5–10 mm; blade [text corrupted]—[?] cm, cuneate at the base, acuminate at the apex and coriaceous, secondary nerves 11 to 18 pairs barely marked, straight to slightly curved, making an angle of [?] with the midvein and looping into a submarginally nerve, tertiary venation obscure. Inflorescence and flower unknown. Axillary fruit, yellow to orange, with 4 or 5 distinct mericarps [?]–[?] mm, rounded at the apex, smooth to verrucose, 3 or 4 seeds. Seed of varied shapes, 11–15 mm long. Distribution Gabon, Republic of the Congo and Angola, Cabinda. In Gabon, Moyen Ogooué, Nyanga and Ogooué-Maritime. Ecology understory of primary and secondary forest up to [?] m elevation. B : Jongkind & Lachenaud (2022), Omino (1996). BIBLIOGRAPHY
 
 ## Notes
 

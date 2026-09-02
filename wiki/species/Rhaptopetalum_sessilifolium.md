@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Engl., Pflanzenw. Afr. 3 (2) : 473 (1921); Letouzey, Adansonia, ser. 2, 1 (2) : 126 (1961).
 
-Arbuste (2-6 m) ou petit arbre atteignant 25 cm de diamètre, à fût vertical, à rhytidome marbré de verdâtre, de grisâtre et d'orangé, à écorce tendre se détachant en lanières souples, avec tranche rouge et toucher légèrement poisseux, à bois mi-dur, rosé-rougeâtre. Rameaux lisses noueux; jeunes rameaux nettement anguleux, finement papilleux puis rapidement glabres; pétiole subnul, rarement atteignant 2 mm. Limbe subcoriace, assez étroitement obovale allongé, 6-10 × 14-32 cm avec la plus grande largeur vers le tiers supérieur; base profondément cordée-amplexicaule, parfois un peu asymétrique; sommet obtus avec acumen triangulaire long de 10 mm; marge plane; 8-12 paires de nervures latérales arquées ascendantes; pas de ponctuations glanduleuses visibles sous le limbe.
+Shrub (2–6 m) or small tree reaching 25 cm in diameter, with vertical bole, with rhytidome marbled with greenish, greyish and orange tones, with tender bark peeling off in supple strips, with red inner surface and slightly sticky to the touch, with semi-hard, pinkish-reddish wood. Branches smooth and knotty; young branches distinctly angular, finely papillose then rapidly glabrous; petiole subulate, rarely reaching 2 mm. Lamina subcoriaceous, rather narrowly obovate-elongate, 6–10 × 14–32 cm with greatest width towards the upper third; base deeply cordate-amplexicaul, sometimes somewhat asymmetrical; apex obtuse with triangular acumen 10 mm long; margin plane; 8–12 pairs of lateral nerves arched ascending; no visible glandular punctations beneath the lamina.
 
-Racèmes contractés sur rameaux de 1-2 cm de diamètre, plus rarement axillaires, groupant jusqu'à 25 fleurs environ; pédicelle long de 2-5 mm, articulé directement sous le calice. Calice pustuleux glanduleux en cupule obconique évasée, de 3-4 mm de hauteur et 5-6 mm de diamètre, à marge crénelée avec 6-10 festons arrondis ourlés sur le bord, parfois fendue radialement; bouton de la corolle ovoïde pointu, haut de 6-8 mm; étanines longues de 5-7 mm; ovaire hémisphérique, haut de 1,5 mm, 3-4(-5) loges; style long de 8 mm.
+Racemes contracted on branchlets 1–2 cm in diameter, more rarely axillary, grouping up to approximately 25 flowers; pedicel 2–5 mm long, articulate directly beneath the calyx. Calyx pustulous-glandular in obconical flared cup, 3–4 mm in height and 5–6 mm in diameter, with crenate margin bearing 6–10 rounded lobes with reflexed edges, sometimes radially split; corolla bud ovoid-pointed, 6–8 mm tall; stamens 5–7 mm long; ovary hemispherical, 1.5 mm tall, 3–4(–5) locules; style 8 mm long.
 
-Capsule crustacée, subglobuleuse subanguleuse, atteignant 20 mm de diamètre, à péricarpe mince s'ouvrant par 3-5 valves et contenant 1 ou plusieurs graines. — PL. 53, p. 183.
+Capsule crustaceous, subglobose subangulate, reaching 20 mm in diameter, with thin pericarp opening by 3–5 valves and containing 1 or several seeds. — PL. 53, p. 183.
 
 ## Type
 
@@ -33,11 +31,9 @@ Zenker 2051, 2389, 2391, Cameroun (B, delet. sauf 2051; iso-, BR! P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Cette espèce n'est à ce jour connue, au Cameroun, que dans la région de Bipindi, où elle paraît assez fréquente.
+This species is to date known in Cameroon only from the Bipindi region, where it appears to be fairly frequent.
 
 ## Specimens examined
 

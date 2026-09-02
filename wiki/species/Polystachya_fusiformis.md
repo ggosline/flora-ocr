@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante de 60 cm ou plus. Pseudobulbes < 22 x 0,3-0,4 cm. Feuilles 5-16 x 0,6-1,6 (-3,2) cm, oblongues à lancéolées. Inflorescence 3-8 (-15) cm, 20-80- flore. Fleurs crème, vert-jaune, variablement teintées de violet ou entièrement mauves ou violettes. Sépale dorsal elliptique, subaigu. Sépales latéraux obliquement avés à presque orbiculaires, brièvement apiculés. Labelle cruciforme, sans callus, trilobé au milieu ; lobe médian semi-elliptique à semi-orbicculaire, arrondi ; lobes latéraux ovés, arrondis, largement divergents. Éperon sacciforme. - Pl. 120, p. 273.
+Plant 60 cm or more. Pseudobulbs < 22 x 0.3–0.4 cm. Leaves 5–16 x 0.6–1.6 (–3.2) cm, oblong to lanceolate. Inflorescence 3–8 (–15) cm, 20–80-flowered. Flowers cream, greenish-yellow, variably tinged with violet or entirely mauve or violet. Dorsal sepal elliptic, subacute. Lateral sepals obliquely obovate to almost orbicular, briefly apiculate. Labellum cruciform, without callus, trilobed in the middle; median lobe semi-elliptic to semi-orbicular, rounded; lateral lobes obovate, rounded, widely divergent. Spur saccate. – Pl. 120, p. 273.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ghana, Cameroon, Gabon, Zaire, Rwanda, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Republic of South Africa, Madagascar, Mascarene Islands
 
-Ghana, Cameroun, Gabon, Zaïre, Rwanda, Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, République sudafricaine, Madagascar, Mascareignes
-
-PL. 121. – Polystachya superposita Rchb.f. : A, fleur ; B, labelle ; C, sépale latéral ; D, pétale ; E, F, sépale dorsal ; G, H, feuille (A-H, Mildbraed 7068, HBG).
+PL. 121. – Polystachya superposita Rchb.f. : A, flower; B, labellum; C, lateral sepal; D, petal; E, F, dorsal sepal; G, H, leaf (A–H, Mildbraed 7068, HBG).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–2,000 m. Epiphyte in humid forest or lithophyte on humid rock in forest
 
-alt. 900-2 000 m. Épiphyte en forêt humide ou lithophyte sur rocher humide en forêt
+MATERIAL EXAMINED (Map 52):
 
-MATÉRIEL ÉTUDIÉ (Carte 52) :
-
-Hallé 3560, Bélinga (fl. Déc.), P!.
+Hallé 3560, Bélinga (fl. Dec.), P!.
 
 ## Figures
 

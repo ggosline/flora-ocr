@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb in dense tufts; ligule reduced to a ciliate crown; blade linear, scabrous on the margins, pubescent above the ligule.
 
-Herbe pérenne en touffes denses; ligule réduite à une couronne ciliée; limbe linéaire, scabre sur les bords, pubescent au-dessus de la ligule.
+Inflorescence yellowish-green, more or less spotted with purple. About twenty bristles at each involucre, scabrous, approximately 5 mm long and one reaching about fifteen millimetres. Spikelets solitary sessile, glabrous 4 mm long. Lower glume approximately half the length of the spikelet with 0 or 1 nerve, the upper one slightly longer, with 1 or 3 nerves. Lower flower sterile, lemma membranous, as long as the spikelet, with 5 nerves; palea suppressed. Glumelles of the upper flower membranous, lemma with 5 nerves.
 
-Inflorescence jaune-verdâtre, plus ou moins tachée de pourpre. Une vingtaine de soies à chaque involucre, scabres, d'environ
-
-5 mm de long et une atteignant une quinzaine de millimètres. Épillets solitaires sessiles, glabres de 4 mm de long. Glume inférieure environ moitié de la longueur de l'épillet à 0 ou 1 nervure, la supérieure un peu plus longue, à 1 ou 3 nervures. Fleur inférieure neutre, lemma membraneuse, aussi longue que l'épillet, à 5 nervures; paléa supprimée. Glumelles de la fleur supérieure membraneuses, lemma à 5 nervures.
-
-Plante connue uniquement du Congo occidental et du Gabon, toujours localisée sur le bord des cours d'eau; valeur fourragère inconnue, sans doute très médiocre.
+Plant known only from western Congo and Gabon, always localized on the edge of watercourses; forage value unknown, doubtless very poor.
 
 ## Specimens examined
 

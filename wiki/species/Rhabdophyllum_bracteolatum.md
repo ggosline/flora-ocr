@@ -16,27 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(1965). Arbre jusqu’à 10 m de hauteur ; tiges robustes. Stipules caduques. Feuille : pétiole 3–6 mm ; limbe étroitement elliptique à elliptique-obovale, (6–)9–20(–24,5) × 2,5–8,5 cm, cunéé à la base, aigu à acuminé au sommet, coriace , à marge entière ; nervures secondaires denses, non- ou peu hiérarchisées, saillantes ou non. Inflorescence (4–)6–11 cm de longueur, denses ; cymules (2–)3- à 5-flores, à axes de < 1 mm ; écailles à la base de l’inflorescence peu ou non persistantes. Fleur pendante ; pédicelle courbée, 7–10 mm ; sépales allongés, épaissis et courbés vers l’intérieur en fruit , 7–10(–12) × 2,5–6 mm, sacciformes à la base ; pétales 6–8 mm de longueur. Fruit pendant , à pédicelle, réceptacle et sépales rouges ; méricarpes plus ou moins ronds, noirs à maturité.
+(1965). Tree up to 10 m tall; robust stems. Stipules caducous. Leaf: petiole 3–6 mm; blade narrowly elliptic to elliptic-obovate, (6–)9–20(–24.5) × 2.5–8.5 cm, cuneate at base, acute to acuminate at apex, coriaceous, with entire margin; secondary nerves dense, non- or weakly hierarchized, prominent or not. Inflorescence (4–)6–11 cm long, dense; cymules (2–)3- to 5-flowered, with axes < 1 mm; scales at base of inflorescence scarcely or not persistent. Flower pendulous; pedicel curved, 7–10 mm; sepals elongate, thickened and curved inward in fruit, 7–10(–12) × 2.5–6 mm, sacciform at base; petals 6–8 mm long. Fruit pendulous, with pedicel, receptacle and sepals red; mericarps more or less round, black at maturity.
 
 Biodiversity Center, Leiden (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+from Sierra Leone to Ghana and Cameroon, to Equatorial Guinea (Bioko included), Gabon, Republic of the Congo and Angola (Cabinda); in Gabon, common throughout almost the entire country
 
-de la Sierra Leone jusqu’au Ghana et au Cameroun, à la Guinée équatoriale (Bioko inclus), au Gabon, à la République du Congo et à l’Angola (Cabinda) ; au Gabon, commune dans presque tout le pays
-
-sud du Cameroun, Gabon et République du Congo (Massif du Chaillu) ; au Gabon, peu commune dans presque toutes les provinces (pas encore signalée dans la Ngounié et l’Ogooué-Maritime)
+southern Cameroon, Gabon and Republic of the Congo (Chaillu Massif); in Gabon, uncommon in almost all provinces (not yet recorded in Ngounié and Ogooué-Maritime)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondary forest, on upland soil, but also in swampy stations, along rivers or at forest edge, sometimes in coastal brushy vegetation or even in savanna, on sandy or clayey soil; in Gabon and elsewhere at 0–740 m elevation. Taxonomic note: Variation in leaf venation is remarkable. In dried material, the lower surface of the leaf may be completely smooth or with secondary nerves prominent and weakly hierarchized. b: Bamps & Farron (1967), Farron (1963, 1968, 1985), Hutchinson, Dalziel & Keay (1954), Sosef (2008). Rhabdophyllum le-testui Farron Plate 24 Adansonia, sér. 2, 9(1): 115 (1969). Subshrub up to 3 m tall; slender stems. Stipules caducous. Leaf: petiole 2–5 mm; blade narrowly elliptic to elliptic-obovate, (8–)10–16(–19) × (2–)3–5(–6) cm, cuneate to rounded at base, acuminate-caudate at apex, papyraceous to slightly coriaceous, margin undulate to weakly dentate; secondary nerves hierarchized and prominent on both surfaces. Inflorescence contracted; rachis 2–10 mm; cymules 1- or 2-flowered, with very short axes; scales at base of inflorescence numerous and persistent. Flower: pedicel 4–12 mm; sepals not or scarcely expanded in fruit, 4–7 mm long; petals 5–6 mm long. Fruit with pedicel, receptacle and sepals red; mericarps ± round, red at maturity
 
-forêt primaire et secondaire, sur terre ferme, mais aussi en stations marécageuses, le long des rivières ou en lisière, parfois en végétation broussailleuse côtière ou même en savane, sur sol sableux ou argileux ; au Gabon et ailleurs à 0–740 m d’altitude. Note taxonomique : La variation dans la nervation des feuilles est remarquable. Sur le sec, la face inférieure de la feuille peut être complètement lisse ou avec des nervures secondaires saillantes et peu hiérarchisées. b : Bamps & Farron (1967), Farron (1963, 1968, 1985), Hutchinson, Dalziel ibliographie & Keay (1954), Sosef (2008). Rhabdophyllum le-testui Farron Planche 24 Adansonia, sér. 2 , 9(1) : 115 (1969). Suffrutex jusqu’à 3 m de hauteur ; tiges grêles. Stipules caduques. Feuille : pétiole 2–5 mm ; limbe étroitement elliptique á elliptique-obovale, (8–)10–16(–19) × (2–)3–5(–6) cm, cunéé á arrondi á la base, acuminé-caudé au sommet, papyracé á légèrement coriace, marge ondulée á faiblement dentée ; nervures secondaires hiérarchisées et saillantes sur les deux faces . Inflorescence contractée ; rachis 2–10 mm ; cymules 1- ou 2-flores, à axes très courts ; écailles á la base de l’inflorescence nombreuses et persistantes . Fleur : pédicelle 4–12 mm ; sépales non ou peu élargis en fruit, 4–7 mm de longueur ; pétales 5–6 mm de longueur. Fruit á pédicelle, réceptacle et sépales rouges ; méricarpes ± ronds, rouges à maturité
-
-forêt primaire et secondaire de terre ferme, mais aussi en stations marécageuses ou même périodiquement inondées, le long des rivières ou en lisière forestière, parfois dans des îlots forestiers inclus en savane ou sur inselberg ; au Gabon, jusqu’à 700 m d’altitude, ailleurs jusqu’à 800 m. b : Farron (1985), Sosef (2008). ibliographie
+primary and secondary upland forest, but also in swampy stations or even periodically inundated, along rivers or at forest edge, sometimes in forest patches included in savanna or on inselberg; in Gabon, up to 700 m elevation, elsewhere up to 800 m. b: Farron (1985), Sosef (2008). Bibliography
 
 ## Notes
 

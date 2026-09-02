@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 74 (1895). Canscora tetragona Schinz, Vierteljahrschr. Naturf. Ges. Zürich 36 : 338 (1891). Herbe 15–60 cm de hauteur ; tige jaune à crème, à ailes jusqu’à 2 mm de large. Feuilles inférieures à limbe largement elliptique-ovale à elliptique-obovale, 5–15 × 3–10 mm, à base obtuse et sommet apiculé, les feuilles supérieures à limbe squamiforme, triangulaire, 2–5 × 1–2,5 mm, à sommet acuminé. Inflorescences 20- à 40-flores, contractées, 10–20 mm de diamètre ; pédoncule 20–70 mm . Fleur : pédicelle 0–3 mm ; calice 5–7 mm de longueur, à tube de 2–4 mm de longueur, lobes triangulaires à ovales, 2–3 mm de longueur, à sommet acuminé ; corolle 6–9 mm de longueur, blanche à jaune, à tube de 2,5–3 mm de longueur, lobes obovales à elliptiques, 2,5–5,8 mm de longueur ; étamine fertile à filet de 1–2 mm, à anthère 0,8–0,9 mm de longueur, les stériles à filet de 0,3–0,4 mm, à anthère 0,8–1 mm de longueur ; ovaire oblongoïde à oblongoïde-obovoïde ; style 1–2,7 mm. Fruit 3–3,5 mm de longueur. Graine 0,15–0,35 × 0,25–0,45 mm.
+in Engler & Prantl, Nat. Pflanzenfam. 4(2) : 74 (1895). Canscora tetragona Schinz, Vierteljahrschr. Naturf. Ges. Zürich 36 : 338 (1891). Herb 15–60 cm tall; stem yellow to cream, with wings up to 2 mm wide. Lower leaves with blade broadly elliptic-ovate to elliptic-obovate, 5–15 × 3–10 mm, with obtuse base and apiculate apex, upper leaves with squamiform, triangular blade, 2–5 × 1–2.5 mm, with acuminate apex. Inflorescences 20- to 40-flowered, contracted, 10–20 mm in diameter; peduncle 20–70 mm. Flower: pedicel 0–3 mm; calyx 5–7 mm long, with tube 2–4 mm long, lobes triangular to ovate, 2–3 mm long, with acuminate apex; corolla 6–9 mm long, white to yellow, with tube 2.5–3 mm long, lobes obovate to elliptic, 2.5–5.8 mm long; fertile stamen with filament 1–2 mm, anther 0.8–0.9 mm long, sterile ones with filament 0.3–0.4 mm, anther 0.8–1 mm long; ovary oblongoid to oblongoid-obovoid; style 1–2.7 mm. Fruit 3–3.5 mm long. Seed 0.15–0.35 × 0.25–0.45 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo, République centrafricaine, République démocratique du Congo, Burundi, Tanzanie, Angola, Zambie, Malawi et Mozambique ; au Gabon, uniquement dans le Haut-Ogooué
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Burundi, Tanzania, Angola, Zambia, Malawi and Mozambique; in Gabon, only in Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais herbeux, savane arbustive sur sable ; au Gabon à ± 450 m d’altitude, ailleurs à 400– 1900 m. B : Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Taylor (1963), Vande weghe i B liographie et al. (2016)
+herbaceous marshes, shrubby savanna on sand; in Gabon at ± 450 m altitude, elsewhere at 400–1900 m. B: Boutique (1972), Paiva & Nogueira (1990), Sileshi (2002), Taylor (1963), Vande weghe i Bibliography et al. (2016)
 
 ## Notes
 

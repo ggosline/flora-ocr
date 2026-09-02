@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Twining lianule with young internodes hirsute then glabrescent. Stipules ovate glabrous above, 3-7 mm wide, reflexed. Petiole pubescent 4-13 mm. Lamina pubescent on both surfaces, brown when dry, 4-13 × 1.8-4.5 cm; base acute to rounded; apex lanceolate. 10-15 pairs of secondary veins strongly pubescent beneath.
 
-Lianule volubile à jeunes entrenœuds hirsutes puis glabrescents. Stipules ovées glabres dessus, larges de 3-7 mm, rabattues. Pétiole pubescent de 4-13 mm. Limbe pubescent sur les deux faces, brun à sec, de 4-13 × 1,8-4,5 cm; base aiguë à arrondie; sommet lancéolé. 10-15 paires de nervures secondaires fortement pubescentes dessous.
+Inflorescences contracted pubescent rather few-flowered. Corolla with arched tube, white with the base ± rosy, pubescent 15-17 mm long. Calyx with ciliate lobes 4-8 × 1 mm. Anthers white 2.8 mm long.
 
-Inflorescences contractées pubescentes plutôt pauciflores. Corolle à tube arqué, blanche avec la base ± rosée, pubescente longue de 15-17 mm. Calice à lobes ciliés de 4-8 × 1 mm. Anthères blanches longues de 2,8 mm.
-
-Fruit blanc de 10-12 mm de diam., pubescent, à suc rouge vineux.
+Fruit white 10-12 mm diam., pubescent, with wine-red sap.
 
 ## Type
 
@@ -31,9 +29,7 @@ Nannan 93 (BR!), Congo ex-belge; autre spécimen de référence, Robyns 413, Con
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante ripicole fleurissant au dessus de l'eau.
+Riparian plant flowering above water.
 
 ## Specimens examined
 

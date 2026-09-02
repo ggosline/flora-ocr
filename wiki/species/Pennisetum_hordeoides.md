@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb exceeding 1 m in height, branched, with numerous floriferous branches. Pubescence of leaves often with tuberculate hairs at the base; blades reaching about thirty centimeters in length and about fifteen millimeters in width.
 
-Herbe dépassant 1 m de haut, ramifiée, à nombreuses branches florifères. Pubescence des feuilles souvent à poils tuberculés à la base; limbes atteignant une trentaine de centimètres de long et une quinzaine de millimètres de large.
+Inflorescence 3 to 15 cm long; involucres sessile, formed of 6 to 10 scabrous setae, of the same length as the spikelet or somewhat longer, except for one which is distinctly longer. Spikelets solitary, very similar to those of the preceding species.
 
-Inflorescence de 3 à 15 cm de long; involucres sessiles, formés de 6 à 10 soies scabres, de même longueur que l'épillet ou un peu plus longues, à part une qui l'est nettement plus. Épillets solitaires, très semblables à ceux de l'espèce précédente.
+Species recorded in West Africa, north and south of the Equator, and also known in India.
 
-Espèce signalée en Afrique occidentale, au nord et au sud de l'Équateur, et connue également aux Indes.
-
-Écologie et utilisations possibles semblables à celles de l'espèce précédente, mais beaucoup moins répandue que celle-ci.
+Ecology and possible uses similar to those of the preceding species, but much less widespread than the latter.
 
 ## Vernacular names
 

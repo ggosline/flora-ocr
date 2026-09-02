@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 S. lebrunii Wilczek affinis, sed ramulis valde echinulo-papillosis haud subalatis sed teretibus. Foliorum lamina basi rotundata vel cordata, breviter acuminata, denticulata, paulum discolor. Flos pedunculo echino-papilloso, disco laterali cum androgynophoro brevi, 1.2 mm in diam. Fructus 2 cm globosus, ruber, seminibus 2. Liana gabonensis.
 
 ## Type
@@ -26,15 +24,13 @@ Annette Hladik 1958, Gabon, (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+High liane lacking rubber. Internodes with obtuse, brownish ridges, microechinulate and very scabrous. Leaves opposite or somewhat subopposite. Petiole 1–3 mm, microechinulate, with wavy crisp-edged canal margins. Blade 4–9 × 2–4.5 cm, discolorous, rounded at base or more or less cordate, with brief acumen of 2–7 mm, with finely dentate margin. Secondary veins 6–10 pairs.
 
-Liane élevée dépourvue de caoutchouc. Entre-nœuds à arêtes émoussées, brunâtres, microéchinulés et très scabres. Feuilles opposées ou un peu subopposées. Pétiole de 1-3 mm, microéchinulé, à bords du canal ondulés crispés. Limbe de 4-9 × 2-4,5 cm, discolore, à base arrondie ou plus ou moins cordée, à acumen bref de 2-7 mm, à marge fine-ment dentée. Nervures secondaires 6-10 paires.
+Axillary fascicles 1–4-flowered on a peduncle or small common axis of 0.5–3 mm. Pedicel pustulous, 3.5 mm. Bud ovate-oblong, $2.6 \times 1.5$ mm. Flower yellow, 4–5 mm in diameter. Sepals 5, briefly semi-orbicular, somewhat dentate. Petals 5, $2–2.5 \times 1.2–1.3$ mm, oblong, subcharnose. Disk 1.2 mm in diameter, subglobose if one counts below the androecium the small elevation with the value of an androphore which brings the thickness to 0.6 mm. Stamens 2, scarcely 1 mm, with anther 0.7 mm wide in very open chevron. Style rostrate. Two locules situated above the upper level of the disk, each with 2 superposed ovules.
 
-Fascicules axillaires 1-4-flores sur un pédoncule ou petit axe commun de 0,5-3 mm. Pédicelle pustuleux de 3,5 mm. Bouton ové-oblong de  $ 2,6 \times 1,5 $ mm. Fleur jaune de 4-5 mm de diamètre. Sépales 5 brièvement semi-orbiculaires un peu dentés. Pétales 5 de  $ 2-2,5 \times 1,2-1,3 $ mm, oblongs, subcharnus. Disque de 1,2 mm de diamètre, subglobuleux si l'on compte sous l'androcée le petit rehaussement à valeur d'androphore qui porte l'épaisseur à 0,6 mm. Étamines 2 d'à peine 1 mm, à anthère de 0,7 mm de largeur en chevron très ouvert. Style rostré. 2 loges situées au-dessus du niveau supérieur du disque, chacune à 2 ovules superposés.
+Red globose fruit 2 cm in diameter, observed with 2 seeds; fruit wall thin, approximately 0.5 mm when dry. – Pl. 37, fig. 1–12, p. 135.
 
-Fruit rouge globuleux de 2 cm de diamètre, observé à 2 graines ; paroi du fruit mince, environ 0,5 mm à sec. – Pl. 37, fig. 1-12, p. 135.
-
-Liane de forêt broussailleuse dense partiellement inondable, observée dans un Ficus ; îlot du moyen Ivindo.
+Liane of dense scrub forest partially inundable, observed in a Ficus; islet of the middle Ivindo.
 
 ## Specimens examined
 

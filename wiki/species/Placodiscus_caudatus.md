@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 812 (1932).
 
-Arbuste de 1 m portant des épis sessiles sur le tronc (KLAINE). Folioles de 12-15 × 7-8 cm, souvent alternes; pétiolues de 5-8 mm; limbe en coin à la base, angle de 60°; extrémité arrondie avec acumen de 1 cm; dessus lisse, dessous réticulé en relief. Épis simples de cymules sessiles, serrées (5 par cm) sur toute la longueur. PL. 30, 5-8', p. 129.
+Shrub of 1 m bearing sessile spikes on the trunk (KLAINE). Leaflets of 12–15 × 7–8 cm, often alternate; petiolules of 5–8 mm; blade cuneate at the base, angle of 60°; apex rounded with acumen of 1 cm; upper surface smooth, lower surface reticulate in relief. Simple spikes of sessile cymules, crowded (5 per cm) along the entire length. PL. 30, 5–8', p. 129.
 
 ## Type
 
@@ -28,9 +26,7 @@ Klaine 391, Mt Bouet, Gabon (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce découverte au Gabon puis reconnue en République Centrafricaine.
+Species discovered in Gabon and subsequently recognized in the Central African Republic.
 
 ## Specimens examined
 
@@ -40,11 +36,9 @@ Klaine 391, Mont Bouet (fl., janv.); 401, environs de Libreville (arbuste de 1 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+P. pynaertii De Wild. (Bull. Jard. Bot. État Bruxelles 4 : 371, 1914) and P. riparius Keay (l.c. 26 : 194, 1956) appear to differ little from P. caudatus, according to the diagnoses, except in a few characters summarized below
 
-Les P. pynaertii De Wild. (Bull. Jard. Bot. État Bruxelles 4 : 371, 1914) et P. riparius Keay (l.c. 26 : 194, 1956) semblent peu différer de P. caudatus, d'après les diagnoses, si ce n'est par quelques caractères résumés ci-dessous
-
-<table><tr><td></td><td>P. caudatus</td><td>P. pynaertii</td><td>P. riparius</td></tr><tr><td>hauteur</td><td>1 m</td><td>6-10 m</td><td>10-20 m</td></tr><tr><td>feuilles</td><td>3-4-juguées</td><td>3-4-juguées</td><td>2-3-juguées</td></tr><tr><td>limbe, dessous</td><td>brun brillant</td><td>olivâtre</td><td>brunâtre mat</td></tr><tr><td>grappes</td><td>7-14 cm</td><td>20 cm</td><td>3-13 cm</td></tr><tr><td>cymules</td><td>2-flores</td><td></td><td>1-3-flores</td></tr><tr><td>station</td><td>montueuse</td><td>rives du Congo</td><td>rives des fleuves</td></tr><tr><td>Type</td><td>Klaine 391</td><td>Pynaert 748</td><td>Deighton 5594</td></tr><tr><td>localité</td><td>Libreville, Gabon</td><td>Centre cuvette congolaise</td><td>Djala, Sierra Leone</td></tr></table>
+<table><tr><td></td><td>P. caudatus</td><td>P. pynaertii</td><td>P. riparius</td></tr><tr><td>height</td><td>1 m</td><td>6–10 m</td><td>10–20 m</td></tr><tr><td>leaves</td><td>3–4-jugate</td><td>3–4-jugate</td><td>2–3-jugate</td></tr><tr><td>blade, lower surface</td><td>glossy brown</td><td>olivaceous</td><td>brownish dull</td></tr><tr><td>racemes</td><td>7–14 cm</td><td>20 cm</td><td>3–13 cm</td></tr><tr><td>cymules</td><td>2-flowered</td><td></td><td>1–3-flowered</td></tr><tr><td>station</td><td>montane</td><td>banks of the Congo</td><td>banks of rivers</td></tr><tr><td>Type</td><td>Klaine 391</td><td>Pynaert 748</td><td>Deighton 5594</td></tr><tr><td>locality</td><td>Libreville, Gabon</td><td>Central Congo basin</td><td>Djala, Sierra Leone</td></tr></table>
 
 ## Figures
 

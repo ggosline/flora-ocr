@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Bull. IFAN, sér. A, 21, (3): tab. 86 (1959); Pollen & Spores 2 (1): 12 (1960); Mém. IFAN 64: 203 (1962); R. WILCZEK. FCB 9: 195 (1960); N. ROBSON. FZ: 402 (1966).
 
 - S. floribunda TUL., Ann. Sc. Nat., sér. 4, 8: 97 (1857), non WIGHT (1840).
@@ -29,21 +27,21 @@ Bull. IFAN, sér. A, 21, (3): tab. 86 (1959); Pollen & Spores 2 (1): 12 (1960); 
 
 – S. semlikiensis DE WILD. var. subcordatifolia DE WILD., l.c. (1923). TYPE : Bequaert 875, Zaire (BR !).
 
-1. Limbe foliaire long de 2-4(6) cm et large de 1,2-2,6(3) cm, le plus souvent bien denté ; pétiole de 2-4(6) mm ; fleurs à 3 étamines et 3 loges d'ovaire ; sépales ± obtus ..... 40a. var. elegans.
+1. Leaf blade 2-4(6) cm long and 1.2-2.6(3) cm wide, most often distinctly toothed; petiole 2-4(6) mm; flowers with 3 stamens and 3 ovary locules; sepals ± obtuse ..... 40a. var. elegans.
 
-1'. Limbe foliaire long de 6-10 cm et large de 2-4,5 cm, denté ou entier ; pétiole de 4-7 mm ; fleurs à 3-4 étamines et 3-4 loges d'ovaire ; sépales deltoïdes aigus 40b. var. inurbana.
+1'. Leaf blade 6-10 cm long and 2-4.5 cm wide, toothed or entire; petiole 4-7 mm; flowers with 3-4 stamens and 3-4 ovary locules; sepals deltoid acute 40b. var. inurbana.
 
 40a. var. elegans
 
-Liane de 8 à 30 m ou plus de hauteur, plutôt grêle (5-6 cm), parfois buissonnante, glabre et contenant du caoutchouc. Vieille tige cylindrique grisâtre ou brunâtre avec une mince couche orangée. Coupe du bois
+Climber 8 to 30 m or more in height, rather slender (5-6 cm), sometimes shrubby, glabrous and containing rubber. Old stem cylindrical greyish or brownish with a thin orangish layer. Wood section
 
-PL. 43. - Salacia pynaertii De Wild.: 1, jeune bouton; 2, fleur, diam. 3 mm; 3, calice vu par dessous; 4, pétale long de 1,5 mm; 5, 7, disque, diam. 1,3 mm; 8, 10, étamines; 12, fruits, diam. 16 mm (1, 4, 5, 10, Le Testu 8227; 2, 3, 7, 8, Le Testu 2078; 12, De Wilde W.c.s. 2395). - S. elegans var. inurbana Hallé: 6, disque; 9, anthère; 11, lobes stigmatiques (Klaine 252). - S. elegans Welw. ex Oliv.: 13, bouton; 14, fleur, diam. 3,6 mm; 15-17, sépales; 18-20, pétales longs de 1,8 mm; 21-22, disque, diam. 1,2 mm; 23, 24, anthères; 25, coupe transversale des lobes stigmatiques; 26, 27, loges pauci-ovulees; 28, jeune fruit; 29, fruits, diam. 8 mm (13-15, 17, 18, 25, 27, Le Testu 1238; 16, 21, Le Testu 8102; 19, 22, 24, 26, Hallé N. & Cours 6000; 20, 23, Welwitsch 1342, Angola; 28, Hallé N. & Le Thomas 6; 29, De Wilde W.c.s. 1667).
+PL. 43. - Salacia pynaertii De Wild.: 1, young bud; 2, flower, diam. 3 mm; 3, calyx viewed from below; 4, petal 1.5 mm long; 5, 7, disc, diam. 1.3 mm; 8, 10, stamens; 12, fruits, diam. 16 mm (1, 4, 5, 10, Le Testu 8227; 2, 3, 7, 8, Le Testu 2078; 12, De Wilde W.c.s. 2395). - S. elegans var. inurbana Hallé: 6, disc; 9, anther; 11, stigmatic lobes (Klaine 252). - S. elegans Welw. ex Oliv.: 13, bud; 14, flower, diam. 3.6 mm; 15-17, sepals; 18-20, petals 1.8 mm long; 21-22, disc, diam. 1.2 mm; 23, 24, anthers; 25, transverse section of stigmatic lobes; 26, 27, pauci-ovulate locules; 28, young fruit; 29, fruits, diam. 8 mm (13-15, 17, 18, 25, 27, Le Testu 1238; 16, 21, Le Testu 8102; 19, 22, 24, 26, Hallé N. & Cours 6000; 20, 23, Welwitsch 1342, Angola; 28, Hallé N. & Le Thomas 6; 29, De Wilde W.c.s. 1667).
 
-(pour un diamètre de 25 mm) montrant de fine stries parenchymateuses, concentriques et festonnées ± régulièrement, espacées de 2-5 mm. Rameaux orthotropes à 5 arêtes ; les latéraux à 4 fines arêtes ± nettes. Feuilles opposées ou un peu subopposées. Pétiole de 2-4(6) mm à canal étroit aux marges fines parfois un peu ondulées. Limbe souvent petit, elliptique ou oblong, subaigu à aigu à la base, nettement acuminé et nettement denté, plus rarement entier, de 2,5-6,5(8) × 1,2-2,6(3) cm ; limbe olivacé ou brun discolore à sec. Nervure médiane saillante dessus. Nervures secondaires 8-13 paires courtes, peu ascendantes.
+(for a diameter of 25 mm) showing fine parenchymatous striations, concentric and scalloped ± regularly, spaced 2-5 mm apart. Orthotropous branchlets with 5 ridges; the lateral ones with 4 fine ± distinct ridges. Leaves opposite or somewhat subopposite. Petiole 2-4(6) mm with narrow canal with fine margins sometimes slightly undulate. Blade often small, elliptic or oblong, subacute to acute at the base, distinctly acuminate and distinctly toothed, more rarely entire, 2.5-6.5(8) × 1.2-2.6(3) cm; blade olivaceous or brown discolorous when dry. Midvein prominent above. Secondary veins 8-13 pairs, short, slightly ascending.
 
-Petites inflorescences axillaires pluriflores à petit pédoncule maigre, long de 1,5-4 mm, portant de très courtes divisions en petits glomérules ou fascicules bractéolés. Pédicelle grêle de 2-6 mm. Bouton ové ou obové de 1,8 mm, à pétales ne se coiffant pas les uns les autres au sommet. Fleur épanouie jaune de 3-4,5 mm de diamètre. Sépales 5 inégaux, ovés, obtus ou un peu denticulés. Pétales 5 imbriqués à la base, d'environ 1,8 × 1 mm, en cuiller, subétalés ou réfléchis. Disque en bourrelet bas creusé de 6 fossettes d'où l'aspect d'un petit anneau irrégulier. Étamines 3 insérées dans un petit sillon périgyne, à filet étroitement rubané, long d'environ 0,6-1,2 mm ; 3 anthères de 0,5 mm, parfois un peu adhérentes entre elles latéralement, à sommet du connectif un peu saillant au fond de l'échancrure apicale. Pistil à 3 sillons longitudinalaux ; ovaire petit, un peu enfoncé, à 2 ovules un peu superposés par loge ; 3 petits lobes stigmatiques aigus dressés, alternistémones.
+Small axillary multiflorous inflorescences with small slender peduncle, 1.5-4 mm long, bearing very short divisions in small bracteolate glomérules or fascicles. Pedicel slender 2-6 mm. Bud ovoid or obovoid 1.8 mm, with petals not overlapping one another at the apex. Expanded flower yellow 3-4.5 mm in diameter. Sepals 5 unequal, ovate, obtuse or somewhat denticulate. Petals 5 imbricate at the base, approximately 1.8 × 1 mm, spoon-shaped, subpatent or reflexed. Disc a low rim creased with 6 foveolae giving the appearance of a small irregular ring. Stamens 3 inserted in a small perigynous furrow, with filament narrowly ribbon-like, approximately 0.6-1.2 mm long; 3 anthers 0.5 mm, sometimes slightly adherent to each other laterally, with apex of the connective somewhat prominent in the apical notch. Pistil with 3 longitudinal furrows; ovary small, slightly sunken, with 2 somewhat superposed ovules per locule; 3 small acute stigmatic lobes erect, alternisepalous.
 
-Fruit souvent par groupes, petits, globuleux, de 1-1,5(-2) cm de diamètre, orangé à rouge à maturité, presque lisse ou un peu bosselé, à 1-2 graines. Style se dissociant ± en 3 petites cornes au début du développement. - Pl. 43, fig. 13-29, p. 151.
+Fruit often in groups, small, globose, 1-1.5(-2) cm in diameter, orange to red at maturity, almost smooth or somewhat bumpy, with 1-2 seeds. Style dissociating ± into 3 small horns at the beginning of development. - Pl. 43, fig. 13-29, p. 151.
 
 ## Type
 
@@ -53,19 +51,17 @@ Klaine 1036, Gabon, fleurs blanches (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Sierra Leone, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Central African Republic, Zaire, Congo, Angola, Uganda, Kenya, Tanzania, Zanzibar, Mozambique, Malawi, Zambia, Comoro Islands.
 
-Guinée, Sierra Leone, Côte-d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Centrafrique, Zaïre, Congo, Angola, Ouganda, Kenya, Tanzanie, Zanzibar, Mozambique, Malawi, Zambie, îles Comores.
+Isolated rocks, wooded rocky ridges, forest regrowth.
 
-Rochers isolés, crêtes rocheuses boisées, recrus forestiers.
+Hallé N. 2801, Bélinga, the Belvedere, 1000 m, 26.10.1964 (fl.).
 
-Hallé N. 2801, Bélinga, le Belvédère, 1000 m, 26.10.1964 (fl.).
-
-Hallé N. & Cours 6000, E Moumba, 750-800 m, 18.5.1963 (fl.), forme à pétales réfléchis.
+Hallé N. & Cours 6000, E Moumba, 750-800 m, 18.5.1963 (fl.), form with reflexed petals.
 
 Hallé N. & Le Thomas 6, Bélinga, 1000 m, 8.7.1966 (j.fr.); 72, ibid., 950 m, 1966 (j. infl.), relevé 3.
 
-Le Testu 1238, Tchibanga, savane Nyanga, 17.11.1907 (fl.); 1832, ibid., 5.11.1914 (fl.); 7320, Lastoursville, 11.5.1929 (fl.); 8102, Lebamba, 26.5.1930 (fl.), forme à limbes allongés.
+Le Testu 1238, Tchibanga, Nyanga savanna, 17.11.1907 (fl.); 1832, ibid., 5.11.1914 (fl.); 7320, Lastoursville, 11.5.1929 (fl.); 8102, Lebamba, 26.5.1930 (fl.), form with elongate blades.
 
 ## Specimens examined
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(“patens”). — MILDBRAED, Zw. Deutsch. Zentr.-Afr. Exp. 1910-1911 2 : 13 (1922). — SLEUMER, Pflanzenfam. ed. 2, 16b : 40 (1935). — J. LOUIS & J. LÉONARD, Fl. Congo b. et R.U. 1 : 284, tab. 29 (1948). — R. pallens PIERRE var. angustifolia DE WILD., l. c. : 61; P. Bequaert. 5 : 474 (1932).
+("patens"). — MILDBRAED, Zw. Deutsch. Zentr.-Afr. Exp. 1910-1911 2 : 13 (1922). — SLEUMER, Pflanzenfam. ed. 2, 16b : 40 (1935). — J. LOUIS & J. LÉONARD, Fl. Congo b. et R.U. 1 : 284, tab. 29 (1948). — R. pallens PIERRE var. angustifolia DE WILD., l. c. : 61; P. Bequaert. 5 : 474 (1932).
 
 — Th. & H. Durand, l. c.
 
-Arbuste haut de 3,5 m. Jeunes rameaux pubérulents jaunes. Pétiole long de 2-6 mm, pubérulent jaune. Limbe glabre sur les deux faces (jeunes feuilles pubérulentes dessous), jaune verdâtre foncé dessus, jaune verdâtre dessous, elliptique, 4-22 × 2-7 cm; base arrondie ou atténuée, sommet acuminé obtus. Nervure médiane concave dessus, saillante, courtement pubescente ou glabre dessous. Nervure secondaires 4-7 paires, ascendantes, peu arquées, s'anastomosant à 2 mm du bord du limbe. Nervilles en réseau lâche très peu visible à la face supérieure, très peu saillant à la face inférieure.
+Shrub 3.5 m tall. Young branchlets yellowish pubescent. Petiole 2–6 mm long, yellow pubescent. Blade glabrous on both surfaces (young leaves pubescent below), dark yellowish-green above, yellowish-green below, elliptic, 4–22 × 2–7 cm; base rounded or attenuate, apex acuminate obtuse. Midvein concave above, prominent and shortly pubescent or glabrous below. Secondary veins 4–7 pairs, ascending, slightly arched, anastomosing 2 mm from the blade margin. Veinlets in a loose reticulum very slightly visible on the upper surface, very slightly prominent on the lower surface.
 
-Inflorescences en grappes pluriflores axillaires solitaires ou fasciculées. Rachis claviforme allongé pubérulent long de 5-8 mm creusé d'alvéoles. Fleurs tétramères. Pédicelle pubérulent long de 2 mm. Bractée lancéolée pubescente. Réceptacle cupuliforme pubescent extérieurement à 4 dents calciformes. Pétales pubescents extérieurement, charnus, ovales triangulares. Étamines épipétales longues de 1 mm à filet subhorizontal arqué au sommet; anthères médifixes ellipsoïdes à fentes de déhiscence longitudinales. Disque formé de glandes charnues soudées alternipétales. Ovaire conique long de 1 mm, à loge uni-ovulée; style court et tronqué.
+Inflorescences in pluriflorous axillary racemes, solitary or fascicled. Rachis claviform, elongate, pubescent, 5–8 mm long, pitted with alveoles. Flowers tetramerous. Pedicel pubescent, 2 mm long. Bracteole lanceolate, pubescent. Receptacle cupuliform, pubescent outside, with 4 spurred teeth. Petals pubescent outside, fleshy, ovate-triangular. Stamens epipetalous, 1 mm long, filament subhorizontal, arched at the apex; anthers medifixed, ellipsoid, with longitudinal dehiscence slits. Disk formed of fleshy glands fused alternipetalous. Ovary conic, 1 mm long, with uniovulate locule; style short and truncate.
 
-Drupe ellipsoïde, faiblement apiculée au sommet, 1-2 × 1 cm. Endocarpe sillonné. Graines ellipsoïdes, 1,2 × 0,5 cm. PL. 39, 1-10, p. 177.
+Drupe ellipsoid, weakly apiculate at the apex, 1–2 × 1 cm. Endocarp furrowed. Seeds ellipsoid, 1.2 × 0.5 cm. PL. 39, 1–10, p. 177.
 
 ## Type
 
@@ -35,9 +33,7 @@ Klaine 2072, Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-R. pallens est un sciophyte du sous-bois forestier. Son aire s'étend du Cameroun au Kasaï.
+R. pallens is a sciophyte of the forest understory. Its range extends from Cameroon to Kasai.
 
 ## Specimens examined
 

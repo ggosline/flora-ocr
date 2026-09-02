@@ -21,7 +21,7 @@ Herb or suffrutex 1–2(–3) m tall, sometimes trailing; stems, petioles and ma
 
 ## Distribution
 
-Tropical Africa, from southern Nigeria to Angola and Tanzania; in Gabon, known from the Estuary, Ogooué-Maritime, Ogooué-Ivindo and Woleu-Ntem, fairly common, sometimes cultivated
+Tropical Africa, from southern Nigeria to Angola and Tanzania; in Gabon, known from the Estuaire, Ogooué-Maritime, Ogooué-Ivindo and Woleu-Ntem, fairly common, sometimes cultivated
 
 ## Ecology
 

@@ -21,7 +21,7 @@ Scabrous herb; stem 35–80 cm tall. Leaves opposite or alternate; blade 0.75–
 
 ## Distribution
 
-West and central Africa, Sudan, Burundi, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Angola and Madagascar; in Gabon, observed in the Estuary and Ogooué-Ivindo
+West and central Africa, Sudan, Burundi, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Angola and Madagascar; in Gabon, observed in the Estuaire and Ogooué-Ivindo
 
 ## Ecology
 

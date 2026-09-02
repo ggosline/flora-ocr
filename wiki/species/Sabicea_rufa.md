@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane reaching 1 m in height. Branchlet tips hirsute, tawny. Internodes rather slender, 2–11 cm, hirsute. Stipules ± orbicular, 4–8 mm, reflexed, glabrous above. Petiole 3–18 mm, hirsute. Leaf blade pubescent on both surfaces with in addition on the lower surface a woolly indumentum ± deciduous, visible at least when young. Leaf blade ± reddish-brown when dry, acute at both ends, 4–10 × 1.5–4 cm. 13–19 pairs of secondary veins pubescent (long tawny erect hairs).
 
-Lianule atteignant 1 m de hauteur. Extrémités velues fauves. Entrenceuds plutôt grèles de 2-11 cm, hirsutes. Stipules ± orbiculaires, de 4-8 mm, réfractées, glabres dessus. Pétiole de 3-18 mm, hirsute. Limbe pubescent sur les deux faces avec en plus à la face inférieure, un duvet laineux ± caduc, visible au moins dans le jeune âge. Limbe ± roux à sec, aigu aux deux extrémités, de 4-10 × 1,5-4 cm. 13-19 paires de nervures secondaires pubescentes (longs poils roux dressés).
+Inflorescences axillary clothed with tawny hairs, with slender peduncle 15–30 mm; 2 main bracts embracing, naviculate, ciliate, with free apices suberect and attenuate to a subacute point; 2 secondary bracts ± developed between the first. 3–6 small flowers sessile, inconspicuous. Calyx short, villous (erect hairs), lobes 1–1.5 mm. Corolla reaching 6(9) mm, pubescent in the upper half, lobes c. 1.5 mm. Ovary densely silky pubescent.
 
-Inflorescences axillaires vêtues de poils fauves, à pédoncule grêle de 15-30 mm; 2 bractées principales embrassantes naviculées ciliées, à sommets libres subérigés et atténués à pointe subaiguë; 2 bractées secondaires ± développées entre les premières. 3-6 petites fleurs sessiles peu apparentes. Calice court velu (poils érigés), à lobes de 1-1,5 mm. Corolle atteignant 6(9) mm, pubescente au-dessus de la moitié, à lobes d'env. 1,5 mm. Ovaire densément pubescent soyeux.
-
-Fruit globuleux verdâtre nacré ± violacé atteignant 8 mm de diam. Très nombreuses graines roux clair d'env. 0,5 mm.
+Fruit globose, greenish, pearly, ± violaceous, reaching 8 mm diam. Very numerous seeds light reddish-brown, c. 0.5 mm.
 
 ## Type
 

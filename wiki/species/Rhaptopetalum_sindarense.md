@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree reaching 15 m in height and 30-40 cm in diameter. Young twigs somewhat angular, at first papillose; terminal bud 6-10 mm long; petiole 3-5(-10) mm long, puberulent. Blade coriaceous, obovate, 6-11 × 14-24 cm, sometimes obovate-oblong, 7-12 × 18-40 cm; base rounded and often somewhat subcordate, sometimes cordate; apex obtuse ± with short triangular acumen; margin revolute; midvein papillose beneath; approximately 10-12 pairs of lateral veins, fairly open on the midvein, fairly straight and curved upward only near the margin; glandular punctations beneath the blade.
 
-Arbuste ou petit arbre atteignant 15 m de hauteur et 30-40 cm de diamètre. Jeunes rameaux un peu anguleux, d'abord papilleux; bourgeon terminal long de 6-10 mm; pétiole long de 3-5(-10) mm, pubérulent. Limbe coriace, obovale, 6-11 × 14-24 cm, parfois obovale-oblong, 7-12 × 18-40 cm; base arrondie et souvent un peu subcordée, parfois cordée; sommet obtus ± avec court acumen triangulaire; marge révolutée; nervure médiane papilleuse dessous; environ 10-12 paires de nervures latérales, assez ouvertes sur la nervure médiane, assez droites et courbées ascendantes seulement près de la marge; ponctuations glanduleuses sous le limbe.
+Racemes contracted into pseudo-fascicles of 5-30 flowers on denuded twigs reaching up to 1.5 cm in diameter; pedicel slender, 8-10 mm, puberulent. Calyx finely papillose, with cupule not very elevated (1 mm in height and 3 mm in diameter), with margin entire or rarely crenate then split radially, borne on a false pedicel 2 mm high above the articulation; corolla bud ellipsoid, 4-6 mm high, somewhat constricted at the base, rounded or obtuse at the apex; stamens 3-4 mm high; ovary conical, approximately 1 mm high, radially striate, with 3-4 biovulate locules; style 3-4 mm long.
 
-Racèmes contractés en pseudo-fascicules de 5-30 fleurs sur rameaux dénudés atteignant jusqu'à 1,5 cm de diamètre; pédicelle grêle, 8-10 mm, pubérulent. Calice finement papilleux, avec cupule peu élevée (1 mm de hauteur et 3 mm de diamètre), à marge entière ou rarement festonnée puis fendue radialement, portée sur un faux pédicelle haut de 2 mm au-dessus de l'articulation; bouton de la corolle ellipsoïde, haut de 4-6 mm, un peu constricté à la base, arrondi ou obtus au sommet; étamines hautes de 3-4 mm; ovaire conique, haut de 1 mm environ, strié radialement, à 3-4 loges biovulées ; style long de 3-4 mm.
-
-Capsule crustacée, subglobuleuse, 12-15 mm de diamètre, à péricarpe mince s'ouvrant par 3-4 valves et contenant 2 graines. — PL. 54, p. 185.
+Capsule crustaceous, subglobose, 12-15 mm in diameter, with thin pericarp opening by 3-4 valves and containing 2 seeds. — PL. 54, p. 185.
 
 ## Type
 
@@ -31,13 +29,11 @@ Le Testu 2294, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+According to collectors, the flowers may be yellow, white, or wine-red; as with many Scytopetalacea this anomaly is explained by the fact that the floral buds, at first nacre-white, become tinged with pink and then, at the moment of opening, the corolla becomes red and subsequently, cut into lobes curved downward, then surrounds a substantial mass of golden-yellow stamens.
 
-Suivant les collecteurs, les fleurs peuvent être jaunes, blanches ou rouge vineux; comme pour beaucoup de Scytopétalacées cette anomalie s'explique par le fait que les boutons floraux, d'abord blanc nacré, se teintent de rose puis, au moment de l'épanouissement, la corolle devient rouge et ensuite, découpée en lobes retournés vers le bas, entoure alors une masse importante d'étamines jaune d'or.
-
-Cette espèce, assez rare semble-t-il, n'a été récoltée à ce jour au Gabon que dans le bassin de la Ngounyé, mais aussi près de Libreville.
+This species, apparently quite rare, has been collected to date in Gabon only in the Ngounyé basin, but also near Libreville.
 
 ## Vernacular names
 

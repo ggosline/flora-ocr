@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree about 5 m tall, with leaves measuring 30 to 40 cm with 4 pairs of alternate sub-chartaceous leaflets, elliptic-lanceolate, base and apex angles approximately 45°, acumen 10–15 mm.
 
-Petit arbre d'environ 5 m, à feuilles mesurant de 30 à 40 cm à 4 paires de folioles alternes sub-chartacées, elliptiques lancéolées, angles de base et de sommet env. 45°, acumen 10-15 mm.
-
-Épi sessile portant des cymules à l'aisselle de bractées subulées de 1,5 mm; poils glanduleux sériés, 0,2-0,8 mm dépassant le tapis de poils simples (0,1-0,2 mm) qui revêt les axes, les bractées et les calices turbinés. PL. 32, 5-9, p. 135.
+Sessile spike bearing cymules in the axil of subulate bracts 1.5 mm; glandular hairs in series, 0.2–0.8 mm exceeding the carpet of simple hairs (0.1–0.2 mm) that covers the axes, bracts and turbinate calyces. PL. 32, 5–9, p. 135.
 
 ## Type
 
@@ -29,9 +27,7 @@ Mann 2239, Old Calabar, Nigeria (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Un échantillon, Mann s.n., de l'herbier du Museum de Paris, correspondant à la description de RADLKOFER, a servi à établir les figures de la planche 32. C'est une espèce peu connue, à rechercher au Cameroun.
+A specimen, Mann s.n., from the herbarium of the Museum of Paris, corresponding to the description of RADLKOFER, was used to establish the figures of plate 32. It is a little-known species, to be sought in Cameroon.
 
 ## Figures
 

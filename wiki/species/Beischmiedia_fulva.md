@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux.: 469 (1949).
 
-Arbre de 25 m dont le fût peut atteindre 18 m de long sur 30 cm de diamètre; rhytidome blanchâtre clair plus ou moins squameux, écorce de 1 cm d'épaisseur, brun-sépia. Rameaux jeunes fauves tomentelleux. Feuilles sub-coriaces à points translucides nombreux visibles à la loupe, discolores; face supérieure olivâtre, glabre; face inférieure présentant un tomentum fauve-
-
-rouillé formé de poils frisés se séparant en plaques. Fruit jeune ovale.
+Tree 25 m tall with a bole reaching 18 m long and 30 cm in diameter; rhytidome light whitish, more or less scaly, bark 1 cm thick, brown-sepia. Young branchlets fawn tomentellous. Leaves subcoriaceous with numerous translucent points visible under magnification, discolorous; upper surface olivaceous, glabrous; lower surface with a fawn-rust tomentum formed of curly hairs separating into flakes. Young fruit ovate.
 
 ## Type
 
@@ -30,9 +26,7 @@ Michelson 889 (BR) Congo ex-belge : rivière Belanzavi (alt. 660 m) forêt ombro
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'arbre étudié ici n'est connu que par un rameau avec feuilles, sans fleurs, récolté en 1920 : Sargos 135 (P) région du Kouilou (Todo) proche de la frontière sud du Gabon. Il est connu également du Cameroun.
+The tree studied here is known only from a branchlet with leaves, without flowers, collected in 1920: Sargos 135 (P) Kouilou region (Todo) near the southern border of Gabon. It is also known from Cameroon.
 
 ## Notes
 

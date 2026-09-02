@@ -21,7 +21,7 @@ Perennial herb, 0.5–2.5(–3) m tall; stem erect, robust, hard, brown, with in
 
 ## Distribution
 
-Cameroon, Gabon and Democratic Republic of the Congo; rare in Gabon, in the Estuary, Ngounié and Nyanga
+Cameroon, Gabon and Democratic Republic of the Congo; rare in Gabon, in the Estuaire, Ngounié and Nyanga
 
 ## Ecology
 

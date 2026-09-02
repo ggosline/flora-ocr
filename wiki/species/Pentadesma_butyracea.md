@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-P. ogoouensis Baudon, Ann. Mus. Colon. Marseille 37(1) : 38 (1929). Arbre jusqu’à 35 m de hauteur ; tronc jusqu’à 100( ‒ 150) cm de diamètre ; écorce fissurée longitudinalement à rugueuse ou écailleuse, brun foncé à l’extérieur, écorce interne rouge brun à brune ; rameaux grisâtres, plus ou moins ridés longitudinalement. Feuille : pétiole (0,5 ‒ )1 ‒ 2 cm ; limbe oblong à obovale ou oblancéolé, (6 ‒ )8 ‒ 25( ‒ 31) × (2 ‒ )3 ‒ 7( ‒ 9) cm, cunéé à atténué à la base, obtus à courtement acuminé au sommet , coriace, sans ponctuations glanduleuses noires dessous ; nervure principale proéminente dessous, nervures latérales nombreuses, indistinctes dessus, à 1( ‒ 2) canaux sécréteurs parallèles entre chaque paire . Inflorescence à 1 ‒ 7 fleurs. Fleur inclinée, cupuliforme ; pédicelle 1 ‒ 4 cm ; sépales inégaux , les externes ovales-oblongs, 2,5 ‒ 4,5 × 1,5 ‒ 2 cm, les internes oblongs, 5 ‒ 5,5 × 2,5 ‒ 3 cm ; pétales semblables aux sépales internes , blancs à blanc verdâtre ou blanc jaunâtre, carénés à l’intérieur ; phalanges staminales à filets de 3 ‒ 5 cm et soudés sur 3 ‒ 12 mm, anthères 7 ‒ 16 mm de longueur ; glandes discales pyramidales, 4 ‒ 5 × 3 × 2 mm ; ovaire 5-loculaire, en forme de bouteille, 1 ‒ 2 × 0,5 ‒ 1 cm, à 2 séries de 7 ‒ 14 ovules par loge ; style jusqu’à 2 cm, les lobes étalés et jusqu’à 5 mm de longueur. Fruit ovoïde à globuleux, 9 ‒ 17 × 6,5 ‒ 12,5 cm, pointu , lisse , brun à brun-pourpre. Graines 5 ‒ 15 par fruit, anguleuses, pyramidales , 3 ‒ 4 × 2,5 ‒ 3 cm, brun foncé.
+P. ogoouensis Baudon, Ann. Mus. Colon. Marseille 37(1) : 38 (1929). Tree up to 35 m tall; trunk up to 100(–150) cm in diameter; bark fissured longitudinally or rough to scaly, dark brown on the outside, inner bark red-brown to brown; branchlets grayish, more or less wrinkled longitudinally. Leaf: petiole (0.5–)1–2 cm; blade oblong to obovate or oblanceolate, (6–)8–25(–31) × (2–)3–7(–9) cm, cuneate to attenuate at the base, obtuse to shortly acuminate at the apex, coriaceous, without black glandular punctations beneath; main vein prominent beneath, lateral veins numerous, indistinct above, with 1(–2) secretory canals parallel between each pair. Inflorescence with 1–7 flowers. Flower inclined, cupuliform; pedicel 1–4 cm; sepals unequal, the outer ones ovate-oblong, 2.5–4.5 × 1.5–2 cm, the inner ones oblong, 5–5.5 × 2.5–3 cm; petals similar to inner sepals, white to whitish-green or yellowish-white, carinate inside; staminodial phalanges with filaments of 3–5 cm and fused for 3–12 mm, anthers 7–16 mm long; disc glands pyramidal, 4–5 × 3 × 2 mm; ovary 5-locular, bottle-shaped, 1–2 × 0.5–1 cm, with 2 series of 7–14 ovules per locule; style up to 2 cm, the lobes spreading and up to 5 mm long. Fruit ovoid to globose, 9–17 × 6.5–12.5 cm, pointed, smooth, brown to brownish-purple. Seeds 5–15 per fruit, angular, pyramidal, 3–4 × 2.5–3 cm, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue du Mali et la Guinée jusqu’à l’extrême ouest de la République Démocratique du Congo ; introduite ailleurs ; au Gabon répandue, mais dispersée dans presque tout le pays
+widely distributed from Mali and Guinea to the far west of the Democratic Republic of the Congo; introduced elsewhere; in Gabon widespread, but scattered throughout most of the country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, sur terrain humide ou marécageux, principalement sur les berges des fleuves et sols profonds ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 1400 m
+primary forest, on humid or swampy terrain, mainly on riverbanks and deep soils; in Gabon, up to 500 m altitude, elsewhere up to 1400 m
 
 ## Vernacular names
 
@@ -39,13 +33,11 @@ arbre à beurre, arbre à suif, arbre à chandelle, lami (fr.) ; butter tree, ka
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A vegetable fat named "kanya butter" or "vegetable tallow" is extracted from the seeds. It serves as a cooking fat and has been marketed as margarine. It is also a basic product suited to topical medicines. Its application relieves chest pains, cough in children, strains and abscesses. It is a cosmetic for hair and skin. The sweet pulp of ripe fruits
 
-Une matière grasse végétale nommée “beurre de kanya” ou “suif végétal” est extraite des graines. Elle sert de graisse de cuisson, et a été commercialisé comme margarine. C’est également un produit de base adapté aux médicaments topiques. Son application soulage les douleurs à la poitrine, la toux chez les enfants, les élongations et les abcès. C’est un cosmétique pour les cheveux et la peau. La pulpe sucrée des fruits mûrs
+Fruit (× ½). – 4. Seedling (× ½). (1: Voorhoeve 470; 2: Voorhoeve 432; 3: Voorhoeve s.n. (fr. coll. WAG); 4: Voorhoeve 1206). Drawing by L. van der Riet, Nationaal Herbarium Nederland (©).
 
-Fruit (× ½). – 4. Plantule (× ½). (1 : Voorhoeve 470 ; 2 : Voorhoeve 432 ; 3 : Voorhoeve s.n. (fr. coll. WAG) ; 4 : Voorhoeve 1206 ). Dessin par L. van der Riet, Nationaal Herbarium Nederland (©).
-
-est comestible. Le bois sert de bois d’œuvre polyvalent et il est d’une bonne qualité. Les racines servent de brosse à dents. L’écorce macérée sert en lotions traitant des maladies parasitaires de la peau et, bouillie, comme antidiarrhétique. B : Bamps (1970a, 1971), Pellegrin (1959), Sinsin & Avocèvou (2007), Meer i B liographie (1965).
+is edible. The wood serves as a multipurpose timber and is of good quality. The roots serve as a toothbrush. The macerated bark is used in lotions treating parasitic skin diseases and, boiled, as an antidiarrheal. B: Bamps (1970a, 1971), Pellegrin (1959), Sinsin & Avocèvou (2007), Bibliography (1965).
 
 ## Notes
 

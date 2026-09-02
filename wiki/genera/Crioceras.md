@@ -39,7 +39,7 @@ Criocerasdipladeniiflorus (Stapf) K.Schum. Plate 27; Figure 4(D-F) in Engler & P
 
 Shrub or small tree measuring up to 8 m in height, branches glabrous. Leaf glabrous, sessile or with petiole reaching 3 mm, limb narrowly obovate to elliptic, 2–5 times as long as wide, 4–11 × 2–7 cm, cordate or subcordate at the base, acuminate to apiculate at the apex; secondary nerves 6 to 12 pairs, incurved, tertiary venation reticulate. Inflorescence bracts 1 to 3, 4–11 × 2–7 cm, base rounded, covering the pedicel and the base of the flower, apex acuminate. Flower fragrant, pendulous; pedicel of 1–2 cm, covered with bractioles 5 mm, sepals of calyx globose, 8–9 × 6–7 mm, acuminate, glabrous; corolla 9.5–19 cm long, white, glabrous on the outside, with a pilose band 2 cm high below the insertion of the stamens, tube 8–13.5 cm long, basal part narrowly cylindrical, 2–3 mm wide, abruptly enlarged to 8–10 mm at the insertion of the stamens, lobes stellate-elliptic, 2–3 times as long as wide, 4–6 cm long, rounded; stamens with anther 1–1.5 mm long, pistil glabrous with ovary abruptly retracted in the style; style slender. Fruit nearly transversely ellipsoidal, 40–50 × 20–25 × 15–25 mm, with narrow ridge(s) along the entire length, apiculate with a recurved acumen. Seed 7–11 mm long.
 
-Distribution: Gabon, Republic of the Congo, and Angola. Cabinda in Gabon. Estuary, Middle Ogooué.
+Distribution: Gabon, Republic of the Congo, and Angola. Cabinda in Gabon. Estuary, Moyen-Ogooué.
 
 ## Species in region
 

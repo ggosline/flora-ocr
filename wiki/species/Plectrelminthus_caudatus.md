@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys caudata (Lindl.) Rchb. f., Walp. Ann. Bot. Syst. 6: 907 (1885).
 
 – Leptocentrum caudatum (Lindl.) Schltr., Die Orchideen : 600 (1914).
 
-Tige 5-15 cm. Feuilles < 35 x 1,5-3,5 cm, rubanées, inégalement bilobées. Inflorescence lâche, < 80 cm, 4-10-flore. Fleurs, éperon verdâtre, labelle blanc. Sépale dorsal oblong-lancéolé, acuminé. Pétales obiquement linéaires-lancéolés. Sépales latéraux oblongs-lancéolés, caudés, soudés ensemble à la base au-dessus de la base de l'éperon. Labelle 50 x 15-20 mm, le tiers basal étant linéaire, canaliculé avec 2 petites ailes charnues, involutées vers le milieu ; limbe largement obové à presque transversalement elliptique, marges entières ou finement denticulées et ondulées, puis brusquement rétréci en une longue queue filiforme. Éperon 15-25 mm. – Pl. 207, p. 439.
+Stem 5–15 cm. Leaves < 35 × 1.5–3.5 cm, ribbon-like, unequally bilobed. Inflorescence lax, < 80 cm, 4–10-flowered. Flowers, spur greenish, lip white. Dorsal sepal oblong-lanceolate, acuminate. Petals obliquely linear-lanceolate. Lateral sepals oblong-lanceolate, caudate, fused together at the base above the base of the spur. Lip 50 × 15–20 mm, the basal third linear, channelled with 2 small fleshy wings, involute towards the middle; limb broadly obovate to almost transversely elliptic, margins entire or finely denticulate and undulate, then abruptly narrowed into a long filiform tail. Spur 15–25 mm. – Pl. 207, p. 439.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte on isolated tree, on trunk, in savanna and dense forest, observed on Uapaca heudelotii
 
-épiphyte sur arbre isolé, sur tronc, en savane et forêt dense, observé sur Uapaca heudelotii
-
-VARIABILITÉ : Deux variétés peuvent être distinguées dans cette espèce selon la forme du labelle. Une seule est présente au Gabon :
+VARIABILITY: Two varieties can be distinguished in this species according to the shape of the lip. Only one is present in Gabon:
 
 ## Figures
 

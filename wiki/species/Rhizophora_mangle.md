@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre de 2–3 m de hauteur, glabre. Stipules rapidement caduques, 3–5 cm de lon gueur, vertes . Feuille : pétiole 1,5–2,5 cm, robuste, souvent vert ; limbe elliptique à obovale, (6–)9–12,5 × (2–)3–5,5 cm, base cunéée, sommet subaigu à obtus, coriace, à marge entière ; nervure principale verte dessous, ± 10 paires de nervures secondaires. Inflorescence axillaire, en cymes bipares, 1–4-flores , non ramifiée ou 2 fois au maxi mum ; pédoncule 1,7–6(–10) cm. Fleur : pédicelle (5–)7–20(–25) mm ; bouton étroite ment ovoïde, sommet aigu et droit , 6–9 × 4–6 mm ; cupule bractéolaire mince, à deux lèvres ; calice à sépales soudés à la base, ovale-elliptiques, 6–9 × 2–4 mm, ligneux ; pétales linéaires, 6–7 × 1,5 mm, à de nombreux poils mous de 1,5 mm sur la marge interne ; étamines 8, subsessiles, anthères 5–6 mm de longueur, mucronées au sommet, loges polliniques nombreuses, ± isodiamétriques, 0,15–0,2 mm de diamètre ; disque 8-lobé ; ovaire invisible ; style conique à la base, stigmate bifide. Fruit indéhiscent, ± courbé, 1,5–2,5 × 1,2–1,5 cm, coriace ; cylindre cotylédonaire non ou peu émergeant du fruit ; hypocotyle jusqu’à 15 cm de longueur .
+Small tree 2–3 m tall, glabrous. Stipules rapidly caducous, 3–5 cm long, green. Leaf: petiole 1.5–2.5 cm, robust, often green; blade elliptic to obovate, (6–)9–12.5 × (2–)3–5.5 cm, base cuneate, apex subacute to obtuse, coriaceous, with entire margin; main vein green beneath, ± 10 pairs of secondary veins. Inflorescence axillary, in biparious cymes, 1–4-flowered, unbranched or 2 times at maximum; peduncle 1.7–6(–10) cm. Flower: pedicel (5–)7–20(–25) mm; bud narrowly ovoid, apex acute and straight, 6–9 × 4–6 mm; bracteolar cup thin, with two lips; calyx with sepals connate at base, ovate-elliptic, 6–9 × 2–4 mm, woody; petals linear, 6–7 × 1.5 mm, with numerous soft hairs 1.5 mm on the inner margin; stamens 8, subsessile, anthers 5–6 mm long, mucronate at apex, pollen sacs numerous, ± isodiametric, 0.15–0.2 mm in diameter; disk 8-lobed; ovary invisible; style conical at base, stigma bifid. Fruit indehiscent, ± curved, 1.5–2.5 × 1.2–1.5 cm, coriaceous; cotyledonary cylinder not or scarcely emergent from fruit; hypocotyl up to 15 cm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale, du Sénégal à l’Angola, et la côte Atlantique de l’Amé rique du Sud ; au Gabon, dans l’Estuaire, l’Ogooué-Maritime et la Nyanga
+West Africa, from Senegal to Angola, and the Atlantic coast of South America; in Gabon, in the Estuaire, Ogooué-Maritime and Nyanga.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mangroves, très tolérant au sel, au bord de la mer et au niveau de la mer. Fleurs et fruits germant pendant toute l’année. Usage : comme R. racemosa
+Mangroves, very salt-tolerant, at the seashore and at sea level. Flowers and fruits flowering throughout the year. Uses: as R. racemosa
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ palétuvier rouge (fr.) ; pareils à ceux de R. racemosa . b : Breteler (1969, 2
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-R. racemosa : a : Inflorescence (× ½), b. bouton floral (× 3). – 3. R. mangle : a. Inflorescence (× ½)., b. bouton floral (× 3). (1 : Breteler 5168 ; 2 : Breteler 5164 ; 3a : De Bruijn 1268 ; 3b : Breteler 5173 ). Dessin adapté, l’originale par L. van der Riet, Naturalis Biodiversity Center (©).
+R. racemosa: a: Inflorescence (× ½), b. floral bud (× 3). – 3. R. mangle: a. Inflorescence (× ½)., b. floral bud (× 3). (1: Breteler 5168; 2: Breteler 5164; 3a: De Bruijn 1268; 3b: Breteler 5173). Drawing adapted, original by L. van der Riet, Naturalis Biodiversity Center (©).
 
 ## Notes
 

@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Micranthus Poggei Lindau, Bot. Jahrb. 17 : 108 (1893), et in Engler-Prantl, Nat. Pflanzenfam. IV 3B : 298 (1897).
 
-Plante vivace, pubescente, assez robuste, atteignant 1 m de hauteur; tige anguleuse pubescente, ± glabrescente, à poils soyeux, en général dressés à angle droit. Pétioles de 2-4 cm de long. Limbe des feuilles ovale-acuminé, de 9-5 cm, à marges souvent un peu crénelées. 5-6 paires de nervures secondaires.
+Perennial plant, pubescent, fairly robust, reaching 1 m in height; stem angular pubescent, ± glabrescent, with silky hairs, generally erect at right angles. Petioles 2-4 cm long. Leaf lamina ovate-acuminate, 9-5 cm, with margins often slightly crenulate. 5-6 pairs of secondary veins.
 
-Inflorescences strobiliformes, très pubescentes, allongées, atteignant 7 cm de long, terminales et axillaires; bractées ± folia-
+Inflorescences strobiliiform, very pubescent, elongate, reaching 7 cm long, terminal and axillary; bracts ± foliaceous, oblique, ovate-lanceolate, 13-8 mm, sometimes much larger and resembling small leaves; bracteoles orbicular-triangular, frequently subcordate, acuminate, 9.5-10 mm. Calyx very irregular, with posterior segment ovate-lanceolate, 6 × 3 mm; anterior segments spathulate, ± obtuse at apex, 4 × 1 mm. Corolla approximately 8 mm long. Filaments of anthers, 0.75 and 1.25 mm long. Ovary glabrous except for a few small glandular hairs at the apex, 2.25 mm high. Style slender, pubescent, 3.5 mm long; stigma slightly bilobed, oblique.
 
-cées, obliques, ovales-lancéolées, de 13-8 mm, quelquefois beaucoup plus grandes et semblables à de petites feuilles; bractéoles orbiculaires-triangulaires, fréquemment subcordées, acuminées, de 9,5-10 mm. Calice très irrégulier, à segment postérieur ovale-lancéolé, de 6 × 3 mm; segments antérieurs spathulés, ± obtus au sommet, de 4 × 1 mm. Corolle longue de 8 mm environ. Filets des anthères, de 0,75 et 1,25 mm de long. Ovaire glabre sauf quelques petits poils glanduleux au sommet, haut de 2,25 mm. Style grêle, pubescent, de 3,5 mm de long; stigmate légèrement bilobé, oblique.
-
-Capsule longue de 6 mm environ. Graines orbiculaires, aplaties, de 1,5 mm de diamètre, couvertes de poils hygroscopiques.
+Capsule approximately 6 mm long. Seeds orbicular, flattened, 1.5 mm in diameter, covered with hygroscopic hairs.
 
 ## Type
 
@@ -39,9 +35,7 @@ Pogge 978, Nyangwe, rivière Lualaba, Congo-Léopol-dville (B, holotype détruit
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En dépit d’une révision du genre, la répartition de cette espèce n’est pas connue avec précision : Gabon, Centrafrique, Congo-Brazzaville, Congo-Léopolville, Cameroun (?), Afrique orientale.
+Despite a revision of the genus, the distribution of this species is not known with precision: Gabon, Central African Republic, Congo-Brazzaville, Congo-Léopoldville, Cameroon (?), East Africa.
 
 ## Specimens examined
 

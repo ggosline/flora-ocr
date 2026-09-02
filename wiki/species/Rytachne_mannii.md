@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb in dense tufts, approximately 50 cm tall. Stems slender, leaves with sheaths scarcely auricled and with filiform blade folded, half a millimetre wide.
 
-Herbe pérenne en touffes denses, d'environ 50 cm de haut. Tiges minces, feuilles à gaines à peine auriculées et à limbe filiforme replié, d'un demi millimètre de large.
+Racemes solitary, narrowly cylindrical, greenish. Articles swollen, concave on the inner face, rounded on the back, 3 mm long. Pedicels linear, flattened, of equal length. Spikelets sessile oblong-obtuse, 2.5 mm long. Lower glume coriaceous, with 7 nerves, more or less ornamented in its lower part and on the costae with small tubercles; upper glume awnless, with 3 nerves. Lower flower male, glumelles hyaline, with 2 nerves. Fertile lemma 1.5 mm long, hyaline, ciliate, with one nerve. Palea 0.5 mm long. Pedicelled spikelets suppressed or reduced to a small point at the tip of the pedicel.
 
-Racèmes solitaires, étroitement cylindriques, verdâtes. Articles renflés, concaves sur la face interne, arrondis sur le dos, de 3 mm de long. Pédicelles linéaires, aplatis, de même longueur. Épillets sessiles oblongs-obtus, de 2,5 mm de long. Glume inférieure coriace, à 7 nervures, plus ou moins ornée dans sa partie inférieure et sur les côtes de petits tubercules; glume supérieure mutique, à 3 nervures. Fleur inférieure mâle, glumelles hyalines, à 2 nervures. Lemma fertile 1,5 mm de long, hyaline, ciliée, à une nervure. Paléa 1/2 mm de long. Épillets pédicelles supprimés ou réduits à une petite pointe à l'extrémité du pédicelle.
-
-Espèce se rencontrant dans les même types de station que la précédente et signalée jusqu'ici uniquement dans la région de Brazzaville et au Gabon.
+Species found in the same types of habitat as the preceding one and recorded so far only in the Brazzaville region and in Gabon.
 
 ## Specimens examined
 

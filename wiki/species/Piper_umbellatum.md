@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbrisseau ou sous-arbrisseau , jusqu’à 4 m de hauteur ; rameaux glabres, souvent à racines adventives près des nœuds. Feuille : pétiole 6,5–30 cm ; limbe subcirculaire , 5–40 × 4,5–38 cm, à base arrondie à profondément cordée , à sommet courtement acuminé ou cuspidé, vert dessus et grisâtre dessous, avec 11 à 15 nervures palmées . Inflorescence en épis groupés par (2–)3 à 7, ± en ombelle ; pédoncule 3–10 mm ; rachis 1,5–6 cm ; bractées densément ciliées. Fleur bisexuée ; étamines 2 ; ovaire ovoïde ; stigmates 3, minuscules. Fruit pédicellé, trigone à obpyramidal, 0,5–0,8 × 0,4–0,6 mm, brunâtre.
+Shrub or subshrub, up to 4 m tall; branches glabrous, often with adventitious roots near the nodes. Leaf: petiole 6.5–30 cm; blade subcircular, 5–40 × 4.5–38 cm, with rounded to deeply cordate base, with shortly acuminate or cuspidate apex, green above and greyish below, with 11 to 15 palmate nerves. Inflorescence in spikes grouped by (2–)3 to 7, ± umbellate; peduncle 3–10 mm; rachis 1.5–6 cm; bracts densely ciliate. Flower bisexual; stamens 2; ovary ovoid; stigmas 3, minute. Fruit pedicellate, trigonous to obpyramidal, 0.5–0.8 × 0.4–0.6 mm, brownish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Amérique et répandue en Afrique équatoriale et tropicale ; au Gabon, connu de l’Estuaire, du Haut-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Maritime et du Woleu-Ntem
+native to America and widespread in equatorial and tropical Africa; in Gabon, known from Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense de plaine, milieux ouverts en forêt et marécages ; au Gabon à 7–1000 m d’altitude, ailleurs jusqu’à 2100 m
+dense lowland forest, open environments in forest and swamps; in Gabon at 7–1000 m altitude, elsewhere up to 2100 m
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ bois d’anisette, grand baume (fr) ; cow-foot leaf (angl.) ; abó-me-nzang (fan
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bibliographie 73
+Bibliography 73
 
 ## Notes
 

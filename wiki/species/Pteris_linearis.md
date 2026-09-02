@@ -24,13 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Poir., in Lam., Encycl. 5, 723 (1806). — Ching, Ling. Sc. Journ. 12: 568, t. 43.
 
-Frondes rapprochées, pouvant atteindre 2 m et plus, à rhizome portant des écailles brunes, étroitement lancéolées, à bords entiers, formées de cellules à parois minces, lumière jaune clair. Pétiole rougeâtre, long de 50-80 cm, épais, canaliculé, écailleux à l'extrême base. Limbe à contour ovale-oblong, long de 50-70 cm, bipinnatifide, à penne terminale légèrement plus grande que les latérales. 7-15 paires de pennes latérales, la paire inférieure longuement pétiolée, atteignant 30 cm sur 6 de large, portant,
-
-à la base, un lobe atteignant lui même jusqu'à 20 cm, divisé, comme les pennes, en une trentaine de lobes linéaires, entiers, séparés par des sinus plus larges qu'eux, arrondis. Extrémité de la penne caudée sur 2-3 cm environ. Rachis lisse, straminé-rougeâtre, canaliculé. Costa rougeâtre, glanduleux, portant, à la face supérieure, des épines aiguës, à l'insertion de la nervure médiane des lobes. Surface inférieure du limbe portant des glandes ± foncées. 25-30 nervures par lobe, bifurquées dès la base, les nervilles inférieures de 2 segments voisins tendant à se rapprocher au fond du sinus, ou formant une aréole triangulaire complète, ou parfois interrompue Sores faisant le tour des lobes.
+Fronds crowded, capable of reaching 2 m and more, with rhizome bearing brown scales, narrowly lanceolate, with entire margins, formed of cells with thin walls, pale yellow in light. Petiole reddish, 50-80 cm long, thick, channeled, scaly at the extreme base. Blade with oval-oblong outline, 50-70 cm long, bipinnatifid, with terminal pinna slightly larger than the lateral ones. 7-15 pairs of lateral pinnae, the lower pair long-petiolate, reaching 30 cm by 6 cm wide, bearing, at the base, a lobe itself reaching up to 20 cm, divided, like the pinnae, into about thirty linear, entire lobes, separated by sinuses wider than themselves, rounded. Pinna apex caudate for 2-3 cm approximately. Rachis smooth, straw-colored-reddish, channeled. Costa reddish, glandular, bearing, on the upper surface, acute spines at the insertion of the midvein of the lobes. Lower surface of the blade bearing ± dark glands. 25-30 veins per lobe, bifurcate from the base, the lower veinlets of 2 adjacent segments tending to approach each other at the sinus bottom, or forming a complete triangular areole, or sometimes interrupted. Sori bordering the lobes.
 
 ## Type
 
@@ -38,9 +34,7 @@ Commerson, Ile de France (P, herb. Lamarck)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Soudan à Afrique australe, Madagascar, Maurice, Réunion, Asie tropicale. Ravins ombragés et humides.
+Sudan to southern Africa, Madagascar, Mauritius, Réunion, tropical Asia. Shaded and humid ravines.
 
 ## Specimens examined
 

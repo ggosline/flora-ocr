@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 4-18 x 1-2,2 cm, cylindriques. Feuilles 8-33 x 2-3,8 cm, ligulées ou oblongues-elliptiques, inégalement bilobées. Inflorescence 6-21 cm. Fleurs petites, non résupinées, rouge feu à orange avec des taches rouges sur le labelle. Sépale dorsal lancéolé à triangulaire-lancéolé, aigu. Pétales oblancéolés, subaigus à aigus. Sépales latéraux obliquement lancéolés à lancéolés-triangulaires, aigus. Labelle ové, elliptique à lancéolé-obovale, entier, aigu, cochléiforme à la base et alors garni d'un callus épais, arrondi. Éperon sacciforme.— Pl. 118, p. 269.
+Pseudobulbs 4-18 x 1-2.2 cm, cylindrical. Leaves 8-33 x 2-3.8 cm, ligulate or oblong-elliptic, unequally bilobed. Inflorescence 6-21 cm. Flowers small, non-resupinate, fiery red to orange with red spots on the labellum. Dorsal sepal lanceolate to triangular-lanceolate, acute. Petals oblanceolate, subacute to acute. Lateral sepals obliquely lanceolate to lanceolate-triangular, acute. Labellum ovate, elliptic to lanceolate-obovate, entire, acute, cochleariform at the base and then furnished with a thick, rounded callus. Spur sacciform.— Pl. 118, p. 269.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Gabon, Congo, Centrafrique, Zaïre, Ouganda
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gabon, Congo, Central African Republic, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 400-1,150 m. Epiphyte in humid lowland and mid-altitude forest, lava plain
 
-alt. 400-1 150 m. Épiphyte en forêt humide de basse et moyenne altitude, plaine de lave
+MATERIAL STUDIED (Map 50):
 
-MATÉRIEL ÉTUDIÉ (Carte 50) :
+Breteler & De Wilde 57, near Riv. Tchimbélé falls, humid wooded slope near the falls, alt. ± 500 m (fl. August), WAG! (cf. paniculata). Le Testu 9502, Woleu-Ntem, Oyem (fl. March), BR!, P!.
 
-Breteler & De Wilde 57, près des chutes de la Riv. Tchimbélé, pente humide forestée près des chutes, alt. ± 500 m (fl. Août), WAG! (cf. paniculata). Le Testu 9502, Woleu-Ntem, Oyem (fl. Mars), BR!, P!.
+J. M. & B. Reitsma 1973, Monts. Doudou, approximately 30 km SW of Doussala, alt. 500 m, 2° 32' S, 10° 29' E, epiphyte (fl. February), WAG!.
 
-J. M. & B. Reitsma 1973, Monts. Doudou, environ 30 km au SO de Doussala, alt. 500 m, 2° 32' S, 10° 29' E, épiphyte (fl. Févr.), WAG!.
-
-J. M. & B. Reitsma, Breteler & Louis 866, Chantier Rougier Océan, Oveng, forêt en partie secondarisée (très vieilles plantations avec nombreux passages d'éléphants), 0° 52' N, 11° 10' E, épiphyte (fr. Mai), WAG!.
+J. M. & B. Reitsma, Breteler & Louis 866, Chantier Rougier Océan, Oveng, forest in part secondarized (very old plantations with numerous elephant passages), 0° 52' N, 11° 10' E, epiphyte (fr. May), WAG!.
 
 ## Figures
 

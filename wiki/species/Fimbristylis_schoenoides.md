@@ -23,7 +23,7 @@ B. Base of a blade showing the sheath opening. B. Section of a stem. – C. Sect
 
 ## Distribution
 
-widely distributed in India and Malaysia, rare and perhaps introduced in Africa; rare in Gabon, found only in the Estuary, Ogooué-Ivindo and Ogooué-Maritime (3 collections)
+widely distributed in India and Malaysia, rare and perhaps introduced in Africa; rare in Gabon, found only in the Estuaire, Ogooué-Ivindo and Ogooué-Maritime (3 collections)
 
 ## Ecology
 

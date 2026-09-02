@@ -21,7 +21,7 @@ Annual herb, 10–70 cm in height, with a taproot; stem strongly branched, ± sp
 
 ## Distribution
 
-from Senegal to East Africa; in Gabon, on the Batéké Plateaux (Upper Ogooué)
+from Senegal to East Africa; in Gabon, on the Batéké Plateaux (Haut-Ogooué)
 
 ## Ecology
 

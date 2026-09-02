@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bombax lukayense De Wild. & Th. Dur., Bull. Herb. Boiss., ser. 2, 1:741 (1901); De Wildeman, Ann. Mus. Congo, ser. 5, 2:49 (1907); Thonner, Blütenpfl. Afr.: tab. 94 (1908); Th. & H. Durand, Syll.: 59 (1909); Ulbricht, Bot. Jahrb. 49:543 (1913); Exell & Mendonça, Consp. Fl. Angol. 1:144 (1937); A. Robyns, Bull. Jard. Bot. Etat. Bruxelles 27:666, tab. 64 (1957).
 
-— Pachira lukayense (De Wild. & Th. Dur.) Bakh., Bull. Jard. Bot. Buitenz., ser. 3, 6 : 173 (1924).
+— Pachira lukayensis (De Wild. & Th. Dur.) Bakh., Bull. Jard. Bot. Buitenz., ser. 3, 6 : 173 (1924).
 
-Arbre haut de 15-20 m; fût droit d'un diamètre de 60 cm à la base; cime dense. Rhytidome gris clair fendillé longitudinalement. Feuilles groupées à l'extrémité des rameaux, composées digitées à 5-7 folioles, le plus souvent en nombre pair; stipules triangulaires, glabres, aiguës au sommet; pétiole long de 5-22 cm, glabre; pétioules glabres longs de 0,8-2,5 cm, canaliculés, à forte carène dorsale. Limbe glabre sur les deux faces, coriace, très largement obovale, 9-23,5 × 3,8-8,7 cm, rétréci cunéiforme à la base et sommet courtement acuné obtus ou subaigu, mucroné. Nervure médiane saillante dessus et très fortement saillante dessous, nervures secondaires 8-14 paires, peu ascendantes, très peu arquées, s'anastomosant en arceaux à environ 5 mm du bord du limbe. Nervilles formant un réseau très lâche ou une seule nervure tertiaire visible sur les deux faces, nervures quaternaires indistinctes.
+Tree 15–20 m tall; bole straight, 60 cm in diameter at the base; crown dense. Bark light grey, longitudinally fissured. Leaves clustered at the branch tips, digitately compound with 5–7 leaflets, most often in even number; stipules triangular, glabrous, acute at apex; petiole 5–22 cm long, glabrous; petiolules glabrous, 0.8–2.5 cm long, canaliculate, with prominent dorsal keel. Blade glabrous on both surfaces, coriaceous, very broadly obovate, 9–23.5 × 3.8–8.7 cm, cuneately narrowed at base and apex shortly acuminate obtuse or subacute, mucronate. Midvein prominent above and very strongly prominent below; secondary veins 8–14 pairs, slightly ascending, very slightly arched, anastomosing in arcades approximately 5 mm from the blade margin. Tertiary veins forming a very loose network or a single tertiary vein visible on both surfaces; quaternary veins indistinct.
 
-Fleurs solitaires axillaires ou fasciculées, à l'extrémité des ramuscules, sous le bourgeon terminal, actinomorphes, longues de 15,5-17,5 cm; pédicelle glabre, long d'env. 1 cm. Bouton floral ± linéaire, jaune à la base et rougeâtre au sommet sur le vivant. Réceptacle long de 0,5 cm, porteur de glandes linéaires formant un anneau rouge vif sur le vivant, glabre. Calice campanulé, irrégulièrement lobulé, ciliolé ou non au sommet de la face externe pubérulente et soyeux intérieurement. Pétales 5, rubanés, jaunâtres
+Flowers solitary axillary or fasciculate, at branch tip extremities, below the terminal bud, actinomorphic, 15.5–17.5 cm long; pedicel glabrous, ca. 1 cm long. Floral bud ± linear, yellow at base and reddish at apex in the living plant. Receptacle 0.5 cm long, bearing linear glands forming a bright red ring in the living plant, glabrous. Calyx campanulate, irregularly lobulate, ciliolate or not at apex, pubescent externally and silky internally. Petals 5, ribbon-like, yellowish at base, becoming reddish at apex in the living plant, densely pubescent externally and shortly pubescent internally, 15–17 × 1.4–1.6 cm. Stamens approximately 360, 10.8–14.5 cm long, united into a staminal tube 2.8–3.5 cm long, brownish-red in the living plant, with 5 shortly pubescent rows alternating with 5 glabrescent to pubescent rows, dividing into 5 phalanges; filaments 8–11 cm long, brownish-red to bright red in the living plant; anthers 3–4 mm long, red to purple in the living plant. Ovary glabrous; style 12–15 cm long.
 
-à la base, devenant rougeâtres au sommet sur le vivant, densément pubé-rulents extérieurement et courtement pubescents intérieurement, 15-17 × 1,4-1,6 cm. Étamines environ 360, longues de 10,8-14,5 cm, unies en un tube staminal long de 2,8-3,5 cm, brun rougeâtre sur le vivant, avec 5 rangées courtement pubescentes alternant avec 5 rangées glabrescentes à pubescentes, se divisant en 5 phalanges; filets longs de 8-11 cm, brun rougeâtres à rouge éclatant sur le vivant; anthères longues de 3-4 mm, rouges à pourpre sur le vivant. Ovaire glabre, style long de 12-15 cm.
-
-Capsule oblongue ovale, à sillons ± marqués, aiguë au sommet,  $ 12,5-15 \times 5-5,5 \, \text{cm} $, brun-rougeâtre, glabre, déhiscente sur l'arbre. Graines anguleuses à subglobuleuses,  $ 1,6-2,5 \times 1,3-1,8 \, \text{cm} $; test mat brun-roussâtre, une face large porteuse d'une plage densément bosselée. Kapok peu abondant roussâtre. PL. 9, 5, p. 35; PL. 12, p. 45.
+Capsule oblong-ovate, with ± pronounced furrows, acute at apex, 12.5–15 × 5–5.5 cm, brownish-red, glabrous, dehiscent on the tree. Seeds angular to subglobose, 1.6–2.5 × 1.3–1.8 cm; seed coat matt brownish-russet, one face bearing a densely dimpled patch. Kapok sparse, russet. PL. 9, 5, p. 35; PL. 12, p. 45.
 
 ## Type
 
@@ -37,9 +33,7 @@ Hauquet in Gillet 1748, Bas Congo : Kimuenza, Zaïre (holo, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante guinéenne connue du Gabon au Zaïre.
+Guinean plant known from Gabon to Zaïre.
 
 ## Specimens examined
 

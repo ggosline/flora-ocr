@@ -25,7 +25,7 @@ Dioecious herb; stem creeping, up to 6 m in length. Tendrils 3- to 6-fid. Leaf: 
 
 ## Distribution
 
-Native to tropical and subtropical regions of the Old World, but nowadays widely distributed also in Central and South America; in Gabon: Middle Ogooué and Ogooué-Ivindo
+Native to tropical and subtropical regions of the Old World, but nowadays widely distributed also in Central and South America; in Gabon: Moyen-Ogooué and Ogooué-Ivindo
 
 ## Ecology
 

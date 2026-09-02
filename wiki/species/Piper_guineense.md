@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Schumach., Beskr. Guin. pl . : 19 (1827). Liane dioïque, jusqu’à 25 m de hauteur ; rameaux glabres ou légèrement pubescents, les plus anciens à côtes spongieuses, souvent à racines adventives près des nœuds. Feuille : pétiole 0,5–4 cm ; limbe ovale-elliptique, 4,5–20 × 2–12 cm, à base cunéée-arrondie, à sommet acuminé à cuspidé, avec 5 à 7 nervures palmées. Inflorescence en racèmes solitaires , dres sés mais devenant souvent ombelliformes et pendantes à la fructification ; pédoncule 0,5–2 cm, mais s’allongeant jusqu’à 10 cm lors de la fructification ; rachis 2–3,5 cm ; bractées aux bords ciliés dessous. Fleur unisexuée ; pédicelle jusqu’à 2 cm, mais s’allongeant lors de la fructification ; étamines 2(ou 3) ; ovaire ovoïde ; stigmates généralement 3, subrécurvés. Fruit pédicellé , subellipsoïdal, 3–5 mm de diamètre, rouge à rouge brunâtre ou jaune orangé.
+in Schumach., Beskr. Guin. pl . : 19 (1827). Dioecious liane, up to 25 m tall; branches glabrous or slightly pubescent, the oldest with spongy ribs, often with adventitious roots near the nodes. Leaf: petiole 0.5–4 cm; blade ovate-elliptic, 4.5–20 × 2–12 cm, with cuneate-rounded base, acuminate to cuspidate apex, with 5 to 7 palmate veins. Inflorescence in solitary racemes, erect but often becoming umbelliform and pendulous at fruiting; peduncle 0.5–2 cm, but elongating to 10 cm during fruiting; rachis 2–3.5 cm; bracts ciliate at margins below. Flower unisexual; pedicel up to 2 cm, but elongating during fruiting; stamens 2 (or 3); ovary ovoid; stigmas generally 3, subrecurved. Fruit pedicelled, subellipsoidal, 3–5 mm in diameter, red to reddish brown or orange yellow.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et équatoriale ; au Gabon, connu de l’Estuaire, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du Woleu-Ntem
+Tropical and equatorial Africa; in Gabon, known from Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+open habitats, on fallen trees or on trunks, dense lowland forest, swamp forest or gallery forest, forest edge; in Gabon at 1–500 m altitude, elsewhere up to 1650 m
 
-milieux ouverts, sur arbres tombés ou sur troncs, forêt dense de plaine, forêt marécageuse ou forêt galerie, lisière forestière ; au Gabon à 1–500 m d’altitude, ailleurs jusqu’à 1650 m
-
-Piper 69 Fruit (× 3). Dessin par J. Lerinckx, Jardin botanique Meise (©).
+Piper 69 Fruit (× 3). Drawing by J. Lerinckx, Meise Botanical Garden (©).
 
 70 Tariq STÉVART & Daniel J.L. GEERINCK
 

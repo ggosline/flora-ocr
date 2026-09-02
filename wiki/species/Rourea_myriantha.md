@@ -17,35 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+JONGKIND, in BRETELER (ed.), AUWP 89 (6): 342 (1989). TYPE: Gabon, s.l., Griffon du Bellay s.n. (holo-P).
 
-JONGKIND, in BRETELER (éd.), AUWP 89 (6) : 342 (1989). TYPE : Gabon, s.l., Griffon du Bellay s.n. (holo-P).
+– Paxia myriantha (BAILL.) PIERRE, Bull. Soc. Linn. Paris 156: 1233 (1896); SCHELLENBERG, PR 103 (4, 127): 115 (1938); EXELL & MENDONÇA, CFA 2: 145 (1954).
 
-– Paxia myriantha (BAILL.) PIERRE, Bull. Soc. Linn. Paris 156 : 1233 (1896) ; SCHEL-LENBERG, PR 103 (4, 127) : 115 (1938) ; EXELL & MENDONÇA, CFA 2 : 145 (1954).
+– P. scandens GILG, EBJ 14: 321 (1891). TYPE: Gabon, Sibange Farm, near Libreville, Soyaux 262 (lecto-K; B delet.; iso-P, Z); Soyaux 380 (syn-B delet.; iso-P).
 
-– P. scandens GILG, EBJ 14 : 321 (1891). TYPE : Gabon, Sibange Farm, près de Libreville, Soyaux 262 (lecto-K ; B delet. ; iso-P, Z) ; Soyaux 380 (syn-B delet. ; iso-P).
+– Rourea soyauxii GILG, EBJ 14: 324 (1891). TYPE: Gabon, Sibange Farm, near Libreville, Soyaux 70 (holo-B delet.; lecto-P; isolecto-K, Z).
 
-– Rourea soyauxii GILG, EBJ 14: 324 (1891). TYPE : Gabon, Sibange Farm, près de Libreville, Soyaux 70 (holo-B delet. ; lecto-P ; isolecto-K, Z.
+– Paxia soyauxii (GILG) PIERRE ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50: 31 (1910); PR 103 (4, 127): 116 (1938); TROUPIN, FCBR 3: 80 (1952).
 
-– Paxia soyauxii (GILG) PIERRE ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50 : 31 (1910); PR 103 (4, 127) : 116 (1938); TROUPIN, FCBR 3 : 80 (1952).
+- P. cinnabarinà SCHELLENB., EBJ 55: 449 (1919) et PR 103 (4, 127): 118 (1938); HEPPER, FWTA, ed. 2, 1 (2): 741 (1958). TYPE: Cameroon, Bipindi, Zenker 2791 (holo-B delet.; lecto-K; isolecto-E, G, L, M, Z).
 
-- P. cinnabarin A SCHELLENB., EBJ 55: 449 (1919) et PR 103 (4, 127): 118 (1938); HEPPER, FWTA, ed. 2, 1 (2): 741 (1958). TYPE: Cameroun, Bipindi, Zenker 2791 (holo-B delet.; lecto-K; isolecto-E, G, L, M, Z).
+- P. lancea SCHELLENB., l.c.: 450 (1919); l.c.: 118 (1938). TYPE: Cameroon, Mimfia, Zenker 4553 (holo-B delet.). NEOTYPE: Gabon, Lastoursville region, Le Testu 7962 (holo-WAG; iso-E, BM, BR, P).
 
-- P. lancea SCHELLENB., l.c.: 450 (1919); l.c.: 118 (1938). TYPE ; Cameroun, Mimfia, Zenker 4553 (holo-B delet.). NÉOTYPE : Gabon, région de Lastoursville, Le Testu 7962 (holo-WAG ; iso-E, BM, BR, P).
+Very large liane reaching 40 m. Branches glabrous and often greyish-silvery; young branches puberulent.
 
-Très grande liane pouvant atteindre 40 m. Rameaux glabres et souvent gris-argenté ; jeunes rameaux pubérulents.
+Leaves. Petiole 5–10 cm long, rachis 0–15 cm, petiolules 1–5 mm; leaflets 1–11, of highly variable shape, ovate-elliptic or oblong to oblong-obovate, coriaceous or rarely chartaceous, almost glabrous; apex acute to acuminate, mucronate; terminal leaflet 4–18 × 2–8.5, lateral ones 3–14 × 1.5–6.5 cm, almost symmetrical.
 
-Feuilles. Pétiole long de 5-10 cm, rachis de 0-15 cm, pétioiules de 1-5 mm ; folioles 1-11, de forme très variable, ovées-elliptiques ou oblongues à oblongues-obovées, coriaces ou rarement cartacées, presque glabres ; sommet aigu à acuminé, mucroné ; foliole terminale 4-18 × 2-8,5, les latérales 3-14 × 1,5-6,5 cm, presque symétriques.
+Inflorescences ≤15 cm long, puberulent or glabrous. Bracts and bracteoles similar to the small sepals. Pedicels 0–2 mm long above the articulation.
 
-Inflorescences longues de ≤15 cm, pubérulentes ou glabres. Bractées et bractéoles semblables aux petits sépales. Pédicelles longs de 0-2 mm au-dessus de l'articulation.
+Flowers: bud spherical. Sepals 3–4 × 1.5–2.5 mm, exterior pubescent, interior almost glabrous, faces exposed to the sun red, shaded part white (often both colours are present on the same flower).
 
-Fleurs : bouton sphérique. Sépales  $ 3-4 \times 1,5-2,5 $ mm, extérieur pubescent, intérieur presque glabre, faces exposées au soleil rouges, partie à l'ombre blanches (souvent les 2 couleurs sont présentes sur la même fleur).
+Petals 10–15 × 1–3 mm, often coherent near the base, folded in the bud. Stamens, the long ones 2–6 mm long, the short ones 1.5–3 mm long, filaments curved inward. Pistil 1.5–5 mm long; style with some hairs; ovary pubescent.
 
-Pétales 10-15 × 1-3 mm, souvent cohérents près de la base, pliés dans le bouton. Étamines, les grandes longues de 2-6 mm, les courtes de 1,5-3 mm, filets courbés vers l'intérieur. Pistil long de 1,5-5 mm ; style avec quelques poils ; ovaire pubescent.
+Fruits: follicle 1 per flower and sometimes more, 25–45 × 15–20 mm, bearing a beak, glabrous, frequently (pseudo?) lenticellate. Sepals below the fruit 6–12 × 4–6 mm, coriaceous almost glabrous.
 
-Fruits : follicule 1 par fleur et parfois davantage, 25-45 × 15-20 mm, munis d'un bec, glabres, fréquemment (pseudo ?) lenticellés. Sépales sous le fruit 6-12 × 4-6 mm, coriaces presque glabres.
-
-Graine à testa 1/4 charnu, ses autres parties minces, brillantes et rouge très foncé à noir. Radicule ventrale. - Pl. 39, p. 123.
+Seed with testa 1/4 fleshy, its other parts thin, shiny and very dark red to black. Radicle ventral. - Pl. 39, p. 123.
 
 ## Type
 
@@ -53,15 +51,11 @@ Griffon du Bellay s.n., Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Nigeria au Zaïre vers l'Est et à l'Angola vers le Sud
+from Nigeria to Zaire eastward and to Angola southward
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses ; alt. 0-500 m
+dense forests; alt. 0–500 m
 
 ## Specimens examined
 

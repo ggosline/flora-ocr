@@ -22,9 +22,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste glabre, jusqu'à 5 m haut. Rameaux arrondis. Feuilles pétiolées, obovées-oblongues, coriaces, cunéiformes à la base, arrondies au sommet, (3) 6-8 cm de long, 2,5-4 cm de large. Pédoncules solitaires, uniflores, de 5-8 mm long. Boutons floraux glabres, ouverts au sommet; calice 4-lobé. Pétales orbiculaires, d'environ 1 cm de long. Stigmate pelté. Fruit subglobuleux ou pyriforme, pourpre, parfois jaune, de 2-3,5 cm de long.
+Shrub glabrous, up to 5 m tall. Branches rounded. Leaves petiolate, obovate-oblong, coriaceous, cuneiform at the base, rounded at the apex, (3) 6–8 cm long, 2.5–4 cm wide. Peduncles solitary, uniflorous, 5–8 mm long. Floral buds glabrous, open at the apex; calyx 4-lobed. Petals orbicular, approximately 1 cm long. Stigma peltate. Fruit subglobose or pyriform, purple, sometimes yellow, 2–3.5 cm long.
 
 ## Vernacular names
 
@@ -36,9 +34,7 @@ Goyavier de Chine
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Originaire du Brésil, cultivé dans tous les pays chauds et souvent dans des serres en Europe. Les fruits sont comestibles; la chair est plus savoureuse que celle du goyavier commun (Ps. guajava L.).
+Native to Brazil, cultivated in all warm countries and often in greenhouses in Europe. The fruits are edible; the flesh is more savory than that of the common guava (Ps. guajava L.).
 
 ## Specimens examined
 

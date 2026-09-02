@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianescent. Branch tips with brief appressed pubescence, dense. Internodes short, 1–3 cm on the leafy lateral branches. Stipules ovate-acute, 6–9 mm long, with external appressed pubescence. Petiole 13–40 (60) mm with sparse pubescence. Blade with brief pubescence above and below, elliptic or obovate, 10–15 × 4–7 cm; base acute; apex ± acute, briefly subacuminate or obtuse. 13–15 pairs of secondary veins pubescent below (hairs appressed) as well as the marginal line.
 
-Lianescent. Extrémités à pubescence apprimée brève et serrée. Entrenœuds courts de 1-3 cm sur les rameaux latéraux feuillés. Stipules ovées-aiguës de 6-9 mm de long, à pubescence
+Inflorescences axillary. Peduncle 6–9 mm. 2 very large bracts ca. 1.5–3 × 2–2.5 cm, with acute apex, ± pubescent, with parallel pubescent veins spaced 2–3 mm apart. 6–10(?) flowers grouped rather loosely and barely sessile. Calyx with sparse pubescence including on the ovary; calyx tube 3–5 × 2.5 mm; lobes green, lanceolate, 9–10 × 2.5–3 mm, ciliate and ± spreading. Corolla whitish-pink(?) barely exceeding the calyx lobes, pubescent toward the apex, with 5 lobes ca. 2.5 mm. Ovary with 5 locules.
 
-apprimée externe. Pétiole de 13-40 (60) mm à pubescence rase. Limbe à pubescence brève dessus et dessous, elliptique ou obové de 10-15 × 4-7 cm; base aiguë; sommet ± aigu, brièvement subacuminé ou obtus. 13-15 paires de nervures secondaires pubescentes dessous (poils couchés) ainsi que la ligne marginale.
-
-Inflorescences axillaires. Pédoncule de 6-9 mm. 2 bractées très amples d'env. 1,5-3 × 2-2,5 cm, à sommet aigu, ± pubes-centes, à veines parallèles pubescentes espacées de 2-3 mm. 6-10(?) fleurs groupées de façon assez lâche et à peine sessiles. Calice pubescent de façon rase y compris sur l'ovaire; tube du calice de 3-5 × 2,5 mm; lobes verts lancéolés de 9-10 × 2,5-3 mm, ciliés et ± étalés. Corolle blanc-rosé(?) dépassant à peine les lobes du calice, pubescente vers le haut, à 5 lobes d'env. 2,5 mm. Ovaire à 5 loges.
-
-Fruit mũr rouge pâle, charnu. Nombreuses petites graines rousses, subanguleuses longues d'env. o,5 mm.
+Mature fruit pale red, fleshy. Numerous small reddish-brown seeds, subangular, ca. 0.5 mm long.
 
 ## Type
 
@@ -37,9 +33,7 @@ Mann 933, riv. Gabon (K, non vu). Échantillon de référence : Brenan 8410 du S
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce du Gabon, du Cameroun et du Sud Nigeria, très mal connue.
+Species from Gabon, Cameroon and southern Nigeria, very poorly known.
 
 ## Notes
 

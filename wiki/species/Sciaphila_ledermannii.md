@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem simple or branched once or twice, red to purple, 15–30 cm in height; roots glabrous. Leaves triangular to narrowly triangular, 2–4 mm in length. Inflorescence 5–15 cm in length, with 10–50 flowers; bracts triangular, 1–2 mm in length; lower flowers bisexual or female, the upper ones male. Flower on a recurved pedicel 5–10 mm; tepals reflexed, triangular, 1–2 mm in length, red to purple, terminated in an apical tuft of hairs approximately 1 mm in length. Male flower: stamens 3, anthers 0.4–0.5 × 0.1 mm. Bisexual or female flower: presence of staminodes not verified; carpels 10–20, ellipsoid, less than 0.5 mm in length; style approximately 0.5 mm in length, stigmas penicillate. Fruit ellipsoid, 0.5–1.5 × 0.5–0.6 mm,
 
-Tige simple ou ramifiée une ou deux fois, rouge à pourpre , 15–30 cm de hauteur ; racines glabres. Feuilles triangulaires à étroitement triangulaires , 2–4 mm de longueur. Inflores cence 5–15 cm de longueur, à 10–50 fleurs ; bractées triangulaires, 1–2 mm de longueur ; fleurs inférieures bisexuées ou femelles, les supérieures mâles. Fleur sur un pédicelle recourbé de 5–10 mm ; tépales réfléchis , triangulaires, 1–2 mm de longueur, rouges à pourpres , terminés en une touffe apicale de poils longs d’environ 1 mm. Fleur mâle : étamines 3, anthères 0,4–0,5 × 0,1 mm. Fleur bisexuée ou femelle : présence des stami nodes non vérifiée ; carpelles 10–20, ellipsoïdes, moins de 0,5 mm de longueur ; style environ 0,5 mm de longueur, stigmates pénicillés. Fruit ellipsoïde, 0,5–1,5 × 0,5–0,6 mm,
+Carpel (× 10). – 9. Fruit (× 12). – 10. Follicle (× 18). – 11. Seed (× 18). (1 : Zenker 3833 ; 2, 4-7 : W. de Wilde c.s. 1747 ; 3 : Letouzey 12377 ; 8-11 : Letouzey 12522 ). Drawing by Hélène Lamourdedieu, reproduced with the permission of the National Herbarium of Cameroon ©, from Symoens (1984) l.c.
 
-Carpelle (× 10). – 9. Fruit (× 12). – 10. Follicule (× 18). – 11. Graine (× 18). (1 : Zenker 3833 ; 2, 4-7 : W. de Wilde c.s. 1747 ; 3 : Letouzey 12377 ; 8-11 : Letouzey 12522 ). Dessin par Hélène Lamourdedieu, reproduit avec la permission de l’Herbier National du Cameroun ©, à partir de Symoens (1984) l.c.
-
-rouge à pourpre. Graines 0,7–1 mm de longueur , avec des cannelures longitudinales et faibles lignes transversales.
+red to purple. Seeds 0.7–1 mm in length, with longitudinal grooves and weak transverse lines.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud du Nigéria, Cameroun et Gabon ; au Gabon, seulement récoltée dans les provinces de l’Estuaire et de la Nyanga, Monts Doudou
+southern Nigeria, Cameroon and Gabon; in Gabon, only collected in the provinces of Estuaire and Nyanga, Doudou Mountains
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides ; au Gabon à basse altitude jusqu’à 300 m, ailleurs jusqu’à 720 m. Notes taxonomiques : La deuxième espèce africaine, S. africana A.Chev., est connue de la Côte d’Ivoire et du Ghana. Cette espèce a beaucoup plus de fleurs que S. ledermannii et les pédicelles ne sont pas recourbés. Nous n’avons pas pu vérifier la présence des staminodes dans les fleurs femelles telle que mentionnée dans la littérature. B : Hepper (1968), Engler (1909), Symoens (1984). ibliographie
+dense humid forests; in Gabon at low altitude up to 300 m, elsewhere up to 720 m. Taxonomic notes: The second African species, S. africana A.Chev., is known from Ivory Coast and Ghana. This species has many more flowers than S. ledermannii and the pedicels are not recurved. We were not able to verify the presence of staminodes in the female flowers as mentioned in the literature. B : Hepper (1968), Engler (1909), Symoens (1984). Bibliography
 
 ## Notes
 

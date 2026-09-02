@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing plant, twining or creeping; young internodes hairy then glabrescent. Stipules ovate-acute, 2–7 mm wide. Petioles 0.5–6 cm, pubescent. Lamina attaining up to 14 × 6 cm, with fine and sparse pubescence on the upper surface, variable beneath but with rare or abundant woolly appressed hairs. 10–12 pairs of secondary veins.
 
-Plante grimpante volubile ou rampante; jeunes entrenœuds velus puis glabrescents. Stipules ovées-aiguës larges de 2-7 mm. Pétioles de 0,5 à 6 cm, pubescents. Limbe atteignant jusqu'à 14 × 6 cm, à pubescence fine et éparse à la face supérieure, variable dessous mais avec des poils laineux couchés rares ou abondants. 10-12 paires de nervures secondaires.
+Inflorescences many-flowered and lax, 2–3.5 cm long, with variable pubescence. Corolla pale greenish-white, yellowish or reddish, approximately 10 mm, with pubescent apex. Calyx with ciliate lobes (1) 2–5 × 1–1.5 mm. Anthers 1.9 × 0.5 mm. Ovary ± pubescent. Placentas denuded on the external surface (N. Hallé 1954 bis).
 
-Inflorescences multiflores lâches, de 2-3,5 cm de long, à pubescence variable. Corolle d'un vert pâle blanchâtre, jaunâtre ou rougeâtre d'env. 10 mm, à sommet pubescent. Calice à lobes ciliés de (1) 2-5 × 1-1,5 mm. Anthères de 1,9 × 0,5 mm. Ovaire ± pubescent. Placentas dénudés sur la face externe (N. Hallé 1954 bis).
-
-Fruit de 9 mm de diam., pubescent à pédicelle accrescent jusqu'à 4-5 mm. Pulpe à suc rouge.
+Fruit 9 mm in diameter, pubescent on accrescent pedicel up to 4–5 mm. Pulp with red juice.
 
 ## Type
 
@@ -31,9 +29,7 @@ J. Gillet 2179 (BR!), Kimuenza, Congo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nom Bakota « Mbouboutou ». Les enfants se teintent le visage avec le suc des fruits.
+Bakota name "Mbouboutou". Children stain their faces with the juice of the fruits.
 
 ## Specimens examined
 

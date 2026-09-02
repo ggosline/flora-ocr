@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pierre ex Beille (PL. 10)
 
-Arbre de 15-40 m de hauteur à fût de 10-15 m et 0,40-0,60 m de diam. Bois jaune clair lavé de rose. Extrémités entièrement glabres. Pétiole de 5-20 mm. Limbe brun-roux ou noir à sec, de 7-25 × 2,5-7,5 cm, à base ± atténuée soit cordée plus souvent
+Tree 15-40 m tall with bole 10-15 m long and 0.40-0.60 m diam. Wood pale yellow washed with pink. Branchlets entirely glabrous. Petiole 5-20 mm. Lamina brown-reddish or black when dry, 7-25 × 2.5-7.5 cm, with base ± attenuate or cordate more often acute, the two forms occurring on adjacent nodes; apex acuminate. 9-16 pairs of secondary nerves.
 
-aiguë, les deux formes pouvant se rencontrer sur des nœuds voisins; sommet acuminé. 9-16 paires de nervures secondaires.
+Inflorescences subternimal generally opposite in pairs, entirely glabrous, 8-12 cm long. Flowers white grouped in multiflorous spherical pseudumbels, sessile or with pedicel 0.5 mm. Ovary entirely glabrous (a few rare hairs in Thollon 124 n. s.), ca. 1 mm high; calyx tubular for less than 0.5 mm, with glabrous lobes 0.5-0.9 mm, acute and suberect. Corolla glabrous with slender tube for nearly 1 mm then broadly swollen for 1 mm, very briefly divided into (4)5(6) erect lobes bearing an apical filiform appendage, 6-15 mm long. Anthers sessile sagittate acute 0.8 mm. Style 1-1.5 mm, with bilobed stigmatic apex.
 
-Inflorescences subterminales généralement opposées par paires, entièrement glabres, longues de 8-12 cm. Fleurs blanches groupées en pseudombelles multiflores sphériques, sessiles ou à pédicelle de 0,5 mm. Ovaire entièrement glabre (quelques rares poils chez Thollon 124 n. s.), haut d'env. 1 mm; calice tubuleux sur moins de 0,5 mm, à lobes glabres de 0,5-0,9 mm, aigus et subérigés. Corolle glabre à tube grêle sur près de 1 mm puis largement renflée sur 1 mm, très brièvement divisée en (4)5(6) lobes érigés porteurs d'un appendice apical filiforme, long de 6-15 mm. Anthères sessiles sagittées aiguës de 0,8 mm. Style de 1-1,5 mm, à sommet stigmatique bilobé.
-
-Fruit capsulaire de 15-20 mm de long et 5-7 mm de large in sicco, pédonculé sur 3-8 mm, se vidant de ses graines par le sommet entrebaillé des deux valves. Graine de 7-10 × 1,5-2 mm.
+Capsular fruit 15-20 mm long and 5-7 mm wide when dry, pedicelled 3-8 mm, emptying its seeds through the slightly open apex of the two valves. Seed 7-10 × 1.5-2 mm.
 
 ## Type
 
@@ -37,25 +33,23 @@ Bequaert 6694 (BR, vu), Walikale-Lubutu, Congo oriental. Voir la note 1 du bas d
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species appears rather polymorphic; the leaves are somewhat longer and darker. We refer to it as a variety numerous specimens on which Schumann, De Wildeman, Chevalier, Raymond-Hamet and Pellegrin have focused. Opinions and identifications often diverged on tenuous or inconstant morphological features. The abundance of material currently known is at the source of our viewpoint. The typical variety groups all specimens with entirely glabrous calyx ¹.
 
-Cette espèce paraît assez polymorphe; les feuilles sont ‡ longues et ‡ nigrescentes. Nous y rattachons à titre variétal de nombreux spécimens sur lesquels se sont penchés Schumann, De Wildeman, Chevalier, Raymond-Hamet et Pellegrin. Les opinions et identifications divergeaient souvent sur des données morphologiques ténues ou peu constantes. L'abondance du matériel actuellement connu est à la source de notre point de vue. La variété type groupe tous les spécimens à calice entièrement glabre ¹.
+1. Pausinstalia macroceras (K. Schum.) Pierre ex Beille forma brachythrysum (K. Schum.) N. Hallé stat. nov.: = Corynanthe brachythyrus K Schum., Notizbl. Bot. Gart. Berlin 3: 95 (1901); = P. brachythyrus (K. Schum.) De Wild., Ann. Soc. Sc. Brux. 42. 1: 175 (1922). The type: Zenker 1746 (P!), Bipinde, Cameroon, corresponds to a specimen essentially characterized by the reduction of its inflorescences; it is cited alone without other reference specimen. The pubescence of the ovary, whereas the calyx lobes are nearly glabrous externally, gives this form an intermediate position between P. macroceras and its variety Bequaertii. It can be considered that this form should be subordinate to variety Bequaertii rather than to the typical variety. By advocating the lower rank of form for this taxon represented by a mediocre type, one can avoid having to reject for reasons of priority the name Bequaertii founded on a type in excellent condition and which displays in its pubescence characters more accentuated than the plant of Schumann. Our viewpoint is in agreement with article 60 of the International Code of Nomenclature.
 
-1. Le Pausinstalía macroceras (K. Schum.) Pierre ex Beille forma brachythrysum (K. Schum.) N. Hallé stat. nov.: = Corynanthe brachythyrus K Schum., Notizbl. Bot. Gart. Berlin 3: 95 (1901); = P. brachythyrus (K. Schum.) De Wild., Ann. Soc. Sc. Brux. 42. 1: 175 (1922). Le type : Zenker 1746 (P!), Bipinde, Cameroun, se rapporte à un spécimen essentiellement caractérisé par la réduction de ses inflorescences; il est cité seul sans autre spécimen de référence. La pubescence de l'ovaire, alors que les lobes calcinaux sont quasiment glabres à l'extérieur, donne à cette forme une place intermédiaire entre le P. macroceras et sa variété Bequaertii. On peut considérer que cette forme doit étré subordonnée à la variété Bequaertii plutôt qu'à la variété type. En préconisant le rang inférieur de forme, à ce taxon représenté par un type médiocre, on peut éviter d'avoir à rejeter pour raison d'antériorité, le nom de Bequaertii fondé sur un type en très bel état et qui présente dans sa pubescence des caractères plus accentués que la plante de Schumann. Notre point de vue est en accord avec l'article 60 du Code International de Nomenclature.
+Southern Nigeria, Cameroon, Rio-Muni, Gabon, Mayombe and lower Congo.
 
-Sud Nigeria, Cameroun, Rio-Muni, Gabon, Mayombe et bas-Congo.
-
-Écorce à propriétés aphrodisiaques. Beau bois d'ébénisterie.
+Bark with aphrodisiac properties. Fine cabinetry wood.
 
 2 bis. Pausinstalia macroceras (K. Schum.) P. ex B. var. Bequaertii (De Wild.) N. Hallé comb. nov. (PL. 10, 9).
 
-= Pausinystalia Bequaertii De Wild. = Corynanthe Bequaertii De Wild., Ann. Soc. Sc. Brux. 42 : 117 (1922). Les deux noms sont présentés ensemble comme nouveaux : l'auteur voulait parer au risque de voir sa nouvelle espèce recombincé par un autre, alors que les positions génériques donnaient lieu à des divergences d'opinions; ce procédé est illégitime. = Pausinystalia brachythyrsa (K. Schum.) Brandt, selon F. Pellegrin, Fl. du Mayombe 3 : 7 (1938).
+= Pausinystalia Bequaertii De Wild. = Corynanthe Bequaertii De Wild., Ann. Soc. Sc. Brux. 42 : 117 (1922). The two names are presented together as new: the author wished to guard against the risk of seeing his new species recombined by another, whereas the generic positions gave rise to divergences of opinion; this procedure is illegitimate. = Pausinystalia brachythyrsa (K. Schum.) Brandt, according to F. Pellegrin, Fl. du Mayombe 3 : 7 (1938).
 
-Arbre dépassant 20 m de hauteur. Ne semble différer de la variété type que par la pubescence ± abondante du calice au niveau de l'ovaire et sur les lobes. Les domaties axillaires sont glabres : ce caractère souligné par De Wildeman, n'est particulier ni à la variété ni même à l'espèce.
+Tree exceeding 20 m in height. Seems to differ from the typical variety only in the ± abundant pubescence of the calyx at the level of the ovary and on the lobes. The axillary domatia are glabrous: this character emphasized by De Wildeman, is peculiar neither to the variety nor even to the species.
 
-Noms vernaculaires (probablement applicables à toute l'espèce) : Ngantsa (Bavungu); Musuli (Eshira).
+Vernacular names (probably applicable to the whole species): Ngantsa (Bavungu); Musuli (Eshira).
 
-PL. 10. — Pausinystalia johimbe (K. Sch.) Pierre ex D. et P. (Le Testu 8049 et 5187) : 1, pédoncule d'inflorescence; 2, fleur; 3, étamine vue dorsale; 4, style d'une fleur hexamère tricarpellée; 5, fruit; 6, graine. — P. macroceras (K. Schum.) Pierre ex B. : 7, fleur en coupe (Le T. 5193); 8, fleur (Thollon 124 n. s.); 9, calice de la var. Bequaertii (De Wild.) N. Hallé (Le T. 8984); 10, fruit (Fleury 26602). — P. ituriense De Wild. (Le T. 8029) : 11, fleur; 12, style.
+PL. 10. — Pausinystalia johimbe (K. Sch.) Pierre ex D. et P. (Le Testu 8049 et 5187): 1, inflorescence peduncle; 2, flower; 3, stamen dorsal view; 4, style from a hexamerous tricarpellate flower; 5, fruit; 6, seed. — P. macroceras (K. Schum.) Pierre ex B.: 7, flower in section (Le T. 5193); 8, flower (Thollon 124 n. s.); 9, calyx of var. Bequaertii (De Wild.) N. Hallé (Le T. 8984); 10, fruit (Fleury 26602). — P. ituriense De Wild. (Le T. 8029): 11, flower; 12, style.
 
 ## Vernacular names
 

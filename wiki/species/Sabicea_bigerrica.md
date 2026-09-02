@@ -16,19 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aff. S. Johnstonii K. Schum. ex Wernham, but differing in the slender pendulous peduncles of the inflorescences, ovate or lanceolate bracts, and discolorous leaves that are densely puberulous above and below rather than lanate.
 
-Aff. S. Johnstonii K. Schum. ex Wernham, sed pedunculis inflorescentiarum gracilibus pendentibus, bracteis ovatis vel lanceolatis, foliis discoloribus supra et infra dense puberulis non lanuginosis differt.
+Slender twining liane with tawny-pubescent young branches and internodes 6-12 cm long. Stipules reflexed, ovate-acute, 3-5 mm wide. Petiole pubescent, 4-21 mm long. Blade with fine and dense ± brown pubescence on both surfaces, 5.5-10.5 × 2.8-6.2 cm, base slightly acute or rounded, apex acute subacuminate. 9-14 pairs of secondary nerves hirsute, with tawny hairs on the lower surface.
 
-Liane volubile grêle à jeunes rameaux fauve-pubescents, à entrenœuds de 6-12 cm. Stipules réfractées ovées-aiguës, larges de 3-5 mm. Pétiole pubescent de 4-21 mm. Limbe à fine et dense pubescence ± brune sur les deux faces, de 5,5-10,5 × 2,8-6,2 cm, à base peu aiguë ou arrondie, à sommet aigu subacuminé. 9-14 paires de nervures secondaires velues, à poils fauves sur la face inférieure.
+Pendulous inflorescences with a very slender pubescent peduncle 4-8 cm long. Two pairs of acute bracts, decussate in a pseudoinvolucre, 6-10 mm long, the lower ones 4-6 mm wide. Approximately 10-25 flowers with pubescent pedicel 1-6 mm long (accrescent after flowering). Calyx pubescent with (4) 5 subequal lobes 4-7 × 0.7-1 mm. Corolla green-yellow, pubescent on the upper two-thirds (hairs rose-violet), with 5 lobes spreading 4-5 mm at anthesis, tube 7-9 mm long. Anthers (long-styled form) ca. 1.6 mm, hidden in the upper pubescent zone of the tube. Style slender with 5-lobed stigma reaching 1 × 1 mm and exceeding the throat. Ovary with 5 multilocular locules.
 
-Inflorescences pendantes à pédoncule très grêle long de 4-8 cm, pubescent. Deux paires de bractées aiguës, décussées en pseudinvolucre, longues de 6-10 mm, les inférieures larges de 4-6 mm. Environ 10-25 fleurs à pédicelle pubescent de 1-6 mm de long (acrescent après la floraison). Calice pubescent à (4) 5 lobes subégaux de 4-7 × 0,7-1 mm. Corolle vert-jaune pubescente sur les deux tiers supérieurs (poils rose-violacé), à 5 lobes étalés sur 4-5 mm à l'anthèse, à tube de 7-9 mm. Anthères (forme longistyle) pe 1,6 mm, cachées dans la zone supérieure pubescente du tube. Style grêle à stigmate 5-lobé atteignant 1 × 1 mm et dépassant la gorge. Ovaire à 5 loges multioulées.
+Young fruit green, globose, pubescent, with pedicel 5-8 mm, sepals spreading and ± violet in vivo. Seeds numerous. (Ripe fruit white with blood-red pulp; seed germination obtained in 7-10 days).
 
-Jeune fruit vert globuleux pubescent, à pédicelle de 5-8 mm, à sépales étalés et ± violacés in vivo. Graines nombreuses. (Fruit
-
-PL. 40. — Sabicea bigerrica N. Hallé : 1, rameau florifère × 3/4; 2, stipule; 3, système bractéral de profil; 4, id. à plat vu par-dessous; 5, coupe de la fleur; 6, corolle de face; 7, anthère; 8, coupe d'ovaire noué; 9, fruit immature de 5 mm de diam. (1 à 9, N. Hallé 1079); 10, infrutescence mûre; 11, graine (10 et 11, N. H. 1134). — S. Johnstonii K. Schum. ex Wernh., jeune infrutescence gr. nat. (Brenan 9217, Nigeria).
-
-mùr blanc à pulpe rouge sang; germination des graines obtenue en 7-10 jours).
+PL. 40. — Sabicea bigerrica N. Hallé: 1, flowering branch × 3/4; 2, stipule; 3, bract system in profile; 4, id. spread out viewed from below; 5, flower section; 6, corolla front view; 7, anther; 8, section of knotted ovary; 9, immature fruit 5 mm diam. (1 to 9, N. Hallé 1079); 10, mature infructescence; 11, seed (10 and 11, N. H. 1134). — S. Johnstonii K. Schum. ex Wernh., young infructescence nat. size (Brenan 9217, Nigeria).
 
 ## Type
 

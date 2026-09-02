@@ -21,7 +21,7 @@ Robust liane; stem cylindrical, ±3 cm in diameter; branchlets with white lentic
 
 ## Distribution
 
-Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, rare and known only from Ogooué Maritime
+Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, rare and known only from Ogooué-Maritime
 
 ## Ecology
 

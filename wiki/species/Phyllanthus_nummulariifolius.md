@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Lam., Encycl. 5 : 302 (1804). P. capillaris Schumach., Beskr. Guin. pl. : 417 (1827). Arbuste pérenne , jusqu’à 1,5 m de hauteur ; rameaux et ramilles ± pubescents à poils pluricellulaires . Stipules étroitement triangulaires, 1,5–3 mm de longueur. Feuille : pé tiole 0,6–1,7 mm ; limbe ovale à obovale ou orbiculaire, 4,5–30 × 3–14 mm, arrondi à la base, arrondi à aigu à mucronulé au sommet, glabre ou à poils épars à la face in férieure, à 4–7 paires de nervures latérales. Inflorescence bisexuée. Fleurs monoïques. Fleur mâle : pédicelle filiforme , 2–8,5 mm ; sépales 5, ± orbiculaires, 0,7–1,6 × 0,5–1,3 mm ; disque en éléments alternisépales ; étamines 4–5 , 0,3–0,75 mm de longueur, à filets libres . Fleur femelle : pédicelle 7–20 mm ; sépales 5, ovales, 1–1,6 × 0,65–1,15 mm ; disque annulaire, aplati ; ovaire lisse, à 3 styles bifides. Fruit capsulaire, 1,8–2,6 mm de
-
-diamètre. Graines en onglet sphérique, 0,75–1,15 mm de longueur, brunâtres, ornées de ponctuations alignées.
+in Lam., Encycl. 5 : 302 (1804). P. capillaris Schumach., Beskr. Guin. pl. : 417 (1827). Perennial shrub, up to 1.5 m tall; branches and branchlets ± pubescent with pluricellular hairs. Stipules narrowly triangular, 1.5–3 mm long. Leaf: petiole 0.6–1.7 mm; blade ovate to obovate or orbicular, 4.5–30 × 3–14 mm, rounded at the base, rounded to acute to mucronate at the apex, glabrous or with scattered hairs on the lower surface, with 4–7 pairs of lateral nerves. Inflorescence bisexual. Flowers monoecious. Male flower: pedicel filiform, 2–8.5 mm; sepals 5, ± orbicular, 0.7–1.6 × 0.5–1.3 mm; disk with alternisepalous elements; stamens 4–5, 0.3–0.75 mm long, with free filaments. Female flower: pedicel 7–20 mm; sepals 5, ovate, 1–1.6 × 0.65–1.15 mm; disk annular, flattened; ovary smooth, with 3 bifid styles. Capsular fruit, 1.8–2.6 mm in diameter. Seeds with spherical aril, 0.75–1.15 mm long, brownish, ornamented with aligned punctations.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue de toute l’Afrique tropicale et de Madagascar ; au Gabon, connue de l’Ogooué-Ivindo et du Woleu-Ntem
+known from all tropical Africa and Madagascar; in Gabon, known from Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétation arbustive, secondarisée ; au Gabon, à 500-600 m d’altitude. Usage : En Afrique de l’Est, la plante sert à plusieurs traitements médicinaux (voir Oyen 2008). Note taxonomique : J’ai suivi Smith (1987) dans son traitement de la famille pour la Flore de l’Afrique tropicale de l’Est en mettant P. capillaris en synonyme de P. nummularii folius . En 1996, dans son traitement du genre pour la Flora Zambesiaca, le même auteur (sous le nom Radcliffe-Smith) a divisé l’espèce en deux variétés. Cette division n’est pas suivie ici, parce que le matériel de l’Afrique de l’Est montre une telle variation dans la pilosité, mentionnée comme caractère diagnostique dans la clé, qu’une subdivision n’est pas réaliste. b : Brunel (1987), Keay (1958), Oyen (2008), Radcliffe-Smith (1996a, ibliographie 1996b), Smith (1987)
+shrubby vegetation, secondarized; in Gabon, at 500–600 m altitude. Uses: In East Africa, the plant is used for several medicinal treatments (see Oyen 2008). Taxonomic note: I have followed Smith (1987) in his treatment of the family for the Flora of tropical East Africa by placing P. capillaris as a synonym of P. nummularifolius. In 1996, in his treatment of the genus for the Flora Zambesiaca, the same author (under the name Radcliffe-Smith) divided the species into two varieties. This division is not followed here, because the material from East Africa shows such variation in hairiness, mentioned as a diagnostic character in the key, that subdivision is not realistic. b : Brunel (1987), Keay (1958), Oyen (2008), Radcliffe-Smith (1996a, bibliography 1996b), Smith (1987)
 
 ## Notes
 

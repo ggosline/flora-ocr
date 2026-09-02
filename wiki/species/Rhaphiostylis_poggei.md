@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 l.c. 43 : 181 (1909). — SLEUMER, Pflanzenfam., ed. 2, 20b : 369 (1942). — KEAY, FWTA ed. 2, 1 : 639 (1958).
 
-Arbuste lianescent, à rameaux légèrement flexueux. Pétiole faiblement canaliculé long de 3-4 mm. Limbe glabre sur les deux faces, subcoriace, oblong,  $ 8 \times 3-4 $ cm; base obtuse; sommet acuminé faiblement obtus. Nervures secondaires peu ascendantes, 5-6 paires, s'anastomosant loin du bord du limbe. Nervilles en réseau. Inflorescence en fascicule multiflore axillaire. Bractées à la base des pédicelles semi-ovées ciliolées. Pédicelle long de 1 cm. Bouton floral jaune, oblong, long de 6 mm, dressé. Pétales élargis à la base, plus étroits au milieu. Étamines larges à la base, plus étroites au sommet. Ovaire oblong, hirsute sauf à la base glabre; style 2 fois plus long que l'ovaire.
+Lianescent shrub, with slightly flexuous branches. Petiole weakly canaliculate, 3–4 mm long. Lamina glabrous on both surfaces, subcoriaceous, oblong, 8 × 3–4 cm; base obtuse; apex acuminate, weakly obtuse. Secondary nerves slightly ascending, 5–6 pairs, anastomosing far from the lamina margin. Tertiary veins in a reticulate network. Inflorescence a multiflorate axillary fascicle. Bracts at the base of pedicels semi-ovate, ciliolate. Pedicel 1 cm long. Floral bud yellow, oblong, 6 mm long, erect. Petals widened at the base, narrower in the middle. Stamens broad at the base, narrower at the apex. Ovary oblong, hirsute except at the base which is glabrous; style twice as long as the ovary.
 
 ## Type
 
@@ -29,9 +27,7 @@ Preuss 561, Barombi, Cameroun (holo-, B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Engler cite en outre du Zaïre cette espèce camerounaise.
+Engler furthermore cites this Cameroonian species from Zaïre.
 
 ## Notes
 

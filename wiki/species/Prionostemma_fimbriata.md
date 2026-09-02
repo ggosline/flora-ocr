@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Mus. natn. Hist. nat., Paris, 4 $ ^{e} $ sér., 3, B, Adansonia (1): 7 (1981).
+Bull. Mus. natn. Hist. nat., Paris, 4e sér., 3, B, Adansonia (1): 7 (1981).
 
 – Hippocratea fimbriata Exell, Journ. Bot. 65, suppl. 1: 79 (1927).
 
 - Simirestis fimbriata (Exell) Hallé ex Wilczek, FCB 9: 167 (1960); Hallé, Monogr.
 
-PL. 67. – Prionostemma fimbriata (Exell) Hallé : 1, fleur, diam. 11 mm ; 2, 3, sépales larges de 2,5-3,5 mm ; 4, coupe du disque, diam. 4 mm ; 5, 6, étamines ; 7, pistil avec loge ouverte (Le Testu 7895). - P. unguiculata (Loes.) Hallé : 8, jeune bouton ; 9, fleur, diam. 9 mm ; 10, coupe du disque, diam. 3,6 mm ; 11, 12, étamine ; 13, pistil avec loge ouverte (Hallé N. IA 3585, Côte-d'Ivoire). - P. delagoensis (Loes.) Hallé : 14, fleur, diam. 7 mm ; 15-17, sépales larges de 1,5-1,7 mm ; 18, coupe du disque, diam. 2,5 mm ; 19, 20, étamine ; 21-23, pistil et loges ouvertes (14, 16, 18-20, 23, Farron 4835, Congo ; 15, 21, Ndélé 538, Zaïre ; 17, 22, Evrard 6169, Zaïre).
+PL. 67. – Prionostemma fimbriata (Exell) Hallé : 1, flower, diam. 11 mm ; 2, 3, sepals 2.5–3.5 mm wide ; 4, section of disc, diam. 4 mm ; 5, 6, stamens ; 7, pistil with open locule (Le Testu 7895). - P. unguiculata (Loes.) Hallé : 8, young bud ; 9, flower, diam. 9 mm ; 10, section of disc, diam. 3.6 mm ; 11, 12, stamen ; 13, pistil with open locule (Hallé N. IA 3585, Côte-d'Ivoire). - P. delagoensis (Loes.) Hallé : 14, flower, diam. 7 mm ; 15–17, sepals 1.5–1.7 mm wide ; 18, section of disc, diam. 2.5 mm ; 19, 20, stamen ; 21–23, pistil and open locules (14, 16, 18–20, 23, Farron 4835, Congo ; 15, 21, Ndélé 538, Zaïre ; 17, 22, Evrard 6169, Zaïre).
 
 , nomen ; Bull. Mus. natn. Hist. nat., Paris, 2e sér., 30 (5) : 465 (1958) ; Bull. IFAN, sér. A, 21 (3) : tab. 53 (1959) ; Pollen & Spores 2 (1) : 11 (1960) ; Mém. IFAN 64 : 63 (1962).
 
-Liane atteignant 10 m, entièrement glabre, à rameaux et bois cylindriques (structure normale observée sur tige de 7 mm de diamètre). Pas de caoutchouc. Stipules réduites. Feuilles opposées. Pétioles de 6-12 mm. Limbe cartacé à subcoriace, olivacé à olivacé jaunâtre à sec, elliptique, de 5-18 × 2,5-8,5 cm ; base aiguë à obtuse ; sommet à acumen de (0)2-12 mm ; marge entière finement rebordée dessous. Nervures secondaires 5-7 paires longuement arquées ascendantes ; fin réseau souvent peu distinct.
+Liane reaching 10 m, entirely glabrous, with cylindrical branches and wood (normal structure observed on stem 7 mm in diameter). No rubber. Stipules reduced. Leaves opposite. Petioles 6–12 mm. Blade chartaceous to subcoriaceous, olivaceous to yellowish olivaceous when dry, elliptic, 5–18 × 2.5–8.5 cm ; base acute to obtuse ; apex with acumen (0)2–12 mm ; margin entire finely bordered beneath. Secondary veins 5–7 pairs, long and arcuate ascending ; fine reticulation often indistinct.
 
-Panicules plutôt lâches dépassant 20 cm, composées de cymes parfois subopposées sur le rachis, et parfois interrompues de feuilles ; axes cylindriques ; pédoncules des cymes longs de 2-5 cm. Tous les axes sont glabres ainsi que les pédicelles longs de 4-6 mm. Bouton vert subglobuleux de 3-4 mm de diamètre. Fleurs vertes de 9-12 mm de diamètre. Sépales 5 subcirculaires un peu inégaux, de 1,8-3,5 mm de largeur, à marge ciliée. Pétales 5 verts devenant brun clair en fin d'anthèse, onguiculés étroitement, à limbe concave circulaire cilié-fimbri, larges de 3-4 mm, à lanières marginales de 0,8-1,5 mm. Disque un peu cupuliforme dans le bouton puis étalé 5-lobé, de 4-6 mm de diamètre, marginé jusqu'à 1 mm de l'androcée. Filet rubané dépassant 2 mm ; anthère en chevron (environ 90°) large de 1,5 mm. Pistil pyramidal ; ovaire presque entièrement supérieur au disque ; 12-20 ovules par loge.
+Panicles rather lax, exceeding 20 cm, composed of cymes sometimes subopposite on the rachis, and sometimes interrupted by leaves ; axes cylindrical ; cyme peduncles 2–5 cm long. All axes glabrous as well as pedicels 4–6 mm long. Bud green, subglobose, 3–4 mm in diameter. Flowers green, 9–12 mm in diameter. Sepals 5, subcircular, somewhat unequal, 1.8–3.5 mm wide, with ciliate margin. Petals 5, green becoming pale brown at the end of anthesis, narrowly unguiculate, with concave circular ciliate-fimbriate limb, 3–4 mm wide, with marginal lobes 0.8–1.5 mm. Disc somewhat cupuliform in bud then spreading 5-lobed, 4–6 mm in diameter, margined up to 1 mm from the androecium. Filament ribbon-like exceeding 2 mm ; anther chevron-shaped (approximately 90°) 1.5 mm wide. Pistil pyramidal ; ovary almost entirely superior to the disc ; 12–20 ovules per locule.
 
-Fruit et graines non connus. – Pl. 67, fig. 1-7, p. 229.
+Fruit and seeds unknown. – Pl. 67, fig. 1–7, p. 229.
 
 ## Type
 
@@ -43,23 +41,21 @@ Zenker 2358, Cameroun (iso-, G, K, L, P!, BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Central African Republic (Tisserant 1239 and 1926), Zaïre and Cabinda ; Angola (?). In riparian forest.
 
-Cameroun, Gabon, Centrafrique (Tisserant 1239 et 1926), Zaïre et Cabinda ; Angola (?). En forêt ripicole.
+Sierra Leone (Small 868, Morton & Gledhill 1061, K), Côte-d'Ivoire, where the species is common in the lower coast (form with fringed petals), Ghana (Hall & Lock 43174) and Cameroon where the typical form with non-fringed petals has not been found since 1904. Search in Gabon. Plant of sublittoral, lagoonal or riparian forests. Distribution very discontinuous.
 
-Sierra Leone (Small 868, Morton & Gledhill 1061, K), Côté-d'Ivoire, où l'espèce est commune en basse côte (forme à pétales frangés), Ghana (Hall & Lock 43174) et Cameroun où la forme typique à pétales non frangés n'a pas été retrouvée depuis 1904. A rechercher au Gabon. Plante de forêts sublittorales, lagunaires ou ripicoles. Répartition très discontinue.
-
-MATÉRIEL ÉTUDIÉ (Cameroun):
+MATERIAL STUDIED (Cameroon):
 
 Zenker 2358, Bipindi, 4.1901 (fl.); 3034, ibid., 1904 (fl.).
 
 1 ter. Prionostemma delagoensis (Loesener) Hallé
 
-Bull. Mus. natn. Hist. nat., Paris, 4° sér., 3, B, Adansonia (1): 7 (1981).
+Bull. Mus. natn. Hist. nat., Paris, 4e sér., 3, B, Adansonia (1): 7 (1981).
 
 – Hippocratea delagoensis LOES., Bot. Jahrb. 34 : 119 (1904) ; Robson, FZ 2 : 406, (1966).
 
-- Simirestis delagoensis (LOES.) HALLÉ, Bull. Mus. natn. Hist. nat., Paris, 2° sér., 30 (5) : 465 (1958), nom. nud.
+- Simirestis delagoensis (LOES.) HALLÉ, Bull. Mus. natn. Hist. nat., Paris, 2e sér., 30 (5) : 465 (1958), nom. nud.
 
 ## Specimens examined
 

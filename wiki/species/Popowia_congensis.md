@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 44, tab. 17, A (1901).—Boutique, Fl. Congo Belge 2: 352 (1951).—Keay, F.W.T.A., ed. 2, 1, 1: 44 (1954).—Tisserant et Sillans, Not. Syst. 15: 353 (1958).—Paiva, Mem. Soc. Brot. 19: 43 (1966).
 
-Engler,Monogr.Afr.Pflanzenf.6 :44,tab.17,A(19o1).—Boutique,Fl. Congo Belge 2 :352 (1951).-Keay,F.W.T.A.,ed.2,1,I:44 (1954).- Tisserant et Sillans,Not.Syst. 15 :353 (1958).- Paiva,Mem.Soc. Brot.19 :43 (1966).
+Liane or shrub approximately 4 m tall; branches blackish, glabrescent, branchlets puberulent with appressed hairs. Internodes 1–4 cm long. Leaves with petiole 3–7 mm long, pubescent; blade membranous to papyraceous, discolorous, elliptic to elliptic-obovate, 4–15.5 cm long, 2–7 cm wide, rounded to subcordate at base, attenuate or shortly acuminate at apex, more rarely subrounded; upper surface glabrous with midrib ± pubescent; lower surface glaucous, with appressed, very scattered pubescence. Lateral veins 6–11 pairs, ending in arches near the margin.
 
-Liane ou arbuste de 4 m de hauteur environ;rameaux noiratres, glabrescents, ramilles pubérulentes â poils apprimes. Entrenceuds longs de 1-4 cm. Feuilles a pétiole long de 3-7 mm, pubescent; limbe membraneux á papyracé,discolore, elliptique ä elliptique-obové, long de 4-15,5 cm,large de 2-7 cm,arrondi a subcordé â la base,atténué ou courtement acuminé au sommet, plus rarement subarrondi; face supérieure glabre â nervure médiane ± pubescente;face inférieure glauque,a pubescence apprimée, tres clairsemée. Nervures latérales 6-11 paires, se terminant en arceaux pres de la marge.
+Flowers solitary, extra-axillary, with pedicel 4–12 mm long, pubescent, bearing towards the apex a subcordate, suborbicular bracteole, 2–2.5 mm long, 2.5–3 mm wide, pubescent on both surfaces. Floral buds globular-flattened. Sepals connate at base, broadly triangular to suborbicular, 2–2.5 mm long, 3–3.5 mm wide, pubescent on outside, glabrous on inside. Outer petals broadly obovate to suborbicular, 5–6 mm long, approximately 4 mm wide, pubescent on outside, puberulent on inside; inner petals smaller, obovate-circular, 4–5 mm long, 4 mm wide, puberulent on outside, glabrous on inside. Stamens 24, 2–3-seriate, ± cuneiform, 1–1.5 mm long; 1–1.2 mm wide, filaments short, anthers lateral-extrorse, connectives enlarged and thickened, scarcely exceeding the anthers. Carpels 12–13, 1.5–2 mm long, 0.5 mm wide, ovaries oblong, glabrous, styles short, bifid, glabrous. Ovules 5–6, lateral.
 
-Fleurs ,solitaires,extra-axillaires,a pédicelle long de 4- I2 mm,pubescent, muni vers le sommet d'une bractéole subcordée, suborbiculaire,longue de 2-2,5 mm,large de 2,5-3 mm, pubescente sur les deux faces. Boutons floraux globuleux-aplatis. Sépales soudés â la base, largement triangulaires ä suborbiculaires, longs de 2-2,5 mm,larges de 3-3,5 mm, pubescents a l'extérieur, glabres a 'intérieur.Pétales externes largement obovés á suborbiculaires, longs de 5-6 mm,larges de 4 mm environ, pubescents a I'extérieur, pubérulents á l'intérieur;pétales internes plus petits,obovéscirculaires,longs de 4-5 mm,larges de 4 mm,pubérulents á l'exté- rieur,glabres á l'intérieur. Etamines 24, 2-3-sériées,± cuneiformes, longues de I-1,5 mm; larges de 1-1,2 mm, filets courts, theques latérales-extrorses, connectifs élargis et épaissis,dépassant a peine les antheres. Carpelles I2-13,longs de 1,5-2 mm, larges de 0,5 mm,ovaires oblongs,glabres,styles courts,bifides,glabres. Ovules 5-6, latéraux.
-
-Fruits á pédicelle long de 1,2-3 cm,pubérulent,ä bractée persistante; méricarpes stipités, jaunes ou orangés á l'état frais, cylindriques moniliformes,contractés entre les graines; 1-5 articles oblongs, longs de 1,2-2,7 cm, larges de o,5-o,9 cm,glabres,a bourrelets longitudinaux ± marques, le dernier apiculé;stipes longs de 1,5 cm environ, glabrescents. Graines cylindriquesoblongues,longues de 1-1,7 cm,larges de o,6 cm.
+Fruits with pedicel 1.2–3 cm long, puberulent, with persistent bracteole; mericarps stipitate, yellow or orange when fresh, cylindric moniliform, contracted between seeds; 1–5 oblong articles, 1.2–2.7 cm long, 0.5–0.9 cm wide, glabrous, with ± marked longitudinal ridges, the last one apiculate; stipes approximately 1.5 cm long, glabrescent. Seeds cylindric-oblong, 1–1.7 cm long, 0.6 cm wide.
 
 ## Type
 
@@ -43,15 +41,13 @@ Welwitsch 761,Golungo Alto (lectotype LISU; isotypes K!,BM!; CO1)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of dense forest and forest galleries, widely distributed in Africa, from Sierra Leone to the Central African Republic and southwards to Congo-Kinshasa and Angola.
 
-Espece de foret dense et de galeries forestieres, largement répandue en Afrique,de la Sierra Leone á la République Centrafricaine et vers le Sud au Congo-Kinshasa et á PAngola.
+Very common in tropical Africa, it has nevertheless been collected only once in Gabon. To be sought.
 
-Trés commune en Afrique tropicale,elle n'a cependant été- récoltée qu'une seule fois au Gabon.A rechercher.
+Species of humid equatorial dense forest, distributed in Gabon, the Central African Republic and Congo-Kinshasa.
 
-Espéce de foret dense humide équatoriale,répandue au Gabon,en République centrafricaine et au Congo-Kinshasa.
-
-Espéce de foret dense humide et de galeries forestieres, présente du Cameroun ä la République Centrafricaine et vers le sud jusqu'a l'Angola. Fréquente dans le NE du Gabon, en forét dense humide et ripicole,associé a Monanthotaris Le-Testui Pellegrin.
+Species of humid dense forest and forest galleries, present from Cameroon to the Central African Republic and southwards to Angola. Frequent in the NE of Gabon, in humid dense and riparian forest, associated with Monanthotaxis Le-Testui Pellegrin.
 
 ## Specimens examined
 

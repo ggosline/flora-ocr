@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, Bol. Soc. Brot. 30 : 22 (1956).
 
-Rhizome épais, longuement rampant, à frondes espacées, Pétiole straminé, nu, long de 20-30 cm. Limbe à contour ovale, bipenné-tripinnatifide, à segments ultimes faisant un angle de  $ 45^{\circ} $ environ avec le rachis, les inférieurs pinnatifides à la partie inférieure seulement, à extrémité entière, linéaire, caudée; pennes tripennées, à pinnules entières, linéaires. Nervures plusieurs fois pennées. Surfaces sub-glabres, glanduleuses. Indusie finement et irrégulièrement dentée.
+Rhizome thick, extensively creeping, with fronds widely spaced. Petiole stramineous, naked, 20–30 cm long. Lamina ovate in outline, bipinnate-tripinnatifid, with ultimate segments making an angle of approximately $ 45^{\circ} $ with the rachis, the lower ones pinnatifid only in the lower part, with entire, linear, caudate apex; pinnae tripinnate, with entire, linear pinnules. Venation several times pinnate. Surfaces subglabrous, glandular. Indusium finely and irregularly toothed.
 
 ## Type
 
@@ -34,11 +32,9 @@ Hens 59, Congo Belge (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Related to the American species Pteridium caudatum. Differs from Pteridium aquilinum by its segments of the ultimate order entire or pinnatifid at the base only, its subglabrous lamina.
 
-Voisin de l'espèce américaine Pteridium caudatum. Diffère du Pteridium aquilinum par ses segments de dernier ordre entiers ou pinnatifides à la base seulement, son limbe subglabre.
-
-Angola, Congo, Rhodésie.
+Angola, Congo, Rhodesia.
 
 ## Specimens examined
 

@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 var. klaineana
 
-Liane à tige striée longitudinalement glabre ou courtement pubescente. Rhytidome marron ± grisâtre. Pétiole pubescent, long de 6-12 cm, strié dessus, côtelé strié dessous. Limbe glabre dessus, densément pubescent à tomenteux dessous, gris noir à la face supérieure, gris clair à la face inférieure, largement ovale suborbiculaire, 10-19 × 6,5-14,5 cm; base cordée, sommet aigu ou courtement acuminé. Nervation palmée à 5 nervures principales saillantes sur les deux faces, pubescentes à la face inférieure. Nervures secondaires 2-4 paires, ascendantes, arquées, s'anastomosant à 5-6 mm du bord du limbe, saillantes pubescentes à la face inférieure. Hydathodes piriformes, pubescens à la base, saillants à la face inférieure au niveau des anastomoses. Nervilles en réseau ± dense saillant sur les deux faces et pubescents dessous.
+Liane with stem longitudinally striated, glabrous or shortly pubescent. Rhytidome brown ± greyish. Petiole pubescent, 6–12 cm long, striated above, ribbed striated below. Blade glabrous above, densely pubescent to tomentose below, dark grey on the upper face, light grey on the lower face, broadly ovate suborbicular, 10–19 × 6.5–14.5 cm; base cordate, apex acute or shortly acuminate. Venation palmate with 5 principal veins prominent on both faces, pubescent on the lower face. Secondary veins 2–4 pairs, ascending, arched, anastomosing 5–6 mm from the blade margin, prominent pubescent on the lower face. Hydathodes piriform, pubescent at the base, prominent on the lower face at the level of the anastomoses. Veinlets in ± dense network prominent on both faces and pubescent below.
 
-Inflorescence en fascicule de grappes multiflores longues de 5-10 cm, sur le vieux bois. Fleurs ♂ trimères, 1 × 1,5 mm. Pédicelle porteur d'une bractéole à sa base. Calice absent. Pétales libres, courtement et éparsement pubescents extérieurement, glabres intérieurement, ovales, 1 × 1,5 mm; sommet aigu réfléchi vers l'intérieur de la corolle. Étamines 3 libres, dressées, gynobasiques; filet courbe long de 1,5 mm; anthère à 2 loges ovoïdes. Pistillode réduit à une touffe de poils. Fleurs ♀ trimères ou tétramères, 2 × 1,5 mm. Pédicelle présent. Calice absent. Pétales éparsement pubescents extérieurement et glabres intérieurement, elliptiques ou lancéolés, 1 × 0,7 mm; sommet aigu. Staminodes alternipétales. Pistil long de 2 mm; ovaire ellipsoïde pubescent; style court et large se terminant par un stigmate en plateau à 5 lobes digités.
+Inflorescence in fascicles of multiflorous racemes 5–10 cm long, on old wood. Male flowers trimerous, 1 × 1.5 mm. Pedicel bearing a bracteole at its base. Calyx absent. Petals free, shortly and sparsely pubescent externally, glabrous internally, ovate, 1 × 1.5 mm; apex acute reflexed towards the interior of the corolla. Stamens 3 free, erect, gynobasic; filament curved 1.5 mm long; anther with 2 ovoid locules. Pistillode reduced to a tuft of hairs. Female flowers trimerous or tetramerous, 2 × 1.5 mm. Pedicel present. Calyx absent. Petals sparsely pubescent externally and glabrous internally, elliptic or lanceolate, 1 × 0.7 mm; apex acute. Staminodes alternipetalous. Pistil 2 mm long; ovary ellipsoid pubescent; style short and broad terminating in a plateau-like stigma with 5 digitate lobes.
 
-Drupe pubescente ellipsoïde à endocarpe ligneux garni d'aiguillons à sa face interne. Graine ellipsoïde aplatie transversalement. PL. 16, p. 71.
+Drupe pubescent ellipsoid with woody endocarp furnished with prickles on its inner face. Seed ellipsoid flattened transversely. PL. 16, p. 71.
 
 ## Type
 
@@ -33,11 +31,9 @@ Klaine 1051, Gabon (holo-, P!, iso-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is found in ombrophilous forests and forest regrowth from Côte d'Ivoire to Cabinda.
 
-Cette espèce se rencontre dans les forêts ombrophiles et les recrus forestiers depuis la Côte d'Ivoire jusqu'au Cabinda.
-
-PROPRIÉTÉS : Cette liane dégage une forte odeur désagréable.
+PROPERTIES: This liane emits a strong unpleasant odour.
 
 ## Specimens examined
 

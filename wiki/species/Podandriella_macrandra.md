@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Podandria macrandra (Lindl.) Rolfe, FTA 7 : 206 (1898).
 
 – Habenaria stenorhynchus Kraenzl., Bot. Jahrb. Syst. 33 : 55 (1902), non Schlechter.
 
-Tige 15-(55) 80 cm, dressée, glabre. Feuilles groupées à la base de la tige, pétiolées, 5-24 × 2,5-6 cm, elliptiques-ovées à elliptiques-lancéolées ou lancéolées, acuminées. Inflorescence 4-19 cm, 2-11-flore. Fleurs blanches, sommet des épales verdâtre, éperon vert. Sépale dorsal étroitement oblong-lancéolé, aigu ; sépales latéraux obliquement lancéolés, acuminés. Pétales linéaires à filiformes, acuminés. Labelle trilobé presque depuis la base, pendant ; lobes filiformes : le médian aigu, parfois linéaire, les latéraux acuminés. Éperon pendant, base filiforme, sommet un peu renflé, subaigu. - Pl. 20, p. 49.
+Stem 15–(55) 80 cm, erect, glabrous. Leaves clustered at the base of the stem, petiolate, 5–24 × 2.5–6 cm, elliptic-ovate to elliptic-lanceolate or lanceolate, acuminate. Inflorescence 4–19 cm, 2–11-flowered. Flowers white, apex of sepals greenish, spur green. Dorsal sepal narrowly oblong-lanceolate, acute; lateral sepals obliquely lanceolate, acuminate. Petals linear to filiform, acuminate. Labellum three-lobed almost from the base, pendent; lobes filiform: the median acute, sometimes linear, the lateral ones acuminate. Spur pendent, base filiform, apex somewhat inflated, subacute. - Pl. 20, p. 49.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Centrafrique, Congo (Kinshasa), Angola, Ouganda, Tanzanie, Malawi, Zimbabwe, Mozambique
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Central African Republic, Congo (Kinshasa), Angola, Uganda, Tanzania, Malawi, Zimbabwe, Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 350–1500 m. Evergreen forest, dense riparian, semi-deciduous with Sterculiaceae-Ulmaceae, forest gallery
 
-alt. 350-1500 m. Forêt sempervirente, ripicole dense, semi-décidue à Sterculiaceae-Ulmaceae, galerie forestière
+MATERIAL EXAMINED (Map 7) :
 
-MATÉRIEL ÉTUDIÉ (Carte 7) :
+Hallé 3516, s.loc., P! ; 6045, East of Moumba (fl., May), P! ; s.n., Bélinga, P-icon.
 
-Hallé 3516, s.loc., P! ; 6045, Est de Moumba (fl., Mai), P! ; s.n., Bélinga, P-icon.
-
-Le spécimen Thollon 1084, « Gabon. Congo », « Région du Niari, de Brazzaville à Comba » (fl., Juin), P!, provient du Congo (Brazzaville) actuel alors que le Thollon 4066 « Gabon. Congo », s.loc., P!, peut provenir soit du Gabon soit du Congo (Brazzaville) dans leur frontières actuelles.
+The specimen Thollon 1084, "Gabon. Congo", "Niari Region, from Brazzaville to Comba" (fl., June), P!, originates from present-day Congo (Brazzaville) whereas Thollon 4066 "Gabon. Congo", s.loc., P!, may originate from either Gabon or Congo (Brazzaville) within their present-day borders.
 
 ## Figures
 

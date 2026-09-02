@@ -24,15 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Leptostachya virens Nees, DC, Prodr. II : 378 (1847).
 
-Plante glabrescente, à parties nouvelles seules finement pubescentes, à tiges rondes un peu striées. Pétioles de 2-25 mm de long. Limbe des feuilles ovale-lancéolé, acuminé-cuspide, très aigu à la base, de 5-17 × 2-5,5 cm, glabre en dessus, finement pubescent sur le dessous des nervures des jeunes feuilles. 7 paires de nervures latérales.
+Plant glabrescent, with new parts alone finely pubescent, with stems rounded and somewhat striate. Petioles 2–25 mm long. Leaf blade ovate-lanceolate, acuminate-cuspidate, very acute at base, 5–17 × 2–5.5 cm, glabrous above, finely pubescent on the underside of the veins of young leaves. 7 pairs of lateral veins.
 
-Inflorescences terminales et axillaires  $ \pm $ condensées ou
-
-subfasciculées; 1-3 fleurs par fascicule; pédoncules de 8-65 mm, finement pubescents ainsi que bractées, bractéoles et calice. Bractées subulées-filiformes, de 2-3 × 0,2 mm. Bractéoles très semblables mais plus petites, atteignant 2 mm. Fleurs sessiles; calice de 4-6 mm, à lobes longs de 3-4 mm. Corolle blanche ou rose-violacé, hypocratéiforme; tube cylindrique, finement pubescent à l'extérieur, de 12-16 × 1,5 mm; lèvre supérieure entière triangulaire-ovale de 3,5 × 3 mm; lèvre inférieure trilobée, à lobes latéraux de 2 × 1,5 mm environ, et lobe central de 2,5 × 2 mm. Filets glabres. Style de 12 mm de long, grêle.
+Inflorescences terminal and axillary ± condensed or subfasciculate; 1–3 flowers per fascicle; peduncles 8–65 mm, finely pubescent as are the bracts, bracteoles and calyx. Bracts subulate-filiform, 2–3 × 0.2 mm. Bracteoles very similar but smaller, reaching 2 mm. Flowers sessile; calyx 4–6 mm, with lobes 3–4 mm long. Corolla white or rose-violet, hypocrateriform; cylindrical tube, finely pubescent on the outside, 12–16 × 1.5 mm; upper lip entire triangular-ovate 3.5 × 3 mm; lower lip three-lobed, with lateral lobes about 2 × 1.5 mm, and central lobe 2.5 × 2 mm. Filaments glabrous. Style 12 mm long, slender.
 
 ## Type
 
@@ -40,9 +36,7 @@ Middleton s. n. (1787), Gabon (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée occidentale, Sierra-Leone, Liberia, Côte-d'Ivoire, Ghana, S. Nigeria, Cameroun, Gabon, San-Tomé, Principe, Congo.
+Western Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, S. Nigeria, Cameroon, Gabon, São Tomé, Príncipe, Congo.
 
 ## Specimens examined
 

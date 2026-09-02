@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. Museum Paris: 656 (1920); Fl. Mayombe, Mém. Soc. Linn. Normand. 26: 16, tab. 5, fig. 1-3 (1924); Bull. Soc. Bot. Fr. 94: 257 (1947).
 
-Bull. iluséum Paris : 656 (192o);Fl.Mayombe,Mém. Soc.Linn.Normand. 26 : 16,tab.5,fig.1-3 (1924);Bull. Soc.Bot.Fr.94 : 257 (1947).
+Liane with striated, rusty pubescent branches, with short divaricate hairs, mixed with long hirsute hairs. Leaves with very short petiole, approximately 2 mm in length, densely rusty pubescent; blade elliptic-oblong to oblong, 8-15 cm long, 3.5-6 cm wide, rounded and slightly cordate at the base, acuminate at the apex; upper face shiny, glabrous except on the midvein furnished with a few scattered hairs at the base, lower face velvety to the touch, pubescent with rusty hairs. Midvein impressed above, prominent below. Lateral veins 9-10 pairs, obliquely ascending, united in arches near the margin.
 
-Liane ä rameaux striés,pubescents roux, ä poils courts divariqués，mélangés de longs poils hirsutes. Feuilles ä pétiole tres court,2 mm de longueur environ， densément pubescent roux; limbe elliptique-oblong a oblong,long de 8-15 cm,large de 3,5-6 cm, arrondi et légerement cordé â la base,acuminé au sommet；face supérieure luisante,glabre sauf sur la nervure médiane munie de quelques poils épars a la base, face inférieure veloutée au toucher, pubescente ä poils roux. Nervure médiane imprimée au-dessus, saillante en dessous. Nervures latérales 9-1o paires,obliques ascendantes, réunies en arceaux pres de la marge.
+Flowers generally solitary, opposite to the leaves. Pedicel arched, cylindric, not thickened, 10-15 mm long, rusty villous. Bract 1, foliaceous, suborbicular, cordate at the base, apiculate at the apex, 1 cm long, 1-1.2 cm wide, pubescent on the exterior, puberulent on the interior. Sepals broadly triangular-ovate, 15-18 mm long, 11-12 mm wide, acute at the apex, with well-visible longitudinal veins and rusty villous on the exterior, puberulent on the interior. Petals subequal, villous on both faces, except at the internal base; base broadly triangular-ovate, concave, 15-20 mm long, 10-15 mm wide; blade in flattened flagellate form, linear acute, 4-5 cm long, 3 mm wide, marked with an external longitudinal costa. Stamens very numerous, subsessile, prismatic, 2.5-3 mm long, thecae linear extrorse, connectives thickened, rounded above the anthers, puberulent and furnished with two small internal lateral mucrons. Carpels numerous, immersed in the receptacle, fused, forming a cone; ovaries very short, approximately 0.5 mm, styles flagellate, 3-4 mm long, stigmas hairy. 1 basal erect ovule. Receptacle convex, very thick.
 
-Fleurs en général solitaires,opposées aux feuilles.Pédicelle arqué，cylindrique,non épaissi， long de Io-15 mm，velu roux. Bractee 1, foliacée,suborbiculaires,cordée ä la base,apiculée au sommet, longue de I cm,large de I-1,2 cm,pubescente á l'exté- rieur,pubérulente ä l'intérieur. Sépales largement triangulairesovés,longs de 15-18 mm,larges de 11-12 mm,aigus au sommet,a nervures longitudinales bien visibles et velus roux ä l'extérieur, pubérulents á 'intérieur. Pétales subégaux, velus sur les deux faces，sauf a la base interne；base largement triangulaire-ovée, concave,longue de 15-2o mm,large de 1o-15 mm;limbe en fagelle aplati, lineaire aigu, long de 4-5 cm, large de 3 mm, marqué d'une cote longitudinale externe.Etamines tres nombreuses,subsessiles, prismatiques, longues de 2,5-3 mm, theques linéaires extrorses, connectifs épaissis,arrondis au-dessus des antheres,duvetés et munis de deux petits mucrons latéraux internes.Carpelles nombreux，immergés dans le réceptacle,soudés,formant un cone; ovaires tres courts，o,5 mm environ，styles flagellés,longs de 3-4 mm,stigmates chevelus. I ovule basilaire dressé.Réceptacle convexe,tres épais.
+Fruits unknown.
 
-Fruits inconnus.
+Type and only material studied:
 
-Type et seul matériel étudié ：
+Le Testu 1432, Moabissako, in a humid and narrow gorge on the road from Massanga to Moabissako, fl., Oct. (holotype P!).
 
-Le Testu I432,Moabissako,dans une gorge humide et resserrée sur la route de Massanga ä Moabisako,fl.,oct. (holotype P!).
+This beautiful liane with large yellowish flowers seems quite rare since it has never been found again in Gabon. The few pieces of information given on the collector's label suggest that its ecology could be limited to a very particular habitat. Species to be sought in the Tchibanga region.
 
-Cette belle liane ä grandes fleurs jaunatres,semble assez rare puisqu'elle n'a jamais été retrouvée au Gabon. Les quelques renseignements donnés sur l'étiquette du collecteur laissent penser que son écologie pourrait se limiter á un milieu tres particulier. Espéce ä rechercher dans la région de Tchibanga.
-
-P1.58.-Pseudartabotrys Le-Testui Pellegrin (Le Testu 1'32):1,feuilles et fleur X 2/3;2,detail dela feuille,face inférieure × 3; 3,bouton floral gr.nat.;4,sepale, face externe gr.nat.;5,pétale externe gr.nat.;6, pétale interne gr.nat.；7, fleur pétales enlevés X 2;8,coupe de la fleur × 3;9,étamine,face externe et profil × 4; 10,carpelle ×6.
+Pl. 58. — *Pseudartabotrys Le-Testui* Pellegrin (Le Testu 1432): 1, leaves and flower × 2/3; 2, detail of the leaf, lower face × 3; 3, floral bud nat. size; 4, sepal, external face nat. size; 5, external petal nat. size; 6, internal petal nat. size; 7, flower petals removed × 2; 8, section of the flower × 3; 9, stamen, external face and profile × 4; 10, carpel × 6.
 
 ## Notes
 

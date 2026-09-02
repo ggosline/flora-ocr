@@ -24,11 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 42, tab. 16 C (1901). – Pellegrin, Bull. Soc. Bot. Fr., Mém. 31: 67 (1949). – Boutique, Fl. Congo Belge 2: 339 (1951). – Keay, F.W.T.A., ed. 2, I: 43 (1954). – Tisserant et Sillans, Not. Syst. 15: 354 (1958). – R. E. Fries in Engl. et Prantl, Nat. Pflanzenf., ed. 2, 17 a, 2: 94 (1959). – Keay et al., Nigerian trees I: 42 (1960). – Walker et Sillans, Enc. Biol. 56: 70 (1961). – Paiva, Mem. Soc. Brot. 19: 33 (1966). – Le Thomas, Adansonia, ser. 2, 5: 452 (1965). = Polyalthia acuminata Oliver, F.T.A. 1: 26 (1868) quoad Thomson 109. = Polyalthia Oliveri auct.: Engler et Diels, l.c.: 42, pro parte, quoad spec. camerounensis et tab. 16 B (1901), non Engl. et Diels.
 
-Engler,Monogr.Afr.Pflanzenf.6:42,tab.16 C (19o1).- Pellegrin,Bull. Soc.Bot.Fr.,Mém.31 :67 (1949).— Boutique,Fl.Congo Belge 2 : 339 (1951).- Keay,F.W.T.A.,ed. 2,I : 43 (1954).— Tisserant et Sillans, Not. Syst. 15 :354 (1958). - R. E. Fries in Engl.et Prantl, Nat. Pflanzenf.,ed. 2,17 a,2 :94 (1959).- Keay et al.,Nigerian trees I : 42(196o).—Walker et Sillans,Enc.Biol.56 :7o (1961).— Paiva,Mem. Soc.Brot.19:33 (1966).—Le Thomas,Adansonia,ser.2,5:452 (1965). 二 Polyalthia’ acuminata Oliver,F.T.A.I :26(1868)quoad Thomson 109. = Polyalthia Oliveri auct.: Engler et Diels,l.c.: 42,pro parte,quoad spec. camerounensis et tab.i6 B (I9oI),non Engl.et Diels.
-
-- Xylopia otunga Exell, Journ. Bot.69.: 99 (1931).
+- Xylopia otunga Exell, Journ. Bot. 69: 99 (1931).
 
 ## Notes
 

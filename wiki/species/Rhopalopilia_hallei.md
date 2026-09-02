@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2–2.5 m tall. Branchlets pubescent, greenish-brown. Petiole pubescent, 1–2 mm long. Blade glabrous above, sparsely pubescent below, dark green above, greyish-green below, lanceolate-oblong, 1.8–5 × 1.2–1.7 cm; upper surface often verrucose; base cordate, apex acuminate (acumen terminating in an abrupt point). Midvein prominent, pubescent on both surfaces. Secondary veins 5–7 pairs, ascending, arcuate, anastomosing 2–3 mm from the blade margin, prominent on both surfaces, pubescent on the lower surface. Tertiary veins in a loose reticulum prominent on both surfaces.
 
-Arbuste haut de 2-2,5 m. Rameaux pubescents marron verdâtre. Pétiole pubescent, long de 1-2 mm. Limbe glabre dessus, éparsement pubescent dessous, marron vert dessus, vert grisâtre dessous, lancéolé-oblong, 1,8-5 × 1,2-1,7 cm; surface supérieure souvent verruqueuse; base cordée, sommet acuminé (acumen se terminant en pointe abrupte). Nervure médiane saillante, pubescente sur les deux faces. Nervures secondaires 5-7 paires, ascendantes, arquées, s'anastomosant à 2-3 mm du bord du limbe, saillantes sur les deux faces, pubescentes à la face inférieure. Nervilles en réseau lâche saillant sur les deux faces.
+Inflorescences in rather lax, many-flowered racemes solitary or fascicled by 2, axillary, 1–2.3 cm long. Inflorescence rachis pubescent, thickened at the level of the floral pedicels. Pedicels pubescent, articulate at the base, 1–2 mm long. Bracts lanceolate, pubescent on the outer surface, acute at the apex. Floral buds spherical. Flowers tetramerous, yellowish-green when fresh. Receptacle cupuliform 2 mm in diameter, pubescent externally, terminated by 4 calyx teeth. Petals pubescent externally, glabrous internally, reflexed, free from each other, adnate to the upper margin of the receptacle, triangular, $ 1.5 \times 1.25 $ mm, obtuse at the apex. Disk formed of fleshy glands weakly connate with each other. Stamens epipetalous with subhorizontal filament 0.4 mm long; anthers medifixed 0.5 mm long, with longitudinal dehiscence slits. Ovary conical 0.75 mm long, unilocular, uniovulate (ovule pendulous from an erect central placenta). Style short terminated by a stigma with 4 papillae.
 
-Inflorescences en grappes assez lâches multiflores solitaires ou fasciculées par 2, axillaires, longues de 1-2,3 cm. Rachis inflorescentiel pubescent, épaissi au niveau des pédicelles floraux. Pédicelles pubescents, articulés à la base, longs de 1-2 mm. Bractées lancéolées, pubescentes à la face externe, aiguës au sommet. Boutons floraux sphériques. Fleurs tétramères, jaune vert à l'état frais. Réceptacle cupuliforme de 2 mm de diamètre, pubescent extérieurement, terminé par 4 dents calciformes. Pétales pubescents extérieurement, glabres intérieurement, réfléchis, libres entre eux, soudés au bord supérieur du réceptacle, triangulaires,  $ 1,5 \times 1,25 $ mm, obtus au sommet. Disque formé de glandes charnues faiblement soudées entre elles. Étamines épipétales à filet subhorizontal long de 0,4 mm; anthères médifixes longues de 0,5 mm, à fentes de déhiscence longitudinales. Ovaire conique long de 0,75 mm, uniloculaire, uniovulé (ovule pendant d'un placenta central dressé). Style court terminé par un stigmate à 4 mamelons.
-
-Fruit inconnu. PL. 38, p. 175.
+Fruit unknown. PL. 38, p. 175.
 
 ## Type
 
@@ -31,9 +29,7 @@ Hallé N. 2060, Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que du Gabon.
+This species is known only from Gabon.
 
 ## Specimens examined
 

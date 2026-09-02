@@ -15,27 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace , jusqu’à 30 cm de hauteur ; tige rampante, s’enracinant aux nœuds , mince, quadrangulaire, pubescente à villeuse à poils non glanduleux étalés et dirigés vers le bas, concentrés sur des faces opposées, devenant plus denses vers le sommet. Feuille : pétiole 5–15 mm ; limbe rhombique, de 1,5–3 × 1,2–2 cm, atténué à la base, aigu à l’apex, profondément crénelé (presque lobé) , avec 10(à 20) dents , peu villeux à glandes sessiles dessous. Inflores cence condensée ; verticillastres avec 10 à 12 fleurs, espacés de 3–4 mm ; bractées longues de 2–3 mm, légèrement décolorées à la base. Fleur : pédicelle ± 1 mm ; calice urcéolé , long de 1 mm à l’anthèse et de 3–3,5 mm en fruit, à nervures saillantes, lobe supérieur oblong, arrondi à tronqué à l’apex, accrescent, courtement décurrent, lobes latéraux petits, deltoïdes ou courts et oblongs, rapprochés du lobe supérieur, lèvre inférieure arrondie, entière, verticale, fermante la gorge ; corolle longue de 3 mm, blanche.
+Perennial herb, up to 30 cm tall; stem creeping, rooting at the nodes, slender, quadrangular, pubescent to villous with non-glandular hairs spreading and directed downward, concentrated on opposite faces, becoming denser toward the apex. Leaf: petiole 5–15 mm; blade rhombic, 1.5–3 × 1.2–2 cm, attenuate at the base, acute at the apex, deeply crenate (almost lobed), with 10 (to 20) teeth, sparsely villous with sessile glands beneath. Inflorescence condensed; verticillasters with 10 to 12 flowers, spaced 3–4 mm apart; bracts 2–3 mm long, slightly discolored at the base. Flower: pedicel ± 1 mm; calyx urceolate, 1 mm long at anthesis and 3–3.5 mm in fruit, with prominent veins, upper lobe oblong, rounded to truncate at the apex, accrescent, shortly decurrent, lateral lobes small, deltoid or short and oblong, close to the upper lobe, lower lip rounded, entire, vertical, closing the throat; corolla 3 mm long, white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigéria, Cameroun, Gabon et Tanzanie : au Gabon : Moyen-Ogooué, Ogooué–Lolo et Ogooué-Maritime. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC) ; enregistré comme Vulnérable (VU) au Cameroun
+Ghana, Nigeria, Cameroon, Gabon and Tanzania: in Gabon: Moyen-Ogooué, Ogooué–Lolo and Ogooué-Maritime. Conservation status: Widely distributed; probably Least Concern (LC); recorded as Vulnerable (VU) in Cameroon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts, lisières forestières, zones marécageuses, marais ; au Gabon à 0–200 m d’altitude, jusqu’à 1150 m ailleurs
+Forests, forest margins, swampy areas, marshes; in Gabon at 0–200 m elevation, up to 1150 m elsewhere
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Des spécimens récemment identifiés à K (Paton et al. , 2009) permettent d’étendre la distribution géographique de l’espèce au Ghana et au Nigéria. B : Paton (1997b), Paton et al. (2009), Pollard (2004b), Vande weghe et al . (2016). i B liographie
+Recently identified specimens at K (Paton et al., 2009) make it possible to extend the geographic distribution of the species to Ghana and Nigeria. B: Paton (1997b), Paton et al. (2009), Pollard (2004b), Vandeweghe et al. (2016). Bibliography
 
 ## Notes
 

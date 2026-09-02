@@ -21,7 +21,7 @@ Adansonia, ser. 3, 32(2): 216 (2011). Shrub 1.75–3.5 m tall; bark grey, longit
 
 ## Distribution
 
-Equatorial Guinea and Gabon where it was collected in the Estuary (Cristal Mountains) and the bordering region of Woleu-Ntem
+Equatorial Guinea and Gabon where it was collected in the Estuaire (Cristal Mountains) and the bordering region of Woleu-Ntem
 
 ## Ecology
 

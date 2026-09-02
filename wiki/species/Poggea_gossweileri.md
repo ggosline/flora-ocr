@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+SLEUMER, EBJ 94 (3): 297 (1974). TYPE: Gossweiler 7195, Angola (holo-, iso-).
 
-SLEUMER, EBJ 94 (3): 297 (1974). TYPE : Gossweiler 7195, Angola (holo-, iso-).
+Shrub (1-5 m tall); branchlets tomentose.
 
-Arbuste (1-5 m de haut) ; rameaux tomenteux.
+Leaves with stipules narrowly ovate-acuminate, 6-10 × 1.5-2.5 mm, tomentose, often caducous; petiole 0.5-1.5 mm long, tomentose; blade obovate, attenuate at base, acuminate at apex, 10-33 × 4-15 cm, dentate to denticulate-mucronate, papyraceous, pubescent to tomentose below, sparsely pubescent above; secondary veins 8-13 pairs.
 
-Feuilles à stipules étroitement ovales-acuminées, 6-10 × 1,5-2,5 mm, tomenteuses, souvent caduques ; pétiole de 0,5-1,5 mm de long, tomenteux ; limbe obovale, atténué à la base, acuminé au sommet, 10-33 × 4-15 cm, denté à denticulé-mucroné, papyracé, pubescent à tomenteux en dessous, éparsement pubescent en dessus ; nervures secondaires 8-13 paires.
+Flowers ¥; pedicel 0.5-3 cm long, tomentose; sepals 3, oblong to suborbicular, 8-10 × 5-8 mm, tomentose externally, glabrous internally; petals 10-12-(16), obovate, unguiculate, 10-15 × 3-7 mm, puberulent internally; stamens numerous (60-80), with filament 8-11 mm long; anthers 1-1.5 mm long; ovary tomentose, with 2-3 placentas pluriovulate; style entire, 5-8 mm long, pubescent.
 
-Fleurs ¥ ; pédicelle de 0,5-3 cm de long, tomenteux ; sépales 3, oblongs à suborbiculaires, 8-10 × 5-8 mm, tomenteux extérieurement, glabres intérieurement ; pétales 10-12-(16), obovales, onguiculés, 10-15 × 3-7 mm, pubérulents intérieurement ; étamines nombreuses (60-80), à filet de 8-11 mm de long ; anthères dc 1-1,5 mm de long ; ovaire tomenteux, à 2-3 placentas pluriovulés ; style entier, de 5-8 mm de long, pubescent.
-
-Fruits : capsules 4-6-ailées, pubescentes ; graines 5-8, anguleuses, 6 × 4 mm. - Pl. 10, 1-7, p. 37.
+Fruits: capsules 4-6-winged, pubescent; seeds 5-8, angular, 6 × 4 mm. - Pl. 10, 1-7, p. 37.
 
 ## Type
 
@@ -35,15 +33,11 @@ Gossweiler 7195, Angola, Cabinda (holo-, BM ; iso-, COI, LIS, LISJC, LISU)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo, Zaïre, Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses
+Dense forests
 
 ## Specimens examined
 

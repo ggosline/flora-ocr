@@ -22,21 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+and Journ. de Bot. 2e série, II : 209. — CHEV. Sudania, 35 (1911). — POBÉGUIN, Ess. Fl. Guin. fr., 216 (1906).
 
-et Journ. de Bot. 2e série, II : 209. — CHEV. Sudania, 35 (1911). — POBÉGUIN, Ess. Fl. Guin. fr., 216 (1906).
+Perennial, up to 2 m tall. Culms glabrous, pruinose; sheaths prolonged by auricles approximately 2 mm long. Blades linear, glaucous, glabrous, potentially exceeding 50 cm long and 6 mm wide.
 
-Pérenne, jusqu'à 2 m de haut. Chaumes glabres, pruineux; gaines prolongées par des auricules d'environ 2 mm de long. Limbes linéaires, glauques, glabres, pouvant dépasser 50 cm de long et 6 mm de large.
+Inflorescence a large loose panicle up to 60 cm long. Spatheoles linear, 5 cm long or more, peduncles eventually exceeding them slightly, curved and bearing long hairs with tubercled base toward the apex. Racemes eventually reflexed, up to 2.5 cm long with up to 11 spikelets per pair, the lower sessile, the upper very shortly pedunculate, both bases pubescent on the inner faces. Joints and pedicels approximately 3 mm long, densely ciliate. One pair of homogamous spikelets at the base of the lower raceme.
 
-Inflorescence en grande panicule lâche jusqu'à 60 cm de long. Spathéoles linéaires de 5 cm de long ou plus, pédoncules les dépassant finalement un peu, recourbés et munis vers le sommet de longs poils à base tuberculée. Racèmes finalement réfractés, jusqu'à 2,5 cm de long avec jusqu'à 11 arêtes par paire, l'inférieur sessile, le supérieur très courtement pédonculé, les deux bases
+Fertile spikelets 4 to 6 mm long, bluish and red toward the apex. Lower glume more or less pubescent with 9 nerves, upper glume ciliate toward the apex. Awn of the fertile floret 2.5 to 3.5 cm long, column pubescent rusty. Pedicellate spikelets approximately 6 mm long, reddish, lower glume with 11 nerves.
 
-pubescentes sur les faces internes. Joints et pédicelles d'environ 3 mm de long, densément ciliés. Une paire d'épillets homogames à la base du racème inférieur.
+Species recorded in Guinea, Niger, Cameroon, Congo and by Koechlin in Gabon in the savannas of the Nyanga.
 
-Épilets fertiles de 4 à 6 mm de long, bleuâtres et rouges vers le sommet. Glume inférieure plus ou moins pubescente à 9 nervures, glume supérieure ciliée vers le sommet. Arête de la fleur fertile de 2,5 à 3,5 cm de long, colonne pubescente rousse. Épilets pédicellés d'env. 6 mm de long, rougeâtres, glume inférieure à 11 nervures.
-
-Espèce signalée en Guinée, Niger, Cameroun, Congo et par Koechlin au Gabon dans les savanes de la Nyanga.
-
-Sur alluvions fraîches et argileuses; pâturage de bonne qualité.
+On fresh alluvial and clayey soils; good quality pasture.
 
 ## Notes
 

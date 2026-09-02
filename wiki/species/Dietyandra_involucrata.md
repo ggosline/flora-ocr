@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 20, p. 89)
 
-Arbuste de 4-8 m de hauteur dépassant 10 cm de diamètre. Entrenœuds glabres comprimés et sillonnés sous les stipules. Stipules amples, orbiculaires, réfractées, glabres, larges de 5-20 mm. Pétiole de (0,5) 1-4 cm, micropubérulent ou glabre. Feuilles souvent inégales vers les extrémités florifères. Limbe elliptique de 8-22 (35) × 4-11 (20) cm, glabre ou finement pubérulent dessus, notamment aux principales aisselles nervaires; base aiguë; sommet atténué acuminé. Nervures ± pubescentes à la face inférieure; aisselles à domaties finement velues. 7-12 (15) paires de nervures secondaires; nervures intersecondaires saillantes, assez régulièrement espacées et coudées au milieu.
+Shrub 4–8 m tall exceeding 10 cm in diameter. Internodes glabrous, compressed and furrowed beneath the stipules. Stipules ample, orbicular, refracted, glabrous, 5–20 mm wide. Petiole (0.5) 1–4 cm, micropubescent or glabrous. Leaves often unequal toward the flowering extremities. Blade elliptic 8–22 (35) × 4–11 (20) cm, glabrous or finely pubescent above, notably at the principal nerve axils; base acute; apex attenuate-acuminate. Nerves ± pubescent on the lower surface; axils with finely hairy domatia. 7–12 (15) pairs of secondary nerves; intersecondary nerves prominent, fairly regularly spaced and angled at the middle.
 
-Inflorescences aux extrémités des rameaux latéraux, multiflores, à axes finement pubérulents ou glabres, comprimés à sec. Bractées linéaires de 3 à 10 mm. Pédicelles de 0,5-5 mm, glabres ou ± pubescents. Calice à 5 lobes contortés au stade juvénile, puis ± espacés lancéolés de 8-10 × 2-3 mm, érigés. Corolle blanche de 4 cm de diam., pubescente extérieurement, à tube grêle de 68 cm de longueur et 2-3 mm de largeur; lobes atténués aigude 15-25 × 3-4 mm, glabres dessus. Anthères médifixes semi-exsertes, insérées à peine sous le niveau supérieur de la gorge, de 10-15 × 1 mm; locelles nombreuses de 0,5-1 mm. Style glabre dépassant peu la gorge sur env. 3-5 mm, filiforme, terminé par deux lobes de 4-8 mm, très étroits et restant accolés. Ovaire à 2 loges multiovulées et placentas peltés.
+Inflorescences at the extremities of lateral branches, multiflorous, with axes finely pubescent or glabrous, compressed when dry. Bracts linear 3 to 10 mm. Pedicels 0.5–5 mm, glabrous or ± pubescent. Calyx with 5 lobes contorted at the juvenile stage, then ± spaced, lanceolate 8–10 × 2–3 mm, erect. Corolla white 4 cm in diam., pubescent externally, with slender tube 6–8 cm in length and 2–3 mm in width; lobes attenuate-acute 15–25 × 3–4 mm, glabrous above. Anthers medifixed semi-exsert, inserted barely below the upper level of the throat, 10–15 × 1 mm; locules numerous 0.5–1 mm. Style glabrous scarcely exceeding the throat by approx. 3–5 mm, filiform, terminated by two lobes 4–8 mm, very narrow and remaining adnate. Ovary with 2 multilovulate locules and peltate placentas.
 
-Fruit ové d'env. 16-10 mm, couronné par les sépales dressés qui atteignent jusqu'à 12 × 4 mm, à surface noire plissée longitudinalement à sec. Plus de 375 graines dans un fruit; graines noires, brillantes, prismatiques, de 1,5 mm.
+Fruit ovoid approx. 16–10 mm, crowned by the erect sepals reaching up to 12 × 4 mm, with black surface longitudinally wrinkled when dry. More than 375 seeds in one fruit; seeds black, shiny, prismatic, 1.5 mm.
 
 ## Type
 
@@ -38,9 +36,7 @@ Mann 2156 (K!), Ambas Bay, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est distribuée de Sierra Léone et Haute Guinée (Macenta) jusqu'en Centrafrique (Bangui). Lisières, forêts secondaires.
+The species is distributed from Sierra Leone and Upper Guinea (Macenta) to Central African Republic (Bangui). Forest edges, secondary forests.
 
 ## Specimens examined
 

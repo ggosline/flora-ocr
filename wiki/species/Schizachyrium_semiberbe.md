@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , — STAPF, FL. Cap. VII : 337 (1900). — F.T.A. IX : 195 (1919).
 
-Cette espèce se rencontre dans pratiquement toute l'Afrique tropicale. Dans la République du Congo, elle est fréquente sur les sols sableux des Plateaux Batékés. Elle n'a pas été signalée au Gabon, mais pourrait se rencontrer dans la région de Franceville.
+This species is found in practically all of tropical Africa. In the Republic of the Congo, it is frequent on the sandy soils of the Batéké Plateaus. It has not been recorded from Gabon, but could occur in the Franceville region.
 
-Elle vit toujours sur des sols sableux, perméables, très pauvres et ne présente sans doute que peu d'intérêt fourrager.
+It always grows on sandy, permeable, very poor soils and presumably presents little forage interest.
 
 ## Figures
 

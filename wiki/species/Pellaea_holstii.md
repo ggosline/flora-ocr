@@ -20,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier., in Engler Npfl. I (4) : 267 (1892). — Tard., Mém. IFAN 28 : 92 (1953).
 
-Rhizome court, dressé, à frondes en touffes, portant des écailles étroites, formées de cellules à parois très minces, lumière claire. Pétiole de 30-40 cm de long, brun-noir, brillant, non écailleux à la base, couvert, vers le sommet, de poils pluricellulaires épais, brun clair. Limbe lancéolé, long de 15-20 cm sur 6-8 cm de large, penné, parfois bipenné à la base. 7-10 paires de pennes latérales pétiolées, alternes, ovales-lancéolées, longues de 4 cm sur 1 de large, à base arrondie, bords entiers, extrémité arrondie. Pennes inférieures souvent trifides, ou même pennées, portant 2-3 paires de pinnules latérales, la terminale légèrement plus développée. Texture coriace. Rachis et pétiole des pennes portant des poils crispés, épars. Costa velu sur les deux faces. Nervures réticulées, enfoncées dans le parenchyme, peu visibles. Surfaces
+Rhizome short, erect, with fronds in tufts, bearing narrow scales formed of cells with very thin walls, light-coloured. Petiole 30-40 cm long, dark brown, glossy, not scaly at the base, covered towards the apex with thick pluricellular hairs, light brown. Lamina lanceolate, 15-20 cm long by 6-8 cm wide, pinnate, sometimes bipinnate at the base. 7-10 pairs of lateral pinnae petiolate, alternate, ovate-lanceolate, 4 cm long by 1 cm wide, rounded at base, margins entire, apex rounded. Lower pinnae often trifid, or even pinnate, bearing 2-3 pairs of lateral pinnules, the terminal one slightly more developed. Texture coriaceous. Rachis and petiole of pinnae bearing scattered crisped hairs. Costa hirsute on both surfaces. Veins reticulate, sunken in the parenchyma, scarcely visible. Surfaces
 
-lâchement hirsutes. Sores intramarginaux, à indusie continue, ciliée. Spores arrondies, lisses.
+loosely hirsute. Sori intramarginous, with continuous indusium, ciliate. Spores rounded, smooth.
 
-Oubangui, Afrique orientale.
+Oubangui, East Africa.
 
 ## Specimens examined
 

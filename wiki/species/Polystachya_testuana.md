@@ -17,57 +17,58 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pseudobulbs 1.3 cm × 0.7 cm, ovoid to ellipsoid. Leaves 1–7 × 0.2–0.9 cm, linear-ligulate to lanceolate-ligulate, bilobed. < 16 cm, 2–6-flowered. Flowers small, yellow; base of labellum with an external spot. Dorsal sepal oblong-lanceolate to oblong-ovate, acuminate. Petals linear in the lower part, oblong-lanceolate above. Lateral sepals obliquely triangular, apiculate. Labellum thin, finely papillose.
 
-Pseudobulbes 1,3 cm × 0,7 cm, ovoïdes à ellipsoïdes. Feuilles 1-7 × 0,2-0,9 cm, linéaires-ligulées à blancéolées-ligulées, bilobées. < 16 cm, 2-6-flore. Fleurs petites, jaunes ; base du labelle avec une tache externe. Sépale dorsal oblong-lancéolé à oblong-ovale, acuminé. Pétales linéaires dans la partie inférieure, oblongs-lancéolés au-dessus. Sépales latéraux obliquement triangulaires, apiculés. Labelle mince, finement papilleux.
-
-sur la face interne, une grande carène élevée, glabre, semi-circulaire, dans sa moitié inférieure ; onglet linéaire ; hypochile transversalement elliptique ; épichile oblong-ové, apiculé. - Pl. 112, p. 255.
+on the inner surface, a large raised keel, glabrous, semicircular, in its lower half; claw linear; hypochile transversely elliptic; epichile oblong-ovate, apiculate. – Pl. 112, p. 255.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+known only from Gabon
 
-connue seulement du Gabon
+ECOLOGY alt. Unknown. Epiphytic.
 
-ÉCOLOGIE alt. Inconnue. Épiphyte.
+MATERIAL STUDIED (Map 44):
 
-MATÉRIEL ÉTUDIÉ (Carte 44) :
+Hallé 2155, Abanga, Chantier Cefa (fl. June), P!.
 
-Hallé 2155, Abanga, Chantier Cefa (fl. Juin), P!.
-
-Le Testu 5706, Haute Ngounyé, Etoughi, E de Kembélé (fl. Nov.), P!.
+Le Testu 5706, Haute Ngounyé, Etoughi, E of Kembélé (fl. Nov.), P!.
 
 3. Sect. Cultriformes Kraenzl.
 
-Rep. Sp. Nov. Regni.Veg., Beih. 39 : 106 (1926).
+Rep. Sp. Nov. Regni Veg., Beih. 39: 106 (1926).
 
-Plantes généralement avec des pseudobulbes cylindriques ou coniques, toujours unifoliés. Feuille dressée. Inflorescence simple, souvent pauciflore. Fleurs de tailles variées. Labelle pourvu d'un callus.
+Plants generally with cylindric or conical pseudobulbs, always unifoliate. Leaf erect. Inflorescence simple, often few-flowered. Flowers of varying sizes. Labellum provided with a callus.
 
-1. Labelle entier ou faiblement 3-lobé ..... 25. 10. P. kubalae 1' Labelle distinctement 3-lobé ..... 2 2. Lobe médian du labelle apiculé ..... 3 2' Lobe médian du labelle obtus à tronqué ..... 4 3. Rachis glabre ..... 25. 7. P. cultriformis 3' Rachis pubescent ..... 25. 8. P. fulvilabia 4. Lobe médian du labelle < 3 mm de long, aussi long que large, feuille < 9 x 0,8 cm ..... 25. 11. P. letouzeyana 4' Lobe médian du labelle transversalement elliptique, plus large que long, feuille 8-27 x 1-3,6 cm ..... 25. 9. P. galeata
+1. Labellum entire or weakly 3-lobed ..... 25. 10. P. kubalae
+1' Labellum distinctly 3-lobed ..... 2
+2. Midlobe of labellum apiculate ..... 3
+2' Midlobe of labellum obtuse to truncate ..... 4
+3. Rachis glabrous ..... 25. 7. P. cultriformis
+3' Rachis pubescent ..... 25. 8. P. fulvilabia
+4. Midlobe of labellum < 3 mm long, as long as wide, leaf < 9 × 0.8 cm ..... 25. 11. P. letouzeyana
+4' Midlobe of labellum transversely elliptic, wider than long, leaf 8–27 × 1–3.6 cm ..... 25. 9. P. galeata
 
 25. 7. Polystachya cultriformis (Thouars) Spreng.
 
-Syst. Veget. 3 : 742 (1826). – TYPE : du Petit Thouars s.n., île Maurice, holo-P!, iso-W!. – FTWA : 225 (1968) ; PODZORSKI & CRIBB, Kew Bull. 34 : 153 (1979) ; CRIBB, FTEA, Orchid. 2 : 341 (1984) ; L A Croix & al. Orchid. Malawi : 209 (1991) ; FAC 2 :
+Syst. Veget. 3: 742 (1826). – TYPE: du Petit Thouars s.n., Mauritius, holo-P!, iso-W!. – FTWA: 225 (1968); PODZORSKI & CRIBB, Kew Bull. 34: 153 (1979); CRIBB, FTEA, Orchid. 2: 341 (1984); LA Croix & al. Orchid. Malawi: 209 (1991); FAC 2:
 
-– Polystachya appendiculata Kraeznl., Notizbl. Bot. Gart. Berlin-Dahlem 3: 238 (1903).
+– Polystachya appendiculata Kraenzl., Notizbl. Bot. Gart. Berlin-Dahlem 3: 238 (1903).
 
 – Polystachya lujae De Wild., Pl. Nov. Herb. Hort. Then.: 18 (1904).
 
 – Polystachya monophylla Schltr., Beih. Bot. Centralbl. 34(2): 322 (1916).
 
-Pseudobulbes 1,4-18 × 0,2-1,2 cm. Feuille 3,2-36 × 1,2-5,5 cm, obovée, ovée ou elliptique. Inflorescence de 4-36 cm, < 60-flore. Fleurs de taille moyenne, non résupinées, blanches, jaunes, vertes, roses ou violettes. Sépale dorsal ové-triangulaire, oblong-ové, apiculé. Sépalles latéraux obliquement triangulaires-ovés, avec une carène élevée saillante le long de la nervure médiane. Labelle assez charnu, avec un callus oblong dans la moitié inférieure le long de la nervure médiane, recourbé, glabre ou finement papilleux le long des marges, nettement trilobé juste sous le milieu ; lobe médian elliptique, longuement apiculé ; lobes latéraux triangulaires-ovés, subaigus. – Pl. 112, p. 255.
+Pseudobulbs 1.4–18 × 0.2–1.2 cm. Leaf 3.2–36 × 1.2–5.5 cm, obovate, ovate or elliptic. Inflorescence 4–36 cm, < 60-flowered. Flowers medium-sized, non-resupinate, white, yellow, green, pink or violet. Dorsal sepal ovate-triangular, oblong-ovate, apiculate. Lateral sepals obliquely triangular-ovate, with a prominent raised keel along the midvein. Labellum rather fleshy, with an oblong callus in the lower half along the midvein, curved, glabrous or finely papillose along the margins, distinctly trilobed just below the middle; midlobe elliptic, long-apiculate; lateral lobes triangular-ovate, subacute. – Pl. 112, p. 255.
 
-Côte d'Ivoire, Guinée équatoriale, Cameroun, Gabon, Zaïre, Rwanda, Burundi, Éthiopie, Ouganda, Kenya, Tanzanie, Malawi, Zimbabwe, Mozambique, République sudafricaine, Madagascar, Réunion, Maurice, Seychelles
+Côte d'Ivoire, Equatorial Guinea, Cameroon, Gabon, Zaire, Rwanda, Burundi, Ethiopia, Uganda, Kenya, Tanzania, Malawi, Zimbabwe, Mozambique, South African Republic, Madagascar, Réunion, Mauritius, Seychelles
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 500–2,950 m. Epiphytic in dense forest, montane forest or lithophytic.
 
-alt. 500-2 950 m. Épiphyte en forêt dense, forêt montagnarde ou lithophyte
+MATERIAL STUDIED (Map 45):
 
-MATÉRIEL ÉTUDIÉ (Carte 45) :
-
-Le Testu 5407, Chutes de la Mtoumi à Mbigou (fl. Avr.), P! ; 6467, Haute Ngounyé, Boumi (fl. Avr.), BR!, P!.
+Le Testu 5407, Mtoumi Falls at Mbigou (fl. Apr.), P!; 6467, Haute Ngounyé, Boumi (fl. Apr.), BR!, P!.
 
 ## Figures
 

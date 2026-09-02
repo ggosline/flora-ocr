@@ -21,7 +21,7 @@ Shrub, 1–4 m tall, glabrous. Stipules lanceolate-triangular, 1–3 mm long. Le
 
 ## Distribution
 
-Littoral species of the Atlantic coast of Africa, from Senegal to Angola; in Gabon, known from the Estuary and Ogooué-Maritime
+Littoral species of the Atlantic coast of Africa, from Senegal to Angola; in Gabon, known from the Estuaire and Ogooué-Maritime
 
 ## Ecology
 

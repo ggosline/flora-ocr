@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige de 2,5 cm. Feuilles 4, 8-10 x 1,8-2,2 cm, largement blancéolées ou oblongues-oblancéolées. Inflorescence 14-15 cm, 10-flore, rachis légèrement en zigzag. Sépale dorsal oblong-ové à elliptique-ové, obtus. Pétales oblongs-ovés, légèrement obliques, obtus. Sépales latéraux obliquement lancéolés-ovés, subobtus. Labelle 4 x 3,5 mm, oéré-cordé, plus large à la base, subobtus, avec un callus peu visible à la gorge de l'éperon. Éperon 10-11 mm, étroitement cylindrique, falciforme, net-tement renflé juste sous le milieu, puis progressivement atténué vers le sommet aigu. - Pl. 212, p. 447.
+Stem 2.5 cm. Leaves 4, 8–10 × 1.8–2.2 cm, broadly lanceolate or oblong-oblanceolate. Inflorescence 14–15 cm, 10-flowered, rachis slightly zigzag. Dorsal sepal oblong-ovate to elliptic-ovate, obtuse. Petals oblong-ovate, slightly oblique, obtuse. Lateral sepals obliquely lanceolate-ovate, subobtuse. Lip 4 × 3.5 mm, cordate-ovate, wider at the base, subobtuse, with a scarcely visible callus at the spur throat. Spur 10–11 mm, narrowly cylindric, falciform, distinctly swollen just below the middle, then gradually attenuate toward the acute apex. — Pl. 212, p. 447.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce actuellement connue que du Gabon
+Species currently known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 500 m. Epiphytic in evergreen forest, collected on Harungana madagascariensis
 
-alt. 500 m. Épiphyte en forêt sempervirente, récolté sur Harungana madagascariensis
-
-MATÉRIEL ÉTUDIÉ (Carte 95) :
+MATERIAL EXAMINED (Map 95):
 
 Moungazi 230, Bélinga, P!.
 

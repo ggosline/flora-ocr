@@ -21,7 +21,7 @@ Annual or short-lived perennial herb reaching 1.5 m in height; taproot; stems wi
 
 ## Distribution
 
-West and East Africa, from Guinea to Sudan, Tanzania and Angola; in Gabon, known from Middle Ogooué, Nyanga and Ogooué-Ivindo
+West and East Africa, from Guinea to Sudan, Tanzania and Angola; in Gabon, known from Moyen-Ogooué, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 

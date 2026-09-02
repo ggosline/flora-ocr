@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (2) : 473 (1921); KEAY, FWTA, ed. 2, 1 (2) : 300 (1958); KEAY, ONOCHIE & STANFIELD, Niger. Trees 1 : 188 (1960); LETOUZEY, Adansonia, ser. 2, 1 (1) : 123 (1961).
 
-Arbuste ou petit arbre atteignant 10 m de hauteur et 30 cm de diamètre, parfois sarmenteux; rhytidome gris; écorce fibreuse à tranche rose; rameaux gris très finement et superficiellement fissurés longitudinalement; jeunes rameaux un peu anguleux et rougeâtres; pétiole long de 2-6 mm, aplat dessus. Limbe subcoriace, plus rarement coriace, obovale à blancéolé, rarement elliptique, 3-7,5(-12) × 6-18(-24) cm; base cunéiforme aiguë ou obtuse, légèrement décurrente sur le haut du pétiole; sommet obtus avec large et court acumen triangulaire arrondi à l'apex; nervure médiane ± papilleuse dessous; 5-7 paires de nervures latérales; ponctuations glanduleuses ± nettes sous le limbe.
+Shrub or small tree reaching 10 m in height and 30 cm in diameter, sometimes scandent; rhytidome grey; bark fibrous with pink fracture; branchlets grey, very finely and superficially fissured longitudinally; young branchlets somewhat angled and reddish; petiole 2–6 mm long, flattened above. Blade subcoriaceous, more rarely coriaceous, obovate to lanceolate, rarely elliptic, 3–7.5(–12) × 6–18(–24) cm; base cuneate, acute or obtuse, slightly decurrent on the upper petiole; apex obtuse with a broad and short triangular acumen rounded at the apex; midvein ± papillose below; 5–7 pairs of lateral nerves; glandular punctations ± distinct on the lower blade surface.
 
-Racèmes très contractés, portant au maximum 6-8 fleurs, supra-axiliaires ou situés au-dessous des feuilles; pédicelle long de 2-6 mm. Calice glanduleux, cupuliforme évasé mais en général brusquement et brièvement rétréci à la base, 3-4 mm de hauteur totale et 4-6 mm de diamètre, à marge entière ou festonnée-crénelée pouvant se fendre radialement; bouton de la corolle ellipsoïde pointu, haut de 8-10 mm, s'ouvrant en lobes atteignant 12 mm; étamines longues de 5-6 mm; ovaire en dôme aplati dessus haut de 2 mm, à 4-5(-6?) loges pluriovulées à placentation axile; style long de 6-10 mm.
+Racemes very contracted, bearing at most 6–8 flowers, supra-axillary or situated below the leaves; pedicel 2–6 mm long. Calyx glandular, cupuliform and flared but generally abruptly and briefly constricted at the base, 3–4 mm in total height and 4–6 mm in diameter, with entire or festooned-crenate margin that may split radially; corolla bud ellipsoid and pointed, 8–10 mm tall, opening into lobes reaching 12 mm; stamens 5–6 mm long; ovary dome-shaped, flattened above, 2 mm tall, with 4–5(–6?) pluriovulate locules with axile placentation; style 6–10 mm long.
 
-Fruit subdrupacé, ellipsoïde, atteignant 20-25 mm de diamètre et de longueur, à péricarpe coriace, se déchirant vraisemblablement irrégulièrement.
-
-ment, lorsque le fruit tombe sur le sol et renfermant 1 graine (ou plus?). — PL. 48, p. 173.
+Fruit subdrupe, ellipsoid, reaching 20–25 mm in diameter and length, with coriaceous pericarp, splitting presumably irregularly when the fruit falls to the ground and containing 1 seed (or more?). — PL. 48, p. 173.
 
 ## Type
 
@@ -35,17 +31,15 @@ Mann 1443, Macias Nguema (ex-Fernando Po) (holo-, K; iso-, K! P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+1) The fruit of this species appears quite particular within the genus Rhaptopetalum, a point already remarked by ENGLER (l.c.: 475, 1921), who considered the fruit of Rhaptopetalum to be essentially capsular, globose and dehiscent by 3–4 valves, which is the case for most species whose fruit is known, this subdrupe fruit also occurring in R. breteleri R. Let.; for R. beguei Mangenot, see note 2 below.
 
-1) Le fruit de cette espèce paraît assez particulier au sein du genre Rhaptopetalum, ce que faisait déjà remarquer ENGLER (I.c. : 475, 1921), considérant que le fruit des Rhaptopetalum était essentiellement capsulaire, globuleux et déhiscent par 3-4 valves, ce qui est le cas pour la plupart des espèces dont le fruit est connu, ce fruit subdrupacé se retrouvant aussi chez R. breteleri R. Let.; pour R. beguei Mangenot, voir note 2 ci-après.
+OLIVER (l.c.: 160, 1865) described the fruit of Rhaptopetalum coriaceum Oliv. as ellipsoid or oblong, 2 cm long, unilocular, monospermic, indehiscent or perhaps subdrupe; the representation he gave of it (l.c.: tab. 12, fig. 2, 1865) with a non-typical calyx and an eccentric apex appears scarcely accurate. The drawing by PIERRE (in sched. P), after the type Mann 1443, appears by contrast to correspond much better with reality. VAN TIEGHEM (l.c.: 379) qualifies this fruit as a monospermic ovoid drupe, an opinion taken up by KEAY (l.c.: 299–300) for whom the fruit is ellipsoid.
 
-OLIVER (l.c. : 160, 1865) a décrit le fruit de Rhaptopetalum coriaceum Oliv. comme fruit ellipsoïde ou oblong, de 2 cm de longueur, uniloculaire, monosperme, indéhiscent ou peut-être subdrupacé; la représentation qu'il en a donnée (l.c. : tab. 12, fig. 2, 1865). avec un calice non typique et un apex excentré, semble peu exacte. Le dessin de PIERRE (in sched. P), d'après le type Mann 1443, paraît par contre correspondre beaucoup mieux à la réalité. VAN TIEGHEM (l.c. : 379) qualifie ce fruit de drupe ovoïde monosperme, opinion reprise par KEAY (l.c. : 299-300) pour qui le fruit est ellipsoïde.
+2) MANGENOT (Bull. Inst. Fr. Afrique Noire 19 (2) : 361–365, 1957) considered Rhaptopetalum beguei Mangenot as a regional vicarious species of R. coriaceum Oliv. Foliar and floral characters apparently confirm this position but the ovary of R. beguei is flattened and not globose as in R. coriaceum; the fruits ("berry" for R. beguei according to MANGENOT, because of the mucilaginous tunic surrounding the seeds) also appear quite different (subglobose, flattened, with membranous pericarp, splitting irregularly and containing 4 monospermic locules for R. beguei), although the fruit of R. coriaceum is actually poorly known (subdrupe ellipsoid, with coriaceous pericarp, splitting irregularly and containing 1 seed, or more?).
 
-2) MANGENOT (Bull. Inst. Fr. Afrique Noire 19 (2) : 361-365, 1957) a considéré Rhaptopetalum beguei Mangenot comme espèce vicariante régionale de R. coriaceum Oliv. Caractères foliaires et floraux confirment en apparence cette position mais l'ovaire de R. beguei est aplaté et non globuleux comme celui de R. coriaceum; les fruits (« baie » pour R. beguei d'après MANGENOT, à cause de la tunique mucilagineuse entourant les graines) paraissent aussi assez différents (subglobuleux aplaté, à péricarpe membraneux, sé déchirant irrégulièrement et renfermant 4 loges monospermes pour R. beguei), quoique le fruit de R. coriaceum soit en fait mal connu (subdrupacé ellipsoïde, à péricarpe coriace, se déchirant irrégulièrement et renfermant 1 graine, ou plus?).
-
-Rhaptopetalum coriaceum Oliv. est connue dans le sud-est du Nigeria, au Cameroun, à Macias Nguema (ex-Fernando Po) et au Gabon; rencontrée au Nigeria dans une crique littorale ainsi qu'au bord d'une rivière, elle a été retrouvée au Cameroun près d'Ebolowa, en forêt dense humide sempervirente, ainsi que sur les pentes du Petit mont Cameroun et, au Gabon, en condition analogue semble-t-il. Des observations plus nombreuses portant sur l'écologie (et le fruit) de cette espèce seraient désirables.
+Rhaptopetalum coriaceum Oliv. is known from southeastern Nigeria, Cameroon, Macias Nguema (formerly Fernando Po) and Gabon; encountered in Nigeria in a coastal creek as well as on the bank of a river, it has been found again in Cameroon near Ebolowa, in dense wet evergreen forest, as well as on the slopes of Mount Cameroon and, in Gabon, in apparently similar conditions. More numerous observations regarding the ecology (and fruit) of this species would be desirable.
 
 ## Specimens examined
 

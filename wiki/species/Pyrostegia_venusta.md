@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Bignonia venusta KER., Bot. Reg. 3: tab. 249 (1818).
 
-Liane. Ramilles un peu anguleuses, pulvérulentes, sans espaces interpétiolaires glandulaires. Feuilles 2-3 folioles, parfois avec une vrille trifide ; folioles ovées, aiguës, basalement arrondies, 4-6 × 2,5-4 cm, squameuses à ± pubérulentes.
+Liane. Branchlets somewhat angular, pulverulent, without glandular interpetiolar spaces. Leaves 2–3 foliolate, sometimes with a trifid tendril; leaflets ovate, acute, basally rounded, 4–6 × 2.5–4 cm, squamose to ± puberulent.
 
-Inflorescences en panicule relativement dense terminale. Calice cupulaire, subtronqué à 5-denticulé, squameux éparpillé, bord densément cilié. Corolle rouge-orange, tubulaire, lobes étroits, valvaires dans le bouton, longue de 5,5-6,5 cm, large de 0,9-1,1 cm à l'ouverture du tube, lobes longs de 1-1,5 cm, tube glabre extérieurement, lobes visiblement pubérulents sur le bord et à un peu vers l'intérieur, tube pubescent à l'intérieur vers et au-dessous de l'insertion des étamines. Étamines exsertes ; thèques pendantes, faiblement divergentes, longues de 4 mm environ ; filets longs de 3,5-4 cm. Pistil long de 4,8-5,1 cm ; ovaire linéaire, squameux, long de 4 mm, large de 1 mm ; ovules bisériés dans chaque loge. Disque cupulaire pulviné.
+Inflorescences in relatively dense terminal panicle. Calyx cupular, subtrunate to 5-denticululate, scattered squamose, margin densely ciliate. Corolla red-orange, tubular, lobes narrow, valvate in bud, 5.5–6.5 cm long, 0.9–1.1 cm wide at the tube opening, lobes 1–1.5 cm long, tube glabrous externally, lobes visibly puberulent on the margin and somewhat toward the interior, tube pubescent inside toward and below the insertion of the stamens. Stamens exserted; anthers pendulous, weakly divergent, approximately 4 mm long; filaments 3.5–4 cm long. Pistil 4.8–5.1 cm long; ovary linear, squamose, 4 mm long, 1 mm wide; ovules biseriate in each locule. Disc cupular, pulvinate.
 
-Capsule linéaire, aiguë aux deux extrémités, longues de 25-20 cm, large de 1,4-1,6 cm, nervure médiane faiblement saillante. Graines minces, biaillées, longues de 1,2-1,4 cm, larges de 4-4,5 cm, ailes brunes avec un sommet hyalin. - Pl. 11, fig. 3, p. 47.
+Capsule linear, acute at both ends, 25–20 cm long, 1.4–1.6 cm wide, midvein weakly salient. Seeds thin, two-winged, 1.2–1.4 cm long, 4–4.5 cm wide, wings brown with a hyaline apex. — Pl. 11, fig. 3, p. 47.
 
-Originaire d'Amérique du Sud, du Brésil au nord de l'Argentine ; largement cultivé dans les régions tropicales pour ses séduisantes fleurs de la couleur des flammes.
+Native to South America, from Brazil to northern Argentina; widely cultivated in tropical regions for its attractive flame-colored flowers.
 
-Aucun échantillon du Gabon n'a été observé ; il est cependant possible qu'il y existe ; il est cultivé au Cameroun voisin et ailleurs en Afrique tropicale.
+No specimen from Gabon has been observed; however, it is possible that it exists there; it is cultivated in neighboring Cameroon and elsewhere in tropical Africa.
 
 ## Figures
 

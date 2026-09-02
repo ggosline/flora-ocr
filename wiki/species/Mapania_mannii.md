@@ -20,7 +20,7 @@ in Dyer, Fl. trop. Afr. 8 : 491 (1902). Fairly robust herb, stoloniferous or wit
 
 ## Distribution
 
-Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; widespread in Gabon, found in the Estuary, Middle Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem (42 collections).
+Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; widespread in Gabon, found in the Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem (42 collections).
 
 ## Ecology
 

@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 6-12 x 0,6-0,7 cm. Feuilles 10-22 x 1,7 cm, oblongues-ligulees, coriaces. Inflorescence 10-22 cm, multiflore. Sépale dorsal triangulaire-lancéolé, acuminé. Pétales obliquement lancéolés, acuminés. Sépales latéraux étroitement triangulaires, acuminés. Labelle glabre, sans callus, trinervié, nettement trilobé dans la partie inférieure ; lobe médian oblong-ové à elliptique-ové, brièvement apiculé ; lobes latéraux étroitement triangulaires, subaigus à subobtus, largement divergents. Éperon sacciforme. – Pl. 131, p. 299.
+Pseudobulbs 6-12 × 0.6-0.7 cm. Leaves 10-22 × 1.7 cm, oblong-ligulate, coriaceous. Inflorescence 10-22 cm, multiflorous. Dorsal sepal triangular-lanceolate, acuminate. Petals obliquely lanceolate, acuminate. Lateral sepals narrowly triangular, acuminate. Labellum glabrous, without callus, trinerved, distinctly trilobed in the lower part; median lobe oblong-ovate to elliptic-ovate, briefly apiculate; lateral lobes narrowly triangular, subacute to subobtuse, widely divergent. Spur sacciform. – Pl. 131, p. 299.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-à ce jour, connue seulement du Gabon
+to date, known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphytic on large tree
 
-alt. inconnue. Épiphyte sur grand arbre
+MATERIAL STUDIED (Map 59):
 
-MATÉRIEL ÉTUDIÉ (Carte 59) :
+Le Testu 5921, Pit Masango (fl. Apr.), P!.
 
-Le Testu 5921, Pit Masango (fl. Avr.), P!.
-
-PL. 130. – Polystachya coriscensis Rchb.f. : A, fleur et bractée florale ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Lecomte s.n., P).
+PL. 130. – Polystachya coriscensis Rchb.f. : A, flower and floral bract; B, labellum; C, dorsal sepal; D, petal; E, lateral sepal; F, leaf (A-F, Lecomte s.n., P).
 
 ## Figures
 

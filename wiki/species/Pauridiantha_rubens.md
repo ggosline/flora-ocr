@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1.5–7 m tall; diam. reaching 15 cm; internodes glabrous 35–70 × 2–5 mm, furrowed beneath petiolar insertions when dry. Stipules convex ovate, 10–25 × 5–14 mm, glabrous externally, often caducous at the level of inflorescences. Petioles glabrous (5) 10–35 mm, laterally compressed and canaliculate when dry. Juvenile blade ± pubescent beneath, then entirely glabrous, reddish beneath, ± brown above and fragile when dry, elliptic, 12–32 × 5–15 cm; base acute, often similar to apex ± shortly lanceolate. Midvein depressed and glabrous above, very prominent and laterally compressed beneath. 9–13 (20) pairs of oblique secondary nerves, glabrous. Reticulum finely drawn. Domatia present (Central African Republic) or absent (Cameroon).
 
-Arbuste de 1,5-7 m de hauteur; diam. atteignant 15 cm; entrenœuds glabres de 35-70 × 2-5 mm, sillonnés sous les insertions pétiolaires à sec. Stipules convexes ovées, de 10-25 × 5-14 mm, glabres extérieurement, souvent caduques au niveau
+Inflorescences axillary 2.5–4 cm long, solitary or in pairs, with peduncle 8–15 mm, interrupted toward the lower third by a pair of stipulate prefoliations ± briefly linear. Ramifications rather loose in multiflorous panicle; axes and peduncles finely puberulent. Pedicel 1.5–4 mm. Bud ovate, 4–6 mm long, glabrous, with subacute apex. Flower white-green or green. Calyx glabrous, cupuliform ± flared with rim 0.6–1 mm, truncate or microdenticulate. Corolla glabrous 3.5–5 × 3–4 mm, with throat sometimes slightly constricted, with 5 ± erect triangular lobes 1.5–2 mm long. Anthers mediodorsifixed c. 2 mm, apiculate, slightly curved in profile; filament c. 1 mm. Style ± 3 mm including the fusiform stigma with 2 adherent lobes ± 1.3 mm, with pubescent column above the base. Disc c. 2 mm diam., convex, glabrous, whitish in herbarium, crowned with radiating furrows. Ovary 2-locular; each locule contains 2 independent ovular masses, ovoid and 0.7 mm tall.
 
-des inflorescences. Pétioles glabres de (5) 10-35 mm, comprimés latéralement et canaliculés à sec. Limbe juvénile ± pubescent dessous, puis entièrement glabre, rubescent dessous, ± brun dessus et fragile à sec, elliptique, de 12-32 × 5-15 cm; base aiguë, souvent semblable au sommet ± courtement lancéolé. Nervure médiane déprimée et glabre dessus, très saillante et comprimée latéralement dessous. 9-13 (20) paires de nervures secondaires obliques, glabres. Réticule finemcent dessiné. Domatics présentes (Centrafrique) ou absentes (Cameroun).
-
-Inflorescences axillaires de 2,5-4 cm de long, solitaires ou par 2, à pédoncule de 8-15 mm, interrompu vers le tiers inférieur par une paire de préfeuilles stipulées ± brièvement linéaires. Ramifications assez lâches en panicule multiflore; axes et pédoncules finement pubérulents. Pédicelle de 1,5-4 mm. Bouton ové, long de 4-6 mm, glabre, à apex subaigu. Fleur blanc-vert ou verte. Calice glabre, cupuliforme ± évasé à rebord de 0,6-1 mm, tronqué ou microdenticulé. Corolle glabre de 3,5-5 × 3-4 mm, à gorge parfois un peu étranglée, à 5 lobes ± érigés triangulaires de 1,5-2 mm de long. Anthères médidorsifixes d'env. 2 mm, apiculées, un peu arquées de profil; filet d'env. 1 mm. Style de ± 3 mm y compris le stigmate fusiforme à 2 lobes adhérents de ± 1,3 mm, à colonne pubescente au-dessus de la base. Disque d'env. 2 mm de diam., bombé, glabre, blanchâtre en herbier, couronné de sillons rayonnants. Ovaire à 2 loges; chaque loge contient 2 masses ovulaires indépendantes, ovoïdes et hautes de 0,7 mm.
-
-Fruits souvent nombreux atteignant ou dépassant 8 mm de diam. sur 5 mm de hauteur. Graines (150 dans un fruit : Maitland 576 du Cameroun) globuleuses un peu ovales, de 0,8-1 mm, à légument réticulé submuriculé.
+Fruits often numerous reaching or exceeding 8 mm diam. by 5 mm height. Seeds (150 in a fruit: Maitland 576 from Cameroon) globose slightly oval, 0.8–1 mm, with reticulate submuricate testa.
 
 ## Type
 
@@ -37,9 +33,7 @@ Vogel 48, Fernando-Po (K? , non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fernando-Po, Cameroun, Centrafrique, Congo, Gabon. Talus drainés; jeunes pieds vigoureux au bord de pistes d'exploitation.
+Fernando-Po, Cameroon, Central African Republic, Congo, Gabon. Drained slopes; vigorous young trees at the edge of logging tracks.
 
 ## Specimens examined
 

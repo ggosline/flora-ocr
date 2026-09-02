@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — P. dinklagei ENGL., Bot. Jahrb. 43 : 186 (1909).
 
 — P. canaliculata PIERRE, Bull. Soc. Linn. Paris 2 : 1317 (1897), syn. nov.
 
-Liane à tige et rameaux glabres, à écorce brune, ± torsadée, faiblement striée longitudinalement. Pétiole long de 0,5-1,6 cm, ± pubescent, faiblement canaliculé dessus, strié longitudinalement dessous. Limbe glabre à la face supérieure, pubescent à poils courts apprimés à la face inférieure, vert à gris vert dessus, vert dessous, elliptique, 8,5-20 × 4,5-8,5 cm; base cordée ou cordée auriculée, sommet acuminé mucroné. Nervure médiane saillante sur les deux faces, ± pubescente dessous. Nervures secondaires 5-6 paires, ascendantes, arquées, s'anastomosant à 2-5 mm du bord du limbe, saillantes sur les deux faces, ± pubescentes dessous. Nervilles en réseau dense saillant sur les deux faces. Hydathodes globuleux, peu saillants, terminant les nervures secondaires au bord du limbe, glabres.
+Liane with stem and branches glabrous, with brown bark, ± twisted, weakly striated longitudinally. Petiole 0.5–1.6 cm long, ± pubescent, weakly canaliculate above, striated longitudinally below. Blade glabrous on the upper face, pubescent with short appressed hairs on the lower face, green to gray-green above, green below, elliptic, 8.5–20 × 4.5–8.5 cm; base cordate or cordately auriculate, apex acuminate mucronate. Midvein prominent on both faces, ± pubescent below. Secondary veins 5–6 pairs, ascending, arched, anastomosing 2–5 mm from the blade margin, prominent on both faces, ± pubescent below. Tertiary veins in a dense prominent reticulate network on both faces. Hydathodes globose, slightly prominent, terminating the secondary veins at the blade margin, glabrous.
 
-Inflorescence ♂ en épí multiflore axillaire ou faiblement supra-axillaire. Rachis pubescent porteur de bractées. Bouton floral ♂ ovoïde pubescent, 2 × 2 mm. Fleur ♂ tétramère, verte, sessile ou très courtement pédicellée. Pétales faiblement soudés à la base, éparsement pubescents extérieurement, glabres intérieurement, elliptiques, 2 × 1,25 mm; sommet aigu. Étamines libres, dressées, gynobasiques, longues de 0,6 mm; filet court, ellipsoïde; anthère à 2 loges ellipsoïdes. Pistillode réduit par avortement à une touffe de poils. Rachis inflorescentiel ♀ long de 8 cm, éparsement pubescent. Bractées petites. Fleur ♀ tétramère, sessile. Pétales semblables à ceux des fleurs ♂. Ovaire ovoïde, atténué au sommet, pubescent, se terminant par un stigmate sessile digité.
+♂ Inflorescence in a multifloral spike, axillary or weakly supra-axillary. Rachis pubescent bearing bracts. ♂ Floral bud ovoid pubescent, 2 × 2 mm. ♂ Flower tetramerous, green, sessile or very shortly pedicellate. Petals weakly fused at the base, sparsely pubescent externally, glabrous internally, elliptic, 2 × 1.25 mm; apex acute. Stamens free, erect, gynobasic, 0.6 mm long; filament short, ellipsoid; anther with 2 ellipsoid lobes. Pistillode reduced by abortion to a tuft of hairs. ♀ Inflorescence rachis 8 cm long, sparsely pubescent. Bracts small. ♀ Flower tetramerous, sessile. Petals similar to those of ♂ flowers. Ovary ovoid, attenuate at the apex, pubescent, terminated by a sessile digitate stigma.
 
-Drupe ± ovoïde, aplatie transversalement, rostrée (rostre aussi long
-
-que le fruit), rouge à maturité. Endocarpe ligneux avec des aiguillons ± flexueux au sommet, aigus, à sa face interne. PL. 18, 1-11, p. 77.
+Drupe ± ovoid, flattened transversely, rostrate (rostrum as long as the fruit), red at maturity. Endocarp woody with ± flexuous spines at the apex, acute, on its inner face. PL. 18, 1–11, p. 77.
 
 ## Type
 
@@ -37,13 +33,11 @@ Vogel 13, Grand Bassa, Liberia (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The shape of the leaves and the dimensions of the blade are highly variable.
 
-La forme des feuilles et les dimensions du limbe sont très variables.
+We compared the type of P. canaliculata PIERRE with specimens of the described species. The difference lies in the shape of the leaves, a highly variable character. The shape of the hydathodes, the pubescence of both the stem and the leaves do not authorize us to maintain PIERRE's species as distinct.
 
-Nous avons comparé le type de P. canaliculata PIERRE avec des échantillons de l'espèce décrite. La différence réside dans la forme des feuilles, caractère très variable. La forme des hydathodes, la pubescence tant de la tige que dcs fcuilles ne nous autorisent pas à maintenir distincte l'espèce de PIERRE.
-
-L'aire de cette plante est très vaste : elle s'étend du Liberia à la Tanzanie. Elle semble préférer les zones marécageuses ou les bords de rivière.
+The range of this plant is very vast: it extends from Liberia to Tanzania. It appears to prefer swampy areas or riverbanks.
 
 ## Specimens examined
 

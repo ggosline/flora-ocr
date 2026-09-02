@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub generally epiphytic, glabrous, can reach 1 m; branches rather thick, slightly swollen at the nodes. Leaves with slender petiole, 3 to 6 cm long; blade ovate to ovate-lanceolate, from 5 × 11 cm to 9 × 17 cm, base rounded, rarely subcordate, obtuse acumen; 5 nerves, the transverse ones almost perpendicular to the preceding ones, ± parallel to each other, scarcely visible on the upper surface; margins entire.
 
-Arbrisseau généralement épiphyte, glabre, peut atteindre 1 m; rameaux plutôt épais, légèrement renflés aux nœuds. Feuilles à pétiole grêle, long de 3 à 6 cm; limbe ovale à ovale-lancée, de  $ 5 \times 11 $ cm à  $ 9 \times 17 $ cm, base arrondie, rarement subcordée, acumen obtus; 5 nervures, les transversales presque perpendiculares aux précédentes, ± parallèles entre elles, peu visibles sur le dessus; marges entières.
+Terminal panicles reaching up to 10 cm in diameter, pedunculate with 1 or 2 pairs of reduced leaves; formed of 2 to 3 whorls of pedunculate cymes, simple or bifurcate, with flowers spaced; bracts very caducous. Flower with pedicel 2–5 (8) mm; hypanthium obconic, 5 to 7 mm tall; calyx abruptly spreading, with scarcely evident lobes, rounded, thick, with dorsal keel with brief subapical excurrence. Corolla concealed and ellipsoid in bud; petals asymmetric, ± 8 × 12 mm. Stamens slightly unequal: the outer ones 10 mm long, the inner ones 6–7 mm; anther oblong, somewhat allantoid; pedoconnective abruptly curved, with a small dorsal boss on the curve, prolonged by an erect appendage, 1–1.5 mm, linear, variably obtuse to obscurely spatulate or clavate; filament 5–6 mm. Style 10 mm.
 
-Panicules terminales pouvant atteindre 10 cm de diamètre, pédonculées avec 1 ou 2 paires de feuilles réduites; formées de 2 à 3 verticilles de cymes pédonculées, simples ou bifurquées, à fleurs espacées; bractées très caduques. Fleur à pédicelle de 2-5 (8 mm; hypanthe obconique, haut de 5 à 7 mm; calice brusquement étalé, à lobes peu évidents, arrondis, épais, avec carène dorsale à brève excurrence subapicale. Corolle découverte et ellipsoïde dans le bouton; pétales dissymétriques, ± 8 × 12 mm. Éta-mines légèrement inégales : les externes longues de 10 mm, les internes de 6-7 mm; anthère oblongue, un peu allantoïde; pédoconnectif brusquement recourbé, avec une petite bosse dorsale sur la courbure, prolongé par un appendice redressé, de 1-1,5 mm, linéaire, variablement obtus à obscurément spatulé ou clavulé; filet de 5-6 mm. Style de 10 mm.
-
-Fruit à pédicelle de 7-10 mm; oblongo-ellipsoïde, ± pentagonal et 5 (ou 10)-côtelé, jusqu'à 7-13 mm; ovaire aussi haut que l'hypanthe, sans
-
-couronne épigyne, sommet 5-bosselé par saillie des loges, insertion stylaire déprimée-concave; déhiscence complète, localicide et septicide. Graines longues de 2,5 mm, appendice apical élargi et tronqué, funicule linéaire. — Pl. 25, p. 71.
+Fruit with pedicel 7–10 mm; oblong-ellipsoid, ± pentagonal and 5 (or 10)-ribbed, up to 7–13 mm; ovary as tall as the hypanthium, without epigynous crown, apex 5-bosselate by projection of the locules, style insertion depressed-concave; complete dehiscence, locucidal and septicidal. Seeds 2.5 mm long, apical appendage widened and truncate, funicle linear. — Pl. 25, p. 71.
 
 ## Type
 
@@ -33,9 +29,7 @@ Preuss 442, Cameroun (holo-, B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue de la Guinée au Gabon. Probablement plus fréquente qu'il n'apparaît d'après les récoltes, en raison de ce qu'elle est épiphyte.
+Species known from Guinea to Gabon. Probably more frequent than appears from collections, because of its epiphytic habit.
 
 ## Specimens examined
 

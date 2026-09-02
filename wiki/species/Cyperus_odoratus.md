@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Torulinium odoratum (L.) Hooper, Kew Bull. 26 : 579 (1972). Herbe robuste, vivace, parfois à courte durée de vie , de taille très variable ; tiges de 50‒100 × 0,6‒1,2 cm, renflées à la base, trigones, scabres particulièrement sous l’inflorescence. Feuille : gaine rouge-violacée ; limbe de 10‒100 cm × 4‒20 mm , à section en V ou en W, nettement scabre à la marge et sur la nervure centrale au moins près de l’apex. Inflorescence en anthèle composée lâche, large de 10‒30 cm , composée de un à quelques épis sessiles et de 2‒8 épis pédonculés ou des groupes de 2‒5 épis, sur des pédoncules de 2‒25 cm ; bractées involucrales nombreuses, dépassant nettement l’anthèle et larges de 1‒2 cm ; épis cylindriques, longs de 1‒2,5 cm avec les nombreux épillets étalés. Épillet linéaire-cylindrique, de 10‒23 × 0,8‒1 mm , à 6‒15 fleurs, à rachis liégeux se désarticulant au-dessus de chaque glume à maturité ; glumes elliptiques, longues de 2‒3,5 mm , brunes à brun jaunâtre, nervure centrale trinervée verte et sommet arrondi ou à mucron long de 0,3 mm. Fleur : style à 3 stigmates. Akène étroitement ellipsoïde, de 1,2‒1,8 × 0,4‒0,7 mm , brun rougeâtre à noirâtre, finement papilleux.
+Torulinium odoratum (L.) Hooper, Kew Bull. 26 : 579 (1972). Robust, perennial herb, sometimes short-lived, of highly variable size; stems 50–100 × 0.6–1.2 cm, swollen at the base, trigonous, scabrous particularly below the inflorescence. Leaf: sheath red-violet; blade 10–100 cm × 4–20 mm, V- or W-shaped in section, distinctly scabrous at the margin and on the central vein at least near the apex. Inflorescence a lax compound anthela, 10–30 cm wide, composed of one to a few sessile spikes and 2–8 pedunculate spikes or groups of 2–5 spikes, on peduncles 2–25 cm; involucral bracts numerous, distinctly exceeding the anthela and 1–2 cm wide; spikes cylindric, 1–2.5 cm long with numerous spikelets spreading. Spikelet linear-cylindric, 10–23 × 0.8–1 mm, with 6–15 flowers, with corky rachis disarticulating above each glume at maturity; glumes elliptic, 2–3.5 mm long, brown to yellowish-brown, central vein trinerved and green with apex rounded or with a mucro 0.3 mm long. Flower: style with 3 stigmas. Achene narrowly ellipsoid, 1.2–1.8 × 0.4–0.7 mm, reddish-brown to blackish, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-côte occidentale de l’Afrique, de l’Amérique tropicale et du Pacifique ; très rare au Gabon ou méconnue, trouvée seulement dans l’Ogooué-Maritime, près de PortGentil (1 récolte)
+Western coast of Africa, tropical America and the Pacific; very rare in Gabon or overlooked, found only in Ogooué-Maritime, near Port-Gentil (1 collection)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marécages des dunes côtières, bords des lagunes ; à basse altitude. Note taxonomique : se reconnaît à son port robuste, sa grande inflorescence et ses épillets cylindriques se désarticulant à la base des glumes. B : Hooper & Napper (1972). ibliographie CYPERUS L. sous-genre KYLLINGA (Rottb.) Valck.Sur. Cyperus : 42 (1898). Kyllinga Rottb., Descr. icon. rar. pl . : 12, t. 4 (1773). Herbes vivaces ou plus rarement annuelles ; tiges longues de 5‒80 cm, triangulaires. Feuilles habituellement à limbe bien développé. Anatomie des tiges et des feuilles de type chlorocyperoïde (c’est-à-dire avec une anatomie de type C4). Inflorescence en anthèle dense formée d’un à plusieurs épis sphériques à cylindriques, composés de quelques ou de nombreux épillets sessiles serrés , rarement en groupe de quelques
+Marshes of coastal dunes, margins of lagoons; at low altitude. Taxonomic note: recognized by its robust habit, large inflorescence and cylindric spikelets disarticulating at the base of the glumes. B: Hooper & Napper (1972). Bibliography CYPERUS L. subgenus KYLLINGA (Rottb.) Valck.Sur. Cyperus: 42 (1898). Kyllinga Rottb., Descr. icon. rar. pl.: 12, t. 4 (1773). Perennial or more rarely annual herbs; stems 5–80 cm long, triangular. Leaves usually with well-developed blade. Anatomy of stems and leaves of chlorocyperoid type (that is, with C4 type anatomy). Inflorescence a dense anthela formed of one to several spheric to cylindric spikes, composed of few or many sessile spikelets tightly packed, rarely in a group of a few
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Trans. Linn. Soc. London 24(3) : 438 (1864). Palmier à stipe solitaire ou rarement cespiteux, de 6–16 m, 26–47 cm de diamètre, couvert de vieilles gaines foliaires et de fibres très fortement bouclées autour du stipe , > 1 cm de lar geur, noires. Feuilles 15 à 20 ; gaine 1–2 m de longueur ; pétiole 4–8 m ; rachis 7–10 m, armés d’épines sur la face supérieure ; limbe comprenant 200 à 240 paires de folioles linéaires, de 100–185 × 1–2,5 cm, à disposition irrégulière, la foliole basale filiforme. Inflorescences (3–)4 ou 5, pendantes , 1,8–3 m de longueur ; préfeuille 40–100 cm de longueur ; pédoncule ± 30 cm, à bractées tubuleuses de 30–40 cm de longueur ; rachis 1,5–2,3 m, couvert de nombreuses bractées ; rameaux florifères de premier ordre 60 à 70, 17–67 cm, ceux de second ordre 14 à 19, dirigés vers le sommet, 3–20 cm de longueur, 1–2 cm de diamètre, épaisses et robustes, ne se cassant pas facilement chez les jeunes inflorescences , plus longs vers la base que le sommet. Fleur mâle : calice 7–8 × 5–6 mm ; corolle unie sur le tiers de sa longueur, 10 × 4–5 mm, lobes à sommet acuminé ; étamines 17 à 20, filets 2–3 mm, anthère 5–7 × 1–2 mm, sagitté ; pistillode absent. Fleur femelle 15–20 × 8 mm ; corolle 1 cm de longueur ; staminodes 14, adnés à la corolle ; ovaire 13 × 6 mm. Fruit ellipsoïde, obovoïde ou oblong, 4–12 × 4–6 cm, rostré, avec 12 rangs d’écailles. Graine obovoïde, 4–4,2 × 2,2–2,6 cm.
+Trans. Linn. Soc. London 24(3) : 438 (1864). Palm with solitary or rarely caespitose stem, 6–16 m, 26–47 cm in diameter, covered with old leaf sheaths and fibres very strongly coiled around the stem, > 1 cm in width, black. Leaves 15 to 20; sheath 1–2 m in length; petiole 4–8 m; rachis 7–10 m, armed with spines on the upper surface; blade comprising 200 to 240 pairs of linear leaflets, 100–185 × 1–2.5 cm, in irregular arrangement, the basal leaflet filiform. Inflorescences (3–)4 or 5, pendulous, 1.8–3 m in length; prophyll 40–100 cm in length; peduncle ± 30 cm, with tubular bracts 30–40 cm in length; rachis 1.5–2.3 m, covered with numerous bracts; primary branching orders 60 to 70, 17–67 cm, those of second order 14 to 19, directed toward the apex, 3–20 cm in length, 1–2 cm in diameter, thick and robust, not breaking easily in young inflorescences, longer toward the base than the apex. Male flower: calyx 7–8 × 5–6 mm; corolla united for one-third of its length, 10 × 4–5 mm, lobes with acuminate apex; stamens 17 to 20, filaments 2–3 mm, anther 5–7 × 1–2 mm, sagittate; pistillode absent. Female flower 15–20 × 8 mm; corolla 1 cm in length; staminodes 14, adnate to the corolla; ovary 13 × 6 mm. Fruit ellipsoid, obovoid or oblong, 4–12 × 4–6 cm, rostrate, with 12 rows of scales. Seed obovoid, 4–4.2 × 2.2–2.6 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement réparti en Afrique tropicale (Ouest et centrale) ; de la Gambie jusqu’au Came roun, en Guinée équatoriale, au Gabon, en République du Congo, en République démocratique du Congo et en Angola (Cabinda) ; au Gabon, présent dans l’Estuaire, le Haut-Ogooué, le Moyen-Ogooué et la Nyanga. Statut de conservation : Préoccupation mineure (LC)
+Widely distributed in tropical Africa (West and central); from Gambia to Cameroon, in Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, present in Estuaire, Haut-Ogooué, Moyen-Ogooué and Nyanga. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En colonies presque monospécifiques dans les milieux marécageux, inondés, ou périodique ment inondés, le long des cours d’eau ou proches de la côte, plus rarement sur des sols bien drainés ; au Gabon entre 0 et 200 m d’altitude, ailleurs jusqu’à 400 m
+In almost monospecific colonies in swampy, inundated, or periodically inundated habitats, along watercourses or near the coast, more rarely on well-drained soils; in Gabon between 0 and 200 m in altitude, elsewhere up to 400 m
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ raphia (fr.) ; raphia palm, wine palm, Ivory Coast raphia palm (angl.) ; ompavo 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+R. hookeri is a very widespread species with several varieties described by Otedoh (1982). But we consider here a single species with continuous variation. It is characterized by a distinct stem several metres in height, clearly visible and covered with a network of strongly coiled fibres. It is interesting to note that this species is not mentioned by Raponda-Walker & Sillans (1961) and none of the descriptions seem to correspond to it. Bibliography: Pajarón et al. (2015), Segu (2012b), Stauffer et al. (2014), Tuley (1995).
 
-R. hookeri est une espèce très répandue avec plusieurs variétés décrites par Otedoh (1982). Mais nous considérons ici une seule espèce avec une variation continue. Elle est caractérisée par un stipe distinct de plusieurs mètres de hauteur, clairement visible et couvert d’un réseau de fibres fortement bouclées. Il est intéressant de noter que cette espèce n’est pas mentionnée par Raponda-Walker & Sillans (1961) et aucune des descriptions ne semble lui correspondre. B : Pajarón et al. (2015), Segu (2012b), Stauffer et al. (2014), Tuley (1995). i B liographie
-
-Dessin par M. Grierson, reproduit avec permission à partir de Russel (1965).
+Drawing by M. Grierson, reproduced with permission from Russel (1965).
 
 ## Notes
 

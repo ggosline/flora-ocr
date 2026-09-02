@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Willd., Sp. Pl. 5 : 385 (1810). — Tard., Mém. IFAN 28 : 79, t. 11, f. 8 (1953). — Alston, FWTA : 42 (1959).
 
-Rhizome court, portant des écailles lancéolées, à pseudonervure plus foncée; frondes en touffes. Pétiole long de 20-40 cm, violacé à la base et straminé plus haut chez le jeune, entièrement violacé ensuite, lisse, canaliculé, étroitement et courtement ailé sous la première paire inférieure de pennes. Limbe ovale-lancéolé non grimpant, long de 20-40 cm sur 15-25 de large, régulièrement bipinnatifide. 5-7 paires de pennes latérales, les supérieures opposées au sommet, les moyennes alternes, les inférieures pétio-lées, auriculées, à auricule pinnatifide, les moyennes courtement pétio-lées ou subsessiles, à base cunéiforme, divisées en une quin-
-
-zaine de segments arrondis, oblongs, dentés au sommet, séparés par d'étroits sinus; extrémité de la penne entière et courtemment effilée sur 1,5 à 2 cm environ. Penne terminale courtement décurrente, absence de bourgeon à sa base. Rachis lisse, plus ou moins brun violacé. Base des pennes portant, à la face supérieure, quelques petites protubérances mousses. Costae portant généralement des épines espacées (sauf dans la variété). Nervures formant une aréole costale surbaissée et une ou deux séries d'aréoles, entre le costa et la marge. Sores faisant presque tout le tour des lobes, jusqu'aux denticulations de l'apex; absence de paraphyses. Spores tétraédriques, lisses, à surfaces concaves.
+Rhizome short, bearing lanceolate scales with a darker pseudonerve; fronds in tufts. Petiole 20-40 cm long, violaceous at the base and stramineous higher up when young, subsequently entirely violaceous, smooth, channeled, narrowly and shortly winged beneath the first pair of inferior pinnae. Lamina ovate-lanceolate non-climbing, 20-40 cm long by 15-25 cm wide, regularly bipinnatifid. 5-7 pairs of lateral pinnae, the superior ones opposite at the apex, the median ones alternate, the inferior ones petiolate, auriculate, with pinnatifid auricle, the median ones shortly petiolate or subsessile, with cuneate base, divided into about fifteen rounded, oblong segments, dentate at the apex, separated by narrow sinuses; apex of the pinna entire and shortly tapering for approximately 1.5-2 cm. Terminal pinna shortly decurrent, absence of bud at its base. Rachis smooth, more or less brown-violaceous. Base of the pinnae bearing, on the upper surface, a few small mossy protuberances. Costae generally bearing spaced spines (except in the variety). Veins forming a depressed costal areole and one or two series of areoles, between the costa and the margin. Sori forming almost the entire circumference of the lobes, extending to the denticulations of the apex; absence of paraphyses. Spores tetrahedral, smooth, with concave surfaces.
 
 ## Type
 
@@ -34,11 +30,9 @@ Flügge, royaume d'Oware et du Benin, S Nigeria (herb. Willdenow)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species has been confused with Pteris Burtoni Bak., whose pinnatifid forms are very similar. However, P. Burtoni possesses slightly dimorphic fertile fronds, pinnate or irregularly pinnatifid, a bud at the base of the terminal pinna, and no paraphyses.
 
-Cette espèce a été confondue avec le Pteris Burtoni Bak., dont les formes pinnatifides se rapprochent beaucoup. Cependant le P. Burtoni possède des frondes fertiles légèrement dimorphes, pennées ou irrégulièrement pinnatifides, un bourgeon à la base de la penne terminale et pas de paraphyses.
-
-Afrique tropicale, San-Thomé. Sous-bois peu éclairés, sur sol humide.
+Tropical Africa, São Thomé. Poorly lit understory, on moist soil.
 
 ## Specimens examined
 

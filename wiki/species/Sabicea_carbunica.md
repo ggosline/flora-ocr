@@ -16,25 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aff. S. capitellatae Benth., but differing in stipules often apiculate or biapiculate, leaves glabrous above, bracts lanate shortly apiculate, calyx lobes lanate, many flowers. Aff. also S. Johnstonii Wernh., but differing in median somewhat puberulous above, calyx lobes shorter, fruits sessile.
 
-Aff. S. capitellatae Benth., sed stipulis saepe apiculatis vel biapiculatis, foliis superne glabris, bracteis lanuginosis breviter apiculatis, lobis calycis lanuginosis, floribus multis, differt. Aff. etiam S. Johnstonii Wernh., sed mediana supra puberula, lobis calycis brevioribus, fructibus sessilibus, differt.
+Small somewhat voluble vine, sometimes bushy, with rootstock reaching 14 mm diam., with wood 4-lobed in transverse section. Branchlets pubescent tawny with apices ± red. Stipules ovate or suborbicular, often uni- or biapiculate, 3–6 mm wide, not caducous. Petiole hairy, 5–20 mm long. Blade very discolorous, glabrous above except the midline, with dense white woolly tomentum below, 3–11 (15) × 1.5–6 cm, cuneate at base, apiculate to lanceolate at apex. 8–12 pairs of secondary venation, hairy brown or red beneath the blade. Towards the apex of the most floriferous branchlets, leaves are sometimes very reduced.
 
-Petite liane un peu volubile, parfois buissonnante, à souche atteignant 14 mm de diam, avec un bois 4-lobé en coupe transversale. Rameaux pubescents fauves à extrémités ± rouges. Stipules ovées ou suborbiculaires, souvent uni ou biapiculées, larges de 3-6 mm, non caduques. Pétiole velu long de 5-20 mm. Limbe très discolore, glabre dessus sauf la ligne médiane, à feutrage blanc laineux dense dessous, de 3-11 (15) × 1,5-6 cm, à base cunéiforme, à sommet apiculé à lancéolé. 8-12 pairs de nervures secondaires velues brunes ou rouges sous le limbe. Vers le sommet des rameaux les plus florifères, les feuilles sont parfois très réduites.
+Inflorescences tawny or red pubescent, with peduncle 0.5–4.5 cm; two pairs of suborbicular apiculate bracts 3–6 mm wide, the two lower ones connate at base, outer surface both densely woolly and ± pubescent. Flowers sessile, 8–20 in number forming a spherical cluster at full anthesis. Calyx lobes ± spreading, oblong and ± acute, subequal, ca. 2.5 × 1 mm, tomentose-woolly externally. Apex of bud with garnet-red hairs. Corolla pale green, 1 cm long by 5–6 mm diam. at anthesis. Stamens (of the brevistyled form) apparent in the upper level of the throat; anther very pale cream-yellow as is the pollen, oblong, 2 × 0.5 mm, submedifixed, microapiculate. Ovary hairy, 5-locular. Placental mass 1.2 mm high with ovules surrounding a naked area.
 
-Inflorescences fauves ou rouges pubescentes, à pédoncule de 0,5-4,5 cm; deux paires de bractées suborbiculaires apiculées larges de 3-6 mm, les deux inférieures soudées à la base, à face externe à la fois densément laineuse et ± pubescente. Fleurs sessiles par 8-20 formant un bouquet sphérique lors de la pleine floraison. Lobes calycinaux ± étalés, oblongs et ± aigus, subégaux, d'env. 2,5 × 1 mm, feutres laineux extérieurement. Sommet du bouton à poils rouge grenat. Corolle vert pâle longue de 1 cm sur 5-6 mm de diam. à l'épanouissement. Étamines (de la forme brévystyle) apparentes dans le niveau supérieur de la gorge; anthère blanc-jaune très pâle comme le pollen, oblongue, de
+Fruit white, sessile, pubescent, spherical, 6.5–8 mm diam., with succulent pulp speckled with granules coloured red-currant.
 
-2 × 0,5 mm, submédifixe, microapiculée. Ovaire velu à 5 loges. Masse placentaire haute de 1,2 mm avec les ovules qui entourent une plage nue.
+Type (P): N. Hallé 1999, Ayem region, for vegetative apparatus and flower; N. Hallé 1942, for fruit.
 
-Fruit blanc sessile, pubescent sphérique de 6,5-8 mm de diam., à pulpe succulente piquetée de granules colorés rouge-groseille.
+Also in Congo, with a more rounded form at the base of the blades.
 
-Type (P) : N. Hallé 1999, région d'Ayem, pour appareil végétatif et fleur; N. Hallé 1942, pour le fruit.
+N. Hallé: 1942, 1999, Ayem region, SW of Ndjolé (fr. Apr. and fl. May); 3273, Bélinga, alt. 750 m (fl. Nov.).
 
-Également au Congo, avec une forme plus arrondie de la base des limbes.
-
-N. Hallé : 1942, 1999, région d'Ayem, SW de Ndjolé (fr. avr. et fl. mai) ; 3273, Bélinga, alt. 750 m (fl. nov.).
-
-N. Hallé et G. Cours : 5990 et 6041, Moumba, NE d'Etéké, vers 750 m, liane atteignant 5 m (fr. mai).
+N. Hallé and G. Cours: 5990 and 6041, Moumba, NE of Etéké, ca. 750 m, vine reaching 5 m (fr. May).
 
 ## Notes
 

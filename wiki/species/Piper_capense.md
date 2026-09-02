@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbrisseau ou sous-arbrisseau , parfois quelque peu lianescent, monoïque , jusqu’à 5 m de hauteur ; rameaux glabres ou pubescents, à racines adventives, absentes aux nœuds. Feuille : pétiole 0,5–5 cm ; limbe ovale-elliptique, 5–18 × 2,5–13 cm, à base arrondie-cordée, au sommet courtement acuminé à cuspidé, avec 3 à 9(–11) nervures palmées et pubescentes vers la base. Inflorescence en épis solitaires ; pédoncule 1–5 cm ; rachis 2,5–6(–10) cm ; bractées pubescentes dessous. Fleur généralement bisexuée ; étamines 2 ou 3 ; ovaire ovoïde, à 2 stigmates nettement récurvés . Fruit sessile , globuleux-comprimé, 2–4 mm de diamètre, vert ou blanc.
+Shrub or subshrub, sometimes somewhat scandent, monoecious, up to 5 m tall; branches glabrous or pubescent, with adventitious roots, absent at the nodes. Leaf: petiole 0.5–5 cm; lamina ovate-elliptic, 5–18 × 2.5–13 cm, with rounded-cordate base, shortly acuminate to cuspidate apex, with 3 to 9(–11) palmate nerves and pubescent toward the base. Inflorescence in solitary spikes; peduncle 1–5 cm; rachis 2.5–6(–10) cm; bracts pubescent beneath. Flower generally bisexual; stamens 2 or 3; ovary ovoid, with 2 clearly recurved stigmas. Fruit sessile, globose-compressed, 2–4 mm in diameter, green or white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et équatoriale y inclus Madagascar ; au Gabon, connu de la Ngounié et de l’Ogooué-Ivindo
+Tropical and equatorial Africa including Madagascar; in Gabon, known from Ngounié and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de forêt dense humide, endroits humides, parfois ouverts, forêt galerie ; au Gabon à 700 m d’altitude, ailleurs jusqu’à 2700 m
+undergrowth of dense humid forest, humid places, sometimes open, gallery forest; in Gabon at 700 m altitude, elsewhere up to 2700 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Deux variétés sont reconnues dans Flora of Tropical East Africa , mais seule la var. capense est signalée au Gabon. B : Baker & Wright (1909), Balle (1948), Diniz (1997), Verdcourt (1996). i B liographie
+Two varieties are recognized in Flora of Tropical East Africa, but only var. capense is recorded in Gabon. B: Baker & Wright (1909), Balle (1948), Diniz (1997), Verdcourt (1996). Bibliography
 
 ## Notes
 

@@ -23,7 +23,7 @@ B. Base of blade showing the opening of the sheath. Base of plant showing an int
 
 ## Distribution
 
-in all tropical regions with saline soils, especially near sea level; in Gabon, found only in the Estuary and Ogooué-Maritime (7 collections)
+in all tropical regions with saline soils, especially near sea level; in Gabon, found only in the Estuaire and Ogooué-Maritime (7 collections)
 
 ## Ecology
 

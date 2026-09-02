@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 l.c.: 228 (1955).
 
-Arbuste à feuilles 8-9-juguées; pétiole 5-12 cm; rachis 20-25 cm; folioles lancéolées, celles de la base 7-8 × 3 cm, celles du haut 10-12 × 2,2-2,5 cm, acuminées; acumen fin de 1 cm; 8-12 paires de nervures; pétioules 3-5 mm.
+Shrub with leaves 8–9-jugate; petiole 5–12 cm; rachis 20–25 cm; leaflets lanceolate, those at the base 7–8 × 3 cm, those at the apex 10–12 × 2.2–2.5 cm, acuminate; acumen fine, 1 cm; 8–12 pairs of veins; petiolules 3–5 mm.
 
-Inflorescences axillaires en épis de 3-4 cm, portant des cymules sessiles, avec bractées, de 1-3 fleurs; pédicelle de 3 mm. Calice, 5 mm, densément velu (poils de 0,2-0,3 mm); pétales égalant les sépales; 7 étamines à filet velu; disque supérieur réniforme; pistillode trigone, hirsute. Fleurs femelles et fruits inconnus. PL. 15, 10-15', p. 77.
+Inflorescences axillary in spikes of 3–4 cm, bearing sessile cymules, with bracts, of 1–3 flowers; pedicel 3 mm. Calyx 5 mm, densely hairy (hairs 0.2–0.3 mm); petals equalling the sepals; 7 stamens with hairy filament; upper disc reniform; pistillode trigonous, hirsute. Female flowers and fruits unknown. PL. 15, 10–15', p. 77.
 
 ## Type
 
@@ -54,9 +52,7 @@ Inflorescence de 14 cm; fleurs blanches de 3 mm, sur pédicelle de 3 mm.
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Il est plausible que l'aire de cette plante s'étende au Cameroun ou au Gabon. La découverte d'un nouvel échantillon serait souhaitable, car le type est vraisemblablement perdu.
+It is plausible that the range of this plant extends to Cameroon or Gabon. The discovery of a new specimen would be desirable, as the type is presumably lost.
 
 ## Notes
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, about fifty centimeters tall, in small tufts. Sheaths striated, ligule ciliate; blades 5–10 × 0.2–0.3 cm, glabrous or more or less pubescent.
 
-Herbe pérenne, d'une cinquantaine de centimètres de haut, en petites touffes. Gaines striées, ligule ciliée; limbes de 5-10 × 0,2 à 0,3 cm, glabres ou plus ou moins pubescents.
+Panicle divided to the third degree, 5–10 cm long, with filiform branches. Spikelets elliptic, 1.5 mm long, pubescent; glumes as long as the spikelet, the lower with 3 nerves, the upper with 5 nerves, with tuberculate hairs at the base. Lower floret male, lemma similar to the upper glume, but glabrous or nearly so, palea somewhat shorter. Fertile glumelles brownish, verrucose.
 
-Panicule divisée jusqu'au 3° degré, de 5 à 10 cm de long, à branches filiformes. Épilettes elliptiques de 1,5 mm de long, pubescents; glumes aussi longues que l'épillet, l'inférieure à 3 nervures, la supérieure à 5 nervures, avec des poils tuberculés à la base. Fleur inférieure mâle, lemma semblable à la glume supérieure, mais glabre ou presque, paléa un peu plus courte. Glumelles fertiles brûnâtres, verruqueuses.
-
-Espèce connue du Congo occidental et du Kasaï. Écologie et valeur assez semblables à celle de P. brazzavillense; plante cependant peut-être plus hydrophile.
+Species known from western Congo and Kasai. Ecology and value fairly similar to that of P. brazzavillense; plant however perhaps more hygrophilous.
 
 ## Specimens examined
 

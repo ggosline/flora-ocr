@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-$ ^{9} $ (1974), FCAM 21: 19 (1980) et FTEA, Cruciferæ: 53 (1982).
+$ ^{9} $ (1974), FCAM 21: 19 (1980) and FTEA, Cruciferæ: 53 (1982).
 
 rtium madagascariense DC., Syst. Nat. 2 : 192 (1821).
 
@@ -29,9 +27,9 @@ rtium madagascariense DC., Syst. Nat. 2 : 192 (1821).
 
 – N. benuense HUTCH. & DALZ, FWTA, ed. 1, 1: 92 (1927), Kew Bull.: 26 (1928).
 
-Plante annuelle délicate à racine pivotante grêle, presque glabre avec une rosette de feuilles très développées dépassant même souvent les grappes fructifères. Plusieurs tiges dès la base mais peu développées ou très courtes et peu ramifiées. Feuilles pour la plupart en rosette, pétiolées, étroitement oblongues de 3-11 cm, larges jusqu'à 2 cm, penna-tipartites avec un segment terminal et 4-6 paires de segments latéraux. Segments ovales ou suborbiculaires à marges sinuées ou crénelées, obtus à base cordée ou tronquée, les latéraux atteignant 1,5 cm de longueur, brièvement pétiolés, le segment terminal étant un peu plus développé. Feuilles caulinaires peu nombreuses ou absentes de forme semblable mais plus réduites.
+Delicate annual plant with a slender taproot, almost glabrous with a very well developed rosette of leaves often exceeding the fruiting racemes. Several stems from the base but poorly developed or very short and little branched. Leaves mostly in a rosette, petiolate, narrowly oblong 3–11 cm long, up to 2 cm wide, pinnatifid with a terminal segment and 4–6 pairs of lateral segments. Segments ovate or suborbicular with sinuate or crenate margins, obtuse with cordate or truncate base, the lateral ones reaching 1.5 cm in length, shortly petiolulate, the terminal segment being somewhat more developed. Cauline leaves few or absent of similar form but more reduced.
 
-Grappes axilliares des feuilles radicales ou caulinaires, sans bractées, très condensées à nombreuses fleurs très petites; infrutés-cences allongées atteignant une longueur de 9 cm pédicelles fructifères longs de 1-3 mm, étalés. Sépales verdâtres ou violacés, elliptiques, longs de 1-1,2 mm. Pétales blanchâtres, très étroits, longs d'environ 1 mm. Étamines à filets linéaires ; anthères longues d'environ 0,3 mm. Ovaire ellipsoidal ; style long d'environ 0,1 mm, stigmate aplati. Siliques linéaires, atténuées vers la base et vers le style, 7-15 × 1-1,5 mm ; style persistant d'environ 1 × 0,3 mm. Graines unisériées brun-rougeâtre, suborbiculaires, longues de 0,5-0,7 mm. - Pl. 00, p. 00.
+Racemes axillary to the radical or cauline leaves, without bracts, very dense with numerous very small flowers; fruiting inflorescences elongate reaching up to 9 cm long, fruiting pedicels 1–3 mm long, spreading. Sepals greenish or violaceous, elliptic, 1–1.2 mm long. Petals whitish, very narrow, about 1 mm long. Stamens with linear filaments; anthers about 0.3 mm long. Ovary ellipsoidal; style about 0.1 mm long, stigma flattened. Siliques linear, attenuate towards the base and towards the style, 7–15 × 1–1.5 mm; persistent style about 1 × 0.3 mm. Seeds uniseriate, reddish-brown, suborbicular, 0.5–0.7 mm long. - Pl. 00, p. 00.
 
 ## Type
 
@@ -39,9 +37,7 @@ Chevalier s.n., Madagascar (holo-P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce, répandue dans la région guinéo-congolaise du Sénégal à la Namibie (Kumene), atteint l'Ouganda, le Burundi, le Zaïre oriental et la Zambie ; on la rencontre aussi à Madagascar. Elle vit au bord des mares et des cours d'eau, parfois le long des sentiers forestiers.
+This species, widespread in the Guineo-Congolian region from Senegal to Namibia (Kunene), reaches Uganda, Burundi, eastern Zaïre and Zambia; it is also found in Madagascar. It occurs along the margins of pools and watercourses, sometimes along forest paths.
 
 ## Specimens examined
 

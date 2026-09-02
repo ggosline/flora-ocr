@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles 2, < 30 x 0,1-0,8 cm, linéaires, produites après l'inflorescence. Inflorescence < 46 cm, 5-7-flore. Fleurs petites, un peu fléchies, jaunes avec un labelle jaune teinté de rouge ou de rose, parfois avec des taches brun violacé. Sépale dorsal oblong-elliptique, brièvement acuminé. Pétales oblongs-elliptiques, obtus. Sépales latéraux oblongs-lancéolés, un peu falciformes. Labelle 8,5 x 5,1 mm, sans callus, trilobé, 5-7 rangées de papilles ; lobe médian circulaire à elliptique-ové, irrégulièrement fimbrié ; lobes latéraux triangulaires, entiers, obtus. Éperon cylindrique-claviforme.— Pl. 148, p. 333.
+Leaves 2, < 30 × 0.1–0.8 cm, linear, produced after the inflorescence. Inflorescence < 46 cm, 5–7-flowered. Flowers small, somewhat curved, yellow with a labellum yellow tinged with red or pink, sometimes with dark violet spots. Dorsal sepal oblong-elliptic, briefly acuminate. Petals oblong-elliptic, obtuse. Lateral sepals oblong-lanceolate, somewhat falcate. Labellum 8.5 × 5.1 mm, without callus, trilobed, 5–7 rows of papillae; median lobe circular to elliptic-ovate, irregularly fimbriate; lateral lobes triangular, entire, obtuse. Spur cylindric-clavate.— Pl. 148, p. 333.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-actuellement connue du Cameroun, de la République centrafricaine et du Congo
+currently known from Cameroon, the Central African Republic and the Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. inconnue. Terrestre en savane herbeuse
+alt. unknown. Terrestrial in grassy savanna
 
 ## Specimens examined
 

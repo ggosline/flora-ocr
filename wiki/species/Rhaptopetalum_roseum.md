@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (2) : 475 (1921); LETOUZEY, Adansonia, ser. 2, 1 (1) : 125 (1961); GERMAIN, BJBB 32 : 489 (1962); FCB 10 : 324 (1963). — Diospyros rosea Gürke, in MILDBR., Deutsch. Zentr.-Afr. Exp. 1907-08, 2 : 525 (1913).
 
-La présence de cette espèce des forêts denses humides orientales du Zaïre, entre 850 et 1200 m d'altitude, a été signalée au Cameroun par ENGLER (l.c. : 475), d'après un échantillon de MILDBRAED, non numéroté
+The presence of this species from the dense humid eastern forests of Zaïre, between 850 and 1200 m altitude, was reported from Cameroon by ENGLER (l.c. : 475), based on a specimen from MILDBRAED, apparently unnumbered and today lost, collected south of the Nyong between Ebolowa and Yaoundé. This species does not appear to have been rediscovered in Cameroon to date; the following characteristics, given for reference purposes, therefore derive from the descriptions by Gürke, Engler and Germain, as well as from observations on material available in the Brussels Herbarium.
 
-semble-t-il et aujourd'hui introuvable, récolté au Sud du Nyong entre Ebolowa et Yaoundé. Cette espèce ne semble pas avoir, à ce jour, été retrouvée au Cameroun, les caractéristiques suivantes, données à titre indicatif, proviennent donc des descriptions de Gürke, Engler et German, ainsi que d'observations sur le matériel disponible à l'Herbier de Bruxelles.
+Shrub or small tree reaching 13 m in height and 20–25 cm in diameter; young branches angular, finely puberulent; petiole 5–10 mm long, glabrous. Blade coriaceous, oblong to elliptic-oblong, 5–9 × 10–25 cm; base subacute, attenuate onto the petiole; apex obtuse narrowed into a short acumen; 6–7 pairs of lateral veins.
 
-Arbuste ou petit arbre atteignant 13 m de hauteur et 20-25 cm de diamètre; jeunes rameaux anguleux, finement pubérulents; pétiole long de 5-10 mm, glabre. Limbe coriace, oblong à elliptique-oblong, 5-9 × 10-25 cm; base subaiguë, atténuée sur le pétiole; sommet obtus rétréci en un court acumen; 6-7 paires de nervures latérales.
+Axillary racemes, contracted, bearing 3–10 flowers; pedicel articulate directly beneath the calyx; floral bud globose, 3 mm in diameter. Calyx cupuliform spreading, 4 mm high and 7 mm wide, with 4–5 subrounded lobes¹; corolla lobes reaching 6 × 10 mm; stamens 7 mm long; ovary semi-inferior, 3–5 locules biovulate or pluriovulate (see above "calyx") with placenta toward the top of the locules; style 8 mm long.
 
-Racèmes axillaires, contractés, portant 3-10 fleurs; pédicelle articulé directement sous le calice; bouton floral globuleux, 3 mm de diamètre. Calice cupuliforme évasé, haut de 4 mm et large de 7 mm, à 4-5 lobes sub-arrondis¹; lobes de la corolle atteignant 6 × 10 mm; étamines longues de 7 mm; ovaire semi-infère, 3-5 loges biovulées ou pluriovulées (voir ci-dessus « calice ») avec placenta vers le haut des loges; style long de 8 mm.
-
-Capsule à pédicelle robuste long de 4-6 mm, orangée à maturité, courtement ellipsoïde à ovoïde, atteignant 20 mm de largeur et 23 mm de longueur, 3-5 valves; graines 2(-3), longues de 10-13 mm. — PL. 52, p. 181.
+Capsule with stout pedicel 4–6 mm long, orange at maturity, shortly ellipsoid to ovoid, reaching 20 mm in width and 23 mm in length, 3–5 valves; seeds 2(–3), 10–13 mm long. — PL. 52, p. 181.
 
 ## Type
 
@@ -37,15 +33,13 @@ Mildbraed 2812, Zaire (holo-, B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+NEOTYPE (GERMAIN, 1963) : A. Léonard 4941, Zaïre (holo-, BR!; iso-, YBI).
 
-NÉOTYPE (GERMAIN, 1963) : A. Léonard 4941, Zaïre (holo-, BR!; iso-, YBI).
+TAXONOMIC NOTES :
 
-NOTES TAXONOMIQUES :
+One may wonder whether this species from the low mountains of eastern Zaïre really exists in Cameroon (where it would have been found only once); such a geographical disjunction would constitute an exception within the Scytopétalacées and particularly within the genus Rhaptopetalum where there appears to be an endemism always very localized. In the region where this species would have been collected, south of the Nyong between Ebolowa and Yaoundé, Rhaptopetalum coriaceum Oliv. is also encountered, very probably; now this latter species has an entire floral calyx but liable to split into sectors of sometimes lobed-rounded appearance; however the base of the calyx, leaf, ovary and fruit clearly differentiate these two species. Another comparison may be attempted with R. depressum R. Let., known from the neighboring region of Lolodorf; here the floral calyx is festooned-crenate but may still split radially; the base of the calyx and the ovary are by contrast identical and the leaf is only slightly more elongate, the fruit of R. depressum R. Let. remaining however unknown; by the calyx alone these two species can apparently be distinguished correctly.
 
-On peut se demander si cette espèce des basses montagnes du Zaïre oriental existe réellement au Cameroun (où elle n'aurait été trouvée qu'une seule fois); une telle disjonction géographique constituerait une exception au sein des Scytopétalacées et particulièrement au sein du genre Rhaptopetalum où existe, semble-t-il, un endémisme toujours très localisé. Dans la région où cette espèce aurait été récoltée, au Sud du Nyong entre Ebolowa et Yaoundé, se rencontre aussi, très vraisemblablement, Rhaptopetalum coriaceum Oliv.; or cette dernière espèce présente un calice floral entier mais susceptible de se déchirer en secteurs d'apparence parfois lobée-arrondie; cependant base du calice, feuille, ovaire et fruit différencient bien ces deux espèces. Un autre rapprochement peut être tenté avec R. depressum R. Let., connue de la région voisine de Lolodorf; ici le calice floral est festonné-crénelé mais peut encore se fendre radialement; la base du calice et l'ovaire sont par contre identiques et la feuille n'est qu'un peu plus allongée, le fruit de R. depressum R. Let. restant toutefois inconnu; par le seul calice ces deux espèces peuvent être distinguées correctement, semble-t-il.
-
-1. Parmi tous les spécimens de l'herbier de Bruxelles examinés, provenant tous de la région où avait été récolté le type Mildbraed 2812 aujourd'hui disparu, seul l'échantillon Troupin 4442 est en fleurs; le calice des jeunes boutons floraux présente effectivement 4 lobes sub-arrondis mais ultérieurement la marge se déchire radialement en plusieurs secteurs, comme chez Rhaptopetalum coriaceum Oliv.; à signaler aussi que l'ovaire est semi-infère et que les loges sont pluriovulées et non biovulées.
+1. Among all specimens of the Brussels herbarium examined, all from the region where the type Mildbraed 2812 had been collected and is now missing, only the specimen Troupin 4442 is in flower; the calyx of the young floral buds indeed presents 4 subrounded lobes but subsequently the margin splits radially into several sectors, as in Rhaptopetalum coriaceum Oliv.; it should also be noted that the ovary is semi-inferior and that the locules are pluriovulate and not biovulate.
 
 ## Figures
 

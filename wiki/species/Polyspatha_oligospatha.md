@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 5‒20(‒30) cm de hauteur ; tige à entrenœuds pubérulents à poils crochus. Feuilles espacées sur la tige et quelques-unes concentrées au sommet ; gaine 0,8‒1,5 cm de longueur, pubérulente, longuement ciliée au sommet ; pseudopétiole ± 1 cm ; limbe elliptique à ovale ou ovale-circulaire, rarement oblong-elliptique, 3‒9(‒11) × 2‒4,5 cm, base cunéée à largement cunéée, sommet aigu à acuminé, parfois mucroné, bords scabres, face supérieure éparsement et longuement pubescente , face inférieure pubérulente ou presque glabre. Inflorescence terminale, 2‒7 × 7,5 cm, avec 1 à 4 thyrses simples , chacun à pédoncule court et axe allongé en zigzag, à poils réfléchis, avec 4 à 8 spathes renfermant un seul cincinnus (1-)2- ou 3-flore ; spathes d’abord érigées, puis étalées , parfois légèrement défléchies, rarement couvrant le rachis ou la spathe précédente, 6,5‒10(‒12) × (3‒)4‒7 mm (pliées), pubérulentes, à sommet aigu à arrondi , ciliolées, brunes ou brunâtres sur la nervure médiane, à surface à cellules luisantes, toujours près de la nervure dorsale, brunes, en forme de bulles sous un grossissement de × 20. Fleur : pédicelle 1‒2,5 mm, glabre ou avec une pubescence sporadique unisériée courte ; sépales 3‒4,5 × 1‒2,3 mm lors de la floraison, ± 4 mm de longueur en fruit ; pétales supérieurs rhomboïdaux à circulaires , 5‒7 × 2,5–3 mm de longueur (dont 3‒5 mm pour l’onglet), l’inférieur étroi -
-
-tement elliptique, (2‒)3‒4,7 × (0,2–)0,8‒1 mm ; étamines à filet de 4,5‒8,5 mm, anthère 1‒1,7 mm de longueur ; staminodes à filet de 3‒6 mm, blancs ; style 5,5‒8,5 mm. Fruit largement ellipsoïde, 3,5‒4 × 2‒3 mm, rétréci entre les graines , à sommet émarginé . Graine ellipsoïdale, 1,6‒2,2(‒2,5) × 1,3‒1,5(‒1,6) mm ; testa nettement ridé avec (17‒)18 à 23 rides tuberculées et transversalement interrompues, surface ocre, souvent couvert par une couche brune et mate.
+Herb 5‒20(‒30) cm in height; stem with puberulent internodes bearing hooked hairs. Leaves scattered along the stem and some concentrated at the apex; sheath 0.8‒1.5 cm long, puberulent, long-ciliate at the apex; pseudopetiole ± 1 cm; blade elliptic to ovate or ovate-circular, rarely oblong-elliptic, 3‒9(‒11) × 2‒4.5 cm, base cuneate to broadly cuneate, apex acute to acuminate, sometimes mucronate, margins scabrous, upper surface sparsely and long pubescent, lower surface puberulent or almost glabrous. Inflorescence terminal, 2‒7 × 7.5 cm, with 1 to 4 simple thyrses, each with short peduncle and elongate axis in zigzag, with reflexed hairs, bearing 4 to 8 spathes enclosing a single cincinnus (1-)2- or 3-flowered; spathes initially erect, then spreading, sometimes slightly deflexed, rarely covering the rachis or the preceding spathe, 6.5‒10(‒12) × (3‒)4‒7 mm (folded), puberulent, apex acute to rounded, ciliolate, brown or brownish on the midrib, surface with shining cells, always near the dorsal nerve, brown, bubble-shaped under × 20 magnification. Flower: pedicel 1‒2.5 mm, glabrous or with sporadic short uniseriate pubescence; sepals 3‒4.5 × 1‒2.3 mm at anthesis, ± 4 mm long in fruit; upper petals rhomboidal to circular, 5‒7 × 2.5–3 mm long (including 3‒5 mm for the claw), lower one narrowly elliptic, (2‒)3‒4.7 × (0.2–)0.8‒1 mm; stamens with filament 4.5‒8.5 mm, anther 1‒1.7 mm long; staminodes with filament 3‒6 mm, white; style 5.5‒8.5 mm. Fruit broadly ellipsoid, 3.5‒4 × 2‒3 mm, constricted between the seeds, apex emarginate. Seed ellipsoidal, 1.6‒2.2(‒2.5) × 1.3‒1.5(‒1.6) mm; testa distinctly ridged with (17‒)18 to 23 tuberculate ridges transversely interrupted, surface ochre, often covered by a brown and dull layer.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Cameroun, République du Congo, République démocratique du Congo, Ouganda et Soudan ; à rechercher au Gabon
+Côte d'Ivoire, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Uganda and Sudan; to be searched for in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts ; ailleurs de 600 à 700 m d’altitude. Fleurs et fruits en juin et octobre. Floraison le matin
+forest understory; elsewhere at 600 to 700 m altitude. Flowers and fruits in June and October. Flowering in the morning
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les plantes sont plus petites que les autres espèces, avec des poils longs unisériés sur la face supérieure des feuilles, des inflorescences avec peu de spathes, bien espacées, généralement étalées, parfois légèrement défléchies, et les cellules de la face de la spathe, au moins celles proches de la nervure médiane, sont lustrées, brunes, et en forme de perle. Les graines sont profondément et transversalement côtelées avec des côtes discontinues. B : Faden (2011, 2012). i B liographie
+The plants are smaller than the other species, with long uniseriate hairs on the upper surface of the leaves, inflorescences with few spathes, well-spaced, usually spreading, sometimes slightly deflexed, and the cells of the spathe surface, at least those near the midrib, are lustrous, brown, and pearl-shaped. The seeds are deeply and transversely ribbed with discontinuous ribs. B: Faden (2011, 2012). Bibliography
 
 ## Notes
 

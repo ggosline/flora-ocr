@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 15, p. 67)
 
-Frutex parvus pubescens. Stipula subcaudata 10-20 mm longæ. Petiolus 6-15 mm longus, villosus. Lamina superne glabra, subtus villosa, elliptica, 10-15 cm longa, basi acuta, apice subacuminata. Nervi 5-9 jugi, longe ascendentes, villosæ. Inflorescentæ sphæricæ multifloræ terminales sessiles apice pendentes. Calyx haud tubulosus sepala 5 linearia 9-13 × 1-2 mm, usque ad imum separata. Ovarium puberulum 2-loculatum. Fructus immaturus viridis usque ad 10 mm diam. Discus in diametro accrescens. Semina 1,2 mm longa, 34 in fructu.
+Small pubescent shrub. Stipules subcaudate 10–20 mm long. Petiole 6–15 mm long, villous. Lamina glabrous above, villous below, elliptic, 10–15 cm long, acute at base, subacuminate at apex. Nerves 5–9 pairs, long-ascending, villous. Inflorescences spherical, multiflorous, terminal, sessile, pendulous at apex. Calyx not tubular, sepals 5, linear, 9–13 × 1–2 mm, separate to the base. Ovary puberulous, 2-locular. Immature fruit green, up to 10 mm diam. Disc increasing in diameter. Seeds 1.2 mm long, 34 in the fruit.
 
-Arbrisseau grêle de 1,30-1,80 m de hauteur, à tige verticale; rameaux horizontaux longs d'env. 50 cm; jeunes rameaux fortement pubescents. Stipules de 10-20 × 3-5 mm, à sommet acuminé effilé, à base tubuleuse sur 2-5 mm, pubescentes. Pétioles velus de 6-15 mm de longueur. Limbe glabre dessus, finement velu dessous, brun à sec, elliptique, de 10-15 × 3,5-6 cm, à base aiguë, à sommet subacuminé. 7-9 paires de nervures secondaires très longuement ascendantes, velues dessous ainsi que la ligne marginale.
+Slender shrub 1.30–1.80 m high, with vertical stem; branches horizontal, approximately 50 cm long; young branches strongly pubescent. Stipules 10–20 × 3–5 mm, apex acuminate and attenuate, base tubular for 2–5 mm, pubescent. Petioles villous, 6–15 mm long. Lamina glabrous above, finely villous below, brown when dry, elliptic, 10–15 × 3.5–6 cm, acute at base, subacuminate at apex. 7–9 pairs of secondary nerves very long-ascending, villous below as well as the marginal line.
 
-Inflorescences sphériques multiflores de 2,5-3,5 cm de diam., sessiles aux extrémités des rameaux horizontaux et tournées vers le bas. Fleurs sessiles. Corolles non vues. Calice vert pâle velu non tubuleux, à 5 sépales linéaires de 9-13 × 1-2 mm. Ovaire pubescent à 2 loges.
+Inflorescences spherical, multiflorous, 2.5–3.5 cm diam., sessile at the ends of horizontal branches and directed downward. Flowers sessile. Corollas not seen. Calyx pale green, villous, not tubular, with 5 linear sepals 9–13 × 1–2 mm. Ovary pubescent, 2-locular.
 
-Infrutescence capitée dense de 4,5 cm de diam., hérissee des sépales persistants. Fruits sessiles contigus, verts, atteignant 10 mm de diam. Sépales espacés à la base autour du disque qui atteint 8 mm de diam. 34 graines disposées sur 2 placentas peltés echinulés. Graine typique du genre, tronc-pyramidale, haute de 1,3 mm.
+Infructescence capitate, dense, 4.5 cm diam., bristly with persistent sepals. Fruits sessile, contiguous, green, reaching 10 mm diam. Sepals spaced at the base around the disc, which reaches 8 mm diam. 34 seeds arranged on 2 peltate echinulate placentae. Seed typical of the genus, truncate-pyramidal, 1.3 mm high.
 
 ## Type
 
@@ -34,11 +32,9 @@ N. Hallé et J.-F. Villiers 4744 (holotype P; isotypes BR et K), 7 km NE de Mela
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species of the subgenus Bertierella sect. Capitata is related, although very distinct from B. globiceps K. Schum.
 
-Cette espèce du sous-genre Bertierella sect. Capitata est voisine quoique très distincte du B. globiceps K. Schum.
-
-Forêt dense presque intacte de 400 à 900 m d'altitude.
+Dense forest almost intact at 400 to 900 m altitude.
 
 ## Specimens examined
 

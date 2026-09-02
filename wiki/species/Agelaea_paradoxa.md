@@ -96,7 +96,7 @@ Breteler 6769, 23 km Moanda-Franceville (fr., Oct.), WAG. Breteler & al. 8668, 2
 
 Reitsma 2301, Réserve de la Lopé (fr., Mai), WAG.
 
-Reitsma 2301, Réserve de la Lopé (fr., Mai), WAG. Reitsma & al. 3393, Mt du Casque, ≈ 20 km au N.O. de Booué (fl., j. fr., Mai), WAG. Van der Maesen & de Bruijn 5731, près de Lastoursville (fr., Nov.), LBV, WAG. Wieringa 555, Woleu Ntem, vallée de la Nsye (fr., Fév.), LBV, WAG. Wilks MINK-W-53, Minkébé (fr., Mars), LBV, WAG.
+Reitsma 2301, Réserve de la Lopé (fr., Mai), WAG. Reitsma & al. 3393, Mt du Casque, ≈ 20 km au N.O. de Booué (fl., j. fr., Mai), WAG. Van der Maesen & de Bruijn 5731, près de Lastoursville (fr., Nov.), LBV, WAG. Wieringa 555, Woleu-Ntem, vallée de la Nsye (fr., Fév.), LBV, WAG. Wilks MINK-W-53, Minkébé (fr., Mars), LBV, WAG.
 
 ## Figures
 

@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (Engl. et Kr.) Rob. et Wilcz. (pl. IV).
 
 — Robyns et Wilczek, Bull. jard. Bot. Ét. Brux.: 203 (1950). = Tylostemon anacardioides Engl. et Kr., Jahrb. 46: 145. F.T.A. 6,1: 1022 (1909).
 
-Arbre de 15-20 m, écorce marron foncé; rameaux arrondis, épais de 5 mm, glabres, striés. Les feuilles sont très coriaces, tout à fait glabres, brillantes, vert foncé (fraîches) puis marron (sèches); les fleurs sont vert-jaunâtre puis brunes. Fruit inconnu.
+Tree 15–20 m tall, bark dark brown; branchlets rounded, 5 mm thick, glabrous, striate. The leaves are very coriaceous, entirely glabrous, glossy, dark green (fresh) then brown (dried); the flowers are yellowish-green then brown. Fruit unknown.
 
 ## Type
 
@@ -30,9 +28,7 @@ Ledermann 2447, Tibati, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La plante de Le Testu recueillie en 1929 et conservée à Paris n'est rapprochée de l'espèce que par la description. Les bractées sont velues sur les 2 faces.
+The specimen of Le Testu collected in 1929 and preserved in Paris is compared to the species only on the basis of the description. The bracts are pubescent on both surfaces.
 
 ## Specimens examined
 

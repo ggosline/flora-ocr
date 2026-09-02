@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, syn. nov. Herbe annuelle , jusqu’à 1 m de hauteur, glabre . Stipules étroitement triangulaires à fi liformes, 1–1,6 mm de longueur. Feuille : pétiole 0,3–0,7 mm ; limbe oblong, 2,5–12,5 × 1,5–4,5 mm, arrondi à la base, obtus à aigu au sommet, marge parfois denticulée, à 4–7 paires de nervures latérales. Fleurs monoïques. Fleurs mâles en glomérules pau ciflores ; pédicelle 0,4–0,8 mm ; sépales 5 , 0,6–1 × 0,4–0,9 mm ; disque formé d’élé ments alternisépales ; étamines 3, ± 0,5 mm de longueur, à filets soudés. Fleur femelle solitaire ; pédicelle 1,5–2,3 mm ; sépales 5 , 1,5–2,2 × 1–1,5 mm ; disque cupulaire, aplati et 5-lobé ; ovaire à surface verruqueuse au moins au sommet ; styles distincts, brièvement soudés. Fruit capsulaire, 2,2–2,8 mm de diamètre, granuleux à verruqueux au moins au sommet. Graines en forme d’onglet sphérique, 1–1,2 mm de longueur, brunes, dorsalement ornées de (13–)14–15(–16) lignes de fines costules longitudinales.
+, syn. nov. Annual herb, up to 1 m tall, glabrous. Stipules narrowly triangular to filiform, 1–1.6 mm long. Leaf: petiole 0.3–0.7 mm; blade oblong, 2.5–12.5 × 1.5–4.5 mm, rounded at base, obtuse to acute at apex, margin sometimes denticulate, with 4–7 pairs of lateral veins. Flowers monoecious. Male flowers in few-flowered glomerules; pedicel 0.4–0.8 mm; sepals 5, 0.6–1 × 0.4–0.9 mm; disk formed of alternisepalous elements; stamens 3, ± 0.5 mm long, with connate filaments. Female flower solitary; pedicel 1.5–2.3 mm; sepals 5, 1.5–2.2 × 1–1.5 mm; disk cupular, flattened and 5-lobed; ovary with verrucose surface at least at apex; styles distinct, briefly connate. Fruit capsular, 2.2–2.8 mm in diameter, granular to verrucose at least at apex. Seeds claw-shaped spheroidal, 1–1.2 mm long, brown, dorsally ornamented with (13–)14–15(–16) lines of fine longitudinal costules.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bien répandue en Afrique tropicale, de la Guinée au Cameroun, Guinée Équatoriale, Gabon, République du Congo, République Démocratique du Congo vers l’Afrique de l’Est ; au Gabon, connue de l’Estuaire, de la Nyanga et de l’Ogooué Ivindo
+widely distributed in tropical Africa, from Guinea to Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo toward East Africa; in Gabon, known from Estuaire, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains à végétation secondarisée, jachères ; au Gabon, à 0–650 m d’altitude. Usage : En Afrique de l’Ouest, la plante sert à plusieurs traitements médicinaux (voir Alvarez Cruz 2008). Note taxonomique : P. verdickii est mentionné dans la Check-list des Plantes Vasculaires du Gabon (Sosef et al. 2006). Ce nom est mis en synonymie de P. niruroides ici pour la première fois, sur la base de l’étude de l’échantillon type. b : Alvarez Cruz (2008), Brunel (1987), Keay (1958), Smith (1987). ibliographie
+secondary vegetation areas, fallows; in Gabon, at 0–650 m altitude. Uses: In West Africa, the plant is used for several medicinal treatments (see Alvarez Cruz 2008). Taxonomic note: P. verdickii is mentioned in the Check-list of Vascular Plants of Gabon (Sosef et al. 2006). This name is placed in synonymy with P. niruroides here for the first time, based on study of the type specimen. Bibliography: Alvarez Cruz (2008), Brunel (1987), Keay (1958), Smith (1987).
 
 ## Notes
 

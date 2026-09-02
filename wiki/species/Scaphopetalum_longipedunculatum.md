@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, original reference, and Journ. Linn. Soc. X : 28, t. 2 (1869). — K. Schum. Sterc. Afr. : 93, t. 6 B, non C (1900). — Pellegr. Sterc. Gab. in Mém. S. B. Fr. : 47 (1950-1951).
 
-, réf. originale, et Journ. Linn. Soc. X : 28, t. 2 (1869). — K. Schum. Sterc. Afr. : 93, t. 6 B, non C (1900). — Pellegr. Sterc. Gab. in Mém. S. B. Fr. : 47 (1950-1951).
+We refer to this species the numbers 1148 and 1364 of R. P. Klaine (vicinity of Libreville), which differ from Sc. macranthum by its smaller sepals, about 1.5 cm long, by its yellow corolla, by its more slender inflorescences, and by the number of ovules (6-10 in two series according to Pierre). The leaves have a somewhat thinner blade and a less marked veinlet network. These are small woody shrubs flowering close enough to the ground to sometimes emit rootlets along the inflorescent peduncle (Masters type). The distinctive characters given by K. Schumann's figures, glabrous ovary (?), 3-dentate petals, appear to be of doubtful or mediocre value.
 
-Nous rapportons à cette espèce les numéros 1148 et 1364 du R. P. Klaine (env. de Libreville), qui différent du Sc. macranthum par ses sépales plus petits, longs d'env. 1,5 cm, par sa corolle jaune, par ses inflorescences plus grèles, et par le nombre d'ovules (6-10 en deux séries d'après Pierre). Les feuilles sont à limbe un peu plus mince et à réseau des nervilles moins marqué. Ce sont de petits arbrisseaux ligneux fleurissant assez près du sol pour émettre parfois des radicelles le long du pédoncule inflorescentiel (type de Masters). Les caractères distinctifs donnés par les figures de K. Schumann, ovaire glabre (?), pétales 3-dentés, paraissent de valeur douteuse ou médiocre.
-
-De cette espèce insuffisamment connue, nous n'avons pas vu le type qui est de Guinée espagnole : Mann (K.).
+Of this insufficiently known species, we have not seen the type which is from Spanish Guinea: Mann (K.).
 
 ## Notes
 

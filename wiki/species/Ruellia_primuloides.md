@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plant or shrub reaching 1 m, covered with multicellular hairs. Leaves inequilateral and generally of very unequal size (anisophylly), entire, often somewhat asymmetric. Petioles 4–10 mm. Leaf blade elliptic, 6–10 × 2.5–5 cm, hairy especially on the upper surface of the nerves.
 
-Plante herbacée ou arbuste atteignant 1 m, couvert de poils multicellulaires. Feuilles inéquilatérales et en général de grandeur très inégale (anisophyllie), entières, souvent un peu assymétriques. Pétioles de 4-10 mm. Limbe des feuilles elliptiques de 6-10 × 2,5-5 cm, poilu surtout sur le dessus des nervures.
+Flowers solitary, terminal and axillary; pedicels up to 3.5 mm; bracteoles lanceolate-filiform, 5 mm; pedicels up to 5 mm; hairy or pubescent; calyx lobes somewhat unequal, 25–30 × 2–3 mm; the three posterior lobes are often fused at the edges, up to 2/3 of their length, with a hairy central vein. Corolla 5 cm long, blue or pale violet, with lower portion cylindric, narrowly curved, 2.5 mm in diameter, with limb 4 cm in diameter, with rounded lobes. Stamens included in the corolla tube; filaments of long stamens 23 mm, of short stamens 20–21 mm; anthers 3 mm.
 
-Fleurs solitaires, terminales et axillaires; pédoncules jusqu'à 3,5 mm; bractéoles lancéolées-filiformes, 5 mm; pédicelles jusqu'à 5 mm; poilus ou pubescents; lobes du calice un peu inégaux de 25-30 × 2-3 mm; les trois lobes postérieurs sont souvent soudés aux bords, jusqu'aux 2/3 de leur longueur, avec une nervure centrale poilue. Corolle 5 cm de long, bleue ou violet clair, à partie inférieure cylindrique, étroitement courbée, de 2,5 mm de diamètre, à limbe de 4 cm de diamètre, à lobes arrondis. Étamines incluses dans le tube de la corolle; filets des
-
-étamines longues de 23 mm, des étamines courtes de 20-21 mm; anthères 3 mm.
-
-Fruit linéaire, long de 2 à 4 cm de diamètre, à 12 graines environ; graines lentiformes, de 2 mm de diamètre, finement pubescentes sur les côtes, avec un anneau de poils hygroscopiques.
+Fruit linear, 2 to 4 cm long, ca. 12-seeded; seeds lentiform, 2 mm in diameter, finely pubescent on the ribs, with a ring of hygroscopic hairs.
 
 ## Type
 
@@ -37,9 +33,7 @@ Mann 571, Fernando-Po (K, holotype!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée française, Sierra-Leone, Liberia, Côted'Ivoire, Ghana, Togo, Nigeria, Cameroun, Fernando-Po, Rio-Muni. Les plantes de Sierra-Leone, du Liberia et de Côte-d'Ivoire sont plus pubescentes que celles de l'est de l'aire de répartition de cette espèce
+French Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Fernando Po, Rio Muni. The plants from Sierra Leone, Liberia and Côte d'Ivoire are more pubescent than those from the eastern part of the distribution area of this species.
 
 ## Specimens examined
 

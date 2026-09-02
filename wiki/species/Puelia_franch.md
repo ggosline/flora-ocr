@@ -16,9 +16,8 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Épillets subsessiles, en panicule unilatérale et longue de 1,5-5 cm ..... P. ciliata 1. Épillets pédicellés, en panicule symétrique et longue de 7-25 cm ..... P. olyriformis
+1. Spikelets subsessile, in unilateral panicle 1.5–5 cm long ..... P. ciliata
+1. Spikelets pedicellate, in symmetric panicle 7–25 cm long ..... P. olyriformis
 
 52.1 Puelia ciliata Franch.
 

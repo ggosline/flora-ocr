@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with densely pubescent-ferruginous branchlets. Leaves with petiole approximately 5 mm long, canaliculate above, densely rusty pubescent. Blade coriaceous, elliptic to elliptic-oblong, 9-14 cm long, 4.5-6.5 cm wide, with rounded base, very slightly asymmetric, obtuse, rounded or slightly acuminate apex; upper surface glabrous except at the base of the midvein, lower surface hirsute, with rusty and short hairs. Midvein prominent beneath; 8-10 pairs of lateral veins oblique, very ascending, prominent beneath.
 
-Liane ä rameaux densément pubescents-ferrugineux. Feuilles a pétiole long de 5 mm environ,canaliculé au-dessus,densément pubescent roux. Limbe coriace,elliptique a elliptique-oblong, long de 9-14 cm,large de 4,5-6,5 cm,a base arrondie,tres légerement asymétrique,sommet obtus,arrondi ou légerement acuminé; face supérieure glabre sauf á la base de la nervure médiane, face inférieure hirsute,ä poils roux et courts. Nervure médiane proéminente en dessous; 8-1o paires de nervures latérales obliques tres ascendantes, proéminentes en dessous.
+Inflorescence multiflorous with axis and peduncle recurved in a hook shape, 1-2 cm in length, densely rusty pubescent. Flowers with short pedicel, 2-3 mm long. Bracts broadly triangular-ovate, densely rusty pubescent. Sepals deltoid, 2-3 mm long, rusty pubescent on the outside, glabrous on the inside. Outer petals lanceolate, 17-18 mm long, 4-5 mm wide, narrowed toward the base itself dilated, concave, subspatulate, covered with long appressed and silky hairs on the outside, and minute hairs on the inside; the inner ones much narrower, 2 mm wide, linear, costate, covered with minute hairs on both faces, with dilated base forming a trigonous cavity applied to the reproductive organs. Stamens 3-4-seriate, sessile, small, anthers extrorse, connectives dilated peltate, glabrous. Carpels 6-10, exceeding the stamens, approximately 2 mm long, ovaries ovoid, densely pubescent, stigmas very well developed, bilobed. 2 basal ovules. Receptacle rusty pubescent.
 
-Inflorescence mutiflores a axe et pédoncule recourbés en crochet,de 1-2 cm de longueur,densément pubescent roux.Fleurs ä pédicelle court,long de 2-3 mm.Bractées largement triangulairesovées，densément pubescentes rousses. Sépales deltoides, longs de 2-3 mm,pubescents roux ä l'extérieur,glabres ä l'intérieur. Pétales externes lancéoles,longs de 17-18 mm,larges de 4-5 mm, rétrécis vers la base elle-méme dilatée,concave,subspatuliforme, couverts de longs poils appliques et soyeux a l'extérieur,et de poils minuscules â 'intérieur； les internes beaucoup plus étroits, larges de 2 mm, linéaires,costulés,couverts de poils minuscules sur les deux faces,á base dilatée formant une cavité trigone appliquee sur les organes reproducteurs. Etamines 3-4-sériees, sessiles， petites，thequesextrorses，connectifs dilatéspeltés, glabres.Carpelles 6-1o,dépassant les étamines,longs de 2 mm environ，ovaires ovoides, densément pubescents, stigmates tres développés，bilobes. 2 ovules basilaires. Réceptacle pubescent roux.
-
-Fruit a pédicelle épais, long de 1-1,5 cm; méricarpes verts, sessiles, obovoides,longs de 16-2o mm,larges de 8-1o mm,arrondis au sommet,glabres.
+Fruit with thick pedicel, 1-1.5 cm long; mericarps green, sessile, obovoid, 16-20 mm long, 8-10 mm wide, rounded at the apex, glabrous.
 
 ## Type
 
@@ -35,15 +33,13 @@ Tisserant 2242,Boukoko,République centrafricaine,fl., fr., janv. (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species has so far only been collected in Gabon, but very close to the Cameroonian border.
 
-Cette espece n'a encore été récoltée qu'au Gabon,mais tres prés de la frontiere camerounaise.
+It is very close to A. Thomsonii Oliver, but the lower surface of the leaves is densely pubescent instead of glabrous, and the floral pedicels are much shorter, 2-3 mm instead of 10-20 mm.
 
-Elles est tres voisine de A. Thomsonii Oliver,mais la face inférieure des feuilles est densément velue au lieu de glabre, et les pédicelles floraux sont beaucoup plus courts,2-3 mm au lieu de 10-20 mm.
+Species of dense humid forest and forest galleries distributed in southern Nigeria, Cameroon, Gabon, Congo-Kinshasa and Central African Republic.
 
-Espéce de foret dense humide et de galeries forestieres répandue en Nigéria du Sud,au Cameroun,Gabon, Congo-Kinshasa et République centrafricaine.
-
-Cette espece connue actuellement en Centrafrique et au Gabon est affine de A.crassipetalus Pellegrin；bien que nous ne connaissions pas les fruits de cette derniere espece，A.rhopalocarpus s'en différencie par ses feuilles plus grandes,le pétiole plus long,et les sépales triangulaires-aigus longs de 5-8 mm et non semi-orbiculaires longs de 3 mm seulement.
+This species currently known from Central Africa and Gabon is related to A. crassipetalus Pellegrin; although we do not know the fruits of this latter species, A. rhopalocarpus differs from it by its larger leaves, longer petiole, and triangular-acute sepals 5-8 mm long and not semi-orbicular 3 mm long only.
 
 ## Specimens examined
 

@@ -21,7 +21,7 @@ tags: [species, generated]
 
 ## Distribution
 
-widely dispersed but rare in the tropical regions of Africa, Asia and Australia; very rare in Gabon, found only in the Estuary (Billagone plantation)
+widely dispersed but rare in the tropical regions of Africa, Asia and Australia; very rare in Gabon, found only in the Estuaire (Billagone plantation)
 
 ## Ecology
 

@@ -21,7 +21,7 @@ Desmodium tenuiflorum Micheli, in T.Durand & De Wild., Bull. Soc. Roy. Bot. Belg
 
 ## Distribution
 
-from Guinea and Mali to Uganda and Ethiopia, southwards to Angola; in Gabon, known from the Upper Ogooué
+from Guinea and Mali to Uganda and Ethiopia, southwards to Angola; in Gabon, known from the Haut-Ogooué
 
 ## Ecology
 

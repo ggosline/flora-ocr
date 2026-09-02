@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in A.DC. & C.DC., Monogr. phan. 4 : 259 (1883). Spondias microcarpa A.Rich., Fl. seneg. tent. 1(4) : 151, t. 40 (1831). Arbre moyen, atteignant 20(–25) m de hauteur ; tronc jusqu’à 50(–100) cm de diamètre, à contreforts très développés ou non et à latex rougeâtre. Feuille : pétiole et rachis 10–50 cm, glabres ou plus rarement ± pubescents ; pétiole semi-cylindrique ; rachis subcylindrique ; folioles 5 à 17, à pétiolule canaliculé, ± aplati, jusqu’à 1 cm, à limbes très dissemblables, les latéraux très inéquilatéraux , oblongs-ovales à oblongs-elliptiques, 5–15(–20) × 3–8(–10) cm, cunéés à arrondis à la base, obtusément acuminés au sommet, papyracés à coriaces, ± glabres, avec 5 à 10 paires de nervures latérales. Inflorescence 10–60(–72) × 5-40 cm, à petits poils raides dressés . Fleur 4(–5)-mère. Fleur mâle : pédicelle 0–1 mm, articulé près de la base, pubérulent ; calice subpubérulent, lobes 4(–5), obtus, 0,8–1 mm de longueur ; pétales ± étalés,
-
-16 Frans J. BRETELER Meise (©).
-
-Pseudospondias 17 elliptiques, 1,8–2,2 mm de longueur, ± blanc verdâtre, glabres ; étamines 8(–10), glabres, les épisépales égalant les deux tiers des pétales ; pistillode distinct. Fleur femelle : calice et pétales semblables à ceux de la fleur mâle ; staminodes en même nombre que les étamines, mais plus petits ; ovaire globuleux, 1 mm de diamètre, à 4(–5) loges ; styles 4(–5), ± latéraux, à stigmates élargis. Fruit ellipsoïdal, 2,7–2,8 × 1,8–2 cm, rouge foncé à maturité, à pulpe douce, comestible ; noyau oblong-ovoïde à obovoïde, 4(–5)-gonal, 0.9–1,8 × 0,6–1,3 cm, avec 4(–5) opercules près du sommet, à 1 ou 2(–5) graines. Graine oblongue, 1–1,5 × 0,2–0,4 cm. Plantule : hypocotyle 4–5 cm, finement pubérulent à glabre ; cotylédons oblongs, 10–15 × 2 mm ; épicotyle 2,5–3 cm, finement pubérulent ; les deux premières feuilles opposées, simples.
+in A.DC. & C.DC., Monogr. phan. 4 : 259 (1883). Spondias microcarpa A.Rich., Fl. seneg. tent. 1(4) : 151, t. 40 (1831). Medium-sized tree, reaching 20(–25) m in height; trunk up to 50(–100) cm in diameter, with very developed or absent buttresses and reddish latex. Leaf: petiole and rachis 10–50 cm, glabrous or more rarely ± pubescent; petiole semi-cylindric; rachis subcylindric; leaflets 5 to 17, with channeled petiolule, ± flattened, up to 1 cm, with very dissimilar blades, the lateral ones very inequilateral, oblong-ovate to oblong-elliptic, 5–15(–20) × 3–8(–10) cm, cuneate to rounded at the base, obtusely acuminate at the apex, papyraceous to coriaceous, ± glabrous, with 5 to 10 pairs of lateral veins. Inflorescence 10–60(–72) × 5–40 cm, with small stiff erect hairs. Flower 4(–5)-merous. Male flower: pedicel 0–1 mm, articulate near the base, puberulent; calyx subpuberulent, lobes 4(–5), obtuse, 0.8–1 mm in length; petals ± spreading, elliptic, 1.8–2.2 mm in length, ± whitish-greenish, glabrous; stamens 8(–10), glabrous, the episepalous ones equaling two-thirds of the petals; pistillode distinct. Female flower: calyx and petals similar to those of the male flower; staminodes in the same number as the stamens, but smaller; ovary globose, 1 mm in diameter, with 4(–5) locules; styles 4(–5), ± lateral, with enlarged stigmas. Fruit ellipsoid, 2.7–2.8 × 1.8–2 cm, dark red at maturity, with sweet, edible pulp; stone oblong-ovoid to obovoid, 4(–5)-angular, 0.9–1.8 × 0.6–1.3 cm, with 4(–5) opercula near the apex, with 1 or 2(–5) seeds. Seed oblong, 1–1.5 × 0.2–0.4 cm. Seedling: hypocotyl 4–5 cm, finely puberulent to glabrous; cotyledons oblong, 10–15 × 2 mm; epicotyl 2.5–3 cm, finely puberulent; the first two leaves opposite, simple.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal au Nigéria, au Cameroun, à la Guinée équatoriale, au Gabon, à la République du Congo, à la République démocratique du Congo, à l’Angola et de l’Ouganda au Malawi ; au Gabon, connue de toutes les provinces, cependant commun dans l’Ogooué-Ivindo (La Lope) et le Haut-Ogooué
+from Senegal to Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and from Uganda to Malawi; in Gabon, known from all provinces, however common in Ogooué-Ivindo (La Lope) and Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire ou secondarisée, forêt marécageuse ; au Gabon à 100–700 m d’altitude, ailleurs jusqu’à 1600 m. Usage : Le fruit est comestible et sert d’appât pour la pêche. Le bois a été utilisé pour des constructions locales. L’écorce a plusieurs applications dans la médecine traditionnelle
+secondary or secondarized forest, swamp forest; in Gabon at 100–700 m altitude, elsewhere up to 1600 m. Use: The fruit is edible and serves as bait for fishing. The wood has been used for local constructions. The bark has several applications in traditional medicine
 
 ## Vernacular names
 

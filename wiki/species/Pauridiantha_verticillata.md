@@ -20,25 +20,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (De Wild. et Dur.) N. Hallé comb. nov.
 
 ≠ Urophyllum Gilletii De Wild. et Dur., cf. Pellegr., Fl. Mayombe 3 : 8 (1938).
 
-Arbuste parfois buissonnant, à rameaux ± pendants, atteignants 3-4 m de hauteur. Entrencéurs à pubescence ténue, longs de 3-9 cm, ± prismatiques à sec. Feuilles verticillées par 3 ou 4. Stipules lancéolées aiguës de 9-13 mm de long, à base rétrécie d'env. 1-2 mm, non glabres, tardivement caduques. Pétiole finement pubescent, plutôt grêle, long de 4-8 mm. Limbe elliptique à oblong, ± olivâtre, glabre dessus sauf la ligne médiane, ± pubescent dessous, de 7-14 × 2-4,5 cm; base aiguë; sommet à acumen aigu. 10-17 paires de nervures secondaires arquées ascendantes; pubescentes dessous. Petites domaties pubescentes peu distinctes.
+Shrub sometimes bushy, with branches ± pendulous, reaching 3–4 m in height. Internodes with fine pubescence, 3–9 cm long, ± prismatic when dry. Leaves whorled in 3 or 4. Stipules lanceolate acute 9–13 mm long, with narrowed base c. 1–2 mm, not glabrous, tardily caducous. Petiole finely pubescent, rather slender, 4–8 mm long. Blade elliptic to oblong, ± olivaceous, glabrous above except along the midline, ± pubescent below, 7–14 × 2–4.5 cm; base acute; apex with acute acumen. 10–17 pairs of secondary nerves arched ascending; pubescent below. Small domatia pubescent not very distinct.
 
-Inflorescences paniculées à la fois terminales et axillaires; les panicules latéraux inférieurs sont insérés sur des nœuds feuilles. Entre les feuilles et les bractées de l'axe principal, ces dernières linéaires et longues de 5-15 mm, on trouve des pièces intermédiaires à limbe ± réduit. Pédoncules des cymes pubescents, les plus développés longs de 4-8 cm. Axes supérieurs pubescents ayant souvent moins de 1 cm et généralement opposés. Extrémités multiflores assez contractées. Pédicelle pubescent grêle de 1-5 mm. Bouton noir à sec, oblong-ové à sommet tronqué, long de ± 4 mm. Fleur blanche. Calice pubescent à rebord cupulaire 5-denté et haut d'env. 1 mm. Corolle quasi glabre à tube atteignant 3 mm, à 5 lobes glabres de 2 × 0,9 mm, à pubescence interne apparente. 5 étamines exsertes à pédicelle d'env. 1 mm et anthère apiculée de 1,4 × 0,7 mm. Style de 2 mm, pubescent sous le stigmate fusiforme (fleur brévystyle étudiée). Disque charnu cylindrique
+Inflorescences paniculate at once terminal and axillary; the lower lateral panicles are inserted on leafy nodes. Between the leaves and the bracts of the main axis, the latter linear and 5–15 mm long, one finds intermediate parts with ± reduced blade. Peduncles of the cymes pubescent, the most developed 4–8 cm long. Upper axes pubescent often less than 1 cm and generally opposite. Multiflorous ends fairly contracted. Pedicel pubescent slender 1–5 mm. Bud black when dry, oblong-ovate with truncate apex, c. 4 mm long. Flower white. Calyx pubescent with cupular rim 5-dentate and c. 1 mm high. Corolla almost glabrous with tube reaching 3 mm, with 5 glabrous lobes 2 × 0.9 mm, with evident internal pubescence. 5 exserted stamens with pedicel c. 1 mm and apiculate anther 1.4 × 0.7 mm. Style 2 mm, pubescent below the fusiform stigma (brevistyle flower studied). Fleshy cylindrical disk
 
-à plan supérieur hirsute. Ovaire à 2 loges contenant chacune deux masses multiovulaires ovoïdes, juxtaposées vers le bas, et hautes de 0,7 mm. Fruit non vu.
+with upper surface hirsute. Ovary with 2 locules each containing two multiovulate ovoid masses, juxtaposed towards the base, and 0.7 mm high. Fruit not seen.
 
-Type Dewèvre 257 (BR!) Chingango, Congo ex-belge. L'espèce est connue en outre du Mayombe portugais.
+Type Dewèvre 257 (BR!) Chingango, former Belgian Congo. The species is furthermore known from Portuguese Mayombe.
 
-Une espèce voisine, P. viridiflora (Schw. ex Hiern) Hepper (= Pampletantha Gilletii (De Wild. et Th. Dur.) Brem. syn. nov.), à feuilles opposées, connue du Sud Nigeria, Cameroun, Centrafrique et jusqu'en Afrique orientale, pourrait bien exister au Gabon.
+A related species, P. viridiflora (Schw. ex Hiern) Hepper (= Pampletantha Gilletii (De Wild. et Th. Dur.) Brem. syn. nov.), with opposite leaves, known from South Nigeria, Cameroon, Central African Republic and as far as East Africa, might well exist in Gabon.
 
-MATÉRIEL GABONAIS (utilisé pour la description) :
+GABONESE MATERIAL (used for the description):
 
-Le Testu : 1267 et 1900, Tchibanga (fl. déc.).
+Le Testu: 1267 and 1900, Tchibanga (fl. Dec.).
 
 ## Notes
 

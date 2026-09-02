@@ -21,7 +21,7 @@ Annual herb, low, with a very slender root system and numerous very crowded stem
 
 ## Distribution
 
-widely distributed in the tropical regions of Africa, America and Asia; very rare or little known in Gabon, found only in the Estuary (1 collection)
+widely distributed in the tropical regions of Africa, America and Asia; very rare or little known in Gabon, found only in the Estuaire (1 collection)
 
 ## Ecology
 

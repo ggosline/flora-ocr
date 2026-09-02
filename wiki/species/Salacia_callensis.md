@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane more or less tall, 2 to 15 m, with rubber in abundant filaments. Young branches smooth, subcylindrical. Leaves opposite or subopposite. Petioles rather slender, 4–11 mm, with straight margins of the channel. Blade discolorous, olivaceous and shiny above, paler and dull to whitish below, oblong, 6–11(13) × 2–4.5 cm, acute at base, acuminate to caudate at apex for 6–17 mm, entire-margined. Secondary veins (7)9–13 pairs weakly ascending, subparallel; fine veins apparent when dry even on the upper surface.
 
-Liane plus ou moins élevée de 2 à 15 m, à caoutchouc en filaments abondants. Jeunes rameaux lisses subcylindriques. Feuilles opposées ou subopposées. Pétioles plutôt grêles de 4-11 mm, à bords du canal droits. Limbe discolore, olivacé luisant dessus, plus clair et mate à blanchâtre dessous, oblong, de 6-11(13) × 2-4,5 cm, à base aiguë, à sommet acuminé à caudé sur 6-17 mm, à marges entières. Nervures secondaires (7)9-13 paires faiblement ascendantes subparallèles; fines nervures apparentes à sec même à la face supérieure.
+Inflorescences 1–4-flowered in small axillary glomérules, subsessile. Buds subglobose, 1.5–2 × 1.3–2 mm, with small fleshy carinae converging at apex, underlining the midlines of the outer petals. Pedicel 1–5(6) mm. Flower salmon or orange-pink, rotate, 4–6 mm in diameter. Sepals unequal to subequal, subacute to rounded, 0.8 to 1.3 mm wide, somewhat fleshy along the middle, entire. Petals ovate or briefly oblong, 2–3 × 1.6–2.4 mm, with subparallel venation over two-thirds of the surface, slightly overlapping at the apex of the bud and reflexed at late anthesis. Disk subcylindric to obtuse-conical, with ± distinct median constriction, 1.1–2 mm in diameter and 0.5–0.8 mm in thickness. Stamens 1.3–2 mm, with filaments slightly spaced at the base; orange anther 0.6–0.9 mm wide, with adherent rather than confluent locules, emarginate or pauci-apiculate at apex, with chevron-shaped slits of approximately 90°. Ovary sunken at the level of the disk, with 2–5(6) ovules rather superposed. Style pyramidal subulate, 1.2–1.8 mm long.
 
-Inflorescences 1-4- flores en petits glomérules axillaires subsessiles. Boutons subglobuleux de 1,5-2 × 1,3-2 mm, à petites carènes charnues convergentes au sommet soulignant les médianes des pétales extérieurs. Pédicelle de 1-5(6) mm. Fleur saumonée ou rose orangé, rotacée, de 4-6 mm de diamètre. Sépales inégaux à subégaux, subaigus à arrondis, larges de 0,8 à 1,3 mm, un peu charnus en long au milieu, entiers. Pétales ovés ou brièvement oblongs, de 2-3 × 1,6-2,4 mm, à nervation subparallèle sur les deux tiers de la surface, peu couvrants entre eux au sommet du bouton et réfractés en fin d'anthèse. Disque subcylindrique à obtron-conique, à constriction médiane ± distincte, de 1,1-2 mm de diamètre et 0,5-0,8 mm d'épaisseur. Étamines de 1,3-2 mm, à filets peu espacés entre eux à la base ; anthère orangée de 0,6-0,9 mm de largeur, à loges adhérentes plutôt que confluentes, à sommet émarginé ou pauci-apiculé, à fentes en chevrons de 90° environ. Ovaire enfoncé au niveau du disque, à 2-5(6) ovules plutôt superposés. Style pyramidal subulé long de 1,2-1,8 mm.
-
-Fruit rouge vif à maturité, ové à oblong, de 34-50 × 15-34 mm, y compris un petit bec ou acumen, lisse ou un peu fripé, à 3 côtes mériennes, à pédoncule court. Mucilage sucré parfois abondant. Graines 2, 18 × 15 × 10 mm, à cotylédons saumon pâle entièrement soudés, à embryon presque indistinct, à testa brune très mince avec du caoutchouc. - Pl. 45, fig. 1-23, p. 159.
+Fruit bright red at maturity, ovate to oblong, 34–50 × 15–34 mm, including a small beak or acumen, smooth or somewhat wrinkled, with 3 meridian ribs, with short pedicel. Mucilage sweet, sometimes abundant. Seeds 2, 18 × 15 × 10 mm, with pale salmon cotyledons entirely fused, embryo almost indistinct, testa very thin brown with rubber. – Pl. 45, fig. 1–23, p. 159.
 
 ## Type
 
@@ -31,9 +29,7 @@ Callens 2339, Zaïre, Imbéla, Kasai (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et Zaïre. Liane rare et localisée, parfois ripicole, en forêts anciennes ou remaniées.
+Cameroon, Gabon and Zaïre. Rare and localized liane, sometimes riparian, in old or disturbed forests.
 
 ## Specimens examined
 

@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bull. Soc. Bot. France 4 $ ^{e} $ sér. 3 : 30 (1902).
 
-Herbe à rhizome rampant, tige feuillée atteignant une soixantaine de centimètres de haut (parfois beaucoup plus?). Feuilles à pétioles de 3 à 6 cm de long, limbe étroitement oblancéolé, progressivement atténué aux deux extrémités, inégalement décurrent sur le pétiole à la base, glabre, d'environ 30 × 7 cm, parfois plus. Ligule très courte, tronquée.
+Herb with creeping rhizome, leafy stem reaching about sixty centimeters in height (sometimes much more?). Leaves with petioles 3 to 6 cm long, blade narrowly oblanceolate, gradually attenuated at both ends, unequally decurrent on the petiole at the base, glabrous, about 30 × 7 cm, sometimes larger. Ligule very short, truncate.
 
-Inflorescence en panicule extrêmement lâche, de longueur variable, de 20 cm à beaucoup plus. Pédoncule de même longueur environ, portant des gaines aphylyles pouvant atteindre 6 cm de long, mais distantes les unes des autres. Inflorescences élémentaires rapprochées à l'état jeune, puis distantes entre elles, d'au moins 4 à 6 cm vers la base de l'inflorescence. Axe brunâtre, ainsi que les bractées qui sont lancéolées, obtuses, plus ou moins pubes-centes vers leur sommet. Les plus inférieures ont environ 3 cm de long; largement écartées de l'axe, elles soutiennent généralement une grappe de 2, parfois de 3 ou 4 fleurs, portée sur un pédoncule d'environ 5 mm de long. Inflorescences secondaires au nombre de 15 ou plus. Bractéoles membraneuses, tubulaires à l'état jeune, se fendant ensuite latéralement, de 10-12 mm de long, pubérulentes ainsi que le pédicelle floral qui atteint une quinzaine de millimètres de long à la fructifica tion. Calice tridenté, rouge, de 7 à 10 mm de long. Corolle blanc-jaunâtre, ainsi que le labelle qui porte une tache jaune vers sa base. Fruit rouge, ovoïde, d'environ 12 mm de long; graines à arille jaune.
+Inflorescence in an extremely lax panicle, of variable length, from 20 cm to much more. Peduncle of approximately the same length, bearing aphyllous sheaths reaching 6 cm long, but distant from one another. Elementary inflorescences closely packed when young, then distant from one another, at least 4 to 6 cm toward the base of the inflorescence. Brownish axis, as well as the bracts which are lanceolate, obtuse, more or less pubescent toward their apex. The lowermost are about 3 cm long; widely separated from the axis, they generally bear a raceme of 2, sometimes of 3 or 4 flowers, borne on a peduncle about 5 mm long. Secondary inflorescences numbering 15 or more. Bracteoles membranous, tubular when young, later splitting laterally, 10–12 mm long, puberulent as well as the floral pedicel which reaches about fifteen millimeters in length at fruiting. Calyx tridentate, red, 7 to 10 mm long. Corolla whitish-yellow, as well as the labellum which bears a yellow spot toward its base. Fruit red, ovoid, about 12 mm long; seeds with yellow aril.
 
 ## Type
 
@@ -30,9 +28,7 @@ Lecomte E 33, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante de sous-bois humide, connue du Cameroun, du Gabon et du Congo.
+Plant of damp woodland, known from Cameroon, Gabon and Congo.
 
 ## Specimens examined
 

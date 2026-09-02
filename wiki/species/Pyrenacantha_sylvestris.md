@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine with twisted stem broadly pubescent with reddish or yellowish ± erect hairs; rhytidome longitudinally striate. Petiole ± flattened transversely, longitudinally striate above with dense reddish pubescence, marked with 2 prominent longitudinal ribs below. Blade with obscurely undulate margin, glabrous above, densely pubescent with ± erect and entangled hairs below, dark grey on upper surface, yellowish-green on lower surface, broadly elliptic to broadly ovate, 8–13 × 3–7.5 cm; base rounded or weakly cordate, apex acute or shortly acuminate. Midvein prominent above, strongly prominent pubescent longitudinally striate below. Secondary veins 5–6 pairs, ascending, arched, anastomosing at 2–6 mm from blade margin, prominent on upper surface, strongly prominent pubescent on lower surface. Tertiary veins in dense strongly prominent network on lower surface. Hydathodes piriform, erect, glabrous, terminating secondary veins.
 
-Liane à tige torsadée largement pubescente à poils roux ou jaunâtres 士 dressés; rhytidome strié longitudinalement. Pétiole 士 aplat transversalement, strié longitudinalement dessus et à forte pubescence rousse, marqué de 2 côtes longitudinales accentuées dessous. Limbe à bord obscurément ondulé, glabre dessus, fortement pubescent à poils 士 dressés et enchevê-trés dessous, gris noir à la face supérieure, vert jaunâtre à la face inférieure, largement elliptique à largement ovale, 8-13 × 3-7,5 cm; base arrondie ou faiblement cordée, sommet aigu ou courtement acuminé. Nervure médiane saillante dessus, fortement saillante, pubescente, striée longitudinalement dessous. Nervures secondaires 5-6 paires, ascendantes, arquées, s'anastomant à 2-6 mm du bord du limbe, saillantes à la face supérieure, fortement saillantes pubescentes à la face inférieure. Nervilles en réseau dense fortement saillant à la face inférieure. Hydathodes piriformes, dressés, glabres, terminant les nervures secondaires.
+Male and female inflorescences in fascicles of ± axillary racemes. Rachis pubescent bearing bracts. Male flowers tetramerous, greenish, 2.5 × 2 mm. Pedicel pubescent, 1–2.5 mm long, bearing a bractlet at its apex. Petals weakly united at base, pubescent externally and glabrous internally, broadly elliptic or oblong-elliptic, 2.5 × 1.25 mm; apex acute. Stamens free, erect, gynobasic, 0.5 mm long; filament short and broad, ovoid; anther with 2 ovoid locules. Pistillode reduced to a tuft of ± visible hairs. Female flowers tetramerous, greenish, 2 × 2.5 mm. Pedicel pubescent bearing a bractlet at its apex, 1.5–2 mm long. Petals united at base, pubescent externally, glabrous internally, elliptic, 2 × 0.8 mm; apex acute. Pistil 1 mm long; ovary broadly pubescent to hirsute, reddish pubescence, ovoid; style pubescent ± short terminating in a lacerate plateau-like stigma.
 
-Inflorescences ♂ et ♀ en fascicules de grappes ± axillaires. Rachis pubescent porteur de bractées. Fleurs ♂ tétramères, verdâtres, de 2,5 × 2 mm. Pédicelle pubescent long de 1-2,5 mm, porteur d'une bractéole à son sommet. Pétales faiblement soudés à la base, pubescents extérieurement et glabres intérieurement, largement elliptiques ou oblongs elliptiques, 2,5 × 1,25 mm; sommet aigu. Étamines libres, dressées, gynobasiques, longues de 0,5 mm; filet court et large, ovoïde; anthère à 2 loges ovoïdes. Pistillode réduit à une touffe de poils ± visibles. Fleurs ♀ tétramères, verdâtres, 2 × 2,5 mm. Pédicelle pubescent porteur d'une bractéole à son sommet, long de 1,5-2 mm. Pétales soudés à la base, pubescents extérieurement,
-
-glabres intérieurement, elliptiques,  $ 2 \times 0.8 $ mm; sommet aigu. Pistil long de  $ 1 $ mm; ovaire largement pubescent à hirsute, pubescence rousse, ovoïde; style pubescent ± court se terminant par un stigmate en plateau lacinié.
-
-Infrutescence en fascicule de grappes. Drupe pédicellée, tomenteuse rousse, très faiblement rostrée, ellipsoïde. Aiguillons simples ou fourchus au sommet sur la face interne de l'endocarpe ligneux. PL. 20, p. 83.
+Infructescence in fascicle of racemes. Drupe pedicellate, reddish tomentose, very weakly rostrate, ellipsoid. Simple or forked at apex spines on the internal face of the woody endocarp. PL. 20, p. 83.
 
 ## Type
 
@@ -33,9 +29,7 @@ Gossweiler 6811, Buco Zau, Cabinda (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts ombrophiles de plaine. En montagne, on la trouve jusqu'à 1000 m. Son aire s'étend du Gabon à l'Uganda.
+This species is found in lowland rainforests. In mountains, it is found up to 1000 m. Its range extends from Gabon to Uganda.
 
 ## Specimens examined
 

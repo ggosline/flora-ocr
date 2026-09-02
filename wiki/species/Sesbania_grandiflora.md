@@ -21,7 +21,7 @@ Tree 2–5 m tall or shrub with fairly thick branches; branchlets at first pubes
 
 ## Distribution
 
-native to India, widely disseminated by man throughout all tropics; in Gabon, collected in the Estuary (Libreville)
+native to India, widely disseminated by man throughout all tropics; in Gabon, collected in the Estuaire (Libreville)
 
 ## Ecology
 

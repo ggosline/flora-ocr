@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — R. Benoist, in F. Pellegrin, Mém. Soc. Linn. Norm., N. S., Bot. 1 (2): 47 (1928). — W. Robyns, Fl. Pare Nat. Albert, Spermatoph. 2: 308 (1947). — Heine, F.W.T.A. ed. 2,2: 430 (1963).
 
 ≡ Justicia grandis (T. Anders.) Lindau in Schlechter, Westafrik. Kautschuk-Exped.: 317 (1900).
 
-Sous-arbrisseau dressé presque glabre, jusqu'à 3 m de haut, à tiges subanguleuses; parties jeunes légèrement pubescentes. Pétioles ayant jusqu'à 12 mm de long. Limbe des feuilles elliptique-lancéolé, à acumen plus ou moins marqué, longuement atténué-décurrent à la base, finement pubescent le long des nervures sur les deux faces de  $ 22 \times 10 $ cm. Nervures secondaires ± 10 paires.
+Subshrub erect, almost glabrous, up to 3 m tall, with subangulous stems; young parts slightly pubescent. Petioles up to 12 mm long. Leaf blade elliptic-lanceolate, with more or less pronounced acumen, long attenuate-decurrent at the base, finely pubescent along the veins on both surfaces of 22 × 10 cm. Secondary veins ± 10 pairs.
 
-Inflorescences terminales, en épis atteignant 10 cm de long, strobiliformes. Bractées ovales à ovales-elliptiques, de 20 × 12 mm, arrondies au sommet, mais avec un acumen vert très aigu, à marges blanches et hyalines atteignant, surtout vers le sommet, une largeur de 3 mm, légèrement pubescentes, vertes dans la partie centrale. Bractéoles lancéolées, de 11 × 5 mm, également à bords hyalins, atteignant vers le tiers supérieur une largeur de 1,5 mm. Calice subrégulier, ayant jusqu'à 12 mm de long; sépales linéaires lancéolées, ciliés-pubescents, le postérieur à 2 mm à la base, les autres 1 mm. Corolle jusqu'à 2 cm de long blanche à gorge fauve, bilabiée, finement pubescente à l'extérieur; lèvre antérieure env. 1 cm de long, à nervures réticulées très visibles; lobe central semi-orbiculaire, de 4 × 2 mm; lobes latéraux spathulés-lancéolés, de 2 × 3 mm, arrondis à l'apex; lèvre postérieure largement triangulaire, de 9 × 9 mm, à apex bilobé sur 1,8 mm; la partie libre du filet glabre et longue de 9 mm, commence à la gorge. Anthères à loges de 2 et 3 mm de long, glabres, ovales, superposées à des niveaux différents; la loge inférieure présente un appendice d'en
+Inflorescences terminal, in spikes reaching 10 cm long, strobiliform. Bracts oval to oval-elliptic, 20 × 12 mm, rounded at the apex, but with a very acute green acumen, with white and hyaline margins reaching, especially toward the apex, a width of 3 mm, slightly pubescent, green in the central part. Bracteoles lanceolate, 11 × 5 mm, also with hyaline margins, reaching toward the upper third a width of 1.5 mm. Calyx subregular, up to 12 mm long; sepals linear-lanceolate, ciliate-pubescent, the posterior one 2 mm at the base, the others 1 mm. Corolla up to 2 cm long white with tawny throat, bilabiate, finely pubescent externally; anterior lip approx. 1 cm long, with very visible reticulate veins; central lobe semi-orbicular, 4 × 2 mm; lateral lobes spatulate-lanceolate, 2 × 3 mm, rounded at the apex; posterior lip broadly triangular, 9 × 9 mm, with bilobed apex on 1.8 mm; the free part of the filament glabrous and 9 mm long, beginning at the throat. Anthers with locules 2 and 3 mm long, glabrous, oval, superposed at different levels; the lower locule presents an appendage of approximately 1 mm long. Ovary densely pubescent, 2.5 mm tall; style slender, ciliate-pubescent more densely toward the base; stigma slightly bilobed.
 
-viron 1 mm de long. Ovaire densément pubescent, haut de 2,5mm; style grêle, ciliépubescent plus densément vers la base; stigmate légèrement bilobé.
-
-Fruit subsessile, finement pubescent, orbiculaire, apiculé d'environ 1 cm de diamètre et de 2,5-3 mm d'épaisseur, à stipe très court, à cloison de 1/4 mm se détachant élastiquement des valves. Graines 2 par loge, lenticulaires, de 3,5 mm de diam.; test brun, verruculeux.
+Fruit subsessile, finely pubescent, orbicular, apiculate approximately 1 cm in diameter and 2.5-3 mm thick, with very short stipe, with septum of 1/4 mm detaching elastically from the valves. Seeds 2 per locule, lenticular, 3.5 mm diam.; testa brown, verrucose.
 
 ## Type
 

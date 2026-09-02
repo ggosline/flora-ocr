@@ -21,7 +21,7 @@ Annual herb, reaching 1 m in height; stem erect, 4-angled, branched. Foliaceous 
 
 ## Distribution
 
-Asian species become pantropical through human action; in Gabon, known from the Estuary
+Asian species become pantropical through human action; in Gabon, known from the Estuaire
 
 ## Ecology
 

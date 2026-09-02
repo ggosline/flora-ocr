@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Eranthemum Ludovicianum Büttner, Verh. bot. Ver. Prov. Brandenburg 32 : 41 (1890). — C.B. Clarke, F.T.A. 5 : 172 (1899).
 
-Arbuste atteignant 3 m de haut, à tiges subglabres, un peu striées. Pétioles de 2-2,5 cm; limbe des feuilles de 17-20 × 6-8,5 cm, elliptique ou elliptique-lancéolé, acuminé; nervures latérales 7-9 paires.
+Shrub reaching 3 m tall, with subglabrous stems, somewhat striated. Petioles 2–2.5 cm; leaf blade 17–20 × 6–8.5 cm, elliptic or elliptic-lanceolate, acuminate; lateral nerves 7–9 pairs.
 
-Inflorescences terminales, en racèmes spiciforme, longues jusqu'à 33 cm à pédoncules atteignant 10 cm : Fleurs 6-8 (ou plus) fasciculées aux nœuds de façon très dense. Bractées subulées-filiformes, longues de 4-6 mm; bractéoles très semblables d'environ 2 mm de long. Calice de 2,5 mm, à lobes triangulaires-subulés d'environ 2 mm. Corolle blanche, un peu pubescente à l'extérieur, à tube de 3 cm, un peu zygomorphe; lobes étalés ovales-arrondis, de 8-10 × 4-5 mm; 2 lobes forment une lève supérieure, les autres une lève inférieure. Deux étamines exertes. Style exactement de la longueur de la corolle, persistant, à stigmate très courtement bilobé.
+Terminal inflorescences, in spiciform racemes, up to 33 cm long with peduncles reaching 10 cm; flowers 6–8 (or more) fascicled at the nodes in very dense fashion. Bracts subulate-filiform, 4–6 mm long; bracteoles very similar, approximately 2 mm long. Calyx 2.5 mm, with triangular-subulate lobes approximately 2 mm. Corolla white, somewhat pubescent externally, with tube 3 cm, somewhat zygomorphic; lobes spreading, oval-rounded, 8–10 × 4–5 mm; 2 lobes forming an upper lip, the others a lower lip. Two exserted stamens. Style exactly as long as the corolla, persistent, with stigma very shortly bilobed.
 
-Fruit capsulaire d'environ 3 cm de long ou plus, glabre, brun foncé. Graine orbiculaire-anguleuse, de 7 mm de diamètre, à surface finement réticulée-sillonnée.
+Capsular fruit approximately 3 cm long or more, glabrous, dark brown. Seed orbicular-angular, 7 mm in diameter, with finely reticulate-furrowed surface.
 
 ## Type
 
@@ -33,11 +31,9 @@ Büttner 460, Putu-Kasongo, Congo-Léo. (B, holotype détruit)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Liberia to Kenya; probable presence in Angola.
 
-Du Liberia au Kenya; présence probable en Angola.
-
-1-8 : Pseuderanthemum tunicatum (Afzel.) Milne-Redhead. 9-16 : Pseuderanthemum Ludovicianum (Büttner) Lindau.
+1–8: Pseuderanthemum tunicatum (Afzel.) Milne-Redhead. 9–16: Pseuderanthemum Ludovicianum (Büttner) Lindau.
 
 ## Specimens examined
 

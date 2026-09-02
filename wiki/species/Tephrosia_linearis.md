@@ -21,7 +21,7 @@ Annual or short-lived perennial herb, rather erect, up to 1 m tall, with appress
 
 ## Distribution
 
-West and East Africa, from Senegal to Ethiopia, Tanzania, Zanzibar, Angola and South Africa; in Gabon, known from Middle Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
+West and East Africa, from Senegal to Ethiopia, Tanzania, Zanzibar, Angola and South Africa; in Gabon, known from Moyen-Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 

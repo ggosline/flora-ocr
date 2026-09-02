@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≠ S. trigemina K. Schum. — Cf. Wernham l.c., p. p.
 
-Liane dépassant 3-4 m de hauteur ou buisson sarmenteux de 1-2 m. Extrémités pubescentes. Entrenœuds glabrescents brun-rougeâtre de (2)3-7(11) cm. Stipules orbiculaires rabattues de 4-6 mm de large, glabres sur la face supérieure. Pétioles de 3-20 mm, pubescents. Limbe brunâtre discolore à sec, ± pubérulent, rarement tout à fait glabre dessus, ovale à obové, de 7-12(13) × 3-6 cm; base aiguë, sommet arrondi à obtus ou prolongé par un court acumen triangulaire. Médiamè pubescente dessus; 8-13(14) paires de nervures souvent un peu pubescentes dessus, ± vêtues dessous ainsi que la ligne marginale, de poils couchés; réticule dense et très apparent à sec, ± pubescent ou presque glabre.
+Liane exceeding 3-4 m in height or sarmentose shrub of 1-2 m. Extremities pubescent. Internodes glabrescent reddish-brown (2)3-7(11) cm. Stipules orbicular, reflexed, 4-6 mm wide, glabrous on the upper face. Petioles 3-20 mm, pubescent. Blade brownish discolorous when dry, ± puberulent, rarely quite glabrous above, ovate to obovate, 7-12(13) × 3-6 cm; base acute, apex rounded to obtuse or extended by a short triangular acumen. Midrib pubescent above; 8-13(14) pairs of nerves often somewhat pubescent above, ± clothed below as well as the marginal line with appressed hairs; reticulation dense and very apparent when dry, ± pubescent or nearly glabrous.
 
-Inflorescence à 3 (4-5) fleurs, à pédoncule de (3) 4-20 (28) mm de long, pubescent. Involucre naviculé formé de deux bractées bossues, à fine pubescence couchée dans la forme typique, soudées latéralement sur 1,5-3 mm de part et d'autre, à extrémités lami
+Inflorescence with 3 (4-5) flowers, with a peduncle (3) 4-20 (28) mm long, pubescent. Involucre boat-shaped formed of two gibbose bracts, with fine appressed pubescence in the typical form, united laterally for 1.5-3 mm on either side, with variable laminate extremities 2-10 mm long, ± spreading or reflexed, ± green, somewhat pubescent above in the type. A second pair of bracts arranged also in an involucre surmounting the first with a rachidial interval generally nearly absent but which can exceed 5 mm (N. Hallé 1751, Klaine 771) in the most vigorous inflorescences. The lateral flowers are protected by a pair of bracteoles united to each other at least on the adaxial side. Ovaries hidden pubescent. Calyx tube 3-4 mm, approximately as wide as tall; lobes ± green digitate, arched, 7-10 mm long, finely puberulent in the type. Corolla white, brown at the end of anthesis, spreading 11-15 mm in diameter; tube 10-14 mm, pubescent above the midpoint, with 5 triangular lobes approximately 4 mm long, pubescent and bearded externally; throat hairy as well as the upper half of the internal tube: hairs in beaded strings, attenuate, 1 mm. Stamens exserted, filament 1 mm, white anther 3.8 × 0.8 mm, medifixed, with emarginate apex, with lower part cleft. Style (brevistyle form studied) 11 mm, cleft into 5 lobes for more than 3 mm. Disc less than 2 mm in diameter, gibbose. 5 ovary locules with peltate placentas in cross section.
 
-nées variables de 2-10 mm de long, ± étalées ou réfléchies, ± vertes, un peu pubescentes dessus chez le type. Une seconde paire de bractées disposées aussi en involucre surmonte la première avec un intervalle rachidien généralement presque nul mais qui peut dépasser 5 mm (N. Hallé 1751, Klaine 771) dans les inflores-cences les plus vigoureuses. Les fleurs latérales sont protégées par une paire de préfeuilles soudées entre-elles au moins du côté adaxial. Ovaires cachés pubescents. Tube du calice de 3-4 mm, à peu près aussi large que haut; lobes ± verts digités, arqués, longs de 7-10 mm, finement pubérulents chez le type. Corolle blanche, brune en fin d'anthèse, étalée sur 11-15 mm de diam.; tube de 10-14 mm, pubescent au dessus de la moitié, à 5 lobes triangulaires longs d'env. 4 mm, pubescents et barbus extérieurement; gorge velue ainsi que la moitié supérieure interne du tube : poils en chapelet effilés, de 1 mm. Étamines exsertes, filet de 1 mm, anthère blanche de 3,8 × 0,8 mm, médifixe, à sommet émarginulé, à partie inférieure fendue. Style (forme brévystyle étudiée) de 11 mm, fendu en 5 lobes sur plus de 3 mm. Disque de moins de 2 mm de diam., bosselé. 5 loges ovariennes à placentas peltés en coupe transversale.
-
-Fruit mùr rouge ou rose, plus rarement blanc, haut, sous le calice, de 15 mm, pubescent, à chair blanche spongieuse. Graines détachées des placentas dans le fruit mùr, longues de 0,5 mm, subanguleuses, brun-roux.
+Mature fruit red or pink, more rarely white, standing below the calyx, 15 mm high, pubescent, with white spongy flesh. Seeds detached from the placentas in the ripe fruit, 0.5 mm long, subangular, brownish-red.
 
 ## Type
 
@@ -44,37 +40,35 @@ H. Pобéguin 152 (P), Tchombéi, Gabon (fl. déc. 1922)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 36. — Sabicea Duparquetiana H. Bn. ex Wernh. : 1, floriferous branch (Thollon 14); inflorescence; 3, hair from the inner face of the corolla; 4, anther (2 to 4, N. Hallé 2023); 5 and 6, inflorescence and diagram; 7, flower section; 8, corolla prefloration; 9, stigma; 10, ovary in section; 11, ripe fruits; 12, ripe fruit section; 13, seed (5 to 13, var. impexella N. H. 1751).
 
-PL. 36. — Sabicea Duparquetiana H. Bn. ex Wernh. : 1, rameau florifère (Thollon 14); inflorescence; 3, poil de la face interne de la corolle; 4, anthère (2 à 4, N. Hallé 2023); 5 et 6, inflorescence et diagramme; 7, coupe de la fleur; 8, préfloraison de la corolle; 9, stigmate; 10, ovaire en coupe; 11, fruits mûrs; 12, coupe de fruit mûr; 13, graine (5 à 13, var. impexella N. H. 1751).
+description above and which represent the mean type of the species. These two varieties are described separately below.
 
-description ci-dessus et qui représentent le type moyen de l'espèce. Ces deux variétés sont décrites séparément ci-dessous.
+Material studied (entirely from Gabon):
 
-Matériel étudié (en totalité du Gabon) :
-
-R. P. Duparquet : s.n., région côtières non précisée. Dinklage : 506, 590 (HBG!), Sibang (fl. fév.). N. Hallé : 1980, 2023, 2034, région d'Ayem, chantier C.E.F.A., 10 km SW de Ndjolé (fl. et fr. mai). Heckel : 41, Libreville. Jolly : 126, Libreville (fl. mars). R. P. Klaine : 771, 2531, env. de Libreville. L. Périquet : 21, Okenambour (fl. janv.). H. Soyaux : 236, Sibang, région de la Mondah (fr. mars). Thollon : 14, Libreville (fl. janv.); 60, Ndjolé (fl. déc.).
+R. P. Duparquet: s.n., unspecified coastal region. Dinklage: 506, 590 (HBG!), Sibang (fl. Feb.). N. Hallé: 1980, 2023, 2034, Ayem region, C.E.F.A. work site, 10 km SW of Ndjolé (fl. and fr. May). Heckel: 41, Libreville. Jolly: 126, Libreville (fl. March). R. P. Klaine: 771, 2531, environs of Libreville. L. Périquet: 21, Okenambour (fl. Jan.). H. Soyaux: 236, Sibang, Mondah region (fr. March). Thollon: 14, Libreville (fl. Jan.); 60, Ndjolé (fl. Dec.).
 
 5 bis. S. Duparquetiana Baillon ex Wernh. v. Robbianella N. Hallé var. nov.
 
 = S. Robbii sensu Pellegrin, Fl. Mayombe 3 : 9 (1938).
 
-A typo, omnibus partibus fere glabris, stipulis cucullatis, laminis involucri et lobis calycium majori, marginibus involucri amplificatis, differt.
+Differs from the type in all parts nearly glabrous, stipules cucullate, involucral laminas and calyx lobes larger, involucral margins expanded.
 
-Grande liane. Stipules un peu cucullées. Pédoncules inflorescentiels de 7-18 mm, pubescents ou presque entièrement glabres. Bractées naviculaires à peu près totalement glabres, à extrémités foliacées de 8-12 × 3-7 mm, à marges latérales inférieures fortement élargies et arrondies. Fleurs blanches; sépales quasi glabres de 10-14 × 1-2,5 mm.
+Large liane. Stipules somewhat cucullate. Inflorescence peduncles 7-18 mm, pubescent or nearly entirely glabrous. Boat-shaped bracts nearly totally glabrous, with foliate extremities 8-12 × 3-7 mm, with lower lateral margins strongly widened and rounded. White flowers; sepals nearly glabrous 10-14 × 1-2.5 mm.
 
-Autres spécimens étudiés :
+Other specimens studied:
 
-Le Testu : 1962 et 2135, Tchibanga, (fl. janv.).
+Le Testu: 1962 and 2135, Tchibanga, (fl. Jan.).
 
-5 ter. S. Duparquetiana Baillon ex Wernh. v. impexella N. Hallé var. nov. (PL. 36, 5 à 13)
+5 ter. S. Duparquetiana Baillon ex Wernh. v. impexella N. Hallé var. nov. (PL. 36, 5 to 13)
 
-A typo, omnibus partibus villosis, petiolis internodiis pedunculis involucris et calycis dense pubescentibus hirsutis, differt.
+Differs from the type in all parts villous, petioles internodes peduncles involucres and calyx densely pubescent hirsute.
 
-Diffère du type de l'espèce par une vigueur plus grande, par ses stipules parfois émarginées au sommet, par sa pubescence abondante ± rousse sur tous les organes, spécialement sur toute l'inflorescence. Le limbe foliaire est nettement pubescent sur les deux faces chez le type de la variété.
+Differs from the type of the species by greater vigour, by its stipules sometimes emarginate at the apex, by its abundant ± reddish pubescence on all the organs, especially on the entire inflorescence. The leaf blade is distinctly pubescent on both faces in the type of the variety.
 
-Autres spécimens gabonais :
+Other Gabonese specimens:
 
-N. Hallé : 1576, 1751, 1752, région d'Ayem, SW de Ndjolé (fl. et fr. avr.).
+N. Hallé: 1576, 1751, 1752, Ayem region, SW of Ndjolé (fl. and fr. Apr.).
 
 ## Vernacular names
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ed. 2, 1 : 642 (1958). — R. Boutique, Fl. Congo b. et R.U. 9 : 256, tab. 2 a (1960). — LUCAS, FTEA. Icacinaceæ : 12 (1968).
 
 — Chlamydocarya staudtii Engl., Bot. Jahrb. 24:486, tab. 8, a-d (1898).
@@ -33,11 +31,11 @@ ed. 2, 1 : 642 (1958). — R. Boutique, Fl. Congo b. et R.U. 9 : 256, tab. 2 a (
 
 — P. ugandensis HUTCH. & ROBYNS, Kew Bull.: 255 (1924).
 
-Liane à rhytidome brun et tige largement pubescente à tomenteuse, parfois glabrescente, finement striée longitudinalement. Pétiole aplaté latéralement, à pubescence œuvre, long de 0,5-2,5 cm, à 2 côtes latérales à la face inférieure. Limbe subdenticulé à denticulé, éparsement pubescent dessus, densément pubescent à tomenteux dessous, vert foncé à la face supérieure, vert pâle à la face inférieure, elliptique ou lancéolé, 6-19 × 3-9 cm; base arrondie ou ± cordée, sommet mucroné atténué ou courtement acuminé. Nervure médiane fortement pubescente saillante dessus, fortement saillante pubescente dessous. Nervures secondaires 6-7 paires, ascendantes, arquées, s'anastomosant à 2-4 mm du bord du limbe, saillantes et pubescentes à la face supérieure et fortement saillantes et pubescentes à la face inférieure. Hydathodes peu saillants terminant les nervures secondaires.
+Liane with brown rhytidome and stem broadly pubescent to tomentose, sometimes glabrescent, finely longitudinally striate. Petiole laterally flattened, with golden pubescence, 0.5–2.5 cm long, with 2 lateral ribs on the lower face. Blade subdentate to dentate, sparsely pubescent above, densely pubescent to tomentose below, dark green on the upper face, pale green on the lower face, elliptic or lanceolate, 6–19 × 3–9 cm; base rounded or ± cordate, apex mucronate attenuate or shortly acuminate. Midrib strongly pubescent salient above, strongly salient pubescent below. Secondary nerves 6–7 pairs, ascending, arcuate, anastomosing 2–4 mm from the blade margin, salient and pubescent on the upper face and strongly salient and pubescent on the lower face. Hydathodes scarcely salient, terminating the secondary nerves.
 
-Inflorescences ở en épis denses multiflores axillaires, solitaires ou groupés en fascicule. Rachis tomenteux roux porteur de bractées. Pétales soudés à la base, pubescents extérieurement, glabres intérieurement, elliptiques,  $ 2,5 \times 1,25 $ mm; sommet aigu. Étamines 4 libres, dressées, gynobasiques, longues de 2 mm; filet large, faiblement caudé; anthères à 2 loges ellipsoïdes longues de 0,5 mm. Pistillode réduit à une touffe de poils. Inflorescences ♀ en glomérules axillaires multiflores à pédoncule très court. Fleur ♀ tétramère blanche,  $ 3,5 \times 1,5 $ mm, sessile. Pétales soudés à la base, pubescents extérieurement, glabres intérieurement, elliptiques,  $ 3,5 \times 1,25 $ mm; sommet obtus. Pistil long de 2,5 mm; ovaire ovoïde, densément pubescent, long de 1,75 mm; style formant un bourrelet charnu au sommet de l'ovaire et se terminant par un stigmate en plateau à lobes digités.
+Male inflorescences in dense multiflorous axillary spikes, solitary or grouped in fascicles. Rachis reddish-brown tomentose bearing bracts. Petals fused at the base, pubescent externally, glabrous internally, elliptic, 2.5 × 1.25 mm; apex acute. Stamens 4 free, erect, gynobasic, 2 mm long; filament broad, weakly caudate; anthers with 2 ellipsoid locules 0.5 mm long. Pistillode reduced to a tuft of hairs. Female inflorescences in multiflorous axillary glomerules with very short peduncle. Female flower tetramerous white, 3.5 × 1.5 mm, sessile. Petals fused at the base, pubescent externally, glabrous internally, elliptic, 3.5 × 1.25 mm; apex obtuse. Pistil 2.5 mm long; ovary ovoid, densely pubescent, 1.75 mm long; style forming a fleshy bead at the apex of the ovary and terminating in a plateau-shaped stigma with digitate lobes.
 
-Drupe globuleuse ou largement ellipsoïde, de  $ 1,7 \times 1,2 $ cm, à exocarpe tomenteux roux. Aiguillons fortement globuleux au sommet, à la face interne de l'endocarpe. PL. 19, p. 81.
+Drupe globose or broadly ellipsoid, 1.7 × 1.2 cm, with reddish-brown tomentose exocarp. Prickles strongly globose at the apex, on the inner face of the endocarp. PL. 19, p. 81.
 
 ## Type
 
@@ -45,9 +43,7 @@ Staudt 568, Cameroun (holo-, B, delet.; iso-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les recrus et les forêts secondaires depuis le Nigeria jusqu'au Maniéma au Zaïre et au Sud de l'Angola.
+This species occurs in secondary growth and secondary forests from Nigeria to Maniema in Zaire and southern Angola.
 
 ## Vernacular names
 

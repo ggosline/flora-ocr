@@ -27,19 +27,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, or very often annual, rarely exceeding 1.5 m in height. Ligule ciliate, limb linear, reaching about fifty centimeters in length and about fifteen millimeters in width.
 
-Herbe pérenne, ou très souvent annuelle, dépassant rarement 1,5 m de haut. Ligule ciliée, limbe linéaire, atteignant une cinquantaine de centimètres de long et une quinzaine de millimètres de large.
+Inflorescences up to 25 cm long, with sessile involucres of about thirty bristles approximately 9 mm long except for one longer one.
 
-Inflorescences jusqu'à 25 cm de long, à involucres sessiles d'une trentaine de soies d'environ 9 mm de long à part une plus longue.
+Spikelets solitary, lower glume scarcely exceeding 1 mm in length, hyaline, or suppressed; the upper one acuminate, or trilobed, as long as the spikelet, with 5 nerves. Lower flower male or neuter; lemma similar to the upper glume; palea narrow linear, or suppressed. Upper flower with shining, cartaceous glumelles; lemma with 5 scarcely visible nerves.
 
-Épillets solitaires, glume inférieure ne dépassant guère 1 mm de long, hyaline, ou supprimée; la supérieure acuminée, ou trilobée, aussi longue que l'épillet, à 5 nervures. Fleur inférieure mâle ou neutre; lemma semblable à la glume supérieure; paléa linéaire étroite, ou supprimée. Fleur supérieure à glumelles brillantes, cartacées; lemma à 5 nervures peu visibles.
+Herb very widespread throughout tropical Africa, as well as in India and America. Good forage in the young state, it multiplies very easily by seeding. It is a plant of fallows, which is sometimes encountered in stands. In Gabon, as in western Congo it is however the following species (P. subangustum) that is encountered most frequently.
 
-Herbe très répandue dans toute l'Afrique tropicale, ainsi qu'aux Indes et en Amérique. Bon fourrage à l'état jeune, elle se multiplie très aisément par semis. C'est une plante de jachères, que l'on rencontre parfois en peuplements. Au Gabon, comme dans le Congo occidental c'est cependant l'espèce suivante (P. subangustum) que l'on rencontre le plus fréquemment.
-
-Noms vernaculaires (d’après Walker et Sillans) : Nkomb’orové
-
-Mpongwé, Galoa, Orungu); Nkomb'orové, Égombé-gombé (Nkomi); Ikombé-diakumu (Ngové); Utové (Benga); Ntovu (Béséki); Nto, Sam-milong (Fang); Mulongila (Echira, Bavarama, Bapunu, Bavungu); Gésélèlè (Apindji); Moongi (Mitsogo); Dipambukongi (Balumbu); Ilèngilé (Baduma).
+Vernacular names (after Walker and Sillans): Nkomb'orové (Mpongwé, Galoa, Orungu); Nkomb'orové, Égombé-gombé (Nkomi); Ikombé-diakumu (Ngové); Utové (Benga); Ntovu (Béséki); Nto, Sam-milong (Fang); Mulongila (Echira, Bavarama, Bapunu, Bavungu); Gésélèlè (Apindji); Moongi (Mitsogo); Dipambukongi (Balumbu); Ilèngilé (Baduma).
 
 ## Specimens examined
 

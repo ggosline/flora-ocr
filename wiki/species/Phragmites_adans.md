@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 50.1 Phragmites mauritianus Kunth
 
 Fl. Gab.: 238; FTEA: 120, fig. 38; Fl. Zamb. 10(1): 92, tab. 28; Gram. CB.: 92.

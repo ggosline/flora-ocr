@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1):275 (1954); LIBEN, FZ:8, fig. 1c (1968); Fl. Cam. 25:12, tab. 4 (1983). Syntypes: Cameroon, Mildbraed 4597, 5703, 7597, 7813, 8094, 8377 (all–B delet.).
 
-KEAY, FWTA, ed. 2, 1(1):275 (1954); LIBEN, FZ:8, fig. 1c (1968); Fl. Cam. 25:12, tab. 4 (1983). Syntypes: Cameroun, Mildbraed 4597, 5703, 7597, 7813, 8094, 8377 (tous-B delet.).
+Deciduous tree, height ≤ 45 m, diameter ≤ 80 cm.
 
-Arbre caducifolié, hauteur ≤ 45 m, diamètre ≤ 80 cm.
+Leaves opposite or subopposite; petiole up to 14 mm long; blade elliptic, ≤ 11 × ≤ 4 cm, with two glands situated at 2/3 of its length; approximately 8 large lateral nerves; base of blade attenuate; apex acuminate.
 
-Feuilles opposées ou subopposées ; pétiole long ≤ 14 mm ; limbe elliptique, ≤ 11 × ≤ 4 cm, avec deux glandes situées aux 2/3 de sa longueur ; environ 8 grandes nervures latérales ; base du limbe atténuée ; sommet acuniné.
+Inflorescences in terminal or axillary racemes on shoots of the preceding year, rachis ≤ 4 cm; bracts inconspicuous.
 
-Inflorescences en racèmes terminaux ou axillaires sur les pousses de l'année précédente, rachis ≤ 4 cm ; bractées peu visibles.
+Flowers 4-merous, protogynous, pedicel ≤ 2 mm. Receptacle and calyx lobes pubescent, with a constriction between lower and upper receptacle; the lower 3–8 mm high and the upper patelliforme, diameter 3 mm. Petals glabrous and white, 1.5 mm long and almost as wide. Stamens 4 mm long; filaments cream-white; anthers 0.2 mm long. Style 3 mm.
 
-Fleurs 4-mères, protogynes, pedicelle ≤ 2 mm. Réceptacle et lobes du calice pubescens, avec un rétrécissement entre réceptacle inférieur et supérieur ; l'inférieur haut de 3-8 mm et le supérieur patelliforme, diamètre 3 mm. Pétales glabres et blancs, longs de 1,5 mm et presqu'aussi larges. Étamines longueur 4 mm ; filets blanc crème ; anthères longues de 0,2 mm. Style 3 mm.
-
-Fruit à 2 ailes, ≤ 23 × ≤ 18 mm, presque glabre ; stipe 5 mm. – Pl. 27, p. 95.
+Fruit with 2 wings, ≤ 23 × ≤ 18 mm, almost glabrous; stipe 5 mm. – Pl. 27, p. 95.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides de basse altitude
+Dense humid lowland forests
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Côté d'Ivoire au Gabon et au Congo (Kinshasa)
+from Côte d'Ivoire to Gabon and Congo (Kinshasa)
 
 ## Specimens examined
 

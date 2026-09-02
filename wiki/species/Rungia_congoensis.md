@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Th. et H. Durand, Syll. Fl. Congol. (Bull. Jard. Bot. État Brux. 2) : 432 (1909). — Heine, F.W.T.A. ed. 2,2 : 430 (1963).
 
-Petite herbe rampante, de 20 cm de haut, très finement et légèrement pubescente; tiges atteignant 30 cm de long, subanguleuses, à 4 rangs de petits poils; entrenœuds d'environ 2-4 cm de long. Pétiole de 1-3 (7,5) cm de long. Limbe des feuilles glabre,
+Small creeping herb, 20 cm tall, very finely and lightly pubescent; stems reaching 30 cm long, subangulous, with 4 rows of small hairs; internodes about 2–4 cm long. Petiole 1–3 (7.5) cm long. Leaf blade glabrous, ovate-elliptic, rounded at apex, acute at base, 2.5–4 (10) × 1.5–2 (4) cm. 3–4 pairs of lateral nerves, dark green above, paler and greyish below.
 
-ovale-elliptique, arrondi au sommet, aigu à la base, de 2,5-4 (10) × 1,5-2 (4) cm. 3-4 paires de nervures latérales, vert foncé dessus, plus pâle et grisâtre en dessous.
+Inflorescences axillary and terminal in dense spikes, sessile or pedunculate, 1.5–4 cm long; sometimes many inflorescences crowded in the axils; peduncle up to 6 mm long. Bracts very imbricate, orbicular 4 mm, or very broadly ovate about 4 × 6 mm, with hyaline and translucent margins 1–1.5 mm wide; the central part pale green and finely pubescent; pubescence somewhat felt-like. Bracteoles subulate-lanceolate, about 3 mm long, ciliate-pubescent. Flowers sessile. Sepals linear-lanceolate, subequal, up to 2.5–3 mm long, finely pubescent-ciliate. Corolla 5 mm long, bilabiate, with white tube; mauve lips with white lines, external pubescence along the nerves. Filaments and anther connectives finely pubescent.
 
-Inflorescences axillaires et terminales en épis denses sessiles ou pédonculés, de 1,5-4 cm de long; quelquefois beaucoup d'influences sont serrées dans les aisselles; pédonculé jusqu'à 6 mm de long. Bractées très imbriquées, orbiculaires de 4 mm, ou très largement ovales d'environ 4 × 6 mm, avec des marges hyalines et translucides larges de 1-1,5 mm; la partie centrale est vert pâle et finement pubescente; pubescence un peu feutrée. Bractéoles subulées-lancéolées, environ 3 mm de long, ciliées-pubescentes. Fleurs sessiles. Sépales linéaires-lancéolées, subégaux, jusqu'à 2,5-3 mm de long, finement pubescents-ciliés. Corolle de 5 mm de long, bilabiée, à tube blanc; à lèvres mauves avec des lignes blanches, à pubescence externe le long des nervures. Filets et connectifs des anthères finement pubescents.
-
-Fruit finement pubescent, apiculé, de 5 mm de long; graines lenticulaires, de 0,8 mm de diamètre; brunes, finement et densément tuberculées.
+Fruit finely pubescent, apiculate, 5 mm long; seeds lenticular, 0.8 mm in diameter; brown, finely and densely tuberculate.
 
 ## Type
 
@@ -37,11 +33,9 @@ Mann 1672, Sierra del Crystal (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Southern Nigeria, Cameroon, Ubangi-Shari, Gabon, Congo.
 
-Nigeria du Sud, Cameroun, Oubangui-Chari, Gabon, Congo.
-
-Nigeria du Sud, Cameroun, Gabon.
+Southern Nigeria, Cameroon, Gabon.
 
 ## Specimens examined
 
@@ -83,55 +77,51 @@ Capsule de  $ 10 \times 3 $ mm, poilue, à cloisons déhiscentes. Graines de  $ 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— From the outset, and in a completely independent manner, the particular generic position of plants belonging to this species was recognized by their original authors; this position is expressed succinctly by C. B. Clarke, in his original description of Justicia paucinervia (l. c., 1899): "The stem and leaves of this species are unlike those of any other Justicia..." Lindau, in his original description of Rungia obcordata (l. c., 1905) expressed himself thus: « Die Art ist vor allen übrigen Rungia-Arten durch die Form der Brakteen ausgezeichnet. Von besonderem Interesse ist die Form des Pollens, die mir sonst noch nicht vorgekommen ist. ... ». Bremekamp (l. c., 1943), regarding Rungia obcordata Lindau (whose conspecificity with Justicia paucinervia had not yet been established at that time), emphasizes that "it would merit a more thorough study", because of the configuration of its pollen grains.
 
-— Dès le début, et de façon complètement indépendante, la position générique particulière des plantes appartenant à cette espèce fut reconnue par leurs auteurs primitifs; cette position est exprimée succinctement par C. B. Clarke, dans sa description originale de Justicia paucinervia (l. c., 1899) : "The stem and leaves of this species are unlike those of any other Justicia..." Lindau, dans sa description originale de Rungia obcordata (l. c., 1905) s'exprime ainsi : « Die Art ist vor allen übrigen Rungia-Arten durch die Form der Brakteen ausgezeichnet. Von besonderem Interesse ist die Form des Pollens, die mir sonst noch nicht vorgekommen ist. ... ». Bremekamp (l. c., 1943), à propos de Rungia obcordata Lindau (dont la conspéfité avec Justicia paucinervia n'avait pas encore été constatée à cette époque), souligne qu'« elle mériterait une étude plus approfondie », à cause de la configuration de ses grains de pollen
+N. Hallé: 2978, 2993, Bélinga, 950 m alt. (fl. 3 Nov. 1964) often 30–50 cm, reaches close to 1 m, corolla yellowish white, bracts green margined with violet; remarkable asymmetry of the base of the blade, in small sparse populations, river bank under forest.
 
-N. Hallé : 2978, 2993, Bélinga, 950 m alt. (fl. 3 nov. 1964) souvent 30-50 cm, atteint près de 1 m, corolle blanc jaunâtre, bractées vertes marginées de violet; dissymétrie remarquable de la base du limbe, en petits peuplements peu denses, bord de rivière sous bois.
+Le Testu: 2356, Issoko, forests of Davo (fl. and fr. 17 Jul. 1917); flowers white spotted with violet, the inflorescence is a dark purple spike; 8192, Moughombéfala, region of Lastoursville (fl. and fr. 29 Jul. 1930).
 
-Le Testu : 2356, Issoko, forêts du Davo (fl. et fr. 17 juil. 1917); fleurs blanches tachées de violet, l'inflorescence est un épi pourpre foncé; 8192, Moughombéfala, région de Lastoursville (fl. et fr. 29 juil. 1930).
+Mann: 1672, Sierra del Crystal.
 
-Mann : 1672, Sierra del Crystal.
+EXPLANATION OF PLATE XLIV, fig. 1–11:
 
-EXPLICATION DE LA PLANCHE XLIV, fig. 1-11:
-
-1, sommité florifère; 2, bractée de  $ 8 \times 6 $ mm; 3, poils du bord de la bractée; 4, bractéole de 6-7 mm de long; 5, calice (le plus grand sépale de 6 mm de long); 6, partie de l'inflorescence avec fleur épanouie; 7, corolle
-
-ouverte de 11 mm de haut; 8, étamine à loges d'anthère de 1,30 et 1,75 mm de long; 8', idem, loges un peu écartées; 9, pistil (disque 0,5 mm, ovaire de 1 mm de haut, style de 6,5 mm de long); 10, fruit après déhiscence, de 12 mm d'envergure; 11, graine de 1,5 × 1 × 0,5 mm. — 1-5, 7-11, N. Hallé 2993; 6, d'après un dessin in vivo de A. Raynal (J. et A. Raynal 10416).
+1, fertile top; 2, bract of 8 × 6 mm; 3, hairs from the margin of the bract; 4, bracteole 6–7 mm long; 5, calyx (largest sepal 6 mm long); 6, part of inflorescence with open flower; 7, corolla open 11 mm tall; 8, stamen with anther lobes 1.30 and 1.75 mm long; 8', idem, lobes somewhat separated; 9, pistil (disc 0.5 mm, ovary 1 mm tall, style 6.5 mm long); 10, fruit after dehiscence, 12 mm across; 11, seed 1.5 × 1 × 0.5 mm. — 1–5, 7–11, N. Hallé 2993; 6, from an in vivo drawing by A. Raynal (J. et A. Raynal 10416).
 
 30. JUSTICIA sensu C. B. Clarke
 
-C. B. Clarke, F.T.A. 5 : 179 (1899) : voir note ci-dessous.
+C. B. Clarke, F.T.A. 5 : 179 (1899): see note below.
 
-Plantes herbacées ou parfois arbrisseaux à feuilles entières.
+Herbaceous plants or sometimes shrublets with entire leaves.
 
-Fleurs souvent petites, blanches, violettes, roses, ou plus rarement rouges ou jaunes, solitaires à l'aisselle des bractées, en fascicules ou en cymes, formant des épis ou des panicules terminaux ou axillaires; bractées et bracgéoles très variables. Calice à (4) 5 segments étroits subulés au aïgus, subégaux. Corolle zygomorphe, presque toujours velue à l'extérieur; tube plus court que le limbe, élargi au sommet, parfois un peu contracté à la gorge; limbe à 2 lèvres, la supérieure plus intérieure dans le bouton, dressée ou arquée, concave, entière ou un peu bilobée, en général un peu élargie; lèvre inférieure étalée, à 3 lobes égaux, le médian extérieur dans le bouton, la partie veinée convexe avec une cannelure où passe le style. Étamines insérées à la gorge, plus courtes que la lèvre supérieure, à filet souvent épais et velu; anthères à deux loges libres et superposées, à des hauteurs différentes, la supérieure obtuse ou un peu acuminée à la base; l'inférieure munie à la base d'un éperon hyalin et blanc; stami-nodes O. Disque annulaire ou plus ou moins cupuliforme, entier ou ondulé 2-3-lobé; 2 ovules par loge; style filiforme; stigmate obtus ou à une courte dent.
+Flowers often small, white, violet, pink, or more rarely red or yellow, solitary in the axil of bracts, in fascicles or in cymes, forming terminal or axillary spikes or panicles; bracts and bracteoles very variable. Calyx with (4) 5 narrow subulate to acute segments, subequal. Corolla zygomorphic, almost always hairy externally; tube shorter than the limb, widened at the apex, sometimes slightly constricted at the throat; limb with 2 lips, the upper more interior in the bud, erect or arched, concave, entire or slightly bilobed, generally somewhat widened; lower lip spreading, with 3 equal lobes, the median exterior in the bud, the veined part convex with a groove where the style passes. Stamens inserted at the throat, shorter than the upper lip, with filament often thick and hairy; anthers with two free lobes superposed at different heights, the upper obtuse or slightly acuminate at the base; the lower furnished at the base with a hyaline white spur; staminodes 0. Disc annular or more or less cupuliform, entire or wavy 2–3-lobed; 2 ovules per locule; style filiform; stigma obtuse or with a short tooth.
 
-Capsule ovale ou oblongue, épaisse ou comprimée, à base en stipe étroit plein, généralement long. 4 graines, en général aplaties, ± orbiculaires, lisses, ridées, fovéolées, verruqueuses ou aiguillonnées.
+Capsule ovate or oblong, thick or compressed, with base on a narrow full stipe, generally long. 4 seeds, generally flattened, ± orbicular, smooth, wrinkled, foveolate, verrucose or spiny.
 
-Espèce type du genre Justicia Linné (Sp. Pl. 15, 1753): J. hyssopifolia L., îles Canaries.
+Type species of genus Justicia Linnaeus (Sp. Pl. 15, 1753): J. hyssopifolia L., Canary Islands.
 
-Un des plus grands genres de la famille à répartition pantropicale.
+One of the largest genera of the family with pantropical distribution.
 
-La délimitation de ce genre est difficile et varie beaucoup selon la conception des différents auteurs. La présente interprétation est exactement celle de C. B. Clarke (voir p. 5, ainsi que la note concernant le genre Adhatoda p. 173). Pour ces raisons il est impossible d'indiquer actuellement, même de façon approximative, le nombre d'espèces. C. B. Clarke, en 1899, indiquait un nombre de 200; H. Melchior, en 1964, en incluant les genres Adhatoda et Beloperone, 300 (Syllabus, ed. 12, 2 : 460, 1964).
+The delimitation of this genus is difficult and varies greatly according to the conception of different authors. The present interpretation is exactly that of C. B. Clarke (see p. 5, as well as the note concerning the genus Adhatoda p. 173). For these reasons it is impossible to indicate currently, even approximately, the number of species. C. B. Clarke, in 1899, indicated a number of 200; H. Melchior, in 1964, including the genera Adhatoda and Beloperone, 300 (Syllabus, ed. 12, 2 : 460, 1964).
 
-1. Inflorescences axillaires, spiciformes, jusqu'à 5 cm de long, ou fasciculées; plantes herbacées.
+1. Inflorescences axillary, spike-shaped, up to 5 cm long, or fasciculate; herbaceous plants.
 
-2. Inflorescences spiciformes, simples, pédonculées; bractées obovales ou suborbiculaires, presque glabres; petites plantes grimpantes et prostrées, à nœuds radicifères..... I. J. tenella.
+2. Inflorescences spike-shaped, simple, pedunculate; bracts obovate or suborbicular, almost glabrous; small climbing and prostrate plants with rooting nodes..... I. J. tenella.
 
-2'. Inflorescences en petits fascicules axillaires, subsessiles; bractées elliptiques, velues; plantes dressées, sans racines aux nœuds...
+2'. Inflorescences in small axillary fascicles, subsessile; bracts elliptic, hairy; erect plants, without roots at nodes...
 
-1'. Inflorescences terminales, paniculées ou en forme d'épi atteignant 28 cm de long; plantes robustes ou sous frutescentes.
+1'. Inflorescences terminal, paniculate or spike-shaped reaching 28 cm long; robust or subfrutescent plants.
 
-3. Bractéoles plus ou moins de la longueur du calice; fleurs jaunâtres, à étendard tigré de violet foncé, à labelle piquetée de violet foncé. 3. J. tigrina.
+3. Bracteoles more or less the length of the calyx; flowers yellowish, with standard striped dark violet, with labellum speckled dark violet. 3. J. tigrina.
 
-3'. Bractéoles ayant le tiers ou la moitié de la longueur du calice; fleurs jaunâtres-verdâtres, d'une seule couleur, ou seulement un peu mouchetées de pourpre ou violet à la gorge.
+3'. Bracteoles one-third or one-half the length of the calyx; flowers yellowish-greenish, of a single color, or only slightly speckled with purple or violet at the throat.
 
-4. Feuilles florales absentes ou très rares dans l'inflorescence qui est + étroite ou même spiciforme; 9-11 paires de nervures latérales; ovaire et fruit glabres; base du limbe fréquemment aiguë....
+4. Floral leaves absent or very rare in the inflorescence which is ± narrow or even spike-like; 9–11 pairs of lateral nerves; ovary and fruit glabrous; base of blade frequently acute....
 
-4'. Feuilles florales fréquentes dans l'inflorescence qui est lâche, jamais spiciforme; environ 5-6 paires de nervures latérales; ovaire et fruit velus; base du limbe arrondie..... 5. J. extensa.
+4'. Floral leaves frequent in the inflorescence which is lax, never spike-like; about 5–6 pairs of lateral nerves; ovary and fruit hairy; base of blade rounded..... 5. J. extensa.
 
-— Des spécimens portant de très jeunes inflorescences, sont difficiles à classer entre les Justicia laxa et extensa (N. Hallé 1901, 2019, 2376); il s'agit probablement de formes intermédiaires
+— Specimens bearing very young inflorescences are difficult to place between Justicia laxa and extensa (N. Hallé 1901, 2019, 2376); these are probably intermediate forms.
 
 ## Figures
 

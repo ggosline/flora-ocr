@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 S. erectae (G. Don) Walp. affinis, sed foliis minimis subconcoloribus i.s. atro-brunneis, pedicellis majoribus gracilibus, alabastris anguste oblongis, disco angustato subtonconico, antheris saepe apiculatis, ovulis (1)2-4 in quoque loculo, sepalis vix denticulatis vel integris, petalis valde angustatis, fructu sphaerico stipitato, haud apiculato triedrico, satis differt. Incolit in Cameruno, Gabonia Zairaque.
 
 ## Type
@@ -26,17 +24,15 @@ Le Testu 9000, Gabon (holo-, P!; iso-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine reaching 20 m in height, glabrous and devoid of rubber; young branches with 4 fine ridges. Leaves opposite or subopposite. Petiole 1.5-3 mm, with margins of the channel very strongly undulate. Blade particularly small, subconcolorous dark brown or reddish, 2.5-5.5 × 1.2-2.5 cm, with base subacute or ± broadly rounded, apex acuminate, margin dentate. Midvein forming a fine ridge adaxially when dry; 5-7 pairs of secondary veins sometimes scarcely distinct.
 
-Liane atteignant 20 m de hauteur, glabre et dépourvue de caoutchouc ; jeunes rameaux à 4 fines arêtes. Feuilles opposées ou subopposées. Pétiole de 1,5-3 mm, à marges du canal très fortement ondulées. Limbe particulièrement petit, subconcolore brun foncé ou roussâtre, de 2,5-5,5 × 1,2-2,5 cm, à base subaiguë ou ± largement arrondie, à sommet acuminé, à marge dentée. Nervure médiane en fine crête dessus à sec ; 5-7 paires de nervures secondaires parfois peu distinctes.
+Inflorescences axillary sessile or subsessile; small glomule 1-10-flowered. Pedicel slender 6-13 mm. Bud oblong or somewhat conical, always narrow, 2.4-3.6 × 1.4-1.9 mm, brownish when dry. Flowers 5-6.5 mm in diameter, yellowish or yellow-green in vivo. Sepals obtuse, often rounded and entire, sometimes subdeltoidal and somewhat dentate, with fleshy median thickening. Disc cylindric or subtrunconical 1-1.3 mm in diameter and 0.7 mm thick. Stamens rather slender 1-1.7 mm, with anther most often distinctly apiculate and 0.5-0.7 mm wide, with slits forming a rather acute chevron. Pistil narrowly pyramidal and subulate 1.5-2 mm. Locules scarcely sunken one-quarter below the level of the stamens and each containing (1)2-4 ovules often superposed.
 
-Inflorescences axillaires sessiles ou subsessiles; petit glomérule 1-10-flore. Pédicelle grêle de 6-13 mm. Bouton oblong ou un peu conique, toujours étroit, de  $ 2,4-3,6 \times 1,4-1,9 $ mm, brunâtre à sec. Fleurs de 5-6,5 mm de diamètre, jaunâtres ou jaune vert in vivo. Sépales obtus, souvent arrondis et entiers, parfois subdeltoïdes et un peu dentés, à épaississement médian charnu. Disque cylindrique ou subtronconique de 1-1,3 mm de diamètre et 0,7 mm d'épaisseur. Étamines plutôt grêles de 1-1,7 mm, à anthère le plus souvent nettement apiculée et large de 0,5-0,7 mm, à fentes formant un chevron plutôt aigu. Pistil étroitement pyramidal et subulé de 1,5-2 mm. Loges à peine enfoncées d'un quart sous le niveau des étamines et contenant chacune (1)2-4 ovules souvent superposés.
+Small capitate globose fruit 1-1.4 mm in diameter, without a distinct apex but provided with a narrow basal neck 2-3 × 2 mm at mid-height
 
-Petit fruit capité globuleux de 1-1,4 mm de diamètre, sans apex distinct mais pourvu d'un étroit col basal de 2-3 × 2 mm à mi-hauteur
+from which the filament remnants are inserted. Seeds 1-3 in a fruit. - Pl. 33, fig. 1-15, p. 121.
 
-duquel sont insérés les vestiges des filets. Graines 1-3 dans un fruit. - Pl. 33, fig. 1-15, p. 121.
-
-Cameroun, Gabon, Zaïre (Devred 4117, BR !). Cette espèce rare et dispersée de forêt dense est parfois localisée sur des sommets rocheux isolés. Malgré ses petites feuilles brunâtres, elle est restée longtemps confondue avec le S. erecta, espèce commune à feuilles un peu plus grandes et ± olivacées discolores à sec. Les fruits, globuleux parfois, de S. erecta, sans apicule chez certaines formes ouest-africaines, n'ont jamais été observées avec un col étroit ; si le nombre d'ovules par loge permet de distinguer des variétés chez S. erecta, ici par contre le nombre d'ovules varie trop étroitement autour de 2 ou 3, notamment dans une même fleur, pour y trouver le moindre critère variétal.
+Cameroon, Gabon, Zaire (Devred 4117, BR !). This rare and scattered species of dense forest is sometimes localized on isolated rocky summits. Despite its small brownish leaves, it remained long confused with S. erecta, a common species with somewhat larger leaves and ± olivaceous discolorous when dry. The fruits, sometimes globose, of S. erecta, without apicule in certain West African forms, have never been observed with a narrow neck; if the number of ovules per locule allows distinguishing varieties in S. erecta, here on the contrary the number of ovules varies too narrowly around 2 or 3, notably within the same flower, to find any varietal criterion therein.
 
 ## Specimens examined
 

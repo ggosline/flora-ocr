@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle (ou peut être pérenne à vie courte) , à tiges dressées ou procombantes, jusqu’à 30 cm de hauteur, généralement très ramifiés et formant des tapis, succulentes, glabres ou rarement avec quelques poils épars. Stipules minuscules, jusqu’à 1 mm de longueur, ca duques. Feuilles d’une paire très inégales ; pétiole 0,5 à 5 mm , glabre ; limbe elliptique à ovale ou plus souvent, obovale, 3–8 × 0,5–4 mm , base arrondie à cunéée, sommet arrondi à obtus, à marge entière , lisse et glabre sur les deux faces, à nervures latérales obscures, à cystolithes linéaires très proéminents dans l’épiderme dessus. Inflorescence en petits fascicules cymeux et pédonculés ou subsessiles, 1 ou 2 ensemble aux aisselles, 1–4 mm de lon gueur, généralement avec quelques fleurs mâles et 5 à 10 fleurs femelles (ou bien entièrement femelle). Fleur : sessile ou sur un pédicelle atteignant jusqu’à 0,5 mm ; périanthe 0,5–0,8 mm de longueur. Fleur mâle : généralement plus longue que la femelle, 3-mère ; tépales subégaux, avec un gonflement subapical. Fleur femelle à un tépale long et deux latéraux plus petits. Fruit ovoïde, 0,5–0,8 mm de longueur, lisse, marron.
+Annual herb (or possibly short-lived perennial), with erect or procumbent stems, up to 30 cm in height, generally much-branched and forming mats, succulent, glabrous or rarely with a few scattered hairs. Stipules minute, up to 1 mm in length, caducous. Leaves in pairs very unequal; petiole 0.5–5 mm, glabrous; blade elliptic to ovate or more often obovate, 3–8 × 0.5–4 mm, base rounded to cuneate, apex rounded to obtuse, with entire margin, smooth and glabrous on both surfaces, with obscure lateral nerves, with linear cystoliths very prominent in the epidermis above. Inflorescence in small pedunculate or subsessile cymose fascicles, 1 or 2 together in the axils, 1–4 mm in length, generally with a few male flowers and 5 to 10 female flowers (or entirely female). Flower: sessile or on a pedicel reaching up to 0.5 mm; perianth 0.5–0.8 mm in length. Male flower: generally longer than the female, 3-merous; tepals subequal, with a subapical swelling. Female flower with one long tepal and two smaller lateral ones. Fruit ovoid, 0.5–0.8 mm in length, smooth, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-probablement indigène seulement en Amérique centrale, mais aujourd’hui introduit et lar gement naturalisé dans les régions tropicales et subtropicales du Monde ; en Afrique de l’Ouest, du Sénégal jusqu’au Nigéria, au Cameroun et en République démocratique du Congo, largement répandu en Afrique de l’Est, du Kenya jusqu’en Afrique du Sud (Kwazulu-Natal) ; au Gabon, seulement connu de la Ngounié
+Probably indigenous only in Central America, but today introduced and widely naturalized in the tropical and subtropical regions of the World; in West Africa, from Senegal to Nigeria, Cameroon and Democratic Republic of the Congo, widely distributed in East Africa, from Kenya to South Africa (KwaZulu-Natal); in Gabon, known only from the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Parfois cultivé dans les jardins, ou aussi comme mauvaise herbe, dans des endroits humides, naturalisé sur murs de pierre et entre des pavés, parfois entre rochers en bordure des ruisseaux ; au Gabon à environ 100 m d’altitude, ailleurs à 0–1000 m
+Sometimes cultivated in gardens, or also as a weed, in humid places, naturalized on stone walls and between paving stones, sometimes between rocks on stream banks; in Gabon at approximately 100 m altitude, elsewhere at 0–1000 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est documentée avec une collection de Mouila, dans la Ngounié. Raponda-Walker & Sillans (1961) rapportent une espèce qu’ils nomment Parietaria debilis Forst., et déclarent qu’il est commun sur les rochers, les anciens murs, les cimetières et les villages. Ils citent de nombreux noms vernaculaires et l’utilisation de cette plante. Parietaria debilis est une espèce de forêts de montagnes et de végétation afroalpine, à 1100–4400 m d’altitude. Il est alors peu probable que les plantes de RapondaWalker et Sillans du Gabon ainsi nommées, représentent cette espèce et en l’absence de collections, il est difficile de l’identifier avec certitude, mais leur indication d’habitats correspond très bien à ceux où se trouve Pilea microphylla . Si tel est le cas, P. microphylla est beaucoup plus répandu au Gabon que ce que l’unique collection indique. Il reste incertain si les noms vernaculaires et les utilisations citées par Raponda-Walker & Sillans s’appliquent tous ou partiellement à P. microphylla . B : Letouzey (1968), Friis (1989a, 1989c). i B liographie
+This species is documented with a collection from Mouila, in the Ngounié. Raponda-Walker & Sillans (1961) report a species they name Parietaria debilis Forst., and state that it is common on rocks, old walls, cemeteries and villages. They cite numerous vernacular names and the use of this plant. Parietaria debilis is a species of mountain forests and afroalpine vegetation, at 1100–4400 m altitude. It is therefore unlikely that the plants from Raponda-Walker and Sillans' Gabon collections so named represent this species and in the absence of collections, it is difficult to identify it with certainty, but their indication of habitats corresponds very well to those where Pilea microphylla is found. If such is the case, P. microphylla is much more widespread in Gabon than what the single collection indicates. It remains uncertain whether the vernacular names and uses cited by Raponda-Walker & Sillans apply wholly or partially to P. microphylla. B: Letouzey (1968), Friis (1989a, 1989c). Bibliography
 
 ## Notes
 

@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial caespitose herb with erect culms, simple or branched towards the base. Leaf sheaths generally glabrous, or ciliate at their opening; ligule ciliate, blades glabrous.
 
-Herbe pérenne cespiteuse à chaumes dressés simples ou ramiﬁés vers la base. Gaines foliaires généralement glabres, ou ciliées à leur ouverture; ligule ciliée, limbes glabres.
+Panicle 3 to 8 cm long, lax, with branches often pubescent. Spikelets 3 to 4 mm long. Lower glume pubescent hyaline, 1-nerved, up to 1.5 mm long; upper glume 5-nerved, pubescent at the base and on the margins and with towards the middle a dense line of hairs exceeding the spikelet; awn reaching 1 mm long. Sterile lemma somewhat narrower and shorter than the upper glume, awn 3 mm; palea as in the preceding species. Fertile flower 2.5 mm long; lemma emarginate and glabrous 5-nerved.
 
-Panicule de 3 à 8 cm de long, lâche, à branches souvent pubes-centes. Épillets de 3 à 4 mm de long. Glume inférieure pubescente hyaline, à 1 nervure, jusqu'à 1,5 mm de long; glume supérieure à 5 nervures, pubescente à la base et sur les bords et avec vers le milieu une ligne dense de poils dépassant l'épillet; arête atteignant 1 mm de long. Lemma stérile un peu plus étroite et plus courte que la glume supérieure, arête de 3 mm; palée comme dans l'espèce précédente. Fleur fertile de 2,5 mm de long; lemma émarginée et glabre à 5 nervures.
-
-Espèce endémique des régions côtières du Gabon, où elle colonise des sables blancs très lessivés. Intérêt fourrager nul.
+Endemic species of the coastal regions of Gabon, where it colonizes very leached white sands. Forage value nil.
 
 ## Specimens examined
 

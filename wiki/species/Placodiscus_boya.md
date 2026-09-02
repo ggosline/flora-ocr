@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cinq récoltes stériles ou avec fruits, s'approcheraient de P. cuneatus par la nervation des feuilles, mais les folioles sont relativement trop courtes et au nombre de 3-4 paires seulement. D'après les notes des récolteurs, il s'agit d'un arbre de 25 m dont le tronc mesure 0,70 à 1,20 m de diamètre; fût de 8-10 m, cannelé en colonnes ou colonnettes, avec de grosses branches obliques et tortueuses également cannelées. Le rhytidome se desquame en écailles vert grisâtre orangé, l'écorce est rose orangé, le cambium jaunâtre, le bois dur blanchâtre. Les rameaux cannelés striés sont jaune foncé, brillants; des cannelures aiguës descendent sous l'insertion des feuilles; pétioles striés, plans dessus, à 2 bords coupants sur les côtés; 3-4 paires de folioles non opposées, de 8-24 × 4-10 cm, à base en coin, à nervure médiane saillante sur les 2 faces. Le fruit est une baie de 5-6 cm à 4 lobes.
+Five sterile or fruit-bearing collections would approach P. cuneatus in the leaf venation, but the leaflets are relatively too short and number only 3-4 pairs. According to the collectors' notes, this is a tree of 25 m with a trunk measuring 0.70 to 1.20 m in diameter; bole of 8-10 m, channeled in columns or columnar ridges, with large oblique and tortuous branches likewise channeled. The rhytidome exfoliates in greenish-gray orange scales, the bark is orange-pink, the cambium yellowish, the wood hard whitish. The channeled striated branchlets are dark yellow, glossy; acute ridges descend beneath the insertion of the leaves; petioles striated, flat above, with 2 cutting edges on the sides; 3-4 pairs of leaflets not opposite, 8-24 × 4-10 cm, wedge-shaped at the base, with the midvein prominent on both surfaces. The fruit is a berry of 5-6 cm with 4 lobes.
 
 ## Type
 

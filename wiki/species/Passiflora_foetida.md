@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane rampante ou grimpante, herbacée, devenant ± ligneuse à la base, atteignant 4(–10) m de hauteur, à odeur désagréable ; rameaux variablement hirsutes à poils brun jaunâtre. Stipules sub-réniformes, 0,5–1 mm de longueur, profondément divisées en segments filiformes surmontées d’une glande. Feuille à pétiole de 6 cm ; limbe 3-lobé, incisé jusqu’à la moitié, atteignant 11 × 11 cm, cordé à la base, lobes aigus à acuminés au sommet, lobe central plus large que les autres , variablement hirsute sur les deux faces, à bords sub-entiers, pourvus de poils surmontés d’une glande ; glandes laminaires absentes. Inflorescence uniflore, axillaire, avec une vrille simple de 10–15 cm ; pédoncule de 2,5–6 cm, terminé par un involucre de 3 bractées de 2–4 cm, 2–4-pennatipartites, les segments ultimes étroitement linéaires et surmontés d’une glande, bractées entourant le bouton et fruit. Fleur sub-sessile, à hypanthium patelliforme ; sépales 5, libres, ovalesoblongs à lancéolés, 1,5–2 cm de longueur, pourvus d’une corne dorsale de 2–4 mm juste au-dessous du sommet, verts, blancs ou violet pâle ; pétales 5, oblongs à lancéolés, plus courts que les sépales, blancs, parfois violet pâle ; couronne : les 2 verticilles externes à filaments linéaires de ± 1 cm, pourpres ou violet pâle vers la base, les internes beaucoup plus courts ; opercule membraneux, ± dressé ; étamines hypogynes, filets 3,5–6 mm, recourbés, anthères 3–6 mm de longueur, pendantes ; androgynophore 3–6 mm ; ovaire ovoïde, 2,5–3 mm de longueur, glabre ; styles 3, 4–5 mm, étalés , stigmates globuleux ,
-
-vert pâle. Fruit globuleux, 1,5–3 cm de diamètre, à péricarpe coriace, orange, jaune ou ocre, lisse et glabre. Graines une dizaine par fruit, elliptiques, 4 × 3 mm, noires, glabres, lisses, fovéolées, à arille pulpeux clair, à environ 6 fossettes sur la longueur .
+Climbing or twining herb, becoming ± woody at the base, reaching 4(–10) m in height, with an unpleasant odour; branches variably hirsute with yellowish-brown hairs. Stipules sub-reniform, 0.5–1 mm long, deeply divided into filiform segments topped with a gland. Leaf with petiole 6 cm; lamina 3-lobed, incised to halfway, reaching 11 × 11 cm, cordate at base, lobes acute to acuminate at apex, central lobe wider than the others, variably hirsute on both surfaces, with sub-entire margins, bearing hairs topped with a gland; laminar glands absent. Inflorescence uniflorous, axillary, with a simple tendril 10–15 cm long; peduncle 2.5–6 cm, terminated by an involucre of 3 bracts 2–4 cm long, 2–4-pinnatipartite, the ultimate segments narrowly linear and topped with a gland, bracts surrounding the bud and fruit. Flower sub-sessile, with patellifiform hypanthium; sepals 5, free, ovate-oblong to lanceolate, 1.5–2 cm long, bearing a dorsal horn 2–4 mm just below the apex, green, white or pale violet; petals 5, oblong to lanceolate, shorter than the sepals, white, sometimes pale violet; corona: the 2 outer whorls with linear filaments ± 1 cm long, purple or pale violet towards the base, the inner ones much shorter; operculum membranous, ± erect; stamens hypogynous, filaments 3.5–6 mm, curved, anthers 3–6 mm long, pendulous; androgynophore 3–6 mm; ovary ovoid, 2.5–3 mm long, glabrous; styles 3, 4–5 mm, spreading, stigmas globose, pale green. Fruit globose, 1.5–3 cm in diameter, with coriaceous pericarp, orange, yellow or ochre, smooth and glabrous. Seeds about ten per fruit, elliptic, 4 × 3 mm, black, glabrous, smooth, foveolate, with a clear pulpy aril, with approximately 6 pits along the length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Amérique tropicale, naturalisée dans tous les tropiques ; au Gabon commune dans tout le pays
+native to tropical America, naturalized in all tropics; in Gabon common throughout the country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-formations rudérales, jachères, bords des rues ; au Gabon, jusqu’à 620 m d’altitude, ailleurs jusqu’à 2500 m. Fleurs et fruits toute l’année ; fleurs se fermant par grande chaleur et vers le coucher du soleil. Usage : Les enfants mangent les fruits. Les feuilles sont mangés par les lapins et les cobayes. Les feuilles seraient emménagogues et les fleurs pectorales
+ruderal formations, fallow land, street margins; in Gabon, up to 620 m altitude, elsewhere up to 2500 m. Flowers and fruits throughout the year; flowers closing in great heat and towards sunset. Use: Children eat the fruits. The leaves are eaten by rabbits and guinea pigs. The leaves would be emmenagogic and the flowers pectoral.
 
 ## Vernacular names
 

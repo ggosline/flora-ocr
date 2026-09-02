@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 = Urophyllum canthiiflorum (Hook. f.) Hutch. et Dalz. F.W.T.A. 1 ed. 2 : 104 (1931).
 
-Petit arbuste de 1-2 m de hauteur, grêle, à rameaux latéraux opposés rayonnants. Entrenœuds réguliers de (1) 1,5-3 cm, à dense et rase pubescence jaune-vert. Stipules effilées-subulées à insertion étalée, longues de 2-6 (8) mm, à pubescence rase. Pétiole à pubescence jaune-vert, long de 2-4 (5) mm. Limbe ovale acuminé, généralement gris-vert ou olivâtre à sec, terne ou un peu brillant dessus, de 3-6 × 0,9-2,5 cm, tout à fait glabre dessus; base aiguë, sommet à acumen relativement fort de 7-12 mm de long et terminé par un mucron de ± 0,6 mm. Médiane glabre dessus; 4-5 paires de nervures latérales arquées ascendantes, tangentes à la marge qui est pubescente dessous. Nervures inter-secondaires perpendiculaires à la médiane, régulièrement et étroitement parallèles entre elles. Domaties axillaires pubescentes.
+Small shrub 1-2 m tall, slender, with opposite spreading lateral branches. Regular internodes (1) 1.5-3 cm, with dense and short yellow-green pubescence. Stipules awl-shaped with spreading insertion, 2-6 (8) mm long, with short pubescence. Petiole with yellow-green pubescence, 2-4 (5) mm long. Leaf blade ovate acuminate, generally grey-green or olivaceous when dry, dull or slightly glossy above, 3-6 × 0.9-2.5 cm, quite glabrous above; base acute, apex with a relatively strong acumen 7-12 mm long and terminated by a mucro of ± 0.6 mm. Midrib glabrous above; 4-5 pairs of lateral arched ascending nerves, tangent to the margin which is pubescent below. Inter-secondary nerves perpendicular to the midrib, regularly and narrowly parallel to each other. Axillary pubescent domatia.
 
-Petites inflorescences axillaires généralement solitaires et uniflores, parfois 2-3 fasciculées, parfois 2-3-flores. Pédicelle de (1,5) 2-5 mm, muni vers le tiers ou le quart inférieur, d'une petite paire de préfeuilles effilées. Bouton long d'env. 2 mm, à sommet obtusément conique et ⊥ pubescent (plus pubescent chez le type que chez les spécimens gabonais). Calice médiocrement denticulé à rebord de moins de 0,5 mm. Corolle blanche de 3 mm de diam. à tube un peu renflé, à pilosité interne blanche apparente à l'anthèse. Étamines à anthères insérés dorsalement un peu au-dessus de la moitié, mucronulées, longues de 0,5 mm, un peu apparentes
+Small axillary inflorescences generally solitary and uniflorous, sometimes 2-3 fascicled, sometimes 2-3-flowered. Pedicel (1.5) 2-5 mm, bearing toward the lower third or quarter a small pair of awl-shaped prefloral leaves. Bud approximately 2 mm long, with an obtusely conical apex and ⊥ pubescent (more pubescent in the type than in the Gabonese specimens). Calyx moderately denticulate with a rim less than 0.5 mm. Corolla white 3 mm in diameter with a somewhat swollen tube, with apparent white internal piloseness at anthesis. Stamens with anthers inserted dorsally slightly above the midpoint, mucronate, 0.5 mm long, somewhat apparent
 
-à l'anthèse. Style glabre d'env. 1 mm (forme brévistyle étudiée). Disque bombé glabre d'env. 1 mm de diam. Ovaire à 2 loges. Fruit globuleux de 5 mm de diam. devenant rouge à noir. Graine globoïde muriculée de 0,7 mm.
+at anthesis. Style glabrous approximately 1 mm (short-styled form studied). Disk convex glabrous approximately 1 mm in diameter. Ovary with 2 locules. Fruit globose 5 mm in diameter becoming red to black. Seed globoid muricate 0.7 mm.
 
-Cette espèce est connue du Sud Nigeria, Cameroun et Gabon. En forêts ripicoles ou très humides, sous ombrage et par taches.
+This species is known from southern Nigeria, Cameroon and Gabon. In riparian or very humid forests, under shade and in patches.
 
 ## Specimens examined
 

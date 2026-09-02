@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Eggeling 4212, Uganda, holo-K! – Diaphananthe bilobata (Summerh.) Rasm., Nord. J. Bot. 21 : 229 (1974).
 
-Tige < 50 cm. Feuilles < 16, 3,5-10 × 1-5 cm, tordues à la base pour se situer dans un même plan, oblongues-obovées. Inflorescences souvent 2 ou 3 par nœud, 2-10 cm, < 30-flore, pendantes. Fleurs petites, non résupinées, blanches, crème clair ou vertes. Sépale dorsal oblong à presque orbiculaire. Pétales obliquement rhombiformes-ovés. Sépales latéraux obliquement oblongs-elliptiques à ovés-lancéolés. Labelle 4-5,5 × 3,6-4 mm, quadrilobé, callus peu développé ; lobes latéraux obliquement ovés à étroitement elliptiques, arrondis ; lobes apicaux de forme semblable mais plus petits. Éperon 4,3-8,3 mm, pendant, légèrement recourbé, cylindrique, renflé vers le milieu. - Pl. 210, p. 443.
+Stem < 50 cm. Leaves < 16, 3.5–10 × 1–5 cm, twisted at the base to lie in one plane, oblong-obovate. Inflorescences often 2 or 3 per node, 2–10 cm, < 30-flowered, pendulous. Flowers small, not resupinate, white, pale cream or green. Dorsal sepal oblong to nearly orbicular. Petals obliquely rhombiform-ovate. Lateral sepals obliquely oblong-elliptic to ovate-lanceolate. Lip 4–5.5 × 3.6–4 mm, quadrilobate, callus poorly developed; lateral lobes obliquely ovate to narrowly elliptic, rounded; apical lobes of similar shape but smaller. Spur 4.3–8.3 mm, pendulous, slightly recurved, cylindric, swollen toward the middle. – Pl. 210, p. 443.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Zaïre, Rwanda, Burundi, Ouganda
+Gabon, Zaire, Rwanda, Burundi, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,280–2,200 m. Epiphyte or lithophyte in dense humid forest, thicket and mountain forest, swampy formation
 
-alt. 1 280-2 200 m. Épiphyte ou lithophyte en forêt dense humide, fourré et forêt de montagne, formation marécageuse
+MATERIAL STUDIED (Map 94):
 
-MATÉRIEL ÉTUDIÉ (Carte 94) :
-
-Hallé 1681, 10 km SO de Ndjolé, CEFA-Ayem (fl. Avr.), P! ; 3404, Ivindo, au N de la Djonam (fl. Déc.), P!.
+Hallé 1681, 10 km SW of Ndjolé, CEFA-Ayem (fl. Apr.), P! ; 3404, Ivindo, N of Djonam (fl. Dec.), P!.
 
 ## Figures
 

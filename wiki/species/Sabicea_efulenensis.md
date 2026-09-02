@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane ± climbing or twining. Internodes ± slender and ± pubescent. Stipules lanceolate, pubescent, veined, ± erect. Petiole pubescent 1–2.5 cm. Blade pubescent or more rarely glabrous above (N. Hallé 794 bis), elliptic or obovate, 5–13 × 2–6 cm; base acute or acutely attenuate; apex subacute. (7) 10–13 pairs of secondary veins. Main veins pubescent beneath, with hairs ± erect (Binuyo 35067, Cameroon) or appressed (Gabonese specimens).
 
-Lianule ± rampante ou volubile. Entrenœuds ± grêles et ± pubescents. Stipules lancéolées, pubescentes, veinées, ± dressées. Pétiole pubescent de 1-2,5 cm. Limbe pubescent ou plus rarement glabre dessus (N. Hallé 794 bis), elliptique ou obové, de 5-13 × 2-6 cm; base aiguë ou atténuée aiguë; sommet subaigu. (7) 10-13 paires de nervures secondaires. Principales nervures pubescentes dessous, à poils ± dressées (Binuyo 35067, Cameroun) ou apprimés (échantillons gabonais).
+Inflorescences solitary at the nodes. Peduncle pubescent 5–8 mm, with at the apex two opposite very large bracts, ovate or suborbicular acute 15–30 × 12–18 mm, with parallel veins and ± pubescent. 5–10 flowers with pedicel 1–2 mm, densely clothed as well as the ovary with short appressed silky hairs. Calyx with pubescent tube 4–6 × 2–3 mm; 5 lobes ± spreading attenuate acute or lanceolate 7–16 × 1.5–5 mm, pubescent, ciliate on the margin. Corolla white flaccid, 1.5–2 cm long; anther 3.2 × 0.9 mm, with white pollen. Cupuliform disc 2.5 mm diam. Ovary with 5 locules.
 
-Inflorescences solitaires aux nœuds. Pédoncule pubescent de 5-8 mm, avec au sommet deux bractées opposées très amples, ovées ou suborbiculaires aiguës de 15-30 × 12-18 mm, à veines parallèles et ± pubescentes. 5-10 fleurs à pédicelle de 1-2 mm, densément vêtus ainsi que l'ovaire de poils courts couchés, soyeux. Calice à tube pubescent de 4-6 × 2-3 mm; 5 lobes ± étalés atténués aiguës ou lancéolés de 7-16 × 1,5-5 mm, pubescents, ciliés sur la marge. Corolle blanche veule, longue de 1,5-2 cm; anthère de 3,2 × 0,9 mm, à pollen blanc. Disque cupuliforme de 2,5 mm de diam. Ovaire à 5 loges.
-
-Fruit mûr rouge finement pubescent, à chair spongieuse succulente blanche, atteignant  $ 16 \times 13 $ mm et surmonté du calice vert persistant. Loges longues et étroites, espacées. Graines nombreuses roux-orangé clair, longues de  $ 0,5 $ mm. Germination obtenue en 11 jours.
+Ripe fruit red finely pubescent, with spongy succulent white flesh, reaching 16 × 13 mm and topped by the persistent green calyx. Locules long and narrow, spaced. Numerous seeds light rust-orange, 0.5 mm long. Germination obtained in 11 days.
 
 ## Type
 
@@ -36,9 +34,7 @@ Bates 439, Efulen, Cameroun (holotype K, non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce assez variable semble-t-il, ayant des affinités tant avec le S. gabonica qu'avec le S. Gilletii. Nigeria, Cameroun et Gabon.
+Species rather variable seemingly, having affinities with both S. gabonica and S. Gilletii. Nigeria, Cameroon and Gabon.
 
 ## Specimens examined
 

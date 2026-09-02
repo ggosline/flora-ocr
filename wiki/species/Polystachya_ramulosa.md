@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pseudobulbs < 2.5 x 0.3-0.5 cm, ovoid. Leaves 5.5-16 x 2.6 cm, elliptic to lanceolate. Inflorescence 5-31 cm, 25-100-flowered. Flowers pale yellow, orange, yellowish-green, labellum pale pink, anther purple.
 
-Pseudobulbes < 2,5 x 0,3-0,5 cm, ovoïdes. Feuilles 5,5-16 x 2,6 cm, elliptiques à blancéolées. Inflorescence 5-31 cm, 25-100-flore. Fleurs jaune clair, orange, jaune-verdâtre, labelle rose clair, anthère violette.
-
-Sépales latéraux très obliquement triangulaires-ovés, brièvement apiculés. Labelle sans callus, nettement trilobé dans le quart apical, partie basale obtriangulaire ; lobes latéraux rhombiformes-ovés, subaigus, finement papilleux ; lobe médian ové à ové-elliptique, aigu à obtus. Éperon conico-cylindrique, obtus. – Pl. 126, p. 287.
+Lateral sepals very obliquely triangular-ovate, briefly apiculate. Labellum without callus, distinctly trilobed in the apical quarter, basal part obtriangular; lateral lobes rhombiform-ovate, subacute, finely papillose; median lobe ovate to ovate-elliptic, acute to obtuse. Spur conic-cylindric, obtuse. – Pl. 126, p. 287.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, République centrafricaine, Congo, Zaïre, Ouganda, Tanzanie
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Central African Republic, Congo, Zaire, Uganda, Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 650-900 m. Epiphytic, dense humid forest, swamp forest
 
-alt. 650-900 m. Épiphyte, forêt dense humide, forêt marécageuse
+MATERIAL EXAMINED (Map 56):
 
-MATÉRIEL ÉTUDIÉ (Carte 56) :
+Hallé & Villiers 5386, Cristal Mountains, Kinguélé Falls (fl. Feb.), P!.
 
-Hallé & Villiers 5386, Monts de Cristal, chutes de Kinguélé (fl. Févr.), P!.
-
-Le Testu 5434, Haute Ngounyé, Iméno Toumbidi (fl. Mai), BR! ; 5775, entre Wano et Ditadi sur la route de Kembélé-Mbigou (fl. Nov.), P! ; 5912, Haute Ngounyé, vallée d'Oumba (fl. Avr.), BR!, P! ; 6470, Haute Ngounyé, Mokanbi (fl. Avr.), BR!.
+Le Testu 5434, Upper Ngounyé, Iméno Toumbidi (fl. May), BR! ; 5775, between Wano and Ditadi on the Kembélé-Mbigou road (fl. Nov.), P! ; 5912, Upper Ngounyé, Oumba valley (fl. Apr.), BR!, P! ; 6470, Upper Ngounyé, Mokanbi (fl. Apr.), BR!.
 
 ## Figures
 

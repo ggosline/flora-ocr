@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant exceeding 4 m, with lianescent stem reaching 1 cm diam., with sarmentose ± voluble branches, with internodes of (1.5)4-15 cm, pubescent at juvenile stage then glabrescent, with reddish-brown epidermis. Stipules glabrous suborbicular, reflexed, sometimes emarginate at apex. Petioles 3-12 mm. Blade discolorous dark brown above when dry, with very sparse pubescence then glabrescent above, elliptic, 2.5-7(11) × 1.2-3.6(4.5) cm; base acute, sometimes briefly; apex subacuminate to obtuse. Midvein ± pubescent above; 8-13 pairs of secondary veins clothed below, as well as the margin, with appressed cilia; fine reticulation remarkably apparent below when dry, the blade being moderately pubescent or glabrous.
 
-Plante dépassant 4 m, à tige lianescente atteignant 1 cm de diam., à rameaux sarmenteux ± volubiles, à entrenœuds de
+Inflorescences with pubescent peduncle (6)10-25(40) mm. Lower bracts arranged in naviculate fashion but not connate, weakly pubescent or glabrous, embracing and ⊥ red towards the base, foliaceous for 1-3(5) mm in length at the extremities which are broad, obtuse and with apparent venules. 3-7 sessile flowers, surrounded by basal setae; bracteoles obtuse, one pair per leaf, not reaching the lower level of the calyx lobes, free within each pair. Calyx pubescent on the ovary, with glabrous tube, ⊥ red when dry and approximately 1-2 mm high, with 5 erect digitate or spatulate lobes, 1-2(3) mm long. Corolla white with glabrous tube, approximately 6-7 mm long, with acute lobes pubescent on the outer face (white erect setae on the apex of the bud), approximately 3 mm long; throat hairy. Anthers medifixed 2 mm. Ovary with (4)5 locules.
 
-(1,5)4-15 cm, velus au stade juvénile puis glabrescens, à épiderme brun rougeâtre. Stipules glabres suborbiculaires, rabattues, parfois échancrées au sommet. Pétioles de 3-12 mm. Limbe discolore brun foncé dessus à sec, à pubescence très éparse puis glabrescent dessus, elliptique, de 2,5-7(11) × 1,2-3,6(4,5) cm; base aiguë, parfois brièvement; sommet subacuminé à obtus. Médiane ± pubescente dessus; 8-13 paires de nervures secondaires vêtues dessous, ainsi que la marge, de cils couchés; fin réticule remarquablement apparent dessous à sec, le limbe étant médiocrement pubescent ou glabre.
-
-Inflorescences à pédoncule pubescent de (6) 10-25 (40) mm. Bractées inférieures disposées en navicule mais non connées, faiblement pubescentes ou glabres, embrassantes et ⊥ rouges vers la base, foliacées sur 1-3 (5) mm de longueur aux extrémités qui sont larges, obtuses et à nervilles apparentes. 3-7 fleurs sessiles, entourées de soies basilaires; préfeuilles obtuses, une paire par feuille, n'atteignant pas le niveau inférieur des lobes du calice, libres dans chaque paire. Calice pubescent sur l'ovaire, à tube glabre, ⊥ rouge à sec et haut de 1-2 mm env., à 5 lobes dressés digités ou spatulés, longs de 1-2 (3) mm. Corolle blanche à tube glabre, long de 6-7 mm env., à lobes aigus pubescents sur la face externe (soies blanches dressées sur le sommet du bouton), longs d'env. 3 mm; gorge velue. Anthères médifixes de 2 mm. Ovaire à (4) 5 loges.
-
-Baie d'env. 1 cm de diam., pubescente, à suc rouge vineux.
+Berry approximately 1 cm diam., pubescent, with wine-red juice.
 
 ## Type
 
@@ -38,9 +34,7 @@ Dinklage 1124 et 1284 du Cameroun (non vus). Spécimens de référence étudiés
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée espagnole, Gabon, Centrafrique et Congo jusqu'à la Rhodésie du N.
+Cameroon, Spanish Guinea, Gabon, Central African Republic and Congo as far as Northern Rhodesia.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre de 3–6 m, ou arbuste ; rameaux tomenteux-ferrugineux , plagiotropes. Stipules : glandes 2 mm de longueur , aplaties au sommet. Feuille à pétiole de 1–7 mm ; limbe étroitement oblong à elliptique ou ovale, 2–3,5 fois plus long que large, 7–24 × 4,5–7 cm, parfois diminuant graduellement vers le sommet du rameau, à sommet acuminé, glabre dessus sauf sur la nervure médiane, densément pubescent à tomenteux et ferrugineux dessous . Inflorescence à fleurs axillaires, solitaires , souvent avec 1 ou 2 boutons dormants et quelques bractées à la base. Fleur : sépales 4–5(–6), lancéolés-oblongs, 20–25 × 5–8 mm, à sommet acuminé, membraneux, vert pâle ou blancs devenant brunâtres sur le sec ; pétales 4–5(–6), blancs à jaunâtres, devenant brun rosâtre sur le sec ; couronne externe mince, 2–3 mm de hauteur et enveloppant l’interne qui est charnue, annulaire et de 1 mm d’épaisseur ; étamines 7–11 , adnées à la base, filets 5–6 mm, anthères environ 3 mm de longueur ; ovaire à (3–)4–6(–7) placentas, ovoïde, 2,5–3 mm de diamètre, pubescent ; styles (3–)4–6(–7), stigmates sub-capités. Fruit globuleux, de 2,5 × 2 cm environ, à péricarpe mince. Graines ovales à ellipsoïdes, ± 5 × 2,5 mm, légèrement aplaties, finement bosselées à environ 10 trous sur une ligne imaginaire méridiènne.
+Small tree 3–6 m, or shrub; branchlets tomentose-ferruginous, plagiotropic. Stipules: glands 2 mm in length, flattened at the apex. Leaf with petiole 1–7 mm; lamina narrowly oblong to elliptic or ovate, 2–3.5 times longer than wide, 7–24 × 4.5–7 cm, sometimes gradually diminishing towards the apex of the branchlet, apex acuminate, glabrous above except on the midvein, densely pubescent to tomentose and ferruginous below. Inflorescence with flowers axillary, solitary, often with 1 or 2 dormant buds and a few bracts at the base. Flower: sepals 4–5(–6), lanceolate-oblong, 20–25 × 5–8 mm, apex acuminate, membranous, pale green or white becoming brownish when dry; petals 4–5(–6), white to yellowish, becoming pinkish-brown when dry; outer corona thin, 2–3 mm in height and enveloping the inner one which is fleshy, annular and 1 mm in thickness; stamens 7–11, adnate at the base, filaments 5–6 mm, anthers approximately 3 mm in length; ovary with (3–)4–6(–7) placentas, ovoid, 2.5–3 mm in diameter, pubescent; styles (3–)4–6(–7), stigmas sub-capitate. Fruit globose, approximately 2.5 × 2 cm, with thin pericarp. Seeds oval to ellipsoid, ± 5 × 2.5 mm, slightly flattened, finely tuberculate with approximately 10 pits on an imaginary meridian line.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du sud-ouest du Cameroun au Gabon, Angola (Cabinda) et l’ouest de la République Démocratique du Congo ; au Gabon, commune dans la zone côtière (Estuaire, Moyen-Ogooué, Ogooué-Maritime et Nyanga)
+from south-western Cameroon to Gabon, Angola (Cabinda) and western Democratic Republic of the Congo; in Gabon, common in the coastal zone (Estuaire, Moyen-Ogooué, Ogooué-Maritime and Nyanga)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et secondaires, bords de routes, nettement éloignée de la côte ; au Gabon et ailleurs à basse altitude (jusqu’à 100 m). Fleurs observées de septembre à mars. Note taxonomique : Les feuilles ont des tailles très diverses. Plusieurs espèces reconnues auparavant ont été mis en synonymie par De Vos & Breteler (2009). Une seule autre espèce connue de la région (sud du Cameroun) est P. atrichogyna J.M.de Vos & Breteler, avec un ovaire glabre et des filaments adnés à l’ovaire. b : De Vos & Breteler (2009), Sleumer (1976). ibliographie
+primary and secondary forests, roadsides, distinctly distant from the coast; in Gabon and elsewhere at low altitude (up to 100 m). Flowers observed from September to March. Taxonomic note: Leaves vary greatly in size. Several previously recognized species have been placed in synonymy by De Vos & Breteler (2009). Only one other species known from the region (southern Cameroon) is P. atrichogyna J.M.de Vos & Breteler, with a glabrous ovary and filaments adnate to the ovary. b: De Vos & Breteler (2009), Sleumer (1976). Bibliography
 
 ## Notes
 

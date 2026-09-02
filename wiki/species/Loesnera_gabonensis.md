@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees. Leaves with one pair of opposite, oblong-lanceolate leaflets, somewhat falcate, obtusely acuminate, rounded or obtuse at the base, 8.5–12.5 cm long, 3–4.5 cm wide, very finely papillose beneath yellowish-brown. Midvein dividing the lamina unequally. Secondary veins about a dozen pairs, anastomosing in arches not far from the margin, finely prominent beneath and united in a loose network of veinlets. Petiole glabrous, 5–15 mm. Petiolules twisted, articulate, approximately 5 mm.
 
-Petits arbres. Feuilles à une paire de folioles opposées, oblongues-lancéolées, un peu falciformes, obtusément acuminées, arrondies ou obtuses à la base, longues de 8,5-12,5 cm, larges de 3-4,5 cm, très finement papilleuses dessous brun jaunâtre. Nervure médiane divisant inégalement le limbe. Nervures secondaires une douzaine de paires, anastomosées en arceaux non loin de la marge, finement saillantes dessous et réunies à un réseau lâche de nervilles. Pétiole glabre de 5-15 mm. Pétioules tordus, articulés, de 5 mm environ.
+Terminal and axillary racemes. Axes hairy, silky, yellow, 6–8 cm, marked with scars of fallen flowers. Bracts ovate, glabrous, striped with prominent longitudinal veinlets, 5 × 6 mm, soon caducous. Pedicels very short. Bracteoles 2, opposite, lanceolate acute, hairy externally, 6–7 mm long, 3 mm wide, embracing the young bud but not valvate. Flowers pink. Calyx in a narrow tube 7 mm; lobes 4, imbricate at first then reflexed, lanceolate, 6 mm long, hairy externally, glabrous internally. Petals 3, inserted at the edge of the tube, free, 1 cm long, 3 mm wide, obovate and attenuated into a long and narrow claw. Stamens 10, free, exserted, inserted on the edge of the tube. Ovary hairy, long-stipitate, the stipe being fused to the wall of the receptacle over part of its length. Ovules 2.
 
-Grappes terminales et axillaires. Axes velus, soyeux, jaunes, de 6-8 cm marqués des cicatrices des fleurs tombées. Bractées ovées, glabres, striées de veinules longitudinales saillantes de 5 × 6 mm, bientôt caduques. Pédicelles très courts. Bractéoles 2, opposées, lancéolées aiguës, velues extérieurement, longues de 6-7 mm, larges de 3 mm, embrassant le jeune bouton mais non valvaires. Fleurs roses. Calice en tube étroit de 7 mm; lobes 4, imbriqués d'abord puis réfléchis, lancéolés, longs de 6 mm, velus extérieurement, glabres intérieurement. Pétales 3, insérés au bord du tube, libres, longs de 1 cm, larges de 3 mm, obovés et atténués en un long et étroit onglet. Étamines 10, libres, exsertes, insérées sur le bord du tube. Ovaire velu, longuement stipité, le stipe étant soudé à la paroi du réceptacle sur une partie de sa longueur. Ovules 2.
-
-Jeunes fruits oblongs, veloutés, brun-jaune, à surface plissée.
+Young fruits oblong, velvety, yellowish-brown, with a wrinkled surface.
 
 ## Type
 
@@ -57,9 +55,7 @@ Walker : 12, Mission de St Martin, Hte Ngounié (fl. nov.); s. n. St Martin (fr.
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre des marais, connu seulement de la haute Ngounié. Endémique gabonais.
+Swamp tree, known only from the upper Ngounié. Endemic to Gabon.
 
 ## Vernacular names
 

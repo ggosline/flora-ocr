@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, 10–20 cm in diameter; bark peeling off in strips, with red interior; wood white toward the exterior, red toward the interior; branches wrinkled and longitudinally folded; young branches somewhat angular and furrowed; terminal bud 8–10 mm high; petiole 2–5 mm long. Blade subcoriaceous oblong to obovate, reaching 8–11 × 20–28 cm; base rounded; apex obtuse slightly acuminate and ± emarginate; 8–12 pairs of lateral veins; punctations ± distinct beneath the blade.
 
-Arbuste, de 10-20 cm de diamètre; écorce se détachant en lanières, à tranche rouge; bois blanc vers l'extérieur, rouge vers l'intérieur; rameaux ridés et plissés longitudinalement; jeunes rameaux un peu anguleux sillonnés; bourgeon terminal haut de 8-10 mm; pétiole long de 2-5 mm. Limbe subcoriace oblong à obovale, atteignant 8-11 × 20-28 cm; base arrondie; sommet obtus légèrement acuminé et ± émarginé; 8-12 paires de nervures latérales; ponctuations ± distinctes sous le limbe.
+Racemes very contracted bearing up to 8 pseudofasciculate flowers; pedicel 2–5 mm long, articulate directly below the calyx. Floral calyx broadly obconic, 3–4 mm high and 6–8 mm in diameter, with margin initially slightly crenulate-festooned then splitting radially here and there, the base of the calyx individualizing at the time of ovary development; corolla bud, 6 mm high, obtuse at the apex, opening into lobes reaching 8 mm in length; stamens 5–6 mm long; ovary half-inferior with 5 many-ovulate locules with placenta toward the top of the locules, the outer part in a flattened nipple-like projection and somewhat margined; style 8 mm long.
 
-Racèmes très contractés portant jusqu'à 8 fleurs pseudofasciculées; pédicelle long de 2-5 mm, articulé directement sous le calice. Calice floral largement obconique, haut de 3-4 mm et de 6-8 mm de diamètre, à marge d'abord légèrement crénelée-festonnée puis se fendant radialement çà et là, la base du calice s'individualisant au moment du développement de l'ovaire; bouton de la corolle, haut de 6 mm, obtus au sommet, s'ouvrant en lobes atteignant 8 mm de longueur; étamines longues de 5-6 mm; ovaire semi-infère à 5 loges pluriovulées avec placenta vers le haut des loges, la partie externe en mamelon aplati dessus et un peu marginée; style long de 8 mm.
-
-Capsule coriace ligneuse ± ovoïde, puis ellipsoïde, 1-2,5 × 1,5-3 cm, orangée, superficiellement ridée en réseau et sillonnée, s'ouvrant au sommet tardivement par 4-5 valves. — PL. 49, p. 175.
+Capsule coriaceous woody ± ovoid, then ellipsoid, 1–2.5 × 1.5–3 cm, orange, superficially wrinkled in a network pattern and furrowed, opening at the apex tardily by 4–5 valves. — PL. 49, p. 175.
 
 ## Type
 
@@ -31,13 +29,11 @@ Letouzey 12743, Cameroun (holo-, P!; iso-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species can be distinguished from Rhaptopetalum coriaceum Oliv. by its oblong to obovate leaf, with rounded base, its obconic floral calyx without basal constriction, its half-inferior ovary; however, new collections are indispensable to judge the variability of this taxon with respect to R. coriaceum Oliv.
 
-Cette espèce peut se distinguer de Rhaptopetalum coriaceum Oliv. par sa feuille oblongue à obovale, à base arrondie, son calice floral obconique sans rétrécissement basal, son ovaire semi-infère; de nouvelles récoltes sont cependant indispensables pour juger de la variabilité de ce taxon par rapport à R. coriaceum Oliv.
+Despite vegetative, calycinal and ovarian similarities, R. depressum R. Let. is clearly distinguished from R. roseum (Gürke) Engl. by the margin of its floral calyx festooned-crenulate, capable of splitting radially (and not clearly lobed).
 
-Malgré des analogies végétatives, calicinales et ovariennes, R. depressum R. Let. se distingue nettement de R. roseum (Gürke) Engl. par la marge de son calice floral fes-tonnée-crénelée, pouvant se fendre radialement (et non nettement lobée).
-
-Les seuls échantillons connus (Leeuwenberg 9298 et Letouzey 12743) de Rhaptopetalum depressum R. Let. proviennent des régions du Mont Koupé (alt. 1200 m) et de Lolodorf (alt. 950 m) au Cameroun.
+The only known specimens (Leeuwenberg 9298 and Letouzey 12743) of Rhaptopetalum depressum R. Let. come from the regions of Mont Koupé (alt. 1200 m) and Lolodorf (alt. 950 m) in Cameroon.
 
 ## Specimens examined
 

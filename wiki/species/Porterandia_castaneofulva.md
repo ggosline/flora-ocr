@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with densely tawny velutinous internodes. Stipules velutinous, lanceolate, 10–12 mm, caducous. Petioles tawny velutinous, 12–25 mm. Lamina reddish-brown when dry, velutinous on both faces, elliptic, 11–20 × 4.5–10 cm, with obtuse or subacute base often asymmetric, with apex shortly acute to sublanceolate. 8–14 pairs of secondary velutinous veins.
 
-Liane à entrenœuds densément velus fauves. Stipules velues lancéolées de 10-12 mm, caduques. Pétioles fauves velus de 12-25 mm. Limbe roussâtre à sec, velu sur les deux faces, elliptique de 11-20 × 4,5-10 cm, à base obtuse ou subaiguë souvent dissymétrique, à sommet brièvement aigu à sublancéolé. 8-14 paires de nervures secondaires velues.
+Inflorescences cymose, contracted, 8–12-flowered, tawny velutinous when dry, with peduncle 5–20 mm. Pedicel reduced or absent. Ovary slightly furrowed longitudinally. Calyx limb tubular, weakly flared over 5–8 mm in height and 6–8 mm in diameter. 5 (6) lobes very briefly acute, ca. 1–2 mm. Corolla pink, velutinous (ochraceous hairs when dry), with tube 1 cm long, with 5–6 suborbicular lobes ca. 7 mm, glabrous over the entire exposed part; dense ring of hairs in the narrow part of the throat. Anther 7 × 2 mm with locules not surmounted by an apicule, arcuate in the bud. Style 13 mm in total length, inflated in its lower half, with furrowed club 5 × 3 mm; disc 2.5 mm in diam. crowned with erect hairs.
 
-Inflorescences cymeuses contractées 8-12-flores, velues rousses à sec, à pédoncule de 5-20 mm. Pédicelle réduit ou nul. Ovaire légèrement sillonné en long. Limbe du calice tubuleux faiblement évasé sur 5-8 mm de hauteur et 6-8 mm de diamètre. 5 (6) lobes très courtemment aiguis d'env. 1-2 mm. Corolle rose velue (poils ochracés à sec) à tube long de 1 cm, à 5-6 lobes suborbiculaires d'env. 7 mm, glabres sur toute la partie recouverte; dense anneau de poils dans la partie étroite de la gorge. Anthère de 7 × 2 mm à loges non surmontées par un apicule, arquées dans le bouton. Style de 13 mm de longueur totale, renflé dans sa moitié inférieure, à massue sillonnée de 5 × 3 mm; disque de 2,5 mm de diam. couronné de poils dressés.
-
-Fruit elliptique immature de 22 × 15 mm plus le limbe calycinal, légèrement 10-sillonné en long.
+Fruit elliptic, immature, 22 × 15 mm plus the calycinal limb, slightly 10-furrowed longitudinally.
 
 ## Type
 
@@ -36,11 +34,9 @@ Gossweiler 621 (holotype BM!, isotypes P et K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The species occurs in Congo (A. Bouquet 763 and 688, Bouenza River), in Kinshasa, and in the Congolese and Portuguese Mayombe.
 
-L'espèce existe au Congo (A. Bouquet 763 et 688, riv. Bouenza), à Kinshasa et au Mayombe congolais et portugais.
-
-G. Le Testu 1632, Tchibanga, forêt du Mayombe Bayaka (fl. sept.). Thollon 1321, forêt du Mayombe, riv. Kouilou (fl. oct.).
+G. Le Testu 1632, Tchibanga, Mayombe Bayaka forest (fl. Sept.). Thollon 1321, Mayombe forest, Kouilou River (fl. Oct.).
 
 ## Figures
 

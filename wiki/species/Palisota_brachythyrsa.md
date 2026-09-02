@@ -21,7 +21,7 @@ Perennial herb, erect, sometimes climbing to 3.5 m tall; stem branched at the ap
 
 ## Distribution
 
-Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic; in Gabon rare, in the Estuary, Upper Ogooué, Nyanga and Ogooué-Ivindo
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic; in Gabon rare, in the Estuaire, Haut-Ogooué, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 

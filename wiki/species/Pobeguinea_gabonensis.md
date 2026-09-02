@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb up to 1.5 m tall, erect, leaves with glabrescendent sheaths, scarious ligule, ribbon-like attenuate blade, pubescent with long white hairs at the base.
 
-Herbe pérenne jusqu'à 1,5 m de haut, dressée, feuilles à gaines glabrescentes, ligule scarieuse, limbe rubanné effilé, pubescent à longs poils blancs à la base.
+Narrow elongate panicle, with 4-5 nodes. Spatholes approximately 2.5 cm long, enclosing the raceme which is borne on a pubescent peduncle 8 mm long. Sessile spikelets 8 mm long, callus pubescent. Lower glume truncate, 7-nerved, slightly pubescent towards the apex. Upper glume 3-nerved, prolonged by a subule 4 to 5 mm long. Sterile lemma, ciliate, hyaline, with two nerves; fertile lemma bifid, awned. Pedicels pubescent, 4 mm long. Spikelets 10 mm, lower glume acuminate, with numerous nerves; upper glume similar, somewhat shorter.
 
-Panicule allongée étroite, à 4-5 nœuds. Spathéoles d'environ 2,5 cm de long, enfermant le racème qui est porté par un pédoncule pubescent de 8 mm de long. Épillets sessiles de 8 mm de long, callus pubescent. Glume inférieure tronquée, à 7 nervures, légèrement pubescente vers le sommet. Glume supérieure à 3 nervures, prolongée par une subule de 4 à 5 mm de long. Glumelle stérile, ciliée, hyaline, à deux nervures; glumelle fertile bifide, aristée. Pédicelles pubescents, 4 mm de long. Épillets de 10 mm, glume inférieure acuminée, à nombreuses nervures; glume supérieure semblable, un peu plus courte.
-
-Cette espèce des savanes côtières sur sols sableux, a été trouvée à Pointe-Noire et à Mayumba. Assez proche de P. trispiculata J.-Fél., elle s'en distingue en particulier par la présence d'une subule sur la glume supérieure de l'épillet sessile.
+This species of coastal savannas on sandy soils was found at Pointe-Noire and at Mayumba. Quite close to P. trispiculata J.-Fél., it is distinguished in particular by the presence of a subule on the upper glume of the sessile spikelet.
 
 ## Specimens examined
 

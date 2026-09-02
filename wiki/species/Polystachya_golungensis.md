@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Polystachya coriacea Rolfe, Kew Bull. 9 : 340 (1913).
 
-Pseudobulbes 2-6 × 0,4-0,7 cm. Feuilles 5-28 × 0,3-2,5 cm, ligulées. Inflorescence 6-40 cm, 50-200-flore. Fleurs jaunes, jaune-vert ou brun-crème, à odeur désagréable. Sépale dorsal glabre. Pétales un peu falciformes. Sépales latéraux obliquement ovés-triangulaires ou oblongs-triangulaires. Labelle trilobé au milieu, avec un coussinet dans le tiers basal couvert de poils poudreux multicellulaires ; lobe médian presque orbiculaire à elliptique, émarginé, éparsement pubescent ; lobes latéraux obliquement obovés à oblongs, obtus, éparsément pubescents. Éperon sacciforme-conique. - Pl. 120, p. 273.
+Pseudobulbs 2–6 × 0.4–0.7 cm. Leaves 5–28 × 0.3–2.5 cm, ligulate. Inflorescence 6–40 cm, 50–200-flowered. Flowers yellow, yellow-green or cream-brown, with unpleasant scent. Dorsal sepal glabrous. Petals somewhat falcate. Lateral sepals obliquely ovate-triangular or oblong-triangular. Lip three-lobed in the middle, with a callus in the basal third covered with multicellular powdery hairs; median lobe almost orbicular to elliptic, emarginate, sparsely pubescent; lateral lobes obliquely obovate to oblong, obtuse, sparsely pubescent. Spur sacciform-conical. - Pl. 120, p. 273.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mali, Liberia, Côte d'Ivoire, Togo, Nigeria, Cameroun, République centrafricaine, Zaïre, Gabon, Ouganda, Kenya, Tanzanie, Angola, Zambie, Malawi, Zimbabwe, Mozambique
+Mali, Liberia, Côte d'Ivoire, Togo, Nigeria, Cameroon, Central African Republic, Zaire, Gabon, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe, Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 500-1 800 m. Épiphyte ou lithophyte en fourré sec, forêt secondaire, savane boisée de transition, forêt rivulaire, forêt humide, observé sur Ficus
+alt. 500–1,800 m. Epiphytic or lithophytic in dry thicket, secondary forest, transitional woodland savanna, riparian forest, humid forest, observed on Ficus
 
 ## Specimens examined
 

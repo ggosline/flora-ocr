@@ -21,7 +21,7 @@ Perennial herb; stems slender, prostrate or twining, glabrous or hairy at the no
 
 ## Distribution
 
-Known from all of tropical and subtropical Africa, as well as from Asia and America (introduced to the Pacific); in Gabon, known from a few collections in the Estuary
+Known from all of tropical and subtropical Africa, as well as from Asia and America (introduced to the Pacific); in Gabon, known from a few collections in the Estuaire
 
 ## Ecology
 

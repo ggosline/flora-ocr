@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+= Brieya fasciculata De Wildeman, Fedde Repert. 13:383 (1914). – Exell, Journ. of Bot. 64, Suppl.: II (1926). – Exell et Mendonca, Consp. Fl. Angol. 1, I: 15 (1937). – Boutique, l.c.: 304 (1951). – Keay, F.W.T.A., ed. 2, 1, 1: 39 (1954). – Aubréville, F.F.C.I., ed. 2, I: 124, tab. 32 (1959). = Piptostigma Aubrevillei Ghesq. ex. Aubréville, l.c.; ed. 1, I: 98, tab. 30 (1936).
 
-= Brieya fasciculata De Wildeman,Fedde Repert.13:383 (1914).- Exell, Journ.of Bot.64,Suppl.:II (1926).- Exell et Mendonca,Consp.Fl. Angol.1,I :15(1937).-Boutique,1.c.:304 (1951).-Keay,F.W.T.A., ed.2,1,1 :39 (1954).-Aubréville,F.F.C.I.,ed. 2,I :124,tab.32 (1959). = Piptostigma Aubrevillei Ghesq.ex.Aubréville,l.c.;ed.1,I :98,tab.30 (1936).
+Tree reaching 20 m in height and 50 cm in diameter, with straight trunk; branches glabrous, branchlets finely puberulent, ferruginous. Leaves with short petiole, 2–4 mm long, glabrous; blade papyraceous, obovate-oblong, 10–35 cm long, 5–11.5 cm wide, rounded to subcordate at the base, attenuate or ± abruptly and shortly acuminate at the apex, or rarely emarginate; upper surface glabrous and glossy, lower surface glabrous and dull. Midvein impressed above, prominent below; lateral veins 14–21 pairs, prominent on the lower surface; veinlets rather irregular and scarcely visible.
 
-Arbre atteignant 2o m de hauteur et 5o cm de diamétre,ä tronc droit;rameaux glabres,ramilles finement pubérulentes ferrugineuses.Feuilles â pétiole court, long de 2-4 mm,glabre; limbe papyracé,obové-oblong,long de Io-35 cm,large de 5-11,5 cm,arrondi á subcordé á la base,atténué ou ± brusquement et courtement acuminé au sommet,ou rarement émarginé; face supérieure glabre et brillante,face inférieure glabre et mate. Nervure médiane imprimée au-dessus,proéminente en dessous; nervures latérales I4-21 paires, saillantes á la face inférieure; nervilles peu régulieres et peu visibles.
+Flowers green, solitary or 2–3 fascicled, on leafy or leafless branches, with slender pedicel, about 1.5 cm long, puberulent; bracteole minute towards the middle of the pedicel. Sepals broadly triangular-ovate, apiculate at the apex, 2–2.5 mm long, 1.5–2 mm wide, tomentose on the exterior. External petals triangular acute, 2–4 mm long, about 1 mm wide, tomentose on the exterior; internal petals linear-ribbon-like, 4.5–10 cm long, 0.4–0.8 cm wide, finely puberulent on both surfaces. Stamens numerous in two rows, sessile, about 1.5 mm long, thecae extrorse, connectives dilated, lobed and truncate above the anthers. Carpels 4, ovaries oblong, 2 mm long, puberulent, stigmas sessile, capitate, densely puberulent. Ovules 18–20, biseriate.
 
-Fleurs vertes, solitaires ou 2-3 fasciculées, sur les rameaux feuillés ou défeuillés,ä pedicelle grele, long de 1,5 cm environ, pubérulent;bractéole minuscule vers le milieu du pédicelle. Sépales largement triangulaires-oves,apiculés au sommet, longs de 2-2,5 mm,larges de 1,5-2 mm, tomenteux a l'extérieur.Pétales externes triangulaires aigus,longs de 2-4 mm, larges de 1 mm environ, tomenteux ä l'extérieur; pétales internes linéairesrubanés, longs de 4,5-1o cm, larges de o,4-o,8 cm, finement pubé- rulents sur les deux faces. Etamines nombreuses sur deux rangs, sessiles,longues de 1,5 mm environ, theques extrorses,connectifs dilatés, lobulés et tronqués au-dessus des antheres. Carpelles 4, ovaires oblongs,longs de 2 mm,pubérulents, stigmates sessiles, capités,densément pubérulents.Ovules 18-2o,biséries.
-
-Fruits á pédicelle épais,long de 1,5-2 cm,glabre;méricarpes sessiles,ellipsoides-oblongs a subglobuleux, longs de 4-1o,5 cm, larges de 4-4,5 cm,arrondis aux deux extrémites, légerement bosseles, glabres, jaune orangé a 'état frais. Graines ± 2o, noyées dans une pulpe jaunatre, ellipsoides, longues de 2-2,5 cm,larges de 1 cm environ.
+Fruits with thick pedicel, 1.5–2 cm long, glabrous; mericarps sessile, ellipsoid-oblong to subglobose, 4–10.5 cm long, 4–4.5 cm wide, rounded at both ends, slightly bossed, glabrous, yellow-orange when fresh. Seeds ± 20, embedded in yellowish pulp, ellipsoid, 2–2.5 cm long, about 1 cm wide.
 
 ## Type
 
@@ -35,13 +33,11 @@ Jolly 48,environs de Libreville, Gabon (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of dense humid forest, Terminalia forest, ravine forest, fairly common in Côte d'Ivoire, Ghana, Cameroon, Gabon, Congo-Kinshasa and Angola (Cabinda).
 
-Espéce de forét dense humide,forét á Terminalia,forét de ravins,assez commune en Cote d'Ivoire,au Ghana,au Cameroun, Gabon, Congo-Kinshasa et Angola (Cabinda).
+Species very remarkable for its large leaves densely rusty-pubescent, and its very large flowers most often solitary. Extremely allied to A. Dielsiana Le Thomas, of Cameroon.
 
-Espéce tres remarquable par ses grandes feuilles densément pubescentes rousses,et ses tres grandes fleurs le plus souvent solitaires.Extrémement affine d'A. Dielsiana Le Thomas,du Cameroun.
-
-En foret dense humide au Gabon et Congo-Kinshasa.
+In dense humid forest in Gabon and Congo-Kinshasa.
 
 ## Specimens examined
 

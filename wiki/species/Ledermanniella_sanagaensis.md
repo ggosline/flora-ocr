@@ -21,7 +21,7 @@ Bull. Mus. natl. Hist. nat., sér. 4, Adansonia 6(3) : 256 (1984). Plant with a 
 
 ## Distribution
 
-Cameroon (Sanaga River) and Gabon; in Gabon, recently collected for the first time on the Mbé River (Cristal Mountains, in the Estuary). B: Cusset (1984, 1987a). Bibliography
+Cameroon (Sanaga River) and Gabon; in Gabon, recently collected for the first time on the Mbé River (Cristal Mountains, in the Estuaire). B: Cusset (1984, 1987a). Bibliography
 
 Ledermanniella 39 National Museum of Natural History, Paris (©), reproduced with permission from Cusset (1984).
 

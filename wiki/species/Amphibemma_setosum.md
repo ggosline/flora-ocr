@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, bushy, 0.50 to 1.75 m tall; young branches subangular, furfuraceous, often with scattered capitate hairs, more numerous at the nodes; later becoming woody, rounded and glabrescent. Leaves with slender, rounded petiole, 2 to 8 cm long, furfuraceous, sometimes with capitate hairs; blade oval to lanceolate, broadly rounded, truncate, or cordate at the base, moderately acuminate, ±4–5 × 7–10 cm, glabrescent, or with short and scattered hairs above, hairy below, mainly on the veins; with 5 to 7 veins, the first pair sometimes suprabasal, the transverse ones parallel, sparse; margins practically entire, or loosely and minutely indented with a short cilium in the sinus.
 
-Arbrisseau buissonnant, haut de 0,50 à 1,75 m; rameaux jeunes subangulaires, furfuracés, souvent avec des soies capitées, éparses, plus nombreuses sur les nœuds; puis devenant ligneux, arrondis et glabrescents. Feuilles à pétiole grêle, arrondi, long de 2 à 8 cm, furfuracé, parfois avec des soies capitées; limbe ovale à lancée, largement arrondi, tronqué, ou cordé à la base, modérément acuminé, ±4-5 × 7-10 cm, glabrescent, ou avec soies courtes et éparses dessus, poilu dessous, principalement sur les nervures; de 5 à 7 nervures, la première paire parfois suprabasale, les transversales parallèles, peu nombreuses; marges pratiquement entières, ou lâchement et minutieusement indentées avec un cil court dans le sinus.
+Terminal cymes, umbelliform, subsessile, formed of 2 to 4 digitate cymes, reduced to 2 or 3 flowers; axes furfuraceous or with capitate hairs. Flower with pedicel 2 to 3 mm; hypanthium-calyx 5 mm long, calyx lobes tooth-like, narrowly triangular, 2 mm long; capitate hairs 3 mm long, scattered on the hypanthium, but more numerous and more robust on the lobes. Petals pink, 16 mm long, asymmetrical, ciliate with capitate hairs toward the apex. Outer stamens with anther 7 mm; podoconnective arched, prolonged anteriorly into a claviform appendage 2 mm; filament 7 mm. Inner stamens with anther 5 mm; connective short, furnished anteriorly with a short, erect, bilobed appendage, and posteriorly with an obtuse spur; filament 5.5 mm. Ovary deeply enclosed, adnate to the middle; free part represented by the crown; style 15 mm long; placentas sessile, as long as the locule.
 
-Cymes terminales, ombelliformes, subsessiles, formées de 2 à 4 cymes digitées, réduites à 2 ou 3 fleurs; axes furfuracés ou avec soies capitées. Fleur à pédicelle de 2 à 3 mm; hypantho-calice long de 5 mm, lobes du calice dentiformes, étroitement triangulaires, longs de 2 mm; soies capitées longues de 3 mm, dispersées sur l'hypanthe, mais plus nombreuses et plus robustes sur les lobes. Pétales roses, longs de 16 mm, dissymétriques, ciliés de soies capitées vers le sommet. Étamines externes à anthère de 7 mm; pédoconnectif arqué, prolongé en avant d'un appendice claviforme de 2 mm; filet de 7 mm. Étamines internes à anthère de 5 mm; connectif
-
-court, pourvu, en avant d'un appendice redressé, court, bilobé, et en arrière d'un éperon obtus; filet de 5,5 mm. Ovaire profondément inclus, adhérent jusqu'à la moitié; partie libre représentée par la couronne; style long de 15 mm; placentas sessiles, aussi longs que la loge.
-
-Fruit obconique-urcéolé, sommet cratériforme, plus court que l'hypanthe; calice finalement détruit avec la partie libre de l'hypanthe, laissant le fruit glabre, long de 7 mm. Graines longues de 1 mm avec la vésicule fronto-apicale. — Pl. 30, p. 83.
+Fruit obconical-urceolate, apex cratériform, shorter than the hypanthium; calyx eventually destroyed with the free part of the hypanthium, leaving the fruit glabrous, 7 mm long. Seeds 1 mm long with the fronto-apical vesicle. — Pl. 30, p. 83.
 
 ## Type
 
@@ -33,9 +29,7 @@ Mann 1681a, Gabon (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce endémique de la région gabonaise.
+Species endemic to the Gabonese region.
 
 ## Specimens examined
 

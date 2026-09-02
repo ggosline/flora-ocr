@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, erect, up to 2 m, often purplish, cauliflorous; branches at first furfuraceous, then glabrescent, or with spreading hairs, glandular; warts on the nodes. Leaves ample, membranous; petiole 7–10 cm, furfuraceous, often with scattered glandular hairs; blade ovate, 8–10 × 15–17 cm, rounded-cordate at the base, acute to acuminate at the apex; setae appressed, scattered on the upper surface, rarer on the lower surface, except towards the margins and on the veins; 5 to 7 veins, the transverse ones ± parallel; margins serrulate-ciliate.
 
-Arbrisseau dressé, jusqu'à 2 m, souvent pourpre, caulifloe; rameaux d'abord furfuracés, puis glabrescents, ou avec poils étalés, glanduleux; verrues sur les nœuds. Feuilles amples, membraneuses; pétiole 7-10 cm, furfuracé, souvent avec poils glanduleux épars; limbe ovale, 8-10 × 15-17 cm, arrondi-cordé à la base, aigu à acuminé au sommet; soies couchées, éparses dessus, plus rares dessous, sauf vers les marges et sur les nervures; 5 à 7 nervures, les transversales ± parallèles; marges serrulées-ciliées.
+Axillary cymes, especially on recently defoliated nodes, subsessile, bifurcate, contracted. Flowers with pedicel 1 to 4 mm; hypanthium ellipsoid-oblong, pentagonal, 5–6 mm high, glabrescent to pubescent, rarely with a few scattered setae towards the base, often glandular hairs on the calyx; teeth dentiform 2 to 2.5 mm, acute to setaceous. Petals pink, obovate, asymmetric, 5 × 10 mm, ciliate-glandular towards the apex. Outer stamens with anther 7 mm; podoconnective 4–5 mm, anterior appendage 2 mm, truncate-bidiscoid; filament 5 mm. Inner stamens with anther 4–5 mm; connective thickened by an anterior obtuse appendage and an obtuse spur; filament 4 mm; placentas sessile; style 10 mm.
 
-Cymes axillaires, surtout sur les nœuds récemment défeuillés, subsessiles, bifurquées, contractées. Fleurs à pédicelle de 1 à 4 mm; hypanthe ellipsoïde-oblong, pentagonal, haut de 5-6 mm, glabrescent à pubescent, rarement avec quelques soies éparses vers le bas, souvent poils glanduleux sur le calice; lobes dentiformes de 2 à 2,5 mm, aiguis à sétacés. Pétales roses, obovales, asymétriques,  $ 5 \times 10 $ mm, ciliés-glanduleux vers le haut. Étamines externes à anthère de 7 mm; pédoconnectif 4-5 mm, appendice antérieur de 2 mm, tronqué-bidiscoïde; filet 5 mm. Étamines internes à anthère de 4-5 mm; connectif épaissi d'un appendice antérieur obtus et d'un éperon obtus; filet de 4 mm; placentas sessiles; style de 10 mm.
-
-Capsule ellipsoïde-oblongue,  $ 5 \times 10 $ mm, pentagonale; sommet de l'ovaire tronqué, couronne épigyne non accrescente, atteint le bord de l'hypanthe; déhiscence loculicide sur toute la hauteur. Graines de  $ 1.5 $ mm de longueur totale, appendiculée en bas par le funicule et en haut par la vésicule aérifère. — Pl. 28, fig. 5-7, p. 79.
+Capsule ellipsoid-oblong, 5 × 10 mm, pentagonal; apex of the ovary truncate, epigynous crown not accrescent, reaching the edge of the hypanthium; loculicidal dehiscence over the entire height. Seeds 1.5 mm in total length, appendiculate at the base by the funicle and at the apex by the aeriferous vesicle. — Pl. 28, fig. 5–7, p. 79.
 
 ## Type
 

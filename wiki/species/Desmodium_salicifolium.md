@@ -29,7 +29,7 @@ throughout tropical Africa, southern Africa and the Mascarenes; in Gabon, known 
 
 ## Ecology
 
-gallery forest, margins, humid places, banks; in Gabon at 2–550 m altitude, elsewhere, up to 1800 m. Flowers and fruits in May and August. Use: Used as green manure and cover crop. The leaves cooked with courgette seeds treat epilepsy in children and diarrhea in adults. Fang women use it as an anti-emmenagogue; used as a friction on rheumatic limbs, in maceration as an emetic. The Mindumu in Upper Ogooué apply the plant against kidney pain or dazzling sensations
+gallery forest, margins, humid places, banks; in Gabon at 2–550 m altitude, elsewhere, up to 1800 m. Flowers and fruits in May and August. Use: Used as green manure and cover crop. The leaves cooked with courgette seeds treat epilepsy in children and diarrhea in adults. Fang women use it as an anti-emmenagogue; used as a friction on rheumatic limbs, in maceration as an emetic. The Mindumu in Haut-Ogooué apply the plant against kidney pain or dazzling sensations
 
 ## Vernacular names
 

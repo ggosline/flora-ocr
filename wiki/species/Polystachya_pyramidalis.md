@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem 40-60 × 0.5. Leaves 22 × 1.2 cm, linear-lanceolate, acuminate.
 
-Tige 40-60 × 0,5. Feuilles 22 × 1,2 cm, linéaires-lancéolées, acuminées.
-
-Inflorescence de 7-10 cm, < 30-flore. Fleurs jaunes. Sépale dorsal oblong-ové, apiculé. Sépales latéraux obliquement oblongs-triangulaires à ovés-triangulaires, acuminés, avec une carène charnue élevée le long de la nervure médiane sur la face abaxiale. Labelle nettement trilobé juste au-dessus de la base, glabre avec trois rides charnues et épaisses dans le quart basal ; lobe médian obové-obtriangulaire à triangulaire-oblong, tronqué ; lobes latéraux triangulaires, aigus. Éperon conique. – Pl. 119, p. 271.
+Inflorescence 7-10 cm, < 30-flowered. Flowers yellow. Dorsal sepal oblong-ovate, apiculate. Lateral sepals obliquely oblong-triangular to ovate-triangular, acuminate, with a fleshy keel raised along the midvein on the abaxial surface. Labellum distinctly trilobed just above the base, glabrous with three fleshy and thick ridges in the basal quarter; median lobe obovate-obtriangular to triangular-oblong, truncate; lateral lobes triangular, acute. Spur conical. – Pl. 119, p. 271.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon
+Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 950 m. Épiphyte en forêt montagnarde
+alt. 950 m. Epiphyte in montane forest
 
 ## Specimens examined
 

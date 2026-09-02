@@ -24,15 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, rhizomatous and stoloniferous, culms more or less branched, up to 30 cm tall or sometimes taller. Leaf sheaths ciliate along the margins, or the lower ones pubescent with tuberculate hairs at the base; ligule membranous, ciliate; blades linear, up to about 15 × 0.6 cm, rigid, generally involute, margins spinescent.
 
-Herbe pérenne, rhizomateuse et stolonifère, chaumes plus ou moins ramiﬁés, jusqu’à 30 cm de haut ou parfois plus. Gaines foliaires ciliées le long des bords, ou les inférieures pubescentes à poils tuberculés à la base; ligule membraneuse, ciliée; limbes
+Narrow panicle, about twenty cm long, branched to the 3rd or 4th degree. Spikelets glabrous, sub-acuminate. Glumes unequal, the lower one very short, hyaline, obtuse or shortly acuminate, with 3 to 9 faintly visible nerves; the upper one membranous, the size and shape of the spikelet, with 7 or 9 nerves. Lower floret male, lemma with 9 nerves, less distinctly acuminate than the upper glume; palea of the same size. Floret 2 mm long, white, glumellae coriaceous, with 7 fine nerves.
 
-linéaires, jusqu'à environ 15 × 0,6 cm, rigides, généralement enroulés, bords spinescents.
-
-Panicule étroite, d'une vingtaine de cm de long, divisée jusqu'au 3 ou 4° degré. Épillets glabres, sub-acuminés. Glumes inégales, l'inférieure très courte, hyaline, obtuse ou courtement acuminée, de 3 à 9 nervures peu visibles; la supérieure membraneuse, de la taille et de la forme de l'épillet, à 7 ou 9 nervures. Fleur inférieure mâle, lemma à 9 nervures, moins nettement supérieure acuminée que la glume supérieure; paléa de même taille. Fleur de 2 mm de long, blanche, glumelles coriaces, avec 7 fines nervures.
-
-Largement répandue dans les zônes côtières tropicales des Indes et de l’Afrique, serait un fourrage de bonne qualité.
+Widely distributed in the tropical coastal zones of India and Africa, would be a forage of good quality.
 
 ## Specimens examined
 

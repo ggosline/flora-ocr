@@ -21,7 +21,7 @@ Erect shrub ± 2 m tall; stems with dense yellow or ferruginous pubescence, hair
 
 ## Distribution
 
-West Africa, from Guinea to Cameroon and Gabon; in Gabon, known only from the Estuary
+West Africa, from Guinea to Cameroon and Gabon; in Gabon, known only from the Estuaire
 
 ## Ecology
 

@@ -20,7 +20,7 @@ in A.DC. & C.DC., Monogr. phan. 3 : 268 (1881). Annual herb; stem creeping, ± 3
 
 ## Distribution
 
-Rare species, found in Nigeria, Cameroon, Equatorial Guinea (Río Muni) and Gabon; in Gabon in the Estuary, Ngounié, Ogooué-Ivindo and Woleu-Ntem
+Rare species, found in Nigeria, Cameroon, Equatorial Guinea (Río Muni) and Gabon; in Gabon in the Estuaire, Ngounié, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 

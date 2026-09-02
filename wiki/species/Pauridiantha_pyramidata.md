@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1–3 m tall, with erect habit and horizontal or oblique branches. Nodes regularly spaced with internodes 20–30 × 1–1.5 mm, with dense yellowish-green pubescence, fine and ± appressed. Stipules tapered, briefly widened at the base, pubescent, 4–6 mm long. Petiole pubescent, 2–3 mm. Lamina olive-green when dry, glabrous above except on the midvein, elliptic or long-ovate, 4.5–7 (8) × 1.5–2 (2.5) cm; base subacute to rounded; apex lanceolate subacuminate, with a terminal mucro 0.5–1 mm; 6–9 pairs of secondary veins arched then long-ascending, especially the upper ones, paler yellow than the lamina below when dry and somewhat pubescent. Domatia axillary, hairy.
 
-Arbrisseau de 1-3 m, à port dressé et rameaux horizontaux ou obliques. Nœuds régulièrement échelonnés avec des entrenœuds de 20 30 × 1 1,5 mm, à dcnsc pubsccnce vert-jaunâtre, fine et ± rase. Stipules effilées, brièvement élargies à la base, pubscentes, longues de 4-6 mm. Pétiole pubescent de 2-3 mm. Limbe vert-olive à sec, glabre dessus sauf la médiane, elliptique ou longuement ové de 4,5-7 (8) × 1,5-2 (2,5) cm; base subaiguë à arrondie; sommet lancéolé subacuminé, à mucron terminal de 0,5-1 mm; 6-9 paires de nervures secondaires arquées puis longuement ascendantes, surtout les supérieures, d'un jaune plus clair que le limbe en dessous à sec et un peu pubscentes. Domaties axillaires velues.
-
-Fleurs brévi ou longistyles, sur des pieds différents. Inflorescences axillaires pluriflores subsessiles (pédoncule de 0,1 mm), contractées, pubescentes; floraison échelonnée dans une même inflorescence. Bouton haut de 4-5 mm, à sommet ‡ atténué, étroitement obtus et hirsute. Calice pubescent à 5 dents aiguës atteignant 1 mm (jusqu'à 3 mm par accrescence dans certaines vieilles fleurs. Corolle jaune ou jaune vert, devenant violacé clair en fin d'anthèse, à tube subcylindrique extérieurement glabre, à 5 lobes triangulaires longs d'env. 1,5 mm. Étamines méditorsifixes à filet de 0,5 ou 2 mm, à anthère apiculée verte ou bleuâtre d'env. 1 × 0,5 mm, dominant ou non le stigmate. Style vert, glabre, de 3 ou 4 mm, à stigmate brièvement bilobé et apparent au-dessus de la gorge dans la fleur longistyle. Disque épais d'env. 1 × 1 mm, jaune. Ovaire à 2 loges. Fruit globuleux de 4-5 mm de diam., à sépales dressés, à pédicelle grêle ± accrescent; ± 100 graines dans un fruit (Tisserant 1433) cristées-muriculées, globoïdes, de 0,7 mm env., rousses.
+Flowers briefly or longistylous, on different plants. Inflorescences axillary, pluriflorous, subsessile (peduncle 0.1 mm), contracted, pubescent; flowering staggered within a single inflorescence. Bud 4–5 mm tall, with apex ± attenuate, narrowly obtuse and hirsute. Calyx pubescent with 5 acute teeth reaching 1 mm (up to 3 mm by accrescence in certain old flowers). Corolla yellow or yellowish-green, becoming pale purplish at the end of anthesis, with subcylindric tube externally glabrous, with 5 triangular lobes ca. 1.5 mm long. Stamens medifixed with filament 0.5 or 2 mm, with apiculate anther green or bluish ca. 1 × 0.5 mm, dominating or not the stigma. Style green, glabrous, 3 or 4 mm, with shortly bilobed stigma and apparent above the throat in the longistylous flower. Disc thick ca. 1 × 1 mm, yellow. Ovary 2-locular. Fruit globose, 4–5 mm diam., with erect sepals, with slender ± accrescent pedicel; ca. 100 seeds per fruit (Tisserant 1433), crested-muricate, globoid, ca. 0.7 mm, reddish-brown.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mildbraed 5216, Sud Cameroun (non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est du Cameroun, de Centrafrique, du Gabon, du Congo ex-fr. et ex-b. Grégaire, elle croît par taches dans certains bas-fonds ripicoles ombragés temporairement inondés.
+This species is from Cameroon, Central African Republic, Gabon, former French Congo and former Belgian Congo. Gregarious, it grows in patches in certain shaded riparian low-lying areas temporarily flooded.
 
 ## Specimens examined
 

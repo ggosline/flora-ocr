@@ -21,7 +21,7 @@ Bull. Mus. Natl. Hist. Nat. sér. 2, 3 : 334, 335 (1931 ). Ormocarpum spec. A. H
 
 ## Distribution
 
-Western Cameroon, Gabon and Republic of the Congo; in Gabon, rare and known from the Estuary
+Western Cameroon, Gabon and Republic of the Congo; in Gabon, rare and known from the Estuaire
 
 ## Ecology
 

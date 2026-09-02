@@ -15,45 +15,43 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 44.1 Ottochloa nodosa (Kunth) Dandy
 
 Gram. Cam. : 236, Pl. 50 ; Gram. CB. : 176. – Ottochloa arnottiana (Stapf) Dandy – Fl. Gab. : 74, Pl. 12 ; FACB 2 : 227, Pl. 40.
 
 45. Panicum L.
 
-1. Lemma de la fleur supérieure rugueuse transversalement ..... P. maximum
+1. Lemma of the upper floret transversely wrinkled ..... P. maximum
 
-2. Lemma et paléa de la fleur supérieure verruqueuses : 3. Épillets longs de 1,8-2,5 mm : 4. Épillets elliptiques à oblongs ; ligule réduite à une rangée de poils ..... P. juncifolium 4. Épillets ovales à orbiculaires ; ligule membraneuse ..... P. nervatum
+2. Lemma and palea of the upper floret verrucose : 3. Spikelets 1.8–2.5 mm long : 4. Spikelets elliptic to oblong ; ligule reduced to a row of hairs ..... P. juncifolium 4. Spikelets oval to orbicular ; ligule membranous ..... P. nervatum
 
-5. Panicule contractée, oblongue, longue de 2-6 cm ; gaines nettement auriculées à bordures glabres ; épillets longs de 1,0-1,3 mm ..... P. littorale
+5. Panicle contracted, oblong, 2–6 cm long ; sheaths distinctly auricled with glabrous margins ; spikelets 1.0–1.3 mm long ..... P. littorale
 
-6. Branches secondaires courtes et apprimées sur les branches primaires ..... P. laxum
+6. Secondary branches short and appressed to primary branches ..... P. laxum
 
-7. Epillets obliques à gibbeux ; limbe foliaire mince, ovale à lancéolé . . . . . P. brevifolium 7. Épillets symétriques :
+7. Spikelets oblique to gibbous ; leaf blade thin, oval to lanceolate . . . . . P. brevifolium 7. Spikelets symmetric :
 
-3. Epillets non béants ; épillets obtus à aigus : 9. Limbe des feuilles linéaire 6-25 cm x 2-6 mm ; glume inférieure d'environ 1/3 longeur de l'épillet ..... P. repens
+3. Spikelets not gaping ; spikelets obtuse to acute : 9. Leaf blade linear 6–25 cm × 2–6 mm ; lower glume approximately 1/3 length of spikelet ..... P. repens
 
-9. Limbe des feuilles lancéolé, 1-7 cm x 4-10 mm ; glume inférieure atteignant la demi-longeur de l'épillet : 10. Épillets pubescents ; panicule longue de 4-7 cm ..... P. mueense 10. Épillets glabres ; panicule longue de 1-3 cm ..... P. parvifolium
+9. Leaf blade lanceolate, 1–7 cm × 4–10 mm ; lower glume reaching half-length of spikelet : 10. Spikelets pubescent ; panicle 4–7 cm long ..... P. mueense 10. Spikelets glabrous ; panicle 1–3 cm long ..... P. parvifolium
 
-8. Épillets béants, ouverts ; glume supérieure et lemma inférieure aiguës à mucronées :
+8. Spikelets gaping, open ; upper glume and lower lemma acute to mucronate :
 
-11. Plantes annuelles ; épilets pileux ..... P. griffonii
+11. Annual plants ; spikelets pilose ..... P. griffonii
 
-11. Plantes pérennes ; épilets glabres :
+11. Perennial plants ; spikelets glabrous :
 
-12. Épillets longs de 1,5-2 mm ; limbe des feuilles sétacé ..... P. congoense
+12. Spikelets 1.5–2 mm long ; leaf blade setaceous ..... P. congoense
 
-12. Épillets longs de 2,3-3,5 mm ; limbe des feuilles rubané ou convoluté :
+12. Spikelets 2.3–3.5 mm long ; leaf blade ribbonlike or convolute :
 
-13. Limbe long de 50-80 cm et large de 6-18 mm ; glume supérieure et lemma inférieure 7-9-nervées ..... phragmitoides
+13. Blade 50–80 cm long and 6–18 mm wide ; upper glume and lower lemma 7–9-nerved ..... phragmitoides
 
-13. Limbe long de 15-40 cm et large de 3-7 mm ; glume supérieure 5-7-nervée et lemma inférieure 5-nervée.
+13. Blade 15–40 cm long and 3–7 mm wide ; upper glume 5–7-nerved and lower lemma 5-nerved.
 
-14. Chaumes jusqu'à 2 mm de diamètre ; plante densément : cespiteuse ; gaines basales à pubescence blanche ..... P. dregeanum
+14. Culms up to 2 mm in diameter ; plant densely tufted ; basal sheaths with white pubescence ..... P. dregeanum
 
-14. Chaumes 3-8 mm de diamètre ; plante non ou légèrement cespiteuse ; gaines basales glabres ..... P. fluviiicola
+14. Culms 3–8 mm in diameter ; plant not or slightly tufted ; basal sheaths glabrous ..... P. fluviiicola
 
 45.1 Panicum brazzavillense Franch.
 
@@ -67,7 +65,7 @@ Poac. CI.: 302, 303; Gram. CB.: 160.
 
 - P. pubiglume Stapf - FWTA : 431.
 
-Alers & Blom (Lopé) 64, 21.06.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. 92, 14.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. Breteler 6313, 04.09.1970, 1°34'S-13°15'E, 8-9 km from Moanda to Franceville; 6795, 06.10.1970, 1°34'S-13°15'E, 8 km road Moanda to Franceville. de Wilde, Arends, Louis, Karper & Bouman 578, 16.02.1983, 3°12'S-11°25'E, SE of Tchi-banga, c. 50 km along the road to Youngou.
+Alers & Blom (Lopé) 64, 21.06.1986, c. 0°07'S-11°37'E, Lopé Reserve. 92, 14.07.1986, c. 0°07'S-11°37'E, Lopé Reserve. Breteler 6313, 04.09.1970, 1°34'S-13°15'E, 8–9 km from Moanda to Franceville; 6795, 06.10.1970, 1°34'S-13°15'E, 8 km road Moanda to Franceville. de Wilde, Arends, Louis, Karper & Bouman 578, 16.02.1983, 3°12'S-11°25'E, SE of Tchi-banga, c. 50 km along the road to Youngou.
 
 45.2 Panicum brevifolium L.
 
@@ -79,9 +77,9 @@ Breteler, Jongkind & Wieringa 11220, 01.05.1992, c. 0°40'S-13°00'E, Bambidie, 
 
 45.3 Panicum congoense Franch.
 
-Fl. Gab.: 69 ; FACB 2 : 197 ; FWTA : 432 ; Gram. Cam. : 198 (seulement dans la clé) ; Poac. CI. : 322, 323 ; Gram. CB. : 153.
+Fl. Gab.: 69 ; FACB 2 : 197 ; FWTA : 432 ; Gram. Cam. : 198 (key only) ; Poac. CI. : 322, 323 ; Gram. CB. : 153.
 
-Alers & Blom (Lopé) 113, 16.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. van Bergen 470, 26.03.1996, Gamba, road Yenzi-terminal, junction with road to airport ; 477, 26.03.1996, 2°47'S-10°01'E, Gamba, terminal area. Dibata 748, 06.02.1991, c. 1°05'S-10°15'E, Ezanga. Louis 4085, (étiquette absent).
+Alers & Blom (Lopé) 113, 16.07.1986, c. 0°07'S-11°37'E, Lopé Reserve. van Bergen 470, 26.03.1996, Gamba, road Yenzi-terminal, junction with road to airport ; 477, 26.03.1996, 2°47'S-10°01'E, Gamba, terminal area. Dibata 748, 06.02.1991, c. 1°05'S-10°15'E, Ezanga. Louis 4085, (label missing).
 
 van Nek 432, 01.12.1990, 2°46'S-10°02'E, Gamba-NW ; 440, 01.12.1990, 2°46'S-10°02'E, Gamba-NW ; 592, 01.02.1991, 1°03'S-10°15'E, Ezanga-S ; 604, 01.02.1991, 1°03'S-10°15'E, savanna near Rigsite, about 10 km S. of Ezanga Lake ; 756, 23.03.1991, 2°44'S-10°01'E, Gamba-NW. de Wilde, Arends, Louis, Karper & Bouman 611, 17.02.1983, c. 3°30'S-10°45'E, South of Mayumba-town, Mayumba peninsular.
 
@@ -91,7 +89,7 @@ de Wilde & Jongkind 9357, 14.03.1988, c. 2°45'S-11°40'E, 25 km SSE of Doussala
 
 Fl. Gab.: 70 ; FACB 2 : 198 ; FWTA : 432 ; FTEA : 478 ; Fl. Zamb. 10(3) : 22, tab. 5 ; Gram. Cam. : 215, Pl. 46 ; Poac. CI. : 320, 321 ; Gram. CB. : 154.
 
-Alers & Blom (Lopé) 136, 24.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. Breteler 6987, 19.10.1970, 1°51'S-12°41'E, road Lekoko-Pana, c. 15 km SSE of Pana.
+Alers & Blom (Lopé) 136, 24.07.1986, c. 0°07'S-11°37'E, Lopé Reserve. Breteler 6987, 19.10.1970, 1°51'S-12°41'E, road Lekoko-Pana, c. 15 km SSE of Pana.
 
 45.5 Panicum fluviiicola Steud.
 
@@ -101,15 +99,15 @@ Fl. Gab.: 71, Pl. 11 ; FACB 2 : 196 ; FWTA : 432 ; FTEA : 478 ; Fl. Zamb. 10(3) 
 
 Fl. Gab.: 71 ; FACB 2 : 199 ; FWTA : 433 ; FTEA : 479 ; Gram. Cam. : 216 ; Poac. CI. : 308, 309 ; Gram. CB. : 152.
 
-Reitsma & Reitsma 1126, 07.06.1985, c. 2°20'S-10°40'E, Chantier CEB, Doussala, near the « case de passage ».
+Reitsma & Reitsma 1126, 07.06.1985, c. 2°20'S-10°40'E, Chantier CEB, Doussala, near the "case de passage".
 
 $ ^{*} $45.7 Panicum juncifolium Stapf
 
 FACB 2:179; Gram. CB.:159.
 
-Dans Flora Zambesiaca 10(3) : 20, cette espèce a été considérée comme conspecifique de P. natalense Hochst., mais cette conception est ici remise en cause car ses épilets sont nettement plus menus.
+In Flora Zambesiaca 10(3) : 20, this species was considered conspecific with P. natalense Hochst., but this conception is questioned here because its spikelets are distinctly smaller.
 
-de Wilde, Arends, Louis & Wieringa 9955, 07.12.1989, 1°37'S-13°57'E, Plateau Batéké, 37 km E. of Franceville as the crow flies.
+de Wilde, Arends, Louis & Wieringa 9955, 07.12.1989, 1°37'S-13°57'E, Batéké Plateau, 37 km E. of Franceville as the crow flies.
 
 $ ^{*} $45.8 Panicum laxum Sw.
 
@@ -119,7 +117,7 @@ Wieringa & Nzabi 2823, 30.09.1994, 2°05'S-9°51'E, near Echira oilfield, bridge
 
 $ ^{*} $45.9 Panicum littorale Sosef
 
-Breteler & van Raalte 5568, 16.09.1968, c. 0°40'S-8°50'E, SE of Port Gentil. Louis 4087, (sans étiquette). van Nek 445, 01.12.1990, 2°45.5'S-10°01.5'E, Gamba ; 738, 22.03.1991, 2°48.7'S-10°02.8'E, ca 5 km S. of Yenzi. de Wilde, Arends, Louis, Bouman & Karper 635, 18.02.1983, 3°30'S-10°45'E, Mayumbapeninsula, about 15 km S. of Mayumba. de Wilde & de Wilde-Bakhuizen 11150, 22.11.1994, 2°52'S-10°08'E, Gamba, 13 km from airport at Gamba, along the road to Mayonami.
+Breteler & van Raalte 5568, 16.09.1968, c. 0°40'S-8°50'E, SE of Port Gentil. Louis 4087, (without label). van Nek 445, 01.12.1990, 2°45.5'S-10°01.5'E, Gamba ; 738, 22.03.1991, 2°48.7'S-10°02.8'E, ca 5 km S. of Yenzi. de Wilde, Arends, Louis, Bouman & Karper 635, 18.02.1983, 3°30'S-10°45'E, Mayumbapeninsula, about 15 km S. of Mayumba. de Wilde & de Wilde-Bakhuizen 11150, 22.11.1994, 2°52'S-10°08'E, Gamba, 13 km from airport at Gamba, along the road to Mayonami.
 
 45.10 Panicum maximum Jacq.
 
@@ -133,9 +131,9 @@ FACB 2 : 221 ; FWTA : 433 ; FTEA : 497 ; Fl. Zamb. 10(3) : 35 ; Gram. Cam. : 220
 
 Breteler & Breteler-Klein Breteler 12541, 06.12.1993, c. 1°00'S-13°10'E, c. 10 km before Sébé River, E. of Lastoursville.
 
-Breteler 6269, 02.09.1970, 1°39'S-13°17'E, 23 km from Moanda, road to Franceville. Wieringa 573, 17.02.1990, 1°29'N-12°48'E, Minkébé region, Nsye valley, 100 km N. Makokou. Wilks 932, 09.05.1983, c. 0°20'S-12°10'E, Forêt des Abeilles 22 km sud du confluent Ogooué-Ivindo.
+Breteler 6269, 02.09.1970, 1°39'S-13°17'E, 23 km from Moanda, road to Franceville. Wieringa 573, 17.02.1990, 1°29'N-12°48'E, Minkébé region, Nsye valley, 100 km N. Makokou. Wilks 932, 09.05.1983, c. 0°20'S-12°10'E, Forêt des Abeilles 22 km south of Ogooué-Ivindo confluence.
 
-45.12 Panicum nervatum (Franch.) Stapf – Pl. 12, 1-3, p. 45
+45.12 Panicum nervatum (Franch.) Stapf – Pl. 12, 1–3, p. 45
 
 Fl. Gab.: 68 ; FACB 2 : 185 ; FTEA : 475 ; Fl. Zamb. 10(3) : 19 ; Gram. Cam. : 201, Pl. 43 ; Poac. CI. : 306, 307 ; Gram. CB. : 161.
 
@@ -153,11 +151,11 @@ de Wilde, Arends, Louis, Karper & Bouman 877, 03.03.1983, 0°34'S-9°35'E, easte
 
 Fl. Gab.: 62 ; FACB 2 : 217, Pl. 38 ; FWTA : 433 ; FTEA : 490 ; Fl. Zamb. 10(3) : 37 ; Gram. Cam. : 220 ; Poac. CI. : 326, 327 ; Gram. CB. : 158.
 
-Alers (Lopé) 35, 06.05.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. Alers & Blom (Lopé) 194, 15.08.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. van Nek 184, 02.11.1990, 1°57'S-9°53'E, Rabi-E. ; 635, 04.02.1991, 1°01'S-10°15'E, Ezanga. Reitsma 3631, 10.02.1991, 1°06'S-10°08'E, Onanga oil-concession area of CONOCO, ca 6 km SE of Lac Ezanga. Reitsma & Reitsma 689, 19.03.1985, 0°29'N-9°24'E, Sablière, ca 3 km NW of Libreville. Wieringa & Haegens 2511, 17.03.1994, 2°48'S-10°04'E, 2 km SE of Gamba airport. de Wilde, Arends, Louis, Karper & Bouman 643, 18.02.1983, Mayumba-peninsular, c. 15 km S. of Mayumba. de Wilde & de Wilde-Bakhuizen 11147, 22.11.1994, 2°52'S-10°08'E, Gamba, 13 km from
+Alers (Lopé) 35, 06.05.1986, c. 0°07'S-11°37'E, Lopé Reserve. Alers & Blom (Lopé) 194, 15.08.1986, c. 0°07'S-11°37'E, Lopé Reserve. van Nek 184, 02.11.1990, 1°57'S-9°53'E, Rabi-E. ; 635, 04.02.1991, 1°01'S-10°15'E, Ezanga. Reitsma 3631, 10.02.1991, 1°06'S-10°08'E, Onanga oil-concession area of CONOCO, ca 6 km SE of Lac Ezanga. Reitsma & Reitsma 689, 19.03.1985, 0°29'N-9°24'E, Sablière, ca 3 km NW of Libreville. Wieringa & Haegens 2511, 17.03.1994, 2°48'S-10°04'E, 2 km SE of Gamba airport. de Wilde, Arends, Louis, Karper & Bouman 643, 18.02.1983, Mayumba-peninsular, c. 15 km S. of Mayumba. de Wilde & de Wilde-Bakhuizen 11147, 22.11.1994, 2°52'S-10°08'E, Gamba, 13 km from
 
 de Wilde & de Wilde-Bakhuizen 11147, 22.11.1994, 2°52'S-10°08'E, Gamba, 13 km from airport at Gamba, along the road to Mayonami.
 
-45.14 Panicum phragmitoides Stapf – Pl. 12, p. 45, 4-5
+45.14 Panicum phragmitoides Stapf – Pl. 12, p. 45, 4–5
 
 Fl. Gab.: 68 ; FACB 2 : 192, Pl. 34 ; FWTA : 432 ; FTEA : 477 ; Fl. Zamb. 10(3) : 24 ; Gram. Cam. : 213, Pl. 46 ; Poac. CI. : 316, 317 ; Gram. CB. : 156.
 
@@ -169,23 +167,23 @@ Reitsma, Reitsma & Louis 1890, 05.02.1986, 0°51'N-10°56'E, ca 24 km SE of Medo
 
 46. Paspalum L.
 
-1. Glume supérieure ciliée sur les bords ; racèmes 2, digités ..... conjugatum
+1. Upper glume ciliate on margins ; racemes 2, digitate ..... conjugatum
 
-1. Glume supérieure glabre ou pubescente, mais non ciliée ; racèmes 1-plusieurs :
+1. Upper glume glabrous or pubescent, but not ciliate ; racemes 1–several :
 
-2. Rachis large de 0,3-0,7 mm ; épillets longs de 1,3-1,4 mm, hirsutes ..... P. paniculatum
+2. Rachis 0.3–0.7 mm wide ; spikelets 1.3–1.4 mm long, hirsute ..... P. paniculatum
 
-2. Rachis dépassant une largeur de 0,8 mm ; épilets longs de 1,9 mm ou plus, glabres :
+2. Rachis exceeding 0.8 mm in width ; spikelets 1.9 mm or longer, glabrous :
 
-3. Épillets par paires sur le rachis, au moins au milieu ..... P. virgatum
+3. Spikelets in pairs on the rachis, at least in the middle ..... P. virgatum
 
-3. Épilets solitaires : 4. Fleur supérieure pâle ; épilets ovés-elliptiques ..... P. vaginatum 4. Fleur supérieure foncée ; épilets ovales à orbiculaires : 5. Limbe foliaire lancéolé, 7-21 cm x 8-27 mm (L/l < 10) ; lemma inférieure souvent sclerifiée ..... P. lamprocaryon 5. Limbe foliaire linéaire, 10-25 cm x 4-10 mm (L/l > 13) ; lemma inférieure non sclerifiée ..... P. scrobiculatum
+3. Spikelets solitary : 4. Upper floret pale ; spikelets ovate-elliptic ..... P. vaginatum 4. Upper floret dark ; spikelets oval to orbicular : 5. Leaf blade lanceolate, 7–21 cm × 8–27 mm (L/w < 10) ; lower lemma often sclerified ..... P. lamprocaryon 5. Leaf blade linear, 10–25 cm × 4–10 mm (L/w > 13) ; lower lemma not sclerified ..... P. scrobiculatum
 
-46.1 Paspalum conjugatum Berg – Pl. 13, 1-4, p. 47
+46.1 Paspalum conjugatum Berg – Pl. 13, 1–4, p. 47
 
 Fl. Gab.: 39; FACB 2: 124; FWTA: 445; FTEA: 607; Fl. Zamb. 10(3): 88; Gram. Cam.: 279, Pl. 60; Poac. CI.: 404, 405; Gram. CB.: 192.
 
-Alers & Blom (Lopé) 116, 18.07.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. Breteler, Jongkind, Wieringa & Moussavou 9806, 05.04.1990, c. 1°55'S-9°50'E, Rabi. van Nek 207, 05.11.1990, 1°57'S-9°53'E, Rabi-E. Reitsma & Reitsma 788, 16.04.1985, 0°31'N-9°22'E, near Sabière, ca. 4 km N. of Libreville. de Wilde, Arends, Louis, Karper & Bouman 360, 04.02.1983, 1°39'S-11°46'E, Massive of Chaillu, Missionary Station at Mouyanama, ± 15 km on the road Mimongo-Mbigou.
+Alers & Blom (Lopé) 116, 18.07.1986, c. 0°07'S-11°37'E, Lopé Reserve. Breteler, Jongkind, Wieringa & Moussavou 9806, 05.04.1990, c. 1°55'S-9°50'E, Rabi. van Nek 207, 05.11.1990, 1°57'S-9°53'E, Rabi-E. Reitsma & Reitsma 788, 16.04.1985, 0°31'N-9°22'E, near Sabière, ca. 4 km N. of Libreville. de Wilde, Arends, Louis, Karper & Bouman 360, 04.02.1983, 1°39'S-11°46'E, Massive of Chaillu, Missionary Station at Mouyanama, ± 15 km on the road Mimongo-Mbigou.
 
 $ ^{*} $46.2 Paspalum lamprocaryon K. Schum.
 

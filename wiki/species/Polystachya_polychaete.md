@@ -17,41 +17,35 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 8-10 × 1 cm, étroitement coniques. Feuilles (6-) 12-18 (-30) × 0,8-2,2 cm, ligulées. Inflorescence 10-26 cm, jusqu'à 60-flore. Fleurs jaunes, jaune-vert ou crème. Sépale dorsal acuminé, glabre. Pétales oblongs. Sépales latéraux obliquement triangulaires, acuminés. Labelle brièvement onguiculé, trilobé sous le milieu, callus épais, presque basal ; lobe médian subcarré à oblong, tronqué au sommet, apiculé ; lobes latéraux triangulaires, aigus, largement divergents. Éperon sacciforme-conique. - Pl. 129, p. 295.
+Pseudobulbs 8–10 × 1 cm, narrowly conical. Leaves (6–) 12–18 (–30) × 0.8–2.2 cm, ligulate. Inflorescence 10–26 cm, up to 60-flowered. Flowers yellow, yellowish-green or cream. Dorsal sepal acuminate, glabrous. Petals oblong. Lateral sepals obliquely triangular, acuminate. Labellum shortly clawed, trilobed below the middle, callus thick, nearly basal; median lobe subquadrate to oblong, truncate at apex, apiculate; lateral lobes triangular, acute, widely divergent. Spur sacciform-conical. – Pl. 129, p. 295.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Equatorial Guinea, Congo, Zaire, Rwanda, Uganda, Kenya, Tanzania
 
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Guinée équatoriale, Congo, Zaire, Rwanda, Ouganda, Kenya, Tanzania
-
-* Nature et lieu de dépôt signalés différemment par erreur dans FCAM.
+* Nature and place of deposit indicated differently in error in FCAM.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 400–2,200 m. Epiphyte in dense humid forest, swampy formation, sclerophyllous scrub, open forest on top of sandstone inselberg, observed on Uapaca, Cynometra laurentii
 
-alt. 400-2 200 m. Épiphyte en forêt dense humide, formation marécageuse, maquis sclérophylle, forêt claire sur sommet d'inselberg gréseux, observé sur Uapaca, Cynometra laurentii
+MATERIAL EXAMINED (Map 60):
 
-MATÉRIEL ÉTUDIÉ (Carte 60) :
+Breteler & De Wilde 216, approximately 5 km along the Asok road to the hydroelectric station on the Tchimbélé River (fl. August), BR!, WAG!.
 
-Breteler & De Wilde 216, environ 5 km le long de la route d’Asok à la station hydroélectrique sur la Riv. Tchimbélé (fl. Août), BR!, WAG!.
+Breteler, Lemmens & Nzabi 8161, between Mouila and Yéno, approximately 40 km along the Mouila road, alt. ± 400 m, ± 1° 45' S, 11° 21' E, secondary forest, epiphyte (fl. September), WAG!
 
-Breteler, Lemmens & Nzabi 8161, entre Mouila et Yéno, environ 40 km sur la route de Mouila, alt. ± 400 m, ± 1° 45' S, 11° 21' E, forêt secondaire, épiphyte (fl. Sept.), WAG!
+De Wilde 216, approximately 5 km along the Asok road to the hydroelectric station on the Tchimbélé River, alt. ± 750 m, epiphyte growing on mossy dead trunk (fl. August), WAG!.
 
-De Wilde 216, environ 5 km le long de la route d’Asok à la station hydroélectrique sur la Riv. Tchimbélé, alt. ± 750 m, épiphyte poussant sur tronc mort moussu (fl. Août), WAG!.
+Hallé 3830, Bélinga, Iron mines (fl. June), P!.
 
-Hallé 3830, Bélinga, Mines de fer (fl. Juin), P!.
+Hallé & Cours 6060, Moumba, west side (fl. May), P!.
 
-Hallé & Cours 6060, Moumba, côté O (fl. Mai), P!.
+Hallé & Villiers 5284, Monts de Cristal, Kinguélé falls (fl. February), P!; 5425, Monts de Cristal, Balakabo River (fl. February), P!.
 
-Hallé & Villiers 5284, Monts de Cristal, chutes de Kinguélé (fl. Févr.), P! ; 5425, Monts de Cristal, Riv. Balakabo (fl. Févr.), P!.
+Le Testu 5279, Mouyamba (fl. April), P!.
 
-Le Testu 5279, Mouyamba (fl. Avr.), P!.
-
-J. M. & B. Reitsma, Breteler & Louis 1006, Chantier CEB, 65 km SSO de Doussala, forêt dense humide primaire, 2° 36' S, 10° 35' E (fr. Mai), WAG!.
+J. M. & B. Reitsma, Breteler & Louis 1006, CEB site, 65 km SSW of Doussala, primary dense humid forest, 2° 36' S, 10° 35' E (fr. May), WAG!.
 
 ## Figures
 

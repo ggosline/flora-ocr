@@ -20,7 +20,7 @@ in De Kerchove de Denterghem, Palmiers : 244 (1878). Cespitose liana; stem cylin
 
 ## Distribution
 
-Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, present in the Estuary, the Ngounié and in the north of Woleu-Ntem. Conservation status: Least Concern (LC)
+Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, present in the Estuaire, the Ngounié and in the north of Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 

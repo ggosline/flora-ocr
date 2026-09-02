@@ -18,21 +18,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arkiv. Bot. 26(7) : 46 (1934). Arbuste sarmenteux, jusqu’à 3,5 m de hauteur ; rameaux presque glabres à tomenteux ; aiguillons robustes, jusqu’à 5(–6) mm de longueur, recourbés . Feuille : stipules li néaires ; limbe penné, avec 5–7(–9) folioles , les supérieurs souvent trifoliolés ; pétiolules latéraux 5–10 mm, le terminal 5-20 mm ; folioles ovales à elliptiques, 1,5–6 × 3–10 cm, base obtuse à subcordée, sommet aigu à acuminé, marge doublement serrée ; folioles pubescentes dans le sillon des nervures dessus et glabres à éparsement pileuses entre les nervures , dessous glabre, verdâtre avec nervures pubescentes ; nervures latérales 10–15 paires. Inflorescence pyramidale, ouverte , atteignant 35(–50) × 20(–30) cm, to menteuse. Fleur : pédicelle 5–15 mm ; sépales lancéolés à ovés, 4–8 mm de longueur, tomenteux, sommet acuminé et apiculé ; pétales réduits ou parfois absents , obspathu lés, ± 4 × 2,5 mm, roses ou blancs ; carpelles 10–35, glabres à tomenteux, groupés sur un réceptacle conique ; style rouge violacé. Fruit sphérique, 6–10 mm de diamètre, d’abord jaune, puis rouge à maturité ; drupéoles se détachant en laissant le réceptacle nu.
+Arkiv. Bot. 26(7): 46 (1934). Sarmentose shrub, up to 3.5 m tall; branches almost glabrous to tomentose; prickles robust, up to 5(–6) mm long, recurved. Leaf: stipules linear; blade pinnate, with 5–7(–9) leaflets, the upper ones often trifoliolate; lateral petiolules 5–10 mm, the terminal 5–20 mm; leaflets oval to elliptic, 1.5–6 × 3–10 cm, base obtuse to subcordate, apex acute to acuminate, margin doubly serrate; leaflets pubescent in the nerve grooves above and glabrous to sparsely pilose between the nerves, below glabrous, greenish with pubescent nerves; lateral veins 10–15 pairs. Inflorescence pyramidal, open, reaching 35(–50) × 20(–30) cm, tomentose. Flower: pedicel 5–15 mm; sepals lanceolate to ovate, 4–8 mm long, tomentose, apex acuminate and apiculate; petals reduced or sometimes absent, obspathulate, ± 4 × 2.5 mm, pink or white; carpels 10–35, glabrous to tomentose, clustered on a conical receptacle; style reddish-violet. Fruit spherical, 6–10 mm in diameter, at first yellow, then red at maturity; druplets detaching and leaving the receptacle bare.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue de presque tous les pays de l’Afrique tropicale, Sao Tomé et An nobon inclus, mais absent du Togo et du Bénin ; au Gabon, assez rare dans le Massif du Chaillu et à Belinga
+known from almost all countries of tropical Africa, São Tomé and Annobon included, but absent from Togo and Benin; in Gabon, fairly rare in the Chaillu Massif and at Belinga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en stations secondarisées, lisières de forêt, sur pentes, crêtes et inselbergs et en bordure des cours d’eau et des routes ; au Gabon surtout entre 800 et 1000 m, une seule récolte à 300 m, en dehors du Gabon jusqu’à 3000 m d’altitude
+in secondarized stations, forest margins, on slopes, ridges and inselbergs and along watercourses and roads; in Gabon chiefly between 800 and 1000 m, a single collection at 300 m, outside of Gabon up to 3000 m altitude
 
 ## Vernacular names
 
@@ -40,29 +34,23 @@ South African blackberry (Angl.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, Hauman (1952), Letouzey (1978), Mendes & Kupicha ibliographie (1978).
+Hauman (1952), Letouzey (1978), Mendes & Kupicha (1978).
 
 ## Also treated in vol 41
 
 **Pages**: 58-61 · **Source**: `sources/Rosaceae_vol41_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-R. ledermannii (Engl.) Engl., Pflanzenw. Afr. 3(1) : 294 (1915). Comme la variété précédente, mais limbe dessous couvert d’un tomentum blanc-grisâtre.
+R. ledermannii (Engl.) Engl., Pflanzenw. Afr. 3(1): 294 (1915). Like the preceding variety, but blade below covered with whitish-greyish tomentum.
 
 ### Distribution
 
-Cameroun, sud-est de la République Démocratique du Congo ; au Gabon connue d’un seul échantillon au sud d’Oyem (Woleu-Ntem). La présence de cette variété ailleurs (surtout en Afrique de l’Ouest) n’est pas certaine à cause des confusions taxono miques
+Cameroon, southeastern Democratic Republic of the Congo; in Gabon known from a single specimen south of Oyem (Woleu-Ntem). The presence of this variety elsewhere (especially in West Africa) is uncertain because of taxonomic confusion
 
 ### Ecology
 
-comme la variété précédente ; au Gabon vers 700 m, ailleurs jusqu’à 2000 m d’altitude. Note taxonomique : Dans la littérature, cette variété a été régulièrement confondue avec d’autres espèces, notamment avec Rubus fellatae A.Chev. et Rubus apetalus Poir. b : Hauman (1952), Letouzey (1978). ibliographie
+like the preceding variety; in Gabon around 700 m, elsewhere up to 2000 m altitude. Taxonomic note: In the literature, this variety has been regularly confused with other species, notably with Rubus fellatae A.Chev. and Rubus apetalus Poir. Bibliography: Hauman (1952), Letouzey (1978).
 
-Feuille dessous (× 2). – 4. Feuille dessus (× 2). – Rubus pinnatus var. ledermannii : 5. Feuille des sous (× 2). – 6. Feuille dessus (× 2). Dessin par Hélène Lamourdedieu, reproduit avec permission, © Publications Scientifiques du Muséum national d’Histoire naturelle, Paris, à partir de Letouzey (1978).
-
-3 3
+Leaf below (× 2). – 4. Leaf above (× 2). – Rubus pinnatus var. ledermannii: 5. Leaf below (× 2). – 6. Leaf above (× 2). Drawing by Hélène Lamourdedieu, reproduced with permission, © Scientific Publications of the National Museum of Natural History, Paris, from Letouzey (1978).
 
 ## Notes
 

@@ -25,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Up to 60 cm tall, in small tufts with long stolons. Culms erect with 5–7 nodes, glabrous. Leaf sheaths compressed, keeled and flabellate at the base, glabrous except on the margins and at the junction with the blade. Ligule membranous; blades linear to linear-lanceolate, acuminate at the apex up to 15 cm long and more, scabrous on the margins, otherwise generally glabrous.
 
-Jusqu'à 60 cm de haut, en petites touffes et avec de longs stolons. Chaumes dressés à 5-7 nœuds, glabres. Gaines foliaires compressées, carénées et flabellées à la base, glabres sauf sur les marges et à la jonction avec le limbe. Ligule membraneuse, limbes linéaires à linéaires-lancéolés, acuminés au sommet jusqu'à 15 cm de long et plus, scabres sur les bords, autrement généralement glabres.
+Racemes most often geminate, rachis approximately 3/4 mm wide, longitudinally channeled on the dorsal surface and bearing a prominent lamella on the ventral face. Spikelets in two series, obtuse to shortly apiculate. Lower glume with a thick green marginal nerve on each side, ciliate with white. Lower lemma similar, nerves less pronounced. Upper glumelles with 3 nerves.
 
-Racèmes le plus souvent géminés, rachis environ 3/4 de mm de large, longitudinalement canaliculé sur le dos et portant une lamelle en saillie sur la face ventrale. Epillets en deux séries, obtus à courtement apiculés. Glume inférieure avec de chaque côté une nervure marginale verte épaisse, ciliée de blanc. Lemma inférieure semblable, nervures moins marquées. Glumelles supérieures à 3 nervures.
-
-Espèce connue de l'Afrique, de l'Amérique tropicale, de l'Indo-Malaisie et de la Polynésie. Fourrage d'assez bonne qualité.
+Species known from Africa, tropical America, Indo-Malesia and Polynesia. Forage of fairly good quality.
 
 ## Vernacular names
 

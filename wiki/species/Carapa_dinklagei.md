@@ -21,7 +21,7 @@ Notizbl. Bot. Gart. Berlin 65(7) : 226 (1917). Small branched tree 5–20(–25)
 
 ## Distribution
 
-Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, uncommon, known only from the Estuary
+Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, uncommon, known only from the Estuaire
 
 ## Ecology
 

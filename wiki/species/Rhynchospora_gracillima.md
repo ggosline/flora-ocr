@@ -18,27 +18,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ope b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Raynal (1971).
 
 ## Also treated in vol 44
 
 **Pages**: 195-196 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle , grêle ou plus rarement vivace avec des tiges serrées sur un rhizome court ; tige 5–40 cm (inflorescence comprise) × 0,8–1,2 mm sous le premier rameau de l’inflorescence, arrondie ou anguleuse. Feuille : gaine très fine et translucide sur le côté opposé au limbe ; ligule très réduite ; limbe 5–25 cm × 0,5–1 mm, plan ou enroulé, à marge scabre. Inflorescence avec des rameaux florifères sur presque toute la longueur de la tige , ceux près du sommet fleurissant en premier ; bractées foliacées sous-tendant les principaux rameaux, l’inférieure longue de 20 cm au plus ; rameau de l’inflorescence de 2–8 cm, portant 1–5(–10) épillets pédonculés, l’épillet terminal de chaque rameau est dépassé par les 1(–3) épillets des rameaux latéraux ; pédoncules filiformes, 1–20 × 0,1– 0,2 mm. Épillet 4–7 × 0,7–1,5 mm, aigu, brun pâle ; glumes brun pâle avec la nervure médiane se terminant à l’apex ou le dépassant légèrement, les 2–3 inférieures courtes (1,5–2,5 mm) et stériles, les 3–4 suivantes plus longues (3–3,5 mm) et fertiles, mais habituellement seulement 1–2 fructifères. Fleur : périanthe absent ; étamines 2 ; style à 2 longues branches, à base persistant sur l’akène en une fine coiffe conique haute de 0,1–0,2 mm. Akène 1,3–1,6 (coiffe comprise) × 1–1,3 mm, presque carré, blanchâtre, ridé transversalement ; pédicelle 0,2–0,3 mm, persistant, brun rougeâtre.
+Annual herb, slender or more rarely perennial with stems clustered on a short rhizome; stem 5–40 cm (inflorescence included) × 0.8–1.2 mm below the first branch of the inflorescence, rounded or angular. Leaf: sheath very fine and translucent on the side opposite the blade; ligule very reduced; blade 5–25 cm × 0.5–1 mm, flat or rolled, with scabrous margin. Inflorescence with flowering branches along almost the entire length of the stem, those near the apex flowering first; foliaceous bracts subtending the principal branches, the lower one up to 20 cm long; inflorescence branch 2–8 cm, bearing 1–5(–10) pedunculate spikelets, the terminal spikelet of each branch exceeded by the 1(–3) spikelets of the lateral branches; pedicels filiform, 1–20 × 0.1–0.2 mm. Spikelet 4–7 × 0.7–1.5 mm, acute, pale brown; glumes pale brown with the midvein terminating at the apex or slightly exceeding it, the 2–3 lower ones short (1.5–2.5 mm) and sterile, the following 3–4 longer (3–3.5 mm) and fertile, but usually only 1–2 fruit-bearing. Flower: perianth absent; stamens 2; style with 2 long branches, persisting at the base on the achene as a fine conical cap 0.1–0.2 mm tall. Achene 1.3–1.6 (cap included) × 1–1.3 mm, nearly square, whitish, transversely wrinkled; pedicel 0.2–0.3 mm, persistent, reddish brown.
 
 ### Distribution
 
-très répandue en Afrique tropicale et à Madagascar ; rare ou méconnue au Gabon, trouvée seulement dans l’Ogooué-Ivindo et l’Ogooué-Maritime (3 récoltes)
+very widespread in tropical Africa and Madagascar; rare or poorly known in Gabon, found only in Ogooué-Ivindo and Ogooué-Maritime (3 collections)
 
-Plante. – B. Base du limbe et orifice de la gaine. – C. B. Sommet du limbe. – C. Inflorescence. – D, E. Sommet du limbe. – D, E. Épillet. – F. Fleur. – G. Épillet. – F. Épillet sans la 3 écaille. – G. Épillet ème Anthère. – H. Fruit avec segments du périanthe et avec 3 écailles enlevées. – H. Fleur. – I. Fruit. 3 filets. Dessin original par Richard W. Haines ©. Dessin original par Richard W. Haines ©.
+Plant. – B. Base of blade and opening of sheath. – C. B. Apex of blade. – C. Inflorescence. – D, E. Apex of blade. – D, E. Spikelet. – F. Flower. – G. Spikelet. – F. Spikelet without the 3rd scale. – G. Spikelet with 3rd scales removed. – H. Anther. – H. Fruit with perianth segments and with 3 scales removed. – H. Flower. – I. Fruit with filaments. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
 ### Ecology
 
-prairies saisonnièrement humides et bordure des marais, particulièrement sur les bords des dépressions humides, résiste aux incendies saisonniers ; au Gabon, à 0–100 m d’altitude, jusqu’à 1500 m en Afrique de l’Est. Note taxonomique : se reconnaît à son port grêle, ses épillets distinctement pédonculés et ses akènes blanchâtres, presque carrés. Elle ne ressemble à aucune autre espèce du Gabon. La subsp. gracillima se trouve en Asie, de Ceylan à la Nouvelle-Guinée. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Raynal (1971), Robinson (1961a)
+seasonally humid grasslands and marsh edge, particularly on the margins of humid depressions, resistant to seasonal fires; in Gabon, at 0–100 m altitude, up to 1500 m in East Africa. Taxonomic note: recognized by its slender habit, distinctly pedunculate spikelets, and whitish, nearly square achenes. It resembles no other species in Gabon. The subsp. gracillima is found in Asia, from Ceylon to New Guinea. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997), Raynal (1971), Robinson (1961a)
 
 ## Notes
 

@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with glabrous branches, branchlets puberulent, reddish-brown. Internodes 1.5–3.5 cm long. Leaves with petiole 5–12 mm long, tomentellous-puberulent; blade membranous to papyraceous, elliptic-oblong to obovate-oblong, 9–20.5 cm long, 3–7.5 cm wide, with base attenuate-subrounded or broadly rounded, apex obtuse-attenuate or shortly acuminate; upper surface glabrous, with midvein ± puberulent toward the base; lower surface tomentellous-puberulent especially on the nerves. Lateral nerves 11–19 pairs, prominent on the lower surface, ascending and terminating parallel to the margin; tertiary nerves fine and parallel to each other.
 
-Liane ä rameaux glabres,ramilles pubérulentes,brun roux. Entreneuds longs de 1,5-3,5 cm. Feuilles a pétiole long de 5-12 mm, tomentelleux-pubérulent; limbe membraneux a papyracé,elliptique-oblong a obové-oblong,long de 9-2o,5 cm,large de 3-7,5 cm, ä base atténuée-subarrondie ou largement arrondie,sommet obtusatténué ou courtement acuminé;face supérieure glabre,á nervure médiane ± pubérulenle vers la base, face inférieure tomentelleusepubérulente surtout sur les nervures. Nervures latérales II-19 paires,proéminentes â la face inférieure,ascendantes et se terminant parallelement ä la marge;nervures tertiaires,fines et paralleles entre elles.
+Inflorescences axillary, arising on leafy branches in robust few-flowered cymes; peduncle short, ca. 0.5 cm long. Floral buds subtrigonous, 3 mm long, 4 mm wide. Flowers with pedicel 0.7–1.2 cm long, puberulent; bracts ovate, ca. 1 mm long, puberulent. Sepals triangular-ovate, 2 mm long, 1.5 mm wide, puberulent on both faces. Petals puberulent internally and externally; outer ones thick, broadly triangular-ovate, 3–4 mm long, 4–4.5 mm wide, concave at the base; inner ones small, thick, ellipsoid-obovate, 1.5–2 mm long, 1 mm wide, curving back over the stamens. Stamens numerous, 21–22, oblong, 1 mm long, 0.7 mm wide, thecae extrorse, oblong, filaments very short, connectives enlarged and truncate above the anthers, puberulent. Receptacle convex, hirsute at the center.
 
-Inflorescences  axillaires, naissant sur les rameaux feuilles en cymes robustes pauciflores; pédoncule court, long de o,5 cm environ. Boutons floraux subtrigones, longs de 3 mm, larges de 4 mm.Fleurs ä pédicelle long de o,7-1,2 cm,pubérulent;bractées ovées,longues de I mm environ,pubérulentes.Sépales triangulaires-ovés,longs de 2 mm, larges de 1,5 mm,pubérulents sur les deux faces.Pétales pubérulents intérieurement et extérieurement; les externes épais,largement triangulaires-ovés, longs de 3-4 mm, larges de 4-4,5 mm,concaves a la base; les internes petits, épais, ellipsoides-obovés,longs de 1,5-2 mm,larges de I mm,se recourbant sur les étamines. Etamines nombreuses, 21-22, oblongues, longues de I mm, larges de o,7 mm, theques extrorses, oblongues, filets tres courts,connectifs élargis et tronques au-dessus des antheres,pubérulents.Réceptacle convexe,hirsute au centre.
+Female inflorescences cauline, or arising on branches of several years, in fascicles of pluriflorous, ± compound racemes, 7–15 cm wide, tomentellous-puberulent. Bracts ovate, 1.5 mm long, 1 mm wide, tomentellous. Flowers with pedicel 0.8–5 cm long, puberulent. Sepals triangular-ovate, 1.6–2 mm long, 1.2–1.5 mm wide, puberulent externally, glabrous internally. Petals puberulent on both faces; outer ones broadly triangular-ovate, 5.5–6 mm long, 4.5–5 mm wide, very thick, concave; inner ones small, broadly obovate, concave, 1.7–2 mm long, 0.7–0.9 mm wide. Carpels numerous, 50–60, 1.2–1.5 mm long, 0.5 mm wide, ovaries ovoid, pubescent, styles oblong. Ovules 6–7, lateral.
 
-Inflorescences Ω caulinaires,ou prenant naissance sur des rameaux de plusieurs années,en fascicules de racemes pluriflores, ± composés,de 7-15 cm de largeur, tomentelleux-pubérulents. Bractées ovées,longues de 1,5 mm,larges de I mm,tomentelleuses. Fleurs ä pédicelle long de o,8-5 cm,pubérulent.Sépales triangulaires-ovés,long de 1,6-2 mm,larges de 1,2-1,5 mm,pubérulents a l'extérieur,glabres â l'intérieur.Pétales pubérulents sur les deux faces; les externes largement triangulaires-oves, longs de 5,5- 6 mm, larges de 4,5-5 mm,tres épais,concaves;les internes petits,largement oboves,convaves,longs de 1,7-2 mm,larges de 0,7-0,9 mm. Carpelles nombreux, 5o-6o, longs de 1,2-1,5 mm,
-
-larges de o,5 mm,ovaires ovoides, pubescents, styles oblongs. Ovules 6-7, latéraux.
-
-Infrutescences en arbuscules; fruits á pédicelle long de 1,5- 2 cm;méricarpes stipités,moniliformes,composés de 1-3 articles ellipsoides,longs de 1-1,3 cm,larges de o,6-o,8 cm, pubérulents; stipes longs de o,5-o,8 cm, pubérulents. Graines elipsoides,longues de 1-1,2 cm, larges de o,6-o,7 cm, testa minec.
+Infructescences in small shrubs; fruits with pedicel 1.5–2 cm long; mericarps stipitate, moniliform, composed of 1–3 ellipsoid articles, 1–1.3 cm long, 0.6–0.8 cm wide, puberulent; stipes 0.5–0.8 cm long, puberulent. Seeds ellipsoid, 1–1.2 cm long, 0.6–0.7 cm wide, testa thin.
 
 ## Type
 
@@ -40,9 +36,7 @@ Thomson, Old Calabar, Nigeria, fl. ♀ (holotype K!; isotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grande liane du dome forestier,en foret dense humide et dans les associations rivulaires. Répandue de la Nigeria du Sud au Congo-Kinshasa vers le Sud.
+Large liane of the forest canopy, in dense humid forest and in riparian associations. Widespread from southern Nigeria to Congo-Kinshasa toward the south.
 
 ## Specimens examined
 

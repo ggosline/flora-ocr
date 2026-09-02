@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace , avec 1(–3) tiges à intervalles de 2–10 cm le long de solides stolons rampants épais de 1,5–2,5 mm ; tige 25–100 cm × 1,5–2,5 mm, arrondie ou trigone sous l’inflorescence, généralement glabre, base renflée et recouverte d’écailles rigides et de vieilles gaines foliaires. Feuilles réparties le long de la tige ; gaine verdâtre ; limbe 5–30 cm × 1–5 mm, plan ou en forme de V, rigide, à marge scabre, avec des poils hyalins épars sur les deux faces. Inflorescence terminale, en corymbe solitaire formé de 3–12 épillets blancs , avec ou sans rameaux secondaires ; bractée involucrale principale foliacée, longue de 1–5 cm. Épillets sur des pédoncules de 1–25 mm, lancéolés, 8–10 × 2–5 mm, blanchâtres ; les 6–8 glumes inférieures stériles, longues de 2–4 mm, de longueur croissante, les 30–50 supérieures fertiles, étroitement imbriquées, ovales et concaves, longues de 4–6 mm, blanchâtres, avec la nervure centrale se terminant en une pointe fine. Fleur : périanthe absent ; étamines 3 ; style à 2 branches. Akène de 1,5–2,3 (coiffe comprise, pédicelle non compris) × 1,2–2 mm, brun grisâtre luisant, avec des ondulations transversales ; partie persistante du pédicelle longue de 0,5–0,6 mm, conique, aplatie ; grande coiffe spongieuse blanchâtre, couvrant les « épaules » de l’akène.
+Perennial herb, with 1(–3) stems at intervals of 2–10 cm along solid creeping stolons 1.5–2.5 mm thick; stem 25–100 cm × 1.5–2.5 mm, rounded or trigonous below the inflorescence, generally glabrous, base swollen and covered with rigid scales and old leaf sheaths. Leaves distributed along the stem; sheath greenish; blade 5–30 cm × 1–5 mm, flat or V-shaped, rigid, with scabrous margin, with scattered hyaline hairs on both surfaces. Inflorescence terminal, in a solitary corymb formed of 3–12 white spikelets, with or without secondary branches; main involucral bract foliaceous, 1–5 cm long. Spikelets on peduncles 1–25 mm, lanceolate, 8–10 × 2–5 mm, whitish; the 6–8 lower sterile glumes, 2–4 mm long, of increasing length, the 30–50 upper fertile ones, tightly imbricate, oval and concave, 4–6 mm long, whitish, with the central nerve terminating in a fine point. Flower: perianth absent; stamens 3; style with 2 branches. Achene 1.5–2.3 (including cap, excluding pedicel) × 1.2–2 mm, shiny greyish-brown, with transverse undulations; persistent part of the pedicel 0.5–0.6 mm long, conical, flattened; large spongy whitish cap, covering the "shoulders" of the achene.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue en Afrique tropicale, présente également à Madagascar et en Amérique ; au Gabon répandue et localement commune, trouvée dans l’Estuaire, le Haut-Ogooué, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo et l’OgoouéMaritime (28 récoltes)
+very widespread in tropical Africa, also present in Madagascar and America; in Gabon widespread and locally common, found in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime (28 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-prairies saisonnièrement ou toujours humides et en bordure des marécages ou dans des zones temporairement inondées ; au Gabon, à 0–600 m d’altitude, jusqu’à 1200 m en Afrique de l’Est. Note taxonomique : se reconnaît immédiatement par ses grands épillets ovales blanchâtres. b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Raynal (1971), Robinson (1961)
+seasonally or permanently humid grasslands and on the edges of swamps or in temporarily flooded areas; in Gabon, at 0–600 m altitude, up to 1200 m in East Africa. Taxonomic note: recognized immediately by its large oval whitish spikelets. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Raynal (1971), Robinson (1961)
 
 ## Notes
 

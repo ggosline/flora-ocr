@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Apodytes beninensis (Hook. F. ex PLANCH.) PLANCH. ex BENTH. var. β OLIV., FTA 1 : 356 (1868).
 
 ## Notes

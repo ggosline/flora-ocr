@@ -23,7 +23,7 @@ long. Flower: pedicel ± filiform, 7–11 mm; sepals: the two outer ones ± circ
 
 ## Distribution
 
-Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ogooué-Lolo and Middle Ogooué
+Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ogooué-Lolo and Moyen-Ogooué
 
 ## Ecology
 

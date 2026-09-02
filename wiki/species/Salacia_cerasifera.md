@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – S. elliotii Loes., Bot. Jahrb. 44: 168 (1910); Hutch. & Moss, FWTA 1: 452 (1928).
 
 ## Type
@@ -31,23 +29,21 @@ Lebrun 1259, Zaïre (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Bouton floral ové ± large ..... 21a. var. cerasifera. 1'. Bouton floral nettement étroit ..... 21b. var. wendjiensis.
+1. Floral bud ovate ± large ..... 21a. var. cerasifera. 1'. Floral bud distinctly narrow ..... 21b. var. wendjiensis.
 
 21a. var. cerasifera
 
-Liane dépassant 10-20 m de hauteur et 60 m de longueur, dépourvue de caoutchouc. Tronc dépassant 10 cm de diamètre, à coupe lobée, surtout vers la base ; bois marqué de lacunes orbiculaires concentriques continues et espacées entre elles de 3-8 mm. Écorce avec une fine couche orange proche de la surface. Jeunes rameaux ± marqués de fines arêtes.
+Liane exceeding 10–20 m in height and 60 m in length, devoid of rubber. Trunk exceeding 10 cm in diameter, with lobed cross-section, especially towards the base; wood marked by continuous concentric orbicular lacunae spaced 3–8 mm apart. Bark with a fine orange layer near the surface. Young branches ± marked with fine ridges.
 
-Stipules très réduites. Pétiole de 5-10 mm à marges du canal droites. Limbe chartacé à subcoriace, faiblement discolore, souvent olivacé à sec et un peu luisant dessus, elliptique de 6-15 × 2,5-5,5 cm, à base aiguë, à sommet atténué acuminé ; marge dentée, denticulée ou entière. Nervure médiane saillante dessus ; 7-9 paires de nervures secondaires.
+Stipules very reduced. Petiole 5–10 mm with straight channel margins. Blade chartaceous to subcoriaceous, weakly discolorous, often olivaceous when dry and somewhat glossy above, elliptic 6–15 × 2.5–5.5 cm, with acute base and attenuate acuminate apex; margin dentate, denticulate or entire. Midvein prominent above; 7–9 pairs of secondary veins.
 
-Inflorescences en glomérules axillaires (1)5-50-flores, souvent multiflores. Pédicelle de 5-12 mm. Boutons ovés de 3-4 mm de longueur, de largeur variable. Fleur de 4,5-6 mm de diamètre. Sépales subégaux, arrondis, microdenticulés presque entiers, longs de 0,3 mm. Pétales oblonges ± étroits, de 2-3,5 × 1-1,8 mm, réfléchis, verts ou jaune vert. Disque en colonne subcylindrique, parfois étroite, vert olive, sans sillon périgyne, zoné vers la mi-hauteur, soit vers 0,5-0,7 mm au-dessus de la base. Filets de 1-2 mm ; anthère orangée, obliquement et transversalement déhiscente, prenant appui dans le jeune bouton sur la base charnue du pistil. Ovaire non enfoncé, à 3 loges biovulées ; ovules superposés ; pistil aigu, charnu à la base.
+Inflorescences in axillary glomerules (1)5–50-flowered, often multiflorous. Pedicel 5–12 mm. Buds ovate 3–4 mm in length, variable in width. Flower 4.5–6 mm in diameter. Sepals subequal, rounded, microdenticulate almost entire, 0.3 mm long. Petals oblong ± narrow, 2–3.5 × 1–1.8 mm, reflexed, green or yellow-green. Disc in subcylindric column, sometimes narrow, olive-green, without perigynous groove, zoned around mid-height, approximately 0.5–0.7 mm above the base. Filaments 1–2 mm; anther orange, obliquely and transversely dehiscent, resting in the young bud on the fleshy base of the pistil. Ovary not sunken, with 3 biiovulate locules; ovules superposed; pistil acute, fleshy at the base.
 
-Fruits en nombre variable, souvent plusieurs par glomérule, de 12-15 mm de diamètre, rouge orangé, semblables à des cerises avec un pédoncule de 8-13 mm, et contenant 1-4 graines. - Pl. 30, p. 111.
+Fruits in variable number, often several per glomerule, 12–15 mm in diameter, orange-red, resembling cherries with a pedicel 8–13 mm, and containing 1–4 seeds. - Pl. 30, p. 111.
 
-Guinée, Sierra Leone, Côte-d'Ivoire, Ghana, Nigeria (van Meer 1744, WAG!), Cameroun, Gabon, Centrafrique, Zaïre, Angola, Kenya, Tanzania, Ouganda, Zambie, Soudan et Zanzibar.
+Guinea, Sierra Leone, Côte-d'Ivoire, Ghana, Nigeria (van Meer 1744, WAG!), Cameroon, Gabon, Central African Republic, Zaire, Angola, Kenya, Tanzania, Uganda, Zambia, Sudan and Zanzibar.
 
-Surtout en Centrafrique et au Zaïre, aussi au Gabon.
+Especially in Central African Republic and Zaire, also in Gabon.
 
 ## Specimens examined
 

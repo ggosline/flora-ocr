@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr., Ind.: 480 (1906). — Tard., Mém. IFAN 28 : 92 (1953).
 
-Rhizome dressé, à frondes en touffes, portant des écailles étroites, formées de cellules à parois foncées, lumière rousse.
+Rhizome erect, with fronds in tufts, bearing narrow scales, formed of cells with dark walls, russet-coloured interior.
 
-Pétiole long de 8-10 cm, noir, brillant, portant à l'extrême base les mêmes écailles que le rhizome, nu plus haut. Limbe long de 10-20 cm sur 6-8 de large, ovale, imparipenné. 10-20 paires de pennes très courtement pétiolées, espacées d'environ 1 cm, opposées, linéaires, à base arrondie, à bords enroulés, larges de 5 cm environ sur 0,2 de large, à extrémité arrondie. Nervures peu visibles, librés. Rachis portant de nombreuses écailles très étroites, piliformes, jaune très pâle. Texture coriace. Limbe fertile presque entièrement recouvert par les sporanges. Indusie intramarginale. Spores ovales, lisses.
+Petiole 8–10 cm long, black, shiny, bearing at the extreme base the same scales as the rhizome, naked higher up. Lamina 10–20 cm long by 6–8 cm wide, ovate, imparipinnate. 10–20 pairs of pinnae very shortly petiolulate, spaced about 1 cm apart, opposite, linear, with rounded base, with rolled margins, about 5 cm wide by 0.2 cm broad, with rounded apex. Veins scarcely visible, free. Rachis bearing numerous very narrow, hair-like scales, very pale yellow. Texture coriaceous. Fertile lamina almost entirely covered by sporangia. Indusium intramarginal. Spores ovate, smooth.
 
 ## Type
 
@@ -35,9 +33,7 @@ Boivin, 2885, Mayotte (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Congo ex-belge, Afrique australe, Comores, Mascareignes.
+Ex-Belgian Congo, southern Africa, Comoros, Mascarenes.
 
 ## Specimens examined
 

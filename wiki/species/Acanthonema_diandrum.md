@@ -33,7 +33,7 @@ The identification of this species with Carolofritschia diandra ENGL. rests only
 
 ## Specimens examined
 
-Jacques-Félix 5513, Oyem, Woleu Ntem (fl., nov.). Le Testu 8959, Oyem, Woleu Ntem (fl., déc.).
+Jacques-Félix 5513, Oyem, Woleu-Ntem (fl., nov.). Le Testu 8959, Oyem, Woleu-Ntem (fl., déc.).
 
 ## Notes
 

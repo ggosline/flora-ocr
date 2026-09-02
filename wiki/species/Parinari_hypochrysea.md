@@ -17,25 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Adansonia 16 (2) : 234, tab. 3 (1976); MILDBR., Wiss. Ergebn. Zweite Deutsch. Zentr.-Afr. Exped. 1910-11, 2 : 75 (1922), nom. nud.
 
 — « Parinari sp. » KEAY, FWTA, ed. 2, 1 (2) : 430 (1958); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 319 (1960); DE SAINT-AUBIN, Forêt Gabon : 167, ill. (1963).
 
-Grand arbre atteignant 100(-200) cm de diamètre au-dessus des contreforts; fût régulier, haut de 20-30 m surmonté d'une vaste cime hémisphérique un peu aplatie, pour une hauteur totale de 30-40 m; 6-10 contreforts, à profil droit, peu épais (10-20 cm), s'élevant de 0,5 à, exceptionnellement, 5 m de hauteur et s'écartant à 1-2 m sur le sol; rhytidome orangé-jaunâtre ± nuancé de grisâtre ou de verdâtre, à surface formée d'écailles irrégulières papyracées, s'effritant sur place; cime charpentée par de puissantes branches horizontales sinueuses et ramiifiées, puis divisées en rameaux tortueux supportant un feuillage dense mais tamisant assez régulièrement la lumière, de remarquable teinte fauve-doré au-dessous.
+Large tree reaching 100(–200) cm in diameter above the buttresses; trunk regular, 20–30 m tall, surmounted by a vast hemispherical crown somewhat flattened, for a total height of 30–40 m; 6–10 buttresses, with straight profile, slightly thick (10–20 cm), rising from 0.5 to, exceptionally, 5 m in height and spreading 1–2 m over the ground; bark orangish-yellowish ± tinged with greyish or greenish, with surface formed of irregular papyraceous scales, crumbling in place; crown framed by powerful sinuous horizontal branches ramified, then divided into tortuous branchlets supporting dense foliage but filtering light fairly regularly, of remarkable fawn-golden colour below.
 
-Jeunes tiges (1-8 m) et nouvelles pousses sur de jeunes arbres garnies d'une caractéristique pubescence densément feutrée fauve-doré entremêlée de poils rigides, droits ou arqués, pointus, ± appliqués ou obliques, atteignant 1 mm; entre-nœuds d'environ 2 cm avec feuilles distiques, parfois, vers l'extrémité des rameaux, stipules imbriquées rudimentaires. Stipules
+Young stems (1–8 m) and new shoots on young trees furnished with a characteristic densely felted fawn-golden pubescence interspersed with rigid, straight or curved, pointed hairs, ± appressed or oblique, reaching 1 mm; internodes about 2 cm with distichous leaves, sometimes, towards the extremity of the branchlets, rudimentary imbricate stipules. Stipules
 
-longuement triangulaires,  $ 5 \times 25(-40) $ mm, à base embrassante, garnies de 3-5 nervures longitudinales de chaque côté de la nervure médiane, glabres intérieurement, parfois munies sur leur marge de quelques glandes, devenant chiffonnées et extérieurement grisâtres. Pétiole long de 2-5 mm, portant au-dessus, vers le milieu, 2 grosses glandes cupuliformes, circulaires ou transversalement elliptiques, planes et ± marginées. Limbe oblong, parfois plus largement elliptique, parfois un peu obovale ou blancéolé,  $ 5-11 \times 10-28 $ cm; base arrondie un peu cordée; sommet en général obtus avec petit acumen ± deltoïde; (20-)25(-30) paires de nervures latérales parallèles, faisant un angle de 60-80° avec la nervure médiane, les 3-4 paires de nervures basales bien individualisées et courbées en gerbe; à l'extrémité de celles-ci et presque régulièrement sur chaque anastomose, près du bord du limbe, présence notable assez constante d'une très petite glande (hydatode) subsphérique, aplatie et ± marginée au-dessus; surface supérieure du limbe verte ± scabre; surface inférieure fauve doré. Jeunes plants semblables mais à limbes d'environ  $ 2 \times 8 $ cm (pour plants de 20 cm de hauteur) et  $ 3 \times 12 $ cm (pour plants de 50 cm de hauteur).
+elongate triangular, 5 × 25(–40) mm, with embracing base, furnished with 3–5 longitudinal nerves on each side of the midvein, glabrous within, sometimes bearing on their margin a few glands, becoming crumpled and greyish externally. Petiole 2–5 mm long, bearing above, towards the middle, 2 large cupuliform glands, circular or transversely elliptic, flat and ± margined. Blade oblong, sometimes more broadly elliptic, sometimes somewhat obovate or lanceolate, 5–11 × 10–28 cm; base rounded slightly cordate; apex generally obtuse with small ± deltoid acumen; (20–)25(–30) pairs of lateral parallel nerves, making an angle of 60–80° with the midvein, the 3–4 pairs of basal nerves well individualized and curved in a fan; at the extremity of these and almost regularly on each anastomosis, near the margin of the blade, notable fairly constant presence of a very small subspheric gland (hydatode), flattened and ± margined above; upper surface of blade green ± scabrous; lower surface fawn golden. Young plants similar but with blades about 2 × 8 cm (for plants 20 cm in height) and 3 × 12 cm (for plants 50 cm in height).
 
-Pour les arbres adultes, rameaux feuillés semblables mais stipules caduques, ainsi que pubescence laineuse feutrée, celle-ci ne persistant que sous les limbes; très exceptionnellement elle peut aussi y disparaître plus ou moins, laissant voir à la loupe les mailles du réseau de nervilles, garnies de la base blanchâtre des poils laineux. D'autre part pétiole d'environ 5 mm et limbe nettement elliptique 3,5-8 × 6-12 cm, parfois petit et largement elliptique (3-6 × 4,5-7 cm), avec base obtuse, légèrement cordée, avec sommet obtus pourvu d'un large acumen deltoïde n'excédant pas 0,5 cm de hauteur, avec 20-25 paires de nervures latérales.
+For adult trees, leafy branchlets similar but stipules caducous, as well as woolly felted pubescence, which persists only beneath the blades; very exceptionally it can also disappear there more or less, revealing under magnification the mesh of the veinlet network, furnished with the whitish base of the woolly hairs. On the other hand petiole about 5 mm and blade distinctly elliptic 3.5–8 × 6–12 cm, sometimes small and broadly elliptic (3–6 × 4.5–7 cm), with obtuse, slightly cordate base, with obtuse apex provided with a broad deltoid acumen not exceeding 0.5 cm in height, with 20–25 pairs of lateral nerves.
 
-Inflorescences en panicules terminales ± feuillées, hautes de 15 cm; tous axes fauves densément villeux; bractées et bractéoles très concaves, hautes de 3 mm avec acumen 0,5 mm, glabres intérieurement, couvertes extérieurement de poils obliques ascendants pointus; pédicelle et bouton floral également poilus. Fleur ouverte de 5 mm de diamètre, en étoile avec 5 sépales étalés, à pédicelle de 1,5-2 mm; réceptacle courbé sur le pédicelle et très évasé obliquement, haut seulement de 1 mm environ; sépales triangulaires, larges de 1,5 mm, hauts de 2 mm, tomentelleux intérieurement; pétales ovales avec onglet,  $ 1 \times 1,5 $ mm, à sommet largement aigu, pubescents extérieurement et sur la marge, caduces; 7 étamines recourbées, à filet haut de 1,5 mm, à anthères ciliolées; rebord inférieur de l'androcée dépourvu d'appendices staminodiaux et formant, avec le réceptacle, une large lèvre étalée, épaisse et indurée, papilleuse intérieurement; réceptacle pubescent intérieurement seulement derrière le(s) carpelle(s).
+Inflorescences in terminal ± leafy panicles, 15 cm tall; all axes fawn densely villous; bracts and bracteoles very concave, 3 mm tall with acumen 0.5 mm, glabrous within, covered externally with oblique ascending pointed hairs; pedicel and floral bud also hairy. Open flower 5 mm in diameter, star-shaped with 5 spreading sepals, on a 1.5–2 mm pedicel; receptacle curved on the pedicel and very obliquely expanded, only about 1 mm tall; sepals triangular, 1.5 mm wide, 2 mm tall, tomentellous within; petals oval with claw, 1 × 1.5 mm, with broadly acute apex, pubescent externally and on the margin, caducous; 7 recurved stamens, with 1.5 mm filament, with ciliolate anthers; lower edge of androecium lacking staminodial appendages and forming, with the receptacle, a broad, thick and indurated, papillose lip; receptacle pubescent within only behind the carpel(s).
 
-Drupes irrégulièrement ellipsoïdes,  $ 20 \times 25 \times 40 $ mm, à péricarpe craquelé extérieurement à la longue, avec endocarpe à structure hétérogène de type alvéolaire. — PL. 40, p. 135.
+Drupes irregularly ellipsoid, 20 × 25 × 40 mm, with exocarp cracking externally with time, with endocarp of heterogeneous alveolar type structure. — PL. 40, p. 135.
 
-CHRYSOBALANACE
+CHRYSOBALANACEAE
 
 ## Type
 
@@ -43,31 +41,27 @@ Mildbraed 5023, Cameroun (holo-, HBG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+Parinari hypochrysea Mildbr. ex R. Let. & F. White presents, in the field, great similarities with P. excelsa Sab.; if some confusion seems sometimes possible between the leaves of the two species, by contrast the flowers are clearly different.
 
-Parinari hypochrysea Mildbr. ex R. Let. & F. White présente, sur pied, de grandes ressemblances avec P. excelsa Sab.; si des confusions paraissent parfois possibles entre les feuilles des deux espèces, par contre les fleurs sont nettement différentes.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
+This species is known only from Nigeria (Calabar and Ijebu near Lagos), Cameroon and Gabon.
 
-Cette espèce n'est connue qu'au Nigeria (Calabar et Ijebu près Lagos), au Cameroun et au Gabon.
+In Cameroon, Parinari hypochrysea Mildbr. ex R. Let. & F. White is widespread throughout the Atlantic forest with Caesalpiniaceae and is sometimes locally abundant. It is thus present throughout the coastal zone extending to Mamfe, Yabassi, Escha and Sangmélima, whereas Parinari excelsa Sab. scarcely ventures into this zone. Outside this coastal region the two species sometimes meet geographically side by side, but Parinari hypochrysea is then almost always localized in the midst of stands of Gilbertiodendron dewevrei (35 km SE Yaoundé, 65 km S Nanga Eboko, 50 km SE Lomié), exceptionally outside of these (30 km E Lomié).
 
-Au Cameroun, Parinari hypochrysea Mildbr. ex R. Let. & F. White est répandue dans toute la forêt atlantique à Césalpiniacées et est parfois localement abondante. Elle est ainsi présente dans toute la zone côtière s'étendant jusqu'à Mamfe, Yabassi, Escha et Sangmélima, alors que Parinari excelsa Sab. ne s'aventure guère dans cette zone. Hors de cette région côtière les deux espèces se rencontrent parfois géographiquement côte à côte, mais Parinari hypochrysea se trouve alors presque toujours localisée au milieu de peuplements de Gilbertiodendron dewevrei (35 km SE Yaoundé, 65 km S Nanga Eboko, 50 km SE Lomié), exceptionnellement hors de ceux-ci (30 km E Lomié).
+According to DE SAINT-AUBIN (op. cit.), the species appears widespread throughout Gabon (insofar as it has not been confused in the field with Parinari excelsa) and can be locally gregarious there; the specimens collected however attest its certain presence only in the Cristal Mountains, towards Libreville, Ndjolé and south of Lamaréné (Agouma).
 
-D'après DE SAINT-AUBIN (op. cit.), l'espèce paraît répandue dans tout le Gabon (dans la mesure où elle n'a pas été confondu sur le terrain avec Parinari excelsa) et peut y être localement grégaire; les échantillons récoltés n'attestent cependant sa présence certaine que dans les Monts de Cristal, vers Libreville, Ndjolé et au sud de Lamaréné (Agouma).
+Ejiofor FHI 15253, res. for. South Bakundu near Kumba (young pl.) (FHI, FHO). Hédin 1592, 1658, Muyuka near Mbanga (young pl., fl., Oct.).
 
-Ejiofor FHI 15253, rés. for. South Bakundu près Kumba (j. pl.) (FHI, FHO). Hédin 1592, 1658, Muyuka près Mbanga (j. pl., fl., oct.).
+Letouzey 1232 SRFCam, Eléka (ster., Feb.); 1712, Nkolébomon, 65 km S Nanga Eboko (ster., Apr.); 3645, 3646, between Kongo and spot 648 NW Mayang, 30 km E Lomié (young pl., Mar.); 4138, Bella, 45 km NE Kribi (ster., Jan.); 4232, Nkomo near Ngoase S of the Lobo river, 130 km SSW Akonolinga (young pl.); 10194, Ongongondjé hill near Akonekye, 15 km NW Amban (ster., Mar.); 11297, 11302, Tofini valley near Bikok, 35 km SE Yaoundé (young pl., June); 11712, 12051, Mbalam near Ngoila, 50 km SE Lomié on Lomié-Souanké axis (young pl., Dec.); 12430, Bitoutouk, 20 km SSE Ededé (young pl.); 12538, 12538 bis, Manguingues, 15 km SSW Eléka (young pl., fl., Jan.); 14740, 5 km E Mbanga (ster., Apr.); 14892, 25 km S Yabassi (ster., fl., May).
 
-Letouzey 1232 SRFCam, EӀэka (stér., férv.); 1712, Nkolébomon, 65 km S Nanga Eboko (stér., avr.); 3645, 3646, entre Kongo et cote 648 NW Mayang, 30 km E Lomié (j. pl., mars); 4138, Bella, 45 km NE Kribi (stér., janv.); 4232, Nkomo près Ngoase au S de la riv. Lobo, 130 km SSW Akonolinga (j. pl.); 10194, colline Ongongondjé près Akonekye, 15 km NW Amban (stér., mars); 11297, 11302, vallée de la Tofini près Bikok, 35 km SE Yaoundé (j. pl., juin); 11712, 12051, Mbalam près Ngoila, 50 km SE Lomié sur axe Lomié-Souanké (j. pl., déc.); 12430, Bitoutouk, 20 km SSE Ededé (j. pl.); 12538, 12538 bis, Manguingues, 15 km SSW EӀэka (j. pl., fl., janv.); 14740, 5 km E Mbanga (stér., avr.); 14892, 25 km S Yabassi (stér., fl., mai).
-
-Mildbraed 5023, entre Yokadouma et Mpan (ex Assobam) sur piste Yokadouma-Lomié (stér., avr.) (HBG); 5971, Fenda, 60 km E Kribi (stér., juill.) (HBG, WAG). Olorunfemi FHI 30502, rés. for. South Bakundu près Kumba (stér., avr.) (FHI, FHO). SRFCam 15970, s. loc. (stér.) (YA). White 8562, 8563, 8616, lac Ejagham, 35 km W Mamfe (j. pl., mars) (FHO). Surville 766 (= 14630 SRFCam), Kompina, 15 km S Mbanga (j. pl., mai) (YA).
+Mildbraed 5023, between Yokadouma and Mpan (ex Assobam) on Yokadouma-Lomié trail (ster., Apr.) (HBG); 5971, Fenda, 60 km E Kribi (ster., July) (HBG, WAG). Olorunfemi FHI 30502, res. for. South Bakundu near Kumba (ster., Apr.) (FHI, FHO). SRFCam 15970, s. loc. (ster.) (YA). White 8562, 8563, 8616, Lake Ejagham, 35 km W Mamfe (young pl., Mar.) (FHO). Surville 766 (= 14630 SRFCam), Kompina, 15 km S Mbanga (young pl., May) (YA).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Aubier brun clair; bois brun grisâtre rosé, dur et lourd
+Light brown sapwood; wood pinkish greyish brown, hard and heavy
 
 ## Vernacular names
 

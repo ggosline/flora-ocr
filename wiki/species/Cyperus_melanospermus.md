@@ -21,7 +21,7 @@ Robust herb, perennial; rhizome creeping 2–4 mm thick, covered by blackish or 
 
 ## Distribution
 
-widely distributed in paleotropical regions, but in West Africa, present only in Nigeria; rare in Gabon, found only in the Estuary (Wonga-Wongué).
+widely distributed in paleotropical regions, but in West Africa, present only in Nigeria; rare in Gabon, found only in the Estuaire (Wonga-Wongué).
 
 ## Ecology
 

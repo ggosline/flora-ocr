@@ -21,7 +21,7 @@ Semi-woody herb 1–3 m tall; branchlets with silky pubescence at first. Stipule
 
 ## Distribution
 
-Tropical Africa, from Senegal to Somalia in the East and Angola in the South, also in Arabia and introduced to Sri Lanka and tropical America; in Gabon, known from the Estuary
+Tropical Africa, from Senegal to Somalia in the East and Angola in the South, also in Arabia and introduced to Sri Lanka and tropical America; in Gabon, known from the Estuaire
 
 ## Ecology
 

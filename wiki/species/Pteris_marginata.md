@@ -20,15 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bory, Voy. 2 : 192 (1804). — Alston, FWTA : 42 (1959).
 
-Rhizome... Pétiole épais, long de 30-90 cm, straminé, nu. Fronde deltoïde, longue de 50 cm à 1,50 m sur autant de large, divisée en trois branches, les basales les plus larges, longuement pétiolées. Pinnules longues de 7-25 cm sur 8-25 de large, divisées en pinnules de deuxième ordre longues de 8-10 cm, profondément pinnatifides, à lobes ultimes arrondis, falciformes, séparés par des
+Rhizome... Petiole thick, 30-90 cm long, stramineous, glabrous. Frond deltoid, 50 cm to 1.50 m long and as wide, divided into three branches, the basal ones the broadest, long-petiolate. Pinnules 7-25 cm long by 8-25 cm wide, divided into second-order pinnules 8-10 cm long, deeply pinnatifid, with ultimate lobes rounded, falcate, separated by sinuses approximately equal to their width. Texture thin, coloration light green. Rachis glabrous. Veins forming a row of areoles along the midvein.
 
-sinus ayant environ leur largeur. Texture mince, coloration vert clair. Rachis nu. Nervures formant une rangée d'aréoles le long de la nervure médiane.
-
-Côte-d'Ivoire, Ghana, Nigeria, Fernando-Po, Mascareignes. Bordures des marécages, forêts.
+Ivory Coast, Ghana, Nigeria, Fernando Po, Mascarene Islands. Swamp margins, forests.
 
 ## Specimens examined
 

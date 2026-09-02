@@ -21,7 +21,7 @@ Pleomele glomerata (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). S
 
 ## Distribution
 
-Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from the Estuary, Middle Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from the Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 

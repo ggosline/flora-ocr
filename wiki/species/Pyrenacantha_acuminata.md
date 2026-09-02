@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chlamydocarya tenuis ENGL., l.c. : 486 (1898).
 
 — P. vogeliana auct. non Baill. : Chev., Expl. Bot. Afr. occ. : 128, pro parte (1920).
 
-Liane dioïque à tige ± aplatie, courtement pubescente, striée longitudinalement. Pétiole ± torsadé, pubescent, strié longitudinalement sur les deux faces, long de 0,5-1,5 cm. Limbe glabre à la face supérieure, densément pubescent à poils apprimés parallèles à la face inférieure, vert ou gris vert dessus, vert clair terne dessous, elliptique ou blancéolé, 7,3-16 × 2,3-6 cm; base atténuée ou cordée subauriculée, sommet acuminé obtus mucroné. Nervure médiane saillante ± pubescente sur les deux faces. Nervures secondaires 6-7 paires, ascendantes arquées, s'anastomosant à 2-6 mm du bord du limbe, saillantes sur les deux faces, pubescentes à la face inférieure. Nervilles en réseau lâche saillant sur les deux faces. Hydathodes coniques ou piriformes, très saillants, glabres, terminant les nervures secondaires.
+Dioecious liane with stem ± flattened, shortly pubescent, longitudinally striate. Petiole ± twisted, pubescent, longitudinally striate on both faces, 0.5–1.5 cm long. Blade glabrous on upper face, densely pubescent with appressed hairs parallel on lower face, green or grey-green above, pale dull green below, elliptic or lanceolate, 7.3–16 × 2.3–6 cm; base attenuate or cordate subrauriculate, apex acuminate obtuse mucronate. Midrib ± pubescent on both faces. Secondary nerves 6–7 pairs, ascending arcuate, anastomosing 2–6 mm from the blade margin, prominent on both faces, pubescent on lower face. Tertiary veins in loose network prominent on both faces. Hydathodes conical or piriform, very prominent, glabrous, terminating the secondary nerves.
 
-Inflorescence ♂ en fascicule de grappes multiflores longues de 1-5 cm. Rachis pubescent porteur de bractées. Fleurs ♂ tétramères, vertes, 1,5 ×
+Male inflorescence in a fascicle of multiflorous racemes 1–5 cm long. Rachis pubescent bearing bracts. Male flowers tetramerous, green, 1.5 × 1 mm. Pedicel pubescent 2.5 mm long, bearing bracteoles. Petals free or slightly connate at base, pubescent externally, glabrous internally, broadly elliptic, 1.5 × 0.75 mm; apex acute or subacute. Stamens free, erect, gynobasic, 0.5 mm long; filament broad and very short, equal to one third of the stamen; anther with 2 ellipsoid lobes. Pistillode reduced to a tuft of very small hairs. Female inflorescence in a multiflorous spike ± supra-axillary. Rachis pubescent bearing bracts. Female flower tetramerous, green, 2.5 × 1.5 mm, sessile. Petals free or slightly connate at base, pubescent externally, glabrous internally, broadly elliptic, 2.5 × 1.25 mm; apex acute or subacute. Pistil 1.25 mm long; ovary broadly pubescent with orange-rusty hairs, erect; style short and broad, scarcely visible, terminating in a stigma with several digitate white lobes.
 
-1 mm. Pédicelle pubescent long de 2,5 mm, porteur de bractéoles. Pétales libres ou légèrement soudés à la base, pubescents extérieurement, glabres intérieurement, largement elliptiques,  $ 1,5 \times 0,75 $ mm; sommet aigu ou subaigu. Étamines libres, dressés, gynobasiques, longues de 0,5 mm; filet large et très court, égal au tiers de l'étamine; anthère à 2 loges ellipsoïdes. Pistillode réduit à une touffe de poils de très petite taille. Inflorescence ♀ en épi multiflore ± supra-axillaire. Rachis pubescent porteur de bractées. Fleur ♀ tétramère, verte,  $ 2,5 \times 1,5 $ mm, sessile. Pétales libres ou légèrement soudés à la base, pubescents extérieurement, glabres intérieurement, largement elliptiques,  $ 2,5 \times 1,25 $ mm; sommet aigu ou subaigu. Pistil long de 1,25 mm; ovaire largement pubescent à poils roux orangé, dressés; style court et large, peu visible, se terminant par un stigmate à plusieurs lobes digités blancs.
-
-Drupe largement ovée pubescente, aplatie transversalement; rostre obtus égal au tiers de la longueur du fruit. Aiguillons ± réfléchis au sommet sur la face interne de l'endocarpe ligneux. PL. 18, 12-23, p. 77.
+Drupe broadly ovate pubescent, flattened transversely; rostrum obtuse equal to one third of the fruit length. Prickles ± reflexed at apex on the inner face of the woody endocarp. PL. 18, 12–23, p. 77.
 
 ## Type
 
@@ -37,9 +33,7 @@ Zenker 1752, Cameroun (Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts ombrophiles inondées ou inondables depuis la Sierra Leone jusqu'à Yangambi au Zaïre.
+This species occurs in flooded or floodable rainforests from Sierra Leone to Yangambi in Zaïre.
 
 ## Specimens examined
 

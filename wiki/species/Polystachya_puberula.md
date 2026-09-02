@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes ovoïdes, courts. Feuilles 5-30 x 0,5-4,5 cm, blancéolées ou linéaires. Inflorescence 13-40 cm ; jusqu'à 10 rameaux, < 7 cm. Fleurs petites, jaunes ou jaune-vert. Sépale dorsal finement pubescent sur la face externe. Sépales latéraux obliquement triangulaires-ovés. Labelle nettement trilobé vers le milieu, callus oblong pubescent dans la moitié inférieure ; lobe médian ové, elliptique à carré, obtus à tronqué ; lobes latéraux obliquement semi-elliptiques à oblongs-ovés, obtus. Éperon, conique-sacciforme. – Pl. 125, p. 285.
+Pseudobulbs ovoid, short. Leaves 5-30 × 0.5-4.5 cm, lanceolate or linear. Inflorescence 13-40 cm; up to 10 branches, < 7 cm. Flowers small, yellow or yellow-green. Dorsal sepal finely pubescent on the outer surface. Lateral sepals obliquely triangular-ovate. Labellum distinctly trilobed toward the middle, callus oblong pubescent in the lower half; median lobe ovate, elliptic to square, obtuse to truncate; lateral lobes obliquely semi-elliptic to oblong-ovate, obtuse. Spur conical-sacciform. – Pl. 125, p. 285.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée-Bissau, Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Cameroun
+Guinea-Bissau, Guinea, Sierra Leone, Liberia, Ivory Coast, Cameroon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphyte
 
-alt. inconnue. Épiphyte
+MATERIAL STUDIED (Map 55):
 
-MATÉRIEL ÉTUDIÉ (Carte 55) :
-
-Louis, Breteler & de Bruijn 1232a, vieille forêt le long d'une route d'exploitation, km 2 au SE de la station d'exploitation forestière Waka, située à ± 32 km au SE de Sindara ; 1° 14' S, 10° 53" E, bassin de la Riv. Waka, alt. ± 300-400 m, épiphyte sur tronc d'arbre (fl. Déc.), WAG!.
+Louis, Breteler & de Bruijn 1232a, old forest along an exploitation road, km 2 SE of the Waka forest exploitation station, situated at ± 32 km SE of Sindara; 1° 14' S, 10° 53" E, Riv. Waka basin, alt. ± 300-400 m, epiphyte on tree trunk (fl. Dec.), WAG!.
 
 ## Notes
 

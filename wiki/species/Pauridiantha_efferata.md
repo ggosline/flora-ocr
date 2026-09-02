@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub puberulous ± hirsute. Stipules lanceolate acute caducous. Petiole puberulous 11-14 cm long. Blade subconcolorous elliptic acute at base glabrous above. 18-21 secondary nerves. Inflorescences villous 1-2 axillary paniculate subcontracted, peduncle 8-20 mm long interrupted by prefoliage. Bud narrowly obtuse. Flower green. Calyx cupulate dentate hirsute. Corolla with puberulous tube, lobes subcarnose ± 3 mm long, throat pilose. Anther medidorsifixed apiculate. Style pubescent. Stigma ± oblong. Disk pentagonal rugose. Ovary biloculate with placentas constricted below. Allied to P. hirtella (Benth.) Brem. but differs in more villous inflorescences, villous calyx, corolla black when dry with puberulous tube.
 
-Frutex puberulus ± hirsutus. Stipulae lanceolatae acutae caducae. Petiolum puberulum 11-14 cm longum. Lamina subconcolora elliptica basi acuta supera glabra. 18-21 nervi secundarii. Inflorescentiae villosae 1-2 axillares paniculatae subcontractae, pedunculo 8-20 mm longo prefoliis interrupto. Alabaster arte obtusus. Flos viridis. Calyx cupulatus dentatus hirsutus. Corolla tubo puberulo, lobis subcarnosis ± 3 mm longis, faucibus pilosis. Anthera medidorsifica apiculata. Stylus pubescens. Stigma ± oblonga. Discus pentagonalis rasorius. Ovarium biloculatum placentis infra strangulatis. Affinis P. hirtellae (Benth.) Brem. sed inflorescentiis villosioribus, calyce villoso, corolla in sicco nigra tubo puberulo, differt.
+FIG. 9. — Pauridiantha efferata N. Hallé (Le Testu 8639): 1, flowering branch nat. size; 2, stipule; 3, bud; 4, open flower; 5, section of short-styled flower; 6, anther 1.8 mm; 7, disk seen from above.
 
-FIG. 9. — Pauridiantha efferata N. Hallé (Le Testu 8639) : 1, rameau florifère gr. nat.; 2, stipule; 3, bouton; 4, fleur épanouie; 5, coupe de fleur brévistyle; 6, anthère de 1,8 mm; 7, disque vu par dessus.
+Shrub 15-20 cm diam. Internodes pubescent-velutinous 40-60 × 4-6 mm. Stipules pubescent lanceolate acute 15-22 × 5-7 mm, caducous at the level of inflorescences. Petiole ± velutinous 11-24 mm. Blade olivaceous subconcolorous, dull and glabrous above except for the midline, pubescent below, oblong or elliptic, 17-28 × 6-9 cm; base acute; apex rather abruptly acuminate; acumen acute ca. 1 cm. 18-21 secondary nerves regularly curved-oblique. Small pubescent domatia hidden.
 
-Arbuste de 15-20 cm de diam. Entrençudos pubescents-velus de 40-60 × 4-6 mm. Stipules pubescentes lancéolées aiguës de 15-22 × 5-7 mm, caduques au niveau des inflorescences. Pétiole ± velu de 11-24 mm. Limbe olivacé subconcolore, terne et glabre
-
-dessus excepté la ligne médiane, pubescent dessous, oblong ou elliptique, de  $ 17-28 \times 6-9 $ cm; base aiguë; sommet assez abruptement acuminé; acumen aigu d'env. 1 cm. 18-21 nervures secondaires régulièrement arquées-obliques. Petites domaties pubescentes cachées.
-
-Inflorescences axillaires, une par aiselle ou 2 et alors inégales. Petit panicule multiflore un peu contracté, velu, gris-beige à sec, à pédoncule de 8-20 mm, interrompu par une paire de préfeuilles hirsutes longues d'env. 4 mm et généralement situées vers la mi-longueur. Pédicelle velu de 3-5 mm. Bouton atteignant 7 × 3-4 mm, à corolle oblongue obtuse et noire à sec, à lobes glabres sauf quelques petits poils apicaux. Fleur verte de 6-8 mm de diam. (On trouve quelques rares fleurs fasciées à 2 corolles dans le calice). Calice velu, surtout vers la base, cupuliforme sur 2-2,5 mm et à 5 courtes dents. Corolle à tube pubescent atteignant 4 × 2,8 mm, à 5 lobes de 3,2 × 1,6 mm; pubescence interne bleutée dépassant la gorge, et réfractée dans sa partie inférieure infrastaminale. Filet de 1-2 mm. Anthères saillantes au dessus de la gorge et mesurant 1,8 × 0,6 avec un apex du connectif de 0,5 mm. Style de 4 mm, velu sauf le stigmate fusiforme de 1,3 mm (forme brévistyle étudiée). Disque pentagonal, ridé-sillonné pubérulent de 2 mm de diam. et 0,6 mm d'épaisseur. Ovaire à 2 loges contenant chacune un placenta bilobé étroitement étranglé dans sa partie inférieure et haut de 0,7 mm. Nombreux ovules. Fruit non connu.
+Inflorescences axillary, one per axil or 2 and then unequal. Small multiflorous panicle somewhat contracted, velutinous, greyish-beige when dry, with peduncle 8-20 mm, interrupted by a pair of hirsute prefoliage leaves ca. 4 mm long and usually positioned at mid-length. Pedicel velutinous 3-5 mm. Bud reaching 7 × 3-4 mm, with oblong obtuse corolla black when dry, lobes glabrous except for a few small apical hairs. Flower green 6-8 mm diam. (Rarely some fasciated flowers with 2 corollas in the calyx are found). Calyx velutinous, especially towards the base, cupuliform for 2-2.5 mm with 5 short teeth. Corolla with pubescent tube reaching 4 × 2.8 mm, with 5 lobes 3.2 × 1.6 mm; internal bluish pubescence exceeding the throat, and refracted in its lower infrastaminal part. Filament 1-2 mm. Anthers prominent above the throat and measuring 1.8 × 0.6 with connective apex 0.5 mm. Style 4 mm, velutinous except the fusiform stigma 1.3 mm (short-styled form studied). Disk pentagonal, ridged-furrowed puberulous 2 mm diam. and 0.6 mm thick. Ovary with 2 locules each containing a bilobed placenta narrowly constricted in its lower part and 0.7 mm high. Numerous ovules. Fruit unknown.
 
 ## Type
 
@@ -34,9 +30,7 @@ Le Testu 8639 (P), Boucimbi, région de Lastoursville, Gabon (fl. 29 déc. 1930)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce existe aussi au Cameroun (Letouzey 5123) : sous-bois de forêt semi-décidue.
+The species also exists in Cameroon (Letouzey 5123): understory of semi-deciduous forest.
 
 ## Notes
 

@@ -37,7 +37,7 @@ Confusions, at first glance, between Acioa chevalieri De Wild. and A. pierrei De
 
 PHYTOGEOGRAPHIC NOTES:
 
-Acioa chevalieri De Wild. is essentially ripicole and known only from the shores of the lakes of Lower Ogooué in Gabon.
+Acioa chevalieri De Wild. is essentially ripicole and known only from the shores of the lakes of Bas-Ogooué in Gabon.
 
 ## Specimens examined
 

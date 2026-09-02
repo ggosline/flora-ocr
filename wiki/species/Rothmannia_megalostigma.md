@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree exceeding 10 m in height and 30 cm in diameter. Vegetative apparatus entirely glabrous. Stipules 3–4 mm long, briefly acute or ± obtuse. Petiole absent or almost reaching at most 5 mm. Blade brownish and brittle when dry, elliptic or obovate 20–40 × 7.5–17 cm, with base obtuse to narrowly subcordate, with apex broadly rounded truncate or more rarely subacute. 10–16 pairs of secondary nerves. Fine vein network not distinct. Nerve axils glabrous in Gabonese material whereas they are ± pubescent in West Africa and variable in Cameroon.
 
-Petit arbre dépassant 10 m de hauteur et 30 cm de diamètre. Appareil végétatif entièrement glabre. Stipules longues de 3-4 mm,
+Flowers solitary, rarely three together, with peduncle 0.5–2 cm bearing a few deltoid scales. Calyx glabrous brownish when dry, with limb tubular over 12–16 mm in length and 8–10 mm in diameter, often split on one side, with 5 keeled acute briefly triangular lobes 1.5–3 mm in height; interior of calyx densely pubescent ochraceous. Corolla dark red 25–32 cm long with dense and fine ochraceous puberulence, with tube 5–8 mm in width, with throat flared c. 4 × 4 cm, on the interior dotted with pink with very fine scattered puberulence; interior of tube with soft hairs; 5 whitish petalous lobes inside, ovate-lanceolate 3 × 2 cm. Anthers included 30 × 3 mm, sessile, medifixed, with connectival margin of small hairs. Style 5-grooved-subwinged, glabrous. Stigma clavate with exsert apex composed of 2 massive lobes 5–7 × 6 mm. Ovary prismatic glabrous.
 
-brièvement aiguës ou ± obtuses. Pétiole nul ou presque atteignant au plus 5 mm. Limbe brunâtre et cassant à sec, elliptique ou obové de 20-40 × 7,5-17 cm, à base obtuse à étroitement subcordée, à sommet largement arrondi tronqué ou plus rarement subaigu. 10-16 paires de nervures secondaires. Fin réseau non distinct. Aisselles nervaires glabres chez les matériaux gabonais alors qu'elles sont ± pubescentes en Afrique de l'Ouest et variables au Cameroun.
-
-Fleurs solitaires, rarement par trois, à pédoncule de 0,5-2 cm portant quelques écailles deltoïdes. Calice glabre brunâtre à sec, à limbe tubuleux sur 12-16 mm de longueur et 8-10 mm de diamètre, souvent fendu d'un côté, à 5 lobes carénés aigus brièvement triangulaires de 1,5-3 mm de hauteur; intérieur du calice densément pubescent ochracé. Corolle brun rouge longue de 25-32 cm à dense et fine pubérulence ochracée, à tube de 5-8 mm de largeur, à gorge évasée d'env. 4 × 4 cm, à l'intérieur ponctuée de rose avec une très fine pubérulence éparse; intérieur du tube avec des poils mous; 5 lobes pétalaires blanchâtres à l'intérieur, ovés-lancéolés de 3 × 2 cm. Anthères incluses de 30 × 3 mm, sessiles, médifixes, à connectif marginé de petits poils. Style 5-cannelé-subailé, glabre. Stigmate en massue à sommet exsert composé de 2 lobes massifs de 5-7 × 6 mm. Ovaire prismatique glabre.
-
-Fruit brun vert ellipsoïde dépassant 11 × 8 cm, couronné par le limbe calycinal non accrescent, à 5 côtes saillantes jusqu'à la base, à endocarpe composé de 2 calottes crustacées. Graines très nombreuses, comprimées, de 7-9 × 2,5 mm.
+Fruit greenish-brown ellipsoid exceeding 11 × 8 cm, crowned by the non-accrescent calycinal limb, with 5 prominent ribs extending to the base, with endocarp composed of 2 crustaceous caps. Seeds very numerous, compressed, 7–9 × 2.5 mm.
 
 ## Type
 
@@ -39,9 +35,7 @@ Bates 1171, 1275 et 1560 (syntypes BM!), Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mali (Demange 3415), Sierra Leone, Liberia, Nimba (Schnell 3604), Côté d'Ivoire (F. Hallé 903, Pobéguin 258), Ghana, Nigeria, Cameroun, Gabon, Congo, Centrafrique (Guigonis 2562). Forêts; zone à Raphias.
+Mali (Demange 3415), Sierra Leone, Liberia, Nimba (Schnell 3604), Côte d'Ivoire (F. Hallé 903, Pobéguin 258), Ghana, Nigeria, Cameroon, Gabon, Congo, Central African Republic (Guigonis 2562). Forests; zone with Raphias.
 
 ## Specimens examined
 

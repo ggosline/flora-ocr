@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrubby plant ± creeping and erect, or sarmentose shrub reaching 2–2.5 m tall, with few branches and axillary with respect to the leaves. Internodes 40–100 × 4–6 mm, white or white-rust woolly. Stipules fused opposite to the single leaf in a kind of sheathing spathe with generally emarginate apex, 15–21 mm in height, felted tomentose, persistent. Very young plants still present at each node a small leaf opposite to the large one. Petiole 11–25 mm, clothed. Blade elliptic discolorous; upper face dark green in vivo, olive or blackish when dry, glabrous or variably ciliate; lower face white or white-rust, very densely felted lanate. The blade measures (10) 15–25 × (3.5) 6–10.5 cm; base very unequal; the lower side, obtuse or ± cordate is offset by approximately 0.5–1.5 cm; apex sublanceolate with a small very acute acumen. Midvein ciliate above; 11–19 pairs of regular secondary veins, the lower ones ± erect, the upper ones more distinctly ascending.
 
-Plante sous-ligneuse ± rampante et redressée, ou buisson sarmenteux atteignant 2-2,5 m de haut, à ramifications peu nombreuses et axillées par les feuilles. Entrenœuds de 40-100 × 4-6 mm, blancs ou blanc ou blanc-rouille laineux. Stipules soudées à l'opposé de la feuille unique en une sorte de spathe engainante à sommet généralement échancré, de 15-21 mm de hauteur, feutrées tomenteuses, persistantes. Les très jeunes pieds présentent encore à chaque nœud, une petite feuille opposée à la grande. Pétiole de 11-25 mm, vêtu. Limbe elliptique discolore; face supérieure vert-foncé in vivo, olivâtre ou noirâtre à sec, glabre ou ciliée de façon variable; face inférieure blanche ou blanc-rouille, très désentement feutrée lanugineuse. Le limbe mesure (10) 15-25 × (3,5) 6-10,5 cm; base très inégale; le côté le plus bas, obtus ou ± cordé est décalé d'env. 0,5-1,5 cm; sommet sublancéolé avec un petit acumen très aigu. Nervure médiane ciliée dessus; 11-19 paires de nervures secondaires régulières, les inférieures ± redressées, les supérieures plus nettement ascendantes.
+Inflorescences multiflorous in sessile glomerules 13–20 mm in diam. generally opposite to the leaves and rupturing the stipular apparatus. 5 tomentose ochraceus erect triangular sepals approximately 2 mm tall; corolla white 6–8 mm in diam., with tube not exceeding the sepals, with 5 half-reflexed or spreading lobes approximately 2–2.5 × 1–1.5 mm, pubescent on the outer face, glabrous above; throat abundantly covered with erect white hairs. Ovary pubescent, surrounded at the base by long cilia and bracts; 2 locules, each with a peltate placenta.
 
-Inflorescences multiflores en glomérules sessiles de 13-20 mm de diam. généralement opposées aux feuilles et déchirant l'appareil stipulaire. 5 sépales tomenteux ochracés dressés triangulaires d'env. 2 mm de haut; corolle blanche de 6-8 mm de diam., à tube ne dépassant pas les sépales, à 5 lobes demi-renversés
-
-ou étalés d'env. 2-2,5 × 1-1,5 mm, pubescents sur la face externe, glabres dessus; gorge abondamment recouverte de poils blancs dressés. Ovaire pubescent, entouré à la base de longs cils et de bractées; 2 loges, chacune avec un placenta pelté.
-
-Fruit vert ou incolore de 10 mm de long, couronné par les sépales dressés. Nombreuses graines anguleuses de 0,5 × 0,3 mm, rousses.
+Fruit green or colourless 10 mm long, crowned by erect sepals. Numerous angular seeds 0.5 × 0.3 mm, reddish.
 
 ## Type
 
@@ -37,9 +33,7 @@ Zenker 40/0, entre Bipindi et Lolodorf, Cameroun (P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette belle plante, la plus anisophylle, avec le Ps. sthenula N. Hallé, de toutes les Rubiacées, est connue seulement du Cameroun et du Gabon. Elle croît dans des forêts très humides en demi-ombre, et fleurit parfois en bordure des routes.
+This beautiful plant, the most anisophyllous, together with Ps. sthenula N. Hallé, of all the Rubiaceae, is known only from Cameroon and Gabon. It grows in very humid forests in semi-shade, and sometimes flowers at the edges of roads.
 
 ## Figures
 

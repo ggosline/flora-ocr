@@ -16,15 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb up to 1.5 m tall, with erect culms bearing numerous nodes. Leaves glabrous except around the ligule, blade linear-elongate, scabrous on the margins.
 
-Herbe annuelle jusqu'à 1,5 m de haut, à chaumes dressés à nombreux nœuds. Feuilles glabres, sauf autour de la ligule, limbe linéaire allongé, scabre sur les marges.
+Panicle lax, up to 1 m long; spatheoles tightly enrolled, up to 8 cm, pedicels filiform, glabrous. Pedicels of the neutral spikelets, glabrous, 3 mm long; those of the triad 2 mm long and ciliate. Fertile spikelets 14–16 mm; callus rufous-tomentose. Lower glume 8–10 mm densely pubescent; the upper one bearing a scabrous subula reaching up to 3 cm. Awn of the fertile lemma 8–9 cm long, geniculate. Neutral spikelets 6–7 mm long.
 
-Panicule lâche, jusqu'à 1 m de long; spathéoles étroitement enroulées, jusqu'à 8 cm, pédoncules filiformes, glabres. Pédicelles des épilets neutres, glabres, de 3 mm de long; ceux de la triade sont longs de 2 mm et ciliés. Épillets fertiles de 14 à 16 mm; callus tomenteux roux. Glume inférieure de 8-10 mm densément
-
-pubescente; la supérieure est munie d'une subule scabre pouvant atteindre 3 cm. Arête de la lemma fertile de 8-9 cm de long, genouillée. Épillets neutres de 6-7 mm de long.
-
-Savanes côtières, sur sables blancs, probablement sans grand intérêt fourrager.
+Coastal savannas, on white sands, probably of little forage value.
 
 ## Specimens examined
 

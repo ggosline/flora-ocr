@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender twining or trailing liane. Internodes hairy then glabrescent. Stipules ovate-acute, reflexed, glabrous above, 3–6 mm wide. Petiole ± pubescent, 0.5–3 cm. Blade finely hairy on both faces, brown discolorous when dry, 4–13 × 1.6–6.2 cm, cuneate at base, lanceolate-acuminate at apex. 9–12 pairs of secondary veins clearly hairy-hirsute on the lower surface.
 
-Liane volubile grêle retombante ou rampante. Entrenceuds velus puis glabrescents. Stipules ovées-aiguës, rabattues, glabres dessus, larges de 3-6 mm. Pétiole ± pubescent de 0,5-3 cm. Limbe finement velu sur les deux faces, brun discolore à sec, de 4-13 × 1,6-6,2 cm, à base cunéiforme, à sommet lancéolé-acuminé. 9-12 paires de nervures secondaires nettement velues-hirsutes à la face inférieure.
+Inflorescences hairy, short, ca. 1 cm, rather multiflorous and eventually accrescent. Corolla white, pubescent toward the apex, 7–9 mm long. Calyx hairy with attenuate acute ciliate lobes, 2–4.5 × 1 mm.
 
-Inflorescences velues courtes, d'env. 1 cm, plutôt multiflores et finalement accrescentes. Corolle blanche pubescente vers le sommet, longue de 7-9 mm. Calice velu à lobes atténués aigus, ciliés, de 2-4,5 × 1 mm.
-
-Infrutescence atteignant 3 cm; pédicelles grêles dépassant souvent 5 mm. Fruit blanc d'env. 1 cm de diam., à pulpe rouge-groseille, à sépales verts ± étalés.
+Infructescence reaching 3 cm; pedicels slender, often exceeding 5 mm. Fruit white, ca. 1 cm diam., with currant-red pulp, with ± spreading green sepals.
 
 ## Type
 
@@ -31,9 +29,7 @@ Thollon 104 (P), premier spécimen cité par Wernham. Gabon et Congo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-« Vouvou » des Loangos; suc du fruit utilisé pour teinter le vin de palme (Thollon).
+"Vouvou" of the Loangos; fruit juice used to tint palm wine (Thollon).
 
 ## Specimens examined
 

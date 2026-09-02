@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 5 to 25 m tall; wood white; trunk reaching 20 to 60 cm diam. for 8-10 m in height. Stipules oblong 13-30 (50) × 4-10 (30) mm with obtuse apex, finely pubescent, ± caducous. Petiole finely pubescent 10-25 (40) mm. Blade glabrous or glabrescent above, ± distinctly pubescent below, brown or reddish-brown when dry, obovate (10) 15-30 (50) × 7-14 (25) cm, with acute ± attenuate base, with obtuse or broadly rounded apex. 10-18 (24) pairs of secondary veins.
 
-Arbre de 5 à 25 m de hauteur; bois blanc; tronc atteignant 20 à 60 cm de diam. pour 8-10 m de hauteur. Stipules oblongues de 13-30 (50) × 4-10 (30) mm à sommet obtus, finement pubescentes, ± caduques. Pétiole finement pubescent de 10-25 (40) mm. Limbe glabre ou glabrescent dessus, ± nettement pubescent dessous, brun ou roussâtre à sec, obové de (10) 15-30 (50) × 7-14 (25) cm, à base aiguë ± atténuée, à sommet obtus ou largement arrondi. 10-18 (24) paires de nervures secondaires.
+Inflorescences finely pubescent, reddish-brown when dry, cymose ± contracted, pluriflorous or multiflorous with short peduncle c. 18 mm, with ovate bracteoles, enveloping at base, caducous. Pedicel 2-4 mm. Calyx with tubular cylindric limb c. 5 × 5 mm, briefly 5-toothed. Corolla white or cream-white, sometimes tinged with mauve, reddish-brown or ochraceous pubescent when dry externally, with funnel-shaped tube 15 mm long, with ovate acute lobes c. 1 cm in length, glabrous on the side covered in the bud. Narrow part of tube with internal ring of hairs. Anthers c. 6.5 × 1 mm, with apiculate apex, with emarginate base; filament 1 mm inserted towards the lower third of the anther. Style 14 mm long with club-shaped stigma 5 × 2 mm, furrowed.
 
-Inflorescences finement pubescentes, rousses à sec, cymeuses ± contractées, pluri ou multiflores à pédoncule court d'env. 18 mm, à bractéoles ovées, enveloppantes à la base, caduques. Pédicelle de 2-4 mm. Calice à limbe tubuleux cylindrique d'env. 5 × 5 mm, brièvement 5-denté. Corolle blanche ou blanc-crème, parfois teintée de mauve, velue rousse ou ochracée à sec extérieurement, à tube en entonnoir long de 15 mm, à lobes ovés aiguis d'env. 1 cm de longueur, glabres du côté recouvert dans le bou
-
-ton. Partie étroite du tube à anneau interne de poils. Anthères de  $ 6,5 \times 1 $ mm, à sommet apiculé, à base émarginée; filet de  $ 1 $ mm inséré vers le tiers inférieur de l'anthère. Style long de  $ 14 $ mm à massue de  $ 5 \times 2 $ mm, sillonnée.
-
-Fruit jaune elliptique de  $ 20 \times 12 $ mm (sur le sec), plus la cupule calycinale persistante. Épiderme glabrescent indistinctement côtelé. Graines prismatiques d'env. 1 mm, très petites et très nombreuses, rousses.
+Fruit yellow elliptic 20 × 12 mm (on dry material), plus the persistent calycine cupule. Epidermis glabrescent indistinctly ribbed. Seeds prismatic c. 1 mm, very small and very numerous, reddish-brown.
 
 ## Type
 
@@ -38,11 +34,9 @@ Zenker 1540! et 1872! (isosyntypes P), Bipindi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, São Tomé (A. Chevalier 14447), Rio Muni, Gabon, Cabinda, Lower and Middle Congo as far as Yangambi, Central African Republic.
 
-Nigeria, Cameroun, San Thomé (A. Chevalier 14447), Rio Muni, Gabon, Cabinda, Bas et Moyen-Congo jusqu'à Yangambi, Centrafrique.
-
-Les matériaux cités de Bélinga, encore insuffisants, se distinguent par l'abondance extrême des boutons floraux par inflorescence.
+The material cited from Bélinga, still insufficient, is distinguished by the extreme abundance of floral buds per inflorescence.
 
 ## Vernacular names
 

@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect portion of the plant up to 30 cm and more, prostrate portion rooting at the nodes and emitting numerous lateral branches. Leaf sheath striated, more or less ciliate along the margins, membranous ligule, 2 mm long. Blades 1 to more than 7 cm long and 4 to 12 mm wide, with some hairs on the upper surface, finely pubescent below.
 
-Partie dressée de la plante jusqu'à 30 cm et plus, partie prostrée s'enracinant aux nœuds et émettant de nombreuses branches latérales. Gaine foliaire striée, plus ou moins ciliée le long des bords, ligule membraneuse, 2 mm de long. Limbes de 1 à plus de 7 cm de long et 4 à 12 mm de large, avec quelques poils sur la face supérieure, finement pubescents en dessous.
+Inflorescence up to 15 cm long and more, with 1 to 6 or 8 short lateral racemes with filiform rachis; pedicels up to 2 mm long. Spikelets approximately 4 mm long, those at the base of the racemes often reduced.
 
-Inflorescence jusqu'à 15 cm de long et plus, avec de 1 à 6 ou 8 racèmes latéraux courts à rachis filiforme; pédicelles jusqu'à 2 mm de long. Épillets d'environ 4 mm de long, ceux de la base des racèmes souvent réduits.
+This species appears to be widely distributed throughout the entire Sudano-Guinean and Guinean zone.
 
-Cette espèce paraît largement répandue dans toute la zone soudano-guinéenne et guinéenne.
-
-C'est une petite plante d'endroits ombragés et humides, sans intérêt économique.
+It is a small plant of shaded and humid places, of no economic interest.
 
 ## Specimens examined
 

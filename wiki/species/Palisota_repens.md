@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Candollea 74(2) : 195 (2019). Herbe rampante ; tige 0,5–2 m , occasionnellement ramifiée, érigée sur ± 4–5 cm, rouge lie de vin à mauve, couverte d’une pubescence laineuse blanc grisâtre à rousse , caduque sur les parties âgées, à entrenœuds de 2–5(–10) cm, portant des racines axillaires perforant la base des gaines, couvertes de poils racinaires jaunes, mais ne formant jamais un manchon autour de la gaine et de la tige. Feuilles régulièrement disposées tout le long de la tige ; gaine 11–20 mm de longueur, coudée, formant un renflement à la base ; pseudopétiole (2–)4–6 cm ; limbe obovale à elliptique, (7–)10–18 × 3–6 cm, nettement cunéé à la base, sommet à acumen de 5–12 mm, marges avec une fine pubescence rousse apprimée, les deux faces à pubescence laineuse blanche apprimée à l’état jeune , glabrescentes. Inflorescence strictement axillaire , géotrope [dirigée vers le sol] lorsque insérée sur la partie aérienne de la tige, plagiotrope [le long du sol] lorsque insérée sur la partie rampante , 2,5–6(–8) cm de longueur, simple ; pédoncule 1–3 cm, avec 2 à 4 bractées persistantes, engainantes ; bractées florifères rapidement caduques, oblongues à elliptiques-ovales, jusqu’à 10 × 5 mm, pubescentes ; cin cinni sessiles ou subsessiles, à 2 ou 3 fleurs. Fleur : pédicelle érigé , 4–5 mm, spiralé et deve nant pourpre sombre après la floraison ; périanthe refermé après la floraison ; sépales égaux, oblongs, 6 × 2 mm, pétaloïdes, blanc translucide à pubescence brun-ocre sur la face externe ; pétales similaires aux sépales, mais glabres ; étamines inégales, érigées , les 2 supérieures à filet de 2,5–3 mm, à anthère cylindrique, 2 × 0,8 mm, jaune, l’inférieure plus ferme, à anthère de 2,2 × 1,6 mm, les thèques légèrement courbées, jaunes ; staminodes blancs ; ovaire ovoïde à ellipsoïdal, 1 × 0,5 mm, glabre ; style 2,5 mm, glabre, stigmate tronqué. Fruit irrégulièrement ovoïde, 1 × 0,6 cm à maturité sur le sec, jusqu’à 2 mm de long in vivo , rouge vif, à pubescence éparse, avec ± 4 graines. Graine globuleuse déprimée et angulaire, ± 2,5 × 3,5 mm ; testa lisse, avec 20 à 30 côtes plutôt aplaties ; embryotège circulaire et légèrement creuse ; hile resserré, verruqueux.
+Candollea 74(2) : 195 (2019). Creeping herb; stem 0.5–2 m, occasionally branched, erect for ± 4–5 cm, wine-red to mauve, covered with grayish-white to russet woolly pubescence, caducous on older parts, with internodes 2–5(–10) cm, bearing axillary roots piercing the base of the sheaths, covered with yellow root hairs, but never forming a sheath around the sheath and stem. Leaves regularly arranged along the entire stem; sheath 11–20 mm long, bent, forming a swelling at the base; pseudipetiole (2–)4–6 cm; blade obovate to elliptic, (7–)10–18 × 3–6 cm, distinctly cuneate at base, apex with an acumen 5–12 mm, margins with fine appressed russet pubescence, both surfaces with appressed white woolly pubescence when young, glabrescent. Inflorescence strictly axillary, geotropic [directed toward the ground] when inserted on the aerial part of the stem, plagiotropic [along the ground] when inserted on the creeping part, 2.5–6(–8) cm long, simple; peduncle 1–3 cm, with 2 to 4 persistent, sheathing bracts; floral bracts rapidly caducous, oblong to elliptic-ovate, to 10 × 5 mm, pubescent; cincinni sessile or subsessile, with 2 or 3 flowers. Flower: pedicel erect, 4–5 mm, spiraled and becoming dark purple after flowering; perianth closed after flowering; sepals equal, oblong, 6 × 2 mm, petaloid, translucent white with brown-ochre pubescence on the outer face; petals similar to sepals, but glabrous; stamens unequal, erect, the 2 upper ones with filament 2.5–3 mm, with cylindric anther, 2 × 0.8 mm, yellow, the lower one firmer, with anther 2.2 × 1.6 mm, the thecae slightly curved, yellow; staminodes white; ovary ovoid to ellipsoidal, 1 × 0.5 mm, glabrous; style 2.5 mm, glabrous, stigma truncate. Fruit irregularly ovoid, 1 × 0.6 cm at maturity when dry, to 2 mm long in vivo, bright red, with sparse pubescence, with ± 4 seeds. Seed globose-depressed and angular, ± 2.5 × 3.5 mm; testa smooth, with 20 to 30 rather flattened ribs; embryotegium circular and slightly depressed; hilum constricted, verrucose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale (Río Muni), Gabon et République du Congo ; au Gabon, dans l’Es tuaire, la Ngounié, l’Ogooué-Ivindo, l’Ogooué-Maritime et l’Ogooué-Lolo
+Equatorial Guinea (Río Muni), Gabon and Republic of the Congo; in Gabon, in the Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts matures à secondaires, sur pentes, crêtes ou zones basses à proximité des rivières, mais jamais sur un sol inondé ; au Gabon de 50 à 750 m d’altitude, ailleurs jusqu’à 1170 m. Floraison en février, avril, mai, août, novembre et décembre ; fructification de février à avril, juillet et novembre
+understory of mature to secondary forests, on slopes, ridges or low areas near rivers, but never on flooded soil; in Gabon from 50 to 750 m altitude, elsewhere to 1170 m. Flowering in February, April, May, August, November and December; fruiting from February to April, July and November
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+P. repens is to be distinguished from P. satabiei and P. akouangoui by the combination of a creeping stem reaching 1 to 2 m in length, bearing regularly spaced leaves, inflorescences shorter than in P. akouangoui, and unbranched as in P. satabiei. B: Bidault & van der Burg (2019). Bibliography
 
-P. repens est à distinguer de P. satabiei et de P. akouangoui par la combinaison d’une tige ram pante atteignant 1 à 2 m de longueur, portant des feuilles régulièrement espacées, des inflorescences plus courtes que chez P. akouangoui , et non ramifiées comme chez P. satabiei . B : Bidault & van der Burg (2019). i B liographie
-
-Dessin par L. Longou, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de Bidault & van der Burg (2019).
+Drawing by L. Longou, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Bidault & van der Burg (2019).
 
 ## Notes
 

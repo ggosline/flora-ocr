@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with twisted wrinkled stem, glabrous, with brown rhytidome. Branchlets glabrous. Petiole short, ↓ carinate above, strongly wrinkled below, glabrous or pubescent laterally, 1-2 mm long. Blade green weakly yellowish matte above, green more yellowish below, glabrous on both faces, elliptic, elliptic-lanceolate or narrowly lanceolate, 3-6.5 × 1.1-2.1 cm; base very strongly attenuate or cuneiform, apex acute mucronate. Midvein prominent, sometimes reddish below. Secondary veins 4-6 pairs very ascendant, slightly curved at the base, prominent on both faces, sometimes reddish above. Veinlets in dense network ↓ visible on both faces.
 
-Liane à tige torsadée ridée, glabre, à rhytidome marron. Rameaux glabres. Pétiole court, ↓ caréné dessus, fortement ridé dessous, glabre ou pubescent latéralement, long dc 1-2 mm. Limbe vert faiblement jaunâtre mat dessus, vert plus jaunâtre dessous, glabre sur les deux faces, elliptique, elliptique lancéolé ou étroitement lancéolé, 3-6,5 × 1,1-2,1 cm; base très fortement atténuée ou cunéiforme, sommet aigu mucroné. Nervure médiane saillante, parfois rougeâtre dessous. Nervures secondaires 4-6 paires très ascendantes, peu arquées à la base, saillantes sur les deux faces, parfois rougeâtre dessus. Nervilles en réseau dense ↓ visible sur les deux faces.
-
-Inflorescences en ombelles axillaires solitaires ou fasciculées par 2. Rachis long de 3-5 mm, glabre, épaissi en une masse charnue sphérique à sa partie terminale. Bractée glabre, lancéolée. Fleur ♀ tétramère, de 2,5 mm de diamètre. Pédicelle glabre, long de 2,25 mm, inséré dans une cupule du rachis claviforme. Calice cupuliforme, charnu à 4 dents réfléchies vers l'intérieur de la fleur. Pétales 4 libres entre eux, fixés sur le bord du réceptacle cupulaire, dressés ou ± horizontaux, glabres, ± triangulaires, 1,25 × 1 mm, sommet apiculé à la face interne. Disque sous forme de 4 glandes charnues alternipétales. Étamines 4 épipétales, ± fortement soudées à la base des pétales, ± subhorizontales, longues de 0,7 mm; filet épais, ellipsoide, marqué d'un sillon à sa face antérieure, long de 0,5 mm; anthère ellipsoide à fentes de déhiscence longitudinales, longue de 0,25 mm. Ovaire conique, long de 1 mm. Style très court pratiquement indistinct de l'ovaire.
+Inflorescences in axillary umbels solitary or fasciculate by 2. Rachis 3-5 mm long, glabrous, thickened into a spherical fleshy mass at its terminal part. Bract glabrous, lanceolate. Female flower tetramerous, 2.5 mm in diameter. Pedicel glabrous, 2.25 mm long, inserted in a cupular bracts on the rachis. Calyx cupuliform, fleshy with 4 teeth reflected towards the inside of the flower. Petals 4 free from each other, fixed on the edge of the cupular receptacle, erect or ± horizontal, glabrous, ± triangular, 1.25 × 1 mm, apex apiculate on the inner face. Disk in the form of 4 fleshy glands alternipetalous. Stamens 4 epipetalous, ± strongly united at the base of the petals, ± subhorizontal, 0.7 mm long; filament thick, ellipsoid, marked with a groove on its anterior face, 0.5 mm long; anther ellipsoid with longitudinal dehiscence slits, 0.25 mm long. Ovary conical, 1 mm long. Style very short practically indistinct from the ovary.
 
 Drupe. Pl. 40, p. 179.
 
@@ -31,9 +29,7 @@ Mildbraed 4425, Cameroun (B!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante n'est connue que du Cameroun.
+This plant is known only from Cameroon.
 
 ## Specimens examined
 

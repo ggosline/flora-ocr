@@ -17,39 +17,37 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Calypso erecta G. Don, Mill. Gard. Dict. 1: 629 (1831).
 
 – Salacia alpestris CHEV., Expl. Bot. 1: 133 (1920).
 
-Cette espèce variable a été abusivement morcelée ; les caractères principaux de la variation sont : sépales à marges entières ou ± glandulières ; pédicelles lisses ou ± verruculeux ; sommet échancré ou un peu apiculé de l'anthère ; ovules par 2 ou plus de 2 par loge ; taille du fruit et surtout relief variables (les récoltes de KLAINE ont des fruits de 3 cm à surface bosselée verruqueuse) ; plantes ripicoles ou non. Compte tenu de l'intérêt taxonomique limité des variétés et formes, on peut en proposer la clé provisoire suivante : pour le Cameroun et le Gabon.
+This variable species has been unduly fragmented; the principal characters of variation are: sepals with entire or ± glandular margins; pedicels smooth or ± verruculous; anther apex emarginate or somewhat apiculate; ovules 2 or more than 2 per locule; fruit size and especially surface relief variable (collections by KLAINE have fruits of 3 cm with bumpy verrucose surface); ripicole or non-ripicole plants. Given the limited taxonomic interest of varieties and forms, a provisional key may be proposed as follows: for Cameroon and Gabon.
 
-1. Fascicules 1-3-flores et boutons plutôt étroits ; pédicelles lisses ; 2 ovules par loge
+1. Fascicles 1–3-flowered and buds rather narrow; pedicels smooth; 2 ovules per locule
 
 ..... 22d. var. kabweensis.
 
-1'. Plantes ne présentant pas l'ensemble de ces caractères.
+1'. Plants not presenting all of these characters.
 
-2. Pédicelle floral lisse ou presque lisse.
+2. Floral pedicel smooth or nearly smooth.
 
-3. Plus de 2 ovules par loge ..... 22a. var. erecta.
+3. More than 2 ovules per locule ..... 22a. var. erecta.
 
-3'. Seulement 2 ovules par loge ..... 22b. var. leonardii.
+3'. Only 2 ovules per locule ..... 22b. var. leonardii.
 
-2'. Pédicelle floral désément pustuleux verruculeux .. 22 c. var. dewildemaniana.
+2'. Floral pedicel distinctly pustulous verruculous .. 22c. var. dewildemaniana.
 
 22a. var. erecta
 
-Liane de 4,5-15 m de hauteur, dépourvue de caoutchouc et glabre ; bois à contour sinueux en coupe, orné de stries de parenchyme concentriques presque régulières et espacées de 2,5-5 mm. Jeunes entre-nœuds
+Liane 4.5–15 m tall, devoid of rubber and glabrous; wood with sinuous contour in cross-section, adorned with striae of almost regular concentric parenchyma spaced 2.5–5 mm apart. Young internodes
 
-PL. 31. - Salacia erecta (G. Don) Walp.: 1-4, boutons; 5-7, fleurs, diam. 7 mm; 8-11, pétales, longueurs 3,5-4,5 mm; 12-16, disque, diam. 1,5-2,3 mm; 17-20, anthères; 21-25, loges 2-6-ovulées; 26-29, fruits, diam. 9, 26, 19 et 21 mm (fa. leopardii: 1, 6, 12, 17, 21, 26, Hallé N. 1753; 7, 20, Hallé N. 1817; 11. Klaine 2648 - var. dewildemaniana: 2, 13, 22, Letouzey & Villiers J.-F. 10402; 8, 15, 23, Evrard 1952; 9, 18, Bos 4585; 16, 24, Breteler & al. 288 - var. erecta: 3, 10, 19, 25, Letouzey 13266; 4, 5, 14, Le Testu 8681; 27, Hallé N. 346, Côte-d'Ivoire; forme à gros fruits, 28, 29, Klaine 2959).
+PL. 31. - Salacia erecta (G. Don) Walp.: 1–4, buds; 5–7, flowers, diam. 7 mm; 8–11, petals, lengths 3.5–4.5 mm; 12–16, disc, diam. 1.5–2.3 mm; 17–20, anthers; 21–25, locules 2–6-ovulate; 26–29, fruits, diam. 9, 26, 19 and 21 mm (var. leonardii: 1, 6, 12, 17, 21, 26, Hallé N. 1753; 7, 20, Hallé N. 1817; 11, Klaine 2648 - var. dewildemaniana: 2, 13, 22, Letouzey & Villiers J.-F. 10402; 8, 15, 23, Evrard 1952; 9, 18, Bos 4585; 16, 24, Breteler & al. 288 - var. erecta: 3, 10, 19, 25, Letouzey 13266; 4, 5, 14, Le Testu 8681; 27, Hallé N. 346, Ivory Coast; form with large fruits, 28, 29, Klaine 2959).
 
-lisses ou ± micropustuleux, anguleux ou ± ornés d'arêtes. Feuilles opposées à subopposées. Pétiole de 1,5-5 mm, à marges du canal ondulées. Limbe le plus souvent olivâtre ou olivacé, ± discolore à sec, elliptique, parfois sublancéolé, de 4-15 × 1,5-5 cm, aigu à arrondi à la base, à marges dentées crénelées, à sommet acuminé; 7-10 paires de nervures secondaires.
+smooth or ± micropustulous, angular or ± ornamented with ridges. Leaves opposite to subopposite. Petiole 1.5–5 mm, with undulate canal margins. Blade most often olivaceous or olive-colored, ± discolorous when dry, elliptic, sometimes sublanceolate, 4–15 × 1.5–5 cm, acute to rounded at base, with crenate-dentate margins, acuminate apex; 7–10 pairs of secondary nerves.
 
-Fascicules floraux axillaires sessiles, pauci- à multiflores. Boutons ovés de 2,5-3,6 × 2-3 mm, vert pâle. Pédicelles de 3-7(-9) mm, lisses ou verruculeux. Calice vert pâle à 5 lobes subaigus ou ± arrondis, ciliés glanduleux ou non, parfois ± marginés ou craquelés, lisses ou ruguleux bosselés. Corolle étalée, à (4)5 pétales jaunes, jaune verdade ou verts, oblongs ou elliptiques, de 2,9-5 × 1,5-3,5 mm, un peu charnus, à marge distale amincie parfois en cuiller. Disque en coussin subglobuleux de 1,5-2,3 mm de diamètre. Étamines insérées sans sillon périgyne, à filets étroits à la base ; anthères larges de 0,6-1 mm, à loges obliques, à som- met échancré ou plus rarement un peu apiculé. Pistil pyramidal ; loges enfoncées de 1/4-3/4 par rapport à l'androcée, à 2-4(-6) ovules par loge, plutôt superposés. Disque + pistil = 2-3 mm de hauteur, de couleur verte ou brune.
+Floral fascicles axillary sessile, pauci- to multiflowered. Buds ovate 2.5–3.6 × 2–3 mm, pale green. Pedicels 3–7(–9) mm, smooth or verruculous. Calyx pale green with 5 subacute or ± rounded lobes, glandular-ciliate or not, sometimes ± margined or cracked, smooth or rugose-bumpy. Corolla spreading, with (4)5 yellow, yellowish-green or green petals, oblong or elliptic, 2.9–5 × 1.5–3.5 mm, somewhat fleshy, with distal margin thinned sometimes spoon-like. Disc cushion-shaped subglobose 1.5–2.3 mm diameter. Stamens inserted without perigynous groove, with filaments narrow at base; anthers 0.6–1 mm wide, with oblique locules, apex emarginate or more rarely somewhat apiculate. Pistil pyramidal; locules sunken 1/4–3/4 relative to androecium, with 2–4(–6) ovules per locule, rather superposed. Disc + pistil = 2–3 mm tall, green or brown in color.
 
-Fruit trigone avant maturité, puis presque globuleux, de 1-3 cm de diamètre, conservant en général un sommet± triédrique, la base étant largement arrondie, rouge ou orangé à maturité, à 1-4 graines. - Pl. 31, p. 113 ; pl. 41, fig. 3, p. 143.
+Fruit trigonous before maturity, then nearly globose, 1–3 cm diameter, generally retaining a ± triedric apex, base broadly rounded, red or orange at maturity, with 1–4 seeds. - Pl. 31, p. 113; pl. 41, fig. 3, p. 143.
 
 ## Type
 
@@ -57,11 +55,9 @@ G. Don s.n., Sierra Leone (BM!, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The type was analyzed by WILCZEK: it presents more than 2 ovules per locule. However, a fact that appears to have been overlooked by WILCZEK, is the coexistence in that country of Salacia quite similar but having only 2 ovules per locule (Thomas 7087, P! ex K). These latter would correspond strictly to S. leonardii Wilczek var. kivuensis Wilczek. In reality not only is the number of ovules variable but also the ornamentation of the branches, and this both in West Africa and in equatorial Africa. The collection Le Testu 8681 presents 2 or 3 ovules per locule $ 2 + 3 + 3 $, twice; $ 2 + 2 + 3 $, once; on 3 flowers analyzed).
 
-Le type a été analysé par WILCZEK : il présente plus de 2 ovules par loge. Pourtant, un fait qui paraît ignoré de WILCZEK, est la coexistence en ce pays, de Salacia tout à fait semblables mais ayant seulement 2 ovules par loge (Thomas 7087, P! ex K). Ces derniers correspondraient au sens strict au S. leonardii Wilczek var. kivuensis Wilczek. En réalité non seulement le nombre d'ovules est variable mais aussi l'ornementation des rameaux, et cela aussi bien en Afrique occidentale qu'en Afrique équatoriale. La récolte Le Testu 8681 présente 2 ou 3 ovules par loge  $ 2 + 3 + 3 $, deux fois;  $ (2 + 2 + 3 $, une fois; sur 3 fleurs analysées).
-
-Guinée, Sierra Leone, Liberia, Côte-d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Centrafrique, Congo, Zaire, Angola, Ouganda, Tanzanie, Zambie.
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Central African Republic, Congo, Zaire, Angola, Uganda, Tanzania, Zambia.
 
 ## Specimens examined
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-P. reticulatus auct. non Poir. (voir Note taxonomique ci-dessous). Arbuste atteignant 3–4 m de hauteur , parfois lianescent, à jeunes tiges souvent pubes centes à poils mous et pluricellulaires . Stipules ± étroitement triangulaires, 1–3 mm de longueur, fimbriées-ciliées, sur des axes orthotropes, parfois un peu accrescentes et spi nescentes. Feuille : pétiole 2–2,5 mm ; limbe ovale à oblancéolé, (1–)2–5(–7) × (0,5–)1–2,5 Fleur mâle en coupe. ‒ E. Fleur femelle. ‒ F. Rameau avec fruits. (A : Bissiengou et al. 310 ; B ‒ D : Wieringa 1235 ; E, F : van Bergen 487 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
-
-cm, arrondi ou parfois subcordé à la base, aigu au sommet, glabre ou à poils mous et pluricellulaires, surtout en dessous ; nervures latérales 8–10 paires, nervation tertiaire souvent bien réticulée. Inflorescence bisexuée . Fleurs monoïques. Fleur mâle : pédicelle 2–5 mm ; sépales 5 , inégaux, (1,5–)2–2,3 × 1,5–2 mm ; disque formé de segments alter nisépales ; étamines 5 , les 2(–3) externes à filet ± libre, les 3(–2) centrales à filet soudé en colonne de ± 1 mm de longueur. Fleur femelle : pédicelle 1–1,25 mm ; sépales 5 , inégaux, 1,15–3,4 × 0,8–2,2 mm ; disque comme chez la fleur mâle ; ovaire lisse, formé de 6–12 carpelles avec autant de styles bifides dès la base . Fruit indéhiscent, subglobuleux, ± déprimé, (7–)8,5–9,5 mm de diamètre, charnu , violacé, à 12–24 graines. Graines planoconvexes, à tégument noirâtre et réticulé sur le sec.
+P. reticulatus auct. non Poir. (see Taxonomic Note below). Shrub reaching 3–4 m in height, sometimes scandent, with young stems often pubescent with soft, multicellular hairs. Stipules ± narrowly triangular, 1–3 mm long, fimbriate-ciliate, on orthotropic axes, sometimes slightly accrescent and spinescent. Leaf: petiole 2–2.5 mm; blade ovate to oblanceolate, (1–)2–5(–7) × (0.5–)1–2.5 cm, rounded or sometimes subcordate at base, acute at apex, glabrous or with soft, multicellular hairs, especially beneath; lateral veins 8–10 pairs, tertiary venation often well reticulate. Inflorescence bisexual. Flowers monoecious. Male flower: pedicel 2–5 mm; sepals 5, unequal, (1.5–)2–2.3 × 1.5–2 mm; disk formed of segments alternating with sepals; stamens 5, the 2(–3) outer ones with ± free filament, the 3(–2) central ones with filaments fused into a column ± 1 mm long. Female flower: pedicel 1–1.25 mm; sepals 5, unequal, 1.15–3.4 × 0.8–2.2 mm; disk as in male flower; ovary smooth, formed of 6–12 carpels with as many bifid styles from the base. Fruit indehiscent, subglobose, ± depressed, (7–)8.5–9.5 mm in diameter, fleshy, violet, with 12–24 seeds. Seeds planoconvex, with blackish and reticulate testa when dry. Male flower in section. ‒ E. Female flower. ‒ F. Branch with fruits. (A: Bissiengou et al. 310; B–D: Wieringa 1235; E, F: van Bergen 487). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce africaine, largement répandue de la Mauritanie à l’Éthiopie, le Mo zambique et la Namibie ; au Gabon, présente dans les provinces de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+African species, widely distributed from Mauritania to Ethiopia, Mozambique and Namibia; in Gabon, present in the provinces of Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétation secondaire, souvent sur terrains humides ; au Gabon, à 0–300 m d’altitude. Usage : En Afrique, la plante sert à plusieurs traitements médicinaux (voir Maroyi 2008). Les fruits sont comestibles. Le fruit, l’écorce et les racines donnent un colorant rouge qui sert au tannage et à la teinture des lignes et des filets de pêche. Le bois se prête aux constructions locales et comme bois de feu ou petit bois ; il produit un charbon de bois de bonne qualité
+Secondary vegetation, often on humid soils; in Gabon, at 0–300 m altitude. Uses: In Africa, the plant serves for several medicinal treatments (see Maroyi 2008). The fruits are edible. The fruit, bark and roots yield a red dye used for tanning and dyeing fishing lines and nets. The wood is suitable for local constructions and as firewood or kindling; it produces charcoal of good quality.
 
 ## Vernacular names
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. IFAN, ser. A, 21 (3): tab. 84 (1959); Pollen & Spores 2 (1): 12 (1980); Mém. IFAN 64: 156 (1962); OBATON, Les lianes ligneuses, Thèse: 111 (1960); IRVINE, WGP: 461 (1961).
 
-Bull. IFAN, sér. A, 21 (3): tab. 84 (1959); Pollen & Spores 2 (1): 12 (1980); Mém. IFAN 64: 156 (1962); OBATON, Les lianes ligneuses, Thèse: 111 (1960); IRVINE, WGP: 461 (1961).
+Shrub of 1.20 m, exceptional case, or more often a woody vine reaching up to 30 m, glabrous and devoid of rubber, with young internodes lenticellate. Wood showing concentric striations in cross-section. Leaves opposite or subopposite. Petioles of (3)4–14 mm, with a channel that is barely marked but rather broad. Blade discolorous, dull and often greyish-olivaceous when dry on the upper surface, (9)12–25 × (2.5)3.5–10 cm, with acute or subobtuse base, sublanceolate or ± acuminate apex, with entire margins (rarely slightly dentate: form probably juvenile in Jacques-Félix s.n., Guinea). Midvein without relief on the upper surface when dry; (4)5–8(9) pairs of secondary veins; the intersecondary veins are somewhat subparallel and subtransverse.
 
-Arbuste de 1,20 m, cas exceptionnel, ou plus souvent liane élevée jusqu'à 30 m, glabre et dépourvue de caoutchouc, à jeunes entre-nœuds lenticellés. Bois montrant en coupe des stries concentriques. Feuilles opposées ou subopposées. Pétioles de (3)4-14 mm, à canal peu marqué mais plutôt large. Limbe discolore, à sec terne et souvent gris olivâtre dessus, de (9)12-25 × (2,5)3,5-10 cm, à base aiguë ou subobtuse, à sommet sublancéolé ou ± acuminé, à marges entières (rarement un peu dentées : forme probablement juvénile chez Jacques-Félix s.n., Guinée). Nervure médiane sans relief dessus à sec ; (4)5-8(9) paires de nervures secondaires ; les intersecondaires sont un peu subparallèles et subtransverses.
+PL. 13. – Salacia regeliana J. Braun & K. Schum.: 1, bud; 2, calyx seen from below; 3, flower, diam. 22 mm; 4, section of disc, diam. 6.5 mm; 5, anther; 6, staminate filament in dorsal view; 1, 8 mm; 7, pluriovulate locules; 8, mature fruit, 11 × 5.5 cm; 9, seed of 3.5 cm (1–5, Hallé N. 1118; 5, Hallé N. 1360; 6, Le Testu 7991; 7, Hallé N. 2050; 8, 9, Hallé N. 3930). – S. zenkeri Loes.; 10, bud; 11, calyx seen from below; 12, sepal 2.5 mm broad; 13, flower, diam. 19 mm; 14, section of disc, diam. 2.1 mm; 15–17, anther and staminate filament; 18, pluriovulate locules; 19, mature fruit 9.5 × 4.3 cm (10, 15, 17, 18, Walker s.n.; 11–14, 16, 16, Zenker 34; 15, Mangenot s.n., and 19, Hallé N. 110, Côte d'Ivoire).
 
-PL. 13. – Salacia regeliana J. Braun & K. Schum.: 1, bouton; 2, calice vu par dessous; 3, fleur, diam. 22 mm; 4, coupe du disque, diam. 6,5 mm; 5, anthère; 6, étimane en vue dorsale; 1, 8 mm; 7, loges pluriovulees; 8, fruit mùr, 11 × 5.5 cm; 9, graine de 3.5 cm (1-5, Hallé N. 1118; 5, Hallé N. 1360; 6, Le Testu 7991; 7, Hallé N. 2050; 8, 9, Hallé N. 3930). – S. zenkeri Loes.; 10, bouton; 11, calice vu par dessous; 12, sépale large de 2.5 mm; 13, fleur, diam. 19 mm; 14, coupe du disque, diam. 2,1 mm; 15-17, anthère et étimane; 18, loges pluriovulees; 19, fruit mùr de 9.5 × 4.3 cm (10, 15, 17, 18, Walker s.n.; 11-14, 16, 16, Zenker 34; 15, Mangenot s.n., et 19, Hallé N. 110, Côté d'Ivoire).
+Inflorescences uni-, pauci- or multiflorous (up to more than 15 flowers on a bractiolate glomule subsessile, sometimes divided, axillary, generally at leafy nodes. Pedicel of (14)20–35(46) mm. Bud short and rather broad, 5–6 mm in diameter, with petals very broadly imbricate. Flower rotate yellow-green, waxy in appearance, ochraceous or ± orange, 12–20 mm in diameter. Calyx with unequal sepals, orbicular or ovate, 2.2–3 mm broad, entire or with margin slightly denticulate. Petals suborbicular juxtaposed or somewhat spaced at the base, (5)6–10 mm. Disc yellow or pale green 2–5 mm in diameter, subpentagonal, flat and spreading, margined, without perigynous groove. Stamens 1–2 mm, with filaments widened but spaced at the base; anther with transverse dehiscence and confluent locules in a simple theca 0.5–1 mm in width. Pistil triquetrous 1–2 mm in height, with punctiform stigma; locules half-sunken with 4–7 ovules each arranged in two rows.
 
-Inflorescences uni-, pauci- ou multiflores (jusqu'à plus de 15 fleurs sur un glomérule bractéolé subsessile, parfois divisé, axillaire, généralement à des nœuds feuillés. Pédicelle de (14)20-35(46) mm. Bouton court et plutôt large, de 5-6 mm de diamètre, à pétales très largement coiffés les uns par les autres. Fleur rotacée jaune vert, d'aspect cireux, ocracé ou± orangé, de 12-20 mm de diamètre. Calices à sépales inégaux, orbiculaires ou ovés, larges de 2,2-3 mm, entiers ou à marge un peu denticulée. Pétales suborbiculaires juxtaposés ou un peu espacés entre eux à la base, de (5)6-10 mm. Disque jaune ou vert pâle de 2-5 mm de diamètre, subpentagonal, plat et étalé, marginé, sans sillon périgyne. Étamines de 1-2 mm, à filets élargis mais espacés à la base ; anthère transversalement déhiscente à loges confluentes en thèque simple de 0,5-1 mm en largeur. Pistil triédrique de 1-2 mm de hauteur, à stigmate ponctiforme ; loges demi-enfoncées à 4-7 ovules chacune sur deux rangs.
-
-Fruit ovale ou elliptique, aux extrémités obtuses ou au contraire atténuées, de 4,5-9,5 × 3-4,3 cm, à 3 côtes étroites un peu saillantes, lisse ou à peine verruculeux, rouge vif à maturité et contenant un nombre variable de graines. Jeunes fruits avec les pièces florales un peu persistantes (Leeuwenberg 8069). – Pl. 13, fig. 10-19, p. 47.
+Fruit oval or elliptic, with obtuse or conversely attenuate extremities, 4.5–9.5 × 3–4.3 cm, with 3 narrow ridges somewhat prominent, smooth or barely verruculose, bright red at maturity and containing a variable number of seeds. Young fruits with floral parts somewhat persistent (Leeuwenberg 8069). – Pl. 13, fig. 10–19, p. 47.
 
 ## Type
 
@@ -37,15 +35,13 @@ Conrau 104, Cameroun, près Tale, région de Mamfe, pays Bamiléké, (fl. avril)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A very closely related species is S. bangalensis Vermoesen ex Wilczek, from central Zaire and Kivu, which differs essentially only in its number of ovules of 2 per locule, its somewhat smaller stamens and its somewhat more distinct perigynous groove; it could, pending the discovery of transitional characters, be considered as a subspecies of S. zenkeri. On the other hand S. pierlotii Wilczek must be given as a synonym of S. bangalensis; analysis of two developed flowers of the type, Pierlot 919 (BR), showed only two ovules per locule and not (3)4; as for the persistence of the perianth on the young fruit, this is also observed in Troupin 4655 (BR), with 2 ovules per locule, classified as bangalensis.
 
-Une espèce très voisine est le S. bangalensis Vermoesen ex Wilczek, du Zaïre central et du Kivu, qui ne diffère essentiellement que par son nombre d'ovules de 2 par loge, ses étamines un peu plus petites et son sillon périgyne un peu plus net ; elle pourrait, sous réserve de la découverte de caractères de transition, être considérée comme une sous-espèce du S. zenkeri. D'autre part le S. pierlotii Wilczek doit être donné comme synonyme du S. bangalensis ; l'analyse de deux fleurs nouées du type, Pierlot 919 (BR), n'a montré que deux ovules par loge et non (3)4 ; quant à la persistance du périanthe sur le jeune fruit, elle s'observe aussi chez Troupin 4655 (BR), à 2 ovules par loge, classé comme bangalensis.
+From Guinea (Jacques-Félix s.n., environs of Kindia), Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon and Zaire.
 
-De la Guinée (Jacques-Félix s.n., env. de Kindia), Sierra Leone, Liberia, Côte-d'Ivoire, Ghana, Nigeria, Cameroun, Gabon et Zaïre.
+It is typically a large vine of dense humid forest threatened by the rotation of deforestation, especially as it seems to fruit rather rarely.
 
-C'est typiquement une grande liane de forêt dense humide menacée par la rotation des déboisements d'autant qu'elle semble fructifier plutôt rarement.
-
-Espèce décrite dans le même groupe que le S. preussii et donnée comme apparentée aux S. regeliana et zenkeri.
+Species described in the same group as S. preussii and given as related to S. regeliana and zenkeri.
 
 ## Specimens examined
 

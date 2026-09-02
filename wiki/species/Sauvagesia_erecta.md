@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne ; tige dressée ou couchée-radicante puis ascendante , 5–40(–60) cm de hauteur. Stipules 4–7(–8) mm de longueur. Feuille : pétiole 0–4 mm ; limbe étroitement elliptique à étroitement elliptique-obovale, (0,4–)0,7–4(–6) cm × (2–)3–9(–12) mm, cunéé à la base, obtus à aigu ou courtement apiculé au sommet, à marge crénelée-serretée ; nervures secondaires proéminentes dessus. Fleurs axillaires, solitaires ou rarement fasciculées par 2 ou 3 ; pédicelle (5–)8–25 mm, articulé à 0–2 mm de la base ; sépales lancéolés, 3–8 × 1–3 mm, aigus à apiculés au sommet ; pétales obovales, 4–8 × 3–6 mm, onguiculés, blancs à roses ; étamines à filet de 0,5 mm, anthères oblongues, 2–2,5 mm de longueur ; staminodes en 2 verticilles , l’interne à 5 staminodes pétaloïdes de 2–5 × 1–1,5 mm, l’externe à nombreux éléments filiformes de 1–2 mm à sommet réniforme à triangulaire ; ovaire ovoïde à subconique, 1 mm de longueur ; style 1–4 mm. Fruit ovoïde, 3,5–7 × 2–3 mm. Graine ellipsoïde à ellipsoïde-oblongue, 0,7 × 0,4 mm, brune à brun orangé.
+Annual or perennial herb; stem erect or prostrate-rooting then ascending, 5–40(–60) cm tall. Stipules 4–7(–8) mm long. Leaf: petiole 0–4 mm; blade narrowly elliptic to narrowly elliptic-obovate, (0.4–)0.7–4(–6) cm × (2–)3–9(–12) mm, cuneate at base, obtuse to acute or shortly apiculate at apex, with crenate-serrate margin; secondary veins prominent above. Flowers axillary, solitary or rarely fascicled in pairs or threes; pedicel (5–)8–25 mm, articulate 0–2 mm from base; sepals lanceolate, 3–8 × 1–3 mm, acute to apiculate at apex; petals obovate, 4–8 × 3–6 mm, unguiculate, white to pink; stamens with filament 0.5 mm, anthers oblong, 2–2.5 mm long; staminodes in 2 whorls, the inner with 5 petaloid staminodes 2–5 × 1–1.5 mm, the outer with numerous filiform elements 1–2 mm with reniform to triangular apex; ovary ovoid to subconical, 1 mm long; style 1–4 mm. Fruit ovoid, 3.5–7 × 2–3 mm. Seed ellipsoid to ellipsoid-oblong, 0.7 × 0.4 mm, brown to orange-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-herbe probablement pantropicale ou bien introduite au Pacifique, en Afrique du Sénégal jusqu’au Soudan et la Tanzanie, au sud jusqu’en Angola, au Mozambique et à Madagascar ; au Gabon, commune et présente dans toutes les provinces
+herb probably pantropical or introduced to the Pacific, in Africa from Senegal to Sudan and Tanzania, south to Angola, Mozambique and Madagascar; in Gabon, common and present in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, marais, bords des lacs, rivières et routes, inselbergs ; au Gabon, jusqu’à 650 m d’altitude, ailleurs jusqu’à 2100 m. Note taxonomique : L’espèce a été divisée en deux sous-espèces. Le matériel africain appartient à la sous-espèce-type . b : Bamps & Farron (1967), Robson (1963), Sastre (1971), Verdcourt (2005). ibliographie
+savanna, marshes, margins of lakes, rivers and roads, inselbergs; in Gabon, up to 650 m altitude, elsewhere up to 2100 m. Taxonomic note: The species has been divided into two subspecies. The African material belongs to the typical subspecies. b: Bamps & Farron (1967), Robson (1963), Sastre (1971), Verdcourt (2005). Bibliography
 
 ## Notes
 

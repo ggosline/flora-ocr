@@ -21,7 +21,7 @@ Adansonia, sér. 2, 14(2): 273 (1974). Inversodicraea bifurcata Engl., Veg. Erde
 
 ## Distribution
 
-South Cameroon, Gabon and south of the Republic of the Congo; in Gabon, known from the Estuary (Kinguélé) and the Ogooué-Lolo
+South Cameroon, Gabon and south of the Republic of the Congo; in Gabon, known from the Estuaire (Kinguélé) and the Ogooué-Lolo
 
 ## Ecology
 

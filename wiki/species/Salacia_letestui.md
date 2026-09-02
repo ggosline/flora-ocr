@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. IFAN, sér. A, 21 (3): tab. 81 (1959); Pollen & Spores 2 (1): 11 (1960); Mém. IFAN 64: 153 (1962). Note: PELLEGRIN had superfluously given a new name to the same species fearing confusion with Salacia letestuana Pellegrin, 1922; the latter remains the basionym of Salacighia letestuana (Pellegrin) Blakelock.
 
-Bull. IFAN, sér. A, 21 (3): tab. 81 (1959); Pollen & Spores 2 (1): 11 (1960); Mém. IFAN 64: 153 (1962). Nota: PELLEGRIN avait
+Liane exceeding 25 m in height, lacking rubber. Wood 16 mm in diameter, pale yellow with 2 concentric rings of parenchyma. Juvenile branchlets glabrous and smooth, brown, the youngest somewhat compressed at the nodes with 4 fine ridges. Leaves opposite or slightly subopposite. Petioles 6–8(10) × 1–1.5 mm, very finely ribbed when dry, with a straight or nearly straight, rather narrow channel. Limbs oblong-elliptic, 9–17 × 4–8 cm, weakly dentate or entire, papyraceous, very dark and subconcolorous when dry, with base briefly cuneiform and almost rounded, with apex sublanceolate or acuminate for 5–17 mm. Midvein in a narrow ridge within a furrow to about the midpoint of the limb; 7–9(11) pairs of secondary veins; dense, very fine and well-apparent reticulation on both surfaces when dry.
 
-donné de façon superflue un nom nouveau à la même espèce craignant une confusion avec le Salacia letestuana Pellegrin, 1922 ; ce dernier reste le basionyme du Salacighia letestuana (Pellegrin) Blakelock.
+Axillary glomerules uni- to triflorous, sessile. Pedicels 6–16 mm. Bud large, approximately 6 mm, and very short, black when dry. Flower rotate, 12–15 mm in diameter, orange or yellow, sometimes somewhat greenish or ochraceous, black when dry except for the margins of the perianth parts which remain pale. Calyx 6–7 mm wide, with 5 subapically ± fleshy sepals, with thin, denticulate and ± glandular margins. Petals 5, orbicular, subunguiculate, 5–7 mm in diameter. Disk pentagonal, 4–5 mm in diameter, weakly patellifiform or entirely spread out and not thick; no perigynous furrow. Stamens 3, 1–1.3 mm, spaced, with filament slightly enlarged at the base; anther reniform with a weakly broken transverse line of dehiscence. Style very short with punctiform stigma. Ovary locules half-sunken below the upper level of the disk and each containing (3)4–5(6) ovules.
 
-Liane dépassant 25 m de hauteur, dépourvue de caoutchouc. Bois de 16 mm de diamètre, jaune pâle à 2 cercles concentriques de parenchyme. Rameaux juvéniles glabres et lisses, bruns, les plus jeunes un peu comprimés aux nœuds avec 4 fines arêtes. Feuilles opposées ou légèrement subopposées. Pétioles de 6-8(10) × 1-1,5 mm, très finement chaînes à sec, à canal droit ou presque, plutôt étroit. Limbes oblongs elliptiques, de 9-17 × 4-8 cm, faiblement dentés ou entiers, papyracés, très foncés et subconcolores à sec, à base brièvement cunéiforme et presque arrondie, à sommet sublancéolé ou acuminé sur 5-17 mm. Nervure médiane en étroite crête dans un sillon jusque vers la mi-longueur du limbe ; 7-9(11) paires de nervures secondaires ; dense réticule très fin et bien apparent sur les deux faces à sec.
-
-Glomérules axillaires uni- à triflores sessiles. Pédicelles de 6-16 mm. Bouton large, environ 6 mm, et très court, noir à sec. Fleur rotacée de 12-15 mm de diamètre, orangée ou jaune, parfois un peu verdâtre ou ocracée, noire à sec sauf les marges des pièces périanthaires qui restent pâles. Calice de 6-7 mm de largeur, à 5 sépales ± charnus subapicalement, à marge mince, denticulée et ± glandulifère. Pétales 5 orbiculaires subonguiculés, de 5-7 mm de diamètre. Disque pentagonal, de 4-5 mm de diamètre, faiblement patelliforme ou tout à fait étalé et peu épais ; pas de sillon périgyne. Étamines 3 de 1-1,3 mm, espacées, à filet un peu élargi à la base ; anthère réniforme à ligne transversale de déhiscence faiblement brisée. Style très court à stigmate ponctiforme. Loges d'ovaires demi-enfoncées sous le niveau supérieur du disque et contenant chacune (3)4-5(6) ovules.
-
-Fruit non connu. – Pl. 14, fig. 10-18, p. 51.
+Fruit unknown. – Pl. 14, fig. 10–18, p. 51.
 
 ## Type
 
@@ -37,11 +33,9 @@ Lehmbach 228, Cameroun occidental, station ripicole des environs de Buea, 1 000 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea (?: Chevalier 20381), Ivory Coast, Cameroon, Gabon and Zaire to Kivu (Troupin 4427, 4447, 4479). Species observed as a high forest liana; in swampy forests in Zaire.
 
-Guinée (? : Chevalier 20381), Côté-d'Ivoire, Cameroun, Gabon et Zaïre jusqu'au Kivu (Troupin 4427, 4447, 4479). Espèce observée comme liane de haute futaie ; en forêts marécageuses au Zaïre.
-
-La description de LOESENER montre que ce Salacia serait plus voisin du S. letestui que d'une autre des espèces à grandes fleurs, mais son calice serait différent. Pour le moment aucune nouvelle récolte ne paraît s'identifier à cette espèce mal connue. La fleur de Johnson 648 (BR ex K !), du Ghana, analysée à la suite de WILCZEK, qui ne nous paraît pas répondre à la description de cette espèce, se rapporterait plutôt au S. preussii var. louisii (voir p. 52) malgré l'opinion d'IRVINE reprise de la FWTA (WGP : 459, 1961).
+The description by LOESENER shows that this Salacia would be closer to S. letestui than to any other of the large-flowered species, but its calyx would be different. For the moment no new collection appears to be identifiable with this poorly known species. The flower of Johnson 648 (BR ex K !), from Ghana, analyzed following WILCZEK, which does not appear to us to correspond to the description of this species, would rather be referable to S. preussii var. louisii (see p. 52) despite the opinion of IRVINE taken from the FWTA (WGP: 459, 1961).
 
 ## Specimens examined
 

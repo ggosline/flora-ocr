@@ -17,25 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-JONGKIND, in BRETELER (éd.), AUWP 89 (6) 1989: 354 (1989). TYPE: Cameroun, Mt John, Mann 1795 (holo-B delet.; lecto-K; iso-P).
+JONGKIND, in BRETELER (ed.), AUWP 89 (6) 1989: 354 (1989). TYPE: Cameroon, Mt John, Mann 1795 (holo-B delet.; lecto-K; iso-P).
 
 - Byrsocarpus parviflorus (GILG) SCHELLENB., PR 103 (4, 127): 157 (1938); TROUPIN, FCBR 3: 97 (1952); EXELL & MENDONÇA, CFA 2: 150 (1954).
 
-- Santaloidella gilletii SCHELLENB., l.c.: 119 (1938); TROUPIN, l.c.: 81 (1952). TYPE: Zaïre, s.l., Gillet s.n. (anno 1909) (holo-BR).
+- Santaloidella gilletii SCHELLENB., l.c.: 119 (1938); TROUPIN, l.c.: 81 (1952). TYPE: Zaire, s.l., Gillet s.n. (anno 1909) (holo-BR).
 
-Très grande liane pouvant atteindre 35 m de longueur et 15 cm de diamètre. Rameaux profondément cannelés, en général avec du phloème intraxylaire ; jeunes rameaux pubérulents à glabres.
+Very large liane reaching up to 35 m in length and 15 cm in diameter. Branches deeply grooved, generally with intraxylary phloem; young branches puberulent to glabrous.
 
-Feuille. Pétiole long de 2,5-7 cm, rachis de 6-22 cm et pétioiules de 1-2 mm ; folioles 5-19, ovées à oblongues ou oblongues obovées, presque glabres ; sommet en général acuminé, acumen souvent émarginé ; foliole terminale 5-15 × 2-6 cm, les latérales 2-14 × 1-5 cm, asymétriques à presque symétriques. Inflorescences longues de ≤ 2 cm, pubérulentes. Pédicelles longues de 1,5-4 mm.
+Leaf. Petiole 2.5–7 cm long, rachis 6–22 cm and petiolules 1–2 mm; leaflets 5–19, ovate to oblong or oblong obovate, almost glabrous; apex generally acuminate, acumen often emarginate; terminal leaflet 5–15 × 2–6 cm, the lateral ones 2–14 × 1–5 cm, asymmetric to almost symmetric. Inflorescences ≤ 2 cm long, puberulent. Pedicels 1.5–4 mm long.
 
-Fleurs. Sépales  $ 2 \times 1.5 $ mm. Pétales  $ 5-6 \times 1.5-2.5 $ mm, connivents près de la base, imbriqués et seulement légèrement pliés dans le bouton. Étamines, les grandes longues de 2.5-5 mm, les courtes de 2-4 mm. Pistil long de 2-5 mm ; style avec quelques poils : ovaire pubescent.
+Flowers. Sepals 2 × 1.5 mm. Petals 5–6 × 1.5–2.5 mm, connivent near the base, imbricate and only slightly folded in the bud. Stamens, the large ones 2.5–5 mm long, the short ones 2–4 mm. Pistil 2–5 mm long; style with some hairs; ovary pubescent.
 
-Fruits : follicules, un seul par fleur, rarement davantage ; 25-32 × 10-15 mm, ovoïdes, aigus au sommet, glabre sauf les quelques poils du sommet, déhiscence selon une suture ventrale. Sépales sous le fruit 4-6 × 4-6 mm.
+Fruits: follicles, one per flower, rarely more; 25–32 × 10–15 mm, ovoid, acute at the apex, glabrous except for a few hairs at the apex, dehiscence along a ventral suture. Sepals below the fruit 4–6 × 4–6 mm.
 
-Graines ≤22 × ≤12 mm, testa ≈ 1/4 charnu et jaune, le reste mince, très foncé (rouge ?) et luisant ; radicule apicale, hypocotyle déjà long de 1 mm à l'intérieur de la graine.
+Seeds ≤ 22 × ≤ 12 mm, testa ≈ 1/4 fleshy and yellow, the remainder thin, very dark (red?) and shiny; radicle apical, hypocotyl already 1 mm long within the seed.
 
-Germination épigée avec forte élongation de l'hypocotyle ; racine primaire absente, cotylédons étalés et succulents ; premières feuilles pennées (sub-)verticillées. - Pl. 41, p. 129.
+Epigeal germination with strong elongation of the hypocotyl; primary root absent, cotyledons spreading and succulent; first leaves pinnate (sub-)whorled. — Pl. 41, p. 129.
 
 ## Type
 
@@ -43,15 +41,11 @@ Mann 1795, Mt. John, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique centrale et dans la partie orientale de l'Ouest africain
+Central Africa and in the eastern part of West Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses ; alt. 0-1000 m
+dense forests; alt. 0–1000 m
 
 ## Specimens examined
 
@@ -59,9 +53,7 @@ Breteler & Lemmens 8141, km 40 de Mouila à Yéno (st., Sept.), LBV, WAG. De Wil
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De nombreux spécimens sont couverts de grands poils aplatis et durs, souvent colorés de rouge ou de noir, qu'on peut trouver sur les rameaux, la feuille, le pétiole et le rachis ; ces poils sont très remarquables et entièrement différents des poils ordinaires de la plante mais on ne peut les tenir pour des artéfacts car ils sont déjà présents au stade de la plantule
+Many specimens are covered with large flattened and hard hairs, often colored red or black, which can be found on the branches, the leaf, the petiole and the rachis; these hairs are very remarkable and entirely different from the ordinary hairs of the plant but they cannot be considered artifacts since they are already present at the seedling stage
 
 ## Figures
 

@@ -21,7 +21,7 @@ Plate 26(3–8), Figure 7(A, B) Hist. pl. 10 : 132 (1888). Octopleura loeselioid
 
 ## Distribution
 
-Senegal, Mali, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Benin, Nigeria, Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Burundi, Sudan, Uganda, Angola and Madagascar; northern part of South America; in Gabon known from the coastal basin, the Ogooué-Ivindo and the Upper Ogooué
+Senegal, Mali, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Benin, Nigeria, Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Burundi, Sudan, Uganda, Angola and Madagascar; northern part of South America; in Gabon known from the coastal basin, the Ogooué-Ivindo and the Haut-Ogooué
 
 ## Ecology
 

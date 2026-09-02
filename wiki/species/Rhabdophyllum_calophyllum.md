@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Mus. Hist. Nat., Paris 8 : 216 (avril 1902). Ouratea calophylla (Hook.f.) Engl. ex Gilg in Engl. & Prantl, Nat. Pflanzenfam., éd. 1, III, 6 : 142 (1893). Campylospermum calophyllum (Hook.f.) Tiegh., J. Bot. (Morot) 16 : 42 (1902). Rhabdophyllum densum Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902).
+Bull. Mus. Hist. Nat., Paris 8 : 216 (April 1902). Ouratea calophylla (Hook.f.) Engl. ex Gilg in Engl. & Prantl, Nat. Pflanzenfam., ed. 1, III, 6 : 142 (1893). Campylospermum calophyllum (Hook.f.) Tiegh., J. Bot. (Morot) 16 : 42 (1902). Rhabdophyllum densum Tiegh., Ann. Sci. Nat., Bot., ser. 8, 16 : 322 (1902).
 
 ## Notes
 

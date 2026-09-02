@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plantes < 6,5 (-8) cm. Pseudobulbes < 2 x 0,8 cm. Feuilles < 2 x 0,18 cm, linéaires-oblancéolées, inégalement tridentées. Inflorescence < 4,5 cm, 10-flore. Fleurs jaunes. Sépale dorsal ové, apiculé. Pétales obovés, arrondis. Sépales latéraux très obliquement triangulaires-ovés, brièvement apiculés, avec une carène élevée le long de la nervure médiane sur la face externe. Labelle spatulé, entier ou très faiblement trilobé, cochléiforme sous le sommet ; lobes médian et latéraux obtus, glabres, sauf le sommet papilleux. Éperon oblong-sacciforme. - Pl. 128, p. 293.
+Plants < 6.5 (-8) cm. Pseudobulbs < 2 × 0.8 cm. Leaves < 2 × 0.18 cm, linear-oblanceolate, unequally tridentate. Inflorescence < 4.5 cm, 10-flowered. Flowers yellow. Dorsal sepal ovate, apiculate. Petals obovate, rounded. Lateral sepals very obliquely triangular-ovate, briefly apiculate, with an elevated keel along the midvein on the external surface. Labellum spatulate, entire or very weakly trilobed, cochleate below the apex; median and lateral lobes obtuse, glabrous except for the papillose apex. Spur oblong-saccate. - Pl. 128, p. 293.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Zaïre, Gabon
+Zaire, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphytic on fallen large tree, numerous small plants scattered, especially on branch
 
-alt. inconnue. Épiphyte sur grand arbre tombé, nombreux petits pieds dispersés, surtout sur branche
+PL. 128. – Polystachya batkoi Szlach. & Olsz. : A, flower and floral bract; B, labellum; C, dorsal sepal; D, petal; E, lateral sepal; F, leaf (A-F, Hallé & Villiers 5416, P).
 
-PL. 128. – Polystachya batkoi Szlach. & Olsz. : A, fleur et bractée florale ; B, labelle ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Hallé & Villiers 5416, P).
-
-MATÉRIEL ÉTUDIÉ (Carte 57) : Hallé & Villiers 5416, Monts de Cristal, Riv. Balakabo (fl. Fév.), P!. Le Testu 5036, Nzamba (fl. Oct.), P!.
+MATERIAL EXAMINED (Map 57): Hallé & Villiers 5416, Cristal Mountains, Balakabo River (fl. Feb.), P!. Le Testu 5036, Nzamba (fl. Oct.), P!.
 
 ## Figures
 

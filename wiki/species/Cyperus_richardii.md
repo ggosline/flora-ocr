@@ -23,7 +23,7 @@ Achene ellipsoid to obovoid, 1–1.6 × 0.5–0.7 mm, flattened, light to dark b
 
 ## Distribution
 
-widespread in tropical Africa, except in the driest regions; rare or poorly known in Gabon, found only in the Estuary and Ogooué-Maritime (2 collections)
+widespread in tropical Africa, except in the driest regions; rare or poorly known in Gabon, found only in the Estuaire and Ogooué-Maritime (2 collections)
 
 ## Ecology
 

@@ -23,7 +23,7 @@ Climbing herb; stem glabrous or bearing white tubercles, up to 6 m long. Tendril
 
 ## Distribution
 
-known from Gabon, south-western Republic of the Congo, western Democratic Republic of the Congo (Lower Congo) and western Angola; in Gabon, known only from the Estuary
+known from Gabon, south-western Republic of the Congo, western Democratic Republic of the Congo (Lower Congo) and western Angola; in Gabon, known only from the Estuaire
 
 ## Ecology
 

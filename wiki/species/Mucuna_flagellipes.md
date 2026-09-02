@@ -21,7 +21,7 @@ Vine, stem up to 12 m long; slender branches, up to 3 cm thick, ± glabrescent. 
 
 ## Distribution
 
-Tropical West Africa to Uganda and Angola; in Gabon, known from the Estuary, the Middle Ogooué, the Ngounié, the Nyanga, the Ogooué-Ivindo, the Ogooué-Lolo and the Woleu-Ntem.
+Tropical West Africa to Uganda and Angola; in Gabon, known from the Estuaire, the Moyen-Ogooué, the Ngounié, the Nyanga, the Ogooué-Ivindo, the Ogooué-Lolo and the Woleu-Ntem.
 
 ## Ecology
 

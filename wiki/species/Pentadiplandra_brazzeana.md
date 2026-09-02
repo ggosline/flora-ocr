@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — P. brazzeana Baill. var. longeacuminata (De Wild.) Pax & K. Hoffm., l. c.
 
 — P. gossweileri Exell, Journ. Bot. 65, suppl. : 47 (1927). — Exell & Mendonça, Consp. Fl. Angol. 1 : 340 (1951), syn. nov.

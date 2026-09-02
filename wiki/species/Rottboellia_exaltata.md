@@ -24,13 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Up to 3 m tall; leaf sheaths generally hirsute, especially toward the base, with very stiff, tubercle-based hairs. Ligule membranous, short, ciliate. Blades reaching 1.5 m long and 2.5 cm wide, scabrous on the margins and upper surface.
 
-Jusqu'à 3 m de haut; gaines foliaires généralement hirsutes, surtout vers le bas, avec des poils très raides, tuberculés à la base. Ligule membraneuse, courte, ciliée. Limbes atteignant 1,5 m de long et 2,5 cm de large, scabre sur les marges et la face supérieure.
+Racemes 5 to 15 cm long, 3 to 4 mm in diameter, pale green. Rachis articles approximately 5 mm long; pedicels somewhat shorter. Sessile spikelets approximately 6 mm long including the callus. Lower glume acute or bidentate, with 9 nerves; upper glume with 11 nerves. Lower floret with glumes lacunose, glabrous, the upper one more rigid. Upper floret with glumes somewhat shorter than those of the lower floret. Anthers 2 to 3 mm long and styles 2 mm long. Pedicellate spikelets of the same size as the sessile ones, flattened, with two male florets, or more or less reduced, those of the upper part of the racemes retaining only one glume.
 
-Racèmes de 5 à 15 cm de long, de 3 à 4 mm de diamètre, vert pâle. Articles du rachis d'environ 5 mm de long; pédicelles un peu plus courts. Épillets sessiles d'environ 6 mm de long y compris le callus. Glume inférieure aiguë ou bidentée, à 9 nervures; glume supérieure à 11 nervures. Fleur inférieure à glume elacunées, glabres, la supérieure plus rigide. Fleur supérieure à glume les peux plus courtes que celles de la fleur inférieure. Anthères de 2 à 3 mm de long et styles de 2 mm de long. Épillets pédicelles de la même taille que les sessiles aplatis, à deux fleurs mâles, ou plus ou moins réduits, ceux de la partie supérieure des racèmes ne conservant qu'une glume.
-
-Cette espèce est répandue dans toute l’Afrique intertropicale. C'est un bon fourrage à croissance rapide.
+This species is widespread throughout intertropical Africa. It is a good forage with rapid growth.
 
 ## Vernacular names
 

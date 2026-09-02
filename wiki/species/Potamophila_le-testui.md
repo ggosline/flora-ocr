@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herb 20 to 50 cm tall, with 6 or 8 internodes, very short towards the base. Leaves with sheaths longly imbricate, the lower ones with blade absent or very reduced. Sheaths glabrous or shortly pubescent, auriculate; ligule membranous about 4 mm
 
-Herbe dressée de 20 à 50 cm de haut, à 6 ou 8 entrenœuds, très court vers le bas. Feuilles à gaines longuement imbriquées, les inférieures à limbe nul ou très réduit. Gaines glabres ou courtemment pubescentes, auriculées; ligule membraneuse d'environ 4 mm
+1. A new and recent publication presents arguments that refute the above synonymy: C. E. Hubbard, Hook. Ic. Pl. VI, 4 : 3595 (1962). In light of this work, our species must therefore bear the name Maltebrunia Le-Testui (J. Koechl.) J. Koechl. comb. nov. (Bas. Potamophila Le-Testui J. Koechl. loc. cit.), = Maltebrunia gabonensis C. E. Hubb. nov. syn.
 
-1. Une nouvelle et récente publication présente des arguments qui infirment la synonymie ci-dessus : C. E. Hubbard, Hook. Ic. Pl. VI, 4 : 3595 (1962). Compte tenu de ce travail, notre espèce doit donc porter le nom de Maltebrunia Le-Testui (J. Koechl.) J. Koechl. comb. nov. (Bas. Potamophila Le-Testui J. Koechl. loc. cit.), = Maltebrunia gabonensis C. E. Hubb. nov. syn.
-
-de long, dorsalement pubescente. Limbe ovale allongé, à base rétrécie, sub-pétiolaire et articulée avec la gaine, acuminé au sommet, de 8-20 × 3 cm. Nervure principale proéminente en dessous avec environ 5 nervures parallèles bien marquées de chaque côté et encore 5 à 9 nervures plus fines entre celles-ci. Face inférieure du limbe souvent violacée, éparsement pubescente. Panicule de 15-20 cm de long à axes glabres ou pubérulents. Pédicelles de 3 mm; épilets de 8-10 × 1-1,5 mm, aplatis latéralement, hermaphrodites. Lemmas stériles respectivement de 0,5 à 1/3, et de 1 mm de long, finement pubescentes. Glumelles fertiles à plis longitudinaux très marqués de sorte qu'elles s'emboitent l'une dans l'autre. Lemma acuminée, légèrement pubescente, à 3 nervures principales plus 2 marginales. Paléa acuminée, à 3 nervures, pubescente; 6 étamines; 2 lodicules aiguës, hyalines; style court à stigmates papilleux. Cette espèce est la seule du genre dans l'Ouest africain; plante de sous-bois probablement.
+long, dorsally pubescent. Blade ovate-elongate, with base narrowed, sub-petiolate and articulate with the sheath, acuminate at apex, 8-20 × 3 cm. Main vein prominent below with about 5 parallel veins well marked on each side and still 5 to 9 finer veins between these. Lower face of blade often purplish, sparsely pubescent. Panicle 15-20 cm long with axes glabrous or puberulent. Pedicels 3 mm; spikelets 8-10 × 1-1.5 mm, flattened laterally, hermaphrodite. Sterile lemmas respectively 0.5 to 1/3, and 1 mm long, finely pubescent. Fertile paleae with very marked longitudinal folds such that they fit one into the other. Lemma acuminate, slightly pubescent, with 3 main veins plus 2 marginal ones. Palea acuminate, with 3 veins, pubescent; 6 stamens; 2 acute, hyaline lodicules; short style with papillose stigmas. This species is the only one of the genus in West Africa; probably an understory plant.
 
 ## Specimens examined
 

@@ -27,15 +27,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, tufted, culms erect, simple or ramified. Leaves with sheaths generally ciliate at the nodes, ligule ciliate, blades glabrous or shortly pubescent at the base.
 
-Herbe pérenne, en touffes, chaumes dressés, simples ou ramiﬁés. Feuilles à gaines généralement ciliées aux nœuds, ligule ciliée, limbes glabres ou courtement pubescents à la base.
+Panicle 20 to 30 cm long, rachis scabrous, pubescent at the nodes. Spikelets 2.5 to 4.5 mm long, hairs exceeding the apex by several millimetres. Lower glume hyaline, 1 mm long, long silky from the base. Upper glume with 5 nerves, with toward the middle a dense line of hairs with tuberculate base reaching 5 mm long; awn up to 3 mm. Lower lemma with an awn approximately 6 mm long; palea with keels long ciliate in their upper half. Fertile lemma with 3 or 5 scarcely visible nerves, 2 to 2.5 mm long, shortly bidentate.
 
-Panicule de 20 à 30 cm de long, rachis scabre, pubescent aux nœuds. Épilets de 2,5 à 4,5 mm de long, poils dépassant le sommet de plusieurs millimètres. Glume inférieure hyaline, de 1 mm de long, longuement soyeuse à partir de la base. Glume supérieure à 5 nervures, avec vers le milieu une ligne dense de poils à base tuberculée atteignant 5 mm de long; arête jusqu'à 3 mm. Lemma inférieure avec une arête d'environ 6 mm de long; paléa à carènes longuement ciliées dans leur moitié supérieure. Lemma fertile à 3 ou 5 nervures peu visibles, de 2 à 2,5 mm de long, courtemment bidentée.
+Species known from Angola, Congo and Tanganyika. Forage value probably mediocre.
 
-Espèce connue de l'Angola, du Congo et du Tanganyika. Valeur fourragère probablement médiocre.
-
-Au Gabon, elle se rencontre dans les savanes côtières sableuses où elle fleurit après les feux.
+In Gabon, it is found in sandy coastal savannas where it flowers after fires.
 
 ## Specimens examined
 

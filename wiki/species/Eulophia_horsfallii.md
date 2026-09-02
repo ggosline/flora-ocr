@@ -53,13 +53,13 @@ Hallé 877, Méla road, S of the Cristal Mountains (fl. Aug.), P! ; 899, edge of
 
 Hallé & Cours 5928, Ovala (fl. May), P!.
 
-Le Testu 5413, Upper Ngounyé, Nébigou (fl. Aug.), BM!, BR!, P! ; 7389, Upper Ogooué, Libreville (fl. June), BM!, BR!, P!.
+Le Testu 5413, Upper Ngounyé, Nébigou (fl. Aug.), BM!, BR!, P! ; 7389, Haut-Ogooué, Libreville (fl. June), BM!, BR!, P!.
 
 Pomeroy 67, 10 km E of Mitzic, alt. 550 m, secondary forest, marshy soil (fl. Jul.), BR!, K!.
 
 J. M. & B. Reitsma 2434, Batéké Plateaus, near Lekoni, 14° 20' E, 1° 35' S (fl. June), WAG!.
 
-Tisserant 7389, Upper Ogooué, Lastoursville (fl. June), P!.
+Tisserant 7389, Haut-Ogooué, Lastoursville (fl. June), P!.
 
 Wieringa & Haegens 2406, Ngounyé, approximately 20 km NE of Coucal-Yano, Ofoubou region, flooded riparian forest, alt. 30 m, 1° 39.9' S, 10° 04' E (fl. Mar.), WAG!
 

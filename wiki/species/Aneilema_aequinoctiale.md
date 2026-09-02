@@ -21,7 +21,7 @@ in Loudon, Hort. brit. : 15 (1830). Commelina aequinoctialis P.Beauv., Fl. Oware
 
 ## Distribution
 
-West Africa, from Guinea to Cameroon, Equatorial Guinea (Río Muni), Gabon, Republic of the Congo, Democratic Republic of the Congo, Rwanda, Burundi, Ethiopia, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe, Mozambique and South Africa; in Gabon very rare, a single collection in the Estuary (Wagny) and another in the Haut-Ogooué (Franceville, doubtful origin)
+West Africa, from Guinea to Cameroon, Equatorial Guinea (Río Muni), Gabon, Republic of the Congo, Democratic Republic of the Congo, Rwanda, Burundi, Ethiopia, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe, Mozambique and South Africa; in Gabon very rare, a single collection in the Estuaire (Wagny) and another in the Haut-Ogooué (Franceville, doubtful origin)
 
 ## Ecology
 

@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Rhytachne rottboellioides Desv. – Pl. 15, 1-4, p. 51 Fl. Gab. : 137 ; FACB 1 : 71, Pl. 4 ; FWTA : 511 ; FTEA : 843, fig. 198 ; Gram. Cam. : 526, Pl. 116 ; Poac. CI. : 672, 673 ; Gram. CB. : 329, fig. 41. – Rhytachne mannii Stapf – Fl. Gab. : 138.
 
 ## Specimens examined

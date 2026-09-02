@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou petit arbre de 5(–20) m de hauteur ; jeunes rameaux à pubescence courte, brune, puis glabres et à lenticelles blanchâtres. Stipules minuscules, moins de 1 mm de
-
-longueur. Feuille à pétiole de 2–3(–4) mm ; limbe oblong à elliptique-oblong, (3,5–)7–13 × (2–)2,5–4,5 cm, base cunéé à sub-arrondie, sommet acuminé, papyracé, glabrescent dessus, pubérulent dessous, marge régulièrement sub-crénelé-serreté, dents pourvues de quelques poils courts. Inflorescence terminale, en faux épi simple ou à plusieurs rameaux de 6–30 cm, composée de nombreuses fascicules axillaires 3–4(–7)-flores. Fleur à pédicelle de 4–9 mm ; sépales 5, lancéolés, 6–7(–10) mm de longueur, face externe couverte d’un long tomentum brun, l’interne glabrescente ; pétales 5, sub-spatulés, 8–10 mm de longueur, blanc à vert jaune, glabrescents ; couronne 1–2 mm de hauteur, laciniée, longuement poilue ; étamines à filets de 6–7 mm, anthères ± 2 mm de longueur ; gyno phore de 1,5–2 mm ; ovaire glabre ; styles ± 2 mm, glabres , sub-globuleux-réniformes. Fruit globuleux, 1–1,5(–2) cm de diamètre, glabre. Graines 4–5 par capsule, elliptiques, glabres.
+Shrub or small tree 5(–20) m tall; young branches with short, brown pubescence, then glabrous and with whitish lenticels. Stipules minute, less than 1 mm long. Leaf with petiole 2–3(–4) mm; blade oblong to elliptic-oblong, (3.5–)7–13 × (2–)2.5–4.5 cm, base cuneate to sub-rounded, apex acuminate, papyraceous, glabrescent above, puberulent below, margin regularly sub-crenulate-serrate, teeth bearing some short hairs. Inflorescence terminal, in a simple false spike or with several branches 6–30 cm, composed of numerous axillary fascicles 3–4(–7)-flowered. Flower with pedicel 4–9 mm; sepals 5, lanceolate, 6–7(–10) mm long, outer surface covered with long brown tomentum, inner surface glabrescent; petals 5, sub-spatulate, 8–10 mm long, white to yellow-green, glabrescent; crown 1–2 mm tall, laciniate, long-hairy; stamens with filaments 6–7 mm, anthers ± 2 mm long; gynophore 1.5–2 mm; ovary glabrous; styles ± 2 mm, glabrous, sub-globose-reniform. Fruit globose, 1–1.5(–2) cm diameter, glabrous. Seeds 4–5 per capsule, elliptic, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Ghana au Cameroun, Gabon, Angola, à la République Démocratique du Congo et à l’Ouganda ; rare au Gabon, connue de la Nyanga (Tchibanga) et de l’OgoouéLolo (Moughimba, région de Lastoursville)
+from Ghana to Cameroon, Gabon, Angola, the Democratic Republic of the Congo and Uganda; rare in Gabon, known from Nyanga (Tchibanga) and Ogooué-Lolo (Moughimba, Lastoursville region)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt galerie, forêt dense humide, forêt semi-décidue, forêt secondaire ; au Gabon, à environ 100–300 m d’altitude, ailleurs jusqu’à 750 m. Fleurit pendant ou après la perte des feuilles. b : Breteler (2003), De Wilde (1975), Raponda-Walker & Sillans (1961), ibliographie Sinsin (2006), Sleumer (1970, 1976)
+gallery forest, dense humid forest, semi-deciduous forest, secondary forest; in Gabon, at approximately 100–300 m altitude, elsewhere up to 750 m. Flowers during or after leaf fall. Bibliography: Breteler (2003), De Wilde (1975), Raponda-Walker & Sillans (1961), Sinsin (2006), Sleumer (1970, 1976)
 
 ## Notes
 

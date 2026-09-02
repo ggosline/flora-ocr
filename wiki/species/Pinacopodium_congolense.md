@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Nectaropetalum congolense S. Moore, Journ. Bot. London 58 : 219 (1920).
 
 — Erythroxylum congolensis (S. Moore) PHILIPS, South. Afr. Journ. Sc. 32 : 308 (1935).
 
-Arbre de 20-25 m de hauteur, glabre. Feuilles penniverves; stipules extrapétiolaires précocement caduques; pétiole long de 4-6 mm. Limbe oblong à elliptique-obové, décurrent sur le pétiole, triangulaire à caudé au sommet, 4-13 × 3-5 cm; 5 à 11 paires de nervures secondaires anastomoses entre elles, bien saillantes sur les 2 faces ainsi que les nervilles.
+Tree 20-25 m tall, glabrous. Leaves penninerved; stipules extrapetiolar, caducous early; petiole 4-6 mm long. Blade oblong to elliptic-obovate, decurrent on the petiole, triangular to caudate at the apex, 4-13 × 3-5 cm; 5 to 11 pairs of secondary veins anastomosing with each other, well-prominent on both faces as are the veinlets.
 
-Fleurs groupées en cymes subombelliformes sur un rameau court axillaire, pédonculées et insérées aux aisselles de bractées triangulaires caduques et longues d'environ 2 mm. Sépales valvaires, soudés à la base, triangulaires, longs de 1-1,5 mm. Pétales blancs imbriqués, libres, obovés, longuement onguiculés, 3-4 × 1 mm, à appendices nectarifères peu distincts sur la face ventrale et à nervure médiane saillante sur la face dorsale. Etamines alternativement longues et courtes, de 3-5 mm de longueur; filets unis à la base en un tube haut de moins de 1 mm; anthères basifixes longues de 0,5-0,75 mm, à déhiscence longitudinale, subsagittées, apiculées. Ovaire oblong, 2-loculaire, 2-2,5 × 1 mm; un ovule par loge, pendant; placentation axile; style extrêmement court; stigmate capité, bilobé.
+Flowers grouped in subumbelliform cymes on a short axillary branch, pedunculate and inserted at the axils of triangular caducous bracts approximately 2 mm long. Sepals valvate, united at the base, triangular, 1-1.5 mm long. Petals white, imbricate, free, obovate, longly ungulate, 3-4 × 1 mm, with nectariferous appendages scarcely distinct on the ventral face and with salient midvein on the dorsal face. Stamens alternately long and short, 3-5 mm in length; filaments united at the base into a tube less than 1 mm tall; anthers basifixed 0.5-0.75 mm long, with longitudinal dehiscence, subsagittate, apiculate. Ovary oblong, 2-locular, 2-2.5 × 1 mm; one ovule per locule, pendulous; axile placentation; style extremely short; stigma capitate, bilobed.
 
-Fruit mũr inconnu, probablement capsulaire. Pl. 4, 4-7, p. 21.
+Mature fruit unknown, probably capsular. Pl. 4, 4-7, p. 21.
 
 ## Type
 
@@ -35,9 +33,7 @@ Gossweiler 7773, 7939, 8184 (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts hygrophiles du Gabon et du Mayombé.
+Hygrophilous forests of Gabon and Mayombé.
 
 ## Vernacular names
 

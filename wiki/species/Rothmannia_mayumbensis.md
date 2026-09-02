@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 3-7 m tall; internodes glabrous or pilose and ± glabrescent. Stipules reduced, early caducous. Petiole 5-12 mm, hispid with a glabrous groove. Blade brownish or olive-brown when dry, glabrous above, elliptic-rhombic 9-16 × 3.7-7.5 cm, acute at base, lanceolate-acuminate at apex; the blade moderately pilose or glabrous on the lower surface, the main veins ± hispid. 6-7 pairs of arched secondary veins.
 
-Petit arbre de 3-7 m de hauteur; entrenceuds glabres ou pileux et ± glabrescents. Stipules réduites, tôt caduques. Pétiole de 5-12 mm, hispide à canal glabre. Limbe brunâtre ou brun olivâtre à sec, glabre dessus, elliptique-rhombique de 9-16 × 3,7-7,5 cm, à base aiguë, à sommet lancéolé-acuminé; le limbe est médiocrement pileux ou glabre à la face inférieure, les principales nervures étant ± hispides. 6-7 paires de nervures secondaires arquées.
+Flowers solitary arising from an internode 3-8 mm long, with a peduncle 3-7 mm bearing 4 to 6 very short externally glabrous imbricate scales. Ovary glabrous, cylindric 5-8 × 4-5 mm; calyx tube glabrous to densely and shortly pubescent internally, cylindric 6-11 × 6-7 mm; lobes very short apiculate approximately 1 mm. Corolla 20-25 cm long, finely pubescent, with tube 3-5 mm in diameter in its narrow part, with flared throat 5-7 × 2-4 cm, with suborbicular or ovate subacute lobes 2-3 cm. Anthers included sessile medifixed 40 × 1.5 mm, acute at apex, briefly split at lower end, with connective slightly laterally pubescent. Style glabrous with stigmatic club very narrowly fusiform acute exceeding the stamens by approximately 1 cm.
 
-Fleurs solitaires issues d'un entrenceud de 3-8 mm de longueur, à pedoncule de 3-7 mm portant 4 à 6 très courtes écailles embrassantes extérieurement glabres. Ovaire glabre, cylindrique de 5-8 × 4-5 mm; tube calycinal glabre à dense et courte pubescence interne, cylindrique de 6-11 × 6-7 mm; lobes très courts apiculés d'environ 1 mm. Corolle longue de 20-25 cm, finement pubescente,
-
-à tube de 3-5 mm de diamètre dans sa partie étroite, à gorge évasée de 5-7 × 2-4 cm, à lobes suborbiculaires ou ovés subaigus de 2-3 cm. Anthères incluses sessiles médifixes de 40 × 1,5 mm, à sommet atténué aigu, à extrémité inférieure brièvement fendue, à connectif un peu pubescent latéralement. Style glabre à massue stigmatique très étroitement fusiforme aiguë dépassant les étamines d'environ 1 cm.
-
-Fruit globoïde d'environ 3 cm de diamètre, très faiblement costulé longitudinalement, brun noirâtre à sec, à tube calycinal persistant. Péricarpe de moins de 1,5 mm d'épaisseur à sec dont le mince endocarpe corné. Graines subordiculaires d'environ 9 mm.
+Fruit globoid approximately 3 cm in diameter, very slightly longitudinally costulate, dark brown when dry, with persistent calyx tube. Pericarp less than 1.5 mm thick when dry with a thin horny endocarp. Seeds suborbicular approximately 9 mm.
 
 ## Type
 
@@ -37,9 +33,7 @@ Gossweiler 6874 (holotype BM!, isotype K!), du Cabinda
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Cabinda, Congo. Lisières et sous-bois forestiers.
+Gabon, Cabinda, Congo. Forest margins and understory.
 
 ## Vernacular names
 

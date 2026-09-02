@@ -18,15 +18,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-J. Bot. (Morot) 16 : 202 (juin 1902). Ouratea arnoldiana De Wild. & T.Durand in T.Durand & De Wild., Bull. Soc. Roy. Bot. Belgique 38, 2 : 30 (1900). Rhabdophyllum barteri Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum longipes Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 323 (1902). Rhabdophyllum quintasii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum staudtii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum thollonii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 323 (1902). Rhabdophyllum viancinii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 324 (1902). Ouratea longipes (Tiegh.) T.Durand & H.Durand, Syll. fl. congol. : 88 (1909). Ouratea vanderystii De Wild., Rev. Zool. Afr. 7, Suppl. Bot., B : 70 (1920). Ouratea barteri (Tiegh.) Hutch. & Dalz., Fl. W. trop. Afr., 1 re éd., 1 : 193 (1927). Ouratea staudtii (Tiegh.) Keay, Kew Bull. 1953 : 82 (1953).
+J. Bot. (Morot) 16 : 202 (June 1902). Ouratea arnoldiana De Wild. & T.Durand in T.Durand & De Wild., Bull. Soc. Roy. Bot. Belgique 38, 2 : 30 (1900). Rhabdophyllum barteri Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum longipes Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 323 (1902). Rhabdophyllum quintasii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum staudtii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 322 (1902). Rhabdophyllum thollonii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 323 (1902). Rhabdophyllum viancinii Tiegh., Ann. Sci. Nat., Bot., sér. 8, 16 : 324 (1902). Ouratea longipes (Tiegh.) T.Durand & H.Durand, Syll. fl. congol. : 88 (1909). Ouratea vanderystii De Wild., Rev. Zool. Afr. 7, Suppl. Bot., B : 70 (1920). Ouratea barteri (Tiegh.) Hutch. & Dalz., Fl. W. trop. Afr., 1st edn, 1 : 193 (1927). Ouratea staudtii (Tiegh.) Keay, Kew Bull. 1953 : 82 (1953).
 
 ## Also treated in vol 48
 
 **Pages**: 83-83 · **Source**: `sources/Ochnaceae_vol48_liteparse`
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 ron, Bull. Jard. Bot. État Bruxelles 35 : 391 (1965).
 
@@ -34,21 +30,15 @@ ron, Bull. Jard. Bot. État Bruxelles 35 : 391 (1965).
 
 **Pages**: 83-85 · **Source**: `sources/Ochnaceae_vol48_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ron, Bull. Jard. Bot. État Bruxelles 35 : 391 (1965). Arbre jusqu’à 15 m de hauteur ; tiges grêles. Stipules rapidement caduques. Feuille : pétiole 2–5 mm ; limbe étroitement elliptique à étroitement elliptique-obovale, 6,5–14(–18) × 2–4(–5) cm, cunéé á la base, acuminé á caudé au sommet, papyracé, à marge entière ou légèrement denticulée ; nervures secondaires denses, non hiérarchisées , peu saillantes dessous. Inflorescence (3–)7–13(–17) cm de longueur, avec ≥ 10 fleurs ; cymules (2–)3- à 7-flores, à axes de < 1 mm de longueur ; écailles à la base de l’inflorescence peu ou non persistantes . Fleur : pédicelle 6–11 mm ; sépales 4–6 × 2–3 mm ; pétales 4–6 mm de longueur. Fruit à pédicelle, réceptacle et sépales rouges ou rose saumon ; méricarpes réniformes , d’abord jaunes, puis noirs à maturité.
+ron, Bull. Jard. Bot. État Bruxelles 35 : 391 (1965). Tree up to 15 m tall; stems slender. Stipules rapidly caducous. Leaf: petiole 2–5 mm; blade narrowly elliptic to narrowly elliptic-obovate, 6.5–14(–18) × 2–4(–5) cm, cuneate at base, acuminate to caudate at apex, papyraceous, with margin entire or slightly denticulate; secondary veins dense, not hierarchized, slightly salient below. Inflorescence (3–)7–13(–17) cm long, with ≥ 10 flowers; cymules (2–)3- to 7-flowered, with axes < 1 mm long; scales at base of inflorescence little or not persistent. Flower: pedicel 6–11 mm; sepals 4–6 × 2–3 mm; petals 4–6 mm long. Fruit with pedicel, receptacle and sepals red or salmon-pink; mericarps reniform, initially yellow, then black at maturity.
 
 ### Distribution
 
-du Nigéria jusqu’au Soudan et l’est de la République démocratique du
-
-Fleur (× 3). – 4. Étamine (× 5). – 5. Drupéole (× 3). (1, 2 : Nannan 57 ; 3, 4 : Achten 336a ; 5 : Sapin Z1 ). Dessin par D. Leyniers, Jardin Botanique Meise (©).
-
-Congo, au Cameroun, en Guinée équatoriale, au Gabon, à Sao Tomé-et-Principe et en République du Congo ; au Gabon, peu commune, mais absente au nord-ouest et au sudouest.
+From Nigeria to Sudan and eastern Democratic Republic of the Congo, Cameroon, Equatorial Guinea, Gabon, São Tomé-and-Príncipe and Republic of the Congo; in Gabon, uncommon, but absent from the north-west and south-west.
 
 ### Ecology
 
-forêt primaire et secondaire ou fortement dégradée, sempervirente ou semidécidue, souvent le long des rivières ou lacs, parfois dans des endroits périodiquement inondés, à la lisière des forêts, stations planes ou pentues ; au Gabon et ailleurs à 0–1000 m d’altitude. Note taxonomique : R. arnoldianum est une espèce très variable et Farron (1968) a effectué une étude détaillée sur cette variation. Il avait discerné des variétés sur des caractères distinctifs, mais comme cette variation semble tout à fait continue, on ne les distingue plus aujourd’hui. b : Bamps & Farron (1967), Farron (1965, 1968, 1985), Sosef (2008). ibliographie
+Primary and secondary or heavily degraded forest, evergreen or semi-deciduous, often along rivers or lakes, sometimes in periodically flooded places, at forest margins, on level or sloping sites; in Gabon and elsewhere at 0–1000 m altitude. Taxonomic note: R. arnoldianum is a highly variable species and Farron (1968) carried out a detailed study of this variation. He had distinguished varieties based on distinctive characters, but as this variation appears entirely continuous, they are no longer distinguished today. Bibliography: Bamps & Farron (1967), Farron (1965, 1968, 1985), Sosef (2008).
 
 ## Notes
 

@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with yellow ferruginous pubescent stem. Petiole pubescent ferruginous, slightly flattened transversely, 1-1.5 cm long. Lamina subcoriaceous, broadly oblong, 20-23 × 9-10 cm, base obtuse weakly auriculate, apex provided with a triangular acumen 1 × 0.8 cm. Secondary nerves 8 pairs, very ascending for the lower ones, anastomosing near the margin of the lamina. Nervules in dense network distinctly prominent on the lower surface.
 
-Liane à tige jaune pubescente ferrugineuse. Pétiole pubescent ferrugineux, légèrement aplat transversalement, long de 1-1,5 cm. Limbe subcoriace, largement oblong, 20-23 × 9-10 cm, base obtuse faiblement auriculée, sommet pourvu d'un acumen triangulaire de 1 × 0,8 cm. Nervures secondaires 8 paires, très ascendantes pour les inférieures, s'anastomosant près du bord du limbe. Nervilles en réseau dense distinctement saillant à la face inférieure.
-
-Inflorescence spiciforme. Pétales deltoides persistants autour de la
-
-drupe. Rachis fructifère long de 10 cm. Drupe brun rouge, pubescente, devenant jaune presque rouge à l'état frais, glabre, oblongue, aplatie, bicarénée,  $ 4 \times 2 \times 1.5 $ cm, pourvue d'un stigmate trilobé. Endocarpe ridé extérieurement et hérissé de piquants à la face interne.
+Inflorescence spiciform. Petals deltoid persistent around the drupe. Fruiting rachis 10 cm long. Drupe reddish-brown, pubescent, becoming almost red yellow in fresh state, glabrous, oblong, flattened, bicarinate, 4 × 2 × 1.5 cm, provided with a trilobate stigma. Endocarp wrinkled externally and beset with spines on the inner surface.
 
 ## Type
 
@@ -31,9 +27,7 @@ Zenker 3480, Nkuambé, Cameroun, oct. 1907 (B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que par son échantillon-type aujourd'hui disparu. Nous n'avons pu faire de comparaisons avec les autres espèces du genre. Cependant la description de la feuille et du fruit semble permettre de rapprocher ce Pyrenacantha de P. glabrescens (ENGL.) ENGL.
+This species is known only from its type specimen now lost. We were unable to make comparisons with the other species of the genus. However the description of the leaf and fruit seems to allow us to bring this Pyrenacantha close to P. glabrescens (ENGL.) ENGL.
 
 ## Notes
 

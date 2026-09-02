@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Icones Pl., sér. 4, 8 : tab. 2728 (1905).
 
 - Stereospermum sinicum HANCE, J. of Bot. 20 : 16 (1882).
 
-Arbre. Rameaux cylindriques pubérulents ou avec des glandes circulaires saillantes, avec de nombreuses petites lenticelles pâles. Feuilles bi- ou tripennées, avec 4-5 paires de pennes primaires, folioles inférieures des pennes basales habituellement 3-5 foliolulées ; folioles étroitement ovées, longuement acuminées, membraneuses, plus pâles dessous, avec des glandes circulaires saillantes ou circulaires punctiformes sur les deux faces, très courtement pubérulentes dessus le long de la nervure principale.
+Tree. Branchlets cylindric, puberulent or with prominent circular glands, with numerous small pale lenticels. Leaves bi- or tripinnate, with 4–5 pairs of primary pinnae, leaflets of the basal pinnae usually 3–5 foliolulate; leaflets narrowly ovate, long-acuminate, membranous, paler beneath, with prominent circular glands or circular punctiform glands on both surfaces, very shortly puberulent above along the main vein.
 
-Inflorescence en panicule terminale dressée avec un rachis central bien développé, pubérulent à glabre. Fleurs avec un calice cupulaire-campanulé, long de 2,4-3,3 cm, irrégulièrement peu profondément 5-denté, longitudinalement un peu cannelé, avec des glandes circulaires saillantes. Corolle crème, tubulaire en forme de plateau, longue de 7-9 cm ; tube long de 6-8 cm, large de 1 cm à l'embouchure ; lobes longs de 1,5 cm environ. Pistil long de 7-10 cm.
+Inflorescence a terminal erect panicle with a well-developed central rachis, puberulent to glabrous. Flowers with a cupular-campanulate calyx, 2.4–3.3 cm long, irregularly slightly deeply 5-toothed, longitudinally somewhat channelled, with prominent circular glands. Corolla cream, tubular-platelet-shaped, 7–9 cm long; tube 6–8 cm long, 1 cm wide at the mouth; lobes approximately 1.5 cm long. Pistil 7–10 cm long.
 
-Fruit linéaire, cylindrique, long de 40-60 cm, large de 1 cm environ, spiralement tordu, longitudinalement finement strié, à glandes circulaires saillantes. Graines biaillées, longues de 5-7 mm, larges de 10-15 mm ; ailes hyalines nettement démarquées du corps brunâtre de la graine.
+Fruit linear, cylindric, 40–60 cm long, approximately 1 cm wide, spirally twisted, longitudinally finely striate, with prominent circular glands. Seeds biwinged, 5–7 mm long, 10–15 mm wide; wings hyaline distinctly demarcated from the brownish body of the seed.
 
-Originaire du sud de la Chine ; occasionnellement cultivé dans les jardins tropicaux et subtropicaux.
+Native to southern China; occasionally cultivated in tropical and subtropical gardens.
 
 ## Specimens examined
 

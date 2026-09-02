@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree about 7 m tall. Leaves glabrous, glossy, veined on both surfaces, brownish-green, undulate at the margin; leaflets often alternate; petiolules 5-10 mm, base angle 60°; apex rounded with an acumen of 15 mm.
 
-Petit arbre d'environ 7 m. Feuilles glabres, brillantes, veinées sur les 2 faces, vert brunâtre, ondulées au bord; folioles souvent alternes; pétiolules de 5-10 mm, angle de base 60°; extrémité arrondie avec acumen de 15 mm.
-
-Inflorescence parfois ramifiée à la base, dense, à cymules confluentes; pubescence du disque brunâtre. PL. 31, 1-3', p. 131.
+Inflorescence sometimes branched at the base, dense, with confluent cymules; pubescence of the disc brownish. PL. 31, 1-3', p. 131.
 
 ## Type
 
@@ -31,15 +29,11 @@ Boone 6, secteur forestier central du Zaïre
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue du Ghana (Vigne 1612) au Cameroun. RADLKOFER cite l'échantillon Gossweiler 6731 de Cabinda (non vu) donné depuis comme type de P. resendeanus.
+Species known from Ghana (Vigne 1612) to Cameroon. RADLKOFER cites the specimen Gossweiler 6731 from Cabinda (not seen) subsequently designated as the type of P. resendeanus.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-HAUMAN a décrit (Bull. Jard. Bot. État Bruxelles 28 : 107, 1958) un P. paniculatus caractérisé par de grandes inflorescences largement paniculées atteignant 40 cm avec un fort pédoncule de plus de 1 cm de diamètre. La hauteur mise à part, les autres caractères montrent une certaine parenté avec P. leptostachys: feuilles 6-juguées, pétiole de 10 cm; rachis de 20 cm; folioles de  $ 20 \times 6 $ cm à 12 paires de nervures; disque velu
+HAUMAN described (Bull. Jard. Bot. État Bruxelles 28 : 107, 1958) a P. paniculatus characterized by large inflorescences broadly paniculate reaching 40 cm with a robust peduncle more than 1 cm in diameter. Height aside, the other characters show a certain relationship with P. leptostachys: leaves 6-jugate, petiole 10 cm; rachis 20 cm; leaflets $ 20 \times 6 $ cm with 12 pairs of veins; disc pilose
 
 ## Figures
 

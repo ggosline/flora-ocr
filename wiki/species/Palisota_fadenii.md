@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Candollea 74(2) : 187 (2019). Herbe décombante à subdressée, jusqu’à 1,5 m de hauteur ; tige ne s’enracinant pas aux nœuds, rarement ramifiée , à fine pubescence étalée de couleur rouille sur toute la longueur, remarquablement plus denses sur les gaines , à poils de ± 1–2 cm, sur les pétioles de 1,5–3 cm ; entrenœuds (8–)10–20 cm. Feuilles 1 ou 2 aux nœuds (souvent réduites), au sommet en verticille de (2–)3 ou 4(–6) ; gaine 0,8–1,8 cm de longueur ; pseudopétiole 2–5 cm ; limbe lar gement elliptique, 10–13,5 × 4–6,5 cm, à sommet acuminé, à pubérulence blanchâtre dessus, à pubescence dense brunâtre dessous, surtout sur la nervure médiane. Inflorescence terminale, solitaire , érigée, dense, subglobuleuse , 3–4,5(–6) cm de diamètre, à pédoncule de 1,5–3(– 4,5) cm, donnant une impression désorganisée, avec des cincinni étalés, puis érigés lors de la fructification , à dense pubescence crépue . Fleur rosée en bouton, brunâtre à maturité (fide Sita 3711 ) ; pédicelle 2–5 mm ; sépales subégaux, à pubescence crépue dense à l’extérieur, les 2 inférieurs étroitement oblongs-elliptiques, 2 × 0,75 mm, le supérieur largement ovale et 2 mm de largeur ; pétales égaux, elliptiques, 2 × 1 mm, arrondis au sommet, glabres ; étamines inégales, les 2 supérieures à filet de 1,5 × 0,1 mm, à anthère basifixe, aplatie-ellipsoïdale, 0,9 × 0,5 mm, jaune, l’inférieure à filet de 1 × ± 0,3 mm, à anthère obovoïde-oblongoïde, ± 0,9 × 0,7–1 mm, recourbée au sommet ; staminodes peu visibles, 1 mm de longueur, composés d’un filet court couvert de longs poils en éventail, jaunes ; ovaire obovoïde, 0,5–0,75 mm de longueur, densément pubescent avec de longs poils de 1–1,5 mm, plus longs que les staminodes ; style 2,5–3 mm, glabre, lilas pâle, stigmate disciforme. Fruit ovoïde, ± 5 mm de diamètre, à sommet acuminé, rouge à maturité , avec 3 ou 4 graines. Graine mûre non vue.
+Candollea 74(2): 187 (2019). Herb decumbent to subdecumbent, up to 1.5 m tall; stem not rooting at the nodes, rarely branched, with fine spreading rust-coloured pubescence throughout its length, remarkably denser on the sheaths, with hairs of ± 1–2 cm, on the petioles 1.5–3 cm; internodes (8–)10–20 cm. Leaves 1 or 2 at the nodes (often reduced), at the apex in a whorl of (2–)3 or 4(–6); sheath 0.8–1.8 cm long; pseudopetiole 2–5 cm; blade widely elliptic, 10–13.5 × 4–6.5 cm, apex acuminate, with whitish puberulence above, with dense brownish pubescence below, especially on the midvein. Inflorescence terminal, solitary, erect, dense, subglobose, 3–4.5(–6) cm in diameter, with a peduncle of 1.5–3(–4.5) cm, giving a disorganized impression, with spreading cincinni, then erect during fruiting, with dense crisp pubescence. Flower pinkish in bud, brownish at maturity (fide Sita 3711); pedicel 2–5 mm; sepals subequal, with dense crisp pubescence on the exterior, the 2 lower ones narrowly oblong-elliptic, 2 × 0.75 mm, the upper one broadly ovate and 2 mm wide; petals equal, elliptic, 2 × 1 mm, rounded at the apex, glabrous; stamens unequal, the 2 upper ones with filament 1.5 × 0.1 mm, with basifixed anther, flattened-ellipsoidal, 0.9 × 0.5 mm, yellow, the lower one with filament 1 × ± 0.3 mm, with obovoid-oblongoid anther, ± 0.9 × 0.7–1 mm, curved at the apex; staminodes scarcely visible, 1 mm long, composed of a short filament covered with long fan-shaped yellow hairs; ovary obovoid, 0.5–0.75 mm long, densely pubescent with long hairs 1–1.5 mm, longer than the staminodes; style 2.5–3 mm, glabrous, pale lilac, stigma disciform. Fruit ovoid, ± 5 mm in diameter, apex acuminate, red at maturity, with 3 or 4 seeds. Mature seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République du Congo ; au Gabon dans la région de Libreville dans l’Estuaire et à Mounana dans le Haut-Ogooué
+Gabon and Republic of the Congo; in Gabon in the Libreville region in the Estuaire and at Mounana in the Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois, bords de piste, très rare au Gabon et ailleurs ; au Gabon de 15 à ± 500 m d’altitude. Floraison en janvier et mars ; fruits en mars
+Understory, trail edges, very rare in Gabon and elsewhere; in Gabon from 15 to ± 500 m altitude. Flowering in January and March; fruits in March
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Aucun spécimen connu de cette espèce ne présente la base de la plante, mais toutes les récoltes font état d’une plante d’environ 1,5 m de hauteur. Cette espèce semble faire partie du groupe d’espèces décombantes. P. fadenii se rapproche de P. brachythyrsa , mais en diffère par son port plus grêle, et ses inflorescences plus massives, à forte pubescence crépue, et ses fleurs au sépale inférieur largement ovale. B : Bidault & van der Burg (2019). i B liographie
+No known specimen of this species presents the base of the plant, but all collections report a plant of approximately 1.5 m in height. This species appears to be part of the group of decumbent species. P. fadenii is close to P. brachythyrsa, but differs from it by its more slender habit, and its more massive inflorescences, with strong crisp pubescence, and its flowers with the lower sepal broadly ovate. B: Bidault & van der Burg (2019). Bibliography
 
 ## Notes
 

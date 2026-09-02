@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree ca. 4 m (LE TESTU) reaching a diameter of 35 cm (HAUMAN). Leaves 4-5(-6)-jugate, with round and smooth petiole 7-10 cm, diameter 3 mm; rachis 12-18 cm; petiolules 5 mm, black, wrinkled, canaliculate; basal leaflets 8-15 × 3.5-6 cm; those of the apex 16-20 × 5.5-6.5 cm; acumen 1 cm; 10-11 pairs of veins; blade papyraceous, concolorous, olive green, upper surface glossy, lower surface dull, glabrous.
 
-Petit arbre d'env. 4 m (LE TESTU) atteignant un diamètre de 35 cm (HAU-MAN). Feuilles 4-5(-6)-juguées, à pétiole rond et lisse de 7-10 cm, diamètre 3 mm; rachis 12-18 cm; pétioules 5 mm, noirs, ridés, canaliculés; folioles basales 8-15 × 3,5-6 cm; celles du sommet 16-20 × 5,5-6,5 cm; acumen de 1 cm; 10-11 paires de nervures; limbe papyracé, concolore, vert olive, dessus brillant, dessous mat, glabre.
-
-Inflorescences axillaires ou caulinaires, en général fasciculées formées de 4-5 épis de 10-15 cm, simples ou portant jusqu'à 3-4 rameaux : axes cannelés tomentelleux roux, poils de 0,1 mm ; cymules sessiles de 3-5 fleurs avec une bractée principale et des bractéoles à chaque fleur ; pédicelles de 2-6 mm articulés au quart ou au cinquième inférieur. Calice de 5-6 mm, velu sur les deux faces; poils de 0,2-0,3 mm; pétales de 6-7,5 mm, à onglet de 2 mm arqué, velu, intérieurement; limbe voûté, denticulé au bord, glabre; écailles
-
-pectinées, velues dessous, excroissance glabre, pectinée ou non; 7-8 étamines à base velue; 3 carpelles. Fruit de 15 mm à 3 lobes, carpelles soudés sur les 4/5 de leur hauteur (HAUMAN) portant une pubescence courte et caduque. Bois jaune fibreux plus dur que le chêne (DE BRIEY). PL. 28, 8-12', p. 119.
+Inflorescences axillary or cauline, generally fasciculate formed of 4-5 spikes 10-15 cm, simple or bearing up to 3-4 branches: axes grooved, reddish tomentellous, hairs 0.1 mm; sessile cymules of 3-5 flowers with a main bract and bracteoles at each flower; pedicels 2-6 mm articulated at one quarter or one fifth from the base. Calyx 5-6 mm, hairy on both surfaces; hairs 0.2-0.3 mm; petals 6-7.5 mm, with claw 2 mm curved, hairy, internally; limb vaulted, denticulate at the edge, glabrous; pectinate scales, hairy below, glabrous outgrowth, pectinate or not; 7-8 stamens with hairy base; 3 carpels. Fruit 15 mm with 3 lobes, carpels fused for 4/5 of their height (HAUMAN) bearing short and caducous pubescence. Wood yellow fibrous harder than oak (DE BRIEY). PL. 28, 8-12', p. 119.
 
 ## Type
 
@@ -31,9 +27,7 @@ Le Testu 2044, Gnyengo, Mayombebayaka, Gabon (fl. jaunes, mars 1915)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce reconnue également au Congo et au Zaïre.
+Species also recognized in Congo and Zaire.
 
 ## Specimens examined
 

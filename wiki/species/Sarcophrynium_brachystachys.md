@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 A sp. typo, minuta pubescentia subtus laminos foliorum differt.
 
-Diffère de l'espèce par la fine pubescence de la face inférieure des limbes.
+Differs from the species by the fine pubescence on the lower surface of the leaf blades.
 
-Variété connue de la Côte-d'Ivoire, du Cameroun et du Gabon.
+Variety known from Côte-d'Ivoire, Cameroon and Gabon.
 
 ## Specimens examined
 

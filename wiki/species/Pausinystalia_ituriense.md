@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or shrub with glabrous branchlets. Stipules of 12 × 2 mm in a terminal bud. Petiole of 12–23 mm. Blade not coriaceous, ochraceous-brown when dry, 7–19 × 3.4–8 cm, with cuneiform base. Apex with an acumen of 12–15 × 2 mm, the tip often rounded. 9–11 pairs of secondary veins; fine venation slightly raised on both surfaces when dry. Small axillary domatia pubescent in the opening.
 
-Arbre ou arbuste à extrémités glabres. Stipules de  $ 12 \times 2 $ mm dans un bourgeon terminal. Pétiole de  $ 12-23 $ mm. Limbe non coriace, brun ochracé à sec, de  $ 7-19 \times 3,4-8 $ cm, à base cunéiforme. Sommet avec un acumen de  $ 12-15 \times 2 $ mm, à extrémité souvent arrondie.  $ 9-11 $ paires de nervures secondaires; fin réseau un peu en relief sur les deux faces à sec. Petites domaties axillaires pubes-centes dans l'ouverture.
+Inflorescences generally terminal on fairly short lateral branchlets, sometimes subterminal, 10–15 cm long, often branched from the base, lax with slender micropubescent axes. Flowers white sometimes tinged with pink, subsessile, clustered in small numbers at the extremities, rarely more than 6 at once. Ovaries of 1 mm, micropubescent. Calyx lobes suberect, very acute, 0.6 mm long, somewhat ciliolate. Corolla glabrous with (4)5 lobes, approximately 2 mm long by 1.5 mm wide, plus appendages 6–9 mm long.
 
-Inflorescences généralement terminales sur des rameaux latéraux assez courts, parfois subterminales, longues de 10-15 cm, souvent ramiﬁées dès la base, lâches à axes grêles micropubérulents. Fleurs blanches parfois teintées de rose, subsessiles, groupées en petit nombre aux extrémités, soit rarement plus de 6 à la fois. Ovaires de 1 mm, micropubérulents. Lobes calycinaux subétalés très aigus, longs de 0,6 mm, un peu ciliolés. Corolle glabre à (4)5 lobes, longue d'env. 2 mm sur une largeur de 1,5 mm, plus les appendices longs de 6-9 mm.
-
-Fruit non connu.
+Fruit unknown.
 
 ## Type
 

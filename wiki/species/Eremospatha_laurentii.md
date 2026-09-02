@@ -21,7 +21,7 @@ Cespitose liana; stem triangular in cross-section, up to 30 m, up to 24 mm in di
 
 ## Distribution
 
-Cameroon, Equatorial Guinea, Gabon and Democratic Republic of the Congo, with a few collections from West Africa (Sierra Leone, Liberia and Nigeria); in Gabon, fairly common in the Estuary, also known from Nyanga and Woleu Ntem. Conservation status: Least Concern (LC)
+Cameroon, Equatorial Guinea, Gabon and Democratic Republic of the Congo, with a few collections from West Africa (Sierra Leone, Liberia and Nigeria); in Gabon, fairly common in the Estuaire, also known from Nyanga and Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 

@@ -36,7 +36,7 @@ Type of the species: Soyaux 123 (P.)
 
 Taxonomic notes. The male flower was not described by Schumann. The fruit known from Pierre (unpublished notes accompanying the collections of R. P. Klaine), had not been correctly determined due to a confusion of collection and numbers with C. ficifolia; note that the two species appear to cohabitate in the vicinity of Libreville where they are confused under the vernacular name of Annchioin.
 
-The description given by Pellegrin of the fruit is wrongly attributed to C. crispiflora whose ovary is never 7-carpellate and which does not appear to exist in the Upper Ogooué (it was in fact Cola lastoursvillensis with leaves clothed below with simple hairs).
+The description given by Pellegrin of the fruit is wrongly attributed to C. crispiflora whose ovary is never 7-carpellate and which does not appear to exist in the Haut-Ogooué (it was in fact Cola lastoursvillensis with leaves clothed below with simple hairs).
 
 The seed type and placentation of C. crispiflora allow one to note an affinity that appears to exist between this species and, on the one hand C. ficifolia and duparquetiana, on the other hand C. rostrata and pachycarpa. A much closer affinity exists moreover between this Cola and C. buntingii Bak. f. of West Africa.
 

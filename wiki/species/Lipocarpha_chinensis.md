@@ -21,7 +21,7 @@ L. argentea (Vahl) R.Br. in Tuckey, Narr. exped. Zaire : 477 (1818). L. senegale
 
 ## Distribution
 
-widespread in tropical Africa and southern Africa, and from India to China and Australia; fairly widespread in Gabon, found in the Estuary, Upper Ogooué, Middle Ogooué, Ogooué-Ivindo, Ogooué-Maritime, and Woleu-Ntem (11 collections)
+widespread in tropical Africa and southern Africa, and from India to China and Australia; fairly widespread in Gabon, found in the Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime, and Woleu-Ntem (11 collections)
 
 ## Ecology
 

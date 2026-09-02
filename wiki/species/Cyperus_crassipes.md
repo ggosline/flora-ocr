@@ -23,7 +23,7 @@ Transverse section of the blade. – C. Fascicle Base of the blade. – D. Base 
 
 ## Distribution
 
-widely distributed along the coasts of tropical Africa; in Gabon, common behind beaches and in coastal dunes, found in the Estuary, Nyanga and Ogooué-Maritime
+widely distributed along the coasts of tropical Africa; in Gabon, common behind beaches and in coastal dunes, found in the Estuaire, Nyanga and Ogooué-Maritime
 
 ## Ecology
 

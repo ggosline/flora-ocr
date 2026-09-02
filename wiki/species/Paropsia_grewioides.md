@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 205 (1871). Arbuste ou petit arbre de 3–12(–20) m de hauteur ; jeunes rameaux à pubescence courte , brune. Stipules lancéolées, 2 mm de longueur. Feuille à pétiole de 4–8 mm ; limbe oblong à elliptique-oblong, elliptique ou obovale, (3,5–)7–11(–13) × (2–)2,5–4(–7) cm, sub-coriace, presque glabre, base cunéé, sommet acuminé, marge régulièrement sub-crénelé-serreté, dents pourvues de quelques poils courts . Inflorescence à fleurs axillaires, solitaires ou par 2(–3). Fleur à pédicelle de 10–30 mm ; sépales 5, réfléchis, étroitement oblongs, 10–14(–18) mm de longueur, face externe couverte d’un tomentum brun, l’interne pubérulente grisâtre, ; pétales 5, réfléchis, semblables aux sépales, mais plus étroits et plus courts, vert jaunâtre extérieurement, rougeâtres intérieurement, les faces légèrement pubérulentes ; couronne 3 mm de hauteur, laciniée, lobes parfois en groupes de 5, tomenteuse à l’extérieur ; étamines à filets de 6–8 mm, anthères 2,5–3,5 mm de longueur ; gynophore 0–1 mm ; ovaire tomenteux ; styles 2–5 mm, tomenteux , stigmates en forme de V. Fruit sub-globuleux à elliptique, 2–2,5(–3) × 1,5–2,5 cm, à pubescence brune. Graines : une dizaine par capsule, elliptiques, environ 6 × 4 mm, entièrement fovéolées, avec un renflement à un côté , blancs, puis noirs, à environ 10 fossettes sur la longueur, arille transparent, orange sur le sec.
+in Oliv., Fl. trop. Afr. 2 : 205 (1871). Shrub or small tree 3–12(–20) m tall; young branchlets with short, brown pubescence. Stipules lanceolate, 2 mm long. Leaf with petiole 4–8 mm; lamina oblong to elliptic-oblong, elliptic or obovate, (3.5–)7–11(–13) × (2–)2.5–4(–7) cm, subcoriaceous, nearly glabrous, base cuneate, apex acuminate, margin regularly subcrenate-serrate, teeth with a few short hairs. Inflorescence with flowers axillary, solitary or in pairs (–3). Flower with pedicel 10–30 mm; sepals 5, reflexed, narrowly oblong, 10–14(–18) mm long, outer surface covered with brown tomentum, inner surface greyish-puberulent; petals 5, reflexed, similar to sepals but narrower and shorter, yellowish-green externally, reddish internally, surfaces slightly puberulent; corona 3 mm tall, laciniate, lobes sometimes in groups of 5, tomentose externally; stamens with filaments 6–8 mm, anthers 2.5–3.5 mm long; gynophore 0–1 mm; ovary tomentose; styles 2–5 mm, tomentose, stigmas V-shaped. Fruit subglobose to elliptic, 2–2.5(–3) × 1.5–2.5 cm, with brown pubescence. Seeds: about ten per capsule, elliptic, approximately 6 × 4 mm, entirely foveolate, with a swelling on one side, white, then black, with approximately 10 pits along the length, aril transparent, orange when dry.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, Angola ; au Gabon, fréquente, mais connue exclusivement du Moyen-Ogooué, de l’Ogooué-Ivindo et du Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Angola; in Gabon, frequent but known exclusively from Moyen-Ogooué, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts, lisières des forêts ; au Gabon, à 110–620 m d’altitude, ailleurs jusqu’à 700 m. Fruits observés de mars à mai et de novembre à décembre
+forests, forest margins; in Gabon, at 110–620 m altitude, elsewhere up to 700 m. Fruits observed from March to May and from November to December
 
 ## Vernacular names
 

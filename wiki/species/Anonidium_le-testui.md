@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with young branchlets puberulent becoming glabrous. Leaves with petiole thick, 2–3 mm long, puberulent to glabrous; blade papyraceous, elliptic to lanceolate, 5–16 cm long, 2–5.5 cm wide, attenuate toward the obtuse base, attenuate and long-acuminate at the apex, acumen narrow 2–3 cm long. Midvein scarcely impressed above, prominent below; lateral nerves 7–10 pairs, poorly visible on the upper surface, prominent below; reticulum scarcely visible.
 
-Arbuste a jeunes rameaux pubérulents devenant glabres. Feuilles á pétiole épais,long de 2-3 mm，pubérulent á glabre; limbe papyracé,elliptique á lancéolé, long de S-16 cm,large de 2-5,5 cm，atténué vers la base obtuse,atténué et longuement acuminé au sommet，acumen étroit long de 2-3 cm.Nervure médiane tres peu imprimée au-dessus,proéminente en dessous; nervures latérales 7-1o paires,peu visibles a la face supérieure, saillantes en dessous；réticulum ä peinə visible.
+Inflorescences unifloral, extra-axillary or grouped 2–3 at the apex of small branchlets reaching 10–15 cm in length. Bracts very small, triangular-ovate, acute at the apex, about 2 mm long, caducous. Pedicel (floral axis) 1–2 cm long, bearing two bracteoles, one toward the base, ovate, semiamplexicaul, 2–3 mm long, subtending a small bud, the other toward the apex, always sterile, larger, broadly ovate, semiamplexicaul, 7–10 mm long, pubescent appressed on the outside, glabrous on the inside. Sepals coriaceous, triangular-ovate, acute at the apex, 10–15 mm long, 7–10 mm wide, pubescent appressed on the outside, glabrous on the inside. Petals subequal, coriaceous, lanceolate acute, 20–35 mm long, 5–9 mm wide, pubescent appressed on both faces. Flowers very accrescent after anthesis, with convex receptacle covered with very numerous free carpels, closely pressed against each other, oblong, 3–4 mm long, ovaries included in the receptacle, styles thick ± quadrangular, stigmas enlarged, densely puberulent. Ovule 1 erect. One row of sterile stamens, quite at the base, about 2 mm long, connectives dilated and densely puberulent.
 
-Inflorescences uniflores, extra-axillaires ou group5espar 2-3 au sommet de petits rameaux atteignant 1o-15 cm de longueur. Bractées tres petites， triangulaires-ovées， aigues au sommet, longues de 2 mm environ,caduques. Pédicelle (axe floral) long de 1-2 cm,muni de deux bractéoles, l'une vers la base,ovée,semiamplexicaule， longue de 2-3 mm，axillant un petit bourgeon, lautre vers le sommet, toujours stérile,plus grande, largement ovée,semi-amplexicaule,longue de 7-1o mm，pubescentes apprimées a l'extérieur，glabres a l'intérieur. Sépales coriaces,triangulaires-oves,aigus au sommet, longs de Io-15 mm，larges de 7-10 mm,pubescents apprimés a l'extérieur,glabres a l'intérieur. Pétales subégaux,coriacés,lancéolés aigus, longs de 2o-35 mm, larges de 5-9 mm, pubescents apprimés sur les deux faces. Fleurs , tres accrescentes apres l'anthése,á réceptacle convexe couvert de tres nombreux carpelles libres, accolés les uns aux autres, oblongs, longs de 3-4 mm, ovaires inclus dans le réceptacle, styles épais 士 quadrangulaires,stigmates élargis,densément pubérulents. Ovule 1 dressé. Une rangee d'étamines stériles, tout a fait a la base, longues de 2 mm environ,connectifs dilatés et densément pubé- rulents.
-
-Fruit inconnu.
+Fruit unknown.
 
 ## Type
 
@@ -31,11 +29,9 @@ Le Testu 9615,Ocala,entre Ogooué et Cameroun,fl. (hololectotype P!;isolectotype
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In the original description, it seems that the author confused the carpels and stamens since he mentions only the presence of "very numerous stamens". In reality the two syntypes bear no flowers, but this error can easily be conceived if no section was made, the stigmas having approximately the same shape as the connectives of stamens and being likewise densely puberulent. It is also difficult to perceive the sterile stamens, inserted below the first row of carpels, and the external appearance of the receptacle can be that of a ♀ flower.
 
-Dans la description originale,il semble que l'auteur ait confondu les carpelles et les étamines puisqu'il ne mentionne que la présence de “ tres nombreuses étamines ).En réalité les deux syntypes ne portent aucune fleur ,mais on peut facilement concevoir cette erreur,si aucune coupe n'a été faite,les stigmates ayant á peu pres la méme forme que les connectifs d'étamines et étant également densément pubérulents.Il est aussi difficile d'apercevoir les étamines stériles, insérées sous la premiere rangée de carpelles,et 'aspect extérieur du réceptacle peut étre celui d'une fleur &.
-
-Cette espece endémique du Gabon，n'est donc connue que par ses fleurs ；elle est tres différente des deux autres especes d'Anonidium par son port d'arbuste,ses feuilles lancéolées plus petites,et ses inflorescences uniflores.
+This species endemic to Gabon is thus known only by its flowers; it is very different from the two other species of Anonidium by its shrubby habit, its smaller lanceolate leaves, and its unifloral inflorescences.
 
 ## Specimens examined
 

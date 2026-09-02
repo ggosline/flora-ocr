@@ -21,7 +21,7 @@ Fl. trop. Afr. 4(1): 132 (1902). Liane or small shrub, reaching 10 m in length. 
 
 ## Distribution
 
-Nigeria, Cameroon and Gabon; in Gabon only known from the Estuary
+Nigeria, Cameroon and Gabon; in Gabon only known from the Estuaire
 
 ## Ecology
 

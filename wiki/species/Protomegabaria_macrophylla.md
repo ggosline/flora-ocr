@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Hooker’s . Icon . Pl ., sér. 4, 10(2) : t. 2929 (1911). Arbuste à arbre jusqu’à 20 m de hauteur ; tronc jusqu’à 20 cm de diamètre ; rameaux glabres . Stipules ± triangulaires, (1–)2–4 mm de longueur, ± pubescentes à l’extérieur. Feuille : pétiole légèrement canaliculé dessus, (0,5–)1–5(–15) cm, glabre ; limbe ellip tique à obovale-elliptique, 2–2,5(–3) fois plus long que large, (5–)10–25(–45) × (2–)5– 10(–16) cm, ± cunéé à la base, obtus à rétus ou rarement brièvement acuminé au som met, muni à l’état jeune, de petits poils apprimés sur les deux faces, puis rapidement glabrescent au moins dessus, glabre dessous ou éparsement pileux, (1–)2–5 glandes sou vent présentes à la base du limbe dessous, généralement éparsement glanduleux et densément pustuleux dessous ; nervures latérales (4–)9–13(–16) paires. Inflorescence ± glabre, les mâles jusqu’à 10 cm de longueur, les femelles 1–4 cm mais beaucoup plus longues en fruit. Fleur mâle : pédicelle ± 1,5 mm ; sépales (4–)5, ovales-triangulaires, 1–1,5 mm de longueur, ciliolés ; étamines 1,5–2 mm de longueur, glabres, anthères ± 0,4 mm de longueur ; pistillode conique, ≤ 0,5 mm de longueur, bilobé au sommet ou non. Fleur femelle : pédicelle 2,5–5 mm ; sépales étroitement triangulaires à oblongs, (2,5–)3–4 mm de longueur , glabres, base à 5–6 glandes sur la face interne ; pistil 4–6 mm de longueur, glabre ; ovaire 6-côtelé, 3–4 mm de longueur ; stigmates 3, en général bilobés et récurvés. Fruit ellipsoïde à légèrement obovoïde, 3,5–4 × 2,5–3,5 cm, 6-côtelé, glabre. Graines obovoïdes, ± 10 × 7 mm, lisses, brunes, luisantes.
+Hooker's . Icon . Pl ., sér. 4, 10(2) : t. 2929 (1911). Shrub to tree up to 20 m high; trunk up to 20 cm in diameter; branchlets glabrous. Stipules ± triangular, (1–)2–4 mm long, ± pubescent outside. Leaf: petiole slightly channeled above, (0.5–)1–5(–15) cm, glabrous; blade elliptic to obovate-elliptic, 2–2.5(–3) times longer than wide, (5–)10–25(–45) × (2–)5–10(–16) cm, ± cuneate at base, obtuse to retuse or rarely shortly acuminate at apex, bearing when young small appressed hairs on both faces, then rapidly glabrescent at least above, glabrous below or sparsely pilose, (1–)2–5 glands often present at base of blade below, generally sparsely glandular and densely pustulate below; lateral veins (4–)9–13(–16) pairs. Inflorescence ± glabrous, the male ones up to 10 cm long, the female ones 1–4 cm but much longer in fruit. Male flower: pedicel ± 1.5 mm; sepals (4–)5, ovate-triangular, 1–1.5 mm long, ciliolate; stamens 1.5–2 mm long, glabrous, anthers ± 0.4 mm long; pistillode conical, ≤ 0.5 mm long, bilobed at apex or not. Female flower: pedicel 2.5–5 mm; sepals narrowly triangular to oblong, (2.5–)3–4 mm long, glabrous, base with 5–6 glands on inner face; pistil 4–6 mm long, glabrous; ovary 6-ribbed, 3–4 mm long; stigmas 3, generally bilobed and recurved. Fruit ellipsoid to slightly obovoid, 3.5–4 × 2.5–3.5 cm, 6-ribbed, glabrous. Seeds obovoid, ± 10 × 7 mm, smooth, brown, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue du sud du Cameroun, du Gabon et du nord de la République du Congo ; au Gabon, on la trouve dans l’Estuaire, le Moyen-Ogooué et l’Ogooué-Maritime
+Known from southern Cameroon, Gabon and northern Republic of the Congo; in Gabon, it is found in the Estuaire, Moyen-Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Primary and secondarized forest; in Gabon up to 600 m elevation. Taxonomic note: This species also appears in the Flora of West Tropical Africa (Keay 1958) where it is separated from P. stapfiana with difficulty and where it is suggested that P. macrophylla may be merely a variety of P. stapfiana. In 1960, Keay et al. place the species in synonymy with P. stapfiana. In reality, P. macrophylla is indeed distinct from P. stapfiana and does not belong to the flora of West Africa. b: Breteler (2012c), Keay et al. (1960), Pax & Hoffmann (1922). Bibliography
 
-forêt primaire et secondarisée ; au Gabon jusqu’à 600 m d’altitude. Note taxonomique : Cette espèce figure aussi dans la Flora of West Tropical Africa (Keay 1958) ou elle est séparée de P. stapfiana avec difficulté et où il est suggéré que P. macro phylla n’est peut-être qu’une variété de P. stapfiana . En 1960, Keay et al. mettent l’espèce en synonymie de P. stapfiana . En réalité, P. macrophylla est bien distincte de P. stapfiana et n’appartient pas à la flore de l’Afrique de l’Ouest. b : Breteler (2012c), Keay et al. (1960), Pax & Hoffmann (1922). ibliographie
-
-Graine. ‒ Protomegabaria stapfiana : K. Fleur femelle. ‒ L. Fruit. (A, D ‒ G : Breteler et al . 9677 ; B : J.J . de Wilde et al . 278 ; C, J : Breteler et al. 14675 ; H, I : Breteler et al . 11518 ; K : Leeuwen berg 3721 ; L : Breteler et al. 11518 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+Seed. ‒ Protomegabaria stapfiana: K. Female flower. ‒ L. Fruit. (A, D ‒ G: Breteler et al. 9677; B: J.J. de Wilde et al. 278; C, J: Breteler et al. 14675; H, I: Breteler et al. 11518; K: Leeuwen berg 3721; L: Breteler et al. 11518). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

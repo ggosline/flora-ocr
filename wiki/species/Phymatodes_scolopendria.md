@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Ching, Contrib. Inst. Bot. Peiping 2:63 (1933). — Tard., Mém. IFAN 28:222, pl. 43, f. 4 (1953). — Alston, FWTA:48 (1959).
 
-Rhizome rampant, épais, portant des écailles peltées à la base, lancéolées, à bords munis de petits prolongements recurbés, formées de cellules à parois brun rouge, lumière large, pâle. Pétiole de 7-30 cm de long, dressé, nu, brun rouge. Limbe de 10-80 cm de long sur 15-60 de large, soit simple, légèrement lobé, soit profondément pinnatifide, ayant de 3-5 lobes plus ou moins lancéolées oblongs, acuminés, réunis par une aile costale large de 2-5 cm; base du limbe courtement décurrente. Texture coriace, surfaces nues. Aréoles costales plus larges que les autres; aréoles secondaires nombreuses, à nervilles incluses. Sores larges, arrondis ou oblongs, légèrement immergés, en une ou deux rangées dans les formes étroites, en plusieurs rangées, irrégulièrement disséminés, dans les frondes larges.
+Rhizome creeping, thick, bearing peltate scales at the base, lanceolate, with margins furnished with small recurved prolongations, formed of cells with red-brown walls, wide lumen, pale. Petiole 7-30 cm long, erect, glabrous, red-brown. Lamina 10-80 cm long by 15-60 cm wide, either simple, slightly lobed, or deeply pinnatifid, having 3-5 lobes more or less lanceolate-oblong, acuminate, joined by a costal wing 2-5 cm wide; base of lamina shortly decurrent. Texture coriaceous, surfaces glabrous. Costal areoles wider than the others; secondary areoles numerous, with included veinlets. Sori large, rounded or oblong, slightly immersed, in one or two rows in the narrow forms, in several rows, irregularly scattered, in the broad fronds.
 
-Tropiques de l'ancien monde.
+Tropics of the Old World.
 
-Sur rochers, ou épiphyte surtout sur Elaeis.
+On rocks, or epiphytic chiefly on Elaeis.
 
 ## Specimens examined
 

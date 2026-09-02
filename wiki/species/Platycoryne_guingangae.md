@@ -17,51 +17,45 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Habenaria pogeana Kraenzl., Bot. Jahrb. Syst. 16: 207 (1892).
 
 – Platycoryne poggeana (Kraenzl.) Rolfe, FTA 7 : 258 (1898).
 
-Tige 20-60 cm, glabre. Feuilles en général étalées le long de la tige mais parfois formant une touffe à la base, 1,5-5 × 0,4-0,8 cm, linéaires à étroitement lancéolées, aiguës. Inflorescence 2-4,5 cm, 1-6 (15)-flore. Fleurs orange, glabres. Sépale dorsal largement ové à presque semi-orbiculaire ; sépales latéraux obliquement lancéolés à oblongs ovés-lancéolés. Pétales aigus, linéaires-lancéolés à ovés-lancéolés avec un petit lobule basal aigu et filiforme. Labelle assez charnu, nettement 3-partite :
+Stem 20–60 cm, glabrous. Leaves generally spreading along the stem but sometimes forming a tuft at the base, 1.5–5 × 0.4–0.8 cm, linear to narrowly lanceolate, acute. Inflorescence 2–4.5 cm, 1–6 (15)-flowered. Flowers orange, glabrous. Dorsal sepal broadly ovate to almost semi-orbicular; lateral sepals obliquely lanceolate to oblong ovate-lanceolate. Petals acute, linear-lanceolate to ovate-lanceolate with a small basal acute and filiform lobule. Labellum rather fleshy, distinctly 3-partite:
 
-PL. 23. – Structure du gynostème du genre Platycoryne Rchb.f.: A, vue latérale ; B, rostelle et stigmate étalés, vue antérieure (A & B, ex SZLACHETKO & RUTKOWSKI, 2000).
+PL. 23. – Structure of the gynostemium of the genus Platycoryne Rchb.f.: A, lateral view; B, rostellum and stigma spread, anterior view (A & B, ex SZLACHETKO & RUTKOWSKI, 2000).
 
-lobe médian le plus large, liguliforme à linéaire-lancéolé, subobtus à aigu ; lobes latéraux filiformes, aigus, pendants. Éperon étroitement cylindrique, un peu renflé vers le sommet ou égal sur toute sa longueur. – Pl. 24, p. 55.
+median lobe the largest, ligulate to linear-lanceolate, subobtuse to acute; lateral lobes filiform, acute, pendulous. Spur narrowly cylindric, slightly swollen toward the apex or equal throughout its length. – Pl. 24, p. 55.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo (Brazzaville), Centrafrique, Congo (Kinshasa), Angola, Zambie
+Cameroon, Gabon, Congo (Brazzaville), Central African Republic, Congo (Kinshasa), Angola, Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 80–1500 m. Terrestrial herb on grayish humus soil, sandy soil, humid marsh, humid to very humid savanna, sandy meadow (with Pennisetum)
 
-alt. 80-1500 m. Herbacée terrestre sur terreau grisâtre humide, sol sableux, marais humide, savane humide à très humide, prairie sableuse (à Pennisetum)
+MATERIAL STUDIED (Map 7):
 
-MATÉRIEL ÉTUDIÉ (Carte 7) :
+de Wilde, Arends & de Bruijn 9162, about 1 km N of Doussala, 2°18' S, 10°35' E (fl., Dec.), WAG!, LBV.
 
-de Wilde, Arends & de Bruijn 9162, about 1 km N de Doussala, 2°18' S, 10°35' E (fl., Déc.), WAG!, LBV.
+de Wilde, van der Maesen, Bourobou & Moussavou 11420, Ogooué-Ivindo, Lopé Nature Reserve forest, near the SECG biological station, Lopé, 0°09' S, 11°37' E (fl., Nov.), WAG!.
 
-de Wilde, van der Maesen, Bourobou & Moussavou 11420, Ogooué-Ivindo, forêt Réserve de Lopé, non loin de la Station biologique SECG. Lopé, 0°09' S, 11°37' E (fl., Nov.), WAG!.
+Pauly 178, Owendo, coastal dune (fl., Dec.), BR!, LBV.
 
-Pauly 178, Owendo, dune littorale (fl., Déc.), BR!, LBV.
+Reitsma J. M. & B. 2449, Lopé Reserve, 0°06 S, 11°40' E (fl., Jul.), WAG!, LBV, NY; 2760, near Cape Estérias, 0°33' N, 9°21' E (fl., Dec.), WAG!, LBV, NY. Schlechter 12816, Cape Lopez (fl., Dec.), BR!.
 
-Reitsma J. M. & B. 2449, Réserve Lopé, 0°06 S, 11°40' E (fl., Jul.), WAG!, LBV, NY ; 2760, près du Cap Estérias, 0°33' N, 9°21' E (fl., Déc.), WAG!, LBV, NY. Schlechter 12816, Cap Lopez (fl., Déc.), BR!.
-
-van der Maesen, Louis & de Bruijn 5414, Estuaire Prov., Libreville, Terrain Cenarest (fl., Nov.), WAG!, LBV ; 5476, Pointe Denis, 0°20' N, 9°21' E (fl., Nov.), WAG!, LBV. van Nek 424, Gamba, 2°45'5" S, 10°01'5" E (fl., Déc.), WAG!, LBV.
+van der Maesen, Louis & de Bruijn 5414, Estuaire Province, Libreville, Cenarest Terrain (fl., Nov.), WAG!, LBV; 5476, Pointe Denis, 0°20' N, 9°21' E (fl., Nov.), WAG!, LBV. van Nek 424, Gamba, 2°45'5" S, 10°01'5" E (fl., Dec.), WAG!, LBV.
 
 II. TROPIDIOIDEAE (Pfitzer) Szlach.
 
 Fragment Flor. Geobot., Suppl. 3 : 35 (1995).
 
-Voile de type «Calanthe». Tige bambusoïde, ligneuse, souvent ramiﬁée. Feuilles en spirale, convolutées, pliées. Inflorescence terminale ou latérale. Fleurs résupinées ou non, tubulaires ou sacciformes à la base. Labelle ﬁxe. Gynostème dressé, grêle à trapu. Staminodes aliformes, soudés au style au-dessous du stigmate, ou rudimentaires ou entièrement réduits. Stigmate trans-elliptique, parfois horizontal. Rostellum allongé comme un bec, droit, massif, aigu. Viscidie simple, oblongue, épaisse. Hamulus épais et charnu, formé de deux couches. Reste du rostellum bidenté. Anthère étroitement cordée à oblongue, mobile. Connectif charnu, formant un épais bourrelet au-dessus des logettes. Pollinie sectile.
+Veil of "Calanthe" type. Stem bambusoid, woody, often branched. Leaves spiral, convolute, plicate. Inflorescence terminal or lateral. Flowers resupinate or not, tubular or sacciform at the base. Labellum fixed. Gynostemium erect, slender to stout. Staminodes wing-shaped, fused to the style below the stigma, or rudimentary or entirely reduced. Stigma transverse-elliptic, sometimes horizontal. Rostellum elongate like a beak, straight, massive, acute. Viscidium simple, oblong, thick. Hamulus thick and fleshy, formed of two layers. Remainder of the rostellum bidentate. Anther narrowly cordate to oblong, mobile. Connective fleshy, forming a thick cushion above the locules. Pollinia sectile.
 
-Ce groupe comprend 3 genres dont un seul en Afrique.
+This group comprises 3 genera, of which only one occurs in Africa.
 
-PL. 24. – Platycoryne guingangae (Rchb.f.) Rolfe: A, fleur ; B, labelle ; C, sépale dorsal et pétale ; D, sépale latéral ; E, gynostème, vue latérale. – Corymborkis corymbis Thouars: F, vue générale ; G, fleur ; H, sépale dorsal ; I, sépale latéral ; J, pétale ; K, labelle. (A-E, Pogge 1443, HBG ; F-G, ex GEERINCK 1984 ; H-K, ex LA CROIX & CRIBB, 1995, modifié).
+PL. 24. – Platycoryne guingangae (Rchb.f.) Rolfe: A, flower; B, labellum; C, dorsal sepal and petal; D, lateral sepal; E, gynostemium, lateral view. – Corymborkis corymbis Thouars: F, general view; G, flower; H, dorsal sepal; I, lateral sepal; J, petal; K, labellum. (A–E, Pogge 1443, HBG; F–G, ex GEERINCK 1984; H–K, ex LA CROIX & CRIBB, 1995, modified).
 
 ## Figures
 

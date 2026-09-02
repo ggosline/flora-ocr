@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, in tufts, reaching 1 m tall. Culms branched, most often densely pubescent as is the whole plant. Blades linear, up to 50 cm long and 5 mm wide.
 
-Herbe annuelle, en touffes, atteignant 1 m de haut. Chaumes ramifiés, le plus souvent densément pubescents comme toute la plante. Limbes linéaires, jusqu'à 50 cm de long et 5 mm de large.
+Loose panicles about twenty cm long, with thin branches, divided to the 3rd or 4th degree. Spikelets green, oblong-acuminate. Glumes similar, the lower one narrow, with 5 nerves, making about three-quarters the length of the spikelet, the upper one with 5 or 7 nerves. Lower floret male; lemma similar to the upper glume, somewhat shorter; palea acuminate. Upper floret white, slightly more than 1 mm long.
 
-Panicules lâches d'une vingtaine de cm de long, branches minces, divisées jusqu'au 3 ou 4<sup>e</sup> degré. Épillets verts, oblongs-acuminés. Glumes semblables, l'inférieure étroite, à 5 nervures, faisant environ les 3/4 de la longueur de l'épillet, la supérieure à 5 ou 7 nervures. Fleur inférieure mâle; lemma semblable à la glume supérieure, un peu plus courte; paléa acuminée. Fleur supérieure blanche, d'un peu plus de 1 mm de long.
-
-De la Sierra-Leone à l'Oubangui, et de l'Angola au Kasai, par le Gabon et le Bas-Congo. En savane ou plus souvent en jachères sur terres légères; valeur fourragère non connue.
+From Sierra Leone to Ubangi, and from Angola to Kasai, through Gabon and Lower Congo. In savanna or more often in fallows on light soils; forage value unknown.
 
 ## Specimens examined
 

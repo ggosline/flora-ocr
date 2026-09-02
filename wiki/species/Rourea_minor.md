@@ -17,29 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fl. Ceylon 6 (2): 67 (1931); JONGKIND, in BRETELER (ed.), AUWP 89 (6): 337 (1989).
 
-Fl. Ceylon 6 (2): 67 (1931); JONGKIND, in BRETELER (éd.), AUWP 89 (6): 337 (1989).
-
-- Aegiceras minus GAERTN., Fruct. Sem. Pl. 1: 216, tab. 46 (1788). TYPE : Sri Lanka, König s.n. (holo-L).
+- Aegiceras minus GAERTN., Fruct. Sem. Pl. 1: 216, tab. 46 (1788). TYPE: Sri Lanka, König s.n. (holo-L).
 
 – Rourea afzelii R. BROWN ex PLANCH., Linnaea 23: 418 (1850). TYPE: Sierra Leone, Afzelius s.n. (holo-BM).
 
 – Santaloides afzelii (R. Brown ex PLANCH.) SCHELLENB., PR 103 (4, 127): 138, fig.24 (1938); HEPPER, FWTA, ed. 2, 1 (2): 74 (1958); MENDES, Fl. Zamb. 2 (2): 622 (1966).
 
-Petit arbre, arbuste ou très grande liane pouvant atteindre 26 m de longueur et 15 cm de diamètre, sempervirent. Rameaux glabres cylindriques à profondément cannelés, souvent avec du phloème interxylaire ; jeunes rameaux pubérulents ou glabres.
+Small tree, shrub or very large liane reaching up to 26 m in length and 15 cm in diameter, evergreen. Branches glabrous, cylindric to deeply grooved, often with interxylary phloem; young branches puberulent or glabrous.
 
-Feuille. Pétiole long de 2-9 cm, rachis de 0-17 cm ; pétioiules longs de 1-4 mm ; folioles 1-11(-19), ovées à oblongues-elliptiques, cartacées ou finement coriaces, glabres, souvent enduices de cire à la face inférieure ; sommet acuminé ; acumen long de ≤2,5 cm, jamais mucroné, la médiane disparaissant à l'extrémité même de l'acumen ; foliole terminale 1,5-12,5 × 0,7-6 cm ; les latérales 1,5-12 × 0,5-6 cm, presque symétriques à asymétriques.
+Leaf. Petiole 2–9 cm long, rachis 0–17 cm; petiolules 1–4 mm long; leaflets 1–11(–19), ovate to oblong-elliptic, cartaceous or finely coriaceous, glabrous, often coated with wax on the lower surface; apex acuminate; acumen ≤2.5 cm long, never mucronate, the midvein disappearing at the very tip of the acumen; terminal leaflet 1.5–12.5 × 0.7–6 cm; lateral ones 1.5–12 × 0.5–6 cm, almost symmetric to asymmetric.
 
-Inflorescence longue de ≤9 cm, glabre. Pédicelle long de 3-7 mm au-dessus de l'articulation.
+Inflorescence ≤9 cm long, glabrous. Pedicel 3–7 mm long above the articulation.
 
-Fleurs. Sépales 1,5-4 × 1-3,5 mm (plus larges que longs), marge ciliée, glabres partout ailleurs. Pétales 5-8 × 1,5-4 mm, en général connivents près de la base, préfloraison imbriquée, sommet arrondi. Étamines, les grandes longues de 3,5-6 mm, les courtes de 2,5-4,5 mm ; anthères obcordiformes. Pistil long de 2-5 mm ; style avec poils épars ou glabre ; ovaire avec pubescence éparse mais seulement en position adaxiale.
+Flowers. Sepals 1.5–4 × 1–3.5 mm (broader than long), margin ciliate, glabrous elsewhere. Petals 5–8 × 1.5–4 mm, generally connate near the base, imbricate in bud, apex rounded. Stamens, the longer ones 3.5–6 mm long, the shorter ones 2.5–4.5 mm long; anthers obcordiform. Pistil 2–5 mm long; style with scattered hairs or glabrous; ovary with scattered pubescence but only in adaxial position.
 
-Fruits : follicules, 1 par fleur, rarement davantage, 10-22 × 5-12 mm, ovés, finement striés longitudinalement, déhiscence ± circums-cissile à la base et/ou rarement par une suture ventrale, glabres ; sommet aigu ou acuminé. Sépales sous le fruit, ≈ 4 × ≈ 3 mm (plus larges que longs).
+Fruits: follicles, 1 per flower, rarely more, 10–22 × 5–12 mm, ovate, finely longitudinally striated, dehiscence ± circumscissile at the base and/or rarely by a ventral suture, glabrous; apex acute or acuminate. Sepals under the fruit, ≈ 4 × ≈ 3 mm (broader than long).
 
-Graine ovoïde avec un sommet aigu ; sarcotesta en majorité libre des autres parties de la graine, couvrant la partie mince du testa presque entièrement ; radicule ± apicale.
+Seed ovoid with acute apex; sarcotesta mostly free from other parts of the seed, covering the thin part of the testa almost entirely; radicle ± apical.
 
-Germination hypogée ; les deux premières feuilles sont opposées (DE VOGEL, 1980 : 221). – Pl. 38, p. 121.
+Hypogeal germination; the two first leaves are opposite (DE VOGEL, 1980: 221). – Pl. 38, p. 121.
 
 ## Type
 
@@ -47,15 +45,11 @@ König s.n., Sri Lanka
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale centrale et orientale, Madagascar et Asie
+West-central and eastern Africa, Madagascar and Asia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-des forêts ombrophiles aux savanes ; alt. 0-1500 m
+from rainforests to savannas; alt. 0–1500 m
 
 ## Specimens examined
 

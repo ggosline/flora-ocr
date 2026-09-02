@@ -59,7 +59,7 @@ Hallé,N. 1941, 10 km S.O. de Ndjolé (bout.fl., Avril); 2004 (fl., Mai); 3798 (
 
 Klaine 1567, environs de Libreville (fl., Mars).
 
-Louis 1965, Woleu Ntem, village pygmée (fl., fr., Oct.)
+Louis 1965, Woleu-Ntem, village pygmée (fl., fr., Oct.)
 
 Louis & al. 492 A, Oveng (fl., Nov.); 1214, 32 km au S.E. de Sindara (fl., fr., Déc.)
 

@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 WARB., in ENGL. & PRANTL, NPF 3 (6a) : 16 (1893) ; GILG, in ENGL. & PRANTL, NPF 21 : 399 (1925) ; SLEUMER, EBJ 94 (3) : 298 (1974). TYPES : Pogge 609, Zaïre (lecto-) ; Pogge 1096 et 1648, Zaïre (syn-).
 
-– P. stenura GILG, EBJ 40 : 452 (1908). TYPE : Soyaux 100, Gabon (holo-, B, delet., cf. SLEUMER 1974 ; lecto-, choisi ici, P! ; isolecto-, K).
+– P. stenura GILG, EBJ 40 : 452 (1908). TYPE : Soyaux 100, Gabon (holo-, B, delet., cf. SLEUMER 1974 ; lecto-, chosen here, P! ; isolecto-, K).
 
-– P. kamerunensis GILG, EBJ 40 : 452 (1908). TYPES : Zenker 830, Cameroun (lecto-, B, delet, cf. SLEUMER 1974 ; Pl, choisi ici ; isolecto , BM, GOET, HBG, K, L, M, WU) ; Zenker 1073, 1089, 1757, Cameroun (syn-, B, delet., BM, HBG, K, L, M, WU). – P. klaineana PIERRE ex GILG, in ENGL., PWA 3 (2) : 563 (1921), cum diagnose ; in ENGL. & PRANTL, NPF 21 : 399 (1925), pro syn. TYPE : Klaine 1969 b, Gabon (néo-, P! ; iso-, P!).
+– P. kamerunensis GILG, EBJ 40 : 452 (1908). TYPES : Zenker 830, Cameroon (lecto-, B, delet, cf. SLEUMER 1974 ; Pl, chosen here ; isolecto-, BM, GOET, HBG, K, L, M, WU) ; Zenker 1073, 1089, 1757, Cameroon (syn-, B, delet., BM, HBG, K, L, M, WU). – P. klaineana PIERRE ex GILG, in ENGL., PWA 3 (2) : 563 (1921), cum diagnose ; in ENGL. & PRANTL, NPF 21 : 399 (1925), pro syn. TYPE : Klaine 1969 b, Gabon (neo-, P! ; iso-, P!).
 
-Arbuste (1-7 m de haut) ; rameaux pubescents à glabrescents.
+Shrub (1–7 m tall) ; branchlets pubescent to glabrescent.
 
-Feuilles à stipules ± caduques, étroitement ovales à linéaires, 7-20 × 1-3 mm, ± pubescentes ; pétiole de 0,5-1 cm de long, pubescent ; limbe obovale à obovale-oblong, atténué à la base, acuminé au sommet, 8-20-30) × (3)-5-8-(12) cm, denticulé, papyracé, éparsement pubescent à glabrescent ; nervures secondaires 10-15 paires.
+Leaves with ± caducous stipules, narrowly ovate to linear, 7–20 × 1–3 mm, ± pubescent ; petiole 0.5–1 cm long, pubescent ; blade obovate to obovate-oblong, attenuate at the base, acuminate at the apex, 8–20–(30) × (3)–5–8–(12) cm, denticulate, papyraceous, sparsely pubescent to glabrescent ; secondary veins 10–15 pairs.
 
-Fleurs ¥ ; pédicelle de (2)-3-10-(12) mm de long, pubescent ; sépales 3, ovales à obovales-oblongs, 7-13 × 4-6 mm, pubescents sur la face externe ; pétales 8-10, obovales, onguiculés, (9)-15-22 × 4-9 mm, glabres extérieurement et glabrescents intérieurement ; étamines nombreuses (60-80), à filet de 4-14 mm de long, glabre ; anthères de 1 mm de long ; ovaire pubescent, à 2-3 placentas pluriovulés ; style entier, parfois courtement 2-3-fide au sommet, de 4-10 mm de long, glabrescent à la base.
+Flowers ¥ ; pedicel (2)–3–10–(12) mm long, pubescent ; sepals 3, ovate to obovate-oblong, 7–13 × 4–6 mm, pubescent on the outer surface ; petals 8–10, obovate, clawed, (9)–15–22 × 4–9 mm, glabrous externally and glabrescent internally ; stamens numerous (60–80), with filament 4–14 mm long, glabrous ; anthers 1 mm long ; ovary pubescent, with 2–3 pluri-ovulate placentas ; style entire, sometimes shortly 2–3-fid at the apex, 4–10 mm long, glabrescent at the base.
 
-Fruits : capsules 4-6-ailées, légèrement pubescentes ; graines 5-10, anguleuses, 5-6 × 3-4 mm. - Pl. 10, 8-14, p. 37.
+Fruits : capsules 4–6-winged, slightly pubescent ; seeds 5–10, angular, 5–6 × 3–4 mm. - Pl. 10, 8–14, p. 37.
 
 ## Type
 
@@ -39,15 +37,11 @@ Pogge 609, Zaïre (lecto-, B, delet., cf. SLEUMER 1974 ; P!, choisi ici) ; Pogge
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée, Gabon, Congo, Zaïre, Angola
+Cameroon, Guinea, Gabon, Congo, Zaïre, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses, forêts secondaires, galeries forestières
+Dense forests, secondary forests, forest galleries
 
 ## Specimens examined
 

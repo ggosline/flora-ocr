@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 34; Figure 6(B)
 
-Planche 34; Figure 6(B)
-
-Herbe grimpante ou rampante; tige jusqu'à 15 m de longueur, glabre. Feuille: pétiole 1–10 cm, glabre; limbe profondément 3- à 5-palmatilobé, de (4–)6–12(-14) × (5,5–)7–16(-18) cm, apiculé ou rarement acuminé au sommet, ±coriace, pâle dessus, à marge entière ou largement denté. Inflorescence: pédoncule glabre ou pubérulent, le mâle 2–3 mm, le femelle 1–10 mm ; probractée étroitement elliptique-ovale, longue de 1,5–7 mm ; bractées étroitement elliptiques-ovales, longues de 1–6 mm. Fleur mâle: pédicelle 4–34 mm ; sépales longs de 0,1–1,5 mm, vert pâle ; pétales étroitement elliptiques-ovales à étroitement triangulaires, longs de 10–20 mm ; étamines à anthères formant une masse globuleuse, jaunes. Fleur femelle: pédicelle d'une fleur solitaire 15–20 mm, celui d'une fleur en racème 3–10 mm ; ovaire 3-loculaire, ellipsoïdal. Fruit globuleux à ellipsoïdal, de 4–10 × 4–8 cm. Graine obovoïde, de 12–14 × 7–8 × 1–1,5 mm, brun foncé à noir.
+Climbing or trailing herb; stem up to 15 m long, glabrous. Leaf: petiole 1–10 cm, glabrous; blade deeply 3- to 5-palmatilobed, (4–)6–12(–14) × (5.5–)7–16(–18) cm, apiculate or rarely acuminate at apex, ± coriaceous, pale above, with entire or broadly dentate margin. Inflorescence: peduncle glabrous or puberulent, male 2–3 mm, female 1–10 mm; probract narrowly elliptic-ovate, 1.5–7 mm long; bracts narrowly elliptic-ovate, 1–6 mm long. Male flower: pedicel 4–34 mm; sepals 0.1–1.5 mm long, pale green; petals narrowly elliptic-ovate to narrowly triangular, 10–20 mm long; stamens with anthers forming a globose mass, yellow. Female flower: pedicel of a solitary flower 15–20 mm, that of a racemose flower 3–10 mm; ovary 3-locular, ellipsoid. Fruit globose to ellipsoid, 4–10 × 4–8 cm. Seed obovoid, 12–14 × 7–8 × 1–1.5 mm, dark brown to black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l'Afrique de l'Ouest, du Libéria au Nigéria, au Cameroun, à la Guinée équatoriale, au Gabon, à la République du Congo et à la République Centrafricaine ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime et Woleu-Ntem
+known from West Africa, from Liberia to Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Central African Republic; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, forêt galerie, terrains rudéraux ; au Gabon à 0–775 m d’altitude, ailleurs jusqu’à 850 m
+primary and secondarized forest, gallery forest, ruderal terrain; in Gabon at 0–775 m elevation, elsewhere up to 850 m
 
 ## Bibliography
 

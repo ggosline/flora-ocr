@@ -27,7 +27,7 @@ Wieringa et al. 5271 (holo- : WAG!; iso- : BR!, ALF, BHO, BP, BRVU, CANB, CEPEC,
 
 ## Distribution
 
-Cameroon, Equatorial Guinea (Rio Muni) and Gabon; rare in Gabon, present in the Estuary (environs of Libreville), Woleu-Ntem (region of Oyem) and probably Ogooué-Ivindo (Bélinga)
+Cameroon, Equatorial Guinea (Rio Muni) and Gabon; rare in Gabon, present in the Estuaire (environs of Libreville), Woleu-Ntem (region of Oyem) and probably Ogooué-Ivindo (Bélinga)
 
 Gabon, and probably Equatorial Guinea (see note); in Gabon, recorded from Ngounié, Ogooué-Lolo and Ogooué-Maritime, apparently infrequent
 

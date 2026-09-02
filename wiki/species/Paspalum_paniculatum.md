@@ -24,17 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, rhizomatous, erect, capable of exceeding 1 m in height. Leaves more or less pubescent with tubercle-based hairs. Sheaths keeled, the lower ones compressed; ligules truncate; blades linear to linear-lanceolate, up to 35 cm long and 15 mm wide, with cartilaginous margins often undulate-crisped, pubescent when young.
 
-Herbe pérenne, rhizomateuse, dressée, pouvant dépasser 1 m de haut. Feuilles plus ou moins pubescentes à poils tuberculés à la base. Gaines carénées, les inférieures compressées; ligules tronquées; limbes linéaires à linéaires-lancéolés, jusqu'à 35 cm de long et 15 mm de large, à marges cartilagineuses souvent ondulées crispées, pubescents à l'état jeune.
+Panicle reaching about fifteen cm in length, axis pubescent at the level of the nodes. Racemes 2 to 10 cm long, dense; pedicels geminate, unequal, the longer one 1 mm. Spikelets hemispherical, dark brown. Upper glume pubescent, with 3 nerves; sterile lemma similar, but with lateral marginal nerves. Upper floret as long as the spikelet, very obtuse. Anthers and styles purple.
 
-Panicule atteignant une quinzaine de cm de long, axe pubescent au niveau des nœuds. Racèmes de 2 à 10 cm de long, denses; pédicelles géminés, inégaux, le plus long de 1 mm. Épilets hémissphériques, brun foncé. Glume supérieure pubescente, à 3 nvures; lemma stérile semblable, mais avec les nervures latérales marginales. Fleur supérieure aussi longue que l'épillet, très obtuse. Anthères et styles pourpres.
+Species from tropical America, localized in Africa: it has been recorded in Cameroon, in nearby islands and in Gabon. It is a plant of forest fallows, with fairly mediocre forage value.
 
-Espèce de l'Amérique tropicale, localisée en Afrique : elle a été signalée au Cameroun, dans les îles voisines et au Gabon. C'est une plante de jachères forestières, d'intérêt fourrager assez médiocre.
+According to Walker and Sillans, this species is given the same vernacular names as P. conjugatum.
 
-D'après Walker et Sillans, on donne à cette espèce les mêmes noms vernaculaires qu'au P. conjugatum.
-
-MATÉRIEL CONNU DU GABON Chevalier, 4399, Libreville. Koechlin : 4475, Tchibanga. Jardin 23, Gabon, sans localité précise, cité dans la F.T.A. (non vu).
+KNOWN MATERIAL FROM GABON Chevalier, 4399, Libreville. Koechlin: 4475, Tchibanga. Jardin 23, Gabon, without precise locality, cited in the F.T.A. (not seen).
 
 ## Figures
 

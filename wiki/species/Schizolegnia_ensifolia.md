@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, loc. cit.: 24 (1956); FWTA: 144 (1959).
 
-Rhizome courtement rampant, à écailles étroites, piliformes, formées de cellules à parois très épaisses, noires, contenu rouge-tre. Pétiole long de 10-20 cm, straminé-brunâtre, nu. Limbe lancéolé, long de 15-20 cm, penné. 3-6 paires de pennes latérales semblables à la terminale, linéaires, ayant 10-20 cm de long sur 0,5-1 cm de large, à extrémité courtement effilée, bords entiers, bases symétriques, obiquement tronquées ou cunéiformes. Texture herbacée. Pennés fertiles semblables aux stériles, mais légèrement plus étroites. Sores continues le long de marges. Nervilles formant une rangée d'aréoles obliques de chaque côté de la nervure médiane. Spores : tétraédriques, hyalines.
+Rhizome shortly creeping, with narrow, hair-like scales formed of cells with very thick walls, black, red-brown contents. Petiole 10-20 cm long, straw-coloured to brownish, glabrous. Frond lanceolate, 15-20 cm long, pinnate. 3-6 pairs of lateral pinnae similar to the terminal one, linear, 10-20 cm long by 0.5-1 cm wide, apex shortly attenuate, margins entire, bases symmetric, obliquely truncate or cuneate. Herbaceous texture. Fertile pinnae similar to the sterile ones, but slightly narrower. Sori continuous along the margins. Venules forming a row of oblique areoles on either side of the midvein. Spores: tetrahedral, hyaline.
 
 ## Type
 
@@ -33,9 +31,7 @@ Rhizome courtement rampant, à écailles étroites, piliformes, formées de cell
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Ghana, Afrique orientale et australe, Maurice, Madagascar, Asie. Terrains marécageux et mangroves.
+Guinea, Ghana, East and southern Africa, Mauritius, Madagascar, Asia. Marshy areas and mangroves.
 
 ## Specimens examined
 

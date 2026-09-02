@@ -23,7 +23,7 @@ Base of the plant. – C. Leaf sheath and base of the blade. – D. Base of the 
 
 ## Distribution
 
-Tropical and subtropical Africa, from Senegal to Sudan and southward, in South Africa; rare in Gabon, found only in Upper Ogooué (2 collections)
+Tropical and subtropical Africa, from Senegal to Sudan and southward, in South Africa; rare in Gabon, found only in Haut-Ogooué (2 collections)
 
 ## Ecology
 

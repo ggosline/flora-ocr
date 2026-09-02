@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chlamydocarya lobata Pierre, Bull. Soc. Linn. Paris 2 : 1316 (1887).
 
 — P. poggei Engl., Pflanzenfam., ed. 1, 1:227 (1897); Bot. Jahrb. 24:484, tab. 7 (1898). — De Wildeman, Ann. Mus. Congo b., Bot., ser. 5, 2:42 (1907); Bull. J. B. Brux. 5:319 (1919); Pl. Bequaert. 1:239 (1922). — Th. & H. Durand, Syll. : 99 (1909). — SLEUMER, Pflanzenfam. ed. 2, 20b:385, tab. 111, i-p. tab. 112 (1942).
@@ -27,17 +25,15 @@ tags: [species, generated]
 
 — P. mildbraedii Engl., in Mildbraed Wiss. Ergebn. Deutsch. Zentr.-Afr. Exped. 1910-1911 2:33 (1922), nom. nud.
 
-Liane à tige striée longitudinalement, pubescente (poils roux dressés), parfois torsadée à ryhtidome brun. Pétiole largement pubescent, marqué
+Liane with stem longitudinally striated, pubescent (reddish hairs erect), sometimes twisted with brown rhytidome. Petiole broadly pubescent, marked with a crest on the upper surface, 4.5-10.5 cm long. Blade pubescent on the upper surface, very strongly pubescent to tomentose on the lower surface golden yellow or silvery, broadly ovate or suborbicular, entire or with ± deep sinuses, 6-17 × 8-22 cm; base cordate, apex rounded. Primary venation palmate, 5 primary veins at the apex of the petiole, pubescent on the upper surface, prominent pubescent on the lower surface. Secondary veins 2-4 pairs, ascending, arcuate, weakly prominent pubescent above, prominent pubescent below. Veinlets in loose reticulum, obscurely visible above, pubescent below. Hydathodes terminating the secondary veins, prominent on the margin of the blade in the plane thereof, glabrous, apex with undulate margin.
 
-d’une crête à la face supérieure, long de 4,5-10,5 cm. Limbe pubescent à la face supérieure, très fortement pubescent à tomenteux à la face inférieure jaune doré ou argenté, largement ové ou suborbiculaire, entier ou à sinus ± profonds, 6-17 × 8-22 cm; base cordée, sommet arrondi. Nervation primaire palmée, 5 nervures primaires au sommet du pétiole, pubescentes à la face supérieure, saillantes pubescentes à la face inférieure. Nervures secondaires 2-4 paires, ascendantes, arquées, faiblement saillantes pubescentes dessus, saillantes pubescentes dessous. Nervilles en réseau lâche, obscurément visible dessus, pubescent dessous. Hydathodes terminant les nervures secondaires, saillants sur le bord du limbe dans le plan de celui-ci, glabres, sommet à bord ondulé.
+♂ Inflorescence in panicle of glomerules, 10-35 cm long, or in raceme of glomerules. Glomerule 3-5 mm in diameter, with short peduncle. Peduncle and rachis densely pubescent. ♂ Flower trimerous, 2 × 1 mm. Bract lanceolate, strongly enlarged in the upper 1/3, pubescent externally, glabrous internally, 1.5 mm long; margin black, apex acute. Calyx absent. Petals united with each other, pubescent externally, glabrous internally, narrowly obovate, 2 × 1 mm; apex acute. Stamens 3 gynobasic; filament enlarged at the base, ± connate with the petals; anther basifixed with 2 ellipsoid locules. ♀ Inflorescence in solitary axillary glomerule 1 cm in diameter. Rachis densely pubescent. ♀ Flower trimerous, 2.5 × 1.5 mm. Sepals connate, pubescent externally, pubescent on the lower 1/3 of the inner surface, narrowly obovate, 2.5 × 1 mm; apex obtuse. Petals connate with each other, ± strongly appressed against the pistil, broadly pubescent externally, glabrous internally (hairs of the upper margin reflexed toward the inner surface), narrowly obovate, 2 × 1 mm; apex very obtuse. Ovary shortly ellipsoid, 0.75 mm long, flattened, glabrous; style long and hirsute, ending in a plateau stigma with 8 digitations, some bifid, 0.7 mm in diameter.
 
-Inflorescence ♂ en panicule de glomérules, longue de 10-35 cm, ou en grappe de glomérules. Glomérule de 3-5 mm de diamètre, à pédoncule court. Pédoncule et rachis densément pubescents. Fleur ♂ trimère, 2 × 1 mm. Bractée blancéolée, fortement élargie au 1/3 supérieur, pubescente extérieurement, glabre intérieurement, longue de 1,5 mm; bord noir, sommet aigu. Calice absent. Pétales sousés entre eux, pubescents extérieurement, glabres intérieurement, étroitement obovés, 2 × 1 mm; sommet aigu. Étamines 3 gynobasiques; filet élargi à la base, ± soudé aux pétales; anthère basifixe à 2 loges ellipsoïdes. Inflorescence ♀ en glomérule solitaire axillaire de 1 cm de diamètre. Rachis densément pubescent. Fleur ♀ trimère, 2,5 × 1,5 mm. Sépales soudés, pubescents extérieurement, pubescents au 1/3 infé- rieur de la face interne, étroitement obovés, 2,5 × 1 mm; sommet obtus. Pétales soudés entre eux, ± fortement apprimés contre le pistil, largement pubescents extérieurement, glabres intérieurement (poils du bord supé- rieur réfléchi vers la face interne), étroitement obovés, 2 × 1 mm; sommet très obtus. Ovaire courtement ellipsoïde, long de 0,75 mm, aplati, glabre; style long et hirsute, se terminant par un stigmate en plateau à 8 digitations, certaines bifides, 0,7 mm de diamètre.
+Infructescence in starred fertile glomerule, pedunculate. Drupe surrounded by the accrescent corolla, ending in a cone at the apex, pubescent on both surfaces, 4 × 2 cm. Small prickles very obtuse or small papillae on the inner surface of the woody endocarp. PL. 26, p. 99.
 
-Infrutescence en glomérule fructifère étoilé, pédonculé. Drupe entourée par la corolle accrescente, se terminant en cône au sommet, pubescente sur les deux faces,  $ 4 \times 2 $ cm. Petits aiguillons très obtus ou petits mamelons à la face interne de l'endocarpe ligneux. PL. 26, p. 99.
+It should be noted that there is great variability in the form of the blade.
 
-Il faut noter la grande variabilité de la forme du limbe.
-
-Cette espèce peut habiter des stations très variées allant de la forêt semi-décidue aux jachères. Son aire s'étend de la Sierra Leone au Zaïre.
+This species can inhabit very varied habitats ranging from semi-deciduous forest to fallow land. Its range extends from Sierra Leone to Zaire.
 
 ## Specimens examined
 

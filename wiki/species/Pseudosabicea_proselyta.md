@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose subshrub, with a subquadrangular woody base attaining 12 mm diam. and branching towards the base into several stems 0.80-3 m long. Internodes 5-15 × 0.3-0.5 cm, clothed with ochraceous appressed hairs. Stipules erect, 8-12 mm long, enlarged above the base, with acute ± attenuate apex, pubescent on the outside. Petioles (5) 10-30 (40) mm, ochraceous pubescent, unequal within each leaf pair. Marked anisophylly. Blade pale green in vivo, discolorous when dry, brownish and glabrous above, ochraceous or rust-colored below, elliptic or somewhat ovate 6-15 (17) × 3-7 (8) cm; base most often rounded, sometimes briefly acute; apex ± lanceolate or subacuminate. Main veins pubescent above in very young growth then ± glabrescent; (11) 13-18 pairs of secondary veins clothed below as well as the midrib and the intersecondaries, with ochraceous ± appressed hairs. Fine reticulation well visible under the magnifying glass when dry.
 
-Sous-arbuste sarmenteux, à pied ligneux subquadrangulaire atteignant 12 mm de diam. et ramifié vers la base en plusieurs tiges de 0,80-3 m de longueur. Entrenœuds de 5-15 × 0,3-0,5 cm, revêtus de poils apprimés ochracés. Stipules dressées, longues de 8-12 mm, élargies au dessus de la base, à sommet aigu ± atténué, pubescentes extérieurement. Pétioles de (5) 10-30 (40) mm, pubescents ochracés, inégaux dans chaque paire foliaire. Anisophyllie sensible. Limbe vert clair in vivo, discolore à sec, brunâtre et glabre dessus, ochracé ou rouille dessous, elliptique ou un peu ové de 6-15 (17) × 3-7 (8) cm; base le plus souvent arrondie, parfois brièvement aiguë; sommet ± lancéolé ou subacuminé. Nervures principales pubescentes dessus dans le très jeune âge puis ± glabrescentes; (11) 13-18 paires de nervures secondaires vêtues dessous ainsi que la médiane et que les intersecondaires, de poils ochracés ± apprimés. Fin réticule bien visible à la loupe à sec.
+Axillary paniculate ± corymbiform inflorescences, pale yellow in vivo, 15-50 mm long, with peduncle 1-20 mm, entirely accrescent from the time of fertilization, clothed with ochraceous yellow appressed hairs, with 20-70 flowers, with opposite main branches; a pair of lanceolate bracts 3-8 mm, generally opposite at the top of the peduncle, the others all recaulescent. Pedicel 0-2 mm. Calyx hairy on the ovary, tubular for 0.5-1 mm, with 5 lobes 1.5-3 mm long, unequal in width, elliptic obtuse, puberulent, ± curved extrorsely towards the apex. Bud with rounded pubescent apex. Corolla white then brown towards the end of anthesis, 3.5-4 mm long, with tube 3 mm, glabrous towards the base, with 5 short triangular lobes, with dense pilosity in the throat. Anthers sessile c. 0.8 mm, with brief apicule. Style 3.7 mm, with stigma whose two lobes
 
-Inflorescences axillaires paniculées ± corymbiformes, jaune pâle in vivo, de 15-50 mm de long, à pédoncule de 1-20 mm, entièrement accrescentes dès la fécondation, vêtues de poils apprimés jaune ochracé, à 20-70 fleurs, à ramifications principales opposées; une paire de bractées lancéolées de 3-8 mm, généralement opposées au sommet du pédoncule, les autres étant toutes recaulescentes. Pédicelle de 0-2 mm. Calice velu sur l'ovaire, tubuleux sur 0,5-1 mm, à 5 lobes longs de 1,5-3 mm, inégaux en largeur, elliptiques obtus, pubérulents, ± arqués extrorses vers le sommet. Bouton à sommet arrondi pubescent. Corolle blanche puis brune vers la fin de l'anthèse, longue de 3,5-4 mm, à tube de 3 mm, glabre vers le bas, à 5 courts lobes triangulaires, à pilosité dense dans la gorge. Anthères sessiles d'env. 0,8 mm, à bref apicule. Style de 3,7 mm, à stigmate dont les deux lobes
+are visible at the level of the throat (longistyle form). Ovary with 2 many-ovuled locules.
 
-sont visibles au niveau de la gorge (forme longistyle). Ovaire à 2 loges multioulées.
-
-Infrutescence remarquable par son accrescence qui la rend presque lâche et longue de 6-10 cm; elle ploie sous le poids des fruits. Le pédoncule accru atteint 2-5 cm. Fruit blanc nuancé de gris-bleu clair, à sépales vert clair persistants, elliptique atteignant 12 × 10,5 mm, charnu-spongieux, ± pubescent, à parois de 2 mm, blanchâtres avec des granules noir-grenat disséminés. Loges de 7-8 mm de long; placentas oblongs de 3,8 × 2,7 mm, subéchinulés. Graines brunes subprismatiques, réciproquement comprimées, de 0,4-0,5 mm; près de 650 graines dans un fruit.
+Infructescence remarkable for its accrescence which renders it almost lax and 6-10 cm long; it bends under the weight of the fruits. The accrescent peduncle attains 2-5 cm. Fruit white tinged with pale greyish-blue, with pale green persistent sepals, elliptic attaining 12 × 10.5 mm, fleshy-spongy, ± pubescent, with walls 2 mm, whitish with scattered dark garnet granules. Locules 7-8 mm long; oblong placentas 3.8 × 2.7 mm, slightly echinulate. Seeds brown subprismatic, mutually compressed, 0.4-0.5 mm; nearly 650 seeds in a fruit.
 
 ## Type
 
@@ -35,9 +33,7 @@ Staudt 1, Lolodorf, Cameroun (P ex herb. Drake). S. Nigeria, Cameroun, Guinée e
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le Ps. proselyta, connu seulement du Gabon, est relative-ment commun et assez répandu dans la repousse demi-éclairée des bords de routes en sol drainé; il prend généralement appui sur les plantes qui l'entourent ayant cependant assez de vigueur pour croître penché sans ramper, en l'absence de support.
+Ps. proselyta, known only from Gabon, is relatively common and fairly widespread in the semi-cleared regrowth along roadsides in well-drained soil; it generally leans on the surrounding plants while having enough vigor to grow bent without creeping, in the absence of support.
 
 ## Specimens examined
 

@@ -26,7 +26,7 @@ Dibata 1095 +DXW2JRRXp66(RI0RDQGDQHDU0DQGMD\H¶6¶(QRYÀ Liane ; rameaux à poil
 
 Part of open corolla and pistil (× 4). – 14. Pistil (× 6). – 15. Stamen, ventral (left) and dorsal views, longitudinal section showing the embryo (× 6; specimens: Reitsma 1589 ; 7, 9 : Bos 6114 ; 8 : W.J.J.O. de Wilde 2762 ; 10 : Klaine 995 ; 11-18 : J.J.F.E. de Wilde et al.283 ; 19, 20 : Breteler 1861 ). Drawing by Wil Wessel Brand, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
-lobes 2–2.5 × 1.5–2 mm, pubescent over the entire outer surface, the interior with appressed hairs; corolla white, tube ± 6.5 mm long, the exterior glabrous near the base, higher up pubescent, the interior pilose at the level of the anthers, the lower half and the throat glabrous, lobes partly pubescent on the exterior almost glabrous on the interior; stamens inserted above the middle of the tube, included by 0.5–1 mm, anther ± 1.5 mm long; pistil ± 4.5 mm long, ovary obconic with truncate apex, pilose; style ± 2.5 mm, glabrous. Fruit unknown. Distribution endemic to Upper Ogooué, Gabon, known from a single collection.
+lobes 2–2.5 × 1.5–2 mm, pubescent over the entire outer surface, the interior with appressed hairs; corolla white, tube ± 6.5 mm long, the exterior glabrous near the base, higher up pubescent, the interior pilose at the level of the anthers, the lower half and the throat glabrous, lobes partly pubescent on the exterior almost glabrous on the interior; stamens inserted above the middle of the tube, included by 0.5–1 mm, anther ± 1.5 mm long; pistil ± 4.5 mm long, ovary obconic with truncate apex, pilose; style ± 2.5 mm, glabrous. Fruit unknown. Distribution endemic to Haut-Ogooué, Gabon, known from a single collection.
 
 ## Ecology
 

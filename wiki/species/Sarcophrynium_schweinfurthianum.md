@@ -27,13 +27,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bull. Soc. Bot. Belg. 83, 5 : 30 (1950).
 
-Herbe dressée, en touffe de feuilles basiliaires entourant une tige portant une inflorescence et une feuille terminale, jusqu'à 2 m de haut. Feuilles à limbe progressivement atténué à arrondi à la base, puis très légèrement cordé au niveau du raccord avec la nervure médiane, de dimensions très variables, jusqu'à environ 50 × 20 cm. Nervure médiane glabre à la face supérieure ou légèrement pubescente, avec des poils caduces et turberculés à la base. Gaines pubescentes, callus pouvant atteindre une dizaine de centimètres de long.
+Herb erect, in a tuft of basal leaves surrounding a stem bearing an inflorescence and a terminal leaf, up to 2 m tall. Leaves with blade gradually attenuate to rounded at the base, then very slightly cordate at the junction with the midvein, of highly variable dimensions, up to approximately 50 × 20 cm. Midvein glabrous on the upper surface or slightly pubescent, with caducous and tuberculate hairs at the base. Sheaths pubescent, callus reaching up to approximately ten centimetres long.
 
-Inflorescence ramifiée lâche, jusqu'à une vingtaine de centimètre de long. Entre-nœuds de 10-15 mm de long, bractées de ± 6 mm de large. Pédoncule commun d'environ 2 cm, en atteignant 3 avec le fruit. Pédicelles respectivement de 1 et 2 mm, généralement 3 cymes à l'aisselle de chaque bractée ; bractées de 1 mm de diamètre. Fleurs blanches, plus ou moins teintées de rouge dans la gorge, corolle d'environ 6 mm de long. Fruit globuleux ou piriforme, de 15 à 20 mm de diamètre, rouge hisant à l'état frais. Graines entourées d'un mucilage poisseux, bosselées.
+Inflorescence loosely branched, up to approximately twenty centimetres long. Internodes 10–15 mm long, bracts approximately 6 mm wide. Common peduncle approximately 2 cm, reaching 3 with the fruit. Pedicels respectively 1 and 2 mm, generally 3 cymes at the axil of each bract; bracteoles 1 mm in diameter. Flowers white, more or less tinged with red in the throat, corolla approximately 6 mm long. Fruit globular or pyriform, 15–20 mm in diameter, bright red when fresh. Seeds surrounded by sticky mucilage, bosselated.
 
 ## Type
 
@@ -41,11 +39,9 @@ Schweinfurth 3103, Afr. orientale (B?, non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species known from Cameroon, Gabon, Belgian Congo, Central African Republic to Sudan and Uganda.
 
-Espèce connue du Cameroun, du Gabon, du Congo ex-belge, de Centrafrique jusqu'au Soudan et en Ouganda.
-
-Les pétioles sont employés en sparterie. Les feuilles servent à la confection de toitures et d'emballages.
+The petioles are used in basketwork. The leaves are used for making roofing and packaging materials.
 
 ## Specimens examined
 
@@ -55,19 +51,17 @@ N. Hallé : 1097, 2204, Makokou.
 
 **Pages**: 153-154 · **Source**: `sources/Marantaceae_vol09_paddle`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 A sp. typo, minuta pubescentia subtus laminas foliorum differt.
 
-Diffère de l'espèce par la fine pubescence de la face inférieure des feuilles.
+Differs from the species by the fine pubescence on the lower surface of the leaves.
 
 ### Type
 
-Letouzey 3608, Cameroun (P)
+Letouzey 3608, Cameroon (P)
 
 ### Discussion
 
-Cette variété est connue du Cameroun, où elle se rencontre en mélange avec l'espèce. Sa présence au Gabon est très probable.
+This variety is known from Cameroon, where it is found mixed with the species. Its presence in Gabon is very probable.
 
 ## Notes
 

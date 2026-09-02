@@ -22,8 +22,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Phaylopsis micrantha (Benth.) C. B. Clarke, F.T.A. 5 : 85 (1899)
 
 ≡ Aetheilema micranthum Benth., in W.J. Hooker, Fl. Nigrit. 480 (1849).
@@ -32,21 +30,21 @@ tags: [species, generated]
 
 ≡ Phaulopsis obliqua (T. Anders. ex S. Moore) Lindau, Engl. et Prantl, Natürl. Pflanzenfam., Nachtr. zu II-IV, 1:305 (1897) « obliquus T. And.».
 
-Sous-arbrisseau très branchu de 1-2 m de haut, à tiges et inflorescences vêtues d'un indument composé de deux types de
+Much-branched subshrub 1-2 m tall, with stems and inflorescences bearing an indument composed of two types of
 
 1-10 : Phaulopsis micrantha (Benth.) Exell.
 
 11-21 : Phaulopsis silvestris (Lindau) Lindau.
 
-poils, les uns simples, longs de 1,5-2 mm; les autres glanduleux ne dépassant pas 0,5 mm, à glandes parfois très petites et peu visibles. Tiges cylindriques un peu striées. Pétioles de 2-3,5 cm. Limbe des feuilles ovale, acuminé, très oblique à la base. 4-5 paires de nervures latérales; marges des grands feuilles crénelées-dentelées Feuilles très inégales par anisophyllie : la feuille plus petite atteint environ le quart de la feuille plus grande.
+hairs, some simple, 1.5-2 mm long; others glandular not exceeding 0.5 mm, with glands sometimes very small and scarcely visible. Stems cylindrical slightly striated. Petioles 2-3.5 cm. Leaf blade ovate, acuminate, very oblique at the base. 4-5 pairs of lateral veins; margins of large leaves crenate-dentate. Leaves very unequal due to anisophylly: the smaller leaf reaches approximately one quarter of the larger leaf.
 
-Inflorescences axillaires, non condensées, en général plutôt biflores. Bractées juxtaposées à des feuilles florales qui leur ressemblent en forme et dimensions, de  $ 8,5 \times 3,5 $ mm; bractéoles orbiculaires-acuminées ou obcordées, obtuses au sommet, pubes-centes-ciliées, de  $ 4-5 $ mm de diamètre, à poils glanduleux, plus ou moins transparents. Fleurs sessiles; calice à sépales inégaux; sépales postérieur elliptique-acuminé mais à apex arrondi, de  $ 6,5 \times 2-2,5 $ mm; sépales antérieurs lancéolés, de  $ 5 \times 0,8-1 $ mm; sépales latéraux presque identiques, mais d'environ  $ 0,5 $ mm de large ou moins. Corolle petite, blanchâtre, d'environ  $ 5 $ mm de long. Ovaire un peu pubescent, à poils glanduleux vers le sommet, de  $ 1,5 $ mm de haut. Style légèrement pubescent, de  $ 2 $ mm de long; stigmate glabre, bilobé, avec un lobe beaucoup plus long que l'autre et en forme de crochet.
+Inflorescences axillary, not condensed, generally rather biflorous. Bracts juxtaposed with floral leaves resembling them in form and dimensions, $ 8.5 \times 3.5 $ mm; bracteoles orbicular-acuminate or obcordate, obtuse at the apex, pubescent-ciliate, $ 4-5 $ mm in diameter, with glandular hairs, more or less transparent. Flowers sessile; calyx with unequal sepals; posterior sepal elliptic-acuminate but rounded at the apex, $ 6.5 \times 2-2.5 $ mm; anterior sepals lanceolate, $ 5 \times 0.8-1 $ mm; lateral sepals almost identical, but approximately $ 0.5 $ mm wide or less. Corolla small, whitish, approximately $ 5 $ mm long. Ovary somewhat pubescent, with glandular hairs toward the apex, $ 1.5 $ mm tall. Style slightly pubescent, $ 2 $ mm long; stigma glabrous, bilobed, with one lobe much longer than the other and hook-shaped.
 
-Capsule fusiforme, de  $ 4,5 \times 1,8 $ mm, apiculée, glabre sauf au sommet. Graines aplaties-lenticulaires d'environ 1 mm de diamètre, couverte de poils hygroscopiques.
+Capsule fusiform, $ 4.5 \times 1.8 $ mm, apiculate, glabrous except at the apex. Seeds flattened-lenticular approximately 1 mm in diameter, covered with hygroscopic hairs.
 
-Type de l’Aetheilema micranthum Benth.: G. Don, s. n. (BM, holotype!), San-Tomé.
+Type of Aetheilema micranthum Benth.: G. Don, s. n. (BM, holotype!), São Tomé.
 
-Cameroun, San-Tomé, Annobon, Gabon, Congo, Angola, Centrafrique.
+Cameroon, São Tomé, Annobón, Gabon, Congo, Angola, Central African Republic.
 
 ## Specimens examined
 

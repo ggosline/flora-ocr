@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Seemann, J. Bot. 4 : 134 (1866) . P. staudtii Engl., Bot. Jahrb. Syst. 26 : 361 (1899). Herbe vivace , généralement épiphyte , dressée, jusqu’à 40 cm de hauteur, glabre ou partiellement velue. Feuilles alternes ; pétiole 8–12 mm ; limbe ovale à elliptique ( rapport largeur/ longueur < ½) , 1,5–8 cm × 1–4 cm, à base cunéée, à sommet courtement à longuement acuminé ou subcuspidé , épais et souvent charnu, avec 3(–5) nervures palmées (parfois peu visibles). Inflorescence en épis axillaires, jusqu’à 8 par nœud , 1–4 cm × ≤ 1 mm, verts ; pédoncule 2–8 mm. Fruit ovoïde, généralement < 1 mm de longueur, papilleux.
+in Seemann, J. Bot. 4: 134 (1866). P. staudtii Engl., Bot. Jahrb. Syst. 26: 361 (1899). Perennial herb, generally epiphytic, erect, up to 40 cm tall, glabrous or partially pubescent. Leaves alternate; petiole 8–12 mm; blade ovate to elliptic (width/length ratio < ½), 1.5–8 cm × 1–4 cm, with cuneate base, with short to long acuminate or subcuspidose apex, thick and often fleshy, with 3(–5) palmate veins (sometimes inconspicuous). Inflorescence in axillary spikes, up to 8 per node, 1–4 cm × ≤ 1 mm, green; peduncle 2–8 mm. Fruit ovoid, generally < 1 mm long, papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et équatoriale, Madagascar ; au Gabon, connu de la Ngounié, de l’OgoouéIvindo et du Woleu-Ntem
+Tropical and equatorial Africa, Madagascar; in Gabon, known from Ngounié, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-épiphyte en forêt de moyenne altitude, lithophyte sur éboulement rocheux, forêt périodiquement inondée ; au Gabon à 400 m d’altitude, ailleurs jusqu’à 2200 m
+epiphyte in medium-altitude forest, lithophyte on rocky scree, periodically inundated forest; in Gabon at 400 m altitude, elsewhere up to 2200 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La var. butaguensis (De Wild.) Düll est endémique d’Afrique de l’Est. B : Baker & Wright (1909), Düll (1973), Keay (1954), Verdcourt (1996). i B liographie
+Var. butaguensis (De Wild.) Düll is endemic to East Africa. B: Baker & Wright (1909), Düll (1973), Keay (1954), Verdcourt (1996). Bibliography
 
 ## Notes
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Twining liane; young branchlets pubescent then glabrescent. Stipules ovate-acute, 3–4 mm broad, ± deflexed. Petiole 8–25 mm. Lamina moderately pubescent on both surfaces, ca. 3–4 cm broad, base variable ± cuneiform, apex lanceolate. 9–15 pairs of secondary nerves ± pubescent.
 
-Liane volubile; jeunes rameaux pubescents puis glabrescents. Stipules ovées-aiguës, larges de 3-4 mm, ± rabattues. Pétiole de 8-25 mm. Limbe médiocrement pubescent sur les deux faces, large d'env. 3-4 cm, à base variable ± cunéiforme, à sommet lancéolé. 9-15 paires de nervures secondaires ± pubescentes.
+Inflorescence many-flowered rather lax. Corolla pale green, 9–11 mm long, pubescent towards the apex. Calyx lobes slightly ciliate, 2–4 × 1–1.5 mm, acute. Ovary moderately pubescent.
 
-Inflorescence multiflore plutôt lâche. Corolle vert clair longue de 9-11 mm, pubescente vers le sommet. Lobes du calice un peu ciliés, de 2-4 × 1-1,5 mm, aigus. Ovaire médiocrement pubescent.
+Fruit white with red juice; cf. seed ornamentation fig. 1 p. 18.
 
-Fruit blanc à suc rouge; cf. ornamentation de la graine fig 1 p. 18.
+Type from Sierra Leone (not seen). References: Lecomte C 92 and C 99, Niounvou, Congo, cited by Wernham.
 
-Type de Sierra-Leone (non vu). Références : Lecomte C 92 et C 99, Niounvou, Congo, citées par Wernham.
-
-De la Casamance jusqu'au Congo. Espèce variable et difficile à délimiter. Présente des affinités étroites avec l'espèce qui suit.
+From the Casamance to the Congo. Variable species and difficult to delimit. Shows close affinities with the following species.
 
 ## Specimens examined
 

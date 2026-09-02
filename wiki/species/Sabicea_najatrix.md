@@ -16,21 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aff. S. Dewevrei De Wild., but more villose especially on the leaves, inflorescences on woody leafless stems, peduncles pilose, bracts broadly connate, calyx lobes larger, differs.
 
-Aff. S. Dewevrei De Wild., sed villosior praecipue in foliis, inflorescentiis in caulis lignosis defoliatis, pedunculis pilosis, bracteis late connatis, lobis calycis majoribus, differt.
+Twining vine with woody stem reaching nearly 1 cm diam. Extremities villous with ochraceo-yellow hairs. Stipules very broadly ovate with apex almost acute, 15-20 mm wide, ciliate pubescent except the upper surface which is glabrous. Petiole 1-2.5 cm, covered with fine erect hairs. Blade brownish when dry,
 
-Liane volubile à tige ligneuse atteignant près de 1 cm de diam. Extrémités velues à poils jaune ochracé. Stipules très largement ovées à sommet presque aigu, larges de 15-20 mm, ciliées pubescentes sauf la face supérieure qui est glabre. Pétiole de 1-2,5 cm, couvert de fins poils dressés. Limbe brunâtre à sec,
+PL. 38. — Sabicea efulenensis (Hutch.) Hepper : 1, flowering branchlet × 3/4; 2, floral insertions; 3, section of longistylous bud; 4, brevistylous flower; 5, anther (1 to 5, N. Hallé 2742); 6, portion of infructescence (Letouzey 4455); 7, fruiting branchlet; 8, insertion of fruits; 9 and 10, sections of fruit; 11, seed (7 to 11, N. Hallé 794 bis).
 
-PL. 38. — Sabicea efulenensis (Hutch.) Hepper : 1, rameau florifère × 3/4; 2, insertions florales; 3, coupe du bouton longistyle; 4, fleur brévystyle; 5, anthère (1 à 5, N. Hallé 2742); 6, portion d'infrutescence (Letouzey 4455); 7, rameau fructifère; 8, insertion des fruits; 9 et 10, coupes du fruit; 11, graine (7 à 11, N. Hallé 794 bis).
+pubescent above and below, elliptic, 8-15 × 2.5-8 cm; base rounded, sometimes with one of the sides a little shorter; apex with an acute acumen 8-15 mm long. 10-12 pairs of secondary nerves strongly villose as well as the midrib on the lower surface.
 
-pubescent dessus et dessous, elliptique, de 8-15 × 2,5-8 cm; base arrondie, parfois avec l'un des côtés un peu plus court; sommet avec un acumen aigu de 8-15 mm. 10-12 paires de nervures secondaires fortement villeuses ainsi que la médiane à la face inférieure.
+Inflorescences at the nodes of old stems from ground level, opposite or grouped on short bracteolate woody axes. Peduncle villose 6-10 mm; bracts broadly suborbicular, 12-13 mm wide, connate-united over 5-6 mm on either side of the axis, having at least some hairs on the external surface. Approx. 3-6 sessile flowers exceeding at the same time the level of the bracts. Calyx and ovary reaching ± 2 cm. Calyx tube 12 ×
 
-Inflorescences aux nœuds des vieilles tiges à partir du sol, opposées ou groupées sur de courts axes ligneux bractéolés. Pédoncule villeux de 6-10 mm; bractées largement suborbiculaires, de 12-13 mm de large, soudées-connées sur 5-6 mm de part et d'autre de l'axe, ayant au moins quelques poils sur la face externe. Env. 3-6 fleurs sessiles dépassant en même temps le niveau des bractées. Calice et ovaire atteignent ± 2 cm. Tube du calice 12 ×
+6-8 mm, ± ciliate or loosely pubescent; lobes somewhat ciliate triangular, 5-6 mm long. Corolla white equal or scarcely exceeding the reddish calyx; corolla lobes pubescent on the external surface. Stamens sessile in the middle of the tube in the longistylous form. Stigmatic lobes linear at the level of the throat. Ovary pilose containing 5 locules.
 
-6-8 mm, ± cilié ou pubescent de façon lâche; lobes un peu ciliés triangulaires, longs de 5-6 mm. Corolle blanche égale ou à peine supérieure au calice rougeâtre; lobes de la corolle pubescent sur la face externe. Étamines sessiles au milieu du tube dans la forme longistyle. Lobes stigmatiques linéaires au niveau de la gorge. Ovaire pileux contenant 5 loges.
-
-Fruit non connu.
+Fruit not known.
 
 ## Type
 
@@ -38,13 +36,11 @@ Le Testu 1898 (holotype P!, isotype BR), Tchibanga, Gabon (fl. 5 déc. 1914)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant known only from Gabon; it had been confused with S. Dewevrei, of which it is very close, by F. Pellegrin (Fl. Mayombe 3 : 9, 1938).
 
-Plante connue seulement du Gabon; elle avait été confondue avec le S. Dewevrei, dont elle est très voisine, par F. Pellegrin (Fl. Mayombe 3 : 9, 1938).
+Conspecific material:
 
-Matériel conspéciﬁque :
-
-Thollon : 1296, forêt du Mayombe (fl.nov.).
+Thollon : 1296, Mayombe forest (fl. Nov.).
 
 ## Figures
 

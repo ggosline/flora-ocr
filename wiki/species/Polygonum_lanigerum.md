@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, entirely whitish, with robust stem. Leaves shortly petiolate, lanceolate, long-acuminate at the apex, covered with whitish indumentum, paler beneath, of variable dimensions (up to 24 × 7.5 cm); ocreae membranous, cylindrical, rather long, with margins bearing short cilia, eventually caducous.
 
-Herbe vivace toute entière blanchâtre, à tige robuste. Feuilles courtement pétiolées, lancéolées, longuement acuminées au sommet, couvertes d'un indument blanchâtre, plus pâle en-dessous, de dimensions variables (jusqu'à  $ 24 \times 7.5 $ cm); ochréas membraneux, cylindriques, assez longs, à bord pourvu de cils courts, finalement caducs.
+Spikes rather dense, geminate or forming a terminal paniculate inflorescence, 4–9 cm long; bracts 3 mm long, suborbicular, with margins briefly ciliate or naked; pedicels covered with fine woolly tomentum. Flowers pink, more or less 4 mm long, with pedicels as long as the bracts. Perianth subcampanulate, without glands, 5-lobed. Stamens ordinarily 6. Styles 2, connate in the lower third. Fruit: a lenticular achene enclosed in the perianth, black, shining.
 
-Épis assez denses, géminés ou formant une inflorescence paniculiforme terminale, de 4-9 cm de long; bractées de 3 mm de long, suborbiculaires, à bords brièvement ciliés ou nus; pédoncules couverts d'un fin duvet laineux. Fleurs roses, de plus ou moins 4 mm de long, à pédicelles aussi longs que les bractées. Périanthe subcampanulé, sans glandes, à 5 lobes. Étamines ordinairement 6. Styles 2, soudés au tiers inférieur. Fruit : un akène lenticulaire renfermé dans le périanthe, noir, luisant.
+Type from southern Africa.
 
-Type de l'Afrique australe.
-
-Herbe des berges des rivières. Répandue en Afrique au Sud du tropique du Cancer et à Madagascar. Semble être cultivée pour faire du sel indigène.
+Herb of riverbanks. Widespread in Africa south of the Tropic of Cancer and in Madagascar. Appears to be cultivated for the production of indigenous salt.
 
 ## Specimens examined
 

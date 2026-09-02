@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 = Hedyotis pentandra Schum. et Thonn., Kongl. Dansk Vidensk. S. Afh. 3 : 71 (1827).
 
-Herbe décombante, enracinée aux nœuds, dépassant 50 cm, à tiges succulentes peu ramifiées. Entrenœuds glabres de 2-12 cm. Stipules glabres 2-4-dentées, souduées latéralement aux bases pétiolaires. Feuilles glabres, vert pâle et ± cassantes in vivo, étroitement lancéolées, de 1,5-8 × 0,5-2 cm, à base ± sessile arrondie ou subaiguë. Marge rebordée. 3-4 paires très peu distinctes de nervures secondaires.
+Decumbent herb, rooting at the nodes, exceeding 50 cm, with succulent, sparsely branched stems. Internodes glabrous 2–12 cm. Stipules glabrous 2–4-dentate, laterally fused to the petiolar bases. Leaves glabrous, pale green and ± brittle in vivo, narrowly lanceolate, 1.5–8 × 0.5–2 cm, with ± sessile base, rounded or subacute. Margin rebordered. 3–4 pairs very slightly distinct of secondary nerves.
 
-Inflorescences axillaires 6-13-flores, glabres, alternes de nœud en nœud; pédoncule de 2-7 cm; rachis un peu coudé aux nœuds et portant des fleurs ou des cymes pauciflores. Pédicelle de 3-15 mm. Calice glabre à 5 dents triangulaires de 0,5 à 1,8 mm. Corolle blanche, verdâtre, bleutée ou violacée, de 3-6 mm de diam., à tube d'env. 2,5 mm de hauteur et muni vers la base de fentes interpétalaires, glabre extérieurement, pileuse intérieurement. Isostylie (var. pentandrus) ou hétérostylie (var. minor
+Inflorescences axillary 6–13-flowered, glabrous, alternate from node to node; peduncle 2–7 cm; rachis somewhat angled at the nodes and bearing flowers or few-flowered cymes. Pedicel 3–15 mm. Calyx glabrous with 5 triangular teeth 0.5 to 1.8 mm. Corolla white, greenish, bluish or purplish, 3–6 mm diam., with tube ca. 2.5 mm in height and provided towards the base with interpetalar slits, glabrous externally, pilose internally. Isostyly (var. pentandrus) or heterostyly (var. minor Bremek.). Anthers included in iso or longistylous flowers, exserted in brevistylous flowers. Filaments inserted towards the base of the corolla tube (F. Hallé). Stigma exsert only in the longistylous form of var. minor. Placenta: pl. II, 6.
 
-Bremek.). Anthères incluses dans les fleurs iso ou longistyles, exsertes dans les fleurs brévistyles. Filets décollés vers la base du tube de la corolle (F. Hallé). Stigmate exsert seulement dans la forme longistyle de la var. minor. Placenta : pl. II, 6.
-
-Fruits de 2,5-4,5 mm, tournés vers le sol à maturité. Graines brunâtres, ovo-anguleuses, longues de 0,4 mm. 140 graines dans un fruit (Tisserant 2668, var. pentandrus).
+Fruits 2.5–4.5 mm, turned towards the ground at maturity. Seeds brownish, ovo-angular, 0.4 mm long. 140 seeds in one fruit (Tisserant 2668, var. pentandrus).
 
 ## Type
 
@@ -40,13 +36,11 @@ Thonning s. n. (C. S., non vus), originaire du Ghana. Type de O. macrophylla DC.
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Intertropical and southern Africa. Plant very widespread: riverbanks, raphiales, marshes, humid sublittoral sands and even somewhat saline.
 
-Afrique intertropicale et australe. Plante très répandue : bords de rivières, raphiales, marécages, sables sublittoraux humides et même un peu salés.
+Material studied for Gabon
 
-Matériel étudié pour le gabon
-
-B. Descoings : 6349, Ndendé, route de Mouila (fl. fr. nov.). R.P. Duparquet : s.n. Gabon. N. Hallé : 1560, Port-Gentil (fl. fr. avr.). G. Mann : 1860, lat. 1° N. Schwébisch et Thollon : 96, Ndjolé.
+B. Descoings: 6349, Ndendé, road to Mouila (fl. fr. Nov.). R.P. Duparquet: s.n. Gabon. N. Hallé: 1560, Port-Gentil (fl. fr. Apr.). G. Mann: 1860, lat. 1° N. Schwébisch et Thollon: 96, Ndjolé.
 
 ## Notes
 

@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 814 (1932).
 
-Petit arbre de 4-8 (-10-15 m) présentant sur les axes d'inflorescence et les calices une pilosité dense, courte : 0,1-0,2 mm, dominée par des poils glanduleux ± capités (formés d'une série de 8 cellules environ) atteignant 0,2-0,8 mm, peu nombreux comparativement aux poils simples. Feuilles 3-6-juguées dont les folioles elliptiques lancéolées sont les plus grandes du genre; angle de base de 45° et 60° au sommet, acumen fin de 10-15 mm; 7-12 paires de nervures secondaires, glandes pédicellées dispersées sous les nervures.
+Small tree of 4–8 (–10–15 m) displaying on the inflorescence axes and calyces dense, short pubescence: 0.1–0.2 mm, dominated by glandular hairs ± capitate (formed of a series of approximately 8 cells) reaching 0.2–0.8 mm, few in number compared to simple hairs. Leaves 3–6-jugate, with elliptic-lanceolate leaflets which are the largest of the genus; base angle of 45° and 60° at the apex, fine acumen of 10–15 mm; 7–12 pairs of secondary nerves, pedicellate glands scattered beneath the nerves.
 
-Grappes simples, denses, 15-25 cm, portant des cymules stipitées de 2 mm à l'aisselle de bractées de 4 mm, avec 1-4 fleurs à court pédicelle de 0,5 mm. Fruit d'environ 3 cm, à 3 côtes arrondies, contenant 3 graines presque cylindriques et arrondies aux extrémités, 20 × 8 mm. PL. 31, 4-9, p. 131.
+Simple, dense racemes, 15–25 cm, bearing stipitate cymules of 2 mm at the axil of bracts of 4 mm, with 1–4 flowers on short pedicel of 0.5 mm. Fruit of approximately 3 cm, with 3 rounded ribs, containing 3 seeds almost cylindrical and rounded at the ends, 20 × 8 mm. PL. 31, 4–9, p. 131.
 
 ## Type
 
@@ -30,9 +28,7 @@ Zenker 941, Bipindi, Cameroun (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plantes connues seulement du Gabon et du Cameroun, à fleurs rougeâtres (ANNET) ou jaunes, parfumées (KLAINE).
+Plants known only from Gabon and Cameroon, with reddish flowers (ANNET) or yellow, fragrant ones (KLAINE).
 
 ## Figures
 

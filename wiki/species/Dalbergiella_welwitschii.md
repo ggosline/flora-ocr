@@ -21,7 +21,7 @@ Ostryocarpus (?) welwitschii Baker, Fl. trop. Africa 2 : 240 (1871). Ostryocarpu
 
 ## Distribution
 
-Guinea and Sierra Leone to Central African Republic and Angola; in Gabon, known from Upper Ogooué and Nyanga
+Guinea and Sierra Leone to Central African Republic and Angola; in Gabon, known from Haut-Ogooué and Nyanga
 
 ## Ecology
 

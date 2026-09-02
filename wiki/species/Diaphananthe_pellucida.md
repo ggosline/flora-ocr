@@ -35,7 +35,7 @@ alt. 900–1,800 m. Epiphytic in dense humid forest, secondary forest, observed 
 
 MATERIAL STUDIED (Map 93) :
 
-Hallé 1476, Makokou, above the Ivindo (fl. Mar.), P! ; 1502, Makokou, near the Ivindo (fl. Mar.), P! ; 3473 & 3614, Bélinga (fl. Dec.), P!. Hallé & Villiers 5202, Cristal Mountains, Mvelaké Mountains, 5 km W Mela (fl. Feb.), P!. Le Testu 6359, Upper Ngounyé, Mouvindou (fl. Oct.), P! ; 7136, Lastoursville region, bank of the Ogooué at Lastoursville (fl. Apr.), P! ; 7136b, Upper Ogooué, banks of the Ogooué at Lastourville (fl. Apr.), P!. Thollon 323, Franceville (fl. Jan.), P! ; 4067, on the bank of the Djoué (fl. Apr.), P! ; s.n., s.loc., P!.
+Hallé 1476, Makokou, above the Ivindo (fl. Mar.), P! ; 1502, Makokou, near the Ivindo (fl. Mar.), P! ; 3473 & 3614, Bélinga (fl. Dec.), P!. Hallé & Villiers 5202, Cristal Mountains, Mvelaké Mountains, 5 km W Mela (fl. Feb.), P!. Le Testu 6359, Upper Ngounyé, Mouvindou (fl. Oct.), P! ; 7136, Lastoursville region, bank of the Ogooué at Lastoursville (fl. Apr.), P! ; 7136b, Haut-Ogooué, banks of the Ogooué at Lastourville (fl. Apr.), P!. Thollon 323, Franceville (fl. Jan.), P! ; 4067, on the bank of the Djoué (fl. Apr.), P! ; s.n., s.loc., P!.
 
 ## Figures
 

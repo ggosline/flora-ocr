@@ -26,15 +26,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, up to 3 m tall and more, in dense tufts. Culms and leaves glabrous or sometimes pubescent with tubercle-based hairs. Sheaths hirsute at the opening and at the nodes, membranous ligule, ciliate. Blades linear, up to 60 × 2 cm and more.
 
-Herbe pérenne, jusqu'à 3 m de haut et plus, en touffes denses. Chaumes et feuilles glabres ou parfois pubescents à poils tuberculés à la base. Gaines hirsutes à l'ouverture et aux nœuds, ligule membraneuse, ciliée. Limbes linéaires, jusqu'à 60 × 2 cm et plus.
+Very large loose panicle, divided to the 4th or 5th degree; branches and pedicels thin, filiform. Spikelets with dissimilar glumes, the lower measuring 1/3 or 1/4 of the spikelet, with 1 or 3 more or less visible nerves. Upper glume the size of the spikelet, with 5 nerves. Lower floret male; lemma with 7 nerves; palea obtuse, somewhat shorter. Upper floret shortly acuminate, white.
 
-Très grande panicule lâche, divisée jusqu'au 4° ou 5° degré; branches et pédicelles minces, filiformes. Épillets à glumes dissemblables, l'inférieure mesurant 1/3 ou 1/4 de l'épillet, avec 1 ou 3 nervures plus ou moins visibles. Glume supérieure de la taille de l'épillet, à 5 nervures. Fleur inférieure mâle; lemma à 7 nervures; paléa obtuse, un peu plus courte. Fleur supérieure courtement acuminée, blanche.
+Large herb abundantly distributed throughout tropical Africa, and introduced into numerous regions under the name of "Guinea grass". It is indeed a forage of very high quality and giving strong yields. In humid regions, the inflorescences are almost always parasitized so that one is obliged to multiply this Panicum vegetatively, by division of clumps.
 
-Grandc herbe aboudamment répandue dans toute l'Afrique tropicale, et introduite dans de nombreuses régions sous le nom d'« Herbe de Guinée ». C'est en effet un fourrage de très grande qualité et donnant de fortes productions. En région humide, les inflorescences sont presque toujours parasitées de sorte que l'on est obligé de multiplier ce Panicum végétativement, par éclats de souches.
-
-C'est une herbe assez exigeante, qui demande des sols bien pourvus en matières organiques. On la rencontre fréquemment dans les jachères forestières, sur les emplacements d'anciens villages etc...
+It is a fairly demanding herb, which requires soils well supplied with organic matter. It is frequently encountered in forest fallows, on the sites of former villages etc...
 
 ## Vernacular names
 

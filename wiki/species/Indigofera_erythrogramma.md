@@ -20,7 +20,7 @@ in Oliv., Fl. trop. Afr. 2 : 73 (1871). Perennial herb or sometimes annual; stem
 
 ## Distribution
 
-Tropical Africa, especially Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from the Batéké Plateaus (Upper Ogooué)
+Tropical Africa, especially Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from the Batéké Plateaus (Haut-Ogooué)
 
 ## Ecology
 

@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes < 20 x 0,6-1 cm. Feuilles < 17 x 2 cm, oblongues-lancéolées. Inflorescence < 45 cm, multiflore. Fleurs jaunes. Sépale dor-sal triangulaire-ové, apiculé. Sépales latéraux obliquement triangulaires, aigus. Labelle de 4-6 x 4-5 mm, assez mince, pubescent au centre, trilobé sous le milieu, callus pubescent dans la moitié inférieure ; lobe médian arrondi-ové, tronqué, assez charnu ; lobes latéraux obliquement semi-ovés, subobtus, minces. Éperon conique, obtus.-Pl. 122, p. 279.
+Pseudobulbs < 20 x 0.6-1 cm. Leaves < 17 x 2 cm, oblong-lanceolate. Inflorescence < 45 cm, multiflorous. Flowers yellow. Dorsal sepal triangular-ovate, apiculate. Lateral sepals obliquely triangular, acute. Labellum 4-6 x 4-5 mm, rather thin, pubescent at the centre, trilobed below the middle, callus pubescent in the lower half; median lobe rounded-ovate, truncate, rather fleshy; lateral lobes obliquely semi-ovate, subobtuse, thin. Spur conical, obtuse.—Pl. 122, p. 279.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique au Gabon
+endemic to Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 750 m. Epiphytic or terrestrial among tufts of grass on rock
 
-alt. 750 m. Épiphyte ou terrestre parmi les touffes d'herbe sur rocher
+MATERIAL STUDIED (Map 53):
 
-MATÉRIEL ÉTUDIÉ (Carte 53) :
-
-Davies & Anton-Smith 308, 30 km N de Oyem (fl. Août), P!.
+Davies & Anton-Smith 308, 30 km N of Oyem (fl. August), P!.
 
 Griffon de Bellay 165, Ilanga, P!.
 
-Le Testu 8971, sur rocher de Salem à Elelem (fl. Janv.), P! ; 9084, Akoum Mdomgou, près de Oyem (fl. Avr.), BR! ; P!.
+Le Testu 8971, on rock at Salem to Elelem (fl. Jan.), P!; 9084, Akoum Mdomgou, near Oyem (fl. Apr.), BR!; P!.
 
 ## Figures
 

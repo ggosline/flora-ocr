@@ -22,7 +22,7 @@ IV. 20(101) : 599 (1936). Perennial herb, slender to fairly robust, with a short
 
 ## Distribution
 
-widely distributed in West Africa, from Senegal to the Democratic Republic of the Congo, also in Brazil ; rare in Gabon, found only in the Estuary
+widely distributed in West Africa, from Senegal to the Democratic Republic of the Congo, also in Brazil ; rare in Gabon, found only in the Estuaire
 
 ## Ecology
 
@@ -52,7 +52,7 @@ C. Apex of blade. – D. Young stem showing the sheath. – C. Base of stem show
 
 ### Distribution
 
-widespread in the tropical and subtropical regions of Africa, America and Asia ; uncommon or poorly known in Gabon, found in the Estuary, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem and Haut-Ogooué (12 collections)
+widespread in the tropical and subtropical regions of Africa, America and Asia ; uncommon or poorly known in Gabon, found in the Estuaire, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem and Haut-Ogooué (12 collections)
 
 a b
 

@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 813 (1932).
 
-Arbre de 8 à 15 m, à rameaux anguleux. Feuilles sub-coriaces, bien nerviées sur les deux faces, à folioles alternes; pétiole de 5 cm, rachis 50-70 cm; pétiolule d'env. 8 mm; base du limbe et sommet en angle de 45°, partie moyenne à bords parallèles; 10-15 paires de nervures; acumen de 1 cm. Disque à poils très courts (0,05 mm) et épars, ou plus longs (0,4 mm, Le Testu), mais toujours peu serrés. Fleurs blanches sur gros rameaux, en grappes ramiifiées à la base, atteignant 50 cm. PL. 30, 1-4', p. 129.
+Tree 8–15 m tall, with angular branchlets. Leaves subcoriaceous, well-nerved on both surfaces, with alternate leaflets; petiole 5 cm, rachis 50–70 cm; petiolule ca. 8 mm; base of limb and apex at 45° angle, middle portion with parallel margins; 10–15 pairs of nerves; acumen 1 cm. Disk with very short hairs (0.05 mm) and scattered, or longer (0.4 mm, Le Testu), but always sparsely distributed. Flowers white on stout branchlets, in branched panicles at the base, reaching 50 cm. PL. 30, 1–4', p. 129.
 
 ## Type
 
@@ -28,9 +26,7 @@ Zenker 2600, Cameroun (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante découverte au Cameroun puis retrouvée en République Centrafricaine (Le Testu 4638, fl., mars) représentée par un arbre de 15 à 18 m, et au Zaïre (Sapin s.n., Kasai) par un arbre de 6-8 m.
+Plant discovered in Cameroon and subsequently refound in the Central African Republic (Le Testu 4638, fl., March) represented by a tree 15–18 m tall, and in Zaïre (Sapin s.n., Kasai) by a tree 6–8 m tall.
 
 ## Specimens examined
 

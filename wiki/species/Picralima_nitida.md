@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste atteignant 35 m de hauteur , à cime très dense ; tronc cylindrique, jusqu’à 60 cm de diamètre pFRUFHGXUHFDVVDQWHOLVVHjOpJqUHPHQWUXJXHXVHRX¿QHPHQWVWULpH très amère, écorce interne de 6–12 mm d’épaisseur, marron à jaune avec des taches marronRUDQJHJUDQXOHXVH¿EUHXVHERLVWUqVGXUMDXQHEODQFKkWUHjEUXQSkOHRXRUDQJHUDPHDX[ lisses, vert foncé à noir brunâtre foncé. Feuille : pétiole de 10–22 mm ; limbe ovale à oblong, GH±IRLVDXVVLORQJTXHODUJHGH±±î±FPFXQppjDLJXRXUDUHPHQWDU URQGLjODEDVHEUXVTXHPHQWDFXPLQpDXVRPPHWQHUYXUHVODWpUDOHVGURLWHV en 14 à 23 paires IRUPDQWXQHQHUYXUHVXEPDUJLQDOHHWXQDQJOHGHDYHFODPpGLDQH ,QÀRUHVFHQFH Fleur : pédicelle de 2–20 mm ; calice à lobes de (3,5–)5,5–7,5 × 3,5–5 mm , avec 2 à 4 rangées de collétères à l’intérieur à la base ; corolle longue de 25–47 mm dans le bouton adulte, à tête RYRwGHGH±GHODORQJXHXUGXERXWRQJODEUHjO¶H[Wpulhxuj tube long de 14,5–21 mm , vert pâle, avec une bande pubescente à l’intérieur, juste sous l’insertion des étamines, à lobes crème à l’anthèse, non tordus en bouton, de 0,8–1,57 fois la longueur du tube, de 13,5–30 × 5,5–10 mm ; étamines insérées à 9,5–15 mm de la base du tube, à sommet à 1,2–4 mm sous la gorge , anthère longue de 2,8–3,7 mm ; pistil long de 9,7–12,5 mm, à sommet à 2 mm sous les étamines ; style de 5–7,3 mm. Fruit Ppulfdushvs\ULIRUPHVjRERYRwGHVRXHOOLSVRwGDX[ légèrement comprimés latéralement, de 11–20 × 8–15 × 13–14 cm, arrondis au sommet , à nombreuses graines ; paroi très dure, de 4–8 mm d’épaisseur. Graine enrobée dans une pulpe blanche à orange, longue de 24–44 mm, lisse.
+Tree or shrub reaching 35 m in height, with very dense crown; trunk cylindrical, up to 60 cm in diameter, bark deciduous, smooth or slightly rugose or finely striate, very bitter, inner bark 6–12 mm thick, brown to yellow with brown-orange spots, granular, fibrous, wood very hard, pale yellow-white to brown, branches smooth, dark green to dark brownish-black. Leaf: petiole 10–22 mm; lamina oval to oblong, 1.5–3 times as long as broad, 8–18 × 4–8 cm, cuneate to acute or rarely rounded at base, abruptly acuminate at apex, lateral nerves straight in 14 to 23 pairs forming a submarginal nerve and an angle of 60° with the median nerve. Inflorescence Flower: pedicel 2–20 mm; calyx with lobes of (3.5–)5.5–7.5 × 3.5–5 mm, with 2 to 4 rows of colleters inside at the base; corolla 25–47 mm long in adult bud, with ovoid head of 1/3 of the bud length, glabrous on the outside, tube 14.5–21 mm long, pale green, with a pubescent band inside, just below the insertion of the stamens, with cream lobes at anthesis, not twisted in bud, 0.8–1.57 times the length of the tube, 13.5–30 × 5.5–10 mm; stamens inserted 9.5–15 mm from the base of the tube, with apex 1.2–4 mm below the throat, anther 2.8–3.7 mm long; pistil 9.7–12.5 mm long, with apex 2 mm below the stamens; style 5–7.3 mm. Fruit Drupe pyriform to obovoid or ellipsoid, slightly compressed laterally, 11–20 × 8–15 × 13–14 cm, rounded at apex, with numerous seeds; wall very hard, 4–8 mm thick. Seed enveloped in white to orange pulp, 24–44 mm long, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée à l’Ouganda et à l’Angola (Cabinda) ; au Gabon, signalé dans toutes les provinces, sauf le Haut-Ogooué. Écologie IRUrWSULPDLUHRXVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGHDLOOHXUVMXVTX¶jP
+from Guinea to Uganda and Angola (Cabinda); in Gabon, reported in all provinces except Haut-Ogooué. Ecology Primary or secondary forest in Gabon, up to 800 m altitude, elsewhere up to 1200 m.
 
 ## Vernacular names
 
@@ -33,11 +29,9 @@ ebam, obéro (nom pilote) ; demouain à gros fruits, obéro (fr.) ; bolapè (ben
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stamens, dorsal, ventral and lateral views (× 6.4). (1, 2: W.J.J.O. de Wilde et al. 1952; 3-12: Reitsma 899). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Omino (1996).
 
-Étamines, vues dorsale, ventrale et latérale (× 6,4). (1, 2 : W.J.J.O. de Wilde et al. 1952 ; 3-12 : Reitsma 899 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Omino (1996).
-
-pneumonie et les vers intestinaux. Une grande gamme d’autres usages médicinaux est connue. Le bois s’emploie dans la confection de toutes sortes de petits ustensiles.
+pneumonia and intestinal worms. A wide range of other medicinal uses is known. The wood is used in the making of all sorts of small utensils.
 
 ## Bibliography
 

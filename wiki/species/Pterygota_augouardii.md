@@ -23,37 +23,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref.; Fl. Mayombe I : 37 (1924) et Sterc. Gab., Mém. Soc. Bot. : 44 (1950-1951), excl. Le Testu 5507.
 
-, réf. orig.; Fl. Mayombe I : 37 (1924) et Sterc. Gab., Mém. Soc. Bot. : 44 (1950-1951), excl. Le Testu 5507.
+Large tree with glabrescences extremities clothed when young in very fine stellate ochraceus hairs. Lance-shaped stipules 5–6 mm long, soon caducous. Petiole 2–5 cm, glabrescent. Leaf blade rather regular oval 9–16 × 4.5–10 cm, with obtuse or rounded base, briefly attenuate apex, brown when dry, glabrous in older leaves. 5 basilar digitately arranged nervures, glabrescences below (small appressed stellate hairs); 3–4 pairs of non-basilar lateral nervures along the midvein; third order nervures fairly numerous and almost concentric.
 
-Grand arbre à extrémités glabrescentes vêtues dans le jeune âge de très fins poils ochracés stellés. Stipules lancéolées de 5-6 mm de long, rapidement caduques. Pétiole de 2-5 cm, glabrescent. Limbe ovale assez régulier de 9-16 × 4,5-10 cm, à base obtuse ou arrondie, à sommet brièvement atténué, brun à sec, glabre dans les feuilles âgées. 5 nervures basiliaires digitées, glabrescentes
+Inflorescences in narrow lateral racemes, ochraceus puberulent, with sinuous rachis 2–6 cm long bearing 4–7 alternate caducous bractoles leaving prominent and acutely laterally arranged scar rings. Pedicels approximately 2–10 mm, articulate near the middle at the level of two sometimes persistent lance-shaped secondary bractoles. Buds elliptic. Flowers light brown with calyx 13–16 mm long, with 5–10 free narrowly lanceolate sepals, with apex in a short hook, thick, densely clothed with stellate hairs on both faces and margins, with prominent axis on the inner face.
 
-dessous (poils stellés plaqués, très petits); 3-4 paires de nervures latérales non basiliaires le long de la médiane; nervures de troisième ordre assez nombreuses et presque concentriques.
+Male flower with short, slender and glabrous androphore bearing a globulous crown of 12–14 uniseriate pollen sacs forming a thick cupule hairy within. Female flower appearing to open first, large, with ovary surrounded at the base by approximately 14 reduced pollen sacs; 4–5 hairy nearly free carpels, ventricose and attenuate into a linear style 2–3 mm terminated by a punctiform extrorse stigma, 12–15 ovules per carpel. Fruit not known.
 
-Inflorescences en étroites grappes latérales, pubérulentes ochracées, à rachis sinueux de 2-6 cm de long portant 4-7 bractéoles caduques alternes laissant des colerettes cicatricielles saillantes et aiguës latéralement. Pédicelles de 2-10 mm env. articulés vers le milieu au niveau de deux bractéoles secondaires lancéolées parfois persistantes. Boutons elliptiques. Fleurs brun clair à calice de 13-16 mm de long, à 5-10 sépales libres étroitement lancéolés, à sommet en bref crochet, épais, densément vêtus de poils stellés sur les deux faces et les marges, à axe saillant sur la face interne.
-
-Fleur ♂ à androphore court, grêle et glabre portant une couronne globuleuse de 12-14 loges polliniques unisériées formant un épaisse cupule velue à l'intérieur. Fleur ♀ paraissant épanouies les premières, grandes, à ovaire entouré à la base d'env. 14 loges polliniques réduites; 4-5 carpelles velus presque libres, ventrus et atténués en style linéaire de 2-3 mm terminé par un stigmate ponctiforme extorse, 12-15 ovules par carpelle. Fruit non connu.
-
-Type de l'espèce et seul matériel connu : Le Testu 2045, Mayombe-Bayaka, Mossitou, région de la Nyanga (fl. avr.) (P.).
+Type of the species and only known material: Le Testu 2045, Mayombe-Bayaka, Mossitou, Nyanga region (fl. Apr.) (P.).
 
 2. Pterygota bequaertii De Wildeman.
 
-, réf. orig. et Pl. Bequaert. I : 518 (1922). — PELLEGR., Bull. Mus. Paris : 593 (1923) et Fl. Mayombe I : 32 (1924). — F.W.T.A. I : 251 (1928). — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 30 et 44 (1950-1951). — F.W.T.A. 2° éd. I : 320 (1958). — F.F.C.I. 2° éd. II : 296 (1959).
+, orig. ref. and Pl. Bequaert. I : 518 (1922). — PELLEGR., Bull. Mus. Paris : 593 (1923) et Fl. Mayombe I : 32 (1924). — F.W.T.A. I : 251 (1928). — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 30 et 44 (1950-1951). — F.W.T.A. 2nd ed. I : 320 (1958). — F.F.C.I. 2nd ed. II : 296 (1959).
 
-Grand arbre dépassant 30 m de haut pour un diamètre de 80-90 cm; base du fût à contreforts ailés. Jeunes extrémités vêtues de poils étoilés roux. Stipules lancéolées aiguës pubescentes, de
+Large tree exceeding 30 m in height with diameter of 80–90 cm; base of trunk with winged buttresses. Young extremities clothed with rusty stellate hairs. Lance-shaped acute pubescent stipules,
 
-8-9 mm de long, tôt caduques. Jeunes feuilles densément couvertes de poils étoilés orangé-roux. Pétiole subcylindrique pubescent de 2,5-5 cm de long. Limbe souvent brun roux à sec, subcoriace, glabrescent, de 8-16 cm de long sur 5-13 cm de large, ové à suborbiculaire, à base tronquée ou un peu cordée, à sommet obtus et presque indistinctement acuminé. 5-7 nervures basiliares digitées; 3-5 paires pennés le long de la médiane; nervures intersecondaires souvent subconcentriques.
+8–9 mm long, soon caducous. Young leaves densely covered with orange-rusty stellate hairs. Petiole subcylindric pubescent 2.5–5 cm long. Leaf blade often rusty brown when dry, subcoriaceous, glabrescent, 8–16 cm long by 5–13 cm wide, ovate to suborbicular, with truncate or slightly cordate base, obtuse apex and almost indistinctly acuminate. 5–7 basilar digitately arranged nervures; 3–5 pairs pinnate along the midvein; intersecondary nervures often subconscentric.
 
-Inflorescences en grappes latérales lâches situées vers l'extrémité de rameaux souvent dépourvus de vieilles feuilles. Rachis épais faiblement sinueux, à pubescence rousse, de 6-8 cm de long, à bractéoles caduques, à ramifications latérales courtes et épaisses. Fleurs sessiles ou subsessiles, à 5, parfois 4 sépales libres, oblongs, plus ou moins étroitement lancéolés, épais, de 8-12 × 2-3 mm, vêtus de poils étoilés sur les deux faces, à axe parfois saillant du côté interne.
+Inflorescences in lax lateral racemes located towards the extremity of branchlets often devoid of old leaves. Thick rachis weakly sinuous, with rusty pubescence, 6–8 cm long, with caducous bractoles, with short and thick lateral branches. Flowers sessile or subsessile, with 5, sometimes 4 free sepals, oblong, more or less narrowly lanceolate, thick, 8–12 × 2–3 mm, clothed with stellate hairs on both faces, with axis sometimes prominent on the internal side.
 
-Fleur ♂ à androphore filiforme d'env. 5 mm de long, glabre vers le haut, élargi et velu vers la base, supportant une couronne subsphérique de 12 loges polliniques unisérées. Fleur ♀ à ovaire globuleux pubescent entouré basalement d'une couronne d'anthères rudimentaires; (2) 3 (4) carpelles atténués en styles libres à stigmate ponctiforme extrorse. Env. 14-16 ovules par carpelle, bisériés.
+Male flower with filiform androphore approximately 5 mm long, glabrous above, enlarged and hairy towards the base, supporting a subspheric crown of 12 uniseriate pollen sacs. Female flower with globulous pubescent ovary surrounded basally by a crown of rudimentary anthers; (2) 3 (4) carpels attenuate into free styles with extrorse punctiform stigma. Approximately 14–16 ovules per carpel, biseriate.
 
-Fruit à un seul gros follicule déprimé à l'apex, long de 11 cm env. y compris la base atténuée en pédoncule sur 4,5 cm env., large de 6 cm. Graines nombreuses, ailées, aplaties, fauve clair, de 6,5 × 3 cm env., disposées perpendiculairement au placenta.
+Fruit with a single large follicle depressed at apex, approximately 11 cm long including the base attenuate into a pedicel approximately 4.5 cm, 6 cm wide. Numerous seeds, winged, flattened, light tan, approximately 6.5 × 3 cm, arranged perpendicularly to the placenta.
 
-Type de l'espèce : Bequaert 2280, du Congo Belge (Bx.).
+Type of the species: Bequaert 2280, from Belgian Congo (Bx.).
 
-Cet arbre caducifolié est répandu de la Côte-d'Ivoire au Congo ex-Belge; il paraît toujours rare dans la forêt. Le bois est tendre et blanc grisâtre.
+This deciduous tree is widespread from Côte d'Ivoire to former Belgian Congo; it appears always rare in the forest. The wood is soft and greyish white.
 
 ## Vernacular names
 
@@ -61,11 +57,9 @@ Egon, Enegon, Aké (Fang); Leigolli (Bavoungou)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Material studied for Gabon:
 
-Matériel étudié pour le Gabon ;
-
-Corbet : 1061 S.R.F., L. Ezanga; 860 S.R.F., Bokoué (fl. sept.). Le Testu : 1863, Mayombe-Bayaka, Lastoursville (fl. nov.); 5507, Haute-Ngounyé; 9103, Aloum, N. de l'Ogooué (fl. mai).
+Corbet: 1061 S.R.F., L. Ezanga; 860 S.R.F., Bokoué (fl. Sept.). Le Testu: 1863, Mayombe-Bayaka, Lastoursville (fl. Nov.); 5507, Haute-Ngounyé; 9103, Aloum, N. of Ogooué (fl. May).
 
 ## Figures
 

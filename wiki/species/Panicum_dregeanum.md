@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb capable of exceeding 1 m in height with glabrous culms. Sheaths striate, the lower ones persistent and silky pubescent at the base. Blades linear reaching about twenty cm long and 2 to 5 mm wide, more or less pubescent.
 
-Herbe pérenne pouvant dépasser 1 m de haut à chaumes glabres. Gaines striées, les inférieures persistantes et pubescentes soyeuses à la base. Limbes linéaires atteignant une vingtaine de cm de long et 2 à 5 mm de large, plus ou moins pubescentes.
+Panicle divided to the $ 3^{\text{rd}} $ degree, averaging about fifteen cm in length. Branches solitary, in pairs or subverticillate, the lower ones up to $ 12 \, \text{cm} $ long approximately. The ultimate divisions form small loose racemes of $ 2 \, \text{to } 4 \, \text{spikelets} $. Spikelets generally gaping, glabrous, green or more or less tinged with purple. Glumes similar, ovate acuminate, the lower with 5 nerves, measuring between one-half and $ 3/4 $ the length of the spikelet, the upper as long as the spikelet with 5 or 7 nerves. Lower flower male with lemma similar to the upper glume equally long, but less acuminate; palea of the same length. Upper flower $ 2 \, \text{to } 2.5 \, \text{mm} $, smooth, shiny.
 
-Panicule divisée jusqu'au  $ 3^{\text{e}} $ degré, d'une quinzaine de cm de long en moyenne. Branches solitaires, par paires ou subverticillées, les inférieures jusqu'à  $ 12 \, cm $ de long environ. Les dernières divisions forment de petits racèmes lâches de  $ 2 \, \text{à } 4 \, \text{épillets} $. Épillets généralement béants, glabres, verts ou plus ou moins teintés de pourpre. Glumes semblables, ovales acuminées, l'inférieure à 5 nervures, faisant entre la moitié et les  $ 3/4 $ de la longueur de l'épillet, la supérieure aussi longue que l'épillet à 5 ou 7 nervures. Fleur inférieure mâle à lemma semblable à la glume supérieure aussi longue, mais moins acuminée; palée de même longueur. Fleur supérieure de  $ 2 \, \text{à } 2.5 \, \text{mm} $, lisse, brillante.
-
-Espèce paraissant répandue dans toutes les zones humides ou semi-humides de l'Afrique tropicale. Probablement assez bon fourrage.
+Species apparently distributed in all humid or semi-humid zones of tropical Africa. Probably fairly good forage.
 
 ## Specimens examined
 

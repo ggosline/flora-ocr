@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 49, p. 271)
 
-Arbre ä rameaux glabres,ramilles glabrescentes. Feuilles a petiole long de 5-6 mm; limbe coriace, oblong,long de 13-31 cm, large de 3-6,5 cm,atténué a cunéiforme á la base, longuement acuminé au sommet; face supérieure luisante et glabre, vert olive, face inférieure glabre.Nervure médiane proéminente sur les deux faces.Nervures latérales 13-17 paires,obliques ascendantes, assez peu visibles;nervilles irrégulieres, presque invisibles.
+Tree with glabrous branches, branchlets glabrescente. Leaves with petiole 5–6 mm long; blade coriaceous, oblong, 13–31 cm long, 3–6.5 cm wide, attenuate to cuneate at base, long-acuminate at apex; upper surface glossy and glabrous, olive green, lower surface glabrous. Midvein prominent on both surfaces. Lateral veins 13–17 pairs, obliquely ascending, rather inconspicuous; veinlets irregular, almost invisible.
 
-Fleurs  et , vert jaunätre, prenant naissance sur le vieux bois, solitaires ou géminées. Bouton floral brievement conique. Pédicelle épais, long de I cm environ,muni â la basc d'unc trcs petite bractee ovée. Sépales largement triangulaires-oves, longs de 3-4 mm,larges de 6 mm, densément pubérulents a l'extérieur. Pétales subégaux,pubérulents extérieurement et intérieurement, clliptiques-oblongs, subaigus au sommet, longs de 2o-25 mm, larges de 5-7 mm, dans les fleurs β; triangulaires-ovés,longs de 10-14 mm,larges de 6-7 mm dans les fleurs .Réceptacle conique. Etamines tres nombreuses, oblongues, longues de 1,5-2 mm, formant un cone plus allongé dans les fleurs ;theques linéaires extrorses,connectifs dilatés et tronqués au-dessus des antheres. Carpelles 8-9,ä base insérée au fond d'une légere dépression du réceptacle; ovaires oblongs, densément pubescents, stigmates sessiles,pulvinés,pubescents,dépassant les étamines. Ovules nombreux sur deux rangs.
+Flowers ♀ and ♂, yellowish-green, arising on old wood, solitary or geminate. Floral bud briefly conical. Pedicel thick, approximately 1 cm long, bearing at the base a very small ovate bract. Sepals broadly triangular-ovate, 3–4 mm long, 6 mm wide, densely puberulent on the exterior. Petals subequal, puberulent on both exterior and interior, elliptic-oblong, subacute at apex, 20–25 mm long, 5–7 mm wide in the ♀ flowers; triangular-ovate, 10–14 mm long, 6–7 mm wide in the ♂ flowers. Receptacle conical. Stamens very numerous, oblong, 1.5–2 mm long, forming a cone more elongate in the ♂ flowers; thecae linear, extrorse, connectives dilated and truncate above the anthers. Carpels 8–9, base inserted at the bottom of a shallow depression of the receptacle; ovaries oblong, densely pubescent, stigmas sessile, pulvinate, pubescent, exceeding the stamens. Ovules numerous in two rows.
 
-Fruits inconnus.
+Fruits unknown.
 
 ## Type
 
@@ -37,9 +35,7 @@ Le Testu 7754, Poungui, fl.  et &,déc. (holotype P!; isotype BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espéce affine de P. Gossweileri (Exell) Paiva(= P. Vermoesenii) dont elle difféere essentiellement par les feuilles qui,dans l'espece du Congo-Kinshasa et d'Angola,ont une base arrondie, une nervure médiane imprimée au-dessus et des nervilles paralleles et saillantes ä la face inférieure.Tres proche également de P.laurifolius Paiva;le nombre élevé de carpelles (18-2o) chez cette derniere espéce ramiflore et non cauliflore,est un des caracteres distinctifs essentiels.
+Species related to P. Gossweileri (Exell) Paiva (= P. Vermoesenii) from which it differs essentially by the leaves which, in the species from Congo-Kinshasa and Angola, have a rounded base, a midvein impressed above and parallel and prominent veinlets on the lower surface. Also very close to P. laurifolius Paiva; the high number of carpels (18–20) in this latter ramiflorous and not cauliflorous species is one of the essential distinguishing characters.
 
 ## Specimens examined
 

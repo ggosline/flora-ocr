@@ -16,25 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 32; Figure 6(A)
+Plate 32; Figure 6(A)
 
 in Engl. & Prantl, Nat. Pflanzenfam., Nachtr.: 318 (1897).
 
-Herbe à tige atteignant 8 m de longueur, à poils hispides. Feuille: pétiole 1,8–13 cm, à poils hispides; limbe palmatilobé, de contour ovale ou largement réniforme à suborbiculaire ou pentagonal, de 5–18 × 7–26 cm, profondément cordé à la base, à poils assez raides surtout dessus et en particulier sur les nervures dessous, lobes triangulaires ou ovales à ovales-elliptiques, souvent 3-lobés, aiguis à obtus et apiculés au sommet, bord à dents sinueuses, souvent profondément. Inflorescence: la mâle en racème long de 8–36 cm, avec 4 à 13 fleurs ou parfois réduite à une fleur solitaire; pédoncule 3–20 cm; probractée (à la base du pédoncule) sessile, oblancéolée-obspatulée, de 12–18 × 8 mm; les autres bractées largement obovales à étroitement elliptiques-ovales, de 8–31 × 5–22 mm, cucullées au sommet, enroulées sur les bords, jaune verdâtre pâle. Fleur mâle 4–8 cm de diamètre, parfumées, à floraison nocturne; pédicelle d'une fleur en racème 3–25 mm, d'une fleur solitaire 4–25 cm; réceptacle cylindrique à obconique-cylindrique, long de 15–32 mm, souvent légèrement bulbeux à la base, à poils clairsemés; sépales très étroitement elliptiques-ovales, longs de 6–13 mm; pétales obovales, de 19–48 × 14–40 mm, apiculés au sommet, blancs à jaune pâle; étanines à filet de 6 mm, anthère longue de ±12 mm. Fleur femelle: pédicelle 1–5,5 cm; ovaire ellipsoidal, long de 15–26 mm, densément poilu blanc, vert pâle. Fruit à pédicelle de 2–7 cm, allongé-ellipsoidal à ovoïde ou subglobuleux, de 4–14 × 3–5 cm, rouge vif et faiblement soyeux ou laineux. Graine de contour elliptique, lenticulaire, de 6–10 × 3–5 × 1–1,5 mm, noirâtre, lisse.
+Herb with stem reaching 8 m in length, with hispid hairs. Leaf: petiole 1.8–13 cm, with hispid hairs; blade palmatilobed, oval or broadly reniform to suborbicular or pentagonal in outline, 5–18 × 7–26 cm, deeply cordate at the base, with rather stiff hairs especially above and particularly on the veins below, lobes triangular or oval to oval-elliptic, often 3-lobed, acute to obtuse and apiculate at the apex, margin with sinuate, often deeply toothed edges. Inflorescence: the male in a raceme 8–36 cm long, with 4 to 13 flowers or sometimes reduced to a solitary flower; peduncle 3–20 cm; probract (at the base of the peduncle) sessile, oblanceolate-obspathulate, 12–18 × 8 mm; the other bracts broadly obovate to narrowly elliptic-ovate, 8–31 × 5–22 mm, cucullate at the apex, rolled at the margins, pale yellowish-green. Male flower 4–8 cm in diameter, fragrant, with nocturnal flowering; pedicel of a flower in the raceme 3–25 mm, of a solitary flower 4–25 cm; receptacle cylindric to obconic-cylindric, 15–32 mm long, often slightly bulbous at the base, with scattered hairs; sepals very narrowly elliptic-ovate, 6–13 mm long; petals obovate, 19–48 × 14–40 mm, apiculate at the apex, white to pale yellow; stamens with filament 6 mm, anther approximately 12 mm long. Female flower: pedicel 1–5.5 cm; ovary ellipsoid, 15–26 mm long, densely white-hairy, pale green. Fruit with pedicel 2–7 cm, elongate-ellipsoid to ovoid or subglobose, 4–14 × 3–5 cm, bright red and weakly silky or woolly. Seed elliptic in outline, lenticular, 6–10 × 3–5 × 1–1.5 mm, blackish, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale occidentale et centrale, du Ghana à l'Éthiopie et au sud jusqu'à l'Angola, le Mozambique et les Seychelles ; au Gabon : Ogooué-Ivindo
+West and central tropical Africa, from Ghana to Ethiopia and south to Angola, Mozambique and the Seychelles; in Gabon: Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts pluviales des hautes et basses terres, brousses, fourrés de bambou ; au Gabon à ±900 m d'altitude, ailleurs à 80–2400 m
+Rainforests of the highlands and lowlands, brush, bamboo thickets; in Gabon at ±900 m altitude, elsewhere at 80–2400 m
 
 ## Bibliography
 
@@ -42,11 +36,9 @@ Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Peponium spec. A
 
-La collection Breteler 6422 (WAG), Gabon, km 5 Moanda à Franceville, 1970, semble représenter une espèce non décrite de Peponium, mais davantage de matériel est nécessaire pour en être sûr.
+The Breteler collection 6422 (WAG), Gabon, km 5 Moanda to Franceville, 1970, appears to represent an undescribed species of Peponium, but more material is necessary to be certain.
 
 ## Figures
 

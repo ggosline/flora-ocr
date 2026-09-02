@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste , souvent lianescent, jusqu’à 2,5 m de hauteur ; rameaux anguleux subcylin driques, à cataphylles et stipules épineuses ; ramilles anguleuses, glabres. Stipules étroi tement triangulaires, 1,5–2 mm de longueur, fimbriées-ciliées. Feuille : pétiole ± 1 mm ; limbe oblong, 8–15 ×3–7 mm, arrondi à la base, obtus ou arrondi à aigu au sommet, à 6–12 paires de nervures latérales. Inflorescence bisexuée, à chaque aisselle des ramules plagiotropes . Fleurs monoïques. Fleur mâle : pédicelle capillaire , 4–8 mm ; sépales 5, inégaux, ± ovales, 0,5–1 × 0,3–0,5 mm ; disque formé d’éléments alternisépales ; éta mines 5 , libres, inégaux, 2 courtes, de 0,2–0,3 mm et 3 longues, de 0,4–0,6 mm. Fleur femelle : pédicelle 2–3 mm ; sépales 5, 0,8–1 mm de longueur ; disque entier, cupulaire ; ovaire lisse, à 3 styles soudés à la base. Fruit 4–4,5 mm de diamètre, charnu , rougeâtre. Graines en onglet sphérique, 1,3–1,5 mm de longueur, à tégument ± réticulé.
+Shrub, often lianescent, up to 2.5 m tall; branches angular subterete, with spiny cataphylls and stipules; branchlets angular, glabrous. Stipules narrowly triangular, 1.5–2 mm long, fimbriate-ciliate. Leaf: petiole ± 1 mm; blade oblong, 8–15 × 3–7 mm, rounded at base, obtuse or rounded to acute at apex, with 6–12 pairs of lateral veins. Inflorescence bisexual, at each axil of plagiotropic branchlets. Flowers monoecious. Male flower: pedicel capillary, 4–8 mm; sepals 5, unequal, ± oval, 0.5–1 × 0.3–0.5 mm; disc formed of alternisepalous elements; stamens 5, free, unequal, 2 short, 0.2–0.3 mm and 3 long, 0.4–0.6 mm. Female flower: pedicel 2–3 mm; sepals 5, 0.8–1 mm long; disc entire, cupular; ovary smooth, with 3 styles fused at base. Fruit 4–4.5 mm in diameter, fleshy, reddish. Seeds with spherical hilum, 1.3–1.5 mm long, with ± reticulate testa.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandue dans la zone forestière du Cameroun, du Gabon, de la République du Congo et de la République Démocratique du Congo ; au Gabon, n’a pas encore récol tée dans l’Ogooué Maritime
+distributed in the forest zone of Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, not yet collected in Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+secondary or secondarized forest; in Gabon, at 0–600 m altitude. b: Brunel (1987). Bibliography
 
-forêt secondaire ou secondarisée ; au Gabon, à 0–600 m d’altitude. b : Brunel (1987). ibliographie
-
-Fleur femelle. ‒ H. Fleur femelle, un sépale enlevé. ‒ I. Fruit. (A ‒ C, E ‒ H : Bissiengou et al . 606 ; D : Floret et al . 1697 ; I : Bissiengou et al . 560 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+Female flower. ‒ H. Female flower, one sepal removed. ‒ I. Fruit. (A ‒ C, E ‒ H: Bissiengou et al. 606; D: Floret et al. 1697; I: Bissiengou et al. 560). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

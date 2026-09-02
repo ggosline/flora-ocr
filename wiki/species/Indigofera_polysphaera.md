@@ -21,7 +21,7 @@ Annual herb, erect, 80–130 cm in height, with dense, brownish hispid indumentu
 
 ## Distribution
 
-from Côte d'Ivoire to Uganda, Tanzania, Zambia and Angola; in Gabon, probably in the Estuary (Libreville), but its presence remains to be confirmed
+from Côte d'Ivoire to Uganda, Tanzania, Zambia and Angola; in Gabon, probably in the Estuaire (Libreville), but its presence remains to be confirmed
 
 ## Ecology
 

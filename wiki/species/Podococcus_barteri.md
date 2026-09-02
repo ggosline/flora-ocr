@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Mus. Hist. Nat. (Paris) 1 : 315 (1895). Palmier à stipe solitaire (rarement avec des rejets basaux) ou coloniale , de 2(–3) m de hauteur, 1 cm de diamètre, entrenœuds de 3 cm. Feuilles 5 à 10 ; pétiole jusqu’à 50 cm ; rachis jusqu’à 70 cm ; limbe comprenant jusqu’à 7 paires de folioles, alternes à subopposées, de 4–8 × 12–30 cm, foliole apicale 6–12 × 15–25 cm, face supérieure glabre, face inférieure éparsement pubescente et glabrescente à glabre . Inflorescence infrafoliaire [en dessous des feuilles] , parfois interfoliaire ; pédoncule jusqu’à 50 cm ; rachis jusqu’à 60 cm. Fleur mâle : sépales 1 × 2 mm ; pétales 2 × 4 mm ; étamines à filet subulé, courts, incurvé distale ment, anthères courtes ; pistillode court, 3-lobé. Fleur femelle : sépales 0,8 × 1,5 mm, irrégu liers ; pétales à sommet étalé à l’anthèse ; stigmates recourbés à l’anthèse. Fruit étroitement ellipsoïdal, 30 × 6 mm (à l’état sec), charnu, brun-orange devenant orange vif à maturité .
+Bull. Mus. Hist. Nat. (Paris) 1 : 315 (1895). Palm with solitary stem (rarely with basal offshoots) or colonial, 2(–3) m tall, 1 cm in diameter, internodes 3 cm. Leaves 5 to 10; petiole up to 50 cm; rachis up to 70 cm; blade comprising up to 7 pairs of leaflets, alternate to subopposite, 4–8 × 12–30 cm, apical leaflet 6–12 × 15–25 cm, upper surface glabrous, lower surface sparsely pubescent and glabrate to glabrous. Inflorescence infrafoliar [below the leaves], sometimes interfoliar; peduncle up to 50 cm; rachis up to 60 cm. Male flower: sepals 1 × 2 mm; petals 2 × 4 mm; stamens with subulate filaments, short, distally incurved, anthers short; pistillode short, 3-lobed. Female flower: sepals 0.8 × 1.5 mm, irregular; petals with apex spreading at anthesis; stigmas recurved at anthesis. Fruit narrowly ellipsoid, 30 × 6 mm (when dry), fleshy, brown-orange becoming bright orange at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale, Gabon, République du Congo, Angola (Cabinda) et République démocratique du Congo ; au Gabon, présent dans l’Estuaire, le Moyen-Ogooué, le nord de la Ngounié, la Nyanga et le Woleu-Ntem. Statut de conservation : Préoccupation mineure (LC)
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Angola (Cabinda) and Democratic Republic of the Congo; in Gabon, present in the Estuaire, Moyen-Ogooué, northern Ngounié, Nyanga and Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts tropicales humides, restreint aux forêts atlantiques, poussant abondement en zone périodiquement inondée ou moins abondement sur terre ferme ; au Gabon entre 5 et 500 m d’alti tude, ailleurs parfois jusqu’à 1000 m
+Understory of humid tropical forests, restricted to Atlantic forests, growing abundantly in periodically inundated zones or less abundantly on terra firme; in Gabon between 5 and 500 m altitude, elsewhere sometimes up to 1000 m
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ bukó-bwa-limanga (bavili) ; dikakadundu (masungu) ; dikububu (éshira) ; ditsó
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-voir sous P. acaulis . B : Faye et al. (2016), Pajarón et al. (2015), Raponda-Walker &t Sillans (1961), van Val i B liographie kenburg et al. (2007), van Valkenburg & Sunderland (2008)
+see under P. acaulis. B: Faye et al. (2016), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), van Valkenburg et al. (2007), van Valkenburg & Sunderland (2008)
 
 ## Notes
 

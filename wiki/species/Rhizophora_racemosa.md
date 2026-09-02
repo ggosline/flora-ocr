@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste de 4–20(–25) m de hauteur, glabre ; tranche rouge, fibres blanchâtres, sans exsudation, ni odeur remarquable. Stipules rapidement caduques, 4 – 5( – 7) cm de longueur, rouges. Feuille : pétiole 1,5–2,5 cm, robuste, souvent rouge ; limbe elliptique à obovale, 11–15 × 5–7 cm, base cunéée, sommet subaigu à obtus, coriace, à marge entière ; nervure principale rouge dessous , nervures secondaires ± 10 paires, peu dis tinctes dessus, indistinctes dessous. Inflorescence axillaire, en cymes bipares multiflores, ramifiée 5–6 fois à angle ± droit ; pédoncule 1,5–5(–7) cm. Fleur : pédicelle (2–)3–5(– 7) mm ; bouton ellipsoïdal, 6–9 × 4–6 mm, sommet obtus ou aigu ; cupule bractéolaire robuste, à lèvres irrégulières ; calice à sépales soudés à la base, ovale-elliptiques, 6–9 × 2–4 mm, ligneux ; pétales linéaires, 6–7 × 1,5 mm, à nombreux poils souples de 1,5 mm à leur bord interne ; étamines 8, subsessiles, anthères 5–6 mm de longueur, mucronées au sommet, loges polliniques nombreuses, ± isodiamétriques, 0,15–0,2 mm de diamètre ; disque 8-lobé ; style conique à la base, stigmate bifide. Fruit indéhiscent, ± courbé, 3–6 × 2,2,5 cm, coriace ; cylindre cotylédonaire émergeant nettement du fruit ; hypocotyle pouvant dépasser 50 cm de longueur .
+Tree or shrub 4–20(–25) m tall, glabrous; wood cross-section red, fibres whitish, without exudation or remarkable odour. Stipules rapidly caducous, 4–5(–7) cm long, red. Leaf: petiole 1.5–2.5 cm, robust, often red; blade elliptic to obovate, 11–15 × 5–7 cm, base cuneate, apex subacute to obtuse, coriaceous, with entire margin; main vein red below, secondary veins ± 10 pairs, scarcely distinct above, indistinct below. Inflorescence axillary, in multiflorous biparious cymes, branched 5–6 times at ± right angles; peduncle 1.5–5(–7) cm. Flower: pedicel (2–)3–5(–7) mm; bud ellipsoidal, 6–9 × 4–6 mm, apex obtuse or acute; bracteolar cupule robust, with irregular lips; calyx with sepals connate at base, oval-elliptic, 6–9 × 2–4 mm, woody; petals linear, 6–7 × 1.5 mm, with numerous flexible hairs 1.5 mm on their inner margin; stamens 8, subsessile, anthers 5–6 mm long, mucronate at apex, anther locules numerous, ± isometric, 0.15–0.2 mm diameter; disc 8-lobed; style conical at base, stigma bifid. Fruit indehiscent, ± curved, 3–6 × 2–2.5 cm, coriaceous; cotyledonary cylinder emerging clearly from fruit; hypocotyl reaching up to 50 cm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale, du Sénégal à l’Angola, et la côte Atlantique de l’Amé rique du Sud ; au Gabon, dans l’Estuaire, l’Ogooué-Maritime et la Nyanga
+West Africa, from Senegal to Angola, and the Atlantic coast of South America; in Gabon, in the Estuaire, Ogooué-Maritime and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mangroves ; préfère les eaux semi-douces, des trois espèces, poussant le plus loin de la mer. Fleurs et fruits germant (hypocotyles) pendant toute l’année. Usage : Le bois est extrèmement dur et dense, rouge-brun, utilisé comme poteaux de case. Se cassant et se fendant assez facilement, c’est un bon bois de chauffage et un excellent charbon ;utilisé pour la construction de navettes, des membrures d’embarcation ou des manches de harpons. L’écorce, riche en tanin, sert à teindre les grands filets de pêche. Elle fournit un colorant rouge extrait à froid et un colorant noir extrait en décoction ; les infusions de l’écorce sont utilisées en gargarismes et en frictions avec de l’étoupe de coeur de bananier contre les maux de dents ; les infusions sont également utilisées comme desinfectant pour plaies, pustules, hémorrhagies et angines. Le suc rougeâtre aurait les propriétés du kino
+mangroves; prefers brackish waters, of the three species, growing furthest from the sea. Flowers and fruits germinating (hypocotyls) throughout the year. Use: The wood is extremely hard and dense, reddish-brown, used for house posts. Breaking and splitting fairly easily, it is good firewood and excellent charcoal; used for the construction of shuttles, boat ribs or harpoon handles. The bark, rich in tannin, serves to dye large fishing nets. It provides a red dye extracted cold and a black dye extracted by decoction; bark infusions are used as gargles and applied with banana-heart tow against toothache; infusions are also used as a disinfectant for wounds, pustules, haemorrhages and sore throat. The reddish sap would have the properties of kino.
 
 ## Vernacular names
 

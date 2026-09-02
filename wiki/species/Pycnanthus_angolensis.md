@@ -27,29 +27,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Exell, Cat. vasc. pl. San Tomé : 278 (1944). — Monograph of the Ilomba.
 
-— Exell, Cat. vasc. pl. San Tomé : 278 (1944). — Monographie de l'Ilomba.
+Monoecious or dioecious tree reaching 30 to 35 m in height, sometimes 50 m, with a bole 0.6 to 1 m in diameter, rarely 1.5 m and measuring in length below branches 10 to 15 and even 20 m, without buttresses at the base. Bark brownish-grey reaching 1 to 2 cm in thickness with pinkish-yellow exudate, becoming redcurrant-coloured, not solidifying.
 
-Arbre monoïque ou dioïque atteignant 30 à 35 m de haut, parfois 50 m, avec un fût de 0,6 à 1 m de diamètre, rarement 1,5 m et mesurant en longueur sous branches 10 à 15 et même 20 m, sans empattemment à la base. Écorce brun-gris atteint d'un à 2 cm d'épaisseur à exsudat jaune rosé, devenant couleur groseille, ne se solidifiant pas.
+Leaves with petiole 1.5–2 cm long by 4 mm thick; blade elongate with cordate base, gradually narrowed at apex, 20–30 cm long by 6–11 cm wide. Adult leaves retain from the abundant pubescence of youth only a few stellate hairs, sessile or stipitate, ferruginous, scattered on the lower face. Primary vein prominent on both faces; secondary veins prominent beneath.
 
-Feuilles à pétiole de 1,5-2 cm de long sur 4 mm d'épaisseur; limbe allongé à base cordée, à sommet graduellement aminci, long de 20-30 cm sur 6-11 cm de large. Les feuilles adultes ne conservent de l'abondante pubescence de la jeunesse que quelques poils étoilés, sessiles ou stipités, ferrugineux, épars sous la face inférieure. Nervure primaire en relief sur les deux faces; nervures secondaires saillantes dessous.
+Male and female inflorescences in panicles of 10–15 cm gathering numerous capitules of 2–3 mm in diameter with caducous bracts at their base. Male flowers with perianth of 3–4 papillose lobes externally with 2–4 exsert anthers; female flowers with perianth 2–4 partite with pubescent ovary and sessile stigma. Fruits with pedicel 3–6 mm long, puberulent when young, then glabrous, 3–4 cm long by 2.5 to 3 cm in diameter. Exocarp fleshy 5 mm in thickness; seed 1.5–2 cm long by 8–13 mm in diameter, with pink aril.
 
-Inflorescences ♂ et ♀ en panicules de 10-15 cm groupant de
+Type of Myristica angolensis Welw.: Welwitsch 581 (P.) Angola.
 
-nombreux capitules de 2-3 mm de diamètre avec bractées caduques à leur base. Fleurs mâles à périanthe à 3-4 lobes papilleux extérieurement avec 2-4 anthères exsertes; fleurs femelles à périanthe 2-4 partit avec ovaire velu et stigmate sessile. Fruits avec pédon-cule de 3-6 mm de long, pubérulents à l'état jeune, puis glabres, de 3-4 cm de long sur 2,5 à 3 cm de diamètre. Exocarpe charnu de 5 mm d'épaisseur; graine de 1,5-2 cm de long sur 8-13 mm de diamètre, avec arille rose.
+Type of Myristica kombo Baillon : Duparquet ♂ et fr.
 
-Type de Myristica angolensis Welw.: Welwitsch 581 (P.) Angola.
+Type of Pycnanthus microcephalus (Benth.) Warb.: Mann 572. Fernando-Po.
 
-Type de Myristica kombo Baillon : Duparquet ♂ et fr.
+The geographical range of this species extends over Sierra Leone, Guinea, Côte d'Ivoire, Dahomey, Cameroon, Oubangui, Gabon, former Belgian Congo, Angola, in secondary forests of terra firme. A light-demanding species, growing in small patches or as isolated trees, it yields a light wood, soft, whitish-grey or slightly pinkish, of average density 0.5 and capable of being peeled for the manufacture of plywood.
 
-Type de Pycnanthus microcephalus (Benth.) Warb.: Mann 572. Fernando-Po.
+Vernacular names, according to Walker and Sillans, useful plants of Gabon and according to the monograph of the Ilomba: Nkombo (Mpongwé dialect), Kombo (Benga, Béséki dialects), Sombo (Ivéa dialect), Gékombo, Géomba (Mitsogo dialect), Géomba (Bavové); Ilomba (Galoa, Nkomi, Orunga), Dilomba (Eshira, Bavarama, Bavungu, Bapunu), Dilombi (Masangu), Mulomba (Bapunu, Ngowé, Balumbu), Lilombo (Bavili, Baduma), Lélombo (Banzabi), Nlomba (Loango), Eteng, N'koma (Fang), Etendjé (Bakota) and Latenghé (Bakélé).
 
-L'aire géographique de cette espèce s'étend sur la Sierra Leone, la Guinée, la Côte d'Ivoire, le Dahomey, le Cameroun, l'Oubangui, le Gabon, le Congo ex-belge, l'Angola, dans les forêts secondaires de terre ferme. Essence de lumière, croissant en petites taches ou par pieds isolés, elle fournit un bois léger, tendre, blanc grisâtre ou légèrement rosé, de densité moyenne 0,5 pouvant être déroulé pour la fabrication de contreplaqués.
-
-Noms vernaculaires, d'après Walker et Sillans, plantes utiles du Gabon et d'après la monographie de l'Ilomba : Nkombo (dialecte Mpongwé), Kombo (dialectes Benga, Béséki), Sombo (dialecte Ivéa), Gékombo, Géomba (dialecte Mitsogo), Géomba (Bavové); Ilomba (Galoa, Nkomi, Orunga), Dilomba (Eshira, Bavarama, Bavungu, Bapunu), Dilombi (Masangu), Mulomba (Bapunu, Ngowé, Balumbu), Lilombo (Bavili, Baduma), Lélombo (Banzabi), Nlomba (Loango), Eteng, N'koma (Fang), Etendjé (Bakota) et Latenghé (Bakélé).
-
-Désigné communément « Faux muscadier », « Arbre à suif », le Pycnanthus angolensis fournit un bois surtout employé comme combustible au Gabon; l'écorce est utilisée en décoction comme vomitif; des graines oléagineuses on peut tirer un suif végétal de teinte rouille.
+Commonly designated "False Nutmeg", "Tallow Tree", Pycnanthus angolensis yields a wood chiefly used as fuel in Gabon; the bark is used in decoction as an emetic; from the oleaginous seeds a vegetable tallow of rust colour may be extracted.
 
 ## Vernacular names
 

@@ -20,21 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Desv., Ann. Soc. Linn. Paris 6 : 177 (1827).
 
-Feuilles flottantes, courtement pétiolées, à pétiole aplat, à limbe oblong, à base arrondie, face supérieure portant 15-20
-
-paires de nervures ± visibles, le long desquelles sont rangées de petites écailles arrondies, assez régulièrement espacées, à pointe mousse Face inférieure portant des poils apprimés, grisâtres. Fronde fertile...
+Floating leaves, shortly petiolate, with flattened petiole, with oblong lamina, with rounded base, upper surface bearing 15-20 pairs of ± visible veins, along which are arranged small rounded scales, fairly regularly spaced, with blunt apex. Lower surface bearing appressed, greyish hairs. Fertile frond...
 
 ## Type
 
 Palisot de Beauvois, in Herb. Desvaux (P)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Ghana, Nigeria.
 

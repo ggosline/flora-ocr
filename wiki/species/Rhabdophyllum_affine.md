@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-J. Bot. (Morot) 16 : 201 (juin 1902). Ouratea affinis (Hook.f.) Engl. ex Gilg in Engl. & Prantl, Nat. Pflanzenfam., éd. 1, III, 6 : 142 (1893).
+J. Bot. (Morot) 16 : 201 (June 1902). Ouratea affinis (Hook.f.) Engl. ex Gilg in Engl. & Prantl, Nat. Pflanzenfam., ed. 1, III, 6 : 142 (1893).
 
 ## Also treated in vol 48
 
@@ -37,17 +35,15 @@ J. Bot. (Morot) 16 : 201 (juin 1902). Ouratea affinis (Hook.f.) Engl. ex Gilg in
 
 **Pages**: 82-83 · **Source**: `sources/Ochnaceae_vol48_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suffrutex ou arbuste ; tiges grêles. Stipules persistantes. Feuille : pétiole 2–4(–5) mm ; limbe elliptique à étroitement elliptique, cunéé à la base, aigu à acuminé ou rarement acuminé-caudé au sommet, 4,5–16,5(–18,5) × (1,0–)1,5–5,5(–6,5) cm, papyracé à peu coriace ; marge entière ou ondulée, parfois denticulée ; nervures secondaires denses, non- à peu hiérarchisées , rases à peu saillantes dessous. Inflorescence 2–13(–16) cm de longueur, parfois très réduites, avec (1–)3 à plusieurs fleurs ; rachis anguleux à ar rondi ; cymules 1- à 3-flores, à axes de 1–5 mm ; écailles à la base de l’inflorescence persistantes. Fleur : pédicelle 4–15 mm ; sépales 5–7 × 2–3 mm ; pétales 4–5 mm de longueur. Fruit à pédicelle, sépales et réceptacle accrescents rouges ; méricarpes sphériques , noirs.
+Subshrub or shrub; stems slender. Stipules persistent. Leaf: petiole 2–4(–5) mm; lamina elliptic to narrowly elliptic, cuneate at base, acute to acuminate or rarely acuminate-caudate at apex, 4.5–16.5(–18.5) × (1.0–)1.5–5.5(–6.5) cm, papyraceous to somewhat coriaceous; margin entire or undulate, sometimes denticulate; secondary veins dense, non- to somewhat hierarchized, flat to somewhat prominent beneath. Inflorescence 2–13(–16) cm in length, sometimes much reduced, with (1–)3 to several flowers; rachis angular to rounded; cymules 1- to 3-flowered, with axes 1–5 mm; scales at base of inflorescence persistent. Flower: pedicel 4–15 mm; sepals 5–7 × 2–3 mm; petals 4–5 mm in length. Fruit with pedicel, sepals and receptacle accrescent red; mericarps spherical, black.
 
 ### Distribution
 
-de la Guinée-Conakry jusqu’au Gabon, l’ouest de la République du Congo et au nord-est de la République démocratique du Congo ; au Gabon, peu commune dans tout le pays, mais plus commune au nord et au sud
+From Guinea-Conakry to Gabon, western Republic of the Congo and northeastern Democratic Republic of the Congo; in Gabon, uncommon throughout the country, but more common in the north and south
 
 ### Ecology
 
-forêt primaire et secondaire, sempervirente ou semi-décidue, souvent en station ripicole ou même en station marécageuse ou périodiquement inondée, en lisière de forêt, sur sol sableux, argileux, parfois rocheux ou ferralitique ; au Gabon, à 25–500 m d’altitude, ailleurs jusqu’à 1080 m. Note taxonomique : R. affine est une espèce très variable, en particulier la largeur des feuilles, la proéminence de la nervation, la longueur de l’inflorescence, du pédicelle et de l’axe des cymules, montrent une variation extrême. Cette variabilité est considérée comme appartenant au type clinal, sans distinction de taxa subspécifiques. b : Bamps & Farron (1967), Farron (1965, 1968, 1985), Hutchinson, Dalziel ibliographie & Keay (1954), Sosef (2008)
+Primary and secondary, evergreen or semi-deciduous forest, often in riparian habitat or even in swampy or periodically inundated habitat, at forest edge, on sandy, clayey, sometimes rocky or ferrallitic soil; in Gabon, at 25–500 m elevation, elsewhere up to 1080 m. Taxonomic note: R. affinis is a highly variable species, in particular the width of leaves, the prominence of venation, the length of inflorescence, pedicel and axis of cymules, show extreme variation. This variability is considered to belong to the clinal type, without distinction of infraspecific taxa. b: Bamps & Farron (1967), Farron (1965, 1968, 1985), Hutchinson, Dalziel & Keay (1954), Sosef (2008)
 
 ## Notes
 

@@ -24,15 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1–4 m tall, with remarkably hirsute vegetative apparatus. Stipules hirsute, attenuate, reaching up to 7–10 mm in length. Petiole hirsute, 3–7 mm. Blade thin with soft hairs rather loosely distributed on both faces, elliptic, 14–28 × 5–11 cm, with acute or rounded base, often asymmetrical; apex with often very acute acumen. Midrib hirsute above and below; 10–13(15) pairs of secondary veins hirsute below. Nerve axils with fasciculate hairs.
 
-Arbuste de 1-4 m de hauteur, à appareil végétatif remarquablement velu hirsute. Stipules velues effilées atteignant jusqu'à 7-10 mm de longueur. Pétiole velu de 3-7 mm. Limbe mince à poils mous plutôt lâches sur les deux faces, elliptique de 14-28 × 5-11 cm, à base aiguë ou non, souvent dissymétrique; sommet à acumen souvent très aigu. Médiam velue dessus et dessous; 10-13(15) paires de nervures secondaires hirsutes dessous. Aisselles nervaires à poils en touffes.
+Flowers white or whitish-green, erect, sessile, appearing at the level of a pseudowhorl of 3 leaves. Calyx hirsute with tubular portion 3–7 mm tall, with 7–8 attenuate lobes 1–3 cm in length. Corolla hirsute, 16–22 cm long, tube 4–5 mm wide, throat reaching $3 \times 2–3$ cm, with (6)7–8 oblong lanceolate lobes 25–60 × 10–15 mm, ± pubescent. Anthers entirely glabrous, 15–22 × 1.5 mm, only three-quarters included, sessile, medifixed. Style filiform, sparsely pubescent in its upper portion or glabrous. Stigma in long narrow clavate form with apex surpassing the stamens by half a centimetre. Ovary hirsute, somewhat conical.
 
-Fleurs blanches ou blanc verdâtre, dressées, sessiles, appa-
-
-raissant au niveau d'un pseudoverticille de 3 feuilles. Calice velu à partie tubuleuse haute de 3-7 mm, à 7-8 lobes effilés de 1-3 cm de longueur. Corolle velue longue de 16-22 cm, à tube de 4-5 mm de largeur, à gorge atteignant  $ 3 \times 2-3 $ cm, à (6)7-8 lobes oblongs lancéolés de 25-60 × 10-15 mm, ± pubescents. Anthères entièrement glabres de 15-22 × 1,5 mm, seulement aux trois quarts incluses, sessiles médifixes. Style filiforme médiocrement pubescent dans sa partie supérieure ou glabre. Stigmate en longue massue étroite à sommet dépassant les étamines d'un demi-centimètre. Ovaire velu un peu conique.
-
-Fruit sessile oblong à base atténuée à sommet tronqué couronné par le limbe calycinal, de  $ 8,5-10 \times 2-3 $ cm, vert, marqué de marbrures longitudinales et un peu pubescent. Les placentas se divisent en 2 masses d'env.  $ 7 \times 1,5 $ cm, contenant chacune une trentaine de graines profondément enchâssées. Graine immature pleine de  $ 7 \times 6 \times 5 $ mm. Embryon blanc droit de  $ 4,2 $ mm.
+Fruit sessile, oblong, attenuate at base, truncate at apex crowned by the calycinal limb, $8.5–10 \times 2–3$ cm, green, marked with longitudinal marbling and somewhat pubescent. The placentas divide into 2 masses of approx. $7 \times 1.5$ cm, each containing about thirty seeds deeply embedded. Immature seed full $7 \times 6 \times 5$ mm. Embryo white, straight, $4.2$ mm.
 
 ## Type
 
@@ -40,15 +36,13 @@ Mann s. n. (holotype K), Fernando Po (cult. à Kew)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, Gabon, Congo (from Brazzaville to Yangambi), Cabinda, Central African Republic (Descoing 10162, Guigonis 2561) and Angola. Scrubby ± degraded forests, sometimes somewhat swampy.
 
-Nigeria, Cameroun, Gabon, Congo (de Brazzaville à Yangambi), Cabinda, Centrafrique (Descoing 10162, Guigonis 2561) et Angola. Forêts broussailleuses ± dégradées, parfois un peu marécageuses.
+N. Hallé and A. Le Thomas 312, Zadindoué between Batoala and Mékambo (fr. Aug.).
 
-N. Hallé et A. Le Thomas 312, Zadindoué entre Batoala et Mékambo (fr. août).
+Klaine 2148, 2655 (Sibang), 2834, 3197, 3236, 3278, 3527, environs of Libreville (fl. Nov. to Jan.; fr. Jan. to Mar.).
 
-Klaine 2148, 2655 (Sibang), 2834, 3197, 3236, 3278, 3527, environs de Libreville (fl. de nov. à janv.; fr. de janv. à mars).
-
-Le Testu 5086, entre Guidouma et Sainte-Croix (fl. nov.); 5086 bis (BM!), Mayimba (fl. déc.); 7547, 8479, Lastoursville (fl. oct.); 9369, Mbiça (fl. nov.).
+Le Testu 5086, between Guidouma and Sainte-Croix (fl. Nov.); 5086 bis (BM!), Mayimba (fl. Dec.); 7547, 8479, Lastoursville (fl. Oct.); 9369, Mbiça (fl. Nov.).
 
 ## Figures
 

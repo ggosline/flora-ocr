@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 1,5 x 0,5 cm. Feuille inférieure < 7 x 1,5 cm, elliptique-lancéolée, aiguë. Inflorescence 3 cm, 25-flore. Sépale dorsal lancéolé, subulé. Pétales étroitement lancéolés, acuminés, falciformes. Sépales latéraux presque symétriques, oblongs-triangulaires, subulés. Labelle obscurément trilobé dans le quart ou le tiers inférieur, sans callus, mince, frêle, cochéiforme à la base, glabre ; lobe médian ové-lancéolé, acuminé ; lobes latéraux très peu marqués, arrondis. Éperon sacciforme. - Pl. 131, p. 299.
+Pseudobulbs 1.5 × 0.5 cm. Lower leaf < 7 × 1.5 cm, elliptic-lanceolate, acute. Inflorescence 3 cm, 25-flowered. Dorsal sepal lanceolate, subulate. Petals narrowly lanceolate, acuminate, falcate. Lateral sepals nearly symmetric, oblong-triangular, subulate. Labellum obscurely three-lobed in the lower quarter or third, without callus, thin, fragile, cochlear at the base, glabrous; median lobe ovate-lanceolate, acuminate; lateral lobes very poorly marked, rounded. Spur sacciform. - Pl. 131, p. 299.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte
 
-épiphyte
+MATERIAL STUDIED (Map 59):
 
-MATÉRIEL ÉTUDIÉ (Carte 59) :
-
-Breteler, Jongkind, Wieringa & Moussavou 9777, Rabi, forêt dense humide, ± 1° 55' S, 9° 50' E, épiphyte (fl. Avr.), WAG!.
+Breteler, Jongkind, Wieringa & Moussavou 9777, Rabi, dense humid forest, ± 1° 55' S, 9° 50' E, epiphyte (fl. Apr.), WAG!.
 
 ## Figures
 

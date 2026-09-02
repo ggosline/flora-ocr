@@ -25,7 +25,7 @@ T. le-testui Pellegr., Not. Syst . (Paris) 9(1) : 20 (1940). Arbre de 10–20(�
 
 <!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Bénin, Nigéria, Ca meroun, Guinée Équatoriale, Gabon, Angola (Cabinda) et République Démocratique du Congo ; au Gabon, assez rare et connue de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du Woleu Ntem
+Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Bénin, Nigéria, Ca meroun, Guinée Équatoriale, Gabon, Angola (Cabinda) et République Démocratique du Congo ; au Gabon, assez rare et connue de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du Woleu-Ntem
 
 B. Feuille (× 0,5). – C. Fleur fonctionnellement mâle épanouie et en bouton (× 1). – D. Dito, vue interne du tube staminal avec vestige du gynécée (× 2). – E. Partie du tube staminal, face interne (× 3). – F. Dito, face externe (× 3). – G. Fleur fonctionnellement femelle, vue interne, sépales partiellement et les pétales enlevés (× 2). – K. Rameau fructifère (× 0,5). – M. Fruit, section transversale (× 1). – N. Graine (× 1). – P. Cotylédons (× 1). – R. Détail d’une foliole, face inférieure (× 2). – S. Poils (× 15). (A, C–F : J.J. de Wilde 3419 ; B, M, R, S : Chevalier B–22382 ; G : Gossweiler 8007 ; K, N, P : Gerard 2633 ). Dessin par Ike Zewald, Naturalis Biodiversity Center, Leiden (©).
 

@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1 (2): 429 (1958); TISSERANT & SILLANS, Not. Syst. 15 (2): 211 (1960); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1: 318 (1960); IRVINE, Woody Pl. Ghana: 263 (1961); BOUQUET, Féticheurs et médecines traditionnelles au Congo-Brazzaville: 204 (1969); MENDES, Consp. Fl. Angol. 4: 11 (1970); ADAM, Mém. Mus. Nat. Hist. Nat. Paris, Fl. descr. Monts Nimba 2: 536 (1971); WHITE, BJBB 46: 321 (1976). ("S." DIDR.: ENGL., Pflanzenw. Afr. 3 (1): 303 (1915); "P." DIDR.: AUBR., FFCI, ed. 2, 1: 180, tab. 55; 1959).
 
-KEAY, FWTA, ed. 2, 1 (2) : 429 (1958); TISSERANT & SILLANS, Not. Syst. 15 (2) : 211 (1960); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 318 (1960); IRVINE, Woody Pl. Ghana : 263 (1961); BOUQUET, Féticheurs et médecines traditionnelles au Congo-Brazzaville : 204 (1969); MENDES, Consp. Fl. Angol. 4 : 11 (1970); ADAM, Mém. Mus. Nat. Hist. Nat. Paris, Fl. descr. Monts Nimba 2 : 536 (1971); WHITE, BJBB 46 : 321 (1976). (« S. » DIDR. : ENGL., Pflanzenw. Afr. 3 (1) : 303 (1915); « P. » DIDR. : AUBR., FFCI, ed. 2, 1 : 180, tab. 55 ; 1959).
+— P. subcordata OLIV., FTA 2: 367 (1871); DALZ., Us. Pl. W. Trop. Afr.: 170 (1937).
 
-— P. subcordata OLIV., FTA 2 : 367 (1871); DALZ., Us. Pl. W. Trop. Afr. : 170 (1937).
+— P. martretii A. CHEV., ms. in sched. P.
 
-— P. martretii A. CHEV., ms. in sched, P.
+Small tree reaching 80(−100) cm in diameter but of low height (20−30 m), with base furnished with numerous small buttresses with concave profile, rising to approximately 1 m (5 m in the inundated forests of Zaïre), with superficial roots. Trunk, sometimes tortuous and irregular, furnished with brown rhytidome, strongly ridged longitudinally toward the base, branching at low height with large branches with bark marbled white, grey and black. Globose crown, descending very low to the ground, dense with branchlets directed outward bearing distichous oblique leaves; young branchlets and petioles reddish pubescent then yellowish. Stipules elongated, caducous. Petiole reaching 5−7 mm with, on its distal half, 2 large approximate elliptic glands, convex, full or umbilicate. Blade coriaceous, elliptic-oblong, approximately 2.5−3 × 5−6 cm (with leaves of young plants larger, up to 5−7 × 12−13 cm); base subcordate, apex broadly acute sometimes slightly and briefly acuminate, 15−20 pairs of lateral veins; lower surface at first covered with dense woolly felt then glabrescent on the veins and venules, the crypts remaining furnished with greyish tomentum; a few marginal hydathodes toward the base of the blade beneath.
 
-Petit arbre pouvant atteindre 80(-100) cm de diamètre mais de faible hauteur (20-30 m), avec base garnie de nombreux petits contreforts à profil concave, s'élevant à 1 m environ (5 m dans les forêts inondées du Zaïre), avec racines superficielles. Fût, parfois tortueux et irrégulier, garni d'un rhytidome brun, fortement plissé longitudinalement vers le bas, branchu à faible hauteur avec grosses branches à écorce marbrée de blanc, de gris et de noir. Cime globuleuse, descendant très bas sur le sol, dense avec rameaux dirigés vers l'extérieur portant des feuilles distiques obliques ; jeunes rameaux et pétioles pubescents roussâtes puis jaunâtres. Stipules allongées, caduques. Pétiole atteignant 5-7 mm avec, sur sa moitié distale, 2 grosses glandes rapprochées, elliptiques, bombées, pleines ou ombiliquées. Limbe coriace, elliptique-oblong, env. 2,5-3 × 5-6 cm (avec feuilles de jeunes plants plus grandes, jusqu'à 5-7 × 12-13 cm); base subcordée, sommet largement aigu parfois légèrement et brièvement acuminé, 15-20 paires de nervures latérales ; surface inférieure d'abord couverte d'un dense feutrage laineux puis glabrescente sur les nervures et nervilles, les cryptes restant garnies d'un tomentum grisâtre; quelques hydatodes marginaux vers la base du limbe dessous.
+Inflorescences in leafy terminal panicles, reaching 10(−20) cm in height, silvery silky to the tip of the sepals. Bracts and bracteoles brown and glabrous within, ovate-lanceolate, caducous. Receptacle 4.5−5 mm high, sepals 2−2.5 mm high; petals white tinged pink, subspathulate, 2−3 mm high; approximately 7 fertile stamens with purple anthers.
 
-Inflorescences en panicules feuillées terminales, atteignant 10(-20) cm de hauteur, soyeuses argentées jusqu'à l'extrémité des sépales. Bractées et bractéoles brunes et glabres intérieurement, ovales-lancéolées, caduques. Réceptacle haut de 4,5-5 mm, sépales hauts de 2-2,5 mm; pétales blanc teinté de rose, subspatulés, hauts de 2-3 mm; environ 7 étamines fertiles à anthères pourpres.
-
-Drupes ellipsoïdes atteignant  $ 2 \times 2.5 \times 4 $ cm, couvertes de macules subérifiées. — PL. 37, p. 125.
+Drupes ellipsoid reaching 2 × 2.5 × 4 cm, covered with suberified macules. — PL. 37, p. 125.
 
 ## Type
 
@@ -37,19 +35,15 @@ C. Smith 67/366, 52/295, Zaïre, C!
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species not to be confused, from the nomenclatural point of view, with Parinari congoensis Engl. (= P. congolana Th. & H. Dur., nom. leg.) known only along the Zaïre, the Oubangui and their tributaries; its presence in Cameroon (Ngoko, Sangha) is not impossible. It is distinguished from P. congensis Didr. by its smaller leaf (max. 1.5 × 5 cm), very coriaceous, with broadly acute or rounded base but not subcordate, by its floral receptacle longitudinally ribbed reaching 8 mm in length and not 5, by its sepals with 1−3 marginal glands.
 
-Espèce à ne pas confondre, au point de vue nomenclatural, avec Parinari congoensis Engl. (= P. congolana Th. & H. Dur., nom. leg.) connue seulement au long du Zaïre, de l'Oubangui et de leurs affluents; sa présence au Cameroun (Ngoko, Sangha) n'est pas impossible. Elle se distingue de P. congensis Didr. par sa feuille plus petite (max. 1,5 × 5 cm), très coriace, à base largement aiguë ou arrondie mais non subcordée, par son réceptacle floral longitudinalement côtelé atteignant 8 mm de longueur et non 5, par ses sépales avec 1-3 glandes marginales.
+Parinari congensis Didr. differs from P. excelsa Sabine, large tree of dense humid forest, by the base of the leaf rounded subcordate and not acute to broadly acute, and from P. curatellifolia Planch. ex Benth., small savanna tree often forming stands, by the apex of the leaf acute to broadly acute and not rounded or emarginate.
 
-Parinari congensis Didr. se différencie de P. excelsa Sabine, grand arbre de forêt dense humide, par la base de la feuille arrondie subcordée et non aiguë à largement aiguë, et de P. curatellifolia Planch. ex Benth., petit arbre de savane formant souvent des peuplements, par le sommet de la feuille aigu à largement aigu et non arrondi ou émarginé.
-
-Parinari congensis Didr. est répandue en Afrique occidentale, de la Guinée et du Mali au Cameroun, ainsi qu'en Centrafrique (Bangui), au Congo (Sangha) et au Zaïre (Bas Zaïre et district forestier central, peut-être Shaba). Elle se localise toujours, en zone forestière congo-guinéenne et dans les galeries forestières du domaine soudanien, au bord des cours d'eau; elle est un élément caractéristique de forêts marécageuses ou inondables (avec des variations de niveau de 2 à 5 m de hauteur) au voisinage du Bas Zaïre. Espèce non encore connue au Gabon; au Cameroun, seulement récoltée à ce jour près d'Edéa et sur les rives de la Donga au Nord de Nkambe; ENGLER (Pflanzenw. Afr. 3 (1) : 303, 1915) la signalait près de Moloundou, sous le nom de Parinari subcordata Oliv., mais comme grand arbre de forêt, semble-t-il, ce qui laisse planer un doute sur la validité de la détermination; la présence de P. congensis Didr. est cependant fort possible en cette région.
+Parinari congensis Didr. is widespread in West Africa, from Guinea and Mali to Cameroon, as well as in Central African Republic (Bangui), Congo (Sangha) and Zaïre (Lower Zaïre and central forest district, possibly Shaba). It is always localized in the Congo-Guinean forest zone and in the forest galleries of the Sudanian domain, at the edge of watercourses; it is a characteristic element of swampy or inundable forests (with variations in level of 2 to 5 m in height) in the vicinity of Lower Zaïre. Species not yet known from Gabon; in Cameroon, only collected to date near Edéa and on the banks of the Donga north of Nkambe; ENGLER (Pflanzenw. Afr. 3 (1): 303, 1915) reported it near Moloundou, under the name Parinari subcordata Oliv., but as a large forest tree, it seems, which casts doubt on the validity of the determination; the presence of P. congensis Didr. is nonetheless quite possible in this region.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Écorce purgative et contre la lèpre (Zaïre), antidysentérique (Congo), Bois réputé résistant aux termites (Ghana). Fruits comestibles et appâts pour le poisson (Zaïre)
+Bark purgative and against leprosy (Zaïre), antidysenteric (Congo). Wood reputed resistant to termites (Ghana). Fruits edible and fish baits (Zaïre).
 
 ## Specimens examined
 

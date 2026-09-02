@@ -23,7 +23,7 @@ Fleurya aestuans (L.) Miq., in Martius, Fl. bras. 4(1) : 196 (1853). Fleurya per
 
 practically pantropical – but apparently absent from Oceania (invasive in Hawaii) where the species is replaced by L. ruderalis (Forst.f.) Chew which differs from it in details of the inflorescence and the flowers – known from tropical America, from Mexico to Peru and in the West Indies;
 
-Laportea 59 in tropical Asia, widely distributed from Yemen to Indonesia; in tropical Africa, from Senegal to Cameroon, the Central African Republic, and towards Ethiopia and Eritrea, to the south, to Angola, Zimbabwe and Mozambique, also in Madagascar; in Gabon, known from the Estuary, Middle Ogooué, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem.
+Laportea 59 in tropical Asia, widely distributed from Yemen to Indonesia; in tropical Africa, from Senegal to Cameroon, the Central African Republic, and towards Ethiopia and Eritrea, to the south, to Angola, Zimbabwe and Mozambique, also in Madagascar; in Gabon, known from the Estuaire, Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem.
 
 ## Ecology
 

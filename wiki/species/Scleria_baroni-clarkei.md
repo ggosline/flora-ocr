@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Acad. Roy. Sci. Belgique, Cl. Sci., sér. 5, 13(10–11) : 703 (1927). S. clarkei De Wild., Bull. Soc. Roy. Bot. Belg. 54 : 130, pl. V (1927), nom . illeg ., non Lindmann (1900). Herbe robuste, vivace , formant des touffes, à rhizome court ; tige 70–150 cm × 3–5 mm, triangulaire, poilue sur les arêtes, feuillée jusqu’en haut. Feuille : gaine pubescente ; ligule plus large que longue ; limbe 40 cm × 5–7 mm , avec 3 nervures principales, pubescent dessous, presque glabre dessus, fortement scabre sur la marge et la nervure centrale. Inflorescence à 3–5 panicules latérales issues chacune d’un nœud ou d’une gaine, la plus grande 3–10 × 3 cm environ ; pédoncules rigides, triangulaires, poilus et scabres ; rachis peu poilu. Épillets mâles principalement terminaux, 5–6 × 1 mm environ ; glumes nombreuses, les basales stériles, les centrales à 3 staminodes et les supérieures 3 étamines. Épillet femelle long de 4–5 mm, composé de 3 glumes acuminées, noirâtres avec une nervure centrale grisâtre, habituellement plus longues que l’akène. Akène ovoïde, long de 2,5–3 mm (hypogynium non compris), blanchâtre à violet pâle, lisse, brillant et glabre ; hypogynium long d’environ 2 mm, brunâtre, sans lobes , mais avec un anneau étroit au sommet.
+Bull. Acad. Roy. Sci. Belgique, Cl. Sci., sér. 5, 13(10–11) : 703 (1927). S. clarkei De Wild., Bull. Soc. Roy. Bot. Belg. 54 : 130, pl. V (1927), nom . illeg ., non Lindmann (1900). Robust, perennial herb forming tufts, with short rhizome; stem 70–150 cm × 3–5 mm, triangular, hairy on the edges, leafy to the top. Leaf: sheath pubescent; ligule wider than long; blade 40 cm × 5–7 mm, with 3 main veins, pubescent below, almost glabrous above, strongly scabrous on the margin and central vein. Inflorescence with 3–5 lateral panicles each arising from a node or sheath, the largest approximately 3–10 × 3 cm; peduncles rigid, triangular, hairy and scabrous; rachis sparsely hairy. Male spikelets mainly terminal, approximately 5–6 × 1 mm; glumes numerous, the basal ones sterile, the central ones with 3 staminodes and the upper ones with 3 stamens. Female spikelet 4–5 mm long, composed of 3 acuminate glumes, blackish with a greyish central vein, usually longer than the achene. Achene ovoid, 2.5–3 mm long (hypogynium not included), whitish to pale violet, smooth, shiny and glabrous; hypogynium approximately 2 mm long, brownish, without lobes, but with a narrow ring at the apex.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue seulement du Gabon et de la République Démocratique du Congo ; très rare au Gabon, trouvée seulement près de Bélinga dans l’Ogooué-Ivindo (2 récoltes)
+known only from Gabon and the Democratic Republic of the Congo; very rare in Gabon, found only near Bélinga in the Ogooué-Ivindo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains boisés ; au Gabon, probablement à 500–900 m d’altitude. Note taxonomique : très proche de S. induta , mais s’en différencie par son disque ayant un anneau étroit proéminent immédiatement sous l’akène. Proche aussi de S. naumanniana et de S. iostephana, mais ces 2 espèces ont un hypogynium nettement trilobé. b : De Wildeman (1927a, 1927b), Nelmes (1958), Piérart (1953). ibliographie
+wooded areas; in Gabon, probably at 500–900 m altitude. Taxonomic note: very close to S. induta, but distinguished by its disc having a prominent narrow ring immediately below the achene. Also close to S. naumanniana and S. iostephana, but these 2 species have a clearly trilobed hypogynium. b : De Wildeman (1927a, 1927b), Nelmes (1958), Piérart (1953). ibliography
 
 ## Notes
 

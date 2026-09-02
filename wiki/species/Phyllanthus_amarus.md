@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle , atteignant 40–80 cm de hauteur ; tige souvent lignifiée à la base, glabre ; ramilles glabres. Stipules triangulaires, 1,3–1,5 × 0,8–1 mm. Feuille : pétiole ± 0,5 mm ; limbe oblong-ovale, 5–13 × 3–5 mm, arrondi à la base, aigu et parfois mucroné au som met, glabre, à 4–5 paires de nervures latérales. Inflorescence mâle ou bisexuée. Fleurs monoïques . Fleur mâle : pédicelle 0,6–1,2 mm ; sépales 5, ovales, 0,3–0,6 × 0,2–0,5 mm ; disque à 5 éléments peu lobulés ; étamines 3, 0,2–0,4 mm de longueur, à filets soudés. Fleur femelle à pédicelle fructifère de 1–1,7 mm ; sépales 5 , ovales, 0,8–1,2 × 0,3–0,6 mm, à zone médiane foncée de 0,2–0,5 mm de largeur ; disque entier, lacinié ; ovaire lisse ; styles bifides. Fruit 1,7–1,2 mm de diamètre, lisse . Graines en onglet sphé rique, avec (6–)7(–8) costules longitudinales dorsales .
+Annual herb, reaching 40–80 cm in height; stem often lignified at the base, glabrous; branchlets glabrous. Stipules triangular, 1.3–1.5 × 0.8–1 mm. Leaf: petiole ± 0.5 mm; blade oblong-ovate, 5–13 × 3–5 mm, rounded at the base, acute and sometimes mucronate at the apex, glabrous, with 4–5 pairs of lateral veins. Inflorescence male or bisexual. Flowers monoecious. Male flower: pedicel 0.6–1.2 mm; sepals 5, ovate, 0.3–0.6 × 0.2–0.5 mm; disk with 5 poorly lobulate elements; stamens 3, 0.2–0.4 mm in length, with connate filaments. Female flower with fruiting pedicel 1–1.7 mm; sepals 5, ovate, 0.8–1.2 × 0.3–0.6 mm, with dark median zone 0.2–0.5 mm wide; disk entire, laciniate; ovary smooth; styles bifid. Fruit 1.7–1.2 mm in diameter, smooth. Seeds with spherical hilum, with (6–)7(–8) longitudinal dorsal costules.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bien répandue dans les tropiques ; au Gabon, connue de l’Estuaire, du Haut Ogooué et de la Ngounié
+widely distributed in the tropics; in Gabon, known from Estuaire, Haut Ogooué, and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+open terrain with secondary vegetation, fallows, savannas, natural grasslands; in Gabon, at 0–400 m elevation
 
-terrains ouverts à végétation secondaire, jachères, savanes, prairies naturelles ; au Gabon, à 0–400 m d’altitude
-
-Usage : Une infusion sert comme tonique, diurétique et antipyrétique. La décoction des parties aériennes ou les feuilles se prend pour traiter la gonorrhée, la diarrhée, la dysen terie, etc. Le jus de feuilles s’instille en gouttes dans les oreilles pour traiter l’otite et s’applique sur les abcès, les plaies ou les blessures.
+Use: An infusion serves as a tonic, diuretic, and antipyretic. The decoction of aerial parts or the leaves is taken to treat gonorrhea, diarrhea, dysentery, etc. Leaf juice is instilled in drops in the ears to treat otitis and is applied to abscesses, wounds, or injuries.
 
 ## Vernacular names
 

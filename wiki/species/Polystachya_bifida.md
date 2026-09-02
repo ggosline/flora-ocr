@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tiges 20-40 × 0,2-0,3 cm. Feuilles 5-14,5 × 0,4-1 cm, linéaires à linéaires-lancéolées. Inflorescence 5,5-20 cm, 3-25 flore. Fleurs verdâtes, jaunâtres, orange ou blanches teintées de mauve. Sépale dorsal elliptique à largement ové ou ové-circulaire. Sépales latéraux obliquement triangulaires. Labelle plus ou moins rhombiforme, densément papilleux sur la face adaxiale, avec un appendice digitiforme assez long
-
-* Provenance géographique et lieu de dépôt signalés différemment par erreur dans FCAM.
-
-au centre ; lobe médian subcarré à sommet triangulaire obtus ; lobes latéraux obliquement rhombiformes ou rhombiformes-ovales. – Pl. 116, p. 265.
+Stems 20-40 × 0.2-0.3 cm. Leaves 5-14.5 × 0.4-1 cm, linear to linear-lanceolate. Inflorescence 5.5-20 cm, 3-25 flowered. Flowers greenish, yellowish, orange or white tinged with mauve. Dorsal sepal elliptic to broadly ovate or ovate-orbicular. Lateral sepals obliquely triangular. Labellum more or less rhombiform, densely papillose on the adaxial surface, with a rather long digitiform appendage at the centre; median lobe subquadrate with obtuse triangular apex; lateral lobes obliquely rhombiform or rhombiform-oval. – Pl. 116, p. 265.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Sao Tomé, Gabon, Zaïre, Rwanda
+Nigeria, Cameroon, Equatorial Guinea, São Tomé, Gabon, Zaïre, Rwanda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,000-2,500 m. Epiphytic in montane forest, sclerophyllous forest on lava, bamboo thicket, swampy formation
 
-alt. 1 000-2 500 m. Épiphyte en forêt de montagne, forêt sclérophylle sur lave, bambousaie, formation marécageuse
+MATERIAL EXAMINED (Map 48):
 
-MATÉRIEL ÉTUDIÉ (Carte 48) :
+Hallé 2890, Bélinga, Bakota, Nyeka Tendedji (st.), P!; 3697, Bélinga, Mines de Fer (fl. June), P!.
 
-Hallé 2890, Bélinga, Bakota, Nyeka Tendedji (st.), P! ; 3697, Bélinga, Mines de Fer (fl. Juin), P!.
+Le Testu 5411, Chutes de la Mtoumi at Mbigou (fl. Apr.), P!.
 
-Le Testu 5411, Chutes de la Mtoumi à Mbigou (fl. Avr.), P!.
+* Geographic provenance and repository location noted differently by error in FCAM.
 
 ## Figures
 

@@ -21,7 +21,7 @@ Climbing herb, delicate; stem slender, grey, pubescent. Stipules lanceolate, ± 
 
 ## Distribution
 
-West, central Africa and Angola to Zambia and Malawi; in Gabon, known from the Estuary
+West, central Africa and Angola to Zambia and Malawi; in Gabon, known from the Estuaire
 
 ## Ecology
 

@@ -21,7 +21,7 @@ Herb or shrub, 1.5–3(–7) m tall; branches spreading from the base, often spi
 
 ## Distribution
 
-from Senegal to Sudan, Cameroon and Gabon; in Gabon, known from the Estuary
+from Senegal to Sudan, Cameroon and Gabon; in Gabon, known from the Estuaire
 
 ## Ecology
 

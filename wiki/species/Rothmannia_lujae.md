@@ -24,13 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 8–20 and up to 35 m tall; vegetative apparatus entirely glabrous; young internodes nigrescent angulate-prismatic, the longest sometimes swollen into myrmecodomates toward the base. Stipules 3–5 mm long, ovate or subtrunate, caducous. Petiole 2–5 mm. Blade subcoriaceous nigrescent above, sometimes discolorous, elliptic 12–25 × 3–11 cm, base acute or attenuate-acute, apex with a rather narrow acumen. 7–11(12) pairs of secondary nerves. Very small axillary domatia with glabrous ostiole.
 
-Arbre de 8-20 et jusqu'à 35 m de hauteur; appareil végétatif entièrement glabre; jeunes entrencéuds nigrescents anguleux-prismatiques, les plus longs parfois renflés myrmécodomes vers la base. Stipules longues de 3-5 mm, ovées ou subtronquées, caduques. Pétiole de 2-5 mm. Limbe subcoriace nigrescent dessus, parfois discolore, elliptique de 12-25 × 3-11 cm, à base aiguë ou atténuée aiguë, sommet avec un acumen plutôt étroit. 7-11(12) paires de nervures secondaires. Très petites domaties axillaires à ostiole glabre.
+Flowers white-greenish solitary or 1–3, preceded by a unifoliate node and by a very short internode 1 cm or less, pedicellate for 3–10 mm, glabrous, nigrescent. Calyx with longitudinal ridges, tubulous prismatic limb 3–5 mm tall with truncate margin bearing 5 very small denticules. Corolla with tube 11–20 × 0.4–0.7 cm, throat about 2 × 1.5 cm, with 5 lanceolate acute lobes 15–20 × 16–10 mm. Anthers 25–30 × 1.5–2 mm, sessile medifixed, 3/4 included, bearing a few marginal hairs toward the extremities. Style filiform glabrous. Stigma weakly thickened, narrowly fusiform exceeding the stamens by about half a centimeter.
 
-Fleurs blanc-verdâtre solitaires ou par 1-3, précédées par un nœud unifolié et par un entrenceud très court de 1 cm ou moins, pédonculées sur 3-10 mm, glabres, nigrescentes. Calice à arêtes longitudinales, à limbe tubuleux prismatique haut de 3-5 mm à marge tronquée pourvue de 5 très petits denticules. Corolle à tube de 11-20 × 0,4-0,7 cm, à gorge d'environ 2 × 1,5 cm, à 5 lobes lancéolés aiguis de 15-20 × 16-10 mm. Anthères de 25-30 × 1,5-2 mm, sessiles médifixes, aux 3/4 incluses, munies de quelques poils marginaux vers les extrémités. Style filiforme glabre. Stigmate faiblement renflé, étroitement fusiforme dépassant les étamines d'environ un demi-centimètre.
-
-Fruit volumineux ellipsoïde de 14-17 × 11-13 cm, gris ochracé à 5 côtes étroitement saillantes, à sommet non tubuleux ni saillant, à base subsessile. Paroi atteignant 15 mm d'épaisseur. Très nombreuses graines transversalement disposées dépassant, à l'état immature, 12 mm de diamètre.
+Fruit voluminous ellipsoid 14–17 × 11–13 cm, greyish ochraceous with 5 narrowly prominent ribs, apex not tubulous nor prominent, base subsessile. Wall reaching 15 mm thick. Very numerous seeds transversely arranged exceeding, in the immature state, 12 mm in diameter.
 
 ## Type
 
@@ -38,9 +36,7 @@ Luja 90 (holotype BR!), Sankuru, Congo, sept. 1903
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Rio Muni, Gabon, Cabinda, Moyen-Congo (Bouquet 1873, fr.) et Kinshasa.
+Nigeria, Cameroon, Rio Muni, Gabon, Cabinda, Middle Congo (Bouquet 1873, fr.) and Kinshasa.
 
 ## Vernacular names
 

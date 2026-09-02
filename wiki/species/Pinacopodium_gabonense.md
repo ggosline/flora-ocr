@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Morelodendron gabonense Cavaco & Normand, Bull. Soc. Bot. Fr. 98 : 123 (1951).
 
-Arbre haut de 20 m, de 40 cm de diamètre, glabre. Feuilles penninerves; stipules intrapétiolaires précocement caduques; pétiole long d'environ 6 mm. Limbe elliptique, décurrent sur le pétiole, triangulaire à caudé au sommet, 6-16 × 2,5-7,5 cm. Nervures secondaires 12-14 paires, anastomoses entre elles, saillantes sur les 2 faces ainsi que les nervilles.
+Tree 20 m tall, 40 cm in diameter, glabrous. Leaves pinninerved; stipules intrapetiolar, early caducous; petiole approximately 6 mm long. Blade elliptic, decurrent on the petiole, triangular to caudate at the apex, 6–16 × 2.5–7.5 cm. Secondary veins 12–14 pairs, anastomosing between themselves, prominent on both faces as are the veinlets.
 
-Fleurs groupées en cymes subombelliformes, pédonculées, axillaires. Sépales valvaires, soudés à la base, triangulaires, longs d'environ 1 mm. Pétales imbriqués, libres, obovés, longuement onguiculés,  $ 4 \times 1 $ mm, à appendices nectarifères peu distincts sur la face ventrale et nervure médiane saillante sur la face dorsale. Etamines alternativement longues et courtes, les plus longues d'environ 3 mm; filets unis à la base en un tube de moins de 1 mm de hauteur; anthères basifixes, longues de 0,5-0,75 mm à déhiscence longitudinale, subsagittées, apiculées. Ovaire oblong, 2-loculaire,  $ 2,5 \times 1 $ mm; ovule 1 par loge, pendant; placentation axile; style extrêmement court, stigmate capité, bilobé.
+Flowers grouped in subumbelliform cymes, pedunculate, axillary. Sepals valvate, united at the base, triangular, approximately 1 mm long. Petals imbricate, free, obovate, long-unguiculate, $ 4 \times 1 $ mm, with nectariferous appendages scarcely distinct on the ventral face and prominent median nerve on the dorsal face. Stamens alternately long and short, the longest approximately 3 mm; filaments united at the base into a tube less than 1 mm in height; anthers basifixed, 0.5–0.75 mm long with longitudinal dehiscence, subhastate, apiculate. Ovary oblong, 2-locular, $ 2.5 \times 1 $ mm; ovule 1 per locule, pendant; placentation axile; style extremely short, stigma capitate, bilobed.
 
-Fruit mũi inconnu.
+Fruit unknown.
 
 ## Vernacular names
 
@@ -39,9 +37,7 @@ Morel 145 SRFG, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Probablement dans les mêmes formations que l'espèce P. congolense. Connu seulement du Gabon.
+Probably in the same formations as species P. congolense. Known only from Gabon.
 
 ## Specimens examined
 

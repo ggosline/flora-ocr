@@ -16,35 +16,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Rachis angular, having prominent wings, glabrous:
 
-1. Rachis angulaire, ayant des ailes saillantes, glabre :
+2. Bristles ciliate, the longest 10–27 mm; spikelets (2)–4–5 mm long .....P. polystachion
 
-2. Soies ciliées, la plus longue 10-27 mm ; épillets longs de (2)-4-5 mm .....P. polystachion
+2. Bristles glabrous, the longest 5–8 mm; spikelets 2.5–3 mm long ..... .P. hordeoides
 
-2. Soies glabres, la plus longue 5-8 mm ; épilets longs de 2,5-3 mm ..... .P. hordeoides
+1. Rachis cylindrical or having slight ribs, glabrous, pubescent or villous:
 
-1. Rachis cylindrique ou ayant des côtes légères, glabre, pubescente ou villeux :
+3. Involucre of a solitary bristle beneath each spikelet .....P. unisetum
 
-3. Involucre d'une soie solitaire sous chaque épillet .....P. unisetum
+3. Involucre of numerous bristles beneath each spikelet:
 
-3. Involucre de nombreuses soies sous chaque épillet :
+4. Annual grasses; involucre persistent; lemmas pubescent at the margins .....P. glaucum
 
-4. Herbes annuelles ; involucre persistant ; lemmas pubescentes aux bords .....P. glaucum
+4. Perennial grasses; involucre deciduous; lemmas glabrous or nearly glabrous:
 
-4. Herbes pérennes ; involucre décidu ; lemmas glabres ou presque glabres :
+5. Rachis densely pubescent to pilose; leaf blade 1–4 cm wide; panicle 15–30 mm wide ..... P. purpureum
 
-5. Rachis densement pubescent à pileux ; limbe des feuilles large de 1-4 cm ; panicule large de 15-30 mm ..... P. purpureum
+5. Rachis glabrous or hispidulous; leaf blade 3–12 mm wide; panicle narrower ..... P. macrourum
 
-5. Rachis glabre ou hispiduleux ; limbe des feuilles large de 3-12 mm ; panicule plus étroite ..... P. macrourum
+$^{*}$47.1 Pennisetum glaucum (L.) R. Br.
 
-$ ^{*} $47.1 Pennisetum glaucum (L.) R. Br.
+FTEA: 672; Fl. Zamb. 10(3): 180; Gram. Cam.: 344; Poac. Cl.: 466, 467.
 
-FTEA : 672 ; Fl. Zamb. 10(3) : 180 ; Gram. Cam. : 344 ; Poac. CI. : 466, 467.
+– Pennisetum americanum (L.) Leeke – FWTA: 463.
 
-– Pennisetum americanum (L.) Leeke – FWTA : 463.
-
-– P. typhoides (Burm. f.) Stapf & C.E. Hubb. – FACB 2 : 351.
+– P. typhoides (Burm. f.) Stapf & C.E. Hubb. – FACB 2: 351.
 
 ## Specimens examined
 

@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb reaching 2 m, very much branched toward the apex, with numerous floriferous branches; leaf blades linear, about twenty centimetres long and about ten millimetres in diameter; hairs sometimes with tuberculate base.
 
-Herbe atteignant 2 m, très ramifiée vers le haut, avec de nombreuses branches florifères; limbes foliaires linéaires, d'une vingtaine de centimètres de long et d'une dizaine de millimètres de diamètre; poils parfois à base tuberculée.
+Inflorescences 4 to 15 cm long; involucres sessile, formed of about twenty bristles, approximately 5 mm long, most of them plumose at least at the base, with one of them distinctly longer.
 
-Inflorescences de 4 à 15 cm de long; involucres sessiles, formés d'une vingtaine de soies, d'environ 5 mm de long, la plupart plumeuses au moins à la base, avec une d'entre elles nettement plus longue.
+Spikelets solitary sessile; lower glume absent or very much reduced, the upper one shortly trilobed at the apex, as long as the spikelet, with 3 or 5 nerves and puberulent toward the apex. Lower floret male or neuter, lemma similar to the upper glume; palea linear, more or less reduced. Upper floret oval, obtuse, shining and coriaceous; lemma with 5 nerves.
 
-Épillets solitaires sessiles; glume inférieure absente ou très réduite, la supérieure courtement trilobée au sommet, aussi longue que l'épillet, à 3 ou 5 nervures et pubérulente vers le sommet. Fleur inférieure mâle ou neutre, lemma semblable à la glume supérieure; paléa linéaire, plus ou moins réduite. Fleur supérieure ovale, obtuse, brillante et coriace; lemma à 5 nervures.
+Species of fallows, sometimes in dense monospecific stands, particularly in areas that have been cultivated mechanically. Known from West Africa, in both hemispheres.
 
-Espèce de jachères, parfois en peuplements monospécifiques denses, particulièrement dans les zones ayant été cultivées
-
-mécaniquement. Connue d'Afrique occidentale, dans les deux hémisphères.
-
-Fourrage très apprécié par les bovins à l'état jeune et pouvant servir à faire du foin. Utilisé en pâturage, le peuplement se dégrade assez vite. Ce type de jachère paraît avoir une influence néfaste sur la fertilité du sol.
+Forage highly valued by cattle when young and able to be made into hay. Used in pasture, the stand degrades fairly quickly. This type of fallow appears to have a harmful influence on soil fertility.
 
 ## Vernacular names
 

@@ -26,15 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pfl. R. 4, 48 : 39 (1902).
 
-Toufes pouvant comporter une dizaine de feuilles autour de la tige centrale, jusqu'à 2 m. de haut. Tiges ± pubescentes. Limbes de 25 à plus de 50 × 10 à ± 20 cm, glabres, sauf sur la nervure centrale à la face supérieure, arrondis à la base, la
+Tufts comprising up to a dozen leaves around the central stem, up to 2 m tall. Stems ± pubescent. Leaf blades 25 to more than 50 × 10 to ± 20 cm, glabrous except on the central vein on the upper surface, rounded at the base, the left half generally distinctly cordate. Callus 4 to 6 cm long or more, sheaths pubescent.
 
-moitié gauche généralement nettement cordée. Callus de 4 à 6 cm de long ou plus, gaines pubescentes.
-
-Inflorescence atteignant une vingtaine de centimètres de long, ramifiée. Entre-nœuds de 15-20 mm de long, bractées de 6-8-mm de large chacune axillant 3 à 4 cymules. Pédoncule commun d'une vingtaine de millimètres, et jusqu'à 30 cm dans le fruit. Une fleur subsessile, l'autre sur un pédicelle de 2-3 mm. Bractéoles ovales, aiguës, 1,5 mm de long. Fleur à corolle blancrosé d'environ 6 mm de long. Fruit de 15 × 10-12 mm, graines subpyramidales, obliques, brunes ou blanchâtres à sec.
+Inflorescence reaching about twenty centimetres long, branched. Internodes 15-20 mm long, bracts 6-8 mm wide each subtending 3 to 4 cymules. Common peduncle about twenty millimetres, and up to 30 cm in fruit. One flower subsessile, the other on a pedicel 2-3 mm. Bracteoles oval, acute, 1.5 mm long. Flower with white-pink corolla about 6 mm long. Fruit 15 × 10-12 mm, seeds subpyramidal, oblique, brown or whitish when dry.
 
 ## Type
 
@@ -42,11 +38,9 @@ Preuss 458, Cameroun (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of the forest regions of West and Central Africa. Plant of the understory of non-swampy forests and secondary woodlands.
 
-Espèce des régions forestières de l'Afrique occidentale et centrale. Plante du sous-bois des forêts non marécageuses et des boisements secondaires.
-
-Les feuilles sont utilisées pour la confection des toitures.
+The leaves are used for making roofs.
 
 ## Specimens examined
 
@@ -58,21 +52,19 @@ Le Testu : 1041, Nganda, Tchibanga ; 1309, Magningnin, Mayombe ; 7910, Lastoursv
 
 **Pages**: 150-152 · **Source**: `sources/Marantaceae_vol09_paddle`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Schnell. Bull. I.F.A.N. 15, 4: 1392 (1953).
 
-Diffère de l'espèce par la pubescence fine et dense des feuilles à la face inférieure du limbe.
+Differs from the species by the fine and dense pubescence of the leaves on the lower surface of the blade.
 
 ### Type
 
-Schnell 4346, Guinée (P)
+Schnell 4346, Guinea (P)
 
 ### Discussion
 
-La var. puberulifolium est connue de Côte-d'Ivoire, de Centrafrique et du Cameroun. Sa présence au Gabon très probable.
+The var. puberulifolium is known from Côte-d'Ivoire, Central African Republic and Cameroon. Its presence in Gabon very probable.
 
-Il existe en outre une var. ivorense R. Schnell (Côte-d'Ivoire, Guinée) caractérisée par une pubescence de poils à base tuberculée.
+There is moreover a var. ivorense R. Schnell (Côte-d'Ivoire, Guinea) characterized by a pubescence of hairs with a tuberculate base.
 
 ## Notes
 

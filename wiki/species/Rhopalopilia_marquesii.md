@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 21, b-c (1935). — J. Louis & J. Léonard, Fl. Congo b. et R.U. 1 : 287 (1948). — EXELL & MENDONÇA, Fl. Consp. Angol. 1 : 339 (1951).
 
 — R. soyauxii Engl., Bot. Jahrb. 1. c. : tab. 1, a. — Exell, Journ. Bot. 65, suppl. : 72 (1927).
@@ -27,11 +25,11 @@ tags: [species, generated]
 
 — Opilia umbellulata var. marquesii Engl., Notizbl. bot. Gart. Mus. Berl. 2 : 282 (1899).
 
-Arbuste sarmenteux. Tige faiblement volubile torsadée et striée longitudinalement. Rameaux à pubescence œuvre dirigée vers la base du rameau. Pétiole long de 1 mm, pubescent surtout à la face supérieure. Limbe vert jaunâtre dessus, jaunâtre dessous, glabre sur les deux faces, elliptique, oblong ou lancéolé, 1-8 × 0,7-3,2 cm; base arrondie ou faiblement cordée, sommet acuminé aigu. Nervure médiane saillante et pubescente sur les deux faces. Nervures secondaires 4-8 paires, ascendantes arquées, s'anastomosant à 1-2 mm du bord du limbe, saillantes sur les deux faces et pubescentes à la face inférieure. Nervilles en réseau assez lâche peu visible, saillant sur les deux faces.
+Scandent shrub. Stem weakly twining, twisted and longitudinally grooved. Branches with pubescence directed toward the base of the branch. Petiole 1 mm long, pubescent especially on the upper surface. Blade yellowish-green above, yellowish below, glabrous on both surfaces, elliptic, oblong or lanceolate, 1–8 × 0.7–3.2 cm; base rounded or weakly cordate, apex acuminate acute. Midvein prominent and pubescent on both surfaces. Secondary veins 4–8 pairs, ascending and arched, anastomosing 1–2 mm from the blade margin, prominent on both surfaces and pubescent on the lower surface. Tertiary veins in a rather loose network, poorly visible, prominent on both surfaces.
 
-Inflorescence en ombelle multiflore axillaire solitaire. Rachis inflorescentiel long de 0,8-1,2 cm, pubérulent fauve, à sommet épaissi en une masse sphérique mamelonnée de 2-4 mm de diamètre. Bouton floral sphérique. Fleur pentamère. Pédicelle courtement pubescent, long de 1-2 mm. Réceptacle cupuliforme se terminant par des dents caliciformes. Pétales fixés sur le bord du réceptacle, réfléchis, caduques, oblongs lancéolés, longs de 1,5-2 mm, à sommet aigu. Glandes 5 charnues libres entre elles alternipétales. Étamines épipétales à filet long de 1-3 mm. Ovaire long de 1-1,5 mm, glabre, contenant 1 ovule pendant d'un placenta central dressé. Style court terminé par un stigmate tronqué.
+Inflorescence an axillary solitary many-flowered umbel. Inflorescence rachis 0.8–1.2 cm long, tawny puberulent, with apex thickened into a mammillate spherical mass 2–4 mm in diameter. Floral bud spherical. Flower pentamerous. Pedicel shortly pubescent, 1–2 mm long. Receptacle cup-shaped terminating in calyx-like teeth. Petals inserted on the margin of the receptacle, reflexed, caducous, oblong lanceolate, 1.5–2 mm long, with acute apex. Glands 5, fleshy, free between them, alternipetalous. Stamens epipetalous with filament 1–3 mm long. Ovary 1–1.5 mm long, glabrous, containing 1 pendulous ovule from an erect central placenta. Style short terminated by a truncate stigma.
 
-Drupe ellipsoïde pubérulente,  $ 1,2 \times 0,8 \, \text{cm} $, apiculée au sommet. Endocarpe mince et sillonnée longitudinalement. Graine de  $ 8 \times 5 \, \text{mm} $. PL. 39, 11-18, p. 177.
+Drupe ellipsoid, puberulent, 1.2 × 0.8 cm, apiculate at the apex. Endocarp thin and longitudinally grooved. Seed 8 × 5 mm. PL. 39, 11–18, p. 177.
 
 ## Type
 
@@ -39,9 +37,7 @@ Marques 183, Rio Cuango, Angola (COI)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les bosquets tropophiles. Son aire s'étend du Gabon à l'Angola et à la Rhodésie. Nous n'avons pu observer de matériel gabonais de cette espèce. LOUIS & LÉONARD, dans la Flore du Congo belge et du Ruanda Urundi 1 : 287 (1948), la signale dans ce territoire.
+This species occurs in tropophilous thickets. Its range extends from Gabon to Angola and Rhodesia. We were unable to observe Gabonese material of this species. LOUIS & LÉONARD, in the Flora of the Belgian Congo and Ruanda Urundi 1 : 287 (1948), report it from that territory.
 
 ## Notes
 

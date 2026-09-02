@@ -21,7 +21,7 @@ Mariscus soyauxii (Boeckeler) C.B.Clarke in Durand & Schinz, Consp. fl. afr. 5 :
 
 ## Distribution
 
-Widely distributed in West Africa from Senegal to Gabon; rare in Gabon, found only in the Estuary and Ogooué-Ivindo (2 collections)
+Widely distributed in West Africa from Senegal to Gabon; rare in Gabon, found only in the Estuaire and Ogooué-Ivindo (2 collections)
 
 ## Ecology
 

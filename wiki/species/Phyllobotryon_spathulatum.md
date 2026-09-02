@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 WARB., in ENGL. & PRANTL, NPF 3 (6a) : 38 (1893) ; GILG, EBJ 40 : 500 (1908). TYPE : Mann 1737, Gabon (holo-, iso-).
 
 – P. soyauxianum BAILL., BSLP 1: 287 (1881); HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1): 163 (1927). TYPE: Soyaux 32, Gabon (holo-, P!; iso-, B, delet., K).
 
-– P. zenkeri GILG, EBJ 40 : 500 (1908). TYPE : Zenker 3245, Cameroun (syn-, B, dele). ; lecto-, cf. HUL 1991, P! ; isolecto-, BR!).
+– P. zenkeri GILG, EBJ 40 : 500 (1908). TYPE : Zenker 3245, Cameroon (syn-, B, dele). ; lecto-, cf. HUL 1991, P! ; isolecto-, BR!).
 
-– P. basiflorum GILG, in ENGL., PWA 3 (2) : 584 (1921) (sphalm. « breviflorum »). TYPE : Mildbread 6006, Cameroun (holo-, B, delet. ; lecto-, cf. HUL 1991, P! ; isolec-to-, HBG).
+– P. basiflorum GILG, in ENGL., PWA 3 (2) : 584 (1921) (sphalm. « breviflorum »). TYPE : Mildbread 6006, Cameroon (holo-, B, delet. ; lecto-, cf. HUL 1991, P! ; isolecto-, HBG).
 
-Arbuste (4-5 m de haut) monocaule ; rameaux grisâtres à brunâtres, glabres.
+Shrub (4–5 m tall) monocaulous; branches greyish to brownish, glabrous.
 
-Feuilles à stipules linéaires-ovales, ± caduques ; pétiole court, de 3-3,5 cm de long, glabre ; limbe spatulé à subspatulé, arrondi à cunéé à la base, acuminé au sommet, 57-100 × 10-18 cm ; légèrement denticulé, glabre ; nervures secondaires 20-25 paires.
+Leaves with linear-ovate stipules, ± caducous; petiole short, 3–3.5 cm long, glabrous; lamina spatulate to subspatulate, rounded to cuneate at base, acuminate at apex, 57–100 × 10–18 cm; slightly denticulate, glabrous; secondary veins 20–25 pairs.
 
-Inflorescences nombreuses (4)-12-(20) par feuilles, réparties entre 1/3 inférieur et le sommet du limbe, généralement sur sa face supérieure, exceptionnellement sur sa face inférieure (cas rares de pseudo-hypophyllie). Fleurs ♂ ou ♀ et ♀ (plantes polygames), généralement groupées (3-4) en glomérules ou en cymes 3-4-fasciculées ; bractées de 1-3 mm de long, triangulaires, imbriquées ; pédicelle très court, de 0,5-1-(2) mm de long, glabre ; sépales 3, ovales à étroitement ovales, 3-3,5 × 1-1,5 mm, ciliés et légèrement pubescents extérieurement ; pétales 3, ovales à étroitement ovales, 3-5 × 2-3 mm, ciliés et légèrement pubescents extérieurement ; étamines 20-40, à filet de 3-4 mm de long, glabre ; ovaire glabre, à 3 placentas pluriovulés ; style simple, glabre, de 2-3 mm de long, divisé en 3 branches stigmatiques.
+Inflorescences numerous (4)–12–(20) per leaf, distributed between lower third and apex of lamina, generally on upper surface, exceptionally on lower surface (rare cases of pseudo-hypophylly). Flowers ♂ or ♀ and ♀ (polygamous plants), generally grouped (3–4) in glomerules or in 3–4-fascicled cymes; bracts 1–3 mm long, triangular, imbricate; pedicel very short, 0.5–1–(2) mm long, glabrous; sepals 3, ovate to narrowly ovate, 3–3.5 × 1–1.5 mm, ciliate and slightly pubescent externally; petals 3, ovate to narrowly ovate, 3–5 × 2–3 mm, ciliate and slightly pubescent externally; stamens 20–40, with filament 3–4 mm long, glabrous; ovary glabrous, with 3 polyovulate placentas; style simple, glabrous, 2–3 mm long, divided into 3 stigmatic branches.
 
-Fruits : capsules ovoïdes, lisses ou légèrement pustuleuses, à 3 valves ; graines arillées. - Pl. 6, 1-8, p. 25.
+Fruits: ovoid capsules, smooth or slightly pustulous, 3-valved; seeds arillate. - Pl. 6, 1–8, p. 25.
 
 ## Type
 
@@ -41,15 +39,11 @@ Mann 1737, Gabon (holo-, K ; iso-, P!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon (et probablement en Guinée équatoriale)
+Nigeria, Cameroon, Gabon (and probably in Equatorial Guinea)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts secondaires, en forêts ombrophiles
+understory of secondary forests, in ombrophilous forests
 
 ## Specimens examined
 

@@ -17,51 +17,43 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Polystachya galericulata Rchb.f., Otia Bot. Hamburg. 2 : 111 (1881).
 
 – Polystachya dixantha Rchb.f., Gard. Chron. 1 : 294 (1882).
 
-Tiges (6-) 15-30 (-50) cm × 0,3-0,6 cm. Feuilles (8-) 10-26 × (2-) 3-4(-6) cm, elliptiques à blancéolées. Inflorescence (4-) 8-30 cm, 13-flore. Fleurs blanches, jaunes, jaune-orange, parfois tachées de rouge sur les lobes latéraux du labelle. Sépale dorsal oblong-elliptique, apiculé. Pétales spatulés, obtus. Labelle plus ou moins pubescent le long de la nervure médiane, nettement trilobé vers le milieu, avec un callus au centre, oblong, obtus, charnu ; lobe médian oblong-ové à semi-elliptique, brièvement apiculé ; lobes latéraux obliquement elliptiques-triangulaires à rhombiformes, subobtus. Éperon sacciforme-conique. - Pl. 117, p. 267.
+Stems (6–) 15–30 (–50) cm × 0.3–0.6 cm. Leaves (8–) 10–26 × (2–) 3–4 (–6) cm, elliptic to lanceolate. Inflorescence (4–) 8–30 cm, 13-flowered. Flowers white, yellow, yellow-orange, sometimes marked with red on the lateral lobes of the lip. Dorsal sepal oblong-elliptic, apiculate. Petals spatulate, obtuse. Lip more or less pubescent along the midvein, distinctly trilobed towards the middle, with a callus at the centre, oblong, obtuse, fleshy; median lobe oblong-ovate to semi-elliptic, briefly apiculate; lateral lobes obliquely elliptic-triangular to rhombiform, subobtuse. Spur sacciform-conical. – Pl. 117, p. 267.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, Zaïre, Zambie. Signalée par erreur du Cameroun dans la FCAM
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Zaire, Zambia. Recorded in error from Cameroon in the FCAM.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 500–1,500 m. Epiphyte in dense humid lowland forest and summit forest, sublittoral forest, shrubby forest, forest-savanna edge, observed on trunks of Ficus mucuso and oil palm, up to 20 m above the ground.
 
-alt. 500-1 500 m. Épiphyte en forêt dense humide de basse altitude et sommitale, forêt sublittorale, forêt arbustive, lisière forêt-savane, observé sur tronc de Ficus mucuso et palmier à huile, jusqu'à 20 m au-dessus du sol
+MATERIAL STUDIED (Map 49):
 
-MATÉRIEL ÉTUDIÉ (Carte 49) :
+Bates 477, Riv. Komo (fl., fr. May), BR!.
 
-Bates 477, Riv. Komo (fl., fr. Mai), BR!.
+Chevalier 26883, Aniemé, on the upper Komo (fl. Oct.), P!.
 
-Chevalier 26883, Aniemé, sur le Haut Komo (fl. Oct.), P!.
+De Wilde, Arends, Louis, Bouman & Karper 494, 13 km along the Mimongo-Koulamoutou road, alt. ± 500 m, epiphyte on felled tree trunk (fl., fr. Feb.), WAG!.
 
-De Wilde, Arends, Louis, Bouman & Karper 494, 13 km le long de la route Mimongo-Koulamoutou, alt. ± 500 m, épinhyte sur tronc d'arbre abattu (fl., fr. Fév.r.), WAG!.
+Hallé 978bis, Sublittoral forest, 10 km N Libreville (fl. Jan.), P!; 3100 & 3576, Bélinga (fl. Dec.), P!.
 
-N.
+Hallé & Cours 6114, Moumba west coast, Etéké (fl. May), P!.
 
-Hallé 978bis, Forêt sublittorale, 10 km N Libreville (fl. Janv.), P! ; 3100 & 3576, Bélinga (fl. Déc.), P!.
+Hallé & Le Thomas 44, Bélinga, Iron Mines (fl. July), P!.
 
-Hallé & Cours 6114, Moumba côte Ouest, Etéké (fl. Mai), P!.
+Hallé & Villiers 5502, Cap Estérias (fl. Feb.), P!.
 
-Hallé & Le Thomas 44, Bélinga, Mines de Fer (fl. Juil.), P!.
+Jeffrey 198, Mitzic (fl. July), P!.
 
-Hallé & Villiers 5502, Cap Estérias (fl. Févr.), P!.
+Le Testu 5895, Mimongo (fr. Apr.), P!.
 
-Jeffrey 198, Mitzic (fl. Juil.), P!.
+PL. 117. – Polystachya laxiflora Lindl.: A, lip; B, dorsal sepal; C, petal; D, lateral sepal. – Polystachya polyphylla Summerh.: E, part of rachis; F, flower and floral bract; G, lip; H, dorsal sepal; I, petal; J, lateral sepal (A–D, Preuss s.n., HBG; E–J, Breteler 2876, P).
 
-Le Testu 5895, Mimongo (fr. Avr.), P!.
-
-PL. 117. – Polystachya laxiflora Lindl. : A, labelle ; B, sépale dorsal ; C, pétale ; D, sépale latéral. – Polystachya polyphylla Summerh. : E, partie du rachis ; F, fleur et bractée florale ; G, labelle ; H, sépale dorsal ; I, pétale ; J, sépale latéral (A-D, Preuss s.n., HBG ; E-J, Breteler 2876, P).
-
-J. M. & B. Reitsma & Louis 1845, inselberg, ca. 25 km ESE of Médouneu, 0° 53', 11° 04' E, alt. 500 m, épiphyte (fl. Fév.r.), BR!, WAG!. Villiers 126, riv. Maliba (fl. Jun.), P!.
+J. M. & B. Reitsma & Louis 1845, inselberg, ca. 25 km ESE of Médouneu, 0° 53', 11° 04' E, alt. 500 m, epiphyte (fl. Feb.), BR!, WAG!. Villiers 126, riv. Maliba (fl. June), P!.
 
 ## Figures
 

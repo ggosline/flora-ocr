@@ -21,7 +21,7 @@ R. albiflora (Sims) Alston, Handb. fl. Ceylon 6, Suppl. 85 (1931). Dolichos hirt
 
 ## Distribution
 
-Tropical Africa, from Nigeria to South Africa, also in the Mascarene Islands and extending to India and Sri Lanka; in Gabon, known only from the Estuary
+Tropical Africa, from Nigeria to South Africa, also in the Mascarene Islands and extending to India and Sri Lanka; in Gabon, known only from the Estuaire
 
 ## Ecology
 

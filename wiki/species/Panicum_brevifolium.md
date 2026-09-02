@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 $ = P.\ arborescens,\ L. $
 
-Herbe annuelle prostrée; chaumes jusqu'à 60 cm de haut ou plus, ramiﬁés, enracinés aux nœuds inférieurs. Gaines foliaires
+Annual prostrate herb; culms up to 60 cm tall or more, branched, rooting at the lower nodes. Leaf sheaths glabrous, or the lower ones ciliate; ligules membranous, blades more or less pubescent, venation tessellate.
 
-PL. X.—Panicum parvifolium Lam.(Le Testu 136) : 1, chaume feuillé et inflorescence; 2, feuille; 3, détail de la nervation des feuilles; 4, épillet vu du côté de la glume inférieure (longueur de l'épillet env. 1,6 mm); 5, épillet, vu du côté de la glume supérieure; 6, fleur fertile. — P. brevifolium L. (Pobeg. 1722) : 7, extrémité du chaume, feuilles et inflorescence; 8, détail de la nervation des feuilles; 9, glume inférieure de l'épillet; 10, épillet (longueur env. 1,8 mm); 11, fleur fertile.
+Panicle divided to the $ 3^{\circ} $ or $ 4^{\circ} $ degree. Spikelets ovate-oblong, acuminate, glume and lower floret sometimes persistent on the pedicel. Both glumes as long as the spikelet, but the lower one hyaline, 3-nerved, narrow, the upper one membranous, 5-nerved, as wide as the spikelet. Lower floret neuter or male, lemma flattened on the back, palea of the same length. Upper floret with papyraceous, whitish, smooth glumelles.
 
-glabres, ou les inférieures ciliées; ligules membraneuses, limbes plus ou moins pubescents, nervures tessellées.
+Humid regions of tropical Africa and also in Asia. Plant of no economic interest.
 
-Panicule divisée jusqu'au  $ 3^{\circ} $ ou  $ 4^{\circ} $ degré. Épilets ovales oblongs, acuminés, glume et fleur inférieure parfois persistante sur le pédicelle. Les deux glumes aussi longues que l'épillet, mais l'inférieure hyaline, à 3 nervures, étroite, la supérieure membra-neuse, à 5 nervures, aussi large que l'épillet. Fleur inférieure neutre ou mâle, lemma aplatie sur le dos, paléa de même longueur. Fleur supérieure à glumelles papyracées, blanchâtres, lisses.
-
-Régions humides de l'Afrique tropicale et également en Asie. Plante sans intérêt économique.
+PL. X.—Panicum parvifolium Lam.(Le Testu 136) : 1, culm with leaves and inflorescence; 2, leaf; 3, detail of leaf venation; 4, spikelet viewed from the side of the lower glume (spikelet length approx. 1.6 mm); 5, spikelet, viewed from the side of the upper glume; 6, fertile floret. — P. brevifolium L. (Pobeg. 1722) : 7, culm apex, leaves and inflorescence; 8, detail of leaf venation; 9, lower glume of the spikelet; 10, spikelet (length approx. 1.8 mm); 11, fertile floret.
 
 ## Specimens examined
 

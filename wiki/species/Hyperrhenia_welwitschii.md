@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Recorded in Guinea, Cameroon, Angola, Belgian Congo and in the Niari where it occupies sandy alluvium. Probably should exist in the savannas of Nyanga. Modest forage value.
 
-Signalée en Guinée, au Cameroun, en Angola, au Congo Belge et dans le Niari où elle occupe des alluvions sableuses. Doit probablement exister dans les savanes de la Nyanga. Intérêt fourrager médiocre.
-
-Noms vernaculaires (d’après Walker et Sillans) : Etsubu (Mindumu); Tubi (Bapunu)?
+Vernacular names (after Walker and Sillans): Etsubu (Mindumu); Tubi (Bapunu)?
 
 ## Notes
 

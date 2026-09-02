@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane weakly striated longitudinally or smooth, rhytidome white or greyish, glabrous. Petiole glabrous 2–5 mm long, channelled above and transversely wrinkled below. Blade glabrous on both surfaces, dark greyish-brown or blackish-green on the upper surface, yellowish-brown on the lower surface, narrowly elliptic to elliptic, 7.5–15 × 2–6 cm; base attenuate to cuneiform and apex obtusely acuminate. Midvein concave above, prominent below. Secondary veins 4–7 pairs, ascending, arched, anastomosing 3–7 mm from the blade margin, weakly prominent on the upper surface, prominent on the lower surface. Veinlets in loose reticulation, weakly prominent on the upper surface, prominent on the lower surface.
 
-Liane faiblement striée longitudinalement ou lisse, rhytidome blanc ou grisâtre, glabre. Pétiole glabre long de 2-5 mm, canaliculé dessus et ridé transversalement dessous. Limbe glabre sur les deux faces, marron grisâtre foncé ou vert noir à la face supérieure, marron jaune à la face inférieure, étroitement elliptique à elliptique, 7,5-15 × 2-6 cm; base atténuée à cunéi-forme et sommet acuminé obtus. Nervure médiane concave dessus, saillante dessous. Nervures secondaires 4-7 paires, ascendantes, arquées, s'anastom-sant à 3-7 mm du bord du limbe, faiblement saillantes à la face supérieure, saillantes à la face inférieure. Nervilles en réseau lâche, faiblement saillant à la face supérieure, saillant à la face inférieure.
+Inflorescence in axillary fascicles, multiflorous on a cushion. Floral bud ellipsoid, glabrous with an enlarged base. Pedicel glabrous to subglabrous. Flower 11 × 7 mm, white. Sepals connate, glabrous, alternipetalous, ovate, 1.5 × 1 mm. Petals free, glabrous, linear, 7–7.5 × 0.75 mm, enlarged at the base, acute and reflexed at the apex. Stamens 5, free, 5.5 mm long; filament broad, gradually narrowing towards the apex, 4 × 1.25 mm long; anther with 2 ellipsoid locules. Pistil 6.5 mm long; ovary pubescent except at the base, 2.5 mm long; style 4 mm long, eccentric, glabrous, with a globulous stigma.
 
-Inflorescence en fascicule axillaire multiflore sur un coussinet. Bouton floral ellipsoïde glabre à base élargie. Pédicelle glabre à subglabre. Fleur 11 × 7 mm, blanche. Sépales soudés glabres, alternipétales, ovés, 1,5 × 1 mm. Pétales libres, glabres, linéaires, 7-7,5 × 0,75 mm, élargis à la base, aigus et réfléchis au sommet. Étamines 5, libres, longues de 5,5 mm; filet large se rétrécissant progressivement vers le sommet, long de 4 × 1,25 mm; anthère à 2 loges ellipsoïdes. Pistil long de 6,5 mm; ovaire pubescent sauf à la base, long de 2,5 mm; style long de 4 mm, excentrique, glabre, à stigmate globuleux.
-
-Drupe avec endocarpe ligneux, subréniforme. PL. 8, 11-18, p. 35.
+Drupe with woody endocarp, subreniform. PL. 8, 11–18, p. 35.
 
 ## Type
 
@@ -31,9 +29,7 @@ Preuss 522, Cameroun (holo-, B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts depuis la Sierra Leone jusqu'au Gabon.
+This species is found in forests from Sierra Leone to Gabon.
 
 ## Specimens examined
 

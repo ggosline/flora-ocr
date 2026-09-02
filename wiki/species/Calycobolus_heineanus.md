@@ -21,7 +21,7 @@ Vine, at least up to 15 m in length; branchlets appressed-pubescent, early glabr
 
 ## Distribution
 
-endemic to Gabon, known only from a single locality in the Estuary
+endemic to Gabon, known only from a single locality in the Estuaire
 
 ## Ecology
 

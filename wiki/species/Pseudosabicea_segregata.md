@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianescent plant exceeding 6–10 m in height, sometimes creeping at the edge of paths for lack of support, often distinctly pendulous. Internodes ± pubescent, 5–10 × 0.3–0.4 cm. Shoot tips pubescent, sometimes somewhat woolly. Stipules 8–11 mm long, very broad towards the lower third, very acute at the apex. Petioles pubescent, 10–35 mm, unequal within each pair. Anisophylly fairly pronounced. Lamina discolorous, upper surface dark green and glossy in vivo, brownish when dry, ± pubescent above and below, ovate-lanceolate, 8–16 × 3–6 (8) cm; base variable, acute, rounded or cordate; apex attenuate to subcaudate. Veins ± pubescent above, distinctly pubescent below; 15–20 pairs of secondary veins spaced 3–8 mm apart, the lower ones ± ascending. Fine reticulation very distinct when dry.
 
-Plante lianescente dépassant 6-10 m de haut, parfois rampante au bord des pistes faute de support, souvent longuement pendantes. Entrenœuds ± pubescents de 5-10 × 0,3-0,4 cm. Extrémités pubescentes, parfois un peu laineuses. Stipules de 8-11 mm de long, très larges vers le tiers inférieur, très aiguës au sommet. Pétioles pubescents de 10-35 mm, inégaux dans chaque paire. Anisophyllie assez nette. Limbe discolore, dessus vert foncé et brillant in vivo, brunâtre œuvre à sec, ± pubescent dessus et dessous, ové-lancéolé, de 8-16 × 3-6 (8) cm; base variable, aiguë, arrondie ou cordée; sommet atténué à subcaudé. Nervures ± pubescentes dessus, nettement pubescentes dessous; 15-20 paires de nervures secondaires espacées de 3-8 mm, les inférieures ± redressées. Fin réticule très net à sec.
+Inflorescences many-flowered, pale whitish-green, axillary paniculate, longer than broad, (6) 10–20 cm, ± pubescent, sometimes very numerous along and towards the ends of the branches. Peduncles 2–6 cm. Branching opposite and tiered with pairs of opposite bracteoles along the rachis; ultimate branching in biparious cymes with all bracts recaulescent. Bracts similar to the sepals but sometimes more developed. Pedicel 0.5–2 (5) mm. Apex of the bud obtuse and briefly pubescent. Calyx ± pubescent with 5 (7) elongated acute lobes, unequal, 4–7 × 0.8–2 mm. Corolla 4–6 mm, whitish-yellow and browning at anthesis, with a glabrous tube, at least towards the base, and 1.5–2 mm diam. at the throat, with 5 short triangular lobes barely 1 mm; internal pubescence very short at the throat. Anthers not substantially exserted at the apex, subsessile, yellow with golden-yellow pollen, 1.6 × 0.7–0.8 in vivo. Style, short form 3–4 mm, the long form reaches 5.7 mm, pale green, glabrous, bifurcate, with 2 enlarged stigmatic lobes, ca. 1.5 × 0.7 mm. Disk glabrous, pale whitish-yellow, ca. 1.8 mm diam. and 0.7 mm thick. Placentas oval peltate.
 
-Inflorescences multiflores blanc vert pâle, axillaires paniculées, plus longues que larges, de (6) 10-20 cm, ± pubescentes, parfois très nombreuses le long et vers l'extrémité des rameaux. Pédoncules de 2-6 cm. Ramifications opposées étagées avec des paires de bractéoles opposés le long du rachis; ramifications ultimes en cymes bipares avec toutes les bractées recaulescentes. Bractées semblables aux sépales mais parfois plus développées. Pédicelle de 0,5-2 (5) mm. Sommet du bouton obtus et brièvement pubescent. Calice ± pubescent à 5 (7) lobes allongés aigus, inégaux, de 4-7 × 0,8-2 mm. Corolle de 4-6 mm, blanc-jaune et brunissant dès l'anthèse, à tube glabre, au moins vers la base,
-
-et de 1,5-2 mm de diam. à la gorge, à 5 courts lobes triangulaires d'à peine 1 mm; pubescence interne très courte à la gorge. Anthères non sensiblement saillantes à l'apex, subsessiles, jaunes à pollen jaune d'or, de 1,6 × 0,7-0,8 in vivo. Style, forme courte de 3-4 mm, la longue atteint 5,7 mm, vert clair, glabre, bifurqué, à 2 lames stigmatiques élargies, d'env. 1,5 × 0,7 mm. Disque glabre, blanc-jaune pâle, d'env. 1,8 mm de diam. et 0,7 mm d'épaisseur. Placentas ovales peltés.
-
-Infrutescences pendantes en « grappes » assez volumineuses. Il semble exister 3 formes variétales à fruits blancs, rouges ou noirs à maturité. Fruit subsphérique de 12 mm de diam., à sépales persistants, à pulpe blanche. Les placentas fermes et même subcoriaces, atteignent à nu 5 mm de long. Graines très nombreuses, brunes, en tronc de pyramide de 0,6 mm de hauteur. Petite embryon droit entouré d'albumen. Germination obtenue en 15 jours avec des graines fraîchement lavées.
+Infructescences pendulous in fairly voluminous "bunches". There appear to be 3 varietal forms with white, red or black fruits at maturity. Fruit subspherical, 12 mm diam., with persistent sepals, with white pulp. The placentas firm and even subcoriaceous, reach 5 mm long when exposed. Seeds very numerous, brown, pyramidal-truncate, 0.6 mm in height. Small straight embryo surrounded by endosperm. Germination obtained in 15 days with freshly washed seeds.
 
 ## Type
 
@@ -38,9 +34,7 @@ Mann, 10 lat. N (K, isotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce fréquente dont les infrutescences colorées pendant les ornent le bord des routes. Elle apparaît très variable tant par la couleur de ses fruits (sans corrélation avec des caractères floraux), que par sa pilosité, la forme de la base du limbe, la longueur des pédicelles etc. Elle est rare au Cameroun, abondante au Gabon, inconnue ailleurs.
+A frequent species whose coloured infructescences hanging during ornament the roadside. It appears very variable both in the colour of its fruits (with no correlation with floral characters) and in its pubescence, the shape of the base of the lamina, the length of the pedicels, etc. It is rare in Cameroon, abundant in Gabon, unknown elsewhere.
 
 ## Specimens examined
 

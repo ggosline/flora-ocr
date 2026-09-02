@@ -25,7 +25,7 @@ nodes of reduced length on the flowering stems, and then sometimes almost entire
 
 ## Distribution
 
-Guinea, Guinea-Bissau, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Benin, Nigeria, Cameroon, Equatorial Guinea (Bioko), São Tomé, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Uganda; in Gabon in the Estuary, Moyen-Ogooué, Nyanga, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
+Guinea, Guinea-Bissau, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Benin, Nigeria, Cameroon, Equatorial Guinea (Bioko), São Tomé, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Uganda; in Gabon in the Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 

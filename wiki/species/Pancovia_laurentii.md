@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chytranthus laurentii DE WILD., Miss. Laur. : 146 (1905).
 
-— Pancovia lujai DE WILD., Bull. Jard. Bot. Etat Bruxelles 4 : 372 (1914) p.p., fleurs.
+— Pancovia lujai DE WILD., Bull. Jard. Bot. Etat Bruxelles 4 : 372 (1914) p.p., flowers.
 
 — Pancovia angustifolia RADLK., in ENGL., Pflanzenreich. Sapindaceae : 807 (1933).
 
-Arbre dioïque, atteignant 20 m avec fût de 10 m et diamètre de 45 cm; les jeunes ont un port de palmier (HAUMAN). Feuilles groupées en rosettes aux extrémités des rameaux; pétiole de 10-20 cm, diamètre de 4-5 mm; rachis 20-40 cm; folioles basales 15-18 × 4,5-6 cm, moyennes 16-22 × 5 cm, supérieures 23 × 6 cm; 10-14 paires de nervures; limbe concolore, vert olive, brillant dessus, mat dessous.
+Dioecious tree, reaching 20 m with bole of 10 m and diameter of 45 cm; young plants have a palm-like habit (HAUMAN). Leaves grouped in rosettes at the branch tips; petiole 10-20 cm, diameter 4-5 mm; rachis 20-40 cm; basal leaflets 15-18 × 4.5-6 cm, median 16-22 × 5 cm, upper 23 × 6 cm; 10-14 pairs of veins; blade concolorous, olive green, glossy above, matte below.
 
-Inflorescence, 10-15 (-30) cm, axes cannelés pubescents; cymules serrées sessiles à 4-6 fleurs avec bractées; pédicelle de 3-4 mm; calice de 6-7 mm, velu sur les 2 faces, à poils de 0,2-0,3 mm non crépus; pétales 7-8 mm dont 2 pour l'onglet velu, à poils flexueux de 1 mm; écailles velues dessous, digitées, excroissances digitées et velues également; limbe denticulé et ondulé au bord, voûté, légèrement velu au dos, (6-7-8(-10) étamines velues. Fruit trigone, haut de 25 mm, large de 30, chaque carpelle muni d'une aile de 3 mm de saillie sur le dos, péricarpe charnu, épais de 5 mm, comestible recherché (HAUMAN). PL. 29, 1-5', p. 123.
+Inflorescence 10-15 (-30) cm, grooved pubescent axes; cymules dense sessile with 4-6 flowers and bracts; pedicel 3-4 mm; calyx 6-7 mm, villous on both faces, with hairs 0.2-0.3 mm not crisped; petals 7-8 mm of which 2 for the villous claw, with flexuous hairs 1 mm; scales villous below, digitate, digitate and villous excrescences also; blade denticulate and undulate at the margin, vaulted, slightly villous on the back, (6-7-8(-10) villous stamens. Fruit trigonous, 25 mm high, 30 mm wide, each carpel furnished with a wing 3 mm proud on the back, pericarp fleshy, 5 mm thick, edible sought-after (HAUMAN). PL. 29, 1-5', p. 123.
 
 ## Type
 
@@ -35,9 +33,7 @@ Laurent s.n., Zaïre (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue en République Centrafricaine, au Cameroun, au Gabon et au Zaïre.
+Species widespread in the Central African Republic, Cameroon, Gabon and Zaïre.
 
 ## Vernacular names
 

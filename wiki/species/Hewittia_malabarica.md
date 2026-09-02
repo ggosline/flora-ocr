@@ -21,7 +21,7 @@ in Nicolson, Suresh, & Manial, Interpr. Rheede: Hort. Malab. : 88 (1988). Convol
 
 ## Distribution
 
-Palaeotropical, introduced to America. In Africa, known from all countries south of the Sahara; in Gabon, collected in the Estuary, Middle Ogooué, Nyanga and Ogooué-Ivindo.
+Palaeotropical, introduced to America. In Africa, known from all countries south of the Sahara; in Gabon, collected in the Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Ivindo.
 
 ## Ecology
 

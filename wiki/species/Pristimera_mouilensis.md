@@ -17,35 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Mus. natn. Hist. nat., Paris, 4° sér., B, 3, Adansonia (1): 10 (1981).
+Bull. Mus. natn. Hist. nat., Paris, 4th ser., B, 3, Adansonia (1): 10 (1981).
 
 - Simirestis mouilensis HALLÉ, Notul. Syst. 16: 129, fig. 2 (1960).
 
-Liane à rameaux cylindriques lisses, gris brunâtres, les plus jeunes entre-nœuds étant olivacés à sec. Pétiole de 9-11 mm. Limbe chartacé concolore, roussâtre à sec, de 6-9 × 4,5 cm, à base cunéiforme ; sommet avec un acumen de 5-10 mm, parfois sublancéolé ; marge très peu distinctement dentée. Nervures secondaires 7-9 paires longuement arquées ascendantes ; nervilles flabellées apparentes.
+Liane with cylindric smooth branchlets, greyish-brown, the youngest internodes olivaceous when dry. Petiole 9–11 mm. Lamina chartaceous concolorous, russet when dry, 6–9 × 4.5 cm, with cuneiform base; apex with an acumen 5–10 mm, sometimes sublanceolate; margin very indistinctly dentate. Secondary nerves 7–9 pairs, long arched ascending; nervilles fan-shaped, evident.
 
-Cymes axillaires (rarement groupées en panicules terminales), dichotomes, de 3-4,5 cm, à pédoncule de 2,5-3 cm, à 4 arêtes ; au plus 5-6 niveaux de ramifications courtes ou très courtes. Bractées deltoïdes aiguës denticulées auriculées, de 1 mm ou moins. Pédicelle de 2-3 mm. Bouton ové de 1,5 mm. Fleur verte noircissant à sec, urcéolée, de 2-2,5 mm de diamètre. Sépales ovés, subégaux, entiers. Pétales dressés ovo-elliptiques de 2,3-2,5 × 1,1 mm, insérés entre les 5 angles émoussés du disque ; ce dernier en coussinet pentagonal est faiblement déprimé vers le centre. Étamines de 1 mm, à filet rubané, à anthère large de 0,7 mm. Pistil saillant à style dressé de 1 mm et stigmate subcapité. Loges à 6-8 ovules, demi-enfoncées sous le niveau supérieur du disque.
+Axillary cymes (rarely grouped in terminal panicles), dichotomous, 3–4.5 cm, with peduncle 2.5–3 cm, with 4 ribs; at most 5–6 levels of short or very short ramifications. Deltoid acute denticulate auricate bracts, 1 mm or less. Pedicel 2–3 mm. Bud ovoid, 1.5 mm. Flower green, blackening when dry, urceolate, 2–2.5 mm in diameter. Sepals ovate, subequal, entire. Petals erect, ovo-elliptic, 2.3–2.5 × 1.1 mm, inserted between the 5 blunt angles of the disc; the latter, pentagonal cushion-shaped, weakly depressed toward the centre. Stamens 1 mm, with ribbon-like filament, anther broad, 0.7 mm. Pistil prominent, with erect style 1 mm and subcapitate stigma. Locules with 6–8 ovules, half-sunken below the upper level of the disc.
 
-Fruit tricarpellé à 6 valves caduques. Graines de  $ 35 \times 17 $ mm. - Pl. 58, fig. 12-20, p. 205.
+Fruit tricarpellate, with 6 deciduous valves. Seeds 35 × 17 mm. — Pl. 58, fig. 12–20, p. 205.
 
-TYPE (et seul matériel connu): Le Testu 5136, Gabon, Mouila, 14.12.1924, fl. (holo-P!).
+TYPE (and only known material): Le Testu 5136, Gabon, Mouila, 14.12.1924, fl. (holo-P!).
 
-Espèce à rechercher au Cameroun. Par l'aspect de ses feuilles, ce Pristimera serait très voisin du P. luteoviridis var. kribiana, mais les
+Species to be sought in Cameroon. By the aspect of its leaves, this Pristimera would be very close to P. luteoviridis var. kribiana, but the
 
-PL. 58. – Pristimera plumbea (Blakelock & Wilcz.) Hallé : 1, bouton, 2, 3, fleur, diam. 2,5 mm ; 4,5, sépales larges de 0,5-0,8 mm ; 6, pétale long de 1,6 mm ; 7, 8, disque, diam. 0,75 mm ; 9, 10, étamine ; 11, poils de l'inflorescence (Tisserant 31, Centrafrique). – P. mouilensis (Hallé) Hallé : 12, rameau florifère à pédoncule de 3 cm ; 13, bractées ; 14, bouton ; 15, fleur, diam. 3 mm ; 16, sépale long de 0,5 mm ; 17, pétale long de 2,3 mm ; 18, disque, diam. 1,7 mm (pièces florales coupées) ; 19, étamines ; 20, pistil ouvert (Le Testu 5136).
+PL. 58. – Pristimera plumbea (Blakelock & Wilcz.) Hallé: 1, bud; 2, 3, flower, diam. 2.5 mm; 4, 5, sepals, wide 0.5–0.8 mm; 6, petal, long 1.6 mm; 7, 8, disc, diam. 0.75 mm; 9, 10, stamen; 11, hairs of the inflorescence (Tisserant 31, Central African Republic). – P. mouilensis (Hallé) Hallé: 12, flowering branchlet with peduncle 3 cm; 13, bracts; 14, bud; 15, flower, diam. 3 mm; 16, sepal, long 0.5 mm; 17, petal, long 2.3 mm; 18, disc, diam. 1.7 mm (floral parts dissected); 19, stamens; 20, pistil opened (Le Testu 5136).
 
-inflorescences sont beaucoup moins grêles ; les fleurs un peu plus grandes sont urcéolées très étroitement ; les nervures des pétales rameuses et teintées à la réhydratation, sont nettement plus visibles (× 25) que chez kribiana.
+inflorescences are much less slender; the flowers, somewhat larger, are very narrowly urceolate; the venation of the petals, branched and tinted upon rehydration, is distinctly more conspicuous (× 25) than in kribiana.
 
 2 bis. Pristimera breteleri Hallé
 
-Bull. Mus. natn. Hist. nat., Paris, 4 $ ^{e} $ sér., B, 3, Adansonia (1): 10 (1981).
+Bull. Mus. natn. Hist. nat., Paris, 4th ser., B, 3, Adansonia (1): 10 (1981).
 
-Liane dépassant 5 m ; rameaux cylindriques roux parfois piquetés de fines lenticelles blanches. Pétiole de 4-6 mm. Limbe chartacé subconcolore, vert olive à brun olivâtre à sec, de (4)-5-7 × 2,5-4 cm ; base variable, subcunéiforme à obtuse ; sommet acuminé ± distinctement sur 5-12 mm ; marge faiblement dentée de façon lâche. Nervures secondaires 5-7 paires ; nervilles médiocrement apparentes en réticule lâche.
+Liane exceeding 5 m; branchlets cylindric, reddish-brown, sometimes speckled with fine white lenticels. Petiole 4–6 mm. Lamina chartaceous, subconcolorous, olive-green to olive-brown when dry, (4)–5–7 × 2.5–4 cm; base variable, subcuneiform to obtuse; apex acuminate, somewhat distinctly for 5–12 mm; margin weakly dentate in a loose manner. Secondary nerves 5–7 pairs; nervilles moderately evident in loose reticulation.
 
-Cymes axillaires, parfois disposées en panicules, de 2-3,5 cm, grêles ou très grêles, entièrement glabres, à pédoncule de 10-18 mm ; bractées aiguées de 1/4 à 3/4 mm, toutes bien opposées. Pédicelles fins de 0,8-1,5 mm, glabres. Boutons de 1,1 mm de diamètre, à pétales largement imbriqués au sommet. Fleur verte de 1,4-2,2 mm de diamètre, semi-urcéolée. Sépales ovés un peu inégaux de 0,6-0,9 mm de largeur, munis parfois de petites oreillettes. Pétales subérigés de 1,3-1,4 × 0,8-0,9 mm, rhombo-elliptiques à nervures flabellées. Disque étroitement annulaire de 0,6-0,9 mm de diamètre et de 0,01 mm d'épaisseur. Filet de 0,2-0,3 mm. Pistil court, subpyramidal, à stigmate distinctement trilobulé. Ovaire à 4 ovules par loge.
+Axillary cymes, sometimes arranged in panicles, 2–3.5 cm, slender or very slender, entirely glabrous, with peduncle 10–18 mm; acute bracts 1/4 to 3/4 mm, all distinctly opposite. Pedicels fine, 0.8–1.5 mm, glabrous. Buds 1.1 mm in diameter, with petals broadly imbricate at the apex. Flower green, 1.4–2.2 mm in diameter, semi-urceolate. Sepals ovate, somewhat unequal, 0.6–0.9 mm wide, sometimes with small auricles. Petals suberect, 1.3–1.4 × 0.8–0.9 mm, rhombo-elliptic with fan-shaped nerves. Disc narrowly annular, 0.6–0.9 mm in diameter and 0.01 mm thick. Filament 0.2–0.3 mm. Pistil short, subpyramidal, with distinctly trilobate stigma. Ovary with 4 ovules per locule.
 
-Fruit non connu. – Pl. 59, fig. 1-18, p. 207.
+Fruit unknown. — Pl. 59, fig. 1–18, p. 207.
 
 ## Type
 
@@ -55,31 +53,29 @@ Breteler 2743, Cameroun (holo-, P ; iso-, BR, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, from the difficult group of small Pristimera, remains insufficiently known.
 
-Cette espèce, du groupe difficile des petits Pristimera, reste insuffisamment connue.
+MATERIAL STUDIED (Cameroon):
 
-MATÉRIEL ÉTUDIÉ (Cameroun):
-
-Breteler 2739, Nkolbisson, 7 km W Yaoundé, 4.4.1962 (fl.). Jacques-Félix 5083, Yaoundé, 3.1940 (fl.), « nkamendza », littéralement « aide le balafon » (les tiges en arceaux empêchent le balafon de porter sur le ventre).
+Breteler 2739, Nkolbisson, 7 km W Yaoundé, 4.4.1962 (fl.). Jacques-Félix 5083, Yaoundé, 3.1940 (fl.), "nkamendza", literally "helps the balafon" (the stems in arches prevent the balafon from resting on the belly).
 
 2 ter. Pristimera biholongii Hallé, sp. nov.
 
-P. breteleri Hallé affinis, sed inflorescentiis parvis et puberulis, bracteis nonnunquam oppositis, alabastro majore subacuto, sepalis microciliatis, petalis deltoideis, ad apicem haud imbricatis, disco valde cupulato, pistillo 0,9 mm longo cum stylo attenuato 0,6 mm longo et stigma punctiformi, differt. In Cameruno incolit.
+Affine to P. breteleri Hallé, but differing by small and puberulent inflorescences, bracts sometimes opposite, larger subacute bud, microciliate sepals, deltoid petals, not broadly imbricate at the apex, remarkably cupulate disc, pistil 0.9 mm long with attenuate style 0.6 mm long and punctiform stigma. Inhabits Cameroon.
 
-PL. 59. – Pristimera breteleri Hallé : 1, feuille de 7,5 cm ; 2, rameau florifère ; 3, bouton ; 4, 5, fleur diam. 1,5-2 mm ; 6-9, sépales larges de 0,45-0,9 mm ; 10, 11, pétales longs de 1,3 mm ; 12-13, disque, diam. 0,6-0,8 mm ; 14-17, étamines ; 18, pistil à une loge ouverte (1-4, 8-10, 12, 14, Breteler 2739 ; 5-7, 11, 13, 15, 16-18, Jacques-Félix 5083). – P. biholongii Hallé : 9, couple de bractées ; 20, 21, boutons ; 22, fleur ouverte, diam. 2 mm ; 23-24, sépales larges de 1-1,4 mm ; 25, pétale long de 1,2 mm ; 26, 27, disque, diam. 1,1 mm ; 28, disque d'une fleur hexamère (Breteler 2743).
+PL. 59. – Pristimera breteleri Hallé: 1, leaf 7.5 cm; 2, flowering branchlet; 3, bud; 4, 5, flower diam. 1.5–2 mm; 6–9, sepals wide 0.45–0.9 mm; 10, 11, petals long 1.3 mm; 12–13, disc, diam. 0.6–0.8 mm; 14–17, stamens; 18, pistil with one locule open (1–4, 8–10, 12, 14, Breteler 2739; 5–7, 11, 13, 15, 16–18, Jacques-Félix 5083). – P. biholongii Hallé: 19, pair of bracts; 20, 21, buds; 22, open flower, diam. 2 mm; 23–24, sepals wide 1–1.4 mm; 25, petal long 1.2 mm; 26, 27, disc, diam. 1.1 mm; 28, disc of a hexamerous flower (Breteler 2743).
 
-Liane dépassant 5 m à rameaux cylindriques roux ± criblés de lenticelles blanches. Pétiole de 3-6 mm. Limbe chartacé ou subcoriace, concolore et vert olive à sec, de 5-9 × 2,2-4,5 cm ; base variable, subcuneiforme à arrondie ; sommet acuminé sur 4-10 mm ; marge à dents espacées. Nervures secondaires 5-7 paires ; fin réseau lâche.
+Liane exceeding 5 m, with cylindric reddish-brown branchlets ± riddled with white lenticels. Petiole 3–6 mm. Lamina chartaceous or subcoriaceous, concolorous and olive-green when dry, 5–9 × 2.2–4.5 cm; base variable, subcuneiform to rounded; apex acuminate for 4–10 mm; margin with spaced teeth. Secondary nerves 5–7 pairs; fine loose reticulation.
 
-Cymes axillaires échelonnées sur tiges feuillées, de 1,5-2 cm, fine-ment pubérulentes, à pédoncule de 7-10 mm ayant à son sommet une paire de bractées souvent subopposées, très aiguës, dépassant 1 mm. Pédicelle de 0,8-1(2,5) mm, pubérulent. Bouton de 1,5-2 mm de diamètre, ové subaigu, à pétales non largement imbriqués au sommet qui est une exception dans le genre. Fleur vert pâle, urcéolée, d'environ 1,8-2 mm de diamètre. Sépales ovés, un peu inégaux, microciliés, de 0,6-1,4 mm de largeur, parfois à oreillettes latérales. Pétales glabres étroitement quinconciaux, larges à la base, subtriangulaires, s'affrontant au sommet du bouton, d'environ 1,2-1,6 × 0,9-1,2 mm, avec 5 nervures convergeant vers le sommet. Disque remarquablement cupulaire, de 1,1 mm de diamètre, à rebord mince, haut de 0,3 mm. Étamines courtes dominées par le style. Pistil conique, à ovaire plutôt bas et 6-8(-10) ovules par loge ; style de 0,6 mm ; stigmate ponctiforme non lobé.
+Axillary cymes spaced along leafy stems, 1.5–2 cm, finely puberulent, with peduncle 7–10 mm, bearing at its apex a pair of bracts often subopposite, very acute, exceeding 1 mm. Pedicel 0.8–1(–2.5) mm, puberulent. Bud 1.5–2 mm in diameter, ovoid subacute, with petals not broadly imbricate at the apex, which is an exception in the genus. Flower pale green, urceolate, approximately 1.8–2 mm in diameter. Sepals ovate, somewhat unequal, microciliate, 0.6–1.4 mm wide, sometimes with lateral auricles. Petals glabrous, narrowly quincuncial, broad at the base, subtriangular, meeting at the apex of the bud, approximately 1.2–1.6 × 0.9–1.2 mm, with 5 nerves converging toward the apex. Disc remarkably cupulate, 1.1 mm in diameter, with thin margin, 0.3 mm high. Stamens short, dominated by the style. Pistil conical, with rather low ovary and 6–8(–10) ovules per locule; style 0.6 mm; stigma punctiform, not lobed.
 
-Fruit à méricarpes elliptiques, verts à sec, coriaces, de  $ 5-6,5 \times 2-2,5 $ cm, contenant 6 graines sur étuis funiculaires de 1-2 mm. Graine de  $ 4-5 \times 1,3-1,5 $ mm. Nota: la très fine pubérulence persiste sur les axes porteurs de fruits. - Pl. 59, fig. 19-28, p. 207.
+Fruit with elliptic mericarps, green when dry, coriaceous, 5–6.5 × 2–2.5 cm, containing 6 seeds on funiculate stalks 1–2 mm. Seed 4–5 × 1.3–1.5 mm. Note: the very fine pubérulence persists on the axes bearing fruits. — Pl. 59, fig. 19–28, p. 207.
 
-Cette plante énigmatique est dédiée à MICHEL BIHOLONG, botaniste récolteur de l'herbier camerounais de Yaoundé.
+This enigmatic plant is dedicated to MICHEL BIHOLONG, botanical collector of the Cameroon herbarium of Yaoundé.
 
-Cette nouvelle espèce est proche à première vue du P. breteleri, mais certains caractères floraux, pétales et disque, sont remarquables. Certaines positions aberrantes des bractées montrent l'instabilité de structure de cette récolte copieuse et unique. Si l'hypothèse d'un hybride naturel était envisagée, un croisement entre Pristimera breteleri et Loeseneriella rowlandii, malgré son caractère problématique, serait à considérer.
+This new species is at first sight close to P. breteleri, but certain floral characters, petals and disc, are remarkable. Certain aberrant positions of the bracts show the structural instability of this copious and unique collection. If the hypothesis of a natural hybrid were considered, a cross between Pristimera breteleri and Loeseneriella rowlandii, despite its problematic character, would be worth considering.
 
-MATÉRIEL ÉTUDIÉ (Cameroun) :
+MATERIAL STUDIED (Cameroon):
 
 Breteler 2743, Centre agronomique de Nkolbisson, 7 km W Yaoundé, 900 m, 4.4.1962 (fl.). De Wilde W.c.s. 1371, Nkolbisson, 8 km W Yaoundé, 700 m, 4.12.1963 (fr., gr.).
 

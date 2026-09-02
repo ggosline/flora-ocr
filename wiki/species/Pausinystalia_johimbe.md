@@ -23,19 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pierre ex Dup. et B. (PL. 10)
 
 Yohimbé
 
-— Raymond-Hamet et H. Vignes, La Presse Médicale 83 : 3-15 (16 oct. 1926). — Walker et Sillans, Pl. Ut. Gabon : 368 (1961). — F.W.T.A. ed. 2, 2 : 112 (1963).
+— Raymond-Hamet et H. Vignes, La Presse Médicale 83 : 3-15 (16 Oct. 1926). — Walker et Sillans, Pl. Ut. Gabon : 368 (1961). — F.W.T.A. ed. 2, 2 : 112 (1963).
 
-Arbre moyen ou grand de 30-35 m de hauteur à fût de 30-50(60) cm de diamètre. Ecorce ± crevassée longitudinalement. Extrémités glabres. Entrenceuds trigones à arêtes arrondies. Stipules glabres atténuées très aiguës, de 15-20 × 5 mm. Feuilles verticillées par trois. Pétiole de 0-8 mm de long; limbe glabre subcoriace roux-brunâtre ou noir à sec, longuement obové, de (11) 15-38 (43) × (5) 6-13 (19) cm; base longuement atténué et ± abruptement obtuse ou cordée sommet très brièvement et souvent abruptement acuminé. 12-20 paires de nervures secondaires. Réseau de nervilles en relief sur la face supérieure à sec.
+Medium to large tree 30-35 m in height with a bole 30-50(60) cm in diameter. Bark ± longitudinally fissured. Branchlets glabrous. Internodes trigonous with rounded ridges. Stipules glabrous attenuate very acute, 15-20 × 5 mm. Leaves whorled by three. Petiole 0-8 mm long; blade glabrous subcoriaceous reddish-brown or black when dry, long obovate, (11) 15-38 (43) × (5) 6-13 (19) cm; base long attenuate and ± abruptly obtuse or cordate, apex very briefly and often abruptly acuminate. 12-20 pairs of secondary nerves. Nervule reticulation prominent on the upper surface when dry.
 
-Inflorescences terminales paniculées à ramifications verticillées, atteignant de 8 à 30 cm de long; pédoncule à 3 arêtes de 0,5-5 cm de long. Axes principaux glabres, les ultimes ± pubérulents. Boutons verts, jaunes ou rosés. Fleurs odorantes, blanches (ou pourpre foncé : Le T. 8225), 4-6-mères, groupées subsessiles. Ovaire de 1 mm, pubérulent, parfois triloculaire. Lobes calycinaux aigus, d'env. 0,5 mm. Corolle à tube étroit sur 0,5 mm de hauteur puis élargi sur 1,5 mm, et pubescent à l'intérieur. 4-6 lobes très brièvement échancrés, érigés; portant un appendice filiforme de 15-20 mm de long. Anthères de 1,5 mm, à sommet atténué aigu dépassant l'échancrure des lobes de la corolle. Style de 1 mm y compris le stigmate.
+Terminal paniculate inflorescences with whorled ramifications, reaching 8 to 30 cm long; peduncle with 3 ridges 0.5-5 cm long. Main axes glabrous, the ultimate ones ± puberulent. Buds green, yellow or pink. Flowers fragrant, white (or deep purple: Le T. 8225), 4-6-merous, grouped subsessile. Ovary 1 mm, puberulent, sometimes trilocular. Calyx lobes acute, c. 0.5 mm. Corolla with narrow tube for 0.5 mm in height then widened for 1.5 mm, and pubescent inside. 4-6 lobes very briefly emarginate, erect; bearing a filiform appendage 15-20 mm long. Anthers 1.5 mm, with acute attenuate apex exceeding the emargination of the corolla lobes. Style 1 mm including the stigma.
 
-Fruit de 10-16 × 5-7 mm; 2-(3) valves ± retenues entre elles à la base un peu échancrées au sommet; pédicelle de 1-2 mm. Graines de 8-9 × 1,5 mm.
+Fruit 10-16 × 5-7 mm; 2-(3) valves ± retained together at the base slightly emarginate at the apex; pedicel 1-2 mm. Seeds 8-9 × 1.5 mm.
 
 ## Type
 
@@ -43,19 +41,15 @@ Dinklage 712, Kribi, Cameroun, probablement disparu, à Berlin. Néotype propos�
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The regularity of the foliage and the size of the leaves have already caused young specimens of this species to be confused with Schumanniophyton.
 
-La régularité du feuillage et la taille des feuilles ont déjà fait confondre les jeunes pieds de cette espèce avec les Schumanniophyton.
+In southern Cameroon, Kribi region, and at Souanké, Congolese region near northeast Gabon, specimens of P. johimbe are found which are distinguished by their slightly pubescent corolla. The species is widespread from southern Nigeria to Congolese Mayombe.
 
-Au sud Cameroun, région de Kribi, et à Souanké, région congolaise proche du nord-est Gabon, on trouve des spécimens de P. johimbe qui se distinguent par leur corolle un peu pubescente. L'espèce est répandue du sud Nigeria au Mayombe congolais.
+The bark of P. johimbe is well known for its powerful stimulant, antihypnotic and aphrodisiac properties. The active element or yohimbine, is an alkaloid commonly used in therapeutics in the form of hydrochloride. Its physiological action is complex: modification of the rhythms of respiration and blood circulation; it also exhibits local anesthetic action. Yohimbine is relatively low in toxicity, the lethal dose being 20 milligrams per kg of body weight. The medical and veterinary value of yohimbine justifies the production of P. johimbe bark. Commercial exploitation of this product is already carried out in the Kribi region of Cameroon. R. Paris and R. Letouzey (journ. Agr. et Bot. Appl. 1957 and 1960) showed that it is the barks of the roots and the trunk, principally at the level of the first branches, which present the highest contents of yohimbine.
 
-L'écorce du P. johimbe est bien connue pour ses puissantes propriétés stimulantes, antithypnotiques et aphrodisiaques. L'élément actif ou yohimbine, est un alcaloïde couramment utilisé en thérapeutique sous forme de chlorydrate. Son action physiologique est complexe : modification des rythmes de la respiration et de la circulation sanguine; elle présente aussi une action anesthésique locale. La Yohimbine est relativement peu toxique, la dose mortelle étant de 20 milligr. par kg-vif. La valeur médicale et vétérinaire de la yohimbine justifie la production d'écorce de P. johimbe. L'exploitation commerciale de ce produit est déjà faite dans la région de Kribi au Cameroun. R. Paris et R. Letouzey (journ. Agr. et Bot. Appl. 1957 et 1960) ont montré que ce sont les écorces des racines et du tronc, principalement au niveau des premières branches, qui présentent les plus fortes teneurs en Yohimbine.
+Adulteration of the product with barks, often highly toxic, of false yohimbé (Pausinystalia or Corynanthe sp.) give after extraction inferior or very minimal percentages of usable product.
 
-La falsification du produit avec les écorces, souvent très toxiques, de faux-yohimbé (Pausinystalia ou Corynanthe sp.) donnent après extraction des pourcentages inférieurs ou très minimes de produit utilisable.
-
-Autres usages : l'écorce déroulée s'emploie dans la construction des cases; elle paraît être parfois utilisée comme poison de pêche, mais il conviendrait de vérifier la détermination spécifique du
-
-produit employé. Le bois est négligé à cause de ses diamètres couramment médiocres, il est cependant de belle qualité.
+Other uses: the unrolled bark is used in the construction of huts; it appears to be sometimes used as a fishing poison, but the specific determination of the product employed should be verified. The wood is neglected because of its commonly mediocre diameters, it is nonetheless of fine quality.
 
 ## Vernacular names
 

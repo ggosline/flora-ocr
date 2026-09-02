@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Aff. S. Dinklagei K. Schum., but differing in stipules plicate ± acute, not refracted, secondary nerves 5-7 on each side, reticulation not dense, inflorescence peduncles shorter, principal bracts connate, calyx long-tubular.
 
-Aff. S. Dinklagei K. Schum., sed stipulis plicatis ± acutis, non refractis, nervis secundarius 5-7 utrinque, reticulo non denso, pedunculis inflorescentiarum brevioribus, bracteis praecipuis connatis, calyce longe tubuloso, differt.
+Twining liane reaching 5-6 m, with pubescent then glabrescent internodes, 1.5-10 cm long. Stipules folded lengthwise, extrorse and subacute, 4-5 mm long, with finely pubescent lower surface. Petioles pubescent, 4-18 mm long. Blade oval to obovate, finely puberulent on both surfaces, 3-10 × 1.5-5 cm, acute at base, apex briefly acute to rounded. 5-7 pairs of secondary nerves clothed, as well as the marginal line with appressed cilia on lower surface, pubescent to subglabrescent above. Reticulation not dense when dry.
 
-Liane volubile atteignant 5-6 m, à entrenœuds pubescents puis glabrescents, longs de 1,5-10 cm. Stipules pliées en long, extrorses et subaiguës, longues de 4-5 mm, à face inférieure fine-ment pubescente. Pétioles pubescents longs de 4-18 mm. Limbe ovale à obové, finement pubérulent sur les deux faces, de 3-10 × 1,5-5 cm, à base aiguë, à sommet brièvement aigu à arrondi. 5-7 paires de nervures secondaires vêtues, ainsi que la ligne marginale de cils couchés à la face inférieure, pubescentes à subglabrescentes dessus. Réticule non dense à sec.
+Inflorescences with peduncle (3) 4-8 mm long, pubescent. Lower bracts not glabrous, naviculate connate laterally between them, for ca. 3 mm at the juvenile stage; the connation then tears ± deeply, the base at least remaining connate; laminate portions on ca. 2 mm, ± plicate and subobtuse. Upper central bracts connate basally, the lateral pairs presenting a single adaxial connation. 2-5 flowers, often 3. Ovary hidden, densely clothed with long hairs. Calyx tube 2.5-5 mm long, glabrous; 5 erect ovate or oblong lobes, 1-2 mm long, unequal, quincuncial, green and sometimes margined red, margin and external median line pubescent or nearly glabrous. Corolla pale green then beige, tube 8-10 mm, glabrous on lower half, with ascending white hairs to the apex of the lobes which measure 2-2.5 mm. Throat puberulent with very small moniliform hairs. Anthers subsessile, medifixed, ca. 1.9 mm, with small apicule, split toward the base, half-exserted in the short-styled form studied. Pollen white. Style 9 mm, including the 5 narrow, erect stigmas, 1.5 mm long. Ovary with 5 locules and very narrow placentas.
 
-Inflorescences à pédoncule de (3) 4-8 mm de longueur, pubescent. Bractées inférieures non glabres, naviculées souduées entre elles latéralement, sur 3 mm env. au stade juvénile; la soudure se déchire ensuite ± profondément, la base au moins restant soudée; extrémités laminées sur env. 2 mm, ± pliées et subobtuses. Bractées supérieures centrales soudées basalement, les paires latérales présentent une seule soudure adaxiale. 2-5 fleurs, souvent 3. Ovaire caché, densément vêtue de longs poils. Tube du calice long de 2,5-5 mm, glabre; 5 lobes dressés ovés ou oblongs, longs de 1-2 mm, inégaux, quinconciaux, verts et parfois marginés de rouge, à marge et ligne médiane externe pubescentes ou quasi-glabres. Corolle vert pâle puis beige, à tube de 8-10 mm, glabre sur la moitié inférieure, à poils blancs ascendants jusqu'au sommet des lobes qui mesurent 2-2,5 mm. Gorge pubérulente à très petits poils en chapelet. Anthères subsessiles médifixes d'env. 1,9 mm, à petit apicule, fendues vers le bas, demi exsertes dans la forme brévystyle étudiée. Pollen blanc. Style de 9 mm, inclus les 5 stigmates étroits, dressés, longs de 1,5 mm. Ovaire à 5 loges et placentas très étroits.
-
-Baie mũe velue, blanc gris clair, d'env. 10 mm et surmontée
-
-par le calice en cheminée vert ± teinté de rouge à la base du tube. Pulpe spongieuse à suc rouge vineux. Nombreuses graines un peu anguleuses atteignant au maximum 0,7 mm.
+Berry dull hairy, light gray-white, ca. 10 mm and surmounted by the calyx in a chimney shape, green ± tinged red at the base of the tube. Pulp spongy with vinous red sap. Numerous slightly angular seeds reaching a maximum of 0.7 mm.
 
 ## Type
 
@@ -35,9 +31,7 @@ N. Hallé 1101, Makokou (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue seulement de la région de Makokou et Bélinga où elle est fréquente au bord des routes ou en lisière de forêt.
+Species known only from the Makokou and Bélinga region where it is frequent at roadsides or at the edge of forest.
 
 ## Specimens examined
 

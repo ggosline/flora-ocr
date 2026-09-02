@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with erect or weeping habit, sometimes ± sarmentose, reaching more than 3 m tall. Extremities pubescent. Stipules bifid tapering, 3-4 mm long, pubescent. Petioles often somewhat unequal within the same pair, and 0.5 to 5 cm long, channelled, pubescent. Blade pubescent, at least very sparsely so above, ovate to elliptic, 7-20(25) × 3-10(12) cm; apex acuminate sublanceolate; base acute, very long decurrent on the petiole. Midvein finely salient and pubescent above; secondary veins 7-11 pairs, the upper ones very ascendant; they are pubescent below as well as the intersecondary veins.
 
-Arbuste à port dressé ou retombant, parfois ± sarmenteux, atteignant plus de 3 m de haut. Extrémités pubescentes. Stipules bifides effilées, longues de 3-4 mm, pubescentes. Pétioles souvent un peu inégaux dans une même paire, et longs de 0,5 à 5 cm, canaliculés, pubescents. Limbe pubescent, au moins de façon très éparse dessus, ové à elliptique, de 7-20(25) × 3-10(12) cm; sommet acuminé sublancéolé; base aiguë, très longuement décurrente sur le pétiole. Nervure médiane finement saillante et pubescente dessus; nervures secondaires 7-11 paires, les supérieures très ascendantes; elles sont pubescentes dessous ainsi que les intersecondaires.
+Inflorescence paniculate lax, with a peduncle of (4)5-12 cm, with pubescent axes; ultimate cymes lax or dense; bracts linear pubescent 2-10 mm long. Flowers sessile. 2-3 flowers per inflorescence have a laminate petaloid sepal, ovate-acute and of variable size: petiole 15-45 mm, puberulent; blade 3-12 × 1-11.5 cm, white or barely yellowish; 3 or 5 main basal veins, the median bearing only lateral pennate veins of 3rd order. The small sepals are tapering and pubescent, 1.5-5 mm long. Corolla 3-4 cm long, with very slender light green tube, swollen at the level of the anthers, with bright yellow lobes spreading over 10-17 mm in diam., enlarged laterally, tapering caudate over 0.5-3 mm at the apex; the entire exterior of the corolla is covered with fine white hairs, appressed upward; the margins of the lobes and the entire upper surface are puberulent. Internal hairs of the corolla flat when dry and erect for nearly 1 mm above the plane of the lobes, abundant at the level of the anthers and in almost the entire narrow part of the tube. Stamens subsessile. Anther approximately 4 mm long, split in its lower part below the base of the connective. Disk fleshy small. Stigma of the style presenting two linear lobes in the brevistyle flower.
 
-Inflorescence paniculée lâche, à pédoncule de (4)5-12 cm, à axes pubescents; cymes ultimes lâches ou denses; bractées linéaires pubescentes longues de 2-10 mm. Fleurs sessiles. 2-3 fleurs par inflorescence ont un sépale laminé pétaloïde, ové-aigu et de taille variable : pétiole de 15-45 mm, pubérulent ; limbe de 3-12 × 1-11,5 cm, blanc ou à peine jaunâtre ; 3 ou 5 nervures principales basiliaires, la médiane ne portant que des latérales pennées de 3° ordre. Les petits sépales sont effilés et pubescents, longs de 1,5-5 mm. Corolle de 3-4 cm de long, à tube très grêle vert clair,
-
-renflé au niveau des anthères, à lobes jaunes vif étalés sur 10-17 mm de diam., élargis latéralement, effilés caudés sur 0,5-3 mm à l'apex; tout l'extérieur de la corolle est revêtu de poils fins, blancs, couchés vers le haut; les marges des lobes et toute la face supérieure sont pubérulentes. Poils internes de la corolle plats à sec et dressés sur près d'un mm au dessus du plan des lobes, abondants au niveau des anthères et dans presque toute la partie étroite du tube. Étamines subsessiles. Anthère longue d'env. 4 mm, fendue dans sa partie inférieure sous la base du connectif. Disque charnu petit. Stigmate du style présentant deux lobes linéaires dans la fleur brévystyle.
-
-Fruit subsessile oblong, souvent un peu arqué, de 25-30 × 5-8 mm, orné de 10 côtes à sec, à sépales persistants. Graines entièrement enfoncées dans une masse placentaire spongieuse. Graine asymétriquement ovoïde, un peu comprimée, longue de 1 à 1,2 mm, brune, scrobiculée.
+Fruit subsessile oblong, often somewhat curved, 25-30 × 5-8 mm, adorned with 10 ribs when dry, with persistent sepals. Seeds entirely embedded in a spongy placental mass. Seed asymmetrically ovoid, somewhat compressed, 1 to 1.2 mm long, brown, scrobiculate.
 
 ## Type
 
@@ -37,9 +33,7 @@ Schweinfurth 3362 (K), Munsa, Monbuttu-Land, NE du Congo ex-belge (non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est connue du Cameroun, de Centrafrique et des régions orientales du Congo ex-belge. Au Gabon dans les régions du nord et du nord-est.
+The species is known from Cameroon, Central African Republic and the eastern regions of the ex-Belgian Congo. In Gabon in the northern and northeastern regions.
 
 ## Specimens examined
 

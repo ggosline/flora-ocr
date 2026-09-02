@@ -17,31 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-PL. 60. – Pristimera andongensis (Welw. ex Oliv.) Hallé : 1, 2, feuilles ; 3, 4, bractées longues de près de 1 mm ; 5, 6, boutons ; 7-9, fleur, diam. 4-5 mm ; 10-12, sépales larges de 0,8-1,1 mm ; 13, 14, pétales longes de 1,8-2,3 mm ; 15, 16, disque de 1-1,4 mm de diam. ; 17-20, étamine ; 21, 22, loges d'ovaire et style de 0,5 mm ; 23, fruit immature, diam. 6 cm ; 24, graine immature longue de 27 mm (var. andongensis : 1, 4, 7, 11, 13, 17, 20, 21, Welwitsch 1330, Angola – var. cinerascens : 2, Hallé N. & Le Thomas 107 ; 3, 8, 10, 15, 16, 22, Le Testu 8452 ; 5, Corbisier-Baland 1773, Zaïre ; 6, 9, 19, Hallé N. 2809 bis ; 12, 14, 18, Zenker 2918 ; 23, 24, Hladik 2854).
+PL. 60. – Pristimera andongensis (Welw. ex Oliv.) Hallé : 1, 2, leaves ; 3, 4, bracts about 1 mm long ; 5, 6, buds ; 7-9, flower, diam. 4-5 mm ; 10-12, sepals 0.8-1.1 mm wide ; 13, 14, petals 1.8-2.3 mm long ; 15, 16, disk 1-1.4 mm diam. ; 17-20, stamen ; 21, 22, ovary locules and style 0.5 mm ; 23, immature fruit, diam. 6 cm ; 24, immature seed 27 mm long (var. andongensis : 1, 4, 7, 11, 13, 17, 20, 21, Welwitsch 1330, Angola – var. cinerascens : 2, Hallé N. & Le Thomas 107 ; 3, 8, 10, 15, 16, 22, Le Testu 8452 ; 5, Corbisier-Baland 1773, Zaïre ; 6, 9, 19, Hallé N. 2809 bis ; 12, 14, 18, Zenker 2918 ; 23, 24, Hladik 2854).
 
 N. HALLE
 
 – Simirestis andongensis (WELW. ex OLIV.) HALLÉ ex WILCZEK, FCB 9: 164 (1962); HALLÉ, Bull. Mus. natn. Hist. nat., Paris, sér. 2, 30: 465 (1958), nomen.
 
-CLÉ DES VARIÉTÉS
+KEY TO VARIETIES
 
-1. Feuilles subentières ou médiocrement serrulées. 2. Rameaux roux lenticellés ; fines nervilles plutôt réticulées ; 5-7 ovules par loge
+1. Leaves subentire or moderately serrulate. 2. Branches rusty-coloured lenticellate ; fine nervilles rather reticulate ; 5-7 ovules per locule
 
-2. Rameaux roux lenticellés ; fines nervilles plutôt réticulées ; 5-7 ovules par loge
+2. Branches rusty-coloured lenticellate ; fine nervilles rather reticulate ; 5-7 ovules per locule
 
-2'. Rameaux gris non lenticellés mais ± crevassés ; fines nervilles plutôt flabellées ; 8 ovules par loge ..... b. var. cinerascens.
+2'. Branches grey not lenticellate but ± creviced ; fine nervilles rather flabellate ; 8 ovules per locule ..... b. var. cinerascens.
 
-l'. Feuilles nettement serrulées dentées ..... c. var. volkensii.
+1'. Leaves distinctly serrulate dentate ..... c. var. volkensii.
 
 a. var. andongensis
 
-Liane plus ou moins élevée ou dépassant 20 m, à rameaux roux criblés de petites lenticelles. Bois jusqu'à 9 cm de diamètre. Pétiole de (3)-4-10 mm. Limbe brun grisâtre ou olivâtre à sec, de 4-8(13)×1,5-3,5(6) cm, aigu à arrondi à la base, lancéolé à acuminé au sommet, à marges médiocrement serrulées. Nervures secondaires 6-8 paires nettement obliques ascendantes ; nervilles fines et distinctement en relief.
+Liane more or less tall or exceeding 20 m, with rusty-coloured branches riddled with small lenticels. Wood up to 9 cm in diameter. Petiole (3)-4-10 mm. Blade brownish grey or olive when dry, 4-8(13)×1.5-3.5(6) cm, acute to rounded at the base, lanceolate to acuminate at the apex, with margins moderately serrulate. Secondary veins 6-8 pairs clearly oblique ascending ; nervilles fine and distinctly prominent.
 
-Inflorescences en panicules de cymes ou seulement en cymes (3-7-10-flores, à pédoncule de (2)-4-10(-30) mm. Pédicelle de 1-2(-2,5) mm. Bouton globuleux ou ové de 1,4-1,7 mm de diamètre. Fleurs jaunes ou jaune vert de (3,5)-4-5 mm de diamètre. Sépales ovés à peu près entiers, subégaux, larges de 0,8-1,1 mm. Pétales ovés de 1,8-2,3 × 1,2-1,6 mm, vers la base un peu moins larges et subérigés, les 2/3 supérieurs étalés rotacés. Disque en cupule de 1,1-1,8 mm de diamètre, à bord dressé de 0,3 mm de hauteur. Étamines un peu plus longues que le pistil, hautes de 1-1,3 mm. Style de 0,5 mm, peu distinctement trilobulé au sommet, chaque petit lobe étant au-dessus d'une étamine. Ovules 5-7(8) par loge.
+Inflorescences as panicles of cymes or only as cymes (3-7-10-flowered, with peduncle (2)-4-10(-30) mm. Pedicel 1-2(-2.5) mm. Bud globose or ovoid 1.4-1.7 mm in diameter. Flowers yellow or yellow-green (3.5)-4-5 mm in diameter. Sepals ovate nearly entire, subequal, 0.8-1.1 mm wide. Petals ovate 1.8-2.3 × 1.2-1.6 mm, toward the base somewhat narrower and suberect, the upper 2/3 spreading rotate. Disk cupular 1.1-1.8 mm in diameter, with erect margin 0.3 mm in height. Stamens slightly longer than the pistil, 1-1.3 mm tall. Style 0.5 mm, slightly distinctly trilobate at the apex, each small lobe above a stamen. Ovules 5-7(8) per locule.
 
-Fruit et graines du modèle habituel du genre. Méricarpes de 50-78 × 28-35 mm. - Pl. 60, p.p., p. 209.
+Fruit and seeds of the usual type for the genus. Mericarps 50-78 × 28-35 mm. - Pl. 60, p.p., p. 209.
 
 ## Type
 
@@ -55,33 +53,31 @@ Preuss 1306, Cameroun occidental (iso-, BM, K, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+With various variations that are not always clearly separable into varieties, the species is distributed in Cameroon, Gabon, Zaïre, Angola, Tanzania, Uganda, Zimbabwe and Mozambique.
 
-Avec différentes variations qui ne sont pas toujours clairement séparables en variétés, l'espèce est répandue au Cameroun, Gabon, Zaïre, Angola, Tanzanie, Ouganda, Zimbabwe et Mozambique.
-
-Les caractères floraux de cette espèce tendent à la rapprocher des Elachyptera : disque en cupule profonde et lobes stigmatiques opposés aux étamines. Mais le nombre d'ovules et la morphologie de l'inflorescence ne s'accordent pas avec ce point de vue.
+The floral characters of this species tend to bring it close to Elachyptera : disk cupular and deep and stigmatic lobes opposite to the stamens. But the number of ovules and the morphology of the inflorescence do not accord with this point of view.
 
 b. var. cinerascens Hallé, var. nov.
 
-- Hippocratea cinerascens LOES., msc. in herb. ; HALLÈ, Mém. IFAN 64 : 77 (1962), nom. nud.
+- Hippocratea cinerascens LOES., msc. in herb. ; HALLÉ, Mém. IFAN 64 : 77 (1962), nom. nud.
 
-A var. typica ramis fuscis vel griseis, laevibus vel rimosis in longitudine, ovulis 8 in quoque loculo, foliis, majoribus, nervulis flabelliformibus, differt.
+It differs from var. typica in branches brownish or grey, smooth or creviced longitudinally, ovules 8 in each locule, larger leaves, flabelliform nervilles.
 
-Chez cette variété les rameaux sont brunâtres ou gris, lisses ou crevassés en long. Pétiole de 4-15 mm. Limbe foliaire brun ou ± olivacé à sec, de 5-12 × 2-6 cm. 6-9 paires de nervures secondaires longuement obliques avec des nervilles flabellées ; base souvent aiguë, parfois brièvement cunéiforme. Dents du limbe plus espacées et inégalement distinctes.
+In this variety the branches are brownish or grey, smooth or creviced longitudinally. Petiole 4-15 mm. Leaf blade brown or ± olive when dry, 5-12 × 2-6 cm. 6-9 pairs of secondary veins with flabellate nervilles, long and oblique ; base often acute, sometimes briefly cuneiform. Teeth of the blade more spaced and unequally distinct.
 
-Inflorescences plus développées, en panicules étagées. Pédoncule des cymes de 5-30 mm ; ces dernières sont souvent plus florifères. Ovules 8 par loge.
+Inflorescences more developed, in tiered panicles. Peduncle of cymes 5-30 mm ; these latter are often more floriferous. Ovules 8 per locule.
 
-Méricarpes elliptiques, 3-5 × 1,2-2,3 cm, contenant 4-7 graines ailées (récoltes de Bélinga, Gabon). – Pl. 60, p.p., p. 209.
+Mericarps elliptic, 3-5 × 1.2-2.3 cm, containing 4-7 winged seeds (collections from Bélinga, Gabon). – Pl. 60, p.p., p. 209.
 
-Cameroun (aucune récolte récente), Gabon, Zaïre (Bonnivoir 4.11.A, Eala, 1.4.1913 ; Corbisier-Baland 1773, ibid., 19.6.1933).
+Cameroon (no recent collections), Gabon, Zaïre (Bonnivoir 4.11.A, Eala, 1.4.1913 ; Corbisier-Baland 1773, ibid., 19.6.1933).
 
-Cameroun, Congo (Thollon 574), Zaïre, Centrafrique (Tisserant 1443 et 2387), Angola, Ouganda et Tanzanie. A rechercher au Gabon.
+Cameroon, Congo (Thollon 574), Zaïre, Central African Republic (Tisserant 1443 et 2387), Angola, Uganda and Tanzania. To be sought in Gabon.
 
-PL. 61. – Pristimera graciliflora (Welw. ex Oliv.) Hallé : 1, bouton ; 2, 3, fleur, diam. 5,8 mm ; 4, 5, sépales larges de 1-4,4 mm ; 6, pétale long de 2,2 mm ; 7, disque dans le bouton ; 8, 9, disque, diam. 1,5 mm ; 10-12, étamine ; 13-16, pistil et loges ouvertes ; 17, méricarpe long de 6 cm ; 18, graine longue de 4,8 cm (1, 4, 9, 11, 13, Breyne 542, Zaire ; 2, 3, 7, 12, 14, Tisserant 2387, Centrafrique ; 5, Léonard A. 5536, Zaire ; 6, 8, 16, 18, Breyne 412, Zaire ; 10, 15, Schlieben 5497, Tanzanie. – P. preussii (Loes.) Hallé : 19, bouton ; 20, 21, fleur, diam. 4,6 mm ; 22-24, sépales larges de 0,9-1,4 mm ; 25, pétale long de 2,5 mm ; 26, 27, disque, diam. 1,7 mm ; 28-31, étamines ; 32-34, pistil et loges ouvertes (19-23, 26-29, 32, Breteler 2894 ; 24, 25, 31, 33, 34, Mildbraed 5466 ; 30, Breteler 1523).
+PL. 61. – Pristimera graciliflora (Welw. ex Oliv.) Hallé : 1, bud ; 2, 3, flower, diam. 5.8 mm ; 4, 5, sepals 1-4.4 mm wide ; 6, petal 2.2 mm long ; 7, disk in the bud ; 8, 9, disk, diam. 1.5 mm ; 10-12, stamen ; 13-16, pistil and open locules ; 17, mericarp 6 cm long ; 18, seed 4.8 cm long (1, 4, 9, 11, 13, Breyne 542, Zaïre ; 2, 3, 7, 12, 14, Tisserant 2387, Central African Republic ; 5, Léonard A. 5536, Zaïre ; 6, 8, 16, 18, Breyne 412, Zaïre ; 10, 15, Schlieben 5497, Tanzania. – P. preussii (Loes.) Hallé : 19, bud ; 20, 21, flower, diam. 4.6 mm ; 22-24, sepals 0.9-1.4 mm wide ; 25, petal 2.5 mm long ; 26, 27, disk, diam. 1.7 mm ; 28-31, stamens ; 32-34, pistil and open locules (19-23, 26-29, 32, Breteler 2894 ; 24, 25, 31, 33, 34, Mildbraed 5466 ; 30, Breteler 1523).
 
-MATÉRIEL ÉTUDIÉ (Cameroun) :
+MATERIAL STUDIED (Cameroon) :
 
-Breteler 2826, NW Bamekok, 30 km SW Batouri, 16.4.1962 (stér., bois), WAG (déterminé avec doute). Mildbraed 4749, env. Moloundou, 15.22 E, 3.34 N, 900 m, 25.3.1911 (fl.), HBG.
+Breteler 2826, NW Bamekok, 30 km SW Batouri, 16.4.1962 (ster., wood), WAG (determined with doubt). Mildbraed 4749, env. Moloundou, 15.22 E, 3.34 N, 900 m, 25.3.1911 (fl.), HBG.
 
 3 ter. Pristimera preussii (Loesener) Hallé
 
@@ -91,21 +87,21 @@ Bull. Mus. natn. Hist. nat., Paris, 4° sér., B, 3, Adansonia (1): 12 (1981).
 
 – Simirestis preussii (LOES.) HALLÉ, Monogr. Hippocr. Afr. occid. Thèse : 65 (1958) ; Bull. Mus. natn. Hist. nat., Paris, 2° sér., 30 (5) : 465 (1958) ; Mém. IFAN 64 : 70 (1962) ; WILCZEK, FCB 9 : 166 (1960).
 
-Liane petite (7 m) ou très longue (plus de 60 m), diamètre 4 cm, très voisine de la précédente. Feuilles, inflorescences et fleurs sont ordinairement moins noircissantes à sec, et souvent vert olive en herbier. Pétioles de 5-9 mm. Nervures secondaires 6-9 paires.
+Liane small (7 m) or very long (over 60 m), diameter 4 cm, very close to the preceding one. Leaves, inflorescences and flowers are ordinarily less blackening when dry, and often olive-green in the herbarium. Petioles 5-9 mm. Secondary veins 6-9 pairs.
 
-Inflorescences à pédoncule de 2,5-9 cm. Pédicelles floraux très courts, 0,4-2 mm. Pétales à marge finement denticulée. Ovules 6-7 par loge. Carpelles de 60 × 25 mm (Louis 16494) et graines de 35 mm. - Pl. 61, fig. 19-34, p. 213.
+Inflorescences with peduncle 2.5-9 cm. Floral pedicels very short, 0.4-2 mm. Petals with finely denticulate margin. Ovules 6-7 per locule. Carpels 60 × 25 mm (Louis 16494) and seeds 35 mm. - Pl. 61, fig. 19-34, p. 213.
 
-P. preussii et P. graciliflora cohabitent dans la région de Moloundou. Cameroun et Zaïre ; à rechercher dans l'Est du Gabon.
+P. preussii and P. graciliflora cohabit in the Moloundou region. Cameroon and Zaïre ; to be sought in eastern Gabon.
 
-MATÉRIEL ÉTUDIÉ (Cameroun) :
+MATERIAL STUDIED (Cameroon) :
 
 Bates 1515, Bitye, 1917 (fl.), BM.
 
-Breteler 1523, Yokadouma, 12 km route de Moloundou, 20.6.1961 (fl.), BR, WAG; 2839, 50 km SW Batouri, E Moloundou, 17.4.1962 (j.fl.); 2894, Bertoua, 25 km route de Deng-Deng, 670 m, 11.5.1962 (fl.).
+Breteler 1523, Yokadouma, 12 km route to Moloundou, 20.6.1961 (fl.), BR, WAG; 2839, 50 km SW Batouri, E Moloundou, 17.4.1962 (j.fl.); 2894, Bertoua, 25 km route to Deng-Deng, 670 m, 11.5.1962 (fl.).
 
-Mildbraed 5343, env. Lomie, 13.30 E, 2.25 N, 22.5.1911 (fl.), HBG ; 5466, env. Ebolowa, entre Riv. Dscha et Sangmelina, 27.5.1911, HBG.
+Mildbraed 5343, env. Lomie, 13.30 E, 2.25 N, 22.5.1911 (fl.), HBG ; 5466, env. Ebolowa, between Riv. Dscha and Sangmelina, 27.5.1911, HBG.
 
-Preuss 1306, entre Victoria (Limbé) et Bimbia (fl. en juillet).
+Preuss 1306, between Victoria (Limbé) and Bimbia (fl. in July).
 
 ## Specimens examined
 

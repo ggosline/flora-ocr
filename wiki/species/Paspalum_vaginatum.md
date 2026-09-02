@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant up to 60 cm tall, base long-creeping, rooting, with overlapping sheaths. Leaves numerous glabrous, except at the opening of the sheath. Sheaths more or less compressed, ligules short, truncate. Blades linear, narrower at the base than the sheath, up to 10 cm long, margins smooth.
 
-Plante pérenne jusqu'à 60 cm de haut, base longuement rampante, radicante, à gaines imbriquées. Feuilles nombreuses glabres, sauf à l'ouverture de la gaine. Gaines plus ou moins compressées, ligules courtes, tronquées. Limbes linéaires, plus étroits à la base que la gaine, jusqu'à 10 cm de long, marges lisses.
+Racemes generally two at the apex of the culms. Rachis flattened, herbaceous on the back; spikelets subsessile, flattened, imbricate and appressed against the rachis. Upper glume with 5 nerves, or 4 only by suppression of the central nerve. Lower lemma similar, with 5 or 7 nerves. Upper flower equal to 1/3 or 1/4 of the lower flower, glumelles coriaceous.
 
-Racèmes généralement par deux à l'extrémité des chaumes. Rachis aplat, herbacé sur le dos; épilets subsessiles, aplatis, imbriqués et apprimés contre le rachis. Glume supérieure à 5 nervures, ou 4 seulement par suppression de la nervure centrale. Lemma inférieure semblable, à 5 ou 7 nervures. Fleur supérieure égale au 1/3 ou au 1/4 de la fleur inférieure, glumelles coriaces.
-
-Espèce se rencontrant sur les côtes de l'Afrique tropicale, ainsi qu'en Espagne et dans les Pyrénées. Intérêt fourrager sans doute à peu près nul.
+Species found on the coasts of tropical Africa, as well as in Spain and in the Pyrenees. Forage value doubtless of little or no consequence.
 
 ## Specimens examined
 

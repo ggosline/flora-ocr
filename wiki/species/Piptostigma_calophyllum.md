@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 8–12 m tall, with glabrous branches, branchlets velvety ferruginous-brown; stem erect, branches curved, wood yellow. Leaves subsessile; blade papyraceous, broadly obovate, 60–77 cm long, 20–32 cm wide, distinctly narrowed toward the obtuse and cordate base, rounded, abruptly and very shortly acuminate at the apex; upper surface glabrous except on the midvein, lower surface glaucous silvery, pubescent with stiff hairs, especially on the nerves and nervules. Midvein impressed above, very prominent below and thickening considerably toward the base; lateral nerves 30–67 pairs, salient on the lower surface; reticulum of nervules regular, close, well visible below.
 
-Arbuste ou petit arbre de 8-12 m de hauteur,ä rameaux glabres,ramilles veloutées brun ferrugineux;tige droite,branches recourbées, bois jaune. Feuilles subsessiles; limbe papyracé, largement obové, long de 60-77 cm, large de 2o-32 cm nettement rétréci vers la base obtuse et cordée,arrondi, brusquement et tres courtement acuminé au sommet; face supérieure glabre sauf sur la nervure médiane, face inférieure glauque argentee, pubescente á poils raides,surtout sur les nervures et nervilles. Nervure médiane imprimée au-dessus,tres proéminente en dessous ets'épaississant beaucoup vers la base; nervures latérales 30-67 paires, saillantes a la face inférieure; réticulum de nervilles régulier,serré,bien visible en-dessous.
+Inflorescences cauline or on old branches, in fascicles of very contracted rhipidia, with thick rachis, densely rusty-tomentose, or flowers solitary. Numerous bracts, broadly ovate, 6–10 mm long, 6–9 mm wide, densely rusty-tomentose on the outside. Pendulous flowers, ochraceo-yellow, with very short pedicel, not exceeding 5 mm in length. Sepals and external petals subequal, triangular-ovate, 5–6 mm long, 3–4 mm wide, rusty-pubescent on the outside, shortly tomentellate on the inside; internal petals linear-lanceolate, 5–6 cm long, 7–9 mm wide, with very strong longitudinal nerves, densely pubescent on the outside, tomentose on the inside except at the base. Stamens sessile, short, anthers extrorse, connectives dilated and truncate above the anthers. Carpels 10–12, ovaries oblong, villous, stigmas sessile, beige, capitate, densely puberulent. Ovules approximately 10, biseriate.
 
-Inflorescences caulinaires ou sur les vieux rameaux, en fascicules de rhipidies tres contractées,ä rachis épais,densément tomenteux roux,ou fleurs solitaires. Nombreuses bractées,largement ovées,longues de 6-1o mm,larges de 6-9 mm,densément tomenteuses rousses á lextérieur. Fleurspendantes, jaune ochracé,a pédicelle tres court,ne dépassant pas 5 mm de longueur. Sépales et pétales externes subégaux,triangulaires-ovés, longs de 5-6 mm, larges de 3-4 mm, pubescents roux a 'extérieur, tomentelleux á poils courts â l'intérieur;pétales internes linéaireslancéoles,longs de 5-6 cm,larges de 7-9 mm,á tres fortes nervures longitudinales,densément pubescents á l'extérieur,tomenteux ä 'intérieur sauf a la base. Etamines sessiles,courtes, theques extrorses,connectifs dilatés et tronqués au-dessus des antheres. Carpelles Io-I2,ovaires oblongs,velus, stigmates sessiles,beiges, capités,densément pubérulents.Ovules Io environ,bisériés.
-
-Fruits inconnus.
+Fruits unknown.
 
 ## Type
 
@@ -37,21 +35,19 @@ N. Hallé 4o87, Bélinga mines de fer, Gabon,fr.aout (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of humid dense forest collected in Cameroon and Gabon, very remarkable for the size of the leaves and their particularly dense and regular venation.
 
-Espéce de foret dense humide récoltée au Cameroun et au Gabon,tres remarquable par la taille des feuilles et leur nervation particulierement dense et réguliere.
+Small tree of the understorey of humid dense forest in Nigeria, Cameroon and Gabon. In Nigeria it is found with P. giganteum Hutch. et Dalz., a very closely related species whose leaves are even distinctly wider, up to 30 cm, and the external petals triangular-ovate.
 
-Petit arbre du sous-bois de la foret dense humide de Nigéria, du Cameroun et du Gabon. En Nigéria on le trouve avec P. giganteum Hutch.et Dalz.,espece tres affine dont les feuilles sont encore nettement plus larges,jusqu'a 3o cm,et les pétales externes triangulaires-oves.
+Le Testu specimen no. 6037, collected in Gabon at the falls of Bemba, near Gnyoungou Cimba, has leaves exactly similar to those of the Gabonese material of P. pilosum, reaching 40 cm in length and 20 cm in width, but the flowers are sometimes fasciculate and the sepals and external petals are triangular, not exceeding 3 mm in length. Perhaps this is P. giganteum, which might be only a variety of P. pilosum.
 
-Le numéro 6o37 de Le Testu,récolté au Gabon ä la chute de Bemba,pres de Gnyoungou Cimba,possede des feuilles exactement semblables ä celles du matériel gabonais de P. pilosum, atteignant 4o cm de longueur et 2o cm de largeur,mais les fleurs sont parfois fasciculées et les sépales et pétales externes sont triangulaires,ne dépassant pas 3 mm de longueur.Peut-étre s'agit-il de P.giganteum,qui pourrait n'étre qu'une variété de P. pilosum.
-
-Cette espéce n'est répandue qu'en forét dense humide atlantique au Cameroun,Gabon et Congo-Brazzaville.
+This species is distributed only in Atlantic humid dense forest in Cameroon, Gabon and Congo-Brazzaville.
 
 Var. lanceolata Le Thomas, var. nov.
 
-A typo differt sepalis sicut petalis externis lanceolatis,Io mm longis,2,5 mm latis,extus dense pubescentibus,in fructibus persistentibus,mericarpiis cylincrico-arcuatis,verruculosis.
+A typo differt sepalis sicut petalis externis lanceolatis, 10 mm longis, 2.5 mm latis, extus dense pubescentibus, in fructibus persistentibus, mericarpiis cylindrico-arcuatis, verruculosis.
 
-Les longues inflorescences attachées sur le tronc, les feuilles glauques et glabrescentes a la face inférieure nous conduisent ä rattacher deux spécimens gabonais â P.glabrescens.Le matériel florifére est malheureusement insuffisant,la fleur n'étant pas encore totalement développée;le fruit nous fournit cependant certains éléments,puisque les sépales et les pétales internes sont persistants ä la base des méricarpes;ils sont nettement lancéolés,plus longs et plus étroits que dans la variété type. Les méricarpes,3-4, sont cylindriques courbés, longs de 4-6 cm, larges de 2,5 cm,atténués-apiculés au sommet,verruculeuxtuberculés et tomenteux brun-ochracé.
+The long inflorescences attached to the trunk, the glaucous and glabrescent leaves on the lower surface lead us to assign two Gabonese specimens to P. glabrescens. The flowering material is unfortunately insufficient, the flower not yet being fully developed; the fruit nonetheless provides us with certain elements, since the sepals and internal petals are persistent at the base of the mericarps; they are distinctly lanceolate, longer and narrower than in the typical variety. The mericarps, 3–4, are cylindric curved, 4–6 cm long, 2.5 cm wide, attenuate-apiculate at the apex, verruculate-tuberculate and tomentose ochraceo-brown.
 
 ## Specimens examined
 

@@ -21,7 +21,7 @@ Liane with stem up to 35 m, 18–30 mm in diameter. Leaf: sheath moderately to p
 
 ## Distribution
 
-Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, present in the Estuary, Middle Ogooué, Nyanga, Ngounié and Woleu-Ntem. Conservation status: Least Concern (LC)
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, present in the Estuaire, Moyen-Ogooué, Nyanga, Ngounié and Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 

@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-$ ^{*} $ Nature et lieux de dépôt signalés différemment dans FCAM.
+$ ^{*} $ Nature and depositional sites reported differently in FCAM.
 
 1mm
 
-Tiges 36-70 x 0,3-0,5. Feuilles de 12-15 x 0,9-1,7 (-2) cm, lancéolées-elliptiques. Inflorescence 7-12 cm, avec 4 ou 5 rameaux de (3-) 4-10 cm, chacun < 10-flore, rachis en zigzag. Fleurs blanc-verdâtre-jaunâtre, avec du jaune sur le labelle. Sépale dorsal oblong-elliptique, apiculé. Pétales blanc-éolés, obtus. Sépales latéraux obliquement et étroitement triangulaires, apiculés. Labelle nettement trilobé juste au-dessous du milieu, très éparsément pubescent, callus épais, charnu, oblong, obtus au centre du labelle ou juste au-dessous ; lobe médian ové-triangulaire, obtus ; lobes latéraux ovés-triangulaires ou rhombiformes. Éperon sacciforme. - Pl. 117, p. 267.
+Stems 36-70 x 0.3-0.5. Leaves 12-15 x 0.9-1.7 (-2) cm, lanceolate-elliptic. Inflorescence 7-12 cm, with 4 or 5 branches of (3-) 4-10 cm, each < 10-flowered, rachis zigzag. Flowers whitish-greenish-yellowish, with yellow on the labellum. Dorsal sepal oblong-elliptic, apiculate. Petals white-eared, obtuse. Lateral sepals obliquely and narrowly triangular, apiculate. Labellum clearly three-lobed just below the middle, very sparsely pubescent, callus thick, fleshy, oblong, obtuse at the center of the labellum or just below; midlobe ovate-triangular, obtuse; lateral lobes ovate-triangular or rhombiform. Spur saccate. - Pl. 117, p. 267.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Principe
+Cameroon, Gabon, Príncipe
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 700-1,000 m. Terrestrial, rupicolous or lithophytic in sun on rocky slope, on granitic rock among Cyperaceae and vegetation with Microdracoides
 
-alt. 700-1 000 m. Terrestre, rupicole ou lithophyte au soleil sur pente rocheuse, sur rocher granitique parmi les Cypéracées et la végétation à Microdracoides
+MATERIAL STUDIED (Map 50):
 
-MATÉRIEL ÉTUDIÉ (Carte 50) :
-
-Le Testu 9126, entre Woleu et la Riv. Ntem, Bengo (fl. Mai), P!, K ; s.n., Molayop (fl. Mai), K.
+Le Testu 9126, between Woleu and the Riv. Ntem, Bengo (fl. May), P!, K; s.n., Molayop (fl. May), K.
 
 ## Notes
 

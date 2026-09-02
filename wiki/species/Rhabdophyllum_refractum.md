@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 1902). Ouratea acutissima Gilg, Bot. Jahrb. Syst. 33 : 255 (1903). Ouratea myrioneura Gilg, Bot. Jahrb. Syst. 33 : 256 (1903). Ouratea pauciflora Gilg, Bot. Jahrb. Syst. 33 : 256 (1903). Ouratea stenorrhachis Gilg, Bot. Jahrb. Syst. 33 : 254 (1903). Ouratea monantha Gilg ex Engl. in Engl. & Drude, Veg. Erde 9, Pflanzenwelt Afrikas 3, 2 : 487 (1921).
 
 ## Notes

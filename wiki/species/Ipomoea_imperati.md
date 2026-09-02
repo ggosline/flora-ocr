@@ -21,7 +21,7 @@ Ipomoea stolonifera (Cirillo) J.F.Gmel. in L. Syst. nat. ed. 13, 2 : 345 (1791).
 
 ## Distribution
 
-Tropical Africa and Mediterranean countries, tropical Asia and America; in Gabon, present on maritime sands of the Estuary, Ogooué-Maritime and Nyanga.
+Tropical Africa and Mediterranean countries, tropical Asia and America; in Gabon, present on maritime sands of the Estuaire, Ogooué-Maritime and Nyanga.
 
 ## Ecology
 

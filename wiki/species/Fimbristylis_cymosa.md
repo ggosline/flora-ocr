@@ -21,7 +21,7 @@ F. obtusifolia (Lam.) Kunth, Enum. pl. 2 : 240 (1837). Perennial herb forming tu
 
 ## Distribution
 
-plant widespread on almost all coastlines of tropical regions; in Gabon, widely distributed in the Estuary and Ogooué-Maritime (8 collections)
+plant widespread on almost all coastlines of tropical regions; in Gabon, widely distributed in the Estuaire and Ogooué-Maritime (8 collections)
 
 ## Ecology
 

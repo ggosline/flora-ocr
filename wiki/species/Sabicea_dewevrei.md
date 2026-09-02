@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Twining liane exceeding 4 m. Extremities with mediocre or loose pubescence. Internodes 8-17 cm bearing fine erect hairs, ± scattered then caducous. Stipules orbicular glabrous, sometimes ciliate on the margin, 1-2 cm, often obtuse. Petiole 8-20 mm with long loose hairs. Blade glabrous elliptic 7-15 × 3-7.5 cm, with rounded or shortly acute base, ± acuminate apex, sometimes rather elongate. Midvein glabrous or somewhat pilose above, ± pilose below. 7-11 pairs of secondary veins mediocrely pilose below. Reticulation lax or scarcely apparent.
 
-Liane volubile dépassant 4 m. Extrémités à pilosité médiocre ou lâche. Entrenœuds de 8-17 cm portant des poils fins dressés, ± épars puis caduc. Stipules orbiculaires glabres, parfois ciliées sur la marge, de 1-2 cm, souvent obtuses. Pétiole de 8-20 mm à poils longs et lâches. Limbe glabre elliptique de 7-15 × 3-7,5 cm, à base arrondie ou brièvement aiguë, à sommet ± acuminé, parfois assez longuement. Nervure médiane glabre ou un peu pileuse dessus, ± pileuse dessous. 7-11 paires de nervures secondaires médiocrement pileuses dessous. Réticule lâche ou peu apparent.
+Inflorescences solitary at the nodes, with peduncle 8-35 mm, glabrous; 2 very ample bracts, rounded subcordate, connate for 2-4 mm on each side of the axis, 2-3.5 cm wide, glabrous, embracing a capitulum of 6-10 (28) flowers or young sessile buds staggered flowering. Flowers surrounded at the base by erect hairs mixed with relictual linear bractéoles smaller than the hairs. Ovary and calyx glabrous, nearly 2 cm long; calyx tube approximately cylindric reaching 12 × 5-7 mm; calyx lobes triangular 2-3 (4) mm, with ± ciliate margin. Corolla exceeding the calyx by 3-4 mm, with glabrous tube 15-18 × 1 mm, with lobes densely covered with erect hairs on the external face.
 
-Inflorescences solitaires aux nœuds, à pédoncule de 8-35 mm, glabre; 2 très amples bractées, arrondies subcordées, connées sur 2-4 mm de chaque côté de l'axe, larges de 2-3,5 cm, glabres, embrassant un capitule de 6-10 (28) fleurs ou jeunes boutons sessiles floraison échelonnée. Fleurs entourées à la base de poils dressés mélangés de bractéoles relictuelles linéaires plus petites que les poils. Ovaire et calice glabres, longs de près de 2 cm; tube du calice à peu près cylindrique atteignant 12 × 5-7 mm; lobes du calice triangulaires de 2-3 (4) mm, à marge ± ciliée. Corolle dépassant le calice de 3-4 mm, à tube glabre de 15-18 × 1 mm, à lobes densément revêtus de poils dressés sur la face externe.
+Fruit red before maturity at a diam. of 9 mm. Calyces reddish as well as the bracts. 5 locules.
 
-Fruit rouge avant maturité pour un diam. de 9 mm. Calices rougeâtres ainsi que les bractées. 5 loges.
-
-FLORE DU GABON
+FLORA OF GABON
 
 ## Type
 
@@ -33,9 +31,7 @@ Dewèvre 1143, Waboundou, Congo ex-belge (BR!). L’espèce est quelque peu vari
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lisière de vieille plantation sur pente.
+Edge of old plantation on slope.
 
 ## Specimens examined
 

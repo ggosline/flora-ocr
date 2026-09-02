@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub. Buds glandular. Branchlets glabrous, marked with very prominent lenticels. Small leaves glabrous, very coriaceous, lanceolate or obovate-oblong or oblong, obtuse, attenuate or distinctly acuminate at the apex, cuneiform at the base; blade 5-7 cm long, 15-28 mm wide; petiole ca. 12 mm; very numerous parallel lateral veins extending to the margin, deeply impressed in the thick blade, giving it a very distinctive appearance.
 
-Arbuste. Bourgeons glanduleux, Rameaux glabres, marqués de lenticelles très apparentes. Petites feuilles glabres, très coriaces, lancéolées ou obovées-oblongues ou oblongues, obtuses, atténuées ou nettement acuminées au sommet, cunéiformes à la base; limbe, 5-7 cm long, 15-28 mm large; pétiole env. 12 mm; très nombreuses nervures latérales parallèles dessinées jusqu'à la
+Small flowers in axillary fascicles. Pedicel 5-7 mm, scaly-tomentose. Sepals 6, ca. 5 mm, pubescent externally, glabrous internally or finely tomentose on the margins. Corolla ca. 5-6 mm with very short tube, ca. 1 mm. Lobes 6, each provided with 2 appendages as long as the lobe. Lobe oblong, ca. 1.5 mm wide, but with margins folded inwardly. Stamens 6; filament short 2 mm, anther 2 mm. Staminodes 2.5 mm, bi-dentate. Stamens and staminodes are fused at the base into a thick ring, ca. 2 mm high, itself adherent to the base of the corolla for ca. 1 mm.
 
-marge, profondément imprimées dans le limbe épais, ce qui donne à celui-ci un aspect très particulier.
+Ovary pubescent prolonged by a long style, 10-12 locules. Fruit unknown.
 
-Petites fleurs en fascicules axillaires. Pédicelle 5-7 mm, tomenteux écailleux. Sépales 6, env. 5 mm, pubescents extérieurement, glabres intérieurement ou finement tomenteux sur les bords. Corolle env. 5-6 mm à tube très court, env. 1 mm. Lobes 6, chacun muni de 2 appendices aussi longs que le lobe. Lobe oblong, env. 1,5 mm large, mais à bords repliés intérieurement. Étamines 6; filet court 2 mm, anthère 2 mm. Staminodes 2,5 mm, bi-dentés. Étamines et staminodes sont soudés à la base en un anneau épais, haut de 2 mm env., lui-même adhérent à la base de la corolle sur 1 mm env.
+Type of the species: Le Testu 8408, Poupa, Lastourville region.
 
-Ovaire pubescent prolongé par un long style, 10-12 loges. Fruit inconnu.
+This species is remarkable at first sight for its small, very thick leaves in which the numerous fine lateral veins and veinlets are impressed. In equatorial Africa there are 3 other species of Manilkara with small leaves. M. angolensis (Engl.) H. Lec. ex Pellegr. discovered in the coastal thickets of the Congo estuary, is to me, according to Engler's drawings, a form of M. lacera (Bak.) Dub. a shrub of beaches whose broadly obovate leaves are sometimes small and distinctly emarginate at the apex. The oldest small-leaved species described (1877) is M. cuneifolia (Bak.) Dub. whose type I do not know and which according to the description in Oliver could also be a form of M. lacera. Dubard had put M. cuneifolia and M. angolensis into synonymy.
 
-Type de l'espèce : Le Testu 8408, Poupa, région de Lastourville.
+The third species, M. Welwitschii (Engl.) Dubard, the closest to M. microphylla, differs from it by the absence of this strongly impressed network of lateral venation, by more distinctly obovate leaves, and by the stamens and staminodes directly fused on the corolla tube, and not fused at the base into a distinct ring.
 
-Cette espèce est remarquable au premier aspect par ses petites feuilles très épaisses où les nombreuses et fines nervures latérales et nervilles sont imprimées. Il existe en Afrique équatoriale 3 autres espèces de Manilkara à petites feuilles. M. angolensis (Engl.) H. Lec. ex Pellegr. découvert dans les fourrés littoraux de l'embouchure du Congo, est pour moi, d'après les dessins d'Engler une forme du M. lacera (Bak.) Dub. arbuste des plages dont les feuilles largement olovées sont parfois petites et nettement émarginées au sommet. La plus ancienne espèce à petites feuilles décrites (1877) est M. cuneifolia (Bak.) Dub. dont je ne connais pas le type et qui d'après la description dans Oliver pourrait être également une forme de M. lacera. Dubard avait mis en synonymie M. cuneifolia et M. angolensis.
-
-La troisième espèce, M. Welwitschii (Engl.) Dubard, la plus proche du M. microphylla, s'en distingue par l'absence de ce réseau fortement imprimé de la nervation latérale, par les feuilles plus nettement obovées, et par les étamines et staminodes directement soudés sur le tube de la corolle, et non pas soudés à la base en un anneau distinct.
-
-M. microphylla est une espèce mal connue, signalée seulement jusqu'à présent au bord d'un étang à Brazzaville, et à l'intérieur du Gabon dans la région de Lastoursville.
+M. microphylla is a poorly known species, indicated so far only at the edge of a pond in Brazzaville, and in the interior of Gabon in the Lastoursville region.
 
 ## Specimens examined
 

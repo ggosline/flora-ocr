@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pollen & Spores 2 (1): 12 (1960); MÉM. IFAN 64: 178, tab. 60 (1962); WILCZEK, FCB 9: 211 (1960); F. WHITE, FFNR: 219 (1962).
 
 – S. pelophila Louis, mss. in herb. Louis 14525 (BR !, K !) et 2576 (BR !, P !), Zaïre.
 
-Arbuste dressé haut de 1,5-3(5) m, dépourvu de caoutchouc ; rameaux ± étalés en cime régulière ; jeunes entre-nœuds lisses olivacés. Feuilles opposées rarement subopposées. Pétioles de 3-7 mm à bords du canal droits. Limbe sublauriforme, de 7-16 × 2,5-6 cm, à base aiguë, à acumen de 6-20 mm, à marges nettement dentées et parfois ± ondulées, concolore, olivacé ou olivâtre à sec. Nervures secondaires 8-12 paires.
+Erect shrub 1.5–3(5) m tall, lacking rubber; branches ± spreading in regular crown; young internodes smooth olivaceous. Leaves opposite, rarely subopposite. Petioles 3–7 mm with straight channel margins. Blade sublauriform, 7–16 × 2.5–6 cm, with acute base, acumen 6–20 mm, margins distinctly dentate and sometimes ± undulate, concolorous, olivaceous or olivaster when dry. Secondary veins 8–12 pairs.
 
-Inflorescences en glomérules axillaires sessiles (1)3-8(10)-flores. Pédicelles grêles ou non de (3)4-13 mm. Bouton globuleux ou brièvement ovoïde de 1,5-2,2 mm de largeur. Fleurs violacé noirâtre, violettes, pourpre foncé, rouges, rosées ou plus rarement blanches, rotacées, de 4-6 mm de diamètre. Sépales très inégaux, les uns ovés de 0,9 mm de largeur, les plus grands semi-circulaires de 1,8 mm, à marge entière ou microdenticulée. Pétales orbiculaires ou ovés, un peu anguleux ou non, à nombreuses nervures flabellées peu distinctes, de 1,8-2,5 × 1,5-2,4 mm, étalés ou cambrés voire tubulés. Disque en coussin annulaire de 1,5-1,7 mm de diamètre et 0,5 mm d'épaisseur, parfois un peu patelli-forme, séparé de l'ovaire par un profond sillon périgyne. Étamines de 1-1,5 mm, profondément insérées, arquées extrorses; anthère à loges confluentes et transversalement déhiscentes, larges d'environ 0,5 mm. Pistil profond, trilobé à la base, subulé en style court, orné de petites taches longitudinales. Loges sous le niveau supérieur du disque et à base un peu plus profonde que celle des filets; 2 ovules superposés par loge, exceptionnellement juxtaposés.
+Inflorescences in axillary sessile glomules (1)3–8(10)-flowered. Pedicels slender or not (3)4–13 mm. Bud globose or shortly ovoid 1.5–2.2 mm wide. Flowers dark violaceous, violet, dark purple, red, pink or rarely white, rotate, 4–6 mm in diameter. Sepals very unequal, some ovate 0.9 mm wide, the largest semicircular 1.8 mm, margin entire or microdenticulate. Petals orbicular or ovate, somewhat angular or not, with numerous indistinct flabellate veins, 1.8–2.5 × 1.5–2.4 mm, spreading or arcuate or even tubular. Disk cushion-shaped annular 1.5–1.7 mm in diameter and 0.5 mm thick, sometimes somewhat patellifom, separated from the ovary by a deep perigynous groove. Stamens 1–1.5 mm, deeply inserted, arcuate extrorse; anther with confluent locules and transversely dehiscent, about 0.5 mm wide. Pistil deep, trilobed at base, subulate into short style, adorned with small longitudinal spots. Locules below the upper level of the disk and with base somewhat deeper than that of the filaments; 2 superposed ovules per locule, exceptionally juxtaposed.
 
-Fruits globuleux, un peu ellipsoïdes ou un peu plus larges que longs, de 1,5-3 cm, rouge orangé lisse et tachés de marbrures violacées ou foncées. Exocarpe mince. Graines 1-3 par fruit. - Pl. 21, fig. 14-24, p. 81.
+Fruits globose, somewhat ellipsoid or somewhat wider than long, 1.5–3 cm, smooth orange-red and spotted with violaceous or dark marblings. Exocarp thin. Seeds 1–3 per fruit. - Pl. 21, fig. 14–24, p. 81.
 
 ## Type
 
@@ -35,13 +33,11 @@ Barter s.n., Nigeria, Nupe, 1859 (holo-, K!; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Ivory Coast, Ghana (Hall 1892, K), Dahomey (Eijnatten 2267, WAG), Nigeria, Cameroon, Gabon, Congo (Hallé F. 1672, with white flowers), Zaïre, Zimbabwe.
 
-Guinée, Côté-d'Ivoire, Ghana (Hall 1892, K), Dahomey (Eijnatten 2267, WAG), Nigeria, Cameroun, Gabon, Congo (Hallé F. 1672, à fleurs blanches), Zaïre, Zimbabwe.
+Undergrowth or margins of dense forests sometimes periodically flooded.
 
-Sous-bois ou lisières de forêts denses parfois périodiquement inondables.
-
-Affinités : avec les Salacia loloensis Loes. et mayumbensis Exell & Mendonça. Le disque est parfois marqué de taches rayonnantes mais non de stries en relief comme chez ces deux espèces. Les macules de l'ovaire et du fruit sont parfois similaires chez ces trois espèces dont les boutons, les calices, les étamines et les ovules se ressemblent.
+Affinities: with Salacia loloensis Loes. and mayumbensis Exell & Mendonça. The disk is sometimes marked with radiating spots but not with relief striae as in these two species. The maculations of the ovary and fruit are sometimes similar in these three species whose buds, calyces, stamens and ovules resemble one another.
 
 ## Specimens examined
 

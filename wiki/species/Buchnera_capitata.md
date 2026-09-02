@@ -20,7 +20,7 @@ in DC., Prodr. 10 : 495 (1846). Annual herb, scabrous and rigid, 20–50 cm in h
 
 ## Distribution
 
-widespread in Guinea-Conakry, Ghana, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Rwanda, Burundi, Uganda, Ethiopia, Kenya, Tanzania, Malawi, Zambia, Mozambique and Madagascar; in Gabon, observed in the Estuary, Middle Ogooué and Ngounié
+widespread in Guinea-Conakry, Ghana, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Rwanda, Burundi, Uganda, Ethiopia, Kenya, Tanzania, Malawi, Zambia, Mozambique and Madagascar; in Gabon, observed in the Estuaire, Moyen-Ogooué and Ngounié
 
 ## Ecology
 

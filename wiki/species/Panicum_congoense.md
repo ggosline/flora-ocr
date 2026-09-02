@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb about 50 cm tall, culms branched, lower sheaths pubescent, ligule ciliate; blades linear, rolled, 2 mm wide (when flattened) and about 10 cm long.
 
-Herbe pérenne d'une cinquantaine de cm de haut, chaumes ramifiés, gaines inférieures pubescentes, ligule ciliée; limbes linéaires, enroulés, de 2 mm de large (à plat) et d'une dizaine de cm de long.
+Panicle branched to the 3rd degree, 10 to 15 cm long. Spikelets glabrous, more or less tinged with red. Glumes similar, lanceolate, the lower one generally with 3 nerves, the upper one with 5. Lower flower male, as long as the glumes; lemma with 5 nerves of lighter colour than that of the glumes; palea somewhat shorter, acuminate. Upper flower white, about 1 mm long.
 
-Panicule ramifiée jusqu'au 3° degré, de 10 à 15 cm de long. Épilets glabres, plus ou moins teintés de rouge. Glumes semblables, lancéolées, l'inférieure généralement à 3 nervures, la supérieure à 5. Fleur inférieure mâle, aussi longue que les glumes; lemma à 5 nervures de teinte plus claire que celle des glumes; paléa un peu plus courte, acuminée. Fleur supérieure blanche, d'environ 1 mm de long.
-
-Espèce signalée au Gabon et au Congo, où elle colonise les sables côtiers très lessivés; elle ne présente pratiquement pas d'intérêt économique.
+Species recorded from Gabon and Congo, where it colonizes highly leached coastal sands; it presents practically no economic interest.
 
 ## Specimens examined
 

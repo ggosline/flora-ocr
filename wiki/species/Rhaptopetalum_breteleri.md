@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 6 m tall, 15 cm in diameter; bark fibrous with red section and darker patches; twigs grey longitudinally furrowed; terminal bud 10–12 mm long; petiole 6–8 mm long, flattened on the upper surface. Lamina coriaceous, elliptic, reaching 7–10 × 15–22 cm; base broadly acute to obtuse; apex obtuse or rounded with a deltoid acumen, 1 cm long, with obtuse or rounded apex; 6–10 pairs of ascending lateral veins; glandular punctations rather inconspicuous beneath the lamina.
 
-Arbuste de 6 m de hauteur, de 15 cm de diamètre; écorce fibreuse à section rouge avec taches plus foncées; rameaux gris sillonnés longitudinalement; bourgeon terminal long de 10-12 mm; pétiole long de 6-8 mm, aplati à la face supérieure. Limbe coriace, elliptique, atteignant 7-10 × 15-22 cm; base largement aiguë à obtuse; sommet obtus ou arrondi avec acumen deltoïde, long de 1 cm, à apex obtus ou arrondi; 6-10 paires de nervures latérales ascendantes; ponctuations glanduleuses peu nettes sous le limbe.
+Racemes supra-axillary and on leafless twigs measuring up to 4 cm in diameter, with axis not exceeding 5 mm in length and bearing up to 10 flowers at most; pedicel 2–4 mm long. Calyx green finely glandular, cupuliform flared but abruptly and rather elongately (1.5–2.5 mm) constricted at the base, 4–6 mm total height and 8–10 mm in diameter, with broadly crenate margin but very rapidly and deeply divided into 4–6 sectors often rounded on the sides and with a beaded margin; corolla bud ellipsoid elongate, 10 mm, constricted at the base, acute at the apex; stamens 6–7 mm long; ovary hemispherical, 3 mm high, with 4–5 pluriovulate locules with axile placentation, style 10 mm long.
 
-Racèmes supra-axillaires et sur rameaux défeuillés mesurant jusqu'à 4 cm de diamètre, à axe ne dépassant pas 5 mm de longueur et portant jusqu'à 10 fleurs au maximum; pédicelle long de 2-4 mm. Calice vert finement glanduleux, cupuliforme évasé mais brusquement et assez longuement (1,5-2,5 mm) rétréci à la base, de 4-6 mm de hauteur totale et 8-10 mm de diamètre, à marge largement festonnée mais très rapidement et profondément fendue en 4-6 secteurs souvent arrondis sur les côtés et avec marge ourlée; bouton de la corolle ellipsoïde allongé, 10 mm, constricté à la base, pointu au sommet; étanines longues de 6-7 mm; ovaire hémisphérique, haut de 3 mm, à 4-5 loges pluriovulées à placentation axile, style long de 10 mm.
-
-Jeunes fruits subglobuleux ± obovoïdes avec 4-5 sillons méridiens ± visibles et couverts de minuscules écailles (dorées?); péricarpe coriace avec mésocarpe lacuneux charnu. PL. 47, p. 171.
+Young fruits subglobose ± obovoid with 4–5 meridian furrows ± visible and covered with minute scales (golden?); pericarp coriaceous with fleshy lacunose mesocarp. PL. 47, p. 171.
 
 ## Type
 
@@ -31,17 +29,13 @@ Breteler 2754, Cameroun (holo-, WAG!; iso-, BR! K! P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+Rhaptopetalum breteleri R. Let. shows great affinities with R. coriaceum Oliv. but is distinguished from it by its larger elliptic leaf (and not obovate to lanceolate), its more developed floral calyx, its elongate corolla bud; the fruit presents 4–5 furrows but appears to be also subdrupaceous. These differences, as well as the geographical isolation of the sole known specimen, permit, at least provisionally, considering these two taxa as distinct.
 
-Rhaptopetalum breteleri R. Let. présente de grandes affinités avec R. coriaceum Oliv. mais s'en distingue par sa feuille elliptique plus grande (et non obovale à blancéolée), son calice floral plus développé, son bouton de corolle allongé; le fruit présente 4-5 sillons
+PHYTOGEOGRAPHIC NOTES:
 
-mais paraît être aussi subdrupacé. Ces différences, ainsi que l'isolement géographique du seul échantillon connu, permettent, au moins provisoirement, de considérer ces deux taxons comme distincts.
-
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Cette espèce n'est connue que par l'échantillon Breteler 2754 provenant d'une zone marécageuse de la région de Nguéléméndouka près Abong Mbang au Cameroun.
+This species is known only from the specimen Breteler 2754 from a marshy zone in the Nguéléméndouka region near Abong Mbang in Cameroon.
 
 ## Specimens examined
 

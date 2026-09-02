@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 3, 20(2): 326 (1998). – TYPE: Thollon s.n., Gabon, holo-P!
 
-Adansonia, ser. 3, 20(2): 326 (1998). – TYPE : Thollon s.n., Gabon, holo-P!
+Plants 35–39 cm, erect, glabrous. Leaves situated in the lower 1/3 of the stem, < 7 × 1.5 cm, linear-lanceolate, acute, from erect to ascending. Spike 9–10 cm, rather lax, plurilateral, 13–17-flowered. Flowers rather small, resupinate. Sepals cucullate; lateral sepals obliquely ovate, apex acute, asymmetrical. Petals glabrous, unequally bipartite; upper part linear, obtuse; lower part linear, obtuse. Lip trilobed, finely pubescent; lobes obtuse, divided from the base: the median linear, the lateral filiform. Spur narrowly cylindric, pendent – Pl. 22, p. 51.
 
-Plantes 35-39 cm, dressées, glabres. Feuilles situées au 1/3 inférieur de la tige, < 7 × 1,5 cm, linéaires-lancéolées, aiguës, de dressées à ascendantes. Épi 9-10 cm, assez lâche, plurilatéral, 13-17-flore. Fleurs assez petites, résupinées. Sépales cucullés ; sépales latéraux obliques ovés, sommet aigu, asymétrique. Pétales glabres, inégalement bipartites ; partie supérieure linéaire, obtuse ; partie inférieure linéaire, obtuse. Labelle trilobé, finement pubescent ; lobes obtus, divisés depuis la base : le médian linéaire, les latéraux filiformes. Éperon étroitement cylindrique, pendant – Pl. 22, p. 51.
-
-PL. 20. – Podandriella macrandra (Lindl.) Szlach. & Olsz. : A, éperon, ovaire et pédicelle ; B, bractée ; C, labelle ; D, base du labelle, détail ; E, sépale dorsal ; F, pétale ; G, sépale latéral ; H, gynostème, vue latérale ; I, base du gynostème, détail ; J, partie centrale du gynostème étalé, vue antérieure (A-J, Mpom 530, P).
+PL. 20. – Podandriella macrandra (Lindl.) Szlach. & Olsz.: A, spur, ovary and pedicel; B, bract; C, lip; D, base of lip, detail; E, dorsal sepal; F, petal; G, lateral sepal; H, gynostemium, lateral view; I, base of gynostemium, detail; J, central part of gynostemium spread, anterior view (A–J, Mpom 530, P).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce connue seulement par son type du Gabon
+species known only from its type from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-inconnue
+unknown
 
 ## Specimens examined
 

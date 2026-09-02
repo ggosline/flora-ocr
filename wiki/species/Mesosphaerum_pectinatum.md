@@ -19,7 +19,7 @@ Hyptis pectinata (L.) Poit., Ann. Mus. Nat. Hist. Nat. Paris 7 : 474, t. 30 (180
 
 ## Distribution
 
-Widespread, native to Central and South America; in Africa, including Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon, known only from three specimens from the Estuary (vicinity of Libreville), collected in 1900. Conservation status: Widespread; probably Least Concern (LC)
+Widespread, native to Central and South America; in Africa, including Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon, known only from three specimens from the Estuaire (vicinity of Libreville), collected in 1900. Conservation status: Widespread; probably Least Concern (LC)
 
 ## Ecology
 

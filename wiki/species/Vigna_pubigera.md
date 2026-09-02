@@ -20,7 +20,7 @@ in Oliv., Fl. trop. Afr. 2 : 201 (1871). Climbing herb, pubescent. Stipules ovat
 
 ## Distribution
 
-from Senegal to Sudan and extending to Zambia and Angola; in Gabon, known only from the Upper Ogooué
+from Senegal to Sudan and extending to Zambia and Angola; in Gabon, known only from the Haut-Ogooué
 
 ## Ecology
 

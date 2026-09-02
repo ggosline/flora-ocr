@@ -16,27 +16,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Hippocratea? longipes OLIV., FTA 1: 367 (1868).
 
 – Thyrsosalacia ? longipes (OLIV.) LOES., Fedde Repert. 49 : 229 (1940).
 
-1. Pétiole souvent inférieur à 6 mm. 2. Liane grêle haute de 1-6 m ; pétioles de 1-5 mm ; limbe long de 10-19 cm, à 8-15 paires de nervures secondaires ; pédicelle floral de 10-17 mm ; disque de 2,8-3 mm de diamètre ..... 8a. var. longipes
+1. Petiole often less than 6 mm. 2. Slender vine 1–6 m tall; petioles 1–5 mm; blade 10–19 cm long, with 8–15 pairs of secondary veins; floral pedicel 10–17 mm; disc 2.8–3 mm in diameter ..... 8a. var. longipes
 
-2'. Liane dépassant 10-15 m ; pétiole de 2-10 mm ; limbe long de 3-18 cm à 6-12 paires de nervures secondaires ; pédicelle floral de 9-14 mm ; disque d'environ 2 mm de diamètre ..... 8b. var. camerunensis
+2'. Vine exceeding 10–15 m; petiole 2–10 mm; blade 3–18 cm long with 6–12 pairs of secondary veins; floral pedicel 9–14 mm; disc approximately 2 mm in diameter ..... 8b. var. camerunensis
 
-1'. Pétiole jamais inférieur à 6 mm ..... 8c. var. longipetiolata (commun et surtout Congo et Zaïre).
+1'. Petiole never less than 6 mm ..... 8c. var. longipetiolata (common especially in Congo and Zaire).
 
 8a. var. longipes
 
-Liane entièrement glabre, plutôt grêle, atteignant (1)-4-6 m ; bois cylindrique observé sans anomalie de structure pour 1 cm de diamètre. Pas de caoutchouc. Entre-nœuds cylindriques ou à 4 arêtes. Feuilles opposées ou subopposées. Pétiole souvent très court, de 1-5 mm. Limbe variable de 10-19 × 3,5-6,5 cm ou atteignant jusqu'à 23(-30) × 8(10,5) cm ; base obtuse, arrondie ou un peu cordée ; sommet acuminé, 0,5-1 cm, à étroitement rostré, 1-2,8 cm ; dents marginales variables distinctes à peu distinctes ; nervures principales en relief dans un étroit sillon dessus, pâles et saillantes dessous. Nervures secondaires 8-15 paires formant des arceaux souvent distants de 4-6 mm de la marge ; fin réseau flabellé, bien apparent à sec ; limbe concolore.
+Vine entirely glabrous, rather slender, reaching (1)–4–6 m; cylindrical wood observed without structural anomaly for 1 cm in diameter. No rubber. Internodes cylindrical or with 4 angles. Leaves opposite or subopposite. Petiole often very short, 1–5 mm. Blade variable 10–19 × 3.5–6.5 cm or reaching up to 23(–30) × 8(10.5) cm; base obtuse, rounded or slightly cordate; apex acuminate, 0.5–1 cm, or narrowly rostrate, 1–2.8 cm; marginal teeth variable distinct to indistinct; principal veins prominent in a narrow groove above, pale and prominent below. Secondary veins 8–15 pairs forming arcs often 4–6 mm distant from the margin; fine flabellate reticulation, well apparent when dry; blade concolorous.
 
-Inflorescences ± retombantes à simple pédoncule axillaire grêle de (0,5-2,5-9 cm de longueur, divisé au sommet en deux glomérules ou arbuscules pluriflores ; petites bractées aiguës de 1-2(3) mm. Bouton vert pâle un peu plus large que long, jusqu'à 3-3,5 mm de diamètre. Pédicelle floral de 10-17 mm. Sépales 5 jaunâtres nettement inégaux, se réfractant à l'anthère. Pétales 5 jaune ocracé ou orangé pâle, ovés, de 3,5-5 × 2,2-3 mm, cambrés en selle et se présentant espacés entre eux à l'anthèse. Disque largement charnu, de 2,8-3 mm de diamètre, subpentagonal, brun roux, caractérisé par un petit rebord supérieur externe, 6 fossettes supérieures (empreintes des loges d'anthères) et un sillon périgyne interne où s'insèrent 3 courtes étamines. Anthères arquées larges de 1,2
+Inflorescences ± pendulous with simple slender axillary peduncle (0.5–)2.5–9 cm long, divided at the apex into two glomules or pluriflorous arbuscles; small acute bracts 1–2(3) mm. Bud pale green slightly wider than long, up to 3–3.5 mm in diameter. Floral pedicel 10–17 mm. Sepals 5 yellowish distinctly unequal, reflexing at anthesis. Petals 5 ochraceous yellow or pale orange, ovate, 3.5–5 × 2.2–3 mm, arched like a saddle and appearing spaced between them at anthesis. Disc broadly fleshy, 2.8–3 mm in diameter, subpentagonal, reddish-brown, characterized by a small external superior rim, 6 superior fossettes (impressions of anther locules) and an internal perigynous groove where 3 short stamens are inserted. Anthers curved 1.2 mm wide; filament 0.6–1 mm, rather broad. Style pyramidal short, yellowish; 3 sunken locules; 2 superposed ovules per locule.
 
-mm ; filet de 0,6-1 mm, plutôt large. Style pyramidal court, jaunâtre ; 3 loges enfoncées ; 2 ovules superposés par loge.
-
-Fruit oblong, ± acuminé, parfois arqué, à épiderme ± verruculeux, de 3,5-6,5 × 1,5-2 cm, rouge orangé vif à maturité, observé avec 1-2 graines allongées, 33-34 × 7-9,5 mm, à cotylédons séparés, à embryon structuré. - Pl. 18, fig. 1-11, p. 67.
+Fruit oblong, ± acuminate, sometimes curved, with ± verrucose epidermis, 3.5–6.5 × 1.5–2 cm, bright orange-red at maturity, observed with 1–2 elongate seeds, 33–34 × 7–9.5 mm, with separated cotyledons, with structured embryo. - Pl. 18, fig. 1–11, p. 67.
 
 ## Type
 
@@ -46,29 +42,27 @@ Zenker 294, Cameroun (iso-, K !) ; à fleurs assez grandes et feuilles plutôt c
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The typical variety is in part well distinct but also linked to the following by numerous intermediate forms from southern Cameroon, Gabon and Congo. The Cristal Mountains occupy the center of the relatively limited distributional area of the typical form of this variety.
 
-La variété-type est pour une part bien distincte mais liée aussi à la suivante par des formes intermédiaires nombreuses du Sud Cameroun, du Gabon et du Congo. Les Monts de Cristal occupent le centre de l'aire de distribution relativement limitée de la forme typique de cette variété.
+In describing this Salacia whose fruit he was ignorant of, LOESENER had very justly foreseen the close relationship with Hippocratea? longipes of OLIVER. Both authors, lacking the fruit, had hesitated over the genus. These taxa, now copiously collected, proved to be very closely related to each other, much more so than many of the forms most widespread towards the West and East, where significant variability is observed. Some extreme forms deserve to be noted: fruit shaped like a large plum (Farron 4316, Congo); distinctly dentate large leaf (Sita 3613, Congo); fruit like a small plum (Adam 20749, Liberia); winged internodes (Le Testu 8161, Gabon); anther broken at acute apex characterizing the form fredericqii (Wilczek) Hallé, stat. nov. (S. fredericqii Wilczek, Bull. Jard. Bot. Etat Brux. 26 : 418, 1956). TYPE: Frédéricq in de Witte 9552, BR !
 
-En décrivant ce Salacia dont il ignorait le fruit, LOESENER avait très justement prévu l'étroite parenté avec l'Hippocratea ? longipes d'OLIVER. L'un comme l'autre auteur avaient, faute de fruit, hésité sur le genre. Ces taxons, maintenant copieusement récoltés, se sont révélés comme très voisins l'un de l'autre, beaucoup plus même que bien des formes les plus répandues vers l'Ouest et vers l'Est, où s'observe une importante variabilité. Quelques formes extrêmes méritent d'être signalées : fruit en forme de grosse prune (Farron 4316, Congo) ; feuille grande nettement dentée (Sita 3613, Congo) ; fruit en petite prune (Adam 20749, Liberia) ; entre-nœuds ailés (Le Testu 8161, Gabon) ; anthère brisée à sommet aigu caractérisant la forme fredericqii (Wilczek) Hallé, stat. nov. (S. fredericqii Wilczek, Bull. Jard. Bot. Etat Brux. 26 : 418, 1956). TYPE : Frédéricq in de Witte 9552, BR !
-
-Distribution d'ensemble : Liberia, Côte-d'Ivoire (Guillaumeet 1617, Leeuwenberg 4067, Oldeman 563), Ghana, Togo, Dahomey, Nigeria (Latilo FHI 23863, Gangumi, 7.12.1954, fl., j. fr., K!), Cameroun, Gabon, Congo, Zaïre, Cabinda (Gossweiler 8043, BM!).
+General distribution: Liberia, Côte-d'Ivoire (Guillaume 1617, Leeuwenberg 4067, Oldeman 563), Ghana, Togo, Dahomey, Nigeria (Latilo FHI 23863, Gangumi, 7.12.1954, fl., j. fr., K!), Cameroon, Gabon, Congo, Zaire, Cabinda (Gossweiler 8043, BM!).
 
 Breteler 5689, 42 km SE Lambaréné, 26.9.1968 (fl.), WAG ; 5745, 50 km SE Lambaréné, 30.9.1968 (fl.), WAG.
 
 Breteler & De Wilde J.J. 569, Bélinga, 750 m, 13.9.1978 (fl.), WAG.
 
-Farron 7651, Ipassa, S Makokou, 29.6.1970; même nº, 3.7.1970.
+Farron 7651, Ipassa, S Makokou, 29.6.1970; same no., 3.7.1970.
 
-Florence 613, Ipassa, S Makokou, 500 m, 8.3.1978 (fl. à pétales jaune citron).
+Florence 613, Ipassa, S Makokou, 500 m, 8.3.1978 (fl. with lemon-yellow petals).
 
-Hallé N. 3198, 3219, Bélinga, 900 m, 17. 11.1964 (fl.); 3321, ibid., 24.11.1964 (fl.); 3746, ibid., 700-1000 m, 6.6.1966 (fl.).
+Hallé N. 3198, 3219, Bélinga, 900 m, 17.11.1964 (fl.); 3321, ibid., 24.11.1964 (fl.); 3746, ibid., 700–1000 m, 6.6.1966 (fl.).
 
-Hallé N. & Le Thomas 552, Bélinga, 700 m, 16.8.1966 (fl.); 740 (16 bis, relevé forestier), ibid., 7.1966.
+Hallé N. & Le Thomas 552, Bélinga, 700 m, 16.8.1966 (fl.); 740 (16 bis, forest plot), ibid., 7.1966.
 
-Le Testu 1326, Ikolé, Mayombe bayaka, 14.4.1908 (fl.); 6505, Nzoundou, Riv. Ngounié, 17.6.1927 (fr.); 7357, Lastoursville, 11.6.1929 (fl.); 7584, ibid., 31.10.1929 (fl.), aff. var. longivetiolata: 8005. Koulamotou, 5.4.1930 (fl.); 8161. Kessipoucou, 19.7.1930 (fl.)
+Le Testu 1326, Ikolé, Mayombe bayaka, 14.4.1908 (fl.); 6505, Nzoundou, Riv. Ngounié, 17.6.1927 (fr.); 7357, Lastoursville, 11.6.1929 (fl.); 7584, ibid., 31.10.1929 (fl.), aff. var. longipetiolata: 8005, Koulamotou, 5.4.1930 (fl.); 8161, Kessipoucou, 19.7.1930 (fl.)
 
-MATÉRIEL COMPLÉMENTAIRE (Cameroun):
+ADDITIONAL MATERIAL (Cameroon):
 
 Bamps 1456, Rés. For. Makak, 11°1'E, 3°29'N, 14.12.1967 (fl.), BR.
 
@@ -78,21 +72,21 @@ Bos 4993, 10 km NE Kribi, 3.7.1969 (fr.).
 
 Brenan & Onochie 9403, Banga, S Bakundu, 13.3.1948 (j. bout.); 9488, ibid., 19.3.1948 (fl.)
 
-Leeuwenberg 5266, 10 km W Masok, 400 m, 30.3.1965 (fl.); 5390, ibid., près Ekem, 5.4.1965 (fl.)
+Leeuwenberg 5266, 10 km W Masok, 400 m, 30.3.1965 (fl.); 5390, ibid., near Ekem, 5.4.1965 (fl.)
 
-Letouzey 8117, 17 km ENE Sabomelina (Djoum), colline 1011 m, 19.10.1966 (fr.); 9869, colline d'Ebaléboum près Meyos, 15 km SE Ebolowa, 19.1.1970 (fr.); 11925, 36 km SSE Ngoila, Souanké, 11.2.1973 (fl.).
+Letouzey 8117, 17 km ENE Sabomelina (Djoum), hill 1011 m, 19.10.1966 (fr.); 9869, hill of Ebaléboum near Meyos, 15 km SE Ebolowa, 19.1.1970 (fr.); 11925, 36 km SSE Ngoila, Souanké, 11.2.1973 (fl.).
 
 Raynal J. & A. 10317, 59 km ENE Nyabessan, 8.3.1963 (bout.).
 
-Zenker 294, Yaoundé, 1894 (fl.), K ; 805, ibid., 1896 (fl.), BM, G, K, P ; 4793, 4798, Bipindi, 1913 (fl. bout.). Zenker & Staudt 261, Yaoundé, 1890-94 (fl.), BM, BR, K.
+Zenker 294, Yaoundé, 1894 (fl.), K ; 805, ibid., 1896 (fl.), BM, G, K, P ; 4793, 4798, Bipindi, 1913 (fl. bout.). Zenker & Staudt 261, Yaoundé, 1890–94 (fl.), BM, BR, K.
 
 8c. var. longipetiolata (Loesener) Hallé, stat. nov.
 
-– Salacia camerunensis LOES. var. longipetiolata LOES., Bot. Jahrb. 44: 176 (1910); in Mildbr., Deutsch, Zentr.-Afr.-Exped. 1907-1908, 2: 471 (1912); Wilczek, FCB 9: 216 (1960). TYPE: Mildbraed 3210, Zaire, Ituri (non vu, vraisemblablement perdu).
+– Salacia camerunensis LOES. var. longipetiolata LOES., Bot. Jahrb. 44: 176 (1910); in Mildbr., Deutsch, Zentr.-Afr.-Exped. 1907–1908, 2: 471 (1912); Wilczek, FCB 9: 216 (1960). TYPE: Mildbraed 3210, Zaire, Ituri (not seen, probably lost).
 
-Surtout au Congo et au Zaïre. Les nombreux intermédiaires rapprochent cette variété de la précédente.
+Especially in Congo and Zaire. The numerous intermediate forms bring this variety closer to the preceding one.
 
-Au Gabon, une tendance seulement a été observée chez Le Testu 7584, voir ci-dessus, qui appartient plutôt à la variété précédente. A rechercher dans le sud du Gabon.
+In Gabon, only a tendency was observed in Le Testu 7584, see above, which belongs rather to the preceding variety. To be sought in southern Gabon.
 
 ## Specimens examined
 

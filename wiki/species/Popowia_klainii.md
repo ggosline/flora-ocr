@@ -22,21 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL.39, p. 219)
 
-Engler,Monogr.Afr.Pflanzenf.6:52 (19o1).—Pellegrin,Bull Soc.Fr.,Mém. 31:64 (1949).- Le Thomas,Adansonia,ser.2,3 (2):29o (1963).— Paiva,Mem.Soc.Brot.19 :36 (1966).
+Engler, Monogr. Afr. Pflanzenf. 6: 52 (1901).—Pellegrin, Bull Soc. Fr., Mém. 31: 64 (1949).— Le Thomas, Adansonia, ser. 2, 3 (2): 290 (1963).— Paiva, Mem. Soc. Brot. 19: 36 (1966).
 
-a.var. Klainii
+a. var. Klainii
 
-Liane atteignant 15 m de hauteur et 6-7 cm de diametre; rameaux glabres ä lenticelles claires,ramilles pubérulentesä glabres.Entrenceuds longs de 1-5,5 cm. Feuilles á pétiole épais, long de 3-9 mm,pubérulent á glabre; limbe subcoriace,discolore, largement obové, long de 6-23 cm,large de 3,5-11,5 cm,arrondi et subcordé a la base,arrondi,± brusquement et courtement acuminé au sommet; face supérieure glabre,face inférieure blanchatre
+Liana reaching 15 m in height and 6-7 cm in diameter; branches glabrous with pale lenticels, branchlets puberulent to glabrous. Internodes 1-5.5 cm long. Leaves with thick petiole, 3-9 mm long, puberulent to glabrous; blade subcoriaceous, discolorous, broadly obovate, 6-23 cm long, 3.5-11.5 cm wide, rounded and subcordate at the base, rounded, ± abruptly and shortly acuminate at the apex; upper surface glabrous, lower surface whitish and satiny, sparsely covered with appressed hairs. Midrib impressed above, prominent below; lateral nerves 7-13 pairs, well visible below, terminating in arcuate fashion near the margin; nervilles distinct and parallel.
 
-et satinée, clairsemée de poils apprimés.Nervure médiane imprimée au-dessus, proéminente en dessous; nervures latérales 7-13 paires, bien visibles en dessous, se terminant en arceaux pres de la marge; nervilles distinctes et paralleles.
+Inflorescences cauline, in fascicles of 1-6-flowered umbelliform cymes; peduncle 1-2 mm long; bracts minute, cucullate. Flowers, "reddish" (Klaine 1714), or "pearly white" (Hallé 920), with pedicel 1-1.5 cm long, puberulent, bearing a very small triangular-ovate bractlet at the base. Sepals broadly triangular-ovate, c. 1 mm long, 1.5 mm wide, puberulent. Petals thick, valvate at the apex, not overlapping at the base, puberulent-tomentose on the outside, glabrous on the inside; outer ones ovate to suborbicular, c. 4 mm long, c. 3 mm wide; inner ones elliptic-oblong, concave, ± unguiculate at the base, c. 3 mm long, 1.5-2 mm wide. Stamens 8-9, in a single whorl, connate at the base by the filaments in a very short tube, 0.7-1 mm long, anthers with lateral oblique thecae, ± transverse dehiscence, filaments short, connectives well developed but not exceeding the anthers. Staminodes alternate, 0.3 mm long. Carpels c. 20, 2.5 mm long, ovaries oblong, pubescent, stigmas sessile, ellipsoid ± globose, sometimes bilobed, glabrous. Ovules 1-2, lateral.
 
-Inflorescences caulinaires,en fascicules de cymes ombelliformes 1-6-flores;pédoncule long de 1-2 mm;bractées minuscules, cucullées.Fleurs ,“ rougeatres ) (Klaine 1714),ou“ blanc nacré ) (Hallé g2o),a pédicelle long de 1-1,5 cm,pubérulent,muni d'une tres petite bractéole triangulaire-ovée ä la base.Sépales largement triangulaires-ovés,longs de I mm environ,larges de 1,5 mm, pubérulents.Pétales épais,valvaires au sommet,non recouvrant ä la base,pubérulents-tomenteux ä l'extérieur,glabres á l'inté- rieur; les externes,ovés a suborbiculaires,longs de ± 4 mm, largcs de ± 3 mm; lcs intcrncs, clliptiqucs-oblongs,concavcs, ± onguiculés a la base, longs de ± 3 mm, larges de 1,5-2 mm. Etamines 8-9, en un seul cycle,soudees a leur base par le filet en un tube tres court, longues de o,7-1 mm, theques latérales obliques, a dehiscence ± transversale, filets courts,connectifs bien développés mais ne dépassant pas les antheres. Staminodes alternes, longs de o,3 mm. Carpelles 2o environ,longs de 2,5 mm, ovaires oblongs, pubescents,stigmates sessiles,ellipsoides ± globuleux,parfois bilobé,glabres.Ovules I-2, latéraux.
-
-Fruits rouge orangé,caulinaires sur le vieux bois,a pédicelle long de 1,5-2 cm,glabre;méricarpes stipités,composés de 1-2 articles ellipsoides-globuleux, longs de 1,2-1,4 cm,larges de o,6- 0,9 cm,tomentelleux ä glabrescents;stipes longs de o,3-o,5 cm. Graines 1-2,ellipsoides-globuleuses,longues de o,8-1 cm,larges de 0,6-0,9 cm.
+Fruits orange-red, cauline on old wood, with pedicel 1.5-2 cm long, glabrous; mericarps stipitate, composed of 1-2 ellipsoid-globose articles, 1.2-1.4 cm long, 0.6-0.9 cm wide, tomentellose to glabrescent; stipes 0.3-0.5 cm long. Seeds 1-2, ellipsoid-globose, 0.8-1 cm long, 0.6-0.9 cm wide.
 
 ## Type
 
@@ -46,11 +42,9 @@ Le Testu 85g5,région de Lastoursville,Poungou poubi, Gabon, fl. (holotype P!;is
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species of Popowia is particularly remarkable for its inflorescences in cauline fascicles, the flower structure of which closely recalls that of Enneastemon Vogelii (Hook.f.) Keay, especially in the number and form of the stamens, as well as in the presence of intercalary staminodes.
 
-Cette espéce de Popowia est particulierement remarquable par ses inflorescences en fascicules caulinaires,dont la structure de la fleur ,rappelle beaucoup celle de l'Enneastemon Vogelii (Hook.f.)Keay,spécialement dans le nombre et la forme des étamines,ainsi que la présence de staminodes intercalaires.
-
-Espece connue en Cote d'Ivoire,au Gabon, Congo-Kinshasa, Angola,en forét marécageuse ou inondable.
+Species known from Ivory Coast, Gabon, Congo-Kinshasa, Angola, in swampy or inundable forest.
 
 ## Specimens examined
 

@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in MART., Fl. Bras. 12 (2) : 449 (1877). — EXELL & MENDONÇA, Consp. Fl. Angol. 1 : 249 (1851). — KEAY, FWTA ed. 2, 1 : 355 (1958). — AUBRÉVILLE, Fl. Forest. Côté d'Ivoire ed. 2, 1 : 368 (1959). — J. CUATRECASAS, A Taxonomic revision of the Humiriaceae, Contr. U.S. Nat. Herb. 35 : 2 (1961).
 
 — Aubrya gabonensis BaILL., Adansonia 2 : 266 (1862). — OLIVER, FTA 1 : 275 (1868).
@@ -26,11 +24,11 @@ in MART., Fl. Bras. 12 (2) : 449 (1877). — EXELL & MENDONÇA, Consp. Fl. Angol
 
 — Sacoglottis gabunensis EXELL, Journ. Bot. London 75, Suppl. Polypet. : 50 (1927).
 
-Arbre haut de 20-40 m et de 60-80 cm de diamètre, glabre. Fût profondément et irrégulièrement cannelé. Feuilles alternes, simples, pétio-lées; stipules extra-axillaires caduques; pétiole rugueux, long de 2-3 mm. Limbe elliptique à oblong-elliptique, à bords très légèrement crénelés, très longuement décurrent à la base, caudé au sommet, 9-17 × 3,5-4,5 cm. Nervures secondaires anastomoses en arceaux et nervilles saillantes surtout à la face inférieure.
+Tree 20–40 m tall and 60–80 cm in diameter, glabrous. Trunk deeply and irregularly fluted. Leaves alternate, simple, petiolate; stipules extra-axillary, caducous; petiole rugose, 2–3 mm long. Blade elliptic to oblong-elliptic, with margins very slightly crenate, very long-decurrent at base, caudate at apex, 9–17 × 3.5–4.5 cm. Secondary nervures anastomosing in arches and veinlets prominent especially on the lower face.
 
-Inflorescences pubescentes, multiflores, en cymes bipares, axillaires et terminales; boutons floraux subsphériques à oblongs-rectangulaires, atteignant  $ 6 \times 3 $ mm; pédicelle pubescent, long d'environ 1 mm. Sépales 5, libres, imbriqués, pubescents à l'extérieur surtout dans leur partie basale plus épaisse, ciliés, émarginés au sommet, largement orbiculaires, d'environ 1,5 mm de hauteur sur 2,5 mm de largeur. Pétales 5, vert pâle, libres, imbriqués, linéaires, onguiculés, un peu plus larges à la base, pubescents à l'extérieur, longs de 6-7 mm, caduques. Étamines vert pâle, glabres, alternativement longues et courtes, libres; filets aplatis; anthères ovées, versatiles. Disque membraneux, appliqué contre l'ovaire, divisé au sommet en languettes fines. Ovaire glabre, globuleux, d'environ  $ 1 \times 1,5 $ mm, à 5 sillons profonds et larges au sommet, 5-loculaire; un ovule par loge, pendant ; style 5-sillonné, long d'environ 4 mm; stigmate terminal, capité.
+Inflorescences pubescent, multiflorous, in dichasial cymes, axillary and terminal; floral buds subspherical to oblong-rectangular, reaching 6 × 3 mm; pedicel pubescent, approximately 1 mm long. Sepals 5, free, imbricate, pubescent on the outside especially in their thicker basal portion, ciliate, emar­ginate at apex, broadly orbicular, approximately 1.5 mm high by 2.5 mm wide. Petals 5, pale green, free, imbricate, linear, unguiculate, somewhat wider at base, pubescent on the outside, 6–7 mm long, caducous. Stamens pale green, glabrous, alternately long and short, free; filaments flattened; anthers ovate, versatile. Disk membranous, appressed against the ovary, divided at apex into fine lobes. Ovary glabrous, globose, approximately 1 × 1.5 mm, with 5 deep and wide furrows at apex, 5-locular; one ovule per locule, pendulous; style 5-furrowed, approximately 4 mm long; stigma terminal, capitate.
 
-Drupe à endocarpe épais et dur, contenant de nombreuses poches résinifères formant des bosses saillantes à la périphérie de l'endocarpe. PL. 11, 14-19, p. 47.
+Drupe with thick and hard endocarp, containing numerous resiniferous pockets forming prominent bosses on the periphery of the endocarp. PL. 11, 14–19, p. 47.
 
 ## Type
 
@@ -38,9 +36,7 @@ Aubry-le-Comte s.n., Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bords de rivières, de lagunes, lisière de savanes humides, forêts à sol très humide, voire marécageux. Liberia, Côte d'Ivoire, Nigeria, Cameroun, Gabon, Zaïre.
+River banks, lagoon margins, edge of humid savannas, forests with very moist, sometimes swampy soils. Liberia, Côte d'Ivoire, Nigeria, Cameroon, Gabon, Zaïre.
 
 ## Specimens examined
 

@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing shrub with tendrils, subglabrous; branchlets with 5–6 grooves, with internodes of 3–10 cm. Leaves imparipinnate, 5-foliolate; petiole (3)–4–8 cm, winged; stipules 3–4 mm; leaflets oblong with acute base and apex (3)–5–10 × (2–)3–5 cm, with 6–8 pairs of nerves and 3–4 teeth on each side, subcoriaceous, shining; domatia present; rachis 2–6 cm, winged.
 
-Arbuste grimpant par vrilles, subglabre; rameaux à 5-6 cannelures, à entrenœuds de 3-10 cm. Feuilles imparipennées, 5-foliolées; pétiole (3)-4-8 cm, ailé; stipules de 3-4 mm; folioles oblongues à base et sommet aigu (3)-5-10 × (2-3-5 cm, à 6-8 paires de nervures et 3-4 dents de chaque côté, sub-coriaces, brillantes; domaties présentes; rachis 2-6 cm, ailé.
+Inflorescences axillary, in dense racemes (3–4 cm) of scorpioid cymes subsessile with approximately 5 flowers, some borne by an elongate peduncle (8–12 cm) provided with 2–3 tendrils at the base of the raceme, others without tendrils and without peduncle. Flowers 3–4 mm with pedicel 1 mm; 5 unequal sepals, puberulent; 4 glabrous petals with hairy scale on the inside; disk reduced to 2 incurved glands; 8 unequal stamens with hairy filament.
 
-Inflorescences axillaires, en grappes denses (3-4 cm) de cymes scorpioides subsessiles d'env. 5 fleurs, les unes portées par un pédoncule allongé (8-12 cm) muni de 2-3 vrilles à la base de la grappe, les autres sans vrilles et sans pédoncule. Fleurs de 3-4 mm à pédicelle de 1 mm; 5 sépa'les inégaux, pubérulents; 4 pétales glabres à écaille velue à l'intérieur; disque réduit à 2 glandes incurvées; 8 étamines inégales à filet velu.
+Fruit: red ellipsoid capsule, 25 × 12 mm, with 6 ribs, dehiscent into 3 valves; seed erect, black, elongate, 7 × 4 mm, visible on the external side by the slit of the aril; testa thick, 0.5 mm, hard; embryo with straight cotyledons, the upper one plane-convex, embedded in the lower one; radicle pointing downward, hidden in the fold of the testa. PL. 1, 1–9, p. 15.
 
-Fruit : capsule rouge ellipsoïde,  $ 25 \times 12 $ mm, à 6 côtes, déhiscente en 3 valves; graine dressée, noire, allongée,  $ 7 \times 4 $ mm, visible côté externe par la fente de l'arille; tégument épais, 0,5 mm, dur; embryon à cotylédons droits, le supérieur plan-convexe, encastré dans l'inférieur; radicule pointe en bas, cachée dans le repli du tégument. PL. 1, 1-9, p. 15.
-
-Répandu dans toute l’Afrique tropicale.
+Widespread throughout tropical Africa.
 
 ## Vernacular names
 
@@ -33,35 +31,33 @@ elata (mpongwé); nlomé (Bas-Gabon); akin konzé (kaka); nlom (Yaoundé); ndi t
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Annet 339, Bipindi.
 
-Bamps 1641, Lolodorf (fl., janv.).
+Bamps 1641, Lolodorf (fl., Jan.).
 
-Bates 57, Batanga (fl., fév.)
+Bates 57, Batanga (fl., Feb.)
 
-Deistel 48, Buea (fl., mars).
+Deistel 48, Buea (fl., Mar.).
 
-Endengle Elias 80 (= SRFCam 2720), Yaoundé (fl., déc.).
+Endengle Elias 80 (= SRFCam 2720), Yaoundé (fl., Dec.).
 
-FHI 28983, Kuomi (fl., janv.).
+FHI 28983, Kuomi (fl., Jan.).
 
-Hédin 311, Doumé (fl., fr., mars); 334, Njassi (fr., mars).
+Hédin 311, Doumé (fl., fr., Mar.); 334, Njassi (fr., Mar.).
 
 Ladurantie 20, Foumban.
 
-Letouzey 1552, Nikila près Nanga Eboko (fr., juil.); 2079, Epeda près Nanga Eboko (fl. fr., août); 2779, Gounte près Bertoua (fl., fr., janv.); 6705, rives Bénoué, 10 km amont de Garoua (fr., sept.).
+Letouzey 1552, Nikila near Nanga Eboko (fr., Jul.); 2079, Epeda near Nanga Eboko (fl. fr., Aug.); 2779, Gounte near Bertoua (fl., fr., Jan.); 6705, banks of Bénoué, 10 km upstream of Garoua (fr., Sept.).
 
-Mpom Benoît 313 (= SRFCam 2734), Yaoundé (fl., déc.).
+Mpom Benoît 313 (= SRFCam 2734), Yaoundé (fl., Dec.).
 
-Preuss 1173, 1331, 1389, s. 1.
+Preuss 1173, 1331, 1389, s. l.
 
-SRFCam 4523, N Cameroun (fl., août).
+SRFCam 4523, N Cameroon (fl., Aug.).
 
-Staudt 482, Johann Albrechtshöhe (actuel Kumba).
+Staudt 482, Johann Albrechtshöhe (present-day Kumba).
 
-Vroumsia Tchinaye 109, Bertoua (fr., fév.).
+Vroumsia Tchinaye 109, Bertoua (fr., Feb.).
 
 Zenker s. n., 926, 1138, 2228, 2990, 4334, Bipindi.
 

@@ -23,7 +23,7 @@ Monocaulous shrub, up to 5 m tall; trunk ± 5 cm in diameter; trunk generally si
 
 ## Distribution
 
-Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo; in Gabon, in the Estuary, Middle Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo; in Gabon, in the Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 

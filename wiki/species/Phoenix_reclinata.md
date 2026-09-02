@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree up to 10(–12) m tall; stipe caespitose, erect or oblique, up to 20 cm in diameter, bearing leaf sheath remains toward the apex. Leaf: petiole up to 50 cm, concave above, rounded below, margins armed with 10 to 15 leaflets modified into spines and irregularly spaced 3–9 cm apart; lamina comprising 80 to 130 pairs of leaflets 28–45 × 2.2–3.6 cm, regularly arranged in the same plane at the base, in several planes toward the middle and apex, with crenate margins. Male inflorescence erect; prophyll 24–60 × 5–10 cm; peduncle 10–30 × ± 1.5 cm; rachis 17–30 cm; flowering branches 40 to 70, densely clustered, 6–15(–20) cm. Female inflorescence erect then curved in fruit; prophyll as in males; peduncle ± 60 cm; 19 to 40 flowering branches 6–55 cm. Male flower: calyx ± 1 mm long; corolla 6–7 × 2–3 mm, lobes with acuminate apex. Female flower: calyx ± 1.5 mm long; petals suborbicular, ± 2 × 2 mm, pale yellow to orange or red; generally 1 carpel reaching maturity, 3–4 mm long. Fruit ovoid to ellipsoid 13–20 × 7–13 mm; mesocarp 1–2 mm thick, brown-orange, sweet; endocarp hard and fibrous. Seed obovoid, 12–14 × 5–6 mm.
 
-Arbre jusqu’à 10(–12) m de hauteur ; stipe cespiteux, érigé ou oblique, jusqu’à 20 cm de diamètre, portant des restes de gaines foliaires vers le sommet . Feuille : pétiole jusqu’à 50 cm, concave dessus, arrondi dessous, bords armés de 10 à 15 folioles modifiées en épine et irrégulièrement espacés de 3–9 cm ; limbe comprenant 80 à 130 paires de folioles de 28–45 × 2,2–3,6 cm, régulièrement arrangées dans un même plan à la base, dans plusieurs plans vers
-
-Fruit mûr, coupe transversale (× 0,9). (1-12 : Lebrun 7638, 8297 et 4615 ). Dessin par A. Cleuter, Jardin botanique Meise (©), reproduit à partir de Robyns (1955).
-
-le milieu et le sommet, à marges crénelées. Inflorescence mâle érigée ; préfeuille 24–60 × 5–10 cm ; pédoncule 10–30 × ± 1,5 cm ; rachis 17–30 cm ; rameaux florifères 40 à 70, densément groupés, 6–15(–20) cm. Inflorescence femelle érigée puis courbée en fruit ; préfeuille comme pour les mâles ; pédoncule ± 60 cm ; 19 à 40 rameaux florifères de 6–55 cm. Fleur mâle : calice ± 1 mm de longueur ; corolle 6–7 × 2–3 mm, lobes à sommet acuminé. Fleur femelle : calice ± 1,5 mm de longueur ; pétales subcirculaires, ± 2 × 2 mm, jaune pâle à oranges ou rouges ; généralement 1 carpelle atteignant la maturité, 3–4 mm de longueur. Fruit ovoïde à ellipsoïde 13–20 × 7–13 mm ; mésocarpe 1–2 mm d’épaisseur, brun-orange, sucré ; endocarpe dur et fibreux. Graine obovoïde, 12–14 × 5–6 mm.
+Mature fruit, transverse section (× 0.9). (1-12: Lebrun 7638, 8297 and 4615). Drawing by A. Cleuter, Meise Botanical Garden (©), reproduced from Robyns (1955).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement distribué en Afrique tropicale jusqu’en Afrique du Sud, à Madagascar et dans la Péninsule arabique ; planté dans des régions tropicales et subtropicales ; au Gabon, connu de l’Estuaire, de la Nyanga et de l’Ogooué-Maritime. Statut de conservation : Préoccupation mineure (LC)
+Widely distributed in tropical Africa as far as southern Africa, in Madagascar and the Arabian Peninsula; cultivated in tropical and subtropical regions; in Gabon, known from Estuaire, Nyanga and Ogooué-Maritime. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-poussant dans des habitats très différents, en général en forêt tropicale humide, en lisière de forêts, sur sols périodiquement inondés, le long des rivières, en bordure de mer, mais aussi en zone mon tagneuse sous des conditions plus arides ; au Gabon entre 0 et 100 m d’altitude, ailleurs jusqu’à 3000 m
+Growing in very different habitats, generally in humid tropical forest, forest margins, on periodically inundated soils, along rivers, at sea margins, but also in mountainous areas under more arid conditions; in Gabon between 0 and 100 m altitude, elsewhere up to 3000 m
 
 ## Vernacular names
 

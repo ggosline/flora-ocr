@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 LOES., Pflanzenf. 3 (5): 230 (1893); Bot. Jahrb. 44: 193 (1910); PELLEGRIN, Fl. Mayombe 1: 68 (1924); EXELL & MENDONÇA, CFA. 2 (1): 23 (1954).
 
 - S. regeliana J. BRAUN & SCHUM. var. dinklagei LOES., l.c. (1910).
 
-Liane élevée de 5-20 m de hauteur, glabre, dépourvue de caoutchouc. Bois dépassant 2,5 cm de diamètre, montrant en coupe des zones concentriques étroites séparées par des lignes formées comme par des points de couture serrés. Entre-nœuds ruguleux ou lisses, souvent olivâ-tres. Feuilles opposées ou subopposées. Pétiole de 7-15 mm à texture finement crispée à sec et à canal étroit. Limbe souvent olivacé et presque concolore à sec, grand et oblong, de  $ 15-35 \times 4-12 $ cm, à base aiguë ou arrondie ; sommet acuminé ou rostré sur 1-2,5 cm ; marge entière, rarement avec de faibles denticules. Nervures secondaires 11-16 paires, moyennement ou peu ascendantes.
+High liane 5–20 m tall, glabrous, devoid of latex. Wood exceeding 2.5 cm in diameter, showing in cross-section narrow concentric zones separated by lines formed as though by tightly drawn stitching. Internodes rugose or smooth, often olive-tinged. Leaves opposite or subopposite. Petiole 7–15 mm with finely crisped texture when dry and narrow channel. Blade often olivaceous and nearly concolorous when dry, large and oblong, 15–35 × 4–12 cm, with acute or rounded base; apex acuminate or rostrate over 1–2.5 cm; margin entire, rarely with weak denticules. Secondary veins 11–16 pairs, moderately or slightly ascending.
 
-Inflorescences caulinaires en bouquets floraux pauci- à multiflores sur des verrues ou bosses ligneuses échelonnées entre le niveau du sol et 2 m de hauteur. Pédicelles de (2) 4-9,5 cm, souvent très grêles. Bouton de 4-8 mm de diamètre pour 4-5 mm de hauteur. Fleur orangée, variant de jaune ocracé à vermillon, rose ou brun rouge, rotacée, de 20-32 mm de diamètre. Calice étalé à sépales inégaux : 2 ovés et 3 grands ± orbiculaires. Pétales 5 de 9-15 × 10-15 mm, un peu onguiculés, à nombreuses nervures flabellées. Disque à peu près plat, circulaire ou subpentagonal, de 5-7,5 mm de diamètre, marginé (bande marginale dépassant 0,5 mm de largeur sur matériel réhydraté). Étamines de 1,2-2 mm de longueur, à filet large à la base et inséré sans sillon périgyne. Ovaire haut de 1,3-1,6 mm pour sa partie apparente dont le bref style pyramidal. 3 loges à 4-5 (6) ovules chacune, juxtaposés ou superposés.
+Inflorescences cauline in few- to many-flowered flower clusters on wooden warts or bosses scattered between ground level and 2 m in height. Pedicels (2) 4–9.5 cm, often very slender. Bud 4–8 mm in diameter for 4–5 mm in height. Flower orange, varying from ochre-yellow to vermillion, pink or dark red, rotate, 20–32 mm in diameter. Calyx spreading with unequal sepals: 2 ovate and 3 large ± orbicular. Petals 5, 9–15 × 10–15 mm, somewhat unguiculate, with numerous flabellate veins. Disk nearly flat, circular or subpentagonal, 5–7.5 mm in diameter, margined (marginal band exceeding 0.5 mm in width on rehydrated material). Stamens 1.2–2 mm in length, with filament broad at base and inserted without a perigynous groove. Ovary 1.3–1.6 mm in height for its visible part with brief pyramidal style. 3 locules with 4–5 (6) ovules each, juxtaposed or superposed.
 
-Fruit rouge saumoné à maturité, elliptique ou oblong, de 7-11 × 3-5,5 cm, à pédoncule épaissi de 3 mm de diamètre, à surface ornée de plis irréguliers, contenant 4-10 graines enrobées dans un mucilage sucré abondant. Graines de 30-42 × 14-19 mm, poids dépassant 6,5 gr, à
-
-masse cotylédonaire jaune pâle homogène. Bourgeon de l'embryon très réduit de 0,7 mm environ. - Pl. 13, fig. 1-9, p. 47; pl. 41, fig. 8, 9, p. 143.
+Fruit salmon-red at maturity, elliptic or oblong, 7–11 × 3–5.5 cm, with thickened pedicel 3 mm in diameter, with surface ornamented with irregular folds, containing 4–10 seeds enveloped in abundant sweet mucilage. Seeds 30–42 × 14–19 mm, weight exceeding 6.5 g, with homogeneous pale yellow cotyledonary mass. Embryonic bud very reduced, approximately 0.7 mm. – Pl. 13, fig. 1–9, p. 47; pl. 41, fig. 8, 9, p. 143.
 
 ## Type
 
@@ -37,11 +33,9 @@ Braun s.n., Cameroun Muha-Creek, fl. Août 1888 (B, non vu). Matériel de réfé
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The variety dinklagei Loes. does not merit being retained, distinguishing itself only by foliar characters that fall within the normal variation encountered in a single individual.
 
-La variété dinklagei Loes. ne mérite pas d'être conservée, ne se distinguant que par des caractères foliaires qui entrent dans la variation normale rencontrée sur un simple individu.
-
-Cameroun, Gabon, Congo (Bouquet 1339, Sita 4155).
+Cameroon, Gabon, Congo (Bouquet 1339, Sita 4155).
 
 ## Specimens examined
 

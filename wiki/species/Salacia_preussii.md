@@ -17,21 +17,18 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 op. cit. 44 : 192 (1910), incl. fa. staudtii ; PELLEGRIN, Fl. Mayombe 1 : 68 (1924) ; HUTCH. & M.B. Moss, FWTA 1 : 453 (1928) ; LOES., Pflanzenfam. 20 B : 229 (1942) ; HALLÉ, Monogr. Hippocr. Afr. occid., Thèse : 153 (1958) ; Mém. IFAN 64 : 155 (1962).
 
-1. Limbe foliaire denté ou denticulé, long de 15-25 cm ; sépales grossièrement glanduleux ciliés (presque des petites dents) ; pédicelles de 8-24 mm ; fleurs jaunes
-
-d'aspect cireux de 15-21 mm de diamètre, à disque de 4-7 mm de diamètre ; 4-8 ovules par loge ..... 3a. var. preussii. 1'. Limbe foliaire entier, long de 8-20 cm ; sépales finement ciliolés ; pédicelle de 3-8 mm ; fleur de 18-22 mm de diamètre ; 6-9 ovules par loge 3b. var. louisii.
+1. Leaf blade dentate or denticulate, 15-25 cm long; sepals coarsely glandular-ciliate (almost like small teeth); pedicels 8-24 mm; flowers yellow, waxy in appearance, 15-21 mm in diameter, with disc 4-7 mm in diameter; 4-8 ovules per locule ..... 3a. var. preussii.
+1'. Leaf blade entire, 8-20 cm long; sepals finely ciliolate; pedicel 3-8 mm; flower 18-22 mm in diameter; 6-9 ovules per locule ..... 3b. var. louisii.
 
 3a. var. preussii
 
-Arbuste de 0,80 m ou liane de 5 m de hauteur et plus, glabres, dépourvus de caoutchouc, à rameaux subcylindriques lisses ordinairement sans arêtes, olivacés, un peu élargis vers les nœuds. Pétiole de 8-18 mm. Feuilles opposées ou subopposées, olivacées à sec, un peu discolores, plus oblongues qu'elliptiques, de 12-25 × 4-9,5 cm, à base aiguë, parfois très brièvement, à sommet acuminé, à marge crénelée à dentée. Nervures secondaires 10-14 paires un peu arquées ; fin réseau inégalement distinct.
+Shrub 0.80 m or vine 5 m tall or more, glabrous, lacking latex, with subcylindric smooth branchlets ordinarily without ridges, olivaceous, slightly enlarged toward the nodes. Petiole 8-18 mm. Leaves opposite or subopposite, olivaceous when dry, slightly discolorous, more oblong than elliptic, 12-25 × 4-9.5 cm, base acute, sometimes very shortly so, apex acuminate, margin crenulate to dentate. Secondary nerves 10-14 pairs slightly arched; fine venation unevenly distinct.
 
-Inflorescences axillaires 1-6-flores à glomérule basal sessile. Pédi-celle de (8)12-24 mm. Bouton subglobuleux de 4,8-5,5 × 6-6,5 mm. Fleur rotacée de 15-21 mm de diamètre, jaune ou jaune brun d'aspect cireux. Calice de 6,5-11 mm de diamètre ; sépales suborbiculaires larges de 2,2-4,2 mm, inégaux ou subégaux, à marge assez grossièrement érodée glanduleuse. Pétales orbiculaires subonguiculés, de 6-9 mm de diamètre, à nervation flabellée ramifiée, à marge entière. Disque grand et plat, à contour circulaire ou pentagonal, marginé, cupuliforme seulement dans le bouton, de 4-7 mm de diamètre. Étamines larges à la base mais espacées, hautes de 1,5-2,5 mm ; anthère transverse de 0,9-1,2 mm de largeur, à loges confluentes, en chevron très obtus dans le bouton. Pistil pyramidal de 1,5-2 mm de hauteur, subulé à stigmate ponctiforme. 4-8 ovules bisériés par loge, le plus souvent 5-6.
+Inflorescences axillary 1-6-flowered with sessile basal glomule. Pedicel (8)12-24 mm. Bud subglobose 4.8-5.5 × 6-6.5 mm. Flower rotate 15-21 mm in diameter, yellow or yellowish-brown, waxy in appearance. Calyx 6.5-11 mm in diameter; sepals suborbicular 2.2-4.2 mm wide, unequal or subequal, with margin rather coarsely eroded glandular. Petals orbicular subungulate, 6-9 mm in diameter, with flabellate branched venation, margin entire. Disc large and flat, with circular or pentagonal outline, marginate, cupuliform only in the bud, 4-7 mm in diameter. Stamens broad at base but spaced, 1.5-2.5 mm tall; anther transverse 0.9-1.2 mm wide, locules confluent, in very obtuse chevron in the bud. Pistil pyramidal 1.5-2 mm tall, subulate to punctiform stigma. 4-8 ovules biseriate per locule, most often 5-6.
 
-Fruit subgloboïde lisse de 6-7,5 × 5,5-6,5 cm, à paroi épaisse de 5 mm. - Pl. 14, fig. 2, 4, 7-9, p. 51.
+Fruit subglobose smooth 6-7.5 × 5.5-6.5 cm, with wall 5 mm thick. - Pl. 14, fig. 2, 4, 7-9, p. 51.
 
 ## Type
 
@@ -41,13 +38,11 @@ Louis 3575, Zaïre (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon. Plant of understory or gallery forest. It would seem that the typical variety can be considered as a neotenic form of the species. The form staudtii Loes. (Staudt 236, iso-, G! K! P!) differs from the type by its 8-ovulate locules but the other differences are inconsistent. S. fimbrisepala Loes. (see p. 54) is certainly very close but the differences are not clearly elucidated.
 
-Cameroun, Gabon. Plante de sous-bois ou de galerie. Il semblerait que la variété-type puisse être considérée comme une forme néoténique de l'espèce. La forme staudtii Loes. (Staudt 236, iso-, G! K! P!) diffère du type par ses loges 8-ovulées mais les autres différences sont inconsistantes. Le S. fimbrisepala Loes. (voir p. 54) est certainement très voisin mais les différences n'en sont pas clairement éclaircies.
+This Salacia is too little different from S. preussii, and too closely linked to it by intermediate forms for us to maintain it as a distinct species. It appears as vines 4 to 40 m or more tall, and the vegetative characters deviate from neotenic tendencies. The floral differences are weak and accord with a varietal rank.
 
-Ce Salacia est trop peu différent du S. preussii, et trop lié à lui par des formes intermédiaires pour que nous puissions le maintenir comme espèce distincte. Il se présente en lianes de 4 à 40 m et plus, et les caractères végétatifs s'écartent des tendances néoténiques. Les différences florales sont faibles et s'accordent avec un rang variétal.
-
-Ghana (Johnson 648, K), Cameroun, Gabon, Zaïre. Le Salacia ituriensis Loes. (Bot. Jahrb. 44 : 191, 1910), de Centrafrique et du Zaïre, est très voisin. Son nombre d'ovules est de 7-11 par loge.
+Ghana (Johnson 648, K), Cameroon, Gabon, Zaïre. Salacia ituriensis Loes. (Bot. Jahrb. 44 : 191, 1910), from Central Africa and Zaïre, is very close. Its number of ovules is 7-11 per locule.
 
 ## Specimens examined
 

@@ -17,21 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Wageningen Agric. Univ. Papers 96(1) : 139 (1996). Arbuste de 1–1,2 m de hauteur. Feuilles opposées ; pétiole de 5–7 mm ; limbe largement à pWURLWHPHQWHOOLSWLTXH±IRLVDXVVLORQJTXHODUJHGH±î±FPDLJXjFXQppRX
-
-Biodiversity Center (©), reproduit à partir de Omino (1996).
-
-décurrent sur le pétiole à la base, acuminé au sommet ; nervures secondaires 12 à 18 paires , GURLWHVIRUPDQWXQDQJOHGH±DYHFODPpGLDQHHWOpJqUHPHQWLQFXUYpHVYHUVODPDUJH ,QÀRUHVFHQFH principalement axillaire UDUHPHQW WHUPLQDOH RX UDPLÀRUH DYHF ÀHXUV Fleur SDUIXPpHFDOLFHjOREHVORQJVGHPPFRUROOHEODQFKHjWXEHVXEF\OLQGULTXH long de 8,5–10,5 mm, large de 1,9 mm au-dessus de la base, rétréci à 1,5 mm de largeur sous l’insertion des étamines, à nouveau élargi au niveau des anthères sur 1,9 mm, à lobes recourEpvrydohvuhsupvhqwdqwodprlwlpghodorqjxhxugxwxeh±IRLVDXVVLORQJVTXHODUJHV long de 4,5–4,8 mm ; étamines avec l’apex à 3–3,2 mm sous la gorge, insérées au milieu du tube DQWKqUH±IRLVDXVVLORQJXHTXHODUJHGH±î±PPSLVWLOORQJGH Center (©), reproduit à partir de Omino (1996).
-
-2,5–3 mm, ovaire à 5 carpelles distincts, chacun avec (1 ou)2 ovules ; style long de 1,2–1,5 mm . Fruit formé de 3 à 5 méricarpes distincts RUDQJHMXVTX¶jîPPDUURQGLVjSRLQ WXVDXVRPPHWYHUUXTXHX[ Distribution HQGpPLTXHGX*DERQFRQQXXQLTXHPHQWGHO¶2JRRXp0DULWLPH
+Wageningen Agric. Univ. Papers 96(1) : 139 (1996). Shrub 1–1.2 m tall. Leaves opposite; petiole 5–7 mm; blade broadly to narrowly elliptic, 1–1.5 times as long as wide, 6–9 × 3–5 cm, acute to acuminate at apex; secondary nervures 12 to 18 pairs, straight forming an angle of 40–50° with the median and slightly incurved towards the margin. Inflorescence mainly axillary, rarely terminal or ramiflorous with flowers perfumed. Calyx with lobes 1–1.2 mm long, white corolla with subcylindric tube 8.5–10.5 mm long, 1.9 mm wide above the base, narrowed to 1.5 mm width below the insertion of the stamens, again enlarged at the level of the anthers to 1.9 mm, with recurved ovate lobes representing half the length of the tube, 2–2.2 times as long as wide, 4.5–4.8 mm long; stamens with the apex 3–3.2 mm below the throat, inserted at the midpoint of the tube, anther 0.6–0.8 times as long as wide, 0.7–0.8 × 1–1.2 mm; pistil 2.5–3 mm long, ovary with 5 distinct carpels, each with (1 or) 2 ovules; style 1.2–1.5 mm long. Fruit formed of 3 to 5 distinct mericarps orange up to 5–6 mm, rounded to pointed, tussocked at apex with warty. Distribution endemic to Gabon, known only from the Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de forêt dense sur sol sableux ; en-dessous de 50 m d’altitude. B : Omino (1996). IBLIOGRAPHIE
+understory of dense forest on sandy soil; below 50 m altitude. B: Omino (1996). BIBLIOGRAPHY
 
 ## Notes
 

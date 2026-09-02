@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall liane exceeding 3-20 m, glabrous, lacking rubber. Wood decorated in cross-section with concentric rings. Internodes cylindric or angular, smooth and olive-green when dry. Leaves opposite or subopposite.
 
-Liane élevée dépassant 3-20 m, glabre, dépourvue de caoutchouc. Bois orné en coupe, d'anneaux concentriques. Entre-nœuds cylindriques ou anguleux, lisses et vert olive à sec. Feuilles opposées ou subopposées.
+PL. 36. - Salacia cornifolia Hook. f.: 1, flowering branch; 2, bud; 3, flower, diam. 9.5 mm; 4, calyx, diam. approx. 3 mm; 5, sepals; 6-8, petals approximately 3-4.5 mm long; 9-11, disk, diam. 2-3.5 mm; 12-15, stamens; 16-18, locules 4-6-ovulate; 19-22, fruits, diam. 3-4 cm; 23, 24, seeds 15-20 mm long (1, 2, 4, 8, 10, 21, Klaine 251; 3, 15, 16, Bos 6622; 5, 14, Bos 4983; 6, 7, 11, 12, 17, Doumenge 163; 9, 18, Bos 6623; 13, Hallé N. 936; 19, 24, Hallé N. 808; 20, Hallé N. s.n., Ivory Coast; 22, Bos 5152; 23, Hallé N. 89, Ivory Coast).
 
-PL. 36. - Salacia cornifolia Hook. f.: 1, rameau florifère; 2, bouton; 3, fleur, diam. 9,5 mm; 4, calice, diam. env. 3 mm; 5, sépales; 6-8, pétales longs d'env. 3-4,5 mm; 9-11, disque, diam. 2-3,5 mm; 12-15, étamines; 16-18, loges 4-6-ovulées; 19-22, fruits, diam. 3-4 cm; 23, 24, graines longues de 15-20 mm (1, 2, 4, 8, 10, 21, Klaine 251; 3, 15, 16, Bos 6622; 5, 14, Bos 4983; 6, 7, 11, 12, 17, Doumenge 163; 9, 18, Bos 6623; 13, Hallé N. 936; 19, 24, Hallé N. 808; 20, Hallé N. s.n., Côté-d'Ivoire; 22, Bos 5152; 23, Hallé N. 89, Côté-d'Ivoire).
+Petioles 5-12 mm, with straight canal margins. Blade subcoriaceous to coriaceous, olive-green concolorous or olivaceous above and somewhat discolorous, elliptic 6-13 × 3-6 cm, with acute base, often very briefly so, acuminate apex, entire or very finely subcrennate margins. Secondary veins 6-10 pairs; fine reticulum often indistinct.
 
-Pétioles de 5-12 mm, à marges du canal droites. Limbe subcoriace à coriace, vert olive concolore ou olivâtre dessus et un peu discolore, elliptique de 6-13 × 3-6 cm, à base aiguë, souvent très brièvement, à sommet acuminé, à marges entières ou très finement subcrénelées. Nervures secondaires 6-10 paires ; fin réseau souvent peu distinct.
+Inflorescences in axillary sessile glomerules 1-5-flowered. Pedicels (3)5-15 mm. Bud ovoid 2.5-3.5(4) mm in diameter. Flower subrotate 6-10 mm in diameter, yellow-green or yellow. Sepals convex fleshy, ovate, entire, very unequal, 1.2-3.9 mm wide, ranging from single to double in the same flower. Petals oblong variable, ± rounded or angular, 3-4.8 × 2-4.5 mm, slightly reflexed at anthesis. Disk dark green or brown, in circular cushion shape with rounded margins, 2-3.5 mm in diameter, not margined, somewhat fossulate beneath the anther locules which are in contact in the bud; little or almost no perigynous groove. Stamens spaced at base, approximately 2 mm long, with pale green filaments; anthers orange-coloured 0.6-1 mm wide, with connivate or adherent locules, dehiscing in a straight or slightly obtuse chevron. Pistil pyramidal pale green 1.5-2 mm, with punctiform stigma; locules half or three-quarters sunken, each containing 4-6 normally biseriate ovules.
 
-Inflorescences en glomérules axillaires sessiles 1-5-flores. Pédicelles de (3)5-15 mm. Bouton ové de 2,5-3,5(4) mm de diamètre. Fleur subrotacée de 6-10 mm de diamètre, jaune vert ou jaune. Sépales convexes charnus, ovés, entiers, très inégaux, larges de 1,2-3,9 mm, soit du simple au double dans la même fleur. Pétales oblonges variables, ± arrondis ou anguleux, de 3-4,8 × 2-4,5 mm, légèrement réfléchis à l'anthèse. Disque vert foncé ou brun, en coussinet circulaire à bords arrondis, de 2-3,5 mm de diamètre, non marginé, un peu fossulé sous les loges d'anthères qui sont en contact dans le bouton ; pas ou presque pas de sillon périgyne. Étamines espacées à la base, longues d'environ 2 mm, à filets vert pâle ; anthères orangées larges de 0,6-1 mm, à loges conniventes ou adhérentes, déhiscentes en un chevron droit ou légèrement obtus. Pistil pyramidal vert pâle de 1,5-2 mm, à stigmate ponctiforme ; loges à demi ou aux trois-quart enfoncées, contenant chacune 4-6 ovules normalement bisériés.
-
-Fruit globuleux ou ové, de  $ 3,5-5,5 \times 3-4 $ cm, rouge orangé vif, d'ornementation très variable, granuleux, presque lisse, verruculeux, lamellé ou ± inégalement murique, avec ou non 3 crêtes longitudinales. 1-6 graines à cotylédons blanc crème soudés. Péricarpe 2-4 mm d'épaisseur à sec. - Pl. 36, p. 131.
+Fruit globulous or ovoid, 3.5-5.5 × 3-4 cm, bright red-orange, with highly variable ornamentation, granular, almost smooth, verrucose, lamellate or ± unequally muricate, with or without 3 longitudinal ridges. 1-6 seeds with cream-white cotyledons fused. Pericarp 2-4 mm thick when dry. - Pl. 36, p. 131.
 
 ## Type
 
@@ -35,13 +33,11 @@ Vogel 178, Sierra Leone, Stuandh (?) (holo-, K !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sierra Leone (Small 690), Ivory Coast, Ghana (Hall & Lock 46741, forma ?), Dahomey, Cameroon, Gabon, Congo (Farron 4940), Zaire (Louis 4324). Probably also, but to be confirmed, in Liberia and Nigeria. A species probably vicariant of Ghana, Nigeria, Cameroon, Central African Republic and Zaire is S. adolfi-friderici Loes. ex Harms (syn. S. echinulata Louis ex Wilczek).
 
-Sierra Leone (Small 690), Côte-d'Ivoire, Ghana (Hall & Lock 46741, forma ?), Dahomey, Cameroun, Gabon, Congo (Farron 4940), Zaïre (Louis 4324). Probablement aussi, mais à confirmer, au Liberia et au Nigeria. Une espèce probablement vicariante du Ghana, Nigeria, Cameroun, Centrafrique et Zaïre est le S. adolfi-friderici Loes. ex Harms (syn. S. echinulata Louis ex Wilczek).
+S. cornifolia is more frequent in forests or sublittoral forest margins than in the interior of large forest massifs where it remains rare and scattered.
 
-Le S. cornifolia est plus fréquent dans les forêts ou lisières sublittorales que dans l'intérieur des grands massifs forestiers où il reste rare et dispersé.
-
-Une galle des limbes foliaires, circulaire d'environ 1-5 mm de diamètre, et ± convexe sur les deux faces, est assez fréquente chez cette espèce.
+A gall of the leaf blades, circular approximately 1-5 mm in diameter, and ± convex on both faces, is fairly frequent in this species.
 
 ## Specimens examined
 

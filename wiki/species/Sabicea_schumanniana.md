@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small voluble liana with pubescent then glabrescent internodes. Stipules ovate acute 4-6 mm wide, ± reflexed. Petiole pubescent 4-15 mm. Blade loosely pubescent, 4-10 × 1.7-4.2 cm, acute at both ends. 12-15 pairs of secondary veins with pale yellow pubescence on the brown background of the lower surface when dry.
 
-Petite liane volubile à entrenœuds pubescents puis glabrescents. Stipules ovées aiguës de 4-6 mm de large, ± rabattues. Pétiole pubescent de 4-15 mm. Limbe pubescent de façon lâche, de 4-10 × 1,7-4,2 cm, aigu aux deux extrémités. 12-15 paires de nervures secondaires à pubescence jaune pâle sur le fond brun de la face inférieure à sec.
-
-Inflorescence courte atteignant 1,5 cm, dont le pédoncule de 1-3 mm, pluriflore. Corolle blanche ou blanc-jaunâtre longue de 12-20 mm, pubescente vers le sommet. Calice à lobes un peu ciliés de 3-7 × 1 mm, aigus. Ovaire pubescent.
+Inflorescence short reaching 1.5 cm, with peduncle 1-3 mm, multiflorous. Corolla white or whitish-yellow 12-20 mm long, pubescent toward the apex. Calyx with lobes somewhat ciliate 3-7 × 1 mm, acute. Ovary pubescent.
 
 ## Type
 
@@ -29,9 +27,7 @@ Büttner 447 (détruit à B), du Congo. Spécimen de référence : Dewèvre 287 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce existe en Centrafrique (Tisserant 2803).
+The species occurs in Central African Republic (Tisserant 2803).
 
 ## Specimens examined
 

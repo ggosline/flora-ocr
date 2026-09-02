@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall vine exceeding 5 m, devoid of rubber, glabrous, with wood exceeding 4-5 cm in diameter. Internodes glabrous, olive-green when dry. Leaves opposite or alternate. Petiole 6-12(18) mm, with straight margins of the canal. Lamina olivaceous concolorous when dry, large, elliptic, 8-25 × 5-12 cm, acute or rounded at the base, with acumen 5-15 mm, sometimes poorly distinct. Secondary veins 6-9 pairs, arched ascending; intersecondary veins somewhat transversely stretched.
 
-Liane élevée dépassant 5 m, dépourvue de caoutchouc, glabre, à bois dépassant 4-5 cm de diamètre. Entre-nœuds glabres, vert olive à sec. Feuilles opposées ou alternes. Pétiole de 6-12(18) mm, à bords du canal droits. Limbe olivacé concolore à sec, grand, elliptique, de 8-25 × 5-12 cm, aigu ou arrondi à la base, à acumen de 5-15 mm, parfois peu distinct. Nervures secondaires 6-9 paires arquées ascendantes; nervures intersecondaires un peu transversalement étirées.
+Inflorescences in few- to many-flowered sessile glomerules, generally axillary; multibracts glomerules 1-5 mm in diameter, the largest being spherical. Pedicel long and slender, 9-40 mm. Bud globulous, 2.4 mm in diameter. Flower yellow, rotate, 4.5 mm in diameter. 5 subequal sepals, somewhat fleshy, bossy-ovate, subacute, 1 mm. Petals subungulate orbicular, 1.8-2.3 × 2.1-2.5 mm. Disc subcircular, plane, marginate, 1.8 mm in diameter and 0.3 mm thick, without perigynous groove. Stamens short, 0.7 mm, with filament very wide at the base and reduced anther, 0.3 mm wide, transversely dehiscent. Style very short, 0.3 mm. Locules half-sunken with 4-6 biseriate ovules.
 
-Inflorescences en glomérules pauci- à multiflores sessiles, généralement axillaires ; glomérules multibractéolés de 1-5 mm de diamètre, les plus gros sont sphériques. Pédicelle long et grêle de 9-40 mm. Bouton
-
-globuleux de 2,4 mm de diamètre. Fleur jaune, rotacée, de 4,5 mm de diamètre. 5 sépales subégaux, un peu charnus, ovés bossus, subaigus de 1 mm. Pétales orbiculaires subonguiculés de 1,8-2,3 × 2,1-2,5 mm. Disque subcirculaire, plan, marginé, de 1,8 mm de diamètre et 0,3 mm d'épaisseur, sans sillon périgyne. Étamines courtes, 0,7 mm, à filet très large à la base et anthère réduite, 0,3 mm de largeur, transversalement déhiscente. Style très court, 0,3 mm. Loges demi-enfoncées à 4-6 ovules bisériés.
-
-Fruits (d'après R. WILCZEK) obovoïdes ellipsoïdes à globuleux, de 3-7 × 3-5 cm, mamelonnés grenus à exocarpe épais. Graines nombreuses. - Pl. 19, fig. 1-8, p. 71.
+Fruits (according to R. WILCZEK) obovoid ellipsoid to globulous, 3-7 × 3-5 cm, mamillate granular with thick exocarp. Seeds numerous. - Pl. 19, fig. 1-8, p. 71.
 
 ## Type
 
@@ -33,11 +29,9 @@ Zenker & Staudt 653, Cameroun (iso-, BM! BR! K! P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, Gabon, Zaire. Ombriphilous forests where it remains rare.
 
-Nigeria, Cameroun, Gabon, Zaïre. Forêts ombrophiles où elle reste rare.
-
-Proche d'aspect du S. dusenii Loes. (cf. p. 75), elle s'en distingue, étant plus florifère, par son disque plus aplat sans sillon périgyne, la largeur et la brièveté de ses étamines, ses pétales plus larges et ses ovules plus nombreux.
+Close in appearance to S. dusenii Loes. (cf. p. 75), it is distinguished from it by being more floriferous, by its flatter disc without perigynous groove, the width and brevity of its stamens, its broader petals and its more numerous ovules.
 
 ## Specimens examined
 

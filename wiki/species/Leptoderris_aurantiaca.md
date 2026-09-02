@@ -21,7 +21,7 @@ Liane to lianas-cent shrub, 2.5 to 10(–12) m in height; red latex; branchlets 
 
 ## Distribution
 
-South-East Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, known only from the environs of Libreville, in the Estuary
+South-East Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, known only from the environs of Libreville, in the Estuaire
 
 ## Ecology
 

@@ -23,7 +23,7 @@ Fruit with two filaments. Original drawing by Richard W. Haines ©. Inflorescenc
 
 ## Distribution
 
-widely distributed along the Atlantic coasts of tropical America and Africa; locally common in Gabon along the coasts, found in the Estuary and Ogooué-Maritime
+widely distributed along the Atlantic coasts of tropical America and Africa; locally common in Gabon along the coasts, found in the Estuaire and Ogooué-Maritime
 
 ## Ecology
 

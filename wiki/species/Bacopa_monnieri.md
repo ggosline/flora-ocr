@@ -21,7 +21,7 @@ Nat. Pflanzenfam. 4(3b) : 77 (1891) (as « Bacopa monniera »). Herpestis monnie
 
 ## Distribution
 
-pantropical species; in Gabon, collected in the Estuary
+pantropical species; in Gabon, collected in the Estuaire
 
 ## Ecology
 

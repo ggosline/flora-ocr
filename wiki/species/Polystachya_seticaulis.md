@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes < 2,5 x 0,15 cm. Feuilles 1,5-5 x 0,1-0,2 cm, linéaires, aiguës. Inflorescence 1-3,5 (-10) cm, 5-20-flore. Fleurs blanches lavées de rose ou de mauve. Sépale dorsal subcirculaire à ovale. Pétales un peu falciformes. Sépales latéraux obliquement elliptiques, obtus. Labelle rhombiforme, obscurément trilobé juste au-dessus du milieu, mince, frêle, glabre, concave à la base ; lobe médian, ligulé, aigu, recourbé, légèrement épaissi ; lobes latéraux obliquement triangulaires, aigu. Éperon subglobuleux, court. – Pl. 132, p. 301.
+Pseudobulbs < 2.5 x 0.15 cm. Leaves 1.5-5 x 0.1-0.2 cm, linear, acute. Inflorescence 1-3.5 (-10) cm, 5-20-flowered. Flowers white washed with pink or mauve. Dorsal sepal subcircular to ovate. Petals slightly falcate. Lateral sepals obliquely elliptic, obtuse. Lip rhombiform, obscurely trilobed just above the middle, thin, fragile, glabrous, concave at the base; median lobe ligulate, acute, recurved, slightly thickened; lateral lobes obliquely triangular, acute. Spur subglobose, short. – Pl. 132, p. 301.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Nigeria, Cameroun, Gabon, Zaïre
+Côte d'Ivoire, Nigeria, Cameroon, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 50-2100 m. Epiphyte in dense humid forest, sclerophyllous forest, collected on Gilbertiodendron deweveri, Nephrolepis pumicicola, Julbernardia sp
 
-alt. 50-2 100 m. Épiphyte en forêt dense humide, forêt sclérophylle, récolté sur Gilbertiodendron deweveri, Nephrolepis pumicicola, Julbernardia sp
+MATERIAL STUDIED (Map 60):
 
-MATÉRIEL ÉTUDIÉ (Carte 60) :
+De Wilde, Arends, Louis & Wieringa 10071, halfway between Kinguélé and Tchimbélé, rapid creek crossing the road, alt. ± 400 m, epiphyte on fallen tree above the creek (fl. Dec.), WAG!.
 
-De Wilde, Arends, Louis & Wieringa 10071, mi-chemin entre Kinguélé et Tchimbélé, creek rapide traversant, la route, alt. ± 400 m, épiphyte sur arbre tombé au-dessus du creek (fl. Déc.), WAG!.
-
-Le Testu 5911, plusieurs stations dans la vallée de la Micanda, affl. de l'Ikoy et de l'Oumba (fl. Avr.), P!.
+Le Testu 5911, several stations in the Micanda valley, trib. of the Ikoy and Oumba (fl. Apr.), P!.
 
 ## Figures
 

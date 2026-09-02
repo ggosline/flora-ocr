@@ -21,7 +21,7 @@ Perennial herb; main stems mostly prostrate, glabrous, fistulose, sometimes root
 
 ## Distribution
 
-Tropical species of Africa, America and Asia; in Gabon, only recorded from the Estuary
+Tropical species of Africa, America and Asia; in Gabon, only recorded from the Estuaire
 
 ## Ecology
 

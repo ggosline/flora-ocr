@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species known from Congo and Angola. Like R. nerviglume, it develops after fires in savannas with sandy soil. It is a fairly good forage plant.
 
-Espèce connue du Congo et de l'Angola. Comme R. nerviglume elle se développe après les feux dans les savanes à sol sablonneux. C'est une assez bonne plante fourragère.
-
-Elle doit probablement exister dans la région de Franceville et peut-être dans les zones côtières.
+It probably must exist in the Franceville region and perhaps in the coastal zones.
 
 ## Notes
 

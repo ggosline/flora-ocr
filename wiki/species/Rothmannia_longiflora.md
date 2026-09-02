@@ -30,13 +30,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 2–15 m tall, with glabrous internodes. Stipules reduced, caducous. Petiole 4–10 mm, glabrous. Blade brown or olivaceous when dry, glabrous on both faces, elliptic 8–16 × 2.5–6 cm; base acute; apex acuminate to sublanceolate. 6–8 pairs of glabrous secondary veins, obliquely ascending. Axillary domatia very scantily pilose.
 
-Arbuste ou petit arbre de 2 à 15 m de hauteur, à entrenœuds glabres. Stipules réduites caduques. Pétiole de 4-10 mm, glabre. Limbe brun ou olivâtre à sec, glabre sur les deux faces, elliptique de 8-16 × 2,5-6 cm; base aiguë; sommet acuminé à sublancéolé. 6-8 paires de nervures secondaires glabres, obliquement ascendantes. Domaties axillaires très médiocrement pileuses.
+Flower terminal, appearing above a solitary leaf. Peduncle 5–15 mm, bearing 2 (3) pairs of reduced scales, one of which is situated at the base of the ovary. Calyx glabrous externally, silky pubescent inside, green, with cylindric tube 8–12 mm long and 5–8 mm in diameter, with 5 very small apiculate-acute lobes 1 mm. Corolla green and purple spotted with white and purple marks, densely puberulent, with tube (11) 15–18(21) × 0.25–0.5 cm, pubescent inside, flared in the upper 2.5–5 cm, with throat 1.5–4 cm in diameter; 5 lobes overlapping to the left, ovate, 2–3.5 × 1–2.5 cm. Anthers modified 30–35 × 2 mm, with connectival margins bearing very small hairs. Style glabrous; stigma exsert fusiform 7–10 × 3 mm. Ovary cylindric 7 × 3 mm.
 
-Fleur terminale apparaissant au-dessus d'une feuille solitaire. Pédoncule de 5-15 mm, présentant 2 (3) paires d'écailles réduites dont une est située à la base de l'ovaire. Calice glabre extérieurement, pubescent soyeux à l'intérieur, vert, à tube cylindrique de 8-12 mm de longueur et 5-8 mm de diamètre, à 5 très petits lobes apiculés-aigus de 1 mm. Corolle verte et pourprée maculée de taches blanches et pourprées, densément pubérulente, à tube de (11) 15-18(21) × 0,25-0,5 cm, pubescent à l'intérieur, évasé sur les 2,5 à 5 cm supérieures, à gorge de 1,5-4 cm de diamètre; 5 lobes recouvrants vers la gauche, ovés, de 2-3,5 × 1-2,5 cm. Anthères médifiées de 30-35 × 2 mm, à connectif marginé de très petits poils. Style glabre; stigmate exsert fusiforme de 7-10 × 3 mm. Ovaire cylindrique de 7 × 3 mm.
-
-Fruit globuleux ou ovoïde lisse atteignant 4-6 cm de diamètre, à tube calycinal persistant non accrescent. Endocarpe mince crustacé. Graines brunes très nombreuses, ovées-comprimées de 8 mm, enfouies ± horizontalement dans la pulpe placentaire. Embryon blanc droit de 4 mm; F. Hallé a obtenu une germination à 100 % en 17 jours.
+Fruit globose or ovoid, smooth, reaching 4–6 cm in diameter, with persistent non-accrescent calycinal tube. Endocarp thin, crustaceous. Seeds brown, very numerous, ovate-compressed 8 mm, buried ± horizontally in the placental pulp. Embryo white, straight, 4 mm; F. Hallé obtained 100% germination in 17 days.
 
 ## Type
 
@@ -44,11 +42,9 @@ Brass s. n. (paratype BM!), Cape Coast, Ghana
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A closely related species R. manganjae (Hiern) Keay differs notably by a greater number of pairs of subtending scales and by its shorter corollas.
 
-Une espèce très voisine R. manganjae (Hiern) Keay, diffère notamment par un plus grand nombre de paires d’écailles sous-florales et par ses corolles plus courtes.
-
-De la Guinée portugaise à l'Afrique équatoriale et orientale, en Angola et Zambézie. Forêts secondaires, lisières broussailleuses et parfois bords de rivières.
+From Portuguese Guinea to equatorial and eastern Africa, in Angola and Zambia. Secondary forests, brushy margins and sometimes riverbanks.
 
 ## Specimens examined
 

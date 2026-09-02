@@ -30,7 +30,7 @@ Annual herb in tufts, with fibrous roots; stems 5–50 cm × 0.5–1 mm, triangu
 
 ### Distribution
 
-scattered in tropical Africa, from Senegal to Chad and along the west coast to Angola; fairly common along the coasts of Gabon, in the Estuary and Ogooué-Maritime (6 collections)
+scattered in tropical Africa, from Senegal to Chad and along the west coast to Angola; fairly common along the coasts of Gabon, in the Estuaire and Ogooué-Maritime (6 collections)
 
 ### Ecology
 

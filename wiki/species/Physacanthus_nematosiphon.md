@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 $ \equiv $ Haselhoffia cylindrica (C. B. Clarke) Lindau, l. c. 352 (1909).
 
-Plante herbacée, couchée, rampante, enracinée le long des tiges couchées à terre, rarement branchues, densément poilues-tomenteuses; tige subquadrangulaire, densément poilue avec des poils canescents gris blanchâtres; entrenœuds de 1-4 cm. Pétioles de 6-20 mm de long, couverts des mêmes poils. Feuilles supérieures, particulièrement celles de la région florale, souvent subsessiles; limbe ovale-elliptique, de 2,5-5 × 1, 5-4 cm, arrondi au sommet et quelquefois même un peu émarginé, légèrement cordé à la base chez les spécimens les moins développés, à 5-7 paires de nervures latérales, à bords entiers, quelquefois irrégulièrement et faiblement ondulés; limbe des feuilles vert violacé, très foncé en dessus, vert rosé-violacé clair en dessous, poils abondants surtout sur les nervures à la face supérieure, mais aussi très épars entre les nervures; poils roses violacés sur les nervures à la face inférieure.
+Herbaceous plant, decumbent, creeping, rooting along stems trailing on the ground, rarely branched, densely hairy-tomentose; stem subquadrangular, densely hairy with canescent whitish-grey hairs; internodes 1-4 cm. Petioles 6-20 mm long, covered with the same hairs. Upper leaves, particularly those of the floral region, often subsessile; lamina ovate-elliptic, 2.5-5 × 1.5-4 cm, rounded at the apex and sometimes even slightly emarginate, slightly cordate at the base in the least developed specimens, with 5-7 pairs of lateral veins, with entire margins, sometimes irregularly and weakly undulate; lamina of leaves violet-green, very dark above, clear rose-violet green below, hairs abundant especially on the veins on the upper surface, but also very scattered between the veins; rose-violet hairs on the veins on the lower surface.
 
-Fleurs terminales, 1-3 aux sommets, souvent une fleur solitaire; bractées subulées-lancéolées, d'environ 4 × 0,8 mm presque complètement dissimulées dans l'indument des tiges, à une seule nervure centrale; pédoncule 3-4 mm; pédicelle 6-8 mm. Calice étroitement tubuleux-cylindrique, non renflé, de 15-20 mm × 3-4 mm, 10-anguleux. Sépales rose violacé triplinerves soudés presque jusqu'au sommet, à nervures marginales soudées et nervures médianes formant des côtes, très longumeent mais éparsément ciliées-poilues : poils blancs, pluricellulaires, atteignant environ 1,5 mm de longueur; les sépales sont libres au sommet où ils forment de petites dents triangulaires de 1 × 0,8 mm. Corolle blanche, dressée, à tube de 35 × 1 mm, geniculé environ 5 mm en dessous de la gorge, finement pubescent à l'extérieur et dans le tiers supérieur à l'intérieur; limbe étalé de 28 mm de diamètre, à lobes obcordés d'environ 10 × 8 mm, presque glabres, à gorge poilue. Étamines attachées au début de la partie géniculée du tube, à filets très courts d'environ 1 mm. Anthères
+Flowers terminal, 1-3 at the apices, often a solitary flower; bracts subulate-lanceolate, approximately 4 × 0.8 mm almost completely concealed in the indumentum of the stems, with a single central vein; peduncle 3-4 mm; pedicel 6-8 mm. Calyx narrowly tubular-cylindric, not inflated, 15-20 mm × 3-4 mm, 10-angled. Sepals rose-violet triplinerved fused almost to the apex, with marginal veins fused and median veins forming ribs, very long but sparsely ciliate-hairy: hairs white, multicellular, reaching approximately 1.5 mm in length; the sepals are free at the apex where they form small triangular teeth 1 × 0.8 mm. Corolla white, erect, with a tube 35 × 1 mm, geniculate approximately 5 mm below the throat, finely pubescent on the exterior and in the upper third on the interior; limb spreading 28 mm in diameter, with obcordate lobes approximately 10 × 8 mm, almost glabrous, with hairy throat. Stamens attached at the beginning of the geniculate part of the tube, with very short filaments approximately 1 mm. Anthers
 
-linéaires-fusiformes avec seulement une loge développée, d'environ 2 mm, à connectif longuement barbelé; staminode inséré environ 1 mm au dessus des filets, poilu, de 4 mm de long. Ovaire glabre, d'environ 3 mm, à 4 ovules par loge; style de 22 mm de long, blanc, glabre sauf le quart supérieur qui est finement pubescent; stigmate capité, blanc, atteignant la base des anthères.
+linear-fusiform with only one lobe developed, approximately 2 mm, with a strongly barbed connective; staminode inserted approximately 1 mm above the filaments, hairy, 4 mm long. Ovary glabrous, approximately 3 mm, with 4 ovules per locule; style 22 mm long, white, glabrous except for the upper quarter which is finely pubescent; stigma capitate, white, reaching the base of the anthers.
 
-Capsule cylindrique, glabre, de  $ 18 \times 2 $ mm, à 8 graines lenticulaires de 1,8 mm de diamètre et 0,7 mm d'épaisseur, brunes, éparsément poilues, à fins poils blancs hygroscopiques.
+Capsule cylindric, glabrous, 18 × 2 mm, with 8 lenticular seeds 1.8 mm in diameter and 0.7 mm thick, brown, sparsely hairy, with fine white hygroscopic hairs.
 
 ## Vernacular names
 
@@ -44,15 +42,13 @@ Chevalier 19670, Côte d'Ivoire (P, holotype!) Liberia, Côte d'Ivoire, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Mann: 1669, Cristal mountains (4 specimens only of this number; see below the note on Physacanthus batanganus).
 
-Mann : 1669, monts de Cristal (4 spécimens seulement de ce numéro; voir ci-dessous la note de Physacanthus batanganus).
+N. Hallé 819, Wébé river, (fr. 8 August 1959) white flowers; 2188, Abanga, C.E.F.A. logging site, (fl. and fr. 3 June 1963), river margins, shaded banks, creeping with radiciferous stems, leaves dark green, clear rose-green below, calyx rose-violet, white corolla; 2245, same locality, forest towards 400-500 m, mountain slope (fl. 5 June 1963), white fl. with bilobed petals, very dark leaves, carpeting the ground in dense stands.
 
-N. Hallé 819, riv. Wébé, (fr. 8 août 1959) fleurs blanches; 2188, Abanga, chantier C.E.F.A., (fl. et fr. 3 juin 1963), bords rivière, talus ombragés, rampant à tiges radicifères, feuilles vert noirâtre, vert rosé clair dessous, calice rose violacé, corolle blanche; 2245, même localité, forêt vers 400-500 m, pente de montagne (fl. 5 juin 1963), fl. blanches à pétales bilobés, feuilles très foncées, tapisse le sol en peuplement serré.
+EXPLANATION OF PLATE XVI, fig. 9-12:
 
-EXPLICATION DE LA PLANCHE XVI, fig. 9-12:
-
-9, sommité florifère; 10, corolle vue de face; 11, coupe longitudinale de la fleur avec le calice long de 20 mm; 12, diagramme d'inflorescence uniflore, montrant la position du staminode et des bractéoles par rapport à l'axe. — 9-12, d'après des dessins in vivo au Gabon : N. Hallé 819. — Reproduit d'Adansonia, N. Sér., 1 : 344, Pl. 1 (1962 « 1961 »).
+9, flowering apex; 10, corolla viewed frontally; 11, longitudinal section of the flower with the calyx 20 mm long; 12, diagram of uniflorous inflorescence, showing the position of the staminode and bracteoles in relation to the axis. — 9-12, from drawings in vivo in Gabon: N. Hallé 819. — Reprinted from Adansonia, N. Sér., 1: 344, Pl. 1 (1962 "1961").
 
 ## Figures
 

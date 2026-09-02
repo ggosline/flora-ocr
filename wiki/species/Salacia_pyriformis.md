@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pollen & Spores 2 (1): 11 (1960); MÉM. IFAN 64: 211 (1962); KEAY & BLAKELOCK, FWTA, ed. 2, 1 (2): 632 (1958).
 
 – Tonsella pyriformis SABINE, Transact. Hortic. Soc. London 5: 459 (1824); SWEET, Hort. Bot., ed. 3: 97 (1839).
@@ -27,13 +25,11 @@ Pollen & Spores 2 (1): 11 (1960); MÉM. IFAN 64: 211 (1962); KEAY & BLAKELOCK, F
 
 - Salacia elongata Hook. F., Niger Fl.: 282 (1849). TYPE : Don s.n., San Tomé (BM).
 
-Liane élevée dépassant 4-12 m, riche en caoutchouc, glabre ; bois montrant en coupe des stries concentriques de parenchyme espacées d'environ 5 mm (bois de 7 cm de diamètre). Feuilles opposées ou subopposées, coriaces, souvent brun roux à sec, parfois brun olivâtre, souvent
+Tall liane exceeding 4–12 m, rich in rubber, glabrous; wood showing in cross-section concentric striae of parenchyma spaced approximately 5 mm apart (wood 7 cm in diameter). Leaves opposite or subopposite, coriaceous, often brown-reddish when dry, sometimes olive-brown, often concolorous. Petiole 10–23 mm, with straight margins of the canal. Lamina elliptic 9–21(–25) × 4–9(12) cm, with entire margin, base ordinarily acute, apex ± shortly acuminate to lanceolate. Secondary veins 8–12 pairs.
 
-concolores. Pétiole de 10-23 mm, à bords du canal droits. Limbe elliptique de 9-21(-25)× 4-9(12) cm, à marge entière, base ordinairement aiguë, sommet ± brièvement acuminé à lancéolé. Nervures secondaires 8-12 paires.
+Inflorescences axillary in sessile or subsessile glomerules, with approximately 1–10 flowers. Pedicel 7–16 mm, rather robust. Flower bud globose 3–4 mm in diameter. Flower yellow, rotate, 11–12 mm in diameter, with 8–12 perianth parts. Sepals 2(3) small, the others merging with the petals. Petals 4–7, the supernumerary upper ones narrower and often malformed, 4–5.5 × 3–7 mm, entire or somewhat dentate ciliate, sometimes subungulate. Disc 2.7–3.7 mm in diameter and approximately 1 mm thick, truncate-conical, with outline sometimes slightly angular, sometimes encircled by a light groove at mid-height. Stamens 3 with filament approximately 2 mm twisting in a spiral, the base with an adaxial pit; anther approximately 1 mm wide, somewhat emarginate at the apex, with a chevron-shaped dehiscence slit. Style subulate, triquetrous at the base, nearly as long as the stamens; ovary locules three-quarters immersed, with 4(5) superposed or juxtaposed ovules in pairs.
 
-Inflorescences axillaires en glomérules sessiles ou subsessiles, à 1-10 fleurs environ. Pédicelle de 7-16 mm, plutôt robuste. Bouton globuleux de 3-4 mm de diamètre. Fleur jaune rotacée de 11-12 mm de diamètre, à 8-12 pièces périanthaires. Sépales 2(3) petits, les autres se confondant avec les pétales. Pétales 4-7, les supérieurs surnuméraires moins larges et souvent difformes, de 4-5,5 × 3-7 mm, entiers ou un peu dentés ciliés, parfois subonguiculés. Disque de 2,7-3,7 mm de diamètre et environ 1 mm d'épaisseur, tronconique, à contour parfois un peu anguleux, parfois ceinturé d'un léger sillon à mi-hauteur. Étamines 3 à filet d'environ 2 mm se tordant en spirale, la base avec une fossette adaxiale ; anthère d'environ 1 mm de largeur, un peu échancrée à l'apex, à fente de déhiscence en chevron. Style subulé, trièdre à la base, presque aussi long que les étamines ; loges de l'ovaire aux trois quarts enfoncées, à 4(5) ovules superposés ou juxtaposés par deux.
-
-Fruit lisse ou peu verruculeux, globuleux ou un peu atténué aux extrémités, obtusément trigone, de 2,5-5 cm de diamètre, à graines nombreuses. - Pl. 50, fig. 1-17, p. 173.
+Fruit smooth or slightly verrucose, globose or somewhat attenuate at the extremities, obtusely trigonous, 2.5–5 cm in diameter, with numerous seeds. - Pl. 50, fig. 1–17, p. 173.
 
 ## Type
 
@@ -45,61 +41,55 @@ Thonner 90, Zaïre (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Senegal-Gambia, Guinea, Sierra Leone, western Ivory Coast (Jolly 80), Ghana, Nigeria, São Tomé, Cameroon, Gabon, Central African Republic, Congo Zaire, Malawi (Stolz 1494). The following are vicarious species: S. lateritia Hallé (Liberia, Ivory Coast, Nigeria), S. owabiensis Hoyle (from Guinea to Cameroon), S. laurentii De Wild. (see p. 172) and S. stuhlmanniana Loes. (see p. 157).
 
-Sénégambie, Guinée, Sierra Leone, Ouest Côte-d'Ivoire (Jolly 80), Ghana, Nigeria, San Tomé, Cameroun, Gabon, Centrafrique, Congo Zaire, Malawi (Stolz 1494). Des espèces vicariantes sont les suivantes : S. lateritia Hallé (Liberia, Côte-d'Ivoire, Nigeria), S. owabiensis Hoyle (de la Guinée au Cameroun), S. laurentii De Wild. (voir p. 172) et S. stuhlmanniana Loes. (voir p. 157).
+Sublittoral or riparian forests, gallery or montane forests.
 
-Forêts sublittorales ou ripicoles, galeries ou de montagne.
-
-NOM GABONAIS : orendé des singes (mpongoué du Cap Esterias, selon KLAINE).
+GABONESE NAME: orendé of monkeys (Mpongué of Cape Esterias, according to KLAINE).
 
 Chevalier 11362, Mayumba, 1.1904 (fr.).
 
-Hallé N. 1892, Ayem, 10 km SW Ndjolé, 27.4.1963 ; 2111, Matadi, 10 km SW Lambaréné, 30.5.1963 (bois).
+Hallé N. 1892, Ayem, 10 km SW Ndjolé, 27.4.1963 ; 2111, Matadi, 10 km SW Lambaréné, 30.5.1963 (wood).
 
-Klaine 663, Cap Esterias, 28.10.1896 (fr.); 664, env. de Libreville, 4.11.1896 (fr.); 1190, ibid., 5.10.1900 (fr.); 1935, ibid., 12.9.1900 (j.fr.); 2955, ibid., 9.7.1902 (fl.); 3014, Sibang, 13.8.1902 (fl., fr.); 3375, env. de Libreville, 12.8.1903 (fl.).
+Klaine 663, Cape Esterias, 28.10.1896 (fr.); 664, env. of Libreville, 4.11.1896 (fr.); 1190, ibid., 5.10.1900 (fr.); 1935, ibid., 12.9.1900 (j.fr.); 2955, ibid., 9.7.1902 (fl.); 3014, Sibang, 13.8.1902 (fl., fr.); 3375, env. of Libreville, 12.8.1903 (fl.).
 
-Le Testu 8305, Dilanda, env. de Lastoursville, 4.9.1930 (fl.).
+Le Testu 8305, Dilanda, env. of Lastoursville, 4.9.1930 (fl.).
 
-Pobéguin 109, bas Ogooué, 9.1922 (fl.).
+Pobéguin 109, lower Ogooué, 9.1922 (fl.).
 
-PL. 49. – Salacia laurentii De Wild.: 1, bouton; 2, fleur, diam. 9 mm; 3, sépale externe large de 2 mm; 4, sépale interne large de 3,2 mm; 5, sépale long de 4,7 mm; 6, 7, disque large d'env. 2 mm; 8-10, étamines; 11-14, loges d'ovaire (1, 8, 11, Laurent s.n. 10.1.1904, Zaïre; 2, 3, 5-7, 10, 12, Letouzey 10576; 4, 9, 13, Letouzey 12131 bis; 14, Louis 7844, Zaïre). – S. congolensis De Wild. & Th. Dur. : 15, feuille; 16, jeune bouton; 17, anthère du précédent; 18, 19, fleur en début de nouaison, diam. du disque 1,4 mm; 20, 21, loges biovulées (Thonner 90).
+PL. 49. – Salacia laurentii De Wild.: 1, flower bud; 2, flower, diam. 9 mm; 3, external sepal 2 mm wide; 4, internal sepal 3.2 mm wide; 5, sepal 4.7 mm long; 6, 7, disc approximately 2 mm wide; 8–10, stamens; 11–14, ovary locules (1, 8, 11, Laurent s.n. 10.1.1904, Zaire; 2, 3, 5–7, 10, 12, Letouzey 10576; 4, 9, 13, Letouzey 12131 bis; 14, Louis 7844, Zaire). – S. congolensis De Wild. & Th. Dur. : 15, leaf; 16, young flower bud; 17, anther of the preceding; 18, 19, flower in early fruit development, diam. of disc 1.4 mm; 20, 21, biovulate locules (Thonner 90).
 
-MATÉRIEL COMPLÉMENTAIRE (Cameroun):
+ADDITIONAL MATERIAL (Cameroon):
 
-Breteler 967, Goyoum, 20 km W Deng Deng, Riv. Sanaga, 29.1.1961 (j.fr.). Fotius 2884, Pangoul, 10 km SW Poli, 1 200 m, 27.12.1977 (fl.); 3038, Guen Falabo, 48 km NNW Tignère, 1 250 m, 26.2.1978 (fl.). Leeuwenberg 5278, 10 km W Masok, 30.3.1965 (bout.). Letouzey 3308, Goyoum, Riv. Sanaga, 29.1.1961 (j.fr.).
+Breteler 967, Goyoum, 20 km W Deng Deng, Riv. Sanaga, 29.1.1961 (j.fr.). Fotius 2884, Pangoul, 10 km SW Poli, 1 200 m, 27.12.1977 (fl.); 3038, Guen Falabo, 48 km NNW Tignère, 1 250 m, 26.2.1978 (fl.). Leeuwenberg 5278, 10 km W Masok, 30.3.1965 (flower bud). Letouzey 3308, Goyoum, Riv. Sanaga, 29.1.1961 (j.fr.).
 
 46 bis. Salacia laurentii De Wildeman
 
 Mission E. Laurent : 241 (1906) ; Th. & H. Dur., Syll. : 103 (1909).
 
-- Garcia wentzeliana ENGL., Bot. Jahrb. 28: 435 (1900). TYPE: Goetze 440, Tanzanie (fr.).
+- Garcia wentzeliana ENGL., Bot. Jahrb. 28: 435 (1900). TYPE: Goetze 440, Tanzania (fr.).
 
 – Salacia crampeli CHEVALIER, nomen in herb. Chev. 6233 (P!)
 
-- S. congolensis sensu Robson, FZ 2 (2): 398 (1966). Voir note ci-après.
+- S. congolensis sensu Robson, FZ 2 (2): 398 (1966). See note below.
 
 – S. pyriformis non (SABINE) STEUD. sensu WILCZEK, FCB 9: 198 (1960), p.p.
 
-Arbuste sarmenteux ou liane dépassant 5-8 m de hauteur et 4 cm de diamètre, contenant du caoutchouc, glabre. Feuilles opposées ou subopposées, elliptiques, peu coriaces, plutôt chartacées, souvent olivacées ou brun olivâtre à sec, le dessous du limbe étant toujours dépourvu de pruine mate. Pétiole de 6-14 mm, à bords du canal droits. Limbe elliptique de 8-20 × 3,5-8,5 cm, à marge faiblement ou plus souvent nettement dentée ; base aiguë à arrondie ; sommet acuminé sur 2-7(-10) mm. Nervures secondaires (7)8-10 paires.
+Sarmentose shrub or liane exceeding 5–8 m in height and 4 cm in diameter, containing rubber, glabrous. Leaves opposite or subopposite, elliptic, slightly coriaceous, rather chartaceous, often olivaceous or olive-brown when dry, the undersurface of the lamina always lacking a dull pruina. Petiole 6–14 mm, with straight margins of the canal. Lamina elliptic 8–20 × 3.5–8.5 cm, with margin weakly or more often distinctly dentate; base acute to rounded; apex acuminate over 2–7(–10) mm. Secondary veins (7)8–10 pairs.
 
-Inflorescences axillaires en glomérules subsessiles ou plus souvent pédonculés sur 1-5 mm, portant (1)3-15 fleurs environ. Pédicelle de 3-10 mm, plutôt grêle. Bouton globuleux de 2,5-4 mm. Fleur jaune, orangée ou bronzée, rotacée, de 6,5-10 mm de diamètre, à 9-10(12) pièces périanthaires dont trois sépales les plus petites ; les 7 autres pétaloides atteignant 2,5-4,5 mm de longueur, les internes un peu plus petits et moulant les étamines dans le bouton. Disque de 1,5-2,1 mm de diamètre et 0,5-0,8 mm d'épaisseur, ceint par un très net sillon à mi-hauteur et à bord supérieur charnu en bourrelet denté. Étamines 3 de 2,5-3 mm à filets se tordant en spirales ; anthère de 0,8-1 mm de largeur, échancrée ou microapiculée au sommet, à fente en chevron. Style subulé, trièdre à la base, un peu moins long que les étamines. Loges d'ovaire à demi enfoncées ayant ordinairement 4 ovules superposés ou non, plus rarement 5 ovules.
+Inflorescences axillary in subsessile glomerules or more often pedunculate on 1–5 mm, bearing approximately (1)3–15 flowers. Pedicel 3–10 mm, rather slender. Flower bud globose 2.5–4 mm. Flower yellow, orange or bronzed, rotate, 6.5–10 mm in diameter, with 9–10(12) perianth parts of which three are the smallest sepals; the 7 other petaloid parts reaching 2.5–4.5 mm in length, the inner ones slightly smaller and closely investing the stamens in the flower bud. Disc 1.5–2.1 mm in diameter and 0.5–0.8 mm thick, encircled by a very distinct groove at mid-height and with a fleshy upper border as a dentate ridge. Stamens 3 of 2.5–3 mm with filaments twisting in spirals; anther 0.8–1 mm wide, emarginate or microapiculate at the apex, with a chevron-shaped slit. Style subulate, triquetrous at the base, somewhat shorter than the stamens. Ovary locules half immersed ordinarily having 4 superposed or not superposed ovules, more rarely 5 ovules.
 
-Fruit verruculeux à échinulé, globuleux à obovoïde, de 2-3 cm de diamètre, à graines ± nombreuses. - Pl. 49, fig. 1-14, p. 171.
+Fruit verrucose to echinulate, globose to obovoid, 2–3 cm in diameter, with ± numerous seeds. - Pl. 49, fig. 1–14, p. 171.
 
-Bien qu'ayant un même nombre d'ovules, ce Salacia peut être séparé du S. pyriformis avec lequel il est confondu par WILCZEK. Il se
+Although having the same number of ovules, this Salacia may be separated from S. pyriformis with which it is confused by WILCZEK. It is distinguished by its smaller flowers with pedicel rather short and slender, by a narrower disc (2 and not 3 mm in diameter), by its small inflorescence peduncle, by its dentate, thinner foliar laminae and by the more distinctly echinulate fruit.
 
-PL. 50. - Salacia pyriformis (Don) Steudel: 1, bouton; 2, fleur, diam. 12,5 mm; 3-5, sépales; 6; sépale pétaloïde; 7-9, pétales: 10, 11, disque, diam. 3 mm; 12-14, anthères; 15-17, loges d'ovaires (1, 4, 5, 9, 10, 14, 15, Leeuwenberg 5278; 2, 6, 12, Jaeger 9435, Sierra Leone; 3, 7, 8, 11, 13, 16, Le Testu 8305). - S. klainei Pierre ex R. Wilczek: 18, bouton; 19, fleur, diam. 13,5 mm; 20, sépale long de 2 mm; 21, pétale de 6 × 2,5 mm; 22, disque, diam. 3 mm; 23, étamine; 24, anthère ouverte et vidée; 25, coupe de gynécée, partie libre haute de 3 mm; 26, loge d'ovaire de face; 27, fruit × 0,6; 28, graine et coupe de graine (18, Klaine 1927 bis, 19-26, Breteler & De Wilde J.J. 407; 27, 28, Jolly 2).
+Cameroon, Chad, Central African Republic, Congo, Zaire, Tanzania (Goetze 440), Ethiopia (Jansen 5737), Mozambique. To be searched for in eastern Gabon. It appears that S. laurentii is a vicarious species of S. pyriformis which is essentially limited to West Africa.
 
-distingue par ses fleurs plus petites à pédicelle plutôt court et grêle, par un disque plus étroit (2 et non 3 mm de diamètre), par son petit pédon-cule d'inflorescence, par ses limbes foliaires dentés plus minces et par le fruit plus nettement échinulé.
+Forest edges and galleries in rather dry regions.
 
-Cameroun, Tchad, Centrafrique, Congo, Zaïre, Tanzanie (Goetze 440), Éthiopie (Jansen 5737), Mozambique. A rechercher dans l'Est du Gabon. Il semble que le S. laurentii soit une espèce vicariante du S. pyri-formis qui, lui, se limite essentiellement à l'Afrique occidentale.
+MATERIAL EXAMINED (Cameroon):
 
-Lisières forestières et galeries dans des régions plutôt sèches.
-
-MATÉRIEL ÉTUDIÉ (Cameroun):
-
-Letouzey 10575, 10576, Rives de la Ngoko entre Ngali et Pandama, 80 km ESE de Moloundou, 3.4.1971 (fl., j.fr.); 10584, ibid. (fl., fr.); 12131, 12131 bis, Riv. Dja, près Ndongo, 40 km WNW Moloundou, 18.3.1973 (fl., j.fr.).
+Letouzey 10575, 10576, Banks of the Ngoko between Ngali and Pandama, 80 km ESE of Moloundou, 3.4.1971 (fl., j.fr.); 10584, ibid. (fl., fr.); 12131, 12131 bis, Riv. Dja, near Ndongo, 40 km WNW Moloundou, 18.3.1973 (fl., j.fr.).
 
 Mildbraed 3912, Moloundou, 24.11.1910 (fl.), HBG.
 
@@ -107,7 +97,7 @@ Mildbraed 3912, Moloundou, 24.11.1910 (fl.), HBG.
 
 Ann. Mus. Congo belge, Bot., sér. 1, 1: 85, tab. 43 (1899); l.c., sér. 2, 1: 16 (1899).
 
-Les caractères de l'androcée et du disque sont particulièrement mal observés et faussement figurés dans la planche originale (détails 2, 3, 4 et 9). Longtemps méconnu et confondu, ce Salacia a été judicieusement redécrit par WILCZEK (FCB 9 : 196, 1960). Bien qu'absent du Cameroun et du Gabon, il méritait de faire ici, en tant qu'espèce litigieuse, l'objet de nouvelles figures. - Pl. 49, fig. 15-21, p. 171.
+The characteristics of the androecium and disc are particularly poorly observed and falsely figured in the original plate (details 2, 3, 4 and 9). Long misunderstood and confused, this Salacia was judiciously redescribed by WILCZEK (FCB 9 : 196, 1960). Although absent from Cameroon and Gabon, it merited inclusion here, as a controversial species, with the object of new figures. - Pl. 49, fig. 15–21, p. 171.
 
 ## Figures
 

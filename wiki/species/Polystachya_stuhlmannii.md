@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes de 1,2-6,3 x 0,35-0,8 cm, ovoïdes à coniques. Feuilles 8-16 x 0,4-0,8 cm, linéaires. Inflorescence 4,5-18 cm, densément multiflore. Fleurs à sépales jaunes, vert-jaune ou verts, avec une touche de violet, labelle et pétales violets. Sépale dorsal acuminé. Sépales latéraux obliquement triangulaires-ovés, apiculés. Labelle à partie basale courte, obtriangulaire, se rétrécissant vers la base, mince, nettement trilobé dans la partie inférieure, callus épais, central, densément pubescent, entre les lobes latéraux ; lobe médian triangulaire, aigu ; lobes latéraux orbiculaires à obovés, arrondis. Éperon subglobuleux. - Pl. 133, p. 303.
+Pseudobulbs 1.2–6.3 × 0.35–0.8 cm, ovoid to conical. Leaves 8–16 × 0.4–0.8 cm, linear. Inflorescence 4.5–18 cm, densely multiflorous. Flowers with yellow, yellowish-green or green sepals, with a touch of violet, petals and labellum violet. Dorsal sepal acuminate. Lateral sepals obliquely triangular-ovate, apiculate. Labellum with short basal part, obtriangular, narrowing towards the base, thin, clearly trilobed in the lower part, callus thick, central, densely pubescent, between the lateral lobes; median lobe triangular, acute; lateral lobes orbicular to obovate, rounded. Spur subglobose. - Pl. 133, p. 303.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, Congo, Zaïre, Ouganda, Tanzanie, Zambie, Zimbabwe, Malawi
+Cameroon, Equatorial Guinea, Gabon, Congo, Zaire, Uganda, Tanzania, Zambia, Zimbabwe, Malawi
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 800–1,700 m. Epiphytic in forest or open forest or lithophytic on sandstone outcrop covered with lichen
 
-alt. 800-1 700 m. Épiphyte en forêt ou forêt claire ou lithophyte sur affleurement gréseux couvert de lichen
+MATERIAL EXAMINED (Map 61):
 
-MATÉRIEL ÉTUDIÉ (Carte 61) :
-
-Le Testu 5873, Sindara (fl. Mars), P!.
+Le Testu 5873, Sindara (fl. March), P!.
 
 2. CYMBIDIEAE Pfitzer
 
 Entw. Nat. Anord. Orch.: 105 (1887).
 
-Pseudobulbes à plusieurs entre-nœuds, généralement allongés, grêles, parfois absents. Feuilles plissées. Inflorescence latérale supérieure ou inférieure. Fleurs résupinées, sacciformes ou munies d'un éperon profond à la base. Gynostème généralement massif. Rostellum court et massif, en dôme. Viscidie généralement grande, lamellée. Tegula lamellée, unique, entière ou divisée au sommet. Pollinies 2 ou 4, aplaties dorsiventralement ou superposées.
+Pseudobulbs with several internodes, generally elongate, slender, sometimes absent. Leaves plicate. Inflorescence lateral, superior or inferior. Flowers resupinate, sacciform or equipped with a deep spur at the base. Gynostemium generally massive. Rostellum short and massive, dome-shaped. Viscidium generally large, lamellate. Tegula lamellate, unique, entire or divided at the apex. Pollinia 2 or 4, flattened dorsiventrally or superposed.
 
-Trois sous-tribus appartiennent à cette tribu, dont 2 ; les Goveniinae Dressl. et les Cyrtopodiinae Benth., ne sont connues que de la zone néotropicale. Les Cymbidiinae sont représentées au Gabon.
+Three subtribes belong to this tribe, of which 2; the Goveniinae Dressl. and the Cyrtopodiinae Benth., are known only from the Neotropical zone. The Cymbidiinae are represented in Gabon.
 
 CYMBIDIINAE Benth.
 
 J. Linn. Soc., Bot. 18:287 (1881).
 
-Tige jonciforme ou pseudobulbes à quelques entre-nœuds. Feuilles 1-2-plissées. Labelle articulé, muni d'un éperon ou sacciforme, parfois soudé à la partie basale du gynostème. Pied de la colonne long et massif ou parfois réduit. Rostellum en dôme, court, massif. Viscidie unique, lamellée à relativement épaisse, charnue. Tegula mince ou épaisse, entière ou divisée en V au sommet. Rostellum généralement profondément entaillé après le retrait des pollinies. Anthère recourbée vers l'avant. Pollinies 2, profondément fourchues, ou 4, de taille très inégale, superposées. Caudicules collants.
+Stem rush-like or pseudobulbs with a few internodes. Leaves 1–2-plicate. Labellum articulate, equipped with a spur or sacciform, sometimes fused to the basal part of the gynostemium. Column foot long and massive or sometimes reduced. Rostellum dome-shaped, short, massive. Viscidium unique, lamellate to relatively thick, fleshy. Tegula thin or thick, entire or divided in V at the apex. Rostellum generally deeply notched after the withdrawal of the pollinia. Anther curved forward. Pollinia 2, deeply forked, or 4, of very unequal size, superposed. Caudicles sticky.
 
 ## Figures
 

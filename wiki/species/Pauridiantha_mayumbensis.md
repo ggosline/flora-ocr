@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small shrub of 1.5–2.2 m, with stem exceeding 1 cm diam., with lateral branches ± horizontal reaching sometimes up to 80 cm long without secondary ramifications. Internodes pubescent 20–40 × 1.5–2 mm. Stipules pubescent lanceolate acute, 6–12 (20) × 2–4 (8) mm, caducous. Petiole 3–8 (10) mm, pubescent. Blade olivaceous, glabrous above except for a pubescent midline, oblong-elliptic, 7–18 (23) × 2–5 (6) cm; base ± acute, obtuse or even rounded; apex attenuate acute subacuminate; margins with conspicuously pubescent edge on the lower face. (7)8–11(15) pairs of secondary veins rather abruptly inserted then ± arched, finally very long-ascending, clothed with appressed hairs beneath. Intersecondary veinlets numerous, subtransverse and ± pubescent beneath. Domatia pubescent sometimes not distinct (Le Testu 8125).
 
-Petit arbuste de 1,5-2,2 m, à tige dépassant 1 cm de diam., à rameaux latéraux ± horizontaux atteignant parfois jusqu'à 80 cm de long sans ramifications secondaires. Entrenœuds pubescents de 20-40 × 1,5-2 mm. Stipules pubescentes lancéolées aiguës, de 6-12 (20) × 2-4 (8) mm, caduques. Pétiole de 3-8 (10) mm, pubescent. Limbe olivâtre, glabre dessus excepté une ligne médiane pubescente, oblong-elliptique, de 7-18 (23) × 2-5 (6) cm; base ± aiguë, obtuse ou même arrondie; sommet atténué aigu subacuminé; marges à bord pubescent de façon bien apparente sur la face intérieure. (7)8-11(15) paires de nervures secondaires assez abruptement insérées puis ± arquées, enfin très longuement ascendantes, vêtues de poils apprimés dessous. Veinules intersecondaires nombreuses, subtransverses et ± pubescentes dessous. Domaties pubescentes parfois non distinctes (Le Testu 8125).
+Inflorescences axillary solitary or fasciculate, ± pubescent, with short peduncle 2–3 mm, contracted-subumbelliform, 4–20-flowered. Small narrow acute bracteoles 1–2(5) mm. Pedicels 1–5 mm; buds 4–5 mm, ovoid and micropuberulent at the apex. Calyx ± pubescent, green sometimes bright orange at the end of anthesis, 5(6) teeth 0.9 to 1.8 mm, rather erect. Corolla nearly glabrous, white, whitish-pink, greyish-green, yellow or yellowish and ± bluish externally, 4–6 mm diam., with 5 triangular lobes; white pubescence of the throat ± apparent. Anthers ± exsert mediodorsifixed, 1–1.5 mm long by ± 0.8 mm, pale yellow with whitish pollen; connective with acute apicule. Filament reaching 2 mm. Style c. 3 mm, with micropuberulent column or ± pubescent in its upper half. Stigma oblong bilobed or subcapitate. Disk fleshy more than 0.6 mm thick, c. 2 mm diam., glabrous,
 
-Inflorescences axillaires solitaires ou fasciculées, ± pubescentes, à court pédoncule de 2-3 mm, contractées-subombeliformes, 4-20-flores. Petites bractéoles étroites et aigués de 1-2(5) mm. Pédicelles de 1-5 mm; boutons de 4-5 mm, ovés et micropubérulents à l'apex. Calice ± pubescent, vert parfois orangé vif en fin d'anthèse, 5(6) dents de 0,9 à 1,8 mm, plutôt dressées. Corolle à peu près glabre, blanche, blanc-rosé, vert-grisâtre, jaune ou jaunâtre et ± bleuâtre extérieurement, de 4-6 mm de diam., à 5 lobes triangulaires; pubescence blanche de la gorge ± apparente. Anthères ± exsertes médidorsifixes, de 1-1,5 mm de long sur ± 0,8 mm, jaune pâle à pollen blanchâtre; connectif à apicule aigu. Filet atteignant 2 mm. Style d'env. 3 mm, à colonne micropubérulente ou ± pubescente dans sa moitié supérieure. Stigmate oblong bilobé ou subcapité. Disque charnu de plus de 0,6 mm d'épaisseur, d'env. 2 mm de diam., glabre,
+PL. 51. — Pauridiantha mayumbensis (Good) Brem. (N. Hallé 2244): 1, leaf × 3/4; 2, bud; 3, flower in section; 4, anther 1.2 mm; 5, disk 2 mm diam.; 6, section of ovary; 7, immature fruit 6 mm diam. — P. Dewevrei (De W. et Dur.) Brem.: 8, leaf × 3/4; 9, stipules; 10, inflorescences (N. H. 3326); 11, section of flower; 12, anther 1.3 mm; 13, gynoecium (Thollon s. n.); 14, seed (N. H. 1154). — (8, 9, 11 and 12, N. H. 3202).
 
-PL. 51. — Pauridiantha mayumbensis (Good) Brem. (N. Hallé 2244) : 1, feuille × 3/4; 2, bouton; 3, fleur en coupe; 4, anthère de 1,2 mm; 5, disque de 2 mm de diam.; 6, coupe de l'ovaire; 7, fruit immature de 6 mm de diam. — P. Dewevrei (De W. et Dur.) Brem.: 8, feuille × 3/4; 9, stipules; 10, inflorescences (N. H. 3326); 11, coupe de la fleur; 12, anthère de 1,3 mm; 13, gynécée (Thollon s. n.); 14, graine (N. H. 1154). — (8, 9, 11 et 12, N. H. 3202).
+yellow or orange, ornamented with a crown of fossules. Ovary 2-locular partially divided by a small false partition.
 
-jaune ou orangé, orné d’une couronne de fossules. Ovaire à 2 loges partiellement divisées par une petite fausse cloison.
-
-Fruit dépassant 6-9 mm de diam., globuleux, surmonté par les sépales persistants dressés; devient bleu et juteux à maturité (C. Donis 1748). Graines nombreuses, brunâtres, globoïdes ou un peu ovales, de 1 mm, submuriquées-cristées.
+Fruit exceeding 6–9 mm diam., globose, topped by persistent erect sepals; becomes blue and juicy at maturity (C. Donis 1748). Seeds numerous, brownish, globoid or somewhat oval, 1 mm, submuriculate-crested.
 
 ## Type
 
@@ -39,23 +37,21 @@ Gossweiler 6962 (ou 7631), Belize, Mayombe portugais (BM, non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is fairly variable, notably in leaf size, number of secondary veins, vigor of extremities, density of inflorescences, calyx piloseness and flower color. Other characters, essential ones, are very constant. Subsequently, on more abundant material, varieties could be delimited.
 
-Cette espèce est assez variable, notamment par la taille de ses feuilles, le nombre de ses nervures secondaires, la vigueur des extrémités, la densité des inflorescences, la pilosité du calice et la couleur des fleurs. D'autres caractères, ceux-là essentiels, sont très constants. Ultérieurement, sur un matériel plus abondant, des variétés pourraient être délimitées.
+P. mayumbensis appears to favor well-drained undergrowth and slopes in the Crystal Mountains. Sciaphile shrub of old reworked forest (lower Congo, Luki region).
 
-Le P. mayumbensis paraît affectionner les sous-bois bien drainés et les pentes dans les Monts de Cristal. Arbuste scia-phile de forêt remaniée ancienne (bas-Congo, région de Luki).
+Use: employed in infusions against neuralgia (Thollon).
 
-Usage : employé en tisanes contre les névralgies (Thollon).
+Material studied (Gabon and Congolese Mayombe):
 
-Matériel étudié (Gabon et Mayombe congolais) :
+N. Hallé: 2149, 2198, 2244, C.E.F.A. work sites of the Abanga, Crystal Mountains (fl. and fr. v. June).
 
-N. Hallé : 2149, 2198, 2244, chantiers C.E.F.A. de l'Abanga, Monts de Cristal (fl. et fr. v. juin).
+H. Lecomte: B 15, Kitabi, Nounzi forest (fl. fr. and gr. Oct.); B 116, Ngoma (fr. v. Jan.).
 
-H. Lecomte : B 15, Kitabi, forêt de Nounzi (fl. fr. et gr. oct.); B 116, Ngoma (fr. v. janv.).
+G. Le Testu: 5818, Les Echiras (fr. v. Dec.); 7681, Micouma, Lastoursville region (fl. Nov.); 8125, Koulamotou (fl. June).
 
-G. Le Testu : 5818, Les Echiras (fr. v. déc.); 7681, Micouma, région de Lastoursville (fl. nov.); 8125, Koulamotou (fl. juin).
-
-Thollon : 62, Ndjolé (j. fr. oct.); 1273, forêt du Mayumbe (fl. nov.); 4036, Libreville (fl. et fr. v. déc.).
+Thollon: 62, Ndjolé (j. fr. Oct.); 1273, Mayumbe forest (fl. Nov.); 4036, Libreville (fl. and fr. v. Dec.).
 
 ## Vernacular names
 

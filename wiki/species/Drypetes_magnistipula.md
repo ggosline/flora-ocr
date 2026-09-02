@@ -31,7 +31,7 @@ Habitat: primary or secondary evergreen forests, riparian forests; in Gabon at 6
 
 ## Source note
 
-This species has been mainly observed and collected in the Crystal Mountains and in the Estuary. The stipules are foliaceous, persisting a long time on the plant and larger than those of all other Gabonese species. They are only very rarely absent on herbarium specimens. The base of the leaves is generally asymmetric, with one side rounded
+This species has been mainly observed and collected in the Crystal Mountains and in the Estuaire. The stipules are foliaceous, persisting a long time on the plant and larger than those of all other Gabonese species. They are only very rarely absent on herbarium specimens. The base of the leaves is generally asymmetric, with one side rounded
 
 ## Bibliography
 

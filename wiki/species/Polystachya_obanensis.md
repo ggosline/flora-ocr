@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 2,5-8 x 0,5-2 cm, oblongs. Feuilles subsessiles, 19 x 0,8-2,5 cm, oblongues à linéaires-lancéolées, inégalement bilobées. Inflorescence assez lâche, < 20 cm, 15-20-flore. Fleurs crème ou jaunes. Sépale dorsal linéaire-triangulaire. Pétales obliquement blancéolés, glabres. Sépales latéraux obliquement triangulaires. Labelle trilobé vers le milieu, callus allongé plus ou moins saillant dans la moitié inférieure ; lobe médian ovale-triangulaire à ové, aigu avec un callus au centre ; lobes latéraux obliquement oblongs à rhombiformes, finement ciliolés. – Pl. 110, p. 249.
+Pseudobulbs 2.5-8 × 0.5-2 cm, oblong. Leaves subsessile, 19 × 0.8-2.5 cm, oblong to linear-lanceolate, unequally bilobed. Inflorescence rather lax, < 20 cm, 15-20-flowered. Flowers cream or yellow. Dorsal sepal linear-triangular. Petals obliquely lanceolate, glabrous. Lateral sepals obliquely triangular. Labellum trilobed toward the middle, callus elongate more or less prominent in the lower half; median lobe ovate-triangular to ovoid, acute with a callus at the center; lateral lobes obliquely oblong to rhombiform, finely ciliolate. – Pl. 110, p. 249.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Nigeria, Cameroun, Gabon
+Liberia, Côte d'Ivoire, Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-900 m. Epiphyte in humid lowland forest
 
-alt. 0-900 m. Épiphyte en forêt humide de basse altitude
+MATERIAL STUDIED (Map 43):
 
-MATÉRIEL ÉTUDIÉ (Carte 43) :
+De Wilde, Arends, Louis, F. Bouman & J. J. Karper 536, Mont Naguila, ca. 4 km SE of the Mission of Mouyanama, 15 km on the Mimongo-Mbigou road, on very steep forested slope, moss forest, alt. ± 880 m, epiphyte, 20 m above ground (fl. Feb.), BR!, WAG!.
 
-De Wilde, Arends, Louis, F. Bouman & J. J. Karper 536, Mont Naguila, 4 km environ au SE de la Mission de Mouyanama, à 15 km sur la route Mimongo-Mbigou, sur pente forestée très escarpée, forêt à mousses, alt. ± 880 m, épiphyte, 20 m au-dessus du sol (fl. Fév.r.), BR!, WAG!.
-
-Van der Laan 720, cult., en serre WAG 83-307, prov. Gabon. (fl. Nov.), WAG!.
+Van der Laan 720, cult., in greenhouse WAG 83-307, prov. Gabon. (fl. Nov.), WAG!.
 
 ## Notes
 

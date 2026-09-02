@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kühn, v. Deck, Reis. 3 (3) : 21 (1879). — Alston, FWTA : 42 (1959).
 
-Rhizome dressé, à frondes en touffes, grimpant, portant des écailles linéaires, à pseudo-nervure noire, bords entiers (atteint
-
-2 et 3 m d'après les collecteurs). Pétiole long de 30-50 cm, violacé à la base, straminé plus haut, canaliculé au sommet, nu, muriculé sur toute sa longueur. Limbe à contour lancéolé, de 50-180 cm, régulièrement bipinnatifide, portant 10-30 paires de pennes latérales sessiles, alternes, espacées de 6-7 cm, faisant un angle droit avec le rachis, longues de 10-15 cm, sur 6-7 de large, divisées, jusqu'à 2 cm du rachis environ, en 12-15 lobes aigus, dentés au sommet, séparés par des sinus généralement plus larges qu'eux; extrémité de la penne entière sur 1,5-2 cm environ. Penne inférieure auriculée. Rachis straminé, muriqué, épineux. Costae et costulae straminés, portant de grandes épines à la face inférieure. Absence de bourgeon à la base de la penne terminale. Texture membraneuse. Nervures formant une aréole surbaissée le long du costa de la penne, et une seule, quelquefois deux, séries d'aréoles le long des nervures médianes des lobes. Sores faisant le tour des sinus. Absence de paraphyses.
+Rhizome erect, with fronds in tufts, climbing, bearing linear scales with a black pseudo-vein, entire margins (attaining 2 and 3 m according to collectors). Petiole 30-50 cm long, violet at the base, stramineous higher up, channeled at the apex, glabrous, muriculate along its entire length. Lamina with lanceolate outline, 50-180 cm, regularly bipinnatifid, bearing 10-30 pairs of lateral pinnae sessile, alternate, spaced 6-7 cm apart, making a right angle with the rachis, 10-15 cm long, 6-7 cm wide, divided to approximately 2 cm from the rachis, into 12-15 acute lobes, dentate at the apex, separated by sinuses generally wider than themselves; apex of the pinna entire for approximately 1.5-2 cm. Lower pinna auricled. Rachis stramineous, muriculate, spinous. Costae and costulae stramineous, bearing large spines on the lower surface. Absence of a bud at the base of the terminal pinna. Membranous texture. Veins forming a depressed areole along the costa of the pinna, and a single, sometimes two, series of areoles along the median veins of the lobes. Sori surrounding the sinuses. Absence of paraphyses.
 
 ## Type
 
@@ -34,11 +30,9 @@ Schweinfurth 3311, Assika
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Sudan to Congo, Angola, Uganda.
 
-Du Soudan au Congo, Angola, Ouganda.
-
-Bas-fonds des forêts, sous-bois peu éclairés.
+Low-lying areas of forests, poorly lit undergrowth.
 
 ## Specimens examined
 

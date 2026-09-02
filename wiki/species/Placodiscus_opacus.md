@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 814 (1932).
 
 — P. letestui PELLEGRIN, Bull. Soc. Bot. France 102 : 229 (1955); HAUMAN, Fl. Congo 9 : 375 (1960), syn. nov.
 
-Arbuste ou arbre d'environ 6 m à tronc ramifié (N. HALLÉ). Feuilles à rachis cannelé, renflé à la base, glabre ou légèrement velouté-pubérulent; folioles alternes ou opposées, à réseau de nervures mieux marqué dessous que dessus, subcoriaces, dessus verdâtre brillant, dessous brunâtre mat.
+Shrub or tree approximately 6 m tall with a branched trunk (N. HALLÉ). Leaves with channelled rachis, swollen at the base, glabrous or slightly velutinous-puberulent; leaflets alternate or opposite, with vein reticulation more pronounced beneath than above, subcoriaceous, upper surface greenish glossy, lower surface brownish dull.
 
-Inflorescences pendantes à axes rosâtres. Fleurs verdâtres; sépales bordés de rouge vineux; filets et disque jaune-citron (N. HALLÉ). PL. 32, 1-4, p. 135.
+Inflorescences pendulous with roseate axes. Flowers greenish; sepals bordered with wine-red; filaments and disc lemon-yellow (N. HALLÉ). PL. 32, 1-4, p. 135.
 
 ## Type
 
@@ -32,13 +30,11 @@ Tessmann 363, Nkolentangan, Makonanam, alt. 450 m, Guinée équatoriale (fl. ♂
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This specimen disappeared in Berlin, but LE TESTU collected in 1933 between the Ogooué and the Cameroonian border a plant of which PELLEGRIN made the type of P. letestui in 1955; by comparing RADLKOFER's description with the material of LE TESTU and that of N. HALLÉ illustrated with coloured drawings executed from life, it transpires that all these plants differ only by a few centimetres more or less in the dimensions of the petioles, rachis and leaflets and that it is appropriate to retain only the single binomial P. opacus for its priority.
 
-Cet échantillon a disparu à Berlin, mais LE TESTU a récolté en 1933 entre l'Ogooué et la frontière camerounaise une plante dont PELLEGRIN a fait le type de P. letestui en 1955; en comparant la description de RADLKO-FER avec le matériel de LE TESTU et celui de N. HALLÉ illustré de dessins coloriés exécutés sur le vif, il s'avère que toutes ces plantes ne diffèrent que par quelques centimètres en plus ou en moins dans les dimensions des pétrioles, rachis et folioles et qu'il convient de ne garder pour son antériorité que le seul binôme P. opacus.
+The type, Le Testu 9170, Oyem, Gabon (fl., 6 June 1933, P) could replace the old lost specimen.
 
-Le type, Le Testu 9170, Oyem, Gabon (fl., 6 juin 1933, P) pourrait remplacer l'ancien perdu.
-
-L'aire s'étend en République Centrafricaine (Tisserant 1699, Boukoko, fl. ♀ nouées, fév.).
+The range extends into the Central African Republic (Tisserant 1699, Boukoko, fl. ♀ knotted, Feb.).
 
 ## Specimens examined
 

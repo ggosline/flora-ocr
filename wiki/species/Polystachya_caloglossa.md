@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tiges 5-40 × 0,2-0,7 cm. Feuilles 5-19 × (1,3-) 2,5-5 cm, obovées. Inflorescence 4-12 cm, 50-flore. Fleurs jaunes, abricot, vert-rougeâtre, ovaire rouge ou violet. Sépale dorsal oblong-elliptique, apiculé. Pétales oblancéolés, obtus. Labelle brièvement onguiculé, 3-lobé au milieu, assez mince, finement papilleux sur les deux faces ; callus saillant, oblong, obtus au centre ; lobe médian largement ové-triangulaire, obtus, aigu à brièvement apiculé avec un apicule défléchi ; lobes latéraux, obliquement obovés, arrondis. Éperon sacciforme-conique.— Pl. 116, p. 265.
+Stems 5–40 × 0.2–0.7 cm. Leaves 5–19 × (1.3–) 2.5–5 cm, obovate. Inflorescence 4–12 cm, 50-flowered. Flowers yellow, apricot, greenish-red, ovary red or violet. Dorsal sepal oblong-elliptic, apiculate. Petals oblanceolate, obtuse. Lip briefly clawed, 3-lobed in the middle, rather thin, finely papillose on both faces; callus prominent, oblong, obtuse at the centre; median lobe broadly ovate-triangular, obtuse, acute to briefly apiculate with a deflexed apicule; lateral lobes obliquely obovate, rounded. Spur saccate-conical.— Pl. 116, p. 265.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, Zaïre, Rwanda, Burundi, Ouganda
+Cameroon, Equatorial Guinea, Gabon, Zaire, Rwanda, Burundi, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–3 500 m. Epiphytic in mossy forest at low altitude; forest galleries, notably encountered on Syzygium cordatum
 
-alt. 900-3 500 m. Épiphyte en forêt à mousses de basse altitude ; galeries forestières, rencontré notamment sur Syzygium cordatum
+MATERIAL STUDIED (Map 48):
 
-MATÉRIEL ÉTUDIÉ (Carte 48) :
+MATERIAL STUDIED (Map 48): Hallé 3516, Bélinga (fl. Dec.), P!; 3575, Bélinga (fl. Dec.), P!. Hallé & Cours 6167, Piste de Mimongo à Mbigou, roadside (fl. May), P!.
 
-MATERIEL ETUDIE (Carte 48) : Hallé 3516, Bélinga (fl. Déc.), P! ; 3575, Bélinga (fl. Déc.), P!. Hallé & Cours 6167, Piste de Mimongo à Mbigou, bord de chemins (fl. Mai), P!.
-
-* Nature et lieux de dépôt signalés différemment dans FCAM.
+* Nature and location of specimens noted differently in FCAM.
 
 ## Figures
 

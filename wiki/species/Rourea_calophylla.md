@@ -16,23 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BRETELER (éd.), AUWP 89 (6): 317 (1989).
 
-- Paxia calophylla GILG ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50: 31 (1910); PR 103 (4, 127): 115 (1938). TYPE: Cameroun, Bipindi, Zenker 1963 (holo-B; iso-BM, BR, G, E, GOET, K, L, M, MO, P, WAG, Z).
+- Paxia calophylla GILG ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50: 31 (1910); PR 103 (4, 127): 115 (1938). TYPE: Cameroon, Bipindi, Zenker 1963 (holo-B; iso-BM, BR, G, E, GOET, K, L, M, MO, P, WAG, Z).
 
-Très grande liane ou arbuste.
+Very large vine or shrub.
 
-Feuilles. Pétiole long de ≤11 cm ; rachis de ≤12 cm ; pétioules longs de 2-6 mm ; folioles 3-7, ovées à elliptiques, en général avec 3-5 longues nervures latérales arquées ; limbe glabre finement coriace, acuminé au sommet ; foliole terminale 8-22 × 3-10,5 cm ; folioles latérales à peu près symétriques, 5-19 × 3-10 cm.
+Leaves. Petiole up to ≤11 cm long; rachis up to ≤12 cm; petiolules 2-6 mm long; leaflets 3-7, ovate to elliptic, generally with 3-5 long curved lateral veins; blade glabrous, finely coriaceous, acuminate at apex; terminal leaflet 8-22 × 3-10.5 cm; lateral leaflets nearly symmetrical, 5-19 × 3-10 cm.
 
-Inflorescence longue de ≤20 cm, avec de remarquables poils glanduleux rougeâtres très nombreux.
+Inflorescence up to ≤20 cm long, with remarkable reddish glandular hairs, very numerous.
 
-Fleurs : boutons sphériques. Pédicelles de 1-3 mm au-dessus de l'articulation. Sépales  $ 3-4 \times 1-2 $ mm, côté externe couvert de poils glanduleux et l'interne de poils ordinaires. Pétales  $ 7-10 \times 2-2,5 $ mm, en forme de lanière, enroulés dans le bouton, libres. Étamines : les grandes longues de 1,8-5,5 mm, les courtes de 1-3,5 mm ; filets courbes vers l'intérieur. Pistil long de 1,2-4,5 mm ; style glabre ou avec des poils ; ovaire pubescent.
+Flowers: buds spherical. Pedicels 1-3 mm above the articulation. Sepals $ 3-4 \times 1-2 $ mm, external side covered with glandular hairs and inner side with ordinary hairs. Petals $ 7-10 \times 2-2.5 $ mm, ribbon-shaped, rolled in the bud, free. Stamens: the long ones 1.8-5.5 mm long, the short ones 1-3.5 mm long; filaments curved inward. Pistil 1.2-4.5 mm long; style glabrous or with hairs; ovary pubescent.
 
-Fruits : follicules 1-2 par fleur, rarement davantage ; ≈ 30 × ≈ 15 mm, terminés par un bec, couverts de nombreux poils glanduleux, déhiscents selon une suture ventrale. Sépales 5-7 × 3-4,5 mm sous le fruit, coriaces.
+Fruits: follicles 1-2 per flower, rarely more; ≈ 30 × ≈ 15 mm, terminated by a beak, covered with numerous glandular hairs, dehiscent along a ventral suture. Sepals 5-7 × 3-4.5 mm beneath the fruit, coriaceous.
 
-Graine à enveloppe pour environ 1/3 charnue ; partie mince du testa probablement d'un rouge très foncé et brillant. Radicule ventrale. – Pl. 32, p. 109.
+Seed with coat fleshy for approximately 1/3; thin part of the testa probably very dark red and glossy. Radicle ventral. – Pl. 32, p. 109.
 
 ## Type
 
@@ -40,15 +38,11 @@ Zenker 1963, Bipindi, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Est du Nigeria, Cameroun, Gabon, Angola (Cabinda)
+Eastern Nigeria, Cameroon, Gabon, Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile de basse altitude
+lowland rainforest
 
 ## Specimens examined
 

@@ -21,7 +21,7 @@ Publ. Field Columb. Mus., Bot. Ser. 2(1) : 53 (1900). C. bicolor DC., Cat. pl. h
 
 ## Distribution
 
-Native of India, arrived in Africa probably around 2000 B.C., distributed since their discovery in 1492, to the West Indies and other countries of warm regions; in Gabon, little cultivated (Estuaire, Ngounié, Ogooué Maritime) and rarely naturalized
+Native of India, arrived in Africa probably around 2000 B.C., distributed since their discovery in 1492, to the West Indies and other countries of warm regions; in Gabon, little cultivated (Estuaire, Ngounié, Ogooué-Maritime) and rarely naturalized
 
 ## Ecology
 

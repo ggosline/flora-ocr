@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. Soc. Roy. Bot. Belgique 38(1, Compt. Rend.): 5 (1899). P. andongensis Hiern, Enum. 2: 145 (1992). Perennial herb or shrub, up to 2(–3) m tall; stem woody, at least at the base, little branched, erect or somewhat decumbent; bark greyish-brown, often with golden striations; branchlets slender, with sparse to abundant pubescence. Stipules ovate, 5–8 mm long, long-acuminate, brown, ciliate, early caducous. Leaves alternate, not or rarely reduced in size toward the branch apices, often early caducous, the lower portions of the branches thus becoming defoliate with prominent leaf scars; petiole 1–5.5 cm, pubescent, sometimes with long stiff hairs; blade ovate to narrowly elliptic, laterally symmetric or weakly asymmetric, 4–11 × 2–4 cm, base unequal, cuneate, apex long-acuminate to caudate, margin entire, chartaceous, with whitish tomentum, upper surface with sparse stiff hairs and cystoliths, lower surface with sparse stiff hairs on the veins, often with arachnoid hairiness between the veins; venation symmetrically triplinerved, basal pair of lateral veins reaching one-half to two-thirds of the apex, upper lateral veins in 1 or 2(–3) pairs, the ultimate ones resolving into the tertiary network. Inflorescence in a glomérule of 10 to 25 flowers, generally with more female than male flowers; bracts linear-lanceolate, with narrowly cuneate base, with long-acuminate apex. Male flower: pedicel ± 0.5 mm; perianth globose and apiculate in bud, 4-merous, pubescent, without hooked hairs. Female flower sessile; perianth 1–1.5 mm long, tubular, with 3 or 4 apical teeth barely marked at anthesis and 6 to 10 rather indistinct veins, glabrous, rarely puberulent toward the apex, rather fine and semitranslucent in texture, giving a characteristic appearance of brilliant gold; stigma exsert, straight
 
-Bull. Soc. Roy. Bot. Belgique 38(1, Compt . Rend.) : 5 (1899). P. andongensis Hiern, Enum . 2 : 145 (1992). Herbe pérenne ou arbrisseau , jusqu’à 2(–3) m de hauteur ; tige ligneuse, au moins à la base, peu ramifiée, dressée ou un peu décombante ; écorce brun grisâtre, souvent avec des stries dorées ; ramilles grêles, avec une pubescence éparse à abondante. Stipules ovales, 5–8 mm de longueur, longuement acuminées, brunes, ciliées, tôt caduques. Feuilles alternes, non ou rarement réduites en taille vers le sommet des branches, souvent tôt caduques, les parties inférieures des branches devenant ainsi défeuillées et à cicatrices foliaires marquées ; pétiole 1–5,5 cm, pubescent, parfois avec de longs poils raides ; limbe ovale à étroitement elliptique, latéralement symétrique ou faiblement asymétrique , 4–11 × 2–4 cm , base inégale, cunéée, sommet longuement acuminé à caudé, marge entière, cartacé, à tomentum blanchâtre, face supérieure avec des poils raides épars et des cystolithes, face inférieure avec des poils raides épars sur les nervures, souvent avec une pilosité arachnoïde entre les nervures ; nervation symétriquement triplinerve, paire basale des nervures latérales atteignant la moitié jusqu’aux deux tiers apicaux, nervures latérales supérieures en 1 ou 2(–3) paires, les ultimes se résolvant dans le réseau tertiaire. Inflorescence en glomérule de 10 à 25-fleurs , généralement avec plus de fleurs femelles que mâles ; bractées linéaires-lancéolées, à base étroitement cunéée, à sommet longuement acuminé . Fleur mâle : pédicelle ± 0,5 mm ; périanthe globuleux et apiculé en bouton, 4-mère, pubescent, sans poils crochus . Fleur femelle sessile ; périanthe 1–1,5 mm de longueur, tubuleux, à 3 ou 4 dents apicales à peine marquées à l’anthèse et 6 à 10 nervures plutôt indistinctes, glabre, rarement pubérulent vers le sommet, assez fin et semitranslucide en texture, donnant une apparence particulière d’or brillant ; stigmate exsert, droit
-
-Pouzolzia 67 ou faiblement courbé, ± 2 mm. Fruit faiblement comprimé, ovoïde, 1,5–2 mm de longueur, blanc, brun ou noir, brillant .
+Pouzolzia 67 or weakly curved, ± 2 mm. Fruit weakly compressed, ovoid, 1.5–2 mm long, white, brown or black, shining.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire et Ghana, puis au Nigéria, au Cameroun, en République Centrafricaine, en Guinée équatoriale, en République du Congo, en République démocratique du Congo, en Angola, en Ouganda et en Éthiopie ; au Gabon, plutôt rare et signalé de l’Ogooué-Ivindo et du Woleu-Ntem
+Côte d'Ivoire and Ghana, then in Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Republic of the Congo, Democratic Republic of the Congo, Angola, Uganda and Ethiopia; in Gabon, rather rare and recorded from Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt secondaire et autres habitats humides perturbés, altitude non indiquée sur les spéci mens du Gabon, ailleurs à 0–1000 m
+in secondary forest and other disturbed humid habitats, altitude not indicated on Gabon specimens, elsewhere at 0–1000 m
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ bale bo (fang)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bien que cette espèce ait été confondue avec P. guineensis, en particulier avec les formes à feuilles larges, elle peut presque toujours en être séparée par le périanthe femelle fin et semi-translucide, laissant deviner l’akène blanc ou brun brillant à travers lui. Alors que celui de P. guineensis , même glabre, est terne, opaque, verdâtre ou brunâtre. L’aspect caractéristique du périanthe femelle de P. denudata est lié au fait que la couche de cellules du périanthe est comprimée radialement à un degré inhabituel (Kravtsova et al. 2003). Les autres caractères distinctifs sont indiqués dans la clé. B : Friis (1989a), Kravtsova et al. (2003), Lebrun & Stork (2010), Letouzey (1968), Wilmoti B liographie Dear & Friis (2006)
+Although this species has been confused with P. guineensis, particularly with broad-leaved forms, it can almost always be separated by the fine and semi-translucent female perianth, allowing the white or shining brown achene to be seen through it. Whereas that of P. guineensis, even when glabrous, is dull, opaque, greenish or brownish. The characteristic appearance of the female perianth of P. denudata is related to the fact that the layer of perianth cells is compressed radially to an unusual degree (Kravtsova et al. 2003). The other distinctive characters are indicated in the key. B: Friis (1989a), Kravtsova et al. (2003), Lebrun & Stork (2010), Letouzey (1968), Wilmot Bibliography Dear & Friis (2006)
 
 ## Notes
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, 4–6 m tall, with drooping branches. Branchlets blackish, with dense longitudinal fissures and transverse cracks; young branchlets covered with dense cork lenticels, very young branchlets glabrous; terminal bud 5–6 mm tall; petiole 5–7 mm long, flattened on the upper surface. Blade coriaceous, elliptic or slightly obovate, 8–10 × 15–18 cm; base and apex rounded, with a broad and short deltoid acumen ± emarginate; margin slightly recurved below; 10–12 pairs of lateral veins; glandular punctations beneath the blade.
 
-Arbuste, haut de 4-6 m, à branches retombantes. Rameaux noirâtres, avec denses gerçures longitudinales et crevasses transversales; jeunes rameaux couverts de denses lenticelles liégeuses, très jeunes rameaux glabres; bourgeon terminal haut de 5-6 mm; pétiole long de 5-7 mm, aplaté à la face supérieure. Limbe coriace, elliptique ou légèrement obovale, 8-10 × 15-18 cm; base et sommet arrondis, large et court acumen deltoïde ± émarginé; marge un peu courbée dessous; 10-12 paires de nervures latérales; ponctuations glanduleuses sous le limbe.
+Racemes supra-axillary and especially on branchlets below the leaves, very contracted, bearing up to 5 flowers; pedicel short, 3 mm, articulate directly below the calyx. Floral calyx cup-shaped and not very elevated (2 mm), 5 mm in diameter with entire margin, but calyx flat and reaching 8 mm in diameter with margin somewhat crenate, or even split, in the fruit; corolla opening into 3–4 lobes 8 mm long; stamens 6–7 mm long; ovary dome-shaped and flattened above, 2 mm tall, (3–4)(–5) locules, each pluri-ovulate with placenta toward the upper part of the locules, style 8–10 mm long.
 
-Racèmes supra-axillaires et surtout sur rameaux au-dessous des feuilles, très contractés, portant jusqu'à 5 fleurs; pédicelle court, 3 mm, articulé directement sous le calice. Calice floral en cupule peu élevée (2 mm), de 5 mm de diamètre avec marge entière, mais calice plat et atteignant 8 mm de diamètre avec marge en peu festonnée, voire fendue, dans le fruit; corolle s'ouvrant en 3-4 lobes longs de 8 mm; étanines longues de 6-7 mm; ovaire en dôme aplati dessus, haut de 2 mm, (3-4)(-5) loges, chacune pluriovulée avec placenta vers le haut des loges, style long de 8-10 mm.
-
-Capsule crustacée globuleuse, mesurant au moins 15 mm de diamètre, à péricarpe mince, couvert extérieurement de petites écailles (dorées?), s'ouvrant (sans doute tardivement) par (3-4(-5) valves. — PL. 46, p. 169.
+Capsule crustaceous and globose, measuring at least 15 mm in diameter, with thin pericarp, covered externally with small scales (golden?), opening (no doubt tardily) by (3–4(–5) valves. — PL. 46, p. 169.
 
 ## Type
 
@@ -31,13 +29,11 @@ N. Hallé 4125, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+By its floral calyx subpatelliforme with entire margin, articulate directly on the pedicel, this species appears to distinguish itself easily; new collections of flowering or fruit-bearing specimens nevertheless remain desirable.
 
-Par son calice floral subpatelliforme à marge entière, articulé directement sur le pédi-celle, cette espèce paraît se distinguer facilement; de nouvelles récoltes d'échantillons fleuris ou avec fruits mûrs restent cependant désirables.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Rhaptopetalum belingense R. Let. n'est connue que de la région de Bélinga au Gabon où, d'après le récolteur, l'arbuste a été rencontré en lisière de savane (intraforestière).
+Rhaptopetalum belingense R. Let. is known only from the Bélinga region in Gabon where, according to the collector, the shrub was encountered in savanna fringe (intraforestry).
 
 ## Specimens examined
 

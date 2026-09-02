@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (2) : 475 (1921); LETOUZEY, Adansonia, ser. 2, 1 (2) : 125, tab. 3 (1961).
 
 — Diospyros pachyphylla Gürke, Bot. Jahrb. 46 : 152 (1911).
 
-Arbuste, haut de 5-10 m; rameaux parfois densément garnis de pustules liégeuses, normalement brun clair avec 2 rides longitudinales sous pétioles et racèmes; jeunes rameaux un peu anguleux, d'abord papilleux; pétiole long de 3-15 mm, ± cannelé ou aplati dessus. Limbe coriace à très coriace (Gabon) ou papyracé à subcoriace (Cameroun), oblong à obovale (plus large aux 2/3 supérieurs), 6-13(-15) × 14-28(-33) cm; base obtuse à arrondie, voire subcordée; sommet obtus à arrondi avec acumen triangular (Gabon) ou 8-12 (Cameroun) paires de nervures latérales d'abord papilleuses dessous; ponctuations glanduleuses sous le limbe, parfois assez grosses, 1 mm (Gabon) ou peu distinctement visibles (Cameroun).
+Shrub, 5–10 m tall; branches sometimes densely furnished with corky pustules, normally light brown with 2 longitudinal ridges beneath petioles and racemes; young branches slightly angular, initially papillose; petiole 3–15 mm long, ± channeled or flattened above. Leaf blade coriaceous to very coriaceous (Gabon) or papyraceous to subcoriaceous (Cameroon), oblong to obovate (widest in upper 2/3), 6–13(–15) × 14–28(–33) cm; base obtuse to rounded, sometimes subcordate; apex obtuse to rounded with a triangular acumen (Gabon) or 8–12 (Cameroon) pairs of lateral veins initially papillose beneath; glandular punctations on the underside of the blade, sometimes fairly large, 1 mm (Gabon) or only faintly visible (Cameroon).
 
-Racèmes contractés sur les rameaux et sous les feuilles ou supraaxillaires, portant jusqu'à 10-20 fleurs; pédicelle long de 3-5 mm, d'abord papilleux, articulé directement sous le calice et avec de larges bractées et bractées à la base, parfois avec bractées à mi-hauteur. Calice floral profondément cupuliforme, de 8 mm de hauteur et 12 mm de diamètre, 3-4(-5) lobé jusqu'à mi-hauteur avec lobes obtus à marge ourlée et garnis de minuscules écailles glanduleuses; bouton de la corolle ellipsoïde, atteignant 10-15 mm de hauteur, obtus au sommet; corolle s'ouvrant en 3-4(-5) lobes de 15 mm; étamines hautes de 7-8 mm; ovaire ± enfoncé dans le réceptacle, extérieurement en mamelon conique ou aplaté dessus, strié radialement, ne dépassant guère 1,5 mm de hauteur, à 4 loges pluriovulees avec placenta vers le haut des loges; style long de 10-12 mm.
+Racemes contracted on the branches and beneath the leaves or supraaxillary, bearing up to 10–20 flowers; pedicel 3–5 mm long, initially papillose, articulate directly beneath the calyx and with broad bracts and bracteoles at the base, sometimes with bracteoles at mid-height. Floral calyx deeply cupuliform, 8 mm tall and 12 mm in diameter, 3–4(–5) lobed to the middle with obtuse lobes with undulate margins and furnished with minute glandular scales; corolla bud ellipsoid, reaching 10–15 mm in height, obtuse at the apex; corolla opening into 3–4(–5) lobes of 15 mm; stamens 7–8 mm tall; ovary ± sunken in the receptacle, externally with a conical papilla or flattened above, radially striate, scarcely exceeding 1.5 mm in height, with 4 polyovulate locules with placentas toward the upper portion of the locules; style 10–12 mm long.
 
-Capsule crustacée globuleuse, de 25 mm de diamètre, avec réseau de nervures proéminent in sicco ; à la base calice d'abord festonné-lobé puis festonné-crénelé. — PL. 50, p. 177; 51, p. 179.
+Capsule crustaceous, globose, 25 mm in diameter, with a network of prominent veins in the dry state; calyx at the base initially scalloped-lobed then scalloped-crenate. — PL. 50, p. 177; 51, p. 179.
 
 ## Type
 
@@ -35,19 +33,15 @@ Tessmann 720, 783, Guinée Équatoriale (holo-, B, delet.; iso-720, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1) It does not appear that the differences observed (blade consistency, number of lateral veins) between Cameroonian and Gabonese specimens (to which must be added Tessmann 720 from Equatorial Guinea) can be considered to be of specific rank; it must be emphasized, however, that the fruit of this species remains unknown from Gabon and Equatorial Guinea.
 
-1) Il ne semble pas que les différences constatées (consistance du limbe, nombre de nervures latérales) entre échantillons camerounais et gabonais (auxquels il faut ajouter Tessmann 720 de Guinée Équatoriale) puissent être considérées comme étant d'ordre spécifique; il faut souligner cependant que le fruit de cette espèce reste inconnu pour le Gabon et la Guinée Équatoriale.
+2) The Cameroonian specimens with capsules, by their vegetative characters, appear to be well connected to the flowering specimens; it would, however, be advisable to observe attentively in the field the evolution of the calyces from the young floral bud stage to the mature capsule stage.
 
-2) Les échantillons camerounais avec capsules, par leurs caractères végétatifs, parais-
+3) By its 4-lobed floral calyx, its ovary and capsule, this species could be compared with Rhaptopetalum roseum (Gürke) Engl. from the lowland montane forests (850–1200 m) of eastern Zaire, a species reported by ENGLER (Pflanzenw. Afr. 3 (2) : 475, 1921) from Cameroon between Ebolowa and Yaoundé, without reference specimen and whose actual presence in Cameroon remains doubtful; the leaf of R. pachyphyllum (Gürke) Engl. is, however, obovate (and not elliptic), rounded at the base (and not subacute); the geographic isolation of these two species also argues in favor of their distinction, but since individuals of the genus Rhaptopetalum are generally infrequent, new intermediate collections could modify this opinion.
 
-sent bien se rattacher aux échantillons fleuris; il y aurait lieu cependant d'observer attentivement, sur le terrain, l'évolution des calices, du stade jeune bouton floral au stade capsule mûre.
+Known from Equatorial Guinea and Gabon (but only in the Campo–Minvoul–Oyem triangle), this species is now considered to occur in Cameroon where it has been collected in the Bakundu Forest Reserve south of Kumba, then found again in the vicinity of Ndian–Mundemba but here on a riverbank in a seasonally flooded swamp forest with Oxystigma mannii.
 
-3) Par son calice floral 4-lobé, son ovaire et sa capsule, cette espèce pourrait être rapprochée de Rhaptopetalum roseum (Gürke) Engl. des forêts de basse montagne (850-1200 m) du Zaïre oriental, espèce signalée par ENGLER (Pflanzenw. Afr. 3 (2) : 475, 1921) au Cameroun entre Ebolowa et Yaoundé, sans échantillon de référence et dont la présence effective au Cameroun reste douteuse; la feuille de R. pachyphyllum (Gürke) Engl. est cependant obovale (et non elliptique), arrondie à la base (et non subaiguë); l'isolement géographique de ces deux espèces plaide aussi en faveur de leur distinction mais les individus du genre Rhaptopetalum étant peu fréquents, en général, de nouvelles récoltes intermédiaires pourraient modifier cette opinion.
-
-Connue en Guinée Équatoriale et au Gabon (mais seulement dans le triangle Campo-Minvoul-Oyem), cette espèce est à présent considérée comme existant au Cameroun où elle a été récoltée dans la réserve forestière de Bakundu au sud de Kumba, puis retrouvée au voisinage de Ndian-Mundemba mais ici en bordure de rivière dans une forêt marécageuse périodiquement inondée à Oxystigma mannii.
-
-Binuyo & Daramola FHI 35094, Banga, rés. for. Bakundu, env. 15 km S Kumba (fr., janv.); FHI 35577, entre Bopo et Pete, rés. for. Bakundu, env. 15 km S Kumba (fl., févr.); (K, FHO). (Le dernier échantillon (WAG!), par ses feuilles, pourrait être rattaché à Rhaptopetalum sessilifolium Engl.; les caractères floraux permettent cependant de le ranger parmi Rhaptopetalum pachyphyllum (Gürke) Engl.). Letouzey 15158, 20 km S Ndian-Mundemba (fr., juin).
+Binuyo & Daramola FHI 35094, Banga, for. res. Bakundu, approx. 15 km S Kumba (fr., Jan.); FHI 35577, between Bopo and Pete, for. res. Bakundu, approx. 15 km S Kumba (fl., Feb.); (K, FHO). (The latter specimen (WAG!), by its leaves, could be referred to Rhaptopetalum sessilifolium Engl.; the floral characters nonetheless allow it to be placed among Rhaptopetalum pachyphyllum (Gürke) Engl.). Letouzey 15158, 20 km S Ndian–Mundemba (fr., June).
 
 ## Specimens examined
 

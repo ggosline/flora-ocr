@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Griseb. in Abhandl. K. Ges. Wiss. Gött., 7:278 (1857).
 
-Rhizome rameux, brun et velu dans les parties jeunes. Tige dressée, de 60 cm de long environ, plusieurs fois dichotome, à branches triquè tres. Feuilles ovales, dressées, coriaces. Sporange triloculaire. Spores monolètes.
+Rhizome branched, brown and hairy in young parts. Stem erect, approximately 60 cm long, several times dichotomous, with triquetrous branches. Leaves ovate, erect, coriaceous. Sporangium trilocular. Spores monolete.
 
-Pantropical, Sénégal, Cap Vert, Nigeria, Ghana, République Congolaise, Madagascar, Mascareignes.
+Pantropical, Senegal, Cape Verde, Nigeria, Ghana, Democratic Republic of the Congo, Madagascar, Mascarene Islands.
 
 ## Specimens examined
 

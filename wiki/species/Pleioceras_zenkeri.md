@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4(1) : 167 (1902). Arbuste ou petite liane , de 3–4 m de hauteur WURQFMXVTX¶jFPGHGLDPqWUHUDPHDX[ glabres. Feuille Spwlrohgh±PPOLPEHHOOLSWLTXHjRERYDOHRXpWURLWHPHQWRERYDOH± IRLVDXVVLORQJTXHODUJHGH±î±FPJODEUHGHVVXV dessous pubescent sur les nervures principales et glabre entre elles ; nervures secondaires 6 à 8 paires, nervation tertiaire bien visible. ,QÀRUHVFHQFH de 4,5–9 × 6,5–11,5 cm ; bractées longues de 2–4 mm, pubescentes sur les deux faces ; pédoncule de 2,5–4,5 cm, glabre ou peu pubérulent. Fleur : pédicelle de 3–7 mm, pubescent ; calice à lobes de 1,6–2,2 × 1,5–2 mm, extérieur pubescent, intérieur glabre et à la base près du bord sans ou avec 1 collétères ; corolle longue de 6–10 mm, à tube long de 1,4–4,5 mm, de 1,2–2,8 mm de diamètre, jaune, violet foncé ou rouge au sommet, JODEUHjO¶LQWpULHXUVRXVOD]RQHSLOHXVHjOREHVGH±IRLVODORQJXHXUGXWXEHGH± î±PPMDXQHVURXJHIRQFpRXYLROHWVjODEDVHSXEpUXOHQWVVXUOHVGHX[IDFHVFKDTXH HQVHPEOHGHDSSHQGLFHVHQFRPSUHQDQW¿OLIRUPHVUHVVHPEODQWjGHVEDODLVORQJVGH± PPJODEUHVUDPL¿pVDYHFjEUDQFKHVDSSHQGLFHPpGLDQREORQJGH±î± mm, DYHFGHX[FRUQHV¿OLIRUPHVDXVRPPHW ; étamines insérées à 0,8–1,2 mm sous la gorge, ¿OHWVGH±PPDQWKqUHORQJXHGH±PPSLVWLOORQJGH±PPRYDLUHJODEUH Fruit jaune foncé à brun ; follicules de 50–75 cm × 5–10 mm. Graine de 21 × 2 × 1 mm, à poils de 80–85 mm. Distribution 1LJpULD&DPHURXQHW*DERQDX*DERQ(VWXDLUH0R\HQ2JRRXpHW:ROHX1WHP Écologie IRUrWEURXVVHRXVWDWLRQVRXYHUWHVDX*DERQMXVTX¶jPG¶DOWLWXGHDLOOHXUVj±P
+Fl. trop. Afr. 4(1): 167 (1902). Shrub or small liana, 3–4 m tall; branches glabrous. Leaf: petiole 0.8–1 mm; blade elliptic to obovate or narrowly obovate, 1–2 times as long as wide, 0.5–2 × 0.2–0.8 cm, glabrous above, pubescent on the main veins and glabrous between them below; secondary veins 6 to 8 pairs, tertiary venation clearly visible. Inflorescence 4.5–9 × 6.5–11.5 cm; bracts 2–4 mm long, pubescent on both faces; peduncle 2.5–4.5 cm, glabrous or sparsely puberulent. Flower: pedicel 3–7 mm, pubescent; calyx with lobes 1.6–2.2 × 1.5–2 mm, pubescent outside, glabrous inside and at the base near the margin without or with 1 colleters; corolla 6–10 mm long, tube 1.4–4.5 mm long, 1.2–2.8 mm in diameter, yellow, dark violet or red at the apex, glabrous inside except for the pilose zone; lobes 0.5–2 times the length of the tube, 0.8–1.2 × 0.5–0.8 mm, yellow, dark red or violet at the base, puberulent on both faces; each lobe bearing appendices including filiform ones resembling small brushes, 0.8–1 mm long, glabrous, branched with 1 appendix, median oblong, 0.3–0.5 × 0.2–0.3 mm, with two filiform horns at the apex; stamens inserted 0.8–1.2 mm below the throat; filaments 0.3–0.5 mm; anther 0.4–0.6 mm long; pistil 1.4–1.8 mm long; ovary glabrous. Fruit dark yellow to brown; follicles 50–75 cm × 5–10 mm. Seed 21 × 2 × 1 mm, with hairs 80–85 mm. Distribution: Nigeria, Cameroon and Gabon; in Gabon in Estuary, Moyen-Ogooué and Woleu-Ntem. Ecology: Forest, bush or open stations in Gabon up to 650 m altitude; elsewhere at 0–600 m.
 
 ## Bibliography
 
@@ -27,11 +25,9 @@ Barink (1984)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bequaert 2172; 7-8: J. Louis 12996). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Barink (1984).
 
-Bequaert 2172 ; 7-8 : J. Louis 12996 ) . Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Barink (1984).
-
-XQHpWDPLQHHWOHVDSSHQGLFHVG¶XQOREHGHODFRUROOHî±)ROOLFXOHîҀ±%DVHGXIUXLWîҀ Zenker 157 ; 2-4 : Mildbread 5876 ; 5-7 : Zenker 2920). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Barink (1984).
+one stamen and the appendices of one corolla lobe; Follicle; Base of the fruit. Zenker 157; 2-4: Mildbread 5876; 5-7: Zenker 2920). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Barink (1984).
 
 ## Notes
 

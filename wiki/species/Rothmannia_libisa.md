@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous shrub sometimes myrmecophilous with papyraceous oblongo-obovate leaves. Related to R. macrocarpa (Hiern) Keay but differing sufficiently in the pedunculate flowers, peduncle 2-3.5 cm long, calyx lobes longer 15-60 mm long, smooth fruits smaller 4-6 × 3-4 cm, pericarp 2-3 mm thick.
 
-Frutex glaber interdum myrmecophilus foliis papyraceis oblongo-obovatis. Affinis R. macrocarpa (Hiern) Keay sed floribus pedunculatis, pedunculo 2-3,5 cm longo, lobis calycis longioribus 15-60 mm longis, fructibus laevibus minoribus 4-6 × 3-4 cm, pericarpio 2-3 mm crasso, satis differt.
+Shrub glabrous, 3-4 m tall. Internodes sometimes with myrmecodomata, rather slender. Stipules apiculate, 2-4 mm long. Petiole 10-20(40) mm. Lamina thin, glabrous, narrowly obovate 15-43 × 6-14 cm, with acute base; apex with a narrow acumen. 14-23 pairs of secondary nerves. Domatia absent.
 
-Arbrisseau glabre de 3-4 m de hauteur. Entrenœuds parfois myrmécodomes, plutôt grêles. Stipules apiculées hautes de 2-4 mm. Pétiole de 10-20(40) mm. Limbe mince, glabre, étroitement obové de 15-43 × 6-14 cm, à base aiguë; sommet avec un acumen étroit. 14-23 paires de nervures secondaires Domaties nulles.
+Flowers solitary, rarely in threes, with a well-defined peduncle (1)2-3.5 cm long, bearing 3 triangular acute bracteoles situated at the base of the ovary; the peduncle is preceded by a leaf and by an internode 1-2 cm long. Calyx glabrous with prismatic tube 12-17 mm tall and 5 linear lobes 15-60 mm long, about 1 mm wide at the axis forming a longitudinal fold. Corolla in bud with acute apex, densely pubescent with golden-ochraceous indumentum when dry, lobes overlapping to the left; the tube exceeds 8 cm in length in its narrow part (Hédin 1230 A).
 
-Fleurs solitaires, rarement par 3, à pédoncule bien distinct et long de (1)2-3,5 cm, muni de 3 bractéoles triangulaires aiguës situées à la base de l'ovaire; le pédoncule est précédé par une feuille et par un entrençud de 1-2 cm. Calice glabre à tube prismatique de 12-17 mm de hauteur et à 5 lobes linéaires de 15-60 mm de longueur, larges d'environ 1 mm à axe formant un pli longitudinal. Corolle en bouton à sommet aigu, à dense pubescence doré-ochracé à sec, à lobes recouvrants vers la gauche; le tube dépasse 8 cm de longueur dans sa partie étroite (Hédin 1230 A).
-
-Fruit elliptique lisse (ou très médiocrement ruguleux à sec) brun roux en herbier, vert in vivo, de  $ 4-6 \times 3-4 $ cm au-dessous du tube du calice, à bractéoles persistantes  $ \pm $ étagées à la base. Lobes du calice persistantes au moins avant maturité. Paroi du
-
-fruit de 2-3 mm d'épaisseur y compris l'endocarpe très mince. Graines nombreuses entassées dans le sens transversal, atteignant in vivo 10 × 10 × 3 mm. Embryon de 6 mm.
+Fruit elliptic smooth (or very faintly rugose when dry) reddish-brown in herbarium, green in vivo, $ 4-6 \times 3-4 $ cm below the calyx tube, with persistent bracteoles $ \pm $ tiered at the base. Calyx lobes persistent at least before maturity. Fruit wall 2-3 mm thick including the very thin endocarp. Seeds numerous packed in the transverse direction, reaching in vivo 10 × 10 × 3 mm. Embryo 6 mm.
 
 ## Type
 
@@ -34,11 +30,9 @@ N. Hallé 1492 (P), Makokou, 16 mars 1961
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Understory of ombrophilous or semi-deciduous forests.
 
-Sous-bois de forêts ombrophiles ou semi-décidues.
-
-Nom vernaculaire congolais : Libisa, Libisa-li-balimu (dial. Turum-bu).
+Congolese vernacular name: Libisa, Libisa-li-balimu (dial. Turum-bu).
 
 ## Specimens examined
 

@@ -21,8 +21,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Heine, F.W.T.A., ed. 2,2 : 399 (1963).
 
 ≡ Micranthus silvestris Lindau, Bot. Jahrb. 17 : 107 (1893).
@@ -31,11 +29,11 @@ tags: [species, generated]
 
 — Hutchinson et Dalz., F.W.T.A., ed. 1,2 : 249 (1931).
 
-Herbe vivace, rameuse dans les parties jeunes et les inflorescences, pubescente-poilue, à tiges et feuilles glabrescentes. Pétioles de 1-2 cm. Anisophyllie marquée. Limbe des feuilles obovale, aigu à la base et acuminé au sommet, à pointe obtuse ou même arrondie : la base du limbe est un peu asymétrique; marge entière ou très faiblement crénelée, sinueuse. Environ 5 paires de nervures latérales.
+Perennial herb, branched in the young parts and inflorescences, pubescent-hairy, with stems and leaves glabrescents. Petioles 1–2 cm. Marked anisophylly. Leaf blade obovate, acute at the base and acuminate at the apex, with an obtuse or even rounded tip: the base of the blade is slightly asymmetric; margin entire or very weakly crenulate, sinuous. Approximately 5 pairs of lateral veins.
 
-Inflorescences terminales sur de petits rameaux, condensées, ne dépassant pas 1,5 cm de long et de large; bractées spathulées-obovales, subacuminées au sommet, de 12,5 × 5 mm; bractées sessiles, obovales-orbiculaires, un peu acuminées au sommet, de 8-11 × 6-7 mm, ciliées aux bords et sur la face abaxiale (poils de 1-1,5 mm de long). Environ 3 fleurs sessiles par bractéole, dont une ou deux en général, stériles et ne s'épanouissant pas. Calice à sépales inégaux longuement ciliés; sépale postérieur elliptique-lancéolé, de 72 mm; sépales antérieurs lancéolés-rubanés, de 6-0,7 mm; sépales latéraux lancéolés-subulés, de 4 × 0,3 mm. Corolle bilabée, blanche, de 8 mm de long. Étamines légèrement didynamics, à partie libre du filet de 6 et 7 mm de long; anthères elliptiques, de 0,8 mm de long. Ovaire de 1,75 mm de haut, très légèrement pubescent vers le sommet (quelques poils glanduleux). Style de 5 mm de long, grêle, glabre, à stigmate entier, légèrement courbé, subulé.
+Terminal inflorescences on small branchlets, condensed, not exceeding 1.5 cm in length and width; bracts spathulate-obovate, subacuminate at the apex, 12.5 × 5 mm; bracteoles obovate-orbicular, slightly acuminate at the apex, 8–11 × 6–7 mm, ciliate at the margins and on the abaxial surface (hairs 1–1.5 mm long). Approximately 3 sessile flowers per bracteole, of which one or two generally sterile and not opening. Calyx with unequal long-ciliate sepals; posterior sepal elliptic-lanceolate, 7–2 mm; anterior sepals lanceolate-ribbonlike, 6–0.7 mm; lateral sepals lanceolate-subulate, 4 × 0.3 mm. Corolla bilabiate, white, 8 mm long. Stamens slightly didynamous, with free portion of filament 6 and 7 mm long; anthers elliptic, 0.8 mm long. Ovary 1.75 mm high, very slightly pubescent toward the apex (a few glandular hairs). Style 5 mm long, slender, glabrous, with entire stigma, slightly curved, subulate.
 
-Capsule longue de 5-6 mm, aplatie, ovale et atténée vers la base, acuminée, un peu apiculée et pubescente au sommet; les deux faces sont un peu transparentes. Graines aplaties, lenticulaires, de 1,7 mm de diamètre, couvertes de poils hygroscopiques.
+Capsule 5–6 mm long, flattened, ovate and attenuate toward the base, acuminate, slightly apiculate and pubescent at the apex; the two faces are slightly transparent. Seeds flattened, lenticular, 1.7 mm in diameter, covered with hygroscopic hairs.
 
 ## Type
 

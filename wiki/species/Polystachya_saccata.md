@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pseudobulbs < 3 cm × 0.4 cm, ellipsoid, compressed. Leaves 4 or 5, absent at flowering. Inflorescence rather dense, 4–12 cm, 15–35-flowered. Flowers small, fragrant, white and pink with a cushion of yellow hairs on the labellum. Dorsal sepal oblong-ovate. Petals lanceolate-linear, unequally and weakly bilobed at apex. Lateral sepals obliquely elliptic-ovate, with a short apicule. Labellum briefly clawed, rectangular to oblong-panduriform, hollowed at apex into a conical sac or hood, the base of the sac bearing two large cushions of transversely elliptic hairs. Spur saccate conical. – Pl. 109, p. 247.
 
-Pseudobulbes < 3 cm × 0,4 cm, ellipsoides, comprimés. Feuilles 4 ou 5, absentes à la floraison. Inflorescence assez dense, 4-12 cm, 15-35-flore. Fleurs petites, odorantes, blanches et roses avec un coussin de poils jaunes sur le labelle. Sépale dorsal oblong-ovale. Pétales blancéolés-linéaires, inégalement et faiblement bilobés au sommet. Sépales latéraux obliquement elliptiques-ovales, avec un apicule court. Labelle brièvement onguiculé, rectangulare à oblong-panduriforme, creusé au sommet en un sac conique ou capuchon, le fond du sac étant garni de deux grands coussins de poils transversalement elliptiques. Eperon sacciforme conique. – Pl. 109, p. 247.
-
-PL. 110. – Polystachya victoriae Kraenzl. : A, fleur ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, feuille. – Polystachya obanensis Rendle : G, inflorescence ; H, fleur et bractée ; I, J, labelle ; K, sépale dorsal ; L, pétale ; M, sépale latéral ; N, feuille (A-F, Hallé 923, P ; G, H, ex TALBOT, 1913 ; I-N, Letouzey 5613, P).
+PL. 110. – Polystachya victoriae Kraenzl. : A, flower ; B, labellum ; C, lateral sepal ; D, petal ; E, dorsal sepal ; F, leaf. – Polystachya obanensis Rendle : G, inflorescence ; H, flower and bract ; I, J, labellum ; K, dorsal sepal ; L, petal ; M, lateral sepal ; N, leaf (A–F, Hallé 923, P ; G, H, ex TALBOT, 1913 ; I–N, Letouzey 5613, P).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée-Bissau, Guinée, Nigeria, Gabon
+Guinea-Bissau, Guinea, Nigeria, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. inconnue. Épiphyte sur tronc et branche principale en savane boisée
+alt. unknown. Epiphyte on trunk and main branch in wooded savanna
 
 ## Specimens examined
 

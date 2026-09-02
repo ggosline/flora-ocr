@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub to small tree (5 m) or medium tree (up to 18 m and 25 cm in diameter), with hard wood (HAUMAN); branches rounded, ca. 4 mm in diameter, internodes 2 cm, at first tomentellous-ferruginous then glabrous. Leaves 1-2-3 (-4)-jugate; petiole rounded, 3-8 cm long, 2 mm in diameter; sometimes 2 striae arising from the petiolules black, wrinkled 6-10 mm; leaflets elliptic, with 8-11 pairs of veins, the midvein with 3-5 longitudinal striae beneath; basal leaflets 14-18 × 3.5-4.5 cm, those of the apex 17-21 (-30) × 4-6 (-10) cm, often acuminate.
 
-Arbuste à petit arbre (5 m) ou arbre moyen (jusqu'à 18 m et 25 cm de diamètre), à bois dur (HAUMAN); rameaux arrondis, env. 4 mm de diamètre, entrenœuds de 2 cm, d'abord tomentelleux-ferrugineux puis glabres. Feuilles (1-2-3 (-4)-juguées; pétiole arrondi, long de 3-8 cm, de 2 mm de diamètre; parfois 2 stries partant des pétioiules noirs, ridés de 6-10 mm; folioles elliptiques, à 8-11 paires de nervures, la nervure médiane avec 3-5 stries longitudinales dessous; folioles basales, 14-18 × 3,5-4,5 cm, celles du sommet 17-21 (-30) × 4-6 (-10) cm, souvent acuminées.
+Spike 1-1.5 cm, bearing 7-10 cymules of 2-3 flowers each; pedicel 3-7 mm; young buds sessile; calyx 5-6 mm, hairy on both faces (hairs 0.3 mm on the exterior and 0.05 mm on the interior, dense, not crisped); 3-4 petals 8-9 mm long, with ciliate claw, narrow, 2-3 mm long; limb rounded, glabrous; scales denticulate, hairy beneath; lacinate excrescences glabrous; 8-10 stamens with very finely hairy filaments. Fruit with 3 mericarps separated on half their height (ca. 12 mm), puberulent, with flesh 3 mm thick, edible.
 
-Épi de 1-1,5 cm, portant 7-10 cymules de 2-3 fleurs chacune; pédicelle de 3-7 mm; jeunes boutons sessiles; calice de 5-6 mm, velu sur les 2 faces (poils de 0,3 mm à l'extérieur et 0,05 mm à l'intérieur, serrés, non crépus); 3-4 pétales longs de 8-9 mm, à onglet cilié, étroit, long de 2-3 mm; limbe arrondi, glabre; écailles denticulées, velues dessous; excroissances laciniées glabres; 8-10 étamines à filets très finement velus. Fruit à 3 méricarpes séparés sur la moitié de leur hauteur (env. 12 mm), pubérulents, à chair de 3 mm d'épaisseur, comestible.
-
-RADLKOFER signale un caractère microscopique : petites écailles glanduleuses sur les folioles.
+RADLKOFER notes a microscopic character: small glandular scales on the leaflets.
 
 ## Type
 
@@ -35,17 +33,15 @@ Dalziel 1178, Ikoyi, Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species recognized in the Central African Republic (Le Testu 4505), in Congo (Farron 4204) and in Zaire (Mildbraed 2219, 2255).
 
-Espèce reconnue en République Centrafricaine (Le Testu 4505), au Congo (Farron 4204) et au Zaïre (Mildbraed 2219, 2255).
-
-Connue également du Togo (Warnecke 67), du Dahomey, du Nigeria, de Côte d'Ivoire, de République Centrafricaine. Elle n'est pas encore récoltée au Gabon. Toutefois sa présence y est possible, ainsi qu'au Cameroun, de même qu'une espèce du Nigeria voisin :
+Also known from Togo (Warnecke 67), Dahomey, Nigeria, Côte d'Ivoire, Central African Republic. It has not yet been collected in Gabon. However its presence there is possible, as well as in Cameroon, as is a species from neighboring Nigeria:
 
 1 ter. Pancovia sessiliflora Hutchinson & Dalziel
 
-FWTA, ed. 1, 1 : 504 (1928); Kew Bull. : 27 (1929)
+FWTA, ed. 1, 1: 504 (1928); Kew Bull.: 27 (1929)
 
-Arbuste sarmenteux; rameaux glabres. Feuilles 1-2-juguées; folioles elliptiques obscurément acuminées, 8-16 × 4-7 cm, env. 10 paires de nervures. Fleurs sessiles en glomérules; calice, 4 mm, velu à l'extérieur, marge ondulée.
+Sarmentose shrub; branches glabrous. Leaves 1-2-jugate; leaflets elliptic obscurely acuminate, 8-16 × 4-7 cm, ca. 10 pairs of veins. Flowers sessile in glomerules; calyx, 4 mm, hairy on the exterior, margin undulate.
 
 ## Specimens examined
 
@@ -57,17 +53,15 @@ Le Testu 1429, Tchibanga, de Massanga à Moabissako (fl. blanches, oct.); 2296, 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-RADLKOFER (l.c. : 802) fonde un P. subcuneata d'après l'échantillon Afzelius 15 (B) de Sierra Leone dont la description s'éloigne peu de P. harmsiana : rameaux pubérulents ferrugineux puis glabres; pétiole 4-9 cm; folioles 7-20 × 5-6 cm; feuilles 2-3-juguées; épis de 4 cm
+RADLKOFER (l.c.: 802) establishes a P. subcuneata based on the specimen Afzelius 15 (B) from Sierra Leone whose description differs little from P. harmsiana: branches puberulent ferruginous then glabrous; petiole 4-9 cm; leaflets 7-20 × 5-6 cm; leaves 2-3-jugate; spikes 4 cm
 
 1 bis. Pancovia bijuga Willdenow
 
-Sp. Pl. 2 : 285 (1799); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 802 (1932).
+Sp. Pl. 2: 285 (1799); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 802 (1932).
 
-Petit arbre de 4-6 m (GUILLEMIN & PERROTET) très rameux; rameaux arrondis, env. 4 mm de diamètre, striés, d'abord pubescents ferrugineux puis glabres, les plus petits de 2-3 mm de diamètre, anguleux, cannelés. Feuilles 2-4-juguées, pétiole 3-6 cm, diamètre 22 mm, cannelé, env. 8 sillons avec rares poils de 0,1 mm; folioles ovales-oblongues non acuminées, les basales 7-14 × 3,5-5,5 cm, les supérieures 15-18 × 5-6 cm; 7-10 paires de nervures, pétioiules noirs ridés, 3-5 mm; rares poils de 0,1 mm sous la nervure mé-diane.
+Small tree 4-6 m (GUILLEMIN & PERROTET) very branched; branches rounded, ca. 4 mm in diameter, striated, at first ferruginous pubescent then glabrous, the smallest 2-3 mm in diameter, angular, channeled. Leaves 2-4-jugate, petiole 3-6 cm, diameter 2 mm, channeled, ca. 8 furrows with rare hairs 0.1 mm; leaflets oval-oblong not acuminate, the basal ones 7-14 × 3.5-5.5 cm, the upper ones 15-18 × 5-6 cm; 7-10 pairs of veins, petiolules black wrinkled, 3-5 mm; rare hairs 0.1 mm beneath the midvein.
 
-Épis de 1-3 cm portant 5-6 cymules bractéolées de 1-3 fleurs; pédicelles 3-5 mm, velus roux; calice 5-6 mm, velu-roux; poils 0,3-0,5 mm, les externes très serrés, moins longs et moins denses à l'intérieur; 3-4 pétales de 5-6 mm à grand onglet de 3 mm, velu dedans; limbe arrondi, denté, glabre; écailles velues dessous ou non, excroissance glabre digitée; 7 étamines à filets velus; 3 carpelles. HAUMAN rappelle en 1960 que le fruit n'est pas vraiment connu dans le type du genre; on trouve en effet des échantillons d'herbier rapportés à Pancovia bijuga montrant des fruits de 3 cm à 3 lobes ailés (Chevalier 22547; Nozeran s.n., Côte d'Ivoire) et style terminal; d'autres ont des lobes arrondis sur le dos, séparés jusqu'au tiers de la hauteur (16 mm), simulant un style gynobasique (Tisserant 731, Oubangui). PL. 28, 5-7', p. 119.
+Spikes 1-3 cm bearing 5-6 bracteolate cymules of 1-3 flowers; pedicels 3-5 mm, reddish-hairy; calyx 5-6 mm, reddish-hairy; hairs 0.3-0.5 mm, the external ones very dense, shorter and less dense on the interior; 3-4 petals 5-6 mm with large claw 3 mm, hairy within; limb rounded, dentate, glabrous; scales hairy beneath or not, glabrous digitate excrescence; 7 stamens with hairy filaments; 3 carpels. HAUMAN notes in 1960 that the fruit is not truly known in the type of the genus; one indeed finds herbarium specimens referred to Pancovia bijuga showing fruits 3 cm with 3 winged lobes (Chevalier 22547; Nozeran s.n., Côte d'Ivoire) and terminal style; others have lobes rounded on the back, separated to the third of the height (16 mm), simulating a gynobasic style (Tisserant 731, Oubangui). PL. 28, 5-7', p. 119.
 
 ## Notes
 

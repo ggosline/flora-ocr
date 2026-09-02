@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Journal of Botany 46:221 (1908).— Pellegrin, Bull. Soc. Bot. Fr., Mém. 31:64 (1949).— Boutique, Fl. Congo Belge 2:347 (1951).— Keay, F.W.T.A., ed. 2, 1, 1:44 (1954).
 
-Journ.of Bot.46 :22I (19o8).— Pellegrin,Bull.Soc.Bot.Fr.,Mém.31 :64 (1949).- Boutique,Fl. Congo Belge 2 :347 (1951).- Keay,F.W.T.A., ed.2,1,1:44(1954).
+Shrub with glabrous branches, branchlets sparsely pubescent to glabrous. Leaves with petiole 2–5 mm long, pubescent to glabrous; blade papyraceous, elliptic-oblong, 3–10 cm long, 1.5–4 cm wide, rounded to slightly subcordate at base, obtuse at apex; upper surface glabrous, lower surface sparsely pubescent. Lateral veins 10–12 pairs.
 
-Arbuste á rameaux glabres,ramilles éparsement pubescentes ä glabres.Feuilles á pétiole long de 2-5 mm,pubescent â glabre;
+Flowers solitary, with slender pedicels 2.5–4 cm long, appressed-pubescent, bearing toward the base a foliaceous bracteole, broadly ovate to cordate, cordate and amplexicaul at base, rounded or obtuse at apex, 0.8–3 cm long, 0.7–1.5 cm wide, very sparsely pubescent below. Sepals broadly ovate to suborbicular, 3–4 mm in diameter, pubescent on the outside, united at base. External petals broadly ovate-orbicular, 0.4–0.8 cm long, 0.4–0.7 cm wide, puberulent-tomentellous; internal petals ovate-elliptic, 0.3–0.8 cm long, 0.2–0.4 cm wide, puberulent-tomentellous. Stamens ± 15, biseriate, ± 1.5 mm long; filaments linear-ribbon-shaped, 0.7–0.8 mm long; anthers oblong, lateral, introrse; connectives truncate at apex. Carpels 13–15, oblong, 3.2–3.5 mm long, ovaries glabrous attenuated into styles. Ovules 2, lateral.
 
-limbe papyracé,elliptique-oblong,long de 3-1o cm, large de 1,5- 4 cm,arrondi ä légerement subcordé â la base,obtus au sommet; face supérieure glabre, face inférieure éparsément pubescente. Nervures latérales Io-12 paires.
-
-Fleurs ,solitaires, á pédicelle grele,long de 2,5-4 cm,pubescent-apprimé, muni vers le bas d'une bracteole foliacee, largement ovée ä cordiforme,cordee et amplexicaule á la base,arrondie ou obtuse au sommet, longue de o,8-3 cm,large de o,7-1,5 cm, tres éparsément pubescente en dessous. Sépales largement ovés á suborbiculaires,de 3-4 mm de diametre,pubescents â l'extérieur, soudés a la base.Pétales externes largement ovés-orbiculaires, longs de o,4-o,8 cm,larges de o,4-o,7 cm, pubérulents-tomentelleux; pétales internes ovés-elliptiques, longs de o,3-o,8 cm,larges de 0,2-0,4 cm,pubérulents-tomentelleux.Etamines ± 15,biseriees, longues de 士 1,5 mm, filets linéaires-rubanés, longs de o,7- 0,8 mm,theques oblongues, latérales introrses,connectifs tronqués au sommet. Carpelles 13-15,oblongs,longs de 3,2-3,5 mm, ovaires glabres atténués en styles.Ovules 2,latéraux.
-
-Fruits ä pedicelle grele, long de 3,6-5 cm; méricarpes stipites; 1-2 articles ellipsoides-globuleux, longs o,6-o,7 cm, larges de 0,3-o,4 cm,glabres,le dernier apiculé;stipes courts,longs de 0,2-0,4 cm.Graines ellipsoides,longues de ± o,6 cm, larges de ±o,3 cm,tégument mince.
+Fruits with slender pedicels 3.6–5 cm long; mericarps stipitate; 1–2 articles ellipsoid-globose, 0.6–0.7 cm long, 0.3–0.4 cm wide, glabrous, the terminal one apiculate; stipes short, 0.2–0.4 cm long. Seeds ellipsoid, ± 0.6 cm long, ± 0.3 cm wide, testa thin.
 
 ## Type
 
@@ -37,13 +33,11 @@ Welwitsch 762,Pungo Andongo,Angola (lectotype LISU)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of forest galleries, not yet collected in Gabon, but only in neighbouring territories: Cameroon, Congo Brazzaville, Congo-Kinshasa (Lower Congo and Kivu), Uganda. To be sought in Gabon.
 
-Espéce de galeries forestieres,non récoltee encore au Gabon, mais seulement dans les territoires limitrophes : Cameroun, Congo Brazzaville, Congo-Kinshasa (Bas-Congo et Kivu),Ouganda. A rechercher au Gabon.
+Species of dense humid forest, sometimes ± degraded, widespread in Gabon, Congo-Brazzaville, Congo-Kinshasa and Angola.
 
-Espéce de forét dense humide,parfois ± dégradée,répandue au Gabon, Congo-Brazzaville, Congo-Kinshasa et Angola.
-
-Tres voisine de P.Oliverana Exell et Mendonca,elle s'en distingue par ses feuilles longuement acuminées-caudées et non obtuses-émarginées au sommet, ses méricarpes pubérulents et ses carpelles pubescents.
+Very close to P. Oliverana Exell and Mendonça, it differs by its leaves that are long acuminate-caudate and not obtuse-emarginate at the apex, its puberulent mericarps and its pubescent carpels.
 
 ## Specimens examined
 

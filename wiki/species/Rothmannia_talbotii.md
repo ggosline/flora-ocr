@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 4 m tall. Young internodes briefly puberulent; epidermis becoming squamose. Deltoid puberulent brown stipules 3 mm. Petiole 9-15 mm, at first puberulent then ± thickened squamose. Blade glabrous brown or brown-reddish and subcoriaceous when dry, elliptic to obovate 13-17 × 4-9 cm, with acute or obtuse base, acuminate apex; margins ± bordered beneath. Midrib ± puberulent beneath towards the base; 7-10 pairs of glabrous secondary nerves slightly ascending. Inter-secondary venules not apparent. Domatia absent.
 
-Arbuste de 4 m de hauteur. Jeunes entrenœuds brièvement pubérulents; épiderme devenant squameux. Stipules deltoïdes pubérulentes brunes de 3 mm. Pétiole de 9-15 mm, d'abord purérulent puis ± épaissi squameux. Limbe glabre brun ou brun-roux et subcoriace à sec, elliptique à obové de 13-17 × 4-9 cm, à base aiguë ou obtuse, à sommet acuminé; marges ± rebordées dessous. Médiamé ± pubérulente dessous vers la base; 7-10 paires de nervures secondaires glabres peu ascendantes. Nervilles inter-secondaires non apparentes. Domaties nulles.
+Flowers solitary whitish-tan and very fragrant, arising from an internode 2-9 mm long, borne on a reddish pubescent peduncle 12-25 (45) mm, on which alternately and irregularly about 5-7 deltoid pubescent bractlets, 2-5 mm long. Ovary deeply 5-furrowed, 7-10 mm tall; calyx tube prismatic 7-10 mm long, reddish puberulent as well as the ovary; 5 subulate erect subequal lobes (2) 5-12 (15) mm. Corolla puberulent cream-white within, rusty tinted outside, 20-25 (30) cm long, tube 4 mm diameter in its narrow part, throat flared 4-5 × 2.5-3 cm, glabrous within, lobes ovate-lanceolate imbricate to the left in bud, 25-50 (70) × 12-20 (30) mm. Anthers sessile medifix included 40 × 2.5 mm, with apiculate connective at apex and projecting at the lower end. Style glabrous with cream-white stigmatic clavuncle narrowly fusiform ca. 25 × 4-5 mm, with biapiculate apex.
 
-Fleurs solitaires de teinte blanc-havane et très odorantes, issues d'un entrenceud de 2-9 mm, portées par un pédoncule roux pubescent de 12-25 (45) mm, sur lequel alternent irrégulièrement environ 5-7 bractéoles deltoïdes pubescentes, longues de 2-5 mm. Ovaire profondément 5-sillonné haut de 7-10 mm; tube du calice prismatique long de 7-10 mm, roux pubérulent ainsi que l'ovaire; 5 lobes subulés dressés, subégaux de (2) 5-12 (15) mm. Corolle pubérulente blanc-crème à l'intérieur, de teinte rouille à l'extérieur, longue de 20-25 (30) cm, à tube de 4 mm de diamètre dans sa partie étroite, à gorge évasée de 4-5 × 2,5-3 cm, glabre à l'intérieur, à lobes ovés-lancéolés recouvrants vers la gauche dans le bouton, de 25-50 (70) × 12-20 (30) mm. Anthères sessiles médifixes incluses de 40 × 2,5 mm, à connectif apiculé au sommet et saillant à l'extrémité inférieure. Style glabre à massue stigmatique blanc-crème étroitement fusiforme d'env. 25 × 4-5 mm, à sommet biapiculé.
-
-Fruit ellipsoïde ou ± fusiforme de 5-7, 5 × 3-3,5 cm, non compris le tube calycinal persistant; surface roux-ochracé densément feutrée pubescente, à 5 traces longitudinales faiblement saillantes ou distinctes par leur teinte rousse plus foncée à sec; péricarpe peu épais de 2 mm à peine Graines nombreuses noires ellipsoïdes atteignant 13 × 9 × 5 mm (Gossweiler 7733, BM).
+Fruit ellipsoid or ± fusiform 5-7.5 × 3-3.5 cm, not including the persistent calyx tube; surface reddish-ochraceus densely felted pubescent, with 5 longitudinal traces weakly prominent or distinct by their darker reddish tint when dry; pericarp thin barely 2 mm. Numerous black ellipsoid seeds reaching 13 × 9 × 5 mm (Gossweiler 7733, BM).
 
 ## Type
 
@@ -36,9 +34,7 @@ Talbot 217 (holotype BM!), Est Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun (Zenker 2553, Endengle 95), Gabon, Congo et Cabinda.
+Nigeria, Cameroon (Zenker 2553, Endengle 95), Gabon, Congo and Cabinda.
 
 ## Specimens examined
 

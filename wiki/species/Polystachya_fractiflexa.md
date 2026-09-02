@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tiges (5-) 18-30 (-45) x 0,3-0,5 cm. Feuilles 6-13 x 0,8-2,3 cm, elliptiques. Inflorescence de 3-11 cm, glabre. Fleurs crème ou orange-brunâtre. Sépale dorsal ovale-lancéolé, apiculé. Sépales latéraux obliquement triangulaires. Labelle avec un onglet long, trilobé au-dessus du milieu, un callus obtus placé à la base du lobe médian ; lobe médian deltoïde à largement ové-elliptique, arrondi au sommet ou obtus ; lobes latéraux obliquement triangulaires-ovés ou rhombiformes, subaigus. Mentum conique-sacciforme.
+Stems (5-) 18-30 (-45) x 0.3-0.5 cm. Leaves 6-13 x 0.8-2.3 cm, elliptic. Inflorescence 3-11 cm long, glabrous. Flowers cream or orange-brownish. Dorsal sepal ovate-lanceolate, apiculate. Lateral sepals obliquely triangular. Lip with a long claw, three-lobed above the middle, an obtuse callus placed at the base of the median lobe; median lobe deltoid to broadly ovate-elliptic, rounded at the apex or obtuse; lateral lobes obliquely triangular-ovate or rhombiform, subacute. Mentum conical-saccate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, Zaïre
+Cameroon, Equatorial Guinea, Gabon, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte in humid lowland forest
 
-épiphyte en forêt humide de basse altitude
+MATERIAL STUDIED (Map 49):
 
-MATÉRIEL ÉTUDIÉ (Carte 49) :
+Bos, Van der Laan & Nzabi 10734, Babiel-Sud, Okoumé road km 5, 1° 02' N, 13° 10' E (fl. July), WAG!.
 
-Bos, Van der Laan & Nzabi 10734, Babiel-Sud, route d'Okoumé km 5, 1° 02' N, 13° 10' E (fl. Juil.), WAG!.
+De Wilde 646, lower slope of Babiel Nord, S-facing exposure in dense low elfin forest, very rich in lichens, mosses and epiphytes, epiphyte growing on the trunk (fl. Sept.), WAG!.
 
-De Wilde 646, basse pente de Babiel Nord, exposition au S en forêt dense basse d'Elfin, très riche en lichens, mousses et épiphytes, épiphyte poussant sur le tronc (fl. Sept.), WAG!.
-
-Hallé & Le Thomas 96, Bélinga, Mines de Fer (fl. Juil.), P!.
+Hallé & Le Thomas 96, Bélinga, Iron Mines (fl. July), P!.
 
 ## Figures
 

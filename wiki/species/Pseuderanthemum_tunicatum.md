@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Justicia tunicata Afzel., Remed. Guin. 3 : 17 (1814).
 
 $  \equiv  $ Pseuderanthemum nigritanum (T. Anders.) Radlk., Sitzb. math.-phys. Cl. k. bayer. Akad. Wiss. 13 : 286 (1883). — Hutch. et Dalz., F.W.T.A., ed. 1,2 : 608 (1936).
 
-Arbuste de 20-150 cm de haut, à tiges glabres un peu striées. Pétioles de 1-1,5 cm. Limbe des feuilles elliptiques de 10-11 × 3,5-4,5 cm, acuminé; acumen assez allongé. 9-10 paires de nervures latérales.
+Shrub 20–150 cm tall, with glabrous stems somewhat striate. Petioles 1–1.5 cm. Leaf blade elliptic 10–11 × 3.5–4.5 cm, acuminate; acumen rather elongate. 9–10 pairs of lateral veins.
 
-Inflorescences terminales et axillaires, dans toutes les parties légèrement glanduleuses et pubescentes, longues de 10-15 cm; 1-3 fleurs par nœud; bractées filiformes de 1-2 mm; bractéoles subulées, très courtes, de 0,5 mm environ. Fleurs blanches ou violet pâle; calice de 4 mm à lobes subulés-filiformes. Corolle à tube blanc, cylindrique long de 14 mm, géniculé, articulé vers 10 mm de haut, glabre ou subglabre; 5 lobes subégaux et étalés, étroitement ovales, de 8 × 3 mm, blancs ou ± mouchetés de violet, ou violacés.
+Inflorescences terminal and axillary, slightly glandular and pubescent throughout, 10–15 cm long; 1–3 flowers per node; bracts filiform 1–2 mm; bracteoles subulate, very short, approximately 0.5 mm. Flowers white or pale violet; calyx 4 mm with subulate-filiform lobes. Corolla with white tube, cylindric 14 mm long, geniculate, articulate at about 10 mm from base, glabrous or subglabrous; 5 subequal and spreading lobes, narrowly ovate, 8 × 3 mm, white or ± spotted with violet, or violaceous.
 
-Fruit de 20-22 mm, à 4 graines aplaties d'environ 3,5 mm de diamètre et 0,8 mm d'épaisseur, très finement ruguleuses, non réticulées, à bords entiers.
+Fruit 20–22 mm, with 4 flattened seeds approximately 3.5 mm in diameter and 0.8 mm thick, very finely rugose, not reticulate, with entire margins.
 
 ## Type
 
@@ -40,9 +38,7 @@ Afzelius s. n., Sierra-Leone (UPS, holotype)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sur rochers près de l'eau, en sous-bois. Très répandu dans les régions des forêts humides de toute l'Afrique tropicale; existe également sur l'île de Fernando-Po.
+On rocks near water, in understory. Very widespread in the humid forest regions of all tropical Africa; also present on the island of Fernando Po.
 
 ## Specimens examined
 

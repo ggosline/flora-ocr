@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrubby herbaceous, branched, erect shrub up to 0.80 m, hirsute, often reddish; branchlets slender, subangular then rounded, with 2 interfoliar warts on each node. Leaves with slender petiole, 3–7 cm long, velutinous-hirsute; blade ovate, 4–6 × 8–10 cm, rounded to moderately cordate at base, acute to obscurely acuminate; pubescent above, subhirsute below; 5 veins, the transverse ones parallel, ± hidden by the indumentum; margins obscurely dentate-ciliate.
 
-Arbrisseau subherbacé, ramifié, dressé jusqu'à 0,80 m, hirsute, souvent rougeâtre; rameaux grêles, subangulaires puis arrondis, avec 2 ver-
+Terminal cymes, long-persistent and apparently lateral through sympodial overtopping; solitary, pedunculate, reaching up to 25 cm and bearing about fifty two-seriate flowers on a densely velutinous rachis. Flowers briefly pedicellate, velutinous; hypantho-calyx covered with bristles and capitate hairs, ovoid-campanulate, 4–5 mm long; lobes triangular-obtuse, 3 mm long, provided with a subapical linear-subulate appendage, hirsute, reaching 6–8 mm and exceeding the corolla in bud. Corolla pink or white; petals oblong, 3.5 × 5 mm, apex setaceous plus a few other capitate hairs. Outer stamens with anther 4 mm; podoconnective slightly curved, prolonged anteriorly into an obtuse-emarginate appendage and marked posteriorly by a scarcely visible spur; filament 5 mm. Inner stamens with anther 2.5 mm, connective provided with a thick, bilobed frontal appendage contiguous or adherent to the anther, and with a well-evident spur; filament 4 mm. Ovary entirely adnate over one-third of its height, then by septa up to the middle, upper part free, crater-shaped, cylindraceus, formed by the membranous epigynous corona, nerved, with thin, capitate-ciliate margin; placentas stipitate by a membranous lamella; style rather thick and linear, 4 mm long.
 
-rues interfoliaires sur chaque nœud. Feuilles à pétiole grêle, long de 3 à 7 cm, velutineux hirsute; limbe ovale, 4-6 × 8-10 cm, arrondi à médiocrement cordé à la base, aigu à obscurément acuminé; pubescent au-dessus, subhirsute en-dessous; 5 nervures, les transversales parallèles, ± masquées par l'indument; marges obscurément dentées-ciliées.
-
-Cymes terminales, longtemps persistantes et apparemment latérales par dépassement sympodial; solitaires, pédonculées, pouvant atteindre 25 cm et porter une cinquantaine de fleurs bisériées sur un rachis densément velutineux. Fleurs brièvement pédicellées, velutineuses; hypantho-calice couvert de soies et de poils capités, ovo-campanulé, long de 4 à 5 mm; lobes triangulaires-obtus, longs de 3 mm, pourvus d'un appendice subapical linéaire-subulé, hirsute, atteignant 6-8 mm et dépassant la corolle dans le bouton. Corolle rose ou blanche; pétales oblongs, 3,5 × 5 mm, apex sétacé plus quelques autres poils capités. Étamines externes à anthère de 4 mm; pédoconnectif peu arqué, prolongé en avant d'un appendice obtus-émarginé et marqué en arrière d'un éperon peu visible; filet de 5 mm. Étamines internes à anthère de 2,5 mm, connectif pourvu d'un appendice frontal épais, bilobé, contigu ou adhérent à l'anthère, et d'un éperon bien évident; filet de 4 mm. Ovaire entièrement adhérent sur le tiers de sa hauteur, puis par des cloisons jusqu'à la moitié, partie supérieure libre, cratéﬁrme, cylindracée, formée par la couronne épigyne membraneuse, nerviée, à marge mince, ciliée de poils capités; placentas stipités par une lame membraneuse; style linéaire plutôt épais, long de 4 mm.
-
-Fruit campanulé, long de 8 mm; loges accrescentes dans l'angle de la couronne; celle-ci longuement saillante, pentagonale-rédupliquée, à marge rectiligne ou ondulée; déhiscence valvaire. Graines obovoïdes, longues de 0,5 mm, papilleuses; tégument dilaté latéralement et au sommet. — Pl. 27, p. 77.
+Fruit campanulate, 8 mm long; locules accrescent at the angle of the corona; the latter long-protruding, pentagonal-reduplicate, with rectilinear or undulate margin; valvular dehiscence. Seeds obovoid, 0.5 mm long, papillose; integument dilated laterally and at apex. — Pl. 27, p. 77.
 
 ## Type
 
@@ -33,9 +29,7 @@ Mann 1681 b, Gabon (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce très distincte dans le genre. Aire limitée à la partie occidentale du Gabon et du Cameroun. Habitat forestier; terreau sur rochers, bords de ruisseaux, petites clairières, etc.
+Species very distinct within the genus. Range limited to the western part of Gabon and Cameroon. Forest habitat; leaf-mould on rocks, stream banks, small clearings, etc.
 
 ## Specimens examined
 

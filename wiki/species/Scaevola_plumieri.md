@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste sempervirent , charnu , pratiquement glabre, haut de 30–90(–150) cm ; tiges à cicatrices foliaires marquées. Feuilles alternes, groupées au sommet des rameaux, charnues , subsessiles, les aisselles glabres ou laineuses ; limbe obové à obové-elliptique, 4–9(–11,5) × 2–5(–7,5) cm, vert-jaunâtre, base cunéiforme, sommet arrondi, à marge entière ou obscurément denticulé, à 1 paire de nervures partant de la base et 1–2 paires partant de la nervure principale, presque imperceptibles sur le frais. Inflorescence en courtes cymes bipares ; bractées opposées, linéaires, aisselles laineuses . Fleurs sessiles ; calice tronqué ou à lobes obsolètes ; corolle blanc ou blanc-verdâtre , jaunâtre à l’intérieur, tube 9–13 × ± 3 mm, pubérulent à l’extérieur, densément pubescent à l’intérieur, lobes oblongs, de 6–11 mm de longueur, les ailes membraneuses et crénelées ; étamines s’élevant au dessus de la base du tube , anthères 2–2,5 mm de longueur ; ovaire 2-loculaire avec 1 seul ovule développé, ellipsoïde à ellipsoïde-obovoïde, 3–4 × 2–3 mm ; style exsert comme les étamines, le sommet cupuliforme pendant, pubescent, la marge ciliée . Fruit ellipsoïde à globuleux, 10–15 mm de diamètre, glabre, noir ou bleu luisant , ridé à l’état sec. Graine solitaire, 8–10 × 4–6 mm.
+Evergreen shrub, succulent, practically glabrous, 30–90(–150) cm tall; stems with prominent leaf scars. Leaves alternate, clustered at the apex of branchlets, succulent, subsessile, axils glabrous or woolly; blade obovate to obovate-elliptic, 4–9(–11.5) × 2–5(–7.5) cm, yellowish-green, base cuneate, apex rounded, margin entire or obscurely denticulate, with 1 pair of veins arising from the base and 1–2 pairs arising from the midvein, almost imperceptible on fresh material. Inflorescence in short bipinnate cymes; bracts opposite, linear, axils woolly. Flowers sessile; calyx truncate or with obsolete lobes; corolla white or whitish-green, yellowish within, tube 9–13 × ± 3 mm, puberulent without, densely pubescent within, lobes oblong, 6–11 mm long, with membranous and crenulate wings; stamens arising above the base of the tube, anthers 2–2.5 mm long; ovary 2-locular with 1 solitary developed ovule, ellipsoid to ellipsoid-obovoid, 3–4 × 2–3 mm; style exsert like the stamens, apex cupuliform pendant, pubescent, margin ciliate. Fruit ellipsoid to globose, 10–15 mm in diameter, glabrous, black or shining blue, wrinkled when dry. Seed solitary, 8–10 × 4–6 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandue le long des côtes d’Afrique, de Madagascar et des Mascareignes, de l’Asie méridionale et de l’Inde, en Amérique tropicale, en Floride et aux Îles Galápagos. Au Gabon, l’espèce a été récoltée le long des côtes de l’Ogooué-Maritime et de la Nyanga
+Widespread along the coasts of Africa, Madagascar and the Mascarene Islands, southern Asia and India, in tropical America, in Florida and on the Galápagos Islands. In Gabon, the species has been collected along the coasts of Ogooué-Maritime and Nyanga.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce des côtes sableuses et des dunes, parfois sur des grès ou dans des bosquets. Usage : L’espèce pourrait être utilisée pour stabiliser des dunes. Les feuilles sont utilisées en médecine traditionnelle, contre les inflammations, les maladies vénériennes ou comme diurétique. Ces usages tirés du savoir traditionnel mériteraient d’être confirmés par des études phytochimiques. B : Burkill (1994), Davies (1978), Guillaumet (1978), Hepper (1963b). IBLIOGRAPHIE
+Species of sandy coasts and dunes, sometimes on sandstone or in thickets. Use: The species could be used to stabilize dunes. The leaves are used in traditional medicine, against inflammations, venereal diseases or as a diuretic. These uses derived from traditional knowledge would merit confirmation by phytochemical studies. B: Burkill (1994), Davies (1978), Guillaumet (1978), Hepper (1963b). BIBLIOGRAPHY
 
 ## Notes
 

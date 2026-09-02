@@ -27,7 +27,7 @@ Female flower similar to male flower, up to 3(–4) mm in width; ovary ± 2.5 ×
 
 ## Distribution
 
-present in Cameroon, Equatorial Guinea, Gabon and Republic of the Congo; in Gabon, present in the Estuary and Ogooué-Ivindo. Conservation status: Least Concern (LC)
+present in Cameroon, Equatorial Guinea, Gabon and Republic of the Congo; in Gabon, present in the Estuaire and Ogooué-Ivindo. Conservation status: Least Concern (LC)
 
 ## Ecology
 

@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3 to 6.50 m tall, with monocaulous habit. Branches glabrous, eventually deciduous. Internodes of lateral branches myrmecodomic, presenting toward the upper third a fusiform swelling reaching 7-12 mm in width, hollow and perforated by one or a few small openings. Stipules glabrous, briefly triangular or truncate-apiculate, 2-5 mm tall. Petiole 10-25 (35) mm with canal margins spread flat. Blade glabrous above, varnished or not, glabrous below, micropubescent or ± pubescent, sometimes only at juvenile stage; the blade is ± narrowly obovate-elliptic, (20)30-45 × 7-17 cm, acute at base, briefly acute to lanceolate at apex sometimes subacuminate. 12-20 pairs of secondary nerves. Domatia absent.
 
-Arbuste de 3 à 6,50 m de hauteur, à port de monocaule. Rameaux glabres finalement caduques. Entrenceuds des rameaux latéraux myrmécodomes présentant vers le tiers supérieur un renﬁlement fusiforme atteignant 7-12 mm de largeur, creux et perforé d'une ou de quelques petites ouvertures. Stipules glabres brièvement triangulaires ou tronquées-apiculées, hautes de 2-5 mm. Pétiole de 10-25 (35) mm à marges du canal étalées à plat. Limbe glabre dessus, vernissé ou non, à face inférieure glabre, micropubérulente ou ± pubérulente, parfois seulement au stade juvénile; le limbe est ± étroitement obové elliptique, de (20)30-45 × 7-17 cm, à base aiguë, à sommet brièvement aigu à lancéolé parfois
+Flowers pendulous, greenish externally, red-spotted inside, solitary, preceded by a leaf and an internode 0.5-1 cm, with ovary (puberulent toward the base in the type) attenuate and very shortly or indistinctly pedicelled. Calyx most often glabrous, tube ± prismatic 7-13 mm tall, with 5 attentuate or subulate lobes (2)5-15 mm long. Corolla densely pubescent golden-ochre when dry, tube 22-25 cm long, narrow 6-8 mm in its lower half with internal pubescence, throat deep 10-12 × 5-6 cm and glabrous internally, with 5 rounded lobes reaching 5 × 4 cm. Anthers included, sessile, supramedifixed, 60 × 6 mm, broad and apiculate at apex, attenuate to base, dorsal face glabrous except for upper part of margins. Style glabrous in the narrow part of the tube, gradually thickening to the level of the upper anthers. Stigma with two short, massive, obtuse lobes c. 8 × 10 mm.
 
-subacuminé. 12-20 paires de nervures secondaires. Domaties nulles.
-
-Fleurs pendantes, verdâtes extérieurement, tachées de rouge à l'intérieur, solitaires, précédées par une feuille et un entrenceud de 0,5-1 cm, à ovaire (purédulent vers la base chez le type) atténué et très courtemment ou indistinctement pédonculé. Calice le plus souvent glabre à tube ± prismatique de 7-13 mm de hauteur, à 5 lobes atténués ou subulés de (2)5-15 mm de longueur. Corolle densément pubérulente doré-ochracé à sec, à tube long de 22-25 cm, étroit de 6-8 mm dans sa moitié inférieure et à pubescence interne, à gorge profonde de 10-12 × 5-6 cm et glabre intérieurement, à 5 lobes arrondis atteignant 5 × 4 cm. Anthères incluses sessiles supramédifixes, de 60 × 6 mm, larges et apiculées au sommet, atténuées jusqu'à la base, à la face dorsale glabre à l'exception de la partie supérieure des marges. Style glabre dans la partie étroite du tube, s'épaississant progressivement jusqu'au niveau supérieur des anthères. Stigmate à deux courts lobes massifs et obtus d'env. 8 × 10 mm.
-
-Fruit ellipsoïde grisâtre de 10-18 × 4,5-6 cm, à tube du calice persistant vert, à paroi de 2-7 mm d'épaisseur dont un endocarpe osseux d'environ 1 mm d'épaisseur. Graines très nombreuses atteignant 10 × 10 × 4 mm, bleuâtres au stade immature puis brunâtre. Embryon blanc, droit de 7 mm.
+Fruit ellipsoid, greyish, 10-18 × 4.5-6 cm, with persistent green calyx tube, wall 2-7 mm thick with bony endocarp about 1 mm thick. Seeds very numerous, reaching 10 × 10 × 4 mm, bluish at immature stage then brownish. Embryo white, straight, 7 mm.
 
 ## Type
 
@@ -38,13 +34,11 @@ Mann 1754 (holotype K!, isotypes P), 1° lat. N, Guinée espagnole
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The types of R. myrmecophyla De Wild., represent a form with pubescent lower blade surface and relatively short sepals c. 5 mm (Pynært 445 BR!). The var. glabra, by contrast, has sepals 10 mm in very young bud and perfectly glabrous leaves with 14-19 pairs of secondary nerves.
 
-Les types de R. myrmecophyla De Wild., représentent une forme à face inférieure des limbes pubérulente et à sépales relativement courts d'env. 5 mm (Pynært 445 BR!). La var. glabra a, au contraire, des sépales de 10 mm dans le très jeune bouton et des feuilles parfaitement glabres à 14-19 paires de nervures secondaires.
+The juvenile myrmecodomatic structures are hollow and imperforate before being useful to ants. A formed nest presents a cavity c. 10 × 0.8 cm. A population of ants with black abdomen and red head was observed. The nest contains numerous larvae and pupae (N. Hallé 3298).
 
-Les myrmécodomaties juvéniles sont creuses et imperforées avant d'être utiles aux fourmis. Un nid formé présente une cavité d'env. 10 × 0,8 cm. Une population de fourmis à abdomen noir et tête rouge a été observée. Le nid contient de nombreuses larves et nymphes (N. Hallé 3298).
-
-Rio Muni, Gabon, Congo (Bouquet 1208) jusqu'à Yangambi Jean Louis 11359). Sous-bois forestier.
+Rio Muni, Gabon, Congo (Bouquet 1208) to Yangambi Jean Louis 11359). Forest understory.
 
 ## Specimens examined
 

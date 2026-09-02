@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — L. reticulatus RADLK. var. brevibracteatus PELLEGRIN, Bull. Soc. Bot. France, Mém. 102 : 61 (1955), nom. nud.
 
-Affinis L. reticula. a Radlk., sed foliis 2-3-jugis, integerrimis, nerviis secundariis 5-6 utrinque, sepalis minoribus extra et intra puberulis, bracteis minoribus, differt.
+Allied to L. reticulatus Radlk., but differing in the 2–3-jugate leaves, entire, with 5–6 pairs of secondary nerves on each side, smaller sepals pubescent on both outer and inner surfaces, and smaller bracts.
 
-Arbrisseau buissonnant de 3 m à fleurs blanches (LE TESTU) ou arbre de 50 cm de diamètre à fût sinueux, rhytidome à petites écailles irrégulières vert foncé, grises ou violacées laissant apparaître des teintes orangées après leur chute; écorce dure, compacte, à tranche orangé-sale, bois jaune orangé (LETOUZEY). PELLEGRIN distingue cette plante de L. reticulatus par « les inflorescences à boutons cendrés moins longuement velues que le type, les bractées beaucoup plus courtes, très minimes; beaucoup de feuilles sont entières au lieu d’être dentées au sommet. » Il faut ajouter à ces différences que les feuilles sont 2-3-juguées, à folioles de 10-15 × 4-5 cm, acuminées, avec 5-6 paires de nervures seulement, légèrement discolores, verdâtres dessus, brunâtres dessous, brillantes des 2 côtés. Les inflores-
+Shrubby small tree 3 m tall with white flowers (LE TESTU) or tree 50 cm in diameter with sinuous trunk, rhytidome with small irregular dark green, grey or violet-tinged scales revealing orange tones after their fall; hard, compact bark, orange-dull on section, wood yellow-orange (LETOUZEY). PELLEGRIN distinguishes this plant from L. reticulatus by "the inflorescences with ashen buds less densely velutinous than the type, the bracts much shorter, very minute; many leaves are entire instead of dentate at the apex." It should be added to these differences that the leaves are 2–3-jugate, with leaflets 10–15 × 4–5 cm, acuminate, with only 5–6 pairs of nerves, slightly discolorous, greenish above, brownish below, glossy on both sides. The inflores-
 
-cences, terminales, sont un peu plus petites, de même que les fleurs dont le calice est pubérulent sur les 2 faces; les bractées n'ont pas un milli-mètre de long. Fruit inconnu.
+cences, terminal, are somewhat smaller, as are the flowers whose calyx is pubescent on both faces; the bracts are less than a millimetre long. Fruit unknown.
 
 ## Type
 
@@ -44,9 +42,7 @@ Arbre d'une dizaine de mètres, à rameaux striés, pubérulents. Feuilles longu
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue au Nigeria, au Ghana et [en Côte d'Ivoire; présence possible au Cameroun et au Gabon.
+Species known from Nigeria, Ghana and Côte d'Ivoire; possible presence in Cameroon and Gabon.
 
 2 ter. Lychnodiscus cerospermus Radlkofer
 

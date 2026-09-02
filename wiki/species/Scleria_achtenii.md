@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace , à rhizome de 5 et + cm × 3–6 mm, ligneux, rougeâtre et souvent ramifié, avec des tiges espacées de ± 1 cm ou très serrées ; racines violet foncé ou noirâtres, généralement épaisses de 1–2 mm ; tige 40–130 cm × 1–2,5 mm, triquètre, poilue ou glabrescente, à base renflée. Feuille : gaines triangulaires, les inférieures souvent teintées de rouge, poilues mais souvent glabres sous la gorge ; collet formé d’une large barre transversale surmontée d’une mince languette ; limbe 30–60 cm × 3–6 mm , plan mais fortement caréné et poilu dessous. Inflorescence : 1(–2) panicules à chacune des 3–4 feuilles supérieures, entrenœuds portant la panicule la plus basse et la plus haute longs de 20– 50 cm ; panicule dressée ou pendante, sur un pédoncule poilu long de 1–5(–15) cm ; épillets mâles longs de 7–9 mm. Épillet femelle long de 5–7 mm ; glumes glabres, brun jaunâtre ou quelque peu rougeâtres. Akène obovoïde à subglobuleux, 2,6–2,9 (hypogynium compris) × 1,8–2,1 mm, irrégulièrement alvéolé ou transversalement ridé avec des poils sur les crêtes , mais parfois lisse et sans poils près de l’apex ; hypogynium petit, blanc grisâtre, à marge écartée de l’akène, sauf au niveau des 3 lobes étreignant sa base et se terminant souvent en 2–3 pointes.
+Perennial herb, with rhizome 5 and + cm × 3–6 mm, woody, reddish and often branched, with stems spaced ± 1 cm or very tightly packed; roots dark violet or blackish, generally 1–2 mm thick; stem 40–130 cm × 1–2.5 mm, triquetrous, hairy or glabrescent, with swollen base. Leaf: sheaths triangular, the lower ones often tinged red, hairy but often glabrous under the throat; collar formed by a broad transverse bar surmounted by a thin ligule; blade 30–60 cm × 3–6 mm, flat but strongly keeled and hairy below. Inflorescence: 1(–2) panicles at each of the 3–4 upper leaves, internodes bearing the lowest and highest panicle 20–50 cm long; panicle erect or pendulous, on a hairy peduncle 1–5(–15) cm long; male spikelets 7–9 mm long. Female spikelet 5–7 mm long; glumes glabrous, yellowish brown or somewhat reddish. Achene obovoid to subglobose, 2.6–2.9 (hypogynium included) × 1.8–2.1 mm, irregularly alveolate or transversely wrinkled with hairs on the ridges, but sometimes smooth and hairless near the apex; hypogynium small, whitish grey, with margin separated from the achene, except at the 3 lobes clasping its base and often ending in 2–3 points.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, aussi au Natal ; rare au Gabon, trouvée seulement dans le Haut-Ogooué, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Maritime (5 récoltes)
+widely distributed in tropical Africa, also in Natal; rare in Gabon, found only in Upper Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime (5 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des marécages et dépressions périodiquement humides, habituellement intimement mélangée avec des touffes d’herbes qui soutiennent les tiges faibles, mais parfois dressée sans appui (les tiges et les feuilles sont alors courtes) ; au Gabon, à 0–500 m d’altitude, jusqu’à 1180 m en Afrique de l’Est. Note taxonomique : très proche de S. nyasensis C.B.Clarke de l’Afrique de l’Est. S. achtenii n’a que 1(–2) pédoncule au nœud portant la panicule inférieure alors que S. nyasensis en a 3–5 ; les pédoncules sont également plus courts et plus épais. L’akène est plus petit et moins distinctement alvéolé que celui de S. nyasensis . b : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Piérart (1951), Robinson (1966)
+margins of swamps and periodically humid depressions, usually intimately mixed with tufts of grasses that support the weak stems, but sometimes erect without support (the stems and leaves are then short); in Gabon, 0–500 m elevation, up to 1180 m in East Africa. Taxonomic note: very close to S. nyasensis C.B.Clarke from East Africa. S. achtenii has only 1(–2) peduncle at the node bearing the lower panicle whereas S. nyasensis has 3–5; the peduncles are also shorter and thicker. The achene is smaller and less distinctly alveolate than that of S. nyasensis. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Piérart (1951), Robinson (1966)
 
 ## Notes
 

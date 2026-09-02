@@ -22,19 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 a. — var. Commersonii (Lam.) Stapf. = P. Commersonii Lam. = P. Kora Willd. = P. scrobiculatum Bojer (p.p.?). = P. dissectum Nees. = P. Jardini Steud. = P. mauritianicum Steud.. = P. borbonicum Steud.
 
 b. — var. polystachymum Stapf ex A. Chev.
 
-a. — Variété Commersonii.
+a. — Variety Commersonii.
 
-Herbe pérenne, jusqu'à 60 cm de haut ou plus, base prostrée, à nombreux nœuds. Feuilles à gaines généralement glabres, sauf parfois les inférieures; ligules membraneuses courtes, limbes linéaires, jusqu'à  $ 25 \times 1 $ cm, le plus souvent glabres, ou avec une touffe de poils à la jonction avec le limbe.
+Perennial herb, up to 60 cm tall or more, prostrate at the base, with numerous nodes. Leaves with sheaths generally glabrous, except sometimes the lower ones; ligules membranous and short, blades linear, up to 25 × 1 cm, mostly glabrous, or with a tuft of hairs at the junction with the blade.
 
-Inflorescence avec généralement 2, parfois jusqu'à 4 racèmes, subterminaux et avec souvent un racème supplémentaire situé plus bas et restant partiellement enfermé dans sa spathe. Rachis jusqu'à 5 ou 6 cm de long, pubescent, aplat, de 2 à 3 mm de large. Nervure médiane ventrale en zig-zag, portant des pédicelles solitaires. Épillets bisériés, latéralement contigus, largement elliptiques, brun-verdâtres. Glume supérieure à 5-7 nervures, les externes sub-marginales.
+Inflorescence with generally 2, sometimes up to 4 racemes, subterminal and often with an additional raceme situated lower down and remaining partially enclosed in its spathe. Rachis up to 5 or 6 cm long, pubescent, flattened, 2 to 3 mm wide. Ventral midvein in a zigzag pattern, bearing solitary pedicels. Spikelets biseriate, laterally contiguous, broadly elliptic, brownish-green. Upper glume with 5–7 nerves, the external ones sub-marginal.
 
-Cette variété est très polymorphe, particulièrement en ce qui concerne la pilosité des feuilles et le nombre des racèmes. Elle est très répandue dans toutes les régions tropicales de l'ancien monde. C'est surtout une plante de jachères, susceptible de donner un assez bon pâturage, mais résistant mal à la sécheresse.
+This variety is highly polymorphic, particularly with respect to the hairiness of the leaves and the number of racemes. It is very widespread in all tropical regions of the Old World. It is especially a plant of fallows, capable of providing fairly good pasture, but resisting drought poorly.
 
 ## Vernacular names
 
