@@ -32,12 +32,18 @@ from flora_ocr.flora import REPO_ROOT
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
 MARKER_RE = re.compile(r"<!-- TODO:translate[^>]*-->\n+")
-SECTION_RE = re.compile(
-    r"(## Diagnosis\n\n)<!-- TODO:translate[^>]*-->\n+(.*?)(\n## )", re.S
-)
+# Any marked block: from the marker to the next heading or end of page. Genus
+# pages carry one (the diagnosis); species pages carry up to four (description,
+# ecology, distribution, uses).
+BLOCK_RE = re.compile(r"<!-- TODO:translate[^>]*-->\n+(.*?)(?=\n## |\Z)", re.S)
+
+# Sent between blocks so one page costs one request instead of four. If the
+# model returns the wrong number of parts the page falls back to a request per
+# block, so a mangled separator costs latency, never content.
+SENTINEL = "<<<---SECTION-BREAK--->>>"
 
 PROMPT = """\
-Translate this botanical genus description from French to English.
+Translate this botanical text from French to English.
 
 Rules:
 1. Translate the French prose to natural English, using standard botanical
@@ -54,10 +60,13 @@ Rules:
    "Pétiolules" before translating). Do not "fix" scientific names — if a name
    looks corrupt, translate around it and leave it as it stands.
 6. Output ONLY the translated text. No preamble, no explanation, no code fences.
+7. If the text contains lines reading {sentinel}, reproduce each one
+   unchanged, on its own line, in the same position and the same number of
+   times. They separate independent passages.
 
 Text to translate:
 
-"""
+""".replace("{sentinel}", SENTINEL)
 
 
 def translate(client, model: str, text: str) -> str:
@@ -67,6 +76,29 @@ def translate(client, model: str, text: str) -> str:
         messages=[{"role": "user", "content": PROMPT + text}],
     )
     return "".join(b.text for b in resp.content if b.type == "text").strip()
+
+
+def _call(client, model: str, text: str) -> str:
+    for attempt in range(2):
+        try:
+            return translate(client, model, text)
+        except anthropic.RateLimitError:
+            print("  rate limited — backing off 30 s")
+            time.sleep(30)
+    return translate(client, model, text)
+
+
+def translate_blocks(client, model: str, bodies: list[str]) -> list[str]:
+    """Translate a page's marked blocks, one request per page where possible."""
+    if len(bodies) == 1:
+        return [_call(client, model, bodies[0])]
+    joined = f"\n\n{SENTINEL}\n\n".join(bodies)
+    parts = [x.strip() for x in _call(client, model, joined).split(SENTINEL)]
+    if len(parts) == len(bodies):
+        return parts
+    # the model dropped or invented a separator: pay for one request per block
+    print(f"    separator mismatch ({len(parts)} for {len(bodies)}) — per-block")
+    return [_call(client, model, b) for b in bodies]
 
 
 def page_family(text: str) -> str | None:
@@ -112,34 +144,33 @@ def main(argv: list[str] | None = None) -> int:
     done = failed = 0
     for i, p in enumerate(todo, 1):
         s = p.read_text(encoding="utf-8")
-        m = SECTION_RE.search(s)
-        if not m:
-            print(f"  SKIP {p.name}: no diagnosis block found")
+        blocks = list(BLOCK_RE.finditer(s))
+        if not blocks:
+            print(f"  SKIP {p.name}: no marked block found")
             continue
-        head, body, tail = m.group(1), m.group(2).strip(), m.group(3)
-        if not body:
+
+        bodies = [m.group(1).strip() for m in blocks]
+        if not any(bodies):
             p.write_text(MARKER_RE.sub("", s), encoding="utf-8")
             continue
+
         try:
-            english = translate(client, args.model, body)
-        except anthropic.RateLimitError:
-            print("  rate limited — backing off 30 s")
-            time.sleep(30)
-            try:
-                english = translate(client, args.model, body)
-            except Exception as exc:                       # noqa: BLE001
-                print(f"  FAIL {p.name}: {exc}")
-                failed += 1
-                continue
+            english = translate_blocks(client, args.model, bodies)
         except Exception as exc:                           # noqa: BLE001
             print(f"  FAIL {p.name}: {exc}")
             failed += 1
             continue
 
-        p.write_text(s[: m.start()] + head + english + "\n" + tail + s[m.end():],
-                     encoding="utf-8")
+        # replace back to front so earlier offsets stay valid
+        out = s
+        for m, text in zip(reversed(blocks), reversed(english)):
+            out = out[: m.start(1)] + text + "\n" + out[m.end(1):]
+        out = MARKER_RE.sub("", out)
+        p.write_text(out, encoding="utf-8")
         done += 1
-        print(f"  [{i}/{len(todo)}] {p.name} ({len(body)} -> {len(english)} chars)")
+        before, after = sum(map(len, bodies)), sum(map(len, english))
+        print(f"  [{i}/{len(todo)}] {p.name} "
+              f"({len(bodies)} block(s), {before} -> {after} chars)")
         time.sleep(args.interval)
 
     print(f"translated {done}, failed {failed}")
