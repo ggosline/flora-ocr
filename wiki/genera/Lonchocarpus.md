@@ -16,57 +16,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Humb., Bonpl. & Kunth, Nov. gen. sp. 6: 383 (1824).
 
-in Humb., Bonpl. & Kunth, Nov. gen. sp . 6 : 383 (1824).
-
-Arbres ou parfois arbustes . Feuilles imparipennées : stipelles généralement absentes ; fo-
-
-lioles (1–)5 à 15(–23), (sub)opposées. Inflorescences axillaires, en pseudoracèmes ou parfois
-
-pseudopanicules ; brachyblastes grêles avec 1 ou 2(–3) fleurs , chacun supporté par une
-
-bractée. Fleurs 6–25 mm de longueur ; bractéoles présentes ; calice tronqué avec 4 ou 5 dents
-
-minuscules ; étendard largement ovale à obovale, très pubescent-hérissé de poils appri-
-
-més , base réfléchie et à 2 callosités obtuses, ailes et carène falciformes, de même longueur ;
-
-étamines 10, monadelphes ou diadelphes ; disque absent ; ovaire pubescent, avec 2 à 9(–12)
-
-ovules. Gousses indéhiscentes, suborbiculaires à elliptiques , membraneuses ou semi-li-
-
-gneuses, sutures sans ailes, parfois à suture épaissie montrant une arête étroite entre les 2
-
-nervures placentaires. Graines réniformes, très comprimées.
+Trees or sometimes shrubs. Leaves imparipinnate: stipels generally absent; leaflets (1–)5 to 15(–23), (sub)opposite. Inflorescences axillary, in pseudoracemes or sometimes pseudopanicles; slender brachyblasts with 1 or 2(–3) flowers, each supported by a bract. Flowers 6–25 mm in length; bracteoles present; calyx truncate with 4 or 5 minute teeth; standard broadly ovate to obovate, very pubescent-hispid with appressed hairs, base reflexed and with 2 obtuse callosities, wings and keel falcate, of equal length; stamens 10, monadelphous or diadelphous; disk absent; ovary pubescent, with 2 to 9(–12) ovules. Pods indehiscent, suborbicular to elliptic, membranous or semi-ligneous, sutures wingless, sometimes with thickened suture showing a narrow keel between the 2 placental nerves. Seeds reniform, very compressed.
 
 ---
 
-Fleur, sans calice et corolle (× 4). – 8. Gynécée, ouvert (× 10). – 9. Partie de l’infrutescence (× ⅔). – 10.
-
-Graine (× 1½). (1, 3–8 : A.M. Louis, Breteler & de Bruijn 1320 ; 2 : Leeuwenberg 9057 ; 9, 10 : Breteler
-
-& de Wilde 470 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
+Flower, without calyx and corolla (× 4). – 8. Gynoecium, open (× 10). – 9. Part of the infructescence (× ⅔). – 10. Seed (× 1½). (1, 3–8: A.M. Louis, Breteler & de Bruijn 1320; 2: Leeuwenberg 9057; 9, 10: Breteler & de Wilde 470). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
 ---
 
-Sauf pour la seule espèce amphiatlantique traitée ici, le genre Lonchocarpus s.s. est limité à
+Except for the single amphi-Atlantic species treated here, the genus Lonchocarpus s.s. is limited to tropical America and comprises approximately 120 species.
 
-l’Amérique tropicale et compte environ 120 espèces.
+Notes: The genus Philenoptera Hochst. ex A.Rich. is recognized here as distinct, following thus Lewis et al. (2005) and Schrire (2000), but previously, it was often treated as a section of Lonchocarpus. Several other African species of the latter have been transferred to Millettia, Leptoderris and Craibia.
 
-Notes : Le genre Philenoptera Hochst. ex A.Rich. est reconnu ici comme distinct, suivant ainsi Lewis et
+Bibliography
 
-al. (2005) et Schrire (2000), mais antérieurement, il a été traité souvent comme une section de Loncho-
-
-carpus . Plusieurs autres espèces africaines de ce dernier ont été transférées vers Millettia, Leptoderris et
-
-Craibia .
-
-b : Geesink (1984), Lewis et al. (2005), Pellegrin (1949), Schrire (2000), da Silva & de
-
-ibliographie
-
-Azevedo Tozzi (2012).
+b: Geesink (1984), Lewis et al. (2005), Pellegrin (1949), Schrire (2000), da Silva & de Azevedo Tozzi (2012).
 
 ## Species in region
 

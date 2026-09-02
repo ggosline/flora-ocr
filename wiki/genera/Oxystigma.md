@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs with resinous properties. Leaves with alternate leaflets, the first and last pairs sometimes opposite or subopposite, with ± visible translucent punctations. Spicate-form paniculate racemes. Small flowers shortly pedicellate. Bracts and bracteoles very reduced, caducous. Sepals 5, imbricate, orbicular, almost free. Petals 0. Stamens (8-) 10, with free filaments, with small anthers. Ovary sessile; one ovule.
 
-Arbres ou arbustes résinfirées. Feuilles à folioles alternes, la première et la dernière paires étant parfois opposées ou subopposées, à ponctuations translucides ± visibles. Grappes spici-formes paniculées. Petites fleurs courtement pédicellées. Bractées et bractéoles très réduites, caduques. Sépales 5, imbriqués, orbiculaires, presque libres. Pétales o. Étamines (8-) 10, à filets libres, à petites anthères. Ovaire sessile; un ovule.
+Fruits thick, flattened, indehiscent, orbicular or suborbicular, woody, smooth, shining, with a single seed.
 
-Fruits épais, aplatis, indéhiscents, orbiculaires ou suborbiculaires, ligneux, lisses, luisants, à une seule graine.
+Type species: O. Mannii Harms, Cameroon.
 
-Espèce type : O. Mannii Harms, Cameroun.
-
-Les deux espèces connues du Cameroun et du Gabon sont
+The two known species from Cameroon and Gabon are
 
 ---
 
 ---
 
-des arbres ou arbustes ripicoles, constitués en peuplements sur les rives des cours d'eau.
+trees or shrubs of riparian habit, forming populations on the banks of watercourses.
 
-O. Mannii semble avoir une aire géographique limitée à la mangrove des rivières près de leur embouchure et dans les terrains marécageux, dans le fonds du Golfe de Biafra, du sud de la Nigéria à la Guinée espagnole et à la baie de la Mondah, au nord du Gabon.
+O. Mannii appears to have a geographical range limited to the mangrove of rivers near their mouth and in marshy lands, in the depths of the Gulf of Biafra, from southern Nigeria to Spanish Guinea and Mondah Bay, in northern Gabon.
 
-O. Buchholzii est un arbuste ou arbre ripicole commun du sud-Cameroun à la Sanga, au Kouilou et à la cuvctte congolaisc.
+O. Buchholzii is a common riparian shrub or tree from southern Cameroon to the Sanga, Kouilou and Congolese basin.
 
-Une  $ 3^{e} $ espèce, grand arbre de terre ferme, O. Gilbertii Léonard n'a été reconnue qu'au centre du Congo, et une  $ 4^{e} $ O. msoo Harms en Tanzanie (Tanganyika).
+A $3^{rd}$ species, a large upland tree, O. Gilbertii Léonard has been recognized only from central Congo, and a $4^{th}$ O. msoo Harms from Tanzania (Tanganyika).
 
-1. Petit arbre de mangrove; 1-2 paires de folioles opposées, obtusément acuminées; nervation bien visible..... 1. O. Mannii.
+1. Small mangrove tree; 1-2 pairs of opposite leaflets, obtusely acuminate; venation well visible..... 1. O. Mannii.
 
-1'. Arbre ou arbusté ripicole; folioles falciformes, acuminées, seules les dernières opposées, les autres alternes; nervation quasi invisible.
+1'. Tree or riparian shrub; falcate leaflets, acuminate, only the last ones opposite, the others alternate; venation nearly invisible.
 
 ..... 2. O. Buchholzii.
 

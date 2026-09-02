@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, small shrubby trees, without tendrils. Leaves simple, remarkably bilobed. Flowers generally unisexual and dioecious. Calyx campanulate with 4–5 short lobes. Petals 5. Stamens 10 reduced to staminodes in the ♀ flowers. Stigma thick, capitate, sessile. Pods linear to oblong, coriaceous or woody, with numerous seeds embedded in pulp. Seeds marked on one side by a U-shaped line.
 
-Arbustes, arbrisseaux, sans vrilles. Feuilles simples, remarquablement bilobées. Fleurs généralement unisexuées et dioïques. Calice campanulé à 4-5 courts lobes. Pétales 5. Étamines 10 réduites à des staminodes dans les fleurs ¥. Stigmate épais, capité, sessile. Gousses linéaires à oblongues, coriaces ou ligneuses, à nombreuses graines enrobées dans une pulpe. Graines marquées d'un côté par une ligne en U.
-
-Genre paléotropical à 3 espèces, dont une panafricaine des savanes boisées soudano-zambéziennes.
+Palaeotropical genus with 3 species, one of which is panAfrican from the Sudan–Zambezi savanna woodlands.
 
 ## Species in region
 

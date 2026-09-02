@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Inflorescences in racemes. Bracteoles petaloid, enveloping ± the bud but not valvate. Receptacle funnel-shaped. Sepals 4, imbricate. Petals 5 of which 2 minute and 3 large suborbicular. Stamens 10 united at the base. Ovary borne on a stipe united to the wall of the receptacle along its entire length. Ovules 2–4.
 
-Inflorescences en racèmes. Bractéoles pétaloïdes, envelop-pant ± le bouton mais non valvaires. Réceptacle en entonnoir. Sépales 4, imbriqués. Pétales 5 dont 2 minuscules et 3 grands suborbiculaires. Étamines ro soudées à la base. Ovaire porté par un stipe soudé à la paroi du réceptacle sur toute sa longueur. Ovules 2-4.
+### Woody legumes, nerved.
 
-### Gousses ligneuses, nervurées.
-
-Espèce-type : N. Stephanii (Chev.) Léonard.
+Type species: N. Stephanii (Chev.) Léonard.
 
 ## Species in region
 

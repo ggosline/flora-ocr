@@ -17,37 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs; rhizome woody; stem climbing or creeping. Leaves pinnate, 3-foliolate; stipels present. Inflorescences axillary, in dense or lax pseudoracemes, flowers (2–)3 or more on the axes. Flowers: bracteoles subulate; calyx 5-lobed, upper lobes connate except at the apex; corolla small, scarcely exserted, white to yellowish or purple-blue, glabrous, standard obovate to circular; stamens monadelphous, at least when young, anthers uniform; ovary pluriovulate; style short, ± curved, stigma small, capitate. Pods linear-oblong, flattened, ± septate. Seeds oblong, granular in surface; hilum lateral, with persistent white strophiole.
 
-Herbes pérennes ; rhizome ligneux ; tige grimpante ou rampante . Feuilles pennées, 3-fo-
+Genus of 2 species, one of which has a wide distribution in Africa, including Gabon, extending to Arabia, India and Malesia and widely introduced in the tropics. The second species is found in Tanzania.
 
-liolées ; stipelles présentes. Inflorescences axillaires, en pseudoracèmes denses ou lâches ,
+Notes: This genus was separated from Glycine L. which is, among other things, with solitary flowers and the upper lobes of the calyx free.
 
-à fleurs par (2–)3 ou plus sur les axes. Fleurs : bractéoles subulées ; calice 5-lobé, lobes
+b: Lackey (1977), Mackinder et al. (2001).
 
-supérieurs soudés sauf au sommet ; corolle petite, à peine exserte, blanche à jaunâtre ou
-
-pourpre-bleu , glabre, étendard obovale à circulaire ; étamines monadelphes , en tous cas en
-
-état jeune, anthères uniformes ; ovaire pluriovulé ; style court, ± courbé, stigmate petit, capité.
-
-Gousses linéaires-oblongues , aplaties, ± cloisonnées. Graines oblongues, à surface granu -
-
-leuse ; hile latéral, à strophiole persistante, blanche.
-
-Genre de 2 espèces dont une est à large répartition en Afrique, y compris au Gabon, jusqu’en
-
-Arabie, en Inde et en Malésie et largement introduite sous les tropiques. La seconde espèce se
-
-trouve en Tanzanie.
-
-Notes : Ce genre a été séparé de Glycine L. qui est, entre autres, à fleurs solitaires et les lobes supérieurs
-
-du calice libres.
-
-b : Lackey (1977), Mackinder et al. (2001).
-
-ibliographie
+ibliography
 
 ## Species in region
 

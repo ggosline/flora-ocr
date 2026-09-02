@@ -18,21 +18,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaflets opposite with twisted petiolules. Racemes or panicles. Bracteoles enveloping ± the young bud, not valvate, subpersistent. Receptacle funnel-shaped. Sepals 4, imbricate. Petals (4-) 5 of which 3 large subequal, and (1-) 2 smaller or minute. Stamens 10, free. Ovary with a stipe fused to the receptacle wall for part of its length; ovules 2-4. Large woody fruits.
 
-Arbres, arbustes. Folioles opposées à pétiolules tordus. Racèmes ou panicules. Bractéoles enveloppant ± le jeune bouton, non valvaires, subpursuantes. Réceptacle en entonnoir. Sépales 4, imbriqués. Pétales (4-) 5 dont 3 grands subégaux, et (1-) 2 plus petits ou minuscules. Étamines 10, libres. Ovaire à stipe soudé à la paroi du réceptacle sur une partie de sa longueur; ovales 2-4. Grands fruits ligneux.
+Type species: L. kalantha Harms from Liberia.
 
-Espèce type : L. kalantha Harms du Libéria.
+Læsenera are shrubs or small trees, often of marshy soils, sometimes remarkable for beautiful clusters of pink flowers. 4 species have been described, including one from southern Nigeria, L. Talbotii Bak. f. and 2 others from Gabon.
 
-Les Læsenera sont des arbustes ou des petits arbres, souvent de terrains marécageux, parfois remarquables par de belles grappes de fleurs roses. 4 espèces ont été décrites, dont une de la Nigéria du sud, L. Talbotii Bak. f. et 2 autres du Gabon.
+1. Leaves with 1 pair of leaflets..... 1. L. gabonensis.
 
-1. Feuilles à 1 paire de folioles..... 1. L. gabonensis.
-
-1' Feuilles à 4-5 paires de folioles ..... 2. L. Walkeri.
-
----
-
----
+1' Leaves with 4-5 pairs of leaflets ..... 2. L. Walkeri.
 
 ## Species in region
 

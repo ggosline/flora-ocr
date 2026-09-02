@@ -17,67 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrub or herbs, erect or creeping, with rhizome or napiform tuber. Leaves:
 
-Suffrutex ou herbes , dressés ou rampants, à rhizome ou tubercule napiformes . Feuilles :
+stipelles often absent; leaflets 1 or 3 (outside Gabon, sometimes up to 6), with blade often
 
-stipelles souvent absentes ; folioles 1 ou 3 (hors du Gabon, parfois jusqu’à 6), à limbe souvent
+glandular beneath. Inflorescences terminal or axillary, in elongated or globular racemes. Flowers subsessile, 6–12 mm long; calyx campanulate, bilabiate, slightly gibbous, hairy and covered with glands, the 2 upper lobes sometimes partially connate, the 3 lower lobes longer; corolla yellow or sometimes red, standard glabrous to pubescent, glandular externally, apex often emarginate, auriculate or not, often with 2 appendices at the base of the claw, wings oblong, glabrescent, sometimes glandular, with auricle ± developed, keel curved, often with hairy and glandular apex; stamens 10, diadelphous, the vexillary one free; ovary 2-ovulate, with long hairs; style curved in the middle. Pods oblong to ovate, with (1–)2 seeds, densely hairy. Seeds brown; hilum linear, with or without strophiole.
 
-glanduleux dessous . Inflorescences terminales ou axillaires, en racèmes allongés ou globu -
+A genus of approximately 150 species, of which 100 to 110 occur in Africa and Madagascar, 40 from Mexico to Argentina and 2 in Southeast Asia and Australia. In Africa, authors have recognized a number of species and subspecies so closely related as to render the taxonomic situation relatively uncertain. In Gabon, 10 species are found, two of which with infraspecific taxa.
 
-leux. Fleurs subsessiles, 6–12 mm de longueur ; calice campanulé, bilabié, légèrement gib -
+Bibliography: Brummitt (2005), Hauman (1954c), Hepper (1958), Jacques-Félix (1971), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1971c).
 
-beux, poilu et couvert de glandes , les 2 lobes supérieurs parfois partiellement soudés, les 3
+### Key to the species
 
-lobes inférieurs plus longs ; corolle jaune ou parfois rouge , étendard glabre à pubescent,
+1. - Leaflets with blade linear, more than 10 times longer than wide; inflorescence with (1–)2 to 4(–6) flowers ................................................................................................... E. batekense
 
-glanduleux extérieurement , sommet souvent émarginé, auriculé ou non, souvent à 2 appen -
+- Leaflets with blade < 10 times longer than wide; inflorescence generally with more than flowers ............................................................................................................................... 2
 
-dices à la base de l’onglet, ailes oblongues, glabrescentes, parfois glanduleuses, à auricule
+2. - Leaves all 1-foliolate, with blade white-tomentose beneath ........................................ 3
 
-± développé , carène recourbée , souvent à sommet velu et glanduleux ; étamines 10, dia -
+- Leaves with 3 or 5 leaflets, sometimes with 1 leaflet near the base of the plant, with blade silky reddish-brown to reddish-yellow or whitish beneath ................................................ 4
 
-delphes, la vexillaire libre ; ovaire 2-ovulé, à poils longs ; style courbé au milieu . Gousses
-
-oblongues à ovales , à (1–)2 graines, longuement poilues . Graines brunes ; hile linéaire, avec
-
-ou sans strophiole .
-
-Genre d’environ 150 espèces, dont 100 à 110 en Afrique et à Madagascar, 40 du Mexique à
-
-l’Argentine et 2 en Asie du Sud Est et en Australie. En Afrique, les auteurs ont reconnu un
-
-nombre d’espèces et de sous-espèces étroitement apparentées au point de rendre la situation
-
-taxonomique relativement peu assurée. Au Gabon, on trouve 10 espèces dont deux avec des
-
-taxons infraspécifiques.
-
-b : Brummitt (2005), Hauman (1954c), Hepper (1958), Jacques-Félix (1971), Lewis et al.
-
-ibliographie
-
-(2005), Pellegrin (1949), Verdcourt (1971c).
-
-### Clé des espèces
-
-1. - Folioles à limbe linéaire, plus de 10 fois plus long que large ; inflorescence avec (1–)2 à
-
-4(–6) fleurs ................................................................................................... E. batekense
-
-- Folioles à limbe < 10 fois plus long que large ; inflorescence généralement à plus de
-
-fleurs ............................................................................................................................... 2
-
-2. - Feuilles toutes 1-foliolées, à limbe blanc-tomenteux dessous ........................................ 3
-
-- Feuilles à 3 ou 5 folioles, parfois à 1 foliole près de la base de la plante, à limbe soyeux
-
-brun rougeâtre à jaune rougeâtre ou blanchâtre dessous ................................................ 4
-
-3. - Plante 30–60 cm de hauteur ; tige à entre-nœuds allongés ; racèmes 5–12(–14) cm de
-
-longueur ; corolle pourpre ..................................................................... E. pulcherrimum
+3. - Plant 30–60 cm tall; stem with elongated internodes; racemes 5–12(–14) cm long; corolla purple ..................................................................... E. pulcherrimum
 
 ## Species in region
 

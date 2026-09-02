@@ -16,25 +16,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Denham & Clapperton, Trav. app.: 234 (1826).
 
 – Paryphosphaera Karst., Fl. Columbia 2: 7 (1862).
 
-Arbres dépourvus d'épines et de crochets. Feuilles bipennées à folioles ± nombreuses. Pétiole glanduleux à la base. Rachis avec glandes dans sa partie sommitale. Inflorescences en capitules solitaires ou paniculées, pendantes. Fleurs basales neutres ou ♂; fleurs sommitales ♀;
+Trees lacking spines and hooks. Leaves bipinnate with ± numerous leaflets. Petiole glandular at the base. Rachis with glands in its apical portion. Inflorescences in solitary or paniculate capitula, pendulous. Basal flowers neutral or ♂; apical flowers ♀; tetra- or pentamerous. Calyx gamosepalous zygomorphic, tubular, with imbricate segments of which 2 are broader. Corolla with 5 petals, ± strongly adnate to the staminal tube, lobes ± projecting beyond the calyx. Stamens 10, united into a tube, ± adnate to the corolla. Anthers basifixed. Ovary stipitate. Pods oblong to linear, dehiscent or not, ± thin, woody or soft. Seeds ellipsoid to oblong ellipsoid, ± flattened.
 
----
+TYPE SPECIES: P. filicoidea Welw. ex Oliv.
 
-tetra- ou pentamères. Calice gamosépale zygomorphe, tubuleux, à segments imbriqués dont 2 plus larges. Corolle à 5 pétales, ± fortement soudés au tube staminal, lobes ± saillants hors du calice. Étamines 10, soudées en tube, ± adné à la corolle. Anthères basifixes. Ovaire stipité. Gousses oblongues à linéaires, déhiscentes ou non, ± minces, ligneuses ou molles. Graines ellipsoïdes à oblongues ellipsoïdes, ± aplaties.
+This genus contains about forty species in all tropical regions. In Africa and Madagascar, 4 are found; only 2 are present in Gabon.
 
-ESPÈCE-TYPE : P. filicoidea Welw. ex Oliv.
+1. Venation of leaflets scarcely visible; wings of the pinna axis folded towards the upper surface; fruit 23.5–37.5 × 2.5–4 cm ..... 1. P. bicolor.
 
-Ce genre renferme une quarantaine d'espèces dans toutes les régions tropicales. En Afrique et à Madagascar, on en trouve 4 ; 2 seulement sont présentes au Gabon.
-
-1. Nervation des folioles peu visible ; ailes de l'axe de la penne repliées vers la face supérieure ; fruit 23,5-37,5 × 2,5-4 cm ..... 1. P. bicolor.
-
-1'. Nervation des folioles saillante ; ailes de l'axe de la penne repliées vers la face inférieure ; fruit long rubané 33-66 × 1-1,6 cm ..... 2. P. filicoidea.
+1'. Venation of leaflets prominent; wings of the pinna axis folded towards the lower surface; fruit long ribbon-like 33–66 × 1–1.6 cm ..... 2. P. filicoidea.
 
 ## Species in region
 

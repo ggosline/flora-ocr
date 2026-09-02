@@ -17,33 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes (in Gabon) or shrubs; branchlets glabrous or ferruginous-tomentose at the apex.
 
-Lianes (au Gabon) ou arbustes ; rameaux glabres ou ferrugineux-tomenteux au sommet.
+Stipules persistent, large, lanceolate or ovate. Leaves imparipinnate; stipelles absent; leaflets in 2 or 3 pairs opposite, with ovate, coriaceous blade. Inflorescences in ample panicles; bracts and bracteoles caducous, thin. Flowers with short, distinct hypanthium; calyx bilabiate, lips long, entire; standard broadly ovate, emarginate, with 2 basal callosities, with short claw, wings oblique-ovate, keel oblique-ovate, with free petals, slightly imbricate; stamens 10, diadelphous (9 + 1), the vexillary one free; nectariferous disc 10-lobed; ovary sessile, with 3 or 4 ovules; style filiform, stigma capitate, minuscule. Pod flattened, wider toward the apex, acuminate.
 
-Stipules persistantes, grandes , lancéolées ou ovales. Feuilles imparipennées ; stipelles
+Genus of 1 or 2 species, limited to central Africa, one of which in Gabon.
 
-absentes ; folioles en 2 ou 3 paires opposées , à limbe ovale, coriace . Inflorescences en
+Notes: Genus belonging to the tribe Millettieae.
 
-panicules amples ; bractées et bractéoles caduques, minces. Fleurs à hypanthium court,
+Bibliography
 
-distinct ; calice bilabié , lèvres longues, entières ; étendard largement ovale, émarginé, à
-
-2 callosités basales, à onglet court, ailes obliques-ovales, carène oblique-ovale, à pétales
-
-libres , légèrement imbriqués ; étamines 10, diadelphes (9 + 1), la vexillaire libre ; disque
-
-nectarifère 10-lobé ; ovaire sessile, à 3 ou 4 ovules ; style filiforme, stigmate capité, minus -
-
-cule. Gousse a platie, plus large vers le sommet , acuminée.
-
-Genre de 1 ou 2 espèces, limité à l’Afrique centrale, dont une au Gabon.
-
-Notes : Genre appartenant à la tribu des Millettieae.
-
-b : Geesink (1984), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949).
-
-ibliographie
+b: Geesink (1984), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949).
 
 ## Species in region
 

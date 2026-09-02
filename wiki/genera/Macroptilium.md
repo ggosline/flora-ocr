@@ -17,59 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs erect, procumbent or climbing. Stipules not prolonged below the point of insertion. Leaves pinnate; stipelles persistent; leaflets (1–)3, with blade entire or lobed. Inflorescences axillary, in pseudoracemes, with long peduncles; flowers in fascicles along the rachis on cushions; bracts caducous. Flowers: bracteoles present, generally caducous; calyx campanulate or tubular, lobes acute, the upper ones shorter than the others; corolla purplish, violet or white, standard reflexed, obovate to circular, the base with small auricles, apex emarginate, wings longer than the standard, base long-stipitate, keel petals linear-naviculate, spiralled for almost one turn, the apices adnate, with long claw adnate to the staminal tube; stamens diadelphous (9 + 1), with uniform anthers; ovary subsessile, linear, with rare to numerous ovules; style slender at the base, abruptly curved and broadened higher up, hairy below the barely capitate stigma. Pods linear or falcate, flattened, with rare to numerous seeds. Seeds with short hilum.
 
-Herbes érigées, procombantes ou grimpantes. Stipules non-prolongées sous le point d’inser-
+Genus of about 20 species from America, from the United States to Argentina, introduced into other tropical countries. Although the presence in Gabon of the two species treated below remains to be confirmed, it is likely.
 
-tion. Feuilles pennées ; stipelles persistantes ; folioles (1–)3 , à limbe entier ou lobé. Inflo -
+Notes: Macroptilium is a member of the subtribe Phaseolineae.
 
-rescences axillaires, en pseudoracèmes, à pédoncules longs ; fleurs en fascicules le long du
+Bibliography: Delgado-Salinas et al. (2011), Lewis et al. (2005), Mackinder et al. (2001), Verdcourt (1970).
 
-rachis sur des coussinets ; bractées caduques. Fleurs : bractéoles présentes, généralement ca-
+### Key to the species
 
-duques ; calice campanulé ou tubuleux, lobes aigus, les supérieurs plus courts que les autres ;
-
-corolle purpurine, violette ou blanche , étendard réfléchi, obovale à circulaire, la base à pe -
-
-tites auricules, sommet émarginé, ailes plus longues que l’étendard, base longuement stipitée,
-
-pétales de la carène linéaires-naviculiformes, spiralés sur presque un tour, les sommets adnés,
-
-à onglet long adné au tube staminal ; étamines diadelphes (9 + 1), à anthères uniformes ; ovaire
-
-subsessile, linéaire, à ovules rares à nombreux ; style grêle à la base, abruptement courbé et
-
-élargi plus haut , poilu sous le stigmate à peine capité. Gousses linéaires ou falquées , apla-
-
-ties , à graines rares à nombreuses. Graines à hile court.
-
-Genre d’environ 20 espèces de l’Amérique, des États Unis à l’Argentine, introduites dans
-
-d’autres pays tropicaux. Bien que la présence au Gabon des deux espèces traitées ci-dessous
-
-reste à confirmer, elle est vraisemblable.
-
-Notes : Macroptilium est un membre de la sous-tribu des Phaseolineae.
-
-b : Delgado-Salinas et al. (2011), Lewis et al. (2005), Mackinder et al. (2001), Verdcourt
-
-ibliographie
-
-(1970).
-
-### Clé des espèces
-
-1. - Herbe procombante ; feuilles basales à folioles à limbe ovale à rhomboïdal,
-
-généralement plus ou moins lobé, surtout à la base de la plante, gris-tomenteux dessous
+1. - Herb procumbent; basal leaves with leaflets with blade ovate to rhomboidal, generally more or less lobed, especially at the base of the plant, grey-tomentose below
 
 ............................................................................................................. M. atropurpureum
 
 ---
 
-- Herbe érigée, à tige parfois grimpante (volubile) vers le sommet ; feuilles basales à
-
-folioles à limbe elliptique à étroitement ovale, entier, à pubescence lâche dessous
+- Herb erect, with stem sometimes climbing (twining) towards the apex; basal leaves with leaflets with blade elliptic to narrowly ovate, entire, with loose pubescence below
 
 .................................................................................................................... M. lathyroides
 

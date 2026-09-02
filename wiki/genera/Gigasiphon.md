@@ -17,25 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, rarely lianes (G. Gossweileri). Leaves simple, ± acuminate. Large ♂ flowers. Receptacle elongated, generally narrowly cylindrical and then indistinct from the pedicel. Sepals 5, elongated, narrow, free. Petals 5. Stamens 10. Ovary long-stipitate; style elongated. Pods ± woody, dehiscent or not.
 
-Arbres, rarement lianes (G. Gossweileri). Feuilles simples,
+Palaeotropical genus, comprising two species in Africa, one in Madagascar, the others respectively in Timor, the Philippines and New Guinea.
 
-± acuminées. Grandes fleurs ♂. Réceptacle allongé, généra-
+G. macrosiphon (Harms) Brenan is a tree of dense humid forests in the maritime sectors of Kenya and Tanganyika, with large very ornamental flowers.
 
-lement étroitement cylindrique et alors indistinct du pédicelle.
-
-Sépales 5, allongés, étroits, libres. Pétales 5. Étamines 10. Ovaire
-
-longuement stipité; style allongé. Gousses ± ligneuses, déhis-
-
-centes ou non.
-
-Genre paléotropical, comprenant deux espèces en Afrique, une à Madagascar, les autres respectivement à Timor, aux Philippines et en Nouvelle Guinée.
-
-G. macrosiphon (Harms) Brenan est un arbre des forêts denses humides des secteurs maritimes du Kenya et du Tanganika, à grandes fleurs très ornamentales.
-
-La seconde espèce africaine, G. Gossweileri (Bak. f.) Torre et Hillcoat est une liane avec des vrilles circinées, d'abord rapportée au genre Bauhinia. Brenan a estimé qu'en raison notamment de son réceptacle relativement court, et l'existence des vrilles, l'appartenance au genre Gigasiphon mériterait d'être reconsidérée.
+The second African species, G. Gossweileri (Bak. f.) Torre et Hillcoat is a liane with circinately coiled tendrils, initially referred to the genus Bauhinia. Brenan considered that due in particular to its relatively short receptacle, and the existence of tendrils, the placement in the genus Gigasiphon would merit reconsideration.
 
 ## Species in region
 

@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Panicles dense. Bracteoles imbricate, enveloping only the base of the bud. Receptacle in a short funnel. Sepals 4, imbricate. Petals 0. Fertile stamens 3-4, united at the base in a unilateral anterior collar. Staminodes 4-5, free. Ovary sessile; ovules 2. Fruit unknown.
 
-Arbres. Panicules denses. Bractéoles imbriquées, n'enveloppant que la base du bouton. Réceptacle en un court entonnoir. Sépales 4, imbriqués. Pétales o. Étamines fertiles 3-4, soudées à la base en une collerette unilatérale antérieure. Staminodes 4-5, libres. Ovaire sessile; ovules 2. Fruit inconnu.
+Type species: A. Le-Testui Pellegr. Gabon.
 
-Espèce type : A. Le-Testui Pellegr. Gabon.
-
-Genre monospécifique, endémique gabonais.
+Monospecific genus, endemic to Gabon.
 
 ## Species in region
 

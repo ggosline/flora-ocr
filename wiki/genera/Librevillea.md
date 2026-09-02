@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stipules intrapetiolary. Leaves with alternate leaflets. Bracteoles sepaloid. Flowers with short cupuliform receptacle. Tepals (1-) 2, minute. Stamens (9-) 10, connate at the base. Ovary stipitate, 2(-3) ovules. Fruits dehiscent in 2 woody valves.
 
-Stipules intrapétiolaires. Feuilles à folioles alternes. Bractéoles sépaloïdes. Fleurs à court réceptacle cupuliforme. Tépales (1-) 2, minuscules. Étamines (9-) 10, soudées à la base. Ovaire stipité, 2(-3) ovules. Fruits déhiscents en 2 valves ligneuses.
-
-Genre monospécifique, endémique gabonais.
+Monotypic genus, endemic to Gabon.
 
 ## Species in region
 

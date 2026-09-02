@@ -17,41 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes, trees or sarmentose shrubs. Stipules caducous, ovate-lanceolate. Leaves unifoliolate; stipels absent. Inflorescences axillary or terminal, in unequally dichotomous cymes, sometimes grouped in pseudoracemes; bracts persistent, opposite, prominent, circular or ovate. Flowers with 2 bracteoles similar to the bracts entirely enclosing the bud; calyx campanulate, with 5 very short and unequal teeth; standard ± circular, with emar­ginate apex, briefly unguiculate, wings oblique, keel oblique, with short claws; stamens 10, monadelphous, filaments free and subequal, anthers linear, oblong, short; ovary sessile or with short stipe, with 2 or 3 ovules; style slender, slightly incurved, with minute terminal stigma. Pods oblong, oblique, flattened, with obliquely acute-rounded base, attenuate at apex, subleathery, with 1 to 3 seeds, the 2 valves velvety inside. Seeds lenticular, flattened, black, glossy.
 
-Lianes, arbres ou arbustes sarmenteux. Stipules caduques, ovales-lancéolées. Feuilles unifo-
+Genus of 3 or 4 species, of which 1 or 2 in the Indian subcontinent and 2 in Africa, of which only one in Gabon.
 
-liolées ; stipelles absentes . Inflorescences axillaires ou terminales, en cymes inégalement di-
-
-chotomiques , parfois groupées en pseudoracèmes ; bractées persistantes, opposées, saillantes,
-
----
-
----
-
-circulaires ou ovales. Fleurs à 2 bractéoles similaires aux bractées enfermant entièrement le
-
-bouton ; calice campanulé, à 5 dents très courtes et inégales ; étendard ± circulaire, à sommet
-
-émarginé, brièvement onguiculé, ailes obliques, carène oblique, à onglets courts ; étamines
-
-10, monadelphes, filets libres et subégaux, anthères linéaires, oblongues, courtes ; ovaire
-
-sessile ou à stipe court, à 2 ou 3 ovules ; style grêle, légèrement incurvé, à stigmate minuscule,
-
-terminal. Gousses oblongues, obliques , aplaties, à base obliquement aiguë-arrondie, atténuée
-
-au sommet, subligneuse , avec 1 à 3 graines, les 2 valves veloutées à l’intérieur. Graines len-
-
-ticulaires, aplaties, noires, brillantes.
-
-Genre de 3 ou 4 espèces, dont 1 ou 2 dans le sous-continent indien et 2 en Afrique, dont une
-
-seule au Gabon.
-
-b : Lewis et al. (2005), Panigrahi (1976), Pellegrin (1949), Toussaint (1953).
-
-ibliographie
+Bibliography: Lewis et al. (2005), Panigrahi (1976), Pellegrin (1949), Toussaint (1953).
 
 ## Species in region
 

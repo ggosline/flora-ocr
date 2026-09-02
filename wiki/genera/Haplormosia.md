@@ -16,51 +16,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Engl., Veg. Erde 9, Pflanzenw. Afr. 3(1): 532–533 (1915).
 
-in Engl., Veg. Erde 9 , Pflanzenw. Afr. 3(1) : 532–533 (1915).
+Medium-sized deciduous trees. Stipules minute or absent. Leaves unifoliolate; petiole swollen and wrinkled (when dry) at the extremities; stipels 2, minute, appressed; leaflet with glabrous blade; lateral veins non-opposite. Inflorescences in axillary racemes that are few-flowered; peduncle angular, glabrescent; bracts minute. Flowers: bracteoles 2; calyx rather persistent in fruit, cupuliform, nearly glabrous, with 5 lobes, the 2 upper ones fused, the others ± equal; corolla blue-violet or purple, standard with a very short claw, emarginate, wings clawed, oblique, furnished with lateral crests, keel narrow, obtuse, furnished in the middle of the lower face with small lateral crests between the longitudinal veins; stamens 10, free, glabrous; ovary stipitate, oblong, glabrous or nearly so, with 3 ovules; style thin and glabrous.
 
-Arbres de taille moyenne, caducifolés. Stipules minuscules ou absentes. Feuilles unifoliolées ;
-
-pétiole renflé et ridé (en état sec) aux extrémités ; stipelles 2, minuscules, couchées ; foliole
-
-à limbe glabre ; nervures latérales non-opposées . Inflorescences en racèmes axillaires pauci -
-
-flores ; pédoncule anguleux, glabrescent ; bractées minuscules. Fleurs : bractéoles 2 ; calice
-
-assez persistant en fruit, cupuliforme, presque glabre, à 5 lobes, les 2 supérieurs soudés, les
-
-autres ± égaux ; corolle bleu violacé ou pourpre, étendard à très court onglet, émarginé, ailes
-
-onguiculées, obliques, munies de crêtes latérales, carène étroite, obtuse, munie au milieu de
-
-la face inférieure de petites crêtes latérales entre les nervures longitudinales ; étamines 10,
-
-libres , glabres ; ovaire stipité, oblong, glabre ou presque, à 3 ovules ; style mince et glabre.
-
-Gousse stipitée, ovoïde à obovoïde , brièvement apiculée, ligneuse , d’abord aplatie, légère-
+Pod stipitate, ovoid to obovoid, briefly apiculate, woody, at first flattened, lightly
 
 ---
 
-Fleur (× 3). – 4. Calice, ouvert (× 3). – 5. Étendard (× 2). – 6. Aile (× 2). – 7. Carène (× 2). – 8. Gynécée
-
-(× 3). – 9. Gousse (× 1). – 10. Partie de la gousse, ouverte, montrant la graine (× 2). – 11. Gousse déhis -
-
-cente (× ⅔). – 12. Graines (× 6). (1 : Bosser 20941 ; 2–8 : Friedmann 2242 ; 9, 10 : Boivin s.n. ; 11, 12 :
-
-Cordemoy s.n.). Dessin par Eleanor Catherine (©), reproduit avec permission à partir de Polhill (1990).
+Flower (× 3). – 4. Calyx, opened (× 3). – 5. Standard (× 2). – 6. Wing (× 2). – 7. Keel (× 2). – 8. Gynoecium (× 3). – 9. Pod (× 1). – 10. Part of the pod, opened, showing the seed (× 2). – 11. Dehiscent pod (× ⅔). – 12. Seeds (× 6). (1: Bosser 20941; 2–8: Friedmann 2242; 9, 10: Boivin s.n.; 11, 12: Cordemoy s.n.). Drawing by Eleanor Catherine (©), reproduced with permission from Polhill (1990).
 
 ---
 
-ment bombée au milieu, à 1 graine, bord supérieur épaissi. Graine oblongue, brune, à testa très
+inflated in the middle, with 1 seed, upper margin thickened. Seed oblong, brown, with very thin and papyraceous testa; cotyledons green, thick.
 
-mince et papyracé ; cotylédons verts, épais.
+Monotypic genus, extending from Sierra Leone to Cameroon and Gabon.
 
-Genre monospécifique, s’étendant de Sierra Léone au Cameroun et le Gabon.
+b: Voorhoeve (1965), Faridah Hanum (2001).
 
-b : Voorhoeve (1965), Faridah Hanum (2001).
-
-ibliographie
+Bibliography
 
 ## Species in region
 

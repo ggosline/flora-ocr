@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaflets alternate, sometimes subalternate, generally emarginate, densely covered with translucent dots.
 
-Arbres. Folioles alternes, parfois subopposées, généralement émarginées, criblées de points translucides.
+Inflorescences in racemes. Bracteoles small, not enveloping the bud, caducous. Receptacle very short. Sepals 4, subvalvate, one broader than the others, tawny-tomentose internally, sometimes covered externally with glandular verrucosities. Petals 5 (4 equal and one narrower) spatulate, unguiculate, with crisped margins. Stamens, 9 connate at the base and 1 free, alternately short and long.
 
-Inflorescences en racèmes. Bractéoles petites, n'enveloppant pas le bouton, caduques. Réceptacle très court. Sépales 4, subvalvaires, un plus large que les autres, tomenteux fauve inté-rieurement, parfois couverts extérieurement de verrucosités glanduleuses. Pétales 5 (4 égaux et un plus étroit) spatulés, onguiculés, à bords crispés. Étamines, 9 soudées à la base et 1 libre, alternativement courtes et longues.
+Fruits smooth or often verrucose.
 
-Fruits lisses ou souvent verrueux.
+Type species: T. africana Harms.
 
-Espèce type : T. africana Harms.
+Trees and very large forest trees of upland and riparian communities, often copal-bearing.
 
-Arbres et très grands arbres de forêt de terre ferme, et de peuplements ripicoles, souvent copallifères.
+With the exception of one species recorded in Sierra Leone and Côte d'Ivoire, this genus is characteristic of the equatorial forest of Cameroon, Gabon, and Congo, with radiations south of the Congo forest massif and in East Africa, in Tanganyika to the shore of the Indian Ocean. To date 3 species are common to Cameroon, Gabon, and Congo. The central and southern Congolese forest comprises moreover several other species: T. Burttii (forest galleries of Upper Katanga), T. yangambiensis, T. copallifera. In Tanganyika are added T. Martiniana, T. densiflora. In Angola, T. Dawei. In total 10 species.
 
-A l'exception d'une espèce signalée en Sierra Leone et en Côte d'Ivoire, ce genre est caractéristique de la forêt équatoriale, camerounaise, gabonaise et congolaise, avec des irradiations au sud du massif forestier congolais et en Afrique orientale, au Tanganika jusqu'au bord de l'océan Indien. Jusqu'à présent 3 espèces sont communes au Cameroun, au Gabon et au Congo. La forêt congolaise, centrale et méridionale, compte en outre plusieurs autres espèces : T. Burttii (galeries forestières du Ht Katanga), T. yangambiensis, T. copallifera. Au Tanganika s'ajoutent T. Martiniana, T. densiflora. En Angola, T. Dawei. Au total 10 espèces.
+1. Leaflets small, 3-12 mm in width, numbering 14-30; sepals pubescent without glandular excrescences..... 1. T. anomala.
 
-1. Folioles petites, 3-12 mm delargeur, au nombre de 14-30; sépales pubes-
+1'. Leaflets larger; sepals pubescent and densely covered with glandular excrescences.
 
-cents sans excroissances glanduleuses..... 1. T. anomala.
-
-1'. Folioles plus grandes; sépales pubescents et criblés d'excroissances glanduleuses.
-
-2. 7-12 folioles, jusqu'à 4,5 cm de largeur; excroissances coniques.
+2. 7-12 leaflets, up to 4.5 cm in width; excrescences conical.
 
 ---
 
@@ -45,7 +41,7 @@ cents sans excroissances glanduleuses..... 1. T. anomala.
 
 ..... 2. T. africana.
 
-2'. 8-18 folioles, plus étroites, jusqu'à 3 cm de largeur; excroissances en forme de clous..... 3. T. Lescrauwætii.
+2'. 8-18 leaflets, narrower, up to 3 cm in width; excrescences nail-shaped..... 3. T. Lescrauwætii.
 
 ## Species in region
 

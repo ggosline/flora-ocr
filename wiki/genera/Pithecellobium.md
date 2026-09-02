@@ -17,8 +17,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Spiroloba RAF., Sylv. Tellur.: 119 (1838).
 
 – Havardia SMALL, Bull. New York Bot. Gard. 2 : 91 (1901).
@@ -51,11 +49,11 @@ tags: [genus, generated]
 
 – Ortholobium GAGNEP., Bull. Soc. Bot. Fr. 99 : 36 (1952).
 
-Arbres ou arbustes à stipules spinescentes, à épines axillaires, ou inermes. Glandes pétiolaires et jugales presque toujours présentes. Inflorescences ± axillaires en épis ou en grappes de glomérules. Fleurs §, pentamères. Calice à sépales soudés. Corolle à pétales soudés sur ± la moitié de la longueur. Étamines nombreuses soudées entre elles. Ovaire multioulé; style long et grêle. Gousse ± spiralée. Graine souvent entourée par un arille.
+Trees or shrubs with spinescent stipules, axillary spines, or unarmed. Petiolar and jugal glands almost always present. Inflorescences ± axillary in spikes or racemes of glomerules. Flowers §, pentamerous. Calyx with sepals connate. Corolla with petals connate for ± half the length. Stamens numerous, connate with one another. Ovary multilocular; style long and slender. Legume ± spiral. Seed often surrounded by an aril.
 
-ESPÈCE-TYPE : P. unguis-cati (L.) Benth. (Mimosa unguis-cati L.)
+TYPE SPECIES: P. unguis-cati (L.) Benth. (Mimosa unguis-cati L.)
 
-Ce genre pantropical regroupe environ une centaine d'espèces ; au Gabon 1, introduite, est peut-être présente.
+This pantropical genus comprises approximately one hundred species; in Gabon 1, introduced, is perhaps present.
 
 ## Species in region
 

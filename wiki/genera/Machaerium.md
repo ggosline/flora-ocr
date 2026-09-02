@@ -17,31 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs and lianes. Stipules sometimes transformed into spines. Leaves imparipinnate; stipelles present or absent; leaflets opposite or subopposite. Inflorescences axillary and terminal, in panicles. Flowers: bracteoles 2; calyx campanulate, with short and subequal teeth; standard suborbicular, wings and keel incurved; stamens monadelphous or diadelphous (9 + 1), anthers dorsifixed, with longitudinal dehiscence; ovary with 1 or 2 ovules; style incurved, stigma very small. Pods indehiscent, distinctly falciform or suborbicular, flattened, with a single seed, coriaceous. Seeds reniform, flattened.
 
-Arbres , arbustes et lianes . Stipules parfois transformées en épines . Feuilles imparipennées ;
+Genus of 130 species from American tropics, except M. lunatum, sole amphiatlantic species.
 
-stipelles présentes ou absentes ; folioles opposées ou subopposées. Inflorescences axillaires
-
-et terminales, en panicules . Fleurs : bractéoles 2 ; calice campanulée, à dents courtes et
-
-subégales ; étendard suborbiculaire, ailes et carène incurvées ; étamines monadelphes ou
-
-diadelphes (9 + 1), anthères dorsifixes, à déhiscence longitudinale ; ovaire à 1 ou 2 ovules ;
-
-style incurvé, stigmate très petit. Gousses indéhiscentes , nettement falciformes ou suborbi-
-
-culaires , aplaties, à une seule graine , coriaces. Graines réniformes, aplaties.
-
-Genre de 130 espèces des tropiques américaines, sauf M. lunatum , seule espèce amphiatlan-
-
-tique.
-
-b : Lewis et al. (2005), Rudd (1987).
-
-ibliographie
-
----
+Bibliography: Lewis et al. (2005), Rudd (1987).
 
 ## Species in region
 

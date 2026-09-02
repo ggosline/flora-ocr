@@ -17,57 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(by: Frans J. BRETELER)
 
-(par : Frans J. BRETELER)
+Hooker's Icon. Pl. : t. 784 (1848).
 
-Hooker’s Icon. Pl. : t. 784 (1848).
-
-Bowringia Champ. ex Benth., Hooker’s J. Bot. Kew Gard. Misc. 4 : 75 (1852).
+Bowringia Champ. ex Benth., Hooker's J. Bot. Kew Gard. Misc. 4 : 75 (1852).
 
 Baphiastrum Harms, Bot. Jahrb. Syst. 49 : 435 (1913).
 
-Lianes ou arbustes lianescents, ou parfois petit arbre (?). Feuilles unifoliolées ; pétiole à
+Lianes or lianescent shrubs, or sometimes small tree (?). Leaves unifoliolate; petiole with separated pulvini; stipelles absent. Inflorescences axillary and/or terminal, in simple or compound (paniculate) raceme at the base, pauci- to multiflorous; bracts generally early caducous. Flowers with bracteoles situated at the apex of the pedicel or rarely lower; calyx spathaceous or bilobed at anthesis; corolla ± distinctly papilionaceous or with petals scarcely differentiated, white; stamens 10 or 11(–14), free or nearly so, anthers longer or shorter than the filaments; ovary with 5 to 13 ovules. Pods short, dehiscent, with 1(–4) seeds. Seeds red, black, or red and black, strophiolate, the plane between the cotyledons perpendicular to the ventral suture.
 
-pulvinus séparés ; stipelles absentes . Inflorescences axillaires et / ou terminales, en racème
+Paleotropical genus, comprising 6 species, of which 5 in Africa including Madagascar and one in Asia; in Gabon, two species.
 
-simple ou composé (panicule) à la base, pauci- à multi-flores ; bractées en général tôt ca -
+Notes: Lewis et al. (2005) apply a different circumscription of the genus than that used in this Flora, where the taxonomy of Breteler (1994a) is followed.
 
-duques. Fleurs à bractéoles situées au sommet du pédicelle ou rarement plus bas ; calice
+Bibliography: Breteler (1994a), Lewis et al. (2005), Pellegrin (1949).
 
-spathacé ou bilobé à l’anthèse ; corolle ± distinctement papilionacée ou à pétales à peine
+### Key to the species
 
-différenciés, blanche ; étamines 10 ou 11(–14) , libres ou presque, anthères plus longues
+1. - Corolla with subequal petals; anthers 4–6 mm in length, much longer than the filaments; leaflets with blade glabrous, rarely with a few hairs beneath in the young state; pod glabrous ............................................................................................ L. capparideus
 
-ou plus courtes que les filets ; ovaire avec 5 à 13 ovules. Gousses courtes, déhiscentes, à
-
-1(–4) graines. Graines rouges, noires, ou rouges et noires, strophiolées , le plan entre les
-
-cotylédons perpendiculaire à la suture ventrale .
-
-Genre paléotropical, comprenant 6 espèces, dont 5 en Afrique y inclus Madagascar et une en
-
-Asie ; au Gabon, deux espèces.
-
-Notes : Lewis et al. (2005) appliquent une autre délimitation du genre que celle utilisée dans cette Flore,
-
-où l’on suit la taxonomie de Breteler (1994a).
-
-b : Breteler (1994a), Lewis et al. (2005), Pellegrin (1949).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Corolle à pétales subégaux ; anthères 4–6 mm de longueur, beaucoup plus longues que
-
-les filets ; folioles à limbe glabre, rarement avec quelques poils dessous à l’état jeune ;
-
-gousse glabre ............................................................................................ L. capparideus
-
-- Corolle papilionacée ; anthères 2,5–3 mm de longueur, beaucoup plus courtes que les
-
-filets ; folioles à limbe ± densément pubescent dessous ; gousse densément pileuse
+- Corolla papilionaceous; anthers 2.5–3 mm in length, much shorter than the filaments; leaflets with blade ± densely pubescent beneath; pod densely pilose
 
 ................................................................................................................. L. brachycarpus
 

@@ -17,71 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or lianes. Stipules not visible or caducous. Leaves imparipinnate; stipelles present or absent; leaflets 5 to 11, opposite or subopposite, limb with entire margin.
 
-Arbustes ou lianes . Stipules non visibles ou caduques. Feuilles imparipennées ; stipelles
+Inflorescences axillary or terminal, in panicles with numerous flowers; axes marked by prominent scars after flower fall. Flowers: bractoles 2, at the apex of the pedicel or at the base of the calyx; calyx campanulate, bilabiate, velvety, with 5 short teeth, the 2 upper teeth ± fused; corolla white to pink, glabrous, with petals clawed, wings free from the keel; stamens 10, diadelphous, 9 fused in a long tube and the vexillary free or nearly so, anthers similar, hairy; disc composed of 9 or 10 elongate glands; ovary with 3 to 9 ovules, hairy. Pod indehiscent, flattened and thin, oblong, with one wing bordering each suture, with 1 to 3 seeds. Seeds lenticular; hilum eccentric.
 
-présentes ou absentes ; folioles 5 à 11 , opposées ou subopposées , limbe à marge entière.
+Genus of at least 7 species, of which 4 in Africa (the former Ostryoderris) all present in Gabon, the others widely distributed in Asia, from India to New Guinea.
 
-Inflorescences axillaires ou terminales, en panicules à nombreuses fleurs ; axes marqués de
-
-cicatrices saillantes après la chute des fleurs. Fleurs : bractéoles 2, au sommet du pédicelle
-
-ou sur la base du calice ; calice campanulé, bilabié, velouté, à 5 dents courtes, les 2 dents
-
-supérieures ± soudées ; corolle blanche à rose , glabre, à pétales onguiculés, ailes libres de la
-
-carène ; étamines 10, diadelphes, 9 soudées en un tube long et la vexillaire libre ou presque ,
-
-anthères similaires, poilues ; disque composé de 9 ou 10 glandes allongées ; ovaire avec 3 à
-
-9 ovules, poilu. Gousse indéhiscente, aplatie et mince, oblongue, à une aile bordant chaque
-
-suture , avec 1 à 3 graines. Graines lenticulaires ; hile excentré .
-
-Genre d’au moins 7 espèces, dont 4 en Afrique (les Ostryoderris d’antan) toutes présentes au
-
-Gabon, les autres largement répandues en Asie, de l’Inde jusqu’à la Nouvelle Guinée.
-
-b : De la Estrella et al. (2010), Hawthorne & Jongkind (2006), Pellegrin (1949), Polhill
-
-ibliographie
-
-(1971a), Sirichamorn et al. (2012a, 2012b).
+Bibliography: De la Estrella et al. (2010), Hawthorne & Jongkind (2006), Pellegrin (1949), Polhill (1971a), Sirichamorn et al. (2012a, 2012b).
 
 ---
 
----
+### Key to species
 
-### Clé des espèces
+1. - Leaflets with limb rust-pubescent or sometimes silvery beneath .......................................... 2
 
-1. - Folioles à limbe roux-pubescent ou parfois argenté dessous .......................................... 2
+- Leaflets with limb glabrous ................................................................................................... 3
 
-- Folioles à limbe glabre ................................................................................................... 3
+2. - Leaflets with limb with sunken nervures on upper face; stipelles present, subulate; pod wings 7–10 mm wide; bracts large, 1–1.5 cm in length ......................................................................................................... A. impressa
 
-2. - Folioles à limbe avec nervures en creux à la face supérieure ; stipelles présentes,
+- Leaflets with limb without sunken nervures; stipelles absent; pod wings 2–3 mm wide; bracts small, 1 mm in length (to be searched for in Gabon) A. stuhlmannii
 
-subulées ; ailes de la gousse 7–10 mm de largeur ; bractées grandes, 1–1,5 cm de
+3. - Leaflets with obovate-oblong limb, slightly attenuate at base, very glossy; stipelles absent; bracts narrowly-lanceolate, not covering the young floral bud; corolla ± 1 cm in length; pod wings 3–7 mm wide .................. A. lucida
 
-longueur ......................................................................................................... A. impressa
-
-- Folioles à limbe sans nervures en creux ; stipelles absentes ; ailes de la gousse 2–3 mm
-
-de largeur ; bractées petites, 1 mm de longueur (à rechercher au Gabon) A. stuhlmannii
-
-3. - Folioles à limbe obovale-oblong, légèrement atténué à la base, très luisant ; stipelles
-
-absentes ; bractées étroitement-lancéolées, ne couvrant pas le jeune bouton floral ;
-
-corolle ± 1 cm de longueur ; ailes de la gousse 3–7 mm de largeur .................. A. lucida
-
-- Folioles à limbe ovale-oblong à elliptique-oblong, arrondi ou subcordé à la base ;
-
-stipelles présentes ; bractées ovales-lancéolées, concaves, recouvrant le jeune bouton
-
-floral, ensuite caduques ; corolle ± 2 cm de longueur ; ailes de la gousse 7–10 mm de
-
-largeur ........................................................................................................... A. gabonica
+- Leaflets with ovate-oblong to elliptic-oblong limb, rounded or subcordate at base; stipelles present; bracts ovate-lanceolate, concave, covering the young floral bud, subsequently caducous; corolla ± 2 cm in length; pod wings 7–10 mm wide ........................................................................................................... A. gabonica
 
 ## Species in region
 

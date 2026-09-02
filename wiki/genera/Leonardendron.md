@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pinnate leaves. Long panicles shortly branched. Valvate bracteoles. Calyx shortly tubular, with 5 lobes. Petals 5, subequal, spatulate. Fertile stamens 5, alternating with the petals, sometimes 3-4 only; staminodes 0.
 
-Feuilles pennées. Longues panicules courtement ramifiées. Bractéoles valvaires. Calice courtement tubulaire, à 5 lobes. Pétales 5, subégaux, spatulés. Étamines fertiles 5, alternant avec les pétales, parfois 3-4 seulement; staminodes o.
+Type species: L. gabunense (Léonard) Aubr.
 
-Espèce type : L. gabunense (Léonard) Aubr.
-
-Ce genre est proche d'Isopetalum Aubr. et Pellegr. par ses 5 pétales subégaux. Il en diffère par l'androcée. Le nombre des étamines fertiles chez Isopetalum est de 3; celui des staminodes de 6 au maximum, disposés suivant un plan fixe : deux alternant avec les étamines fertiles, et deux groupes de 2, chacun de part et d'autre du groupe des étamines. Le nombre des pièces de l'androcée est donc de 9. Chez L. gabonense, 5 étamines fertiles alternent régulièrement avec les pétales. Le type d'androcée normal à 5 pièces est exceptionnel chez les Amherstiées. Il n'existe que chez les Didelotia. C'est pourqoi il nous a paru nécessaire de séparer génériquement l'espèce de Léonard d'abord attribuée à Anthonotha puis à Isomacrolobium.
+This genus is close to Isopetalum Aubr. et Pellegr. by its 5 subequal petals. It differs from it by the androecium. The number of fertile stamens in Isopetalum is 3; that of staminodes 6 at most, arranged according to a fixed plan: two alternating with the fertile stamens, and two groups of 2, each on either side of the group of stamens. The number of pieces of the androecium is thus 9. In L. gabonense, 5 fertile stamens alternate regularly with the petals. The normal androecium type with 5 pieces is exceptional among the Amherstieae. It exists only in Didelotia. This is why it seemed necessary to us to separate generically Léonard's species, first attributed to Anthonotha then to Isomacrolobium.
 
 ## Species in region
 

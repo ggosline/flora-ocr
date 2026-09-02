@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Anneslia Salisb., Parad. Lond.: 64 (1807), nom. rejic.
 
 – Codonandra Karst., Fl. Columbia 2: 43, tab. 122 (1863).
 
-Arbres petits ou arbustes, habituellement inermes. Stipules souvent persistantes. Inflorescences en capitules globuleux axillaires ou groupés en panicules terminales. Fleurs penta- ou hexamères. Calice à sépales soudés. Corolle à pétales unis en tube. Étamines nombreuses et unies en tube. Ovaire sessile ou subsessile ; style filiforme. Gousse déhiscente longitudinalement par 2 valves, à bords suturaux épaissis.
+Small trees or shrubs, usually unarmed. Stipules often persistent. Inflorescences in globose axillary capitula or grouped in terminal panicles. Flowers penta- or hexamerous. Calyx with connate sepals. Corolla with petals united into a tube. Stamens numerous and united into a tube. Ovary sessile or subsessile; style filiform. Legume dehiscent longitudinally by 2 valves, with thickened sutural margins.
 
-ESPÈCE-TYPE : C. inermis (L.) Druce (C. grandiflora (L'Hérit.) Benth.)
+TYPE SPECIES: C. inermis (L.) Druce (C. grandiflora (L'Hérit.) Benth.)
 
-Ce genre regroupe environ 160 espèces surtout abondantes en Amérique du Sud et centrale. Au Gabon, 1 espèce introduite est reconnue.
+This genus comprises approximately 160 species, especially abundant in South and Central America. In Gabon, 1 introduced species is recognized.
 
 ## Species in region
 

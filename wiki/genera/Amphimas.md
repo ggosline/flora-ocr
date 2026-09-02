@@ -19,89 +19,53 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves stipulate with opposite or alternate, stipellate leaflets.
 
-Arbres. Feuilles stipulées à folioles opposées ou alternes, stipellées.
+Inflorescences in terminal, highly branched panicles. Flowers ♀ or ♂ by abortion. Bracts lanceolate, caducous. Flowers articulate at the apex of short pedicels. Calyx campanulate, with 5 short equal, deltoid, valvate lobes. Petals 5, linear, white, divided into 2 laminae to the middle, folded and crinkled in the bud. Stamens 10, united at the base into a cupuliform disc, opposite the petals. Ovary long-stipitate, biovulate.
 
-Inflorescences en panicules terminales, très ramifiées. Fleurs ♀ ou ♂ par avortement. Bractées lancéolées, caduques. Fleurs articulées au sommet de courts pédicelles. Calice campanulé, à 5 courts lobes égaux, deltoïdes, valvaires. Pétales 5, linéaires, blancs, divisés en 2 lames jusqu'à la moitié, repliées et froissées dans le bouton. Étamines 10, soudées à la base en un disque cupuliforme, opposées aux pétales. Ovaire longuement stipité, biovulé.
+Pods oblong-elongate, flattened, coriaceous when fresh, parchment-like when dry. The central lanceolate part with reticulate surface is completely surrounded by a broad winged part, longitudinally striated. Inside a brown reniform seed, rarely two.
 
-Gousses oblongues allongées, aplaties, coriaces à l'état frais, parcheminées à l'état sec. La partie centrale lancéolée à surface réticulée est entourée complètement d'une partie ailée large, striée longitudinalement. À l'intérieur une graine réniforme brune, rarement deux.
+Type species: Amphimas ferrugineus Pierre ex Pellegrin.
 
-Espèce type : Amphimas ferrugineus Pierre ex Pellegrin.
+Two very closely related species. A. ferrugineus appears to be endemic to Gabon and southern Cameroon.
 
-Deux espèces très voisines. A. ferrugineus paraît être endémique au Gabon et au sud du Cameroun.
+A. pterocarpoides has a much more extensive range which, north of the equator, extends from Guinea and Sierra Leone to the Central African Republic, penetrates into the Congo basin and contours the Guineo-Congolian massif from the south to lower Congo.
 
-A. pterocarpoides a une aire beaucoup plus vaste qui, au nord de l'équateur, s'étend de la Guinée et de la Sierra Leone à la République centrafricaine, pénètre dans la cuvette congolaise et contourne le massif guinéo-congolais par le sud jusqu'au bas Congo.
-
-Les Amphimas sont de très grands arbres décidus en saison sèche, à la cime très développée, typique par les feuilles composées groupées en touffes étoilées aux extrémités des rameaux comme chez les Entandrophragma. Le fût est droit, cylindrique, pourvu de contreforts. L'écorce est écailleuse, de tranche rose, fibreuse;
+Amphimas trees are very large deciduous trees in the dry season, with a very developed crown, typical by the compound leaves grouped in star-shaped tufts at the extremities of the branches as in Entandrophragma. The bole is straight, cylindrical, provided with buttresses. The bark is scaly, pink-fleshed, fibrous;
 
 ---
 
 ---
 
-entaillée elle exsude un liquide rougeâtre. Bois blanc jaunâtre, mi dur, mi lourd, à grain grossier, rapidement attaqué par les insectes.
+when incised it exudes a reddish liquid. Wood whitish-yellowish, semi-hard, semi-heavy, with coarse grain, rapidly attacked by insects.
 
-1. Folioles plus ou moins densément pubescentes ferrugineuses. Nervures secondaires et nervilles très saillantes dessous.... 1. A. ferrugineus.
+1. Leaflets more or less densely ferruginous pubescent. Secondary and tertiary veins very prominent beneath.... 1. A. ferrugineus.
 
-1'. Folioles glabres, à nervure médiane demeurant pubescente dessous.
-
-Nervures et nervilles peu saillantes dessous..... A. pterocarpoides.
+1'. Leaflets glabrous, with median nerve remaining pubescent beneath. Veins and veinlets slightly prominent beneath..... A. pterocarpoides.
 
 in Engl. & Prantl, Nat. Pflanzenfam., Nachtr. 3 : 157 (1906).
 
-Arbres décidus ; tronc à contreforts ; écorce gris-brun. Feuilles imparipennées ; stipelles fili -
+Deciduous trees; trunk with buttresses; bark grey-brown. Leaves imparipinnate; stipels filiform; leaflets 11 to 23, opposite or alternate, with oblong-lanceolate lamina, with principal nerve pubescent above. Inflorescences in racemes grouped into terminal panicles; bracts caducous, narrow. Flowers small, ± actinomorphic; pedicel short and articulate; calyx campanulate, with 5 equal, deltoid, valvate, velvety lobes; corolla stellate, with 5 imbricate petals, linear, each with 2 lobes folded into a ribbon in the bud; stamens 10, monadelphous, subequal, in a short cupuliform tube and united with the disc glands, anthers dorsifixed, introrse, rapidly caducous; ovary ellipsoid, with 2 superposed and anatropous ovules, with gynophore equalling or only slightly exceeding the disc; style oblique, stigma indistinct. Pods with 1 or 2 seeds, flattened, with oblong-elongate, papyraceous valves, central part with ± prominent veins and surrounded by a broad wing. Seeds pendulous, reniform.
 
-formes ; folioles 11 à 23, opposées ou alternes , à limbe oblong-lancéolé, à nervure princi-
-
-pale pubescente dessus . Inflorescences en racèmes groupés en panicules terminales ; bractées
-
-caduques, étroites. Fleurs petites, ± actinomorphes ; pédicelle court et articulé ; calice cam-
-
-panulé, à 5 lobes égaux , deltoïdes, valvaires, veloutés ; corolle stellée, à 5 pétales imbriqués,
-
-linéaires, chacun en 2 lobes repliés en ruban dans le bouton ; étamines 10, monadelphes ,
-
-subégales, en tube court cupuliforme et soudées avec les glandes du disque, anthères dorsi-
-
-fixes, introrses, rapidement caduques ; ovaire ellipsoïde, à 2 ovules superposés et anatropes, à
-
-gynophore égalant ou dépassant peu le disque ; style oblique, stigmate peu distinct. Gousses
-
-à 1 ou 2 graines , aplaties, à valves oblongues-allongées, papyracées, partie centrale à ner-
-
-vures ± saillantes et entourée par une aile large . Graines pendantes, réniformes.
-
-Genre de 3 ou 4 espèces de l’Afrique de l’Ouest et centrale ; au Gabon, 3 espèces.
+Genus of 3 or 4 species from West and Central Africa; in Gabon, 3 species.
 
 ---
 
-Notes : Genre d’affinités incertaines. Pellegrin (1949) le classe parmi les Caesalpiniaceae (= sous-famille
+Notes: Genus of uncertain affinities. Pellegrin (1949) classifies it among the Caesalpiniaceae (= subfamily Caesalpinioideae), and it was already treated in our Flora under this family. Today, they are part of the tribe Sophoreae within the Papilionoideae.
 
-Caesalpinioideae), et il est alors déjà traité dans notre Flore sous cette famille. Aujourd’hui, ils font partie
+The flowers appear before the leaves or with young leaves; the pods persist after leaf fall.
 
-de la tribu des Sophoreae au sein des Papilionoideae.
+Bibliography: Aubréville (1968), Lewis et al. (2005), Velayos et al. (2010), Wilczek (1952).
 
-Les fleurs apparaissent avant les feuilles ou avec les jeunes feuilles ; les gousses persistent après la chute
+### Key to the species
 
-des feuilles.
+1. - Leaflets with pubescent or puberulent lamina beneath ......................................................... 2
 
-b : Aubréville (1968), Lewis et al. (2005), Velayos et al. (2010), Wilczek (1952).
+- Leaflets with glabrous lamina beneath ........................................................... A. pterocarpoides
 
-ibliographie
+2. - Stipules 10–20 mm long; stipels 3–8 mm long; leaflets with lamina with obtuse to slightly acute apex ............................................................... A. ferrugineus
 
-### Clé des espèces
-
-1. - Folioles à limbe pubescent ou pubérulent dessous ......................................................... 2
-
-- Folioles à limbe glabre dessous ........................................................... A. pterocarpoides
-
-2. - Stipules 10–20 mm de longueur ; stipelles 3–8 mm de longueur ; folioles à limbe à
-
-sommet obtus à légèrement aigu ............................................................... A. ferrugineus
-
-- Stipules 20–25 mm de longueur ; stipelles 10–20 mm de longueur ; folioles à limbe à
-
-sommet longuement acuminé ..................................................................... A. tessmannii
+- Stipules 20–25 mm long; stipels 10–20 mm long; leaflets with lamina with long-acuminate apex ..................................................................... A. tessmannii
 
 ## Species in region
 

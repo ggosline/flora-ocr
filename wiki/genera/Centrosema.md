@@ -17,65 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or perennial suffrutex, climbing. Stipules persistent, not extended below the insertion, striate. Leaves pinnate; stipelles present; leaflets (1–)3(–7). Inflorescences axillary, in pauciflorous pseudoracemes; rachis often thickened at the insertion of the pedicels; bracts opposite, striate. Flowers resupinate (turned 180°); bracteoles appressed on the calyx; calyx campanulate, bilabiate, upper lip emarginate to ± bilobed; lower lip with 3 lobes of which the median one longer; corolla purple or purple-red or blue or white spotted with purple, rarely yellow, petals clawed, standard spurred on the back, wings spurred at the base; stamens 10, diadelphous (9 + 1); disc present; ovary linear, multiovulate; style curved, spatulate, bearded or pubescent at the apex, terminal stigma. Pods dehiscent, linear, ± compressed, septate, furnished with 2 prominent nerves on each side, sutures thickened, with 16 to 22 seeds. Seeds oblong to globose, ± compressed laterally; hilum elongate.
 
-Herbes ou suffrutex pérennes, grimpants . Stipules persistantes, non prolongées au-dessous
+Genus of approximately 45 species, of American origin (especially Brazil), of which 3 species introduced around the tropics since the 19th century or earlier, Gabon included.
 
-de l’insertion, striées. Feuilles pennées ; stipelles présentes ; folioles (1–)3(–7) . Inflorescences
+Vernacular names: butterfly pea (Engl., general name for Clitoria and Centrosema).
 
-axillaires, en pseudoracèmes pauciflores ; rachis souvent épaissi à l’insertion des pédicelles ;
+Bibliography: Baker (1929), Mackinder et al. (2001), Wilczek (1954).
 
-bractées opposées, striées. Fleurs résupinées (tournées à 180°) ; bractéoles apprimées sur le
+### Key to species
 
-calice ; calice campanulé, bilabié, lèvre supérieure émarginée à ± bilobée; lèvre inférieure à
+1. - Calyx truncate; corolla white spotted with red-purple; stipules 7–12 mm in length; pod 1–1.6 cm in width, with straight beak 2 cm in length ....... C. plumieri
 
-3 lobes dont le médian plus long ; corolle pourpre ou pourpre-rouge ou bleu ou blanche
-
-tachetée de pourpre , rarement jaune, pétales onguiculés, étendard éperonné sur le dos, ailes
-
-éperonné à la base ; étamines 10, diadelphes (9 + 1) ; disque présent ; ovaire linéaire, mul-
-
-tiovulé ; style courbé, spatulé, barbu ou pubescent au sommet, stigmate terminal. Gousses
-
-déhiscentes, linéaires, ± comprimées, cloisonnés, munies de 2 nervures saillantes de chaque
-
-côté , sutures épaissies, avec 16 à 22 graines . Graines oblongues à globuleuses, ± comprimées
-
-latéralement ; hile allongé.
-
-Genre d’environ 45 espèces, d’origine américaine (surtout Brésil), dont 3 espèces introduites
-
-autour des tropiques depuis le 19 siècle ou plus tôt, Gabon compris.
-
-e
-
-Noms vernaculaires : butterfly pea (angl., nom général pour Clitoria et Centrosema ).
-
-b : Baker (1929), Mackinder et al. (2001), Wilczek (1954).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Calice tronqué ; corolle blanche tachetée de rouge-pourpre ; stipules 7–12 mm de
-
-longueur ; gousse 1–1,6 cm de largeur, à bec droit de 2 cm de longueur ....... C. plumieri
-
-- Calice à 5 dents ; corolle rouge-pourpre à bleue et jaune ; stipules 2–4 mm de
-
-longueur ; gousse 0,5–0,7 cm de largeur, à bec de ± 1 cm de longueur ......................... 2
+- Calyx with 5 teeth; corolla red-purple to blue and yellow; stipules 2–4 mm in length; pod 0.5–0.7 cm in width, with beak of ± 1 cm in length ......................... 2
 
 ---
 
-2. - Foliole à limbe pubescent, elliptique, 4–6 × 2–3 cm, légèrement acuminé ; corolle rose
+2. - Leaflet with pubescent blade, elliptic, 4–6 × 2–3 cm, slightly acuminate; corolla pink to mauve, sometimes yellow on the exterior, standard 3–4 cm in length; pod straight, 8–17 cm in length ................................................................................... C. pubescens
 
-à mauve, parfois jaune à l’extérieur, étendard 3–4 cm de longueur ; gousse droite,
-
-8–17 cm de longueur ................................................................................... C. pubescens
-
-- Foliole à limbe glabre, oblong-lancéolé, 2–4 × 1–2 cm ; corolle bleue à jaune, étendard
-
-1,5–2 cm de longueur ; gousse courbée, 6–10 cm de longueur ................ C. virginianum
+- Leaflet with glabrous blade, oblong-lanceolate, 2–4 × 1–2 cm; corolla blue to yellow, standard 1.5–2 cm in length; pod curved, 6–10 cm in length ................ C. virginianum
 
 ## Species in region
 

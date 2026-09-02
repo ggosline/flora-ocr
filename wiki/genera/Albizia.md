@@ -17,49 +17,45 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs unarmed. Leaves bipinnate with a variable number of leaflets: few (A. laurentii, 4) or very numerous (A. chevalieri Harms). Petiolar gland always present. Glands on the rachis or axis of the pinnae present or absent. Flowers in solitary or fasciculate capitula or grouped in panicles, axillary or terminal, ♂, or rarely polygamous; apical flower often modified. Sepals fused. Petals fused into a tube for a variable length. Stamens numerous fused into a tube for a variable length. Disk sometimes present, fused to the staminal tube. Pistil ± stipitate. Legume thin, papyraceous chartaceous, most often indehiscent, linear, with straight valves, no division between seeds. Seeds ovate to orbicular, areolate.
 
-Arbres ou arbustes inermes. Feuilles bipennées avec un nombre variable de folioles : quelques-unes (A. laurentii, 4) ou très nombreuses (A. chevalieri Harms). Glande pétiolaire toujours présente. Glandes sur le rachis ou l'axe de la penne présentes ou absentes. Fleurs en capitules solitaires ou fasciculées ou groupées en panicules, axillaires ou terminales, ♂, ou rarement polygames ; fleur sommitale souvent modifiée. Sépales soudés. Pétales soudés en tube sur une longueur variable. Étamines nombreuses soudées en tube sur une longueur variable. Disque parfois présent, soudé au tube staminal. Pistil ± stipité. Gousse mince, papyracée chartacée, le plus souvent indéhiscente, linéaire, à valves droites, pas de division entre graines. Graines ovées à orbiculaires, aréolées.
-
-ESPÈCE-TYPE : A. julibrissin Durazz.
+TYPE SPECIES: A. julibrissin Durazz.
 
 ---
 
-Ce genre regroupe environ 145 espèces des régions tropicales et subtropicales d'Amérique, d'Afrique et de Madagascar. Au Gabon 6 espèces dont 2 introduites ont été reconnues.
+This genus comprises approximately 145 species from tropical and subtropical regions of America, Africa and Madagascar. In Gabon 6 species of which 2 introduced have been recognized.
 
-### CLÉ DES ESPÈCES PAR L'APPAREIL VÉGÉTATIF OU FLORIFÈRE
+### KEY TO THE SPECIES BY VEGETATIVE OR FLOWERING APPARATUS
 
-### (Voir clés au niveau de la tribu page 132 sqq.)
+### (See keys at the tribe level page 132 sqq.)
 
-### CLÉ DES ESPÈCES PAR LES FRUITS
+### KEY TO THE SPECIES BY THE FRUITS
 
-1. Fruit nettement stipité.
+1. Fruit distinctly stipitate.
 
-2. Gousse ± pubescente ou pubérulente.
+2. Legume ± pubescent or puberulent.
 
-3. Nervation des faces très saillantes ; fruit nettement densément pubes-
+3. Venation of the faces very prominent; fruit distinctly densely pubescent ..... 3. A. adianthifolia (var. adianthifolia, and var. intermedia)
 
-cent ..... 3. A. adianthifolia (var. adianthifolia, et var. intermedia)
+3'. Venation of the faces slightly prominent.
 
-3'. Nervation des faces peu saillante.
+4. Seed with oblong central areole ..... 1. A. laurentii.
 
-4. Graine à aréole centrale oblongue ..... 1. A. laurentii.
+4'. Seed with small apical areole ..... 2 bis. A. glaberrima.
 
-4'. Graine à aréole sommitale petite ..... 2 bis. A. glaberrima.
+5. Seed with oblong central areole ..... 2.
 
-5. Graine à aréole oblongue centrale ..... 2.
+5. Seed with small apical areole ..... 2 bis. A
 
-5. Graine à aréole petite sommitale ..... 2 bis. A
+1'. Fruit not distinctly stipitate or not stipitate.
 
-1'. Fruit non nettement stipité ou non stipité.
+6. Seeds prominent alternately on one of the faces (undulate appearance of the fruit) ..... 6. A. lebbeck.
 
-6. Graines saillantes alternativement sur une des faces (aspect ondulé du fruit) ..... 6. A. lebbeck.
+7. Venation of the fruit faces very effaced or absent ..... 7. A. chinensis.
 
-7. Nervation des faces du fruit très effacée ou nulle ..... 7. A. chinensis.
+8. Venation prominent ..... 4. A. ferruginea.
 
-8. Nervation saillante ..... 4. A. ferruginea.
-
-8'. Nervation ± concave ..... 5. A. lebbekoides.
+8'. Venation ± concave ..... 5. A. lebbekoides.
 
 ## Species in region
 

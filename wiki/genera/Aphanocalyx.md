@@ -17,43 +17,41 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with one pair of subsessile leaflets, with two longly ascending nerves, the inner nerve being submarginous or marginal. Very short petiole. Floriferous buds squamose. Bracteoles sepaloid, valvate. Flowers with very short receptacle. Sepals 0. Petal 1 (-2) well developed. Woody pods with winged suture on the edges, marked with a few transverse nerves.
 
-Arbres. Feuilles à une paire de folioles subsessiles, à deux nervures longuement ascendantes, la nervure interne étant submarginale ou marginale. Très court pétiole. Bourgeons florifères écailleux. Bractéoles sépaloïdes, valvaires. Fleurs à receptacle très court. Sépales o. Pétale 1 (-2) bien développé. Gousses ligneuses à suture ailée sur les bords, marquées de quelques nervures transversales.
+Type species: A. cynometroides Oliv.
 
-Espèce-type : A. cynometroides Oliv.
+Genus very close to Monopetalanthus, from which it differs only in its pods lacking longitudinal nerves. The unijugate leaves with their very particular asymmetry allow the 3 species of the genus to be easily distinguished. However, two Congolese species with unijugate leaves whose principal nerve is also marginal have been placed in Monopetalanthus, M. Richardsiae Léon. and M. Trapnellii Léon., which emphasizes the approximation between the 2 genera.
 
-Genre très voisin de Monopetalanthus, dont ne le sépare que ses gousses sans nervure longitudinale. Les feuilles unijuguées avec leur asymétrie très particulière permettent aisément d'individualiser les 3 espèces du genre. Cependant ont été rangées dans Monopetalanthus deux espèces congolaises à feuilles unijuguées dont la nervure principale est aussi marginale, M. Richardsie Léon. et M. Trapnellii Léon., ce qui accuse le rapprochement entre les 2 genres.
+Small trees. A. cynometroides and A. marginernervatus exist from Cameroon to Gabon and Congo; A. djumænsis is Congolese.
 
-Petits arbres. A. cynometroides et A. margininervatus existent du Cameroun au Gabon et au Congo; A. djumænsis est congolais.
+1. Leaflets with inner nerve submarginous, distant from the margin by 5-20 mm..... 1. A. cynometroides.
 
-1. Folioles à nervure interne submarginale, distante de la marge de 5-20 mm. ..... 1. A. cynometroides.
+1'. Leaflets with inner nerve marginal.
 
-1'. Folioles à nervure interne marginale.
+2. Base of leaflets furnished with 1-3 glands on the blade; Congolese species..... A. djumænsis.
 
-2. Base des folioles munie de 1-3 glandes sur le limbe; espèce congo-laise. A. djumænsis.
-
-2'. Base des folioles sans glandes..... 2. A. marginervatus.
+2'. Base of leaflets without glands..... 2. A. marginernervatus.
 
 1. Aphanocalyx cynometroides Oliver (Pl. 68, p. 275)
 
-Oliver, Hook. Ic. Pl. 1066 (1867-71). — Pellegrin, Lég. Gabon : 73 (1948).
+Oliver, Hook. Ic. Pl. 1066 (1867-71). — Pellegrin, Lég. Gabon: 73 (1948).
 
 ---
 
 ---
 
-Feuilles à une paire de folioles opposées, sessiles, glabres. Limbe dissymétrique, acuminé, atténué à la base, obové-oblancéolé. La nervure principale, droite ou légèrement infléchie au sommet vers l'intérieur, se trouve à 5-20 mm de la marge intérieure. 2-3 nervures basiliaires sont longuement ascendantes. Pétiole court de 3-9 mm. Stipules caduques.
+Leaves with one pair of opposite, sessile, glabrous leaflets. Blade dissymmetric, acuminate, attenuate at the base, obovate-oblanceolate. The principal nerve, straight or slightly inflected at the apex toward the interior, is found 5-20 mm from the inner margin. 2-3 basal nerves are longly ascending. Petiole short, 3-9 mm. Stipules caducous.
 
-Petites grappes denses longues de 2-5 cm. Bourgeon florifère écailleux, à écailles striées. Pédicelles de 2-4 mm. Bractéoles valvaires, tomenteuses ferrugineuses, longues de 5-7 mm. Un grand pétale de 6-8 mm. Étamines 10, de 7-10 mm de longueur. Ovaire hirsute.
+Small dense racemes 2-5 cm long. Floriferous bud squamose, with striated scales. Pedicels 2-4 mm. Bracteoles valvate, ferruginous tomentose, 5-7 mm long. One large petal 6-8 mm. Stamens 10, 7-10 mm in length. Ovary hirsute.
 
-Gouses oblongues de 4-5 × 2-2,5 cm, veloutées brunes, sans nervure longitudinale.
+Pods oblong, 4-5 × 2-2.5 cm, velvety brown, without longitudinal nerve.
 
-Type : Mann 1810, 10 lat. N.
+Type: Mann 1810, 10 lat. N.
 
-MATÉRIEL GABONAIS ÉTUDIÉ :
+GABONESE MATERIAL STUDIED:
 
-J. Eckendorff : 118, région du Djoua (fl. sept.).
+J. Eckendorff: 118, region of Djoua (fl. Sept.).
 
 ## Species in region
 

@@ -17,19 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves multijugate. Buds in scaly cones. Stipules fused into a very developed intrapetiolar blade, caducous, leaving scars on the branches. Panicles short. Bracteoles 2, enveloping the bud. Receptacle cupuliform very short. Sepals rudimentary. Petals filiform 5, equal, reaching the length of the stamens. Fertile stamens 5. Ovary stipitate. Stigma pointed.
 
-Arbres. Feuilles multijuguées. Bourgeons en cônes écailleux. Stipules soudées en une lame intrapétiolaire très développée, caduque, laissant des cicatrices sur les rameaux. Panicules courtes. Bractéoles 2, enveloppant le bouton. Réceptacle cupuliforme très court. Sépales rudimentaires. Pétales filiformes 5, égaux, atteignant la longueur des étamines. Étamines fertiles 5. Ovaire stipité. Stigmate pointu.
+A single species T. brevipaniculata, Cameroon and Gabon.
 
-Une seule espèce T. brevipaniculata, Cameroun et Gabon.
+This genus is very close to Didelotia. Léonard placed it in synonymy; an opinion shared by Oldeman. There exist differences which, although secondary, lead me to prefer maintaining the separation. The intrapetiolar sheathing stipules are very caducous and not persistent (general case of Didelotia). A remarkable character is the presence of these strobiliiform scaly buds which give rise to new branches, which remain marked at their base by very closely spaced annular scars, and whose presence allows one to easily recognize the species. These are only vegetative characters but which isolate the species among Didelotia.
 
-Ce genre est très proche de Didelotia. Léonard l'a placé d'ailleurs en synonymie, opinion partagée par Oldeman. Il existe des différences qui, quoique secondaires, me font préférer maintenir la séparation. Les stipules intrapétiolaires engainantes sont très caduques et non persistantes (cas général des Didelotia). Un caractère remarquable est la présence de ces bourgeons strobiliformes écailloux qui donnent naissance à de nouveaux rameaux, lesquels restent marqués à leur base par des cicatrices annulaires très rapprochées, et dont la présence permet de reconnaître aisément l'espèce. Ce ne sont que des caractères végétatifs mais qui isolent l'espèce parmi les Didelotia.
-
-Enfin dans les fleurs, les 5 pétales filiformes, égaux, aussi longs que les filets des étamines s'opposent aux pétales irréguliers subulés parfois nuls des Didelotia. Un autre caractère, signalé par Oldeman, est le stigmate pointu, indiscernable, opposé au stigmate capité des Didelotia. Oldeman indique encore comme caractère distinctif de Toubaouate la présence d'une petite quantité d'endosperme dans la graine à la base des cotylédons.
-
----
-
----
+Finally in the flowers, the 5 filiform petals, equal, as long as the filaments of the stamens oppose the irregular subulate petals sometimes absent of Didelotia. Another character, noted by Oldeman, is the pointed stigma, indiscernible, opposed to the capitate stigma of Didelotia. Oldeman further indicates as a distinctive character of Toubaouate the presence of a small quantity of endosperm in the seed at the base of the cotyledons.
 
 ## Species in region
 

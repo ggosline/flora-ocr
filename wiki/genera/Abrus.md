@@ -17,71 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lianes ligneuses ou herbes volubiles suffrutescentes ou parfois suffrutex ou arbustes ; rameaux
-
-grêles, s’enroulant ou non. Stipules persistantes, petites. Feuilles paripennées , multijuguées ;
-
-rachis sillonné, mucroné ; stipelles subulées ; folioles opposées. Inflorescences terminales ou
-
-axillaires, en pseudoracèmes noueux, denses ; bractées réduites, souvent caduques. Fleurs
-
-sessiles ou brièvement pédicellées ; bractéoles similaires aux bractées ; calice campanulé,
-
-à dents triangulaires très courtes ; corolle surpassant le calice, étendard ovale, avec onglet
-
-large et court , ailes étroites, oblongues, falciformes, carène plus longue et plus large que
-
-les ailes, arquée, soudée distalement ; étamines 9 , toutes unies, formant une gaîne fendue
-
-vers le haut et adhérente basalement à l’étendard , anthères uniformes ; ovaire subsessile,
-
-pluriovulé, pubescent ; style courbé, glabre. Gousse oblongue ou linéaire , aplatie ou renflée.
-
-Graines ovoïdes ou aplaties latéralement.
+Woody vines or twining herbaceous plants, suffrutescent or sometimes suffrutex or shrubs; slender branches, twining or not. Stipules persistent, small. Leaves paripinnate, multijugate; rachis furrowed, mucronate; stipels subulate; leaflets opposite. Inflorescences terminal or axillary, in knotty, dense pseudoracemes; bracts reduced, often caducous. Flowers sessile or briefly pedicellate; bracteoles similar to bracts; calyx campanulate, with very short triangular teeth; corolla exceeding the calyx, standard oval, with broad and short claw, wings narrow, oblong, falciform, keel longer and broader than the wings, arched, distally fused; stamens 9, all united, forming a sheath split toward the apex and basally adnate to the standard, anthers uniform; ovary subsessile, pluriovulate, pubescent; style curved, glabrous. Pod oblong or linear, flattened or inflated. Seeds ovoid or flattened laterally.
 
 ---
 
-Genre de 4 espèces, dont 2 circumtropiques, une d’Afrique tropicale et une de Madagascar ;
+Genus of 4 species, of which 2 are circumtropical, one from tropical Africa and one from Madagascar; in Gabon, 3 species.
 
-au Gabon, 3 espèces.
+Notes: Verdcourt (1970, 1971b) recognized 17 species in the genus Abrus, but we follow the taxonomic revision of Breteler (1960) who conceived a more variable notion of species. Boutique (1954) describes the stipules as caducous, Breteler (1960) names them persistent.
 
-Notes : Verdcourt (1970, 1971b) reconnaissait 17 espèces dans le genre Abrus , mais nous suivons la révi-
+### Bibliography
 
-sion taxonomique de Breteler (1960) qui concevait une notion plus variable des espèces. Boutique (1954)
+b: Boutique (1954), Breteler (1960), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1970, 1971b).
 
-décrit les stipules comme caduques, Breteler (1960) les nomme persistantes.
+### Key to species
 
-b : Boutique (1954), Breteler (1960), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1970,
+1. - Inflorescence strongly curved; pod slightly inflated, with papillose surface; seed red, with black base; leaflets with limb glabrous to glabrescent above, with light and appressed pubescence below; bracts and bracteoles ± 1 mm long . A. precatorius
 
-ibliographie
+- Inflorescence flexible, straight or slightly curved; pod flattened, without papillae; seed dark brown-black; leaflets with limb pubescent at least below; bracts and bracteoles ≥ 1.5 mm long ............................................................................................................... 2
 
-1971b).
-
-### Clé des espèces
-
-1. - Inflorescence fortement courbée ; gousse légèrement renflée, à surface papilleuse ;
-
-graine rouge, à base noire ; folioles à limbe glabre à glabrescent dessus, à pubescence
-
-légère et apprimée dessous ; bractées et bractéoles ± 1 mm de longueur . A. precatorius
-
-- Inflorescence flexible, droite ou peu courbée ; gousse aplatie, sans papilles ; graine
-
-brun-noir ; folioles à limbe pubescent au moins dessous ; bractées et bractéoles
-
-≥ 1,5 mm de longueur ..................................................................................................... 2
-
-2. - Bractée et bractéole égalant ou peu surpassant le calice ; corolle pourpre ; folioles en 10
-
-à 14 paires, à limbe coriace, à pubescence grisâtre persistant sur les deux faces
+2. - Bract and bracteole equaling or slightly exceeding the calyx; corolla purple; leaflets in 10 to 14 pairs, with coriaceous limb, with grayish pubescence persistent on both surfaces
 
 ...................................................................................................................... A. canescens
 
-- Bractée et bractéole jusqu’à la moitié de la longueur du calice ; corolle jaune, blanche
-
-ou lilas ; folioles en 5 à 7 paires (hors du Gabon jusqu’à 20 paires), à limbe papyracé,
+- Bract and bracteole up to half the length of the calyx; corolla yellow, white or lilac; leaflets in 5 to 7 pairs (outside Gabon up to 20 pairs), with papyraceous limb,
 
 ## Species in region
 

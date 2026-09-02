@@ -17,65 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou arbustes aux épines sur le tronc et les rameaux , parfois aussi sur les pétioles et
-
-les nervures des feuilles. Stipules caduques. Feuilles : stipelles 1 à la base de chaque foliole
-
-latérale, (0 ou) 2 à la base de la foliole terminale, charnues, glanduleuses , noires à l’état sec ;
-
-folioles 3 , les latérales à limbe souvent asymétrique ; nervures secondaires parallèles, celles de
-
-la première paire, basilaires . Inflorescences axillaires ou terminales, en pseudoracèmes denses
-
-et généralement dressés, souvent se développant avant les feuilles. Fleurs assez grandes ;
-
-pédicelle court, articulé sous le calice ; bractéoles souvent caduques ; calice en bouton fusi-
-
-forme ou parfois campanulé, entièrement fermé autour de la corolle , à sommet tronqué,
-
-bilabié ou prolongé par un limbe constitué de 1 à 5 dents, s’ouvrant ensuite généralement
-
-par une fente ; pétale s très inégaux , rouges, roses, orange ou blancs (espèces cultivées),
+Trees or shrubs with spines on the trunk and branches, sometimes also on the petioles and leaf veins. Stipules caducous. Leaves: stipelles 1 at the base of each lateral leaflet, (0 or) 2 at the base of the terminal leaflet, fleshy, glandulous, black when dry; leaflets 3, the lateral ones with lamina often asymmetric; secondary veins parallel, those of the first pair basal. Inflorescences axillary or terminal, in dense pseudoracemes and generally erect, often developing before the leaves. Flowers rather large; pedicel short, articulate below the calyx; bracteoles often caducous; calyx in bud fusiform or sometimes campanulate, entirely closed around the corolla, with truncate apex, bilabiate or prolonged by a limb consisting of 1 to 5 teeth, subsequently opening generally by a fissure; petals very unequal, red, pink, orange or white (cultivated species),
 
 ---
 
-rejetés par la fente en dehors du calice, généralement peu ou non onguiculés, étendard exsert,
+rejected by the fissure outside the calyx, generally little or not unguiculate, standard exsert, much larger than the wings and the keel; stamens monadelphous or diadelphous with the vexillary free or partially fused, filaments alternately long and short; ovary stipitate, pluriovulate; style curved, filiform, with capitate stigma. Legumes monilifom, straight or coiling ± in spiral, compressed to cylindric, with thick and lignified valves, with dehiscent articles. Seeds ellipsoid, coral red to orange or brown, sometimes spotted with black; hilum blackish or white.
 
-beaucoup plus grand que les ailes et la carène ; étamines monadelphes ou diadelphes avec
+Genus widespread over the three continents and in the Pacific, with approximately 120 species, of which 38 in Africa and Madagascar. American and Asian species have been introduced throughout the tropics, including Africa. In Gabon, only 5 species are known and 3 others remain to be found.
 
-la vexillaire libre ou partiellement soudée, filets alternativement longs et courts ; ovaire sti -
+Vernacular names: coral tree, immortal tree (Fr.); coral tree (Eng.).
 
-pité, pluriovulé ; style courbé, filiforme, à stigmate capité. Gousses moniliformes , droites à
-
-s’enroulant ± en spirale, comprimées à cylindriques, à valves épaisses et lignifiées , à articles
-
-déhiscents. Graines ellipsoïdes, rouge corail à orangées ou brun, parfois tachetées de noir ;
-
-hile noirâtre ou blanc.
-
-Genre répandu sur les trois continents et dans le Pacifique, avec environ 120 espèces, dont 38
-
-en Afrique et Madagascar. Des espèces américaines et asiatiques ont été introduites sous tous
-
-les tropiques, y compris l’Afrique. Au Gabon, seulement 5 espèces sont connues et 3 autres à
-
-rechercher.
-
-Noms vernaculaires : arbre (arbuste) corail, arbre immortel (fr.) ; coral tree (angl.).
-
-Notes : Genre rarement récolté au Gabon. Les espèces suivantes ont été incluses dans la clé et sont à
-
-rechercher au Gabon. E. variegata L., une espèce ornementale originaire de l’Asie et de l’Afrique de
-
-l’Est, souvent à folioles panachées avec des nervures jaunes, se trouve dans des jardins, mais il manque
-
-des spécimens-témoins. E. excelsa Baker, répandue de la Guinée à la Guinée équatoriale, est un grand
-
-arbre de forêt à rechercher au Gabon. E. fusca Lour., grand arbre originaire de l’Asie, mais régulièrement
-
-plantée ailleurs, sur côte marécageuse et à basse altitude, se trouve en Afrique, du Ghana à la Tanzanie
+Notes: Genus rarely collected in Gabon. The following species have been included in the key and remain to be found in Gabon. E. variegata L., an ornamental species originating from Asia and East Africa, often with variegated leaflets with yellow veins, is found in gardens, but herbarium specimens are lacking. E. excelsa Baker, widespread from Guinea to Equatorial Guinea, is a large forest tree to be sought in Gabon. E. fusca Lour., large tree originating from Asia, but regularly planted elsewhere, on marshy coast and at low altitude, is found in Africa, from Ghana to Tanzania.
 
 ## Species in region
 

@@ -17,55 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs, suffrutex or shrubs; stems erect or ± spreading; hairs with tuberculate base, often glandular. Stipules without spur, fused at the base of the petiole. Leaves paripinnate or sometimes with subdigitate leaflets; rachis terminated by a short point; stipels absent; leaflets 4 to numerous, alternate, asymmetric. Inflorescences axillary, in distichous racemes, ± dense, scorpioid, with imbricate flowers; bracts persistent, smaller than the flowers, with entire, scarious margin. Flowers: bracteoles free or fused; calyx bilabiate, scarious; petals clawed, white, blue, violet or yellow, standard orbicular-obovate, often with emarginate apex, wings obovate, with small lateral pouches in transverse series, keel obovate-elliptic, slightly incurved; stamens 10, monadelphous, of unequal length, fused for 2/3 in a slit tube, anthers equal; ovary linear, hairy or not, stipitate, with 2 to 9 ovules; style inflexed-geniculate, glabrous, stigma small, terminal. Pods stipitate, pleated like an accordion, included in the calyx; articles 1 to 9, smooth, semi-orbicular, indehiscent. Seeds reniform, smooth.
 
-Herbes, suffrutex ou arbustes ; tiges dressées ou ± étalées ; poils à base tuberculée, souvent
+Genus of 31 African species, 3 from Madagascar, one of which is endemic; in Gabon, 2 species.
 
-glanduleux . Stipules sans éperon, soudées à la base du pétiole . Feuilles paripennées ou par-
+Notes: Genus related to Smithia Aiton (rather Asian), in which several species of Kotschya were previously described.
 
-fois à folioles subdigitées ; rachis terminé par une pointe courte ; stipelles absentes ; folioles
+Bibliography: Dewit & Duvigneaud (1954), Lewis et al. (2005), Verdcourt (1970, 2000).
 
-4 à nombreuses , alternes, asymmétriques . Inflorescences axillaires, en racèmes distiques ,
+### Key to the species
 
-± denses, scorpioïdes , à fleurs imbriquées ; bractées persistantes, plus petites que les fleurs,
-
----
-
-à marge entière, scarieuses. Fleurs : bractéoles libres ou soudées ; calice bilabié, scarieux ;
-
-pétales onguiculés, blancs, bleus, violacés ou jaunes, étendard orbiculaire-obovale, souvent à
-
-sommet émarginé, ailes obovales, à petites poches latérales en séries transversales , carène
-
-obovale-elliptique, légèrement incurvée ; étamines 10, monadelphes , de longueur inégale,
-
-soudées sur les 2/3 en un tube fendu, anthères égales ; ovaire linéaire, poilu ou non, stipité,
-
-avec 2 à 9 ovules ; style infléchi-genouillé, glabre, stigmate petit, terminal. Gousses stipitées,
-
-plissées en accordéon , incluses dans le calice ; articles 1 à 9 , lisses, semi-orbiculaires, indé-
-
-hiscents. Graines réniformes, lisses.
-
-Genre de 31 espèces africaines, 3 au Madagascar, dont une endémique ; au Gabon, 2 espèces.
-
-Notes : Genre apparenté à Smithia Aiton (plutôt asiatique), dans lequel plusieurs espèces de Kotschya ont
-
-été décrites antérieurement.
-
-b : Dewit & Duvigneaud (1954), Lewis et al. (2005), Verdcourt (1970, 2000).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Folioles 6 à 8, presque digitées ; bractées semi-orbiculaires
+1. - Leaflets 6 to 8, almost digitate; bracts semi-orbicular
 
 ....................................................................................... K. strobilantha var. strobilantha
 
-- Folioles 20 à 50, en paires le plus souvent alternes ; bractées ovales, légèrement
+- Leaflets 20 to 50, in pairs most often alternate; bracts oval, slightly
 
-falciformes ................................................................................ K. ochreata var. ochreata
+falciform ................................................................................ K. ochreata var. ochreata
 
 ## Species in region
 

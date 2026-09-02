@@ -17,31 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Perima RAF., Sylv. Tellur.: 118 (1838).
 
 – Pusaetha Kuntze, Rev. Gen. 1: 204 (1891).
 
 – Entadopsis Britton, in Britton & Rose, N. Amer. Fl. 23: 191 (1928).
 
-Arbres ou lianes, inermes ou épineux. Feuilles bipennées souvent terminées par des vrilles. Inflorescences en épis axillaires solitaires ou fasciculées, ou en panicules terminales. Fleurs ♢, petites. Calice campanule. Corolle à pétales valvaires, libres ou soudés à la base. Étamines 10, soudées au disque ; connectif terminé par une glande pédiculée caduque. Disque charnu soudé aux étamines. Ovaire subsessile à faiblement stipité. Gousse ligneuse, coriace à papyracée, articulée (lomentum) ; article monosperme, libre des sutures persistantes ; à péricarpe caduc et endocarpe persistant.
+Trees or lianas, unarmed or spiny. Leaves bipinnate, often terminated by tendrils. Inflorescences in solitary or fasciculate axillary spikes, or in terminal panicles. Flowers ♢, small. Calyx campanulate. Corolla with valvate petals, free or fused at the base. Stamens 10, fused to the disc; connective terminated by a caducous pedunculate gland. Disc fleshy, fused to the stamens. Ovary subsessile to weakly stipitate. Pod woody, coriaceous to papyraceous, articulate (lomentum); article monospermate, free from persistent sutures; with caducous pericarp and persistent endocarp.
 
-ESPÈCE-TYPE : E. gigas (L.) Fawcett & Rendle.
+TYPE SPECIES: E. gigas (L.) Fawcett & Rendle.
 
-Ce genre est répandu dans les régions tropicales ; il est particulièrement abondant à Madagascar. 2 espèces sont connues au Gabon ; une est à rechercher.
-
----
+This genus is widespread in tropical regions; it is particularly abundant in Madagascar. 2 species are known from Gabon; one remains to be found.
 
 ---
 
-1. Folioles de taille décroissante du sommet vers la base, elliptiques ; fruits ligneux.
+---
 
-2. Lomentum spirale ; fleur pédicellée à pédicelle long de 1,5 mm ; nervation tertiaire très visible ..... 1. E. gigas.
+1. Leaflets of decreasing size from apex to base, elliptic; fruits woody.
 
-2'. Lomentum rectiligne ; fleur à pédicelle long de 0,5 mm ; nervation tertiaire peu visible, peu dense ..... 1 bis. E. pursaetha.
+2. Lomentum spiral; flower pedicellate with pedicel 1.5 mm long; tertiary venation very visible ..... 1. E. gigas.
 
-1'. Folioles de taille non décroissante du sommet vers la base, oblongues ; fruits chartacés ..... 2. E. mannii.
+2'. Lomentum straight; flower with pedicel 0.5 mm long; tertiary venation scarcely visible, sparse ..... 1 bis. E. pursaetha.
+
+1'. Leaflets of non-decreasing size from apex to base, oblong; fruits chartaceous ..... 2. E. mannii.
 
 ## Species in region
 

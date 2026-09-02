@@ -16,61 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sp. pl. 2 : 725 (1753).
 
-Sp. pl. 2 : 725 (1753 ) .
+Herbs or suffrutex, prostrate, erect or twining, with woody or fleshy rhizome. Stipules not prolonged below the insertion point, striate. Leaves petiolate or subsessile, imparipinnate; stipelles ± persistent or rarely absent; leaflets (1–)3. Inflorescences axillary or terminal, in pseudoracemes or pseudo-umbels, sometimes flowers fasciculate or solitary.
 
-Herbes ou suffrutex , prostrées, dressées ou volubiles, à rhizome ligneux ou charnu. Stipules
+Flowers: calyx bilabiate, upper lip entire to bidentate or bilobed, the lower lip trilobed; corolla yellow or purplish, standard with auricles inflexed at the base and 2 callosities above the claw, wings obovate or oblanceolate, ± auricate, ± adherent to the erect keel, with blunt or rostrate apex, auricate at the base; stamens 10, diadelphous, the vexillary one free, with equal anthers; disk cylindric; ovary subsessile to stipitate, with 2 to several ovules; style inflated and ± twisted towards the base, generally glabrous, stigma terminal, capitate, surrounded by a ring of hairs. Pods straight or curved, compressed. Seeds ellipsoid to ovoid, sometimes strophiolate; hilum short, often central.
 
-non prolongées au-dessous de l’insertion, striées. Feuilles pétiolées ou subsessiles, imparipen-
+Genus with approximately 60 species, mostly in tropical and afromontane Africa, but especially in savanna regions, with 5 or 6 species in India, China and Malesia; one species in Gabon.
 
-nées ; stipelles ± persistantes ou rarement absentes ; folioles (1–)3 . Inflorescences axillaires ou
+Notes: Several species formerly classified in the genus Dolichos were transferred to genera such as Macrotyloma (Wight & Arn.) Verdc. and Lablab Adans. Raponda-Walker & Sillans (1961) mention the presence of the green vegetable and seed legume Dolichos lablab L. (= Lablab purpureus (L.) Sweet) or dolichos, in Gabon. According to our information, this legume is not present in Gabon, perhaps sometimes on an experimental basis and/or imported from Cameroon.
 
-terminales, en pseudoracèmes ou pseudo-ombelles, parfois fleurs fasciculées ou solitaires .
-
-Fleurs : calice bilabié, lèvre supérieure entière à bidentée ou bilobée, l’inférieure trilobée ;
-
-corolle jaune ou purpurine, étendard à auricules infléchies à la base et à 2 callosités au-dessus
-
-de l’onglet, ailes obovales ou oblancéolées, ± auriculées , ± adhérentes à la carène dressée ,
-
----
-
-Botanique Meise (©).
-
----
-
-à sommet obtus ou rostré, auriculée à la base ; étamines 10, diadelphes, la vexillaire libre, à
-
-anthères égales ; disque cylindrique ; ovaire subsessile à stipité, avec 2 à plusieurs ovules ;
-
-style renflé et ± tordu vers la base, généralement glabre, stigmate terminal, capité, entouré par
-
-un anneau de poils . Gousses droites ou arquées, comprimées . Graines ellipsoïdes à ovoïdes,
-
-parfois strophiolées ; hile court, souvent central.
-
-Genre à environ 60 espèces, la plupart en Afrique tropicale et afromontagnarde, mais surtout
-
-dans des régions de savane, avec 5 ou 6 espèces en Inde, Chine et Malésie ; au Gabon une
-
-espèce.
-
-Notes : Plusieurs espèces autrefois classées dans le genre Dolichos ont été transférées vers des genres
-
-comme Macrotyloma (Wight & Arn.) Verdc. et Lablab Adans. Raponda-Walker & Sillans (1961) men -
-
-tionnent la présence du légume vert et à graine Dolichos lablab L. (= Lablab purpureus (L.) Sweet) ou
-
-dolique, au Gabon. Selon nos informations, cette légumineuse n’est pas présente au Gabon, peut-être
-
-parfois à titre expérimental et/ou importée du Cameroun.
-
-b : Hepper (1958), Lewis et al. (2005), Raponda-Walker & Sillans (1961), Verdcourt
-
-ibliographie
-
-(1971c), Wilczek (1954).
+Bibliography: Hepper (1958), Lewis et al. (2005), Raponda-Walker & Sillans (1961), Verdcourt (1971c), Wilczek (1954).
 
 ## Species in region
 

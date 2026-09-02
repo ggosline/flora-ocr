@@ -17,67 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs and trees. Stipules caducous, small, subulate. Leaves imparipinnate; petiole glabrous; stipels absent; leaflets 3 to 9, alternate, with blade glossy above, dull below; lateral veins alternate, 5 to 8 on each side of the midvein, tertiary venation reticulate. Inflorescences in fascicled racemes, often cauliflorous on old wood, sometimes in the leaf axils. Flowers: calyx with cylindrical tube at the base (receptacle = hypanthium), in the upper half forming a truncate cupule or with lobed margins, receptacle and cupule forming or not forming an angle close to 90°; petals quite long-clawed, standard with suborbicular blade, wings and keel oblong to narrowly oblong; stamens 10, free, anthers ± basifixed; ovary shortly stipitate, adnate laterally to the calyx tube; style short. Pod indehiscent, moniliform, elongate, acute at apex, with 2 to 5 seeds; pericarp fleshy or dry. Seeds ellipsoid, with envelope ± thick and coriaceous, longitudinally wrinkled; cotyledons slightly horny.
 
-Arbustes et arbres . Stipules caduques, petites, subulées. Feuilles imparipennées ; pétiole
+Genus of 8 species, 7 from West and Central Africa and 1 species from East Africa (Kenya and Tanzania); in Gabon, 5 species.
 
-glabre ; stipelles absentes ; folioles 3 à 9, alternes , à limbe luisant dessus, mat dessous ;
+Notes: This genus belonged to the tribe Angylocalyceae which should be placed under Caesalpinioideae according to Yakovlev (1968) and under Papilionoideae according to Povydysh et al. (2010), while Lewis et al. (2005) place it in the tribe Sophoreae.
 
-nervures latérales alternes, 5 à 8 à chaque coté de la médiane, nervation tertiaire réticulée.
+Bibliography: Lewis et al. (2005), Polhill (1971c), Povydysh et al. (2010), Toussaint (1953), Yakovlev (1968).
 
-Inflorescences en racèmes fasciculées, souvent cauliflores sur le vieux bois, parfois aux ai -
+### Key to species
 
-selles des feuilles. Fleurs : calice à tube cylindrique à la base (réceptacle = hypanthium),
+1. - Hypanthium at an angle close to 90° with the rest of the calyx .............................................. 2
 
-dans la moitié supérieure formant une cupule tronquée ou à bords lobés , réceptacle et
+- Hypanthium prolonged toward the rest of the calyx without a distinct angle .......................................... 4
 
-cupule formant ou non un angle voisin de 90° ; pétales assez longuement onguiculés, éten -
+2. - Inflorescence with axis 1–3 cm in length, pubescent or hairy; pod pubescent, with dry pericarp ................................................................................................................... 3
 
-dard à limbe suborbiculaire, ailes et carène oblongues à étroitement oblongues ; étamines 10,
+- Inflorescence with axis 3–6(–10) cm in length, glabrous; pod glabrous, with fleshy pericarp ....................................................................................................... A. oligophyllus
 
-libres , anthères ± basifixes ; ovaire brièvement stipité, adné latéralement au tube du calice ;
+3. - Pedicel ± 4 mm; pod winged when dry ..................................................... A. talbotii
 
-style court. Gousse indéhiscente, moniliforme , allongée, à sommet aigu, avec 2 à 5 graines ;
+- Pedicel 8–10 mm; pod not winged ...................................................... A. vermeulenii
 
-péricarpe charnu ou sec . Graines ellipsoïdes, à enveloppe ± épaisse et coriace, ridée longitu -
-
-dinalement ; cotylédons légèrement cornus.
-
-Genre de 8 espèces, dont 7 d’Afrique occidentale et centrale et 1 espèce d’Afrique orientale
-
-(Kenya et Tanzanie) ; au Gabon, 5 espèces.
-
-Notes : Ce genre appartenient à la tribu des Angylocalyceae qui devrait être mise sous les Caesalpinioi -
-
-deae selon Yakovlev (1968) et sous les Papilionoideae selon Povydysh et al. (2010), Lewis et al. (2005)
-
-la placent dans la tribu des Sophoreae.
-
-b : Lewis et al. (2005), Polhill (1971c), Povydysh et al. (2010), Toussaint (1953), Yakovlev
-
-ibliographie
-
-(1968).
-
-### Clé des espèces
-
-1. - Hypanthium à angle voisin de 90° avec le reste du calice .............................................. 2
-
-- Hypanthium prolongé vers le reste du calice sans angle net .......................................... 4
-
-2. - Inflorescence à axe de 1–3 cm de longueur, pubescente ou velue ; gousse pubescente, à
-
-péricarpe sec ................................................................................................................... 3
-
-- Inflorescence à axe de 3–6(–10) cm de longueur, glabre ; gousse glabre, à péricarpe
-
-charnu ....................................................................................................... A. oligophyllus
-
-3. - Pédicelle ± 4 mm ; gousse ailée à l’état sec ..................................................... A. talbotii
-
-- Pédicelle 8–10 mm ; gousse non ailée ...................................................... A. vermeulenii
-
-4. - Arbuste ou petite arbre jusqu’à 6 m de hauteur ; inflorescence 1–4(–12) cm de
+4. - Shrub or small tree up to 6 m in height; inflorescence 1–4(–12) cm
 
 ## Species in region
 

@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(avec Rémy S. PASQUET)
+(with Rémy S. PASQUET)
 
 Am. J. Bot. 98 : 1709 (2011).
 
@@ -27,19 +25,15 @@ Phaseolus sect. Leptospron Benth. in Benth. & Hook., Gen. pl. 1 : 538 (1865).
 
 Vigna sect. Leptospron (Benth.) Maréchal, Mascherpa & Stainier, Taxon 27 : 202 (1978).
 
-Morphologie comme chez le genre Vigna , mais :
+Morphology as in the genus Vigna, but:
 
-Fleur : rostre de la carène et sommet du style étroitement spiralés culminant en deux
+Flower: rostrum of the keel and apex of the style tightly spiraled culminating in two complete turns; terminal stigma. Pollen tricolporate, with verrucose exine not reticulate.
 
-tours complets ; stigmate terminal. Pollen tricolporé, à exine verruqueuse non réticulée.
-
-Genre récemment séparé de Vigna , comptant 2 espèces d’origine américaine, dont une intro-
-
-duite au Gabon.
+Genus recently separated from Vigna, comprising 2 species of American origin, one of which was introduced to Gabon.
 
 b : Delgado-Salinas et al. (2011).
 
-ibliographie
+Bibliography
 
 ## Species in region
 

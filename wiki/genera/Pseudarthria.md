@@ -17,51 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall herbs or subshrubs, erect or spreading. Stipules lanceolate to subulate, striated.
 
-Herbes grandes ou sous-arbrisseaux , dressés ou diffus. Stipules lancéolées à subulées, striées.
+Leaves 3-foliolate, stipellate; leaflets with entire blade, margin ± undulate. Inflorescences terminal, in ample, multiflorous panicles. Flowers: bracteoles 2, at the apex of the pedicel; calyx campanulate, ± bilabiate, with 5 narrow lobes, upper lip bifid, lower lip deeply 3-lobed, with median lobe exceeding the lateral ones; standard obovate to orbicular, wings auriculate, keel obtuse, auriculate; stamens 10, diadelphous, the vexillary free, anthers uniform; ovary sessile or stipitate, villous, multiovulate; style fine, short, with capitate stigma.
 
-Feuilles 3-foliolées , stipellées ; folioles à limbe entier, à marge ± ondulée. Inflorescences
+Pods oblong, flattened, with undulate margins, dehiscent into 2 thin reticulate valves. Seeds subreniform; hilum small, rather central.
 
-terminales, en panicules amples , multiflores. Fleurs : bractéoles 2, au sommet du pédicelle ;
+Genus of 3 or 4 species from Africa, India and Malaysia; in Gabon, 2 species.
 
-calice campanulé, ± bilabié, à 5 lobes étroits, lèvre supérieure bifide, l’inférieure profondé -
+Notes: A third species, P. confertiflora (A.Rich.) Baker, widely distributed from the savannas of Ghana to East and Southern Africa, has very dense inflorescences, flowers in pairs and sessile ovary and pod. It could be present in Gabon.
 
-ment 3-lobée, à lobe médian dépassant les latéraux ; étendard obovale à orbiculaire, ailes
+B: Léonard (1954b), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1971d).
 
-auriculées, carène obtuse, auriculée ; étamines 10, diadelphes, la vexillaire libre, anthères
+Bibliography
 
-uniformes ; ovaire sessile ou stipité, velu, multiovulé ; style fin, court, à stigmate capité.
+### Key to the species
 
-Gousses oblongues , aplaties, à marges ondulées , déhiscentes en 2 valves minces réticulées .
-
-Graines subréniformes ; hile petit, plutôt central.
-
-Genre à 3 ou 4 espèces d’Afrique, d’Inde et de la Malésie ; au Gabon, 2 espèces.
-
-Notes : Une troisième espèce, P. confertiflora (A.Rich.) Baker, largement répartie depuis les savanes du
-
-Ghana jusqu’en Afrique de l’Est et du Sud, a des inflorescences très denses, des fleurs par deux et l’ovaire
-
-et la gousse sessiles. Elle pourrait être présente au Gabon.
-
-B : Léonard (1954b), Lewis et al. (2005), Pellegrin (1949), Verdcourt (1971d).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Foliole terminale à limbe rhomboïdal, atteignant 13 × 8 cm, densément soyeux
-
-dessous ; gousse 8–10 mm de longueur, avec 1 à 5 graines ........................... P. fagifolia
+1. - Terminal leaflet with rhomboidal blade, reaching 13 × 8 cm, densely silky beneath; pod 8–10 mm in length, with 1 to 5 seeds ........................... P. fagifolia
 
 ---
 
-- Foliole terminale à limbe elliptique à elliptique-obovale, atteignant 10 × 6 cm,
-
-tomenteux dessous ; gousse (7–)12–30 mm de longueur, avec 3 à 12 graines
-
-...................................................................................................... P. hookeri var. hookeri
+- Terminal leaflet with elliptic to elliptic-obovate blade, reaching 10 × 6 cm, tomentose beneath; pod (7–)12–30 mm in length, with 3 to 12 seeds ...................................................................................................... P. hookeri var. hookeri
 
 ## Species in region
 

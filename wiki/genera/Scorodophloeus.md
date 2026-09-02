@@ -18,15 +18,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves pinnate with alternate, sometimes opposite leaflets. Stipules linear-lanceolate, very caducous.
 
-Arbres. Feuilles pennées à folioles alternes, parfois opposées. Stipules linéaires-lancéolées très caduques.
+Inflorescences in dense axillary or terminal racemes. Bracteoles inserted on the lower part of the pedicel, not petaloid or involucral, caducous. Receptacle elongate, subcylindric, thin. Sepals 4, free. Petals 5, free, subequal. Stamens 10, free, exserted. Ovary with a stipe fused to the wall of the receptacle. Ovule 2. Pods flat, apiculate, stipitate.
 
-Inflorescences en racèmes denses axillaires ou terminaux. Bractéoles insérées sur la partie inférieure du pédicelle, non pétaloïdes ni involucrales, caduques. Réceptacle allongé, subcylindrique, mince. Sépales 4 libres. Pétales 5 libres, subégaux. Étamines 10, libres, exsertes. Ovaire à stipe soudé à la paroi du réceptacle. Ovule 2. Gousses plates, apiculées, stipitées.
+Type species: S. Zenkeri Harms, Cameroon.
 
-Espèce-type : S. Zenkeri Harms, Cameroun.
-
-Une espèce du Cameroun au Congo. Une autre en Tanzanie,
+One species from Cameroon to Congo. Another in Tanzania.
 
 S. Fischeri (Taub.) J. Léonard.
 

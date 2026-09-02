@@ -17,27 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Stipules narrow and caducous or broad, foliaceous, ± connate at the base, persistent. Leaves imparipinnate with alternate leaflets, with twisted petiolules. Bracteoles minute, non-involucral. Flowers in lax racemes, with long slender pedicels. Calyx with short tube: 4-5 lobes, imbricate in bud, then reflexed. Petals 0. Stamens 10, free. Ovary shortly stipitate, shortly pubescent.
 
-Arbres, arbustes. Stipules étroites et caduques ou larges, foliacées, ± soudées à la base, persistantes. Feuilles imparipennées à folioles alternes, à pétiolules tordus. Bractéoles minuscules, non involucrales. Fleurs en racèmes lâches, à longs pédi-celles grêles. Calice à tube court : 4-5 lobes, imbriqués dans le bouton, puis réfléchis. Pétales o. Étamines ro, libres. Ovaire velu courtement stipité.
+Pods oblique, ± inflated, coriaceous or woody, suborbicular or oblong, with ± wrinkled surface, ordinarily containing 1-2 seeds, sometimes more.
 
-Gousses obliques,  $ \pm $ bombées, coriaces ou ligneuses, suborbiculaires ou oblongues, à surface  $ \pm $ ridée, contenant ordinairement 1-2 graines, parfois plus.
+Type species: C. spicata (Aubl.) Willd., Sp. Pl. 2: 539 (1799). America.
 
-Espèce-type : C. spicata (Aubl.) Willd., Sp. Pl. 2 : 539 (1799). Amérique.
+The pantropical genus Crudia comprises approximately 35 species from tropical regions, of which about 8 occur in Africa. Most Crudia are small to medium-sized trees from the banks of rivers, lagoons or swamps. Their wood is very hard. The flowers of our Gabonese species are very similar to one another. In West Africa, three species are found: C. Klainei, C. senegalensis and C. gabonensis. In Gabon and Cameroon C. gabonensis and C. Klainei. In Congo C. Harmsiana, C. Laurentii, C. Michelsonii. In Cameroon Harms named a species C. Ledermannii which we do not know. At least two species in Gabon.
 
-Le genre pantropical Crudia compte environ 35 espèces des régions tropicales dont 8 environ en Afrique. La plupart des Crudia sont des arbres petits ou moyens du bord des rivières, des lagunes ou des marécages. Leur bois est très dur. Les fleurs de nos espèces gabonaises se ressemblent beaucoup. En Afrique occidentale, se trouvent trois espèces C. Klainei, C. senegalensis et C. gabonensis. Au Gabon et au Cameroun C. gabonensis et C. Klainei. Au Congo C. Harmsiana, C. Laurentii, C. Michelsonii. Au Cameroun Harms a nommé une espèce C. Ledermannii que nous ne connaissons pas. Deux espèces au moins au Gabon.
+1. Large persistent foliaceous stipules, 2 to 3.5 cm in length.
 
-1. Grandes stipules foliacées persistantes, de 2 à 3,5 cm de longueur.
+1'. Caducous stipules.
 
-1'. Stipules caduques.
+2. Leaflets distinctly acuminate..... 2. C. gabonensis.
 
-2. Folioles nettement acuminées..... 2. C. gabonensis.
-
-2'. Folioles obtuses au sommet ou brièvement acuminées. C. Harmsiana.
-
----
-
----
+2'. Leaflets obtuse at apex or briefly acuminate. C. Harmsiana.
 
 ## Species in region
 

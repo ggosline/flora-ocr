@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Leptoglottis DC., Mém. Légum.: 451 (1827).
 
 – Morongia Britton, Mem. Torrey Bot. Club 5: 191 (1894).
 
-Arbrisseaux ou herbes, souvent prostrés. Appareil végétatif à nombreuses épines recourbées. Feuilles souvent sensitives. Stipules soyeuses. Folioles petites. Capitules globuleux ou épis, axillaires, solitaires ou fasciculés. Fleurs tetra-pentamères, ♀ ou polygames, sessiles. Calice très petit. Pétales soudés jusqu'à la moitié. Étamines en même nombre ou en nombre double de celui des pétales, libres ; à filets souvent élargis dans les fleurs ♀ et filiformes dans les fleurs ♂ ; anthère petite non glanduleuse. Ovaire subsessile, style filiforme. Gousse linéaire, épineuse ; sutures persistantes après la déhiscence. Graines ± quadrangulaires à funicule court.
+Shrubs or herbs, often prostrate. Vegetative apparatus with numerous curved spines. Leaves often sensitive. Stipules silky. Leaflets small. Capitules globose or spikes, axillary, solitary or fasciculate. Flowers tetra-pentamerous, ♀ or polygamous, sessile. Calyx very small. Petals connate to the middle. Stamens equal in number or double the number of petals, free; with filaments often enlarged in ♀ flowers and filiform in ♂ flowers; anther small, non-glandular. Ovary subsessile, style filiform. Legume linear, spiny; sutures persistent after dehiscence. Seeds ± quadrangular with short funicle.
 
-ESPÈCE-TYPE : S. quadrivalvis (L.) Merr. (S. aculeata Willd.)
+TYPE SPECIES: S. quadrivalvis (L.) Merr. (S. aculeata Willd.)
 
-Ce genre regroupe une vingtaine d'espèces d'Amérique tropicale. Une seule a été introduite sur la côte occidentale d'Afrique où elle est maintenant naturalisée.
+This genus comprises about twenty species from tropical America. Only one has been introduced to the west coast of Africa where it is now naturalized.
 
 ## Species in region
 

@@ -17,33 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaflets 2 to numerous, opposite, without translucent punctations. Bracteoles not enveloping the bud, not petaloid, caducous. Flowers articulated at the apex of persistent pedicels, or not. Receptacle short. Sepals 4-5, free, imbricate, reflexed. Petals 5, equal to subequal. Stamens (8-) 10 (-12), free or somewhat connate at the base. Ovary with a stipe inserted at the base of the receptacle; ovules 1-2 (-4). Fruits indehiscent or dehiscent, flat and smooth or conversely short, thick, and typically tuberculate.
 
-Arbres, arbustes. Folioles 2 à nombreuses, opposées, sans ponctuations translucides. Bractéoles n'enveloppant pas le bouton, non pétaloïdes, caduques. Fleurs articulées au sommet des pédi-celles persistants, ou non. Réceptacle court. Sépales 4-5, libres, imbriqués, réfléchis. Pétales 5, égaux à subégaux. Étamines (8-) 10 (-12), libres ou un peu soudées à la base. Ovaire à stipe inséré au fond du réceptacle; ovules 1-2 (-4). Fruits indéhiscents ou déhiscents, plats et lisses ou au contraire courts, épais, et typiquement tuberculés.
+Type species: Cynometra cauliflora Linné, Indies.
 
-Espèce type : Cynometra cauliflora Linné, Indes.
+The genus Cynometra as it is still currently conceived is a pantropical genus, containing approximately sixty species. In his 1950 revision of African species, Léonard retained 26 African species, of which 12 and one variety would be present in the former Belgian Congo. In the Gabon-Cameroon complex we have recognized 9 species. Brenan in the recent fascicle (1967) of the Caesalpinioideae of the F.T.E.A. reports 9 species, several of which are poorly known. About a dozen species are cited in Amazonia.
 
-Le genre Cynometra tel qu'il est encore conçu actuellement est un genre pantropical, contenant une soixantaine d'espèces. Dans sa révision de 1950 des espèces africaines, Léonard a retenu 26 espèces africaines dont 12 et une variété seraient présentes au Congo ex-belge. Dans l'ensemble Gabon-Cameroun nous avons admis 9 espèces. Brenan dans le fascicule récent (1967) des Caesalpinioideae de la F.T.E.A. signale 9 espèces dont plusieurs sont mal connues. Une douzaine d'espèces sont citées en Amazonie.
+The genus, despite the corrections that have been made recently, especially by Léonard (extraction of Cynometra from the genera Zenkerella, Gilletiodendron, Lebruniodendron), remains very heterogeneous and would merit further subdivision. Léonard hesitated in the face of the practical difficulty of the critical study of a pantropical genus with numerous species.
 
-Le genre en dépit des corrections qui ont été faites récemment, surtout par Léonard (extraction de Cynometra des genres Zenkerella, Gilletiodendron, Lebruniodendron) demeure très hétérogène et mériterait d'être encore découpé. Léonard a hésité devant la difficulté pratique de l'étude critique d'un genre pantropical aux nombreuses espèces.
+3 groups separate readily in our Guineo-Congolian species by the leaves and fruits.
 
-3 groupes se séparent aisément dans nos espèces guinéo-
+The first group comprises the typical Indo-Malesian species of the genus, C. cauliflora L. It is the most abundantly represented in Africa where it constitutes a remarkably homogeneous group from the taxonomic and ecological viewpoint. The species are all small trees or ripicole shrubs, with a tortuous trunk, with a dense crown.
 
-congolaises par les feuilles et les fruits.
+The 2 others comprise trees, sometimes of large size, from upland forests, often supported by powerful buttresses, preferring rather very fresh soils.
 
-Le premier groupe compte l'espèce indo-malaise type du
+1. — Leaflets few, 1 to 2 pairs of opposite leaflets. Leaflets remarkably acuminate emarginate, asymmetrical, but the main vein remaining straight or nearly so. Fruits short, swollen, typically tuberculate, dehiscent or indehiscent.
 
----
+2. — Leaflets few, 1-2 pairs. Leaflets distinctly falcate, with the main vein arched, acuminate not emarginate. Fruits flat, smooth, with 2 woody valves rolling up after dehiscence.
 
-genre, C. cauliflora L. Il est le plus abondamment représenté en Afrique où il constitue un groupe remarquablement homogène au point de vue taxonomique et écologique. Les espèces sont toutes des petits arbres ou arbustes ripicoles, au fût tortueux, à cime dense.
-
-Les 2 autres comprennent des arbres, parfois de grande taille, des forêts de terre ferme, portés souvent par des contreforts puissants, recherchant plutôt les terrains très frais.
-
-1. — Folioles peu nombreuses, 1 à 2 paires de folioles opposées. Folioles remarquablement acuminées émarginées, dissymétriques, mais la nervure principale restant droite ou presque. Fruits courts, boursouflés, typiquement tuberculés, déhiscents ou indéhiscents.
-
-2. — Folioles peu nombreuses, 1-2 paires. Folioles nettement falciformes, à nervure principale arquée, acuminées non émarginées. Fruits plats, lisses, à 2 valves ligneuses s'enroulant après déhiscence.
-
-3. — Folioles peu nombreuses, sensiblement symétriques, sauf à la base. Rachis canaliculés, subailés. Fruits plats, lisses, à 2 valves ligneuses s'enroulant après déhiscence.
+3. — Leaflets few, substantially symmetrical, except at the base. Rachis canaliculate, subwinged. Fruits flat, smooth, with 2 woody valves rolling up after dehiscence.
 
 ## Species in region
 

@@ -17,41 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Base of stipules intrapetiolar, persistent, thick. Leaves with opposite leaflets. Petiolules twisted. Flowers in racemes or panicles. Bracteoles concave, enveloping the very young buds, but rapidly caducous (except AiZelia bracteata from West Africa). Receptacle long or very long. Sepals 4, imbricate. Petal 1 large, ± long-unguiculate; the others rudimentary or absent. Fertile stamens 7 (-8), nearly free, with long exsert filaments. Staminodes often 2, very small. Stipe of ovary fused to the receptacle wall. Numerous ovules.
 
-Base des stipules intrapétiolaire, persistante, épaisse. Feuilles à folioles opposées. Pétioiules tordus. Fleurs en grappes ou en panicules. Bractéoles concaves, enveloppant les très jeunes boutons, mais rapidement caduques (sauf Ajzelia bracteata d'Afrique occidentale). Réceptacle long ou très long. Sépales 4, imbriqués. Pétale 1 grand, ± longuement onguiculé; les autres rudimentaires ou nuls. Étamines fertiles 7 (-8), presque libres, à longs filets exserts. Staminodes souvent 2, très petits. Stipe de l'ovaire soudé à la paroi du réceptacle. Nombreux ovules.
+Fruits thick, oblong, opening into 2 stout woody valves, smooth, bossed, without prominent veins, with inner face furnished with a spongy tissue in which the seeds are lodged. Seeds thick, provided with a basal colored aril.
 
-Fruits épais, oblongs, s'ouvrant en 2 fortes valves ligneuses,
+Type species: A. africana Smith ex. Pers., Syn. Pl., 1 : 455 (1805).
 
-lisses, bosselées, sans nervures saillantes, à face interne garnie
+Paleotropical genus, comprising about fifteen species chiefly African. In the Cameroon-Gabonese and Congolese domains it is represented by 2 species of large trees, known commercially under the name of Dousséi: A. bipindensis (Red Dousséi), A. pachyloba (White Dousséi), absent from the Libero-Ivorian domain.
 
-d'un tissu spongieux dans lequel sont logées les graines. Graines
+On the other hand in this latter, two medium trees are encountered, A. bracteata and A. bella. In the northern peripheral domain appears a medium tree A. africana, which is rather characteristic of dense dry forests and Sudano-Guinean forest galleries. A. bella var. gracilior in Côte d'Ivoire is a tree; in Gabon, Cameroon, Congo the var. bella is only a shrub of the understory. South of the equator appear other species of forest galleries, wooded savannas and southern open forests: A. cuanzensis and A. Peturei.
 
-épaisses, munies d'un arille coloré basilaire.
+The 4 species which concern us in Cameroon and Gabon are separated thus:
 
-Espèce-type : A. africana Smith ex. Pers., Syn. Pl., 1 : 455 (1805).
+1. Leaflets not exceeding 6 cm long and 2.5 cm wide; 5-10 pairs; receptacle 1.5-2 cm; reniform pods; seeds reaching 5 cm long, with lemon yellow aril..... 1. A. pachyloba.
 
-Genre paléotropical, comptant une quinzaine d'espèces surtout africaines. Dans les domaines camerouno-gabonais et congolais il est représenté par 2 espèces de grands arbres, connues commercialement sous le nom de Dousséi : A. bipindensis (Dousséi rouge), A. pachyloba (Dousséi blanc), absentes du domaine libéro-ivoréen.
+1'. Leaflets more than 6 cm long and 2.5 cm wide, able to reach 15 cm long and 8.5 cm wide.
 
-En revanche dans ce dernier, on rencontre deux arbres moyens, A. bracteata et A. bella. Dans le domaine périphérique septentrional apparaît un arbre moyen A. africana, qui est plutôt caractéristique des forêts sèches denses et des galeries forestières soudano-guinéennes. A. bella var. gracilior en Côte d'Ivoire est un arbre; au Gabon, au Cameroun, au Congo la var. bella n'est plus qu'un arbuste des sous-bois. Au sud de l'équateur apparaissent d'autres espèces des galeries forestières, des savanes
+2. Receptacle 0.5-0.6 cm long; leaflets 3-5 pairs; large petal 1.3-1.5 cm long; straight pods; seeds with orange-red aril. A. africana.
 
----
+2'. Receptacle 1-3 cm long; very large petal 3-6.5 cm long; reniform pods.
 
-boisées et des forêts claires australes : A. cuanzensis et A. Peturei.
-
-Les 4 espèces qui nous intéressent au Cameroun et au Gabon se séparent ainsi :
-
-1. Folioles ne dépassant pas 6 cm de long et 2,5 cm de large; 5-10 paires; réceptacle de 1,5-2 cm; gousses réniformes; graines atteignant 5 cm de long, à arille jaune citron..... 1. A. pachyloba.
-
-1'. Folioles de plus de 6 cm de long et 2,5 cm de large, pouvant atteindre 15 cm de long et 8,5 cm de large.
-
-2. Réceptacle de 0,5-0,6 cm de long; folioles 3-5 paires; grand pétale de 1,3-1,5 cm de long; gousses droites; graines à arille orangé-rouge. A. africana.
-
-2'. Réceptacle de 1-3 cm de long; très grand pétale de 3-6,5 cm de long;
-
-gousses réiniformes.
-
-3. Folioles (4-) 5-6 (-8) paires, oblongues elliptiques à sommet obtus ou brièvement acuminé; grands arbres; axes d'inflo-rescences plus forts que chez le suivant.... 2. A. bipindensis.
+3. Leaflets (4-) 5-6 (-8) pairs, oblong elliptic with obtuse or briefly acuminate apex; large trees; axes of inflorescences stouter than in the following.... 2. A. bipindensis.
 
 ## Species in region
 

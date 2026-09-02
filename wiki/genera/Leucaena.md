@@ -16,19 +16,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook. Journ. Bot. 4:416 (1842).
 
 – Caudoleucaena Britt. & Rose, N. Amer. Fl. 23: 130 (1928).
 
 - Rhyncholeucaena BRITT. & ROSE, l.c.
 
-Arbres ou arbustes inermes. Feuilles bipennées à folioles nombreuses et en général petites. Pétiole souvent porteur d'une glande. Stipules sétacées ou petites. Inflorescences en capitules globuleux, axillaires, solitaires ou fasciculés ; les sommitaux en subpanicule. Bractées 2, le plus souvent sous le capitule. Fleurs ♂, pentamères, sessiles. Calice tubuleux campanulé, denté. Pétales libres. Étamines 10, libres ; anthères souvent pubescentes. Pistil stipité ; ovaire à nombreux ovules ; style filiforme souvent pubescent. Fruit stipité, largement linéaire, aplati, déhiscent. Graines transverses, ovées, plates.
+Trees or unarmed shrubs. Leaves bipinnate with numerous and generally small leaflets. Petiole often bearing a gland. Stipules setaceous or small. Inflorescences in globose capitula, axillary, solitary or fasciculate; the apical ones in subpanicle. Bracts 2, most often beneath the capitulum. Flowers ♂, pentamerous, sessile. Calyx tubular-campanulate, dentate. Petals free. Stamens 10, free; anthers often pubescent. Pistil stipitate; ovary with numerous ovules; style filiform often pubescent. Fruit stipitate, broadly linear, flattened, dehiscent. Seeds transverse, ovate, flat.
 
-ESPÈCE-TYPE : L. leucocephala (Lam.) De Wit (L. glauca (Willd.) Benth.)
+TYPE SPECIES: L. leucocephala (Lam.) De Wit (L. glauca (Willd.) Benth.)
 
-Ce genre polynésien et américain regroupe une cinquantaine d'espèces. Une est introduite au Gabon.
+This Polynesian and American genus comprises about fifty species. One is introduced to Gabon.
 
 ## Species in region
 

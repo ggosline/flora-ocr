@@ -17,67 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianas or rarely shrubs (M. stans). Stipules caducous, small. Leaves pinnate; stipels present; leaflets 3, the lateral ones asymmetric. Inflorescences in racemes or sometimes umbels or axillary flowers. Flowers large; calyx stinging, bilabiate, the 2 upper teeth connate, the 3 lower ones longer, especially the median one; standard nearly half shorter than the wings, with auricles inflexed at the base, wings oblong to obovate, incurved, keel as long as or longer than the wings, apex acute or rostrate; stamens diadelphous, the vexillary one free, anthers unequal, often bearded; ovary sessile, hairy, with 3 to 6 ovules; style filiform, stigma small, terminal. Pods thick, oblong, very coriaceous or subligneose, partitioned between the seeds, covered with stiff hairs mostly stinging and often provided with transverse lamellae or longitudinal ridges. Seeds discoid, flattened to thick, reaching 2 cm in diameter.
 
-Lianes ou rarement arbustes ( M. stans ). Stipules caduques, petites. Feuilles pennées ; stipelles
+Pantropical genus of approximately 105 species, most of which in Asia; in Africa, 12 species of which 4 in Gabon.
 
-présentes ; folioles 3 , les latérales asymétriques. Inflorescences en grappes ou parfois ombelles
+Notes: One might expect to find in Gabon M. stans Welw. ex Baker (erect species 2.4 m at maximum), present in neighbouring countries, which is why it appears in the key below.
 
-ou fleurs axillaires. Fleurs grandes ; calice urticant , bilabié, les 2 dents supérieures connées,
+M. atropurpurea DC., a species from India, is mentioned by Raponda-Walker & Sillans (1961), but it should be considered as an error; it is probably M. pruriens.
 
-les 3 inférieures plus longues, surtout la médiane ; étendard près de la moitié plus court
+The genus Stizolobium is sometimes considered as a separate genus by other authors.
 
-que les ailes , à auricules infléchis à la base, ailes oblongues à obovales, incurvées, carène
+Certain species have seeds that float in the sea (sea bean of English speakers).
 
-aussi longue ou plus longue que les ailes, sommet aigu ou rostré ; étamines diadelphes, la
+**Bibliography**
 
-vexillaire libre, anthères inégales, souvent barbues ; ovaire sessile, velu, avec 3 à 6 ovules ;
+Botton & Hallé (1958), Duke (1981), Hauman (1954e), Mackinder et al. (2001), Moura & Lewis (2014), Pellegrin (1949), Verdcourt (1971c).
 
-style filiforme, stigmate petit, terminal. Gousses épaisses, oblongues , très coriaces ou subli-
+### Key to the species
 
-gneuses, cloisonnées entre les graines, couvertes de poils raides le plus souvent urticants
+1. - Climbing plant; lateral leaflets of different shape and/or size from that of the terminal one ................................................................................................................... 2
 
-et souvent munies de lamelles transversales ou rides longitudinales . Graines discoïdes ,
+- Erect shrub, lateral leaflets of the same shape and/or size as the terminal one (to be looked for in Gabon) ................................................................ M. stans Welw. ex Baker
 
-aplaties à épaisses, atteignant 2 cm de diamètre.
-
-Genre pantropical d’environ 105 espèces, dont la plupart en Asie ; en Afrique, 12 espèces dont
-
-4 au Gabon.
-
-Notes : On pourrait attendre au Gabon M. stans Welw. ex Baker (espèce dressée de 2,4 m au maximum),
-
-présente dans les pays avoisinants, raison pour laquelle elle figure dans la clé ci-dessous.
-
-M. atropurpurea DC., une espèce de l’Inde, est mentionnée par Raponda-Walker & Sillans (1961), mais
-
-il faudra la considérer comme une erreur ; il s’agit probablement de M. pruriens .
-
-Le genre Stizolobium est parfois considéré comme genre séparé par d’autres auteurs.
-
-Certaines espèces ont des graines flottantes dans la mer (sea bean des anglophones).
-
-b : Botton & Hallé (1958), Duke (1981), Hauman (1954e), Mackinder et al. (2001), Moura
-
-ibliographie
-
-& Lewis (2014), Pellegrin (1949), Verdcourt (1971c).
-
-### Clé des espèces
-
-1. - Plante grimpante ; folioles latérales de forme et/ou taille différente de celle de la
-
-terminale ......................................................................................................................... 2
-
-- Arbuste érigé, folioles latérales de la même forme et/ou taille que la terminale (à
-
-rechercher au Gabon) ................................................................ M. stans Welw. ex Baker
-
-2. - Fleurs disposées par 2 à 10(–15) en ombelle ; ramilles finement grises velues
+2. - Flowers arranged 2 to 10(–15) in umbel; branchlets finely grey pubescent
 
 .......................................................................................................................... M. sloanei
 
-- Fleurs en racèmes ; ramilles glabres ou couvertes de poils urticants roux ..................... 3
+- Flowers in racemes; branchlets glabrous or covered with reddish stinging hairs ..................... 3
 
 ## Species in region
 

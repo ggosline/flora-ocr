@@ -17,15 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes, sometimes shrubs or small trees. Spines usually present on the branches, petioles, rachises and axes of pinnae, occasionally on the fruit sutures, sometimes aggregating at the nodes or even forming false stipules. Leaves bipinnate. Gland on the petiole. Pinnae pauci- to plurifoliolate. No tendrils. Inflorescences in spikes often paniculate. Flowers ♠, sessile or subsessile. Calyx cupular. Petals 5, ± long connate. Stamens 10, with anthers terminated by a caducous gland. Ovary pubescent, stipitate to subsessile; style narrowing to a porate stigma. Lomentum flat; sutural ridges persistent; exocarp persistent. Seeds areolate.
 
-Lianes, parfois arbustes ou petits arbres. Épines habituellement présentes sur les rameaux, les pétioles, les rachis et les axes des pennes, occasionnellement sur les sutures des fruits, parfois s'agrégeant au niveau des nœuds ou même formant de fausses stipules. Feuilles bipennées. Glande sur le pétiole. Pennes pauci- à plurifoliolées. Pas de vrille. Inflorescences en épis souvent paniculés. Fleurs ♠. sessiles ou subsessiles. Calice cupulaire. Pétales 5, ± longuement soudés. Étamines 10, à anthères terminées par une glande caduque. Ovaire pubescent, stipité à subsessile; style se rétrécissant en un stigmate poré. Lomentum plat ; bourrelets suturaux persistants ; exocarpe persistant. Graines aréolées.
+TYPE SPECIES: A. spicata (E. Mey.) Presl.
 
-ESPÈCE-TYPE : A. spicata (E. Mey.) Presl.
-
-Genre africain et américain regroupant 10 espèces ; une seule pré-
-
-sente au Gabon.
+African and American genus comprising 10 species; only one present in Gabon.
 
 ## Species in region
 

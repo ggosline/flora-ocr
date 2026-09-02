@@ -17,67 +17,33 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs or shrubs. Stipules linear or lanceolate. Leaves imparipinnate; petiole wingless, grooved above; stipels present; leaflets 1 to 3(–5), the terminal ones larger than the lateral ones, the latter opposite, scarcely oblique. Inflorescences axillary or terminal, in pseudoracemes, sometimes grouped in panicles. Flowers: bracteoles present or absent; calyx campanulate, with 5 ± equal, lanceolate or subulate lobes, or calyx bilabiate, the 2 upper lobes mostly connate, the lower one slightly longer; standard obovate or suborbicular, keel generally obtuse, straight or ± incurved; stamens 10, diadelphous (9 + 1) or monadelphous, anthers equal; ovary sessile or stipitate, with 2 to several ovules; style curved, glabrous, stigma small, capitate. Pod exserted, sessile or stipitate, with 1 seed per article, membranous or coriaceous, glabrous to villous, with flattened articles, generally indehiscent and separating at maturity, sometimes dehiscent along the ventral suture. Seed oblong or subquadrangular.
 
-Herbes ou arbrisseaux . Stipules linéaires ou lancéolées . Feuilles imparipennées ; pétiole
+Genus of ± 275 species from the tropics and subtropics of all continents except Europe. A high number of species is present in tropical America, but South-East Asia encompasses the highest diversity at the level of subgenera. In Africa, ± 40 species are found, of which 15 are endemic; in Gabon, 12 species of wide distribution; several are cultivated as fodder or cover plants.
 
-sans ailes, sillonné dessus ; stipelles présentes ; folioles 1 à 3(–5) , les terminales plus grandes
+Notes: Several genera have been separated from Desmodium s.l.
 
-que les latérales, celles-ci opposées, à peine obliques. Inflorescences axillaires ou terminales,
+Bibliography
 
-en pseudoracèmes, parfois groupés en panicules. Fleurs : bractéoles présentes ou absentes ;
-
-calice campanulé, à 5 lobes ± égaux, lancéolés ou subulés, ou bien calice bilabié, les 2 lobes
-
-supérieurs le plus souvent connés, l’inférieur légèrement plus long ; étendard obovale ou
-
-suborbiculaire, carène généralement obtuse, droite ou ± incurvée ; étamines 10, diadelphes
-
-(9 + 1) ou monadelphes, anthères égales ; ovaire sessile ou stipité, avec 2 à plusieurs ovules ;
-
-style courbé, glabre, stigmate petit, capité. Gousse exserte, sessile ou stipitée, à 1 graine par
-
-article, membraneuse ou coriace, glabre à velue, à articles aplatis , en général indéhiscents
-
-et se séparant à maturité, parfois déhiscents le long de la suture ventrale . Graine oblongue
-
-ou subquadrangulaire.
-
-Genre de ± 275 espèces des tropiques et subtropiques de tous les continents sauf l’Europe. Un
-
-nombre élevé des espèces est présent en Amérique tropicale, mais l’Asie du Sud-Est englobe
-
-la diversité la plus élevéé au niveau des sous-genres. En Afrique, on trouve ± 40 espèces, dont
-
-15 endémiques ; au Gabon, 12 espèces de vaste répartition ; plusieurs sont cultivées comme
-
-plante de fourrage ou de couverture.
-
-Notes : Plusieurs genres ont été séparés de Desmodium s.l.
-
-b : Hepper (1958), Lewis et al. (2005), Mackinder et al. (2001), van der Maesen (2006a), ’t
-
-ibliographie
-
-Mannetje & Jones (1992), Ohashi (1973), Ohashi & Mill (2000), Pellegrin (1949), Schubert (1954, 1971).
+Hepper (1958), Lewis et al. (2005), Mackinder et al. (2001), van der Maesen (2006a), 't Mannetje & Jones (1992), Ohashi (1973), Ohashi & Mill (2000), Pellegrin (1949), Schubert (1954, 1971).
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Feuilles, ou au moins la plupart, unifoliolées ................................................................. 2
+1. - Leaves, or at least most of them, unifoliolate .................................................................. 2
 
-- Feuilles à 3 folioles ......................................................................................................... 6
+- Leaves with 3 leaflets ......................................................................................................... 6
 
-2. - Calice à 5 dents linéaires ± égales ; inflorescence à poils longs ; folioles à limbe de
+2. - Calyx with 5 linear ± equal teeth; inflorescence with long hairs; leaflets with blade
 
-1,5–5 × 0,5–2 cm ............................................................................................................ 3
+1.5–5 × 0.5–2 cm ............................................................................................................ 3
 
-- Calice bilabié ; inflorescence pubérulente à pubescente ; folioles à limbe de 3–12 ×
+- Calyx bilabiate; inflorescence puberulent to pubescent; leaflets with blade 3–12 ×
 
 1–8 cm ............................................................................................................................ 4
 
-3. - Folioles à limbe soyeux-argenté dessous .............................. D. barbatum var. argyreum
+3. - Leaflets with blade silky-silvery beneath .............................. D. barbatum var. argyreum
 
 ## Species in region
 

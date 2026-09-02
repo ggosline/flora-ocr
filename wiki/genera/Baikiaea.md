@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees, shrubs. Leaflets alternate. Terminal racemes. Bracteoles not enveloping the bud, generally short and caducous. Flowers often of very large size. Receptacle turbinate, ± deep. Sepals 4, subvalvate, thick, densely hairy inside. Petals 5, equal in length, unequal in width. Stamens 9 fused at the base and 1 free. Ovary long-stipitate, fused to the base of the receptacle. Pods woody, coiling after dehiscence.
 
-Petits arbres, arbustes. Folioles alternes. Grappes terminales. Bractéoles n'enveloppant pas le bouton, généralement courtes et caduques. Fleurs souvent de très grande taille. Réceptacle turbiné, ± profond. Sépales 4, subvalvaires, épais, densément velu intérieurement. Pétales 5, égaux en longueur, inégaux en largeur. Étamines 9 soudées à la base et 1 libre. Ovaire longuement stipité, soudé à la base du réceptacle. Gousses ligneuses, s'enroulant après déhiscence.
+Type species: B. insignis Benth.
 
-Espèce type : B. insignis Benth.
-
-Les fleurs sont grandes, odoriférantes, très ornamentales. Elles sont parmi les plus grandes des Caesalpiniées. Deux espèces se distinguent immédiatement : B. insignis Benth. des domaines camerouno-gabonais et congolais de la Région guinéo-congolaise
+The flowers are large, fragrant, very ornamental. They are among the largest of the Caesalpiniaceae. Two species are immediately distinguishable: B. insignis Benth. from the Cameroon-Gabonese and Congolese territories of the Guineo-Congolian Region
 
 ---
 
-des forêts denses humides, espèce principalement ripicole, et B. plurijuga petit arbre des forêts claires sur sol sablonneux kalaharien du haut Zambèze, espèces très différentes morphologiquement et écologiquement. Plusieurs autres espèces ont été décrites qui ne sont que des formes du B. insignis. Cette espèce paraît en effet très polymorphe; toutes les transitions sont visibles entre les types des espèces qui ont été découpées à l'intérieur du B. insignis. Elles sont vraisemblablement liées aux différents milieux où se rencontre ce Baikixæ. S'il est surtout une espèce de forêt marécageuse, ou périodiquement inondée, de galeries forestières, de forêt ripicole à Uapaca Heudelotii et Irvingia Smithii, il se rencontre aussi en forêt de terre ferme et en forêt de montagne jusqu'à 1800 m d'altitude au Congo oriental. L'étude simultanée écologique et morphologique de toutes ces formes serait à entreprendre. Faute de cette révision nous adoptons donc provisoirement le schéma d'une espèce très polymorphe, aux formes écophylétiques.
+of dense humid forests, a species primarily ripicole, and B. plurijuga a small tree of open forests on sandy Kalahari soil of the upper Zambezi, species very different morphologically and ecologically. Several other species have been described which are only forms of B. insignis. This species appears indeed very polymorphic; all transitions are visible between the types of the species that have been delimited within B. insignis. They are presumably linked to the different environments where this Baikiæa is encountered. While it is primarily a species of swampy forest, or periodically inundated, of forest galleries, of ripicole forest with Uapaca Heudelotii and Irvingia Smithii, it is also found in upland forest and mountain forest up to 1800 m altitude in eastern Congo. A simultaneous ecological and morphological study of all these forms would need to be undertaken. In the absence of this revision we therefore provisionally adopt the scheme of a very polymorphic species, with ecophyletic forms.
 
-Cependant nous admettons la validité d'une espèce encore proche de B. insignis, mais qui s'en distingue assez bien par des folioles lancéolées, nettement plus petites que celles de cette dernière : B. Robynsii Ghesquière.
+However, we recognize the validity of a species still close to B. insignis, but which is distinguished quite well from it by lanceolate leaflets, distinctly smaller than those of the latter: B. Robynsii Ghesquière.
 
-Enfin Léonard a décrit une espèce de la forêt claire du Tanganika (Miombo), que nous ne connaissons pas, B. Ghesquiereana.
+Finally Léonard described a species from the open forest of Tanganyika (Miombo), which we do not know, B. Ghesquiereana.
 
-Le genre n'est pas représenté dans le domaine libéro-ivoréen de la Région guinéo-congolaise ni dans la Région soudanienne.
+The genus is not represented in the Libero-Ivorian domain of the Guineo-Congolian Region nor in the Sudanian Region.
 
 ## Species in region
 

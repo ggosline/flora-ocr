@@ -17,49 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes ou suffrutex tuberculé. Stipules persistantes, lancéolées. Feuilles 3-foliolées ; stipelles
-
-persistantes ; folioles à limbe avec les nervures latérales se réunissant très près de la
-
-marge en une nervure marginale . Inflorescences axillaires, en pseudoracèmes ; pédoncule
-
-long ; rachis renflé à l’insertion des pédicelles. Fleurs : bractéoles 2, sous le calice ; calice
-
-campanulé, bilabié, les 2 lobes supérieurs entièrement ou presque entièrement soudés , les
-
-3 inférieurs obtus, le médian un peu plus long ; étendard suborbiculaire, ± auriculé à la base,
-
-sans appendices, glabre, ailes plus longues que la carène, onguiculées, auriculées, carène fal-
-
-quée, obtuse ; étamines 10, diadelphes, 5 anthères dorsifixes alternant avec 5 sub-basifixes ;
-
-ovaire linéaire, multiovulé ; style ± tordu, en spatule ( cunéé ) et poilu au sommet, assez per-
-
-sistant sur la gousse, stigmate oblique. Gousses linéaires, droites, coriaces, ± cloisonnées entre
-
-les graines. Graines cylindriques à ellipsoïdes, sans strophiole.
+Herbs or tuberculate suffrutex. Stipules persistent, lanceolate. Leaves 3-foliolate; stipels persistent; leaflets with blade having the lateral veins uniting very close to the margin in a marginal vein. Inflorescences axillary, in pseudoracemes; peduncle long; rachis swollen at the insertion of the pedicels. Flowers: bracteoles 2, below the calyx; calyx campanulate, bilabiate, the 2 upper lobes entirely or almost entirely fused, the 3 lower ones obtuse, the median one somewhat longer; standard suborbicular, ± auriculate at the base, without appendages, glabrous, wings longer than the keel, unguiculate, auriculate, keel falcate, obtuse; stamens 10, diadelphous, 5 anthers dorsifixed alternating with 5 sub-basifixed; ovary linear, multiovulate; style ± twisted, spatulate (cuneate) and pilose at the apex, fairly persistent on the pod, stigma oblique. Pods linear, straight, coriaceous, ± chambered between the seeds. Seeds cylindric to ellipsoid, without strophiole.
 
 ---
 
-Androcée (× 2). – 9. Calice et gynécée en coupe longitudinale (× 2). – 10. Gousse, partie en coupe (× ½).
+Androecium (× 2). – 9. Calyx and gynoecium in longitudinal section (× 2). – 10. Pod, section in part (× ½).
 
-(1–9 : Duchesne 11 ; 10 : Descamps s.n. ). Dessin par J.M. Lerinckx, Jardin Botanique Meise (©).
+(1–9: Duchesne 11; 10: Descamps s.n.). Drawing by J.M. Lerinckx, Meise Botanical Garden (©).
 
 ---
 
-Genre séparé de Dolichos , à 7 espèces de l’Afrique tropicale, la plupart dans les régions zam-
+Genus separated from Dolichos, with 7 species from tropical Africa, most in the Zambezian and Sudanian regions, one of which in Gabon. One species is endemic to Maharashtra (Mumbai), India.
 
-bésiennes et soudaniennes, dont une au Gabon. Une espèce est endémique au Maharashtra
-
-(Mumbai), Inde.
-
-B : Lewis et al. (2005), Pellegrin (1949), Potter (1992), Potter & Doyle (1992, 1994), Verd-
-
-i B liographie
-
-court (1971c), Wilczek (1954).
+B: Lewis et al. (2005), Pellegrin (1949), Potter (1992), Potter & Doyle (1992, 1994), Verdcourt (1971c), Wilczek (1954).
 
 ## Species in region
 

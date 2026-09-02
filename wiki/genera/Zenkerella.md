@@ -17,17 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaves simple, entire, petiolate. Racemes very short. Bracteoles non-involucral, caducous. Receptacle elongate and concave. Sepals 4, imbricate in bud, reflexed. Petals 5, equal or subequal. Stamens 10, free. Ovary shortly stipitate. Ovules 1–3. Fruits stipitate, apiculate, subhemispheric. Valves marked by transverse ridges, prominent, anastomosing.
 
-Arbres, arbustes. Feuilles simples, entières, pétiolées. Racèmes très courts. Bractéoles non involucrales, caduques. Réceptable allongé et concave. Sépales 4, imbriqués dans le bouton, réfléchis. Pétales 5, égaux ou subégaux. Étamines 10, libres. Ovaire courtement stipité. Ovules 1-3. Fruits stipités, apiculés, subhémiribiculaires. Valves marquées de rides transversales, proéminentes, anastomoses.
+Type: Z. citrina Taubert, Cameroon.
 
-Type : Z. citrina Taubert, Cameroun.
+Genus very close to Cynometra L., yet well individualized by the simple leaves of its 5–6 species.
 
-Genre très proche de Cynometra L., bien individualisé cependant par les feuilles simples de ses 5-6 espèces.
+Genus comprising 5 species according to Léonard: 4 from East Africa (Tanzania) and only one: Z. citrina, from southern Nigeria to Gabon, considering that two species, whose types have disappeared in Berlin, but which according to drawings and diagnoses resemble Z. citrina, can be united with this latter species; these are Z. pauciflora Harms from Cameroon, and Cynometra leptoclada Harms from Fernando Po.
 
-Genre comptant 5 espèces d'après Léonard : 4 d'Afrique orientale (Tanzanie) et une seule : Z. citrina, du sud de la Nigéria au Gabon, en considérant que deux espèces, dont les types ont disparu à Berlin, mais qui d'après les dessins et diagnoses ressemblent au Z. citrina, peuvent être réunies à cette dernière espèce; ce sont Z. pauciflora Harms du Cameroun, et Cynometra leptoclada Harms de Fernando Po.
-
-Les espèces orientales sont très proches les unes des autres : trois appartiennent à la forêt de haute montagne, la quatrième au contraire se rencontre dans la forêt périodiquement inondée à basse altitude.
+The oriental species are very close to each other: three belong to the high mountain forest, the fourth by contrast is found in the periodically inundated forest at low altitude.
 
 ## Species in region
 

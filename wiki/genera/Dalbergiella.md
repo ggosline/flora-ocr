@@ -17,49 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing shrubs or trees. Stipules present. Leaves imparipinnate; stipelles absent; leaflets opposite to subopposite, with blade oblique at base. Inflorescences axillary, in multiflorous pseudoracemes. Flowers: calyx campanulate, 2-lipped, upper lip emarginate, exceeding the lower lip with 3 long, acute teeth; standard ± orbicular, emarginate, with channelled claw, wings oblong, with long claw, keel petals slightly shorter than wings, fused at apex, slightly curved, with long claw; stamens 10, diadelphous, vexillary stamen free, with filaments alternating in length, anthers dorsifixed, with blackish connective, dilated at apex and equalling or exceeding the locules; ovary ± sessile, with 2 to 8 ovules. Pods subsessile, oblong, flattened, with 1(–2) seeds, with a notch in the dorsal suture, membranous, with reticulate surface. Seeds reniform, near the notch in the suture, smooth.
 
-Arbustes grimpants ou arbres . Stipules présentes. Feuilles imparipennées ; stipelles absentes ;
+Genus with three species, of which 2 in West Africa, including Gabon, and a third in Tanzania.
 
-folioles opposées à subopposées , à limbe oblique à la base . Inflorescences axillaires, en
+Bibliography: Brummitt et al. (2007), Lewis et al. (2005), Pellegrin (1949), Polhill (1971b), van der Maesen (2006a).
 
-pseudoracèmes multiflores . Fleurs : calice campanulé, à 2 lèvres, la supérieure émarginée,
+### Key to the species
 
-surpassant l’inférieure à 3 dents longues, aiguës ; étendard ± orbiculaire, émarginé, à onglet
-
-canaliculé, ailes oblongues, à onglet long, pétales de la carène légèrement plus courts que
-
-les ailes, soudés au sommet, légèrement courbés, à onglet long ; étamines 10, diadelphes, la
-
-vexillaire libre , à filets alternant en longueur , anthères dorsifixes, à connectif noirâtre, dilaté
-
-au sommet et égalant ou dépassant les loges ; ovaire ± sessile, avec 2 à 8 ovules. Gousses
-
-subsessiles, oblongues , aplaties , avec 1(–2) graines, avec une encoche dans la suture dor-
-
-sale , membraneuses, à surface réticulée. Graines réniformes, près de l’encoche dans la suture,
-
-lisses.
-
-Genre à trois espèces, dont 2 en Afrique de l’Ouest, y compris le Gabon, et une troisième en Tanzanie.
-
-b : Brummitt et al. (2007), Lewis et al. (2005), Pellegrin (1949), Polhill (1971b), van der
-
-ibliographie
-
-Maesen (2006a).
-
-### Clé des espèces
-
-1. - Folioles en 10 à 15 paires, à limbe oblong, les centraux 2,5–7 × 1–3 cm, ± arrondi ou
-
-parfois émarginé au sommet ; pseudoracème ascendant, dense, 7–16 cm de longueur
+1. - Leaflets in 10 to 15 pairs, with oblong blade, the central ones 2.5–7 × 1–3 cm, ± rounded or sometimes emarginate at apex; pseudoraceme ascending, dense, 7–16 cm in length
 
 .................................................................................................................... D. welwitschii
 
-- Folioles en 2 à 4 paires, à limbe ovale, 4–9,5 × 2–4,5 cm, acuminé au sommet ;
+- Leaflets in 2 to 4 pairs, with ovate blade, 4–9.5 × 2–4.5 cm, acuminate at apex;
 
-pseudoracème pendant, lâche, 5–9(–13) cm de longueur .......................... D. gossweileri
+pseudoraceme pendulous, lax, 5–9(–13) cm in length .......................... D. gossweileri
 
 ## Species in region
 

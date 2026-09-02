@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with alternate leaflets, riddled with translucent dots. Secondary veins numerous and generally traced to a very prominent marginal vein. Bracteoles small, not enveloping the bud.
 
-Feuilles à folioles alternes, criblées de points translucides. Nervures secondaires nombreuses et généralement tracées jusqu'à une nervure marginée très accusée. Bractéoles petites n'envelop-pant pas le bouton.
+Flowers distichous, sessile or shortly pedicellate. Sepals 4, subvalvate. Petals 0. Stamens 10, free, alternately long and short. Anthers versatile. Ovary biovulate. Fruits indehiscent drupaceous, subglobose flattened; exocarp smooth, coriaceous; mesocarp interspersed with numerous fibres adhering to a lignified, thick endocarp, traversed by very prominent veins.
 
-Fleurs distiques, sessiles ou courtement pédicellées. Sépales 4, subvalvaires. Pétales o. Étamines ro, libres, alternativement longues et courtes. Anthères versatiles. Ovaire biovulé. Fruits indéhiscents drupacés, subglobuleux aplatis; exocarpe lisse, coriace; mésocarpe entremêlé de nombreuses fibres adhérant à un endocarpe lignifié, épais, traversé de nervures très saillantes.
+Type species: D. senegalense Gmel. in L. Syst. Nat. ed. 13,2, 1: 700 (1791). Holotype: Adanson 215 A, Gambia, Senegal, in herb. de Jussieu (P).
 
-Espèce type : D. senegalense Gmel. in L. Syst. Nat. ed. 13,2, 1 : 700 (1791). Holotype : Adanson 215 A, Gambie, Sénégal, in herb. de Jussieu (P).
+This genus comprises 3 species forming an ecophyletic group. D. microcarpum Guill. et Perr. is a shrub of Sudano-Guinean wooded savannas widespread from Senegal to the Nile. D. senegalense is a tree of forest galleries and dry Guinean forests from Senegal to Ubangi-Shari, but occasionally encountered isolated in humid dense forest (Ivory Coast). This species is not represented in our Cameroon herbarium. D. macrocarpum is a large tree of humid dense forest known from Cameroon to Gabon. Except in exceptional cases, each of these 3 species corresponds to a different habitat. They are morphologically very similar.
 
-Ce genre comprend 3 espèces formant un groupe écophylétique. D. microcarpum Guill. et Perr. est un arbuste des savanes boisées soudano-guinéennes répandu du Sénégal au Nil. D. senegalense est un arbre des galeries forestières et des forêts sèches guinéennes du Sénégal à l'Oubangui-Chari, mais que l'on rencontre parfois isolé en forêt dense humide (Côte d'Ivoire). Cette espèce n'est pas représentée dans notre herbier du Cameroun. D. macrocarpum est un grand arbre de forêt dense humide connu du Cameroun au Gabon. Sauf exception, chacune de ces 3 espèces correspond à un milieu différent. Elles sont morphologiquement très voisines.
-
-Au Gabon n'existe que le D. macrocarpum. Au Cameroun D. macrocarpum dans la forêt dense humide et D. micranthum dans les savanes boisées septentrionales.
+In Gabon only D. macrocarpum exists. In Cameroon D. macrocarpum in humid dense forest and D. micranthum in northern wooded savannas.
 
 ---
 
-1. Rameaux rougeâtres, très écailleux; grandes folioles coriaces, à sommet arrondi légèrement émarginé; inflorescences courtes, ramassées, très fleuries; ramifications des inflorescences tomenteuses; calice velu extérieurement; arbuste des savanes boissées; gros fruits comme des oranges, à pulpe comestible. D. microcarpum.
+1. Branches reddish, very scaly; large coriaceous leaflets, with rounded apex slightly emarginate; inflorescences short, compact, very floriferous; inflorescence branches tomentose; calyx villous externally; shrub of wooded savannas; large fruits like oranges, with edible pulp. D. microcarpum.
 
-1'. Rameaux lisses; folioles plus petites, minces, à sommet obtus; inflorescences lâchement fleuries, plus grandes extérieurement; ramifications des inflorescences tomenteuses; calice velu extérieurement; fruits petits comme des prunes, peu charnus, parfois comestiables, parfois toxiques; arbre de forêt dense sèche et de galeries forestières sur la périphérie du massif forestier guinéo-congolais.
+1'. Branches smooth; smaller leaflets, thin, with obtuse apex; inflorescences loosely floriferous, larger externally; inflorescence branches tomentose; calyx villous externally; fruits small like plums, scarcely fleshy, sometimes edible, sometimes toxic; tree of dry dense forest and forest galleries on the periphery of the Guineo-Congolian forest massif.
 
-1". Rameaux lisses; folioles minces, à sommet ordinairement nettement acuminé; ramifications des inflorescences glabres; inflorescences lâches, peu fleuries; calice extérieurement glabre; grand arbre de forêt dense humide à très gros fruits.....
+1". Branches smooth; thin leaflets, with apex ordinarily distinctly acuminate; inflorescence branches glabrous; inflorescences loose, sparsely floriferous; calyx externally glabrous; large tree of humid dense forest with very large fruits.....
 
 1. D. macrocarpum.
 

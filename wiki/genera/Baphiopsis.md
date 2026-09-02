@@ -19,47 +19,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaves unifoliolate, alternate. Flowers in short racemes or fasciculate. Bracteoles 2, small, caducous. Calyx entire in bud splitting irregularly into several reflexed lobes. Petals 6, subequal. Stamens 13–18 (–41) free or almost so, inserted around the ovary. Ovary sessile, with 2–5 ovules. Pods with ridged surface, 1–2 seeds.
 
-Arbres, arbustes. Feuilles unifoliolées, alternes. Fleurs en courts racèmes ou fasciculées. Bractéoles 2, petites, caduques. Calice entier dans le bouton se fendant irrégulièrement en plusieurs lobes réfléchis. Pétales 6, subégaux. Étamines 13-18 (-41) libres ou presque, insérées autour de l'ovaire. Ovaire sessile, à 2-5 ovules. Gousses à surface nervurée, 1-2 graines.
+A single species, B. parvifolia Benth. ex. Bak.
 
-Une espèce unique, B. parvifolia Benth. ex. Bak.
+(by: Frans J. BRETELER)
 
-(par : Frans J. BRETELER)
+Fl. trop. Afr. 2: 256 (1871).
 
-Fl. trop. Afr. 2 : 256 (1871).
+Trees or shrubs. Stipules early caducous. Leaves alternate, unifoliolate. Inflorescence with flowers in short racemes or sometimes ± fasciculate. Flowers: pedicel with 2 bracteoles opposite or alternate; calyx entire, ellipsoid, opening by a longitudinal fissure; petals 6, subequal, free, white; stamens 12–18(–41), free or almost so, inserted around the pistil; ovary sessile, with 2 to 5 ovules; style subulate, stigma small, capitate. Pod short, with ridged surface.
 
-Arbres ou arbustes. Stipules tôt caduques. Feuilles alternes, unifoliolées . Inflorescence à fleurs
+Monotypic genus, known from central Africa to Uganda, Tanzania and Angola.
 
-en courts racèmes ou parfois ± fasciculées. Fleurs : pédicelle à 2 bractéoles opposées ou
+Notes: In the main Floras of tropical Africa, this genus was for a long time placed in the subfamily Caesalpinioideae, including in Aubréville (1968). However, analyses of its pollen (Ferguson & Skvarla 1981), its macromorphology (Herendeen 1995) and its DNA (Pennington et al. 2001) demonstrate that Baphiopsis is better placed with Baphia, in the tribe Sophoreae, subfamily Papilionoideae.
 
-alternes ; calice entier , ellipsoïde, s’ouvrant par une fente longitudinale ; pétales 6, subé-
-
-gaux , libres, blancs ; étamines 12–18(–41) , libres ou presque , insérées autour du pistil ;
-
-ovaire sessile, avec 2 à 5 ovules ; style subulé, stigmate petit, capité. Gousse courte, à surface
-
-nervurée .
-
-Genre monospécifique, connu de l’ Afrique centrale jusqu’à l’Ouganda, la Tanzanie et l’An -
-
-gola.
-
-Notes : Dans les principales Flores de l’Afrique tropicale, ce genre fut longtemps placé dans la sous-
-
-famille des Caesalpinioideae, y compris chez Aubréville (1968). Pourtant les analyses de son pollen
-
-(Ferguson & Skvarla 1981), de sa macromorphologie (Herendeen 1995) et de son ADN (Pennington et
-
-al. 2001) démontrent que Baphiopsis est mieux placé avec Baphia , dans la tribu des Sophoreae, sous-
-
-famille des Papilionoideae.
-
-b : Aubréville (1968), Brenan (1967), Gilbert & Boutique (1952), Lewis et al. (2005), Pelle -
-
-ibliographie
-
-grin (1949).
+Bibliography: Aubréville (1968), Brenan (1967), Gilbert & Boutique (1952), Lewis et al. (2005), Pellegrin (1949).
 
 ## Species in region
 

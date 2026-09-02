@@ -17,27 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre inerme. Feuilles bipennées dépourvues de glandes. Pennes et folioles nombreuses. Stipules linéaires-lancéolées. Inflorescences en épis denses allongés, souvent réunis en panicules terminales.
+Unarmed tree. Leaves bipinnate lacking glands. Pinnae and leaflets numerous. Stipules linear-lanceolate. Inflorescences in dense elongated spikes, often united in terminal panicles.
 
 ---
 
-Fleurs ♠, pentamères, sessiles. Calice campanulé à lobes courts et larges. Pétales soudés en tube. Androcée à 10 pièces soudées entre elles et au tube de la corolle, étamines 5 alternipétales, staminodes 5 épipétales. Anthères et staminodes avec une glande sommitale. Ovaire sessile ou stipité ; style grêle à stigmate oblique.
+Flowers ♠, pentamerous, sessile. Calyx campanulate with short and broad lobes. Petals fused into a tube. Androecium with 10 parts fused to each other and to the corolla tube, stamens 5 alternipetalous, staminodes 5 epipetalous. Anthers and staminodes with an apical gland. Ovary sessile or stipitate; style slender with oblique stigma.
 
-Gousse ligneuse déhiscente à valves enroulées après déhiscence.
+Legume woody dehiscent with valves rolled up after dehiscence.
 
-Graines aplaties exalbuminées.
+Seeds flattened exalbuminous.
 
-ESPÈCE-TYPE : P. filamentosa Benth.
+TYPE SPECIES: P. filamentosa Benth.
 
-Ce genre tropical est américain et africain. Deux espèces sont pré-
+This tropical genus is American and African. Two species are present in the Cameroon-Congo domain.
 
-sentes dans le domaine camerouno-congolais.
+1. Leaflets broad; staminodes as long as the stamens; legume 50 cm long ..... 1. P. macrophylla.
 
-1. Folioles larges ; staminodes aussi longues que les étamines ; gousse longue de 50 cm ..... 1. P. macrophylla.
-
-1'. Folioles très étroites ; staminodes plus longues que les étamines ; gousse longue de 25 cm ..... 2. P. eetveldeana.
+1'. Leaflets very narrow; staminodes longer than the stamens; legume 25 cm long ..... 2. P. eetveldeana.
 
 ## Species in region
 

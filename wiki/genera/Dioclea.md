@@ -16,43 +16,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Humb., Bonpl. & Kunth, Nov. gen. sp. 6 : 437 (1824).
 
-Lianes (au Gabon) ou arbustes. Stipules persistantes à caduques, éperonnées . Feuilles im-
+Lianes (in Gabon) or shrubs. Stipules persistent or caducous, spurred. Leaves imparipinnate; stipels present; leaflets 3. Inflorescences terminal, in robust pseudoracemes; peduncles elongate; bracts persistent, exceeding the flowers. Flowers: calyx bilabiate, upper lip entire or with 2 short teeth, lower lip with 3 teeth, the median longer than the lateral ones; corolla violet or blue to purple or red, standard orbicular, erect, auriculate at base, wings obovate-oblong, keel obtuse and slightly rostrate; stamens 5 and staminodes 5, monadelphous, but the vexillary free at base, anthers dimorphic, alternately fertile and sterile; disk with 10 lobes; ovary subsessile, pauciovulate; style incurved, glabrous, stigma truncate, terminal. Pods oblong, subwoody, with 1 to 4 seeds, dehiscent into 2 valves, sutures with prominent ribs, septate between each seed. Seeds flattened, reniform; hilum long and narrow.
 
-paripennées ; stipelles présentes ; folioles 3 . Inflorescences terminales, en pseudoracèmes
+Genus of ± 40 species, most of tropical America, especially Brazil, ± 5 species widely distributed under the tropics of the Old World, of which 1 in Africa.
 
-robustes ; pédoncules allongés ; bractées persistantes, dépassant les fleurs. Fleurs : calice
+Bibliography
 
-bilabié, lèvre supérieure entière ou à 2 dents courtes , lèvre inférieure à 3 dents, la médiane
-
-plus longue que les latérales ; corolle violette ou bleue à pourpre ou rouge, étendard orbi -
-
-culaire, redressé, auriculé à la base, ailes obovales-oblongues, carène obtus et légèrement
-
-rostrée ; étamines 5 et staminodes 5, monadelphes, mais la vexillaire libre à la base, anthères
-
-dimorphes, alternativement fertiles et stériles ; disque à 10 lobes ; ovaire subsessile, pau -
-
-ciovulé ; style incurvé, glabre, stigmate tronqué, terminal. Gousses oblongues, subligneuses ,
-
-avec 1 à 4 graines, déhiscentes en 2 valves, sutures à côtes saillantes , cloisonnées entre
-
-chaque graine. Graines aplaties, réniformes ; hile long et étroit.
-
-Genre de ± 40 espèces, la plupart d’Amérique tropicale, surtout le Brésil, ± 5 espèces large -
-
-ment répandues sous les tropiques de l’Ancien Monde, dont 1 en Afrique.
-
-b : Hepper (1958), Pellegrin (1949), Lewis et al. (2005), van der Maesen (2006a), Robyns
-
-ibliographie
-
-(1954).
-
----
+b: Hepper (1958), Pellegrin (1949), Lewis et al. (2005), van der Maesen (2006a), Robyns (1954).
 
 ## Species in region
 

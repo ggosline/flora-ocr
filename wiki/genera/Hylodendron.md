@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large stipules sheathing, surrounding the young shoots, like those of Ficus and Irvingiaceae, caducous, opposite the leaves and leaving very distinct annular scars on the branches. Leaves imparipinnate with alternate leaflets, ‡ riddled with visible translucid dots ‡; 2 marginal veins joining at the base slightly above the margin; secondary veins branching near the margin and generally united to the marginal vein by their ramifications.
 
-Grandes stipules engainantes, entourant les jeunes pousses, comme celles des Ficus et des Irvingiacées, caduques, opposées aux feuilles et laissant de très nettes cicatrices annulaires sur les rameaux. Feuilles imparipennées à folioles alternes, ‡ criblées de points translucides ‡ visibles; 2 nervures marginales se rejoignant à la base un peu au-dessus de la marge; nervures secondaires ramifiées près de la marge et réunies généralement à la nervure marginale par leurs ramifications.
+Paniculate racemes. Flower buds scaly. Bracts broadly ovate, cordate, striated. Bracteoles linear, small, not enveloping the bud. Flowers distichous, pedicellate. Very short receptacle. Sepals 4, subvalvate. Petals 0. Stamens 10, free. Ovary sessile.
 
-Grappes paniculées. Bourgeons floraux écailleux. Bractées largement ovées, cordées, striées. Bractéoles linéaires, petites, n'enveloppant pas le bouton. Fleurs distiques, pédicellées. Très court réceptacle. Sépales 4, subvalvaires. Pétales o. Étamines 10, libres. Ovaire sessile.
+Fruits indehiscent, samaroid, a single seed located at the apex opposite the insertion, rarely 2 or more, transversely reticulate.
 
-Fruits indéhiscents, samaroïdes, une seule graine se trouvant à l'extrémité opposée à l'insertion, rarement 2 ou plus, transversalement réticulés.
+Type species: H. gabunense Taubert.
 
-Espèce type : H. gabunense Taubert.
-
-Genre guinéo-congolais, monospécifique.
-
----
+Guineo-Congolian genus, monospecific.
 
 ## Species in region
 

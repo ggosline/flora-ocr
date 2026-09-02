@@ -17,67 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or perennial herbs, subshrubs or shrubs, sometimes spiny; hairs white or golden. Stipules often caducous, membranous. Leaves paripinnate; stipelles present or absent; leaflets 16 to 40, opposite, with ± oblong limb and entire margin. Inflorescences axillary, in lax, pauciflorous racemes; bracts setaceous. Flowers: bracteoles setaceous; calyx campanulate, with 5 ± equal teeth; corolla yellow, white or red, with petals striate or punctate, unguiculate, standard large, suborbicular, with emar­ginate apex, the claw generally provided with appendages, wings oblong, keel incurved, obtuse; stamens 10, diadelphous, anthers ± uniform; ovary multi-ovulate, glabrous or rarely pubescent; style glabrous, incurved, stigma capitate, small. Pods linear, fairly cylindrical, winged or not, pendant or erect, with transverse septa between the numerous seeds. Seeds often ellipsoid; hilum median, circular to broadly elliptic.
 
-Herbes anuelles ou pérennes, sous-arbrisseaux ou arbustes, parfois épineux ; poils blancs ou
+Genus of ± 60 species, of which 30 in Africa and Madagascar, the others in Asia, northern Australia and tropical America; in Gabon, 3 species.
 
-dorés. Stipules souvent caduques, membraneuses. Feuilles paripennées ; stipelles présentes ou
+Notes: Few descriptions note the habit of the pods, pendant or erect, and in the herbarium this character is sometimes impossible to verify. Consequently, several species are difficult to separate and one is obliged to observe the appendages of the standard in order to determine the species with certainty.
 
-absentes ; folioles 16 à 40 , opposées, à limbe ± oblong et à marge entière. Inflorescences axil-
+We were unable to confirm the presence in Gabon of S. rostrata Bremek. & Oberm., mentioned in the key of the Flora of Equatorial Guinea as present in Cameroon and Gabon.
 
-laires, en racèmes lâches, pauciflores ; bractées sétacées. Fleurs : bractéoles sétacées ; calice
+**Bibliography**
 
-campanulé, à 5 dents ± égales ; corolle jaune, blanche ou rouge , à pétales striés ou ponc-
+De la Estrella et al. (2010), Gillett (1963, 1971c), Cronquist (1954), Lewis et al. (2005), Pellegrin (1949).
 
-tués, onguiculés, étendard grand, suborbiculaire, à sommet émarginé, l’onglet généralement
+### Key to the species
 
-pourvu d’appendices , ailes oblongues, carène incurvée, obtuse ; étamines 10, diadelphes,
+1. - Petals reaching 12 cm in length, white, pink or red; seed ± 7 mm in length; plant cultivated and sometimes escaped from cultivation ........................... S. grandiflora
 
-anthères ± uniformes ; ovaire multiovulé, glabre ou rarement pubescent ; style glabre, incurvé,
+- Petals reaching 1.7 cm in length, yellow; seed 3–4 mm in length; indigenous plants ......................................................................................................................... 2
 
-stigmate capité, petit. Gousses linéaires , assez cylindriques , ailées ou non, pendantes ou
+2. - Branchlets with silky pubescence; leaflets with limb scattered above with small black dots; appendages of the standard entirely adnate .................................................... S. sericea
 
-érigées , cloisonnées entre les nombreuses graines. Graines souvent ellipsoides ; hile médian,
-
-circulaire à largement elliptique.
-
-Genre à ± 60 espèces, dont 30 en Afrique et à Madagascar, les autres en Asie, l’Australie du
-
-Nord et l’Amérique tropicale , au Gabon, 3 espèces.
-
-Notes : Peu de descriptions notent le port des gousses, pendantes ou érigées, et dans l’herbier ce caractère
-
-est parfois impossible à vérifier. En conséquence, plusieurs espèces sont difficiles à séparer et on est
-
-obligé d’observer les appendices de l’étendard afin de déterminer l’espèce avec certitude.
-
-Nous n’avons pas pu confirmer la présence au Gabon de S. rostrata Bremek. & Oberm., mentionné dans
-
-la clé de la Flore de la Guinée équatoriale comme présente au Cameroun et Gabon.
-
-B : De la Estrella et al. (2010), Gillett (1963, 1971c), Cronquist (1954), Lewis et al. (2005),
-
-i B liographie
-
-Pellegrin (1949).
-
-### Clé des espèces
-
-1. - Pétales atteignant 12 cm de longueur, blancs, roses ou rouges ; graine ± 7 mm de
-
-longueur ; plante cultivée et parfois échappée de culture ........................... S. grandiflora
-
-- Pétales atteignant 1,7 cm de longueur, jaunes ; graine 3–4 mm de longueur ; plantes
-
-indigènes ......................................................................................................................... 2
-
-2. - Ramilles à pubescence soyeuse ; folioles à limbe parsemé dessus de petits points noirs ;
-
-appendices de l’étendard entièrement adnés .................................................... S. sericea
-
-- Ramilles glabres, parfois un peu épineuses ; folioles à limbe généralement sans points
-
-noirs ; appendices de l’étendard à sommet libre sur ± 2 mm .. S. sesban subsp. punctata
+- Branchlets glabrous, sometimes somewhat spiny; leaflets with limb generally without black dots; appendages of the standard with apex free for ± 2 mm .. S. sesban subsp. punctata
 
 ## Species in region
 

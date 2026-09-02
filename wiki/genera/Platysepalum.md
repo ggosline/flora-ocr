@@ -17,61 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs or lianas. Stipules caducous, small. Leaves imparipinnate, with opposite leaflets, stipellate. Inflorescences terminal and axillary, in panicles or pseudoracemes. Flowers: bracteoles 2, at the base of the calyx, persistent or caducous; calyx bilabiate, with short tube, the 2 upper lobes fused into an enlarged lip and ± as long as the standard, slightly emarginate, lower lobes 3, lanceolate-linear; petals approximately the same length, standard broadly obovate to broadly obcordate, with emarginate apex, with short claw, wings obtuse, auriculate and with short claw, often callose at the base, keel incurved, obtuse, with short auricle; stamens 10, diadelphous, the vexillar free from the base or fused towards the base, anthers uniform, versatile; ovary linear-lanceolate, sessile or with short gynophore, ± hairy, with 4 to 6 ovules; style slender, incurved, glabrous, stigma capitate, small. Pods linear-lanceolate to oblong, flattened, woody, tardily dehiscent, with 2 to 5 velvety seeds. Seeds lenticular.
 
-Arbres , arbustes ou lianes. Stipules caduques, petites. Feuilles imparipennées , à folioles
+Genus of tropical Africa with approximately 13 species distributed from Sierra Leone to Tanzania and Angola, of which 8 or 9 in the Democratic Republic of the Congo but poorly known; in Gabon, two species.
 
-opposées , stipellées. Inflorescences terminales et axillaires, en panicules ou pseudoracèmes.
+Notes: The species are quite rare and most deserve to be better studied.
 
-Fleurs : bractéoles 2, à la base du calice, persistantes ou caduques ; calice bilabié , à tube
+Bibliography
 
-court , les 2 lobes supérieurs soudés en une lèvre élargie et ± aussi longue que l’étendard ,
+B: Geesink (1984), Gillett (1960b, 1971d), Hauman (1954a), Lewis et al. (2005), van der Maesen (2010), Pellegrin (1949).
 
-légèrement émarginée, lobes inférieurs 3, lancéolés-linéaires ; pétales à peu près de même
+### Key to species
 
-longueur, étendard largement obovale à largement obcordé, à sommet émarginé, à onglet
+1. – Leaflets with green blade and yellowish veins beneath, with narrowly acuminate apex; upper lip of calyx 12–15 mm in length; standard ± 15 mm in length
 
-court, ailes obtuses, auriculées et à onglet court, souvent calleux à la base, carène incurvée,
+............................................................................................ P. violaceum var. vanhouttei
 
-obtuse, à auricule court ; étamines 10, diadelphes , la vexillaire libre dès la base ou soudée
-
-vers la base, anthères uniformes , versatiles ; ovaire linéaire-lancéolé, sessile ou à gynophore
-
-court, ± velu, avec 4 à 6 ovules ; style grêle, incurvé, glabre, stigmate capité, petit. Gousses
-
-linéaires-lancéolées à oblongues , aplaties, ligneuses, tardivement déhiscentes, avec 2 à 5
-
-graines, veloutées. Graines lenticulaires.
-
-Genre de l’Afrique tropicale à environ 13 espèces répandues de la Sierra Léone à la Tanzanie
-
-et l’Angola, dont 8 ou 9 en République démocratique du Congo mais mal connues ; au Gabon,
-
-deux espèces.
-
-Notes : Les espèces sont assez rares et la plupart mérite d’être mieux étudiée.
-
-B : Geesink (1984), Gillett (1960b, 1971d), Hauman (1954a), Lewis et al. (2005), van der
-
-i B liographie
-
-Maesen (2010), Pellegrin (1949).
-
-### Clé des espèces
-
-1. - Folioles à limbe vert et nervures jaunâtres dessous, à sommet étroitement acuminé ;
-
-lèvre supérieure du calice 12–15 mm de longueur ; étendard ± 15 mm de longueur
-
----
-
-............................................................................................. P. violaceum var. vanhouttei
-
-- Folioles à limbe vert-gris et nervures brunes dessous, à sommet arrondi ou muni d’un
-
-acumen large et court ; lèvre supérieure du calice 15–27 mm de longueur ; étendard
-
-± 24 mm de longueur ................................................................................ P. bambidiense
+– Leaflets with green-grey blade and brown veins beneath, with rounded apex or with a broad and short acumen; upper lip of calyx 15–27 mm in length; standard ± 24 mm in length .............................................................................. P. bambidiense
 
 ## Species in region
 

@@ -17,19 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaves with 2-4 pairs of leaflets generally opposite. Short axillary racemes, often on old wood. Bracts small, caducous. Bracteoles small, not involucral. Calyx tubular with 4 broad imbricate lobes. Petals 5, subequal. Stamens 10 with filaments sometimes slightly connate at the base. Ovary stipitate with stipe connate to the edge of the calyx tube. Fruits elliptic or oblong, flattened, with smooth surface, slightly nerved.
 
-Arbres, arbustes. Feuilles à 2-4 paires de folioles généralement opposées. Grappes axillaires courtes, souvent sur le vieux bois. Bractées petites, caduques. Bractéoles petites, non involucrales. Calice tubulaire à 4 larges lobes imbriqués. Pétales 5, subégaux. Étamines 10 à filets parfois un peu soudés à la base. Ovaire stipité à stipe soudé jusqu'au bord du tube du calice. Fruits elliptiques ou oblongs, aplatis, à surface lisse, légèrement nervurée.
+Type species: Leonardoxa africana (Baill.) Aubr.
 
-Espèce type : Leonardoxa africana (Baill.) Aubr.
+Three Guineo-Congolian species, one in southern Cameroon and two in Congo. Two species in Gabon.
 
-Trois espèces guinéo-congolaises, une au sud du Cameroun et deux au Congo. Au Gabon deux espèces.
+1. Acumen not emarginate; rachis not canaliculate; secondary venation in prominent arcs; sepals 5-6 mm..... 1. L. africana.
 
-1. Acumen non émarginé; rachis non canaliculé; nervation secondaire en arceaux proéminents; sépales de 5-6 mm..... 1. L. africana.
-
-1'. Acumen émarginé; rachis canaliculé; nervation secondaire peu accentuée; sépales de 0,5 - 1,4 cm…… 2. L. Bequaertii.
-
----
+1'. Acumen emarginate; rachis canaliculate; secondary venation not pronounced; sepals 0.5-1.4 cm…… 2. L. bequaertii.
 
 ## Species in region
 

@@ -17,69 +17,65 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(par Frans J. BRETELER)
+(by Frans J. BRETELER)
 
 Bull. Misc. Inform. Kew 1910 : 386 (1910).
 
-Lianes ou arbustes plus ou moins sarmenteux. Feuilles imparipennées ; stipelles présentes ;
+Lianes or more or less sarmentose shrubs. Leaves imparipinnate; stipels present;
 
-folioles opposées . Inflorescences terminales ou axillaires, en panicules lâches, parfois spi -
+leaflets opposite. Inflorescences terminal or axillary, in lax panicles, sometimes spiciform,
 
-ciformes, composées de pseudoracèmes , réunis sur des axes primaires longs ; bractées
+composed of pseudoracemes, united on long primary axes; bracts caducous, very reduced or
 
-caduques, très réduites ou parfois ± longues . Fleurs courtement pédicellées ou parfois
+sometimes ± long. Flowers shortly pedicellate or sometimes subsessile; bracteoles caducous,
 
-subsessiles ; bractéoles caduques, ovales à subulées, souvent minuscules ; calice ± campanulé
+ovate to subulate, often minute; calyx ± campanulate or infundibuliform to ± tubular, with
 
-ou infundibuliforme à ± tubulaire, avec 5 courtes dents deltoïdes, les deux supérieures rap -
+5 short deltoid teeth, the two upper ones approximate and ± long fused; petals glabrous or
 
-prochées et ± longuement soudées ; pétales glabres ou à poils épars, surtout sur les marges
+with scattered hairs, especially on the apical margins, unguiculate, standard oblong-obovate-
 
-apicales, onguiculés, étendard oblong-obovale-elliptique, avec ou sans auricules, ailes oblon-
+elliptic, with or without auricles, wings oblong, oblique or not, often adhering to the incurved
 
-gues, obliques ou non, souvent adhérentes à la carène incurvée ou non et à pétales cohé -
+or not keel and to petals coherent dorsally; stamens monadelphous or the vexillary partially
 
-rents dorsalement ; étamines monadelphes ou la vexillaire partiellement libre , anthères
+free, anthers versatile; ovary ± sessile, pubescent, with 1 to 3 ovules; style filiform, incurved,
 
-versatiles ; ovaire ± sessile, pubescent, avec 1 à 3 ovules ; style filiforme, incurvé, stigmate
+stigma punctiform. Pods indehiscent, oblong to elliptic, flattened, with 1 or 2 seeds,
 
-punctiforme. Gousses indéhiscentes , oblongues à elliptiques, aplaties, avec 1 ou 2 graines ,
+membranous, narrowly winged along the dorsal suture or not. Seeds flattened.
 
-membraneuses, étroitement ailées le long de la suture dorsale ou non. Graines aplaties.
+African genus comprising approximately 20 species, especially from West and Central Africa, 2
 
-Genre africain comprenant environ 20 espèces, surtout de l’Afrique de l’Ouest et Centrale, 2
+species in the Zambesian region, 1 species in the Zanzibar-Inhambane region; in Gabon,
 
-espèces dans la région Zambésienne, 1 espèce dans la région Zanzibar-Inhambane ; au Gabon,
+11 species of which 2 endemic.
 
-11 espèces dont 2 endémiques.
+Notes: The Flora of Equatorial Guinea (Velayos et al. 2010) treats L. ledermannii Harms, although
 
-Notes : La Flore de la Guinée équatoriale (Velayos et al. 2010) traite L. ledermannii Harms, bien que
-
-cette espèce fut décrite de l’Ouest du Cameroun. Mais, selon nous, les spécimens cités se rapportent à
+this species was described from West Cameroon. But, in our opinion, the specimens cited refer to
 
 ---
 
-Fleur épanouie, bractée et bractéoles (× 5). – 4. Fleur épanouie, coupe longitudinale (× 5). – 5. Calice
+Open flower, bract and bracteoles (× 5). – 4. Open flower, longitudinal section (× 5). – 5. Calyx
 
-étalé, face interne (× 3). – 6. Étendard étalé, face interne (× 5). – 7. Aile, face externe (× 5). – 8. Carène
+spread out, internal face (× 3). – 6. Standard spread out, internal face (× 5). – 7. Wing, external face (× 5). – 8. Keel
 
-étalée, face interne (× 5). – 9. Androcée et gynécée (× 5). – 10. Gousse (× 5). (1, 10 : Mullenders 920 ;
+spread out, internal face (× 5). – 9. Androecium and gynoecium (× 5). – 10. Pod (× 5). (1, 10 : Mullenders 920 ;
 
-2–9 : Quarré 1814 ). Dessin par J.M. Lerinckx, Jardin Botanique Meise (©).
+2–9 : Quarré 1814). Drawing by J.M. Lerinckx, Meise Botanic Garden (©).
 
 ---
 
-L. aurantiaca Dunn. Le traitement de L. ledermannii dans Flora of West Tropical Africa (Hepper 1958)
+L. aurantiaca Dunn. The treatment of L. ledermannii in Flora of West Tropical Africa (Hepper 1958)
 
-ne se conforme pas complètement aux caractères donnés par Harms, surtout en ce qui concerne le nombre
+does not conform completely to the characters given by Harms, especially with respect to the number
 
-des nervures latérales des folioles et la longueur des stipelles. La situation reste douteuse.
+of lateral veins of the leaflets and the length of the stipels. The situation remains doubtful.
 
-Le traitement de ce genre pour la Flore du Gabon a été exécuté à l’échelle africaine et sur la base d’un
+The treatment of this genus for the Flora of Gabon was executed on the African scale and on the basis of a
 
-nombre d’échantillons beaucoup plus élevé qu’antérieurement, comme dans la Flore du Congo Belge et
+much higher number of specimens than previously, as in the Flora of the Belgian Congo and
 
 ## Species in region
 

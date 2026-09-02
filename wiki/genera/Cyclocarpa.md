@@ -17,37 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes annuelles, érigées ou étalées, de petite taille . Stipules lancéolées, éperonnées, mem-
-
-braneuses. Feuilles paripennées , subsessiles ; stipelles absentes ; folioles en (1–)2 à 4(–5)
-
-paires . Inflorescences axillaires, sous forme de petits racèmes ombelliformes avec 1 à 4
-
-fleurs . Fleur : calice bilabié, tube ± nul, lobe supérieur entier ou presque, l’inférieur entier ou
-
-trifide ; corolle jaune , aussi longue que le calice ; étamines 10, diadelphes (9 + 1), la vexillaire
-
-libre, les autres soudées à moitié, en 2 faisceaux de 4 et 5, anthères égales ; ovaire sessile,
-
-aplati, pluriovulé ; style recourbé, stigmate grêle, terminal. Gousses sessiles, courbées en
-
-cercle ou en spirale , en plusieurs articles deltoïdes , déhiscents. Graines triangulaires-réni-
-
-formes ; strophiole absente.
+Annual herbs, erect or spreading, of small stature. Stipules lanceolate, spurred, membranous. Leaves paripinnate, subsessile; stipels absent; leaflets in (1–)2 to 4(–5) pairs. Inflorescences axillary, in the form of small umbelliform racemes with 1 to 4 flowers. Flower: calyx bilabiate, tube ± null, upper lobe entire or nearly so, the lower entire or trifid; corolla yellow, as long as the calyx; stamens 10, diadelphous (9 + 1), the vexillar free, the others fused halfway, in 2 fascicles of 4 and 5, anthers equal; ovary sessile, flattened, polyovulate; style curved, stigma slender, terminal. Pods sessile, curved in a circle or spiral, in several deltoid, dehiscent articles. Seeds triangular-reniform; strophiole absent.
 
 ---
 
-Genre monotypique paléotropicale : en Afrique, de la Guinée-Bissau jusqu’à la République
+Monotypic paleotropical genus: in Africa, from Guinea-Bissau to the Democratic Republic of the Congo and to the south, towards Malawi and Mozambique; also in Asia and Australia.
 
-démocratique du Congo et au Sud, vers le Malawi et le Mozambique ; aussi en Asie et en
+b: Léonard (1954b), Pellegrin (1949), Verdcourt (1971a, 1971f, 1974, 2000).
 
-Australie.
-
-b : Léonard (1954b), Pellegrin (1949), Verdcourt (1971a, 1971f, 1974, 2000).
-
-ibliographie
+ibliography
 
 ## Species in region
 

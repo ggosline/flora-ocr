@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs with stipules that may be spinose, most often caducous. Leaves with rachis and pinnae bearing glands; leaflets opposite. Inflorescence in axillary capitulum; with 2 types of flowers. Flower ♢; apical flower often larger. Calyx tubular. Corolla with petals connate. Stamens numerous with filaments connate into a tube; anthers without gland. Ovary with few ovules. Fruit a moniliform legume, fragmenting. Seeds areolate.
 
-Arbres ou arbustes à stipules pouvant être épineuses, le plus souvent caduques. Feuilles à rachis et pennes avec glandes; folioles opposées. Inflorescence en capitale axillaire; avec 2 types de fleurs. Fleur ♢; fleur sommitale souvent plus grande. Calice tubuleux. Corolle à pétales soudés. Étamines nombreuses à filets soudés en tube; anthères sans glande. Ovaire à ovules peu nombreux. Fruit en gousse moniliforme, se fragmentant. Graines aréolées.
+TYPE SPECIES: C. moniliforme (DC.) Merrill.
 
-ESPÈCE-TYPE : C. moniliforme (DC.) Merrill.
-
-Ce genre regroupe une douzaine d'espèces tropicales. Une seule est présente au Gabon.
+This genus comprises about a dozen tropical species. Only one is present in Gabon.
 
 ## Species in region
 

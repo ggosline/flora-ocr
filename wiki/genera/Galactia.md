@@ -17,37 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, prostrate or climbing, or erect suffrutices. Stipules caducous, small.
 
-Herbes vivaces, prostrées ou grimpantes, ou suffrutex érigés. Stipules caduques, petites.
+Leaves imparipinnate; stipels very small; leaflets 1 to 7, with oblong blade, emarginate at apex. Inflorescences axillary, pedunculate, with flowers in small fascicles (sometimes solitary lower on the plant) or in loose, pauciflorous pseudoracemes. Flowers: bracteoles generally persistent, inserted below the calyx, small; calyx campanulate, with 4 unequal lobes (2 upper lobes united); corolla white to violet or yellowish, standard ± auriculate or with inflexed margins at base, wings rectilinear, auriculate and ± adherent to the keel at base; stamens 10, diadelphous, the vexillary one free or sometimes slightly fused to the others, anthers equal; ovary with numerous ovules; style glabrous. Pods subsessile, linear, flattened, with ± 7 small seeds. Seeds with central, elliptic hilum.
 
-Feuilles imparipennées ; stipelles très petites ; folioles 1 à 7, à limbe oblong, à sommet
+Genus of 55 to 60 species, mainly American, of which 2 in Africa, 2 in Australia and 6 in Asia; in Gabon, one species.
 
-émarginé. Inflorescences axillaires, pédonculés, à fleurs en petits fascicules (parfois solitaires
+b: Mackinder et al. (2001), de Queroz et al. (2003), Robyns (1954), Verdcourt (1971c).
 
-plus bas sur la plante) ou en pseudoracèmes lâches et pauciflores. Fleurs : bractéoles géné-
-
-ralement persistantes, insérées sous le calice , petites ; calice campanulé, à 4 lobes inégaux
-
-(2 lobes supérieurs réunis) ; corolle blanche à violette ou jaunâtre, étendard ± auriculé ou
-
-à bords infléchis à la base, ailes rectilignes, auriculées et ± adhérentes à la carène à la base ;
-
-étamines 10, diadelphes, la vexillaire libre ou parfois légèrement soudée aux autres, anthères
-
-égales ; ovaire à nombreu x ovules ; style glabre. Gousses subsessiles, linéaires, aplaties, à
-
-± 7 petites graines. Graines à hile central, elliptique.
-
-Genre de 55 à 60 espèces, surtout américaine, dont 2 en Afrique, 2 en Australie et 6 en Asie ;
-
-au Gabon, une espèce.
-
-b : Mackinder et al . (2001), de Queroz et al. (2003), Robyns (1954), Verdcourt (1971c).
-
-ibliographie
-
----
+Bibliography
 
 ## Species in region
 

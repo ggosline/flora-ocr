@@ -17,43 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect shrubs or climbing or prostrate herbs, perennial or sometimes annual, with variable pubescence. Stipules small. Leaves pinnate; stipelles very small or absent; leaflets 3, with lamina covered in vesicular glands, herbaceous to chartaceous. Inflorescences axillary and terminal, in pseudoracemes; bracts caducous. Flowers: bracteoles absent; calyx with elongate-acuminate teeth, the 2 upper ones ± connate; corolla generally yellow, sometimes the standard striped with red or dorsally red, standard obovate to orbicular, reflexed, unguiculate, with auriculate base, wings oblique-obovate, with auriculate base, keel oblique-rounded, obtuse; stamens 10, diadelphous (9 + 1), anthers uniform; ovary subsessile, with (2–)3 to 10 ovules; style swollen, glabrous or sparsely hairy in the upper half; stigma capitate. Pod linear-oblong, with constrictions between the seeds oblique to the suture, with obtuse or acute apex. Seeds reniform to suborbicular, brown or black to white and cream, variegated or not, with prominent or vestigial strophiole.
 
-Arbustes érigés ou herbes grimpantes ou prostrées , pérennes ou parfois annuelles, à pubes -
+Genus of 34 palaeotropical species, 16 in Asia and 15 endemic to Australia, one species endemic to West Africa, one wild species and one cultivated species widely dispersed by man in tropical regions.
 
-cence variable. Stipules petites. Feuilles pennées ; stipelles très petites ou absentes ; folioles
+Bibliography
 
-3 , à limbe couvert de glandes vésiculeuses , herbacé à chartacé. Inflorescences axillaires et
-
-terminales, en pseudoracèmes ; bractées caduques. Fleurs : bractéoles absentes ; calice à dents
-
-allongés-acuminés, les 2 supérieures ± soudées ; corolle généralement jaune , parfois l’éten-
-
-dard strié de rouge ou dorsalement rouge, étendard obovale à orbiculaire, réfléchi, onguiculé,
-
-à base auriculée, ailes obliques-obovales, à base auriculée, carène oblique-arrondie, obtuse ;
-
-étamines 10, diadelphes (9 + 1), anthères uniformes ; ovaire subsessile, avec (2–)3 à 10
-
-ovules ; style renflé, glabre ou peu poilu dans la moitié supérieure ; stigmate capité. Gousse
-
-linéaire-oblongue , à constrictions entre les graines obliques à la suture, à sommet obtus ou
-
-aigu. Graines réniformes à suborbiculaires , brunes ou noires à blanches et crème, panachées
-
-ou non, à strophiole saillante ou vestigiale .
-
-Genre de 34 espèces palaeotropiques, 16 en Asie et 15 endémiques en Australie, une espèce
-
-endémique en Afrique de l’Ouest, une espèce sauvage et une espèce cultivée et largement
-
-dispersée par l’homme en régions tropicales.
-
-b : Hauman (1954c), Lewis et al. (2005), Pellegrin (1949), van der Maesen (1986).
-
-ibliographie
-
----
+b: Hauman (1954c), Lewis et al. (2005), Pellegrin (1949), van der Maesen (1986).
 
 ## Species in region
 

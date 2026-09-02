@@ -17,8 +17,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Gumifera RAF., Sylv. Tell.: 118 (1838).
 
 - Poponax RAF., l.c.: 118 (1838).
@@ -69,29 +67,27 @@ tags: [genus, generated]
 
 – Dugandia BRITT. & KILL., Ann. New York Acad. Sci. 35: 137 (1936).
 
-Arbres, arbustes, arbrisseaux, parfois lianes, souvent épineux. Stipules épineuses présentes ou absentes. Feuilles alternes, bipennées, pauci- à multifoliolées, parfois réduites au pétiole (phyllode). Inflorescence en épis, épis capituliformes, solitaires ou fasciculés, en panicule. Fleurs actinomorphes, le plus souvent ♂, tetra- ou pentamères. Calice, à sépales soudés et valvaires. Corolle à pétales valvaires, libres ou soudés. Étamines nombreuses, libres ou soudées à la base. Ovaire à nombreux ovules. Gousse très variable en forme, papyracée à charnue, déhiscente ou indéhiscente.
+Trees, shrubs, subshrubs, sometimes lianes, often spiny. Stipules spiny, present or absent. Leaves alternate, bipinnate, few- to multifoliolate, sometimes reduced to the petiole (phyllode). Inflorescence in spikes, capitate spikes, solitary or fasciculate, in panicles. Flowers actinomorphic, most often ♂, tetramerous or pentamerous. Calyx with sepals fused and valvate. Corolla with valvate petals, free or fused. Stamens numerous, free or fused at the base. Ovary with numerous ovules. Pod highly variable in form, papyraceous to fleshy, dehiscent or indehiscent.
 
-ESPÈCE-TYPE : A. arabica Willd.
+TYPE SPECIES: A. arabica Willd.
 
-Ce genre regroupe environ 900 espèces surtout en Océanie. Au Gabon 5 espèces sont présentes.
+This genus comprises approximately 900 species especially in Oceania. In Gabon 5 species are present.
 
-1. Épines éparses sur les axes et sous les feuilles ; lianes.
+1. Spines scattered on the axes and beneath the leaves; lianes.
 
-2. Pétiole, rachis et axe des pennes pubescents ou pubérulents.
+2. Petiole, rachis and axis of pinnae pubescent or puberulent.
 
-4. Rachis avec glande au sommet ; corolle glabre ..... 1. A. kamerunensis.
+4. Rachis with gland at the apex; corolla glabrous ..... 1. A. kamerunensis.
 
-4. Rachis dépourvu de glande au sommet ; corolle pubescente. 2. A. ciliolata.
+4. Rachis lacking gland at the apex; corolla pubescent. 2. A. ciliolata.
 
-3. Pennes 2-3 paires ..... 3. A. lujae.
+3. Pinnae 2-3 pairs ..... 3. A. lujae.
 
-2'. Pétiole, rachis et axe des pennes faiblement pubescents à glabres .....
+2'. Petiole, rachis and axis of pinnae weakly pubescent to glabrous .....
 
 .....4. A. pentagona.
 
-l'. Épines stipulaires seulement présentes ; arbuste ..... 5. A. spadicigera.
-
----
+1'. Stipular spines only present; shrub ..... 5. A. spadicigera.
 
 ## Species in region
 

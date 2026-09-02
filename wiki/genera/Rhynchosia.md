@@ -17,71 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial climbing herbs (outside Gabon, also lianes or erect herbs). Stipules ovate to lanceolate, striate. Leaves 3-foliolate (unifoliolate species absent from Gabon); stipels subulate or minute; leaflets with blade bearing vesiculate glands, punctate beneath and sometimes also above, sometimes obscure. Inflorescences in axillary and elongate racemes or sometimes dense and capitate; bracts present. Flowers: bracteoles absent; calyx campanulate, with acute to oblong lobes, imbricate or valvate, the 2 upper ones ± united; corolla included or exsert, standard obovate to broadly obovate, auriculate at base, appendages absent or very reduced, with cupulate claw, wings narrow, obtuse, auriculate, keel incurved; stamens 10, diadelphous, anthers uniform; ovary subsessile, hirsute to villous, 2-ovulate; style filiform, glabrous, stigma capitate, small. Pods oblong to oblanceolate, ± flattened, straight or ± partitioned between the (1–)2 seeds, with rostrate apex, pubescent and glandular. Seeds reniform to broadly ellipsoid, brown to blackish or bright metallic blue, with strophiole prominent or not; hilum lateral, never more than ¼ of the seed circumference.
 
-Herbes pérennes grimpantes (hors du Gabon, aussi lianes ou herbes dressées). Stipules ovales
+Genus of approximately 250 pantropical species, 140 in Africa and Madagascar, especially in savanna regions; in Gabon, 5 species, but several others are probably not yet discovered there.
 
-à lancéolées, striées. Feuilles 3-foliolées (espèces unifoliolées absentes du Gabon) ; stipelles
+Notes: One might expect to find R. pycnostachya in Gabon, known from Cameroon and Bioko, for which reason it is included in the treatment below. R. minima (L.) DC., a pantropical and subtropical species, is also to be sought in Gabon. It is a herbaceous plant with a woody taproot, with leaflets having rather small blade, orbicular to ovate or rhomboidal, 0.7–5 × 0.5–4 cm and yellow flowers 4–8 mm in length.
 
-subulées ou minuscules ; folioles à limbe pourvu de glandes vésiculeuses, ponctuées dessous
+The genus has been divided into several sections and series. In Gabon, the species all belong to section Cyanospermum (Wight & Arn.) Benth. (pod with grey-velvety valves and shining, blue seeds), except R. densiflora whose position remains uncertain.
 
-et parfois aussi dessus, parfois obscures. Inflorescences en racèmes axillaires et allongés ou
+Bibliography
 
-parfois denses et capituliformes ; bractées présentes. Fleurs : bractéoles absentes ; calice
+B: De la Estrella et al. (2010), Fortunato (2000), Grear (1978), Hauman (1954c), Lewis et al. (2005), Mackinder et al. (2001), Pellegrin (1949), Verdcourt (1971c).
 
-campanulé, à lobes aigus à oblongs, imbriqués ou valvés, les 2 supérieurs ± unis ; corolle
+### Key to species
 
-incluse ou exserte , étendard obovale à largement obovale, auriculé à la base, appendices
-
-absents ou très réduits, à onglet cupulé, ailes étroites, obtuses, auriculées, carène incurvée ;
-
-étamines 10, diadelphes, anthères uniformes ; ovaire subsessile, hirsute à velu, 2-ovulé ;
-
-style filiforme, glabre, stigmate capité, petit. Gousses oblongues à oblancéolées , ± aplaties,
-
----
-
-droites ou ± cloisonnées entre les (1–)2 graines, à sommet rostré , pubescentes et glandu-
-
-leuses. Graines réniformes à largement ellipsoïdes, brunes à noirâtres ou bien d’un bleu
-
-métallique luisant , à strophiole saillante ou non ; hile latéral, jamais plus du ¼ de la circon-
-
-férence de la graine.
-
-Genre d’environ 250 espèces pantropicales, 140 en Afrique et Madagascar, surtout dans les
-
-régions de savanes ; au Gabon, 5 espèces, mais plusieurs autres n’y sont probablement pas
-
-encore découvertes.
-
-Notes : On pourrait attendre au Gabon R. pycnostachya , connue du Cameroun et de Bioko, raison pour
-
-laquelle elle est inclue dans le traitement ci-dessous. R. minima (L.) DC., espèce pantropicale et subtro-
-
-picale, est aussi à rechercher au Gabon. C’est une herbacée à racine pivotante et ligneuse, avec folioles à
-
-limbe assez petit, orbiculaire à ovale ou rhomboïdal, de 0,7–5 × 0,5–4 cm et des fleurs jaunes de 4–8 mm
-
-de longueur.
-
-Le genre a été divisé en plusieurs sections et séries. Au Gabon, les espèces appartiennent toutes à la
-
-section Cyanospermum (Wight & Arn.) Benth. (gousse à valves grises-vélutineuses et graines brillantes,
-
-bleues), sauf R. densiflora dont la position reste incertaine.
-
-B : De la Estrella et al. (2010), Fortunato (2000), Grear (1978), Hauman (1954c), Lewis et
-
-i B liographie
-
-al. (2005), Mackinder et al. (2001), Pellegrin (1949), Verdcourt (1971c).
-
-### Clé des espèces
-
-1. - Herbe grimpante assez délicate, à tige grêle ; racème subsessile, dense, capituliforme ;
-
-corolle jaune ; graine brun-rouge à taches noires ou presque noires
+1. - Fairly delicate climbing herb, with slender stem; raceme subsessile, dense, capitate; corolla yellow; seed reddish-brown with black or nearly black spots
 
 ................................................................................................. R. densiflora subsp. debilis
 

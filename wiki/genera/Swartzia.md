@@ -17,23 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaves alternate. Leaflets opposite or alternate. Bracteoles caducous. Calyx initially entire and globose, then tearing irregularly into lobes that are reflexed or spreading. Petal solitary, orbicular. Stamens very numerous, free or almost, hypogynous; anthers fixed near the base, with longitudinal dehiscence. Ovary long-stipitate, multilocular. Pods indehiscent, cylindrical, ± bosselated, coriaceous or woody, with numerous seeds separated by septa.
 
-Arbres, arbustes. Feuilles alternes. Folioles opposées ou alternes. Bractéoles caduques. Calice d'abord entier et globuleux, puis se déchirant irrégulièrement en lobes qui se réfléchissent ou s'étalent. Pétale unique, orbiculaire. Étamines très nombreuses, libres ou presque, hypogynes; anthères fixées vers la base, à déhiscence longitudinale. Ovaire longuement stipité, multioulé. Gousses indéhiscentes, cylindriques, ‡ bosselées, coriaces ou ligneuses, à nombreuses graines séparées par des septa.
+Type species: S. alata Willdenow Sp. Pl. 2 : 1220 (1800), Guyana.
 
-Espèce type : S. alata Willdenow Sp. Pl. 2 : 1220 (1800), Guyane.
+The genus comprises a very large number of species in tropical America (100–120), and only two in tropical Africa. One is a shrubby species very widely distributed in semi-arid tropical Africa of open forests and wooded savannas, the other is exclusive to certain domains of the humid dense forest of the Guineo-Congolian region. They are easily separated by the form of the leaflets.
 
-Le genre compte de très nombreuses espèces en Amérique tropicale (100-120), et deux seulement en Afrique tropicale. L'une est une espèce arbustive très largement répandue dans l'Afrique tropicale semi-aride des forêts claires et des savanes
+1. Leaflets ovate, acuminate ..... 1. S. fistuloides.
 
----
-
----
-
-boisées, l'autre est exclusive de certains domaines de la forêt dense humide guinéo-congolaise. Elles se séparent aisément par la forme des folioles.
-
-1. Folioles ovées, acuminées ..... 1. S. fistuloides.
-
-1'. Folioles elliptiques-oblongues, à sommet arrondi et un peu émarginé..
+1'. Leaflets elliptic-oblong, with rounded apex and slightly emarginate..
 
 S. madagascariensis.
 

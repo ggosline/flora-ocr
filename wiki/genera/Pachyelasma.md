@@ -17,13 +17,11 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees. Large bipinnate leaves, with 2–5 pairs of pinnules. Inflorescences in spikes, solitary or fasciculate. Receptacle cupuliform. Sepals 5, imbricate. Petals 5, imbricate. Stamens 10, free. Ovary shortly stipitate, inserted at the base of the receptacle, 15–20 ovules in 2 rows.
 
-Grands arbres. Grandes feuilles bipennées, à 2-5 paires de pinnules. Inflorescences en épis, solitaires ou fasciculées. Réceptacle cupuliforme. Sépales 5, imbriqués. Pétales 5, imbriqués. Étamines 10, libres. Ovaire courtement stipité, inséré au fond du réceptacle, 15-20 ovules sur 2 rangs.
+Large woody pods, oblong-lanceolate, compressed, thick, with subrectangular section, with 4 prominent ridges reinforcing the sutures, with transverse partitions. Seeds albuminous.
 
-Grandes gousses ligneuses, oblongues lancéolées, comprimées, épaisses, à section subrectangulaire, à 4 crêtes saillantes renforçant les sutures, à cloisons transversales. Graines albuminées.
-
-Genre monospécifique.
+Monotypic genus.
 
 ## Species in region
 

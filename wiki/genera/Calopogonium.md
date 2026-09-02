@@ -17,41 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes , souvent grimpantes, ou lianes, densément poilus. Stipules persistantes, petites. Feuilles
-
-pennées ; stipelles présentes ; folioles 3 , à limbe ovale. Inflorescences axillaires, en pseudo -
-
-racèmes généralement longuement pédonculés ; bractées caduques. Fleurs petites ; bractéoles
-
-caduques ; calice campanulé, 5-lobé, les 2 dents supérieures libres ou partiellement unies ;
-
-corolle bleue ou violacée ou rarement blanche, étendard obovale, auriculé à la base ; étamines
-
-diadelphes (9 + 1), anthères uniformes ; ovaire sessile, pluriovulé ; style subulé, incurvé, glabre
+Herbs, often climbing, or lianes, densely hairy. Stipules persistent, small. Leaves pinnate; stipelles present; leaflets 3, with ovate blade. Inflorescences axillary, in pseudo-racemes generally with long peduncles; bracts caducous. Flowers small; bracteoles caducous; calyx campanulate, 5-lobed, the 2 upper teeth free or partially united; corolla blue or violet or rarely white, standard obovate, auriculate at the base; stamens diadelphous (9 + 1), anthers uniform; ovary sessile, pluriovulate; style subulate, incurved, glabrous
 
 ---
 
-Gousses. – 10. Graine, côté ventrale. – 11. Graine, côté latérale. – 12. Plantule. – 13. Détail de l’indument
-
-des folioles, vue en profil. – 14. Idem, vue du haut. Dessin par P. Verhey-Hayes & Ike Zewald, Naturalis
-
-Biodiversity Center (©).
+Pods. – 10. Seed, ventral side. – 11. Seed, lateral side. – 12. Seedling. – 13. Detail of the indumentum of the leaflets, profile view. – 14. Idem, dorsal view. Drawing by P. Verhey-Hayes & Ike Zewald, Naturalis Biodiversity Center (©).
 
 ---
 
-ou pubescent, stigmate capité. Gousses déhiscentes, linéaires ou oblongues, ± comprimée s,
+or pubescent, stigma capitate. Pods dehiscent, linear or oblong, ± compressed, turgid above the seeds. Seeds compressed-globose or oblong.
 
-turgides au-dessus des graines. Graines comprimées-globuleuses ou oblongues.
+Genus of 5 or 6 species from tropical America, from Mexico to Argentina; with one species very widespread in tropical regions, including Gabon.
 
-Genre de 5 ou 6 espèces d’Amérique tropicale, du Mexique à l’Argentine ; avec une espèce très répandue
+b: Botton & Hallé (1958), Lewis et al. (2005), Mackinder et al. (2001).
 
-dans les régions tropicales, Gabon compris.
-
-b : Botton & Hallé (1958), Lewis et al. (2005), Mackinder et al. (2001).
-
-ibliographie
+Bibliography
 
 ## Species in region
 

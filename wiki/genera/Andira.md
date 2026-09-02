@@ -17,33 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs; bark with rare red exudate. Leaves imparipinnate (in Africa); rachis channeled; stipels setaceous; leaflets (1–)3 to 19, opposite, with swollen petiolules. Inflorescences terminal or sometimes axillary, in racemes grouped into panicles; bracts caducous, small. Flowers: bracteoles caducous, small, below the calyx; calyx campanulate, with short teeth, the upper ones ± entirely fused to the apex, or calyx subtruncate; corolla considerably exceeding the calyx, with 5 free petals, normally pink or purple and glabrous, petals of the keel imbricate; stamens 10, diadelphous (in Africa), the vexillar one free, long stamens alternating with the shorter ones, with dorsifixed anthers; ovary stipitate, with 1 to 8 ovules; style slender, curved, stigma terminal. Legume indehiscent, woody, drupaceous, ovoid to obovoid, with 1(–3) seeds. Seed ± ellipsoid or ovoid, white; hilum small.
 
-Arbres ou arbustes ; écorce à exsudat rouge rare . Feuilles imparipennées (en Afrique) ; rachis
+Genus of ± 30 species from tropical America, one of which extends to Africa.
 
-canaliculé ; stipelles sétacées ; folioles (1–)3 à 19, opposées , à pétiolules renflés. Inflores -
+b: Pennington (2003), Polhill (1969, 1971b).
 
-cences terminales ou parfois axillaires, en racèmes groupés en panicules ; bractées caduques,
-
-petites. Fleurs : bractéoles caduques, petites, sous le calice ; calice campanulé, à dents
-
-courtes, les supérieurs ± entièrement soudés jusqu’au bout, ou calice subtronqué ; corolle
-
-dépassant assez largement le calice, à 5 pétales libres , normalement roses ou purpurines et
-
-glabres, pétales de la carène imbriqués ; étamines 10, diadelphes (en Afrique), la vexillaire
-
-libre, étamines longues alternant avec les plus courtes, à anthères dorsifixes ; ovaire stipité,
-
-avec 1 à 8 ovules ; style grêle, courbé, stigmate terminal. Gousse indéhiscente, ligneuse, dru-
-
-pacée, ovoïde à obovoïde , à 1(–3) graines. Graine ± ellipsoïde ou ovoïde, blanche ; hile petit.
-
-Genre de ± 30 espèces de l’Amérique tropicale, dont une s’étend jusqu’en Afrique.
-
-b : Pennington (2003), Polhill (1969, 1971b).
-
-ibliographie
+ibliography
 
 ## Species in region
 

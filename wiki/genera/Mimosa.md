@@ -17,19 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs, climbing or not, herbs, spiny. Leaves normally sensitive. Inflorescences in spikes or capitula. Flowers ♂ or polygamous, tetramerous or pentamerous. Calyx small or absent, 4–5 teeth. Petals 4–5, ± connate, valvate. Stamens equal in number or twice the number of petals, free. Ovary few- to many-ovulate. Legume linear, articulate, separating from the border of monospermous articles.
 
-Arbres, arbrisseaux, grimpants ou non, herbes, épineux. Feuilles normalement sensitives. Inflorescences en épis ou capitules. Fleurs ♂ ou polygames, tetra- ou pentamères. Calice petit ou absent, 4-5 dents. Pétales 4-5, ± soudés, valvaires. Étamines en même nombre ou en nombre double de celui des pétales, libres. Ovaire pauci- à pluriovulé. Gousse linéaire, articulée, se séparant de la bordure des articles monospermes.
+TYPE SPECIES: M. pudica L.
 
-ESPÈCE-TYPE : M. pudica L.
-
-Ce genre renferme environ 600 espèces des régions tropicales et subtropicales. 2 espèces sont présentes au Gabon.
+This genus contains approximately 600 species from tropical and subtropical regions. 2 species are present in Gabon.
 
 ---
 
-1. Rachis foliaire à entre-nœuds nettement visibles ; plusieurs épines sur les tiges par entre-nœuds ; fruit pubescent hérissé ..... 1. M. pigra.
+1. Leaf rachis with clearly visible internodes; several spines on the stems per internode; fruit pubescent, setose ..... 1. M. pigra.
 
-1'. Rachis foliaire à entre-nœuds peu visibles ; une seule épine en crochet sur les tiges par entre-nœud ; fruit épineux ..... 2. M. pudica.
+1'. Leaf rachis with scarcely visible internodes; a single hooked spine on the stems per internode; fruit spiny ..... 2. M. pudica.
 
 ## Species in region
 

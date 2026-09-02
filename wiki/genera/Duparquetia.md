@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose shrubs. Leaves imparipinnate. Flowers in erect racemes. Flowers zygomorphic. Sepals 4, of which 2 connate, distinct, unequal, the anterior sepal coriaceous, enveloping the others. Petals 5; the 3 posterior lanceolate, the 2 anterior rudimentary. Stamens 4 with very short filaments. Large anthers, incurved, the 2 posterior connate with each other in the lower part, dehiscent by pores at the apex. Ovary marked with 4 longitudinal ribs; 2–4 ovules. Pods elongate, lanceolate-linear, flattened, acuminate, with 4 narrow wings, lined internally with woolly tomentum.
 
-Arbustes sarmenteux. Feuilles imparipennées. Fleurs en grappes dressées. Fleurs zygomorphes. Sépales 4, dont 2 soudés, distincts, inégaux, le sépale antérieur coriace, enveloppant les autres. Pétales 5; les 3 postérieurs lancéolés, les 2 antérieurs rudimentaires. Étamines 4 à filets très courts. Grandes anthères, incurvées, les 2 postérieures soudées entre elles dans la partie inférieure, déhiscentes par pores au sommet. Ovaire marqué de 4 côtes longitudinales; 2-4 ovules. Gousses allongées, lancéolées-linéaires, aplaties, acuminées, à 4 ailes étroites, tapissées intérieurement d'un tomentum laineux.
-
-Genre monospécifique africain.
+Monotypic African genus.
 
 ## Species in region
 

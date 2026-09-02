@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Resiniferous trees. Leaflets alternate with translucent punctations, often bearing a marginal gland near the petiolule. Main vein terminated by a small gland clearly visible on the lower surface. Bracteoles not enveloping the bud, caducous. Flowers distichous, pedicellate. Sepals 4, subvalvate. Petal 1, caducous. Stamens 10, one free and 9 united to each other at the base, with filaments alternately long and short. Ovary stipitate inserted at the base of a short receptacle, (5-) 6 (-7) ovules.
 
-Arbres résinifères. Folioles alternes à ponctuations translucides, souvent munies près du pétiolule d'une glande marginale. Nervure principale terminée par une petite glande bien visible sur la face inférieure. Bractéoles n'enveloppant pas le bouton, caduques. Fleurs distiques, pédicellées. Sépales 4, subvalvaires. Pétale 1, caduc. Étamines 10, une libre et 9 soudées entre elles à la base, à filets alternativement longs et courts. Ovaire stipité inséré au fond d'un court réceptacle, (5-) 6 (-7) ovules.
+Fruits oblong-lanceolate, acuminate, with 1-2 seeds.
 
-Fruits oblongs-lancéolés, acuminés, à 1-2 graines.
+Type species: S. Le-Testui (Pellegr.) Léonard, Gabon.
 
-Espèce type : S. Le-Testui (Pellegr.) Léonard, Gabon.
-
-Genre monospécifique proche de Sindora.
+Monotypic genus close to Sindora.
 
 ## Species in region
 

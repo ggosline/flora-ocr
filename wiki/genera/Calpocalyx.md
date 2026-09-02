@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres. Feuilles composées bipennées à une seule paire de pennes multifoliolées. Glande au sommet du pétiole. Inflorescence en panicule terminale ou en épi axillaire. Fleur ♢ ou unisexuée par avortement.
+Trees. Compound bipinnate leaves with a single pair of multiolate pinnae. Gland at the apex of the petiole. Inflorescence in terminal panicle or axillary spike. Flower ♢ or unisexual by abortion.
 
 ---
 
-Calice campanulé à 5 lobes. Pétales 5, soudés entre eux. Étamines 10, libres entre elles ou faiblement cohérentes à la base, connectif terminé par une glande caduque. Pistil ± stipité : style grêle à stigmate peu distinct. Gousse ligneuse bivalve, en général ± falciforme, plurisperme.
+Calyx campanulate with 5 lobes. Petals 5, connate to each other. Stamens 10, free from each other or weakly coherent at the base, connective terminated by a caducous gland. Pistil ± stipitate: style slender with indistinct stigma. Legume woody bivalve, generally ± falciform, polyspermous.
 
-ESPÈCE-TYPE : C. dinklagei (Taub.) Harms.
+TYPE SPECIES: C. dinklagei (Taub.) Harms.
 
-Le genre Calpocalyx regroupe 10 espèces toutes africaines. Deux (C. brevibracteatus et C. aubrevillei) sont limitées au massif forestier ouest africain. Les autres se rencontrent du Nigeria au Congo. Six espèces sont présentes au Gabon.
+The genus Calpocalyx comprises 10 species, all African. Two (C. brevibracteatus and C. aubrevillei) are limited to the West African forest massif. The others are found from Nigeria to Congo. Six species are present in Gabon.
 
-1. Pétiole glabre (ou quelques poils à la face adaxiale)..... 1. C. dinklagei.
+1. Petiole glabrous (or a few hairs on the adaxial face)..... 1. C. dinklagei.
 
-1'. Pétiole pubescent ou pubérulent.
+1'. Petiole pubescent or puberulent.
 
-2. Glande pétiolaire saillante, inflorescence en épi.
+2. Petiolar gland prominent; inflorescence in spike.
 
-3. Axe de la penne long de 12-57 cm ; foliole généralement longuement acuninée ; pubérulence ± abondante sur le pétiole et les axes des pennes ; calice glabre sauf au sommet ..... 2. C. heitzii.
+3. Pinnae axis 12-57 cm long; leaflet generally long-acuminate; pubescence ± abundant on the petiole and axes of the pinnae; calyx glabrous except at the apex ..... 2. C. heitzii.
 
-3. Axe de la penne long de 5-9,5 cm ; foliole courtemment largement acuminée ; pubescence éparse sur le pétiole et les axes des pennes ; calice pubescent ..... 3. C. brevifolius.
+3. Pinnae axis 5-9.5 cm long; leaflet shortly broadly acuminate; pubescence scattered on the petiole and axes of the pinnae; calyx pubescent ..... 3. C. brevifolius.
 
-2'. Glande pétolaire non saillante ; inflorescence souvent en panicule.
+2'. Petiolar gland not prominent; inflorescence often in panicle.
 
-4. Limbe glabre dessous ..... 4. C. klainet.
+4. Limb glabrous beneath ..... 4. C. klainet.
 
-4'. Limbe pubescent dessous.
+4'. Limb pubescent beneath.
 
-5. Foliole largement elliptique, peu ou pas acuminée ..... 5. C. letestui.
+5. Leaflet broadly elliptic, little or not acuminate ..... 5. C. letestui.
 
-5'. Foliole elliptique à blancéolée, nettement acuminée . 6. C. ngouniensis.
+5'. Leaflet elliptic to lanceolate, distinctly acuminate . 6. C. ngouniensis.
 
 ## Species in region
 

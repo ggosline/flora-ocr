@@ -17,71 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs or with woody base; stipules, leaflets and bracts often bearing translucent punctations. Stipules often persistent, foliaceous, with an appendage below the point of attachment. Leaves digitate; stipels absent; leaflets 2 (elsewhere also 4). Inflorescences axillary or terminal, in spiciform racemes; bracts persistent, geminate, embracing, with a short appendage. Flowers with membranous calyx, the two upper teeth connate, the others lanceolate-oblong, the lower one somewhat longer than the others; petals unguiculate, wings furnished with a series of small transverse pockets, keel ± rostrate; stamens 10, monadelphous, filaments connate for at least half their length, filaments and anthers alternately long and short; ovary sessile, linear, with 5 to 8 ovules; style slender, stigma slender, terminal. Pods flattened, with dorsal suture ± straight, the ventral one deeply sinuous, with 2 to 5 indehiscent articles, covered with prickly hairs, puberulent, often exceeding the bracts. Seeds suborbicular to subreniform.
 
-Herbes annuelles ou à base ligneuse ; stipules, folioles et bractées souvent garnies de ponc-
+Pantropical genus of about 75 species, most in South America, 13 species in Africa of which only one in Gabon, one endemic to Madagascar, eight in Asia and eight endemic in Australia.
 
-tuations translucides . Stipules souvent persistantes, foliacées , à appendice au-dessous du
+Notes: Z. glochidiata DC. is widely distributed in tropical Africa, especially in relatively dry regions. It is known, among others, from the Republic of the Congo, not far from the border with Gabon; it should therefore be sought there.
 
-point d’attache . Feuilles digitées ; stipelles absentes ; folioles 2 (ailleurs aussi 4). Inflo -
+Bibliography
 
-rescences axillaires ou terminales, en racèmes spiciformes ; bractées persistantes, géminées,
+B: Léonard (1954b), Lewis et al. (2005), Milne-Redhead (1954, 1971), Mohlenbrock (1961), Pellegrin (1949).
 
-embrassantes, à appendice court . Fleurs à calice membraneux , les deux dents supérieures
+### Key to species
 
-connées, les autres lancéolées-oblongues, l’inférieure un peu plus longue que les autres ; pé-
-
-tales onguiculés, ailes garnies d’une série de petites poches transversales , carène ± rostrée ;
-
-étamines 10, monadelphes , filets soudés sur au moins leur moitié, filets et anthères alternati -
-
-vement longs et courts ; ovaire sessile, linéaire, avec 5 à 8 ovules ; style grêle, stigmate grêle,
-
-terminal. Gousses aplaties, à suture dorsale ± droite, la ventrale profondément sinueuse , à
-
----
-
-Calice, ouvert, avec gynécée (× 3). – 5. Étendard (× 3). – 6. Pétales (× 3). – 7. Androcée, étalée (× 3). – 8.
-
-Base de la fleur (× 5). – 9. Gousse (× 1). – 10. Graine (× 1). (1, 3–8 : Wieringa & Hagens 2380 ; 2 : Wie-
-
-ringa & Nzabi 2857 ; 9, 10 : Wieringa & Nzabi 2780 ). Dessin par Hans de Vries, Naturalis Biodiversity
-
-Center (©).
-
----
-
-2 à 5 articles indéhiscents, couverts de poils piquants , pubérulents, souvent dépassant les
-
-bractées. Graines suborbiculaires à subréniformes.
-
-Genre pantropical d’environ 75 espèces, la plupart en Amérique du Sud, 13 espèces en Afrique
-
-dont une seule au Gabon, une endémique à Madagascar, huit en Asie et huit endémiques en
-
-Australie.
-
-Notes : Z. glochidiata DC. est largement distribuée en Afrique tropicale, surtout dans les régions relati-
-
-vement sèches. Elle est connue, entre-autres, de la République du Congo, non loin de la frontière avec le
-
-Gabon ; elle est alors à y rechercher.
-
-B : Léonard (1954b), Lewis et al. (2005), Milne-Redhead (1954, 1971), Mohlenbrock
-
-i B liographie
-
-(1961), Pellegrin (1949).
-
-### Clé des espèces
-
-1. - Herbe vivace ; bractées lancéolées, 2–3 mm de largeur ; calice pubescent
+1. - Perennial herb; bracts lanceolate, 2–3 mm wide; calyx pubescent
 
 ..................................................................................................... Z. latifolia var. latifolia
 
-- Herbe généralement annuelle ; bractées elliptiques à ovales, 3,5–7 mm de largeur ;
-
-calice glabre, sauf la nervure médiane du sépale inférieur (à rechercher au Gabon)
+- Generally annual herb; bracts elliptic to ovate, 3.5–7 mm wide; calyx glabrous, except the midvein of the lower sepal (to be sought in Gabon)
 
 ............................................................................................................. Z. glochidiata DC.
 

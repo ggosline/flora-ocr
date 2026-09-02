@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "families/Leguminosae.md",
+                "file": "genera/Afzelia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leguminosae"
+              "title": "Afzelia"
             }
           }
         ]
@@ -187,6 +187,11 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
+    "Afzelia_pachyloba.md",
+    "genera/Afzelia.md",
+    "families/Leguminosae.md",
+    "genera/Monopetalanthus.md",
+    "Monopetalanthus_ledermannii.md",
     "genera/Gilbertiodendron.md",
     "genera/Zornia.md",
     "genera/Zenkerella.md",
@@ -208,11 +213,6 @@
     "genera/Sesbania.md",
     "genera/Scorodophloeus.md",
     "genera/Schrankia.md",
-    "genera/Schefflerodendron.md",
-    "genera/Rhynchosia.md",
-    "genera/Pterygopodium.md",
-    "genera/Pterocarpus.md",
-    "genera/Psophocarpus.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",

@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, sometimes sarmentose, lianes or trees, spiny or not. Leaves paripinnate. Leaflets opposite.
 
-Arbustes, parfois sarmenteux, lianes ou arbres, épineux ou non. Feuilles paribipennées. Foliolules opposées.
+Inflorescences in terminal and axillary racemes or panicles. Sepals 5, the lower sepal often hood-shaped at the apex and covering the others. Petals 5, spreading, subequal, generally orbicular with a distinct claw, the upper one somewhat smaller than the others. Stamens 10; anthers dorsifixed, dehiscing by longitudinal slits.
 
-Inflorescences en grappes ou panicules terminales et axilaires. Sépales 5, le sépale inférieur souvent en capuchon au sommet et recouvrant les autres. Pétales 5, étalés, subégaux, orbiculaires en général avec un onglet distinct, le supérieur un peu plus petit que les autres. Étamines 10; anthères dorsifixes, déhiscentes par fentes longitudinales.
+Legumes compressed or turgid, coriaceous or subwoody, not winged, dehiscent or not.
 
-Gousses comprimées ou turgides, coriaces ou subligneuses, non ailées, déhiscentes ou non.
+Pantropical genus, comprising 150-200 species, the American ones being the most numerous.
 
-Genre pantropical, comptant 150-200 espèces, les américaines étant les plus nombreuses.
+In Cameroon and Gabon only two spiny wild species are recorded, one, C. bonduc, is strictly littoral, although today sometimes naturalized around villages in the interior of the countries, the other, C. Welwitschiana a large forest liane, is probably native to eastern Africa.
 
-Au Cameroun et au Gabon ne sont signalées que deux espèces épineuses spontanées, l'une, C. bonduc, est strictement littorale, bien qu'aujourd'hui parfois naturalisée autour des villages dans l'intérieur des pays, l'autre, C. Welwitschiana grande liane forestière, est probablement originaire de l'Afrique orientale.
+Caesalpinia species have coloured flowers, often large, very ornamental. Certain species have been introduced into most tropical countries. The most widespread in gardens is certainly a spiny or non-spiny shrub, C. pulcherrima (L.) Sw. (= Poinciana pulcherrima L.), with red and yellow petals, or sometimes yellow, with long stamens measuring 6 to 12 cm in length, probably native to tropical America, but today cultivated in all tropical countries.
 
-Les Caesalpinia ont des fleurs colorées, souvent grandes, très ornamentales. Certaines espèces ont été introduites dans la plupart des pays tropicaux. La plus répandue dans les jardins est certainement un arbuste épineux ou non, C. pulcherrima (L.) Sw. (= Poinciana pulcherrima L.), aux pétales rouge et jaune, ou parfois jaune, aux longues étamines mesurant de 6 à 12 cm de longueur, originaire probablement de l'Amérique tropicale, mais aujourd'hui cultivée dans tous les pays tropicaux.
+Also cultivated are:
 
-Sont également cultivées :
+C. decapetala (Roth.) Alston (= C. sepiaria Roxb.), spiny shrub or liane, native to Asia, with yellow flowers.
 
-C. decapetala (Roth.) Alston (= C. sepiaria Roxb.), arbuste ou liane épineux, originaire d'Asie, à fleurs jaunes.
-
-C. sappan L., arbuste ou petit arbre épineux, originaire de l'Inde et de Birmanie.
+C. sappan L., spiny shrub or small tree, native to India and Burma.
 
 ---
 
 ---
 
-C. coriaria (Jacq.) Willd., petit arbre non épineux, originaire de l'Amérique tropicale.
+C. coriaria (Jacq.) Willd., small non-spiny tree, native to tropical America.
 
-C. paucijuga Oliv., petit arbre non épineux, des Antilles.
+C. paucijuga Oliv., small non-spiny tree, from the West Indies.
 
-C. Gilliesii (Hook.) Dietr., arbuste non épineux de la République argentine à pétales jaunes (oiseau du paradis).
+C. Gilliesii (Hook.) Dietr., non-spiny shrub from the Argentine Republic with yellow petals (bird of paradise).
 
-Le genre Mezoneuron très voisin n'a pas encore été trouvé au Cameroun et au Gabon. Il ne se distingue de Caesalpinia que par le fruit bordé d'une aile sur la suture dorsale. M. Benthamianum Baill. aux fleurs jaunes et aux gousses rouges est très commun en Afrique occidentale du Sénégal à la Nigéria. M. angolense Oliver est répandu de l'Afrique orientale au Congo et à l'Angola.
+The genus Mezoneuron very closely related has not yet been found in Cameroon and Gabon. It differs from Caesalpinia only by the fruit bordered with a wing on the dorsal suture. M. Benthamianum Baill. with yellow flowers and red legumes is very common in West Africa from Senegal to Nigeria. M. angolense Oliver is widespread from eastern Africa to Congo and Angola.
 
 ## Species in region
 

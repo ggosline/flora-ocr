@@ -17,43 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or climbing shrubs. Stipules minute or absent. Leaves imparipinnate; stipels absent; leaflets 3 to 5(–9), opposite. Inflorescences terminal and axillary, with flowers in short racemes or pseudoracemes assembled in ample panicles; bracts caducous, minute. Flowers: bracteoles caducous, small; calyx campanulate, nearly truncate; corolla yellowish, standard oval, erect, without appendages, glabrous, with short obtriangular claw, wings oblong, falcate, keel with falcate petals, dorsally connate; stamens 10, diadelphous, the vexillar free, the others connate in a channel, anthers dorsifixed, versatile, elliptic; disc with protuberances adnate to the calyx base; ovary short, sessile, pauciovulate; style slender, incurved, stigma punctiform. Pods very flattened, suborbicular to oval, indehiscent, with 1 to 3 seeds, coriaceous, smooth, wingless, apiculate. Seeds flattened, arranged transversely.
 
-Lianes ou arbustes grimpants . Stipules minuscules ou absentes. Feuilles imparipennées ;
+Genus of one or two species limited to West and Central Africa, one with broad distribution and the other endemic to Cameroon.
 
-stipelles absentes ; folioles 3 à 5(–9) , opposées. Inflorescences terminales et axillaires, à fleurs
+Drawing by Dumphy, reproduced from Wight (1840).
 
-en courtes grappes ou pseudoracèmes rassemblés en panicules amples ; bractées caduques, mi-
+Bibliography
 
-nuscules. Fleurs : bractéoles caduques, petites ; calice campanulé, presque tronqué ; corolle
-
-jaunâtre , étendard ovale, redressé , sans appendices , glabre, à onglet obtriangulaire, court ,
-
-ailes oblongues, falquées, carène à pétales falqués, soudés dorsalement ; étamines 10, dia-
-
----
-
-Dessin par Dumphy, reproduit à partir de Wight (1840).
-
----
-
-delphes , la vexillaire libre, les autres soudées en gouttière, anthères dorsifixes, versatiles,
-
-elliptiques ; disque à protubérances adnées à la base du calice ; ovaire court, sessile, pau-
-
-ciovulé ; style grêle, incurvé, stigmate punctiforme. Gousses très aplaties, suborbiculaires
-
-à ovales , indéhiscentes , avec 1 à 3 graines , coriaces, lisses, sans ailes, apiculées. Graines
-
-aplaties, disposées transversalement.
-
-Genre de une ou deux espèces limitées à l’Afrique de l’Ouest et centrale dont une à large dis-
-
-tribution et l’autre endémique du Cameroun.
-
-B : Geesink (1984), Hauman (1954d), Lewis et al. (2005), Pellegrin (1949).
-
-i B liographie
+B: Geesink (1984), Hauman (1954d), Lewis et al. (2005), Pellegrin (1949).
 
 ## Species in region
 

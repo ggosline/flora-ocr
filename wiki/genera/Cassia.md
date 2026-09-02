@@ -17,35 +17,29 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs annual or perennial, shrubs, trees, non-spiny. Leaves paripinnate; remarkable glands often present on the petiole or rachis. Inflorescences generally in elongated, very floriferous racemes, sometimes grouped in short terminal or subumbelliform panicles with few flowers. Flowers generally hermaphroditic. Sepals 5, imbricate. Petals 5, imbricate, generally yellow, more rarely pink, red or white. Stamens generally 10, rarely 4-5 only, subequal or not; the 2-3 lower ones being in this case the longest, the 1-3 upper ones reduced or staminodial. Anthers basifixed, sometimes dorsifixed, dehiscent by pores or by slits. Fruits highly variable, from cylindrical to flat, indehiscent or dehiscent, woody to coriaceous or membranous, with or without septa separating the seeds.
 
-Herbes annuelles ou vivaces, arbustes, arbres, non épineux. Feuilles paripennées; glandes remarquables souvent présentes sur le pétiole ou le rachis. Inflorescences généralement en racèmes allongés très fleuris, parfois groupés en panicules terminales ou subombelliformes courtes et peu fleuries. Fleurs généralement hermaphrodites. Sépales 5, imbriqués. Pétales 5, imbriqués, généralement jaunes, plus rarement roses, rouges ou blancs. Étamines généralement 10, rarement 4-5 seulement, subégales ou non; les 2-3 inférieures étant dans ce cas les plus longues, les 1-3 supérieures réduites ou staminodiales. Anthères basifixes, parfois dorsifixes, déhiscentes par des pores ou par des fentes. Fruits très variables, de cylindriques à plats, indéhiscents ou déhiscents, ligneux à coriaces ou membraneux, avec ou sans cloisons séparant les graines.
+Pantropical genus, with 500-600 species, the most numerous being American. In Africa the species of Cassia frequent especially the semi-arid countries covered with wooded savannas, thickets and dry, open or dense forests. They are exceptional in dense humid forest where only 3-4 species of trees with very long cylindrical fruits longitudinally partitioned are known. Cassia Aubrevillei, C. fikifiki from Côte d'Ivoire, C. Mannii from Cameroon, Gabon, Congo, and Uganda, with pink or white flowers and C. angolensis.
 
-Genre pantropical, avec 500-600 espèces, les plus nombreuses étant américaines. En Afrique les espèces de Cassia fréquentent surtout les pays semi-arides couverts de savanes boisées, de fourrés et de forêts sèches, claires ou denses. Elles sont exceptionnelles dans la forêt dense humide où l'on ne connaît que 3-4 espèces d'arbres à fruits cylindriques très longs et cloisonnés longitudinalement. Cassia Aubrevillei, C. fikifiki de la Côte d'Ivoire, C. Mannii du Cameroun, Gabon, Congo, et Ouganda, à fleurs roses ou blanches et C. angolensis.
-
-De nombreuses espèces exotiques arbustives ou arbores-
-
-centes ont été introduites en Afrique tropicale. Certaines sont
-
-communes autour des villages, telles Cassia occidentalis pantropical, peut être d'origine américaine, dont les feuilles servent à préparer des infusions diurétiques, et le dartrier, Cassia alata, au feuillage ornamental et à longs épis de fleurs jaune orangé, pantropical d'origine américaine.
+Numerous exotic shrubby or tree-like species have been introduced into tropical Africa. Some are common around villages, such as Cassia occidentalis pantropical, perhaps of American origin, whose leaves are used to prepare diuretic infusions, and the dartrier, Cassia alata, with ornamental foliage and long spikes of yellow-orange flowers, pantropical of American origin.
 
 ---
 
-La détermination des espèces de Cassia est assez difficile. Une trentaine d'espèces existent aujourd'hui en Afrique occidentale, une cinquantaine en Afrique orientale, autochtones et introduites.
+The determination of Cassia species is fairly difficult. Some thirty species exist today in West Africa, some fifty in East Africa, indigenous and introduced.
 
-1. Arbrisseau ou herbe à fleurs jaunes; gousses ± comprimées, ou à crêtes aliformes, de moins de 25 cm de longueur.
+1. Shrublet or herb with yellow flowers; pods ± compressed, or with winglike crests, less than 25 cm in length.
 
-2. Folioles linéaires, plus de 15 paires.
+2. Leaflets linear, more than 15 pairs.
 
-3. Sépales lancéolés; rachis marqué d'une crête dentelée.....
+3. Sepals lanceolate; rachis marked with a dentate crest.....
 
 1. C. mimosoides.
 
-3'. Sépales très aigus; rachis canaliculé entre chaque paire de folioles. ..... 2. C. Kirkii.
+3'. Sepals very acute; rachis canaliculate between each pair of leaflets. ..... 2. C. Kirkii.
 
-2'. Folioles oblongues, elliptiques ou ovées ± lancéolées.
+2'. Leaflets oblong, elliptic or ovate ± lanceolate.
 
-4. Folioles glabres dépassant généralement 5 cm de largeur et à sommet largement arrondi, pétiole et rachis dépourvus de glande..... 3. C. alata.
+4. Leaflets glabrous exceeding generally 5 cm in width and with broadly rounded apex, petiole and rachis lacking glands..... 3. C. alata.
 
 ## Species in region
 

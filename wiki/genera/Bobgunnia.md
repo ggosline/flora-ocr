@@ -17,69 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs. Stipules persistent to caducous, small, glabrous to densely pubescent.
 
-Arbres ou arbustes . Stipules persistantes à caduques, petites, glabres à densément pubescentes.
+Leaves imparipinnate; stipels absent; leaflets 5 to 20 (9 to 15 in Gabon), alternate.
 
-Feuilles imparipennées ; stipelles absentes ; folioles 5 à 20 (9 à 15 au Gabon), alternes .
+Inflorescences axillary and terminal, in loose panicles or in pseudoracemes composed of fascicles with 1 to 4 flowers; bracts caducous. Flowers: buds globose; bracteoles absent; calyx entire and globose, then tearing into irregular spreading or reflexed lobes; corolla with a single petal, orbicular, plicate, pale pink, pilose-golden dorsally; stamens numerous, free or barely connate at the base, dimorphic, anthers basifixed, with longitudinal dehiscence; ovary stipitate, linear, ± incurved, multiovulate; style short, stigma terminal. Legume indehiscent, cylindric, stipitate, black varnished, with rounded extremities, with numerous seeds separated by septa. Seeds reniform to oblong, blackish brown, with a long embryo, with thin cotyledons; radicle curved toward the micropyle.
 
-Inflorescences axillaires et terminales, en panicules lâches ou à pseudoracèmes composés de
+Genus with 2 species in tropical and southern Africa, of which one in Gabon.
 
-fascicules avec 1 à 4 fleurs ; bractées caduques. Fleurs : boutons globuleux ; bractéoles
+Notes: Aubréville (1968) treated the genus Swartzia in volume 15 of the Flora of Gabon as a member of the family Caesalpiniaceae (now the subfamily Caesalpinioideae). Swartzia is a mainly American genus of approximately 180 species and Kirkbride & Wiersema (1997) placed the two African species in a separate genus, Bobgunnia. In 2007, Brummitt in the Flora Zambesiaca maintained Swartzia, based on molecular data that group the African species with the American ones, but opinions are not yet aligned.
 
-absentes ; calice entier et globuleux, puis se déchirant en lobes irréguliers étalés ou réflé -
+The second species, B. madagascariensis, which occurs in Cameroon and the Democratic Republic of the Congo, could be present in Gabon, which is why this species appears in the key below. Furthermore, B. madagascariensis has a very extensive distribution in tropical Africa, but not in Madagascar (sic!).
 
-chis ; corolle avec un seul pétale , orbiculaire, plissé, blanc rosé , pileux-dorée dorsalement ;
+Bibliography: Aubréville (1968), Brummitt (2007a), Kirkbride & Wiersema (1997), Lewis et al. (2005), Pellegrin (1949), Wilczek (1952).
 
-étamines nombreuses , libres ou à peine connées à la base, dimorphes , anthères basifixes, à
+### Key to species
 
-déhiscence longitudinale ; ovaire stipité, linéaire, ± incurvé, multiovulé ; style court, stigmate
+1 - Leaflets 9 to 15, with limb acuminate at the apex; flowers in long pluriflorous pendulous racemes; pedicel glabrous to slightly puberulent; in humid forest ............ B. fistuloides
 
-terminal. Gousse indéhiscente , cylindrique , stipitée, noir vernissé , les extrémités arrondies,
-
-à nombreuses graines séparées par des cloisons . Graines réniformes à oblongues, brun noir,
-
-à embryon long, à cotylédons minces ; radicule courbée vers le micropyle.
-
-Genre à 2 espèces en Afrique tropicale et du Sud, dont une au Gabon.
-
-Notes : Aubréville (1968) a traité le genre Swartzia dans le volume 15 de la Flore du Gabon , comme
-
-membre de la famille des Caesalpiniaceae (aujourd’hui la sous-famille des Caesalpinioideae). Swartzia
-
-est un genre surtout américain d’environ 180 espèces et Kirkbride & Wiersema (1997) ont mis les deux
-
-espèces africaines dans un genre séparé, Bobgunnia . En 2007, Brummitt dans la Flora Zambesiaca a
-
-maintenu Swartzia , se basant sur des données moléculaires qui groupent les espèces africaines avec les
-
-américaines, mais les opinions ne sont pas encore alignées.
-
-La deuxième espèce, B. madagascariensis , qui se trouve au Cameroun et en République démocratique
-
-du Congo, pourra être présente au Gabon, raison pour laquelle cette espèce figure dans la clé ci-dessous.
-
-En outre, B. madagascariensis a une répartition très étendue en Afrique tropicale, mais non à Madagascar
-
-(sic !).
-
-b : Aubréville (1968), Brummitt (2007a), Kirkbride & Wiersema (1997), Lewis et al. (2005),
-
-ibliographie
-
-Pellegrin (1949), Wilczek (1952).
-
-### Clé des espèces
-
-1 - Folioles 9 à 15, à limbe acuminé au sommet ; fleurs en longs racèmes pluriflores pen-
-
-dants ; pédicelle glabre à légèrement pubérulent ; en forêt humide ............ B. fistuloides
-
-- Folioles 9 à 11, à limbe arrondi à légèrement émarginé au sommet ; fleurs solitaires
-
-ou en racèmes courts pauciflores et érigés ; pédicelle densément poilu à tomenteux ; en
-
-savane ou forêt claire (à rechercher au Gabon)
+- Leaflets 9 to 11, with limb rounded to slightly emarginate at the apex; flowers solitary or in short pauciflorous and erect racemes; pedicel densely hairy to tomentose; in savanna or open forest (to be sought in Gabon)
 
 ## Species in region
 

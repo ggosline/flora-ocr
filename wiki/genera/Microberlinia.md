@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves paripinnate with small sessile opposite leaflets, with channeled-winged rachis. Stipules caducous.
 
-Arbres. Feuilles paripennées à petites folioles sessiles opposées, à rachis canaliculé-ailé. Stipules caduques.
+Inflorescences in terminal panicles. Bracts caducous. Involucral bracteoles, valvate, thick. Receptacle tubular, deep. Calyx with 5 imbricate lobes, of which 3 free equal and the 2 upper more or less connate. Petals 5, equal or the upper one larger. Stamens 10, exserted of which 9 connate at the base, the upper one free. Ovary stipitate, the stipe being connate laterally to the receptacle.
 
-Inflorescences en panicules terminales. Bractées caduques. Bractéoles involucrales, valvaires, épaisses. Réceptacle en tube, profond. Calice à 5 lobes imbriqués, dont 3 libres égaux et les 2 supérieurs plus ou moins soudés. Pétales 5, égaux ou le supérieur plus grand. Étamines 10, exsertes dont 9 soudées à la base, la supérieure libre. Ovaire stipité, le stipe étant soudé latéralement au réceptacle.
+Legume oblong woody. Valves with thick suture, provided with a very prominent longitudinal nerve.
 
-Gousse oblongue ligneuse. Valves à suture épaisse, munies d'une nervure longitudinale très proéminente.
+Type species: M. brazzavillensis A. Chev.
 
-Espèce-type : M. brazzavillensis A. Chev.
+Two neighboring species, one Gabonese, the other Cameroonian, both producers of wood called commercially "Zingana".
 
-Deux espèces voisines, l'une gabonaise, l'autre camerounaise, toutes deux productrices du bois appelé commercialement « Zingana ».
+1. Leaflets 10-12 pairs, 10-16 mm × 5-7 mm, rounded or scarcely emarginate..... 1. M. brazzavillensis.
 
-1. Folioles 10-12 paires, 10-16 mm × 5-7 mm, arrondies ou à peine émarginées..... 1. M. brazzavillensis.
-
-1'. Folioles plus grandes et plus nombreuses; 12-18 paires; 15-35 × 8-10 mm, nettement émarginées…… M. bisulcata.
+1'. Leaflets larger and more numerous; 12-18 pairs; 15-35 × 8-10 mm, clearly emarginate…… M. bisulcata.
 
 ## Species in region
 

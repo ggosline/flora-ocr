@@ -17,35 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs, certain copal-bearing plants. Leaflets 2, opposite, ± falcate, with asymmetric base, rarely a single leaflet (G. Dinklagei from Liberia); often riddled with translucent dots. Inflorescences in panicles. Bracteoles not completely enveloping the young buds, caducous, sometimes persistent. Receptacle short, cupuliform. Calyx with imbricate prefloration. 4 sepals. Petals 0. Stamens (8-) 10 (-12), free, alternately long and short. Disk short bearing an ovary generally sessile, sometimes stipitate. Ovules (1-) 2 (-4).
 
-Arbres, arbustes, certains copallifères. Folioles 2, opposées,
+Fruits: either flat, elliptic, thin, indehiscent, provided with a prominent submarginai nerve and marked with a ± pronounced network of veinlets; or thick, compressed, elliptic, dehiscent, with coriaceous or woody valves, devoid of submarginai nerve; or again thin, indehiscent, and marked with a poorly distinct nerve, parallel to the margin which it follows very closely. One seed (rarely two), sometimes arillate.
 
-± falciformes, à base asymétrique, rarement une seule foliole
+Type species: G. copallifera J. J. Benn.
 
-(G. Dinklagei du Libéria); souvent criblées de points translucides.
+The genus Guibourtia is very easy to recognize by its leaves with 2 sessile, opposite, ± falcate leaflets, and its small fruits with 1 seed, comprises 13 African species and 4 American species. In Africa it is distributed from Portuguese Guinea and Mali to Mozambique and southern Africa, as far as southern Rhodesia and in southwestern Africa, that is to say that the range of the genus extends very widely over both the Sudano-Zambesian region of open forests and wooded savannas and the Guineo-Congolian region of dense humid forests. From a biological point of view there is therefore no homogeneity in this genus, since it comprises large trees of equatorial dense forest, and shrubs of dry littoral zones such as G. Carrissoana from Angola, G. copallifera which is found in semi-arid Sudano-Guinean regions, or trees of open forests or southern dry forests such as G. coleosperma, G. conjugata.
 
-Inflorescences en panicules. Bractéoles n'enveloppant pas complètement les jeunes boutons, caduques, parfois persistantes. Réceptacle cupuliforme court. Calice à préfloraison imbriquée. 4 sépales. Pétales o. Étamines (8-) 10 (-12), libres, alternativement longues et courtes. Disque court portant un ovaire généralement sessile parfois stipité. Ovules (1-) 2 (-4).
+In the territories of our jurisdiction C. Demeusii is a large tree of the flooded Congolian forest, the 4 other species are found in upland forests.
 
-Fruits : ou plans, elliptiques, minces, indéhiscents, pourvus d'une nervure submarginale proéminente et marqués d'un réseau ± accusé de nervilles; ou épais, comprimés, elliptiques, déhiscents, à valves coriaces à ligneuses, dépourvus de nervure submarginale; ou encore minces, indéhiscents, et marqués d'une nervure peu distincte, parallèle à la marge qu'elle suit de très près. Une graine (rarement deux), parfois arillée.
+1. Fruits ellipsoid, thick, coriaceous, compressed; seeds arillate; leaflets without translucent dots; petiole approximately 2 cm in length (1.5-2.5 cm) (subgenus Pseudocopaiva).
 
-Espèce type : G. copallifera J. J. Benn.
+2. Axes of inflorescences very thick..... 1. G. Tessmannii.
 
-Le genre Guibourtia très facile à reconnaître par ses feuilles à 2 folioles sessiles, opposées, ± falciformes, et ses petits fruits
+2'. Axes of inflorescences slender..... 2. G. Pellegriniana.
 
----
-
-à 1 graine, compte 13 espèces africaines et 4 espèces américaines. En Afrique il est répandu depuis la Guinée portugaise et le Mali jusqu'au Mozambique et en Afrique australe, jusqu'en Rhodésie du sud et dans le S.W. africain, c'est-à-dire que l'aire du genre s'étend très largement à la fois sur la région soudano-zambézienne des forêts claires et savanes boisées et sur la Région guinéo-congolaise des forêts denses humides. Du point de vue biologique il n'y a donc aucune homogénéité dans ce genre, puisqu'il comprend des grands arbres de forêt dense équatoriale, et des arbustes des zones littorales sèches comme G. Carrissoana de l'Angola, G. copallifera que l'on rencontre dans les régions soudano-guinéennes semi arides, ou des arbres des forêts claires ou des forêts sèches australes comme G. coleosperma, G. conjugata.
-
-Dans les territoires de notre dition C. Demeusii est un grand arbre de la forêt inondée congolaise, les 4 autres espèces se trouvent dans les forêts de terre ferme.
-
-1. Fruits ellipsoïdes, épais, coriaces, comprimés; graines arillées; folioles sans point translucide; pétiole d'environ 2 cm de longueur (1,5-2,5 cm) (sous-genre Pseudocopaiva).
-
-2. Axes des inflorescences très épais..... 1. G. Tessmannii.
-
-2'. Axes des inflorescences grêles..... 2. G. Pellegriniana.
-
-1'. Fruits comprimés, suborbiculaires, minces, indéhiscents, complètement entourés d'une marge très étroite; graines non arillées; folioles à points translucides; pétioles de 1,5-3 cm de longueur; bractéoles persistant à la base du bouton, en forme de cupule; ovaire glabre (sous-genre Guibourtia)..... 3. G. Demeusii.
+1'. Fruits compressed, suborbicular, thin, indehiscent, completely surrounded by a very narrow margin; seeds not arillate; leaflets with translucent dots; petioles 1.5-3 cm in length; bracteoles persistent at the base of the bud, cup-shaped; ovary glabrous (subgenus Guibourtia)..... 3. G. Demeusii.
 
 ## Species in region
 

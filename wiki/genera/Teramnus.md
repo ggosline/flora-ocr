@@ -17,57 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs, climbing. Stipules small. Leaves pinnate or sometimes subdigitate, 3-foliolate; stipels present. Inflorescences axillary, with flowers in fascicles or in elongated pseudoracemes with 1 or more flowers per node; bracts reduced. Flowers: bracteoles 2, below the calyx, linear-lanceolate; calyx with 5 teeth of which the 2 upper ones ± connate; petals relatively small, glabrous or nearly so, standard suborbicular to obovate, without appendages or auricles, wings falcate, narrow, adhering to the keel, keel shorter than the wings, straight and obtuse; stamens 10, monadelphous or diadelphous, fertile anthers alternating with sterile anthers (=anthérodes); ovary sessile, many-ovuled, often hairy at the apex; style short, thick, glabrous, with capitate stigma. Legumes linear, straight, septate between the seeds, the apex with a beak curved at a right angle, with 5 to 9 seeds. Seeds smooth; hilum lateral short, without strophiole.
 
-Herbes pérennes, grimpantes . Stipules petites. Feuilles pennées ou parfois subdigitées, 3-fo-
+Genus of approximately 9 species, most of them paleotropical. In Gabon, one rare species and a second to be sought.
 
-liolées ; stipelles présentes. Inflorescences axillaires, à fleurs en fascicules ou en pseudora -
+Notes: This genus is easy to recognize by the legumes with uncinate-curved apex. The species are generally poorly defined on the basis of morphological characters; this situation awaits unconventional taxonomic treatment.
 
-cèmes allongés avec 1 ou plusieurs fleurs par nœud ; bractées réduites. Fleurs : bractéoles 2,
+B: Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Verdcourt (1970, 1971c).
 
-sous le calice, linéaires-lancéolées ; calice à 5 dents dont les 2 supérieures ± connées ; pétales
+### Key to species
 
-relativement petits, glabres ou presque, étendard suborbiculaire à obovale, sans appendices
+1. - Herb prostrate or climbing, with slender and ± rounded stem; terminal leaflet with blade 2.5–7 × 1.5–4 cm, ovate-elliptic; inflorescence slender, the axis up to 10 cm; petals white, pink or purple .................................................................................. T. labialis
 
-ni auricule , ailes falquées, étroites, adhérentes à la carène, carène plus courte que les ailes,
-
-droite et obtuse ; étamines 10, monadelphes ou diadelphes, anthères fertiles alternant avec
-
-des anthères stériles (=anthérodes) ; ovaire sessile, multiovulé, souvent poilu au sommet ;
-
-style court, épais, glabre, à stigmate capité. Gousses linéaires, droites , cloisonnées entre les
-
-graines, le sommet à rostre courbé à angle droit , avec 5 à 9 graines. Graines lisses ; hile
-
-latéral court, sans strophiole.
-
-Genre d’environ 9 espèces, la plupart paléotropicales. Au Gabon, une espèce rare et une deu-
-
-xième à rechercher.
-
-Notes : Ce genre est facile à reconnaître par les gousses à sommet unciné-recourbé. Les espèces sont en
-
-générale assez mal définies sur la base des caractères morphologiques ; cette situation attend un traite -
-
-ment taxonomique non conventionnel.
-
-B : Hauman (1954b), Mackinder et al. (2001), Pellegrin (1949), Verdcourt (1970, 1971c).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Herbe prostrée ou grimpante, à tige grêle et ± arrondie ; foliole terminale à limbe de
-
-2,5–7 × 1,5–4 cm, ovale-elliptique ; inflorescence grêle, l’axe jusqu’à 10 cm ; pétales
-
-blancs, roses ou pourpres .................................................................................. T. labialis
-
-- Herbe grimpante, à tige robuste et nettement quadrangulaire ; foliole terminale à limbe
-
-de 10–13,5 × 6–9 cm, rhomboïdal à obovale ; inflorescence robuste, l’axe 6–25 cm ;
-
-pétales rougeâtres à orange ou bleus (à rechercher au Gabon) ......................... T. micans
+- Herb climbing, with robust and distinctly quadrangular stem; terminal leaflet with blade 10–13.5 × 6–9 cm, rhomboidal to obovate; inflorescence robust, the axis 6–25 cm; petals reddish to orange or blue (to be sought in Gabon) ......................... T. micans
 
 ## Species in region
 

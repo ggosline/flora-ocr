@@ -17,45 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves paripinnate, bijugate or multijugate, with opposite, sessile, emarginate leaflets, truncate at the base which is sometimes spurred (acute auriculate). Floriferous buds strobiliform, scaly, with bracts in two opposite series. Inflorescences in racemes. Bracteoles petaloid, not valvate. Flowers distichous. Receptacle elongate, funnel-shaped or cylindrical, gibbous at the base. Sepals 4, imbricate. Petals (4–) 5, subequal or unequal. Stamens (8–) 10, free. Ovary hairy, with stipe fused along its entire length to the wall of the receptacle. Ovules 2–6.
 
-Arbres. Feuilles paripennées, bijuguées ou multijuguées, à folioles opposées, sessiles, émarginées, tronquées à la base qui est parfois éperonnée (auriculée aiguë). Bourgeons florifères strobiliformes écailleux, à bractées en deux séries opposées. Inflorescences en racèmes. Bractéoles pétaloïdes non valvaires. Fleurs distiques. Réceptacle allongé, en entonnoir ou cylindrique, gibbeux à la base. Sépales 4, imbriqués. Pétales (4-) 5, subégaux ou inégaux. Étamines (8-) 10, libres. Ovaire velu, au stipe soudé sur toute sa longueur à la paroi du réceptacle. Ovules 2-6.
+Fruits stipitate, compressed, dehiscent into 2 velvety ferruginous valves, transversely nerved.
 
-Fruits stipités. comprimés, déhiscents en 2 valves veloutées ferrugineuses, nervurées transversalement.
+Genus very close to Hymenostegia. Distinctly distinguished from it by the elongate receptacle, gibbous at the base, and by the ovary stipe fused to the receptacle along its entire length, so that the ovary appears inserted at the edge of the receptacle.
 
-Genre très proche d'Hymenostegia. S'en distingue visiblement par le réceptacle allongé, gibbeux à la base, et par le stipe de l'ovaire soudé au réceptacle sur toute la longueur, de sorte que l'ovaire semble inséré au bord du réceptacle.
+Type species: P. discifer Harms, Cameroon.
 
-Espèce-type : P. discifer Harms, Cameroun.
+The Cameroonian and Gabonese species are trees of medium or small size, encountered most often near water.
 
-Les espèces camerounaises et gabonaises sont des arbres de taille moyenne ou petite, rencontrés le plus souvent près de l'eau.
+P. emarginatus is widely distributed from Sierra Leone to northern Gabon. P. gabonensis is found in the interior of Gabon. P. discifer is Cameroonian. P. multijugus and the related species P. longitubus are mainly Cameroonian. These species are not recorded from Congo-Léopoldville (F.C.B.).
 
-P. emarginatus est largement répandu de la Sierra Leone au nord du Gabon. P. gabonensis se trouve dans l'intérieur du Gabon. P. discifer est camerounais. P. multijugus et l'espèce voisine P. longitubus sont surtout camerounais. Ces espèces ne sont pas signalées au Congo-Léopoldville (F.C.B.).
-
-Arbres médiocrement intéressants pour l'exploitation forestière.
+Trees of moderate interest for timber exploitation.
 
 ---
 
-1. Feuilles multijuguées.
+1. Leaves multijugate.
 
-2. Folioles étroitement oblongues, à nervure médiane divisant symétriquement le limbe, émarginées, tronquées-éperonnées à la base; bractéoles ovées :
+2. Leaflets narrowly oblong, with midvein dividing the lamina symmetrically, emarginate, truncate-spurred at the base; bracteoles ovate:
 
-3. Moins de 20 mm de long et 5 mm de large... 1. P. emarginalus.
+3. Less than 20 mm long and 5 mm wide... 1. P. emarginatus.
 
-3'. Jusqu'à 35 mm de long et 12 mm de large..... 2. P. gabonensis.
+3'. Up to 35 mm long and 12 mm wide..... 2. P. gabonensis.
 
-2'. Folioles rhomboïdales, à nervure médiane un peu en diagonale, émar-
+2'. Leaflets rhomboidal, with midvein somewhat diagonal, emarginate, posteriorly rounded at the base; bracteoles lanceolate.
 
-ginées, postérieurement arrondies à la base; bractéoles lan-
+4. 7–8 pairs of leaflets..... P. longitubus.
 
-céolées.
+4'. 10–14 pairs of leaflets, smaller..... 3. P. multijugus.
 
-4. 7-8 paires de folioles..... P. longitubus.
-
-4'. 10-14 paires de folioles, plus petites..... 3. P. multijugus.
-
-1'. Feuilles bijuguées ou unijuguées; bractéoles suborbiculaires.....
-
-…… P. discifer.
+1'. Leaves bijugate or unijugate; bracteoles suborbicular..... P. discifer.
 
 ## Species in region
 

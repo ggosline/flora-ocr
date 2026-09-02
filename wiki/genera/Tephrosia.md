@@ -17,67 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs, annuals or perennials, suffrutex or trees, reaching 3(–4) m in height. Stipules setaceous or foliaceous. Leaves imparipinnate or rarely palmate; stipels generally absent; leaflets (1–)3 to 27(–31), opposite, with blade ± oblanceolate, margin entire; lateral veins numerous, parallel, converging into a marginal vein. Inflorescences with flowers in axillary fascicles or in terminal pseudoracemes, rarely in panicles or simple racemes; bracts shorter than the flower buds. Flowers generally without bracteoles; calyx with 5 deltoid to subulate lobes, the upper ones ± united into a bidentate labellum, the lower one generally the longest; petals clawed, often red-purple or sometimes pink to white, rarely orange, standard generally suborbicular, often hairy on the back, wings obliquely obovate, slightly adherent to the blunt or subacute, incurved keel, without a rostrum; stamens 10, diadelphous, the vexillary one free or adnate to the others, with equal anthers; ovary sessile, with 1 to several ovules; style curved ± 90° at the base, glabrous or with one or two lines of hairs, stigma linear to capitate or penicillate. Pods linear, flattened, opening into 2 valves often spiraled after dehiscence, with up to 20 seeds. Seeds orbicular to quadrangular or reniform, laterally compressed; strophiole small to well developed, arranged longitudinally or transversally.
 
-Herbes , annuelles ou pérennes, suffrutex ou arbres , atteignant 3(–4) m de hauteur. Stipules
+Genus with pantropical distribution, with approximately 350 species, of which 170 in Africa and Madagascar; in Gabon, 7 species.
 
-sétacées ou foliacées. Feuilles imparipennées ou rarement palmées ; stipelles généralement
+Notes: In addition to the species treated, several others might be expected, notably T. villosa (L.) Pers., very widespread in Africa, T. paniculata Baker from West, Central and Southern Africa and present in Cameroon, T. purpurea (L.) Pers., a pantropical species so common, and T. candida (Roxb.) DC., considered as introduced in Cameroon. T. bracteolata Guill. & Perr. is cited by Descoings (1974a) from the Booué region, but we were unable to confirm it from herbarium specimens. These are the reasons why all these species appear in the key below.
 
-absentes ; folioles (1–)3 à 27(–31) , opposées, à limbe ± oblancéolé , à marge entière ; ner-
+### Bibliography
 
-vures latérales nombreuses, parallèles, réunies en une nervure marginale . Inflorescences
+B: Bosman & de Haas (1983), Botton & Hallé (1957), Brummitt et al. (2007), Chevalier (1937a), Cronquist (1954), Geesink (1984), Gillett (1971d), Lewis et al. (2005), Pellegrin (1949).
 
-à fleurs en fascicules axillaires ou en pseudoracèmes terminaux , rarement en panicules
+### Key to the species
 
-ou en racèmes simples ; bractées plus courtes que les boutons floraux. Fleurs généralement
-
-sans bractéoles ; calice à 5 lobes deltoïdes à subulés, les supérieurs ± soudés en un labelle
-
-bidenté , l’inférieur généralement le plus long ; pétales onguiculés, souvent rouge-pourpre ou
-
-parfois rose à blancs, rarement orange, étendard généralement suborbiculaire, souvent poilu
-
-sur le dos, ailes obliquement obovales, légèrement adhérentes à la carène obtuse ou subai-
-
-guë, incurvée, sans rostre ; étamines 10, diadelphes, la vexillaire libre ou adnée aux autres, à
-
-anthères égales ; ovaire sessile, avec 1 à plusieurs ovules ; style courbé ± 90° à la base, glabre
-
-ou à une ou deux lignes de poils , stigmate linéaire à capité ou penicellé. Gousses linéaires,
-
-aplaties , s’ouvrant en 2 valves souvent spiralées après déhiscence, avec jusqu’à 20 graines.
-
-Graines orbiculaires à quadrangulaires ou réniformes, latéralement comprimées ; strophiole
-
-petite à bien développée, disposée longitudinalement ou transversalement .
-
-Genre à distribution pantropicale, à environ 350 espèces, dont 170 en Afrique et à Madagas-
-
-car ; au Gabon, 7 espèces.
-
-Notes : En plus des espèces traitées, on pourrait en attendre plusieurs autres, notamment T. villosa (L.)
-
-Pers., très répandue en Afrique, T. paniculata Baker de l’Afrique occidentale, centrale et australe et pré-
-
-sente au Cameroun, T. purpurea (L.) Pers., espèce pantropicale si commune, et T. candida (Roxb.) DC.,
-
-considérée comme introduite au Cameroun. T. bracteolata Guill. & Perr. est citée par Descoings (1974a)
-
-de la région de Booué, mais nous n’avons pas pu la confirmer à partir d’échantillons d’herbier. Ce sont
-
-les raisons pour lesquelles toutes ces espèces figurent dans la clé ci-dessous.
-
-B : Bosman & de Haas (1983), Botton & Hallé (1957), Brummitt et al. (2007), Chevalier
-
-i B liographie
-
-(1937a), Cronquist (1954), Geesink (1984), Gillett (1971d), Lewis et al. (2005), Pellegrin (1949).
-
-### Clé des espèces
-
-1. - Suffrutex, arbustes ou petits arbres atteignant 2–4 m de hauteur ; fleur grande, pétales
-
-atteignant 2–3 cm de longueur ........................................................................................ 2
+1. – Suffrutex, shrubs or small trees reaching 2–4 m in height; flower large, petals reaching 2–3 cm in length ........................................................................................ 2
 
 ## Species in region
 

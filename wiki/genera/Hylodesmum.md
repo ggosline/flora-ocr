@@ -17,41 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs; woody root; stems erect to ascending, smooth. Stipules scarious, striate. Leaves: stipelles filiform, scarious; leaflets 3(–7). Inflorescences terminal or axillary, in panicles or loose pseudoracemes, with 2 to 5 flowers per node; bracts early caducous. Flowers: pedicel with uncinate hairs; bracteoles absent; calyx broadly campanulate, 4-lobed with upper lobe entire or with 2 small teeth at apex; petals unguiculate; stamens monadelphous, with filaments in a tube; ovary stipitate. Pods stipitate, with 2 to 5 obtriangular or oval-oblique articles, valves with uncinate hairs, dorsal suture straight to slightly undulate, ventral suture very distinctly emarginate leaving a very narrow isthmus. Seeds obovate-depressed, flattened; hilum without strophiole.
 
-Herbes pérennes ; racine ligneuse ; tiges érigées à ascendantes, lisses. Stipules scarieuses,
+Genus with 14 species, most in Asia, three species in North America and one widespread from Yemen to tropical and southern Africa; to be sought in Gabon.
 
-striées. Feuilles : stipelles filiformes, scarieuses ; folioles 3(–7) . Inflorescences terminales ou
+Notes: This genus was separated from Desmodium.
 
-axillaires, en panicules ou pseudoracèmes lâches, avec 2 à 5 fleurs par nœud ; bractées tôt ca -
+b: Ohashi & Mill (2000), Lewis et al. (2005).
 
-duques. Fleurs : pédicelle à poils unciniés ; bractéoles absentes ; calice largement campanulé,
-
----
-
-Naturalis Biodiversity Center (©).
-
----
-
-4-lobé à lobe supérieur entièr ou à 2 petites dents au sommet ; pétales onguiculés ; étamines
-
-monadelphes , à filets en tube ; ovaire stipité. Gousses stipitées, avec 2 à 5 articles obtrian-
-
-gulaires ou ovales-obliques , valves à poils unciniés, suture dorsale droite à légèrement ondu -
-
-lée, suture ventrale très nettement échancrée laissant une isthme très étroit. Graines obo-
-
-vales-déprimées, aplaties ; hile sans strophiole.
-
-Genre à 14 espèces, la plupart en Asie, trois espèces en Amérique du Nord et une répandue du
-
-Yémen à l’Afrique tropicale et australe ; à rechercher au Gabon.
-
-Notes : Ce genre a été séparé de Desmodium .
-
-b : Ohashi & Mill (2000), Lewis et al. (2005).
-
-ibliographie
+ibliography
 
 ## Species in region
 

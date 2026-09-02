@@ -17,25 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees with resiniferous sapwood. Leaves imparipinnate with alternate leaflets, punctate with translucent glands. Flowers very small in spiciform paniculate racemes, very briefly pedicellate. Bracteoles very small, non-enveloping, caducous. Receptacle very short. Calyx with 5 imbricate, obtuse lobes. Petals 0. Stamens 10, free, with villous filaments; anthers small. Ovary sessile. Ovule 1.
 
-Grands arbres à aubier résinifère. Feuilles imparipennées à folioles alternes, ponctuées de glandes translucides. Fleurs très petites en grappes spiciformes paniculées, très brièvement pédicellées. Bractéoles très petites, non enveloppantes, caduques. Réceptacle très court. Calice à 5 lobes imbriqués, obtus. Pétales o. Étamines ro, libres, à filets velus; anthères petites. Ovaire sessile. Ovule 1.
+Fruit samaroid, sessile, fixed by the extremity of the membranous winged part, the other extremity swollen containing the seed. Wing marked with nervilles radiating fan-like from the apex toward the base.
 
-Fruit samaroïdes, sessiles, fixés par l'extrémité de la partie membraneuse ailée, l'autre extrémité renflée contenant la graine. Aile marquée de nervilles s'écartant en éventail du sommet vers la base.
+Type species: Pterygopodium oxyphyllum Harms.
 
-Espèce type : Pterygopodium oxyphyllum Harms.
+Monotypic genus distributed from southern Nigeria to the Congo Basin.
 
-Genre monospécifique répandu du sud de la Nigéria à la cuvette congolaise.
-
-Très proche du genre Oxystigma, il ne se distingue que par les fruits, samaroïdes chez Pterygopodium, ligneux, indéhiscents, épais chez Oxystigma. Léonard, en dépit de ces différences immédiatement visibles, a préféré réunir les deux genres dans Oxystigma, l'argument principal étant l'existence d'une espèce congolaise, O. Gilbertii Léonard dont le fruit ressemblant à celui d'un Oxystigma, porterait un embryon d'aile plus ou moins développé marquant ainsi une transition entre les types de fruits des deux genres. Cette dernière espèce qui est bien un Oxystigma paraît encore
+Very close to the genus Oxystigma, it is distinguished only by the fruits, samaroid in Pterygopodium, woody, indehiscent, thick in Oxystigma. Léonard, despite these immediately visible differences, preferred to unite the two genera within Oxystigma, the principal argument being the existence of a Congolese species, O. Gilbertii Léonard whose fruit resembling that of an Oxystigma, would bear a more or less developed embryonic wing thus marking a transition between the fruit types of the two genera. This latter species, which is indeed an Oxystigma, still appears
 
 ---
 
-imparfaitement connue. S’il est incontestable que les 2 genres voisins dérivent d’une même souche générique, il n’est pas moins vrai que l’évolution a divergé vers 2 types très différents de fruits, l’un pourvu d’une longue aile, disséminée par le vent, l’autre épais, ligneux, dispersé par des espèces ripicoles au gré des courants des rivières. Pour ces raisons nous croyons préférable de maintenir la distinction entre les deux noms de genres, conforme au sens phylogénétique et à la biologie.
+imperfectly known. If it is indisputable that the 2 neighbouring genera derive from the same generic stock, it is no less true that evolution has diverged toward 2 very different fruit types, one provided with a long wing, dispersed by wind, the other thick, woody, dispersed by ripicoline species at the mercy of river currents. For these reasons we believe it preferable to maintain the distinction between the two generic names, in accordance with phylogenetic sense and biology.
 
-Sans les fruits cependant il convient d'observer que les deux genres Pterygopodium et Oxystigma ne peuvent être distingués. Les nervations des folioles sont en particulier du même type.
+Without the fruits, however, it should be observed that the two genera Pterygopodium and Oxystigma cannot be distinguished. The venation of the leaflets is in particular of the same type.
 
-Les deux genres Gossweilerodendron et Pterygopodium sont également très proches, par la présence de résine dans l'aubier, le port de grands arbres, parfaitement cylindriques, et par les fruits ailés ayant cette curieuse conformation d'avoir la graine unique placée à l'extrémité de l'aile, à l'opposé du point d'insertion. Il n'est pas facile de distinguer ces deux essences de grands arbres, or c'est un problème qui se pose fréquemment en forêt, au Cameroun et au Gabon, où elles coexistent dans de grandes étendues. Les feuilles fournissent cependant des caractères de séparation. Celles du Pterygopodium (Tchitola) sont coriaces, acuminées, et les nervures sont à peine visibles; elles se rejoignent en arceaux à une certaine distance de la marge. Les feuilles du Gossweilerodendron (Tola ou Agba) sont membraneuses, obtuses au sommet, et montrent sur les 2 faces un réseau finement maillé de nervures et de nervilles, les pétiolues sont généralement tordus. Au surplus on peut observer sur les feuilles de Gossweilerodendron des nervures marginales nettes qui ne sont pas présentes chez les Pterygopodium.
+The two genera Gossweilerodendron and Pterygopodium are equally very close, by the presence of resin in the sapwood, the habit of large, perfectly cylindrical trees, and by the winged fruits having this curious conformation of having the single seed placed at the extremity of the wing, opposite the point of insertion. It is not easy to distinguish these two timber trees, yet this is a problem that frequently arises in the forest, in Cameroon and Gabon, where they coexist over large areas. The leaves, however, provide characters for separation. Those of Pterygopodium (Tchitola) are coriaceous, acuminate, and the veins are scarcely visible; they join in arches at a certain distance from the margin. The leaves of Gossweilerodendron (Tola or Agba) are membranous, obtuse at the apex, and show on both faces a finely reticulate network of veins and nervilles, the petiolules are generally twisted. Moreover, one can observe on the leaves of Gossweilerodendron distinct marginal veins which are not present in Pterygopodium.
 
 ## Species in region
 

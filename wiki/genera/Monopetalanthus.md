@@ -17,27 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Stipules ordinarily large, membranous, cordate at base, caducous, rarely persistent. Leaves paripinnate, generally multifoliolate, rarely with a single pair of leaflets (Congo). Leaflets sessile, oblong-linear or oblong, truncate at base, parallel to the rachis, apex rounded or ± emarginate. Primary vein marginal or median.
 
-Arbres. Stipules ordinairement grandes, membraneuses, à base cordée, caduques, rarement persistantes. Feuilles paripennées, généralement multifoliolées, rarement à une paire de folioles (Congo). Folioles sessiles, oblongues-linéaires ou oblongues, tronquées à la base, parallèlement au rachis, sommet arrondi ou ± émarginé. Nervure principale marginale ou médiane.
+Young inflorescences strobiliform resembling cones or scaly glomérules; axillary racemes or panicles. Bracts ovate, caducous. Bracteoles valvate sepaloid, persistent. Receptacle very short or absent. Sepals absent or rudimentary. A single petal, very developed, unguiculate, with emarginate apex; sometimes 1-4 other rudimentary ones. Stamens 8-10, with filaments shortly united at base, or 9 united plus 1 free. Ovary shortly stipitate, hirsute; 2-3 (5-6) ovules. Stigma capitate.
 
-Inflorescences jeunes strobiliformes ressemblant à des cônes ou des glomérules écailleux; grappes ou panicules axillaires. Bractées ovées, caduques. Bractéoles valvaires sépaloïdes, persistantes. Réceptacle très court ou nul. Sépales nuls ou rudimentaires. Un pétale unique, très développé, onguiculé, à sommet émarginé; parfois 1-4 autres rudimentaires. Étamines 8-10, à filets courtement soudés à la base, ou 9 soudés plus 1 libre. Ovaire courtement stipité, hirsute; 2-3 (5-6) ovules. Stigmate capité.
+Fruits flattened, dehiscent into 2 woody valves coiling upon themselves, marked with one or two longitudinal nerves, sometimes not very pronounced.
 
-Fruits aplatis, déhiscents en 2 valves ligneuses s'enroulant sur elles-mêmes, marquées d'une ou deux nervures longitudinales, parfois peu accusées.
+Type species: M. pteridophyllus Harms, Liberia.
 
-Espèce type : M. pteridophyllus Harms, Libéria.
-
-Deux groupes d'espèces peuvent être aisément distingués d'après la position de la nervure principale. Parfois celle-ci borde exactement la marge antérieure de la foliole. Ce dispositif exceptionnel ne se rencontre en dehors de certains Monopetalanthus que chez le genre Aphanocalyx.
+Two groups of species can be easily distinguished based on the position of the primary vein. Sometimes this vein borders exactly the anterior margin of the leaflet. This exceptional arrangement is found outside of certain Monopetalanthus only in the genus Aphanocalyx.
 
 ---
 
-L'autre groupe comprend les espèces où la nervure principale normalement médiane, divise le limbe en deux parties sensiblement égales. On peut y séparer des espèces où cette nervure principale divise le limbe subrectangulaire en diagonale.
+The other group comprises species where the primary vein, normally median, divides the limb into two substantially equal parts. One can distinguish within it species where this primary vein divides the subrectangular limb diagonally.
 
-Le sommet est parfois plus ou moins émarginé, ou arrondi. La base dissymétrique a souvent un lobe postérieur nettement auriculé. La reconnaissance des espèces est difficile.
+The apex is sometimes more or less emarginate, or rounded. The asymmetrical base often has a distinctly auriculate posterior lobe. Recognition of species is difficult.
 
-Le genre Monopetalanthus, comprend à ce jour, 13 espèces de la forêt guinéo-congolaise et 2 espèces ripicoles, géographiquement zambéziennes mais habitant exclusivement des galeries forestières dont la flore est encore congolaise. Son aire s'étend de la Sierra Leone à l'Ouest à la Tanzanie à l'Est, à l'Angola et à la Zambie au Sud. Son centre de concentration est au cœur de la forêt équatoriale : sud du Cameroun, Congo et surtout Gabon.
+The genus Monopetalanthus comprises to date 13 species from the Guineo-Congolian forest and 2 ripicole species, geographically Zambezian but inhabiting exclusively forest galleries whose flora is still Congolian. Its range extends from Sierra Leone in the west to Tanzania in the east, to Angola and Zambia in the south. Its centre of concentration is in the heart of the equatorial forest: southern Cameroon, Congo and especially Gabon.
 
-Nous comptons 2 espèces en Sierra Leone et au Libéria, M. pteridophyllus, M. compactus, qui curieusement n'ont pas encore été signalées en Côte d'Ivoire ni au Ghana. Dans le sud Cameroun et au Gabon, on rencontre M. Heitzii, M. Ledermannii, M. microphyllus, M. pectinatus, M. Le-Testui, M. Pellegrini, M. longiracemosus, M. Hedinii, M. Durandii, M. coriaceus. Au Congo, d'autres espèces, M. Jenseni (District forestier central), M. Richardsiae (Ht Katanga), M. Leonardii (Kivu) paraissent endémiques.
+We count 2 species in Sierra Leone and Liberia, M. pteridophyllus, M. compactus, which curiously have not yet been recorded in Ivory Coast or Ghana. In southern Cameroon and Gabon, one encounters M. Heitzii, M. Ledermannii, M. microphyllus, M. pectinatus, M. Le-Testui, M. Pellegrini, M. longiracemosus, M. Hedinii, M. Durandii, M. coriaceus. In Congo, other species, M. Jenseni (Central forest district), M. Richardsiae (Upper Katanga), M. Leonardii (Kivu) appear to be endemic.
 
 ## Species in region
 

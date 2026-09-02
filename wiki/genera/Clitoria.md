@@ -17,59 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+### Climbing herbs (in Gabon) or shrubs, sometimes small trees. Stipules persistent.
 
-### Herbes grimpantes (au Gabon) ou arbustes , parfois petits arbres . Stipules persistantes.
+Leaves imparipinnate; stipelles present or absent; leaflets (1–)3 to 9. Inflorescences axillary, in short racemes, few-flowered or sometimes flowers solitary or geminate; rachis not swollen at the insertion of the pedicels; bracts persistent, stipuliform. Flowers resupinate (turned 180°), large; bracteoles large; calyx bilabiate, upper lip bilobed, the lower with 3 lobes of which the median longer; corolla of brilliant colour, standard rounded, much wider than the other petals, wings and keel longly unguiculate, keel acute; stamens 10, diadelphous, 9 united and one free or nearly so, filaments alternating long and short, anthers equal; ovary with short stipe, multiovulate; style curved, flattened, pubescent, bearded on the lower surface below the stigma. Legume dehiscent, linear, straight, flattened to cylindric, multiseeded, sometimes furnished with 2 longitudinal ribs.
 
-Feuilles imparipennées ; stipelles présentes ou absentes ; folioles (1–)3 à 9. Inflorescences
+Genus with about 70 species, mostly American, of which 4 in Africa, and 2 in Gabon.
 
-axillaires, en racèmes courts, pauciflores ou parfois fleurs solitaires ou géminées ; rachis non
+Vernacular names: butterfly pea (Engl., general name for Clitoria and Centrosema).
 
-renflé à l’insertion des pédicelles ; bractées persistantes, stipuliformes. Fleurs résupinées
+Notes: The similarities between the genera Clitoria and Centrosema do not surprise the mixing of the synonyms of certain species, especially among the American species of the two genera.
 
-(tournées à 180°) , grandes ; bractéoles grandes ; calice bilabié, lèvre supérieure bilobée, l’in-
+Bibliography: Fantz (1980), Mackinder et al. (20010), Pellegrin (1949), Verdcourt (1971c), Wilczek (1954).
 
-férieure à 3 lobes dont le médian plus long ; corolle de couleur brillante , étendard arrondi,
+### Key to species
 
-beaucoup plus large que les autres pétales , ailes et carène longuement onguiculées , carène
+1. – Leaflets 5 to 7; stipelles 1–2 mm in length; flowers solitary, with corolla violet to blue or rarely white; legume flattened, linear to falciform, ± smooth, pointed, 6–12 cm in length .......................................................................................................... C. ternatea
 
-aiguë ; étamines 10, diadelphes, 9 unies et une libre ou presque, filets alternant longs et courts,
-
-anthères égales ; ovaire à stipe court, multiovulé ; style courbé, aplati, pubescent, barbu sur
-
----
-
-la face inférieure sous le stigmate. Gousse déhiscente, linéaire, droite, aplatie à cylindrique,
-
-multiséminée, parfois munie de 2 côtes longitudinales.
-
-Genre à environ 70 espèces, surtout américaines, dont 4 en Afrique, et 2 au Gabon.
-
-Noms vernaculaires : butterfly pea (angl., nom général pour Clitoria et Centrosema ).
-
-Notes : Les similarités entre les genres Clitoria et Centrosema ne surprennent pas le mélange des syno-
-
-nymes de certaines espèces, surtout parmi les espèces américaines des deux genres.
-
-b : Fantz (1980), Mackinder et al. (20010), Pellegrin (1949), Verdcourt (1971c), Wilczek
-
-ibliographie
-
-(1954).
-
-### Clé des espèces
-
-1. - Folioles 5 à 7 ; stipelles 1–2 mm de longueur ; fleurs solitaires, à corolle violacée à bleu
-
-ou rarement blanche ; gousse aplatie, linéaire à falciforme, ± lisse, pointue, 6–12 cm de
-
-longueur .......................................................................................................... C. ternatea
-
-- Folioles 3 ; stipelles 3–5 mm de longueur ; fleurs 1 à 4 par pédoncule, à corolle blanche
-
-marquée de pourpre ; gousse renflée, ± droite, oblongue-elliptique, à côtes
-
-longitudinales, à sommet aristé, 3–4 cm de longueur ....................................... C. falcata
+– Leaflets 3; stipelles 3–5 mm in length; flowers 1 to 4 per peduncle, with corolla white marked with purple; legume swollen, ± straight, oblong-elliptic, with longitudinal ribs, with aristulate apex, 3–4 cm in length ....................................... C. falcata
 
 ## Species in region
 

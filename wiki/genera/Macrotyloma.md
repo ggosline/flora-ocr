@@ -17,51 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing herbs, annual or perennial. Stipules oval. Leaves 3-foliolate or sometimes 1-foliolate at the base of the plant, petiolate, digitate; stipels filiform, lanceolate or absent; leaflets opposite. Inflorescences axillary or terminal, flowers in axillary fascicles or in pseudoracemes. Flowers: calyx campanulate, lobes 4 or 5, deltoid, the upper ones ± entire; corolla glabrous, yellow or yellowish-white to greenish, standard circular to elliptic, auriculate, with 2 lamellar appendages, wings spatulate at apex, keel straight; stamens diadelphous, anthers uniform; ovary linear, with 3 to 13 ovules; style filiform, glabrous or with short pubescence, stigma terminal, often penicillate. Pods straight or curved. Seeds compressed; hilum central, short.
 
-Herbes grimpantes , annuelles ou pérennes. Stipules ovales. Feuilles 3 - foliolées ou parfois à 1
+Genus of 24 African species, also in Arabia, Madagascar and the islands of the Indian Ocean, 1 species endemic to India; in Gabon, 2 species.
 
-foliole à la base de la plante , pétiolées, digitées ; stipelles filiformes, lancéolées ou absentes ;
+Uses: Fodder plants and green manure. The M. uniflorum (Lam.) Verdc. being a seeded legume of Indian origin and M. geocarpum (Harms) Maréchal & Baudet (= Kerstingiella geocarpa Harms) is well known as Kersting's groundnut in English, the earth lentil of West Africa.
 
-folioles opposées. Inflorescences axillaires ou terminales, à fleurs en fascicules axillaires ou
+Notes: Formerly, this genus was included in the genus Dolichos.
 
-en pseudoracèmes. Fleurs : calice campanulé, lobes 4 ou 5, deltoïdes, les supérieurs ± entiers ;
+Bibliography: Verdcourt (1982), Lewis et al. (2005), Mackinder et al. (2001).
 
-corolle glabre, jaune ou jaune blanchâtre à verdâtre , étendard circulaire à elliptique, auri -
+### Key to species
 
-culé, à 2 appendices lamelliformes , ailes spatuliformes au sommet, carène droite ; étamines
+1. - Pod 3.5–4.5 mm wide; calyx with lobes 3–5.5 mm long; wings 12–14 mm long; leaf with rachis 1–2 mm .............. M. biflorum var. biflorum
 
-diadelphes, anthères uniformes ; ovaire linéaire, avec 3 à 13 ovules ; style filiforme, glabre
-
-ou à pubescence courte, stigmate terminal, souvent pénicellé. Gousses droites ou courbées .
-
-Graines comprimées ; hile central court.
-
-Genre de 24 espèces africaines, aussi en Arabie, Madagascar et les îles de l‘Océan Indien, 1
-
-espèce endémique en Inde ; au Gabon, 2 espèces.
-
-Usages : Des plantes fourragères et engrais vert. Le M. uniflorum (Lam.) Verdc. étant une légume à graine
-
-d’origine indienne et le M. geocarpum (Harms) Maréchal & Baudet (= Kerstingiella geocarpa Harms) est
-
-bien connue comme Kersting’s groundnut en anglais, la lentille de terre de l’Afrique de l’Ouest.
-
-Notes : Autrefois, ce genre était inclus dans le genre Dolichos .
-
-b : Verdcourt (1982), Lewis et al. (2005), Mackinder et al. (2001).
-
-ibliographie
-
-### Clé des espèces
-
-1. - Gousse 3,5–4,5 mm de largeur ; calice à lobes de 3–5,5 mm de longueur ; ailes
-
-12–14 mm de longueur ; feuille à rachis de 1–2 mm .............. M. biflorum var. biflorum
-
-- Gousse 2–3 mm de largeur ; calice à lobes de 1–2 mm de longueur ; ailes 8–10 mm de
-
-longueur ; feuille à rachis presque nulle ................................................... M. tenuiflorum
+- Pod 2–3 mm wide; calyx with lobes 1–2 mm long; wings 8–10 mm long; leaf with rachis almost absent ................................................... M. tenuiflorum
 
 ## Species in region
 

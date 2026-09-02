@@ -17,45 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbes grimpantes, lianes ou suffrutex . Stipules petites, sans éperon. Feuilles 3-foliolées , sti-
-
-pellées. Inflorescences terminales sur des tiges aphylles et axillaires sur des tiges feuillées ;
-
-bractées caduques. Fleurs : bractéoles caduques ; calice bilabié , à dents courtes, les supé-
-
-rieures subconnées ; corolle nettement recourbée vers le haut , blanche à rose ou pourpre,
-
-pétales courtement onguiculés, étendard ± orbiculaire, auriculé, avec une convexité à la face
-
-interne , cordé à la base, plus grand que les autres pétales, ailes plus courtes que la carène,
-
-carène à éperon basal, à rostre long et recourbé ; étamines 10, diadelphes, la vexillaire libre,
-
-5 anthères dorsifixes alternant avec 5 basifixes ; disque annulaire ; ovaire avec 2 à 12 ovules ;
+Climbing herbs, lianes or suffrutex. Stipules small, without spur. Leaves 3-foliolate, stipellate. Inflorescences terminal on aphyllous stems and axillary on leafy stems; bracts caducous. Flowers: bracteoles caducous; calyx bilabiate, with short teeth, the upper ones subconnate; corolla distinctly recurved upward, white to pink or purple, petals shortly unguiculate, standard ± orbicular, auriculate, with a convexity on the inner face, cordate at the base, larger than the other petals, wings shorter than the keel, keel with a basal spur, with a long and recurved rostrum; stamens 10, diadelphous, the vexillar one free, 5 anthers dorsifixed alternating with 5 basifixed; annular disc; ovary with 2 to 12 ovules;
 
 ---
 
-Fleur. – 5. Étendard. – 6. Aile. – 7. Carène. – 8. Androcée. – 9. Gynécée. – 10. Infrutescence. Dessin par
-
-Pat Halliday (©), reproduit avec permission à partir de Lewis et al. (2005).
+Flower. – 5. Standard. – 6. Wing. – 7. Keel. – 8. Androecium. – 9. Gynoecium. – 10. Infructescence. Drawing by Pat Halliday (©), reproduced with permission from Lewis et al. (2005).
 
 ---
 
-style fortement courbé, épaissi et appendiculé vers le sommet barbu . Gousses un peu
+style strongly curved, thickened and appendiculate towards the bearded apex. Pods somewhat inflated, not or slightly septate between the seeds. Seeds oblong, dark brown, without strophiole; hilum linear to elliptic or ovate.
 
-bombées , non ou légèrement cloisonnées entre les graines. Graines oblongues, brun foncé,
+Genus of 4 or 5 species, in West, central and South-East Africa; in Gabon, one species.
 
-sans strophiole ; hile linéaire à elliptique ou ovale.
+Bibliography
 
-Genre de 4 ou 5 espèces, en Afrique de l’Ouest, centrale et au Sud-Est ; au Gabon, une espèce.
-
-B : Lewis et al. (2005), Maréchal et al. (1978), Pellegrin (1949), Verdcourt (1971c), Wilczek
-
-i B liographie
-
-(1954).
+B: Lewis et al. (2005), Maréchal et al. (1978), Pellegrin (1949), Verdcourt (1971c), Wilczek (1954).
 
 ## Species in region
 

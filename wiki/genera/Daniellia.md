@@ -15,8 +15,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 # J. J. Benn. sensu ampl. Hutch. et Dalz.
 
 J. J. Bennett, Pharmaceut. Journ. 14 : 251 (1855). — Oliver, F.T.A. 2 : 299 (1871). — Hutch. et Dalz., F.W.T.A. 1 : 341 (1928) et Kew Bull. : 382 (1928). — Léonard, Mém. Ac. Roy. Belg., 30,2 : 110 (1947); F.C.B. 3 : 341, pl. 25 (1952). — Keay, Kew Bull. : 491 (1953).
@@ -27,29 +25,29 @@ J. J. Bennett, Pharmaceut. Journ. 14 : 251 (1855). — Oliver, F.T.A. 2 : 299 (1
 
 = Paradaniellia Rolfe, Kew Bull.: 96 (1912).
 
-Arbres. Stipules en cornet coiffant les bourgeons, caduques et laissant sur les rameaux à la base des pétioles des cicatrices presque annulaires. Folioles opposées, marquées de ponctuations translucides. Pétioules non tordus.
+Trees. Stipules horn-shaped capping the buds, caducous and leaving on the branches at the base of the petioles almost annular scars. Leaflets opposite, marked with translucent punctations. Petiolules not twisted.
 
-Panicules étalées ± horizontalement. Bractéoles imbriquées, enveloppant le jeune bouton, puis caduques. Réceptacle en forme de massue au bord duquel s'insèrent 4 sépales subégaux, imbriqués; 1-3 pétales grands ou moyens sessiles, et 2-4 plus petits, parfois réduits à des écailles. Sépales et pétales criblés de points translucides. Étamines exsertes 10, inégales, 9 sont unies à la base, la 10e plus petite, libre. Stipe de l'ovaire soudé sur toute sa longueur, à la paroi du réceptacle; 5-16 ovules.
+Panicles spreading ± horizontally. Bracteoles imbricate, enveloping the young bud, then caducous. Receptacle club-shaped at the margin of which 4 subequal, imbricate sepals are inserted; 1-3 large or medium petals sessile, and 2-4 smaller, sometimes reduced to scales. Sepals and petals riddled with translucent dots. Stamens exserted, 10, unequal, 9 united at the base, the 10th smaller, free. Ovary stipe fused along its entire length to the wall of the receptacle; 5-16 ovules.
 
-Fruits déhiscents en 2 valves; endocarpe coriace s'enroulant sur lui-même et se séparant de l'exocarpe en séchant. Graines solitaires, pendantes hors de l'endocarpe à l'extrémité d'un funicule allongé et dilaté à son extrémité en un petit arille. La graine ainsi soutenue des 2 ailes formées par l'endocarpe sec, peut être dispersée par le vent.
+Fruits dehiscent in 2 valves; endocarp coriaceous coiling back on itself and separating from the exocarp on drying. Seeds solitary, pendent outside the endocarp at the extremity of an elongate funicule and dilated at its extremity in a small aril. The seed thus supported by 2 wings formed by the dry endocarp, can be dispersed by wind.
 
-Espèce-type : D. thurifera J. J. Benn.
+Type species: D. thurifera J. J. Benn.
 
-Un des genres de Caesalpiniées les mieux individualisés et
+One of the genera of Caesalpinioideae best individualized and
 
-faciles à reconnaître. En revanche, en dehors de quelques espèces
+easy to recognize. On the other hand, apart from a few easily
 
-facilement distinguables, comme D. Oliveri, D. Soyauxii et D.
+distinguishable species, such as D. Oliveri, D. Soyauxii and D.
 
-Klainei, les autres sont parfois difficilement identifiables et il
+Klainei, the others are sometimes difficult to identify and it
 
 ---
 
-n'est pas sûr que certaines qui sont encore généralement retenues
+is not certain that some which are still generally retained
 
-aujourd'hui ne puissent plus tard être réunies.
+today cannot later be united.
 
-Le genre comprend actuellement 9 espèces et 1 variété. Deux sont des espèces de forêts claires et de savanes boisées : l'une soudanienne, D. Oliveri, l'autre zambézienne occupe une position symétrique dans l'hémisphère austral, D. Alsteeniana, D. Oliveri est ainsi présent dans le N. Cameroun mais non au Gabon. Toutes les autres espèces habitent exclusivement les forêts denses humides. D. thurifera est occidentale, de la Guinée portugaise au Ghana. D. ogea existe de la Casamance au Gabon. D. oblonga paraît endémique au Nigéria du sud, au Cameroun et à Fernando Po. D. Pynaertii est largement répandu de la Côte d'Ivoire au Gabon et à la cuvette congolaise. D. Klainei est endémique gabonais. D. Soyauzii avec une variété pilosa existe du Gabon au Kasaï. Enfin D. Mortehanii, connu seulement par le type, appartiendrait au centre du Congo.
+The genus currently comprises 9 species and 1 variety. Two are species of open forests and wooded savannas: one Sudanian, D. Oliveri, the other Zambezian occupies a symmetric position in the southern hemisphere, D. Alsteeniana, D. Oliveri is thus present in N. Cameroon but not in Gabon. All the other species inhabit exclusively dense humid forests. D. thurifera is western, from Portuguese Guinea to Ghana. D. ogea exists from Casamance to Gabon. D. oblonga appears endemic to southern Nigeria, Cameroon and Fernando Po. D. Pynaertii is widely distributed from Côte d'Ivoire to Gabon and the Congo basin. D. Klainei is endemic to Gabon. D. Soyauxii with a pilosa variety exists from Gabon to Kasai. Finally D. Mortehanii, known only from the type, would belong to central Congo.
 
 ## Species in region
 

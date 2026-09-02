@@ -17,13 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE SPECIES: Cylicodiscus gabunensis Harms.
 
-ESPÈCE-TYPE : Cylicodiscus gabunensis Harms.
-
-Genre monospécifique. Les caractères du genre sont ceux de l'espèce.
-
----
+Monotypic genus. The characters of the genus are those of the species.
 
 ## Species in region
 

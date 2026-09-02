@@ -17,63 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing or prostrate herbs. Stipules small. Leaves pinnate; stipelles small; leaflets 3. Inflorescences axillary, in loose pseudoracemes, long-pedunculate; rachis with thickened nodes at the insertion of flowers, flowers solitary or 2 to 5; bracts caducous, small. Flowers subsessile; bracteoles present; calyx bilabiate, 2 upper teeth connate into a prominent, rounded lip, 3 lower ones deltoid, short; corolla developing in resupinate position, white to purple, standard broad, with 2 callosities at the base, wings narrow, keel broader, often twisted; stamens 10, diadelphous, the vexillar one free at the base, united with the others in the middle; ovary barely stipitate, multiovulate; style incurved, glabrous, stigma small, terminal. Pods linear-oblong to oblong, somewhat turgid, large, with two narrow wings or crests beside the dorsal suture, slightly partitioned between the seeds. Seeds large, 2–3 cm in diameter, white, pink or brown; hilum elliptic, nearly central, often at least half the seed.
 
-Herbes grimpantes ou prostrées. Stipules petites. Feuilles pennées ; stipelles petites ; folioles
+Genus of ± 60 species, from the Americas, Asia and the Pacific; 5 species have wide distributions in the Paleotropics; in Gabon, 2 species are found.
 
-3 . Inflorescences axillaires, en pseudoracèmes lâches, longuement pédonculées ; rachis à
+Notes: The genus Canavalia has been divided into 4 subgenera. The 2 Gabonese species belong to the subgenus Canavalia.
 
-nœuds épaissis sous l’insertion des fleurs, à fleurs solitaires ou par 2 à 5 ; bractées caduques,
+Seeds are adapted for dispersal by sea.
 
-petites. Fleurs subsessiles ; bractéoles présentes ; calice bilabié , 2 dents supérieures soudées
+**Bibliography**
 
-en une lèvre proéminente, arrondie, 3 inférieures deltoïdes, courtes ; corolle se développant
-
-en position résupinée , blanche à pourpre, étendard large, avec 2 callosités à la base, ailes
-
-étroites, carène plus large, souvent tordue ; étamines 10, diadelphes, la vexillaire libre à la
-
-base, unie avec les autres au milieu ; ovaire à peine stipité, multiovulé ; style incurvé, glabre,
-
-stigmate petit, terminal. Gousses linéaires-oblongues à oblongues , un peu turgides , grandes,
-
-à deux ailes ou crêtes étroites à côté de la suture dorsale , légèrement cloisonnées entre les
-
-graines. Graines grosses, 2–3 cm de diamètre , blanches, roses ou brunes ; hile elliptique,
-
-presque central, souvent au moins la moitié de la graine.
-
-Genre à ± 60 espèces, des Amériques, de l’Asie et du Pacifique ; 5 espèces sont de amples
-
-distributions dans les Paléotropiques ; au Gabon, on trouve 2 espèces.
-
-Notes : Le genre Canavalia a été divisé en 4 sous-genres. Les 2 espèces gabonaises appartiennent au
-
-sous-genre Canavalia.
-
-Les graines sont adaptées à la dispersion par la mer.
-
-b : Lewis et al. (2005), Mackinder et al. (2001), Pellegrin (1949), Robyns (1954), Sauer
-
-ibliographie
-
-(1964).
+Lewis et al. (2005), Mackinder et al. (2001), Pellegrin (1949), Robyns (1954), Sauer (1964).
 
 ---
 
-### Clé des espèces
+### Key to species
 
-1. - Foliole à limbe obtus ou émarginé au sommet ; gousse convexe, 10–17 × 1,8–3 cm,
+1. - Leaflet with obtuse or emarginate blade at the apex; pod convex, 10–17 × 1.8–3 cm, each valve with 2 crests close to the dorsal suture; seed brown; mainly on sandy beaches ....................................................................................................... C. rosea
 
-chaque valve à 2 crêtes proches de la suture dorsale ; graine brune ; surtout sur plages
-
-sablonneuses ....................................................................................................... C. rosea
-
-- Foliole à limbe aigu ou acuminé au sommet ; gousse plate, 11–30 × 3–3,5 cm, chaque
-
-valve à une crête proche de la suture, distante de la seconde de 4–5 mm ; graine blanche
-
-ou rose ; à l’intérieur des terres .................................................................. C. ensiformis
+- Leaflet with acute or acuminate blade at the apex; pod flat, 11–30 × 3–3.5 cm, each valve with one crest close to the suture, distant from the second by 4–5 mm; seed white or pink; inland .................................................................. C. ensiformis
 
 ## Species in region
 

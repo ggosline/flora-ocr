@@ -17,31 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes, sarmentose shrubs. Leaves simple, trinervate (5-nervate) at the base. Flowers in paniculate racemes. Calyx with elongate tube, narrow receptacle dilated at the apex with 5 obtuse teeth. Petals 5, equal, lanceolate. Stamens 10, free, in 2 cycles; anthers with longitudinal dehiscence. Ovary long-stipitate, inserted toward the top of the tube. Legumes coriaceous, inflated, bivalvate, long-pedicellate, with persistent calyx at the base of the stipe.
 
-Lianes, arbustes sarmenteux. Feuilles simples, trinervées (5- nervées) à la base. Fleurs en grappes paniculées. Calice à tube allongé, à réceptacle étroit dilaté au sommet avec 5 dents obtuses. Pétales 5, égaux, blancéolés. Étamines ro, libres, en 2 cycles; anthères à déhiscence longitudinale. Ovaire longuement stipité, inséré vers le haut du tube. Gousses coriaces, gonflées, bivalves, longuement pédiculées, à calice persistant à la base du stipe.
+Type species: Griffonia physocarpa Baillon.
 
-Espèce type : Griffonia physocarpa Baillon.
+4 species are distributed from Liberia to Congo and Angola. Among them, G. simplicifolia is distinctly western. 2 others exist in Gabon and Cameroon. G. Tessmannii has been collected thus far only in Gabon, Spanish Guinea, and lower Congo.
 
-4 espèces sont répandues depuis le Libéria jusqu'au Congo et en Angola. Parmi elles, G. simplicifolia est nettement occidentale. 2 autres existent au Gabon et au Cameroun. G. Tessmannii n'a été jusqu'à présent récolté qu'au Gabon, en Guinée espagnole et au bas Congo.
+These liane species can be separated as follows:
 
-Ces espèces de lianes peuvent se séparer ainsi :
+1. Calyx glabrous externally; long receptacle of 20-30 mm.....
 
-1. Calice glabre extérieurement; long réceptacle de 20-30 mm.....
+1'. Calyx ± pubescent externally.
 
-1'. Calice ± velu extérieurement.
+2. Densely pubescent.
 
-2. Très velu.
+3. Greyish; petals glabrous on the outside; receptacle of 12-15 mm, ± pubescent on the inside..... 2. G. simplicifolia.
 
-3. Grisâtre; pétales glabres en dehors; réceptacle de 12-15 mm,
+3'. Light brown; petals pubescent on both faces; short receptacle of 4-6 mm..... 3. G. Tessmannii.
 
-$ \pm $ velus en dedans..... 2. G. simplicifolia.
-
-3'. Brun clair; pétales velus sur les 2 faces; court réceptacle de 4-6 mm. ..... 3. G. Tessmannii.
-
-2'. Un peu velu; long réceptacle de 18-25 mm..... 4. G. speciosa.
-
----
+2'. Slightly pubescent; long receptacle of 18-25 mm..... 4. G. speciosa.
 
 ## Species in region
 

@@ -17,35 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody lianes, shrubs or small trees; branches with lenticels; young branchlets and inflorescences densely pubescent. Leaves unifoliolate; stipels present, leaflets with coriaceous blade. Inflorescences in axillary racemes, sometimes united in terminal panicules or flowers in axillary fascicles; bracts triangular, small. Flowers attached obliquely on the pedicels which enlarge in fruit; bracteoles 2, prominent; calyx split at maturity to the base, with 5 teeth, rather coriaceous, finally caducous along a transverse suture at the base of the tube; petals white or pale blue with a yellow spot near their base, standard pubescent on the outside, wings glabrous, keel slightly pubescent at the base; stamens 10, free, filaments pubescent; ovary tomentose. Pod spiraled, emarginate between the (1–)2 to 7 seeds, brown-velutinous and shiny. Seeds purple-black, later bright red at maturity, funicle slender; hilum small, 0.75 mm in diameter.
 
-Lianes ligneuses, arbustes ou petits arbres ; rameaux lenticellés ; jeunes ramilles et inflores -
+Genus of 2 species, one in Malesia and one in tropical Africa, Gabon included.
 
-cences densément pubescentes. Feuilles unifoliolées ; stipelles présentes , folioles à limbe
+b: Brummitt (1968a), Lewis et al. (2005), Pellegrin (1949).
 
-coriace. Inflorescences en racèmes axillaires, parfois réunis en panicules terminales ou bien
-
-fleurs en fascicules axillaires ; bractées triangulaires, petites. Fleurs fixées obliquement sur
-
-les pédicelles qui s’élargissent en fruit ; bractéoles 2, saillantes ; calice fendu à maturité
-
-jusqu’à la base , à 5 dents, assez coriaces, finalement caduques par une suture transversale
-
-à la base du tube ; pétales blancs ou bleu pâle et à tache jaune près de leur base , étendard
-
-pubescent à l’extérieur , ailes glabres, carène peu pubescente à la base ; étamines 10, libres ,
-
-filets pubescents ; ovaire tomenteux. Gousse spiralée , échancrée entre les (1–)2 à 7 graines,
-
-brune-velutineuse et luisante. Graines pourpre-noir, ensuite rouge vif à maturité, funicule
-
-grêle ; hile petit, 0,75 mm de diamètre.
-
-Genre de 2 espèces, une en Malésie et une en Afrique tropicale, Gabon compris .
-
-b : Brummitt (1968a), Lewis et al. (2005), Pellegrin (1949).
-
-ibliographie
+Bibliography
 
 ## Species in region
 

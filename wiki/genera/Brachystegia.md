@@ -17,37 +17,35 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, rarely shrubs. Leaves pinnately compound, stipulate, the stipules persisting as a hardened intra-petiolar piece. Leaflets opposite, sessile, rarely petiolulate, asymmetrical at the base. Bracteoles sepaloid, valvate, covering the bud. Floral receptacle very short. Tepals 0-10, minute or small. Stamens 10. Ovary stipitate. Ovules (4-6-8 (-10)).
 
-Arbres, rarement arbrisseaux. Feuilles composées pennées, stipulées, les stipules persistant sous forme d'une pièce intra-pétiolaire indurée. Folioles opposées, sessiles, rarement pétiolulées, dissymétriques à la base. Bractéoles sépaloïdes, valvaires, recouvrant le bouton. Réceptacle floral très court. Tépales 0-10, minuscules ou petits. Étamines 10. Ovaire stipité. Ovules (4-6-8 (-10)).
+Wooden pods with winged suture on the margins, smooth or transversely nerved, without longitudinal nerve, opening into two valves coiling into tendrils.
 
-Gousses ligneuses à suture ailée sur les bords, lisses ou nervères transversalement, sans nervure longitudinale, s'ouvrant en deux valves s'enroulant en vrilles.
+Type species: B. spiciformis Benth., Trans. Linn. Soc., 25 : 312 (1865).
 
-Espèce-type : B. spiciformis Benth., Trans. Linn. Soc., 25 : 312 (1865).
+The leaflets of Brachystegia often have a characteristic, asymmetrical base. The lower lobe is more developed than the upper lobe, sometimes rounded and then marked by the fan of several basilar nerves.
 
-Les folioles de Brachystegia ont souvent une base caractéristique, asymétrique. Le lobe inférieur est plus développé que le lobe supérieur, parfois arrondi et alors marqué de l'éventail de plusieurs nervures basiliaires.
-
-Au point de vue écologique et phytogéographique, il existe deux groupes de Brachystegia. L'un comprend des espèces de très grands arbres de la forêt dense humide guinéo-congolaise, au fût puissant, grégaires, se présentant en bouquets de quelques arbres ou même en véritables peuplements. L'autre beaucoup plus important par le nombre des espèces, exclusivement austral, caractérisé par sa prédominance marquée les savanes boisées,
+From an ecological and phytogeographical point of view, there are two groups of Brachystegia. One comprises species of very large trees from the humid dense Guineo-Congolian forest, with powerful boles, gregarious, occurring in clusters of a few trees or even in true stands. The other, much more important in number of species, exclusively austral, characterized by its marked predominance in wooded savannas,
 
 ---
 
-les forêts claires et forêts sèches denses de l'Afrique orientale et australe, alors qu'il n'est pas représenté dans les formations homologues de l'Afrique boréale.
+open forests and dense dry forests of eastern and southern Africa, whereas it is not represented in the homologous formations of boreal Africa.
 
-Dans la forêt guinéo-congolaise plusieurs espèces se succèdent de l'ouest à l'est : B. leonensis de la Sierra Leone à la Côte d'Ivoire, B. Kennedyi et B. nigerica en Nigéria, B. eurycoma de la Nigéria au Cameroun, B. cynometroides au Cameroun, B. Zenkeri et B. Mildbrædi au Cameroun et au Gabon. Dans la cuvette congolaise existent des peuplements remarquables de B. Laurentii, lequel est très proche et peut être identique au B. Zenkeri.
+In the Guineo-Congolian forest several species succeed each other from west to east: B. leonensis from Sierra Leone to Côte d'Ivoire, B. Kennedyi and B. nigerica in Nigeria, B. eurycoma from Nigeria to Cameroon, B. cynometroides in Cameroon, B. Zenkeri and B. Mildbrædi in Cameroon and Gabon. In the Congolian basin there exist remarkable stands of B. Laurentii, which is very close and may be identical to B. Zenkeri.
 
-Les Brachystegia des forêts claires australes comptent au Congo ex Belge environ 24 espèces et variétés (F.C.B.), et 15 espèces en Afrique orientale (F.T.E.A.), sans compter les formes hybrides.
+The Brachystegia of the austral open forests comprise approximately 24 species and varieties in the Congo ex Belge (F.C.B.), and 15 species in eastern Africa (F.T.E.A.), not counting hybrid forms.
 
-Les 4 espèces de très grands arbres connues dans la forêt camerouno-gabonaise peuvent se distinguer ainsi :
+The 4 species of very large trees known in the Cameroonian-Gabonese forest can be distinguished thus:
 
-1. Folioles nombreuses, 9-14 paires, ayant moins de 5 cm de longueur et 1,5 cm de largeur..... 1. B. Mildbraedii.
+1. Leaflets numerous, 9-14 pairs, having less than 5 cm in length and 1.5 cm in width..... 1. B. Mildbraedii.
 
-1'. Folioles, 6 paires au plus.
+1'. Leaflets, 6 pairs at most.
 
-2. Folioles nettement pétiolulées, 3 paires..... B. cynometroides.
+2. Leaflets clearly petiolulate, 3 pairs..... B. cynometroides.
 
-2'. Folioles sessiles.
+2'. Leaflets sessile.
 
-3. Une paire de foliolules rudimentaires, persistantes à la base du rachis, ou caduques mais laissant des cicatrices visibles;
+3. A pair of rudimentary leaflets, persistent at the base of the rachis, or caducous but leaving visible scars;
 
 ## Species in region
 

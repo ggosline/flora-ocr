@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves bipinnate with 2 pairs of opposite pinnules or simply pinnate by abortion. Leaflets or pinnae opposite or subopposite. Flowers in large terminal panicles of numerous densely flowered spikes. Calyx campanulate with 5 semi-orbicular lobes, imbricate in bud. Petals 5, equal, oblong, imbricate in bud. Stamens 10 in 2 series: 5 large alternating with the petals, with filaments swollen at the apex, 5 smaller opposite the petals. Ovary with 2–3 ovules. Pod oblong lanceolate, flattened, with woody valves, acute at the apex, stipitate. Seeds 2–3.
 
-Arbrcs. Feuilles bipennées à 2 paires de pinnules opposées ou simplement pennées par avortement. Foliolules ou folioles opposées ou subopposées. Fleurs en grandes panicules terminales de nombreux épis densément fleuris. Calice campanulé à 5 lobes semi orbiculaires, imbriqués dans le bouton. Pétales 5, égaux, oblongs, imbriqués dans le bouton. Étamines 10 en 2 séries : 5 grandes alternes avec les pétales, à filets renflé au sommet, 5 plus petites opposées aux pétales. Ovaire à 2-3 ovules. Gousse oblongue blancéolée, aplatie, à valves ligneuses, aiguë au sommet, stipitée. Graïnes 2-3.
+Type species: S. Staudtii Harms, Cameroon.
 
-Espèce type : S. Staudtii Harms, Cameroun.
+This genus comprises 2 and perhaps 3 closely related species: S. Stapfiana (Chevalier) Léonard, species widespread in Sierra Leone and Côte d'Ivoire, S. Staudtii Cameroon and Gabonese species, S. Germainii (Wilczek) Léonard from the swamp forest with Copaifera of the Congo basin, which is perhaps identical to S. Staudtii.
 
-Ce genre compte 2 et peut-être 3 espèces voisines : S. Stapfiana (Chevalier) Léonard, espèce répandue en Sierra Leone et Côte d'Ivoire, S. Staudtii espèce camerounaise et gabonaise, S. Germainii (Wilczek) Léonard de la forêt marécageuse à Copaïfera de la cuvette congolaise, qui est peut-être identique à S. Staudtii.
-
-Les feuilles simplement pennées du S. Stapfiana s'opposent aux feuilles bipennées du S. Staudtii, ce qui a paru légitimer une séparation générique, et avait conduit Pellegrin à définir un genre Kaoue pour S. Stapfiana distinct de Stachyothyrus. Les fleurs, les fruits, la nervation des folioles étant les mêmes chez les deux espèces, il semble qu'il soit préférable de rapporter les deux espèces à un même genre, qui est Stachyothyrus Harms.
+The simply pinnate leaves of S. Stapfiana contrast with the bipinnate leaves of S. Staudtii, which seemed to justify a generic separation, and had led Pellegrin to define a genus Kaoue for S. Stapfiana distinct from Stachyothyrus. The flowers, fruits, and venation of the leaflets being the same in the two species, it seems preferable to refer both species to the same genus, which is Stachyothyrus Harms.
 
 ## Species in region
 

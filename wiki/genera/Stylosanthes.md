@@ -17,73 +17,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs or suffrutex. Stipules fused to the petiole and forming a sheath around the stem. Leaves 3-foliolate, pinnate; stipels absent; leaflets with blade showing prominent veins and veinlets. Inflorescences axillary and terminal, very dense, in false oblong capitula (composed of uniflorous elements grouped in a spike or panicle), supported by primary bracts 1(–3)-foliolate; secondary bracts persistent, hyaline, ciliate.
 
-Herbes pérennes ou suffrutex . Stipules soudées au pétiole et formant une gaine autour de
+Flowers subsessile; bracteoles 1 or 2, persistent, hyaline, ciliate; calyx with tube (receptacle) long, slender, ± filiform, at the apex widened into 5 lobes, the upper ones partially fused; petals and stamens inserted on the throat of the calyx tube; standard ± orbicular, slightly emarginate, clawed, wings oblong, free, keel incurved; stamens monadelphous, anthers alternately long and basifixed, short and dorsifixed; ovary subsessile, placed at the base of the calyx tube, ovules 2 or 3; style long, the basal part persistent after fertilization, curved. Pods relatively small, sessile, dehiscent, with 1 or 2 articles, the terminal one crowned by a hook. Seeds compressed, without strophiole.
 
-la tige . Feuilles 3-foliolées , pennées ; stipelles absentes ; folioles à limbe avec nervures et
+Genus with ± 25 species, pantropical, but most species in Central America and South America. Some species widely introduced elsewhere and very widespread in tropical Africa; in Gabon, 3 species.
 
-nervilles saillantes . Inflorescences axillaires et terminales, très denses, en faux capitules
+Notes: The genus has been divided into two sections, sect. Stylosanthes with 2 secondary bracts and sect. Astyposanthes (Herter) Mohlenbr. with 1 secondary bract.
 
-oblongs (composées d’éléments uniflores groupés en épi ou en panicule), soutenus par des
+The species are difficult to separate and hybridization is quite probable.
 
-bractées primaires 1(–3)-foliolées ; bractées secondaires persistantes, hyalines, ciliées .
+Bibliography
 
-Fleurs subsessiles ; bractéoles 1 ou 2, persistantes, hyalines, ciliées ; calice à tube (récep-
+B: Botton & Hallé (1958), Ferreira & Sousa Costa (1979), Gillies & Abbott (1996), Léonard (1954b), Lewis et al. (2005), 't Mannetje (1984), Mohlenbrock (1957), Pellegrin (1949), Sousa Costa (2006), Sousa Costa & Ferreira (1984), Verdcourt (1971e).
 
-tacle) long, grêle, ± filiforme , au sommet élargi en 5 lobes, les supérieurs partiellement sou-
+### Key to the species
 
----
+1. - Stipules 0.5–1 cm long; plant with hairs 0.5 mm; secondary bracts 2; pod with one or two articles with prominent veins, with a beak 1–2.5 mm long ..... 2
 
-Gynécée (× 1). – 9. Infrutescence (× ½). – 10. Graine (× 3). (1–10 : Robyns 2086 ). Dessin par M. Bou-
-
-tique, Jardin Botanique Meise (©).
-
----
-
-dés ; pétales et étamines insérés sur la gorge du tube du calice ; étendard ± orbiculaire, légère-
-
-ment émarginé, onguiculé, ailes oblongues, libres, carène incurvée ; étamines monadelphes ,
-
-anthères alternativement longues et basifixes, courtes et dorsifixes ; ovaire subsessile, placé
-
-à la base du tube du calice, ovules 2 ou 3 ; style long, la partie basale persistante après la fécon-
-
-dation, courbé. Gousses relativement petites, sessiles, déhiscentes, à 1 ou 2 articles, le terminal
-
-couronné par un crochet . Graines comprimées, sans strophiole.
-
-Genre à ± 25 espèces, pantropical, mais la plupart des espèces en Amérique centrale et en
-
-Amérique du Sud. Quelques espèces largement introduites ailleurs et très répandues en
-
-Afrique tropicale ; au Gabon, 3 espèces.
-
-Notes : Le genre a été divisé en deux sections, sect. Stylosanthes avec 2 bractées secondaires et sect.
-
-Astyposanthes (Herter) Mohlenbr. avec 1 bractée secondaire.
-
-Les espèces sont difficiles à séparer et l’hybridation est assez probable.
-
-B : Botton & Hallé (1958), Ferreira & Sousa Costa (1979), Gillies & Abbott (1996), Léonard
-
-i B liographie
-
-(1954b), Lewis et al. (2005), ’t Mannetje (1984), Mohlenbrock (1957), Pellegrin (1949), Sousa Costa
-
-(2006), Sousa Costa & Ferreira (1984), Verdcourt (1971e).
-
-### Clé des espèces
-
-1. - Stipules 0,5–1 cm de longueur ; plante à poils de 0,5 mm ; bractées secondaires 2 ;
-
-gousse à un ou deux articles à nervures saillantes, à bec de 1–2,5 mm de longueur ..... 2
-
-- Stipules 1–2 cm de longueur ; plante à poils de 1,5–2 mm ; une seule bractée
-
-secondaire ; gousse à un article à nervures peu saillantes et bec de 0,1–0,5 mm de
-
-longueur ....................................................................................................... S. guianensis
+- Stipules 1–2 cm long; plant with hairs 1.5–2 mm; a single secondary bract; pod with one article with inconspicuous veins and beak 0.1–0.5 mm long ....................................................................................................... S. guianensis
 
 ## Species in region
 

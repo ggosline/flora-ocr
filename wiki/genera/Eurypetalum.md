@@ -17,23 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 1–2 pairs of leaflets, the upper ones opposite, the lower ones subopposite or alternate, riddled with translucent dots, well-meshed. Flowers in panicles or racemes. Bracteoles minute, not enveloping the bud. Receptacle shortly cupuliform. Sepals 4, subequal, imbricate in the bud. Petals 5, of which 1 very developed, reniform, sessile, with undulate margin, wrinkled and pleated in the bud; 4 others minute or absent. Stamens 10, shortly connate. Ovary briefly stipitate; 1–2 ovules.
 
-Arbres. Feuilles à 1-2 paires de folioles, les supérieures opposées, les inférieures subopposées ou alternes, criblées de points translucides, bien maillées. Fleurs en panicules ou en grappes. Bractéoles minuscules n'enveloppant pas le bouton. Réceptacle courtement cupuliforme. Sépales 4, subégaux, imbriqués dans le bouton. Pétales 5, dont 1 très développé, réni-forme, sessile, à marge ondulée, ridé et plissé dans le bouton; 4 autres minuscules ou nuls. Étamines 10, brièvement soudées. Ovaire brièvement stipité; 1-2 ovules.
+Fruit lanceolate-oblong, with apiculate apex.
 
-Fruit blancéolé-oblong, à sommet apiculé.
+Type species: E. Tessmannii Harms.
 
-Espèce-type : E. Tessmannii Harms.
+3 Cameroonian species, of which 2, very close to each other, extend to Gabon.
 
-3 espèces camerounaises, dont 2, très proches l'une de l'autre, s'étendent au Gabon.
+1. A single pair of leaflets; petiole short 3–9 mm; flowers with long pedicels 15–20 mm..... E. unijugum.
 
-1. Une seule paire de folioles; pétiole court de 3-9 mm; fleurs à longs pédicelles de 15-20 mm..... E. unijugum.
+1'. 2 pairs of leaflets; flowers with short pedicels.
 
-1'. 2 paires de folioles; fleurs à pédicelles courts.
+2. Longly acuminate acute..... 1. E. Batesii.
 
-2. Longuement acuminées aiguës..... 1. E. Batesii.
-
-2'. Courtemment acuminées..... 2. E. Tessmannii.
+2'. Shortly acuminate..... 2. E. Tessmannii.
 
 ## Species in region
 

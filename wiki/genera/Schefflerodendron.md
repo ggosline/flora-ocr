@@ -17,67 +17,37 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or large shrubs. Stipules caducous, small. Leaves imparipinnate; stipels present; leaflets 5 to 12, alternate, with blade scattered beneath with small rounded glands.
 
-Arbres ou grands arbustes . Stipules caduques, petites. Feuilles imparipennées ; stipelles pré-
+Inflorescences axillary or sometimes terminal, in pseudoracemes or in panicles of pseudoracemes; flowers generally in groups of 2 to 4. Flowers: bracteoles present; calyx campanulate, with short teeth, velutinous with dark russet, the upper lobes almost entirely fused; corolla exceeding the calyx, often white, standard rounded, unguiculate, without callosities, dorsally velutinous like the calyx, wings narrow, obtuse, furnished with small glands as well as the keel; stamens diadelphous, the vexillary one free, glabrous, with similar anthers; ovary long-stipitate, velutinous russet-brown, with 3 or 4 ovules; style subulate, stigma terminal. Pods obliquely semi-obovate, curved, inflated around the 1 or 2 seeds, with valves thick, woody, tomentose externally and becoming glabrous or not, silky internally.
 
-sentes ; folioles 5 à 12, alternes , à limbe parsemées dessous de petites glandes arrondies .
+Seeds circular and flattened.
 
-Inflorescences axillaires ou parfois terminales, en pseudoracèmes ou en panicule de pseudo-
+Genus with 5 species, from West and central Africa, with one species extending to the Zanzibar-Inhambane region; in Gabon, three species and one to be sought.
 
-racèmes ; fleurs généralement par 2 à 4. Fleurs : bractéoles présentes ; calice campanulé, à
+Notes: The three Gabonese species are very similar, perhaps representing only varieties of a single one (Pellegrin 1949). The species S. gilbertianum Léonard & Latour, known from the Democratic Republic of the Congo and northern Republic of the Congo (Ozala Park), is to be sought in Gabon, which is why it appears in the key below.
 
-dents courtes, velouté de roux foncé, les lobes supérieurs presque entièrement soudés ; corolle
+B: Geesink (1984), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949).
 
-surpassant le calice, souvent blanche, étendard arrondi, onguiculé, sans callosités, dorsale-
+Bibliography
 
-ment velouté comme le calice , ailes étroites, obtuses, munies de petites glandes ainsi que la
+### Key to the species
 
-carène ; étamines diadelphes, la vexillaire libre, glabres, à anthères similaires ; ovaire longue-
-
-ment stipité, velouté brun-roux, à 3 ou 4 ovules ; style subulé, stigmate terminal. Gousses obli-
-
-quement semi-obovales , courbées, renflées autour des 1 ou 2 graines , à valves épaisses, li-
-
-gneuses , tomenteuses extérieurements et devenant glabres ou non, soyeuses intérieurement .
-
-Graines circulaires et aplaties.
-
-Genre à 5 espèces, d’Afrique de l’Ouest et centrale, avec une espèce s’étendant à la région
-
-Zanzibar-Inhambane ; au Gabon, trois espèces et une à rechercher.
-
-Notes : Les trois espèces gabonaises sont très voisines, peut-être ne représentent que des variétés d’une
-
-seule (Pellegrin 1949). L’espèce S. gilbertianum Léonard & Latour, connue de la République démocra-
-
-tique du Congo et du Nord de la République du Congo (Parc Ozala), est à rechercher au Gabon, raison
-
-pour laquelle elle figure dans la clé ci-dessous.
-
-B : Geesink (1984), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949).
-
-i B liographie
-
-### Clé des espèces
-
-1. - Folioles 5 à 7, à limbe glabre à l’état adulte ; étendard 13–14 mm de longueur
+1. - Leaflets 5 to 7, with blade glabrous in the adult state; standard 13–14 mm in length
 
 ................................................................................................................ S. adenopetalum
 
-- Folioles (5–)7 à 12, à limbe dessous velouté ou pubescent au moins sur la nervure
+- Leaflets (5–)7 to 12, with blade beneath velutinous or pubescent at least on the midvein; standard 15–18 mm in length .................................................................... 2
 
-médiane ; étendard 15–18 mm de longueur .................................................................... 2
+2. - Leaflets with blade russet-ferruginous on the lower surface of the midvein ............ 3
 
-2. - Folioles à limbe roux-ferrugineux sur la face inférieure de la nervure médiane ............ 3
+- Beneath the leaflets and branchlets densely velutinous, reddish-brown ............... S. gabonense
 
-- Dessous des folioles et ramilles densément veloutés, rouge-brun ............... S. gabonense
+3. - Terminal leaflet with blade 1.7–4.5 cm in width; pod smooth .......... S. usambarense
 
-3. - Foliole terminale à limbe de 1,7–4,5 cm de largeur ; gousse lisse .......... S. usambarense
+- Terminal leaflet with blade 5–6 cm in width; pod striated and echinulate (to be sought
 
-- Foliole terminale à limbe de 5–6 cm de largeur ; gousse striée et échinulée (à rechercher
-
-au Gabon) .................................................................. S. gilbertianum Léonard & Latour
+in Gabon) .................................................................. S. gilbertianum Léonard & Latour
 
 ## Species in region
 

@@ -14,8 +14,6 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 10.1. gilletii, p. 68.
 
 10.2. claessensii, p. 71.

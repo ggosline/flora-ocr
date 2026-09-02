@@ -17,43 +17,15 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs or subshrub. Stipules persistent, triangular. Leaves imparipinnate; stipels present; leaflets (1–)3 to 9, opposite. Inflorescences terminal or axillary, in compact spiciform racemes, with numerous flowers; bracts persistent or caducous, ovate to ovate-lanceolate, subulate. Flowers without bracteoles; calyx divided into 5 lobes subulate almost to the base except the upper ones which are ± connate and shorter than the lower ones; corolla yellowish to purplish-violet, standard obovate to orbicular, with short claw, wings oblong-falcate, adnate to the keel, keel obtuse, with long claw, auricles absent or reduced; stamens 10, diadelphous, anthers uniform; ovary ± sessile, with 2 or several ovules; style slender, bent toward the top, stigma terminal, capitate. Pods with persistent calyx, articulate, with lenticular articles packed accordion-like. Seeds flattened-lenticular to subreniform, brown.
 
-Herbes pérennes ou suffrutex . Stipules persistantes, triangulaires. Feuilles imparipennées ;
+Genus of approximately 20 species from India to China, Malaysia and Australia, 2 species extending to Africa; in Gabon, one species widely distributed.
 
-stipelles présentes ; folioles (1–)3 à 9, opposées. Inflorescences terminales ou axillaires, en
+Notes: The second species in Africa is U. gossweileri Baker f. from Angola, an entity of uncertain taxonomic status.
 
-racèmes spiciformes, compacts , à fleurs nombreuses ; bractées persistantes ou caduques,
+B: Léonard (1954b), Pellegrin (1949), Verdcourt (1971d).
 
-ovales à ovales-lancéolées, subulées. Fleurs sans bractéoles ; calice divisé en 5 lobes su-
-
-bulés presque jusqu’à la base sauf les supérieurs qui sont ± soudés et plus courts que les
-
-inférieurs ; corolle jaunâtre à violacée purpurine , étendard obovale à orbiculaire, à onglet
-
-court, ailes oblongues-falquées, adhérentes à la carène, carène obtuse, à onglet long, auricules
-
-absentes ou réduites ; étamines 10, diadelphes, anthères uniformes ; ovaire ± sessile, à 2 ou
-
-plusieurs ovules ; style grêle, coudé vers le haut, stigmate terminal, capité. Gousses à calice
-
----
-
-persistant, articulées, à articles lenticulaires tassés en accordéon . Graines aplaties-lenticu-
-
-laires à subréniformes, brunes.
-
-Genre d’environ 20 espèces de l’Inde à la Chine, la Malésie et l’Australie, 2 espèces s’éten-
-
-dant jusqu’en Afrique ; au Gabon, une espèce largement répandue.
-
-Notes : La deuxième espèce en Afrique est U. gossweileri Baker f. de l’Angola, entité au statut taxono-
-
-mique incertain.
-
-B : Léonard (1954b), Pellegrin (1949), Verdcourt (1971d).
-
-i B liographie
+Bibliography
 
 ## Species in region
 

@@ -17,31 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees with fragrant wood. Leaves imparipinnate; stipelles absent; leaflets alternate, limb with translucent dots or lines. Inflorescences terminal or axillary, in racemes or sometimes in panicles; bracts and bracteoles small, caducous. Flowers: calyx campanulate, with 5 unequal teeth; standard clawed, wings and keel free, narrowly spatulate; stamens 10, monadelphous, similar, filaments free, anthers oblong, acuminate; ovary long-stipitate, with 1 (–2) distal ovule; style short, filiform, stigma terminal, small. Samaroid pod, with short stipe, with 1 (–2) distal seed, basal sterile part with 2 wings.
 
-Arbres à bois parfumé . Feuilles imparipennées ; stipelles absentes ; folioles alternes, limbe à
+Genus of 2 species, from Mexico to Argentina; cultivated in West Africa and Sri Lanka; in Gabon, one species.
 
-points ou lignes translucides . Inflorescences terminales ou axillaires, en racèmes ou parfois
+Bibliography
 
-en panicules ; bractées et bractéoles petites, caduques. Fleurs : calice campanulé, à 5 dents iné -
-
-gales ; étendard onguiculé, ailes et carène libres, étroitement spatulées ; étamines 10, mona-
-
-delphes , similaires, filets libres , anthères oblongues, acuminées ; ovaire longuement stipité,
-
-à 1 (–2) ovule distal ; style court, filiforme, stigmate terminal, petit. Gousse samaroïde, à
-
-stipe court , avec 1(–2) graine distale, partie stérile basale à 2 ailes .
-
-Genre de 2 espèces, du Mexique à l’Argentine ; cultivé en Afrique de l’Ouest et au Sri Lanka ;
-
-au Gabon, une espèce.
-
-b : Dillon (1980), Lewis et al. (2005).
-
-ibliographie
-
----
+Dillon (1980), Lewis et al. (2005).
 
 ## Species in region
 

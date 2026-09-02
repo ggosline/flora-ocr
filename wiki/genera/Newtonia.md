@@ -17,29 +17,27 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves bipinnate with 1 to numerous pairs of sessile leaflets per pinna. Gland between each pair of pinnae on the rachis. Inflorescences in panicles of spikes or racemes. Flowers ♢, sessile or subsessile, pentamerous. Calyx gamosepalous. Corolla with 5 free petals. Stamens 10; anther with or without gland. Ovary very pubescent. Pod narrow, sometimes curved, flat, dehiscent by a dehiscence slit. Seeds flat, winged, oblong, brown, elongate along the length of the fruit, funicle long, attached at the apex of the seed.
 
-Arbres. Feuilles bipennées à 1 à nombreuses paires de folioles sessiles par penne. Glande entre chaque paire de penne sur le rachis. Inflorescences en panicule d'épis ou de racèmes. Fleurs ♢, sessiles ou subsessiles, pentamères. Calice gamosépale. Corolle à 5 pétales libres. Étamines 10; anthère avec ou sans glande. Ovaire très pubescent. Gousse étroite, parfois courbe, plate, déhiscente par une fente de déhiscence. Graines plates, ailées, oblongues, brunes, allongées suivant la longueur du fruit, funicule long, attaché au sommet de la graine.
+TYPE SPECIES: N. duparquetiana (Baill.) Keay.
 
-ESPÈCE-TYPE : N. duparquetiana (Baill.) Keay.
+This genus comprises 15 or more species of which 14 are present in Africa; the remainder in America. In Gabon 5 are known.
 
-Ce genre regroupe 15 ou plus espèces dont 14 sont présentes en Afrique ; le reste en Amérique. Au Gabon 5 sont connues.
+1. 1–2 pairs of pinnae; 2 leaflets per pinna ..... 1. N. duparquetiana.
 
-1. 1-2 paires de pennes; 2 folioles par penne ..... 1. N. duparquetiana.
+1'. More than 2 pairs of pinnae; more than 2 leaflets per pinna.
 
-1'. Plus de 2 paires de pennes; plus de 2 folioles par penne.
+2. Leaflets elliptic to rhombic; distinctly longer than 1 cm.
 
-2. Folioles elliptiques à rhombiques; nettement longues de plus de 1 cm.
+3. No glands between the pairs of leaflets ..... 2. N. griffoniana.
 
-3. Pas de glandes entre les paires de folioles ..... 2. N. griffoniana.
+3'. Gland between the pairs of leaflets ..... 3. N. glandulifera.
 
-3'. Glande entre les paires de folioles ..... 3. N. glandulifera.
+2'. Leaflets linear-oblong; less than ± 1 cm long.
 
-2'. Folioles linéaires oblongues; longues de moins de ± 1 cm.
+4. Petiole and rachis flattened; petiole ± 1 cm long ..... 4. N. leucocarpa.
 
-4. Pétiole et rachis aplati; pétiole long de ± 1 cm ..... 4. N. leucocarpa.
-
-4'. Pétiole et rachis cylindrique, canaliculé dessus; pétiole long de 2-3 cm ..... 5. N. grandifolia.
+4'. Petiole and rachis cylindric, channelled above; petiole 2–3 cm long ..... 5. N. grandifolia.
 
 ## Species in region
 

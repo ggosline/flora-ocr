@@ -17,29 +17,23 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves plurijugate, rarely unijugate. Leaflets often riddled with translucent dots. Petiolules short, generally twisted. Inflorescences in panicles of small flowers. Bracteoles valvate enveloping the bud, keeled dorsally. Receptacle flat or slightly concave. Sepals 5, equal or subequal, free, well developed, densely ciliate. Petals 5, of which 1 large and the others very reduced. Stamens 10, exsert, substantially of the same length, of which 9 fused at the base and 1 free. Fruits dehiscent into 2 woody valves, coiling upon dehiscence.
 
-Feuilles plurijuguées, rarement unijuguées. Folioles souvent criblées de points translucides. PétioIules courts, généralement tordus. Inflorescences en panicules de petites fleurs. Bractéoles valvaires enveloppant le bouton, carénées dorsalement. Réceptacle plan ou légèrement concave. Sépales 5, égaux ou subégaux, libres, bien développés, densément ciliés. Pétales 5, dont 1 grand et les autres très réduits. Étamines 10, exsertes, sensiblement de même longueur, dont 9 soudés à la base et 1 libre. Fruits déhiscents en 2 valves ligneuses, s'enroulant lors de la déhiscence.
+Type species: J. Hochreutneri Pellegr., Gabon.
 
-Espèce type : J. Hochreutneri Pellegr., Gabon.
+This genus comprises 3 species of large trees of the humid dense forest of the Guineo-Congolian region: one apparently rare and endemic to Gabon, J. Hochreutneri; a second known from the maritime sectors of Gabon and Mayombé, not recorded in the Congolian forest, J. Brieyi; the third, J. Seretii, has a wide range, from southern Nigeria, in Cameroon, Gabon, Mayombé and Congo. Léonard and Troupin referred to the genus Julbernardia a fourth species common to the humid dense forest of Cameroon and Gabon, with unijugate leaves, which we prefer to leave as the type of a monotypic genus: Paraberlinia bifoliolata.
 
-Ce genre comprend 3 espèces de grands arbres de la forêt dense humide guinéo-congolaise : une apparemment rare et endémique gabonaise, J. Hochreutineri ; une seconde connue des secteurs maritimes du Gabon et du Mayombé, non signalée dans la forêt congolaise, J. Brieyi ; la troisième, J. Seretii, a une aire vaste, depuis le sud de la Nigéria, au Cameroun, Gabon, Mayombé et Congo. Léonard et Troupin ont rapporté au genre Julbernardia une quatrième espèce commune de la forêt dense camerounaise et gabonaise, à feuilles unijuguées, que nous préférons laisser comme type d'un genre monospécifique : Paraberlinia bifoliolata.
-
-Les mêmes botanistes ont donné au genre Julbernardia un sens large qui leur permet d'y inclure 3 espèces des forêts claires et savanes australes : J. Baumii, J. globiflora et J. paniculata, et en outre 2 espèces des forêts du Tanganika et du Kenya, J. magnistipulata et J. unijugata. Hauman et Duvigneaud avaient réuni les 3 espèces zambéziennes dans un genre distinct Pseudo-berlinia.
+The same botanists gave to the genus Julbernardia a broad sense which allows them to include in it 3 species of open forests and southern savannas: J. Baumii, J. globiflora and J. paniculata, and further 2 species of the forests of Tanganyika and Kenya, J. magnistipulata and J. unijugata. Hauman and Duvigneaud had united the 3 Zambezian species in a distinct genus Pseudo-berlinia.
 
 ---
 
-Nos 3 espèces guinéo-congolaises se séparent ainsi :
+Our 3 Guineo-Congolian species are separated thus:
 
-1. Fleurs le
+1. Flowers small; leaves 2-4 jugate ..... 1. J. Hochreutneri.
 
-: feuilles 4
+2. Leaves 2-4 jugate; large inflorescences, up to 25 cm in length; large petal 17 mm in length ..... 2. J. Seretii.
 
-: hreutineri.
-
-2. Feuilles 2-4 juguées; grandes inflorescences, jusqu'à 25 cm de longueur; grand pétale de 17 mm de longueur ..... 2. J. Seretii.
-
-2'. Feuilles 4-6 juguées, inflorescences de 4-7 cm de longueur; grand pétale de 5-7 mm de longueur ..... 3. J. Brieyi.
+2'. Leaves 4-6 jugate, inflorescences 4-7 cm in length; large petal 5-7 mm in length ..... 3. J. Brieyi.
 
 ## Species in region
 

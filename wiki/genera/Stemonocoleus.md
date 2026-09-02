@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with alternate leaflets provided with translucent punctations. Panicles of small dense racemes. Bracts covering the buds, caducous. Bracteoles non-involucral. Receptacle funnel-shaped. Sepals 4 imbricate in the bud. Petals 0. Stamens 4 fused at the base into a half-column in the form of a gutter partially surrounding the ovary. Ovary 2-ovulate.
 
-Arbres. Feuilles à folioles alternes pourvues de ponctuations translucides. Panicules de petites grappes denses. Bractées couvrant les boutons, caduques. Bractéoles non involucrales. Réceptacle en entonnoir. Sépales 4 imbriqués dans le bouton. Pétales o. Étamines 4 soudées à la base en une demi-colonne en forme de gouttière entourant partiellement l'ovaire. Ovaire 2-ovulé.
+Fruits indehiscent, papyraceous, reticulate, oblong, pedicellate, containing 1-2 seeds projecting toward the middle of the fruit.
 
-Fruits indéhiscents, papyracés, réticulés, oblongs, pédiculés, contenant 1-2 graines faisant saillie vers le milieu du fruit.
+Type species: S. micranthus Harms.
 
-Espèce type : S. micranthus Harms.
-
-Genre monospécifique.
+Monotypic genus.
 
 ## Species in region
 

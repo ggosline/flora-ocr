@@ -18,49 +18,25 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves paribipinnate with alternate leaflets. Inflorescences of paniculate spikes. Calyx campanulate with 5 lobes fused at the base, or nearly free. Petals 5, free, equal, somewhat imbricate in bud. Stamens 10, alternately long and short. Ovary long-stipitate; numerous ovules; style short. Pods oblong, woody or coriaceous, dehiscent. Seeds attached by a rather long funicle.
 
-Arbres. Feuilles paribipennées à foliolules alternes. Inflo-
+Type species: E. suaveolens (Guill. et Perr.) Brenan.
 
-rescences d'épis paniculés. Calice campanulé à 5 lobes soudés
+Palaeotropical genus; common to Africa, Madagascar (E. couminga Baill.), Asia and Australia.
 
-à la base, ou presque libres. Pétales 5, libres, égaux, un peu
+3 species in Africa, with very extensive geographic ranges, ecologically well-differentiated.
 
-imbriqués dans le bouton. Étamines 10, alternativement longues
+E. africanum and typical E. suaveolens do not occur in Gabon. E. suaveolens is present in the peripheral parts of dense forest. In Gabon there exists a transitional form with small leaflets ± rounded at the base, with pubescent midrib beneath. By its form it appears to us closer to E. ivorense than to E. suaveolens. E. ivorense is generally a very large tree, E. suaveolens is a tree which can reach a large diameter, but of squat form. The separation between these two latter species is sometimes difficult; intermediate forms exist. It is rather a matter of ecophyletic species or varieties of a single species. Nevertheless we shall retain here both of them, traditionally maintained as separate by all botanists.
 
-et courtes. Ovaire longuement stipité; nombreux ovules; style
-
-court. Gousses oblongues, ligneuses ou coriaces, déhiscentes.
-
-Graines attachées par un assez long funicule.
-
-Espèce type : E. suaveolens (Guill. et Perr.) Brenan.
-
-Genre paléotropical; commun à l'Afrique, Madagascar (E. couminga Baill.), l'Asie et l'Australie.
-
-3 espèces en Afrique, aux aires géographiques très étendues, écologiquement bien distinctes.
-
-E. africanum et le E. suaveolens typique n'existent pas au Gabon. E. suaveolens est présent dans les parties périphériques de la forêt dense. Au Gabon il existe une forme de transition à petites foliolules ± arrondie à la base, à nervure médiane pubescente dessous. Par sa forme elle nous paraît plus proche d'E. ivorense que de E. suaveolens. E. ivorense est généralement un très grand arbre, E. suaveolens est un arbre qui peut atteindre un gros diamètre, mais de forme trapue. La séparation entre ces deux dernières espèces est parfois difficile; des formes intermédiaires existent. Il s'agit plutôt ou d'espèces écophylétiques ou de variétés d'une même espèce. Cependant nous les garderons ici toutes deux maintenues traditionnellement séparées par tous les botanistes.
-
-1. Folioles obtuses ou arrondies ou légèrement émarginées au sommet, non acuminées; savanes boisées et forêts claires soudano-zambé-ziennes ..... E. africanum.
+1. Leaflets obtuse or rounded or slightly emarginate at the apex, not acuminate; wooded savannas and clear sudano-zambezian forests ..... E. africanum.
 
 ---
 
-1'. Folioles acuminées.
+1'. Leaflets acuminate.
 
-2. Ovées-oblongues, ordinairement obtuses à la base; fleurs subses-
+2. Ovate-oblong, ordinarily obtuse at the base; flowers subsessile; petals densely hairy externally; humid evergreen and semi-deciduous dense forest ..... E. ivorense.
 
-siles; pétales densément velus extérieurement; forêt dense humide
-
-sempervirente et semi-décidue ..... I. E. ivorense.
-
-2'. L'argement ovées arrondies à la base; fleurs distinctement pédi-
-
-cellées; pétales pubescents sur les bords et sur la nervure médiane;
-
-lisières de la forêt dense humide, galeries forestières et forêts
-
-sèches denses ..... E. suaveolens.
+2'. Broadly ovate rounded at the base; flowers distinctly pedicellate; petals pubescent on the margins and on the midrib; margins of humid dense forest, forest galleries and dense dry forests ..... E. suaveolens.
 
 ## Species in region
 

@@ -17,71 +17,32 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees or shrubs, indumentum with ferruginous or black hairs; buds large, subspheric.
 
-Arbres ou arbustes , indument à poils ferrugineux ou noirs ; bourgeons gros, subsphériques.
+Stipules early caducous. Leaves imparipinnate; stipels present or absent, linear, often aborted; petiolules wrinkled; leaflets 1 to 11, alternate, with blade often with reticulate venation and glabrous. Inflorescences axillary or terminal, in pseudoracemes or panicles, with solitary flowers; bracts caducous. Flowers fragrant: bracteoles caducous; calyx sometimes white, turbinate at base, teeth shorter than the tube, the upper ones connate; corolla often white, glabrous or nearly so; standard ± circular, with short claw, wings oblong, often appendiculate, hooked at the base, keel incurved, similar to the wings; stamens 10, diadelphous, the vexillar one free, anthers equal; disc absent; ovary sessile or rarely stipitate, with 2 to 5 ovules; style inflexed, stigma small, capitate. Pods rapidly dehiscent, oval to oblong-oval, attenuate toward the base, flattened, with rigid, coriaceous valves, glabrous or glabrescent, with 1 or 2(–3) seeds situated toward the apex of the pod. Seeds ovoid, flattened, dark brown to black.
 
-Stipules tôt caduques. Feuilles imparipennées ; stipelles présentes ou absentes, linéaires,
+Genus comprising 10 species distributed in tropical Africa, of which 4 recorded from Gabon.
 
-souvent avortées ; pétiolules ridées ; folioles 1 à 11, alternes , à limbe souvent à nervation
-
-réticulée et glabre. Inflorescences axillaires ou terminales, en pseudoracèmes ou panicules, à
-
-fleurs solitaires ; bractées caduques. Fleurs odorantes : bractéoles caduques ; calice parfois
-
-blanc, à base turbinée, dents plus courtes que le tube, les supérieures connées ; corolle souvent
-
-blanche , glabre ou presque ; étendard ± circulaire, à onglet court, ailes oblongues, souvent
-
-appendiculées, crochues à la base, carène incurvée, semblable aux ailes ; étamines 10, dia -
-
-delphes, la vexillaire libre, anthères égales ; disque absent ; ovaire sessile ou rarement stipité,
-
-avec 2 à 5 ovules ; style infléchi, stigmate petit, capité. Gousses rapidement déhiscentes, ova-
-
-les à oblongues-ovales , atténuées vers la base , aplaties, à valves rigides , coriaces, glabres ou
-
-glabrescentes, avec 1 ou 2(–3) graines situées vers le sommet de la gousse . Graines ovoïdes,
-
-aplaties, brun sombre à noires.
-
-Genre comprenant 10 espèces distribuées en Afrique tropicale, dont 4 signalées au Gabon.
-
-Notes : Assez voisin du genre Millettia , mais folioles généralement alternes, gousses atténuées vers la
-
-base, avec 1 ou 2(–3) graines près du sommet.
+Notes: Rather close to the genus Millettia, but leaflets generally alternate, pods attenuate toward the base, with 1 or 2(–3) seeds near the apex.
 
 ---
 
-Le spécimen White 1127 (WAG) représente une espèce de Craibia , mais avec ses grandes folioles attei-
+The specimen White 1127 (WAG) represents a species of Craibia, but with its large leaflets reaching 18 × 4 cm and diamond-shaped flattened pod of 20 × 5 cm, this specimen does not resemble any known species in Africa. Unfortunately, insufficient material does not allow the description of a new species.
 
-gnant 18 × 4 cm et gousse plate losangique de 20 × 5 cm, ce spécimen ne ressemble pas à une espèce
+Bibliography: Geesink (1984), Gillett (1960a), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949), Verdcourt (2007).
 
-connue en Afrique. Malheureusement, le matériel insuffisant ne permet pas la description d’une espèce
+### Key to the species
 
-nouvelle.
+1. - Leaf unifoliolate; pod lanceolate .............................................................. C. simplex
 
-b : Geesink (1984), Gillett (1960a), Hauman (1954a), Lewis et al. (2005), Pellegrin (1949),
+- Leaf with 3 to 9 leaflets; pod suborbicular or obliquely obovate-oblanceolate
+(unknown in C. macrantha) ........................................................................................ 2
 
-ibliographie
+2. - Leaf with 3 to 5 leaflets; calyx, pedicels and bracteoles glabrescent; corolla 2 cm
+or more in length; stamens 15–25 mm; pedicel 1 cm or more .............................. 3
 
-Verdcourt (2007).
-
-### Clé des espèces
-
-1. - Feuille unifoliolée ; gousse lancéolée .............................................................. C. simplex
-
-- Feuille avec 3 à 9 folioles ; gousse suborbiculaire ou obliquement obovale-oblancéolée
-
-(inconnue chez C. macrantha ) ........................................................................................ 2
-
-2. - Feuille avec 3 à 5 folioles ; calice, pédicelles et bractéoles glabrescents ; corolle 2 cm
-
-ou plus de longueur ; étamines 15–25 mm ; pédicelle 1 cm ou plus .............................. 3
-
-- Feuille avec 7 à 9 folioles ; calice, pédicelle et bractéoles avec indument dense, brun
-
-foncé, semi-apprimé ; corolle atteignant 13 mm de longueur ; étamines 8–13 mm ;
+- Leaf with 7 to 9 leaflets; calyx, pedicel and bracteoles with dense, dark brown,
+semi-appressed indumentum; corolla reaching 13 mm in length; stamens 8–13 mm;
 
 ## Species in region
 

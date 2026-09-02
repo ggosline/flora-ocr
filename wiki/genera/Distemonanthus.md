@@ -17,11 +17,9 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves imparipinnate. Inflorescences in paniculate cymes. Sepals 5, unequal, imbricate. Petals 3, unequal. Fertile stamens 2, anthers basifixed, poricidal. Staminodes 3. Ovary with 4-5 ovules. Pods flat, oblong.
 
-Arbres. Feuilles imparipennées. Inflorescences en cymes paniculées. Sépales 5, inégaux, imbriqués. Pétales 3, inégaux. Étamines fertiles 2, anthères basifixes, poricides. Staminodes 3. Ovaire à 4-5 ovules. Gousses plates, oblongues.
-
-Genre monospécifique.
+Monotypic genus.
 
 ## Species in region
 

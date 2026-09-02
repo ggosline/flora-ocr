@@ -17,9 +17,7 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Genre monospécifique dont les caractères sont ceux de l'espèce.
+Monotypic genus whose characters are those of the species.
 
 ## Species in region
 

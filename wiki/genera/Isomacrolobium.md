@@ -17,29 +17,21 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs, small trees. Inflorescences in panicles, sometimes very long and shortly branched. Bracteoles valvate, velvety. Calyx with short tube, 4–5 lobes. Petals (−4) 5 (−6), subequal, with short or very short claw. Fertile stamens 3, exserted; staminodes present. Pods velvety ferruginous, oblong, with surface somewhat obliquely wrinkled.
 
-Arbustes, petits arbres. Inflorescences en panicules, parfois très longues et courtement ramifiées. Bractéoles valvaires, veloutées. Calice à court tube, 4-5 lobes. Pétales (-4) 5 (-6), subégaux, à court ou très court onglet. Étamines fertiles 3, exsertes; des staminodes. Gousses veloutées ferrugineuses, oblongues, à surface un peu ridée obliquement.
+Type species: Isomacrolobium leptorrhachis (Harms) Aubr. et Pellegr.
 
-Espèce type : Isomacrolobium leptorrhachis (Harms) Aubr. et Pellegr.
+This genus of small trees and shrubs is fairly homogeneous with its flowers ordinarily bearing 5 equal petals, of a subspatulate type distinctly different from that of the unique large petal with long claw of Anthonotha species. Common to both these genera are 3 fertile stamens very exserted and rudimentary staminodes. In all our Isomacrolobium the leaves are paucijugate and glabrous; Anthonotha are often recognized by satiny golden or silvery leaflets.
 
-Ce genre de petits arbres et d'arbustes est assez homogène avec ses fleurs ordinairement à 5 pétales égaux, d'un type subspatulé bien distinct de celui de l'unique grand pétale à long onglet des espèces d'Anthonotha. En commun ces deux genres ont 3 étamines fertiles très exsertes et des staminodes rudimentaires. Chez tous nos Isomacrolobium les feuilles sont paucijuguées et glabres; les Anthonotha se reconnaissent souvent par des folioles satinées dorées ou argentées.
+About a dozen species from West and equatorial Africa: I. elongatum in Sierra Leone; I. Vigneï from Sierra Leone to Ghana; I. nigericum and I. obanense in Nigeria; I. leptorrhachis in Cameroon; I. graciliflorum in Spanish Guinea; I. Sargosii and I. Lebrunii in Congo. Three species in Gabon (see addenda p. 362).
 
-Une dizaine d'espèces d'Afrique occidentale et équatoriale : I elongatum en Sierra-Leone; I. Vigneï de Sierra-Leone au Ghana; I. nigericum et I. obanense au Nigéria; I. leptorrhachis au Cameroun I. graciliflorum en Guinée espagnole; I. Sargosii et I. Lebrunii au Congo. Trois espèces au Gabon (voir addenda p. 362).
+1. Long panicles, reaching up to 50 cm in length, shortly branched.
 
-1. Longues panicules, pouvant atteindre 50 cm de longueur, cour-
+2. Rachis shortly winged..... I. leptorrhachis (Cameroon).
 
-tement ramifiées.
+2'. Rachis not winged; large foliaceous stipules with basal auricles..... 1. I. conchyliophorum.
 
-2. Rachis courtement aile..... I. leptorrhachis (Cameroun).
-
-2'. Rachis non ailé; grandes stipules foliacées avec des oreillettes basales..... 1. I. conchyliophorum.
-
-1'. Panicules lâches, jusqu'à 20 cm de longueur; stipules petites et caduques..... 2. I. isopetalum.
-
----
-
----
+1'. Lax panicles, up to 20 cm in length; stipules small and caducous..... 2. I. isopetalum.
 
 ## Species in region
 

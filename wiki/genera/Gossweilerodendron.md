@@ -17,23 +17,17 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees exuding a brownish-green resin. Leaves imparipinnate, with alternate leaflets, punctate with translucent glands. Petiolules generally twisted. Spiciform racemes paniculate, with very small flowers shortly pedicellate. Bracteoles reduced, not enveloping the bud, caducous. Receptacle cupuliform, very short; 4 imbricate sepals, suborbicular, punctate with translucent glands. Petals 0. Stamens (8–) 10, with free filaments, villous at the base. Small oval anthers, dorsifixed. Ovary stipitate. Ovule 1.
 
-Grands arbres exsudant une résine brun verdâtre. Feuilles imparipennées, à folioles alternes, ponctuées de glandes translucides. PétioIules généralement tordus. Grappes spiciformes paniculées, de très petites fleurs courtement pédicellées. Bractéoles réduites n'enveloppant pas le bouton, caduques. Réceptacle cupuliforme, très court; 4 sépales imbriqués, suborbiculaires, ponctués de glandes translucides. Pétales o. Étamines (8-) 10, à filets libres, velus au pied. Petites anthères ovales, dorsifixes. Ovaire stipité. Ovule 1.
+Fruit samaroid; the single seed is inserted at the swollen apex of a long papyraceous wing provided at the other apex with a very short pedicel. Wing marked with a loose network of irregular veinlets.
 
-Fruit samaroïde; la graine unique est insérée à l'extrémité renflée d'une longue aile papyracée pourvue à l'autre extrémité d'un très court pédoncule. Aile marquée d'un réseau lâche de nervilles irrégulières.
+Type species: G. balsamiferum (Verm.) Harms.
 
-Espèce type : G. balsamiferum (Verm.) Harms.
+Two species, one still poorly known. The first is widespread from southern Nigeria to the depths of the Congolian basin. The second has been recorded from Cameroon, Spanish Guinea and Gabon.
 
-Deux espèces dont une encore mal connue. La première est répandue du sud de la Nigéria au fond de la cuvette congolaise. La seconde a été signalée du Cameroun, de la Guinée espagnole et du Gabon.
+1. Leaflets with a network of veins and veinlets finely prominent on both faces..... 1. G. balsamiferum.
 
-1. Folioles avec un réseau de nervures et de nervilles finement saillant sur les 2 faces..... 1. G. balsamiferum.
-
-1'. Folioles à nombreuses nervures latérales visibles en dessous ne
-
-formant pas un réseau maillé également visible sur les 2 faces.
-
----
+1'. Leaflets with numerous lateral veins visible below not forming an equally meshed network visible on both faces.
 
 ## Species in region
 

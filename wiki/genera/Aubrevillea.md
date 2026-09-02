@@ -17,21 +17,19 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees. Leaves bipinnate with several pairs of pinnae. Leaflets sessile, ± oblong, ± falciform, with very asymmetric base.
 
-Arbres de grande taille. Feuilles bipennées à plusieurs paires de pennes. Folioles sessiles, ± oblongues, ± falciformes, à base très asymétrique.
-
-Inflorescence en panicule de grappes, terminale ou axillaire. Fleurs ♢, pentamères. Calice campanulé. Pétales soudés entre eux à la base. Étamines 8-10, soudées entre elles à la base par leurs filets et aux pétales. Anthère sans glande. Ovaire stipité ; style court.
+Inflorescence in panicles of racemes, terminal or axillary. Flowers ♢, pentamerous. Calyx campanulate. Petals connate to each other at the base. Stamens 8-10, connate to each other at the base by their filaments and to the petals. Anther without gland. Ovary stipitate; style short.
 
 ---
 
 ---
 
-Gousse indéhiscente papyracée à base tordue. Graines plates et ± réniformes.
+Legume indehiscent papyraceous with twisted base. Seeds flat and ± reniform.
 
-ESPÈCE-TYPE : A. kerstingii (Harms) Pellegr.
+TYPE SPECIES: A. kerstingii (Harms) Pellegr.
 
-Ce genre endémique africain groupe 2 espèces dont une seule est présente au Gabon.
+This genus endemic to Africa comprises 2 species of which only one is present in Gabon.
 
 ## Species in region
 

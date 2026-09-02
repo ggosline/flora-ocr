@@ -17,39 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianes or creeping herbs, robust; roots tuberous. Stipules present, basifixed.
 
-Lianes ou herbes rampantes, robustes ; racines tubéreuses . Stipules présentes, basifixes.
+Leaves 3-foliolate; stipelles present; leaflets with entire or lobed blade. Inflorescences axillary, in pseudoraceme; bracts small and caducous. Flowers: bracteoles 2, persistent or caducous; calyx 5-lobed, upper lobes partly or entirely fused; corolla blue, purple or white striped with purple to pink, standard with circular limb, with basal auricles inflexed; stamens 10, initially monadelphous, then the vexillary free, anthers uniform, filaments alternately long and short; ovary linear, pluriovulate; stigma terminal, small, capitate. Pods linear, pubescent. Seeds cylindric to oblong-elliptic, often finely papillose; hilum central, small, without strophiole.
 
-Feuilles 3-foliolées ; stipelles présentes ; folioles à limbe entier ou lobé. Inflorescences axil-
+Monospecific genus, formerly included in Pueraria, contains 3 varieties from South and Southeast Asia. One variety, widely distributed around the tropics as a cover plant and for fodder, is found in Gabon.
 
-laires, en pseudoracème ; bractées petites et caduques. Fleurs : bractéoles 2, persistantes
-
-ou caduques ; calice 5-lobé, lobes supérieurs soudés en partie ou entièrement ; corolle bleu,
-
-pourpre ou blanche striée de pourpre à rose , étendard à limbe circulaire, à auricules basales
-
-infléchies ; étamines 10, d’abord monadelphes, ensuite la vexillaire libre, anthères uniformes,
-
-filets alternativement longs et courts ; ovaire linéaire, pluriovulé ; stigmate terminal, petit,
-
-capité. Gousses linéaires , pubescentes. Graines cylindriques à oblongues-elliptiques, souvent
-
-finement papilleuses ; hile central, petit, sans strophiole.
-
-Genre monospécifique, auparavant inclus dans Pueraria , contient 3 variétés d’Asie du Sud et
-
-du Sud-Est. Une variété, largement repartie autour des tropiques comme plante de couverture
-
-et de fourrage, se trouve au Gabon.
-
-Bi : Botton & Hallé (1958), Egan & Pan (2015), Lewis et al. (2005); van der Maesen (1985,
-
-B liographie
-
-2002).
-
----
+Bibliography: Botton & Hallé (1958), Egan & Pan (2015), Lewis et al. (2005); van der Maesen (1985, 2002).
 
 ## Species in region
 

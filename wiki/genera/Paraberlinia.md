@@ -17,15 +17,13 @@ tags: [genus, generated]
 
 ## Diagnosis
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves unijugate. Terminal panicles of small sessile or shortly pedicellate flowers. Bracts caducous. Bracteoles 2, opposite, valvate, concave, pubescent. Receptacle scarcely concave. Sepals 5, free, subequal. Petals rudimentary. Stamens (9–) 10, with filiform filaments scarcely fused at the base. Ovary with 4 ovules. Fruits with 2 woody, smooth, thin valves.
 
-Feuilles unijuguées. Panicules terminales de petites fleurs sessiles ou courtement pédicellées. Bractées caduques. Bractéoles 2, opposées, valvaires, concaves, velues. Réceptacle à peine concave. Sépales 5, libres, subégaux. Pétales rudimentaires. Étamines (9-) 10, à filets filiformes à peine soudés à la base. Ovaire à 4 ovules. Fruits à 2 valves ligneuses, lisses, minces.
+Type: Paraberlinia bifoliolata Pellegrin.
 
-Type : Paraberlinia bifoliolata Pellegrin.
+Léonard and Troupin united the two closely related genera, Paraberlinia and Julbernardia, the difference obviously not being very great between the 5 minute petals of Paraberlinia and the large petal and 4 rudimentary petals of Julbernardia. We nevertheless think that it can suffice to validly separate the 2 genera.
 
-Léonard et Troupin ont réuni les deux genres voisins, Paraberlinia et Julbernardia la différence n'étant évidemment pas très grande entre les 5 pétales minuscules de Paraberlinia et le grand pétale et les 4 pétales rudimentaires de Julbernardia. Nous pensons cependant qu'elle peut suffire pour séparer valablement les 2 œnres.
-
-Genre monotypique.
+Monotypic genus.
 
 ## Species in region
 
