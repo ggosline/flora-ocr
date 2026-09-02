@@ -38,7 +38,7 @@ thalloid bodies a few millimetres across with a single root or none, no
 distinguishable stem or leaf, and flowers so minute they are rarely seen. Some
 relatives (*Wolffia*) are the smallest flowering plants known outright.
 
-**Lemnaceae is now included in [[Araceae]]**, as subfamily Lemnoideae — one of
+**Lemnaceae is now included in **Araceae****, as subfamily Lemnoideae — one of
 the more counterintuitive results in monocot systematics, since Araceae are
 otherwise large-leaved aroids like *Anthurium*, *Amorphophallus* and the
 cocoyams. Duckweeds are aroids that have reduced away almost everything.

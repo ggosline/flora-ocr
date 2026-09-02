@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genera/Hannoa.md",
+                "file": "families/Leguminosae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hannoa"
+              "title": "Leguminosae"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,32 +187,32 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
+    "Centroplacus.md",
+    "families/Centroplacaceae.md",
+    "Lepidobotrys.md",
+    "families/Turneraceae.md",
+    "families/Pittosporaceae.md",
+    "families/Smilacaceae.md",
+    "families/Typhaceae.md",
+    "families/Hydroleaceae.md",
+    "families/Sphenocleaceae.md",
+    "families/Campanulaceae.md",
+    "families/Goodeniaceae.md",
+    "families/Ctenolophonaceae.md",
+    "families/Bixaceae.md",
+    "families/Lepidobotryaceae.md",
+    "families/Monimiaceae.md",
+    "families/Hydrocharitaceae.md",
+    "families/Rosaceae.md",
+    "families/Crassulaceae.md",
+    "genera/Hannoa.md",
+    "families/Caricaceae.md",
+    "families/Hypericaceae.md",
+    "families/Nectaropetalaceae.md",
+    "families/Ternstroemiaceae.md",
     "genera/Aframomum.md",
     "species/Aframomum_sulcatum.md",
     "species/Aframomum_melegueta.md",
-    "species/Aframomum_mannii.md",
-    "species/Aframomum_hanburyi.md",
-    "species/Aframomum_daniellii.md",
-    "species/Aframomum_arundinaceum.md",
-    "species/Aframomum_sanguineum.md",
-    "species/Aframomum_letestuanum.md",
-    "species/Aframomum_pruinosum.md",
-    "species/Aframomum_giganteum.md",
-    "species/Aframomum_longipetiolatum.md",
-    "species/Aframomum_pseudostipulare.md",
-    "species/Aframomum_stipulatum.md",
-    "species/Aframomum_aulacocarpos.md",
-    "species/Aframomum_citratum.md",
-    "species/Aframomum_sceptrum.md",
-    "species/Aframomum_masuanum.md",
-    "species/Aframomum_limbatum.md",
-    "species/Aframomum_subsericeum.md",
-    "families/Zingiberaceae.md",
-    "genera/Renealmia.md",
-    "genera/Zingiber.md",
-    "genera/Curcuma.md",
-    "species/Renealmia_macrocolea.md",
-    "species/Renealmia_africana.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",
