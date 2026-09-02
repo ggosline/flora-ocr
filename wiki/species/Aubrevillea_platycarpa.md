@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with a straight, very slender bole, reaching a diameter of 80 cm, with 2-3 buttresses at the base up to 1 m high and extending 1-3 m from the base, 10-20 cm thick. Bark reddish, flaked. Fibrous bark, compact, with a reddish ring beneath the outer bark, the rest yellow-orange with a characteristic Mimosaceae odour. Sapwood thin, whitish; wood hard, orange-brown. Young branches puberulent, brown with yellowish-white lenticels, ± strongly furrowed. Petiole puberulent, (1-)4-12 cm long, strongly channelled above. Rachis puberulent, 6.5-18.5 cm long, very strongly channelled above. Pinnae 4-7 pairs. Pinnae axis puberulent, 6-15 cm long, channelled above. Leaflets 9-21 pairs, subsessile. Blade glabrous on both surfaces; dark brown to shiny blackish-brown above and greenish-brown to dark green beneath when dry; rhombic asymmetric, slightly falcate, 1.5-5 × 0.5-2 cm; base asymmetric: proximal margin very rounded to subcordate and distal margin abruptly attenuate to subcuneiform; margin weakly ciliate; apex very obtuse often emarginate. Midvein median, ± arched at the base; prominent on both surfaces. Secondary veins, more than 10 pairs, ascending straight, anastomosing very close to the blade margin; prominent on both surfaces. Veinlets in a network with elongate meshes; prominent on both surfaces.
 
-Arbre à fût droit très élancé, atteignant un diamètre de 80 cm, contreforts 2-3 à la base hauts jusqu'à 1 m et s'étendant à 1-3 m de la base, épais de 10-20 cm. Rhytidome rougeâtre, martelé. Écorce fibreuse, compacte, à cerne rougeâtre sous le rhytidome, le reste jaune orangé à odeur caractéristique de Mimosacée. Aubier mince, blanchâtre ; bois brun orangé dur. Jeunes rameaux pubérulents, bruns à lenticelles blanc jaunâtre, ± fortement sillonnés. Pétiole pubérulent, long de (1-) 4-12 cm, fortement canaliculé dessus. Rachis pubérulent, long de 6,5-18,5 cm, très fortement canaliculé dessus. Pennes 4-7 paires. Axe de la penne pubérulent, long de 6-15 cm, canaliculé dessus. Folioles 9-21 paires, subsessiles. Limbe glabre sur les deux faces ; marron foncé à marron noir luisant dessus et marron verdâtre à vert foncé dessous sur le sec ; rhombique asymétrique, légèrement falciforme, 1,5-5 × 0,5-2 cm ; base asymétrique : bord proximal très arrondi à subcordé et bord distal abruptement atténué à subcunéiforme ; marge faiblement ciliée ; sommet très obtus souvent émarginé. Nervure principale médiane, ± arquée à la base ; saillante sur les deux faces. Nervures secondaires, plus de 10 paires, ascendantes rectilignes, s'anstomosant très près du bord du limbe ; saillantes sur les deux faces. Nervilles en réseau à mailles allongées ; saillantes sur les deux faces.
+Inflorescence in a panicle of racemes; terminal or axillary to the terminal leaves. Rachis puberulent. Bracteoles puberulent on the outside, narrowly triangular, 1 mm long, apex very acute. Flower ♠, pentamerous. Pedicel puberulent, 2-2.5 mm long. Calyx with sepals fused, puberulent on the outside and glabrous on the inside; 1-1.25 mm long; lobes free, acute. Petals fused to each other for 1/3 of their length; puberulent on the upper 2/3 and glabrous on the rest on the outside, pubescent on the inside, narrowly oblong elliptic, 2.5 mm long; apex acute. Stamens 10, fused by the filaments for 1/3 of their length, adnate to the base of the petals; 2.75 mm long. Pistil with a short stipe ± 0.30 mm long; ovary densely pubescent, 1.50 mm long, with 3 ovules; style 1 mm long.
 
-Inflorescence en panicule de grappes ; terminale ou axillaire des feuilles terminales. Rachis pubérulent. Bractéoles pubérulentes extérieurement, étroitement triangulaires, longues de 1 mm, sommet très aigu. Fleur ♠, pentamère. Pédicelle pubérulent, long de 2-2,5 mm. Calice à sépales soudés, pubérulent extérieurement et glabre intérieurement ; long de 1-1,25 mm ; lobes libres aigus. Pétales soudés entre eux
+Pod indehiscent, papyraceous, glabrous, twisted at the base; elongate obovate to elliptic, 13-22 × 4-5.5 cm; base ± distinctly cuneiform, stipitate, 1-2 cm long; faces very distinctly nerved; apex rounded obtuse, very shortly apiculate. Seeds 1-3, suborbicular to reniform, 0.6-1.3 cm in diameter; areole not visible.
 
-sur 1/3 de la longueur ; pubérulents sur les 2/3 supérieurs et glabres sur le reste extérieurement, pubescents intérieurement, étroitement oblongs elliptiques, longs de 2,5 mm ; sommet aigu. Étamines 10, soudées par les filets sur 1/3 de la longueur, adhérentes à la base des pétales ; longues de 2,75 mm. Pistil à court stipe long de ± 0,30 mm ; ovaire densément pubescent, long de 1,50 mm, à 3 ovules ; style long de 1 mm.
-
-Gousse indéhiscente, papyracée, glabre torsadée à la base ; longuement obovée à elliptique, 13-22 × 4-5,5 cm ; base ± nettement cunéiforme, stipitée, longue de 1-2 cm ; faces très nettement innervées ; sommet arrondi obtus très courtemment apiculé. Graines 1-3, suborbiculaires à réniformes, d'un diamètre de 0,6-1,3 cm ; aréole non visible.
-
-Plantule à cotylédons subarrondis (0,8 cm). Hypocotyle long de 1 cm. Épicotyle long de 7-8 cm, aplat, crêté. Premières feuilles opposées, composées, pennées à 13-15 paires de folioles opposées ; rachis faiblement pubescent dessus ; stipelles 2, dressés persistantes à la base ; limbe oblong, 1 × 0,2 cm ; base élargie arrondie ; sommet acuminé. (D'après G. de la MENSBRUGE, GPEACI, 1966). Pl. 7, p. 35 ; Pl. 8, Fig. 1-2, p. 38.
+Seedling with subrounded cotyledons (0.8 cm). Hypocotyl 1 cm long. Epicotyl 7-8 cm long, flattened, crested. First leaves opposite, compound, pinnate with 13-15 pairs of opposite leaflets; rachis weakly pubescent above; stipels 2, erect persistent at the base; blade oblong, 1 × 0.2 cm; base enlarged rounded; apex acuminate. (According to G. de la MENSBRUGE, GPEACI, 1966). Pl. 7, p. 35; Pl. 8, Fig. 1-2, p. 38.
 
 ## Type
 
@@ -35,15 +31,11 @@ Aubréville 990, Côte d'Ivoire, Mt Tongui, fr. 8.3.1932 (P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C'est un grand arbre des groupements forestiers denses humides de la Côte d'Ivoire et du Ghana, puis du Nigeria au Zaïre (Forestier Central).
+It is a large tree of the dense humid forest groupings of Ivory Coast and Ghana, then from Nigeria to Zaire (Central Forestier).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-le bois est utilisable en menuiserie
+The wood is suitable for use in joinery
 
 ## Vernacular names
 

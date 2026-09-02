@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, atteignant 1 m de hauteur ; tige dressée, 4-anguleuse, rameuse. Stipules foliacées, réfléchies, oblique-falciforme, 7–21 × 5 –13 mm , à sommet acuminé. Feuille simple ; pétiole 3–9 mm ; foliole à limbe ovale , 5–13 × 3,5–8 cm, base atténuée, sommet arrondi, finement poilu sur les deux faces, marges parfois ondulées. Inflorescence en racèmes terminaux ou opposés aux feuilles, avec 12 à 24 fleurs ; bractées lancéolées-caudées, 1–5 mm de longueur. Fleur : bractéoles filiformes, au milieu des pédicelles, 0,5–2 mm ; calice 7–11 mm de longueur, à 4 ou 5 lobes aigus, plus longs que le tube ; étendard elliptique à obovale, ± 23 mm de longueur, blanc verdâtre , strié à l’intérieur de bleu, glabre à l’extérieur, ailes obovales-elliptiques, plus longues que la carène, bleues ou pourpres, carène à dos courbé, 8–13 mm de longueur, sommet courtement rostré, un peu recourbé. Gousse à stipe de 2 mm, oblongue-claviforme, 3–5 × 0,7–1,2 cm, à pubescence molle apprimée puis glabre, avec 10 à 20 graines . Graine oblique-cordiforme, à lobe radiculaire fortement incurvé, 4–5 × 3,5–4,5 × 2 mm, presque lisse à papilleuse, brun clair , brillante.
+Annual herb, reaching 1 m in height; stem erect, 4-angled, branched. Foliaceous stipules, reflexed, oblique-falciform, 7–21 × 5–13 mm, with acuminate apex. Simple leaf; petiole 3–9 mm; leaflet with oval lamina, 5–13 × 3.5–8 cm, base attenuate, apex rounded, finely pilose on both surfaces, margins sometimes undulate. Inflorescence in terminal or leaf-opposed racemes, with 12 to 24 flowers; bracts lanceolate-caudate, 1–5 mm in length. Flower: bracteoles filiform, in the middle of the pedicels, 0.5–2 mm; calyx 7–11 mm in length, with 4 or 5 acute lobes, longer than the tube; standard elliptic to obovate, ± 23 mm in length, greenish-white, striate inside with blue, glabrous on the outside, wings obovate-elliptic, longer than the keel, blue or purple, keel with curved back, 8–13 mm in length, apex shortly rostrate, somewhat recurved. Pod with stipe of 2 mm, oblong-claviform, 3–5 × 0.7–1.2 cm, with soft appressed pubescence then glabrous, with 10 to 20 seeds. Seed oblique-cordiform, with strongly incurved radicle lobe, 4–5 × 3.5–4.5 × 2 mm, almost smooth to papillose, light brown, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce asiatique devenue pantropicale par l’action de l’homme ; au Gabon, connue de l’Estuaire
+Asian species become pantropical through human action; in Gabon, known from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-stations cultivées et rudérales ; à 0–1200 m d’altitude. Usage : Espèce utilisée comme engrais vert, à potentialité ornementale
+cultivated and ruderal stations; at 0–1200 m in altitude. Use: Species used as green manure, with ornamental potential
 
 ## Vernacular names
 

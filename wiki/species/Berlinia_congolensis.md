@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 2 (−3) pairs of leaflets, oblong-elliptic, shortly and obtusely acuminate, 10–16 × 6–8 cm. Approximately 6 pairs of lateral veins. Reticulate network of veinlets clearly visible on both surfaces.
 
-Arbres. Feuilles à 2 (-3) paires de folioles, oblongues-elliptiques, courtement et obtusément acuminées, de 10-16 × 6-8 cm. Environ 6 paires de nervures latérales. Réseau maillé de nervilles bien visible sur les 2 faces.
-
-Bractéoles de 3,7 à 4,2 cm de longueur sur 8-11 mm de largeur. Grand pétale, 4-4,5 cm de longueur sur 5 cm de largeur environ.
+Bracteoles 3.7 to 4.2 cm in length by 8–11 mm in width. Large petal, 4–4.5 cm in length by approximately 5 cm in width.
 
 ## Type
 
@@ -33,9 +31,7 @@ Gossweiler 9042, Cabinda (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce mal connue au Gabon qui d'après Keay (F.W.T.A. 2e éd.) serait répandue du sud de la Nigéria au Congo, au bord des rivières et en terrain marécageux.
+Species poorly known in Gabon which according to Keay (F.W.T.A. 2nd ed.) would be distributed from southern Nigeria to Congo, along riverbanks and in marshy terrain.
 
 ## Specimens examined
 

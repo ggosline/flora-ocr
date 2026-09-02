@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Cryptosepalum exfoliatum auet. non De Wild. — Pellegrin, Lég. Gabon : 91 (1949).
 
-Arbres. Feuilles paripennées à 10-13 paires de petites folioles opposées, sessiles. Rachis finement pubescent (jeunes feuilles) de 3-4 cm. Folioles de 11-13 × 3-4 mm, oblongues, à sommet arrondi ou très légèrement émarginé. Base tronquée parallèle au rachis, non auriculée. Une petite glande vers la base du limbe antérieur est parfois visible.
+Trees. Leaves paripinnate with 10–13 pairs of small opposite leaflets, sessile. Rachis finely pubescent (young leaves) 3–4 cm. Leaflets 11–13 × 3–4 mm, oblong, with rounded or very slightly emarginate apex. Base truncate parallel to rachis, not auriculate. A small gland sometimes visible toward the base of the anterior limb.
 
-Bourgeons florifères écailleux, à écailles très caduques. Courtes inflorescences spiciformes très fleuries. Pédicelles grêles et relativement longs, de 8 mm environ. Bractées à la base des pédicelles très caduques. Bractéoles involucrales pétaloïdes, minces, un peu pubescentes sur les bords, de 5-6 × 4 mm. Tube du calice glabre, d'environ 1 mm, à petites dents triangulaires. Pétale unique, de 5-6 × 4 mm, elliptique, avec un court onglet. Étamines 3, longues de 6 mm. Ovaire stipité, glabre sauf sur la suture ventrale. Stigmate capité. Fruit inconnu.
+Floral buds scaly, with very caducous scales. Short, very floriferous spiciform inflorescences. Pedicels slender and relatively long, approximately 8 mm. Bracts at base of pedicels very caducous. Involucral bracteoles petaloid, thin, somewhat pubescent on the margins, 5–6 × 4 mm. Calyx tube glabrous, approximately 1 mm, with small triangular teeth. Single petal, 5–6 × 4 mm, elliptic, with a short claw. Stamens 3, 6 mm long. Ovary stipitate, glabrous except on the ventral suture. Stigma capitate. Fruit unknown.
 
 ## Vernacular names
 
@@ -39,11 +37,9 @@ Staudt 907, Johann-Albrechtshöhe, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with white flowers, with caducous leaves. Flowering occurs at the same time as new leaf emergence.
 
-Arbre à fleurs blanches, à feuilles caduques. La floraison se produit en même temps que la nouvelle feuillaison.
-
-Espèce du Cameroun et de l'Est du Gabon.
+Species from Cameroon and eastern Gabon.
 
 ## Specimens examined
 

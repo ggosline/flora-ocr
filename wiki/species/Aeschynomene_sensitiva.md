@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in DC., Prodr. 2 : 320 (1825). A. papulosa Welw. ex Baker in Oliv., Fl. trop. Afr. 2 : 146 (1871). Sous-arbrisseau de 1,5–2,5 m de hauteur ; jeune tige poilue et peu verruqueuse. Stipules caduques, lancéolées, 6–8 mm de longueur, appendiculées, scarieuses, glabres. Feuille : pétiole ± 5 mm ; rachis 2–6(–8) cm, verruqueux-poilu ; folioles en 5 à 20 paires , sensitives , à limbe linéaire-oblong, 6–10 × 2–2,5 mm , sommet obtus-mucronulé ou parfois émarginé, glabre, glauque , à 1 nervure centrale. Inflorescence en corymbes lâches, à 3 ou 4 fleurs ; pédon cule grêle, 2–4 cm, poilu-visqueux ; bractées ovales, 4–5 mm de longueur, membraneuses. Fleur : pédicelle 2–5 mm, poilu-visqueux; calice ± 4 mm de longueur, glabre, lèvre supérieure émarginée, l’inférieure 3-dentée ; corolle ± 8 mm de longueur , jaune vif , ailes et carène un peu plus petites que l’étendard ; étamines à anthères toutes semblables. Gousse droite à peu courbée, 3–4 cm de longueur, noire à maturité , articles 5–9,5 × 4 mm , la suture dorsale ondulée ou parfois assez droite, la ventrale plus profondément ondulée , surface avec quelques soies, lisse. Graine réniforme, ± 3 × 2 × 1,5 mm, brune ; hile assez central.
+in DC., Prodr. 2 : 320 (1825). A. papulosa Welw. ex Baker in Oliv., Fl. trop. Afr. 2 : 146 (1871). Shrublet 1.5–2.5 m tall; young stem pilose and sparsely verrucose. Stipules caducous, lanceolate, 6–8 mm long, appendiculate, scarious, glabrous. Leaf: petiole ± 5 mm; rachis 2–6(–8) cm, verrucose-pilose; leaflets in 5 to 20 pairs, sensitive, with linear-oblong limb, 6–10 × 2–2.5 mm, apex obtuse-mucronulate or sometimes emarginate, glabrous, glaucous, with 1 central vein. Inflorescence in lax corymbs, with 3 or 4 flowers; peduncle slender, 2–4 cm, pilose-viscous; bracts ovate, 4–5 mm long, membranaceous. Flower: pedicel 2–5 mm, pilose-viscous; calyx ± 4 mm long, glabrous, upper lip emarginate, lower lip 3-dentate; corolla ± 8 mm long, bright yellow, wings and keel somewhat smaller than the standard; stamens with anthers all similar. Pod straight to slightly curved, 3–4 cm long, black at maturity, articles 5–9.5 × 4 mm, the dorsal suture undulate or sometimes fairly straight, the ventral suture more deeply undulate, surface with a few setae, smooth. Seed reniform, ± 3 × 2 × 1.5 mm, brown; hilum fairly central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Îles Caraïbes et Amérique du Sud, Afrique tropicale et autour de l’Océan Indien ; au Gabon, connue de l’Ogooué-Maritime
+Caribbean Islands and South America, tropical Africa and around the Indian Ocean; in Gabon, known from Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes marécageuses, sols sableux ; au Gabon à basse altitude, ailleurs jusqu’à 1150 m. b : Léonard (1954a, 1954b), Pellegrin (1949), Verdcourt (1971f, 2000). ibliographie
+marshy savannas, sandy soils; in Gabon at low altitude, elsewhere up to 1150 m.
 
 ## Notes
 

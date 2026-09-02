@@ -26,11 +26,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaves with 2–4 pairs of opposite leaflets. Leaflets polymorphous, oblong-elliptic or obovate-elliptic, acuminate, shortly or sometimes long-acuminate. Blade furnished beneath with a fine tomentum of appressed silky hairs, at first golden then grey, 10–18 cm long by 4.5–7 cm wide. Lateral veins 8–10 pairs, arched, ascending. Petiolules short, 2–4 mm, thick.
 
-Arbres, arbustes. Feuilles à 2-4 paires de folioles opposées. Folioles polymorphes, oblongues-elliptiques ou obovées elliptiques, acuminées, courtemment ou longuement parfois aiguës. Limbe pourvu en dessous d'un feutrage fin de poils soyeux apprimés, d'abord dorés puis gris, long de 10-18 cm sur 4,5-7 cm de largeur. Nervures latérales 8-10 paires, arquées, ascendantes. Pétioiules courts, de 2-4 mm, épais.
-
-Panicules ferrugineuses, lâches, de longueur très variable, atteignant 20 cm, insérées en grand nombre le long des rameaux et des branches. Bractéoles involucrales, de 6-8 mm. Pédicelles d'env. 5 mm. Calice à 4 lobes dont un bifide. Tube court, de 2 mm. Un grand pétale, peu profondément bilobé; 4 petits. Étamines fertiles 3; des staminodes. Ovaire pubescent, subsessile. Ovules 4-8. Longues gousses veloutées brunes, atteignant 30 cm de longueur et 9 cm de largeur, obliquement très ridées, pendantes à l'extrémité de pédoncules assez longs et relativement grêles.
+Ferruginous panicles, lax, of highly variable length, reaching 20 cm, inserted in great number along the branchlets and branches. Involucral bracteoles, 6–8 mm. Pedicels ca. 5 mm. Calyx with 4 lobes, one of which bifid. Tube short, 2 mm. One large petal, shallowly bilobed; 4 small ones. Fertile stamens 3; staminodes present. Ovary pubescent, subsessile. Ovules 4–8. Long velvety brown legumes, reaching 30 cm length and 9 cm width, obliquely very wrinkled, pendulous at the apex of rather long and relatively slender peduncles.
 
 ## Type
 
@@ -38,9 +36,7 @@ Palisot de Beauvois (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre ou arbuste, des sous-bois des forêts denses et des bords des cours d'eau. Cette espèce est très répandue dans la région guinéo-congolaise, depuis la Guinée jusqu'à l'Angola et la cuvette congolaise.
+Small tree or shrub, of the understory of dense forests and the banks of watercourses. This species is very widespread in the Guineo-Congolian region, from Guinea to Angola and the Congo Basin.
 
 ## Vernacular names
 

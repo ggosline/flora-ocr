@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 15 m ou arbuste de 2–4 m de hauteur, glabre sauf quelque poils sur l’inflorescence ; tronc atteignant 25 cm de diamètre ; écorce rougeâtre. Feuille : pétiole 8–30 mm ; stipelles absentes ; foliole 1, à pétiolule de 4–5 mm, à limbe ovale, 6–11 × 4–6 cm, à acumen saillant, tronqué à arrondi à la base, coriace, vert foncé dessus et dessous, un peu brillant, réticulé dessous ; nervures en 5 ou 6 paires saillantes. Inflorescence entièrement blanche , en panicule (sub)terminale saillante, 8–20 cm de longueur ; pédoncule pubescent d’abord, puis glabre ; bractées tôt caduques, lancéolées, 5 × 1 mm. Fleur : pédicelle grêle, 15–20 mm, à pubescence verdâtre ; bractéoles sur positions variables, même près la base du pédicelle, minuscules ; calice cupulé, 6–7 mm de longueur, glabrescent, à 4 dents inégales, triangulaires, 1–2 mm de longueur, marge éparsement poilue ; étendard orbiculaire, atteignant 2,5 cm de longueur, blanc, avec une tache vert pâle abaxiale au milieu ; étamine vexillaire à peine soudée à la base ; ovaire avec jusqu’à 6 ovules, glabre ; style filiforme. Gousse lancéolée , 7–8 × 2–2,5 cm, brune à noire, à 1 graine (rarement plus). Graine aplatie, arrondie à réniforme, ± 14 × 15 × 3 mm, brun foncé ; hile petit, du côté pointu.
+Tree of 15 m or shrub of 2–4 m in height, glabrous except for some hairs on the inflorescence; trunk reaching 25 cm in diameter; bark reddish. Leaf: petiole 8–30 mm; stipels absent; leaflet 1, with petiolule of 4–5 mm, blade ovate, 6–11 × 4–6 cm, with prominent acumen, truncate to rounded at base, coriaceous, dark green above and below, somewhat glossy, reticulate below; veins in 5 or 6 pairs, prominent. Inflorescence entirely white, in a (sub)terminal prominent panicle, 8–20 cm in length; peduncle pubescent at first, then glabrous; bracts early caducous, lanceolate, 5 × 1 mm. Flower: pedicel slender, 15–20 mm, with greenish pubescence; bracteoles in variable positions, even near the base of the pedicel, minute; calyx cupulate, 6–7 mm in length, glabrescent, with 4 unequal, triangular teeth, 1–2 mm in length, margin sparsely hairy; standard orbicular, reaching 2.5 cm in length, white, with a pale green abaxial patch in the middle; vexillary stamen barely fused at the base; ovary with up to 6 ovules, glabrous; style filiform. Pod lanceolate, 7–8 × 2–2.5 cm, brown to black, with 1 seed (rarely more). Seed flattened, rounded to reniform, ± 14 × 15 × 3 mm, dark brown; hilum small, on the pointed side.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Gabon et République du Congo ; au Gabon, connue de la Nyanga et de l’OgoouéMaritime
+Nigeria, Gabon and Republic of the Congo; in Gabon, known from Nyanga and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisière de forêt, végétation côtière, sol sablonneux, sur terre ferme ; au Gabon à 5–10 m d’alti tude. b : Gillett (1960a), Pellegrin (1949), Raponda-Walker & Sillans (1961). ibliographie
+Forest edge, coastal vegetation, sandy soil, on terra firme; in Gabon at 5–10 m in altitude. b: Gillett (1960a), Pellegrin (1949), Raponda-Walker & Sillans (1961). Bibliography
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 0,3–1 m de hauteur ; tige subherbacée, raide, peu ramifiée, en état jeune cylin drique, grêle, dressée. Stipules absentes . Feuille simple ; pétiole 1–2 mm ; limbe linéairelancéolé à linéaire-oblong , (1–)2–10 × 0,2–0,5 cm, glabre, glauque . Inflorescence à racèmes axillaires et terminaux, lâches, à 4 ou 5(–12) fleurs ; bractées linéaires à elliptiques, 1–9 mm de longueur. Fleur : bractéoles géminées sur le pédicelle, sétacées, atteignant 1 mm de longueur ; calice 4–7 mm de longueur, glabre ou éparsement glabrescent, à lobes plus longs que le tube ; corolle jaune , étendard suborbiculaire, 6–10 mm de longueur, émarginé, strié de brun ou de pourpre sur le dos, ailes plus longues que la carène, carène falciforme-courbée, huppée derrière le bec court. Gousse à stipe de 2,5–7 mm, cylindrique-oblongue , (18–)20–30 mm de longueur, glabre, avec (12–)20 à 28 graines . Graine obliquement oblongue-cordiforme, 2–3 mm de longueur, lisse, luisante, verte à brune ou noirâtre .
+Herb 0.3–1 m in height; stem subherbaceous, rigid, little branched, cylindric when young, slender, erect. Stipules absent. Leaf simple; petiole 1–2 mm; lamina linear-lanceolate to linear-oblong, (1–)2–10 × 0.2–0.5 cm, glabrous, glaucous. Inflorescence with axillary and terminal racemes, lax, with 4 or 5(–12) flowers; bracts linear to elliptic, 1–9 mm in length. Flower: bracteoles paired on the pedicel, setaceous, reaching 1 mm in length; calyx 4–7 mm in length, glabrous or sparsely glabrescent, with lobes longer than the tube; corolla yellow, standard suborbicular, 6–10 mm in length, emarginate, streaked with brown or purple on the dorsal surface, wings longer than the keel, keel falcate-curved, crested behind the short beak. Pod with a stipe of 2.5–7 mm, cylindric-oblong, (18–)20–30 mm in length, glabrous, with (12–)20 to 28 seeds. Seed obliquely oblong-cordiform, 2–3 mm in length, smooth, shining, green to brown or blackish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bien répandue en Afrique tropicale, au Gabon, connue du Haut-Ogooué, du MoyenOgooué, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+widespread in tropical Africa, in Gabon, known from Haut-Ogooué, Moyen-Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, savanes arborées ; au Gabon à 100–500 m d’altitude, ailleurs jusqu’à 2000 m. Fleurs et fruits en décembre à janvier et avril, fruits en mars, avril et juin. Usage : Les femmes qui viennent d’accouchées boivent une tisane de ses feuilles. Pour les hommes, cette tisane aide contre la blennorragie
+savannas, wooded savannas; in Gabon at 100–500 m altitude, elsewhere up to 2000 m. Flowers and fruits in December to January and April, fruits in March, April and June. Uses: Women who have just given birth drink an infusion of its leaves. For men, this infusion helps against gonorrhea
 
 ## Vernacular names
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree. Leaves 4-jugate, glabrous. Rachis 10–15 cm. Leaflets oblong or oblong-lanceolate, with acuminate apex, rounded or obtuse base, 10–13 × 4–5 cm. Lateral veins 7–8 pairs. Fine network of veinlets prominent beneath.
 
-Arbre. Feuilles 4-juguées, glabres. Rachis de 10-15 cm. Folioles oblongues ou oblongues lancéolées, à sommet acuminé, à base arrondie ou obtuse, de 10-13 × 4-5 cm. Nervures latérales 7-8 paires. Réseau fin de veinules proéminent en dessous.
+Panicles of fascicles of short racemes on the trunk. Bractlets pubescent ferruginous, approximately 9 mm long.
 
-Panicules de fascicules de courts racèmes sur le tronc. Bractéoles pubescentes ferrugineuses, longues de 9 mm environ.
-
-Sépales 5, subégaux, de 5-6 mm de longueur. Un grand pétale bilobé; 4 petits. Étamines fertiles 3. Ovaire subsessile hirsute.
+Sepals 5, subequal, 5–6 mm in length. One large bilobed petal; 4 small ones. Fertile stamens 3. Ovary subsessile hirsute.
 
 ## Type
 

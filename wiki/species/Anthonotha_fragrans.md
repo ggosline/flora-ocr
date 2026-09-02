@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(Bak. f.) Exell et Hillcoat (Pl. 50, p. 207)
 
-(Bak. f.) Exell et Hillcoat (Pl. 5o, p. 207)
+Trees. Leaves with 3-4(-5) pairs of opposite leaflets. Rachis ferruginous tomentose, 5-12 cm long. Leaflets oblong, obtuse at apex or shortly acute-acuminate, rounded or obtuse at base, 5-20 cm long, 3-7 cm wide. Midvein slightly depressed above. Lateral veins 10-16 pairs, prominent beneath. Blade coriaceous, ferruginous tomentose beneath. Petiolules short (0.5 cm), thick, tomentose, ferruginous.
 
-Arbres. Feuilles à 3-4(-5) paires de folioles opposées. Rachis tomenteux ferrugineux long de 5-12 cm. Folioles oblongues, obtuses au sommet ou courtement acuminées aiguës, à base arrondie ou obtuse, longues de 5-20 cm, larges de 3-7 cm. Nervure médiane un peu déprimée dessus. Nervures latérales 10-16 paires, proéminentes dessous. Limbe coriace, tomenteux ferrugineux dessous. PétioIules courts (0,5 cm), épais, tomenteux, ferrugineux.
+Inflorescences ferruginous tomentose. Panicles shortly branched, axillary, up to 15 cm long. Small flowers. Bracteoles ferruginous tomentose, 5-6 mm long. Calyx with acute triangular lobes, about 4 mm long. One large yellow petal, 8.5 mm long, 7 mm wide. Four rudimentary petals. 3 large fertile stamens and staminodes. Ovary yellowish hirsute, with 2-3 ovules.
 
-Inflorescences tomenteuses ferrugineuses. Panicules courtement ramifiées, axillaires, longues de 15 cm au plus. Petites fleurs. Bractéoles tomenteuses ferrugineuses, de 5-6 mm de longueur. Calice à lobes triangulaires aigus, longs de 4 mm environ. Un grand pétale jaune, long de 8,5 mm, large de 7 mm. Quatre pétales rudimentaires. 3 grandes étamines fertiles et des staminodes. Ovaire hérissé jaunâtre, à 2-3 ovules.
-
-Forte gousse ligneuse, oblongue-elliptique, très bombée, à bord sutural très épais, à nervures transversales proéminentes, tourmentées et anastomosées, tomenteuse ferrugineuse, longue de 12 cm environ, épaisse de 3-4 cm, déhiscente à maturité, contenant 1-3 grosses graines brunes, dures, d'env. 3 cm de diamètre.
+Strong woody pod, oblong-elliptic, very convex, with very thick sutural border, with prominent transverse veins, tortuous and anastomosing, ferruginous tomentose, about 12 cm long, 3-4 cm thick, dehiscent at maturity, containing 1-3 large hard brown seeds, about 3 cm in diameter.
 
 ## Type
 
@@ -37,11 +35,9 @@ Gossweiler 7577 (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees, with straight, cylindrical bole, thickened at base and sometimes fluted, but without buttresses. Dense, dark foliage, somewhat tawny in colour. Bark scaly, reddish-yellowish, fibrous reddish on the cut surface. Sapwood when cut exudes a thick gum, cream-coloured. Wood yellowish with beautiful reddish-violet veins becoming dark brown; hard and heavy.
 
-Grands arbres, à fût droit, cylindrique, à base épaissie et parfois cannelée, mais sans contreforts. Feuillage dense, sombre, de couleur un peu fauve. Écorce écailleuse, rougeâtre jaunâtre, de tranche fibreuse rougeâtre. L'aubier entaillé exsude une gomme épaisse, de teinte crème. Bois jaunâtre avec de belles veines brunâtres violacées devenant brun foncé; dur et lourd.
-
-Cette espèce est répandue depuis la Sierra Leone jusqu'à la cuvette congolaise. Elle existe à l'état disséminé au Gabon. D'une façon générale si elle est très répandue dans toute la forêt guinéo-congolaise, elle n'est jamais abondante.
+This species is distributed from Sierra Leone to the Congo Basin. It occurs in scattered state in Gabon. Generally speaking, although very widespread throughout the entire Guinea-Congolian forest, it is never abundant.
 
 ## Specimens examined
 

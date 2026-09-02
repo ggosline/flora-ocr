@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets blackish, speckled with reddish lenticels, bearing at their base the scars of bud scales. Leaves paripinnate, with 9–14 pairs of opposite, sessile leaflets. Stipules intrapetiolar. Rachis 10–25 cm, hirsute, russet. Leaflets oblong, 1.5–5 cm × 5–14 mm, emarginate at the apex, with very unequal base, the anterior angle acute, the posterior angle subauriculate, somewhat rusty-pubescent beneath, more densely so on the midvein.
 
-Arbres. Rameaux noirâtres, piquetés de lenticelles rougeâtres, portant à leur base les cicatrices des écailles des bourgeons. Feuilles
+Inflorescences in short panicles. Pedicels velvety, 2–3 mm. Involucral bracteoles 5–6 mm. Perianth reduced to small teeth, the largest lanceolate, 1–2 mm. Stamens 10. Ovary stipitate, hirsute.
 
-paripennées, à 9-14 paires de folioles opposées, sessiles. Stipules intrapétiolaires. Rachis de 10-25 cm, hirsute, roux. Folioles oblongues, de 1,5-5 cm × 5-14 mm, émarginées au sommet, à base très inégale, l'angle antérieur aigu, l'angle postérieur subauriculé, un peu velues rousses dessous, plus densément sur la nervure médiane.
-
-Inflorescences en courtes panicules. Pédicelles veloutés de 2-3 mm. Bractéoles involucrales de 5-6 mm. Périan the réduit à de petites dents, la plus grande lancéolée, de 1-2 mm. Étamines 10. Ovaire stipité, hirsute.
-
-Très fortes gousses ligneuses de  $ 20-30 \times 6-10 \, cm $, s'élargissant de la base vers le sommet. Valves très épaisses, 2-4 graines plates, de 3 cm de diamètre environ.
+Very large woody pods 20–30 × 6–10 cm, widening from base toward the apex. Valves very thick, 2–4 flat seeds, approximately 3 cm in diameter.
 
 ## Vernacular names
 
@@ -45,11 +41,9 @@ Mildbrød 7581, Bipindi-Ebolowa, Cameron
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree capable of reaching a large diameter, with swollen or fluted base, elephant-foot form, fine foliage, with thin canopy. Trunk cylindrical, straight. Bark smooth, then exfoliating in large irregular plates in large trees. Fibrous cross-section, thick (2–3 cm), of dirty pink colour. Wood brown with coppery reflections, walnut-coloured, semi-soft.
 
-Grand arbre pouvant atteindre un gros diamètre, à base empatée, ou cannelée, en patte d'éléphant, à feuillage fin, à couvert peu épais. Fût cylindrique, droit. Écorce lisse puis s'exfoliant en grandes plaques irrégulières chez les gros arbres. Tranche fibreuse, épaisse (2-3 cm), de teinte rose sale. Bois brun avec des reflets cuivrés, de teinte noyer, mi-tendre.
-
-Ce Brachystegia est répandu au Cameroun et au Gabon. Au Gabon il se rencontre généralement par bouquets de quelques pieds.
+This Brachystegia is widespread in Cameroon and Gabon. In Gabon it is generally found in small clusters of a few trees.
 
 ## Specimens examined
 

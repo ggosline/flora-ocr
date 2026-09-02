@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Brenan (Pl. 84, p. 331)
 
-Grandes lianes à rameaux armés de petites épines recourbées. Grandes feuilles à 15-20 paires de pinnules opposées. Rachis de 20-35 cm, épineux. 15-25 paires de petites foliolules opposées, oblongues, obtuses et un peu émarginées au sommet, subsessiles et obliques à la base, de 6-10 × 1-4 mm, légèrement pubescentes dessous.
+Large lianes with branches armed with small curved spines. Large leaves with 15-20 pairs of opposite pinnules. Rachis 20-35 cm, spinose. 15-25 pairs of small opposite leaflets, oblong, obtuse and somewhat emaginate at the apex, subsessile and oblique at the base, 6-10 × 1-4 mm, slightly pubescent beneath.
 
-Grappes terminales ou axillaires pouvant atteindre 35 cm de longueur. Bractées petites. Pédicelles grèles de 1-3 cm. Bouton très oblique. Calice très oblique à la base, l'antérieur en capuchon, glabre extérieurement. Pétales 5, jaunes teintés de rouge vers l'onglet. Limbe suborbiculaire, à bords gaufrés, glabre, de 6-8 mm de diamètre; onglet étroit de 3 mm. Étamines 10; filets densément velus à la base. Ovaire sessile, glabre.
+Terminal or axillary racemes reaching up to 35 cm in length. Bracts small. Pedicels slender, 1-3 cm. Bud very oblique. Calyx very oblique at the base, the anterior portion hood-shaped, glabrous externally. Petals 5, yellow tinged with red towards the claw. Limb suborbicular, with crenulate margins, glabrous, 6-8 mm in diameter; claw narrow, 3 mm. Stamens 10; filaments densely villous at the base. Ovary sessile, glabrous.
 
-Gousses oblongues-elliptiques, de 2,5-6 cm de longueur, ± comprimées, indéhiscentes, glabres, non épineuses, la suture supérieure étant épaissie mais non ailée. Graines, 1-3, globules.
+Pods oblong-elliptic, 2.5-6 cm in length, ± compressed, indehiscent, glabrous, not spinose, the upper suture being thickened but not winged. Seeds 1-3, globular.
 
 ## Type
 
@@ -39,11 +37,9 @@ Herb. Hermann (Ceylan)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of dense humid forests, capable of reaching the highest canopy. Widespread in eastern Africa, in the Central African Republic, in the Congo, in Angola, it extends to Cameroon and Gabon.
 
-Espèce des forêts denses humides, pouvant s'élever dans les plus hautes cimes. Répandue en Afrique orientale, dans la République centrafricaine, au Congo, en Angola, elle atteint le Cameroun et le Gabon.
-
-Cet arbuste épineux, facilement remarquable par ses fruits épineux, se trouve sur les côtes dans les deux hémisphères : plages, bords de lagune, fourrés côtiers et embouchures de fleuves. Il est aussi naturalisé autour des villages.
+This spiny shrub, easily remarkable for its spiny fruits, is found on coasts in both hemispheres: beaches, lagoon edges, coastal thickets and river mouths. It is also naturalized around villages.
 
 ## Specimens examined
 

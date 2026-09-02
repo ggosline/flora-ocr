@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Young branchlets and rachis densely ferruginous tomentose. Rachis cylindrical approximately 20 cm. Leaves 8-jugate. Leaflets oblong or lanceolate to ovate-lanceolate, attenuate-acuminate and ‡ mucronate at the apex, rounded at the base, 8–13 cm long by 3–3.5 cm wide, at first densely ferruginous tomentose below, then grey tomentose. Lateral veins approximately 12 pairs, arched and ascending to the margin or nearly so. Petiolules 3–4 mm, tomentose.
 
-Arbres. Jeunes rameaux et rachis densément tomenteux ferrugineux. Rachis cylindrique environ 20 cm. Feuilles 8-juguées. Folioles oblongues ou lancéolées à ovées lancéolées, atténuées acuminées et ‡ mucronées au sommet, arrondies à la base, de 8-13 cm de longueur sur 3-3,5 cm de largeur, d'abord densément tomenteuses ferrugineuses en dessous, puis tomenteuses grises. Nervures latérales, environ 12 paires arquées et ascendantes jusqu'à la marge ou presque. Pétiolules de 3-4 mm, tomenteux.
+Long inflorescences ferruginous tomentose, pendulous from the trunk. Axis 40 cm or more long, on which are inserted at wide intervals short racemes. Involucral bractlets velvety ferruginous, approximately 8 mm. Sepals 4, subequal, 4 mm long. One large petal with bilobed blade, long-unguiculate, approximately 2 cm long. 4 small obovate petals shorter than the sepals. Fertile stamens 3, long-exserted. Ovary hirsute.
 
-Longues inflorescences tomenteuses ferrugineuses, pendantes du tronc. Axe long de 40 cm et plus, sur lequel sont insérés à larges intervalles de courts racèmes. Bractéoles involucrales veloutées ferrugineuses, de 8 mm environ. Sépales 4, subégaux, longs de 4 mm. Un grand pétale à lame bilobée, longuement onguiculé, long de 2 cm environ. 4 petits pétales obovés plus courts que les sépales. Étamines fertiles 3, longuement exsertes. Ovaire hirsute.
-
-Gousse plate, veinée transversalement, tomenteuse ferrugineuse, atteignant  $ 30 \times 5 $ cm.
+Pod flat, transversely veined, ferruginous tomentose, reaching $ 30 \times 5 $ cm.
 
 ## Type
 
@@ -35,9 +33,7 @@ Soyaux 74, Gabon (iso. P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres pouvant dépasser un mètre de diamètre, munis de contreforts. Fût un peu sinueux. Grosses branches sinueuses. Feuillage fauve.
+Trees capable of exceeding one metre in diameter, furnished with buttresses. Bole somewhat sinuous. Stout sinuous branches. Foliage fulvous.
 
 ## Vernacular names
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou arbuste semi-ligneux de 1 m de hauteur ; tige glabre ou hérissée. Stipules linéaireslancéolées, la partie supérieure 6–10 × 1–2 mm, l’oreillette inférieure 5–7 × 1–2 mm, ciliées et nervurées. Feuille : pétiole 0,4–0,5 cm ; rachis 3–7 cm ; folioles en 10 à 30 paires , à limbe étroitement oblong ou un peu falciforme , 4–15 × 1–2 mm, à sommet denté, à 3 nervures saillantes . Inflorescence en pseudoracème, pauciflore, ± 2–4 cm de longueur ; bractées obliquement ovales, 2–4 × 1–2 mm, ciliées, à nervures saillantes. Fleur : bractéoles comme les bractées ; calice 3–6 mm de longueur ; pétales ± 5 mm de longueur, rose pâle , parfois blanchâtres , étendard à une tache jaunâtre au centre, strié de pourpre, carène pourpre, à base blanche ; étamines monadelphes . Gousse un peu courbée , suture dorsale droite, suture ventrale échancrée, avec 3 à 9 articles de 3–6 × 2,5–5 mm, le centre ± rugueux, glabres ou pubescentes ; stipe ± 4 mm. Graine réniforme, ± 2 × 1,5 × 1,5 mm, brune .
+Herb or semi-woody shrub 1 m tall; stem glabrous or hispid. Stipules linear-lanceolate, upper part 6–10 × 1–2 mm, lower auricle 5–7 × 1–2 mm, ciliate and nerved. Leaf: petiole 0.4–0.5 cm; rachis 3–7 cm; leaflets in 10 to 30 pairs, with narrowly oblong or somewhat falciform blade, 4–15 × 1–2 mm, with dentate apex, with 3 prominent nerves. Inflorescence in pseudoraceme, pauciflorous, ± 2–4 cm long; bracts obliquely ovate, 2–4 × 1–2 mm, ciliate, with prominent nerves. Flower: bracteoles like the bracts; calyx 3–6 mm long; petals ± 5 mm long, pale pink, sometimes whitish, standard with a yellowish spot at centre, streaked with purple, keel purple, with white base; stamens monadelphous. Pod somewhat curved, dorsal suture straight, ventral suture emarginate, with 3 to 9 articles 3–6 × 2.5–5 mm, centre ± wrinkled, glabrous or pubescent; stipe ± 4 mm. Seed reniform, ± 2 × 1.5 × 1.5 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-d’origine américaine, maintenant distribuée et bien naturalisée autour des tropiques ; en Afrique, largement répandue ; au Gabon, signalée depuis 2006, d’abord dans l’Estuaire, ensuite dans la Ngounié et l’Ogooué-Ivindo
+of American origin, now distributed and well naturalized around the tropics; in Africa, widely spread; in Gabon, recorded since 2006, first in Estuaire, then in Ngounié and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-jachères, bords de route, marécages, savanes ripicoles ; au Gabon, à 10–190 m d’altitude, ailleurs jusqu’à 1100 m. Usage : Les plantes servent comme fourrage et sont un engrais vert potentiel
+fallows, roadsides, marshes, riparian savannas; in Gabon, at 10–190 m altitude, elsewhere up to 1100 m. Use: The plants serve as fodder and are a potential green manure
 
 ## Vernacular names
 

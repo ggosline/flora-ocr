@@ -21,8 +21,11 @@ Usage
 from __future__ import annotations
 
 import argparse
+import concurrent.futures as cf
+import itertools
 import re
 import sys
+import threading
 import time
 from pathlib import Path
 
@@ -113,6 +116,11 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--family", help="only pages whose frontmatter names this family")
     ap.add_argument("--limit", type=int, help="stop after N pages")
     ap.add_argument("--model", default=DEFAULT_MODEL)
+    ap.add_argument("--workers", type=int, default=8,
+                    help="pages translated concurrently. The work is entirely "
+                         "waiting on the API -- a page takes ~35 s, so the "
+                         "Leguminosae species tier is 4.6 h serially and about "
+                         "half an hour at the default")
     ap.add_argument("--interval", type=float, default=0.5,
                     help="seconds between requests (default 0.5)")
     ap.add_argument("--dry-run", action="store_true")
@@ -141,37 +149,48 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     client = anthropic.Anthropic()
-    done = failed = 0
-    for i, p in enumerate(todo, 1):
-        s = p.read_text(encoding="utf-8")
-        blocks = list(BLOCK_RE.finditer(s))
+    counter = itertools.count(1)
+    lock = threading.Lock()
+
+    def handle(path: Path) -> bool:
+        """Translate one page. Returns False on failure."""
+        text = path.read_text(encoding="utf-8")
+        blocks = list(BLOCK_RE.finditer(text))
         if not blocks:
-            print(f"  SKIP {p.name}: no marked block found")
-            continue
+            with lock:
+                print(f"  SKIP {path.name}: no marked block found")
+            return True
 
         bodies = [m.group(1).strip() for m in blocks]
         if not any(bodies):
-            p.write_text(MARKER_RE.sub("", s), encoding="utf-8")
-            continue
+            path.write_text(MARKER_RE.sub("", text), encoding="utf-8")
+            return True
 
         try:
             english = translate_blocks(client, args.model, bodies)
         except Exception as exc:                           # noqa: BLE001
-            print(f"  FAIL {p.name}: {exc}")
-            failed += 1
-            continue
+            with lock:
+                print(f"  FAIL {path.name}: {exc}")
+            return False
 
-        # replace back to front so earlier offsets stay valid
-        out = s
-        for m, text in zip(reversed(blocks), reversed(english)):
-            out = out[: m.start(1)] + text + "\n" + out[m.end(1):]
-        out = MARKER_RE.sub("", out)
-        p.write_text(out, encoding="utf-8")
-        done += 1
+        # rewrite back to front so earlier offsets stay valid
+        out = text
+        for m, translated in zip(reversed(blocks), reversed(english)):
+            out = out[: m.start(1)] + translated + "\n" + out[m.end(1):]
+        path.write_text(MARKER_RE.sub("", out), encoding="utf-8")
         before, after = sum(map(len, bodies)), sum(map(len, english))
-        print(f"  [{i}/{len(todo)}] {p.name} "
-              f"({len(bodies)} block(s), {before} -> {after} chars)")
-        time.sleep(args.interval)
+        with lock:
+            print(f"  [{next(counter)}/{len(todo)}] {path.name} "
+                  f"({len(bodies)} block(s), {before} -> {after} chars)")
+        return True
+
+    done = failed = 0
+    with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:
+        for ok in pool.map(handle, todo):
+            if ok:
+                done += 1
+            else:
+                failed += 1
 
     print(f"translated {done}, failed {failed}")
     return 1 if failed else 0

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ; ramilles tomenteuses. Stipules ± persistantes, étroitement triangulaires à oblongues, 6–10 × 1,5–4 mm, tomenteuses. Feuille : pétiole à pulvinus contigus , 4–9 mm, tomenteux ; foliole à limbe obovale-elliptique à oblong, (4–)8–17 × (1,5–)3–6(–8) cm, arrondi à subcordé à la base, aigu à acuminé sur 0,5–1,5 cm au sommet, ± glabre ou glabrescent dessus, tomenteux dessous ; nervures latérales en 9 à 12 paires. Inflorescence en fascicules, jusqu’à 20-flores, densément tomenteux ; bractées largement ovales à circulaires, 1–2 mm de diamètre. Fleur : bractéoles situées sur le pédicelle à 1–3 mm au dessous du calice , largement ovales, 2–3 × 2–3 mm ; pédicelle (5–)7–11 mm, tomenteux ; boutons floraux falciformes, tomenteux ; calice spathacé , 11–14 × 10 mm ; étendard 13–14 × 12–18 mm, bilobé au sommet, à onglet de 3–4 mm, ailes fortement falciformes, 14–15 × 5–6 mm, à onglet de 3–4 mm, pétales de la ca rène fortement falciformes, aussi longs que les ailes, à onglet de 3–4 mm ; étamines 6–10 mm de longueur, anthères 1,5–2 mm de longueur ; pistil ± 9 mm de longueur, ovaire tomenteux, à 3 ou 4 ovules ; style glabre. Gousse (immature) 6 × 2 cm, pubescente. Graine mûre non vue.
+Liane; branchlets tomentose. Stipules ± persistent, narrowly triangular to oblong, 6–10 × 1.5–4 mm, tomentose. Leaf: petiole with contiguous pulvini, 4–9 mm, tomentose; leaflet with obovate-elliptic to oblong blade, (4–)8–17 × (1.5–)3–6(–8) cm, rounded to subcordate at base, acute to acuminate over 0.5–1.5 cm at apex, ± glabrous or glabrescent above, tomentose below; lateral nerves in 9 to 12 pairs. Inflorescence in fascicles, up to 20-flowered, densely tomentose; bracts broadly ovate to circular, 1–2 mm in diameter. Flower: bracteoles situated on the pedicel 1–3 mm below the calyx, broadly ovate, 2–3 × 2–3 mm; pedicel (5–)7–11 mm, tomentose; floral buds falcate, tomentose; calyx spathate, 11–14 × 10 mm; standard 13–14 × 12–18 mm, bilobed at apex, with claw 3–4 mm, wings strongly falcate, 14–15 × 5–6 mm, with claw 3–4 mm, keel petals strongly falcate, as long as the wings, with claw 3–4 mm; stamens 6–10 mm in length, anthers 1.5–2 mm in length; pistil ± 9 mm in length, ovary tomentose, with 3 or 4 ovules; style glabrous. Pod (immature) 6 × 2 cm, pubescent. Mature seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Est du Nigéria, Cameroun, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue principalement du Nord du pays : Woleu-Ntem, Ogooué-Lolo, Ogooué-Ivindo
+South-East Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known mainly from the North of the country: Woleu-Ntem, Ogooué-Lolo, Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 400–500 m d’altitude, ailleurs à 0–700 m. b : Pellegrin (1949), Soladoye (1985), Toussaint (1953). ibliographie
+primary and secondarized forest; in Gabon at 400–500 m altitude, elsewhere at 0–700 m. Bibliography: Pellegrin (1949), Soladoye (1985), Toussaint (1953).
 
 ## Notes
 

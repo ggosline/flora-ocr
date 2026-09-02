@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou arbuste de 1–4 m de hauteur ; rameaux pubérulents à poils denses et jaunes. Stipules linéaires, 0,5–2 mm de longueur. Feuille : pétiole 3–10 cm ; folioles 3 , à limbe elliptique ou parfois lancéolé, 4–10 × 2–5,5 cm, poilu surtout sur les nervures dessous. Inflorescence axillaire, en fascicules ou racèmes courts, avec 2 à 6(–12) fleurs ; bractées libres, linéaires, ± 1,5 mm de longueur . Fleur : bractéoles sur le pédicelle, minuscules ; calice atteignant 1,5 cm de longueur, ± pubescent, à lobes étroits, plus longs que le tube ; corolle jaune, 2–2,5 cm de longueur , étendard arrondi-obovale, à nervure centrale peu poilue sur le dos , ailes aussi longues que la carène, carène arrondie au milieu, 1,5–1,8 cm de longueur, à bec tordu. Gousse oblongue-claviforme , 4,5–6 × 0,8–1,5 cm, atténuée vers le stipe de 0,6–1 cm , développant des nervures bien visibles, avec 16 à 20 graines . Graine subréniforme, 3–5 mm de longueur, lisse, orange-brun.
+Herb or shrub 1–4 m tall; branchlets puberulous with dense and yellow hairs. Stipules linear, 0.5–2 mm long. Leaf: petiole 3–10 cm; leaflets 3, with elliptic or sometimes lanceolate blade, 4–10 × 2–5.5 cm, hairy especially on the veins below. Inflorescence axillary, in fascicles or short racemes, with 2 to 6(–12) flowers; bracts free, linear, ± 1.5 mm long. Flower: bracteoles on the pedicel, minute; calyx reaching 1.5 cm long, ± pubescent, with narrow lobes, longer than the tube; corolla yellow, 2–2.5 cm long, standard rounded-obovate, with central vein slightly hairy on the back, wings as long as the keel, keel rounded in the middle, 1.5–1.8 cm long, with twisted beak. Pod oblong-claviform, 4.5–6 × 0.8–1.5 cm, attenuate toward the stipe of 0.6–1 cm, developing well-visible veins, with 16 to 20 seeds. Seed subreniform, 3–5 mm long, smooth, orange-brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Ghana à l’Éthiopie, vers le Sud jusqu’à l’Angola, le Malawi et le Mozambique ; au Gabon, seulement connue de l’Ogooué-Ivindo
+from Ghana to Ethiopia, southward to Angola, Malawi and Mozambique; in Gabon, known only from Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-régions de pluies élevées et équitables, lisières de forêt, bords de rivières et lacs, assez dis jointe ; au Gabon à 200 m d’altitude, ailleurs jusqu’à 1500 m
+regions of high and equitable rainfall, forest margins, river and lake edges, rather disjunct; in Gabon at 200 m altitude, elsewhere up to 1500 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La nervure pubescente sur l’étendard est difficile à discerner. b : Polhill (1982, 2003), Watt & Breyer-Brandwijk (1962), Wilczek (1953). ibliographie
+The pubescent vein on the standard is difficult to discern. b: Polhill (1982, 2003), Watt & Breyer-Brandwijk (1962), Wilczek (1953). Bibliography
 
 ## Notes
 

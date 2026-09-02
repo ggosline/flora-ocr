@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B. spathacea Hook.f. subsp. polyantha (Harms) Soladoye, Kew Bull. 40 : 350 (1985). Arbuste ou grande liane ; ramilles pubérulentes à tomentelleuses, glabrescentes, ± la même pilosité présente sur les stipules, pétioles et inflorescences. Stipules elliptiques, 7–10 × 2–4 mm. Feuille : pétiole à pulvinus séparés , 1,5–3 cm ; foliole à limbe ± elliptique, (7–)9–16 × 3,5–7 cm, arrondi à la base, sommet acuminé sur 0,5–2(–2,5) cm, papyracé à coriace, glabre dessus, éparsement poilu dessous ; nervures latérales en 6 à 9 paires. Inflorescence à fleurs en fascicules axillaires ou en panicule (sub)terminal et atteignant 10 cm de longueur ; bractées largement ovales, 1–2 × 2 mm. Fleur : bractéoles situées au milieu du pédicelle ou plus bas , ± tôt caduques , ovales-elliptiques, ± 1 mm de longueur ; pédicelle 9–13 mm, brun-pu bérulent ; calice spathacé , 8–14 × 9–12 mm, brun-pubérulent ; étendard 9–15 × 9–16 mm, profondément cordé à la base, à onglet de ± 2 mm, ailes ± falciformes, 9–15 × 4–6 mm, à onglet de 2–3 mm, pétales de la carène 10–14 × 4–5 mm, à onglet de ± 2 mm ; étamines 5–10 mm de longueur, anthères 1,5 mm de longueur ; pistil 7 mm de longueur, ovaire velouté , à 3 ou 4 ovules. Gousse oblongue-oblancéolée, 9–12 × 2–2,5 cm, à poils épars, glabrescente, à 1 ou 2 graines. Graine mûre non vue.
+B. spathacea Hook.f. subsp. polyantha (Harms) Soladoye, Kew Bull. 40 : 350 (1985). Shrub or large liane; branchlets puberulent to tomentellous, glabrescent, ± the same pilosity present on stipules, petioles and inflorescences. Stipules elliptic, 7–10 × 2–4 mm. Leaf: petiole with separated pulvinus, 1.5–3 cm; leaflet with ± elliptic blade, (7–)9–16 × 3.5–7 cm, rounded at base, apex acuminate over 0.5–2(–2.5) cm, papyraceous to coriaceous, glabrous above, sparsely hairy below; lateral veins in 6 to 9 pairs. Inflorescence with flowers in axillary fascicles or in (sub)terminal panicle reaching 10 cm in length; bracts broadly ovate, 1–2 × 2 mm. Flower: bracteoles situated at the midpoint of the pedicel or lower, ± early caducous, ovate-elliptic, ± 1 mm in length; pedicel 9–13 mm, brown-puberulent; calyx spathaceous, 8–14 × 9–12 mm, brown-puberulent; standard 9–15 × 9–16 mm, deeply cordate at base, with claw of ± 2 mm, wings ± falciform, 9–15 × 4–6 mm, with claw of 2–3 mm, keel petals 10–14 × 4–5 mm, with claw of ± 2 mm; stamens 5–10 mm in length, anthers 1.5 mm in length; pistil 7 mm in length, ovary velvety, with 3 or 4 ovules. Pod oblong-oblanceolate, 9–12 × 2–2.5 cm, with scattered hairs, glabrescent, with 1 or 2 seeds. Mature seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et République démocratique du Congo ; au Gabon, dans le HautOgooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Lolo et le Woleu-Ntem
+Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, in Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 200–500 m d’altitude, ailleurs jusqu’à 700 m
+primary and secondarized forest; in Gabon at 200–500 m altitude, elsewhere up to 700 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La réduction de cette espèce en sous-espèce de B. spathacea Hook.f. par Soladoye (1985) n’est pas suivie ici. B. spathacea de la Sierra Léone et du Liberia, a des bractéoles ± persistantes, formant une cupule, situées assez près du calice, rarement plus bas, tandis que chez B. polyantha , les bractéoles sont situées au milieu du pédicelle ou plus bas et sont ovales-elliptiques. De plus, la forme des boutons floraux est différente chez les deux taxons : très courbés chez B. spathacea , peu ou non courbés chez B. polyantha . Le pédicelle de la dernière espèce est plus long et moins costaud que chez B. spathacea . b : Pellegrin (1949), Soladoye (1985), Toussaint (1953). ibliographie
+The reduction of this species to subspecies of B. spathacea Hook.f. by Soladoye (1985) is not followed here. B. spathacea from Sierra Leone and Liberia has ± persistent bracteoles, forming a cupule, situated fairly close to the calyx, rarely lower, whereas in B. polyantha the bracteoles are situated at the midpoint of the pedicel or lower and are ovate-elliptic. Furthermore, the shape of the floral buds differs in the two taxa: strongly curved in B. spathacea, little or not curved in B. polyantha. The pedicel of the latter species is longer and less robust than in B. spathacea. b: Pellegrin (1949), Soladoye (1985), Toussaint (1953). ibliography
 
 ## Notes
 

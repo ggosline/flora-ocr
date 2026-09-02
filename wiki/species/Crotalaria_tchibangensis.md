@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb reaching 2 m in height; stem subherbaceous, stiff, sparsely branched, glaucous; branches cylindrical, erect. Stipules absent. Leaf 3-foliolate or sometimes simple at the base and apex of the plant; petiole 0–1 mm; leaflets with petiolule of ± 1 mm, with linear-lanceolate or linear-oblong blade, cuneate at the base, with acuminate and mucronulate apex, glabrous, glaucous, the central one 5–9 × 0.5–1.3 cm, the lateral ones 1.5–5 × 0.15–0.9 cm. Inflorescence in loose racemes of 5 to 10 flowers; bracts ovate to subulate, 0.3–0.8 × 2–3 mm. Flower: bracteoles geminate at the middle of the pedicel, setaceous, 0.3–1 mm; petiole 0.5–1 mm; calyx ± 5 mm in length, glabrous or sparsely puberulent, lobes longer than the tube; petals yellow, standard suborbicular, 6–9 mm in length, apex emarginate, rose and streaked with brown or purple on the dorsal surface, provided with two appendages above the claw, wings longer than the keel, keel
 
-Herbe atteignant 2 m de hauteur ; tige subherbacée, raide, peu ramifiée, glauque ; rameaux cylindriques, dressés. Stipules absentes . Feuille 3-foliolée ou parfois simple en bas et en haut de la plante ; pétiole 0–1 mm ; folioles à pétiolule de ± 1 mm , à limbe linéaire-lancéolé ou linéaire-oblong , cunéé à la base, à sommet acuminé et mucronulé, glabre, glauque , la centrale 5–9 × 0,5–1,3 cm, les latérales 1,5–5 × 0,15–0,9 cm. Inflorescence en racèmes lâches de 5 à 10 fleurs ; bractées ovales à subulées, 0,3–0,8 × 2–3 mm. Fleur : bractéoles géminées au milieu du pédicelle, sétacées, 0,3–1 mm ; pétiole 0,5–1 mm ; calice ± 5 mm de longueur, glabre ou éparsement pubérulent, lobes plus longs que le tube ; pétales jaunes , étendard subcirculaire, 6–9 mm de longueur, sommet émarginé, rose et strié de brun ou pourpre sur le dos , pourvu de deux appendices au-dessus de l’onglet, ailes plus longues que la carène, carène
+Wing, outer surface. – 9. Keel. – 10. Androecium. – 11. Pistil. – 12. Idem, ovary cut longitudinally. – 13. Pod. – 14. Idem, open. (1–14: J.J.F.E. de Wilde et al. (WALK-B) 723). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
-Aile, face extérieure. – 9. Carène. – 10. Androcée. – 11. Pistil. – 12. Idem, ovaire coupé longitudinale ment. – 13. Gousse. – 14. Idem, ouverte. (1–14 : J.J.F.E. de Wilde et al. (WALK-B) 723 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
-
-genouillée-dressée, nettement rostrée. Gousse cylindrique-oblongue , 20–23 mm de longueur y inclus le stipe de 1–2 mm, glabre, avec 12 à 20 graines . Graine obliquement oblongue-cordiforme, 2–3 mm de longueur, lisse, luisante, brune .
+geniculate-erect, clearly rostrate. Pod cylindrical-oblong, 20–23 mm in length including the stipe of 1–2 mm, glabrous, with 12 to 20 seeds. Seed obliquely oblong-cordiform, 2–3 mm in length, smooth, shiny, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, seulement connue de la Nyanga (Tchibanga)
+endemic to Gabon, known only from the Nyanga (Tchibanga)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord de route, herbe spontanée dans jardin ; à 60–80 m d’altitude
+roadside, spontaneous herb in garden; at 60–80 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rapproche de C. glauca , mais les feuilles sont 3-foliolées, non simples, et la plante est plus robuste. b : van der Maesen (2013). ibliographie
+This species is close to C. glauca, but the leaves are 3-foliolate, not simple, and the plant is more robust. b: van der Maesen (2013). Bibliography
 
 ## Notes
 

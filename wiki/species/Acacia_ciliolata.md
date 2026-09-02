@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in TORRE CFA 2 (2): 288 (1956); Bol. Soc. Brot., sér. 2, 31: 132 (1957); Ross, Mem. Bot. Surv. S.A. 44: 50 (1979).
 
 – A. silvicola Gilbert & Boutique, BJBB 22: 179 (1952), p.p., saltem quoad specim. cit. J. Louis 1937, 9173; Pinaert 1282.
 
-Arbuste sarmenteux ou liane. Tige désément très courtement pubescente, marron noirâtre sur le sec, à nombreuses lenticelles plus claires; aiguillons très courts. Stipules caduques. Pétiole désément pubescent, long de 1,3-2 cm ; glande disciforme, aplatie dessus, à la face supérieure canaliculée ; 2 sillons latéraux ; 1-2 petits aiguillons à la face inférieure. Rachis entièrement pubescent subhirsute, long de 1-8,5 cm, faiblement caréné dessus avec glandes comme précédemment juste au-dessus de l'insertion des pennes sommitales ; aiguillons à la face inférieure. Pennes 4-17 paires. Axe de la penne pubescent sur les bords, la carène médiane (poils dressés) et la carène ventrale ; long de 1,2-3 cm ; carène supérieure très faible ; petits poils rouges glanduleux au niveau de l'insertion des folioles ; sommet terminé dessous par un mucron effilé, long de 1,5 mm, aigu au sommet. Folioles 30-56 paires, subpétiolulées ; folioles basales souvent réduites. Limbe glabre sur les deux faces ; vert foncé luisant dessus et vert plus clair mat dessous ; triangularte oblong, atteignant  $ 3,5 \times 0,5 $ mm ; base très asymétrique ; bord proximal tronqué subcordé et bord distal atténué linéaire ; marges ciliées ; sommet aigu. Nervure principale submédiane, faiblement saillante dessus et saillante dessous. Reste de la nervation non visible.
+Shrub sarmentose or liane. Stem sparsely very shortly pubescent, dark brown on dry material, with numerous lighter lenticels; prickles very short. Stipules caducous. Petiole sparsely pubescent, 1.3–2 cm long; discifo­rm gland, flattened above, with a channelled upper surface; 2 lateral furrows; 1–2 small prickles on the lower surface. Rachis entirely pubescent to subhirsute, 1–8.5 cm long, weakly carinate above with glands as previously mentioned just above the insertion of the apical pinnae; prickles on the lower surface. Pinnae 4–17 pairs. Pinnule axis pubescent on the margins, on the median carina (erect hairs) and on the ventral carina; 1.2–3 cm long; upper carina very weak; small red glandular hairs at the level of leaflet insertion; apex terminated below by a fine mucro, 1.5 mm long, acute at the tip. Leaflets 30–56 pairs, subpetiolulate; basal leaflets often reduced. Blade glabrous on both surfaces; dark green glossy above and paler green matt below; triangular-oblong, reaching 3.5 × 0.5 mm; base very asymmetric; proximal margin truncate subcordate and distal margin attenuate-linear; margins ciliate; apex acute. Primary vein submedian, weakly prominent above and prominent below. Remainder of venation not visible.
 
-Inflorescence en panicule terminale d'épis capituliformes. Axe de la panicule densément pubescent avec nombreux aiguillons. Pédoncule densément pubescent. Bractéole obovée, pubescente extérieurement, longue de 0,90 mm, ciliée sur le bord, sommet aigu. Bouton floral obovoïde, rouge sur le vivant. Fleur ♂ sessile, blanche odorante sur le vivant. Calice obconique, long de 1,25-2,50 mm; sépales ± cour- tement pubescents extérieurement surtout sur la ligne médiane; lobes libres deltoïdes lancéolés, pubescents et ciliés sur le bord, longs de 0,50-0,80 mm, sommet aigu. Corolle longue de 2,5-2,75 mm; pétales pubescents extérieurement surtout au niveau des lobes, lobes libres ± lancéolés, longs de 0,5-1 mm, sommet aigu. Étamines nombreuses, longues de 5-6,5 mm, souduées en tube à la base sur 0,75-1 mm et au disque; anthère largement oblongue, longue de 0,15 mm, connectif prolongé par une petite glande pédiculée caduque. Disque charnu soudé
+Inflorescence in terminal panicle of capitate spikes. Axis of panicle densely pubescent with numerous prickles. Peduncle densely pubescent. Bractole obovate, pubescent externally, 0.90 mm long, ciliate on the margin, apex acute. Floral bud obovoid, red in life. Flower ♂ sessile, white fragrant in life. Calyx obconic, 1.25–2.50 mm long; sepals ± shortly pubescent externally especially on the median line; free lobes deltoid-lanceolate, pubescent and ciliate on the margin, 0.50–0.80 mm long, apex acute. Corolla 2.5–2.75 mm long; petals pubescent externally especially at the level of the lobes, free lobes ± lanceolate, 0.5–1 mm long, apex acute. Stamens numerous, 5–6.5 mm long, united in a tube at the base for 0.75–1 mm and to the disc; anther broadly oblong, 0.15 mm long, connective produced by a small caducous stipitate gland. Disc fleshy united
 
-au tube staminal faisant un bourrelet à sa face interne. Pistil à stipe long de 1-1,5 mm ; ovaire densément pubescent, ellipsoïde oblong, un peu asymétrique, long de 0,80-1 mm, à 12 ovules ; style long de 4,25-4,50 mm à stigmate faiblement rétréci.
+to the staminal tube forming a ridge on its inner surface. Pistil with a stipe 1–1.5 mm long; ovary densely pubescent, ellipsoid-oblong, somewhat asymmetric, 0.80–1 mm long, with 12 ovules; style 4.25–4.50 mm long with slightly narrowed stigma.
 
-Gousse déhiscente, glabre, marron terne sur le sec, nettement oblongue elliptique,  $ 7,2-8 \times 1,7-2,1 $ cm ; base atténuée arrondie, cour- tement stipitée (3 mm) ; nervation pratiquement effacée. Graines ± luisantes sur le sec, ellipsoïdes oblongoïdes,  $ 6-8,5 \times 5-5,5 $ mm, aréole allongée de grande taille.
+Pod dehiscent, glabrous, dull brown on dry material, distinctly oblong-elliptic, 7.2–8 × 1.7–2.1 cm; base attenuate-rounded, shortly stipitate (3 mm); venation practically effaced. Seeds ± glossy on dry material, ellipsoid-oblongoid, 6–8.5 × 5–5.5 mm, aril elongate and large.
 
 ## Type
 
@@ -36,11 +34,9 @@ Gossweiler 7579, Angola : Cabinda, Belize (holo-, BM ; iso-, COI, K, LISU)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is close to A. kamerunensis but the much denser pubescence allows rapid recognition.
 
-Cette espèce est proche de A. kamerunensis mais la pubescence beaucoup plus dense permet une reconnaissance rapide.
-
-C'est une plante de forêt dense dont l'aire englobe le Cabinda, le Zaïre (probablement le Congo) et le Gabon.
+It is a plant of dense forest whose range encompasses Cabinda, Zaïre (probably Congo) and Gabon.
 
 ## Vernacular names
 

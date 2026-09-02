@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bakerophyton lateritium (Harms) Hutch. ex Maheshw., Taxon 16 : 238, 464 (1967). Herbe annuelle ; tige dressée, prostrée ou traînante, 0,3–1 m de longueur , assez grêle, la base suffrutescente ; indument finement pubescent, poils dressés, jaunâtres. Stipules elliptiques-ovales à étroitement elliptiques-ovales, non ou unilatéralement appendiculées, 3–9 × 1–3 mm, à marges serretées-ciliées. Feuille : pétiole ± 3 mm ; rachis 1–3,5 cm ; folioles en 7 à 20 paires , à limbe oblong, 3–8 × 1–2 mm , la base obtuse à arrondie, la partie supérieure denticulée-ciliée, glabre. Inflorescence en pseudoracème axillaire ou pseudoterminal, grêle ; axe 1,5–8(–10) cm, en zigzag marqué ; bractées trifides à tripartites, 2–3 × 1,5–2 mm, les dents serretées-ciliées. Fleur : pédicelle dressé puis recourbé, filiforme, 3–8(–10) mm ; brac téoles lancéolées, 3–3,5 × 0,5–0,7 mm ; calice bilabiée, à tube presque nul, lobe supérieur à 2 dents, lobe inférieur à 3 dents, lobes 3 × 1–1,5 mm, ciliés ; corolle glabre, jaune-orange à rose-mauve ou crème , étendard oblong-rectangulaire, 2,5–3 × 1,5–2,2 mm, veiné, ailes obovales à elliptiques, 2–3 × 1 mm, pétales de la carène sublosangiques, 2,5–3 × 1 mm ; étamines alternativement longues de 1,5 mm et courtes de 1,2 mm, à anthères respectivement grandes sub-basifixes et minuscules dorsifixes ; ovaire ovale, glabre, à 2 ovules, sur stipe de 0,5 mm, ; style 1 mm, persistant. Gousse à 1 (ou 2) articles suborbiculaires de 1–1,5 × 1–1,2 mm , densément verruqueux à maturité, inclus dans les bractéoles et calice persistants , indéhiscente.
+Bakerophyton lateritium (Harms) Hutch. ex Maheshw., Taxon 16 : 238, 464 (1967). Annual herb; stem erect, prostrate or trailing, 0.3–1 m long, rather slender, base suffrutescent; indument finely pubescent, hairs erect, yellowish. Stipules elliptic-ovate to narrowly elliptic-ovate, not or unilaterally appendiculate, 3–9 × 1–3 mm, margins serrate-ciliate. Leaf: petiole ± 3 mm; rachis 1–3.5 cm; leaflets in 7 to 20 pairs, limb oblong, 3–8 × 1–2 mm, base obtuse to rounded, upper part denticulate-ciliate, glabrous. Inflorescence in axillary or pseudoterminal pseudoraceme, slender; axis 1.5–8(–10) cm, markedly zigzag; bracts trifid to tripartite, 2–3 × 1.5–2 mm, teeth serrate-ciliate. Flower: pedicel erect then curved, filiform, 3–8(–10) mm; bracteoles lanceolate, 3–3.5 × 0.5–0.7 mm; calyx bilabiate, tube almost absent, upper lobe with 2 teeth, lower lobe with 3 teeth, lobes 3 × 1–1.5 mm, ciliate; corolla glabrous, yellow-orange to rose-mauve or cream, standard oblong-rectangular, 2.5–3 × 1.5–2.2 mm, veined, wings obovate to elliptic, 2–3 × 1 mm, keel petals subrhombic, 2.5–3 × 1 mm; stamens alternately long 1.5 mm and short 1.2 mm, with anthers respectively large sub-basifixed and minute dorsifixed; ovary ovate, glabrous, with 2 ovules, on stipe 0.5 mm; style 1 mm, persistent. Pod with 1 (or 2) suborbicular articles 1–1.5 × 1–1.2 mm, densely verrucose at maturity, included in persistent bracteoles and calyx, indehiscent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Côte d’Ivoire, Bénin, Nigéria, Cameroun, République du Congo, République démocratique du Congo, Burundi, Angola ; à rechercher au Gabon
+Ghana, Côte d'Ivoire, Benin, Nigeria, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Burundi, Angola; to be sought in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes arboricoles, savanes inondables, bords des routes, terrains cultivés, jachères, inselbergs, souvent sur sable ; au moins montant jusqu’à 700 m. b : Léonard (1954b). ibliographie
+wooded savannas, flooded savannas, roadsides, cultivated lands, fallows, inselbergs, often on sand; at least reaching 700 m.
 
 ## Notes
 

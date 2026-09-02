@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne à vie courte, jusqu’à 2,5 m de hauteur, à pubescence dense ; tige dressée, finement côtelée. Stipules oblongs-falciformes , assez obliques, 9–25 mm de longueur. Feuille : pétiole 3,5–6,5 cm ; folioles 3 , à limbe linéaire-oblancéolé à obovale , 2,5–8,5 × 0,8–2,5 cm, à base étroitement cunéée, sommet légèrement émarginé , glabre à éparsement pubescent dessus, à pubescence apprimée dessous. Inflorescence terminale, en racèmes d’abord denses et globuliformes , s’allongeant ensuite à 4–24 cm de longueur et à fleurs concentrées vers le sommet ; bractées caduques, subulées à filiformes, 3–4 mm de longueur. Fleur : bractéoles sur le pédicelle, caduques ; calice 4–5 mm de longueur, à lobes subulés-triangulaires, aussi longs que le tube ; étendard ovale, 10–12 mm de longueur, jaune, strié ou voilé d’orange, brun ou pourpre, glabre sur le dos, ailes un peu plus courtes que la carène, carène genouillée-dressée , 8–11 mm de longueur, à rostre droit, à marges supérieures poilues. Gousse subsessile , oblongue-ellipsoïde , 15–20 × 7–10 mm, légèrement pubescente, avec 12 à 16 graines . Graine oblongue-réniforme, ± 3–4 mm de longueur, orange, rouge ou parfois jaune , surface granuleuse ; strophiole petite.
+Annual or short-lived perennial herb, up to 2.5 m tall, with dense pubescence; stem erect, finely ribbed. Stipules oblong-falcate, fairly oblique, 9–25 mm long. Leaf: petiole 3.5–6.5 cm; leaflets 3, with blade linear-oblanceolate to obovate, 2.5–8.5 × 0.8–2.5 cm, with narrowly cuneate base, apex slightly emarginate, glabrous to sparsely pubescent above, with appressed pubescence below. Inflorescence terminal, in racemes at first dense and globose, then elongating to 4–24 cm long and with flowers concentrated toward the apex; bracts caducous, subulate to filiform, 3–4 mm long. Flower: bracteoles on the pedicel, caducous; calyx 4–5 mm long, with subulate-triangular lobes as long as the tube; standard oval, 10–12 mm long, yellow, streaked or suffused with orange, brown or purple, glabrous on the back, wings somewhat shorter than the keel, keel geniculate-erect, 8–11 mm long, with straight beak, with upper margins hairy. Pod subsessile, oblong-ellipsoid, 15–20 × 7–10 mm, slightly pubescent, with 12 to 16 seeds. Seed oblong-reniform, ± 3–4 mm long, orange, red or sometimes yellow, surface granular; strophiole small.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bien répartie en Afrique tropicale, sauf à l’extrême Sud ; au Gabon, connue de la Nyanga
+well distributed in tropical Africa, except at the extreme south; in Gabon, known from the Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbacées près de l’eau, stations rudérales, lisières de fleuves, rochers, bords de route, cultures ; au Gabon à 100 m d’altitude, ailleurs jusqu’à 2400 m. Fleurs et fruits en avril. Usage : L’espèce est utilisée ailleurs comme engrais vert
+herbaceous savannas near water, ruderal stations, river margins, rocks, roadsides, cultivations; in Gabon at 100 m altitude, elsewhere up to 2400 m. Flowers and fruits in April. Use: The species is used elsewhere as green manure
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ Gambia pea (angl.). b : Polhill (1982, 2003), Wilczek (1953). ibliographie
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuille avec stipules (× ½). –10. Fleur épanouie (× 2,5). – 11. Gousse, coupe longitudinale (× 2). (1–8 : Ghesquiere 3590 ; 9–11 : Bredo 2015 ). Dessin par M. Boutique, Jardin Botanique Meise (©).
+Leaf with stipules (× ½). – 10. Open flower (× 2.5). – 11. Pod, longitudinal section (× 2). (1–8: Ghesquiere 3590; 9–11: Bredo 2015). Drawing by M. Boutique, Meise Botanical Garden (©).
 
 ## Notes
 

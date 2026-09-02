@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with (4–) 5–6 (–8) pairs of opposite leaflets. Stipules persistent as a thick intrapetiolary ridge. Leaflets oblong, with obtuse apex, shortly acuminate, with obtuse or rounded base, glabrous, 7–13 cm long, 4–5 cm wide. Secondary veins joining in arcs near the margin and intermediate veinlets parallel, numerous, forming with veinules a slightly raised but clearly visible network on the lower surface of the blade. Petiolules twisted, 5 mm. Rachis channelled, somewhat pubescent, 15–25 cm.
 
-Arbres. Feuilles à (4-) 5-6 (-8) paires de folioles opposées. Stipules persistantes sous forme d'un épais bourrelet intrapétiolaire. Folioles oblongues, à sommet obtus, courtement acuminé, à base obtuse ou arrondie, glabres, longues de 7-13 cm, larges de 4-5 cm. Nervures secondaires réunies en arcs près de la marge et nervilles intermédiaires parallèles, nombreuses, formant avec des veinules un réseau peu saillant mais bien visible sous le limbe. Pétiolules tordus, de 5 mm. Rachis canaliculé, un peu pubescent, de 15-25 cm.
+Terminal panicles of pink or purplish flowers. Pedicels short, 4–6 mm. Bracts pubescent, caducous. Bracteoles ovate, pubescent, caducous. Receptacle cylindric, tomentose, 1–3 cm long. Sepals 4, 10–12 mm long, hairy externally. Petal 1, 2.5 to 4.5 cm long, long-clawed, white spotted with red at the base or pink; claw narrow, hairy at the base; blade deeply bilobed 2 cm wide, glabrous. Filaments of stamens 2.5 to 4 cm long, hairy at the base. Ovary with hairy margins. Ovules 9–18.
 
-Panicles terminales de fleurs roses ou violacées. Pédicelles courts de 4-6 mm. Bractées pubescentes, caduques. Bractéoles ovées, pubescentes, caduques. Réceptacle cylindrique, tomentaux, long de 1-3 cm. Sépales 4, longs de 10-12 mm, velus extérieurement. Pétale 1, long de 2,5 à 4,5 cm, longuement onguiculé, blanc taché de rouge à la base ou rose; onglet étroit, velu à la base; lame profondément bilobée large de 2 cm, glabre. Filets des étamines longs de 2,5 à 4 cm, velus à la base. Ovaire à marges velues. Ovules 9-18.
-
-Gousse ligneuse très épaisse, longue de 10 à 15 cm réniforme, d'un rouge vif à maturité; graines noires, de 3-4 cm de longueur, entourées à la base d'un arille orangé, profondément bilobé.
+Woody pod very thick, 10 to 15 cm long, reniform, bright red at maturity; seeds black, 3–4 cm long, surrounded at the base by an orange, deeply bilobed aril.
 
 ## Vernacular names
 
@@ -39,11 +37,9 @@ Zenker 3738, Bipinde, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree, provided with thin, generally elevated buttresses. Trunk narrow and cylindric. Bark scaly, with yellowish-brown fibrous section. This Afzelia exists from southern Nigeria to Angola in the south and eastward to the Oubangui and Uganda. It occurs in scattered form in northern Gabon.
 
-Grand arbre, muni de contreforts minces, élevés en général. Fût étroit et cylindrique. Écorce écailleuse, de tranche fibreuse brun jaunâtre. Cet Afzelia existe depuis le sud de la Nigéria jusqu'à l'Angola au sud et à l'est jusqu'à l'Oubangui et l'Ouganda. Il existe à l'état disséminé dans le nord du Gabon.
-
-Bois brun, dur et lourd, excellent bois de construction et de menuiserie.
+Wood brown, hard and heavy, excellent timber for construction and joinery.
 
 ## Specimens examined
 

@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ; tronc 10 cm de diamètre ; écorce lisse, à exsudat rouge, pellicule entre l´écorce et le bois foliacée ; jeunes ramilles ferrugineuses-pubescentes. Stipules lancéolées, 20–25 × 3 mm, ferrugineuses. Feuille : pétiole ± 10 cm ; rachis atteignant 40 cm ; stipelles sétacées, 10–20 mm de longueur , pubescentes ; folioles 14 à 22, alternes à opposées, à limbe ovale-lancéolé, 12–17 × 3–5 cm, base arrondie, sommet longuement acuminé et avec une petite touffe de poils, papyracé, glabre dessus, pubescent à pubérulent dessous , surtout sur les nervures. Inflorescence aux multiples racèmes ferrugineux ; bractées ovales, 3–4 mm de longueur. Fleur : calice en une cupule large de 4–5 mm ; pétales 5–6 mm de longueur, plissés en bouton ; ovaire glabre ; style grêle, glabre. Gousse pendante, indéhiscente ou à déhiscence tardive, elliptique à oblongue , 8–22 cm × 3–7 cm, à 1(ou 2) graines, aile large, à réticulations saillantes , brun doré. Graine 1,5–2(–3) cm de longueur, brune.
+Tree; trunk 10 cm in diameter; bark smooth, with red exudate, leafy pellicle between bark and wood; young branchlets ferruginous-pubescent. Stipules lanceolate, 20–25 × 3 mm, ferruginous. Leaf: petiole ± 10 cm; rachis reaching 40 cm; stipels setaceous, 10–20 mm in length, pubescent; leaflets 14 to 22, alternate to opposite, with oval-lanceolate lamina, 12–17 × 3–5 cm, base rounded, apex long-acuminate and with a small tuft of hairs, papyraceous, glabrous above, pubescent to puberulent below, especially on the veins. Inflorescence with multiple ferruginous racemes; bracts oval, 3–4 mm in length. Flower: calyx in a cupule 4–5 mm wide; petals 5–6 mm in length, pleated in bud; ovary glabrous; style slender, glabrous. Pod pendulous, indehiscent or tardily dehiscent, elliptic to oblong, 8–22 cm × 3–7 cm, with 1 (or 2) seeds, wing broad, with prominent reticulations, golden brown. Seed 1.5–2 (–3) cm in length, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très rare, Gabon et Guinée équatoriale ; au Gabon, connue de l’Estuaire
+very rare, Gabon and Equatorial Guinea; in Gabon, known from Estuaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt inondée ; au Gabon, à 150 m d’altitude
+flooded forest; in Gabon, at 150 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Récoltée une seule fois au Gabon ( Nguema Miyono 2064 et indiquée comme néotype ; l’espèce ayant été décrite d’un seul échantillon détruit à Berlin pour la Guinée équatoriale, n’y a jamais été retrou vée (De la Estrella et al. 2010)). b : De la Estrella et al. (2010), van der Maesen (2013). ibliographie
+Collected only once in Gabon (Nguema Miyono 2064 and designated as neotype; the species having been described from a single specimen destroyed in Berlin for Equatorial Guinea, has never been refound there (De la Estrella et al. 2010)). b: De la Estrella et al. (2010), van der Maesen (2013). Bibliography
 
 ## Notes
 

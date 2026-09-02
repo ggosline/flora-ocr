@@ -21,13 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 2 pairs of opposite leaflets, falcate, asymmetric, obliquely oblong, acuminate, 7–10 cm long, 2.5–5 cm wide, glabrous. Midvein arched. Secondary veins meeting in arches fairly far from the margin, anastomosing in a well-meshed and visible network of veinlets. Rachis 3–8 cm long. Petiolules twisted.
 
-Arbres. Feuilles à 2 paires de folioles opposées, falciformes, dissymétriques, obliquement oblongues, acuminées, longues de
-
-7-10 cm, larges de 2,5-5 cm, glabres. Nervure médiane arquée. Nervures secondaires se rejoignant en arceaux assez loin de la marge, anastomosées dans un réseau bien maillé et visible de nervilles. Rachis long de 3-8 cm. Pétiolules tordus.
-
-Inflorescences en petits racèmes fasciculés axillaires, ayant l'aspect de glomérules fleuris denses de 2-4 cm de diamètre. Bractées ovales, persistantes, de 3-4 mm. Fleurs articulées. Pédicelles de 6-17 mm, grêles, glabres. Sépales 4, de 3 mm, glabres. Pétales 5, spatulés lancéolés, de 3-5 mm de longueur. Étamines 10. Ovaire densément velu, biovulé. Style glabre. Fruit inconnu.
+Inflorescences in small fascicled axillary racemes, appearing as dense floral glomerules 2–4 cm in diameter. Bracts ovate, persistent, 3–4 mm. Flowers articulate. Pedicels 6–17 mm, slender, glabrous. Sepals 4, 3 mm, glabrous. Petals 5, spatulate-lanceolate, 3–5 mm in length. Stamens 10. Ovary densely hairy, biovulate. Style glabrous. Fruit unknown.
 
 ## Type
 

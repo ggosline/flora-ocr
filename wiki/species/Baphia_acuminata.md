@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, pro parte (voir note). Arbre jusqu’à 35 m de hauteur ou parfois arbuste ; tronc jusqu’à 65 cm de diamètre ; ramilles pileuses, glabrescentes. Stipules très tôt caduques, ovales-elliptiques, (2–)4–7(–12) × (2–)3 mm, à surface striée et marge ciliée. Feuille : pétiole à pulvines contigus , ± cylindrique, (2–)3–4(–5) mm, pileux, glabrescent ; foliole à limbe oblancéolé à obovale-elliptique, (2–)3– 5(–9) × 1–2,5 cm , arrondi à très courtement aigu à la base, sommet ± obtusément acuminé à caudé sur 2–10(–15) mm, ± glabre dessus, à poils courts et apprimés mélangés à des poils plus longs et ± érigés dessous ; nervures latérales en (7–)8 à 10(–12) paires, fines. Inflores cence axillaire, à fleurs solitaires ou en fascicules de 2 à 3(–5). Fleur : bractéoles au sommet du pédicelle , 1 × 2–3 mm ; pédicelle 4–12 mm, pubescent ; calice spathacé , 10–14 mm de longueur, brun-pubescent ; étendard ± circulaire, 12–16 mm de diamètre, ailes obliquement obovales, 12–16 × 6–8 mm, courtement onguiculées, carène à pétales elliptiques, 11–14 × 4–6 mm, onguiculés ; étamines 7–12 mm de longueur, anthères 1,5–2 mm de longueur ; pistil 10–13 mm de longueur, velouté , à 4 ou 5 ovules. Gousse 4,5–13 × 1–2 cm, à 1 (ou 2?) graines, éparsement poilue, glabrescente. Graine mûre non vue.
+, pro parte (see note). Tree up to 35 m tall or sometimes shrub; trunk up to 65 cm in diameter; branchlets pilose, glabrescent. Stipules very early caducous, ovate-elliptic, (2–)4–7(–12) × (2–)3 mm, surface striate and margin ciliate. Leaf: petiole with contiguous pulvini, ± cylindric, (2–)3–4(–5) mm, pilose, glabrescent; leaflet with blade oblanceolate to obovate-elliptic, (2–)3–5(–9) × 1–2.5 cm, rounded to very shortly acute at base, apex ± obtusely acuminate to caudate over 2–10(–15) mm, ± glabrous above, with short appressed hairs mixed with longer and ± erect hairs below; lateral veins in (7–)8 to 10(–12) pairs, fine. Inflorescence axillary, flowers solitary or in fascicles of 2 to 3(–5). Flower: bracteoles at apex of pedicel, 1 × 2–3 mm; pedicel 4–12 mm, pubescent; calyx spathate, 10–14 mm in length, brown-pubescent; standard ± circular, 12–16 mm in diameter, wings obliquely obovate, 12–16 × 6–8 mm, shortly unguiculate, keel with elliptic petals, 11–14 × 4–6 mm, unguiculate; stamens 7–12 mm in length, anthers 1.5–2 mm in length; pistil 10–13 mm in length, velvety, with 4 or 5 ovules. Pod 4.5–13 × 1–2 cm, with 1 (or 2?) seeds, sparsely hairy, glabrescent. Mature seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Ouest du Cameroun, Gabon et République démocratique du Congo ; au Gabon, surtout dans la partie Nord et centrale du pays : Woleu-Ntem, Nord de la Ngounié, Ogooué-Ivindo et Ogooué-Lolo
+Southwestern Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, mainly in the northern and central part of the country: Woleu-Ntem, north of Ngounié, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et vieille forêt secondaire ; au Gabon à 0–700 m d’altitude
+primary forest and old secondary forest; in Gabon at 0–700 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Chez Soladoye (1985), B. acuminata figure dans la synonymie de B. pubescens . La dernière espèce est uniquement ouest-africaine. Sa distribution est bien séparée de celle de B. acuminata (voir Soladoye map 16). Les deux espèces se distinguent aisément par leurs pétioles : à pulvinus contigus chez B. acuminata et à pulvinus bien séparés chez B. pubescens . b : Pellegrin (1949), Soladoye (1985). ibliographie
+In Soladoye (1985), B. acuminata appears in the synonymy of B. pubescens. The latter species is exclusively West African. Its distribution is well separated from that of B. acuminata (see Soladoye map 16). The two species are easily distinguished by their petioles: with contiguous pulvinus in B. acuminata and with well-separated pulvini in B. pubescens. b: Pellegrin (1949), Soladoye (1985). ibliography
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, semi-érigée ou prostrée, légèrement pubescente ; tige atteignant 70 cm de longueur ; racines noduleuses. Stipules lancéolées, à gaîne basale de ± 1 cm , à lobes libres de 2–3 cm de longueur. Feuille : pétiole 1,5–7 cm ; rachis ± 1 cm ; folioles (3–)4, à limbe ellip tique, 2,5–7 × 1–3 cm, base cunéée, sommet aigu à arrondi, mucronulé. Inflorescence à fleurs solitaires dans les aiselles des feuilles basales ; bractées étroitement ovales, 10–14 × 4–5 mm. Fleur : calice jaune pâle ; corolle 12–15 mm de longueur, jaune ou jaune d’or ; étamines 8 ou 9 ; ovaire sur un gynophore atteignant 5–12(–20) cm . Gousse cylindrique, légèrement moniliforme, 2–6 cm de longueur, à 1 ou 2(–4) graines. Graine 1–1,5(–2) cm de longueur ; testa mince, brun, rouge ou crème.
+Annual herb, semi-erect or prostrate, slightly pubescent; stem reaching 70 cm in length; nodose roots. Stipules lanceolate, with basal sheath ± 1 cm, with free lobes 2–3 cm in length. Leaf: petiole 1.5–7 cm; rachis ± 1 cm; leaflets (3–)4, with elliptic blade, 2.5–7 × 1–3 cm, base cuneate, apex acute to rounded, mucronate. Inflorescence with solitary flowers in the axils of basal leaves; bracts narrowly ovate, 10–14 × 4–5 mm. Flower: calyx pale yellow; corolla 12–15 mm in length, yellow or golden yellow; stamens 8 or 9; ovary on a gynophore reaching 5–12(–20) cm. Pod cylindrical, slightly moniliform, 2–6 cm in length, with 1 or 2(–4) seeds. Seed 1–1.5(–2) cm in length; testa thin, brown, red or cream.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de Brésil, maintenant pantropicale sous l’action de l’homme ; au Gabon, cultivée et naturalisée ici et là
+Native to Brazil, now pantropical through human action; in Gabon, cultivated and naturalized here and there
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En culture sèche et irriguée partout dans les régions chaudes, parfois échappée / spontanée dans des stations naturelles. Au Gabon, parfois spontanée dans la végétation sécondaire herbacée, provenant évidemment de graines répandues par les gens. Usage : L’arachide est la deuxième culture oléagineuse dans le monde (après le soja, Glycine max (L.) Merr.). Les graines sont aussi riches en protéines, et sont consommées, grillées ou cuites, souvent comme grignotage. Elles produisent une huile utilisée pour la cuisson ou ajoutée aux sauces, parfois utilisée pour des médicaments traditionnels. Le feuillage et les tourteaux font le délice du bétail. En 2012 et 2013, la production au Gabon était de 24 000 tonnes (FAOSTAT, 2014). Les espèces américaines apparentées servent comme souches améliorantes de l’arachide. Il existe aussi des espèces qui servent comme engrais vert
+In dry and irrigated cultivation everywhere in warm regions, sometimes escaped/spontaneous in natural stations. In Gabon, sometimes spontaneous in herbaceous secondary vegetation, obviously originating from seeds spread by people. Use: The peanut is the second oilseed crop in the world (after soybean, Glycine max (L.) Merr.). The seeds are also rich in protein, and are consumed, roasted or cooked, often as a snack. They produce an oil used for cooking or added to sauces, sometimes used for traditional medicines. The foliage and seed cakes are relished by livestock. In 2012 and 2013, production in Gabon was 24,000 tonnes (FAOSTAT, 2014). Related American species serve as breeding stock for peanut improvement. There are also species that serve as green manure.
 
 ## Vernacular names
 

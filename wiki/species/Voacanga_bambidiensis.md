@@ -1,0 +1,49 @@
+---
+type: species
+name: Voacanga bambidiensis
+authority: Jongkind, spec. nov. Figure 15(A, B)
+genus: Voacanga
+family: Apocynaceae
+vol: 59
+pages: 263-265
+source: sources/Apocynaceae_vol59_liteparse
+tags: [species, generated]
+---
+# *Voacanga bambidiensis* Jongkind, spec. nov. Figure 15(A, B)
+
+**Genus**: [[Voacanga]]
+**Family**: [[Apocynaceae]]
+
+## Description
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Diagnosis : Differs from all other African Voacanga spp. by the absence of colleters on the inside of the calyx.
+
+## Type
+
+Texier & Akouangou 118 :$**DERQ2JRRXp/ROR&(%)RUHVW&RQFHVVLRQQRUWKZHVWRI%DPELGL¶´6¶´( Arbuste GH P GH KDXWHXU UDPHDX[ JODEUHV OLVVHV RX j TXHOTXHV OHQWLFHOOHV Feuille glabre ; pétiole de 8–35 mm, les deux d’une même paire connés en un ochréa bien visible ; OLPEHpWURLWHPHQWRERYDOHjHOOLSWLTXHGH±î±FPFXQppjGpFXUUHQWVXUOHSpWLROHj la base, acuminé au sommet ; nervures secondaires 5 à 14 paires, bien visibles, nervation tertiaire peu distincte. ,QÀRUHVFHQFH : pédoncule 7–11 cm ; bractées étroitement ovales, atteignant 20 × 10 mm, glabres. Fleur glabre à l’exception de l’intérieur du tube de la corolle ; pédicelle de 5–11 mm ; calice long de 14–21 mm , sans collétères internes , à lobes ovales, de 7–10 × 9 mm ; corolle blanchâtre, à tube nettement tordu, long de 17–20 mm , densément pubescent à l’intérieur au niveau des anthères, à lobes courbés , étalés avec la partie supérieure réÀpFKLH , de ± 15 × 5 mm , Opjquhphqwfkduqxvirupdqwhqerxwrqxqhwrwhsuhvtxhfrqltxhj apex émoussé ; étamines incluses, anthère sessile, étroitement triangulaire, longue de ± 8 mm ; pistil long de 13–16 mm. Fruit inconnu. Distribution HQGpPLTXHGX*DERQFRQQXXQLTXHPHQWGHO¶2JRRXp/ROR
+
+## Ecology
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+forêt ; à 300-450 m d’altitude
+
+## Source note
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Autre spécimen étudié (paratype) : van der Maesen , Louis & de Bruijn 5532 *DERQ2JRRXp/ROR&KDQWLHU6%/NP(RI/DVWRXUVYLOOH5DLOZD\EULGJHQRYÀ
+
+A B D C E F G Fleur et bouton. – Voacanga micrantha '7LJHÀRULIqUH(,QÀRUHVFHQFH± Voacanga lanceolata : F, *,QÀRUHVFHQFH3KRWRVSDU1LFRODV7H[LHU$%QRUGHVWGH/DVWRXUVYLOOH*DERQ(KRDUQ%LGDXOW &0DERXQLp*DERQ-HDQ3LHUUH9DQGHZHJKH'(31/RDQJR*DERQ9LQFHQW'URLVVDUW) 0EDP0LQNRP&DPHURXQ*5pVHUYHG¶(ER&DPHURXQ
+
+## Notes
+
+<!-- TODO:notes -->
+
+## See also
+
+- [[Voacanga]]
+- [[Apocynaceae]]
+- [[vol59]]

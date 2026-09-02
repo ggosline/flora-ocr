@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe suffrutescente, volubile, pubescente à glabre . Stipules ovales-lancéolées, 7–12 mm de longueur. Feuille : pétiole 2,5–11 cm ; rachis 1–3,5 cm ; stipelles linéaires, 3–8 mm de longueur ; folioles 3, à pétiolule de 3–4 mm, presque glabre , à limbe ovale à oblong-lan céolé, 5–12 × 2–9 cm , les latéraux plus petites, à base cunéée à tronquée, sommet acuminé et mucroné ; nervures latérales en ± 5 paires. Inflorescence à fleurs par 2 ou 3 au sommet du pédoncule de 5–7 cm. Fleur : pédicelle 3–6 mm ; calice tronqué ; corolle blanche, tacheté de violet ou rouge bordeaux , étendard 4–6 cm de longueur. Gousse linéaire, droite , 15–18 × 1,3–1,6 cm , terminée par un bec de ± 2 cm, avec 16 à 18 graines, à sutures épaissies et subai lées. Graine 8–10 × 5–8 mm.
+Herbaceous suffrutescent, twining, pubescent to glabrous. Stipules ovate-lanceolate, 7–12 mm long. Leaf: petiole 2.5–11 cm; rachis 1–3.5 cm; stipels linear, 3–8 mm long; leaflets 3, with petiolule 3–4 mm, almost glabrous, with blade ovate to oblong-lanceolate, 5–12 × 2–9 cm, the lateral ones smaller, base cuneate to truncate, apex acuminate and mucronate; lateral veins in ± 5 pairs. Inflorescence with flowers 2 or 3 at the apex of the peduncle 5–7 cm long. Flower: pedicel 3–6 mm; calyx truncate; corolla white, spotted with violet or burgundy red, standard 4–6 cm long. Pod linear, straight, 15–18 × 1.3–1.6 cm, terminated by a beak of ± 2 cm, with 16 to 18 seeds, with thickened and subalate sutures. Seed 8–10 × 5–8 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Amérique tropicale, introduite autour des tropiques ; au Gabon, connue du Woleu-Ntem
+Native to tropical America, introduced around the tropics; in Gabon, known from Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbeuses et arboricoles, jachères, bords de l’eau ; au Gabon à 600 m d’altitude, ail leurs jusqu’à 1350 m. Usage : Engrais vert et fourrage, mais remplacé par C. pubescens ce qui est supérieur en production
+Herbaceous savannas and wooded savannas, fallows, water margins; in Gabon at 600 m altitude, elsewhere up to 1350 m. Use: Green manure and fodder, but replaced by C. pubescens which is superior in production
 
 ## Vernacular names
 

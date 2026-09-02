@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with 5–7 alternate leaflets, oblong or elliptic, insensibly and obtusely acuminate, cuneiform or rounded at base, thin, 10–12 cm long, 4–9 cm wide. Rachis 10–12 cm. Limb slightly pubescent beneath. Large ovate-lanceolate stipules, 2.5–4.5 cm long by 1–2.5 cm wide, free or briefly connate at base. Petiolules twisted.
 
-Feuilles à 5-7 folioles alternes. oblongues ou elliptiques insensiblement et obtusément acuminées, cunéiformes ou arrondies à la base, minces, longues de 10-12 cm, larges de 4-9 cm. Rachis de 10-12 cm. Limbe légèrement pubscscent dczsous. Grandes stipules ovées lancéolées, de 2,5-4,5 cm de longueur sur 1-2,5 cm de largeur, libres ou brièvement soudées à la base. PétioIules tordus.
+Long racemes reaching 20 cm. Pedicels approximately 2 cm. Bracteoles 2, minute, at the base of the pedicels.
 
-Longs racèmes atteignant 20 cm. Pédicelles d'env. 2 cm. Bractéoles 2, minuscules, à la base des pédicelles.
-
-Fortes gousses bombées, coriaces, glabres, de  $ 15 \, cm $ de longueur environ sur  $ 4 \, cm $ de largeur; 3-4 graines suborbiculaires.
+Strong inflated pods, coriaceous, glabrous, approximately 15 cm long by 4 cm wide; 3–4 suborbicular seeds.
 
 ## Type
 
@@ -31,9 +29,7 @@ Klaine 3o83, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue de la Côte d'Ivoire au Cameroun et au Gabon, au bord des rivières, des lagunes et des lacs. Arbres de moyennes dimensions, penchés au-dessus des eaux. Cime densé-ment feuillue. Écorce lisse à tranche mince.
+Species widespread from Côte d'Ivoire to Cameroon and Gabon, at the edge of rivers, lagoons and lakes. Trees of medium dimensions, leaning over the water. Crown densely leafy. Bark smooth with thin slash.
 
 ## Vernacular names
 

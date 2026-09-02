@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe suffrutescente, volubile, presque glabre ; tige grêle. Stipules ovales-lancéolées, 2–4 mm de longueur. Feuille : pétiole 1–5,5 cm ; rachis 0,4–1,2 cm ; folioles 3, à pétiolule de 2–3 mm, à limbe ovale à elliptique, 3,5–7 × 1,5–4 cm, à base arrondie, sommet acuminé à obtus, mucroné, légèrement coriace ; nervures latérales en 5 ou 6 paires. Inflorescence à fleurs par 2 ou 3 au sommet du pédoncule de 4–6 cm ou en 2 ou 3 étages le long du pédoncule. Fleur : pédicelle 6–10 mm ; calice à dents de 5–9 mm de longueur ; corolle bleu pâle le matin, jaune l’après-midi , étendard 1,5–3 cm de longueur. Gousse linéaire, courbée , 6–10 × 0,6–0,7 cm, terminée par un bec de ± 1 cm, avec 16 à 20 graines, sutures épaissies et subailées , 1–1,5 mm de largeur. Graine rectangulaire, 3–5 × 2,5–3 mm ; hile petit.
+Subshrubby herb, twining, nearly glabrous; stem slender. Stipules ovate-lanceolate, 2–4 mm long. Leaf: petiole 1–5.5 cm; rachis 0.4–1.2 cm; leaflets 3, with petiolule 2–3 mm, blade ovate to elliptic, 3.5–7 × 1.5–4 cm, base rounded, apex acuminate to obtuse, mucronate, slightly coriaceous; lateral veins in 5 or 6 pairs. Inflorescence with flowers 2 or 3 at the apex of the peduncle 4–6 cm or in 2 or 3 tiers along the peduncle. Flower: pedicel 6–10 mm; calyx with teeth 5–9 mm long; corolla pale blue in the morning, yellow in the afternoon, standard 1.5–3 cm long. Pod linear, curved, 6–10 × 0.6–0.7 cm, terminated by a beak of ± 1 cm, with 16 to 20 seeds, sutures thickened and subwinged, 1–1.5 mm wide. Seed rectangular, 3–5 × 2.5–3 mm; hilum small.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Amérique tropicale, introduite autour des tropiques. L’indication de sa présence au Gabon (Sosef et al. 2006) est erroné (le matériel cité est un Vigna sp.), mais sa présence est probable et reste à vérifier
+native to tropical America, introduced around the tropics. The report of its presence in Gabon (Sosef et al. 2006) is erroneous (the material cited is a Vigna sp.), but its presence is probable and remains to be verified
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbeuses et arboricole ; souvent à basse altitude. Usage : Engrais vert et plante de couverture
+herbaceous and arboreal savannas; often at low altitude. Uses: Green manure and cover crop
 
 ## Vernacular names
 

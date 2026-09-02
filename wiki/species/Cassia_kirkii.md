@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle dressée, mesurant de 0,3-1,2 m de hauteur, la tige parfois ligneuse à la base et alors subpérenne. Feuilles à 25-30 paires de petites folioles, oblongues linéaires, de 9-17 mm de longueur sur 1,5-4 mm de largeur, aiguës et mucronées. Rachis canalicule entre chaque paire de folioles. Une glande sessile sur le pétiole en dessous de la paire inférieure. Fleurs jaunes solitaires ou par 2-3, supra-axillaires. Petites gousses linéaires de 6-7,5 cm de longueur, contenant de nombreuses petites graines; s'enroulant après déhiscence.
+Annual herb, erect, measuring 0.3–1.2 m in height, the stem sometimes woody at the base and then subperennial. Leaves with 25–30 pairs of small leaflets, oblong-linear, 9–17 mm in length by 1.5–4 mm in width, acute and mucronate. Rachis channelled between each pair of leaflets. One sessile gland on the petiole below the lower pair. Flowers yellow, solitary or 2–3, supra-axillary. Small linear pods 6–7.5 cm in length, containing numerous small seeds; coiling after dehiscence.
 
 ## Type
 
@@ -27,11 +25,9 @@ Kirk, Manganja Hills, Malawi
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Several varieties, variously pubescent to glabrous.
 
-Plusieurs variétés, diversement velues à glabres.
-
-Répandu dans toute l’Afrique tropicale, dans les savanes, marais, clairières et lisières de forêts.
+Widespread throughout tropical Africa, in savannas, marshes, clearings and forest edges.
 
 ## Specimens examined
 

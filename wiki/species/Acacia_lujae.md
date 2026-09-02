@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - A. dewevrei DE WILD. & TH. DUR., Ann. Mus. Congo belge, Bot., sér. 3, 1 : 80 (1901).
 
-Liane. Axes jeunes glabres marron à gris-brun, à bandes alternativement sombres et claires; aiguillons épars sur les bandes plus sombres. Stipules caduques. Pétiole pubérulent, long de 2,5-7 (-10) cm ; face supérieure portant une glande cupuliforme juste au-dessus du pulvinus ; face inférieure avec aiguillons. Rachis pubérulent, long de 0,4-5 cm ; face supérieure avec glande au niveau de l'insertion des pennes terminales. Pennes 1-3 paires. Axe de la penne pubérulent, long de 5,5-13 cm, face supérieure carénée avec une glande au niveau des folioles sommitales. Folioles 12-24 paires, subsessiles à courtement pétiolulées ; paire inférieure réduite ou modifiée (1 ± normale et 1 réduite). Limbe
+Liane. Young axes glabrous brown to greyish-brown, with alternately dark and pale bands; prickles scattered on the darker bands. Stipules caducous. Petiole puberulent, 2.5–7 (–10) cm long; upper surface bearing a cupuliform gland just above the pulvinus; lower surface with prickles. Rachis puberulent, 0.4–5 cm long; upper surface with gland at the level of insertion of the terminal pinnae. Pinnae 1–3 pairs. Pinnae axis puberulent, 5.5–13 cm long, upper surface keeled with a gland at the level of the apical leaflets. Leaflets 12–24 pairs, subsessile to shortly petiolulate; lower pair reduced or modified (1 ± normal and 1 reduced). Limb
 
-glabre sur les deux faces, oblong faiblement falciforme, atteignant  $ 28 \times 6.5 $ (-8) mm ; base asymétrique : bord proximal tronqué et bord distal faiblement oblique ; sommet arrondi obtus mucroné. Nervure principale ± diagonale.
+glabrous on both surfaces, oblong weakly falcate, reaching $ 28 \times 6.5 $ (–8) mm; base asymmetric: proximal margin truncate and distal margin weakly oblique; apex rounded obtuse mucronate. Main vein ± diagonal.
 
-Inflorescence en épis capituliformes groupés en fascicules axillaires ou en panicules. Pédoncule pubérulent, long de 1-3,5 cm. Bractéoles ovales elliptiques, à base onguiculée rubanée ; marge ciliée. Fleur ♀, sessile blanc jaunâtre sur le vivant. Calice glabre, long de 2-2,5 mm. Corolle glabre à glabrescente longue de 3 mm. Ovaire glabre.
+Inflorescence in capitate spikes grouped in axillary fascicles or in panicles. Peduncle puberulent, 1–3.5 cm long. Bracteoles ovate elliptic, with unguiculate ribboned base; margin ciliate. Flower ♀, sessile whitish-yellow in the living state. Calyx glabrous, 2–2.5 mm long. Corolla glabrous to glabrescent 3 mm long. Ovary glabrous.
 
-Gousse à déhiscence tardive, coriace, rougeâtre brun, glabre, oblongue  $ 10-20 \times 3-3.7 \, \text{cm} $; base à stipe long de  $ \pm 1 \, \text{cm} $; nervation des faces latérales saillante; sommet obtus mucroné. Graine noire, ellipsoïde à ellipsoïde oblongue,  $ \pm 9 \times 5 \, \text{mm} $.
+Legume with late dehiscence, coriaceous, reddish-brown, glabrous, oblong $ 10–20 \times 3–3.7 \, \text{cm} $; base with stipe $ \pm 1 \, \text{cm} $ long; venation of lateral faces prominent; apex obtuse mucronate. Seed black, ellipsoid to oblong ellipsoid, $ \pm 9 \times 5 \, \text{mm} $.
 
 ## Type
 
@@ -35,9 +33,7 @@ Luja 273, Zaire, Kasai, Bena Dibele (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les groupements forestiers, sur des terrains secs ou marécageux. Elle est connue du Zaïre. Un échantillon jeune et stérile, collecté au Gabon semble pouvoir être rattaché à ce taxon.
+This species is found in forest groupings, on dry or marshy ground. It is known from Zaïre. A young and sterile specimen collected in Gabon appears to be attributable to this taxon.
 
 ## Specimens examined
 

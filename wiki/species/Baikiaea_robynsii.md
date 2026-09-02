@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small to medium-sized trees. Leaflets alternate, 5–9. Lamina oblong, or oblong-lanceolate, or lanceolate, acuminate, 4–16 cm long by 2–4 cm wide, coriaceous, glabrous. Venation slightly marked. Reticulation very dense and scarcely apparent.
 
-Arbres petits ou moyens. Folioles alternes 5-9. Limbe oblong, ou oblong-lancéolé, ou lancéolé, acuminé, de 4-16 cm de long sur 2-4 cm de large, coriace, glabre. Nervation peu marquée. Réticulation très dense et très peu apparente.
+Flowers as in B. insignis, but generally smaller. Sepals 4–7 cm long. Petals 5–12 cm. Filaments of stamens 5–10 cm in length, glabrous. Anthers 8–12 cm long. Ovary densely tawny-pubescent; ovules 1–4.
 
-Fleurs comme B. insignis, mais généralement plus petites. Sépales longs de 4-7 cm. Pétales de 5-12 cm. Filets des étamines 5-10 cm de longueur, glabres. Anthères longues de 8 à 12 cm. Ovaire densément velu fauve; ovules 1-4.
-
-Gousses veloutées brun-roux, obovales ou suborbiculaires, de 8-13 cm de longueur sur 6-9 cm de largeur.
+Pods velvety reddish-brown, obovate or suborbicular, 8–13 cm in length by 6–9 cm in width.
 
 ## Type
 
@@ -31,9 +29,7 @@ Robyns 570, Congo (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce ripicole comme la précédente, de la Guinée espagnole au Congo.
+Riparian species like the preceding, from Spanish Guinea to Congo.
 
 ## Specimens examined
 

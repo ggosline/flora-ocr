@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees, shrubs. Leaves unifoliolate, broadly elliptic or ovate-elliptic or oblong or lanceolate, obtusely acuminate or conversely long-acuminate-acute, with base generally rounded or obtuse, 4 to 20 cm in length by 4–10 cm in width, glabrous. Lateral veins 5–8 pairs united in arches, prominent. Reticulum of veinlets and venules prominent on both faces, very characteristic. Petiole 1–4 cm, swollen at each extremity.
 
-Arbres, arbustes. Feuilles unifoliolées, largement elliptiques ou ovées elliptiques ou oblongues ou lancéolées, acuminées obtusément ou au contraire longuement acuminées-aiguës, à base généralement arrondie ou obtuse, de 4 à 20 cm de longueur sur 4-10 cm de largeur, glabres. Nervures latérales 5-8 paires réunies en arceaux, saillantes. Réticulum de nervilles et veinules saillant sur les 2 faces, très caractéristique. Pétiole 1-4 cm, renflé à chaque extrémité.
-
-Fleurs blanches. Pédicelles grêles, un peu pubescents, jusqu'à 1,5 cm de longueur. Boutons ellipsoïdes, velus au sommet, longs d'environ 3,5 mm. Pétales 6, subégaux. Étamines 13-18 (-41 au Congo), libres; filets blancs et anthères jaunes. Ovaire sessile, velu. Gousses oblongues de 3-4 cm de longueur.
+Flowers white. Pedicels slender, somewhat pubescent, up to 1.5 cm in length. Buds ellipsoid, hairy at the apex, about 3.5 mm long. Petals 6, subequal. Stamens 13–18 (–41 in Congo), free; filaments white and anthers yellow. Ovary sessile, hairy. Pods oblong 3–4 cm in length.
 
 ## Type
 
@@ -29,13 +27,9 @@ Mann 715, Ambas Bay (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Polymorphic species. Specimens collected at Yangambi in Congo have very hairy buds. The form of the leaves varies from broadly elliptic to lanceolate; the petioles are long, but sometimes short; they can be thick or slender. Perhaps it will be possible to separate several subspecies when herbarium material becomes more abundant. It remains, however, easy to recognize, even when sterile, by its unifoliolate leaves and the prominent network of its veinlets.
 
-Espèce polymorphe. Les spécimens recueillis à Yangambi au Congo ont des boutons très velus. La forme des feuilles varie de largement elliptique à lancéolée; les pétioles sont longs, mais
-
-parfois courts; ils peuvent être épais ou grêles. Peut-être pourra-t-on séparer plusieurs sous-espèces lorsque le matériel d'herbier sera plus abondant. Elle reste cependant facile à reconnaître, même stérile, par ses feuilles unifoliées et le réseau saillant de ses veinules.
-
-Cette espèce arbustive qui ne paraît pas très commune dans la région guinéo-congolaise a une aire très vaste, puisqu'elle traverse presque toute l'Afrique depuis les secteurs maritimes du Cameroun et du Gabon jusqu'à l'Ouganda et le Tanganika (région est du lac Victoria). Présente dans la cuvette congolaise.
+This shrubby species, which does not appear to be very common in the Guineo-Congolian region, has a very vast distribution, since it traverses almost all of Africa from the maritime sectors of Cameroon and Gabon to Uganda and Tanganyika (east region of Lake Victoria). Present in the Congo basin.
 
 ## Specimens examined
 

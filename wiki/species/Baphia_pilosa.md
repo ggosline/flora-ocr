@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+B. pilosa Baill. subsp. batangensis (Harms) Soladoye, Kew Bull. 40(2): 343 (1985), pro parte, as far as collections from Gabon are concerned (see taxonomic note). Scandent shrub or liane reaching at least 20 m in length; branchlets ± hirsute to pubescent, glabrescescent. Stipules narrowly triangular, 3–11 × 1.5–3.5 mm, striate, hairy like the branchlets. Leaf: petiole with pulvini separate, 0.3–5(–9) cm, pilose like the branchlets; leaflet with ± ovate-elliptic lamina (3–)7–16(–25) × (1.5–)3–7.5(–12) mm, most often cordate at the base, apex acute to acuminate over 0.5 cm, pilose on both surfaces, glabrescescent; lateral nerves in (5–)6 to 8(–10) pairs. Inflorescence axillary, with flowers solitary or in a few-flowered raceme, by reduction of the axillary leaves, sometimes becoming composite and terminal racemes, pilose like the branchlets; bracts 4 × 1.5 mm. Flower: ± perpendicular to the pedicel; bracteoles unilaterally situated at the apex of the pedicel against the calyx, obliquely ovate to orbicular, 3–5 × 2–3 mm; pedicel 5–16 mm;
 
-B. pilosa Baill. subsp. batangensis (Harms) Soladoye, Kew Bull. 40(2) : 343 (1985), pro parte , en ce qui concerne les collections du Gabon (voir note taxonomique). Arbuste lianescent ou liane atteignant au moins 20 m de longueur ; ramilles ± hirsutes à pubescentes, glabrescentes. Stipules étroitement triangulaires, 3–11 × 1,5–3,5 mm, striées, indumentées comme les ramilles. Feuille : pétiole avec pulvinus séparés , 0,3–5(–9) cm, pi leux comme les ramilles ; foliole à limbe ± ovale-elliptique (3–)7–16(–25) × (1,5–)3–7,5(–12) mm, le plus souvent cordé à la base, sommet aigu à acuminé sur 0,5 cm, pileux sur les deux faces, glabrescents ; nervures latérales en (5–)6 à 8(–10) paires. Inflorescence axillaire, à fleurs solitaires ou en racème pauciflore, par réduction des feuilles axillantes, devenant parfois des racèmes composés et terminaux, pileux comme les ramilles ; bractées 4 × 1,5 mm. Fleur : ± perpendiculaires au pédicelle ; bractéoles unilateralement situées au sommet du pédicelle contre le calice , obliquement ovales à circulaires, 3–5 × 2–3 mm ; pédicelle 5–16 mm ;
+Keel. – 13. Stamen. – 14. Pistil. – 15. Young pod, longitudinal section. – 16. Mature pods. (1: Breteler 16010; 2: Breteler 16024; 3–5: Breteler 16003; 6–16: Breteler 16019). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
-Carène. – 13. Étamine. – 14. Pistil. – 15. Gousse jeune, coupe longitudinale. – 16. Gousses matures. (1 : Breteler 16010 ; 2 : Breteler 16024 ; 3–5 : Breteler 16003 ; 6–16 : Breteler 16019 ). Dessin par Hans de Vries, Jardin Botanique Meise (©).
-
-calice spathacé , 10–12 × 11 mm, à longs poils étalés ou à poils plus courts et plus denses ; étendard 10–12 × 12–15 mm, à onglet de 1,5–2 mm, ailes falciformes, 13–15 × 5–6 mm, à onglet de 2–3 mm, pétales de la carène falciformes, 14 × 5–6 mm, glabres, à onglet de 1,5–2 mm ; étamines 6–8 mm, anthères 1,5–2 mm de longueur ; pistil 8–9 mm de longueur, ovaire velu , à 4 ovules. Gousse 4–6 × 1–1,5 cm, ± glabre, à 1(–2 ) graines. Graine 14–16 × 11–13 mm, brune.
+calyx spathaceous, 10–12 × 11 mm, with long spreading hairs or with shorter and denser hairs; standard 10–12 × 12–15 mm, with claw 1.5–2 mm, wings falcate, 13–15 × 5–6 mm, with claw 2–3 mm, keel petals falcate, 14 × 5–6 mm, glabrous, with claw 1.5–2 mm; stamens 6–8 mm, anthers 1.5–2 mm in length; pistil 8–9 mm in length, ovary hairy, with 4 ovules. Pod 4–6 × 1–1.5 cm, ± glabrous, with 1(–2) seeds. Seed 14–16 × 11–13 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République démocratique du Congo et Angola (Cabinda) ; au Gabon, connue de toutes les provinces sauf du Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, known from all provinces except Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 30–400 m d’altitude, ailleurs jusqu’à 500 m
+primary and secondary forest; in Gabon at 30–400 m altitude, elsewhere up to 500 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La subdivision de B. pilosa par Soladoye (1985) en deux sous-espèces, notamment subsp. pilosa et subsp. batangensis (Harms) Soladoye, sur la base de la pilosité du calice, n’a pu être maintenue, à cause de la présence d’un grand nombre d’échantillons intermédiaires. b : Pellegrin (1949), Soladoye (1985), Toussaint (1953). ibliographie
+The subdivision of B. pilosa by Soladoye (1985) into two subspecies, namely subsp. pilosa and subsp. batangensis (Harms) Soladoye, on the basis of calyx pubescence, could not be maintained, because of the presence of a large number of intermediate specimens. b: Pellegrin (1949), Soladoye (1985), Toussaint (1953). Bibliography
 
 ## Notes
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 8–20 m de hauteur ; tronc atteignant 60 cm de diamètre ; écorce grise ou rouge, très craquelée ; branches striées, rougeâtres. Stipules tôt caduques, non vues. Feuille : pétiole 4–5 cm ; rachis 4–10 cm ; stipelles absentes ; folioles 3 ou 4 , à pétiolule de 4–6 mm, à limbe ovale à elliptique, 11–19 × 6–7,5 cm, longuement acuminé, cunéé à la base, coriace, vert foncé des sus et dessous ; nervures latérales en 5 à 7 paires, saillantes dessous. Inflorescence entièrement blanche, en panicule lâche (sub)terminale, atteignant 10–18 cm de longueur, à pubescence minuscule, lâche, apprimée, dorée ; pédoncule d’abord pubescent, puis glabre ; bractées axil lantes caduques, ovales, 2 mm de longueur. Fleur : pédicelle 10–20 mm, glabre ; bractéoles à la base du calice, ovales, glabres, à marge pubescente ; calice cupulé, 5–6 mm de longueur, dents 4, inégales, ± 1 mm de longueur, obtuses, presque glabres, marge éparsement poilue ; corolle atteignant 2 cm de longueur , étendard oblong, limbe 17 × 14 mm, émarginé, blanc, avec une tache jaune abaxiale vers le sommet, onglet 3 mm, ailes à onglet de 7 mm, limbe 17 × 6 mm, carène à onglet de 9 mm, limbe 20 × 6 mm ; étamines 18–25 mm, dont la partie libre de 4–8 mm ; ovaire oblong-elliptique, atteignant 13 mm de longueur, à 5 ovules, glabre ; style 8 mm. Gousse inconnue.
+Tree 8–20 m high; trunk reaching 60 cm diameter; bark grey or red, very fissured; branches striate, reddish. Stipules early caducous, not observed. Leaf: petiole 4–5 cm; rachis 4–10 cm; stipels absent; leaflets 3 or 4, petiolule 4–6 mm, lamina oval to elliptic, 11–19 × 6–7.5 cm, longly acuminate, cuneate at base, coriaceous, dark green above and below; lateral veins in 5 to 7 pairs, prominent below. Inflorescence entirely white, in lax (sub)terminal panicle, reaching 10–18 cm length, with minute, lax, appressed, golden pubescence; peduncle at first pubescent, then glabrous; axillant bracts caducous, oval, 2 mm length. Flower: pedicel 10–20 mm, glabrous; bracteoles at base of calyx, oval, glabrous, with pubescent margin; calyx cupulate, 5–6 mm length, teeth 4, unequal, ± 1 mm length, obtuse, almost glabrous, margin sparsely hairy; corolla reaching 2 cm length, standard oblong, limb 17 × 14 mm, emarginate, white, with a yellow abaxial spot toward the apex, claw 3 mm, wings with claw 7 mm, limb 17 × 6 mm, keel with claw 9 mm, limb 20 × 6 mm; stamens 18–25 mm, of which the free part 4–8 mm; ovary oblong-elliptic, reaching 13 mm length, with 5 ovules, glabrous; style 8 mm. Legume unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République du Congo ; au Gabon, connue de l’Ogooué-Lolo
+Gabon and Republic of the Congo; in Gabon, known from Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+forest; in Gabon at approximately 350 m altitude, elsewhere at approximately 425 m. Bibliography: Gillett (1960a), Pellegrin (1949).
 
-forêt ; au Gabon à environ 350 m d’altitude, ailleurs à environ 425 m. b : Gillett (1960a), Pellegrin (1949). ibliographie
-
-Étamines (× 1,5). – 10. Gousse (× ½). (1 : Breteler et al. 15.164 ; 2–9 : Breteler et al. 14.795 ; 10 : L.J.T. White 1127 ). Dessin par Hans de Vries, Jardin Botanique Meise (©).
+Stamens (× 1.5). – 10. Legume (× ½). (1: Breteler et al. 15.164; 2–9: Breteler et al. 14.795; 10: L.J.T. White 1127). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
 ## Notes
 

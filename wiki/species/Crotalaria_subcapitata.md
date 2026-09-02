@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou suffrutrex , annuel ou pérenne, 0,5–1,3 m de hauteur ; tige procombante ou érigée, cylindrique ou un peu sillonnée, à pubescence courte apprimée ou érigée. Stipules persistantes, linéaires à subulées, 1–3 mm de longueur. Feuille : pétiole 1,5–4 cm ; folioles 3 , à limbe linéaire-lancéolé à elliptique , 1,5–8(–11) × 0,3–2,4(–3) cm, ± arrondi et mucroné au sommet, à pubescence régulière surtout dessous, blanchâtre, à petits points pellucides . Inflo rescence terminale, en racème à fleurs concentrées en un semi-capitule vers le sommet ; pédoncule 10–24 cm ; bractées subulées, 1–5 mm. Fleur : bractéoles sous le calice, linéaires, 0,5–3 mm ; calice devenant tronqué à la base, réfléchi contre le pédicelle en fruit , pubescent, tube 2–3 mm de longueur, à lobes étroitement atténués, ± 2 mm de longueur ; étendard obovale-arrondi, 5–10 mm de longueur , jaune strié de rouge ou pourpre , ailes et carène de même longueur, 6–10 mm, carène courbée au milieu, ± longuement rostrée, souvent striée et tachetée de pourpre. Gousse subsessile, subcylindrique, 1,2–2,5 cm × 3,5–5 mm, noire à maturité, à pubescence assez dense, avec 20 à 30 graines . Graine oblique-cordiforme, 1,5–2,5 × 1,5 × 1 mm, lisse, orange ou brune .
+Herb or suffrutex, annual or perennial, 0.5–1.3 m tall; stem procumbent or erect, cylindrical or somewhat furrowed, with short appressed or erect pubescence. Stipules persistent, linear to subulate, 1–3 mm long. Leaf: petiole 1.5–4 cm; leaflets 3, with linear-lanceolate to elliptic blade, 1.5–8(–11) × 0.3–2.4(–3) cm, ± rounded and mucronate at apex, with regular pubescence especially below, whitish, with small pellucid dots. Inflorescence terminal, racemose with flowers concentrated in a semi-capitulum toward the apex; peduncle 10–24 cm; bracts subulate, 1–5 mm. Flower: bracteoles below the calyx, linear, 0.5–3 mm; calyx becoming truncate at base, reflexed against the pedicel in fruit, pubescent, tube 2–3 mm long, with lobes narrowly attenuate, ± 2 mm long; standard obovate-rounded, 5–10 mm long, yellow streaked with red or purple, wings and keel of the same length, 6–10 mm, keel curved in the middle, ± distinctly rostrate, often streaked and spotted with purple. Pod subsessile, subcylindric, 1.2–2.5 cm × 3.5–5 mm, black at maturity, with fairly dense pubescence, with 20 to 30 seeds. Seed oblique-cordiform, 1.5–2.5 × 1.5 × 1 mm, smooth, orange or brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana et Cameroun jusqu’en Ouganda et au Sud, vers l’Angola, la Zambie et le Malawi ; au Gabon, connue de la Ngounié
+Ghana and Cameroon to Uganda and South, toward Angola, Zambia and Malawi; in Gabon, known from the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-stations herbacées, savane ; au Gabon, à 100 m d’altitude, ailleurs, jusqu’à 2300 m
+herbaceous stations, savanna; in Gabon, at 100 m altitude, elsewhere, up to 2300 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Gabon, il s’agit de la subsp. subcapitata var. subcapitata , avec des folioles très étroites. Polhill (1982) distingue la var. fwamboensis (Baker f.) Polhill dans cette sous-espèce (marais en Zambie, Tanzanie et République démocratique du Congo), et la subsp. oreadum (Baker f.) Polhill (Cameroun à haute altitude), sans variétés. b : Polhill (1982, 2003), Wilczek (1953). ibliographie
+In Gabon, this is subsp. subcapitata var. subcapitata, with very narrow leaflets. Polhill (1982) distinguishes var. fwamboensis (Baker f.) Polhill in this subspecies (marshes in Zambia, Tanzania and Democratic Republic of the Congo), and subsp. oreadum (Baker f.) Polhill (Cameroon at high altitude), without varieties. b: Polhill (1982, 2003), Wilczek (1953). Bibliography
 
 ## Notes
 

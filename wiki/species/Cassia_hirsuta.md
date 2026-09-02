@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb with woody base or undershrub reaching 2 m tall. Leaves with 3-5 pairs of hirsute leaflets, elliptic to elliptic-ovate, acute acuminate, up to 7 cm in length by 2.5 cm in width. One sessile gland toward the apex of the petiole.
 
-Herbe à base ligneuse ou sous-arbrisseau atteignant 2 m de haut. Feuilles à 3-5 paires de folioles hirsutes, elliptiques à ovées elliptiques, acuminées aiguës, jusqu'à 7 cm de longueur sur 2,5 cm de largeur. Une glande sessile vers le sommet du pétiole.
+Yellow flowers in very short racemes. Linear pods, longly hirsute, up to 15 cm in length by 5 mm in width.
 
-Fleurs jaunes en très courts racèmes. Gousses linéaires, longuement hirsutes, jusqu'à 15 cm de longueur sur 5 mm de largeur.
-
-Mauvaise herbe des terrains cultivés et près des villages dans les régions de forêt dense humide. Originaire d'Amérique tropicale. Répandue de l'Afrique occidentale à l'Afrique orientale.
+Weed of cultivated lands and near villages in regions of humid dense forest. Native to tropical America. Widespread from West Africa to East Africa.
 
 ## Specimens examined
 

@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herb, 1–2.5 m tall; stem well-branched. Stipules caducous, filiform, reaching 3 mm in length, or absent. Leaf: petiole 20–85 mm; leaflets 3, with elliptic blade, 6–13 × 2.5–7 cm, with acute to rounded apex, mucronate, glabrous above, appressed-puberulent beneath. Inflorescence with terminal racemes, opposite to leaves or axillary, 15–30 cm in length, fairly dense towards the apex, peduncle 5–12 cm; bracts caducous before anthesis, linear, reaching 3 mm in length. Flower: bracteoles caducous, at the base of the calyx, 2–3 mm in length; pedicel ± 7 mm; calyx becoming truncate at the base and reflexed against the pedicel, 6–7.5 mm in length, ± densely pubescent, lobes triangular-acuminate, ± as long or longer than the tube; standard elliptic, 12–15 mm in length, yellow, with red-brown veins, wings much shorter than the keel, keel curved in the middle, 12–15 mm in length, rostrate, yellowish-green, with prominent brown or purple veins. Pod short-
 
-Herbe érigée, 1–2,5 m de hauteur ; tige bien ramifiée. Stipules caduques, filiformes, atteignant 3 mm de longueur, ou absentes. Feuille : pétiole 20–85 mm ; folioles 3 , à limbe elliptique , 6–13 × 2,5–7 cm, à sommet aigu à arrondi, mucroné, glabre dessus, apprimé-pubérulent des sous. Inflorescence à racèmes terminaux, oppositifoliés ou axillaires, 15–30 cm de longueur , assez denses vers le sommet , pédoncule 5–12 cm ; bractées caduques avant l’anthèse, linéaires, atteignant 3 mm de longueur. Fleur : bractéoles caduques , à la base du calice, 2–3 mm de longueur ; pédicelle ± 7 mm ; calice devenant tronqué à la base et réfléchi contre le pédicelle , 6–7,5 mm de longueur, ± densément pubescent, lobes triangulaires-acuminés, ± aussi ou plus longs que le tube ; étendard elliptique, 12–15 mm de longueur, jaune, à ner vures rouge-brun, ailes beaucoup plus courtes que la carène, carène courbée au milieu, 12–15 mm de longueur, rostrée, vert jaunâtre, à nervures saillantes, brunes ou pourpres. Gousse cour-
+Standard (× 4). – 4. Wing (× 4). – 5. Keel (× 4). – 6. Pistil (× 4). – 7, 8. Anthers (× 12). – 9. Seed (× 7). (1, 3–9: Tweedy 292; 2: Louis 15659). Drawing by R. Polhill (1, 3–9) and M. Boutique (2), Royal Botanic Gardens, Kew (©) and Meise Botanic Garden (©), reproduced with permission from Polhill (1982) and Wilczek (1953).
 
-Étendard (× 4). – 4. Aile × 4). – 5. Carène (× 4). – 6. Pistil (× 4). – 7, 8. Anthères (× 12). – 9. Graine (× 7). (1, 3–9 : Tweedy 292 ; 2 : Louis 15659 ). Dessin par R. Polhill (1, 3–9) et M. Boutique (2), Royal Botanic Gardens, Kew (©) et Jardin Botanique Meise (©), reproduit avec permission à partir de Polhill (1982) et Wilczek (1953).
-
-tement stipitée, subcylindrique , 4–5 × 0,6–0,8 cm, pubérulente à glabrescente, avec 30 à 40 graines . Graine oblique-cordiforme, ± 2,5–3,5 × 3 × 1,5 mm, lisse ou papilleuse, brunâtre .
+ly stipitate, subcylindric, 4–5 × 0.6–0.8 cm, puberulent to glabrescent, with 30 to 40 seeds. Seed oblique-cordiform, ± 2.5–3.5 × 3 × 1.5 mm, smooth or papillose, brownish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+pantropical, fairly common; probably present in Gabon, but not yet recorded
 
-pantropicale, assez commune ; probablement présente au Gabon, mais non encore signalée
-
-côtes de l’Afrique de l’Ouest, le long du Nil et du Congo, l’aire des Grands Lacs d’Afrique de l’Est
+coasts of West Africa, along the Nile and Congo, the area of the Great Lakes of East Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+savannas, roadsides, fallows, cultivations; elsewhere at 0–1500 m altitude
 
-savanes, bord de route, jachères, cultures ; ailleurs à 0–1500 m d’altitude
-
-stations herbacées, bord de route ; au Gabon à basse altitude, ailleurs à 0–2100 m
+herbaceous stations, roadsides; in Gabon at low altitude, elsewhere at 0–2100 m
 
 ## Vernacular names
 
@@ -47,9 +41,7 @@ cascavelle trois feuilles (fr.) ; smooth crotalaria, streaked rattlepod, striped
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les synonymes donnés par Pellegrin (1949) pour C. striata concernent la var. obovata . b : Aguilar (1997), Pellegrin (1949), Polhill (1982). ibliographie
+The synonyms given by Pellegrin (1949) for C. striata concern var. obovata. b: Aguilar (1997), Pellegrin (1949), Polhill (1982). Bibliography
 
 ## Notes
 

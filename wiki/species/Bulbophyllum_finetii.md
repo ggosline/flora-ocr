@@ -1,0 +1,43 @@
+---
+type: species
+name: Bulbophyllum finetii
+authority: Szlach. & Olsz.
+genus: Bulbophyllum
+family: Orchidaceae
+vol: 36
+pages: 139-139
+source: sources/Orchidaceae_vol36_paddle
+tags: [species, generated]
+---
+# *Bulbophyllum finetii* Szlach. & Olsz.
+
+**Genus**: [[Bulbophyllum]]
+**Family**: [[Orchidaceae]]
+**Protologue**: FCAM 2 : 395 (2001). BASIONYME : Bulbophyllum calamarium Lindl. var. albocilia-tum Finet, Not. Syst. 1 : 383. 1911
+
+## Description
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+BASIONYME : Bulbophyllum calamarium Lindl. var. albocilia-tum Finet, Not. Syst. 1 : 383. 1911 – TYPE : Lousteau s.n., Zaïre, holo-P !.
+
+## Figures
+
+![Bulbophyllum finetii](../sources/Orchidaceae_vol36_paddle/figures/fig_072_p0142.png)
+
+*PL. 67. – Bulbophyllum finetii Szlach. & Olsz.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).*
+
+![Bulbophyllum finetii](../sources/Orchidaceae_vol36_paddle/figures/fig_134_p0223.png)
+
+*Carte 22. – Bulbophyllum finetii Szlach. & Olsz.
+B. cochleatum Lindl. var. cochleatum*
+
+## Notes
+
+<!-- TODO:notes -->
+
+## See also
+
+- [[Bulbophyllum]]
+- [[Orchidaceae]]
+- [[vol36]]

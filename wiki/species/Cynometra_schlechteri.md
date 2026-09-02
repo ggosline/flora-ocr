@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 3 pairs of subsessile leaflets of decreasing size from top to bottom. Rachis 1.5 to 4.5 cm long. Upper leaflets lanceolate, glabrous, acuminate emarginate, 4–10 cm long by 1.5–4 cm wide. Lower ones elliptic, rounded to shortly acuminate emarginate. Blade asymmetric, the inner portion being narrow, which makes it possible to distinguish this species from the related species of similar form and habitat C. Mannii.
 
-Arbres. Feuilles à 3 paires de folioles subsessiles de dimension décroissante du haut en bas. Rachis de 1,5 à 4,5 cm de longueur. Folioles supérieures lancéolées, glabres, acuminées émarginées, de 4-10 cm de longueur sur 1,5-4 cm de largeur. Les inférieures elliptiques, arrondies à courtement acuminées émarginées. Limbe dissymétrique, la partie intérieure étant étroite, ce qui permet de distinguer cette espèce de l'espèce voisine de forme et de station C. Mannii.
+Buds scaly, strobiliform. Axillary racemes short, 2–3.5 mm long. Pedicels 8–10 mm. Bracteoles 2–4.5 mm, tardily caducous. Sepals 4, 3.5–5.5 mm long. Petals lanceolate spatulate, 5–8 mm long. Stamens 10–12, with long filaments 6–12 mm. Ovary hairy.
 
-Bourgeons écailleux, strobiliformes. Racèmes axillaires courts, 2-3,5 mm de longueur. Pédicelles de 8-10 mm. Bractéoles de 2-4,5 mm, tardivement caduques. Sépales 4 longs de 3,5-5,5 mm. Pétales lancéolés spatulés longs de 5-8 mm. Étamines 10-12, à longs filets de 6-12 mm. Ovaire velu.
-
-Gousses indéhiscentes, obovoïdes, épaisses, jusqu'à  $ 4 \times 2,7 \times 1,7 $ cm, densément tuberculées.
+Pods indehiscent, obovoid, thick, up to 4 × 2.7 × 1.7 cm, densely tuberculate.
 
 ## Type
 
@@ -31,9 +29,7 @@ Schlechter 12519, Stanley-Pool (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce surtout congolaise de forêts périodiquement inondées. Ne paraît pas commune au Gabon. Il est possible qu'elle soit souvent confondue avec C. Mannii.
+Species chiefly Congolese from periodically flooded forests. Does not appear to be common in Gabon. It is possible that it is often confused with C. Mannii.
 
 ## Specimens examined
 

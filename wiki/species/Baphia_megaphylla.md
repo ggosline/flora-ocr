@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre , atteignant 6 m de hauteur ; tronc peu ou non ramifié ; ramilles pubérulentes, glabrescentes. Stipules étroitement triangulaires, 3–15 × 1–1,5 mm. Feuille : pétiole avec pulvinus séparés , 6–30(–40) cm, pubérulent ; foliole à limbe ovale-elliptique, (10–)15–30(–52) × 7–20(–28) cm , obtus à cordé à la base, sommet aigu à acuminé sur 0,5–1,5(–2) cm, pubé rulent à tomenteux sur les deux faces, tôt glabrescent dessus ; nervures latérales en 11 à 17 paires . Inflorescence en fascicules axillaires, avec 8 à 25 fleurs, parmi les feuilles supérieures, formant souvent des inflorescences terminales par la chute des feuilles axillantes ; bractées ovales-triangulaires, 1–3 × 1 mm. Fleur : bractéoles situées au sommet du pédicelle contre le calice , ovales-triangulaires, (3–)5–7 × 1–2 mm ; pédicelle 12–20(–25) mm, pubérulent ; calice spathacé , atteignant 14 mm de longueur, pubérulent à l’extérieur, glabre à l’intérieur ; étendard 12–14 × 14–18 mm, à onglet de 1–2 mm, ailes oblancéolées, 12–14 × 4 mm, à onglet de 1–2 mm, pétales de la carène ± elliptiques, 12 × 5 mm, poilus sur la marge dorsale , à onglet de 1–2 mm ; étamines 9–11 mm de longueur, anthères 2,5–3,5 mm de longueur ; pistil 11–14 mm de longueur, ovaire ± velouté , à 2 ovules. Gousse étroitement oblancéolée, 13–16 × 2–2,5 cm, pubérulente-tomentelleuse, à 1 ou 2 graines. Graine mûre non vue.
+Small tree, reaching 6 m in height; trunk little or not branched; branchlets puberulent, glabrescent. Stipules narrowly triangular, 3–15 × 1–1.5 mm. Leaf: petiole with separated pulvini, 6–30(–40) cm, puberulent; leaflet with oval-elliptic blade, (10–)15–30(–52) × 7–20(–28) cm, obtuse to cordate at the base, apex acute to acuminate over 0.5–1.5(–2) cm, puberulent to tomentose on both faces, early glabrescent above; lateral veins in 11 to 17 pairs. Inflorescence in axillary fascicles, with 8 to 25 flowers, among the upper leaves, often forming terminal inflorescences by the fall of the axillary leaves; bracts oval-triangular, 1–3 × 1 mm. Flower: bracteoles situated at the apex of the pedicel against the calyx, oval-triangular, (3–)5–7 × 1–2 mm; pedicel 12–20(–25) mm, puberulent; calyx spatulate, reaching 14 mm in length, puberulent on the outside, glabrous on the inside; standard 12–14 × 14–18 mm, with claw of 1–2 mm, wings oblanceolate, 12–14 × 4 mm, with claw of 1–2 mm, keel petals ± elliptic, 12 × 5 mm, pilose on the dorsal margin, with claw of 1–2 mm; stamens 9–11 mm in length, anthers 2.5–3.5 mm in length; pistil 11–14 mm in length, ovary ± velvety, with 2 ovules. Pod narrowly oblanceolate, 13–16 × 2–2.5 cm, puberulent-tomentulose, with 1 or 2 seeds. Mature seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce endémique au Gabon, seulement connue de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+endemic species to Gabon, known only from Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; à ± 300–500 m d’altitude. b : Breteler (2008). ibliographie
+primary and secondarized forest; at ± 300–500 m in altitude. b: Breteler (2008). Bibliography
 
 ## Notes
 

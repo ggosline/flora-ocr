@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe volubile, glabrescente ; ramilles vert-jaunâtre, atteignant plusieurs mètres . Stipules lancéolées, 3–5 mm de longueur. Feuille : pétiole 5–18 mm ; rachis 6–8 cm, terminé par une pointe de ± 1 mm ; folioles en 8 à 17 paires , à limbe ovale à obovale ou oblong, 6–12(–25) × 3–9 mm, base arrondie ou subcordée, sommet obtus à acuminé, glabre à glabrescent dessus, à pubescence légère et apprimée dessous. Inflorescence en pseudoracèmes rigides, 5–8 cm de longueur , courbés ; bractées ± 1 mm de longueur. Fleurs entassées, presque sessiles ; calice ± 3 mm de longueur, pubescent ; corolle 9–15 mm de longueur, pourpre pâle à jaunâtre . Gousse rectangulaire, renflée , 2–3,5(–5) × 1–1,5 cm, avec 3 à 7 graines, souvent verruqueuse, tomenteuse, avec un bec courbé . Graine ovoïde, 5–7 × 4–5 mm, rouge vif, tachetée de noir près du hile , brillante.
+Climbing herb, glabrescent; branchlets yellowish-green, reaching several metres. Stipules lanceolate, 3–5 mm long. Leaf: petiole 5–18 mm; rachis 6–8 cm, terminated by a point of ± 1 mm; leaflets in 8 to 17 pairs, with limb oval to obovate or oblong, 6–12(–25) × 3–9 mm, base rounded or subcordate, apex obtuse to acuminate, glabrous to glabrescent above, with light and appressed pubescence below. Inflorescence in rigid pseudoracemes, 5–8 cm long, curved; bracts ± 1 mm long. Flowers crowded, almost sessile; calyx ± 3 mm long, pubescent; corolla 9–15 mm long, pale purple to yellowish. Pod rectangular, swollen, 2–3.5(–5) × 1–1.5 cm, with 3 to 7 seeds, often verrucose, tomentose, with a curved beak. Seed ovoid, 5–7 × 4–5 mm, bright red, spotted with black near the hilum, glossy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-circumtropicale ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, du Moyen-Ogooué, de l’Ogooué-Maritime et du Woleu-Ntem
+circumtropical; in Gabon, known from Estuaire, Haut-Ogooué, Moyen-Ogooué, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes arborées et arbustives, galeries forestières, situations rudérales ; parfois plantée ; au Gabon, à 0–580 m d’altitude, ailleurs jusqu’à 1300 m. Usage : Les graines ornementales sont utilisées pour colliers et chapelets. Les veuves Nkomi portent les colliers de graines pendant le deuil. La plante est considérée comme magique pour calmer la colère, aussi bien que rituelle et pour se protéger contre la magie. Les graines sont toxiques si mangées. Les feuilles ont la saveur du bois de réglisse, mâchées, elles ont le goût du coco . Les feuilles sont mastiquées par les chanteurs pour se faire la voix
+wooded and shrubby savannas, forest galleries, ruderal situations; sometimes planted; in Gabon, at 0–580 m altitude, elsewhere up to 1300 m. Uses: The ornamental seeds are used for necklaces and rosaries. Nkomi widows wear seed necklaces during mourning. The plant is considered magical for calming anger, as well as ritual and for protection against magic. The seeds are toxic if eaten. The leaves have the flavour of liquorice wood; when chewed, they taste of coconut. The leaves are chewed by singers to improve the voice
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ herbe à beau-père, liane-réglisse, oeil de serpent, pois de Bedeau, sucre-suc
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pistil (× 10). – 9. Stigmate (× 50). –10. Infrutescence (× ½). – 11. Graine (× 2). (Après matériel vivant à Wageningen). Dessin par Ike Zewald, Naturalis Biodiversity Center (©).
+Pistil (× 10). – 9. Stigma (× 50). – 10. Infructescence (× ½). – 11. Seed (× 2). (After living material at Wageningen). Drawing by Ike Zewald, Naturalis Biodiversity Center (©).
 
 ## Notes
 

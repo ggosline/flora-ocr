@@ -1,0 +1,94 @@
+---
+type: species
+name: Bixa orellana
+authority: Linné
+genus: Bixa
+family: Bixaceae
+vol: 22
+pages: 62-65
+source: sources/Bixaceae_vol22_paddle
+tags: [species, generated]
+---
+# *Bixa orellana* Linné
+
+**Genus**: [[Bixa]]
+**Family**: [[Bixaceae]]
+**Protologue**: Sp. Pl. : 512 (1753); Welwitsch, Ann. Consehlo Ultram. 1 : 555 et 558 (1858); Syn. Expl. Amostr. Mad. Drog. Med. : 41 et 47 (1862); Oliver, FTA 1 : 114 (1868); FICALHO, Pl. Ut. Afr. Port. : 92 (1884); HIERN, Cat. Afr. Pl. Welw. 1 : 37 (1896); TH. DURAND & SCHINZ, Fl. Afr. 1 : 214 (1898); DE WILDEMAN, Pl. Ut. Congo 2 (1) : 5 et 19 (1906); POBÉGUIN, Fl. Guinée Fr. : 162 (1906); SIM, For. Fl. Port. E. Afr. : 11, tab. 2a (1909); VOLKENS, Notizbl. Bot. Gart. Berlin, suppl. 22, 3 : 68 et 111, tab. 5 a-p (1910); PILGER, Nat. Pflanzenfam., ed. 2, 21 : 313, tab. 139 (1925); HUTCHINSON, Fam. Fl. Pl., ed. 1, 1 : 159, tab. 91 (1926); IRVINE, Pl. Gold Coast : 56 (1930); Woody Pl. Ghana : 71 (1961); DALZIEL, Us. Pl. W. Trop. Afr. : 45 (1937); EXELL & MENDONÇA, Consp. Fl. Angol. 1 : 77 (1937); BRENAN, TTCL : 74 (1949); KEAY, FWTA, ed. 2, 1 : 183 (1954); ROBERTY, Petite Fl. Ouest-Afr. : 261 (1954); WILD, Fl. Zambes. 1 : 260 (1960); WHITE, FFNR : 263 (1962); BOUQUET, MÉM. ORSTOM 36 : 73 (1969)
+
+## Description
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+DE WILDEMAN, Pl. Ut. Congo 2 (1) : 5 et 19 (1906); POBÉGUIN, Fl. Guinée Fr. : 162 (1906); SIM, For. Fl. Port. E. Afr. : 11, tab. 2a (1909); VOLKENS, Notizbl. Bot. Gart. Berlin, suppl. 22, 3 : 68 et 111, tab. 5 a-p (1910); PILGER, Nat. Pflanzenfam., ed. 2, 21 : 313, tab. 139 (1925); HUTCHINSON, Fam. Fl. Pl., ed. 1, 1 : 159, tab. 91 (1926); IRVINE, Pl. Gold Coast : 56 (1930); Woody Pl. Ghana : 71 (1961); DALZIEL, Us. Pl. W. Trop. Afr. : 45 (1937); EXELL & MENDONÇA, Consp. Fl. Angol. 1 : 77 (1937); BRENAN, TTCL : 74 (1949); KEAY, FWTA, ed. 2, 1 : 183 (1954); ROBERTY, Petite Fl. Ouest-Afr. : 261 (1954); WILD, Fl. Zambes. 1 : 260 (1960); WHITE, FFNR : 263 (1962); BOUQUET, MÉM. ORSTOM 36 : 73 (1969).
+
+— Bixa acuminata Bojer, Hort. Maurit. 2 : 381 (1763).
+
+— Bixa orleana Noronha, Verh. Batav. Gen. : 5 (1790).
+
+— Bixa tinctoria Salisb., Prodrom. : 369 (1796).
+
+— Bixa urucurana Willdenow, Hort. Berol.: 565 (1809).
+
+— Bixa americana PoIR., Encyclop. 6 : 229 (1829).
+
+— Bixa odorata Ruiz & Pavon, Fl. Peruv. 5, in An. Inst. Bot. Cavanilles 17 : tab. 460 (1959).
+
+— Bixa platycarpa Ruiz & Pavon, l.c. : tab. 459 (1959).
+
+Petit arbre atteignant 15 m de hauteur; jeunes rameaux bruns couverts de poils peltés ± dressés roux. Feuilles à pétiole cylindrique, long de 4-10 cm à poils écailleux ellipsoïdes ou orbiculaires, fortement apprimés; limbe écailleux sur les deux faces (poils de même type que ceux du pétiole), marron vert mat sur les deux faces à l'état sec, 6-22 × 3-13 cm, base cordée, sommet acuminé obtus. Nervures primaires 5, ± déprimées dessus, saillantes dessous, ± écailleuses; nervures secondaires 3-7 paires, ascendantes, ± arquées, s'anastomosant à 1-3 mm du bord du limbe, faiblement déprimées dessus et saillantes dessous. Nervures tertiaires en réseau dense à mailles polygonales subquadrangulaires.
+
+Inflorescence en panicule terminale; axe densément couvert de poils peltés roux ± dressés et de poils peltés fortement apprimés. Bouton floral globuleux. Fleurs ¥, pentamères, actinomorphes, roses. Sépales 5, finement écailleux sur les deux faces, très largement lancéolés à deltoïdes, 1 × 1 cm, sommet obtus, 5 glandes charnues à la base de la face externe. Pétales 5, imbriqués, roses, glabres sur les deux faces, obovoïdes, 3 × 1,5 cm, fortement réticulés, sommet arrondi. Étamines très nombreuses; filets grêles, jaunes, longs de 1,5 cm; anthères roses, hippocrépiformes, longues de 3,25 mm, à déhiscence longitudinale courte et sommitale. Ovaire supère, densément pubescent, globuleux d'un diamètre de 3 mm, uniloculaire, nom
+
+breux ovules sur deux placentas pariétaux. Style ± claviforme, applati, long de 1,7 cm, sinueux, se terminant en stigmate bilobé.
+
+Capsule bivalve rose ou rouge, globuleuse ou ovoïde, 3,5-4,5 × 2,5-3 cm, épineuse. Graines nombreuses, brunes, dans une pulpe rouge ou jaune-orange, sur les placentas centraux. PL. 15, p. 61.
+
+## Type
+
+s.c. in herb. Linné 674, Amérique tropicale, fl. (holo-, LINN)
+
+## Discussion
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Cette plante originaire de l'Amérique tropicale est largement répandue dans toutes les zones tropicales du monde où elle est cultivé près des villages. Elle devient parfois subspontanée.
+
+## Uses
+
+<!-- TODO:translate — source text below, verbatim and untranslated -->
+
+Les graines donnent un colorant végétal : le roucou, servant à teindre les nattes et les tissus en rouge. C'est un purgatif léger. La décoction des feuilles s'emploie pour arrêter les vomissements
+
+## Vernacular names
+
+rocouyer; ngwè-kokè (mpongwè); odjolo (galoa, nkomi, orungu, apindji); mudjolè (bavili); bodjolè, nkaba-nambèlè, okana-mbèlè (bakèlè); kès (fang); ngundji (eshira, bavarama, bavungu, banzabi); ngundji-ilamba (bapunu); ngunzu (loango); omèni, kuya (mindumu); momèni (ivéa, mitsogo); élola (benga)
+
+## Specimens examined
+
+De Brazza J. 30, s.l. (fl.).
+
+Fleury in Chevalier 26441, plantation de la Société du Haut Ogooué, Nkogo sur l'Ogooué (fl., août).
+
+Hallé N. & Le Thomas 208, Boué (fl., fr., juill.).
+
+Klaine 1253, Libreville (fr., mai).
+
+Leroy s.n., s.l. (fr.).
+
+Thollon s.n., Gabon-Congo (fl., fr.).
+
+## Figures
+
+![Bixa orellana](../sources/Bixaceae_vol22_paddle/figures/fig_019_p0063.png)
+
+*PL. 15. — Bixa orellana L. : 1, rameau feuillé et fleurs × 2/3; 2, détail d'un rameau jeune × 3; 3, poil pelté; 4, bouton floral × 1,5; 5, diagramme floral; 6, pétale × 1,2; 7, anthère × 4,5; 8, pistil × 4,5; 9, fruit × 0,8; 10, graine × 4,5 (Hallé N. & Le Thomas 208).*
+
+## Notes
+
+<!-- TODO:notes -->
+
+## See also
+
+- [[Bixa]]
+- [[Bixaceae]]
+- [[vol22]]

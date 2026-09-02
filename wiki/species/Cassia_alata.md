@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb or shrub, up to 6 m in height. Leaves with 8–14 pairs of large leaflets, oblong, rounded at both ends, up to 15 cm in length by 8 cm in width. Rachis up to 60 cm in length, winged. Flowers yellow in terminal racemes, erect, densely flowered. Fruits straight, oblong, winged, black at maturity, up to 25 cm long and 1.8 cm wide, each valve bearing in the middle a prominent crenate longitudinal wing.
 
-Herbe ou arbrisseau, jusqu'à 6 m de hauteur. Feuilles à 8-14 paires de grandes folioles, oblongues, arrondies aux deux extrémités, jusqu'à 15 cm de longueur sur 8 cm de largeur. Rachis jusqu'à 60 cm de longueur, ailé. Fleurs jaunes en racèmes terminaux, dressés, densément fleuris. Fruits droits, oblongs, ailés, noirs à maturité, longs jusqu'à 25 cm et de 1,8 cm de largeur, chaque valve portant au milieu une aile longitudinale crénelée proéminente.
-
-Espèce pantropicale, originaire d'Amérique tropicale, répandue dans les régions forestières autour des villages, de l'Afrique occidentale à l'Afrique orientale.
+Pantropical species, originating from tropical America, widespread in forested regions around villages, from West Africa to East Africa.
 
 ## Vernacular names
 

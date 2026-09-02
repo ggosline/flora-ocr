@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets riddled with whitish lenticels. Leaves paripinnate with 9–10 pairs of leaflets, oblong, with rounded apex, with rounded cuneate base, finely appressed-pubescent beneath, 2–4.5 cm × 6–11 mm. Rachis canaliculate, pubescent beneath, slightly but very distinctly winged between the nodes. Stipules hairy, rapidly caducous.
 
-Arbres. Rameaux criblés de lenticelles blanchâtres. Feuilles paripennées à 9-10 paires de folioles, oblongues, à sommet arrondi, à base cunéiforme arrondie, finement pubescentes apprimées dessous, de 2-4,5 cm × 6-11 mm. Rachis canalicule, pubescent dessous, légèrement mais très nettement ailé entre les nœuds. Stipules velues, rapidement caduques.
+Terminal panicles about a dozen centimetres long. Flowers white or pink, articulate at the apex of slender, tomentose pedicels, 4–10 mm long. Bracteoles caducous. Calyx with 4 lobes imbricate in bud. Petals 5, subequal, ovate-lanceolate, 4.5 × 1.5 mm. Stamens 10, free. Ovary hairy.
 
-Panicules terminales d'une douzaine de centimètres. Fleurs blanches ou roses, articulées à l'extrémité de pédicelles grêles, tomenteux, longs de 4-10 mm. Bractéoles caduques. Calice à 4 lobes imbriqués dans le bouton. Pétales 5, subégaux, ovés lancéolés, de 4,5 × 1,5 mm. Étamines 10 libres. Ovaire velu.
-
-Gousse oblongue, arrondie à la base, lisse, obtuse et mucronée au sommet.
+Pod oblong, rounded at the base, smooth, obtuse and mucronate at the apex.
 
 ## Type
 
@@ -31,9 +29,7 @@ Luja 147, bas Congo (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce du Mayombé, du Kouilou, du bas Congo (Brazzaville-Kinshasa), non signalée dans le nord du Gabon.
+Species of the Mayombé, of the Kouilou, of lower Congo (Brazzaville–Kinshasa), not recorded in northern Gabon.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre de 3–4 m de hauteur ; ramilles pubescentes-ferrugineuses. Stipules non vues. Feuille : pétiole à pulvinus contigus , 5–10 mm, pubescents-ferrugineux ; foliole à limbe elliptique, 7–12 × 2–4,5 cm, cunéé à la base, sommet acuminé sur 0,5–1(–1,5) cm, éparse ment pubescent dessous ; nervures latérales en 5 à 7 paires. Inflorescence en cymes simples ou composées , pubescentes-ferrugineusse ; bractées ± tôt caduques, ovales, ± 1,5 × 1,5 mm. Fleur : bractéoles situées au sommet du pédicelle , ± aussi grandes que les bractées ; pédicelle jusqu’à 2 cm, pubescent-ferrugineux ; calice spathacé, ± 15 mm de longueur, pubescentferrugineux ; étendard largement obovale, 15 × 13 mm, bilobé au sommet, sans ou à onglet court, ailes 17 × 8 mm, très courtement onguiculés, pétales de la carène 13 × 5–7 mm, ± plans, courtement onguiculés ; étamines 10–13,5 mm de longueur, anthères 2,5–3 mm de longueur ; pistil ± 15 mm de longueur, courbé, ovaire velouté, à 6 ovules ; style glabre. Gousse et graine inconnues.
+Small tree 3–4 m tall; branchlets pubescent-ferruginous. Stipules not observed. Leaf: petiole with contiguous pulvini, 5–10 mm, pubescent-ferruginous; leaflet with elliptic blade, 7–12 × 2–4.5 cm, cuneate at base, apex acuminate for 0.5–1(–1.5) cm, sparsely pubescent beneath; lateral veins in 5 to 7 pairs. Inflorescence in simple or compound cymes, pubescent-ferruginous; bracts ± early caducous, ovate, ± 1.5 × 1.5 mm. Flower: bracteoles situated at apex of pedicel, ± as large as bracts; pedicel up to 2 cm, pubescent-ferruginous; calyx spatulate, ± 15 mm long, pubescent-ferruginous; standard broadly obovate, 15 × 13 mm, bilobed at apex, without or with short claw, wings 17 × 8 mm, very shortly clawed, keel petals 13 × 5–7 mm, ± flat, shortly clawed; stamens 10–13.5 mm long, anthers 2.5–3 mm long; pistil ± 15 mm long, curved, ovary velvety, with 6 ovules; style glabrous. Pod and seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, seulement connue du Moyen Ogooué et de l’Ogooué-Maritime
+endemic to Gabon, known only from Moyen Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; à basse altitude. b : Breteler (1994b ). ibliographie
+primary and secondarized forest; at low altitude. b: Breteler (1994b). Bibliography
 
 ## Notes
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (Pl. 57, p. 239)
 
-Léonard (Pl. 57, p. 239)
+Trees. Leaf unifoliolate. Petiole 2–8 mm long, furnished at the upper extremity with 2 small glands sometimes barely visible. Leaflet ovate-lanceolate or ovate, acuminate, rounded or slightly cordate at the base, 3.5–15 cm long by 1.8–6.7 cm wide, glabrous. Secondary veins, approximately 5, joining in arches.
 
-Arbres. Feuille unifoliolée. Pétiole de 2-8 mm de longueur, pourvu à l'extrémité supérieure de 2 petites glandes parfois peu visibles. Foliole ovée lancéolée ou ovée, acuminée, arrondie ou légèrement cordée à la base, de 3,5-15 cm de longueur sur 1,8-6,7 cm de largeur, glabres. Nervures secondaires, environ 5, se rejoignant en arceaux.
-
-Boutons florifères écailleux. Racèmes axillaires atteignant 7 cm de longueur, glabres. Pédicelles grêles, 10-17 mm de longueur. Bractéoles blanches, elliptiques, environ 6 mm de longueur sur 4 mm de largeur. Pétale 1 (rarement 2), suborbiculaire, blanc, d'environ 6 × 6 mm, à onglet court de ± 1 mm. Filets des étamines 6-8 mm le longueur. Ovaire glabre, stipité; 2-4 ovules. Fruit inconnu.
+Floral buds scaly. Axillary racemes reaching 7 cm long, glabrous. Pedicels slender, 10–17 mm long. Bracteoles white, elliptic, approximately 6 mm long by 4 mm wide. Petal 1 (rarely 2), suborbicular, white, approximately 6 × 6 mm, with short claw of ± 1 mm. Filaments of stamens 6–8 mm long. Ovary glabrous, stipitate; 2–4 ovules. Fruit unknown.
 
 ## Type
 
@@ -35,9 +33,7 @@ Pynært 276 Eala, Congo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre assez commun au Congo dans les forêts périodiquement inondées ou marécageuses.
+Rather common small tree in Congo in periodically inundated or marshy forests.
 
 ## Specimens examined
 

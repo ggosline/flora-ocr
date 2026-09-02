@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 2 pairs of opposite leaflets, with lanceolate acute stipules, 4–5 mm long, persistent. Rachis short, 2–3 cm, glabrous. Leaflets shortly petiolulate, ovate elliptic or ovate lanceolate, falciform, with apex insensibly attenuate, acuminate, glabrous, 4–10 cm long, 2–5 cm wide, the lower pair being distinctly smaller than the upper pair. 5–7 pairs of secondary veins, well-visible below, anastomosing in a well-meshed and well-visible network below.
 
-Arbres. Feuilles à 2 paires de folioles opposées, à stipules lancéolées aiguës, longues de 4-5 mm, persistantes. Rachis courts de 2-3 cm, glabres. Folioles courtement pétiolulées, ovées elliptiques ou ovées lancéolées, falciformes, à sommet insensiblement atténué, acuminé, glabres, longues de 4-10 cm, larges de 2-5 cm, la paire inférieure étant nettement plus petite que la paire supérieure. 5-7 paires de nervures secondaires, bien visibles dessous, anastomoses dans un réseau bien maillé et bien visible dessous.
-
-Inflorescences terminales, très contractées, densément fleuries. Fleurs blanches, subfasciculées à l'aisselle d'écailles triangulaires, courtes, de 1 mm, articulées à l'extrémité de longs pédi-celles grêles, de 2 cm, velus. Sépales 4, ovés, obtus, longs de 4 mm, velus au dehors, glabres en dedans. Pétales 5, oblongs, onguiculés, longs de 7 mm. Étamines 10, à filets glabres. Ovaire stipité, velu, biovulé. Fruit inconnu.
+Inflorescences terminal, very contracted, densely flowered. Flowers white, subfasciculate at the axil of triangular scales, short, 1 mm, articulate at the apex of long slender pedicels, 2 cm, pubescent. Sepals 4, ovate, obtuse, 4 mm long, pubescent without, glabrous within. Petals 5, oblong, unguiculate, 7 mm long. Stamens 10, with glabrous filaments. Ovary stipitate, pubescent, biovulate. Fruit unknown.
 
 ## Type
 
@@ -29,9 +27,7 @@ Le Testu 2125, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue seulement par le type de Le Testu du Mayombé; très proche de C. Oddonii De Wild.
+Species known only from the type of Le Testu from Mayombé; very close to C. Oddonii De Wild.
 
 ## Specimens examined
 

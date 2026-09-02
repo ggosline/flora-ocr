@@ -17,27 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Nat. Pflanzenf., Nachtr. z. 3 (3): 191 (1897); Bot. Jahrb. 26: 257, tab. 5, fig. F-O (1899); Baker F., Legum. Trop. Afr. 3: 799 (1930); Dalziell, Us. Pl. W. Trop. Afr.: 213 (1937); Pellegrin, Legum. Gabon: 24 (1948); Keay, FWTA, ed. 2, 1 (2): 488 (1958); Keay, Onochie & Stanfield, Niger. Trees. 2: 96 (1964); Gunn, FSGM: tab. p. 107, fig. C-H (1984); Villiers, BMNHN 6 (3): 304, tab. 3, fig. 3-4 (1984).
 
 – Erythrophloeum dinklagei TaUB., Nat., Pflanzenfam. 3 (3): 386 (1894), nom. nud.
 
 - Xylia dinklagei (TaUB.) ROBERTY, Petite Fl. Ouest-Afr.: 198 (1954).
 
-- Calpocalyx sp., Heitz, Forêt Gabon : 139, tab. 43 (1943).
+- Calpocalyx sp., Heitz, Forêt Gabon: 139, tab. 43 (1943).
 
 – Calpocalyx crawfordianus MENDES, Bol. Soc. Brot., ser. 2, 37: 163 (1963).
 
-Arbuste à petit arbre haut de 6-15 m. Tronc ± sinueux à base empattée, très ramifié, d'un diamètre de 6-25 (-40-50) cm. Écorce tendre et compacte, épaisse de 1 cm ; rhytidome lisse, gris à gris rose, gris violacé, marbré de blanc ou même de vert ou de rouge foncé; section orangée à orangée sale. Bois jaune orangé, plus foncé vers l'intérieur. Rameaux vert sombre sur le frais, glabres. Stipules tôt caduques. Jeunes feuilles pubescentes. Pétiole glabre (parfois pubescent sur la face
+Shrub to small tree 6–15 m tall. Trunk ± sinuous with buttressed base, much-branched, 6–25 (–40–50) cm in diameter. Bark tender and compact, 1 cm thick; rhytidome smooth, grey to greyish pink, greyish purple, marbled with white or even green or dark red; section orange to dirty orange. Wood yellow-orange, darker toward the interior. Branchlets dark green when fresh, glabrous. Stipules early caducous. Young leaves pubescent. Petiole glabrous (sometimes pubescent on the adaxial face), 1–6 (–9) cm long, gland at the apex on the upper face. Rachis glabrous (sometimes with scattered hairs), cylindrical, 9.5–36.6 (–44.5) cm long, glands between the pairs of leaflets at the apex; Leaflets 4–7 pairs. Petiolule glabrous, 3.5–9 mm long, strongly canaliculate above. Blade glabrous on both faces (sometimes with scattered hairs), coriaceous, dark glossy green above and paler green below when fresh; dark brown greenish to greyish dark brown dull above and slightly reddish brown below when dry; elliptic to very broadly elliptic or lanceolate, 4.2–19.1 × 2.8–9.5 cm; base asymmetric: distal margin rounded to subcordate and proximal margin attenuate to weakly rounded, lower face dotted with numerous brown resinous points; apex acute acuminate. Midrib glabrous on both faces, weakly prominent above and strongly prominent below. Secondary veins 4–7 pairs, ascending arcuate, glabrous and prominent on both faces. Veinlets in dense prominent reticulum on both faces.
 
-adaxiale), long de 1-6 (-9) cm, glande au sommet de la face supérieure. Axe de la penne glabre (parfois quelques poils épars), cylindrique, long de 9,5-36,6 (-44,5) cm, glandes entre les paires de folioles au sommet ; Folioles 4-7 paires. Pétiolule glabre, long de 3,5-9 mm, fortement canaliculé dessus. Limbe glabre sur les deux faces (parfois quelques poils épars), coriace, vert sombre luisant dessus et vert plus clair dessous à l'état frais ; brun foncé verdâtre à grisâtre marron foncé mat dessus et marron légèrement rougeâtre dessous à l'état sec ; elliptique à très largement elliptique ou blancéolé, 4,2-19,1 × 2,8-9,5 cm ; base asymétrique : bord distal arrondi à subcordé et bord proximal atténué à faiblement arrondi, face inférieure ponctuée de nombreux points résineux bruns ; sommet acuminé aigu. Nervure principale médiane, glabre sur les deux faces, faiblement saillante dessus et fortement saillante dessous. Nervures secondaires 4-7 paires, ascendantes arquées, glabres et saillantes sur les 2 faces. Nervilles en réseau dense saillant sur les deux faces.
+Inflorescence pale green to yellow in axillary or terminal panicles reaching up to 64 cm. Panicle axes very sparsely pubescent at the base, progressively densely pubescent above, longitudinally furrowed. Spikes fasciculate in 2–5, flanked by 3 bracts: median bract densely pubescent except for a glandular patch at the center of the inner face, pale green when living, thick, spatulate, ca. 12.5 mm long, terminated by a long acute point and often 2 lateral points, and 2 lateral bracts linear acute. Bract at base of spike, pubescent externally, lanceolate, ca. 3.5 mm, apex acute. Interfloral bracteoles, pubescent externally, spatulate to weakly claviform 2–3.5 mm long, terminated by an elongate acute point. Floral bud globular. Flowers ♂ or ♂ by abortion, sessile, pentamerous, yellowish to yellow when living; sometimes fragrant. Calyx cylindrical, pubescent externally, 2.5–3.5 mm long; lobes free narrowly lanceolate elliptic, 0.75–1 mm, margins thickened and pubescent, apex acute. Corolla 4–5.5 mm long, pubescent externally; petals strongly appressed to subsoldered, oblong; apex acute reflexed. Stamens 6.5–7 mm long, sublibre to ± soldered at the base; anther oblong, ca. 0.60 mm long, connective prolonged by an oblongoid to globular pedicellate gland early caducous. Pistil subsessile (stipe ca. 0.25 mm long); ovary pubescent, obovoid-oblongoid to oblongoid, 1.5 mm long, containing 6 ovules; style slender ca. 5.5 mm long terminated by a tapered stigma. Often pistillode present by abortion of the pistil, pubescent, lacking a style.
 
-Inflorescence vert pâle à jaune en panicule axillaire ou terminale pouvant atteindre 64 cm. Axes de la panicule très éparsement pubescents à la base, progressivement densément pubescents au-dessus, sillonnés longitudinalement. Épis fasciculés par 2-5, axillés par 3 bractées : bractée médiane densément pubescente sauf tache glanduleuse au centre de la face interne, vert pâle sur le vivant, épaisse, spatulée, longue de ± 12,5 mm, terminée par une longue pointe aiguë et souvent 2 pointes latérales, et bractées latérales 2, linéaires aiguës. Bractée base de l'épi, pubescente extérieurement, lancéolée, ± 3,5 mm, sommet aigu. Bractéoles interflorales, pubescentes extérieurement, spatulées à faiblement claviformes longues de 2-3,5 mm, terminées par une pointe allongée aiguë. Bouton floral globuleux. Fleurs ♂ ou ♂ par avortement, sessiles, pentamères, jaunâtres à jaunes sur le vivant; parfois odorantes. Calice cylindrique, pubescent extérieurement, long de 2,5-3,5 mm ; lobes libres étroitement lancéolés elliptiques, de 0,75-1 mm, bords épaissis et pubescents, sommet aigu. Corolle longue de 4-5,5 mm, pubescente extérieurement ; pétales fortement accolés à subsoudés, oblonges ; sommet aigu réfléchi. Étamines longues de 6,5-7 mm, sublibres à ± soudées à la base ; anthère oblongue, longue de ± 0,60 mm, connectif prolongé par une glande oblongoïde à globuleuse pédiculée tôt caduque. Pistil subsessile (stipe long de ± 0,25 mm); ovaire pubescent, obovoïde-oblongoïde à oblongoïde, long de 1,5 mm, contenant 6 ovules ; style grêle long de ± 5,5 mm terminé par un stigmate effilé. Souvent pistillode présent par avortement du pistil, pubescent, dépourvu de style.
+Pod woody with 2 dehiscence slits, glabrous externally, valves triangular, 10–14 × 5–7 cm, finely longitudinally striate, sutural margin thickened, apex acute asymmetric apiculate. Seeds
 
-Gousse ligneuse à 2 fentes de déhiscence, glabre extérieurement, valves triangulaires,  $ 10-14 \times 5-7 $ cm, finement striées longitudinalement, bord sutural épaissi, sommet aigu asymétrique apiculé. Graines
-
-5-6 marron, luisantes sur le sec, largement ellipsoïdes oblongoïdes à oblongoïdes, 1,8-9,5 × 0,8-1,8 cm, testa papyracé. – Pl. 25, p. 99 ; Pl. 28, Fig. 1-2, p. 107.
+5–6 brown, glossy when dry, broadly ellipsoid oblongoid to oblongoid, 1.8–9.5 × 0.8–1.8 cm, testa papyraceous. – Pl. 25, p. 99; Pl. 28, Fig. 1–2, p. 107.
 
 ## Type
 
@@ -45,21 +41,17 @@ Zenker 890, Cameroun (holo-, B, delef. ; lecto-, P ; iso-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A difference in structure is noted between the ♀ and ♂ flowers. In the former, the petals are more distinctly strongly appressed and the stamens often appear soldered at the base.
 
-On note une différence de structure entre les fleurs ♀ et ♂. Chez les premières, les pétales sont plus nettement fortement apprimés et les étamines apparaissent souvent comme soudués à la base.
+This species is close to C. klainei, but it differs easily by the complete glabrousness of the leaves and by the fruit which remains very different.
 
-Cette espèce est proche de C. klainei, mais elle s'en différencie aisément par la glabrescence totale des feuilles et par le fruit qui reste très différent.
+It is highly variable in the size of the petiole, the rachis of the pinnae, or the blade.
 
-Elle est très variable dans la taille du pétiole, de l'axe des pennes, ou du limbe.
-
-C'est un arbre de forêt dense humide du domaine camerouno-congolais. Son aire s'étend du Nigeria à l'Angola (Cabinda). Il peut être localement très abondant. Au Gabon, il a été peu récolté dans la région côtière et centrale. Les floraisons notées dans ce pays sont abondantes de septembre à novembre tandis qu'au Cameroun et au Nigeria, on note un pic en mars à mai.
+It is a tree of dense humid forest of the Cameroon-Congolian domain. Its range extends from Nigeria to Angola (Cabinda). It can be locally very abundant. In Gabon, it has been little collected in the coastal and central regions. The flowering periods noted in this country are abundant from September to November while in Cameroon and Nigeria, a peak is noted in March to May.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bois utilisable en menuiserie
+wood usable in joinery
 
 ## Vernacular names
 

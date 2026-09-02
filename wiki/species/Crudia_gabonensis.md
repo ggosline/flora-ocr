@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 = Crudia Zenkeri Harms ex De Wild., Bull. Jard. Bot. Brux. 7 : 251 (1920).
 
-Arbres. Feuilles imparipennées à 5-8 folioles alternes, oblongues, longuement acuminées aiguës, longues de 6-15 cm, larges de 2,5 à 5,5 cm. Limbe très légèrement pubescent dessous. Stipules linéaires adhérentes au pétiole mais très caduques.
+Trees. Leaves imparipinnate with 5–8 alternate leaflets, oblong, long-acuminate acute, 6–15 cm long, 2.5–5.5 cm wide. Lamina very slightly pubescent beneath. Stipules linear, adnate to the petiole but very caducous.
 
-Grappes de fleurs rouges à longs pédicelles grêles de 1,5 à 3,5 cm de longueur. Étamines rouges.
+Racemes of red flowers with long, slender pedicels 1.5–3.5 cm in length. Stamens red.
 
-Gousses oblongues, tomenteuses, coriaces, atteignant 30 cm de longueur et 6,5 cm de largeur; 2-5 graines.
+Pods oblong, tomentose, coriaceous, reaching 30 cm in length and 6.5 cm in width; 2–5 seeds.
 
 ## Type
 
@@ -33,9 +31,7 @@ Klaine 3083 Gabon (P). Par suite d'une curieuse confusion, le type de l'espèce 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ce Crudia est un grand arbre de forêt de terre ferme ou aussi de bord des rivières, à fût droit, muni de contreforts ailés au pied. Écorce noirâtre, écailleuse, de tranche mince, jaunâtre rougeâtre.
+This Crudia is a large tree of upland forest or also of riverbanks, with a straight bole, furnished with winged buttresses at the base. Bark blackish, scaly, thin in cross-section, yellowish-reddish.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ostryoderris gabonica (Baill.) Dunn, Bull. Misc. Inf. Kew 1911 : 364 (1911). Arbuste ou liane , 5–20(–40) m de longueur ; jeunes rameaux lenticellés, veloutés, d’abord rouge foncé ; sève résineuse vert jaunâtre, transparente. Stipules lancéolées, 10–35 mm de longueur . Feuilles en touffe concentrée au sommet de la tige ; pétiole 3–6 cm ; rachis 10–20 cm ; stipelles subulées, filiformes, 3–5 mm ; folioles (7–)9 à 11 , opposées ou faiblement alternes, à pétiolule de 3–6 mm, à limbe ovale-oblong à elliptique-oblong, 3,5–10 × 3–5 cm, base arrondie à subcordée, à acumen longuement atténué, papyracé, glabre, luisant et vert fon cé dessus, terne et vert-gris dessous ; nervures en 6 ou 7 paires, saillantes dessous, réticulation peu visible. Inflorescence ample, généralement 30–40 cm de longueur, mais atteignant 1 × 0,6 m ; ramilles latérales alternes, 2–5 cm de longueur, veloutées, pourpre foncé ; bractées ovales-lancéolées, 5–7 × 3 mm, concaves et recouvrant le bouton floral , veloutées. Fleur : pédicelle 3–4 mm ; bractéoles ovales, au sommet du pédicelle, 3–4 mm de longueur ; calice ovoïde, ± 7 mm de longueur, velouté, brun rosâtre, à dents minuscules de 0,5–1 mm de lon gueur ; corolle ± 2 cm de longueur, blanche ou blanc verdâtre , étendard tacheté de vert près la base ; étamines à filets longs et courts alternants ; ovaire sessile, linéaire, avec 3 à 5 ovules. Gousse oblongue , 10–15 × 4 cm , sommet et base obtus, rouge foncé ou orange , avec 1 à 3 graines, ailes 7–10 mm de largeur. Graine lenticulaire , très plate, ± arrondie à asymétrique, ± 18 × 13 mm, brun clair ou rougeâtre.
+Ostryoderris gabonica (Baill.) Dunn, Bull. Misc. Inf. Kew 1911 : 364 (1911). Shrub or vine, 5–20(–40) m long; young branches lenticellate, velutinous, initially dark red; resinous sap yellowish-green, transparent. Stipules lanceolate, 10–35 mm long. Leaves in a concentrated tuft at the stem apex; petiole 3–6 cm; rachis 10–20 cm; stipels subulate, filiform, 3–5 mm; leaflets (7–)9 to 11, opposite or weakly alternate, with petiolule 3–6 mm, limb oval-oblong to elliptic-oblong, 3.5–10 × 3–5 cm, base rounded to subcordate, with a long attenuate acumen, papyraceous, glabrous, shiny and dark green above, dull and grey-green below; veins in 6 or 7 pairs, prominent below, reticulation scarcely visible. Inflorescence ample, generally 30–40 cm long, but reaching 1 × 0.6 m; lateral branchlets alternate, 2–5 cm long, velutinous, dark purple; bracts oval-lanceolate, 5–7 × 3 mm, concave and covering the floral bud, velutinous. Flower: pedicel 3–4 mm; bracteoles oval, at the apex of the pedicel, 3–4 mm long; calyx ovoid, ± 7 mm long, velutinous, brownish-pink, with tiny teeth 0.5–1 mm long; corolla ± 2 cm long, white or whitish-green, standard spotted with green near the base; stamens with long and short filaments alternating; ovary sessile, linear, with 3 to 5 ovules. Pod oblong, 10–15 × 4 cm, apex and base obtuse, dark red or orange, with 1 to 3 seeds, wings 7–10 mm wide. Seed lenticular, very flat, ± rounded to asymmetric, ± 18 × 13 mm, light brown or reddish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Libéria, Nigéria, Cameroun, République centrafricaine, Guinée équatoriale, Gabon et République démocratique du Congo ; au Gabon, dans toutes les provinces
+Sierra Leone, Liberia, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon and Democratic Republic of the Congo; in Gabon, in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts et lisières de forêt, endroits secondaires, à 0–500 m d’altitude. Floraison en novembre, fruits de décembre à février. b : Hauman (1954d), Hawthorne & Jongkind (2006). ibliographie
+forests and forest margins, secondary places, at 0–500 m altitude. Flowering in November, fruits from December to February. Bibliography: Hauman (1954d), Hawthorne & Jongkind (2006).
 
 ## Notes
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Shrubs. Leaves with 4–7 pairs of leaflets, oblong elongate, caudate acuminate, rounded or obtuse at the base, 15–28 × 5–7 cm, densely appressed silky, golden or silvery beneath. Lateral nerves 9–16 pairs, arched and ascending. Rachis 25–30 cm long.
 
-Arbres. Arbustes. Feuilles à 4-7 paires de folioles, oblongues allongées, caudées acuminées, arrondies ou obtuses à la base, de 15-28 × 5-7 cm, densément soyeuses apprimées, dorées ou argentées dessous. Nervures latérales 9-16 paires, arquées et ascendantes. Rachis long de 25-30 cm.
+Inflorescences on old wood, on very long pendulous ferruginous tomentose axes, reaching 35 cm long, bearing small very spaced racemes measuring up to 6 cm. Bracts caducous. Pedicels 6–10 mm. Bracteoles 11–12 mm long. One large petal and 4 rudimentary ones.
 
-Inflorescences sur le vieux bois, en très longs axes pendants tomenteux ferrugineux, atteignant 35 cm de long, garnis de petits racèmes très espacés mesurant jusqu'à 6 cm. Bractées caduques. Pédicelles de 6-10 mm. Bractéoles longues de 11-12 mm. Un grand pétale et 4 rudimentaires.
-
-Longues gousses ligneuses, ridées obliquement.
+Long woody pods, obliquely wrinkled.
 
 ## Type
 

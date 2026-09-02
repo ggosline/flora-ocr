@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou arbuste lianescent , parfois arbuste ; ramilles pubescentes, glabrescentes. Stipules étroitement ovales-triangulaires, 1–3 mm de longueur, pubescentes. Feuille : pétiole à pulvinus séparés , (11–)17–40(–75) mm, pubescents ; foliole à limbe ovale, (3,5–)7–14 × (1,5–)3–6 cm, arrondi à cordé à la base, sommet graduellement acuminé sur 0,5–1,5 cm, ± densément pubérulent à l’état jeune, très tôt glabrescent ; nervures latérales en (5–)6 à 8(–9) paires. Inflo rescence en racème axillaire de (1–)3–6(–8) cm de longueur, ou parfois groupées en panicule terminale, pubescent ; bractées ± ovales, 1–1,5 mm de longueur. Fleur : bractéoles situées au sommet du pédicelle , largement elliptiques, 1 mm de longueur ; pédicelle 4–6 mm, pubes cent ; calice à deux fentes longitudinales , ± réfléchi, elliptique, 5 × 3–4 mm, pubescent ; étendard largement elliptique, 7 × 8–10 mm, émarginé au sommet, à onglet de 0,5–1 mm, ailes obliquement oblancéolées, 7–8 × 3–4 mm, à onglet de 0,5 mm, pétales de la carène ± falci formes, 7 × 3–4 mm, à onglet de 0,5–1 mm ; étamines 6–10 mm de longueur, anthères 1 mm de longueur ; pistil 7–10 mm de longueur, ovaire à poils apprimés , à 2 ou 3 ovules. Gousse ± falciforme, 4–4,5 × 0,6–0,7 cm , à poils apprimés, à 1 ou 2 graines. Graine ellipsoïde, aplatie, jusqu’à 10 × 5 mm, brune.
+Liane or lianeae shrub, sometimes shrub; branchlets pubescent, glabrescents. Stipules narrowly ovate-triangular, 1–3 mm in length, pubescent. Leaf: petiole with pulvini separated, (11–)17–40(–75) mm, pubescent; leaflet with ovate blade, (3.5–)7–14 × (1.5–)3–6 cm, rounded to cordate at base, apex gradually acuminate over 0.5–1.5 cm, ± densely puberulent when young, very soon glabrescents; lateral veins in (5–)6 to 8(–9) pairs. Inflorescence in axillary raceme of (1–)3–6(–8) cm in length, or sometimes grouped in terminal panicle, pubescent; bracts ± ovate, 1–1.5 mm in length. Flower: bracteoles situated at apex of pedicel, broadly elliptic, 1 mm in length; pedicel 4–6 mm, pubescent; calyx with two longitudinal slits, ± reflexed, elliptic, 5 × 3–4 mm, pubescent; standard broadly elliptic, 7 × 8–10 mm, emarginate at apex, with claw 0.5–1 mm, wings obliquely oblanceolate, 7–8 × 3–4 mm, with claw 0.5 mm, keel petals ± falciform, 7 × 3–4 mm, with claw 0.5–1 mm; stamens 6–10 mm in length, anthers 1 mm in length; pistil 7–10 mm in length, ovary with appressed hairs, with 2 or 3 ovules. Pod ± falciform, 4–4.5 × 0.6–0.7 cm, with appressed hairs, with 1 or 2 seeds. Seed ellipsoid, flattened, up to 10 × 5 mm, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, de la Guinée à Madagascar ; au Gabon, connue de la moitié Nord du pays : Estuaire, Moyen-Ogooué, Woleu-Ntem, Ogooué-Ivindo
+Tropical Africa, from Guinea to Madagascar; in Gabon, known from the northern half of the country: Estuary, Middle-Ogooué, Woleu-Ntem, Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondarisée ; au Gabon à 400–800 m d’altitude, ailleurs à 0–1450 m
+Primary or secondarized forest; in Gabon at 400–800 m altitude, elsewhere at 0–1450 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Brummitt (1965, 1968b) a subdivisé cette espèce en 4 sous-espèces, reprises par Soladoye (1985). Malheureusement, la clé présentée par cet auteur pour les quatre sous-espèces ne fonctionne pas pour le matériel du Gabon, lequel est ± intermédiaire entre subsp. multiflora (Harms) Brummitt et subsp. polygalacea Brummitt ( B. polygalacea Baker) ; raison pour laquelle nous avons abandonné cette subdivision ici. b : Brummitt (1965, 1968b), Soladoye (1985), Toussaint (1953). ibliographie
+Brummitt (1965, 1968b) subdivided this species into 4 subspecies, taken up by Soladoye (1985). Unfortunately, the key presented by this author for the four subspecies does not work for the Gabonese material, which is ± intermediate between subsp. multiflora (Harms) Brummitt and subsp. polygalacea Brummitt (B. polygalacea Baker); reason for which we have abandoned this subdivision here. b: Brummitt (1965, 1968b), Soladoye (1985), Toussaint (1953). ibliography
 
 ## Notes
 

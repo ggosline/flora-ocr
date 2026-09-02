@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 nomen. — Pellegrin, Not. Syst. 2 : 293 (1911-1913); Lég. Gabon : 34 (1948). — de Saint Aubin, For. Gabon : 89 (1963).
 
-Arbres. Feuilles à 11-19 folioles alternes à subopposées, chacune munie d'une stipelle filiforme, persistante, de 4-10 mm de longueur. Folioles oblongues, arrondies à subcordées à la base, atténuées au sommet, qui est parfois subaigu ou obtusément acuminé, de 6-18 cm de long sur 2-6 cm de large, coriaces, pubescentes (poils frisés) en dessous à pubérulentes. Nervurcs secondaires 12-20 paires, proéminentes dessous, se rejoignant en arcs, très près de la marge. Réseau de nervilles également saillantes dessous.
+Trees. Leaves with 11-19 alternate to subopposite leaflets, each provided with a filiform, persistent stipel, 4-10 mm in length. Leaflets oblong, rounded to subcordate at the base, attenuate at the apex, which is sometimes subacute or obtusely acuminate, 6-18 cm long by 2-6 cm wide, coriaceous, pubescent (curled hairs) beneath to puberulous. Secondary nerves 12-20 pairs, prominent beneath, joining in arcs, very close to the margin. Network of nervules equally salient beneath.
 
-Longues panicules très fleuries, ferrugineuses. Pétales longs de 5,5 mm à 2 lobes en rubans. Ovaire hirsute à simplement velu sur les marges.
+Long, very floriferous, ferruginous panicles. Petals 5.5 mm long with 2 ribbon-like lobes. Ovary hirsute to simply hairy on the margins.
 
-Fruit de 15-22 × 5-7 cm. Graines 3 × 1 cm.
+Fruit 15-22 × 5-7 cm. Seeds 3 × 1 cm.
 
 ## Vernacular names
 
@@ -44,9 +42,7 @@ Klaine 1369 Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est très rare dans le bassin sédimentaire du Gabon, mais serait un peu plus fréquente dans la région de Mékambo (de Saint-Aubin).
+This species is very rare in the sedimentary basin of Gabon, but would be somewhat more frequent in the Mékambo region (de Saint-Aubin).
 
 ## Specimens examined
 
@@ -74,21 +70,19 @@ Itsogho, vallée de l'Icobé (fl. nov.); 7397, Lastoursville (fl. juin).
 
 **Pages**: 40-41 · **Source**: `sources/Millettiaspeciesfabaceae_vol49_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Lecomte , Notul. Syst. 2 : 293 (1912). A. klaineanus Pierre ex Pellegr. , in Lecomte, Notul. Syst. 2 : 292 (1912). Arbre de 20–50 m de hauteur ; tronc à contreforts de 1,2–3 m de hauteur ; écorce rainurée, gris-brun, à exsudat rouge. Stipules caduques, ovales-lancéolées, 10–20 × ± 5 mm, à pubes cence courte. Feuilles en touffe terminale ; pétiole et rachis cylindriques, longs de 20–25 cm au total ; stipelles linéaires, 3–8 mm de longueur ; folioles 11 à 23, alternes ou subopposées , à pétiolule de 2–5 mm, à limbe de 3–18 × 2–7 cm, base arrondie à subcordée, sommet obtus ou peu aigu , glabre dessus, à pubescence ferrugineuse dessous ; nervures secondaires en 8 à 20 paires, saillantes, réticulations saillantes sur les deux faces. Inflorescence 7–30 cm de longueur, lâche, ferrugineuse, à odeur écœurante-douceâtre. Fleur : pédicelle ± 1,5 mm ; calice à tube de ± 2 mm de longueur, lobes ± 2 mm de longueur ; pétales crème à jaunes , lobes ondulés, ± 5 mm de longueur ; étamines exsertes, anthères ovales ; ovaire elliptique, aplati, pubescent ou muni de quelques poils sur le bourrelet de la suture ; style oblique, stigmate peu distinct. Gousse peu stipitée, ellipsoïde , 15–22 × 5–7 cm, base cunéiforme, sommet arrondi, partie centrale de la valve aux nervures réticulées et plus fines et saillantes que les autres nervures longitudinales. Graine 2–3 × 0,8–1 cm.
+in Lecomte, Notul. Syst. 2 : 293 (1912). A. klaineanus Pierre ex Pellegr., in Lecomte, Notul. Syst. 2 : 292 (1912). Tree 20–50 m in height; trunk with buttresses 1.2–3 m in height; bark furrowed, grey-brown, with red exudate. Stipules caducous, ovate-lanceolate, 10–20 × ± 5 mm, with short pubescence. Leaves in terminal tuft; petiole and rachis cylindrical, 20–25 cm in total length; stipels linear, 3–8 mm in length; leaflets 11 to 23, alternate or subopposite, with petiolule 2–5 mm, with blade 3–18 × 2–7 cm, base rounded to subcordate, apex obtuse or slightly acute, glabrous above, with ferruginous pubescence beneath; secondary nerves in 8 to 20 pairs, salient, reticulations salient on both faces. Inflorescence 7–30 cm in length, lax, ferruginous, with sickly-sweet odour. Flower: pedicel ± 1.5 mm; calyx with tube ± 2 mm in length, lobes ± 2 mm in length; petals cream to yellow, lobes wavy, ± 5 mm in length; stamens exserted, anthers ovate; ovary elliptic, flattened, pubescent or with a few hairs on the sutural rim; style oblique, stigma indistinct. Legume shortly stipitate, ellipsoid, 15–22 × 5–7 cm, base cuneiform, apex rounded, central part of the valve with reticulate nerves finer and more salient than the other longitudinal nerves. Seed 2–3 × 0.8–1 cm.
 
 ### Distribution
 
-Cameroun, Guinée équatoriale, Gabon, République démocratique du Congo et Angola ; au Gabon, connue de l’Estuaire, du Moyen-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo and Angola; in Gabon, known from Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem.
 
 ### Ecology
 
-forêt primaire, forêt claire, palmeraies ; à 220–480 m d’altitude. Usage : Produit une oléo-résine médicinale. Le bois est utile pour la charpenterie et l’intérieur de la maison
+Primary forest, open forest, palm groves; at 220–480 m altitude. Uses: Produces a medicinal oleo-resin. The wood is useful for carpentry and interior furnishings.
 
 ### Vernacular names
 
-bokanga, edji, lati (noms commerciaux) ; afie, edzi (fang) ; ikókódi (bapunu) ; mbikódi (mitsogo) ; mufumfuga (bavungu) ; nchioumbou. b : Aubréville (1968), Lemmens (2008a), Raponda-Walker & Sillans (1961), Wilczek (1952). ibliographie
+bokanga, edji, lati (trade names); afie, edzi (Fang); ikókódi (Bapunu); mbikódi (Mitsogo); mufumfuga (Bavungu); nchioumbou. b: Aubréville (1968), Lemmens (2008a), Raponda-Walker & Sillans (1961), Wilczek (1952). ibliography
 
 ## Notes
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, 0,15–1(–1,3) m de hauteur ; tige érigée, peu ramifiée, aux poils raides, denses et apprimés. Stipules minuscules, obscurcies par les poils. Feuille simple ; pétiole 1–4 mm ; limbe linéaire à oblong-lancéolé , 4–15 × 0,4–1,5 cm, à sommet aigu, glabre dessus, sauf sur la nervure centrale, pileux dessous, à petits points pellucides . Inflorescence à fleurs axillaires et en racèmes terminaux pauciflores ; bractées lancéolées, 6–18 mm de longueur , à sommet caudé. Fleur : bractéoles sous le calice, égales ; calice en deux lèvres, plus longues que la corolle, accrescentes en fruit et atteignant 2–3 cm de longueur , à pubescence longue, brun foncé, glabre intérieurement, 2 lobes supérieurs oblongs-lancéolés, 3 ou 4 fois la longueur du tube, long de 3–7 mm, 3 lobes inférieurs plus étroits ; étendard elliptique-oblong, ± 15 × 8–11 mm, jaune pâle , sommet avec quelques poils sur le dos, ailes presqu’aussi longue que la carène subangulaire, 15–17 mm de longueur , à rostre tordu et marge supérieure poilue, jaune pâle. Gousse sessile, subcylindrique , 2–2,5 cm de longueur, glabre , brun foncé, avec 16 à 36 graines . Graine ± triangulaire-ovoïde, 2,5–3 mm de diamètre, lisse, brillante, jaune pâle à brun pâle .
+Annual herb, 0.15–1(–1.3) m tall; stem erect, sparingly branched, with stiff, dense, appressed hairs. Stipules minute, obscured by hairs. Leaf simple; petiole 1–4 mm; blade linear to oblong-lanceolate, 4–15 × 0.4–1.5 cm, acute at apex, glabrous above except on the midvein, pilose below, with small pellucid dots. Inflorescence with axillary flowers and few-flowered terminal racemes; bracts lanceolate, 6–18 mm long, caudate at apex. Flower: bracteoles below the calyx, equal; calyx in two lips, longer than the corolla, accrescent in fruit and reaching 2–3 cm long, with long dark brown pubescence, glabrous within, 2 upper lobes oblong-lanceolate, 3 or 4 times the length of the tube, 3–7 mm long, 3 lower lobes narrower; standard elliptic-oblong, ± 15 × 8–11 mm, pale yellow, apex with some hairs on the back, wings almost as long as the subangular keel, 15–17 mm long, with twisted rostrum and pilose upper margin, pale yellow. Pod sessile, subcylindric, 2–2.5 cm long, glabrous, dark brown, with 16 to 36 seeds. Seed ± triangular-ovoid, 2.5–3 mm in diameter, smooth, shiny, pale yellow to pale brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bien répandue en Afrique tropicale, sauf le Sud et le Nord-Est, aussi en Asie et le Nord de l’Australie ; au Gabon, connue de l’Estuaire, du Moyen-Ogooué, de la Nyanga et de l’Ogooué-Ivindo
+widely distributed in tropical Africa, except the South and North-East, also in Asia and northern Australia; in Gabon, known from Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+savannas with humid seasons, ruderal places; in Gabon at 0–150 m altitude, elsewhere, up to 2100 m. Flowers and fruits in January and February, May and July. Bibliography: Pellegrin (1949), Polhill (1982, 2003), Raponda-Walker & Sillans (1961), Wilczek (1953)
 
-savanes avec saisons humides, endroits rudéraux ; au Gabon à 0–150 m d’altitude, ailleurs, jusqu’à 2100 m. Fleurs et fruits en janvier et février, mai et juillet. b : Pellegrin (1949), Polhill (1982, 2003), Raponda-Walker & Sillans (1961), Wilczek ibliographie (1953)
-
-Fleur épanouie (× 1). – 4. Fleur épanouie, coupe longitudinale (× 1). – 5. Calice (× 1). – 6. Androcée en coupe longitudinale et gynécée (× 2). – 7. Graine (× 3). (1–7 : Bequaert 5324 ). Dessin par A. Cleuter, Jardin Botanique Meise (©).
+Open flower (× 1). – 4. Open flower, longitudinal section (× 1). – 5. Calyx (× 1). – 6. Androecium in longitudinal section and gynoecium (× 2). – 7. Seed (× 3). (1–7: Bequaert 5324). Drawing by A. Cleuter, Meise Botanical Garden (©).
 
 ## Notes
 

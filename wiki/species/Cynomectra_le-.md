@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 1, Mém. Soc. Linn. Norm. 16 : 107 (1924); Lég. Gabon : 87 (1949). — Bak. f. Lég. Trop. Afr. : 766 (1930).
 
-Petits arbres. Rameaux lenticellés. Bourgeons écailleux, velus. Feuilles bifoliolées. Pétiole 3 mm, glabre. Pétiolules 1 mm. Folioles oblongues, dissymétriques, acuminées émarginées, glabres, longues de 6-10 cm, larges de 2,5-4,5 cm. Nervures secondaires une dizaine de paires, peu distinctes d'un reticulum fin, visible dessous. Présence d'une glande noire saillante sur la face inférieure du limbe, près du pétiolule, parfois peu distincte.
+Small trees. Branchlets lenticellate. Buds scaly, villous. Leaves bifoliolate. Petiole 3 mm, glabrous. Petiolules 1 mm. Leaflets oblong, asymmetrical, acuminate emarginate, glabrous, 6–10 cm long, 2.5–4.5 cm wide. Secondary veins about ten pairs, scarcely distinct from a fine reticulum, visible beneath. Presence of a prominent black gland on the lower surface of the blade, near the petiolule, sometimes scarcely distinct.
 
-Inflorescences en très petits racèmes axillaires, à l’aspect de petits glomérules peu fleuris, blancs.
+Inflorescences in very small axillary racemes, appearing as small poorly flowered glomérules, white.
 
-Pédicelle de 4 mm, velu. Bractéoles 2 à mi hauteur, longues de 3 mm, un peu velues. Sépales 4, presque glabres, longs de 4 mm. Pétales lancéolés, étroitement onguiculés, glabres, de 5 × 1,5 mm. Étamines 10 à filets glabres. Ovaire hirsute, biovulé. Fruit inconnu.
+Pedicel 4 mm, villous. Bracteoles 2 at mid-height, 3 mm long, somewhat villous. Sepals 4, nearly glabrous, 4 mm long. Petals lanceolate, narrowly unguiculate, glabrous, 5 × 1.5 mm. Stamens 10 with glabrous filaments. Ovary hirsute, biovulate. Fruit unknown.
 
 ## Type
 
@@ -38,9 +36,7 @@ Le Testu, 2115, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce ripicole du Mayombé.
+Riparian species of the Mayombé.
 
 ## Specimens examined
 

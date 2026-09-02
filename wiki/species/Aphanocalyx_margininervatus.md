@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves with one pair of opposite leaflets, sessile, glabrous, asymmetric, obliquely ovate-lanceolate, acuminate, attenuate at the base. The limb is delimited on the inner side by a straight marginal vein. Two basal veins very ascendant, the innermost of which extends from the base to the apex. Petiole short, 7-8 mm.
 
-Feuilles à une paire de folioles opposées, sessiles, glabres, asymétriques, obliquement ovées lancéolées, acuminées, atténuées à la base. Le limbe est limité du côté interne par une nervure marginale rectiligne. Deux nervures basiliaires très ascendantes, dont la plus interne s'étend de la base au sommet. Pétiole court, 7-8 mm.
-
-Petites grappes axillaires de 2-3 cm, à axes tomentaux ferrugineux. Pédicelles 2-5 mm. Bractéoles valvaires, velues ferrugineuses. 1 grand pétale de 5-7 mm. 10 étamines. Ovaire hirsute, très courtement stipité.
+Small axillary racemes of 2-3 cm, with ferruginous tomentose axes. Pedicels 2-5 mm. Valvate bractlets, ferruginous hairy. 1 large petal of 5-7 mm. 10 stamens. Ovary hirsute, very shortly stipitate.
 
 ## Type
 
@@ -29,9 +27,7 @@ Zenker 3751, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce du Cameroun et du Gabon, s'étend au Kasaï (F.C.B.)
+Species of Cameroon and Gabon, extending to Kasai (F.C.B.)
 
 ## Vernacular names
 

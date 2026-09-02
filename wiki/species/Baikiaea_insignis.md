@@ -25,15 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, and subsp. minor (Oliv.) Léonard, F.C.B. 3 : 301 (1952), var. fragrantissima (Bak. f.) Léonard, F.C.B. 3 : 302 (1952).
 
-, et subsp. minor (Oliv.) Léonard, F.C.B. 3 : 301 (1952), var. fragrantissima (Bak. f.) Léonard, F.C.B. 3 : 302 (1952).
+Small trees, shrubs. Stipules small, striate, intrapetiolar. Leaves with (2-7) 3-8 (-10) leaflets generally alternate. Rachis 3-30 cm long. Leaflets of highly variable shape, elliptic or oblong, obtuse or acuminate, acute to obtuse at the base, 7 to 40 cm long, 3 to 17 cm wide, with margins ± recurved, glabrous, coriaceous. Midvein prominent beneath. Secondary veins, numbering about ten, with an irregular course that divides into several more or less anastomosing branches in the veinlet network, then into a marginal vein sometimes prominent, all on the very fine framework of a veinlet network sometimes poorly apparent. Most often veinlets and veins are scarcely visible, sometimes on the contrary they are finely raised. The marginal vein presents at the base and on one side only a ± marked swelling (domatium). Petiolules 6-20 mm.
 
-Petits arbres, arbustes. Stipules petites, striées, intrapétiolaires. Feuilles à (2-7) 3-8 (-10) folioles généralement alternes. Rachis long de 3-30 cm. Limbe de forme très variable, elliptique, ou oblong, obtus ou acuminé, aigu à obtus à la base, long de 7 à 40 cm, large de 3 à 17 cm, à marges ± récurvées, glabre, coriace. Nervure médiane proéminente dessous. Les nervures secondaires au nombre d'une dizaine ont un tracé irrégulier qui se divise en plusieurs branches plus ou moins anastomosées au réseau des nervilles, puis à une nervure marginale parfois forte, toutes sur la trame très fine d'un réseau de veinules parfois peu apparente. Le plus souvent veinules et nervures sont peu visibles, parfois au contraire elles sont finement saillantes. La nervure marginale présente à la base et d'un seul côté un renflement ± marqué (domatie). Pétioïlues de 6-20 mm.
+Racemes axillary or terminal, of large white and cream flowers, few in number, with axes densely velvety brown. Bracts and bracteoles generally small and caducous. Pedicels 2-5 cm. Floral buds rusty villous. Calyx tube turbinate, thick, 1-7 cm long. Lobes velvety, brown externally, up to 2 cm, linear, reaching up to 11 cm; inside with appressed silky hairs. Petals reaching up to 20 cm in length, obovate, attenuate into a long claw, villous on either side of the midvein. Stamens 10, exserted. Filaments unequally connate at the base into a sheath villous externally. Anthers dorsifixed, incurved, 1.2 cm long. Ovary long-stipitate, densely tawny villous. Ovules 6-8. Style glabrous, 5 cm in length, terminated by a small subglobose stigma.
 
-Grappes axillaires ou terminales, de grandes fleurs blanches et crème, peu nombreuses, à axes densément veloutés brun. Bractées et bractéoles généralement petites et caduques. Pédicelles de 2-5 cm. Boutons floraux velus roux. Tube du calice turbiné, épais, long de 1-7 cm. Lobes veloutés, bruns extérieurement, jusqu'à 2 cm, linéaires, atteignant jusqu'à 11 cm; en dedans poils soyeux apprimés. Pétales pouvant atteindre 20 cm de longueur, obovés, atténués en un long onglet, velus de part et d'autre de la nervure médiane. Étamines 10, exsertes. Filets inégalement soudés à la base en une gaine velue extérieurement. Anthères dorsifixes, incurvées, longues de 1,2 cm. Ovaire longuement stipité, densément velu fauve. Ovules 6-8. Style glabre, de 5 cm de longueur, terminé par un petit stigmate subglobuleux.
-
-Gousse veloutée fauve, de 20-40 cm de longueur sur 6-12 cm de largeur, plate, avec des sutures épaissies.
+Pod velvety tawny, 20-40 cm long by 6-12 cm wide, flat, with thickened sutures.
 
 ## Type
 
@@ -41,9 +39,7 @@ Mann, Fernando Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ce petit arbre ripicole est répandu depuis la Nigéria du Sud jusqu'en Ouganda, et au sud jusqu'en Angola.
+This small riparian tree is widespread from southern Nigeria to Uganda, and south to Angola.
 
 ## Vernacular names
 

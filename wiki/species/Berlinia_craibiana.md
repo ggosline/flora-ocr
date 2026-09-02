@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs and bushy small trees. Leaves with 4-6 pairs of leaflets, oblong-elliptic, longly acuminate, 5 to 18 cm in length and 3-8 cm in width. 6-8 pairs of lateral nerves.
 
-Arbustes, arbrisseaux buissonnants. Feuilles à 4-6 paires de folioles, oblongues-elliptiques, longuement acuminées, de 5 à 18 cm de longueur sur 3-8 cm de largeur. 6-8 paires de nervures latérales.
-
-Fortes inflorescences en panicules tomenteuses. Bractéoles obovées, de 4,5 à 4,8 cm de longueur sur 2 à 2,8 cm de largeur, très épaisses. Limbe du pétale postérieur jusqu'à 7 cm de largeur.
+Strong inflorescences in tomentose panicles. Bracteoles obovate, 4.5 to 4.8 cm in length and 2 to 2.8 cm in width, very thick. Lamina of the posterior petal up to 7 cm in width.
 
 ## Type
 
@@ -33,11 +31,9 @@ Talbot 1524, Oban, Nigéria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree of riverbanks and marshy terrain in southern Nigeria, Cameroon and Gabon. In the original diagnosis, Talbot indicates the type as coming from a tree of 40 m.
 
-Arbre du bord des rivières, et des terrains marécageux du sud de la Nigéria, au Cameroun et au Gabon. Dans la diagnose originale, Talbot indique le type comme provenant d'un arbre de 40 m.
-
-L’écorce serait utilisée comme laxatif.
+The bark would be used as a laxative.
 
 ## Specimens examined
 

@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs. Leaves with 2–3 pairs of opposite leaflets. Leaflets oblong, somewhat falcate, 12–25 × 4–10 cm, acuminate, glabrous, with 6–10 pairs of lateral veins. Network finely prominent of veinlets beneath.
 
-Arbustes. Feuilles à 2-3 paires de folioles opposées. Folioles oblongues, un peu falciformes, de 12-25 × 4-10 cm, acuminées, glabres, à 6-10 paires de nervures latérales. Réseau finement saillant de nervilles en dessous.
-
-Inflorescences en groupes de racèmes, jusqu'à 10 cm de longueur; axes glabres. Bractéoles de 2 cm de longueur environ et de 1 cm de largeur, très finement pubérulentes extérieurement et apparemment glabres. Pédicelles longs de 1 à 1,5 cm. Tube du calice long de 7-8 mm, glabre. Grand pétale jusqu'à 5 cm de longueur sur 3 cm de largeur.
+Inflorescences in groups of racemes, up to 10 cm in length; axes glabrous. Bracteoles about 2 cm in length and 1 cm in width, very finely puberulent externally and apparently glabrous. Pedicels 1 to 1.5 cm long. Calyx tube 7–8 mm long, glabrous. Large petal up to 5 cm in length by 3 cm in width.
 
 ## Type
 
@@ -29,11 +27,9 @@ Mann 2195, Cameroun River (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Of our Berlinia species, it is the one with the smallest flowers. It is a shrub or bushy tree, frequent on the beaches of Cape Estérias in Gabon.
 
-De nos espèces de Berlinia, c'est celle qui a les plus petites fleurs. C'est un arbuste ou arbrisseau buissonnant, fréquent sur les plages du Cap Estérias au Gabon.
-
-Répandu du sud de la Nigéria au Gabon.
+Distributed from southern Nigeria to Gabon.
 
 ## Specimens examined
 

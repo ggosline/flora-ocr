@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Branchlets lenticellate. Buds in scaly cones. Leaves alternate, generally with 3 pairs of opposite leaflets (rarely 2 or 4), of decreasing size from top to bottom of the rachis, ovate-lanceolate, asymmetrical, obtuse at the base, attenuate into an emarginate acumen at the apex, sessile, glabrous, 4–7 cm long by 1.5–2 cm wide for the upper ones, the lower ones smaller. Rachis short, 2.5–4 cm, pubescent. Midvein somewhat prominent on both surfaces.
 
-Arbres. Rameaux lenticellés. Bourgeons en cônes écailleux. Feuilles alternes, généralement à 3 paires de folioles opposées (rarement 2 ou 4), de grandeur décroissante du haut en bas du rachis, ovées lancéolées, dissymétriques, obtuses à la base, atténuées en un acumen émarginé au sommet, sessiles, glabres, de 4-7 cm de longueur sur 1,5-2 cm de largeur pour les supérieures, les inférieures plus petites. Rachis court de 2,5-4 cm, pubescent. Nervure médiane un peu saillante sur les 2 faces.
+Flowers white in small dense axillary racemes. Pedicels hairy 8–12 mm, not articulate. Bracts 2–4 mm, caducous. Bracteoles linear, caducous, hairy, not involucral, approximately 0.5 mm. Sepals 4, oblong, approximately 4–5 × 2–3 mm. Petals 5, linear, approximately 5–6 mm by 1 mm. Stamens 10, glabrous. Ovary hirsute, uniovulate.
 
-Fleurs blanches en petites grappes denses axillaires. Pédi-celles velus 8-12 mm, non articulés. Bractées de 2-4 mm, caduques. Bractéoles linéaires, caduques, velues, non involucrales, d'environ 0,5 mm. Sépales 4, oblongs, environ 4-5 × 2-3 mm. Pétales 5, linéaires, de 5-6 mm environ sur 1 mm. Étamines 10, glabres. Ovaire hirsute, uniovulé.
-
-Petites gousses suborbiculaires, longues de 3 cm environ, apiculées, courtement pédonculées, à surface très verruqueuse, s'ouvrant en 2 valves ligneuses, contenant une seule graine plate, discoide.
+Small suborbicular legumes, approximately 3 cm long, apiculate, shortly pedicellate, with very verrucose surface, opening into 2 woody valves, containing a single flat, discoid seed.
 
 ## Type
 
@@ -31,9 +29,7 @@ Mann 707, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petits arbres ou arbustes ripicoles, depuis la Nigéria du sud jusqu'au Congo et San Tomé. Très commun au Gabon sur les berges des rivières, au bord des lacs et de la mangrove. Fût court, très irrégulier, tortueux. Cime extrêmement touffue au fin feuillage vert noirâtre. Écorce noirâtre, épaisse.
+Small trees or riparian shrubs, from southern Nigeria to the Congo and São Tomé. Very common in Gabon on riverbanks, by lakesides and in mangrove. Stem short, very irregular, tortuous. Crown extremely dense with fine dark greenish foliage. Bark dark, thick.
 
 ## Vernacular names
 

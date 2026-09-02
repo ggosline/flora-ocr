@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs. Leaves with 6–7 pairs of oblong elongate leaflets, abruptly attenuated at the apex into a fine and acute acumen, covered with appressed silky hairs below, golden then grey, 10–30 cm long by 3–6 cm wide. Lateral nerves 12–20 pairs, arched, ascending. Rachis hairy, 30–50 cm. Stipules remarkably developed, embracing the young branchlets, numerous, crowded, foliaceous, hairy, longitudinally nerved, 6–8 cm long.
 
-Arbustes. Feuilles à 6-7 paires de folioles oblongues allongées, brusquement atténuées au sommet en un acumen fin et aigu, couvertes de poils apprimés soyeux en dessous, dorés puis gris, longues de 10-30 cm sur 3-6 cm de largeur. Nervures latérales 12-20 paires, arquées, ascendantes. Rachis velu, de 30-50 cm. Stipules remarquablement développées, embrassant les jeunes rameaux, nombreuses, serrées, foliacées, velues, nervurées longitudinalement, de 6-8 cm de longueur.
+Flowers in small composed hairy spikes, fasciculate, very floriferous, approximately 8 cm, on the trunk and branches. Pedicels hairy, up to 2.5 cm long. Bracts oval 3–4 mm. Involucral bracteoles, 8–12 mm. Sepals 4, the posterior bidentate, 7–8 mm long. One large bilobed petal, with a long claw. Ovary hairy, subsessile; ovules 6–8.
 
-Fleurs en petites grappes composées velues, fasciculées, très fleuries, de 8 cm environ, sur le tronc et les branches. Pédicelles velus, jusqu'à 2,5 cm de longueur. Bractées ovales de 3-4 mm. Bractéoles involucrales, de 8-12 mm. Sépales 4, le postérieur bidenté, long de 7-8 mm. Un grand pétale bilobé, longuement onguiculé. Ovaire velu, subsessile; ovules 6-8.
-
-Longue gousse ligneuse, velue soyeuse, très ridée transversalement, de  $ 30 \times 4.5 - 5 \, cm $.
+Long woody legume, silky hairy, very wrinkled transversely, 30 × 4.5–5 cm.
 
 ## Type
 
@@ -36,9 +34,7 @@ Mann 920 (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste riccole de 6-8 m.
+Shrub, riparian, 6–8 m.
 
 ## Specimens examined
 

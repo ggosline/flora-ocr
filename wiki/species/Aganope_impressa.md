@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste lianescent , 10–15 m de hauteur ; rameaux striés, glabrescents, exsudant une sève résineuse transparente ou rouge ; ramilles tomenteuses-veloutées. Stipules caduques, lancéolées, 1–2 cm de longueur. Feulle : pétiole cylindrique, 3–4 cm, velouté ; rachis 10–14 cm ; stipelles subulées, 3–7 mm ; folioles en 4 ou 5 paires , à limbe oblong ou obovale, 6–12 × 3–6 cm , base arrondie à cordée, sommet acuminé, glabre et vert foncé dessus, roux-pubescent et vert pâle dessous ; nervures secondaires en 8 à 16 paires, en creux dessus , saillantes dessous. Inflorescence ample, 20–30 cm de longueur, atteignant 2 m comme branche fleurie com posée , rousse-pubescente, à fleurs denses ; ramilles latérales 6–7 cm de longueur ; bractées lancéolées, 1–1,5 cm de longueur . Fleur : pédicelle 1 mm ; calice 5 mm de longueur, à dents larges et courtes, roux, soyeux ; corolle environ 1,5 cm de longueur, blanche , noircissant en séchant , étendard à tache verte à la base ; ovaire velu, à 5 ou 6 ovules. Gousse oblongue , aplatie, 7–14 × 2,5–4,5 cm, lâchement pubescente, glabrescente, ailes larges de 7–10 mm . Graine lenticulaire , ± 1 cm de diamètre.
+Tree or lianescent shrub, 10–15 m in height; branches striate, glabrescent, exuding a transparent or red resinous sap; branchlets tomentulose-velvety. Stipules caducous, lanceolate, 1–2 cm in length. Leaf: petiole cylindrical, 3–4 cm, velvety; rachis 10–14 cm; stipels subulate, 3–7 mm; leaflets in 4 or 5 pairs, with oblong or obovate limb, 6–12 × 3–6 cm, base rounded to cordate, apex acuminate, glabrous and dark green above, rust-pubescent and pale green below; secondary nerves in 8 to 16 pairs, sunken above, prominent below. Inflorescence ample, 20–30 cm in length, reaching 2 m as a flowering branch composed, rust-pubescent, with dense flowers; lateral branchlets 6–7 cm in length; bracts lanceolate, 1–1.5 cm in length. Flower: pedicel 1 mm; calyx 5 mm in length, with broad and short teeth, rust-coloured, silky; corolla approximately 1.5 cm in length, white, blackening on drying, standard with a green spot at the base; ovary hairy, with 5 or 6 ovules. Pod oblong, flattened, 7–14 × 2.5–4.5 cm, loosely pubescent, glabrescent, wings 7–10 mm broad. Seed lenticular, ± 1 cm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt et végétation secondaire, bords des routes, lisières de savane, jachères, forêt marécageuse ; au Gabon à 200–600 m d’altitude, ailleurs à 50–400 m
+Forest and secondary vegetation, roadsides, savanna margins, fallows, swamp forest; in Gabon at 200–600 m elevation, elsewhere at 50–400 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pellegrin (1949) suggère que cette espèce peut se comparer avec Millettia cf. wellensi De Wild., mais les gousses ailées sont caractéristiques. Le type du Millettia nyangensis Pellegr. (espèce seulement connue du type) a été récemment localisé à Paris et représente une espèce d’ Aganope , probablement A. impressa . b : Hauman (1954d), Hawthorne & Jongkind (2006), Hepper (1958), Pellegrin (1949). ibliographie
+Pellegrin (1949) suggests that this species may be compared with Millettia cf. wellensi De Wild., but the winged pods are characteristic. The type of Millettia nyangensis Pellegr. (species known only from the type) was recently located in Paris and represents a species of Aganope, probably A. impressa. Bibliography: Hauman (1954d), Hawthorne & Jongkind (2006), Hepper (1958), Pellegrin (1949).
 
 ## Notes
 

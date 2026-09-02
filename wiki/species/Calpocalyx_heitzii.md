@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - C. klainei auct. non PIERRE ex HARMS: A. CHEV., Bois Gabon: 193 (1917).
 
-Arbre atteignant un diamètre de 85 cm. Contreforts 4-5, épais de 10 cm, faisant un angle de  $ 45^{\circ} $ avec le tronc, profil droit, concave ou convexe. Fût droit. Rhytidome gris argenté, fins bourrelets en diagonale.
+Tree reaching a diameter of 85 cm. Buttresses 4–5, thick 10 cm, making an angle of $ 45^{\circ} $ with the trunk, profile straight, concave or convex. Bole straight. Rhytidome silver-grey, fine diagonal ridges.
 
-Rameaux âgés souvent creux, ridés longitudinalement. Jeunes rameaux pubérulents. Pétiole pubérulent, long de (5,5-) 12-13 cm, ± cylindrique, porteur d'une glande saillante ellipsoïde au sommet. Axe de la penne long de (16,5-) 30-52 cm, pubérulent à éparsement pubérulent, cylindrique à aplati transversalement, face supérieure ± carénée portant entre les insertions des feuilles terminales des glandes, faces latérales avec bourrelets latéraux ± nets. Folioles 8-15 paires, la paire basale souvent réduite à une foliole externe. Pétioule pubérulent à glabre, long de ± 3 mm, canaliculé dessus. Limbe glabre sur les deux faces, vert noirâtre à brun noirâtre ou brun mat ou luisant dessus et vert à brun mat dessous sur le sec, lancéolé oblong, étroitement oblong, elliptique, elliptique lancéolé, atteignant 15 × 3,5 cm ; base ± nettement asymétrique : bord distal arrondi à cordé et bord proximal cordé, arrondi à atténué arrondi, sommet progressivement longuement acuminé. Nervure principale médiane glabre dessus et glabre à pubérulente dessous. Nervures secondaires 7-10 paires, ascendantes arquées, saillantes sur les deux faces, pubescentes dessous. Nervilles en réseau assez dense saillant sur les deux faces.
+Older branches often hollow, longitudinally wrinkled. Young branches puberulent. Petiole puberulent, 5.5–12–13 cm long, ± cylindrical, bearing a prominent ellipsoid gland at the apex. Rachis 16.5–30–52 cm long, puberulent to sparsely puberulent, cylindrical to transversely flattened, upper surface ± keeled bearing glands between the insertions of the terminal leaflets, lateral surfaces with ± distinct lateral ridges. Leaflets 8–15 pairs, the basal pair often reduced to an external leaflet. Petiolule puberulent to glabrous, ± 3 mm long, channelled above. Blade glabrous on both surfaces, dark green to dark brown or dull brown or shiny above and green to dull brown below when dry, lanceolate-oblong, narrowly oblong, elliptic, elliptic-lanceolate, reaching 15 × 3.5 cm; base ± distinctly asymmetric: distal margin rounded to cordate and proximal margin cordate, rounded to attenuate-rounded, apex gradually long-acuminate. Midvein glabrous above and glabrous to puberulent below. Secondary veins 7–10 pairs, ascending-arched, prominent on both surfaces, pubescent below. Tertiary veins in fairly dense network prominent on both surfaces.
 
-Inflorescence en épi axillaire. Axe de l'épi ridé longitudinalement, pubérulent, long de 6-15 cm. Boutons floraux obovoïdes. Fleurs ♂, sessiles ou subsessiles. Calice obconique, long de 2 mm, glabre sauf le sommet des lobes pubescent ; lobes triangulaires, longs de 0,5 mm, sommet aigu. Pétales¹ pubescents extérieurement. Étamines¹ 10, libres entre elles, faiblement soudées à la base aux pétales ; anthère ellipsoïde-oblongue, connectif prolongé par une glande globuleuse. Pistil substité, ovaire ellipsoïde pubescent, long de ± 0,75 mm, à 6 ovules ; style encore court.
+Inflorescence an axillary spike. Rachis of the spike longitudinally wrinkled, puberulent, 6–15 cm long. Floral buds obovoid. Flowers ♂, sessile or subsessile. Calyx obconical, 2 mm long, glabrous except the apex of the lobes pubescent; lobes triangular, 0.5 mm long, apex acute. Petals¹ pubescent on the outside. Stamens¹ 10, free from one another, weakly adnate at the base to the petals; anther ellipsoid-oblong, connective prolonged by a globose gland. Pistil substipitate, ovary ellipsoid pubescent, ± 0.75 mm long, with 6 ovules; style still short.
 
-Gousse ligneuse déhiscente, ± obovée, sinueuse, asymétrique, atteignant  $ 18 \times 4.5 $ cm, base atténuée stipitée, face latérale à bords suturaux non ailés, sommet faiblement réfléchi obtus. Graines 6-8. - Pl. 26, Fig. 1-4, p. 101; Pl. 28, Fig. 5-6, p. 107.
+Legume woody dehiscent, ± obovate, sinuous, asymmetric, reaching $ 18 \times 4.5 $ cm, base attenuate stipitate, lateral surface with non-winged sutural margins, apex weakly reflexed obtuse. Seeds 6–8. – Pl. 26, Fig. 1–4, p. 101; Pl. 28, Fig. 5–6, p. 107.
 
 ## Type
 
@@ -35,17 +33,13 @@ Heitz 40, région de Libreville (P, iso-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce a une aire restreinte au Sud du Cameroun, à la Guinée Équatoriale et au Gabon. Elle peut être grégaire. Elle appartient à la forêt littorale.
+This species has a restricted range in southern Cameroon, Equatorial Guinea and Gabon. It may be gregarious. It belongs to the littoral forest.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+wood usable for heavy work
 
-bois utilisable pour les gros travaux
-
-1. Observations faites sur de jeunes boutons floraux.
+1. Observations made on young floral buds.
 
 ## Vernacular names
 

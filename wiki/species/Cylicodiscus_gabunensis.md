@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Nat. Pflanzenfam, Nachtr. z. 3 (3): 192 (1897); Bot. Jahrb. 26: 256 (1899); CHEVALIER, Bois Gabon: 189 (1917); CHIPPS, For. Handbook Gold Coast: pl. 13 (1922); BAKER F., Legum. Trop. Afr. 3: 110 (1930); IRVINE, Pl. Gold Coast: 141, fig. 37 (1930); Woody Pl. Ghana: 338 (1961); KENNEDY, For. Fl. S. Nigeria: 110 (1936); DALZIEL, Us. Pl. W Afr.: 214 (1937); NOSTI NAVA, Pl. spontanas ut. y prejudiciales de Guiné Espanola: 24 (1951-1952); KEAY, FWTA, ed. 2, 1 (2): 489 (1958); AUBRÉVILLE, FFCI, ed. 2, 1: 178, pl. 66 (1959); TAYLOR, SYNECOLOGY AND SILVICULTURE Ghana: pl. 69 (1960); RAPONDA-WALKER & SILLANS, Pl. ut. Gabon: 240, fig. 85 (1961); SAINT-AUBIN, For. Gabon: 102 (1963); KEAY, ONOCHIE & STANFIELD, Niger. Trees 2: 92 (1964); GUNN, FSGM: 41, tab. p. 43 (1984); VIVIEN & FAURE, AFDAC: 288, pl. p. 289, ph. p. 515 (1985).
 
 – Cyrtoxiphus staudtii HARMS, l.c.: 193 (1897).
 
 – Piptadenia sp. Thompson, Rep. For. Gold Coast (1910).
 
-Grand arbre atteignant une hauteur de 60 m pour un diamètre de 1,70 m. Fût élevé, droit, cylindrique, 24 m sous les premières ramifications, fortement épaissi à la base et parfois faiblement cannelé. Rhytidome se desquamant en plaques liégeuses, épaisses, ± rectangulaires, s'effritant. Écorce noirâtre, rarement brun-rougeâtre ou brun jaune, à tranche brun clair à jaunâtre, fibreuse, à odeur forte, exsudant lentement une gomme peu abondante, jaune, translucide et ± visqueuse. Cime hémisphérique avec extrémité des rameaux pendante; jeune feuillage vert clair. Rameaux glabres, noirâtres à nombreuses lenticelles brunes. Pétiole glabre, long de ± 2 cm, terminé par une glande à la face supérieure. Pennes 1 ou 2 paires. Axe de la penne glabre, long de 6-11,5 cm, aplati dessus. Folioles alternes, 5-10 par penne. Pétiolule glabre, long de 2-3 mm, canaliculé (bords du canal jointifs). Limbe glabre sur les deux faces, brun foncé ± luisant dessus et brun clair grisâtre dessous à l'état sec, largement lancéolé, elliptique lancéolé, 5-10 × 2,5-5 cm, base ± nettement asymétrique, et nettement acuminé aigu mucroné au sommet. Nervure primaire médiane faiblement concave dessus et saillante dessous. Nervures secondaires 5-10 paires, ascendantes, peu arquées, s'anastomosant à 1,5-3 mm du bord du limbe, saillantes sur les deux faces. Nervilles en réseau dense à mailles polygonales allongées saillantes sur les deux faces.
+Large tree reaching a height of 60 m with a diameter of 1.70 m. Trunk tall, straight, cylindrical, 24 m below the first branches, strongly thickened at the base and sometimes weakly grooved. Rhytidome exfoliating in thick, cork-like plates, ± rectangular, crumbling. Bark blackish, rarely reddish-brown or yellowish-brown, with a light brown to yellowish section, fibrous, with a strong odour, slowly exuding sparse gum, yellow, translucent and ± viscous. Crown hemispherical with the tips of the branches pendulous; young foliage light green. Branchlets glabrous, blackish with numerous brown lenticels. Petiole glabrous, approximately 2 cm long, terminated by a gland on the upper surface. Pinnae 1 or 2 pairs. Axis of the pinna glabrous, 6-11.5 cm long, flattened above. Leaflets alternate, 5-10 per pinna. Petiolule glabrous, 2-3 mm long, channelled (channel margins meeting). Blade glabrous on both surfaces, dark brown ± shining above and light greyish-brown below when dry, broadly lanceolate, elliptic-lanceolate, 5-10 × 2.5-5 cm, base ± distinctly asymmetric, and distinctly acuminate acute mucronate at the apex. Primary median nerve weakly concave above and prominent below. Secondary nerves 5-10 pairs, ascending, slightly arched, anastomosing 1.5-3 mm from the leaf margin, prominent on both surfaces. Nervules in dense network with elongated polygonal meshes prominent on both surfaces.
 
-Inflorescence en panicule axillaire ou terminale multiflore. Rachis largement pubescent à pubescence rousse de poils étoilés. Bouton floral ellipsoïde. Pédicelle pubescent long de 0,5 mm. Fleurs ♂, pentamères, actinomorphes, jaunes ou blanches sur le vivant. Calice rouge sur le vivant ; sépales soudés entre eux, pubescents extérieurement et glabres intérieurement, longs de ± 1,5 mm ; subégaux et aigus au sommet. Corolle à pétales libres entre eux, glabres sur les deux faces, fines taches brunâtres longilignes, oblongs linéaires, 2,75 × 0,5 mm, sommet aigu.
+Inflorescence in axillary or terminal many-flowered panicle. Rachis broadly pubescent with rusty pubescence of stellate hairs. Floral bud ellipsoid. Pedicel pubescent 0.5 mm long. Flowers ♂, pentamerous, actinomorphic, yellow or white in life. Calyx red in life; sepals fused to each other, pubescent externally and glabrous internally, approximately 1.5 mm long; subequal and acute at the apex. Corolla with petals free from each other, glabrous on both surfaces, fine brownish longitudinal streaks, oblong-linear, 2.75 × 0.5 mm, apex acute.
 
-Étamines 10, libres entre elles, gynobasiques, filet grêle, long de ± 5 mm, anthères à 2 loges, submédifixes, connectif terminé par une courte pointe glanduleuse tôt caduque. Disque intrastaminal remarquable, blanc sur le vivant, haut de 1 mm. Pistil à stipe long de 1 mm, ovaire pubescent, ellipsoïde, long de 1,5 mm, style grêle, glabre, long de 2 mm.
+Stamens 10, free from each other, gynobasic, filament slender, approximately 5 mm long, anthers with 2 locules, submedifixed, connective terminated by a short glandular point early caducous. Intrastaminal disc remarkable, white in life, 1 mm high. Pistil with stipe 1 mm long, ovary pubescent, ellipsoid, 1.5 mm long, style slender, glabrous, 2 mm long.
 
-Gousse déhiscente (par une fente), atteignant 75 cm, linéaire elliptique, marron rougeâtre, base atténuée ; faces latérales à bourrelets suturaux droits ou ± sinueux, à fines écailles, nervation oblique à ± parallèle aux bords ; sommet ± obtus. Graines marron foncé à grande aile papyracée, longue de 7,5 cm, funicule sommital.
+Legume dehiscent (by a fissure), reaching 75 cm, linear-elliptic, reddish-brown, base attenuate; lateral surfaces with sutures straight or ± sinuous, with fine scales, venation oblique to ± parallel to the margins; apex ± obtuse. Seeds dark brown with a large papyraceous wing, 7.5 cm long, apical funicle.
 
-Germination épigée. Cotylédons minces, très échancrés à la base, restant dans les léguments de la graine. Hypocotyle court, long de 1 cm. Épicotyle glabre, long de 5-10 cm, parfois 2 tigelles. 2 premières feuilles composées pennées alternes à 2 paires de folioles et parfois 1 terminale. Pétiole long de 1-2 cm. Rachis long de 1 cm. Foliole à pétioule renflé, violacé sur le vivant ; limbe elliptique ové, 2-2,5 × 1-1,5 cm, base obtuse asymétrique, sommet très acuminé aigu. Stipelles aigus, rapidement caduques (d'après G. de la Mensbruge, GPEACI 143, 1966). - Pl. 10, p. 43.
+Epigeal germination. Cotyledons thin, deeply notched at the base, remaining in the seed coat. Hypocotyl short, 1 cm long. Epicotyl glabrous, 5-10 cm long, sometimes 2 seedling stems. First 2 leaves pinnately compound alternate with 2 pairs of leaflets and sometimes 1 terminal. Petiole 1-2 cm long. Rachis 1 cm long. Leaflet with swollen petiolule, violaceous in life; blade elliptic-ovate, 2-2.5 × 1-1.5 cm, base obtuse asymmetric, apex very acuminate acute. Stipels acute, rapidly caducous (according to G. de la Mensbruge, GPEACI 143, 1966). - Pl. 10, p. 43.
 
 ## Type
 
@@ -41,15 +39,11 @@ Soyaux 62, Gabon, Sibang, 31.1.1880 (iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ce grand arbre a une aire qui s'étend de la Côte d'Ivoire à la forêt gabonaise. La floraison a lieu de novembre à février et la fructification a été observée de mai à août.
+This large tree has a range extending from Côte d'Ivoire to the Gabonese forest. Flowering occurs from November to February and fruiting has been observed from May to August.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-la décoction d'écorce est utilisée en lavement contre les maux de ventre, ou en lotion contre les rhumatismes. Les Pygmées la considèrent comme une substance magique donnant de la souplesse aux membres : ils pratiquent de légères incisions au niveau des chevilles qu'ils frottent d'un peu de poudre d'écorce. Les feuilles macérées servent contre les migraines. L'écorce peut aussi servir à décrasser le linge. Chez les Bavungu et les Eshiras, on enterre les jumeaux décédés au pied d'un Cylicodiscus gabunensis qui est considéré comme un arbre fétiche
+The decoction of bark is used as an enema against abdominal pain, or as a lotion against rheumatism. The Pygmies consider it a magical substance giving flexibility to the limbs: they make slight incisions at the level of the ankles which they rub with a little bark powder. Macerated leaves are used against migraines. The bark can also be used to clean linen. Among the Bavungu and the Eshiras, deceased twins are buried at the foot of a Cylicodiscus gabunensis which is considered a fetish tree.
 
 ## Vernacular names
 

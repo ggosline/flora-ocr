@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small trees or shrubs. Leaves with 3–5 pairs of opposite leaflets. Lamina oblong, with apex attenuate ± acuminate, base obtuse, glabrous, thin, 6–16 cm long, 2.5–7 cm wide. Secondary veins 8–9, fine, united in arcs near the margins, anastomosing into a network of fine veinlets and venules but clearly visible on both faces. Rachis glabrous or puberulent, 7–18 cm. Petiolules 3–5 mm, twisted.
 
-Petits arbres ou arbustes. Feuilles à 3-5 paires de folioles opposées. Limbe oblong, à sommet atténué ± acuminé, à base obtuse, glabre, mince, long de 6-16 cm, large de 2,5-7 cm. Nervures secondaires 8-9, fines, réunies en arcs près des marges, anastomoses à un réseau de nervilles et de veinules fines mais bien visibles sur les 2 faces. Rachis glabre ou pubérulent, de 7-18 cm. Pétiolules de 3-5 mm, tordus.
+Panicles of pink flowers. Axes pubescent. Bracts and bracteoles pubescent, approximately 5 mm, caducous. Pedicels 5–12 mm. Receptacle cylindrical, pubescent, 1.5–2.5 cm long. Sepals 4, ovate, pubescent, 1.5–2.5 cm in length. One large white petal with a red spot in the centre, then pink; lamina bilobed 3 cm wide; claw approximately 3 cm, villous at the base. Stamens with filaments villous at the base; 2 staminodes. Ovary villous on the margins.
 
-Panicles de fleurs roses. Axes pubescents. Bractées et bractéoles pubescentes, de 5 mm environ, caduques. Pédicelles de 5-12 mm. Réceptacle cylindrique, pubescent, long de 1,5-2,5 cm. Sépales 4, ovés, pubescents, de 1,5-2,5 cm de longueur. Un grand pétale blanc avec une tache rouge au centre, puis rose; limbe bilobé de 3 cm de largeur; onglet de 3 cm environ, velu à la base. Étamines à filets velus à la base; 2 staminodes. Ovaire velu sur les marges.
-
-Gousses ligneuses, épaisses, réniformes, d'environ 12 × 5 cm. Graines à arille bilobé rouge orangé.
+Pods woody, thick, reniform, approximately 12 × 5 cm. Seeds with red-orange bilobed aril.
 
 ## Type
 
@@ -31,13 +29,11 @@ Klaine 275, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In Gabon and Cameroon Ajzelia bella is generally a shrub of the understory of lowland forest, primary or secondary, more rarely a small tree reaching 12 m in height, remarkable for its decorative pink flowers. In the Libero-Ivorian domain the variety A. bella var. gracilior Keay, is a medium-sized tree, with leaflets somewhat smaller than in the Cameroonian-Gabonese variety.
 
-Au Gabon et au Cameroun l'Ajzelia bella est généralement un arbuste des sous-bois de la forêt de terre ferme, primaire ou secondaire, plus rarement un petit arbre atteignant 12 m de hauteur, remarquable par ses fleurs roses décoratives. Dans le domaine libéro-ivoréen la variété A. bella var. gracilior Keay, est un arbre moyen, à folioles un peu plus petites que dans la variété camerouno-gabonaise.
+The distinction in the herbarium between A. bella and A. bipindensis does not always appear immediately with clarity.
 
-La distinction en herbier entre A. bella et A. bipindensis n'apparaît pas toujours immédiatement avec netteté.
-
-Dans le bassin du Congo il existe une variété glabra Aubr. à axes, pédicelles, réceptacle et sépales extérieurs entièrement glabres. (type Bouquet 1789, Makoua-Fort Rousset).
+In the Congo basin there exists a variety glabra Aubr. with axes, pedicels, receptacle and outer sepals entirely glabrous. (type Bouquet 1789, Makoua-Fort Rousset).
 
 ## Specimens examined
 

@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 5 pairs of opposite leaflets, oblong or oblong-lanceolate, longly acuminate acute, obtuse or rounded at the base, coriaceous, glabrous, 10-12 cm long, 3.5-4.5 cm wide. Midvein slightly depressed above, prominent below. About ten secondary nerves, some anastomosing, others extending to a marginal nerve. Network well-meshed, visible on both faces, of veinlets and venules almost as finely prominent as the secondary nerves. Rachis about 20 cm. Petiolules 5-6 mm, articulate on the rachis.
 
-Arbres. Feuilles à 5 paires de folioles opposées, oblongues ou oblongues-lancéolées, longuement acuminées aiguës, obtuses ou arrondies à la base, coriaces, glabres, longues de 10-12 cm, larges de 3,5-4,5 cm. Nervure médiane un peu déprimée dessus, proéminente dessous. Une dizaine de nervures secondaires, les unes anastomoses, les autres tracées jusqu'à une nervure marginale. Réseau bien maillé, visible sur les 2 faces, de nervilles et veinules presque aussi finement saillantes que les nervures secondaires. Rachis d'environ 20 cm. PétioIules de 5-6 mm, articulés sur le rachis.
-
-Panicules terminales ou axillaires densément fleuries; axes pubescents. Petites fleurs sessiles ou presque. Bractée basilaire suborbiculaire, concave, glabre, à bords fimbriés, caduque, de 2 mm. Bractéoles orbiculaires, concaves, libres, imbriquées, persistantes, glabres, de 2 mm. Sépales 4, ovés oblongs, concaves,
-
-subégaux, glabres, de 2-2,5 mm. Pétales 0. Étamines fertiles 3 soudées à la base en un écusson haut de 2 mm, glabre extérieurement, velu intérieurement; filets de 5 mm; anthères 2 mm, émarginées au sommet, cordées à la base. Staminodes 4, filiformes, glabres. Ovaire velu, 2 ovules. Stigmate capité. Fruit inconnu.
+Terminal or axillary panicles densely flowered; axes pubescent. Small flowers sessile or nearly so. Basal bract suborbicular, concave, glabrous, with fimbriate margins, caducous, 2 mm. Bracteoles orbicular, concave, free, imbricate, persistent, glabrous, 2 mm. Sepals 4, ovate oblong, concave, subequal, glabrous, 2-2.5 mm. Petals 0. Fertile stamens 3 fused at the base into a disk 2 mm high, glabrous externally, villous internally; filaments 5 mm; anthers 2 mm, emarginate at the apex, cordate at the base. Staminodes 4, filiform, glabrous. Ovary villous, 2 ovules. Stigma capitate. Fruit unknown.
 
 ## Type
 
@@ -31,9 +27,7 @@ Le Testu 2295, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre peu connu, qui paraît endémique au Gabon et au Mayombé, mais peu répandu.
+Little-known small tree, which appears to be endemic to Gabon and the Mayombé, but little distributed.
 
 ## Specimens examined
 

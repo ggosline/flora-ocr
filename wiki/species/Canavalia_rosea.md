@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, non Dolichos maritima Aubl. C. obtusifolia (Lam.) DC., Prodr. 2 : 404 (1825). Perennial herb; stems prostrate or climbing, reaching 2–10 m in length, becoming woody with age, silky, then glabrescent. Stipules broadly triangular-ovate, 3–5 × 4–5 mm, apex rounded. Leaf: leaflets with elliptic to nearly circular blade, reaching 12 × 10 cm, coriaceous, glabrous to sparsely pubescent. Inflorescence pendulous or erect; pseudoraceme 4–18 cm in length; peduncle 10–21 cm, with 2 or 3 flowers per node. Flower: calyx 11–14 mm in length, pubescent; corolla rose-purple to mauve or sometimes blue, often white or yellow at centre, standard circular, 2–3 cm in diameter, apex emarginate, wings obovate-falciform, 2 × 0.5 cm, slightly clawed, keel ± 2.5 × 0.9 cm; stamens ± 2.5 cm in length; ovary linear, ± 2.5 cm in length, pubescent. Pod oblong, convex, 10–17 × 1.8–3 cm, with light and appressed pubescence, dehiscent in spiral, sometimes explosive,
 
-, non Dolichos maritima Aubl. C. obtusifolia (Lam.) DC., Prodr. 2 : 404 (1825). Herbe pérenne ; tige prostrées ou grimpantes , atteignant 2–10 m de longueur, devenant ligneuse avec l’âge, soyeuse, puis glabrescente. Stipules largement triangulaires-ovales, 3–5 × 4–5 mm, sommet arrondi. Feuille : folioles à limbe elliptique à quasi circulaire, atteignant 12 × 10 cm, coriace, glabre à peu pubescent. Inflorescence pendante ou érigée ; pseudoracème 4–18 cm de longueur ; pédoncule 10–21 cm, à 2 ou 3 fleurs par nœud. Fleur : calice 11–14 mm de longueur, pubescent ; corolle rose-pourpre à mauve ou parfois bleue, souvent blanche ou jaune au centre , étendard circulaire, 2–3 cm de diamètre, à sommet émarginé, ailes obovalesfalciformes, 2 × 0,5 cm, légèrement onguiculées, carène ± 2,5 × 0,9 cm ; étamines ± 2,5 cm de longueur ; ovaire linéaire, ± 2,5 cm de longueur, pubescent. Gousse oblongue, convexe , 10–17 × 1,8–3 cm, à pubescence légère et apprimée, déhiscente en spirale, parfois explosive,
+Canavalia rosea: 6. Flowering branch. – 7. Keel. – 8. Wing. – 9. Standard. – 10. Pistil. – 11. Calyx. – 12. Pod. Drawing by Bobbi Angell (©), reproduced with permission from Acevedo-Rodriguez (2005).
 
-Canavalia rosea : 6. Rameau florifère. – 7. Carène. – 8. Aile. – 9. Étendard. – 10. Pistil. – 11. Calice. – 12. Gousse. Dessin par Bobbi Angell (©), reproduit avec permission à partir de Acevedo-Rodriguez (2005).
-
-chaque valve à 2 crêtes proches de la suture dorsale , avec 6 à 8 graines. Graine 15–20 × 9–14 × 10 mm, un peu comprimée, brune avec taches plus foncées ; hile brun foncé.
+each valve with 2 crests close to the dorsal suture, with 6 to 8 seeds. Seed 15–20 × 9–14 × 10 mm, somewhat compressed, brown with darker spots; hilum dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale, sur plages maritimes ; au Gabon, connue de l’Estuaire, de la Nyanga et de l’Ogooué-Maritime
+pantropical, on maritime beaches; in Gabon, known from Estuaire, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-rampante sur sables au bord de mer, souvent avec Ipomoea pes-caprae (L.) R.Br. (Convolvulaceae), parfois dans des lieux cultivés ; à 0–10 m d’altitude. Usage : Plante de couverture, qui peut servir à la fixation du sable près de la mer
+trailing on sand at the seashore, often with Ipomoea pes-caprae (L.) R.Br. (Convolvulaceae), sometimes in cultivated places; at 0–10 m altitude. Uses: Cover plant, which can serve to fix sand near the sea
 
 ## Vernacular names
 
@@ -43,9 +37,7 @@ haricot des plages, pois bord de mer (fr.) ; bay bean (angl.) ; osangé-ntsuwa, 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les étamines montrent un méchanisme explosif : ils sortent de la carène très rapidement quand un insecte touche les pétales de la carène (observation personnelle de C.J.J. Jongkind, 2013). Dans la littérature, on rencontre le nom C. maritima (Aubl.) Thouars pour cette espèce, ce qui n’est pas correct. Thouars a publié une espèce nouvelle sans faire référence à Dolichos maritima d’Aublet. Par conséquence, C. rosea (Sw.) DC. est le nom correct pour cette espèce (Aymard 1998). b : Mackinder et al. (2001), Pellegrin (1949), Raponda-Walker & Sillans (1961), Robyns ibliographie (1954), Sauer (1964), Sosef & van der Maesen (1997), Watt & Breyer-Brandwijk (1962)
+The stamens show an explosive mechanism: they emerge from the keel very rapidly when an insect touches the petals of the keel (personal observation of C.J.J. Jongkind, 2013). In the literature, one encounters the name C. maritima (Aubl.) Thouars for this species, which is not correct. Thouars published a new species without making reference to Dolichos maritima of Aublet. Consequently, C. rosea (Sw.) DC. is the correct name for this species (Aymard 1998). b: Mackinder et al. (2001), Pellegrin (1949), Raponda-Walker & Sillans (1961), Robyns (1954), Sauer (1964), Sosef & van der Maesen (1997), Watt & Breyer-Brandwijk (1962)
 
 ## Notes
 

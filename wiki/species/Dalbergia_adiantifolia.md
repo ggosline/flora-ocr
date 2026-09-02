@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Diagnosis : Foliolis conspicue asymmetricis, inflorescentiis et floribus D. bakeri et D. obliquifoliolatae valde affinis, sed differt a prima foliolis apice emarginatis et calyce lobis 0,7–1 mm longis (nec subnullis), a secunda foliolis valde minoribus (superioribus 1,5–2,7 cm longis, nec 5,2–6,4 cm) et calyce breviore (2,7–3,5 mm, nec 4–5,5 mm) ; ab ambabus lamina utrinque glabra et foliolis 8–14 (nec 5–9(–12)) dis tinguitur.
+Diagnosis: Leaflets conspicuously asymmetric, inflorescences and flowers very similar to D. bakeri and D. obliquifoliolata, but differing from the first by leaflets emarginate at the apex and calyx lobes 0.7–1 mm long (not nearly absent), from the second by much smaller leaflets (upper ones 1.5–2.7 cm long, not 5.2–6.4 cm) and shorter calyx (2.7–3.5 mm, not 4–5.5 mm); from both by lamina glabrous on both sides and leaflets 8–14 (not 5–9(–12)) distinguishes it.
 
 ## Type
 
@@ -26,27 +24,19 @@ J.J.F.E. de Wilde 11966 (holo- : BRLU! ; iso- : LBV, M, MA, MO, W, WAG !), Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur les deux faces ou à quelques très rares poils sur les bords et le dessous de la nervure médiane ; nervures latérales 5 à 8, peu marquées, obliques et réunies en arceaux, nervilles en réseau concolore saillant, à mailles ± étirées . Inflorescence en racème ou en panicule condensée, axillaire ou terminale sur les rameaux feuillés, 0,4–2 cm de longueur, à pubescence brun clair éparse et ± étalée ; bractées généralement tôt caduques, courtement elliptiques, ± 0,4 × 0,3 mm, pubescentes. Fleur : pédicelle 1,5–2 mm ; bractéoles persistantes à la floraison, largement elliptiques, 0,5–0,7 × 0,4–0,5 mm, pubescentes ; calice vert pâle, à poils couchés épars, tube 2–2,5 × 1,7–2,5 mm, dents valvaires ± égales en longueur mais inégales en largeur, triangulaires, 0,7–1 mm de longueur , aiguës ou obtuses au sommet, les supérieures plus larges et soudées entre elles ; corolle blanche, pétales à onglet plus long que le calice , étendard coudé à angle droit , à onglet de 3 mm et limbe obcordé de 4 × 4,5 mm, ailes un peu plus longues que la carène, à onglet de 3,3 mm et limbe étroitement obové de 4,7 × 2–2,5 mm, lisse extérieurement, à base courtement auriculée et légèrement épaissie au bord supérieur, carène légèrement courbée, à onglet de 3 mm et limbe de 4,3 × 2 mm, à base nettement auri culée ; étamines en 2 phalanges de 5, filets 6,5 mm, soudés sur les ¾ de leur longueur, droits à la base et courbés dans leur partie libre ; ovaire glabre, 2 × 0,5 mm, à 2 ovules, à stipe droit, 4 mm ; style linéaire, 1,5 mm, à stigmate punctiforme. Gousse inconnue.
+on both surfaces or with a few very rare hairs on the margins and underside of the midvein; lateral nerves 5 to 8, inconspicuous, oblique and joined in arches, nervilles in concolorous raised reticulate pattern, with ± elongate meshes. Inflorescence in a raceme or condensed panicle, axillary or terminal on the leafy branches, 0.4–2 cm long, with sparse and ± spreading light brown pubescence; bracts generally early caducous, shortly elliptic, ± 0.4 × 0.3 mm, pubescent. Flower: pedicel 1.5–2 mm; bracteoles persistent at anthesis, broadly elliptic, 0.5–0.7 × 0.4–0.5 mm, pubescent; calyx pale green, with scattered appressed hairs, tube 2–2.5 × 1.7–2.5 mm, teeth valvate ± equal in length but unequal in width, triangular, 0.7–1 mm long, acute or obtuse at apex, the upper ones broader and fused to each other; corolla white, petals with claw longer than the calyx, standard bent at right angle, with claw 3 mm and obcordate limb 4 × 4.5 mm, wings slightly longer than the keel, with claw 3.3 mm and narrowly obovate limb 4.7 × 2–2.5 mm, smooth externally, with shortly auriculate base and slightly thickened at upper margin, keel slightly curved, with claw 3 mm and limb 4.3 × 2 mm, with clearly auriculate base; stamens in 2 phalanges of 5, filaments 6.5 mm, fused for ¾ of their length, straight at base and curved in their free part; ovary glabrous, 2 × 0.5 mm, with 2 ovules, with straight stipe, 4 mm; style linear, 1.5 mm, with punctiform stigma. Pod unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue seulement des bords de l’Ogooué, dans le nord du Parc National de la Lopé (Ogooué-Ivindo)
+endemic to Gabon, known only from the banks of the Ogooué, in the north of the Lopé National Park (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-galeries forestières inondées en période de crues, sur sol sableux ; à 120–150 m d’altitude. Floraison en février et novembre
+flooded forest galleries during flood periods, on sandy soil; at 120–150 m altitude. Flowering in February and November
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Autres échantillons étudiés : J.J.F.E. de Wilde 11448 (BR, WAG), Gabon, Lopé Forest Reserve, Lopé, on bank of the Ogooué River, 0°05’ S 11°36’ E, 26 Novembre 1995 (fl). Cette espèce est très proche de D. obliquifoliolata et D. bakeri . Elle en diffère par ses folioles à limbe glabre sur les deux faces, qui sont aussi généralement plus nombreuses, plus petites que chez D. obliquifoliolata , et émarginées au sommet contrairement à D. bakeri . En outre, son calice est plus court que chez D. obliquifoliolata et plus profondément denté que chez D. bakeri . Contrairement à ces deux espèces, la plante paraît inodore, du moins à l’état sec. Le nom d’espèce adiantifolia évoque la ressemblance des feuilles avec certaines fougères du genre Adiantum (Pteridaceae)
+Other specimens studied: J.J.F.E. de Wilde 11448 (BR, WAG), Gabon, Lopé Forest Reserve, Lopé, on bank of the Ogooué River, 0°05' S 11°36' E, 26 November 1995 (fl). This species is very close to D. obliquifoliolata and D. bakeri. It differs from them by its leaflets with lamina glabrous on both surfaces, which are also generally more numerous and smaller than in D. obliquifoliolata, and emarginate at the apex unlike D. bakeri. Moreover, its calyx is shorter than in D. obliquifoliolata and more deeply toothed than in D. bakeri. Unlike these two species, the plant appears to be inodorous, at least in the dry state. The species name adiantifolia evokes the resemblance of the leaves to certain ferns of the genus Adiantum (Pteridaceae)
 
 ## Notes
 

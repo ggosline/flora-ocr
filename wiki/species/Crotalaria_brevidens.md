@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hooker , London J. Bot. 2 : 585 (1843). Herbe annuelle ou pérenne de vie courte, 0,5–0,6(–2) m de hauteur , à pubescence courte, ap primée ou ± étalée ; tige bien ramifiée dès la base. Stipules absentes . Feuille : pétiole inférieur à la longueur des folioles ; folioles 3 , à limbe linéaire ou lancéolé, 4–10(–14) × 0,3–2(–3,3) cm, pubérulent-apprimé dessous. Inflorescence en racèmes de 10–50 cm de longueur , lâches, multiflores ; bractées linéaires à subulées, élargies à la base, 1–3,5 mm de longueur. Fleur : bractéoles à la base du calice ou rarement sur le pédicelle, 0,5–2 mm de longueur ; calice devenant tronquée à sa base et défléchi contre le pédicelle en fruit , glabre ou pubérulent, tube 2–4 mm de longueur, à lobes subulés ou acuminés, 1–4 mm de longueur ; corolle jaune, étendard ovale à elliptique, 16–23 mm de longueur, à nervures rouge-brun , ailes presque aussi longues que la carène, carène arrondie, 1,2–2,4 cm de longueur, à rostre droit ou légè rement recourbé. Gousse étroitement cylindrique, (3,5–)4–5 × 0,5–0,7 cm , perdant la pubescence apprimée, brun foncé, avec 80 ou plus de graines . Graine oblique-cordiforme, 2,5–3 mm de longueur, lisse, jaune pâle ou orange .
+in Hooker, London J. Bot. 2: 585 (1843). Annual or short-lived perennial herb, 0.5–0.6(–2) m tall, with short, appressed or ± spreading pubescence; stem well-branched from the base. Stipules absent. Leaf: petiole shorter than the length of the leaflets; leaflets 3, with linear or lanceolate blade, 4–10(–14) × 0.3–2(–3.3) cm, pubescent-appressed beneath. Inflorescence in racemes 10–50 cm long, lax, multiflorous; bracts linear to subulate, enlarged at the base, 1–3.5 mm long. Flower: bracteoles at the base of the calyx or rarely on the pedicel, 0.5–2 mm long; calyx becoming truncate at its base and deflexed against the pedicel in fruit, glabrous or pubescent, tube 2–4 mm long, with subulate or acuminate lobes, 1–4 mm long; corolla yellow, standard oval to elliptic, 16–23 mm long, with red-brown veins, wings almost as long as the keel, keel rounded, 1.2–2.4 cm long, with straight or slightly curved rostrum. Pod narrowly cylindrical, (3.5–)4–5 × 0.5–0.7 cm, losing appressed pubescence, dark brown, with 80 or more seeds. Seed oblique-cordiform, 2.5–3 mm long, smooth, pale yellow or orange.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Nigéria et Cameroun jusqu’en Afrique de l’Est et introduit dans plusieurs autres pays africains et en Amérique centrale et du Sud ; non encore signalée au Gabon, mais probablement y présente
+from Nigeria and Cameroon to East Africa and introduced into several other African countries and in Central and South America; not yet recorded from Gabon, but probably present there
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, savane arboricole ouverte ; atteignant 2700 m d’altitude en Afrique de l’Est. Usage : Cultivée, ses feuilles sont mangées comme légume vert au Kenya, au Soudan, en Ouganda et en Tanzanie
+savanna, open tree savanna; reaching 2700 m altitude in East Africa. Use: Cultivated, its leaves are eaten as a green vegetable in Kenya, Sudan, Uganda and Tanzania
 
 ## Vernacular names
 
@@ -38,9 +32,7 @@ crotalaire, sonnette (fr.), rattlepod, slenderleaf (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. brevidens est une espèce très proche de C. ochroleuca , mais avec des gousses plus étroites et des pétales jaunes. b : Abukutsa-Onyango (2004), Polhill (1982, 2003). ibliographie
+C. brevidens is a species very close to C. ochroleuca, but with narrower pods and yellow petals. b: Abukutsa-Onyango (2004), Polhill (1982, 2003). ibliography
 
 ## Notes
 

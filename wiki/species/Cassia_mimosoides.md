@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb prostrate or erect, annual or with lignified stem base and then perennial, reaching up to 1.5 m in height. Leaves with 30–70 pairs of small linear leaflets, asymmetric, 2–8 mm long by 0.7–2 mm wide, acute and mucronate.
 
-Herbe prostrée ou dressée, annuelle ou à base lignifiée de la tige et alors pérenne, mesurant jusqu'à 1,5 m de hauteur. Feuilles à 30-70 paires de petites folioles linéaires, asymétriques, de 2-8 mm de longueur sur 0,7-2 mm de largeur, aiguës et mucronées.
+Rachis marked with a denticulate crest; each tooth corresponding to the interval between pairs of consecutive leaflets. One sessile gland on the petiole, below the lower pair.
 
-Rachis marqué d'une crête dentelée; chaque dent correspondant à l'intervalle entre les paires de folioles consécutives. Une glande sessile sur le pétiole, au-dessous de la paire inférieure.
-
-Fleurs jaunes solitaires ou par 2-3, supra-axillaires. Petites gousses linéaires de 3-5 cm contenant de nombreuses petites graines, s'enroulant après déhiscence.
+Flowers yellow, solitary or 2–3 together, supra-axillary. Small linear pods 3–5 cm long containing numerous small seeds, coiling after dehiscence.
 
 ## Type
 
@@ -31,9 +29,7 @@ Herb. Hermann, Ceylan
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce paléotropicale, répandue sur les sols sablonneux, sur les lisières des forêts, dans les clairières, savanes, plantations, au bord de l'eau, rivières, lacs et littoral marin.
+Paleotropical species, widespread on sandy soils, on forest margins, in clearings, savannas, plantations, along watercourses, rivers, lakes and marine littoral.
 
 ## Specimens examined
 

@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leonard (Pl. 57, p. 239)
 
-Léonard (Pl. 57, p. 239)
+not Pynærtiodendron congolanum De Wild. in Pellegrin, Lég. Gabon : 138 (1948).
 
-non Pynærtiodendron congolanum De Wild. dans Pellegrin, Lég. Gabon : 138 (1948).
+Trees. Leaf unifoliolate. Petiole 6–8 mm. Leaflet ovate-oblong, acuminate, cuneate at base, 4–7 cm long by 2–3 cm wide, glabrous. Secondary veins 5–6, the basal ones being long-ascending, the inner pair reaching to two-thirds of the lamina.
 
-Arbres. Feuille unifoliolée. Pétiole de 6-8 mm. Foliole ovée-oblongue, acuminée, cunéiforme à la base, de 4-7 cm de longueur sur 2-3 cm de largeur, glabre. Nervures secondaires 5-6, les basilaires étant longuement ascendantes, la paire interne atteignant jusqu'aux deux tiers du limbe.
-
-Boutons florifères écailleux. Racèmes axillaires jusqu'à 6 cm de longueur, glabres. Pédicelles grêles jusqu'à 10 cm de longueur. Bractéoles elliptiques de 5-6 mm de longueur sur 3-4 mm de largeur. Pétale suborbiculaire de 5-6 mm de longueur environ, à court onglet de 1 mm. Filets longs de 8 mm. Ovaire glabre, stipité. Fruit inconnu.
+Floral buds scaly. Axillary racemes up to 6 cm long, glabrous. Pedicels slender up to 10 cm long. Bracteoles elliptic 5–6 mm long by 3–4 mm wide. Petal suborbicular about 5–6 mm long, with short claw 1 mm. Filaments 8 mm long. Ovary glabrous, stipitate. Fruit unknown.
 
 ## Type
 
@@ -37,9 +35,7 @@ Dubois 251, Kombo sur Ruki (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petits arbres des forêts périodiquement inondées, Gabon et Congo.
+Small trees of periodically flooded forests, Gabon and Congo.
 
 ## Specimens examined
 

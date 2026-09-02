@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large trees. Leaves with 3–4 pairs of opposite, sessile leaflets. Rachis 8–15 cm long. Leaflets obliquely oblong, measuring 5–12 cm in length by 3–5 cm in width, obtuse or briefly acuminate at the apex, which is sometimes slightly emarginate, asymmetric at the base and cuneate. Near the insertion on the branch, a pair of rudimentary leaflets or their scars is commonly present. Midvein arched. About a dozen pairs of lateral veins. Lamina membranous, sometimes riddled with translucent dots, visible when dry.
 
-Grands arbres. Feuilles à 3-4 paires de folioles opposées, sessiles. Rachis long de 8-15 cm. Folioles obliquement oblongues,
-
-mesurant 5-12 cm de longueur sur 3-5 cm de largeur, obtuses ou brièvement acuminées au sommet, qui est parfois légèrement émarginé, à la base asymétrique et cunéiforme. Près de l'insertion sur le rameau présence commune d'une paire de folioles rudimentaires, ou de leurs cicatrices. Nervure médiane arquée. Une douzaine de paires de nervures latérales. Limbe membraneux parfois criblé de points translucides, visibles à l'état sec.
-
-Fleurs mal connues. Grosses gousses ligneuses atteignant 15-20 cm de longueur sur 8-10 cm de largeur, à surface lisse, brune; 2-3 graines.
+Flowers poorly known. Large woody pods reaching 15–20 cm in length by 8–10 cm in width, with a smooth, brown surface; 2–3 seeds.
 
 ## Vernacular names
 
@@ -37,15 +33,13 @@ Zenker 3695, Bipinde, Cameroun (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very closely related to B. Laurentii (De Wild.) Louis ex Hoyle, which it approaches in particular by the presence of the rudimentary pair of leaflets. Hoyle placed it in synonymy. In "La Forêt du Gabon" by Saint-Aubin, Bomanga is called an timber reported to B. Laurentii which is perhaps identical to B. Zenkeri. We have preferred to maintain the distinction, provisionally, between the 2 species, one Congolese and the other unquestionably Cameroonian.
 
-Cette espèce est très voisine du B. Laurentii (De Wild.) Louis ex Hoyle, dont elle se rapproche en particulier par la présence de la paire rudimentaire de folioles. Hoyle l'a mise en synonymie. Dans « La Forêt du Gabon » de Saint-Aubin appelle Bomanga, une essence rapportée au B. Laurentii qui est peut-être identique au B. Zenkeri. Nous avons préféré maintenir la distinction, provisoirement, entre les 2 espèces l'une congolaise et l'autre incontestablement camerounaise.
+The Léké is a very large tree, with a straight, cylindrical bole to or almost to the ground. Crown of old trees umbrella-shaped. Bark rugose, reddish-fibrous on the cut surface. Wood brown with coppery reflections.
 
-Le Léké est un très grand arbre, au fût droit, cylindrique jusqu'au sol ou presque. Cime des vieux arbres en parasol. Écorce rugueuse, de tranche fibreuse rougeâtre. Bois brun à reflets cuivrés.
+A very gregarious species, often very abundant in Cameroon in the regions of Mbanga and Eséka. In Gabon Bomanga is rather rare, but when it appears it is in the form of almost pure stands, where one can count up to 20 trees per hectare. This gregariousness and this localization are also characteristics of B. Laurentii from Congo.
 
-Espèce très grégaire souvent très abondante au Cameroun dans les régions de Mbanga et d'Eséka. Au Gabon le Bomanga est plutôt rare, mais quand il apparaît c'est sous forme de peuplements presque purs, où l'on peut compter jusqu'à 20 arbres à l'hectare. Ce grégarisme et cette localisation sont également des caractéristiques du B. Laurentii du Congo.
-
-Au Cameroun l'arbre est décidu. Lorsque la nouvelle feuillaison est apparue, la cime est de couleur brun rouge, chargée de feuilles tombantes, brun-rouge et luisantes.
+In Cameroon the tree is deciduous. When the new foliage has appeared, the crown is reddish-brown in colour, laden with drooping leaves, reddish-brown and shiny.
 
 ## Specimens examined
 

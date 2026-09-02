@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-‛ ’) Bull. Jard. Bot. État Bruxelles 7 : 267 (1920 ; comme lujai . C. lujae De Wild. var. longeacuminata De Wild., Bull. Jard. Bot. État Bruxelles 7 : 270 (1920). Arbre de 8–20 m de hauteur, glabre sauf quelque poils follets sur l’inflorescence ; tronc attei gnant 60 cm de diamètre ; écorce grise ou rouge, très craquelée ; branches striées, rougeâtres. Feuille : pétiole 2 cm ; rachis 3 cm ; stipelles absentes ; folioles 3 ou 4 , à pétiolule de 4–6 mm, à limbe ovale à elliptique, 8–18 × 3,5–8 cm, cunéé à la base, sommet longuement acuminé, coriace, vert foncé dessus et dessous ; nervures saillantes dessous. Inflorescence entièrement blanche, en panicule lâche (sub)terminale, atteignant 20 cm de longueur ; pédoncule d’abord pubescent, puis glabre ; bractées axillantes ovales, 2 mm de longueur. Fleur : pédicelle 10–20 mm, glabre ; bractéoles d’abord à la base de l’hypanthium assez saillant, ensuite en-dessous du milieu du pédicelle, assez tôt caduques, ovales, à marge pubescente ; calice cupulé, 3–6 × 5–8 mm, dents 4, inégales, obtuses, 1–2 mm de longueur, marge éparsement poilue ; corolle atteignant 2,5 cm de longueur , étendard orbiculaire, blanc, avec une tache jaune abaxiale vers le sommet, 1,8–2,5 × 1,4–1,8 cm, dont l’onglet ± 4 mm, ailes et carène à onglet de 8 mm, limbe 2–2,5 × 5–6 mm ; étamines 15–18 mm ; ovaire oblong-elliptique, ± 18 mm de longueur, avec 2 ou 3(–4) ovules, glabre. Gousse obliquement obovale-oblancéolé , 8–11 × 2–3,5 cm, brune à noire, à 1 graine. Graine aplatie, 12 × 15 × 3 mm ; hile petit, central, 2 mm de longueur.
+' ') Bull. Jard. Bot. État Bruxelles 7 : 267 (1920; as lujai. C. lujae De Wild. var. longeacuminata De Wild., Bull. Jard. Bot. État Bruxelles 7 : 270 (1920). Tree 8–20 m tall, glabrous except for some scattered hairs on the inflorescence; trunk reaching 60 cm in diameter; bark grey or red, deeply fissured; branches striate, reddish. Leaf: petiole 2 cm; rachis 3 cm; stipels absent; leaflets 3 or 4, with petiolule 4–6 mm, lamina oval to elliptic, 8–18 × 3.5–8 cm, cuneate at base, apex long-acuminate, coriaceous, dark green above and below; veins prominent beneath. Inflorescence entirely white, in lax (sub)terminal panicle, reaching 20 cm in length; peduncle initially pubescent, then glabrous; bracts axillary, oval, 2 mm long. Flower: pedicel 10–20 mm, glabrous; bracteoles initially at the base of the rather prominent hypanthium, then below the middle of the pedicel, rather soon caducous, oval, with pubescent margin; calyx cupular, 3–6 × 5–8 mm, teeth 4, unequal, obtuse, 1–2 mm long, margin sparsely hairy; corolla reaching 2.5 cm in length, standard orbicular, white, with a yellow abaxial patch towards the apex, 1.8–2.5 × 1.4–1.8 cm, with claw ± 4 mm, wings and keel with claw 8 mm, lamina 2–2.5 × 5–6 mm; stamens 15–18 mm; ovary oblong-elliptic, ± 18 mm long, with 2 or 3(–4) ovules, glabrous. Pod obliquely obovate-oblanceolate, 8–11 × 2–3.5 cm, brown to black, 1-seeded. Seed flattened, 12 × 15 × 3 mm; hilum small, central, 2 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo et République démocratique du Congo ; au Gabon, connue de la Ngounié et de l’Ogooué-Lolo
+Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ngounié and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt, forêt secondarisée, galerie ; à 200–300 m d’altitude. b : Gillett (1960a), Hauman (1954a). ibliographie
+forest, secondarized forest, gallery forest; at 200–300 m altitude. b : Gillett (1960a), Hauman (1954a). Bibliography
 
 ## Notes
 

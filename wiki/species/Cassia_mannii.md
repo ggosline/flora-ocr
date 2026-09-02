@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 7–10 pairs of leaflets. Leaflets oblong or ovate-oblong, attenuate or shortly acuminate at apex, rounded at base, 6–8 cm long by 2.5–3.5 cm wide, glabrous. Network of veins and veinlets prominent on both faces.
 
-Arbres. Feuilles à 7-10 paires de folioles. Folioles oblongues ou ovées-oblongues, atténuées ou courtement acuminées au sommet, arrondies à la base, de 6-8 cm de longueur sur 2,5-3,5 cm de largeur, glabres. Réseau de nervures et nervilles saillant sur les 2 faces.
+Corymbiform racemes axillary on leafless branchlets, 8–12 cm long. Flowers pink, fragrant as roses. Axes puberulent or glabrous. Bracts ovate, concave, pubescent, caducous, 4 mm. Bracteoles smaller. Pedicels 4–5 cm. Sepals ovate elliptic, concave, 12 × 7 mm. Petals obovate, rounded at apex, briefly unguiculate, with brownish veins, 17 × 11 mm. Stamens with dorsifixed anthers. The 2 anterior ones the largest, longer than the petals, with filaments 25 mm, arched; anthers 4.5 mm with longitudinal slits; 5 smaller ones, 3–5 mm long, with hook-shaped anthers 3–5 mm, dehiscing by apical pores; the 2 posterior ones with filaments 10 mm long and small anthers 2 mm with longitudinal dehiscence. Ovary linear, arched, hirsute, multiovulate. Stigma ciliate.
 
-Grappes corymbiformes axillaires sur les rameaux défeuillés, longues de 8-12 cm. Fleurs roses à parfum de rose. Axes pubé-
-
-rulents ou glabres. Bractées ovées, concaves, pubescentes, caduques, de 4 mm. Bractéoles plus petites. Pédicelles de 4-5 cm. Sépales ovés elliptiques, concaves de 12 × 7 mm. Pétales obovés, arrondis au sommet, brièvement onguiculés, à nervures brunâtre de 17 × 11 mm. Étamines à anthères dorsifixes. Les 2 antérieures les plus grandes, plus longues que les pétales, à filets de 25 mm, arqués; anthères de 4,5 mm à fentes longitudinales; 5 plus petites, longues de 3-5 mm, à anthères en forme d'hameçons de 3-5 mm, à déhiscence par pores apicaux; les 2 postérieures à filets longs de 10 mm et petites anthères de 2 mm à déhiscence longitudinale. Ovaire linéaire, arqués, hirsute, multiovulé. Stigmate cilié.
-
-Gousses noires très grandes, atteignant jusqu'à 90 cm sur 2-3 cm de diamètre, cylindriques, droites, marquées extérieurement d'un sillon longitudinal correspondant à une cloison longitudinale, divisées par des cloisons transversales en 2 séries de logettes contenant chacune une petite graine comprimée.
+Pods very large, black, reaching up to 90 cm by 2–3 cm in diameter, cylindrical, straight, marked externally by a longitudinal furrow corresponding to a longitudinal partition, divided by transverse partitions into 2 series of small chambers each containing a small compressed seed.
 
 ## Type
 
@@ -33,11 +29,9 @@ Mann 1125, Princes Island (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium-sized tree with sinuous bole, deciduous. Widespread in dense humid forest and in forest galleries over a very vast range extending, from west to east, from southern Nigeria to Uganda and, from north to south, from the northern margins of the forest to the Congo.
 
-Arbre moyen à fût sinueux, caducifolié. Répandu en forêt dense humide et dans les galeries forestières dans une aire très vaste allant, de l'Ouest à l'Est, de la Nigéria du sud à l'Ouganda et, du nord au sud, des lisières septentrionales de la forêt au Congo.
-
-Il existe trois autres espèces de ce type de Cassia à fortes gousses, cloisonnées longitudinalement et transversalement, deux en Côte d'Ivoire, C. Aubrevillei et C. fikifiki à fleurs jaunes, et en Angola C. angolensis à fleurs jaunes veinées de brun. Pellegrin a signalé la présence de C. Aubrevillei au Kouilou. Cette station nous paraît douteuse.
+There exist three other species of this type of Cassia with strong pods, partitioned longitudinally and transversely: two in Ivory Coast, C. Aubrevillei and C. fikifiki with yellow flowers, and in Angola C. angolensis with yellow flowers veined in brown. Pellegrin reported the presence of C. Aubrevillei at Kouilou. This locality seems to us doubtful.
 
 ## Vernacular names
 

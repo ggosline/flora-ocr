@@ -18,29 +18,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Baphiastrum confusum (Hutch. & Dalziel) Pellegr., Bull. Soc. Bot. France 90 : 162 (1943).
 
 ## Also treated in vol 49
 
 **Pages**: 35-35 · **Source**: `sources/Millettiaspeciesfabaceae_vol49_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-381 (1968). Liane , arbuste ou petite arbre de 8 m de hauteur ; jeunes ramilles et inflorescence à pubescence brun foncé . Stipules caduques. Feuille : pétiole 9–35 mm, pulvines à chaque coté ± 4 mm de longueur, un peu élargis ; stipelles filiformes, 1–3(–4) mm de longueur ; foliole à limbe largement elliptique à oblancéolée, atteignant 22 × 10 cm, base arrondie à subcordée, sommet acuminé ou parfois obtus. Inflorescence : racèmes atteignant 6,5 cm de longueur, axillaires ou bien réunies en panicules terminales ; bractées triangulaires, 1–5 mm de longueur. Fleur : pédicelle 7–25 mm ; bractéoles ovales à suborbiculaires, 5–6(–7) mm de longueur ; calice 10–22 mm de longueur à maturité ; corolle 13–29 mm de longueur ; style 6–9 mm. Gousse 3–10 × 1–1,5 cm, à 1(–2) graine. Graine ellipsoïde, 8–11 × 6–8 × 5–6,5 mm, rouge.
+381 (1968). Liane, shrub or small tree up to 8 m tall; young branchlets and inflorescence with dark brown pubescence. Stipules caducous. Leaf: petiole 9–35 mm, pulvini on each side ± 4 mm long, slightly enlarged; stipels filiform, 1–3(–4) mm long; leaflet with blade broadly elliptic to oblanceolate, reaching 22 × 10 cm, base rounded to subcordate, apex acuminate or sometimes obtuse. Inflorescence: racemes reaching 6.5 cm long, axillary or grouped together in terminal panicles; bracts triangular, 1–5 mm long. Flower: pedicel 7–25 mm; bracteoles ovate to suborbicular, 5–6(–7) mm long; calyx 10–22 mm long at maturity; corolla 13–29 mm long; style 6–9 mm. Legume 3–10 × 1–1.5 cm, with 1(–2) seeds. Seed ellipsoid, 8–11 × 6–8 × 5–6.5 mm, red.
 
 ### Distribution
 
-Afrique de l’Ouest et centrale, de la Côte d’Ivoire jusqu’à la République démocratique du Congo ; au Gabon, que connue de la Ngounié
+West and Central Africa, from Ivory Coast to the Democratic Republic of the Congo; in Gabon, known only from the Ngounié
 
 ### Ecology
 
-forêts primaire et secondaire, lisière de forêt près de la mer et des lagunes, forêt riveraine, forêt marécageuse ; à 0–720 m d’altitude
+Primary and secondary forests, forest edge near the sea and lagoons, riparian forest, swamp forest; at 0–720 m altitude
 
 ### Source note
 
-Brummitt (1968a) distinguait une subsp. schweinfurthii de l’Afrique centrale et une subsp. confusa (Hutch. & Dalziel) Brummitt de l’Afrique de l’Ouest et de Bioko. La dernière avec des fleurs plus petites et pédicelles moins longues. Je considère que les différences observées ne supportent pas bien cette distinction, et on trouve les deux gammes dans tous les pays où l’espèce est présente. De plus, à l’état jeune, la différence n’est pas du tout discernable. Les gousses bien développées ressemblent à celles de Pithecellobium Mart., mais celles-ci sont arillées. Les gousses posséant une seule graine ne sont pas spiralées, mais plutôt falciformes. L’espèce asiatique A. borneensis (Oliv.) Brummitt est très proche de A. schweinfurthii , mais a une pubescence brun pâle et des bractées et bractéoles plus petites. b : Brummitt (1968a), Hepper (1958), Lewis et al. (2005), Pellegrin (1949), Toussaint (1953). ibliographie
+Brummitt (1968a) distinguished a subsp. schweinfurthii from Central Africa and a subsp. confusa (Hutch. & Dalziel) Brummitt from West Africa and Bioko. The latter with smaller flowers and shorter pedicels. I consider that the differences observed do not well support this distinction, and both ranges are found in all countries where the species is present. Moreover, in the young state, the difference is not at all discernible. Well-developed legumes resemble those of Pithecellobium Mart., but these are arillate. Legumes possessing a single seed are not spiralled, but rather falciform. The Asian species A. borneensis (Oliv.) Brummitt is very close to A. schweinfurthii, but has pale brown pubescence and smaller bracts and bracteoles. b: Brummitt (1968a), Hepper (1958), Lewis et al. (2005), Pellegrin (1949), Toussaint (1953). ibliography
 
 ## Notes
 

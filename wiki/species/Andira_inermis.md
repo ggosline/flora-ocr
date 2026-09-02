@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-A. inermis (Wright) DC. subsp. grandiflora (Guill., Perr. & A.Rich.) Gillett ex Polhill, Kew Bull. 23 : 490 (1969). Arbre de 7,5–10(–30) m de hauteur ; couronne ± colonnaire à pyramidale ; écorce assez lisse, grise ; ramilles à pubescence courte, rouge-brun étalée, glabrescentes, à lenticelles petites et serrées. Stipules caduques, linéaires, 6–17 mm de longueur. Feuille 20–40 cm de longueur ; stipelles subulées, 1–9 mm ; folioles en (2–)4 à 8(–9) paires , à pétiolules de 2–7 mm, à limbe oblong-lancéolé à elliptique-oblong, 5–11(–17) × 1,5–5(–6) cm, à base ± arrondie ou cunéée, à sommet pointu ou brièvement acuminé, subcoriace, tôt glabrescent sauf parfois courtement poilu sur la nervure centrale dessous ; nervures secondaires en 5 à 7 paires. Inflorescence (10–)15–40(–60) cm de longueur, brun-rouge pubescent ; bractées linéaires-lancéolées, 2–3 mm de longueur. Fleur : pédicelle 0–4 mm ; bractéoles similaires aux bractées ; calice pur purin, à tube de ± 4 mm de longueur, lobes 0,3–1 mm de longueur, à indument apprimé ; corolle 10–12(–19) mm de longueur, rose ou rouge-pourpre, étendard suborbiculaire, avec une tache blanche entourée de pourpre, glabre, ailes et carène ± 12–14 mm de longueur. Gousse subglobuleuse à ovoïde ou ellipsoïde, (2,2–)3,2–7,5 cm de longueur dont le stipe ± 2 mm, faiblement rugueuse, glabre. Graine ellipsoïde, ± 2,5 cm de longueur, légèrement pointue aux deux extrémités, à testa délicat, ridé.
+A. inermis (Wright) DC. subsp. grandiflora (Guill., Perr. & A.Rich.) Gillett ex Polhill, Kew Bull. 23 : 490 (1969). Tree 7.5–10(–30) m tall; crown ± columnar to pyramidal; bark fairly smooth, grey; branchlets with short, red-brown spreading pubescence, glabrescent, with small and closely packed lenticels. Stipules caducous, linear, 6–17 mm long. Leaf 20–40 cm long; stipels subulate, 1–9 mm; leaflets in (2–)4 to 8(–9) pairs, with petiolules 2–7 mm, with blade oblong-lanceolate to elliptic-oblong, 5–11(–17) × 1.5–5(–6) cm, with base ± rounded or cuneate, with apex acute or shortly acuminate, subcoriaceous, early glabrescent except sometimes shortly hairy on the midvein beneath; secondary veins in 5 to 7 pairs. Inflorescence (10–)15–40(–60) cm long, red-brown pubescent; bracts linear-lanceolate, 2–3 mm long. Flower: pedicel 0–4 mm; bracteoles similar to bracts; calyx purplish, with tube ± 4 mm long, lobes 0.3–1 mm long, with appressed indumentum; corolla 10–12(–19) mm long, pink or red-purple, standard suborbicular, with a white spot surrounded by purple, glabrous, wings and keel ± 12–14 mm long. Pod subglobose to ovoid or ellipsoid, (2.2–)3.2–7.5 cm long of which the stipe ± 2 mm, weakly rugose, glabrous. Seed ellipsoid, ± 2.5 cm long, slightly pointed at both ends, with delicate, wrinkled testa.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Amérique du Sud et Centrale ; en Afrique, de la Gambie jusqu’au Cameroun ; attendue au Gabon
+Widely distributed in South and Central America; in Africa, from Gambia to Cameroon; expected in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane et forêt riveraine ; jusqu’à 1200 m d’altitude. Usage : Les feuilles préparées en décoction combattent la fièvre. Elles peuvent être utilisées en thé et en ablution
+Savanna and riparian forest; up to 1200 m altitude. Uses: The leaves prepared as a decoction treat fever. They can be used as tea and in ablutions
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ angelin tree, brown heart, cabbage bark, cabbage tree, dog almond (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pennington (2003) distinguishes three subspecies, of which two in Africa. Subsp. rooseveltii (De Wild.) Gillett ex Polhill from savanna regions from Ghana to East Africa, differs by its calyx glabrous except at the base and on the margins. b: Pennington (2003), Polhill (1969, 1971b). Bibliography
 
-Pennington (2003) distingue trois sous-espèces, dont deux en Afrique. La subsp. rooseveltii (De Wild.) Gillett ex Polhill des régions de savanes depuis le Ghana jusqu’en Afrique orientale, diffère par son calice glabre, sauf à la base et sur les marges. b : Pennington (2003), Polhill (1969, 1971b). ibliographie
-
-Fleur. – 5. Fleur, corolle enlevée. – 6. Fruit (× ⅔). Dessin par J.G.A. (1, 2, 6) et W.H.A. Hekking (3–5), reproduit avec permission à partir de Little & Wadsworth (1964) et Lindeman et al. (1963).
+Flower. – 5. Flower, corolla removed. – 6. Fruit (× ⅔). Drawing by J.G.A. (1, 2, 6) and W.H. Hekking (3–5), reproduced with permission from Little & Wadsworth (1964) and Lindeman et al. (1963).
 
 ## Notes
 

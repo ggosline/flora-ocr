@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sous-arbrisseau de 0,3–2,5 m de hauteur ; tige à portion basale immergée, épaisse et spongieuse , glabre à rugueuse, à poils courts à base bulbeuse. Stipules caduques, elliptiqueslancéolées, 3–15 × 1–3 mm. Feuille : pétiole 0,4–1 cm ; rachis atteignant 5–8 cm ; folioles en 8 à 35 paires , à limbe linéaire-oblong, 4–8 × 1 mm , glabre, vert glauque, à 1 nervure centrale. Inflorescence en panicule lâche , avec 1 à 4 fleurs ; pédoncule 1–4 cm, grêle ; brac tées 2–4 × 1,5–2 mm, à marge denticulée. Fleur : pédicelle 1–3 mm ; bractéoles comme les bractées, ciliolées ; calice à 2 lèvres de 5–6 mm de longueur, glabre ; corolle glabre, jaune à brun-pourpre , étendard redressé, suborbiculaire à ellptique, 6–10 mm de longueur , ailes obliques, 6–8 mm de longueur, obtuses, carène plus aigüe, 7–9 mm de longueur ; étamines 6–11 mm de longueur, anthères toutes semblables ; ovaire linéaire, 4–8 mm de longueur ; style grêle, 2–3 mm, stigmate minuscule. Gousse linéaire, droite à peu courbée, suture dorsale droite, suture ventrale échancrée, articles 3 à 5(–12) , 3–5(–7) mm de longueur et de largeur , glabrescents à pubescents, légèrement pustuleux. Graine réniforme, ± 4 × 2 × 1,5 mm, brune ; hile assez central.
+Subshrub 0.3–2.5 m in height; stem with basal portion immersed, thick and spongy, glabrous to rugose, with short hairs with bulbous base. Stipules caducous, elliptic-lanceolate, 3–15 × 1–3 mm. Leaf: petiole 0.4–1 cm; rachis reaching 5–8 cm; leaflets in 8 to 35 pairs, with linear-oblong limb, 4–8 × 1 mm, glabrous, glaucous green, with 1 central vein. Inflorescence in lax panicle, with 1 to 4 flowers; peduncle 1–4 cm, slender; bracts 2–4 × 1.5–2 mm, with denticulate margin. Flower: pedicel 1–3 mm; bracteoles like the bracts, ciliolate; calyx with 2 lips 5–6 mm in length, glabrous; corolla glabrous, yellow to brown-purple, standard erect, suborbicular to elliptic, 6–10 mm in length, wings oblique, 6–8 mm in length, obtuse, keel more acute, 7–9 mm in length; stamens 6–11 mm in length, anthers all similar; ovary linear, 4–8 mm in length; style slender, 2–3 mm, stigma minute. Legume linear, straight to slightly curved, dorsal suture straight, ventral suture emarginate, articles 3 to 5(–12), 3–5(–7) mm in length and width, glabrescent to pubescent, slightly pustulate. Seed reniform, ± 4 × 2 × 1.5 mm, brown; hilum fairly central.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale et largement répandue, probablement d’origine asiatique ; au Gabon, récoltée sans localité
+pantropical and widely distributed, probably of Asian origin; in Gabon, collected without locality
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endroits humides, bords de rivière, zones inondées ; jusqu’à 1530 m d’altitude. Usage : La plante est une herbe de fourrage et d’engrais vert, parfois considérée comme invasive. Aux Indes, on utilise le cœur de la tige (Shola pith) pour des objets d’art
+humid places, riverbanks, flooded zones; up to 1530 m in altitude. Use: The plant is a fodder and green manure herb, sometimes considered invasive. In the Indies, the pith of the stem (Shola pith) is used for art objects
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ Buddha pea, Indian joint-vetch, sensitive joint-vetch (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce a été récoltée une seule fois au Gabon sans localité ( Duparquet 43). b : Léonard (1954a, 1954b), Pellegrin (1949), Sosef & van der Maesen (1997). ibliographie
+The species has been collected only once in Gabon without locality (Duparquet 43). b: Léonard (1954a, 1954b), Pellegrin (1949), Sosef & van der Maesen (1997). Bibliography
 
 ## Notes
 

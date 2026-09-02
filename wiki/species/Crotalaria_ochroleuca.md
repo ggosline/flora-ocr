@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou vivace, atteignant 2,7 m de hauteur ; tige dressée, à rameaux lâches, peu feuillés, cylindriques, ± glabres ou finement apprimés-pubescents. Stipules absentes . Feuille : pétiole 1–3 cm, velu ; folioles 3 , à limbe linéaire à lancéolé , 1,5–13(–18) × 0,5–1,2(–3) cm, les extrémités atténuées, glabre dessus, à pubescence fine et apprimée dessous, la terminale plus longue et plus étroite. Inflorescence en racèmes terminales , lâches , de 10–50 cm de lon gueur, multiflores ; bractées lancéolées, 2–4 mm de longueur, velues. Fleur : bractéoles sous le calice, étroites, ± 1 mm de longueur ; calice devenant tronqué à la base et réfléchi contre le pédicelle, 5–8 mm de longueur, glabre , à lobes lancéolés, subulés, un peu plus courts que le tube ; étendard ovale, 16–23 mm de longueur , sommet aigu, crème ou jaune pâle , strié de rouge ou de marron, ailes oblongues-lancéolées, plus courtes que la carène, carène 17–23 mm de longueur, à suture inférieure arrondie, au rostre assez long et aigu, à marges légèrement poilues. Gousse subsessile, oblongue-cylindrique , 4–7 × (1,2–)1,5–2 cm , très légèrement velue, surtout sur les marges, avec jusqu’à 100 graines . Graine oblique-cordiforme, ± 3,5 mm de longueur, lisse, jaune pâle à orange .
+Annual or perennial herb, reaching 2.7 m in height; stem erect, with loose branches, sparsely leafed, cylindrical, ± glabrous or finely appressed-pubescent. Stipules absent. Leaf: petiole 1–3 cm, hairy; leaflets 3, with limb linear to lanceolate, 1.5–13(–18) × 0.5–1.2(–3) cm, the extremities attenuate, glabrous above, with fine appressed pubescence below, the terminal one longer and narrower. Inflorescence in terminal racemes, loose, 10–50 cm in length, multiflorous; bracts lanceolate, 2–4 mm in length, hairy. Flower: bracteoles below the calyx, narrow, ± 1 mm in length; calyx becoming truncate at the base and reflexed against the pedicel, 5–8 mm in length, glabrous, with lanceolate, subulate lobes, somewhat shorter than the tube; standard oval, 16–23 mm in length, apex acute, cream or pale yellow, streaked with red or brown, wings oblong-lanceolate, shorter than the keel, keel 17–23 mm in length, with rounded lower suture, with fairly long and acute rostrum, with slightly hairy margins. Legume subsessile, oblong-cylindric, 4–7 × (1.2–)1.5–2 cm, very slightly hairy, especially on the margins, with up to 100 seeds. Seed oblique-cordiform, ± 3.5 mm in length, smooth, pale yellow to orange.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, bien répandue, sauf les régions du Sud et du Nord-Est, naturalisée au Brésil, aux États Unis, en Australie, la Nouvelle-Guinée et la Chine ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+Tropical Africa, widely distributed, except in the South and North-East regions, naturalized in Brazil, the United States, Australia, New Guinea and China; in Gabon, known from Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbacées, endroits humides, bords de route ; au Gabon à 30–130 m d’altitude, ail leurs, jusqu’à 1800 m. Usage : Parfois cultivées en Afrique et à Madagascar, les feuilles de cette espèce sont mangées comme légume vert (assez amères) au Sénégal, au Nigéria, au Cameroun, en République du Congo et en Répu blique démocratique du Congo, au Kenya, au Soudan du Sud, en Ouganda et en Tanzanie. La plante est utilisé comme engrais vert et comme C. juncea , de fourrage
+Herbaceous savannas, humid places, roadsides; in Gabon at 30–130 m altitude, elsewhere, up to 1800 m. Uses: Sometimes cultivated in Africa and Madagascar, the leaves of this species are eaten as a green vegetable (rather bitter) in Senegal, Nigeria, Cameroon, Republic of the Congo and Democratic Republic of the Congo, Kenya, South Sudan, Uganda and Tanzania. The plant is used as green manure and like C. juncea, as fodder.
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ crotalaire, sonnette (fr.), rattlepod (angl.)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est mentionnée par Raponda-Walker & Sillans (1961) sous le nom C. intermedia . b : Polhill (1982, 2003), Schippers (2004a), Wilczek (1953). ibliographie
+This species is mentioned by Raponda-Walker & Sillans (1961) under the name C. intermedia. b: Polhill (1982, 2003), Schippers (2004a), Wilczek (1953). Bibliography
 
 ## Notes
 

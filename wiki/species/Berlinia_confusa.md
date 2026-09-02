@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trees. Leaves with 3-5 leaflets, obliquely elliptic-oblong to oblong-ovate, distinctly acuminate, sometimes emarginate at the apex, ordinarily up to 14 cm in length by 6 cm in width, glabrous or glabrescent. Lateral veins 5-8 pairs, very ascending. Rachis 5-17 cm long, finely rusty-pubescent.
 
-Arbres. Feuilles à 3-5 folioles, obliquement elliptiques-oblongues à ovées oblongues, nettement acuminées, parfois émarginées au sommet, ordinairement jusqu'à 14 cm de longueur sur 6 cm de largeur, glabres ou glabrescentes. Nervures latérales 5-8 paires, très ascendantes. Rachis long de 5-17 cm, finement pubescent roussâtre.
-
-Pédicelles longs de 2-3 cm. Bractéoles 3 à 4,5 cm de longueur, sur 1,4 à 1,7 cm de largeur, finement tomenteuses extérieurement. Tube du calice glabre ou presque, de 10-15 mm; lobes linéaires de 15-25 cm. Pétale postérieur à lame entière ou légèrement échancrée, striée, de 4 à 5,5 cm de longueur sur 3-4 cm de largeur, mais pouvant atteindre une plus grande largeur, pubescent extérieurement.
+Pedicels 2-3 cm long. Bracteoles 3 to 4.5 cm in length, by 1.4 to 1.7 cm in width, finely tomentose externally. Calyx tube glabrous or nearly so, 10-15 mm; lobes linear 15-25 cm. Posterior petal with entire or slightly notched lamina, striate, 4 to 5.5 cm in length by 3-4 cm in width, but capable of attaining greater width, pubescent externally.
 
 ## Type
 
@@ -33,13 +31,11 @@ J. Smith 54, Calabar, Nigéria (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Medium to large trees, without buttresses, with hemispheric crown, preferring valleys and watercourse margins. Trunk cylindrical, straight. Bark smooth, fibrous on the cross-section, pink-brown.
 
-Arbres moyens ou grands, sans contreforts, à la cime hémisphérique, fréquentant de préférence les vallées et les bords des cours d'eau. Fût cylindrique, droit. Écorce lisse, de tranche fibreuse, brun rose.
+This species is distributed from Sierra Leone to Gabon.
 
-Cette espèce est répandue depuis la Sierra Leone jusqu'au Gabon.
-
-L’Ebiara-minkoul, Berlinia sp. cité par de Saint-Aubin (Forêt Gabon : 77), qui fréquenterait au Gabon les régions montagneuses, paraît devoir être rapporté au B. confusa.
+The Ebiara-minkoul, Berlinia sp. cited by de Saint-Aubin (Forêt Gabon: 77), which would frequent the mountainous regions in Gabon, appears to be referable to B. confusa.
 
 ## Vernacular names
 

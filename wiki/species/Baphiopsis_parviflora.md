@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbre atteignant 5 m de hauteur ; ramilles pubescentes, tôt glabrescentes. Stipules non vues. Feuille : pétiole avec pulvinus séparés , 1–4 cm, pubescent, glabrescent ; foliole à limbe ± ovale-elliptique, 10–19 × 4–8 cm, arrondi à subcordé à la base, sommet acuminé sur 2–3 cm, glabre ; nervures latérales en ± 7 paires, à réticulation fine sur les deux faces . Inflores cence pubescente ; bractées et bractéoles ovales, 1–1,5 mm de longueur, souvent tôt caduques. Fleur : bractéoles le plus souvent situées près du calice ; pédicelle filiforme, 6–12 mm ; calice spathacé , 4–5 mm de longueur, pubérulent ; pétales oblancéolés, 6–7 × 2–3 mm ; étamines 5–6 mm, anthères 0,75 mm de longueur ; pistil 6–7 mm de longueur, ovaire à 2 ou 3 ovules, glabre à velu. Gousse elliptique à oblongue-obovale, 4,5–5 × 1,5–2 cm, à 1 ou 2 graines. Graine remplissant entièrement la gousse.
+Small tree reaching 5 m in height; branchlets pubescent, early glabrescent. Stipules not seen. Leaf: petiole with separate pulvinus, 1–4 cm, pubescent, glabrescent; leaflet with blade ± ovate-elliptic, 10–19 × 4–8 cm, rounded to subcordate at base, apex acuminate for 2–3 cm, glabrous; lateral veins in ± 7 pairs, with fine reticulation on both surfaces. Inflorescence pubescent; bracts and bracteoles ovate, 1–1.5 mm long, often early caducous. Flower: bracteoles mostly situated near the calyx; pedicel filiform, 6–12 mm; calyx spathate, 4–5 mm long, puberulent; petals oblanceolate, 6–7 × 2–3 mm; stamens 5–6 mm, anthers 0.75 mm long; pistil 6–7 mm long, ovary with 2 or 3 ovules, glabrous to villous. Pod elliptic to oblong-obovate, 4.5–5 × 1.5–2 cm, with 1 or 2 seeds. Seed filling the pod entirely.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République démocratique du Congo, Angola, Tanzanie et Ouganda ; au Gabon, connue de toutes les provinces sauf de l’Estuaire, du Moyen-Ogooué et de l’Ogooué-Maritime
+Cameroon, Gabon, Democratic Republic of the Congo, Angola, Tanzania and Uganda; in Gabon, known from all provinces except Estuaire, Moyen-Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon à 525–600 m d’altitude, ailleurs jusqu’à 1300 m
+primary and secondarized forest; in Gabon at 525–600 m elevation, elsewhere up to 1300 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The number of stamens is variable, from 12 to 18 in Gabon, up to 41 in the Democratic Republic of the Congo. Bibliography: Aubréville (1968), Brenan (1967), Gilbert & Boutique (1952), Pellegrin (1949).
 
-Le nombre d’étamines est variable, de 12 à 18 au Gabon, jusqu’à 41 en République démocratique du Congo. b : Aubréville (1968), Brenan (1967), Gilbert & Boutique (1952), Pellegrin (1949). ibliographie
-
-Gousse (× 0,8). – Graine (× 1). (1-5 : G.H.S. Wood 322 ; 6, 7 : Purseglove 3416 : 8 : Benedicto 4 ; 9 : Dawe 972 ). Dessin par Margareth Stone, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Brenan (1967).
+Pod (× 0.8). – Seed (× 1). (1-5: G.H.S. Wood 322; 6, 7: Purseglove 3416; 8: Benedicto 4; 9: Dawe 972). Drawing by Margareth Stone, Royal Botanic Gardens, Kew (©), reproduced with permission from Brenan (1967).
 
 ## Notes
 
