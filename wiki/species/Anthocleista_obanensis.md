@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Cat. Talbot's Nig. Pl. : 67 (1913). — FWTA ed. 1, 2 : 18. — LEEUWENBERG, l. c. : 34, fig. 16, carte 12. — FWTA ed. 2, 2 : 37.
 
-Liane ou arbuste sarmenteux atteignant une hauteur de 4-10 m, souvent épinphyte avec longues racines, sans épines.
+Liane or sarmentose shrub reaching a height of 4-10 m, often epiphytic with long roots, unarmed.
 
-Feuilles à pétiole court, jusqu'à 12 mm de longueur; limbe étroitement obové ou oblong, de  $ 4,5-20 \times 1-7 $ cm, acuminé ou apiculé au sommet, cuné à la base ou décurrent sur le pétiole, entier; nervures secondaires indistinctes.
+Leaves with short petiole, up to 12 mm long; lamina narrowly obovate or oblong, 4.5-20 × 1-7 cm, acuminate or apiculate at apex, cuneate at base or decurrent on petiole, entire; secondary veins indistinct.
 
-Sépales oblongs, de 12-17 × 6-11 mm, nettement concaves, arrondis, étant déchirés et perdant souvent leur sommet lors du développement de la corolle, dressés contre la corolle et ainsi après lors de la fructification, même sur échantillons secs. Corolle dans le jeune bouton jaune pâle et atténuée au sommet, dans le bouton mûr ± 2-2,3 fois plus longue que le calice, de 24-30 mm de longueur et atténuée, blanche ou crème; tube 1,3-1,8 fois plus long que le calice et 1,5-2 fois plus long que les lobes; lobes étalés.
+Sepals oblong, 12-17 × 6-11 mm, clearly concave, rounded, often torn and losing their apex during corolla development, erect against corolla and thus after fruiting, even on dry specimens. Corolla in young bud pale yellow and attenuate at apex, in mature bud ± 2-2.3 times longer than calyx, 24-30 mm long and attenuate, white or cream; tube 1.3-1.8 times longer than calyx and 1.5-2 times longer than lobes; lobes spreading.
 
-Baies ellipsoïdes, de 22-25 × 16-18 mm, apiculées et ruguleuses ou lisses à l'état desséché, à paroi épaisse. Pl. 5, p. 20.
+Berries ellipsoid, 22-25 × 16-18 mm, apiculate and rugulose or smooth in dried state, with thick wall. Pl. 5, p. 20.
 
 ## Type
 
@@ -34,9 +32,7 @@ Talbot 305, Oban, Calabar, Nigeria (holotype : BM, isotypes : K, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria du sud, Cameroun, Gabon, Congo-Kinshasa. Lieux humides, marécages ou bords de rivières, forêts. Altitude 0-1 650 m.
+Southern Nigeria, Cameroon, Gabon, Congo-Kinshasa. Humid places, marshes or river banks, forests. Altitude 0-1,650 m.
 
 LOGANIACEAE
 

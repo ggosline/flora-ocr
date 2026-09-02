@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Urginea altissima (L.f.) Baker, J. Linn. Soc ., Bot. 13 : 221 (1873). Plante habituellement robuste, (35–)50–150(–250) cm de hauteur, fleurit généralement avant les feuilles. Feuilles (3–)5–10(–16) sortant du bulbe ; limbe lancéolé, 20–50 × 2–7,5 cm, marges entières. Inflorescence : dressée ; racème de 30–60(–80) cm, ± dense, avec 80–300(–700) fleurs ; hampe florale 0,5–1(–2) cm de diamètre ; bractées lancéolées, 5–8(–14) mm de longueur, les basales avec un éperon de 1–3 mm de longueur . Fleur à pédicelle étalé de (0,5–)1–1,5(–3) cm, glabre ; tépales libres ou fusionnés sur 2 mm, étalés à révolutés , oblongs, 5–11(–15) mm de longueur, blancs à vert pâle sans ou avec une veine verte ou pourpre ; filets linéaires, libres ou rattachés aux tépales, blancs, partie libre de 4–7 mm de longueur, anthères dorsifixes, jaune pâle sur le frais, 1–3 mm de longueur ; ovaire turbiné à ovoïde, 3–4 × 1,5–2 mm ; style aussi long que l´ovaire. Fruit subglobuleux , 8–15 mm de diamètre, parfois avec un apex émarginé. Graines ovoïdes, asymétriques, 5–8 mm de longueur.
+Urginea altissima (L.f.) Baker, J. Linn. Soc., Bot. 13: 221 (1873). Plant usually robust, (35–)50–150(–250) cm tall, generally flowers before leaves emerge. Leaves (3–)5–10(–16) arising from bulb; blade lanceolate, 20–50 × 2–7.5 cm, margins entire. Inflorescence: erect; raceme 30–60(–80) cm, ± dense, with 80–300(–700) flowers; floral scape 0.5–1(–2) cm in diameter; bracts lanceolate, 5–8(–14) mm long, basal ones with a spur 1–3 mm long. Flower with spreading pedicel (0.5–)1–1.5(–3) cm, glabrous; tepals free or fused for 2 mm, spreading to revolute, oblong, 5–11(–15) mm long, white to pale green without or with a green or purple vein; filaments linear, free or attached to tepals, white, free part 4–7 mm long, anthers dorsifixed, pale yellow when fresh, 1–3 mm long; ovary turbinate to ovoid, 3–4 × 1.5–2 mm; style as long as ovary. Fruit subglobose, 8–15 mm in diameter, sometimes with an emarginate apex. Seeds ovoid, asymmetric, 5–8 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale, du Sénégal jusqu’au Kenya et l’Afrique du Sud. Au Gabon, observée dans la province du Haut Ogooué (sud-est de Lékoni et au Plateaux Batéké) et dans la Nyanga à Tchibanga
+Widely distributed in tropical Africa, from Senegal to Kenya and South Africa. In Gabon, observed in the Haut Ogooué province (southeast of Lékoni and in the Batéké Plateaux) and in Nyanga at Tchibanga.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes et forêts ouvertes, endroits secs ou humides, sur sols sableux, argileux ou rocheux ; au Gabon jusqu’à 600 m d’altitude, ailleurs jusqu’à 2100 m. B : Jessop (1977), Oyewole (1987), Stedje (1987). i B liographie
+Savannas and open forests, dry or humid places, on sandy, clayey or rocky soils; in Gabon up to 600 m altitude, elsewhere up to 2100 m. B: Jessop (1977), Oyewole (1987), Stedje (1987). Bibliography
 
 ## Notes
 

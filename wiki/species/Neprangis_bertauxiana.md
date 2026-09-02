@@ -17,37 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige d'environ 30 cm. Feuilles 12-18, 3,5-8 x 0,15 cm, cylindriques, charnues, aiguës. Inflorescence < 1,3 cm, fleurs émergeant à chaque nœud, 2-3-flore. Fleurs petites, non résupinées, pendantes. Sépale dorsal de 2 x 2 mm, ové-triangulaire, subobtus. Pétales linéaires-lancéolés, obtus. Sépales latéraux obliquement oblongs-ovés, subobtus. Labelle 3 x 4,6 mm, bilobé, mince, frêle, les deux lobes divergents, 3 x 2,3 mm, obliquement elliptiques-ovés, arrondis. Éperon 6 x 1,5 mm à la base, brusquement genouillé vers le milieu. – Pl. 170, p. 373.
+Stem approximately 30 cm. Leaves 12–18, 3.5–8 × 0.15 cm, cylindrical, fleshy, acute. Inflorescence < 1.3 cm, flowers emerging at each node, 2–3-flowered. Flowers small, not resupinate, pendulous. Dorsal sepal 2 × 2 mm, ovate-triangular, subobtuse. Petals linear-lanceolate, obtuse. Lateral sepals obliquely oblong-ovate, subobtuse. Labellum 3 × 4.6 mm, bilobed, thin, fragile, the two lobes divergent, 3 × 2.3 mm, obliquely elliptic-ovate, rounded. Spur 6 × 1.5 mm at the base, abruptly geniculate toward the middle. – Pl. 170, p. 373.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce connue que par son type
+species known only from its type
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte found at the edge of savanna
 
-épiphyte trouvé en bord de savane
+MATERIAL EXAMINED (Map 78):
 
-MATÉRIEL ÉTUDIÉ (Carte 78) :
-
-Hallé 2847, Bélinga, aérodrome (fl. Oct.), P!.
+Hallé 2847, Bélinga, aerodrome (fl. Oct.), P!.
 
 38. RANGAERIS (Schltr.) Summerh.
 
-Kew Bull. 1936 : 227 (1936). – FTWA : 266 (1968) ; STEWART & al., Wild Orchid. S. Afr. : 265 (1982) ; CRIBB, FTEA, Orchid. 3 : 570 (1989) ; LA CROIX & al., Orchid. Malawi : 284 (1991) ; FAC 2 : 519 (1992) ; FCAM 3 : 672 (2001) ; GYNOR 3 : 242 (2003).
+Kew Bull. 1936: 227 (1936). – FTWA: 266 (1968); STEWART & al., Wild Orchid. S. Afr.: 265 (1982); CRIBB, FTEA, Orchid. 3: 570 (1989); LA CROIX & al., Orchid. Malawi: 284 (1991); FAC 2: 519 (1992); FCAM 3: 672 (2001); GYNOR 3: 242 (2003).
 
-Tige courte à allongée, généralement non ramifiée. Feuilles groupées en éventail ou bien espacées le long de la tige, iridiformes ou aplaties dorsiventralement, coriaces. Fleurs résupinées. Labelle de forme variée. Éperon filiforme. Gynostème assez court et massif. Anthère allongée au sommet. Rostellum grand, linguiforme, lamellaire, plus large au sommet tronqué. Viscidie unique. Tegula double, filiforme, parfois
+Stem short to elongate, generally unbranched. Leaves grouped in a fan or well-spaced along the stem, iridiform or flattened dorsiventrally, coriaceous. Flowers resupinate. Labellum of varied form. Spur filiform. Gynostemium rather short and massive. Anther elongate at the apex. Rostellum large, linguiform, lamellate, wider at the truncate apex. Viscidium unique. Tegula double, filiform, sometimes
 
-PL. 170. – Neprangis bertauxiana Szlach. & Olsz.: A, fleur et bractées ; B, labelle et éperon ; C, sépale dorsal ; D, pétale ; E, sépale latéral (A-E, Hallé 2847, P).
+PL. 170. – Neprangis bertauxiana Szlach. & Olsz.: A, flower and bracts; B, labellum and spur; C, dorsal sepal; D, petal; E, lateral sepal (A–E, Hallé 2847, P).
 
-tordue. Rostellum tridenté après le retrait du pollinarium, lobes latéraux nettement plus grands que le médian, peu développés. - Pl. 171, p. 375.
+twisted. Rostellum tridentate after withdrawal of the pollinium, lateral lobes distinctly larger than the median, poorly developed. – Pl. 171, p. 375.
 
-Genre de 6 espèces limitées à l'Afrique tropicale dont une seule au Gabon.
+Genus of 6 species limited to tropical Africa of which only one in Gabon.
 
 ## Figures
 

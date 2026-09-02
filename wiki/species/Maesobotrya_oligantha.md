@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 3, 32(2) : 216 (2011). Arbuste de 1,75–3,5 m de hauteur ; écorce grise, fissurée longitudinalement ; ramilles hirsutes à longs poils étalés . Stipule s ± caduques, étroitement lancéolées, 2–3 × 0,5 mm, hirsutes. Feuille : pétiole 0,5–2,5(–3,5) cm, hirsute ; limbe elliptique, 7,5–16,5 × 3,5–7 cm, arrondi à subcordé à la base , sommet étroitement acuminé, à marge très faible ment dentée , hirsute dessus (au moins sur la nervure médiane) et dessous surtout sur les 6–9 paires de nervures latérales. Inflorescence axillaire sur les jeunes rameaux, très courtement racémeuse , à rachis de 0,5–4 mm, les mâles à 5–10 fleurs, les femelles à 3–5 fleurs ; bractées ovales, environ 1 mm de longueur, aiguës, ciliées ; bractéoles légère ment plus petites. Fleur mâle : pédicelle 2–3 mm, glabre ; sépales 5, elliptiques, environ 1 mm de longueur, glabres, ciliés ; étamines 5, environ 1 mm de longueur, glabres ; disque ± annulaire, pubescent. Fleur femelle : pédicelle < 1 mm, à pubescence apprimée ; sépales semblables à ceux des fleurs mâles ; ovaire environ 2 mm de longueur, couvert de poils apprimés denses. Fruit ovoïde , environ 14 × 7 mm, rouge à maturité, à poils apprimés, courts et clairsemés . Graine 1 ; sarcostesta bleu .
+Adansonia, ser. 3, 32(2): 216 (2011). Shrub 1.75–3.5 m tall; bark grey, longitudinally fissured; branchlets hirsute with long spreading hairs. Stipules ± caducous, narrowly lanceolate, 2–3 × 0.5 mm, hirsute. Leaf: petiole 0.5–2.5(–3.5) cm, hirsute; lamina elliptic, 7.5–16.5 × 3.5–7 cm, rounded to subcordate at base, apex narrowly acuminate, with very weakly dentate margin, hirsute above (at least on midvein) and below especially on the 6–9 pairs of lateral veins. Inflorescence axillary on young branches, very shortly racemose, with rachis 0.5–4 mm, the male ones with 5–10 flowers, the female ones with 3–5 flowers; bracts ovate, approximately 1 mm long, acute, ciliate; bracteoles slightly smaller. Male flower: pedicel 2–3 mm, glabrous; sepals 5, elliptic, approximately 1 mm long, glabrous, ciliate; stamens 5, approximately 1 mm long, glabrous; disc ± annular, pubescent. Female flower: pedicel < 1 mm, with appressed pubescence; sepals similar to those of male flowers; ovary approximately 2 mm long, covered with dense appressed hairs. Fruit ovoid, approximately 14 × 7 mm, red at maturity, with appressed, short and scattered hairs. Seed 1; sarcotesta blue.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée Équatoriale et Gabon où elle a été récoltée dans l’Estuaire (Monts de Cristal) et la région limitrophe du Woleu-Ntem
+Equatorial Guinea and Gabon where it was collected in the Estuary (Cristal Mountains) and the bordering region of Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ; au Gabon, à 520-850 m d’altitude. b : Lachenaud & Breteler (2011). ibliographie
+Primary forest; in Gabon, at 520–850 m altitude. b: Lachenaud & Breteler (2011). Bibliography
 
 ## Notes
 

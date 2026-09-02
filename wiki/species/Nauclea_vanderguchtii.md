@@ -22,13 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 4-30 m tall and attaining 25-80 cm diam.; trunk cylindrical. Young internodes grooved, very often swollen, hollow, perforated and myrmecophilous in their upper part. Large oval stipules 20-40 × 10-20 mm, gibbous at the base, rapidly caducous; petiole robust 12-30 mm long, glabrous. Young leaves red-purple on the lower face. Blade oblong-ovate 21-35 (50) × 8-18 (28) cm, glabrous or only mucropubescent on the underside of the main veins; base rounded to cordate, ± clearly enlarged; apex obtuse or adorned with a short acumen. 9-13 pairs of secondary veins almost straight and fairly ascending. Intersecondary veins numerous and fairly regular.
 
-Arbre de 4-30 m de haut et atteignant 25-80 cm de diam.; fût cylindrique. Jeunes entreœuds cannelés, très souvent renflés,
-
-creux, perforés et myrmécophiles dans leur partie supérieure. Grandes stipules ovales de 20-40 × 10-20 mm, bossues à la base, rapidement caduques; pétiole robuste long de 12-30 mm, glabre. Jeunes feuilles rouge-pourpre sur la face inférieure. Limbe oblong-ové de 21-35 (50) × 8-18 (28) cm, glabre ou seulement mucropubérulent sur le dessous des nervures principales; base arrondie à cordée, ± nettement élargie sommet obtus ou orné d'un court acumen. 9-13 paires de nervures secondaires presque droites et assez ascendantes. Nervures intersecondaires nombreuses et assez régulières.
-
-Inflorescences terminales solitaires; pédoncule courbé latéralement, long de 10-15 mm, atténué au sommet. Bouquets floraux sphériques de 4-6 cm de diam. Calices tubuleux longuement adhérents entre eux, à sommets sépalaires en festons ciliolés. Corolle de 12-15 mm à 4-5(6) lobes, glabre à l'intérieur comme à l'extérieur. Anthères étroites, longues d'env. 2 mm. Style d'env. 2 cm de long; stigmate en massue allongée et acuminée sur 1 mm. Ovaire à 2 loges multioulées. Infrutescence sphéroïde de 6-10 cm de diam., portée par un pédoncule court et recourbé, ornée d'avéoles assez profondes et d'un réseau interrompu de crêtes déchiquetées. Graines noirâtres anguleuses ± comprimées, d'env. 2,5 × 1 mm, à tégument finement réticulé.
+Inflorescences terminal solitary; peduncle curved laterally, 10-15 mm long, attenuate at the apex. Floral clusters spherical 4-6 cm diam. Calyces tubular firmly adhering to one another, with sepal apices in ciliolate festoons. Corolla 12-15 mm with 4-5(6) lobes, glabrous inside as well as outside. Anthers narrow, c. 2 mm long. Style c. 2 cm long; stigma clavate and acuminate over 1 mm. Ovary 2-locular multiloculate. Infructescence spheroid 6-10 cm diam., borne by a short and recurved peduncle, adorned with fairly deep alveoles and an interrupted network of jagged crests. Seeds blackish angular ± compressed, c. 2.5 × 1 mm, with finely reticulate tegument.
 
 ## Type
 
@@ -36,11 +32,9 @@ Vandergucht 94, N. du Congo belge (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species inhabits ripicole and swampy forests. It is not known with certainty from Côte d'Ivoire but its range extends at least from S. Nigeria to the central forest district of the former Belgian Congo. The myrmecophilous branches shelter Crematogaster ants.
 
-Cette espèce habite les forêts ripicoles et marécageuses. Elle n'est pas connue avec certitude de Côte d'Ivoire mais son aire de répartition s'étend au moins du S. Nigeria au district forestier central du Congo ex-belge. Les rameaux myrmécophiles abritent des fourmis Crematogaster.
-
-Bois utilisable en menuiserie; fruit comestible à pleine maturité.
+Wood usable in carpentry; fruit edible at full maturity.
 
 ## Specimens examined
 

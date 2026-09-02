@@ -17,51 +17,45 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : du Chaillu s.n., Gabon, syn-K!, Mann 521, Nigeria, syn-K!.
 
 – Listrostachys chailluanum (Hook.f.) Rchb.f., Flora 68 : 381 (1885).
 
 – Angorchis chailluanum (Hook.f.) O. Kuntze, Rev. Gen. Pl. 2 : 651 (1891).
 
-Tige < 70 cm. Feuilles 8-25 × 1,5-3,5 cm, linéaires-oblancéolées, bilobées. Inflorescence 12-25 cm, 6-12-flore. Fleurs assez grandes, résupinées, blanches, odorantes. Sépale dorsal linéaire-lancéolé, acuminé à brièvement caudé. Pétales légèrement obliques, linéaires-lancéolés. Sépales latéraux obliquement linéaires-lancéolés, longuement acuminés, fortement falciformes. Labelle 33-42 × 5-11 mm, linéaire-lancéolé ou étroitement triangulaire, longuement acuminé à presque caudé, épaissi le long des marges, glabre. Éperon 95-145 mm, étroitement conique à la base, filiforme vers le sommet. - Pl. 159, p. 355.
+Stem < 70 cm. Leaves 8-25 × 1.5-3.5 cm, linear-oblanceolate, bilobed. Inflorescence 12-25 cm, 6-12-flowered. Flowers rather large, resupinate, white, fragrant. Dorsal sepal linear-lanceolate, acuminate to briefly caudate. Petals slightly oblique, linear-lanceolate. Lateral sepals obliquely linear-lanceolate, long-acuminate, strongly falcate. Lip 33-42 × 5-11 mm, linear-lanceolate or narrowly triangular, long-acuminate to almost caudate, thickened along the margins, glabrous. Spur 95-145 mm, narrowly conical at the base, filiform toward the apex. - Pl. 159, p. 355.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Nigeria, Cameroun, Gabon, Congo, Zaire, Rwanda, Burundi, Ouganda
+Sierra Leone, Nigeria, Cameroon, Gabon, Congo, Zaire, Rwanda, Burundi, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1 250 m. Epiphytic in dense forest
 
-alt. 0-1 250 m. Épiphyte en forêt dense
-
-MATÉRIEL ÉTUDIÉ (Carte 75) :
+MATERIAL EXAMINED (Map 75) :
 
 du Chaillu s.n., Gabon, K.
 
-De Wilde, Arends, Louis, Bouman & Karper 761, environ 17 km le long de la route Libreville-Cap Estérias (fl. Févr.), P!, WAG!.
+De Wilde, Arends, Louis, Bouman & Karper 761, approximately 17 km along the Libreville–Cap Estérias road (fl. Feb.), P!, WAG!.
 
-Dybowski 138, Cap Lopez (fl. Fév.r.), P!
+Dybowski 138, Cap Lopez (fl. Feb.), P!
 
-Hallé 1684, CEFA-Ayem, 10 km SO de Ndjolé (fl. Avr.), P!
+Hallé 1684, CEFA-Ayem, 10 km SO of Ndjolé (fl. Apr.), P!
 
-Hallé & Villiers 5457, Cap Estérias (fl. Févr.), P!.
+Hallé & Villiers 5457, Cap Estérias (fl. Feb.), P!.
 
-Klaine 437, Libreville (fl. Fév.r.), P! ; 1648, environs de Libreville (fr. Déc.), P!.
+Klaine 437, Libreville (fl. Feb.), P! ; 1648, surroundings of Libreville (fr. Dec.), P!.
 
-Le Testu 2258, bords de la Ngounyé (fl. Janv.), P! ; 5780, Noumbo sur Ogoulou (fl. Nov.), P! ; 5870, Sindara (fl. Mars), P!.
+Le Testu 2258, banks of the Ngounyé (fl. Jan.), P! ; 5780, Noumbo on Ogoulou (fl. Nov.), P! ; 5870, Sindara (fl. Mar.), P!.
 
-Pobeguin s.n., Cap Lopez, Pl.
+Pobeguin s.n., Cap Lopez, P!.
 
-Trilles 2, "ad fluem Udzeme in Gabonia" (stér.), P!
+Trilles 2, "ad fluem Udzeme in Gabonia" (ster.), P!
 
-Villiers 131, Riv. Maliba (fr. Juin), P!.
+Villiers 131, Riv. Maliba (fr. June), P!.
 
-Walker 34, Ste. Anne du Fernand Vaz (Odimba) (fl. Mai), P!.
+Walker 34, Ste. Anne du Fernand Vaz (Odimba) (fl. May), P!.
 
 ## Figures
 

@@ -25,17 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Duvernoia extensa (T. Anders.) Lindau, in Engler, Pflanzenwelt O. Afr.: 372 (1895).
 
-Arbuste de sous bois, à port un peu sarmenteux; jeunes tiges cylindriques, vertes, finement pubescentes, rétrécies au-dessus des nœuds. Pétioles de 1-3 cm de long, pubescent-farineux, à indu-
+Understorey shrub, with somewhat sarmentose habit; young stems cylindrical, green, finely pubescent, narrowed above the nodes. Petioles 1–3 cm long, pubescent-farinose, with yellow-greenish indumentum. Leaf blade ovate, rounded or subcordate at the base, with rounded or obtuse acumen, 9–12 × 4–7 cm, glabrous, even in young parts, but with pubescent venation on the lower face. Lateral veins 5–6 pairs anastomosing towards the margin.
 
-ment jaune-verdâtre. Limbe des feuilles ovale, arrondi ou subcordé à la base, à acumen arrondi ou obtus, de 9-12 × 4-7 cm, glabre, même dans les parties jeunes, mais à nervation pubescente sur la face inférieure. Nervures latérales 5-6 paires anastomosées vers le bord.
+Inflorescences terminal and lateral forming a widened, erect panicle, reaching 25 cm long by 15 cm wide, never in spike form, with lateral branches reaching, including the peduncle, 25 cm and even more. Partial inflorescences hairy like the rachis; leaves and leaf-like bracts fairly large in the large terminal inflorescences, lanceolate, subsessile, and reaching 8 × 20 mm; the bracts are linear, 5 × 1 mm and sessile, in the other inflorescences and in the upper parts of the large inflorescences; bracts of the final branches of inflorescences and bractlets subulate-acicular, reaching 2 mm at most, finely pubescent. Partial inflorescences of the lower parts of the large inflorescences with peduncle reaching 5 cm long (in the smaller ones c. 5 mm), with 5–12 ± pedicellate flowers; pedicels 2–5 mm long, pubescent. Calyx 7 mm long; sepals 5 in number, lanceolate, acute, free almost to the base for 6 × 1.5 mm, pubescent. Corolla erect, pale green on the outside, yellowish green on the inside and tinged with purple at the throat, with pubescent tube 7 × 3 mm; upper lip 6 × 5 mm, helmet-shaped; lower lip deeply three-lobed, with lobes approximately 3 mm wide; the lips are glabrous on the inner face. Anthers with thecae arranged one above the other, 1.3 and 1.7 mm long; the lower one is provided with an appendage or spur, white, basal, 0.5 mm in length. Disc 1 mm in height. Ovary pubescent 2 mm in height. Style 11 mm, pubescent.
 
-Inflorescences terminales et latérales formant un panicule élargi, dressé, atteignant 25 cm de long sur 15 cm de large, jamais en forme d'épi, à ramifications latérales atteignant, y compris le pédoncule, 25 cm et même plus. Inflorescences partielles velues comme le rachis; feuilles et bractées foliaires assez grandes dans les grandes inflorescences terminales, lancéolées, subsessiles, et atteignant 8 × 20 mm; les bractées sont linéaires, de 5 × 1 mm et sessiles, dans les autres inflorescences et dans les parties supérieures des grandes inflorescences; bractées des dernières ramifications des inflorescences et bractéoles subulées-aciculaires, atteignant 2 mm au maximum, finement pubescentes. Inflorescences partielles des parties inférieures des grandes inflorescences à pédoncule atteignant 5 cm de long (dans les plus petites 5 mm env.), à 5-12 fleurs ± pédicellées; pédicelles de 2-5 mm de long, pubescents. Calice de 7 mm de long; sépales au nombre de 5, lancéolés, aigus, libres presque jusqu'à la base sur 6 × 1,5 mm, pubescents. Corolle dressée, vert pâle à l'extérieur, vert jaunâtre à l'intérieur et nuancée de pourpre à la gorge, à tube pubescent de 7 × 3 mm; lèvre supérieure de 6 × 5 mm, en forme de casque; lèvre inférieure profondément trilobée, à lobes d'environ 3 mm de large; les lèvres sont glabres sur la face interne. Anthères à loges disposées l'une au-dessus de l'autre, de 1,3 et 1,7 mm de long l'inférieure est munie d'un appendice ou éperon, blanc, basilaire, de 0,5 mm de longueur. Disque de 1 mm de hauteur. Ovaire pubescent de 2 mm de hauteur. Style de 11 mm, pubescent.
-
-Fruit claviforme pubescent, de 22-25 mm de long, à partie inférieure stipitée sur 13 × 2 mm; partie supérieure de 5 mm de diamètre sur 7-9 mm de long, apiculée. Graines aplaties, ovales, de 4 × 3 × 0,5 mm; test ruguleux-verruculeux.
+Fruit claviform pubescent, 22–25 mm long, with lower part stipitate for 13 × 2 mm; upper part 5 mm in diameter for 7–9 mm long, apiculate. Seeds flattened, ovate, 4 × 3 × 0.5 mm; testa rugose-verrucose.
 
 ## Type
 
@@ -43,9 +39,7 @@ Barter 3301, Eppah, S. Nigéria (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée fr., Sierra-Leone, Liberia, Côte-d'Ivoire, Ghana, Togo, Dahomey, Nigeria, Cameroun, Angola, Centrafrique, Congo, Mozambique.
+French Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Dahomey, Nigeria, Cameroon, Angola, Central African Republic, Congo, Mozambique.
 
 ## Specimens examined
 

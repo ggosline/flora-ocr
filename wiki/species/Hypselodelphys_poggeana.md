@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — MILNE-REDHEAD, Kew Bull.: 160 (1950).
 
-Herbe à rhizome, lianescente, atteignant plusieurs mètres de long. Partie non calleuse du pétiole généralement nulle, callus de 5 à 10 mm de long. Limbes généralement linéaires oblongs, sub-tronqués à la base.
+Herb with rhizome, lianescent, reaching several metres in length. Non-callose portion of petiole generally absent, callus 5–10 mm long. Blades generally linear-oblong, sub-truncate at base.
 
-Inflorescences en épis simples ou très peu ramifiés ; bractées souvent violacées de 1,5 à 2 cm de long. Bractée adaxiale d'environ 5 mm. Fleurs violettes à calice de 8 mm ; corolle à lobes d'environ 5 mm et tube de 15 mm de long. Fruit de 4,5 à 5 cm de diamètre et de 3 à 3,5 cm de haut.
+Inflorescences in simple or very little branched spikes; bracts often violet, 1.5–2 cm long. Adaxial bract approximately 5 mm. Flowers violet with calyx 8 mm; corolla with lobes approximately 5 mm and tube 15 mm long. Fruit 4.5–5 cm in diameter and 3–3.5 cm tall.
 
 ## Type
 
@@ -36,11 +34,9 @@ Pogge 1445 ou 1453, Angola
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species known from Cameroon, Fernando Po, Angola, both Congos and Gabon. It is frequent in forest galleries and secondary forest regrowth.
 
-Espèce connue du Cameroun, de Fernando-Po, d'Angola, des deux Congo et du Gabon. Elle est fréquente dans les galeries et les recrus forestiers.
-
-Tiges utilisées comme liens.
+Stems used as ties.
 
 ## Specimens examined
 

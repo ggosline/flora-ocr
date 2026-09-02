@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, J. Bot. 72, suppl. 2 : 5 (1934) et FWTA : 67 (1959). — Tard., Mém. IFAN 28 : 102, pl. 16, f. 4 (1953).
 
-Rhizome appliqué au support, atteignant 2 m, portant des écailles lancéolées, étroites, brun roux, formées de cellules allongées. Pétiole long de 4-9 cm, straminé, canaliculé, écailleux,
-
-ailé dans les frondes jeunes. Limbe imparipenné, long de 15-20 cm sur 3-5 de large. Pennes latérales, 24 paires environ, longues de 8 cm sur 2 de large, oblongues, à bases égales, arrondies ou tronquées, à extrémité aiguë. Penne terminale lancéolée; pennes inférieures non ou à peine décroissantes. Rachis aplat, largement ailé dans les échantillons jeunes, lâchement écailleux. Texture subcoriace. Nervures généralement simples. Frondes fertiles à rachis écailleux, légèrement plus petites que les stériles, à pennes étroites, oblongues, à base cordée.
+Rhizome appressed to the substrate, reaching 2 m, bearing lanceolate, narrow scales, reddish-brown, formed of elongate cells. Petiole 4–9 cm long, stramineous, channeled, scaly, winged in young fronds. Lamina imparipinnate, 15–20 cm long by 3–5 cm wide. Lateral pinnae, approximately 24 pairs, 8 cm long by 2 cm wide, oblong, with equal bases, rounded or truncate, with acute apex. Terminal pinna lanceolate; lower pinnae scarcely or not at all decreasing. Rachis flattened, broadly winged in young specimens, loosely scaly. Texture subcoriaceous. Venation generally simple. Fertile fronds with scaly rachis, slightly smaller than the sterile, with narrow, oblong pinnae, with cordate base.
 
 ## Type
 
@@ -30,11 +26,9 @@ Gossweiler 8218, Congo (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fernando-Po, San-Thomé, Prince Island, Oubangui, Cameroon, Congo, Angola.
 
-Fernando-Po, San-Thomé, Ile du Prince, Oubangui, Cameroun, Congo, Angola.
-
-Épiphyte, forêt pélohygrophile.
+Epiphytic, pelohygrophilous forest.
 
 ## Specimens examined
 

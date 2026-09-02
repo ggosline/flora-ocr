@@ -20,17 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Justicia bolomboensis De Wild., Ann. Mus. Congo, Bot., sér. V, 3 : 276 le XLVI, fig. I-5 (1910).
 
 ≡ Duvernoya bolomboensis De Wild., l. c. (1910), in syn., nom. illeg.
 
-Plante ± 2 m, à tige subquadrangulaire, ± glabrescente, rétrécie aux nœuds. Pétiole subglabrescent ou très légèrement velu sur les deux marges, atteignant 8-35 mm de long. Feuilles assez largement elliptiques, plus ou moins inéquilatérales, très courtemment acuminées, subaiguës au sommet, à base décurrente le long du pétiole, de 6-18 × 3,4-10 cm, subglabrescent sur les 2 faces. Nervures latérales très étalées, au nombre de 9 à 10 paires, anastomoses en arc vers le bord du limbe, un peu plus proéminentes en dessous qu'au-dessus.
+Plant ± 2 m tall, with subquadrangular stem, ± glabrescent, narrowed at the nodes. Petiole subglabrescent or very slightly hairy on both margins, reaching 8-35 mm long. Leaves fairly broadly elliptic, more or less inequilateral, very shortly acuminate, subacute at the apex, with base decurrent along the petiole, 6-18 × 3.4-10 cm, subglabrescent on both faces. Lateral veins very spreading, numbering 9 to 10 pairs, anastomoses arching towards the leaf margin, somewhat more prominent beneath than above.
 
-Inflorescences terminales dépassant les feuilles, ou axillaires plus courtes que les feuilles, ramifiées à la base, atteignant 18 cm de long, noirâtres à sec, à râchis ± aplat et courtement velu, à rameaux latéraux pouvant atteindre 6 cm de long, à entrencœufs de 1-2 cm de long. Fleurs solitaires ou disposées en petits fascicules; bractées lancéolées, velues, de 2 mm environ de long; bractéoles atteignant jusqu'à 6 mm de long, ciliées. Calice fendu presque jusqu'à la base en 5 lobes lancéolés-aigus, subégaux de 7 × 1,5 mm, velus sur les deux faces et ciliés sur les bords. Corolle à tube renflé à la base, de 7 mm environ de long; lèvre inférieure de 12 mm de long, à peu près égale à la lèvre supérieure; tube et lèvre velus extérieurement. Filets glabres, de 4 mm de long; anthères à deux thèques dont l'inférieure est munie d'un éperon d'environ 1 mm. Ovaire velu; style grêle, pubescent dans sa moitié inférieure, cilié au dessus.
+Inflorescences terminal, exceeding the leaves, or axillary shorter than the leaves, branched at the base, reaching 18 cm long, blackish when dry, with axis ± flattened and shortly hairy, lateral branches reaching up to 6 cm long, with internodes 1-2 cm long. Flowers solitary or arranged in small fascicles; bracts lanceolate, hairy, approximately 2 mm long; bracteoles reaching up to 6 mm long, ciliate. Calyx cleft almost to the base into 5 lanceolate-acute lobes, subequal 7 × 1.5 mm, hairy on both faces and ciliate on the margins. Corolla with tube swollen at the base, approximately 7 mm long; lower lip 12 mm long, approximately equal to the upper lip; tube and lip hairy externally. Filaments glabrous, 4 mm long; anthers with two thecae, the lower one provided with a spur of approximately 1 mm. Ovary hairy; style slender, pubescent in its lower half, ciliate above.
 
-Fruit rétréci vers la base, vêtu de poils glanduleux. 4 graines glabres, à test irrégulièrement bosselé.
+Fruit narrowed towards the base, clothed with glandular hairs. 4 seeds glabrous, with test irregularly tuberculate.
 
 ## Type
 

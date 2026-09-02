@@ -17,47 +17,41 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Habenaria confusa Rolfe, FTA 7 : 241 (1898).
 
 – Habenaria stenoloba Schltr., Bot. Jahrb. Syst. 38 : 1 (1905).
 
 – Habenaria anaphysema sensu Summerh., FWTA, ed. 1, 2: 412 (1936) non Rchb. f.
 
-Tige 20-100 cm, glabre. Feuilles 7-29 × 0,5-2 (2,5) cm, linéaires ou étroitement lancéolées, aiguës. Inflorescence 5-29 cm, assez lâche, 6-40-flore. Fleurs petites, résupinées, vertes, pétales et colonne blancs. Sépale dorsal étroitement elliptique ou oblong, concave, obtus ou courtemment apiculé ; sépales latéraux obliquement obovés-oblongs à obovés-elliptiques, avec un court apicule latéral. Pétales bipartites presque de la base. Labelle tripartite d'une base indivise, finement papilleux, base mince, sommet épaissi ; lobe médian linéaire, les latéraux linéaires, aigus, recourbés vers le haut. Éperon incliné, genouillé près du milieu, renflé et tordu 1 ou 2 fois au-dessus du 1/3-1/2 apical, sommet émoussé. – Pl. 17, p. 44.
+Stem 20-100 cm, glabrous. Leaves 7-29 × 0.5-2 (2.5) cm, linear or narrowly lanceolate, acute. Inflorescence 5-29 cm, rather lax, 6-40-flowered. Flowers small, resupinate, green, petals and column white. Dorsal sepal narrowly elliptic or oblong, concave, obtuse or shortly apiculate; lateral sepals obliquely obovate-oblong to obovate-elliptic, with a short lateral apicule. Petals bipartite almost from the base. Lip tripartite from an undivided base, finely papillose, base slender, apex thickened; median lobe linear, lateral lobes linear, acute, recurved upward. Spur inclined, geniculate near the middle, swollen and twisted 1 or 2 times above the 1/3-1/2 apical portion, apex blunt. – Pl. 17, p. 44.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée, Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo (Brazzaville), Centrafrique, Soudan, Congo (Kinshasa), Burundi, Angola, Ouganda, Tanzanie, Zambie
+Senegal, Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Congo (Brazzaville), Central African Republic, Sudan, Congo (Kinshasa), Burundi, Angola, Uganda, Tanzania, Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 80-2100 m. Herbaceous terrestrial on pure sand or fine greyish moist clayey soil, in savanna and damp or inundable short grassland
 
-alt. 80-2100 m. Herbacée terrestre sur sable pur ou sol argileux grisâtre fin et humide, en savane et prairie rase humide ou inondable
+MATERIAL STUDIED (Map 6) :
 
-MATÉRIEL ÉTUDIÉ (Carte 6) :
-
-de Wilde, Arends & de Bruijn 9160, 1 km au N de Doussala, 2°18' S, 10°35' E (fl., Déc.), WAG!, LBV.
+de Wilde, Arends & de Bruijn 9160, 1 km N of Doussala, 2°18' S, 10°35' E (fl., Dec.), WAG!, LBV.
 
 Duparquet s.n., s.loc., P.
 
-Klaine 2057 & 2058, environs de Libreville (fl., Déc.), P!.
+Klaine 2057 & 2058, environs of Libreville (fl., Dec.), P!.
 
-Klein 12b & 13, Cap Estérias (fl., Déc.), P!.
+Klein 12b & 13, Cape Estérias (fl., Dec.), P!.
 
-Leroy 30, Plaines (fl., Déc.), P!.
+Leroy 30, Plains (fl., Dec.), P!.
 
-Le Testu 1524, forêt du Mayumbe Bayaka, P! ; 5061, Haute Ngounyé, savanes des Echiras (fl., Nov.), P! ; 9120, circonscription du Woleu-Ntem, rochers de Coss Bengo (fl., Mai), P!.
+Le Testu 1524, Mayumbe Bayaka forest, P! ; 5061, Upper Ngounyé, savannas of the Echiras (fl., Nov.), P! ; 9120, Woleu-Ntem district, rocks of Coss Bengo (fl., May), P!.
 
-van Nek 518, près de Ivinga, 2°50' S, 10°06' E (fl., Déc.), WAG!, LBV.
+van Nek 518, near Ivinga, 2°50' S, 10°06' E (fl., Dec.), WAG!, LBV.
 
-Reitsma J. M. & B. 2758, près de Cap Estérias, 0°33' N, 9°21' E (fl., Déc.), WAG!, LBV. Schlechter 12824, Libreville (fl., Déc.), BR!.
+Reitsma J. M. & B. 2758, near Cape Estérias, 0°33' N, 9°21' E (fl., Dec.), WAG!, LBV. Schlechter 12824, Libreville (fl., Dec.), BR!.
 
-Thollon 163, 195, 4069 & 4070, Libreville (fl., Déc.), P! ; s.n., s.loc., BR!, P!.
+Thollon 163, 195, 4069 & 4070, Libreville (fl., Dec.), P! ; s.n., s.loc., BR!, P!.
 
 ## Figures
 

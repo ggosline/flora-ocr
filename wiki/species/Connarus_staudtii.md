@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+SCHELLENBERG, PR 103 (4, 127): 286, fig. 48 (1938); TROUPIN, FCBR 3: 136, fig. 2B (1952); EXELL & MENDONÇA, CFA 2: 154 (1954); HEPPER, FWTA, ed. 2, 1 (2): 748 (1958); LEMMENS, in BRETELER (ed.), AUWP 89 (6): 260, fig. 124-125 (1989). TYPE: Cameroon, Lolodorf, Staudt 271 (lecto-G; iso-K, P).
 
-SCHELLENBERG, PR 103 (4, 127): 286, fig. 48 (1938); TROUPIN, FCBR 3: 136, fig. 2B (1952); EXELL & MENDONÇA, CFA 2: 154 (1954); HEPPER, FWTA, ed. 2, 1 (2): 748 (1958); LEMMENS, in BRETELER (éd.), AUWP 89 (6): 260, fig. 124-125 (1989). TYPE: Cameroun, Lolodorf, Staudt 271 (lecto-G; iso-K, P).
+Liane or lianing shrub. Branches cylindric, lenticellate, often somewhat angular, with brown pubescence, early glabrescent.
 
-Liane ou arbuste lianescent. Rameaux cylindriques, lenticellés, souvent un peu anguleux, avec pubescence brune, tôt glabrescents.
+Leaves 2-5-jugate; petioles with a distinct blackish articulation at the base, 1.5-12 cm long and rachis 3.5-31 cm long, brown pubescence at first, rapidly glabrous. Leaflets (rigidly) papyraceous, the lateral ones alternate or ± opposite, (narrowly) ovate or (narrowly) elliptic 3.5-14 × 2.5-5.5 cm, base rounded or cuneate, not or scarcely unequal, the terminal leaflet elliptic, 7-16 × 4-5.5 cm, cuneate at the base; all leaflets acuminate for a long distance, brown pubescence at first, then rapidly glabrous; midvein impressed above and prominent below; lateral veins curved, 3-5 pairs; venation III indistinct on both faces; petiolules (3-)5-8 mm long, wrinkled, blackish, glabrous.
 
-Feuilles 2-5-juguées ; pétioles avec une articulation noirâtre nette à la base, long de 1,5-12 cm et rachis long de 3,5-31 cm, pubescence brune au début, rapidement glabre. Folioles (rigidement) papyracées, les latérales alternes ou ± opposées, (étroitement) ovées ou (étroitement) elliptiques 3,5-14 × 2,5-5,5 cm, base arrondie ou cunée, non ou à peine inégale, la foliole terminale, elliptique, 7-16 × 4-5,5 cm, cunée à la base ; toutes les folioles sont longuement acuminées, pubescence brune tout au début, puis rapidement glabre ; médiane imprimée dessus et proéminente dessous ; nervures latérales, incurvées, 3-5 paires ; nervation III indistincte sur les deux faces ; pétioules longs de (3-)5-8 mm, ridés, noirâtres, glabres.
+Inflorescences in panicles 6-17 cm long, ≤ 50-flowered, brown pubescence. Bracts and reduced leaves at the base of the inflorescences triangular or ovate, ≈ 1 mm long. Pedicels very short, articulated 0-0.5 mm below the calyx, brown pubescence.
 
-Inflorescences en panicules longs de 6-17 cm, ≤ 50-flores, pubescence brune. Bractées ainsi que les feuilles réduites de la base des inflorescences, triangulaires ou ovées, longues de ≈ 1 mm. Pédicelles très courts, articulés à 0-0,5 mm au-dessous du calice, pubescence brune.
+Flowers. Sepals in prefloration valvate, narrowly triangular or ovate, thin or sometimes fleshy at the base, $ 1.8-2.3 \times 0.5-0.9 $ mm, acute or sometimes obtuse at the apex, flat or ± convex, exterior with brown pubescence, interior glabrous dotted with ≤12 glands, without distinct veins. Petals generally cohesive, in prefloration imbricate, narrowly elliptic or narrowly oblong, $ (4.2)-5.6-9(-7.8) \times (0.8)-1-1.3(-1.5) $ mm, cuneate at the base, obtuse or rounded and often inflexed at the apex, exterior with brownish-yellow pubescence, interior with glandular hairs, dotted with glands near the apex, indistinctly $ (0)-3-5-\text{nerved} $. Stamens, 0.3-0.6(-0.8) mm, united at the base; long stamens with $ 2.4-3.3 $ mm or $ 4.5-6.5 $ mm, filaments with stipitate glands, anthers $ \approx 0.3 \times \approx 0.2 $; short stamens with $ 1.1-1.6(-1.8) $ mm, rudimentary, without anthers or with extremely small anthers. Pistil $ 2.4-3.2 $ mm or $ 4.2-6.4 $ mm long; ovary $ 0.8-1.2 $ mm long, brown pubescence; style generally pubescent with stipitate glands; stigmas ordinarily oblique, ± 2-lobed.
 
-Fleurs. Sépales en préfloraison valvaire, étroitement triangulaires ou ovés, fins ou parfois charnus à la base,  $ 1,8-2,3 \times 0,5-0,9 $ mm, aigus ou parfois obtus au sommet, plats ou ± convexes, extérieur avec pubescence brune, intérieur glabre ponctué de ≤12 glandes, sans nervures distinctes. Pétales en général cohérents, en préfloraison imbriquée, étroitement elliptiques ou étroitement oblongs,  $ (4,2)-5,6-9(-7,8) \times (0,8)-1-1,3(-1,5) $ mm, cunés à la base, obtus ou arrondis et souvent infléchis au sommet, extérieur avec pubescence brun-jaunâtre, intérieur avec poils glanduleux, ponctués de glandes près du sommet, indistinctement  $ (0)-3-5-\text{nervés} $. Étamines, 0,3-0,6(-0,8) mm, unies à la base; étamines longues ayant  $ 2,4-3,3 $ mm ou  $ 4,5-6,5 $ mm, filets avec glandes stipitées, anthères  $ \approx 0,3 \times \approx 0,2 $; étamines courtes ayant  $ 1,1-1,6(-1,8) $ mm, rudimentaires, sans anthères ou avec des anthères extrêmement petites. Pistil long de  $ 2,4-3,2 $ mm ou  $ 4,2-6,4 $ mm; ovaire long de  $ 0,8-1,2 $ mm, pubescence brune; style en général pubescent avec des glandes stipitées; stigmates ordinairement obliques, ± 2-lobés.
+Fruit: follicle ellipsoid or obovoid, not or scarcely oblique, $ 3.6-6.8 \times 2.1-3.2 \times 1.6-2.6 $ cm, base cuneate with often indistinct stipe, 7 mm long, apex furnished with a mucro $ \leq 1.5 $ mm long;
 
-Fruit : follicule ellipsoïdal ou obovoïde, non ou à peine oblique,  $ 3,6-6,8 \times 2,1-3,2 \times 1,6-2,6 $ cm, base cunée avec un stipe souvent indistinct, long de 7 mm, sommet muni d'un mucron long de  $ \leq 1,5 $ mm ;
+pericarp rather thick opening along a ventral and dorsal suture, glabrous on both faces, without distinct veins but sometimes striate.
 
-péricarpe assez épais s'ouvrant selon une suture ventrale et dorsale, glabre sur ses deux faces, sans veines distinctes mais parfois strié.
-
-Graine (ob)ovoïde ou un peu réniforme, 22-32 × 10-22 × 10-17 mm, sarcotesta long de 5 mm enveloppant la partie basale de la graine, ruminé ; radicule presqu’au centre de la graine, entre les cotylédons. - Pl. 25, p. 85.
+Seed (ob)ovoid or somewhat reniform, 22-32 × 10-22 × 10-17 mm, sarcotesta 5 mm long enveloping the basal part of the seed, ruminate; radicle almost at the center of the seed, between the cotyledons. - Pl. 25, p. 85.
 
 ## Type
 
@@ -41,15 +39,11 @@ Staudt 271, Lolodorf, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Est du Nigéria, Ouest du Cameroun, Gabon, Sud du Congo, Ouest du Zaïre, Nord de l'Angola (Cabinda)
+South-East Nigeria, West Cameroon, Gabon, South Congo, West Zaïre, North Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, souvent le long des rivières. Floraison au Gabon surtout vers Septembre et fructification peu de mois après
+Rainforests, often along rivers. Flowering in Gabon especially towards September and fruiting a few months after
 
 ## Specimens examined
 

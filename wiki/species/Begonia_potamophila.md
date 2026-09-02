@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 25(–40) cm de hauteur. Feuille peltée ; pétiole de 3,5–28 cm, hirsute ; limbe largement elliptique à circulaire ou largement à très largement elliptique-ovale , (4,5–)6,5–14,5(–20) × (4–)5–11,5(–15) cm, sommet généralement distinctement et longuement acuminé , marge généralement entière ou parfois serrulée-denticulée ou éparsement dentée vers le sommet, face supérieure pileuse à éparsement pileuse. Inflorescence : pédoncule (1–)2–9,5 cm, avec 2–4 fleurs ♂ et 1(–2) fleur ♀ à tépales jaunes ; bractées (1–)1,5–4 mm de longueur. Fleur ♂ : tépales (5–)7–19 × (4,5–)6–18 mm ; androcée à 18–32 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 3(–6,5) mm ; tépales (5,5–)7–13,5 × (5–)6–15 mm ; ovaire fusiforme ou étroitement ellipsoïde à obtriangulaire-obovoïde , 6–13 × 1,5–5,5(–8,5) mm, hirsute ou parfois éparsement hirsute , à 3–4 ailes rubanées de 0,1–1,5(–5,5) mm de largeur ; styles 3–4. Fruit étroitement ellipsoïde à étroitement elliptique-obovoïde , 7,5–17 × 2,5–8(–12) mm.
+Plant reaching 25(–40) cm in height. Leaf peltate; petiole 3.5–28 cm, hirsute; lamina broadly elliptic to circular or broadly to very broadly elliptic-ovate, (4.5–)6.5–14.5(–20) × (4–)5–11.5(–15) cm, apex generally distinctly and long acuminate, margin generally entire or sometimes serrulate-denticulate or sparsely dentate toward the apex, upper surface pilose to sparsely pilose. Inflorescence: peduncle (1–)2–9.5 cm, with 2–4 ♂ flowers and 1(–2) ♀ flower with yellow tepals; bracts (1–)1.5–4 mm long. ♂ Flower: tepals (5–)7–19 × (4.5–)6–18 mm; androecium with 18–32 stamens. ♀ Flower: pedicel elongating in fruit to 3(–6.5) mm; tepals (5.5–)7–13.5 × (5–)6–15 mm; ovary fusiform or narrowly ellipsoid to obtriangular-obovoid, 6–13 × 1.5–5.5(–8.5) mm, hirsute or sometimes sparsely hirsute, with 3–4 ribbonlike wings 0.1–1.5(–5.5) mm wide; styles 3–4. Fruit narrowly ellipsoid to narrowly elliptic-obovoid, 7.5–17 × 2.5–8(–12) mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ouest du Cameroun, Gabon (Monts de Cristal), ouest du Congo (Brazzaville)
+western Cameroon, Gabon (Cristal Mountains), western Congo (Brazzaville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrestre ou sur des parois rocheuses humides dans la forêt primaire, parfois en station marécageuse, souvent au bord des cours d’eau et rapides ; 0–800 m d’altitude. B : Sosef (1994). IBLIOGRAPHIE
+terrestrial or on moist rocky cliff faces in primary forest, sometimes in swampy habitat, often along streams and rapids; 0–800 m elevation. B: Sosef (1994). BIBLIOGRAPHY
 
 ## Notes
 

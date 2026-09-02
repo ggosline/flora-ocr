@@ -27,7 +27,7 @@ tags: [species]
 
 4. Diospyros bipindensis Gurke
 
-Bot.Jahrb.26 ：7O (r8g8).— M1LDBRAED，Notizbl.Bot.Gart.Berl.9：1051 (1926).-F.WHITE,FWTA ed.2,2:11,tab.202B,3 (1963).
+Bot.Jahrb.26 :7O (r8g8).— M1LDBRAED,Notizbl.Bot.Gart.Berl.9:1051 (1926).-F.WHITE,FWTA ed.2,2:11,tab.202B,3 (1963).
 
 -D.Büsgenii GURkE,Bot.Jahrb.46:153(1911).
 
@@ -89,13 +89,13 @@ be used for making crossbow bows.
 
 ### Material studied in Cameroon
 
-Annet 143,Bipindi (fr., juin). Binuyo et Daramola FHI 355g5,Banga pres Kumba (fl.,mai) FHO,K. Brenan 94I8, Banga, South.Bakundu for.res. pres Kumba (fl. ,mars). Büsgen I57 (type de D. Büsgeni Gürke)，Compenda pres Mundame，pres Kumba (fr., nov.) B. Daramola FHI 298o4,Mbalangi (fl.♀,avr.) FHO. Davies FHI 29682,Bambuko (fl.,avr.) FHO. De Wilde W. 13o3,5o km NW Eséka,pres riviere Kelé (fl.,nov.)； 1500, eod.loc.(fr.,déc.)；2o5o,Nkoemvone,15 km S Ebolowa (fl.,mars)；2836, 65 km SSW Eséka，pres du Nyong (fr.,juil.)；385o,6o km SSW Eséka (fl.,nov.);omn. WAG. Jeme 28/38,Iloana (fr.,oct.）FHO. Keay FHI 3744I et 37445,Bambuko (ster.) FHO. Leeuwenberg 5i97 et 52I1,Masok pres Kopongo (fl.&,mars);5371,confluent Ouem-Sanaga pres Masok (fl.,avr.)；55g8,6o km S Edéa，pres Mboké (fl.,avr.);omn.WAG. Letouzey SRFCam，I267,km 28 route Kribi-Lolodorf (fl. &,avr.) YA; SRFCam 1313，Koumou pres Yaoundé (fl.，avr.）YA；945o,colline Nkolesesan pres Mbanga,km 81 route Kribi-Ebolowa,pres sous-préfecture Akom II (fl.δ,avr.)； 9951,Ababendoman,65 km SE Ebolowa,sur piste d'Evindissi (stér.).；Io182,colline Ebon pres Nkobiyo,25 km ENE Ambam (fl.δ,mars). Mildbraed 8o26, Yaoundé (fl.&,févr.)*. Mpom 98 (= SRFCam 2184),Mangombé pres Edéa (stér.). Olorunfemi FHI 3o7o3,South.Bakundu for.res.pres Kumba (fr.,aout) K. Preuss I222,entre Victoria et Bimbia (fl.♀,avr.） (cit.in Bot.Jahrb.26 ：70 (1898). SRFCam 15687 (leg IRCAM), sin. loc., YA. Surville 8o6,sin.loc. (fr., juin) YA.
+Annet 143,Bipindi (fr., juin). Binuyo et Daramola FHI 355g5,Banga pres Kumba (fl.,mai) FHO,K. Brenan 94I8, Banga, South.Bakundu for.res. pres Kumba (fl. ,mars). Büsgen I57 (type de D. Büsgeni Gürke),Compenda pres Mundame,pres Kumba (fr., nov.) B. Daramola FHI 298o4,Mbalangi (fl.♀,avr.) FHO. Davies FHI 29682,Bambuko (fl.,avr.) FHO. De Wilde W. 13o3,5o km NW Eséka,pres riviere Kelé (fl.,nov.); 1500, eod.loc.(fr.,déc.);2o5o,Nkoemvone,15 km S Ebolowa (fl.,mars);2836, 65 km SSW Eséka,pres du Nyong (fr.,juil.);385o,6o km SSW Eséka (fl.,nov.);omn. WAG. Jeme 28/38,Iloana (fr.,oct.)FHO. Keay FHI 3744I et 37445,Bambuko (ster.) FHO. Leeuwenberg 5i97 et 52I1,Masok pres Kopongo (fl.&,mars);5371,confluent Ouem-Sanaga pres Masok (fl.,avr.);55g8,6o km S Edéa,pres Mboké (fl.,avr.);omn.WAG. Letouzey SRFCam,I267,km 28 route Kribi-Lolodorf (fl. &,avr.) YA; SRFCam 1313,Koumou pres Yaoundé (fl.,avr.)YA;945o,colline Nkolesesan pres Mbanga,km 81 route Kribi-Ebolowa,pres sous-préfecture Akom II (fl.δ,avr.); 9951,Ababendoman,65 km SE Ebolowa,sur piste d'Evindissi (stér.).;Io182,colline Ebon pres Nkobiyo,25 km ENE Ambam (fl.δ,mars). Mildbraed 8o26, Yaoundé (fl.&,févr.)*. Mpom 98 (= SRFCam 2184),Mangombé pres Edéa (stér.). Olorunfemi FHI 3o7o3,South.Bakundu for.res.pres Kumba (fr.,aout) K. Preuss I222,entre Victoria et Bimbia (fl.♀,avr.) (cit.in Bot.Jahrb.26 :70 (1898). SRFCam 15687 (leg IRCAM), sin. loc., YA. Surville 8o6,sin.loc. (fr., juin) YA.
 
-Zenker 2 (?)，Bipindi (?) (fl.δ) B；352，Yaoundé (fl. ♀)*；746 (syntype - “ 764） sphalm.in*),Yaoundé (fl.,févr.) (cit.in Bot. Jahrb.26:7o (1898) (stér.)BM;864 et g33 (syntypes),Bipindi (fl. et fl. ♀,avr.et mai);échantillons suivants tous de Bipindi, soit δ:1668,18o9,2355 P,B,2938 BM,K, 3701,4398,4570,s0it ♀:1779 b,1865 (fr.)，4194*,4546,s.n.
+Zenker 2 (?),Bipindi (?) (fl.δ) B;352,Yaoundé (fl. ♀)*;746 (syntype - “ 764) sphalm.in*),Yaoundé (fl.,févr.) (cit.in Bot. Jahrb.26:7o (1898) (stér.)BM;864 et g33 (syntypes),Bipindi (fl. et fl. ♀,avr.et mai);échantillons suivants tous de Bipindi, soit δ:1668,18o9,2355 P,B,2938 BM,K, 3701,4398,4570,s0it ♀:1779 b,1865 (fr.),4194*,4546,s.n.
 
 ### Material studied in Gabon
 
-Le Testu 2I4o,Ipoungou pres Mouila (fl.&,oct.)；5478,entre Dicouca et Moubana pres Mouila (fl.,sept.)；843o,Ikembélé pres Koulamotou pres Lastoursville (fl.♀,oct.)；8485,Lastoursville (fl.,oct.)；9134，Abangh pres Oyem (fl. ♀,mai)；9383，Nzec pres Mitzic (fl.,nov.)；9527,Oyem (fl.,mars); 9562,Bitam (fl.,avr.).
+Le Testu 2I4o,Ipoungou pres Mouila (fl.&,oct.);5478,entre Dicouca et Moubana pres Mouila (fl.,sept.);843o,Ikembélé pres Koulamotou pres Lastoursville (fl.♀,oct.);8485,Lastoursville (fl.,oct.);9134,Abangh pres Oyem (fl. ♀,mai);9383,Nzec pres Mitzic (fl.,nov.);9527,Oyem (fl.,mars); 9562,Bitam (fl.,avr.).
 
 ## Figures
 

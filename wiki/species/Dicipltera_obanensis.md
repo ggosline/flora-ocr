@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual plant (?) reaching 1.50 m tall, erect, with stem somewhat trailing at the base and ascending, ± simple, dark green, subquadrangular; internodes grooved, slightly pubescent, glabrescent. Petioles 1–3 cm long; leaves dark green; blade ovate-acuminate, 6–13 × 2.5–5 cm, rounded at the base and equally cuneate-decurrent into the petiole; acumen elongate and rounded at the apex. 7–8 pairs of lateral veins, glabrous.
 
-Plante annuelle (?) atteignant 1,50 m de haut, dressée, à tige un peu rampante à la base, et ascendante,  $ \pm $ simple, vert foncé, subuadrangulaire; entrenœuds sillonnés, légèrement pubescents, glabrescents. Pétioles de 1-3 cm de long; feuilles vert foncé; limbe ovale-acuminé, de 6-13 × 2,5-5 cm, arrondi à la base et également cunéiforme décurrent dans le pétiole; acumen allongé et arrondi au sommet. 7-8 paires de nervures latérales, glabres.
+Inflorescences axillary and terminal, forming racemes about 1 cm long, entirely dark green, with slender, subquadrangular rachis, with internodes 5–10 mm or so, the upper ones shorter; floral leaves rigid-subulate, about 4 mm long; biflorous involucres, one of the two flowers is most often sterile; primary bract 14–16 × 7.5–8.5 mm; secondary bract 13 × 16 mm; glabrescent, often ciliate at the margins, with palmatinerved veins; bracteoles lanceolate, 2.5 × 0.5 mm, whitish and slightly translucent. Calyx about 6 mm long; sepals of the same structure as the bracteoles, somewhat glandular-ciliate on the margins. Flowers clearly exceeding the involucral bracts. Corolla pale pink-violet with two unequal widely open lips, with white tube, 7 × 1.5 mm, 2.5 mm wide at the throat; upper lip 4 × 2.75 mm; lower lip 4.5 × 2.35 mm, 3-dentate. Stamens exsert; filament 2 mm; anthers 1.8 mm, with locules 0.9 mm; ovary 1.5 mm long; style glabrous 13 mm.
 
-Inflorescences axillaires et terminales, formant des racèmes d'environ 1 cm de long, entièrement vert foncé, à rachis grêle, subquadrangulaire, à entrenœuds de 5-10 mm environ, les supérieurs plus courts; feuilles florales rigides-subulées, d'environ 4 mm de long; involucres biflores l'une des deux fleurs est le plus souvent stérile; bractée principale de 14-16 × 7,5-8,5 mm; bractée secondaire de 13 × 16 mm; glabrescentes elles sont souvent ciliées aux bords, à nervures palmatinerves; bractéoles lancéolées, de 2,5 × 0,5 mm, blanchâtres et un peu translucides. Calice d'environ 6 mm de long; sépales de même structure que les bractéoles, un peu glanduleux-ciliés sur les bords. Fleurs dépassant net-
-
-tement les bractées involucrales. Corolle rose-violacé clair à deux lèvres inégales,, largement ouvertes, à tube blanc, de 7 × 1,5 mm, de 2,5 mm de large à la gorge; lèvre supérieure de 4 × 2,75 mm; lèvre inférieure de 4,5 × 2,35 mm, 3-dentelée. Étamines exsertes; filet de 2 mm; anthères de 1,8 mm, à loges de 0,9 mm; ovaire de 1,5 mm de long; style glabre de 13 mm.
-
-Capsule de 7 mm de long, largement obovale, acuminée, stipitée, un peu pubescente. 4 graines d'environ 1,5 mm de diamètre, finement tuberculées, brunes.
+Capsule 7 mm long, broadly obovate, acuminate, stipitate, somewhat pubescent. 4 seeds about 1.5 mm in diameter, finely tuberculate, brown.
 
 ## Type
 

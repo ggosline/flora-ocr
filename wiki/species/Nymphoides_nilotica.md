@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(1951). Herbe vivace ou parfois annuelle, assez grêle . Feuille à pétiole long de 3 – 10( – 30) mm ; limbe orbiculaire, ne dépassant guère 12 cm de diamètre. Inflorescence comptant 7–20 fleurs. Fleur à pédicelle long de 1,5–5,5 cm ; sépales lancéolés, longs de 3-5 mm ; corolle jaune d’or, à tube long de 3 – 3,5 mm, lobes longs de 6 – 8 mm , fimbriés sur la marge et sur la nervure principale ; étamines à filet long de 1,5–1,7 mm (fleurs brévistyles) ou de 0,5 mm (fleurs longistyles), à anthères longues de 1,1–1,8 mm ; ovaire ovoïde, ± 2 mm de hauteur ; styles longs de 1–1,5 mm (fleurs brévistyles) ou de 3–4 mm (fleurs longistyles). Fruit ovoïde, à jusqu’à 12 graines , souvent moins. Graines orbiculaires, 1,6–2,2 mm, variant du blanc au bistre, surface lisse à fortement échinulée.
+(1951). Perennial herb or sometimes annual, rather slender. Leaf with petiole 3–10(–30) mm long; lamina orbicular, scarcely exceeding 12 cm in diameter. Inflorescence comprising 7–20 flowers. Flower with pedicel 1.5–5.5 cm long; sepals lanceolate, 3–5 mm long; corolla golden yellow, with tube 3–3.5 mm long, lobes 6–8 mm long, fimbriate on the margin and on the main vein; stamens with filament 1.5–1.7 mm long (short-styled flowers) or 0.5 mm (long-styled flowers), anthers 1.1–1.8 mm long; ovary ovoid, ± 2 mm in height; styles 1–1.5 mm long (short-styled flowers) or 3–4 mm (long-styled flowers). Fruit ovoid, up to 12 seeds, often fewer. Seeds orbicular, 1.6–2.2 mm, varying from white to bistre, surface smooth to strongly echinulate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce largement répandue en Afrique tropicale, de la Côte d’Ivoire jusqu’en Ethiopie, le Kenya et le Mozambique ; assez commune au Gabon dans les zones de savane, surtout dans la Ngounié et l’Ogooué-Maritime
+Species widely distributed in tropical Africa, from Côte d'Ivoire to Ethiopia, Kenya and Mozambique; fairly common in Gabon in savanna zones, particularly in Ngounié and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans des eaux modérément profondes des mares ou le long des lacs et rivières ; à 0–1650 m d’altitude. Note taxonomique : Dans la littérature, cette espèce est souvent confondue avec N. indica subsp. occidentalis (voir le taxon suivant) ou bien considérée comme conspécifique avec elle. B : Raynal (1971, 1974, 1975), Whitehouse (1996). i B liographie
+In moderately deep waters of pools or along lakes and rivers; at 0–1650 m altitude. Taxonomic note: In the literature, this species is often confused with N. indica subsp. occidentalis (see the following taxon) or considered as conspecific with it. B: Raynal (1971, 1974, 1975), Whitehouse (1996). Bibliography
 
 ## Notes
 

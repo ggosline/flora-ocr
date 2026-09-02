@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Bot. Jahrb. 24 (2) : 298 (1897); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 790 (1932).
 
 — Ch. zenkeri GILG, l.c. (Zenker 1010, 2718).
 
-Cette espèce ne se distingue de ses proches congénères que par quelques caractères des pétales. La description qui suit a été établie uniquement d’après les matériaux camerounais examinés.
+This species differs from its close congeners only by a few characters of the petals. The description which follows was established solely on the basis of the Cameroonian materials examined.
 
-Arbuste monocaule à tronc de 8 cm de diamètre. Extrémité à pubé-rulence rase brunâtre, caduque sur les rachis foliaires; pétiole de 23-27 cm, gris violacé devenant noirâtre; 4-6 paires de folioles, les plus grandes atteignant  $ 45 \times 11 $ cm; limbe roussâtre à sec, glabre ± obtus à la base; médiane un peu pubescente dessus; 15-25 paires de nervures secondaires espacées de 1,5-2 cm.
+Monocaulous shrub with trunk 8 cm in diameter. Apex with fine brownish pubescence, caducous on the leaf rachises; petiole 23–27 cm, greyish-violet becoming blackish; 4–6 pairs of leaflets, the largest reaching 45 × 11 cm; limb reddish-brown when dry, glabrous ± obtuse at the base; midrib slightly pubescent above; 15–25 pairs of secondary nerves spaced 1.5–2 cm apart.
 
-Inflorescences sur le tronc entre le niveau du sol et un demi-mètre de hauteur. Fleurs rougeâtres (ANNET) ou rose-rouge (LETOUZEY). Bouton ové; fleur parfois un peu étroite à zygomorphie marquée; calice lobé au plus sur un tiers de sa hauteur; 4 pétales étroits à ligule montrant une longue ligne axiale de soudure et séparée en deux poches très obliques, peu sinueuses au bord et médiocrement pubescentes; pas d'apicule ni d'appendicule; disque polygonal en croissant; 8 étamines atteignant 13,5 mm, à anthère et filet pubescents. connectif ni verruqueux ni bossu; ovaire avorté hirsute, triloculaire. Fruit non vu. PL. 17, A, p. 87.
+Inflorescences on the trunk between ground level and half a metre in height. Flowers reddish (ANNET) or rose-red (LETOUZEY). Bud ovate; flower sometimes slightly narrow with marked zygomorphy; calyx lobed at most over one-third of its height; 4 narrow petals with ligule showing a long axial line of fusion and divided into two very oblique pockets, slightly undulate at the margin and moderately pubescent; no apicule or appendage; disc polygonal crescent-shaped; 8 stamens reaching 13.5 mm, with pubescent anther and filament; connective neither verrucose nor gibbous; ovary aborted hirsute, trilocular. Fruit not seen. PL. 17, A, p. 87.
 
 ## Type
 

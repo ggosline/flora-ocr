@@ -28,7 +28,7 @@ tags: [species]
 
 37.Diospyros viridicans Hiern
 
-Journ.Bot.59 :129 (192I).- F.WHITE,FWTA ed.2,2 :IO (1963); Nigerian Trees 2 :34o (1964). -Diospyros Kekemi AUBREv.et PELLEGR.，Bull. Soc.Bot.Fr.83 ：621tab.1,1 (1937).
+Journ.Bot.59 :129 (192I).- F.WHITE,FWTA ed.2,2 :IO (1963); Nigerian Trees 2 :34o (1964). -Diospyros Kekemi AUBREv.et PELLEGR.,Bull. Soc.Bot.Fr.83 :621tab.1,1 (1937).
 
 PL.12,14-26, p. 95,et CARTE 35, p. 176.
 
@@ -52,7 +52,7 @@ Keay FHI 37422,Bambuko for.rcs.pres Kumba (ster.) FHO. Maitland 768,Victoria (fr
 
 ### Material studied in Gabon
 
-Corbet 684，Bokoué (stér.)FHO. Le Testu 8oo9，Koulamotou,4o km SW Lastoursville (fl. Q,avr.). Touzet 167，Nkoulounga,55 km NE Libreville (fr.，juin).
+Corbet 684,Bokoué (stér.)FHO. Le Testu 8oo9,Koulamotou,4o km SW Lastoursville (fl. Q,avr.). Touzet 167,Nkoulounga,55 km NE Libreville (fr.,juin).
 
 ## Figures
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianescent, exceeding 4–6 m. Young internodes glabrous or pubescent. Stipules deeply bilobed, reflexed, caducous. Petiole 5–22 mm, glabrous or not. Blade glabrous above, 5–13 × 2–7.5 cm, acute at base; apex acuminate to caudate. Midvein glabrous above, pubescent or not below. 5–7 pairs of veins. Tertiary veins somewhat fewer and somewhat less regular than in M. polita.
 
-Lianescent, dépasse 4-6 m. Jeunes entrenceuds glabres ou ‡ pubescents. Stipules bilobées profondément, réfractées, caduques. Pétiole de 5-22 mm, glabre ou non. Limbe glabre dessus, de 5-13 × 2-7,5 cm, à base aiguë; sommet acuminé à caudé. Nervure médiane glabre dessus, pubescente ou non dessous. 5-7 paires de nervures. Nervures tertiaires un peu moins nombreuses et un peu moins régulières que chez M. polita.
+Inflorescence lacking laminate, attractive sepals, in long terminal paniculate racemes often pendulous. The primary rachis bears pairs of small cymes every 1.5–3 cm. Pedicel 1–4 mm. Ovary turbinate. Calyx entirely glabrous with linear lobes 1–4 mm. Corolla entirely glabrous externally, with green tube 2–2.8 cm long, with 5 bright yellow lobes reaching 17 × 8 mm, acute at apex, with a prominent median fold above. Throat with bright orange hairs covering also the lower third of the median fold of the lobes; interior of tube hairy with ascending hairs. Anthers 6 × 0.9 mm.
 
-Inflorescence dépourvue de sépales laminés attractifs, en longues grappes paniculées terminales souvent retombantes. Le rachis primaire porte tous les 1,5-3 cm des paires de petites cymes. Pédicelle de 1-4 mm. Ovaire turbiné. Calice entièrement glabre à lobes linéaires de 1-4 mm. Corolle entièrement glabre à l'extérieur, à tube vert de 2-2,8 cm de longueur, à 5 lobes jaune vif atteignant 17 × 8 mm, aigus au sommet, à pli médian saillant dessus. Gorge à poils orangé vif couvrant aussi le tiers inférieur du pli médian des lobes; intérieur du tube velu à poils ascendants. Anthères de 6 × 0,9 mm.
-
-Infrutescences pendantes en grappes plutôt étroites. Fruit jaune, mou et lisse, atteignant  $ 20 \times 18 $ mm, couronné à l'apex d'une cicatrice annulaire blanchâtre, les sépales étant rapidement cadues.
+Infructescences pendulous in rather narrow racemes. Fruit yellow, soft and smooth, reaching 20 × 18 mm, crowned at the apex with a whitish annular scar, the sepals being rapidly caducous.
 
 ## Type
 
@@ -31,15 +29,11 @@ Commerson 304 (P! in herb. Lamarek), Isle-de-France (Maurice)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+the pubescent Congolese forms are less lianescent than in Gabon.
 
-les formes pubescentes congolaises sont moins lianescentes qu'au Gabon.
+Forest margins, edges of paths and streams and up to 1000 m altitude. This species is widespread from western Guinea to East Africa, as well as in Madagascar and on the islands of Réunion and Mauritius.
 
-Lisières, bords de pistes et de ruisseaux et jusqu'à 1000 m
-
-d’altitude. Cette espèce est répandue de la Guinée occidentale jusqu’en Afrique orientale, ainsi qu’à Madagascar, aux îlesRéunion et Maurice.
-
-Le fruit est signalé comme comestible ainsi que les feuilles. Racines et feuilles ont des propriétés médicinales.
+The fruit is reported as edible as well as the leaves. Roots and leaves have medicinal properties.
 
 ## Figures
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou suffrutex de 1 ‒ 2( ‒ 3) m de hauteur, parfois rampant ; tiges, petioles et nervures principales fortement pourvues d’aiguillons recourbés courts et à base tuberculée. Stipules foliacées , étroitement elliptiques, 7 ‒ 8 x 1 ‒ 2 mm, aiguës, persistantes. Feuille à pétiole de 3 ‒ 6 cm ; limbe polymorphe , généralement 3 ‒ 5-palmatipartite , à segments étroitement ovales à étroitement obovales, atténués vers la base et le sommet , segment médian jusqu’à 7 x 0,5 ‒ 2 cm, marges irrégulièrement ondulées ou serrées, souvent rouges, les deux faces glabrescentes, pourvues d’un nectaire proéminent et allongé vers la base de la nervure médiane. Fleur axillaire, solitaire ; pédicelle (2 ‒ )5( ‒ 10) mm ; calicule à 5 ‒ 9 bractéoles, bifurquées au sommet en un lobe elliptique et un lobe linéaire, bractéoles environ 8 ‒ 11 mm de longueur et plus ou moins réfléchies à maturité ; sépales soudés sur 1/4 à 1/3 de la base, étroitement triangulaires, 2,5 ‒ 3,5 cm de longueur, subcaudés, accrescents en fruit, à poils blancs rigides, parfois à base tuberculée rouge ; pétales jaunes à base pourpre foncé, 3 ‒ 4( ‒ 7) cm de longueur ; tube staminal 1,5 ‒ 2 cm de longueur, pourpre ; branches du style dépassant le tube staminal. Fruit ovoïde, 20 × 15 mm environ; valves à acumen rigide, de 2 mm. Graines irrégulièrement réniformes, 3 ‒ 3,5 × 1,5 ‒ 2,5 mm, finement ridées et à petites verrues.
+Herb or suffrutex 1–2(–3) m tall, sometimes trailing; stems, petioles and main veins densely provided with short curved prickles with tuberculate base. Foliaceous stipules, narrowly elliptic, 7–8 × 1–2 mm, acute, persistent. Leaf with petiole 3–6 cm; lamina polymorphic, generally 3–5-palmatisect, with segments narrowly ovate to narrowly obovate, attenuate toward the base and apex, median segment up to 7 × 0.5–2 cm, margins irregularly undulate or seriate, often red, both faces glabrescent, provided with a prominent and elongate nectary toward the base of the midvein. Flower axillary, solitary; pedicel (2–)5(–10) mm; calyculus with 5–9 bracteoles, bifurcate at the apex into an elliptic lobe and a linear lobe, bracteoles approximately 8–11 mm long and more or less reflexed at maturity; sepals connate on 1/4 to 1/3 of the base, narrowly triangular, 2.5–3.5 cm long, subcaudate, accrescent in fruit, with rigid white hairs, sometimes with red tuberculate base; petals yellow with dark purple base, 3–4(–7) cm long; staminal tube 1.5–2 cm long, purple; style branches exceeding the staminal tube. Fruit ovoid, approximately 20 × 15 mm; valves with rigid acumen, 2 mm. Seeds irregularly reniform, 3–3.5 × 1.5–2.5 mm, finely wrinkled and with small warts.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, du sud du Nigéria jusqu’en Angola et Tanzanie ; au Gabon, connue de l’Estuaire, de l’Ogooué-Maritime, de l’Ogooué-Ivindo et du WoleuNtem, assez commune, parfois cultivée
+Tropical Africa, from southern Nigeria to Angola and Tanzania; in Gabon, known from the Estuary, Ogooué-Maritime, Ogooué-Ivindo and Woleu-Ntem, fairly common, sometimes cultivated
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, parmi rochers et dans cultures, rives des lacs, marais, jachères ; au Gabon jusqu’à 720 m d’altitude, ailleurs, jusqu’à 2100 m . Usage : Les fibres de la tige sont utilisées pour la préparation de cordes. Bi : Hauman (1963), Mwachala (2009), Wilson (1999) . B liographie
+Savannas, among rocks and in cultivations, lake shores, marshes, fallows; in Gabon up to 720 m altitude, elsewhere up to 2100 m. Use: The stem fibers are used for the preparation of ropes. Bi: Hauman (1963), Mwachala (2009), Wilson (1999). Bibliography
 
 ## Notes
 

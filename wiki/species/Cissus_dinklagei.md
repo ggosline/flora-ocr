@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody liane reaching 25-30 m in length and 5 cm in diameter. Branches cylindrical, with loose pubescence denser on the nodes; internodes 1.5-3 cm long. Tendrils generally simple, glabrous; bracteoles deltoid, approximately 0.5 mm long and wide, glabrous. Stipules quickly caducous, oblong deltoid, 4-5 mm long and 2.5-3.5 mm wide, obtuse or rounded at the apex, weakly pubescent. Leaves simple, entire. Petiole cylindrical, channeled, 1-4 cm long, loosely pubescent, more densely so at the base. Lamina ovate, more or less deltoid or elliptic, 5-10 cm long, 3-6 cm wide, with truncate, rounded or subcordate base, acuminate at the apex; margin entire, not denticulate, somewhat revolute on dry specimens toward the lower surface; leaf glabrous, or weakly pilose on the lower surface of the lamina or at the base of the primary vein; domatia glabrous or slightly ciliate in the angle between primary and secondary veins on the lower surface; venation pinnate; texture subcoriaceous.
 
-Liane ligneuse pouvant atteindre 25-30 m de longueur et 5 cm de diamètre. Rameaux cylindriques, à pilosité lâche plus dense sur les nœuds; entrenœuds de 1,5-3 cm de long. Vrilles généra-lement simples, glabres; bractées deltoïdes, d'environ 0,5 mm de long et de large, glabres. Stipules rapidement caduques, oblongues deltoïdes, de 4-5 mm de long et de 2,5-3,5 mm de large, obtuses ou arrondies au sommet, faiblement pubescentes. Feuilles simples entières. Pétiole cylindrique, canaliculé, de 1-4 cm de long, lâchement pubescent, plus densément à la base. Limbe ovale plus ou moins deltoïde ou elliptique, de 5-10 cm de long, de 3-6 cm de large, à base tronquée, arrondie ou subcordée, à sommet acuminé; marge entière non denticulée, un peu révolutée sur le sec vers la face inférieure; feuille glabre, ou faiblement pileuse à la face inférieure sur le limbe ou sur la base de la nervure pri-
+Inflorescences 4-10 cm long, in regular cymes composed of umbelliform cymules; peduncle 3-5 cm long, loosely pubescent or glabrescent; axes glabrous in their lower portions becoming progressively denser puberulent toward the apex; bracteoles broadly ovate deltoid, approximately 1 mm long, thick, glabrous or slightly puberulent. Flowers 3-4 mm long. Pedicel cylindrical, 4-7 mm long, densely puberulent. Calyx cupuliform, approximately 1 mm in height, very thick, entirely puberulent. Corolla densely puberulent, ovoid, conical at the apex; petals ovate obtuse, very thick, fleshy in the upper portion. Stamens 2 mm long; anthers ovate, approximately 0.5 mm long. Ovary glabrous.
 
-maire; des domaties glabres ou un peu ciliées dans l'angle des nervures primaire et secondaires à la face inférieure; nervation pennée; texture subcoriace.
+Berries ovoid, 3 cm long and 2 cm wide, glabrous. Seed ovoid-oblong, 15-17 mm long, 10-12 mm wide, and 6-7 mm thick; rostrum long, thick; median line very prominent, thick; lateral lines distinct regular, emitting a large number of prominent radials; seed coat with smooth surface.
 
-Inflorescences de 4-10 cm de long, en cymes régulières composées de cymules ombelliformes; pédoncule de 3-5 cm de long, lâchement pubescent ou glabrescent; axes glabres dans leurs parties inférieures devenant de plus en plus densément pubérulents vers le sommet; bractées largement ovales deltoïdes, d'environ 1 mm de long, épaisses, glabres ou un peu pubérulentes. Fleurs de 3-4 mm de long. Pédicelle cylindrique, de 4-7 mm de long, densément pubérulent. Calice cupuliforme, d'environ 1 mm de hauteur, très épais, entièrement pubérulent. Corolle densément pubérulente ovoïde, conique au sommet; pétales ovales obtus, très épais, charnus dans la partie supérieure. Étamines de 2 mm de long; anthères ovales, d'environ 0,5 mm de long. Ovaire glabre.
+Syntypes from Gabon: Dinklage 555 and Mildbraed 3216.
 
-Baies ovoïdes de 3 cm de long et 2 cm de large, glabres. Graine ovoïde oblongue, de 15-17 mm de long, 10-12 mm de large, et 6-7 mm d'épaisseur; rostre long, épais; ligne médiane très sailante, épaisse; lignes latérales nettes régulières, émettant un grand nombre de radiales saillantes; test à surface lisse.
-
-Syntypes du Gabon : Dinklage 555 et Mildbraed 3216.
-
-Plante caractéristique par ses feuilles à marge entière. En forêt dense ombrophile. Aire de dispersion couvrant l'Afrique équatoriale, du Cameroun à l'Angola.
+Plant characteristic for its leaves with entire margin. In dense rainforest. Range of distribution covering equatorial Africa, from Cameroon to Angola.
 
 ## Specimens examined
 

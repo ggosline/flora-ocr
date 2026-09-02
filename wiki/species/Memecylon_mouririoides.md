@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3 m tall; floriferous; branches rounded. Leaves coriaceous, glossy above, obscure venation, sessile to subsessile, petiole 1 to 2 mm; blade whitened-acuminate, up to 5 × 10 cm, attenuate at the base and cuneate on the petiole, rounded then abruptly acuminate at the apex, acumen obtuse; midvein softly prominent beneath; 10 to 12 transverse veins only slightly oblique, connected 1 mm from the margin, finely prominent above, not visible beneath; margins sclerotic.
 
-Arbuste de 3 m; florifère; rameaux arrondis. Feuilles coriaces, brillantes dessus, nervation obscure, sessiles à subsessiles, pétiole de 1 à 2 mm; limbe blancé-acuminé, jusqu'à 5 × 10 cm, atténué à la base et cunée sur le pétiole, arrondi puis brusquement acuminé au sommet, acumen obtus; nervure médiane mollement saillante dessous; de 10 à 12 transversales peu obliques, connectées à 1 mm de la marge, finement saillantes dessus, non visibles dessous; marges scléreuses.
+Axillary and terminal cymes, often fascicled 3 to 7 together; 2 cm long; axes strongly compressed, little or not ramified and bearing 3 to 5 flowers at their apex; bracts very caducous. Flower with slender pedicel 6 to 8 mm; floral bud (shortly before anthesis) with conical corolla scarcely prominent; hypantho-calyx campanulate, then calyx spreading; lobes valvate, thick, shorter than the hypanthium, triangular-obtuse, $ 2.5 \times 1.5 $ mm.
 
-Cymes axillaires et terminales, souvent fasciculées par 3 à 7; longues de 2 cm; axes fortement comprimés, peu ou pas ramiﬁés et portant de 3 à 5 ﬂeurs à leur extrémité; bractées très caduques. Fleur à pédicelle grêle de 6 à 8 mm; bouton floral (peu avant l'anthèse) avec corolle conique peu saillante; hypantho-calice campanulé, puis calice étalé; lobes valvaires, épais, plus courts que l'hypanthe, triangulaires-obtus,  $ 2.5 \times 1.5 $ mm.
+MELASTOMATACEAE
 
-MELASTOMATACE
+Petals bluish, fleshy, subsagittate-unguiculate, $ 2 \times 3 $ mm. Stamens with conical anther (in profile) $ 1 \times 1.3 $ mm; thecae frontal over their entire height; connective nearly parallel, only thicker towards the base, scarcely saddle-shaped; elliptic gland, equal to 1/4 of the length; filament 3 mm; epigynous chamber deep, septa developed, parietal, thickened at their insertion and reaching the style. Ovary 4-locular, 4-8-ovulate; style 6 mm.
 
-Pétales bleuâtres, charnus, subsagittés-onguiculés,  $ 2 \times 3 $ mm. Étamines à anthère conique (de profil)  $ 1 \times 1,3 $ mm; thèques frontales sur toute la hauteur; connectif presque parallèle, seulement plus épais vers le bas, peu ensellé; glande elliptique, égale au 1/4 de la longueur; filet 3 mm; chambre épigyne profonde, cloisons développées, pariétales, épaissies à leur insertion et atteignant le style. Ovaire 4-loculaire, 4-8-ovulé; style 6 mm.
-
-Fruit non connu.
+Fruit unknown.
 
 ## Type
 
@@ -35,9 +33,7 @@ Le Testu 5078, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-N'est présentement connue que du Gabon.
+Currently known only from Gabon.
 
 ## Specimens examined
 

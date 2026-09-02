@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-BASIONYME : Bulbophyllum calamarium Lindl. var. albocilia-tum Finet, Not. Syst. 1 : 383. 1911 – TYPE : Lousteau s.n., Zaïre, holo-P !.
+BASIONYM: Bulbophyllum calamarium Lindl. var. albociliatum Finet, Not. Syst. 1: 383. 1911 – TYPE: Lousteau s.n., Zaïre, holo-P !.
 
 ## Figures
 

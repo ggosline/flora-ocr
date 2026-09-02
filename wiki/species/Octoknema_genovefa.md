@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2 m high with erect stem. Crown spreading in a plateau form. Old branches with pale yellow, longitudinally wrinkled and weakly verrucose rhytidome. Young branches densely pubescent with dark brown stellate hairs. Petiole very densely pubescent, cylindrical, 1.2–2.5 cm long, thickened at the apex. Blade sparsely pubescent on the upper surface, densely pubescent on the lower surface, dark greenish above, light brown ± reddish dull or glossy beneath, elliptic, oblong-elliptic, sometimes ± lanceolate, 26–14 × 5–11 cm; base rounded peltate, apex obtusely acuminate. Midvein concave on the upper surface, prominent pubescent on the lower surface. Secondary veins 8–11 pairs, ascending, slightly curved, anastomosing 0.5–1.5 mm from the blade margin, concave above, prominent pubescent below. Veinlets forming a dense reticulate network prominent on both surfaces.
 
-Arbuste haut de 2 m à tige droite. Cime étalée en plateau. Rameaux âgés à rhytidome jaune pâle, ridé longidudinalement et faiblement verruequeux. Jeunes rameaux densément pubescents à poils étoilés brun foncé. Pétiole très fortement pubescent, cylindrique, long de 1,2-2,5 cm, épaissì au sommet. Limbe éparsement pubescent à la face supérieure, densément pubescent à la face inférieure, vert noirâtre dessus, marron clair ± rougeâtre mat ou luisant dessous, elliptique, oblong-elliptique, parfois ± blancéolé, 26-14 × 5-11 cm; base arrondie peltée, sommet acuminé obtus. Nervure médiane concave à la face supérieure, saillante pubescente à la face inférieure. Nervures secondaires 8-11 paires, ascendantes, peu arquées, s'anastomosant à 0,5-1,5 mm du bord du limbe, concaves dessus, saillantes pubescentes dessous. Nervilles en réseau dense saillant sur les deux faces.
+Male inflorescence in a lax raceme of fascicles, axillary, solitary, pendulous. Rachis approximately 30 cm long, densely pubescent with stellate hairs. Fascicle of 2–4 flowers. Male floral bud globular, 1.75 mm in diameter, with valvate petals. Male flowers pentamerous, actinomorphic. Pedicel 1.25 mm long, pubescent. Sepals absent. Petals pubescent externally, glabrous internally, broadly ovate, 1.5 mm long, with obtuse papillose apex internally. Stamens 5 epipetalous, 0.75 mm long; filament short 0.25 mm long; anther 0.75 mm long. Ovary reduced by abortion. Style with 5 grooves, truncate apex, 0.5 × 0.5 mm.
 
-Inflorescence ♂ en grappe lâche de fascicules, axillaire, solitaire, pendante. Rachis long d'environ 30 cm, densément pubescent à poils étoilés. Fascicule de 2-4 fleurs. Bouton floral ♂ globuleux, de 1,75 mm de diamètre, à pétales valvaires. Fleurs ♂ pentamères, actinomorphes. Pédicelle long de 1,25 mm, pubescent. Sépales absents. Pétales pubescents extérieurement, glabres intérieurement, largement ovés, longs de 1,5 mm, à sommet obtus papilleux intérieurement. Étamines 5 épipétales, longues de 0,75 mm; filet court long de 0,25 mm; anthère longue de 0,75 mm. Ovaire réduit par avortement. Style à 5 cannelures, sommet tronqué, 0,5 × 0,5 mm.
+Female inflorescence in a short spike, 2 cm long. Female floral bud globular, densely pubescent with stellate hairs. Sepals absent. Petals 5, free from one another, densely pubescent externally, glabrous internally, elliptic, 1 × 0.5 mm, fleshy, obtuse apex weakly papillose on the inner surface. Staminodes 5, claviform. Ovary semi-inferior, glabrous, style terminating in a digitate stigma.
 
-Inflorescence ♀ en épi court, de 2 cm. Bouton floral ♀ globuleux, densément pubescent à poils étoilés. Sépales absents. Pétales 5, libres entre eux, densément pubescents extérieurement, glabres intérieurement, elliptiques, 1 × 0,5 mm, charnus, sommet obtus faiblement papilleux à la face interne. Staminodes 5, claviformes. Ovaire semi-infère, glabre, style se terminant par un stigmate digité.
-
-Drupe ellipsoïde, pubescente extérieurement à poils étoilés, brun vert devenant rouge vif brillant à maturité, sommet apiculé. Endocarpe ligneux émettant à sa face interne 10 lames courtes s'atténuant ou disparaissant aux extrémités du fruit. Graine ellipsoïde à 10 forts sillons longitudinaux. PL. 41, p. 183.
+Drupe ellipsoid, pubescent externally with stellate hairs, green-brown becoming bright red glossy at maturity, apex apiculate. Endocarp woody emitting on its inner surface 10 short laminae attenuating or disappearing at the fruit extremities. Seed ellipsoid with 10 strong longitudinal grooves. PL. 41, p. 183.
 
 ## Type
 
@@ -33,11 +31,9 @@ Letouzey 4074, Cameroun (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+De Wilde 2814 differs from other specimens by its less dense pubescence on the lower surface.
 
-De Wilde 2814 diffère des autres échantillons par sa pubescence moins dense à la face inférieure.
-
-Cette espèce est connue du Cameroun et du Congo; elle est à rechercher au Gabon.
+This species is known from Cameroon and Congo; it should be sought in Gabon.
 
 ## Vernacular names
 

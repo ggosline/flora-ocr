@@ -14,27 +14,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hornem., De indole pl. guin. : 14 (1819). Liane grimpant jusqu’à 20 m de hauteur ou arbuste dressé ou ± étalé, de 1,8–6 m de hauteur ou rarement ± herbacé, jusqu’à 30 cm de hauteur ; tige cylindrique, creuse , généralement à pseudoépines droites ou recourbées de 5–25 × 5 mm à la base, densément couverte de longs poils étalés ± ferrugineux dans leur jeunesse , glabrescente. Feuilles généralement opposées ou subopposées ; pétiole de (0,3–)2,5–5,5(–8,5) cm, densément pubescent ; limbe oblong-elliptique à ovale ou obovale, de (1,5–)7,5–14(–20,5) × (1–)4,5–9(–13,5) cm, cunéé à arrondi ou subcordée à la base, acuminé à l’apex, entier à grossièrement ondulé ou lâchement denticulé, ± 3-nervé, nervures légèrement pubescentes dessus, légèrement à ± densément pubescentes dessous. Inflorescence terminale, (sub-)capitée , de 3–4,5 × 3–5,5 cm, très condensée , pileuse, parfois à cymes axillaires issues des nœuds subapicaux ; cymes distantes de 2–5 mm ; pédoncule nul ou obsolète ; bractées de (7–)10 × (1–)5 mm, membraneuses, la paire la plus basale foliacée et longue de 2–4 cm, souvent caduques. Fleur : calice à tube long de 2,5 mm , à lobes elliptiques, de 12–18 × 4–8(–10) mm , fortement acuminés, verts à la base et mauves ou violets vers le sommet, longuement ciliés et ± pileux ou seulement à poils clairsemés, rarement glabres ; corolle parfumée, blanche à jaune pâle ou vert pâle, à tube de (4–)5,5–6(–8,5) cm × ± 1 mm, à lobes elliptiques ou oblongs, de 10–15 × 5–6,5 mm , blancs ; étamines et style exserts sur (1,5–)2,5–3,5 cm . Fruit de 1,2 × 1,2 cm, noir à maturité.
+in Hornem., De indole pl. guin. : 14 (1819). Climbing liane up to 20 m tall or erect or ± spreading shrub, 1.8–6 m tall or rarely ± herbaceous, up to 30 cm tall; stem cylindrical, hollow, generally with straight or curved pseudospines 5–25 × 5 mm at the base, densely covered with long spreading hairs ± ferruginous when young, glabrescent. Leaves generally opposite or subopposite; petiole (0.3–)2.5–5.5(–8.5) cm, densely pubescent; blade oblong-elliptic to ovate or obovate, (1.5–)7.5–14(–20.5) × (1–)4.5–9(–13.5) cm, cuneate to rounded or subcordate at base, acuminate at apex, entire to coarsely undulate or loosely denticulate, ± 3-nerved, nerves slightly pubescent above, slightly to ± densely pubescent below. Inflorescence terminal, (sub-)capitate, 3–4.5 × 3–5.5 cm, very condensed, pilose, sometimes with axillary cymes arising from subapical nodes; cymes distant 2–5 mm apart; peduncle absent or obsolete; bracts (7–)10 × (1–)5 mm, membranous, the most basal pair foliaceous and 2–4 cm long, often caducous. Flower: calyx with tube 2.5 mm long, with elliptic lobes, 12–18 × 4–8(–10) mm, strongly acuminate, green at base and mauve or violet toward the apex, long-ciliate and ± pilose or only with scattered hairs, rarely glabrous; corolla fragrant, white to pale yellow or pale green, with tube (4–)5.5–6(–8.5) cm × ± 1 mm, with elliptic or oblong lobes, 10–15 × 5–6.5 mm, white; stamens and style exserted (1.5–)2.5–3.5 cm. Fruit 1.2 × 1.2 cm, black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandu en Afrique tropicale et subtropicale, notamment au Nigéria, au Cameroun, au Gabon, en République du Congo, en République démocratique du Congo, en République Centrafricaine et en Angola ; au Gabon : Ogooué-Ivindo. Statut de conservation : Évalué comme Préoccupation mineure (LC) par IUCN & BGCI (2020a)
+Widely distributed in tropical and subtropical Africa, particularly in Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic and Angola; in Gabon: Ogooué-Ivindo. Conservation status: Evaluated as Least Concern (LC) by IUCN & BGCI (2020a)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts, forêts secondaires, bords de route ; au Gabon à 480 m d’altitude, ailleurs à 475–1420 m
+Forests, secondary forests, roadsides; in Gabon at 480 m altitude, elsewhere at 475–1420 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. capitatum comprenait auparavant deux variétés : la variété type et la var. cephalanthum (Oliv.) Baker sensu Huber in Hepper (1963). On a montré récemment que cette dernière représente une nouvelle sous-espèce ouest africaine de C. cephalanthum Oliv. Elle est maintenant traitée comme subsp. occidentale Jongkind, absente du Gabon. B : Cheek et al. (2004), Huber et al. (1963), IUCN SSC Global Tree Specialist Group & i B liographie BGCI (2020a), Jongkind (2006)
+C. capitatum previously included two varieties: the typical variety and var. cephalanthum (Oliv.) Baker sensu Huber in Hepper (1963). It was recently shown that the latter represents a new West African subspecies of C. cephalanthum Oliv. It is now treated as subsp. occidentale Jongkind, absent from Gabon. B: Cheek et al. (2004), Huber et al. (1963), IUCN SSC Global Tree Specialist Group & Bibliography BGCI (2020a), Jongkind (2006)
 
 ## Notes
 

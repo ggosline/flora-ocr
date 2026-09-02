@@ -17,39 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 GARAY, Kew Bull. 28(3) : 504 (1973) ; LA CROIX & al., Orchid. Malawi : 242 (1991) ; FAC 2 : 474 (1992) ; FCAM 3 : 886 (2001).
 
-Tige < 60 cm. Feuilles de 3-10,5 × 1-2,2 cm, tordues à la base pour se situer dans un même plan, linéaires-lancéolées à oblongues-ovées, obliques. Inflorescence 1-flore, 1-2 cm, plus courte que les feuilles. Fleur petite à moyenne, résupinée, blanche. Sépale dorsal linéaire-lancéolé à étroitement lancéolé, aigu. Pétales sublinéaires à presque filiformes, aigu. Sépales latéraux linéaires-lancéolés à étroitement lancéolés, falci-formes, aigu. Labelle 12-17,1 × 4-7 mm, ové à ové-lancéolé, aigu, canaliculé, sans callus. Éperon 12-16 mm, sigmoïde à droit, étroitement
-
-conique à la base, puis filiforme et renflé au sommet, aigu. – Pl. 222, p. 465.
+Stem < 60 cm. Leaves 3-10.5 × 1-2.2 cm, twisted at the base to lie in the same plane, linear-lanceolate to oblong-ovate, oblique. Inflorescence 1-flowered, 1-2 cm, shorter than the leaves. Flower small to medium, resupinate, white. Dorsal sepal linear-lanceolate to narrowly lanceolate, acute. Petals sublinear to almost filiform, acute. Lateral sepals linear-lanceolate to narrowly lanceolate, falciform, acute. Labellum 12-17.1 × 4-7 mm, ovate to ovate-lanceolate, acute, channelled, without callus. Spur 12-16 mm, sigmoid to straight, narrowly conical at the base, then filiform and swollen at the apex, acute. – Pl. 222, p. 465.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigeria, Cameroun, Gabon, Zaïre
+Ghana, Nigeria, Cameroon, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 500-900 m. Epiphytic in dense forest, transitional forest between Caesalpiniaceae forest and submontane forest with Cælocaryon trimera, Allanblackia floribunda, Medusandra mpomiana and Santiria trimera
 
-alt. 500-900 m. Épiphyte en forêt dense, forêt de transition entre forêt à Caesalpiniaceae et forêt submontagnarde à Cælocaryon trimera, Allanblackia floribunda, Medusandra mpomiana et Santiria trimera
+MATERIAL STUDIED (Map 99) :
 
-MATÉRIEL ÉTUDIÉ (Carte 99) :
-
-Le Testu 9264 – entre la Riv. Woleu et la Riv. Nteu, banc de la Nyé, près de Tanamvé (26 Août 1933), (K – Cribb, pers. comm.).
+Le Testu 9264 – between Riv. Woleu and Riv. Nteu, bank of the Nyé, near Tanamvé (26 August 1933), (K – Cribb, pers. comm.).
 
 4. Sect. Angraecoides (Cordem.) Garay
 
 Kew Bull. 28 (3) : 500 (1974).
 
-Inflorescence 1-4-flore. Pédonculc procéminent, généralement beaucoup plus long que les entrenœuds, portant à la base 1 ou 2 gaines apprimées. Fleurs petites, le plus souvent vertes ou jaune verdâtre, rarement blanches. Éperon cylindrique ou claviforme.
+Inflorescence 1-4-flowered. Peduncle prominent, generally much longer than the internodes, bearing at the base 1 or 2 appressed sheaths. Flowers small, most often green or yellowish-green, rarely white. Spur cylindrical or claviform.
 
-1. Éperon à sommet en forme d'ampoule ou globuleux ..... 52. 9. A. egertonii 1'. Éperon plus ou moins renflé au sommet mais jamais comme ci-dessus
-
-.....52. 8. A. chevalieri
+1. Spur with apex flask-shaped or globose ..... 52. 9. A. egertonii 1'. Spur more or less swollen at the apex but never as above ..... 52. 8. A. chevalieri
 
 ## Figures
 

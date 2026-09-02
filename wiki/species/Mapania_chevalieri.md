@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste avec un court rhizome épais de 4–7 mm ; tige centrale, solitaire , 70– 120 cm × 2–5 mm, triangulaire, verte, scabre sous l’inflorescence. Feuilles nombreuses , surtout basales mais certaines espacées le long de la tige, plus longues que la tige ; gaine verte ; limbe plan ou légèrement plié, fortement scabre sur la marge et les principales côtes, le plus grand de 50 × 2,5 cm , progressivement rétréci en un sommet aigu. Inflorescence en panicule terminale, lâche, d’environ 15 × 15 cm, brune, avec 5–10 rameaux principaux de 0,5–5 cm, chacun sous-tendant 3–6 rameaux secondaires portant des épis sessiles ou pédonculés ; bractées involucrales foliacées, linéaires, souvent étalées, vertes, très scabres sur la marge et la nervure centrale, sommet aigu, l’inférieure de 25
+Robust herb with a short thick rhizome 4–7 mm; central stem, solitary, 70–120 cm × 2–5 mm, triangular, green, scabrous below the inflorescence. Leaves numerous, mainly basal but some scattered along the stem, longer than the stem; sheath green; blade flat or slightly folded, strongly scabrous on the margin and main ribs, the largest 50 × 2.5 cm, gradually narrowed to an acute apex. Inflorescence a terminal panicle, lax, about 15 × 15 cm, brown, with 5–10 main branches 0.5–5 cm, each subtending 3–6 secondary branches bearing sessile or pedunculate spikes; involucral bracts foliaceous, linear, often spreading, green, very scabrous on the margin and central nerve, apex acute, the lower one 25
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon ; très rare et trouvée seulement dans l’Estuaire et la Ngounié (2 récoltes)
+endemic to Gabon; very rare and found only in Estuaire and Ngounié (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts humides, souvent le long des rivières et des cours d’eau ; probablement à moins de 100 m d’altitude seulement. Note taxonomique : très proche de M. afro-orientalis , mais s’en différencie par ses épis cylindriques plus grands (9–18 mm de longueur contre 5–8 mm) et les akènes entièrement ridés. Elle se distingue de M. polystachya par ses limbes plus étroits et ses bractées spicoïdales non tachetées. b : Nelmes (1955a). ibliographie
+humid forests, often along rivers and streams; probably below 100 m altitude only. Taxonomic note: very close to M. afro-orientalis, but differs by its larger cylindrical spikes (9–18 mm in length versus 5–8 mm) and achenes entirely wrinkled. It is distinguished from M. polystachya by its narrower blades and its spicoid bracts not spotted. b: Nelmes (1955a). Bibliography
 
 ## Notes
 

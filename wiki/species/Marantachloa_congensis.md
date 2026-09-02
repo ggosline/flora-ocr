@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bull. S. B. Belg. 83, 5 : 17 (1950).
 
-Herbe dressée ou sarmenteuse, rhizomateuse, formant des fourrés. Feuilles antitropes, limbes progressivement acuminés vers le sommet, arrondis à la base. Taille variable, généralement de l'ordre de 10-15 × 4-5 cm. Partie non calleuse du pétiole ± 5 mm ; callus renflé, de 3 à 6 mm, partie supérieure pubescente.
+Herb erect or sarmentose, rhizomatous, forming thickets. Leaves antitropic, laminae gradually acuminate toward the apex, rounded at the base. Variable in size, generally about 10-15 × 4-5 cm. Non-callous portion of petiole ± 5 mm; callus swollen, 3 to 6 mm, upper portion pubescent.
 
-Inflorescences lâches atteignant une dizaine de centimètres de long, peu ou pas ramifiées. Rachis mince, entre-nœuds d'environ 1,5 cm de long. Bractées abaxiales de 15-20 × 3-4 mm, pédoncule commun un peu plus long, avec une fleur subsessile, l'autre sur un pédicelle d'environ 5 mm. Fleurs blanches, sépales glumacés de 3 à 4 mm de long, corolle d'environ 5 mm; ovaire densément pubescent.
+Inflorescences lax reaching about ten centimetres in length, little or not branched. Rachis slender, internodes about 1.5 cm long. Abaxial bracts 15-20 × 3-4 mm, common peduncle somewhat longer, with one flower subsessile, the other on a pedicel about 5 mm. Flowers white, glume-like sepals 3 to 4 mm long, corolla about 5 mm; ovary densely pubescent.
 
-Fruit lisse, déhiscent, avec les restes du périanthe plus ou moins persistants, d'environ 5 mm de diamètre. Graines à arille basal lacinié.
+Fruit smooth, dehiscent, with remains of perianth more or less persistent, about 5 mm in diameter. Seeds with basally laciniate aril.
 
 ## Type
 
@@ -37,9 +35,7 @@ Buttner 547, Congo (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De la Côte-d'Ivoire au Centrafrique, au Cameroun, au Gabon et jusqu'au Congo ex-belge. Sous-bois et recrus forestiers.
+From Côte-d'Ivoire to Central African Republic, Cameroon, Gabon and to ex-Belgian Congo. Forest understory and forest regrowth.
 
 ## Specimens examined
 

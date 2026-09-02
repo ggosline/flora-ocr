@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Smeathmann s.n., Sierra Leone, holo-BM!, iso-S, UPS. : Barter 2026 – Nigeria, K!. – holo, W-R! – iso.
 
 – Bulbophyllum oxypterum (Lindl.) Rchb. f., Walp. Ann. 6 : 258 (1861).
@@ -35,27 +33,23 @@ tags: [species, generated]
 
 – Bulbophyllum subcoriaceum De Wild., Rev. Zool. Afr. 9, suppl. bot. : 33 (1921).
 
-Pseudobulbes 3,5-10 × 1-3 cm, ovoïdes ou ellipsoïdaux, 2 (3)-foliés. Feuilles pétiolées, 3,8-20 × 1,3-5,5 cm, oblongues à linéaires-lancéolées, obtuses. Inflorescence lâche, 15-90 cm, rachis limbiforme, glabre, 16-120-flore. Fleurs petites, verdâtes ou jaunâtes à pourpre ou brunâtes, souvent teintées ou ponctuées de pourpre. Sépale dorsal glabre ou fine-ment papilleux, ové-lancéolé, aigu, épais ; sépales latéraux obliquement et transversalement elliptiques à la partie inférieure, sommet caudé ou cuspidé. Pétales falciformes, lancéolés à oblonges, aigus, glabres. Labelle jaunâtre ou crème, finement ponctué de pourpre, oblong-ové, obtus, récurvé, épais, glabre, marges irrégulièrement denticulées vers la base. Pl. 78, p. 159.
+Pseudobulbs 3.5-10 × 1-3 cm, ovoid or ellipsoid, 2 (3)-leaved. Leaves petiolate, 3.8-20 × 1.3-5.5 cm, oblong to linear-lanceolate, obtuse. Inflorescence lax, 15-90 cm, rachis limbiform, glabrous, 16-120-flowered. Flowers small, greenish or yellowish to purple or brownish, often tinged or punctate with purple. Dorsal sepal glabrous or finely papillose, ovate-lanceolate, acute, thick; lateral sepals obliquely and transversely elliptic in the lower part, apex caudate or cuspidate. Petals falcate, lanceolate to oblong, acute, glabrous. Labellum yellowish or cream, finely punctate with purple, oblong-ovate, obtuse, recurved, thick, glabrous, margins irregularly denticulate toward the base. Pl. 78, p. 159.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée. Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Centrafrique, Sao Tomé, Principe, Gabon, Angola, Congo (Brazzaville), Congo (Kinshasa), Ouganda, Kenya, Tanzania, Zambie, Malawi, Zimbabwe, Mozambique
+Guinea. Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Central African Republic, São Tomé, Príncipe, Gabon, Angola, Congo (Brazzaville), Congo (Kinshasa), Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1500 m. Epiphyte on trunk in primary and secondary lowland forest and in montane or riparian forest, in Aucoumea-Brachystegia forest or mixed deciduous woodland
 
-alt. 0-1500 m. Épiphyte sur tronc en forêt planitaire primaire et secondaire et en forêt montagnarde ou ripicole, en forêt à Aucoumea-Brachystegia ou boisement décidu mixte
+MATERIAL STUDIED (Map 27) :
 
-MATÉRIEL ÉTUDIÉ (Carte 27) :
+Bos, van der Laan & Nzabi s.n., Chantier Leroy-Abanga, 30 km E, 0°50' N, 11°10' E, at the end of the concession road, cult. WAG (85-083), not seen.
 
-Bos, van der Laan & Nzabi s.n., Chantier Leroy-Abanga, 30 km E, 0°50' N, 11°10' E, au bout de la piste de la concession, cult. WAG (85-083), non vidi.
+Hallé & Villiers 285, on the Ivindo at Makokou (fl., August), P!. Klaine 168, 8 km from Libreville (fl., November), P!.
 
-Hallé & Villiers 285, sur l'Ivindo à Makokou (fl., Août), P!. Klaine 168, 8 km de Libreville (fl., Nov.), P!.
-
-Louis, Breteler & de Bruijn 454, près de la Lara, village d'Étoulé, piste Mitzic-Médouneu, 0° 49' N, 11° 25' E (fl., Nov.), WAG!, LBV ; 1209, 17 km E de Libreville au S du village de Bikélé, 0° 23' N, 9° 35' E, le long d'une crique. Épiphyte sur un Rhizophora, (fl., Déc.), WAG!, LBV.
+Louis, Breteler & de Bruijn 454, near Lara, village of Étoulé, Mitzic-Médouneu road, 0° 49' N, 11° 25' E (fl., November), WAG!, LBV ; 1209, 17 km E of Libreville S of the village of Bikélé, 0° 23' N, 9° 35' E, along a creek. Epiphyte on a Rhizophora, (fl., December), WAG!, LBV.
 
 ## Figures
 

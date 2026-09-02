@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenwelt Afr. 3 (2) : 280 (1921); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 1131 (1933).
 
-Arbuste ou arbre de 2-8 m, se distinguant de L. ferrugineus par ses feuilles : folioles de la  $ 1^{\text{re}} $ paire réduites (3-4 cm, avec 5-6 paires de nervures), insérées près de la base, presque stipuliformes; folioles moyennes plus étroites,  $ 20-25 \times 4-7 $ cm, subsessiles. Fruit à 3 (-4) loges. PL. 37, 7-10', p. 161.
+Shrub or tree 2–8 m tall, distinguished from L. ferrugineus by its leaves: leaflets of the 1st pair reduced (3–4 cm, with 5–6 pairs of veins), inserted near the base, almost stipuliform; middle leaflets narrower, 20–25 × 4–7 cm, subsessile. Fruit with 3 (–4) locules. PL. 37, 7–10, p. 161.
 
 ## Type
 

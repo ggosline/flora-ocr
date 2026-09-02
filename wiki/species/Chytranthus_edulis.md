@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Ch. mannii auct. non Hook. F. : RADLK., in Engl., Pflanzenreich, Sapindaceae : 791, 971 (1932), p.p.
 
 — Ch. welwitschii auct. non Exell : Pellegrin, Mém. Soc. Bot. France 102 : 72 (1955) p.p.
 
-Arbuste monocaule de 0,5-6 m de hauteur, le plus souvent 1,5-2 m seulement. Extrémité œuvre finement pubescente à brunâtre glabrescente; pétiole de 8-30 cm, un peu pubescent au stade juvénile puis glabre; 4-7 paires de folioles; les plus grandes atteignent  $ 30 \times 10 $ cm; limbe roussâtre à sec, glabre, à base ± obtuse et sommet avec un acumen caudé; nervure médiane pubérulente dessus de façon peu distincte; 10-20 paires de nervures secondaires, espacées de 12-18 mm.
+Shrub monocaulous, 0.5–6 m tall, most often only 1.5–2 m. Stem apex finely pubescent to brownish glabrescente; petiole 8–30 cm, somewhat pubescent at juvenile stage then glabrous; 4–7 pairs of leaflets; the largest reaching 30 × 10 cm; blade rufescent when dry, glabrous, with base ± obtuse and apex with a caudate acumen; midvein minutely pubescent above in an indistinct manner; 10–20 pairs of secondary veins, spaced 12–18 mm apart.
 
-Inflorescences caulinaires longues de 3-6 cm, entièrement rouge carminé ou rose foncé, à glomérules 1-6-flores. Bouton ové d'env. 5 mm de diamètre; calice entrouvert à 5 lobes courts; 4-6 pétales à ligule soudée dans l'axe et séparée ainsi en deux poches faiblement obliques à bords sinueux pubescents, dépassant un peu le niveau supérieur de la soudure axiale; pas d'appendicule; disque polygonal en croissant un peu déprimé dessus; 7-8 (9) étamines à filet et anthère pubescents; connectif sans verrue et peu sensiblement bossu au dessus du filet dont l'insertion est située entre 1/4 et 1/5 inférieur de l'anthère; petit ovaire hirsute triloculaire, avorté dans la
+Inflorescences cauline, 3–6 cm long, entirely deep carmine red or dark pink, with glomerules 1–6-flowered. Bud ovoid about 5 mm in diameter; calyx slightly open with 5 short lobes; 4–6 petals with ligule fused in the axis and thus separated into two weakly oblique pockets with sinuous pubescent margins, slightly exceeding the upper level of the axial fusion; no appendage; disk polygonal crescent-shaped, slightly depressed above; 7–8 (9) stamens with filament and anther pubescent; connective without wart and scarcely noticeably gibbous above the filament, its insertion situated between 1/4 and 1/5 from the base of the anther; small hirsute three-locular ovary, aborted in the ♂ flower; hairy ovary swollen attenuated into a more or less curved style in the ♀ flower.
 
-fle:rr ♂; ovaire velu renflé atténué en style plus ou moins recourbé dans la fleur ♀.
-
-Fruit à 3 faibles sillons et trois crêtes arrondies, largeur dépassant 3 cm, extrémités ± étroitement atténuées; épiderme à pubescence jaunâtre un peu hispide, ± caduque. 3 graines atteignant  $ 18 \times 11 \times 4 $ mm dans des loges pubescentes intérieurement. Cotylédons se séparant suivant un plan arqué. PL. 17, B, p. 87.
+Fruit with 3 faint furrows and three rounded ridges, width exceeding 3 cm, extremities ± narrowly attenuate; epidermis with yellowish pubescence somewhat hispid, ± caducous. 3 seeds reaching 18 × 11 × 4 mm in internally pubescent locules. Cotyledons separating along an arcuate plane. PL. 17, B, p. 87.
 
 ## Type
 
@@ -37,9 +33,7 @@ Klaine 201, Libreville, Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante de forêt à fruits comestibles par leur mésocarpe charnu.
+Forest plant with edible fruits due to their fleshy mesocarp.
 
 ## Vernacular names
 

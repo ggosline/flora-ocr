@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, and in Engler and Prantl, Pflanzenfam. IV 3B : 344 (1895) "yaundensis". — C. B. Clarke, F.T.A. 5 : 178 (1899).
 
-, et in Engler et Prantl, Pflanzenfam. IV 3B : 344 (1895) « yaundensis ». — C. B. Clarke, F.T.A. 5 : 178 (1899).
+Herbaceous plant reaching 1 m in height with cylindrical stems, finely pubescent. Petioles 1–2 cm; the terminal leaves, notably those adjacent to the inflorescences, are subsessile, rounded and very obtuse at the base. Leaf blade elliptic-ovate, acute at the base and acuminate at the apex, 7–10 × 2.5–4 cm. 7–8 pairs of lateral nerves.
 
-Plante herbacée atteignant 1 m de hauteur à tiges cylindriques, finement pubescentes. Pétioles de 1-2 cm; les feuilles terminales, notamment celles qui avoisinent les inflorescences, sont subses-siles, arrondies et très obtuses à la base. Limbe des feuilles elliptique-ovale, aigu à la base et acuminé au sommet, de 7-10 × 2,5-4 cm. 7-8 paires de nervures latérales.
+Inflorescences terminal and axillary, with peduncles 1–3.5 cm, pubescent; form of inflorescences variable; the terminal portions are often very elongate and spike-like, 17–20 cm long; axillary portions generally shorter and denser. Flowers 1–3 per bracteal axis; bracts and bracteoles linear-filiform, 5–6 × 1 mm, finely pubescent. Calyx 1.5 cm, with lobes resembling the bracteoles, linear-filiform, 14 × 0.75 mm. Flowers violet, violet-blue, or white barely pink-violet; tube very elongate, slender, 40 × 1.5 mm, covered on the exterior with a few hairs; upper lip 10 × 5 mm; lower lip 8–4 mm. Filaments 11 mm attached to the apex of the tube; anthers
 
-Inflorescences terminales et axillaires, à pédoncule de 1-3,5 cm, pubescent; forme des inflorescences variable; les parties terminales sont souvent en forme d'épi très allongé, de 17-20 cm de long; parties axillaires en général plus courtes et denses. Fleurs 1-3 par axe de bractée; bractées et bractéoles linéaires filiformes, de 5-6 × 1 mm, finement pubescentes. Calice de 1,5 cm, à lobes ressemblant aux bractéoles, linéaires-filiformes, de 14 × 0,75 mm. Fleurs violettes, bleu violacé, ou blanc à peine rosé-violacée; tube très allongé, mince, de 40 × 1,5 mm, couvert à l'extérieur de quelques poils; lèvre supérieure de 10 × 5 mm; lèvre inférieure de 8-4 mm. Filets de 11 mm attachés au sommet du tube; anthères
+6–12 : Brachystephanus Mannii C. B. Clarke.
 
-6-12 : Brachystephanus Mannii C. B. Clarke.
-
-de 2 mm. Disque de 0,5 mm de haut; ovaire long de 2,5 mm; style de 51 mm; fruit inconnu.
+2 mm. Disc 0.5 mm high; ovary 2.5 mm long; style 51 mm; fruit unknown.
 
 ## Type
 
@@ -35,9 +33,7 @@ Zenker et Staudt 312, Yaoundé, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon.
+Cameroon and Gabon.
 
 ## Specimens examined
 

@@ -21,23 +21,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub reaching 4-5 m tall (Tisserant); young shoots bearing a few caducous stellate hairs. Bark of twigs pale beige, longitudinally wrinkled when dry. Stipules linear acute, 3-6 mm approximately, caducous. Petiole 1-8 (-11) cm long, glabrescent. Lamina thin, lanceolate-elliptic, glabrous on both surfaces, 8-24 × 3-8 cm, with acute or attenuate base and narrowly obtuse, with acuminate apex. 6-12 pairs of pennate lateral nerves; the lower pair is generally basal.
 
-Arbuste atteignant 4-5 m de haut (Tisserant); jeunes extrémités portant quelques poils étoilés caduques. Écorce des rameaux beige clair plissée en long à sec. Stipules linéaires aiguës, de 3-6 mm env., caduques. Pétiole de 1-8 (-11) cm de long, glabrescent. Limbe mince blancéolé elliptique, glabre sur les deux faces, de 8-24 × 3-8 cm, à base aiguë ou atténuée et étroitement obtuse, à sommet acuminé. 6-12 paires de nervures latérales pennées; la paire inférieure est en général basilaire.
+Inflorescence slightly supra-axillary in a few-flowered raceme with rachis 1-16 mm long, glabrescent. Pedicel 3 to 7 mm long, slender, with a few stellate hairs, articulated towards the middle. Flower pink, red to thirteen or brown (sometimes yellow?), with urceolate calyx 5-8 mm long, with scattered hairs on the outside, moderately pubescent on the inside; 3-5 acute lobes 1-2 mm long, with pubérulence on the upper surface and densely on the margins.
 
-Inflorescence légèrement supra-axillaire en grappe pauciflore
+♂ Flower with slender androphore bearing a crown of 12-16 uniseriate pollen sacs. ♀ Flower with hairy ovary, basally encircled by anthers; 3-4 carpels shortly attenuate and crowned with radiating stigmatic lobes; the gynoecium is shorter than the calyx tube. Approximately 5-7 ovules per carpel.
 
-à rachis de 1-16 mm de long, glabrescent. Pédicelle de 3 à 7 mm de long, grêle, avec quelques poils étoilés, articulé vers le milieu. Fleur rose, rouge à treize ou brune (parfois jaune?), à calice urcéolé de 5-8 mm de long, à poils épars à l'extérieur, médiocrement pubescent à l'intérieur; 3-5 lobes aïgus de 1-2 mm de long, à pubérulence sur la face supérieure et de façon dense sur les marges.
+Fruit red, composed of follicles 5-7 cm long, oblong with attenuate ends.
 
-Fleur ♂ à androphore grêle portant une couronne de 12-16 loges polliniques unisériées. Fleur ♀ à ovaire velu, ceint basalement d'anthères; 3-4 carpelles courtement atténués et couronnés de lobes stigmatiques rayonnants; le gynécée est plus court que le tube du calice. Env. 5-7 ovules par carpelle.
+Type of the species: Schweinfurth 3451 probably destroyed.
 
-Fruit rouge composé de follicules de 5-7 cm de long, oblongs à extrémités atténuées.
+This species described from the Ghazal is distributed especially in Oubangui.
 
-Type de l'espèce : Schweinfurth 3451 probablement détruit.
-
-Cette espèce décrite du Ghazal est répandue surtout en Oubangui.
-
-Utilisation. On mange les graines (Tisserant).
+Use. The seeds are eaten (Tisserant).
 
 ## Specimens examined
 
@@ -73,9 +69,7 @@ Orendé, Orendé rouge, Eréré (région de Libreville); Tchitchiéché, Tchiti�
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. Fruit (ou graine?) alimentaire. L'écorce contiendrait une fibre textile.
+Use. Fruit (or seed?) foodstuff. The bark would contain a textile fiber.
 
 ## Notes
 

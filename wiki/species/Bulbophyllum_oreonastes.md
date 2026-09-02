@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum hookerianum Kraenzl., Bot. Jahrb. Syst. 17 : 49 (1893).
 
 – Bulbophyllum zenkerianum Kraenzl., Bot. Jahrb. Syst. 48 : 391 (1912).
@@ -29,51 +27,47 @@ tags: [species, generated]
 
 – Bulbophyllum planiaxe Petersen, Bot. Tiddskr. 49 : 166 (1952).
 
-Pseudobulbes 0,4-3,5 × 0,4-1,2 cm, suborbiculaires à étroitement ovoïdes ou ellipsoidaux, 2-foliés. Feuilles courtement pétiolées, 0,6-8,2 × 0,4-2 cm, largement elliptiques à linéaires-lancéolées, obtuses. Inflorescence assez lâche, 1,5-17,5 cm, rachis glabre, un peu renflé, en zig-zag ou non, 5-36-flore. Fleurs petites, jaunâtres, jaunes ou orange luisant, en général striées de rouge foncé. Sépales aigus, minces et glabres ; sépale dorsal oblong-ové ; sépales latéraux obliquement oblongs-triangulaires, parfois apiculés. Pétales linéaires, obtus, minces et glabres. Labelle jaunâtre, brunâtre à pourpre, oblong ou elliptique, sommet arrondi et très épais, base un peu concave, glabre, récurvée. – Pl. 90, p. 181.
+Pseudobulbs 0.4-3.5 × 0.4-1.2 cm, suborbicular to narrowly ovoid or ellipsoidal, 2-foliate. Leaves shortly petiolate, 0.6-8.2 × 0.4-2 cm, broadly elliptic to linear-lanceolate, obtuse. Inflorescence rather lax, 1.5-17.5 cm, rachis glabrous, slightly swollen, zigzag or not, 5-36-flowered. Flowers small, yellowish, yellow or glossy orange, generally streaked with dark red. Sepals acute, thin and glabrous; dorsal sepal oblong-ovate; lateral sepals obliquely oblong-triangular, sometimes apiculate. Petals linear, obtuse, thin and glabrous. Labellum yellowish, brownish to purple, oblong or elliptic, apex rounded and very thick, base slightly concave, glabrous, recurved. – Pl. 90, p. 181.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Cameroon, Central African Republic, Equatorial Guinea, Gabon, Congo (Kinshasa)
 
-De la Guinée au Cameroun, Centrafrique, Guinée équatoriale, Gabon, Congo (Kinshasa)
-
-PL. 90. – Bulbophyllum oreonastes Rchb.f.: A, vue générale ; B, partie de l'inflorescence ; C, pétales, labelle et gynostème, vue latérale ; D, E, labelle ; F, pétale ; G, sépale dorsal ; H, gynostème, vue de dessous ; I, J, pollinies, aspects divers (A-J, Zenker 3902, HBG).
+PL. 90. – Bulbophyllum oreonastes Rchb.f.: A, general view; B, part of the inflorescence; C, petals, labellum and gynosteme, lateral view; D, E, labellum; F, petal; G, dorsal sepal; H, gynosteme, view from below; I, J, pollinia, various aspects (A-J, Zenker 3902, HBG).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 160-750 m. Epiphytic, 2-10 m above ground, often collected on dead branch in lowland to montane forest, sometimes forest or thicket with Brachystegia, sometimes lithophytic
 
-alt. 160-750 m. Épiphyte, 2-10 m au-dessus du sol, souvent récolté sur branche morte en forêt planitaire à montagnarde, parfois forêt ou fourré à Brachystegia, parfois lithophyte
+MATERIAL EXAMINED (Map 33):
 
-MATÉRIEL ÉTUDIÉ (Carte 33) :
+Arends, Louis & de Wilde 662, west side of the Doudou Mountains, track under construction, 2°15' S, 10°20' E (fl., & fr. Dec.), WAG!, LBV.
 
-Arends, Louis & de Wilde 662, flanc O des Monts Doudou, piste en construction, 2°15' S, 10°20' E (fl., & fr. Déc.), WAG!, LBV.
+Breteler & de Wilde 209, km 5, road from the Asok hydroelectric power station to the Tchimbélé River, 0° 23' E, 0° 41' N, (fl., Aug.) WAG!.
 
-Breteler & de Wilde 209, km 5, route de la centrale hydroélectrique d'Asok vers la Riv. Tchimbélé, 0° 23' E, 0° 41' N, (fl., Août) WAG!.
+Breteler, Lemmens & Nzabi 8255, between Mouila and Yéno, km 50 track from Mouila, 1° 45' S, 11° 22' E (fl., Sept.), WAG!, LBV.
 
-Breteler, Lemmens & Nzabi 8255, entre Mouila et Yéno, km 50 piste depuis Mouila, 1° 45' S, 11° 22' E (fl., Sept.), WAG!, LBV.
+de Wilde 207 & 209, km 5 road from the Asok hydroelectric power station to the Tchimbélé River, 0° 23' E, 0° 41' N, (fl., Aug.), WAG!.
 
-de Wilde 207 & 209, km 5 route depuis la centrale hydroélectrique d’Asok vers la Riv. Tchimbélé, 0° 23 ; E, 0° 41' N, (fl., Août), WAG!.
+de Wilde s.n., Cristal Mountains, ridges, 0°53' N, 10°12' E, cult. WAG (83-214), non vidi; s.n., Cristal Mountains, km 10, road from Tchimbélé-Kinguélé, cult. WAG (83-357), non vidi; s.n., 40 km NW of Doussala, cult. WAG (86-414), non vidi.
 
-de Wilde s.n., Monts de Cristal, reliefs, 0°53' N, 10°12' E, cult. WAG (83-214), non vidi ; s.n., Monts de Cristal, km 10, route de Tchimbélé-Kinguélé, cult. WAG (83-357), non vidi ; s.n., 40 km au NO de Doussala, cult. WAG (86-414), non vidi.
+de Wilde, Arends & de Bruijn 8993 – Doudou Mountains, km 60, logging track heading WNW from Doussala, 2° 12' S, 10° 11' E (fl., Nov.), WAG!, LBV.
 
-de Wilde, Arends & de Bruijn 8993 – Monts Doudou, km 60 km, piste d'exploitation en direction ONO depuis Doussala, 2° 12' S, 10° 11' E (fl., Nov.), WAG!, LBV.
+de Wilde, Arends, Louis, Bouman & Karper 872, Wongagong Presidential Reserve, 100 km south of Libreville, forest-savanna mosaic near the place called Petit Bambam (fl., March), WAG!, LBV.
 
-de Wilde, Arends, Louis, Bouman & Karper 872, Réserve présidentielle de Wongagong, à 100 km au S de Libreville, mosaïque forêt-savanne vers le lieu-dit Petit Bambam (fl., Mars), WAG!, LBV.
+Hallé 2157, Abanga C.E.F.A. work site (fl., June), P!.
 
-Hallé 2157, chantier d'Abanga C.E.F.A. (fl., Juin), P!.
+Hallé & Cours 6058, Moumba, West Side, vicinity of Etéké (fl., May), P!.
 
-Hallé & Cours 6058, Moumba, Côté Ouest, env. d'Etéké (fl., Mai), P!.
+Hallé & Villiers 4849, Cristal Mountains, Nkan (fl., Feb.), P!.
 
-Hallé & Villiers 4849, Monts de Cristal, Nkan (fl., Fév.), P!.
+Louis s.n., vicinity of Mimongo, cult. WAG (83-660), non vidi.
 
-Louis s.n., env. de Mimongo, cult. WAG (83-660), non vidi.
+Louis, Breteler & de Bruijn 1316A, old-growth forest 2-3 km SE of the Waka forest camp, 32 km SE of Sindara, 1° 14' S, 10° 53' E, along a track in the Waka basin (fl., Dec.), WAG!, LBV.
 
-Louis, Breteler & de Bruijn 1316A, vieille forêt 2-3 km au SE du Camp forestier de la Waka, 32 km au SE de Sindara, 1° 14' S, 10° 53' E, le long d'une piste dans le bassin de la Waka (fl., Déc.), WAG!, LBV.
+Louis & Nzabi 2955 & 2975 – Ngounyé, Leroy work site road (Massika II), mountainous zone, 1° 40' S, 11° 15' E (fl., Apr.), WAG!, LBV.
 
-Louis & Nzabi 2955 & 2975 – Ngounyé, Route du chantier Leroy (Massika II), zone montagneuse, 1° 40' S, 11° 15' E (fl., Apr.), WAG!, LBV.
-
-Wieringa 958, Woleu-Ntem, O de Tchimbélé, 0° 37' N, 10° 24' E, (fl., Mai), WAG!, LBV ; 1124, Ogooué-Maritime, Rabi-Kounga, tout près de Rabi 55, 1°56' S, 9°52' E (fl., Juin), WAG!.
+Wieringa 958, Woleu-Ntem, W of Tchimbélé, 0° 37' N, 10° 24' E, (fl., May), WAG!, LBV; 1124, Ogooué-Maritime, Rabi-Kounga, very close to Rabi 55, 1°56' S, 9°52' E (fl., June), WAG!.
 
 ## Figures
 

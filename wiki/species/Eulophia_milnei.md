@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Eulophia lutea Lindl., J. Linn. Soc. 6 : 132 (1862).
 
 – Eulophia gracillima Ridl., J. Bot. 24 : 292 (1886).
@@ -35,29 +33,25 @@ tags: [species, generated]
 
 – Eulophia warneckeana Kraenzl., Bot. Jahrb. Syst. 33 : 67 (1902).
 
-PL. 147. – Eulophia stachyodes Rchb.f. : A, labelle et éperon, vue latérale ; B, labelle étalé ; C, sépale latéral ; D, pétale ; E, sépale dorsal (A-E, Letouzey 4729, P).
+PL. 147. – Eulophia stachyodes Rchb.f. : A, lip and spur, lateral view ; B, lip flattened ; C, lateral sepal ; D, petal ; E, dorsal sepal (A-E, Letouzey 4729, P).
 
-Organes pérennes 1-1,3 x 0,8-1 cm, ovoïdes, tubéreux. Feuilles 2-6, 10-30 x 0,1-0,2 cm, linéaires. Inflorescence lâche, 25-52 cm, produite avant les feuilles. Fleurs jaunes, avec parfois les lobes latéraux du labelle teintés de rougeâtre. Sépale dorsal oblong-lancéolé. Pétales oblongs-obovés. Sépales latéraux oblongs-obovés, obliques. Labelle 4,7-7 x 3,5-4,5 mm, nettement trilobé avec un callus de 2 crêtes basales et de nombreuses papilles charnues ; lobe médian subcarré, marges irrégulièrement denticulées ; lobes latéraux obliquement oblongs à obovés, arrondis. Éperon 2,5-3,5 mm, cylindrique, obtus. - Pl. 145, p. 327.
+Perennial organs 1-1.3 × 0.8-1 cm, ovoid, tuberous. Leaves 2-6, 10-30 × 0.1-0.2 cm, linear. Inflorescence lax, 25-52 cm, produced before the leaves. Flowers yellow, with sometimes the lateral lobes of the lip tinged with reddish. Dorsal sepal oblong-lanceolate. Petals oblong-obovate. Lateral sepals oblong-obovate, oblique. Lip 4.7-7 × 3.5-4.5 mm, distinctly trilobate with a callus of 2 basal ridges and numerous fleshy papillae; median lobe subquadrate, margins irregularly denticulate; lateral lobes obliquely oblong to obovate, rounded. Spur 2.5-3.5 mm, cylindric, obtuse. - Pl. 145, p. 327.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Guinée, Liberia, Ghana, Togo, Nigeria, Cameroun, Guinée équatoriale, Gabon, Angola, République centrafricaine, Zaïre, Rwanda, Burundi, Soudan, Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique, République sudafricaine
+Senegal, Guinea-Bissau, Guinea, Liberia, Ghana, Togo, Nigeria, Cameroon, Equatorial Guinea, Gabon, Angola, Central African Republic, Zaïre, Rwanda, Burundi, Sudan, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique, South African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-2 000 m. Terrestrial in periodically humid grassland, marshes, brackish waters
 
-alt. 0-2 000 m. Terrestre en prairie périodiquement humide, marais, eaux saumâtres
+MATERIAL STUDIED (Map 70) :
 
-MATÉRIEL ÉTUDIÉ (Carte 70) :
+De Wilde, Arends & de Bruijn 9168, coastal thicket with patches of savanna, approximately 8 km N of Mayumba, sandy soil, near the Ocean, alt. ± 5 m, 3° 21' S, 10° 40' E (fl. Dec.), WAG!.
 
-De Wilde, Arends & de Bruijn 9168, fourré côtier avec lambeaux de savane, environ 8 km N de Mayumba, sol sableux, près de l'Océan, alt. ± 5 m, 3° 21' S, 10° 40' E (fl. Déc.), WAG!.
+Haegens & van der Burgt 141, Ogooué-Maritime, Gamba, marshy savanna, alt. 10 m, approximately 2° 40' S, 9° 55' E (fl. Dec.), WAG!.
 
-Haegens & van der Burgt 141, Ogooué-Maritime, Gamba, savane marécageuse, alt. 10 m, environ 2° 40' S, 9° 55' E (fl. Déc.), WAG!.
-
-van Nek 423, Gamba, en savane brûlée, plutôt humide, 2° 45.5' S, 10° 01. 5' E (fl. Déc.), WAG!.
+van Nek 423, Gamba, in burned savanna, rather humid, 2° 45.5' S, 10° 01.5' E (fl. Dec.), WAG!.
 
 ## Figures
 

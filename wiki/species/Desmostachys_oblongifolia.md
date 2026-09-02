@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alsodeiopsis oblongifolia ENGL., Bot. Jahrb. 24 : 480 (1898). — SLEUMER, Pflanzenfam., ed. 2, 20 b : 360 (1942).
 
 — Desmostachys brevipes (ENGL.) SLEUMER var. oblongifolia BOUTIQUE, Fl. Congo b. et R.U. 9 : 278 (1960), syn. nov.
 
-Arbuste haut de 0,5-2,5 m. Rameaux jaunâtres pubescents apprimés. Pétiole long de 2-7 mm, ± pubescent, fortement canaliculé dessus. Limbe glabre dessus, éparsement pubescent apprimé dessous, vert marron sur les deux faces, elliptique ou oblancéolé, 10,5-16 × 3,5-6 cm; base très fortement atténuée ou cunéiforme, sommet fortement acuminé obtus ou aigu. Nervure médiane saillante sur les deux faces, éparsement pubescente à la face inférieure. Nervures secondaires 6-9 paires, ascendantes, peu arquées, s'anastomosant à 0,5 mm du bord du limbe, saillantes sur les deux faces, éparsement pubescentes à la face inférieure. Nervilles en réseau dense saillant sur les deux faces.
+Shrub 0.5–2.5 m tall. Branchlets yellowish, appressed pubescent. Petiole 2–7 mm long, ± pubescent, strongly channeled adaxially. Blade glabrous adaxially, sparsely appressed pubescent abaxially, greenish-brown on both surfaces, elliptic or oblanceolate, 10.5–16 × 3.5–6 cm; base very strongly attenuate or cuneate, apex strongly acuminate obtuse or acute. Midvein prominent on both surfaces, sparsely pubescent on the lower surface. Secondary veins 6–9 pairs, ascending, slightly curved, anastomosing 0.5 mm from the blade margin, prominent on both surfaces, sparsely pubescent on the lower surface. Tertiary veins forming a dense prominent reticulum on both surfaces.
 
-Inflorescence en grappe courte, longue de 1-2 cm, ou en glomérule pédi-cellé ± axillaire. Bouton floral ellipsoïde, pubescent. Fleur ♀ pentamère, jaunâtre. Pédicelle court, long de 0,5 mm, densément pubescent. Sépales soudés, pubescents extérieurement, glabres intérieurement, lancéolés, 1,75 × 1 mm; sommet aigu. Pétales libres entre eux sauf à la base, pubescents extérieurement, glabres ou ± pubescents à la base intérieurement, étroitement elliptiques, 4 × 1 mm; sommet aigu. Étamines 5, soudées par le filet au tube de la corolle; filet grêle, élargi au niveau de la soudure avec les pétales, longs de 4-4,75 mm; anthère basifixe à 2 loges étroitement ellipsoïdes, longue de 1 mm. Ovaire supère pubescent ellipsoïde à globuleux, 0,75 × 0,5 mm. Style grêle, glabre, long de 5 mm terminé par un stigmate obscurément globuleux.
+Inflorescence in a short raceme, 1–2 cm long, or in a ± axillary pedicellate glomerule. Flower bud ellipsoid, pubescent. Flower ♀ pentamerous, yellowish. Pedicel short, 0.5 mm long, densely pubescent. Sepals connate, pubescent externally, glabrous internally, lanceolate, 1.75 × 1 mm; apex acute. Petals free except at the base, pubescent externally, glabrous or ± pubescent at the base internally, narrowly elliptic, 4 × 1 mm; apex acute. Stamens 5, connate by the filament to the corolla tube; filament slender, enlarged at the level of fusion with the petals, 4–4.75 mm long; anther basifixed with 2 narrowly ellipsoid locules, 1 mm long. Ovary superior, pubescent, ellipsoid to globose, 0.75 × 0.5 mm. Style slender, glabrous, 5 mm long, terminated by an obscurely globose stigma.
 
-Drupe rouge à orangée, éparsement pubescente, réticulée, 1,3-1,5 × 0,8-1 cm. Graine de 12 × 7 mm. PL. 11, 4-13, p. 49.
+Drupe red to orange, sparsely pubescent, reticulate, 1.3–1.5 × 0.8–1 cm. Seed 12 × 7 mm. PL. 11, 4–13, p. 49.
 
 ## Type
 
@@ -34,9 +32,7 @@ Zenker 1221, Cameroun (holo-, B, delet.; iso-, P!; iso-, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est connue du Cameroun au Zaïre. Elle se rencontre dans les forêts marécageuses et les forêts de plateau.
+This species is known from Cameroon to Zaïre. It occurs in swamp forests and plateau forests.
 
 ## Specimens examined
 

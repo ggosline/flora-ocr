@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, riv. Kongui (fl.) Mann 1817 (holo-B delet.; LECTOTYPE designated here: lecto-K; iso-P, BR (fragments & photo).
 
-TYPE : Gabon, riv. Kongui (fl.) Mann 1817 (holo-B delet. ; LECTOTYPE désigné ici : lecto-K ; iso-P, BR (fragments & photo).
+Liane. Young branches glabrous.
 
-Liane. Jeunes rameaux glabres.
+Leaves opposite; petiole ≤ 1 cm; blade elliptic ≤ 16 × ≤ 9 cm, glabrous, except for the scales; major lateral veins 5–6 pairs, domatia scarcely visible; blade base rounded to attenuate; apex acuminate.
 
-Feuilles opposées ; pétiole ≤ 1 cm ; limbe elliptique ≤ 16 × ≤ 9 cm, glabre, hormis les écailles ; grandes nervures latérales 5-6 paires , domaties à peine visibles ; base du limbe arrondie à atténuée ; sommet acuminé.
+Scales circular, diameter 30–40 μm.
 
-Écailles circulaires, diamètre 30-40 μm.
+Inflorescences paniculate ≤ 20 cm; bracts scarcely visible.
 
-Inflorescences paniculées ≤ 20 cm ; bractées peu visibles.
+Flowers 4-merous, sessile. Receptacle, exterior glabrous and glutinous, the interior, height 1–1.5 mm, the superior patelliform, diameter 2.5 cm. Calyx: lobes deltoid. Petals spathulate, length 1 mm, ciliate at the apex, glabrous elsewhere. Stamens length 2 mm and anthers 0.2 mm. Disk almost completely hidden by long hairs. Style 1 mm.
 
-Fleurs 4-mères, sessiles. Réceptacle, extérieur glabre et glutineux, l'inférieur, hauteur 1-1,5 mm, le supérieur patelliforme, diamètre 2,5 cm. Calice : lobes deltoïdes. Pétales spathulés, longs de 1 mm, ciliés au sommet, glabre ailleurs. Étamines longueur 2 mm et anthères 0,2 mm. Disque presque complètement caché par de longs poils. Style 1 mm.
-
-Fruit  $ 2.5 \times 2 $ cm, glabre hormis les écailles, stipe  $ \leq 1 $ mm.
+Fruit 2.5 × 2 cm, glabrous except for the scales, stipe ≤ 1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon uniquemçent
+Gabon only
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

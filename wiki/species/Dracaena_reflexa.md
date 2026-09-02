@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou arbre élancé, jusqu’à ± 5 m de hauteur ; tiges avec des cicatrices linéaires . Feuilles spiralées , touffues à l’apex chez les spécimens plus âgés, densément réparties le long des branches lorsqu’elles sont jeunes, laissant la tige visible entre les feuilles ; gaine embrassant la tige sur ± la moitié de sa circonférence , sur une longueur de < 1 cm ; pseudopétiole absent ; limbe panaché ou parfois avec un bord rouge distinct, à base s’élargissant brusquement. Inflorescence dressée, en panicule bien ramifiée , atteignant 40 × 30 cm, à axes lisses ; fleurs généralement solitaires , réparties de manière uniforme, souvent densément, le long des branches. Fleur : périanthe 13–22 mm de longueur , blanc à pourpre verdâtre, souvent avec des stries longitudinales pourpres à l’extérieur, lobes plus longs que le tube, réfléchis. Fruit sphérique à obloïde, jusqu’à 13 mm de diamètre, orange à brun orangé.
+Shrub or slender tree, up to ± 5 m tall; stems with linear scars. Leaves spiral, tufted at the apex in older specimens, densely distributed along the branches when young, leaving the stem visible between the leaves; sheath clasping the stem for ± half its circumference, over a length of < 1 cm; pseudopetiole absent; blade variegated or sometimes with a distinct red margin, with base abruptly widening. Inflorescence erect, in a well-branched panicle, reaching 40 × 30 cm, with smooth axes; flowers generally solitary, distributed uniformly, often densely, along the branches. Flower: perianth 13–22 mm long, white to greenish-purple, often with purple longitudinal striae on the outside, lobes longer than the tube, reflexed. Fruit spherical to obloid, up to 13 mm in diameter, orange to orange-brown.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce des Mascareignes (Madagascar, Maurice, Mayotte, Réunion et Seychelles), se situe dans la clé au niveau de D. mannii ou de D. nitens , mais en diffère par une cicatrice foliaire droite, tandis que chez D. mannii et D. nitens , elle est lunulée. De plus, la base engainante de la feuille embrasse la tige sur les ¾ de sa circonférence, tandis que chez D. mannii et D. nitens , elle embrasse la tige sur la moitié de sa circonférence. D. reflexa est traité ici comme une espèce extrêmement variable, de nombreuses formes ont été décrites. Des recherches plus approfondies seraient nécessaires pour décider si toutes ces formes peuvent être attribuées à D. reflexa
+Species of the Mascarene Islands (Madagascar, Mauritius, Mayotte, Réunion and Seychelles), situated in the key at the level of D. mannii or D. nitens, but differs from them by a straight leaf scar, whereas in D. mannii and D. nitens it is lunulate. Moreover, the sheathing base of the leaf clasps the stem for ¾ of its circumference, whereas in D. mannii and D. nitens it clasps the stem for half its circumference. D. reflexa is treated here as an extremely variable species, many forms have been described. More thorough research would be necessary to decide whether all these forms can be attributed to D. reflexa.
 
 ## Notes
 

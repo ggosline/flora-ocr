@@ -13,23 +13,21 @@ tags: [species, generated]
 
 **Genus**: [[Monanthotaxis]]
 **Family**: [[Annonaceae]]
-**Protologue**: Bull. Soc.Linn. Paris 2 :879 (18go).- Engler et Diels in Engler,Monogr. Afr.Pflanzenf.6 :53(19o1).- Pellegrin,Bull. Soc.Bot.Fr.，Mem.31 : 53 (1949)
+**Protologue**: Bull. Soc.Linn. Paris 2 :879 (18go).- Engler et Diels in Engler,Monogr. Afr.Pflanzenf.6 :53(19o1).- Pellegrin,Bull. Soc.Bot.Fr.,Mem.31 : 53 (1949)
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. Soc. Linn. Paris 2: 879 (1890). – Engler et Diels in Engler, Monogr. Afr. Pflanzenf. 6: 53 (1901). – Pellegrin, Bull. Soc. Bot. Fr., Mem. 31: 53 (1949).
 
-Bull. Soc.Linn. Paris 2 :879 (18go).- Engler et Diels in Engler,Monogr. Afr.Pflanzenf.6 :53(19o1).- Pellegrin,Bull. Soc.Bot.Fr.，Mem.31 : 53 (1949).
+Shrub with branchlets densely pubescent-appressed, silky, tawny-blonde. Leaves with petiole about 5 mm long; blade oblong, sublanceolate, 9–24 cm long, 3–6.5 cm wide, rounded at base, obtuse at apex; upper face pubescent-appressed silky in the juvenile state, glabrous in the adult state, lower face pubescent-appressed silky, blonde. Midvein impressed above, prominent below; lateral veins 13–16 pairs obliquely ascending, terminating against the margin.
 
-Arbustearamillesdensémentpubescentes-apprimées, soyeuses, blond roux. Feuilles a pétiole long de 5 mm environ; limbe oblong,sublancéolé, long de 9-24 cm, large de 3-6,5 cm, arrondi a la base,obtus au sommet；face supérieure pubescenteapprimée soyeuse ä l'état juvénile，glabre á 'état adulte,face inferieure pubescente-apprimée soyeuse, blonde. Nervure médiane imprimée au-dessus,proéminente en dessous; nervures latérales 13- 16 paires obliques ascendantes, se terminant contre la marge.
+Inflorescences axillary, in simple racemes with slender, pubescent-appressed axis, equal to or longer than the leaves, drawn downward at fruiting by the weight of the fruits. Flowers small, at the axil of a hairy, lanceolate bract, 2–5 mm long. Sepals ± triangular, hairy. Petals triangular acute, 3.5 mm long, 2 mm wide, covered with long silky hairs on the outside. Stamens 12; 6 external, larger and fertile, opposite the petals, about 1 mm long, filaments narrow, connectives dilated, obliquely truncate above the anthers, thecae lateral introrse; 6 internal, alternating with the preceding and sterile, of the same length but twice as narrow. Carpels numerous (20–24), 0.5–0.7 mm long, arranged in a very tight cone, exceeding the stamens, ovaries oblong, covered with long rigid hairs, stigmas bifid. Ovule 1, erect at the base of the ovarian cavity.
 
-Inflorescences axillaires,en racemes simples a axe grele, pubescent-apprimé,égal ou plus long que les feuilles,entrainé vers le bas ä la fructification, par le poids des fruits. Fleurs petites, â l'aisselle d'une bractée velue,lancéolée, longue de 2-5 mm. Sépales ± triangulaires, velus.Pétales triangulaires aigus, longs de 3,5 mm,larges de 2 mm,couverts de poils longs et soyeux a l'extérieur. Etamines l2；6 externes, plus grandes et fertiles, opposées aux pétales,longues de I mm environ，filets étroits, connectifs dilatés,tronqués obliquement au-dessus des antheres, théeques latérales introrses；6 internes,alternes avec les précé- dentes et stériles, de méme longueur mais deux fois moins larges. Carpelles nombreux (2o-24)， longs de o,5-o,7 mm，disposés en cóne tres serré,dépassant les étamines,ovaires oblongs,couverts de longs poils rigides, stigmates bifides.Ovule 1, dressé au fond de la cavité ovarienne.
+Fruits with very short pedicel, 2–3 mm long; mericarps subsessile, ellipsoid, 0.8 cm long, 0.6–0.7 cm wide; pericarp fleshy, pubescent silky. Seeds whitish with regularly ruminate albumen by fine parallel lamellae of the endosperm.
 
-Fruits a pédicelle tres court,2-3 mm de longueur;méricarpes subsessiles， ellipsoides, longs de o,8 cm， larges de o,6-o,7 cm; péricarpe charnu，pubescent soyeux.Graines blanchatresä albumen régulierement ruminé par de fines lamelles paralleles de l'endosperme.
+Type and only material studied: Thollon 813, banks of the Ogooué, fl., fr., July (holotype P!).
 
-Type et seul matériel étudié :Thollon 8i3,bords de 'Ogooué,fl.,fr.,juil. (holotype P!).
-
-La pubescence soyeuse de la face inférieure des feuilles et la dehiscence introrse des étamines rapprochent M. congoensis de M.Poggei Engler et Diels. Cette derniere espéce s'en distingue cependant tres facilement par ses fleurs solitaires ou disposées en cymes courtes á pédoncule ne dépassant pas 1,5 cm de longueur et le cycle unique d'étamines dépourvu de staminodes.L'androcée de M. congoensis constitue une particularité,parmi les quatre especes du genre.
+The silky pubescence of the lower face of the leaves and the introrse dehiscence of the stamens bring M. congoensis close to M. Poggei Engler et Diels. This latter species is, however, very easily distinguished from it by its solitary flowers or arranged in short cymes with a peduncle not exceeding 1.5 cm in length and the unique cycle of stamens devoid of staminodes. The androecium of M. congoensis constitutes a particularity among the four species of the genus.
 
 ## Notes
 

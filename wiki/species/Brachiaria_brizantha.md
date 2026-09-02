@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial grass, erect, up to 2 m tall. Leaves glabrous or more or less pubescent; blades linear, up to 30 cm long and 15 mm wide.
 
-Herbe pérenne dressée, jusqu'à 2 m de haut. Feuilles glabres ou plus ou moins pubescentes; limbes linéaires pouvant dépasser 30 cm de long et 15 mm de large.
+Rachis of racemes flattened on the back, 1 mm wide, ciliate on the margins, with tubercle-based hairs. Pedicels very short, spikelets often more or less tinged with purple. Lower glume obtuse, half as long as the spikelet, with 7 or 11 nerves; upper glume of the same form as the spikelet, generally glabrous, with 7 or 9 nerves. Lower floret male; lemma with 5 nerves; palea oblong, obtuse, finely keeled. Upper floret as long as the spikelet, glumes coriaceous.
 
-Rachis des racèmes aplatis sur le dos, 1 mm de large, ciliés sur les bords, avec des poils tuberculés à la base. Pédicelles très courts, épilets souvent plus ou moins teintés de pourpre. Glume inférieure obtuse, moitié aussi longue que l'épillet, à 7 ou 11 nervures; glume supérieure de même forme que l'épillet, généralement glabre, à 7 ou 9 nervures. Fleur inférieure mâle; lemma à 5 nervures; paléa oblongue, obtuse, finement carénée. Fleur supérieure aussi longue que l'épillet, glumelles coriaces.
-
-Herbe répandue de la Nigéria à l'Angola, en passant par l'Afrique Orientale; demande d'assez bons sols et se trouve rarement en peuplements importants. Excellente herbe fourragère se comportant bien au pâturage et susceptible d'être cultivée.
+Grass widespread from Nigeria to Angola, through East Africa; requires fairly good soils and is rarely found in substantial stands. Excellent forage grass performing well under grazing and capable of being cultivated.
 
 ## Specimens examined
 

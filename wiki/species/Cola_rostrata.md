@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref. — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 43 (1950-1951), excl. Thollon 119, Ndjolé (= C. chlamydantha).
 
-, réf. orig. — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 43 (1950-1951), excl. Thollon 119, Ndjolé (= C. chlamydantha).
+Small tree 6–8 m tall. Branch tips brown pubescent. Terminal buds with puberulent scales, broad and enveloping, acute, reaching 10 mm long. Persistent stipules 20–45 mm long by 7–19 mm wide, attenuate acute, coriaceous, striated nerved, puberulent on both faces. Petioles 5–57 cm long, cylindrical, clothed with appressed stellate hairs. Leaves digitate 5–7 foliolate; petiolules 1–12 mm long. Leaflets entire; major leaflets 10–40 cm long by 4–13 cm wide, attenuate acute at base, obovate oblong, subangular rounded or subtruncate at apex then abruptly and narrowly acuminate caudate. Lateral leaflets similar, somewhat shorter. Blade coriaceous glabrous, becoming brown or russet when dry; midvein glabrescent with a few stellate hairs above and below; pinnate veins 14–17 pairs arcuate, moderately ascending; fine tertiary veins often fairly numerous and regular, well apparent on the lower surface. Inflorescences on old wood or axillary, fasciculate or in clusters of small cymes clothed with rusty stellate hairs. Small narrow bracts 3–6 mm long, caducous. Pedicels 5–16 mm long, articulate at the upper extremity. Bud rounded or somewhat oblong, with blunt apex. Calyx 10–25 mm long, campanulate over 5–10 mm, clothed externally with small very dense stellate hairs, glabrous within and garnet red with sometimes yellow at the base which is papilliferous, divided into 4–6 spreading lobes, with undulate crisp margins.
 
-Petit arbre de 6-8 m de haut. Extrémités brunes pubescentes. Bourgeons terminaux à écailles pubérulentes, larges et enveloppantes, aiguès, atteignant 10 mm de long. Stipules persistantes de 20-45 mm de long sur 7-19 mm de large, atténuées aiguès, coriaces, striées nervées, pubérulentes sur les deux faces. Pétioles de 5-57 cm de long, cylindriques, vêtus de poils étoilés ras. Feuilles digitées 5-7 foliolées Pétioules 1-12 mm de long. Folioles entières; principales folioles de 10-40 cm de long sur 4-13 cm de large, atténuées aiguès à la base, obovées oblongues, subanguleuses arrondies ou subtronquées vers le sommet puis brusquement et étroitement acuminées caudées. Folioles latérales semblables, un peu plus courtes. Limbe coriace glabre, devenant brun ou roussâtre à sec; nervure médiane glabrescente avec quelques poils stellés dessus et dessous; nervures pennées 14-17 paires arquées, médio-crement ascendantes; fines nervures du 3e ordre souvent assez
+♂ Flower with narrow androphore, about 5 mm high, with stellate hairs, bearing a cylindrical corona composed of about thirty narrow uniseriate pollen sacs forming a cup around a hairy rudimentary ovary. ♀ Flower with sessile ovary surrounded at base by a broad corona of pollen sacs, densely clothed with ochraceous stellate hairs, composed of 4–7 adherent carpels, attenuate, each bearing a recurved stigma. 4–6 ovules per carpel.
 
-nombreuses et régulières, bien apparentes sur la face inférieure. Inflorescences sur le vieux bois ou axillaires, fasciculées ou en bouquets de petites cymes vêtues de poils roux étoilés. Petites bractées étroites de 3-6 mm de long, caduques. Pédicelles de 5-16 mm de long, articulés à l'extrémité supérieure. Bouton arrondi ou un peu oblong, à sommet camus. Calice de 10-25 mm de long, campanulé sur 5-10 mm, vêtue extérieurement de petits poils étoilés très touffus, glabre à l'intérieur et rouge grenat avec parfois du jaune au fond qui est papillifère, divisé en 4-6 lobes étalés, à marges ondulées crispées.
+Follicles probably solitary (?), sessile, globose, about 8–9 cm long, with strong bosses on the upper surface of each side of the broad suture, ventricose and not ornate below, with more or less prominent compressed apex, with fine brownish puberulence and appearing very poorly dehiscent. About 2 seeds per follicle, rounded, 4 cm in diameter, with broad placental insertion, with two large fleshy cotyledons, pubescent on the inner face and protecting a gemma densely clothed with long brown hairs.
 
-Fleur ♂ à androphore étroit, haut d'env. 5 mm, à poils étoilés, portant une couronne cylindrique composée d'une trentaine d'étroites loges polliniques unisériées formant une cupule autour d'un ovaire rudimentaire velu. Fleur ♀ à ovaire sessile entouré à la base d'une large couronne de loges polliniques, densément vêtu de poils ochracés stellés, composé de 4-7 carpelles adhérents, atténués, et portant chacun un stigmate recourbé extérieurement. 4-6 ovules par carpelle.
+Type of the species: Zenker 2248 (isotype P.).
 
-Follicules probablement isolés (?), sessiles, globuleux, de 8-9 cm env. de long, avec de fortes bosselures sur le dessus de chaque côté de la large suture, ventrus et non ornés dessous, à apex plus ou moins saillant comprimé, à fine pubérulence brunâtre et paraissant très médiocrement déhiscents. Env. 2 graines par follicule, arrondies, de 4 cm de diamètre, à large insertion placentaire, à deux gros cotylédons charnus, pubescents sur la face interne et protégeant une gemmule densément vêtue de longs poils bruns.
-
-Type de l'espèce : Zenker 2248 (isotype P.).
-
-Cette espèce croît en forêts humides depuis le Sud Négéria jusqu'au Nord Gabon.
+This species grows in humid forests from southern Nigeria to northern Gabon.
 
 ## Vernacular names
 
@@ -39,9 +35,7 @@ Ncoyo (Moussamaï); Nco (Bakota)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. La graine est mastiquée comme la noix de cola (Le Testu); le bois sert à fabriquer des pilons à riz; on l’utilise aussi pour les cases.
+Uses. The seed is chewed like kola nut (Le Testu); the wood is used to make rice pestles; it is also used for huts.
 
 ## Specimens examined
 

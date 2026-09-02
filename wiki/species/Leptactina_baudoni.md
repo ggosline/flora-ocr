@@ -20,21 +20,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+E. De Wildeman, Et. Flora of Lower and Middle Congo, Ann. Mus. Congo ser. 5, vol. 2: 156, t. 40 (1907-1908).
 
-E. De Wildeman, Et. Flore du Bas et Moy.-Congo, Ann. Mus. Congo sér. 5, vol. 2 : 156, t. 40 (1907-1908).
+This species, poorly known and somewhat doubtful, differs little from the preceding one. Its author only emphasizes the stronger pubescence and the reduced size of the flowers (corollas). The original description does not mention the tetramerous rather than pentamerous character of the flowers; this is nevertheless what appears on the plate drawn by Hél. Durand; corollas aside, the plant figured is similar to L. Leopoldi-II, itself quite variable as to the appearance of the pubescence, notably in its leaves, sepals and stipules.
 
-Cette espèce, mal connue et quelque peu douteuse, diffère peu de la précédente. Son auteur ne souligne que la pubescence plus forte et la dimension réduite des fleurs (corolles). La description originale ne mentionne pas le caractère tétramère et non pentamère des fleurs; c'est pourtant ce qui apparaît sur la planche dessinée par Hél. Durand; corolles à part, la plante figurée est semblable à L. Leopoldi-II, lui-même assez variable quant à l'aspect de la pubescence, notamment par ses feuilles, sépales et stipules.
-
-Le Type, A. Baudon 37, environs de Libreville, n'a pas été retrouvé; il n'est pas déposé au Jardin Botanique de Bruxelles.
+The Type, A. Baudon 37, environs of Libreville, has not been recovered; it is not deposited at the Botanical Garden of Brussels.
 
 5. Leptactina latifolia K. Schum. (PL. 17, p. 79)
 
-Arbuste de 2-4 m de hauteur, parfois sarmenteux (?). Rameaux cylindriques lisses, glabres ainsi que les jeunes extrémités. Stipules vertes ovées ± aiguës de 20-40 × 10-26 mm, glabres, à axe saillant, non réfractées. Pétiole glabre de 10-20 (25) mm. Limbe glabre, luisant dessus, largement ovale de 10-18 (28) × 7-12,5 (14) cm; base arrondie ou ± aiguë; sommet à acumen souvent court. 5-7 (8) paires de nervures secondaires glabres. Domaties axillaires pubescentes.
+Shrub 2–4 m tall, sometimes sarmentose (?). Branches cylindrical smooth, glabrous as well as the young extremities. Stipules green ovate ± acute 20–40 × 10–26 mm, glabrous, with a prominent axis, not refracted. Petiole glabrous 10–20 (25) mm. Blade glabrous, shiny above, broadly ovate 10–18 (28) × 7–12.5 (14) cm; base rounded or ± acute; apex with often short acumen. 5–7 (8) pairs of glabrous secondary veins. Axillary domatia pubescent.
 
-Inflorescences terminales contractées de 6-13 fleurs subsessiles fortement odorantes. Calice vert clair glabre à 5 lobes de 20-30 × 6-10 mm, lancéolés, dressés. Corolle blanche à tube vert pâle étroit, pubérulent, long de 10-11 cm, à 5 lobes atténués de 4-5,5 × 0,6-0,8 cm, pubescents sur les deux faces. Anthère de 14 mm fixée vers le tiers supérieur. Style pubescent vers le sommet seulement et sur les deux lobes; stigmate inclus. Ovules nombreux sur un placenta ovale pelté.
+Inflorescences terminal contracted with 6–13 flowers subsessile strongly fragrant. Calyx light green glabrous with 5 lobes 20–30 × 6–10 mm, lanceolate, erect. Corolla white with pale green narrow tube, puberulent, 10–11 cm long, with 5 attenuate lobes 4–5.5 × 0.6–0.8 cm, pubescent on both faces. Anther 14 mm attached towards the upper third. Style pubescent towards the apex only and on the two lobes; stigma included. Ovules numerous on an oval peltate placenta.
 
-Fruit globuleux, lisse, jaune ou orangé, glabre, de 10-15 mm de diam. à sépales étalés, à disque annulaire déprimé. Graines noires, brillantes, prismatiques anguleuses de 2,5-3 mm. Embryon droit à radicule dirigée latéralement.
+Fruit globose, smooth, yellow or orange, glabrous, 10–15 mm diam. with spreading sepals, with a depressed annular disc. Seeds black, shiny, prismatic angular 2.5–3 mm. Embryo straight with radicle directed laterally.
 
 ## Type
 
@@ -42,9 +40,7 @@ Staudt 348, Lolodorf, Cameroun, juin 1896 (isotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon. Forêts humides de basse altitude.
+Cameroon and Gabon. Humid forests of low altitude.
 
 ## Specimens examined
 

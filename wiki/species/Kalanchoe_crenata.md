@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-K. integra (Medik.) Kuntze var. crenata (Andrews) Cuf., Öster. Bot. Zeitschr. 116 : 20 (1969). Herbe pérenne, parfois ligneuse à la base, 0,3–1,5(–2) m de hauteur ; tige dressée, généra lement simple, glabre ou glabrescente dans la partie inférieure, glabre à pileuse-glan duleuse dans la partie supérieure . Feuilles simples, à pétiole de 1–4 cm de longueur ; limbe obovale ou obovale-oblong à spatulé, 3–25(–30) × 2–20 cm, à base cunéiforme et marge lâchement crénelée, glabre ou la face supérieure éparsement pileuse-glanduleuse. Inflorescence en cyme paniculée, jusqu’à 35(–40) cm de largeur, glanduleuse-hispide ou parfois glabre. Fleur dressée, glabre à pileuse-glanduleuse ; pédicelle de 2–10 mm ; sé pales soudés sur 0,1–1,5 mm, les lobes lancéolés à lancéolés-linéaires, 2–8 × 1–4 mm ; corolle jaune ou orangée à rouge , tube en urne allongée, 8–18 × 3–4 mm, lobes 3–8 × 2,5–5 mm, aigus, avec un mucron d’environ 0,5 mm ; étamines insérées dans la moitié supérieure du tube, anthères incluses, 0,5–1 mm de longueur, à glandes apicales ; écailles nectarifères 2–4,5 mm de longueur ; carpelles linéaires-lancéolés, 5–10 mm de longueur ; styles 1,5–4,5 mm. Graines ± 1 mm de longueur.
+K. integra (Medik.) Kuntze var. crenata (Andrews) Cuf., Öster. Bot. Zeitschr. 116 : 20 (1969). Perennial herb, sometimes woody at the base, 0.3–1.5(–2) m tall; stem erect, generally simple, glabrous or glabrescent in the lower part, glabrous to pilose-glandular in the upper part. Simple leaves, with petiole 1–4 cm long; blade obovate or obovate-oblong to spatulate, 3–25(–30) × 2–20 cm, with cuneate base and loosely crenate margin, glabrous or upper surface sparsely pilose-glandular. Inflorescence a paniculate cyme, up to 35(–40) cm wide, glandular-hispid or sometimes glabrous. Flower erect, glabrous to pilose-glandular; pedicel 2–10 mm; sepals fused for 0.1–1.5 mm, lobes lanceolate to lanceolate-linear, 2–8 × 1–4 mm; corolla yellow or orange to red, tube urceolate elongate, 8–18 × 3–4 mm, lobes 3–8 × 2.5–5 mm, acute, with a mucro of approximately 0.5 mm; stamens inserted in the upper half of the tube, anthers included, 0.5–1 mm long, with apical glands; nectariferous scales 2–4.5 mm long; carpels linear-lanceolate, 5–10 mm long; styles 1.5–4.5 mm. Seeds ± 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce d’Afrique tropicale à large répartition, de la Guinée au Kenya et jusqu’en Afrique du Sud, aussi en Arabie et naturalisée en Amérique tropicale, en Inde et en Malésie ; au Gabon parfois cultivée dans des villages et spontanée au moins dans les provinces du Woleu-Ntem (Oveng), de la Ngounié (Massif du Chaillu) et du HautOgooué (Franceville)
+species of tropical Africa with wide distribution, from Guinea to Kenya and down to South Africa, also in Arabia and naturalized in tropical America, India and Malesia; in Gabon sometimes cultivated in villages and spontaneous at least in the provinces of Woleu-Ntem (Oveng), Ngounié (Chaillu Massif) and Haut-Ogooué (Franceville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes et forêts ouvertes, stations humides, souvent rocheuses, sur inselbergs, aussi le long des routes et dans les cultures ; au Gabon autour de 500 m d’altitude, ailleurs depuis le niveau de la mer jusqu’à 2300 m
+savannas and open forests, humid stations, often rocky, on inselbergs, also along roads and in cultivated areas; in Gabon around 500 m altitude, elsewhere from sea level to 2300 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-quelquefois cultivées dans les villages pour des usages médicinaux ou féti chistes. En général, les feuilles sont utilisées pour leurs propriétés antiseptiques et antiinflammatoires. Au Gabon, les feuilles sont appliquées sur les plaies et utilisées contre le rhume des petits enfants. Une décoction des feuilles est utilisée contre la gale, elles en trent également dans la composition d’une pommade contre les douleurs rhumatismales
+sometimes cultivated in villages for medicinal or fetishistic uses. In general, the leaves are used for their antiseptic and anti-inflammatory properties. In Gabon, the leaves are applied to wounds and used against colds in young children. A decoction of the leaves is used against scabies, and they are also included in the composition of an ointment against rheumatic pain
 
 ## Vernacular names
 

@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Candollea 74(2) : 180 (2019). P. sp. nov. 1 Vande weghe, Pl. fleurs Gabon : 194 (2016). Herbe acaule, 20–50 cm de hauteur ; racines fibreuses partiellement épaissies vers l’apex , sinon étroitement fusiformes. Feuilles ± 10 en rosette ; gaine 2–5 cm de longueur ; pseudopé tiole absent ou jusqu’à 28 cm ; limbe étroitement obovale, 14–27(–45) × 3–10(–15) cm, se ré trécissant très graduellement à ± abruptement vers la base, acuminé au sommet, glabre sauf les marges pourvues de courts poils apprimés roux ou fauves, face supérieure vert franc ou foncé brillant, face inférieure à nervure médiane blanchâtre . Inflorescence axillaire, insérée sur la souche basale (souterraine) puis décombante , redressée jusqu’à ± 10 cm de hauteur ; pé doncule 7–14 cm, portant 3(–4) bractées ovales de 1–3 × 0,5–2 cm ; thyrse dense, globuleux ou oblong , 4–10 × 1,5–2,5 cm, cincinni portant chacun ± 6 fleurs fonctionnellement mâles (avec style tronqué) ou fonctionnellement femelles (avec anthères indéhiscentes). Fleur : pédicelle 6–9 mm, érigé à l’anthèse, spiralé après la floraison, pourpre ou violet ; sépales égaux, oblongs, 3–4 × 1 mm, légèrement concaves, glabres ou munis de quelques poils au sommet, pétaloïdes, rose à mauve ; pétales souvent un peu plus translucides que les sépales, concolores, glabres ; étamines à filet de ± 2–3 mm, anthères dorsifixes, l’inférieure plus grande , sur un filet plus long, réniforme, blanche ou jaune pâle , à pollen de même couleur, les 2 autres oblongues, jaunes , à pollen jaune ; staminodes égaux, jaunes ou blancs ; ovaire ovoïde, 1,5 × 0,8 mm, glabre , blanc à violet foncé ; style 3 mm, glabre, rose pâle à violet, stigmate tronqué. Fruit immature 4 × 5 mm, violet sombre, éparsement pubescent. Graine non vue.
+Candollea 74(2): 180 (2019). P. sp. nov. 1 Vande weghe, Pl. fleurs Gabon: 194 (2016). Acaulescent herb, 20–50 cm tall; fibrous roots partially thickened towards the apex, otherwise narrowly fusiform. Leaves ± 10 in rosette; sheath 2–5 cm long; pseudopetiole absent or up to 28 cm; blade narrowly obovate, 14–27(–45) × 3–10(–15) cm, tapering very gradually to ± abruptly toward the base, acuminate at the apex, glabrous except margins furnished with short appressed rufous or tawny hairs, upper surface bright or dark green glossy, lower surface with whitish midvein. Inflorescence axillary, inserted on the basal (subterranean) stock then decumbent, erect up to ± 10 cm tall; peduncle 7–14 cm, bearing 3(–4) ovate bracts 1–3 × 0.5–2 cm; thyrse dense, globose or oblong, 4–10 × 1.5–2.5 cm, cincinnate each bearing ± 6 functionally male flowers (with truncate style) or functionally female flowers (with indehiscent anthers). Flower: pedicel 6–9 mm, erect at anthesis, spiraled after flowering, purple or violet; sepals equal, oblong, 3–4 × 1 mm, slightly concave, glabrous or bearing a few hairs at the apex, petaloid, pink to mauve; petals often somewhat more translucent than the sepals, concolorous, glabrous; stamens with filament ± 2–3 mm, anthers dorsifixed, the lower one larger, on a longer filament, reniform, white or pale yellow, with pollen of the same color, the 2 others oblong, yellow, with yellow pollen; staminodes equal, yellow or white; ovary ovoid, 1.5 × 0.8 mm, glabrous, white to dark violet; style 3 mm, glabrous, pale pink to violet, stigma truncate. Immature fruit 4 × 5 mm, dark violet, sparsely pubescent. Seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, dans le Moyen-Ogooué, la Ngounié, l’Ogooué-Ivindo et l’OgoouéLolo
+Endemic to Gabon, in Moyen-Ogooué, Ngounié, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, forêt inondable, bord de rivière, sur sable ou rochers ; au Gabon de 75 à 116 m d’altitude. Floraison en février, octobre, novembre et décembre ; jeunes fruits en mars
+Primary forest, flooded forest, river margin, on sand or rocks; in Gabon from 75 to 116 m altitude. Flowering in February, October, November and December; young fruits in March
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce est proche de P. bogneri , mais s’en distingue par son port plus robuste, ainsi que par ses fleurs pourpres et ses anthères inégales, les deux supérieures jaunes, l’inférieure blanche ou jaune pâle avec du pollen de même couleur (au lieu de fleurs blanches à 3 étamines jaunes). Bi : Bidault & van der Burg (2019), Vande weghe et al. (2016 ; comme « P. sp. nov. 1 » ). B liographie
+The species is close to P. bogneri, but is distinguished by its more robust habit, as well as by its purple flowers and unequal anthers, the two upper ones yellow, the lower one white or pale yellow with pollen of the same color (instead of white flowers with 3 yellow stamens). Bi: Bidault & van der Burg (2019), Vande weghe et al. (2016; as "P. sp. nov. 1"). Bibliography
 
 ## Notes
 

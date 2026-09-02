@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGLER, Bot. Jahrb. 28 : 116 (1899). — FTA 4 (1) : 508. — LEEUWENBERG, l.c. : 28, fig. 6, 6-10.
 
-Arbuste de 0,20-1,20 m de hauteur; petits rameaux à pubescence appri-mée, glabrescents.
+Shrub 0.20-1.20 m tall; small branchlets with appressed pubescence, glabrescent.
 
-Feuilles à limbe de fome et de grandeur variables, orbiculaire, ové, oblong, ou étroitement ové, obové, ou oblong, de 1-11 × 0,6-4,5 cm, acuminé, obtus, acuminé avec sommet obtus, ou aigu au sommet, nettement oblique à la base, arrondi ou subcordé d'un côté, cuné de l'autre, glabre ou avec quelques petits poils sur les nervures principales.
+Leaves with lamina of variable form and size, orbicular, ovate, oblong, or narrowly ovate, obovate, or oblong, 1-11 × 0.6-4.5 cm, acuminate, obtuse, acuminate with obtuse apex, or acute at apex, distinctly oblique at base, rounded or subcordate on one side, cuneate on the other, glabrous or with some small hairs on the main veins.
 
-Inflorescences axillaires ou terminales à rameaux latéraux courts, fasciculées, 1-5-flores, généralement beaucoup plus courtes que les feuilles. Sépales presque linéaires, subulés. Corolle blanche à cœur jaune, de 6-8 mm de longueur.
+Inflorescences axillary or terminal with short lateral branches, fasciculate, 1-5-flowered, generally much shorter than the leaves. Sepals almost linear, subulate. Corolla white with yellow centre, 6-8 mm long.
 
-Capsules brun très pâle, glabres, avec nervures longitudinales distinctes, partiellement anastomosées. Pl. 9, p. 34.
+Capsules very pale brown, glabrous, with distinct longitudinal veins, partially anastomosed. Pl. 9, p. 34.
 
 ## Type
 
@@ -34,17 +32,15 @@ Dinklage 1462, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bos 3755, left bank of the Lobé, near Grand Batanga (fl., fr., Jan.) P, WAG, YA; 4582, eod. loc. (fr., May) WAG; 5060, 13 km SE Kribi, on Ebolowa road (fl., July) P, WAG, YA; 5834, eod. loc. (fl., Dec.) WAG; 6455, Melen, 27 km SE Kribi (fl., fr., Mar.) WAG.
 
-Bos 3755, rive gauche de la Lobé, près Grand Batanga (fl., fr., janv.) P, WAG, YA; 4582, eod. loc. (fr., mai) WAG; 5060, 13 km SE Kribi, sur route d'Ebolowa (fl., juill.) P, WAG, YA; 5834, eod. loc. (fl., déc.) WAG; 6455, Melen, 27 km SE Kribi (fl., fr., mars) WAG.
+Dinklage 1462, Grand Batanga (immature fr., Feb.) B (not seen, destroyed, holotype; lectotype: HBG).
 
-Dinklage 1462, Grand Batanga (fr. non mûrs, févr.) B (non vu, détruit, holotype; lectotype : HBG).
+Leeuwenberg 7866, left bank of the Lobé, near Grand Batanga (fl., fr., June) P, WAG, YA.
 
-Leeuwenberg 7866, rive gauche de la Lobé, près Grand Batanga (fl., fr., juin) P, WAG, YA.
+Letouzey 8995, near Kienke, NNW Nkolbewa, km 36 Kribi-Ebolowa road (fl., Mar.) P, WAG.
 
-Letouzey 8995, près de la Kienke, NNW Nkolbewa, km 36 route Kribi-Ebolowa (fl., mars) P, WAG.
-
-Zenker 4252, Bipindi, rive de la Lokoundjé (fr., juin) BM, K, P, WU.
+Zenker 4252, Bipindi, bank of the Lokoundjé (fr., June) BM, K, P, WU.
 
 ## Specimens examined
 

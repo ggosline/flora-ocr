@@ -24,13 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kew Bull.: 167 (1952).
 
-Herbe dressée, ramifiée, atteignant plusieurs mètres de haut. Feuilles à limbe ovale elliptique à lancéolé, brusquement acuminé au sommet, arrondi à la base, ± pubescent à la face inférieure sur la nervure médiane. Dimensions variables, de 15-35 × 6-17 cm. Callus pubérulent à glabre, de 10 à 35 mm, pétiole de ± 5 cm, gaine un peu plus longue, pubescente ainsi que les nœuds.
+Erect herb, branched, reaching several metres tall. Leaves with oval-elliptic to lanceolate blade, abruptly acuminate at the apex, rounded at the base, ± pubescent on the lower surface on the midvein. Dimensions variable, 15-35 × 6-17 cm. Callus puberulent to glabrous, 10 to 35 mm, petiole ± 5 cm, sheath slightly longer, pubescent as well as the nodes.
 
-Inflorescences à pédoncules variables, presque nuls ou jusqu'à env. 20 cm, denses et courtes formée de racèmes comportant 3 à 5 entre-nœuds courts de ± 3 mm de long. Bractées de 25-30 × 7 mm, axillant deux cymes biflores courtement pédonculees (4 à 6 mm); pédicelles floraux respectivement de ± 1 et 4 mm. Sépales de 10-15 mm de long, pétales un peu plus long, blanc-rosé, staminodes blancs tachés de jaune. Ovaire pubescent ; fruit capsulaire, lisse, pubescent, globuleux, d'env. 6 mm de diamètre ; graines à arille entier.
+Inflorescences with variable peduncles, almost absent or up to ca. 20 cm, dense and short formed of racemes comprising 3 to 5 short internodes ± 3 mm long. Bracts 25-30 × 7 mm, subtending two shortly pedunculate biflorous cymes (4 to 6 mm); floral pedicels respectively ± 1 and 4 mm. Sepals 10-15 mm long, petals slightly longer, white-pink, staminodes white spotted with yellow. Ovary pubescent; capsular fruit, smooth, pubescent, globose, ca. 6 mm in diameter; seeds with entire aril.
 
 ## Type
 
@@ -38,11 +36,9 @@ Mann 1173, Fernando-Po (K ?, non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Uganda, CAR, Cameroon, Nigeria and Côte d'Ivoire as well as in Gabon and the Congo ex-Belgian. Plant of forest understory in humid or swampy forests. Stems used in basketry and wickerwork.
 
-Uganda, RCA, Cameroun, Nigeria et Côte-d'Ivoire ainsi qu'au Gabon et au Congo ex-belge. Plante de sous-bois dans les forêts humides ou marécageuses. Tiges utilisées en vannerie et sparterie.
-
-Noms vernaculaires (d'après Walker et Sillans) : Ozolo (Mpongwé, Galoa, Nkomi) ; Ozolo-wi-nanda (Nkomi) ; Mundubi (Bavarama) ; Dundubi (Bavungu, Bapunu) ; Mulubi (Ngowé) ; Mulubi, Mundubi (Eshira) ; Mondubé (Mitsogo, Apindji, Ivéa, Simba) ; Ndubya (Bakélé) ; Ndubuku (Béséki) ; Lugubi (Lango) ; Ndubi, Ndjubu (Mindumu) ; Mubé (Bavové) ; Akongha (Fang) ;
+Vernacular names (after Walker and Sillans): Ozolo (Mpongwé, Galoa, Nkomi); Ozolo-wi-nanda (Nkomi); Mundubi (Bavarama); Dundubi (Bavungu, Bapunu); Mulubi (Ngowé); Mulubi, Mundubi (Eshira); Mondubé (Mitsogo, Apindji, Ivéa, Simba); Ndubya (Bakélé); Ndubuku (Béséki); Lugubi (Lango); Ndubi, Ndjubu (Mindumu); Mubé (Bavové); Akongha (Fang);
 
 Okunga (Bakota); Uhèlè (Benga); Lingèngè (Bavili); Dumfubi (Balumbu).
 

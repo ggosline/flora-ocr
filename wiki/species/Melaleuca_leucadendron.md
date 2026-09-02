@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or shrub 10-20 m tall. Branchlets slender, pendulous. Leaves persistent, lanceolate, oblique or falcate, acute or acuminate at the apex, attenuate toward the base, 3-7 nerved, 4-7 cm long and 0.5-1 cm wide; young laminae pulverulent-whitish then ± glabrescent.
 
-Arbre ou arbrisseau 10-20 m de haut. Rameaux grêles, pendants. Feuilles persistantes, lancéolées, obliques ou falciformes, aiguës ou acuminées au sommet, atténuées vers la base, 3-7 nervées, de 4-7 cm de long et 0,5-1 cm de large; jeunes limbes pulvérulents-blanchâtres puis ± glabrescents.
+Inflorescences in terminal spikes crowned by a leafy branchlet. Flowers white; petals 2-3 mm long. Capsule with 3 valves at the apex.
 
-Inflorescences en épis terminaux couronnés par un rameau feuillé. Fleurs blanches; pétales de 2-3 mm de long. Capsule à 3 valves au sommet.
+Gomanol tree: Niaouli. Yields cajuput oil.
 
-Arbre à goménol : Niaouli. Donne l'essence de cajuput.
-
-Originaire d'Australie, croît aussi en Malaisie.
+Native to Australia, also grows in Malaysia.
 
 ## Specimens examined
 

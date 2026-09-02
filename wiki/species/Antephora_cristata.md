@@ -22,25 +22,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Hack. ex De Wild. et Dur. Bull. Herb. Boiss. 2e Sér. I : 60 (nomen) (1902) — F.T.A. IX : 935 (1930). — FRANCH. Contr. Fl. Congo Fr. : 29 (p. p.) (1896). — Doell. Mart. Fl. Bras. II : 314 (1871). — A. Br. ex Pilger, Engl. Jahrb. XXX : 119 (1901).
 
-Herbe annuelle, chaumes géniculés et radicants à la base, jusqu'à environ 1 m de haut. Feuilles à gaines plus ou moins pubescentes à poils tuberculés à la base. Ligule oblongue, tronquée, limbe à base rétrécie, jusqu'à 20 × 0,8 cm, plus ou moins pubescent.
+Annual herb, culms geniculate and rooting at the base, up to about 1 m tall. Leaves with sheaths more or less pubescent with tubercle-based hairs. Ligule oblong, truncate; blade with narrowed base, up to 20 × 0.8 cm, more or less pubescent.
 
-Épis cylindriques, de 3 à 8 cm de long et 5 ou 6 mm de diamètre. Rachis en zig-zag, portant des glomérules coniques de 3 à 8 épilets, ceux-ci de 4 à 6 mm de long.
+Spikes cylindrical, 3 to 8 cm long and 5 or 6 mm in diameter. Rachis zigzag, bearing conical glomerules of 3 to 8 spikelets; these 4 to 6 mm long.
 
-Glume inférieure avec 7 à 15 nervures, visibles seulement à l'intérieur, la supérieure d'environ 3 mm de long à 1 nervure et à marges ciliées. Lemma stérile de 3 à 4 mm de long, à 7 ou 9 nervures, aplatie sur le dos. Fleur supérieure parfois mâle seulement; lemma acuminée, à 3 nervures, glabre; paléa de même aspect.
+Lower glume with 7 to 15 nerves, visible only on the inside; upper glume about 3 mm long, with 1 nerve and ciliate margins. Sterile lemma 3 to 4 mm long, with 7 or 9 nerves, flattened on the back. Upper flower sometimes male only; lemma acuminate, with 3 nerves, glabrous; palea of similar appearance.
 
-Espèce paraissant localisée à l’Afrique occidentale au nord et au sud de l’équateur. C’est une herbe tendre, bien appétée et qui serait peut-être susceptible d’être utilisée pour faire du foin.
+Species appearing to be localized to West Africa north and south of the equator. It is a tender herb, well-palatable and which might perhaps be susceptible to being used for hay-making.
 
-Matériel étudié pour le Gabon
+Material studied for Gabon
 
 Thollon : 302, Libreville.
 
 Lecomte : Fernan-Vaz.
 
-Griffon du Bellay : sans localité.
+Griffon du Bellay : without locality.
 
 ## Figures
 

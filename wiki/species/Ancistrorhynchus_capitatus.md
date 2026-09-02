@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys capitata (Lindl.) Rchb.f., Flora 48: 190 (1865).
 
 – Angorchis capitata (Lindl.) O. Kuntze, Rev. Gen. Pl. 2 : 651 (1891).
@@ -27,31 +25,25 @@ tags: [species, generated]
 
 – Cephalangraecum capitatum (Lindl.) Schltr., Beih. Bot. Centralbl. 36 : 136 (1918).
 
-Tige 1-10 cm. Feuilles 3-8, 15-32 x 1,1-2,1 cm, linéaires, coriaces, inégalement bilobées. Inflorescence capitée, multiflore, < 1,5 (-4) cm. Fleurs petites, blanches, avec une tache verte sur le labelle. Sépale dorsal oblong-ové, elliptique, obtus, papilleux sur la moitié apicale externe. Pétales oblongs-oblancéolés, falciformes, obtus. Sépales latéraux, oblongs-ovés, obliques, subobtus, éparsement papilleux sur la moitié apicale externe. Labelle 4,5-5,7 x 4-5 mm, elliptique ou ové, concave à la base, arrondi, marges recourbées vers le haut et ondulées. Éperon 7-
-
-8,5 mm, étroitement cylindrique, légèrement incurvé, claviforme au sommet, obtus. – Pl. 150, p. 339.
+Stem 1–10 cm. Leaves 3–8, 15–32 × 1.1–2.1 cm, linear, coriaceous, unequally bilobed. Inflorescence capitate, multiflorous, < 1.5 (–4) cm. Flowers small, white, with a green spot on the labellum. Dorsal sepal oblong-ovate, elliptic, obtuse, papillose on the outer apical half. Petals oblong-oblanceolate, falciform, obtuse. Lateral sepals oblong-ovate, oblique, subobtuse, sparsely papillose on the outer apical half. Labellum 4.5–5.7 × 4–5 mm, elliptic or ovate, concave at the base, rounded, margins recurved upward and undulate. Spur 7–8.5 mm, narrowly cylindric, slightly incurved, claviform at the apex, obtuse. – Pl. 150, p. 339.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Togo, Nigeria, Cameroun, Guinée équatoriale, Gabon, République centrafricaine, Zaïre, Ouganda
+Sierra Leone, Liberia, Togo, Nigeria, Cameroon, Equatorial Guinea, Gabon, Central African Republic, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1100–1300 m. Epiphyte in evergreen forest, periodically flooded forest with Brachystegia eurycoma and Garcinia, observed 3 m above ground, on Gilbertiodendron dewevrei
 
-alt. 1 100-1 300 m. Épiphyte en forêt sempervirente, forêt périodiquement inondée à Brachystegia eurycoma et Garcinia, observé à 3 m au-dessus du sol, sur Gilbertiodendron dewevrei
+MATERIAL STUDIED (Map 71) :
 
-MATÉRIEL ÉTUDIÉ (Carte 71) :
+De Wilde, Arends, Louis & Wieringa 9857, between Rabi 49 and 50, numerous plants in recently felled swamp forest, especially on large trees bearing epiphytes, on sandy soil, epiphyte on fallen tree (fl. Nov.), WAG!.
 
-De Wilde, Arends, Louis & Wieringa 9857, entre Rabi 49 et 50, nombreux pieds en forêt marécageuse, récemment abattue, spécialement sur les gros arbres portant des épiphotes, sur sol sableux, épiphyte sur arbre tombé (fl. Nov.), WAG!.
-
-J. M. & B. Reitsma 1296, environ 17 km NE de Libreville, 0° 32' N, 9° 26' E (fl. Août), WAG! ; 1974, Monts Doudou, environ 30 km SO de Doussala, 2° 32' S, 10° 29' E, (Févr.), WAG!.
+J. M. & B. Reitsma 1296, approximately 17 km NE of Libreville, 0° 32' N, 9° 26' E (fl. Aug.), WAG! ; 1974, Doudou Mountains, approximately 30 km SW of Doussala, 2° 32' S, 10° 29' E, (Feb.), WAG!.
 
 Renthinger s.n., Benito, BR!.
 
-Wieringa 626, Wolen-Ntem, district de Minkébé, Vallée de la Nsya, forêt à Gilbertiodendron périodiquement inondée, 1° 30' N, 12° 48' E, épiphyte sur arbre tombé, à 20 m du sol (fl. Févr.), WAG! (c.f. capitatus).
+Wieringa 626, Wolen-Ntem, Minkébé district, Nsya Valley, Gilbertiodendron forest periodically flooded, 1° 30' N, 12° 48' E, epiphyte on fallen tree, 20 m above ground (fl. Feb.), WAG! (c.f. capitatus).
 
 ## Figures
 

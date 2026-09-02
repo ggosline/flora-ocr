@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous climbing plant with swollen roots. Stems slender, cylindrical, ribbed or more or less polygonal with narrow wings, 3–4 mm in diameter, generally glabrous; young apices winged; internodes 2–3 cm long. Tendrils slender, bifurcate, glabrous; bracts broadly deltoid glabrous. Stipules oblong-deltoid, deeply cordate at the base, 2–3.5 mm long, glabrous, thickened in the median portion. Leaves simple, entire. Petiole deeply channelled above and winged, 3–30 mm long, glabrous. Blade lanceolate to oblong-ovate, 4.5–12 cm long, 2–4.5 cm wide, with truncate or more or less rounded base, with attenuate-cunéate and acuminate apex; margin with numerous fine teeth; pubescence absent except occasionally a few hairs at the apex of the petiole; pinnate venation; texture thin.
 
-Plante herbacée grimpante, à racines renflées. Tiges grèles, cylindriques, côtelées ou plus ou moins polygonales avec des ailes étroites, de 3-4 mm de diamètre, généralement glabres; jeunes extrémités ailées; entrenœuds de 2-3 cm de long. Vrilles grèles, bifurquées, glabres; bractées largement deltoïdes glabres. Stipules
+Inflorescences very small, 5–15 mm long, in composite cymes of few-flowered umbelliform cymules; peduncle absent or very short, 1–5 mm; axes ribbed, glabrous; bracts and bracteoles acute-deltoid, approximately 0.5 mm long and wide, glabrous. Flowers 2–2.5 mm long. Pedicel 1–2 mm long, generally regularly thickened toward the calyx, glabrous. Calyx relatively long, approximately 1 mm in height, glabrous. Corolla ovoid-globose, glabrous; petals deltoid, 1.2–1.5 mm long. Stamens 1 mm long; anthers approximately 0.4 mm long; with strongly thickened connective. Ovary glabrous.
 
-oblongues deltoïdes, profondément cordées à la base, de 2-3,5 mm de long, glabres, épaissies dans la partie médiane. Feuilles simples entières. Pétiole profondément canaliculé sur le dessus et aile, de 3-30 mm de long, glabre. Limbe lancéolé à oblong ovale, de 4,5-12 cm de long, de 2-4,5 cm de large, à base tronquée ou plus ou moins arrondie, à sommet atténué cuné et acuminé; marge présentant de nombreuses dents fines; pilosité nulle sauf parfois quelques poils au sommet du pétiole; nervation pennée; texture mince.
+Berries ovoid, 6–8 mm long, 4–5 mm in diameter, glabrous. Seed ovoid-reniform, 5–6 mm long, 3–3.5 mm wide and approximately 3 mm thick; rostrum long; median and lateral lines very distinct, very prominent; seed coat smooth-surfaced.
 
-Inflorescences très petites de 5-15 mm de long, en cymes composées de cymules ombelliformes pauciflores; pédoncule nul ou très court, 1-5 mm; axes côtelés, glabres; bractées et bractéoles deltoïdes aiguës, d'environ 0,5 mm de long et de large, glabres. Fleurs de 2-2,5 mm de long. Pédicelle de 1-2 mm de long, généralement régulièrement épaissi vers le calice, glabre. Calice relativement long, d'environ 1 mm de hauteur, glabre. Corolle ovoïde globuleuse, glabre; pétales deltoïdes, de 1,2-1,5 mm de long. Étamines de 1 mm de long; anthères d'environ 0,4 mm de long; à connectif fortement épaissi. Ovaire glabre.
+Type from Tanganyika: Stuhlmann 3992.
 
-Baies ovoïdes, de 6-8 mm de long, de 4-5 mm de diamètre, glabres. Graine ovoïde réniforme de 5-6 mm de long, de 3-3,5 mm de large et environ 3 mm d'épaisseur; rostre long; lignes médiane et latérales très nettes, très saillantes; test à surface lisse.
-
-Type du Tanganyika : Stuhlmann 3992.
-
-Petite liane grêle, presque entièrement glabre, caractéristique par ses très petites inflorescences et ses tiges ailées. Dans les recrus et les formations secondaires forestières humides. Espèce largement répandue du Cameroun à l'Afrique orientale.
+Slender small liane, almost entirely glabrous, characteristic for its very small inflorescences and its winged stems. In secondary growth and humid forest secondary formations. Species widely distributed from Cameroon to East Africa.
 
 ## Specimens examined
 

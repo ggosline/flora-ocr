@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 2,2-4 × 0,8-1,3 cm, étroitement ovoïdes à ellipsoïdaux, 2-foliés. Feuilles courtement pétiolées 6-15,5 × 0,8-1 cm, linéaires-lancéolées, obtuses. Inflorescence 20-31 cm, rachis glabre, renflé, à section carrée, sommet en zigzag, 8-16-flore. Fleurs petites, rouges. Sépales minces et glabres, aigus à apiculés ; sépale dorsal largement ové, concave ; sépales latéraux obliquement triangulaires-ovés, marges involutées. Pétales minces et glabres, obliquement obovés, sommet arrondi, marges irrégulièrement dentées. Labelle glabre, oblong-ové, obtus, récurvé, très épais vers la base et nettement fendu. – Pl. 91, p. 183.
+Pseudobulbs 2.2-4 × 0.8-1.3 cm, narrowly ovoid to ellipsoidal, 2-leaved. Leaves shortly petiolate 6-15.5 × 0.8-1 cm, linear-lanceolate, obtuse. Inflorescence 20-31 cm, rachis glabrous, swollen, square in section, apex zigzag, 8-16-flowered. Flowers small, red. Sepals thin and glabrous, acute to apiculate; dorsal sepal broadly ovate, concave; lateral sepals obliquely triangular-ovate, margins involute. Petals thin and glabrous, obliquely obovate, apex rounded, margins irregularly dentate. Lip glabrous, oblong-ovate, obtuse, recurved, very thick toward the base and distinctly cleft. – Pl. 91, p. 183.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+lowland forest. Epiphytic on Pandanus
 
-forêt de plaine. Épiphyte sur Pandanus
+MATERIAL STUDIED (Map 34):
 
-MATÉRIEL ÉTUDIÉ (Carte 34) :
-
-Le Testu 5527, Wano, affl. de la Ngounyé, au passage de la route de Kembélé-Lubigou (fl., Sept.), BR!, P! ; 5547, Divéla, affl. de l'Ogoulou (fl., Sept), P!23. 28.
+Le Testu 5527, Wano, affl. of the Ngounyé, at the crossing of the Kembélé-Lubigou road (fl., Sept.), BR!, P! ; 5547, Divéla, affl. of the Ogoulou (fl., Sept), P!23. 28.
 
 ## Figures
 

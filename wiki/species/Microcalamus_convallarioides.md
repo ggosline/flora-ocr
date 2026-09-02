@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms fascicled, approximately 30 cm long, with geniculate base and rooting at the lower nodes, sheathed at the base by approximately 3 cataphylls, the upper ones exceeding 15 cm long, glabrous except at the nodes, caducous. 2 to 3 complete leaves, with sheaths pubescent as in the preceding species. Blades lanceolate, attenuate at both ends, more or less asymmetric, 15–20 × 3–4 cm.
 
-Chaumes fasciculés, d'environ 30 cm de long, à base géniculée et radicante aux nœuds inférieurs, engainés à la base par environ 3 cataphylles, les supérieures dépassant 15 cm de long, glabres sauf aux nœuds, caduques. 2 à 3 feuilles complètes, à gaines pubescentes comme dans les espèces précédentes. Limbes lancéolés, atténués aux deux extrémités, plus ou moins asymétriques, de 15-20 × 3-4 cm.
+Inflorescence 4 to 7 cm long, lateral branches reduced and spikelets solitary or in groups of 2–4 in glomerate clusters; pedicels up to 6 mm long. Spikelets oblong, approximately 7.5 mm long, similar to those of the preceding species, upper glume with 7 or 9 nerves, fertile lemma subulate-acuminate, glabrous except at the base and on the margins toward the apex.
 
-Inflorescence de 4 à 7 cm de long, branches latérales réduites et épilets solitaires ou par 2-4 en glomérules; pédicelles jusqu'à 6 mm de long. Épilets oblongs, environ 7,5 mm de long, semblables à ceux des espèces précédentes, glume supérieure à 7 ou 9 nervures, lemma fertile subulée-acuminée, glabre, sauf à la base et sur les bords à la pointe.
-
-Cette espèce a été récoltée au Gabon : Bates, 481, forêt de montagne près de la Como (échantillon non vu).
+This species was collected in Gabon: Bates, 481, mountain forest near Como (specimen not seen).
 
 ## Notes
 

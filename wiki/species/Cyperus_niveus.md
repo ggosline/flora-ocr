@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. compactus Lam., Tabl. encycl. 1(1) : 144 (1791). Herbe vivace, à tiges serrées et souvent alignées, bases des tiges renflées et soudées en un rhizome horizontal, à racines grêles ; tiges de 10‒50 cm × 0,7‒2,5 mm, trigones à arrondies, glabres ; la base couverte par les gaines dures ne se décomposant pas en fibres. Feuille : gaine brun pâle à foncé ; limbe de 5‒35 cm × 0,5‒5 mm , plan, scabre sur la marge et la nervure centrale au moins près de l’extrémité. Inflorescence solitaire, en tête généralement globuleuse, de 5‒50 épillets , large de 1‒4 cm, blanche devenant brun rougeâtre pâle à maturité ; bractées involucrales 3-4, foliacées, la principale longue de 1‒16 cm. Épillet lancéolé, de 5‒17 × 3‒7 mm , comprimé, à 8‒25 fleurs ; glumes elliptiques–lancéolées, longues de 4‒6 mm , blanches avec une teinte brun rosé et 6‒8 stries bien visibles de chaque côté de la nervure centrale, sommet obtus. Akène obovale, de 1,3‒2 × 1‒1,3 mm , trigone, brun à noir, courtement apiculé, à surface lisse.
+C. compactus Lam., Tabl. encycl. 1(1) : 144 (1791). Perennial herb, with tightly clustered stems often aligned, bases of stems swollen and fused into a horizontal rhizome, with slender roots; stems 10–50 cm × 0.7–2.5 mm, trigonous to rounded, glabrous; base covered by hard sheaths not breaking down into fibres. Leaf: sheath pale brown to dark; blade 5–35 cm × 0.5–5 mm, plane, scabrous on the margin and central nerve at least near the apex. Inflorescence solitary, head generally globose, with 5–50 spikelets, 1–4 cm wide, white becoming pale reddish-brown at maturity; involucral bracts 3–4, foliaceous, the principal one 1–16 cm long. Spikelet lanceolate, 5–17 × 3–7 mm, compressed, with 8–25 flowers; glumes elliptic–lanceolate, 4–6 mm long, white with a reddish-brown tint and 6–8 prominent striae on each side of the central nerve, apex obtuse. Achene obovate, 1.3–2 × 1–1.3 mm, trigonous, brown to black, shortly apiculate, with smooth surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales et subtropicales de l’Afrique et de l’Asie de l’Ouest ; répandue au Gabon et localement commune, trouvée dans le Haut-Ogooué, la Ngounié, le Moyen-Ogooué, l’Ogooué-Ivindo et l’Ogooué-Maritime
+widely distributed in the tropical and subtropical regions of Africa and West Asia; widespread in Gabon and locally common, found in Haut-Ogooué, Ngounié, Moyen-Ogooué, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in grasslands, or in open wooded areas, often on rocky slopes; in Gabon, at 0–500 m, up to 2600 m in East Africa. Taxonomic note: close to C. margaritaceus, but C. niveus has more numerous and more flattened spikelets. C. tisserantii Cherm. differs by its narrower leaves (0.3–1.0 mm). This may perhaps be an ecological form growing after vegetation fires
 
-dans les prairies, ou dans les zones boisées ouvertes, souvent sur les pentes rocheuses ; au Gabon, à 0‒500 m, jusqu’à 2600 m en Afrique de l’Est. Note taxonomique : proche de C. margaritaceus , mais C. niveus a des épillets plus nombreux et plus aplatis. C. tisserantii Cherm. diffère par ses feuilles plus étroites (0,3‒1,0 mm). Il s’agit peut-être d’une forme écologique poussant après les feux de végétation
-
-Partie de l’inflorescence. – E. Section de la partie style et trois filets. Dessin original par Richard W. basale de l’inflorescence et partie basale d’un Haines ©. groupe d’épis. – F. Partie basale des principaux pédoncules. – G. Partie d’un épi. – H. Épillet. – I. Fleur. – J. Fruit. Dessin original par Richard W. Haines ©. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997).
+Part of the inflorescence. – E. Section of the basal part of the inflorescence and basal part of a style and three filaments. Original drawing by Richard W. group of spikes. – F. Basal part of the main peduncles. – G. Part of a spike. – H. Spikelet. – I. Flower. – J. Fruit. Original drawing by Richard W. Haines ©. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997).
 
 ## Notes
 

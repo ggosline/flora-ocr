@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Stewart, Kew Bull. 35(2) : 280 (1979) ; FAC 2 : 513 (1992) ; FCAM 3 : 844 (2001) . – BASIONYME : Angraecum arachnopus Rchb.f., Bonplandia 2 : 93 (1854). – TYPE : Schiller s.n., Ghana, holo-W-R!. – Angorchis arachnopus (Rchb.f.) O. Kuntze, Rev. Gen. Pl. 2 : 651 (1891).
+Stewart, Kew Bull. 35(2) : 280 (1979) ; FAC 2 : 513 (1992) ; FCAM 3 : 844 (2001) . – BASIONYM : Angraecum arachnopus Rchb.f., Bonplandia 2 : 93 (1854). – TYPE : Schiller s.n., Ghana, holo-W-R!. – Angorchis arachnopus (Rchb.f.) O. Kuntze, Rev. Gen. Pl. 2 : 651 (1891).
 
 – Angraecum biloboides De Wild., Not. Pl. Util. Congo 1 : 144 (1903).
 
 – Rhaphidorhynchus batesii (Rolfe) Finet, Mém. Soc. Bot. France 54(9) : 39 (1907).
 
-PL. 194. – Aerangis gracillima (Kraenzl.) Arends & Stewart : A, vue générale ; B, fleur ; C, D, extrémités foliaires ; E, F, G, feuilles ; H, labelle ; I, apex de l'éperon ; J, sépale latéral ; K, pétale ; L, sépale dorsal ; M, gynostème ; N, apex du gynostème, détails, anthère enlevée (A-B, ex ARENDS & STEWART, 1989, modifié ; C, Hallé & Cours 6166, P ; E, Le Testu 9109, P ; D-N, Letouzey 14361, P).
+PL. 194. – Aerangis gracillima (Kraenzl.) Arends & Stewart : A, general view ; B, flower ; C, D, foliar apices ; E, F, G, leaves ; H, lip ; I, apex of the spur ; J, lateral sepal ; K, petal ; L, dorsal sepal ; M, column ; N, apex of the column, details, anther removed (A-B, ex ARENDS & STEWART, 1989, modified ; C, Hallé & Cours 6166, P ; E, Le Testu 9109, P ; D-N, Letouzey 14361, P).
 
 – Aerangis batesii (Rolfe) Schltr., Beih. Bot. Centralbl. 36 : 114 (1918). – Aerangis biloboides (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 114 (1918).
 
-Tige < 12 cm. Feuilles 5-9, 7-20 × 2-5,5 cm, blancéolées à obovées. Inflorescence 30-60 cm, 5-15-flore, pendante, rachis en zigzag dans la partie supérieure. Fleurs assez petites, blanches, parfois teintées de rose. Sépale dorsal linéaire-lancéolé à oblong-lancéolé, acuminé. Pétales étroitement lancéolés, falciformes, acuminés. Sépales latéraux acuminés, falciformes. Labelle 12-14 × 3-5 mm, étroitement oblong-lancéolé, acuminé à aigu. Éperon 60-70 mm, genouillé, la partie inférieure pendante, filiforme, aigu. - Pl. 195, p. 419.
+Stem < 12 cm. Leaves 5-9, 7-20 × 2-5.5 cm, lanceolate to obovate. Inflorescence 30-60 cm, 5-15-flowered, pendulous, rachis zigzag in the upper part. Flowers rather small, white, sometimes tinged with pink. Dorsal sepal linear-lanceolate to oblong-lanceolate, acuminate. Petals narrowly lanceolate, falcate, acuminate. Lateral sepals acuminate, falcate. Lip 12-14 × 3-5 mm, narrowly oblong-lanceolate, acuminate to acute. Spur 60-70 mm, geniculate, the lower part pendulous, filiform, acute. - Pl. 195, p. 419.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Cameroun, Gabon, Congo, Zaïre
+Ghana, Cameroon, Gabon, Congo, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte in dense humid forest, old cacao plantation, observed on cacao tree
 
-épiphyte en forêt dense humide, vieille cacayère, observé sur cacayer
+MATERIAL EXAMINED (Map 88) :
 
-MATÉRIEL ÉTUDIÉ (Carte 88) :
+De Wilde & De Wilde-Bakhuizen 11330, Ogooué-Maritime, Gamba, 9.1 km N of Gamba airport, along a petroleum exploitation road, branch of the road towards the Ndogo wharf, approximately 2° 45' S, 9° 60' E (fl. Dec.), WAG!.
 
-De Wilde & De Wilde-Bakhuizen 11330, Ogooué-Maritime, Gamba, 9.1 km N de l'aéroport de Gamba, le long d'une route d'exploitation pétrolière, ramification de la route vers le wharf de Ndogo, environ 2° 45' S, 9° 60' E (fl. Déc.), WAG!.
+Klaine 660 & 2494, environs of Libreville (fl. Nov.-Dec.), P!.
 
-Klaine 660 & 2494, environs de Libreville (fl. Nov.-Déc.), P!.
-
-Le Testu 5137, Haute Ngounyé, Monila (fl. Déc.), P! ; 5799& 5812, Haute Ngounyé (fl. Déc.), BM!, BR!, P!.
+Le Testu 5137, Haute Ngounyé, Monila (fl. Dec.), P! ; 5799 & 5812, Haute Ngounyé (fl. Dec.), BM!, BR!, P!.
 
 ## Figures
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste monocaule ou arbre jusqu’à 25 m de hauteur . Feuilles masquant les tiges, spiralées et restreintes à l’extrémité des branches ; limbe ensiforme , atteignant 125 × 16 cm, coriace, épais, vert à bords blancs à vert translucide . Inflorescence érigée, en panicule très ramifiée , atteignant 200 × 150 cm, à fleurs disposées en glomérules multiflores contenant bien plus de 10 fleurs. Fleur : périanthe 12–16 mm de longueur, à lobes un peu plus courts que le tube. Fruit jaune-vert, virant au noir violacé à maturité.
+Shrub monocaulous or tree up to 25 m tall. Leaves obscuring the stems, spiraled and restricted to the branch apices; blade ensiform, attaining 125 × 16 cm, coriaceous, thick, green with white to translucent green margins. Inflorescence erect, in a much-branched panicle, attaining 200 × 150 cm, with flowers arranged in multiflorous glomerules containing well more than 10 flowers. Flower: perianth 12–16 mm long, with lobes somewhat shorter than the tube. Fruit yellow-green, turning to black-violet at maturity.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de l’Afrique de l’Est, à l’état stérile facilement confondue avec D. arborea . Elle en diffère par la base des feuilles embrassant la tige sur plus que la circonférence, alors que chez D. arborea , elle embrasse la tige sur une partie seulement de sa circonférence. En plus, chez D. steudneri , le bord de la feuille est blanc à vert, translucide, chez D. arborea le bord est concolore avec le limbe
+Species of East Africa, easily confused with D. arborea when sterile. It differs in that the base of the leaves embraces the stem for more than the circumference, whereas in D. arborea it embraces the stem for only part of its circumference. Moreover, in D. steudneri, the leaf margin is white to translucent green, in D. arborea the margin is concolorous with the blade.
 
 ## Notes
 

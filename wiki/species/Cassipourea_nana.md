@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suffrutex d’environ 50 cm de hauteur ; rameaux pubescents à poils apprimés. Stipules ca duques, étroitement triangulaires, 3–4 × 1–1,5 mm, extérieurement à poils apprimés, inté rieurement glabres Feuille : pétiole 2–5(–7) mm, pubescent ; limbe étroitement elliptique, 7–11 × 2–3 cm, (2,5–)3–4 fois plus long que large, à base arrondie, sommet aigu à acuminé à acumen de 0,5–1 mm, papyracé à herbacé, à marge entière, face supérieure glabre avec la nervure médiane strigueuse, face inférieure éparsément pubérulente ; nervures latérales 7–9 paires, strigueuses, glabrescentes. Inflorescence axillaire, à 1–2(–3) fleurs, compacte, brièvement pédonculée, pubescente ; bractées et bractéoles ovales-triangulaires, 1–2 mm de longueur. Fleur : pédicelle 1–2 mm, stipe jusqu’à 0,5 mm ; calice tubuleux, 3,5–4 mm de longueur, ± 3 mm de diamètre, pubérulent extérieurement, glabrescent intérieurement, lobes 5, droits, triangulaires, 1 mm de longueur ; pétales spatulés, 5–6 × ± 1 mm, pen nilobés sur les 2/3 supérieurs, lobes rubanés ; étamines 10, 2,3–3,5 mm de longueur, à filaments glabres, soudés à la base en une collerette de 0,5–1 mm de hauteur, anthères ± 1 mm de longueur, finement apiculées, avec de longs poils mous ; ovaire subglobuleux, 2 mm de diamètre, à 2 loges ; style 3 mm, stigmate subcapité. Fruit immature subellipsoïde, ± 4 × 3 mm, pubérulent. Graines non vues.
+Subshrub approximately 50 cm in height; branches pubescent with appressed hairs. Stipules caducous, narrowly triangular, 3–4 × 1–1.5 mm, externally with appressed hairs, internally glabrous. Leaf: petiole 2–5(–7) mm, pubescent; lamina narrowly elliptic, 7–11 × 2–3 cm, (2.5–)3–4 times longer than broad, with rounded base, apex acute to acuminate with acumen 0.5–1 mm, papyraceous to herbaceous, margin entire, upper surface glabrous with midvein strigose, lower surface sparsely puberulent; lateral nerves 7–9 pairs, strigose, glabrescent. Inflorescence axillary, 1–2(–3)-flowered, compact, shortly pedunculate, pubescent; bracts and bracteoles ovate-triangular, 1–2 mm long. Flower: pedicel 1–2 mm, stipe up to 0.5 mm; calyx tubular, 3.5–4 mm long, ± 3 mm in diameter, puberulent externally, glabrescent internally, lobes 5, straight, triangular, 1 mm long; petals spatulate, 5–6 × ± 1 mm, finely lobed on the upper 2/3, lobes ribbon-like; stamens 10, 2.3–3.5 mm long, filaments glabrous, fused at base into a collar 0.5–1 mm high, anthers ± 1 mm long, finely apiculate, with long soft hairs; ovary subglobose, 2 mm in diameter, 2-locular; style 3 mm, stigma subcapitate. Immature fruit subellipsoid, ± 4 × 3 mm, puberulent. Seeds not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique au Gabon, connue seulement de la localité-type (Mts Doudou, 60 km WNW de Doussala)
+endemic to Gabon, known only from the type locality (Doudou Mountains, 60 km WNW of Doussala)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de la forêt primaire ; à ± 200 m d’altitude. Boutons floraux et jeune fruit en novembre. b : Breteler (2008). ibliographie
+understory of primary forest; at ± 200 m altitude. Flower buds and young fruit in November. b: Breteler (2008). Bibliography
 
 ## Notes
 

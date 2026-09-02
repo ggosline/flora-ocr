@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bombax glabrum (PASQUALE) A. ROBYNS, Bull. Jard. Bot. Etat Bruxelles 30 : 474 (1960).
 
 — Bombacopsis glabra (PASQUALE) A. ROBYNS, Bull. Jard. Bot. Etat Bruxelles 33 : 207. tab. 6, 7 et tab. 7 (1963); Fl. Congo 10 : 198 (1963).
 
-BOMBACACE
+BOMBACACEAE
 
 — Bombax aquaticum auct. non (AUBL.) K. SCHUMACHER : DE WILDEMAN & TH. DURAND, Ann. Mus. Congo, Bot. ser. 3, 1 : 23 (1901).
 
@@ -33,23 +31,23 @@ BOMBACACE
 
 — Bombax oleagineum (DECNE.) A. ROBYNS, Bull. Jard. Bot. Etat. Bruxelles 29 : 26 (1959).
 
-Cette espèce se distingue des autres espèces introduites par les caractères suivants :
+This species is distinguished from other introduced species by the following characters:
 
-— arbuste ou petit arbre haut de 3-8 m;
+— shrub or small tree 3–8 m tall;
 
-— base épaissie;
+— thickened base;
 
-— capsule ovoide;
+— ovoid capsule;
 
-— valves glabres extérieurement;
+— valves glabrous on the outside;
 
-— kapok peu abondant;
+— kapok sparse;
 
-— graines à fortes stries saillantes.
+— seeds with strong prominent striations.
 
-NÉOTYPE : Rivière 6, jardin du Hamma près d'Alger, Algérie (P!).
+NEOTYPE: Rivière 6, Hamma garden near Algiers, Algeria (P!).
 
-Plante cultivée. Son aire est brésilienne, hawaïenne et africaine.
+Cultivated plant. Its range is Brazilian, Hawaiian, and African.
 
 ## Specimens examined
 

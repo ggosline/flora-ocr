@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 4.1 Anthephora cristata (Döll.) Hack. ex De Wild. & T. Durand
 
-Fl. Gab.: 89, Pl. 15 ; FACB 2 : 322, Pl. 49 ; FWTA : 457 ; Gram. Cam. : 349, Pl. 73 ; Poac. CI. : 450, 451 ; Gram. CB. : 224.
+Fl. Gab.: 89, Pl. 15; FACB 2: 322, Pl. 49; FWTA: 457; Gram. Cam.: 349, Pl. 73; Poac. Cl.: 450, 451; Gram. CB.: 224.
 
 van Bergen 479, 26.03.1996, 2°47'S-10°01'E, Gamba, terminal area. Breteler & van Raalte 5576, 19.09.1968, c. 0°40'S-8°50'E, near Port Gentil. Everts in A.M. Louis 1628, 31.10.1984, CIAM Ntoum. Hallé & Villiers 5558, 25.02.1968, Pointe Denis. van Nek 454, 01.12.1990, 2°46'S-10°02'E, Gamba-NW; 746, 22.03.1991, 2°51'S-10°07'E, Gamba-SE. Wieringa 1289, 15.07.1992, 2°48'S-10°03'E, Gamba, near airport. de Wilde, Arends, Louis, Karper & Bouman 669, 18.02.1983, Mayumba peninsula, 20 km S. of Mayumba. de Wilde & de Wilde-Bakhuizen 11186, 23.11.1994, 2°47'S-10°06'E, Gamba, 8.4 km along road from airport to Vera.
 

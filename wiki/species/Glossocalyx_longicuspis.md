@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bentham, Hooker. Ic. Pl. 14. t. 1301 (1880.)
 
-Arbuste ou arbre de 1 à 12 m; jeunes rameaux à pilosité courte et éparse (0,2-0,5 mm de long); feuilles alternes, de 15-20 cm de long sur 5-6,5 cm de large, acuminées, pétolées, avec ponctuations translucides visibles à la loupe; marge entière ou dentée, limbe glabre dessus mais avec des poils étoilés ± grands dessous; base en coin, symétrique. Fleurs à pilosité localisée surtout sur le pédoncule et la base du périanthe, poils bi-trifurqués courts : 0,05-0,1 mm. Bentham ne signale ni la couleur, ni l'odeur des fleurs; pour l'échantillon 1751, Le Testu note : fl. verte, odeur forte et fraîche; un dessin sur le vif de N. Hallé montre un calice jaune pâle.
+Shrub or tree 1 to 12 m; young branches with short and sparse pilosity (0.2–0.5 mm long); leaves alternate, 15–20 cm long by 5–6.5 cm wide, acuminate, petiolate, with translucent punctations visible under magnification; margin entire or toothed, blade glabrous above but with ± large stellate hairs below; base wedge-shaped, symmetric. Flowers with pilosity localized mainly on the peduncle and base of the perianth, short bi-trifurcate hairs: 0.05–0.1 mm. Bentham notes neither the color nor the scent of the flowers; for specimen 1751, Le Testu notes: fl. green, strong and fresh odor; a sketch from life by N. Hallé shows a pale yellow calyx.
 
 ## Type
 
@@ -29,11 +27,9 @@ Mann 1428 ♂ (1862) Fernando-Po (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The second type cited by Bentham, Mann 1723 Gabon, latitude 1° N(P) collected also in 1862 corresponds to the description of Gl. brevipes Benth.!
 
-Le second type cité par Bentham, Mann 1723 Gabon, latitude 1° N(P) récolté aussi en 1862 correspond à la description de Gl. brevipes Benth.!
-
-Cet arbuste croît au bord des cours d’eau, le plus souvent; un nom vernaculaire signalé est « Medoudoumba » en dialecte Bayaka au Mayombe (Le Testu).
+This shrub grows along watercourses, most often; a vernacular name noted is "Medoudoumba" in the Bayaka dialect in Mayombe (Le Testu).
 
 ## Specimens examined
 

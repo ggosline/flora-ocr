@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 6–10 m, with rounded crown (LETOUZEY), reaching 15 m with a diameter of 30 cm, and even 30 m; bark rosy. Leaves (1–)2–3-jugate, with elliptic leaflets slightly or not acuminate, 2–2.5 times longer than wide; pubescence of branchlets yellow, crisp: 0.2–0.8 mm. Flowers white with petals whose limb is slightly hairy, but the scale abundantly tomentose. PL. 41, 1–5', p. 177.
 
-Petit arbre de 6-10 m, à cime en boule (LETOUZEY), à arbre atteignant 15 m avec un diamètre de 30 cm, et même 30 m; écorce rosée. Feuilles (1-) 2-3-juguées, à folioles elliptiques peu ou non acuminées, 2-2,5 fois plus
-
-PL. 40. — Haplocelum gallaense (Engl.) Radlk. (1, 2, Jacques-Félix 3833; 3-4, Gillett 12917) : 1, rameau feuille avec fruit, foliole 25 mm; 2, coupe du fruit, 15 mm; 3, rameau avec inflorescence ♂, foliole 1 cm; 3, cymule; 4, disque 2,5 mm et sépales; 4', coupe de fleu ♂. — Ericocelum racemosum Bak. (5, Mann 807; 6-9, Le Testu 9484; 10, 10, Aubréville 1601; 11, 11', d'après Aubréville) : 5, feuille et inflorescence, foliole 4,4 × 13 cm; 6, cymule; 7, fleur, diamètre 2,5 mm; 7, poils du calice 0,2 mm; 8, disque et étamines; 8', coupe d'ovaire, filets et disque; 9, 9', pétale, 3 mm, faces interne, externe, et profil, 10, fruit, diamètre 22 mm; 10', valve; 11, 11', graine, côté hile et opposé. — Dodonea viscosa (L.) Jacq. (12, Duparquet s.n.; 13-15', Hédin s.n.; 16-17', Chevalier 17931) : 12, rameau avec infrutescence limbe 27 × 80 mm; 13, fleur 6 mm; 14, 14', étamine, faces interne et externe; 15, pistil; 15', pistil de profil; 16, fruit; 16, coupe du fruit; 16", caroncule coiffant la saille radiculaire; 17, graine; 17', profil; 17', embryon.
-
-longues que larges; pilosité des rameaux jaune, frisée : 0,2-0,8 mm. Fleurs blanches à pétales dont le limbe est peu velu, mais l'écaille abondamment tomenteuse. PL. 41, 1-5', p. 177.
+PL. 40. — Haplocelum gallaense (Engl.) Radlk. (1, 2, Jacques-Félix 3833; 3–4, Gillett 12917) : 1, leafy branchlet with fruit, leaflet 25 mm; 2, fruit section, 15 mm; 3, branchlet with ♂ inflorescence, leaflet 1 cm; 3, cymule; 4, disk 2.5 mm and sepals; 4', section of ♂ flower. — Ericocelum racemosum Bak. (5, Mann 807; 6–9, Le Testu 9484; 10, 10, Aubréville 1601; 11, 11', after Aubréville) : 5, leaf and inflorescence, leaflet 4.4 × 13 cm; 6, cymule; 7, flower, diameter 2.5 mm; 7, calyx hairs 0.2 mm; 8, disk and stamens; 8', ovary section, filaments and disk; 9, 9', petal, 3 mm, internal, external, and profile views, 10, fruit, diameter 22 mm; 10', valve; 11, 11', seed, hilar side and opposite. — Dodonea viscosa (L.) Jacq. (12, Duparquet s.n.; 13–15', Hédin s.n.; 16–17', Chevalier 17931) : 12, branchlet with fruitescence, limb 27 × 80 mm; 13, flower 6 mm; 14, 14', stamen, internal and external faces; 15, pistil; 15', pistil in profile; 16, fruit; 16, fruit section; 16", caruncle capping the radicle projection; 17, seed; 17', profile; 17', embryo.
 
 ## Type
 
@@ -33,11 +29,9 @@ Talbot 3246 (fl.), 3051, (fl. fr.), Nigeria (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species widespread in Mali, in the Central African Republic, in Cameroon and in Gabon.
 
-Espèce répandue au Mali, en République Centrafricaine, au Cameroun et au Gabon.
-
-L'échantillon Breteler 1040, récolté en février à la Mission Catholique de Bertoua sur un arbre de 7 m, a des fruits trop petits (2 cm) pour être rattaché à cette espèce avec certitude. A rechercher au Cameroun.
+The specimen Breteler 1040, collected in February at the Catholic Mission of Bertoua on a tree 7 m tall, has fruits too small (2 cm) to be attributed to this species with certainty. To be searched for in Cameroon.
 
 ## Specimens examined
 

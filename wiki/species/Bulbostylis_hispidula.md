@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fimbristylis exilis (Kunth) Roem. & Schult., Syst. Veg. éd. 15, 2 : 98 (1817). Fimbristylis hispidula (Vahl) Kunth, Enum. pl. 2 : 227 (1837). Abildgaardia hispidula (Vahl) Lye subsp. hispidula, Bot. Not. 127 : 496 (1974). Herbe annuelle ou vivace , en touffe, avec un court rhizome rampant ; tige de 10‒40 cm × 0,3‒0,7 mm, un peu aplatie, cannelée, couverte de poils transparents étalés . Feuille : gaine pâle, densément poilue, collet à nombreux poils fins longs de 15 mm au plus, donnant souvent à la partie inférieure de la plante un aspect laineux ; limbe habituellement de moins de 10 cm × 0,5 mm, plan ou canaliculé, densément poilu mais quelquefois pourvu de poils épineux sur les nervures. Inflorescence en anthèle simple ou composée, ombelliforme ; bractées involucrales toutes brunâtres, mais les principales terminées quelquefois par une arête verte atteignant 2 mm. Épillet de 4‒10 × 2‒4 mm, souvent taché de brun pâle/brun foncé ; glumes longues de 3‒4 mm, brunes avec la nervure centrale et la marge plus pâles, poilues, l’extrémité souvent aiguë ; glumes inférieures souvent terminées par une arête. Fleur : style trifide grêle, à poils courts, se détachant souvent avec sa base. Akène d’environ 1 × 0,6‒1 mm, extrêmement variable, blanc, gris pâle ou brun foncé, ondulé transversalement .
+Fimbristylis exilis (Kunth) Roem. & Schult., Syst. Veg. éd. 15, 2 : 98 (1817). Fimbristylis hispidula (Vahl) Kunth, Enum. pl. 2 : 227 (1837). Abildgaardia hispidula (Vahl) Lye subsp. hispidula, Bot. Not. 127 : 496 (1974). Annual or perennial herb, in tufts, with a short creeping rhizome; stem 10–40 cm × 0.3–0.7 mm, somewhat flattened, grooved, covered with spreading transparent hairs. Leaf: sheath pale, densely hairy, collar with numerous fine hairs up to 15 mm long, often giving the lower part of the plant a woolly appearance; blade usually less than 10 cm × 0.5 mm, flat or channelled, densely hairy but sometimes bearing spinous hairs on the nerves. Inflorescence in a simple or compound anthela, umbelliform; involucral bracts all brownish, but the principal ones sometimes terminated by a green awn reaching 2 mm. Spikelet 4–10 × 2–4 mm, often spotted with pale brown/dark brown; glumes 3–4 mm long, brown with the central nerve and margin paler, hairy, the apex often acute; lower glumes often terminated by an awn. Flower: style trifid, slender, with short hairs, often falling away with its base. Achene approximately 1 × 0.6–1 mm, extremely variable, white, pale grey or dark brown, transversely wrinkled.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical and subtropical Africa, including Madagascar; widespread in Gabon and found in Estuaire, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime (7 collections)
 
-Afrique tropicale et subtropicale, y compris Madagascar ; répandue au Gabon et trouvée dans l’Estuaire, l’Ogooué-Ivindo, l’Ogooué-Lolo et l’Ogooué-Maritime (7 récoltes)
-
-Épillet. – E, F. Différentes vues des glumes. – G. Fruit. – H. Fruit et style. – I. Section du fruit. Dessin original par E.M. Stones ©, reproduit avec permission à partir de Nelmes & Baldwin (1952).
+Spikelet. – E, F. Different views of the glumes. – G. Fruit. – H. Fruit and style. – I. Section of fruit. Original drawing by E.M. Stones ©, reproduced with permission from Nelmes & Baldwin (1952).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les lieux ouverts secs ou marécageux tels que prairies, steppes, végétation secondaire et terrains perturbés ; au Gabon, à 0‒400 m, jusqu’à 2000 m en Afrique de l’Est
+in dry or marshy open places such as grasslands, steppes, secondary vegetation and disturbed ground; in Gabon, at 0–400 m, up to 2000 m in East Africa
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Sénégal, la plante entière est consommé par le bétail quand aucune autre n’est disponible ; les fibres sont quelquefois utilisées pour fabriquer des nattes (Burkill, 1985). La plante entière est brûlée avec Cordia africana Lam. en fumigation des doigts affectés par la manipulation des fibres de coton (Burkill, 1985). C’est une mauvaise herbe très courante des cultures. Note taxonomique : très variable, se reconnaît habituellement aux tiges poilues, aux feuilles filiformes, à l’abondance des longs poils fins au collet de la gaine et aux fruits ridés transversalement. B : Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1997)
+In Senegal, the entire plant is consumed by livestock when no other is available; the fibres are sometimes used for making mats (Burkill, 1985). The entire plant is burned with Cordia africana Lam. in fumigation of fingers affected by the handling of cotton fibres (Burkill, 1985). It is a very common weed of cultivations. Taxonomic note: highly variable, usually recognized by the hairy stems, filiform leaves, the abundance of long fine hairs at the collar of the sheath and the transversely ridged fruits. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
 ## Notes
 

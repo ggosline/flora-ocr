@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, reaching 2 m in height. Stipules filiform, up to 0.6–1 cm, covered with stiff hairs. Leaves spiral, simple; petiole up to 50 cm; limb
 
-Herbe annuelle, atteignant 2 m de hauteur. Stipules filiformes, jusqu’à 0,6 ‒ 1 cm, couvertes de poils raides. Feuilles en spirale, simples ; pétiole jusqu’à 50 cm ; limbe
+Abelmoschus callei: 4. Flowering branch. – 5. Flower, in bud. – 6. Young fruit. – 7. Fruit. Drawing made available to us by PROTA (©), reproduced from Siemonsma (1989).
 
-Abelmoschus callei : 4. Branche florifère. – 5. Fleur, en bouton. – 6. Jeune fruit. – 7. Fruit. Dessin mis à notre disposition par PROTA (©), reproduit à partir de Siemonsma (1989).
-
-3 ‒ 5 ‒ 7-palmatilobé à palmatipartite, cordé à la base, à contour transversalement elliptique à orbiculaire, jusqu’à 50 cm de diamètre. Fleurs axillaires, solitaires ou en grappes ; pédicelle atteignant 3 cm à la floraison, jusqu’à 7 cm en fruit ; segments de l’épicalice (7 ‒ )10( ‒ 18) , filiformes à linéaires 5 ‒ 25 × 0,5 ‒ 3 mm, aigus à acuminés, généralement caducs à la floraison ou peu après , avec quelques poils raides ; calice spathacé, foliacé, caduc avec la corolle et le tube staminal, 2 ‒ 6 cm de longueur ; pétales 5, libres, obovales à orbiculaires, 3 ‒ 7 cm de longueur, jaunes avec une base violet foncé, virant souvent au rose après la floraison ; tube staminal jusqu’à 2,5 cm de longueur, blanc, filaments libres sur 0,5 ‒ 1,5 mm ; ovaire 7 ‒ 10-loculaire , tomenteux ; style à 7 ‒ 10 branches, stigmates pourpres foncés. Fruit capsulaire, érigé, cylindrique à pyramidal, jusqu’à 20 × 2 ‒ 2,5 cm, couverts d’abord de poils couchés, puis glabres à maturité. Graine subglobuleuse, 5 × 4 mm de diamètre.
+3–5–7-palmatilobed to palmatipartite, cordate at the base, with transversely elliptic to orbicular outline, up to 50 cm in diameter. Flowers axillary, solitary or in racemes; pedicel reaching 3 cm at flowering, up to 7 cm in fruit; epicalyx segments (7–)10(–18), filiform to linear 5–25 × 0.5–3 mm, acute to acuminate, generally caducous at flowering or shortly after, with some stiff hairs; calyx spathe-like, foliaceous, caducous with the corolla and staminal tube, 2–6 cm in length; petals 5, free, obovate to orbicular, 3–7 cm in length, yellow with a dark violet base, often turning pink after flowering; staminal tube up to 2.5 cm in length, white, filaments free for 0.5–1.5 mm; ovary 7–10-locular, tomentose; style with 7–10 branches, dark purple stigmas. Capsular fruit, erect, cylindric to pyramidal, up to 20 × 2–2.5 cm, first covered with appressed hairs, then glabrous at maturity. Seed subglobose, 5 × 4 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Asie du Sud-Est, mais aujourd’hui répandue dans toutes les régions tropicales y compris toute l’Afrique tropicale ; au Gabon connue de l’OgoouéIvindo
+native to Southeast Asia, but today widespread in all tropical regions including all tropical Africa; in Gabon known from the Ogooué–Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-jardins, champs et jachères, cultivée ou subspontanée ; jusqu’à 1600 m d’altitude. Fleurs et fruits toute l’année. Usage : Les jeunes fruits, mais aussi les feuilles, sont appréciés comme légume dans la sauce. Ils sont utilisées frais ou séchés
+gardens, fields and fallows, cultivated or subspontaneous; up to 1600 m in altitude. Flowers and fruits throughout the year. Use: The young fruits, but also the leaves, are appreciated as a vegetable in sauce. They are used fresh or dried
 
 ## Vernacular names
 

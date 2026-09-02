@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 47(4, 5)
 
-Planche 47(4, 5)
+Small tree, up to ±8 m tall; bark greyish; branchlets sulcate, greyish-green, glabrous or loosely puberulent; buds puberulent. Stipules persistent, ovate, (13.5–)20–28(−60) × ±15 mm long, with unequal base, somewhat cordate, acuminate at apex, entire margin, glabrous. Leaf: petiole (7.5–)8.5–10(−12) mm, glabrous; blade narrowly elliptic-oblong to narrowly elliptic-obovate-oblong, (20–)25–27.5(−40) × (6–)7.5–10(−14) cm, papyraceous or subcoriaceous, base generally asymmetric, one side frequently rounded, acute to slightly obtuse, shortly acuminate at apex, subentire margin or sometimes shallowly and irregularly serrulate, chiefly in the apical half, plane, sometimes undulate, smooth, glossy and dark green above, very pale green and glabrous below; venation reticulate, midvein glabrous, impressed above, secondary veins 7 to 10, ascending, slightly looped and anastomosing near the margin, slightly marked above and raised below. Male inflorescence chiefly below the leaves, on the branches, with ±15 to 20 flowers; bracts ovate, 0.5–1.9 mm long, glabrous or puberulent. Male flower: pedicel slender, 2.4–6.4 mm, puberulent; sepals 4, imbricate, ovate to suborbicular, 1.9–2.2 × 1.5–2.3 mm, obtuse and slightly cucullate at apex, yellowish to dull whitish-green, puberulent on both faces, with short marginal cilia; stamens 4, in a whorl around the margin of the disk, filament 1.2–1.4 mm, anther 0.9–1.3 mm long; disk slightly concave, 0.9–1.5 mm in diameter, loosely and slightly foveolate, with undulate to lobed margin, slightly prominent between the filaments, glabrous;
 
-Arbre petit, jusqu'à ±8 m de hauteur; écorce grisâtre; ramilles sillonnées, vert grisâtre, glabres ou lâchement pubérulentes; bourgeons pubérulents. Stipules persistantes, ovales, longues de (13,5–)20–28(−60) × ±15 mm, à base inégale, quelque peu cordée, acuminées au sommet, à marge entière, glabres. Feuille: pétiole de (7,5–)8,5–10(−12) mm, glabre; limbe étroitement elliptique-oblong à étroitement elliptique-obovale-oblong, de (20–)25–27,5(−40) × (6–)7,5–10(−14) cm, papyracé ou subcoriace, base généralement asymétrique, un des côtés fréquemment arrondi, aigu à légèrement obtus, courtement acuminé au sommet, à marge subentière ou parfois peu profondément et irrégulièrement serrulée, principalement dans la moitié apicale, plane, parfois ondulée, lisse, brillant et vert foncé dessus, vert très pâle et glabre dessous; nervation réticulée, nervure médiane glabre, imprimée dessus, nervures secondaires 7 à 10, ascendants, légèrement bouclés et anastomosés près de la marge, légèrement marqués dessus et surélevés dessous. Inflorescence mâle principalement sous les feuilles, sur les branches, avec ±15 à 20 fleurs; bractées ovales, longues de 0,5–1,9 mm, glabres ou pubérulentes. Fleur mâle: pédicelle élancé, de 2,4–6,4 mm, pubérulent; sépales 4, imbriqués, ovales à suborbiculaires, de 1,9–2,2 × 1,5–2,3 mm, obtus et légèrement cucullés au sommet, jaunâtres à vert blanchâtre terne, pubérulents sur les deux faces, à courts cils marginaux; étamines 4, en un verticille autour de la marge du disque, filet de 1,2–1,4 mm, anthère longue de 0,9–1,3 mm; disque légèrement concave, de 0,9–1,5 mm de diamètre, lâchement et légèrement fovéolé, à marge ondulée à lobée, légèrement saillante entre les filets, glabre;
-
-pistillode de 0,1–0,2 mm de hauteur. Inflorescence femelle sur les branches dépourvues de feuilles, avec 5 à 10 fleurs; bractées longues de 0,3–1,9 mm, semblables aux mâles. Fleur femelle: pédicelle de (2–2),5–3 mm, pubérulent; sépales 4, de 3,1–3,9 × 3,2–4,9 mm, verts, semblables à ceux des mâles; disque annulaire, de 2,8–3 mm de diamètre, à marge subentière, glabre; ovaire subglobuleux, 2-loculaire, pubérulent; style de 0,05–0,2 mm ou manquant, à 2 branches libres, à stigmate réniforme-flabellé, de 0,7–1,1 × 2,3–3,4 mm. Fruit subglobuleux, de (8–8),5–10(−20) × 7,5–9(−17) mm, verdâtre, à sépales persistants, pubérulent, à pédicelle de (1,4–1),8–4(−6) mm, pubérulent, glabrescent, à 1(ou 2) graines. Graine jusqu'à ±4,5 mm de longueur.
+pistillode 0.1–0.2 mm tall. Female inflorescence on leafless branches, with 5 to 10 flowers; bracts 0.3–1.9 mm long, similar to the male ones. Female flower: pedicel (2–2).5–3 mm, puberulent; sepals 4, 3.1–3.9 × 3.2–4.9 mm, green, similar to those of the male; disk annular, 2.8–3 mm in diameter, with subentire margin, glabrous; ovary subglobose, 2-locular, puberulent; style 0.05–0.2 mm or lacking, with 2 free branches, with reniform-flabellate stigma, 0.7–1.1 × 2.3–3.4 mm. Fruit subglobose, (8–8).5–10(−20) × 7.5–9(−17) mm, greenish, with persistent sepals, puberulent, with pedicel (1.4–1).8–4(−6) mm, puberulent, glabrescent, with 1(or 2) seeds. Seed up to ±4.5 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, continental Equatorial Guinea and Gabon; in Gabon: Estuary and Middle-Ogooué
 
-Cameroun, Guinée équatoriale continentale et Gabon ; au Gabon : Estuaire et Moyen-Ogooué
-
-Habitat : forêts sempervirentes primaires ou secondaires, forêts ripicoles ; au Gabon à 60–680 m d'altitude, ailleurs jusqu'à 1200 m.
+Habitat: primary or secondary evergreen forests, riparian forests; in Gabon at 60–680 m altitude, elsewhere up to 1200 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce a été principalement observée et récoltée dans les Monts de Cristal et dans l'Estuaire. Les stipules sont foliacées, persistantes longtemps sur la plante et plus grandes que celles de toutes les autres espèces gabonaises. Elles ne sont que très rarement absentes sur les spécimens d'herbier. La base des feuilles est généralement asymétrique, avec l'un des côtés arrondi
+This species has been mainly observed and collected in the Crystal Mountains and in the Estuary. The stipules are foliaceous, persisting a long time on the plant and larger than those of all other Gabonese species. They are only very rarely absent on herbarium specimens. The base of the leaves is generally asymmetric, with one side rounded
 
 ## Bibliography
 

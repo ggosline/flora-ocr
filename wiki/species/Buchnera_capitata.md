@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in DC., Prodr. 10 : 495 (1846). Herbe annuelle, scabre et rigide, 20–50 cm de hauteur ; tiges dressées, arrondies. Feuilles caulinaires, sessiles ; limbe des feuilles basales 10–60. × .2–14(–18) mm, subamplexicaule, oblong-lancéolé à linéaire-obovale, obtus au sommet, à marge crénelée. Inflores cence capitée, 6–45 × 10–18 mm, munie de bractées ; bractées deltoïdes, étroitement obovales ou lancéolées, 3–5 × 1 mm, acuminées au sommet . Fleur subsessile à sessile ; calice 4,5 mm de longueur, à nervures peu distinctes, à 5 dents égales de 1,5–2 mm de longueur, pileux ; corolle blanchâtre à jaunâtre , tube ± 3,5 mm de longueur, lobes 2–2,5 × 2 mm. Fruit ovoïde-cylindrique, 2,8 × 2 mm, obtus au sommet.
+in DC., Prodr. 10 : 495 (1846). Annual herb, scabrous and rigid, 20–50 cm in height; stems erect, rounded. Cauline leaves, sessile; blade of basal leaves 10–60 × 2–14(–18) mm, subamplexicaul, oblong-lanceolate to linear-obovate, obtuse at apex, with crenate margin. Inflorescence capitate, 6–45 × 10–18 mm, provided with bracts; bracts deltoid, narrowly obovate or lanceolate, 3–5 × 1 mm, acuminate at apex. Flower subsessile to sessile; calyx 4.5 mm in length, with faintly distinct veins, with 5 equal teeth 1.5–2 mm in length, pilose; corolla whitish to yellowish, tube ± 3.5 mm in length, lobes 2–2.5 × 2 mm. Fruit ovoid-cylindric, 2.8 × 2 mm, obtuse at apex.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandue en Guinée-Conakry, au Ghana, au Nigéria, au Cameroun, au Gabon, à la République du Congo, à la République démocratique du Congo, au Rwanda, au Burundi, en Ouganda, en Éthiopie, au Kenya, en Tanzanie, au Malawi, en Zambie, au Mozambique et à Madagascar ; au Gabon, observée dans l’Estuaire, le Moyen-Ogooué et la Ngounié
+widespread in Guinea-Conakry, Ghana, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Rwanda, Burundi, Uganda, Ethiopia, Kenya, Tanzania, Malawi, Zambia, Mozambique and Madagascar; in Gabon, observed in the Estuary, Middle Ogooué and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais et savanes humides ; au Gabon, à 25–130 m d’altitude, en Afrique de l’Est, jusqu’à 2600 m. B : Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek ibliographie (1996), Philcox (1990)
+marshes and humid savannas; in Gabon, at 25–130 m altitude, in East Africa, up to 2600 m. B: Fischer (2006b), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Philcox (1990)
 
 ## Notes
 

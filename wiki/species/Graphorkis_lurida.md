@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Eulophia lurida (Sw.) Lindl., Gen. Sp. Orchid. Pl. : 182 (1833).
 
 – Eulophiopsis lurida (Sw.) Schltr., Die Orchideen : 348 (1914).
 
-Pseudobulbes 3-9 × 1-3 cm, 4-6 feuilles. Feuilles < 40 cm × 1,5-4 cm, blancéolées à étroitement elliptiques. Inflorescence < 50 cm, paniculée. Sépales violets à bruns à l'extérieur, vert clair à l'intérieur, pétales vert clair ou crème lavés de violet ou de brun, lobe médian du labelle jaune, lobes latéraux jaune verdâtre. Labelle canaliculé, trilobé près du milieu, 2 carènes charnues près de la base ; lobe médian largement obové, plus ou moins bifide au sommet, lobes latéraux obliquement ovés, divergents. – Pl. 139, p. 315.
+Pseudobulbs 3–9 × 1–3 cm, 4–6 leaves. Leaves < 40 cm × 1.5–4 cm, lanceolate to narrowly elliptic. Inflorescence < 50 cm, paniculate. Sepals violet to brown on the exterior, pale green on the interior, petals pale green or cream washed with violet or brown, mid-lobe of labellum yellow, lateral lobes yellowish-green. Labellum channelled, trilobed near the middle, 2 fleshy keels near the base; mid-lobe broadly obovate, more or less bifid at the apex, lateral lobes obliquely ovate, divergent. – Pl. 139, p. 315.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Guinée équatoriale, Cameroun, Gabon, Congo, République centrafricaine, Zaïre, Burundi, Ouganda, Tanzanie. Zambie
+Senegal, Guinea-Bissau, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Equatorial Guinea, Cameroon, Gabon, Congo, Central African Republic, Zaïre, Burundi, Uganda, Tanzania. Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 150–1,300 m. Epiphytic in forest, often on palm and notably Hyphaene, Elaeis guineensis
 
-alt. 150-1 300 m. Épiphyte en forêt, souvent sur palmier et notamment Hyphaene, Elaeis guineensis
+MATERIAL STUDIED (Map 64):
 
-MATÉRIEL ÉTUDIÉ (Carte 64) :
+J. M. & B. Reitsma 1297, approximately 17 km NE of Libreville, 0° 32' N, 9° 26' E (fl. August), WAG!.
 
-J. M. & B. Reitsma 1297, environ 17 km NE de Libreville, 0° 32' N, 9° 26' E (fl. Août), WAG!.
-
-Wieringa 303, Tchimbélé, 10º 24' E, 0º 37' N (fl. Déc.), WAG!.
+Wieringa 303, Tchimbélé, 10° 24' E, 0° 37' N (fl. December), WAG!.
 
 ## Figures
 

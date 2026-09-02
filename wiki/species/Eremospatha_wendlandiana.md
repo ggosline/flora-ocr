@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane cespiteuse ; stipe cylindrique, jusqu’à 60 m, jusqu’à 25 mm de diamètre. Feuille : gaine légèrement striée, à pilosité caduque ; ochréa dépassant le rachis de 8 cm, brune une fois sèche, fendue longitudinalement en forme de V ; genou présent , 5–12 cm, rétréci à la base, pétiole absent ; rachis jusqu’à 2 m, aplati ou légèrement concave dessus, arrondi des sous, bords armés d’épines inéquidistantes, recourbées ; limbe comprenant jusqu’à 20 paires de folioles strictement rhomboïdales ou trapézoïdales 12–22 × 8–17 cm, marges droites, armées d’épines, sommet largement et irrégulièrement prémorse , les basales plus étroites que les autres, elliptiques-ovales ; cirrhe jusqu’à 2 m, armé comme le rachis, les épines moins nombreuses distalement, à folioles-épines de 2–2,5 cm. Inflorescence jusqu’à 80 cm de lon gueur ; pédoncule jusqu’à 30 cm ; rachis jusqu’à 50 cm, arqué, avec 10 à 12 paires de rameaux florifères de 25–30 cm, décroissant distalement en longueur. Fleur : calice 2 × 4 mm, légère ment lobé ; corolle ± 8 × 3 mm, divisée sur le ¼ de sa longueur ; étamines en un anneau de ± 3 mm de longueur, partie libre des filets < 0,5 mm, anthère < 0,75 mm de longueur ; ovaire 2 × 1,5 mm ; style 1 mm. Fruit ovoïde à largement cylindrique, 2,5–3,5 × 1,8–2,4 cm à maturité, avec 15 à 19 rangs d’écailles, monosperme. Graine 1,8–2,8 × 1,2–1,8 × 1 cm, aplatie d’un côté, marges légèrement ondulées.
+Clustered liana; stem cylindrical, up to 60 m, up to 25 mm in diameter. Leaf: sheath slightly striate, with caducous pubescence; ochrea exceeding the rachis by 8 cm, brown when dry, split longitudinally in a V-shape; knee present, 5–12 cm, narrowed at the base, petiole absent; rachis up to 2 m, flattened or slightly concave above, rounded beneath, margins armed with unequally-spaced, recurved spines; blade comprising up to 20 pairs of strictly rhomboidal or trapezoidal leaflets 12–22 × 8–17 cm, margins straight, armed with spines, apex broadly and irregularly premorse, the basal ones narrower than the others, elliptic-ovate; cirrus up to 2 m, armed like the rachis, the spines less numerous distally, with spine-like leaflets 2–2.5 cm. Inflorescence up to 80 cm in length; peduncle up to 30 cm; rachis up to 50 cm, arched, with 10 to 12 pairs of flowering branches 25–30 cm, decreasing distally in length. Flower: calyx 2 × 4 mm, slightly lobed; corolla ± 8 × 3 mm, divided to ¼ of its length; stamens in a ring of ± 3 mm in length, free part of filaments < 0.5 mm, anther < 0.75 mm in length; ovary 2 × 1.5 mm; style 1 mm. Fruit ovoid to broadly cylindrical, 2.5–3.5 × 1.8–2.4 cm at maturity, with 15 to 19 rows of scales, monospermous. Seed 1.8–2.8 × 1.2–1.8 × 1 cm, flattened on one side, margins slightly undulate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud-est du Nigéria, Cameroun, Guinée équatoriale, Gabon, le sud de la République cen trafricaine et Angola (Cabinda) ; au Gabon, connu de l’Estuaire, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Lolo. Statut de conservation : Préoccupation mineure (LC)
+Southeastern Nigeria, Cameroon, Equatorial Guinea, Gabon, southern Central African Republic and Angola (Cabinda); in Gabon, known from Estuaire, Nyanga, Ogooué-Ivindo and Ogooué-Lolo. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce commune en végétation ouverte, le long des routes, ou sous sa forme juvénile dans le sous-bois des forêts denses humides ; au Gabon entre 60 et 500 m d’altitude, ailleurs entre 50 et 500 m
+Common species in open vegetation, along roads, or in its juvenile form in the understory of dense humid forests; in Gabon between 60 and 500 m elevation, elsewhere between 50 and 500 m
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ akot (fang) ; égoo (mitsogo) ; igosi (bakota) ; ngundju (bapunu, vumbu)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In its juvenile form (acaulous in the understory), E. wendlandiana is easily confused with Podococcus acaulis or P. barteri because of the shape of their rhomboidal to trapezoidal leaflets. In its juvenile form, E. wendlandiana is always provided with spines (even if minute) either along the margins of the leaflets (easily detectable by running a finger over them), or at the base of the leaf, whereas species of the genus Podococcus are always completely devoid of spines. B: Cosiaux et al. (2018), Faye et al. (2014), Sunderland (2007, 2012). Bibliography
 
-Dans sa forme juvénile (acaule en sous-bois), E. wendlandiana est facilement confondu avec Podococcus acaulis ou P. barteri à cause de la forme de leurs folioles rhomboïdales à trapézoidales. Dans sa forme juvénile, E. wendlandiana est toujours pourvu d’épines (même minuscule) soit le long des marges des folioles (facilement détectables en passant le doigt), soit à la base de la feuille, alors que les espèces du genre Podococcus sont toujours totalement dépourvues d’épines. B : Cosiaux et al. (2018), Faye et al. (2014), Sunderland (2007, 2012). i B liographie
-
-Nkefor 920 ). Dessin par Lucy T. Smith, reproduit avec permission à partir de Sunderland (2012).
+Nkefor 920). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
 ## Notes
 

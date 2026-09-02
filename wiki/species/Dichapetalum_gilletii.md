@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 BRETELER, MLW 79(16) : 14-17 (1979) ; l.c. 82 (8) : 35 (1982) ; AUWP 86 (3) : 14, 17 (1986). TYPE : Zaire, Kimuenza, Gillet 1681 (lecto-, BR ; isolecto-, WAG).
 
-- D. stenophyllum Krause, Bot. Jahrb. 48: 508 (1912). TYPE: Zaïre, Kimuenza, Mildbraed 3764 (holo-, B delet.; lecto-, HBG; iso-, BM).
+- D. stenophyllum Krause, Bot. Jahrb. 48: 508 (1912). TYPE: Zaire, Kimuenza, Mildbraed 3764 (holo-, B delet.; lecto-, HBG; iso-, BM).
 
-Liane ou arbuste lianescent. Rameaux glabres ou glabrescents, sans ou avec des lenticelles en général peu visibles, plus distinctes sur les pousses orthotropes. Jeunes rameaux, pubescence tomenteuse à hirsute, poils rougeâtres à brun très pâle, puis devenant glabres avec l'âge.
+Liana or lianescent shrub. Branches glabrous or glabrescent, without or with lenticels generally scarcely visible, more distinct on orthotropic shoots. Young branches with tomentose to hirsute pubescence, hairs reddish to very pale brown, then becoming glabrous with age.
 
-Stipules assez peu visibles, triangulaires-étroites, longues de 2-6 mm, tôt caduques, pubescence apprimée.
+Stipules rather inconspicuous, narrowly triangular, 2–6 mm long, early caducous, with appressed pubescence.
 
-Feuilles. Pétiole subcylindrique, 2-6 mm, pubescent comme les jeunes rameaux. Limbe elliptique à oblong-obové, 2-3 fois plus long que large, (6) 8-16 (20) × (2) 3-7 cm ; base arrondie à cordée ; acumen aigu de 0,5-3 cm, parfois terminé par un long mucron bien visible ; dessus de la nervure I (en général un peu imprimée), hirsute, ainsi que toute la surface du limbe, en particulier sous la nervure I, et souvent aussi sur la marge ; principales nervures II, (7) 9-12 (15) paires, souvent imprimées dessus ; glandes, rares quand elles existent, petites, difficiles à voir et seulement dessous.
+Leaves. Petiole subcylindric, 2–6 mm, pubescent like the young branches. Blade elliptic to oblong-obovate, 2–3 times as long as wide, (6) 8–16 (20) × (2) 3–7 cm ; base rounded to cordate ; acute acumen 0.5–3 cm, sometimes terminated by a long, well-visible mucro ; upper surface of vein I (generally slightly impressed), hirsute, as is the entire blade surface, particularly beneath vein I, and often also on the margin ; principal veins II, (7) 9–12 (15) pairs, often impressed above ; glands, rare when present, small, difficult to see and only beneath.
 
-Inflorescences : capitale subsphérique avec pédoncule distinct parfois nettement ramifié au sommet juste au dessous du capitule ; elles sont axillaires, parfois groupées sur de jeunes et courts rameaux aphylies axillaires, ou sur la région apicale sans feuilles de certains rameaux ; pubescence tomenteuse à hirsute. Pédoncule grêle de 1-4 cm, parfois muni d'une bractée vers la moitié de sa hauteur. Bractées et bractéoles triangulaires-étroites, longues de ≤ 5mm, pubescentes. Pédicelles ≤ 3 mm, pubescents, partie supérieure ≤ 0,5 mm.
+Inflorescences : subspherical capitulum with a distinct peduncle sometimes clearly branched at the apex just below the capitulum ; they are axillary, sometimes grouped on young and short leafless axillary branches, or on the leafless apical region of certain branches ; tomentose to hirsute pubescence. Peduncle slender, 1–4 cm, sometimes bearing a bract about halfway up. Bracts and bracteoles narrowly triangular, ≤ 5 mm long, pubescent. Pedicels ≤ 3 mm, pubescent, upper part ≤ 0.5 mm.
 
-Fleurs : sépales, pétales et étamines ± étalés. Sépales dressés à étalés ou même un peu réfléchis, ovés-elliptiques à oblongs-obovés, 2,5-4 × 1-2 mm ; face externe pubescente à tomenteuse, interne pubérulente. Pétales dressés à étalés de forme générale obovée, longs de 2,5-4,5 mm, fendus jusqu'à 1 mm, avec des poils assez raides au-dessous de la fente du côté externe. Étamines dressées à lâchement étalées, longues de 4-5,5 mm, glabres ; anthères réniformes, diamètre ≈ 0,5 mm. Staminoides obdeltoïdes à trans-oblongs, 0,3 × 0,3 mm, glabres. Pistil 3-4-mère, long de 4-5,5 mm ; ovaire avec indumentum laineux dense ; style glabre ou presque, lobes 3-4 cohérents.
+Flowers : sepals, petals and stamens ± spreading. Sepals erect to spreading or even slightly reflexed, ovate-elliptic to oblong-obovate, 2.5–4 × 1–2 mm ; outer face pubescent to tomentose, inner face puberulent. Petals erect to spreading, generally obovate in shape, 2.5–4.5 mm long, split to 1 mm, with fairly rigid hairs below the slit on the external side. Stamens erect to loosely spreading, 4–5.5 mm long, glabrous ; anthers reniform, diameter ≈ 0.5 mm. Staminodes obdeltoid to transversely oblong, 0.3 × 0.3 mm, glabrous. Pistil 3–4-merous, 4–5.5 mm long ; ovary with dense woolly indumentum ; style glabrous or nearly so, lobes 3–4 coherent.
 
-Fruits 1-3-spermes, subsphériques, 2-5 cm, couverts de très nombreux poils aciculaires dressés irritants facilement caducs ; exocarpe déhiscent (?) ; mésocarpe épais de 3 mm ; endocarpe dur, ligneux, brillant et glabre à l'intérieur. Graine subellipsoïdale, ≈ 12 × 8 mm ; testa lisse, brun, glabre. - Pl. 25, p. 97.
+Fruits 1–3-seeded, subspherical, 2–5 cm, covered with very numerous acicular erect irritating hairs easily caducous ; exocarp dehiscent (?) ; mesocarp 3 mm thick ; endocarp hard, woody, shiny and glabrous within. Seed subellipsoid, ≈ 12 × 8 mm ; testa smooth, brown, glabrous. - Pl. 25, p. 97.
 
 ## Type
 
@@ -41,15 +39,11 @@ Gillet 1681, Kimuenza, Zaïre
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Congo, Zaïre
+Gabon, Congo, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues et savanes arborées
+Evergreen and semi-deciduous rainforests and wooded savannas
 
 ## Specimens examined
 

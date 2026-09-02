@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (pl. XIII et I).
 
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 20 : 209 (1950).
 
-Arbre (?); jeunes rameaux épais, fauves, pubérulents à entrenceuds courts, de 6 à 30 mm. Feuilles très coriaces, jaunemarron sur le sec, brillantes sur les deux faces. Panicules fauves, tomentelleuses, bractées glabres et rougeâtres à l'intérieur, velues dehors.
+Tree (?); young branches thick, tawny, puberulent with short internodes, 6 to 30 mm. Leaves very coriaceous, yellowish-brown when dry, shiny on both surfaces. Panicles tawny, tomentellose, bracts glabrous and reddish inside, hairy outside.
 
 ## Type
 
@@ -32,17 +30,13 @@ Zenker 2250 (P) Bipinde, Cameroun (1900)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Collections by the Forest Services made it possible to clarify that these are fairly large trees: trunk 7 m long for 50 cm diameter (de Saint-Aubin 1979). These trees, whose vernacular names are: Nkouergu, Nkonedzu, N'Konengu (Fang dialect) provide a wood named Kanda rose.
 
-Les récoltes des Services Forestiers ont permis de préciser qu'il s'agit d'arbres assez gros : fût de 7 m de long pour 50 cm de diamètre (de Saint-Aubin 1979). Ces arbres, dont les noms vernaculaires sont : Nkouergu, Nkonedzu, N'Konengu (dialecte Fang) fournissent un bois nommé Kanda rose.
+Remark: A very closely related species, not distinguished in the key, is B. grandifolia (Engler ex Stapf) Rob. et Wilcz., Bull. jard. bot. Ét. Brux. 19 : 494 (1949) = Tylostemon grandifolius Stapf, F.T.A. 6, 1 : 177 (1909) = Afrographne grandifolia Stapf, Journ. Linn. soc. 37 : 111 (1905).
 
-Remarque : Une espèce fort voisine, non distinguée dans la
+The distinction of these two species would be based on the following characters: B. Pierreana    B. grandifolia Internodes ..... short: 6–30 mm    long: more than 30 mm Petioles..... 1–2.5 cm    1–1.5 cm Panicles ..... 5–7 cm, more slender    7–12 cm Flower diameter..... 2 mm    3 mm Back of anthers..... glabrous    hairy
 
-clé, est B. grandifolia (Engler ex Stapf) Rob. et Wilcz., Bull. jard. bot. Ét. Brux. 19 : 494 (1949) = Tylostemon grandifolius Stapf, F.T.A. 6, 1 : 177 (1909) = Afrographne grandifolia Stapf, Journ. Linn. soc. 37 : 111 (1905).
-
-La distinction de ces deux espèces serait fondée sur les caractères suivants : B. Pierreana    B. grandifolia Entrenceuds ..... courts : 6-30 mm    longs : plus de 30 mm Pétioles..... 1-2,5 cm    1-1,5 cm Panicules ..... 5-7 cm, plus grêles    7-12 cm Diamètre des fleurs..... 2 mm    3 mm Dos des anthères..... glabre    velu
-
-Le bois correspondant au type est évidemment inconnu mais une récolte : Morel 54 SFMC, région du Mayombe au Moyen Congo, rapprochée par les feuilles, a fourni un bois foncé dit Kanda brun.
+The wood corresponding to the type is obviously unknown but a collection: Morel 54 SFMC, region of Mayombe in Middle Congo, approached by the leaves, yielded a dark wood called Kanda brown.
 
 ## Specimens examined
 

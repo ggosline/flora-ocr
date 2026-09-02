@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(pl. X and III).
 
-(pl. X et III).
+— R. Fouilloy and N. Hallé, Adansonia, vol. 3: 245 (1963).
 
-— R. Fouilloy et N. Hallé, Adansonia, t. 3 : 245 (1963).
-
-Arbre (?) à jeunes rameaux rouge sombre, à bourgeons aigus, velus, couleur rouille; pétiole de 5-6 mm épais de 2-3 mm, limbe papyracé à sub-coriace, légèrement discolore, dessus olivâtre, dessous brunâtre. Panicules à ramifications velues, pédoncule primaire glabre. Fruit inconnu.
+Tree (?) with dark red young branches, acute buds, pubescent, rust-colored; petiole 5–6 mm thick 2–3 mm, blade papyraceous to subcoriaceous, slightly discolorous, upper surface olivaceous, lower surface brownish. Panicles with pubescent ramifications, primary peduncle glabrous. Fruit unknown.
 
 ## Type
 
@@ -32,17 +30,15 @@ Mann, sans numéro, Gaboon River  $ 1^{o} $ lat. N. 1859-63 (K et P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A plant has been classified within this species whose floral organization and orange coloration of the floral tissues are strikingly reminiscent of the type: this is no. 8348 Le Testu. However, it possesses much more coriaceous leaves, larger ones, 20–38 cm long, 12–16 cm wide; the branches are whitish-gray with short dense pubescence; the inflorescences are larger (16 cm) and more pubescent at the base, including the primary peduncle, than at the apex.
 
-A été classée dans cette espèce une plante dont l'organisation des fleurs et la couleur orangée des tissus floraux rappellent tout à fait le type : c'est le n° 8348 Le Testu. Mais elle possède des feuilles bien plus coriaces, plus grandes, longues de 20-38 cm, larges de 12-16 cm; les rameaux sont gris blanchâtres avec pubescence rase et dense; les inflorescences sont plus grandes (16 cm) et plus velues à la base, y compris le pédoncule primaire, qu'au sommet.
+Remark: The type specimen Le Testu differs from the description of B. jabassensis only by its tepals glabrous on the inside, its shorter petioles (6–12 mm for B. jabassensis), its flowers twice as wide, its subulate style opposed to a short robust style. It would be of interest to find plants allowing these differences to be clarified or conversely to connect them by intermediates if any still exist in the region where Ledermann collected his numbers 1105 and 1107 at Jabassi, near the Wuri River, in the great forest, on rocky soil.
 
-Remarque : L'échantillon-type Le Testu, ne diffère de la description de B. jabassensis que par ses tépales glabres à l'intérieur, ses pétioles plus courts (6-12 mm pour B. jabassensis), ses fleurs deux fois plus larges, son style subulé opposé à un style court et robuste. Il serait intéressant de retrouver des plantes permettant de préciser ces différences ou au contraire de les rejoindre par des intermédiaires s'il en existe encore dans la région où Ledermann récolta ses numéros 1105 et 1107 à Jabassi, près de la rivière Wuri, dans la grande forêt, sur sol rocheux.
+PL. XI. — 1 to 4, Beilschmiedia Mannii (Meissn) Benth. et Hook. f.: 1, flowering branch, leaf 15 cm (N. Hallé 2344); 1', leaf of the type; 2, bract 6 mm; 2', fragment of cyme; 3, flower; 3', section 2 mm diam. (Mann, without number, type); 4, fruit 5 cm (Aubréville 1019). — 5 to 8, B. mannioides Rob. et Wilcz. (Jean Louis 1469): 5, flowering branch, leaf 17 cm; 5', another leaf; 6, bract 5 mm; 6', fragment of cyme; 7, flower; 7', section 2 mm diam.; 8, fruit 5 cm.
 
-PL. XI. — 1 à 4, Beilschmiedia Mannii (Meissn) Benth. et Hook. f.: 1, rameau florifère, feuille de 15 cm (N. Hallé 2344); 1', feuille du type; 2, bractée de 6 mm; 2', fragment de cyme; 3, fleur; 3', coupe de 2 mm de diam. (Mann, sans numéro, type); 4, fruit de 5 cm (Aubréville 1019). — 5 à 8, B. mannioides Rob. et Wilcz. (Jean Louis 1469) : 5, rameau florifère, feuille de 17 cm; 5', autre feuille; 6, bractée de 5 mm; 6', fragment de cyme; 7, fleur; 7', coupe de 2 mm de diam.; 8, fruit de 5 cm.
+Habitat according to Robyns and Wilczek: Sciophilous species, growing in the understory of swampy or riparian equatorial forests, primary and secondary.
 
-Habitat d'après Robyns et Wilczek : Espèce sciaphile, croissant dans le sous-bois des forêts équatoriales marécageuses ou ripicoles, primaires et secondaires.
-
-L'aire de B. Mannii est la plus vaste du genre parmi les espèces africaines; d'après Robyns et Wilczek elle s'étend de la Sierra Leone au Congo ex-belge en passant par le Libéria, la Côted'Ivoire, le Ghana, le Cameroun, l'Oubangui-Chari, le Gabon.
+The range of B. Mannii is the most extensive of the genus among African species; according to Robyns and Wilczek it extends from Sierra Leone to the former Belgian Congo passing through Liberia, Ivory Coast, Ghana, Cameroon, Oubangui-Chari, Gabon.
 
 ## Specimens examined
 

@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree (7–10 m tall) or spiny shrub; branchlets brownish to greyish, pubescent to glabrescent; spines straight or slightly incurved.
 
-Arbre (7-10 m de haut) ou arbusté épineux ; rameaux brunâtres à gris-sâtes, pubescents à glabrescents ; épines droites ou légèrement incurvées.
+Leaves with linear, ciliate stipules, often caducous; petiole 0.5–1 cm long, pubescent; blade oval, elliptic or obovate, ± obtuse to rounded at base, acuminate at apex, 5–9 × 3–6 cm, crenate-dentate, with teeth bearing a gland (0.5 mm in diameter) on their lower face, pubescent; secondary veins 4–5 pairs.
 
-Feuilles à stipules linéaires, ciliées, souvent caduques ; pétiole de 0,5-1 cm de long, pubescent ; limbe ovale, elliptique ou obovale, ± obtus à arrondi à la base, acuminé au sommet, 5-9 × 3-6 cm, crénelé-denté, à dents munies d'une glande (de 0,5 mm de diamètre) sur leur face inférieure, pubescent ; nervures secondaires 4-5 paires.
+Flowers solitary, axillary, with pedicel 1–1.5 mm long, pubescent; sepals 3, suborbicular, 9–12 × 9–12 mm, pubescent externally; petals 10–12, obovate, 20–30 × 10 mm, ciliate; stamens numerous (80–100), with filament 5–8 mm long, glabrous; ovary glabrous, with 5–6 pluriovulate placentas; style glabrous, 6–7 mm long, divided into 5–6 stigmatic branches.
 
-Fleurs solitaires, axillaires, à pédicelle de 1-1,5 mm de long, pubescent ; sépales 3, suborbiculaires, 9-12 × 9-12 mm, pubescents extérieurement ; pétales 10-12, obovales, 20-30 × 10 mm, ciliés ; étamines nombreuses (80-100), à filet de 5-8 mm de long, glabre ; ovaire gabre, à 5-6 placentas pluriovulés ; style glabre, de 6-7 mm de long, divisé en 5-6 branches stigmatiques.
-
-Fruits : capsules difficilement déhiscentes, lisses, subglobuleuses (de 3,5-4,5 cm de diamètre), glabres, à 6-7 lignes méridiennes ; graines ovoïdes, aplaties, glabres, 4-4,5 × 2-2,5 mm. - Pl. 12, p. 45.
+Fruits: capsules difficultly dehiscent, smooth, subglobose (3.5–4.5 cm in diameter), glabrous, with 6–7 meridional lines; seeds ovoid, flattened, glabrous, 4–4.5 × 2–2.5 mm. – Pl. 12, p. 45.
 
 ## Type
 
@@ -33,15 +31,11 @@ Mann 829, Sierra Leone (holo-, K)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Gabon, Congo, Zaïre
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gabon, Congo, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses
+Dense forests
 
 ## Specimens examined
 

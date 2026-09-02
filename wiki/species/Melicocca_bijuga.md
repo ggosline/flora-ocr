@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious tree 5–15 m tall, branched, with hard wood; young branches rounded, brownish, internodes 1–3 cm. Leaves 2(–3)-jugate; petiole ca. 6 cm, and rachis ca. 3 cm, flattened or winged; leaflets entire, subsessile (petiolule 2 mm), glabrous, 8–11 × 4–5 cm, with ca. 7 pairs of veins; a cilium 3–5 mm long terminates the rachis.
 
-Arbre dioïque de 5-15 m, rameux, à bois dur; jeunes rameaux arrondis, brunâtres, entrenœuds de 1-3 cm. Feuilles 2(-3)-juguées; pétiole d'env. 6 cm, et rachis, env. 3 cm, aplatis ou ailés; folioles entières, subsessiles (pétiolule 2 mm) glabres, de 8-11 × 4-5 cm, à env. 7 paires de nervures; un cil de 3-5 mm termine le rachis.
-
-Inflorescences en grappes composées, l'axe principal d'env. 15 cm porte 3-5 rameaux de longueur décroissante, de 10-15 cm; les inflorescences mâles sont plus ramifiées que les femelles souvent simples. Fleurs isolées avec bractéoles, pédicelle 6 mm, largeur des fleurs 6-8 mm; 4 sépales dont deux externes plus petits, soudés jusqu'à moitié; 4 pétales de longueur doublée des sépales, velus intérieurement, sans écaille; disque orbiculaire ± 4-lobé, jaune; 8 étamines, glabres, anthères extorses; ovaire glabre, fusiforme, à 2(-3) loges, stigmate en disque aplati, ovules ascendants. Fruit bacciforme noir, ellipsoïde, long de 12-20 mm, avec une graine dressée. Embryon presque droit à cotylédons plan-convexe parallèles à la cloison, radicule basilaire ponctiforme.
+Inflorescences in compound racemes, the main axis ca. 15 cm bearing 3–5 branches of decreasing length, 10–15 cm; the male inflorescences are more branched than the female ones, which are often simple. Flowers solitary with bracteoles, pedicel 6 mm, flower width 6–8 mm; 4 sepals of which two external ones smaller, fused to the middle; 4 petals twice the length of the sepals, hairy within, without a scale; disk orbicular ± 4-lobed, yellow; 8 stamens, glabrous, anthers extorse; ovary glabrous, fusiform, with 2(–3) locules, stigma in a flattened disk, ovules ascending. Fruit berry-like, black, ellipsoid, 12–20 mm long, with one erect seed. Embryo nearly straight with plan-convex cotyledons parallel to the partition, radicle basal punctiform.
 
 ## Specimens examined
 

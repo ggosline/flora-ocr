@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, slender, in tufts, with a weak root system, rarely with a more robust base; stems 10–50 cm long, angular. Leaf: sheath greenish;
 
-Herbe annuelle , grêle, en touffe, avec un système racinaire faible, rarement avec une base plus robuste ; tiges longues de 10‒50 cm, anguleuses. Feuille : gaine verdâtre ;
-
-B. Base d’un limbe montrant l’orifice de la gaine. B. Section d’une tige. – C. Section du limbe. – D. – C. Jeune tige fertile. – D. Épillet. – E. Épillet Inflorescence. – E. Épillet. – F. Glume. – G. Fleur. mature avec des glumes détachées. – F. Fruit avec – H. Fruit avec filet et style persistants. Dessin filets persistants et style détaché. Dessin original original par Richard W. Haines ©. par Richard W. Haines ©. ligule formée d’une rangée de poils ; limbe de 5‒15 cm × 1‒2 mm, souvent fanées sur la plante adulte. Inflorescence habituellement formée d’un épillet solitaire terminant la tige , plus rarement avec 1‒2 épillets pédonculés supplémentaires ; bractées involucrales 2, courtes. Épillet ovale, de 4‒8 × 3‒5 mm , mais atteignant 15 mm à la fructification ; glumes longues d’environ 3 mm , brun très pâle à jaune paille, glabres , à plusieurs nervures, la nervure centrale atteignant juste le sommet arrondi . Fleur : style à 2 branches ciliées. Akène obovoïde, d’environ 1,5 × 1,2 mm, brun, à surface finement réticulée, à cellules isodiamétriques , base à gynophore long de 0,3‒0,5 mm.
+B. Base of a blade showing the sheath opening. B. Section of a stem. – C. Section of the blade. – D. – C. Young fertile stem. – D. Spikelet. – E. Spikelet Inflorescence. – E. Spikelet. – F. Glume. – G. Flower. mature with glumes detached. – F. Fruit with – H. Fruit with persistent filaments and style. Drawing filaments persistent and style detached. Drawing original original by Richard W. Haines ©. by Richard W. Haines ©. ligule formed of a row of hairs; blade 5–15 cm × 1–2 mm, often withered on the adult plant. Inflorescence usually formed of a solitary spikelet terminating the stem, more rarely with 1–2 additional pedunculate spikelets; involucral bracts 2, short. Spikelet ovate, 4–8 × 3–5 mm, but reaching 15 mm at fruiting; glumes about 3 mm long, very pale brown to straw yellow, glabrous, with several nerves, the central nerve just reaching the rounded apex. Flower: style with 2 ciliate branches. Achene obovoid, about 1.5 × 1.2 mm, brown, with finely reticulate surface, with isodimetric cells, base with gynophore 0.3–0.5 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Inde et en Malaisie, rare et peut-être introduite en Afrique ; rare au Gabon, trouvée seulement dans l’Estuaire, l’Ogooué-Ivindo et l’OgoouéMaritime (3 récoltes)
+widely distributed in India and Malaysia, rare and perhaps introduced in Africa; rare in Gabon, found only in the Estuary, Ogooué-Ivindo and Ogooué-Maritime (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sol marécageux, principalement dans des habitats perturbés ; à basse altitude
+on marshy soil, mainly in disturbed habitats; at low altitude
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ ditch fimbry (angl.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Note taxonomique : très proche de F. ferruginea, mais elle s’en distingue facilement par son épillet solitaire. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972).
+Taxonomic note: very close to F. ferruginea, but easily distinguished from it by its solitary spikelet. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972).
 
 ## Notes
 

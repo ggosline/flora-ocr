@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 35.1 Maltebrunia le-testui (Koechlin) C.E. Hubb.
 
 Gram. Cam. : 55, Pl. 11 ; Gram. CB. : 85. – Potamophila le-testui Koechlin – Fl. Gab. : 243, Pl. 40.

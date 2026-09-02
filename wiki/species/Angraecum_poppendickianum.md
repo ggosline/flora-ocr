@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Feuilles nombreuses, environ 6 x 4 mm, oblongues-elliptiques, falciformes, obtuses, comprimées latéralement, avec une cannelure sur la face supérieure presque jusqu'au sommet. Inflorescence raccourcie, 1-flore. Fleur petite, blanche. Sépale dorsal oblong-lancéolé, subaigu. Pétales oblongs-lancéolés. Sépales latéraux obliquement elliptiques-vés, subaigus à brièvement apicalés. Labelle < 3 x 3 mm, nettement trilobé, profondément concave ; lobe médian oblong-lancéolé à ové-tri-angulaire, aigu, recourbé ; lobes latéraux obliques rhombiformes. Éperon 7 mm, sigmoïde, plus long que le pédicelle et l'ovaire ou au moins de même longueur, aigu. – Pl. 219, p. 459.
+Leaves numerous, approximately 6 × 4 mm, oblong-elliptic, falciform, obtuse, laterally compressed, with a groove on the upper surface almost to the apex. Inflorescence shortened, 1-flowered. Flower small, white. Dorsal sepal oblong-lanceolate, subacute. Petals oblong-lanceolate. Lateral sepals obliquely elliptic-obovate, subacute to briefly apiculate. Labellum < 3 × 3 mm, distinctly trilobed, deeply concave; median lobe oblong-lanceolate to ovate-triangular, acute, recurved; lateral lobes oblique rhombiform. Spur 7 mm, sigmoid, longer than the pedicel and ovary or at least of the same length, acute. – Pl. 219, p. 459.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République centrafricaine
+Cameroon, Gabon, Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphytic in forest
 
-alt. inconnue. Épiphyte en forêt
+MATERIAL STUDIED (Map 99):
 
-MATÉRIEL ÉTUDIÉ (Carte 99) :
-
-Hallé 872, Monts de Cristal, Méla (fl. Août), P!. Le Testu 5161, Mouila (fl. Juin.), P!. Thollon 4065, s.loc. (fl. Août), P!.
+Hallé 872, Monts de Cristal, Méla (fl. August), P!. Le Testu 5161, Mouila (fl. June), P!. Thollon 4065, s.loc. (fl. August), P!.
 
 3. Sect. Conchoglossum Schltr.
 
-Beih. Bot. Centralbl. 36 : 157 (1918).
+Beih. Bot. Centralbl. 36: 157 (1918).
 
-Inflorescence 1-flore. Pédoncule plus court que les entrenœuds, portant seulement à la base 1 ou 2 gaines apprimées mais non comprimées. Fleur généralement petite. Éperon généralement aussi long que l'ovaire ou plus court, très rarement le dépassant.
+Inflorescence 1-flowered. Peduncle shorter than the internodes, bearing only at the base 1 or 2 appressed but not compressed sheaths. Flower generally small. Spur generally as long as the ovary or shorter, very rarely exceeding it.
 
 ## Figures
 

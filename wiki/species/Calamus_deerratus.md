@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Trans. Linn. Soc. London 24(3) : 429 (1864). C. barteri Drude Bot. Jahrb. Syst. 21 : 111 (1895). C. heudelotii Becc. & Drude Bot. Jahrb. Syst. 21 : 112 et 134 (1895). C. leprieurii Becc. Rec. Bot. Surv. India 2 : 200 (1902). C. perrottetii Becc. Rec. Bot. Surv. India 2 : 200 (1902). C. akimensis Becc. Ann. Roy. Bot. Gard. (Calcutta) 11(1) : 162 (1908). C. falabensis Becc. Ann. Roy. Bot. Gard. (Calcutta) 11(1) : 157 (1908). Liane ; stipe jusqu’à 20 m, × 1–3 cm de diamètre. Feuille : gaine foliaire densément à faible ment épineuse, épines jusqu’à 3 cm ; ochréa en forme de langue, jusqu’à 12 cm de longueur, desséchée, papyracée, épineuse ; pétiole jusqu’à 20 cm, armé d’épines atteignant 3 cm ; rachis jusqu’à 1,6 m, triangulaire en section, épineux vers le sommet ; folioles en ± 30 paires, les basales équidistantes, les distales groupées par 3 ou 6, à limbe linéaire-lancéolé, jusqu’à 35 × 2 cm, sommet légèrement acuminé à apiculé ; flagelle jusqu’à 3,5 m, jusqu’à 4 mm de diamètre à la base, armé d’épines courtes et recourbées . Inflorescence mâle et femelle similaires, jusqu’à 3,5 m de longueur, avec 1 à 4 inflorescences partielles, insérées à côté d’un flagelle terminal ; axes épineux ; bractées jusqu’à 70 cm ; inflorescences partielles jusqu’à 40 cm de longueur, chacune jusqu’à 30 rameaux florifères distiques, de ± 7 cm de longueur. Fleur mâle : calice 4 mm de longueur, tubulé sur 3 mm, 3-lobé ; corolle tubulée sur 1 mm, lobes jusqu’à 7 × 2 mm ; étamines jusqu’à 4 mm de longueur, filets jusqu’à 3 mm. Fleur mâle stérile semblable à la fleur fertile mais plus courte et étroite. Fleur femelle : calice à lobes de ± 3 mm de longueur ; corolle à lobes de ± 5 × 2 mm ; staminodes épipétales, petits, aplatis ; ovaire ± 5 × 2,5 mm ; stigmates ± 1 mm de longueur. Fruit jusqu’à 1,5 × 1 cm à maturité, avec (15–)17 à 20 rangés verticales d’écailles, jaune pâle à marron claire, à 1 graine. Graine latéralement aplatie, ± 9 × 8 × 5 mm.
+Trans. Linn. Soc. London 24(3) : 429 (1864). C. barteri Drude Bot. Jahrb. Syst. 21 : 111 (1895). C. heudelotii Becc. & Drude Bot. Jahrb. Syst. 21 : 112 et 134 (1895). C. leprieurii Becc. Rec. Bot. Surv. India 2 : 200 (1902). C. perrottetii Becc. Rec. Bot. Surv. India 2 : 200 (1902). C. akimensis Becc. Ann. Roy. Bot. Gard. (Calcutta) 11(1) : 162 (1908). C. falabensis Becc. Ann. Roy. Bot. Gard. (Calcutta) 11(1) : 157 (1908). Liane; stem up to 20 m, × 1–3 cm in diameter. Leaf: leaf sheath densely to sparsely spiny, spines up to 3 cm; ochrea tongue-shaped, up to 12 cm in length, desiccated, papyraceous, spiny; petiole up to 20 cm, armed with spines reaching 3 cm; rachis up to 1.6 m, triangular in section, spiny towards the apex; leaflets in ± 30 pairs, the basal ones equidistant, the distal ones grouped by 3 or 6, with linear-lanceolate blade, up to 35 × 2 cm, apex slightly acuminate to apiculate; flagellum up to 3.5 m, up to 4 mm in diameter at the base, armed with short and recurved spines. Male and female inflorescence similar, up to 3.5 m in length, with 1 to 4 partial inflorescences, inserted beside a terminal flagellum; axes spiny; bracts up to 70 cm; partial inflorescences up to 40 cm in length, each with up to 30 distichous flowering branches, of ± 7 cm in length. Male flower: calyx 4 mm in length, tubular for 3 mm, 3-lobed; corolla tubular for 1 mm, lobes up to 7 × 2 mm; stamens up to 4 mm in length, filaments up to 3 mm. Sterile male flower similar to the fertile flower but shorter and narrower. Female flower: calyx with lobes of ± 3 mm in length; corolla with lobes of ± 5 × 2 mm; epipetalous staminodes, small, flattened; ovary ± 5 × 2.5 mm; stigmas ± 1 mm in length. Fruit up to 1.5 × 1 cm at maturity, with (15–)17 to 20 vertical rows of scales, pale yellow to light brown, 1-seeded. Seed laterally flattened, ± 9 × 8 × 5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de l’Afrique de l’Ouest à l’Afrique centrale ; au Gabon, assez rare (ou plus vraisembla blement rarement collecté) et connu de l’Estuaire, de l’Ogooué-Ivindo (observation personnelle) et du Woleu-Ntem. Statut de conservation : Préoccupation mineure (LC)
+from West Africa to Central Africa; in Gabon, fairly rare (or more probably rarely collected) and known from Estuaire, Ogooué-Ivindo (personal observation) and Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-communément trouvé en forêt marécageuse ou riveraine et en galeries forestières ; jusqu’à 720 m d’altitude
+commonly found in swamp forest or riparian forest and forest galleries; up to 720 m in altitude
 
 ## Vernacular names
 
@@ -39,15 +33,11 @@ rotin (fr.) ; rattan (angl.) ; edjenga (bakota) ; nzing (fang)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La canne est utilisée en vannerie, mais seulement en l’absence d’autres espèces de rotin plus prisées
+The cane is used in basketry, but only in the absence of other, more prized rattan species
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de liane, facilement distincte par l’absence de cirrhe à l’extrémité des feuilles, mais la présence d’un long flagelle [inflorescence modifiée] à l’aisselle des feuilles. B : Dransfield (1986, 2010), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Sun i B liographie derland (2007, 2012)
+Liane species, easily distinguished by the absence of a cirrus at the leaf apex, but the presence of a long flagellum [modified inflorescence] in the leaf axil. B: Dransfield (1986, 2010), Pajarón et al. (2015), Raponda-Walker & Sillans (1961), Sun derland (2007, 2012)
 
 ## Notes
 

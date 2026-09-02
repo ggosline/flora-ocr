@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Herb. Reichenbach 7916, s. loc., holo-W-R!, iso-K!.
 
 – Listrostachys urostachya Kraenzl., Bot. Jahrb. Syst. 22 : 22 (1895).
@@ -31,27 +29,23 @@ tags: [species, generated]
 
 – Chamaeangis urostachya (Kraenzl.) Schltr., Beih. Bot. Centralbl. 36 : 109 (1918).
 
-Tige 20-46 cm. Feuilles 10-24 x 1,8-3,1 cm, bien distribuées le long de la tige, blancéolées à oblongues-oblancéolées, légèrement falciformes. Inflorescence 8-28 cm, multiflore, pendante ou étalée. Fleurs 2-6 à chaque nœud, petites, jaune-vert à jaunes. Sépale dorsal elliptique à largement obové, obtus. Pétales elliptiques, orbiculaires à largement obovés, obtus. Sépales latéraux obliquement obovés, obtus. Labelle 1,7-2 x 1,3-1,5 mm, orbiculaire, elliptique à elliptique-ové, obtus à brièvement apiculé. Éperon 5-11 mm, incurvé, étroitement cylindrique, obtus, très peu renflé au sommet, s'il l'est, tordu ou non. – Pl. 201, p. 429.
+Stem 20–46 cm. Leaves 10–24 × 1.8–3.1 cm, well distributed along the stem, lanceolate to oblong-oblanceolate, slightly falcate. Inflorescence 8–28 cm, multiflorous, pendulous or spreading. Flowers 2–6 at each node, small, yellow-green to yellow. Dorsal sepal elliptic to broadly obovate, obtuse. Petals elliptic, orbicular to broadly obovate, obtuse. Lateral sepals obliquely obovate, obtuse. Labellum 1.7–2 × 1.3–1.5 mm, orbicular, elliptic to elliptic-ovate, obtuse to briefly apiculate. Spur 5–11 mm, incurved, narrowly cylindric, obtuse, very slightly inflated at the apex, if at all, twisted or not. – Pl. 201, p. 429.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Cameroun, Gabon, Congo, République centrafricaine, Zaire, Rwanda, Burundi, Ouganda, Kenya, Tanzania, Angola, Malawi
+Sierra Leone, Liberia, Cameroon, Gabon, Congo, Central African Republic, Zaire, Rwanda, Burundi, Uganda, Kenya, Tanzania, Angola, Malawi
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–2,150 m. Epiphytic in primary and secondarized forest, 2–5 m above the ground, observed on Bridelia micrantha and Sapium ellipticum
 
-alt. 900-2 150 m. Épiphyte en forêt primaire et secondarisée, 2-5 m ausses du sol, observé sur Bridelia micrantha et Sapium ellipticum
-
-MATÉRIEL ÉTUDIÉ (Carte 91) :
+MATERIAL EXAMINED (Map 91) :
 
 Christy s.n., Gabon? (st.), W-R!
 
-Floret & Louis 1512 & 1549, région de l'Estuaire, Ekouk, environ 0° 10' S, 10° 15' E (fl. Sept.), P!.
+Floret & Louis 1512 & 1549, Estuaire region, Ekouk, approximately 0° 10' S, 10° 15' E (fl. Sept.), P!.
 
-Le Testu 8948, circonscription du Djoua, bords de la Liboumba à Kemboma (fl. Oct.), P!.
+Le Testu 8948, Djoua district, banks of the Liboumba at Kemboma (fl. Oct.), P!.
 
 ## Figures
 

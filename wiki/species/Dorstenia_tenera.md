@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in DC., Prodr. 17: 271 (1873); ENGL., Mon. Afr. Pfl. 1, Moraceae: 12 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 35 (1916).
 
-Herbes à rhizomes rampants, glabres ou avec des poils recourbés, épars. Tiges ascendantes, hautes de 40-100 cm, glabres à éparsement pubérulentes avec des poils petits, en forme de dôme ou uncinés, ou densément pubérulentes avec de longs poils blancs, gros, recourbés,
+Herbs with creeping rhizomes, glabrous or with scattered curved hairs. Ascending stems, 40–100 cm tall, glabrous to sparsely puberulent with small, dome-shaped or uncinate hairs, or densely puberulent with long, thick, white, curved hairs, mixed with short white uncinate hairs scattered; internodes 1–5 (–7) cm long and 2–5 mm thick; stems sometimes constricted at the nodes. Leaves spirally arranged or nearly distichous. Blade elliptic-oblong to lanceolate, widest at the middle or above, 8–22 × 3.5–8.5 cm, chartaceous; apex acute to (gradually) acuminate, often with a subobtuse acumen; base narrowing to become cuneate or subobtuse; margin sinuate or with small to large irregular coarse teeth toward the apex; upper surface glabrous; lower surface glabrous or puberulent with small white straight and uncinate hairs, often mixed on the veins with longer and thicker hairs; (6–) 8–12 pairs of secondary veins; midvein and secondary veins impressed above, prominent below. Petiole 5–15 (–30) mm long and ca. 1.5 mm thick, glabrous or with indumentum similar to that of the stem. Stipules caducous or subpersistent, generally subulate, (1–) 4–10 mm long, with a few small curved hairs; sometimes stipules indistinct.
 
-mêlés à de courts poils blancs uncinés, épars ; entre-nœuds longs de 1-5 (-7) cm et épais de 2-5 mm ; tiges parfois resserrées aux nœuds. Feuilles spiralées ou presque distiques. Limbe elliptique-oblong à lancéolé, plus large au milieu ou au-dessus, 8-22 × 3,5-8,5 cm, chartacé ; apex aigu à (progressivement) acuminé, avec souvent un acumen subobtus ; base se rétrécissant pour devenir cunéee ou subobtuse ; marge sinuée ou avec des dents grossières irrégulières, petites à grosses vers le sommet ; face supérieure glabre ; face inférieure glabre ou pubérulente avec de petits poils blancs droits et uncinés, souvent mêlés sur les nervures à des poils plus longs et plus gros ; (6-) 8-12 paires de nervures secondaires ; nervure médiane et nervures secondaires imprimées dessus, proéminentes dessous. Pétiole long de 5-15 (-30) mm et épais de 1,5 mm, glabre ou avec un indumentum semblable à celui de la tige. Stipules caduques ou subpersistantes, généralement subulées, longues de (1-) 4-10 mm, avec quelques petits poils recourbés ; parfois stipules indistinctes.
+Inflorescences solitary or in pairs. Peduncle 5–40 (–55) mm long and ca. 1 mm in diameter, glabrous or with small dome-shaped to elongate straight white hairs scattered, or rather densely puberulent with small straight white hairs, mixed with thick white curved hairs that are longer and more scattered. Receptacle discoid and flat to strongly convex; receptacle and fertile surface suborbicular or multiangular and sometimes irregularly stellate, 6–15 mm in diameter; margin absent or sometimes present and then 0.5–1 mm wide; primary appendages (3–) 4–12, of quite different lengths, 3–15 (–22) × 0.5–1.5 mm, linear, often reflexed, enlarged at the apex; sometimes between them ca. 1 to 5 tooth-like appendages, reaching 1 mm; upper surface of the margin and appendages glabrous or with small dome-shaped to thinner straight hairs; lower surface of the receptacle and appendages subglabrous or with small white fairly dense straight to uncinate hairs, especially on the radial ribs, sometimes prominent, which extend into the appendages, mixed with long white curved thick hairs scattered to dense. Flowers numerous; perianth trilobate, ca. 0.75 mm in diameter; stamens 3 with filaments 0.25–0.75 (–1) mm long and anthers ca. 0.3 × 0.3 mm, caducous, with connective almost as wide as the locules. Female flowers 5–10, with conical hairs on the perianth; tubular perianth ca. 0.6 mm high and 0.5 mm in diameter, or disciform perianth, ca. 0.2 mm high and 0.5 mm in diameter; style reaching 0.5 (–0.75) mm; stigmas 2, ca. 0.2–0.3 mm, divergent at anthesis or divaricate.
 
-Inflorescences solitaires ou par paires. Pédoncule 5-40 (-55) mm de longueur et env. 1 mm de diamètre, glabre ou bien avec de petits poils en forme de dôme à allongés, droits et blancs, épars, ou bien encore assez densément pubérulent avec de petits poils blancs droits, mêlés à de gros poils blancs recourbés, plus longs et plus épars. Réceptacle discoide et plan à fortement convexe ; réceptacle et surface florifère suborbiculaires ou multiangulaires et parfois irrégulièrement étoilés, de 6-15 mm de diamètre ; marge absente ou parfois présente et alors large de 0,5-1 mm ; appendices primaires (3-) 4-12, de longueurs assez différentes, 3-15 (-22) × 0,5-1,5 mm, linéaires, souvent réfléchis, élargis au sommet ; parfois entre eux env. 1 à 5 appendices dentiformes, atteignant 1 mm ; face supérieure de la marge et des appendices glabre ou avec de petits poils en dôme à plus minces et droits ; face inférieure du réceptacle et des appendices subglabre ou avec de petits poils blancs assez denses, droits à uncinés, surtout sur les côtes radiales, parfois proéminentes, qui se prolongent dans les appendices, mêlés à de longs poils blancs recourbés, gros, épars à denses. Fleurs à nombreuses ; périanthe trilobé, d'env. 0,75 mm de diamètre ; étamines 3 à filaments longs de 0,25-0,75 (-1) mm et anthères d'env. 0,3 × 0,3 mm, caduques, à connectif presque aussi large que les loges. Fleurs ♀ 5-10, avec des poils coniques sur le périanthe ; périanthe tubulaire d'env. 0,6 mm de hauteur et 0,5 mm de diamètre, ou périanthe disciforme, d'env. 0,2 mm de hauteur et 0,5 mm de diamètre ; style atteignant 0,5 (-0,75) mm ; stigmates 2, d'env. 0,2-0,3 mm, divergeants à l'anthèse ou divariqués.
-
-Noyau d'env. 3 mm de diamètre, lisse.
+Stone ca. 3 mm in diameter, smooth.
 
 ## Type
 
@@ -34,15 +30,13 @@ Mann 1776, Rio Muni, baie de Corisco, Mt John (holo-, K ; iso-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In this species, 2 ± distinct varieties can be recognized by differences in indumentum but especially by the size of the female flowers and the length of the style.
 
-Dans cette espèce, 2 variétés ± distinctes peuvent être reconnues par des différences dans l'indumentum mais surtout par la taille des fleurs ♀ et la longueur du style.
+KEY TO THE VARIETIES
 
-CLÉ DES VARIÉTÉS
+1. Stems and petioles with numerous, long, curved hairs; no secondary appendage (or 1); female flower with tubular perianth; style exceeding the perianth ... var. tenera.
 
-1. Tiges et pétioles à poils nombreux, longs, recourbés ; pas d'appendice secondaire (ou 1) ; fleur ♀ à périanthe tubulaire ; style supérieur au périanthe ... var. tenera.
-
-1'. Tiges et pétioles presque glabres ou éparsement pubescents à poils petits en dôme ou uncinés ; 1-5 appendices secondaires ; fleur ♀ à périanthe discoïde ; style inférieur au périanthe var. obtusibracteata.
+1'. Stems and petioles almost glabrous or sparsely pubescent with small dome-shaped or uncinate hairs; 1–5 secondary appendages; female flower with discoid perianth; style shorter than the perianth ... var. obtusibracteata.
 
 ## Figures
 

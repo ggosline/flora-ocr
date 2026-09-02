@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, ± hirsute, branched in the floral zone, erect, 0.50 to 1 m tall; branches 4-angular finely winged. Leaves sessile to subsessile, linear-elliptic, subacute at the apex, ± 1.5 × 8 cm; dense soft setae on both surfaces; 3 veins; margins moderately sclerotic due to the basal adherence of the cilia.
 
-Herbe annuelle, ± hirsute, ramifiée dans l'étage floral, dressée, de 0,50 à 1 m; rameaux 4-angulaires finement ailés. Feuilles sessiles à subsesiles, linéaires-elliptiques, subaiguës au sommet, ± 1,5 × 8 cm; soies denses et molles sur les 2 faces; 3 nervures; marges modérément scléreuses par la base adhérente des cils.
+Inflorescences terminal, pluriflorous cymes, ± contracted, or lax, linear and reaching up to 20 cm; bracts membranous, glabrescenct on the back, ciliate, ovate, ± 2 × 3 mm, tardily deciduous. Flowers hirsute with setae often purplish and reaching 5–10 mm; pedicel 1 to 2 mm; hypanthium oblong-campanulate, 3 × 4 mm, emergences regularly distributed on the veins, those at the base scutelliform and pectinate, those at the top stipitate and stellate, the intersepalar ones reaching up to 2 mm, sometimes also a few simple scattered setae; sepals oblong, 2 × 4 mm, glabrous on the back, ciliate, slightly asymmetric, obtuse and stellate at the apex with setae longer than themselves. Petals mauve or pink, obovate, ± 1.5 cm. Stamens weakly dimorphic in Gabon, the androphore being little but almost equally developed on both whorls; normally the whorls are different and discolorous: the outer ones with subulate anther 7 mm; androphore curved 6 mm, appendage 1 mm, ± laminate, emarginate or bifid, filament 6.5 mm; the inner ones with subulate anther 6 mm; androphore 0.4 mm, 2-tuberculate; filament 6 mm. Ovary truncate-conical, glabrescenct or with a few setae on the dehiscence lines; peristyle collar membrano-setulose; style 7 mm; placentas ascending, stipitate on the lower half of the locules.
 
-Inflorescences sommitales, cymes pluriflores, ± contractées, ou détendues, linéaires et pouvant atteindre 20 cm; bractées membraneuses, glabrescentes sur le dos, ciliées, ovales, ± 2 × 3 mm, tardivement caduques. Fleurs hirsutes par des soies souvent pourpres et pouvant atteindre 5-10 mm; pédicelle 1 à 2 mm; hypanthe oblongo-campanulé, 3 × 4 mm, émergences régulièrement réparties sur les nervures, celles du bas scutelliformes et pectinées, celles du haut stipitées et stellatées, les intersépalaires pouvant atteindre 2 mm, parfois aussi quelques soies simples éparses; sépales oblongs, 2 × 4 mm, glabres sur le dos, ciliés, légèrement dissymétriques, obtus et stellatés à l'apex par des soies plus longues qu'eux. Pétales mauves ou roses, obovales, ± 1,5 cm. Étamines peu dimorphes au Gabon, le pédoconnectif étant peu, mais presque également, développé sur les deux verticilles; normalement les verticilles sont différents et discolores : les externes à anthère subulée de 7 mm; pédoconnectif arqué de 6 mm, appendice 1 mm, ± laminé, échancré ou bifide, filet 6,5 mm; les internes à anthère
-
-subulée de 6 mm; pédoconnectif 0,4 mm, 2-tuberculé; filet 6 mm. Ovaire tronconique, glabrescent ou quelques soies sur les lignes de déhiscence; collerette péristyle membrano-sétuleuse; style 7 mm; placentas ascendants, stipités sur la moitié inférieure des loges.
-
-Fruit à sépales et émergences intersépalaires caducs, ovo-urcéolé,  $ 0.5 \times 1 \, \text{cm} $, capsule incluse, tronconique 5-côtelée. Graines  $ 0.5 \, \text{mm} $. — Pl. 2, p. 11.
+Fruit with sepals and intersepalar emergences deciduous, ovoid-urceolate, 0.5 × 1 cm, capsule included, truncate-conical 5-ribbed. Seeds 0.5 mm. — Pl. 2, p. 11.
 
 ## Type
 
@@ -33,9 +29,7 @@ Irving 119, Barter 1025, Nigeria (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce soudano-zambézienne, avec variétés régionales, et souvent des formes osbeckioïdes (fleurs 4-mères homostaminées) sur des substrats pauvres. Au Gabon elle n'est connue que de deux pointements rocheux. Ces populations isolées sont caractérisées par des étamines homomorphes, mais non réduites. Toutefois, un taxon variétal ne serait pas justifié dans l'état actuel de nos connaissances.
+Sudanian-Zambezian species, with regional varieties, and often with osbeckioid forms (4-merous homostaminate flowers) on poor substrates. In Gabon it is known only from two rocky outcrops. These isolated populations are characterized by homomorphic but not reduced stamens. However, a varietal taxon would not be justified in the current state of our knowledge.
 
 ## Specimens examined
 

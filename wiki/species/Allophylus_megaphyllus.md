@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sparsely branched shrub; large leaves with short petioles (1–3.8 cm); petiolules of 5 mm; limb with 4–5 teeth of 0.2 mm at the apex, the lower veins being looped.
 
-Arbuste peu rameux; feuilles grandes à pétioles courts (1-3,8 cm); pétioules de 5 mm; limbe à 4-5 dents de 0,2 mm, au sommet, les nervures inférieures étant bouclées.
-
-Inflorescences portant de nombreuses cymules stipitées; fleurs blanches.
+Inflorescences bearing numerous stipitate cymules; flowers white.
 
 ## Type
 
@@ -43,11 +41,9 @@ Inflorescence de 1,5-3 cm.
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The specimens cited by HUTCHINSON & DALZIEL come from Nigeria: Talbot 447, 448; Ejiofor FHI 21872; Latilho FHI 31873.
 
-Les échantillons cités par HUTCHINSON & DALZIEL proviennent du Nigeria : Talbot 447, 448; Ejiofor FHI 21872; Latilho FHI 31873.
-
-A rechercher au Cameroun.
+To be sought in Cameroon.
 
 ## Notes
 

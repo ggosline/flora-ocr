@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant 30 m de longueur ou plus ; rameaux à pubescence brun rouille . Feuille : Spwlroh GH PP GHQVpPHQW FRXYHUW GH SRLOV VLPSOHV HW UDPL¿pV DWWHLJQDQW PP GHVVXVDYHFSOXVLHXUVFROOpWqUHVOLPEHHOOLSWLTXHjRERYDOH±IRLVDXVVLORQJTXHODUJH de 3–14 × 1,3–5,9 cm, cunéé à arrondi à la base, généralement acuminé au sommet, couvert GHTXHOTXHVSRLOVVLPSOHVHWPRLQVVRXYHQWUDPL¿pVHWDWWHLJQDQWPPVXUWRXWOHORQJGHV nervures et le bord, luisant, surtout dessus, vert foncé dessous ; nervures secondaires 4 à 10 paires, nervation tertiaire peu visible, réticulée ; domaties absentes ou formées d’une touffe de poils simples . ,QÀRUHVFHQFH de 2–7,5 × 1,5–4,5 cm ; pédoncule et branches à pilosité brun pâle ; bractées de 0,3–1,6 × 0,3–0,6 mm. Fleur : pédicelle de 2–4 mm ; calice à lobes ovales jWULDQJXODLUHV±IRLVDXVVLORQJVTXHODUJHVGH±î±PPjSXEHVFHQFHH[ terne brun pâle ; corolle jaune à vert pâle ou parfois blanche, à tube urcéolé, plus large sous le PLOLHXGH±î±PP±IRLVDXVVLORQJTXHOHVOREHVGXFDOLFHFRXUWHPHQWSX EHVFHQWjO¶H[Wpulhxujwrxiihvghsrlovjo¶LQWpULHXUjOREHV±IRLVDXVVLORQJVTXHOHWXEH ±IRLVDXVVLORQJVTXHODUJHV de 3,2–6,2 × 0,7–1,5 mm , glabres ou pubérulents à l’extérieur et généralement seulement à la base, à couronne longue de 0,3–0,8 mm ; anthère longue de 1,8–2,8 mm ; pistil long de 2,5–3,2 mm, ovaire long de 0,8–1,2 mm. Fruit : follicules étroite– PHQWF\OLQGULTXHVIRUPDQWXQDQJOHGH 1 mm d’épaisseur, sillonné extérieurement, à pubescence courte brun rouille, légèrement glabrescent . Distribution GHOD6LHUUD/HRQHMXVTX¶jOD5pSXEOLTXHGpPRFUDWLTXHGX&RQJRjO¶HVWHWMXVTX¶HQ$QJROD dans le sud ; au Gabon, connu seulement de l’Ogooué-Lolo.
+Vine reaching 30 m in length or more; branchlets with rust-brown pubescence. Leaf: petiole 6–9 mm densely covered with simple and branched hairs reaching 1.2 mm above with several collateral pairs, limb elliptic to obovate — times also as long as wide of 3–14 × 1.3–5.9 cm, cuneate to rounded at base, usually acuminate at apex, covered with a few simple hairs and less often branched hairs reaching 0.8 mm especially along nerves and margin, shining, especially above, dark green below; secondary nerves 4 to 10 pairs, tertiary venation scarcely visible, reticulate; domatia absent or formed of a tuft of simple hairs. Inflorescence 2–7.5 × 1.5–4.5 cm; peduncle and branches with pale brown pilosity; bracts 0.3–1.6 × 0.3–0.6 mm. Flower: pedicel 2–4 mm; calyx with oval and triangular lobes — times also as long as wide of 1–1.5 × 0.7–0.9 mm with pubescence ex terne pale brown; corolla yellow to pale green or sometimes white, with urceolate tube, wider below the middle of 1–1.5 × 1–1.2 mm — times also as long as the calyx lobes, shortly pubescent on the exterior, tufts of hairs on the interior, lobes — times also as long as the tube — times also as long as wide of 3.2–6.2 × 0.7–1.5 mm, glabrous or puberulent on the exterior and generally only at the base, with a corona 0.3–0.8 mm long; anther 1.8–2.8 mm long; pistil 2.5–3.2 mm long, ovary 0.8–1.2 mm long. Fruit: follicles narrowly cylindric forming an angle of 1 mm thick, grooved externally, with short rust-brown pubescence, slightly glabrescent. Distribution from Sierra Leone to the Democratic Republic of the Congo in the east and to Angola in the south; in Gabon, known only from Ogooué-Lolo.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire, forêt claire ; au Gabon à ± 600 m d’altitude, ailleurs à 0–1000 m
+Secondary forest, open forest; in Gabon at ± 600 m altitude, elsewhere at 0–1000 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le seul échantillon du Gabon, Le Testu 8344 , ne correspond pas bien à cette espèce. Les rameaux HWOHVIHXLOOHVVRQWPRLQVSRLOXVHWVXUOHVUDPHDX[HWOHSpWLROHOHVSRLOVUDPL¿pVVRQWGRPLQDQWVQRQ les poils simples. B : de Kruif (1985). IBLIOGRAPHIE
+The only specimen from Gabon, Le Testu 8344, does not correspond well to this species. The branchlets and leaves are less hairy and on the branchlets and petiole the branched hairs are dominant, not the simple hairs. B: de Kruif (1985). BIBLIOGRAPHY
 
 ## Notes
 

@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– Ancistrochilus thomsonianus (Rchb.f.) Rolfe var. gentilii De Wild., Not. Pl. Ut. Inter. Fl. Congo (Brazzaville) 1 : 128 (1903).
 
-– Ancistrochilus. thomsonianus (Rchb.f.) Rolfe var. gentilii De Wild., Not. Pl. Ut. Inter. Fl. Congo (Brazzaville) 1 : 128 (1903).
+Leaves < 21.5 × 3.5 (5) cm, broadly lanceolate, acuminate. Inflorescence < 22 cm, < 3-flowered, axis very pubescent with 2 bracts. Tepals white or white with a greenish base, median lobe of the labellum shiny purple, often striped with white and lateral lobes green with brown marks. Dorsal sepal acuminate, glabrous, broadly ovate-lanceolate; lateral sepals obliquely oblong-lanceolate. Petals obliquely elliptic-lanceolate above the base. Labellum clearly trilobate, dense cilia on both surfaces, concave base, 4 thickenings at the centre; lateral lobes rectangular, recurved upward in natural position; median lobe linear to subfiliform, acute, recurved near the apex. – Pl. 49, p. 105.
 
-Feuilles < 21,5 × 3,5 (5) cm, largement blancéolées, acuminées. Inflorescence < 22 cm, < 3-flore, axe très pubescent avec 2 bractées. Tépales blancs ou blancs avec une base verdâtre, lobe médian du labelle pourpre luisant, souvent rayé de blanc et lobes latéraux verts avec des marques brunes. Sépale dorsal acuminé, glabre, largement ové-lancéolé ; sépales latéraux obliquement oblongs-lancéolés. Pétales obliquement elliptiques-lancéolés au-dessus de la base. Labelle nettement trilobé, cils denses sur les 2 faces, base concave, 4 épaississements au centre ; lobes latéraux rectangulares, recourbés vers le haut en position naturelle ; lobe médian linéaire à subfiliforme, aigu, recourbé près du sommet. – Pl. 49, p. 105.
-
-* Lieu de dépôt signalé différemment par erreur dans FCAM
+* Herbarium location recorded differently by error in FCAM
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Guinée équatoriale, Cameroun, Gabon, Centrafrique
+Nigeria, Equatorial Guinea, Cameroon, Gabon, Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 100 m. Epiphyte on tree leaning over river, in forest
 
-alt. 100 m. Épiphyte sur arbre penché sur rivière, en forêt
-
-MATÉRIEL ÉTUDIÉ (Carte 16) :
+MATERIAL STUDIED (Map 16) :
 
 de Wilde 760, s. l., WAG in hort. 83-125, non vidi.
 
-de Wilde, Arends & de Bruijn 8854, barrage de Kinguélé, déversoir de la centrale hydroélectrique sur un banc de la Mbei, 0°26' N, 10°16' E (fl., Nov.), WAG!, LBV. Hallé & Villiers s.n., Monts de Cristal, route de Kinguélé (fl., Janv.), P!.
+de Wilde, Arends & de Bruijn 8854, Kinguélé dam, spillway of the hydroelectric power station on a bank of the Mbei, 0°26' N, 10°16' E (fl., Nov.), WAG!, LBV. Hallé & Villiers s.n., Cristal Mountains, Kinguélé road (fl., Jan.), P!.
 
 ## Notes
 

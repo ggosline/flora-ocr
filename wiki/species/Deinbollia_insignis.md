@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species characterized especially by the flower size (bud 5–8 mm in diameter), the large number of stamens, up to 30, and the palm-like habit.
 
-Espèce caractérisée surtout par la taille des fleurs (bouton de 5 à 8 mm de diamètre), le grand nombre d'étamines, jusqu'à 30, et le port de palmier.
+The dimensions of the vegetative apparatus are certainly quite variable: a specimen 6 m tall from western Cameroon shows leaves reaching 1 m, 8–10 jugate; petiole 22 cm; basal leaflets small 15–17 cm but the upper ones reaching 45 × 16 cm, with approximately 10 pairs of veins.
 
-Les dimensions de l'appareil végétatif sont certainement assez variables : un exemplaire de 6 m du Cameroun occidental montre des feuilles atteignant 1 m, 8-10 juguées; pétiole 22 cm; folioles basales petites 15-17 cm mais les supérieures atteignant 45 × 16 cm, avec environ 10 paires de nervures.
-
-L'inflorescence est terminale; la portion de la part d'herbier n'est sans doute qu'un rameau latéral (cf. sa courbure); il mesure 35 cm et porte env. 25 cymules stipitées (3-4 mm) d'env. 5-7 fleurs de couleurs crème teintée de marron. Le bouton de 6 mm est velu, sauf sur les marges de sépales.
+The inflorescence is terminal; the portion from the herbarium sheet is undoubtedly only a lateral branch (cf. its curvature); it measures 35 cm and bears approx. 25 stipitate cymules (3–4 mm) of approx. 5–7 flowers of cream color tinged with brown. The bud 6 mm is pubescent, except on the sepals' margins.
 
 ## Type
 
@@ -35,25 +33,23 @@ Thonning (P-JU, n° 11388)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Recognized from Fernando Po (Mann 591, P) and Nigeria (FHI 36581, P).
 
-Reconnu à Fernando Po (Mann 591, P) et au Nigeria (FHI 36581, P).
-
-Connue du Zaïre, de l'Angola et de la République Centrafricaine, cette espèce est donc présente aux confins du Cameroun et du Gabon, côté Est.
+Known from Zaïre, Angola and the Central African Republic, this species is therefore present at the borders of Cameroon and Gabon, on the eastern side.
 
 1 ter. Deinbollia pinnata (Poiret) Schumacher & Thonning
 
 Danske Vidensk. Selsk. Skrift. 4:16 (1827).
 
-— Ornitrophe pinnata PoIRET, in LAM., Enc. Bot. 8 : 266 (1808).
+— Ornitrophe pinnata PoIRET, in LAM., Enc. Bot. 8: 266 (1808).
 
 — Deinbollia dahomensis CHEV., Expl. Bot. A.O.F. 1:58 (1920).
 
-Arbuste de 1-3 m présentant beaucoup de caractères du précédent mais à pilosité moins douce au toucher, plus hérissée; jusqu'à présent signalé à l'Ouest du Cameroun jusqu'au Sénégal.
+Shrub 1–3 m tall presenting many characters of the preceding but with pilosity less soft to the touch, more bristly; so far recorded from western Cameroon to Senegal.
 
-Reconnue au Dahomey (Chevalier 23148, type de D. dahomensis), au Togo (Warnecke 48) et en Côte d'Ivoire (Aubréville 1656).
+Recognized from Dahomey (Chevalier 23148, type of D. dahomensis), Togo (Warnecke 48) and Ivory Coast (Aubréville 1656).
 
-La répartition géographique de ces deux espèces peut inciter à les fusionner en une seule à compréhension plus large. Par ailleurs, un échantillon récolté dans le Kivu (Humbert 8254) serait plus proche de D. pinnata que de D. molliuscula malgré son origine. Dans l'échantillon Chevalier 23148 les sépales sont glabres à l'intérieur et sur la marge à l'extérieur; la pilosité des feuilles n'est bien visible qu'à la loupe. Le Cameroun et le Gabon se trouvant ainsi à la jonction des aires connues de ces 2 espèces, il est plausible de les y rencontrer.
+The geographical distribution of these two species may incline one to merge them into a single species with broader circumscription. Moreover, a specimen collected in Kivu (Humbert 8254) would be closer to D. pinnata than to D. molliuscula despite its origin. In the Chevalier 23148 specimen the sepals are glabrous within and on the margin externally; the pilosity of the leaves is only well visible under a lens. Cameroon and Gabon being thus at the junction of the known ranges of these 2 species, it is plausible to encounter them there.
 
 ## Specimens examined
 

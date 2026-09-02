@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or tree with 2-4-jugate leaves; petiole (3-)5-10 cm and rachis 5-10 cm, glabrous; leaflets 8-17 × 4-8 cm, with 12-13 pairs of veins; the pubescence on the lower surface of the blade requires careful examination as it can be very short (0.05-0.1 mm) and so dense that to the naked eye it is not easily distinguished.
 
-Arbuste ou arbre à feuille 2-4-juguées; pétiole (3-) 5-10 cm et rachis, 5-10 cm, glabres; folioles 8-17 × 4-8 cm, à 12-13 paires de nervures; la pilosité de la face inférieure du limbe demande un examen attentif car elle peut être très courte (0,05-0,1 mm) et si dense qu'à l'œil nu elle ne se distingue pas aisément.
-
-Inflorescence en grappe composée; pédoncule de 18 cm; axe de 16 cm portant 4-5 rameaux de 2-3 cm, chacun portant à son tour env. 10 cymules stipitées (1-2 mm), avec bractées de 5 mm; cymules à env. 7 fleurs, à pédi-celles de 4 mm articulés vers le milieu; axes floraux pubérulents, poils très serrés (0,05 mm). Calice velu à l'extérieur, à poils très serrés; sépales triangulaires, longs de 3 mm, à base de 2 mm, tomentelleux à l'intérieur (poils de 0,1 mm); pétale (dans le bouton) de 1,5 mm, très velu partout, écaille formant un entonnoir de 0,5 mm de profondeur; disque à sillons peu profonds dans le bouton, verrueux sous le jeune fruit; 6-8 étamines; ovaire velu. Jeune fruit velu, poils roux, très ras, très serrés. Fruit inconnu à l'état mûr. PL. 35, 12-16', p. 153.
+Inflorescence in a compound raceme; peduncle 18 cm; axis 16 cm bearing 4-5 branches 2-3 cm, each in turn bearing ca. 10 stipitate cymules (1-2 mm), with bracts 5 mm; cymules with ca. 7 flowers, with pedicels 4 mm articulated near the middle; floral axes puberulent, hairs very dense (0.05 mm). Calyx hairy on the outside, with very dense hairs; sepals triangular, 3 mm long, base 2 mm, tomentellose on the inside (hairs 0.1 mm); petal (in the bud) 1.5 mm, very hairy throughout, scale forming a funnel 0.5 mm deep; disc with shallow furrows in the bud, verrucose under the young fruit; 6-8 stamens; ovary hairy. Young fruit hairy, hairs russet, very short, very dense. Fruit unknown in the mature state. PL. 35, 12-16', p. 153.
 
 ## Type
 

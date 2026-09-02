@@ -20,15 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 4-10 m tall, with pinkish-ochraceous fissile wood, exceeding 10 cm diam. Differs from the preceding species by its leaves somewhat more coriaceous, more distinctly varnished above, with secondary nerves somewhat more numerous, namely 10-14 pairs, the lower ones being somewhat less obliquely ascending than the middle ones.
 
-Petit arbre de 4-10 m de hauteur, à bois rosé-ochracé fissile, dépassant 10 cm de diam. Diffère de l'espèce précédente par ses feuilles un peu plus coriaces, plus nettement vernissées dessus, à nervures secondaires un peu plus nombreuses soit 10-14 paires, les inférieures étant un peu moins obliques ascendantes que les moyennes.
+Axillary inflorescences glabrous inserted towards the tip of the branches, 8-16 cm long of which 3-10 cm of peduncle. Panicles of multiflorous spherical umbels. White flowers subsessile with pedicel of approximately 0.5 mm, tetramerous, sometimes trimerous. Globulous ovary of ca. 1 mm, glabrous (or sometimes having very rare hairs); 4 fleshy calycine lobes ovate in vivo, approximately 0.5 mm long. Corolla with tube not developed in the bud, very narrow, reaching 1 mm, abruptly widened at the throat; 4 ovate lobes ca. 1-1.5 mm, glabrous except the internal median line, bearing an apical appendage of 3-4 × 0.5 mm, not tubulous but swollen by aeriferous tissue. Anthers of 1.5 mm, reflexed between the lobes. Style glabrous 3-4 mm, with capitate stigma.
 
-Inflorescences axillaires glabres insérées vers l'extrémité des rameaux, longues de 8-16 cm dont 3-10 cm de pédoncule. Panicules d'ombelles sphériques multiflores. Fleurs blanches subses-siles à pédicelle d'environ 0,5 mm, tétramères, parfois trimères. Ovaire globuleux d'env. 1 mm, glabre (ou ayant parfois quelques très rares poils); 4 lobes calycinaux charnus ovés in vivo, longs d'env. 0,5 mm. Corolle à tube non développé dans le bouton, très étroit, atteignant 1 mm, brusquement élargi à la gorge; 4 lobes ovés d'env. 1-1,5 mm, glabres sauf la ligne médiane interne, porteurs d'un appendice apical de 3-4 × 0,5 mm, non tubuleux
-
-mais gonflé par un tissu aérifère. Anthères de 1,5 mm, rabattues entre les lobes. Style glabre de 3-4 mm, à stigmate capité.
-
-Fruit de 10-13 × 4-5 mm de long au-dessus du pédicelle qui atteint 2-3 mm de long. Graines (immatures?) de 5-6 × 1 mm, à contour membraneux.
+Fruit 10-13 × 4-5 mm long above the pedicel which reaches 2-3 mm long. Seeds (immature?) of 5-6 × 1 mm, with membranous outline.
 
 ## Type
 
@@ -36,11 +32,9 @@ Gossweiler 6973 (BM, non vu), Bélize, Cabinda
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Probably occurs in Cameroon; fairly common in Gabon.
 
-Existe probablement au Cameroun; assez commun au Gabon.
-
-Écorce amère fébrifuge contenant de la corynanthine.
+Bitter bark with febrifugal properties containing corynanthine.
 
 ## Vernacular names
 

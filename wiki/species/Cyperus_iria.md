@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Chlorocyperus iria (L.) Rikli, Jahrb. Wiss. Bot . 27 : 564 (1895). Herbe annuelle (ou peut-être parfois vivace), en touffe , avec de nombreuses racines courtes ; tiges de 8‒60 cm × 0,6‒3 mm, trigones à arêtes aiguës, glabres, vertes. Feuille : gaine verte à brun rougeâtre ; limbes principaux de 4‒25 cm × 1‒5 mm , plans, scabres sur la marge et les nervures principales. Inflorescence en anthèle ouverte de 1,5‒20 × 1‒20 cm , avec des groupes d’épis sessiles ou sur des rayons primaires longs de 0,5‒15 cm ; bractées involucrales foliacées, la plus grande de 5‒30 cm × 1‒6 mm ; épis sessiles ou presque, de forme et de longueur irrégulières. Épillet elliptique, de 2‒10(‒15 avec le rachis nu) × 1,5‒2 mm , aplati, à 5‒20 fleurs, doré à vert jaunâtre ; glumes obovales ou circulaires, longues de 1,3‒1,6 mm , brun doré avec une marge incolore et une nervure centrale verdâtre dépassant légèrement. Fleur : style court à 3 branches. Akène obovale, de 1,1‒1,4 × 0,6‒0,7 mm , trigone et apiculé, brun foncé à presque noir à maturité, à surface presque lisse.
+Chlorocyperus iria (L.) Rikli, Jahrb. Wiss. Bot . 27 : 564 (1895). Annual herb (or perhaps sometimes perennial), in tufts, with numerous short roots; stems 8–60 cm × 0.6–3 mm, triquetrous with sharp edges, glabrous, green. Leaf: sheath green to reddish-brown; main blades 4–25 cm × 1–5 mm, flat, scabrous on the margins and main veins. Inflorescence an open anthela 1.5–20 × 1–20 cm, with groups of sessile spikelets or on primary rays 0.5–15 cm long; involucral bracts foliaceous, the largest 5–30 cm × 1–6 mm; spikelets sessile or nearly so, of irregular shape and length. Spikelet elliptic, 2–10(–15 with the rachis naked) × 1.5–2 mm, flattened, with 5–20 flowers, golden to yellowish-green; glumes obovate or circular, 1.3–1.6 mm long, golden-brown with a colourless margin and a greenish central vein slightly projecting. Flower: style short with 3 branches. Achene obovate, 1.1–1.4 × 0.6–0.7 mm, triquetrous and apiculate, dark brown to nearly black at maturity, with an almost smooth surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale et subtropicale largement répandue, très commune en Asie ; rare au Gabon ou méconnue, trouvée seulement dans le Moyen-Ogooué et l’OgoouéMaritime
+pantropical and subtropical widely distributed, very common in Asia; rare in Gabon or poorly known, found only in the Middle-Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans des habitats saisonnièrement humides, tels que les mares temporaires, les marécages et les fossés de drainage, aussi souvent mauvaise herbe des champs de riz ; au Gabon, à 0‒100 m d’altitude, jusqu’à 1600 m ailleurs
+in seasonally humid habitats, such as temporary pools, swamps and drainage ditches, also often a weed of rice fields; in Gabon, 0–100 m altitude, up to 1600 m elsewhere
 
 ## Vernacular names
 

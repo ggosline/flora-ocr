@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — R. Schnell, Ic. Pl. Afr. (IFAN), t. 41 (1957). — Heine, F.W.T.A., ed. 2, 2: 413 (1963).
 
 ≡ Justicia gangetica L., Amoen. Acad. 4:299 (1769). — T. Anders., Journ. Linn. Soc., Bot. 7:118 (1863), excl. syn. A. calycina Benth., non Nees.
 
-Plante vivace, annuelle ou quelquefois pérenne, atteignant usqu’à 1 m de hauteur, légèrement poilue, à poils simples, puis glabrescente; tige fistuleuse, quadrangulaire. Pétioles de 10-15 mm; limbe des feuilles de 5-8 × 2,5-4,5 cm, ovale-lancéolé très acuminé, à pointe allongée, arrondi à la base et un peu décurrent sur les pétioles.
+Perennial herb, annual or sometimes perennial, reaching up to 1 m in height, slightly hairy with simple hairs, then becoming glabrous; stem fistulose, quadrangular. Petioles 10–15 mm; leaf lamina 5–8 × 2.5–4.5 cm, ovate-lanceolate, very acuminate with an elongated apex, rounded at the base and slightly decurrent on the petioles.
 
-Inflorescences en épis terminaux, rarement axillaires, plutôt unilatéraux, de 5-15 cm. Fleurs inférieures distantes de 8-10 mm, les supérieures plus denses; pédicelles des fleurs inférieures longs
+Inflorescences in terminal spikes, rarely axillary, rather unilateral, 5–15 cm long. Lower flowers distant by 8–10 mm, the upper ones denser; pedicels of lower flowers up to 2 mm long, pubescent; upper flowers sessile or subsessile. Calyx 5 mm, pubescent, with lobes 4 mm, linear-lanceolate, acuminate. Corollas white, somewhat zygomorphic, often with a violet spot on the anterior lobes, rarely (but not in specimens known to date from Gabon) yellowish or violaceous, up to 20 mm long, infundibuliform. Stamens didynamous; filaments of short stamens 8 mm, of long stamens 10 mm; anthers ellipsoid, 1.5 mm. Style 10 mm, slightly pubescent; stigma bipartite-globose; ovary 1.5–2 mm, pubescent.
 
-jusqu'à 2 mm, pubescents; fleurs supérieures sessiles ou subsesiles. Calice de 5 mm, pubescent, à lobes de 4 mm, linéaires-lancéolés, acuminés. Corolles blanches un peu zygomorphes, souvent avec une tache violette aux lobes antérieurs, rarement (mais pas dans les spécimens connus jusqu'à ce jour au Gabon) jaunâtres ou violacées, longue jusqu'à 20 mm, infundibiliforme. Étamines didynamics; filets des étamines courtes 8 mm, des étamines longues 10 mm; anthères ellipsoïdes de 1,5 mm. Style de 10 mm légèrement pubescent; stigmate bipartite-globuleux; ovaire de 1,5-2 mm, pubescent.
-
-Fruit de 22-25 mm, à partie inférieure stipitée sur environ 1 cm; partie supérieure de 4 mm de diamètre. Graines de 4,5 × 3,5 mm, et environ 1 mm d'épaisseur, orbiculaires-anguleuses, à surface irrégulièrement verruculeuse, surtout le long du bord.
+Fruit 22–25 mm, with lower part stipitate for approximately 1 cm; upper part 4 mm in diameter. Seeds 4.5 × 3.5 mm, and approximately 1 mm thick, orbicular-angular, with irregularly verrucose surface, especially along the margin.
 
 ## Type
 
@@ -41,11 +37,9 @@ Fruit de 22-25 mm, à partie inférieure stipitée sur environ 1 cm; partie sup�
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very widespread in the tropics of the Old World; occurs mainly in secondary vegetation as a weed.
 
-Très répandu dans les tropiques de l'Ancien Monde; existe surtout dans la végétation secondaire comme mauvaise herbe.
-
-Espèce complexe, très variable et décrite sous de nombreux noms. (Pour les synonymies plus complètes, mais douteuses à cause de la complexité mentionnée, voir T. Anderson 1863, et C.B. Clarke 1899).
+Complex species, highly variable and described under numerous names. (For more complete synonymies, but doubtful owing to the complexity mentioned, see T. Anderson 1863, and C.B. Clarke 1899).
 
 ## Specimens examined
 

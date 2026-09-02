@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with creeping and branched stem at the lower part, then erect and reaching 50 or 60 cm tall. Leaves in dense tufts, 2.5 to 13 cm long and about 5 mm wide, glabrous, acuminate, with undulate spinescent margins. Ligule membranous, short, ciliate. Sheaths papyraceous.
 
-Herbe vivace à tige rampante et ramifiée à la partie inférieure, puis dressée et atteignant 50 ou 60 cm de haut. Feuilles en touffes denses, de 2,5 à 13 cm de long et environ 5 mm de large, glabres, acuminées, à bords ondulés spinescents. Ligule membraneuse, courte, ciliée. Gaines papyracée.
+Panicle 4 to 13 cm long, straw-coloured or violaceous. Spikelets sessile about 4 mm long, with callus as long as the glumes, very acute, densely pubescent golden yellow.
 
-Panicule de 4 à 13 cm de long, de couleur paille ou violacée. Épilets sessiles d'environ 4 mm de long, à callus aussi long que les glumes, très aigu, densément pubescent jaune doré.
+Lower glume chartaceous, acuminate or shortly bidentate, with enrolled margins, 2 or 3 scarcely visible nerves. Upper glume shortly subulate. Lemma of the lower flower as long as the glumes. Palea similar, smaller. Fertile lemma linear, ciliate. Awn about 4 to 8 mm long. Palea shorter, hyaline, ciliate.
 
-Glume inférieure chartacée, acuminée ou courtement bidentée, à bords enroulés, 2 ou 3 nervures peu visibles. Glume supérieure courtement subulée. Lemma de la fleur inférieure aussi longue que les glumes. Paléa semblable, plus petite. Lemma fertile linéaire, ciliée. Arête d'environ 4 à 8 mm de long. Paléa plus courte, hyaline, ciliée.
+Pedicelled spikelets violaceous, 4 to 5 mm long. Lower glume longly acuminate, prolonged by a short pubescent yellow subule. Upper glume acuminate, with 5 nerves. Lower glumelles somewhat shorter than the glumes. Upper glumelles small, very narrow.
 
-Épillets pédicellés violacés, de 4 à 5 mm de long. Glume inférieure longuement acuminée, prolongée par une courte subule pubescente jaune. Glume supérieure acuminée, à 5 nervures. Glumelles inférieures un peu plus courtes que les glumes. Glumelles supérieures petites, très étroites.
-
-Cette espèce est originaire d'Extrême-Orient. Elle a été introduite dans diverses régions d'Afrique. Au Gabon, elle aurait été importée d'Allemagne à la ferme de Sibang près de Libreville pour faire des gazons. C'est une mauvaise herbe très envahissante dont les épillets s'accrochent aux vêtements grâce à leur callus très aigu. Appelée « crachat du diable » par les colons.
+This species is native to the Far East. It has been introduced into various regions of Africa. In Gabon, it is said to have been imported from Germany to the Sibang farm near Libreville for making lawns. It is a highly invasive weed whose spikelets cling to clothing thanks to their very acute callus. Called "devil's spit" by colonists.
 
 ## Specimens examined
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, avec un court rhizome dressé épais de 2 cm au plus ; tige centrale, solitaire, 60–130 cm × 2–10 mm, triangulaire, verte à brunâtre, lisse en bas, nettement scabre en haut. Feuilles nombreuses, surtout basales, mais certaines disposées le long de la tige, plus courtes ou plus longues que la tige ; gaine verte, glabre ; limbe plan ou légèrement plié, le plus grand de 60–150 × 3–4,5 cm , progressivement rétréci en un sommet aigu, marges et côtes principales scabres à finement dentées. Inflorescence en panicule terminale, lâche, 12–40 × 12–20 cm , brun clair, avec 6–15 rameaux primaires longs de 2–10 cm ; bractées involucrales foliacées, souvent étalées, linéaires , vertes, sommet aigu ; l’inférieure généralement de 20–40(–80) × 2–2,5(–3,5) cm ; épis cylindriques, 6–8 × 1,5–2 mm, bruns panachés de brun clair, sommet obtus ; bractées spicoïdales très serrées, oblongues à obovales, d’environ 3 × 1,5–2 mm, pâles dans le tiers inférieur, devenant progressivement brun plus foncé vers le milieu, et brusquement à nouveau
-
-brun pâle dans le tiers supérieur , glabres, sommet obtus. Fleur : bractées florales 2 , oblongues, longues d’environ 3 mm, carène non ailée et scabre, sommet obtus. Akène inconnu.
+Robust herb with a short erect rhizome, at most 2 cm thick; central stem, solitary, 60–130 cm × 2–10 mm, triangular, green to brownish, smooth below, distinctly scabrous above. Leaves numerous, mostly basal, but some arranged along the stem, shorter or longer than the stem; sheath green, glabrous; blade flat or slightly folded, the largest 60–150 × 3–4.5 cm, gradually narrowed to an acute apex, margins and main veins scabrous to finely dentate. Inflorescence a terminal panicle, lax, 12–40 × 12–20 cm, light brown, with 6–15 primary branches 2–10 cm long; involucral bracts foliaceous, often spreading, linear, green, apex acute; the lower one generally 20–40(–80) × 2–2.5(–3.5) cm; spikes cylindric, 6–8 × 1.5–2 mm, brown streaked with light brown, apex obtuse; spicoid bracts very dense, oblong to obovate, about 3 × 1.5–2 mm, pale in the lower third, gradually becoming darker brown towards the middle, and abruptly pale brown again in the upper third, glabrous, apex obtuse. Flower: floral bracts 2, oblong, about 3 mm long, keel not winged and scabrous, apex obtuse. Achene unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon et trouvée seulement dans la région de Lastoursville dans l’Ogooué-Lolo (2 récoltes)
+endemic to Gabon and found only in the Lastoursville region in Ogooué-Lolo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts humides, parfois le long des rivières et des cours d’eau ; à environ 250 m d’altitude. Note taxonomique : M. polystachya se reconnaît à ses bractées spicoïdales aux rayures caractéristiques, brun pâle avec une bande centrale brun moyen. b : Nelmes (1955a). ibliographie
+humid forests, sometimes along rivers and streams; at about 250 m altitude. Taxonomic note: M. polystachya is recognized by its spicoid bracts with characteristic stripes, pale brown with a central medium brown band. b: Nelmes (1955a). Bibliography
 
 ## Notes
 

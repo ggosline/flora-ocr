@@ -17,47 +17,39 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Laurent s.n., riv. Ruki, Congo (Kinshasa), holo-BR. – FAC 2 : 366 (1992) ; FCAM 2 : 445 (2001).
 
 – Bulbophyllum platirachis De Wild., Miss. Laur. : 223 (1906), non Rolfe (1897).
 
-Pseudobulbes 0,8-4 × 0,4-1.2 cm, ovoïdes ou ellipsoïdaux, 2-foliés. Feuilles pétiolées 0,8-7 × 0,5-2 cm, elliptiques à lancéolées, arrondies à
-
-obtuses. Inflorescence 5-16 cm, assez lâche, rachis court en zigzag, de glabre à muni de papilles éparses, 6-46-flore. Fleurs fines, jaunes, verdâtes à orange ou rouge foncé. Sépales aigus à acuminés, assez épais, de glabres à munis de papilles éparses ; sépale dorsal ové à étroitement triangulaire, les latéraux obliquement triangulaires à ovés-triangulaires. Pétales linéaires, sub-falciformes, obtus, minces, glabres. Labelle elliptique, apiculé, très épais, glabre ou papilleux, non récurvé.
+Pseudobulbs 0.8-4 × 0.4-1.2 cm, ovoid or ellipsoid, 2-leaved. Leaves petiolate 0.8-7 × 0.5-2 cm, elliptic to lanceolate, rounded to obtuse. Inflorescence 5-16 cm, rather lax, rachis short in zigzag, glabrous to bearing scattered papillae, 6-46-flowered. Flowers delicate, yellow, greenish to orange or dark red. Sepals acute to acuminate, fairly thick, glabrous to bearing scattered papillae; dorsal sepal ovate to narrowly triangular, lateral ones obliquely triangular to ovate-triangular. Petals linear, sub-falcate, obtuse, thin, glabrous. Lip elliptic, apiculate, very thick, glabrous or papillose, not recurved.
 
 a. var. acutebracteatum
 
-Fleurs et inflorescences entièrement glabres.
+Flowers and inflorescences entirely glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+it was collected in Gabon. It is also known from Sierra Leone, Liberia and Congo (Kinshasa). – Pl. 85, p. 173
 
-elle a été récoltée au Gabon Elle est aussi connue en Sierra Leone, au Liberia et au Congo (Kinshasa). – Pl. 85, p. 173
-
-MATÉRIEL ÉTUDIÉ (carte 30) :
+MATERIAL STUDIED (map 30) :
 
 Pobéguin s.n., Cap Lopez, P! ; s.n. Lambaréné, P! ; s.n. Ochouka, P! ; s.n. Nianga, P!.
 
 b. var. rubrobrunneopapillosum (De Wild.) J. J. Verm.
 
-BJBB 56 : 238 (1986), FAC 2 : 368. – BASIONYME : Megaclinium rubrobrunneopapillosum DeWild., Rev. Zool. Afr. 9, suppl. Bot. : 31 (1921). – TYPE : Bequaert 6706, Congo (Kinshasa), holo-BR [= B. fuscoides Petersen (1952)].
+BJBB 56 : 238 (1986), FAC 2 : 368. – BASIONYM : Megaclinium rubrobrunneopapillosum DeWild., Rev. Zool. Afr. 9, suppl. Bot. : 31 (1921). – TYPE : Bequaert 6706, Congo (Kinshasa), holo-BR [= B. fuscoides Petersen (1952)].
 
-Elle se distingue de la variété typique par la présence de papilles éparses ou localisées sur l'inflorescence, le rachis et l'extérieur des bractées et des sépales.
+It is distinguished from the typical variety by the presence of scattered or localized papillae on the inflorescence, the rachis and the exterior of the bracts and sepals.
 
-elle a été récoltée au Gabon. Elle vit aussi en Guinée équatoriale, au Cameroun, au Congo (Kinshasa) et en Afrique du Sud
+it was collected in Gabon. It also occurs in Equatorial Guinea, Cameroon, Congo (Kinshasa) and South Africa.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 alt. 0-1000 m
 
-MATÉRIEL ÉTUDIÉ (carte 31) :
+MATERIAL STUDIED (map 31) :
 
-Wieringa 677, Woleu-Ntem, 1 km au SE de Tchimbélé, 10°25' E, 0°36' N, (fl., Mars), WAG!, LBV.
+Wieringa 677, Woleu-Ntem, 1 km SE of Tchimbélé, 10°25' E, 0°36' N, (fl., March), WAG!, LBV.
 
 ## Figures
 

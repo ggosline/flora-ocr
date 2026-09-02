@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 RENDLE in HUTCH. & RENDLE, FTA 6 (2): 57 (1916); PELLEGRIN, Mém. Soc. Linn. Norm., n. sér., 1 (3): 79 (1928); DE WILD., Pl. Bequaert. 6: 69 (1932); KEAY, FWTA, ed. 2, 1: 599 (1958).
 
 - D. smythei SPRAGUE, Kew Bull.: 299 (1908); KEAY, l.c.: 599 (1958). TYPE: Smythe 237, Sierra Leone, Jepihun (holo-, K ; photo BM).
@@ -31,19 +29,17 @@ RENDLE in HUTCH. & RENDLE, FTA 6 (2): 57 (1916); PELLEGRIN, Mém. Soc. Linn. Nor
 
 - D. dinklagei ENGL., l.c. : 273 (1911) nom. illegal., non ENGL. (1908).
 
-- D. spathulibracteata ENGL., l.c. 51: 429 (1914), nom nouveau de D. dinklagei ENGL. (1911). TYPE : Dinklage 2573, Liberia (holo-B ; photo BM).
+- D. spathulibracteata ENGL., l.c. 51: 429 (1914), nom. nov. for D. dinklagei ENGL. (1911). TYPE : Dinklage 2573, Liberia (holo-B ; photo BM).
 
 - D. aspera A. CHEV., Bull. Soc. Bot. France, Mém. 8: 207 (1912); DE WILD., Pl. Bequaert. 6: 20 (1932). TYPE : Chevalier 21197, Côte d'Ivoire, Danané (holo-. P).
 
 - D. obanensis HUTCH. & DALZ., FWTA, ed. 1, 2: 427 (1928), nom. nud.; Kew Bull.: 18 (1929). TYPE: Talbot s.n., Nigeria, Oban (holo-, K).
 
-Arbustes hauts de 0,5-1,2 (-3) m avec des tiges ligneuses ramifiées ; base des rameaux inférieurs ligneuse, glabre, parties feuillées épaisses de 1-3 mm avec des poils épars à denses, courts (brunâtres à) blancs, apprimés et droits ou visibles et uncinés ; entre-nœuds de 1-4 (-7) cm. Feuilles ± distiques. Limbe ovale à blancséolé ou oblong, (4-) 8-21 × (1,5-) 3-6 cm, chartacé à subcoriace à apex brusquement acuminé, 5-25 × 2,5 mm, avec un acumen aigu ou obtus ; base cunée à subobtuse ; marge sinuée à obscurément dentée ou parfois avec quelques dents grossières à la partie supérieure ; face supérieure glabre ; face inférieure avec de petits poils blancs uncinés et des poils droits épars, surtout sur les nervures et près d'elles ; nervures légèrement proéminentes dessus, plus proéminentes dessous ; 7-12 paires de nervures secondaires formant un angle de 50°-80° avec la nervure médiane. Pétiole long d'env. 2-10 mm et épais de 1,5 mm, à indumentum semblable à celui de la tige mais plus dense. Stipules caduques, triangulaires et semi-amplexicaules, longues de 2,5-5,5 mm et larges de 1,5 mm à la base avec une faible nervure médiane, pubérulentes avec de petits poils apprimés.
+Shrubs 0.5–1.2 (–3) m tall with branched woody stems; base of lower branches woody, glabrous, leafy portions 1–3 mm thick with sparse to dense, short (brownish to) white, appressed and straight or spreading and uncinate hairs; internodes 1–4 (–7) cm. Leaves ± distichous. Blade ovate to lanceolate or oblong, (4–) 8–21 × (1.5–) 3–6 cm, chartaceous to subcoriaceous with abruptly acuminate apex, 5–25 × 2.5 mm, with acute or obtuse acumen; base cuneate to subobtuse; margin sinuate to obscurely dentate or sometimes with a few coarse teeth in the upper part; upper surface glabrous; lower surface with small white uncinate hairs and scattered straight hairs, especially on the nerves and near them; nerves slightly prominent above, more prominent below; 7–12 pairs of secondary nerves forming an angle of 50°–80° with the midrib. Petiole ca. 2–10 mm long and 1.5 mm thick, with indumentum similar to that of the stem but denser. Stipules caducous, triangular and semi-amplexicaul, 2.5–5.5 mm long and 1.5 mm wide at the base with a weak midvein, puberulent with small appressed hairs.
 
-Inflorescences solitaires ou par paires. Pédoncule passant graduellement au réceptacle, de (3-) 5-22 mm de longueur et env. 1 mm de diamètre, pubérulent avec de petits poils apprimés droits et des poils uncinés. Réceptacle turbiné, de 2-10 mm de hauteur et 4-5 mm de diamètre, ceux portant 2 appendices ± comprimés et zygomorphes ; surface le plus souvent suborbiculaire ou (2-) 4-6 (-9) lobée, concave, parfois plane ou légèrement convexe ; marge large de 0,5-1 mm ; appendices primaires (2-) 4-6 (-9), naissant des lobes dans les réceptacles lobés, généralement dressés, étroitement spatulés ou linéaires, plans ou parfois légèrement involutés, longs de 5-27 mm et larges d'env. 1 mm ou, s'ils sont spatulés, de 3 mm au sommet ; parfois, entre les appendices primaires, 2 plus petits appendices secondaires atteignant  $ 1 \times 0,2 $ mm ; face supérieure de la marge et des appendices et
+Inflorescences solitary or in pairs. Peduncle gradually passing into the receptacle, (3–) 5–22 mm long and ca. 1 mm in diameter, puberulent with small appressed straight hairs and uncinate hairs. Receptacle turbinate, 2–10 mm high and 4–5 mm in diameter, bearing 2 ± compressed and zygomorphic appendages; surface most often suborbicular or (2–) 4–6 (–9) lobed, concave, sometimes plane or slightly convex; margin 0.5–1 mm wide; primary appendages (2–) 4–6 (–9), arising from the lobes in lobed receptacles, generally erect, narrowly spatulate or linear, plane or sometimes slightly involute, 5–27 mm long and ca. 1 mm wide or, if spatulate, 3 mm at the apex; sometimes between the primary appendages 2 smaller secondary appendages reaching 1 × 0.2 mm; upper surface of the margin and appendages and lower surface of the receptacle with small appressed, straight and uncinate, white hairs, fairly dense; sometimes on the lower surface marked ribs extending into the primary appendages. Male flowers numerous, with bilobed perianth, with 2 stamens; perianth lobes ca. 0.35 mm in diameter; stamen filaments 0.3–0.7 mm long and ca. 0.1 mm thick, curved outward; anthers 0.25–0.4 × 0.25–0.4 mm, with connective at least as wide as the locules. Female flowers 1–5, with tubular perianth, 0.5–0.8 mm in diameter, reaching 0.5 mm in height; style 0.5–2 mm long and ca. 0.25 mm thick; stigmas 2, spreading to revolute 1–2 mm long and ca. 0.25 mm thick.
 
-face inférieure du réceptacle avec de petits poils apprimés, droits et uncinés, blancs, assez denses ; parfois, à la face inférieure, des côtes marquées se prolongeant dans les appendices primaires. Fleurs & nombreuses, à périanthe bilobé, avec 2 étamines ; lobes du périanthe de 0,35 mm de diamètre environ ; filaments staminaux longs de 0,3-0,7 mm et épais d'environ 0,1 mm, recourbés vers l'extérieur ; anthères de 0,25-0,4 × 0,25-0,4 mm, à connectif au moins aussi large que les loges. Fleurs ♀ 1-5, à périanthe tubulaire, de 0,5-0,8 mm de diamètre, atteignant 0,5 mm de hauteur ; style long de 0,5-2 mm et épais d'env. 0,25 mm ; stigmates 2, étalés à révolutés longs de 1-2 mm et épais d'env. 0,25 mm.
-
-Noyau d'env. 5-6 mm de diamètre, lisse, sans endosperme ; cotylédons inégaux et épais ; radicule courte. - Pl. 11, p. 41.
+Endocarp ca. 5–6 mm in diameter, smooth, without endosperm; cotyledons unequal and thick; radicle short. – Pl. 11, p. 41.
 
 ## Type
 
@@ -51,13 +47,11 @@ Schlechter 12871, Cameroun (holo-, B ; iso-, BM, BR, K, L, WAG)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is quite variable in the characters of the inflorescence, particularly their structure. Those with only 2 appendages resemble the inflorescences of D. angusticornis but the latter are very narrow and long. The inflorescences of D. turbinata having a convex floriferous surface resemble those of D. involuta but the latter have short, reflexed, involute appendages at the apex and on the margins. These two species are so close that their conspecificity could be demonstrated. D. involuta is also very close to D. dorstenoides.
 
-Cette espèce est assez variable par les caractères de l'inflorescence, particulièrement leur structure. Celles qui ont seulement 2 appendices ressemblent aux inflorescences de D. angusticornis mais ces dernières sont très étroites et longues. Les inflorescences de D. turbinata ayant une surface florifère convexe ressemblent à celles de D. involuta mais celles-ci ont des appendices courts, réfléchis, involutés au sommet et sur les marges. Ces deux espèces sont si proches qu'on pourrait prouver leur conspéficité. D. involuta est également très proche de D. dorstenoides.
+The inflorescences of D. turbinata also show resemblances with those of the East African species D. alta ENGL., which appears very close to D. scaphigera Bur. But the inflorescences of D. alta ENGL. differ from those of D. turbinata by the presence of a wide erect fringe.
 
-Les inflorescences de D. turbinata montrent aussi des ressemblances avec celles de l'espèce est-africaine D. alta ENGL., laquelle semble très proche de D. scaphigera Bur. Mais les inflorescences de D. alta ENGL. différent de celles de D. turbinata par la présence d'une large frange dressée.
-
-D. turbinata est connu de Sierra Leone, du Liberia, de la Côte-d'Ivoire (avec une forme à feuilles rhomboidales qui constitue probablement une variété), également du Nigeria, du Cameroun (spécialement la région NW) et du Gabon (spécialement la région S). C'est une espèce de sous-bois de forêts primaires et de forêts secondaires anciennes, jusqu'à 1 000 m d'altitude. Elle se trouve également dans les régions humides.
+D. turbinata is known from Sierra Leone, Liberia, Côte d'Ivoire (with a form having rhomboidal leaves which probably constitutes a variety), also from Nigeria, Cameroun (especially the NW region) and Gabon (especially the S region). It is a species of the understory of primary forests and old secondary forests, up to 1000 m altitude. It is also found in humid regions.
 
 ## Specimens examined
 

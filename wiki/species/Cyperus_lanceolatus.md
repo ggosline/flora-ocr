@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Lam., Encycl. 7: 245 (1806). Pycreus lanceolatus (Poir.) C.B.Clarke in Durand & Schinz, Consp. fl. afric. 5: 538 (1894).
 
-in Lam., Encycl . 7 : 245 (1806). Pycreus lanceolatus (Poir.) C.B.Clarke In Durand & Schinz, Consp. fl. afric . 5 : 538 (1894).
-
-a b Herbe vivace (paraissant parfois annuelle), en touffe, à rhizome court ou avec des tiges espacées sur un long stolon rampant ; tiges de 15‒60 cm × 0,7‒2,5 mm, trigones, glabres, la base couverte par des gaines violacées. Feuille à limbe de 1‒30 cm × 1‒2,5 mm , plan, scabre sur la marge et la nervure centrale au moins près de l’extrémité. Inflorescence en tête globuleuse formée habituellement de nombreux épillets très serrés, large de 1‒4 cm ; bractées involucrales 2‒4, foliacées, étalées ou réfléchies, de 10‒25 cm × 1‒2,5 mm. Épillet linéaire–lancéolé, de 7‒25 × 2‒3,5 mm , brun jaunâtre clair, à rachis droit ; glumes ovales, longues de 2‒3 mm (glumes inférieures plus petites), dorées mais souvent avec des taches brun rougeâtre et une nervure médiane verdâtre, sommet arrondi. Fleur à 2 étamines ; style à 2 branches. Akène obovale, de 0,8‒1,2 × 0,5‒0,7 mm , avec un apicule court, biconvexe, gris, brun rougeâtre ou noirâtre, réticulé, devenant finement papilleux à maturité.
+a b Perennial herb (sometimes appearing annual), in tufts, with a short rhizome or with stems spaced along a long creeping stolon; stems 15–60 cm × 0.7–2.5 mm, trigonous, glabrous, the base covered by violaceous sheaths. Leaf with lamina 1–30 cm × 1–2.5 mm, flat, scabrous on the margin and central nerve at least near the apex. Inflorescence in a globose head usually formed of numerous very tightly packed spikelets, 1–4 cm wide; involucral bracts 2–4, foliaceous, spreading or reflexed, 10–25 cm × 1–2.5 mm. Spikelet linear-lanceolate, 7–25 × 2–3.5 mm, light yellowish brown, with a straight rachis; glumes ovate, 2–3 mm long (lower glumes smaller), golden but often with reddish-brown spots and a greenish midvein, apex rounded. Flower with 2 stamens; style with 2 branches. Achene obovate, 0.8–1.2 × 0.5–0.7 mm, with a short apicule, biconvex, grey, reddish-brown or blackish, reticulate, becoming finely papillose at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale et à Madagascar, aussi en Amérique tropicale ; dispersée au Gabon, trouvée dans l’Estuaire, la Ngounié, l’Ogooué-Ivindo et le Woleu-Ntem (5 récoltes)
+widely distributed in tropical Africa and Madagascar, also in tropical America; scattered in Gabon, found in Estuaire, Ngounié, Ogooué-Ivindo and Woleu-Ntem (5 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones humides des prairies, marais et en bordure des lacs et cours d’eau ; au Gabon, à 0‒600 m d’altitude, jusqu’à 2100 m en Afrique de l’Est. Note taxonomique : quelquefois confondue avec une forme à tête unique de C. flavescens , mais la tête est habituellement plus grande, l’épillet plus large et les akènes n’ont pas de rides transversales. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+humid zones of grasslands, marshes and along the margins of lakes and watercourses; in Gabon, at 0–600 m altitude, up to 2100 m in East Africa. Taxonomic note: sometimes confused with a single-headed form of C. flavescens, but the head is usually larger, the spikelet wider and the achenes do not have transverse ridges. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
 ## Notes
 

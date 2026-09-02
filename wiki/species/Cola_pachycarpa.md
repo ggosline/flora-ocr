@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ed., and Sterc. Afr.: 122, t. 12 E (1900). — PELLEGR. Fl. Mayombe I: 36 (1924), and Sterc. Gab., Mém. S. B. Fr.: 42 (1950-1951), excl. C. dasysperma Pierre, Klaine 191 and loc. Libreville.
 
-, rét. orig., et Sterc. Afr. : 122, t. 12 E (1900). — PELLEGR. Fl. Mayombe I : 36 (1924), et Sterc. Gab., Mém. S. B. Fr. : 42 (1950-1951), excl. C. dasysperma Pierre, Klaine 191 et loc. Libreville.
+Tree exceeding ten meters in height. Brown puberulent branchlets. Bark exuding yellowish resin. Terminal bud with large erect non-enveloping scales. Persistent stipules 1.5–3 cm long by 3–4 mm wide at the middle, slightly narrower at the base, acute at the apex, puberulent. Petioles 3–90 cm long, cylindrical, glabrescent. Leaves digitate, 7–9-foliolate. Petiolules 1–11 cm long, somewhat slender, glabrescent. Principal leaflets 12–50 cm long by 3–20 cm wide, elliptic, acute at the base, rounded or angular paucidentate at the apex, with a very acute acumen 7–30 mm long. Lateral leaflets similar, somewhat shorter, weakly inequilateral. Lamina coriaceous brownish when dry, glabrous on both faces. Midvein glabrescent. 11–15 pairs of ascending pennate veins.
 
-Arbre dépassant une dizaine de mètres. Extrémités brunes pubérulentes. Écorce exsudant une résine jaumâtre. Bourgeon terminal à grandes écailles redressées non enveloppantes. Stipules persistantes de 1,5-3 cm de long sur 3-4 mm de large au milieu, à base un peu plus étroite, à sommet aigu, pubérulentes. Pétioles de 3-90 cm de long, cylindriques, glabrescents. Feuilles digitées 7-9 foliolées. Pétiolues de 1-11 cm de long, un peu grêles, glabrescents. Folioles principales de 12-50 cm de long sur 3-20 cm de large, elliptiques, aiguës à la base, arrondies ou anguleuses paucidentées au sommet, avec un acumen très aigu de 7-30 mm de long. Folioles latérales semblables, un peu plus courtes, faiblement
+Inflorescences fasciculate with axes somewhat branched toward the base, arising on woody excrescences scattered on old wood. Small caducous bracteoles moderately puberulent. Pedicels slender, 20–35 mm long, with very small and very sparse stellate hairs, articulate at the upper third or quarter. Buds ovoid then oblong. Flower pink or carmine, ascending. Calyx deeply campanulate or somewhat urceolate, thin, 10–40 mm long, with pubescence both sparse and very fine or even almost absent on the outside, absent on the inside, with an inflated tube 7–23 mm long by 5–13 mm wide, with 3–5 lobes initially shortly acute and with pubérulent margins at the beginning of anthesis, then broadly ovate and attenuated.
 
-inéquilatérales. Limbe coriace brunâtre à sec, glabre sur les deux faces. Nervure médiane glabrescente. 11-15 paires de nervures pennées ascendantes.
+♂ Flower with a slender, glabrous androphore, 4–8 mm high, supporting 30–40 narrow uniseriate polliniferous locules arranged in a globose crown that masks a pubescent rudimentary ovary at its center. ♀ Flower with densely stellate-hairy ovary, basally surrounded by a cupuliform crown of polliniferous locules; 4 carpels, attenuate into a style crowned with papilliferous stigmas; 7–12 biseriate ovules per carpel.
 
-Inflorescences fasciculées à axes un peu ramiﬁés vers la base, poussant sur des excroissances ligneuses échelonnées sur le vieux bois. Petites bractéoles caduques médiocrement pubérulentes. Pédicelles élancés de 20-35 mm de long, à poils étoilés très petits et très clairsemés, articulés au tiers ou au quart supérieur. Boutons ovés puis oblongs. Fleur rose ou carmin, ascendante. Calice profondément campanulé ou un peu urcéolé, mince, de 10-40 mm de long, à pubescence à la fois éparse et très fine ou même presque nulle à l'extérieur, nulle à l'intérieur, à tube enflé de 7-23 mm de long sur 5-13 mm de large, à 3-5 lobes d'abord courtement aigus, et à marges pubérulentes au début de l'anthèse, puis largement ovés amincis.
+Fruit composed of 1–4 massive oblong follicles, 20 cm long by 10 cm wide, with a coarse acumen, with very thick non-ornate integuments, indehiscent. Seeds more or less numerous, compressed, broadly placented, thick, with 2 very fleshy cotyledons, with hirsute plumule.
 
-Fleur ♂ à androphore grêle, glabre, de 4-8 mm de haut, supportant 30-40 loges polliniques étroites unisériées, disposées en une couronne globuleuse qui masque en son centre un ovaire rudimentaire pubescent. Fleur ♀ à ovaire densément vêtu de poils stellés, entouré basalement d'une couronne cupuliforme de loges polliniques; 4 carpelles, atténués en un style coiffé de stigmates papillifères; 7-12 ovules bisériés par carpelle.
+Type of the species: Zenker 22 or 20 (?), probably destroyed; reference specimens determined by the author: Zenker and Staudt 550 and Zenker 1150 (P.).
 
-Fruit composé de 1-4 follicules massifs oblongs, de 20 cm de long sur 10 cm de large, à acumen grossier, à téguments très épais non ornés, indéhiscents. Graines plus ou moins nombreuses, comprimées, largement placentées, épaisses, à 2 cotylédons très charnus, à gemmule hirsute.
-
-Type de l'espèce : Zenker 22 ou 20 (?), probablement détruit ; spécimens de référence déterminés par l'auteur : Zenker et Staudt 550 et Zenker 1150 (P.).
-
-Ce Cola, remarquable par l'élégance de ses fleurs, croît dans la strate ombragée des forêts primaires; il est connu du Sud Nigéria au Gabon.
+This Cola, remarkable for the elegance of its flowers, grows in the shaded stratum of primary forests; it is known from southern Nigeria to Gabon.
 
 ## Vernacular names
 
@@ -41,9 +37,7 @@ Ekom (Fang)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. Les fruits sont comestibles (Annet).
+Uses. The fruits are edible (Annet).
 
 ## Specimens examined
 

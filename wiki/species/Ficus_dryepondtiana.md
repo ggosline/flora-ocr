@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 127 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 134 (1948).
 
-Arbuste épiphyte (étrangleur) à (grand) arbre ou plante grimpante ; jeunes branches creuses. Rameaux feuillés épais de 1-3 mm, glabres ou
+Epiphytic shrub (strangler fig) to (large) tree or climbing plant; young branches hollow. Leafy branchlets 1-3 mm thick, glabrous or sparsely very minutely puberulent, brown to blackish when dry. Leaves arranged in spirals. Lamina brown (dark) when dry, oblong to subovate (or ovate) or subobovate, 6-16 cm long, 2.5-6 (-7) cm wide, papyraceous to subcoriaceous, apex acuminate to subacute, base acute to rounded to truncate to subcordate (or cordate), margin entire; both surfaces glabrous or very minutely puberulent on the main nerves below; nerves coarsely prominent to plane above, ± prominent below; 5-8 pairs of lateral nerves, including 1 (-2) pairs of basal nerves, lateral nerves fused in a loop 3-8 (-10) mm from the margin of the lamina, often with a short straight portion, departing from the midrib at a 90° angle. Petiole 1-1.5-4.5 cm long, about 1.5 mm thick, often blackish when dry, glabrous or sparsely very minutely puberulent. Stipules free, 0.3-2 cm long, glabrous to sparsely very minutely puberulent toward the base, caducous to sometimes subpersistent, the stipules of the spur-shoots shortly velutinous yellow to puberulent.
 
-éparsement très petitement pubérulents, marron à noirâtres sur le sec. Feuilles disposées en spirales. Limbe marron (sombre) en séchant, oblong à subové (ou ové) ou à subobové, long de 6-16 cm, large de 2,5-6 (-7) cm, papyracé à subcoriace, sommet acuminé à subaigu, base aiguë à arrondie à tronquée à subcordée (ou à cordée), bord entier ; les deux faces glabres ou très petitement pubérulentes sur les nervures principales dessous; nervures grossièrement saillantes à planes dessus, ± saillantes dessous; 5-8 paires de nervures latérales, incluant 1 (-2) paires de nervures basales, nervures latérales soudées en boucle à 3-8 (-10) mm du bord du limbe, souvent avec une courte partie droite, partant de la nervure médiane sous un angle de 90°. Pétiole long de (1-1,5-4,5 cm, épais de 1,5 mm environ, souvent noirâtre sur le sec, glabre ou éparsement très petitement pubérulent. Stipules libres, longues de 0,3-2 cm, glabres à éparsement très petitement pubérulentes vers la base, caduques à parfois subpursuantes, les stipules des éperons courtement velutineuses jaunes à pubérulentes.
+Figs (in clusters?) on cushion-like spurs or up to 3 cm long on the lower branches (and on the trunk?); peduncle 1-3 cm long, 2-3 mm thick, (almost) glabrous; basal bracts 2, the upper parts early caducous, leaving a ± oblique narrow rim, like a collar, formed by the persistent connate parts; receptacle globose (the base ± contracted on young dry specimens), 4-5 cm in diameter when fresh, 3-4.5 cm when dry, yellow to brownish puberulent to hirtellous, rather densely so around the ostiole, green with small white spots at maturity, wall 2-3 mm thick when dry, ostiole initially ± prominent, later ± sunken, slit-shaped.
 
-Figues (en bouquet ?) sur des éperons en coussin ou longs jusqu'à 3 cm sur les branches plus basses (et sur le tronc ?) ; pédoncule long de 1-3 cm, épais de 2-3 mm, (presque) glabres ; bractées basales 2, les parties supérieures tôt caduques, laissant un bourrelet ± oblique étroit, comme un col, formé par les parties connées persistantes ; réceptacle globuleux (la base ± contractée sur les échantillons jeunes secs), d'un diamètre de 4-5 cm sur le frais, de 3-4,5 cm sur le sec, pubérulent jaune à brunâtre à hirtelleux, plutôt densément ainsi autour de l'ostiole, vert avec de petites taches blanches à maturité, paroi épaisse de 2-3 mm sur le sec, ostiole au début ± saillant, tardivement ± enfoncé, en forme de fente.
+Pistillate flowers with 4 free tepals, 3-4 mm long in seed flowers and (sub)acute, 2.5-3 mm long and (sub)obtuse in gall flowers, styles compact, enlarged toward the base; seed flowers sessile or subsessile, style about 3 mm long; gall flowers with pedicel up to 3 mm long, style 1-2.5 mm long. Fruits oblongoid, about 3 mm long; gall fruits obovoid or subglobose to ellipsoid and stipitate. Staminate flowers several, sometimes in small groups, perigone with 2 tepals 3.5-4 mm long, obtuse and ± cucullate, filament about 3 mm long, anther about 1.5 mm long. Interfloral bracts 3-4.5 mm long. – Pl. 60, fig. 1-4, 6-7, p. 205.
 
-Fleurs pistillées avec 4 tépales libres, longs de 3-4 mm dans les fleurs à graines et (sub) aigus, longs de 2,5-3 mm et (sub) obtus dans les fleurs à galles, styles compacts, élargis vers la base ; fleurs à graines sessiles ou subsessiles, style long de 3 mm environ ; fleurs à galles à pédicelle long jusqu'à 3 mm, style long de 1-2,5 mm. Fruits oblongoides, longs de 3 mm environ ; fruits à galles obvoides ou subglobuleux à ellipsoides et stipites. Fleurs staminées, plusieurs, parfois en petits groupes, périant the avec 2 tépales longs de 3,5-4 mm, obtus et ±cucullés, filet long de 3 mm environ, anothère longue de 1,5 mm environ. Bractées interflorales longues de 3-4,5 mm. - Pl. 60, fig. 1-4, 6-7, p. 205.
-
-Pollinisateur : Agaon peniculum WIEBES (Ghana).
+Pollinator: Agaon peniculum WIEBES (Ghana).
 
 ## Type
 
@@ -37,9 +33,7 @@ Sapin s.n., Zaïre, lac Foa (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est connue du Zaïre, de Centrafrique, du Congo, du Gabon et du Cameroun. Dans les forêts humides ou les forêts-galeries.
+The species is known from Zaire, Central Africa, Congo, Gabon and Cameroon. In humid forests or gallery forests.
 
 ## Specimens examined
 

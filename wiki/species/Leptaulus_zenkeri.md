@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — L. vilhenæ Cavaco, Bull. Mus. Paris 29 : 511 (1957), syn. nov.
 
 — L. congolanus (BAILL.) LOBREAU-CALLEN & VILLIERS, Adansonia ser. 2 11, 1 : 135 (tab. 1 (1971)). — VILLIERS & LOBREAU-CALLEN, Adansonia ser. 2 11, 2 : 397 (1971).

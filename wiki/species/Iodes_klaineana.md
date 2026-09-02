@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — I. laurentii De Wild., Miss. Laur. 1 : 381 (1907); Ann. Mus. Congo b., Bot., sér. 5, 2 : 295 (1908); Fl. Bang. Ub. : 340 (1911); Bull. J. B. Brux. 5 : 318 (1919); Pl. Bequaert. 1 : 239 (1922).
 
 — I. talbotii Hook. f. ex Hutch. & DALZ., FWTA, ed. I, 1:457 (1928); Kew Bull.: 23 (1929).

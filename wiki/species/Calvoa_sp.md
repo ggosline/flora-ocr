@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 20 cm tall; branches slender, internodes short. Leaves narrowly lanceolate, 0.8 × 3 cm, apparently uninerved and with entire margins.
 
-Arbrisseau de 20 cm; rameaux grêles, entrenœuds courts. Feuilles étroitement lancéolées, de  $ 0,8 \times 3 $ cm, apparemment univerviées et à marges entières.
+Fruit broadly turbinate, 5 mm high.
 
-Fruit largement turbiné, haut de 5 mm.
-
-Récolté à Abanga : Hallé 2260; et aussi au Zaïre. Le matériel disponible est insuffisant pour une description, mais il semble bien que ce soit une espèce distincte.
+Collected at Abanga: Hallé 2260; and also in Zaïre. The available material is insufficient for a description, but it seems clear that this is a distinct species.
 
 ## Notes
 

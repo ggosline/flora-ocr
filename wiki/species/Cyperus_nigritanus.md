@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lidia 7(4) : 97 (2011). Kyllinga nigritana C.B.Clarke in Dyer, Fl. trop. Afr . 8 : 272 (1902). C. cristatus (Kunth) Mattf. & Kük. var. nigritanus (C.B.Clarke) Kük. in Engl. & Diels, Pflanzenr . IV. 20(101) : 610 (1936). Herbe robuste, vivace, en touffe dense, avec un rhizome court produisant de nombreuses tiges serrées ; tiges de 10‒50 cm × 0,4‒1,7 mm, trigones, profondément ou faiblement striées, renflées à la base et densément couvertes par les vieilles gaines foliaires se décomposant souvent en fibres noires. Feuille : gaine brun pâle à rougeâtre, les basales sans limbe ; limbe de 5‒40 cm × 2‒7 mm , plan ou incurvé, vert, scabre sur la marge et la nervure centrale. Inflorescence en tête solitaire, globuleuse ou légèrement ovoïde, blanche devenant brun pâle sale , de 6‒15 × 6‒15 mm ; réceptacle ovoïde ; bractées involucrales 2‒5, foliacées, étalées ou réfléchies , la principale longue de 3‒15 cm . Épillet ovale, de 4–6,5 mm × 2‒3 mm , à 2 fleurs habituellement bisexuées (parfois la supérieure mâle) ; glumes subégales, longues de 3,5‒6,5 mm , acuminées, blanchâtres et souvent tachetées de brun, avec 2‒3 nervures latérales assez faibles, nervure centrale largement ailée et dentée, chaque dent à base large et sommet avec une étroite épine ciliée, (parfois dent avec 2 épines). Fleur à 3 étamines ; style à 2 branches. Akène oblong–ellipsoïde, de 1,4‒1,8 × 0,6‒0,8 mm , aplati, noirâtre, finement papilleux.
+Lidia 7(4) : 97 (2011). Kyllinga nigritana C.B.Clarke in Dyer, Fl. trop. Afr . 8 : 272 (1902). C. cristatus (Kunth) Mattf. & Kük. var. nigritanus (C.B.Clarke) Kük. in Engl. & Diels, Pflanzenr . IV. 20(101) : 610 (1936). Robust herb, perennial, in dense tufts, with a short rhizome producing numerous crowded stems; stems 10–50 cm × 0.4–1.7 mm, trigonous, deeply or weakly striated, swollen at the base and densely covered by old leaf sheaths often decomposing into black fibres. Leaf: sheath pale brown to reddish, the basal ones without a blade; blade 5–40 cm × 2–7 mm, flat or incurved, green, scabrous on the margin and the midvein. Inflorescence in a solitary head, globose or slightly ovoid, white becoming pale dirty brown, 6–15 × 6–15 mm; receptacle ovoid; involucral bracts 2–5, foliaceous, spread or reflexed, the main one 3–15 cm long. Spikelet ovate, 4–6.5 mm × 2–3 mm, with 2 flowers usually bisexual (sometimes the upper one male); glumes subequal, 3.5–6.5 mm long, acuminate, whitish and often spotted with brown, with 2–3 fairly weak lateral nerves, central nerve broadly winged and toothed, each tooth with a broad base and apex with a narrow ciliate spine, (sometimes tooth with 2 spines). Flower with 3 stamens; style with 2 branches. Achene oblong–ellipsoid, 1.4–1.8 × 0.6–0.8 mm, flattened, blackish, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale de l’Ouest et du centre ; rare au Gabon, trouvée seulement dans le Haut-Ogooué
+widely distributed in tropical West and central Africa; rare in Gabon, found only in the Upper Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in seasonally humid zones of grasslands, savannas and wooded areas; in Gabon, around 300–350 m altitude. Taxonomic note: recognized by its dense tufts, its whitish heads and its glumes clearly winged and toothed. It should perhaps be included in C. cristatus (Kunth) Mattf. & Kük ( Kyllinga alba Nees). B : Hooper & Napper (1972). Bibliography
 
-dans les zones saisonnièrement humides des prairies, savanes et zones boisées ; au Gabon, vers 300‒350 m d’altitude. Note taxonomique : se reconnaît par ses touffes denses, ses têtes blanchâtres et ses glumes nettement ailées et dentées. Elle devrait peut-être être incluse dans C. cristatus (Kunth) Mattf. & Kük ( Kyllinga alba Nees). B : Hooper & Napper (1972). ibliographie
-
-Inflorescence. – C. Épillet. – D. Écailles basales Section du limbe. – C. Sommet du limbe. – D. des épillets. – E, F. Glumes. – G. Fleur. – H. Fruit. Inflorescence. – E. Inflorescence anormale avec Dessin original par E.M. Stones ©, reproduit avec multiplication des bractées involucrales. – F. Épillet permission à partir de Nelmes & Baldwin (1952). avec 5 fleurs. – G. Épillet avec jeunes fruits. Dessin original par Richard W. Haines ©.
+Inflorescence. – C. Spikelet. – D. Basal scales Section of blade. – C. Apex of blade. – D. of spikelets. – E, F. Glumes. – G. Flower. – H. Fruit. Inflorescence. – E. Abnormal inflorescence with Original drawing by E.M. Stones ©, reproduced with multiplication of involucral bracts. – F. Spikelet permission from Nelmes & Baldwin (1952). with 5 flowers. – G. Spikelet with young fruits. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

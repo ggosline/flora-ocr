@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Cf. PELLEGR. Sterc. Gab., Mém. Soc. Bot. Fr.: 36 (1950-1951).
 
-Cette espèce dont manquent les fleurs, ressemble quelque peu au C. flavovelutina mais les bourgeons terminaux sont courts et à écailles enveloppantes; les feuilles sont comparables mais moins vigoureuses et à réticule plus fin. Les fruits 4-5-carpellés présentent des follicules de 2,5-5 cm de long, jaune orangé, glabres, indéhis-cents, oblongs, subsessiles sur le réceptacle, acuminés, contenant (1) 4-5 graines d'env. 10 mm de diam.
+This species, of which the flowers are lacking, somewhat resembles C. flavovelutina but the terminal buds are short and with enveloping scales; the leaves are comparable but less vigorous and with finer reticulation. The 4-5-carpellate fruits present follicles 2.5-5 cm long, yellow-orange, glabrous, indehiscent, oblong, subsessile on the receptacle, acuminate, containing (1) 4-5 seeds of approximately 10 mm diam.
 
-Seul matériel étudié, Le Testu : 9001, Assok-Ngoum entre Ogooué et Cameroun (fr. mars) (P.). Il nous a paru inacceptable de suivre Pellegrin en rattachant cette plante au C. flavovelutina v. idoumensis, elle en est spécifiquement très différente.
+Sole material studied, Le Testu: 9001, Assok-Ngoum between Ogooué and Cameroon (fr. March) (P.). It has seemed to us unacceptable to follow Pellegrin in attaching this plant to C. flavovelutina v. idoumensis; it is specifically very different from it.
 
-SOUS-GENRE V. FICICOLA N. Hallé.
+SUBGENUS V. FICICOLA N. Hallé.
 
-Limbe non argenté dessous, généralement ochracé ou roux à sec; nervures pennées des lobes, peu obliques; ovaire à 3-5, rarement 6-7 carpellos vêtus de poils stcllés en touffes. 4-10 ovules par carpelle; follicule à pubescence très courte ..... 23. C. ficifolia. Limbe argenté ou superficiellement blanchâtre dessous, souvent olivacé à sec; nervures pennées des lobes assez obliques; ovaire à 6-7 carpelles vêtus de poils non disposés en grosses touffes stcllés; 8-12 ovules par carpelle; follicules immatures hirsutes..... 24. C. duparquetiana.
+Limb not silvered beneath, generally ochraceous or reddish when dry; pinnate venation of the lobes, slightly oblique; ovary with 3-5, rarely 6-7 carpels clothed with stellate hairs in tufts. 4-10 ovules per carpel; follicle with very short pubescence ..... 23. C. ficifolia. Limb silvered or superficially whitish beneath, often olivaceous when dry; pinnate venation of the lobes fairly oblique; ovary with 6-7 carpels clothed with hairs not arranged in large stellate tufts; 8-12 ovules per carpel; immature follicles hirsute ..... 24. C. duparquetiana.
 
 ## Notes
 

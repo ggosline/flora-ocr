@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree. Branchlets scaly, at first pubescent. Leaves oblong, acute at the base, long-acuminate at the apex, coriaceous, glabrous and shining above, pubescent below. Petiole approximately 5 mm long. Pedicels slender, pubescent, 2-3 cm long, bearing at the apex lanceolate bracteoles, somewhat shorter than the sepals. Sepals lanceolate, and at the end of anthesis reflexed, ± 1 cm long and ± 4 mm wide at the base. Ovary pubescent. Petals white, quickly caducous, as long as the sepals.
 
-Petit arbre. Rameaux écailleux, d'abord pubescents. Feuilles oblongues, aiguës à la base, longuement acuminées au sommet, coriaces, glabres et luisantes en dessus, pubescentes en dessous. Pétiole d'environ 5 mm de long. Pédicelles grêles, pubescents, de 2-3 cm de long, portant au sommet des bractéoles lancéolées, un peu plus courtes que les sépales. Sépales lancéolés, et, en fin d'anthèse réfléchis, ± 1 cm de long et ± 4 mm de large à la base. Ovaire pubescent. Pétales blancs, rapidement caducés, aussi longs que les sépales.
-
-Originaire du Brésil. Voisin de l'Eugenia edulis (Berg) Ndz. Fruit comestible.
+Native to Brazil. Related to Eugenia edulis (Berg) Ndz. Fruit edible.
 
 ## Specimens examined
 

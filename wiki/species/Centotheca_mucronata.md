@@ -25,15 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs reaching 1 m tall. Sheaths glabrous, more or less flattened laterally, marked by the prolongation of the midvein of the blade. The latter up to $ 15 \times 2 $ cm, lanceolate, rounded and subamplexicaul at the base, often colored violet.
 
-Herbes pérennes atteignant 1 m de haut. Gaines glabres, plus ou moins aplaties latéralement, marquées par le prolongement de la nervure médiane du limbe. Celui-ci jusqu'à  $ 15 \times 2 $ cm, lancéolé, arrondi et subamplexicaule à la base, souvent coloré en violet.
+Inflorescences in loose panicles reaching about twenty centimeters long, with long branches first erect then spreading. Spikelets elongate, $ 8–12 \times 3 $ mm, with 8–15 flowers or more. Glumes $ 2 $ mm long, with scabrous keels, mucronate, with $ 3 $ nerves. Lemmas similar, with $ 7–9 $ nerves, rounded-emarginate and mucronate at the apex. Paleas somewhat shorter, bicarinate, scabrous on the keels and emarginate at the apex. Achenes brown, longitudinally wrinkled.
 
-Inflorescences en panicules lâches atteignant une vingtaine de centimètres de long, à longues branches d'abord dressées puis étalées. Épillets allongés, de  $ 8-12 \times 3 $ mm, à 8-15 fleurs ou plus. Glumes de  $ 2 $ mm de long, à carènes scabres, mucronées, à  $ 3 $ nervures. Lemmas semblables, à  $ 7-9 $ nervures, arrondies-émarginées
-
-et mucronées au sommet. Paléas un peu plus courtes, bicarénées, scabres sur les carènes et échancrées au sommet. Akènes bruns, ridés longitudinalement.
-
-Espèce banale dans les zones forestières de l'Afrique inter-tropicale; connue également à Madagascar. Plante du sous-bois et des jachères forestières, fréquente en particulier dans le fourré littoral.
+Common species in the forested zones of inter-tropical Africa; also known from Madagascar. Plant of the forest understory and fallow forest land, frequent in particular in coastal thicket.
 
 ## Specimens examined
 

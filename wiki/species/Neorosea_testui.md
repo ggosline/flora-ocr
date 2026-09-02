@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with puberulous internodes. Stipules tubular, briefly apiculate. Petiole puberulous, 4-8 mm long. Lamina glabrous, elliptic, base obtuse or acute. Midrib glabrous above, puberulous below with linear bacterial domatia. Secondary nerves 5-8 on each side. Domatia pilosulous. Flowers axillary, solitary, subsessile. Calyx membranaceous, 2-3(4)-lobed, lobes 1.5 mm long. Corolla white, tube 5 mm long puberulous, throat puberulous, lobes 6-7 oblong, 3 mm long. Stamens erect. Anthers basifixed with marginal lateral thecae, filament scarcely 1 mm long, sinuate. Style puberulous. Stigma exsert, bilobed. Disk glabrous. Placenta biovulate.
 
-Frutex internodiis puberulis. Stipulæ tubulosaebreviter apiculatae. Petiolus puberulus 4-8 mm longus. Lamina glabra elliptica basi obtusa val acuta. Costa superne glabra, subtus puberula caccidis bacteriferis linearibus. Nervi secundarii utrinque 5-8. Domatiae pilosulae. Flores axillares solitarii subsesiles. Calyx membranaceus 2-3(4)-lobatus, lobis 1,5 mm longis. Corolla alba tubo 5 mm longo puberulo, faucie puberula lobis 6-7 oblongis 3 mm longis. Stamina erecta. Anthoræ basifixae thecis marginalibus lateralibus, filamento vix 1 mm longo sinuato. Stylus puberulus. Stigma exsertum bilobatum. Discus glaber. Placenta biovulata.
+Scandent shrub (?) exceeding 3 m in height, with juvenile internodes clothed in fine appressed ochraceous pubescence, epidermis eventually scaly. Stipules tubular for 1-2 mm, pubescent, with acute apex less than 1 mm. Petiole finely pubescent, 4-8 mm. Blade brown or russet when dry, entirely glabrous above and nearly entirely so below, elliptic, 4-10 × 1.5-4.3 cm, with obtuse or acute base, ± acuminate apex. Midrib glabrous above, pubescent below; 5-8 pairs of secondary nerves. Domatia axillary in small tufts of short hairs.
 
-Arbuste sarmenteux (?) dépassant 3 m de hauteur à entre-nœuds juvéniles vêtus d'une fine pubescence apprimée, ochracée, à épiderme finalement squameux. Stipules tubuleuses sur 1-2 mm, pubescentes, à apex aigu de moins de 1 mm. Pétiole finement pubescent de 4-8 mm. Limbe brun ou roussâtre à sec, entièrement glabre dessus et presque entièrement dessous, elliptique, de 4-10 × 1,5-4,3 cm, à base obtuse ou aiguë, à sommet ± acuminé. Médiane glabre dessus, pubescente dessous; 5-8 paires de nervures secondaires. Domaties axillaires en petites touffes de poils courts.
+Flowers solitary, axillary, subsessile, opposite in pairs on successive nodes, not seen in bud. Calyx with membranaceous limb split into 2-3(4) obtuse lobes 1.5 mm long. Corolla white, tube approximately 5 mm long by 1 mm wide, finely pubescent externally except for the lower third which is glabrous, throat pubescent inside; 6-7 oblong lobes approximately 3 × 1-1.5 mm. 6-7 stamens, with filament nearly 1 mm, inserted at the throat, somewhat sinuate. Anthers basifixed, 1-1.5 × 0.5-0.7 mm, with subacute apex. Style moderately pubescent, 6-8 mm long, with 2 ± oblong divergent lobes 0.8-1 mm. Ovary with 2 biovulate locules; ovules spaced on each placenta.
 
-Fleurs solitaires axillaires subsessiles opposées par paires sur des nœuds successifs, non vues en bouton. Calice à limbe membra-neux fendu en 2-3 (4) lobes obtus longs de 1,5 mm. Corolle blanche à tube d'environ 5 mm de longueur sur 1 mm de largeur, finement pubescent extérieurement sauf le tiers inférieur qui est glabre, à gorge pubescente à l'intérieur; 6-7 lobes oblongs d'env. 3 × 1-1,5 mm. 6-7 étamines, à filet de près de 1 mm, inséré à la gorge, un peu sinueux. Anthères basifixes de 1-1,5 × 0,5-0,7 mm, à sommet subaigu. Style médiocrement pubescent long de 6-8 mm, à 2 lobes ± oblongs divergents de 0,8-1 mm. Ovaire à 2 loges biovulées; ovules espacées sur chaque placenta.
-
-Fruit (N. Hallé 3569) globuleux vert de 12-15 mm de diamètre, à pédoncule atteignant 3 mm, à paroi un peu rugueuse à sec, épaisse de près de 1 mm. 2-3 graines par fruit. Graine de 6-7 mm, bombée, à testa brunâtre finement ridé à sec.
+Fruit (N. Hallé 3569) globose, green, 12-15 mm in diameter, with pedicel reaching 3 mm, wall slightly rugose when dry, nearly 1 mm thick. 2-3 seeds per fruit. Seed 6-7 mm, convex, with brownish testa finely wrinkled when dry.
 
 ## Type
 
@@ -32,9 +30,7 @@ Le Testu 6463 (P, isotype BM), Haute Ngounyé (31 mars 1927)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun (Bates 1704 et 1835, Bitya, riv. Ja) et Gabon.
+Cameroon (Bates 1704 and 1835, Bitya, Ja River) and Gabon.
 
 ## Specimens examined
 

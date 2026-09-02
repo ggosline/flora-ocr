@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb with twining stems, glabrous or with scattered hairs, ± appressed, glabrescing or not. Leaf: petiole subcylindric, slightly wrinkled above, 3–11 cm, with scattered hairs, ± appressed; limb broadly ovate, 6–16 × 6–12 cm, broadly cordate at the base, acuminate over 1–3 cm at the apex, with entire or shortly lobed margin, with 6–7 pairs of lateral nerves, sparsely pilose with stiff and appressed hairs on both faces. Inflorescence: dense-flowered cymes, umbelliform; peduncle 0.5–2 cm, pilose like the stems; bracts and bracteoles narrowly triangular, 1–2 mm long, ± pilose like the peduncle. Flower: pedicel 1–2 cm, ± glabrous; sepals ovate, 4–5 × 2–3 mm, acute and mucronate at the apex, ± glabrous; corolla narrowly urceolate, 12–13 mm long, whitish, glabrous; stamens included, 5 mm long, filaments bearing a scale 2–2.5 mm long at the base and pilose at the margin at the apex, anthers sagittate, 2 mm long; disk cupulate, approximately 0.5 mm high, glabrous; pistil glabrous, approximately 3 mm long, with semi-globose stigma, strongly papillose.
 
-Herbe à tiges volubiles, glabres ou à poils épars, ± apprimés, glabrescentes ou non . Feuille : pétiole subcylindrique, légèrement ridé dessus, 3–11 cm, à poils épars, ± apprimés ; limbe largement ovale , 6–16 × 6–12 cm, largement cordé à la base , acuminé sur 1–3 cm au sommet, à bord entier ou courtement lobé , à 6–7 paires de nervures latérales, éparsement pileuses à poils raides et apprimés sur les deux faces . Inflo rescence : cymes densiflores, ombelliformes ; pédoncule 0,5–2 cm, pileux comme les tiges ; bractées et bractéoles étroitement triangulaires, 1–2 mm de longueur, ± poilues comme le pédoncule. Fleur : pédicelle 1–2 cm, ± glabre ; sépales ovales, 4–5 × 2–3 mm, aigus et mucronulés au sommet, ± glabre ; corolle étroitement urcéolée, 12–13 mm de longueur, blanchâtre, glabre ; étamines incluses, 5 mm de longueur, filets munies d’une écaille longue de 2–2,5 mm à la base et poilues à bord au sommet , anthères sagittées, 2 mm de longueur ; disque cupulé, environ 0,5 mm de hauteur, glabre ; pistil glabre , environ 3 mm de longueur, à stigmate semi-globuleux, fortement papilleux .
+Flower. – 4. Calyx, one sepal removed. – 5. Corolla opened. – 6. Part of the corolla with one stamen. – 7. Pollen grains. – 8. Fruit. – 9. Seed. (1–7: Jongkind et al. 1817; 8, 9: Darbyshire et al. 307). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
-Fleur. – 4. Calice, un1 sépale enlevé. – 5. Corolle ouverte. – 6. Partie de la corolle avec une étamine. – 7. Grains de pollen. – 8. Fruit. – 9. Graine. (1–7 : Jongkind et al. 1817 ; 8, 9 : Darbyshire et al. 307 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
-
-Fruit subglobuleux, environ 6 mm de diamètre, glabre. Graines ± ellipsoïdes, anguleuses, 2–3 mm de longueur, brun noirâtre, éparsement poilues .
+Fruit subglobose, approximately 6 mm in diameter, glabrous. Seeds ± ellipsoid, angular, 2–3 mm long, dark brown, sparsely pilose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce de l’Afrique de l’ouest, de la Sierra Leone au Nigeria, du Cameroun et du Gabon d’où elle est connue d’une seule récolte de l’Ogooué-Ivindo
+species of West Africa, from Sierra Leone to Nigeria, Cameroon and Gabon from which it is known from a single collection from the Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt riveraine ; au Gabon, à 640 m d’altitude, ailleurs à 0–1000 m. B : Heine (1963). ibliographie
+riverine forest; in Gabon, at 640 m altitude, elsewhere at 0–1000 m. B: Heine (1963). Bibliography
 
 ## Notes
 

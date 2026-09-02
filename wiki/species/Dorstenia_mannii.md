@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bot. Mag. 3 (27): tab. 5908 (1871); BUREAU in DC., Prodr. 17: 271 (1873); ENGL., Monogr. Afr. Pfl. 1, Moraceae: 18 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 31 (1916); HUTCH. & DALZ., FWTA, ed. 1, 1: 427 (1927); KEAY, FWTA, ed. 2, 1: 597 (1958); DE WILD., Pl. Bequaert. 6: 48 (1932).
 
-Bot. Mag. 3 (27): tab. 5908 (1871); BUREAU in DC., Prodr. 17: 271 (1873); ENGL., Monogr. Afr. Pfl. 1, Moracea: 18 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 31 (1916); HUTCH. & DALZ., FWTA, ed. 1, 1: 427 (1927); KEAY, FWTA, ed. 2, 1: 597 (1958); DE WILD., Pl. Bequaert. 6: 48 (1932).
+Herbs with creeping rhizomes; stems procumbent to ascending, 5–100 cm long, subglabrous or puberulent with short uncinate white hairs, often intermixed with curved white hairs, more scattered or more dense, longer and coarser; internodes 2–60 mm long, 1.5–5 mm thick. Leaves spiralled or nearly distichous. Blade elliptic-oblong to lanceolate or obovate, (1.5–) 3–21 (–24) × 1–10 cm, chartaceous; apex acute, obscurely or distinctly acuminate, or sometimes obtuse; base narrowly to broadly cuneate, sometimes oblique; margin sinuate, irregularly denticulate or crenate, sometimes coarsely and obscurely dentate toward apex, or with 2–4 obtuse lobes; upper surface glabrous; lower surface glabrous or with short scattered white uncinate hairs, particularly on the nerves, sometimes intermixed with a few longer and coarser curved white hairs; midvein and secondary nerves slightly impressed above; below, primary, secondary and sometimes also tertiary nerves prominent; (3–) 4–11 pairs of secondary nerves. Petiole 2–55 mm long and 0.5–2 mm in diameter, with indumentum similar to that of the stem or denser. Stipules (sub)persistent, narrowly triangular or subulate, (0.5–) 1–12 mm long and 0.3–1 mm wide at the base, glabrous or with small scattered hairs, straight to uncinate; stipules sometimes clustered at the leaf axil and at the stem apex.
 
-Herbes avec des rhizomes rampants ; tiges procombantes à ascendantes, longues de 5-100 cm, subglabres ou pubérulentes avec de courts poils blancs uncinés, souvent mêlés à des poils blancs courbés, plus épars ou plus denses, plus longs et plus gros ; entre-nœuds longs de (2-) 5-60 mm, épais de 1,5-5 mm. Feuilles spirallées ou presque distiques. Limbe elliptique-oblong à lancéolé ou obovale, (1,5-) 3-21 (-24) × 1-10 cm, chartacé ; apex aigu, obscurément ou distinctement acuminé, ou parfois obtus ; base étroitement à largement cunéée, parfois oblique ; marge sinuée, irrégulièrement denticulée ou crénelée, parfois grossièrement et obscurément dentée vers l'apex, ou avec 2-4 lobes obtus ; face supérieure glabre ; face inférieure glabre ou avec de courts poils uncinés blancs, épars, surtout sur les nervures, parfois mêlés à quelques poils blancs courbés plus longs et plus gros ; nervure médiane et nervures secondaires légèrement imprimées dessus ; dessous, nervures primaire, secondaires et parfois aussi tertiaires, proéminentes ; (3-) 4-11 paires de nervures secondaires. Pétiole de 2-55 mm de longueur et 0,5-2 mm de diamètre, à indumentum semblable à celui de la tige ou plus dense. Stipules (sub) persistentes, étroitement triangulaires ou subulées, longues de (0,5-) 1-12 mm et larges de 0,3-1 mm à la base, glabres ou avec de petits poils épars, droits à uncinés ; parfois stipules groupées à l'aisselle des feuilles et au sommet de la tige.
+Inflorescences solitary or in pairs, greenish to purplish. Peduncle 2–40 (–50) mm long and 0.5–1.5 mm in diameter, sometimes enlarged toward the receptacle, nearly glabrous or with small white hairs, scattered to dense, straight to uncinate, sometimes intermixed with curved white hairs, more scattered, longer and coarser. Receptacle discoid or broadly infundibuliform, nearly turbinate in fruit, with on the outer surface distinct ribs extending into the appendages (sometimes also a few veins visible between the ribs); receptacle 1–8 mm tall and 3–14 mm in diameter, the fringe 0.25–1 mm wide being included; fertile surface nearly flat, or slightly convex and then margin sometimes reflexed; receptacle suborbicular with (2–) 4–18 triangular lobes of $ 0.5–1.5 \times 1.3 $ mm, each one extending into a linear appendage 10–65 mm long and 0.3–2 (–2.5) mm wide at the obtuse or weakly lobed apex; often 1–6 shorter appendages situated between the receptacle lobes; upper surface of the fringe and appendages glabrous or with small white dome-shaped hairs, scattered to dense, or uncinate hairs; outer surface of the receptacle and appendages nearly glabrous or with small white hairs, fairly dense, straight to uncinate, sometimes intermixed with curved white hairs, more scattered, longer and coarser, especially on the radial ribs. Flowers numerous, sometimes fairly distinct, with 2- or 3-lobed perianth, ca. 
 
-Inflorescences solitaires ou par paires, verdâtres à purpurascentes. Pédoncule de 2-40 (-50) mm de longueur et 0,5-1,5 mm de diamètre, parfois élargi vers le réceptacle, presque glabre ou avec de petits poils blancs, épars à denses, droits à uncinés, parfois mêlés à des poils blancs courbés, plus épars, plus longs et plus gros. Réceptacle discoide ou largement infundibiliforme, presque turbiné dans le fruit, avec sur la face externe des côtes nettes se prolongeant dans les appendices (parfois aussi quelques nervures visibles entre les côtes) ; réceptacle de 1-8 mm de hauteur et 3-14 mm de diamètre, la frange large de 0,25-1 mm étant incluse ; surface florifère presque plane, ou légèrement convexe et alors marge parfois réfléchie ; réceptacle suborbiculaire avec (2-) 4-18 lobes triangulaires de  $ 0,5-1,5 \times 1,3 $ mm, chacun d'entre eux se prolongeant en un appendice linéaire long de (5-) 10-65 mm et large de 0,3-2 (-2,5) mm à sommet obtus ou faiblement lobé ; souvent 1-6 appendices plus courts, situés entre les lobes du réceptacle ; face supérieure de la frange et des appendices glabre ou avec de petits poils blancs en forme de dôme, épars à denses, ou des poils uncinés ; face externe du réceptacle et des appendices presque glabre ou avec de petits poils blancs, assez denses, droits à uncinés, parfois mêlés à des poils blancs courbés, plus épars, plus longs et plus gros, surtout sur les côtes radiales. Fleurs à nombreuses, parfois assez distinctes, à périanthe 2- ou 3-lobé, d'env.
+MORACEAE
 
-MORACEA
+0.7 mm in diameter; stamens 2 or 3, with filaments 0.25–1 mm long and anthers 0.1–0.3 × 0.1–0.3 mm with fairly narrow connective. Female flowers 3–16, with discoid perianth ca. 0.3 mm in diameter and 0.3 mm tall; style 0.5–2 mm long, not exceeding the perianth; stigmas 2, linear, 0.3–1 mm long and 0.05 mm thick, spreading.
 
-0,7 mm de diamètre ; étamines 2 ou 3, à filaments longs de 0,25-1 mm et anthères de 0,1-0,3 × 0,1-0,3 mm à connectif assez étroit. Fleurs ♀ 3-16, à périanthe discoïde d'env. 0,3 mm de diamètre et 0,3 mm de hauteur ; style long de 0,5-2 mm, ne dépassant pas le périanthe ; stigmates 2, linéaires, longs de 0,3-1 mm et épais de 0,05 mm, étalés.
-
-Noyau de 2-4 mm de diamètre, lisse.
+Drupe 2–4 mm in diameter, smooth.
 
 ## Type
 
@@ -47,93 +45,89 @@ Bates 518, Gabon, Mfoa (holo-, K ; iso-, BM, G)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Within this highly variable species, 6 fairly poorly differentiated varieties can be recognized on the basis of various characters.
 
-Dans cette espèce très variable, 6 variétés assez peu distinctes peuvent être reconnues d'après différents caractères.
+KEY TO THE VARIETIES
 
-CLÉ DES VARIÉTÉS
+1. Receptacle with 10–14 (–18) lobes extending into primary appendages.
 
-1. Réceptacle avec 10-14 (-18) lobes se prolongeant en appendices primaires.
+2. Stems (30–) 50–100 cm tall ..... a. var. mannii.
 
-2. Tiges hautes de (30-) 50-100 cm ..... a. var. mannii.
+1'. Receptacle with fewer than 10 lobes extending into primary appendages.
 
-1'. Réceptacle avec moins de 10 lobes se prolongeant en appendices primaires.
+3. Receptacle with approximately 8 lobes extending into primary appendages.
 
-3. Réceptacle avec environ 8 lobes se prolongeant en appendices primaires.
+4. Blade apex (most often) distinctly acuminate.
 
-4. Sommet du limbe (le plus souvent) distinctement acuminé.
+5. Stems 30–50 cm tall; stipules persistent, mostly visible.
 
-5. Tiges hautes de 30-50 cm ; stipules persistantes, le plus souvent visible.
+6'. Stems puberulent; leaves rather broadly elliptic or oblong, with a subobtuse base ..... b. var. mougasii.
 
-6'. Tiges pubérulentes ; feuilles plutôt largement elliptiques ou oblongues, avec une base subobtuse..... b. var. mougasii.
+5'. Stems (30–) 50–100 cm tall, often rather densely puberulent; stipules subpersistent, mostly not visible .....
 
-5'. Tiges hautes de (30-) 50-100 cm, souvent plutôt densément pubérulentes ; stipules subpersistantes, le plus souvent non visibles .....
+4'. Blade apex acute to weakly acuminate or obtuse.
 
-4'. Sommet du limbe aigu à faiblement acuminé ou obtus.
+7. Herb ca. 40 cm tall with an erect stem; blade 8–14 × 3.5–7 cm ..... e. var. stipulata.
 
-7. Herbe haute d'environ 40 cm avec une tige dressée ; limbe de 8-14 × 3,5-7 cm ..... e. var. stipulata.
+7'. Small herb up to 30 cm tall, with a creeping to erect stem; blade rather small, 2–9 (–11) × 1–4 (–6) cm.
 
-7'. Petite herbe haute jusqu'à 30 cm, avec une tige rampante à dressée ; limbe plutôt petit, 2-9 (-11) × 1-4 (-6) cm.
+8. Secondary nerves 4–6 pairs; blade margin usually entire ..... f. var. humilis.
 
-8. Nervures secondaires 4-6 paires ; bord du limbe habituellement entier ..... f. var. humilis.
+8'. Secondary nerves 4–10 pairs; blade margin usually lobed...
 
-8'. Nervures secondaires 4-10 paires ; bord du limbe habituellement lobé...
+3'. Receptacle with 2–6 lobes extending into primary appendages.
 
-3'. Réceptacle avec 2-6 lobes se prolongeant en appendices primaires.
+9. Stems (30–) 50–100 cm tall; inflorescences often in pairs .....
 
-9. Tiges hautes de (30-) 50-100 cm ; inflorescences souvent par paires .....
+10. Secondary nerves 4–6 pairs; blade margin entire ..... f. var. humilis.
 
-10. Nervures secondaires 4-6 paires ; bord du limbe entier ..... f. var. humilis.
-
-10'. Nervures secondaires 4-10 paires ; bord du limbe habituellement lobé. . . .
+10'. Secondary nerves 4–10 pairs; blade margin usually lobed. . . .
 
 a. var. mannii
 
-– Dorstenia ophiocoma K. SCHUM. & ENGL., Bot. Jahrb. 20: 145 (1894); ENGL., Monogr. Afr. Pfl. 1, Moraceae: 17 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 32 (1916); PELLEGRIN, Mém. Soc. Linn. Norm., n. ser., 1 (3): 78 (1928); DE WILD., Pl. Bequaert. 6: 48 (1932). LECTOTYPE: Dinklage 633, Cameroun, Grand Batanga (B; iso., HBG).
+– Dorstenia ophiocoma K. SCHUM. & ENGL., Bot. Jahrb. 20: 145 (1894); ENGL., Monogr. Afr. Pfl. 1, Moraceae: 17 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 32 (1916); PELLEGRIN, Mém. Soc. Linn. Norm., n. ser., 1 (3): 78 (1928); DE WILD., Pl. Bequaert. 6: 48 (1932). LECTOTYPE: Dinklage 633, Cameroon, Grand Batanga (B; iso., HBG).
 
-- Dorstenia ophiocoma K. SCHUM. & ENGL. var. longipes ENGL., l.c.: 18 (1898). TYPE : Preuss 1381, Cameroun, région de Victoria, entre Jongo et Bakingele (holo-, B, non vu ; iso-, BM, K, P).
+- Dorstenia ophiocoma K. SCHUM. & ENGL. var. longipes ENGL., l.c.: 18 (1898). TYPE : Preuss 1381, Cameroon, Victoria region, between Jongo and Bakingele (holo-, B, not seen; iso-, BM, K, P).
 
-- Dorstenia intermedia ENGL., l.c. : 17 (1898) ; RENDLE, l.c. : 32 (1916) ; DE WILD., l.c. : 36 (1932) ; KEAY, l.c. : 597 (1958). TYPE : Preuss 1107, Cameroun (holo-, B, iso-, BM, K).
+- Dorstenia intermedia ENGL., l.c. : 17 (1898) ; RENDLE, l.c. : 32 (1916) ; DE WILD., l.c. : 36 (1932) ; KEAY, l.c. : 597 (1958). TYPE : Preuss 1107, Cameroon (holo-, B, iso-, BM, K).
 
-– Dorstenia ophiocoma K. SCHUM. & ENGL., var. minor RENDLE, l.c.: 32 (1916). TYPE : Preuss 1107, Cameroun, NE Victoria (holo-, B.; iso-, BM, K).
+– Dorstenia ophiocoma K. SCHUM. & ENGL., var. minor RENDLE, l.c.: 32 (1916). TYPE : Preuss 1107, Cameroon, NE Victoria (holo-, B.; iso-, BM, K).
 
 - Dorstenia vermoesenii DE WILD., l.c. : 70 (1932); HAUMAN, FCB 1: 63 (1948). TYPE : Vermoesen 1676, Zaire, Temvo (holo-, BR).
 
-Herbe robuste, à tiges ascendantes, hautes de (30-) 50-100 cm, éparsement à assez densément pubérulentes ; entre-nœuds longs de 5-60 mm le plus souvent. Limbe assez grand, souvent assez brusquement acuminé, à base cunée, ou étroitement subobtuse ou parfois largement obtuse ; marge souvent grossièrement et obscurément dentée à presque lobée vers l'apex. Stipules (sub) persistantes, étroitement triangulaires, longues de (0,5-) 1-2 (-5) mm.
+Robust herb with ascending stems, (30–) 50–100 cm tall, sparsely to fairly densely puberulent; internodes 5–60 mm long mostly. Blade fairly large, often fairly abruptly acuminate, with cuneate base, or narrowly subobtuse or sometimes broadly obtuse; margin often coarsely and obscurely dentate to nearly lobed toward apex. Stipules (sub)persistent, narrowly triangular, (0.5–) 1–2 (–5) mm long.
 
-Inflorescences souvent par paires; pédoncule élargi vers le réceptacle ; ou bien pédoncule relativement court (2-10 mm) et alors réceptacle assez petit (0,5-1 cm de diamètre), avec 4-6 lobes triangulaires prolongés par des appendices relativement courts, 5-15 (-20) × 1-2 mm ; ou bien pédoncule plus long, 10-30 (-50) cm et alors réceptacle plus grand, env. 1-1,5 cm (le plus souvent 1,5) de diamètre, avec (8-) 10-14 (-18) lobes triangulaires prolongés par des appendices plus longs, atteignant 60 mm, et plus étroits, 0,5-1 mm. - Pl. 14, fig. 1-6, p. 51.
+Inflorescences often in pairs; peduncle enlarged toward the receptacle; or else peduncle relatively short (2–10 mm) and then receptacle fairly small (0.5–1 cm in diameter), with 4–6 triangular lobes extended by relatively short appendages, 5–15 (–20) × 1–2 mm; or else peduncle longer, 10–30 (–50) mm and then receptacle larger, ca. 1–1.5 cm (most often 1.5) in diameter, with (8–) 10–14 (–18) triangular lobes extended by longer appendages, reaching 60 mm, and narrower, 0.5–1 mm. - Pl. 14, fig. 1–6, p. 51.
 
-Cette variété est connue du Nigeria, du Cameroun, du Gabon et du Zaïre, où on la trouve dans les sous-bois des forêts hautes aux endroits humides ou dans les forêts le long des rivières, jusqu'à 100 m d'altitude.
+This variety is known from Nigeria, Cameroon, Gabon and Zaire, where it is found in the understory of tall forests in humid places or in forests along rivers, up to 100 m altitude.
 
-A l'intérieur de la var. mannii on peut distinguer 2 groupes d'après les inflorescences, groupes qui pourraient constituer des formes.
+Within var. mannii, 2 groups can be distinguished on the basis of inflorescences, groups that could constitute forms.
 
-Gr. 1. Matériel à inflorescences ayant de longs pédoncules, de grands réceptacles et environ 12 appendices. Pl. 14, fig. 1-5, p. 51.
+Group 1. Material with inflorescences having long peduncles, large receptacles and approximately 12 appendages. Pl. 14, fig. 1–5, p. 51.
 
-Cette variété est connue du Gabon où elle se rencontre dans les endroits plutôt humides des forêts primaires.
+This variety is known from Gabon where it occurs in rather humid places of primary forests.
 
-Cette variété est connue d’une localité au Gabon et de plusieurs localités au Cameroun. On la trouve dans des endroits assez humides des forêts hautes riveraines et côtières, jusqu’à 200 m d’altitude.
+This variety is known from one locality in Gabon and several localities in Cameroon. It is found in fairly humid places of tall riverine and coastal forests, up to 200 m altitude.
 
-- D. mundamensis ENGL., in SCHLECHT., W. Afr. Kautschuk-Exp. 1899-1900: 286 (1900), nom. nud.; Bot. Jahrb. 33: 115 (1904); DE WILD., l.c. 6: 48 (1932). TYPE: Schlechter 12883, Cameroun (holo-, B, non vu; iso-, BR, K, L, WAG).
+- D. mundamensis ENGL., in SCHLECHT., W. Afr. Kautschuk-Exp. 1899-1900: 286 (1900), nom. nud.; Bot. Jahrb. 33: 115 (1904); DE WILD., l.c. 6: 48 (1932). TYPE: Schlechter 12883, Cameroon (holo-, B, not seen; iso-, BR, K, L, WAG).
 
-- D. ophiocomoides ENGL., Bot. Jahrb. 40: 545 (1908); RENDLE, l.c.: 34 (1916); DE WILD., l.c.: 49 (1932). TYPE: Zenker 2709, Cameroun (holo-, B ; iso-, BM, K).
+- D. ophiocomoides ENGL., Bot. Jahrb. 40: 545 (1908); RENDLE, l.c.: 34 (1916); DE WILD., l.c.: 49 (1932). TYPE: Zenker 2709, Cameroon (holo-, B; iso-, BM, K).
 
 - D. ophiocoma, K. Schum. & Engl. var. mungensis (Engl.) M. Hijman & C.C. Berg, Adansonia, sér. 2, 16 (4): 430 (1977).
 
-Tiges ascendantes, hautes de 5-30 cm, éparsement à densément pubérulentes ; entre-nœuds longs de 0,5-5 cm. Limbe souvent assez
+Stems ascending, 5–30 cm tall, sparsely to densely puberulent; internodes 0.5–5 cm long. Blade often fairly small, acute to weakly acuminate; base broadly to narrowly subobtuse; margin often dentate or with 2–4 obscure lobes toward the apex. Stipules persistent, 2–8 mm long, sometimes small.
 
-petit, aigu à faiblement acuminé ; base largement à étroitement subobtuse ; marge souvent dentée ou avec 2-4 lobes obscurs vers le sommet. Stipules persistantes, longues de 2-8 mm, parfois petites.
+Inflorescences solitary. Peduncle 5–40 mm long. Receptacle 3–12 mm in diameter with 4–8 (–12) triangular lobes. - Pl. 14, fig. 9–12, p. 51.
 
-Inflorescences solitaires. Pédoncule long de 5-40 mm. Réceptacle de 3-12 mm de diamètre avec 4-8 (-12) lobes triangulaires. - Pl. 14, fig. 9-12, p. 51.
+This variety is known from Cameroon and Gabon, where it is found in humid primary and secondary forests (often?) on large rocks at altitudes up to 1,000 m.
 
-Cette variété est connue du Cameroun et du Gabon, où on la trouve dans les forêts primaires et secondaires humides (souvent ?) sur de grands rochers à des altitudes pouvant atteindre 1 000 m.
+The specimen Hijman & Weerdenburg 372 has nearly pendulous receptacles with reflexed appendages. This character seems difficult to recognize on dried material.
 
-L'échantillon Hijman & Weerdenburg 372 a des réceptacles presque pendants avec des appendices réfléchis. Ce caractère semble difficile à reconnaître sur du matériel sec.
+The specimen Hallé N. 795 differs from other specimens of this variety by the presence of long, coarse white hairs, rather dense, while the specimen Hallé N. & Villiers J.-F. 4584 is nearly glabrous.
 
-L'échantillon Hallé N. 795 diffère des autres échantillons de cette variété par la présence de longs poils blancs, gros, plutôt denses, tandis que le spécimen Hallé N. & Villiers J.-F. 4584 est presque glabre.
+The material of var. stipulata has been collected solely in the forests of NW Gabon.
 
-Le matériel de la var. stipulata a été uniquement récolté dans les forêts du NW du Gabon.
-
-Bates 518, 130 km E Libreville, Mfoa (fl., sept.). Hallé N. 795, Ekouk, à la Bokoué (fl., juill.). Hallé N. & Villiers J.-F. 4584, mts de Cristal, route de Kinguélé (fl., janv.); 5293, mts de Cristal, riv. Sanga, 0°33' N, 10°8' E (fl., fév.).
+Bates 518, 130 km E Libreville, Mfoa (fl., Sept.). Hallé N. 795, Ekouk, at Bokoué (fl., July). Hallé N. & Villiers J.-F. 4584, Cristal Mts., road to Kinguélé (fl., Jan.); 5293, Cristal Mts., Sanga river, 0°33' N, 10°8' E (fl., Feb.).
 
 ## Specimens examined
 

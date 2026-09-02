@@ -17,27 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bot. Jahrb. 46: 584 (26 March 1912); EXELL & MENDONÇA, CFA 1 (2): 329, p.p. excl. Gossweiler 13711 0 = D. heudelotii var. heudelotii (1951); HAUMAN, FZRB 7: 320 (1958); BRETELER, MLW 73 (13): 7, 87 (1973); l.c. 79 (16): 5, 17-21, 26, 52 (1979); AUWP 86 (3): 12 (1986). TYPE: Cameroon, route d'Angun near Akonangi, Tessmann 1008 (holo-, B delet.; lecto-, K; iso-lecto-, BM, HBG).
 
-Bot. Jahrb. 46: 584 (26 Mars 1912); EXELL & MENDONÇA, CFA 1 (2): 329, p.p. excl. Gossweiler 13711 0 = D. heudelotii var. heudelotii (1951); HAUMAN, FZRB 7: 320 (1958); BRETELER, MLW 73 (13): 7, 87 (1973); l.c. 79 (16): 5, 17-21, 26, 52 (1979); AUWP 86 (3): 12 (1986). TYPE: Cameroun, route d'Angun près d'Akonangi, Tessmann 1008 (holo-, B delet.; lecto-, K; iso-lecto-, BM, HBG).
-
-- D. baturense KRAUSE, Bot. Jahrb. 48: 510 (27 Août 1912); BRETELER, MLW 73 (13): 87 (1973). TYPE : Cameroun, près de Yokadouma, Mildbraed 4794 (holosyn-B delet. ; lecto-, HBG).
+- D. baturense KRAUSE, Bot. Jahrb. 48: 510 (27 August 1912); BRETELER, MLW 73 (13): 87 (1973). TYPE: Cameroon, near Yokadouma, Mildbraed 4794 (holosyn-B delet.; lecto-, HBG).
 
 - D. klainei PELLEGRIN, Not. Syst. 2: 270 (Nov., 1912); Bull. Soc. Bot. Fr. 59: 585 (1913); HAUMAN, FZRB 7: 324 (1958). TYPE: Gabon, Libreville, Klaine 1236 (lecto-P; isolecto-, BM, BR, LE).
 
-- D. malchairii DE WILDEMAN, Rev. Zool. Afr. 4 (2), suppl. Bot: 49 (1919). HAUMAN, FZRB 7: 323 (1958). TYPE: Zaïre, Likimi, Malchair 89 (lecto-, BR ; isolecto-,WAG).
+- D. malchairii DE WILDEMAN, Rev. Zool. Afr. 4 (2), suppl. Bot: 49 (1919). HAUMAN, FZRB 7: 323 (1958). TYPE: Zaïre, Likimi, Malchair 89 (lecto-, BR; isolecto-, WAG).
 
-Liane, arbuste lianescent, arbuste ou petit arbre élancé de hauteur ≤ 9 m. Tronc, diamètre ≤ 8 cm. Écorce plutôt pâle avec généralement 5 rangées distinctes de grandes lenticelles. Cylindre ligneux toujours entier, bois très dense. Rameaux glabres à villeux-tomenteux, devenant souvent nettement lenticelles. Jeunes rameaux, pubescence dense tomenteuse-villeuse blanche à brune.
+Liane, climbing shrub, shrub or slender small tree up to 9 m tall. Trunk, diameter ≤ 8 cm. Bark rather pale with generally 5 distinct rows of large lenticels. Wood cylinder always entire, wood very dense. Branchlets glabrous to villous-tomentose, often becoming distinctly lenticellate. Young branchlets, pubescence dense tomentose-villous white to brown.
 
-Stipules suborbiculaires deltoïdes à étroitement triangulaires, 1-6 × 1-2 mm, caduques ou non, les plus petites avec tomentum villeux apprimé dense sur la face externe ; face interne glabre.
+Stipules suborbicular deltoid to narrowly triangular, 1–6 × 1–2 mm, caducous or not, the smallest with dense appressed villous tomentum on the external face; internal face glabrous.
 
-Feuilles. Pétiole subcylindrique, 2-6 (8) mm, tomentum villeux dense. Limbe oblong-elliptique à obové-elliptique, 2-3,5 (4) fois plus long que large, (4) 10-16(24) × (1,5) 3,5-6(12) cm; base cordée à arrondie; acumen modérément marqué, long de 0,5-1 (2) cm; très jeunes feuilles entièrement blanches à brun pâle, villeuses-tomenteuses, tôt glabres-centes, indumentum persistant le plus souvent sous la nervure I; nervation assez peu visible dessus, très proéminente dessous; principales nervures II, 8-12 (16) paires; glandes, petites, assez peu visibles et seulement dessus, plus nombreuses le long de la nervure I.
+Leaves. Petiole subcylindric, 2–6 (8) mm, dense villous tomentum. Blade oblong-elliptic to obovate-elliptic, 2–3.5 (4) times longer than wide, (4) 10–16 (24) × (1.5) 3.5–6 (12) cm; base cordate to rounded; acumen moderately prominent, 0.5–1 (2) cm long; very young leaves entirely white to pale brown, villous-tomentose, early glabrescent, indumentum usually persistent beneath the primary vein; venation rather inconspicuous above, very prominent below; secondary veins 8–12 (16) pairs; glands small, rather inconspicuous and only above, more numerous along the primary vein.
 
-Inflorescences sessiles, glomérules très compactes, ≤ 15-flores. Bractées et bractéoles orbiculaires-ovées à elliptiques-obovées, concaves, 0,5-2 × 0,5-1,5 mm ; face externe avec poils apprimés, l'interne glabre. Pédicelles 0-0,5 mm, sans articulation distincte.
+Inflorescences sessile, glomerules very compact, ≤ 15-flowered. Bracts and bracteoles orbicular-ovate to elliptic-obovate, concave, 0.5–2 × 0.5–1.5 mm; external face with appressed hairs, internal face glabrous. Pedicels 0–0.5 mm, without distinct articulation.
 
-Fleurs persistantes, sépales, pétales et étamines dressés. Sépales subérigés, libres ou presque, ovés-elliptiques à oblongs, 1,5-2,5 × 0,5-1,5 mm ; pubescence apprimée sur la face externe ; intérieur glabre ou tomentelleux dans sa partie supérieure. Pétales dressés ou presque, libres ou très courtements soués aux filets par leur base, étroits et obvés-spatulés, longs de (3) 4-6 mm, fendus sur 0,5-1,5 mm, totalement glabres ou avec quelques poils apprimés sur la face externe ; lobes concaves. Étamines subérigées, longues de 3,5-7 mm, glabres ; anthères ≈ 0,3 mm, connectif proéminent. Staminodes oblongs, rarement subarrés, < 1 × 0,4 mm, glabres. Pistil 3 (-4)-mère, long de (4) 5-8,5 mm ; style pubescent à la partie inférieure, ailleurs glabre, terminé par 3 lobes étalés longs de ≤ 0,5 mm ; ovaire avec revêtement velouté dense.
+Flowers persistent, sepals, petals and stamens erect. Sepals suberect, free or nearly so, ovate-elliptic to oblong, 1.5–2.5 × 0.5–1.5 mm; appressed pubescence on the external face; interior glabrous or tomentulose in its upper part. Petals erect or nearly so, free or very shortly adnate to the filaments at their base, narrow and obovate-spatulate, (3) 4–6 mm long, split for 0.5–1.5 mm, entirely glabrous or with some appressed hairs on the external face; lobes concave. Stamens suberect, 3.5–7 mm long, glabrous; anthers ≈ 0.3 mm, connective prominent. Staminodes oblong, rarely subulate, < 1 × 0.4 mm, glabrous. Pistil 3 (−4)-merous, (4) 5–8.5 mm long; style pubescent in the lower part, glabrous elsewhere, terminated by 3 spreading lobes ≤ 0.5 mm long; ovary with dense velvety covering.
 
-Fruits 1-3-spermes, relativement petits, villeux-tomenteux, oranges à maturité ; fruits 1-spermes ovoïdes-ellipsoïdaux ≤ 2 × 1,5 cm ; méso-carpe succulent ; endocarpe coriace, brillant et lisse à l'intérieur. Graine subellipsoïdale, 8-10 × 6-7 mm ; testa lisse brun foncé. - Pl. 26, p. 99.
+Fruits 1–3-seeded, relatively small, villous-tomentose, orange at maturity; 1-seeded fruits ovoid-ellipsoidal ≤ 2 × 1.5 cm; mesocarp succulent; endocarp coriaceous, shiny and smooth inside. Seed subellipsoidal, 8–10 × 6–7 mm; testa smooth dark brown. - Pl. 26, p. 99.
 
 ## Type
 
@@ -45,15 +43,11 @@ Tessmann 1008, près d'Akonangi, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Zaïre, Angola(Cabinda), Centrafrique
+Cameroon, Gabon, Congo, Zaïre, Angola (Cabinda), Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues, galeries forestières
+evergreen and semi-deciduous ombrophilous forests, forest galleries
 
 ## Specimens examined
 

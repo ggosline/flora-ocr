@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree up to 20 m with trunk 0.30 m in diameter; branches rounded. Leaves coriaceous, glossy above, paler beneath; petiole relatively long, 5–7 mm, and slender; blade elliptic-acuminate, 2.5–4.5 × 8–10 cm, wedge-shaped at the petiole, acumen 1 cm; midvein scarcely prominent beneath, secondary venation obscure; on the dried specimen: 14 to 16 pennate nerves, finely salient on both faces, or very scarcely visible, almost perpendicular, rectilinear, some bifurcating from the midvein; converging veins very obscure, submarginous.
 
-Arbre jusqu'à 20 m et tronc de 0,30 m de diamètre; rameaux arrondis. Feuilles coriaces, brillantes dessus, plus claires dessous; pétiole relativement long, 5-7 mm, et grêle; limbe elliptique-cuminé, 2,5-4,5 × 8-10 cm, en coin sur le pétiole, acumen 1 cm; nervure médiane peu saillante dessous, nervation secondaire obscure; sur le scc : 14 à 16 nervures pennées, finement saillantes sur les 2 faces, ou très peu visibles, presque perpendiculaires, rectilignes, quelques-unes bifurquées dès la médiane; convergentes très obscures, submarginales.
+Axillary cymes, lax, up to 5 cm long, 2 or 3 times branched, peduncle and branches 1 to 1.5 cm; bracts very caducous. Flower with pedicel 3 to 5 mm, respectively pedunculate; hypantho-calyx broadly cupuliform, 4 × 3 mm; calyx short, fleshy, truncate, then 4-cleft by splitting; epigynous chamber with thick wall and undulate septa. Style 3.5 mm. Petals fleshy, triangular, 4 × 3.5 mm, brown midrib on the back. Stamens with frontal thecae 0.6 mm; connective 1.5 mm, conical, grooved by a gland occupying almost the entire length. Ovary 8-ovulate.
 
-Cymes axillaires, lâches, longues jusqu'à 5 cm, 2 ou 3 fois ramifiées, pédoncule et rameaux de 1 à 1,5 cm; bractées très caduques. Fleur à pédicelle de 3 à 5 mm, respectivement pédonculées; hypantho-calice largement cupuliforme, 4 × 3 mm; calice court, charnu, tronqué, puis 4-échancré par déchi-rure; chambre épigyne à paroi épaisse et cloisons ondulées. Style 3,5 mm. Pétales charnus, triangulaires, 4 × 3,5 mm, côte médiane brune sur le dos. Étamines avec thèques frontales de 0,6 mm; connectif 1,5 mm, conique, enseillé par une glande occupant presque toute la longueur. Ovaire 8-ovulé.
-
-Fruit globuleux, 12 × 12 mm, plus la couronne du calice persistant.
+Fruit globose, 12 × 12 mm, plus the crown of the persistent calyx.
 
 ## Type
 
@@ -31,9 +29,7 @@ Gossweiler 7170, Angola (Cabinda), (holo-, BM; iso-, COI!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce hygrophile de la forêt gabonaise. Nos spécimens ont des feuilles moins coriaces, avec nervures plus visibles, que celles du type.
+Hygrophilous species of the Gabonese forest. Our specimens have less coriaceous leaves, with more visible nerves, than those of the type.
 
 ## Specimens examined
 

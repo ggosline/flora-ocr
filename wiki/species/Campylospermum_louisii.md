@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub reaching 1.5 m in height; branches with whitish bark. Stipules persistent, narrowly triangular, approximately 3 mm long. Leaf: petiole 1.5–5 mm; blade narrowly to very narrowly elliptic, 9.5–28 × 1.3–2.4 cm, ratio 4.5–15, cuneate to attenuate at the base, tapering, sometimes mucronate at the apex, papyraceous, sometimes slightly bullate, margin entire or serrulate, with spaced teeth; primary vein prominent on both surfaces, situated in a groove on the upper surface, lateral veins in (12–)15 to 20 pairs, tertiary veins scalariform, perpendicular to the primary vein, distinct on both surfaces. Inflorescence terminal, branched, slender, lax, main axis (4–)7–18 cm;
 
-Arbuste atteignant 1,5 m de hauteur ; rameaux à écorce blanchâtre. Stipules persistantes, étroitement triangulaires, environ 3 mm de longueur. Feuille : pétiole 1,5–5 mm ; limbe étroitement à très étroitement elliptique , 9,5–28 × 1,3–2,4 cm , ratio 4,5–15, cunéé à atténué à la base, effilé, parfois mucroné au sommet, papyracé, parfois légèrement bullé, marge entière ou serrulée, à dents espacées ; nervure principale proéminente sur les deux faces, située dans un sillon à la face supérieure , nervures latérales en (12–)15 à 20 paires, nervures tertiaires scalariformes, perpendiculaires à la nervure principale, distinctes sur les deux faces. Inflorescence terminale, ramifiée, grêle, lâche, axe principal (4–)7–18 cm ;
-
-racèmes 1 à 4, 2–6 cm ; écailles gemmaires persistantes, minuscules ; cymules distantes de 1–2,5 cm, 1- à 3(–4)-flores ; bractées caduques, étroitement triangulaires, 1–2 mm de longueur. Fleur : pédicelle 3–10 mm, articulé à 1–5 mm de la base ; sépales étroitement ovales, 5–6 × 2–3 en fleur, 3–8 × 1–3 mm en fruit ; pétales non observés ; étamines non observées ; style 3 mm. Fruit : réceptacle ± globuleux ; drupéoles 2 ou 3 bien développées par réceptacle, ellipsoïdes 5–9 × 4–7 mm ; cotylédons incombants, plus ou moins égaux.
+racemes 1 to 4, 2–6 cm; gemmal scales persistent, minute; cymules distant 1–2.5 cm, 1- to 3(–4)-flowered; bracts caducous, narrowly triangular, 1–2 mm long. Flower: pedicel 3–10 mm, articulate 1–5 mm from the base; sepals narrowly ovate, 5–6 × 2–3 in flower, 3–8 × 1–3 mm in fruit; petals not observed; stamens not observed; style 3 mm. Fruit: receptacle ± globose; drupels 2 or 3 well developed per receptacle, ellipsoid 5–9 × 4–7 mm; cotyledons incumbent, more or less equal.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce endémique du nord du Gabon, connue de l’Estuaire, du WoleuNtem et de l’Ogooué-Ivindo
+species endemic to northern Gabon, known from Estuaire, Woleu-Ntem and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire ; à 500–650 m d’altitude
+primary and secondary forest; at 500–650 m altitude
 
 ## Vernacular names
 

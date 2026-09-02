@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Figure 7(H-J)
 
 Cyclostemon bipindensis Pax, Bot. Jahrb. Syst. 33(2): 279 (1903). Cyclostemon mildbraedii Pax, Bot. Jahrb. Syst. 43(4): 318 (1909). Drypetes mildbraedii (Pax) Hutch., Fl. trop. Afr. 6(1): 678 (1912).
 
-Arbuste atteignant 7 m de hauteur; tronc atteignant 3 cm de diamètre; ramilles profondément cannelées, à poils rougeâtres apprimés; bourgeons axillaires désément pubescents, à poils brun rougeâtre. Stipules subpursuantes, foliacées, ovales à elliptique-ovales, de 5–13 × 2,5–4 mm, faible pubescence apprimée à l'extérieur, glabre et fortement veinée à l'intérieur. Feuille: pétiole de 5–13,2 mm, pubérulent; limbe elliptique à légèrement obovale, de 9,4–20,5 × 2–7,5 cm, papyracé, cunée à la base, les deux côtés plus ou moins égaux, à sommet
-
-de 1,5–2,8 × 0,2–0,25 cm, à marge subentière; nervure médiane glabre ou parfois peu poilue dessous, les secondaires 4 à 7, nervation tertiaire et quaternaire réticulées, surélevées dessus et dessous. Inflorescence mâle à l'aisselle des feuilles et sur les rameaux sous les feuilles, avec (1–3 à 14 fleurs par groupe. Fleur mâle : pédicelle grêle, 1,75–4,8 mm, poilu ; sépales 4, imbriqués, suborbiculaires, de 2,2–3,7 × 2,0–4,2 mm, verdâtes, poilus à l'extérieur et à l'intérieur, parfois densément, à petits cils marginaux ; étamines 8 à 16, obscurément disposées en un verticille autour du bord du disque, plus ou moins insérées entre les lobes du disque, à filet de 0,8–2,3 mm, anthère de 0,5–1,2 × 0,5–0,7 mm, crème ; disque de 1,1–3 mm de diamètre et 0,2–0,45 mm de hauteur, pileux. Inflorescence femelle comme la mâle, avec 1 à 5 fleurs ; bractées orbiculaires, de 0,9 × 0,8 mm, à poils dirigés vers le haut. Fleur femelle : pédicelle de 2 mm, poilu ; sépales 4, orbiculaires, de 3,7 × 3,5 mm, poilus à l'extérieur et à l'intérieur, à cils marginaux atteignant 0,36 mm ; disque de 2,5–3 mm de diamètre et 0,2 mm de hauteur, glabre ; ovaire globuleux, de 2 × 2,2 mm, 2-loculaire, poilu, à poils atteignant 0,25 mm ; style 2,5 mm, à 2 branches, la partie fusionnée de 0,35 mm, à stigmates flabellés, de 1,3 × 3,2 mm. Fruit inconnu.
+Shrub reaching 7 m in height; trunk reaching 3 cm in diameter; branchlets deeply grooved, with appressed reddish hairs; axillary buds sparsely pubescent, with reddish-brown hairs. Stipules subpersistent, foliaceous, ovate to elliptic-ovate, 5–13 × 2.5–4 mm, with sparse appressed pubescence on the exterior, glabrous and strongly veined on the interior. Leaf: petiole 5–13.2 mm, puberulent; blade elliptic to slightly obovate, 9.4–20.5 × 2–7.5 cm, papyraceous, cuneate at the base, the two sides more or less equal, apex 1.5–2.8 × 0.2–0.25 cm, margin subentire; midvein glabrous or sometimes slightly hairy below, secondaries 4 to 7, tertiary and quaternary venation reticulate, raised above and below. Male inflorescence in the axils of leaves and on the branchlets below the leaves, with 1–3 to 14 flowers per cluster. Male flower: pedicel slender, 1.75–4.8 mm, hairy; sepals 4, imbricate, suborbicular, 2.2–3.7 × 2.0–4.2 mm, greenish, hairy on the exterior and interior, sometimes densely, with small marginal cilia; stamens 8 to 16, obscurely arranged in a whorl around the edge of the disk, more or less inserted between the lobes of the disk, filament 0.8–2.3 mm, anther 0.5–1.2 × 0.5–0.7 mm, cream; disk 1.1–3 mm in diameter and 0.2–0.45 mm in height, pilose. Female inflorescence like the male, with 1 to 5 flowers; bracts orbicular, 0.9 × 0.8 mm, with upward-directed hairs. Female flower: pedicel 2 mm, hairy; sepals 4, orbicular, 3.7 × 3.5 mm, hairy on the exterior and interior, with marginal cilia reaching 0.36 mm; disk 2.5–3 mm in diameter and 0.2 mm in height, glabrous; ovary globular, 2 × 2.2 mm, 2-locular, hairy, with hairs reaching 0.25 mm; style 2.5 mm, 2-branched, the fused portion 0.35 mm, with flabellate stigmas, 1.3 × 3.2 mm. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, continental Equatorial Guinea, Gabon, Uganda and Democratic Republic of the Congo; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem
 
-Cameroun, Guinée équatoriale continentale, Gabon, Ouganda et République démocratique du Congo ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Woleu-Ntem
-
-Habitat : Forêts sempervirentes primaires et secondaires de terra firme ; au Gabon à 350–700 m altitude, ailleurs à 1,000 m.
+Habitat: Primary and secondary evergreen terra firme forests; in Gabon at 350–700 m altitude, elsewhere at 1,000 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. bipindensis est mal représenté au Gabon et au Cameroun et il existe un doute quant à savoir si tout le matériel de l'est de la République Démocratique du Congo et de l'Ouganda appartient à cette espèce apparemment variable. L'un des caractères les plus utiles pour l'identification est la présence des stipules, cependant, celles-ci semblent être caduques chez certains individus
+D. bipindensis is poorly represented in Gabon and Cameroon and there is doubt as to whether all material from eastern Democratic Republic of the Congo and Uganda belongs to this apparently variable species. One of the most useful characters for identification is the presence of stipules, however, these appear to be caducous in some individuals
 
 ## Bibliography
 

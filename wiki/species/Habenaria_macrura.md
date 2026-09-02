@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Habenaria pentaglossa Kraenzl., Bot. Jahrb. Syst. 33 : 55 (1902).
 
-Tige 15-70 cm, glabre. Feuilles 2,5-9,5 × 2-7 cm, ovées, réniformes à cordées, arrondies, aiguës, radicantes, apprimées sur le sol. Inflorescence 4,5-16 cm, lâche ou assez dense, 1-11-flore. Fleurs moyennes, résupinées, blanches ou crème avec extérieur des sépales vert, parfois avec odeur d'épice ou d'œillet. Sépale dorsal aigu, largement ové, cochéiforme, extérieur pubérulent ; sépales latéraux obliquement oblongs-lancéolés à semi-ovés, subglabres. Pétales bipartites au-dessus de la base, charnus, glabres. Labelle assez épais, très papilleux, tripartite depuis une base indivise. Éperon étroitement cylindrique, courtement renflé au-dessous du milieu, aigu, pendant, souvent recouvert par les gaines caulinaires. – Pl. 11, p. 33.
+Stem 15–70 cm, glabrous. Leaves 2.5–9.5 × 2–7 cm, ovate, reniform to cordate, rounded, acute, rooting, appressed to the ground. Inflorescence 4.5–16 cm, lax or rather dense, 1–11-flowered. Flowers medium-sized, resupinate, white or cream with exterior of sepals green, sometimes with spice or clove fragrance. Dorsal sepal acute, broadly ovate, cochleate, exterior puberulent; lateral sepals obliquely oblong-lanceolate to semi-ovate, subglabrous. Petals bipartite above the base, fleshy, glabrous. Lip rather thick, very papillose, tripartite from an undivided base. Spur narrowly cylindrical, shortly swollen below the middle, acute, pendent, often covered by the stem sheaths. – Pl. 11, p. 33.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Congo (Brazzaville), Gabon, Angola, Congo (Kinshasa), Éthiopie, Tanzanie, Zambie, Malawi, Zimbabwe
+Nigeria, Congo (Brazzaville), Gabon, Angola, Congo (Kinshasa), Ethiopia, Tanzania, Zambia, Malawi, Zimbabwe
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 550-2400 m. Savane, forêt, fourré à Brachystegia, Combretum
+alt. 550–2400 m. Savanna, forest, Brachystegia and Combretum thicket
 
 ## Specimens examined
 

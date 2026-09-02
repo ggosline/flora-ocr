@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 4,5-11,5 × 2-5,5 cm, ovoïdes à subrectangulaires, bifoliés. Feuilles pétiolées ; 12-30 × 2,8-8 cm, oblongues-obovées, arrondies au sommet. Inflorescence lâche, 28-95 cm, rachis limbiforme, avec des poils sombres, 20-80-flore. Fleurs petites à moyennes. Sépales verdâtre-pâle à blancs, striés et ponctués de pourpre, extérieur pubescent ; sépale dorsal étroitement triangulaire, aigu à marges involutées ; sépales latéraux, obliquement triangulaires, falciformes, apiculés. Pétales blancs à veines pourpres, obliquement lancéolés sommet caudé, glabre. Labelle blanc ponctué de pourpre, largement ové, sommet liguliforme, obtus, fin, glabre, recourbé. – Pl. 79, p. 161.
+Pseudobulbs 4.5–11.5 × 2–5.5 cm, ovoid to subrectangular, two-leaved. Leaves petiolate; 12–30 × 2.8–8 cm, oblong-obovate, rounded at apex. Inflorescence lax, 28–95 cm, rachis limbate, with dark hairs, 20–80-flowered. Flowers small to medium. Sepals greenish-pale to white, striped and dotted with purple, exterior pubescent; dorsal sepal narrowly triangular, acute with involute margins; lateral sepals obliquely triangular, falcate, apiculate. Petals white with purple veins, obliquely lanceolate with caudate apex, glabrous. Labellum white dotted with purple, broadly ovate, apex ligulate, obtuse, fine, glabrous, recurved. – Pl. 79, p. 161.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Cameroun, Gabon, Congo (Brazzaville), Congo (Kinshasa)
+Côte d'Ivoire, Cameroon, Gabon, Congo (Brazzaville), Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 300–400 m. Epiphyte on trunk at 25–30 m above ground, in secondary lowland forest
 
-alt. 300-400 m. Épiphyte sur tronc à 25-30 m au-dessus du sol, en forêt planitaire secondaire
+MATERIAL STUDIED (Map 28):
 
-MATÉRIEL ÉTUDIÉ (Carte 28) :
+de Wilde s.n., Monts de Cristal, Leroy logging forest, 20 km NW of Asok, 0°53' N, 10°12' E, cult. WAG (83-265), non vidi.
 
-de Wilde s.n., Monts de Cristal, forêt exploitation Leroy, 20 km NO de Asok, 0°53' N, 10°12' E, cult. WAG (83-265), non vidi.
-
-Hallé 3305, Bélinga env. de Masaha sur une Violaceae arbustive (dessin), (st., Nov.) BR!, P!.
+Hallé 3305, Bélinga env. of Masaha on a shrubby Violaceae (drawing), (st., Nov.) BR!, P!.
 
 Le Testu 9269, Woleu-Ntem (fl., Sept.), BR!.
 
-Leeuwenberg, Persoon & Nzabi s.n., 17 km O de Waka, 1°13' S, 10°49' E, cult. WAG (85-427), non vidi.
+Leeuwenberg, Persoon & Nzabi s.n., 17 km W of Waka, 1°13' S, 10°49' E, cult. WAG (85-427), non vidi.
 
-Louis, Breteler & de Bruijn 1230, vieille forêt, piste d'exploitation, km 2 au SE du campement forestier de la Waka, à 32 km au SE de Sidara, 1° 14 S, 10° 53 E, bassin de la Waka (fl., Déc.), WAG!, LBV.
+Louis, Breteler & de Bruijn 1230, old forest, logging trail, km 2 SE of Waka forestry camp, at 32 km SE of Sidara, 1°14' S, 10°53' E, Waka basin (fl., Dec.), WAG!, LBV.
 
 ## Notes
 

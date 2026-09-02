@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stewart, Kew Bull. 35 (2): 297 (1979); Stewart in Cribb, FTEA, Orchid. 3: 564 (1989); FAC 2: 514 (1992); FCAM 3: 840 (2001). – BASIONYM: Angraecum calanthum Schltr., Bot. Jahrb. Syst. 38: 20 (1905). – TYPE: Schlechter 12700, Congo, syn-B, del., Schlechter s.n., Cameroon, syn-B, del.
 
-Stewart, Kew Bull. 35 (2) : 297 (1979) ; Stewart in Cribb, FTEA, Orchid. 3 : 564 (1989) ; FAC 2 : 514 (1992) ; FCAM 3 : 840 (2001) . – BASIONYME : Angraecum calanthum Schltr., Bot. Jahrb. Syst. 38 : 20 (1905) . – TYPE : Schlechter 12700, Congo, syn-B, del., Schlechter s.n., Cameroun, syn-B, del.
+– Angraecum roseocalcaratum De Wild., Bull. Jard. Bot. Etat, Brux. 5: 190 (1916).
 
-– Angraecum roseocalcaratum De Wild., Bull. Jard. Bot. Etat, Brux. 5 : 190 (1916).
+– Angraecum sankuruense De Wild., Bull. Jard. Bot. Etat, Brux. 5: 190 (1916).
 
-– Angraecum sankuruense De Wild., Bull. Jard. Bot. Etat, Brux. 5 : 190 (1916).
+– Aerangis roseocalcarata (De Wild.) Schltr., Beih. Bot. Centralbl. 36: 120 (1918).
 
-– Aerangis roseocalcarata (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 120 (1918).
-
-– Aerangis sankuruensis (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 120. 1918.
+– Aerangis sankuruensis (De Wild.) Schltr., Beih. Bot. Centralbl. 36: 120. 1918.
 
 – Aerangis parvula Schltr., Notizbl. Bot. Gart. Berlin 7: 329 (1919).
 
-Tige < 3 cm. Feuilles 2-6, 3-9 x 0,4-0,8 cm, linéaires, souvent falciformes. Inflorescence < 11 cm, 2-5 (8)-flore. Fleurs petites, résupinées, blanches, éperon souvent rose. Sépale dorsal ové-lancéolé à oblong-lancéolé, aigu. Pétales linéaires-oblongs, subaigus. Sépales latéraux, étroits ou oblongs-lancéolés, aigus, obliques. Labelle 7-10 x 2-3,5 mm, oblong-lancéolé, aigu à apiculé. Éperon 25-40 mm, filiforme, aigu, pendant, souvent recourbé ou crochu dans la partie inférieure. - Pl. 197, p. 422.
+Stem < 3 cm. Leaves 2–6, 3–9 × 0.4–0.8 cm, linear, often falcate. Inflorescence < 11 cm, 2–5 (8)-flowered. Flowers small, resupinate, white, spur often pink. Dorsal sepal ovate-lanceolate to oblong-lanceolate, acute. Petals linear-oblong, subacute. Lateral sepals, narrow or oblong-lanceolate, acute, oblique. Lip 7–10 × 2–3.5 mm, oblong-lanceolate, acute to apiculate. Spur 25–40 mm, filiform, acute, pendant, often curved or hooked in the lower part. - Pl. 197, p. 422.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Cameroun, Guinée équatoriale, Congo, République centrafricaine, Zaïre, Ouganda, Tanzanie, Angola
+Ghana, Cameroon, Equatorial Guinea, Congo, Central African Republic, Zaire, Uganda, Tanzania, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,000–1,650 m. Epiphyte in deep shade, often on small twig and branch at low height and in the canopy, in primary forest and in coffee, cacao, and orange plantations
 
-alt. 1 000-1 650 m. Épiphyte en ombre dense, souvent sur petit rameau et branche à faible hauteur et dans la canopée, en forêt primaire et en plantation de café, cacao, orange
+MATERIAL EXAMINED (Map 89):
 
-MATÉRIEL ÉTUDIÉ (Carte 89) :
+Breteler & De Wilde 603a, lower slopes of Babiel Nord, S-facing, low and dense elfin forest, very rich in lichens, mosses and epiphytes, epiphyte growing on dead branch (fl. Sept.), WAG!.
 
-Breteler & De Wilde 603a, basses pentes de Babiel Nord, exposé au S, forêt basse et dense d'Elfin, très riche en lichens, mousses et épiphytes, épiphyte poussant sur branche morte (fl. Sept.), WAG!.
-
-Breteler & al. 9451a, Rabi, en forêt dense humide, près du camp, ± 1° 55' S, 9° 50' E, épiphyte (fl. Mars) ; WAG!.
+Breteler & al. 9451a, Rabi, in dense humid forest, near camp, ± 1° 55' S, 9° 50' E, epiphyte (fl. March); WAG!.
 
 ## Figures
 

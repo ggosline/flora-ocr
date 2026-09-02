@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 25 m de hauteur ; tronc jusqu’à 40 cm de diamètre ; écorce écailleuse ; exsudat blanc à rosé ; ramilles glabres. Feuilles glabres ; pétiole semi-cylindrique, anguleux, (0–)0,5– 1,5(–4) cm ; limbe oblancéolé, 15–24(–36) × (3,5–)5–8(–13) cm, cunéé à la base, finement acuminé sur 0,5–1,5 cm au sommet, dur, papyracé à coriace ; nervure médiane proéminente sur les deux faces, nervures latérales en 11 à 18 paires, planes dessus, proéminentes dessous. Inflorescence ± sessile, jusqu’à 40 × 25 cm, éparsement pubérulente à glabre. Fleur mâle : pédicelle 2–2,5 mm, la partie inférieure 1–2 mm, pubérulente, la partie supérieure 0,5–1 mm, à petit poils épars glanduleux ; calice 2–2,5 mm de longueur, à lobes de 1–1,5 mm de longueur, glabres ou à quelques petits poils glanduleux, lobes partiellement ciliés ; pétales oblancéolés, 5,5–7,5 × 1,5–2 mm, finement pubérulents ; étamine 3,5–6 mm de longueur, anthère 0,5–1 mm de longueur, filet poilu dans la partie supérieure, les poils en partie glanduleux. Fleur femelle : pédicelle, calice et pétales semblables à ceux de la fleur mâle ; staminode 3–3,5 mm
-
-8 Frans J. BRETELER de longueur, filet partiellement pubérulent ; pistil 4 mm de longueur, glabre ; style 2,5–3 mm. Fruit obliquement réniforme, 2 ×1 × 0,8 cm, brun-noir, brillant, couvert jusqu’aux deux tiers de sa longueur par le réceptacle atteignant 1,5 cm de hauteur, orange-rouge à maturité .
+Tree reaching 25 m in height; trunk up to 40 cm in diameter; bark scaly; exudate white to rosy; branchlets glabrous. Leaves glabrous; petiole semi-cylindric, angular, (0–)0.5–1.5(–4) cm; lamina oblanceolate, 15–24(–36) × (3.5–)5–8(–13) cm, cuneate at the base, finely acuminate for 0.5–1.5 cm at the apex, hard, papyraceous to coriaceous; midvein prominent on both surfaces, lateral veins in 11 to 18 pairs, plane above, prominent below. Inflorescence ± sessile, up to 40 × 25 cm, sparsely puberulent to glabrous. Male flower: pedicel 2–2.5 mm, the lower part 1–2 mm, puberulent, the upper part 0.5–1 mm, with scattered small glandular hairs; calyx 2–2.5 mm long, with lobes 1–1.5 mm long, glabrous or with a few small glandular hairs, lobes partially ciliate; petals oblanceolate, 5.5–7.5 × 1.5–2 mm, finely puberulent; stamen 3.5–6 mm long, anther 0.5–1 mm long, filament hairy in the upper part, the hairs in part glandular. Female flower: pedicel, calyx and petals similar to those of the male flower; staminode 3–3.5 mm long, filament partially pubescent; pistil 4 mm long, glabrous; style 2.5–3 mm. Fruit obliquely reniform, 2 × 1 × 0.8 cm, dark brown, glossy, covered up to two-thirds of its length by the receptacle reaching 1.5 cm in height, orange-red at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République du Congo ; au Gabon, connu de l’Estuaire, de l’Ogooué-Maritime et de la Nyanga
+Gabon and Republic of the Congo; in Gabon, known from Estuaire, Ogooué-Maritime and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord de savane côtière sur sable, forêt de mangrove ; à 0–5 m d’altitude. Usage : Le bois est utilisé pour les constructions indigènes. L’huile corrosive, extraite de l’épicarpe du fruit, sert à faire des tatouages
-
-Lannea 9
+edge of coastal savanna on sand, mangrove forest; at 0–5 m altitude. Use: The wood is used for indigenous constructions. The corrosive oil, extracted from the exocarp of the fruit, is used to make tattoos
 
 ## Vernacular names
 

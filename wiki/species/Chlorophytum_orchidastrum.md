@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante robuste, atteignant 80(–130) cm de hauteur, noirâtre après séchage ; rhizome court. Feuilles à pétiole distinct, de 25–45 cm ; limbe 20–35 × 6–10 cm de largeur, la plus grande largeur souvent vers le milieu, base plus ou moins tronquée, sommet aigu, marge glabre à peu scabre, vert foncé. Inflorescence (pédoncule inclus) 40–80 cm, dressée, gé néralement ramifiée avec 1–5 branches latérales, dense, rachis généralement glabre ; bractées glabres, bractées florifères environ 5 mm de longueur, bractées stériles 25–50 mm. Fleurs 3–4 par nœud, faiblement urcéolées ; pédicelle 4–10 mm, articulé dans la moitié supérieure ; tépales 5–6,5 × 1–1,5 mm, avec 3–5 nervures blanchâtres à verdâtres, devenant marron après l’anthèse ; filets fusiformes, papilleux, 3,5 mm, anthère 2–2,5 mm de longueur ; style droit à peu courbé. Pseudo-viviparie jamais observée. Fruit presque aussi long que large, 5–8 × 5–7 mm, base tronquée. Graines cupuliformes, 1,5–2,5 mm de diamètre.
+Robust plant, reaching 80(–130) cm in height, blackish after drying; rhizome short. Leaves with distinct petiole, 25–45 cm; blade 20–35 × 6–10 cm wide, greatest width often toward the middle, base more or less truncate, apex acute, margin glabrous to scarcely scabrous, dark green. Inflorescence (peduncle included) 40–80 cm, erect, generally branched with 1–5 lateral branches, dense, rachis generally glabrous; bracts glabrous, floriferous bracts approximately 5 mm long, sterile bracts 25–50 mm. Flowers 3–4 per node, weakly urceolate; pedicel 4–10 mm, articulate in the upper half; tepals 5–6.5 × 1–1.5 mm, with 3–5 whitish to greenish veins, becoming brown after anthesis; filaments fusiform, papillose, 3.5 mm, anther 2–2.5 mm long; style straight to slightly curved. Pseudo-vivipary never observed. Fruit almost as long as wide, 5–8 × 5–7 mm, base truncate. Seeds cupuliform, 1.5–2.5 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest, de la Sierra Leone au Cameroun et en République Dé mocratique du Congo. Au Gabon, connue dans les provinces de l’Estuaire, de l’OgoouéMaritime et du Woleu-Ntem
+West Africa, from Sierra Leone to Cameroon and Democratic Republic of the Congo. In Gabon, known from the provinces of Estuaire, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondaire, souvent proche des rivières ; au Gabon à 15–860 m d’altitude, ailleurs jusqu’à 1200 m. B : Hepper (1968), Poulsen & Nordal (2005). ibliographie
+primary or secondary forest, often near rivers; in Gabon at 15–860 m altitude, elsewhere up to 1200 m. B: Hepper (1968), Poulsen & Nordal (2005). Bibliography
 
 ## Notes
 

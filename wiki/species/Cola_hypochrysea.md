@@ -17,35 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This Cola, more or less abundant in various localities of Lower Cameroon, is not yet known from Gabon; its presence there is nevertheless very probable. See the essential characters given in the key p. 42.
 
-Ce Cola, plus ou moins abondant dans diverses localités du Bas-Cameroun, n'est pas encore connu au Gabon; sa présence y est cependant très probable. Voir les caractères essentiels donnés dans la clé p. 42.
+SUBGENUS II. NEOCOURTENIA N. Hallé
 
-SOUS-GENRE II. NEOCOURTENIA N. Hallé
+1. Leaves entire or partly lobed.
 
-1. Feuilles entières ou en partie lobées.
+2. Lamina cordate at base, more or less pubescent, ornamented near the base of the midvein with two pouch-like folds..... 7. C. marsupium.
 
-2. Limbe à base cordée, plus ou moins velu, orné près de la base de la nervure médiane, de deux replis en forme de poches..... 7. C. marsupium.
+2'. Lamina not presenting all these characters at once.
 
-2'. Limbe ne présentant pas à la fois ces caractères.
+3. Flower urceolate; lamina always glabrous, entire and symmetrical, attenuate at base and more or less acute..... 8. C. urceolata.
 
-3. Fleur urcéolée; limbe glabre toujours entier et symétrique, à base atténuée et plus ou moins aiguë..... 8. C. urceolata.
+3'. Flower campanulate.
 
-3'. Fleur campanulée.
+4. Flowers yellow, not on old wood; fruit with 4–5 suberect follicles and erect beak; stipules linear very acute; calyx 3–5 lobed; petioles and young branches glabrous or glabrescent..... 9. C. gabonensis; petioles and young branches pubescent..... 10. C. brevipes var. hirs.
 
-4. Fleurs jaunes, non sur le vieux bois; fruit à 4-5 follicules subérigés et à bec dressé; stipules linéaires très aiguës; calice 3-5 lobé Pétioles et jeunes rameaux glabres ou glabrescents ..... 9. C. gaboner Pétioles et jeunes rameaux velus. 10. C. brevipes var. hirs
+4'. Flowers carmine red, sometimes on old wood; fruit with 5–8 follicles radiating in the plane of the receptacle, beak directed towards the lower face of the fruit; stipules acute not linear; calyx 5-lobed..... 11. C. heterophylla.
 
-4'. Fleurs rouge carmin, parfois sur le vieux bois; fruit à 5-8 follicules rayonnants dans le plan du réceptacle, à bec dirigé vers la face inférieure du fruit; stipules aiguës non linéaire; calice 5-lobé..... II. C. heterophylla.
+1'. Leaves all more or less lobed.
 
-1'. Feuilles toutes plus ou moins lobées.
+5. Lamina bi- or trilobed, often of variable form; petiole glabrous often less than 15 cm long..... 11. C. heterophylla.
 
-5. Limbe bi ou trilobé de forme souvent variable; pétiole glabre souvent inférieur à 15 cm de long..... 11. C. heterophylla.
+5'. Lamina 3- or 5-lobed; petiole pubescent, or glabrous and in that case often exceeding 15 cm long.
 
-5'. Limbe 3 ou 5 lobé; pétiole pubescent, ou glabre et dans ce cas dépassant souvent 15 cm de long.
+Leaf pubescent with long hairs at least on the veins and at the apex of the petiole; ovary composed of 6–7 carpels with 6 ovules each.
 
-Feuille velue à poils longs au moins sur les nervures et le sommet du pétiole; ovaire composé de 6-7 carpelles à 6 ovules chacun
-
-Feuille glabre ayant au plus quelques poils courts au sommet du pétiole; ovaire composé de 10 carpelles à 12 ovules chacun.
+Leaf glabrous with at most a few short hairs at the apex of the petiole; ovary composed of 10 carpels with 12 ovules each.
 
 ## Notes
 

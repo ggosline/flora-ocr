@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl. & Diels, Pflanzenr . IV. 20(101) : 396 (1936). Pycreus subtrigonus C.B.Clarke in Dyer, Fl. trop. Afr . 8 : 292 (1902). Herbe vivace, grêle, avec des tiges à l’extrémité de stolons dressés ou rampants, épais de 1 mm ; tiges solitaires ou groupées, de 10‒30 cm × 0,5‒1,5 mm, vertes, triangulaires à angles ± arrondis, glabres. Feuilles seulement vers la base sur 3‒8 cm ; gaines supérieures vertes, les inférieures jaune paille à brun rougeâtre, glabres ; plus grand limbe de 4‒10 cm × 1‒3 mm , plan, scabre sur la marge et la nervure centrale au moins près de l’extrémité. Inflorescence en fascicule terminal, large de 1,5‒3 cm et formée de 3‒30 épillets sessiles serrés ; bractées involucrales 2‒5, foliacées, dressées ou étalées, la principale de 4‒8 cm × 1‒2,5 mm, Épillet linéaire–lancéolé, de 10‒18 × 1,7‒2 mm , brun jaunâtre clair à moyen, seulement légèrement comprimé, habituellement à 10‒30 fleurs ; axe quelque peu en zigzag ; glumes ovales, longues de 1,6‒2 mm , habituellement brun rougeâtre avec les parties latérales plus pâles, nervure centrale verte, présentant 3 côtes longitudinales, se terminant sous le sommet obtus. Fleur : style à 2 branches. Akène à profil obtriangulaire avec des « épaules » bien développées, de 0,5‒0,6 × 0,5‒0,6 mm, à section triangulaire-arrondie , brun foncé à noirâtre avec des cellules superficielles elliptiques–rectangulaires ; la cuticule persiste sur l’akène mûr en un motif réticulé blanchâtre et lui donnant alors un aspect transversalement ridé.
+in Engl. & Diels, Pflanzenr. IV. 20(101): 396 (1936). Pycreus subtrigonus C.B.Clarke in Dyer, Fl. trop. Afr. 8: 292 (1902). Perennial herb, slender, with stems at the apex of erect or creeping stolons, 1 mm thick; stems solitary or clustered, 10–30 cm × 0.5–1.5 mm, green, triangular with angles ± rounded, glabrous. Leaves only toward the base over 3–8 cm; upper sheaths green, the lower ones straw-yellow to reddish-brown, glabrous; largest blade 4–10 cm × 1–3 mm, flat, scabrous on the margin and midvein at least near the apex. Inflorescence in a terminal fascicle, 1.5–3 cm wide and formed of 3–30 sessile, crowded spikelets; involucral bracts 2–5, foliaceous, erect or spreading, the main one 4–8 cm × 1–2.5 mm. Spikelet linear–lanceolate, 10–18 × 1.7–2 mm, light to medium yellowish-brown, only slightly compressed, usually with 10–30 flowers; axis somewhat zigzag; glumes oval, 1.6–2 mm long, usually reddish-brown with paler lateral portions, midvein green, presenting 3 longitudinal ribs, terminating below the obtuse apex. Flower: style with 2 branches. Achene with obtriangular outline with well-developed "shoulders", 0.5–0.6 × 0.5–0.6 mm, triangular-rounded in section, dark brown to blackish with elliptic–rectangular superficial cells; the cuticle persists on the mature achene in a whitish reticulate pattern, giving it then a transversely wrinkled appearance.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo et République Démocratique du Congo ; rare au Gabon, trouvée seulement dans le Haut-Ogooué, l’Ogooué-Ivindo, et le Woleu-Ntem (3 récoltes)
+Gabon, Republic of Congo and Democratic Republic of Congo; rare in Gabon, found only in Haut-Ogooué, Ogooué-Ivindo, and Woleu-Ntem (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-prairies et autres habitats saisonnièrement humides ; à 400‒700 m d’altitude. Note taxonomique : très proche de C. flavescens et de C. lanceolatus , elle en diffère par son akène particulier qui est trigone avec des épaules bien développées. B : Kükenthal (1936). ibliographie
+grasslands and other seasonally humid habitats; at 400–700 m altitude. Taxonomic note: very close to C. flavescens and C. lanceolatus, it differs from them by its particular achene which is trigonous with well-developed shoulders. B: Kükenthal (1936). Bibliography
 
 ## Notes
 

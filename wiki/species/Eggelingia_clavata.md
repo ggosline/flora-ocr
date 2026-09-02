@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 160. – Structure of the gynostemium of the genus Eggelingia Summerh. : A, lateral view ; B, front view ; C, rostellum remnant ; D, anther ; E, F, tegula and viscidium ; G, pollinia, various views (A-G, ex SZLACHETKO & al., 2003).
 
-PL. 160. – Structure du gynostème du genre Eggelingia Summerh. : A, vue latérale ; B, vue de face ; C, reste du rostelle ; D, anthère ; E, F, tegula et viscidie ; G, pollinies, vues diverses (A-G, ex SZLACHETKO & al., 2003).
+PL. 161. – Eggelingia clavata Summerh. : A, flower and bract ; B, labellum and spur ; C, lateral sepal ; D, petal ; E, dorsal sepal ; F, G, leaves. – Eggelingia gabonensis CRIBB & LAAN : H, general view ; I, inflorescence details ; J, flower, front view ; K, labellum and spur in natural position ; L, labellum spread ; M, dorsal sepal ; N, petal ; O, lateral sepal (A-G, Le Testu 5160, P ; H-O, ex CRIBB & al., 1989)
 
-PL. 161. – Eggelingia clavata Summerh. : A, fleur et bractée ; B, labelle et éperon ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, G, feuilles. – Eggelingia gabonensis CRIBB & LAAN : H, vue générale ; I, détails de l'inflorescence ; J, fleur, vue de face ; K, labelle et éperon en position naturelle ; L, labelle étalé ; M, sépale dorsal ; N, pétale ; O, sépale latéral (A-G, Le Testu 5160, P ; H-O, ex CRIBB & al., 1989)
-
-Tige < 36 cm de longueur. Feuilles nombreuses, environ 20, 2-5 x 0,5-0,9 cm, oblongues à ligulées, inégalement bilobées. Inflorescence axillaire, < 1 cm, 2-6-flore. Fleurs petites, résupinées, périanthe blanchâtre ou jaunâtre. Sépale dorsal oblong-ové, cochéiforme. Pétales ligulés-lancéolés, aigus. Sépales latéraux obliquement ovés-lancéolés. Labelle 3-3,5 x 2,4 mm, ové, elliptique à oblong-ové, aigu à brièvement apiculé, entier, frêle, mince, cochéiforme, sans callus et muni d'un éperon. Éperon 2,3-4 x 0,8-1,4 mm, claviforme, obtus. – Pl. 161, p. 357.
+Stem < 36 cm in length. Leaves numerous, approximately 20, 2-5 × 0.5-0.9 cm, oblong to ligulate, unequally bilobed. Inflorescence axillary, < 1 cm, 2-6-flowered. Flowers small, resupinate, perianth whitish or yellowish. Dorsal sepal oblong-ovate, boat-shaped. Petals ligulate-lanceolate, acute. Lateral sepals obliquely ovate-lanceolate. Labellum 3-3.5 × 2.4 mm, ovate, elliptic to oblong-ovate, acute to briefly apiculate, entire, fragile, thin, boat-shaped, without callus and provided with a spur. Spur 2.3-4 × 0.8-1.4 mm, clavate, obtuse. – Pl. 161, p. 357.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Ghana, Gabon, Zaïre
+Ivory Coast, Ghana, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. inconnue. Épiphyte sur arbre, forêt dense
+alt. unknown. Epiphyte on tree, dense forest
 
 ## Specimens examined
 

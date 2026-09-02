@@ -17,41 +17,35 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Barter 1826, Nigeria, syn-K!, Loddiges 1835, cult., syn-K!.
 
 – Listrostachys jenischiana Rchb. f., Bot. Zeit. 10 : 930 (1852).
 
 – Listrostachys behnickiana Kraenzl., Not. Bot. Gart. Berlin 5 : 122 (1909).
 
-Tige 3,5-7 cm. Feuilles < 12, 10-43 × 1-1,7 cm, linéaires. Inflorescence généralement 2-4 par plante, 14-22 cm, multiflore. Fleurs petites, asymétriques, résupinées, discrètes, sépales verdâtres sur la face externe, blancs sur la face interne ou entièrement blancs ou blanchâtres, avec souvent de petits points rouges vers la base et un éperon rouge. Sépales oblongs, ovés-elliptiques, cucullés, à appendices charnus au sommet, subdensément couverts de petites protubérances sur la face externe. Pétales obliquement ovés-spatulés. Labelle < 4 × 2,7 mm, ligulé à elliptique-obové, arrondi, épais, glabre. Éperon 4,5-6 mm, claviforme, obtus. – Pl. 187, p. 405.
+Stem 3.5–7 cm. Leaves < 12, 10–43 × 1–1.7 cm, linear. Inflorescence usually 2–4 per plant, 14–22 cm, multiflorous. Flowers small, asymmetric, resupinate, inconspicuous, sepals greenish on the external face, white on the internal face or entirely white or whitish, often with small red dots toward the base and a red spur. Sepals oblong, ovate-elliptic, cucullate, with fleshy appendages at the apex, subdensely covered with small protuberances on the external face. Petals obliquely ovate-spatulate. Labellum < 4 × 2.7 mm, ligulate to elliptic-obovate, rounded, thick, glabrous. Spur 4.5–6 mm, clavate, obtuse. – Pl. 187, p. 405.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Principe, Gabon, Congo
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Príncipe, Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 50 m. Epiphyte in humid forest, secondary forest with Lophira alata, Coula edulis, Saccoglottia gabonensis, observed on branch and trunk in shade
 
-alt. 50 m. Épiphyte en forêt humide, forêt secondaire à Lophira alata, Coula edulis, Saccoglottia gabonensis, observé sur branche et tronc à l'ombre
+MATERIAL EXAMINED (Map 85):
 
-MATÉRIEL ÉTUDIÉ (Carte 85) :
+Hallé 1702, 10 km SW of Ndjolé CEFA Ayem (fl. Apr.), P!.
 
-Hallé 1702, 10 km SO de Ndjolé CEFA Ayem (fl. Avr.), P!.
+Le Testu 5172, Haute Ngounyé, Mouyamba (fl. Jan.), P!.
 
-Le Testu 5172, Haute Ngounyé, Mouyamba (fl. Janv.), P!.
-
-PL. 186. – Structure du gynostème du genre Listrostachys Rchb. f. : A, vue de face ; B, vue latérale ; C, rostelle, tegula et viscidie, vue de dessus ; D, reste du rostelle, vue de dessus ; E-H, tegula et viscidie, vues diverses ; I, pollinies (A-I, ex SzLACHETKO, 2003).
+PL. 186. – Structure of the gynostemium of the genus Listrostachys Rchb. f. : A, front view ; B, lateral view ; C, rostellum, tegula and viscidium, dorsal view ; D, remainder of rostellum, dorsal view ; E-H, tegula and viscidium, various views ; I, pollinia (A-I, ex SZLACHETKO, 2003).
 
 III. CALYPTROCHILINAE Szlach.
 
 Fragm. Flor. Gebot., Suppl. 3 : 92 (1995).
 
-Rostellum court, triangulaire, charnu, massif, recourbé vers le stigmate. Tegula simple, linéaire à oblongue. Viscidie unique, lamellée, assez grande. Restes du rostellum plus ou moins fendus au sommet. Pollinies 2, fendues ou porées.
+Rostellum short, triangular, fleshy, massive, curved toward the stigma. Tegula simple, linear to oblong. Viscidium single, lamellose, fairly large. Remains of the rostellum more or less split at the apex. Pollinia 2, split or porate.
 
 ## Figures
 

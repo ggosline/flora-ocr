@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 33, 54(C–D) Willdenowi a 43 : 222 (2013). Lindernia nummulariifolia (D.Don) Wettst. in Engl. & Prantl, Nat. Pflanzenfam . 4(3B) : 79 (1891). Herbe annuelle, atteignant 4–13 cm de hauteur ; tige dressée, à ramifications nombreuses (paraclades), glabre. Feuille : limbe largement ovale à orbiculaire, 5–10 × 5–8 mm, acuminé au sommet, marge obtusément dentée. Inflorescence lâche, chaque nœud florifère portant 2 fleurs. Fleurs : les cleistogames sessiles, pédicelle des fleurs chasmogames de 4 mm ; calice 2,5 mm de longueur, glabre, lobes 2 mm de longueur ; corolle bleu clair avec des taches violacées , tube 3 mm de longueur, lèvre supérieure entière et 2 mm de longueur, lèvre inférieure tripartite et 2,5 mm de longueur ; étamines antérieures (abaxiales) à filets de 2,5–3 mm, ceux des étamines postérieures (adaxiales) de 1 mm ; ovaire ovoïde, 1,5 mm de longueur ; style 3 mm. Fruit ovale, 10 mm de longueur.
+Plate 33, 54(C–D) Willdenowi a 43 : 222 (2013). Lindernia nummulariifolia (D.Don) Wettst. in Engl. & Prantl, Nat. Pflanzenfam . 4(3B) : 79 (1891). Annual herb, reaching 4–13 cm in height; stem erect, with numerous branches (paraclades), glabrous. Leaf: blade broadly ovate to orbicular, 5–10 × 5–8 mm, acuminate at apex, margin obtusely dentate. Inflorescence lax, each flowering node bearing 2 flowers. Flowers: cleistogamous ones sessile, pedicel of chasmogamous flowers 4 mm; calyx 2.5 mm in length, glabrous, lobes 2 mm in length; corolla pale blue with purplish spots, tube 3 mm in length, upper lip entire and 2 mm in length, lower lip tripartite and 2.5 mm in length; anterior (abaxial) stamens with filaments 2.5–3 mm, those of posterior (adaxial) stamens 1 mm; ovary ovoid, 1.5 mm in length; style 3 mm. Fruit ovate, 10 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Côte d'Ivoire, Nigéria, Cameroun, Gabon, République démocratique du Congo, Rwanda, Burundi, Soudan, Éthiopie, Ouganda, Kenya, Tanzanie, Angola, Zambie, Malawi, Zimbabwe et Madagascar ; aussi en Inde, au Népal, en Birmanie, en Chine, en Thaïlande et au Vietnam ; au Gabon, observée dans le HautOgooué et l’Ogooué-Lolo
+Sierra Leone, Côte d'Ivoire, Nigeria, Cameroon, Gabon, Democratic Republic of the Congo, Rwanda, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe and Madagascar; also in India, Nepal, Burma, China, Thailand and Vietnam; in Gabon, observed in Haut-Ogooué and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, petits marais, roches quartziques et inselbergs ; au Gabon, à 380 m d’altitude, au Rwanda jusqu’à 2100 m. B : Fischer (1992, 1995, 1999, 2006b), Fischer et al. (2013), Ghazanfar et al. ibliographie (2008), Hepper (1963), Philcox (1990)
+savannas, small marshes, quartzitic rocks and inselbergs; in Gabon, at 380 m altitude, in Rwanda up to 2100 m. B: Fischer (1992, 1995, 1999, 2006b), Fischer et al. (2013), Ghazanfar et al. Bibliography (2008), Hepper (1963), Philcox (1990)
 
 ## Notes
 

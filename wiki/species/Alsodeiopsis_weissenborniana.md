@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1.5 m tall with an umbrella-shaped crown. Young branches pubescent, yellow, becoming glabrous when mature. Bark grey. Petiole pubescent, 0.5–1 mm long. Blade green above and yellowish-green below, pubescent on both surfaces (sparse long hairs and denser short hairs above, and short or long appressed hairs below), lanceolate, elliptic, sometimes lanceolate, 4.5–10 × 1.7–4 cm; base very unequilateral (one side attenuate and the other rounded or cordate), apex acuminate-obtuse mucronate. Midvein concave pubescent above and prominent pubescent below. Secondary veins 4–8 pairs, ascending arcuate, anastomosing 0.5–1 mm from the blade margin, prominent and ± pubescent on the upper surface, and prominent pubescent on the lower surface. Tertiary veins in dense raised reticulum on both surfaces. Domatia in pockets at the axils of secondary veins.
 
-Arbuste haut de 1,5 m à cime en parasol. Jeunes rameaux pubescents jaunes, devenant glabres à l'état âgé. Rhytidome gris. Pétiole pubescent long de 0,5-1 mm. Limbe vert dessus et jaune verdâtre dessous, pubescent sur les deux faces (poils longs épars et poils courts plus denses dessus et poils courts ou longs apprimés dessous), blancéolé, elliptique, parfois lan-
+Inflorescences solitary or fascicled in pairs, axillary, with 2, rarely 3 flowers. Flower peduncle 2 mm long, densely pubescent. Flower pedicel 2–3 mm long, pubescent. Flower bud piriform. Bracts linear pubescent. Flowers pentamerous, yellowish. Petals sparsely pubescent externally and glabrous internally, lanceolate, 4 × 1 mm, acute at the apex, free to the base, erect or reflexed. Stamens with filament 0.75–1 mm long, dorsiventrally flattened; anthers ellipsoid, basifixed, 1.5 mm long; connective appendiculate at the apex (appendicule 0.5 mm long). Ovary superior, pubescent with hairs becoming longer towards the apex, ellipsoid, 0.75 mm long. Style slender, 2 mm long, terminating in a globose stigma.
 
-céolé, 4,5-10 × 1,7-4 cm; base très inéquilatérale (un côté atténué et l'autre arrondi ou cordé), sommet acuminé obtus mucroné. Nervure médiane concave pubescente dessus et saillante pubescente dessous. Nervures secondaires 4-8 paires, ascendantes arquées, s'anastomosant à 0,5-1 mm du bord du limbe, saillantes et ± pubescentes à la face supérieure, et saillantes pubescentes à la face inférieure. Nervilles en réseau dense saillant sur les deux faces. Domaties en poche à l'aisselle des nervures secondaires.
+Drupe ellipsoid, red at maturity, pubescent. Pl. 5, 2–9, p. 21.
 
-Inflorescences solitaires ou fasciculées par deux, axillaires, à 2, parois 3 fleurs. Pédoncule floral long de 2 mm, densément pubescent. Pédicelle floral long de 2-3 mm, pubescent. Bouton floral piriforme. Bractées linéaires pubescentes. Fleurs pentamères jaunâtres. Pétales éparsemment pubescents extérieurement et glabres intérieurement, lancéolés,  $ 4 \times 1 $ mm, aigus au sommet, libres entre eux jusqu'à la base, dressés ou réfléchis. Étamines à filet long de 0,75-1 mm, aplatl dorsi-ventralement; anthères ellipsoïdes, basifixes, longues de 1,5 mm; connectif appendicule au sommet (appendicule long de 0,5 mm). Ovaire supère, pubescent à poils devenant plus longs vers le sommet, ellipsoïde, long de 0,75 mm. Style grêle, long de 2 mm, se terminant par un stigmate globuleux.
+NEOTYPE: Zenker 982, Cameroon (P!).
 
-Drupe ellipsoide, rouge à maturité, pubescente. Pl. 5, 2-9, p. 21.
+The unique type specimen collected by Doctor WEISSENBORN having been destroyed in Berlin, we had to designate a neotype, and we chose a specimen by ZENKER determined by ENGLER in 1889, thus compared with the holotype.
 
-NÉOTYPE : Zenker 982, Cameroun (P!).
-
-L'échantillon-type unique collecté par le Docteur WEISSENBORN ayant été détruit à Berlin, nous avons dû désigner un néotype, et nous avons choisi un échantillon de ZENKER déterminé par ENGLER en 1889, donc comparé à l'holotype.
-
-L'espèce est connue du Cameroun, du Gabon et de l'Angola.
+The species is known from Cameroon, Gabon and Angola.
 
 ## Specimens examined
 

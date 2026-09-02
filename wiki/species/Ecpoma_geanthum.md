@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , nec E. geantha. = Sabicea (?) geantha Hiern, F.T.A. 3 : 78 (1877).
 
-Arbuste de 3-4 m de hauteur, glabre. Stipules ovées-aiguës de 3-4 × 1-2 cm, glabres. Pétioles de 3-4 cm, glabre. Limbe glabre discolore, foncé dessus à sec, ovale ou obové, de 21-30 × 9-14 cm, aigu à la base et ± acuminé. Nervures secondaires 18-27 paires régulièrement arquées.
+Shrub 3–4 m tall, glabrous. Stipules ovate-acute, 3–4 × 1–2 cm, glabrous. Petioles 3–4 cm, glabrous. Blade glabrous, discolorous, dark when dry above, ovate or obovate, 21–30 × 9–14 cm, acute at the base and ± acuminate. Secondary veins 18–27 pairs regularly arcuate.
 
-Inflorescences caulinaires multiflores, insérées vers la base du tronc. Pédicelle grêle de 2-8 mm de longueur. Calice à courte et dense pubescence, à rebord tubuleux sur 2 mm au-dessous des lobes; les 5 lobes un peu pubescents-ciliés dans le bouton, subulés, longs de 3-4 mm. Corolle glabre à tube de 15-20 × 1-2 mm, à 5 lobes triangulaires longs de 1,5 mm à pubescence interne vers le milieu du tube sous les anthères (forme longistyle, seule observée). Anthères médifixes sessiles de 2,5-3 mm, à petit apicule saillant, insérées au tiers supérieur de la corolle. Ovaire à 2 loges. Style à 2 lobes aplatis visibles au niveau de la gorge. Jeune fruit sphérique glabrescent.
+Inflorescences cauline, multiflorous, inserted near the base of the stem. Pedicel slender, 2–8 mm long. Calyx with short and dense pubescence, with a tubular rim 2 mm below the lobes; the 5 lobes somewhat pubescent-ciliate in bud, subulate, 3–4 mm long. Corolla glabrous with tube 15–20 × 1–2 mm, with 5 triangular lobes 1.5 mm long with internal pubescence at the midpoint of the tube below the anthers (long-styled form, alone observed). Anthers medifixed, sessile, 2.5–3 mm, with a small prominent apicule, inserted in the upper third of the corolla. Ovary 2-locular. Style with 2 flattened lobes visible at the level of the throat. Young fruit spherical, glabrescent.
 
-Type et seul matériel connu : Mann 1728 (K et P!), monts de Cristal, 1° lat. N.
+Type and sole material known: Mann 1728 (K and P!), Cristal Mountains, 1° lat. N.
 
-Cette plante est certainement très voisine (sinon identique?) de l'espèce type du genre Ecpoma apocynaceum K. Schum. (connue elle aussi seulement par le type : Staudt 208, Lolodorf, Cameroun), dont la forme des feuilles, plus longues et plus étroites, paraît être la plus notable différence.
+This plant is certainly very close (if not identical?) to the type species of the genus Ecpoma apocynaceum K. Schum. (known also only by the type: Staudt 208, Lolodorf, Cameroon), of which the shape of the leaves, longer and narrower, appears to be the most notable difference.
 
 ## Notes
 

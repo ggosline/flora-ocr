@@ -23,11 +23,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Desv., Mag. Ges. Naturf. Freunde Berlin 5 : 322 (1811). — Tard., Mém. IFAN 28 : 171, t. 32, f. 1-2 (1953). — Alston, FWTA : 55 (1959).
 
-Épiphyte à rhizome dressé, à frondes en touffes, portant des écailles renflées à la base, à bords entiers, à parois épaisses. Pétiole épais, canaliculé, long de 7-15 cm, portant quelques écailles à l'extrême base. Limbe entier, lancéolé, atteignant 1 m de long sur 8 cm de large, à extrémité courtement effilée, base progressivement rétrécie. Costa proéminent et aplat à la face inférieure, aplat à la face supérieure. Nervures libres, environ 7 par cm, faisant un angle de 70° avec le costa. Sores irréguliers, minces, un long alternant avec un court, n'atteignant ni la marge ni le costa.
+Epiphytic with erect rhizome, fronds in tufts, bearing scales swollen at the base, with entire margins, with thick walls. Petiole thick, channelled, 7–15 cm long, bearing a few scales at the extreme base. Blade entire, lanceolate, reaching 1 m long by 8 cm wide, with shortly tapered apex, base gradually narrowed. Costa prominent and flattened on the lower surface, flattened on the upper surface. Veins free, approximately 7 per cm, making an angle of 70° with the costa. Sori irregular, thin, one long alternating with one short, not reaching either the margin or the costa.
 
 ## Type
 
@@ -35,9 +33,7 @@ Palisot de Beauvois, royaume d'Oware et du Bénin, S Nigéria (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Libéria, Côté-d'Ivoire, Ghana, Fernando-Po, Cameroun, Gabon, Congo, Angola. Souvent épiphyte sur Elaeis.
+Guinea, Liberia, Ivory Coast, Ghana, Fernando Po, Cameroon, Gabon, Congo, Angola. Often epiphytic on Elaeis.
 
 ## Specimens examined
 

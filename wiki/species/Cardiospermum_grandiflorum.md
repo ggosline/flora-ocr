@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Cardiospermum caillei CHEV., Expl. Bot. A.O.F. 5 : 148 (1920); FWTA, ed. 1, 1 : 503 (1928).
 
 fa. grandiflorum
 
-Arbrisseaux sarmenteux atteignant 8 m. Feuilles biternées ± velues, 15-20 cm, papyracées, dentées, sans stipules.
+Sarmentose shrubs reaching 8 m. Leaves biternate ± pubescent, 15–20 cm, papyraceous, dentate, without stipules.
 
-Inflorescences à 5 rameaux et plus, égalant en longueur les feuilles. Capsules longues de 6,5 cm et larges de 3,5 cm. Graines de 5-7 mm de diamètre, hile de 1,5-2 mm. Style de 2 mm. PL. 1, 10-18, p. 15.
+Inflorescences with 5 or more branches, equalling the leaves in length. Capsules 6.5 cm long and 3.5 cm wide. Seeds 5–7 mm in diameter, hilum 1.5–2 mm. Style 2 mm. PL. 1, 10–18, p. 15.
 
 fa. genuinum Radlkofer
 
-Tiges, face inférieure du limbe foliaire et fruits subtomenteux; parfois fruits glabres. Forme américaine.
+Stems, lower face of leaf blade and fruits subtomentose; sometimes fruits glabrous. American form.
 
 fa. elegans (Kunth) Radlkofer
 
-Tiges, feuilles, fruits glabriuscules; forme afro-américaine.
+Stems, leaves, fruits glabriusculous; afro-American form.
 
 ## Type
 
@@ -43,13 +41,11 @@ de Guinée
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The form elegans has been collected in Guinea, Liberia, Côte d'Ivoire, Congo, Zaïre, Angola. To be sought in Gabon.
 
-La forme elegans a été récoltée en Guinée, Libéria, Côté d'Ivoire, Congo, Zaïre, Angola. A rechercher au Gabon.
+The form hirsutum is known from Guinea, Sierra Leone, Côte d'Ivoire, Ghana, Dahomey, Nigeria, Central African Republic, Congo. To be sought in Gabon.
 
-La forme hirsutum est connue de Guinée, Sierra Leone, Côte d'Ivoire, Ghana, Dahomey, Nigeria, République Centrafricaine, Congo. A rechercher au Gabon.
-
-Utilisation : Dans la région de Bertoua, les femmes enceintes se font des colliers avec les tiges souples.
+Use: In the Bertoua region, pregnant women make necklaces for themselves with the flexible stems.
 
 ## Specimens examined
 

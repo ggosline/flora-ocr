@@ -21,9 +21,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sous-arbuste à tige robuste dressée, médulleuse, dépassant 1,50 m de hauteur. L'espèce diffère de la suivante E. Hiernianum par la pubescence de la face supérieure des limbes : poils fins de 2-3 mm de long, un peu épaissis au niveau de la base, régulièrement distribués; les stipules ont des marges plus glabres et sans nervures parallèles saillantes. Les lobes du calice plus courts sont ciliés; le tube de la corolle est orné de lignes verticales de cils mais les lobes sont glabres jusqu'à l'apex. L'inflorescence est semblable à celle de E. Hiernianum mais un peu plus petites. Fruit non connu.
+Subshrub with robust erect stem, pithy, exceeding 1.50 m in height. The species differs from the following E. Hiernianum by the pubescence of the upper surface of the blades: fine hairs 2–3 mm long, somewhat thickened at the base, regularly distributed; the stipules have more glabrous margins and without prominent parallel veins. The calyx lobes shorter are ciliate; the corolla tube is adorned with vertical lines of cilia but the lobes are glabrous to the apex. The inflorescence is similar to that of E. Hiernianum but somewhat smaller. Fruit unknown.
 
 ## Type
 
@@ -31,27 +29,23 @@ Mann s.n., île San-Thomé (K,P!); autre spécimen florifère susceptible de ser
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le seul échantillon gabonais que l’on puisse, au moins provisoirement, rapporter à cette espèce est stérile : N. Hallé 931, sous bois plantés, km 18 E de Libreville.
+The only Gabonese specimen that can, at least provisionally, be referred to this species is sterile: N. Hallé 931, planted undergrowth, km 18 E of Libreville.
 
 3. Ecpoma Hiernianum (Wernh.) N. et F. Hallé (PL. 47)
 
-N. Hallé, Adansonia 3 : 173 (1963), nec E. Hierniana.
+N. Hallé, Adansonia 3: 173 (1963), nec E. Hierniana.
 
-= Sabicea Hierniana Wernham, Monogr. Sabicea : 29 (1914). — F. Pellegrin, Fl. du Mayombe 3 : 9 (1938). — F. Hallé, Adansonia 1 : 271-273 (1961).
+= Sabicea Hierniana Wernham, Monogr. Sabicea: 29 (1914). — F. Pellegrin, Fl. du Mayombe 3: 9 (1938). — F. Hallé, Adansonia 1: 271–273 (1961).
 
-Plante sous-ligneuse devenant ligneuse, de 0,50 à 2,20 m de hauteur, à tige unique dressée, parfois fourchue, parfois affaissée et radicifère à la base, de 0,5 à 1,5 cm de diam. Entrenceuds de 2,5-5 cm, velus ± hirsutes. Stipules triangulaires amples ou cordées à la base, de (2) 3-5 cm de long sur (1) 2-2,5 cm de large, à face externe pubescente, à veines parallèles un peu saillantes. Pétiole de 1-2(4) cm, pubescent. Limbe longuement obové à elliptique de 15-40 × 6-12 cm; base atténuée très aiguë; sommet subacuminé à lancéolé, à pointe terminale très aiguë. Face supérieure tout à fait glabre; face inférieure à pubescence variable. Nervures secondaires 18-23 paires régulièrement ascendantes, les supérieures plus arquées.
+Subshrubby plant becoming woody, 0.50 to 2.20 m in height, with single erect stem, sometimes forked, sometimes collapsed and rooting at the base, 0.5 to 1.5 cm diam. Internodes 2.5–5 cm, ± hirsute-velutinous. Stipules broadly triangular or cordate at the base, (2) 3–5 cm long by (1) 2–2.5 cm wide, outer face pubescent, with veins slightly prominent and parallel. Petiole 1–2(4) cm, pubescent. Blade long-obovate to elliptic 15–40 × 6–12 cm; base attenuate very acute; apex subacuminate to lanceolate, with terminal point very acute. Upper surface completely glabrous; lower surface with variable pubescence. Secondary veins 18–23 pairs regularly ascending, the upper ones more arched.
 
-Inflorescences sessiles multiflores denses, axillaires ou persistantes sur des nœuds inférieurs défeuillés. Bractées petites, faiblement teintées, les deux premières opposées connées. Pédicelle non nul. Calice rouge, rose, mauve, jaunâtre ou verdâtre, pubescent à 5 lobes ensiformes ou effilés un peu inégaux de 5-12 × 1-3 mm, dressés jusqu'à l'anthèse puis étalés ou arqués-extorses dans les vieilles fleurs. Corolle blanche ± pubescent au moins vers le sommet, de 5-6 mm de diam. à l'anthèse, à tube d'env. 20 mm, à 5 lobes courts triangulaires. 5 anthères blanches attachées au milieu du dos, longues d'env. 2 mm, apiculées, disposées soit
+Inflorescences sessile multiflorous dense, axillary or persistent on lower defoliated nodes. Bracts small, weakly tinted, the first two opposite connate. Pedicel not zero. Calyx red, pink, mauve, yellowish or greenish, pubescent with 5 ensiform or tapered somewhat unequal lobes 5–12 × 1–3 mm, erect until anthesis then spread or arched-extrorse in old flowers. Corolla white ± pubescent at least toward the apex, 5–6 mm diam. at anthesis, with tube ca. 20 mm, with 5 short triangular lobes. 5 white anthers attached at the middle of the back, ca. 2 mm long, apiculate, arranged either in the throat or toward the middle of the tube. Style slender, glabrous, white, 13 mm (brevistyle fl.) or 19 mm (longistyle fl.), with two non-adherent stigmatic lobes, 3 mm long. Ovary with 2 locules and placentas typical of the genus.
 
-dans la gorge soit vers le milieu du tube. Style grêle, glabre, blanc, de 13 mm (fl. brévystyle) ou 19 mm (fl. longistyle), à deux lames stigmatiques non adhérentes, longues de 3 mm. Ovaire à 2 loges et placentas typiques du genre.
+Young fruits reddish or violet; they become fleshy, soft, light red, globoid up to 14 mm high and 12 mm diam. and remain crowned by the persistent sepals. The two locules increase in volume in the middle of the white pulp; the ripe seeds can detach from the placentas and then bathe in a colourless liquid. Old placentas cordate echinulate 2.4 × 2.1 mm (15 p. 127). Seeds subangulous 0.4–0.5 mm, ochraceous.
 
-Fruits jeunes rougeâtres ou violacés; ils deviennent charnus, mous, rouge clair, globoïdes jusqu'à 14 mm de haut et 12 mm de diam. et restent couronnés par les sépales persistants. Les deux loges augmentent de volume au milieu de la pulpe blanche; les graines mûres peuvent se détacher des placentas et baignent alors dans un liquide incolore. Vieux placentas cordiformes échinulés de 2,4 × 2,1 mm (15 p. 127). Graines subanguleuses de 0,4-0,5 mm, ochracées.
+The type of the species, Mann 918 (K, P!), differs from other specimens by the fine pubescence of the upper surface of the midvein of the leaf, over approximately the entire length; there is no other notable difference on the specimen examined.
 
-Le type de l'espèce, Mann 918 (K, P!), diffère des autres échantillons par la pubescence fine du dessus de la nervure médiane de la feuille, sur à peu près toute la longueur; il n'y a pas d'autre différence notable sur le spécimen examiné.
-
-Espèce presque exclusivement gabonaise, mais connue du Mayombe bas-congolais; elle croit en sous-bois, dans des sols humides; elle est fréquente au fond de certains vallons encaissés sur des alluvions limoneuses ou des rives de torrents. Du terreau provenant des épiphytes surplombantes ou du sol par projections pluviailes, est parfois retenu par les poils des entrenœuds et par les stipules; il peut s'y développer des racines adventives.
+Species almost exclusively Gabonese, but known from the lower Mayombe of the Congo basin; it grows in undergrowth, in humid soils; it is frequent at the bottom of certain sunken valleys on silty alluvium or torrential stream banks. Humus from overhanging epiphytes or soil by rainfall projections is sometimes retained by the hairs of the internodes and by the stipules; adventitious roots can develop there.
 
 ## Specimens examined
 

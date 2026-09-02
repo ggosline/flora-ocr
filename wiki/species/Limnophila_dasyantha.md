@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 4(2) : 318 (1906). Herbe annuelle, semi-aquatique, atteignant 1 m de hauteur ; tige dressée, simple ou peu ramifiée, à partie aérienne jusqu’à 30 cm de longueur, densément pubescente, partie submergée jusqu’à 70 cm de longueur, pubescente. Feuilles aériennes opposées, à limbe ovale-elliptique à oblancéolé, 6–14 × 3–5 mm, acuminé au sommet, à marge obtusément crénelé-dentée ; feuilles submergées multipartites, 18–32 mm de longueur, à segments capillaires . Inflorescence dense. Fleur sans bractéoles ; calice 5–6 mm de longueur, à lobes de 4,5–5,5 mm de longueur, à petites glandes rondes ; corolle jusqu’à 14 mm de longueur , jaune avec des taches violacées, tube 8–9 mm de longueur, lèvre supérieure bipartite et 2 mm de longueur, lèvre inférieure tripartite et 2 mm de longueur ; étamines antérieures (abaxiales) à filets de 5–6 mm, ceux des étamines postérieures (adaxiales) 3–3,5 mm, anthères 1,5 mm de longueur ; ovaire 2 mm de longueur ; style 5 mm. Fruit septicide-septifrage et loculicide, elliptique, comprimé, 4 × 5 mm.
+in Oliv., Fl. trop. Afr. 4(2) : 318 (1906). Annual herb, semi-aquatic, reaching 1 m in height; stem erect, simple or little branched, aerial part up to 30 cm long, densely pubescent, submerged part up to 70 cm long, pubescent. Aerial leaves opposite, with oval-elliptic to oblanceolate blade, 6–14 × 3–5 mm, acuminate at apex, margin obtusely crenate-dentate; submerged leaves multipartite, 18–32 mm long, with capillary segments. Inflorescence dense. Flower without bracteoles; calyx 5–6 mm long, with lobes 4.5–5.5 mm long, with small round glands; corolla up to 14 mm long, yellow with violaceous spots, tube 8–9 mm long, upper lip bipartite and 2 mm long, lower lip tripartite and 2 mm long; anterior (abaxial) stamens with filaments 5–6 mm, those of posterior (adaxial) stamens 3–3.5 mm, anthers 1.5 mm long; ovary 2 mm long; style 5 mm. Fruit septicidal-septifragal and loculicidal, elliptic, compressed, 4 × 5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Guinée-Conakry, Sierra Leone, Cameroun, Gabon, République démocratique du Congo, Angola, Zambie et Namibie ; au Gabon, observée dans la Ngounié (Mandji)
+Senegal, Guinea-Bissau, Guinea-Conakry, Sierra Leone, Cameroon, Gabon, Democratic Republic of the Congo, Angola, Zambia and Namibia; in Gabon, observed in the Ngounié (Mandji)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+marshes and small pools of savannas; in Gabon, at low altitude, in the Democratic Republic of the Congo, up to 1200 m. B: Fischer (1999), Hepper (1963), Mielcarek (1996), Philcox (1970, 1990). Bibliography
 
-marais et petites mares des savanes ; au Gabon, à basse altitude, en République démocratique du Congo, jusqu’à 1200 m. B : Fischer (1999), Hepper (1963), Mielcarek (1996), Philcox (1970, 1990). ibliographie
-
-Étamines. (A–E : Le Testu 6498 ). Dessin par E. Fischer (©).
+Stamens. (A–E: Le Testu 6498). Drawing by E. Fischer (©).
 
 ## Notes
 

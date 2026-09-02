@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in De Kerchove de Denterghem, Palmiers : 244 (1878). Liane cespiteuse ; stipe cylindrique, jusqu’à 15 m, jusqu’à 15 mm de diamètre. Feuille : gaine striée, faiblement recouverte d’une pilosité brun-noir ; ochréa dépassant le rachis sur 1 cm, entière, à sommet obliquement tronqué ; genou absent ; rachis 1–1,3 m, aplati au-dessus, arrondi en dessous, bords armés d’épines bulbeuses, devenant peu armés distalement, glabre ; limbe avec 15 à 20 paires de folioles linéaires-lancéolées, de 22–30 × 1,6–2 cm, sommet longuement apiculé sur 0,8–1,2(–3) cm, marges armées d’épines, les basales plus petites que les autres, linéaires et réfléchies autour de la gaine foliaire ; cirrhe 50–75 cm, sans épines, à fo lioles-épines de ± 3. Inflorescence (20–)30–38 cm de longueur ; pédoncule 10–18 cm ; rachis 20–30 cm, érigé ou étalé, avec 10 à 12 paires de rameaux florifères de 5–12 cm, décroissant en longueur distalement ; bractées < 3 mm de longueur, décroissant en longueur distalement. Fleur : calice 4–5 × 6 mm, à lobes très courts (< 1 mm) ; corolle 7–10 × 4–5 mm, divisée sur le ¼ de sa longueur ; étamines en un anneau de 4–6 mm de longueur, partie libre du filet < 0,5 mm, anthère < 1 mm de longueur ; ovaire 3–4 × 2–2,5 mm ; style 2,5 mm. Fruit cylindrique, 2–2,4 × 1,6–2 cm à maturité, avec 18 à 21 rangs d’écailles. Graine 1,6–2 × 0,8–1 × 0,6–0,8 cm, aplatie d’un côté.
+in De Kerchove de Denterghem, Palmiers : 244 (1878). Cespitose liane; stem cylindrical, up to 15 m, up to 15 mm in diameter. Leaf: sheath striated, weakly covered with dark brown pubescence; ochrea exceeding the rachis by 1 cm, entire, with obliquely truncate apex; knee absent; rachis 1–1.3 m, flattened above, rounded below, margins armed with bulbous spines, becoming sparsely armed distally, glabrous; blade with 15 to 20 pairs of linear-lanceolate leaflets, 22–30 × 1.6–2 cm, apex with long acumen 0.8–1.2(–3) cm, margins armed with spines, the basal ones smaller than the others, linear and reflexed around the leaf sheath; cirrus 50–75 cm, without spines, with spine-like leaflets of ± 3. Inflorescence (20–)30–38 cm long; peduncle 10–18 cm; rachis 20–30 cm, erect or spreading, with 10 to 12 pairs of flowering branches 5–12 cm, decreasing in length distally; bracts < 3 mm long, decreasing in length distally. Flower: calyx 4–5 × 6 mm, with very short lobes (< 1 mm); corolla 7–10 × 4–5 mm, divided for ¼ of its length; stamens in a ring 4–6 mm long, free portion of filament < 0.5 mm, anther < 1 mm long; ovary 3–4 × 2–2.5 mm; style 2.5 mm. Fruit cylindrical, 2–2.4 × 1.6–2 cm at maturity, with 18 to 21 rows of scales. Seed 1.6–2 × 0.8–1 × 0.6–0.8 cm, flattened on one side.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon et sud de la République démocratique du Congo ; au Gabon, présent en région côtière dans l’Estuaire et l’Ogooué-Maritime. Statut de conservation : Préoccupation mineure (LC)
+Cameroon, Equatorial Guinea, Gabon and southern Democratic Republic of the Congo; in Gabon, present in the coastal region in Estuaire and Ogooué-Maritime. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières de forêt, lisières des inclusions de savane, typique sur sol de sable blanc ; au Gabon à 5–50 m d’altitude, ailleurs à 5–300 m
+forest edges, edges of savanna inclusions, typical on white sand soil; in Gabon at 5–50 m elevation, elsewhere at 5–300 m
 
 ## Vernacular names
 
@@ -38,9 +32,7 @@ ndera (fang). B : Cosiaux et al. (2018), Faye et al. (2014), Pajarón et al. (20
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Folioles-épines. – 5. Fleur. – 6. Idem, coupe longitudinale. – 7. Fruit et infrutescence. E. Flower. F. Coupe d’une fleur. G. Fruit et infrutescence. Barre d’échelle : 1 = 2,5 cm. 2 = 5 cm, 3 = 3 cm, 4 = 2,5 cm, 5, 6 = 1 cm, 7 = 2 cm. (1-3, 7 : Sunderland 1909 ; 4 : Sunderland 1792 ; 5, 6 : Sunderland 1922 ). Dessin par Lucy T. Smith, reproduit avec permission à partir de Sunderland (2012).
+Spine-like leaflets. – 5. Flower. – 6. Idem, longitudinal section. – 7. Fruit and infructescence. E. Flower. F. Longitudinal section of a flower. G. Fruit and infructescence. Scale bar: 1 = 2.5 cm. 2 = 5 cm, 3 = 3 cm, 4 = 2.5 cm, 5, 6 = 1 cm, 7 = 2 cm. (1-3, 7: Sunderland 1909; 4: Sunderland 1792; 5, 6: Sunderland 1922). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
 ## Notes
 

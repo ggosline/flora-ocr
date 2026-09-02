@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Chlamydocardia (?) nuda C. B. Clarke, F.T.A. 5 : 235 (1900); non Justicia nuda (Nees) Schwartz, Mitt. Inst. Allg. Bot. Hamburg 10 : 259 (1939) (≡ Adhatoda nuda Nees, in DC. Prodr. 11 : 402, 1847).
 
-Plante atteignant 1,80 m de hauteur, légèrement pubescente, à tige et feuilles vertes d'un vert glauque foncé. Pétiole de 1-7 cm de long. Limbe des feuilles elliptique, acuminé de 10 × 7 cm, quelquefois légèrement cordé, souvent ± atténué à la base; acumen assez allongé; pétioles, côte médiane et nervures à pubescence fine et dense; limbe de la feuille en-dessus pubescent de façon éparse puis glabrescent. 7-8 paires de nervures latérales.
+Plant reaching 1.80 m in height, slightly pubescent, with stem and leaves of a dark glaucous green. Petiole 1–7 cm long. Leaf blade elliptic, acuminate, 10 × 7 cm, sometimes slightly cordate, often ± attenuate at base; acumen fairly elongate; petioles, midvein and veins with fine and dense pubescence; leaf blade above pubescent sparsely then glabrescent. 7–8 pairs of lateral veins.
 
-Inflorescence en forme d'épi dressé et très allongé jusqu'à 22 mm de long et environ 1 cm d'épaisseur. Feuilles de l'inflorescence comme les bractées, linéaires-lancéolées, jusqu'à 14 mm de long. Fleurs disposées en petits fascicules opposés, chacun à 1-4 fleurs; pédoncules d'environ 5 mm de long; les fascicules présentent fréquemment des boutons floraux stériles. Bractées, bractéoles et sépales ± de même forme et longueur, linéaires-acuminées, de 7-10 mm de long, à l'état vivant violacées ou grisâ-tres-violacées, ou souvent tachetées de violacé à la base et au sommet; tous ont une fine, mais très dense pubescence grisâtre. Corolle d'environ 14 mm de long, pubescente, jaunâtre, zébrée-tigrée dans l'étendard, de violet foncé, à labelle piquetée de violet foncé (d'après N. Hallé 2176); les deux étamines de même couleur que la corolle ont des filets glabres d'environ 4 mm de long. Anthè-res à deux loges parallèles et un peu superposées, toutes deux munies à leur base d'un petit appendice hyménoïde en forme de crête de poule : cet appendice correspond très bien à ceux des autres Justicia traités ici; la loge supérieure est ciliée au sommet et le long du connectif, longue de 1,3 mm; loge inférieure avec quelques poils glanduleux à la base, d'environ 1 mm. Ovaire glabre, de 2 mm de haut, à quatre ovules. Style de 11 mm légèrement pubescent sur sa moitié inférieure. Fruit inconnu.
+Inflorescence in the form of an erect and very elongate spike up to 22 mm long and approximately 1 cm thick. Inflorescence leaves like the bracts, linear-lanceolate, up to 14 mm long. Flowers arranged in small opposite fascicles, each with 1–4 flowers; pedicels approximately 5 mm long; the fascicles frequently present sterile flower buds. Bracts, bracteoles and sepals ± of the same form and length, linear-acuminate, 7–10 mm long, when fresh violaceous or grayish-violaceous, or often spotted with violaceous at the base and apex; all have fine but very dense grayish pubescence. Corolla approximately 14 mm long, pubescent, yellowish, striped-spotted on the standard, dark violet, with labellum dotted with dark violet (according to N. Hallé 2176); the two stamens of the same colour as the corolla have glabrous filaments approximately 4 mm long. Anthers with two parallel and somewhat superposed lobes, both furnished at their base with a small hymenoid appendage in the form of a cockscomb: this appendage corresponds very well to those of the other Justicia treated here; the upper lobe is ciliate at the apex and along the connective, 1.3 mm long; lower lobe with some glandular hairs at the base, approximately 1 mm. Ovary glabrous, 2 mm high, with four ovules. Style 11 mm slightly pubescent on its lower half. Fruit unknown.
 
 ## Type
 
@@ -31,9 +29,7 @@ Bates 494 (K, holotype!; P, isotype!)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-— Il s'agit évidemment d'une espèce endémique très rare; les récoltes de N. Hallé en 1963, sont les premières succédant à la récolte du type par Bates. La position de cette espèce, longtemps restée douteuse, a pu être enfin rectifiée grâce aux nouveaux matériaux
+— This is evidently a very rare endemic species; the collections of N. Hallé in 1963 are the first succeeding the collection of the type by Bates. The position of this species, long remaining doubtful, has finally been able to be corrected thanks to the new material.
 
 ## Specimens examined
 

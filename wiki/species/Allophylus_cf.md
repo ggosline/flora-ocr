@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Allophylus africanus P.B., fa. senegalensis RADLK., subfa. subcoriaceus (BAK. F.) RADLK. in ENGL., Pflanzenreich, Sapindaceae : 538 (1932).
 
-Arbuste à grand arbre; rameaux de 1,5-3 mm de diamètre, glabres, noirâtres, à lenticelles blanches, allongées. Folioles à limbe environ 3 fois plus long que large. PL. 2, 11-14, p. 31.
+Shrub to large tree; branchlets 1.5–3 mm in diameter, glabrous, blackish, with elongate white lenticels. Leaflets with blade approximately 3 times longer than wide. PL. 2, 11–14, p. 31.
 
 ## Type
 
@@ -29,11 +27,9 @@ Bagshawe 264
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species distributed from Zaïre and Uganda to Zambia in forest galleries and savannas up to 2000 m altitude.
 
-Espèce distribuée du Zaïre et de l’Uganda à la Zambie dans les galeries forestières et les savanes jusqu’à 2000 m d’altitude.
-
-RADLKOFER cite cette plante parmi 18 espèces africaines insuffisamment connues et la considère comme voisine de la fa. senegalensis, mais sans domaties. Pour HAUMAN, « la constance de la forme des folioles et la distribution géographique obligent à conserver cette espèce à côté de A. africanus. »
+RADLKOFER cites this plant among 18 insufficiently known African species and considers it close to fa. senegalensis, but without domatia. For HAUMAN, "the constancy of leaflet form and geographic distribution oblige us to maintain this species alongside A. africanus."
 
 ## Vernacular names
 

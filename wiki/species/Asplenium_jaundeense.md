@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier. in Engl., Bot. Jahrb. 46 : 369 (1911). — Tard., Mém. IFAN 28 : 192 t. 30, f. 4 (1953). — Alston, FWTA : 57 (1959).
 
-Rhizome courtement rampant, à frondes rapprochées, portant des écailles deltoïdes, à base droite, à cellules très foncées et complètement épaissies en centre, formant une sorte de pseudonervure, cellules des marges à parois minces. Pétiole plus court que le limbe, grisâtre, écailleux, à écailles caduques, long de 9-10 cm. Limbe oblong, penné, long de 14-20 cm; 10-20 paires de pennes latérales, la terminale subéquilatérale, obscurément trilobée, les inférieures réduites, plus larges, obtuses, espacées d'environ 1 cm, opposées ou subopposées, sessiles, trapézoïdales, longues d'environ 2 cm sur 0,7-1 cm de large, à base supérieure
-
-cunéiforme, tronquée, inférieure oblique, concave, trilobées ou subtrilobées, à lobe médian effilé, les lobes eux-mêmes irrégulièrement laciniés ou incisés. Texture coriace. Rachis foncé. Costa non apparent. Nervures subflabellées, plusieurs fois bifurquées. Sores longs de 0,5 à 2 cm, n'atteignant ni la base ni la marge. Spores ovales, portant des crêtes nombreuses, pâles.
+Rhizome shortly creeping, with fronds crowded together, bearing deltoid scales, with straight base, with cells very dark and completely thickened at centre, forming a sort of pseudonerve, cells of the margins with thin walls. Petiole shorter than the lamina, greyish, scaly, with caducous scales, 9–10 cm long. Lamina oblong, pinnate, 14–20 cm long; 10–20 pairs of lateral pinnae, the terminal one subequilateral, obscurely trilobed, the lower ones reduced, broader, obtuse, spaced about 1 cm apart, opposite or subopposite, sessile, trapezoidal, about 2 cm long by 0.7–1 cm broad, with upper base cuneiform, truncate, lower oblique, concave, trilobed or subtrilobed, with median lobe tapering, the lobes themselves irregularly laciniate or incised. Texture coriaceous. Rachis dark. Costa not apparent. Veins subflabellate, several times bifurcate. Sori 0.5–2 cm long, reaching neither the base nor the margin. Spores oval, bearing numerous pale ridges.
 
 ## Type
 
@@ -34,11 +30,9 @@ Zenker 214, Yaoundé (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Cameroon.
 
-Guinée, Cameroun.
-
-Forêt pélohygrophile. En pleine lumière.
+Pelalohygrophilous forest. In full light.
 
 ## Specimens examined
 

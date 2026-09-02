@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, ref. orig., and Sterc. Gab., Mém. S. B. Fr. : 43 (1950-1951).
 
-, réf. orig., et Sterc. Gab., Mém. S. B. Fr. : 43 (1950-1951).
+Tree or shrub. Young branches with short russet-colored stellate hairs. Persistent stipules 8-10 cm long by ca. 2 cm wide, attenuate, coriaceous, striate-veined, glabrous or glabrescent on the external face, glabrous on the internal face. Petiole reaching 50-65 (75) cm long, subcylindric, finely clothed with stellate hairs then glabrescent. Leaves digitate, 8-9-foliolate. Petiolules ca. 5-8 mm. Leaflets entire; the principal ones narrowly elliptic, 30-48 × 6-10 cm, with base narrowly attenuate, apex acuminate-caudate, margins somewhat irregular. Lateral leaflets of decreasing size, somewhat asymmetrically enlarged on the external side. Lamina russet-brown when dry, coriaceous, glabrous above and below, with only a few stellate hairs on the underside of the midvein. Pinnate venation 15-22 pairs, arched ascending.
 
-Arbre ou arbuste. Jeunes rameaux à poils ras étoilés roussâtres. Stipules persistantes de 8-10 cm de long sur env. 2 cm de large, atténuées, coriaces, striées nervées, glabres ou glabrescentes sur la face externe, glabres sur la face interne. Pétiole atteignant 50-65 (75) cm de long, subcylindrique, finement vêtu de poils stellés puis glabrescents. Feuilles digitées 8-9 foliolées. Pétioules de 5-8 mm env. Folioles entières; les principales longuement elliptiques de 30-48 × 6-10 cm, à base longuement atténuée, à sommet acuminé caudé, à marges un peu irrégulières. Folioles latérales de taille décroissante, un peu dissymétriquement élargies du côté externe. Limbe brun roussâtre à sec, coriace, glabre dessus et dessous, avec seulement quelques poils stellés sur le dessous de la nervure médiane. Nervures pennées 15-22 paires arquées ascendantes.
+Inflorescences in short axillary fascicles or situated on old wood. Small narrowly ovate bracts 2-3 mm long, pubescent externally, glabrous internally. Pedicels 6-10 mm long, puberulent, articulate 1-2 mm below the apex. Bud globose-subovate. Flowers ♂ only observed, yellow, with calyx 6-13 mm long, coriaceous, campanulate for only 1.5-2 mm, densely clothed with small short russet-colored stellate hairs on the exterior, papilliferous on the interior; (4) 5 oblong acute lobes nearly three times longer than wide, with narrow undulate margins. Androphore narrow, ca. 0.5 mm high, erect on a pubescent area; depressed corona with about twenty uniseriate pollen sacs surrounding a rudimentary hirsute 5-carpellate ovary. Fruit unknown.
 
-Inflorescences en courts fascicules axillaires ou situés sur le vieux bois. Petites bractées étroitement ovées de 2-3 mm de long, pubescentes extérieurement, glabres intérieurement. Pédicelles de 6-10 mm de l.cng, pubérulents, articulés à 1-2 mm au-dessous du sommet. Bouton globuleux subové. Fleurs ♂ seules observées, jaunes, à calice de 6-13 mm de long, coriace, campanulé sur 1,5-2 mm seulement, densément vêtue de petits poils courts stellés roux à l'extérieur, papillifère à l'intérieur; (4) 5 lobes oblongs aigus près de trois fois plus longs que larges, à étroites marges on-
+Type of the species: Le Testu 8561 (P.).
 
-dulées. Androphore étroit de 0,5 mm env. de haut, dressé sur une plage pubescente; couronne déprimée d'une vingtaine de loges polliniques unisériées entourant un ovaire rudimentaire hirsute 5-carpellé. Fruit inconnu.
-
-Type de l'espèce : Le Testu 8561 (P.).
-
-Cette espèce encore peu connue est voisine de la précédente; son habitat est situé plus au sud dans la région de Lastoursville.
+This still little-known species is close to the preceding one; its habitat is situated further south in the region of Lastoursville.
 
 ## Specimens examined
 

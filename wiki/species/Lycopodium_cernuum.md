@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — L., Sp. pl. 2:1103 (1753). — Alston, Mém. IFAN 50:24 (1957); FWTA:12 (1959).
 
-Plantes terrestres. Tiges d'abord horizontales, arquées et enracinées çà et là, plus tard dressées; partie dressée longue de 30-50 cm avec de nombreuses branches latérales, le tout d'aspect conique. Tige ligneuse, cylindrique, légèrement cannelée, épaisse de plus de 5 mm. Feuilles en disposition spirallée, linéaires-subulées, arquées-ascendantes, aiguës, mais sans arête, entières. Strobiles nombreux, pendants à l'extrémité des ramilles latérales. Sporophylles très différents des vraies feuilles, triangulaires, acuminés, ciliolés. Sporanges subglobuleux, à valves inégales.
+Terrestrial plants. Stems at first horizontal, arched and rooting here and there, later erect; erect portion 30–50 cm long with numerous lateral branches, the whole conical in appearance. Stem woody, cylindrical, slightly grooved, more than 5 mm thick. Leaves in spiral arrangement, linear-subulate, arched-ascending, acute, but without an awn, entire. Strobili numerous, pendant at the apex of lateral branchlets. Sporophylls very different from true leaves, triangular, acuminate, ciliolate. Sporangia subglobose, with unequal valves.
 
 Pantropical.
 
-Bord des rivières et des routes en forêt; zones marécageuses.
+Margins of rivers and roads in forest; marshy zones.
 
 ## Specimens examined
 

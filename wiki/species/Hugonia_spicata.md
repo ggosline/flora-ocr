@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana reaching 100 m in length, 5–6 cm in diameter at the base and 30 m in height. Young stem clothed with short hairs. Adult stem almost glabrous, finely longitudinally striated, furnished with opposite hooks. Leaves petiolate; stipules pubescent on the outer and inner surfaces, 6–9 mm, laciniate; petiole tomentulose, 5–15 mm. Blade glabrous on the upper surface, discolorous, tomentulose with minute white-matte hairs on the lower surface, dentate, oblong-elliptic, obtuse to rounded, ± subcordate at the base, obtuse to briefly acuminate at the apex, 16–22 × 4.5–10 cm. Veins forming an almost right angle with the midvein, prominent on the lower surface; veinlets parallel prominent on both surfaces.
 
-Liane atteignant 100 m de longueur, 5-6 cm de diamètre à la base et 30 m de hauteur. Jeune tige vêtue de poils courts. Tige adulte quasiment glabre, finement striée longitudinalement, pourvue de crochets opposés. Feuilles pétiolées; stipules pubescentes à l'extérieur et à l'intérieur, de 6-
+Panicles terminal and axillary, multiflorous. Pedicel tomentose, 1–3 mm. Bracts laciniate and bracteoles generally subulate non-palmatifid, approximately 4 mm long. Sepals semi-erect, unequal, tomentulose on both surfaces, ovate-lanceolate, 4–7 × 3–4 mm. Petals glabrous, oblong to ± lanceolate, 12–15 × 4–5 mm. Stamens glabrous, alternately long and short, 2–4 mm in length; anthers elliptic, approximately 1 mm. Ovary glabrous, pubescent at the apex, ovoid, approximately 2 mm; styles glabrous, 6–7 mm; stigmas terminal, capitate.
 
-9 mm, laciniées; pétiole tomentelleux, de 5-15 mm. Limbe glabre à la face supérieure, discolore, tomentelleux à poils minuscules blanc-mat à la face inférieure, denté, oblong-elliptique, obtus à arrondi, ± surcordé à la base, obtus à brièvement acuminé au sommet, 16-22 × 4,5-10 cm. Nervures formant un angle presque droit avec la médiane, saillantes à la face inférieure; nervilles parallèles saillantes sur les 2 faces.
-
-Panicules terminales et axillaires, multiflores. Pédicelle tomenteux, de 1-3 mm. Bractées laciniées et bractéoles généralement subulées non palmatifides, longues d'environ 4 mm. Sépales semi-érigés, inégaux, tomentelleux sur les 2 faces, ovés-lancéolés, 4-7 × 3-4 mm. Pétales glabres, oblongs à ± lancéolés, 12-15 × 4-5 mm. Étamines glabres, alternativement longues et courtes, de 2-4 mm de longueur; anthères elliptiques, d'environ 1 mm. Ovaire glabre, pubescent au sommet, ovoïde, d'environ 2 mm; styles glabres, de 6-7 mm; stigmates terminaux, capités.
-
-Drupes jaune brillant, subglobuleuses. Noyaux bréviaxes, à forte pointe saillante au sommet, de 11-12 mm de hauteur sur 13-16 mm de diamètre. PL. 9, 4-7, p. 37.
+Drupes bright yellow, subglobose. Pyrenes short-axed, with a strong prominent point at the apex, 11–12 mm in height by 13–16 mm in diameter. PL. 9, 4–7, p. 37.
 
 ## Type
 
@@ -33,9 +29,7 @@ N. W. Thomas 1875, Nigeria (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts. Sud Nigeria, Gabon, République Centrafricaine et Zaïre.
+Forests. Southern Nigeria, Gabon, Central African Republic and Zaire.
 
 ## Specimens examined
 

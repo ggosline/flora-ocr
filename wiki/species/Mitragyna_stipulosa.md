@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree reaching 35 m tall and up to 1 m diam. Large stipules 4-8 × 2.5-5 cm, elliptic, obovate or suborbicular, pubescent in the lower half and generally hirsute toward the base. Petiole (1.5) 2-3.5 cm. Blade 12-45 × 8.5-26 cm, similar to that of M. ciliata.
 
-Grand arbre atteignant 35 m de haut et jusqu'à 1 m de diam. Grandes stipules de 4-8 × 2,5-5 cm, elliptiques, obovées ou suborbiculaires, pubescentes dans la moitié inférieure et généralement hirsutes vers la base. Pétiole de (1,5) 2-3,5 cm. Limbe de 12-45 × 8,5-26 cm, semblable à celui du M. ciliata.
+Inflorescences terminal or axillary comprising only 3-10 capitula, rarely more. About one hundred flowers per capitulum or more (one can sometimes find paired or fasciate capitula). Flowers white, whitish or grayish, surrounded by cunéate bracts 4-5 mm long, with truncate pubescent apex. Calyx entire or barely undulate, completely glabrous, exceeding the upper level of bracteoles in the open flower. Corollas more open when expanded than in M. ciliata.
 
-Inflorescences terminales ou axillaires comportant seulement 3-10 capitules, rarement plus. Une centaine de fleurs par capitale ou plus (on peut trouver parfois des capitules jumelés ou fasciés). Fleurs blanches, blanchâtres ou grisâtres, entourées de bractées cunéiformes de 4-5 mm de long, à sommet tronqué pubescent. Calice entier ou à peine ondulé, tout à fait glabre, dépassant le
-
-niveau supérieur des bractéoles dans la fleur épanouie. Corolles épanouies plus ouvertes que chez M. ciliata.
-
-Fruits secs de 8-9 mm de long à env. 10-fines côtes longitudinales saillantes à cupules calycinales hérissant le capitule sphérique. La déhiscence septicide se fait par deux fentes latérales ± arrêtées vers le haut par le calice. Petites graines ailées marginées de 2-2,5 mm. Cette espèce est très voisine de la suivante M. ciliata.
+Dry fruits 8-9 mm long with ca. 10 fine prominent longitudinal ribs with calyxine cupules bristling the spherical capitulum. Septicidal dehiscence occurs by two lateral splits ± arrested upward by the calyx. Small winged seeds margined 2-2.5 mm. This species is very close to the following M. ciliata.
 
 ## Type
 
@@ -39,15 +35,13 @@ Leprieur, s.n., riv. Gambie près d'Albreda, récolté en 1929 (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species well known outside Gabon, from humid or inundable forests and forest galleries in the savanna zone, distributed from Gambia to Angola and former Belgian Congo as far as Lower Katanga, it is commonly confused with M. ciliata. To be sought in Gabon.
 
-Espèce bien connue en dehors du Gabon, de forêts humides ou inondables et de galeries forestières en zone de savane, distribuée de la Gambie à l'Angola et au Congo ex-belge jusqu'au bas-Katanga, elle est communément confondue avec M. ciliata. À rechercher au Gabon.
+Wood tender with finer grain and somewhat denser than that of M. ciliata; it is used in interior joinery and for the manufacture of objects such as flour mortars. The largest leaves (those of young trees) serve to wrap certain foodstuffs.
 
-Bois tendre à grain plus fin et un peu plus dense que celui du M. ciliata; il est employé en menuiserie intérieure et pour la fabrication d'objets tels que mortiers à farine. Les feuilles les plus grandes (celles des jeunes arbres) servent à emballer certains aliments.
+Subgabonese material (region bordering to the south):
 
-Matériel subgabonais (région limitrophe au sud) :
-
-Sargos : 119, Kouilou inférieur.
+Sargos: 119, Lower Kouilou.
 
 ## Notes
 

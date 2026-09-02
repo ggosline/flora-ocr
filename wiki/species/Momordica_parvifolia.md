@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 28(3-8)
+Plate 28(3-8)
 
 M. multicrenulata Cogn., Bull. Jard. Bot. État Bruxelles 5(2): 110 (1916). M. affinis De Wild., Pl. bequaert. 1: 561 (1922).
 
-Herbe vivace, monoïque; tige de plusieurs mètres, glabre, densément striée. Vrilles simples, glabres. Feuille: pétiole 4–6 cm, glabre; limbe cordiforme, de 6–7 × 5–6 cm, à sinus basal profond, acuminé au sommet, membraneux, glabre des deux côtés, à marge entière ou denticulée. Inflorescence: la mâle en ombelle ou grappe longue de 8–10 cm, avec 5 à 25 fleurs. Fleur mâle: pédicelle 5–7 mm, à petite bractée glanduleuse étroitement elliptique-ovale; réceptacle cupuliforme, de 2–3 × 8 mm, pubérulent; sépales ovales, longs de 3 mm, acuminés au sommet, pubérulents; pétales obovales, longs de ± 10 mm, à 5 nervures, pubérulents à l'extérieur, blanc crème avec une tache foncée basale sur la face interne; étanines 3, filet court, à 2 anthères bithèques et 1 monothèque, à loges en forme de U inversé (dupliqué) et connectif large. Fleur femelle inconnue. Fruit oblong-fusiforme, de ±12 × 3,5 cm, charnu, glabre, nervuré, les côtes ±2 mm de hauteur, à nombreuses graines et pulpe parfumée. Graine ±rectangulaire, de ±15 × 8 × 4 mm, mucronée au sommet; testa finement sculpté, brun olive sur fond brun noirâtre.
+Perennial herb, monoecious; stem several metres long, glabrous, densely striate. Tendrils simple, glabrous. Leaf: petiole 4–6 cm, glabrous; lamina cordate, 6–7 × 5–6 cm, with deep basal sinus, acuminate at apex, membranous, glabrous on both sides, with margin entire or denticulate. Inflorescence: the male one in an umbel or raceme 8–10 cm long, with 5 to 25 flowers. Male flower: pedicel 5–7 mm, with small narrowly elliptic-ovate glandular bract; receptacle cupuliform, 2–3 × 8 mm, puberulent; sepals ovate, 3 mm long, acuminate at apex, puberulent; petals obovate, ± 10 mm long, with 5 veins, puberulent on outer surface, cream white with a dark basal spot on inner surface; stamens 3, filament short, with 2 bithecous anthers and 1 monothecous, with lobes in inverted U shape (duplicate) and broad connective. Female flower unknown. Fruit oblong-fusiform, ±12 × 3.5 cm, fleshy, glabrous, nerved, with ribs ±2 mm in height, with numerous seeds and fragrant pulp. Seed ±rectangular, ±15 × 8 × 4 mm, mucronate at apex; testa finely sculptured, olive brown on blackish-brown background.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu du Cameroun, du Gabon, de la République démocratique du Congo et de l'Angola ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo et Ogooué-Maritime
+known from Cameroon, Gabon, Democratic Republic of the Congo and Angola; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire, forêt marécageuse, galeries forestières, bords de route, stations rudérales ; au Gabon et ailleurs à 30–600 m d'altitude. Fleurs observées en février et août
+secondary forest, swamp forest, forest galleries, roadsides, ruderal stations; in Gabon and elsewhere at 30–600 m altitude. Flowers observed in February and August
 
 ## Bibliography
 

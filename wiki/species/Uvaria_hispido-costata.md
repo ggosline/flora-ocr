@@ -21,11 +21,11 @@ tags: [species, generated]
 
 Engler,Monogr.Afr.Pflanzenf.6 : 25 (19o1).- Pellegrin,Bull. Soc.Bot. Fr., Mem.31:59 (1949).
 
-Liane.Feuilles ä pétiole long de 7 mm； limbe elliptiqueoblong,arrondi ä la base,brusquement et courtement acuminé au sommet, long de 13 cm,large de 5,5 cm, brillant á la face supérieure,glabre â la face inférieure,sauf sur la nervure médiane hispide. Nervures latérales Io-I2 paires, tres proéminentes á la face inférieure, réunies en arceaux a 2-3 mm de la marge； reseau de nervilles lache, saillant en dessous.
+Liane.Feuilles ä pétiole long de 7 mm; limbe elliptiqueoblong,arrondi ä la base,brusquement et courtement acuminé au sommet, long de 13 cm,large de 5,5 cm, brillant á la face supérieure,glabre â la face inférieure,sauf sur la nervure médiane hispide. Nervures latérales Io-I2 paires, tres proéminentes á la face inférieure, réunies en arceaux a 2-3 mm de la marge; reseau de nervilles lache, saillant en dessous.
 
 Fleurs inconnues.
 
-Fruits ä pédicelle long de 1,5 cm;méricarpes ovoides-globuleux,longs de 2,3 cm， larges de 1,9 cm， finement verruculeux, tomentelleux fauves； stipe long de 2,2 cm.Graines 6-8 bisériees, oblongues,aplaties,longues de 6-9 mm,larges de 5-6 mm, ä testa brun, rugueux, fossulé;hile déprimé.
+Fruits ä pédicelle long de 1,5 cm;méricarpes ovoides-globuleux,longs de 2,3 cm, larges de 1,9 cm, finement verruculeux, tomentelleux fauves; stipe long de 2,2 cm.Graines 6-8 bisériees, oblongues,aplaties,longues de 6-9 mm,larges de 5-6 mm, ä testa brun, rugueux, fossulé;hile déprimé.
 
 ## Type
 

@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-TYPE : Cameroun, Yaoundé (fl.) Zenker 1515 (lectotype désigné en 1931 par EXELL -B delet. ; LECTOTYPE désigné ici : lecto-WAG ; iso-HBG, L, M, MO, P, Z).
+TYPE: Cameroon, Yaoundé (fl.) Zenker 1515 (lectotype designated 1931 by EXELL - B delet.; LECTOTYPE designated here: lecto-WAG; iso-HBG, L, M, MO, P, Z).
 
 – Quisqualis latialatum (ENGLER ex ENGLER & DIELS) EXELL, Journal of Botany 69:121 (1931); KEAY, FWTA, ed. 2, 1(1):275 (1954); EXELL & GARCIA, CFA:86 (1970); LIBEN, FZ:85 (1968); LIBEN, Fl. Cam. 25:62, tab. 18 (1983).
 
-Liane souvent ≤ 10 m et diamètre ≤ 3 cm. Branches brunes, d'aspect fibro-écailleux. Jeunes rameaux pubescents.
+Liane often ≤ 10 m and diameter ≤ 3 cm. Branches brown, fibro-scaly in appearance. Young branchlets pubescent.
 
-Feuilles opposées ; pétiole ≤ 12 mm, souvent transformé en crochés lignifiés ≤ 2,5 cm ; limbc ové à cliptique, ≤ 11 × ≤ 5 cm, papyracé ; grandes nervures latérales 5 à 7 paires ; base du limbe arrondie à subcordée, sommet acuminé.
+Leaves opposite; petiole ≤ 12 mm, often transformed into lignified hooks ≤ 2.5 cm; limb ovate to elliptic, ≤ 11 × ≤ 5 cm, papyraceous; major lateral veins 5 to 7 pairs; base of limb rounded to subcordate, apex acuminate.
 
-Écailles absentes.
+Scales absent.
 
-Inflorescences : racème terminal ou axillaire avec bractées longues de ≤ 8 mm et larges de ≤ 1 mm ; le rachis s'accroît durant la floraison et peut atteindre 15 cm ; la longueur des fleurs diminue de la base au sommet du rachis.
+Inflorescences: terminal or axillary raceme with bracts ≤ 8 mm long and ≤ 1 mm wide; the rachis elongates during flowering and may reach 15 cm; the length of flowers decreases from base to apex of the rachis.
 
-Fleurs 5-mères, stipitées, odorantes. Réceptacle jaune puis rouge, souvent un peu asymétrique : l'inférieur pubescent, haut de 4 mm, le supérieur  $ 8 \times 2.5 $ mm, tubulaire-infundibiliforme, vert à rougeâtre, poils épars seulement. Calice, lobes deltoïdes et acuminés. Pétales ovés,  $ 4 \times 1.5 $ mm, extérieur pubescent sur la « nervure médiane », ailleurs presque glabre et l'intérieur papilleux, jaune à rougeâtre. Étamines exsertes de 1 mm ; anthères longues de 5 mm. Style exsert de 1 mm, soudé à la partie supérieure du réceptacle (Pl. 14, 6, 7, p. 51).
+Flowers 5-merous, stipitate, fragrant. Receptacle yellow then red, often somewhat asymmetric: the lower pubescent, 4 mm high, the upper $ 8 \times 2.5 $ mm, tubular-infundibuliform, green to reddish, hairs scattered only. Calyx, lobes deltoid and acuminate. Petals ovate, $ 4 \times 1.5 $ mm, outer pubescent on the "midrib", elsewhere nearly glabrous and the inner papillose, yellow to reddish. Stamens exsert 1 mm; anthers 5 mm long. Style exsert 1 mm, adnate to the upper part of the receptacle (Pl. 14, 6, 7, p. 51).
 
-Fruit,  $ 3 \times 2.5 $ cm, vert à rougeâtre, ailes papyracées, pubescence très peu visible ; stipe 4-6 mm. – Pl. 15, p. 55.
+Fruit, $ 3 \times 2.5 $ cm, green to reddish, papyraceous wings, pubescence very inconspicuous; stipe 4–6 mm. – Pl. 15, p. 55.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Ghana au Congo (Kinshasa) et à l'Angola
+from Ghana to Congo (Kinshasa) and Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-altitude 0-650 m
+altitude 0–650 m
 
 ## Specimens examined
 

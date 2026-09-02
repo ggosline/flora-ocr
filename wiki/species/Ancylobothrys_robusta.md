@@ -17,15 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane JULPSDQWMXVTX¶jDXPRLQVPGHKDXWHXUUDPHDX[jSXEHVFHQFHGHQVHEUXQURXLOOH Feuille : pétiole de 12–26 mm , à collétères axillaires bien visibles ; limbe généralement ovale jHOOLSWLTXHRXREORQJGH±î±FPFXQppjFRUGpjODEDVHDFXPLQpDXVRPPHWJODEUH j¿QHPHQWSXEHVFHQWVXUOHVGHX[IDFHV nervures secondaires 5 à 14 paires, formant un angle de 45–60° avec la médiane , nervation tertiaire réticulée. ,QÀRUHVFHQFH longue de 16–43 FPDYHFjF\PHVSpGRQFXOHGH±FPEUDFWpHVVpSDORwGHVGHQVpPHQWSXEHVFHQWHV longues de ± 1 mm. Fleur : pédicelle de 1–3 mm ; calice à lobes longs de 1,2–3,7 mm, à pubescence externe dense brun rouille, ciliés ; corolle blanche ou jaune, souvent à tube rosâtre, longues de 16,5–30,5 mm dans le bouton mûr en formant une tête atténuée représentant 40–60% de sa longueur, glabre à pubescente à l’extérieur jWXEHSOXW{W¿QSDUIRLVOpJqUHPHQWpSDLVVL au-dessus des anthères, long de 10,5–20 mm , élargi de 1,5–2,5 mm au niveau des anthères, glabre à l’intérieur, parfois avec une ceinture pileuse minuscule, à gorge glabre, à lobes étroiWHPHQWRYDOHVjREORQJV±IRLVDXVVLORQJVTXHOHWXEHGH±î±PPpWDPLQHV insérées près de la base du tube, anthère longue de 1,1–1,5 mm ; pistil long de 2,8–3,3 mm, à ovaire à pubescence apprimée ou dense ; style glabre, de 0,4–0,9 mm. Fruit subglobuleux, GH±FPGHGLDPqWUHVWULpjO¶DSH[RUDQJHOLVVHjOpJqUHPHQWYHUUXTXHX[DYHFj graines. Graine HOOLSVRwGDOHORQJXHGH±PP
+Vine JULPSDQWMXVWEHORZWKHXPEHOKDWRVXPGHQVHEURNQUXVW pubescence. Leaf: petiole 12–26 mm, with conspicuous axillary colleters; lamina generally ovate, elliptic or oblong, 6–14 × 3–7 cm, cuneate to cordate at base, acuminate at apex, glabrous to finely pubescent on both surfaces; secondary nerves 5 to 14 pairs, forming an angle of 45–60° with the midvein; tertiary venation reticulate. Inflorescence 16–43 cm long, with pedunculate cymules 1–3 cm, bracteate with sepaloidal bracts, densely pubescent, 1 mm long. Flower: pedicel 1–3 mm; calyx with lobes 1.2–3.7 mm long, with dense rust-brown external pubescence, ciliate; corolla white or yellow, often with pinkish tube, 16.5–30.5 mm long in the mature bud forming a tapered head representing 40–60% of its length, glabrous to pubescent externally; tube rather fine, sometimes slightly thickened above the anthers, 10.5–20 mm long, expanded 1.5–2.5 mm at the level of the anthers, glabrous internally, sometimes with a minute pilose band, glabrous in the throat, with narrowly ovate to oblong lobes, 3–4 times as long as the tube, 3–5 × 1–2 mm; stamens inserted near the base of the tube, anther 1.1–1.5 mm long; pistil 2.8–3.3 mm long, with ovary with appressed or dense pubescence; style glabrous, 0.4–0.9 mm. Fruit subglobose, 1–1.5 cm diameter, striate at apex, orange, smooth to slightly verrucose, with 4 seeds. Seed ellipsoid, 8–10 mm long.
 
 A B E C D F G H
 
-Laurent s.n. Flamigni 136 / 10 'HVVLQSDU$QGUp5HYLOORQG¶$SUHYDO-DUGLQ ERWDQLTXHGH0HLVHHWSDU*XLGR03LFKRQ0XVpXPQDWLRQDOG¶+LVWRLUHQDWXUHOOH3DULV UHSURGXLWDYHFSHUPLVVLRQjSDUWLUGH'H:LOGHPDQHW3LFKRQ
+Laurent s.n. Flamigni 136 / 10. Drawing by André Revillon d'Aprevalo-Jardin botanique de Meise and by Guido M. Pichon Muséum national d'Histoire naturelle, Paris, reproduced with permission from De Wildeman and Pichon.
 
-Distribution 1LJpULD &DPHURXQ *XLQpH pTXDWRULDOH *DERQ 5pSXEOLTXH GX &RQJR 5pSXEOLTXH Gp PRFUDWLTXH GX &RQJR 5pSXEOLTXH &HQWUDIULFDLQH HW =DPELH DX *DERQ (VWXDLUH 2JRRXp,YLQGR HW Ogooué-Lolo. Écologie IRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGHDLOOHXUVMXVTX¶jP B : Pichon (1953), Vonk et al. (1994). IBLIOGRAPHIE
+Distribution: Nigeria, Cameroon, Guinea equatorial, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic, and Zambia. In Gabon: Estuaire, Ogooué-Ivindo and Ogooué-Lolo. Ecology: primary and secondary forest in Gabon, up to 800 m altitude, elsewhere up to 1500 m.
+
+B: Pichon (1953), Vonk et al. (1994). BIBLIOGRAPHY
 
 ## Notes
 

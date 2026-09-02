@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana reaching the upper stratum of the forest. Stem flattened and ± twisted. Young branches pubescent with fairly dense and appressed yellow hairs; old stems sparsely pubescent. Petiole flattened, canaliculate and pubescent above, glabrous below. Blade glabrous on both surfaces, brown above and brownish-green below, elliptic, narrowly lanceolate or lanceolate, 8–16 (–17) × 3–10 (–16) cm; base weakly cordate or most often rounded, apex acuminate acute or acute. Midrib visible on the upper surface and pubescent, prominent and pubescent on the lower surface. Secondary veins 5–7 pairs, visible above and prominent below. Veinlets scalariform obscurely visible on the upper surface and prominent on the lower surface. Tendrils opposite the inflorescences 14–20 cm long, ± bifid at the apex, glabrous at the base and pubescent at the apex.
 
-Liane atteignant la strate supérieure de la forêt. Tige aplatie et ± torsadée. Jeunes rameaux pubescents à poils jaunes assez denses et couchés; tiges anciennes éparsement pubescentes. Pétiole aplat, canaliculé et pubescent dessus, glabre dessous. Limbe glabre sur les deux faces, marron dessus et marron vert dessous, elliptique, étroitement lancéolé ou blancéolé, 8-16 (-17) × 3-10 (-16) cm; base faiblement cordée ou le plus souvent arrondie, sommet acuminé aigu ou aigu. Nervure médiane visible à la face supérieure et pubescente, saillante et pubescente à la face inférieure. Nervures secondaires 5-7 paires, visibles dessus et saillantes dessous. Nervilles scalariiformes obscurément visibles à la face supérieure et saillantes à la face inférieure. Vrilles opposées aux inflorescences longues de 14-20 cm, ‡ bifides au sommet, glabres à la base et pubescentes au sommet.
+Inflorescence in multiflorous dioecious panicle. ♂ flower 3 × 2 mm, penta- or tetramerous, brown in color. Pedicel articulate. Calyx absent. Petals reflexed, sparsely pubescent on the outer surface and glabrous on the inner surface, slightly fleshy, elliptic to lanceolate, 3 × 2 mm. Stamens 4 or 5, 1.5 mm long, free and erect; filament short and broad, 1 mm long; anthers oblong, basifixed curved. Ovary central, reduced by abortion. ♀ flower with 4–5 erect and slightly reflexed petals, fused together, slightly pubescent on the outer surface and glabrous on the inner surface. Ovary
 
-Inflorescence en panicule multiflore dioïque. Fleur ♂ de 3 × 2 mm, penta- ou tétramère, de couleur marron. Pédicelle articulé. Calice absent. Pétales réfléchis, éparsement pubescents à la face externe et glabres à la face interne, peu charnus, elliptiques à lancéolés, de 3 × 2 mm. Étamines 4 ou 5, longues de 1,5 mm, libres et dressées; filet court et large, long de 1 mm; anthères oblongues, basifixes recourbées. Ovaire central réduit par avor- ment. Fleur ♀ à 4-5 pétales dressés et peu réfléchis, soudés entre eux, légèrement pubescents à la face externe et glabres à la face interne. Ovaire
+ovoid to globose, with long white appressed hairs; style short and broad ending in a thick, discoid whitish stigma.
 
-ovoïde à globuleux, à poils blancs longs et appressés; style court et large se terminant par un stigmate épais, discoïde blanchâtre.
-
-Infrutescence en grappe de nombreuses drupes. Drupe brun jaunâtre, faiblement pubescente, réticulée, à 2 côtes latérales; de  $ 1,5 \times 0,9 \times 0,6 $ cm. Endocarpe ligneux. Graine 1 albuminée à embryon apical. PL. 1, p. 7.
+Infructescence in a raceme of numerous drupes. Drupe yellowish-brown, slightly pubescent, reticulate, with 2 lateral ribs; 1.5 × 0.9 × 0.6 cm. Endocarp woody. Seed 1, albuminous with apical embryo. PL. 1, p. 7.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mann s. n., Old Calabar (Nigeria) et Gabon, fl. ♂ (K; iso-, P!); Welwitsch s.n
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante se rencontre dans les forêts ombrophiles de terre ferme et dans les forêts inondées. On la trouve aussi dans les montagnes entre 800 et 1 000 m d'altitude. Son aire s'étend du Nigeria à l'Angola.
+This plant is found in terra firme rainforests and in flooded forests. It is also found in mountains between 800 and 1,000 m elevation. Its range extends from Nigeria to Angola.
 
 ## Specimens examined
 

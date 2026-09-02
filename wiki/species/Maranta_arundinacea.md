@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Gen. Pl. ed. 1:2 (1753).
 
-Herbes à rhizome charnu. Feuilles à pétiole calleux d'environ 7 mm de long ; limbe ovale lancéolé, arrondi à la base, mesurant jusqu'à  $ 22 \times 8 $ cm. Inflorescence atteignant une quinzaine de centimètres de long. Bractées abaxiales d'environ 5 cm de long ; pédoncule commun des fleurs atteignant la même longueur. Pédicelle le plus long d'environ 1 cm. Corolle blanche, de 20-23 mm de long, staminodes externes d'une vingtaine de mm. Fruit plan-convexe, de 7 mm de long.
+Herbs with fleshy rhizome. Leaves with callous petiole approximately 7 mm long; blade ovate-lanceolate, rounded at the base, measuring up to 22 × 8 cm. Inflorescence reaching about fifteen centimetres long. Abaxial bracts approximately 5 cm long; common peduncle of flowers reaching the same length. Longest pedicel approximately 1 cm. Corolla white, 20–23 mm long, external staminodes about twenty mm. Fruit plano-convex, 7 mm long.
 
-Espèce originaire d'Amérique du sud, mais introduite et cultivée dans toutes les régions tropicales du monde sous le nom d'Arrow-root. Introduite au Gabon, elle est parfois naturalisée autour des villages.
+Species native to South America, but introduced and cultivated in all tropical regions of the world under the name Arrow-root. Introduced to Gabon, it is sometimes naturalized around villages.
 
 ## Specimens examined
 

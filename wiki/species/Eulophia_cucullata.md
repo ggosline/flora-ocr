@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Lissochilus arenarius Lindl., J. Linn. Soc., Bot. 6 : 133 (1862).
 
 – Lissochilus dilectus Rchb. f., Otia Bot. Hamburg. 1 : 62 (1878).
@@ -31,39 +29,35 @@ tags: [species, generated]
 
 – Eulophia monteiroi (Rolfe) Butzin, Willdenowia 7:589 (1975).
 
-Organes pérennes, 4-5,5 x 2-3 cm, en forme de pomme de terre. Feuilles 3 ou 4, 20-70 x 0,4-2 cm. Inflorescence 40-130 cm, 3-15-flore. Sépales marron, bruns ou ocre, pétales rose-violet, labelle rose-violet avec une gorge blanche à crème, lobes latéraux verdâtes rayés de brun. Sépale dorsal lancéolé. Pétales obliquement elliptiques. Sépales latéraux obliquement lancéolés. Labelle 18-40 x 20-40 mm, nettement trilobé juste au-dessus du milieu, 2 épaississements rhombiformes ou carrés, parallèles, près du centre et 1 ou 3 crêtes charnues, au-dessus ; lobe médian transversalement elliptique ; lobes latéraux triangulaires, papilleux près de la base. Éperon 11-17 mm, largement sacciforme. Pl. 143, p. 321.
+Perennial organs, 4–5.5 × 2–3 cm, potato-shaped. Leaves 3 or 4, 20–70 × 0.4–2 cm. Inflorescence 40–130 cm, 3–15-flowered. Sepals brown, dark brown or ochre, petals rose-violet, labellum rose-violet with a white to cream throat, lateral lobes greenish streaked with brown. Dorsal sepal lanceolate. Petals obliquely elliptic. Lateral sepals obliquely lanceolate. Labellum 18–40 × 20–40 mm, distinctly trilobed just above the middle, 2 rhomboid or square thickening, parallel, near the centre and 1 or 3 fleshy ridges above; median lobe transversely elliptic; lateral lobes triangular, papillose near the base. Spur 11–17 mm, broadly saccate. Pl. 143, p. 321.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Gambie, Mali, Guinée-Bissau, Guinée, Sierra Leone, Côte d'Ivoire, Burkina Faso, Ghana, Togo, Nigeria, Cameroun, Gabon, Angola, Congo, République centrafricaine, Zaïre, Rwanda, Burundi, Soudan, Éthiopie, Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique, République sudafricaine, Madagascar
+Senegal, Gambia, Mali, Guinea-Bissau, Guinea, Sierra Leone, Ivory Coast, Burkina Faso, Ghana, Togo, Nigeria, Cameroon, Gabon, Angola, Congo, Central African Republic, Zaïre, Rwanda, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique, South African Republic, Madagascar
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 100–2,300 m. Terrestrial in wooded or open grassland, thicket and woodland, peng-bele, dembo, fallow
 
-alt. 100-2 300 m. Terrestre en prairie boisée ou non, fourré et bois, peng-bele, dembo, jachère
+MATERIAL STUDIED (Map 67):
 
-MATÉRIEL ÉTUDIÉ (Carte 67) :
+Arends, Louis & De Wilde 456, 74 km along the Sindara-Mouila road, 1° 30' S, 10° 40' E (fl. Dec.), WAG!.
 
-Arends, Louis & De Wilde 456, 74 km le long de la route Sindara-Mouila, 1° 30' S, 10° 40' E (fl. Déc.), WAG!.
+Breteler 6811, km 3 Moanda-Franceville, ca. 1° 31' S, 13° 14' E, savanna (fl. Oct.), WAG!.
 
-Breteler 6811, km 3 Moanda-Franceville, ca. 1° 31' S, 13° 14' E, savane (fl. Oct.), WAG!.
+De Wilde, Arends & de Bruijn 9157, approximately 22 km along a track north of Doussala, alt. ± 100 m, wooded islet exploited surrounded by savanna, 2° 12' S, 10° 36' E (fl. Dec.), BR!, P!, WAG!.
 
-De Wilde, Arends & de Bruijn 9157, environ 22 km le long d'une piste vers le N de Doussala, alt. ± 100 m, ilôt forestier exploité entouré de savane, 2° 12' S, 10° 36' E (fl. Déc.), BR!, P!, WAG!.
+De Wilde, Arends, Louis & Wieringa 10016, Batéké Plateau, 7 km south of Léconi, 1° 39' S, 14° 17' E (fl. Dec.), WAG!.
 
-De Wilde, Arends, Louis & Wieringa 10016, Plateau Batéké, 7 km au S de Léconi, 1° 39' S, 14° 17' E (fl. Déc.), WAG!.
-
-Griffon de Bellay 268, plaines Denys, P!.
+Griffon de Bellay 268, Denys plains, P!.
 
 Le Testu s.n., Tchibanga (fl. Nov.), BM!, BR!.
 
-J. M. & B. Reitsma 1759, entre Mouila et Moabi, 2° 10' S, 11° 40' E (fl. Oct.), WAG! ; 2448, Réserve de Lopé, 11° 40' E, 06 S (fl. Juil.), WAG!.
+J. M. & B. Reitsma 1759, between Mouila and Moabi, 2° 10' S, 11° 40' E (fl. Oct.), WAG! ; 2448, Lopé Reserve, 11° 40' E, 06 S (fl. Jul.), WAG!.
 
-Thollon s.n., s.loc.,P!.
+Thollon s.n., s.loc., P!.
 
-Wieringa, van Nek, Hedin & Moussavou 2950, Ngounyé, le long de la route Yombi-Mandji, 5 km après Bembodié, savane sur sol latéritique, alt. 110 m, 1° 30,2' S, 10° 30,8' E (fl. Oct.), WAG!.
+Wieringa, van Nek, Hedin & Moussavou 2950, Ngounyé, along the Yombi-Mandji road, 5 km after Bembodié, savanna on lateritic soil, alt. 110 m, 1° 30.2' S, 10° 30.8' E (fl. Oct.), WAG!.
 
 ## Figures
 

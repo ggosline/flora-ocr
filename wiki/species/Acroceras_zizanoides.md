@@ -26,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Approximately 1 m tall in general, erect portion scarcely or not branched. Leaves long-acuminate, 7 to 13 cm long and 8 to 20 mm wide, glabrous or finely pubescent at the base, with 3 to 6 principal nerves on either side of the central one.
 
-Environ 1 m de haut généralement, partie dressée peu ou pas ramifiée. Feuilles longuement acuminées, 7 à 13 cm de long et 8 à 20 mm de large, glabres ou finement pubescentes à la base, avec 3 à 6 nervures principales de part et d'autre de la centrale.
+Panicles erect, up to 25 cm long with 4 to 7 erect branches reaching up to 2/3 of the length of the inflorescence, more or less triquetrous and flattened on the back. Spikelets solitary or in glomerate clusters on these branches, oblong-apiculate, practically glabrous, 4 to 5 mm long, pedicels up to 4–6 mm long. Lower glume constituting 2/3 or 3/4 of the length of the spikelet, upper glume as long as it. Lower flower sterile, somewhat shorter than the upper glume, palea sometimes reduced. Upper flower white, turning brown.
 
-Panicules dressées, jusqu'à 25 cm de long avec à 4 à 7 branches dressées faisant jusqu'aux 2/3 de la longueur de l'inflorescence, plus ou moins triquêtres et aplaties sur le dos. Épillets solitaires ou en glomérules sur ces branches, oblongs-apiculés, pratiquement glabres, longs de 4 à 5 mm, pédicelles jusqu'à 4-6 mm de long. Glume inférieure faisant les 2/3 ou les 3/4 de la longueur de l'épillet, glume supérieure aussi longue que lui. Fleur inférieure neutre, un peu plus courte que la glume supérieure, paléa parfois réduite. Fleur supérieure blanche, passant au brun.
-
-Espèce signalée pratiquement dans toute l'Afrique tropicale.
+Species recorded practically throughout tropical Africa.
 
 ## Specimens examined
 

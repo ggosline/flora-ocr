@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+We refer to this species the two collections described and cited below which agree well, in a few details aside, with West African materials of O. subpunctatus.
 
-Nous rapportons à cette espèce les deux récoltes décrites et citées ci-dessous qui s'accordent bien, à quelques détails près, avec les matériaux ouest africains d'O. subpunctatus.
+Shrub with glabrous branchlets. Stipules long-tapered, 6-13 mm long. Petioles glabrous, 4-6 mm, rather slender. Lamina thin, finely edged, light brown, 7-17 × 3-5.5 cm; base symmetrical, acute; apex acuminate. 7-8 pairs of secondary veins. Venation finely prominent or evident on the upper surface of the dried lamina. Nerve axils pubescent with a few hairs aligned laterally on the midvein.
 
-Arbrisseau à rameaux glabres. Stipules longuement effilées longues de 6-13 mm. Pétioles glabres de 4-6 mm, plutôt grêles. Limbe mince finement rebordé, brun clair, de 7-17 × 3-5,5 cm; base symétrique aiguë, sommet acuminé. 7-8 paires de nervures
+Inflorescences with fewer than 8 flowers. Axes and calyces not exceeding 1 cm. Bracts ciliate, very acute, approximately 3 mm long. Corollas white with tube exceeding 6 cm.
 
-secondaires. Nervation finement saillante ou apparente sur le dessus du limbe à sec. Aisselles nervaires pubescentes avec quelques poils alignés latéralement sur la médiane.
-
-Inflorescences de moins de 8 fleurs. Axes et calices ne dépassant pas 1 cm. Bractées ciliées très aiguës longues d'environ 3 mm. Corolles blanches à tube dépassant 6 cm.
-
-Fruit (d'après Thollon 1272) ellipsoïde à extrémité atténuées, long de 4,2 cm, diamètre 2,1 cm. Péricarpe mince de près de 1 mm à sec, lisse. Graines nombreuses atteignant 8 × 5 × 2 mm.
+Fruit (according to Thollon 1272) ellipsoid with attenuate extremities, 4.2 cm long, diameter 2.1 cm. Pericarp thin, nearly 1 mm when dry, smooth. Seeds numerous, reaching 8 × 5 × 2 mm.
 
 ## Type
 
@@ -35,9 +31,7 @@ Anonyme (supposé W. Brass), s. n. (BM!), Cape Coast, Ghana. Spécimen de réfé
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nous mettons en doute la conspecificité de certains matériaux aux aiselles nervaires glabres cités par Keay. Voir note précédente à O. pallidus.
+We question the conspecificity of certain materials with glabrous nerve axils cited by Keay. See previous note on O. pallidus.
 
 ## Specimens examined
 

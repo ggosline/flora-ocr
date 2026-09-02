@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Diphyllopodium klainei Tiegh., Bull. Mus. Hist. Nat. (Paris) 8 : 376 (juin 1902) & J. Bot. (Morot) 16 : 200 (juin 1902). Petit arbre atteignant 6 m de hauteur, monocaule ; écorce blanchâtre. Stipules caduques, triangulaires, environ 15 mm de longueur. Feuille : pétiole 0–5 mm, trapu ; limbe étroitement spatulé, (30 –) 44–70(–90) × 10–20 cm , ratio (3,0–)3,4–4,7 , cordé à la base, acuminé au sommet, papyracé , à marge distinctement serrulée dans la partie distale, indistinctement dans la partie basale ; nervure principale légèrement proéminente à la face supérieure, fortement proéminente à la face inférieure, nervures latérales en (22–)26 à 34 paires , proéminentes dessus, proéminentes à légèrement proéminentes dessous, formant un angle faible avec la nervure principale, droites, légèrement arquées en haut vers la marge, nervation tertiaire scalariforme, perpendiculaire aux nervures latérales , distincte sur les deux faces . Inflorescence terminale sur un rameau latéral de 3–4 cm (paraît alors être axillaire), simple, dense , l’axe principal 15–20 cm ; pédoncule anguleux à légèrement aplati, portant deux feuilles subopposées et légèrement réduites ou deux bractées feuillées à la base ; écailles gemmaires absentes ; cymules distantes de 2–5 mm, 4- à 10-flores . Fleur : pédicelle 10–15 mm, articulé à 2–3 mm de la base ; sépales ovales, 7–9 × 4–5 mm en fleur, 16–18 × 5–6 mm en fruit, coriaces, rabattus sur les drupéoles ; pétales obovales, 13–15 × 4–5 mm, courtement onguiculés, sommet arrondi ; étamines : anthères 5–6 mm de longueur ; style 5–6 mm. Fruit : réceptacle aplati, 4–5 mm de largeur ; drupéoles 1 ou 2 bien développées par réceptacle, ellipsoïdes, 10–11 × 5–7 mm ; cotylédons incombants, égaux.
+Diphyllopodium klainei Tiegh., Bull. Mus. Hist. Nat. (Paris) 8 : 376 (juin 1902) & J. Bot. (Morot) 16 : 200 (juin 1902). Small tree reaching 6 m in height, monocaulous; bark whitish. Stipules caducous, triangular, approximately 15 mm long. Leaf: petiole 0–5 mm, stout; blade narrowly spatulate, (30–) 44–70(–90) × 10–20 cm, ratio (3.0–)3.4–4.7, cordate at base, acuminate at apex, papyraceous, with margin distinctly serrulate in distal part, indistinctly in basal part; primary vein slightly prominent on upper surface, strongly prominent on lower surface, lateral veins in (22–)26 to 34 pairs, prominent above, prominent to slightly prominent below, forming a weak angle with the primary vein, straight, slightly arched upwards towards the margin, tertiary venation scalariform, perpendicular to the lateral veins, distinct on both surfaces. Inflorescence terminal on a lateral branch 3–4 cm long (then appearing axillary), simple, dense, main axis 15–20 cm; peduncle angular to slightly flattened, bearing two subopposite and slightly reduced leaves or two leafy bracts at the base; gemmate scales absent; cymules distant by 2–5 mm, 4- to 10-flowered. Flower: pedicel 10–15 mm, articulate 2–3 mm from the base; sepals ovate, 7–9 × 4–5 mm in flower, 16–18 × 5–6 mm in fruit, coriaceous, reflexed over the drupels; petals obovate, 13–15 × 4–5 mm, shortly unguiculate, apex rounded; stamens: anthers 5–6 mm long; style 5–6 mm. Fruit: receptacle flattened, 4–5 mm wide; drupels 1 or 2 well developed per receptacle, ellipsoid, 10–11 × 5–7 mm; cotyledons incumbent, equal.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-rare et endémique du nord-ouest du Gabon (Monts de Cristal (Kinguélé) et la région de Mondah)
+rare and endemic to northwestern Gabon (Cristal Mountains (Kinguélé) and the Mondah region)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire sur pentes, sur sol rocheux ou riche en fer ; jusqu’à 80 m d’altitude. Note taxonomique : Cette espèce est proche de C . mannii (Oliv.) Tiegh. qui a son aire de répartition au Nigéria et Cameroun. Elle en diffère par son limbe papyracé et ses inflores cences placées sur des rameaux axillaires courts. b : Bissiengou (2014), Farron (1965, 1968, 1985). ibliographie
+primary forest on slopes, on rocky or iron-rich soil; up to 80 m altitude. Taxonomic note: This species is close to C. mannii (Oliv.) Tiegh. which has its range in Nigeria and Cameroon. It differs from it by its papyraceous blade and its inflorescences placed on short axillary branches. b: Bissiengou (2014), Farron (1965, 1968, 1985). Bibliography
 
 ## Notes
 

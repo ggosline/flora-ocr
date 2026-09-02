@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-NPF 3 (3): 67, fig. 37 (1891); EBJ 14: 330; Pflanzenwelt Ost Afrikas: 192 (1895); SCHELLENBERG, PR 103 (4, 127): 43 (1938); TROUPIN, FCBR 3: 121, fig. 1a (1952); LEMMENS, in BRETELER (éd.), AUWP 89 (6): 231, fig. 110-111 (1989). TYPE: Gabon, Libreville, Sibange Farm, Soyaux 255 (lecto-Z; iso-K, P).
+NPF 3 (3): 67, fig. 37 (1891); EBJ 14: 330; Pflanzenwelt Ost Afrikas: 192 (1895); SCHELLENBERG, PR 103 (4, 127): 43 (1938); TROUPIN, FCBR 3: 121, fig. 1a (1952); LEMMENS, in BRETELER (ed.), AUWP 89 (6): 231, fig. 110-111 (1989). TYPE: Gabon, Libreville, Sibange Farm, Soyaux 255 (lecto-Z; iso-K, P).
 
 - C. laurentii DE WILD., Ann. Mus. Congo, sér. Bot., 5 (3): 96, fig. 19 (1909). TYPE: Zaïre, Eala, Laurent 1639 (lecto-BR).
 
-Liane ou arbuste lianescent. Rameaux jeunes et âgés cylindriques, avec une dense pubescence brune(-jaunâtre) au début, puis ± glabres-cents.
+Liane or sarmentose shrub. Young and mature branches cylindrical, with dense brown(-yellowish) pubescence at first, then ± glabrescent.
 
-Feuilles 12-21-juguées ; pétiole long de 0,5-3 cm, rachis de 11-22 cm, avec pubescence brun-jaunâtre, souvent avec des poils longs et nombreux à la base du pétiole. Folioles fortement papyracées, les latérales opposées ou non, (étroitement) oblongues, 0,5-3,5 × 0,5-1 cm, à base cordée et égale ou inégale, la foliole terminale étroitement (ob)ovée ou étroitement elliptique, 2-3 × 0,7-1 cm, subcordée ou arrondie à la base ; toutes les folioles sont obtuses ou arrondies, dessus muni de poils épars dispersés au hasard, dessous avec poils dressés denses ; nervure médiane imprimée dessus, proéminente dessous, pubescente sur les deux faces ; nervures latérales 5-7 paires ; nervures III indistinctes ; pétioules longs de 0-0,5 mm, pubescents.
+Leaves 12-21-jugate; petiole 0.5-3 cm long, rachis 11-22 cm, with brown-yellowish pubescence, often with long and numerous hairs at the base of the petiole. Leaflets strongly chartaceous, the lateral ones opposite or not, (narrowly) oblong, 0.5-3.5 × 0.5-1 cm, with cordate and equal or unequal base, the terminal leaflet narrowly (ob)ovate or narrowly elliptic, 2-3 × 0.7-1 cm, subcordate or rounded at the base; all leaflets obtuse or rounded, upper surface with sparse scattered hairs, lower surface with dense erect hairs; midvein impressed above, prominent below, pubescent on both faces; lateral nerves 5-7 pairs; tertiary nerves indistinct; petiolules 0-0.5 mm long, pubescent.
 
-Inflorescences : fascicules, 2-15-flores sur des renflements noueux à l'aisselle de feuilles sur des rameaux jeunes et âgés. Bractées subulées, longues de 1-1,5 mm, partiellement connées sur ces renflements. Pédi-celles non articulés (2-3-7 mm, pubescence dense.
+Inflorescences: fascicles, 2-15-flowered on knobbly thickenings at the leaf axils on young and mature branches. Bracts subulate, 1-1.5 mm long, partially connate on these thickenings. Pedicels not articulate, 2-3-7 mm, dense pubescence.
 
-Fleurs hétérodistylées. Sépales réfléchis, en préfloraison valvaire ou étroitement imbriquée, étroitement ovés ou étroitement oblongs, 3-4,5(-5) × 0,7-1 mm, aigus, pubescents, rarement avec des poils glan-
+Flowers heterostylous. Sepals reflexed, valvate or narrowly imbricate in bud, narrowly ovate or narrowly oblong, 3-4.5(-5) × 0.7-1 mm, acute, pubescent, rarely with glandular hairs on the external side, glabrous inside, distinctly 5-nerved or less. Petals valvate to narrowly imbricate in bud, narrowly elliptic or oblong to almost linear, (4)-5-6.5 × 0.8-1.2 mm, base rounded to cuneate, apex obtuse or rounded, rarely somewhat retuse and generally inflexed, glabrous, generally distinctly or indistinctly 5-nerved. Stamens free, of distinctly different lengths in the two cycles, 0.5-1 or 2.5-5.2 mm long, anthers ca. 0.2 × 0.2 mm. Pistil: carpels 1-1.1 or 2.3-3.2 mm long; ovaries ≤ 0.5 mm long, brown-yellowish pubescence; styles ± straight or curved, brown-yellowish pubescence; stigmas oblique, vaguely 2-lobed.
 
-dulaires du côté externe, glabres à l'intérieur, nettement ≤ 5-nervés. Pétales en préfloraison valvaire à étroitement imbriquée, étroitement elliptiques ou oblongs à presque linéaires, (4)-5-6,5 × 0,8-1,2 mm, base arrondie à cunée, sommet obtus ou arrondi, rarement un peu rétusé et en général infléchi, glabres, en général nettement ou indistinctement 5-nervés. Étamines libres, de longueur nettement différente dans les deux cycles, longues de 0,5-1 ou de 2,5-5,2 mm, anthères ca. 0,2 × 0,2 mm. Pistil : carpelles longs de 1-1,1 ou de 2,3-3,2 mm ; ovaires longs de ≤ 0,5 mm, pubescence brun-jaunâtre ; styles ± droits ou courbés, pubescence brun-jaunâtre ; stigmates obliques, vaguement 2-lobés.
+Fruits: follicles 1 (-3) per flower, ellipsoid, oblique, 2.5-4 (-5) × 0.6-1.5 cm, ± cuneate, with a broad basal stipe that is not very prominent, 7-15 mm long; beak thin, curved or involute at the apex, (8)-12-30 mm long; pericarp with very short spiniform hairs, red and many other long, urticating and easily caducous hairs on the external face, while the internal face bears long slender brown-yellowish hairs.
 
-Fruits : follicules 1 (-3) par fleur, ellipsoïdaux, obliques, 2,5-4 (-5) × 0,6-1,5 cm, ± cunés, avec un stipe basal large et peu marqué, long de 7-15 mm ; bec mince, courbé ou involuté au sommet, long de (8)-12-30 mm ; péricarpe avec de très courts poils spiniformes, rouges et de nombreux autres poils longs, urticants et facilement caducs sur la face externe, alors que la face interne porte de longs poils grêles brun-jaunâtres.
-
-Graines ovoides, 10-15 × 5-10 mm, sarcotesta long de 3-6 mm. - Pl. 19, p. 65.
+Seeds ovoid, 10-15 × 5-10 mm, sarcotesta 3-6 mm long. - Pl. 19, p. 65.
 
 ## Type
 
@@ -43,27 +39,19 @@ Soyaux 255, Sibange Farm, env. de Libreville, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud de la République Centrafricaine, Sud-Ouest du Soudan, Gabon, Congo, Nord et centre du Zaïre
+Southern Central African Republic, Southwestern Sudan, Gabon, Congo, Northern and central Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, forêts semidécidues et recrus
+Tropical rainforests, semi-deciduous forests and secondary growth
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les fleurs, les fruits et dans une moindre mesure les feuilles de C. urens ressemblent à certaines formes de C. corniculata. Mais les deux espèces différent par leurs inflorescences : celles de C. urens sont fasciculées, tandis que celle de C. corniculata sont en racèmes ou en panicules (cf. sous C. uncata les différences avec cette espèce)
+The flowers, fruits and to a lesser extent the leaves of C. urens resemble certain forms of C. corniculata. But the two species differ in their inflorescences: those of C. urens are fasciculate, while those of C. corniculata are in racemes or panicles (see under C. uncata for the differences with this species)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Zaïre, les graines bouillies doucement avec du sucre de canne sert de médicament pour l'estomac (TROUPIN, 1952). Les cendres du fruit sont utilisées contre les maux de dents
+In Zaïre, the seeds gently boiled with cane sugar serve as a remedy for the stomach (TROUPIN, 1952). The ashes of the fruit are used against toothaches
 
 ## Specimens examined
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Leucorraphis lamium Nees, in DC. Prodr. II : 97 (1847).
 
-Plante vivace, jusqu'à 1,50 m de hauteur, quelquefois un peu rampante, poilue; tige obtusément quadrangulaires. Pétiole de 1-5 cm un peu ailé vers la base du limbe. Feuilles cordées ou arrondies à la base, ovales, d'environ 15 × 5 cm, acuminées, entières ou subentières sur les bords; feuilles supérieures souvent sessiles.
+Perennial plant, up to 1.50 m tall, sometimes somewhat trailing, hairy; stem obtusely quadrangular. Petiole 1–5 cm, somewhat winged towards the base of the blade. Leaves cordate or rounded at the base, ovate, approximately 15 × 5 cm, acuminate, entire or subentire at the margins; upper leaves often sessile.
 
-Inflorescence lâche, très semblable à celle de l'espèce précédente.
+Inflorescence lax, very similar to that of the preceding species.
 
 ## Type
 
@@ -31,13 +29,11 @@ Ansell s. n., Cap Palmas, Ghana (K, syntype); Vogel 17, Nun River, Nigeria (K, s
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species has not yet been collected in Gabon, but it very probably exists there. It is distributed in Guinea, Sierra Leone, Liberia, Côte-d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Congo, Angola, and East Africa.
 
-Cette espèce n'a pas encore été récoltée au Gabon, mais elle y existe fort probablement. Elle est répandue en Guinée, Sierra-Leone, Liberia, Côte-d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Congo, Angola, et Afrique orientale.
+EXPLANATION OF PLATE XVII, fig. 4–8:
 
-EXPLICATION DE LA PLANCHE XVII, fig. 4-8:
-
-4, sommité florifère; 5, détails de la corolle : en haut lèvre supérieure de 16,5 mm de long, et androcée, en bas lèvre antérieure; 6, pistil (ovaire de 5 mm de haut, style de 2 cm de long); 7, fruit de 22 mm de long; 8, graine humectée de 1,8 mm de diamètre sans les poils hérissés. — 4, 6-8, Letouzy 5666, Cameroun; 5, Rose, 383 Cameroun.
+4, flowering apex; 5, details of the corolla: upper lip 16.5 mm long and androecium above, lower lip below; 6, pistil (ovary 5 mm tall, style 2 cm long); 7, fruit 22 mm long; 8, wetted seed 1.8 mm in diameter without the bristly hairs. — 4, 6–8, Letouzy 5666, Cameroon; 5, Rose, 383 Cameroon.
 
 ## Figures
 

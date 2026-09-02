@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 23
 
-Planche 23
-
-Herbe grimpante, dioïque. Vrilles simples, grêles, glabres. Feuille : pétiole 7–20 mm, glabre à légèrement pubescent, sommet avec 2 glandes coniques ; limbe ovale-oblong à largement ovale, parfois 3- ou 5-lobé, de 5–11 × 4–7 cm, tronqué à très légèrement émarginé à la base, glabre, à lobes (si présents) triangulaires, aigus ou apiculés au sommet. Inflorescence : la mâle en racème de 6 à 10 fleurs, à axe de 8–12 cm, glabre. Fleur mâle : pédicelle 0,5–2 cm ; réceptacle très allongé, globuleux à la base, puis rétréci et enfin cylindrique, long de 4–5 cm, large de 10 mm à la gorge, glabre à l'extérieur, villeux à l'intérieur ; sépales linéaires, longs de 4–5 mm, aigus au sommet, portant quelques glandes sur leurs bords ; pétales obovales à ovales-oblongs, longs de 2–3 cm, arrondis à subaigus au sommet, à bords ±enroulés ; étamines à filets très courts, anthères cohérentes, longues de 1,5–2 cm, à loges condupliquées. Fleur femelle : ovaire ovoïde. Fruit subsphérique, de ±5,5 × 6 cm, lisse, vert marbré de jaune en taches allongées, à nombreuses graines. Graine de 10 × 5 × 2 mm, blanche, finement marginée sur les bords.
+Climbing herb, dioecious. Tendrils simple, slender, glabrous. Leaf: petiole 7–20 mm, glabrous to slightly pubescent, apex with 2 conical glands; lamina ovate-oblong to broadly ovate, sometimes 3- or 5-lobed, 5–11 × 4–7 cm, truncate to very slightly emarginate at base, glabrous, with lobes (if present) triangular, acute or apiculate at apex. Inflorescence: male in a raceme of 6 to 10 flowers, axis 8–12 cm, glabrous. Male flower: pedicel 0.5–2 cm; receptacle very elongate, globose at base, then narrowed and finally cylindric, 4–5 cm long, 10 mm wide at throat, glabrous outside, villous inside; sepals linear, 4–5 mm long, acute at apex, bearing a few glands on their margins; petals obovate to ovate-oblong, 2–3 cm long, rounded to subacute at apex, margins ± enrolled; stamens with very short filaments, anthers coherent, 1.5–2 cm long, with conduplicate locules. Female flower: ovary ovoid. Fruit subspherical, ± 5.5 × 6 cm, smooth, green marbled with yellow in elongate patches, with numerous seeds. Seed 10 × 5 × 2 mm, white, finely margined at edges.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale de l'Ouest, en Sierra Leone, au Libéria, en Côte d'Ivoire, au Ghana, au Cameroun, au Gabon et en République démocratique du Congo ; au Gabon : Woleu-Ntem
+Tropical West Africa, in Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Cameroon, Gabon and Democratic Republic of the Congo; in Gabon: Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, forêts secondaires, recrês forestiers; au Gabon à ±500 m d'altitude, ailleurs jusqu'à 1200 m
+ombrophilous forests, secondary forests, forest regrowth; in Gabon at ± 500 m altitude, elsewhere up to 1200 m
 
 ## Bibliography
 

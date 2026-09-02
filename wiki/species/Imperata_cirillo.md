@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 30.1 Imperata cylindrica (L.) Raeusch. – Pl. 7, 1-3, p. 00 Fl. Gab.: 139; FACB 1: 80, Pl. 6; FWTA: 464, fig. 448; FTEA: 700, fig. 159; Gram. Cam.: 389, Pl. 86; Poac. CI.: 472, 473; Gram. CB.: 265, fig. 31.
 
 ## Specimens examined

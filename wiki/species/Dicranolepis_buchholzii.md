@@ -28,33 +28,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Pearson, F.T.A. 6 (1) : 241 (1909). — Keay, F.W.T.A. 2nd ed., 1 (1) : 173 (1954).
 
-— Pearson, F.T.A. 6 (1) : 241 (1909). — Keay, F.W.T.A. 2e ed., 1 (1) : 173 (1954).
+Subshrub or small shrub 50 cm to 2 m tall, with lateral branches horizontal or somewhat erect, with rather dark bark, reddish-brown, slightly pubescent then glabrous.
 
-Sous-arbuste ou sous-arbrisseau de 50 cm à 2 m, à branches latérales horizontales ou un peu dressées, à écorce assez foncée, brun rougeâtre, un peu pubescente puis glabre.
+Leaves with petiole 1–4 mm, reddish or dark brown, almost glabrous or with a few scattered and appressed hairs (on adult branches); blade quite variable in shape and size, 4.5 by 2 to 10–12 by 4 cm (these measurements taken on flowering or fruiting branches), oval-oblong or distinctly oblong, slightly or strongly asymmetric and oblique (even on a single plant), with acumen always very well marked, straight or slightly curved, 10 to 20 mm long by 2–3 mm wide, often narrow and acute at the apex. Upper and lower surfaces almost entirely glabrous on adult specimens, or bearing rigid, fine, appressed, scattered hairs, very ciliate on the margins (with rigid silvery hairs) and slightly discolorous when young, becoming reddish-brown beneath and very dark green on the upper face. Veins fairly clearly visible, the lateral ones 12–15 on each side, anastomosing in a marginal nerve; tertiary network formed by fine parallel nervules.
 
-Feuilles à pétiole de 1-4 mm, rougeâtre ou brun-noir, presque glabre ou à quelques poils épars et apprimés (sur les rameaux adultes); limbe assez variable en forme et en dimensions, de 4,5 sur 2 à 10-12 sur 4 cm (ces dimensions étant prises sur des rameaux fleuris ou fructifiés), ovale-oblong ou nettement oblong, peu ou fortement asymétrique et oblique (même sur un seul pied), à acumen toujours très bien individualisé, droit ou peu courbé, de 10 à 20 mm de long sur 2-3 de large, souvent étroit et aigu au sommet. Face supérieure et inférieure à peu près totalement
+Flowers small, reaching one-third or one-quarter the length of the leaves, solitary or grouped in glomerules of 2 to 5 (and sometimes 8–10) flowers, subsessile or borne on a sort of pubescent-greyish ridge, furnished with small scales (bracts) and corresponding to the base of an inflorescence complex. Perianth tube 8–10 (sometimes up to 15) mm long at anthesis, glabrous in general, or bearing rigid, scattered, appressed hairs, never silky-hairy, narrow (less than 1 mm in diameter). Calyx lobes 3–5 mm long by less than 1 mm wide, spreading at anthesis glabrous or greyish-hairy on the outer surface, glabrous and clearly veined inside or with a fine velvety tomentum. Petals highly variable, deeply bifid, and constituting either 10 filiform lobes or 10 squamiform lobules, equalling the calyx lobes or often much shorter, and sometimes scarcely exsert from the tube, glabrous, white or cream-coloured. Stamens with anthers alone unequally exsert. Ovary fairly clearly stipitate, oblong; style filiform; stigma globose-spheric or clavate, often distinctly exsert above the stamens; hypogynous disc cupuliform, small (1 mm), more or less incised or obliquely truncate.
 
-glabres sur les exemplaires adultes, ou bien munies de poils raides, fins, apprimés, dispersés, très ciliées sur les marges (poils argentés raides) et peu discolores à l'état jeune, devenant roussâtres dessous et vert très foncé à la face supérieure. Nervures assez nettement visibles, les latérales 12-15 de chaque côté, anastomosées en nerve marginale; réseau tertiaire formé de fines nervilles parallèles.
+Fruit red, 7–12 mm long, by 5–10 mm in diameter, slightly pubescent or glabrous, clearly marked by longitudinal striations, and bearing the remains of the perianth at its apex for quite a long time.
 
-Fleurs petites, atteignant le tiers ou le quart de la longueur des feuilles, solitaires ou groupées en glomérules de 2 à 5 (et parfois 8-10) fleurs, subsessiles ou portées par une sorte de bourrelet pubescent-grisâtre, muni de petites écailles (bractées) et correspondant à la base d'un complexe inflorescentiel. Tube du périgone de 8-10 (parfois jusqu'à 15) mm de long au moment de l'épanouissement, glabre en général, ou muni de poils raides, épars, apprimés, jamais velu-soyeux, étroit (moins de 1 mm de diamètre). Lobes du calice de 3-5 mm de long sur moins de 1 mm de large, étalés à l'anthèse glabres ou velus-grisâtres sur la face externe, glabres et nettement veinés à l'intérieur ou avec un fin tomentum velouté. Pétales très variables, profondément bifides, et constituant soit 10 lobes filiformes, soit 10 lobules squamiformes, égalant les lobes du calice ou souvent beaucoup plus courts, et parfois à peine saillants hors du tube, glabres, blancs ou crêmes. Étamines à anthères seules inégalement exsertes. Ovaire assez nettement stipité, oblong; style filiforme; stimate globuleux-sphérique ou en massue, souvent nettement exsert au-dessus des étamines; disque hypogyne cupuliforme, petit (1 mm), plus ou moins découpé ou tronqué obliquement.
+Type described from Cameroon (Buchholz without number, 1874).
 
-Fruit rouge, de 7-12 mm de long, sur 5-10 de diamètre, un peu pubescent ou glabre, nettement marqué de stries longitudinales, et portant assez longtemps les reste du périgone à son sommet.
-
-Type décrit du Cameroun (Buchholz sans n°, 1874).
-
-Il ne nous semble pas que l'on puisse considérer ce taxon comme spécifiquement distinct du D. oligantha Gilg. Comme ce dernier, le D. Buchholzii présente des formes multiflores (Bates 1703) et des fleurs où la longueur des pétales varie de 1/5 à 1/1 de la longueur des sépales. dans l'un et l'autre cas il semble qu'il s'agisse d'arbustes de faibles dimensions. Enfin, l'ensemble
-
-des spécimens examinés montre des limites de variations très sembables quant à la morphologie foliaire, spécialement de l'acumen. Le nom de D. Buchholzii a été adopté de préférence à D. oligantha tout d'abord parce qu'il figure dans la F.W.T.A., ensuite parce que sa description a précédé celle de ce dernier. La synonymie qui précède peut alors être complétée comme suit :
+It does not seem to us that this taxon can be considered as specifically distinct from D. oligantha Gilg. Like the latter, D. Buchholzii presents multiflorous forms (Bates 1703) and flowers in which the length of the petals varies from 1/5 to 1/1 of the length of the sepals. In both cases it seems that these are shrubs of small dimensions. Finally, the whole of the specimens examined shows very similar limits of variation as regards leaf morphology, especially of the acumen. The name D. Buchholzii was adopted in preference to D. oligantha first because it appears in the F.W.T.A., and secondly because its description preceded that of the latter. The synonymy preceding this can thus be completed as follows:
 
 D. Buchholzii Engl. et Gilg.
 
-Nous avons rapporté à cette espèce le matériel cité par Staner sous le nom de D. oligantha; en général, les caractères sont moins nets qu'en ce qui concerne les échantillons de régions plus nordiques; la distinction avec les formes de Diceranolepis disticha Planch. (y compris D. Mannii Baill. et D. stenosiphon Gilg ex Pears.) est presque toujours très malaisée, les feuilles de ces différents taxons ayant des amplitudes de variations à peu près identiques et les dimensions relatives des lobes du calice et de la corolle n'étant pas constantes.
+We have referred to this species the material cited by Staner under the name of D. oligantha; in general, the characters are less clear than with regard to specimens from more northern regions; the distinction from the forms of Diceranolepis disticha Planch. (including D. Mannii Baill. and D. stenosiphon Gilg ex Pears.) is almost always very difficult, the leaves of these different taxa having amplitudes of variation approximately identical and the relative dimensions of the calyx lobes and corolla not being constant.
 
-D. Buchholzii (y compris D. oligantha) a une large répartition, depuis le Cameroun occidental jusqu'au pied des montagnes d'Afrique centrale, avec une plus grande abondance en Afrique équatoriale occidentale.
+D. Buchholzii (including D. oligantha) has a wide distribution, from western Cameroon to the foot of the mountains of central Africa, with greater abundance in western equatorial Africa.
 
-Plante des sous-bois ombragés, un peu humides, primaires ou secondaires.
+Plant of shaded, slightly humid understory, primary or secondary.
 
 ## Vernacular names
 

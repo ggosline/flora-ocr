@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ptychomeria squamata (C.H.Wright) Schltr., Repert. Spec. Nov. Regni Veg. 17 : 258 (1921). Herbe de 5–25 cm de hauteur ; tige simple ou ramifiée, blanche à pourpre ou rouge. Feuilles étroitement triangulaires à linéaires, 1–1,5 mm de longueur. Inflorescence pau ciflore à multiflore, souvent distinctement bifurquée ; bractées 1–1,5 mm de longueur. Fleur 3–10 mm de longueur (ovaire inclus), blanchâtre ; pédicelle 1–4 mm de lon -
-
-A. Devillers (2–7) ©, reproduit avec permission à partir de Geerinck (1970) et Mangenot (1965) l.c.
-
-gueur ; tube du périgone 2–5 mm de longueur, sans constriction apicale , lobes ex ternes largement obovales, 3–4 × 4 mm, les internes linéaires, obtuses, environ 0,2 mm de longueur ; anthères environ 1 × 1 mm ; ovaire largement ellipsoïde, 1–2 mm de longueur ; style 2–4 mm de longueur, stigmates en forme de fer à cheval, chacun munis de 2 appendices filiformes de 2–4 mm de longueur . Fruit globuleux, 1,5–3 mm de diamètre. Graines ellipsoïdales, 0,3–0,5 × 0,1–0,3 mm .
+Ptychomeria squamata (C.H.Wright) Schltr., Repert. Spec. Nov. Regni Veg. 17 : 258 (1921). Herb 5–25 cm tall; stem simple or branched, white to purple or red. Leaves narrowly triangular to linear, 1–1.5 mm long. Inflorescence pauciflorous to multiflorous, often distinctly bifurcate; bracts 1–1.5 mm long. Flower 3–10 mm long (ovary included), whitish; pedicel 1–4 mm long; perianth tube 2–5 mm long, without apical constriction, outer lobes broadly obovate, 3–4 × 4 mm, inner ones linear, obtuse, approximately 0.2 mm long; anthers approximately 1 × 1 mm; ovary broadly ellipsoid, 1–2 mm long; style 2–4 mm long, stigmas horseshoe-shaped, each furnished with 2 filiform appendages 2–4 mm long. Fruit globose, 1.5–3 mm in diameter. Seeds ellipsoidal, 0.3–0.5 × 0.1–0.3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale de l’Ouest et Centrale, en Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Gabon et République Démocratique du Congo ; au Gabon, présente dans toutes les provinces
+West and Central tropical Africa, in Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, present in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires ; au Gabon entre 0 et 900 m d’altitude. Note taxonomique : Dans deux espèces africaines de Gymnosiphon , les stigmates sont munis d’appendices filiformes, à savoir G. longistylus et G. constrictus . Les quatre autres, G. afro-orientalis , G. bekensis , G. samoritouranus et G. usambaricus (voir Cheek & van der Burgt, sous presse) n’ont pas ces appendices. B : Cheek & van der Burgt (sous presse), Geerinck (1970), Hepper (1968), ibliographie Jonker (1938). 3
+primary forests; in Gabon between 0 and 900 m altitude. Taxonomic note: In two African species of Gymnosiphon, the stigmas are furnished with filiform appendages, namely G. longistylus and G. constrictus. The four others, G. afro-orientalis, G. bekensis, G. samoritouranus and G. usambaricus (see Cheek & van der Burgt, in press) do not have these appendages. B: Cheek & van der Burgt (in press), Geerinck (1970), Hepper (1968), bibliography Jonker (1938). 3
 
 -7+ 08 1 414 3
 
-APPENDICE Une nouveauté nomenclaturale et une nouvelle espèce de
+APPENDIX A nomenclatural novelty and a new species of
 
 ## Notes
 

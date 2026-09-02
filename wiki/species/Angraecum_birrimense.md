@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige <100 cm. Feuilles 7,5-14 x 2-3,5 cm, tordues à la base pour se situer dans un même plan, étroitement ligulées. Inflorescence 2-7,5 cm, 1-2-flore, pendante. Fleurs assez grandes, résupinées, blanc jaunâtre à éperon vert, parfumée. Sépale dorsal linéaire-lancéolé, acuminé. Pétales étroitement lancéolés, falciformes, acuminés. Sépales latéraux linéaires ou étroitement lancéolés, acuminés, falciformes. Labelle entier, 40 x 35 mm, orbiculaire à largement obové, apiculé, concave, avec une petite carène élevée dans la moitié basale. Éperon 35-45 mm, la moitié basale étroitement conique, comprimé vers le milieu, la moitié apicale très étroitement cylindrique, aigu. – Pl. 224, p. 469.
+Stem <100 cm. Leaves 7.5-14 × 2-3.5 cm, twisted at the base to lie in one plane, narrowly ligulate. Inflorescence 2-7.5 cm, 1-2-flowered, pendulous. Flowers rather large, resupinate, yellowish-white with green spur, fragrant. Dorsal sepal linear-lanceolate, acuminate. Petals narrowly lanceolate, falcate, acuminate. Lateral sepals linear or narrowly lanceolate, acuminate, falcate. Labellum entire, 40 × 35 mm, orbicular to broadly obovate, apiculate, concave, with a small raised keel in the basal half. Spur 35-45 mm, basal half narrowly conical, compressed towards the middle, apical half very narrowly cylindrical, acute. – Pl. 224, p. 469.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 650-950 m. Epiphytic in gallery forest, swamp, or terrestrial and creeping on mossy rock
 
-alt. 650-950 m. Épiphyte en forêt galerie, marécage, ou terrestre et rampant sur rocher moussu
+MATERIAL STUDIED (Map 101):
 
-MATÉRIEL ÉTUDIÉ (Carte 101) :
-
-Hallé 1345, Mboundou, 37 km SE de Makokou (fl. Févr.), P!.
+Hallé 1345, Mboundou, 37 km SE of Makokou (fl. Feb.), P!.
 
 ## Figures
 

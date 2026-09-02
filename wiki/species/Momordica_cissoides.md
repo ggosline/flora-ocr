@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Niger Fl.: 370 (1849).
 
-Planche 27(8-12); Figure 5(A, B)
+Plate 27(8-12); Figure 5(A, B)
 
 M. gracilis Cogn., Ann. Mus. Congo, Bot., sér. II. 1(1): 25 (1899).
 
-Herbe vivace, dioïque, grimpante et pouvant atteindre plusieurs mètres de hauteur, ou rampante et formant des tapis sur le sol; tige grêle, glabrescente ou glabre, finement côtelée. Vrilles simples ou bifides, grêles, glabres distalement, pubescentes basalement. Feuille 3- à 5-foliolée: pétiole 2–3 cm; pétioules 0,5–1,5 cm, portant quelques poils souples, blanchâtres; folioles ovales-elliptiques, de 6–12 × 3–5 cm, cunées et parfois asymétriques à la base, aiguës et finement mucronulées au sommet, membraneuses, à bord denté, face supérieure glabre, vert vif, face inférieure glabre sauf les nervures et les bords, vert plus clair, folioles latérales plus petites et parfois 2-foliolées. Inflorescence incluse dans une grande bractée foliacée, la mâle en pseudo-ombelle de 4 à 10 fleurs; pédoncule grêle, 3,5–7 cm; bractée suborbiculaire-réniforme, longue et large de 25–40 mm, cordiforme à la base, glanduleuse et crénelée-denticulée sur les bords, finement pubescente à la face supérieure. Fleur mâle : pédicelle grêle, 3–5 mm, portant quelques poils épars ; réceptacle largement campanulé, profond de 1,5 mm, large de 2,5 mm; sépales étroitement elliptiques-ovales, de 7–8 × 1,5–2 mm, longuement acuminés au sommet; pétales largement obovales, de 10–15 × 7–12 mm, obtus au sommet, blancs, dont 3 tachetés de pourpre-noir à la base et sans écaille, et 2 munis d'une écaille à la base; étamines à filet de 3 mm, glabre, anthère à loges tripiquées; pistillode glanduleux. Fleur femelle : pédicelle 5–7 cm; ovaire ovoïde, couvert de gros poils souples; style droit, 3 mm, à stigmates recourbés. Fruit largement ovoïde à ellipsoïdal, de 3–4 × 2–3 cm, arrondi à la base, densément couvert de poils ressemblant à des épines souples, à assez nombreuses graines. Graine turgide, de 12 × 6 × 5 mm, à testa noir, crustacé.
+Perennial herb, dioecious, climbing and capable of reaching several meters in height, or creeping and forming mats on the ground; stem slender, glabrescent or glabrous, finely ridged. Tendrils simple or bifid, slender, glabrous distally, pubescent basally. Leaf 3- to 5-foliolate: petiole 2–3 cm; petiolules 0.5–1.5 cm, bearing a few soft, whitish hairs; leaflets ovate-elliptic, 6–12 × 3–5 cm, cuneate and sometimes asymmetric at the base, acute and finely mucronate at the apex, membranaceous, with dentate margin, upper surface glabrous, bright green, lower surface glabrous except for the nerves and margins, paler green, lateral leaflets smaller and sometimes 2-foliolate. Inflorescence enclosed within a large foliaceous bract, the male one in a pseudo-umbel of 4 to 10 flowers; peduncle slender, 3.5–7 cm; bract suborbicular-reniform, 25–40 mm long and wide, cordate at the base, glandular and crenate-denticulate on the margins, finely pubescent on the upper surface. Male flower: pedicel slender, 3–5 mm, bearing a few scattered hairs; receptacle broadly campanulate, 1.5 mm deep, 2.5 mm wide; sepals narrowly elliptic-ovate, 7–8 × 1.5–2 mm, long-acuminate at the apex; petals broadly obovate, 10–15 × 7–12 mm, obtuse at the apex, white, of which 3 spotted with dark purple at the base and without a scale, and 2 furnished with a scale at the base; stamens with filament 3 mm, glabrous, anther with trilobed locules; pistillode glandular. Female flower: pedicel 5–7 cm; ovary ovoid, covered with coarse soft hairs; style straight, 3 mm, with recurved stigmas. Fruit broadly ovoid to ellipsoidal, 3–4 × 2–3 cm, rounded at the base, densely covered with hairs resembling soft spines, with fairly numerous seeds. Seed turgid, 12 × 6 × 5 mm, with black, crustaceous testa.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, de la Guinée jusqu'au Soudan, au Kenya, à la Tanzanie et en Angola ; au Gabon : Estuaire, Ngounié, Nyanga, Ogooué-Lolo et Woleu-Ntem
+Tropical Africa, from Guinea to Sudan, Kenya, Tanzania and Angola; in Gabon: Estuaire, Ngounié, Nyanga, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Secondary rainforest of lowlands, forest roadsides; in Gabon at 30–400 m elevation, elsewhere up to 1500 m. The flowers are pollinated by bees of the species Ctenoplectra bequaertii. Flowers and fruits are present throughout the year
 
-forêt pluviale secondaire des basses terres, bords de route en forêt; au Gabon à 30–400 m d'altitude, ailleurs jusqu'à 1500 m. Les fleurs sont pollinisées par des abeilles de l'espèce Ctenoplectra bequaertii. Fleurs et fruits sont présents durant toute l'année
-
-Usage : La plante est utilisée dans le traitement de la fièvre et elle est un ingrédient d'un traitement contre le paludisme. Une préparation de la plante est mise sur la tête des enfants souffrant de fièvre. Les feuilles sont pressées dans du gin et un peu de craie est ensuite donnée aux femmes enceintes afin de favoriser la croissance du fœtus. Un filtrat des feuilles est utilisé comme collyre pour traiter les douleurs oculaires.
+Uses: The plant is used in the treatment of fever and it is an ingredient in a treatment against malaria. A preparation of the plant is applied to the head of children suffering from fever. The leaves are pressed in gin and a little chalk is then given to pregnant women in order to promote fetal growth. A filtrate of the leaves is used as an eye lotion to treat eye pain.
 
 ## Bibliography
 

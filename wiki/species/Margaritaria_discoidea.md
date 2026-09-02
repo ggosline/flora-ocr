@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Phyllanthus discoideus (Baill.) Müll.Arg., Linnaea 32 : 51 (1863). Cicca discoidea Baill., Adansonia 1 : 85 (1860). Arbre jusqu’à 35 m de hauteur et 60 cm de diamètre ; rameaux le plus souvent lenticellés , glabres. Stipules tôt caduques, étroitement triangulaires, (2–)5–13 × (1–)2–3 mm, glabres, cicatrices distinctes . Feuille : pétiole canaliculé dessus, (4–)5–8(–10) mm, glabre ; limbe elliptique ou parfois oblong à obovale, (4–)7–10(–16) × (2–)3–4(–5,5) cm, cunéé à arrondi ou parfois obtus à la base, aigu à brièvement acuminé et parfois mucroné au sommet, glabre ; nervures latérales (9–)10–14 paires, assez fines. Fleur mâle : pédi celle 3–4 mm, glabre ; sépales ± elliptiques, 1–1,5 mm de longueur, glabres ; étamines libres, ± 1,5 mm de longueur ; disque ± plat, ± lobulé. Fleur femelle : pédicelle 1–1,5 mm ; pistil 1–1,5 mm de longueur ; styles ± 1 mm. Fruit (2–)3–4-lobé , 7–10 mm de dia mètre, glabre . Graines ± 2 par loge, serrées , (2,5–)4–5 × (2–)3–4 mm, lisses, bleuâtres .
+Phyllanthus discoideus (Baill.) Müll.Arg., Linnaea 32 : 51 (1863). Cicca discoidea Baill., Adansonia 1 : 85 (1860). Tree up to 35 m tall and 60 cm in diameter; branches mostly lenticellate, glabrous. Stipules early caducous, narrowly triangular, (2–)5–13 × (1–)2–3 mm, glabrous, scars distinct. Leaf: petiole canaliculate above, (4–)5–8(–10) mm, glabrous; blade elliptic or sometimes oblong to obovate, (4–)7–10(–16) × (2–)3–4(–5.5) cm, cuneate to rounded or sometimes obtuse at base, acute to briefly acuminate and sometimes mucronate at apex, glabrous; lateral veins (9–)10–14 pairs, fairly fine. Male flower: pedicel 3–4 mm, glabrous; sepals ± elliptic, 1–1.5 mm long, glabrous; stamens free, ± 1.5 mm long; disk ± flat, ± lobulate. Female flower: pedicel 1–1.5 mm; pistil 1–1.5 mm long; styles ± 1 mm. Fruit (2–)3–4-lobed, 7–10 mm in diameter, glabrous. Seeds ± 2 per locule, crowded, (2.5–)4–5 × (2–)3–4 mm, smooth, bluish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce commune et bien répartie en Afrique tropicale comme au Gabon
+Common species and well distributed in tropical Africa as in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Secondary forest, forest regrowth, fallow; in Gabon, up to 560 m altitude
 
-forêt secondaire, recru forestier, jachère ; au Gabon, jusqu’à 560 m d’altitude
+D. Female flower. ‒ E. Infructescence. ‒ F. Fruit. ‒ G. Fruit showing persistent calyx. ‒ H. Fruit showing the styles. (A, B, D: Breteler 6843; C: Louis 211; E ‒ H: Bissiengou et al. 480). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
-D. Fleur femelle. ‒ E. Infrutescence. ‒ F. Fruit. ‒ G. Fruit montrant le calice persistant. ‒ H. Fruit montrant les styles. (A, B, D : Breteler 6843 ; C : Louis 211 ; E ‒ H : Bissiengou et al . 480 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
-
-Usage : Le bois est employé comme bois d’œuvre pour la construction des cases et des bateaux, mais aussi utilisé comme bois de feu et la production de charbon. L’usage mé dicinal est limité. La décoction d’écorce amènerait un arrêt plus ou moins prolongé des règles. En cataplasmes, la pulpe des jeunes feuilles incorporée à l’huile de palme ferait avorter les furoncles et les abcès.
+Uses: The wood is used as timber for the construction of huts and boats, but also used as firewood and for charcoal production. Medicinal use is limited. A decoction of bark would bring about a more or less prolonged cessation of menstruation. In poultices, the pulp of young leaves incorporated into palm oil would cause furuncles and abscesses to abate.
 
 ## Vernacular names
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Suffrutex de 0,5 m de hauteur ; rameaux pubescents à long poils laineux, puis glabres et noirâtres. Stipules caduques, ovales-acuminées , 6–8 mm de longueur, pubescentes sur la face externe, base de la face interne munie de 5 cérocystes . Feuilles décussées ; pétiole 5–6 mm, laineux ; limbe obovale-oblong, 11–17 × 3,5–5,5 cm, 3,2–3,7 fois plus long que large, base atteéuée à obtuse, sommet courtement acuminé à acumen de ± 10 mm, à pointe aiguë, submembraneuse, à marge pubescente et parfois faiblement ondulée, à longs poils épars sur les deux faces, plus denses et dressés sur les nervures ; nervures latérales ± 10–12 paires, réunies en arceaux décroissants vers la marge. Inflorescence axillaire, ramifiée, jusqu’à 20 mm de longueur, moins dense que dans les autres espèces ( ramilles bien exposées ), chacune avec (5–)10–15 fleurs ; bractéoles 1–2, minuscules, fixées à la base du pédicelle, axillant chacune un bourgeon réduit le plus souvent à un petite bosse pubescente. Fleur 5–6(–7)-mère, pendante sur des rameaux horizontaux ; pédicelle 3–8 mm, stipe jusqu’à 0,5 mm, à poils couchés ; calice campanulé , 4,5 mm de longueur, persistant en fruit, à 5–6(–7) lobes droits, aussi longus que la réceptacle cupuliforme, longuement ovales, ± 3 mm, pubescents sur la face externe, glabres sur l’interne ; pétales spatulés, ± 13 mm de longueur, lisses, blancs, frangés-laciniés dans les 2/3 supérieurs en ± 15 languettes filiformes dont les 9 centrales se continuent en un ruban plus large ; étamines 20–27, 3,5–6 fois plus nombreuses que les sépales, lar gement libres, soudées à la base, glabres, filets ± 2 mm, anthères ovales-oblongues, ± 2 mm de longueur, nettement apiculées ; ovaire subglobuleux, 2 mm de diamètre, à 3–5 loges, couvert de longs poils dressés ; style ± 4 mm, glabre, persistant en fruit, stigmate non élargi . Fruit piriforme , 6–8 × 6–8 mm, à 3–4(–5) loges, verruqueux, munis de longs poils dressés. Graines ellipsoïdes, raphé bien visible prolongé par un long funicule, brun noirâtre, surmontée d’un arille translucide.
+Subshrub 0.5 m tall; branches pubescent with long woolly hairs, then glabrous and blackish. Stipules caducous, ovate-acuminate, 6–8 mm long, pubescent on the outer face, base of inner face with 5 cerocysts. Leaves decussate; petiole 5–6 mm, woolly; blade obovate-oblong, 11–17 × 3.5–5.5 cm, 3.2–3.7 times longer than wide, base attenuate to obtuse, apex shortly acuminate with acumen ± 10 mm, with acute point, submembranaceous, with pubescent margin and sometimes weakly undulate, with long scattered hairs on both faces, denser and erect on the veins; lateral veins ± 10–12 pairs, joining in decreasing arches toward the margin. Inflorescence axillary, branched, up to 20 mm long, less dense than in other species (ramules well exposed), each with (5–)10–15 flowers; bracteoles 1–2, minute, attached at the base of the pedicel, each axilling a bud reduced most often to a small pubescent bump. Flower 5–6(–7)-merous, pendulous on horizontal branches; pedicel 3–8 mm, stipe up to 0.5 mm, with appressed hairs; calyx campanulate, 4.5 mm long, persistent in fruit, with 5–6(–7) erect lobes, as long as the cupuliform receptacle, narrowly ovate, ± 3 mm, pubescent on the outer face, glabrous on the inner; petals spatulate, ± 13 mm long, smooth, white, fringed-laciniate in the upper 2/3 in ± 15 filiform languettes of which the 9 central ones continue into a wider ribbon; stamens 20–27, 3.5–6 times more numerous than the sepals, widely free, united at the base, glabrous, filaments ± 2 mm, anthers ovate-oblong, ± 2 mm long, clearly apiculate; ovary subglobose, 2 mm diameter, with 3–5 locules, covered with long erect hairs; style ± 4 mm, glabrous, persistent in fruit, stigma not enlarged. Fruit pyriform, 6–8 × 6–8 mm, with 3–4(–5) locules, verrucose, furnished with long erect hairs. Seeds ellipsoid, raphe well visible prolonged by a long funicle, dark brown, surmounted by a translucent aril.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce endémique au Gabon ; connue seulement par deux collections du Moyen-Ogooué (Abanga)
+Species endemic to Gabon; known only from two collections from the Moyen-Ogooué (Abanga)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+at 450 m altitude. Buds and flowers in June. b: Breteler (2008), Floret (1988). Bibliography
 
-à 450 m d’altitude. Boutons et fleurs en juin. b : Breteler (2008), Floret (1988). ibliographie
-
-Floret et D. Storez, reproduit avec permission du Muséum nationale d’Histoire naturelle (©) à partir de Floret (1988).
+Floret and D. Storez, reproduced with permission from the Muséum nationale d'Histoire naturelle (©) from Floret (1988).
 
 ## Notes
 

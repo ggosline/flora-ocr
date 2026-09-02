@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+E. dybowskii Hua, Bull. Mus. Hist. Nat. (Paris) 1 : 315 (1895). Tree 5–30 m tall; trunk up to 75 cm in diameter, with persistent petiolar base. Leaves 40 to 60 at maturity; petiole 1–1.25 m, armed with numerous spines reaching 4 cm and directed towards the leaf apex; rachis up to 8 m; leaflets ± 100 to 150 on each side, with linear blade, 90–130 × 5–6 cm. Male and female inflorescences different, ± 60 cm long; peduncular bract 20–45 cm, very robust, longer in the female; floral branches 60 to 150, ± 10–20 × 0.8–1.5 cm. Male flower: sepals and petals up to 2 × 1.5 mm; filaments in tube up to 2.5 mm long, anther reflexed, up to 1.5 mm long. Female flower: sepals and petals ± 10 × 4 mm; ovary ± 5 mm wide; style and stigma up to 10 mm. Infructescence massive and compact, ovoid, ± 50 × 35 cm. Fruit ellipsoid to obovoid, 2–5 × ± 3 cm, of very variable color, green becoming very dark purple/black (nigrescens type) at maturity or green becoming orange-red at maturity (virescens type). Seed 2–3 × 1–1.5 cm.
 
-E. dybowskii Hua, Bull. Mus. Hist. Nat. (Paris) 1 : 315 (1895). Arbre de 5–30 m de hauteur ; stipe jusqu’à 75 cm de diamètre, à base du pétiole persistante. Feuilles 40 à 60 à maturité ; pétiole 1–1,25 m, armées de nombreuses épines atteignant 4 cm et dirigées vers le sommet de la feuille ; rachis jusqu’à 8 m ; folioles ± 100 à 150 de chaque côté, à limbe linéaire, 90–130 × 5–6 cm. Inflorescence mâle et femelle différentes, ± 60 cm de longueur ; bractée pédonculaire 20–45 cm, très robuste, plus longue chez la femelle ; rameaux florifères 60 à 150, ± 10–20 × 0,8–1,5 cm. Fleur mâle : sépales et pétales jusqu’à 2 × 1,5 mm ; filets en tube jusqu’à 2,5 mm de longueur, anthère réfléchie, jusqu’à 1,5 mm de longueur. Fleur femelle : sépales et pétales ± 10 × 4 mm ; ovaire ± 5 mm de largeur ; style et stigmate jusqu’à 10 mm. Infrutescence massive et compacte, ovoïde, ± 50 × 35 cm. Fruit ellipsoïde à obovoïde, 2–5 × ± 3 cm, de couleur très variable, verte devenant violet très foncé/ noir (type nigrescens ) à maturité ou vert devenant rouge orangé à maturité (type virescens ). Graine 2–3 × 1–1,5 cm.
-
-Endocarpe (× 1). (1 : à partir des photos ; 2, 3 : Drummond & Hemsley 3341 ; 4-7 : matériel cultivé en Afrique de l’Ouest ; 8, 9 : Maggs 1 ; 10 : matériel du Sri Lanka.). Dessin par Eleanor Catharine (©), reproduit avec permission à partir de Dransfield (1986).
+Endocarp (× 1). (1: from photographs; 2, 3: Drummond & Hemsley 3341; 4-7: material cultivated in West Africa; 8, 9: Maggs 1; 10: material from Sri Lanka.). Drawing by Eleanor Catharine (©), reproduced with permission from Dransfield (1986).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-présent en Afrique occidentale et centrale, dans le domaine forestier, du Nigéria vers la République démocratique du Congo, le Rwanda et l’Ouganda ; au Gabon, des récoltes herbier connues de l’Estuaire, de l’Ogooué-Ivindo et de l’Ogooué-Lolo, mais probablement plus largement distribué
+present in West and Central Africa, in the forest domain, from Nigeria towards the Democratic Republic of the Congo, Rwanda and Uganda; in Gabon, herbarium collections known from the Estuaire, Ogooué-Ivindo and Ogooué-Lolo, but probably more widely distributed
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce principalement héliophile, pionnière, mais largement cultivée et naturalisée à travers l’Afrique occidentale et centrale ; au Gabon entre 50 et 300 m d’altitude, ailleurs jusqu’à 1500 m
+Species mainly heliophilous, pioneer, but widely cultivated and naturalized throughout West and Central Africa; in Gabon between 50 and 300 m altitude, elsewhere up to 1500 m
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ palmier à huile (fr.) ; oil palm (angl.) ; alén, alèn-bingom, okóm (fang) ; 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-E. guineensis est très variable (couleur externe des fruits et du mésocarpe ; morphologie des fruits ; épaisseur de l’endocarpe) ce qui a mené à la description de nombreuses variétés et sous-variétés. Ce traitement porte exclusivement sur le niveau spécifique. Néanmoins, on rencontre ponctuellement au Gabon (et dans d’autres pays d’Afrique centrale) une forme qu’il est important de noter ici, car les feuilles ont des folioles plus ou moins soudés donnant un aspect assez caractéristique au palmier. Che valier a nommé cette variété E. guineensis var. idolatrica A.Chev. (Figure 5G) et elle est communément connue sous le nom de « type idolatrica » avec le nom vernaculaire de « palmier fétiche ». Cette forme serait contrôlée par un gène en particulier (Corley & Tinker 2016). Il est dit que la qualité des noix de la var. idolatrica est inférieure à celle des autres variétés. La Check Liste des Plantes Vasculaire du Gabon (Sosef et al. 2006) souligne la présence d’une espèce endémique : E. dybowskii Hua. L’examen du type à Paris, et plus particulièrement de la photo associée au type, indique que ce nom se rattache à la forme aux folioles soudées (type idolatrica ) mentionnée cidessus et elle est donc synonyme d’ E. guineensis . B : Ataga & Vossen (2007), Chevalier (1943), Corley & Tinker (2016), Dransfield et al. i B liographie (2008), Pajarón et al. (2015), Stauffer et al. (2014), Raponda-Walker & Sillans (1961)
+E. guineensis is highly variable (external color of fruits and mesocarp; fruit morphology; endocarp thickness) which has led to the description of numerous varieties and subspecies. This treatment concerns exclusively the specific level. Nevertheless, one encounters sporadically in Gabon (and in other Central African countries) a form which is important to note here, since the leaves have leaflets more or less fused giving a rather characteristic appearance to the palm. Chevalier named this variety E. guineensis var. idolatrica A.Chev. (Figure 5G) and it is commonly known by the name "idolatrica type" with the vernacular name of "fetish palm". This form would be controlled by a particular gene (Corley & Tinker 2016). It is said that the quality of the nuts of var. idolatrica is inferior to that of the other varieties. The Vascular Plant Checklist of Gabon (Sosef et al. 2006) highlights the presence of an endemic species: E. dybowskii Hua. Examination of the type at Paris, and more particularly of the photograph associated with the type, indicates that this name is linked to the form with fused leaflets (idolatrica type) mentioned above and it is therefore synonymous with E. guineensis. B: Ataga & Vossen (2007), Chevalier (1943), Corley & Tinker (2016), Dransfield et al. Bibliography (2008), Pajarón et al. (2015), Stauffer et al. (2014), Raponda-Walker & Sillans (1961)
 
 ## Notes
 

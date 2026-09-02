@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+subspecies africana (Mast.) Exell et Mend.
 
-sous-espèce africana (Mast.) Exell et Mend.
+Sarmentose shrub with puberulent extremities and young stems. Stipules linear up to 15 mm long, very early caducous. Young leaves very finely puberulent on the nerves: simple hairs on the upper surface and stellate on the lower surface. Petiole (3) 5-12 cm long ± puberulent. Blade orbicular-cordate 8-14 cm long by 6-14 cm wide, glabrescent, with broadly cordate base; apex terminating in an acute and mucronate acumen, 8-14 mm long. Basal nerves (5) 7. Secondary nerves 3-4 pairs above the base and along the midvein.
 
-Arbrisseau sarmenteux à extrémités et jeunes tiges pubérulentes. Stipules linéaires jusqu'à 15 mm de long, très tôt caduques. Jeunes feuilles très finement pubérulentes sur les nervures : poils simples sur la face supérieure et étoilés sur la face inférieure. Pétiole (3) 5-12 cm de long ± pubérulent. Limbe orbiculaire-cor-diforme de 8-14 cm de long sur 6-14 cm de large, glabrescent, à base largement cordée; sommet terminé par un acumen aigu et mucroné, long de 8-14 mm. Nervures basilaires (5) 7. Nervures secondaires 3-4 paires au-dessus de la base et le long de la médiane.
+Puberulent axillary inflorescences, branched, paniculate; often a few branches inserted at the base of the peduncle; the latter reaching 2-3 cm. Bracteoles small linear; pedicels slender 7-11 mm long, articulate towards their middle. Pyramidal bud 4-5 mm long by 1.5 mm wide, with fine and very dense pubescence.
 
-Inflorescences pubérulentes axillaires, rameuses, paniculées; souvent quelques ramifications insérées à la base du pédoncule; ce dernier atteint 2-3 cm. Bractéoles linéaires petites; pédicelles grêles de 7-11 mm de long, articulés vers leur milieu. Bouton pyramidal de 4-5 mm de long sur 1,5 mm de large, à pubérulence fine et très dense.
-
-Fleur blanche à 5 sépales atténués aigu subérigés à l'anthèse, échancrés jusqu'à 1 mm au-dessus du réceptable, longs de 5 mm env. 5 pétales à onglet basal étroit, cucullés et adhérents entre eux au niveau des anthères puis portant subapicalement un long appendice linéaire qui dépasse le calice de 2-3 mm. Androcée en collerette. Ovaire petit, globuleux, papillifère à 5 loges; style bref à 5 lobes stigmatiques recourbés.
+White flower with 5 sepals attenuate acute suberect at anthesis, emarginate up to 1 mm above the receptacle, approximately 5 mm long. 5 petals with narrow basal claw, cucullate and coherent with each other at the level of the anthers then bearing subapically a long linear appendage exceeding the calyx by 2-3 mm. Androecium in a ring. Ovary small, globose, papilliferous with 5 locules; style short with 5 recurved stigmatic lobes.
 
 ## Notes
 

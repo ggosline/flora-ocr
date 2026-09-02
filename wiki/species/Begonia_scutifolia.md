@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 572 (1871). B. triflora Irmscher, Bot. Jahrb. Syst. 57 : 245 (1921). B. triflora Irmscher var. caloskiadia N.Hallé, Adansonia sér. 2, 7 : 509 (1967). Plante atteignant 10(–17) cm de hauteur. Feuille peltée à subpeltée ; pétiole de 0,5–15 cm, avec quelques poils longs ou densément hirsute ; limbe très variable, largement elliptique ou largement ovale à très étroitement elliptique, 0,5–10(–12) × 0,4–5,5(–6,5) cm, sommet acuminé à graduellement atténué, marge entière à légèrement et éparsement dentée, face supérieure glabre. Inflorescence : pédoncule 2–7,5(–9) cm, avec 1–3 fleurs ♂ et 1(–2) fleurs ♀ à tépales jaunes ; bractées 0,5–1,5 mm de longueur. Fleur ♂ : tépales (4,5–)5,5– 10,5(–13) × (4,5–)5,5–9(–10,5) mm ; androcée à (7–)10–20 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 2 mm ; tépales (4,5–)5–10(–15) × (4–)4,5–10(–12,5) mm ; ovaire très étroitement ellipsoïde à étroitement ellipsoïde-ovoïde , (4,5–)6,5–14(–19) × 0,7–2,5 mm, sans poils longs, à 3–4 ailes rubanées, 0,2–0,7 mm de largeur ; styles 3–4. Fruit très étroitement ellipsoïde à étroitement ellipsoïde-ovoïde , 6–15(–20) × 1–3,5 mm.
+in Oliv., Fl. trop. Afr. 2 : 572 (1871). B. triflora Irmscher, Bot. Jahrb. Syst. 57 : 245 (1921). B. triflora Irmscher var. caloskiadia N.Hallé, Adansonia sér. 2, 7 : 509 (1967). Plant reaching 10(–17) cm in height. Leaf peltate to subpeltate; petiole 0.5–15 cm, with some long hairs or densely hirsute; lamina highly variable, broadly elliptic or broadly ovate to very narrowly elliptic, 0.5–10(–12) × 0.4–5.5(–6.5) cm, apex acuminate to gradually attenuate, margin entire to slightly and sparsely dentate, upper surface glabrous. Inflorescence: peduncle 2–7.5(–9) cm, with 1–3 male flowers and 1(–2) female flowers with yellow tepals; bracts 0.5–1.5 mm in length. Male flower: tepals (4.5–)5.5–10.5(–13) × (4.5–)5.5–9(–10.5) mm; androecium with (7–)10–20 stamens. Female flower: pedicel elongating in fruit up to 2 mm; tepals (4.5–)5–10(–15) × (4–)4.5–10(–12.5) mm; ovary very narrowly ellipsoid to narrowly ellipsoid-ovoid, (4.5–)6.5–14(–19) × 0.7–2.5 mm, without long hairs, with 3–4 ribbon-like wings, 0.2–0.7 mm in width; styles 3–4. Fruit very narrowly ellipsoid to narrowly ellipsoid-ovoid, 6–15(–20) × 1–3.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+southwestern Cameroon, Gabon, Angola (Cabinda) and western Democratic Republic of the Congo
 
-sud-ouest du Cameroun, Gabon, Angola (Cabinda) et ouest de la République Démocratique du Congo
-
-Styles et stigmates (× 4). – 5. Fruit (× 2,5). – 6-10. Feuilles (×⅔). (1 : N. Hallé 2841 ; 2-7 : Breteler & de Wilde 583 ; 8, 9 : Letouzey 9379 ; 10 : A. Louis 2141 ) . Dessin par W W , Herbier NatioIL ESSEL nal des Pays-Bas – Wageningen branche.
+Styles and stigmas (× 4). – 5. Fruit (× 2.5). – 6-10. Leaves (×⅔). (1 : N. Hallé 2841 ; 2-7 : Breteler & de Wilde 583 ; 8, 9 : Letouzey 9379 ; 10 : A. Louis 2141). Drawing by W.W. ESSEL, National Herbarium of the Netherlands – Wageningen branch.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur talus, lits des rivières ou parois rocheuses dans la forêt primaire ou vieille forêt secondaire, souvent au bord des cours d’eau, rapides et chutes d’eau ; 330–950 m d’altitude
+on slopes, river beds or rock faces in primary forest or old secondary forest, often at the edge of watercourses, rapids and waterfalls; 330–950 m altitude
 
 ## Vernacular names
 

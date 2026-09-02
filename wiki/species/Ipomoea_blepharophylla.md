@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ; tiges prostrées ou volubiles, pubescentes . Feuille : pétiole (1–)2–8 mm, pubescent ; limbe étroitement oblong à lancéolé , (2–)3–7 × 0,5–2 cm, arrondi à la base, arrondi à aigu et mucroné au sommet, glabre dessus, pubescent dessous sur la marge, la médiane et les 5–6 paires de nervures latérales. Inflorescence à fleurs axillaires, solitaires . Fleur : pédicelle 10–20(–25) mm, pubescent ; bractéoles étroitement triangulaires, 2–4 mm de longueur, pubescentes ; sépales lancéolés, 12–15(–18) × 2–3,5 mm, les externes légèrement plus courts et plus larges que les internes, pubescents sur la face externe et la marge ; corolle infundibuliforme, 5–7 cm de longueur, violette, plus foncée à la
-
-gorge, glabre ; étamines incluses, anthères longues de 2 mm, filets glabres ; pistil inclus, ovaire conique, glabre. Fruit (inconnu du Gabon) ovoïde, glabre, s’ouvrant par 4 valves, entouré par le calice persistant. Graines 5 mm de longueur, grises, tomenteuses .
+Perennial herb; stems prostrate or twining, pubescent. Leaf: petiole (1–)2–8 mm, pubescent; blade narrowly oblong to lanceolate, (2–)3–7 × 0.5–2 cm, rounded at base, rounded to acute and mucronate at apex, glabrous above, pubescent below on the margin, midvein and 5–6 pairs of lateral nerves. Inflorescence with axillary, solitary flowers. Flower: pedicel 10–20(–25) mm, pubescent; bracteoles narrowly triangular, 2–4 mm long, pubescent; sepals lanceolate, 12–15(–18) × 2–3.5 mm, the outer ones slightly shorter and wider than the inner, pubescent on outer surface and margin; corolla infundibuliform, 5–7 cm long, violet, darker at the throat, glabrous; stamens included, anthers 2 mm long, filaments glabrous; pistil included, ovary conical, glabrous. Fruit (unknown from Gabon) ovoid, glabrous, opening by 4 valves, surrounded by persistent calyx. Seeds 5 mm long, grey, tomentose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce de l’Afrique tropicale de l’ouest à est ; au Gabon, seulement récoltée dans le Parc National de la Lopé-Okando
+species of tropical Africa from west to east; in Gabon, collected only in the Lopé-Okando National Park
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane arborée ; au Gabon à basse altitude, ailleurs jusqu’à 1900 m. B : Gonçalves (1987), Lejoly & Lisowski (1992). ibliographie
+wooded savanna; in Gabon at low altitude, elsewhere up to 1900 m. B: Gonçalves (1987), Lejoly & Lisowski (1992). Bibliography
 
 ## Notes
 

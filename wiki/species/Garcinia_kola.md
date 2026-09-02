@@ -17,33 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre dioïque, jusqu’à 40 m de hauteur ; latex blanc ; rameaux anguleux , ridés-plissés longitudinalement, pubérulents à glabrescents. Feuilles opposées ; pétiole 10 ‒ 15 mm, canaliculé dessus, ridé transversalement , souvent pubérulent ; limbe elliptique à ovale ou oblong, 4 ‒ 20( ‒ 28) × 2 ‒ 9( ‒ 11) cm, cunéé à obtus à la base, obtus à brièvement acuminé au sommet, coriace, glabre, à marge épaisse ; nervure médiane creux dessus, proéminente
-
-dessous, nervures latérales 7 ‒ 11 paires, canaux sécréteurs noirs parallèles aux nervures latérales, réticulation distincte. Inflorescence terminale, cymeuse, pauci- à pluriflore ; pédoncule 2 ‒ 10 mm, pubérulent ; bractées petites, pubérulentes. Fleurs unisexuées, tétramères ; pédicelle 10 ‒ 25 mm, pubérulent ; sépales rugueux, tomentelleux , les externes suborbiculaires, 5 ‒ 6 mm de diamètre, les internes ovales, 6 ‒ 7 × 8 ‒ 9 mm ; pétales obovales, 12 × 8 ‒ 9 mm, tomentelleux , jaune pâle. Fleur mâle : disque 4-lobé, environ 5 mm de diamètre, tomenteux ; phalanges staminales 10 mm de longueur, filets libres sur 0,5 ‒ 1 mm, anthères 14 ‒ 20 par phalange, ovoïdes . Fleur femelle : sépales accrescents et persistants sous le fruit ; phalanges réduites, à 5 ‒ 6 anthères stériles ; glandes discales interstaminales 4 × 4 mm, tomenteuses ; ovaire 4-loculaire, ovoïde, tomenteux ; style 1 mm, stigmate pelté, 4-lobé, 3 ‒ 4 mm de diamètre (jusqu’à 6 mm sur le fruit), glabre dessus, pubescent dessous. Fruit globuleuse à pyriforme, 5 ‒ 11 × 5 ‒ 10 cm, lisse mais rugueux à l’état sec, tomenteux , jaune-orange à rouge. Graines 2 ‒ 4, ellipsoïdes, 2 ‒ 4 × 2 ‒ 2,5 × 1 ‒ 1,5 cm, entourées d’une pulpe arilliforme orangée ou rougeâtre.
+Dioecious tree, up to 40 m tall; latex white; branchlets angular, wrinkled-plicate longitudinally, puberulent to glabrescent. Leaves opposite; petiole 10–15 mm, channelled above, wrinkled transversely, often puberulent; blade elliptic to ovate or oblong, 4–20(–28) × 2–9(–11) cm, cuneate to obtuse at base, obtuse to shortly acuminate at apex, coriaceous, glabrous, with thick margin; midvein sunken above, prominent below, lateral nerves 7–11 pairs, black secretory canals parallel to lateral nerves, reticulation distinct. Inflorescence terminal, cymose, pauciflorous to pluriflorous; peduncle 2–10 mm, puberulent; bracts small, puberulent. Flowers unisexual, tetramerous; pedicel 10–25 mm, puberulent; sepals wrinkled, tomentellous, outer ones suborbicular, 5–6 mm in diameter, inner ones ovate, 6–7 × 8–9 mm; petals obovate, 12 × 8–9 mm, tomentellous, pale yellow. Male flower: disc 4-lobed, approximately 5 mm in diameter, tomentose; stamen bundles 10 mm long, filaments free for 0.5–1 mm, anthers 14–20 per bundle, ovoid. Female flower: sepals accrescent and persistent under fruit; bundles reduced, with 5–6 sterile anthers; interstaminal disc glands 4 × 4 mm, tomentose; ovary 4-locular, ovoid, tomentose; style 1 mm, stigma peltate, 4-lobed, 3–4 mm in diameter (up to 6 mm on fruit), glabrous above, pubescent below. Fruit globose to pyriform, 5–11 × 5–10 cm, smooth but wrinkled when dry, tomentose, yellow-orange to red. Seeds 2–4, ellipsoid, 2–4 × 2–2.5 × 1–1.5 cm, surrounded by an orange or reddish arilliform pulp.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Benin, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, fairly rare, known from Estuaire, Haut-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
-Guinée, Sierra Leone, Libéria, Côte d’Ivoire, Bénin, Nigéria, Cameroun, République Centrafricaine, Guinée Équatoriale, Gabon, République du Congo, République Démocratique du Congo et Angola ; au Gabon, assez rare, connue de l’Estuaire, du Haut-Ogooué, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du Woleu-Ntem
-
-Cameroun et Gabon ; au Gabon, rare, observée dans les provinces de l’Estuaire et de la Ngounié
+Cameroon and Gabon; in Gabon, rare, observed in the provinces of Estuaire and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Primary and secondary forest, swamp forest and riparian forest; in Gabon, up to 500 m altitude, elsewhere up to 1250 m
 
-forêt primaire et secondaire, forêt marécageuse et rivulaire ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 1250 m
-
-forêt primaire, le long des rivières, sur des crêtes ; jusqu’à 650 m d’altitude. B : Bamps (1970b), Pellegrin (1921, 1924). i B liographie
+Primary forest, along rivers, on ridges; up to 650 m altitude. B: Bamps (1970b), Pellegrin (1921, 1924). Bibliography
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’écorce amère est utilisée comme additif dans la production du vin de palme. Les fruits sont comestibles. Les graines sont consommées, souvent en mélange avec celles de Cola spp. dont elles facilitent la digestion. Elles auraient aussi des propriétés vermifuges
+The bitter bark is used as an additive in palm wine production. The fruits are edible. The seeds are consumed, often mixed with those of Cola spp., of which they facilitate digestion. They are also said to have anthelmintic properties
 
 ## Vernacular names
 
@@ -51,11 +41,9 @@ faux kolatier, bois amer (fr.) ; bitter kola (angl.) ; oyali (batéké), aouoli�
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Breteler et al. 2606). Drawing by Hans de Vries, Naturalis Biodiversity Center (section NHN) ©.
 
-Breteler et al. 2606 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (section NHN) ©.
-
-cm , cunéé à atténué à la base, arrondi à brièvement acuminé au sommet, coriace, souvent légèrement bullé , luisant dessus ; nervure principale proéminente dessus, aiguë dessous, nervures latérales (7 ‒ )9 ‒ 15( ‒ 18) paires, nervation tertiaire réticulée et visible, canaux sécréteurs noirs (si visibles) subparallèles à la nervure médiane, mais vers la marge subparallèles aux nervures latérales. Inflorescence en racèmes pseudoterminaux, avec jusqu’à 30 fleurs ; rachis tétragone, 1,5 ‒ 3 cm de longueur ; bractées environ 1 × 2 mm, pointues, glabres , caduques. Fleurs unisexuées, pentamères , glabres ; pédicelle 3 ‒ 5,5 cm , grêle ; sépales suborbiculaires, 2 × 2 mm ; pétales orbiculaires à largement obovés, 10 ‒ 12 × 9 ‒ 10 mm, blanc à blanc verdâtre ; glandes discales interstaminales 2 × 2 mm, spongieuses, jaune pâle. Fleur mâle : phalanges staminales 5 ‒ 7( ‒ 10) mm de longueur, filets libres au sommet , anthères 15 ‒ 25 par phalange, ovoïdes , rose pâle. Fleur femelle inconnue. Fruit globuleux, 2,5 ‒ 3 cm de diamètre, verruqueux, glabre , blanc à crème verdâtre ; sépales et glandes interstaminales persistants. Graines 4, ellipsoïdes, 2 ‒ 2,5 × 1 ‒ 1,5 cm.
+cm, cuneate to attenuate at base, rounded to shortly acuminate at apex, coriaceous, often slightly bullate, shining above; main nerve prominent above, acute below, lateral nerves (7–)9–15(–18) pairs, tertiary venation reticulate and visible, black secretory canals (if visible) subparallel to midvein, but toward margin subparallel to lateral nerves. Inflorescence in pseudoterminal racemes, with up to 30 flowers; rachis tetragonous, 1.5–3 cm long; bracts approximately 1 × 2 mm, pointed, glabrous, caducous. Flowers unisexual, pentamerous, glabrous; pedicel 3–5.5 cm, slender; sepals suborbicular, 2 × 2 mm; petals orbicular to broadly obovate, 10–12 × 9–10 mm, white to greenish white; interstaminal disc glands 2 × 2 mm, spongy, pale yellow. Male flower: stamen bundles 5–7(–10) mm long, filaments free at apex, anthers 15–25 per bundle, ovoid, pale pink. Female flower unknown. Fruit globose, 2.5–3 cm in diameter, verrucose, glabrous, white to greenish cream; sepals and interstaminal glands persistent. Seeds 4, ellipsoid, 2–2.5 × 1–1.5 cm.
 
 ## Notes
 

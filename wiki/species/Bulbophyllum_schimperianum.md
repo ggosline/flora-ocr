@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– TYPE : Schimper 341, Cameroon, holo-B del., NEO-TYPE : van der Laan 458, s.loc., WAG (chosen by Vermeulen, 1987). – FTWA : 234 (1968) ; FAC 2 : 338 (1992) ; FCAM 2 : 457 (2001).
 
-– TYPE : Schimper 341, Cameroun, holo-B del., NÉO-TYPE : van der Laan 458, s.loc., WAG (choisi par Vermeulen, 1987). – FTWA : 234 (1968) ; FAC 2 : 338 (1992) ; FCAM 2 : 457 (2001).
-
-PL. 100. – Bulbophyllum oxychilum Schltr.: A, vue générale ; B, partie de l'inflorescence ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
+PL. 100. – Bulbophyllum oxychilum Schltr.: A, general view ; B, part of the inflorescence ; C, floral parts ; D, lip ; E, lip and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).
 
 – Bulbophyllum xantoglossum Schltr., Bot. Jahrb. Syst. 38 : 158 (1906).
 
 – Bulbophyllum acutisepalum De Wild., Bull. J. Bot. Brux. 5 : 179 (1916).
 
-Pseudobulbes 0,7-2,5 × 0,6-2,2 cm, ovoïdes, suborbiculaires à obréniformes, 1-foliés. Feuille pétiolée, 3,5-16,5 × 0,9-2,5 cm, oblongue à linéaire -lancéolée. Inflorescence 6-36 cm, rachis glabre, 1-100-flore. Fleurs petites. Sépales minces, glabres, blancs souvent roses au sommet ; sépale dorsal étroitement lancéolé à triangulaire, aigu ; sépales latéraux étroitement triangulaires, subfalciformes, acuminés. Pétales obliquement oblongs-ovés, obtus à aigus, minces, glabres à très finement papilleux. Labelle crémeux à vert-jaunâtre, elliptique à oblong, arrondi au sommet, assez mince, récurvé, glabre sauf les marges couvertes de poils courts fins et raides. -Pl. 102, p. 204.
+Pseudobulbs 0.7–2.5 × 0.6–2.2 cm, ovoid, suborbicular to obreniform, 1-leafed. Leaf petiolate, 3.5–16.5 × 0.9–2.5 cm, oblong to linear-lanceolate. Inflorescence 6–36 cm, rachis glabrous, 1–100-flowered. Flowers small. Sepals thin, glabrous, white often pink at apex ; dorsal sepal narrowly lanceolate to triangular, acute ; lateral sepals narrowly triangular, subfalciform, acuminate. Petals obliquely oblong-ovate, obtuse to acute, thin, glabrous to very finely papillose. Lip creamy to yellowish-green, elliptic to oblong, rounded at apex, rather thin, recurved, glabrous except the margins covered with short fine stiff hairs. – Pl. 102, p. 204.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Centrafrique, Gabon, Congo (Kinshasa), Ouganda
+Nigeria, Cameroon, Central African Republic, Gabon, Congo (Kinshasa), Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–2000 m. Epiphyte or lithophyte ; lowland to montane forest, forest relict in savanna, degraded forest and logged forest
 
-alt. 0-2000 m. Épiphyte ou lihtophyte ; forêt de basse à haute altitude, relique forestière en savane, forêt dégradée et forêt exploité
+MATERIAL EXAMINED (Map 39) :
 
-MATÉRIEL ÉTUDIÉ (Carte 39) :
+Breteler, Jongkind, Nzabi & Wieringa 11432, Rabi-Kounga, 1°55' S, 9°55' E (fl., May), WAG!, LBV.
 
-Breteler, Jongkind, Nzabi & Wieringa 11432, Rabi-Kounga, 1°55' S, 9°55' E (fl., Mai), WAG!, LBV.
-
-de Wilde 215, km 5, route depuis la centrale hydroélectrique d’Asok vers la Riv.Tchimbélé, alt. 750 m, 0° 41' N, 0° 23' E (fl., Août), WAG!.
+de Wilde 215, km 5, road from the hydroelectric station at Asok to the Riv. Tchimbélé, alt. 750 m, 0° 41' N, 0° 23' E (fl., August), WAG!.
 
 ## Figures
 

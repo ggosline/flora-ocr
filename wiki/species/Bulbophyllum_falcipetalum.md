@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 1-2,2 × 0,4-0,8 cm, ovoïdes à ellipsoïdaux, 2-foliés. Feuilles courtement pétiolées à subsessiles, 2,1-4,5 × 0,3-0,8 cm, linéaires-lancéolées, obtuses. Inflorescence lâche, 3,4-8 cm, rachis un peu aplat et élargi ou cylindrique en zigzag, 7-15-flore. Fleurs minuscules, jaunes ou vert-jaunâtre. Sépales minces avec de fins poils sombres du côté externe ; sépale dorsal ové-lancéolé, aigu à acuminé ; sépales latéraux falciformes, ovés-triangulaires, aigus. Pétales falciformes, linéaires-lancéolés, apiculés, minces, glabres. Labelle glabre, ové, progressivement aminci vers le sommet aigu, assez épais et récurvé. Pl. 87, p. 177.
+Pseudobulbs 1–2.2 × 0.4–0.8 cm, ovoid to ellipsoid, 2-leaved. Leaves shortly petiolate to subsessile, 2.1–4.5 × 0.3–0.8 cm, linear-lanceolate, obtuse. Inflorescence lax, 3.4–8 cm, rachis somewhat flattened and widened or cylindric in zigzag, 7–15-flowered. Flowers minute, yellow or yellowish-green. Sepals thin with fine dark hairs on the external side; dorsal sepal ovate-lanceolate, acute to acuminate; lateral sepals falcate, ovate-triangular, acute. Petals falcate, linear-lanceolate, apiculate, thin, glabrous. Lip glabrous, ovate, gradually narrowed toward the acute apex, rather thick and recurved. Pl. 87, p. 177.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Ghana, Nigeria, Cameroun, Gabon
+Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic in lowland forest and mangrove
 
-épiphyte en forêt planitaire et mangrove
+MATERIAL EXAMINED (Map 32):
 
-MATÉRIEL ÉTUDIÉ (Carte 32) :
-
-Chevalier 26982 & 26982b, Agonenzorck, sur le Haut Komo (fl., Oct.), P!.
+Chevalier 26982 & 26982b, Agonenzorck, on the Haut Komo (fl., Oct.), P!.
 
 ## Notes
 

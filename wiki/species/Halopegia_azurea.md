@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Pfl. R. 4, 48: 50 (1902).
 
-— Pfl. R. 4, 48 : 50 (1902).
+Leaves and inflorescences in dense tufts; petioles up to 1 m long and more, callus 3–5 cm, sheaths more or less pubescent. Blades linear-oblong, with ± parallel margins, abruptly and elongately acuminate at the apex, attenuate to rounded at the base, dull green above, whitish on the lower surface, of variable size, up to 50 × 15 cm.
 
-Feuilles et inflorescences en touffes denses ; pétioles jusqu'à 1 m de long et plus, callus de 3-5 cm, gaines plus ou moins pubes-centes. Limbes linéaires oblongs, à bords ± parallèles, brusquement et longuement acuminés au sommet, atténués à arrondis
-
-à la base, vert mat dessus, blanchâtres à la face inférieure, de taille variable, jusqu'à 50 × 15 cm.
-
-Inflorescence formée de 1 à 3 racèmes, d'abord enfermés dans la gaine de la feuille, ‡ longuement pédonculés et jusqu'à 20-25 cm de long. Axes pubescents, entre-nœuds de 15 à 20 mm, bractées de 25 à 35 mm de long, parfois plus. Pédonculé commun d'environ 3 mm, l'une des fleurs étant sessile, l'autre portée par un pédicelle de 8 mm de long, ailé et enveloppant le bouton de la fleur inférieure. Deux cymes dans chaque bractée, ne fleurissant pas en même temps. Sépales respectivement de 3 et 10 mm de long, blanes; corolle bleue, de 20 mm de haut; staminodes externes bleus et jaunes à la base, de 25 mm de long. Ovaire pubescent à trois loges uniovulées mais inégalement développées. Fruits cylindriques, de 11-12 × 3-4 mm à calice persistant et contenant une graine allongée à arille basal, petit, en collerette.
+Inflorescence formed of 1 to 3 racemes, at first enclosed in the leaf sheath, ‡ elongately pedunculate and up to 20–25 cm long. Axes pubescent, internodes 15 to 20 mm, bracts 25 to 35 mm long, sometimes more. Common peduncle about 3 mm, one of the flowers being sessile, the other borne by a pedicel 8 mm long, winged and enveloping the bud of the lower flower. Two cymes in each bract, not flowering at the same time. Sepals respectively 3 and 10 mm long, white; corolla blue, 20 mm high; external staminodes blue and yellow at the base, 25 mm long. Ovary pubescent with three one-ovulate locules but unequally developed. Fruits cylindric, 11–12 × 3–4 mm with persistent calyx and containing an elongate seed with small basal aril, in a collar-like form.
 
 ## Type
 
@@ -38,9 +34,7 @@ Schweinfurth 3216, N.E. du Congo (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de marais, connue d’Afrique occidentale et centrale et jusque dans l’est du Congo ex-belge. Les cendres sont parfois utilisées pour la fabrication de sel.
+Marsh herb, known from West and Central Africa and extending into the east of former Belgian Congo. The ashes are sometimes used in the manufacture of salt.
 
 ## Vernacular names
 

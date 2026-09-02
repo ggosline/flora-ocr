@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 11 cm de hauteur, avec deux types de poils glanduleux minuscules, l’un pourpre foncé ou noir sur le sec , l’autre brun ou brun pâle. Feuille peltée ; pétiole de 0,5–10 cm, hirsute ; limbe ovale à circulaire, 1,5–8,5 × 1–7,5 cm, sommet aigu à courtement acuminé, marge entière à sinueuse-dentée, face supérieure éparsement pileuse avec des poils courts et raides . Inflorescence : pédoncule jusqu’à 5,5 cm, avec 2–5(–9) fleurs ♂ et 1(–2) fleurs ♀ à tépales jaunes ; bractées 1,5–5 mm de longueur. Fleur ♂ : tépales 3,5–10 × 3–13 mm ; androcée à 6–14 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 2 mm ; tépales 5–10 × 6,5–13,5 mm ; ovaire ellipsoïde à étroitement ellipsoïde, 4–12 × 1,5–6 mm, sans poils longs, à 4 ailes rubanées de 0,3–1,7 mm de largeur ; styles 4. Fruit ellipsoïde-oblong à ellipsoïde-ovoïde, 8–13 × 3–7 mm.
+Plant reaching 11 cm in height, with two types of minute glandular hairs, one dark purple or black when dry, the other brown or pale brown. Leaf peltate; petiole 0.5–10 cm, hirsute; lamina oval to circular, 1.5–8.5 × 1–7.5 cm, apex acute to shortly acuminate, margin entire to sinuate-dentate, upper surface sparsely pilose with short and stiff hairs. Inflorescence: peduncle up to 5.5 cm, with 2–5(–9) ♂ flowers and 1(–2) ♀ flowers with yellow tepals; bracts 1.5–5 mm long. ♂ Flower: tepals 3.5–10 × 3–13 mm; androecium with 6–14 stamens. ♀ Flower: pedicel elongating in fruit up to 2 mm; tepals 5–10 × 6.5–13.5 mm; ovary ellipsoid to narrowly ellipsoid, 4–12 × 1.5–6 mm, without long hairs, with 4 ribbonlike wings 0.3–1.7 mm wide; styles 4. Fruit ellipsoid-oblong to ellipsoid-ovoid, 8–13 × 3–7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, Massif du Chaillu et Monts Doudou
+endemic to Gabon, Chaillu Massif and Doudou Mountains
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et vieilles forêts secondaires, terrestre ou sur des rochers moussus, souvent au bord des cours d’eau ; à 150–760 m d’altitude
+primary forests and old secondary forests, terrestrial or on mossy rocks, often at the edge of watercourses; at 150–760 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce comprend deux sous-espèces ; au Gabon on ne trouve que la sous-espèce
+The species comprises two subspecies; in Gabon only the subspecies
 
 ## Type
 

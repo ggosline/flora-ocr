@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou petit arbre atteignant 7 m de hauteur pFRUFHQRLUH¿QHjOHQWLFHOOHVPLQXV cules ; rameaux glabres. Feuille : pétiole de 3–6 mm, avec collétères axillaires, les deux exWHUQHVSOXVJUDQGVOLPEHHOOLSWLTXH±IRLVDXVVLORQJTXHODUJHGH±î± cm, sommet acuminé, dessous à domaties en fosette ronde à marge glabre ; nervures secondaires 6 à 9 paires. ,QÀRUHVFHQFH × 1–1,3 mm ; pédoncule de 2–5 mm, glabre. Fleur : pédicelle de 9–17 mm, glabre ; calice à lobes de 1,5–2,6 × 1,5–2,6 mm, égaux ou rarement inégaux, glabres sur les deux faces, ciliés, alternant avec des collétères simples ou 2- ou 3-lobés ; corolle blanche, verdâtre dans le bouton, longue de 22–26 mm en bouton mûr, à tube long de 12–18,5 mm , composé d’une partie ampulliforme, de 11–16 × 3–5 mm, et d’une partie supérieure cupuliforme, de 1–1,5 × 1,5–2 PPJODEUHjO¶H[Wpulhxuo¶LQWpULHXUjFUrWHV¿ODPHQWHXVHVSURpPLQHQWHVGDQVODSDUWLHUHQÀpH à longs poils blancs recourbés sur 2–5 mm sous le rétrécissement, en particulier sur les crêtes ¿ODPHQWHXVHVjOREHVRYDOHV de 8–17 × 5–10 mm , villeux à pubescents à poils simples et TXHOTXHVSRLOVJODQGXOHX[PDUJLQDX[pWDPLQHV exsertes sur 2,7–4 mm , insérées à la base de la partie cupuliforme du tube, anthère étroitement triangulaire, longue de 3,5–4 mm, puEpuxohqwhjodedvhhwfrkpuhqwhdyhfodwrwhgxslvwloglvtxhorepslvwloorqjgh±PP ovaire pubérulent sur la partie apicale ; style de 8–13 mm, glabre. Fruit : follicules de 16–47 × 0,5–0,7 cm, verts. Graine de 23–35 × 3,5 mm. Distribution 1LJpULD*DERQ5pSXEOLTXHGX&RQJR5pSXEOLTXH&HQWUDIULFDLQHHW5pSXEOLTXHGpPRFUD WLTXHGX&RQJRDX*DERQ+DXW2JRRXpHW2JRRXp/ROR
+Shrub or small tree reaching 7 m in height; branchlets fine, with small lenticels, glabrous. Leaf: petiole 3–6 mm, with axillary colleters, the two outer ones larger; limb elliptic, 2–3 times as long as wide, 2.5–5 × 1–2.2 cm, apex acuminate, undersurface with domatia in round pit with glabrous margin; secondary veins 6 to 9 pairs. Inflorescence × 1–1.3 mm; peduncle 2–5 mm, glabrous. Flower: pedicel 9–17 mm, glabrous; calyx with lobes 1.5–2.6 × 1.5–2.6 mm, equal or rarely unequal, glabrous on both faces, ciliate, alternating with simple or 2- or 3-lobed colleters; corolla white, greenish in bud, 22–26 mm long in mature bud, tube 12–18.5 mm long, composed of an ampulliform part, 11–16 × 3–5 mm, and an upper cupuliform part, 1–1.5 × 1.5–2 mm, glabrous on the exterior, interior with filamentous crests prominent in the reflexed part with long white curved hairs on 2–5 mm below the constriction, in particular on the filamentous crests; lobes ovate, 8–17 × 5–10 mm, villous to pubescent with simple hairs and some marginal glandular hairs; stamens exserted 2.7–4 mm, inserted at the base of the cupuliform part of the tube, anther narrowly triangular, 3.5–4 mm long, pubérulent, glabrous at base and coherent with the pistil apex; disk lobe; pistil 10–15 mm long; ovary pubérulent on the apical part; style 8–13 mm, glabrous. Fruit: follicles 16–47 × 0.5–0.7 cm, green. Seed 23–35 × 3.5 mm. Distribution: Nigeria, Gabon, Republic of the Congo, Central African Republic, and Democratic Republic of the Congo; in Gabon, Haut-Ogooué and Ogooué Lolo.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+riparian forest; in Gabon at 100–510 m elevation, elsewhere at 100–500 m. B: Beentje (2021), van der Ploeg (1985). BIBLIOGRAPHY
 
-forêt riveraine ; au Gabon à 100–510 m d’altitude, ailleurs à 100–500 m. B : Beentje (2021), van der Ploeg (1985). IBLIOGRAPHIE
-
-Le Testu 8087 ; 2-4 : Casier 283 ; 5 : Pauwels 5528 ; 6 : Breyne 3441 ). Dessin par Piet Kostense, Naturalis Biodiversity Center (©), reproduit à partir de van der Ploeg (1985).
+Le Testu 8087; 2–4: Casier 283; 5: Pauwels 5528; 6: Breyne 3441). Drawing by Piet Kostense, Naturalis Biodiversity Center (©), reproduced from van der Ploeg (1985).
 
 ## Notes
 

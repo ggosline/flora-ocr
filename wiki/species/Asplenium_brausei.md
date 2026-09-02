@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier., Engl. Bot. Jahrb. 46 : 359 (1911). — Alston FWTA : 57 (1959). = Asplenium nigritianum Tardieu (pp., non Hk.), Mém. IFAN 28 : 196 (1953), p.p.
 
-Rhizome courtement rampant ou ascendant, portant des écailles brun grisâtre, larges, cordées à la base, à marges dentées,
-
-ciliées. Limbe long de 30-50 cm; pétiole atteignant 1/4-1/3 de la longueur du limbe canaliculé, écailleux à la base, brunâtre. Rachis noirâtre, portant les mêmes larges écailles que le rhizome. Limbe lancéolé, rétréci à la base, bipenné à tripinnatiséqué, pinnatifide au sommet. 20-25 paires de pennes alternes, sessiles, oblongues ou linéaires-oblongues, les plus longues ayant environ 7 cm de long sur 1,5 de large. Segments ultimes à base supérieure cunéiforme-tronquée, inférieure cunéiforme, trapézoïdo-rhomboïdaux, à marges supérieures nettement dentées, dents aiguës. Texture subcoriace. Surfaces glabres. Nervures bifurquées. Sores à indusie noirâtre.
+Rhizome shortly creeping or ascending, bearing greyish-brown scales, broad, cordate at the base, with toothed, ciliate margins. Frond 30–50 cm long; petiole reaching 1/4–1/3 of the length of the lamina, channeled, scaly at the base, brownish. Rachis blackish, bearing the same broad scales as the rhizome. Lamina lanceolate, narrowed at the base, bipinnate to tripinnatisect, pinnatifid at the apex. 20–25 pairs of alternate pinnae, sessile, oblong or linear-oblong, the longest approximately 7 cm long by 1.5 cm broad. Ultimate segments with the upper base cuneate-truncate, the lower base cuneate, trapezoido-rhomboidal, with upper margins distinctly toothed, teeth acute. Texture subcoriaceous. Surfaces glabrous. Veins bifurcate. Sori with blackish indusium.
 
 ## Type
 
@@ -30,11 +26,9 @@ Yaoundé, Zenker et Staudt 527 (type B, isotype P), Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species was confused by me with A. nigritianum Hk. from Fernando-Po, from which it differs by the broad greyish scales of its rhizome and rachis, and by its very toothed segments. It is also fairly close to A. Schnelli Tardieu, from Guinea, which differs from it by its small size, its black scales, its glabrous rachis in the adult, its ultimate segments cuneate, very obscurely lobed. The scales of A. nigritianum are very narrow, almost filiform, and cover the rachis.
 
-Cette espèce a été confondue par moi avec l'A. nigritianum Hk. de Fernando-Po, dont elle diffère par les larges écailles grisâtres de son rhizome et de son rachis, et par ses segments très dentés. Elle est aussi assez voisine de A. Schnelli Tardieu, de Guinée, qui en diffère par sa petite taille, ses écailles noires, son rachis glabre chez l'adulte, ses segments ultimes cunéiformes, très obscurément lobés. Les écailles de l'A. nigritianum sont très étroites, presque piliforme et recouvrent le rachis.
-
-Sur colline en « inselberg » dénudée, en forêt pélohygrophile, rare.
+On hillsides in denuded "inselberg", in pelohygrophilous forest, rare.
 
 ## Specimens examined
 

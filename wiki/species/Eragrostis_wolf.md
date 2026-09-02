@@ -15,31 +15,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Spikelets disarticulating below the glumes, falling entire, 4-7(-10) mm wide ..... E. superba
 
-1. Épilets se désarticulant au dessous des glumes, tombant entiers, larges de 4-7(-10) mm ..... E. superba
+1. Spikelets disarticulating above the glumes and between each floret, 1-3 mm wide :
 
-1. Epillets se désarticulant au dessus des glumes et entre chaque fleur, larges de 1-3 mm :
+2. Disarticulation of lemmas beginning from the apex of the spikelet ; palea keels ciliate : 3. Panicle spikelike, woolly ..... E. ciliaris 3. Panicle open, ciliolate ..... E. tenella
 
-2. Désarticulation des lemmas commençant à partir du sommet du l'épillet ; carènes des paléas ciliées : 3. Panicule spiciforme, laineuse ..... E. ciliaris 3. Panicule ouverte, ciliolée ..... E. tenella
+2. Disarticulation of lemmas beginning from the base of the spikelet ; palea keels glabrous or ciliolate :
 
-2. Désarticulation des lemmas commençant à partir de la base de l'épillet ; carènes des paléas glabres ou ciliolées :
+4. Paleas falling with the lemmas : 5. Spikelets numerous, 5-15 mm long and 2-2.5 mm wide ; paleas with scabrous keels ..... E. gangetica 5. Spikelets few, 15-25 mm long and 2.5-3 mm wide ; paleas with naked keels ..... E. georgii
 
-4. Paléas tombant avec les lemmas : 5. Épillets nombreux, longs de 5-15 mm et larges de 2-2,5 mm ; paléas à carènes scabres ..... E. gangetica 5. Épillets peu nombreux, longs de 15-25 mm et larges de 2,5-3 mm ; paléas à carènes nues ..... E. georgii
+4. Paleas persistent after the fall of the lemmas : 6. Panicles narrow, 10-15 cm × 2-3 cm ; spikelets 5-10 mm long (littoral zone) ..... E. sabulicola
 
-4. Paléas persistantes apres la chute des lemmas : 6. Panicules étroites, 10-15 cm x 2-3 cm ; épilets longs de 5-10 mm (zone littorale) ..... E. sabulicola
-
-6. Panicules très lâches ; épilets longs de 5-30 mm : 7. Plante pérenne ; épilets ± pointus au sommet, quelques épilets subsessiles ..... E. squamata 7. Plante annuelle ; épilets ± obtus au sommet, tous portés par des pédicelles minces et longs de 4-10 mm ..... E. tremula
+6. Panicles very lax ; spikelets 5-30 mm long : 7. Plant perennial ; spikelets ± acute at the apex, a few spikelets subsessile ..... E. squamata 7. Plant annual ; spikelets ± obtuse at the apex, all borne on slender pedicels 4-10 mm long ..... E. tremula
 
 23.1 Eragrostis ciliaris (L.) R. Br. – Pl. 6, 1-2, p. 27
 
-Fl. Gab.: 224; FWTA: 386; FTEA: 204, fig. 60; Gram. Cam.: 113, Pl. 25; Poac. CI.: 110, 111; Gram. CB.: 105.
+Fl. Gab.: 224; FWTA: 386; FTEA: 204, fig. 60; Gram. Cam.: 113, Pl. 25; Poac. Cl.: 110, 111; Gram. CB.: 105.
 
 van Bergen 481, 26.03.1996, 2°47'S-10°01'E, Gamba, terminal area. Breteler 7586, 28.10.1979, 0°30'N-9°23'E, ca 10 km route de Cap Esterias. Breteler & van Raalte 5678, 24.09.1968, 2°46'S-10°02'E, Gamba. van Nek 767, 24.03.1991, 2°46'S-10°02'E, Yenzi. Thomson 410, 15.03.1939, c. 0°25'N-9°25'E, Libreville.
 
 23.2 Eragrostis gangetica (Roxb.) Steud.
 
-Fl. Gab.: 226 ; FWTA : 389 ; FTEA : 217, fig. 60 ; Gram. Cam.: 132 ; Poac. CI.: 128, 129. – Eragrostis cambessediana (Kunth) Steud. – Fl. Gab.: 225.
+Fl. Gab.: 226 ; FWTA : 389 ; FTEA : 217, fig. 60 ; Gram. Cam.: 132 ; Poac. Cl.: 128, 129. – Eragrostis cambessediana (Kunth) Steud. – Fl. Gab.: 225.
 
 ## Specimens examined
 

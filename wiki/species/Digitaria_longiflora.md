@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual, base extensively creeping and rooting, branched. Leaf sheaths glabrous, or the lower ones sometimes pubescent; ligule short, membranous; blades linear-lanceolate, up to approximately 10 × 0.4 cm, glabrous or sparsely pubescent.
 
-Annuelle, base longuement rampante et radicante, ramifiée. Gaines foliaires glabres, ou les inférieures parfois pubescentes; ligule courte, membraneuse; limbes linéaires lancéolés, jusqu'à environ 10 × 0,4 cm, glabres ou éparsement pubescents.
+Pedicels in pairs or threes on the raceme rachis, the longest approximately 2 mm. Spikelets 1 to 1.5 mm long, acute. Lower glume absent or very rudimentary; upper glume with dense lines of hairs between the nerves and along the margins. Sterile lemma like the upper glume, with 7 nerves; palea and lodicules minute. Upper floret as long as the spikelet, acuminate, coriaceous, greenish at maturity.
 
-Pédicelles par 2 ou par 3 sur le rachis des racèmes, les plus longs d'environ 2 mm. Épilets de 1 à 1,5 mm de long, aïgus. Glume inférieure nulle ou très rudimentaire; glume supérieure avec des lignes denses de poils entre les nervures et le long des marges. Lemma stérile comme la glume supérieure, à 7 nervures; palée et lodicules minuscules. Fleur supérieure aussi longue que l'épillet, acuminée, coriace, verdâtre à maturité.
+Small ruderal species developing in more or less extensive dense patches; mediocre forage value.
 
-Petite espèce rudérale se développait en plages denses plus ou moins étendues; intérêt fourrager médiocre.
-
-Espèce répandue dans la plus grande partie de l'Afrique tropicale. Signalée au Gabon par Soyaux : 430, savanes de Munda (échantillon non vu).
+Species widespread throughout most of tropical Africa. Recorded in Gabon by Soyaux: 430, savannas of Munda (specimen not seen).
 
 ## Notes
 

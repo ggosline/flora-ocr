@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pseudobulbs 1.5-3.5 × 1.5-3 cm, spaced 1-2.5 cm apart, orbicular to ellipsoid, 1-leaved. Leaf 3-13 × 1.7-3 cm, shortly petiolate, narrowly elliptic to oblong-ovate, obtuse. Inflorescence lax,
 
-Pseudobulbes 1,5-3,5 × 1,5-3 cm, espacés de 1-2,5 cm, orbiculaires à ellipsoidaux, 1-foliés. Feuille 3-13 × 1,7-3 cm, courtement pétolée, étroitement elliptique à oblongue-ovée, obtuse. Inflorescence lâche,
+PL. 64. – Structure of the gynostemium of the genus Bulbophyllum Thouars: A, D, view from below; B, E, rostellum remnant; C, F, pollinia, various aspects (A-F, ex SZLACHETKO & MARGOŃSKA, 2001).
 
-PL. 64. – Structure du gynostème du genre Bulbophyllum Thouars: A, D, vue d'en bas ; B, E, reste du rostelle ; C, F, pollinies, aspects divers (A-F, ex SzLACHETKO & MARGOŃSKA, 2001).
-
-7-18 cm, 12-32-flore. Fleurs moyennes, tépales glabres : sépales jaunâtres à verdâtres, souvent ponctués de rouge-pourpre, pétales verdâtre pâle, labelle jaunâtre ou verdâtre marqué de rouge-pourpre avec des poils, blanc à la base et rouge au sommet. Sépale dorsal ové-lancéolé à linéaire-lancéolé, aigu, les latéraux obliquement ovés-lancéolés, acuminés. Pétales rudimentaires, obliquement ovés, subaigus. Labelle linéaire-lancéolé, aigu, épais, base récurvée, touffe dense de longs poils sur la face adaxiale près du sommet, et plus bas, des poils courts le long des marges. - Pl. 65, p. 135.
+7-18 cm, 12-32-flowered. Flowers medium-sized, tepals glabrous: sepals yellowish to greenish, often spotted with red-purple, petals pale greenish, labellum yellowish or greenish marked with red-purple with hairs, white at the base and red at the apex. Dorsal sepal ovate-lanceolate to linear-lanceolate, acute, lateral ones obliquely ovate-lanceolate, acuminate. Petals rudimentary, obliquely ovate, subacute. Labellum linear-lanceolate, acute, thick, base recurved, dense tuft of long hairs on the adaxial face near the apex, and lower down, short hairs along the margins. - Pl. 65, p. 135.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Nigeria, Cameroun, Centrafrique, Congo (Brazzaville), Gabon, Congo (Kinshasa)
+Sierra Leone, Liberia, Côte d'Ivoire, Nigeria, Cameroon, Central African Republic, Congo (Brazzaville), Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 0-900 m. Épiphyte sur le tronc et à la couronne des arbres en forêt primaire sempervirente et semidécidue
+alt. 0-900 m. Epiphytic on the trunk and in the crown of trees in primary evergreen and semi-deciduous forest
 
 ## Specimens examined
 

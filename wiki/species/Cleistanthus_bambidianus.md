@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 3, 33(2) : 234 (2011). Arbuste ou arbre, 10–20 m de hauteur ; tronc 7-25 cm de diamètre ; ramilles tomenteuses à glabrescentes. Stipules tôt caduques, étroitement ovales-elliptiques à triangulaires, 6–13 mm de longueur. Feuille : pétiole (2–)3–4(–6) mm, tomenteux ; limbe oblong-elliptique, (5–)9–14 × (1,5–)3–5 cm, arrondi à subcordé à la base, sommet acuminé sur 0,5–2,5 cm ; nervures latérales 5–8 paires, velues dessous. Inflorescence ± sessile , pauciflore (< 10 fleurs), ± tomenteuse ; bractées ovales à circulaires, concaves, 6–7 × 4–7 mm ; bractéoles étroitement triangulaires, 4–5 mm de longueur. Fleur mâle : pédicelle 3–4 mm, tomentelleux ; sépales étroitement triangulaires, 7 × 2–3 mm, tomentelleux à l’extérieur ; pétales oblancéolés, ± 1 mm de longueur ; étamines 6–8, anthères 2 mm de longueur ; disque pubescent ; androgynophore 1–2 mm ; pistillode velouté. Fleur femelle : pédi celle 0–1 mm , tomentelleux ; sépales étroitement triangulaires, 7–9 × 1,5–3 mm ; pétales étroitement elliptiques, 1–3 mm de longueur ; disque mince, glabre à l’extérieur, velouté à l’intérieur ; ovaire 4,5–5 mm de longueur, velouté ; styles divisés environ 3 fois , 1–1,5 mm de longueur. Fruit trilobé , ± 1 × 1–1,5 cm, velouté , avec calice persistant . Graines immatures luisantes.
+Adansonia, sér. 3, 33(2): 234 (2011). Shrub or tree, 10–20 m tall; trunk 7–25 cm in diameter; branchlets tomentose to glabrescent. Stipules early caducous, narrowly ovate-elliptic to triangular, 6–13 mm long. Leaf: petiole (2–)3–4(–6) mm, tomentose; blade oblong-elliptic, (5–)9–14 × (1.5–)3–5 cm, rounded to subcordate at base, apex acuminate over 0.5–2.5 cm; lateral veins 5–8 pairs, hairy beneath. Inflorescence ± sessile, pauciflorous (< 10 flowers), ± tomentose; bracts ovate to circular, concave, 6–7 × 4–7 mm; bracteoles narrowly triangular, 4–5 mm long. Male flower: pedicel 3–4 mm, tomentellous; sepals narrowly triangular, 7 × 2–3 mm, tomentellous outside; petals oblanceolate, ± 1 mm long; stamens 6–8, anthers 2 mm long; disk pubescent; androgynophore 1–2 mm; pistillode velvety. Female flower: pedicel 0–1 mm, tomentellous; sepals narrowly triangular, 7–9 × 1.5–3 mm; petals narrowly elliptic, 1–3 mm long; disk thin, glabrous outside, velvety inside; ovary 4.5–5 mm long, velvety; styles divided approximately 3 times, 1–1.5 mm long. Fruit trilobed, ± 1 × 1–1.5 cm, velvety, with persistent calyx. Seeds immature, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue de l’Ogooué-Ivindo et l’Ogooué-Lolo
+endemic to Gabon, known from Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; à 200–500 m d’altitude. b : Breteler (2011b). ibliographie
+primary and secondarised forest; at 200–500 m altitude. b: Breteler (2011b). Bibliography
 
 ## Notes
 

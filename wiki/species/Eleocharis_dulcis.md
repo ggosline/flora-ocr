@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, vivace, stolonifère ; stolons de 30 cm × 6 mm, à nœuds espacés de 3‒8 cm, produisant parfois des bulbes sphériques–aplatis comestibles ; tiges de 40‒120 cm × 4‒8 mm , arrondies et creuses, transversalement cloisonnées à intervalles de 3‒10 cm , striées longitudinalement. Feuille : gaine grisâtre à brune, se terminant par un lobe triangulaire avec une étroite marge transparente. Inflorescence en épillet unique ; bractées petites. Épillet lancéolé–cylindrique, de 25‒50 × 2‒6 mm , plus étroit que la tige (les tiges terminées par une cicatrice portant un épillet avorté) ; glumes inférieures écailleuses, beaucoup plus courtes que les supérieures, longues de 4–6,5 mm, très épaisses et se chevauchant fortement, brun pâle ou jaune paille , avec une marge membraneuse, arrondies au sommet, nervure centrale faible au moins celles des glumes mûres. Fleur : périanthe à environ 7 soies longues et fines, densément garnies de courtes dents épineuses recourbées ; étamines 3, anthères allongées, apiculées ; style à 2 ou 3 branches. Akène lisse, long de 1,7‒2 mm ; appendice long, triangulaire, brun.
+Robust, perennial herb, stoloniferous; stolons 30 cm × 6 mm, with nodes spaced 3–8 cm apart, sometimes producing spherical–flattened edible bulbs; stems 40–120 cm × 4–8 mm, rounded and hollow, transversely septate at intervals of 3–10 cm, longitudinally striated. Leaf: sheath greyish to brown, terminating in a triangular lobe with a narrow transparent margin. Inflorescence in a single spikelet; bracts small. Spikelet lanceolate–cylindric, 25–50 × 2–6 mm, narrower than the stem (stems terminated by a scar bearing an abortive spikelet); lower glumes scaly, much shorter than the upper ones, 4–6.5 mm long, very thick and strongly overlapping, pale brown or straw-coloured, with a membranous margin, rounded at the apex, central nerve weak at least in the mature glumes. Flower: perianth with about 7 long and fine bristles, densely furnished with short curved spiny teeth; stamens 3, anthers elongate, apiculate; style with 2 or 3 branches. Achene smooth, 1.7–2 mm long; appendage long, triangular, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les tropiques de l’Ancien Monde, y compris la Chine et le Japon ; dispersée au Gabon, trouvée seulement dans la Ngounié et l’OgoouéMaritime (5 récoltes) ; d’introduction possible au Gabon pour les bulbes comestibles
+Widely distributed in the tropics of the Old World, including China and Japan; scattered in Gabon, found only in Ngounié and Ogooué-Maritime (5 collections); possible introduction to Gabon for the edible bulbs
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les eaux peu profondes au bord des rivières et des lacs ; au Gabon, près du niveau de la mer et à basse altitude, jusqu’à 2170 m en Afrique de l’Est
+In shallow waters at the edge of rivers and lakes; in Gabon, near sea level and at low altitude, up to 2170 m in East Africa
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ châtaigne d’eau, châtaigne d’eau chinoise (fr.) ; Chinese waterchestnut (a
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement cultivée pour ses bulbes comestibles. Sucrés avec un léger goût de noisette, ils sont riches en amidon et peuvent être mangés crus ou cuits. Les tiges peuvent être utilisées pour le tissage. Note taxonomique : se reconnaît facilement à ses tiges robustes arrondies et creuses avec des cloisons transversales. Elle ne ressemble à aucune autre espèce africaine. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+Widely cultivated for its edible bulbs. Sweet with a slight hazelnut flavour, they are rich in starch and can be eaten raw or cooked. The stems can be used for weaving. Taxonomic note: easily recognized by its robust rounded hollow stems with transverse septa. It resembles no other African species. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
 ## Notes
 

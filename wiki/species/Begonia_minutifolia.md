@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb 10–40 cm tall; stem often branched 3–5 times, hirsute. Stipules minute and scarcely persistent, narrowly ovate, 0.7–4 mm long, with 1–10 small setiferous teeth. Leaf: petiole 0.5–3 mm, pubescent; blade narrowly ovate to obovate, (9–)15–30(–45) × 4–18 mm, base distinctly asymmetric, one side cuneate, the other side more developed and auriculate, apex acute, margin dentate or bidentate, almost glabrous on both surfaces. Inflorescence with 1–2(–3) ♂ flowers and 1 ♀ flower; peduncle very short, 1–2 mm; bracts 1–4 mm long, moderately persistent. ♂ Flower: pedicel 2–4 mm, glabrous; tepals elliptic to ovate, 2–5 × 1–3 mm, white with pink apex and margin; stamens 5–12. ♀ Flower almost sessile; tepals similar to those of ♂ flowers; ovary circular to broadly elliptic, 2.5–3 × 2 mm including the 3 subequal wings; styles 3, 2–2.5 mm, stigmas erect, lunulate. Fruit nodding on a peduncle reaching 7 mm, circular to broadly ovate, 5–9 × 3.5–8.5 mm, the 3 wings rounded, apex truncate or shortly rostrate for 0.5 mm.
 
-Herbe de 10–40 cm de hauteur ; tige souvent ramifiée 3–5 fois , hirsute. Stipules minuscules et peu persistantes, étroitement ovales, 0,7–4 mm de longueur, à 1–10 petites dents sétifères. Feuille : pétiole de 0,5–3 mm, pubescent ; limbe étroitement ovale à obovale, (9–)15–30(–45) × 4–18 mm, base nettement asymétrique, un côté cunéiforme, l’autre côté plus développé et auriculé, sommet aigu, marge dentée ou bidentée, presque glabre sur les deux faces . Inflorescence à 1–2(–3) fleurs ♂ et 1 fleur ♀ ; pédoncule très court, 1–2 mm ; bractées longues de 1–4 mm, moyennement persistantes. Fleur ♂ : pédicelle de 2–4 m, glabre ; tépales elliptiques à ovales, 2–5 × 1–3 mm, blancs avec l’apex et la marge roses ; étamines 5–12. Fleur ♀ presque sessile ; tépales semblables à ceux des fleurs ♂ ; ovaire circulaire à largement elliptique, 2,5–3 × 2 mm y compris les 3 ailes subégales ; styles 3, 2–2,5 mm, stigmates dressés, lunulés. Fruit penché sur un pédoncule atteignant 7 mm, circulaire à largement ovale , 5–9 × 3,5–8,5 mm, les 3 ailes arrondies, sommet tronqué ou courtement rostré sur 0,5 mm.
-
-Stipule (longue de 3 mm). – 4. Androcée (haut de 3,3 mm). – 5. Styles et stigmates (haut de 2,5 mm). – 6. Fruit mûr (large de 8 mm). – 7. Graine (de 0,3 mm). (1-7 : N. Hallé 5223 ) . Dessin par N H et reproduit avec sa permission. ICOLAS ALLÉ
+Stipule (3 mm long). – 4. Androecium (3.3 mm tall). – 5. Styles and stigmas (2.5 mm tall). – 6. Mature fruit (8 mm wide). – 7. Seed (0.3 mm). (1-7: N. Hallé 5223). Drawing by N. H. and reproduced with his permission. NICOLAS HALLÉ
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, limitée aux Monts de Cristal
+endemic to Gabon, restricted to the Cristal Mountains
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pentes boisées en forêts denses humides entre 500 m et 700 m d’altitude ; formant localement des populations assez importantes. B : Hallé (1972). IBLIOGRAPHIE
+wooded slopes in dense humid forests between 500 m and 700 m altitude; forming locally fairly substantial populations. B: Hallé (1972). BIBLIOGRAPHY
 
 ## Notes
 

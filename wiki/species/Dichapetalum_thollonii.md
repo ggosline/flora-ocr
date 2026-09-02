@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+BRETELER, MLW 73 (13): 33, XX (1973); l.c. 79 (16): 8 (1979); l.c. 81 (10): 38 (1981); l.c. 82 (8): 47-51 (1982); AUWP 86 (3): 3, 17, 38 (1986). TYPE: Congo, Brazzaville, Thollon 512 bis (holo, P).
 
-BRETELER, MLW 73 (13) : 33, XX (1973) ; l.c. 79 (16) : 8 (1979) ; l.c. 81 (10) : 38 (1981) ; l.c. 82 (8) : 47-51 (1982) ; AUWP 86 (3) : 3, 17, 38 (1986). TYPE : Congo, Brazzaville, Thollon 512 bis (holo, P).
+Liane, lianescent shrub or shrub. Stems provided with lenticels, some numerous and small, others more rare, very distinct, elongated transversely and narrow. Young branches hollow, smooth or provided with small pustulous lenticels fairly inconspicuous and with sparse pubescence initially, then soon glabrous.
 
-Liane, arbuste lianescent ou arbuste. Tiges munies de lenticelles, les unes nombreuses et petites, les autres plus rares, très distinctes, allongées transversalement et étroites. Jeunes rameaux creux, lisses ou munis de petites lenticelles pustuleuses assez peu visibles et d'une pubescence éparse au début, puis tôt glabres.
+Stipules triangular, 1-2 mm long, caducous; pubescence none to sparse.
 
-Stipules triangulaires, longues de 1-2 mm, caduques ; pubescence nulle à éparse.
+Leaves. Petiole cylindrical to hemicylindrical, furrowed above or not, (1) 2-4 (6) mm long and (2) 4-7 (10) mm when fused to the peduncle, sparse pubescence initially and soon caducous. Lamina generally coriaceous, elliptic to ovate, 1.5-2.5 times longer than wide, (4) 7-17 (23) × (3) 4-7 (10) cm; base obtuse to rounded, sometimes cuneate or bent; acumen most often weakly marked and rounded to obtuse, 0.5-1 (1.5) cm long; margin of adult leaves generally revolute; pubescence of young leaves most often sparse on both sides of midvein I and the 5-7 pairs of main secondary veins II, then soon caducous; midvein I impressed above, prominent below; glands of large diameter 0.3-1 mm, clearly visible, generally only on the lower surface, scattered or ± concentrated along midvein I and the margin.
 
-Feuilles. Pétiole cylindrique à hémicylindrique, sillonné dessus ou non, long de (1) 2-4 (6) mm et de (2) 4-7 (10) mm quand il est soudé au pédoncule, pubescence éparse au début et tôt caduque. Limbe en général coriace, elliptique à ové, 1,5-2,5 fois plus long que large, (4) 7-17 (23) × (3) 4-7 (10) cm ; base obtuse à arrondie, parfois cunée ou coudée ; acumen le plus souvent peu marqué et arrondi à obtus, long de 0,5-1 (1,5) cm ; marge des feuilles adultes en général révolutée ; pubescence des jeunes feuilles le plus souvent éparse sur les deux faces de la nervure I et des 5-7 paires principales de nervures II, puis tôt caduque ; nervure I imprimée dessus, proéminente dessous ; glandes de grand diamètre 0,3-1 mm, bien visibles, en général seulement à la face inférieure, dispersées ou ± concentrées le long de la nervure I et de la marge.
+Inflorescences subumbelliform, ≈ 20-flowered, with 3-4 rather vague orders of branching; pubescence appressed sparse to none. Peduncle fused to the petiole, rarely free, shorter than it, 2-6 (8) mm long. Bracts and bracteoles subtriangular, ≤ 0.5 mm long. Pedicel ≤ 3.5 mm, upper part ≤ 1.5 mm.
 
-Inflorescences subombelliformes, ≈ 20-flores, avec 3-4 ordres assez vagues de ramification ; pubescence apprimée éparse à nulle. Pédoncule soudé au pétiole, rarement libre, plus court que celui-ci, long de 2-6 (8) mm. Bractées et bractéoles subtriangulaires, longues de ≤ 0,5 mm. Pédicelle ≤ 3,5 mm, partie supérieure ≤ 1,5 mm.
+Flowers. Sepals erect or nearly so, of very variable form and size, ovate to oblong to obovate, 3-5.5 × 1.5-3 mm, fairly thick, concave when fresh; exterior tomentellous on the parts covered in the bud, the others glabrous to provided with sparse and appressed puberulence; interior tomentellous to puberulent especially in the upper part. Petals erect, generally somewhat longer than the stamens, shortly fused by their base to the filaments, narrowly obovate to linear, 5.5-8 mm long, split for 0.5 (1.5) mm; external pubescence tomentellous, dense to sparse; that of the interior similar, sparse and present especially on the central thickening. Stamens erect, 5-7 mm long, glabrous; anthers straight to somewhat curved, 0.7-1 mm long. Staminodes generally separate, rarely forming a ± continuous lobed ring, subquadrate to oblong, 0.5-0.7 × 0.3-0.5 mm; exterior glabrous, interior often pubescent. Pistil 3-merous, generally somewhat longer than the petals and clearly longer than the stamens, 6.5-8 mm long; ovary 3-locular, covered with dense to woolly tomentum; style glabrous or tomentose in the lower part, terminated by 3 short lobes most often < 0.5 mm.
 
-Fleurs. Sépales dressés ou presque, de forme et de taille très variables, ovés à oblongs à obovés, 3-5,5 × 1,5-3 mm, assez épais, concaves à l'état frais ; extérieur tomentelleux sur les parties couvertes dans le bouton, les autres étant glabres à munies d'une pubérulence éparse et apprimée ; intérieur tomentelleux à pubérulent surtout à la partie supérieure. Pétales dressés, en général un peu plus longs que les étamines, courtement soudés par leur base aux filets, étroits obovés à linéaires, longs de 5,5-8 mm, fendus sur 0,5 (1,5) mm ; pubescence externe tomentelleuse, dense à éparse ; celle de l'intérieur semblable, éparse et présente surtout sur l'épaississement central. Étamines dressées, longues de 5-7 mm, glabres ; anthères droites à un peu courbées, longues 0,7-1 mm. Staminodes généralement séparés, formant rarement un anneau lobé ± continu, subcarrés à oblongs, 0,5-0,7 × 0,3-0,5 mm ; extérieur glabre, intérieur souvent pubescent. Pistil 3-mère, en général un peu plus long que les pétales et nettement plus que les étamines, long de 6,5-8 mm ; ovaire 3-loculaire, couvert d'un tomentum dense à laineux ; style glabre ou tomentaux dans la partie inférieure, terminé par 3 lobes courts le plus souvent < 0,5 mm.
+Fruits 1 (2)-seeded (aborted locules marked by a ± distinct ridge), oblique and ellipsoidal to ovoid, somewhat laterally compressed, $ 4-6 \times 2-3 $ cm, often terminated by a short beak, yellow to orange at maturity, puberulent-tomentellous; exocarp firm, 1.5-4 (6) mm thick; mesocarp succulent somewhat fibrous, 1-4 mm thick; endocarp chartaceous, shining and glabrous within. Seed ovoid-ellipsoidal, somewhat pointed at the apex, often laterally compressed and somewhat impressed between the cotyledons, $ 3-4 \times 1.2-1.5 $ cm; testa thin, brown, shining, distinctly veined.
 
-Fruits 1 (2)-spermes (loges avortées marquées part une crête ± nette), obliques et ellipsoïdaux à ovoïdes, un peu comprimés latéralement,  $ 4-6 \times 2-3 $ cm, souvent terminés par un bec court, jaunes à oranges à maturité, pubérulents-tomentelleux ; exocarpe ferme, épais de 1,5-4 (6) mm ; mésocarpe succulent un peu fibreux, épais de 1-4 mm, endocarpe parcheminé, brillant et glabre à l'intérieur. Graine ovoïde-ellipsoïdale, un peu en pointe au sommet, souvent comprimée latéralement et un peu imprimée entre les cotylédons,  $ 3-4 \times 1,2-1,5 $ cm ; testa mince, brun, luisant, nettement veiné.
-
-Plantules : premières feuilles alternes. - Pl. 52, p. 175.
+Seedlings: first leaves alternate. - Pl. 52, p. 175.
 
 ## Type
 
@@ -41,15 +39,11 @@ Thollon 512 bis, Brazzaville, Congo
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Congo, Ouest Zaïre, Angola (Cabinda)
+Gabon, Congo, West Zaire, Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+sempervirescent and semi-deciduous rainforests
 
 ## Specimens examined
 

@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+SCHELLENBERG, PR 103 (4, 127): 79 (1938); TROUPIN, FCBR 3: 111 (1952); JONGKIND, in BRETELER (ed.), AUWP 89 (6): 160 (1989). TYPE: Zaïre, Monbuttu-land, Kibali, Schweinfurth 3537 (holo-B delet.). NEOTYPE: Zaïre, Doruma, De Graer 587 (holo-BR).
 
-SCHELLENBERG, PR 103 (4, 127): 79 (1938); TROUPIN, FCBR 3: 111 (1952); JONGKIND, in BRETELER (éd.), AUWP 89 (6): 160 (1989). TYPE: Zaïre, Monbuttu-land, Kibali, Schweinfurth 3537 (holo-B delet.). NÉOTYPE: Zaïre, Doruma, De Graer 587 (holo-BR).
+Large liana reaching 20 m. Phloem intraxylary often present. Branches glabrous, often distinctly grooved; young branches puberulent.
 
-Grande liane pouvant atteindre 20 m. Phloème intraxylaire souvent présent. Rameaux glabres, souvent nettement cannelés ; jeunes rameaux pubérulents.
+Leaves. Petiole 2–15 cm long, rachis 0.5–5 cm; petiolules 2–8 mm long; leaflets 3, ovate to elliptic with approximately palmate venation; adult leaflets glabrous or nearly so; major lateral nerves, 3–5 pairs, the basal pair larger than the others but not always beginning exactly at the base of the limb; apex (slightly) acuminate; terminal leaflet 5–23 × 2.5–11 cm, lateral leaflets 3.5–23 × 2–11 cm, ± asymmetric. – Pl. 11, 3–5, p. 41.
 
-Feuilles. Pétiole long de 2-15 cm, rachis 0,5-5 cm ; pétioules longs de 2-8 mm ; folioles 3, ovées à elliptiques avec une nervation ≈ palmée ; folioles adultes glabres ou presque ; grandes nervures latérales,
+Inflorescences reaching 15 (–35) cm, often one or more together at the end of a leafy branch and resembling a terminal inflorescence, puberulent.
 
-3-5 paires, la paire basale plus grande que les autres mais ne commençant pas toujours exactement à la base du limbe ; sommet (légèrement) acuminé ; foliole terminale  $ 5-23 \times 2,5-11 $ cm, folioles latérales  $ 3,5-23 \times 2-11 $ cm, ± asymétriques. - Pl. 11, 3-5, p. 41.
+Flowers heterotristylous. Sepals 3–4.5 × ≈ 1 mm, fringed with multicellular hairs, outer face puberulent. Petals 3.5–5 × 1 mm, often connivent near the base. Stamens: the large ones 3.5 mm long and the small ones 1–2.5 mm long. Pistil 1–4.5 mm long, unequal to the stamens; style pubescent; ovary velutinous.
 
-Inflorescences pouvant atteindre 15 (-35) cm, souvent une ou plusieurs ensemble à l'extrémité d'un rameau feuillé et ressemblant à une inflorescence terminale, pubérulente.
+Fruits. Follicles, 1–5 per flower, 15–20 × 8–10 mm, with coarse protuberances, red, velutinous.
 
-Fleurs hétérotristylées. Sépales 3-4,5 × ≈ 1 mm, frangés de poils multicellulaires, face externe pubérulente. Pétales 3,5-5 × 1 mm, souvent connivents près de la base. Étamines : les grandes longues de 3,5 mm et les petites de 1-2,5 mm. Pistil long de 1-4,5 mm, inégal aux étamines ; style pubescent ; ovaire velouté.
-
-Fruits. Follicules, 1-5 par fleur, 15-20 × 8-10 mm, avec des protubérances grossières, rouges, veloutés.
-
-Graines 10-15 × 7 mm ; testa charnu pour environ un quart, jaune à rouge, la portion fine étant noire et luisante. - Pl. 12, p. 43.
+Seeds 10–15 × 7 mm; testa fleshy for approximately one quarter, yellow to red, the fine portion being black and shiny. – Pl. 12, p. 43.
 
 ## Type
 
@@ -41,15 +37,11 @@ De Graer 587, Kibali, Monbuttu-Land, Zaïre
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique centrale et Principe
+Central Africa and Príncipe
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles et galeries forestières ; alt. 0-1000 m
+Rainforests and forest galleries; alt. 0–1000 m
 
 ## Specimens examined
 

@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, Nachtr. 3 : 206 (1907); in ENGL., Pflanzenreich, Sapindaceae : 1141 (1933).
 
-Arbres atteignant 10 m de hauteur, dont les feuilles peuvent mesurer jusqu'à 1,20 m avec 5-6 paires de folioles, les plus grandes ayant  $ 42 \times 18 $ cm avec 13-14 paires de nervures (LETOUZEY), non fermées; nervures de  $ 3^\text{e} $ et  $ 4^\text{e} $ ordre visibles, mais sans relief très marqué dessous; couleur vert foncé dessus, plus pâle dessous.
+Trees reaching 10 m in height, with leaves that can measure up to 1.20 m with 5–6 pairs of leaflets, the largest having $ 42 \times 18 $ cm with 13–14 pairs of veins (LETOUZEY), not closed; veins of $ 3^\text{rd} $ and $ 4^\text{th} $ order visible, but without very pronounced relief beneath; dark green in color above, paler beneath.
 
-Infrutescence dressée, atteignant 1 m; fruits longs de 4 cm, velus très ras à l'extérieur, jaunes; épiderme intérieur des valves rouge. Graine à couche cireuse rouge. PL. 38, 1-7', p. 167.
+Infructescence erect, reaching 1 m; fruits 4 cm long, sparsely pubescent on the exterior, yellow; inner epidermis of the valves red. Seed with red waxy layer. PL. 38, 1–7', p. 167.
 
 ## Type
 
@@ -32,11 +30,9 @@ Mildbraed 2202, Fort Beni près Muera, Zaïre
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species confined to southern Cameroon and possibly to Gabon.
 
-Espèce confinée au Sud Cameroun et peut-être au Gabon.
-
-Signalée aussi au centre du Zaïre et dans la région de l'Ituri, cette espèce pourrait étendre son aire au Cameroun et au Gabon où elle n'a pas encore été vue.
+Also reported from central Zaire and the Ituri region, this species could extend its range to Cameroon and Gabon where it has not yet been observed.
 
 ## Vernacular names
 

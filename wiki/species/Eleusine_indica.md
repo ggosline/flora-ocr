@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb with base more or less prostrate; culms geniculate then erect, up to about fifty centimeters tall. Leaves numerous, gathered at the base, distichous with flattened and imbricate sheaths, ciliate on the margins. Ligule membranous, short, fimbriate. Blades linear acuminate, 15 to 30 cm long and more and 3 to 6 mm wide, spreading or folded, mostly glabrous.
 
-Herbe annuelle à base plus ou moins prostrée ; chaumes géniculés puis dressés, jusqu'à environ une cinquantaine de centimètres
+2 to 4 racemes, digitate at the apex of the culms and often with one or two others inserted a little lower. Rachis pubescent at the base. Spikelets 3 to 4 mm long, glumes and lemmas ovate lanceolate, lemmas about 4 mm long, spikelets disarticulating above the glumes.
 
-de haut. Feuilles nombreuses, rassemblées à la base, distiques à gaines aplaties et imbriquées, ciliées sur les bords. Ligule membraneuse courte, fimbriée. Limbes linéaires acuminés, de 15 à 30 cm de long et plus et de 3 à 6 mm de large, étalés ou repliés, le plus souvent glabres.
-
-De 2 à 4 racèmes, digités au sommet des chaumes et avec souvent un ou deux autres insérés un peu plus bas. Rachis pubescent à la base. Épilets de 3 à 4 mm de long, glumes et lemmas ovales lancéolées, lemmas d'environ 4 mm de long, épilets se désarticulant au dessus des glumes.
-
-Herbe rudérale très nitrophile, fréquente au bord des chemins, autour des villages, des parcs à bétail et dans tous les endroits piétinés. Excellent fourrage pour les chevaux, mais peu recherché par les bovins. Banale dans toute l'Afrique tropicale.
+Very nitrophilous ruderal herb, frequent along roadsides, around villages, cattle pens and in all trampled places. Excellent forage for horses, but little sought after by cattle. Commonplace throughout tropical Africa.
 
 ## Vernacular names
 

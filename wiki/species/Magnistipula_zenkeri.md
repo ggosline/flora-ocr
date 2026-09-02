@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 173 (1951); WHITE, BJBB 46 : 293 (1976).
 
 — Parinari versicolor ENGL., Bot. Jahrb. 46 : 142 (1911); Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 176 et 196 (1951).
@@ -33,13 +31,11 @@ Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 173 (1951); WHITE, BJBB 46 
 
 — Magnistipula fleuryana (A. CHEV.) HAUM., BJBB 21 : 175 (1951); AUBR., FFCI, ed. 2, 1 : 188, tab. 59, fig. 8-10 (1959).
 
-Arbre atteignant 30-35 m de hauteur et 80-100 cm de diamètre; parfois arbusté de 5-6 m de hauteur et pouvant former cépée de quelques tiges. Rhytidome verdâtre-orangé avec petites lenticelles. Écorce granuleuse; section oblique orangée pâle avec pointillé orangé sur jeunes tiges, rougeâtre avec pointillé rouge sur tiges âgées, à odeur de canne à sucre. Branches étalées retombantes. Rameaux glabres lenticelles et parfois fendillés longitudinalement. Jeunes rameaux pubérulents puis rapidement glabres. Stipules lancéolées (1,5 × 10 mm) à ± dissymétriquement ovales (3-6 × 8-15 mm), souvent avec poils hispidules couchés vers le haut puis glabrescentes; parfois stipules foliacées analogues à ces dernières, atteignant 12-35 × 18-40 mm, pouvant se trouver vers l'extrémité de rameaux fleuris portant vers la base des stipules petites et lancéolées. Pétiole 2-5 mm, pubérulent puis rapidement glabre. Limbe elliptique oblong, atteignant 13-22 × 26-44 cm mais souvent de taille moindre (8 × 20 cm), parfois légèrement obovale; base cordée à profondément cordée, exceptionnellement largement cunéiforme, parfois obtuse à arrondie; sommet exceptionnellement aigu, en général obtus, non acuminé ou brièvement (0,5 × 1 cm) ou largement
+Tree reaching 30-35 m in height and 80-100 cm in diameter; sometimes shrubby 5-6 m in height and capable of forming a coppice with several stems. Rhytidome greenish-orange with small lenticels. Bark granular; oblique section pale orange with orange stippling on young stems, reddish with red stippling on old stems, with the odor of sugar cane. Branches spreading, drooping. Twigs glabrous with lenticels and sometimes longitudinally fissured. Young twigs puberulent then rapidly glabrous. Stipules lanceolate (1.5 × 10 mm) to ± asymmetrically ovate (3–6 × 8–15 mm), often with hispidulous hairs directed upward then glabrescent; sometimes foliaceous stipules analogous to these, reaching 12–35 × 18–40 mm, potentially occurring toward the apex of flowering branches bearing at the base small lanceolate stipules. Petiole 2–5 mm, puberulent then rapidly glabrous. Blade elliptic-oblong, reaching 13–22 × 26–44 cm but often smaller (8 × 20 cm), sometimes slightly obovate; base cordate to deeply cordate, exceptionally broadly cuneiform, sometimes obtuse to rounded; apex exceptionally acute, generally obtuse, not acuminate or shortly (0.5 × 1 cm) or broadly acuminate (1.5 × 1.5 cm); midvein puberulent then rapidly glabrous below; lateral veins (6–8–11(–12) pairs, inclined at 45° to the midvein; blade glabrous; large circular glands toward the base of the blade below, on either side of the midvein, similar circular glands toward the upper part of it and possibly beneath the acumen.
 
-(1,5 × 1,5 cm); nervure médiane pubérulente puis rapidement glabre dessous; nervures latérales (6-8-11(-12) paires, inclinées à 45° sur la nervure médiane; limbe glabre; grosses glandes circulaires vers la base du limbe dessous, de part et d'autre de la nervure médiane, de même glandes circulaires vers le haut de celle-ci et éventuellement sous l'acumen.
+Terminal panicles reaching up to 40 cm in height, covered with golden-brown tomentellum to the interior of the sepals, formed of racemes with robust axis measuring up to 20 cm in length, sometimes bearing abortive foliaceous bracts at the base, these racemes rarely once briefly branched in their lower portion. Bracts ± broadly lanceolate, 3–4 × 6–12 mm, sometimes narrow (2 × 12 mm), often provided at the base with 2 large lateral crater-shaped glands, rarely accompanied by 2 reduced glands higher up. Cymes subsessile, exceptionally with pedicel reaching 5 mm, formed of a few flowers and bearing lanceolate ± elongated bracteoles, 1–1.5 × 3–8 mm; pedicels very short not exceeding 2 mm to the articulation. Receptacle purple, subsessile (less than 2.5 mm) above the articulation, obconic, 8–12 mm in height but bent-angled toward the apex 4–6 mm in width, furnished internally with long downward-directed hairs; floral bud acute; sepals ovate-triangular, sometimes apiculate, reaching 3 × 6 mm for the smallest and 5 × 9 mm for the largest, often provided laterally, on the bases exposed to the exterior in the bud, with a large circular gland; petals pale blue-purple (then white?), first sub-orbicular in the bud (3–4 × 3.5–4.5 mm) then elongately obovate, 8 × 18 mm, with cuneiform base and rounded apex, early deciduous; stamens (6–7), curved, 6–10 mm long; staminodial tongue ± divided toward the apex into (3–5–8) branches, erect and ± curved outward at the apex, 3–7 mm high; ovary ovoid, 1 × 2 mm, densely covered with golden-yellow hispid hairs reaching 2 mm in height; style curved, 8–10 mm long.
 
-Panicules terminales pouvant atteindre jusqu'à 40 cm de hauteur, couvertes d'un tomentellum brunâtre doré jusqu'à l'intérieur des sépales, formées de racèmes à axe robuste mesurant jusqu'à 20 cm de longueur, parfois garnis de bractées foliacées avortées à la base, ces racèmes rarement 1 fois brièvement ramiﬁés dans leur partie inférieure. Bractées ± largement lancéolées, 3-4 × 6-12 mm, parfois étroites (2 × 12 mm), souvent pour-vues à la base de 2 grosses glandes latérales cratériformes, rarement accompagnées de 2 glandes réduites plus haut. Cymes subsessiles, exceptionnellement avec pédoncule atteignant 5 mm, formées de quelques ﬂeurs et garnies de bractéoles lancéolées ± allongées, 1-1,5 × 3-8 mm; pédicelles très courts ne dépassant pas 2 mm jusqu'à l'articulation. Réceptacle pourpre, subsessile (moins de 2,5 mm) au-dessus de l'articulation, obconique, haut de 8-12 mm mais courbé-coudé vers le sommet de 4-6 mm de largeur, garni intérieurement de longs poils dirigés vers le bas; bouton floral aigu; sépales ovales triangulaires, parfois apiculés, atteignant 3 × 6 mm pour les plus petits et 5 × 9 mm pour les plus grands, souvent munis latéralement, sur les bases exposées à l'extérieur dans le bouton, d'une grosse glande circulaire; pétales bleu pourpré pâle (puis blancs?), d'abord sub-orbiculaires dans le bouton (3-4 × 3,5-4,5 mm) puis longuement obovales, 8 × 18 mm, avec base cunéiforme et sommet arrondi, tôt caduc; étamines (6-7), courbées, longues de 6-10 mm; languette staminodiale ± divisée vers le haut en (3-5-8 branches, dressée et ± courbée vers l'extérieur au sommet, haute de 3-7 mm; ovaire ovoïde, 1 × 2 mm, densément couvert de poils hispides jaune doré atteignant 2 mm de hauteur; style courbé, long de 8-10 mm.
-
-Fruits peu nombreux par infrutescence; pédoncule fructifère robuste, 2 cm, garni au sommet des sépales réfléchis; jeunes drupes dressées, rapidement glabres. Drupe ovoïde un peu oblique, 50 × 80 mm in vivo, 30 × 50 mm in sicco, arrondie aux 2 extrémités; péricarpe durci (subcharnu in vivo fide CHEVALIER, l.c. : 194), extérieurement vert et lisse, intérieurement garni de longues soies blanches enchevêtrées. Graine ovoïde, 25-30 × 50-60 mm in vivo, tégument membraneux couvert de poils blancs apprimés. — PL. 28, p. 95.
+Fruits few per infructescence; fruiting pedicel robust, 2 cm, furnished at the apex with reflexed sepals; young drupes erect, rapidly glabrous. Drupe ovoid somewhat oblique, 50 × 80 mm in vivo, 30 × 50 mm in sicco, rounded at both extremities; endocarp hardened (subfleshy in vivo fide CHEVALIER, l.c. : 194), externally green and smooth, internally furnished with long interwoven white bristles. Seed ovoid, 25–30 × 50–60 mm in vivo, tegument membranous covered with appressed white hairs. — PL. 28, p. 95.
 
 ## Type
 
@@ -47,37 +43,31 @@ Zenker 2469, Cameroun (holo-, B!; iso-, BR! E! K! P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES :
 
-Notes TAXONOMIQUES :
+HAUMAN (l.c. : 174) had already considered the synonymy between Hirtella fleuryana A. Chev. and Magnistipula zenkeri Engl.; this no longer seems to be in doubt at present, despite the disjunction of the range of this species between West Africa and Central Africa.
 
-HAUMAN (l.c. : 174) avait déjà envisagé la synonymie entre Hirtella fleuryana A. Chev.
+For HAUMAN also (l.c. : 176 et 196), the synonymy between Parinari versicolor Engl. and Magnistipula zenkeri Engl. seemed very probable. This is clearly confirmed by comparative examination of the isotype of the Kew herbarium of the first taxon (Tessmann 339!) and the isotype of the Paris herbarium of Magnistipula zenkeri Engl. (Zenker 2469!); it can be added that the specimen collected in 1911 by SCHULTZE under no. 6170 in herb. Mildbr., identified as Magnistipula zenkeri Engl. (HBG!), bears — in the hand of MILDBRAED — the note "= Parinari versicolor Engl."; this specimen seems moreover implicitly mentioned under the name Parinari versicolor Engl., as concerns Cameroon, by ENGLER in 1915 (cf. Pflanzenw. Afr. 3 (1): 308).
 
-et Magnistipula zenkeri Engl.; celle-ci ne semble plus devoir à présent être mise en doute, malgré la disjonction de l'aire de cette espèce entre Afrique occidentale et Afrique centrale.
+Magnistipula zenkeri Engl. is a species present on the one hand in Sierra Leone (Morton & Jarr 1957, WAG!), Liberia and Côte d'Ivoire, and on the other hand, in Cameroon, Equatorial Guinea and northern Gabon; it frequents especially it seems the banks of waterways and swampy zones in the forest region.
 
-Pour HAUMAN également (I.c. : 176 et 196), la synonymie entre Parinari versicolor Engl. et Magnistipula zenkeri Engl. paraissait très probable. Celle-ci se trouve nettement confirmée par l'examen comparatif de l'isotype de l'herbier de Kew du premier taxon (Tessmann 339!) et de l'isotype de l'herbier de Paris de Magnistipula zenkeri Engl. (Zenker 2469!) ; on peut ajouter que l'échantillon récolté en 1911 par SCHULTZE sous le n° 6170 in herb. Mildbr., identifié comme Magnistipula zenkeri Engl. (HBG!), porte — de la main de MILDBRAED — la mention « = Parinari versicolor Engl. »; cet échantillon semble d'ailleurs implicitement mentionné sous le nom de Parinari versicolor Engl., en ce qui concerne le Cameroun, par ENGLER en 1915 (cf. Pflanzenw. Afr. 3 (1): 308).
+De Wilde W. & al. 2270, Lobo, 50 km NW Yaoundé (fl., March).
 
-Magnistipula zenkeri Engl. est une espèce présente d'une part en Sierra Leone (Morton & Jarr 1957, WAG!), au Liberia et en Côte d'Ivoire, d'autre part, au Cameroun, en Guinée Équatoriale et dans le Nord du Gabon; elle fréquente surtout semble-t-il le bord des cours d'eau et les zones marécageuses en région forestière.
+Fleury in Chevalier 33367, Yelfoume near Douala (ster., June).
 
-De Wilde W. & al. 2270, Lobo, 50 km NW Yaoundé (fl., mars).
+Letouzey 11235, Bandounga, 40 km NW Ndikiniméki (ster., Feb.).
 
-Fleury in Chevalier 33367, Yelfoume près Douala (stér., juin).
+Schultze in Mildbraed 6170, N of Campo (fl., July) (HBG).
 
-Letouzey 11235, Bandounga, 40 km NW Ndikiniméki (stér., févr.).
+Zenker 2469 (fl., Dec.); 4525 (fl.) (LE, P); s.n. (year 1911) (type of "Magnistipula pallidiflora Engl." presumably) (fl.); Bipindi.
 
-Schultze in Mildbraed 6170, au N de Campo (fl., juill.) (HBG).
+To this species is assigned, with doubt, a specimen Letouzey 14244, sterile, originating from the submontane forest, around 1900 m, of the western slope of Mont Neshele (= Mba Mfeu, trigonometric point 2621 m), 10 km ESE Bamenda; this tree (reaching 1 m in diameter), with reddish-brown scaly rhytidome, has leaves measuring only 4.5 × 10 cm and lacking characteristic stipules; the presence of Magnistipula zenkeri in submontane forest would be worth verifying, but perhaps this is another species, or even another genus (Acioa?).
 
-Zenker 2469 (fl., déc.); 4525 (fl.) (LE, P); s.n. (ann. 1911) (type de « Magnistipula pallidiflora Engl. » vraisemblablement) (fl.); Bipindi.
-
-A cette espèce est rattaché, avec doute, un échantillon Letouzey 14244, stérile, prove- nant de la forêt submontagnarde, vers 1900 m, du versant occidental du Mont Neshele (= Mba Mfeu, point trigo. 2621 m), 10 km ESE Bamenda; cet arbre (atteignant 1 m de diamètre), à rhytidome écailleux brun-rougeâtre, a des feuilles ne mesurant que  $ 4,5 \times 10 $ cm et dépourvues de stipules caractéristiques; la présence de Magnistipula zenkeri en forêt submontagnarde serait à vérifier, mais peut-être s'agit-il d'une autre espèce, ou même d'un autre genre (Acioa?).
-
-Le Testu 9441, Acourenzorc, 20 km WNW Minvoul (fl., déc.); 9551, Assok Ekorité, région de Minvoul (fl., avr.) (BM, P); 9611, Mvomayo, 10 km S Oyem (fl., j. fr., juin).
+Le Testu 9441, Acourenzorc, 20 km WNW Minvoul (fl., Dec.); 9551, Assok Ekorité, Minvoul region (fl., Apr.) (BM, P); 9611, Mvomayo, 10 km S Oyem (fl., fr., June).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-CHEVALIER (l.c. : 194) signale que cette espèce, en Côte d'Ivoire, est myrméophile, de petites fourmis noires butinant la miellée secrétée par les glandes de l'inflorescence
+CHEVALIER (l.c. : 194) reports that this species, in Côte d'Ivoire, is myrmecophilous, small black ants foraging on the honeydew secreted by the glands of the inflorescence
 
 ## Vernacular names
 

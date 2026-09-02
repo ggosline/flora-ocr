@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree (or shrub?). Young branches bearing scattered hispid hairs, reaching 2 mm; internodes 2–3 cm, often furnished here and there with conoid or fusiform swellings, approximately 10–12 × 4 mm, presenting a perforation toward the base. Stipules?, apparently in the form of an elongate tongue, with acute apex, 12 × 1.5 mm, with appressed hispid hairs. Petiole thick, 1–3 mm, ± hispid. Blade glabrous, lanceolate to oblong-elliptic, sometimes slightly falcate, reaching up to 9–15 × 3.5–5 cm; base obtuse-rounded, almost always furnished with a constriction formed by 2 swollen lateral pouches, with margin recurved below, sometimes presenting internally a circular gland; apex acute, often furnished with a caudate pseudo-apicule bearing 2 small circular glands at the base; 6–8 pairs of curved lateral veins; rare small circular glands scattered beneath the blade, particularly on either side of the midvein.
 
-Arbre (ou arbuste?). Jeunes rameaux portant des poils hispides épars, atteignant 2 mm; entrenœuds de 2-3 cm, souvent garnis çà et là de renflements conoïdes ou fusiformes, environ  $ 10-12 \times 4 $ mm, présentant une perforation vers la base. Stipules?, apparemment sous la forme d'une languette allongée, à sommet aigu,  $ 12 \times 1.5 $ mm, avec poils hispides couchés. Pétiole épais, 1-3 mm, ± hispide. Limbe glabre, lancéolé à oblong-elliptique, parfois un peu falciforme, atteignant jusqu'à  $ 9-15 \times 3,5-5 $ cm; base obtuse-arrondie, presque toujours munie d'un rétrécissement formé de 2 pochettes latérales renflées, à bord retourné au-dessous, présentant parfois intérieurement une glande circulaire; sommet aigu, souvent garni d'un pseudo-apicule caudé muni de 2 petites glandes circulaires à la base; 6-8 paires de nervures latérales courbées; rares petites glandes circulaires éparses sous le limbe, particulièrement de part et d'autre de la nervure médiane.
+Inflorescences in terminal panicle, little branched, approximately 15 cm tall and approximately 10 cm wide, with lower axes furnished with an axillant leaf and upper axes with very reduced elongate foliaceous bract; axes sparsely hispid and bracts densely furnished with appressed hispid hairs; sometimes axes aborted and transformed into conoid swellings, approximately 20 × 4 mm; bracteoles lanceolate, 1–2 mm, covered with villous hairs ± disposed in tufts toward the extremity. Pedicel slender, 5–8 mm. Flower open with receptacle applied against the pedicel, glabrous externally and reaching, without the petals, approximately 8 mm of which 5 mm for the ventricose receptacle much swollen, internally furnished with entangled villous hairs;
 
-Inflorescences en panicule terminale, peu ramifiée, hautes d'environ 15 cm et larges d'environ 10 cm, avec axes inférieurs pourvus d'une feuille axillante et axes supérieurs avec bractée foliacée allongée très réduite; axes éparsement hispides et bractées densément garnies de poils hispides couchés; parfois axes avortés et transformés en renflements conoïdes, environ 20 × 4 mm; bractéoles lancéolées, 1-2 mm, couvertes de poils villeux ± disposés en touffe vers l'extrémité. Pédicelle grêle, 5-8 mm. Fleur ouverte à réceptacle appliqué contre le pédicelle, glabre extérieurement et atteignant, sans les pétales, env. 8 mm dont 5 mm pour le réceptacle ventriculeux très renflé, intérieurement garni de poils villeux enchevêtrés;
+sepals triangular, briefly and densely setulose internally, the upper one erect reaching 3 × 1.5 mm, the lower ones, the smallest, reflexed; petals caducous; stamens approximately 7, curved, 3–4 mm long and fused nearly to the middle; staminodial rim bearing small triangular points. Young fruit ellipsoid.
 
-sépales triangulaires, brièvement et densément sétuleux intérieurement, le supérieur dressé atteignant  $ 3 \times 1.5 $ mm, les inférieurs, les plus petits, réfléchis; pétales caducés; étamines env. 7, courbées, longues de 3-4 mm et soudées presque jusqu'à mi-hauteur; rebord staminodial portant de petites pointes triangulaires. Jeune fruit ellipsoïde.
-
-Infrutescence et fruit mûrs inconnus. — PL. 21, p. 75.
+Mature infructescence and fruit unknown. — PL. 21, p. 75.
 
 ## Type
 
@@ -33,13 +31,11 @@ Bernard 507, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+This species, by its flower, may be brought close to Magnistipula glaberrima Engl. from Cameroon and Gabon; the stipules, it seems, and especially the leaf base, differentiate these two species, as does the absence or presence of glands beneath the blade. It would be worthwhile to ascertain in the field whether the existence of hispid pubescence is not related to the myrmecophily that characterizes biologically and morphologically the species in question (just as in other myrmecophilous species).
 
-Cette espèce, par sa fleur, peut être rapprochée de Magnistipula glaberrima Engl. du Cameroun et du Gabon; les stipules, semble-t-il, et surtout la base de la feuille, différencient ces deux espèces, de même l'absence ou la présence de glandes sous le limbe. Il y aurait lieu de rechercher sur le terrain si l'existence de la pubescence hispide n'est pas en relation avec la myrmécophilie qui caractérise biologiquement et morphologiquement l'espèce en cause (tout comme chez d'autres espèces myrmécophiles).
-
-Magnistipula bimarsupiata R. Let. n'est connue que par 3 échantillons récoltés, entre 1948 et 1951, en 2 localités voisines de Port Gentil au Gabon. Cette localisation très particulière est peut-être sans rapport avec celle des espèces sud-américaines myrmécophiles du genre voisin Hirtella; elle mérite cependant d'être soulignée.
+Magnistipula bimarsupiata R. Let. is known only from 3 specimens collected, between 1948 and 1951, in 2 localities near Port Gentil in Gabon. This very particular location is perhaps unrelated to that of the South American myrmecophilous species of the related genus Hirtella; it nevertheless deserves to be underlined.
 
 ## Vernacular names
 

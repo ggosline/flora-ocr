@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Schott, Gen. Fil. sub. t. 3 (1834). — Tard., Mém. IFAN 28 : 154 (1953). — Alston, FWTA : 50 (1959).
 
-Frondes en touffes, atteignant 2 m. Pennes articulées, alternes, sessiles, lancéolées, à bases arrondies, subégales, la supérieure parfois légèrement auriculée; extrémité aiguë, marges entières ou légèrement serrulées, surtout les fertiles, atteignant 10-15 cm de long sur 1,5 de large. Texture subcoriace. Surfaces glabres. Rachis glabre ou portant à la base quelques écailles fibrilleuses, rousses. Nervures simples, bi- ou trifurquées. Sores terminaux sur les nervures, en ligne régulière, à une certaine distance de la marge, à indusie portant un étroit sinus, faisant face à la marge.
+Fronds in tufts, reaching 2 m. Pinnae articulate, alternate, sessile, lanceolate, with rounded bases, subequal, the upper sometimes slightly auriculate; apex acute, margins entire or slightly serrulate, especially on the fertile fronds, reaching 10–15 cm long by 1.5 cm wide. Texture subcoriaceous. Surfaces glabrous. Rachis glabrous or bearing at the base a few fibrillose, rusty scales. Venation simple, bi- or trifurcate. Sori terminal on the veins, in regular line, at some distance from the margin, with an indusium bearing a narrow sinus, facing the margin.
 
 ## Type
 
@@ -34,9 +32,7 @@ Schumacher, Tonning
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Terrestre ou épiphyte pantropicale, forêts secondaires, plantations, marécages, lieux frais et ombragés; fréquemment sur les troncs d'Elaeis.
+Terrestrial or epiphytic pantropical, secondary forests, plantations, swamps, cool and shaded places; frequently on the trunks of Elaeis.
 
 ## Specimens examined
 

@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 574 (1871). Épiphyte ou rarement rupestre ; tige parfois lignifiée à la base, atteignant 100–200 cm de longueur et 1,5 cm d’épaisseur. Stipules étroitement ovales à triangulaires, atteignant 50 × 20 mm. Feuilles : pétiole de 5–22 cm; limbe obliquement ovale, 8–29 × 6–23 cm, cordé à profondément cordé ou rarement tronqué à la base , aigu à longuement caudé au sommet, marge entière ou obscurément dentée, face supérieure glabre à éparsement pubescente, face inférieure à indument plus dense formé de poils étoilés ou dentés-laciniés . Inflorescence en cyme robuste pluriflore ; pédoncule 0,5–3(–3,5) cm, bractées très largement obovales, (1,5–)2–3(–3,5) × (1–)3–4(–5) cm. Fleur ♂ : pédicelle atteignant 3 cm ; tépales obovales, 16–20 × 13–19 mm, roses ou blancs striés de rouge ; étamines 25–55. Fleur ♀ subsessile ; tépales à parties libres obovales à circulaires, 17–27 × 14–20 mm, la colonne du périanthe longue de 7–15 mm ; ovaire obovoïde, 5,5–7,5 × 6–7 mm, éparsement pubescent ; styles 4. Fruit presque sessile, subglobuleux, 10–12 × 8–11 mm, jaunâtre.
+in Oliv., Fl. trop. Afr. 2 : 574 (1871). Epiphytic or rarely rupestral; stem sometimes lignified at the base, reaching 100–200 cm in length and 1.5 cm in thickness. Stipules narrowly oval to triangular, reaching 50 × 20 mm. Leaves: petiole 5–22 cm; blade obliquely oval, 8–29 × 6–23 cm, cordate to deeply cordate or rarely truncate at the base, acute to long-caudate at the apex, margin entire or obscurely dentate, upper surface glabrous to sparsely pubescent, lower surface with denser indumentum formed of stellate or dentate-laciniate hairs. Inflorescence in a robust plurifloral cyme; peduncle 0.5–3(–3.5) cm, bracts very broadly obovate, (1.5–)2–3(–3.5) × (1–)3–4(–5) cm. Male flower: pedicel reaching 3 cm; tepals obovate, 16–20 × 13–19 mm, pink or white striped with red; stamens 25–55. Female flower subsessile; tepals with free parts obovate to circular, 17–27 × 14–20 mm, the perianth column 7–15 mm long; ovary obovoid, 5.5–7.5 × 6–7 mm, sparsely pubescent; styles 4. Fruit almost sessile, subglobose, 10–12 × 8–11 mm, yellowish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Bioko, Principe, São Tomé, Pagalu (Annobón), Gabon, Congo (Brazzaville), République Démocratique du Congo, Rwanda, Ouganda
+Cameroon, Bioko, Príncipe, São Tomé, Pagalu (Annobón), Gabon, Congo (Brazzaville), Democratic Republic of the Congo, Rwanda, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Primary ombrophilous forests or old secondary forests; generally above 500 m altitude, but on the islands of the Gulf of Guinea, the species descends to sea level. B: Plana et al. (2006), Wilczek (1969a), de Wilde & Arends (1980). BIBLIOGRAPHY E EWALD – Wageningen branch
 
-forêts ombrophiles primaires ou vieilles forêts secondaires ; généralement au dessus de 500 m d’altitude, mais sur les îles du Golfe de Guinée, l’espèce descend jusqu’au niveau de la mer. B : Plana et al. (2006), Wilczek (1969a), de Wilde & Arends (1980). IBLIOGRAPHIE KE EWALD – Wageningen branche
-
-<!-- caption: Planche 35. Begonia poculifera var. poculifera : 1. Branche florifère (× 0,4). – 2-4. Feuilles (× 0,4). – 5. Fleur ♂ (× 0,8). – 6. Tépale d’une fleur ♂, face externe (× 0,8). – 7. Étamine de face (× 5). – 8. Fleur ♀ (× 0,8). – 8a. Indument de l’ovaire. – 9. Stigmate, face extérieure (× 5). – 10. Papille du stigmate. – 11. Ovaire, coupe transversale schématique (× 10). – 12, 12a. Fruit mûr (× 1,5) avec son indument. – 13. Détail du sommet du fruit avec restant de la colonne périanthaire. – 14, 14a. -->
+<!-- caption: Plate 35. Begonia poculifera var. poculifera : 1. Flowering branch (× 0.4). – 2-4. Leaves (× 0.4). – 5. Male flower (× 0.8). – 6. Tepal of a male flower, external face (× 0.8). – 7. Stamen in front view (× 5). – 8. Female flower (× 0.8). – 8a. Indumentum of the ovary. – 9. Stigma, external face (× 5). – 10. Stigma papilla. – 11. Ovary, schematic transverse section (× 10). – 12, 12a. Mature fruit (× 1.5) with its indumentum. – 13. Detail of the apex of the fruit with remnant of the perianth column. – 14, 14a. -->
 
 ## Notes
 

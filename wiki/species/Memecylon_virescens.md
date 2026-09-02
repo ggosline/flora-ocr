@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2 to 4 m tall; branchlets rounded, relatively slender. Leaves subcoriaceous, often pale green; petiole 3 to 9 mm; blade elliptic-acuminate, whitish beneath, 5–8 × 14–20 cm; acumen 1 to 2 cm; midvein finely impressed above; visible when dry: 7 to 9 transverse veins moderately oblique, sometimes bifurcate and with intercalary venules; converging sinuately 2–5 mm from the margin.
 
-Arbuste de 2 à 4 m; rameaux arrondis, relativement grêles. Feuilles subcoriaces, souvent vert clair; pétiole de 3 à 9 mm; limbe elliptique-acuminé, à blancé, 5-8 × 14-20 cm; acumen de 1 à 2 cm; nervure médiane finement imprimée dessus; visibles sur le sec : de 7 à 9 transversales modérément obliques, parfois bifurquées et avec nervilles intercalaires; convergentes sinuées à 2-5 mm de la marge.
+Cymes greenish, solitary or geminate on leafy and aphyllous nodes, sessile or with a stipe reaching up to 9 mm; 1 to 2 times briefly ramified and 1 to 2 cm long; bracts triangular, 1 mm long. Flower with pedicel 2 to 4 mm; hypantho-calyx cupuliform, 3 × 2 mm, margin entire. Petals quadrangulo-triangular to apiculate, 2 × 2 mm. Anthers with thecae 0.8 to 1 mm; connective conical-acute, 1.2 mm long, saddled by an elliptic to punctiform gland; filament 2.5 mm; epigynous chamber with 8 membranous septa; style 4 mm. 10 to 12 ovules.
 
-Cymes verdâtres, solitaires ou géminées sur les nœuds feuillés et aphylies, sessiles ou avec stipe pouvant atteindre 9 mm; de 1 à 2 fois brièvement ramiﬁées et longues de 1 à 2 cm; bractées triangulaires longues de 1 mm. Fleur à pédicelle de 2 à 4 mm; hypantho-calice cupuliforme, 3 × 2 mm, marge entière. Pétales quadrangulo-triangulaires à apiculés, 2 × 2 mm. Anthères à thèques de 0,8 à 1 mm; connectif conique-aigu, long de 1,2 mm, ensellé par une glande elliptique à punctiforme; ﬁlet 2,5 mm; chambre épigyne avec 8 cloisons membraneuses; style 4 mm. De 10 à 12 ovules.
-
-Fruit ellipsoïde, 6-8 × 12-18 mm. — Pl. 47, p. 133.
+Fruit ellipsoid, 6–8 × 12–18 mm. — Pl. 47, p. 133.
 
 ## Type
 
@@ -33,9 +31,7 @@ Klaine 2605, Gabon (holo-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce forestière cameruno-gabonaise. Se reconnaît à ses nervures transversales peu nombreuses et ses cymes courtes. Le type est resté longtemps méconnu, d'où la description d'espèces qui lui sont identiques.
+Forest species from Cameroon and Gabon. Distinguished by its relatively few transverse veins and short cymes. The type remained misunderstood for a long time, hence the description of species identical to it.
 
 ## Specimens examined
 

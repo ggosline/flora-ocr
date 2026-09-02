@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Peters, Naturw. Reise Mossambique 6, Bot . 2 : 539 (1864). Herbe vivace, grêle à robuste ; stolons longs jusqu’à 15 cm , mais parfois la souche est formée de nombreuses bases de tige ligneuses et renflées ; tiges de 10‒70 cm × 1‒3 mm, trigones à presque arrondies, glabres. Feuille : gaine verte à brun rougeâtre clair ; principaux limbes de 4‒40 cm × 1,5‒5 mm , plans, un peu bleu vert, scabres sur la marge et la nervure centrale. Inflorescence en anthèle de 1‒12 × 1‒10 cm , composée d’un épi sessile et de 1‒6 épis pédonculés, portant habituellement 1‒5 épis sessiles ou pédonculés secondaires à la base des épis primaires, mais parfois inflorescence réduite à 5‒15 épillets ; bractées involucrales 2‒4, foliacées, dressées ou étalées, la principale de 1‒30 cm × 1‒5 mm ; épis de 1‒5 × 1‒3 cm , avec 3‒10 épillets dressés ou étalés ; rachis long de 2‒10 mm. Épillet linéaire–lancéolé, 8‒40 × 1‒1,5 mm , sommet aigu, droit ou incurvé, à 10‒50 fleurs ; g lumes ovales–elliptiques, longues de 2,2‒3 mm , rapprochées, brun rougeâtre avec une large marge incolore et une nervure centrale verdâtre se terminant au sommet, sans nervures latérales. Fleur : style à 3 branches. Akène obovale, 0,8‒1,2 × 0,4‒0,6 mm , trigone, brun, lisse ou finement papilleux.
+in Peters, Naturw. Reise Mossambique 6, Bot. 2: 539 (1864). Perennial herb, slender to robust; stolons up to 15 cm long, but sometimes the rootstock composed of numerous woody and swollen stem bases; stems 10–70 cm × 1–3 mm, trigonous to almost rounded, glabrous. Leaf: sheath green to light reddish-brown; principal blades 4–40 cm × 1.5–5 mm, flat, somewhat blue-green, scabrous on the margin and central nerve. Inflorescence an anthela of 1–12 × 1–10 cm, composed of one sessile spike and 1–6 pedunculate spikes, usually bearing 1–5 sessile or pedunculate secondary spikes at the base of primary spikes, but sometimes inflorescence reduced to 5–15 spikelets; involucral bracts 2–4, foliaceous, erect or spreading, the principal one 1–30 cm × 1–5 mm; spikes 1–5 × 1–3 cm, with 3–10 erect or spreading spikelets; rachis 2–10 mm long. Spikelet linear-lanceolate, 8–40 × 1–1.5 mm, apex acute, straight or curved, with 10–50 flowers; glumes oval-elliptic, 2.2–3 mm long, closely packed, reddish-brown with a wide hyaline margin and a greenish central nerve ending at the apex, without lateral nerves. Flower: style with 3 branches. Nutlet obovate, 0.8–1.2 × 0.4–0.6 mm, trigonous, brown, smooth or finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale et australe ; peu commune au Gabon, trouvée dans le Moyen-Ogooué, l’Ogooué-Ivindo et l’Ogooué-Lolo (5 récoltes)
+widely distributed in tropical and southern Africa; uncommon in Gabon, found in the Moyen-Ogooué, Ogooué-Ivindo and Ogooué-Lolo (5 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in marshes and along rivers, often in the bed of watercourses and on sand; in Gabon, probably below 400 m altitude, but up to 1700 m in East Africa. Use: The tubers are consumed as a vegetable
 
-dans les mares et le long des rivières, souvent dans le lit des cours d’eau et sur le sable ; au Gabon, probablement à moins de 400 m d’altitude, mais jusqu’à 1700 m en Afrique de l’Est. Usage : Les tubercules sont consommés comme légume
-
-B. Gaine foliaire et base du limbe. – C. Sommet du A. Plante. – B. Base renflée de la plante. – C. limbe. – D. Inflorescence. – E. Épillet. – F. Rachis Sommet du prophylle. – D. Base du limbe. – E. de l’épillet. – G. Glume. – H. Fruit. Dessin original Inflorescence. – F. Épillet. – G. Glume. – H. Fleur. par Richard W. Haines ©. – I. Fruit. Dessin original par Richard W. Haines ©. Note taxonomique : Ressemble à C. rotundus , mais s’en distingue facilement par ses glumes légèrement plus courtes avec une large marge transparente. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997).
+A. Plant. – B. Swollen base of the plant. – C. Leaf sheath and base of blade. – D. Summit of the prophyll. – E. Base of the blade. – F. Inflorescence. – G. Spikelet. – H. Rachis of the spikelet. – I. Glume. – J. Fruit. Original drawing by Richard W. Haines ©. – B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997). Taxonomic note: Resembles C. rotundus, but easily distinguished by its slightly shorter glumes with a wide transparent margin. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997).
 
 ## Notes
 

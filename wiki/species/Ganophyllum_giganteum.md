@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pseudospondias gigantea Chev., Vég. Ut. Afr. Trop. Fr. 9 : 151 (1917).
 
 — Ganophyllum africanum MilDBR., Not. Bot. Gart. Mus. Berlin 8:708 (1924).
 
-Arbre élevé, 25-40 m, de 0,8-1,20 m de diamètre avec un fût de 10-25 m; contreforts ± importants à la base; rhytidome brun rougeâtre s'exfoliant en plaques irrégulières; écorce de 5 mm d'épaisseur montrant sur la coupe
+Tall tree, 25–40 m, 0.8–1.20 m in diameter with a bole of 10–25 m; buttresses ± prominent at the base; rhytidome reddish brown exfoliating in irregular plates; bark 5 mm thick showing on the cut
 
-des fibres orange; sève collante à odeur de salicylate de méthyle (LETOUZEY); aubier jaune ou jaunâtre; bois blanc jaunâtre ferme, dense (d = 0,821, CHEVALIER). Feuilles brillantes-résineuses.
+orange fibers; sticky sap with odor of methyl salicylate (LETOUZEY); sapwood yellow or yellowish; wood yellowish white firm, dense (d = 0.821, CHEVALIER). Leaves shiny-resinous.
 
-Inflorescences ramiﬁées de 15-30 cm. Fleurs à pédicelles gonﬁés de minuscules glandes formant de verrues arrondies (0,1 mm) sous l'épiderme. Les fruits noirs en herbier, sont signalés comestibles par les collecteurs, sans préciser s'il s'agit du péricarpe ou de l'embryon. PL. 44, 1-4", p. 193.
+Branched inflorescences of 15–30 cm. Flowers with pedicels swollen with minute glands forming rounded warts (0.1 mm) beneath the epidermis. The fruits black in the herbarium, are reported as edible by collectors, without specifying whether it is the pericarp or the embryo. PL. 44, 1-4", p. 193.
 
 ## Type
 
@@ -35,9 +33,7 @@ Mildbraed 8797, 9229, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce reconnue au Cameroun, en République Centrafricaine, au Gabon et au Zaïre (Donis 2257, etc...).
+Species recognized in Cameroon, in the Central African Republic, in Gabon and in Zaïre (Donis 2257, etc...).
 
 ## Vernacular names
 

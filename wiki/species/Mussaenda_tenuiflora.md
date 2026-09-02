@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose plant with young branches ± pubescent: pubescence of quite variable colour, most often greyish or ochraceous, sometimes brown. Stipules triangular or bifid. Petiole pubescent 5–30 mm. Blade scabrous above 6–15(19) × 2–7(10) cm; base acute to subcordate. 8–11(13) pairs of pubescent secondary veins.
 
-Plante sarmenteuse à jeunes rameaux ± pubescents : pubescence de teinte assez variable, le plus souvent grisâtre ou ochracée, parfois brune. Stipules triangulaires ou bifides. Pétiole pubescent de 5-30 mm. Limbe scabre dessus de 6-15(19) × 2-7(10) cm; base aiguë à subcordée. 8-11(13) paires de nervures secondaires pubescentes.
+Multiflorous inflorescences with large white foliaceous sepals; axes and flowers with light grey, yellow, yellow-green or ochraceous pubescence when dry, often less dense or shorter than in M. Debeauxii. Calyx with variable lobes, often somewhat narrower than in M. Debeauxii, and often ± subulate. Corolla with tube 2–3 cm. Yellow lobes 3–5 × 2–3 mm, with ± long apicule.
 
-Inflorescences multiflores à grands sépales blancs foliacés; axes et fleurs à pubescence gris clair, jaune, vert-jaune ou ochracée à sec, souvent moins dense ou plus brève que chez M. Debeauxii. Calice à lobes variables, souvent un peu plus étroits que chez M. Debeauxii, et souvent ± subulés. Corolle à tube de 2-3 cm. Lobes jaunes de 3-5 × 2-3 mm, à apicule ± long.
-
-Fruit elipsoide dépassant 20 mm.
+Ellipsoid fruit exceeding 20 mm.
 
 ## Type
 
@@ -36,11 +34,9 @@ Vogel 67 (K, non vu), Fernando-Po. Spécimens de référence : Boughey 89, E. Gu
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Specimens that may be referred to this species form a rather heterogeneous group as E. Petit already noted in 1955. A revision would be necessary for a whole group of species from western and equatorial Africa, close to M. tenuiflora.
 
-Les échantillons que l'on peut rapporter à cette espèce forment un ensemble peu homogène comme l'a déjà signalé E. Petit en 1955. Une révision serait nécessaire pour tout un groupe d'espèces d'Afrique occidentale et équatoriale, voisines du M. tenuiflora.
-
-Noms vernaculaires d'après Walker et Sillans et s'appliquant aussi aux espèces voisines : Salagambo (Mpongwé); Inanga (Nkomi, Orungu); Fôl, Fôl-nlème (Fang); Nlovu (Béséki); Dyène (Bakélé); Dada (Bavungu); Vèdi (Bavové); Mogana-osoto (Apindji); Mundjandjala (Eshira, Bavili); Mondjandjâa (Mitsogho); Mondjandjala (Ivéa).
+Vernacular names after Walker and Sillans and also applying to neighbouring species: Salagambo (Mpongwé); Inanga (Nkomi, Orungu); Fôl, Fôl-nlème (Fang); Nlovu (Béséki); Dyène (Bakélé); Dada (Bavungu); Vèdi (Bavové); Mogana-osoto (Apindji); Mundjandjala (Eshira, Bavili); Mondjandjâa (Mitsogho); Mondjandjala (Ivéa).
 
 ## Specimens examined
 

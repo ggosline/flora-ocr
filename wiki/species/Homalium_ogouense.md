@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPES: Le Testu 7900, Gabon (lecto-, isolecto-); 7039, Gabon (syn-).
 
-TYPES : Le Testu 7900, Gabon (lecto-, isolecto-); 7039, Gabon (syn-).
+Tree or shrub; branches generally velutinous-tomentose.
 
-Arbre ou arbuste ; rameaux généralement velus-tomenteux.
+Leaves with linear stipules, 0.5–0.8 mm long, persistent or caducous; petiole 4–5 mm long, velutinous; blade oblong-ovate or oblong-obovate, rounded at base, acuminate at apex, 12–15 × 4–6 cm, entire or very slightly crenulate, glabrous on upper surface and velutinous-tomentose on lower surface; secondary veins 6–7 pairs.
 
-Feuilles à stipules linéaires, de 0,5-0,8 mm de long, persistantes ou caduques ; pétiole de 4-5 mm de long, velu ; limbe oblong-ovale ou oblong-obovale, arrondi à la base, acuminé au sommet, 12-15 × 4-6 cm, entier ou très légèrement crénelé, glabre sur la face supérieure et velu-tomenteux sur la face inférieure ; nervures secondaires 6-7 paires.
-
-Inflorescences en panicules axillaires et terminales, multiflores, atteignant 20 cm de long, tomenteuses. Fleurs 7-8-mères, groupées par 2-4 en fascicules le long du rachis ; pédicelle de 3-4 mm de long ; calice à tube de  $ 2 \times 1.5 $ mm ; lobes subulés, pubescents surtout sur la face externe ; pétales obovales-oblongs,  $ 2 \times 1.5 $ mm, accrescents jusqu'à  $ 6 \times 2 $ mm à l'état fructifère, velus sur les 2 faces. - Pl. 22, 5-7, p. 71.
+Inflorescences in axillary and terminal panicles, multiflorous, reaching 20 cm long, tomentose. Flowers 7–8-merous, grouped by 2–4 in fascicles along the rachis; pedicel 3–4 mm long; calyx with tube $ 2 \times 1.5 $ mm; lobes subulate, pubescent especially on outer surface; petals obovate-oblong, $ 2 \times 1.5 $ mm, accrescent to $ 6 \times 2 $ mm in fruit-bearing state, velutinous on both surfaces. - Pl. 22, 5–7, p. 71.
 
 ## Type
 
 Le Testu 7900, Gabon (lecto-, choisi ici, P! ; isolecto-, P!) ; 7039, Gabon (syn-, P!)
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon
 

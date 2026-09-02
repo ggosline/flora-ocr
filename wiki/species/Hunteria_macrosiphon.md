@@ -17,19 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Wageningen Agr. Univ. Papers 96(1) : 107 (1996). Arbuste dressé et grêle, atteignant 4 m de hauteur DYHFSHXGHODWH[EODQFUDPHDX[TXD drangulaires. Feuille Spwlrohgh±PPOLPEHHOOLSWLTXHjREORQJ±IRLVDXVVLORQJ TXHODUJHGH±î±PPFXQppjODUJHPHQWFXQppjODEDVHFDXGpDXVRPPHW nervures secondaires légèrement courbées, en 9 à 14 paires , proéminentes dessous, formant XQHQHUYXUHVXEPDUJLQDOHHWXQDQJOHGH±DYHFODPpGLDQH ,QÀRUHVFHQFH terminale, en F\PHVRPEHOOLIRUPHVGH±î±FPFKDFXQHDYHFjÀHXUVSpGRQFXOHQXORX MXVTX¶jPP Fleur : pédicelle de 1–4 mm ; calice à lobes de 0,7–1,1 × 0,3–0,7 mm, éparsement munis de collétères à l’intérieur, membraneux ; corolle jaune vif, longue de 11,5–14,5 PP GDQV OH ERXWRQ PU j WrWH RYRwGH UHODWLYHPHQW SHWLWH GH GH OD ORQJXHXU GX bouton, à sommet aigu, à une ceinture pubescente large de 1,2–3,5 mm à l’intérieur juste sous O¶LQVHUWLRQGHVpWDPLQHVHWMXVTX¶jODJRUJHj tube long de 9–13 mm , élargi à 1–2 mm autour GHVDQWKqUHVjOREHVQRQWRUGXVGDQVOHERXWRQ±IRLVDXVVLORQJVTXHOHWXEH± IRLVDXVVLORQJVTXHODUJHVGH±î±PPpWDPLQHVjVRPPHWj±PPVRXV la gorge, insérées sur 0,75–0,85 de la longueur du tube, anthère longue de 1–1,9 mm ; pistil
-
-Pistil, avec ovaire ouvert (× 4). – 7. Fruit (× 2). (1-6 : Breteler et al. 9934 ; 7 : Breyne 4131 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©), reproduit à partir de Omino (1996).
-
-long de 9–11 mm, à deux carpelles uniovulés . Fruit Ppulfdushvglyhujhdqwj obovales ou ellipsoïdaux , légèrement stipités, de 15–20 × 9–12 × 5–10 mm, à sommet obtus , jaunes, lisses, à 1 graine , à paroi de ± 2 mm d’épaisseur ; pulpe lisse. Graine HOOLSVRwGDOHGHî 5–6 × 4–5 mm. Distribution *DERQHW5pSXEOLTXHGpPRFUDWLTXHGX&RQJRDX*DERQ1JRXQLp2JRRXp,YLQGRHW Ogooué-Lolo.
+Wageningen Agr. Univ. Papers 96(1) : 107 (1996). Erect and slender shrub, reaching 4 m in height with white branchlets and quadrangular branches. Leaf petiole 6–9 mm, limb elliptic to oblong – sometimes as long as it is wide – 9–15 × 5–8 mm, cuneate at base, caudate at apex, secondary veins slightly curved, in 9 to 14 pairs, prominent below, forming a submarginal nerve and an angle of 60–80° with the median. Inflorescence terminal, in umbelliform cymes of 2–5 × 1–2 cm, each with 3–4 flowers, pedicel null or up to 1 mm. Flower: pedicel 1–4 mm; calyx with lobes 0.7–1.1 × 0.3–0.7 mm, sparsely furnished with colleters on the inside, membranous; corolla bright yellow, 11.5–14.5 mm long in the bud with relatively small ovoid head of 1/3 of the bud length, with acute apex, with a pubescent girdle 1.2–3.5 mm wide on the inside just below the insertion of the stamens and up to the throat; tube 9–13 mm long, enlarged to 1–2 mm around the anthers, lobes not twisted in the bud, 7–9 times as long as the tube, 5–7 times as long as wide, 1.5–2 × 0.5–0.7 mm; stamens with apex at 2–4 mm below the throat, inserted on 0.75–0.85 of the tube length, anther 1–1.9 mm long; pistil 9–11 mm long, with two uniovulate carpels. Fruit with divergent carpels, obovate or ellipsoidal, slightly stipitate, 15–20 × 9–12 × 5–10 mm, with obtuse apex, yellow, smooth, with 1 seed, wall ± 2 mm thick; pulp smooth. Seed ellipsoidal, 5–6 × 4–5 mm. Distribution: Gabon and Democratic Republic of the Congo, at Gabon, Ngounié, Ogooué, Ivindo and Ogooué-Lolo.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de la forêt primaire et secondaire ; au Gabon à 225–580 m d’altitude. B : Omino (1996). IBLIOGRAPHIE
+Understory of primary and secondary forest; in Gabon at 225–580 m altitude. B: Omino (1996). BIBLIOGRAPHY
 
 ## Notes
 

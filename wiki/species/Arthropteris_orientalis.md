@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Post., Rec. Trav. Bot. Néerl. 21 : 218 (1924).
 
-Rhizome très longuement rampant, à écailles rares. Frondes espacées. Pétiole long de 10-15 cm, portant quelques rares écailles à l'extrême base, courtement velu plus haut, articulation du pétiole généralement au dessus de son milieu. Limbe à contour lancéolé-oblong, penné-pinnatifide. Pennes opposées ou subalternes, lancéolées, sessiles, articulées, peu effilées, à bases égales, divisées, sur 1/2 de leur largeur, en lobes obliques, arrondis. Pennes inférieures légèrement réduites et défléchies. Face inférieure du limbe portant de courts poils; costa portant des poils plus longs (la pilosité est du reste assez variable). Face supérieure du limbe portant de grosses glandes calcaires, blanches, à l'extrémité des nervures. Nervures pennées dans les lobes, simples ou bifurquées. Sores à indusie réniforme, hirsute.
+Rhizome very elongately creeping, with scattered scales. Fronds spaced apart. Petiole 10–15 cm long, bearing a few rare scales at the very base, shortly hairy higher up, articulation of the petiole generally above its midpoint. Lamina lanceolate-oblong in outline, pinnate-pinnatifid. Pinnae opposite or subalternate, lanceolate, sessile, articulate, scarcely attenuate, with equal bases, divided to about 1/2 their width into oblique, rounded lobes. Lower pinnae slightly reduced and deflexed. Abaxial surface of the lamina bearing short hairs; costa bearing longer hairs (the pilosity is moreover rather variable). Adaxial surface of the lamina bearing large, white, calcareous glands at the termination of the veins. Veins pinnate in the lobes, simple or bifurcate. Sori with reniform, hirsute indusia.
 
-Afrique tropicale, San-Thomé, Fernando-Po, Madagascar, Maurice, Réunion.
+Tropical Africa, São Tomé, Fernando Pó, Madagascar, Mauritius, Réunion.
 
-Grimpant sur les troncs d'arbres ou sur les rocailles.
+Climbing on tree trunks or rocky outcrops.
 
 ## Specimens examined
 

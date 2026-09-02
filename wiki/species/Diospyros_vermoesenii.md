@@ -37,15 +37,15 @@ Female flowers axillary, solitary or 2-4 together in very short cymes, axillary 
 
 Fruits subsessile, ovoid, apiculate, 2.5 x 1.5 cm, somewhat verrucose, enclosed at the base by the persistent scarcely accrescent calyx; seeds 1-3, 12 x 6 mm.
 
-**Type :**Vermoesen I597， Congo Kinshasa.
+**Type :**Vermoesen I597, Congo Kinshasa.
 
 This species is localized in the Mayombe, both in Gabon near Tchibanga and in the Congos, but it also seems to occur near the Cristal Mountains in Gabon, where forms transitional toward *Diospyros hoyleana* appear possible.
 
 ### Material studied in Gabon
 
-Le Testu 185g et 186o (types  et ♀ de Maba mayombensis Pellegr.)，Tchibanga (fl.δ et fl.♀,nov.).
+Le Testu 185g et 186o (types  et ♀ de Maba mayombensis Pellegr.),Tchibanga (fl.δ et fl.♀,nov.).
 
-Touzet 61,Nkoulounga,55 km NE Libreville (fl.,oct.)；7o,eod.loc.(fl., oct.)，cet échantillon formant nettement transition avec D.Hoyleana F.White.
+Touzet 61,Nkoulounga,55 km NE Libreville (fl.,oct.);7o,eod.loc.(fl., oct.),cet échantillon formant nettement transition avec D.Hoyleana F.White.
 
 ## Figures
 

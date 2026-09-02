@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≠ Sarcophrynium oxycarpum (Bak.) K. Schum., Pfl. R. 4, 48 : 38 (1902).
 
-Ab omnibus sp. generis, axibus inflorescentiae longioribus flexuosis et nodiis multis, differt. Herba 1-2 m alta; folia longe petiolata laminis magnis, interdum puberula subtus costam medianam. Inflorescentiae ramosae axibus tenuibus flexuosis internodis numerosis (50...). Flos flavus. Staminodium externe laminare internis aequale, secundum inconspicuum. Ovarium glaber suturis manifestis.
+It differs from all other species of the genus in the longer, flexuous inflorescence axes and numerous nodes. Herb 1–2 m tall; leaves long-petiolate with large laminae, sometimes puberulent beneath along the midvein. Inflorescences branched with slender, flexuous axes with numerous internodes (50...). Flower yellow. Outer staminode laminar, equal to the inner ones, the second one inconspicuous. Ovary glabrous with manifest sutures.
 
-Hercbe de 1 à 2 m de haut, à limbe de taille variable d'environ  $ 25 \times 12 $ jusqu'à  $ 60 \times 40 $ cm, acuminé au sommet, arrondi à progressivement atténué vers la base, légèrement assymétrique, glabre ou parfois légèrement pubescent le long de la nervure médiane à la face inférieure.
+Herb 1 to 2 m tall, with lamina of variable size from approximately 25 × 12 to 60 × 40 cm, acuminate at the apex, rounded to gradually attenuate toward the base, slightly asymmetric, glabrous or sometimes slightly pubescent along the midvein on the lower surface.
 
-Inflorescence ramifiée, racèmes à axes minces, entre-nœuds très nombreux (jusqu'à 50 et plus) de 2 mm de long vers l'extrémité jusqu'à 5 mm de long à la base. Bractées abaxiales d'environ 15 × 10 mm, ovales, glabres. Pédoncule commun de ± 2 mm dans la fleur et jusqu'à 7 mm dans le fruit. Bractéole ovale, acuminée, légèrement verruqueuse, de 1,5 mm de diam. Sépales de 3-4 mm de long, pubescents sur la nervure centrale, pétales environ deux fois plus longs, jaunes. Un staminode externe bien développé, étroitement linéaire, aussi long que les internes.
+Inflorescence branched, racemes with thin axes, internodes very numerous (up to 50 and more) 2 mm long toward the apex to 5 mm long at the base. Abaxial bracts approximately 15 × 10 mm, ovate, glabrous. Common peduncle ± 2 mm in the flower and up to 7 mm in the fruit. Bracteole ovate, acuminate, slightly verrucose, 1.5 mm diam. Sepals 3–4 mm long, pubescent on the central vein, petals approximately twice as long, yellow. One outer staminode well developed, narrowly linear, as long as the inner ones.
 
-Le deuxième staminode externe réduit à une dent ou filiforme. Ovaire glabre, trigone, à sutures assez bien marquées. Fruit lisse et rouge à l'état frais, de 15-20 mm de diamètre.
+The second outer staminode reduced to a tooth or filiform. Ovary glabrous, trigonous, with fairly well marked sutures. Fruit smooth and red when fresh, 15–20 mm in diameter.
 
 ## Type
 
@@ -34,9 +32,7 @@ Klaine : 3503 Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue uniquement du Gabon. Les feuilles servent à la confection des toitures et à l'emballage des pains de manioc. Les tiges sont utilisées pour la confection de nattes.
+Species known only from Gabon. The leaves are used for making roofs and wrapping cassava bread. The stems are used for making mats.
 
 ## Notes
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub weakly branched, erect up to 1.50 (2–3) m; branches 4-angular, narrowly winged, strigillous, especially on the angles, then rounded and glabrescent. Leaves with slender petiole, 1 to 3 cm long, setulo-strigillous; blade 3–6 × 6–12 cm, lanceolate to lanceoloid, obtuse or rounded, rarely subcordate at the base, acute to vaguely acuminate at the apex; short appressed hairs scattered above; 3–5 prominent and strigillous veins beneath; margins subentire, densely ciliate.
 
-Arbrisseau peu ramifié, dressé jusqu'à 1,50 (2-3)m; rameaux 4-angulaires, étroitement ailés, strigilleux, surtout sur les angles, puis arrondis et glabrescents. Feuilles à pétiole grêle, long de 1 à 3 cm, sétulo-strigilleux; limbe 3-6 × 6-12 cm, lancée à lancéolé, obtus ou arrondi, rarement subcoré de la base, aigu à vaguement acuminé au sommet; poils courts et apprimés dispersés dessus; 3-5 nervures saillantes et strigilleuses dessous; marges subentières, densément ciliées.
+Panicle relatively reduced, 2–4 × 4–8 cm, 5–10-flowered, axes strigosulous; bracts ovate, acuminate, 2.5 × 4 mm, enerved, glabrous but ciliate, caducous. Flower with pedicel 1 mm, setulous; hypanthium 3 × 5 mm, scaberulous-setulous, especially toward the base, plus emergences with setulous stipe and stellate apex, distributed mainly toward the top where the 5 latter alternate with the sepals of ± 4 mm, semi-ovate at the base, then abruptly caudate-linear over the 1/2 or 2/3 of the height; glabrescent on the back or with rare emergences, caudate part with bristles spaced on the margins and stellate at the apex. Petals pink, obovate-obcordate, ± 9 mm long. Stamens with yellow anthers, slightly unequal; the outer ones with anther 3.5 mm; pedoconnective 2 mm, appendage ± 1 mm, erect, truncate to emarginate; filament ± 3 mm; the inner ones with anther 3 mm; pedoconnective 0.5 mm, appendage 0.3 mm; filament ± 3 mm. Ovary deeply included; style 8 mm.
 
-Panicule relativement réduite, 2-4 × 4-8 cm, 5-10-flore, axes strigoséuleux; bractées ovales, acuminées, 2,5 × 4 mm, énerviées, glabres mais ciliées, caduques. Fleur à pédicelle de 1 mm, sétuleux; hypanthe 3 × 5 mm, scabérulé-sétuleux, surtout vers le bas, plus émergences à stipe sétuleux et apex stellaté, réparties surtout vers le haut où les 5 dernières alternent avec les sépales de ± 4 mm, semi-ovales à la base, puis brusquement caudés-linéaires sur la 1/2 ou les 2/3 de la hauteur; glabrescents sur le dos ou avec de rares émergences, partie caudée avec soies espacées sur les marges et stellatés au sommet. Pétales roses, obovales-obcordés, longs de ± 9 mm. Étamines à anthères jaunes, peu inégales; les externes à anthère de 3,5 mm; pédoconnectif 2 mm, appendice ± 1 mm, dressé, tronqué à émarginé; filet ± 3 mm; les internes à anthère de 3 mm; pédoconnectif 0,5 mm, appendice 0,3 mm; filet ± 3 mm. Ovaire profondément inclus; style 8 mm.
-
-Capsule ovoïde-oblongue,  $ 7 \times 10 \, mm $; seulement strigilleuse, toutes les
-
-émergences et les sépales étant caducs dès l'anthèse; tube accrescent; ovaire court, sommet convexe, 5-côtelé, éparsement sétuleux. Graines finement striées. — Pl. 3, fig. 1-6, p. 13.
+Capsule ovoid-oblong, 7 × 10 mm; merely strigillous, all the emergences and the sepals being caducous from anthesis; tube accrescent; ovary short, apex convex, 5-ribbed, sparsely setulous. Seeds finely striate. — Pl. 3, fig. 1–6, p. 13.
 
 ## Type
 
@@ -33,9 +29,7 @@ Afzelius s.n., Sierra Leone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce guinéo-congolaise occidentale, héliophile; s'observe dans les boqueteaux clairs, lisières, recrû forestier, etc., de la Sierra Leone à l'Angola (Cabinda), au Zaïre, etc.
+Western Guineo-Congolian species, heliophile; observed in open groves, forest margins, forest regrowth, etc., from Sierra Leone to Angola (Cabinda), Zaïre, etc.
 
 ## Specimens examined
 

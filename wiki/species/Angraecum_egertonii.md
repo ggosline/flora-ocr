@@ -17,39 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige < 30 cm. Feuilles 2,5-4 × 1,1-1,6 cm, tordues à la base pour se situer dans un même plan, oblongues-ovées à oblongues-lancéolées. Inflorescence lâche, < 3 cm, plus longue que les entrenœuds, 1-3-flore. Fleurs petites, résupinées, blanches ou blanc verdâtre. Sépale dorsal oblong-lancéolé à oblong-ové, aigu à brièvement apiculé. Pétales linéaires-lancéolés, falciformes, acuminés. Sépales latéraux obliquement oblongs-lancéolés, acuminés. Labelle < 7 × 3,2 mm, ové-elliptique, aigu, cochléiforme, avec un callus au centre. Éperon < 6,5 mm, étroitement cylindrique, droit, avec un sommet en forme d'ampoule ou globuleux, obtus. - Pl. 223, p. 467.
+Stem < 30 cm. Leaves 2.5–4 × 1.1–1.6 cm, twisted at the base to lie in the same plane, oblong-ovate to oblong-lanceolate. Inflorescence lax, < 3 cm, longer than the internodes, 1–3-flowered. Flowers small, resupinate, white or whitish-green. Dorsal sepal oblong-lanceolate to oblong-ovate, acute to shortly apiculate. Petals linear-lanceolate, falcate, acuminate. Lateral sepals obliquely oblong-lanceolate, acuminate. Lip < 7 × 3.2 mm, ovate-elliptic, acute, cochleate, with a callus at the centre. Spur < 6.5 mm, narrowly cylindric, straight, with an apex flask-shaped or globose, obtuse. – Pl. 223, p. 467.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon
+Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphyte in lowland humid forest
 
-alt. inconnue. Épiphyte en forêt humide de plaine
+MATERIAL STUDIED (Map 100):
 
-MATÉRIEL ÉTUDIÉ (Carte 100) :
-
-Le Testu 5759, chutes de la Mboumi à Mbigou (fl. Nov.), P!
+Le Testu 5759, falls of the Mboumi at Mbigou (fl. Nov.), P!
 
 5. Sect. Arachnangraecum Schltr.
 
-Rép. Sp. Nov. Regni Veg., Beih. 33 : 309 (1925).
+Repert. Spec. Nov. Regni Veg., Beih. 33: 309 (1925).
 
-Inflorescence 1-4-flore. Pédoncule beaucoup plus long que les entrenœuds, avec 1 ou 2 gaines à la base. Fleurs grandes. Labelle assez large, plus ou moins subcirculaire, acuminé avec un éperon allongé grêle.
+Inflorescence 1–4-flowered. Peduncle much longer than the internodes, with 1 or 2 sheaths at the base. Flowers large. Lip rather broad, more or less subcircular, acuminate with an elongate slender spur.
 
-1. Labelle largement obovale ; lobes latéraux peu développés arrondis
+1. Lip broadly obovate; lateral lobes poorly developed, rounded .....52.10. A. birrimense.
 
-.....52.10. A. birrimense.
+1'. Lip obcordate; lateral lobes rhombiform or obliquely ovate, well developed .....52.11. A. eichlerianum.
 
-1'. Labelle obcordé ; lobes latéraux rhombiformes ou obliquement ovales, bien développés .....52.11.A.eichlerianum.
-
-PL. 224. – Angraecum birrimense Rolfe : A, labelle et éperon ; B, labelle, détails ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, bractée florale ; G, vue générale ; H-J, feuilles (A-F, BRETELER 1811 ; G, ADAM, 1982 ; H-J, collections diverses).
+PL. 224. – Angraecum birrimense Rolfe: A, lip and spur; B, lip, details; C, lateral sepal; D, petal; E, dorsal sepal; F, floral bract; G, general view; H–J, leaves (A–F, BRETELER 1811; G, ADAM, 1982; H–J, various collections).
 
 ## Figures
 

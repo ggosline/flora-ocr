@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– TYPE : Bates 381, Cameroon, syn-BM!, K!, Bates 463, Gabon, syn-BM!, K!.
 
-– TYPE : Bates 381, Cameroun, syn-BM!, K!, Bates 463, Gabon, syn-BM!, K!.
-
-Tige < 2,5 cm. Feuilles < 6 × 0,7 cm, presque arrondies au sommet, non sulquées. Inflorescence < 20 cm, dense, unilatérale ; pédoncule généralement plus long que le rachis. Fleurs petites, blanches. Sépale dorsal et sépales latéraux < 3 mm, oblongs, obtus. Pétales plus courts que les sépales. Labelle 3 mm environ, oblong, obtus, légèrement concave à la base, mince, frêle. Éperon presque aussi long que le labelle, un peu renflé, oblong-lancéolé, subaigu.
+Stem < 2.5 cm. Leaves < 6 × 0.7 cm, almost rounded at the apex, not sulcate. Inflorescence < 20 cm, dense, unilateral; peduncle generally longer than the rachis. Flowers small, white. Dorsal sepal and lateral sepals < 3 mm, oblong, obtuse. Petals shorter than the sepals. Labellum approximately 3 mm, oblong, obtuse, slightly concave at the base, thin, fragile. Spur almost as long as the labellum, somewhat swollen, oblong-lanceolate, subacute.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Ghana, Cameroun, Guinée équatoriale, Gabon, Congo
+Ivory Coast, Ghana, Cameroon, Equatorial Guinea, Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphyte on old cacao tree at the edge of tall forest
 
-alt. inconnue. Épiphyte sur vieux cacaoyer en lisière de forêt haute
-
-MATÉRIEL ÉTUDIÉ (Carte 74) :
+MATERIAL STUDIED (Map 74) :
 
 Bates 463, Riv. Komo (fide Rolfe 1897).
 

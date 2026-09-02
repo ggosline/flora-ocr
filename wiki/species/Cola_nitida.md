@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+orig. ref. — Schott et ENDL. Meletem. Bot. : 33 (1832). — A. CHEV. Vég. Ut. Afr. : 120 (1911). — DALZ. Usef. Pl. W.T.A. : 100 (1937). — F.W.T.A. 2nd ed. I : 329 (1958). — F.F.C.I. 2nd ed. II : 282 (1959).
 
-réf. orig. — Schott et ENDL. Meletem. Bot. : 33 (1832). — A. CHEV. Vég. Ut. Afr. : 120 (1911). — DALZ. Usef. Pl. W.T.A. : 100 (1937). — F.W.T.A. 2° ed. I : 329 (1958). — F.F.C.I. 2° ed. II : 282 (1959).
+This species, very closely related to the preceding one, is not known to us with certainty from Gabon. Its country of origin, moreover poorly defined, is situated in West Africa. Its main area of cultivation extends from Senegal to Nigeria, but it is possible that it was introduced in the vicinity of Libreville, Oyem and in the Upper Ogooué. It is distinguished from the False Cola Tree by its
 
-Cette espèce, très voisine de la précédente, ne nous est pas connue du Gabon avec certitude. Son pays d'origine, mal précisé d'ailleurs, est situé en Afrique Occidentale. Son aire de culture principale s'étend du Sénégal au Nigéria, mais il est possible qu'elle ait été introduite aux environs de Libreville, d'Oyem et dans le Haut-Ogooué. On la distingue du Faux-Colatier par ses
-
-larges follicules verts et lisses à surface fortement bosselée. Les graines ou « noix de cola » n'ont que deux cotylédons. De nombreuses variétés ont été étudiées par A. Chevalier.
+large green follicles with smooth surface strongly bossed. The seeds or "cola nuts" have only two cotyledons. Numerous varieties have been studied by A. Chevalier.
 
 ## Vernacular names
 
@@ -31,15 +29,11 @@ Colatier
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ils s'appliquent probablement aussi au Faux-Colatier. Formes à noix plus communément blanches : Abel, Mfem-Abel (Fang); Musali, Mvali (Bapounou); Obei, Obanga (Mitsogho). Formes à noix plus communément rouges : Eya-Abel, Mgwangh (Fang); Mumbini (Bapounou).
+They probably apply also to the False Cola Tree. Forms with nuts more commonly white: Abel, Mfem-Abel (Fang); Musali, Mvali (Bapounou); Obei, Obanga (Mitsogho). Forms with nuts more commonly red: Eya-Abel, Mgwangh (Fang); Mumbini (Bapounou).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La graine de Colatier est très prisée par les Africains; sa saveur est amère. Elle contient de 1,1 à 2,2 % de caféine; l'action de cet alcaloïde dans l'organisme humain est prolongée par une libération progressive. Le commerce de la noix de cola est très important et son usage est courant dans certaines préparations pharmaceutiques.
+The seed of the Cola Tree is highly prized by Africans; its flavor is bitter. It contains 1.1 to 2.2% caffeine; the action of this alkaloid in the human organism is prolonged by progressive release. The trade in cola nuts is very important and its use is common in certain pharmaceutical preparations.
 
 ## Notes
 

@@ -24,13 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large perennial herb that can exceed 3 m in height; culms hollow, up to 7 mm in diameter. Leaves with linear-lanceolate blade, petiolate at base, up to about fifty centimetres long and twenty millimetres wide.
 
-Grande herbe pérenne pouvant dépasser 3 m de haut ; chaumes creux, jusqu'à 7 mm de diamètre. Feuilles à limbe linéaire lancéolé, à base pétiolée, jusqu'à une cinquantaine de centimètres de long et une vingtaine de millimètres de large.
+Racemes 2 to 5 cm long, bristles supporting the spikelets of approximately the same size. Spikelets about 3 mm long, often tinged with purple, as is indeed the whole plant. Glumes reduced, without veins. Lower lemma ciliate toward the apex, otherwise scabrous or more or less smooth; margins folded in the upper part. Upper floret with palea as long as the lemma; lodicules fleshy.
 
-Racèmes de 2 à 5 cm de long, soies soutenant les épilets de même taille à peu près. Épilets d'environ 3 mm de long, souvent teintés de pourpre, comme d'ailleurs l'ensemble de la plante. Glumes réduites, sans nervures. Lemma inférieure ciliée vers le sommet, autrement scabre ou plus ou moins lisse; bords repliés dans la partie supérieure. Fleur supérieure à paléa aussi longue que la lemma; lodicules charnues.
-
-Espèce paraissant répandue dans toute la zone africaine à climat humide ou semi-humide. Se rencontre souvent sur les lisières forestières ou dans les stations alluviales à sol frais et bien pourvu en matières organiques. C'est une excellente plante fourragère.
+Species appearing to be widespread throughout the African zone with humid or semi-humid climate. Found often on forest edges or in alluvial stations with fresh soil and well supplied with organic matter. It is an excellent forage plant.
 
 ## Vernacular names
 

@@ -21,21 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Christ, Verh. Nat. Ges. Basel 14: 245 (1895) — Kramer, Med. Bot. Mus. Utrecht 6 nº 139: 97 (1957).
 
-Rhizome à écailles ciliées (non vues). Frondes en touffes, pouvant atteindre 2,50 m à 3 m (teste Nicklès), à contour ovale, courtement pétiolées, pennées. Pennes sessiles, contigués, articulées, très nombreuses, les inférieures stériles, deltoïdes, à extrémité plus ou moins arrondie (celles de l'extrême base tout à fait arrondies, les autres plus effilées), à bases cunéiformes, la supérieure plus ou moins auriculée. Pennes supérieures fertiles, linéaires, effilées, à base supérieure auriculée. Costa central,
+Rhizome with ciliate scales (not observed). Fronds in tufts, reaching up to 2.50 m to 3 m (teste Nicklès), with oval outline, shortly petiolate, pinnate. Pinnae sessile, contiguous, articulate, very numerous, the lower ones sterile, deltoid, with more or less rounded apex (those at the very base quite rounded, the others more tapered), with cuneate bases, the upper one more or less auriculate. Upper pinnae fertile, linear, tapered, with auriculate upper base. Central costa prominent on the upper surface. Rachis tomentose, bearing narrow scales furnished with projections in all directions, becoming narrower and pilose toward the upper part of the rachis. Surfaces bearing rusty tomentum, more or less caducous. Presence of hydathodes often covered with small peltate scales. Sorus elongate, continuous almost throughout the length of the pinna margin, slightly discontinuous toward its apex, indusium thin.
 
-préminent à la face supérieure. Rachis tomenteux, portant d'étroites écailles munies de prolongements dans tous les sens, devenant plus étroites et piliformes à la partie supérieure du rachis. Surfaces portant un tomentum roux, plus ou moins caduc. Présence d'hydathodes souvent couvertes de petites écailles peltées. Sore allongé, continu presque tout le long des marges de la penne, légèrement discontinu vers son extrémité, indusie mince.
+The position of this somewhat aberrant species has been much debated: Christ originally made it a Nephrolepis, a solution to which Kramer returns. J. Smith and I had assigned it to Isoloma because of its elongate sorus, almost continuous along the margins, a character which it shares with N. lindsayae Christ, the transition between continuous and discontinuous sori being provided by Nephrolepis dicksonioides Christ which possesses elongate sori, uniting several veins, but interrupted by the sinuses.
 
-La position de cette espèce un peu aberrante a été très discutée : Christ en avait fait, à l'origine, un Nephrolepis, solution à laquelle revient Kramer. J. Smith et moi-même l'avions rattaché aux Isoloma à cause de son sore allongé, presque continu le long des marges, caractère qu'elle partage avec N. lindsayae Christ, le passage entre les sores continus et discontinus étant fourni par le Nephrolepis dicksonioides Christ qui possède des sores allongés, réunissant plusieurs nervures, mais interrompus par les sinus.
+Epiphyte on Elaeis and various trees.
 
-Epiphyte sur Elaeis et arbres divers.
+Cameroon, Congo, Madagascar, Burma, Malaya.
 
-Cameroun, Congo, Madagascar, Birmanie, Malaisie.
-
-Signalé pour la première fois au Gabon.
+Recorded for the first time in Gabon.
 
 ## Specimens examined
 

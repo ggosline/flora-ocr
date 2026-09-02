@@ -25,31 +25,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Pearson, F.T.A. 6 (1): 243 (1909), p.p. — Chevalier, Explor. Bot.: 545 (1920). — Staner, Bull. Jard. Bot. Brux. 13: 329 (1935). — Keay, F. W.T.A., 2nd ed., 1 (1): 173 (1954).
 
-— Pearson, F.T.A. 6 (1): 243 (1909), p.p. — Chevalier, Explor. Bot.: 545 (1920). — Staner, Bull. Jard. Bot. Brux. 13: 329 (1935). — Keay, F. W.T.A., 2e ed., 1 (1): 173 (1954).
+Shrub or small tree 1–3 (5) m tall; bark brown-red on old branches, these erect or horizontal; tips of young branches pubescent-whitish.
 
-Arbrisseau ou arbuste de 1-3 (5) m; écorce brun-rouge sur les rameaux âgés, ceux-ci dressés ou horizontaux; extrémités des jeunes rameaux pubescents-blanchâtres.
+Leaves of variable forms and dimensions; petiole 1–3 mm long, densely pubescent-hirsute, or very glabrous. Blade more or less asymmetric, oblique or not, generally 4–7 cm long by 2.5–4.5 cm wide, but sometimes much larger (8–12 cm by 4–5 cm); acumen most often very well-individualized, scarcely curved, long and narrow (12–15 mm, sometimes 25, by 2–3), acute. Blade somewhat discolorous, glabrescent or distinctly glabrous on upper face, often bearing scattered, stiff, appressed hairs on lower face. Main vein often very straight or only slightly curved at the level of the acumen; secondary veins clearly visible on lower face, 12–22 pairs, the lower ones often very curved and oblique becoming more or less parallel to the margin, the upper ones shorter, all more or less anastomosing into a marginal vein; tertiary venation fine, scarcely visible.
 
-Feuilles de formes et de dimensions variables; pétiole de 1-3 mm de long, densément pubescent hirsute, ou très glabre. Limbe plus ou moins asymétrique, oblique ou non, généralement de 4-7 cm de long sur 2,5-4,5 de large, mais quelquefois beaucoup plus grand (8-12 cm sur 4-5 cm); acumen le plus souvent très bien individualisé, peu courbé, long et étroit (12-15 mm, parfois 25, sur 2-3), acute. Limbe un peu discolore, glabrescent ou nettement glabre face supérieure, souvent muni de poils épars, raides, apprimés face inférieure. Nervure principale souvent très rectiligne ou seulement un peu courbée au niveau de l'acumen; nervures secon-
+Flowers solitary or more rarely 2–8, subsessile or very shortly pedicelled, or borne by a nodular glomerule consisting of pedicels of undeveloped flowers and very grayish-pubescent. Flower opened 25 to 35 mm (rarely 40 mm) long; perigone tube very narrow, 18–30 mm long, 0.5 mm in diameter, very generally glabrous and shining, slightly striated (except when young where it may be grayish-pubescent), or bearing some scattered hairs, never velvety or silky; sepals 5–10 mm long, triangular-lanceolate or very narrow, 2–3 mm at the base, rounded or somewhat acute at the apex; the latter may bear a small tuft of gray cilia; 5 petals, glabrous, more or less deeply bifid, with entire or irregularly toothed lobes, 5–10 mm by 1–2, almost always equal in length or somewhat shorter than the sepals. Stamens with filaments 5 mm long, anthers 1 mm, alone exserted. Ovary stipitate, glabrous; style filiform 20–35 mm, exsert or not; stigma variable on the same specimen, but most often elongate in the form of a club or somewhat globular, exsert or not. Hypogynous cupule fairly well-individualized, often truncate.
 
-daires bien visibles à la face inférieure, 12-22 paires, les inférieures souvent très courbées et obliques devenant plus ou moins paralèles à la marge, les supérieures plus courtes, toutes plus ou moins anastomosées en une nervure marginale; réseau tertiaire fin, peu visible.
+Fruit globular ovoid, generally large at maturity and able to reach 15–18 mm in diameter, glabrous, red-orange.
 
-Fleurs solitaires ou plus rarement par 2-8, subsessiles ou très courtement pédicellées, ou portées par un glomérule noduleux constitué de pédicelles des fleurs non développées et très pubescent grisâtre. Fleur épanouie de 25 à 35 mm (rarement 40 mm) de long; tube du périgone très étroit, de 18-30 mm de long, de 0,5 mm de diamètre, très généralement glabre et luisant, un peu strié (sauf à l'état jeune où il peut être pubescent-gris), ou muni de quelques poils épars, jamais velouté ou soyeux; sépales de 5-10 mm de long, triangulaires lancéolés ou très étroits, de 2-3 mm à la base, arrondis ou un peu acutes à l'apex; celui-ci peut porter une petite touffe de cils gris; 5 pétales, glabres, plus ou moins profondément bifides, à lobes entiers ou irrégulièrement dentés, de 5-10 mm sur 1-2, presque toujours de longueur égale ou un peu plus courts que les sépales. Étamines à filets de 5 mm de long, anthères de 1 mm, seules exsertes. Ovaire stipité, glabre; style filiforme de 20-35 mm, exsert ou non; stigmate variable sur un même échantillon, mais le plus souvent allongé en massue ou un peu globuleux, exsert ou non. Cupule hypogyne assez bien individualisée, souvent tronquée.
+Type described from Sierra Leone (Don without number).
 
-Fruit globuleux ovoïde, généralement gros à maturité et pouvant atteindre 15-18 mm de diamètre, glabre, rougé-orangé.
+Among the Dicranolepis currently known, this species appears to be the one with the greatest geographic distribution, since it covers approximately the entire range of the genus, except in its most eastern part. It is quite variable, both in its leaves and in its flowers, and unopened specimens may quite often be confused either with the large-flowered forms of D. Buchholzii Gilg, or with glabrous forms of D. laciniata Gilg. It is nevertheless easily distinguished from the latter by its very narrow perigone tube, its leaf with fine acumen. This latter character may also serve to distinguish the forms with very young flowers of D. disticha from the forms with large unopened flowers of D. Buchholzii.
 
-Type décrit de Sierra-Leone (Don sans n°).
+It should also be noted that if adult flowers are totally glabrous or only ornamented with short, scattered hairs, never woolly, the very young buds are fairly densely covered with short, hirsute pubescence; this pubescence does not give a velvety appearance to the young floral buds, which makes it possible to distinguish the plant from D. Baertsiana, D. pulcherrima, etc.
 
-Parmi les Dicranolepis actuellement connus, cette espèce parait être celle qui a la plus grande extension géographique, puisqu'elle couvre approximativement l'aire du genre, sauf dans la partie la plus orientale de celle-ci. Elle est assez variable, tant par ses feuilles que par ses fleurs et les spécimens non épanouis peuvent assez souvent être confondus soit avec les formes à grandes fleurs de D. Buchholzii Gilg, soit avec des formes glabres-centes de D. laciniata Gilg. Il se distingue pourtant facilement de ce dernier par son tube périgonal très étroit, sa feuille à acumen
+Understory of dense humid forests.
 
-fin. Ce dernier caractère peut également servir à distinguer les formes à très jeunes fleurs de D. disticha des formes à grandes fleurs non encore épanouies de D. Buchholzii.
-
-On notera aussi que si les fleurs adultes sont totalement glabres ou seulement ornées de poils courts, épars, jamais laineux, les très jeunes boutons sont assez densément couverts d'une pubscente courte, hirsute; cette pubescente ne donne pas un aspect velouté aux jeunes boutons floraux, ce qui permet de distinguer la plante des D. Baertsiana, D. pulcherrima, etc.
-
-Sous bois des forêts denses humides.
-
-Noms vernaculaires (d’après Walker et Sillans) : Dibugila (Eshira, Bavarama, Bavungu); Dibugila, Duvinda (Bapunu).
+Vernacular names (after Walker and Sillans): Dibugila (Eshira, Bavarama, Bavungu); Dibugila, Duvinda (Bapunu).
 
 ## Specimens examined
 

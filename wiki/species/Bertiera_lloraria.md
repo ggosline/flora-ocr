@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs 0.50-1.30 m tall with oblique branchlets. Appressed hairs moderately dense. Stipules 10-21 × 3-7 mm, narrowly connate and tubular at the base, slightly pubescent externally. Petioles puberulent 2.5-8 mm. Blade subconcolorous dark when dry, micropubescent on both faces or nearly glabrous, 6-13 × 2.5-6.5 cm. Base acute; acumen 7-10 mm. Midvein pubescent on both faces (hairs appressed). 5-8 pairs of secondary nerves. Nervilles in fine striolate reticulum.
 
-Arbrisseaux de 0,50-1,30 m à rameaux obliques. Poils apprimés médiocrement denses. Stipules de 10-21 × 3-7 mm, étroitement connées tubuleuses à la base, un peu pubescentes extérieurement. Pétioles pubérulents de 2,5-8 mm. Limbe subconcolore foncé à sec, micropubérulent sur les deux faces ou presque glabre, de 6-13 × 2,5-6,5 cm. Base aiguë; acumen de 7-10 mm. Nervure médiane pubescente sur les deux faces (poils couchés). 5-8 paires de nervures secondaires. Nervilles en fin réseau striolé.
+Terminal inflorescences erect in racemes of cymes reaching at most 4.5 cm, and finely pubescent. Peduncle 0.5-2 cm. Bracts linear, recaulescent, inserted near the flowers. Lateral cymes ± contracted bearing sessile flowers. Bud with acute apex. Calyx pubescent, green, with 5 linear lobes 4-9 × 0.3-0.6 mm. Corolla white or very pale green, glabrous towards the base, pubescent towards the upper part of the tube and the lobes; the latter very acute, about 2 mm long. Internal pubescence abundant beneath the base of the anthers, between these and extending to the midpoint of the corolla lobes. Anthers about 2.2 mm. Style 4.2 mm.
 
-Inflorescences terminales érigées en grappes de cymes atteignant au maximum 4,5 cm, et finement pubescentes. Pédoncule de 0,5-2 cm. Bractées linéaires recaulescentes insérées à proximité des fleurs. Cymes latérales ± contractées portant des fleurs sessiles. Bouton à sommet aigu. Calice pubescent, vert, à 5 lobes linéaires de 4-9 × 0,3-0,6 mm. Corolle blanche ou vert très pâle, glabre vers la base, pubescente vers le haut du tube et les lobes; ces derniers très aigu, longs d'env. 2 mm. Pubescence interne abondante sous la base des anthères, entre celles-ci et jusqu'à la moitié des lobes de la corolle. Anthères d'env. 2,2 mm. Style de 4,2 mm.
-
-Fruit rouge vif succulent, sphérique, de 10-11 mm de diam. (8 graines noires de 1,8 mm dans un fruit mür).
+Fruit bright red succulent, spherical, 10-11 mm in diam. (8 black seeds 1.8 mm in a ripe fruit).
 
 ## Type
 
@@ -31,9 +29,7 @@ N. Hallé 1288 (P.), du Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En forêt dense dégradée ou non, entre 400 et 950 m d'altitude. Confins Gabon-Cameroun et Moyen-Congo jusqu'à la Loua affluent de l'oubangui, au Congo (Brazzaville : A. Bouquet 912) et au Congo ex-Belge.
+In dense degraded or undegraded forest, between 400 and 950 m altitude. Gabon-Cameroon borderlands and Middle Congo to the Loua tributary of the Ubangi, in Congo (Brazzaville: A. Bouquet 912) and in the Belgian Congo.
 
 ## Specimens examined
 

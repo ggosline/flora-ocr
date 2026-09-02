@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Zeuxine heterosepala (Rchb.f.) Geerinck, BJBB 50: 120, fig. 2 (1980); FAC 1: 21 (1984).
 
 – Zeuxine commelinoids Chev., Ex Fig. Bot. Afr. Occ. Fr. : 619 (1920).
 
-Tige 12-20 cm, partie supérieure glanduleuse. Feuilles 3,5-5,5 × 1,2-1,7 cm plus longues que l'inflorescence, disposées le long de la tige, obliquement oblongues-ovées, aiguës, base semi-cordée. Inflorescence de 1,5-2 cm, 7-10-flore. Fleurs vertes et blanches, parfois lavées de pourpre à l'extérieur. Pièces du périanthe fines, fragiles. Sépales ovés, obtus, à base sacciforme, glanduleuse sur la face externe. Pétales falci-formes, plus larges au milieu, subaigus. Labelle sessile, contracté au-dessus du milieu : hypochile profondément cochléiforme, avec deux processus internes digités ; épichile fortement défléchi, les 2 lobes latéraux très grands, ± obovés. – Pl. 32, p. 72.
+Stem 12-20 cm, upper part glandular. Leaves 3.5-5.5 × 1.2-1.7 cm longer than the inflorescence, arranged along the stem, obliquely oblong-ovate, acute, base semi-cordate. Inflorescence 1.5-2 cm, 7-10-flowered. Flowers green and white, sometimes tinged with purple on the outside. Perianth parts fine, fragile. Sepals ovate, obtuse, with sacciform base, glandular on the external face. Petals falciform, wider in the middle, subacute. Lip sessile, contracted above the middle: hypochile deeply cochleate, with two digitate internal processes; epichile strongly deflexed, the two lateral lobes very large, ± obovate. – Pl. 32, p. 72.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côté d'Ivoire, Cameroun, Gabon, Sao Tome, Congo (Kinshasa), Tanzanie
+Liberia, Côte d'Ivoire, Cameroon, Gabon, São Tomé, Congo (Kinshasa), Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 650-900 m. Terrestrial herb in humid dense rainforest of plains and foothills
 
-alt. 650-900 m. Herbacée terrestre en forêt dense humide de plaine et de contrefort montagneux
+MATERIAL EXAMINED (Map 11):
 
-MATÉRIEL ÉTUDIÉ (Carte 11) :
-
-Reitsma J. M. & B., Breteler & Louis 1088, Chantier CEB, Monts Doudou, 20 km OSO de Doussala (fl., Mai), WAG!, LBV, NY.
+Reitsma J. M. & B., Breteler & Louis 1088, Chantier CEB, Monts Doudou, 20 km WSW of Doussala (fl., May), WAG!, LBV, NY.
 
 ## Figures
 

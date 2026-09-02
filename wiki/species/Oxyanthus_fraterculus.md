@@ -16,19 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 42, p. 189)
 
-Affinis Oxyanthi formosi Hook. f. ex. Planch. sed habitu minore, foliis anguste attenuato-obovatis, nervis secundarii plus, subtus sicut costa minutissime puberulis, fructibus minoribus obpiriformibus pericarpio tenui differt.
+Akin to Oxyanthi formosi Hook. f. ex. Planch. but differing in smaller habit, narrowly attenuate-obovate leaves, more secondary nerves, minutely puberulous beneath as well as along the midrib, and smaller obpyriform fruits with thin pericarp.
 
-Arbrisseau de 0,60 m, à tige de 1 cm de diamètre à la base portant de médiocres ramifications latérales. Stipules ovées-aiguës de 10 × 7 mm, glabres. Pétioles de 6-10 mm, à canal bisulqué. Limbe glabre olivâtre terne à sec comme dans l'espèce précédente, étroitement obové-oblong de 25-30 × 6,5-10,5 cm, à base longuement atténuée puis subobtuse nettement inégale sur les rameaux latéraux, à sommet acuminé. Médiamé nettement en relief sur le dessus du limbe. 15-17 nervures secondaires par côté, micropubérulents dessous ainsi que la médiane; intersecondaires peu distinctes.
+Shrublet 0.60 m tall, with a stem 1 cm in diameter at the base bearing moderate lateral branches. Stipules ovate-acute 10 × 7 mm, glabrous. Petioles 6–10 mm, with a bisulcate channel. Blade glabrous, olivaceous, dull when dry as in the preceding species, narrowly obovate-oblong 25–30 × 6.5–10.5 cm, with base long-attenuate then subobtuse, distinctly unequal on the lateral branches, apex acuminate. Midrib distinctly prominent on the upper surface of the blade. 15–17 secondary nerves per side, micropuberulous beneath as well as the midrib; intersecondary nerves not very distinct.
 
-Inflorescence ayant jusqu'à une dizaine de fleurs, à rachis d'environ 1 cm ou moins. Bractées imperceptibles. Pédicelles de 2-7 mm. Limbe calycinal glabre tubuleux et légèrement évasé sur
+Inflorescence bearing up to about ten flowers, with rachis approximately 1 cm or less. Bracts imperceptible. Pedicels 2–7 mm. Calyx limb glabrous, tubular and slightly flared over approximately 4 mm, with deltoid, attenuate teeth exceeding 1 mm in length.
 
-environ 4 mm, à dents deltoïdes atténuées dépassant 1 mm de longueur.
-
-Fruit obpiriforme de 2-3,5 × 1-2 cm, atténué vers la cupule calycinale, lisse, orange vif, à paroi mince d'environ 0,8 mm à sec. 2 placentas affrontés. Graines, moins d'une vingtaine, semblables à celles de l'espèce précédente.
+Fruit obpyriform 2–3.5 × 1–2 cm, attenuate toward the calycinal cup, smooth, bright orange, with thin wall approximately 0.8 mm when dry. 2 opposite placentas. Seeds, fewer than twenty, similar to those of the preceding species.
 
 ## Type
 
@@ -38,27 +34,23 @@ Dewèvre 700 (BR!), Nord du Stanley-Pool, Moyen-Congo (fr. fév. 1896). L’indi
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Additional material examined:
 
-Autre matériel étudié :
-
-Le Testu 9456 (BM!), Binoc (fl. janv.), à tubes des corolles longs de 21 cm et pétales de 20 × 1,5 mm, frutex de 0,75 m.
+Le Testu 9456 (BM!), Binoc (fl. Jan.), with corolla tubes 21 cm long and petals 20 × 1.5 mm, shrub 0.75 m tall.
 
 (PL. 43, p. 191)
 
-De Wildeman et Th. Durand, Ann. Mus. Congo, Sér. 3, Reliquia Dewevreana, 1:119 (1901); op. c. Sér. 5, 1:81 (1904).
+De Wildeman and Th. Durand, Ann. Mus. Congo, Sér. 3, Reliquia Dewevreana, 1:119 (1901); op. c. Sér. 5, 1:81 (1904).
 
 = O. molliramis K. Krause, Engl. Bot. Jahr. 54 : 347 (1917). — F. Pellegrin, Fl. Mayombe, 3 : 19 (1968).
 
-Arbuste de petite taille ou lianescent, à abondante pubescence brun-ochracé ou rousse. Entrenœuds densément velus hirsutes. Stipules grandes, lancéolées de 1,5-3,5 × 0,6-0,9 cm, velues hirsutes, à face interne glabre. Pétiole hirsute de 5-13 mm. Limbe un peu gaufré, brunâtre ou olivâtre à sec, glabre dessus entre les nervures, oblong, de 20-36 (40) × 6,5-16 cm; base très inégale, à un côté obtus ou arrondi, l'autre arrondi à cordé; sommet sublancéolé. Médiane à ligne pubescente en dépression dessus. 11-14 nervures secondaires par côté, pileuses dessous ainsi que toutes les nervilles intersecondaires; à fort grossissement on distingue entre les poils de type long (0,5-1 mm), un revêtement plus dense de poils microscopiques (0,1 mm).
+Small shrub or lianescent, with abundant brown-ochraceous or rufous pubescence. Internodes densely velutinous-hirsute. Stipules large, lanceolate 1.5–3.5 × 0.6–0.9 cm, velutinous-hirsute, with inner surface glabrous. Petiole hirsute 5–13 mm. Blade slightly watered, brownish or olivaceous when dry, glabrous above between the nerves, oblong, 20–36 (40) × 6.5–16 cm; base very unequal, one side obtuse or rounded, the other rounded to cordate; apex sublanceolate. Midrib with a pubescent line in depression above. 11–14 secondary nerves per side, pilose beneath as well as all the intersecondary nervules; at high magnification, between the longer hairs (0.5–1 mm), a denser coating of microscopic hairs (0.1 mm) can be distinguished.
 
-Inflorescences velues unilatéralement pseudoaxillaires, en
+Inflorescences velutinous, unilaterally pseudoaxillary, in contracted raceme and briefly pedunculate; numerous velutinous bracts with glabrous inner surface, embracing at the base, very long-caudate and reaching 1–4 (9) cm. Approximately 25 white flowers sessile. Calyx pubescent with subulate lobes 1–3 mm long. Corolla with hispid tube reaching 65 × 2 mm, with 5 lobes ± hispid externally 8–10 × 2–3 mm, subacute. Anthers semi-exsert 3 × 1 mm, apiculate; pollen tetrads 52–57 μ. Style glabrous; stigma weakly enlarged above the anthers.
 
-racème contracté et brièvement pédonculé; nombreuses bractées velues à face interne glabre, embrassantes à la base, très longuement caudées et atteignant 1-4 (9) cm. Environ 25 fleurs blanches sessiles. Calice pubescent à lobes subulés longs de 1-3 mm. Corolè à tube hispide atteignant 65 × 2 mm, à 5 lobes ± hispides extérieurement de 8-10 × 2-3 mm, subaigus. Anthères semi-exsertes de 3 × 1 mm, apiculées; tétrades polliniques de 52-57 μ. Style glabre; stigmate faiblement élargi au-dessus des anthères.
+Fruit sessile, globular or ovoid 12–17 × 9–12 mm, finely pubescent; pericarp thin, green before maturity. 2-locular; 2 placentas. Immature seeds 4 × 3 mm, compressed, faintly striolate subconcentrically, more than thirty.
 
-Fruit sessile globuleux ou ovoïde de 12-17 × 9-12 mm, fine-ment pubescent; péricarpe mince, vert avant maturité. 2-loges; 2 placentas. Graines immatures de 4 × 3 mm, comprimées, striolées de façon subconcentrique, plus d'une trentaine.
-
-Congo, Gabon et Cabinda (Gossweiler 6280 BM!). Bords de rivières et galeries forestières en pays de savanes.
+Congo, Gabon and Cabinda (Gossweiler 6280 BM!). Riverbanks and forest galleries in savanna country.
 
 ## Specimens examined
 

@@ -17,27 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 113 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 125 (1948).
 
-- F. sciarophylla WARB. l.c.: 31, tab. 13 (1904); MILDBR. & BURRET, l.c.: 203 (1911). TYPE: Schweinfurth 3872, Soudan, Niamniam, riv. Huuh (holo-, non trouvé à B; iso-, P).
+- F. sciarophylla WARB. l.c.: 31, tab. 13 (1904); MILDBR. & BURRET, l.c.: 203 (1911). TYPE: Schweinfurth 3872, Sudan, Niamniam, riv. Huuh (holo-, not found at B; iso-, P).
 
-- r. zenkeri MILDBR. & BURRET, l.c.: 204, tab. 2 (1911); HUTCH., l.c.: 120 (1916); LEBRUN & BOUTIQUE, l.c.: 122 (1948). TYPE: Zenker 1562, Cameroun, Bipindi (holo-, B, non vu ; iso-, BM, K, L, P).
+- F. zenkeri MILDBR. & BURRET, l.c.: 204, tab. 2 (1911); HUTCH., l.c.: 120 (1916); LEBRUN & BOUTIQUE, l.c.: 122 (1948). TYPE: Zenker 1562, Cameroon, Bipindi (holo-, B, not seen; iso-, BM, K, L, P).
 
-- F. inopinata MILDBR., Mitteil. Bot. Gart. Berlin (Willdenowia) 1:127 (1953). TYPE : Schlosser 4, Cameroun, Lomie (holo-, B).
+- F. inopinata MILDBR., Mitteil. Bot. Gart. Berlin (Willdenowia) 1:127 (1953). TYPE: Schlosser 4, Cameroon, Lomie (holo-, B).
 
 - F. bongouanouensis A. CHEV., Expl. bot. Afr. Occ. Franc. 1: 604 (1920), nomen; AUBRÉV., FFCI, ed. 2, 1: 80, tab. 14 (1959).
 
-Arbres atteignant 35 m ou plus, avec contreforts. Rameaux feuillés épais de 1-2 mm, glabres sauf sur les cicatrices des stipules, rouge brun sombre à noirâtres sur le sec. Feuilles dispersées en spirales ou tendant à être distiques. Limbe oblong à elliptique, parfois à (sub) ové, long de 5-15 cm, large de 2-5 cm, subcoriace, sommet subaigu à (longuement) acuminé, base aiguë à cordée, bord entier (ou lobé sur les plantes juvé-niles) ; les deux faces éparsement très courtement pubérulentes à presque glabres, face supérieure (presque) lisse à scabride, nervures faiblement saillantes dessus, ± saillantes dessous, (6-) 8-11 paires de nervures latérales, y compris 1 (2) paires de nervures basales. Pétiole long de 1-2 cm environ, épais de 1 mm environ, éparsement à plutôt densément pubérulent blanc. Stipules libres, longues de 0,3-0,7 cm, pubérulentes blanches, caduques.
+Trees reaching 35 m or more, with buttresses. Leafy branchlets 1-2 mm thick, glabrous except on the scars of stipules, dark red-brown to blackish when dry. Leaves scattered in spirals or tending to be distichous. Blade oblong to elliptic, sometimes (sub)ovate, 5-15 cm long, 2-5 cm wide, subcoriaceous, apex subacute to (long) acuminate, base acute to cordate, margin entire (or lobed on juvenile plants); both faces sparsely very shortly puberulent to almost glabrous, upper face (almost) smooth to scabrid, veins weakly prominent above, ± prominent below, (6-) 8-11 pairs of lateral veins, including 1 (2) pairs of basal veins. Petiole approximately 1-2 cm long, approximately 1 mm thick, sparsely to rather densely white puberulent. Stipules free, 0.3-0.7 cm long, white puberulent, caducous.
 
-Figues solitaires ou par paires dans les aisselles des feuilles ; pédon-cule long de 0,3-1 cm, épais de 0,5-1 mm, pubérulent, avec une « bractée » à la base du pédoncule ; bractées basales 3, ovées, longues de 1,5-2 mm, très courtemment pubérulentes ; réceptacle globuleux à
+Figs solitary or in pairs in the leaf axils; peduncle 0.3-1 cm long, 0.5-1 mm thick, puberulent, with a "bract" at the base of the peduncle; basal bracts 3, ovate, 1.5-2 mm long, very shortly puberulent; receptacle globose to obovoid, 1.2 cm diameter when fresh, 0.7-1 cm when dry, shortly puberulent, yellow at maturity, ostiole flat.
 
-obovoïde, d'un diamètre de 1,2 cm sur le frais, de 0,7-1 cm sur le sec, courtement pubérulent, jaune à maturité, ostiole plat.
+Pistillate flowers with perianth bi- or trilobed (-cleft) approximately, stigma usually 2, ± unequal; seed flowers sessile or with pedicel reaching 0.5 mm, style approximately 1.5 mm long; gall flowers with pedicel reaching 2 mm, style approximately 0.5 mm long. Fruits oblong-ellipsoid to ellipsoid, approximately 1 mm long; gall fruits 1.5-2 mm long, stipitate over a length of 1 mm. Staminate flowers sessile, perianth approximately 1 mm high, bi- or trifid, filament 0.1 mm long, anther approximately 0.8 mm long, apiculate. - Pl. 40, fig. 3, p. 145.
 
-Fleurs pistillées avec périanthe bi- ou trilobé (-fendu) environ, stigmate habituellement 2, ± inégaux ; fleurs à graines sessiles ou à pédicelle atteignant 0,5 mm, style long de 1,5 mm environ ; fleurs à galles à pédicelle atteignant 2 mm, style long de 0,5 mm environ. Fruits oblongoides à ellipsoides, longs de 1 mm environ ; fruits à galles longs de 1,5-2 mm, stipités sur une longueur de 1 mm. Fleurs staminées sessiles, périanthe haut de 1 mm environ, bi- ou trifide, filet long de 0,1 mm, anthère longue de 0,8 mm environ, apiculée. - Pl. 40, fig. 3, p. 145.
-
-Pollinisateurs : Dolichoris flabellata Wiebes (Gabon).
+Pollinators: Dolichoris flabellata Wiebes (Gabon).
 
 ## Type
 
@@ -45,11 +41,9 @@ Schweinfurth 3614, Zaire, Monbuttu, riv. Kibali (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The material found in West Africa is somewhat different from that collected in Cameroon, Gabon (for example by the tendency of the blade to have a cordate base), and further to the East; it shows a tendency to have a subacute base of blade. The type specimen of F. variifolia consists of a juvenile specimen. The same is true for F. sciarophylla. Juvenile specimens have a margin coarsely crenate-dentate to ± deeply lobed and rather long white hairs on both faces; the stipules are most often not entirely amplexicaul.
 
-Le matériel trouvé en Afrique occidentale est quelque peu différent de celui récolté au Cameroun, au Gabon (par exemple par la tendance du limbe à avoir une base cordée), et plus vers l'Est ; il montre une tendance à avoir une base de limbe subaiguë. L'échantillon-type de F. variifolia est composé d'un spécimen juvénile. Il en est de même pour F. sciarophylla. Les spécimens juvéniles ont un bord grossièrement crénelé-denté à ± profondément lobé et des poils plutôt longs blancs sur les deux faces ; les stipules sont le plus souvent non entièrement amplexicaules.
-
-Cette espèce est connue de la Sierra Leone, de Côte d'Ivoire, s'étendant peut-être aussi en Guinée et au Dahomey ; et en outre, dans une aire s'étendant du Cameroun à l'Angola (Cabinda) par le Gabon et au Zaïre, à l'Uganda et (probablement) au Soudan en passant par la Centrafrique. On la rencontre dans les forêts denses humides sempervirentes, mais aussi dans des types forestiers plus secs.
+This species is known from Sierra Leone, Côte d'Ivoire, extending perhaps also into Guinea and Dahomey; and furthermore, in an area extending from Cameroon to Angola (Cabinda) through Gabon and Zaïre, Uganda and (probably) Sudan via the Central African Republic. It is found in dense humid evergreen forests, but also in drier forest types.
 
 ## Specimens examined
 

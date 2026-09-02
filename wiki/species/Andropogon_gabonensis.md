@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, up to 3 m or more tall. Culms rounded, glabrous, with numerous nodes, up to 1 cm in diameter. Leaf sheaths more or less pubescent toward the apex, ligule truncate, ciliate, approximately 3 mm long. Blades acuminate, capable of exceeding 50 cm long and 2.5 cm wide, scabrous on the margins, central nerve thick.
 
-Herbe pérenne, jusqu'à 3 m et plus de haut. Chaumes arrondis, glabres, à nombreux nœuds, jusqu'à 1 cm de diamètre. Gaines foliaires plus ou moins pubescentes vers le haut, ligule tronquée, ciliée, environ 3 mm de long. Limbes acuminés pouvant dépasser 50 cm de long et 2,5 cm de large. scabres sur les bords, nervure centrale épaisse.
+Paniculate inflorescence reaching 1 m long.
 
-Inflorescence paniculée atteignant 1 m de long.
+Racemes up to 6 cm long. Rachis articles and pedicels approximately 3 mm long, shortly pubescent on one or two margins.
 
-Racèmes jusqu'à 6 cm de long. Articles du rachis et pédicelles d'environ 3 mm de long, courtement pubescents sur un ou 2 bords.
+Sessile spikelets 5 to 7 mm long, including the callus. Lower glume acuminate or shortly bidentate, depressed on the back, glabrous or slightly pubescent in the dorsal groove, scabrous toward the apex. Upper glume naviculate, acuminate, 3-nerved, scabrous on the keel and ciliate. Sterile lemma as long as the glumes, ciliate on the margins. Fertile lemma somewhat shorter, glabrous, shortly bifid, extended into the sinus by a slender awn reaching up to 15 mm long, geniculate in its middle. Palea approximately 2 mm long. Pedicellate spikelet male. Lower glume acuminate with 7 or 11 nerves, back rounded; upper glume 3-nerved. Lemmas hyaline, that of the lower floret 3-nerved, retrorsely ciliate; that of the upper floret somewhat shorter, 1-nerved.
 
-Épillets sessiles de 5 à 7 mm de long, y compris le callus. Glume inférieure acuminée ou courtement bidentée, déprimée sur le dos, glabre ou légèrement pubescente dans le sillon dorsal, scabre vers le haut. Glume supérieure naviculaire, acuminée, à 3 nervures, scabre sur la carène et ciliée. Lemma stérile aussi longue que les glumes, ciliée sur les bords. Lemma fertile un peu plus courte, glabre, courtement bifide, prolongée dans le sinus par une arête mince atteignant jusqu'à 15 mm de long, genouillée dans son milieu. Palée d'environ 2 mm de long. Épillet pédicellé mâle. Glume inférieure acuminée à 7 ou 11 nervures, dos arrondi; glume supérieure à 3 nervures. Lemmas hyalines, celle de la fleur inférieure à 3 nervures, rétrosement ciliée; celle de la fleur supérieure un peu plus courte, à une nervure.
-
-Cette espèce est signalée du Gabon, de la République du Congo et du Congo ex-belge. On la rencontre sur des sols bien
-
-pourvus en humus, bas-fonds ou lisières forestières. Elle est généralement abondante dans ces stations. Dans les régions de savane, sa présence est l'indice des meilleures terres cultivables. C'est une bonne plante fourragère qui résiste assez bien à la saison sèche.
+This species is recorded from Gabon, the Republic of the Congo, and the Belgian Congo. It is found on soils rich in humus, in low-lying areas or forest margins. It is generally abundant in these habitats. In savanna regions, its presence is an indicator of the best arable lands. It is a good forage plant that resists the dry season fairly well.
 
 ## Vernacular names
 

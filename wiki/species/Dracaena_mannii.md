@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Draco mannii (Baker) Kuntze, Revis. gen. pl. 2 : 710 (1891) . D. usambarensis Engl. var. longifolia De Wild., Miss. Ém. Laurent 1 : 43 (1905). D. tessmannii Engl. & K.Krause, Bot. Jahrb. Syst. 45 : 151 (1910). Pleomele mannii (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Arbre atteignant 40 m de hauteur ; tronc jusqu’à 1,5 m de diamètre ; écorce grise, fissurée longitudinalement, absence d’exsudat résineux, entaille blanc crème, odeur faible. Feuilles spiralées , densément réparties le long des branches, parfois concentrées aux extrémités, laissant la tige visible entre elles ; gaine embrassant la tige sur les ½ ou les ¾ de la circonférence , sur une longueur de < 1 cm, cicatrice foliaire lunulée ; pseudopétiole absent ; limbe ensiforme à étroitement obovale , jusqu’à 70 × 4,5 cm, base graduellement rétrécie, s’élargissant abruptement vers la gaine, sommet graduellement rétréci en un mucron de ± 2 mm, coriace, brun foncé ou noir sur le sec , face supérieure vert moyen brillant, non panachée, à bords verts, face inférieure vert pâle avec nervure médiane proéminente. Inflorescence dressée, paniculée à nombreuses branches , jusqu’à 40 cm de longueur et 70 cm de largeur, à axes lisses, jaunevert ; bractées sous-tendant les branches rapidement caduques, triangulaires, jusqu’à 10 × 7 mm, diminuant de taille vers le sommet, scarieuses ; fascicules avec jusqu’à 8 fleurs , chacun sous-tendu par une petite bractée caduque, triangulaire, jusqu’à 5 mm de longueur, scarieuse ; bractées florales ± 1 mm de longueur, scarieuses. Fleur odorante ; pédicelle jusqu’à 4 mm, articulé jusqu’à 3,5 mm de la base ; périanthe 12–15 mm de longueur , blanc verdâtre, lobes plus longs que le tube, étalés à réfléchis ; étamines insérées près de la gorge, jusqu’à 1,5 mm plus courtes que les lobes, filet blanc, filiforme, anthère ± 2 mm de longueur, jaune pâle ; ovaire oblong, jusqu’à 2 × 1 mm ; style exsert sur jusqu’à 1 mm, blanc, stigmate ± 0,5 mm de diamètre. Fruit sphérique à obloïde , jusqu’à 25 mm de diamètre, entier à superficiellement 2- ou 3-lobé, rouge orangé ; réceptacle jusqu’à 4 mm de longueur. Graine non vue.
+Draco mannii (Baker) Kuntze, Revis. gen. pl. 2 : 710 (1891) . D. usambarensis Engl. var. longifolia De Wild., Miss. Ém. Laurent 1 : 43 (1905). D. tessmannii Engl. & K.Krause, Bot. Jahrb. Syst. 45 : 151 (1910). Pleomele mannii (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Tree reaching 40 m in height; trunk up to 1.5 m in diameter; bark grey, longitudinally fissured, lacking resinous exudate, incision cream-white, weak odour. Leaves spiral, densely distributed along the branches, sometimes concentrated at the extremities, leaving the stem visible between them; sheath embracing the stem over ½ or ¾ of the circumference, over a length of < 1 cm, leaf scar lunulate; pseudopetiole absent; blade ensiform to narrowly obovate, up to 70 × 4.5 cm, base gradually narrowed, abruptly widening towards the sheath, apex gradually narrowed into a mucro of ± 2 mm, coriaceous, dark brown or black when dry, upper surface mid-green glossy, not variegated, with green margins, lower surface pale green with prominent midvein. Inflorescence erect, paniculate with numerous branches, up to 40 cm in length and 70 cm in width, with smooth axes, yellowish-green; bracts subtending the branches rapidly caducous, triangular, up to 10 × 7 mm, decreasing in size towards the apex, scarious; fascicles with up to 8 flowers, each subtended by a small caducous bract, triangular, up to 5 mm in length, scarious; floral bracts ± 1 mm in length, scarious. Flower fragrant; pedicel up to 4 mm, articulate up to 3.5 mm from the base; perianth 12–15 mm in length, yellowish-white, lobes longer than the tube, spreading to reflexed; stamens inserted near the throat, up to 1.5 mm shorter than the lobes, filament white, filiform, anther ± 2 mm in length, pale yellow; ovary oblong, up to 2 × 1 mm; style exserted for up to 1 mm, white, stigma ± 0.5 mm in diameter. Fruit spherical to obloid, up to 25 mm in diameter, entire to superficially 2- or 3-lobed, orange-red; receptacle up to 4 mm in length. Seed not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bénin, Nigéria, Cameroun, Guinée équatoriale, Gabon, République du Congo, République centrafricaine, République démocratique du Congo et Angola ; au Gabon, connu du Moyen-Ogooué, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du Woleu-Ntem
+Benin, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon, known from Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire humide, près des villages et bords de route ; au Gabon à 0–900 m d’altitude, ailleurs à 0–1150 m. Floraison enregistrée en avril et octobre
+humid primary forest, near villages and roadsides; in Gabon at 0–900 m altitude, elsewhere at 0–1150 m. Flowering recorded in April and October
 
 B A C D E
 
-Usage : L’espèce est un arbre à multiples usages et elle est parfois plantée près des villages. Elle est utilisée en médecine pour plusieurs maladies. Elle produit des fibres, des teintures, de la résine et le tronc sert pour la production des sculptures, des instruments de musique, des jeux et jouets, etc.
+Use: The species is a multipurpose tree and is sometimes planted near villages. It is used in medicine for several diseases. It produces fibres, dyes, resin and the trunk is used for the production of sculptures, musical instruments, games and toys, etc.
 
 ## Vernacular names
 
@@ -43,9 +37,7 @@ Asparagus tree, Asparagus bush (angl.) ; alen ocpo (nom pilote)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. nitens , D. perrottetii et D. usambarensis sont étroitement liés à D. mannii et sont même traités comme des synonymes par Bos (1984). Ici, nous les traitons comme des taxons distincts sur la base des caractères mentionnés dans la clé. B : Baker (1898), Bos (1984), Burkill (1985), Damen et al. (2018), Hepper (1968), Marquet i B liographie (1987), Mwachala (2005, 2007) , Velayos & Cabezas (2018)
+D. nitens, D. perrottetii and D. usambarensis are closely related to D. mannii and are even treated as synonyms by Bos (1984). Here, we treat them as distinct taxa based on the characters mentioned in the key. B: Baker (1898), Bos (1984), Burkill (1985), Damen et al. (2018), Hepper (1968), Marquet (1987), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
 ## Notes
 

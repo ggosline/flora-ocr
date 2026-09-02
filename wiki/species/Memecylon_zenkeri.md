@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.50 to 2 m; young twigs 4-angular-winged. Leaves dull green, not coriaceous; petiole 5 to 8 mm; blade elliptic-lanceolate, 5–7 (8) × 8–13 (15) cm, with acute acumen, 1 to 2 cm long; veins clearly visible, impressed above, salient below; 9 to 15 transverse veins, slightly oblique, distinctly curved together with the convergent ones 5–8 mm from the margin.
 
-Arbuste de 0,50 à 2 m; jeunes rameaux 4-angulaires-ailés. Feuilles vert terne, non coriaces; pétiole de 5 à 8 mm; limbe elliptique-lancéolé, 5-7 (8) × 8-13 (15) cm, acumen aigu, long de 1 à 2 cm; nervures bien visibles, imprimées dessus, saillantes dessous; de 9 à 15 transversales, légèrement obliques, nettement coarquées avec les convergentes de 5-8 mm de la marge.
+Cymes on leafy and aphyllous nodes, 1 cm long, sessile or sub-sessile and briefly branched, of 8 to 12 apparently fasciculate flowers; bracts narrowly triangular, caducous. Flower with pedicel 4 mm; hypantho-calyx cupulo-patellate, 3.5 × 3 mm, with entire margin. Corolla conical, scarcely apiculate in bud; petals rhomboid, 2.2 × 3 mm, without claw, thick median costa. Anther 2 × 1.2 mm; connective conical-acute, slightly saddle-shaped, elliptic gland; filament 3 mm. Epigynous chamber deep, with almost absent septa; style 4 mm. Ovary 6-ovulate.
 
-Cymes sur les nœuds feuillés et aphyllés, longues de 1 cm, sessiles ou sub-sessiles et brièvement ramiﬁées, de 8 à 12 ﬂeurs apparemment fasciculées; bractées étroitement triangulaires, caduques. Fleur à pédicelle de 4 mm; hypantho-calice cupulo-patellé, 3,5 × 3 mm, à marge entière. Corolle conique, à peine apiculée dans le bouton; pétales rhomboïdes, 2,2 × 3 mm, sans onglet, côte médiane épaisse. Anthère 2 × 1,2 mm; connectif conique-aigu, peu ensellé, glande elliptique; ﬁlet 3 mm. Chambre épigyne profonde, à cloisons presque nulles; style 4 mm. Ovaire 6-ovulé.
-
-Fruit ellipsoide à ovo-ellipsoide, 7-8 × 13-20 mm.
+Fruit ellipsoid to ovo-ellipsoid, 7–8 × 13–20 mm.
 
 ## Type
 
@@ -33,9 +31,7 @@ Zenker 672, 717; Zenker & Staudt 400, 577 (B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de petite taille, remarquable par ses feuilles gaufrées. Surtout fréquente au Cameroun.
+Species of small stature, remarkable for its wrinkled leaves. Especially frequent in Cameroon.
 
 ## Specimens examined
 

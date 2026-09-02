@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Description based on cited Gabonese material:
 
-Description d’après le matériel gabonais cité :
+Shrub 2–4 m tall with glabrous internodes. Stipules glabrous, lanceolate, acute, 9–15 mm, connate at the leaf axils. Petiole glabrous, 6–16 mm long. Blade glabrous, ± pale olivaceous, oblong or elliptic, 10–22 × 3–8 cm, with symmetric acute base, acuminate apex. Midrib prominent on the upper surface of the dried blade. 5–9 (10) pairs of secondary nerves. Domatia absent and perfectly glabrous.
 
-Arbuste de 2-4 m de hauteur à entrenœuds glabres. Stipules glabres lancéolées aiguës de 9-15 mm, connées aux aisselles foliaires. Pétiole glabre long de 6-16 mm. Limbe glabre ± olivacé clair, oblong ou elliptique de 10-22 × 3-8 cm, à base symétrique aiguë, à sommet acuminé. Médiamé en relief sur le dessus du limbe à sec. 5-9 (10) paires de nervures secondaires. Domaties nulles et parfaitement glabres.
+Inflorescences 4–11-flowered in a small panicle 1–2.5 cm without the corollas, with subnull peduncle, glabrous axes, inconspicuous bracts. Pedicels 1–6 mm. Flowers white, glabrous. Ovary turbinate; calyx tube cupulate for 1–2 mm in height; lobes tapered, 1–2 mm long. Corolla tube 7–18 cm long, 1–2 mm wide; lobes ribbon-like, acute, 17–18 × 2 mm. Anthers exserted, 4 × 0.5 mm. Style glabrous, extending well beyond the throat and terminated by a small fusiform club.
 
-Inflorescences 4-11-flores en petit panicule de 1-2,5 cm sans les corolles, à pédoncule subnul, à axes glabres, à bractées minimes peu distinctes. Pédicelles de 1-6 mm. Fleurs blanches glabres. Ovaire turbiné; tube du calice en cupule sur 1-2 mm de hauteur; lobes effilés longs de 1-2 mm. Tube de la corolle long de 7-18 cm, large de 1-2 mm; lobes rubanés aigus de 17-18 × 2 mm. Anthères exsertes de 4 × 0,5 mm. Style glabre dépassant beaucoup la gorge et terminé par une petite massue fusiforme.
-
-Fruits verts lisses subglobuleux ou ovoïdes de 14-19 mm de diamètre, à pédoncule de 3-5 mm, à cupule calycinale caduque. Graines brunes ovales comprimées longues de 5 mm.
+Fruits green, smooth, subglobose or ovoid, 14–19 mm in diameter, with peduncle 3–5 mm, calycine cup caducous. Seeds brown, oval, compressed, 5 mm long.
 
 ## Type
 
@@ -33,11 +31,9 @@ Welwitsch 2582, Pungo Andongo, et 2582 b, Golungo Alto, Angola (BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, whose nerve axils are ordinarily glabrous, seems to us difficult to delimit. We attribute to it some of the plants cited by Keay (F.W.T.A. 1963) as O. subpunctatus (Hiern) Keay, and previously determined at Kew as O. tenuis Stapf. On the other hand, we attribute to it the plant of Le Testu which was given by Pellegrin (Fl. Mayombe 1938) as O. aff. sankuruensis De Wild. Certain Congolese plants determined as O. Laurentii De Wild. seem to us likewise very close. Specimens finally whose leaves have some hairs at the nerve axils, notably in Central African Republic and Congo, do not seem to us distinctly different, the species being, as above, considered in the broad sense.
 
-Cette espèce dont les aisselles nervaires sont ordinairement glabres, nous paraît difficile à délimiter. Nous y rapportons quelques-unes des plantes citées par Keay (F.W.T.A. 1963) comme O. subpunctatus (Hiern) Keay, et ayant auparavant été déterminées à Kew comme O. tenuis Stapf. D'autre part nous y rapportons la plante de Le Testu qui fut donnée par Pellegrin (Fl. Mayombe 1938) comme O. aff. sankuruensis De Wild. Certaines plantes congolaises déterminées comme O. Laurentii De Wild. nous paraissent également très proches. Des spécimens enfin dont les feuilles ont quelques poils aux aisselles nervaires, notamment en Centrafrique et au Congo, ne nous paraissent pas nettement distinctes, l'espèce étant, comme ci-dessus, considérée au sens large.
-
-De la Sierra Leone (Small 549) et du Liberia (Adam 21572) jusqu'à l'Angola.
+From Sierra Leone (Small 549) and Liberia (Adam 21572) to Angola.
 
 ## Specimens examined
 

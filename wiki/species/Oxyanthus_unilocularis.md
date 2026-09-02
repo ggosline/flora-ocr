@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub of 1.5–4 m or bushy habit exceeding 8 m in height; internodes angular and spongy ± puberulent. Stipules lanceolate 15–30 × 9–15 mm, connate-tubular for nearly 1 cm at least at the juvenile stage, and ± pubescent. Petiole puberulent 2–12 mm. Limb smooth or ± waffle-textured, glabrous or ± pubescent above, always ± pubescent below, thin, broadly elliptic obovate 25–55 × 13–32 cm; base broadly cordate and very unequal except on the leaves of the orthotropic axis which are symmetrical; apex acuminate. 14–16 pairs of secondary nervures ± pubescent as well as the midvein.
 
-Arbrisseau de 1,5-4 m ou arbusté dépassant 8 m de hauteur; entrenœuds anguleux et médulleux ± pubérulents. Stipules lancéolées de 15-30 × 9-15 mm, connées-tubuleuses sur près de 1 cm au moins au stade juvénile, et ± pubescentes. Pétiole pubérulent de 2-12 mm. Limbe lisse ou ± gaufré, glabre ou ± pubescent
+Inflorescence corymbiform ± lax with peduncle 10–20 mm, with ± pubescent axes, with small bracts very acute 2–5 mm. 20–80 white flowers erect. Pedicel 2–5 mm. Ovary turbinate ± puberulent; calyx green with tube 2 mm tall and approximately as wide, with 5 subulate tapered lobes, ciliolate, 3–6 (9) mm long, erect before anthesis, arched afterward. White glabrous corolla with tube 13–20 × 0.15–0.3 cm; 5 lobes overlapping to the left in the bud, narrowly lanceolate 15–30 × 3–5 mm. Stamens sessile exsert for 4/5 of the length; pollen white in tetrads. Style glabrous with pale green clavuncle very narrow, with clavuncle 1 cm long exceeding the throat, and with 2 very small apical stigmatic lips. Disk very flattened 2.8 mm in diameter. Ovary with 2 parietal placentas partially fused at the extremities.
 
-dessus, toujours ± pubescent dessous, mince, largement elliptique obové de 25-55 × 13-32 cm; base largement cordée et très inégale sauf sur les feuilles de l'axe orthotrope qui sont symétriques; sommet acuminé. 14-16 paires de nervures secondaires ± pubescentes ainsi que la médiane.
-
-Inflorescence corymbiforme ± lâches à pédoncule de 10-20 mm, à axes ± pubescents, à petites bractées très aiguës de 2-5 mm. 20-80 fleurs blanches dressées. Pédicelle de 2-5 mm. Ovaire turbiné ± pubérulent; calice vert à tube haut de 2 mm, et à peu près aussi large, à 5 lobes subulés effilés, ciliolés, longs de 3-6 (9) mm, dressés avant l'anthèse, arqués ensuite. Corolle blanche glabre à tube de 13-20 × 0,15-0,3 cm; 5 lobes recouvrants vers la gauche dans le bouton, étroitement lancéolés de 15-30 × 3-5 mm. Anthères sessiles exsertes sur les 4/5 de la longueur; pollen blanc en tétrades. Style glabre à massue vert pâle très étroite, à massue longue de 1 cm dépassant la gorge, et à 2 très petites lèvres stigma-tiques apicales. Disque très aplati de 2,8 mm de diamètre. Ovaire à 2 placentas pariétaux partiellement soudés aux extrémités.
-
-Fruit pédonculé vert, ovoïde ou subglobuleux de 2-3 × 1-2,5 cm; péricarpe dépassant 2 mm d'épaisseur à sec. Graines nombreuses à test d'aspect fibreux.
+Fruit pedunculate green, ovoid or subglobose 2–3 × 1–2.5 cm; pericarp exceeding 2 mm thick when dry. Seeds numerous with fibrous-looking testa.
 
 ## Type
 
@@ -38,21 +34,19 @@ Barter 1075 (K!, isotype P!), Nord Nigeria, et Mann 506 (K, isotype P! « 509 »
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De Guinée occidentale jusqu'en Ouganda et Angola. Petites clairières de ruisseaux, bords de rivières, sur alluvions  $ \pm $ sableuses et inondables.
+From West Guinea to Uganda and Angola. Small stream clearings, river margins, on ± sandy and inundable alluvium.
 
 Dybowski s. n., Ogooué.
 
-N. Hallé 1983, 10 km SW de Ndjolé (fl. mai); 2116, Matadi, Sud de Lamba-réné (fl. mai).
+N. Hallé 1983, 10 km SW of Ndjolé (fl. May); 2116, Matadi, South of Lambaréné (fl. May).
 
-Klaine 2540, 2663, Donghila (fr. v. nov.).
+Klaine 2540, 2663, Donghila (fr. v. Nov.).
 
-Le Testu 7154, 8702, Lastoursville (fl. mars et avr.).
+Le Testu 7154, 8702, Lastoursville (fl. Mar. and Apr.).
 
-Trilles 54, Haut-Udzème (fl. et fr. janv.).
+Trilles 54, Upper Udzème (fl. and fr. Jan.).
 
-Walker s. n., Saint-Martin (fl. nov.).
+Walker s. n., Saint-Martin (fl. Nov.).
 
 ## Figures
 

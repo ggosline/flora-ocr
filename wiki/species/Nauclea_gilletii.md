@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree with bright yellow wood reaching 45 (?) cm in diam. Bark of young internodes glabrous and smooth; mature branchlets beige-grey and longitudinally wrinkled when dry. Foliaceous stipules plane, 10–26 × 5–13 mm, adorned only at the juvenile stage with an obtuse small basal keel. Petiole 12–30 (36) mm, glabrous. Lamina glabrous on both surfaces and often becoming dull greyish-brown on the upper surface when dry, (6) 10–25 × (3) 5–15 cm, elliptic or obovate; base ± rounded and briefly acute to attenuate-acute; apex rounded or obtuse, with acumen often absent or barely distinct and less than 5 mm. Midvein frequently bifurcate before the ultimate apex of the lamina. 5–8(9) pairs of secondary veins.
 
-Arbre à bois jaune vif atteignant 45 (?) cm de diam. Écorce des jeunes entrenœuds glabre et lisse; rameaux aoûtés gris beige et plissés en long à sec. Stipules foliacées planes de 10-26 × 5-13 mm, ornées seulement au stade juvénile d'une obtuse petite carène basale. Pétiole de 12-30 (36) mm, glabre. Limbe glabre sur les deux faces et devenant souvent brun cendré terne sur la face supérieure à sec, de (6) 10-25 × (3) 5-15 cm, elliptique ou obové; base ± arrondie et brièvement aiguë jusqu'à atténuée aiguë; sommet arrondi ou obtus, à acumen souvent nul ou à peine distinct et inférieur à 5 mm. Nervure médiane fréquemment bifurquée avant l'ultime apex du limbe. 5-8(9) paires de nervures secondaires.
+Inflorescences terminal and solitary, sometimes situated on very short secondary branchlets; peduncle 12–25 mm long, with two scar levels, one situated near the base, the other situated in the lower third. Flower clusters white, spherical, ca. 2–3 cm in diam. at anthesis. Calyces tubular, coherent with one another in a continuous network; sepal lobes thick, very short and micropubescent. Corolla ca. 8 mm long, with 4–5 lobes each bearing a line of hairs on the axis of the inner surface, sometimes 2–3 ± parallel lines. 4–5 stamens ca. 1.5 mm long. Style 10–13 mm; stigma clavate-acuminate, ca. 2 mm long. Ovary 2-locular.
 
-Inflorescences terminales et solitaires, parfois situées sur de très courts rameaux secondaires; pédoncule de 12-25 mm de long, à deux niveaux cicatriciels, l'un situé près de la base, l'autre situé dans le tiers inférieur. Bouquets floraux blancs, sphériques, d'env. 2-3 cm de diam. à l'anthèse. Calices tubuleux adhérents entre eux en un réseau continu; lobes sépalaires épais, très courts et micropubérulents. Corolle d'env. 8 mm de long, à 4-5 lobes portant chacun une ligne de poils sur l'axe de la face interne, parfois 2-3 lignes ± parallèles. 4-5 étamines d'env. 1,5 mm de long. Style de 10-13 mm; stigmate en massue acuminée, long d'env. 2 mm. Ovaire à 2 loges.
+Young fruit 2.5 cm in diam., adorned by the persistent calyces which form a continuous network. Mature fruit not observed.
 
-Jeune fruit de 2,5 cm de diam., orné par les calices persistants qui forment un réseau continu. Fruit à plein développement non observé.
+The type of the species, Gillet 1069, from Kisantu, Lower Congo, conserved at Brussels, although in rather poor condition, nevertheless permits
 
-Le type de l'espèce, Gillet 1069, de Kisantu, Bas-Congo, conservé à Bruxelles, bien qu'en assez mauvais état, permet
+recognition of the specific characters. The original description is fairly precise and permits ready recognition of the species. N. Gilletii is very close to N. xanthoxylon (A. Chev.) Aubréville; it differs essentially only in the pubescence of the lower surface of the lamina. It is possible that this Nauclea, not known from Gabon, is in fact merely a variety of N. Gilletii. With E. Petit (1962) we prefer to await further materials that can be studied before drawing conclusions. In the provisional state of our data, we refer to N. Gilletii all specimens with characteristics of N. xanthoxylon but having laminae with glabrous lower surface (Aubréville 2805, Ivory Coast; Léontovitch 33, Belgian Congo; Tisserant 2171, Boukoko, Ubangi).
 
-toutefois de reconnaître les caractères spécifiques. La description originale est assez précise et permet de bien reconnaître l'espèce. Le N. Gilletii est très voisin du N. xanthoxylon (A. Chev.) Aubréville; il n'en diffère essentiellement que par la pilosité de la face inférieure du limbe. Il se peut que ce Nauclea, non connu du Gabon, ne soit en fait qu'une variété du N. Gilletii. Avec E. Petit (1962) nous préférons attendre que des matériaux complémentaires puissent être étudiés avant de conclure. Dans l'état provisoire de nos données, nous rapportons au N. Gilletii tous les spécimens à caractères de N. xanthoxylon mais ayant des limbes à face inférieure glabre (Aubréville 2805, Côte-d'Ivoire; Léontovitch 33, Congo ex-belge; Tisserant 2171, Boukoko, Oubangui).
-
-Même habitat ripicole que le N. xanthoxylon.
+Same riparian habitat as N. xanthoxylon.
 
 ## Vernacular names
 

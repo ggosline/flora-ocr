@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-BASIONYME : Dendrobium pumilum Sw., Schrad. N. J. Bot. 1(1) : 97. (1805). – TYPE :
+BASIONYM: Dendrobium pumilum Sw., Schrad. N. J. Bot. 1(1) : 97. (1805). – TYPE:
 
 Afzelius s.n.(in Herb. Swartz), Sierra Leone, holo-S.
 
@@ -51,45 +49,41 @@ Afzelius s.n.(in Herb. Swartz), Sierra Leone, holo-S.
 
 – Bulbophyllum elachon J. J. Verm., Selbyana 7:11 (1982).
 
-Pseudobulbes 0,3-4 × 0,3-1,8 cm, orbiculaires à étroitement ovoïdes, 1-foliés. Feuille pétiolée, 1,1-23 × 0,6-4 cm, suborbiculaire à
+Pseudobulbs 0.3-4 × 0.3-1.8 cm, orbicular to narrowly ovoid, 1-foliate. Leaf petiolate, 1.1-23 × 0.6-4 cm, suborbicular to
 
-PL. 99. – Bulbophyllum nigritianum Rendle; A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
+PL. 99. – Bulbophyllum nigritianum Rendle; A, general view ; B, flower ; C, floral parts ; D, labellum ; E, labellum and gynostemium in natural position, lateral view ; F, anther ; G, pollinia (A-G, ex VERMEULEN, 1987).
 
-oblancéolée-linéaire. Inflorescence 2-31 cm, 3-65-flore, assez lâche, rachis glabre. Fleurs petites. Sépales blancs ou verdâtres souvent estompés de pourpre ou de rouge ou tout pourpre-rouge, face abaxiale glabre, face adaxiale munie de papilles fines ou éparses ; sépale dorsal oblong à triangulaire, aigu à courtement acuminé ; sépales latéraux base très large et sacciforme, reste triangulaire, lancéolé-ové, falciforme, aigu. Pétales blancs, ovés ou en losange à linéaires-lancéolés, glabres, fines papilles marginales près du sommet. Labelle jaunâtre, verdâtre, rouge, pourpre ou blanc, ové, arrondi au sommet, épais surtout à la base, récurvé, glabre à finement papilleux, marges ciliées à papilleuses. – Pl. 101, p. 203.
+oblanceolate-linear. Inflorescence 2-31 cm, 3-65-flowered, rather lax, rachis glabrous. Flowers small. Sepals white or greenish often tinged with purple or red or entirely purple-red, abaxial surface glabrous, adaxial surface furnished with fine or scattered papillae; dorsal sepal oblong to triangular, acute to shortly acuminate; lateral sepals with very broad base and saccate, remainder triangular, lanceolate-ovate, falcate, acute. Petals white, ovate or diamond-shaped to linear-lanceolate, glabrous, fine marginal papillae near the apex. Labellum yellowish, greenish, red, purple or white, ovate, rounded at apex, thick especially at base, recurved, glabrous to finely papillose, margins ciliate to papillose. – Pl. 101, p. 203.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, Congo (Brazzaville), Congo (Kinshasa)
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Congo (Brazzaville), Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1900 m. Epiphyte on trunk and branch; lowland, coastal, primary wet forest, montane, relict forest in savanna; collected between 1 and 30 m above ground, sometimes lithophytic
 
-alt. 0-1900 m. Épiphyte sur tronc et branche ; forêt planitaire, littorale, primaire ombrophile, montagnarde, relique forestière en savane ; récolté entre 1 et 30 m ausses du sol, parfois lithophyte
+MATERIAL EXAMINED (Map 39):
 
-MATÉRIEL ÉTUDIÉ (Carte 39) :
+de Wilde s.n., Monts de Cristal, km 10, road from Tchimbélé to Kinguélé, cult. WAG (83-343), non vidi ; s.n., Wonga-Wongué Presidential Reserve, 100 km S of Libreville, locality Petit Bambam, cult. WAG (83-404), non vidi.
 
-de Wilde s.n., Monts de Cristal, km 10, route de Tchimbélé à Kinguélé, cult. WAG (83-343), non vidi ; s.n., Réserve présidentielle de Wonga-Wongué, 100 km au S de Libreville, lieudit Petit Bambam, cult. WAG (83-404), non vidi.
+de Wilde & Jongkind 9579, granite peaks, km 55, road from Doussala to Igotchi, ENE face of a vertical rocky cliff, Elfin forest type rich in moss, on the summit cornice, in a narrow zone, on pieces of bare granite (fl., March), WAG!, LBV.
 
-de Wilde & Jongkind 9579, pitons granitiques, km 55, route de Doussala à Igotchi, face ENE d'une paroi rocheuse verticale, type Elfin de forêt riche en mousse, sur la corniche sommitale, dans une zone étroite, sur des morceaux de granit nu (fl., Mars), WAG!, LBV.
-
-de Wilde, Arends, Louis, Bouman & Karper 901, Réserve présidentielle de Wonga-Wongué, 100 km au S de Libreville, lambeau forestier en direction du lieudit, Petit Bambam (fl., Mars), WAG!, LBV.
+de Wilde, Arends, Louis, Bouman & Karper 901, Wonga-Wongué Presidential Reserve, 100 km S of Libreville, forest patch towards the locality Petit Bambam (fl., March), WAG!, LBV.
 
 Hallé 3245, Bélinga (fl., Oct. & Nov.), P!.
 
-Hallé & Villiers 5456, Cap Estérias (fl., Fév.), P!.
+Hallé & Villiers 5456, Cap Estérias (fl., Feb.), P!.
 
 Lecomte s.n., Nyanga, Fernand Vaz, P!.
 
-Le Testu 5720, ravine de la Dipija, affl. de l' I'Koy (fl., Nov.), P! NB. Cette récolte a été rapportée par VERMEULEN (1987) à un hybride naturel de B. intertextum et B. pumilum. Mais elle nous paraît très semblable à la seconde, c'est pourquoi nous la citons sous B. pumilum.
+Le Testu 5720, ravine of the Dipija, tributary of the I'Koy (fl., Nov.), P! NB. This collection was referred by VERMEULEN (1987) to a natural hybrid of B. intertextum and B. pumilum. But it appears to us very similar to the latter, which is why we cite it under B. pumilum.
 
-Le Testu 5768 Chutes de la Mboumi à Mbigou (fl., Nov.), BR!, P! ; 6370b, Iméno (fl., Nov.), P!
+Le Testu 5768 Chutes de la Mboumi at Mbigou (fl., Nov.), BR!, P! ; 6370b, Iméno (fl., Nov.), P!
 
-Louis s.n., vieille forêt, 2-3 km au SE du campement forestier de la Waka, à 32 km SE de Sindara, piste d'exploitation dans la Riv. Waka, cult. WAG (83-692), non vidi..
+Louis s.n., old forest, 2-3 km SE of the Waka forest camp, 32 km SE of Sindara, logging trail in the Waka River, cult. WAG (83-692), non vidi..
 
-Reitsma J. M. & B. 3268, Monts Doudou., 60 km au SSO de Doussala, 2° 37' S, 10° 35' E (fl., Avr.), WAG!, LBV.
+Reitsma J. M. & B. 3268, Monts Doudou., 60 km SSW of Doussala, 2° 37' S, 10° 35' E (fl., Apr.), WAG!, LBV.
 
 ## Figures
 

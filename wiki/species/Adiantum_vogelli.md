@@ -22,13 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Keys, Mém. Acad. Petersb. sér. 7, 22 2 : 8, 31 (1875). — Tard., Mém. IFAN 28 : 97, pl. 15, f. 6 (1953). — Alston, FWTA : 39 (1959).
 
-Rhizome rampant, à frondes rapprochées. Ecailles piliformes, noires. Pétiole noirâtre, canaliculé, long de 8-15 cm, portant,
-
-sur toute sa longueur, d'étroites écailles noires. Limbe à contour deltoïde-lancéolé, long de 10-15 cm sur 8-10 de large, bipenné; 2-4 paires de pennes latérales semblables à la terminale, alternes, courtement pétiolées, linéaires, longues de 8-10 cm sur 2-3 de large, à extrémité deltoïde, courtement effilée. Pinnules nombreuses, contiguës, rhomboïdales-dimidiées, à base supérieure tronquée, marge supérieure incisée sur 1/3 environ de la largeur de la pinnule, à lobes tronqués, dentés. Rachis non ailé, hirsute. Surfaces nues. Nervures simples ou bifurquées vers le tiers inférieur. Sores en forme de croissant.
+Rhizome creeping, with fronds crowded together. Scales piliform, black. Petiole blackish, channelled, 8-15 cm long, bearing narrow black scales along its entire length. Frond-blade deltoid-lanceolate in outline, 10-15 cm long by 8-10 cm wide, bipinnate; 2-4 pairs of lateral pinnae similar to the terminal one, alternate, shortly petiolulate, linear, 8-10 cm long by 2-3 cm wide, with deltoid apex, shortly attenuate. Pinnules numerous, contiguous, rhomboid-dimidiate, with truncate upper base, upper margin incised for approximately 1/3 of the width of the pinnule, with truncate lobes, dentate. Rachis not winged, hirsute. Surfaces glabrous. Veins simple or bifurcate towards the lower third. Sori crescent-shaped.
 
 ## Type
 
@@ -36,11 +32,9 @@ Vogel, Fernando-Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Cameroon, Fernando Po, Prince Island, Angola, Zanzibar.
 
-De Guinée au Cameroun, Fernando-Po, Ile du Prince, Angola, Zanzibar.
-
-Cours d'eau et marécages.
+Rivers and marshes.
 
 ## Specimens examined
 

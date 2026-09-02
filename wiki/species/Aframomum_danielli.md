@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pfl. Reich, 4. 46: 218 (1904).
 
-Herbe robuste, à tiges feuillées atteignant 3 à 4 m de haut, avec les gaines aphylls de la base de teinte rougeâtre. Feuilles sessiles à subsessiles; limbe étroitement lancéolé, acuminé, atténué à la base, glabre, d'environ 20-40 × 6-9 cm. Ligule coriace obliquement tronquée, de 3 à 5 mm de long.
+Robust herb, with leafy stems reaching 3 to 4 m tall, with aphyllous sheaths at the base tinged reddish. Leaves sessile to subsessile; blade narrowly lanceolate, acuminate, attenuate at the base, glabrous, approximately 20–40 × 6–9 cm. Ligule coriaceous, obliquely truncate, 3 to 5 mm long.
 
-Inflorescences situées à la base des tiges, en grappe courte dont l'axe principal atteint une dizaine de cm de long et les branches latérales sont constituées par des épis ayant jusqu'à 6 fleurs. Bractées rouges, arrondies au sommet, mucronées, coriaces, de 3 cm de long. Bractées fertiles plus minces, atteignant 4,5 cm.
+Inflorescences located at the base of the stems, in a short raceme whose main axis reaches about ten cm long and the lateral branches are constituted by spikes bearing up to 6 flowers. Bracts red, rounded at the apex, mucronate, coriaceous, 3 cm long. Fertile bracts thinner, reaching 4.5 cm.
 
-Calice de 5 à 6 cm de long, fendu latéralement dans son tiers supérieur; corolle rouge à lobes latéraux étroits, de 2-3 cm de long, le supérieur oblong, de 3,5-5 × 2-2,5 cm. Labelle de même longueur que ce dernier, entier, relativement étroit (1,5 cm de large environ) blanc plus ou moins teinté de jaune et de rose. Lobe central du connectif staminal arrondi, presque nul; lobes latéraux étalés. Fruit rouge, d'environ 7 cm de long, non compris le calice.
+Calyx 5 to 6 cm long, split laterally in its upper third; corolla red with narrow lateral lobes, 2–3 cm long, the upper one oblong, 3.5–5 × 2–2.5 cm. Labellum of the same length as the latter, entire, relatively narrow (approximately 1.5 cm wide) white more or less tinged with yellow and pink. Central lobe of the stamen connective rounded, almost absent; lateral lobes spreading. Fruit red, approximately 7 cm long, not including the calyx.
 
 ## Type
 
@@ -38,11 +36,9 @@ Daniell 5, Sierra-Leone (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant of the forest understory in non-swampy forests, and of forest regrowth, known from Guinea to Central African Republic and Angola as well as in Fernando Po and São Thomé.
 
-Plante du sous-bois en forêts non marécageuses, et des recrus forestiers, connue de la Guinée jusqu'en Centrafrique et en Angola ainsi qu'à Fernando-Po et à San-Thomé.
-
-Noms vernaculaires (d'après Walker et Sillans) : Iyangényabambo (Mpongwé, Nkomi, Orungu); Diyombu-di-gisyèngi (Eshira, Bavarama); Ndjombé (Bavové).
+Vernacular names (according to Walker and Sillans): Iyangényabambo (Mpongwé, Nkomi, Orungu); Diyombu-di-gisyèngi (Eshira, Bavarama); Ndjombé (Bavové).
 
 ## Specimens examined
 

@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 p. p. — K. SCHUM. Sterc. Afr.: 116-117 (1900). — Cat. Plants. Talbot: 13 (1913). — Pellegr., Mém. S. B. Fr.: 38 (1950-1951).
 
-Petit arbre atteignant 9 m de haut (R. P. Klaine), à extrémités presque glabres; rameaux glabres à écorce blanchâtre. Stipules
+Small tree reaching 9 m in height (R. P. Klaine), with nearly glabrous extremities; branches glabrous with whitish bark. Stipules acute, narrow, very early caducous. Petioles glabrous, 3-11 (14) mm long. Lamina moderately coriaceous, glabrous, elongate elliptic, 8-22 × 2.5-7 cm; base very long-attenuate acute; apex sublanceolate acuminate; 8-13 pairs of pennate lateral veins, moderately ascending; venation network very prominent on both surfaces of the lamina when dry.
 
-aiguës étroites très tôt caduques. Pétioles glabres de 3-11 (14) mm de long. Limbe médiocrement coriace, glabre, longuement elliptique de 8-22 × 2,5-7 cm; base très longuement atténuée aiguë; sommet sublancéolé acuminé; 8-13 paires de nervures latérales pennées médiocrement ascendantes; réseau de nervilles très apparent sur les deux faces du limbe à sec.
+Glomerules pluriflorous, sessile on the trunk and branches, or pauciflorous and more or less axillary on the small branches. Pedicels slender, clothed with stellate hairs, articulate toward the middle or below. Flowers whitish, of variable size, 7-20 mm in diameter. Calyx more or less pubescent on the outside, with papillae on the inner surface, shortly campanulate, with 4-6 oblong acute lobes bordered by a thin puberulent rim. ♂ flower with slender androecium, glabrous or moderately pubescent, 3-6 mm long and bearing in a uniseriate crown 16 to 20 anther-lobes. ♀ flower with pubescent gynoecium, girdled toward the base with anther-lobes, composed of (3) 5-6 (7) carpels narrowly attenuate into a style and curved into a stigma at the apex. Up to a dozen ovules per carpel (Thollon 1322).
 
-Glomérules pluriflores sessiles sur le tronc et les branches, ou pauciflores et plus ou moins axillaires sur les petits rameaux. Pédicelles grêles, vêtus de poils étoilés, articulés vers le milieu ou au-dessous. Fleurs blanchâtres de taille variable, de 7-20 mm de diam. Calice plus ou moins pubescent extérieurement, avec des papilles sur la face interne, courtement campanulé, à 4-6 lobes oblongs aigus et bordés par un mince ourlet pubérulent. Fleur ♂ à androphore grêle, glabre ou médiocrement pubescent, long de 3-6 mm et portant en couronne unisériée, 16 à 20 loges polliniques. Fleur ♀ à gynécée pubescent, ceinturé vers le bas de loges polliniques, composé de (3) 5-6 (7) carpelles étroitement atténués en style et courbés en stigmate au sommet. Jusqu'à une douzaine d'ovules par carpelle (Thollon 1322).
+Fruit composed of 1-6 indehiscent follicles, 3.5-4 cm long by 2 cm wide when dry, oblong globose, red, appearing glabrous with some scattered stellate hairs, with twisted base approximately 5 mm long, containing 1-2 seeds 15 mm long with 2 cotyledons.
 
-Fruit composé de 1-6 follicules indéhiscents de 3,5-4 cm de long sur 2 cm de large à sec, oblongs globuleux, rouges, d'aspect glabre avec quelques poils étoilés épars, à base tordue d'env. 5 mm de long, contenant 1-2 graines de 15 mm de long à 2 cotylédons.
-
-Le type de l'espèce est de la rivière Gabon, Mann (K); il est très probable que la forme que nous avons étudiée correspond à celle du type; elle est différente de celle d'Ambas Bay citée comme cotype, et de celle décrite par K. Schumann sous le nom de C. micrantha.
+The type of the species is from the Gabon River, Mann (K); it is very probable that the form we have studied corresponds to that of the type; it differs from that of Ambas Bay cited as cotype, and from that described by K. Schumann under the name C. micrantha.
 
 ## Specimens examined
 

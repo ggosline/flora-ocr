@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+D. oddonii De Wild., Ann. Mus. Congo Belge, Bot. 5(1): 227 (1906). Pleomele camerooniana (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914: 277 (1914). Shrub or small tree, up to 5 m tall; trunk up to 2 cm in diameter, much-branched, often forming cane-shaped shoots. Leaves spiralled or pseudoverticillate, distinctly spaced, initially enveloped by rapidly caducous cataphylls; sheath clasping the stem over half or rarely the entire circumference for a length of 0.2–0.6 cm; blade narrowly elliptic to obovate, up to 19 × 6 cm, base cuneate, gradually and narrowed into a pseudopetiole of 1–6 cm, apex acuminate to cuspidate with a mucro reaching 3 mm, coriaceous, upper surface yellow-green to dark green glossy, occasionally with a few small yellow spots, lower surface paler and more dull. Inflorescence generally pendulous, spiciform or rarely with up to 3 small branches at the base, up to 28 cm long, green to greenish violaceous, consisting of several well-spaced glomérules, each containing distinctly more than 10 flowers (plants growing in
 
-D. oddonii De Wild ., Ann. Mus. Congo Belge, Bot. 5(1) : 227 (1906). Pleomele camerooniana (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 277 (1914). Arbuste ou petit arbre , jusqu’à 5 m de hauteur ; tronc jusqu’à 2 cm de diamètre, très ramifié , formant souvent des pousses en forme de canne. Feuilles spiralées ou pseudoverticillées, nettement espacées , d’abord enveloppées par des préfeuilles rapidement caduques ; gaine embrassant la tige sur la moitié ou plus rarement la totalité de la circonférence sur une longueur de 0,2–0,6 cm ; limbe étroitement elliptique à obovale, jusqu’à 19 × 6 cm, base cunéée graduellement et rétrécie en un pseudopétiole de 1–6 cm , sommet acuminé à cuspidé avec un mucron atteignant 3 mm, coriace, face supérieure jaune-vert à vert foncé brillant, occasionnellement avec quelques petites taches jaunes, face inférieure plus pâle et plus mate. Inflorescence généralement pendante, spiciforme ou rarement avec jusqu’à 3 petites branches à la base, jusqu’à 28 cm de longueur, vert à violacé verdâtre, constitué de plusieurs glomérules bien espacés , chacun contenant nettement plus de 10 fleurs (les plantes qui poussent dans
+Fruit, lateral view. 10. Idem, apical view. Drawing by Hans de Vries, Naturalis Biodiversity Center (©), reproduced from Damen et al. (2018).
 
-Fruit, vue latérale. 10. Idem, vue apicale. Dessin par Hans de Vries, Naturalis Biodiversity Center (©), reproduit à partir de Damen et al. (2018).
-
-des forêts inondées ont généralement une inflorescence subombellée contractée) ; bractées sous-tendant les glomérules, caduques, triangulaires, jusqu’à 9 × 7 mm, scarieuses ; bractées florales triangulaires, jusqu’à 2 mm de longueur, scarieuses. Fleur : pédicelle 5 mm, articulé jusqu’à 3 mm de la base ; périanthe 18–22 mm de longueur , à lobes plus courts que le tube, réfléchis, blanc ou crème à points verts ; étamines insérées près de la gorge, jusqu’à 2 mm plus courtes que les lobes, filet blanc, rond en section, renflé, à sommet subulé, anthère ± 3 mm de longueur, jaune pâle ; ovaire oblong, jusqu’à 2 × 1 mm ; style filiforme exsert sur jusqu’à 3 mm, blanc, stigmate légèrement 3-lobé, ± 1 mm de diamètre. Fruit subsessile, sphérique à obloïde , ± 18 × 20 mm, légèrement 3-lobé, orange à orange rougeâtre, lisse et brillant. Graine ellipsoïde, ± 12 × 9 mm, lisse.
+flooded forests generally have a contracted subumbellate inflorescence); bracts subtending the glomérules, caducous, triangular, up to 9 × 7 mm, scarious; floral bracts triangular, up to 2 mm long, scarious. Flower: pedicel 5 mm, articulated up to 3 mm from the base; perianth 18–22 mm long, lobes shorter than the tube, reflexed, white or cream with green dots; stamens inserted near the throat, up to 2 mm shorter than the lobes, filament white, round in section, swollen, with subulate apex, anther ± 3 mm long, pale yellow; ovary oblong, up to 2 × 1 mm; style filiform exsert up to 3 mm, white, stigma slightly 3-lobed, ± 1 mm in diameter. Fruit subsessile, spherical to obloid, ± 18 × 20 mm, slightly 3-lobed, orange to reddish orange, smooth and glossy. Seed ellipsoid, ± 12 × 9 mm, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée équatoriale, Gabon, République du Congo, République centrafricaine, République démocratique du Congo, Burundi, Angola, Tanzanie et Zambie ; au Gabon, présent dans toutes les provinces
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Burundi, Angola, Tanzania and Zambia; in Gabon, present in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts primaires et secondaires, lisières de forêts, stations humides ou inondées proches des rivières ; au Gabon à 0–1020 m d’altitude, ailleurs jusqu’à 2300 m. Floraison toute l’année
+understory of primary and secondary forests, forest margins, humid or flooded stations near rivers; in Gabon at 0–1020 m elevation, elsewhere up to 2300 m. Flowering year-round
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Une espèce à feuilles variables avec des pseudopétioles courts et longs même sur la même plante. Les plantes poussant dans des forêts inondées et fortement ombragées, ont généralement des feuilles plus petites et ont tendance à avoir des inflorescences plus serrées et subombellées avec des fleurs mal déve loppées et beaucoup plus petites que celles de D. camerooniana typique, ainsi que des fruits mal formés. Le même phénomène a été observé par Bos (1984) : une bouture d’une plante avec une inflorescence serrée retrouvait une inflorescence normale lorsqu’elle était transférée dans des conditions plus sèches. B : Baker (1898), Bos (1984), van der Burg (2006), Damen et al. (2018), Figueiredo & Smith i B liographie (2008), Hepper (1968), La Croix (2010), Mwachala (2005, 2007), Velayos & Cabezas (2018)
+A species with variable leaves with short and long pseudopetioles even on the same plant. Plants growing in flooded and heavily shaded forests generally have smaller leaves and tend to have more congested subumbellate inflorescences with poorly developed flowers much smaller than those of typical D. camerooniana, as well as malformed fruits. The same phenomenon was observed by Bos (1984): a cutting from a plant with a congested inflorescence recovered a normal inflorescence when transferred to drier conditions. B: Baker (1898), Bos (1984), van der Burg (2006), Damen et al. (2018), Figueiredo & Smith Bibliography (2008), Hepper (1968), La Croix (2010), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
 ## Notes
 

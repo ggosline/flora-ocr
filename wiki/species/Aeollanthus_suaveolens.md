@@ -15,23 +15,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou parfois vivace de courte durée de vie, jusqu’à 80 cm de hauteur ; tige ascendante ou dressée, pubescente à poils majoritairement ascendants. Feuilles opposées, sessiles ou subsessiles ; limbe elliptique à obovale ou parfois ovale, de 1,3–7,5 × 0,4–2,5 cm, cunéé ou légèrement atténué à la base, arrondi au sommet, crénelé ou presqu’entier. Inflores cence lâche ou assez dense ; épis unilatéraux, à 1 fleur et 2 bractées dissemblables à chaque nœud ; bractées fertiles obovales à elliptiques, apex ± émarginé (souvent caché par une pilosité dense), à tache glanduleuse près du sommet ; bractées stériles insérées à côté des fertiles, non émarginées à l’apex . Fleur : calice ± ovoïde en fruit, concave dans la partie apicale de la face inférieure, long de 2,5–4 mm, déhiscent près de la base, lèvre supérieure tronquée ou indistinctement 3-lobée, l’inférieure tronquée ou légèrement 2-lobée, à partie basale orbiculaire vue du dessus, plate ; corolle violette ou parfois blanche, à tube légèrement à fortement élargi vers la gorge, long de 2,5–6 mm, à lèvre supérieure distinctement 4-lobée, l’inférieure naviculaire, longue de 1,5–4 mm. Fruit : akènes lisses, brillants.
+Annual herb or sometimes short-lived perennial, up to 80 cm tall; stem ascending or erect, pubescent with hairs predominantly ascending. Leaves opposite, sessile or subsessile; blade elliptic to obovate or sometimes ovate, 1.3–7.5 × 0.4–2.5 cm, cuneate or slightly attenuate at base, rounded at apex, crenulate or almost entire. Inflorescence lax or fairly dense; spikes unilateral, with 1 flower and 2 dissimilar bracts at each node; fertile bracts obovate to elliptic, apex ± emarginate (often hidden by dense indumentum), with a glandular spot near apex; sterile bracts inserted beside fertile ones, not emarginate at apex. Flower: calyx ± ovoid in fruit, concave in apical part of lower face, 2.5–4 mm long, dehiscent near base, upper lip truncate or indistinctly 3-lobed, lower lip truncate or slightly 2-lobed, basal part orbicular when viewed from above, flat; corolla violet or sometimes white, with tube slightly to strongly enlarged towards throat, 2.5–6 mm long, upper lip distinctly 4-lobed, lower lip navicular, 1.5–4 mm long. Fruit: achenes smooth, glossy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et australe, y compris le Nigéria, le Cameroun, la Guinée équatoriale, le Gabon et la République Centrafricaine, très répandu comme mauvaise herbe sous les tropiques ; au Gabon : Haut-Ogooué et Woleu-Ntem. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Tropical and southern Africa, including Nigeria, Cameroon, Equatorial Guinea, Gabon and Central African Republic, very widespread as a weed under the tropics; in Gabon: Haut-Ogooué and Woleu-Ntem. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+on disturbed soil; in Gabon at 580 m altitude, elsewhere at 2200 m
 
-sur sol perturbé ; au Gabon à 580 m d’altitude, ailleurs à 2200 m
-
-Usage : Les Bapunu utilisent les feuilles comme fébrifuge et contre les tumeurs. Utilisé comme arôme alimentaire dans le nord du Nigéria et dans une tisane avec Solanum contre la toux.
+Usage: The Bapunu use the leaves as a febrifuge and against tumours. Used as a food flavouring in northern Nigeria and in a tisane with Solanum against cough.
 
 ## Vernacular names
 

@@ -21,21 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody vine or sarmentose shrub with voluble branches. Terminal branches often opposite, more or less decussate, stiff and straight. Bark generally strongly ridged-furrowed longitudinally, grey-yellowish or russet, more rarely brown; numerous lenticels, more or less visible.
 
-Liane ligneuse ou arbuste sarmenteux à rameaux volubiles. Rameaux terminaux souvent opposés, plus ou moins décussés, raides et rectilignes. Écorce généralement fortement ridées-sillonnée longitudinalement, gris-jaunâtre ou roussâtre, plus rarement brune; lenticelles nombreuses, plus ou moins visibles.
+Leaves subopposite or alternate, arising at the level of frequently hypertrophied nodes (Zenker 2132 and Klaine 1578), petiolate; petiole 3 to 5 mm; lamina slightly coriaceous, distinctly discolorous, with upper surface dull greyish-green, lower surface yellowish-green (when dry), 4–8 cm long, 2.5–4 cm wide, gradually narrowed or somewhat rounded towards the base, terminated by a more or less individualized triangular acumen. Midvein impressed on the upper surface, strongly prominent on the lower surface; secondary and tertiary veins much more weakly marked. Margins of lamina slightly thickened.
 
-Feuilles subopposées ou alternes, naissant au niveau de nœuds fréquemment hypertrophiés (Zenker 2132 et Klaine 1578), pétiolées; petiole de 3 à 5 mm; limbe peu coriace, nettement discolore, à face supérieure vert-grisâtre terne, à face inférieure vert-jaunâtre (sur le sec), de 4-8 cm de long, 2,5 — 4 de large, graduellement rétréci ou un peu arrondi vers la base, terminé par un acumen triangulaire plus ou moins individualisé. Nervure médiane imprimée à la face supérieure, fortement proéminente à la face inférieure; nervures secondaires et tertiaires beaucoup plus faiblement marquées. Marges du limbe légèrement épaissies.
+Floral buds obtuse at the apex (Klaine 1578 bis, and description by Domke on Ledermann 2132). Flowers rather small, tube 12–15 mm long by 1 mm in diameter, infundibuliform in form; lobes ovate-obtuse, 2 mm long by 1–1.5 mm wide, much smaller than the tube; filaments of stamens very short (only one adult flower known); anthers, style and stigma included. Ovary glabrous; hypogynous disc 0.3 mm, cupuliform, more or less fleshy and lobed.
 
-Boutons floraux obtus au sommet (Klaine 1578 bis, et description de Domke sur Ledermann 2132). Fleurs assez petites, tube de 12-15 mm de long sur 1 mm de diamètre, infondibulièrement.
+Fruits (according to Klaine 1578) large, 4 cm long and 1.5 to 2 cm in diameter, with pericarp more than 2 mm thick, often spongy, and formed from the outer wall of the ovary fused to the hypertrophied base of the perianth tube; epidermis granular, strongly pustulous; inner walls smooth, yellowish. Seed oblong-conical, solitary, reaching 2 to 2.5 cm long by 7.5 mm in diameter, apically acuminate, oval at the base, testa somewhat rugose.
 
-forme; lobes ovales-obtus, de 2 mm de long sur 1-1,5 mm de large, beaucoup plus petits que le tube; filets des étamines très courts (une seule fleur adulte connue); anthères, style et stigmate inclus. Ovaire glabre; disque hypogyne de 0,3 mm, cupuliforme, plus ou moins charnu et lobé.
+Type described from Cameroon: Ledermann 2132 (holotype Berlin probably destroyed, with f., fl., fr.; isotypes Paris: f. only).
 
-Fruits (d'après Klaine 1578) gros, de 4 cm de long et 1,5 à 2 cm de diamètre, à péricarpe épais de plus de 2 mm, souvent spongieux, et formé de la paroi externe de l'ovaire soudée à la base hypertrophiée du tube du périgone; épiderme granuleux, fortement pustuleux; parois internes lisses, jaunâtres. Graine oblongue-conique, unique, pouvant atteindre 2 à 2,5 cm de long sur 7,5 mm de diamètre, acuminée apicalement, ovale à la base, à testa un peu rugueuse.
-
-Type décrit du Cameroun : Ledermann 2132 (holotype Berlin probablement détruit, avec f., fl., fr.; isotypes Paris : f. seulement).
-
-Les feuilles et l'écorce des spécimens du Gabon rapportés à cette espèce sont très semblables aux mêmes éléments sur les isotypes du Cameroun, ce qui a autorisé le rapprochement avec la plante de Domke. La plante diffère du C. scandens Engl. et Gilg par ses fleurs plus petites, du C. beniense Domke, par l'absence d'épaississements pétaloïdes, du C. montanum Domke, par ses lobes du périgone très courts, et des espèces du bassin congolais par ses étamines incluses.
+The leaves and bark of specimens from Gabon referred to this species are very similar to the same elements on the isotypes from Cameroon, which has permitted the comparison with the plant of Domke. The plant differs from C. scandens Engl. and Gilg by its smaller flowers, from C. beniense Domke, by the absence of petaloid thickenings, from C. montanum Domke, by its very short perianth lobes, and from species of the Congo Basin by its included stamens.
 
 ## Specimens examined
 

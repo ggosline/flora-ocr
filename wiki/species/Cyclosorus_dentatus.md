@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Ching, Bull. Fan. Mém. Inst. 8 : 206 (1938). — Tard., Mém. IFAN 28 : 121, pl. 21, f. 7-9 (1953).
 
-— Chìng, Bull. Fan. Mém. Inst. 8 : 206 (1938). — Tard., Mém. IFAN 28 : 121, pl. 21, f. 7-9 (1953).
-
-Rhizome horizontal, à frondes rapprochées, portant des écailles à base droite, à bords munis de prolongements raides, formées de cellules à lumière brune, parois minces. Frondes rapprochées. Pétiole long de 20-40 cm, canaliculé, plus ou moins rougeâtre ou violacé, portant, à l'extrême base, de grosses écailles brunes, caduques, et des poils blancs de deux sortes courts et longs. Limbe à contour ovale-lancéolé, long de 30-40 cm sur 30 de large, bipinnatifide. Pennes horizontales, les inférieures net-tement plus petites que les suivantes, linéaires, sessiles, espacées d'environ 1 cm, les moyennes longues de 15 cm sur 2 de large, lobées sur 1/2 de leur largeur, à extrémité effilée, serrulée, les
-
-inférieures progressivement décroissantes. Lobes arrondis, plus ou moins tronqués, entiers. Rachis portant deux sortes de poils blancs, apprimés, des longs et des courts. Nervures et nervilles poilues; face inférieure du limbe portant les mêmes poils blancs, mous. Texture mince. 6-8 nervures par lobe, les nervures inférieures de deux lobes voisins réunies en une seule, aboutissant au fond du sinus. Indusie petite, portant des poils courts.
+Rhizome horizontal, with fronds crowded, bearing scales with straight base, margins furnished with stiff projections, formed of cells with brown lumen, thin walls. Fronds crowded. Petiole 20-40 cm long, channelled, more or less reddish or violaceous, bearing at the very base large brown caducous scales and white hairs of two kinds, short and long. Blade with oval-lanceolate outline, 30-40 cm long by 30 cm wide, bipinnatifid. Pinnae horizontal, the lower ones distinctly smaller than the following, linear, sessile, spaced approximately 1 cm apart, the median ones 15 cm long by 2 cm wide, lobed on 1/2 their width, with attenuate apex, serrulate, the lower ones progressively decreasing. Lobes rounded, more or less truncate, entire. Rachis bearing two kinds of white hairs, appressed, long and short. Veins and veinlets hairy; lower face of blade bearing the same soft white hairs. Texture thin. 6-8 veins per lobe, the lower veins of two adjacent lobes united into a single one, reaching the bottom of the sinus. Indusium small, bearing short hairs.
 
 ## Type
 

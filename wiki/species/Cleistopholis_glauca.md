@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 35, tab. 12 B (1901). — Pellegrin, Bull. Soc. Bot. Fr., Mém. 31: 57 (1949). — Boutique, Fl. Congo Belge 2: 300 (1951). — Tisserant et Sillans, Not. Syst. 15, 3: 338 (1958). — Walker et Sillans, Enc. Biol. 56: 65 (1961). — Paiva, Mem. Soc. Brot. 19: 27 (1966). Cleistopholis grandiflora De Wild., Ann. Mus. Congo Belge, Bot., ser. 5, 1: 39, tab. 21 (1903).
 
-Engler,Monogr.Afr.Pflanzenf.6 :35,tab.I2 B (19o1).— Pellegrin,Bull. Soc.Bot.Fr.,Mém.31 :57 (1949).—Boutique,Fl. Congo Belge 2 :300 (1951).— Tisserant et Sillans,Not.Syst.15,3 :338 (1958).- Walker et Sillans,Enc.Biol.56 :65 (1961).-Paiva,Mem. Soc.Brot.19 : 27 (1966). Cleistopholis grandiflora De Wild.,Ann.Mus. Congo Belge,Bot.,ser.5,1: 39,tab.21 (1903).
+Tree 10 to 35 m tall, reaching 80 cm diameter; trunk straight, cylindrical, bark fibrous, fissured longitudinally; branchlets glabrous. Leaves deciduous, arranged regularly, with petiole 10–20 mm long; blade subcoriaceous, elliptic-oblong, obovate-oblong to oblanceolate, 5–15 cm long, 2–5 cm wide, long-acuminate at apex, cuneate at base and decurrent on petiole; upper surface shiny and glabrous, lower surface glaucous, dull and glabrous. Midvein impressed above, prominent below; lateral veins 8–15 pairs, prominent on both faces.
 
-Arbre de Io â 35 m de hauteur,atteignant 8o cm de diametre; fut droit,cylindrique,écorce fibreuse, fissuree longitudinalement; rameaux glabres.Feuilles tombantes,disposées régulierement,ä pétiole long de 1o-2o mm； limbe subcoriace，elliptique-oblong, obové-oblong ä oblanceolé, long de 5-15 cm， large de 2-5 cm, longuement acuminé au sommet cunéiforme á la base et décurrent sur le pétiole； face supérieure luisante et glabre,face inférieure glauque, mate et glabre. Nervure médiane imprimée au-dessus, proéminente en dessous；nervures latérales 8-15 paires,saillantes sur les deux faces.
+Pl. 45. — Cleistopholis glauca Pierre ex Engl. et Diels: 1, leaves and inflorescences ×2/3; 2, inflorescence ×4.5; 3, flower spread viewed from above ×3; 4, inner petal ×5; 5, flower, petals removed ×4; 6, stamens ×12; 7, carpels and section ×12 (Le Testu 8786); 8, fruit nat. size (Klaine 41).
 
-Pi..45.- Cleistopholis glauca Pierre ex Engl.et Diels :1, feuiles et inflorescences X2/3；2,inflorescence X 4,5；3,fleur étalée vue par-dessus × 3;4,pétale interne × 5；5,fleur,pétales enlevés × 4;6,étamines × 12；7,carpelles et coupe × 12 (Le Testu 8786);8,fruit gr. nat.(Klaine 41).
+Inflorescences axillary, 2–8-flowered, pseudoumbelliform; peduncle 2–7 mm long, bearing 2–3 cuculliform bracts, 3–4 mm long, with pedicels (pedicel c. 2 mm long). Flowers green, with pedicel 10–18 mm long, sparsely pubérulent, bearing at base a small ovate-lanceolate bracteole, caducous. Sepals triangular-ovate, 1.5–2 mm long, 1.5 mm wide, ciliolate. Outer petals coriaceous, broadly elliptic-oblong, 10–15 mm long, 5–7 mm wide, spreading at anthesis; inner petals ovate-suborbicular, 2–4 mm diameter, concave. Stamens biseriate, obpyramidal, sessile, 0.5 mm long, thecae lateral, connectives thick, dilated above anthers. Carpels 12–24, oblong, glabrous, stigmas sessile, truncate. Ovules 1–2 lateral, superposed.
 
-Inflorescences axillaires， 2-8-flores， pseudombeliformes；pé- doncule long de 2-7 mm,muni de 2-3 bractées cuculliformes, longues de 3-4 mm,pédicellées (pédicelle long de 2 mm environ). Fleurs vertes, ä pédicelle long de Io-18 mm,éparsement pubérulent, muni ä la base d'une petite bractéole ovee-lancéolée,caduque. Sépales triangulaires-oves, longs de 1,5-2 mm, larges de 1,5 mm, ciliolés. Pétales externes coriaces, largement elliptiques-oblongs, longs de 1o-15 mm,larges de 5-7 mm, étalés â I'anthese; pétales internes ovés-suborbiculaires,de 2-4 mm de diametre,concaves. Etamines bisériées, obpyramidales, sessiles, longues de o,5 mm, theques latérales,connectifs épais,dilatés au-dessus des antheres. Carpelles 12-24，oblongs， glabres， stigmates sessiles， tronques. Ovules 1-2 latéraux, superposés.
-
-Fruits ä pédicelle épais,long de 15-35 mm; méricarpes verts, obovoides,subsessiles â courtement stipites (stipes longs de 3 mm), longs de 18-3o mm,larges de 1o-15 mm,lisses ä tres légerement granuleux.Graines (1)-2,ellipsoides,± comprimées latéralement, longues de 15-25 mm,larges de 1o-1 2 mm; tegument lisse a legerement grenu.
+Fruits with pedicel thick, 15–35 mm long; mericarps green, obovoid, subsessile to shortly stipitate (stipes 3 mm long), 18–30 mm long, 10–15 mm wide, smooth to very slightly granular. Seeds (1)–2, ellipsoid, ± compressed laterally, 15–25 mm long, 10–12 mm wide; integument smooth to slightly granular.
 
 ## Type
 
@@ -41,63 +39,61 @@ Mann 828, Bagroo River (lectotype K!; isolectotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of humid dense forest, frequent in secondary brush and along watercourses. Widespread in Cameroon, Central African Republic, Gabon, Congo-Kinshasa and Angola (Cabinda).
 
-Espéce de forét dense humide, fréquente dans les brousses secondaires et le long des cours d'eau. Répandue au Cameroun, en République centrafricaine,au Gabon, Congo-Kinshasa et en Angola (Cabinda).
+It differs very easily from other species by the presence of cucullate bracts and by its sessile mericarps.
 
-Elle se différencie tres facilement des autres especes par la presence des bractées cucullees et par ses méricarpes sessiles.
+The bark is used in the manufacture of African houses and the fibres serve to make excellent ropes. In decoction, it is used as an emetic.
 
-L'écorce est utilisée dans la fabrication des cases africaines et les fibres servent ä faire d'excellentes cordes.En décoction, elle est employée comme vomitif.
+Fleury 26583, environs of Atsié on the Ogooué, near Lake Zilé in the environs of Lambaréné; 26656, environs of Egolani, on Lake Oghémoué; 33671, environs of Libreville (fl., May).
 
-Fleury 26583,environs d'Atsié sur l'Ogooué,pres du Lac Zilé aux environs de Lambaréné；26656,environs d'Egolani, sur le Lac Oghémoué；33671, environs de Libreville (fr.,mai).
+N. Hallé and Le Thomas 570, Belinga iron mines.
 
-N. Hallé et Le Thomas 57o,Belinga mines de fer.
+N. Hallé and J. F. Villiers 4379, Mbel, Cristal Mountains (fl., Jan.).
 
-N.Hallé et J.F.Villiers 4379,Mbel, Monts de Cristal (fl., janv.).
+Klaine 15, 41, s.loc. (fl., Feb., May); 376, type; s.n., environs of Libreville.
 
-Klaine 15,41,s.loc. (fl.,févr.,mai)；376,type;s.n.,environs de Libreville.
+Le Testu 2250, Sindara, Ngounyé region (fl., Dec.); 8041, Lastoursville region (fl., Apr.); 8584, Bigoundi (fl., Dec.); 8786, Siyembo (fl., May).
 
-Le Testu 225o, Sindara,région de la Ngounyé (fl.，dec.)；8o4I,région de Lastoursville (fl.，avr.)；8584，Bigoundi (fl.，déc.)；8786，Siyembo (fl., mai).
+Le Thomas 1, km 18, environs of Libreville (fr., June).
 
-Le Thomas I,km I8,environs de Libreville (fr., juin).
+Morel SRFG 49, Sanga-Tanga forest reserve, environs of village Aloumbé (fr., Aug.).
 
-Morel SRFG 49,Réserve forestiere Sanga-Tanga,environs du village Aloumbé (fr.,aout).
+2. Cleistopholis patens (Benth.) Engler et Diels (Pl. 16, p. 93)
 
-2.Cleistopholis patens (Benth.）Engler et Diels (PL. 16, p. 93)
+Engler, Monogr. Afr. Pflanzenf. 6: 35, tab. 12 D (1901). — Pellegrin, Bull. Soc. Bot. Fr., Mém. 31: 57 (1949). — Boutique, Fl. Congo Belge 2: 302 (1951). — Keay, F.W.T.A., ed. 2, 1, 1: 38 (1954). — Tisserant et Sillans, Not. Syst. 15, 3: 338 (1958). — Aubréville, F.F.C.I., ed. 2, 1: 126 (1960). — Keay et al., Nigerian trees 1: 34 (1960). — Paiva, Mem. Soc. Brot. 19: 28 (1966).
 
-Engler,Monogr.Afr.Pflanzenf.6 :35,tab.12 D(19o1).- Pellegrin,Bull. Soc.Bot.Fr.，Mém.31 :57 (1949).— Boutique,Fl.Congo Belge 2 :302 (1951).—Keay,F.W.T.A.,ed. 2,1,I :38 (1954).— Tisserant et Sillans, Not.Syst.15,3 :338 (1958).-Aubréville,F.F.C.I.,ed.2,I :126 (1960). — Keay et al.，Nigerian trees I:34 (196o).- Paiva，Mem. Soc. Brot.19:28 (1966).
+= Oxymitra patens Benth., Transact. Linn. Soc. 23: 472, tab. 51 (1862). — Oliver, F.T.A. 1: 34 (1868).
 
-= Oxymitra patens Benth.,Transact.Linn. Soc.23 :472, tab.51 (1862).- Oliver,F.T.A.1 : 34 (1868).
+= Cleistopholis Klaineana Pierre ex Engl. et Diels, l.c.: 35 (1901).
 
-= Cleistopholis Klaineana Pierre ex Engl. et Diels,1.c.:35 (1901).
+= Cleistopholis Pynaertii De Wild., Bull. Jard. Bot. Etat Brux. 4: 387 (1914).
 
-= Cleistopholis Pynaertii De Wild.,Bull. Jard.Bot. Etat Brux. 4 ：387(1914).
+= Cleistopholis Verschuereni De Wild., l.c.: 387 (1914).
 
-= Cleistopholis Verschuereni De Wild.,1. c. : 387 (1914).
+= Cleistopholis lucens De Wild., Pl. Bequaert. 1: 465 (1922).
 
-= Cleistopholis lucens De Wild.,Pl. Bequaert. I : 465 (1922).
+= Cleistopholis brevipetala Exell, Journ. of Bot. 70, Suppl. Polypet.: 208 (1932).
 
-= Cleistopholis brevipetala Exell,Journ.of Bot. 7o,Suppl. Polypet. ： 208(1932).
+= Cleistopholis patens var. Klaineana Pellegrin, l.c.: 31 (1949), syn. nov.
 
-= Cleistopholis patens var. Klaineana Pellegrin,1. c.:31 (1949)，syn. nov.
+Tree reaching 25–30 m tall and 60 cm diameter, with branches spreading horizontally or pendulous; bark fibrous, blackish, smooth or superficially fissured longitudinally, fragrant. Branchlets glabrous, the terminal ones bearing two rows of narrow leaves, numerous, regularly alternate, giving the appearance of very large compound leaves with numerous leaflets. Leaves with petiole 3–12 mm long, channeled above; blade coriaceous, oblong to lanceolate to slightly falcate, 4.5–31 cm long, 2.5–6 cm wide, attenuate or gradually acuminate at apex, obtusely cuneate to rounded at base, glabrous on both faces, shiny on upper face. Midvein impressed above, prominent below; lateral veins 10–24 pairs, joined in arches far from margin; reticulum well visible on both faces.
 
-Arbre atteignant 25-3o m de hauteur et 6o cm de diamétre, a branches étalées horizontalement ou pendantes；écorce fibreuse, noiratre， lisse ou superficiellement fendillée longitudinalement, odorante. Rameaux glabres,les terminaux garnis de deux rangées de feuilles étroites,nombreuses,régulierement alternes,donnant I'aspect de tres grandes feuilles composées á nombreuses folioles. Feuilles ä pétiole long de 3-l2 mm,canaliculé au-dessus；limbe coriace,oblong a lancéolé a légerement falciforme, long de 4,5- 31 cm,large de 2,5-6 cm,atténué ou graduellement acuminé au sommet,obtusément cuneiforme ä arrondi ä la base,glabre sur les deux faces, luisant a la face superieure. Nervure médiane imprimée au-dessus,proéminente en dessous;nervures latérales Io-24 paires, réunies en arceaux assez loin de la marge；réticulum bien visible sur les deux faces.
+Flowers green, geminate or 2–9-fasciculate, axillary or inserted on small branchlets of the current year, themselves inserted at the axil of fallen leaves. Pedicel 10–25 mm long, glabrous. Bracteoles small, ovate-lanceolate, caducous. Sepals triangular-ovate, 1.5–2.5 mm long, ciliate on margins. Outer petals oblong to obovate-oblong, generally obtuse at apex, 7–12 mm long, 2–4 mm wide; inner petals ovate to suborbicular, 2–3 mm diameter, ciliolate. Stamens bi- or triseriate, obpyramidal, 0.75–1 mm long, thecae lateral, connectives dilated and truncate above anthers, directed towards flower center, pubérulent. Carpels c. 10, oblong, glabrous, stigmas capitate, sessile. Ovules 1–2, superposed.
 
-Fleurs vertes,géminées ou 2-9-fasciculées,axillaires ou insérées sur de petits rameaux de 'année,eux-mémes insérés â l'aisselle de feuilles tombées.Pédicelle long de 1o-25 mm，glabre.Bractéoles petites， ovées-lanceolées， caduques. Sépales triangulaires-ovés, longs de 1,5-2,5 mm,cilies sur les bords.Pétales externes oblongs a obovés-oblongs， généralement obtus au sommet， longs de 7- I2 mm,larges de 2-4 mm；pétales internes oves ä suborbiculaires, de 2-3 mm de diametre, ciliolés.Etamines bi ou trisériées,obpyramidales， longues de o,75-1 mm，theques latérales，connectifs dilatés et tronqués au-dessus des antheres,dirigés vers le centre de la fleur，pubérulents.Carpelles Io environ，oblongs，glabres, stigmates capités,sessiles. Ovules I-2, superposés.
+Fruits with pedicel 15–30 mm long, glabrous; mericarps uniseminous subglobular or biseminous transversely or obliquely ellipsoid, 15–23 mm long, 11–25 mm wide, slightly constricted between seeds, tuberculate; stipes thick, 3–12 mm long, glabrous. Seeds ellipsoid 1–2, c. 12 mm long, 8–9 mm wide; integument tuberculate.
 
-Fruits ä pédicelle de 15-3o mm de longueur,glabre；méricarpes uniséminés subglobuleux ou biséminés transversalement ou obliquement ellipsoides, longs de 15-23 mm， larges de 11- 25 mm, légerement contractés entre les graines,tubercules; stipes épais, longs de 3-12 mm, glabres. Graines ellipsoides 1-2, longues de ± 12 mm,larges de 8-9 mm; tégument tuberculé.
+For a long time in Gabon the two species C. patens and C. Klaineana were kept separate, which Pellegrin made a variety of, based essentially on leaf form. We actually found leaf polymorphism on the same specimen, depending on the developmental stage of the leaves; moreover all intermediates are found, ranging from leaf cuneate at base to rounded, and the length of the petiole is equally variable.
 
-On a longtemps séparé au Gabon les deux especes C. patens et C.Klaineana dont Pellegrin a fait une varieté, fondée essentiellement sur la forme des feuilles.Nous avons en fait constaté une polymorphie foliaire sur un méme spécimen,suivant le stade de développement des feuilles；de plus tous les intermédiaires se retrouvent,allant de la feuille cunéiforme ä la base ä arrondie,et la longueur du pétiole est tout aussi variable.
+Species very common on humid soils, along rivers and in marshy terrain, in humid dense forest and in secondary brush. Widely distributed in tropical Africa, from Sierra Leone to Central African Republic, north of Angola, to Congo-Brazzaville and in the eastern part of Congo-Kinshasa.
 
-Espece tres commune sur les sols humides,le long des rivieres et dans les terrains marécageux,en forét dense humide et dans les brousses secondaires. Largement répandue en Afrique tropicale, de la Sierra Leone a la République centrafricaine,au nord de l'Angola,au Congo-Brazzaville et dans la partie orientale du Congo-Kinshasa.
-
-Le bois tres léger est utilisé pour la fabrication de flotteurs ou de pirogues；les fibres servent a faire des liens,spécialement pour porter les enfants.
+The very light wood is used for manufacturing floats or pirogues; the fibres serve to make bindings, especially for carrying children.
 
 ## Vernacular names
 
-Avome (Pahouin), Ovo, Ovok (Fang), Ndongwé (Bakelé)，Ndongza (Gallois)，Nzybavaume (Pahouin)
+Avome (Pahouin), Ovo, Ovok (Fang), Ndongwé (Bakelé),Ndongza (Gallois),Nzybavaume (Pahouin)
 
-Avome (Fang)， Ogumbou-Mondza (Mpongwé), Kivungo, Lonkoussou (Loango)
+Avome (Fang), Ogumbou-Mondza (Mpongwé), Kivungo, Lonkoussou (Loango)
 
 ## Specimens examined
 
@@ -109,15 +105,15 @@ N.Hallé et Le Thomas 448,Bélinga mines de fer.
 
 Heitz 48,région de Libreville (fl.).
 
-Jolly I47,environs de Libreville (fr.,mai)；194,Ogooué.
+Jolly I47,environs de Libreville (fr.,mai);194,Ogooué.
 
-Klaine 145 (fl.,oct.)，231 (fr.,oct.)，345 (fl.,avril)，457 (fr.,aout),environs de Libreville.
+Klaine 145 (fl.,oct.),231 (fr.,oct.),345 (fl.,avril),457 (fr.,aout),environs de Libreville.
 
 Pobéguin 97, rives de la Sangha, Congo-Brazzaville (fr., mars).
 
 Sargos 66,174,Kouilou inférieur.
 
-Thollon 497 (fl., juill.-aout)，968 (fl.,sept.)，bords de I'Alima,Congo-Brazzaville；4o46,Brazzaville (fl.,mai).
+Thollon 497 (fl., juill.-aout),968 (fl.,sept.),bords de I'Alima,Congo-Brazzaville;4o46,Brazzaville (fl.,mai).
 
 ## Notes
 

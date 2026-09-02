@@ -17,31 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PR 103 (4, 127): 64 (1938); HEPPER, FWTA, ed. 2, 1 (2): 749 (1958); DICKISON, Journ. Elisha Mitchell Scientific Society 89: 121-138 (1973); EIMUNJEZE, V.E., in BRETELER (ed.), AUWP 89 (6): 275 (1989). TYPE: Equatorial Guinea, riv. Muni, Mann 1763 (holo-K).
 
-PR 103 (4, 127): 64 (1938); HEPPER, FWTA, ed. 2, 1 (2): 749 (1958); DICKISON, Journ. Elisha Mitchell Scientific Society 89: 121-138 (1973); EIMUNJEZE, V.E., in BRE-TELER (éd.), AUWP 89 (6): 275 (1989). TYPE : Guinée Équatoriale, riv. Muni, Mann 1763 (holo-K).
+– H. glomerata Aubrev. & Pellegrin, Bull. Soc. Bot. Fr. 105 (1-2): 35 (1958); Aubreville, Fl. For. Côte Iv., ed. 2, 1: 194 (1959). TYPE: Ivory Coast, Haute Niouniourou, Aubreville 4123 (holo-P; iso-WAG).
 
-– H. glomerata Aubrev. & Pellegrin, Bull. Soc. Bot. Fr. 105 (1-2): 35 (1958); Aubreville, Fl. For. Côté Iv., éd. 2, 1: 194 (1959). TYPE : Côté d'Ivoire, Haute Niouniourou, Aubreville 4123 (holo-P ; iso-WAG).
+Shrubs or small trees 3–15 m tall, diameter ≤8 cm. Young branches cylindrical, with appressed pale brown pubescence, then glabrous.
 
-Arbustes ou petits arbres hauts de 3-15 m, diamètre ≤8 cm. Rameaux jeunes cylindriques, avec pubescence brun pâle apprimée, puis glabres.
+Leaves: petiole 3–4–7 mm long and petiolule 2–3.5 mm, both generally cylindrical, channelled above, usually with appressed pale brown pubescence on young leaves, older ones becoming puberulent or glabrescent; blade finely coriaceous, narrowly elliptic or not, 7–18.5 cm long, 1.5–6.5 cm wide, glabrous above, pubescence on lower surface appressed pale brown eventually caducous; base obtuse to cuneate, apex slightly caudate to acuminate; margin thickened, slightly undulate, revolute in its basal portion; acumen ≈(0.2)0.4–1.8 cm long, generally rounded, very rarely weakly emarginate at its apex; principal lateral veins 6–10(–11) pairs, veinlet network in small distinct meshes – Pl. 26, 4, p. 87.
 
-Feuilles : pétiole long de (3)-4-7 mm et pétioule de 2-3,5, tous deux en général cylindriques, canaliculés dessus, le plus souvent avec une pubescence apprimée brun pâle sur les jeunes feuilles, les plus âgées devenant pubérulentes ou glabrescentes ; limbe finement coriace, elliptique étroitement ou non, long de 7-18,5 cm, large de 1,5-6,5 cm, glabre dessus, pubescence de la face inférieure apprimée-brun pâle finalement caduque ; base obtuse à cunée, sommet légèrement caudé à acuminé ; marge épaissie, légèrement ondulée, révolutée dans sa partie basale ; acumen long ≈ (0,2)0,4-1,8 cm, en général arrondi, très rarement faiblement émarginé à son extrémité ; principales nervures latérales 6-10(-11) paires, réseau de nervilles en petites mailles distinctes – Pl. 26, 4, p. 87.
+Inflorescences: glomerules, few- to multiflorous, appressed pubescence, pale brown.
 
-Inflorescences : glomérules, pauci- à multiflores, pubescence apprimée, brun pâle.
+Flowers (4–)5-merous, subsessile, pedicels ≤1 mm long, appressed pubescence. Sepals erect or slightly spreading, slightly imbricate or valvate, narrowly triangular, 3–4.5 mm long, 1 mm wide, exterior with appressed pale brown pubescence, interior glabrous, apex acute. Petals slightly spreading, narrowly ovate to narrowly obovate or narrowly elliptic, 5–6–8 mm long, coherent in their lower portion for a length of 2–3 mm, apical portion erect or reflexed, enrolled 1 or 2 times, exterior with appressed pale brown pubescence, interior glabrous or tomentellous to puberulent or partly so. Corolla often detaching en bloc at the end of anthesis.
 
-Fleurs (4-)5-mères, subsessiles, pédicelles longs de ≤ 1 mm, pubescence apprimée. Sépales dressés ou légèrement étalés, légèrement imbriqués ou valvaires, étroitement triangulaires, longs de 3-4,5 mm, large de 1 mm, extérieur avec pubescence apprimée brun pâle, intérieur glabre, sommet aigu. Pétales légèrement étalés, étroitement ovés à
+Stamens, generally 5 fertile, 5–9(–10.5) mm long, filaments filiform, variously and partially pubescent or glabrous. Staminodes 5, 1–1.5(–3.5) mm long, generally triangular, rarely oblong and rostrate, or possibly with a broad base and upper half filiform and rostrate, in the latter case, thickened glands can be observed between the stamens and staminodes. Anthers yellow ≈1 mm long, generally ovoid, rarely ellipsoid, in some cases base and/or connective pubescent.
 
-étroitement obovés ou étroitement elliptiques, longs de (5-6-8 mm, cohérents dans leur partie inférieure sur une longueur de 2-3 mm, partie apicale dressée ou réfléchie, enroulée 1 ou 2 fois, extérieur avec pubescence apprimée brun pâle, intérieur glabre ou tomentelleux à pubérulent ou en partie ainsi. Corolle se détachant souvent en bloc à la fin de l'anthèse.
+Pistil 3.5–6.5(–11) mm long, stigma capitate to lobulate, exsert in long-styled flowers; style short and rather robust in short-styled flowers, long and filiform in long-styled flowers, appressed pale brown pubescence becoming sparse in the upper half; ovary ovoid to obovoid, dense hirsute pubescence rarely appressed.
 
-Étamines, en général 5 fertiles, longues de 5-9(-10,5) mm, filets filiformes, diversement et partiellement pubescents ou glabres. Staminodes 5, longs de 1-1,5(-3,5) mm, en général triangulaires, rarement oblongs et rostrés, ou éventuellement avec une base large et moitié supérieure filiforme et rostrés, dans ce dernier cas, on peut observer des glandes épaissies entre les étanines et les staminodes. Anthères jaunes longues de ≈ 1 mm, en général ovoïdes, rarement ellipsoïdales, dans certains cas, base et/ou connectif pubescent.
+Fruits ellipsoid or ovoid, 3.3 cm long, 2 cm diameter, dense brown-yellowish tomentum at maturity. Fruit wall, crustaceous 1.5 mm thick, interior glabrous.
 
-Pistil long de 3,5-6,5(-11) mm, stigmate capité à lobulé, exsert dans les fleurs longistylées ; style court et passablement robuste dans les fleurs brévistylées, long et filiforme dans les fleurs longistylées, pubescence brun pâle apprimée devenant éparse dans la moitié supérieure ; ovaire ovoïde à obovoïde, pubescence dense hirsute rarement apprimée.
+Seed ellipsoid or ovoid, 2.3 cm length, 1.3 cm diameter; sarcotesta greyish-violet or cream; albumen very hard. Radicle short and robust, 3.5 mm length, 2.5 mm diameter; cotyledons thin, flat and narrow, 17 × 7 mm.
 
-Fruits ellipsoïdaux ou ovoïdes, longs de 3,3 cm, diamètre, 2 cm, tomentum dense brun-jaunâtre à maturité. Paroi du fruit, crustacée épaisse de 1,5 mm, intérieur glabre.
-
-Graine ellipsoïdale ou ovoïde, longueur 2,3 cm, diamètre 1,3 cm ; sarcotesta grisâtre-violet ou crème ; albumen très dur. Radicule courte et robuste, longueur 3,5 mm, diamètre 2,5 mm ; cotylédons minces, plats et étroits,  $ 17 \times 7 $ mm.
-
-Germination : Racine primaire bien développée. Hypocotyle long de 7,5-8 cm, pubescence brun pâle apprimée dense. Cotylédons elliptiques,  $ 1,3 \times 0,8 $, étalés horizontalement, égaux opposés charnus, très courtement pétiolés, hirsute à la base interne. Épicotyle long de  $ \approx 4,5 $ cm, cylindrique, pubescence brun pâle dense et apprimée. Premières feuilles opposées, unifoliolées ; pétiole et pétiolule, ensemble long de 0,7-1 cm, pubescence brun pâle apprimée dense ; limbe elliptique,  $ 7,5 \times 5 $ cm, base obtuse, apex caudé, dessus glabre, dessous avec pubescence apprimée plus dense sur la médiane et les principales nervures latérales. – Pl. 26, p. 87.
+Germination: Primary root well developed. Hypocotyl 7.5–8 cm long, dense appressed pale brown pubescence. Cotyledons elliptic, 1.3 × 0.8 cm, spreading horizontally, equal opposite fleshy, very shortly petiolate, hirsute at the internal base. Epicotyl ≈4.5 cm long, cylindrical, dense appressed pale brown pubescence. First leaves opposite, unifoliolate; petiole and petiolule, together 0.7–1 cm long, dense appressed pale brown pubescence; blade elliptic, 7.5 × 5 cm, base obtuse, apex caudate, above glabrous, below with appressed pubescence denser on the midvein and principal lateral veins. – Pl. 26, p. 87.
 
 ## Type
 
@@ -49,15 +45,11 @@ Mann 1763, riv. Muni, Guinée Équatoriale
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Nigéria, Cameroun, Centrafrique, Guinée Équatoriale, Gabon et Zaïre
+Ivory Coast, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon and Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles et forêts semi-décidues de basse ou moyenne altitude
+ombrophilous forests and semi-deciduous forests of low or medium altitude
 
 ## Specimens examined
 
@@ -65,9 +57,7 @@ Breteler & al. 8980, près de Koumameyong (fl., j. fr., Avr.), WAG. Louis & al. 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le matériel provenant du Cameroun et du Gabon est légèrement aberrant : ses fruits sont distinctement apiculés à rostrés. La récolte camerounaise, de Wilde 8321, montre d'autres différences telles que ses très grandes feuilles oblongues (≤ 25 × ≤ 8 cm) avec un indumentum floconneux dense à la face inférieure des jeunes feuilles
+Material from Cameroon and Gabon is slightly aberrant: its fruits are distinctly apiculate to rostrate. The Cameroonian collection, de Wilde 8321, shows other differences such as its very large oblong leaves (≤25 × ≤8 cm) with dense floccose indumentum on the lower surface of young leaves
 
 ## Figures
 

@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Lindackeria ngounyensis PELLEGR., Bull. Mus. Nat. Hist. Nat. Paris 29 : 591 (1923) ; Fl. Mayombe 1 : 21 (1924) ; Mém. Soc. Bot. Fr. : 109 (1952). TYPE : Le Testu 2235, Gabon (holo-).
 
-Arbuste (d’environ 2 m de haut) ; rameaux veloutés, surtout à l’état jeune.
+Shrub (approximately 2 m tall); branches velutinous, especially when young.
 
-Feuilles à stipules filiformes, veloutées, ± caduques ; pétiole de 2-6 cm de long, velouté ; limbe obovale-oblong, atténué à la base, acuminé au sommet, 12-26 × 4-11 cm, crénelé-denté, glabre à glabrescent ; nervures secondaires 8-9 paires.
+Leaves with filiform, velutinous stipules, ± caducous; petiole 2–6 cm long, velutinous; lamina obovate-oblong, attenuate at base, acuminate at apex, 12–26 × 4–11 cm, crenate-dentate, glabrous to glabrescent; secondary veins 8–9 pairs.
 
-Fleurs en racèmes axillaires, de 4-5 cm de long ; bractées triangulaires, de 0,5-1 mm de long, ± caduques ; présence de coussinets portant des organes glandulaires en forme de « trompette », à la base des pédi-celles ou des pédoncules des fruits ; pédicelle de 1-3 mm de long, ve-louté ; sépales 4, oblongs-obovales, 7-8 × 3 mm, veloutés extérieurement ; pétales 7, oblongs-obovales, 9-10 × 2,5-3 mm, glabres ; étamines nombreuses, à filet de 2 mm de long, glabre ; anthères oblongues, aussi longues que les filets ; ovaire à 5 placentas pluriovulés, glabre ; style simple ; stigmate capité, indistinct.
+Flowers in axillary racemes, 4–5 cm long; bracts triangular, 0.5–1 mm long, ± caducous; presence of cushions bearing glandular organs in the form of "trumpets", at the base of the pedicels or fruit peduncles; pedicel 1–3 mm long, velutinous; sepals 4, oblong-obovate, 7–8 × 3 mm, velutinous externally; petals 7, oblong-obovate, 9–10 × 2.5–3 mm, glabrous; stamens numerous, filament 2 mm long, glabrous; anthers oblong, as long as the filaments; ovary with 5 pluriovulate placentas, glabrous; style simple; stigma capitate, indistinct.
 
-Fruits inermes, ovoïdes à ellipsoïdes, mucronés et apiculés au sommet, 4-5 × 2,5-3 cm ; graines nombreuses (20-30), de 4-6 mm de long, ± anguleuses, arillées, glabres. - Pl. 15, p. 51.
+Fruits unarmed, ovoid to ellipsoid, mucronate and apiculate at apex, 4–5 × 2.5–3 cm; seeds numerous (20–30), 4–6 mm long, ± angular, arillate, glabrous. - Pl. 15, p. 51.
 
 ## Type
 
@@ -34,15 +32,11 @@ Le Testu 2235, Gabon (holo-, P! ; iso-, BR, K, L, P!, WAG!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Taillis sous futaie, ou près des cours d'eau
+Coppice under high forest, or near watercourses
 
 ## Specimens examined
 

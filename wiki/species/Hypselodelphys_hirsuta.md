@@ -20,11 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing herb, branched with pubescent stems. Leaf sheaths densely pubescent or hirsute, petiole slightly pubescent about 1 cm long. Blade ovate to narrowly ovate-elliptic, acuminate at the apex, rounded at the base, up to approximately $ 26 \times 6 $ cm. Lower surface sparsely pubescent, with a dense line of hairs along and on both sides of the midvein.
 
-Herbe grimpante, ramifiée à tiges pubescentes. Gaines foliaires longuement pubescentes ou hirsutes, pétiole légèrement pubescent de 1 cm de long environ. Limbe ovale à étroitement ovale-elliptique, acuminé au sommet, arrondi à la base, jusqu'à environ  $ 26 \times 6 $ cm. Face inférieure éparsement pubescente, avec une ligne dense de poils le long et des deux côtés de la nervure médiane.
-
-Inflorescences en épis simples ou deux ou trois fois divisés ; rachis très pubescent, bractées glabrescentes, de 3 cm de long. Fleurs blanchâtres, lavées de rose, ovaire tuberculé. Fruits verts, pendants, échinulés, normalement trilobés, de 2 cm de haut et 3 cm de large.
+Inflorescences in simple or two to three times divided spikes; rachis very pubescent, bracts glabrescent, 3 cm long. Flowers whitish, tinged with pink, ovary tuberculate. Fruits green, pendulous, echinulate, normally trilobed, 2 cm high and 3 cm wide.
 
 ## Type
 
@@ -32,9 +30,7 @@ Ledermann 822, Cameroun (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue du Gabon, du Cameroun et de Guinée espagnole, probablement recrus forestiers éclairés.
+Species known from Gabon, Cameroon, and Spanish Guinea, probably light forest regrowth.
 
 ## Specimens examined
 

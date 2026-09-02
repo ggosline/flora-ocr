@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, certainly new, is to date known only from the single specimen Letouzey 13818 from a hillside (elevation 772 m), in evergreen forest, SE of Okoroba (20 km NE Nguti), in the Mamfe region of Cameroon. The specimen consists only of leaves, inflorescence debris, old flowers and fruits, all collected from the ground. The description that can currently be given for this species is as follows:
 
-Cette espèce, certainement nouvelle, n'est à ce jour connue que par le seul échantillon Letouzey 13818 provenant d'une colline (cote 772 m), en forêt sempervirente, au SE d'Okoroba (20 km NE Nguti), dans la région de Mamfe au Cameroun. L'échantillon n'est constitué que de feuilles, débris d'inflorescences, vieilles fleurs et fruits, le tout récolté à terre. La description que l'on peut actuellement donner de cette espèce est la suivante :
+Tree 60 cm in diameter; stem sinuous with a few small buttresses at the base; bark greyish-greenish lenticellate, inner bark dark red. Petiole 1 mm, apparently without glands. Blades coriaceous, glabrous, lanceolate, reaching 3 × 10 cm, subcordate at the base, acute, broadly and longly acuminate at the apex, 8–10 pairs of lateral veins strongly curved.
 
-Arbre de 60 cm de diamètre; fût sinueux avec quelques petites pattes à la base; rhytidome grisâtre-verdâtre lenticellé, tranche de l'écorce rouge
+Old inflorescences with glabrous branches, many-flowered. Small flowers glabrous externally; pedicel 3 mm; receptacle obconical 5–6 mm, sepals orbicular, concave, 3 mm, puberulous for the parts hidden in the floral bud; petals orbicular, concave 3 mm; approximately 15 stamens; 1 carpel hirsute.
 
-foncé. Pétiole 1 mm, sans glandes, semble-t-il. Limbes coriaces, glabres, lancéolés, atteignant  $ 3 \times 10 $ cm, subcordés à la base, aigus, largement et longuement acuminés au sommet, 8-10 paires de nervures latérales très courbées.
-
-Vieilles inflorescences à rameaux glabres, multiflores. Petites fleurs glabres extérieurement; pédicelle 3 mm; réceptacle obconique 5-6 mm, sépales orbiculaires, concaves, 3 mm, pubérulents pour les parties cachées dans le bouton floral; pétales orbiculaires, concaves 3 mm; environ 15 étamines; 1 carpelle hirsute.
-
-Drupe obovoide, lisse,  $ 20 \times 25 \times 40 $ mm. — PL. 35, p. 120.
+Drupe obovoid, smooth, 20 × 25 × 40 mm. — PL. 35, p. 120.
 
 ## Notes
 

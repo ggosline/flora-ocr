@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub? with rounded branchlets, brown-red, the young ones puberulent; leaf blade glossy on both surfaces. Sometimes base of petioles and petiolules constricted when dry (Zenker 321).
 
-Arbuste? à rameaux arrondis, brun-rouge, les jeunes pubérulents; limbe foliaire brillant sur les 2 faces. Parfois base des pétioles et des pétio-lules étranglés sur le sec (Zenker 321).
-
-Inflorescences à rameaux tomentelleux, subferrugineux. PL. 9, 7-12, p. 51.
+Inflorescences with tomentellous, subferruginous branchlets. PL. 9, 7-12, p. 51.
 
 ## Type
 
@@ -29,9 +27,7 @@ Zenker 3161, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Est connu également de Côte d'Ivoire (Chevalier 1524, fruit sphérique de 8 mm).
+Also known from Côte d'Ivoire (Chevalier 1524, spherical fruit 8 mm).
 
 ## Specimens examined
 

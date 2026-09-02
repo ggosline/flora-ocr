@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Laccodiscus cauliflorus Hutch. & Dalz., FWTA 1: 500 (1928); Bull. Misc. Inf. Kew 1929: 26 (1929).
 
-— Chytranthus mangenotii N. HALLÉ & AKÉ ASSI, Adansonia, ser. 2, 2 : 295, tab. I (1962); TYPE : Aké Assi IA 6067, Côté d'Ivoire (holo-, P).
+— Chytranthus mangenotii N. HALLÉ & AKÉ ASSI, Adansonia, ser. 2, 2 : 295, tab. I (1962); TYPE : Aké Assi IA 6067, Côte d'Ivoire (holo-, P).
 
-Arbuste monocaule de 3 à 8 m de hauteur; le tronc dépasse 6 cm de diamètre. Extrémité hirsute à poils fauves. Feuilles alternes de façon lâche; rachis roux hirsute dépassant 1 m long, de 12-45 cm sous la première paire de folioles; pétiolues hirsutes de 4-7 mm de longueur; 4-11 paires de folioles opposées ou subopposées; folioles supérieures les plus grandes atteignant 24-42 cm pour une largeur de 5-7,5 cm; dessus du limbe glabre avec des sillons sur la nervure médiane et sur les nervures secondaires; ces dernières au nombre de 16-35 paires dans les plus grandes folioles.
+Monocaulous shrub 3 to 8 m tall; trunk exceeding 6 cm in diameter. Apex hirsute with tawny hairs. Leaves loosely alternate; petiole reddish hirsute exceeding 1 m long, 12-45 cm below the first pair of leaflets; petiolules hirsute 4-7 mm long; 4-11 pairs of opposite or subopposite leaflets; upper leaflets the largest reaching 24-42 cm with a width of 5-7.5 cm; upper surface of blade glabrous with grooves on the midvein and secondary veins; the latter numbering 16-35 pairs in the largest leaflets.
 
-Inflorescences caulinaires situées entre 0,5 et 2 m au-dessus du sol, entièrement brunes hirsutes, d'abord ± ascendantes; épis très lâches à rachis long de 10-70 cm, grêle, à entrenœuds inégaux d'environ 1-3 cm. Fleurs sessiles en glomérules pauciflores; bractées étroitement aiguës, hirsutes, longues de 2-6 mm; calice globoïde de 5-6 mm de diamètre, très hirsute; 5 sépales petits, faiblement entrouverts à l'anthèse; 4 pétales jaune pâle pubérulens, onguiculés spatulés de 6-6,5 mm; disque charnu, unilatéral; 6-8 étamines de 6 mm, à filet et anthère pubescents; ovaire hirsute, triloculaire (caractères floraux d'après le matériel de Côté-d'Ivoire).
+Cauline inflorescences situated between 0.5 and 2 m above ground, entirely brown hirsute, at first ± ascending; spikes very lax with rachis 10-70 cm long, slender, with unequal internodes approximately 1-3 cm. Flowers sessile in pauciflorous glomerules; bracts narrowly acute, hirsute, 2-6 mm long; calyx globoid 5-6 mm in diameter, very hirsute; 5 small sepals weakly open at anthesis; 4 pale yellow petals pubérulent, unguiculate spatulate 6-6.5 mm; disc fleshy, unilateral; 6-8 stamens 6 mm, with pubescent filament and anther; ovary hirsute, trilocular (floral characters from Côte d'Ivoire material).
 
-Fruit vert à maturité, trigone subhexagonal en coupe, ± lancéolé, glabrescent devenant lisse et succulent, atteignant 11-15 × 6 cm, à base arrondie et calice persistant. 3 graines de 2,5-6 × 1,6-2,1 × 0,8-1,4 cm, rosâtres puis brunes; hile formant une cicatrice presqu’aussi longue que la graine. Plantule hypogée; jeune tige velue; les 4 premières feuilles au moins sont entières. PL. 19, p. 93.
+Fruit green at maturity, trigonous subhexagonal in section, ± lanceolate, glabrescent becoming smooth and succulent, reaching 11-15 × 6 cm, with rounded base and persistent calyx. 3 seeds 2.5-6 × 1.6-2.1 × 0.8-1.4 cm, pinkish then brown; hilum forming a scar almost as long as the seed. Seedling hypogeal; young stem hairy; the first 4 leaves at least entire. PL. 19, p. 93.
 
 ## Type
 
@@ -35,9 +33,7 @@ Chipp 372, Ghana, (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce croît en petits peuplements dans les forêts primaires ombrophiles du Liberia, de la Côte d'Ivoire, du Ghana et du Gabon. Il est surprenant que son aire de répartition soit ainsi divisée, aucune récolte n'étant connue du Nigeria ni du Cameroun. Les différences faibles du matériel gabonais, taille de la plante, longueur et nombre des folioles, ne permettent pas, pour le moment, de reconnaître une variété nouvelle.
+This species grows in small populations in the ombrophilous primary forests of Liberia, Côte d'Ivoire, Ghana and Gabon. It is surprising that its range is thus divided, no collections being known from Nigeria or Cameroon. The slight differences of the Gabonese material, plant size, length and number of leaflets, do not at present allow recognition of a new variety.
 
 ## Specimens examined
 

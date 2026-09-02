@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3-4 m or tree; leaves chartaceous 5-6-7(-8)-jugate; leaflets oblong, 13-28 × 5-8 cm, with petiolule 1 cm, well-veined, greenish; epidermis of limb with mucilage-bearing cells.
 
-Arbuste de 3-4 m ou arbre; feuilles chartacées (5-6-7(-8)-juguées; folioles oblongues, 13-28 × 5-8 cm, à pétiolule de 1 cm, bien nervées, verdâtres; épiderme du limbe à cellules à mucilage.
-
-Inflorescences caulinaires ou terminales, de 15-30 cm, ramiﬁées 2-3 fois; axes et bractées pubérulents; poils jaune vif ou bruns de 0,1-0,2 mm. Boutons de 4-5 mm; calice glabre ou pubérulent à sa base; pétales de 4 × 3 mm, à limbe glabre, cilié au bord; écaille bifide ou multifide, ciliée seulement au bord. Fruit glabre, haut de 12 mm, large de 15 mm. PL. 14, 8-12', p. 71.
+Inflorescences cauline or terminal, 15-30 cm, branched 2-3 times; axes and bracts puberulent; hairs bright yellow or brown 0.1-0.2 mm. Buds 4-5 mm; calyx glabrous or puberulent at base; petals 4 × 3 mm, with glabrous limb, ciliate at margin; scale bifid or multifid, ciliate only at margin. Fruit glabrous, 12 mm high, 15 mm wide. PL. 14, 8-12', p. 71.
 
 ## Type
 
@@ -35,33 +33,31 @@ Gossweiler 8023, Mayombé (B, K, LISC, M)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species distinguishing itself from $ D.\ maxima $ by larger buds and yellow pubescence. Recognized in Guinea, Côte d'Ivoire, Ghana, Chad, Central African Republic, Uganda, but not in Cameroon.
 
-Espèce se séparant de  $ D.\ maxima $ par les boutons plus gros et la pilosité jaune. Reconnue en Guinée, en Côté d'Ivoire, au Ghana, au Tchad, en République centrafricaine, en Uganda, mais non au Cameroun.
-
-Trouvé également en Angola (Welwitsch 4529). A rechercher au Gabon et au Cameroun.
+Also found in Angola (Welwitsch 4529). To be sought in Gabon and Cameroon.
 
 9 ter. Deinbollia laurifolia Baker
 
-in OLIV., FTA 1:477 (1868); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 686 (1932).
+in OLIV., FTA 1:477 (1868); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 686 (1932).
 
-Reconnue également en Angola (Welwitsch 4530). A rechercher au Cameroun et au Gabon.
+Also recognized in Angola (Welwitsch 4530). To be sought in Cameroon and Gabon.
 
-Ces deux espèces sont mises en synonymie par EXELL et MENDONÇA (Consp. Fl. Angol. 2, 1954) et HAUMAN (Fl. Congo, 1960) qui leur joint en plus D. patentinervis Radlk. (1932). La distinction faite par RADLKOFER est indiquée dans la clé. Si ces espèces sont confondues, il ne reste que D. laurifolia, première décrite : arbuste de 1-2 m, à rameaux glabres; feuilles 2-7-juguées; pétiole 5-15 cm; rachis foliaire 5-15 cm; folioles tantôt elliptiques, 5-10 × 1,5-3 cm, tantôt ovales, 5-7 × 3-4 cm; acuminées, coriaces, vert pâle sur les 2 faces, à environ 10 paires de nervures.
+These two species are placed in synonymy by EXELL and MENDONÇA (Consp. Fl. Angol. 2, 1954) and HAUMAN (Fl. Congo, 1960) who further unite with them D. patentinervis Radlk. (1932). The distinction made by RADLKOFER is indicated in the key. If these species are confused, there remains only D. laurifolia, first described: shrub 1-2 m, with glabrous branches; leaves 2-7-jugate; petiole 5-15 cm; leaf rachis 5-15 cm; leaflets sometimes elliptic, 5-10 × 1.5-3 cm, sometimes ovate, 5-7 × 3-4 cm; acuminate, coriaceous, pale green on both faces, with approximately 10 pairs of veins.
 
-Inflorescences axillaires, ramifiées, tantôt étalées, tantôt spiciformes. Bouton de 3 mm glabre; sépales de 4 mm, ciliées au bord; pétales de 4 × 2,4 mm, ciliés au bord et sur l'onglet, à écaille bifide, velue. Fruits ovoïdes, chagrinés, de 15 mm.
+Inflorescences axillary, branched, sometimes spreading, sometimes spiciform. Bud 3 mm glabrous; sepals 4 mm, ciliate at margin; petals 4 × 2.4 mm, ciliate at margin and on the claw, with bifid, hairy scale. Fruits ovoid, wrinkled, 15 mm.
 
-DISTRIBUTION GÉOGRAPHIQUE : Zaïre, Angola.
+GEOGRAPHICAL DISTRIBUTION: Zaire, Angola.
 
-De nombreuses espèces de ces 2 États voyant leur aire s’étendre au Gabon et au Cameroun, ces descriptions sont transcrites ici de même que la suivante.
+Since numerous species of these 2 states have their range extending to Gabon and Cameroon, these descriptions are transcribed here as is the following one.
 
 9 quater. Deinbollia acuminata Exell
 
 Journ. Bot. 66, suppl. Polyp.: 88 (1928); Hauman, Fl. Congo 9: 336 (1960).
 
-Arbre atteignant 25 m, avec un diamètre de 60 cm; pétiole 5-7 cm: folioles, 6-8 × 1,5-2 cm, acuminées sur 1 cm; 7-8 paires de nervures.
+Tree reaching 25 m, with a diameter of 60 cm; petiole 5-7 cm; leaflets 6-8 × 1.5-2 cm, acuminate over 1 cm; 7-8 pairs of veins.
 
-Inflorescences à rameaux de 3-5 cm; boutons de 2 mm; sépales glabres ciliés au bord. Plante remarquable par son port arborescent.
+Inflorescences with branches 3-5 cm; buds 2 mm; sepals glabrous ciliate at margin. Plant remarkable for its arborescent form.
 
 ## Specimens examined
 

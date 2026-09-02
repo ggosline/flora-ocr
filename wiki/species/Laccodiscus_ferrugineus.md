@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Cupania ferruginea BAK., in OLIV., FTA : 425 (1868).
 
-Arbuste dressé de 2-3 m (RAYNAL, LETOUZEY), arbuste grimpant 5-6 m (MPOM, MANN) ou arbre de 20 m (ANNET). Feuilles 3-4-juguées; pétiole et rachis hirsutes, à poils de 1-2 mm roux; folioles à 8-10 paires de nervures s'approchant de la marge entière vers le bas, les 4-5 supérieures se terminant dans une dent courte d'environ 1 mm.
+Erect shrub 2–3 m (RAYNAL, LETOUZEY), climbing shrub 5–6 m (MPOM, MANN) or tree 20 m (ANNET). Leaves 3–4-jugate; petiole and rachis hirsute, with hairs 1–2 mm rusty; leaflets with 8–10 pairs of veins approaching the entire margin towards the base, the upper 4–5 terminating in a short tooth of approximately 1 mm.
 
-Inflorescence terminale comportant un axe d'env. 40 cm sur lequel s'insère une dizaine de rameaux d'env. 20 cm, en spirale d'alternance 2/5, portant finalement des cymules subsessiles avec bractées et bractéoles comptant 1-5 fleurs; axes, bractées et calices velus hirsutes à poils ferrugineux de 1-2 mm; pédicelles de 2 mm, articulés en haut; boutons de 3 mm de diamètre; sépales pubérulents à l'intérieur; pétales entièrement velus; disque en couronne avec 5 renflements; anthères apiculées, 3 fois plus longues que larges, plus longues que le filet dans le bouton. Infrutescences à cymules stipitées, 5-8 mm; peut-être pédicelles et calices accrescents; calice de 12 mm de diamètre pour un fruit de 15 mm. PL. 38, 8-17, p. 167.
+Terminal inflorescence comprising an axis of c. 40 cm on which are inserted about ten branches of c. 20 cm, in a spiral of alternation 2/5, ultimately bearing subsessile cymules with bracts and bracteoles numbering 1–5 flowers; axes, bracts and calyces hirsute-villous with ferruginous hairs 1–2 mm; pedicels 2 mm, articulate at the top; buds 3 mm in diameter; sepals puberulent inside; petals entirely villous; disk in a crown with 5 thickenings; anthers apiculate, 3 times longer than wide, longer than the filament in the bud. Infructescences with stipitate cymules, 5–8 mm; possibly pedicels and calyces accrescent; calyx 12 mm in diameter for a fruit 15 mm. PL. 38, 8–17, p. 167.
 
 ## Type
 
@@ -31,9 +29,7 @@ Mann 189, 1748, Fernando Po (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue de Fernando Po et du Cameroun.
+Species known from Fernando Po and Cameroon.
 
 ## Specimens examined
 

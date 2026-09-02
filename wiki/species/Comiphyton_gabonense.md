@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 30 m de hauteur ; tronc jusqu’à 45 cm de diamètre ; branches étalées ho rizontalement ; écorce lisse, brunâtre. Stipules triangulaires, 3–4 × 2 mm. Feuille : pétiole 8–12(–20) mm, pubescent ; limbe elliptique à ovale-elliptique ou oblong, 6,5–15 × 2–5 cm, à base cunéée à atténuée et sommet nettement acuminé, face supérieure glabre sauf sur la nervure principale, face inférieure éparsement pubescente ; nervures secondaires (4–)5–6(–7) paires, proéminentes, naissant de la nervure principale selon un angle de 45º, les tertiaires très distinctes à la face inférieure. Inflorescence pubescente ; pédoncule 10–20 mm . Fleur : pédicelle 1–2 mm ; calice 3–3,5 mm de longueur, glabre à pubescent extérieurement, les lobes ± 1 mm ; pétales spatulés, 5–6 mm de longueur, portant au sommet 5–9 languettes courtes et involutées ; disque ± 1 mm de hauteur ; étamines à filets de 5–6 mm, les épisépales plus courtes que les épipétales, anthères ovales-oblongues, ± 1 mm de longueur ; ovaire glabre ; style 5–7 mm. Fruit étroitement obpyriforme , atteignant 20 × 5 mm . Graines ± 8 × 3,5 mm, à tégument brun noirâtre et granuleux ; embryon droit, ± 2,5 mm.
+Tree reaching 30 m in height; trunk up to 45 cm in diameter; branches spreading horizontally; bark smooth, brownish. Stipules triangular, 3–4 × 2 mm. Leaf: petiole 8–12(–20) mm, pubescent; blade elliptic to ovate-elliptic or oblong, 6.5–15 × 2–5 cm, with cuneate to attenuate base and distinctly acuminate apex, upper surface glabrous except on the main vein, lower surface sparsely pubescent; secondary veins (4–)5–6(–7) pairs, prominent, arising from the main vein at an angle of 45°, the tertiary veins very distinct on the lower surface. Inflorescence pubescent; peduncle 10–20 mm. Flower: pedicel 1–2 mm; calyx 3–3.5 mm in length, glabrous to pubescent externally, the lobes ± 1 mm; petals spatulate, 5–6 mm in length, bearing at the apex 5–9 short and involute languettes; disk ± 1 mm in height; stamens with filaments of 5–6 mm, the episepalous ones shorter than the epipetalous, anthers ovate-oblong, ± 1 mm in length; ovary glabrous; style 5–7 mm. Fruit narrowly obpyriform, reaching 20 × 5 mm. Seeds ± 8 × 3.5 mm, with brownish-black and granulate tegument; embryo straight, ± 2.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce rare du Gabon et de la zone équatoriale de la République Démo cratique du Congo ; au Gabon, récoltée dans la Haute Ngounié (près de Sindara), dans l’Estuaire (Monts de Cristal) et dans l’Ogooué-Lolo (entre Koulamoutou et Pana)
+rare species from Gabon and the equatorial zone of the Democratic Republic of the Congo; in Gabon, collected in Haute Ngounié (near Sindara), in Estuaire (Monts de Cristal) and in Ogooué-Lolo (between Koulamoutou and Pana)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et secondaires sempervirentes et semi-caducifoliées, parfois abondante ; au Gabon, à 80–500 m d’altitude, ailleurs jusqu’à 1400 m. b : Floret (1974, 1976), Liben (1987). ibliographie
+primary and secondary evergreen and semi-deciduous forests, sometimes abundant; in Gabon, at 80–500 m altitude, elsewhere up to 1400 m. Bibliography: Floret (1974, 1976), Liben (1987).
 
 ## Notes
 

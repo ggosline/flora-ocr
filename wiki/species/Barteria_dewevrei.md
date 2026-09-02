@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 3–13 m de hauteur ; branches horizontales devenant creuses sur toute leur longueur et habitées par des fourmis. Feuille à pétiole de 0,5–1,5 cm ; limbe oblong à (ob)ovale-elliptique, cunéé à la base, acuminé au sommet, (17–)24–42 × (7–)9–13 cm, coriace, lisse et brillant dessus, mat et vert clair dessous sur le frais, puis ferrugineux sur le sec, à marge entière glanduleuse ; nervure médiane dessous à quelques glandes longuement lancéolées ou linéaires et courant sur presque toute la longueur , nervures latérales en 13–20 paires . Inflorescence à fleurs solitaires ou par 3 (5) en fascicules, généralement située en dessous des branches ; bractées nombreuses, en (3–)5–6 rangs, ovales-orbiculaires, 3–13 mm, apiculées. Fleur sessile ; sépales lancéolés, environ 2,5–3 × 0,8–1 cm, acuminés, blanc de neige ; pétales semblables aux sépales ; couronne externe membraneuse, laciniée, ± 1,5 cm de hauteur, couronne interne constituée d’anthères réduites soudées avec la couronne externe à ± 7 mm de la base, en forme d’anneau de 2 mm de hauteur ou en forme de crête aplatie ; étamines sur plusieurs rangs, soudées à la base, formant une collerette blanche, filets blancs, anthères 3 mm de longueur; ovaire déprimée-globuleux ; style ± 2 cm, stigmates en un cône tronqué d’environ 9 mm de diamètre, ± 5-lobé. Fruit sub-globuleux, 1,5–2 cm de diamètre, blanc verdâtre, glabre. Graines ± 50 par capsule, elliptiques, 4–5 × 2–3 mm, comprimées latéralement.
+Tree 3–13 m tall; branches horizontal, becoming hollow along their entire length and inhabited by ants. Leaf with petiole 0.5–1.5 cm; blade oblong to (ob)ovate-elliptic, cuneate at base, acuminate at apex, (17–)24–42 × (7–)9–13 cm, coriaceous, smooth and glossy above, matte and pale green below when fresh, then ferruginous when dry, margin entire glandular; midvein below with a few elongate-lanceolate or linear glands running along nearly the entire length, lateral veins in 13–20 pairs. Inflorescence with flowers solitary or in groups of 3 (5) in fascicles, generally situated below the branches; bracts numerous, in (3–)5–6 rows, ovate-orbicular, 3–13 mm, apiculate. Flower sessile; sepals lanceolate, approximately 2.5–3 × 0.8–1 cm, acuminate, snow-white; petals similar to sepals; external corona membranous, laciniate, ± 1.5 cm tall, internal corona consisting of reduced anthers fused with the external corona at ± 7 mm from the base, ring-shaped 2 mm tall or flattened crest-shaped; stamens in several rows, fused at base, forming a white collar, filaments white, anthers 3 mm long; ovary depressed-globose; style ± 2 cm, stigmas forming a truncate cone approximately 9 mm in diameter, ± 5-lobed. Fruit sub-globose, 1.5–2 cm in diameter, greenish-white, glabrous. Seeds ± 50 per capsule, elliptic, 4–5 × 2–3 mm, laterally compressed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-République Centrafricaine, Gabon, République du Congo, République Démocratique du Congo, Ouganda et Tanzanie ; au Gabon, rare, connue de l’HautOgooué et de l’Ogooué-Ivindo
+Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo, Uganda and Tanzania; in Gabon, rare, known from Haut-Ogooué and Ogooué-Ivindo.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-for ê ts, clairières, jachères ; au Gabon jusqu’à 400 m d’altitude, ailleurs jusqu’à 1300 m. Fleurs en octobre, novembre; fruits en novembre. Note taxonomique : Cette espèce a été traitée comme synonyme de B. nigritana par Sleumer (1976) et De Wilde (1975). Breteler (1999) la considère comme distincte. b : Breteler (1999), Peccoud et al. (2012). ibliographie
+Forests, clearings, fallows; in Gabon up to 400 m altitude, elsewhere up to 1300 m. Flowers in October, November; fruits in November. Taxonomic note: This species was treated as a synonym of B. nigritana by Sleumer (1976) and De Wilde (1975). Breteler (1999) considers it distinct. b: Breteler (1999), Peccoud et al. (2012). Bibliography
 
 ## Notes
 

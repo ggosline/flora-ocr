@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 30(1-5)
+Plate 30(1-5)
 
 , non De Wild. (1903). M. wildemaniana Cogn., Bull. Jard. Bot. État Bruxelles 4: 220 (1914).
 
-Herbe vivace, probablement dioïque, grimpante; tige jusqu’à 3—4 m, glabrescente, finement striée. Vrilles simples ou 2-fides, glabrescentes. Feuille 3-foliolée: pétiole 2—3 cm, à grande glande vert terme à la base; pétiolues 6—9 mm, à petites tâches pâles dessus, glabres dessous ; folioles ovales-elliptiques, papyracées, la centrale de 8—10 × 4—6 cm, les latérales plus petites et à base ±asymétrique, à bord entier ou à quelques dents préominentes atteignant 1,5 mm de longueur. Inflorescence: la mâle en ombelle de 15 à 30 fleurs, sans bractée engainante; pédoncule 6—15 cm, glabrescent, avec 2 ou 3 glandes apicales proéminentes. Fleur mâle : pédicelle 0,7—2,5 cm, pubérulent, à très petite bractée apicale; réceptacle cupuliforme, de 3 × 6 mm, glabre ; sépales ovales, de 2—5 × 4 mm, obtus au sommet, vert pâle, dont 2 avec une
-
-glande apicale proéminente ; pétales obovales, de ±2 × 1 cm, pubérulents des deux côtés, à poils glanduleux à l'intérieur, à marge enroulée, à 9 nervures ; étanines 3, insérées près de la gorge, filet ±4 mm, anthère à loges tripiquées, longues de 2,5 mm. Fleur femelle inconnue. Fruit obovoïde, légèrement rostré, de 6–10(−15) × 3–7(−10) cm, charnu, glabre, recouvert de tubercules coniques formant 6 crêtes hautes de 1,5–2 cm, séparées les unes des autres par de nombreux tubercules plus petits, irrégulièrement déhiscent, mûrissant orange, à nombreuses graines. Graine obovoïde, de 11–13 × 6–9 × 5–6 mm; testa brun noirâtre, finement sculpté.
+Perennial herb, probably dioecious, climbing; stem up to 3–4 m, glabrescent, finely striate. Tendrils simple or 2-fid, glabrescent. Leaf 3-foliolate: petiole 2–3 cm, with large dark green gland at base; petiolules 6–9 mm, with small pale spots above, glabrous below; leaflets ovate-elliptic, papyraceous, the central one 8–10 × 4–6 cm, the lateral ones smaller and with ± asymmetric base, entire margin or with a few prominent teeth reaching 1.5 mm in length. Inflorescence: the male one in an umbel of 15 to 30 flowers, without sheathing bract; peduncle 6–15 cm, glabrescent, with 2 or 3 prominent apical glands. Male flower: pedicel 0.7–2.5 cm, puberulent, with very small apical bract; receptacle cupuliform, 3 × 6 mm, glabrous; sepals ovate, 2–5 × 4 mm, obtuse at apex, pale green, of which 2 with a prominent apical gland; petals obovate, ±2 × 1 cm, puberulent on both sides, with glandular hairs inside, with enrolled margin, with 9 nerves; stamens 3, inserted near the throat, filament ±4 mm, anther with tripinnate locules, 2.5 mm long. Female flower unknown. Fruit obovoid, slightly rostrate, 6–10(−15) × 3–7(−10) cm, fleshy, glabrous, covered with conical tubercles forming 6 ridges 1.5–2 cm high, separated from one another by numerous smaller tubercles, irregularly dehiscent, ripening orange, with numerous seeds. Seed obovoid, 11–13 × 6–9 × 5–6 mm; testa dark brown to blackish, finely sculptured.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Bioko), Gabon et République démocratique du Congo ; au Gabon : Haut-Ogooué
+Cameroon, Equatorial Guinea (Bioko), Gabon and Democratic Republic of the Congo; in Gabon: Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Primary forest, secondary forest understory, swamp forest; in Gabon at ±450 m elevation, elsewhere at 450–700 m. Flowering from February to April and in September; fruits observed in May and January
 
-forêt primaire, sous-bois de forêt secondaire, forêt marécageuse ; au Gabon à ±450 m d'altitude, ailleurs à 450–700 m. Floraison de février à avril et en septembre ; fruits observés en mai et janvier
-
-Usage: Les feuilles sont consommées comme légume.
+Use: The leaves are consumed as a vegetable.
 
 ## Bibliography
 

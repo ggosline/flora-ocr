@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Glossolepis talbotii BAK. F., Cat. Talb. : 20 (1913); RADLK., in ENGL. Pflanzenreich, Sapindaceae : 781 (1932).
 
 — G. pilgeriana GILG ex ENGL., Pflanzenw. Afr. 3 (2) : 276 (1921); PELLEGRIN, Mém. Soc. Lin. Normandie 26 (2) : 71 (1924); RADLK., l.c. : 782 (1932).
 
 — Chytranthus pilgerianus (GILG) PELLEGRIN, Mém. Soc. Bot. France 102 : 71 (1956).
 
-— Ch. sexlocularis RADLK. l.c. : 786 (1932), syn. nov. TYPE : Ledermann 987, Nkolebunde, Malande, Cameroun, B. Les caractères de la diagnose et les précisions du récolteur se rapportant aux couleurs des différentes pièces florales permettent d'établir cette synonymie avec certitude.
+— Ch. sexlocularis RADLK. l.c. : 786 (1932), syn. nov. TYPE : Ledermann 987, Nkolebunde, Malande, Cameroon, B. The characters of the diagnosis and the collector's notes relating to the colors of the various floral parts make it possible to establish this synonymy with certainty.
 
-Arbuste monocaule de 3-10 m de hauteur, à bois jaune très dur. Le tronc dépasse 8 cm de diamètre; extrémité glabre. Rachis foliaire long de 0,40-1 m, avec 20-40 cm sous la première paire de folioles, à largeur moyenne de 4-6 mm; pétiolules de 5-10 mm; 7-14 (16) paires de folioles opposées ou subopposées atteignant 20-25 (-33) × 5-9 (-12) cm, glabres, avec la
+Monocaulous shrub 3–10 m tall, with very hard yellow wood. The trunk exceeds 8 cm in diameter; apex glabrous. Leaf rachis 0.40–1 m long, with 20–40 cm beneath the first pair of leaflets, averaging 4–6 mm wide; petiolules 5–10 mm; 7–14 (16) pairs of opposite or subopposite leaflets reaching 20–25 (−33) × 5–9 (−12) cm, glabrous, with the midvein slightly raised above when dry; 11–15 pairs of secondary veins, fine venation apparent on both surfaces of the blade when dry, the latter often quite distinctly discolorous.
 
-nervure médiane en léger relief dessus, à sec; 11-15 paires de nervures secondaires, fin réseau apparent sur les deux faces du limbe à sec, ce dernier étant souvent assez nettement discolore.
+Cauline inflorescences surrounding the base of the trunk, arranged ± parallel to the ground with flowers erect; loose racemes 12–40 (−80) cm long, with ± alternate floriferous glomerules, unevenly spaced 0.5–2 (−3) cm apart; axis pale green, glabrous or with very sparse micropubescence; floral pedicels 5–18 mm long, whitish or pink. Calyx densely pruinose-micropubescent, whitish, ellipsoid approximately 15 × 8–9 mm, white-felted inside; 4–5 sepals split for 1–3 mm, sometimes torn at the sinuses; 4 pure white petals 17 × 3.5 mm, with pubescent claw, with 2 superposed ligules on the inner face, with attenuate apex; pale yellow, fleshy disk, 3 mm, unilateral and sinuous between the petals; 11–13 stamens somewhat unequal, the smallest on the inner edge of the disk, reaching 10 mm with ± pubescent pink filament; anther purple or garnet-red, 2 × 1.1 mm; pollen blue-grey; pubescent pistil approximately 3 × 1.5 mm reaching 17 × 4.5 mm in the ♀ flower; 6–7 (−8) locules; elongate style and stigma with sinuous violaceous exsert crown in the ♀ flower.
 
-Inflorescences caulinaires entourant la base du tronc, disposées ± paralèlement au sol avec les fleurs redressées; grappes lâches de 12-40 (-80) cm, à glomérules florifères ± alternes, inégalement espacés de 0,5-2 (-3) cm; axe vert pâle, glabre ou à micropubérulence très éparse; pédoncules floraux longs de 5-18 mm, blanchâtres ou roses. Calice densément pruineux micropubérulent, blanchâtre, ellipsoïde d'environ 15 × 8-9 mm, blanc feutré à l'intérieur; 4-5 sépales fendus sur 1-3 mm, parfois déchirés aux échancrures; 4 pétales blanc pur de 17 × 3,5 mm, à onglet pubescent, à 2 ligules superposées sur la face interne, à sommet atténué; disque jaune pâle, charnu, de 3 mm, unilatéral et sinueux entre les pétales; 11-13 étamines un peu inégales, les plus petites au bord interne du disque, atteignant 10 mm à filet rose ± pubescent; anthère violette ou rouge grenat, de 2 × 1,1 mm; pollen gris bleuté; pistil pubérulent d'environ 3 × 1,5 mm atteignant 17 × 4,5 mm dans la fleur ♀; 6-7 (-8) loges; style allongé et stigmate à couronne sinueuse violacée exserte dans la fleur ♀.
-
-Fruit dépassant 9 cm de diamètre, long de 12 cm, lisse et vert avant maturité, puis jaune vitellin, sillonné en long, un peu acuminé au sommet contenant 6-7 graines de 40-53 × 30 × 12 mm. PL. 26, p. 109.
+Fruit exceeding 9 cm in diameter, 12 cm long, smooth and green before maturity, then vitellus yellow, furrowed lengthwise, somewhat acuminate at the apex containing 6–7 seeds 40–53 × 30 × 12 mm. PL. 26, p. 109.
 
 ## Type
 
@@ -41,13 +37,11 @@ Talbot 1686, Oban, province de Calabar, Nigeria (holo-, BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of primary rainforest known from Ivory Coast (Bégué 2963, Aubréville 93), southern Nigeria, Cameroon, Rio Muni, Gabon, Kouilou (Sargos 45), and Congo (Bouquet 734, Descoings 11281).
 
-Espèce de forêts ombrophiles primaires connue de la Côte-d'Ivoire (Bégué 2963, Aubréville 93), du Sud Nigeria, du Cameroun, du Rio Muni, Gabon, Kouilou (Sargos 45) et Congo (Bouquet 734, Descoings 11281).
+Uses : The fruit is noted as edible, but otherwise the flesh is said to be too acidic; the seeds from the ripe fruit are eaten cooked, their taste reminiscent of chestnut.
 
-Usage : Le fruit est signalé comme comestible, mais par ailleurs la chair est dite trop acide; les graines du fruit mür sont consommées cuites, leur goût rappelle la châtaigne.
-
-Annet 144, Bipindi; 248 bis, Ngouayang près Lolodori (fl., juin). Brenan 9417, Kumba (fl., mars). Raynal J. & A. 9842, Meyo-Biboulou, 36 km SW Ambam, forêt primaire marécageuse. Zenker 2081, 2125, 2304 (type de G. pilgeriana Gilg), Bipindi.
+Annet 144, Bipindi; 248 bis, Ngouayang near Lolodori (fl., June). Brenan 9417, Kumba (fl., March). Raynal J. & A. 9842, Meyo-Biboulou, 36 km SW Ambam, swampy primary forest. Zenker 2081, 2125, 2304 (type of G. pilgeriana Gilg), Bipindi.
 
 ## Vernacular names
 

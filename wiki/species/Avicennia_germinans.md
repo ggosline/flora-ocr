@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bontia germinans LINNÉ, Syst. Nat., ed. 10 : 1122 (1759).
 
 — Avicennia nitida Jacq., Enum. Pl. Carib. : 25 (1760).
 
-— A. tomentosa JacQ., l.c. (1760).
+— A. tomentosa Jacq., l.c. (1760).
 
 — A. africana P.B., Fl. Oware 1 : 79, tab. 47 (1806); MOLDENKE, Phytologia 7 : 146 (1960); KEAY, FWTA, ed. 2., 2 : 448, tab. 309 (1963).
 
-Arbuste ou petit arbre haut de 4-15 m. Couronne dense et ± sphérique. Racines émettant des pneumatophores verticaux à la surface du sol. Jeunes rameaux très finement pubérulents, marqués de 2 forts sillons latéraux. Feuilles à pétiole long de 0,8-1,5 cm, pubescent à la base de la face supérieure et glabre dessous, ridé sur les deux faces; limbe glabre sur les deux faces, nombreux glomérules blancs de sel à la face inférieure, ± gris et mat dessus et grisâtre jaunâtre dessous à l'état sec, assez coriace, elliptique, parfois obové, 5-15 × 1,5-6,5 cm; base atténuée ou cunéiforme et sommet obtus ou arrondi. Nervure médiane glabre, très saillante sur les deux faces; nervures secondaires 6-15 paires, très ascendantes, rectilignes, s'anastomosant à 0,5-1 mm du bord du limbe, très saillantes sur les deux faces. Nervilles en réseau très lâche, saillantes sur les deux faces.
+Shrub or small tree 4–15 m tall. Crown dense and ± spherical. Roots emitting vertical pneumatophores at the soil surface. Young branchlets very finely puberulent, marked by 2 strong lateral grooves. Leaves with petiole 0.8–1.5 cm long, pubescent at the base of the upper surface and glabrous below, wrinkled on both surfaces; blade glabrous on both surfaces, numerous white salt glands on the lower surface, ± grey and dull above and greyish-yellowish below when dry, fairly coriaceous, elliptic, sometimes obovate, 5–15 × 1.5–6.5 cm; base attenuate or cuneate and apex obtuse or rounded. Midrib glabrous, very prominent on both surfaces; secondary veins 6–15 pairs, very ascending, straight, anastomosing 0.5–1 mm from the limb margin, very prominent on both surfaces. Veinlets in very loose network, prominent on both surfaces.
 
-Inflorescences cymeuses, axillaires ou terminales; axe inflorescentiel courtemet pubérulent. Pseudo-involucre de 3 bractéoles finement pubérulentes-villeuses extérieurement et glabres intérieurement, imbriquées, deltoïdes ou très largement ovées, les latérales asymétriques à la base, bord supérieur ciliolé, 2-2,5 × 2-2,5 mm. Fleur ♀ actinomorphe blanche. Sépales 5, en deux verticilles : l'un externe de 3 sépales imbriqués, l'autre interne de 2 sépales libres, finement pubescents extérieurement et glabres intérieurement, très largement elliptiques-orbiculaires, 4-4,5 × 2,5-4 mm, très fortement concaves à bords ciliolés et sommet arrondi. Pétales 4, imbriqués, soudés sur la moitié de leur longueur, lobes libres pubescents sur les deux faces, réfléchis, oblancéolés, 6,5 × 3 mm, arrondis ou émarginés au sommet. Étamines 4, didynamics extorcées, soudées par le filet au tube de la corolle; filets des petites étamines longs de 1,5 mm, filets des grandes étamines longs de 4 mm; anthères ellipsoïdes longues de 0,75 mm. Ovaire supère densément pubescent, ± ellipsoïde-globuleux, long de 1,75 mm. Style long de 3 mm, pubescent à la base et glabre ± tétraédrique au sommet, se terminant par 2 stigmates. Pl. 15, p. 65.
+Inflorescences cymose, axillary or terminal; inflorescence axis shortly puberulent. Pseudo-involucre of 3 bracteoles finely puberulent-villous on the exterior and glabrous on the interior, imbricate, deltoid or very broadly ovate, the lateral ones asymmetric at the base, upper margin ciliolate, 2–2.5 × 2–2.5 mm. Flower ♀ actinomorphic white. Sepals 5, in two whorls: the outer of 3 imbricate sepals, the inner of 2 free sepals, finely pubescent on the exterior and glabrous on the interior, very broadly elliptic-orbicular, 4–4.5 × 2.5–4 mm, very strongly concave with ciliolate margins and rounded apex. Petals 4, imbricate, fused for half their length, free lobes pubescent on both surfaces, reflexed, oblanceolate, 6.5 × 3 mm, rounded or emarginate at the apex. Stamens 4, didynamous extrorse, fused by the filament to the corolla tube; filaments of the smaller stamens 1.5 mm long, filaments of the larger stamens 4 mm long; anthers ellipsoid 0.75 mm long. Ovary superior densely pubescent, ± ellipsoid-globulous, 1.75 mm long. Style 3 mm long, pubescent at the base and glabrous ± tetrahedric at the apex, terminating in 2 stigmas. Pl. 15, p. 65.
 
-Capsule bivalve, tomentelleuse, ellipsoïde, asymétrique, longue de 2,5 cm, sommet apiculé. Radicule velue.
+Capsule bivalve, tomentellous, ellipsoid, asymmetric, 2.5 cm long, apex apiculate. Radicle hairy.
 
 ## Type
 
@@ -39,9 +37,7 @@ Browne 813 in herb. Linné (holo-, LINN)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les pneumatophores sont caractéristiques de cette espèce que l'on retrouve sur tous les littoraux tropicaux ou subtropicaux de l'Atlantique. Dans les mangroves, elle semble être une espèce des formations secondaires. Son optimum de développement est obtenu sur des substrats caillouteux. A. germinans est une plante vivipare : l'embryon se développe dans le fruit; il est déjà une plantule quand il se sépare de l'arbre. Son aire s'étend sur les deux côtes de l'Atlantique.
+The pneumatophores are characteristic of this species which is found on all tropical or subtropical Atlantic coasts. In mangroves, it appears to be a species of secondary formations. Its optimum development is achieved on stony substrates. A. germinans is a viviparous plant: the embryo develops within the fruit; it is already a seedling when it separates from the tree. Its range extends over both coasts of the Atlantic.
 
 ## Vernacular names
 
@@ -49,9 +45,7 @@ aguirigui, egirigi (mpongwè); igiri (nkomi, orungu); mugiri (ngowè, balumbu); 
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois dur et blanc est utilisé comme combustible et pour la fabrication des poteaux de cases ou des membranes des embarcations. La poudre de l'écorce entre dans la composition d'une pommade à base d'huile de palme contre la galle, les poux et les chiques. L'écorce sert au tannage. Les graines sont mangées en cas de famine (mais une longue préparation est nécessaire pour les rendre comestibles)
+The hard and white wood is used as fuel and for the manufacture of case posts or membranes of boats. The powder of the bark is used in the composition of an ointment based on palm oil against galls, lice and chiggers. The bark is used for tanning. The seeds are eaten in times of famine (but lengthy preparation is necessary to make them edible).
 
 ## Specimens examined
 

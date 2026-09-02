@@ -30,13 +30,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kew Bull.: 170 (1952).
 
-Herbe à rhizome, donnant des feuilles solitaires dressées, à pétiole pouvant atteindre plusieurs mètres de haut, et des tiges simples, terminées par une inflorescence portée latéralement, et surmontée par une feuille. Callus jusqu'à une quinzaine de centimètres de long, gaines glabres ou + pubérulentes au niveau des nœuds. Limbes de grande taille, généralement de 30 à 60 × 12-30 cm, mais jusqu'à 90 cm de long, elliptiques, acuminés au sommet, atténués à arrondis à la base et légèrement décurrents sur la nervure médiane, un peu assymétriques.
+Herb with rhizome, producing solitary erect leaves with petiole reaching several metres in height, and simple stems terminated by an inflorescence borne laterally and overtopped by a leaf. Culm up to about fifteen centimetres long, sheaths glabrous or + puberulent at the nodes. Leaf blades large, generally 30 to 60 × 12–30 cm, but up to 90 cm long, elliptic, acuminate at apex, attenuate to rounded at base and slightly decurrent on the midrib, somewhat asymmetric.
 
-Inflorescences ramiíées, axes et pédoncules le plus souvent glabres ou parfois pubérulents. Racèmes pouvant compter jusqu'à une trentaine d'entre-nœuds de ± 5 mm de long en moyenne. Bractées blanches à violacées, glabres, de 15 à 20 mm de long. Pédoncule commun des fleurs glabre à pubérulent, de 4 mm à la floraison, jusqu'à 5-7 mm avec le fruit et très épaissi. Bractéole légèrement verruqueuse, de 1,5 mm de diamètre. Sépales de ± 4 mm de long, glabres, jaunes à violacées. Corolle de 8-10 mm, blanche à violacée, jaune vers l'extrémité. Un, deux staminodes externes, trilobés, à lobe médian longuement aciculaire. Ovaire glabre à sutures marquées. Fruit déhiscent, rouge à maturité, de 20 à 25 mm de diamètre.
+Inflorescences branched, axes and peduncles mostly glabrous or sometimes puberulent. Racemes with up to about thirty internodes of ± 5 mm long on average. Bracts white to violet, glabrous, 15 to 20 mm long. Common flower peduncle glabrous to puberulent, 4 mm at anthesis, up to 5–7 mm with fruit and much thickened. Bracteole slightly verrucose, 1.5 mm in diameter. Sepals ± 4 mm long, glabrous, yellow to violet. Corolla 8–10 mm, white to violet, yellow toward the apex. One, two external staminodes, trilobed, with median lobe long-acicular. Ovary glabrous with marked sutures. Fruit dehiscent, red at maturity, 20 to 25 mm in diameter.
 
 ## Type
 
@@ -44,13 +42,11 @@ Mann 1335, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species frequent in understory in forest regions of West and Central Africa.
 
-Espèce fréquente en sous-bois dans les régions forestières d’Afrique occidentale et centrale.
+The leaves are used for making roofs and packaging, the bark of the petioles as ties or in basketry; the pulp of the fruit is edible.
 
-Les feuilles sont utilisées pour la confection de toitures et d'emballages, l'écorce des pétioles comme liens ou en vannerie ; la pulpe du fruit est comestible.
-
-Noms vernaculaires (d'après Walker et Sillans) : Ogongo (Mpongwé, Galoa, Nkomi, Orungu) ; Okongo (Mitsogo, Bakota) ; Nokongo (Apindji) ; Hikongo (Benga) ; Ngongwé (Béséki) ; Ngonghwa (Bakèlè) ; Ndjongo (Bavové) ; Dungungu (Eshira, Bavarama, Bavungu, Bapunu) ; Nyungungu (Ngowé, Balumbu) ; Lingunggu (Bavili, Baduma) ; Léngungu (Banzabi) ; Oké-kū (Fang).
+Vernacular names (after Walker and Sillans): Ogongo (Mpongwé, Galoa, Nkomi, Orungu); Okongo (Mitsogo, Bakota); Nokongo (Apindji); Hikongo (Benga); Ngongwé (Béséki); Ngonghwa (Bakèlè); Ndjongo (Bavové); Dungungu (Eshira, Bavarama, Bavungu, Bapunu); Nyungungu (Ngowé, Balumbu); Lingunggu (Bavili, Baduma); Léngungu (Banzabi); Oké-kū (Fang).
 
 ## Specimens examined
 

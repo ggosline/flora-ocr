@@ -17,29 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+WARB., in ENGL. & PRANTL, NPF 3 (6a): 15 (1893); GILG, EBJ 40: 450 (1908); CHIPP, Kew Bull.: 265 (1923); BAMPS, FCBR, Spermat., Flacourt. 1: 5 (1968); SLEUMER, EBJ 92 (4): 554 (1972).
 
-WARB., in ENGL. & PRANTL, NPF 3 (6a) : 15 (1893) ; GILG, EBJ 40 : 450 (1908) ; CHIPP, Kew Bull. : 265 (1923) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 5 (1968) ; SLEUMER, EBJ 92 (4) : 554 (1972).
+– Pyramidocarpus OLIV., J. Linn. Soc. Bot. 9: 171 (1867). TYPE SPECIES: P. blackii OLIV.
 
-– Pyramidocarpus OLIV., J. Linn. Soc. Bot. 9 : 171 (1867). ESPÈCE-TYPE : P. blackii OLIV.
+Trees or unarmed shrubs.
 
-Arbres ou arbustes inermes.
+Leaves entire or very slightly dentate; stipules caducous.
 
-Feuilles entières ou très légèrement dentées ; stipules caduques.
+Inflorescences in axillary racemes. Flowers ♂ or ♀ and ♀ (polygamous plants); sepals 4-5, connate in their lower third, substantially the same length as the petals; petals 5-8, with a scale at the base of their inner surface; stamens numerous (20-30); ovary glabrous or pubescent, with 2-4 pluriovulate placentas; style entire or divided into (2)-3-4 stigmatic branches.
 
-Inflorescences en racèmes axillaires. Fleurs ♂ ou ♀ et ♀ (plantes polygames) ; sépales 4-5, soudés entre eux dans 1/3 inférieur, sensiblement de même longueur que les pétales ; pétales 5-8, munis d'une écaille à la base de leur face interne ; étamines nombreuses (20-30) ; ovaire glabre ou pubescent, à 2-4 placentas pluriovulés ; style entier ou divisé en (2)-3-4 branches stigmatiques.
+Fruits: capsules with 3 valves; seeds 1-5, angular.
 
-Fruits : capsules à 3 valves ; graines 1-5, anguleuses.
+TYPE SPECIES: D. racemosa OLIV.
 
-ESPÈCE-TYPE : D. racemosa OLIV.
-
-Genre d'Afrique tropicale comprenant 5 espèces dont 1 pour la Flore.
+Genus from tropical Africa comprising 5 species, of which 1 for the Flora.
 
 Dasylepis blackii (Oliv.) Chipp
 
 HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1): 159 (1927).
 
-– Pyramidocarpus blackii OLIV., J. Linn. Soc. Bot. 9 : 171 (1867) ; FTA 2 : 495 (1871).
+– Pyramidocarpus blackii OLIV., J. Linn. Soc. Bot. 9: 171 (1867); FTA 2: 495 (1871).
 
 ## Type
 
@@ -49,33 +47,27 @@ Mann 1775, Guinée équatoriale (holo-, K ; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– Dasylepis brevipedicellata CHIPP, Kew Bull.: 265 (1923). TYPE: Thomson 52, Ghana (holo-, K).
 
-– Dasylepis brevipedicellata CHIPP, Kew Bull.: 265 (1923). TYPE : Thomson 52, Ghana (holo-, K).
+– D. assinensis A. CHEV. ex HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1): 159 (1927), in key; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1): 186 (1954). TYPE: Chevalier 17872, Côte d'Ivoire (holo-, P!; iso-, K).
 
-– D. assinensis A. CHEV. ex HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 159 (1927), in clavi ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 186 (1954). TYPE : Chevalier 17872, Côte d'Ivoire (holo-, P! ; iso-, K).
+– D. jansii BAMPS, BJBB 34: 497 (1964); FCBR, Spermat., Flacourt. 1: 6 (1968). TYPE: Jans s. n., Zaïre (holo-, BR).
 
-– D. jansii BAMPS, BJBB 34 : 497 (1964) ; FCBR, Spermat., Flacourt. 1 : 6 (1968). TYPE : Jans s. n., Zaïre (holo-, BR).
+Tree (10-12 m tall) or shrub; branches grayish to brownish, glabrous.
 
-Arbre (10-12 m de haut) ou arbuste ; rameaux grisâtres à brunâtres, glabres.
+Leaves with petiole 5-15 mm long, glabrous; blade elliptic-oblong or obovate-oblong, cuneate to rounded at the base, shortly acuminate at the apex, 10-20 × 4-9 cm, subentire to slightly denticulate, subcoriaceous, glabrous; secondary veins 5-8 pairs.
 
-Feuilles à pétiole de 5-15 mm de long, glabre ; limbe elliptique-oblong ou obovale-oblong, cunée à arrondi à la base, courtement acuminé au sommet, 10-20 × 4-9 cm, subentier à légèrement denticulé, subcorriace, glabre ; nervures secondaires 5-8 paires.
+Inflorescences in spiciform racemes 4-6-(8) cm long. Flowers ♂ or ♀ and ♀ (polygamous plants); pedicel short (1-1.5 mm long), glabrous, articulate on the rachis; sepals 4-5, elliptic-oblong, 6-9 × 3-5 mm, glabrous; petals 5-8, elliptic to elliptic-oblong, 5-7 × 2-2.5 mm, with a ± villous scale at the base of their inner surface; stamens 20-30, with filament 2-5 mm long, glabrous; anthers 2-3 mm long; ovary glabrous, with 3 pluriovulate placentas; style glabrous, with 3-lobed stigma or 3-4 very short branches.
 
-Inflorescences en racèmes spiciformes de 4-6-(8) cm de long. Fleurs ♂ ou ♀ et ♀ (plantes polygames) ; pédicelle court (1-1,5 mm de long), glabre, articulé sur le rachis ; sépales 4-5, elliptiques-oblongs, 6-9 × 3-5 mm, glabres ; pétales 5-8, elliptiques à elliptiques-oblongs, 5-7 × 2-2,5 mm, munis d'une écaille ± velue à la base de leur face interne ; étamines 20-30, à filet de 2-5 mm de long, glabre ; anthères de 2-3 mm de long ; ovaire glabre, à 3 placentas pluriovulés ; style glabre, à stigmate 3-lobé ou en 3-4 branches très courtes.
-
-Fruits : capsules subglobuleuses ou subovoïdes, parfois côtelées, 2,5-4 × 2-2,5 mm, glabres ; graines 4-5, anguleuses. - Pl. 8, p. 31.
+Fruits: subglobose or subovoid capsules, sometimes ribbed, 2.5-4 × 2-2.5 mm, glabrous; seeds 4-5, angular. - Pl. 8, p. 31.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, Congo, Zaïre
+Guinea, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Congo, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts de basse altitude
+Low altitude forests
 
 ## Specimens examined
 

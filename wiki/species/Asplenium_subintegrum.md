@@ -20,11 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr., Ind.: 134 (1905). — Tard., Mém. IFAN 28 : 174, t. 33, f. 1-2 (1953). — Alston, FWTA : 36 (1959).
 
-Rhizome court, à frondes en touffes. Pétiole long de 8-10 cm, comprimé, verdâtre, longuement ailé à sa partie supérieure. Limbe très brillant, long de 15-20 cm sur 3-4 de large, linéaire-lancéolé, à base longuement et progressivement décurrente sur le pétiole, extrémité brusquement acuminée en une pointe longue de 4-5 cm, à marges entières, irrégulièrement ondulées. Texture coriace, épaisse. Nervures simples ou bifurquées à la base et à nouveau vers le milieu. Sores allongés, n'atteignant ni le costa ni la marge, espacés, très obliques.
+Rhizome short, with fronds in tufts. Petiole 8-10 cm long, compressed, greenish, prominently winged in its upper part. Lamina very glossy, 15-20 cm long by 3-4 cm wide, linear-lanceolate, with base long and gradually decurrent on the petiole, apex abruptly acuminate into a point 4-5 cm long, with entire margins, irregularly undulate. Texture coriaceous, thick. Veins simple or bifurcate at the base and again near the middle. Sori elongate, reaching neither the costa nor the margin, spaced, very oblique.
 
 ## Type
 
@@ -32,9 +30,7 @@ Mont Cameroun, Mann (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Congo. Épiphyte en pleine lumière.
+Cameroon, Congo. Epiphytic in full light.
 
 ## Specimens examined
 

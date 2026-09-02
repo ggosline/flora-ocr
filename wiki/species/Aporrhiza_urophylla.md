@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 5 à 10 m, rarement 20 m. Feuilles (3-5-6-juguées; foliole à base cunée, à marge roulée en dessous vers la base; nervure médiane avec des poils apprimés dessous. Axes d'inflorescence gris tomentelleux; fleurs blanc crème. Fruit gris tomentelleux dehors, brillant dedans. PL. 36, 7-16, p. 155.
+Tree 5 to 10 m, rarely 20 m. Leaves 3–5–6-jugate; leaflet with cuneate base, margin revolute below towards the base; midvein with appressed hairs below. Axes of inflorescence grey tomentellous; flowers cream-white. Fruit grey tomentellous outside, shiny inside. PL. 36, 7–16, p. 155.
 
 ## Type
 
@@ -27,9 +25,7 @@ Dinklage 903, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue en Liberia, Pierre Leone, Côte d'Ivoire, Ghana. Cameroun.
+Species widespread in Liberia, Sierra Leone, Ivory Coast, Ghana. Cameroon.
 
 ## Specimens examined
 

@@ -17,31 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 15
 
-Planche 15
-
-Herbe grimpante; tige glabre ou muni de tubercules blancs, jusqu'à 6 m de longueure. Vrilles inégalement bifides. Feuille: pétiole 1–2 cm, glabre, muni de tubercules blancs, parfois à poils jaunâtres et simples dessus; limbe cordiforme à subhasté, jusqu'à profondément 5- ou 7-palmatilobé, 7,5–12,5 × 10,0–14,0, acuminé à apiculé au sommet, vert pâle dessus, à marge entier ou souvent serrée. Inflorescence: la mâle en racème; la femelle en racème, parfois atteignant 15 cm, ou à fleur solitaire; probractée obovale, atteignant 5 mm de longueur; pédoncule 2–13 mm, plus court que l'axe du racème, glabre à pubérulent; bractée obovale, atteignant 3,5 mm de longueur. Fleur mâle: pédicelle jusqu'à 4 mm, glabre à pubérulent; sé-pales érigés, subulés, longs de 5–7 mm; corolle atteignant 16 mm de longueur, à lobes longs
-
-de 4–7 mm, jaune ±orangé. Fleur femelle: pédicelle glabre ou pubérulent, celui d’une fleur solitaire jusqu’à 1,5 cm; ovaire glabre. Fruit ellipsoidal à courtemment cylindrique, 4–6 × 2–2,5 cm, probablement rouge à maturité. Graine aplatie, de contour ±obovale, beige grisâtre.
+Climbing herb; stem glabrous or bearing white tubercles, up to 6 m long. Tendrils unequally bifid. Leaf: petiole 1–2 cm, glabrous, bearing white tubercles, sometimes with yellowish and simple hairs above; blade cordate to subhastate, up to deeply 5- or 7-palmatilobed, 7.5–12.5 × 10.0–14.0, acuminate to apiculate at apex, pale green above, with entire or often serrate margin. Inflorescence: the male in a raceme; the female in a raceme, sometimes reaching 15 cm, or with solitary flower; probract obovate, reaching 5 mm long; pedicel 2–13 mm, shorter than the raceme axis, glabrous to puberulent; bract obovate, reaching 3.5 mm long. Male flower: pedicel up to 4 mm, glabrous to puberulent; sepals erect, subulate, 5–7 mm long; corolla reaching 16 mm long, with lobes 4–7 mm long, yellow ± orange. Female flower: pedicel glabrous or puberulent, that of a solitary flower up to 1.5 cm; ovary glabrous. Fruit ellipsoid to shortly cylindric, 4–6 × 2–2.5 cm, probably red at maturity. Seed flattened, of ± obovate outline, beige greyish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu du Gabon, du sud-ouest de la République du Congo, de l’ouest de la République dé-mocratique du Congo (Bas-Congo) et de l’ouest de l’Angola ; au Gabon, seulement connu de l’Éstuaire
+known from Gabon, south-western Republic of the Congo, western Democratic Republic of the Congo (Lower Congo) and western Angola; in Gabon, known only from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zone de transition entre la forêt tropicale humide de plaine et les zones boisées; au Gabon à basse altitude, ailleurs à 10–900 m
+transition zone between humid tropical lowland forest and wooded areas; in Gabon at low altitude, elsewhere at 10–900 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la partie Nord de sa distribution, à Libreville, les collections des plantes femelles de C. heterophylla ont des racèmes lâches, un caractère typique de C. racemiflora. Le statut taxonomique de ces populations n'est pas clair
+In the northern part of its distribution, at Libreville, collections of female plants of C. heterophylla have lax racemes, a character typical of C. racemiflora. The taxonomic status of these populations is not clear
 
 ## Bibliography
 

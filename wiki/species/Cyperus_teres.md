@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lidia 7(4) : 97 (2011). C. aromaticus (Ridl.) Mattf. & Kük. var. teres (C.B.Clarke) Kük. in Engl. & Diels, Pflanzenr. IV. 20(101) : 582 (1936). Kyllinga teres C.B.Clarke in Dyer, Fl. trop. Afr. 8 : 276 (1902). Herbe robuste, vivace, avec un rhizome ramifié, ligneux, épais de 1 cm au plus , portant des tiges ± espacées ; racines brunes ; tiges de 20‒60 cm × 3‒4 mm, presque cylindriques, vertes, glabres, lisses, feuillées seulement dans la partie basse sur 5‒12 cm. Feuilles réduites à d’épaisses gaines vertes à brun rougeâtre , orifice des gaines large et arrondi, mais parfois avec une fine nervure centrale légèrement épaissie. Inflorescence en tête hémisphérique large de 8‒12 mm, blanchâtre (brunissant en séchant) ; bractées involucrales généralement 7‒12, foliacées, les jeunes dressées, horizontales ou réfléchies
-
-à maturité, généralement de 4‒8 cm × 3‒5 mm, de longueur très égale, nettement scabres sur la marge. Épillets nombreux et serrés, obliquement lancéolés, de 4‒5 × 1,5 mm , blanchâtres (brunissant en séchant), à une seule fleur ; glumes elliptiques, longues de 4‒4,5 mm , avec une carène légèrement ailée et scabre. Akène non vu.
+Lidia 7(4) : 97 (2011). C. aromaticus (Ridl.) Mattf. & Kük. var. teres (C.B.Clarke) Kük. in Engl. & Diels, Pflanzenr. IV. 20(101) : 582 (1936). Kyllinga teres C.B.Clarke in Dyer, Fl. trop. Afr. 8 : 276 (1902). Robust herb, perennial, with a branched, woody rhizome, up to 1 cm thick, bearing ± spaced stems; roots brown; stems 20–60 cm × 3–4 mm, almost cylindrical, green, glabrous, smooth, leafy only in the lower part for 5–12 cm. Leaves reduced to thick sheaths green to reddish-brown, sheath orifice wide and rounded, but sometimes with a fine central nerve slightly thickened. Inflorescence in a hemispherical head 8–12 mm wide, whitish (browning when dry); involucral bracts generally 7–12, foliaceous, young ones erect, horizontal or reflexed at maturity, generally 4–8 cm × 3–5 mm, of very equal length, distinctly scabrous on the margin. Spikelets numerous and crowded, obliquely lanceolate, 4–5 × 1.5 mm, whitish (browning when dry), with a single flower; glumes elliptic, 4–4.5 mm long, with a slightly winged and scabrous keel. Achene not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Gabon à la République Démocratique du Congo ; rare au Gabon, trouvée seulement dans la Nyanga et l’Ogooué-Ivindo (2 récoltes)
+from Gabon to the Democratic Republic of the Congo; rare in Gabon, found only in Nyanga and Ogooué-Ivindo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les marécages et autres habitats humides ; à 0‒600 m d’altitude. Note taxonomique : se reconnaît à ses tiges arrondies, ses feuilles sans limbes et à son inflorescence en tête hémisphérique blanc verdâtre devenant couleur cannelle en séchant. Elle est très proche de C. aromaticus et devrait peut-être y être incluse. B : Clarke (1902), Lye (2011b). ibliographie
+in marshes and other humid habitats; at 0–600 m altitude. Taxonomic note: recognized by its rounded stems, its leaves without blades and its hemispherical inflorescence whitish-green becoming cinnamon-colored when dry. It is very close to C. aromaticus and should perhaps be included within it. B: Clarke (1902), Lye (2011b). Bibliography
 
 ## Notes
 

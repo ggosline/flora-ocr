@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, 5-6 km NE of N'djolé (fl.), Breteler & Jongkind 10891 (holo-WAG; iso-LBV, MO).
 
-TYPE : Gabon, 5-6 km NE de N'djolé (fl.), Breteler & Jongkind 10891 (holo-WAG ; iso-LBV, MO).
+Large liana. Young branches with brown, stiff and hirsute hairs, bark splitting into long fibrous strips.
 
-Grande liane. Jeunes rameaux, poils bruns, raides et hirsutes, écorce se débitant en longues lanières fibreuses.
+Leaves opposite; petiole ≤ 1 cm long; blade elliptic, ≤ 28 × ≤ 10 cm, pubescent on both surfaces; large lateral veins, 8-12 pairs, domatia scarcely visible; base of blade cordate; apex with an abrupt and short acumen; underside of young leaves covered with brown hairs and conspicuous white scales (Pl. 2, $ E_{1} $, p. 15).
 
-Feuilles opposées ; pétiole ≤ 1 cm long ; limbe elliptique, ≤ 28 × ≤ 10 cm, pubescent sur les deux faces ; grandes nervures latérales, 8-12 paires, domaties peu visibles ; base du limbe cordée ; sommet avec acumen brusque et court ; dessous des jeunes feuilles couvert de poils bruns et d'écailles blanches bien visibles (Pl. 2,  $ E_{1} $, p. 15).
+Scales subcircular, diameter 100-110 µm, showing fine division walls (Pl. 2, $ E_{2} $, p. 15).
 
-Écailles subcirculaires, diamètre 100-110 µm, montrant de fines parois de division (Pl. 2,  $ E_{2} $, p. 15).
+Inflorescences in axillary racemes ≤ 6 cm long, distal half bearing flowers grouped in a corona; rachis brown pubescent; bracts scarcely visible.
 
-Inflorescences en racèmes axillaires longs de ≤ 6 cm, moitié distale portant des fleurs groupées en couronne ; rachis brun pubescent ; bractées peu visibles.
+Flowers 4-merous, sessile, protogynous. Receptacle 5 mm high, greyish; the lower one 1 mm high, completely covered with white hairs; the upper one, infundibuliform, 2.5 mm wide, with white hairs and brown scales. Calyx, lobes triangular. Petals absent. Stamens exserted 1.5-2.5 mm; filaments yellow; anthers 1 mm long, yellow then brown. Style exserted 3 mm, yellowish-green.
 
-Fleurs 4-mères, sessiles, protogynes. Réceptacle haut de 5 mm, grisâtre ; l'inférieur haut de 1 mm, tout couvert de poils blancs ; le supérieur, infundibiliforme, large de 2,5 mm, avec poils blancs et écailles brunes. Calice, lobes triangulaires. Pétales absents. Étamines exsertes de 1,5-2,5 mm ; filets jaunes ; anthères longues de 1 mm, jaunes puis brunes. Style exsert de 3 mm, verdâtre-jaune.
-
-Fruit inconnu. - Pl. 19, 1-3, p. 67.
+Fruit unknown. - Pl. 19, 1-3, p. 67.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce observée plusieurs fois dans les environs de N'djolé mais nulle part ailleurs
+species observed several times in the surroundings of N'djolé but nowhere else
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide
+dense humid forest
 
 ## Specimens examined
 

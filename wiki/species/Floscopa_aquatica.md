@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Mus. Hist. Nat. (Paris) 1 : 122 (1895). F. myosotoides Hutch., Fl. W. trop. Afr ., éd. 1, 2 : 311 (1936). Herbe (semi-)flottante formant des couches sur l’eau ; racines filiformes ; tige peu ramifiée , 30‒50 cm de longueur ou plus, s’enracinant aux nœuds à rameaux latéraux courts. Feuille : gaine ± 5 mm de longueur, suture soudée sur ± 3 mm, glabre ; pseudopétiole absent ; limbe ovale à elliptique-ovale, 2‒5 × ± 1 cm, base arrondie, sommet falciforme, bords fine ment ondulés. Inflorescence terminale, lâche, pauciflore , avec 1 à 3 cincinni, chacun avec 6 à 8 fleurs ; 0 à 3 inflorescences réduites présentes dans les aisselles des feuilles subterminales. Fleur ± 5 mm de diamètre ; sépales elliptiques, 2,5‒3 × 1,5‒2 mm, rouge-rose, le sommet parfois teinté de vert, pubescents à l’extérieur ; pétales elliptiques, 3‒4 × 2 mm, glabres, bleuâtres ; étamines inférieures à filet de 2‒3 mm, à anthère réniforme-discoïdale , 0,5 mm de longueur, les supérieures à anthère divisée en deux lobes discoïdaux ; ovaire transversalement elliptique, 0,5 × 0,6 mm, nettement stipité sur 0,6 mm ; style grêle, 2 mm. Fruit transversalement elliptique , ± 1 × 2 mm, sur stipe de ± 1 mm, à base obtuse, sommet tronqué et apiculé. Graine conique, 1,2 × 0,8 mm, à ± 18 côtes très régulières, sommet avec un petit cône situé dans une dépression (ou embryotège), base profondément infundibuliforme ; testa brun ; hile linéaire, noir sur le bord.
+Bull. Mus. Hist. Nat. (Paris) 1 : 122 (1895). F. myosotoides Hutch., Fl. W. trop. Afr., ed. 1, 2 : 311 (1936). (Semi-)floating herb forming mats on water; roots filiform; stem little-branched, 30–50 cm long or more, rooting at nodes with short lateral branches. Leaf: sheath ± 5 mm long, suture fused for ± 3 mm, glabrous; pseudetiole absent; blade ovate to elliptic-ovate, 2–5 × ± 1 cm, base rounded, apex falciform, margins finely undulate. Inflorescence terminal, lax, pauciflorous, with 1 to 3 cincinni, each with 6 to 8 flowers; 0 to 3 reduced inflorescences present in the axils of subterminal leaves. Flower ± 5 mm in diameter; sepals elliptic, 2.5–3 × 1.5–2 mm, red-pink, apex sometimes tinged with green, pubescent on the outside; petals elliptic, 3–4 × 2 mm, glabrous, bluish; lower stamens with filament of 2–3 mm, with reniform-discoid anther, 0.5 mm long, the upper with anther divided into two discoid lobes; ovary transversely elliptic, 0.5 × 0.6 mm, distinctly stipitate for 0.6 mm; style slender, 2 mm. Fruit transversely elliptic, ± 1 × 2 mm, on stipe of ± 1 mm, base obtuse, apex truncate and apiculate. Seed conical, 1.2 × 0.8 mm, with ± 18 very regular ribs, apex with a small cone situated in a depression (or embryotega), base deeply infundibuliform; testa brown; hilum linear, black on the margin.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée, Guinée Bissau, Sierra Leone, Libéria, Côte d’Ivoire, Nigéria, Guinée équatoriale (Río Muni), Gabon et République du Congo ; rare au Gabon, seulement connu de l’OgoouéMaritime
+Senegal, Guinea, Guinea-Bissau, Sierra Leone, Liberia, Ivory Coast, Nigeria, Equatorial Guinea (Río Muni), Gabon and Republic of the Congo; rare in Gabon, known only from Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au bord ou (semi-)flottante dans l’eau ; au Gabon jusqu’à 100 m d’altitude, ailleurs jusqu’à 600 m d’altitude. B : Brenan (1961, 1968b), Cabezas et al. (2014), Morton (1967), Sosef et al. (2006), Vande i B liographie weghe et al. (2016)
+at the margin or (semi-)floating in water; in Gabon up to 100 m altitude, elsewhere up to 600 m altitude. B: Brenan (1961, 1968b), Cabezas et al. (2014), Morton (1967), Sosef et al. (2006), Vandewegh et al. (2016)
 
 ## Notes
 

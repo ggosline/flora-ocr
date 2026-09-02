@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 30(–60) m de hauteur, caducifolié, monoïque ou dioïque ; tronc souvent can nelé ou à contreforts ; écorce lisse, gris clair, bois mort à odeur fétide particulière ; tranche gris pâle, densément tachetée de brun ; rameaux à pubescence blanchâtre ou rarement subglabres. Stipules caduques, linéaires à linéaires-oblongues, longues de 2–6 mm, pubescentes, blanchâtres. Feuille : pétiole de 4–8 mm ; limbe elliptique-ovale à étroitement elliptique-ovale , symétrique, de 5–18 × 2–7,5 cm, (les juvéniles jusqu’à 21 × 9 cm), cunéé à arrondi et asymétrique à la base, acuminé sur 10–25 mm, à marge entière ou avec quelques dents grossières dans la moitié supérieure, (les juvéniles à peine acuminé et bord grossièrement denté dans la moitié supérieure), membraneux à cartacé, glabrescent, souvent scabre, triplinervé ; nervures secondaires basales ne s’étendant pas ou à peine dans la moitié supérieure, 2 à 6 de nervures supérieures. Inflorescence à fleurs mâles souvent précoces, groupées en cymes pauci- à pluri flores, les femelles et bisexuées peu nombreuses ou solitaires. Fleur : pédicelle de 2–7 mm ; tépales 4 ou 5, longs de 1,2–2 mm, pubescents ; ovaire pubescent ou glabre ; styles 2, entiers , de 2–3 mm, ± enroulés. Fruit à pédicelle de 3–10 mm, globuleux à ovoïde, de 4–7 × 3–5 mm, à 4 angles sur le sec, pointu au sommet, glabre, brun foncé ou orange à maturité.
+Tree reaching 30(–60) m in height, deciduous, monoecious or dioecious; trunk often fluted or with buttresses; bark smooth, pale grey, dead wood with a characteristic fetid odour; section pale grey, densely speckled with brown; branchlets with whitish pubescence or rarely subglabrous. Stipules caducous, linear to linear-oblong, 2–6 mm long, pubescent, whitish. Leaf: petiole 4–8 mm; lamina elliptic-ovate to narrowly elliptic-ovate, symmetric, 5–18 × 2–7.5 cm (juvenile leaves up to 21 × 9 cm), cuneate to rounded and asymmetric at base, acuminate over 10–25 mm, margin entire or with a few coarse teeth in upper half (juvenile leaves barely acuminate and margin coarsely dentate in upper half), membranous to chartaceous, glabrescent, often scabrous, triplinervate; basal secondary nerves not extending or barely extending into upper half, 2 to 6 upper nerves. Inflorescence with male flowers often precocious, grouped in few- to many-flowered cymes, female and bisexual flowers few or solitary. Flower: pedicel 2–7 mm; tepals 4 or 5, 1.2–2 mm long, pubescent; ovary pubescent or glabrous; styles 2, entire, 2–3 mm, ± enrolled. Fruit with pedicel 3–10 mm, globose to ovoid, 4–7 × 3–5 mm, 4-angled when dry, acute at apex, glabrous, dark brown or orange at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l’Afrique tropicale et de l’Afrique du Sud, dont le Nigéria, le Cameroun, Sao Tomé et Principe, la Guinée équatoriale, le Gabon, la République démocratique du Congo, la République Centrafricaine et l’Angola ; au Gabon : Moyen-Ogooué et Ogooué-Maritime
+Known from tropical Africa and southern Africa, including Nigeria, Cameroon, São Tomé and Príncipe, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Central African Republic and Angola; in Gabon: Moyen-Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Forest margins in lowland and montane forests; in Gabon up to 75 m altitude, elsewhere 0–2000 m. Uses: The wood is commonly used, for example for construction, joinery, cabinet-making, canoes and agricultural implements. It is suitable for shipbuilding, wheelwrighting, hardboards and particleboards and is also used for charcoal production. In traditional medicine, a decoction of leaves is used to treat cardiovascular diseases. A decoction of roots is used against fever and menstrual pain. The species is planted as a shade tree in crops and to improve soil condition.
 
-lisières des forêts de plaine et de montagne ; au Gabon jusqu’à 75 m d’altitude, ailleurs à 0–2000 m. Usage : Le bois est couramment utilisé, par exemple pour la construction, les menuiseries, l’ébénisterie, les pirogues et les instruments agricoles. Il convient pour la construction navale, la charronnerie, les panneaux durs et particulaires et sert également pour la production de charbon de bois. En médecine tra-
-
-Koritschoner 1574 ; 7 : Wallace 1201 ). Dessin par Maureen Church (©), reproduit avec permission à partir de Polhill (1966).
-
-ditionnelle, la décoction de feuilles sert à traiter les maladies cardiovasculaires. La décoction de racine est utilisée contre la fièvre et les douleurs menstruelles. L’espèce est plantée comme arbre d’ombrage dans les cultures et pour améliorer l’état des sols.
+Koritschoner 1574; 7: Wallace 1201). Drawing by Maureen Church (©), reproduced with permission from Polhill (1966).
 
 ## Vernacular names
 

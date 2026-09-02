@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PR 103 (4, 127): 62 (1938); HEPPER, FWTA, ed. 2, 1 (2): 747 (1958); JONGKIND, in BRETELER (ed.), AUWP 89 (6): 306 (1989).
 
-PR 103 (4, 127): 62 (1938); HEPPER, FWTA, ed. 2, 1 (2): 747 (1958); JONGKIND, in BRETELER (éd.), AUWP 89 (6): 306 (1989).
+– Dinklagea macrantha GILG, Notizbl. Bot. Gart. Berlin 7: 242 (1897). TYPE: Liberia, Grand Bassa, Fishtown, Dinklage 1633 (holo-B; iso-BM, BR, E, G, Z).
 
-– Dinklagea macrantha GILG, Notizbl. Bot. Gart. Berlin 7: 242 (1897). TYPE: Libéria, Grand Bassa, Fishtown, Dinklage 1633 (holo-B; iso-BM, BR, E, G, Z).
+Large climbing vine climbing chiefly by means of leaves modified into woody hooks. Young branches velvety, soon glabrescent.
 
-Grande liane grimpant surtout au moyen des feuilles modifiées en crochets ligneux. Jeunes rameaux veloutés, tôt glabrescents.
+Leaves. Petiole 5.5–10.5 cm long; rachis 4.5–11 cm long, nearly glabrous; petiolules 2–5 mm long; leaflets 5–9, ovate to elliptic, coriaceous, slightly pubescent beneath; base cordate to subcordate, apex acuminate; terminal leaflet 10–18 × 3.5–6 cm; lateral leaflets 5.5–16.5 × 2.5–6 cm.
 
-Feuilles. Pétiole long 5,5-10,5 cm ; rachis long de 4,5-11 cm presque glabre ; pétioules longs de 2-5 mm ; folioles 5-9, ovées à elliptiques, coriaces, légèrement pubescentes dessous ; base cordée à subcordée, sommet acuminé ; foliole terminale 10-18 × 3,5-6 cm ; folioles latérales 5,5-16,5 × 2,5-6 cm.
+Inflorescences ≤ 10 cm long, pubescent or glabrous, frequently at the axil of a leaf modified into a hook.
 
-Inflorescences longues de ≤ 10 cm, pubescentes ou glabres, fréquemment à l'aisselle d'une feuille modifiée en crochet.
+Flowers. Floral bud, at the moment of calyx opening 3–3.5 × 2–2.5 mm. Pedicel above the articulation 1–4 mm long. Sepals lanceolate 4–5 × 1.5–2 mm, red, frequently with 3 types of hairs. Petals with 2 lateral lobes (glandular?), 5.5–8 × 1.5–1.7 mm, yellow, covered with glandular hairs on both faces. Stamens 3–6 mm long, filaments covered with glandular hairs. Carpel short ca 2 mm, carpel long ca 6 mm, with short hairs only glandular.
 
-Fleurs. Bouton floral, au moment de l'ouverture du calice 3-3,5 × 2-2,5 mm. Pédicelle au-dessus de l'articulation long de 1-4 mm. Sépales lancéolés 4-5 × 1,5-2 mm, rouge, fréquemment avec 3 types de poils. Pétales avec 2 lobes latéraux (glanduleux ?), 5,5-8 × 1,5-1,7 mm, jaunes, couverts de poils glanduleux sur les 2 faces. Étamines longues de 3-6 mm, filets couverts de poils glandulaires. Pistil court ca 2 mm, pistil long ca 6 mm, avec des poils courts uniquement glandulaires.
+Fruits, follicles 1–5 per flower, ≤ 20 × 10 mm, finely woody, very shortly velvety, with short hairs only glandular, terminating in a beak. Sepals beneath the fruit 8–10 × 2–4 mm, dark red.
 
-Fruits, follicules 1-5 par fleur, ≤ 20 × 10 mm, finement ligneux, très courtemment veloutés, avec de courts poils uniquement glanduleux, terminés en bec. Sépales sous le fruit 8-10 × 2-4 mm, rouge foncé.
-
-Graine,  $ \approx 10 \times \approx 7 $ mm; testa totalement charnu et rouge. - Pl. 31, p. 103.
+Seed, $ \approx 10 \times \approx 7 $ mm; testa entirely fleshy and red. - Pl. 31, p. 103.
 
 ## Type
 
@@ -41,25 +39,21 @@ Dinklage 1633, Fishtown, Libéria
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Libéria, Ouest de la Côte d'Ivoire, Gabon
+Liberia, West Ivory Coast, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ombroph­ilous forests and forest galleries, observed and collected particularly on the edge
 
-forêts ombrophiles et galeries forestières, observée et récoltée plus particulièrement en lisière
+Breteler 9012, Lopé Reserve (fr., Nov.), WAG.
 
-Breteler 9012, Réserve de la Lopé (fr., Nov.), WAG.
+Breteler & al. 8715, near Djidji (st., Apr.), LBV, WAG; 9503, Rabi (st., Mar.), WAG. De Wilde & Jongkind 9330, Mt Doudou, ≈ 20 km W. of Doussala (v. fr., Mar.), LBV, WAG.
 
-Breteler & al. 8715, près de Djidji (st., Avr.), LBV, WAG ; 9503, Rabi (st., Mars), WAG. De Wilde & Jongkind 9330, Mt Doudou, ≈ 20 km O. de Doussala (v. fr., Mars), LBV, WAG.
+Jongkind 702, Lopé Reserve (st., Apr.), LBV, WAG.
 
-Jongkind 702, Réserve de la Lopé (st., Avr.), LBV, WAG.
+Reitsma 1728, 45 km S.W. of Doussala (fr., Oct.), WAG; 2642, Lopé Reserve (fr., Nov.), WAG.
 
-Reitsma 1728, 45 km S.O. de Doussala (fr., Oct.), WAG ; 2642, Réserve de la Lopé (fr., Nov.), WAG.
-
-Thomas 6507, entre Guidouma et Mimongo (j. fr., Juil.), MO, WAG.
+Thomas 6507, between Guidouma and Mimongo (y. fr., Jul.), MO, WAG.
 
 ## Figures
 

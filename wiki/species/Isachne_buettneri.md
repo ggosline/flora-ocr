@@ -25,15 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with creeping and rooting base at lower nodes. Leaf sheaths ciliate on the margins and sometimes between the nerves, with hairs tuberculate at the base. Blades lanceolate, rounded at the base and long-attenuate at the apex 5-20 × 0.5-1.5 cm finely tuberculate and more or less pubescent on the lower surface.
 
-Herbe pérenne à base rampante et radicante aux nœuds inférieurs. Gaines foliaires ciliées sur les bords et parfois entre les nervures, avec des poils à base tuberculée. Limbes lancéolés, arrondis à la base et longuement atténués au sommet de 5-20 × 0,5-1,5 cm finement tuberculés et plus ou moins pubescents à la face inférieure.
+Panicle lax, reaching about fifteen centimeters long. Spikelets globose, pale green, approximately 1 mm long. Glumes somewhat shorter than the spikelet, membranous with hyaline margins, with 5 or 9 nerves, slightly pubescent toward the apex.
 
-Panicule lâche, atteignant une quinzaine de centimètres de long. Épillets globuleux, vert pâle, d'environ 1 mm de long. Glumes un peu plus courtes que l'épillet, membraneuses à bords hyalins, à 5 ou 9 nervures, légèrement pubescentes vers le sommet.
+The two flowers are fertile, similar, plano-convex, as long as the spikelet, finely pubescent on the back.
 
-Les deux fleurs sont fertiles, semblables, plan-convexes, aussi longues que l'épillet, finement pubescentes sur le dos.
-
-Espèce connue du Sierra Leone au Cameroun, en Ouganda, au Congo et au Gabon. C'est une plante d'endroits ombragés humides.
+Species known from Sierra Leone to Cameroon, in Uganda, Congo and Gabon. It is a plant of shaded humid places.
 
 ## Specimens examined
 

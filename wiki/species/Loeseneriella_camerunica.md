@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , nomen ; Bull. IFAN, sér. A, 21 (3) : tab. 68 (1959) ; Pollen & Spores 2 (1) : 11 (1960).
 
 – Hippocratea camerunica LOES., Bot. Jahrb. 34: 110 (1904).
 
-Liane ligneuse à entre-nœuds glabres, les plus âgés brunâtres et fine-ment rugueux lenticellés. Stipules réduites rapprochées sur un fin bourrelet transversal arqué. Pas de caoutchouc. Pétiole de 5-13 mm, glabre. Limbe coriace roux à olivacé roux à sec, rebordé, marge avec des denticules peu distincts, de 5-20 × 3-10 cm ; base aiguë à arrondie ; sommet avec un acumen de 8-13 mm. Nervures secondaires 6-8 paires ; nervilles indistinctes, surtout dessus.
+Woody liane with glabrous internodes, the oldest ones brownish and finely wrinkled and lenticellate. Stipules reduced, approximated on a fine transverse arched ridge. No latex. Petiole 5–13 mm, glabrous. Blade coriaceous, reddish to reddish-olive when dry, rebounded, margin with poorly distinct denticules, 5–20 × 3–10 cm; base acute to rounded; apex with an acumen 8–13 mm long. Secondary veins 6–8 pairs; veinlets indistinct, especially above.
 
-Cymes longues de 4-8 cm, parfois groupées en panicules ; axes à très fine pubérulence rousse (à sec) ; bractées deltoïdes de 1 mm ou moins ; cymes multiflores mais contractées aux extrémités. Pédicelle de 2-7 (-9) mm, roux pubérulent. Boutons ovés coniques aigus, longs de 5-6 mm, d'un roux parfois un peu orangé à sec, densément vêtue d'une pubérulence rase. Fleur jaunâtres, semi-urcéolées, de 10-12 mm de diamètre. Calice de 3-3,5 mm de diamètre, à lobes ovés quinconciaux de 1 mm. Pétales triangulaires allongés d'environ 4-6 × 1,5-2 mm, à pubérulence microscopique recto et verso. Disque à étroite cupule inférieure peu distinctement pubescente, d'environ 2,5-3 mm de diamètre ; court androgynophore à bourrelet latéral pubescent de même diamètre que la cupule. Filets staminaux nettement pubérulents ; anthère, 0,8 mm de largeur, à fente transversale tournée latéralement. Partie visible du sommet de l'ovaire, soit 1/3, glabre ; (12)14 ovules par loge. Style pyramidal de 1,5 mm.
+Cymes 4–8 cm long, sometimes grouped in panicles; axes with very fine reddish pubescence (when dry); bracts deltoid, 1 mm or less; cymes multiflorous but contracted at the ends. Pedicel 2–7 (–9) mm, reddish-puberulent. Buds ovate-conical, acute, 5–6 mm long, sometimes somewhat orange-red when dry, densely covered with short pubescence. Flowers yellowish, semi-urceolate, 10–12 mm in diameter. Calyx 3–3.5 mm in diameter, with quincuncial ovate lobes, 1 mm. Petals elongate-triangular, approximately 4–6 × 1.5–2 mm, with microscopic pubescence on both surfaces. Disk with narrow inferior cupule, indistinctly pubescent, approximately 2.5–3 mm in diameter; short androgynophore with lateral pubescent ridge of the same diameter as the cupule. Staminal filaments distinctly puberulent; anther 0.8 mm wide, with transverse slit turned laterally. Visible part of the ovary apex, namely 1/3, glabrous; (12)14 ovules per locule. Style pyramidal, 1.5 mm.
 
-Valve ou demi-méricarpe de  $ 89 \times 15 $ mm. Graine de  $ 80 \times 21 $ mm (Zenker 2758). - Pl. 69, fig. 18-30, p. 241.
+Valve or half-mericarp $ 89 \times 15 $ mm. Seed $ 80 \times 21 $ mm (Zenker 2758). - Pl. 69, fig. 18–30, p. 241.
 
 ## Type
 
@@ -35,9 +33,7 @@ Zenker 2308, Cameroun (iso-, G!, K!, L!, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; espèce rare et localisée.
+Cameroon and Gabon; rare and localized species.
 
 ## Specimens examined
 

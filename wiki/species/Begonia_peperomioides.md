@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 20 cm de hauteur. Feuilles non peltées ; pétiole de 3–16 cm de longueur, sans ou avec très peu de poils longs ; limbe dressé à étalé sur le frais, non bullé, asymétrique, elliptique à largement elliptique , 9–15 × 3–6,5 cm, base largement à étroitement cunéiforme sur un côté, étroitement cunéiforme à atténuée sur l’autre , sommet acuminé, marge entière à ondulée ou avec quelques petites dents, face supérieure sans poils longs. Inflorescence : pédoncule 0,5–1 cm, avec 2–5 fleurs ♂ et 1 fleur ♀ à tépales jaunes ; bractées 2,5–7 mm de longueur. Fleur ♂ : tépales 7–17 × 8–13 mm ; androcée à 23–40 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 10 mm ; tépales 9–18 × 11,5–20 mm ; ovaire (ailes incluses) très largement obtriangulaire à obtriangulaire déprimé, 4,5–12,5 × 8–15 mm, sans poils longs, à 3–4 ailes très largement obtriangulaires à obtriangulaires très déprimées, 2–10,5 mm de largeur ; styles 3–4. Fruit comme l’ovaire, mais 5–13 × 11–16 mm ; rostre jusqu’à 1,5 mm.
+Plant reaching 20 cm in height. Leaves not peltate; petiole 3–16 cm in length, without or with very few long hairs; blade erect to spreading when fresh, not bullate, asymmetric, elliptic to broadly elliptic, 9–15 × 3–6.5 cm, base broadly to narrowly cuneate on one side, narrowly cuneate to attenuate on the other, apex acuminate, margin entire to undulate or with a few small teeth, upper surface without long hairs. Inflorescence: peduncle 0.5–1 cm, with 2–5 ♂ flowers and 1 ♀ flower with yellow tepals; bracts 2.5–7 mm in length. ♂ Flower: tepals 7–17 × 8–13 mm; androecium with 23–40 stamens. ♀ Flower: pedicel elongating in fruit up to 10 mm; tepals 9–18 × 11.5–20 mm; ovary (wings included) very broadly obtriangular to obtriangular depressed, 4.5–12.5 × 8–15 mm, without long hairs, with 3–4 very broadly obtriangular to obtriangular very depressed wings, 2–10.5 mm in width; styles 3–4. Fruit as the ovary, but 5–13 × 11–16 mm; rostrum up to 1.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon (Monts de Cristal) ; stations originales réduites, espèce rare
+endemic to Gabon (Cristal Mountains); original stations reduced, rare species
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+on soil or on old mossy trunks, on slopes in primary forest; at approximately 400 m elevation. B: Sosef (1994). BIBLIOGRAPHY
 
-au sol ou sur vieux troncs moussus, sur des pentes dans la forêt primaire ; à environ 400 m d’altitude. B : Sosef (1994). IBLIOGRAPHIE
-
-IL ESSEL Herbier National des Pays-Bas – Wageningen branche.
+ILESSEL National Herbarium of the Netherlands – Wageningen branch.
 
 ## Notes
 

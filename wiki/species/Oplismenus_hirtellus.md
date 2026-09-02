@@ -28,13 +28,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant with creeping base, then thin culms erect or even more or less climbing, branched at the base, often with a longitudinal line of hairs in the leaf axil. Sheaths pubescent along the margins and at the nodes, ligule truncate. Blade lanceolate, narrowed at the base, up to $ 12 \times 2 $ cm, pubescent beneath, and sometimes with a few long hairs on the upper surface.
 
-Plante pérenne à base rampante, puis chaumes minces dressés ou même plus ou moins grimpants, ramiés à la base, avec souvent une ligne longitudinale de poils dans l'axe de la feuille. Gaines pubescentes le long des bords et aux nœuds, ligule tronquée. Limbe lancéolé, rétréci à la base, jusqu'à  $ 12 \times 2 $ cm, pubescent dessous, et avec parfois quelques longs poils à la face supérieure.
+Racemes dense, numbering 4 to 10 arranged along a glabrous or more or less pubescent axis, 2 to 3 cm long, sometimes shorter. Rachis terminated by a solitary spikelet, dorsally flattened, more or less pubescent and often bordered by tuberculate hairs at the base. Spikelets contiguous, hirsute at the base. Glumes pubescent, at least along the margins, the lower one acuminate, with 5 nerves and awn 6 to 10 mm long; the upper one obtuse, with 5 or 7 nerves and awn 2 to 4 mm long. Lower floret generally neuter, lemma with 7–11 nerves emarginate at the apex, mucronate or very shortly awned. Upper floret 2 to 2.5 mm long, coriaceous, lemma with 7 nerves.
 
-Racèmes denses, au nombre de 4 à 10 disposés le long d'un axe glabre ou plus ou moins pubescent, de 2 à 3 cm de long, parfois plus court. Rachis terminé par un épillet solitaire, aplat dorsalement, plus ou moins pubescent et souvent bordé de poils tuberculés à la base. Épillets contigus, hisrutes à la base. Glumes pubescentes, au moins le long des bords, l'inférieure acuminée, à 5 nervures et arête de 6 à 10 mm de long; la supérieure obtuse, à 5 ou 7 nervures et arête de 2 à 4 mm de long. Fleur inférieure généralement neutre, lemma à 7 -11 nervures échancrée au sommet, mucronée ou très courtement aristée. Fleur supérieure de 2 à 2,5 mm de long, coriace, lemma à 7 nervures.
-
-Espèce fréquente dans les zones forestières de l'Afrique intertropicale.
+Frequent species in the forest zones of intertropical Africa.
 
 ## Specimens examined
 

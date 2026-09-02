@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier., in Engler, Bot. Jahrb. 46 : 365 (1911). — Tard., Mém. IFAN 28 : 189, t. 36, f. 1 (1953). — Alston, FWTA : 189 (1959).
 
-Rhizome court, à frondes en touffes, portant des écailles foncées deltoïdes, aiguës, à base cordée, formées de cellules allongées, à parois épaisses, lumière incolore. Pétiole long de 10-15 cm, ayant à peu près la même longueur que le limbe, grisâtre plombé, mat, canaliculé au sommet, portant à la base, les mêmes écailles que le rhizome. Limbe oblong, imparipenné, long de 10-20 cm, sur 7-10 de large. Pennes latérales 5-12 paires, faisant un angle de 85° avec le rachis, opposées ou subopposées, pétiolées, espacées d'environ 3 cm, rhomboïdales, inéquilatérales, longues de 5-8 cm sur 2-2,5, à bases inégales, la supérieure cunéiforme, subtronquée, auriculée, l'inférieure oblongue, arrondie, parfois aussi auriculée, crénelées-dentées, à lobe médian allongé, deltoïde, serrulé. Penne terminale souvent trilobée, à lobes aigus. Rachis comprimé, vert, écailleux de façon lâche. Texture subcoriace. Face inférieure du limbe portant de petites écailles étroites. Nervures subflabellées; costa non apparent. Sores n'atteignant pas la marge. Spores ovales, portant un réseau de larges crêtes incolores.
+Rhizome short, with fronds in tufts, bearing dark deltoid, acute scales with cordate base, formed of elongated cells with thick walls, colourless lumen. Petiole 10-15 cm long, approximately the same length as the lamina, greyish leaden, dull, canaliculate at the apex, bearing at the base the same scales as the rhizome. Lamina oblong, imparipinnate, 10-20 cm long, 7-10 cm wide. Lateral pinnae 5-12 pairs, making an angle of 85° with the rachis, opposite or subopposite, petiolate, spaced approximately 3 cm apart, rhomboidal, inequilateral, 5-8 cm long by 2-2.5 cm, with unequal bases, the upper one cuneiform, subtruncate, auriculate, the lower one oblong, rounded, sometimes also auriculate, crenate-dentate, with an elongated deltoid median lobe, serrulate. Terminal pinna often trilobed, with acute lobes. Rachis compressed, green, loosely scaly. Subcoriaceous texture. Lower face of lamina bearing small narrow scales. Veins subflabellate; costa not apparent. Sori not reaching the margin. Spores oval, bearing a network of broad colourless ridges.
 
 ## Type
 
@@ -33,11 +31,9 @@ Fernando-Po, Barter (B, isotype K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Congo.
 
-De Guinée au Congo.
-
-Sur troncs d'Elaeis, galeries forestières ombragées.
+On Elaeis trunks, shaded forest galleries.
 
 ## Specimens examined
 

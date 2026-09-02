@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 3–15 m tall and 20–30 cm in diameter, glabrous. Leaves alternate, articulate; stipules broadly ovate, ciliolate, caducous, $ 1 \times 0.5 $ mm; stipels ovate to elliptic, ciliolate, caducous, with bilobed apex, $ 3.5–4.5 \times 2 $ mm; petiole 5–8 mm; petiolule canaliculate-rugose, 3–5 mm. Blade oblong-rectangular, $ \pm $ acute, obtuse to rounded at base, long-acuminate at apex, $ 5–15 \times 2–7 $ cm. Veins arcuate, anastomosing, prominent on lower surface, forming a very dense network.
 
-Arbre haut de 3-15 m et de 20-30 cm de diamètre, glabre. Feuilles alternes, articulées; stipules largement ovales, ciliolées, caduques, de  $ 1 \times 0.5 $ mm; stipelles ovales à elliptiques, ciliolées, caduques, à sommet bilobé,  $ 3,5-4,5 \times 2 $ mm; pétiole de 5-8 mm; pétiolule canaliculé-rugueux, de 3-5 mm. Limbe oblong rectangulaire,  $ \pm $ aigu, obtus à arrondi à la base, longuement acuminé au sommet,  $ 5-15 \times 2-7 $ cm. Nervures arquées, anastomoses, saillantes à la face inférieure, formant un réseau très dense.
+Male inflorescences in multiflorous racemes, 10–20 mm. Flowers articulate; bracts $ \pm $ subquadrangular, rounded at apex, glabrescente, ciliolate, thick at base; pedicels 5–8 mm, clothed with short hairs. Male flowers with glabrous sepals, oblong-rectangular, 4–5 × 1–2 mm. Petals obovate, 4 × 5.5 mm. Stamens 10, glabrous, alternately long and short; filaments 5–7 mm long and wider at base for the episepals stamens, and 4–6 mm long for the epipetalous stamens; anthers approximately 1 mm long, ovate, versatile, introrse, dehiscing by 2 longitudinal slits. Rudimentary ovary, approximately 1 × 1 mm, with atrophied ovules; styles 3, very short.
 
-Inflorescences ♂ en racèmes multiflores, de 10-20 mm. Fleurs articulées; bractées ± subquadrangulaires, arrondies au sommet, glabrescentes, ciliolées, épaisses à la base; pédicelles de 5-8 mm, vêtus de poils courts. Fleurs ♂ à sépales glabres, oblongs rectangulares, de 4-5 × 1-2 mm. Pétales obuvés, 4 × 5,5 mm. Étamines 10, glabres, alternativement longues et courtes; filets longs de 5-7 mm et plus larges à la base pour les étamines épisé-pales, et de 4-6 mm de longueur pour les étamines épipétales; anthères longues d'environ 1 mm, ovales, versatiles, introrses, déhiscentes par 2 fentes longitudinales. Ovaire rudimentaire, de 1 × 1 mm environ, à ovules atrophiés; styles 3, très courts.
+Female inflorescences in pauciflorous racemes, approximately 1 cm long. Flowers with sepals and petals identical to those of male flowers. Stamens included, not fertile. Ovary 3-lobed, 2–2.5 × 1.5–2 mm; ovules 2 per locule, collateral, pendulous; styles 1.5 cm long.
 
-Inflorescences ♀ en racèmes pauciflores, longues d'environ 1 cm. Fleurs à sépales et pétales identiques à ceux des fleurs ♂. Étamines incluses, non fertiles. Ovaire 3-lobé, de 2-2,5 × 1,5-2 mm; ovules 2 par loge, collatéraux, pendants; styles longs de 1,5 cm.
-
-Capsule gris-violacé, ellipsoïde, de  $ 2.5 \times 1.5 $ cm environ, à déhiscence septicide, monosperme. Graine noire, ellipsoïde,  $ 1-1.5 \times 0.8 $ cm, recouverte sur les deux tiers de sa longueur par un arille rouge. PL. 10, p. 41.
+Capsule grayish-violet, ellipsoid, approximately $ 2.5 \times 1.5 $ cm, with septicidal dehiscence, monospermic. Seed black, ellipsoid, $ 1–1.5 \times 0.8 $ cm, covered on two-thirds of its length by a red aril. PL. 10, p. 41.
 
 ## Type
 
@@ -33,9 +31,7 @@ Staudt 911, Cameroun (holo-, B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts de terre ferme, plus rarement formations marécageuses. Nigeria, Cameroun, Gabon, République Centrafricaine et Zaïre.
+Upland forests, more rarely swampy formations. Nigeria, Cameroon, Gabon, Central African Republic and Zaire.
 
 ## Specimens examined
 

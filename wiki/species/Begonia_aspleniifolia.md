@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 10 à 100 cm de hauteur ; tige fortement ramifiée, pubescente à glabrescente. Stipules persistantes, triangulaires à ovales, 1,5–6 × 0,3–2 mm, fimbriées ou à plusieurs dents atténuées et prolongées en un long cil. Feuilles : pétiole de 1,5–4,5 mm ; limbe pennatiséqué à contour étroitement elliptique à ovale, (1,5–)3,5–9,5 × 0,5–2,5 cm, nettement dissymétrique à la base, 6–11 lobes principaux d’un côté, 5–8 de l’autre . Inflorescence : pédoncule 1–3(–5) mm ; fleurs ♂ 1(–3) ; fleur ♀ 1 ; bractées 1–3 × 0,4 mm. Fleur ♂ : pédicelle de 2–4,5 mm, glabre ; tépales elliptiques à suborbiculaires, (2–)3–5 × 1–3 mm, blancs transparents ou jaune pâle à sommet rosâtre ; étamines 7–16, filets soudés à la base, parties libres inégales de 0,1–1 mm de longueur. Fleur ♀ : pédicelle de 0,5–2,5 mm ; périanthe semblable à celui des fleurs ♂ ; ovaire ellipsoïde à 3 ailes égales, 4–7 × 2–4 mm (ailes comprises) ; styles 3, de 2–3,5 mm, à stigmate capité. Fruit solitaire, pendant sur un pédoncule arqué de 1,5–5,5 mm, elliptique à circulaire, 7–11 × 6–8 mm, à 3 ailes nervurées et rostre de 1–2,5 mm.
+Herb 10 to 100 cm tall; stem strongly branched, pubescent to glabrescent. Stipules persistent, triangular to ovate, 1.5–6 × 0.3–2 mm, fimbriate or with several attenuate teeth prolonged into a long cilium. Leaves: petiole 1.5–4.5 mm; blade pinnatisect with narrowly elliptic to ovate outline, (1.5–)3.5–9.5 × 0.5–2.5 cm, distinctly asymmetric at base, 6–11 principal lobes on one side, 5–8 on the other. Inflorescence: peduncle 1–3(–5) mm; male flowers 1(–3); female flower 1; bracts 1–3 × 0.4 mm. Male flower: pedicel 2–4.5 mm, glabrous; tepals elliptic to suborbicular, (2–)3–5 × 1–3 mm, transparent white or pale yellow with roseate apex; stamens 7–16, filaments connate at base, free parts unequal 0.1–1 mm in length. Female flower: pedicel 0.5–2.5 mm; perianth similar to that of male flowers; ovary ellipsoid with 3 equal wings, 4–7 × 2–4 mm (wings included); styles 3, 2–3.5 mm, with capitate stigma. Fruit solitary, pendant on an arched peduncle 1.5–5.5 mm, elliptic to circular, 7–11 × 6–8 mm, with 3 nerved wings and beak 1–2.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, limitée aux Monts de Cristal et au Massif du Chaillu
+endemic to Gabon, limited to the Monts de Cristal and the Chaillu Massif
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur pentes rocheuses demi-ombragées entre 350 m et 800 m d’altitude. B : Irmscher (1925). IBLIOGRAPHIE
+on half-shaded rocky slopes between 350 m and 800 m altitude. B: Irmscher (1925). BIBLIOGRAPHY
 
 ## Notes
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl. & Diels, Pflanzenr . IV. 20(101) : 588 (1936). Kyllinga erecta Schumach. in Schumach. & Thonning , Beskriv. Guin. pl . : 62 (1827). Herbe vivace, à rhizome rampant, à tiges habituellement densément disposées sur une seule rangée ; base renflée des tiges persistant sur le vieux rhizome mort ; rhizome 4‒10 cm × 3‒4 mm, couvert d’écailles ; tiges de 12‒40 cm × 0,8‒1,7 mm, fortement trigones, striées, glabres, la base enfermée dans plusieurs gaines brunâtres sans limbe. Feuille : limbe plan, canaliculé ou enroulé, habituellement 4‒6 par tige, le plus grand de 5‒35 cm × 2‒4 mm, scabre sur la marge et la nervure centrale surtout près de la pointe. Inflorescence solitaire, en épi ovale ou hémisphérique, large de 5‒8 mm ; bractées involucrales 3‒4, foliacées, habituellement étalées ou réfléchies, la plus grande de 5‒15 cm × 2‒3,5 mm. Épillet long de 2‒3 mm , à 1‒2 fleurs ; glumes très inégales, longues de 2‒3,5 mm , jaune doré avec la nervure centrale verte et 3‒5 nervures latérales, nervure centrale non ailée, glabre ou un peu ciliée et se terminant au sommet aigu ou le dépassant et légèrement incurvée. Akène elliptique, de 1‒1,2 × 0,4‒0,7 mm , brun doré.
+in Engl. & Diels, Pflanzenr. IV. 20(101): 588 (1936). Kyllinga erecta Schumach. in Schumach. & Thonning, Beskriv. Guin. pl.: 62 (1827). Perennial herb, with creeping rhizome, stems usually densely arranged in a single row; swollen base of stems persisting on the dead old rhizome; rhizome 4–10 cm × 3–4 mm, covered with scales; stems 12–40 cm × 0.8–1.7 mm, strongly trigonous, striate, glabrous, the base enclosed in several brownish sheaths without limb. Leaf: blade flat, canaliculate or rolled, usually 4–6 per stem, the largest 5–35 cm × 2–4 mm, scabrous on the margin and central vein especially near the apex. Inflorescence solitary, in an oval or hemispherical spike, 5–8 mm wide; involucral bracts 3–4, foliaceous, usually spreading or reflexed, the largest 5–15 cm × 2–3.5 mm. Spikelet 2–3 mm long, with 1–2 flowers; glumes very unequal, 2–3.5 mm long, golden yellow with the central vein green and 3–5 lateral veins, central vein not winged, glabrous or slightly ciliate and terminating at the acute apex or exceeding it and slightly curved. Achene elliptic, 1–1.2 × 0.4–0.7 mm, golden brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+widely distributed in tropical and southern Africa including the Mascarenes; distributed in Gabon, found in Estuaire, Nyanga, Ngounié, Ogooué-Maritime, Ogooué-Ivindo and Woleu-Ntem (14 collections)
 
-largement répandue en Afrique tropicale et australe y compris les Mascareignes ; répandue au Gabon, trouvée dans l’Estuaire, la Nyanga, la Ngounié, l’OgoouéMaritime, l’Ogooué-Ivindo et le Woleu-Ntem (14 récoltes)
-
-dispersée depuis l’Afrique de l’Ouest à la République Démocratique du Congo ; rare au Gabon, trouvée seulement dans le Moyen-Ogooué et l’Ogooué-Maritime
+scattered from West Africa to the Democratic Republic of the Congo; rare in Gabon, found only in Moyen-Ogooué and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in humid grassland areas and drainage ditch margins; in Gabon, at 0–500 m altitude, up to 1900 m elsewhere
 
-dans les zones herbeuses humides et les bords des fossés de drainage ; au Gabon, à 0‒500 m d’altitude, jusqu’à 1900 m ailleurs
-
-dans des habitats saisonnièrement humides ; à 0‒100 m d’altitude. Note taxonomique : diffère de la sous-espèce type notamment par ses feuilles moins nombreuses et plus courtes, par ses bractées involucrales plus courtes et par ses épillets blanchâtres. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+in seasonally humid habitats; at 0–100 m altitude. Taxonomic note: differs from the typical subspecies notably by its less numerous and shorter leaves, by its shorter involucral bracts and by its whitish spikelets. Bibliography: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972).
 
 ## Vernacular names
 

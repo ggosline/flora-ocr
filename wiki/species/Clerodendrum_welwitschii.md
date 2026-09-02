@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant 15 m de hauteur ; tige quadrangulaire à cylindrique, pleine , densément pubescente, à poils blancs, brun doré ou bruns, atteignant 1 mm, parfois les plus âgées devenant glabrescentes, à pseudoépines souvent trapues sur le bois plus âgé, atteignant 2,2 cm . Feuilles opposées ; pétiole de 1,5–9 cm ; limbe ovale à largement ovale ou suborbiculaire, de 6,5–13(–17,5) × 5,5–10,5(–13,5) cm, arrondi à subcordé ou cordé à la base, à acumen atteignant 1,5 cm à l’apex, entier à subondulé au bord, ± scabriduleux, poilu sur toutes les nervures, légèrement feutré au toucher , surtout dessous, avec 3 à 5(ou 6) nervures basales. Inflorescence terminale, sur des rameaux latéraux courts, généralement dense, de 4,5–9 × 4–10 cm ; cymes distantes de (0,1–)0,5–1,5(–2) cm ; pédoncule de 0,5–1,8(–2) cm ; bractées linéaires, longues de 4–6 mm. Fleur : pédicelle ± 2,0 cm ; calice blanc verdâtre, à tube long de 5–7 mm, atteignant 9 mm en fruit, à lobes triangulaires à étroitement ovales, de 7–12 × 3–6 mm, acuminés ; corolle parfumée, blanche, à pubescence clairsemée, à tube de 3–4(–4,6) cm × 1 mm, souvent courbé ou coudé, à lobes ± oblongs, de 9–11 × 3–4 cm , arrondis à l’apex ; étamines exsertes sur 2–2,5 cm. Fruit de ± 8 × 7 mm, vert noirâtre foncé.
+Liane reaching 15 m in height; stem quadrangular to cylindrical, solid, densely pubescent, with white, golden brown or brown hairs reaching 1 mm, sometimes the older ones becoming glabrescent, with pseudo-spines often stubby on older wood, reaching 2.2 cm. Leaves opposite; petiole 1.5–9 cm; limb ovate to broadly ovate or suborbicular, 6.5–13(–17.5) × 5.5–10.5(–13.5) cm, rounded to subcordate or cordate at base, with acumen reaching 1.5 cm at apex, entire to subundulate at margin, ± scabridulous, hairy on all the veins, slightly felted to the touch, especially below, with 3 to 5 (or 6) basal veins. Inflorescence terminal, on short lateral branches, generally dense, 4.5–9 × 4–10 cm; cymes distant (0.1–)0.5–1.5(–2) cm apart; peduncle 0.5–1.8(–2) cm; bracts linear, 4–6 mm long. Flower: pedicel ± 2.0 cm; calyx whitish-green, tube 5–7 mm long, reaching 9 mm in fruit, lobes triangular to narrowly ovate, 7–12 × 3–6 mm, acuminate; corolla fragrant, white, with sparse pubescence, tube 3–4(–4.6) cm × 1 mm, often curved or bent, lobes ± oblong, 9–11 × 3–4 cm, rounded at apex; stamens exsert 2–2.5 cm. Fruit ± 8 × 7 mm, dark blackish-green.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Gabon, République du Congo, République démocratique du Congo, République Centrafricaine, Somalie, Angola jusqu’en Afrique australe tropicale ; au Gabon : OgoouéIvindo, Ogooué-Lolo et Woleu-Ntem. Statut de conservation : à large répartition et attribué préliminairement à Préoccupation mineure (LC)
+Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic, Somalia, Angola to tropical southern Africa; in Gabon: Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem. Conservation status: widely distributed and preliminarily assigned to Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires, bords de route, affleurements rocheux ; au Gabon à 320–900 m d’altitude, ailleurs jusqu’à 700 m. B : Figueiredo & Smith (2008), Huber et al. (1963), Vande weghe et al. (2016). i B liographie
+Secondary forests, roadsides, rocky outcrops; in Gabon at 320–900 m altitude, elsewhere up to 700 m. B: Figueiredo & Smith (2008), Huber et al. (1963), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

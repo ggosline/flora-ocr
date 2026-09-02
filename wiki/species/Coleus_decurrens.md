@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plectranthus decurrens (Gürke) J.K.Morton, Bot. J. Linn. Soc. 58 : 267 (1962). Herbe ou arbuste , de (0,15–)0,3–2 m de hauteur ; tige dressée, glabre à peu pubescente vers la base, devenant densément pubescente sur l’axe de l’inflorescence à poils colorés non glandu leux. Feuille sessile ; limbe elliptique, de (8–)15–30 × 6–10 cm, longuement et étroitement décurrent sur 5–15 mm, acuminé à l’apex, crénelé à denté, presque glabre mais à poils sur les nervures et glandes sessiles brunes ou pâles éparses sur la face inférieure. Inflorescence terminale, généralement avec plusieurs verticillastres séparés par des entrenœuds atteignant 20 mm ; cymes sessiles, à 3 fleurs ; bractées étroitement elliptiques-ovales à ovales, atteignant 5 mm de longueur, entières. Fleur : pédicelle 4 mm ; calice tubuleux, légèrement courbé vers le haut en fruit, long de 4–6 mm, de 10–12 mm en fruit , peu pubescent, à glandes sessiles pâles ou brunâtres, à lèvre supérieure ovale, mucronée à l’apex, décurrente, lobes latéraux deltoïdes, acuminés à l’apex, lobes inférieurs divisés jusqu’à la base, étroitement triangulaires, subulés au sommet, se courbant légèrement vers le haut ; corolle longue de 15–20 mm, jaune orangé , presque glabre, mais à glandes sessiles pâles, à tube sigmoïde, long de 8–10 mm, à lèvre inférieure longue de 8–10 mm, profondément cucullée et renfermant les étamines ; étamines à filets soudés à la base. Fruits : akènes ovoïdes, légèrement aplatis, longs de 1,5 mm, bruns, finement réticulés en raison du motif des cellules épidermiques.
+Plectranthus decurrens (Gürke) J.K.Morton, Bot. J. Linn. Soc. 58 : 267 (1962). Herb or shrub, (0.15–)0.3–2 m tall; stem erect, glabrous to sparsely pubescent towards the base, becoming densely pubescent on the inflorescence axis with coloured non-glandular hairs. Leaf sessile; lamina elliptic, (8–)15–30 × 6–10 cm, narrowly and narrowly decurrent for 5–15 mm, acuminate at the apex, crenate to dentate, almost glabrous but with hairs on the nerves and brown or pale sessile glands scattered on the lower surface. Inflorescence terminal, generally with several verticillasters separated by internodes reaching 20 mm; cymes sessile, 3-flowered; bracts narrowly elliptic-ovate to ovate, reaching 5 mm in length, entire. Flower: pedicel 4 mm; calyx tubular, slightly curved upwards in fruit, 4–6 mm long, 10–12 mm in fruit, sparsely pubescent, with pale or brownish sessile glands, upper lip ovate, mucronate at the apex, decurrent, lateral lobes deltoid, acuminate at the apex, lower lobes divided to the base, narrowly triangular, subulate at the apex, slightly curving upwards; corolla 15–20 mm long, orange-yellow, almost glabrous, but with pale sessile glands, tube sigmoidal, 8–10 mm long, lower lip 8–10 mm long, deeply cucullate and enclosing the stamens; stamens with filaments united at the base. Fruits: achenes ovoid, slightly flattened, 1.5 mm long, brown, finely reticulate due to the pattern of epidermal cells.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale (Bioko, Rio Muni), Gabon, République du Congo, République Centrafricaine, République démocratique du Congo, Ouganda et Angola ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo et Woleu-Ntem. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Nigeria, Cameroon, Equatorial Guinea (Bioko, Rio Muni), Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Uganda and Angola; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo and Woleu-Ntem. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords de rivières ou stations ouvertes en forêt ; au Gabon à 250–580 m d’altitude, ailleurs à 30–1250 m. B : Morton (1963), Morales (2011). i B liographie
+river banks or open forest stations; in Gabon at 250–580 m altitude, elsewhere at 30–1250 m. B: Morton (1963), Morales (2011). Bibliography
 
 ## Notes
 

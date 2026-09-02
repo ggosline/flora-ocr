@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Mem. Torrey Bot. Club 19 : 152 (1938). — Tard., Mém. IFAN 28 : 22 (1953).
 
-Plante de 1,5-3 cm de haut, à rhizome cylindrique, portant généralement une feuille; tige commune de 0,2-0,5 cm de long, feuille elliptique ou blancéolée, arrondie au sommet, longue de 0,1 à 0,4 cm sur 0,1 de large au plus. Nervures libres; nervures médianes divergentes. Fronde fertile à pétiole long de 0,1-0,4 cm, à épi long de 0,1 à 0,4 cm, portant 2-6 paires de sporanges.
+Plant 1.5–3 cm tall, with cylindrical rhizome, generally bearing one leaf; common stem 0.2–0.5 cm long, leaf elliptic or lanceolate, rounded at apex, 0.1 to 0.4 cm long by 0.1 cm wide at most. Veins free; median veins divergent. Fertile frond with petiole 0.1–0.4 cm long, with spike 0.1 to 0.4 cm long, bearing 2–6 pairs of sporangia.
 
 ## Type
 

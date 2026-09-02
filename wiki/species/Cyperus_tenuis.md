@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, en touffe, petite, avec une tige épaissie à la base , sans ou avec un rhizome subligneux court, avec 5‒15 tiges serrées de 10‒50 cm × 1‒1,5 mm, glabres, trigones avec les angles arrondis, feuillées à la base sur 5 cm seulement. Feuille : gaines supérieures vertes, les inférieures brun rougeâtre à pourpres ; limbe à presque toutes les gaines, les principaux de 10‒40 cm × 1‒3 mm , plans, scabres sur la marge et la nervure centrale. Inflorescence en anthèle lâche, large de 2‒8 cm, avec 1‒5 épis sessiles ou subsessiles et 5‒10 épis pédonculés, parfois avec 1‒2 épis sessiles à la base d’un épi pédonculé ;
+Perennial herb, tufted, small, with a stem thickened at the base, without or with a short subwoody rhizome, with 5‒15 crowded stems 10‒50 cm × 1‒1.5 mm, glabrous, trigonous with rounded angles, leafy at the base for only 5 cm. Leaf: upper sheaths green, the lower ones reddish-brown to purple; blade on almost all the sheaths, the main ones 10‒40 cm × 1‒3 mm, plane, scabrous on the margin and central nerve. Inflorescence in a loose anthela, 2‒8 cm wide, with 1‒5 sessile or subsessile spikes and 5‒10 pedunculate spikes, sometimes with 1‒2 sessile spikes at the base of a pedunculate spike;
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique de l’Ouest, du Sénégal au Gabon, aussi au Tchad et en Amérique tropicale ; assez commune au Gabon, trouvée dans l’Estuaire, l’Ogooué-Ivindo, l’Ogooué-Maritime et le Woleu-Ntem (7 récoltes)
+widely distributed in West Africa, from Senegal to Gabon, also in Chad and tropical America; fairly common in Gabon, found in Estuaire, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem (7 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in grassy meadows and disturbed habitats, often in shade; in Gabon, at 0‒700 m elevation, elsewhere up to 1750 m. Taxonomic note: recognized by its long linear spikelets with acute apex, which become arcuate or sinuous at maturity. B: Hooper & Napper (1972). Bibliography
 
-dans des prairies herbeuses et les habitats perturbés, souvent à l’ombre ; au Gabon, à 0‒700 m d’altitude, ailleurs jusqu’à 1750 m. Note taxonomique : se reconnaît par ses longs épillets linéaires à sommet aigu, qui deviennent arqués ou sinueux à maturité. B : Hooper & Napper (1972). ibliographie
-
-Fascicules d’épillets digités. – E. Partie de l’épillet une fleur sur rachis renflé. – G. Fleur. – H. Fruit. montrant deux glumes. – F. Fruit avec style et trois Dessin par J.L. Castillo, reproduit avec permission filets. Dessin original par Richard W. Haines ©. du Real Jardín Botánico, Madrid © à partir de Luceño et al. (2007).
+Fascicles of digitate spikelets. – E. Part of the spikelet with one flower on swollen rachis. – G. Flower. – H. Fruit. showing two glumes. – F. Fruit with style and three Drawing by J.L. Castillo, reproduced with permission filaments. Original drawing by Richard W. Haines ©. from Real Jardín Botánico, Madrid © from Luceño et al. (2007).
 
 ## Notes
 

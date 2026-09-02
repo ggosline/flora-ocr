@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1) : 280 (1954) ; LIBEN, FZ : 88, tab. 8 (1968) ; EXELL & GARCIA, CFA : 92 (1970) ; LIBEN, Fl. Cam. 25 : 84, tab. 26 (1983). TYPE : not identified.
 
-KEAY, FWTA, ed. 2, 1(1) : 280 (1954) ; LIBEN, FZ : 88, tab. 8 (1968) ; EXELL & GARCIA, CFA : 92 (1970) ; LIBEN, Fl. Cam. 25 : 84, tab. 26 (1983). TYPE : non identifié.
+Shrub to small tree, generally 3 m tall but sometimes ≤ 20 m. Young branches slightly winged.
 
-Arbrisseau à arbuste, généralement haut de 3 m mais parfois ≤ 20 m. Jeunes rameaux légèrement ailés.
+Leaves alternate ; petiole ± winged with two glands ; blade $ 9.5 \times 3.5 $ cm, coriaceous-succulent, glabrous ; lateral veins 8 pairs with domatia in the form of pockets ; base of blade attenuate ; apex acute.
 
-Feuilles alternes ; pétiole ± ailé muni de deux glandes ; limbe  $ 9.5 \times 3.5 $ cm, coriace-succulent, glabre ; nervures latérales 8 paires à domaties en forme de poches ; base du limbe atténuée ; sommet aigu.
+Inflorescences : flowers grouped in ellipsoidal capitula, 1.5 cm long, pale green, anthers yellowish.
 
-Inflorescences : fleurs groupées en capitules ellipsoïdaux, longs de 1,5 cm, vert pâle, anthères jaunâtres.
+Flowers bisexual, sessile, 5-merous.
 
-Fleurs bisexuées, sessiles, 5-mères.
-
-Fruits  $ 5 \times 5 $ mm avec réceptacle supérieur persistant. Ils sont groupés en une infrutescence ellipsoidale de  $ 15 \times 11 $ mm, brun-rougeâtre. – Pl. 25, p. 91.
+Fruits $ 5 \times 5 $ mm with superior persistent receptacle. They are grouped in an ellipsoidal infructescence of $ 15 \times 11 $ mm, brownish-red. – Pl. 25, p. 91.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones côtières des deux bords de l'Atlantique
+coastal zones of both banks of the Atlantic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mangroves, marécages et autres stations côtières
+mangroves, swamps and other coastal stations
 
 ## Specimens examined
 

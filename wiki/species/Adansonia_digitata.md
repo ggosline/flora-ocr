@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce si caractéristique par son port, ses fleurs et ses fruits, a été introduite à Libreville comme plante ornamentale (WALKER & SILANS : Pl. Ut. Gabon 104, tab. 43, 1961). Il n'existe aucun échantillon d'herbier pour le territoire considéré.
+This species, so characteristic in its habit, flowers and fruits, was introduced to Libreville as an ornamental plant (WALKER & SILANS : Pl. Ut. Gabon 104, tab. 43, 1961). No herbarium specimen exists for the territory under consideration.
 
 ## Notes
 

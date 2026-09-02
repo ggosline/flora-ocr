@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Hutch. in Hutch. & RENDLE, FTA 6 (2): 183 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 156 (1948).
 
-Arbustes épiphytes à grands arbres. Rameaux feuillés épais de 4-7 mm, pubérulents à presque hirtelleux, bruns à noirâtres sur le sec, pleins. Feuilles disposées en spirales. Limbe ové à subové (ou oblongé, elliptique), long de 5-25 cm, large de 2-9 cm, coriace, sommet acuminé à subaigu, base cordée à tronquée (à obtuse), bord entier ; les deux faces glabres ; nervures presque planes dessus, ± saillantes dessous ; 6-9 paires de nervures latérales, inclus 1 (-2) paires de nervures basales, nervures latérales s'anastomosant en boucle à (1-) 3-4 mm du bord du limbe ; tache glandulaire visible. Pétiole long de (0,5-) 1-3 (-3,5) cm, épais de 1-2,5 mm, pubérulent à presque hérisse, périderme se détachant ou persistant. Stipules libres ou basalement souduées, longues de 1-2,5 cm, presque glabres, caduques ou persistantes.
+Shrubs epiphytic on large trees. Leafy branches 4–7 mm thick, puberulent to almost hirtellous, brown to blackish when dry, solid. Leaves arranged in spirals. Lamina ovate to subovate (or oblong, elliptic), 5–25 cm long, 2–9 cm wide, coriaceous, apex acuminate to subacute, base cordate to truncate (to obtuse), margin entire; both surfaces glabrous; veins almost plane above, ± prominent below; 6–9 pairs of lateral veins, including 1 (–2) pairs of basal veins, lateral veins anastomosing in loops at (1–) 3–4 mm from the leaf margin; glandular dot visible. Petiole (0.5–) 1–3 (–3.5) cm long, 1–2.5 mm thick, puberulent to almost hispid, periderm exfoliating or persistent. Stipules free or basally connate, 1–2.5 cm long, almost glabrous, caducous or persistent.
 
-Figues par paires ou solitaires dans les aisselles foliaires, sessiles ; bractées basales ovées à semi-circulaires, longues de 2-3 mm, glabres ou très courtemment pubérulentes dans la partie inférieure ; réceptacle (sub) globuleux, d'un diamètre de 2-3 cm environ sur le frais, et de 1-3-1,7 cm sur le sec, ± rugueux avec des poils plutôt denses, blancs, rigides, ± verruculeux, paroi épaisse de 1,5 mm environ sur le sec, ostiole faiblement saillant, bilabié.
+Figs in pairs or solitary in leaf axils, sessile; basal bracts ovate to semicircular, 2–3 mm long, glabrous or very shortly puberulent in the lower part; receptacle (sub)globose, c. 2–3 cm in diameter on the fresh plant and 1.3–1.7 cm on the dry plant, ± rugose with rather dense, white, rigid hairs, ± verruculose, wall c. 1.5 mm thick on the dry plant, ostiole weakly prominent, bilabiate.
 
-Fleurs pistillées avec 3 tépales longs de 1-2 mm, libres ou basalement soudés ; fleurs à graines (sub) sessiles, style long de 2-2,5 mm ; fleurs à galles à pédicelle atteignant 4 mm, style long de 1-1,5 mm. Fruits oblongoïdes, longs de 1,5 mm environ ; fruits à galles ellipsoïdes à oblongoïdes, longs de 2-2,5 mm, à stipe long jusqu'à 1 mm ; fruits nettement bicolores. Fleurs staminées à pédicelle long de 0,2-0,5 mm, périanthe avec 3 tépales inégaux, longs de 1-1,5 mm environ, libres ou basalement soudés, filet long de 0,1-0,3 mm anthère longue de 1 mm environ à connectif large. Bractées interflorales longues jusqu'à 1,5 mm. – Pl. 74, p. 241.
+Pistillate flowers with 3 tepals 1–2 mm long, free or basally connate; seed flowers (sub)sessile, style 2–2.5 mm long; gall flowers with pedicel reaching 4 mm, style 1–1.5 mm long. Fruits oblong, c. 1.5 mm long; gall fruits ellipsoid to oblong, 2–2.5 mm long, with a stipe up to 1 mm long; fruits distinctly bicolorous. Staminate flowers with pedicel 0.2–0.5 mm long, perianth with 3 unequal tepals, c. 1–1.5 mm long, free or basally connate, filament 0.1–0.3 mm long, anther c. 1 mm long with broad connective. Interfloral bracts up to 1.5 mm long. – Pl. 74, p. 241.
 
 ## Type
 
@@ -33,11 +31,9 @@ Laurent M. 1347, Zaïre, Eala (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+F. subcostata can usually be recognized by the ovate lamina with a (sub)cordate base.
 
-F. subcostata peut habituellement être reconnu par le limbe ové avec une base (sub) cordée.
-
-L'espèce est connue du Cameroun, du Gabon, et du Zaïre.
+The species is known from Cameroon, Gabon, and Zaire.
 
 ## Specimens examined
 

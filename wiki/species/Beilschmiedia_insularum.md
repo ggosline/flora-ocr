@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Robyns and Wilczek, Bull. jard. Bot. Ét. Brux. 19 : 479 (1949).
 
-— Robyns et Wilczek, Bull. jard. Bot. Ét. Brux. 19 : 479 (1949).
-
-Arbuste de 2-4 m à rameaux grisâtres, glabrescents à glabres. Pétiole de 8 à 22 mm, mince; limbe papyracé à subcoriace long de 7-22 cm, large de 3-10 cm. Panicules grêles atteignant 17 cm,
-
-finement pubérulentes. Fleurs blanches ou rougeâtres sur pédi-celles longs et fins.
+Shrub 2-4 m tall with greyish branchlets, glabrescent to glabrous. Petiole 8 to 22 mm, slender; blade papyraceous to subcoriaceous 7-22 cm long, 3-10 cm wide. Slender panicles reaching 17 cm, finely puberulent. Flowers white or reddish on long and slender pedicels.
 
 ## Type
 
@@ -30,9 +26,7 @@ Louis 8559 (BR) Congo ex-belge; arbuste sciaphile; sous-bois de forêt équatori
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-représenté au Muséum de Paris par le type : Mann 2255 (Old Calabar river, Nigeria) ne diffère de B. insularum que par les feuilles plus coriaces à pétioles et acumens plus courts.
+represented in the Paris Museum by the type: Mann 2255 (Old Calabar river, Nigeria) differs from B. insularum only by the more coriaceous leaves with shorter petioles and acumens.
 
 ## Specimens examined
 

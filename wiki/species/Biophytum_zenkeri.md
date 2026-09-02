@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Lecomte, Notul . Syst . (Paris) 1 : 26 (1909). Suffrutex de 6–30(–49) cm de hauteur ; tige généralement ramifiée , pubescente , munie au sommet de cicatrices foliaires. Feuilles 3–5 cm de longueur, disposées en plusieurs rosettes foliaires étagées ; pétiole et rachis pubescents à tomenteux ; folioles 7–10(–12) paires , subsessiles, à limbe papyracé, obové à faiblement falciforme, côté proximal obové-oblong, côté distal ové, 2–5 × 2–4 mm, glabre , marge ciliée , base tronquée, sommet faiblement rétus ; nervures latérales (7–)8–11 paires , peu proéminentes , formant un angle subaigu avec la médiane. Inflorescence : pédoncule (1–)4–6(–9) cm, pubescent ; bractées linéaires-lancéolées, 2–5 mm de longueur, pubérulentes, 1-nervées, sommet acuminé sur 1–5 mm. Fleur : pédicelle (1–)2–4(–5) mm, articulé à 1/3 de la base, pubescent ; sépales lancéolés, 4–5 mm de longueur, pubescents extérieurement, sommet longuement acuminé, (3–)5–7 nervées ; pétales 5–6 mm de longueur, connés à la base, jaune-orange, rétus au sommet ; filets en un cycle long de 4 mm, un cycle de 1,5 mm. Capsule obovoïde-oblongue, ± 4 mm de longueur. Graines 3–5, aplaties, 1 mm de longueur.
+in Lecomte, Notul. Syst. (Paris) 1: 26 (1909). Suffrutex 6–30(–49) cm tall; stem generally branched, pubescent, bearing leaf scars at the apex. Leaves 3–5 cm long, arranged in several tiered leaf rosettes; petiole and rachis pubescent to tomentose; leaflets 7–10(–12) pairs, subsessile, with papyraceous blade, obovate to weakly falciform, proximal side obovate-oblong, distal side ovate, 2–5 × 2–4 mm, glabrous, margin ciliate, base truncate, apex weakly retuse; lateral veins (7–)8–11 pairs, slightly prominent, forming a subacute angle with the midvein. Inflorescence: peduncle (1–)4–6(–9) cm, pubescent; bracts linear-lanceolate, 2–5 mm long, puberulent, 1-nerved, apex acuminate for 1–5 mm. Flower: pedicel (1–)2–4(–5) mm, articulate at 1/3 from the base, pubescent; sepals lanceolate, 4–5 mm long, pubescent on the outside, apex long-acuminate, (3–)5–7 nerved; petals 5–6 mm long, connate at the base, yellow-orange, retuse at the apex; filaments in one long whorl 4 mm, one whorl 1.5 mm. Capsule obovoid-oblong, ± 4 mm long. Seeds 3–5, flattened, 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigérie, Cameroun, Gabon, République Démocratique du Congo et Angola ; au Gabon, présente dans les provinces de l’Estuaire, Ngounié, Nyanga, MoyenOgooué et Ogooué-Ivindo
+Ghana, Nigeria, Cameroon, Gabon, Democratic Republic of the Congo and Angola; in Gabon, present in the provinces of Estuaire, Ngounié, Nyanga, Moyen-Ogooué and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ripicoles ombrophiles, sur rochers périodiquement inondés et plages sablonneuses. Usage : plante ornementale des jardins. B : Hutchinson & Dalziel (1954), Wilczek (1958). IBLIOGRAPHIE
+ripicole rainforests, on periodically inundated rocks and sandy beaches. Use: ornamental plant in gardens. Bibliography: Hutchinson & Dalziel (1954), Wilczek (1958). BIBLIOGRAPHY
 
 ## Notes
 

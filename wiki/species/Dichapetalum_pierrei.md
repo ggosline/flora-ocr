@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+BRETELER, MLW 73 (13): XIX (1973); l.c. 81 (10): 82-86 (1981); AUWP 86 (3): 3, 16 (1986). TYPE: Gabon, environs de Libreville, Klaine 1625 (lecto-, P).
 
-BRETELER, MLW 73 (13) : XIX (1973) ; l.c. 81 (10) : 82-86 (1981) ; AUWP 86 (3) : 3, 16 (1986). TYPE : Gabon, environs de Libreville, Klaine 1625 (lecto-, P).
+Liana, scandent shrub or shrub. Old branches glabrous with numerous small lenticels. Young branches with appressed pubescence at first, then rapidly glabrous.
 
-Liane, arbuste lianescent ou arbuste. Rameaux âgés glabres avec de nombreuses petites lenticelles. Jeunes rameaux à pubescence apprimée au début, puis rapidement glabres.
+Stipules generally early caducous, narrow and triangular, 1-3 mm long; sparse appressed pubescence.
 
-Stipules en général tôt caduques, étroites et triangulaires, longues de 1-3 mm ; pubescence apprimée éparse.
+Leaves. Petiole hemi- to subcylindric, often furrowed above, (3) 4-10 (13) mm long and much longer or not when fused to the peduncle of the inflorescence, glabrous or with a few appressed hairs at first. Lamina obovate-elliptic, 2-2.5 (3) times longer than broad, (6) 13-16 (20) × (2) 5-8 (10) cm, base rounded to cuneate; acumen present ≤ 1.5 cm, obtuse to rounded at the apex; when young, a few subappressed hairs present beneath midrib I and the main veins II, sometimes also on the upper face of midrib I and on the margin; subsequently the leaf becomes glabrous except at the level of the pubescent domatia present beneath the lamina, at the base of the most important veins II; these domatia often manifest on the upper face as small swellings; midrib I somewhat impressed, plane or slightly prominent above, always prominent below; the (4) 5-7 (8) main pairs of veins II slightly prominent above and clearly below; glands few, small, present especially on the lower half beneath the lamina, along and very close to midrib I; sometimes a few are distributed in the same manner on the upper face.
 
-Feuilles. Pétiole hémi- à subcylindrique, souvent sillonné dessus, long de (3) 4-10 (13) mm et bien davantage ou non quand il est souqué au pédoncule de l'inflorescence, glabre ou avec quelques poils apprimés
+Inflorescences subumbellate, not or scarcely branched, conspicuous, 15-flowered, tomentellose. Peduncle 1-4 (7) mm, fused to the petiole for ≤ 4 mm or sometimes free. Subtending leaf sometimes undeveloped, or scarcely, especially when the inflorescences are clustered on short axillary shoots. Bracts and bracteoles very small, triangular, < 1 mm long. Pedicel ≤ 3 mm, tomentellose, upper part very short or indistinct.
 
-au début. Limbe obové-elliptique, 2-2,5 (3) fois plus long que large, (6) 13-16 (20) × (2) 5-8 (10) cm, base arrondie à cunée ; acumen présent ≤ 1,5 cm, obtus à arrondi à l'extrémité ; à l'état jeune, présence de quelques poils subapprimés sous la nervure I et les principales nervures II, parfois aussi à la face supérieure de la nervure I ainsi que sur la marge ; ensuite la feuille devient glabre sauf au niveau des domaties pubescentes présentes sous le limbe, à l'aisse le des nervures II les plus importantes ; ces domaties souvent se manifestent à la face supérieure par de petits renflements ; nervure I un peu impriméc, plane ou un peu proéminente dessus, toujours proéminente dessous ; les (4) 5-7 (8) paires principales de nervures II légèrement proéminentes dessus et nettement dessous ; glandes peu nombreuses, petites, présentes surtout sur la moitié inférieure sous le limbe, le long et très près de la nervure I ; parfois quelques-unes sont réparties de la même nanière à la face supérieure.
+Flowers: petals, stamens and pistil subequal. Sepals erect, free, unequal, ovate-oblong, 3.5-5 × 1-2.5 mm, flattened or somewhat concave, tomentellose on the outer face and on the upper part of the inner face. Petals shortly fused by their base to the filaments, narrow and oblong (3.5) 4-5 mm, split for 0.5-0.7 mm, tomentose on the outer face and on the inner face of the keel; lobes concave rounded at the apex. Stamens 4.5-5 mm long; filaments puberulent especially on the lower part; anthers sagittate, 0.8-1 mm long, glabrous, connective prominent. Staminodes subquadrate, 0.5 × 0.5 mm, pubescent inside, glabrous outside, emarginate at the apex. Pistil 3-merous, 4-6 mm long, ovary and lower part of style woolly, upper part glabrous or nearly so and vaguely 3-lobed.
 
-Inflorescences subombellées, non ou à peine ramifiées, bien visibles, 15-flores, tomentelleuses. Pédoncule de 1-4 (7) mm, soudé au pétiole sur ≤ 4 mm ou parfois libre. Feuille axillante parfois non développée, ou à peine, surtout quand les inflorescences sont groupées sur de courtes pousses axillaires. Bractées et bractéoles très petites, triangulaires, longues de < 1 mm. Pédicelle ≤ 3 mm, tomentelleux, partie supérieure très courte ou indistincte.
+Fruits 1-2 (3?)–seeded, ellipsoid, terminated by a well-marked thick and obtuse beak, orange at maturity; aborted locules marked by a sharp rib; sparse or absent tomentellose pubescence; 1-seeded fruits ≤ 6 cm long (beak included), diameter 2 cm, beak 1.5 cm long; exocarp firm, 1-1.5 mm thick, inner layer brownish; mesocarp succulent, fibrous, 1-3 mm thick, adherent to the endocarp; the latter bony, rugose outside, glabrous and shining inside. Seed ovoid-ellipsoidal, ≤ 30 × 10 mm; hilum ≤ 15 mm long; testa brown, smooth, shiny.
 
-Fleurs : pétales, étamines et pistil subégaux. Sépales dressés, libres, inégaux, ovés-oblongs, 3,5-5 × 1-2,5 mm, aplatis ou un peu concaves, tomentelleux sur la face externe et à la partie supérieure de la face interne. Pétales courtement soudés par leur base aux filets, étroits et oblongs de (3,5) 4-5 mm, fendus sur 0,5-0,7 mm, tomentaux sur la face externe et sur la face interne de la carène ; lobes concaves arrondis au sommet. Étamines longues de 4,5-5 mm ; filets pubérulents surtout à la partie inférieure ; anthères sagittées, longues de 0,8-1 mm, glabres, connectif proéminent. Staminodes subcarrés, 0,5 × 0,5 mm, pubescents à l'intérieur, glabres à l'extérieur, émarginés au sommet. Pistil 3-mère, long de 4-6 mm, ovaire et partie inférieure du style laineux, partie supérieure glabre ou presque et vaguement 3-lobée.
-
-Fruits 1-2 (3?)–spermes, ellipsoïdaux, terminés par un bec bien marqué épais et obtus, oranges à maturité ; loges avortées marquées par une côte nette ; pubérulence tomentelleuse éparse ou non ; fruits 1-spermes longs de ≤ 6 cm (bec inclus), diamètre 2 cm, bec long de 1,5 cm ; exocarpe ferme, épais de 1-1,5 mm, couche interne brunâtre ; mésocarpe succulent, fibreux, épais de 1-3 mm, adhérent à l'endocarpe ; celui-ci osseux, rugueux à l'extérieur, glabre et brillant à l'intérieur. Graine ovoïde-ellipsoïdale, ≤ 30 × 10 mm ; hile long de ≤ 15 mm ; testa brun, lisse, brillant.
-
-Plantule à forte racine pivotante ; épicotyle ≤ 11 cm, pubérulent ; les 2 premières feuilles opposées. - Pl. 44, p. 153.
+Seedling with strong taproot; epicotyl ≤ 11 cm, puberulent; first 2 leaves opposite. - Pl. 44, p. 153.
 
 ## Type
 
@@ -43,15 +39,11 @@ Klaine 1625, environs de Libreville, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile
+rain forest
 
 ## Specimens examined
 

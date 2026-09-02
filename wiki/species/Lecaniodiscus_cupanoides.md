@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTH. & HOOK., Niger Fl. : 251 (1849); RADLK., in ENGL., Pflanzenreich, Sapindaceæ : 880 (1932).
 
-Arbre de 3-4 (-9) m, diamètre de 10-20 cm, parfois arbuste, à cime « en boule » (LETOUZEY). Feuilles à 4-5 paires de folioles.
+Tree of 3-4 (-9) m, diameter 10-20 cm, sometimes shrubby, with a "ball-shaped" crown (LETOUZEY). Leaves with 4-5 pairs of leaflets.
 
-Fleurs à étamines jaunes (au nombre moyen de 10) et disque jaune vif. Bien que typiquement indéhiscent et monosperme, le fruit se rompt parfois en 4 valves, libérant 1-4 graines (LETOUZEY); arille blanc recouvrant le tégument brun luisant sauf au sommet dorsal; fleurs jaunâtres très odorantes (LE TESTU). PL. 33, 1-6, p. 139.
+Flowers with yellow stamens (averaging 10 in number) and bright yellow disk. Although typically indehiscent and monospermic, the fruit sometimes ruptures into 4 valves, releasing 1-4 seeds (LETOUZEY); white aril covering the shining brown tegument except at the dorsal apex; flowers yellowish and very fragrant (LE TESTU). PL. 33, 1-6, p. 139.
 
 ## Type
 
@@ -30,9 +28,7 @@ Vogel s.n.; Don s.n.; Sierra Leone; Heudelot s.n., Guinée
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce reconnue du Sénégal au Kenya, par la Guinée, la Côte d'Ivoire, le Dahomey, le Togo, le Nigeria, la République Centrafricaine, le Congo, le Zaïre, l'Angola, la Guinée équatoriale.
+Species recognized from Senegal to Kenya, through Guinea, Côte d'Ivoire, Dahomey, Togo, Nigeria, Central African Republic, Congo, Zaire, Angola, Equatorial Guinea.
 
 ## Vernacular names
 

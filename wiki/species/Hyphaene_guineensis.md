@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ; stipe jusqu’à 20 m de hauteur, très rarement ramifié , jusqu’à 40 cm de diamètre, base des vieilles feuilles persistante . Feuille : gaine fortement tomenteuse ; pétiole jusqu’à 150 cm, concave dessus, arrondi dessous, parties jeunes recouvertes d’une pilosité brun pâle, bords armés d’épines à pointes triangulaires ; limbe jusqu’à 180 × 200 cm, à segments jusqu’à 110 cm de longueur, divisé sur les deux tiers de leur longueur. Inflorescence ramifiée 2 fois, la mâle à rachis jusqu’à 120 cm, avec 1 à 5 rameaux florifères jusqu’à 50 cm, la femelle à rachis jusqu’à 100 cm, avec 1 à 3 rameaux florifères jusqu’à 35 cm. Fleur mâle : sépales imbriqués, étroitement obovales, 2,5–3 × 1–1,5 mm, sommet arrondi ; corolle à tube de ± 2 mm de lon gueur, lobes 2–2,5 × 1,2–1,5 mm ; étamines à anthères jaunes. Fleur femelle connue seulement du bourgeon. Fruit obovoïde à pyriforme, 5–6,5 × 6–7 cm, à sommet aplati, orange brillant à rouge-brun à maturité, à 1 graine ; mésocarpe fibreux ; endocarpe dur et fibreux. Graine à forme irrégulière, jusqu’à 3 cm de diamètre.
+Tree; trunk up to 20 m tall, very rarely branched, up to 40 cm in diameter, base of old leaves persistent. Leaf: sheath strongly tomentose; petiole up to 150 cm, concave above, rounded below, young parts covered with pale brown pubescence, margins armed with spines bearing triangular points; blade up to 180 × 200 cm, with segments up to 110 cm in length, divided for two-thirds of their length. Inflorescence branched 2 times, the male with rachis up to 120 cm, with 1 to 5 flowering branches up to 50 cm, the female with rachis up to 100 cm, with 1 to 3 flowering branches up to 35 cm. Male flower: sepals imbricate, narrowly obovate, 2.5–3 × 1–1.5 mm, apex rounded; corolla with tube of ± 2 mm in length, lobes 2–2.5 × 1.2–1.5 mm; stamens with yellow anthers. Female flower known only from the bud. Fruit obovoid to pyriform, 5–6.5 × 6–7 cm, with flattened apex, bright orange to reddish-brown at maturity, with 1 seed; mesocarp fibrous; endocarp hard and fibrous. Seed with irregular shape, up to 3 cm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest (Guinée Bissau, Guinée, Ghana, Togo, Bénin), Gabon, République du Congo, République démocratique du Congo et Angola ; au Gabon, présent au sud de Port Gentil (Estuaire) et au sud de Iguéla (Ogooué-Maritime). Statut de conservation : Préoccupation mineure (LC)
+West Africa (Guinea-Bissau, Guinea, Ghana, Togo, Benin), Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, present south of Port Gentil (Estuary) and south of Iguéla (Ogooué-Maritime). Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sol sableux, sujet à la salinité ; entre 5 et 100 m d’altitude
+on sandy soil, subject to salinity; between 5 and 100 m in altitude
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ doum (Gamba, Sette Cama)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C’est la seule espèce de palmier à feuilles costapalmées présente au Gabon. À ne pas confondre avec le genre Borassus (par exemple B. aethiopum ) introduit et rarement planté. Bi : Stauffer et al. (2014, 2017), van Valkenburg & Dransfield (2004). B liographie
+It is the only palm species with costapalmate leaves present in Gabon. Not to be confused with the genus Borassus (for example B. aethiopum) introduced and rarely planted. Bibliography: Stauffer et al. (2014, 2017), van Valkenburg & Dransfield (2004). Bibliography
 
 ## Notes
 

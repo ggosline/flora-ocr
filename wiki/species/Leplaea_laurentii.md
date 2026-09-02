@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pl. Ecol. Evol. 145(2) : 223 (2012). Guarea laurentii De Wild., Ann. Mus. Congo Belge, Bot. sér. 5, 2 : 263 (1908). Arbre de 10–30 m de hauteur ; tronc jusqu’à 40 cm de diamètre ; écorce jaune brunâtre ; tranche exsudant un peu de latex blanchâtre. Feuille à pétiole et rachis pubérulents et semés de glandss minuscules brun orangé : pétiole 8–13(–39) cm, plan dessus, ca naliculé à la base ; rachis (10–)15–30(–57) cm ; pétiolules 4–8 mm, ceux des folioles terminales 14–25(–45) mm ; folioles (9–)13–15, étroitement elliptiques, souvent asymé triques, (6–)14–25(–35) × (3–)4,5–7(–10) cm, obtuses à cunéiformes à la base, à sommet aigu à acuminé, glabres dessus, ponctuées de glandes dessous ; nervure médiane et (10–)13–18(–23) paires de nervures latérales déprimées dessus, réseau de veinules effacé sur les deux faces. Inflorescence axillaire ou supra-axillaire, lâche, 6–11 cm de longueur, tomenteuse, glanduleuse. Fleur fonctionnellement mâle odorante ; pédicelle articulé, 2–3 mm ; calice 2 mm de longueur, légèrement 4–5-denté ou -lobé, pubérulent, glanduleux ; pétales (4–)5(–6), étroitement elliptiques à ovales, 5,5–7 × 2,5–3,5 mm, tomenteux à l’extérieur ; tube staminal 4,5–5,5 mm de longueur, faiblement urcéolé, à bord crénelé, glabre, à 8–11 anthères ; gynécée 4,5–6 mm de longueur. Fleur fonctionnellement femelle similaire mais légèrement plus robuste ; ovaire faiblement stipité, ovoïde, 2-2,5 × 1,5–2 mm, velu, 3–4-loculaire, à 2 ovules axillaires superposés par loge et dont le supérieur est toujours avorté ; style 2–3 mm. Fruit globuleux-déprimé, nettement 3–4-lobé, 1,5–2 × 2–3 cm. Graine réniforme, 1,5 × 1,2 cm.
+Pl. Ecol. Evol. 145(2) : 223 (2012). Guarea laurentii De Wild., Ann. Mus. Congo Belge, Bot. sér. 5, 2 : 263 (1908). Tree 10–30 m tall; trunk up to 40 cm in diameter; bark yellowish brown; cut surface exuding some whitish latex. Leaf with petiole and rachis pubescent and scattered with minute orange-brown glands: petiole 8–13(–39) cm, flat above, canaliculate at base; rachis (10–)15–30(–57) cm; petiolules 4–8 mm, those of terminal leaflets 14–25(–45) mm; leaflets (9–)13–15, narrowly elliptic, often asymmetrical, (6–)14–25(–35) × (3–)4.5–7(–10) cm, obtuse to cuneiform at base, with acute to acuminate apex, glabrous above, punctate with glands below; midrib and (10–)13–18(–23) pairs of lateral nerves depressed above, veinlet reticulation effaced on both surfaces. Inflorescence axillary or supra-axillary, lax, 6–11 cm long, tomentose, glandular. Functionally male flower fragrant; pedicel articulate, 2–3 mm; calyx 2 mm long, slightly 4–5-dentate or -lobed, pubescent, glandular; petals (4–)5(–6), narrowly elliptic to ovate, 5.5–7 × 2.5–3.5 mm, tomentose outside; staminal tube 4.5–5.5 mm long, weakly urceolate, with crenulate margin, glabrous, with 8–11 anthers; gynoecium 4.5–6 mm long. Functionally female flower similar but slightly more robust; ovary weakly stipitate, ovoid, 2–2.5 × 1.5–2 mm, hairy, 3–4-locular, with 2 superposed axillary ovules per locule, the upper one always aborted; style 2–3 mm. Fruit globose-depressed, distinctly 3–4-lobed, 1.5–2 × 2–3 cm. Seed reniform, 1.5 × 1.2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, République Centrafricaine, Guinée Équatoriale, Ga bon, République du Congo et République Démocratique du Congo ; au Gabon, rare et connue de la Nyanga et de l’Ogooué-Ivindo
+Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, rare and known from Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-vieille forêt sempervirente ; au Gabon, à 600–750 m d’altitude, ailleurs à 300– 900 m. Usage : Le bois, souvent en mélange avec celui de L. cedrata et de L. thompsonii , se vend indistinctement comme bois d’œuvre sous la dénomination « bossé ». B : Koenen & de Wilde (2012), Lemmens (2008), Staner & Gilbert (1958). ibliographie
+old evergreen forest; in Gabon, at 600–750 m altitude, elsewhere at 300–900 m. Uses: The wood, often mixed with that of L. cedrata and L. thompsonii, is sold indiscriminately as timber under the designation "bossé". B: Koenen & de Wilde (2012), Lemmens (2008), Staner & Gilbert (1958). Bibliography
 
 ## Notes
 

@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Carolofritschia diandra Engl., Bot. Jahrb. 26: 362 (1899).
 
-Herbe unifoliée. Feuille (cotylédon accrescent), variable en taille,  $ 12 \times 2.5 \, \text{cm} $ jusqu'à  $ 15 \times 17 \, \text{cm} $, autrement comme A. strigosum.
+One-leafed herb. Leaf (accrescent cotyledon), variable in size, 12 × 2.5 cm up to 15 × 17 cm, otherwise as in A. strigosum.
 
-Inflorescence avec pédoncule long de 1 à 2 cm. Pédicelles longs de 5 à 10 cm, avec en mélange des poils glanduleux et non glanduleux. Calice avec pubescence similaire, long de 3 mm. Corolle longue de 10 à 12 mm. Filets longs de 3 à 4 mm. Ovaire longe de 2 mm ; style longe de 5 mm ; stigmate peut-être relativement plus profondément lobé que dans A. strigosum.
+Inflorescence with peduncle 1 to 2 cm long. Pedicels 5 to 10 cm long, with a mixture of glandular and non-glandular hairs. Calyx with similar pubescence, 3 mm long. Corolla 10 to 12 mm long. Filaments 3 to 4 mm long. Ovary 2 mm long; style 5 mm long; stigma perhaps relatively more deeply lobed than in A. strigosum.
 
-ISOSYNTYPES: Staudt 118, Cameroun (BM); Zenker 1381, Cameroun, Bipindi (BM, E, P).
+ISOSYNTYPES: Staudt 118, Cameroon (BM); Zenker 1381, Cameroon, Bipindi (BM, E, P).
 
-A part les différentes mensurations données précédemment, A. diandrum est très semblable à A. strigosum et il n'y a pas de séparation écologique ni géographique, entre eux. Cependant, les fleurs de A. diandrum semblent être pleinement fertiles et hermaphrodites ; ainsi jusqu'à présent, malgré le peu d'arguments, elles doivent être accepter comme distinctes.
+Apart from the different measurements given above, A. diandrum is very similar to A. strigosum and there is no ecological or geographical separation between them. However, the flowers of A. diandrum appear to be fully fertile and hermaphroditic; thus so far, despite the limited evidence, they must be accepted as distinct.
 
-GESNERIACE
+GESNERIACEAE
 
-L'identification de cette espèce avec Carolofritschia diandra ENGL. réside seulement dans la taille de la corolle donnée dans la description originale d'ENGLER. Les types originaux furent détruits à Berlin et tous les isosyntypes trouvés jusqu'ici, sont sans corolle ; par conséquent aucun lectotype ne fut choisi.
+The identification of this species with Carolofritschia diandra ENGL. rests only on the size of the corolla given in ENGLER's original description. The original types were destroyed in Berlin and all isosyntypes found so far are without corolla; consequently no lectotype was chosen.
 
 ## Specimens examined
 

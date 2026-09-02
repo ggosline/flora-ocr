@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 50; Figure 10(E)
 
-Planche 50; Figure 10(E)
-
-Arbre atteignant 35 m de hauteur, à tronc orthotrope et branches plagiotropes; tronc atteignant 70 cm de diamètre; écorce blanchâtre, à fissures verticales sur les troncs de >15 cm de diamètre, entaille dure, généralement à odeur légère de l'huile de moutarde; ramilles légèrement en zigzag, ridées, larges de 1,5 mm, à poils clairsemés de 0,1–0,3 mm; bourgeons densément poilus, à poils de 0,1–0,2 mm. Stipules caduques précocement, triangulaires, de 1,2–2 × 2,5 mm, peu pubescentes à l'exception d'une bande glabre de 0,5 mm sur un des bords, poils de 0,3 mm. Feuille: pétiole de 6–9 mm, densément pubescent à poils de 0,1–0,3 mm; limbe oblong, parfois légèrement obovale, de 9–12,5 × 2,9–4,1(−5,2) cm, papyracé à membraneux, très légèrement oblique à la base, à acumen souvent abimé, effilé à abrupt, de 10–15 × 3–5 mm au sommet, à marge régulièrement crénuelée, à dents arrondies de 0,3–0,4(−0,6) × 2,5–5 mm, face supérieure brillante, glabre sauf pour la médiane, face inférieure mate, généralement glabre ou parfois à poils épars vers la base; nervure médiane à poils courts dessus en particulier à la base, brièvement poilue dessous, devenant glabres avec l'âge sur les deux faces, nervures secondaires 6 ou 7 (à 9), partant de la nervure médiane sous un angle de 80°, chaçune bouclant et connectée avec la suivante formant un Y à 7–8 mm de la marge, nervation tertiaire et quaternaire lâchement réticulée, surélevée sur les deux faces. Inflorescence mâle à l'aisselle des feuilles, avec 2 à 10 fleurs. Fleur mâle: pédicelle grêle, 3–4 mm, densément pubérulent; sépales 4, imbriqués, oblongs, de 2,3 × 1,2 mm, obtus au sommet, pubérulents sur les deux faces; étamines 4, disposées en un verticille autour du bord du disque, filet glabre, anthère longue de 0,75 mm, glabre; disque concave, cupuliforme, ±2 mm de diamètre, à bord denté, légèrement saillant entre les filets, pubescent à l'intérieur, glabre à l'extérieur. Inflorescence femelle comme la mâle, avec 5 ou 6 fleurs. Fleur femelle: pédicelle de 1–2 mm, pubérulent; sépales 4, oblongs, de 2,1 × 1 mm, pubérulents à l'extérieur; ovaire ellipsoidal, de 1,8–2 × 0,8 mm, 2-loculaire, poilu; style de 1,6 mm, à 2 branches, à stigmate légèrement bifide, de 0,5 × 0,2 mm. Fruit sur branches juste sous les feuilles, poilu.
+Tree reaching 35 m in height, with orthotropic trunk and plagiotropic branches; trunk reaching 70 cm in diameter; bark whitish, with vertical fissures on trunks of >15 cm diameter, hard incision, generally with slight mustard oil odor; branchlets slightly zigzag, wrinkled, 1.5 mm wide, with scattered hairs 0.1–0.3 mm; buds densely hairy, with hairs 0.1–0.2 mm. Stipules early caducous, triangular, 1.2–2 × 2.5 mm, sparsely pubescent except for a glabrous band 0.5 mm on one edge, hairs 0.3 mm. Leaf: petiole 6–9 mm, densely pubescent with hairs 0.1–0.3 mm; blade oblong, sometimes slightly obovate, 9–12.5 × 2.9–4.1(−5.2) cm, papyraceous to membranous, very slightly oblique at base, acumen often damaged, tapering to abrupt, 10–15 × 3–5 mm at apex, with regularly crenulate margin, with rounded teeth 0.3–0.4(−0.6) × 2.5–5 mm, upper surface glossy, glabrous except for midvein, lower surface matte, generally glabrous or sometimes with scattered hairs toward base; midvein with short hairs above particularly at base, briefly hairy below, becoming glabrous with age on both faces, secondary veins 6 or 7 (to 9), arising from midvein at an angle of 80°, each looping and connecting with the next forming a Y 7–8 mm from margin, tertiary and quaternary venation loosely reticulate, raised on both faces. Male inflorescence in leaf axils, with 2 to 10 flowers. Male flower: pedicel slender, 3–4 mm, densely puberulent; sepals 4, imbricate, oblong, 2.3 × 1.2 mm, obtuse at apex, puberulent on both faces; stamens 4, arranged in a whorl around the disc margin, filament glabrous, anther 0.75 mm long, glabrous; disc concave, cupuliform, ±2 mm in diameter, with dentate margin, slightly prominent between filaments, pubescent inside, glabrous outside. Female inflorescence as male, with 5 or 6 flowers. Female flower: pedicel 1–2 mm, puberulent; sepals 4, oblong, 2.1 × 1 mm, puberulent outside; ovary ellipsoid, 1.8–2 × 0.8 mm, 2-locular, hairy; style 1.6 mm, 2-branched, with slightly bifid stigma, 0.5 × 0.2 mm. Fruit on branches just below leaves, hairy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, mainland Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic and Angola; in Gabon: Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
-Nigéria, Cameroun, Guinée équatoriale continentale, Gabon, République du Congo, République démocratique du Congo, République Centrafricaine et Angola ; au Gabon : Ngounié, Nyanga, Ogooué-Ivindo et Ogooué-Lolo
-
-Habitat : forêts mixtes de terra firma, forêts ripicoles et parfois marécageuses ; au Gabon et ailleurs à 100-1100 m d'altitude.
+Habitat: mixed terra firma forests, riparian and sometimes swampy forests; in Gabon and elsewhere at 100–1100 m elevation.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Mature individuals of D. paxii are one of the easiest species to recognize, with the distinctive fissured bark and hard incision. In the herbarium, the oblong leaf blade with regular shallow teeth and the tertiary venation elongate more or less parallel to the secondary veins form a unique combination in Gabon. D. paxii appears to be rare in its localities.
 
-Les individus matures de D. paxii sont une des espèces les plus faciles à reconnaître, avec l’écorce fissurée distincte et entaille dure. Dans l’herbier, le limbe foliaire oblong à dents régulières peu profondes et la nervation tertiaire allongée plus ou moins parallèle aux secondaires forme une combinaison unique au Gabon. D. paxii semble être rare dans ses localités
-
-BIBLIOGRAPHIÉ : Keay (1958, 1989), Keay, Onochie & Stanfield (1960), Pax & Hoffmann (1922).
+BIBLIOGRAPHY: Keay (1958, 1989), Keay, Onochie & Stanfield (1960), Pax & Hoffmann (1922).
 
 ## Figures
 

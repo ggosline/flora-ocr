@@ -21,13 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant (?) reaching 1.20 m in height, glabrous except for the flower pedicels and calyces which bear some rare hairs, creeping, then ascending, producing adventitious roots at the lower nodes; stems obtusely quadrangular, somewhat swollen below the nodes. Petioles 3–6 cm, winged. Leaves violet-purple beneath. Leaf blade decurrent into the petioles, ovate-acuminate, very obtusely crenate, with a point that is long cuspidate-acuminate, (4) 6–10 × (2) 3.5–5 cm. Approximately 7 pairs of lateral veins.
 
-Plante vivace (?) atteignant 1,20 m de hauteur, glabre à l'exception des pédoncules des fleurs et des calices qui portent
-
-quelques rares poils, rampante, puis ascendante, produisant des racines adventices aux nœuds inférieurs; tiges obtusément qua-drangulaires, un peu renflées en dessous des nœuds. Pétioles de 3-6 cm, ailés. Feuilles violet pourpre en dessous. Limbe des feuilles décurrent dans les pétioles, ovale-acuminé, très obtusément crénelé, à pointe longuement cuspide-acuminée, de (4) 6-10 × (2) 3,5-5 cm. Environ 7 paires de nervures latérales.
-
-Inflorescences terminales lâches, divariquées avec relativement peu de fleurs; bractées elliptiques-lancéolées de  $ 5 \times 2 $ mm; bractéoles de  $ 3 \times 1 $ mm. Calice de  $ 9 $ mm, à segments linéaires, arrondis au sommet, ciliés, à poils multicellulaires et glanduleux. Corolle de  $ 3,5 $ cm, violet pourpre, à tube de  $ 1 $ cm; les lèvres de la corolle de  $ 2,5 $ cm; lèvre inférieure un peu poilue à la surface. Anthères fertiles de  $ 22 $ mm; staminodes densément couverts de poils courts glanduleux. Style poilu, de  $ 3 $ cm; ovaire et capsule glabres; environ  $ 20 $ graines dans chaque loge (fruit mûr inconnu).
+Terminal loose inflorescences, divaricate with relatively few flowers; bracts elliptic-lanceolate, 5 × 2 mm; bracteoles 3 × 1 mm. Calyx 9 mm, with linear segments, rounded at the apex, ciliate, with multicellular and glandular hairs. Corolla 3.5 cm, violet-purple, with a tube 1 cm long; corolla lips 2.5 cm; lower lip somewhat hairy on the surface. Fertile anthers 22 mm; staminodes densely covered with short glandular hairs. Style hairy, 3 cm; ovary and capsule glabrous; approximately 20 seeds in each locule (ripe fruit unknown).
 
 ## Type
 
@@ -35,17 +31,15 @@ Soyaux 454, Sibange-Farm, Gabon (B, holotype détruit de B. Soyauxii); Bates 350
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Gabon, Cameroon, Congo-Brazzaville.
 
-Gabon, Cameroun, Congo-Brazzaville.
+G. Le Testu: 6478, laterite near Lake Moudiboubacoudou (fl. fr. Apr. 1927), 9135, Ncolayop (14 May 1933), violet-purple flowers, lower surface of leaves the same colour.
 
-G. Le Testu : 6478, latérite près du lac Moudiboubacoudou (fl. fr. avr. 1927), 9135, Ncolayop (14 mai 1933), fleurs violet pourpre, face inférieure des feuilles de même couleur.
+J. N. Davies and G. Jeffrey: 186, km 48 S.W. of Médouneu, alt. 600 m (fl. 27 Jul. 1957), shady path in secondary forest, herb growing in masses, stem creeping then ascending, rooting at lower nodes, bluntly 4-angled, swollen above nodes, leaves purple beneath, flower purple, height 10 4.
 
-J. N. Davies et G. Jeffrey : 186, km 48 S. W. de Médouneu, alt. 600 m (fl. 27 juil. 1957), shady path in secondary forest, herb growing in masses, stem creeping then ascending, rooting at lower nodes, bluntly 4-angled, swollen above nodes, leaves purple beneath, flower purple, height 10 4.
+EXPLANATION OF PLATE XVII, fig. 1–3:
 
-EXPLICATION DE LA PLANCHE XVII, fig. 1-3:
-
-1, sommité florifère; 2, coupe de la corolle longue de 3,5 cm; 3, fruit jeune de 12 mm de long. — 1, 3, Letouzey 4572; 2, Davis et Jeffrey 186.
+1, floriferous apex; 2, section of the corolla 3.5 cm long; 3, young fruit 12 mm long. — 1, 3, Letouzey 4572; 2, Davis and Jeffrey 186.
 
 ## Notes
 

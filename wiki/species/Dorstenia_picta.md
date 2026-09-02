@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in DC., Prodr. 17 : 277 (1873) ; RENDLE in HUTCH. & RENDLE, FTA 6 (2) : 38 (1917) ; PELLEGRIN, Mém. Soc. Linn. Norm., n. ser., 1 (3) : 78 (1928) ; DE WILD., Pl. Bequaert. 6 : 69 (1932).
 
-- Dorstenia variegata ENGL., Mon. Afr. Pfl. 1, Moraceae: 16 (1898). TYPE: Zenker & Staudt 518, Cameroun, Yaoundé (holo-, B ; iso-, P).
+- Dorstenia variegata ENGL., Mon. Afr. Pfl. 1, Moraceae: 16 (1898). TYPE: Zenker & Staudt 518, Cameroon, Yaoundé (holo-, B ; iso-, P).
 
-Herbes avec des tiges pubérulentes rampantes à ascendantes, atteignant 1 m, en partie souterraines, s'enracinant surtout aux nœuds ; entre nœuds longs de 1,5-6 cm et épais de 2,5-5 mm ; parfois entre nœuds longs de 5 mm et épais de 5 mm au moins et dans ce cas feuilles en rosette. Feuilles dressées. Limbe largement à étroitement elliptique, ovale, obovale ou lancéolé, 4-19 × 4-10,5 cm, chartacé à subcoriace ; apex aigu à faiblement acuminé avec un acumen arrondi, tronqué ou émarginé ; base profondément cordée, avec des lobes se recouvrant plus ou moins, parfois asymétrique et cunéee ; marge légèrement à distinctement sinuée ou parfois avec 2-4 dents obtuses, grossières vers l'apex ; face supérieure vert sombre avec des taches pâles ± irrégulières, souvent en forme de U ; face inférieure vert pâle ; base de la nervure médiane proéminente dessus ; nervures proéminentes dessous, jaunâ-tres et pubérulentes ; (5-) 8-12 paires de nervures secondaires ; réseau de nervilles visible et ± régulier entre les nervures secondaires. Pétiole long de 6-16 (-24) mm et épais de 1-3 (-6) mm avec de petits poils uncinés blancs, assez denses, parfois mêlés à quelques poils courbés plus longs et plus gros. Stipules persistantes, apprimées, largement triangulaires, longues de 6-10 mm et larges de 5 mm env. à la base, avec des poils blancs uncinés, petits, épars, surtout sur la nervure médiane ; apex aigu et subaristé ; nervure médiane visible (prolongée dans l'acumen).
+Herbs with pubescent creeping to ascending stems, reaching 1 m, partly subterranean, rooting especially at the nodes; internodes 1.5–6 cm long and 2.5–5 mm thick; sometimes internodes 5 mm long and at least 5 mm thick and in this case leaves in rosette. Leaves erect. Blade broadly to narrowly elliptic, ovate, obovate or lanceolate, 4–19 × 4–10.5 cm, chartaceous to subcoriaceous; apex acute to weakly acuminate with a rounded, truncate or emarginate acumen; base deeply cordate, with lobes more or less overlapping, sometimes asymmetric and cuneate; margin slightly to distinctly sinuate or sometimes with 2–4 obtuse, coarse teeth toward the apex; upper surface dark green with ± irregular pale spots, often U-shaped; lower surface pale green; base of midvein prominent above; veins prominent below, yellowish and pubescent; (5–) 8–12 pairs of secondary veins; network of veinlets visible and ± regular between secondary veins. Petiole 6–16 (–24) mm long and 1–3 (–6) mm thick with small white uncinate hairs, fairly dense, sometimes mixed with a few longer and thicker curved hairs. Stipules persistent, appressed, broadly triangular, 6–10 mm long and ca. 5 mm wide at the base, with small, sparse white uncinate hairs, especially on the midvein; apex acute and subaristate; midvein visible (prolonged into the acumen).
 
-Inflorescences solitaires, pourpre foncé. Pédoncule initialement droit et à l'anthèse (toujours ?) défléchi, long de 4-7 cm et de 1,5-3 mm de diamètre, avec de petits poils uncinés blancs, denses. Réceptacle discoïde, de 0,75-1,5 (-2) cm de diamètre, à marge large d'env. 1,5 mm, avec jusqu'au 20 lobes infléchis, de  $ 1,2 \times 1,2 $ mm env. ; réceptacle assez densément pubérulent en dessous. Fleurs ở nombreuses, distinctes ; périanthe bilobé d'env. 1 mm de diamètre ; étamines 2, à filaments longs d'env. 0,3 mm, infléchis, et anthères longues d'env. 0,25 mm à
-
-connectif aussi large que les lobes. Fleurs ♀ environ 6 ; style long d'env. 0,5 mm ; stigmates 2, étalés, longs d'env. 0,75 mm et épais d'env. 0,25 mm. - Pl. 12, p. 45.
+Inflorescences solitary, dark purple. Peduncle initially erect and at anthesis (always?) deflexed, 4–7 cm long and 1.5–3 mm in diameter, with small white uncinate hairs, dense. Receptacle discoid, 0.75–1.5 (–2) cm in diameter, with a margin ca. 1.5 mm wide, with up to 20 inflexed lobes, ca. 1.2 × 1.2 mm; receptacle fairly densely pubescent below. Male flowers numerous, distinct; perianth bilobed ca. 1 mm in diameter; stamens 2, with filaments ca. 0.3 mm long, inflexed, and anthers ca. 0.25 mm long with connective as wide as the lobes. Female flowers ca. 6; style ca. 0.5 mm long; stigmas 2, spreading, ca. 0.75 mm long and ca. 0.25 mm thick. - Pl. 12, p. 45.
 
 ## Type
 
@@ -34,31 +30,29 @@ Mann 1626, Gabon (holo-, K ; iso-, P ; photo BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is known from SE Nigeria, Cameroon, Gabon and Congo where it is found in forests along rivers, in periodically flooded places and often climbing on rocks and between them, up to 400 m altitude.
 
-Cette espèce est connue du SE Nigeria, du Cameroun, du Gabon et du Congo où on la trouve dans les forêts le long des rivières, dans des endroits périodiquement inondés et grimpant souvent sur les rochers et entre eux, jusqu'à 400 m d'altitude.
+Breteler & De Wilde J.J.F.E. 189, Cristal Mountains, 15 km NE Asok (fl., August); 816, Cape Esterias, Santa Clara road, NW Libreville (fl., September); 2217, 16 km Lastoursville-Moanda road (fl., September).
 
-Breteler & De Wilde J.J.F.E. 189, mts de Cristal, 15 km NE Asok (fl., août); 816, cap Esterias, route de Santa Clara, NW Libreville (fl., sept.); 2217, 16 km route Lastoursville-Moanda (fl., sept.).
+Courtet s.n., environs of Libreville.
 
-Courtet s.n., env. de Libreville.
+De Wilde J.J.F.E. s.n., Makokou (fl., September).
 
-De Wilde J.J.F.E. s.n., Makokou (fl., sept.).
+Farron 7396, Omboué-Setté Cama-Koumouloundou region, Mittner logging concession (fl., June); 7575, Makokou, Mpassa plateau (fl., June).
 
-Farron 7396, région Omboué-Setté Cama-Koumouloundou, chantier forestier Mittner (fl., juin) ; 7575, Makokou, plateau de Mpassa (fl., juin).
+Hallé N. 1439, 7 km NE Makokou (fl., March); 2224, 2262, 2309, Abanga, C.E.T.A. concession (fl., June); 2618, 6 km NE Makokou, Large Ferns station (fl., October).
 
-Hallé N. 1439, 7 km NE Makokou (fl., mars); 2224, 2262, 2309, Abanga, chantier C.E.T.A. (fl., juin); 2618, 6 km NE Makokou, station des grandes Fougères (fl., oct.).
+Hallé N. & Cours G. 5894, Mimongo district, Etéké, Etéké river (fl., May).
 
-Hallé N. & Cours G. 5894, distr. Mimongo, Etéké, riv. Etéké (fl., mai).
+Hallé N. & Villiers J.-F. 4311, banks of Komo, near Mbel (fl., January); 5014, Bangwè rock (fl., February); 5084, 5132, Cristal Mountains, Mont Méla (fl., February).
 
-Hallé N. & Villiers J.-F. 4311, bords du Komo, près Mbel (fl., janv.); 5014, rocher Bangwè (fl., fév.); 5084, 5132, mts de Cristal, mont Méla (fl., fév.).
+Hijman & Weerdenburg 349, 404, 10 km SW Makokou, Mpassa plateau (fl., December, January); 416, 15 km N Booué; 423, 425, 35 km N Booué; 433, 10 km W Booué.
 
-Hijman & Weerdenburg 349, 404, 10 km SW Makokou, plateau de Mpassa (fl., déc., janv.); 416, 15 km N Booué; 423, 425, 35 km N Booué; 433, 10 km W Booué.
+Le Testu 2215, 2216, Kalengové region, Ngounyé (fl., July); 2217, Ngounyé region, Lissélémengo (fl., July); 6032, upper Ngounyé, Kerguémongo valley, between Ekengou and Mouboungou (fl., August).
 
-Le Testu 2215, 2216, région de la Kalengové, Ngounyé (fl., juill.); 2217, région de la Ngounyé, Lissélémengo (fl., juill.); 6032, haute Ngounyé, vallée de la Kerguémongo, entre Ekengou et Mouboungou (fl., août).
+Mann 1626, Cristal Mountains.
 
-Mann 1626, mts de Cristal.
-
-Trilles 13 bis, mts de Cristal.
+Trilles 13 bis, Cristal Mountains.
 
 ## Figures
 

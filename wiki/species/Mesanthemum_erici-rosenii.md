@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1911–1912 1(2) : 218 (1916). Herbe cespiteuse, robuste, portée par un rhizome court ou allongé. Feuilles groupées au sommet du rhizome, linéaires, 12–50 cm × (5–)10–15 mm, atténuées, éparsement pileuses à hirsutes, les anciennes souvent glabrescentes, marges fermes. Inflorescence : scapes 1–7, hauts de 30–60 cm, durs ; gaîne plus courte que les feuilles, généralement pileuse, à limbe tomentelleux sur la face interne ; capitule à sommet plan et à involucre en forme de bol , large de 10–15 mm, blanc crème ; bractées involucrales jaune paille à sommet verdâtre et distinctement nervuré, coriaces à marges pâles plus minces, pilosité inégalement apprimée-soyeuse , les externes largement ovales, longues de 3–3,6 mm, arrondies au sommet, les internes oblongues, débordant légèrement le disque du capitule, obtuses ou subaiguës, face interne à pilosité apprimée-villeuse blanche ; réceptacle à poils gris pâle à foncé. Fleur longue de 2,2–2,8 mm. Fleur mâle : sépales libres ou soudés à la base, largement oblongs, pâles, glabres dorsalement, sommet tronqué et à cils blancs. Fleur femelle : sépales ovato-oblongs, moitié plus courts ou égalant ± le tube des pétales, tronqués-denticulés au sommet, pâles, glabres ou sommet à cils blancs en une touffe cen trale ; pétales à tube glabre ou face externe à 3 touffes inframédianes de poils longs , face interne à poils longs villeux gris inframédians , lobes à poils courts blancs denses.
+1911–1912 1(2) : 218 (1916). Caespitose herb, robust, borne by a short or elongate rhizome. Leaves grouped at the apex of the rhizome, linear, 12–50 cm × (5–)10–15 mm, attenuate, sparsely pilose to hirsute, the old ones often glabrescent, margins firm. Inflorescence: scapes 1–7, 30–60 cm high, rigid; sheath shorter than the leaves, generally pilose, with tomentellous limb on the inner surface; capitulum with plane apex and bowl-shaped involucre, 10–15 mm wide, cream white; involucral bracts straw-yellow to greenish apex and distinctly nerved, coriaceous with paler, thinner margins, pilosity unequally appressed-silky, the outer ones broadly ovate, 3–3.6 mm long, rounded at apex, the inner ones oblong, slightly overtopping the capitulum disk, obtuse or subacute, inner surface with white appressed-villous pilosity; receptacle with pale to dark grey hairs. Flower 2.2–2.8 mm long. Male flower: sepals free or connate at base, broadly oblong, pale, glabrous on dorsal surface, apex truncate and with white cilia. Female flower: sepals ovate-oblong, half as long or ± equalling the petal tube, truncate-denticulate at apex, pale, glabrous or apex with white cilia in a central tuft; petals with glabrous tube or outer surface with 3 inframedian tufts of long hairs, inner surface with long villous grey inframedian hairs, lobes with dense short white hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-à travers l’Afrique de l’Ouest, au sud jusqu’en Angola, le nord de la Zambie et le Mozambique, vers l’est jusqu’à l’ouest de l’Ouganda et de la Tanzanie ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, du Moyen-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+across West Africa, south to Angola, northern Zambia and Mozambique, east to western Uganda and Tanzania; in Gabon, known from Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-formations herbeuses saisonnièrement humides et stations marécageuses sur sols sableux ; au Gabon, du niveau de la mer jusqu’à 540 m d’altitude, ailleurs jusqu’à 1200 m.. Note taxonomique : Il s’agit de l’espèce de Mesanthemum avec la répartition la plus large du genre, principalement en Afrique de l’Ouest et centrale, connue comme semi-aquatique formant des gazons lâches en station humide. B : Cabezas et al. (2014), Hess (1955), Kimpouni, Lejoly & Lisowski (1992), ibliographie Meikle (1968), Phillips (1997a, 2010, 2011)
+seasonally humid grassland formations and marshy stations on sandy soils; in Gabon, from sea level to 540 m altitude, elsewhere to 1200 m. Taxonomic note: This is the Mesanthemum species with the widest distribution of the genus, mainly in West and Central Africa, known as semi-aquatic forming loose turfs in humid stations. Bibliography: Cabezas et al. (2014), Hess (1955), Kimpouni, Lejoly & Lisowski (1992), Meikle (1968), Phillips (1997a, 2010, 2011)
 
 ## Notes
 

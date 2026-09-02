@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 20 cm de hauteur. Feuille non peltée ; pétiole de 0,5–4 cm, éparsement hirsute ; limbe ± étalé sur le frais, non bullé, symétrique, linéaire, 6,5–19 × 0,3–1,5 cm , sommet graduellement atténué, marge denticulée à dentée, face supérieure sans poils longs. Inflorescence : pédoncule 1–4 cm, avec 1–3 fleurs ♂ et (0–)1 fleur ♀ à tépales jaunes ; bractées 1–3 mm de longueur. Fleur ♂ : tépales 6,5–13,5 × 5,5–13,5 mm ; androcée à 6–16 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 5 mm ; tépales 6–11 × 6,5–12 mm ; ovaire fusiforme , 4–7,5 × 1–2,5 mm, non ou éparsement hirsute, non ailée ; styles 3. Fruit fusiforme à ellipsoïde , 4–11 × 1,5–4 mm ; rostre jusqu’à 5,5 mm.
+Plant reaching 20 cm in height. Leaf non-peltate; petiole 0.5–4 cm, sparsely hirsute; lamina ± spreading when fresh, non-bullate, symmetric, linear, 6.5–19 × 0.3–1.5 cm, apex gradually attenuate, margin denticulate to dentate, upper surface without long hairs. Inflorescence: peduncle 1–4 cm, with 1–3 ♂ flowers and (0–)1 ♀ flower with yellow tepals; bracts 1–3 mm long. ♂ Flower: tepals 6.5–13.5 × 5.5–13.5 mm; androecium with 6–16 stamens. ♀ Flower: pedicel elongating in fruit to 5 mm; tepals 6–11 × 6.5–12 mm; ovary fusiform, 4–7.5 × 1–2.5 mm, non or sparsely hirsute, non-winged; styles 3. Fruit fusiform to ellipsoid, 4–11 × 1.5–4 mm; beak to 5.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon (Monts de Cristal et Massif du Chaillu) ; espèce rare
+endemic to Gabon (Monts de Cristal and Massif du Chaillu); rare species
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur parois rocheuses humides et moussues et sur blocs rocheux, le long des cours d’eau dans la forêt primaire ; 320–1000 m d’altitude. B : Hallé (1972), Sosef (1994). IBLIOGRAPHIE
+on damp and mossy rocky walls and on rocky blocks, along streams in primary forest; 320–1000 m elevation. B: Hallé (1972), Sosef (1994). BIBLIOGRAPHY
 
 ## Notes
 

@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ref. orig. — A. Chev. Vég. Ut. Afr.: 136 (1911). — F.W.T.A. 2nd ed. I: 330 (1958).
 
-réf. orig. — A. Cnev. Vég. Ut. Afr.: 136 (1911). — F.W.T.A. 2° ed. I: 330 (1958).
+This species is very close to the two preceding ones and certain non-characteristic herbarium specimens can only be referred to it with doubt.
 
-Cette espèce est très voisine des deux précédentes et certains spécimens d’herbier non caractéristiques ne peuvent s’y rapporter qu’avec doute.
+The leaves, pubescent in very early age, are similar to those of C. acuminata. The essential distinctive characters are as follows: leaves whorled or subwhorled by 3 or 4. Ramifications of the inflorescence more or less whorled; inflorescence sparsely pubescent as well as the flowers, on the inside as well as the outside of the calyx.
 
-Les feuilles pubescentes dans le très jeune âge, sont semblables à celles de C. acuminata. Les caractères distinctifs essentiels sont les suivants : feuilles verticillées ou subverticillées par 3 ou 4. Ramifications de l'inflorescence plus ou moins verticillées; inflorescence désentément pubescente ainsi que les fleurs, à l'intérieur comme à l'extérieur du calice.
+The seeds, 6-8 per carpel, ordinarily have 3-4 cotyledons surrounded by a thick tegument.
 
-Les graines, 6-8 par carpelle, ont ordinairement 3-4 cotylédons entourés d'un tégument épais.
-
-Type de l'espèce : Herb. de Schumacher, Copenhagen.
+Type of the species: Herb. de Schumacher, Copenhagen.
 
 ## Vernacular names
 
@@ -39,9 +37,7 @@ Ombéné?
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. La graine contient de la caféine, elle est parfois consommée mais non commercialisée. L'arbre est généralement éliminé des plantations.
+Uses. The seed contains caffeine, it is sometimes consumed but not commercialized. The tree is generally eliminated from plantations.
 
 ## Specimens examined
 

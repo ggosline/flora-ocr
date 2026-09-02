@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (pl. VIII et III).
 
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 19 : 485 (1949).
 
-Arbre de 5 m de haut, à écorce grisâtre, à feuilles discolores, dessus du limbe brun-olive, dessous plus foncé; fleurs verdâtres. Le 3° cycle d'étamines est stérile, le fruit inconnu. Note des auteurs : espèce affine de B. cinnamomea mais à feuilles coriaces fauve-olivâtre, à panicules plus robustes (5 cm contre 2,5 cm) à filets charnus et pubescents (les filets de B. cinnamomea étant sub-glabres à l'intérieur).
+Tree 5 m tall, with greyish bark, with discolorous leaves, upper surface of limb brown-olive, lower surface darker; flowers greenish. The 3rd cycle of stamens is sterile, the fruit unknown. Authors' note: species allied to B. cinnamomea but with coriaceous tawny-olive leaves, with more robust panicles (5 cm versus 2.5 cm) with fleshy and pubescent filaments (the filaments of B. cinnamomea being sub-glabrous on the inside).
 
 ## Type
 
@@ -30,13 +28,11 @@ Louis 1765 (BR) vallée de l'Étehwa, Yangambi, Congo ex-belge. Petit arbre scia
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Among the plants collected by Le Testu, a specimen with
 
-Parmi les plantes récoltées par Le Testu, un échantillon à
+PL. IX. — 1 to 3, Beilschmiedia Staudtii (Stapf) Rob. et Wilcz.; 1, flowering branch, leaf 25 cm; 1', bract 3 mm; 2, floral bud; 2', section 2.5 mm in diam (Le Testu 5549); 3, section of the flower; 3', pistil (after Jahrb. 26 : 387). — 4 to 5, Beilschmiedia cinnamomea (Stapf) Rob. et Wilcz.: 4, flowering branch, leaf 11 cm; 4', inflorescence 4.5 cm; 4", bract 2 mm (Le Testu 2095, type of Tyl. Le-Testui Pellegrin); 5, flower 2 mm in diam.; 5', section (Zenker 2855, type).
 
-PL. IX. — 1 à 3, Beilschmiedia Staudtii (Stapf) Rob. et Wilcz.; 1, rameau florifère feuille de 25 cm; 1', bractée de 3 mm; 2, bouton floral; 2', coupe de 2,5 mm de diam (Le Testu 5549); 3, coupe de la fleur; 3', pistil (d'après Jahrb. 26 : 387). — 4 à 5, Beilschmiedia cinnamomea (Stapf) Rob. et Wilcz.: 4, rameau florifère, feuille de 11 cm; 4', inflorescence de 4,5 cm; 4", bractée de 2 mm (Le Testu 2095, type de Tyl. Le-Testui Pellegrin); 5, fleur de 2 mm de diam.; 5', coupe (Zenker 2855, type).
-
-fleurs violacées nous semble devoir être classé dans cette espèce qu'il rappelle beaucoup par l'aspect extérieur des rameaux feuillés et par les caractères énumérés dans les clés. Cet échantillon a été rapproché du type malgré les différences suivantes :  $ 3^{e} $ cycle fertile, parfois même le  $ 4^{e} $ l'est aussi; le limbe n'est pas tout à fait olivâtre; le pédoncule de l'inflorescence est glabrescent (pubérulent-apprimé dans le type); la couleur des fleurs. La découverte de nouveaux matériaux permettra de confirmer ou d'invalider ce rapprochement.
+violaceous flowers appears to us to warrant classification in this species, which it recalls greatly by the external appearance of the leafy branches and by the characters enumerated in the keys. This specimen was brought close to the type despite the following differences: $ 3^{e} $ cycle fertile, sometimes even the $ 4^{e} $ is so; the limb is not quite olivaceous; the peduncle of the inflorescence is glabrescent (puberulent-appressed in the type); the colour of the flowers. The discovery of new material will permit confirmation or invalidation of this relationship.
 
 ## Specimens examined
 

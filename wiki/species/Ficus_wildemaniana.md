@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , descr. gall.; WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 7 (1904), descr. lat.; MILDBR. & BURRET, Bot. Jahrb. 46: 239 (1911); HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 178 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 158, tab. 17 (1948).
 
-Arbustes épiphytes ou arbres. Rameaux feuillés épais de 1-2 cm, glabres ou hérissés bruns, bruns à noirâtres sur le sec, pleins. Feuilles disposées en spirales. Limbe lancéolé à oblong souvent ± panduri-forme, long de (15-) 25-60 cm, large de 6-25 cm, le plus large dans ou au-dessus du milieu ; (épais) coriace, sommet acuminé à subaigu, base aiguë, si limbe ± panduriforme et sa partie inférieure atténuée, en ce cas base arrondie à cordée (avec des lobes habituellement plus courts que 1 cm) ; les deux faces glabres ; nervures saillantes à planes et la nervure médiane faiblement concave dessus, nervure médiane saillante à plane, les autres nervures ± saillantes dessous ; 8-14 paires de nervures latérales, inclus 1 (-2) paires basales ; tache glandulaire habituellement visible. Pétiole long de 1,5-8 cm, épais de 4-10 mm, glabre. Stipules libres, longues de 3-10 mm, glabres, caduques.
+Shrubs epiphytic or trees. Leafy branches thick 1–2 cm, glabrous or bristly-brown, brown to blackish when dry, solid. Leaves arranged in spirals. Blade lanceolate to oblong, often ± panduriform, long (15–) 25–60 cm, wide 6–25 cm, broadest at or above the middle; (thick) coriaceous, apex acuminate to subacute, base acute, if blade ± panduriform and its lower part attenuate, in which case base rounded to cordate (with lobes usually shorter than 1 cm); both faces glabrous; veins salient to plane and midvein weakly concave above, midvein salient to plane, the other veins ± salient below; 8–14 pairs of lateral veins, including 1 (–2) basal pairs; glandular spot usually visible. Petiole long 1.5–8 cm, thick 4–10 mm, glabrous. Stipules free, long 3–10 mm, glabrous, caducous.
 
-Figues solitaires ou par paires dans les aisselles foliaires, sessiles ; bractées basales 2, semi-circulaires à largement ovées, longues de 4-10 mm, courtement hérissées jaunes ; réceptacle souvent globuleux ± déprimé, d'un diamètre de 2,5-4 cm et ridé sur le sec, hirtelleux jaune à courtement hérissé, vert avec des taches jaunes à maturité, paroi épaisse de 1-1,5 mm sur le sec, ostiole plat à faiblement saillant, bilabié.
+Figs solitary or in pairs in leaf axils, sessile; basal bracts 2, semicircular to broadly ovate, long 4–10 mm, shortly bristly-yellow; receptacle often globose ± depressed, diameter 2.5–4 cm and ridged when dry, hirtellous yellow to shortly bristly, green with yellow spots at maturity, wall thick 1–1.5 mm when dry, ostiole flat to weakly salient, bilabiate.
 
-Fleurs pistillées avec 3 tépales longs de 2-3 mm, libres ; fleurs à graines sessiles à subsessiles, style long de 2,5-4,5 mm ; fleurs à galles à pédicelle de (0,5-) 1-4 mm, style long de 2-2,5 mm. Fruits oblongoïdes, longs de 2-2,5 mm, la couche externe de la partie supérieure mucilagineuse ; fruits à galles longs de 3-5 mm, oblongoïdes, stipités jusqu'à 2 mm. Fleurs staminées peu nombreuses, pédicellées jusqu'à 0,5 mm environ, périanthe avec 3 tépales inégaux, longs de 2 mm environ, libres, un d'eux ± cucullé, filet long de 0,2-0,5 mm, anthère longue de 1,5-1,7 mm environ. - Pl. 76, p. 245.
+Pistillate flowers with 3 tepals long 2–3 mm, free; seed flowers sessile to subsessile, style long 2.5–4.5 mm; gall flowers with pedicel (0.5–) 1–4 mm, style long 2–2.5 mm. Fruits oblongoid, long 2–2.5 mm, the external layer of the upper part mucilaginous; gall fruits long 3–5 mm, oblongoid, stipitate up to 2 mm. Staminate flowers few, pedicellate up to about 0.5 mm, perianth with 3 unequal tepals, long about 2 mm, free, one of them ± cucullate, filament long 0.2–0.5 mm, anther long about 1.5–1.7 mm. – Pl. 76, p. 245.
 
 ## Type
 
@@ -33,11 +31,9 @@ Dewèvre 562, Zaïre, Équateur (holo-, BR ; iso-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is distinct in its caducous and short stipules (character shared with F. oresbia). The leaves may be almost similar to those of F. subsagittifolia, but the base of the blade is cordate; it is less so deeply in F. subsagittifolia.
 
-Cette espèce est distincte par ses stipules caduques et courtes (caractère en commun avec F. oresbia). Les feuilles peuvent être presque semblables à celles de F. subsagittifolia, mais la base du limbe est cordée ; elle l'est moins profondément chez F. subsagittifolia.
-
-L'espèce s'étend du Cameroun, au Gabon et au Zaïre.
+The species extends from Cameroon, Gabon and Zaïre.
 
 ## Specimens examined
 

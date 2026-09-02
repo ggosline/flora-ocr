@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook., Icon . Pl . 8 : t. 797 (1848). A . strobilacea Müll.Arg., Flora 47 : 515 (1864). Arbre , parfois arbuste, jusqu’à 35 m de hauteur ; tronc jusqu’à 50 cm de diamètre , parfois à racines-échasses très ramifiées à la base. Stipules oblongues à largement triangu laires, 4–10 mm de longueur. Feuille : pétiole ± cylindrique, canaliculé dessus, (0,5–)1– 1,5 cm ; limbe ± elliptique, (8–)13–20(–27) × 3,5–9 cm, cunéé à arrondi à la base, sommet acuminé sur 0,5–2 cm, coriace ; nervures latérales (8–)10–13(–15) paires, alternant avec des nervures intermédiaires plus courtes et distinctes . Inflorescence pauciflore, entourée à sa base par des stipules soudées ; bractées 5–8 × 5–6 mm. Fleur mâle : sépales oblongs, ± 5 mm de longueur, subcucullés au sommet ; pétales ± 0,6 mm de longueur ; étamines à anthères de 2–3 mm de longueur. Fleur femelle : sépales comme chez les fleurs mâles ; pétales suborbiculaires, 3 mm de diamètre ; pistil globuleux, à stigmate ± sessile. Fruit sur un pédicelle atteignant 1,5 cm, légèrement trilobé, 3–5 cm de diamètre, ligneux, brun à maturité, à 3–6 graines, 1 ou 2 par loge. Graines ellipsoïdes, ± triangulaires en coupe transversale, 20–30 × 12–16 × 11–15 mm, brunes, luisantes.
+in Hook., Icon. Pl. 8: t. 797 (1848). A. strobilacea Müll.Arg., Flora 47: 515 (1864). Tree, sometimes shrub, up to 35 m tall; trunk up to 50 cm in diameter, sometimes with highly ramified stilt roots at the base. Stipules oblong to broadly triangular, 4–10 mm long. Leaf: petiole ± cylindric, channelled above, (0.5–)1–1.5 cm; lamina ± elliptic, (8–)13–20(–27) × 3.5–9 cm, cuneate to rounded at the base, apex acuminate over 0.5–2 cm, coriaceous; lateral nerves (8–)10–13(–15) pairs, alternating with shorter and distinct intermediate nerves. Inflorescence few-flowered, surrounded at its base by connate stipules; bracts 5–8 × 5–6 mm. Male flower: sepals oblong, ± 5 mm long, subcocullate at the apex; petals ± 0.6 mm long; stamens with anthers 2–3 mm long. Female flower: sepals as in male flowers; petals suborbicular, 3 mm in diameter; pistil globose, with ± sessile stigma. Fruit on a pedicel reaching 1.5 cm, slightly trilobed, 3–5 cm in diameter, woody, brown at maturity, with 3–6 seeds, 1 or 2 per locule. Seeds ellipsoid, ± triangular in cross-section, 20–30 × 12–16 × 11–15 mm, brown, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée au Cameroun, le Gabon, la République Démocratique du Congo et Angola (Cabinda) ; au Gabon, rencontrée dans les provinces de l’Estuaire, du Moyen-Ogooué, de la Nyanga et surtout dans l’Ogooué-Maritime
+from Guinea to Cameroon, Gabon, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, encountered in the provinces of Estuaire, Moyen-Ogooué, Nyanga and especially in Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+swamp forest or periodically flooded forest, river and lake margins; in Gabon, at 0–500 m altitude
 
-forêt marécageuse ou périodiquement inondée, bords des rivières et lacs ; au Gabon, à 0–500 m d’altitude
+Breteler & Jongkind 10327; D, E: Mcpherson 15094). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
-Breteler & Jongkind 10327 ; D, E : Mcpherson 15094 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
-
-Note taxonomique : J’ai suivi Hawthorne & Jongkind (2006) qui traitent A. strobilacea comme un synonyme de A . bracteosa . B : Aubréville (1959), Hawthorne & Jongkind (2006), Keay (1958), Pax & ibliographie Hoffmann (1922).
+Taxonomic note: I followed Hawthorne & Jongkind (2006) who treat A. strobilacea as a synonym of A. bracteosa. B: Aubréville (1959), Hawthorne & Jongkind (2006), Keay (1958), Pax & Bibliography Hoffmann (1922).
 
 ## Notes
 

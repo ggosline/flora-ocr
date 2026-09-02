@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 25.1 Euclasta condylotrica (Steud.) Stapf Fl. Gab.: 152, Pl. 25 ; FACB 1 : 107 ; FWTA : 471 ; FTEA : 722 ; Gram. Cam. : 415, Pl. 92 ; Poac. CI. : 496, 497 ; Gram. CB. : 280.
 
 ## Specimens examined

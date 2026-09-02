@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (1981); CRIBB, FTEA, Orchid. 3 : 520 (1989); FAC 2 : 587 (1992); FCAM 3 : 806
 
-(2001). – BASIONYME : Angraecum caespitosum Rolfe, FTA 7 : 150 (1897). – TYPE : Bates 353, Cameroun, holo-K!, iso-BM!.
+(2001). – BASIONYM : Angraecum caespitosum Rolfe, FTA 7 : 150 (1897). – TYPE : Bates 353, Cameroon, holo-K!, iso-BM!.
 
 – Angraecum crinale De Wild., Not. Pl. Util. Congo 1: 320 (1904).
 
@@ -38,41 +36,37 @@ Gussonea micropetala (Schltr.) Schltr., Beih. Bot. Centralbl. 36 : 91 (1918).
 
 - Gussonea bieleri (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 91 (1918).
 
-– Microcoelia micropetala (Schltr.) Summerh., Bot. Mus. Le afl. Harvard Univ. 11 : 155 (1943).
+– Microcoelia micropetala (Schltr.) Summerh., Bot. Mus. Lefl. Harvard Univ. 11 : 155 (1943).
 
-– Microcoelia bieleri (De Wild.) Summerh., Bot. Mus. Le afl. Harvard Univ. 11 : 151 (1943).
+– Microcoelia bieleri (De Wild.) Summerh., Bot. Mus. Lefl. Harvard Univ. 11 : 151 (1943).
 
-Tige (0,2-) 1-3,1 (-4,5) cm. Feuilles écailleuses < 0,5 (-0,7) cm, acuminées. Racines < 90 cm, cylindriques, lisses. Inflorescence < 3 (-6,5) cm, < 22-flore. Fleurs horizontales, blanchâtres, ou devenant blanc verdâtre en se fanant, sépales avec une ligne centrale verdâtre foncé, labelle avec une tache triangulaire centrale vert foncé, sommet de l'éperon teinté ou non de vert clair. Sépale dorsal oblong, cucullé. Pétales obovés. Sépales latéraux obliquement ovés. Labelle (1,7-) 2,5-3,6 (-3,9)
+Stem (0.2-) 1-3.1 (-4.5) cm. Scale leaves < 0.5 (-0.7) cm, acuminate. Roots < 90 cm, cylindrical, smooth. Inflorescence < 3 (-6.5) cm, < 22-flowered. Flowers horizontal, whitish, or becoming white-greenish in fading, sepals with a dark green central line, labellum with a dark green triangular central patch, spur tip tinged or not with pale green. Dorsal sepal oblong, cucullate. Petals obovate. Lateral sepals obliquely ovate. Labellum (1.7-) 2.5-3.6 (-3.9)
 
-x (1-) 1,1-1,9 (-2,1) mm, triangulaire, plat ou cupuliforme, droit ou défléchi. Éperon (6,5-) 7,4-11,3 (14,2) mm de longueur, pendant verticalement, à partie basale nettement comprimée, partie centrale renflée. -Pl. 168, p. 370.
+x (1-) 1.1-1.9 (-2.1) mm, triangular, flat or cup-shaped, straight or deflexed. Spur (6.5-) 7.4-11.3 (14.2) mm in length, hanging vertically, with the basal part distinctly compressed, central part swollen. – Pl. 168, p. 370.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, République centrafricaine, Guinée équatoriale, Gabon, Zaïre, Ouganda
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Zaïre, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 50-1100 m. Epiphytic mainly on understory branches, in dense humid forest near watercourses. Observed on Citrus, Coffea, Theobroma, Cleistanthus, Eriocaelum and Plagiosiphon
 
-alt. 50-1 100 m. Épiphyte surtout sur branche du sous-bois, en forêt dense humide à proximité de cours d'eau. Observée sur Citrus, Coffea, Theobroma, Cleistanthus, Eriocaelum et Plagiosiphon
+MATERIAL STUDIED (Map 78) :
 
-MATÉRIEL ÉTUDIÉ (Carte 78) :
-
-Hallé 4023, Bélinga, Mines de Fer (fl. Juin), P!.
+Hallé 4023, Bélinga, Iron Mines (fl. June), P!.
 
 37. NEPHRANGIS (Schltr.) Summerh.
 
 Kew Bull. 2 : 301 (1948). – FTWA : 276 (1968) ; Williamson, Orchid. S. Centr. Afr. : 207 (1977) ; Wood in Cribb, FTEA, Orchid. 3 : 630 (1989) ; FAC 2 : 526 (1992) ; FCAM 3 : 694 (2001) ; GYNOR 3 : 241 (2003).
 
-Tige allongée, feuillée. Feuilles dressées. Inflorescence raccourcie, pauciflore, beaucoup plus courte que les feuilles. Fleurs petites. Sépales
+Stem elongate, leafy. Leaves erect. Inflorescence shortened, pauciflorous, much shorter than the leaves. Flowers small. Sepals
 
-PL. 169. – Structure du gynostème du genre Nephrangis (Schltr.) Summerh. : A, vue latérale ; B, vue de face ; C, anthère ; D, reste du rostelle ; E, F, tegula et viscidie, vues diverses; G, pollinies, vues diverses (A-G, ex SZLACHETKO & al., 2003).
+PL. 169. – Structure of the gynostemium of the genus Nephrangis (Schltr.) Summerh. : A, lateral view ; B, front view ; C, anther ; D, rostellum remnant ; E, F, tegula and viscidium, various views; G, pollinia, various views (A-G, ex SZLACHETKO & al., 2003).
 
-et pétales dissemblables. Labelle avec deux grands lobes étalés, presque orbiculaires. Éperon cylindrique, saillant. Gynostème court, dressé. Rostellum ligulé, tronqué, recourbé vers le stigmate. Viscidie unique. Tegula double, linéaire, membraneuse. Rostellum tridenté après le retrait du pollinarium, les deux lobes latéraux étroits, aigus, plus longs que le médian. – Pl. 169, p. 371.
+and petals dissimilar. Labellum with two large spreading lobes, almost orbicular. Spur cylindrical, prominent. Gynostemium short, erect. Rostellum ligulate, truncate, curved towards the stigma. Viscidium single. Tegula double, linear, membranous. Rostellum tridentate after withdrawal of the pollinarium, the two lateral lobes narrow, acute, longer than the median one. – Pl. 169, p. 371.
 
-Genre de deux espèces représentées en Afrique tropicale dont une au Gabon.
+Genus of two species represented in tropical Africa of which one in Gabon.
 
 ## Figures
 

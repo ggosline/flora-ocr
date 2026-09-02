@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herba lignosa omnibus partibus pilis stellatis vestitis, aculeis nullis. Folia pentagona vel palmatiloba, pagina inferiore magis diluta dense pilosa. Sepala praecipue libera longe ovalia acutata ad 2 cm longa, 3-nervata costa distincta supra medium nectario distincto ovale minuta. Epicalyx 9 bracteolis bifurcatis lobis aequalibus recurvis. Semina angularia reniformia fusca, lineis concentricis tenuibus et squamis parvis brunneis munita.
+Woody herb with all parts clothed in stellate hairs, acicles absent. Leaves pentagonal or palmatifid, lower surface paler, densely pilose. Sepals chiefly free, long-oval, acute, up to 2 cm long, 3-nerved with distinct costa above the middle and a distinct minute oval nectary. Epicalyx with 9 bifurcate bracteoles with equal recurved lobes. Seeds angular reniform brown, furnished with fine concentric lines and small brown scales.
 
 ## Type
 
@@ -26,15 +24,11 @@ L. Ngok Banak, J. Lejoly, V. Deman, R. Mboma & S. Lekanga 1357 (holo- LBV ; iso-
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, seulement connue du Woleu-Ntem (Inselberg Ossapanda)
+endemic to Gabon, known only from Woleu-Ntem (Ossapanda Inselberg)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur inselberg, dans fourré ; à 758 m d’altitude . Note taxonomique : Étymologie : Cette espèce est dédiée au collecteur de l’échantillontype, pour honorer sa contribution aux études de la végétation des Inselbergs du Gabon
+on inselberg, in thicket; at 758 m altitude. Taxonomic note: Etymology: This species is dedicated to the collector of the type specimen, to honour his contribution to the study of the vegetation of the Inselbergs of Gabon
 
 ## Notes
 

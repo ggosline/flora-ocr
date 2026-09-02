@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 J. Koechlin comb. nov. (Pl. XXXII)
 
-Herbe en fortes touffes de feuilles longuement pétiolées et de tiges simples portant à leur extrémité une inflorescence et une feuille, pouvant atteindre 1,5 à 2 m de haut et plus. Gaines foliaires et nœuds plus ou moins pubescents, limbes acuminés, arrondis à la base, courtement décurrents sur la nervure médiane, légèrement assymétriques, glabres. Taille variable, en général de 30-50 × 15-30 cm.
+Herb in dense tufts of long-petiolate leaves and simple stems bearing an inflorescence and a leaf at their apex, attaining 1.5 to 2 m tall and more. Leaf sheaths and nodes more or less pubescent, blades acuminate, rounded at base, shortly decurrent on the midvein, slightly asymmetrical, glabrous. Size variable, generally 30–50 × 15–30 cm.
 
-Inflorescence ramifiée ; pédoncules et axes des racèmes courtement pubescents bruns. Racèmes avec jusqu'à une quinzaine d'entre-nœuds de 3 à 7 mm de long ; bractées abaxiales pubescentes, de 10-15 mm de long. Pédoncules communs pubescents, très épaissis et atteignant 1 cm de long à la fructification. Bractéole légèrement verruqueuse, de 1 mm de diamètre. Sépales pubescents, de 5-7 mm de long ; pétales jaunes, pubescents également et deux fois aussi longs. Un seul staminode externe, trilobé, à lobe médian longuement aciculaire. Ovaire glabre, à sutures non visibles, couronné par une frange dense de poils blancs ou dorés. Fruit rouge à maturité, déhiscent, d'environ 2 cm de diamètre.
+Inflorescence branched; peduncles and rachis axes of racemes shortly brown-pubescent. Racemes with up to about fifteen internodes 3 to 7 mm long; abaxial bracts pubescent, 10–15 mm long. Common peduncles pubescent, very much thickened and attaining 1 cm long at fruiting. Bracteole slightly verrucose, 1 mm in diameter. Sepals pubescent, 5–7 mm long; petals yellow, equally pubescent and twice as long. A single external staminode, trilobed, with the median lobe long and needle-like. Ovary glabrous, with sutures not visible, crowned by a dense fringe of white or golden hairs. Fruit red at maturity, dehiscent, about 2 cm in diameter.
 
 ## Type
 
@@ -35,11 +33,9 @@ Bates 276, Cameroun (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species known from Cameroon and Côte d'Ivoire. Not collected in Gabon, but its presence there is nevertheless probable.
 
-Espèce connue du Cameroun et de la Côte-d'Ivoire. Non récoltée au Gabon, sa présence y est cependant probable.
-
-Plante de jachères forestières et de sous-bois de forêts non marécageuses.
+Plant of forest fallows and understory of non-swampy forests.
 
 ## Notes
 

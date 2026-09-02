@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mariscus soyauxii (Boeckeler) C.B.Clarke in Durand & Schinz, Consp. fl. afr. 5 : 593 (1894). Herbe vivace, en touffe, avec une tige solitaire ou quelques tiges groupées ; rhizome court et indistinct ; tiges de 10‒30 cm × 1‒3 mm, trigones, glabres, la partie inférieure de la tige épaissie par les nombreuses gaines minces, incolores ou violet clair. Feuille : limbe seulement aux 3‒5 gaines supérieures, de 10‒30 cm × 1,5‒3,5 mm à la gaine supérieure, mais seulement long de 1‒2 cm à l’inférieure, plan ou en forme de V, scabre au moins sur la marge et la nervure centrale près de la pointe, plutôt rigide à l’état sec. Inflorescence habituellement en tête dense formée de nombreux épis sessiles ou subsessiles ou en anthèle contractée (jusqu’à 3 cm de largeur) , avec des rayons glabres jusqu’à 1 cm de longueur ; bractées involucrales 3‒8, foliacées, étalées, la principale longue de 5‒20 cm, dépassant beaucoup l’inflorescence ; épis de 8‒15 × 5‒10 mm , ellipsoïdes ou oblongs–cylindriques, composés de 10‒30 épillets serrés. Épillet oblong–ellipsoïde, de 4‒6 × 1,5‒2 mm, arrondi, grisâtre à brun rougeâtre clair, hérissé de pointes étalées (sommet des glumes), à 4‒6 fleurs, se détachant d’une pièce à maturité ; glumes ovales, longues de 2‒3 mm , grisâtres, avec 3‒6 nervures latérales proéminentes, à nervure centrale prolongée par une courte pointe habituellement recourbée. Fleur à 3 étamines ; style à 3 longues branches. Akène obovoïde, de 1,3‒1,6 × 1‒1,3 mm , trigone, brun rougeâtre, à surface finement papilleuse, souvent fortement enveloppé par sa glume.
+Mariscus soyauxii (Boeckeler) C.B.Clarke in Durand & Schinz, Consp. fl. afr. 5 : 593 (1894). Perennial herb, in tufts, with a solitary stem or a few stems grouped together; rhizome short and indistinct; stems 10–30 cm × 1–3 mm, trigonous, glabrous, the lower part of the stem thickened by numerous thin, colourless or pale violet sheaths. Leaf: blade only on the 3–5 upper sheaths, 10–30 cm × 1.5–3.5 mm at the upper sheath, but only 1–2 cm long at the lower one, flat or V-shaped, scabrous at least on the margin and central nerve near the apex, rather rigid when dry. Inflorescence usually in a dense head formed of numerous sessile or subsessile spikes or in a contracted anthela (up to 3 cm wide), with glabrous rays up to 1 cm long; involucral bracts 3–8, foliaceous, spreading, the main one 5–20 cm long, far exceeding the inflorescence; spikes 8–15 × 5–10 mm, ellipsoid or oblong–cylindric, composed of 10–30 crowded spikelets. Spikelet oblong–ellipsoid, 4–6 × 1.5–2 mm, rounded, greyish to pale reddish-brown, bristly with spreading points (apex of the glumes), with 4–6 flowers, falling off as a unit at maturity; glumes ovate, 2–3 mm long, greyish, with 3–6 prominent lateral nerves, with central nerve prolonged by a short point usually curved back. Flower with 3 stamens; style with 3 long branches. Achene obovoid, 1.3–1.6 × 1–1.3 mm, trigonous, reddish-brown, with finely papillose surface, often tightly enveloped by its glume.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique de l’Ouest du Sénégal au Gabon ; rare au Gabon, trouvée seulement dans l’Estuaire et l’Ogooué-Ivindo (2 récoltes)
+Widely distributed in West Africa from Senegal to Gabon; rare in Gabon, found only in the Estuary and Ogooué-Ivindo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les zones herbeuses sèches et habitats perturbés ; à basse altitude (< 300 m). Note taxonomique : se reconnaît à sa tête solitaire, épineuse formée d’épillets pâles arrondis. La compacité de l’inflorescence est assez variable. La sous-espèce pallescens Lye de l’Afrique de l’Est a des inflorescences plus grandes et plus ouvertes, et des épillets très pâles. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+In dry herbaceous zones and disturbed habitats; at low altitude (< 300 m). Taxonomic note: recognized by its solitary, spiny head formed of pale rounded spikelets. The compactness of the inflorescence is quite variable. The subspecies pallescens Lye from East Africa has larger and more open inflorescences, and very pale spikelets. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
 ## Notes
 

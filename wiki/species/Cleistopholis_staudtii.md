@@ -13,7 +13,7 @@ tags: [species, generated]
 
 **Genus**: [[Cleistopholis]]
 **Family**: [[Annonaceae]]
-**Protologue**: Engler,Monogr.Afr.Pflanzenf.6 ：35,tab.I2 C (19oI).- Pellgrin,Bull. Soc.Bot.Fr.,Mém.31 :57 (1949).-Keay,F.W.T.A.,ed.2,1,1 :39 (1954).- Keay et al., Nigerian trees I : 34 (1960)
+**Protologue**: Engler,Monogr.Afr.Pflanzenf.6 :35,tab.I2 C (19oI).- Pellgrin,Bull. Soc.Bot.Fr.,Mém.31 :57 (1949).-Keay,F.W.T.A.,ed.2,1,1 :39 (1954).- Keay et al., Nigerian trees I : 34 (1960)
 
 ## Synonyms
 
@@ -22,29 +22,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Engler, Monogr. Afr. Pflanzenf. 6: 35, tab. 12 C (1901). – Pellgrin, Bull. Soc. Bot. Fr., Mém. 31: 57 (1949). – Keay, F.W.T.A., ed. 2, 1, 1: 39 (1954). – Keay et al., Nigerian trees 1: 34 (1960).
 
-Engler,Monogr.Afr.Pflanzenf.6 ：35,tab.I2 C (19oI).- Pellgrin,Bull. Soc.Bot.Fr.,Mém.31 :57 (1949).-Keay,F.W.T.A.,ed.2,1,1 :39 (1954).- Keay et al., Nigerian trees I : 34 (1960).
+Medium-sized tree with straight bole, reaching 30 cm diameter, with horizontal branches; branchlets glabrous. Leaves with petiole 10–15 mm long; blade coriaceous, elliptic-oblong to obovate, 9–17 cm long, 3–6.5 cm wide, acuminate at apex, acute to subrounded at base, glabrous and dull on both faces. Midvein impressed above, prominent below; lateral nerves 10–12 pairs, very obliquely ascending, prominent on both faces.
 
-Arbre de taille moyenne,ä fut droit,atteignant 3o cm de diamétre,ä branches horizontales；rameaux glabres.Feuilles ä petiole long de I0-15 mm; limbe coriace, ellptique-oblong ä obove, long de 9-17 cm, large de 3-6,5 cm,acuminé au sommet,aigu a subarrondi á la base,glabre et mat sur les deux faces.Nervure médiane imprimée au-dessus,proéminente en dessous；nervures laterales l0-l2 paires, tres obliques ascendantes， saillantes sur les deux faces.
+Flowers axillary, fascicled 2–3-flowered; pedicel 12–20 mm long, glabrous. Sepals broadly triangular-ovate to suborbicular, about 1.5 mm long, 2 mm wide. External petals linear, 15–20 mm long, 2–3 mm wide; internal petals concave, broadly ovate, 2–2.5 mm long, 3–3.5 mm wide. Stamens biseriate or triseriate, obpyramidal, 0.5–0.6 mm long, sessile, thecae lateral introrse, connectives dilated above the anthers and extended toward the centre of the flower, puberulent. Carpels about 20, oblong, about 1 mm long, stigmas thick, sessile. Ovules 2, superposed, lateral.
 
-Fleurs axillaires， fasciculées 2-3-flores； pédicelle long de
-
-I2-20 mm,glabre. Sépales largement triangulaires-ovés ä suborbiculaires,longs de 1,5 mm environ,larges de 2 mm.Petales externes linéaires, longs de 15-20 mm, larges de 2-3 mm；pétales internes concaves, largement oves, longs de 2-2,5 mm, larges de 3-3,5 mm. Etamines bi ou trisériees,obpyramidales, longues de o,5-o,6 mm, sessiles,theques latérales introrses,connectifs dilatés au-dessus des antheres et prolongés vers le centre de la fleur,pubérulents. Carpelles 20 environ, oblongs, longs de I mm environ, stigmates épais,sessiles. Ovules 2,superposés,latéraux.
-
-Fruits a pédicelle épais,long de 2 cm environ,de 3 mm d'épais-seur;méricarpes subglobuleux, de 1,2-1,5 cm de diametre;stipes longs de I-1,3 cm,de 3-4 mm d'épaisseur. Graines á testa tuberculé.
+Fruits with thick pedicel, about 2 cm long, 3 mm thick; mericarps subglobose, 1.2–1.5 cm diameter; stipes 1–1.3 cm long, 3–4 mm thick. Seeds with tuberculate testa.
 
 ## Type
 
-Staudt 957，Johann-Albrechts-Hohe,Cameroun ex britannique, fl.,avril (holotype B;isotype K!)
+Staudt 957,Johann-Albrechts-Hohe,Cameroun ex britannique, fl.,avril (holotype B;isotype K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of humid evergreen forest with Leguminosae, on sandy-clayey soil, widespread in southern Nigeria, Cameroon and Gabon. It coexists with C. patens (Benth.) Engl. et Diels, to which it is very closely related. These two species have often been distinguished by the relative length of the petiole and floral pedicels, characters which prove in fact to be quite variable in both taxa. The essential differences are chiefly in the inflorescences much sparser in C. Staudtii, the linear petals longer, the secondary nerves fewer in number, and the number of carpels twice as high.
 
-Espéce de foret dense humide atlantique,ä Légumineuses, sur sol argilo-sableux,répandue en Nigéria du sud,au Cameroun et au Gabon. Elle cohabite avec C. patens (Benth.） Engl.et Diels,dont elle est tres affine.On a souvent distingué ces deux especes par la longueur relative du pétiole et des pédicelles floraux, caracteres quise révelent en fait assez variables dans les deux taxons. Les différences essentielles sont surtout dans les inflorescences beaucoup plus pauvres chez C. Staudtii, les pétales linéaires plus longs,les nervures secondaires moins nombreuses,et le nombre de carpelles deux fois plus éleve.
-
-Une autre espéce,dont on ne connait que le type,provenant de Guinée espagnole, C. myristiciflora Diels et Mildbread (Engl. Jahrb.53 :439,1915) a été étroitement rapprochée de C.Staudtii. La nervation des feuilles et leur forme rappellent en effet cette espece,mais les inflorescences denses,la forme des pétales externes et le nombre des carpelles (11-13) sont plutot du type de C. patens. Un matériel plus abondant provenant de la méme région,nous aiderait probablement ä mieux définir cette espéce ou ä la rattacher ä une des deux especes dont elle est tres affine.
+Another species, known only from the type, from Spanish Guinea, C. myristiciflora Diels et Mildbread (Engl. Jahrb. 53: 439, 1915) has been closely related to C. Staudtii. The venation of the leaves and their form indeed recall this species, but the dense inflorescences, the form of the external petals and the number of carpels (11–13) are rather of the type of C. patens. More abundant material from the same region would probably help us to better define this species or to relate it to one of the two species with which it is very closely affiliated.
 
 ## Vernacular names
 

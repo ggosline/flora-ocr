@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, en touffe, mais apparaissant parfois comme annuelle ; court rhizome rampant, souvent ramifié, ligneux et densément garni de tiges de 30‒120 cm × 1,5‒3 mm, aplaties , glabres sauf la marge qui est habituellement scabre juste sous l’inflorescence, bases des tiges protégées par des écailles rigides, fendues. Feuille : gaine fermée, glabre sur la surface, poilue sur la marge près de la ligule qui est formée d’une rangée dense de poils ; limbe long de 1‒35 cm (toujours plus de 5 cm pour la plus grande feuille), plan, à marge scabre, à surface glabre ou faiblement poilue en bas. Inflorescence en anthèle complexe avec des groupes d’épillets d’ordre 3 et 4 ; bractées principales longues de 1‒2 cm, foliacées avec la marge scabre et la surface glabre . Épillet de 5‒8(‒12 à la fructification) × 2 mm environ, brun foncé ; bractée principale de l’épillet longue de 1,5‒2 mm, brunâtre, avec habituellement la nervure centrale saillante et scabre ; glumes fertiles longues d’environ 3 mm , sommet aigu ou avec la nervure centrale légèrement en saillie, brun foncé avec une marge plus pâle, généralement effilochée. Fleur à 3 étamines, filets aplatis ; style à 3 branches. Akène de 0,8‒1 × 0,7 mm environ, brunâtre, triangulaire, avec des cellules en rangées longitudinales et des papilles éparses (jeunes fruits parfois blancs et lisses), cellules épidermiques rectangulaires ou transversalement oblongues.
+Perennial herb, in tufts, but sometimes appearing annual; short creeping rhizome, often branched, woody and densely clothed with stems 30–120 cm × 1.5–3 mm, flattened, glabrous except the margin which is usually scabrous just below the inflorescence, stem bases protected by rigid, split scales. Leaf: sheath closed, glabrous on the surface, hairy on the margin near the ligule which is formed of a dense row of hairs; blade 1–35 cm long (always more than 5 cm for the largest leaf), flat, with scabrous margin, surface glabrous or weakly hairy below. Inflorescence in complex anthela with spikelet groups of order 3 and 4; main bracts 1–2 cm long, foliaceous with scabrous margin and glabrous surface. Spikelet 5–8(–12 at fruiting) × 2 mm approximately, dark brown; main bract of spikelet 1.5–2 mm long, brownish, usually with the central nerve prominent and scabrous; fertile glumes approximately 3 mm long, apex acute or with the central nerve slightly prominent, dark brown with a paler, usually frayed margin. Flower with 3 stamens, flattened filaments; style with 3 branches. Achene 0.8–1 × 0.7 mm approximately, brownish, triangular, with cells in longitudinal rows and scattered papillae (young fruits sometimes white and smooth), epidermal cells rectangular or transversely oblong.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans la plupart des régions tropicales ; peu commune au Gabon, trouvée dans l’Estuaire, le Haut-Ogooué et l’Ogooué-Ivindo (4 récoltes)
+in most tropical regions; uncommon in Gabon, found in Estuaire, Haut-Ogooué and Ogooué-Ivindo (4 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies humides, sur les berges des rivières en forêt, au bord des marécages et des mares ; au Gabon, à 0‒450 m d’altitude, jusqu’à 1700 m en Afrique de l’Est. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1995, 1997)
+in humid grasslands, on river banks in forest, at the edge of swamps and pools; in Gabon, at 0–450 m altitude, up to 1700 m in East Africa. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1995, 1997)
 
 ## Notes
 

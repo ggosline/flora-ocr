@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 79. – Bulbophyllum purpureorhachis (De Wild.) Schltr.: A, general view; B, flower; C, floral parts; D, labellum; E, labellum and gynostemium in natural position, lateral view; F, anther; G, pollinia (A-G, ex VERMEULEN, 1987).
 
-PL. 79. – Bulbophyllum purpureorhachis (De Wild.) Schltr.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
+– TYPE: Laurent 1772, Congo (Kinshasa), holo-BR.
 
-– TYPE : Laurent 1772, Congo (Kinshasa), holo-BR.
+– Bulbophyllum cercoglossum Summerh., Kew Bull. 8: 584 (1954).
 
-– Bulbophyllum cercoglossum Summerh., Kew Bull. 8 : 584 (1954).
-
-Pseudobulbes 5,5-10 × 0,9-2 cm, étroitement ovoïdes à fusiformes, bi-foliés. Feuilles pétiolées, 9,5-20 × 3-6 cm, largement blancéolées à lancéolées-ovées, aiguës, à courtement acuminées. Inflorescence lâche, 20,5-40 cm, 28-48-flore, rachis élargi et aplatì comme un limbe, glabre, finement papilleux ou avec des poils sombres. Fleurs petites. Sépales jaunes face adaxiale et pourpres ou avec des taches pourpres face abaxiale ; sépale dorsal moitié basale concave, ovée, lancéolé à subcaudé au-dessus, glabre, ou avec des poils sombres ; sépales latéraux obliquement transversalement elliptiques ou obovés, caudés, finement papilleux. Pétales falciformes, linéaires, apiculés, glabres. Labelle verdâtre avec du violet, orbiculaire à largement elliptique, assez mince, glabre, réfléchi, sommet apiculé à caudé. - Pl. 80, p. 163.
+Pseudobulbs 5.5–10 × 0.9–2 cm, narrowly ovoid to fusiform, two-leaved. Leaves petiolate, 9.5–20 × 3–6 cm, broadly lanceolate to lanceolate-ovate, acute, to shortly acuminate. Inflorescence lax, 20.5–40 cm, 28–48-flowered, rachis enlarged and flattened like a lamina, glabrous, finely papillose or with dark hairs. Flowers small. Sepals yellow on the adaxial face and purple or with purple spots on the abaxial face; dorsal sepal basal half concave, ovate, lanceolate to subcaudate above, glabrous, or with dark hairs; lateral sepals obliquely transversely elliptic or obovate, caudate, finely papillose. Petals falcate, linear, apiculate, glabrous. Labellum greenish with violet, orbicular to broadly elliptic, rather thin, glabrous, reflexed, apex apiculate to caudate. - Pl. 80, p. 163.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 400 m. Epiphyte; lowland, secondary forest
 
-alt. 400 m. Épiphyte ; basse terre, forêt secondaire
+MATERIAL STUDIED (Map 28):
 
-MATÉRIEL ÉTUDIÉ (Carte 28) :
+Breteler, Lemmens & Nzabi 8139, between Mouila and Yéno, km 40 on the track from Mouila, 1°45' S, 11°21' E (fr. Sept.), WAG!, LBV.
 
-Breteler, Lemmens & Nzabi 8139, entre Mouila et Yéno, km 40 sur la piste depuis Mouila, 1°45' S, 11°21' E (fr. Sept.), WAG!, LBV.
-
-Le Testu 5772, chutes de la Mboumi à Mbigou (fl., Nov.), BR!, P! ; 5772a, ancien village de Bagni (fl., Nov.), P!.
+Le Testu 5772, falls of the Mboumi at Mbigou (fl., Nov.), BR!, P!; 5772a, old village of Bagni (fl., Nov.), P!.
 
 ## Figures
 

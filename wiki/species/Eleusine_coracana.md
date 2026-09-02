@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 $ = E.\ stricta\ Roxb. $
 
-Plante semblable à l'E. indica; mais beaucoup plus robuste et pouvant dépasser 1,50 m de haut. Limbes foliaires atteignant 1 cm de large.
+Plant similar to E. indica; but much more robust and able to exceed 1.50 m in height. Leaf blades reaching 1 cm wide.
 
-Racèmes moins nombreux, d'environ 5 cm de long et 1 cm de
+Racemes fewer in number, about 5 cm long and 1 cm wide; rachis 1.5 mm wide. Spikelets 4 to 5 mm long. Glumes and lemmas obtuse or rounded at the apex, paleae finely pectinate-ciliate on the margins.
 
-large; rachis de 1,5 mm de large. Épillets de 4 à 5 mm de long. Glumes et lemmas obtuses ou arrondies au sommet, palées fine-ment pectinées-ciliées sur les bords.
-
-Espèce cultivée comme céréale secondaire, signalée en Nigéria, en Oubangui, au Tchad, en Afrique australe, en Arabie, aux Indes.
+Species cultivated as a secondary cereal, reported in Nigeria, in Ubangi, in Chad, in southern Africa, in Arabia, in India.
 
 ## Specimens examined
 

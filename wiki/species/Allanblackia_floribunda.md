@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre jusqu’à 35 m de hauteur ; tronc jusqu’à 85 cm de diamètre ; écorce lisse à écailleuse, lenticellée, à tranche rose à rouge ; latex jaune ; jeunes pousses rouges. Feuille glabre ; pétiole 5 ‒ 15 mm ; limbe elliptique à elliptique-ovale ou plus rarement elliptique-obovale, 6 ‒ 25 × 2,5 ‒ 8 cm, base arrondie à obtuse ou rarement cunéée, sommet acuminé, subcoriace à coriace, vert foncé ; nervures latérales environ 25 ‒ 50, canaux sécréteurs obliques, se superposant aux nervures latérales ou les recoupant. Fleur mâle : pédicelle 3 ‒ 8 cm ; sépales suborbiculaires, les externes 5 ‒ 8 mm de diamètre, les internes 12 ‒ 15 mm de diamètre ; pétales ovales à suborbiculaires, 20 ‒ 25 mm de longueur et de largueur, roses pâle à rouges ou rarement blanchâtres ; phalanges staminales 8 ‒ 17 mm de longueur, à anthères disposées uniquement sur la face interne ; glandes discales profondément plissées-feuilletées . Fleur femelle : pédicelle 3 ‒ 8 cm ; sépales et pétales semblables à ceux de la fleur mâle, pétales roses ou blanc crème ; phalanges staminales le plus souvent réduites à quelques étamines libres de 4 ‒ 5 mm de longueur ; glandes discales ridées ; ovaire 5-côtelé, à nombreux ovules par loge ; stigmate 5-lobé. Fruit ellipsoïde, 17 ‒ 50 × 8 ‒ 15 cm . Graines 40 ‒ 80 , ovoïdes, 2,5 ‒ 4 × 1,5 ‒ 2,5 cm.
+Tree up to 35 m tall; trunk up to 85 cm in diameter; bark smooth to scaly, lenticellate, with pink to red inner surface; latex yellow; young shoots red. Leaf glabrous; petiole 5–15 mm; blade elliptic to elliptic-ovate or more rarely elliptic-obovate, 6–25 × 2.5–8 cm, base rounded to obtuse or rarely cuneate, apex acuminate, subcoriaceous to coriaceous, dark green; lateral veins approximately 25–50, secretory canals oblique, overlapping the lateral veins or crossing them. Male flower: pedicel 3–8 cm; sepals suborbicular, outer ones 5–8 mm in diameter, inner ones 12–15 mm in diameter; petals oval to suborbicular, 20–25 mm in length and width, pale pink to red or rarely whitish; stamen fascicles 8–17 mm in length, with anthers arranged only on the inner face; disc glands deeply plicate-foliate. Female flower: pedicel 3–8 cm; sepals and petals similar to those of the male flower, petals pink or cream-white; stamen fascicles mostly reduced to a few free stamens 4–5 mm in length; disc glands wrinkled; ovary 5-ribbed, with numerous ovules per locule; stigma 5-lobed. Fruit ellipsoid, 17–50 × 8–15 cm. Seeds 40–80, ovoid, 2.5–4 × 1.5–2.5 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bénin, Nigéria, Cameroun, République Centrafricaine, Guinée Équatoriale, Gabon, République du Congo, République Démocratique du Congo et Angola ; au Gabon déjà récoltée dans toutes les provinces à l’exception de l’Ogooué-Maritime
+Benin, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon already collected in all provinces except Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, forêt marécageuse ou riveraine et galeries forestières ; au Gabon jusqu’à 720 m d’altitude, ailleurs jusqu’à 1000 m
+Primary and secondary forest, swamp forest or riparian forest and forest galleries; in Gabon up to 720 m altitude, elsewhere up to 1000 m
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ vegetable tallow tree (angl.) ; nsangoma, sangoma (nom pilot) ; asangom (fang), 
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois est utilisé en ébénisterie et pour le tournage. Les graines donnent une matière grasse alimentaire et pouvant remplacer le suif. Une décoction de l’écorce est utilisée contre la dysenterie ou en gargarismes contre les maux de dents. Note taxonomique : L’espèce a été mentionnée pour l’Afrique de l’Ouest (Sierra Leone à Ghana), mais ces informations sont basées sur des échantillons aujourd’hui identifiés comme A. parviflora A.Chev. B : Bamps (1969, 1970a), Hutchinson et al. (1954), Orwa & Munjuga (2007), i B liographie Pellegrin (1959), Raponda-Walker & Sillans (1961)
+The wood is used in cabinetmaking and for turning. The seeds yield an edible fatty matter that can replace tallow. A decoction of the bark is used against dysentery or as a gargle for toothache. Taxonomic note: The species has been mentioned for West Africa (Sierra Leone to Ghana), but this information is based on specimens now identified as A. parviflora A.Chev. Bibliography: B Bamps (1969, 1970a), Hutchinson et al. (1954), Orwa & Munjuga (2007), Pellegrin (1959), Raponda-Walker & Sillans (1961)
 
 ## Notes
 

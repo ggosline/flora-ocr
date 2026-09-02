@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-– TYPE : Schlechter 15771. Cameroun. holo-B. delete.. iso-P!.
+– TYPE: Schlechter 15771. Cameroon. holo-B. delete.. iso-P!.
 
 – Cephalangraecum strausii (Schltr.) Summerh., FTWA, ed. 1, 2: 462 (1936).
 
-Tige 2,5 cm. Feuilles 5-7, 5-13 x 0,3-1,3 cm, linéaires ou linéaires-lancéolées, inégalement bilobées, lobes finement et irrégulièrement denticulés. Inflorescence capitée, 0,5 cm, 5-14-flore. Fleurs minuscules, blanches, labelle orné de 2 taches vertes. Sépale dorsal oblong-ové ou elliptique-ové, obtus. Pétales obliquement oblong-obové, obtus. Sépales latéraux oblongs-elliptiques, subfalciformes. Labelle < 2,7 x 3 mm, très faiblement trilobé ; lobe médian arrondi ; lobes latéraux arrondis. Éperon 1,5-3,5 mm, droit, renflé au centre, progressivement effilé aux deux bouts, généralement subaigu. - Pl. 155, p. 348.
+Stem 2.5 cm. Leaves 5-7, 5-13 × 0.3-1.3 cm, linear or linear-lanceolate, unequally bilobed, lobes finely and irregularly denticulate. Inflorescence capitate, 0.5 cm, 5-14-flowered. Flowers minute, white, labellum ornamented with 2 green spots. Dorsal sepal oblong-ovate or elliptic-ovate, obtuse. Petals obliquely oblong-obovate, obtuse. Lateral sepals oblong-elliptic, subfalciform. Labellum < 2.7 × 3 mm, very weakly trilobed; median lobe rounded; lateral lobes rounded. Spur 1.5-3.5 mm, straight, inflated at the centre, gradually tapering at both ends, usually subacute. – Pl. 155, p. 348.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Nigeria, Cameroun, Gabon, Zaïre
+Ivory Coast, Nigeria, Cameroon, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 700 m. Epiphytic in primary forest on branch and trunk of Chlorophora, Hexalobus, Oxystigma mannii, 25-45 m above ground
 
-alt. 700 m. Épiphyte en forêt primaire sur branche et tronc de Chlorophora, Hexalobus, Oxystigma mannii, 25-45 m au-dessus du sol
+MATERIAL STUDIED (Map 73):
 
-MATÉRIEL ÉTUDIÉ (Carte 73) :
-
-Hallé & Villiers 5383, Monts de Cristal, 12 km SO chutes de Kinguélé (fl. Févr.), P!.
+Hallé & Villiers 5383, Monts de Cristal, 12 km SW Kinguélé Falls (fl. Feb.), P!.
 
 ## Figures
 

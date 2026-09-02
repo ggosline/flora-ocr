@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Semi-herbaceous plant 0.8-2 m tall, slightly pubescent, with multicellular hairs on new parts and in the inflorescence, subsequently glabrescent. Stems ± round, slightly striate-angled; bark greyish. Petioles 2-4 cm long, slightly ciliate-pubescent. Leaf blade elliptic, acute at base and apex, 14-22 × 5-10 cm, olive-green or brownish-grey when dry, glabrous above; margins slightly crenulate-sinuous; base of blade slightly decurrent; acumen well-marked, approximately 1 cm long. 10-12 pairs of lateral veins; underside of veins covered with fine appressed pubescence.
 
-Plante mi-herbacée de 0,8-2 m de hauteur, légèrement pubescente, poils multicellulaires dans les parties nouvelles et dans l'inflorescence, ensuite glabrescente. Tiges ± rondes, légèrement striées-angulées; écorce grisâtre. Pétioles 2-4 cm de long, légèrement ciliés-pubescents. Limbe des feuilles elliptique, aigu à la base et au sommet de 14-22 × 5-10 cm, à l'état sec vert olive ou brun grisâtre, glabre dessus; marges légèrement crénulées-sinueuses; base du limbe légèrement décurrente; acumen bien marqué, environ 1 cm de long. 10-12 paires de nervures latérales; dessous des nervures couvert d'une fine pubescence apprimée.
+Inflorescences terminal, spike-shaped, 25-40 mm long; bracts caducous, ovate-lanceolate acuminate, sparsely hairy-pubescent, 20-22 × 6-9 mm; bracteoles lanceolate-spatulate, 5 × 1 mm. Sepals lanceolate, acuminate, and up to 15-24 × 2.5-3 mm, accrescent during flowering and fruiting; the two anterior sepals are entirely free; the three posterior ones are fused for approximately 3/4 of their length; the free portion of these sepals in the flowering state is approximately 4 mm, and in the fruiting state up to 10 mm long; sepals slightly hairy-ciliate on the outside, especially at the margins and along the central vein; calyx pink in the living state (according to Klaine, 197). Corolla blue-violet, 43 mm long, ciliate on the outside with rather long hairs; corolla tube swollen at the throat and infundibuliform; 5 brief, subequal lobes. Stamens glabrous, slightly didynamous; anthers auriculate. Ovary glabrous, 5 mm long. Disc 1 mm tall, collar-shaped. Style glabrous with asymmetric stigma: one lobe is very reduced, the other elongate.
 
-Inflorescences terminales, en forme d'épi, 25-40 mm, de long; bractées caduques, ovales-lancéolées acuminées, éparsément poilues-pubescentes, de 20-22 × 6-9 mm; bractéoles lancéolées-spathuliforme, de 5 × 1 mm. Sépales lancéolés, acuminés, et jusqu'à 15-24 × 2,5-3 mm, accrescents pendant la floraison et la fructification; les deux sépales antérieurs sont entièrement libres; les trois postérieurs sont soudés sur environ 3/4 de leur longueur; la partie libre de ces sépales à l'état florifère est d'environ 4 mm, et à l'état de fructification jusqu'à 10 mm de long; sépales légèrement poilus-ciliés à l'extérieur, surtout aux bords et le long de la nervure centrale; calice rose à l'état vivant (d'après Klaine, 197). Corolle bleu-violet, de 43 mm de long, ciliée à l'extérieur avec des poils assez longs; tube de la corolle gonflé à la gorge et infundibuliforme; 5 lobes brefs, subégaux. Étamines glabres, légèrement didynamics; anthères auriculées. Ovaire glabre, de 5 mm de long. Disque de 1 mm de hauteur en forme de colerette. Style glabre à stigmate asymétrique : un lobe est très réduit, l'autre allongé.
-
-Fruit de 2 cm de long, glabre à 8-10 graines par loge. Graines aplaties, lenticulaires à testa brun noirâtre; hile blanchâtre,
-
-bien marqué; bords densément ciliés, à poils hygroscopiques apprimés, d'environ 1,5 mm de diamètre. Les graines examinées (Autran in coll. Heckel 33) sont immatures.
+Fruit 2 cm long, glabrous, 8-10 seeds per locule. Seeds flattened, lenticular with dark brownish testa; hilum whitish, well-marked; margins densely ciliate, with appressed hygroscopic hairs, approximately 1.5 mm in diameter. The seeds examined (Autran in coll. Heckel 33) are immature.
 
 ## Type
 
@@ -33,9 +29,7 @@ Klaine 79 (P, holotype!)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-— Cette espèce, ainsi que le Dischistocalyx Walkeri R. Benoist, ne figurent pas dans l'étude de Bremekamp (1943) sur ce genre
+— This species, as well as Dischistocalyx Walkeri R. Benoist, do not appear in Bremekamp's (1943) study on this genus
 
 ## Specimens examined
 

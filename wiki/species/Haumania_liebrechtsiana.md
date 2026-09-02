@@ -20,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 J. Léonard (Pl. XXIV)
 
 — Bull. J. B. Brux. 19 : 454 (1949).
 
-Herbes ligneuses lianiformes, atteignant plusieurs mètres de haut, tiges pubérulentes. Feuilles à dimensions très variables de  $ \pm 10 \times 6 $ jusqu'à  $ 30 \times 15 $ cm. Partie calleuse du pétiole de  $ 2 \times 6 $ cm, souvent pubéruleuse. Pubescence de la face inférieure du limbe très variable, souvent réduite à une ligne de poils de part et d'autre de la nervure médiane, sur toute sa longueur.
+Woody herbs, scandent, reaching several metres in height, stems puberulent. Leaves of highly variable dimensions from ± 10 × 6 to 30 × 15 cm. Callous portion of the petiole 2 × 6 cm, often puberulent. Pubescence of the lower face of the lamina highly variable, often reduced to a line of hairs on either side of the midvein, along its entire length.
 
-Inflorescence atteignant une dizaine de centimètres de long, rachis pubescent brun ; bractée abaxiale pubescente extérieurement, ovale, légèrement acuminée au sommet, blanchâtre, brunissant au séchage. Pédoncules et pédicelles des fleurs densément hirsutes. Fleurs blanches, sépales de 10-15 mm de long, corolle à tube de 7 mm et lobes de 10-12 mm de long. Staminodes pétaloides, blancs, tachés de jaune ; ovaire densément pubescent. Fruit couvert d'éminences arrondies relativement peu marquées, jaunes à maturité ; graines noires.
+Inflorescence reaching about ten centimetres in length, rachis pubescent, brown; abaxial bract pubescent externally, ovate, slightly acuminate at the apex, whitish, browning on drying. Peduncles and pedicels of the flowers densely hirsute. Flowers white, sepals 10–15 mm long, corolla with tube 7 mm and lobes 10–12 mm long. Petaloid staminodes, white, spotted with yellow; ovary densely pubescent. Fruit covered with rounded eminences relatively inconspicuous, yellow at maturity; seeds black.
 
 ## Type
 
@@ -36,11 +34,9 @@ Dewèvre 512, Bas-Congo (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant from Congo and Gabon.
 
-Plante du Congo et du Gabon.
-
-Les tiges sont utilisées comme liens pour la construction des cases, et en vannerie. Les feuilles servent à l'emballage des pains de manioc, mais elles ont l'inconvénient de brûler (Léonard).
+The stems are used as ties for the construction of huts, and in basketry. The leaves are used for wrapping cassava bread, but they have the disadvantage of burning (Léonard).
 
 ## Vernacular names
 

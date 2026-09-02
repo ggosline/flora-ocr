@@ -27,7 +27,7 @@ tags: [species]
 
 24.Diospyros melocarpa F. White
 
-Bull.Jard.Bot.Brux.33:347,tab.19,J-O (1963)；FWTA ed. 2,2 ：14(1963);Nigerian Trees 2 : 34o (1964). Specimens of this species appear in various herbaria under the following name: *Maba melocarpa* (Louis ms.).
+Bull.Jard.Bot.Brux.33:347,tab.19,J-O (1963);FWTA ed. 2,2 :14(1963);Nigerian Trees 2 : 34o (1964). Specimens of this species appear in various herbaria under the following name: *Maba melocarpa* (Louis ms.).
 
 PL. 26,12-20,p. 159,et CARTE 31, p. 172.
 
@@ -47,7 +47,7 @@ This species is known from Nigeria, Cameroon, Fernando Po, Gabon, and both Congo
 
 ### Material studied in Cameroon
 
-Dupasquier 33277 in herb. Chevalier, pres Ndo dans le Mungo (ster.). Fleury 33278,33279 et 33364 in herb.Chevalier,pres Douala (stér.);33408 id., entre Ndo et Mujuka dans le Mungo,km 59 CFNord (stér.). Letouzey 9359,colline Ngwon,4o km E Kribi (stér.); 9466,colline Nkolakaye pres Mbanga,km 81 route Kribi-Ebolowa pres Akom II (ster.)； 10367, colline Nkolebanga au NW d'Ebianéméyong pres Nyabessan (ster.). Tiku FHI 418g5,Kembong for.res. pres Mamfe (fr., déc.) (cit.in FWTA ed.2, 2 : 14 (1963). White 8561 et 8615,rés.for.lac Ejaghan pres Mamfe (stér.) FHO. Zenker 3865,Bipindi (j.fr.) (cit.in Bull. Jard.Bot.Brux.33:348 (1963).
+Dupasquier 33277 in herb. Chevalier, pres Ndo dans le Mungo (ster.). Fleury 33278,33279 et 33364 in herb.Chevalier,pres Douala (stér.);33408 id., entre Ndo et Mujuka dans le Mungo,km 59 CFNord (stér.). Letouzey 9359,colline Ngwon,4o km E Kribi (stér.); 9466,colline Nkolakaye pres Mbanga,km 81 route Kribi-Ebolowa pres Akom II (ster.); 10367, colline Nkolebanga au NW d'Ebianéméyong pres Nyabessan (ster.). Tiku FHI 418g5,Kembong for.res. pres Mamfe (fr., déc.) (cit.in FWTA ed.2, 2 : 14 (1963). White 8561 et 8615,rés.for.lac Ejaghan pres Mamfe (stér.) FHO. Zenker 3865,Bipindi (j.fr.) (cit.in Bull. Jard.Bot.Brux.33:348 (1963).
 
 ### Material studied in Gabon
 

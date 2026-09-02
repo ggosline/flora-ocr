@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 7 to 10 m tall. Leaves approximately 30–40 cm with shiny leaflets above, dull below, with 8–12 pairs of veins.
 
-Arbre de 7 à 10 m. Feuilles d'environ 30-40 cm à folioles brillantes dessus, mates dessous, à 8-12 paires de nervures.
-
-Inflorescences atteignant 40 cm, en grappe, portant 4-5 rameaux, parfois même des rameaux de 3° ordre, plus petits, 2-3 cm; par grappe, env. 12 cymules de 5-7-15 fleurs dont les bractées sont remontées au sommet des pédoncules de 2 mm; toute l'inflorescence, y compris le calice, finement pubérulente, à poils blancs, serrés, droits, de 0,05 mm; pilosité intérieure du calice frisée, de 0,05 mm, blanche; pédicelle de 2 mm. Bouton de 2-2,5 mm de diamètre; calice haut de 4 mm, à sépales libres sur 3 mm, triangulaires, à base large de 1,5 mm; pétales lancéolés, 4 × 1,5 mm, à dos glabre ou velu; les jeunes de 2 mm, avec entonnoir de 1 mm; disque glabre, lisse, parfois légèrement 5 ou 10 lobé; 5-7 étamines. Fruit haut de 18 mm, large de 25 mm et de 8 mm d'épaisseur, glabre, lisse ou avec de légers mamelons. PL. 35, 1-11', p. 153.
+Inflorescences reaching 40 cm, racemose, bearing 4–5 branches, sometimes even tertiary branches, smaller, 2–3 cm; per raceme, approximately 12 cymules of 5–7–15 flowers whose bracts are elevated at the apex of pedicels of 2 mm; entire inflorescence, including the calyx, finely puberulent, with white, dense, straight hairs of 0.05 mm; inner pilosité of the calyx curled, 0.05 mm, white; pedicel 2 mm. Bud 2–2.5 mm in diameter; calyx 4 mm tall, with sepals free for 3 mm, triangular, with broad base 1.5 mm wide; petals lanceolate, 4 × 1.5 mm, glabrous or hairy on the back; young ones 2 mm, with funnel 1 mm; disk glabrous, smooth, sometimes slightly 5- or 10-lobed; 5–7 stamens. Fruit 18 mm tall, 25 mm wide and 8 mm thick, glabrous, smooth or with slight papillae. PL. 35, 1–11', p. 153.
 
 ## Type
 
@@ -29,9 +27,7 @@ Talbot 416, Oban, Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue de la Sierra Leone au Gabon, par la Côte d'Ivoire, le Ghana, le Nigeria et la République centrafricaine, mais non récoltée au Cameroun.
+Species widespread from Sierra Leone to Gabon, through Côte d'Ivoire, Ghana, Nigeria and the Central African Republic, but not collected in Cameroon.
 
 ## Specimens examined
 

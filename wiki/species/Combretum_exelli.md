@@ -17,37 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE : Gabon, Monts de Cristal, km 3 from the Tchimbélé-Kinguélé trail, alt. 550 m (fl, fr. juv.) de Wilde et Arends 10053 (holo-WAG ; iso-BR, K, LBV, M, MO, P).
 
-TYPE : Gabon, Monts de Cristal, km 3 de la piste Tchimbélé-Kinguélé, alt. 550 m (fl, fr. juv.) de Wilde et Arends 10053 (holo-WAG ; iso-BR, K, LBV, M, MO, P).
+Large forest liana.
 
-Grande liane de forêt.
+Leaves opposite ; petiole ≤ 9 mm ; blade ≤ 16 × ≤ 8 cm, thick and coriaceous, upper surface dark green matte, lower surface covered with a continuous yellowish indumentum ; apex acuminate. Major lateral nerves 7–9 pairs, impressed above ; venation III forming a pattern of almost parallel lines ; median and lateral nerves, as well as nerves III and the reticulum, very prominent on the lower surface. Young leaves and branchlets puberulent.
 
-Feuilles opposées ; pétiole ≤ 9 mm ; limbe ≤ 16 × ≤ 8 cm, épais et coriace, dessus vert foncé mat, dessous couvert d'un indument continu jaunâtre ; sommet acuminé. Grandes nervures latérales 7-9 paires, déprimées dessus ; nervation III formant un dessin de lignes presque parallèles ; nervures médiane et latérales, ainsi que les nervures III
+Scales, diameter ≤ 50 µm.
 
-et le réseau, très saillants à la face inférieure. Jeunes feuilles et rameaux pubérulents.
+Inflorescences axillary, very dense, in a panicle ≤ 8 cm ; peduncles 0.5–1.5 cm ; bracts scarcely visible.
 
-Écailles, diamètre ≤ 50 µm.
+Flowers 4-merous, fragrant, with hairs and scales on the outer surface, not protogynous. Receptacle lower, 1.5–3 mm high, the upper one cream-coloured, weakly campanulate, 2–3 mm wide. Calyx with triangular lobes, 1 mm long, interior pubescent to subglabrous. Petals obcordate, $ 1.5 \times 0.5-1 $ mm, glabrous, whitish. Stamens : filaments 3–4 mm long ; anthers 0.4 mm long. Disk, bearing dense pubescence on its free margin, glabrous elsewhere. Style 2–2.5 mm (Pl. 10, 4, p. 39).
 
-Inflorescences axillaires, très serrées, en panicule ≤ 8 cm ; pédoncules 0,5-1,5 cm ; bractées peu visibles.
-
-Fleurs 4-mères, odorantes, avec des poils et des écailles sur la face externe, non protogynes. Réceptacle inférieur haut de 1,5-3 mm, le
-
-supérieur crème, faiblement campanulé, large de 2-3 mm. Calice à lobes triangulaires, longs de 1 mm, intérieur pubescent à subglabre. Pétales obcordés,  $ 1.5 \times 0.5-1 $ mm, glabres, blanchâtres. Étamines : filets longs de 3-4 mm ; anthères longues de 0,4 mm. Disque, muni d'une pubescence dense sur son bord libre, partout ailleurs glabre. Style 2-2,5 mm (Pl. 10, 4, p. 39).
-
-Fruits immatures ailés, jaune-verdâtre pâle.
+Immature fruits winged, pale yellowish-green.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides ; altitude ≤ 550 m
+Dense humid forests ; altitude ≤ 550 m
 
 ## Specimens examined
 

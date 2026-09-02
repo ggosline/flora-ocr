@@ -25,17 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 E. Petit, l.c. supra.
 
-Arbre de 30-35 m de hauteur, à diamètre atteignant 60-80 cm, à branches principales très ascendantes et large cime. Bourgeons et jeunes extrémités recouverts d'une secrétion cireuse-glutineuse. Appareil végétatif entièrement glabre. Stipules connées en une colerette haute de 1,5-3 mm. Pétiole de (1)2-10 mm. Limbe luisant, épais et souple devenant olivâtre et fragile à sec, obové-spatuli-forme ou oblong de (10)15-45 (65) × (5,5)7-18 cm, à base longuement atténuée cunéiforme et décurrente sur le pétiole, parfois subsessile obtuse; sommet largement ové ou arrondi, parfois obtusément et brièvement acuminé; marge finement rebordée. 7-20 paires de nervures secondaires peu ascendantes. Pas de domaties axillaires.
+Tree 30–35 m tall, with diameter reaching 60–80 cm, with very ascending main branches and broad crown. Buds and young shoot tips covered with a waxy-glutinous secretion. Vegetative apparatus entirely glabrous. Stipules connate into a collar 1.5–3 mm high. Petiole (1)2–10 mm. Blade shining, thick and flexible becoming olivaceous and brittle when dry, obovate-spatuliform or oblong (10)15–45 (65) × (5.5)7–18 cm, with base longly attenuate cuneiform and decurrent on the petiole, sometimes subsessile obtuse; apex broadly ovate or rounded, sometimes obtusely and briefly acuminate; margin finely bordered. 7–20 pairs of secondary veins slightly ascending. No axillary domatia.
 
-Inflorescences glabres longues d'env. 4-5 cm, 12-30-flores, à pédoncule long de 3-8 mm. Bractées ciliolées tronquées d'env. 1 mm de longueur, embrassantes. Pédicelle de 1-3 mm portant une paire de bractéoles. Calice glabre, tubuleux sur 1 mm, à bord ciliolé tronqué et indistinctement 5-denticulé. Corolle verte nuancée de rouge, glabre extérieurement, à tube subcylindrique de 6-8 mm de longueur et 3-4 mm de diamètre, à pubescence interne formant un anneau sous-staminal, à lobes de 6 × 5 mm. Anthères apiculées de 5 × 1 mm, insérées vers le tiers inférieur. Style de 13 mm, à colonne subfusiforme striée, fendu en deux lobes dressés longs de 3-4 mm. Disque de 4 mm de diamètre.
+Inflorescences glabrous approximately 4–5 cm long, 12–30-flowered, with peduncle 3–8 mm long. Bracts ciliolate truncate approximately 1 mm long, embracing. Pedicel 1–3 mm bearing a pair of bracteoles. Calyx glabrous, tubular for 1 mm, with ciliolate truncate margin and indistinctly 5-dentate. Corolla green tinged with red, glabrous externally, with subcylindric tube 6–8 mm long and 3–4 mm in diameter, with internal pubescence forming a sub-staminal ring, lobes 6 × 5 mm. Anthers apiculate 5 × 1 mm, inserted towards the lower third. Style 13 mm, with subfusiform striated column, split into two erect lobes 3–4 mm long. Disc 4 mm in diameter.
 
-Fruit vert à maturité, de 5-7,5 cm de diamètre, lisse et presque parfaitement sphérique, à paroi dépassant 1 cm d'épaisseur. Deux hémisphères endocarpiques ochracés d'env. un quart de millimètre d'épaisseur, cassants, fragiles, juxtaposés longitudinalement et soudés entre-eux au niveau d'une protubérance basale 176 graines dans un fruit, atteignant 11 × 10 × 1,5 mm, à tégu-
-
-ment ochracé. Pulpe placentaire à odeur de cornichon vert et devenant fétide. Embryon blanc de  $ 6 \times 3 $ mm.
+Fruit green at maturity, 5–7.5 cm in diameter, smooth and almost perfectly spherical, with wall exceeding 1 cm in thickness. Two ochraceous endocarpic hemispheres approximately one quarter of a millimetre in thickness, brittle, fragile, juxtaposed longitudinally and fused together at the level of a basal protuberance. 176 seeds in a fruit, reaching 11 × 10 × 1.5 mm, with ochraceous testa. Placental pulp with a smell of green pickled cucumber and becoming fetid. White embryo 6 × 3 mm.
 
 ## Type
 
@@ -43,11 +39,9 @@ Briey 142 (holotype BR!), Ganda-Sundi, Mayombe congolais, herbier stérile compl
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense forest of low or medium altitude: Nigeria, Cameroon, Gabon, Cabinda and Congo, from Ouesso (Bouquet 1666) to Mayombe.
 
-Forêt dense de basse ou moyenne altitude : Nigeria, Cameroun, Gabon, Cabinda et Congo, de Ouesso (Bouquet 1666) au Mayombe.
-
-Pulpe placentaire du fruit extrêmement toxique; parfois utilisée en lavements comme vermifuge. Les fruits sont couramment employés après broyage pour empoisonner le poisson. Bois utilisé pour la confection d'arbalètes.
+Placental pulp of the fruit extremely toxic; sometimes used in enemas as an anthelmintic. Fruits commonly employed after grinding to poison fish. Wood used for the making of crossbows.
 
 ## Vernacular names
 

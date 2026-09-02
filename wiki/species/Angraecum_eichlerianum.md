@@ -17,73 +17,66 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Garay, Kew Bull. 28(3): 508 (1973); FAC 2: 470 (1992); FCAM 3: 896 (2001).
 
-Garay, Kew Bull. 28(3) : 508 (1973) ; FAC 2 : 470 (1992) ; FCAM 3 : 896 (2001).
+Stem < 500 cm. Leaves 6–15 × 1.5–4.5 cm, twisted at the base to lie in the same plane, oblong-elliptic to ovate-ligulate. Inflorescence 4–20 cm, 1–4-flowered. Flowers large, resupinate, sepals green, petals pale green, labellum green with white lateral lobes or entirely white, or flowers entirely white with the tips of floral parts greenish or brownish. Dorsal sepal narrowly lanceolate, acuminate. Petals and lateral sepals oblong-lanceolate to narrowly lanceolate, acute. Labellum 25–50 × 25–50 mm, channelled, trilobed; median lobe apiculate; lateral lobes large, semi-elliptic, obliquely ovate to almost rhombiform. Spur 23–40 mm, straight or geniculate towards the middle. – Pl. 225, p. 471.
 
-Tige < 500 cm. Feuilles 6-15 × 1,5-4,5 cm, tordues à la base pour se situer dans un même plan, oblongues-elliptiques, à ovées-ligulées. Inflorescence 4-20 cm, 1-4-flore. Fleurs grandes, résupinées, sépales verts, pétales vert clair, labelle vert à lobes latéraux blancs ou entièrement blanc, ou fleurs entièrement blanches avec le bout des pièces florales verdâtre ou brunâtre. Sépale dorsal étroitement lancéolé, acuminé. Pétales et sépales latéraux oblonges-lancéolés, à étroitement lancéolés, aïgus. Labelle 25-50 × 25-50 mm, canaliculé, trilobé ; lobe médian apiculé ; lobes latéraux grands, semi-elliptiques, obliquement ovés à presque rhombiformes. Eperon 23-40 mm, droit ou genouillé vers le milieu. – Pl. 225, p. 471.
-
-PL. 225. – Angraecum eichlerianum Kraenzl.: A, éperon et labelle étalés ; B, sépale dorsal ; C, pétale ; D, sépale latéral ; E-G, feuilles ; H, vue générale. – Angraecum eichlerianum Kraenzl. var. curvicalcaratum SZLACHETKO & OLSZ. : I, labelle et éperon, vue latérale, position naturelle ; J, éperon et labelle étalés (A-E, Hallé 3615, P ; F, Hallé 3512, P ; G, Letouzey 15120, P. ; H, ex SUMMERHAYES, 1968, modifié ; I, Hallé & Villiers 4964, P ; J, Jacques-Felix 4740, P).
+PL. 225. – Angraecum eichlerianum Kraenzl.: A, spur and labellum spread; B, dorsal sepal; C, petal; D, lateral sepal; E–G, leaves; H, general view. – Angraecum eichlerianum Kraenzl. var. curvicalcaratum SZLACHETKO & OLSZ.: I, labellum and spur, lateral view, natural position; J, spur and labellum spread (A–E, Hallé 3615, P; F, Hallé 3512, P; G, Letouzey 15120, P.; H, ex SUMMERHAYES, 1968, modified; I, Hallé & Villiers 4964, P; J, Jacques-Felix 4740, P).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte in riparian forest, Atlantic forest with Caesalpiniaceae, observed on Crescentia cujete, cocoa
 
-épiphyte en forêt rivulaire, forêt atlantique à Cesalpiniaceae, observé sur Crescentia cujete, cacaoyer
+alt. 650–1000 m
 
-alt. 650-1000 m
+MATERIAL STUDIED (Map 101):
 
-MATÉRIEL ÉTUDIÉ (Carte 101) :
+Breteler & De Wilde 546, Bélinga, iron mine, summit locally called 'Le Belvédère', (fl. Dec.), WAG!.
 
-Breteler & De Wilde 546, Bélinga, mine de fer., sommet localement appelé 'Le Belvédère',(fl. Déc.), WAG!.
+De Wilde, Arends & de Bruijn 9185, approximately 8 km N of Mayumba, near the Ocean, 3° 21' S, 10° 40' E (fl. Dec.), WAG!.
 
-De Wilde, Arends & de Bruijn 9185, environ 8 km N de Mayumba, pas loin de Océan, 3° 21' S, 10° 40' E (fl. Déc.), WAG!.
+Hallé 3068, 3512, 3615 & 3774, Bélinga (fl. June, Dec., Nov.), P!.
 
-Hallé 3068, 3512, 3615 & 3774, Bélinga (fl. Juin, Déc., Nov.), P!.
+Le Testu 5756, Mboumi waterfalls at Mbigou (fl. Nov.), P!.
 
-Le Testu 5756, chutes de la Mboumi à Mbigou (fl. Nov.), P!.
-
-J. M. & B. Reitsma 3015, environ 25 km NO d'Oveng, 0° 45' N, 11° 12" E (fl. Févr.), WAG!.
+J. M. & B. Reitsma 3015, approximately 25 km NW of Oveng, 0° 45' N, 11° 12" E (fl. Feb.), WAG!.
 
 b. var. curvicalcaratum Szlach. & Olsz.
 
 FCAM 3: 898 (2001)
 
-alt. inconnue
+alt. unknown
 
-MATÉRIEL ÉTUDIÉ (Carte 102) :
+MATERIAL STUDIED (Map 102):
 
-Hallé & Villiers 4964, Rocher Fané (fl. Févr.), P!.
+Hallé & Villiers 4964, Rocher Fané (fl. Feb.), P!.
 
-J. M. &. B. Reitsma & Louis 1905, Baré, environ 26 km de Médouneu, 0° 53' N, 10° 55' E (fl. Fév.), WAG!.
+J. M. & B. Reitsma & Louis 1905, Baré, approximately 26 km from Médouneu, 0° 53' N, 10° 55' E (fl. Feb.), WAG!.
 
-PL. 226. – Angraecum cribbianum Szlach. & Olsz.: A, fleur, tépales enlevés, et bractée ; B, labelle étalé ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Le Testu 5256, P).
+PL. 226. – Angraecum cribbianum Szlach. & Olsz.: A, flower, tepals removed, and bract; B, labellum spread; C, dorsal sepal; D, petal; E, lateral sepal; F, leaf (A–F, Le Testu 5256, P).
 
 6. Sect. Afrangraecum Summerh.
 
-Kew Bull. 13:276 (1958).
+Kew Bull. 13: 276 (1958).
 
-Tige allongée, feuillée. Inflorescence allongée, pluriflore, généralement plus courte que les feuilles axillantes. Fleurs plus ou moins charnues, apparaissant l'une après l'autre.
+Stem elongate, leafy. Inflorescence elongate, many-flowered, generally shorter than the axillant leaves. Flowers more or less fleshy, appearing one after another.
 
-1. Éperon atteignant 9 mm, labelle oblong-elliptique, apiculé ...52. 12. A. cribbianum 1'. Éperon de 11-16 mm, labelle largement ovale, faiblement trilobé, acuminé
+1. Spur reaching 9 mm, labellum oblong-elliptic, apiculate ... 52. 12. A. cribbianum
+1'. Spur 11–16 mm, labellum broadly ovate, weakly trilobed, acuminate
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce peut être divisée en deux variétés selon la taille et la forme de l'éperon
+This species can be divided into two varieties according to the size and shape of the spur
 
 a. var. eichlerianum
 
-Fleurs grandes, sépales > 40 mm, généralement 45-55 mm ; éperon droit.
+Flowers large, sepals > 40 mm, generally 45–55 mm; spur straight.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Congo
 
-Cameroun, Gabon, Congo
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Type
 
@@ -91,9 +84,7 @@ Jacques-Felix 4740, Cameroun, holo-P!
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fleurs plus petites, sépales < 40 mm, généralement 30-35 mm ; éperon genouillé vers la moitié de sa longueur. – Pl. 225, p. 471.
+Flowers smaller, sepals < 40 mm, generally 30–35 mm; spur geniculate towards the middle of its length. – Pl. 225, p. 471.
 
 ## Figures
 

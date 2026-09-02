@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 19 : 476 (1949).
 
-Arbuste à petit arbre de 5-10 m; tronc de 10 cm de diamètre. Rameaux jeunes tomentelleux à indûment fauve : poils frisé-laineux de 0,5 mm; bourgeons ovales, aigus, tomentelleux. Feuilles alternes, sub-opposées au sommet des rameaux; limbe verdâtre à gris-olivâtre, concolore; 7-10 paires de nervures secondaires tomentelleuses à la face inférieure. Fruit inconnu.
+Shrub to small tree of 5–10 m; trunk 10 cm in diameter. Young branches tomentellous with tawny indumentum: crisp-woolly hairs of 0.5 mm; buds ovate, acute, tomentellous. Leaves alternate, sub-opposite at the apex of branches; lamina greenish to grey-olivaceous, concolorous; 7–10 pairs of secondary veins tomentellous on the lower face. Fruit unknown.
 
 ## Type
 
@@ -28,9 +26,7 @@ Louis 15196. Yangambi, domaine forestier central du Congo ex-belge. Espèce scia
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce très caractéristique par sa pilosité et par les filets des étamines ailés et glabres à l'intérieur, d'où le nom spécifique.
+Species very characteristic in its hairiness and by the filaments of the stamens winged and glabrous on the inside, hence the specific name.
 
 ## Specimens examined
 

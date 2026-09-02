@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 73 (13): 20, 23, 26, 38, 45-48 (1973); l.c. 78 (10), 63, 70 (1978); l.c. 82 (8): 61 (1982); AUWP 86 (3): 2, 4, 13, 16 (1986).
 
-– Chailletia affinis PLANCH. ex BENTH., Niger Fl. : 276 (1849) ; OLIVER, FTA 1 : 341, syn. de C. toxicaria G. DON (1868) ; KEAY, FWTA ed. 2, 1(2) :438 (1958). TYPE : Guinée Equatoriale, Bioko, Vogel 149 (holo-, K ; iso-, UPS).
+– Chailletia affinis PLANCH. ex BENTH., Niger Fl.: 276 (1849); OLIVER, FTA 1: 341, syn. of C. toxicaria G. DON (1868); KEAY, FWTA ed. 2, 1(2): 438 (1958). TYPE: Equatorial Guinea, Bioko, Vogel 149 (holo-, K; iso-, UPS).
 
-– Dichapetalum dusenii ENGL., Nat. PflanzenFam. 3 (4): 348, nomen (1896); Bot. Jahrb. 23: 135 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 644 (1913), syn. de D. toxicarium (G. DON) BAILL. TYPE: Cameroun, s.l., Dusen 271 (holo-, B delet.; aucun isotype connu). NEOTYPE: Cameroun, Bipindi, Zenker 3160 (holo-, Z; iso-, B, BM, BR, COI, E, G, GOET, K, L, LISC, M, P, PRE, W, WU).
+– Dichapetalum dusenii ENGL., Nat. PflanzenFam. 3 (4): 348, nomen (1896); Bot. Jahrb. 23: 135 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 644 (1913), syn. of D. toxicarium (G. DON) BAILL. TYPE: Cameroon, s.l., Dusen 271 (holo-, B delet.; no isotype known). NEOTYPE: Cameroon, Bipindi, Zenker 3160 (holo-, Z; iso-, B, BM, BR, COI, E, G, GOET, K, L, LISC, M, P, PRE, W, WU).
 
-- D. fallax RUHL., Bot. Jahrb. 33 : 78 (1902); PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 644(1913), syn. de D. toxicarium (G. DON) BAILL. TYPE : Cameroun, Bipindi, Zenker 2444 (holo-, B. delet.; lecto-, L.; isolecto-, B, BM, BR, COI, E, G, GOET, K, M, P, W, WU, Z)
+- D. fallax RUHL., Bot. Jahrb. 33: 78 (1902); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 644 (1913), syn. of D. toxicarium (G. DON) BAILL. TYPE: Cameroon, Bipindi, Zenker 2444 (holo-, B. delet.; lecto-, L.; isolecto-, B, BM, BR, COI, E, G, GOET, K, M, P, W, WU, Z)
 
-Liane ou arbuste sarmenteux, parfois arbuste. Rameaux âgés glabres, lenticelles absentes ou très peu marquées. Jeunes rameaux souvent verts, sans lenticelles, munis de poils apprimés courts souvent épars puis en général très tôt glabrescents et presque toujours finement striés sur le sec.
+Liane or sarmentose shrub, sometimes a shrub. Old branches glabrous, lenticels absent or very poorly marked. Young branches often green, without lenticels, bearing short appressed hairs often scattered then generally very early glabrescent and almost always finely striate when dry.
 
-Stipules triangulaires à étroitement ainsi, munies de poils apprimés courts, les supérieures longues de 1,5-3 mm et les inférieures 1-2 mm, tôt caduques.
+Stipules triangular to narrowly so, bearing short appressed hairs, the upper ones 1.5–3 mm long and the lower ones 1–2 mm, early caducous.
 
-Feuilles. Pétiole canaliculé dessus, long de (5) 6-10 (16) mm quand il est libre, mais de (6) 11-17 (26) mm, quand il est soudé au pédoncule de l'inflorescence (le limbe est alors souvent réduit ou absent), muni de poils courts apprimés à l'état jeune. Limbe en général coriace sur le vivant, obové ou elliptique, parfois oblong, (1,5) 2-3 fois plus long que large, (6) 8-18 × (3) 4-7 (9) cm, base cunée ; acumen progressif à
+Leaves. Petiole channelled above, (5) 6–10 (16) mm long when free, but (6) 11–17 (26) mm when fused to the inflorescence peduncle (the lamina is then often reduced or absent), bearing short appressed hairs when young. Lamina generally coriaceous in life, obovate or elliptic, sometimes oblong, (1.5) 2–3 times longer than wide, (6) 8–18 × (3) 4–7 (9) cm, base cuneate; acumen progressive to abrupt terminated by an obtuse rounded or acute apex, 0.5–1.5 cm long, sometimes twisted; young lamina bearing scattered short appressed hairs, rapidly glabrescent; adult lamina glabrous or nearly so; upper surface sometimes with a few glands at the base; lower surface generally showing large glands near the midvein especially in the lower region and a few glands scattered over the rest of the lamina; nervure I depressed above at least toward the base, prominent below; nervures II, 4–6 on each side, most often presenting axillary acarodomatic villous patches on the lower surface.
 
-brusque terminé par une extrémité obtuse arrondie ou aiguë, long de 0,5-1,5, parfois tordu ; jeune limbe muni de poils épars courts et apprimés, rapidement glabrescent ; limbe adulte glabre ou presque ; face supérieure parfois pourvue de quelques glandes à la base ; face inférieure montrant en général de grandes glandes près de la nervure médiane surtout dans la région inférieure et quelques glandes dissé-minées sur le reste du limbe ; nervure I déprimée dessus au moins vers la base, proéminente dessous ; nervures II, 4-6 de chaque côté, présentant le plus souvent des acarodomaties axillaires villeuses à la face inférieure.
+Inflorescences 6–25-flowered, tomentose, subumbellate with short axes most often indistinct. Peduncle (6) 11–17 (26) mm long, fused entirely to the petiole, more rarely in part, and lamina of the subtending leaf often absent or strongly reduced (the petiole and peduncle are then distinguished by their respective indumentum, cf. fig. 9-3). Bracts and bracteoles deltoid, minute. Pedicel tomentose, lower part 2.5–4.5 mm long, upper part ≤ 1 mm.
 
-Inflorescences 6-25-flores, tomenteuses, subombellées avec des axes courts le plus souvent indistincts. Pédoncule long de (6) 11-17 (26) mm, soudé en totalité au pétiole, plus rarement en partie, et limbe de la feuille axillante souvent absent ou fortement réduit (le pétiole et le pédoncule se distinguent alors par leur indumentum respectif, cf. fig. 9-3). Bractées et bractéoles deltoïdes, minuscules. Pédicelle tomenteux, partie inférieure longue de 2,5-4,5 mm, partie supérieure ≤ 1 mm.
+Flower: calyx base obtuse. Sepals unequal, erect, nearly free, oblong, ovate-oblong or ovate-elliptic, (2.5) 3.5 × 1.5–2 (2.5) mm, flattened or slightly concave, rather thick especially at their base, rounded, obtuse or emarginate at the apex; external face finely tomentose, and thick, and thick, and thick, and
 
-Fleur : base du calice obtuse. Sépales inégaux, dressés, presque libres, oblongs, ovés-oblongs ou ovés-elliptiques, (2,5) 3,5 × 1,5-2 (2,5) mm, aplatis ou légèrement concaves, assez épais surtout à leur base, arrondis, obtus ou émarginés à l'apex ; face externe finement tomente, et de l'épais, et de l'épais, et de l'épais, et
-
-Fruits en général 1-spermes, obovoïdes avec une légère compression latérale, 3-4,2 × (1,9-3,2 × 1,7-2,7) cm, base largement obtuse à tronquée, sommet arrondi à obtus, terminé souvent par un mucron, parfois par un apicule court et brusque ; fruits glabres, lisses à l'état frais, finement ridés sur le sec ; loges avortées non ou à peine marquées par une côte difficile à voir ; exocarpe fin ; mésocarpe consistant, farineux, épais de ≤ 9 mm ; endocarpe formé d'une couche externe osseuse plissée, épaisse de 1 mm, doublée d'une fine couche interne délicatement striée, fibreuse et brillante. Graines ovoïdes, un peu com
-
-primées latéralement,  $ 2.5 \times 1.5 \, \text{cm} $; testa fin, brillant, glabre. – Pl. 5, p. 39.
+Fruits generally 1-seeded, obovoid with slight lateral compression, 3–4.2 × (1.9–3.2 × 1.7–2.7) cm, base broadly obtuse to truncate, apex rounded to obtuse, often terminated by a mucro, sometimes by a short abrupt apicule; fruits glabrous, smooth when fresh, finely wrinkled when dry; abortive locules not or scarcely marked by a rib difficult to see; exocarp fine; mesocarp firm, farinose, ≤ 9 mm thick; endocarp formed of an outer bony pleated layer, 1 mm thick, lined with a fine inner layer delicately striate, fibrous and glossy. Seeds ovoid, somewhat compressed laterally, 2.5 × 1.5 cm; testa fine, glossy, glabrous. – Pl. 5, p. 39.
 
 ## Type
 
@@ -49,21 +43,15 @@ Vogel 149, Bioko, Guinée Équatoriale
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-A la suite d'OLIVER, quelques auteurs ont considéré D. affine comme synonyme de D. toxicarium connu de la Guinée Occidentale au Ghana. Outre sa distribution totalement différente, D. affine se distingue de cette espèce occidentale par ses fruits glabres et dcs pétioles plus longs.
+Following OLIVER, some authors considered D. affine as a synonym of D. toxicarium known from West Guinea to Ghana. Apart from its completely different distribution, D. affine is distinguished from this western species by its glabrous fruits and longer petioles.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée Équatoriale, Cameroun, Gabon
+Equatorial Guinea, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+Ombrophilous forests
 
 ## Specimens examined
 

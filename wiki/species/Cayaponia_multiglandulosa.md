@@ -16,23 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante, monoïque; tige ramifiée, côtelée, ±glabre; racine vivace. Vrilles 2-fides, les deux branches inégales. Feuille: pétiole 4–5 cm, côtelé; limbe palmatilobé, à base décurrente sur le pétiole et munie de glandes, de 10–12 × 10–12 cm, membraneux, scabriduleux, vert foncé dessus, vert plus clair dessous, à lobes elliptiques, un peu lobulés sur les bords, sinus entre les lobes à profondeur moyenne de ±4 cm et de largeur de ±1 cm. Inflorescence à fleurs solitaires ou fasciculées. Fleur mâle: péticelle ±1 cm; réceptacle campanulé, de 8–10 × 6–7 mm, glabrescent; calice à lobes dentiformes, longs de 1–2 mm; corolle à lobes obovales, aigus au sommet, de 10–12 × 5 mm, pubérulents à l'extérieur, laineux à l'intérieur; étamines à filet fin, de 8–10 mm, glabre sauf dans la partie inférieure munie d'une touffe de poils, anthère extorse, longue de 6–8 mm, à loges tripiquées; pistillode absent. Fleur femelle: péticelle grêle; périanthe semblable à celui de la fleur mâle, mais corolle à lobes plus allongées; staminodes 3, ligulés, longs de ±1 mm; ovaire ovoïde, finement verruqueux, orné
-
-de poils glanduleux, à 1 ovule par loge; style ±droit, 6 mm, entouré à la base par 3 glandes nectarifères aplaties, un peu réfléchies, à stigmates cordiformes. Fruit: sec, obloïde, de ±2 × 1 cm, finement réticulé, glabre, à péricarpe très mince, renfermant 3 graines dressées. Graine largement ovoïde, de ±9 × 7 mm.
+Climbing herb, monoecious; stem branched, ribbed, ±glabrous; root perennial. Tendrils 2-fid, the two branches unequal. Leaf: petiole 4–5 cm, ribbed; lamina palmately lobed, with decurrent base on the petiole and furnished with glands, 10–12 × 10–12 cm, membranous, scabrulous, dark green above, lighter green below, with elliptic lobes, somewhat lobulate on the margins, sinuses between the lobes with mean depth of ±4 cm and width of ±1 cm. Inflorescence with solitary or fasciculate flowers. Male flower: pedicel ±1 cm; receptacle campanulate, 8–10 × 6–7 mm, glabrescent; calyx with tooth-like lobes, 1–2 mm long; corolla with obovate lobes, acute at the apex, 10–12 × 5 mm, puberulent on the exterior, woolly on the interior; stamens with fine filament, 8–10 mm, glabrous except in the lower part furnished with a tuft of hairs, anther extorse, 6–8 mm long, with tripinnate locules; pistillode absent. Female flower: pedicel slender; perianth similar to that of the male flower, but corolla with more elongate lobes; staminodes 3, ligulate, ±1 mm long; ovary ovoid, finely verrucose, adorned with glandular hairs, with 1 ovule per locule; style ±straight, 6 mm, surrounded at the base by 3 flattened nectariferous glands, somewhat reflexed, with cordate stigmas. Fruit: dry, oblong, ±2 × 1 cm, finely reticulate, glabrous, with very thin pericarp, containing 3 erect seeds. Seed broadly ovoid, ±9 × 7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Afrique de l'Ouest et centrale, du Sénégal jusqu'en République démocratique du Congo ; au Gabon : Haut-Ogooué et Ogooué-Lolo
+widespread in West and Central Africa, from Senegal to the Democratic Republic of the Congo; in Gabon: Haut-Ogooué and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-jachères, bords de route; au Gabon à ±500 m d'altitude, ailleurs jusqu'à 1100 m
+fallows, roadsides; in Gabon at ±500 m altitude, elsewhere up to 1100 m
 
 ## Bibliography
 

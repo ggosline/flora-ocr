@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Hippocratea yaundina LOES., Bot. Jahrb. 34: 117 (1904); EXELL & MENDONÇA, CFA 2(1): 19 (1954).
 
 - Loeseneriella yaundina (LOES.) HALLÉ, Monogr. Hipp. Afr. occid. Thèse, Paris : 98 (1958) ; Bull. IFAN, sér. A, 21 (3) : tab. 67 (1959) ; Pollen & Spores 2 (1) : 11 (1960) ; nom. nud.
 
-Liane de 5-10 m à écorce brun noirâtre ou grisâtre. Stipules réduites sur un mince bourrelet transversal. Pas de caoutchouc. Pétiole de 6-12 mm. Limbe entier ou confusément crénelé, subcoriace, roussâtre, vernissé dessus à sec, un peu rebordé, de (5)7-16×(2,5)3-8 cm ; base aiguë ou arrondie ; sommet à acumen de 3-9 mm. Nervures secondaires, 6-8 paires ; nervilles inégalement ou peu apparentes à sec.
+Liana 5–10 m long with dark brown or grayish bark. Stipules reduced to a thin transverse ridge. No latex. Petiole 6–12 mm. Blade entire or confusedly crenulate, subcoriaceous, reddish-brown, varnished on upper surface when dry, somewhat with raised margins, (5)7–16 × (2.5)3–8 cm; base acute or rounded; apex with acumen 3–9 mm. Secondary veins 6–8 pairs; tertiary veins unequally or scarcely apparent when dry.
 
-Inflorescences ramifiées dès la base ou fasciculées à cymes variables, de (2)3-10 cm ; axes principaux presque glabres ; ramifications roussâ-tres pubérulentes. Pédicelle ± pubérulent de 2-6 mm. Bouton glabre, oblong ovoïde, arrondi au sommet, à pétales quinconciaux imbriqués mais non cucullés au sommet. Fleurs verdâtres, blanchâtres, jaunes, jaunâtres ou orangées, de 10-12 mm de diamètre. Sépales brun vert suborbiculaires, largement imbriqués, ± scabres vers la base, un peu inégaux, larges de 2-2,5 mm, microciliolés. Pétales oblongs à marges amincies, verts à apex brun jaunâtre, ± décombants de 5-7 × 2 mm, micropubérulents ou presque glabres dessus, peu distinctement ciliolés. Disque en étroite cupule un peu cachée à la base de l'androgynophore globuleux charnu, de 2,8 mm de diamètre et 1,4 mm de hauteur, glabre. Filets rubanés de 1,5 mm ; anthères jaunes à fente subapicale extrorse, larges de 1 mm. Partie visible du pistil 2 mm ; style pyramidal ; loges semienfoncées contenant 9-16 ovules chacunes.
+Inflorescences branched from the base or fasciculate with variable cymes, (2)3–10 cm long; main axes almost glabrous; branches reddish-brown pubérulent. Pedicel ± pubérulent, 2–6 mm. Bud glabrous, oblong-ovoid, rounded at apex, with quincuncial imbricate petals not cucullate at apex. Flowers greenish, whitish, yellow, yellowish or orange, 10–12 mm in diameter. Sepals brownish-green, suborbicular, broadly imbricate, ± scabrous toward base, somewhat unequal, 2–2.5 mm wide, microciliolate. Petals oblong with thinned margins, green with yellowish-brown apex, ± spreading, 5–7 × 2 mm, micropubérulent or almost glabrous on upper surface, scarcely distinctly ciliolate. Disc a narrow cupule somewhat hidden at the base of the globose fleshy androgynophore, 2.8 mm in diameter and 1.4 mm high, glabrous. Filaments ribbon-like, 1.5 mm long; anthers yellow with subapical extrorse slit, 1 mm wide. Visible portion of pistil 2 mm; style pyramidal; locules semiimmersed, each containing 9–16 ovules.
 
-Méricarpes elliptiques de 8-10 × 3-4 mm, glabres. Graine atteignant 66 × 18 mm, à aile roux clair ; partie cotylédonée 30 × 5 mm ; cotylédons soudés ; étuis funiculaires 3 mm. - Pl. 70, fig. 1-16, p. 245.
+Mericarps elliptic, 8–10 × 3–4 mm, glabrous. Seed reaching 66 × 18 mm, with light reddish-brown wing; cotyledonary part 30 × 5 mm; cotyledons fused; funicular sheaths 3 mm. - Pl. 70, fig. 1–16, p. 245.
 
 ## Type
 
@@ -37,37 +35,35 @@ Rowland s.n., S Nigeria, W Lagos (B?; iso-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Central African Republic (Tisserant 297, 1218; Le Testu 4355), Congo (Descoings 8418), Zaïre from Mayombe to Kivu (Troupin 9348) and Cabinda (Gossweiler 7923, BM).
 
-Cameroun, Gabon, Centrafrique (Tisserant 297, 1218; Le Testu 4355), Congo (Descoings 8418), Zaïre du Mayombe au Kivu (Troupin 9348) et Cabinda (Gossweiler 7923, BM).
+Large heliophilous liana often encountered in central Africa in gallery forests and in ± swampy localities.
 
-Grande liane héliophile souvent rencontrée en Afrique centrale dans des forêts galeries et dans des stations ± marécageuses.
+Guinea (Roberty 7146, G), Sierra Leone (Jaeger 9885, G), Liberia (De Wilde J.J. 3746), Ivory Coast, Ghana, Nigeria, Cameroon, Central African Republic, Zaïre (Gérard 5541, Bambésa). To be searched for in Gabon and Congo.
 
-Guinée (Roberty 7146, G), Sierra Leone (Jaeger 9885, G), Liberia (De Wilde J.J. 3746), Côte-d'Ivoire, Ghana, Nigeria, Cameroun, Centrafrique, Zaïre (Gérard 5541, Bambésa). A rechercher au Gabon et au Congo.
+Heliophilous species of margins or semicaducifolia gallery forests, as well as in rocky localities between 150 and 900 m elevation.
 
-Espèce héliophile de lisières ou de galeries forestières semicaducifoliées, ainsi qu'en stations rocheuses entre 150 et 900 m d'altitude.
+MATERIAL STUDIED (Cameroon):
 
-MATÉRIEL ÉTUDIÉ (Cameroun):
+Asonganyi 76, Riv. Ndongze, 52 km SE Mbalmayo, Yaoundé region, 16.5.1980 (fl.).
 
-Asonganyi 76, Riv. Ndongze, 52 km SE Mbalmayo, rég. Yaoundé, 16.5.1980 (fl.).
-
-De Wilde J.J. 8169, Nkoemvone, 14 km Ebolowa-Ambam, 13.4.1975 (fl.).
+De Wilde J.J. 8169, Nkoemvone, 14 km Ebolowa–Ambam, 13.4.1975 (fl.).
 
 De Wilde W.c.s 2302, Nkolbisson, 8 km W Yaoundé, 600 m, 25.4.1964 (fl.).
 
-Leeuwenberg 5259, 10 km W Masok, Riv. Ehalé, 400 m, 30.3.1965 (fl.); 5298, 8 km W Masok, 400 m, 31.3.1965 (fl.); 6040, Nkolbisson, 7 km W Yaoundé, 900 m, 2.7.1965 (fl.); 9913, 2 km route Solé-Loum, 4.41 N, 4.49 E, 150 m, 26.5.1972 (fl.), WAG.
+Leeuwenberg 5259, 10 km W Masok, Riv. Ehalé, 400 m, 30.3.1965 (fl.); 5298, 8 km W Masok, 400 m, 31.3.1965 (fl.); 6040, Nkolbisson, 7 km W Yaoundé, 900 m, 2.7.1965 (fl.); 9913, 2 km Solé–Loum road, 4.41 N, 4.49 E, 150 m, 26.5.1972 (fl.), WAG.
 
-Letouzey 2030, Meteni, env. Yoko, 18.5.1959 (fl.); 5094, 2 km W Bange, route de Yokadouma, 21.5.1963 (fl.); 5295, Mwapak, région de Médoum, 17.6.1963 (fl.); 11918, Djadom, 23 km S Ngoila, rég. Souanké 10.2.1973 (fl.).
+Letouzey 2030, Meteni, environs of Yoko, 18.5.1959 (fl.); 5094, 2 km W Bange, Yokadouma road, 21.5.1963 (fl.); 5295, Mwapak, Médoum region, 17.6.1963 (fl.); 11918, Djadom, 23 km S Ngoila, Souanké region 10.2.1973 (fl.).
 
-Mezili 50, Ngboussa, 50 km Djoum-Oven, 16.11.1966 (fl.).
+Mezili 50, Ngboussa, 50 km Djoum–Oven, 16.11.1966 (fl.).
 
-Mildbraed 5513, Ebolowa, Dscha-Sangmelima, 2.6.1911 (fl.), HBG.
+Mildbraed 5513, Ebolowa, Dscha–Sangmelima, 2.6.1911 (fl.), HBG.
 
-Ngameni Kamga 153, pied du Mt. Ngoro, 38 km N Bafia, 1978 (fl.).
+Ngameni Kamga 153, foot of Mt. Ngoro, 38 km N Bafia, 1978 (fl.).
 
-Staudt 885, Johann-Albrechtshöhe (Kumba), acquis 1900 (fl.), BR, G.
+Staudt 885, Johann-Albrechtshöhe (Kumba), acquired 1900 (fl.), BR, G.
 
-Zenker & Staudt 289, Yaoundé, 800 m, 1890-1894 (fl.); 574 p.p., ibid. (fr.), BR.
+Zenker & Staudt 289, Yaoundé, 800 m, 1890–1894 (fl.); 574 p.p., ibid. (fr.), BR.
 
 ## Specimens examined
 

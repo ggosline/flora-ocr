@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub reaching 8 m in height and 20 cm in diameter. Internodes glabrous ± unequal, furrowed beneath the stipules; the latter erect triangular, ca. 7-10 × 5-7 mm, acute and with an axial bristle. Anisophylly frequently pronounced. Petiole 1.5-3 cm. Blade blackening when dry, elliptic, 11-25 × 4-9 cm, glabrous; base acute; apex attenuate lanceolate. (6) 8-11 pairs of secondary nerves; nervilles very scarcely distinct; axillary domatia sparsely puberulent.
 
-Arbuste atteignant 8 m de hauteur et 20 cm de diamètre. Entrençuds glabres ± inégaux, sillonnés sous les stipules; ces dernières érigées triangulaires, d'env. 7-10 × 5-7 mm, aiguës et arête axiale. Anisophyllie fréquemment sensible. Pétiole de 1,5-3 cm. Limbe nigrescent à sec. elliptique, de 11-25 × 4-9 cm, glabre; base aiguë; sommet atténué lancéolé. (6) 8-11 paires de nervures secondaires; nervilles très peu distinctes; domaties axillaires désément pubérulentes.
+Inflorescences pluri- or multiflorous at the ends of lateral branches. Axes micropuberulent to glabrous, compressed when dry. Bracts generally less than 8 mm, acute, with 2 lateral stipular lobes acute. Pedicels 5-15 mm ± puberulent. Bud very acute. Flowers fragrant. Calyx green obconic puberulent with erect ovate ample lobes, 8-12 × 6-9 mm, ± glabrous, with recurved margin on the overlapping side, with apex arched outwardly and acute. Corolla white 4 cm in diameter, pubescent externally, glabrous internally, with tube 10-18 mm in length, with attenuate acute lobes 16-25 × 4-7 mm. Anthers pale yellow before dehiscence, subsessile, nearly basifixed, exserted, inserted at the throat, ca. 11-15 × 1.6 mm, attenuate and with apex very acute, curved outwardly and showing the locelli very numerous, less than 1 mm, dehiscing before anthesis. Annular disc yellow. Style pale yellow villous, with pubescence mixed with pollen, ca. 3 cm in length, with 2 stigmatic lobes ca. 1 cm, very attenuate, arcuate-divergent. Ovary with 2 locules and outer wall reaching 1.5-2 mm in thickness.
 
-Inflorescences pluri ou multiflores aux extrémités de rameaux latéraux. Axes micropubérulents à glabres, comprimés à sec. Bractées généralement inférieures à 8 mm, aiguës, à 2 lobes latéraux stipulaires aigus. Pédicelles de 5-15 mm ± pubérulents. Bouton très aigu. Fleurs odorantes. Calice vert obconique pubérulent à lobes érigés, ovés, amples, de 8-12 × 6-9 mm, ± glabres, à rebord enroulé du côté recouvrant, à sommet arqué extérieurement et aigu. Corolle blanche de 4 cm de diam., pubescente extérieurement, glabre à l'intérieur, à tube de 10-18 mm de longueur, à lobes atténués aigus de 16-25 × 4-7 mm. Anthères jaune pâle avant la déhiscence, subsessiles, presque basifixes, exsertes, insérées à la gorge, d'env. 11-15 × 1,6 mm, atténuées et à sommet très aigu, recourbées extérieurement et montrant les locelles très nombreuses, de moins de 1 mm, déhiscentes avant l'anthèse. Disque annulaire jaune. Style jaune pâle velu, à pubescence mêlée de pollen, long d'env. 3 cm, à 2 lobes stigmatiques d'env. 1 cm, très atténués, arqués-divergents. Ovaire à 2 loges et à paroi extérieure atteignant 1,5-2 mm d'épaisseur.
-
-Fruit subspérique de 10-22 mm, lisse, à sépales dressés contortés, à surface noire contractée en fines sinuosités sur le sec. Graines noires brillantes de 1,8 mm, plus de 250 dans un fruit.
+Fruit subspheric 10-22 mm, smooth, with erect contorted sepals, surface black contracted into fine sinuosities when dry. Seeds black shining 1.8 mm, more than 250 in a fruit.
 
 ## Type
 
@@ -31,9 +29,7 @@ Welwitsch 2561 (BM! K!, isotype P!), Golungo Alto, Angola (fl.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est répandue de haute Guinée (Macenta) jusqu'en Angola et Uganda.
+The species is widespread from Upper Guinea (Macenta) to Angola and Uganda.
 
 ## Specimens examined
 

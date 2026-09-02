@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Exomicrum excavatum Tiegh., Ann. Sci. Nat. , sér. 8, Bot. 16 : 340 (déc. 1902). Arbuste ou petit arbre atteignant 6 m de hauteur ; rameaux à écorce vert blanchâtre. Stipules persistantes, triangulaires, 2–6(–10) mm de longueur. Feuille : pétiole 3–5(–7) mm ; limbe étroitement elliptique à étroitement elliptique-obovale, 9–17(–19) × 2–4(– 5) cm, ratio 3–4(–6), cunéé à étroitement cunéé à la base, aigu à acuminé au sommet, coriace, distinctement bullé, à marge serretée , notamment dans la partie supérieure, ou rarement presque entière ; nervure principale proéminente sur les deux faces, nervures latérales en 8 à 15(–19) paires, proéminentes dessus, mais situées dans un sillon , proéminentes dessous, formant un angle léger avec la nervure principale , nervation tertiaire scalariforme, perpendiculaire à la nervure principale, très distincte sur les deux faces ou parfois légèrement distincte dessous. Inflorescence terminale, simple ou parfois ramifiée, lâche, l’axe principal aplati à cylindrique, (2–)4–10(–14) cm ; écailles gemmaires absentes ; racèmes 0 à 2(–4), 2–4(–8) cm de longueur ; cymules distantes de 0,5–1,5 cm, 1- à 4(–6)-flores. Fleur : pédicelle (4–)7–10 mm, articulé à 1–3 mm de la base ; sépales étroitement ovales , 5–7 × 1,5–2 mm en fleur, 6–8 × 2–3 mm en fruit, tron qués à la base, arrondis au sommet ; pétales obovales, 6–7 × 3–4 mm, cunéés à la base, arrondis au sommet ; étamines : anthères 4–6 mm de longueur ; style 4–5 mm. Fruit : réceptacle 4–6 × 5–6 mm ; drupéoles 1 ou 2 bien développés par réceptacle, largement ellipsoïdes à largement réniformes , 7–12 × 6–10 mm ; cotylédons incombants, inégaux à petit cotylédon externe.
+Exomicrum excavatum Tiegh., Ann. Sci. Nat., sér. 8, Bot. 16: 340 (Dec. 1902). Shrub or small tree reaching 6 m in height; branches with whitish-green bark. Stipules persistent, triangular, 2–6(–10) mm long. Leaf: petiole 3–5(–7) mm; blade narrowly elliptic to narrowly elliptic-obovate, 9–17(–19) × 2–4(–5) cm, ratio 3–4(–6), cuneate to narrowly cuneate at base, acute to acuminate at apex, coriaceous, distinctly bullate, with serrate margin, especially in upper part, or rarely almost entire; midvein prominent on both surfaces, lateral veins in 8 to 15(–19) pairs, prominent above but situated in a groove, prominent below, forming a slight angle with midvein, tertiary venation scalariform, perpendicular to midvein, very distinct on both surfaces or sometimes slightly distinct below. Inflorescence terminal, simple or sometimes branched, lax, main axis flattened to cylindric, (2–)4–10(–14) cm; bud scales absent; racemes 0 to 2(–4), 2–4(–8) cm long; cymules distant 0.5–1.5 cm apart, 1- to 4(–6)-flowered. Flower: pedicel (4–)7–10 mm, articulate 1–3 mm from base; sepals narrowly ovate, 5–7 × 1.5–2 mm in flower, 6–8 × 2–3 mm in fruit, truncate at base, rounded at apex; petals obovate, 6–7 × 3–4 mm, cuneate at base, rounded at apex; stamens: anthers 4–6 mm long; style 4–5 mm. Fruit: receptacle 4–6 × 5–6 mm; drupels 1 or 2 well developed per receptacle, broadly ellipsoid to broadly reniform, 7–12 × 6–10 mm; cotyledons incumbent, unequal with small external cotyledon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, sud de la République centrafricaine, Guinée équatoriale, Gabon et République du Congo ; au Gabon, rare, connue du Haut-Ogooué, de la Ngounié, de l’Ogooué-Lolo et du Woleu-Ntem
+Cameroon, southern Central African Republic, Equatorial Guinea, Gabon and Republic of the Congo; in Gabon, rare, known from Haut-Ogooué, Ngounié, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, forêt sur pente ; au Gabon, à 400–450 m d’altitude, ailleurs aussi à des altitudes plus basses. Usage : Les feuilles écrasées avec les graines d’ Aframomum melegueta sont pulvérisées et frottées dans des scarifications (Neuwinger 2000). b : Bissiengou (2014), Farron (1963, 1965, 1985). ibliographie
+primary and secondary forest, forest on slope; in Gabon, at 400–450 m altitude, elsewhere also at lower altitudes. Use: The crushed leaves with seeds of Aframomum melegueta are powdered and rubbed into scarifications (Neuwinger 2000). b: Bissiengou (2014), Farron (1963, 1965, 1985). ibliography
 
 ## Notes
 

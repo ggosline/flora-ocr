@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 16 m de hauteur, caducifolié, monoïque ; tronc à contreforts courts ; écorce grise, lisse ; bois blanc, tranche marbrée de brun clair ; rameaux à pubescence blanche clairse-
-
-mée sur les jeunes, glabrescents. Stipules étroitement elliptiques-ovales, longues de 3–7 mm, s’étendant faiblement en deçà du point d’attache, ± pubescentes. Feuille : pétiole de 4–10 mm ; limbe étroitement elliptique-obovale, symétrique , de 5,5–10 × 2–6,5 cm, largement cunéé à arrondi ou subcordé et légèrement asymétrique à la base, acuminé sur 15–25 mm, à marge entière ou dentée dans la moitié supérieure, faiblement à fortement coriace, ponctué, mais lisse et ± brillant et jamais scabre dessus, glabre ou légèrement pubescent dessous, triplinervé ; nervures secondaires inférieures s’étendant presque jusqu’à l’apex , 1 à 3 paires de nervures secondaires supérieures, nervation tertiaire scalariforme-réticulée. Inflorescence à l’aisselle des feuilles vers les extrémités des rameaux, les supérieures généralement courtes avec plusieurs fleurs bisexuées, les inférieures longues de 5–30 mm, à nombreuses fleurs mâles groupées et quelques fleurs femelles et bisexuées à l’apex des axes. Fleur : tépales longs de 2–4 mm, pubescents ; ovaire glabre, à anneau basal de poils longs ; styles 2, très courtement ramifiés , de 1,5–3 mm. Fruit à pédicelle de 3–7 mm et trapu, ovoïde, de 7–12 × 7–10 mm, rouge à noir à maturité, glabre.
+Tree reaching 16 m in height, deciduous, monoecious; trunk with short buttresses; bark grey, smooth; wood white, section marbled with pale brown; branches with white pubescence sparse on young growth, glabrescent. Stipules narrowly elliptic-ovate, 3–7 mm long, extending slightly below the point of attachment, ± pubescent. Leaf: petiole 4–10 mm; lamina narrowly elliptic-obovate, symmetric, 5.5–10 × 2–6.5 cm, broadly cuneate to rounded or subcordate and slightly asymmetric at the base, acuminate for 15–25 mm, margin entire or dentate in the upper half, weakly to strongly coriaceous, punctate but smooth and ± lustrous and never scabrous above, glabrous or slightly pubescent below, triplinerved; lower secondary nerves extending almost to the apex, 1 to 3 pairs of upper secondary nerves, tertiary venation scalariform-reticulate. Inflorescence in the axils of leaves towards the branch extremities, the upper ones generally short with several bisexual flowers, the lower ones 5–30 mm long, with numerous grouped male flowers and a few female and bisexual flowers at the apex of the axes. Flower: tepals 2–4 mm long, pubescent; ovary glabrous, with a basal ring of long hairs; styles 2, very shortly branched, 1.5–3 mm. Fruit with pedicel 3–7 mm and stout, ovoid, 7–12 × 7–10 mm, red to black at maturity, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l’Afrique tropicale, dont le Nigéria, Sao Tomé et Principe, le Cameroun, la Gui née équatoriale, le Gabon, la République du Congo, la République démocratique du Congo, la République Centrafricaine et l’Angola ; au Gabon : Nyanga
+known from tropical Africa, including Nigeria, São Tomé and Príncipe, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic and Angola; in Gabon: Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières ou parties les plus sèches de la forêt ; au Gabon à 75–200 m d’altitude, ailleurs jusqu’à 2000 m
+forest margins or driest parts of the forest; in Gabon at 75–200 m altitude, elsewhere up to 2000 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce fait partie du complexe de C. philippensis Blanco qui s’étendant en Asie (tropicale), l’Indonésie, l’Australie et le Pacifique nord jusqu’en Micronésie et sud jusqu’en Polynésie orientale. Dans certaines flores africaines, ce complexe est traité comme une seule espèce variable et à large distri bution, tandis que dans d’autres, il est divisé en plusieurs taxons. Dans une étude détaillée du complexe (Sattarian & Wieringa, 2006), il a été divisé finalement en cinq espèces distinctes, C. prantlii étant l’espèce de l’Afrique occidentale
+This species is part of the C. philippensis Blanco complex which extends through Asia (tropical), Indonesia, Australia and the north Pacific to Micronesia and south to eastern Polynesia. In some African floras, this complex is treated as a single variable species with broad distribution, while in others it is divided into several taxa. In a detailed study of the complex (Sattarian & Wieringa, 2006), it was finally divided into five distinct species, C. prantlii being the western African species
 
 ## Bibliography
 

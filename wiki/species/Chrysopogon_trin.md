@@ -15,11 +15,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 10.1 Chrysopogon aciculatus (Retz.) Trin.
 
-Fl. Gab.: 150; FWTA: 468; Gram. Cam.: 412; Poac. CI.: 486, 487.
+Fl. Gab.: 150; FWTA: 468; Gram. Cam.: 412; Poac. Cl.: 486, 487.
 
 ## Specimens examined
 

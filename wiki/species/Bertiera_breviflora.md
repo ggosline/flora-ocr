@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.80 to 4 m tall, with short pubescence. Stipules acute, 10–22 × 2–8 mm, somewhat pubescent. Petioles pubescent, 2–7 mm. Lamina moderately pubescent or glabrous above, dull when dry, 5–15 × 2–7 cm, with acute base; apex acute to subacuminate. Midvein and sometimes secondary veins pubescent on the upper surface. 5–9 pairs of secondary veins. Veinlets forming a fine striolate reticulum.
 
-Arbrisseau de 0,80 à 4 m de hauteur, à pubescence rase. Stipules aiguës de 10-22 × 2-8 mm, un peu pubescentes. Pétioles pubescents de 2-7 mm. Limbe médiocrement pubescent ou glabre dessus, terne à sec, de 5-15 × 2-7 cm, à base aiguë; sommet aigu à subacuminé. Médiane et parfois nervures secondaires pubescentes à la face supérieure. 5-9 paires de nervures secondaires. Nervilles en fin réseau striolé.
+Inflorescences erect or somewhat drooping at the extremities of horizontal branches, 6–16 cm long, with a peduncle of 2–7 cm. Rachis broken at the ramifications, which are most often alternate. 3–5 divaricate forked ramifications with a bract sometimes somewhat recaulescent on the peduncle. The two floriferous branches of each cyme bear 3 to about thirty flowers arranged unilaterally in a staircase pattern. Flowers sessile, 5–6 mm long, pale green. Bud capitate, obtuse or scarcely acute. Calyx pilose with 5 subequal ovate or oblong lobes, 1–2 × 0.5–0.9 mm, with apex ‡ obtuse. Corolla hirsute toward the apex, glabrous toward the base. Internal pubescence absent in the throat at the level of the anther apexes but abundant and arranged in a ring below that level. Anthers 1.6–2.1 mm, with apex short, ca. 0.2 mm. Disc short, reaching approximately the base of the calyx lobes.
 
-Inflorescences tendues ou + retombantes aux extrémités des
-
-rameaux horizontaux, longues de 6-16 cm dont le pédoncule de 2-7 cm. Rachis brisé aux ramifications qui sont le plus souvent alternes. 3-5 ramifications fourchues divariquées à bractée parfois un peu recaulescente sur le pédoncule. Les deux rameaux florifères de chaque cyme présentent de 3 à une trentaine de fleurs unilatéralement échelonnées. Fleurs sessiles de 5-6 mm de longueur, vert clair. Bouton capité obtus ou à peine aigu. Calice pileux à 5 lobes subégaux ovés ou oblongs de 1-2 × 0,5-0,9 mm, à sommet ‡ obtus. Corolle hirsute vers le sommet, glabre vers la base. Pubescence interne nulle dans la gorge au niveau du sommet des anthères mais fournies et disposée en anneau sous le niveau inférieur de celle-ci. Anthères de 1,6-2,1 mm, à apex court d'env. 0,2 mm. Disque court atteignant à peu près la base des lobes du calice.
-
-Fruit mũi rouge vif, succulent, sphérique, de 9-11 mm de diam.
+Fruit red-bright, succulent, spherical, 9–11 mm diam.
 
 ## Type
 
@@ -33,11 +29,9 @@ Barter 3292 (K!), du Nigeria, et Mann 923 (K!), Gaboon River
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In semi-shaded secondary bush and more rarely in dense forest, where the tallest individuals are encountered.
 
-En brousse secondaire semi-ombragée et plus rarement en forêt dense où l'on rencontre les pieds les plus élevés.
-
-De Guinée occidentale jusqu'au Ghana, au Nigeria, Cameroun, Fernando-Po, Gabon et Congo jusqu'au Kivu.
+From West Guinea to Ghana, Nigeria, Cameroon, Fernando-Po, Gabon, and Congo to Kivu.
 
 ## Specimens examined
 

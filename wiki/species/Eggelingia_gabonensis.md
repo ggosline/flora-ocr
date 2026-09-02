@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 In Cribb & al., Kew Bull. 44(3) : 479 (1989). – TYPE : De Wilde, Arends & al. s.n., Gabon, holo-WAG!, iso-K!. – FCAM 3 : 690 (2001).
 
-Tiges 6-10 cm, comprimées latéralement. Feuilles 1,2-4 x 0,1-2,5 cm, tordues à la base pour se situer dans un même plan, linéaires, bilobées au sommet. Inflorescence 0,2-0,3 cm, 1-2-flore. Fleurs petites, résupinées, blanches, translucides. Sépale dorsal et pétales elliptiques, obtus. Sépales latéraux obliquement ovés, aigus. Labelle de 3 x 2,5-3 mm, mince, trilobé, étendu vers l'avant ; lobe médian plus long que les latéraux, linéaire-lancéolé ou ligulé-lancéolé, aigu ; lobes latéraux triangulaires falciformes, aigus, divergents. Éperon 2 mm, claviforme, obtus, droit. – Pl. 161, p. 357.
+Stems 6–10 cm, laterally compressed. Leaves 1.2–4 × 0.1–2.5 cm, twisted at the base to lie in the same plane, linear, bilobate at the apex. Inflorescence 0.2–0.3 cm, 1–2-flowered. Flowers small, resupinate, white, translucent. Dorsal sepal and petals elliptic, obtuse. Lateral sepals obliquely ovate, acute. Labellum 3 × 2.5–3 mm, thin, trilobate, extended forward; median lobe longer than the lateral ones, linear-lanceolate or ligulate-lanceolate, acute; lateral lobes triangular falcate, acute, divergent. Spur 2 mm, claviform, obtuse, straight. – Pl. 161, p. 357.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 570 m. Epiphytic
 
-alt. 570 m. Épiphyte
+MATERIAL STUDIED (Map 76) :
 
-MATÉRIEL ÉTUDIÉ (Carte 76) :
-
-De Wilde, Arends & al. s.n., Monts de Cristal, 10 km sur la route Kinguélé-Tchimbélé, WAG!, K.
+De Wilde, Arends & al. s.n., Cristal Mountains, 10 km along the Kinguélé–Tchimbélé road, WAG!, K.
 
 ## Figures
 

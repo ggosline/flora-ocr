@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 3, 24(1) : 50 (2002). Liane ± grêle, à tige atteignant jusqu’à 1 cm de diamètre, glabre sauf pour les domaties pileuses et une pubérulence éparse sur l’inflorescence et les lobules du calice . Feuilles trifoliolées , opposées ; pétiole souvent géniculé, subcylindrique, ridé à canaliculé dessus, 2–4(– 5) cm ; folioles à pétiolule ridée dessus, 1–3 cm pour la foliole terminale et (1–)2–3(–5) mm pour les latérales, à limbe elliptique, 2–2,5(–3) fois plus long que large, ± coriace, 9–16 × 3–8 cm pour la foliole terminale, (4–)5–14 × (1–)2–6 cm pour les latérales, arrondi à courtement cunéé à la base, acuminé sur jusqu’à 1,5 cm et aigu à mucroné au sommet ; nervure médiane et les (3–)4 ou 5(–6) paires de nervures latérales imprimés dessus, proéminentes dessous ; doma ties présentes, plus nombreuses sur la foliole terminale que sur les latérales. Inflorescence cauliflore et/ou axillaire , cymeuse, pauci- à pluriflore, éparsement pubérulente ; pédoncule 2–6 mm ; bractées étroitement triangulaires, 1–3 mm de longueur. Fleur : calice à tube de 1,5–3 mm de longueur, à marge ondulée ou à 5 ou 6 lobules éparsement pubérulents ; corolle ± 30 mm de longueur, blanche, glabre, à tube de 15–17 mm de longueur, à 6 lobes oblongs-lancéo lés, de 12–13 × 3–4 mm, aigus au sommet ; étamines insérées vers le sommet du tube, filets < 1 mm, anthères apiculées, 3,5–5 mm de longueur ; ovaire 1,5-2 mm de longueur, glabre ; style 2,5–3 mm, stigmate 4 mm de longueur. Fruit inconnu.
+Adansonia, sér. 3, 24(1): 50 (2002). Liane ± slender, with stem reaching up to 1 cm in diameter, glabrous except for pilose domatia and scattered puberulence on the inflorescence and calyx lobules. Leaves trifoliolate, opposite; petiole often geniculate, subcylindric, wrinkled to canaliculate above, 2–4(–5) cm; leaflets with petiolule wrinkled above, 1–3 cm for the terminal leaflet and (1–)2–3(–5) mm for the lateral ones, with elliptic blade, 2–2.5(–3) times longer than wide, ± coriaceous, 9–16 × 3–8 cm for the terminal leaflet, (4–)5–14 × (1–)2–6 cm for the lateral ones, rounded to shortly cuneate at the base, acuminate for up to 1.5 cm and acute to mucronate at the apex; midvein and the (3–)4 or 5(–6) pairs of lateral nerves impressed above, prominent below; domatia present, more numerous on the terminal leaflet than on the lateral ones. Inflorescence cauliflorous and/or axillary, cymose, few- to many-flowered, sparsely puberulent; peduncle 2–6 mm; bracts narrowly triangular, 1–3 mm long. Flower: calyx with tube 1.5–3 mm long, with undulate margin or with 5 or 6 sparsely puberulent lobules; corolla ± 30 mm long, white, glabrous, with tube 15–17 mm long, with 6 oblong-lanceolate lobes, 12–13 × 3–4 mm, acute at the apex; stamens inserted towards the apex of the tube, filaments < 1 mm, anthers apiculate, 3.5–5 mm long; ovary 1.5–2 mm long, glabrous; style 2.5–3 mm, stigma 4 mm long. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu de l’Estuaire et du Woleu-Ntem
+endemic to Gabon, known from the Estuary and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêt primaire et secondarisée ; jusqu’à 300 m d’altitude. B : Breteler (2002). i B liographie
+Primary and secondarized forest; up to 300 m altitude. B: Breteler (2002). Bibliography
 
 Jasminum 9 Meise (©).
 

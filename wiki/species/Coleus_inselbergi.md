@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou vivace à courte durée de vie, de 0,4–0,7(–1,2) m de hauteur ; tige dressée ou ascendante, rarement rampante, peu à densément pubescente à petit poils recourbés ou diversement orientés et blancs, à glandes éparses, sessiles, rougeâtres. Feuille : généralement sessile ou très rarement à pétiole de (0,5–)1(–2,5) mm ; limbe étroitement obovale à elliptique-ovale ou plus rarement étroitement ou largement ovale, de (0,7–)1,5–4(–6,5) × (0,3– )0,6–1,5(–2,6) cm, légèrement succulent, cunéé à atténué à la base, obtus au sommet, partie distale légèrement dentée, entier vers la base, presque glabre à densément pubescent à glandes sessiles rougeâtres dessous. Inflorescence généralement condensée vers le sommet, lâche vers la base et à verticillastres distants de 5–15 mm en fruit ; cymes sessiles ou parfois courtement pédonculées, le plus souvent compactes, rarement de plus en plus distantes et lâchement ramifiées en fruit, généralement avec 5 à 9 fleurs ; bractées dressées dans la partie sommitale, légèrement cucullées, longues de 5 mm. Fleur : pédicelle 2–5 mm ; calice long de 1–2 mm, de 4–5 mm en fruit, à poils blancs, étalés, et quelques glandes rouges dispersées sessiles, lèvre supérieure ovale, aiguë et fortement réfléchie au sommet, lèvre inférieure à lobes latéraux incurvés, étroitement triangulaires, apex aigu, la paire médiane soudée, formant un lobe ovale-oblong, émarginé, courbé vers le haut à maturité et fermant la gorge ; corolle longue de 6–12 mm, mauve ou violette, toute la surface uniformément munie de glandes sessiles rouges, tube long de 3–6 mm, légèrement à nettement sigmoïde, lèvre supérieure dressée ou réfléchie, lèvre inférieure longue de 3–6 mm, cucullée et renfermant les étamines ; étamines à filets fusionnés. Fruit : akènes ovoïdes, longs de 1 mm, bruns, tachetés de rougeâtre.
+Annual or short-lived perennial herb, 0.4–0.7(–1.2) m tall; stem erect or ascending, rarely creeping, sparsely to densely pubescent with short curved or variously oriented white hairs, with scattered sessile reddish glands. Leaf: generally sessile or very rarely with petiole (0.5–)1(–2.5) mm; blade narrowly obovate to elliptic-ovate or more rarely narrowly or broadly ovate, (0.7–)1.5–4(–6.5) × (0.3–)0.6–1.5(–2.6) cm, slightly succulent, cuneate to attenuate at base, obtuse at apex, distal part slightly dentate, entire toward base, nearly glabrous to densely pubescent with reddish sessile glands beneath. Inflorescence generally condensed toward apex, lax toward base with verticillasters distant 5–15 mm in fruit; cymes sessile or sometimes shortly pedicellate, most often compact, rarely increasingly distant and loosely branched in fruit, generally with 5 to 9 flowers; bracts erect in upper part, slightly cucullate, 5 mm long. Flower: pedicel 2–5 mm; calyx 1–2 mm long, 4–5 mm in fruit, with white spreading hairs and a few scattered sessile red glands, upper lip ovate, acute and strongly reflexed at apex, lower lip with incurved lateral lobes, narrowly triangular, apex acute, median pair fused, forming an ovate-oblong lobe, emarginate, curved upward at maturity and closing the throat; corolla 6–12 mm long, mauve or violet, entire surface uniformly furnished with sessile red glands, tube 3–6 mm long, slightly to distinctly sigmoid, upper lip erect or reflexed, lower lip 3–6 mm long, cucullate and enclosing the stamens; stamens with fused filaments. Fruit: achenes ovoid, 1 mm long, brown, spotted with reddish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale et Gabon ; au Gabon : Woleu-Ntem et Ogooué-Ivindo. Statut de conservation : La distribution est très limitée, les populations sont sévèrement fragmentées et l’habitat est sous pression ; probablement En danger (EN)
+Equatorial Guinea and Gabon; in Gabon: Woleu-Ntem and Ogooué-Ivindo. Conservation status: The distribution is very limited, populations are severely fragmented and habitat is under pressure; probably Endangered (EN)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Inselbergs ou roches exposées ; à 500–750 m d’altitude. B : Morales (2011), Pollard et al. (2006), Vande weghe et al. (2016). i B liographie
+Inselbergs or exposed rocks; at 500–750 m elevation. B: Morales (2011), Pollard et al. (2006), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

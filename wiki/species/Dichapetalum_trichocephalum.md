@@ -27,35 +27,29 @@ Le Testu 8779, Lécala, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana (?). Young and mature branches with dense brown-velvet pubescence.
 
-Liane (?). Rameaux jeunes et âgés avec pubescence brun-velouté, dense.
+Stipules appressed, fairly persistent, pinnately or palmately partite into narrow and triangular to subulate segments, lobed to dentate, of broadly ovate general shape, 9-16 × 9-14 mm, velvety on the exterior, furnished with short stiff appressed hairs on the interior and glabrescent with age.
 
-Stipules apprimées, assez persistantes, pennati- ou palmatipartites en segments étroits et triangulaires à subulés, lobés en dentés, de forme générale large et subovée, 9-16 × 9-14 mm, veloutées à l'extérieur, munies de courts poils raides et apprimés à l'intérieur et glabrescentes avec l'âge.
+Leaves. Petiole 2-5 mm long, subcylindric, with dense velvet pubescence. Blade obovate, 2-2.5 times longer than wide, 12-27 × 5-10 cm; base obtuse to subcordate and generally asymmetric, acute acumen 0.5-1.5 cm long; young leaves with velvet pubescence on both faces, denser on the primary vein and main secondary veins, early caducous above except generally on the primary vein somewhat impressed, persistent below; secondary veins II, 7-12 pairs, rather inconspicuous above, prominent below; glands only below, small, very inconspicuous, often numerous and fairly well distributed.
 
-Feuilles. Pétiole long de 2-5 mm, subcylindrique, pubescence veloutée dense. Limbe obové, 2-2,5 fois plus long que large, 12-27 × 5-10 cm ; base obtuse à subcordée et en général dissymétrique, acumen aigu, long de 0,5-1,5 cm ; jeunes feuilles avec pubescence veloutée sur les deux faces, plus dense sur la nervure I et les principales nervures II, tôt caduque dessus sauf en général sur la nervure I un peu imprimée, persistante dessous ; nervures II, 7-12 paires, assez peu visibles dessus, proéminentes dessous ; glandes seulement dessous, petites, très peu visibles, souvent nombreuses et assez bien réparties.
+Inflorescences in subspheric pedunculate capitula, ≈ 8-15-flowered, with dense pubescence. Peduncle 2-3 cm, velvety. Bracts and bracteoles generally curved, narrow and triangular, 2.5-8 × 0.5-1.5 mm; pubescence velvety externally, often less dense internally; margin often dentate; the lowermost bracts sometimes situated on the peduncle, clearly below the capitulum at anthesis (Pl. 54. 1. p. 181).
 
-Inflorescences en capitules pédonculés subsphériques, ≈ 8-15-flores, pubescence dense. Pédoncule 2-3 cm, velouté. Bractées et bractéoles en général courbées, étroites et triangulaires, 2,5-8 × 0,5-1,5 mm ; pubescence externe veloutée, interne souvent moins dense ; marge souvent dentée ; bractées les plus inférieures parfois situées sur le pédoncule, nettement au-dessous du capitule à la floraison (Pl. 54. 1. p. 181).
+Flowers sessile or nearly so and pedicel not articulate. Sepals suberect, briefly united at their base, oblong, 2-3 × 1 mm; pubescence dense and velvety externally, sparse and puberulent internally especially in the upper part. Petals suberect, united at their base to the filaments by a short tube of 1 mm, itself fused to the calyx, of narrow obovate general shape, 3-4 mm long, split for 1-1.5 mm; appressed hairs especially on the external face of the lobes, interior glabrous; lobes concave and cucullate.
 
-Fleurs sessiles ou presque et pédicelle non articulé. Sépales subérigés, courtement unis par leur base, oblongs, 2-3 × 1 mm ; pubescence externe dense et veloutée, interne éparse et pubérulente surtout dans la partie supérieure. Pétales subérigés, unis par leur base aux filets un tube court de 1 mm, lui-même soudé au calice, de forme générale étroite et obovée, longs de 3-4 mm, fendus sur 1-1,5 mm ; poils apprimés surtout sur la face externe des lobes, intérieur glabre ; lobes concaves et cucullés.
+Stamens suberect, slender, often somewhat inclined, 6.5-8 mm long, glabrous; anthers reniform ≈ 0.5 mm. Staminodes ± flattened, oblong and narrow to wide, ≤ 0.7 × 0.5 mm, glabrous with 1-2 teeth at the apex. Pistil 3-merous, slender, ≈ 6.5-8 mm long; ovary velvety; style similarly but glabrous near the apex; stigma flattened, vaguely 3-lobed.
 
-Étamines subérigées, grêles, souvent un peu inclinées, longues de 6,5-8 mm, glabres; anthères réniformes ≈ 0,5 mm. Staminodes ± aplatis, oblongs et étroits à larges, ≤ 0,7 × 0,5 mm, glabres avec 1-2 dents au sommet. Pistil 3-mère, mince, long de ≈ 6,5-8 mm ; ovaire velouté; style aussi mais glabre près du sommet; stigmate aplat, vaguement 3-lobé.
+Fruits unknown. – Pl. 54, p. 181.
 
-Fruits inconnus. – Pl. 54, p. 181.
-
-Cette espèce peut présenter une certaine ressemblance avec D. reticulatum Engl. (Nigéria et Sud Cameroun mais non connue au Gabon) ; elle s'en distingue cependant par ses stipules profondément divisées et ses pédicelles non articulés (voir à D. ruficeps).
+This species may show some resemblance to D. reticulatum Engl. (Nigeria and South Cameroon but not known from Gabon); it is distinguished from it, however, by its deeply divided stipules and non-articulate pedicels (see D. ruficeps).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, (seulement connue par le type)
+Gabon, (known only from the type)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes
+evergreen rainforests
 
 ## Specimens examined
 

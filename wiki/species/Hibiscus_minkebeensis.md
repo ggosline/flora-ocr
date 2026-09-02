@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herba lignosa omnino villosa pilis luteis, aculeis nullis. Lamina (3 ‒ )5-digitata lobis obovatis, marginibus irregulatim serratis. Epicalyx + 10 bracteolis villosis, bifurcatis lobis subaequalibus, anguste ellipticus, lobo externo ad apicem recurvo. Sepala in medio nectario munita.
+Woody herb completely villous with yellowish hairs, without prickles. Lamina (3–)5-digitate with obovate lobes, margins irregularly serrate. Epicalyx with about 10 villose bracteoles, bifurcate with subequal lobes, narrowly elliptic, external lobe recurved at apex. Sepals with a nectary in the middle.
 
 ## Type
 
@@ -26,21 +24,15 @@ L. Ngok Banak, A. Moungazi & P. Mbazza 1637 (holo- WAG; iso- LBV, MO). Woleu-Nte
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dessous, nervure médiane parfois pourvue d’un nectaire allongé. Fleurs en racèmes pauciflores (sub)terminaux ; pédicelle 2 mm ; calicule à environ 10 bractéoles étroitement elliptiques, de 1 cm de longueur, bifurquées au sommet à lobes subégaux, lobe externe recourbé au sommet et environ 4 mm de longueur, couverts de poils jaunâtres rigides ; sépales libres sur les 2/3 , étroitement triangulaires, 1,8 cm de longueur, finement pubérulents, à nectaire au milieu de la nervure principale ; pétales violets, 3,5 ‒ 4 cm de longueur, éparsément pubérulents à l’extérieur avec des poils simples et étoilés ; tube staminal 2,5 ‒ 3 cm de longueur, plus court que les pétales ; style à 5 branches de 2 mm, émergeantes du tube sur 5 ‒ 8 mm. Fruit et graines non vus.
+beneath, midvein sometimes bearing an elongate nectary. Flowers in (sub)terminal pauciflorous racemes; pedicel 2 mm; caliculus with about 10 narrowly elliptic bracteoles, 1 cm in length, bifurcate at apex with subequal lobes, external lobe recurved at apex and about 4 mm in length, covered with rigid yellowish hairs; sepals free on 2/3, narrowly triangular, 1.8 cm in length, finely puberulent, with a nectary in the middle of the main vein; petals violet, 3.5–4 cm in length, sparsely puberulent on the outside with simple and stellate hairs; staminal tube 2.5–3 cm in length, shorter than the petals; style with 5 branches of 2 mm, emerging from the tube 5–8 mm. Fruit and seeds not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, espèce rare et seulement connue du Woleu-Ntem (Parc National de Minkébé)
+endemic to Gabon, rare species known only from Woleu-Ntem (Minkébé National Park)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pelouse sèche sur inselberg ; à 686 m d’altitude . Note taxonomique : L’espèce est nommée d’après le Parc National de Minkébé où elle a été récoltée une seule fois dans la région Sud
+dry grassland on inselberg; at 686 m altitude. Taxonomic note: The species is named after Minkébé National Park where it was collected only once in the southern region
 
 ## Notes
 

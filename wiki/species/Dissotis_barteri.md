@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 EXELL, Bull. Br. Mus. Bot. 4 (8) : 347 (1973); JACQ.-FÉL., Adansonia, sér. 2, 15 (4) : 491 (1976).
 
-Arbuste de 2 m, ramifié; entrenœuds courts; rameaux d'abord 4-angulaires, puis arrondis, éparsement strigilleux, sétuleux sur les nœuds; entre-nœuds courts. Feuilles à pétiole de 1 à 1,5 cm, arrondi-canaliculé; limbe elliptique-lancéolé, largement en coin à la base, modérément acuminé au sommet,  $ 3,5 \times 10 $ cm; soies courtes et appliquées sur les deux faces; 3(5) nervié; marges entières.
+Shrub 2 m tall, branched; internodes short; branchlets at first 4-angular, then rounded, sparsely strigillous, setulous on the nodes; internodes short. Leaves with petiole 1 to 1.5 cm, rounded-canaliculate; limb elliptic-lanceolate, broadly cuneate at base, moderately acuminate at apex, 3.5 × 10 cm; short setae appressed on both surfaces; 3(5)-nerved; margins entire.
 
-Fleurs terminales, solitaires, sous-tendues par une dernière paire de feuilles réduites, non bractoïdes; pédicelle de 2 à 3 mm; hypanthe cylindracle,  $ 1 \times 1 $ cm, densément vêtu d'émergences stipitées, discoïdes et brièvement sétuleuses, les intersépalais plus longuement stipitées; poils courts, appliqués sur la surface de l'hypanthe et arrangés radialement autour de chaque émergence; sépales longs de 1,5 à 2 cm, linéaires puis brusquement asymétriques et recourbés en crochet; uniformément strigilleux sur le dos, pénicillés à l'apex. Pétales roses,  $ 2,5 \times 4 $ cm. Étamines à filet de 2 cm; dimorphes : les externes à anthère de 1,5 cm; pédoconnectif arqué, long de 2,5 cm, les deux appendices linéaires, projetés en avant, longs de 3-4 mm; les internes à anthère de 1 cm; pédoconnectif de 3-4 mm, les deux appendices un peu claviformes, redressés, longs de 6 mm.
+Flowers terminal, solitary, subtended by the last pair of reduced leaves, not bracteoid; pedicel 2 to 3 mm; hypanthium cylindrical, 1 × 1 cm, densely clothed with stipitate, discoid emergences briefly setulose, the intersepalar ones more longly stipitate; short hairs appressed on the surface of the hypanthium and arranged radially around each emergence; sepals 1.5 to 2 cm long, linear then abruptly asymmetric and hooked; uniformly strigillous on the back, penicillate at the apex. Petals pink, 2.5 × 4 cm. Stamens with filament 2 cm; dimorphic: the outer ones with anther 1.5 cm; pediconnective arched, 2.5 cm long, the two appendages linear, projecting forward, 3–4 mm long; the inner ones with anther 1 cm; pediconnective 3–4 mm, the two appendages somewhat claviform, erect, 6 mm long.
 
-Fruit à sépales et émergences intersépalaires caducis; sommet de l'ovaire strigilleux, avec collerette péristyle sétuleuse. Graines non connues. — Pl. 7, p. 23.
+Fruit with sepals and intersepalar emergences caducous; apex of ovary strigillous, with setulose peristyle collar. Seeds not known. — Pl. 7, p. 23.
 
 ## Type
 
@@ -33,11 +31,7 @@ Barter 1936, Principe (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette belle espèce appartient au groupe Macrocarpæ A. & R. FERN., étranger à la flore forestière, surtout représenté sur les plateaux d'Afrique
-
-orientale, et par quelques espèces soudaniennes comme le D. kerstingii GILG. Aussi n'existe-t-elle au Gabon que grâce à des pointements rocheux intraforestiers; elle n'a été récoltée ailleurs qu'en l'île de Principe, d'où elle a été décrite. Est à protéger.
+This beautiful species belongs to the Macrocarpæ group A. & R. FERN., foreign to the forest flora, especially represented on the plateaus of eastern Africa, and by a few Sudanian species such as D. kerstingii GILG. Thus it exists in Gabon only thanks to intraforest rocky outcrops; it has been collected elsewhere only on the island of Príncipe, from where it was described. Is to be protected.
 
 ## Specimens examined
 

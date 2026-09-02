@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– BASIONYM: Mariarisqueta divina Guinea, Anales Jard. Bot. Madrid 6(2): 470, tab. 8 (1946). – TYPE: Guinea s.n., Equatorial Guinea, holo-MA.
 
-– BASIONYME : Mariarisqueta divina Guinea, Anales Jard. Bot. Madrid 6(2) : 470, tab. 8 (1946). – TYPE : Guinea s.n., Guinée Équatoriale, holo-MA.
-
-Tige 7-16 (20) cm, glanduleuse au-dessus des feuilles réparties vers le milieu de la tige, 7-18 (26) × 6-16 (23) mm ; ovées, base cordée, sommet aigu. Inflorescence 1-1,5 (6.5) cm, 3-10 (21)-flore. Fleurs blanches. Sépales soudés sur toute leur longueur en un tube calycinal net, base de sa face externe glanduleuse. Sépales ovés à lancéolés. Pétales, base linéaire, sommet spatulé à pointe obtuse. Labelle sessile, nettement plus long que les autres pièces du périanthe, base canaliculée, sacciforme avec deux appendices charnus, digités, région apicale pubescente, à 2 lobes largement étalés, elliptiques-obovés, marges apicales dentées.
+Stem 7-16 (20) cm, glandular above the leaves distributed towards the middle of the stem, 7-18 (26) × 6-16 (23) mm; ovate, cordate base, acute apex. Inflorescence 1-1.5 (6.5) cm, 3-10 (21)-flowered. Flowers white. Sepals fused along their entire length into a distinct calycinal tube, base of its external surface glandular. Sepals ovate to lanceolate. Petals, base linear, apex spatulate to obtuse point. Labellum sessile, distinctly longer than the other perianth parts, base channelled, sacciform with two fleshy, digitate appendages, apical region pubescent, with 2 lobes broadly spreading, elliptic-obovate, apical margins dentate.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1158 m. Herbaceous terrestrial plant in humid primary lowland forest and montane foothills, sometimes on moist mossy half-shaded rock
 
-alt. 0-1158 m. Herbacée terrestre en forêt primaire humide de basse altitude et de contrefort montagneux, parfois sur rocher humide moussu à demi ombragé
-
-Des deux variétés, seule celle du type a été récoltée au Gabon.
+Of the two varieties, only that of the type has been collected in Gabon.
 
 a. var. divina
 
-Tige 7-16 cm. Feuilles 5-7 ; pétiole + gaine < 16 mm ; limbe < 18 mm long et 16 mm large. Inflorescence 1-1,5 cm, 3-10-flore. Partie inférieure du labelle nettement plus longue que la largeur du lobe apical. – Pl. 27, p. 63.
+Stem 7-16 cm. Leaves 5-7; petiole + sheath < 16 mm; blade < 18 mm long and 16 mm wide. Inflorescence 1-1.5 cm, 3-10-flowered. Lower part of the labellum distinctly longer than the width of the apical lobe. – Pl. 27, p. 63.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sierra Leone, Liberia, Ghana, Cameroon, Equatorial Guinea, Gabon
 
-Sierra Leone, Liberia, Ghana, Cameroun, Guinée équatoriale, Gabon
+MATERIAL STUDIED (Map 9):
 
-MATÉRIEL ÉTUDIÉ (Carte 9) :
+Arends, Louis & de Wilde 704, Doudou Mountains (fl., Dec.), WAG!, LBV.
 
-Arends, Louis & de Wilde 704, Monts Doudou (fl., Déc.), WAG!, LBV.
+Breteler & de Bruijn 1006, Chaillu Massif, Songou Mountains, between Dibandi and Mouyanama, 20 km E of Mimongo, 1°37' S, 11°46' E (fl., Nov.), WAG!, LBV.
 
-Breteler & de Bruijn 1006, Massif du Chaillu, Monts Songou, entre Dibandi et Mouyanama, 20 km E de Mimongo, 1°37' S, 11°46' E (fl., Nov.), WAG!, LBV.
+Hallé 2869 & 2869B, Bélinga (fl., Oct.), P!; 3346, Bélinga, Masaha road (fl., Nov.), P!; 3511 & 3624, Bélinga (fl., Dec.), P!; 4039, eod. (fl., June), P!.
 
-Hallé 2869 & 2869B, Bélinga (fl., Oct.), P! ; 3346, Bélinga, route de Masaha (fl., Nov.), P! ; 3511 & 3624, Bélinga (fl., Déc.), P! ; 4039, eod. (fl., Juin), P!.
-
-NB. La variété ochyrae Szlach. & Olsz., FCAM 1: 252 (1998). – Partie inférieure du labelle, longueur = 1/2 largeur du lobe apical – n’est jusqu’ici connue que du Cameroun.
+NB. The variety ochyrae Szlach. & Olsz., FCAM 1: 252 (1998). – Lower part of the labellum, length = 1/2 width of the apical lobe – has so far only been known from Cameroon.
 
 ## Figures
 

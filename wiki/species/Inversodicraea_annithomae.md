@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ledermanniella annithomae C.Cusset, Bull. Mus. natl. Hist. nat., sér. 4., Adansonia 5(4) : 377 (1983). Plante à partie basale thalloïde foliacée ; tige dressée, simple ou rarement bifide, 5–25 cm . Écailles foliacées éparses le long de la tige , denses et imbriquées à la base des inflorescences, largement elliptiques à suborbiculaires, ± 0,9 × 1 mm, entières ou finement denticulées à denticulées , elliptiques à obovales sur les rameaux inflorescentiels. Feuille plusieurs fois pennée, 2–5 cm de longueur, souple, à segments linéaires. Inflorescences opposées aux feuilles,
-
-Inversodicraea 21 National d’Histoire Naturelle, Paris (©), reproduit avec permission à partir de Cusset (1983).
-
-22 Jean-Paul GHOGUE dichotomes, ± 5 mm de longueur, portant (3–)5 à 7 fleurs terminales sur les rameaux ou axil laires aux angles de la dichotomie ; bractées 4 ou 5 fois dichotomes, 5–10 mm de longueur ; spathelles ellipsoïdes à obovoïdes, 2,5 × 0,8–1 mm, apiculées ou non, déhiscentes au sommet. Fleur : pédicelle longuement exsert à l’anthèse, ± 1 mm ; tépales aciculaires, 0,8–1 mm de longueur ; androcée plus long que l’ovaire, étamines 2(–3), filets 1,8–2 mm, soudés sur plus de la moitié de leur longueur, anthère 0,8–0,9 × 0,4–0,5 mm, pollen en monades ; ovaire 2,5–2,8 × 0,5–0,7 mm, gynophore 0,7–0,8 mm de longueur ; stigmates filiformes, 0,8–1 mm. Graine inconnue.
+Ledermanniella annithomae C.Cusset, Bull. Mus. natl. Hist. nat., sér. 4., Adansonia 5(4) : 377 (1983). Plant with a basal thalloid leafy portion; stem erect, simple or rarely bifid, 5–25 cm. Leafy scales scattered along the stem, dense and imbricate at the base of inflorescences, broadly elliptic to suborbicular, ± 0.9 × 1 mm, entire or finely denticulate to denticulate, elliptic to obovate on the inflorescence branches. Leaf several times pinnate, 2–5 cm in length, flexible, with linear segments. Inflorescences opposite the leaves, dichotomous, ± 5 mm in length, bearing (3–)5 to 7 terminal flowers on the branches or axillary at the angles of the dichotomy; bracts 4 or 5 times dichotomous, 5–10 mm in length; spatheoles ellipsoid to obovoid, 2.5 × 0.8–1 mm, apiculate or not, dehiscent at the apex. Flower: pedicel long-exsert at anthesis, ± 1 mm; tepals acicular, 0.8–1 mm in length; androecium longer than ovary, stamens 2(–3), filaments 1.8–2 mm, connate for more than half their length, anther 0.8–0.9 × 0.4–0.5 mm, pollen in monads; ovary 2.5–2.8 × 0.5–0.7 mm, gynophore 0.7–0.8 mm in length; stigmas filiform, 0.8–1 mm. Seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Endémique du Gabon, connu d’une seule récolte de l’Ogooué à Boué (Ogooué-Ivindo)
+Endemic to Gabon, known from a single collection from the Ogooué at Boué (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-à environ 150 m d’altitude. B : Cheek et al. (2017), Cusset (1983), Sosef et al. (2006). i B liographie
+at approximately 150 m altitude. B : Cheek et al. (2017), Cusset (1983), Sosef et al. (2006). i Bibliography
 
 ## Notes
 

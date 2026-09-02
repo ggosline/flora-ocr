@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Justicia elegans P. Beauv., Fl. Oware 1 : 84, t. 50 (1807).
 
 ≡ Eranthemum elegans (P. Beauv.) Roem. et Schult., Syst. Veg. 1 : 174 (1817). — Nees, in DC. Prodr. 11 : 447 (1847).
 
-Arbuste ou arbrisseau atteignant 3 m de haut, glabrescent. Pétioles de 2,5-3 cm. Limbe des feuilles elliptiques, de 12-17 ×
+Shrub or small tree reaching 3 m tall, glabrescent. Petioles 2.5–3 cm. Leaf blade elliptic, 12–17 × 5–6 cm, smooth entire, with an acumen 1–1.5 cm. 7–8 pairs of lateral veins.
 
-5 × 6 cm, lisse entier, à acumen de 1-1,5 cm. 7-8 paires de nervures latérales.
+Terminal inflorescences, rarely axillary, 8–15 cm long, strobilate; bracts elliptic-lanceolate, acute-acuminate 1.5–20 × 6–8 mm; bracteoles subulate-lanceolate 2.2 × 0.5 mm, densely puberulent. Calyx pubescent, 6 mm, with lobes 3–7 mm, almost the same dimensions and form as the bracteoles, accrescent during flowering. Corolla 33–36 mm, orange, turning reddish after flowering, with cylindric tube 27–29 mm long, pubescent externally, striate; limb 10 mm diameter, with ovate lobes, very obtuse and almost quadrangular, 6 × 5 mm. Stamens inserted at the corolla throat, exsert, filaments somewhat flattened, orange, 4.5 mm long; anthers sagittate 1.7 mm. Disc well developed. Ovary 2 mm tall, glabrous. Style 3 cm long; stigma capitate.
 
-Inflorescences terminales, rarement axillaires, de 8-15 cm de long, strobilacées; bractées elliptiques-lancéolées, aiguës-acuminées de 1,5-20 × 6-8 mm; bractéoles subulées lancéolées de 2, 2 × 0,5 mm, densément pubérulentes. Calice pubescent, de 6 mm, à libes de 3-7 mm, presque de mêmes dimensions et de même forme que les bractéoles, acrescent pendant la floraison. Corolle de 33-36 mm, orange, tournant au rougeâtre après la floraison, à tube cylindrique de 27-29 mm de long, pubescent à l'extérieur, striée; limbe de 10 mm de diamètre, à lobes ovales, très obtus et presque quadrangulaires, de 6 × 5 mm. Étamines insérées à la gorge de la corolle, exsertes, filets un peu aplatis, orangés, de 4,5 mm de long; anthères sagittées de 1,7 mm. Disque bien développé. Ovaire 2 mm de haut, glabre. Style de 3 cm de long; stigmate capité.
-
-Fruit aplati, de 10-12 mm de long, à stipe d'environ 5 mm de long, à partie supérieure orbiculaire en forme de spatule, d'environ 5 mm de diamètre. Graines de  $ 3,2 \times 4 $ mm, densément et régulièrement vêtues de poils hygroscopiques.
+Fruit flattened, 10–12 mm long, with a stipe approximately 5 mm long, upper part orbicular spathulate, approximately 5 mm diameter. Seeds 3.2 × 4 mm, densely and regularly clothed with hygroscopic hairs.
 
 ## Type
 
@@ -37,9 +33,7 @@ Palisot de Beauvois, Bénin (G, holotype)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra-Leone, Liberia, Côte-d'Ivoire, Ghana, Dahomey, Nigeria, Cameroun, Congo, Centrafrique, Soudan, Ouganda.
+Sierra Leone, Liberia, Ivory Coast, Ghana, Dahomey, Nigeria, Cameroon, Congo, Central African Republic, Sudan, Uganda.
 
 ## Specimens examined
 

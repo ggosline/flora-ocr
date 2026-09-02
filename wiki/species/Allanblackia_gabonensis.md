@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre jusqu’à 30 m de hauteur ; tronc à larges cannelures arrondies ; écorce rougeâtre à brunâtre ; latex jaune. Feuille glabre ; pétiole 10 ‒ 15 mm ; limbe obovale , 8 ‒ 17 × 3,5 ‒ 8 cm, base cunéée, sommet courtement cuspidé , subcoriace à coriace ; nervures latérales environ 20 ‒ 30, canaux sécréteurs partiellement superposés aux nervures latérales ou obliques à perpendiculaires. Fleur mâle : pédicelle 3 ‒ 6 cm ; sépales suborbiculaires, les externes 7 ‒ 10 mm de diamètre, les internes 17 ‒ 20 mm de diamètre ; pétales largement ovales à suborbiculaires, 2 ‒ 3 × 2 ‒ 2,5 cm, rose foncé ; phalanges staminales 10 ‒ 13 mm de longueur, à anthères disposées sur les 2 faces ; glandes discales légèrement ridées . Fleur femelle : pédicelle 4 ‒ 6 cm ; sépales et pétales semblables à ceux de la fleur mâle, pétales blancs ; phalanges staminales très réduites ; glandes discales lisses ou légèrement ridées ; ovaire 5-côtelé, à 2 ‒ 4 ovules par loge ; stigmate 5-lobé. Fruit ovoïde, 5-côtelé, jusqu’à 20 × 10 cm. Graines 4 ‒ 20, ovoïdes, 2,5 ‒ 3 × 1,5 ‒ 2 cm.
+Tree up to 30 m in height; trunk with broad rounded flutes; bark reddish to brownish; latex yellow. Leaf glabrous; petiole 10–15 mm; blade obovate, 8–17 × 3.5–8 cm, base cuneate, apex shortly cuspidate, subcoriaceous to coriaceous; lateral nerves approximately 20–30, secretory canals partially superposed on the lateral nerves or oblique to perpendicular. Male flower: pedicel 3–6 cm; sepals suborbicular, the outer 7–10 mm in diameter, the inner 17–20 mm in diameter; petals broadly ovate to suborbicular, 2–3 × 2–2.5 cm, dark pink; staminal phalanges 10–13 mm in length, with anthers arranged on both faces; disc glands slightly wrinkled. Female flower: pedicel 4–6 cm; sepals and petals similar to those of the male flower, petals white; staminal phalanges very reduced; disc glands smooth or slightly wrinkled; ovary 5-angled, with 2–4 ovules per locule; stigma 5-lobed. Fruit ovoid, 5-angled, up to 20 × 10 cm. Seeds 4–20, ovoid, 2.5–3 × 1.5–2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon, connue du Massif du Chaillu (Ngounié) et des Monts Mekié (Woleu-Ntem)
+Cameroon and Gabon; in Gabon, known from the Chaillu Massif (Ngounié) and the Mekié Mountains (Woleu-Ntem)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ; au Gabon à 500 ‒ 1000 m d’altitude ; au Cameroun jusqu’à 1600 m. B : Bamps (1969). i B liographie
+primary forest; in Gabon at 500–1000 m elevation; in Cameroon up to 1600 m. B: Bamps (1969). Bibliography
 
 ## Notes
 

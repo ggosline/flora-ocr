@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste dressé, jusqu’à 2,5 m de hauteur ; rhizome ligneux ; tronc simple , jusqu’à 5 cm de diamètre, formant quelquefois des racines aériennes, gris jaunâtre avec des cicatrices foliaires annulaires noires. Feuilles équitantes , laissant la tige visible sur les 50 cm basaux sur des vieux pieds ; gaine embrassant la tige sur nettement plus que la circonférence ; pseudopétiole plus long que le limbe , jusqu’à 80 cm, vert foncé bleuâtre, face supérieure rainurée, passant graduellement en une base engainante ; limbe ovale, jusqu’à 65 × 20 cm, base arrondie, sommet acuminé avec un mucron atteignant 2 cm, coriace, ondulé longitudinalement, face supérieure vert foncé brillant, panachée avec des taches transversalement ovales , vert pâle, chaque tache avec un centre jaune, face inférieure vert pâle mat. Inflorescence généralement dressée, jusqu’à 8 cm de longueur, se terminant en un capitule atteignant 13 cm de diamètre , à axe lisse ; bractées enveloppant le capitule, largement ovales, 5 × 3 cm, scarieuses, brun foncé ; fascicules de 2 ou 3 fleurs, chacune étroitement enveloppée par une bractée de 3,5–4 mm de longueur, brun clair. Fleur : pédicelle 0–1 mm ; périanthe 45–50 mm de longueur , blanc, à lobes plus courts que le tube, de 15 × 2 mm, étalés, avec une seule nervure centrale bien distincte ; étamines insérées près de la gorge, jusqu’à 2 mm plus courtes que les lobes, filet blanc, rond en section, renflé, sommet subulé, anthère ± 3 × 1 mm, jaune pâle ; ovaire oblong, jusqu’à 3 × 2 mm ; style exsert sur jusqu’à 1 mm, blanc, stigmate capité à légèrement 3-lobé, ± 1 mm de diamètre. Fruit obloïde , légèrement 3-lobé, ± 14 × 9 mm, orange vif à rouge vif ; réceptacle jusqu’à 4 mm de longueur. Graine ellipsoïde, 10 × 7 mm.
+Erect shrub, up to 2.5 m tall; rhizome woody; trunk simple, up to 5 cm in diameter, sometimes forming aerial roots, yellowish-grey with black annular leaf scars. Leaves equitant, leaving the stem visible on the basal 50 cm on old plants; sheath embracing the stem for clearly more than the circumference; pseudapetiole longer than the blade, up to 80 cm, dark bluish-green, upper face grooved, gradually passing into an embracing base; blade ovate, up to 65 × 20 cm, base rounded, apex acuminate with a mucro reaching 2 cm, coriaceous, longitudinally undulate, upper face dark green glossy, variegated with transversely ovate patches, pale green, each patch with a yellow centre, lower face pale green matt. Inflorescence generally erect, up to 8 cm long, terminating in a capitulum reaching 13 cm in diameter, with a smooth axis; bracts enveloping the capitulum, broadly ovate, 5 × 3 cm, scarious, dark brown; fascicles of 2 or 3 flowers, each tightly enveloped by a bract 3.5–4 mm long, light brown. Flower: pedicel 0–1 mm; perianth 45–50 mm long, white, with lobes shorter than the tube, 15 × 2 mm, spreading, with a single well-distinct central vein; stamens inserted near the throat, up to 2 mm shorter than the lobes, filament white, round in section, swollen, apex subulate, anther ± 3 × 1 mm, pale yellow; ovary oblong, up to 3 × 2 mm; style exsert up to 1 mm, white, stigma capitate to slightly 3-lobed, ± 1 mm in diameter. Fruit obloïd, slightly 3-lobed, ± 14 × 9 mm, bright orange to bright red; receptacle up to 4 mm long. Seed ellipsoid, 10 × 7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce assez rare du Cameroun, de la Guinée équatoriale et du Gabon ; au Gabon, dans l’Estuaire et l’Ogooué-Ivindo
+fairly rare species from Cameroon, Equatorial Guinea and Gabon; in Gabon, in the Estuary and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts secondaires et lisières de forêts, stations humides, sur sol sableux et bords de rivières argileux ; au Gabon à 100–340 m d’altitude, ailleurs à 100–1500 m. Floraison enregistrée en juin
+understory of secondary forests and forest margins, humid stations, on sandy soil and clay riverbanks; in Gabon at 100–340 m altitude, elsewhere at 100–1500 m. Flowering recorded in June
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. bushii est proche de D. phrynioides , les deux ont des inflorescences capitées et des feuilles longuement pétiolées. D. bushii est facilement distingué par les fleurs 2 fois plus longues, le port plus droit qui n’est pas subacaule et par les feuilles pas en rosette comme chez D. phrynioides . B : Damen et al. (2018). i B liographie
+D. bushii is close to D. phrynioides, the two having capitate inflorescences and long-petiolate leaves. D. bushii is easily distinguished by flowers 2 times longer, the more erect habit which is not subacaulous and by leaves not in a rosette as in D. phrynioides. B: Damen et al. (2018). Bibliography
 
 ## Notes
 

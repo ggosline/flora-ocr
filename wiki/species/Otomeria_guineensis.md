@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb rigidly ± erect, 0.30–1 m tall, ± branched. Roots tinged yellow-orange. Stems cylindrical ± reddish, pubescent to glabrescent. Stipules spreading, pubescent, with 3–6 attenuate teeth reaching 3–5 mm long. Petiole pubescent, 3–7 mm. Leaf blades subglabrous ± minutely scabrous towards the margins above, ovate reaching 45 × 20 mm, small in certain pairs; base cuneate; apex scarcely acute. Main veins ± pubescent; (3)4–8 pairs of secondary veins.
 
-Herbe raide ± dressée, haute de 0,30-1 m, ± divisée. Racines teintées de jaune-orangé. Tiges cylindriques ± rougeâtres, pubescentes à glabrescentes. Stipules étalées, pubescentes, à 3-6 dents effilées atteignant 3-5 mm de long. Pétiole pubescent de 3-7 mm. Limbes subglabres ± microscabres vers les marges dessus, ovés atteignant 45 × 20 mm, petits dans certaines paires; base cunéiforme; sommet à peine aigu. Nervures principales ± pubescentes; (3)4-8 paires de secondaires.
+Inflorescences initially slender and somewhat contracted, then extended into (1)2 subapical multiflowered spikes 10–35 cm long, rigid and erect, with a few flowers in the fork of their base. Flowers twin sessile, arranged alternately and without bracts on the puberulent rachis. Calyx green with 5 narrowly lanceolate lobes, very unequal, 1.5–6.5(8) × 0.5–2 mm, ± puberulent. Corolla narrowly obtuse in the bud which is pale-green and pubescent. Corolla tube 5–6.5 mm long, slender, pinkish in its narrow part, swollen and pale-green at the throat; 5 spreading lobes, white, ovate-acute c. 2.5 × 1.6 mm. Anthers bluish 1.4 × 0.5 mm, included within the internal pubescence of the throat, and with a filament 0.5 mm in the long-style form. Pollen white. Style white, slender, with exserted stigma; 2 narrow stigmatic lobes 1.2 mm. Ovary narrowly obconic becoming subcylindric.
 
-Inflorescences d'abord grêles et un peu contractées, puis étirées en (1)2 épis subterminaux multiflores de 10-35 cm, raides et dressés, avec quelques fleurs dans la fourche de leur base. Fleurs jumelées sessiles, disposées de façon alterne et sans bractées sur le rachis pubérulent. Calice vert à 5 lobes étroitement lancéolés, très inégaux, de 1,5-6,5(8) × 0,5-2 mm, ± pubérulents. Corolle étroitement obtuse dans le bouton qui est vert-pâle et pubescent. Tube de la corolle long de 5-6,5 mm, grêle, rosé dans sa partie étroite, renflé et vert-pâle à la gorge; 5 lobes étalés, blancs, ovés-aïgus d'env. 2,5 × 1,6 mm. Anthères bleuâtres de 1,4 × 0,5 mm, incluses dans la pubescence interne de la gorge, et avec un filet de 0,5 mm dans la forme longistyle. Pollen blanc. Style blanc, grêle, à stigmate exsert; 2 lobes stigmatiques étroits de 1,2 mm. Ovaire étroitement obconique devenant subcylindrique.
-
-Infrutescences dressées; fruits jumelés tous les 1-3 cm env. Fruit de 5-6 × 2-2,5 mm, à côtes longitudinales, à sépales inégaux dressés. Graines brun-roux subanguleuses de 0,5-0,6 mm.
+Infructescences erect; twin fruits approximately every 1–3 cm. Fruit 5–6 × 2–2.5 mm, with longitudinal ribs, with unequal erect sepals. Seeds brown-russet subangular 0.5–0.6 mm.
 
 ## Type
 
@@ -31,21 +29,19 @@ Vogel s.n. (K, non vu), Libéria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species known from Liberia, Ghana, Nigeria, Cameroon, Gabon and western Congo. It grows in open, sandy or clayey, denuded or grassy terrain, well-drained or even rather dry.
 
-Espèce connue du Libéria, Ghana, Nigeria, Cameroun, Gabon et Congo occidental. Elle croît en terrains découverts, sableux ou argileux, dénudés ou herbeux, drainés ou même plutôt secs.
+A. Chevalier: 132 = /370, Cap Lopez (fl. fr. July).
 
-A. Chevalier : 132 = /370, Cap Lopez (fl. fr. juil.).
+G. Debeaux: 109, Mayumba (fl. fr. March); 390, Cap Lopez (fl. fr. July).
 
-G. Debeaux : 109, Mayumba (fl. fr. mars); 390, Cap Lopez (fl. fr. juil.).
+R.P. Duparquet: s.n. Gabon.
 
-R.P. Duparquet : s.n. Gabon.
+N. Hallé: 1540, 1555, Port-Gentil (fl. fr. April); 1657, 10–20 km SW of Ndjolé (fl. fr. April).
 
-N. Hallé : 1540, 1555, Port-Gentil (fl. fr. avr.); 1657, 10-20 km SW de Ndjolé (fl. fr. avr.).
+N. Hallé and G. Cours: 5865, between Lépamba and Etéké (fl. fr. May), common along roadsides.
 
-N. Hallé et G. Cours : 5865, entre Lépamba et Etéké (fl. fr. mai), commun au bord des chemins.
-
-H. Soyaux : 433, Mondah (non vu, cité par Verdecourt).
+H. Soyaux: 433, Mondah (not seen, cited by Verdecourt).
 
 ## Figures
 

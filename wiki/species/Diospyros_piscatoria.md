@@ -27,7 +27,7 @@ tags: [species]
 
 26.Diospyros piscatoria Gurke
 
-Bot.Jahrb.46：155(19II).—F.WHITE,Bull.Jard.Bot.Brux.26：280-288,tab.76,A-E,et 77,A-B,et 78(1956); FWTA ed.2,2:10 (1963); NigerianTrees 2: 341 (1964). Maba bipindensis GURKE,Bot.Jahrb.46 :I5o (19II).- MILDBRAED, Notizbl.Bot.Gart.Berl.9:Io44 (1926),non Diospyros bipindensis GURKE (1898),cf.F.WHITE,Bull. Jard.Bot.Brux.26:239 (1956). -Maba xylopiifolia M1LDBr., Notizbl. Bot.Gart. Berl.9:Io45 (1926). - Maba chrysantha KENNEDY, For. Fl. S. Nig. : I93 (1g36)，nom. nud. (descript.ling.brit.tantum). -Maba Mualala auct.non WELw.ex HIERN ：GREvEs,Journ. Bot.67, suppl.Gamop.:76 (1929). —Diospyros senegalensis auct. non A. DC.:BENTH. in HookER,Fl. Nigrit.: 442 (1949), p. p.
+Bot.Jahrb.46:155(19II).—F.WHITE,Bull.Jard.Bot.Brux.26:280-288,tab.76,A-E,et 77,A-B,et 78(1956); FWTA ed.2,2:10 (1963); NigerianTrees 2: 341 (1964). Maba bipindensis GURKE,Bot.Jahrb.46 :I5o (19II).- MILDBRAED, Notizbl.Bot.Gart.Berl.9:Io44 (1926),non Diospyros bipindensis GURKE (1898),cf.F.WHITE,Bull. Jard.Bot.Brux.26:239 (1956). -Maba xylopiifolia M1LDBr., Notizbl. Bot.Gart. Berl.9:Io45 (1926). - Maba chrysantha KENNEDY, For. Fl. S. Nig. : I93 (1g36),nom. nud. (descript.ling.brit.tantum). -Maba Mualala auct.non WELw.ex HIERN :GREvEs,Journ. Bot.67, suppl.Gamop.:76 (1929). —Diospyros senegalensis auct. non A. DC.:BENTH. in HookER,Fl. Nigrit.: 442 (1949), p. p.
 
 Specimens of this species appear in various herbaria under the following names: *Diospyros chrysantha* (Gurke ms.) and *Rhaphiostylis* sp.
 
@@ -51,11 +51,11 @@ The bark and the fruit, including the calyx, are said to be ichthyotoxic.
 
 ### Material studied in Cameroon
 
-Annet 45o,Bidjoka pres Lolodorf (fr., juin). Fleury 483 (= 33281 in herb.Chevalier), Douala (fr., juin);33344 id.,Muyuka, km 59 CFNord (fr., juill.). Hedin 1555,So Dibanga (stér.). Keay FHI37472,Bambuko for.res.pres Kumba (fr.,janv.) FHO,K. Mildbraed 5io2,entre Assobam (actuel Mpan) et Lomié (fl. ,avr.）HBG. Staudt 755,Johann-Albrechtshohe (actuel Kumba)(j. fr.，déc.)(cit.in Notizbl. Bot. Gart.Berl.9:1o44 (1926). Zenker 16g (?),Bipindi (?) (fl.δ) B；2454 (syntype),Bipindi (fl.δ,oct.); 2633, Mimfia pres Bipindi (fr.，nov.)；3oII a (syntype de Maba bipindensis Gurke)，Bipindi (fl.δ)；3547 (syntype)，Bipindi (fl.δ，nov.)P,B；3866 (syntype de Maba bipindensis Gürke),Bipindi (fl.3)；493o,Bipindi (fl.5).
+Annet 45o,Bidjoka pres Lolodorf (fr., juin). Fleury 483 (= 33281 in herb.Chevalier), Douala (fr., juin);33344 id.,Muyuka, km 59 CFNord (fr., juill.). Hedin 1555,So Dibanga (stér.). Keay FHI37472,Bambuko for.res.pres Kumba (fr.,janv.) FHO,K. Mildbraed 5io2,entre Assobam (actuel Mpan) et Lomié (fl. ,avr.)HBG. Staudt 755,Johann-Albrechtshohe (actuel Kumba)(j. fr.,déc.)(cit.in Notizbl. Bot. Gart.Berl.9:1o44 (1926). Zenker 16g (?),Bipindi (?) (fl.δ) B;2454 (syntype),Bipindi (fl.δ,oct.); 2633, Mimfia pres Bipindi (fr.,nov.);3oII a (syntype de Maba bipindensis Gurke),Bipindi (fl.δ);3547 (syntype),Bipindi (fl.δ,nov.)P,B;3866 (syntype de Maba bipindensis Gürke),Bipindi (fl.3);493o,Bipindi (fl.5).
 
 ### Material studied in Gabon
 
-Fleury 265g5 in herb. Chevalier, environs lac Zilé pres Atsié sur l'Ogoué, région de Lambaréné (fr.)；3366o id.，pres Libreville (fr.,mai)； s.n.,pres Libreville (fr., mai). Halle N.et Le Thomas I23 et I55,Bélinga (fr., juill.). Klaine 326,sin. loc. (fr., janv.); 429,sin. loc. (fr.,sept.? ou janv.?);1776, pres Libreville (fr.,févr.); 2637,Sibang (fr.,déc.). Le Testu 5o49,Mouila (fl.,nov.);5o52,Mouila (fl. ♀,nov.)； 76o5,Lastoursville (fl. ♀,nov.); 7687,Moungouta,1o km S Lastoursville (fl.,nov.); 7831, Lastoursville (fl. ♀, janv.). Morel SRF I44,Ntoum pres Libreville (fl. ♀,déc.). Soyaux I13, Sibange farm (fr., aout). Touzet 33,Nkoulounga,55 km NE Libreville (fr., juill.).
+Fleury 265g5 in herb. Chevalier, environs lac Zilé pres Atsié sur l'Ogoué, région de Lambaréné (fr.);3366o id.,pres Libreville (fr.,mai); s.n.,pres Libreville (fr., mai). Halle N.et Le Thomas I23 et I55,Bélinga (fr., juill.). Klaine 326,sin. loc. (fr., janv.); 429,sin. loc. (fr.,sept.? ou janv.?);1776, pres Libreville (fr.,févr.); 2637,Sibang (fr.,déc.). Le Testu 5o49,Mouila (fl.,nov.);5o52,Mouila (fl. ♀,nov.); 76o5,Lastoursville (fl. ♀,nov.); 7687,Moungouta,1o km S Lastoursville (fl.,nov.); 7831, Lastoursville (fl. ♀, janv.). Morel SRF I44,Ntoum pres Libreville (fl. ♀,déc.). Soyaux I13, Sibange farm (fr., aout). Touzet 33,Nkoulounga,55 km NE Libreville (fr., juill.).
 
 Note: Close to *Diospyros piscatoria* is *Diospyros soubreana* F. White.
 

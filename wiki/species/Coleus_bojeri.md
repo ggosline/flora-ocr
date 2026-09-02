@@ -15,25 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Solenostemon latifolius (Hochst. ex Benth.) J.K.Morton, J. Linn. Soc., Bot. 58 : 271 (1962). S. bojeri (Benth.) Guillaumet & A.Cornet, Adansonia , n.s., 15 : 525 (1976). Plectranthus bojeri (Benth.) Hedge, Fl. Madag. 175 : 218 (1998). Annual or short-lived perennial herb, sometimes reported as succulent, reaching 1 m in height; stem erect or ascending, sometimes creeping at the base, sometimes distinctly purple, pubescent. Leaf: petiole 5–50 mm; blade ovate to subtriangular, 8–50 ×
 
-Solenostemon latifolius (Hochst. ex Benth.) J.K.Morton, J. Linn. Soc., Bot. 58 : 271 (1962). S. bojeri (Benth.) Guillaumet & A.Cornet, Adansonia , n.s., 15 : 525 (1976). Plectranthus bojeri (Benth.) Hedge, Fl. Madag. 175 : 218 (1998). Herbe annuelle ou vivace à courte durée de vie, parfois signalée comme charnue, atteignant 1 m de hauteur ; tige dressée ou ascendante, parfois rampante à la base, parfois nettement pourpre, pubescente. Feuille : pétiole 5–50 mm ; limbe ovale à subtriangulaire, de 8–50 ×
+Calyx (× 3½). – 5. Achene (× 10). (1-5 : Ghesquière 4316 ). Drawing by Albert Cleuter, Meise Botanical Garden (©).
 
-Calice (× 3½). – 5. Akène (× 10). (1-5 : Ghesquière 4316 ). Dessin par Albert Cleuter, Jardin botanique de Meise (©).
-
-20–30 mm, cunéé à tronqué à la base, mais atténué sur le pétiole, aigu à arrondi à l’apex, crénelé à denté, parfois marqué de pourpre, pubescent ou éparsement pubescent et à glandes sessiles rougeâtres sur la face inférieure. Inflorescence terminale, généralement lâche, avec plusieurs verticillastres distants ; cymes sessiles, rarement à pédoncule très court, atteignant 25 mm de longueur, avec 5 à 10 petites fleurs ; bractées dressées dessus, légèrement cucullées, longues de 2–6 mm. Fleur : pédicelle 2–5 mm ; calice long de 1–2 mm, pubescent, à glandes sessiles rouges, long de 3–5 mm en fruit, tubulé, légèrement rétréci au niveau de la gorge, lèvre supérieure elliptique, lobes latéraux oblongs , arrondis à l’apex , lèvre inférieure à dents fusionnées , linéaires, longues de 0,5 mm , ne fermant pas la gorge du calice ; corolle longue de 5–10 mm, bleu pâle à violet, tube sigmoïde, long de 3–5 mm, lèvre supérieure dressée à réfléchie, plus courte que l’inférieure longue de 3–5 mm, cucullée et renfermant les étamines ; étamines à filets fusionnés. Fruit : akènes ovoïdes, longs de 1 mm, bruns, tachetés de rougeâtre.
+20–30 mm, cuneate to truncate at the base, but attenuate on the petiole, acute to rounded at the apex, crenate to dentate, sometimes marked with purple, pubescent or sparsely pubescent and with reddish sessile glands on the lower surface. Inflorescence terminal, generally lax, with several distant verticillasters; cymes sessile, rarely with a very short peduncle, reaching 25 mm in length, with 5 to 10 small flowers; bracts erect above, slightly cucullate, 2–6 mm long. Flower: pedicel 2–5 mm; calyx 1–2 mm long, pubescent, with red sessile glands, 3–5 mm long in fruit, tubulate, slightly narrowed at the throat, upper lip elliptic, lateral lobes oblong, rounded at the apex, lower lip with fused teeth, linear, 0.5 mm long, not closing the calyx throat; corolla 5–10 mm long, pale blue to violet, tube sigmoid, 3–5 mm long, upper lip erect to reflexed, shorter than the lower lip 3–5 mm long, cucullate and enclosing the stamens; stamens with fused filaments. Fruit: achenes ovoid, 1 mm long, brown, spotted with reddish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandu en Afrique orientale et centrale, et à Madagascar, y compris le Nigéria, le Cameroun, le Gabon, la République du Congo et la République démocratique du Congo ; au Gabon : Haut Ogooué, Nyanga, Ogooué-Ivindo et Ogooué-Maritime. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Widely distributed in East and Central Africa, and in Madagascar, including Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon: Haut Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime. Conservation status: Widely distributed; probably Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones ouvertes perturbées, bords de routes et berges de rivières ; au Gabon à 30–630 m d’al titude, ailleurs jusqu’à 1700 m. Usage : En République du Congo, le jus de la plante est utilisé comme sédatif pour calmer le cœur afin d’assurer un sommeil paisible sans cauchemars. B : Burkill (1995), Morton (1963), Paton et al. (2009, 2013). i B liographie
+Disturbed open areas, roadsides and river banks; in Gabon at 30–630 m elevation, elsewhere up to 1700 m. Use: In the Republic of the Congo, the plant juice is used as a sedative to calm the heart in order to ensure peaceful sleep without nightmares. B: Burkill (1995), Morton (1963), Paton et al. (2009, 2013). Bibliography
 
 ## Notes
 

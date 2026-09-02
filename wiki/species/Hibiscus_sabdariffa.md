@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, érigée, 0,5 ‒ 2( ‒ 5) m de hauteur ; tige simple ou ramifiée, glabre ou légèrement pubescente, parfois pourvue de quelques aiguillons, verte et pourpre. Stipules étroitement lancéolées à filiformes, jusqu’à 15 mm. Feuille à pétiole de 0,5 ‒ 12 cm ; limbe glabre , légèrement à profondément 3 ‒ 5( ‒ 7)-palmatilobé , 5 ‒ 16 cm de diamètre, lobes divergents, triangulaires, le médian égalant ou un peu plus long que les latéraux, marges plus ou moins régulièrement dentées ou serrées ; nervure médiane pourvue d’un nectaire proéminente et allongé vers la base. Fleur solitaire, axillaire ; pédicelle robuste, de 0,5 ‒ 1( ‒ 4) cm, articulé ; calicule à 8 ‒ 12 bractéoles simples, subulées à triangulaires, environ 1 cm, glabres ou glabrescentes ; sépales soudés à la base en une structure campanulée, les lobes triangulaires, 1,5 cm en fleur, atteignant 4 cm en fruit, aigus, devenant charnus, rougeâtres ; pétales 3 ‒ 5 cm de longueur, jaune pâle ou rose pâle, à base pourpre ou brune ; tube staminal environ 2 cm de longueur, plus court que les pétales, anthères clairsemées presque jusqu’à la base, roses ; style à 5 branches. Fruit ovoïde, 2 ‒ 2,5 cm de longueur, aigu, glabrescent à pubescence apprimée, inclus dans le calice accrescent . Graines réniformes, jusqu’à 7 mm de longueur, brun foncé.
+Annual herb, erect, 0.5–2(–5) m tall; stem simple or branched, glabrous or slightly pubescent, sometimes bearing a few prickles, green and purple. Stipules narrowly lanceolate to filiform, up to 15 mm. Leaf with petiole 0.5–12 cm; lamina glabrous, slightly to deeply 3–5(–7)-palmately lobed, 5–16 cm in diameter, lobes divergent, triangular, the median equal to or somewhat longer than the lateral ones, margins more or less regularly dentate or serrate; midvein bearing a prominent and elongate nectary towards the base. Flower solitary, axillary; pedicel robust, 0.5–1(–4) cm, articulate; epicalyx with 8–12 simple bracteoles, subulate to triangular, approximately 1 cm, glabrous or glabrescent; sepals fused at the base into a campanulate structure, the lobes triangular, 1.5 cm in flower, reaching 4 cm in fruit, acute, becoming fleshy, reddish; petals 3–5 cm long, pale yellow or pale pink, with purple or brown base; staminal tube approximately 2 cm long, shorter than the petals, anthers scattered almost to the base, pink; style with 5 branches. Fruit ovoid, 2–2.5 cm long, acute, glabrescent to appressed-pubescent, included in the accrescent calyx. Seeds reniform, up to 7 mm long, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Amérique tropicale, maintement cultivée dans toutes les régions tropicales, subspontanée et naturalisée ; au Gabon, connue de l’Estuaire
+Native to tropical America, now cultivated in all tropical regions, subspontaneous and naturalized; in Gabon, known from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-habitations, cultures, jachères, autour des cases, savanes ; préfère une période sèche pour la production de calices de bonne qualité ; à 0 ‒ 1400 m d’altitude. Usage : Les feuilles et le calice charnus (fausse oseille) sont comestibles, cuits et utilisées pour la préparation de sauces et soupes assez mucilagineuses. Les fleurs sont utilisées pour la préparation de thé, surtout par les musulmans de la région sahélienne. Dans les
-
-pays industriels, les fleurs sont utilisées comme colorant naturel des aliments. Toute la plante est utilisée pour soigner différents maux et affections.
+Habitations, cultivations, fallow land, around dwellings, savannas; prefers a dry period for the production of calyces of good quality; at 0–1400 m altitude. Uses: The leaves and fleshy calyx (false sorrel) are edible, cooked and used for the preparation of rather mucilaginous sauces and soups. The flowers are used for the preparation of tea, especially by Muslims of the Sahelian region. In industrialized countries, the flowers are used as a natural food colorant. The entire plant is used to treat various ailments and afflictions.
 
 ## Vernacular names
 

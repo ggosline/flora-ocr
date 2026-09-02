@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Genyorchis pumila Auct. non (Sw.) Schltr., Westafr. Kautschuk-Exp.: 280 (1900).
 
-Pseudobulbes 0,6-1,5 × 0,3-0,5 cm, oblongs-ovões à coniques-ovões,2-foliés. Feuilles 0,7-2,5 × 0,2-0,7 cm, oblongues-elliptiques à linéaires, inégalement bilobées. Inflorescence 3,5-6(18) cm, lâche, rachis en zigzag, 4-6 (12)-flore. Fleurs blanches avec une tache jaune à la base et près du sommet du labelle, staminodes pourpres. Sépale dorsal oblong-elliptique à oblong-lancéolé ; sépales latéraux oblongs-ovés, base oblique, un apicule falciforme à l'extrémité. Pétales rudimentaires, largement triangulaires, subobtus, articulés au gynostème. Labelle oblong-obové, liguliforme, charnu à la base et sur le lobe médian ; celui-ci triangulaire à cordé-ové, obtus, récurvé, soudé à la face inférieure du labelle, lobes latéraux peu marqués, obtus. Éperon conique-sacciforme, émoussé. Pl. 105, p. 209.
+Pseudobulbs 0.6–1.5 × 0.3–0.5 cm, oblong-ovoid to conical-ovoid, 2-leaved. Leaves 0.7–2.5 × 0.2–0.7 cm, oblong-elliptic to linear, unequally bilobed. Inflorescence 3.5–6(18) cm, lax, rachis zigzag, 4–6(12)-flowered. Flowers white with a yellow patch at the base and near the apex of the labellum, staminodes purple. Dorsal sepal oblong-elliptic to oblong-lanceolate; lateral sepals oblong-ovate, base oblique, a falcate apicule at the apex. Petals rudimentary, broadly triangular, subobtuse, articulate to the gynostemium. Labellum oblong-obovate, ligulate, fleshy at the base and on the midlobe; the latter triangular to cordate-ovate, obtuse, recurved, fused to the lower surface of the labellum, lateral lobes inconspicuous, obtuse. Spur conical-saccate, blunt. Pl. 105, p. 209.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Principe, Gabon, Congo (Brazzaville), Congo (Kinshasa), Ouganda
+Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Príncipe, Gabon, Congo (Brazzaville), Congo (Kinshasa), Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1100–1400 m. Epiphyte; savanna, primary and swamp rainforest; collected on mangrove branch on a Rhizophora, as well as on a Syzygium guineense and a Manilkara
 
-alt. 1100-1400 m. Épiphyte ; savane, forêt ombrophile primaire et maréageuse ; récolté en mangrove sur branche d'un Rhizophora, ainsi que sur un Sysygium guineense et un Manilkara
+MATERIAL EXAMINED (Map 40):
 
-MATÉRIEL ÉTUDIÉ (Carte 40) :
+Bos, van der Laan & Nzabi s.n., Crique de Moka, E of Mondah, 0°39' N, 9°28' E, cult. WAG (85–164), not seen.
 
-Bos, van der Laan & Nzabi s.n., Crique de Moka, E de la Mondah, 0°39' N, 9°28' E, cult. WAG (85-164), non vidi.
+Villiers 110, Rivière Maliba (fl., June), P!.
 
-Villiers 110, Rivière Maliba (fl., Juin), P!.
-
-Wieringa 538, Woleu-Ntem, distr. Minkébé, 90 km au N de Makokou, vallée de la Nsya, bord de rivière, 1°22' N, 12°56' E (fl., Fév.), WAG!, LBV.
+Wieringa 538, Woleu-Ntem, dist. Minkébé, 90 km N of Makokou, Nsya valley, riverbank, 1°22' N, 12°56' E (fl., Feb.), WAG!, LBV.
 
 ## Figures
 

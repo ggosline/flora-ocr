@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BENTHAM & HOOKER, Gen. Pl. 1 : 244 (1862). — OLIVER, FTA 1 : 274 (1868). — O. E. SCHULZ, Pflanzenr., Erythroxylaceae : 161 (1907). — DE WILD., Plant. Bequaert. 4 : 249 (1927). — WILCZEK, Fl. Congo belge 7 : 39 (1958).
 
-Arbre ou arbuste pouvant atteindre 15-20 m de hauteur, glabre. Feuilles opposées; stipules à nervure médiane saillante sur le dos, triangulaires et fortement aiguës, caduques, longues d'environ 8 mm; pétiole légèrement canaliculé, de 5-9 mm. Limbe elliptique, aigu à la base, acuminé au sommet, 7-16 × 1,5-7,5 cm. Nervures secondaires légèrement saillantes en dessous.
+Tree or shrub reaching 15–20 m in height, glabrous. Leaves opposite; stipules with prominent midvein on the dorsal surface, triangular and sharply acute, caducous, about 8 mm long; petiole slightly channeled, 5–9 mm. Blade elliptic, acute at the base, acuminate at the apex, 7–16 × 1.5–7.5 cm. Secondary veins slightly prominent below.
 
-Fascicules axillaires, multiflores; bractées lobées et ciliolées, persistantes, de 0,5-1 mm. Sépales légèrement soudés à la base, oblongs, aiguis au sommet, longs d'environ 2 mm. Pétales elliptiques, rétrécis à la base, acuminés au sommet, à nervure médiane saillante sur le dos,  $ 4-6 \times 1-1,5 $ mm. Étamines de 3-5 mm; filets glabres, un peu plus large à la base et soudés en un tube très court; anthères ovales, versatiles, à 2 loges, d'environ 0,75 mm, déhiscentes par 2 fentes longitudinales. Ovaire 3(-4)-loculaire, 3(-4)-lobé au sommet, sillonné, long de 1,5 mm; ovules 2 par loge, collatéraux, pendants; styles 3, libres, terminaux, capités, de 0,5-1 mm.
+Axillary fascicles, multiflorous; bracts lobed and ciliolate, persistent, 0.5–1 mm. Sepals slightly connate at the base, oblong, acute at the apex, about 2 mm long. Petals elliptic, narrowed at the base, acuminate at the apex, with prominent midvein on the dorsal surface, $ 4–6 \times 1–1.5 $ mm. Stamens 3–5 mm; filaments glabrous, somewhat wider at the base and connate into a very short tube; anthers ovate, versatile, 2-locular, about 0.75 mm, dehiscing by 2 longitudinal slits. Ovary 3(–4)-locular, 3(–4)-lobed at the apex, furrowed, 1.5 mm long; ovules 2 per locule, collateral, pendulous; styles 3, free, terminal, capitate, 0.5–1 mm.
 
-Capsule déhiscente, 3 (-4)-loculaire, de 7-11 × 3-4 mm; graine oblongue, rétrécie aux extrémités, sillonnée, une par loge. PL. 11, 1-8, p. 47.
+Capsule dehiscent, 3(–4)-locular, 7–11 × 3–4 mm; seed oblong, narrowed at the extremities, furrowed, one per locule. PL. 11, 1–8, p. 47.
 
 ## Type
 
@@ -32,9 +30,7 @@ Mann s.n., Gabon (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Formations marécageuses du Gabon, du Bas-Congo et du Cameroun.
+Swampy formations of Gabon, Lower Congo, and Cameroon.
 
 ## Specimens examined
 

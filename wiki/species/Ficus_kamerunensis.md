@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : (1916) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 154 (1948) ; KEAY, FWTA, ed. 2, 1 : 608 (1958) ; AUBRÉV., FFCI, ed. 2, 1 : 84, tab. 16, fig. B (1959).
 
-Arbustes ou arbres épiphytes (étrangleurs) parfois lianescents. Rameaux feuillés épais de 1-5 mm, glabres ou avec des poils épars à plutôt denses, marron à jaunes, flexueux ou raides, marron-grisâtre à marron-noirâtre sur le sec. Feuilles disposées en spirales ou presque dis-tiques ou tendant à être opposées. Limbe elliptique à lancéolé ou à subové, long de (1,5-) 4-11 (-14) cm, large de (0,5-) 2-4 (-5) cm, char-tacé à subcoriace, marron et replié à sec, sommet acuminé à aigu, base aiguë à obtuse, bord entier, ± fortement involuté à sec ; les deux faces glabres ; nervures planes dessus, saillantes dessous ; (5-) 9-12 (-14) paires de nervures primaires latérales, difficiles à distinguer des nervures secondaires latérales bien développées, incluant 1 paire de
+Shrubs or epiphytic trees (stranglers) sometimes lianescent. Leafy branchlets 1-5 mm thick, glabrous or with scattered to rather dense hairs, brown to yellow, flexuous or rigid, brownish-grey to blackish-brown when dry. Leaves arranged in spirals or almost distichous or tending to be opposite. Blade elliptic to lanceolate or subovate, (1.5-) 4-11 (-14) cm long, (0.5-) 2-4 (-5) cm wide, chartaceous to subcoriaceous, brown and folded when dry, apex acuminate to acute, base acute to obtuse, margin entire, ± strongly involute when dry; both surfaces glabrous; veins flat above, prominent below; (5-) 9-12 (-14) pairs of lateral primary veins, difficult to distinguish from well-developed lateral secondary veins, including 1 pair of basal veins; glandular spot usually visible. Petiole 0.5-2 (-3) cm long, 1-2 cm thick, glabrous. Stipules free (or fused in the terminal bud?), 0.2-0.8 cm long, ± rather densely villous to velutinous brown to yellowish-white, ± glabrescent, or nearly glabrous, (sub)persistent.
 
-nervures basales ; tache glanduleuse habituellement visible. Petiole long de 0,5-2 (-3) cm, épais de 1-2 cm, glabre. Stipules libres, (ou soudées dans le bourgeon terminal ?), longues de 0,2-0,8 cm, ± désentement villeuses à velutineuses marron à blanc jaunâtre, ± glabrescentes, ou presque glabres, (sub) persistantes.
+Figs in pairs in the leaf axils, or on portions of branchlets already defoliate, sessile; basal bracts 2, broadly ovate to semicircular, about 3 mm long, about 2 mm wide, puberulent whitish to brownish or almost glabrous, the upper parts free and membranous often caducous; receptacle globose to obovoid, 0.5-0.8 cm in diameter when dry and fresh, glabrous, pinkish, reddish or reddish-brown at maturity, ± wrinkled when dry, ostiole coarsely depressed to coarsely prominent, bilabiate.
 
-Figues en paires dans les aisselles des feuilles, ou sur les portions de rameaux déjà défeuillés, sessiles ; bractées basales 2, largement ovées à semi-circulaires, longues de 3 mm environ, larges de 2 mm environ, pubérulentes blanchâtres à brunâtres à presque glabres, les parties supérieures libres et membraneuses souvent caduques ; réceptacle globuleux à obovoïde, d'un diamètre de 0,5-0,8 cm sur le sec et le frais, glabre, rosâtre, rougeâtre ou marron-rougeâtre à maturité, ± ridé à sec, ostiole grossièrement déprimé à grossièrement saillant, bilabié.
+Pistillate flowers with 3 tepals, about 1 mm long, basally fused; seed flowers sessile, style 1-1.5 mm long; gall flowers subsessile or pedicellate up to 1 mm. Gall fruits subglobose about 1 mm long; bicolored fruits. Staminate flowers few, sessile, perianth with 3 tepals 1-1.3 mm long, obtuse or ± cucullate, filament about 0.2-0.3 mm long, anther about 0.5 mm long. Interfloral bracts 1-1.5 mm long. - Pl. 46, p. 166.
 
-Fleurs pistillées avec 3 tépales, longs de 1 mm environ, basalement soudés ; fleurs à graines sessiles, style long de 1-1,5 mm ; fleurs à galles subsessiles ou pédicellées jusqu'à 1 mm. Fruits à galles subglobuleux longs de 1 mm environ ; fruits bicolores. Fleurs staminées peu nombreuses, sessiles, périanthe avec 3 tépales longs de 1-1,3 mm, obtus ou ± cucullés, filet long de 0,2-0,3 mm environ, anthère longue de 0,5 mm environ. Bractées interflorales longues de 1-1,5 mm. - Pl. 46, p. 166.
-
-Pollinisateur : Alfonsiella sp. (Gabon).
+Pollinator: Alfonsiella sp. (Gabon).
 
 ## Type
 
@@ -37,11 +33,9 @@ Staudt 897, Cameroun, Kumba (= Johann-Albrechtshöhe) (B ; iso-, BM, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The differences between F. kamerunensis and F. thonningii s.l. are rather slight. A few collections (for example Tisserant 1469 from Central African Republic and Léonard A. 1696 from Zaire), similar to the type specimen of F. persicifolia (from Angola and placed in F. thonningii), come very close to material attributed to F. kamerunensis. They differ mainly in the presence of figs with short peduncles. The position of F. kamerunensis could be reconsidered when the F. thonningii complex is subjected to a thorough study.
 
-Les différences entre F. kamerunensis et F. thonningii s.l. sont plutôt faibles. Quelques collections (par exemple Tisserant 1469 de Centrafrique et Léonard A. 1696 du Zaire), semblables à l'échantillon-type de F. persicifolia (d'Angola et mis dans F. thonningii), se rapprochent beaucoup du matériel attribué à F. kamerunensis. Ils différent surtout par la présence de figues courtement pédonculées. La position de F. kamerunensis pourrait être reconsidérée quand le complexe de F. thonningii fera l'objet d'une étude approfondie.
-
-L'espèce s'étend de la Sierra Leone à la Côte d'Ivoire, et depuis le Nigeria à travers le Cameroun et le Gabon jusqu'au Zaïre (et peut-être à l'Angola), aussi à São Tomé. Dans les aires de forêt dense humide sempervirente ou semi-décidue.
+The species ranges from Sierra Leone to Ivory Coast, and from Nigeria through Cameroon and Gabon to Zaire (and possibly Angola), also on São Tomé. In areas of dense humid evergreen or semi-deciduous forest.
 
 ## Specimens examined
 

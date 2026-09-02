@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre jusqu’à 30 m de hauteur ; tronc court, jusqu’à 150 cm de diamètre ; écorce extérieurement gris pâle et fauve, interne rosée à rouge; latex jaune à blanchâtre, collant ; rameaux longs et horizontaux ; ramilles 4-anguleuses , glabres. Feuille glabre ; pétiole de 1 ‒ 2,5( ‒ 3,5) cm ; limbe elliptique-oblongue à obové, 8 ‒ 20 × 4,5 ‒ 12 cm, largement cunéé à la base, sommet arrondi ou légèrement émarginé , coriace ; nervures latérales 8 ‒ 16( ‒ 20) par cm, proéminentes sur les deux faces. Inflorescence dans les aisselles des feuilles supérieures, en un faux racème, lâche, à 3 ‒ 15 fleurs, 5 ‒ 15 cm de longueur ; bractées ovées, 3 ‒ 4 mm de longueur, caduques. Fleur agréablement parfumées ; pédicelle 1,5 ‒ 4,5 cm ; sépales réfléchis, caducs, les deux externes ovées à circulaires, 5,5 ‒ 10 × 4,5 ‒ 8 mm, les deux internes elliptiques-obovés à obovés, 9 ‒ 15 mm de longueur, plus ou moins pétaloïdes ; pétales elliptiques à obovés, 9 ‒ 16 mm de longueur, plus minces que les sépales internes , caducs ; étamines plus de 200 , en 4 phalanges jaunes ou orangés, anthères oblongues, 1 ‒ 2 mm de longueur ; ovaire sphérique, 1,5 ‒ 3,5 mm de longueur, rose ; style 3 ‒ 4 fois plus long que l’ovaire. Fruit sphérique, 2,5 ‒ 5 cm de diamètre, lisse, vert grisé. Graine globuleuse à ovoïde, 1,7 ‒ 4 cm de longueur, brune, huileuse, sommet mamelonné .
+Tree up to 30 m tall; trunk short, up to 150 cm in diameter; bark externally pale grey and tawny, internally pinkish to red; latex yellow to whitish, sticky; branches long and horizontal; branchlets 4-angled, glabrous. Leaf glabrous; petiole 1–2.5(–3.5) cm; blade elliptic-oblong to obovate, 8–20 × 4.5–12 cm, broadly cuneate at base, apex rounded or slightly emarginate, coriaceous; lateral veins 8–16(–20) per cm, prominent on both surfaces. Inflorescence in the axils of upper leaves, in a loose false raceme, 3–15 flowers, 5–15 cm long; bracts ovate, 3–4 mm long, caducous. Flowers pleasantly fragrant; pedicel 1.5–4.5 cm; sepals reflexed, caducous, the two outer ones ovate to circular, 5.5–10 × 4.5–8 mm, the two inner ones elliptic-obovate to obovate, 9–15 mm long, more or less petaloid; petals elliptic to obovate, 9–16 mm long, thinner than the inner sepals, caducous; stamens more than 200, in 4 yellow or orange phalanges, anthers oblong, 1–2 mm long; ovary spherical, 1.5–3.5 mm long, pink; style 3–4 times longer than the ovary. Fruit spherical, 2.5–5 cm in diameter, smooth, greyish-green. Seed globose to ovoid, 1.7–4 cm long, brown, oily, apex mamillate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-indigène en Afrique de l’Est et Madagascar jusqu’en Australie, Taiwan, et les Îles Ryukyu et de la Ligne dans le Pacifique, régulièrement plantée dans cette zone, en Afrique de l’Ouest et en l’Amérique du Sud ; au Gabon parfois plantée et s’échappant dans les environs de Libreville
+Indigenous to East Africa and Madagascar extending to Australia, Taiwan, and the Ryukyu and Line Islands in the Pacific, regularly planted in this zone, in West Africa and South America; in Gabon sometimes planted and escaping in the vicinity of Libreville
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-côtes sableuses ou rocheuses, parfois à l’intérieur des terres sur des sols sablonneux ; au Gabon au niveau de la mer, ailleurs jusqu’à 200 m, mais planté jusqu’à 1200 m
+Sandy or rocky coasts, sometimes inland on sandy soils; in Gabon at sea level, elsewhere up to 200 m, but planted up to 1200 m
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ poon (nom pilot) ; bintangor, vintanina, takamaka (fr.) ; alexandrian laurel, be
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Drawing by L. Milne-Redhead (©), reproduced with permission from Robson (1961).
 
-Dessin par L. Milne-Redhead (©), reproduit avec permission à partir de Robson (1961).
-
-la mère après un accouchement. Les huiles du takamaka font aujourd’hui l’objet d’une production industrielle de cosmétiques ou des médicaments dans le Pacifique Sud. Enfin, l’espèce est utilisée en reboisement pour lutter contre l’érosion côtière. B : Bamps et al. (1978), Lemmens (2008a), Robson (1961), Stevens (1980). i B liographie
+the mother after childbirth. The oils of takamaka are today the subject of industrial production of cosmetics or medicines in the South Pacific. Finally, the species is used in reforestation to combat coastal erosion. B: Bamps et al. (1978), Lemmens (2008a), Robson (1961), Stevens (1980). Bibliography
 
 ## Notes
 

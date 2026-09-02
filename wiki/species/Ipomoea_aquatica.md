@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ou annuelle ; tiges épaisses, fistuleuses ou spongieuses, prostrées ou flottantes, s’enracinant aux nœuds glabres ou poilues . Feuille : pétiole (1–)3–8 cm, glabre ; limbe de forme variable, ovale à triangulaire ou parfois lancéolé ou linéaire, (1–)2–15 × 1–6 cm, glabre ; nervures basilaires, ± 3 paires, nervures latérales, 6–8 paires. Inflorescence glabre, en cymes de (1–)2–5 fleurs ; pédoncule 3–5 cm ; bractées minces, ± ovales, environ 2 mm de longueur. Fleur : pédicelle 1–3 cm, glabre ; sépales ± égaux, ovales, 6–8 mm de longueur, à marge mince hyaline ; corolle infundibuliforme, 4–5 cm de longueur , blanche, glabre ; étamines incluses ; pistil glabre ; ovaire 2-loculaire, 4 ovulé ; style environ 10–12 mm. Fruit globuleux, 8–10 mm de diamètre, glabre . Graines pubescentes .
+Perennial or annual herb; stems thick, fistulose or spongy, prostrate or floating, rooting at the nodes, glabrous or hairy. Leaf: petiole (1–)3–8 cm, glabrous; lamina of variable shape, oval to triangular or sometimes lanceolate or linear, (1–)2–15 × 1–6 cm, glabrous; basal nerves, ± 3 pairs, lateral nerves, 6–8 pairs. Inflorescence glabrous, in cymes of (1–)2–5 flowers; peduncle 3–5 cm; bracts thin, ± oval, approximately 2 mm in length. Flower: pedicel 1–3 cm, glabrous; sepals ± equal, oval, 6–8 mm in length, with thin hyaline margin; corolla funnel-shaped, 4–5 cm in length, white, glabrous; stamens included; pistil glabrous; ovary 2-locular, 4-ovulate; style approximately 10–12 mm. Fruit globose, 8–10 mm in diameter, glabrous. Seeds pubescent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce tropicale d’Afrique, d’Amérique et d’Asie ; au Gabon, seulement connue de l’Ogooué-Maritime
+tropical species from Africa, America and Asia; in Gabon, known only from Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+lake and river margins, swampy places; in Gabon, at low altitude, elsewhere, up to 1500 m
 
-bords de lacs et de rivières, endroits marécageux ; au Gabon, à basse altitude, ailleurs, jusqu’à 1500 m
-
-Dessin par J. Berhaut, reproduit avec permission à partir de Berhaut (1975).
+Drawing by J. Berhaut, reproduced with permission from Berhaut (1975).
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ kangkong, liseron d’eau, patate aquatique (fr) ; kangkong, kangkung, swamp spi
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les jeunes pousses et feuilles de kangkong sont récoltées comme légume vert, surtout en Asie du Sud-Est et en Chine ou c’est très populaire et cultivée fréquemment. B : Lejoly & Lisowski (1992), Grubben (2004). ibliographie
+Young shoots and leaves of kangkong are harvested as a green vegetable, especially in Southeast Asia and China where it is very popular and frequently cultivated. B: Lejoly & Lisowski (1992), Grubben (2004). Bibliography
 
 ## Notes
 

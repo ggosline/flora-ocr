@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Habenaria gabonensis Rchb.f., Bot. Zeit. 10 : 934 (1852).
 
 – Habenaria milnei Rchb. f., Otia Bot. Hamburg. 2 : 96 (1881).
@@ -27,53 +25,49 @@ tags: [species, generated]
 
 – Habenaria staudtii Kraenzl. ex Rolfe, FTA 7 : 221 (1898).
 
-Tige < 90 cm, glabre. Feuilles pétiolées, < 30 x < 6,5 cm, elliptiques à largement lancéolées ou blancéolées, aiguës. Inflorescence 9-18 cm, lâche à dense, nombreuses fleurs moyennes, résupinées, glabres, blanches avec bout des tépales vert. Sépale dorsal subaigu, elliptique-ové ; sépales latéraux obliques et elliptiques-ovés. Pétales obliques et oblongs-ovés, subaigus, avec ou sans petite dent basale. Labelle à 3 lobes nets : le médian linéaire à étroitement lancéolé, subobtus à subaigu, les latéraux pendants, filiformes à linéaires-lancéolés, aigus. Éperon pendant, filiforme, aigu, un peu renflé dans la moitié supérieure. - Pl. 12, p. 35.
+Stem < 90 cm, glabrous. Leaves petiolate, < 30 x < 6.5 cm, elliptic to broadly lanceolate or spathulate, acute. Inflorescence 9–18 cm, lax to dense, numerous medium flowers, resupinate, glabrous, white with apices of tepals green. Dorsal sepal subacute, elliptic-ovate; lateral sepals oblique and elliptic-ovate. Petals oblique and oblong-ovate, subacute, with or without small basal tooth. Labellum 3-lobed distinctly: the middle lobe linear to narrowly lanceolate, subobtuse to subacute, the lateral ones pendulous, filiform to linear-lanceolate, acute. Spur pendulous, filiform, acute, slightly swollen in the upper half. - Pl. 12, p. 35.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Cameroun, Centrafrique, Guinée équatoriale, Principe, Gabon, Congo (Brazzaville), Congo (Kinshasa), Ouganda
+from Sierra Leone to Cameroon, Central African Republic, Equatorial Guinea, Príncipe, Gabon, Congo (Brazzaville), Congo (Kinshasa), Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1500 m. Coastal or marshy savanna, lowland rainforest on trunk and branch axil of several tree species, among ferns and mosses, but especially on Elaeis guineensis, sometimes also on bare rock in a stream bed or in very sunny places
 
-alt. 0-1500 m. Savane côtière ou marécageuse, forêt ombrophile de plaine sur tronc et aisselle de branche de plusieurs espèces d'arbres, parmi les fougères et les mousses, mais surtout sur Elaeis guineensis, parfois aussi sur roche nue dans le lit d'un ruisseau ou aux endroits très ensoleillés
+MATERIAL EXAMINED (Map 4) :
 
-MATÉRIEL ÉTUDIÉ (Carte 4) :
+Bos, van der Laan & Nzabi 10623, summit of Abanga rock, on a rocky ledge with Triumfetta and Euphorbia, 0°50' N, 10°55' E (fl., July), WAG!, LBV. de Wilde, Arends, Louis, Bouman & Karper 559, km 45, along the Mbigou–Bamba road (fl., Feb.), P!, WAG! ; 653, Mayumba Peninsula, 15 km S of Mayumba (fl., Feb.), P!, WAG!, LBV.
 
-Bos, van der Laan & Nzabi 10623, sommet du rocher d'Abanga, sur une plaque rocheuse avec Triumfetta and Euphorbia, 0°50' N, 10°55' E (fl., Juil.), WAG!, LBV. de Wilde, Arends, Louis, Bouman & Karper 559, km 45 km, le long de la route Mbigou-Bamba (fl., Fév.), P!, WAG! ; 653, Péninsule de Mayumba, 15 km S de Mayumba (fl., Fév.), P!, WAG!, LBV.
+de Wilde, Arends & de Bruijn 9265, km 22, Mayumba to Tchibanga road, km 12 from the forestry track heading East, near Doussa, 3°16' S, 10°46' E (fl., Dec.), WAG!, LBV.
 
-de Wilde, Arends & de Bruijn 9265, km 22, route de Mayumba à Tchibanga, km 12 de la piste d'exploitation forestière en direction de l'Est, près de la Doussa, 3°16' S, 10°46' E (fl., Déc.), WAG!, LBV.
+de Wilde, Arends, Louis & Wieringa 9919, 7 km SE of Franceville on the Ndoumou road, Djoumou Falls, 1°41' S, 13°40' E (fl., Dec.), WAG!, LBV ; 10056, Cristal Mountains, km 10, Tchimbélé–Kinguélé road (fl., Dec.), WAG!,
 
-de Wilde, Arends, Louis & Wieringa 9919, 7 km SE de Franceville sur la route de Ndoumou, Chutes de la Djoumou, 1°41' S, 13°40' E (fl., Déc.), WAG!, LBV ; 10056, :Monts de Cristal, km 10, route de Tchimbélé- Kinguélé (fl., Déc.), WAG!,
+LBV ; 10072, midway between Kinguélé and Tchimbélé, almost at the stream–road junction (fl., Dec.), WAG!, LBV.
 
-LBV ; 10072, à mi-chemin entre Kinguélé et Tchimbélé, presqu’au croisement ruisseau-route (fl., Déc.), WAG!, LBV.
+de Wilde, Sosef & van Nek 10200, 2 km S of Kinguélé, along a tributary of the Mbé, 0°26' N, 10°17' E (fl., Jan.), WAG!, LBV.
 
-de Wilde, Sosef & van Nek 10200, 2 km au S de Kinguélé, le long d'un affluent de la Mbé, 0°26' N, 10°17 E (fl., Janv.), WAG!, LBV.
+Dybowski 118, at the edge of a wood, near Fernand Vaz (fl., Feb.), P!.
 
-Dybowski 118, au bord d'un bois, près du Fernand Vaz (fl., Fév.), P!.
+Florence 1575b, Makokou (fl., Jan.), P!.
 
-Florence 1575b, Makokou (fl., Janv.), P!.
+Hallé & Villiers 4945, Rocher Fané (fl., Feb.), P! ; 5002, near the base of Bangwé rock (fl., Feb.), P! ; 5503, Cap Estérias (fl., Feb.), P! ; 5662, Owendo, roadside (fl., Feb.), P!.
 
-Hallé & Villiers 4945, Rocher Fané (fl., Fév.), P! ; 5002, près de la base du rocher Bangwé (fl., Fév.), P! ; 5503, Cap Estérias (fl., Fév.), P! ; 5662, Owendo, bord de route (fl., Fév.), P!.
+Klaine 439, Libreville (fl., Mar.), P! ; 805, id. (fl., Feb.), P! ; 3286, id. (fl., Apr.), P! .
 
-Klaine 439, Libreville (fl., Mars), P! ; 805, id. (fl., Fév.), P! ; 3286, id. (fl., Avr.), P! .
-
-ein 40, Cap. Estérias (fl., Fév.), BR!, P!.
+ein 40, Cap Estérias (fl., Feb.), BR!, P!.
 
 Leroy (Mgr) 28, La Mondah, P!.
 
-Le Testu 241 & s.n., circonscription du Woleu-Ntem, rochers de Ncolayop (fl., Mai), BM!, BR!, P!; 9119, Bongo (fl., Juin), BM, BR!; 9164, Woleu-Ntem, Oyem (fl., Juin), BM!, BR!, P!.
+Le Testu 241 & s.n., Woleu-Ntem district, Ncolayop rocks (fl., May), BM!, BR!, P!; 9119, Bongo (fl., June), BM, BR!; 9164, Woleu-Ntem, Oyem (fl., June), BM!, BR!, P!.
 
-Louis LOS 1483, Cap de Perès, 1 km avant Cap Estérias (fl., Mars), WAG!.
+Louis LOS 1483, Cap de Perès, 1 km before Cap Estérias (fl., Mar.), WAG!.
 
 Pescatore s.n., s.loc., "Gabon", K!, P!.
 
-Reitsma J. M. & B. 836, 10 km N de Libreville (avec beaucoup d'Okoumé), 0°32' N, 9°20' E (fl., Avr.), WAG!, LBV ; 2851, 20 km N de Libreville, 0°35' N, 9°22' E (fl., Janv.), WAG!, LBV.
+Reitsma J. M. & B. 836, 10 km N of Libreville (with much Okoumé), 0°32' N, 9°20' E (fl., Apr.), WAG!, LBV ; 2851, 20 km N of Libreville, 0°35' N, 9°22' E (fl., Jan.), WAG!, LBV.
 
-Villiers 10, Riv. Maliba (fl., Mars), P! ; 79, Riv. Mdibé (fl., Avr.), P!.
+Villiers 10, Riv. Maliba (fl., Mar.), P! ; 79, Riv. Mdibé (fl., Apr.), P!.
 
 ## Figures
 

@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Louis et Mullenders Bull. S. B. Belg. 83 : 14 (1950).
 
-Herbe sarmenteuse, ramifiée, formant de fortes touffes à partir d'un rhizome. Partie non calleuse du pétiole souvent nulle, mais pouvant parfois atteindre plusieurs centimètres de long. Callus jusqu'à 4 cm. Limbe ovale à linéaire oblong. Poils de la nervure médiane du limbe tuberculés à la base.
+Sarmentose herb, branched, forming dense tufts from a rhizome. Non-callous portion of the petiole often lacking, but sometimes reaching several centimeters long. Callus up to 4 cm. Blade oval to linear-oblong. Hairs of the midvein of the blade tuberculate at the base.
 
-Inflorescence pendante, à ramifications dichotomes nombreuses. Bractées abaxiales de 2 à 3 cm de long, glabres, violacées, les adaxiales bicarénées, de ± 1 cm. Corolle blanche, d'environ 2,5 cm de long, staminodes jaunes. Fruits de 5 cm de diamètre et de 2 à 3 cm de haut.
+Pendulous inflorescence, with numerous dichotomous branches. Abaxial bracts 2 to 3 cm long, glabrous, violaceous, the adaxial ones bicarinate, ± 1 cm. Corolla white, about 2.5 cm long, staminodes yellow. Fruits 5 cm in diameter and 2 to 3 cm tall.
 
 ## Type
 
@@ -34,11 +32,9 @@ Louis 10038, Congo (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species widespread from Guinea to Uganda, through Cameroon, Gabon, Congo and Angola.
 
-Espèce répandue de la Guinée à l'Uganda, par le Cameroun, le Gabon, le Congo et l'Angola.
-
-Plante de sous-bois, surtout dans les recrus secondaires. Les tiges sont utilisées comme liens et les feuilles pour la confection de toitures ou d'emballages.
+Plant of forest understory, especially in secondary growth. The stems are used as ties and the leaves for making roofs or packaging.
 
 ## Specimens examined
 

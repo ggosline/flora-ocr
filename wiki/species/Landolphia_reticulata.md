@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grande liane ; rameaux à pubérulence dense brun-rouille . Feuille : pétiole de 5–16 mm ; OLPEHRYDOHjHOOLSWLTXH±IRLVDXVVLORQJTXHODUJHGH±î±FPVXEFRUGpj WURQTXpjODEDVHDFXPLQpjO¶DSH[DFXPHQGH±PPJODEUHjOpJqUHPHQWWRPHQWHX[GHV sus, surtout sur la nervure médiane, tomenteux dessous ; nervures secondaires 6 à 10 paires, SUHVTXHGURLWHVjOpJqUHPHQWFRXUEpHVQHUYDWLRQWHUWLDLUHUpWLFXOpH ,QÀRUHVFHQFH terminale, en forme de vrille GH±î±FPFKDTXHF\PHDYHFMXVTX¶jÀHXUVSpGRQFXOHGH 5–15,5 cm, à pubérulence dense brun-rouille, puis glabrescent et présentant de nombreuses SHWLWHVOHQWLFHOOHVEUDFWpHVVpSDORwGHVFLOLpHVjSXEHVFHQFHGHQVHEUXQURXLOOH Fleur généralement sous-tendue par 2 bractéoles ; pédicelle de 0,5–2 mm ; calice à lobes triangulaires, DXVVLORQJVTXHODUJHVORQJVGHPPDXULFXOpVjODEDVHJODEUHVRX¿QHPHQWSXEp rulents à l’extérieur ; corolle jaune pâle à blanche, longue de 10 mm dans le bouton mûr, à tube épais, long de 3,5–4,3 mm , large de 2,5 mm à ± la moitié de la longueur du tube, à poils bruns à l’extérieur, l’intérieur poilu vers le haut à partir des anthères , à lobes étroitement triangulaires, 1,7–2 fois la longueur du tube, de 7–8 × 2–2,5 mm, involutés sur le côté gauche, glabres à l’extérieur sur les parties non couvertes en bouton, glabres à l’intérieur ; étamines incluses, insérées à ± 0,65 de la longueur du tube, anthère longue de 1,4 mm ; pistil long de 1,5 mm, ovaire pubescent sur la moitié supérieure ; style de ± 0,1 mm. Fruit cm, orange à rouge-brun, à petites taches lenticellées de couleur plus claire. Distribution HQGpPLTXHGX*DERQ(VWXDLUH1JRXQLp1\DQJD2JRRXp,YLQGR2JRRXp0DULWLPHHW Woleu-Ntem. Écologie IRUrWSULPDLUHHWVHFRQGDLUHMXVTX¶jPG¶DOWLWXGH
+Large liana; branchlets with dense rust-brown pubescence. Leaf: petiole 5–16 mm; leaf blade elliptic, ± as long as it is wide, 0.5–2 cm, subcordate, truncate at the base, acuminate at the apex, acumen 0.5–1 mm, glabrous to slightly tomentose above, especially on the midvein, tomentose below; secondary veins 6 to 10 pairs, almost straight to slightly curved; tertiary nervation reticulate. Inflorescence terminal, in the form of a tendril, 0.5–1 cm, each cyme with up to flowers; peduncle 5–15.5 cm, with dense rust-brown pubescence, then glabrescent and presenting numerous small lenticels; bracts sepaloid, ciliate, with dense rust-brown pubescence. Flower usually subtended by 2 bracteoles; pedicel 0.5–2 mm; calyx with triangular lobes, as long as they are wide, 0.5–1 mm long, auriculate at the base, glabrous or finely pubescent on the outside; corolla pale yellow to white, 10 mm long in the mature bud, with thick tube, 3.5–4.3 mm long, 2.5 mm wide at ± half the length of the tube, with brown hairs on the outside, the inside hairy toward the top from the anthers, with narrowly triangular lobes, 1.7–2 times the length of the tube, 7–8 × 2–2.5 mm, involute on the left side, glabrous on the outside on the parts not covered in bud, glabrous on the inside; stamens included, inserted at ± 0.65 of the length of the tube, anther 1.4 mm long; pistil 1.5 mm long, ovary pubescent on the upper half; style ± 0.1 mm. Fruit cm, orange to rust-brown, with small lenticellate spots of lighter color. Distribution endemic to Gabon. Estuary Ngounié, Nyanga, Ogooué, Ivindo, Ogooué Maritime and Woleu-Ntem. Ecology primary and secondary forest up to m altitude.
 
 ## Bibliography
 
@@ -27,13 +25,11 @@ Persoon et al. (1992). Landolphia robustior .6FKXP-*03HUV Planche 67 Wageningen 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+tudinal ± Calyx cut longitudinal and pistil ± Ovary cut transversal ± (1-4: Leeuwenberg 12512). Drawing by Guido Vonk, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
-WXGLQDOHîѿ±&DOLFHFRXSHORQJLWXGLQDOHHWSLVWLOîҀ±2YDLUHFRXSHWUDQVYHUVDOHî (1-4 : Leeuwenberg 12512 ). Dessin par Guido Vonk, Naturalis Biodiversity Center (©), reproduit à partir de Persoon et al. (1992).
+tudinal ± Stamen seen ventrally ± Young inflorescence ramified ± Young floral bud ± Floral bud mr ± Fruit ± Seeds section longitudinal showing the embryo (× 1). (1-4, 7: Bos 4941; 5, 6: Leeuwenberg 9074; 8, 9: J.J.F.E. de Wilde et al. 742). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
-GLQDOHî±eWDPLQHYXHYHQWUDOHî±-HXQHLQÀRUHVFHQFHUDPLÀRUHî±-HXQHERXWRQ ÀRUDOî±%RXWRQÀRUDOPUî±)UXLWîҀ±*UDLQHVHFWLRQORQJLWXGLQDOHPRQWUDQW l’embryon (× 1). (1-4, 7 : Bos 4941 ; 5, 6 : Leeuwenberg 9074 ; 8, 9 : J.J.F.E. de Wilde et al. 742 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de Persoon et al. (1992).
-
-Distribution 1LJpULD&DPHURXQ*XLQpHpTXDWRULDOH*DERQ5pSXEOLTXHGX&RQJR5pSXEOLTXHGpPR FUDWLTXHGX&RQJRHW$QJROD&DELQGDDX*DERQWRXWHVOHVSURYLQFHV Écologie IRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGHDLOOHXUVMXVTX¶jP B : Beentje (2021), Persoon et al. (1992), Pichon (1953). IBLIOGRAPHIE
+Distribution Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola. Cabinda in Gabon, all the provinces. Ecology primary and secondary forest in Gabon up to m altitude, elsewhere up to m. B: Beentje (2021), Persoon et al. (1992), Pichon (1953). BIBLIOGRAPHY
 
 ## Notes
 

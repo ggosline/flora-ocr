@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub glabrous, 2–6 (9) m tall, with lateral branches ± horizontal. Stipules triangular or lanceolate, 6–20 mm long. Petioles 7–13 mm. Blade somewhat glossy, elliptic, 10–20 (24) × 3.5–10 (12) cm; base acute, briefly so or not, sometimes rounded, often somewhat unequal; apex acuminate. Midvein with a narrow raised line on the upper surface. 10–15 pairs of secondary veins. Fine reticulation slightly apparent below when dry. Domatia axillary, pilose along the midvein.
 
-Arbuste glabre de 2-6 (9) m de hauteur, à rameaux latéraux ± horizontaux. Stipules triangulaires ou lancéolées de 6-20 mm de longueur. Pétioles de 7-13 mm. Limbe un peu luisant elliptique de 10-20 (24) × 3,5-10 (12) cm; base aiguë brièvement ou non, parfois arrondie, souvent peu inégale; sommet acuminé. Médiane présentant une étroite ligne en relief à la face supérieure. 10-15 paires de nervures secondaires. Fin réseau un peu apparent en dessous à sec. Domaties axillaires pileuses le long de la médiane.
+Inflorescences many-flowered in oblong or conical panicles slightly contracted, 2–5 cm (without the corollas), with peduncle 3–7 mm, with glabrous axes, with bracts and bracteoles narrowly lanceolate, 2–7 mm long, ± pubescent. Pedicel 1–2 mm. Calyx glabrous with tube 1–1.5 mm tall and small acute teeth ± ciliolate, 1–1.5 mm. Corolla glabrous with tube 4–7 cm long and 1–1.5 mm diameter, pubescent inside; 5 oblong acute lobes, 10–14 × 2–3 mm. Anthers 5 mm, sessile, sub-basifixed, exsert, sagittate with appendages exceeding the locules at the extremities. Style glabrous with exsert clavate pale green fusiform apex with 2 apical lips much reduced. Ovary with 2 parietal placentas partially fused together. Disk fleshy, approximately 1 mm tall.
 
-Inflorescences multiflores en panicules oblongs ou coniques un peu contractés de 2-5 cm (sans les corolles), à pédoncule de 3-7 mm, à axes glabres, à bractées et bractéoles étroitement lancéolées longues de (2) 3-7 mm, ± pubescentes. Pédicelle de 1-2 mm. Calice glabre à tube de 1-1,5 mm de hauteur et petites dents aiguës ± ciliolées de 1-1,5 mm. Corolle glabre à tube de 4-7 cm de longueur et 1-1,5 mm de diamètre, pubescent à l'intérieur; 5 lobes oblongs aiguës de 10-14 × 2-3 mm. Anthères de 5 mm, sessiles, sub-basifixes, exsertes, sagittées à appendices dépassant les loges aux extrémités. Style glabre à massue exserte vert pâle fusiforme, à 2 lèvres apicales très réduites. Ovaire à 2 placentas pariétaux partiellement soudés entre eux. Disque charnu d'environ 1 mm de hauteur.
-
-Fruit lisse globoïde ou brèvement ellipsoïde de 2-2,5 cm, glabre, à pédoncule ± accrescent atteignant 5-10 mm, à paroi coriace de 1-2 mm d'épaisseur. Graines de 4 × 3 × 1 mm, à testa mince ochracé fibreux. Embryon de 3 mm entouré d'albumen oléagineux.
+Fruit smooth, globoid or briefly ellipsoid, 2–2.5 cm, glabrous, with peduncle ± accrescent reaching 5–10 mm, with coriaceous wall 1–2 mm thick. Seeds 4 × 3 × 1 mm, with thin ochraceous fibrous testa. Embryo 3 mm, surrounded by oily albumen.
 
 T. one.
 
-Cette espèce à port de Caféier est très largement répandue; connue de la Casamance à l'Afrique orientale. Sous-bois, forêts ± dégradées, galeries forestières ou friches broussailleuses.
+This species, with the habit of *Coffea*, is very widely distributed; known from Casamance to East Africa. Understory, ± degraded forests, forest galleries, or scrubby wastelands.
 
-Branchettes utilisées pour les soins dentaires en Afrique occidentale.
+Twigs used for dental care in West Africa.
 
 ## Specimens examined
 

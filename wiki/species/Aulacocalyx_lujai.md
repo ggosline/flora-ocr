@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 a. — var. Lukai
 
-Cette espèce est très proche de la précédente, elle en diffère principalement par ses entrençéds et stipules tout à fait glabres. Nervures des feuilles également glabres. Sépales courts, d'env. 1 mm. Corolle à tube de 13 mm.
+This species is very close to the preceding one, from which it differs principally by its internodes and stipules entirely glabrous. Leaf venation likewise glabrous. Sepals short, ca. 1 mm. Corolla with tube of 13 mm.
 
 ## Type
 
@@ -31,19 +29,17 @@ N. Hallé et A. Le Thomas 426 bis (P), Bélinga, alt. 800 m (fl. août)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De la région limitrophe Sud du Gabon on peut citer : A. Bouquet 1737, Sibiti-Zanaga (fl. oct.),
+From the southern borderland region of Gabon one may cite: A. Bouquet 1737, Sibiti-Zanaga (fl. Oct.),
 
 b. — var. subulata N. Hallé, var. nov.
 
 Lobis calycis 2-4 mm longis subulatis.
 
-Lobes du calice particulièrement longs, de 2-4 mm environ. Pilosité semblable à celle de la variété type. Corolle à tube de 7-15 mm. Style glabre.
+Calyx lobes particularly long, ca. 2-4 mm. Indumentum similar to that of the typical variety. Corolla with tube of 7-15 mm. Style glabrous.
 
-Autre matériel étudié :
+Other material studied:
 
-N. Hallé et A. Le Thomas 377, Mékambo (fl. août). Le Testu 8340, Ngwasso près d'Iméno (fl. sept.).
+N. Hallé and A. Le Thomas 377, Mékambo (fl. Aug.). Le Testu 8340, Ngwasso near Iméno (fl. Sept.).
 
 ## Notes
 

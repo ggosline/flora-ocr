@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 43(10, 11)
 
-Planche 43(10, 11)
-
-Arbre jusqu'à ±30 m de hauteur ; tronc jusqu'à ±20 cm de diamètre, cannelé ; écorce lisse, brunâtre à noirâtre, à odeur de pourriture ; ramilles grêles, légèrement sillonnées à l'état jeune,
-
-densément pubérulentes à poils blanchâtres ou jaunâtres, dorés ; bourgeons densément pubérulents. Stipules caduques, étroitement elliptiques-ovales, longues de (1,5–2,1–4,3–4,8 mm, densément pubérulentes. Feuille : pétiole de (2,4–2,6–3–4,1 mm, densément poilu ; limbe obiquement ovale à elliptique-ovale, de (3)–4–5,5–8) × (1,4–1,6–2–2,4) cm, subcoriace, oblique et aigu à la base, acuminé au sommet, à marge entière ou subentière, plane, parfois légèrement recourbée, finement et peu ciliée sur la majeure partie de sa longueur, parfois en totalité, dessous glabre, vert foncé brillant dessus, beaucoup plus pâles dessous; nervation densément réticulée, légèrement proéminente sur les deux faces, nervure médiane pubérulente sur les deux faces, nervures secondaires 4 ou 5(ou 6), ascendantes, en boucle et faiblement anastomosées bien avant la marge. Inflorescence mâle à l'aisselle des feuilles ou sous les feuilles, avec jusqu'à ±15 fleurs; bractées ovales, jusqu'à ±0,6 mm de longueur, poilues. Fleur mâle : pédicelle grêle, de (2)–3,2–5–5,5 mm, densément poilu ; sépales 4, imbriqués, ovales à oblongs, de 1,3–1,4(−1,9) × 0,8–1,1(−1,3) mm, obtus et légèrement cucullés au sommet, vert jaunâtre, poilus à l'extérieur, pubérulents à l'intérieur, à courts cils marginaux ; étamines 4, en un verticille autour de la marge du disque, filet de 1,8–2,4(−2,9) mm, anthère longue de (0,3–)0,4–0,6 mm; disque plan à légèrement concave, de (1,2–)1,3–1,6(−1,8) mm de diamètre, à marge quelque peu ondulée, légèrement saillante entre les filets, glabre, parfois avec pistillode atteignant ±0,1 mm. Inflorescence femelle comme la mâle, à fleur solitaire ; bractées comme chez les mâles. Fleur femelle non vue. Fruit (observé non mûr) globuleux, 2-lobé, de 5–6 × 6–7 mm, sans sépales persistants, poilu ; pédicelle de 4–5 mm, pubérulent.
+Tree up to ±30 m tall; trunk up to ±20 cm in diameter, fluted; bark smooth, brownish to blackish, with a smell of rot; branchlets slender, slightly grooved when young, densely puberulent with whitish or yellowish, golden hairs; buds densely puberulent. Stipules caducous, narrowly elliptic-ovate, 1.5–2.1–4.3–4.8 mm long, densely puberulent. Leaf: petiole 2.4–2.6–3–4.1 mm, densely hairy; blade obliquely ovate to elliptic-ovate, (3)–4–5.5–8) × (1.4–1.6–2–2.4) cm, subcoriaceous, oblique and acute at base, acuminate at apex, with entire or subentire margin, plane, sometimes slightly recurved, finely and sparsely ciliate over most of its length, sometimes entirely, glabrous beneath, dark green and shiny above, much paler beneath; venation densely reticulate, slightly prominent on both surfaces, midrib puberulent on both surfaces, secondary veins 4 or 5(or 6), ascending, looping and weakly anastomosing well before the margin. Male inflorescence in the axils of leaves or below the leaves, with up to ±15 flowers; bracts ovate, up to ±0.6 mm long, hairy. Male flower: pedicel slender, (2)–3.2–5–5.5 mm, densely hairy; sepals 4, imbricate, ovate to oblong, 1.3–1.4(−1.9) × 0.8–1.1(−1.3) mm, obtuse and slightly cucullate at apex, yellowish green, hairy outside, puberulent inside, with short marginal cilia; stamens 4, in a whorl around the margin of the disk, filament 1.8–2.4(−2.9) mm, anther (0.3–)0.4–0.6 mm long; disk plane to slightly concave, (1.2–)1.3–1.6(−1.8) mm in diameter, with somewhat undulate margin, slightly prominent between the filaments, glabrous, sometimes with pistillode reaching ±0.1 mm. Female inflorescence like the male, with solitary flower; bracts as in males. Female flower not seen. Fruit (observed immature) globose, 2-lobed, 5–6 × 6–7 mm, without persistent sepals, hairy; pedicel 4–5 mm, puberulent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liberia, Côte d'Ivoire, Nigeria, Cameroon, Equatorial Guinea (continental) and Gabon; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem.
 
-Libéria, Côté d'Ivoire, Nigéria, Cameroun, Guinée équatoriale continentale et Gabon ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Maritime et Woleu-Ntem
-
-Habitat : forêts sempervirentes primaires et secondaires, forêts fluviales, lisières de marécages, inselbergs ; au Gabon et ailleurs à 50–1000 m d'altitude.
+Habitat: primary and secondary evergreen forests, riverine forests, swamp margins, inselbergs; in Gabon and elsewhere at 50–1000 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cet arbre largement distribué apparaît très rare dans toute son aire de répartition, et nous n'avons observé aucun échantillon à fleurs femelles ou fruits mûrs. Parmi les espèces gabonaises de Drypètes à fleurs axillaires à quatre sépales et quatre étanines entourant un disque plan ou quelque peu concave, D. klainei se distingue de toutes, par ses plus petites feuilles, de forme oblique et à marge subentière
+This widely distributed tree appears very rare throughout its range, and we have observed no specimens with female flowers or mature fruits. Among the Gabonese species of Drypetes with axillary flowers with four sepals and four stamens surrounding a plane or somewhat concave disk, D. klainei is distinguished from all by its smaller leaves, oblique in form and with subentire margin.
 
 ## Bibliography
 

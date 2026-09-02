@@ -15,27 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant 15(–20) m de hauteur ou arbuste grimpant atteignant 3 m de hauteur ; tige subcylindrique, striée à crêtes longitudinales, pleine, densément pubescente, brun pâle à brun foncé, devenant brun rougeâtre, à pseudoépines atteignant 9(–12) mm . Feuilles opposées ; pétiole souvent discolore avec la tige, de 0,5–1,8(–2,4) cm ; limbe ovale à elliptique, rarement obovale, de (3,5–)6–10(–13) × (2,5–)3,5–5(–6) cm, arrondi à obtus à la base , à acumen atteignant 1,5 cm, ± glabre , à glandes ponctiformes claires ou noires dessous , surtout près de la nervure médiane , visiblement 3-nervé dès la base, parfois les 2 ner vures latérales (sub)obliques , vert ou brun sur le sec . Inflorescence terminale ou axillaire, lâche , paniculée , allongée, de 15–35 × 15–20 cm ; cymes avec 2 à 5(à 10) fleurs, distantes de (0,5–)1,5–2,5 cm ; pédoncule de 0,7–4,1(–8,5) cm, à pubescence dense blanche, jaune, brun doré ou brune ; bractées foliacées, de ± 5 × 3 cm, progressivement réduites distalement. Fleur : pédicelle de 5–17 mm ; calice blanc verdâtre ou blanc jaunâtre, pubescent, tube long de 2–3 mm, atteignant 6 mm en fruit , à lobes étalés, triangulaires, de 3–4 × 2–3 mm , atteignant 4 mm de largeur en fruit, acuminés à l’apex ; corolle blanche, verte, blanc verdâtre ou jaune, pubescente, à tube de 7–9 × 2 mm, à lobes largement ovales à oblongs, de 5–6 × 4 mm , aigus à l’apex ; étamines exsertes sur (1–)1,5 cm. Fruit de 8–10 × 8–10 mm, brillant, vert foncé, gris noirâtre à maturité.
+Liane reaching 15(–20) m in height or climbing shrub reaching 3 m in height; stem subcylindric, striate with longitudinal ridges, solid, densely pubescent, pale brown to dark brown, becoming reddish-brown, with pseudospines reaching 9(–12) mm. Leaves opposite; petiole often discolorous with the stem, 0.5–1.8(–2.4) cm; blade ovate to elliptic, rarely obovate, (3.5–)6–10(–13) × (2.5–)3.5–5(–6) cm, rounded to obtuse at the base, with acumen reaching 1.5 cm, ± glabrous, with clear or black punctate glands beneath, especially near the midvein, distinctly 3-nerved from the base, sometimes the 2 lateral nerves (sub)oblique, green or brown when dry. Inflorescence terminal or axillary, lax, paniculate, elongate, 15–35 × 15–20 cm; cymes with 2 to 5(to 10) flowers, distant (0.5–)1.5–2.5 cm apart; peduncle 0.7–4.1(–8.5) cm, with dense white, yellow, golden-brown or brown pubescence; bracts foliaceous, ± 5 × 3 cm, progressively reduced distally. Flower: pedicel 5–17 mm; calyx whitish-green or yellowish-white, pubescent, tube 2–3 mm long, reaching 6 mm in fruit, with spreading, triangular lobes, 3–4 × 2–3 mm, reaching 4 mm wide in fruit, acuminate at the apex; corolla white, green, whitish-green or yellow, pubescent, with tube 7–9 × 2 mm, with broadly ovate to oblong lobes, 5–6 × 4 mm, acute at the apex; stamens exserted (1–)1.5 cm. Fruit 8–10 × 8–10 mm, glossy, dark green, greyish-black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale tropicale, Tchad, Nigéria, Cameroun, Gabon, République du Congo, République démocratique du Congo et République Centrafricaine ; au Gabon : une seule station dans le Haut-Ogooué. Statut de conservation : à large répartition et attribué préliminairement à Préoccupation mineure (LC)
+Tropical West Africa, Chad, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic; in Gabon: a single station in Haut-Ogooué. Conservation status: widely distributed and preliminarily assigned to Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ; sans altitude pour le Gabon, ailleurs jusqu’à 700 m
+Savannas; no altitude data for Gabon, elsewhere up to 700 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans les spécimens d’herbier, la tige apparaît parfois creuse à la coupe, mais c’est probablement le résultat d’un rétrécissement au séchage. Des feuilles ternées ont été signalées une seule fois, en Guinée. Bi : Huber et al. (1963). B liographie
+In herbarium specimens, the stem sometimes appears hollow in cross-section, but this is probably the result of shrinkage during drying. Ternate leaves have been reported only once, in Guinea. Bi: Huber et al. (1963). Bibliography
 
 ## Notes
 

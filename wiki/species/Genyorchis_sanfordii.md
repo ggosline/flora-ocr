@@ -17,37 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes < 0,6 × 0,6 cm, sphériques, rehaussés de rouge, 2-foliés. Feuilles vert foncé, < 0,5 × 0,4 cm, elliptiques à elliptiques-ovées, sub-bilobées au sommet. Inflorescence 1,2-3,1 cm, lâche, rachis non-ailé, 4-10-flore. Fleurs magenta vif, anthère crème (fleurs pourpre foncé sur le sec). Sépale dorsal oblong-obové, aigu ; sépales latéraux obliquement elliptiques-triangulaires, acuminés. Pétales minuscules, en losange, soudés à la base du gynostème. Labelle obtriangulaire, épaissi le long de la veine médiane et à la base, marges apicales épaisses, charnues, rectilignes, non révolutées, finement papilleuses ; lobes latéraux triangulaires, aigus, minces, fragiles. Éperon conique, émoussé. - Pl. 107, p. 211.
+Pseudobulbs < 0.6 × 0.6 cm, spherical, tinged with red, 2-leaved. Leaves dark green, < 0.5 × 0.4 cm, elliptic to elliptic-ovate, sub-bilobed at the apex. Inflorescence 1.2–3.1 cm, lax, rachis non-winged, 4–10-flowered. Flowers bright magenta, anther cream (flowers dark purple when dry). Dorsal sepal oblong-obovate, acute; lateral sepals obliquely elliptic-triangular, acuminate. Petals minute, rhomboid, fused to the base of the gynostemium. Labellum obtriangular, thickened along the median vein and at the base, apical margins thick, fleshy, rectilinear, not revolute, finely papillose; lateral lobes triangular, acute, thin, fragile. Spur conical, blunt. - Pl. 107, p. 211.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Congo (Brazzaville), Gabon
+Cameroon, Congo (Brazzaville), Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 100 m. Epiphytic on stem covered with lichens exposed due to its emergent nature
 
-alt. 100 m. Épiphyte sur fût couvert de lichens exposé du fait de son émergence
+MATERIAL STUDIED
 
-MATÉRIEL ÉTUDIÉ
-
-Louis, Breteler & de Bruijn 320, forêt exploitée au S d'Ekouk (fl., Fév.), WAG! (in liq.).
+Louis, Breteler & de Bruijn 320, exploited forest S of Ekouk (fl., Feb.), WAG! (in liq.).
 
 ORCHIDACEAE
 
-REMERCIEMENTS.
+ACKNOWLEDGEMENTS.
 
-Dariusz L. SzLACHETKO, souhaite exprimer ses sincères remerciements aux personnes suivantes : Professeur, Dr. Philippe MORAT, Directeur du Laboratoire de Phanérogamie, Dr. Yvonne VEYRET, Dr. Odile PONCY, Mr. Marc PIGNAL, ainsi que les conservateurs responsables des herbiers BM, BR, HBG, K, W et WAG, pour leur hospitalité lors de ses visites personnelles.
+Dariusz L. SZLACHETKO wishes to express his sincere thanks to the following persons: Professor, Dr. Philippe MORAT, Director of the Laboratory of Phanerogams, Dr. Yvonne VEYRET, Dr. Odile PONCY, Mr. Marc PIGNAL, as well as the curators responsible for the herbaria BM, BR, HBG, K, W and WAG, for their hospitality during his personal visits.
 
-Nous sommes redevables à Mmes Magda JAKALSKA et Alina SZLACHETKO pour leur assistance technique dans la préparation des cartes et des dessins de cette publication.
+We are indebted to Mmes Magda JAKALSKA and Alina SZLACHETKO for their technical assistance in the preparation of the maps and drawings of this publication.
 
-Ce travail a été financé en partie par les crédits KBN 6P04C 063 15 et KBN 6P04C 094 21 du Comité de la Recherche Scientifique de Pologne, et par le crédit BW 1100-5-0210-8 de l'Université de Gdańsk.
+This work was funded in part by grants KBN 6P04C 063 15 and KBN 6P04C 094 21 from the Committee for Scientific Research of Poland, and by grant BW 1100-5-0210-8 from the University of Gdańsk.
 
-Les ronds pleins indiquent la distribution de la première espèce citée, les ronds creux se rapportent à la deuxième espèce.
+Solid circles indicate the distribution of the first species cited, hollow circles refer to the second species.
 
 ## Figures
 

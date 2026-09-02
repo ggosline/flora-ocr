@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, stoloniferous and with creeping rhizomes often forming pure stands in floating meadows. Culms rooting at the lower nodes, simple or branched, with numerous nodes, reaching 1 m tall or more. Leaves with glabrous sheaths, generally shorter than the internodes; ligule short, obliquely truncate, or bilobed; blades narrowly linear 7.5–15×0.3–0.8 cm, scabrous and cutting on the margins.
 
-Herbe pérenne, stolonifère et à rhizomes rampants formant souvent des peuplements purs en prairies flottantes. Chaumes radicants aux nœuds inférieurs, simples ou ramifiés, à nombreux nœuds, atteignant 1 m de haut ou plus. Feuilles à gaines glabres, généralement plus courtes que les entrenœuds; ligule courte, obliquement tronquée, ou bilobée; limbes linéaires étroits de 7,5-15×0,3-0,8 cm, scabres et coupants sur les bords.
+Panicle erect, 5 to 15 cm with thin, zigzag branches. Spikelets imbricate, flattened, oblong, asymmetric, 3–4 mm long. Glumes marked by a bifid swelling at the apex of the pedicel. Lemma scabrous on the margins and lateral nerves and bearing on the keel straight or slightly curved spinose hairs. Palea narrower, bearing stiff hairs on the keel like the lemma. Six stamens.
 
-Panicule dressée, de 5 à 15 cm à branches minces, en zigzag. Épilets imbriqués, aplatis, oblongs, asymétriques, de 3-4 mm de long. Glumes marquées par un renflement bifide à l'extrémité du pédicelle. Lemma scabre sur les bords et les nervures latérales et portant sur la carène des poils épineux droits ou légèrement courbés. Paléa plus étroite, portant des poils raides sur la carène comme la lemma. Six étamines.
-
-Espèce pantropicale, susceptible de fournir un assez bon pâturage à l'état jeune.
+Pantropical species, capable of providing fairly good pasture when young.
 
 ## Specimens examined
 

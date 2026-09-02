@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stiff, branched herb, erect, or small shrub 0.50–1 m. Stems puberulent to glabrescent, green or ± reddish. Stipules with 5–6(7) filiform teeth 2–4(9) mm, pubescent. Petiole puberulent or pubescent 2–10 mm. Blade thin, subglabrous to finely pubescent, lanceolate, 20–95 × 7–35 mm; base cuneate decurrent; apex very acute ± attenuate. 5–8 pairs of secondary veins puberulent beneath.
 
-Herbe raide rameuse, dressée, ou arbuscule de 0,50-1 m. Tiges pubérulentes à glabrescentes, vertes ou ± rougeâtres. Stipules à 5-6(7) dents filiformes de 2-4(9) mm, pubescentes. Pétiole pubérulent ou pubescent de 2-10 mm. Limbe mince, subglabre à finement pubescent, lancéolé, de 20-95 × 7-35 mm; base cunéiforme décurrente; sommet très aigu ± atténué. 5-8 paires de nervures secondaires pubérulentes dessous.
+Inflorescences spiciform at first slender 3–4 cm long, then ± vigorous and stiff reaching nearly 40 cm in length in certain forms, sometimes conversely reduced and pauciflorous. Flowers paired, spaced toward the base of the rachis, staggered, subsessile. Calyx green ± puberulent with 1–3 developed lanceolate lobes, the others very reduced. Corolla mauve, red or pink, glabrous (or pubescent: Le Testu 9129), with tube 3–6 mm flared at the throat, with 5(6) lobes reaching 2 × 1.5 mm. Anthers included grey-ochraceous reaching 1.8 × 0.7 mm. Filament one-third of a millimeter long. Style slender 7–10 mm, glabrous. Stigma with 2 short papilliferous lobes spreading. Disc with white micropubescence. Ovary obconical 3 mm; ovular masses 1.5 mm, narrow.
 
-Inflorescences spiciformes d'abord grêles de 3-4 cm de long, puis ± vigoureuses et raides jusqu'à atteindre près de 40 cm de longueur dans certaines formes, parfois au contraire réduites et pauciflores. Fleurs jumelées, espacées vers la base du rachis, échelonnées, subsessiles. Calice vert ± pubérulent à 1-3 lobes développés lancéolés, les autres très réduits. Corolle mauve, rouge ou rose, glabre (ou pubescente : Le Testu 9129), à tube de 3-6 mm évasé à la gorge, à 5(6) lobes atteignant 2 × 1,5 mm. Anthères incluses gris-ochracé atteignant 1,8 × 0,7 mm. Filet long d'un tiers de millimètre. Style grêle de 7-10 mm, glabre. Stigmate à 2 courts lobes papillifères étalés. Disque à micropubérulence blanche. Ovaire obconique de 3 mm; masses ovulaires de 1,5 mm, étroites.
-
-Fruit obconique de 4-6 mm, pédicellé sur 1-2 mm, orné de nervures saillantes et d'un court rostre apical. Nombreuses graines rousses de 0,5-0,6 mm, ± anguleuses.
+Fruit obconical 4–6 mm, pedicellate for 1–2 mm, ornamented with prominent veins and a short apical beak. Numerous russet seeds 0.5–0.6 mm, ± angular.
 
 ## Type
 
@@ -31,17 +29,15 @@ Zenker 621 (BM, non vu), Yaoundé. Autre spécimen de référence : Zenker 1385 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species taken in the broad sense is fairly variable; the typical form appears almost glabrous, it presents small blades, inflorescences of little vigor and glabrous corollas.
 
-Cette espèce prise au sens large est assez variable; la forme typique paraît presque glabre, elle présente des limbes petits, des inflorescences peu vigoureuses et des corolles glabres.
+From Nigeria to Congo and upper Ubangi. Slopes of ± shaded mountains or very humid trails. Discovered in cloud forest zone around 800–1,000 m. Humid leaf-mould flakes on rocks.
 
-Du Nigeria au Congo et haut Oubangui. Pentes de montagnes ± ombragées ou sentiers très humides. A découvert en zone de nuages fréquents vers 800-1 000 m. Flaques humifères sur rochers.
+N. Hallé: 2746, 2793, 2816, 3210, Bélinga (fl. fr. Oct.; fr. Nov.).
 
-N. Hallé : 2746, 2793, 2816, 3210, Bélinga (fl. fr. oct.; fr. nov.).
+N. Hallé and G. Cours: 5922, Ovala (fl. fr. May).
 
-N. Hallé et G. Cours : 5922, Ovala (fl. fr. mai).
-
-G. Le Testu : 9002 bis, rocher de Koum (fl. fr. mars); 9129, Abam, même région entre Bitam et Oyem (fl. fr. mai).
+G. Le Testu: 9002 bis, Koum rock (fl. fr. Mar.); 9129, Abam, same region between Bitam and Oyem (fl. fr. May).
 
 ## Notes
 

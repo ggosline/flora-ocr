@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 21
 
-Planche 21
-
-Herbe grimpante, dioïque, tiges finement striées, glabres. Vrilles filiformes, bifides au sommet, rarement simples. Feuille : pétiole 3–5 cm, glabre ; limbe ovale-cordé, longuement acquiné au sommet, long de 6–7 cm et large de 4–5 cm, submembraneux, entier ou légèrement denté, glabre, vert vif dessus, vert pâle dessous. Inflorescence : la mâle en panicule de 3–9 cm ; la femelle en courts racème pauciflore. Fleur mâle : pédicelle 1–1,5 mm ; réceptacle très réduit ; sépales oblongs ou largement ovales, obtus au sommet, de 3 mm long et large ; pétales légèrement charnus, jaune-brunâtre, inégaux, 3 de 8–10 mm long et 2–3 mm large, les 2 autres un peu plus long et plus larges ; étamines à filet filiforme, de 1,5–2 mm. Fleur femelle : ovaire trigone, styles 3. Fruit subcylindrique, 7–8 cm long et 1,3–1,6 cm de diamètre, lisse. Graines pendantes, brun pâle, 13–15 mm long et 2,5 mm large, au sommet avec une aile transparente, fine, oblongue ou ovale, 8–9 mm long.
+Climbing herb, dioecious, stems finely striated, glabrous. Tendrils filiform, bifid at the apex, rarely simple. Leaf: petiole 3–5 cm, glabrous; limb ovate-cordate, long-acuminate at the apex, 6–7 cm long and 4–5 cm wide, submembranaceous, entire or slightly dentate, glabrous, bright green above, pale green below. Inflorescence: the male in a panicle of 3–9 cm; the female in short, pauciflorous raceme. Male flower: pedicel 1–1.5 mm; receptacle very reduced; sepals oblong or broadly ovate, obtuse at the apex, 3 mm long and wide; petals slightly fleshy, yellowish-brown, unequal, 3 of 8–10 mm long and 2–3 mm wide, the 2 others somewhat longer and wider; stamens with filiform filament, 1.5–2 mm. Female flower: ovary trigonous, styles 3. Fruit subcylindric, 7–8 cm long and 1.3–1.6 cm in diameter, smooth. Seeds pendulous, pale brown, 13–15 mm long and 2.5 mm wide, at the apex with a transparent, fine, oblong or ovate wing, 8–9 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Afrique Centrale e Ouest, de Ghana à Angola ; au Gabon : une seule collection de Haut-Ogooué (altitude inconnue)
+distributed in Central and West Africa, from Ghana to Angola; in Gabon: a single collection from Haut-Ogooué (altitude unknown)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Végétation hygrophile
+Hygrophilous vegetation
 
 ## Bibliography
 

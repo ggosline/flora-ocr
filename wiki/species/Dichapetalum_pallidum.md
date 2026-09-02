@@ -17,39 +17,35 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nat. Pflanzenfam. 3 (4): 349, see notes (1896); Bot. Jahrb. 46: 570, see notes (1912); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 648, see notes (1913); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 324 (1928); HAUMAN, FZRB 7: 307 (1958); KEAY, FWTA, ed. 2, 1 (2): 436 (1958); BRETELER, MLW 73 (13): 4, 7, 15, 17, 21, 24, 26, 28, 29, 33, 48, 51; 52, 112, XIX (1973); L.C. 78 (10): 15, 16 (1978); L.C. 79 (16): 22, 43, 59 (1979); L.C. 81 (10): 51, 65-75 (1981); L.C. 82 (8): 25, 81 (1982); AUWP 86 (3): 1, 3, 12, 13, 14 (1986).
 
-Nat. Pflanzenfam. 3 (4): 349, voir notes (1896); Bot. Jahrb. 46: 570, voir notes (1912); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 648, voir notes (1913); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 324 (1928); HAUMAN, FZRB 7: 307 (1958); KEAY, FWTA, ed. 2, 1 (2): 436 (1958); BRETELER, MLW 73 (13): 4, 7, 15, 17, 21, 24, 26, 28, 29, 33, 48, 51; 52, 112, XIX (1973); L.C. 78 (10): 15, 16 (1978); L.C. 79 (16): 22, 43, 59 (1979); L.C. 81 (10): 51, 65-75 (1981); L.C. 82 (8): 25, 81 (1982); AUWP 86 (3): 1, 3, 12, 13, 14 (1986).
+- Chailletia pallida OLIVER, FTA 1: 343 (1868). TYPE: Nigeria, Epe ("Eppah"), Barter 3299 (holo-, K; iso-, P).
 
-- Chailletia pallida OLIVER, FTA 1: 343 (1868). TYPE: Nigéria, Epe (« Eppah »), Barter 3299 (holo-, K; iso-, P).
+- Dichapetalum hypoleucum HIERN, Cat. Welw. Afr. Pl. 1: 138 (1896); EXELL & MENDONÇA, CFA 1(2): 325 (1951); BRETELER, MLW 73 (13): XIX, syn. of D. pallidum (1973). TYPE: Angola (?), s.l., Welwitsch 4667 (holo-, BM; iso-, LISU).
 
-- Dichapetalum hypoleucum HIERN, Cat. Welw. Afr. Pl. 1: 138 (1896); EXELL & MENDONÇA, CFA 1(2): 325 (1951); BRETELER, MLW 73 (13): XIX, syn. de D. pallidum (1973). TYPE: Angola (?), s.l., Welwitsch 4667 (holo-, BM; iso-, LISU).
+- D. cinereum ENGL., Bot. Jahrb. 33: 85 (1902); L.C. 46: 574 (1912); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 645 (1913); BRETELER, MLW 73 (13): XIX (1973); L.C. 78 (10): 15-16, syn. of D. pallidum (1978). TYPE: Cameroon, Yaoundé, Zenker 745 (lecto-, WU; iso-, BREM, K).
 
-- D. cinereum ENGL., Bot. Jahrb. 33: 85 (1902); L.C. 46: 574 (1912); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 645 (1913); BRETELER, MLW 73 (13): XIX (1973); L.C. 78 (10): 15-16, syn. de D. pallidum (1978). TYPE: Cameroun, Yaoundé, Zenker 745 (lecto-, WU; iso-, BREM, K).
+- D. griseo-viride RUHL., Bot. Jahrb. 33: 84 (1902); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 645 (1913); BRETELER, MLW 73 (13): XIX (1973); L.C. 79 (16): 22, syn. of D. pallidum (1979). TYPE: Cameroon, Bipindi, Zenker 2451 (holo-, B. dele.; lecto-, WAG; isolecto-, B. BM, BR, COI, E. G, GOET, L. M, PRE, W, WU, Z).
 
-- D. griseo-viride RUHL., Bot. Jahrb. 33: 84 (1902); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 645 (1913); BRETELER, MLW 73 (13): XIX (1973); L.C. 79 (16): 22, syn. de D. pallidum (1979). TYPE: Cameroun, Bipindi, Zenker 2451 (holo-, B. dele.; lecto-, WAG; isolecto-, B. BM, BR, COI, E. G, GOET, L. M, PRE, W, WU, Z).
+(for other synonyms, see BRETELER 1981: 65).
 
-(pour les autres synonymes, voir BRETELER 1981: 65).
+Liane of small to large size, scandent shrub or shrub. Main stem diameter ≤ 12 cm. Woody cylinder deeply divided by intrusion of phloem (BRETELER 1973: phot. 7). Old branchlets dark brown to black with pale lenticels, those of orthotropic axes arranged in 5 longitudinal rows (ibid.: phot. 10), glabrous or glabrescent. Young branchlets covered with whitish to pale brown indumentum very similar to fur, then glabrescent with age.
 
-Liane de petite ou de grande taille, arbuste lianescent ou arbuste. Tige principale de diamètre ≤ 12 cm. Cylindre ligneux profondément divisé par l'intrusion du phloème (BRETELER 1973 : phot. 7). Rameaux âgés brun foncé à noirs avec des lenticelles pâles, celles des axes orthotropes disposées sur 5 rangées longitudinales (id. : phot. 10), glabres ou glabrescents. Jeunes rameaux couverts d'un indumentum blanchâtre à brun pâle très semblable à une fourrure, puis glabrescents avec l'âge.
+Stipules often fairly persistent, ovate-triangular to oblong or nearly linear, falcate or not, 3-4-8 (16) mm long, ≤ 3 (6) mm wide; outer face generally covered with dense appressed fur or sometimes silky; interior glabrous or nearly so (a few hairs at base); stipules later becoming glabrous or not; on aphyllous orthotropic shoots, they are sometimes completely fused and bracteiform.
 
-Stipules souvent assez persistantes, ovées-triangulaires à oblongues ou presque linaires, falciformes ou non, longues de (3) 4-8 (16) mm, larges de ≤ 3 (6) mm ; face externe en général couverte d'une fourrure serrée apprimée ou parfois soyeuse ; intérieur glabre ou presque (quelques poils à la base) ; les stipules deviennent ensuite glabres ou non ; sur des pousses orthotropes aphylles, elles sont parfois complètement réunies et bractéiformes.
+Leaves. Petiole subcylindric to laterally compressed, furrowed above or not, (2) 3-5 (10) mm long, pubescent like young branchlets. Blade entire, very rarely undulate-dentate, folded or not along vein I when young, obovate-elliptic, rarely oblong, (1.5) 2-3 (4) times longer than wide, (4) 7-13 (32) × (2) 3-7 (12) mm; base rounded to obtuse-cordate or cuneate; apex sometimes obtuse to acute but more often with an acumen of 0.5-2 (3) cm generally acute or subacute at the tip; blade glabrous or covered with ± lax indumentum, early caducous, forming white to brown arachnoid layer on upper surface, whereas on the lower surface, the covering, generally more persistent, forms dense fur, arachnoid, white to pale brown; there are also sometimes silky hairs on the main veins; vein I and the (5) 6-13 (16) pairs of main veins II, impressed above, prominent below; glands, when present, only on lower surface, generally hidden by persistent arachnoid layer, very probably non-functional.
 
-Feuilles. Pétiole subcylindrique à comprimé latéralement, sillonné dessus ou non, long de (2) 3-5 (10) mm, pubescent comme les jeunes rameaux. Limbe entier, très rarement ondulé-denté, plié ou non suivant la nervure I à l'état jeune, obové-elliptique, rarement oblong, (1,5) 2-3 (4) fois plus long que large, (4) 7-13 (32) × (2) 3-7 (12) mm; base arrondie à obtuse-cordée ou cunée; sommet parfois obtus à aigu mais plus souvent avec un acumen de 0,5-2 (3) cm en général aigu ou subaigu à l'extrémité; limbe glabre ou revêtu d'un indumentum ± lâche, tôt caduc, formant une arachnée blanche à brune sur le dessus,
+Inflorescences pedunculate, cymose, few- to multiflowered, either axillary and solitary or in pairs (3), or grouped on aphyllous shoots, generally with at least one order of branching visible, with dense fur indumentum. Peduncle 0.5-2.5 cm. Bracts and bracteoles ovate-triangular, ≤ 5 mm long, the lowermost often situated well above the first branching point. Pedicel ≤ 10 mm, woolly-tomentose to villous, upper part visible ≤ 0.5-2.5 mm.
 
-alors qu'à la face inférieure, le revêtement, en général plus persistant, forme une fourrure serrée, arachnoïde, blanche à brun pâle ; il y a aussi parfois des poils soyeux sur les principales nervures ; la nervure I et les (5) 6-13 (16) paires principales de nervures II, imprimées dessus, proéminentes dessous ; glandes, quand elles existent, seulement présentes à la face inférieure, en général cachées par l'arachnée persistante, très probablement non fonctionnelles.
+Flowers. Sepals reflexed, obovate-oblong to elliptic, 2-4 × 1-2 mm; exterior villous-tomentose to woolly-tomentose, interior generally completely glabrous, apex acute to emarginate. Petals erect to spreading, shortly fused to filaments by their base, narrow and obovate to spathulate, 2.5-4 mm long, split for 1-2.5 mm; exterior often with a few hairs just below the split; interior glabrous; lobes concave and rounded at the apex. Stamens erect to spreading, 2.5-4.5 mm long, often somewhat longer than the petals and glabrous; anthers ≈ 0.5 mm, connective prominent. Staminodes fine, subquadrate to oblong, ≤ 0.8 × 0.5 mm, glabrous or nearly so, apex obtuse to lobulate. Pistil 3 (4)-merous, 2.5-5 mm long; ovary woolly; style glabrous with 3 (4) lobes ≤ 0.7 mm long, exceptionally with 3 entirely free styles.
 
-Inflorescences pédonculées, cymeuses, pauci- à multiflores, soit axillaires et isolées ou par 2 (3), soit groupées sur des pousses aphylles, en général avec au moins un ordre de ramification visible, avec un indumentum en fourrure compacte. Pédoncule de 0,5-2,5 cm. Bractées et bractéoles ovées-triangulaires, longues de ≤ 5 mm, les plus inférieures souvent situées bien au-dessus de la première ramification. Pédicelle ≤ 10 mm, laineux-tomenteux à villeux, partie supérieure visible ≤ 0,5-2,5 mm.
+Fruits 1-3-seeded, subspheric to ovo-ellipsoidal, slightly lobed when more than one seed, rarely with a short apicule, yellowish to orange at maturity; exocarp dehiscent or not, 1-3 mm thick (without tubercles), with smooth to strongly tuberculate surface or marked with prominent veins; covering of hairs, either erect acicular prickly hairs, readily caducous, or short and velvety to tomentose (see notes); mesocarp 5 mm thick, fairly farinose, somewhat fibrous, orange, adhering especially to the endocarp; the latter, woody, 1-2 mm thick, outer side strongly veined to tuberculate, innermost layer formed of erect acicular prickly hairs, ≤ 2 mm long, barbed at the apex, often fixed in the wall of the apical region of the seed on mature fruits, giving it a pubescent appearance (phot. 11). Seed ovoid-ellipsoidal, ≤ 2 × 1.5 cm, testa glabrous, brown to black.
 
-Fleurs. Sépales réfléchis, obovés-oblongs à elliptiques, 2-4 × 1-2 mm ; extérieur villeux-tomenteux à laineux-tomenteux, intérieur généralement tout à fait glabre, sommet aigu à émarginé. Pétales dressés à étalés, courtement soudés aux filets par leur base, étroits et obovés à spatulés, longs de 2,5-4 mm, fendus sur 1-2,5 mm ; extérieur avec souvent quelques poils juste au-dessous de la fente ; intérieur glabre ; lobes concaves et arrondis au sommet. Étamines dressées à étalées, longues de 2,5-4,5 mm, souvent un peu plus longues que les pétales et glabres ; anthères ≈ 0,5 mm, connectif proéminent. Staminodes fins, subcarrés à oblongs, ≤ 0,8 × 0,5 mm, glabres ou presque, sommet obtus à lobulé. Pistil 3 (4)-mère, long de 2,5-5 mm ; ovaire laineux ; style glabre avec 3 (4) lobes longs de ≤ 0,7 mm, exceptionnellement 3 styles entièrement libres.
-
-Fruits 1-3-spermes, subsphériques à ovo-ellipsoïdaux, légèrement lobés quand il y a plus d'une graine, rarement munis d'un apicule court, jaunâtres à oranges à maturité ; exocarpe déhiscent ou non, épais de 1-3 mm (sans tubercules), avec une surface lisse à fortement tuberculée ou marquée de veines proéminentes ; revêtement de poils, soit piquants dressés aciculaires, facilement caducs, soit courts et veloutés à tomenteux (cf. notes) ; mésocarpe épais de 5 mm, assez farineux, un peu fibreux, orange, adhérent surtout à l'endocarpe ; celui-ci, ligneux, épais de 1-2 mm, côté externe fortement veiné à tuberculé, couche la plus interne formée de poils piquants, dressés, aciculaires, longs de ≤ 2 mm, barbelés au sommet, souvent fichés dans la paroi de la région apicale de la graine sur les fruits mûrs, ce qui lui donne un aspect pubescent (phot. 11). Graine ovoïde-ellipsoïdale, ≤ 2 × 1,5 cm, testa glabre, brun à noir.
-
-Plantule à forte racine pivotante ; épicotyle long de 4-8 cm, avec bractées ou stipules tomenteuses ; première paire de feuilles alternes, la
+Seedling with strong taproot; epicotyl 4-8 cm long, with tomentose bracts or stipules; first pair of leaves alternate, the
 
 DICHAPETALACEAE
 
-feuille primordiale étant souvent considérablement plus petite que les suivantes – Pl. 42, p. 147.
+primordial leaf often considerably smaller than the following ones – Pl. 42, p. 147.
 
 ## Type
 
@@ -57,23 +53,17 @@ Barter 3299, Epe, Nigéria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+D. pallidum can easily be distinguished from other species (except D. albidum, which is not represented in Gabon) by the indumentum of its leaves which forms a dense, pale and generally persistent fur on the lower surface.
 
-On peut facilement distinguer D. pallidum des autres espèces (sauf de D. albidum, qui n'est pas représentée au Gabon) par l'indumentum de scs fcuillcs qui forme une fourrure dense, pâle et en général persistante à la face inférieure.
-
-Les fruits de D. pallidum sont très variables : on rencontre aussi bien des fruits fortement tuberculés que des fruits lisses et dépourvus de tubercules ; les premiers ont été récoltés aussi souvent au Libéria qu'au Gabon ; des formes intermédiaires existent, nombreuses et diverses, si bien que ces caractères ne peuvent servir à établir des distinctions infraspécifiques.
+The fruits of D. pallidum are highly variable: one encounters both strongly tuberculate fruits and smooth fruits devoid of tubercles; the former have been collected as frequently in Liberia as in Gabon; intermediate forms exist, numerous and diverse, so that these characters cannot serve to establish infraspecific distinctions.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Libéria, Côte d'Ivoire, Ghana, Togo, Bénin, Nigéria, Cameroun, Gabon, Zaïre, Angola
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Gabon, Zaire, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

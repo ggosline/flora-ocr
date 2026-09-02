@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1): 273 (1954); LIBEN, FZ: 33 (1968); EXELL & GARCIA, CFA: 74 (1970); LIBEN, Fl. Cameroun 25: 34 (1983).
 
-KEAY, FWTA, ed. 2, 1(1) : 273 (1954) ; LIBEN, FZ : 33 (1968) ; EXELL & GARCIA, CFA : 74 (1970) ; LIBEN, Fl. Cameroun 25 : 34 (1983).
+– Poivrea conferta BENTHAM, Niger Flora: 338 (1849). TYPE: Bioko (fl.) Vogel s.n. (holo-K).
 
-– Poivrea conferta BENTHAM, Niger Flora : 338 (1849). TYPE : Bioko (fl.) Vogel s.n. (holo-K).
+Liane, length ≤ 10 m and diameter ≤ 4 cm.
 
-Liane, longueur ≤ 10 m et diamètre ≤ 4 cm.
+Leaves opposite; petiole up to ≤ 3.5 cm long, its lower region often transformed into a lignified spine; lamina ovate-elliptic, ≤ 22 × ≤ 11 cm, coriaceous, almost glabrous; major lateral veins 5–7 pairs with pubescent domatia; domatia, sometimes also present at the axil of the major veins III; base rounded to cordate; apex acuminate.
 
-Feuilles opposées ; pétiole long de ≤ 3,5 cm, sa région inférieure souvent transformée en épine lignifiée ; limbe ové-elliptique, ≤ 22 × ≤ 11 cm, coriace, presque glabre ; grandes nervures latérales 5-7 paires avec domaties pubescentes ; domaties, parfois présentes aussi à l'aisselle des grosses nervures III ; base arrondie à cordée ; sommet acuminé.
+Scales absent.
 
-Écailles absentes.
+Inflorescences in racemes or condensed panicles; rachis ≤ 1.5(–7) cm; bracts lanceolate, 3–4 mm long and 1 mm wide.
 
-Inflorescences en racèmes ou en panicules condensées ; rachis ≤ 1,5(-7) cm ; bractées lancéolées, longueur 3-4 mm et largeur 1 mm.
+Flowers 5-merous, protogynous. Receptacle scarlet: the lower one 6–9 mm high, shortly pubescent, and the upper one, campanulate, 6–8 mm long, 5–6 mm wide, glabrous to shortly pubescent. Calyx: lobes deltoid, ciliate with short hairs. Petals scarlet, ovate, 2.5–5 mm long, 2–4 mm wide, with very small glandular hairs along the margin, glabrous elsewhere. Stamens exserted 10–20 mm, scarlet; anthers 1–1.5 mm long. Style scarlet, exserted 8–17 mm.
 
-Fleurs 5-mères, protogynes. Réceptacle écarlate : l'inférieur haut de 6-9 mm, courtement pubescent, et le supérieur, campanulé, long de 6-8 mm, large de 5-6 mm, glabre à courtement pubescent. Calice : lobes deltoïdes, ciliés de poils courts. Pétales écarlates, ovés, longs de 2,5-5 mm, larges de 2-4 mm, avec de très petits poils glandulaires le long de la marge, ailleurs glabres. Étamines exsertes de 10-20 mm, écarlates ; anthères longues de 1-1,5 mm. Style écarlate, exsert de 8-17 mm.
-
-Fruit luisant, glabre, jaunâtre, 2,5-3 × 2 cm, avec des ailes papyracées ; stipe 2-4 mm.
+Fruit glossy, glabrous, yellowish, 2.5–3 × 2 cm, with papyraceous wings; stipe 2–4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Bioko, Gabon, Congo (Brazzaville), Congo (Kinshasa), Angola
+Nigeria, Cameroon, Bioko, Gabon, Congo (Brazzaville), Congo (Kinshasa), Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

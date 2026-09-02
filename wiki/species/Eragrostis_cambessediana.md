@@ -26,15 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb in tufts, culms geniculate at the base, reaching about sixty centimeters in height. Leaves with sheaths shorter than the internodes, pubescent at the junction with the blade; ligule reduced to a fringe of cilia, blade reaching 15 to 20 cm long and 1 to 3 mm wide, spreading or rolled, generally pubescent with long white hairs on the upper surface.
 
-Herbe annuelle en touffes, chaumes géniculés à la base, pouvant atteindre une soixantaine de centimètres de haut. Feuilles à gaines plus courtes que les entre-nœuds, pubescentes à la jonction avec le limbe; ligule réduite à une frange de cils, limbe atteignant 15 à 20 cm de long et 1 à 3 mm de large, étalé ou enroulé, généra-lement pubescent à longs poils blancs à la face supérieure.
+Inflorescence in a lax panicle reaching about twenty centimeters in length; lower secondary branches 5 to 10 cm, with spikelets clustered toward the apex, of light color or greenish or more or less marked with violet. Flowers disarticulating from the base, paleas caducous. Spikelets 4–10 × 1–1.5 mm, with 10 to 40 flowers. Glumes smaller than the lemmas, narrow, with one vein, early caducous. Lemmas obtusely acuminate, 1 to 1.5 mm long, glabrous, with 3 veins; paleas scabrous on the keels. Caryopses sub-spherical, about 0.5 mm long.
 
-Inflorescence en panicule lâche atteignant une vingtaine de
-
-centimètres de long; branches secondaires inférieures de 5 à 10 cm, à épillets rassemblés vers le sommet, de teinte claire ou verdâtes ou plus ou moins marqués de violet. Fleurs se désarticulant à partir de la base, paléas caduques. Épillets de 4-10 × 1-1,5 mm, de 10 à 40 fleurs. Glumes plus petites que les lemmas, étroites, à une nervure, précocement caduques. Lemmas obtusément acuminées, de 1 à 1,5 mm de long, glabres, à 3 nervures; paléas scabres sur les carènes. Akènes sub-sphériques, d'environ 0,5 mm de long.
-
-Espèce rudérale, d'endroits plutôt humides.
+Ruderal species, of rather humid places.
 
 ## Specimens examined
 

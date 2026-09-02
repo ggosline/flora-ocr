@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Sakersia strigosa Cogn., Ann. Mus. Congo, sér. 2, 1 : 23 (1899).
 
-Petit arbre à feuillaison et floraison alternées; jeunes rameaux subangulaires, hirsutes. Feuilles à pétiole hirsute, long de 2 à 3 cm; limbe elliptique, arrondi à la base, largement en coin au sommet, ± 7 × 16 cm;
+Small tree with alternate foliation and flowering; young branches subangular, hirsute. Leaves with hirsute petiole, 2 to 3 cm long; lamina elliptic, rounded at the base, broadly cuneate at the apex, ± 7 × 16 cm;
 
-strigilleux sur les 2 faces, soies hérisées sur les nervures à la face inférieure; 3 (5) nervures; les transversales parallèles; marges entières.
+strigillous on both surfaces, bristles erect on the nerves on the lower surface; 3 (5) nerves; the transverse ones parallel; margins entire.
 
-Cymes terminales bipares, de 4 à 5 étages, pyramidales, hautes de 15 cm, tous les axes hirsutes; bractées caduques. Fleur à pédicelle court; bractéoles triangulaires, de 3 × 6 mm, hirsutes; hypanthe obconique, de 6 × 11 mm, hirsute par des soies dont celles du haut atteignent 4 mm; calice presque nul, lobes largement triangulaires, apiculés. Pétales roses, obovales, de 12 × 16 mm. Étamines peu dimorphes : les externes à anthère de 9 mm; pédoconnectif de 3 mm, avec appendices linéaires à claviformes, de 3 mm; filet de 7 mm; les internes de dimensions un peu plus réduites. Ovaire avec collerette péristyle formée de soies cohérentes par leur base; style long de 20 mm.
+Terminal biporous cymes, of 4 to 5 tiers, pyramidal, 15 cm tall, all axes hirsute; bracts caducous. Flower with short pedicel; bracteoles triangular, 3 × 6 mm, hirsute; hypanthium obconic, 6 × 11 mm, hirsute with bristles of which those at the top reach 4 mm; calyx almost absent, lobes broadly triangular, apiculate. Petals pink, obovate, 12 × 16 mm. Stamens slightly dimorphic: the external ones with anther 9 mm; pedoconnective 3 mm, with linear to claviform appendages, 3 mm; filament 7 mm; the internal ones of slightly smaller dimensions. Ovary with peristyle collar formed of bristles coherent at their base; style 20 mm long.
 
-Graines cunées-claviformes, longues de 1 mm, tuberculées sur les parties non comprimées. — Pl. 13, p. 39.
+Seeds cuneate-claviform, 1 mm long, tuberculate on the non-compressed parts. — Pl. 13, p. 39.
 
 ## Type
 
@@ -35,9 +33,7 @@ Dewèvre 501, Zaïre (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce héliophile des sols marécageux de la forêt occidentale : Zaïre, Congo, Angola; n'existe au Gabon que dans la région de Franceville.
+Heliophilous species of swampy soils of the western forest: Zaire, Congo, Angola; exists in Gabon only in the Franceville region.
 
 ## Specimens examined
 

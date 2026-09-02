@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 4; Figure 1(C, D)
+Plate 4; Figure 1(C, D)
 
 in Schumach., Beskr. Guin. pl.: 129 (1827).
 
@@ -27,23 +25,17 @@ E. zenkeri Gürke ex Baker & Wright, Fl. trop. Afr. 4(2): 25 (1905).
 
 E. cymosa Thonn. var. zenkeri (Gürke ex Baker & Wright) Brenan, Mem. New York Bot. Gard. 9: 5 (1954).
 
-Arbre ou arbuste atteignant 20 m de hauteur; tronc jusqu'à 40 cm de diamètre; rameaux pleins, canaliculés et éparsement pubescents à poils blancs à l'état jeune; écorce gris-blanc, à tranche fibreuse et odeur frais. Feuille: pétiole 1,1–2 cm, vert noirâtre, canaliculé dessus; limbe ovoïde-elliptique, (3–8–11(−20) × (2–3–5(−10) cm, arrondi à la base, acuminé ou rarement arrondi au sommet, à marge parfois denticulée, peu coriace, vert foncé brillant et glabre dessus, glabre ou éparsement pubescent à poils blancs dessous; nervures secondaires 4 à 6 à chaque côté de la médiane, alternes, se terminant en arceaux. Inflorescence axillaire ou terminale sur les rameaux feuillés, en panicule, parfois dense et subglobuleuse, 8–23 × 10–25 cm; rachis à pubescence dense; boutons floraux globuleux. Fleurs à hétérostylie fréquente: pédicelle 0–1 mm; calice densement poilu à poils bruns, à 5 sépales triangulaires de ±1,5 ×
-
-1 mm, non côtelés ; corolle blanche ou crème, à tube long de ±2,5 mm, à 5 lobes étalés à ré-fléchis, longs de 1,5–2,5 mm, obtus ou peu acuminés au sommet, ciliés ; étamines 5, longues de 3 mm, glabres, anthère 1,0–1,5 × 0,2–0,4 mm ; ovaire glabre ; style linéaire, 2–3 mm et à branches stigmatiques longues de 0,5–1 mm dans les fleurs longistyles, < 1 mm dans les fleurs brévistyles. Fruit ovoïde à subglobuleux, 3–4 mm de diamètre, orange, apiculé au sommet, se brisant à maturité en 4 méricarpes à 1 graine.
+Tree or shrub reaching 20 m in height; trunk up to 40 cm in diameter; branchlets solid, channeled and sparsely pubescent with white hairs when young; bark greyish-white, with fibrous section and fresh odour. Leaf: petiole 1.1–2 cm, dark greenish, channeled above; blade ovoid-elliptic, (3–8–11(−20) × (2–3–5(−10) cm, rounded at base, acuminate or rarely rounded at apex, margin sometimes denticulate, slightly coriaceous, dark green and glossy and glabrous above, glabrous or sparsely pubescent with white hairs below; secondary veins 4 to 6 on each side of the midvein, alternate, terminating in arches. Inflorescence axillary or terminal on leafy branchlets, in panicle, sometimes dense and subglobose, 8–23 × 10–25 cm; rachis densely pubescent; floral buds globose. Flowers with frequent heterostyly: pedicel 0–1 mm; calyx densely hairy with brown hairs, with 5 triangular sepals of ±1.5 × 1 mm, not ribbed; corolla white or cream, with tube ±2.5 mm long, with 5 spreading to reflexed lobes, 1.5–2.5 mm long, obtuse or slightly acuminate at apex, ciliate; stamens 5, 3 mm long, glabrous, anther 1.0–1.5 × 0.2–0.4 mm; ovary glabrous; style linear, 2–3 mm and with stigmatic branches 0.5–1 mm long in long-styled flowers, < 1 mm in short-styled flowers. Fruit ovoid to subglobose, 3–4 mm in diameter, orange, apiculate at apex, breaking at maturity into 4 mericarps with 1 seed each.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandu en Afrique tropicale, de la Sierra Leone jusqu'en Éthiopie et au Kenya, et vers le sud jusqu'au Zimbabwe et au Mozambique, ainsi qu'aux Comores, à Mayotte et à Madagascar ; au Gabon largement répandu et peu commun : Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime et Woleu-Ntem
+widely distributed in tropical Africa, from Sierra Leone to Ethiopia and Kenya, and south to Zimbabwe and Mozambique, as well as in the Comoros, Mayotte and Madagascar; in Gabon widely distributed and uncommon: Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+secondary forests, degraded forests, swamp forests, along river margins; in Gabon at 0–600 m altitude. Flowering from March to July. Fruits from April to November
 
-forêts secondaires, forêts dégradées, forêts marécageuses, au bord des rivières; au Gabon à 0–600 m d'altitude. Floraison de mars à juillet. Fruits d'avril à novembre
-
-Usage: Le bois est utilisé pour la fabrication de meubles, de perches, de manches d'outil et de jougs. Il est utilisé comme bois de feu et pour le charbon de bois. Les ramilles servent de bâtons à mâcher pour maintenir l'hygiène des dents. De nombreuses parties de la plante sont utilisées en médecine traditionnelle. L'infusion de feuilles s'ingère et on l'utilise en lotion pour traiter la fièvre et les convulsions. Le jus des feuilles serait un laxatif léger. Des décoctions de feuilles servent de traitement contre les courbatures, les maux de dents et l'hyperthermie.
+Uses: The wood is used for the manufacture of furniture, poles, tool handles and yokes. It is used as firewood and for charcoal. The branchlets serve as chewing sticks for maintaining dental hygiene. Many parts of the plant are used in traditional medicine. Leaf infusion is ingested and used as a lotion to treat fever and convulsions. Leaf juice is said to be a mild laxative. Leaf decoctions are used as treatment for aches and pains, toothache and hyperthermia.
 
 ## Vernacular names
 
@@ -51,15 +43,13 @@ atet eli (fang)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+According to Brenan (1954), five varieties could be distinguished within this species, recognized at specific rank by Baker & Wright (1906) and to which Taton (1971) added a sixth. The distinction is found in minor variations in calyx and corolla size, on one hand, and in the length of hairs in the inflorescence, on the other. These characteristics appear to be correlated with geography, but are in fact a continuum and thus have no taxonomic significance. Forms with small flowers are encountered in West Africa, while forms with larger flowers are found in East Africa.
 
-Selon Brenan (1954), on pourrait distinguer cinq variétés dans cette espèce, reconnues au niveau spécifique par Baker & Wright (1906) et dont Taton (1971) ajoutait une sixième. La distinction se trouve dans des variations mineures de la taille du calice et de la corolle, d’une part et de la longueur des poils dans l’inflorescence, d’autre part. Ces caractéristiques semblent être corrélées à la géographie, mais sont en effet un continuum et n’ont donc pas d’importance taxonomique. Des formes à petites fleurs se rencontrent en Afrique de l’Ouest, tandis que les formes à fleurs plus grandes se trouvent en Afrique de l’Est
+In Gabon, two varieties may be encountered: var. zenkeri (Gürke ex Baker & Wright) Brenan and var. cymosa. The first is distinguished by longer hairs on the inflorescence branchlets. However, many Gabonese specimens studied cannot be placed within either of these two varieties and it would be appropriate to accept a single rather variable species.
 
-Au Gabon, on pourra rencontrer deux variétés: var. zenkeri (Gürke ex Baker & Wright) Brenan et var. cymosa. La première se distingue par les poils plus longs sur les rameaux de l'inflorescence. Cependant, de nombreux spécimens gabonais étudiés ne peuvent pas être placés dans une de ces deux variétés et il conviendrait d'accepter une seule espèce assez variable.
+Taton (1971) mentions the presence of E. cymosa var. breviflora (De Wild.) Taton, a taxon mainly from the east of the Democratic Republic of the Congo, in Cameroon and Gabon, recognized by the presence of domatia at the axils of secondary veins on the lower surface. However, there are no specimens cited for this taxon from these two countries and I have not seen this type of material.
 
-Taton (1971) mentionne la présence d'E. cymosa var. breviflora (De Wild.) Taton, taxon principalement de l'est de la République démocratique du Congo, au Cameroun et au Gabon, reconnu par la présence de domaties aux aisselles des nervures secondaires de la face inférieure. Cependant, il n'y a aucun spécimen cité de ce taxon pour ces deux pays mentionnés et je n'ai pas vu ce type d'échantillons.
-
-Mon collègue, Olivier Lachenaud (à BR), m'a fait remarquer E. scrobiculata, espèce endémique pour l'île de Principe, mais probablement en voie d'extinction selon Figueiredo et al. (2011). Après l'observation du type (Welwitsch 5465, en ligne), je suis convaincu que ce taxon est conspecifique avec E. cymosa. Le protologue donne comme différence avec E. cymosa : feuilles de plus grande taille à base plus large, avec des fossettes à l'aisselle des nervures latérales de la face inférieure. J'ai observé cette variation en taille des feuilles chez E. cymosa et également des fossettes chez des spécimens d'herbier (par ex. Simons 1617 & 1618) du Gabon, et donc ces noms sont traités comme synonymes.
+My colleague, Olivier Lachenaud (at BR), pointed out to me E. scrobiculata, a species endemic to the island of Príncipe, but probably in danger of extinction according to Figueiredo et al. (2011). After observation of the type (Welwitsch 5465, online), I am convinced that this taxon is conspecific with E. cymosa. The protologue gives as a difference with E. cymosa: leaves of larger size with wider base, with fossettes at the axils of lateral veins on the lower surface. I have observed this variation in leaf size in E. cymosa and also fossettes in herbarium specimens (e.g. Simons 1617 & 1618) from Gabon, and thus these names are treated as synonyms.
 
 ## Bibliography
 

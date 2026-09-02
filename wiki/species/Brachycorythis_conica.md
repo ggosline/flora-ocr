@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Roots fusiform, tuberous. Stem 20–50 cm, erect, fairly fragile, entirely glabrous and leafy. Leaves 2–7 × 0.8–2.5 cm, lanceolate to broadly lanceolate, acute, sessile. Inflorescence 4–16 cm, dense, 5–30-flowered. Flowers small, purple-pink to whitish-mauve, labellum with darker markings. Dorsal sepal obtuse, oblong-ovate-lanceolate, convex; lateral sepals obliquely oblong-lanceolate. Petals oblique, oblong-ovate, obtuse. Labellum orbicular to elliptic, thickened along the midvein, terminated by a short apicule and finely toothed margins. Spur conical, subobtuse. – Pl. 3, p. 17.
 
-Racines fusiformes, tubéreuses. Tige 20-50 cm, dressée, assez fragile, totalement glabre et feuillée. Feuilles 2-7 x 0,8-2,5 cm, lancéolées à largement lancéolées, aiguës, sessiles. Inflorescence 4-16 cm, dense, 5-30-flore. Fleurs petites, pourpre-rose à blanchâtre-mauve, labelle avec des traces plus sombres. Sépale dorsal obtus, oblong-ové-lancéolé, convexe ; sépales latéraux obliquement oblongs-lancéolés. Pétales obliques, oblongs-ovés, obtus. Labelle orbiculaire à elliptique, épaissi le long de la veine médiane, terminé par un apicule court et marges déchiquetées. Éperon conique, subobtus. – Pl. 3, p. 17.
-
-reconnaissent 3 sous-espèces en Afrique du Sud. Au Gabon, on ne connaît que la sous-espèce type :
+recognize 3 subspecies in South Africa. In Gabon, only the typical subspecies is known:
 
 ## Figures
 

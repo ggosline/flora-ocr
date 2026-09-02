@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 8.1 Centotheca lappacea (L.) Desv.
 
 Fl. Gab.: 214, Pl. 35; FWTA: 381, fig. 428; Gram. Cam.: 83, Pl. 17; Poac. CI.: 104, 105; Gram. CB.: 88.
@@ -26,9 +24,9 @@ Breteler 6573, 22.09.1970, 0°50'S-12°42'E, 4 km W. of Lastoursville, near Cath
 
 9. Chloris Sw.
 
-1. Lemma fertile longuement aristée (plus de 5 mm), presque glabre ; arête plus de 2 fois la longeur de la lemma ..... C. pycnothrix 1. Lemma fertile courtement aristée (2-5 mm), ciliée ou pileuse ; arête moins de 1,7 fois la longeur de la lemma : 2. Racèmes 10-30 ; seconde lemma aiguë ..... C. robusta 2. Racèmes 3-10 ; seconde lemma tronquée ..... C. pilosa
+1. Fertile lemma long-awned (more than 5 mm), almost glabrous; awn more than 2 times the length of the lemma ..... C. pycnothrix 1. Fertile lemma short-awned (2–5 mm), ciliate or pilose; awn less than 1.7 times the length of the lemma: 2. Racemes 10–30; second lemma acute ..... C. robusta 2. Racemes 3–10; second lemma truncate ..... C. pilosa
 
-*9.1 Chloris pilosa K. Schum. – Pl. 2, p. 17, 5-8 FWTA : 400 ; FTEA : 345 ; Gram. Cam. : 173, Pl. 36 ; Poac. CI. : 166, 167 ; Gram. CB. : 129.
+*9.1 Chloris pilosa K. Schum. – Pl. 2, p. 17, 5-8 FWTA: 400; FTEA: 345; Gram. Cam.: 173, Pl. 36; Poac. CI.: 166, 167; Gram. CB.: 129.
 
 ## Specimens examined
 

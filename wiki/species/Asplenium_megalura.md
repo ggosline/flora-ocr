@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier. ex Brause, Deutsch. Zentr. Afr. Exp. 1907-8, 2 : 17 (1910). — Tard., Mém. IFAN 28 : 190, t. 36 f. 2 (1953). — Alston, FWTA : 57 (1959).
 
-Rhizome court, à frondes rapprochées, portant des écailles peltées à la base, à bords entiers, formées de cellules à parois très épaisses. Pétiole long de 7-10 cm, non canaliculé, ayant à
-
-peu près la même longueur que le limbe, brun foncé plus ou moins grisâtre, brillant, nu. Limbe oblong ou linéaire oblong, penné, à penne terminale semblable aux latérales, rhomboidale, à extrémité effilée. Pennés latérales 4-10 paires, opposées, espacées d'environ 3-4 cm, subsessiles, trapézoïdo-rhomboidales, longues de 3-8 cm sur 2-3 de large, à bases inégales, la supérieure cunéiforme-tronquée, l'inférieure arrondie, trilobées, à lobe terminal aigu, étroitement deltoïde-linéaire, à marges serrulées-lobées; lobes latéraux serrulés-laciniés. Costa non apparent. Nervures subflabellées, portant des écailles étroites. Sores longs de 0,5-2 cm, n'atteignant ni la base ni le sommet de la penne.
+Rhizome short, with fronds crowded together, bearing peltate scales at the base, with entire margins, formed of cells with very thick walls. Petiole 7–10 cm long, not channeled, approximately the same length as the blade, dark brown more or less greyish, shiny, naked. Blade oblong or linear-oblong, pinnate, with terminal pinna similar to the lateral ones, rhomboidal, with tapered apex. Lateral pinnae 4–10 pairs, opposite, spaced approximately 3–4 cm apart, subsessile, trapezoidal-rhomboidal, 3–8 cm long by 2–3 cm wide, with unequal bases, the upper one cuneate-truncate, the lower one rounded, trilobed, with acute terminal lobe, narrowly deltoid-linear, with serrulate-lobed margins; lateral lobes serrulate-lacinate. Costa not apparent. Veins subflabellate, bearing narrow scales. Sori 0.5–2 cm long, not reaching either the base or the apex of the pinna.
 
 ## Type
 
@@ -34,9 +30,7 @@ Usambara, Holst 83 (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra-Leone, Côté-d'Ivoire, Liberia, Cameroun, Ghana, Togo, Afrique orientale. Épiphyte.
+Guinea, Sierra Leone, Côte d'Ivoire, Liberia, Cameroon, Ghana, Togo, East Africa. Epiphytic.
 
 ## Specimens examined
 

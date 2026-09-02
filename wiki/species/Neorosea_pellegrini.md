@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with internodes densely puberulous. Stipules 2-3 mm, tubulous, carinate, apiculate. Petiole puberulous, 5-10 mm long. Lamina entirely glabrous above, elliptic, acute at base, lanceolate, sometimes scarcely acuminate, densely ochraceo-ferruginous-puberulous beneath. Midrib sulcate above, pilose at base, furnished beneath with linear pubescent galls. Flowers axillary, solitary, subsessile. Calyx subscariose, laxly cupuliform, subtruncate, here denticulate, there incised. Corolla white, tube 6 mm long, puberulous, densely puberulous within above the middle, lobes 7-8, oblong, 6 × 2 mm. Stamens erect. Anthers basifixed, with marginal thecae, filament very short. Style puberulous, bilobate. Placenta biovulate.
 
-Frutex internidis dense puberulis. Stipulæ 2-3 mm tubulosæ carinatae apiculataæ. Petiolus puberulus 5-10 mm longus. Lamina superne omnino glabra, elliptica basi acuta, lanceolata, interdum vix acuminata, subtus dense ochra-
+Shrub with young internodes densely ochraceous-pubescent. Stipules pubescent, tubulous over 3 mm, with prominently raised axis briefly apiculate. Petiole pubescent, 5-10 mm. Limb glabrous above, densely ochraceous-pubescent and soft beneath, elliptic, 6-14 × 2-4.5 cm, acute at base, shortly lanceolate to subacuminate at apex. Midrib sulcate above with a few hairs toward the base only. 7-12 pairs of secondary veins moderately ascending. Bacterial galls along the midrib, little distinct because of the pubescence.
 
-ceo-ferrugineo-puberula. Costa superne sulcata ad basin pilosa, subius cecidiis linearis pubescentibus munita. Flores axilares solitarii subsessiles. Calyx subscariosus laxato-cupuliformis subtruncatus hic denticulatus illic incisus. Corolla alba tubo 6 mm longo puberulo, intus supra medium dense puberula lobis 7-8 oblongis 6 × 2 mm. Stamina erecta. Antherae basifixae thecis marginalibus, filamento brevissimo. Stylus puberulus bilobatus. Placenta biovulata.
+Flowers solitary, axillary, subsessile, ochraceous-pubescent. Calyx with subscariose limb 3 mm high, cupuliform, flared, margin truncate, festooned with small denticules or small tears, not entirely covering the corolla in bud. Corolla white, tube pubescent, 6 × 1.6 mm; 7-8 oblong lobes, 6 × 2 mm, glabrous above. Stamens erect; anthers basifixed, 2-2.5 × 0.9-0.2 mm, with weakly concave inner face, apex subemarginate, filament 0.5 mm or less. Style pubescent, ca. 1 cm, with lobes 2 mm. Two ovules arranged laterally on each placenta.
 
-Arbuste a jeunes entrençéuds densement ochraces-pubescents. Stipules pubescentes tubuleuses sur 3 mm, à axe saillant brièvement apiculé. Pétiole pubescent de 5-10 mm. Limbe glabre dessus, désément ochracé pubescent et doux dessous, elliptique de 6-14 × 2-4,5 cm, à base aiguë, à sommet brièvement lancéolé à subacuminé. Médiane en sillon dessus avec quelques poils vers la base seulement. 7-12 paires de nervures secondaires médiocrement ascendantes. Galles bactériennes le long de la médiane, peu distinctes à cause de la pubescence.
-
-Fleurs solitaires axillaires subsessiles ochracées-pubescentes. Calice à limbe subscarieux haut de 3 mm, cupuliforme évasé à marge tronquée, festonné de petits denticules ou de petites déchirures, ne couvrant pas entièrement la corolle dans le bouton. Corolle blanche à tube pubescent de  $ 6 \times 1,6 $ mm; 7-8 lobes oblongs de  $ 6 \times 2 $ mm, glabres dessus. Étamines dressées; anthères basifixes de  $ 2-2,5 \times 0,9-0,2 $ mm, à face interne faiblement concave, à sommet subémarginé, à filet de  $ 0,5 $ mm ou moins. Style pubescent d'env. 1 cm, à lobes de  $ 2 $ mm. Deux ovules disposés latéralement sur chaque placenta.
-
-Fruit probablement immature de 10 mm de diamètre, légèrement pubescent, à surface finement ruguleuse, à limbe calycinal persistant.
+Fruit probably immature, 10 mm in diameter, slightly pubescent, with finely rugose surface, with persistent calycine limb.
 
 ## Type
 
@@ -34,11 +30,9 @@ Le Testu 8622 (P, isotype BM), Mont Iboundji (fl. fr. 26 déc. 1930)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Other material studied:
 
-Autre matériel étudié :
-
-Le Testu 7773, Ngoma, 20 km Sud de Lastoursville (fl. déc.).
+Le Testu 7773, Ngoma, 20 km South of Lastoursville (fl. Dec.).
 
 ## Notes
 

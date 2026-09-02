@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, vivace ; rhizome rampant épais de 2‒4 mm , couvert par des gaines noirâtres ou brun rougeâtre ; tiges serrées, de 20‒80 cm × 2‒4 mm, trigones à presque ailées, glabres, feuillées seulement à la base. Feuille : gaines supérieures vertes, les inférieures membraneuses, brunes à violacées, ondulées du côté antérieur ; limbe court ou absent, développé seulement aux 1‒2 gaines supérieures. Inflorescence en tête formée d’un seul épi ovoïde ou globuleux, large de 6‒12 mm, doré ou brunâtre ; bractées involucrales 3‒5 (souvent 3 chez les plantes asiatiques et 4‒5 chez les plantes africaines), habituellement courtes et plutôt raides, réfléchies ou étalées, plus rarement longues et
-
-flexueuses. Épillets nombreux, oblongs–elliptiques, de 3‒4,5 × 1‒1,5 mm , à 1‒2 fleurs, jaune paille à brun ; glumes ovales–lancéolées, longues de 2,5‒4 mm , mais l’inférieure plus courte, courtement mucronées et avec une carène fine, lisse ou légèrement épineuse. Fleur à 3 étamines. Akène oblong à obovale, long de 1,5‒2 mm long , brun à noir, comprimé latéralement.
+Robust herb, perennial; rhizome creeping 2–4 mm thick, covered by blackish or reddish-brown sheaths; stems crowded, 20–80 cm × 2–4 mm, trigonous to almost winged, glabrous, leafy only at the base. Leaf: upper sheaths green, lower ones membranous, brown to violaceous, undulate on the anterior side; blade short or absent, developed only in the 1–2 upper sheaths. Inflorescence a head formed of a single ovoid or globose spike, 6–12 mm wide, golden or brownish; involucral bracts 3–5 (often 3 in Asian plants and 4–5 in African plants), usually short and rather stiff, reflexed or spreading, more rarely long and flexuous. Spikelets numerous, oblong–elliptic, 3–4.5 × 1–1.5 mm, with 1–2 flowers, straw-yellow to brown; glumes ovate–lanceolate, 2.5–4 mm long, but the lower one shorter, shortly mucronate and with a fine keel, smooth or slightly spiny. Flower with 3 stamens. Achene oblong to obovate, 1.5–2 mm long, brown to black, compressed laterally.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en régions paléotropicales, mais en Afrique de l’Ouest, présente seulement au Nigeria ; rare au Gabon, trouvée seulement dans l’Estuaire (WongaWongué)
+widely distributed in paleotropical regions, but in West Africa, present only in Nigeria; rare in Gabon, found only in the Estuary (Wonga-Wongué).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en bordure des eaux ; au Gabon, près du niveau de la mer, jusqu’à 1900 m d’altitude en Afrique de l’Est. Note taxonomique : assez proche de C. aromaticus, et davantage de recherches sont nécessaires pour déterminer si les plantes africaines sont les mêmes que celles d’Asie . Elle diffère de C. aromaticus par un limbe moins développé, une inflorescence plus dorée et des bractées involucrales moins nombreuses et plus courtes. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+at water margins; in Gabon, near sea level, up to 1900 m altitude in East Africa. Taxonomic note: fairly close to C. aromaticus, and further research is necessary to determine whether the African plants are the same as those of Asia. It differs from C. aromaticus by a less developed blade, a more golden inflorescence, and involucral bracts fewer in number and shorter. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
 ## Notes
 

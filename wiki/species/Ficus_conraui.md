@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : 150 (1916) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 155 (1948) ; KEAY, FWTA. ed. 2. 1 : 607 (1958).
 
 - F. sessilis DE WILD., Repert. Sp. Nov. 12 : 196 (1913) ; LEBRUN & BOUTIQUE, l.c. : 155 (1948). TYPE : Pynaert 1582, Zaire, Eala (holo-, BR).
 
-- F. praticola MILDBR. & HUTCH., Kew Pull.: 325 (1915); KEAY, l.c.: 697 (1958), AUBRÉV., FFCI, éd. 2, 1: 82, tab. 14, fig. D (1959). TYPE: Mildbread 7106, Fernando Po, Moka (holo-, B ; iso-, K).
+- F. praticola MILDBR. & HUTCH., Kew Bull.: 325 (1915); KEAY, l.c.: 697 (1958), AUBRÉV., FFCI, ed. 2, 1: 82, tab. 14, fig. D (1959). TYPE: Mildbread 7106, Fernando Po, Moka (holo-, B ; iso-, K).
 
-- F. stipulifera Hutch., Kew Bull.:326 (1915). TYPE: Dawe 301, Uganda, Sud Buddu (holo-, K).
+- F. stipulifera Hutch., Kew Bull.: 326 (1915). TYPE: Dawe 301, Uganda, South Buddu (holo-, K).
 
-Arbustes épiphytes (lianescents et/ou étrangleurs) ou petits arbres. Rameaux feuillés épais de 2-4 mm, glabres ou pubérulents, brun clair à sombre sur le sec, pleins. Feuilles disposées en spirales. Limbe oblong à elliptique ou à lancéolé ou à subobové, long de (6-) 10-20 (-28) cm, large de (2-) 3,5-7 cm, coriace, sommet (faiblement à brutalement) acuminé, base aiguë à arrondie, bord entier ; les deux faces glabres ; nervures faiblement saillantes à planes dessous (5 dans les échantillons à petites feuilles) 8-11 paires de nervures latérales, les inférieures relativement petites, nervures latérales s'anastomosant en boucle à 2-4 mm du bord du limbe ; tache glandulaire habituellement non visible. Pétiole long de 0,8-4,5 cm, épais de 1-2 mm, glabre ou très courtement pubérulent, à périderme persistant ou se détachant sur le sec, mais habituellement pas facilement. Stipules basalement souduées, longues de (0,5-) 1-2,5 cm, glabres, persistantes.
+Epiphytic shrubs (scandent and/or strangler figs) or small trees. Leafy branchlets 2–4 mm thick, glabrous or puberulent, light to dark brown when dry, solid. Leaves arranged in spirals. Blade oblong to elliptic or lanceolate or subobovate, (6–) 10–20 (–28) cm long, (2–) 3.5–7 cm wide, coriaceous, apex (weakly to abruptly) acuminate, base acute to rounded, margin entire; both surfaces glabrous; veins weakly prominent to plane beneath (5 in specimens with small leaves) 8–11 pairs of lateral veins, the lower ones relatively small, lateral veins anastomosing in loops 2–4 mm from the blade margin; glandular dot usually not visible. Petiole 0.8–4.5 cm long, 1–2 mm thick, glabrous or very shortly puberulent, with persistent or peeling epidermis when dry, but usually not easily so. Stipules basally connate, (0.5–) 1–2.5 cm long, glabrous, persistent.
 
-Figues par paires ou solitaires dans les aisselles foliaires, sessiles ; bractées basales semi-circulaires, longues de 2-3 mm, chartacées, gla-bres ou très courtement pubérulentes ; réceptacle subglobuleux à obovoïde (à subpyriforme), d'un diamètre de 2-3 cm sur le frais et de (0,5-) 1,5-2,5 cm sur le sec, glabre ou avec des poils (souvent faiblement hérissés) plutôt denses ± rigides, verruqueux à lisse, vert avec des taches ou des bandes rougeâtres, ou partiellement rougeâtre à maturité, paroi épaisse de 1-7 mm sur le sec, ostiole ± saillant, bilabié.
+Figs in pairs or solitary in leaf axils, sessile; basal bracts semicircular, 2–3 mm long, chartaceous, glabrous or very shortly puberulent; receptacle subglobose to obovoid (to subpyriform), 2–3 cm diam. on fresh material and (0.5–) 1.5–2.5 cm on dry material, glabrous or with hairs (often weakly stiff-bristly) rather dense ± rigid, verrucose to smooth, green with reddish spots or bands, or partially reddish at maturity, wall 1–7 mm thick on dry material, ostiole ± prominent, bilabiate.
 
-Fleurs pistillées avec 3 (-4) tépales ± inégaux, longs de 1-1,5 mm, aigus, libres ; fleurs à graines (sub) sessiles, style long de 1,5-2 mm ; fleurs à galles pédicellées jusqu'à 2,5 mm, style long de 1 mm environ. Fruits oblongoïdes, longs de 2 mm environ, la couche externe de la partie supérieure mucilagineuse ; fruits à galles subobovoïdes, souvent ± stipités, longs de 3-3,5 mm ; fruits distinctement bicolores. Fleurs staminées séparées quelquefois en petits groupes, pédicellées de 0,5-2 mm, périanthe avec 2 tépales ± inégaux, longs de 1-1,5 mm,
+Pistillate flowers with 3 (–4) ± unequal tepals, 1–1.5 mm long, acute, free; seed flowers (sub)sessile, style 1.5–2 mm long; gall flowers pedicellate up to 2.5 mm, style c. 1 mm long. Fruits oblongoid, c. 2 mm long, the outer layer of the upper part mucilaginous; gall fruits subobovoid, often ± stipitate, 3–3.5 mm long; fruits distinctly bicolorous. Staminate flowers sometimes separated in small groups, pedicellate 0.5–2 mm, perianth with 2 ± unequal tepals, 1–1.5 mm long, acute, free, filament 0.3–0.8 mm long, anther 1–1.2 mm long, shortly apiculate. Interflorals bracts 2–2.5 mm long. - Pl. 66, p. 223.
 
-aigus, libres, filet long de 0,3-0,8 mm, anthère long de 1-1,2 mm, courtement apiculé. Bractées interflorales longues de 2-2,5 mm. - Pl. 66, p. 223.
-
-Pollinisateur : Agaon sp. (Cameroun).
+Pollinator: Agaon sp. (Cameroon).
 
 ## Type
 
@@ -43,11 +39,9 @@ Conrau 280, Cameroun, Bangwe (holo-, B ; iso-, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+F. conraui can usually be distinguished from F. pringsheimiana (and sterile specimens of F. cyathistipula) by the number of lateral veins and by the relatively slender petioles. The figs are variable in their dimensions and may resemble those of F. camptoneura or those of F. pringsheimiana.
 
-F. conraui peut habituellement se distinguer de F. pringsheimiana (et des échantillons stériles de F. cyathistipula) par le nombre des nervures latérales et par les pétioles relativement minces. Les figues sont variables dans leurs dimensions et peuvent être semblables à celles de F. camptoneura ou à celles de F. pringsheimiana.
-
-L’espèce se répartit depuis la Sierra Leone jusqu’à la Côte d’Ivoire et depuis le Nigeria au Zaïre et à l’Ouganda, à travers le Cameroun et le Gabon ; le plus souvent dans des zones de forêt dense humide sempervirente ou semi-décidue ; et trouvée jusqu’à une altitude de 1 200 m (ou plus haut ?).
+The species ranges from Sierra Leone to Ivory Coast and from Nigeria to Zaire and Uganda, across Cameroon and Gabon; most often in zones of dense humid evergreen or semi-deciduous forest; and found up to an altitude of 1,200 m (or higher?).
 
 ## Specimens examined
 

@@ -17,31 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Nat. PflanzenFam. 3 (4) : 348-349, fig. 187 A-G (1896) ; Bot. Jahrb. 23 : 137 (1896) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 644 (1913) ; BRETELER, MLW 73 (13) : 8, 18, 32 (1973) ; l.c. 78 (10) : 7, 77 (1978) ; l.c. 79 (16) : 3-8 (1979) ; l.c. 81 (10) : 28, 51 (1981) ; l.c. 82 (8) : 25, 40, 51, 75 (1982) ; AUWP 86 (3) ; 17 (1986) ; PUNT, Rev. Paleobot. & Palyn. 19 : 40 (1975). TYPE : Gabon, Sibang-Farm, Munda, Soyaux 268 (holo-, B delet. ; lecto-, Z ; isolecto-, BREM, GOET, K, LE, P, WAG).
 
-– D. soyauxii ENGL., Nat. PflanzenFam. 3 (4) : 348, nomen (1896) ; Bot. Jahrb. 23 : 137 (1896) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 644 (1913) ; EXELL & MENDONÇA, CFA 1 (2) : 325 (1951). TYPE : Gabon, Munda, Sibang-Farm, Soyaux 391 (holo-, B deleter., lecto-, Z ; iso-, BREM, GOET, K, LE, P).
+– D. soyauxii ENGL., Nat. PflanzenFam. 3 (4) : 348, nomen (1896) ; Bot. Jahrb. 23 : 137 (1896) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 644 (1913) ; EXELL & MENDONÇA, CFA 1 (2) : 325 (1951). TYPE : Gabon, Munda, Sibang-Farm, Soyaux 391 (holo-, B delet., lecto-, Z ; iso-, BREM, GOET, K, LE, P).
 
-– D. nitidulum ENGL. & RUHL., Bot. Jahrb. 33 : 77 (1902) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 645 (1913) ; KEAY, FWTA, ed. 2, 1 (2) : 438 (1958). TYPE : Cameroun, Batanga, Dinklage 1351 (holo-, B delet.). NEOTYPE : Cameroun, 6,5 km S. de Kribi, route de Batanga, Bos & Breteler 3100 (holo-, WAG).
+– D. nitidulum ENGL. & RUHL., Bot. Jahrb. 33 : 77 (1902) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 645 (1913) ; KEAY, FWTA, ed. 2, 1 (2) : 438 (1958). TYPE : Cameroon, Batanga, Dinklage 1351 (holo-, B delet.). NEOTYPE : Cameroon, 6.5 km S. of Kribi, Batanga road, Bos & Breteler 3100 (holo-, WAG).
 
-– D. micropetalum Engl., Bot. Jahrb. 46: 566 (1912). TYPE: Cameroun, Bipindi, Zenker 3612 (holo-, B delet.; lecto-, WAG; isolecto-, BM, BR, COI, E, GOET, K, L, M, MO, P, PRE, W, WU, Z).
+– D. micropetalum Engl., Bot. Jahrb. 46: 566 (1912). TYPE: Cameroon, Bipindi, Zenker 3612 (holo-, B delet.; lecto-, WAG; isolecto-, BM, BR, COI, E, GOET, K, L, M, MO, P, PRE, W, WU, Z).
 
-TYPE : Cameroun, près de Mimfia, Zenker 3522 (holo-, B delet. ; lecto-, WU ;iso-, BM, BR, E, GOET, HBG, K, L, M, MO, W).
+TYPE : Cameroon, near Mimfia, Zenker 3522 (holo-, B delet. ; lecto-, WU ; iso-, BM, BR, E, GOET, HBG, K, L, M, MO, W).
 
-– D. verruculosum ENGL.; Bot. Jahrb. 46: 585, « verrucosulum » (1912). TYPE: Cameroun, entre Ndonge et Bare, Ledermann 6149 (holo-, B delet.; lecto-, BM).
+– D. verruculosum ENGL.; Bot. Jahrb. 46: 585, "verrucosulum" (1912). TYPE: Cameroon, between Ndonge and Bare, Ledermann 6149 (holo-, B delet.; lecto-, BM).
 
 – D. fraternum PIERRE, nomen in sched. ; BRETELER, MLW 78 (10) : 77 (1978).
 
-Liane, arbuste lianescent ou arbuste, glabre ou avec pubescence apprimée éparse sur toutes les parties végétatives. Cylindre ligneux entier sur les spécimens arbustifs mais profondément divisé sur ceux des lianes (voir note). Rameaux jeunes et âgés creux, souvent rougeâtre foncé à brun-violacé. Lenticelles très petites, nombreuses, pustuliformes au début. Jeunes rameaux, de glabres à munis d'une pubérulence apprimée éparse, puis glabrescents. Stipules simples, petites, triangulaires et souvent étroites, longues de 1-3 mm, en général pubérulence apprimée tôt caduque.
+Liane, scandent shrub or shrub, glabrous or with appressed scattered pubescence on all vegetative parts. Wood cylinder entire on shrubby specimens but deeply divided on those of lianes (see note). Young and old branches hollow, often dark reddish to brownish-violaceous. Lenticels very small, numerous, pustuliform initially. Young branches from glabrous to with scattered appressed pubescence, then glabrescent. Stipules simple, small, triangular and often narrow, 1-3 mm long, generally with appressed pubescence early caducous.
 
-Feuilles. Pétiole semicylindrique, subcanaliculé dessus, long de 2-5 (8) mm ou de (4) 6-10 (15) mm s'il est soudé au pédoncule, glabre à apprimé-pubérulent notamment dessus. Limbe papyracé sur le frais, elliptique à obové, (1,5) 2-3 fois plus long que large, (6) 8-15 (20) × (3) 4-7 (9) cm, base cunée à arrondie, acumen obtus à aigu long de (0,5) 1-1,5 (2,5) cm, de glabre à pubérulence apprimée éparse sur les deux faces de la grande nervation I et II, puis glabrescent; nervure I imprimée mais les (4) 5-7 principales paires de nervures II proéminentes à la face supérieure ; petites domaties (poilues ou non) en général présentes dessous, à l'aisselle d'au moins certaines des principales nervures II ; glandes, diamètre < 0,2 mm réparties surtout dessous, mais le plus souvent aussi quelques unes dessus.
+Leaves. Petiole semicylindric, subchanneled above, 2-5 (8) mm long or (4) 6-10 (15) mm if fused to the peduncle, glabrous to appressed-puberulent especially above. Blade papyraceous when fresh, elliptic to obovate, (1.5) 2-3 times longer than wide, (6) 8-15 (20) × (3) 4-7 (9) cm, base cuneate to rounded, obtuse to acute acumen 0.5-1-1.5 (2.5) cm long, from glabrous to appressed scattered pubescence on both faces of the major venation I and II, then glabrescent; vein I impressed but the (4) 5-7 main pairs of veins II prominent on the upper face; small domatia (hairy or not) generally present beneath, at the axil of at least some of the main veins II; glands, diameter < 0.2 mm distributed especially beneath, but most often also some above.
 
-Inflorescences assez lâches, 1-4 ordres de ramifications nets, pubé-rulence apprimée. Pédoncule en général entièrement soudé au pétiole. Bractées et bractéoles très petites ≤ 0,5 mm, triangulaires. Pédicelle ≤ 4 mm, partie inférieure ≤ 3 mm, partie supérieure 1,5 mm.
+Inflorescences rather lax, 1-4 orders of branching clearly evident, appressed pubescence. Peduncle generally entirely fused to the petiole. Bracts and bracteoles very small ≤ 0.5 mm, triangular. Pedicel ≤ 4 mm, lower part ≤ 3 mm, upper part 1.5 mm.
 
-Fleurs. Sépales dressés à un peu étalés, oblongs-elliptiques à ovés-oblongs, 2-4 × 1-2 mm ; face externe glabre à pubérulente-tomentelleuse surtout sur la marge ; face interne glabre ou avec des poils courts, surtout dans la région supérieure. Pétales dressés ou presque, courtement soudés aux filets par leur base, étroits et obovés, longs de 3-4,5 mm, courtement bilobés, fendus sur 0,5-2 mm ; pubérulence tomentelleuse à la base du côté externe, semblable mais plus éparse du côté interne. Étamines dressées ou presque, très souvent plus longues que les pétales, 3,5-5 (6) mm ; filets glabres ; anthères généralement incurvées ≤ 0,7 mm, connectif proéminent , parfois poilu. Staminodes de forme irrégulière, souvent en anneau lobé, subcarrés ≤ 0,5 × 0,5 mm, entièrement glabres ou poilus du côté interne. Pistil 2-3-mères, long de 3-6 mm ; ovaire 2-3-loculaire, tomentum laineux dense ; style en général tomenteux-laineux à la partie inférieure et glabre à la partie supérieure, 2-3 lobes ≤ 1,5 mm.
+Flowers. Sepals erect to somewhat spreading, oblong-elliptic to ovate-oblong, 2-4 × 1-2 mm; outer face glabrous to puberulent-tomentellose especially on the margin; inner face glabrous or with short hairs, especially in the upper region. Petals erect or nearly so, briefly fused to the filaments by their base, narrow and obovate, 3-4.5 mm long, shortly bilobed, split for 0.5-2 mm; tomentellose pubescence at the base on the outer side, similar but more scattered on the inner side. Stamens erect or nearly so, very often longer than the petals, 3.5-5 (6) mm; filaments glabrous; anthers generally incurved ≤ 0.7 mm, connective prominent, sometimes hairy. Staminodes of irregular form, often in a lobed ring, subquadrate ≤ 0.5 × 0.5 mm, entirely glabrous or hairy on the inner side. Pistil 2-3-merous, 3-6 mm long; ovary 2-3-locular, with dense woolly tomentum; style generally tomentose-woolly in the lower part and glabrous in the upper part, 2-3 lobes ≤ 1.5 mm.
 
-Fruits obovoïdes-ellipsoïdaux, 3-4 × 2-2,5 cm, souvent un peu courbées, en général avec un bec net, 1 (-3 ?) spermes ; loges avortées visibles grâce à une crête ± marquée ; surface orange à maturité avec un tomentum ± court le plus souvent dense ; exocarpe ferme, épais de 1-2 mm avec une couche interne brun-violacé ; mésocarpe épais de 1-2 mm ; endocarpe coriace et fibreux brillant et glabre à l'intérieur. Graine ovoïde-ellipsoïdale, ≈. 2,5 × 1,5 cm ; testa brun foncé, veiné de brun pâle. - Pl. 22, p. 89.
+Fruits obovoid-ellipsoidal, 3-4 × 2-2.5 cm, often somewhat curved, generally with a clear beak, 1 (-3 ?) seeded; aborted locules visible by means of a more or less marked ridge; surface orange at maturity with generally more or less short dense tomentum; exocarp firm, 1-2 mm thick with a brownish-violaceous inner layer; mesocarp 1-2 mm thick; endocarp coriaceous and fibrous, shiny and glabrous inside. Seed ovoid-ellipsoidal, ≈ 2.5 × 1.5 cm; testa dark brown, veined with pale brown. - Pl. 22, p. 89.
 
 ## Type
 
@@ -49,15 +47,11 @@ Soyaux 268, Sibang-Farm, Munda, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Gabon, Congo, Angola
+Nigeria, Cameroon, Gabon, Congo, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous rainforests
 
 ## Specimens examined
 

@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , descr. orig. valable. — Pellegr. Sterc. Gab., Mém. S. B. Fr. : 40-41 (1950-1951).
 
-Petit arbre de 8-10 m de haut. Pétiole cylindrique de 10 cm à 1 m de long, plus ou moins velu ou glabrescent. Feuilles grandes
+Small tree 8-10 m tall. Petiole cylindrical 10 cm to 1 m long, more or less hairy or glabrescent. Leaves large, 5-9-lobed. Blade 30-65 cm long, olivaceous when dry and glabrous above, micropunctate, microsquamous and whitish, sometimes almost silvery beneath, with base more or less cordate; lobes elliptic reaching up to 15-20 cm wide; acumen narrow or very narrow 10-45 mm long. Nerves glabrescent, in part clothed, at least toward the base, with thick felt of long barbed reddish hairs; 7-11 basal nerves palmate; ca. 12-17 pairs pinnate along the median lobe. Inflorescences in multifloral glomerules sessile on old wood, with convex suborbicular bracteoles, reddish pubescent externally, very enveloping and ca. 1 cm long. Flower subsessile reddish-violet, with campanulate calyx 20-35 mm long, densely hairy externally with elongated barbed reddish hairs. 5 lobes somewhat shorter than the tube, subacute, with thinned inner margin; interior of calyx papilliferous and ornamented with prominent radiate ribs around the receptacle. Male flower with slender glabrous androphore ca. 2-3 mm long, surrounded basally by reddish hairs, bearing a tall subcylindric crown of ca. 32 narrow polliniferous loges, 3-3.5 mm long, arranged in a cupule around a rudimentary ovary. Female flower with ovary surrounded basally by a flared crown of polliniferous loges, composed of 6-7 adherent hairy carpels, each containing ca. 8-10 (12) ovules. Young carpels knotted and young follicles, densely clothed with long narrow barbed hairs. Mature follicles massive reaching 16 × 7 cm, reddish pubescent, ornamented with numerous small wrinkles; apex of follicle obtuse, base pedicellate for 1-2 cm. 7-8 (12) seeds biseriate, with wide placental insertion. 2 thick glabrous cotyledons, emarginate at base; hairy plumule.
 
-5-9-lobées. Limbe de 30-65 cm de long, olivacé à sec et glabre dessus, microponctué, microsquameux et blanchâtre, parfois presque argenté dessous, à base plus ou moins cordée; lobes elliptiques atteignant jusqu'à 15-20 cm de large; acumen étroit ou très étroit de 10-45 mm de long. Nervures glabrescentes, en partie vêtues, au moins vers la base, d'une feutrage épais de longs poils roux barbelés; 7-11 nervures basilaires palmées; env. 12-17 paires pennées le long du lobe médian. Inflorescences en glomérules multiflores sessiles sur le vieux bois, avec des bractéoles convexes suborbiculaires, rousses pubes-centes extérieurement, très enveloppantes et longues d'env. 1 cm. Fleur subsessile rouge violacé, à calice campanulé de 20-35 mm de long, densément velu extérieurement avec des poils roux barbelés allongés. 5 lobes un peu plus courts que le tube, subaigus, à marge interne amincie; intérieur du calice papillifère et orné de côtes saillantes rayonnantes autour du réceptacle. Fleur ♂ à androphore grêle et glabre d'env. 2-3 mm de long, entouré basalement de poils roux, portant une haute couronne subcylindrique d'env. 32 loges polliniques étroites, longues de 3-3,5 mm, disposées en cupule autour d'un ovaire rudimentaire. Fleur ♀ à ovaire entouré basalement d'une couronne évasée de loges polliniques, composé de 6-7 carpelles adhérents, velus, contenant chacun env. 8-10 (12) ovules. Jeunes carpelles noués et jeunes follicules, densément vêtus de longs poils barbelés étroits. Follicules mûrs massifs atteignant 16 × 7 cm, roux pubescents, ornés de nombreuses petites rides; sommet du follicule obtus, base pédonculée sur 1-2 cm. 7-8 (12) graines bisériées, à large insertion placentaire. 2 cotylédons épais et glabres, échancrés à la base; gemmule velue.
-
-Type de l'espèce : Duparquet 75, échantillon stérile (P.).
+Type of the species: Duparquet 75, sterile specimen (P.).
 
 ## Vernacular names
 
@@ -39,15 +35,11 @@ Ekom (Fang); Annchioin (env. de Libreville)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fruits comestibles (Morel)
+Edible fruits (Morel)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce de la strate inférieure des forêts primaires, n'est connue que du Gabon
+This species from the lower stratum of primary forests is known only from Gabon
 
 ## Specimens examined
 

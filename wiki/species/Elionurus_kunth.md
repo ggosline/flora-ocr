@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 21.1 Elionurus muticus (Sprengel) Kuntze
 
-FTEA : 837, fig. 195 ; Gram. Cam. : 520 ; Poac. CI. : 658, 659 ; Gram. CB. : 322.
+FTEA : 837, fig. 195 ; Gram. Cam. : 520 ; Poac. Cl. : 658, 659 ; Gram. CB. : 322.
 
 – Elionurus argenteus Nees – Fl. Gab.: 192, Pl. 21 ; FACB 1 : 77 ; FWTA : 505.
 

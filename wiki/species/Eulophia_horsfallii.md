@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Cheetham s.n., cult. Horsfall, Nigeria, holo-K!, iso-W-R! fragment.
 
 – Lissochilus horsfallii Batem., Bot. Mag. 91 : t. 5486 (1865).
@@ -35,39 +33,35 @@ tags: [species, generated]
 
 – Lissochilus eleogenus Schltr., Syst. Bot. Jahrb. 53 : 589 (1915).
 
-Organes pérennes 4-6 x 2-3 cm, rhizomateux. Feuilles 3-5, 15-200 x 1-15,5 cm. Inflorescence lâche, < 300 cm, 5-50-flore. Sépales violet mat à brun, pétales rose-violet, lobes latéraux du labelle verts rayés de violet mat, lobe médian violet, callus cristé-lamellé jaune. Sépale dorsal rhombiforme-ové apiculé. Pétales obliquement elliptiques. Sépales latéraux obliquement rhombiformes-ovés, apiculés. Labelle 20-40 x 14-40 mm, nettement trilobé avec 3-5 crêtes ; lobe médian oblong-ové, aigu, à marges ondulées ; lobes latéraux semi-elliptiques à semi-orbiculaires. Éperon 4-17 mm, brièvement conique à presque filiforme. - Pl. 145, p. 327.
+Perennial organs 4–6 × 2–3 cm, rhizomatous. Leaves 3–5, 15–200 × 1–15.5 cm. Inflorescence lax, < 300 cm, 5–50-flowered. Sepals dull violet to brown, petals rose-violet, lateral lobes of labellum green striped with dull violet, median lobe violet, callus crested-lamellate yellow. Dorsal sepal rhomboid-ovate apiculate. Petals obliquely elliptic. Lateral sepals obliquely rhomboid-ovate, apiculate. Labellum 20–40 × 14–40 mm, distinctly trilobed with 3–5 crests; median lobe oblong-ovate, acute, with undulate margins; lateral lobes semi-elliptic to semi-orbicular. Spur 4–17 mm, briefly conical to almost filiform. - Pl. 145, p. 327.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Liberia, Côte d'Ivoire, Ghana, Togo, Bénin, Nigeria, Cameroun, Guinée équatoriale, Gabon, Angola, République centrafricaine, Congo, Zaïre, Rwanda, Burundi, Ouganda, Kenya, Tanzanie, Zambie, Malawi, République sudafricaine, Swaziland
+Senegal, Guinea-Bissau, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Equatorial Guinea, Gabon, Angola, Central African Republic, Congo, Zaïre, Rwanda, Burundi, Uganda, Kenya, Tanzania, Zambia, Malawi, South African Republic, Swaziland
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–2,500 m. Terrestrial at the edge of torrent, river and lake, marshes, peatland and in open and forested zones
 
-alt. 0-2 500 m. Terrestre au bord de torrent, rivière et lac, marais, tourbière et en zone ouverte et forestée
+MATERIAL STUDIED (Map 69) :
 
-MATÉRIEL ÉTUDIÉ (Carte 69) :
+Breteler & De Wilde 111, 12–15 km NE of Asok, alt. approximately 660 m (fl. Aug.), WAG!.
 
-Breteler & De Wilde 111, 12-15 km NE d'Asok, alt. environ 660 m (fl. Août), WAG!.
+Breteler & Jongkind 10499, 5–15 km NNW of Ndjolé, 0° 05′ S, 10° 45′ E (fl. Nov.), WAG!. De Wilde, Arends, Louis & Wieringa 10046, Cristal Mountains approximately 2 km on the Tchimbélé-Kinguélé road (fl. Dec.), WAG!.
 
-Breteler & Jongkind 10499, 5-15 km NNO de Ndjolé, 0° 05′ S, 10° 45′ E (fl. Nov.), WAG!. De Wilde, Arends, Louis & Wieringa 10046, Monts de Cristal à environ 2 km sur la route Tchimbélé-Kinguélé (fl. Déc.), WAG!.
+Hallé 877, Méla road, S of the Cristal Mountains (fl. Aug.), P! ; 899, edge of Médourou-Askoga road (fl. Sept.), P! ; 1618, 10 km SW of Ndjolé (fl. Apr.), P! ; 2691, 50 km SE of Makokou (fl. Oct.), P! ; 3559 & 3601, Bélinga (fl. Dec.), P! ; 3855 & 3887, Bélinga, Iron Mines (fl. June), P!.
 
-Hallé 877, route de Méla, au S des Monts de Cristal (fl. Août), P! ; 899, bord de route de Médourou-Askoga (fl. Sept.), P! ; 1618, 10 km SO de Ndjolé (fl. Avr.), P! ; 2691, 50 km SE de Makokou (fl. Oct.), P! ; 3559 & 3601, Bélinga (fl. Déc.), P! ; 3855 & 3887, Bélinga, Mines de fer (fl. Juin), P!.
+Hallé & Cours 5928, Ovala (fl. May), P!.
 
-Hallé & Cours 5928, Ovala (fl. Mai), P!.
+Le Testu 5413, Upper Ngounyé, Nébigou (fl. Aug.), BM!, BR!, P! ; 7389, Upper Ogooué, Libreville (fl. June), BM!, BR!, P!.
 
-Le Testu 5413, Haute Ngounyé, Nébigou (fl. Août), BM!, BR!, P! ; 7389, Haute Ogooué, Libreville (fl. Juin), BM!, BR!, P!.
+Pomeroy 67, 10 km E of Mitzic, alt. 550 m, secondary forest, marshy soil (fl. Jul.), BR!, K!.
 
-Pomeroy 67, 10 km E de Mitzic, alt. 550 m, forêt secondaire, sol marécageux (fl. Juil.), BR!, K!.
+J. M. & B. Reitsma 2434, Batéké Plateaus, near Lekoni, 14° 20' E, 1° 35' S (fl. June), WAG!.
 
-J. M. & B. Reitsma 2434, Plateaux Batéké, près de Lekoni, 14° 20' E, 1° 35' S (fl. Juin.), WAG!.
+Tisserant 7389, Upper Ogooué, Lastoursville (fl. June), P!.
 
-Tisserant 7389, Haute Ogooué, Lastoursville (fl. Juin), P!.
-
-Wieringa & Haegens 2406, Ngounyé, environ 20 km NE de Coucal-Yano, région d'Ofoubou, forêt rivulaire inondée, alt. 30 m, 1° 39.9' S, 10° 04' E (fl. Mars), WAG!
+Wieringa & Haegens 2406, Ngounyé, approximately 20 km NE of Coucal-Yano, Ofoubou region, flooded riparian forest, alt. 30 m, 1° 39.9' S, 10° 04' E (fl. Mar.), WAG!
 
 ## Figures
 

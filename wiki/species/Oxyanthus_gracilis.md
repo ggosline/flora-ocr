@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+= O. tenuistylus R. Good, J. Bot. 64, supp. 2 : 16 (1926), Type from Cabinda (BM!, K!).
 
-= O. tenuistylus R. Good, J. Bot. 64, supp. 2 : 16 (1926), Type du Cabinda (BM!, K!).
+Description, except for the fruit, based on Cameroonian and Congolese material cited.
 
-Description, sauf pour le fruit, d'après le matériel camerounais et congolais cité.
+Small shrub 2 m tall with glabrous branches. Stipules acute 5–8 mm. Petioles 4–9 mm. Blade glabrous olivaceous or olive-brown, 8–17 × 3–6 cm, with symmetric acute base and acuminate apex. 6–8 pairs of secondary veins. Midrib pilose laterally downstream and upstream of vein insertions.
 
-Petit arbuste de 2 m à rameaux glabres. Stipules aiguës de 5-8 mm. Pétioles de 4-9 mm. Limbe glabre olivacé ou roux olivâtre
+Inflorescences with 8–15 flowers in small panicle 1–1.5 cm excluding the corollas, with subnull peduncle, with axes and small bracts glabrous. Calyx cupular for 0.5–0.9 mm, with lobes 0.3–0.6 mm. Corolla tube 5–6 cm long. Flower very similar to that of the two preceding species.
 
-de 8-17 × 3-6 cm, à base symétrique aiguë et sommet acuminé. 6-8 paires de nervures secondaires. Médiane pileuse latéralement en aval et en amont des insertions nervaires.
-
-Inflorescences à 8-15 fleurs en petit panicule de 1-1,5 cm sans les corolles, à pédoncule subnul, à axes et petites bractées glabres. Calice cupulé sur 0,5-0,9 mm, à lobes de 0,3-0,6 mm. Tube de la corolle long de 5-6 cm. Fleur très semblable à celle des deux espèces précédentes.
-
-Fruit (d'après N. Hallé 3520) globuleux de 15 mm de diamètre, orangé ochracé, lisse, à limbe calycinal minuscule persistant.
+Fruit (according to N. Hallé 3520) globose 15 mm in diameter, orange-ochraceus, smooth, with minute persistent calycine limb.
 
 ## Type
 
@@ -37,13 +33,11 @@ Mann 389, Fernando Po (K!). Autre spécimen florifère de référence : Tamajong
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, like the two preceding ones, is difficult to delimit. It appears to occur in South Nigeria, Cameroon (Letouzey 1837, Essong forest) and Congo (Lecomte C 29, Niounvoux).
 
-Cette espèce, comme les deux précédentes, est de délimitation difficile. Elle paraît exister au Sud-Nigeria, au Cameroun (Letouzey 1837, forêt d'Essong) et au Congo (Lecomte C 29, Niounvoux).
+Gabonese material (reported with doubts):
 
-Matériel gabonais (rapporté avec doutes) :
-
-N. Hallé 3520, Bélinga (fr. déc.).
+N. Hallé 3520, Bélinga (fr. Dec.).
 
 ## Notes
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mol. Phylogen. Evol. 67(2) : 376 (2013). Linociera camptoneura Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 68 (1913). Chionanthus camptoneura (Gilg & Schellenb.) Stearn, Bot. J. Linn. Soc. 80 : 198 (1980). Arbre de 3–8 m de hauteur. Feuille glabre ; pétiole canaliculé dessus, 6–14 mm ; limbe ellip tique, 15–32 × 5–14 cm , à base atténuée, sommet généralement brusquement acuminé ; ner vure principale sillonnée dessus, proéminente dessous ; nervures latérales en 7 à 11 paires bou clées, proéminentes dessous, à réticulation peu visible dessous, invisible dessus ; domaties absentes . Inflorescence axillaire à cauliflore, en thyrse, jusqu’à 4 cm de longueur, éparsement pubérulente ; bractées petites, triangulaires. Fleur : calice à lobes triangulaires de ± 0,5 mm de
-
-Noronhia 13 longueur ; corolle 3–4 mm de longueur , à lobes de 1–1,5 mm de largeur ; ovaire glabre. Fruit 2,5–3,5 × 1,5–2,5 cm, rose à rouge foncé , glabre.
+Mol. Phylogen. Evol. 67(2) : 376 (2013). Linociera camptoneura Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 68 (1913). Chionanthus camptoneura (Gilg & Schellenb.) Stearn, Bot. J. Linn. Soc. 80 : 198 (1980). Tree 3–8 m tall. Leaf glabrous; petiole channeled above, 6–14 mm; blade elliptic, 15–32 × 5–14 cm, with attenuate base, apex generally abruptly acuminate; midrib grooved above, prominent below; lateral veins in 7 to 11 pairs looped, prominent below, with reticulation slightly visible below, invisible above; domatia absent. Inflorescence axillary to cauliflorous, thyrsoid, up to 4 cm long, sparsely puberulent; bracts small, triangular. Flower: calyx with triangular lobes ± 0.5 mm long; corolla 3–4 mm long, with lobes 1–1.5 mm wide; ovary glabrous. Fruit 2.5–3.5 × 1.5–2.5 cm, pink to dark red, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud du Cameroun et Gabon ; au Gabon, connu de l’Estuaire, de la Ngounié et de l’OgoouéLolo
+southern Cameroon and Gabon; in Gabon, known from Estuaire, Ngounié and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ; à 150–800 m d’altitude. B : Stearn (1980). i B liographie
+forest; at 150–800 m altitude. B: Stearn (1980). Bibliography
 
 ## Notes
 

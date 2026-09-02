@@ -25,23 +25,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, culms up to 2 m long, glabrous or more or less pubescent at the nodes. Leaves with lanceolate blade, asymmetric at the base, long-acuminate at the apex, shortly petiolate at the base, 5-20 × 2.5-7 cm. Approximately 9 primary veins on each side of the midvein.
 
-Herbe pérenne, chaumes jusqu'à 2 m de long, glabres ou plus ou moins pubescents au niveau des nœuds. Feuilles à limbe lancéolé, asymétrique à la base, longuement acuminé au sommet, courtement pétiolé à la base, de 5-20 × 2,5-7 cm. Environ 9 nervures principales de chaque côté de la nervure primaire.
+Erect panicle about fifteen centimetres long, with pubescent axes and branches solitary or fasciculate. Male pedicels filiform, those of female flowers swollen toward the apex.
 
-Panicule dressée d'une quinzaine de centimètres de long, à axes pubescents et branches solitaires ou fasciculées. Pédicelles mâles filiformes, ceux des fleurs femelles renflés vers le sommet.
+Male spikelets linear-lanceolate, 3.5 to 4 mm long, lemma prolonged by an awn approximately 1.5 mm long. Female spikelets with glumes 8 mm long, the lower with 5-7 veins, the upper with 7 or 9 veins. Lemma 4 to 6 mm white, very hard at maturity and forming with the palea a false seed tightly closed.
 
-Épillets mâles linéaire-lancéolés, de 3,5 à 4 mm de long, lemma prolongée par une arête d'environ 1,5 mm de long. Épillets femelles à glumes de 8 mm de long, l'inférieure à 5-7 nervures, la supérieure à 7 ou 9 nervures. Lemma de 4 à 6 mm blanche, très dure à maturité et formant avec la paléa une fausse graine étroitement fermée.
-
-Espèce connue en Afrique et en Amérique tropicale, en sous-bois, commune dans les régions forestières.
+Species known in Africa and tropical America, in understory, common in forested regions.
 
 ## Vernacular names
 
 Mouvévi (Bapounou, selon Guillemet). D'après Walker : Ovivé (Mpongwé); N'tofic (Fang); Sodibé, Ouasodiba (Bakélé); Mbabanga (Echira); Givyété (Bavili); Gebango (Mitsogo). D'après Walker et Sillans : Owangwa (Mpongwé, Galoa, Nkomi, Orungu); Muvyévi (Bavungu, Balumbu); Muvyé
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 vyé (Baduma, Banzabi, Bavili, Ngové); Muvyévi-nyétsi (Bapunu); Muvolu (Eshira); Muvolo (Bavarama); Ntofic (Fang); Ovyévé (Mindumu).
 

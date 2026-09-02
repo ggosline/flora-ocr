@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-PL. 202. – Chamaeangis vesicata (Lindl.) Schltr. : A, labelle, éperon, gynostème, ovaire, pédicelle, bractée florale et partie de l'axe de l'inflorescence ; B, C, labelle ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, extrémité foliaire (A-G, Villiers 1064, P).
+PL. 202. – Chamaeangis vesicata (Lindl.) Schltr. : A, labellum, spur, gynostemium, ovary, pedicel, floral bract and part of the inflorescence axis ; B, C, labellum ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, leaf apex (A-G, Villiers 1064, P).
 
 – Angraecum ashantense Lindl., Bot. Reg. 29, Misc.: 56 (1843).
 
@@ -49,47 +47,41 @@ PL. 202. – Chamaeangis vesicata (Lindl.) Schltr. : A, labelle, éperon, gynost
 
 – Mystacidium duemmerianum Kraenzl., Viert. Nat. Ges. Zurich 74: 100 (1929).
 
-Tige < 200 cm. Feuilles < 22, 5-17 × 1-4,5 cm, tordues à la base pour se situer dans un même plan, ovées-elliptiques. Inflorescence 4-22 cm, 15-30-flore. Fleurs petites, blanches, crème, vert clair, orange clair, brun rosâtre clair. Sépale dorsal oblong-lancéolé, aigu. Pétales lancéolés à ovés, aigus. Sépales latéraux oblongs-elliptiques, aigu. Labelle 3-7 × 2,6-6 mm, ové, rectangulaire à panduriforme, rétus à apiculé, marges plus ou moins finement denticulées, avec un callus digitiforme saillant à la gorge de l'éperon. Éperon 3-7,3 mm, incurvé, étroitement cylindrique à la base, légèrement renflé au-dessus. – Pl. 204, p. 434.
+Stem < 200 cm. Leaves < 22, 5–17 × 1–4.5 cm, twisted at the base to lie in the same plane, ovate-elliptic. Inflorescence 4–22 cm, 15–30-flowered. Flowers small, white, cream, pale green, pale orange, pale brownish-pink. Dorsal sepal oblong-lanceolate, acute. Petals lanceolate to ovate, acute. Lateral sepals oblong-elliptic, acute. Labellum 3–7 × 2.6–6 mm, ovate, rectangular to pandurate, retuse to apiculate, margins more or less finely denticulate, with a prominent digitate callus at the spur mouth. Spur 3–7.3 mm, incurved, narrowly cylindric at the base, slightly swollen above. – Pl. 204, p. 434.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée-Bissau, Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Guinée équatoriale, Annobon, Gabon, Congo, République centrafricaine, Zaïre, Rwanda, Ouganda, Angola
+Guinea-Bissau, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Equatorial Guinea, Annobon, Gabon, Congo, Central African Republic, Zaïre, Rwanda, Uganda, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1,300 m. Epiphyte on branch and trunk in forest on sand, primary forest, wet dense forest, postanthropogenic forest with Pycnanthus angolensis, on emergent rock in mangrove, observed at 5–20 m above ground, on Triphochiton, Cola, Theobroma cacao, Cathormion altissimum, tolerant of drought
 
-alt. 0-1 300 m. Épiphyte sur branche et tronc en forêt sur sable, forêt primaire, forêt dense humide, forêt postanthropique à Pycnanthus angolensis, sur rocher émergé en mangrove, observé à 5-20 m au-dessus du sol, sur Triphochiton, Cola, Theobroma cacao, Cathormion altissimum, tolérant à la sécheresse
+MATERIAL STUDIED (Map 92) :
 
-MATÉRIEL ÉTUDIÉ (Carte 92) :
+Florence 1782, Ipassa station, 10 km S of Makokou (fl. March), P!.
 
-Florence 1782, station d'Ipassa, 10 km S de Makokou (fl. Mars), P!.
+Hallé 1444, Makokou, near the Ivindo (fl. March), P!.
 
-Hallé 1444, Makokou, près de l'Ivindo (fl. Mars), P!.
+Hallé & Le Thomas 286, Makokou, on trunk above the Ivindo (fl. August), P!.
 
-Hallé & Le Thomas 286, Makokou, sur tronc au-dessus de l'Ivindo (fl. Août), P!.
+Hallé & Villiers 5437, Cap Estérias (fr. February), P!.
 
-Hallé & Villiers 5437, Cap Estérias (fr. Févr.), P!.
+Klaine 815, environs of Libreville (fr. February), P!.
 
-Klaine 815, environs de Libreville (fr. Févr.), P!.
+Le Testu 5203, Haute Ngounyé, Monila (fl. January), P ; 5798, Haute Ngounyé, Sindara (fl. December), P! ; 7905, Ogooué, Lastoursville (fl. February), P!.
 
-Le Testu 5203, Haute Ngounyé, Monila (fl. Janv.), P ; 5798, Haute Ngounyé, Sindara (fl.Déc.), P! ; 7905, Ogooué, Lastoursville (fl. Févr.), P!.
-
-Sita 583, région de Franceville, route Franceville-Djoumou (fl. Fév.r.), P!.
+Sita 583, Franceville region, Franceville-Djoumou road (fl. February), P!.
 
 Thollon 325, Ogooué, P!.
 
-Walker s.n., Haute Ngounyé, Saint Martin (fl. Déc.), P!.
+Walker s.n., Haute Ngounyé, Saint Martin (fl. December), P!.
 
-Wieringa & Haegens 2699, Moyen Ogooué, 20 km ENE de Lamaréné, Bellevue, 0° 36.5'
+Wieringa & Haegens 2699, Moyen Ogooué, 20 km ENE of Lamaréné, Bellevue, 0° 36.5' S, 10° 23.5' E, alt. 15 m, epiphyte growing on branch of a mango tree (fr. April), WAG!
 
-S, 10° 23.5' E, alt. 15 m, épiphyte poussant sur branche d'un manguer (fr. Avr.), WAG!
+PL. 203. – Structure of the gynostemium of the genus Diaphananthe Schltr. : A, lateral view, anther removed ; B, ventral view, anther and pollinarium removed ; C, rostellum remnant ; D, rostellum, lateral view ; E, F, tegula and viscidium, various views ; G, pollinium (A, ex GEERINCK, 1992 ; B-G, ex SZLACHETKO & al., 2003).
 
-PL. 203. – Structure du gynostème du genre Diaphananthe Schltr. : A, vue latérale, anthère enlevée ; B, vue de dessous, anthère et pollinaire enlevés ; C, reste du rostelle ; D, rostelle, vue latérale ; E, F, tegula et viscidie, vues diverses ; G, pollinie (A, ex GEERINCK, 1992 ; B-G, ex SZLACHETKO & al., 2003).
-
-PL. 204. – Diaphananthe bidens (Sw.) Schltr. : A, éperon, ovaire, pédicelle, bractée florale et axe de l'inflorescence ; B, C, labelle ; D, sépale latéral ; E, pétale ; F, sépale dorsal ; G, extrémités foliaires (A-G, Le Testu 5798, P).
+PL. 204. – Diaphananthe bidens (Sw.) Schltr. : A, spur, ovary, pedicel, floral bract and inflorescence axis ; B, C, labellum ; D, lateral sepal ; E, petal ; F, dorsal sepal ; G, leaf apices (A-G, Le Testu 5798, P).
 
 ## Figures
 

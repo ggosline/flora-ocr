@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 81 (10): 24-27 (1981); l.c. 82 (8): 46 (1982); AUWP 86 (3): 9 (1986). TYPE: Gabon, km 28 route de Moanda-Bakoumba, Breteler 6998 (holo-, WAG).
 
-Liane de taille petite ou moyenne, arbuste lianescent ou arbuste. Cylindre ligneux du tronc et des pousses orthotropes 5-lobé. Écorce du tronc, des branches et des rameaux gris foncé à noir avec ou sans lenticelles éparses. Jeunes rameaux tomenteux.
+Small to medium-sized liane, lianeoid shrub or shrub. Woody cylinder of trunk and orthotropic shoots 5-lobed. Bark of trunk, branches and branchlets dark grey to black with or without scattered lenticels. Young branchlets tomentose.
 
-Stipules en général tôt caduques, étroites et triangulaires, longues de 2-4 (5) mm, tomenteuses.
+Stipules generally early caducous, narrow and triangular, 2-4 (5) mm long, tomentose.
 
-Feuilles. Pétiole hémi- à subcylindrique, (2) 3-10 (14) mm, sillonné ou non à la face supérieure, tomenteux. Limbe papyracé à finement coriace, obové-elliptique, (6) 10-17 (26) × (3) 4-8 (11) cm ; base arrondie à obtuse parfois subcordée ou cunée ; sommet aigu ou avec un acumen en général court et brusque de ≤ 0,5 (1,5) cm, dont la marge est déformée par les glandes présentes à la face supérieure et/ou inférieure ; pubescence tomenteuse sur la marge et sur les deux faces des grandes nervures I et II, surtout à la face inférieure, ensuite caduque et souvent plus rapidement à la face supérieure ; les très jeunes feuilles peuvent aussi présenter des poils court entre les nervures principales ; nervure I et II, surtout à la face supérieure et/ou inférieure, ensuite caduque et souvent plus rapidement à la face supérieure ; les très jeunes feuilles peuvent aussi présenter des poils court entre les nervures principales et nervures.
+Leaves. Petiole hemicylindric to subcylindric, (2) 3-10 (14) mm, grooved or not on upper surface, tomentose. Blade papyraceous to finely coriaceous, obovate-elliptic, (6) 10-17 (26) × (3) 4-8 (11) cm; base rounded to obtuse sometimes subcordate or cuneate; apex acute or with an acumen generally short and abrupt ≤ 0.5 (1.5) cm, the margin of which is deformed by glands present on upper and/or lower surface; tomentose pubescence on the margin and on both surfaces of the main veins I and II, especially on the lower surface, then caducous and often more rapidly on the upper surface; very young leaves may also present short hairs between the main veins; veins I and II, especially on upper and/or lower surface, then caducous and often more rapidly on the upper surface; very young leaves may also present short hairs between the main veins and veins.
 
-Inflorescences sessiles ou presque, tomenteuses, condensées au début, puis montrant avec l'âge 2-4 ramifications scorpides ≤ 5 mm. Bractées et bractéoles très petites, triangulaires, longues ≤ 1 mm.
+Inflorescences sessile or nearly so, tomentose, condensed at first, then showing with age 2-4 scorpioid ramifications ≤ 5 mm. Bracts and bracteoles very small, triangular, ≤ 1 mm long.
 
-Fleurs sessiles petites, longues de ≈ 2,5 mm. Sépales dressés, libres à la base ou presque, concaves, ovés-oblongs, 1,5-2,5 × 0,6-1,2 mm ; sommet arrondi ; tomentum externe et interne, celui-ci, présent vers le sommet et plus épars. Pétales dressés, soudés aux filets en un tube de ≈ 1 mm, de forme générale subobovée, longs de ≈ 1,5-2,5 mm, fendus sur ≈ 0,2 mm ; côté interne glabre, l'externe avec quelques poils juste au-dessous de la fente ; lobes concaves à sommet arrondis. Étamines dressées, longues de 1,2-2 mm, glabres, partie libre des filets > 0,2 mm ; anthères longues de ≈ 0,5 mm. Staminodes subcarrés à oblongs ≤ 0,5 × 0,5 mm, en général avec quelques poils apicaux du côté interne ; sommet obtus à bilobé. Pistil (2) 3-mère, long de 1-2 mm ; ovaire velouté ; style glabre à lobes très courts.
+Flowers sessile, small, ≈ 2.5 mm long. Sepals erect, free at the base or nearly so, concave, ovate-oblong, 1.5-2.5 × 0.6-1.2 mm; apex rounded; tomentum on external and internal surfaces, the latter present toward the apex and more sparse. Petals erect, adnate to the filaments in a tube ≈ 1 mm, of general subobovate form, ≈ 1.5-2.5 mm long, split over ≈ 0.2 mm; inner surface glabrous, outer surface with a few hairs just below the split; lobes concave with rounded apex. Stamens erect, 1.2-2 mm long, glabrous, free part of filaments > 0.2 mm; anthers ≈ 0.5 mm long. Staminodes subquadrate to oblong ≤ 0.5 × 0.5 mm, generally with a few apical hairs on the inner side; apex obtuse to bilobed. Pistil (2) 3-merous, 1-2 mm long; ovary velvety; style glabrous with very short lobes.
 
-Fruits 1-2 (3?)-spermes; les fruits 1-spermes ovoïdes-ellipsoïdaux, 2,5-3 × 1-1,5 cm; base atténuée; sommet obtus à courtement apiculé; indumentum velouté court; paroi du fruit épaisse de ≈ 1 mm, sans séparation nette entre exo- et mésocarpe; endocarpe parcheminé à submembraneux, glabre et brillant à l'intérieur. Graine subovoïde-ellipsoïdale, 18-23 × ≈ 10 mm, testa brun luisant. - Pl. 35, p. 127.
+Fruits 1-2 (3?)-seeded; the 1-seeded fruits ovoid-ellipsoidal, 2.5-3 × 1-1.5 cm; base attenuate; apex obtuse to shortly apiculate; indumentum short velvety; fruit wall ≈ 1 mm thick, without clear separation between exo- and mesocarp; endocarp parchment-like to submembranous, glabrous and shiny inside. Seed subovoid-ellipsoidal, 18-23 × ≈ 10 mm, testa shiny brown. - Pl. 35, p. 127.
 
 ## Type
 
@@ -39,41 +37,35 @@ Breteler 6998, km 28 route de Moanda-Bakoumba, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Cameroun
+Gabon, Cameroon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rainforests
 
-forêts ombrophiles
+Arends & al. 600, Doudou Mountains (fl., Dec.).
 
-Arends & al. 600, Monts Doudou (fl., Déc.).
+Breteler 5688, 42 km S.E. of Lambaréné (sterile fl., Sept.); 5792, 50 km S.E. of Lambaréné (sterile fl., Oct.); 6998, km 28 Moanda-Bakoumba (fl., Oct.); 7675, Mondah Forest (sterile fl., May).
 
-Breteler 5688, 42 km au S.E. de Lambaréné (bout. fl., Sept.); 5792, 50 km S.E. de Lambaréné (bout. fl., Oct.); 6998, km 28 Moanda-Bakoumba (fl., Oct.); 7675, Forêt de la Mondah (bout. fl., Mai).
+Breteler & de Wilde 458, km 10 La Lara-Makokou, and 42 km along the Okano River (sterile fl., Sept.).
 
-Breteler & de Wilde 458, km 10 La Lara-Makokou, et 42 km le long de la rivière Okano (bout. fl., Sept.).
+Breteler & al. 8360, near Libreville, Kango road (fl., Oct.).
 
-Breteler & al. 8360, près de Libreville, route de Kango (fl., Oct.).
+Klaine 2402, environs of Libreville (fl., Oct.).
 
-Klaine 2402, environs de Libreville (fl., Oct.).
+Leeuwenberg 12481, Cape Estérias (fl., Nov.).
 
-Leeuwenberg 12481, Cap Estérias (fl., Nov.).
+Le Testu 8330, Iméno, Lastoursville Region (fl., Sept.).
 
-Le Testu 8330, Iméno, Région de Lastoursville (fl., Sept.).
+Louis & al. 498, Oveng (fl., Nov.); 1381, 32 km S.E. of Sindara (sterile fl., Dec.);
 
-Louis & al. 498, Oveng (fl., Nov.); 1381, 32 km au S.E. de Sindara (bout. fl., Déc.);
+1418, 15 km S. of Cocobeach (fl., Dec.).
 
-1418, 15 km au S. de Cocobeach (fl., Déc.).
+Reitsma & al. 1002, 65 km S.S.W. of Doussala (fl., May).
 
-Reitsma & al. 1002, 65 km au S.S.O. de Doussala (fl., Mai).
+Villiers 390, Mondah Forest, between Libreville and Cape Estérias (fl., Sept.).
 
-Villiers 390, Forêt de la Mondah, entre Libreville et Cap Estérias (fl., Sept.).
-
-Par leurs caractères végétatifs, les spécimens de D. melanocladum peuvent être facilement confondus avec ceux de D. madagascariense var. madagascariense antérieurement déterminés comme D. batanganum, D. subcordatum ou encore D. thomsonii. Ses inflorescences en
-
-différent cependant, bien qu'on rencontre aussi des inflorescences à ramifications scorpioïdes chez D. madagascariense var. madagascariense (Pl. 34, 4, p. 000), mais qui sont beaucoup plus longues. Cependant, les fleurs de D. melanocladum en différent complètement et sont du même type que celles de D. insigne et D. montanum, lesquelles présentent par ailleurs le même type d'inflorescence.
+By their vegetative characters, specimens of D. melanocladum can easily be confused with those of D. madagascariense var. madagascariense previously determined as D. batanganum, D. subcordatum or even D. thomsonii. Its inflorescences differ from them, however, although scorpioid ramified inflorescences are also encountered in D. madagascariense var. madagascariense (Pl. 34, 4, p. 000), but which are much longer. However, the flowers of D. melanocladum differ completely from them and are of the same type as those of D. insigne and D. montanum, which moreover present the same type of inflorescence.
 
 ## Figures
 

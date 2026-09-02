@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alsodeiopsis holstii Engl., Abhandl. Wiss. Ergebn. Deutsch. Zentr.-Afr. Exp. 1910-1911 2:33 (1922).
 
 — L. oddonii (De Wild.) Engl., Pflanzenw. Afr. 3, 2: 251 (1921).
@@ -27,13 +25,11 @@ tags: [species, generated]
 
 — Alsodeiopsis oddonii DE WILD., Ann. Mus. Congo b., Bot., ser., 5, 2 : 42 (1902). — Th. & H. DURAND, Syll. : 99 (1909).
 
-Arbuste à jeunes rameaux ± pubescents. Rameaux adultes obscurément striés longitudinalement. Pétiole ± glabre ou pubescent, long de 2-5 mm, canaliculé strié longitudinalement dessus, strié longitudinalement dessous. Limbe glabre sur les deux faces, vert mat ± jaunâtre à la face supérieure, vert clair à la face inférieure, elliptique à obovale, 4,5-20 × 2,5-8 cm; base atténuée ou cunéiforme, sommet acuminé obtus. Nervure médiane concave dessus, saillante et striée longitudinalement dessous. Nervures secondaires, ascendantes, arquées, s'anastomosant à 2,5-7 mm du bord du limbe, faiblement saillantes à la face supérieure, saillantes à la face inférieure. Nervilles en réseau lâche saillant à la face inférieure.
+Shrub with young branches ± pubescent. Adult branches obscurely longitudinally striated. Petiole ± glabrous or pubescent, 2-5 mm long, channeled longitudinally striated above, longitudinally striated below. Blade glabrous on both surfaces, dull green ± yellowish on the upper surface, light green on the lower surface, elliptic to obovate, 4.5-20 × 2.5-8 cm; base attenuate or cuneiform, apex obtusely acuminate. Midvein concave above, prominent and longitudinally striated below. Secondary veins ascending, arched, anastomosing 2.5-7 mm from the blade margin, weakly prominent on the upper surface, prominent on the lower surface. Veinlets in loose reticulate pattern prominent on the lower surface.
 
-Inflorescence en cyme décussée par rapport à la feuille, pauciflore. Pédicelle glabre long de 1-2 mm, porteur de bractéoles triangulaires. Fleurs ♀ pentamères, 4 × 2 mm, jaunes. Sépales soudés ± imbriqués, glabres sur les deux faces, lancéolés, 2,5 × 1 mm. Pétales glabres, soudés entre eux; lobes de la corolle campanulée linéaires, longs de 3 mm, garnis
+Inflorescence in a cyme decussate with respect to the leaf, pauciflorous. Pedicel glabrous 1-2 mm long, bearing triangular bracteoles. Flowers ♀ pentamerous, 4 × 2 mm, yellow. Sepals ± imbricate, united, glabrous on both surfaces, lanceolate, 2.5 × 1 mm. Petals glabrous, united with each other; lobes of the campanulate corolla linear, 3 mm long, furnished with a glandular claw 1-1.5 mm long; apex acute. Stamens united to the corolla tube by the filament for almost its entire length; anther with 2 falcate loges appendiculate at the apex. Ovary glabrous to puberulent, asymmetric, 2.5 mm long; style glabrous, short, with ± globose stigma.
 
-d'un onglet glanduleux long de 1-1,5 mm; sommet aigu. Étamines soudées au tube de la corolle par le filet, sur presque toute sa longueur; anthère à 2 loges falciformes appendiculées au sommet. Ovaire glabre à pubérulent, asymétrique, long de 2,5 mm; style glabre, court, à stigmate ± globuleux.
-
-Drupe ovoïde oblongue, 10-15 × 6-8 mm, devenant rouge vif à maturité. Endocarpe ligneux. PL. 14, 13-17, p. 63.
+Drupe ovoid oblong, 10-15 × 6-8 mm, becoming bright red at maturity. Endocarp woody. PL. 14, 13-17, p. 63.
 
 ## Type
 
@@ -41,11 +37,9 @@ Holst s.n., Ngwelo, Tanzanie (holo-, B, delet.; iso-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The type of Leptaulus gossweileri Cavaco does not show any notable difference from the specimens of L. holstii. We therefore place these two taxa in synonymy.
 
-Le type de Leptaulus gossweileri Cavaco n'offre pas de différence notable avec les échantillons de L. holstii. Nous mettons donc en synonymie ces deux taxons.
-
-Cette espèce se rencontre dans les forêts ombrophiles ou dans les galeries forestières depuis le Cameroun jusqu'en Tanzanie.
+This species is found in ombrophilous forests or in forest galleries from Cameroon to Tanzania.
 
 ## Figures
 

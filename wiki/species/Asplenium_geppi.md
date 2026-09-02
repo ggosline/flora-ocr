@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Carr., Cat. Welw. 2:269 (1901). — Tard., Mém. IFAN 28:178 (1953). — Alston, FWTA:56 (1959).
 
-Rhizome court, à frondes en touffes, portant des écailles linéaires-lancéolées, à base droite, formées de cellules allongées, à parois épaisses, brun clair. Pétiole long de 20-30 cm, canaliculé, brun, portant, surtout à la base, d'étroites écailles frisées. Limbe unipenné, long de 25-35 cm, sur 9-15 de large, portant 7-9 paires latérales sous l'extrémité deltoïde-lancéolée. Pennes latérales alternes, espacées d'environ 3-4 cm, longuement pétiolées, les inférieures non réduites, longues de 9-15 cm sur 2-3 de large, à bases inégales, la supérieure auriculée, l'inférieure oblique, non bordée par la nervure médiane, à extrémité longuement acuminée-dentée, à marges serrulées, les deux paires supérieures adnées. Rachis écailleux. Coloration olive foncé sur le sec. Texture subcoriace. Nervures espacées, simples ou bifurquées vers le milieu de la largeur du limbe. Sores oblonges, épais, courts, atteignant, au plus, la moitié de la largeur du limbe. Spores ovales, portant un réseau serré de crêtes larges, incolores.
+Rhizome short, with fronds in tufts, bearing linear-lanceolate scales with straight base, formed of elongated cells with thick walls, light brown. Petiole 20-30 cm long, channelled, brown, bearing, especially at the base, narrow crisped scales. Blade unipinnate, 25-35 cm long, 9-15 cm wide, bearing 7-9 lateral pairs below the deltoid-lanceolate apex. Lateral pinnae alternate, spaced approximately 3-4 cm apart, long-petiolate, the lower ones not reduced, 9-15 cm long, 2-3 cm wide, with unequal bases, the upper one auriculate, the lower one oblique, not bordered by the midvein, with long acuminate-dentate apex, with serrulate margins, the two upper pairs adnate. Rachis scaly. Dark olive coloration when dry. Texture subcoriaceous. Veins spaced, simple or bifurcate toward the middle of the blade width. Sori oblong, thick, short, reaching at most half the width of the blade. Spores oval, bearing a dense network of wide ridges, colourless.
 
-Guinée, Sierra-Leone, Côte-d'Ivoire, Ghana, Nigéria, Cameroun, Gabon, Fernando-Po, Congo, Angola.
+Guinea, Sierra Leone, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Fernando Po, Congo, Angola.
 
 ## Specimens examined
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub ± climbing (scandent?). Young twigs sparsely hispidulous with appressed hairs then glabrescent. Stipules attached near the base of the petiole, lanceolate, 3-4 mm. Petiole 3-5 mm, hispidulous. Blade elliptic, 4-5 × 8-10 cm, broadly acute at the base and apex, the latter acuminate (3 × 5 mm); midvein and blade sometimes somewhat falcate; 4-5 pairs of lateral veins, all veins and occasionally veinlets sparsely hispid beneath; 2 large circular glands at the base of the blade beneath, a few small circular glands beneath the acumen, sometimes also on either side of the midvein towards the upper and lower parts of the blade.
 
-Arbuste ± grimpant (sarmenteux?). Jeunes rameaux éparsement hispidules avec poils apprimés puis glabrescents. Stipules fixées vers la base du pétiole, lancéolées, 3-4 mm. Pétiole 3-5 mm, hispidule. Limbe elliptique, 4-5 × 8-10 cm, largement aigu à la base et au sommet, celui-ci acuminé (3 × 5 mm); nervure médiane et limbe parfois un peu falciformes; 4-5 paires de nervures latérales, toutes nervures et éventuellement nervilles éparsement hispides dessous; 2 grosses glandes circulaires à la base du limbe dessous, quelques petites glandes circulaires sous l'acumen, parfois aussi de part et d'autre de la nervure médiane vers le haut et vers le bas du limbe.
+Racemes solitary, terminal and especially axillary towards the tip of the twigs, 3-5 cm long, with axis sparsely hispid; peduncle short (<1 cm) furnished with a few deeply tricuspid bracts, extremely densely hispidulous with ascending hairs. Bracts quickly reflexed, lanceolate, 3 mm long, ± hispidulous at the apex and sometimes furnished on their margin towards the base with 1-2 briefly stipitate glands; portion of the pedicels beneath the articulation slender 10-15 mm, obliquely erect, bearing almost at the apex 2 bractlets subopposite palmatilobed-palmatifid with 5 long-stipitate glands (1-2 mm), the terminal articulate portion of the pedicel not exceeding the apex of the upper bractlet. Pedicel of the articulated flower 2-6 mm. Receptacle 7-10 mm, distinctly gibbous at the base, glabrous; sepals 4-5 mm, glabrous as regards the parts exposed outside in the bud, elsewhere covered with silvery silky pubescence, scattered on the inner faces, dense on the outer margins, the sepal appearing thin and veined; petals (rare on the specimen) 4-5 mm; androecium 20-25 mm; c. 15 filaments.
 
-Racèmes solitaires, terminaux et surtout axillaires vers l'extrémité des rameaux, 3-5 cm de longueur, à axe éparsement hispide; pédoncule court (<1 cm) garni de quelques bractées profondément tricuspides, extrêmement densément hispidules avec poils ascendants. Bractées rapidement réfléchies, lancéolées, 3 mm de longueur, ± hispidules au sommet et parfois garnies sur leur marge vers la base de 1-2 glandes brièvement stipitées; portion des pédicelles sous l'articulation grêle 10-15 mm, obliquement dressée, portant presque au sommet 2 bractéoles subopposées palmatilobées-palmatipartites avec 5 glandes longuement stipitées (1-2 mm), la portion terminale articulée du pédicelle ne dépassant pas le sommet de la bractéole supérieure. Pédicelle de la fleur désarticulée 2-6 mm. Réceptacle 7-10 mm, nettement gibbeux à la base, glabre; sépales 4-5 mm, glabres en ce qui concerne les parties exposées à l'extérieur dans le bouton, ailleurs couverts d'une pubescence soyeuse argentée, clairsemée sur les faces internes, dense sur les marges externes, le sépale paraissant mince et nervuré; pétales (rares sur l'échantillon) 4-5 mm; androcée 20-25 mm; env. 15 filets.
-
-Infrutescence et fruit inconnus. — PL. 14, p. 49.
+Infructescence and fruit unknown. — PL. 14, p. 49.
 
 ## Type
 
@@ -31,17 +29,15 @@ Klein 55, Gabon (holo-, P!; iso-, B!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Acioa librevillensis R. Let. is very close to A. gilletii De Wild. from Congo, Zaïre and Angola but is essentially distinguished by its subterminale bractlets 5-palmatifid (not placed in the middle of the pedicel and 3(-5)-palmatisect), its smaller flowers with sepals 4-5 mm tall (not 8-10 mm), the androecium also being shorter (20-25 mm instead of 30-40(-50) mm) and less abundant (about 15 filaments instead of 20-30); this species moreover appears geographically isolated.
 
-Acioa librevillensis R. Let. est très proche d'A. gilletii De Wild. du Congo, du Zaïre et d'Angola mais s'en distingue essentiellement par ses bractéoles subterminales 5-palmatipartites (non placées au milieu du pédicelle et 3(-5)-palmatiséquées), ses fleurs plus petites à sépales hauts de 4-5 mm (non 8-10 mm), l'androcée étant aussi plus court (20-25 mm au lieu de 30-40(-50) mm) et moins fourni (environ 15 filets au lieu de 20-30); cette espèce paraît de plus isolée géographiquement.
+As a result of an error, F. PELLEGRIN (in P) previously brought it close to Acioa parvifolia Engl. = A. unwinii De Wild., synonyms of A. smeathmanii Baill., a species from
 
-Par suite d'une erreur, F. PELLEGRIN (in P) l'a rapprochée antérieurement d'Acioa parvifolia Engl. = A. unwinii De Wild., synonymes d'A. smeathmanii Baill., espèce de
+Sierra Leone and Liberia (Van Meer 273, WAG!) which DE WILDMAN, through inattention it seems, named A. parviflora Engl. (BJBB 7 : note p. 191, 1920); the reduced size of the flowers of A. librevillensis R. Let. can ultimately explain F. PELLEGRIN's mistake.
 
-Sierra Leone et du Liberia (Van Meer 273, WAG!) que DE WILDMAN, par inattention semble-t-il, a dénommée A. parviflora Engl. (BJBB 7 : note p. 191, 1920); la taille réduite des fleurs d’A. librevillensis R. Let. peut en définitive expliquer la méprise de F. PELLEGRIN.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Acioa librevillensis R. Let. n'est connue que par un seul échantillon provenant du Cap Esterias au Gabon.
+Acioa librevillensis R. Let. is known only from a single specimen from Cape Esterias in Gabon.
 
 ## Specimens examined
 

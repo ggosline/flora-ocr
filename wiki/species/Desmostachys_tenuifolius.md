@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — D. preussii Engl., Bot. Jahrb. 17 : 70 (1893).
 
 ## Figures

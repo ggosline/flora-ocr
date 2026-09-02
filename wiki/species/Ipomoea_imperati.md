@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ipomoea stolonifera (Cirillo) J.F.Gmel. in L. Syst. nat. ed. 13, 2 : 345 (1791). Herbe vivace ; rhizomes rampants, stolonifères, glabres, cylindriques, radicants aux nœuds ; tiges dressées, jusqu’à environ 20 cm de longueur . Feuille : pétiole canaliculé dessus, 0,5–3 cm, glabre ou dessus parfois à quelques poils sommitaux ; limbe très variable en forme et en dimensions , linéaire ou oblong à ovale, 3–10 × 0,5–3,5 cm, arrondi à légèrement cunéé à la base, obtus-émarginé au sommet, à bord entier à ondulé ; nervation pennée, à 5–10 paires de nervures latérales, glabre . Inflorescence le plus souvent uniflore , rarement à plus d’une fleur, glabre ; l’ensemble pédoncule et pédicelle long de 2–7 cm ; bractéoles étroitement triangulaires, 2–4 mm de longueur. Fleur : sépales subégaux , elliptiques, 8–10 mm de longueur, glabres, mucronulés ; corolle infundibuliforme, 3,5–4,5 cm de longueur, blanche à jaune ; étamines à filets pubescents à la base ; pistil inclus, 12–15 mm de longueur, glabre. Fruit : subglobuleux, 10–12 mm de longueur, à 4 valves. Graines 1–4, ± 8 mm de longueur, tomenteuses à poils ondulés et brunâtres .
+Ipomoea stolonifera (Cirillo) J.F.Gmel. in L. Syst. nat. ed. 13, 2 : 345 (1791). Perennial herb; rhizomes creeping, stoloniferous, glabrous, cylindrical, rooting at the nodes; stems erect, up to approximately 20 cm long. Leaf: petiole channelled above, 0.5–3 cm, glabrous or sometimes with a few apical hairs above; blade highly variable in shape and dimensions, linear or oblong to ovate, 3–10 × 0.5–3.5 cm, rounded to slightly cuneate at the base, obtuse-emarginate at the apex, entire to undulate at the margin; venation pinnate, with 5–10 pairs of lateral nerves, glabrous. Inflorescence most often unifloral, rarely with more than one flower, glabrous; the entire peduncle and pedicel 2–7 cm long; bracteoles narrowly triangular, 2–4 mm long. Flower: sepals subequal, elliptic, 8–10 mm long, glabrous, mucronate; corolla infundibuliform, 3.5–4.5 cm long, white to yellow; stamens with filaments pubescent at the base; pistil included, 12–15 mm long, glabrous. Fruit: subglobose, 10–12 mm long, 4-valved. Seeds 1–4, ± 8 mm long, tomentose with undulate and brownish hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et pays méditerranéens, Asie et Amérique tropicale ; au Gabon, présente sur les sables maritimes de l’Estuaire, de l’Ogooué-Maritime et de la Nyanga
+Tropical Africa and Mediterranean countries, tropical Asia and America; in Gabon, present on maritime sands of the Estuary, Ogooué-Maritime and Nyanga.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sables maritimes. B : Heine (1963), Lejoly & Lisowski (1992), La Valva & Sabato (1983). ibliographie
+maritime sands. B: Heine (1963), Lejoly & Lisowski (1992), La Valva & Sabato (1983). Bibliography
 
 ## Notes
 

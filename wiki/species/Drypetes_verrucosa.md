@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 54; Figure 11(G-J)
 
-Planche 54; Figure 11(G-J)
-
-Arbre atteignant 20 m de hauteur, à tronc orthotrope et branches plagiotropes; tronc atteignant 16 cm de diamètre, légèrement cannelé et à renflements horizontaux (bosses); écorce brun pâle; ramilles minces, pubérulentes; bourgeons densément poilus. Stipules persistantes, linéaires, 3,75–8 × 0,35–0,45 mm, souvent laciniées à la base à lobes linéaires, glabres. Feuille: pétiole de 5–9 mm, pubérulent, à poils atteignant 0,3 mm, glabrescent; limbe elliptique, de 11–17,3 × 5,8–6,4 cm, papyracé à coriace, fortement asymétrique à la base, largement cunéé d’un côté et arrondi à presque cordé sur l’autre, à partie apicale longue de 15–20 mm, à marge à dents épineuses, de 0,1–0,15 mm, dirigées vers l’avant, espacées de 11–15 mm, recourbée à la base, ondulée à l’état frais; nervure médiane pubescente dessous, nervures secondaires 6 à 8 en boucle, nervation tertiaire et quaternaire, lâchement réticulée, surélevée sur les deux faces. Inflorescence mâle cauliflore, avec 5 à 30 fleurs. Fleur mâle à
-
-odeur suave ; pédicelle élancé, de 25–30 mm ; sépales (4 ou)5, imbriqués, orbiculaires, de 4,9 × 4,1 mm, rose pâle, glabres ; étamines 14 à 16, disposées en un verticille autour du disque, filet de 9,8 mm, blanc, anthère de 2 × 1,3 mm, crème, glabre ; disque plan-convexe, de 2,7 mm de diamètre et de 0,33 mm de hauteur, crème, à bord entier, quelque peu ondulé, légèrement en saillie entre les filets, à poils de 0,15 mm. Inflorescence femelle caulifore, avec 10 à 35 fleurs ; bractées orbiculaires, de 0,65 × 0,75 mm, glabres. Fleur femelle : pédicelle de 1,2-2 cm, peu pubérulent, glabrescent ; sépales 5, orbiculaires, de 5 × 4 mm, glabres sauf pour les cils marginaux atteignant 0,1 mm ; disque de ±2,5 mm de diamètre, tomenteux ; ovaire 3-loculaire ; style très court, caché par les 3 stigmates réniformes, de 3,4 × 2,5 mm, plats à marge lobée. Fruit ovoïde, de 27 × 15 mm, brun verdâtre virant à l'orange, légèrement verruequeux, sans sépales persistants, à poils épars ; exocarpe dur de 4–5 mm d'épaisseur, endocarpe osseux, de 2 mm d'épaisseur, brillant à l'intérieur. Graine ellipsoïdale, de 2 × 0,8 cm.
+Tree reaching 20 m in height, with orthotropic trunk and plagiotropic branches; trunk reaching 16 cm in diameter, slightly grooved and with horizontal swellings (bosses); bark pale brown; branchlets slender, puberulent; buds densely hairy. Stipules persistent, linear, 3.75–8 × 0.35–0.45 mm, often laciniate at the base with linear lobes, glabrous. Leaf: petiole 5–9 mm, puberulent, with hairs reaching 0.3 mm, glabrescent; blade elliptic, 11–17.3 × 5.8–6.4 cm, papyraceous to coriaceous, strongly asymmetric at the base, broadly cuneate on one side and rounded to almost cordate on the other, with apical portion 15–20 mm long, margin with spinose teeth, 0.1–0.15 mm, directed forward, spaced 11–15 mm apart, recurved at the base, undulate when fresh; midvein pubescent below, secondary veins 6 to 8 in loops, tertiary and quaternary venation loosely reticulate, raised on both surfaces. Male inflorescence cauliflorous, with 5 to 30 flowers. Male flower with sweet odor; pedicel slender, 25–30 mm; sepals (4 or) 5, imbricate, orbicular, 4.9 × 4.1 mm, pale pink, glabrous; stamens 14 to 16, arranged in a whorl around the disk, filament 9.8 mm, white, anther 2 × 1.3 mm, cream, glabrous; disk plane-convex, 2.7 mm in diameter and 0.33 mm in height, cream, with entire margin, somewhat undulate, slightly projecting between the filaments, with hairs 0.15 mm. Female inflorescence cauliflorous, with 10 to 35 flowers; bracts orbicular, 0.65 × 0.75 mm, glabrous. Female flower: pedicel 1.2–2 cm, sparsely puberulent, glabrescent; sepals 5, orbicular, 5 × 4 mm, glabrous except for marginal cilia reaching 0.1 mm; disk ±2.5 mm in diameter, tomentose; ovary 3-locular; style very short, hidden by the 3 reniform stigmas, 3.4 × 2.5 mm, flat with lobate margin. Fruit ovoid, 27 × 15 mm, yellowish-green turning orange, slightly verrucose, without persistent sepals, with scattered hairs; exocarp hard, 4–5 mm thick, endocarp bony, 2 mm thick, shiny inside. Seed ellipsoid, 2 × 0.8 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+endemic to Gabon: Estuaire, Moyen-Ogooué, Ngounié and Woleu-Ntem
 
-endémique du Gabon : Estuaire, Moyen-Ogooué, Ngounié et Woleu-Ntem
-
-Habitat: forêts sempervirentes primaires et secondaires, forêts périodiquement inondées; à 5–160 m d'altitude.
+Habitat: primary and secondary evergreen forests, periodically flooded forests; at 5–160 m elevation.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce du Gabon est facilement reconnaissable sur le terrain par la combinaison d’un tronc cannelé, avec des bosses horizontales sur lesquelles reposent les inflorescences, et le limbe foliaire à base fortement asymétrique avec des nervures en boucle et des stipules à lobes linéaires et persistantes. Elle a été signalée comme « très abondante » dans la région au sud de Lamaréné
+This species from Gabon is easily recognizable in the field by the combination of a grooved trunk with horizontal bosses on which the inflorescences rest, and the leaf blade with strongly asymmetric base with looped veins and stipules with linear persistent lobes. It has been reported as "very abundant" in the region south of Lamaréné
 
 ## Bibliography
 

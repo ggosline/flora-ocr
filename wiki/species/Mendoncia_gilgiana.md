@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , incl. var. Tisserantii R. Benoist, l. c. (1939); Notulae Syst. II : 143 (1944). — Heine, F.W.T.A. ed. 2.2 : 403 (1963).
 
 (1911). — E. De Wildeman, Pl. Bequaert. 4 : 18 (1926). — Hutchinson et Dalziel, F.W.T.A., ed 1,2 : 250 (1931).
 
 ≡ Monachochlamys Gilgiana (Lindau) S. Moore, Journ. Bot. 67 : 227 (1929).
 
-Liane volubile, grimpante, de 2-3 m de hauteur, à rameaux très entremêlés et enroulés les uns sur les autres. Tiges grêles, sub-quadrangulaires, hérisées de poils épars, simples, jaunes, jusqu'à 1,5 mm de long. Pétioles de 1,5-4 mm de longueur, très variable selon l'âge de la feuille, hérisés de poils semblables à ceux de la tige. Limbe des feuilles ovale-lancéolé, cuspédé; les jeunes feuilles en général beaucoup plus étroites que les vieilles. Acumen ± arrondi et muni d'un petit mucron jusqu'à 1,2 mm de long, arrondi ou (grandes feuilles) subcordé à la base, 7-8 (11) × 3-4,5 cm; 4 paires de nervures latérales, munies ainsi que les bords du limbe, surtout en dessous, de poils simples, rigides et apprimés.
+Twining vine, climbing, 2–3 m tall, with branches very much interwoven and coiled one over the other. Stems slender, sub-quadrangular, hispid with scattered simple hairs, yellow, up to 1.5 mm long. Petioles 1.5–4 mm long, highly variable according to leaf age, hispid with hairs similar to those of the stem. Leaf blade ovate-lanceolate, cuspidate; young leaves generally much narrower than old ones. Acumen ± rounded and furnished with a small mucro up to 1.2 mm long, rounded or (large leaves) subcordate at the base, 7–8 (11) × 3–4.5 cm; 4 pairs of lateral nerves, furnished like the margins of the blade, especially beneath, with simple, rigid, appressed hairs.
 
-Fleurs axillaires, en fascicules opposés de 2 à 4 fleurs; pédi-celle de 1-1,5 cm de long pubescent; bractéoles largement ovales ou suborbiculaires, acuminées, à côté médiane saillante, de 13-15 × 3-4,5 cm, pubescentes, ciliées aux bords, à l'état vivant vert blanchâtre teinté de pourpre. Calice d'environ 1 mm de haut, lobulé. Corolle blanche, à tube d'environ 20 mm de long, et 2 mm à la base, à gorge de 6 mm de diamètre, glabre; à l'intérieur de la face antérieure une bande de poils glanduleux; limbe de la corolle à peine zygomorphé; lobes les plus petits de 5 × 5; lobes les plus grands de 5 × 7 mm. Étamines didynamics; filets antérieurs les plus longs, de 4 mm, les postérieurs plus courts, de 2 mm; loges d'anthère un peu inégales, confluentes au sommet, acuminées, densément velues à la base, d'environ 4 mm de long. Disque de 1 mm de haut. Ovaire de 2 mm de haut, glabre, biovulé; style de 20 mm de long; stigmate tronqué.
+Flowers axillary, in opposite fascicles of 2 to 4 flowers; pedicel 1–1.5 cm long pubescent; bracteoles broadly ovate or suborbicular, acuminate, with prominent midvein, 13–15 × 3–4.5 cm, pubescent, ciliate at the margins, in living state pale greenish tinged with purple. Calyx about 1 mm tall, lobulate. Corolla white, with tube about 20 mm long, and 2 mm at the base, with throat 6 mm in diameter, glabrous; on the inside of the anterior face a band of glandular hairs; corolla limb scarcely zygomorphic; smallest lobes 5 × 5; largest lobes 5 × 7 mm. Stamens didynamous; anterior filaments longest, 4 mm, posterior ones shorter, 2 mm; anther lobes somewhat unequal, confluent at the apex, acuminate, densely villous at the base, about 4 mm long. Disk 1 mm tall. Ovary 2 mm tall, glabrous, biovulate; style 20 mm long; stigma truncate.
 
-Le fruit est une drupe vert brillant, à une loge avortée, d'environ 7-9 × 8-9 mm, et 6-7,5 mm d'épaisseur, légèrement zygomorphé et anguleuse sur le côté; endocarpe mince, mésocarpe ligneux d'environ 0,4 mm d'épaisseur. Graine à testa lisse, ovale, de 5 × 2,2 mm.
+The fruit is a drupe bright green, with one abortive locule, about 7–9 × 8–9 mm, and 6–7.5 mm thick, slightly zygomorphic and angular on the side; endocarp thin, woody mesocarp about 0.4 mm thick. Seed with smooth testa, ovate, 5 × 2.2 mm.
 
 ## Type
 
@@ -37,15 +35,11 @@ Preuss 481, Urwald zwischen Barombi-ba-Mu, Came-roun (B, syntype détruit; P, is
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Uganda, Centrafrique.
+Cameroon, Gabon, Congo, Uganda, Central African Republic.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Des spécimens fort glabrescents provenant de Centrafrique ont été distingués et décrits par R. Benoist sous le nom de M. Gilgiana var. Tisserantii R. Ben. Cette différenciation fut acceptée par H. Heine en 1963, et les spécimens revisés du Liberia, de la Côte d'Ivoire, de la République Centrafricaine et du Congo ex-belge ont été rattachés à cette variété; les spécimens provenant du Cameroun furent au contraire considérés comme appartenant à M. Gilgiana var. Gilgiana (l'espèce n'était pas encore connue du Gabon). Cette distinction peut sembler contestable d'après une nouvelle étude du matériel; elle n'a donc pas été acceptée ci-dessus
+Some very glabrescentes specimens from the Central African Republic were distinguished and described by R. Benoist under the name M. Gilgiana var. Tisserantii R. Ben. This differentiation was accepted by H. Heine in 1963, and the revised specimens from Liberia, Côte d'Ivoire, the Central African Republic and former Belgian Congo were assigned to this variety; specimens from Cameroon were, by contrast, considered as belonging to M. Gilgiana var. Gilgiana (the species was not yet known from Gabon). This distinction may appear debatable on the basis of a new study of the material; it has therefore not been accepted above.
 
 ## Specimens examined
 

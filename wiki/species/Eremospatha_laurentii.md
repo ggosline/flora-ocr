@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane cespiteuse ; stipe triangulaire en coupe transversale , jusqu’à 30 m, jusqu’à 24 mm de diamètre. Feuille : gaine légèrement striée, glabre ou à pilosité caduque ; ochréa dépassant le rachis sur 1–2 cm, entière, à sommet obliquement tronqué ; genou présent , 5–8 cm de longueur, se terminant abruptement à la base ; pétiole absent ; rachis 1,2–1,5 m, convexe à concave dessus, arrondi dessous, bords armés d’épines réfléchies ; limbe avec 22 à 30 paires de folioles très étroitement elliptiques-ovales à très étroitement ovales, 22–38 × 2,8–3,8 cm, sommet très finement acuminé, marges armées d’épines jaunes à pointes noires, les basales plus étroites que les autres, linéaires, réfléchies autour de la gaine foliaire ; cirrhe 1,2–1,5 m, sans épines, à folioles-épines de 3–4 cm. Inflorescence 24–32 cm de longueur, glabre ; pédon cule 10–15 cm ; rachis 12–17 cm, érigé ou arqué, avec 8 à 10 paires de rameaux florifères de 5–16 cm de longueur, décroissant en longueur distalement. Fleur : calice 4 × 5 mm, lobes 1,5 mm de longueur, arrondis ; corolle 7–9 × 3–4 mm, divisée sur le ¼ de sa longueur ; étamines formant un anneau de ± 4 mm de longueur, partie libre des filets < 0,1 mm, anthère < 0,5 mm de longueur ; ovaire 1 × 1,5 mm ; style 1 mm. Fruit globuleux à cylindrique, 1,6–2,2 × 1,7–2 cm à maturité, avec 18 à 22 rangs d’écailles, monosperme. Graine 1–1,2 × 0,8–1 × 0,6–0,8 cm, comprimée.
+Cespitose liana; stem triangular in cross-section, up to 30 m, up to 24 mm in diameter. Leaf: sheath slightly striate, glabrous or with caducous pubescence; ochrea exceeding the rachis by 1–2 cm, entire, with obliquely truncate apex; knee present, 5–8 cm in length, terminating abruptly at the base; petiole absent; rachis 1.2–1.5 m, convex to concave above, rounded below, margins armed with reflexed spines; blade with 22 to 30 pairs of very narrowly elliptic-ovate to very narrowly ovate leaflets, 22–38 × 2.8–3.8 cm, apex very finely acuminate, margins armed with yellow spines with black tips, the basal ones narrower than the others, linear, reflexed around the leaf sheath; cirrus 1.2–1.5 m, unarmed, with spine-like leaflets of 3–4 cm. Inflorescence 24–32 cm in length, glabrous; peduncle 10–15 cm; rachis 12–17 cm, erect or arched, with 8 to 10 pairs of flowering branches 5–16 cm in length, decreasing in length distally. Flower: calyx 4 × 5 mm, lobes 1.5 mm in length, rounded; corolla 7–9 × 3–4 mm, divided for ¼ of its length; stamens forming a ring of ± 4 mm in length, free part of filaments < 0.1 mm, anther < 0.5 mm in length; ovary 1 × 1.5 mm; style 1 mm. Fruit globose to cylindric, 1.6–2.2 × 1.7–2 cm at maturity, with 18 to 22 rows of scales, monospermic. Seed 1–1.2 × 0.8–1 × 0.6–0.8 cm, compressed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon et République démocratique du Congo, avec quelques collectes de l’Afrique de l’Ouest (Sierra Léone, Libéria et Nigéria) ; au Gabon, assez commun dans l’Estuaire, connu aussi de la Nyanga et du Woleu Ntem. Statut de conservation : Préoccupation mineure (LC)
+Cameroon, Equatorial Guinea, Gabon and Democratic Republic of the Congo, with a few collections from West Africa (Sierra Leone, Liberia and Nigeria); in Gabon, fairly common in the Estuary, also known from Nyanga and Woleu Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts tropicales humides de basse altitude, en milieu ouvert et dans le sous-bois ; au Gabon et ailleurs jusqu’à 500 m d’altitude
+humid tropical forests at low altitude, in open habitats and in the understory; in Gabon and elsewhere up to 500 m altitude
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ ebuat (fang). Usage : Rarement utilisé pour la confection de meubles ou en vann
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fleur. – 5. Idem, coupe longitudinale. – 6. Infrutescence. – 7. Graine. Barre d’échelle : 1 = 8 cm, 2 = 1,5 cm, 3 = 4 cm, 4, 5 = 1 cm, 6 = 5 cm, 7 = 8 mm. (1-3 : Sunderland 1920 ; 4, 5 : Louis 15994 ; 6, 7 : Otedoh et Tuley 7258 ). Dessin par Lucy T. Smith, reproduit avec permission à partir de Sunderland (2012).
+Flower. – 5. Idem, longitudinal section. – 6. Infructescence. – 7. Seed. Scale bar: 1 = 8 cm, 2 = 1.5 cm, 3 = 4 cm, 4, 5 = 1 cm, 6 = 5 cm, 7 = 8 mm. (1-3: Sunderland 1920; 4, 5: Louis 15994; 6, 7: Otedoh and Tuley 7258). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
 ## Notes
 

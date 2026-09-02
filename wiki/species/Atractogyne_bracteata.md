@@ -26,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+High-climbing liana with flexuous stems not exceeding 2 cm in diameter. Wood cylindrical, not grooved. Leaves and branch tips very similar to those of the preceding species. The leaf domatia differ in their opening ± masked beneath the dense pubescence of the nerve axil.
 
-Liane élevée à tiges flexueuses ne dépassant pas 2 cm de diam. Bois cylindrique non sillonné. Feuilles et extrémités très semblables à celles de l'espèce précédente. Les domaties foliaires diffèrent par leur ouverture ± masquée sous la dense pubescence de l'aisselle nervaire.
+Cymose, pauciflorous inflorescences. Flowers very similar to those of the preceding species, ♂ or ♀, often puberulent, with calyx not grooved at the level of the ovary but turbinate in the ♀ flower. Corolla green ± striolate with purple, with lobes of 3-4 mm. Anthers narrowly subsagittate. Pollen tetrads with exine more finely reticulate than in A. gabonii. Ovary of 2 × 2.3 mm at anthesis. ♂ flower similar except for the stigma not bilabiate; abortive ovary of ca. 1.5 mm.
 
-Inflorescences cymeuses pauciflores. Fleurs très semblables à celles de l'espèce précédente, ♂ ou ♀, souvent pubérulentes, à calice non sillonné au niveau de l'ovaire mais turbiné dans la fleur ♀. Corolle verte ± striolée de pourpre, à lobes de 3-4 mm. Anthères étroitement subsagittées. Tétrades polliniques à exine plus finement réticulée que chez A. gabonii. Ovaire de 2 × 2,3 mm à l'anthèse. Fleur ♂ semblable à l'exception du stigmate non bilabéi; ovaire avorté d'env. 1,5 mm.
-
-Fruit juvénile vert marbré, lisse, en massue longuement pédonculée. Fruit mûr lisse, rouge grenat, en forme de tonnelet de  $ 4,5-8 \times 3,5-5 \, \text{cm} $ au-dessus d'un pédoncule épaissi et coloré. Pulpe aqueuse, blanche, à odeur de salicylate de méthyle; axe placentaire volumineux se séparant aisément en deux masses longitudinales. Graines nombreuses atteignant  $ 2,5 \, \text{mm} $, à tégu-ment orné de mailles très finement étirées. Embryon blanc de  $ 1,7 \, \text{mm} $. Germination obtenue en 27 jours (F. Hallé). Nombre chromosomeque  $ 2 \, \text{n} = 22 \, (\text{S. et G. Mangenot}) $.
+Juvenile fruit green marbled, smooth, clavate with long peduncle. Ripe fruit smooth, garnet red, barrel-shaped of 4.5–8 × 3.5–5 cm above a thickened and coloured peduncle. Pulp aqueous, white, with a methyl salicylate odour; placentary axis voluminous, separating easily into two longitudinal masses. Numerous seeds reaching 2.5 mm, with tegument ornamented with very finely stretched meshes. White embryo of 1.7 mm. Germination obtained in 27 days (F. Hallé). Chromosome number 2 n = 22 (S. and G. Mangenot).
 
 ## Type
 
@@ -40,9 +38,7 @@ Talbot 1662 (K), Oban, S Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est connue de Côte-d'Ivoire, Nigeria, Cameroun et Gabon. Lisières; peu commune.
+The species is known from Ivory Coast, Nigeria, Cameroon and Gabon. Forest edges; uncommon.
 
 ## Specimens examined
 

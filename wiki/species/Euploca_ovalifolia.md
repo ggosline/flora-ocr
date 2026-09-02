@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 5
 
-Planche 5
-
-Herbe pérenne, de 7–60(−90) cm de hauteur, ligneuse à la base, densément pubescente avec des poils blancs apprimés; tiges ramifiées, procombantes. Feuille: pétiole 2–15(−30) mm; limbe étroitement elliptique-obovale, oblong ou elliptique, de (5−)10–30(−50) × (2,5−)4–15(−25) mm, cunée à la base, parfois décurrent sur le pétiole, mucroné, ou rarement aigu au sommet, densément strigueux, (parfois subglabre) à poils apprimés blancs; nervure médiane seule distincte. Inflorescence terminale, en cymes scorpioïdes solitaires ou par 2(−3), spici-formes, longue de 1,5–6(−15) cm, strigueuse, à fleurs disposées sur 2 rangs. Fleur 2,6–4,7 × 2–3 mm; pédicelle très court, jusqu'à 0,5–1(−2) mm en fruit; calice à lobes inégaux, 1,6–3,0 ×
-
-0,3–1,2 mm; corolle longue de 3–4,5 mm, blanc crème, parfois jaune à la gorge, strigueuse extérieurement, à tube cylindrique, élargi au milieu, long de (1,4–)2,3–3,7 mm, garni intérieurement au niveau du sommet des anthères d'un anneau de poils apprimés, à lobes de 0,7–1,0 × 0,4–1,5 mm; anthère étroitement elliptique-ovale, longue de 0,7–0,8 mm, subaiguë au sommet; disque absent; ovaire subglobuleux, 0,5 mm de diamètre, glabre; stigmate sub-persistent, sessile, long de 0,5–0,7 mm, tronqué au sommet. Fruit subglobuleux, 2 mm de diamètre, à sommet arrondi.
+Perennial herb, 7–60(−90) cm tall, woody at the base, densely pubescent with appressed white hairs; stems branched, procumbent. Leaf: petiole 2–15(−30) mm; blade narrowly elliptic-obovate, oblong or elliptic, (5−)10–30(−50) × (2.5−)4–15(−25) mm, cuneate at the base, sometimes decurrent on the petiole, mucronate, or rarely acute at the apex, densely strigose, (sometimes subglabrous) with appressed white hairs; midvein alone distinct. Inflorescence terminal, in solitary or 2(−3) scorpioid cymes, spiciform, 1.5–6(−15) cm long, strigose, with flowers arranged in 2 ranks. Flower 2.6–4.7 × 2–3 mm; pedicel very short, up to 0.5–1(−2) mm in fruit; calyx with unequal lobes, 1.6–3.0 × 0.3–1.2 mm; corolla 3–4.5 mm long, cream-white, sometimes yellow in the throat, strigose on the outside, with cylindrical tube, enlarged in the middle, (1.4–)2.3–3.7 mm long, furnished internally at the level of the anther apex with a ring of appressed hairs, with lobes 0.7–1.0 × 0.4–1.5 mm; anther narrowly elliptic-ovate, 0.7–0.8 mm long, subacute at the apex; disc absent; ovary subglobose, 0.5 mm in diameter, glabrous; stigma sub-persistent, sessile, 0.5–0.7 mm long, truncate at the apex. Fruit subglobose, 2 mm in diameter, with rounded apex.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement distribué en Afrique tropicale, en Asie Mineure, en Arabie, en Asie du sud et en Australie; en Afrique, connu du Sénégal, du Mali, du Ghana, du Bénin, du Nigéria, du Cameroon, du Gabon, du Tchad, de la République démocratique du Congo, du Burundi, du Soudan, du Soudan du Sud, de l'Égypte, de l'Éthiopie, de la Somalie, du Kenya, de la Tanzanie, de l'Angola, de la Zambie, du Zimbabwe, du Malawi, de la Mozambique, de la Namibie, du Botswana, de l'Afrique du Sud et de Madagascar; au Gabon, connue seulement de l'Ogooué-Maritime
+Widely distributed in tropical Africa, in Asia Minor, in Arabia, in South Asia and in Australia; in Africa, known from Senegal, Mali, Ghana, Benin, Nigeria, Cameroon, Gabon, Chad, Democratic Republic of the Congo, Burundi, Sudan, South Sudan, Egypt, Ethiopia, Somalia, Kenya, Tanzania, Angola, Zambia, Zimbabwe, Malawi, Mozambique, Namibia, Botswana, South Africa and Madagascar; in Gabon, known only from Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Open forests, savannas, marshy grasslands, dunes, lake and river margins, cultivations, fallows, waste ground; in Gabon at 100 m elevation, elsewhere up to 1700 m
 
-forêts claires, savanes, prairies marécageuses, dunes, bords de lacs et de rivières, cultures, jachères, terrains vagues ; au Gabon à 100 m d'altitude, ailleurs jusqu'à 1700 m
-
-Usage : La plante est utilisée contre la syphilis dans au moins 3 pays africains et elle est réputée avoir des propriétés analgésiques. En Éthiopie et en Tanzanie, on l'applique sur les piquères de scorpion. Au Sénégal et au Kenya, la plante est pâturée par tous les animaux domestiques.
+Uses: The plant is used against syphilis in at least 3 African countries and it is reputed to have analgesic properties. In Ethiopia and Tanzania, it is applied to scorpion stings. In Senegal and Kenya, the plant is grazed by all domestic animals.
 
 ## Bibliography
 

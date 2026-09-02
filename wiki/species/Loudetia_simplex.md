@@ -25,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, not reaching 1 m tall in Gabon, leaves glabrous or more or less pubescent with tuberculate hairs.
 
-Herbe pérenne, n'atteignant pas 1 m de haut au Gabon, feuilles glabres ou plus ou moins pubescentes à poils tuberculés.
+Panicle measuring at most about ten centimetres in diameter; spikelets 10-13 mm long with glumes almost always glabrous; the lower one reaches half the length of the spikelet, or less, rounded or truncate at the apex; the upper one is as long as the spikelet. Lower flower male, with lemma similar to the upper glume; palea linear, obtuse. Upper flower with a bidentate callus 1 mm long, lemma bilobed, 4 to 6 mm, with 7 nerves, extended by an awn reaching 5 cm with a scabrous column, palea linear.
 
-Panicule mesurant au plus une dizaine de centimètres de diamètre; épilets de 10-13 mm de long à glumes presque toujours glabres; l'inférieure atteint la moitié de la longueur de l'épillet, ou moins, arrondie ou tronquée au sommet; la supérieure est aussi longue que l'épillet. Fleur inférieure mâle, à lemma semblable à la glume supérieure; paléa linéaire, obtuse. Fleur supérieure à callus bidenté de 1 mm de long, lemma bilobée, de 4 à 6 mm, à 7 nervures, prolongée par une arête atteignant 5 cm à colonne scabre, paléa linéaire.
-
-Se rencontre en Afrique tropicale et en Amérique du Sud. Au Gabon et au Congo cette espèce occupe des plages de sables lessivés blancs périodiquement inondés; elle n'est pas appétée par le bétail.
+Found in tropical Africa and South America. In Gabon and Congo this species occupies beaches of leached white sands periodically flooded; it is not grazed by livestock.
 
 ## Specimens examined
 

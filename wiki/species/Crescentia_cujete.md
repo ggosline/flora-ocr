@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree up to 10 m tall and 30 cm in diameter, branches usually curved, crown open. Branchlets most often absent, smaller branches thick, subcylindrical, with alternate ridges of short shoots each bearing a fascicle of leaves from its centre. Leaves of variable size within each fascicle, simple, obovate, apex obtuse to acute, base attenuate, 3.4–26 × 1.7–6 cm, papyraceous to papyraceous-rigid, squamose above and below, otherwise glabrous above, below glabrous or pubescent along the midvein, circular prominent glands at the base of the lamina on the lower face.
 
-Arbre haut jusqu'à 10 m et d'un diamètre de 30 cm, branches habituellement courbées, couronne ouverte. Ramilles le plus souvent absentes, branches plus petites épaisses, subcylindriques, avec des saillies alternes de pousses courtes portant chacune un fascicule de feuilles depuis son centre. Feuilles de taille variable dans chaque fascicule, simples, obovées, sommet obtus à aigu, base atténuée, 3,4-26 × 1,7-6 cm, papyracées à papyracées-rigides, squameuses dessus et dessous, autrement glabres dessus, dessous glabres ou pubescentes le long de la nervure médiane, glandes circulaires saillantes à la base du limbe à la face inférieure.
+Inflorescence of one or two flowers borne by the main branches or trunk. Pedicels squamose, 1.5 cm long. Calyx split bilabially to the base, each lobe 1.8–2.6 × 1.3–2.4 cm, mostly glabrous with circular prominent glands on the upper half of the lobes, weakly squamose at the base. Corolla yellowish-bronze with purplish venation on the lobes and purplish lines on the tube externally, tubular with a transverse fold at mid-distance across the lower part of the fleshy throat, 4.1–7.4 cm long, 3.1–4.5 cm wide, lobes triangular with the apex tapering like a narrow point, 2.5–3 cm long; sparsely squamose or with peltate scales on the tube externally and near the tube opening internally as well as at the insertion of the stamens, lobes papillose-glandular. Stamens exserted; thecae thick, partially divergent, 5–8 mm long. Pistil 4–4.9 cm long, ovary conical-rounded, 3–4 mm long, 8–11 mm wide.
 
-Inflorescence en une ou deux fleurs portées par les branches principales ou le tronc. Pédicelles squameux, longs de 1,5 cm. Calice fendu bilabialement jusqu'à la base, chaque lobe 1,8-2,6 × 1,3-2,4 cm, le plus souvent glabre avec des glandes circulaires saillantes sur la moitié supérieure des lobes, faiblement squameux à la base. Corolle bronze jaunâtre avec une nervation violacée sur les lobes et des lignes violacées sur le tube extérieurement, tubulaire avec un repli transversal à mi-distance en travers de la partie inférieure de la gorge charnue, longue de 4,1-7,4 cm, large de 3,1-4,5 cm, lobes triangulaires avec le sommet s'allongeant comme une pointe étroite, longs de 2,5-3 cm ; éparsement squameuse ou avec écailles peltées sur le tube extérieurement et près de l'ouverture du tube intérieurement ainsi qu'au niveau de l'insertion des étamines, lobes papilleux glandulaires. Étamines exsertes ; thèques épaisses, partiellement divergentes, longues de 5-8 mm. Pistil long de 4-4,9 cm ovaire conique arrondi, long de 3-4 mm, large de 8-11 mm.
+Fruit a pepo or calabash, spherical to ovoid-elliptic, 13–20 cm in diameter, and up to 30 cm long, wall thin, hard, smooth, squamose-punctate. Seeds small, thin, wingless, 7–8 mm long, 4–6 mm wide, scattered in the fruit pulp. – Pl. 11, fig. 1–2; p. 47.
 
-Fruit en peponide ou calebasse, sphérique à ovoïde elliptique, d'un diamètre de 13-20 cm, et longue jusqu'à 30 cm, paroi mince dure lisse, squameuse ponctuée. Graines petites, minces, sans aile, longues de 7-8 mm, larges de 4-6 mm, dispersées dans la pulpe du fruit. - Pl. 11, fig. 1-2; p. 47.
+Native to Central America and cultivated in all tropical regions. The hollow external walls of the fruits are often used as containers or spoons, especially in tropical America.
 
-Originaire d'Amérique Centrale et cultivée dans toutes les régions tropicales. Les parois externes creuses des fruits sont souvent utilisées comme récipients ou cuillers, spécialement en Amérique tropicale.
+COMMON NAMES: tree calabash, calebassier, arbre à calebasse.
 
-NOMS USUELS : tree calabash, calebassier, arbre à calebasse.
-
-Quoiqu’aucune collection du Gabon n’ait été vue, il est probable qu’il y existe ; il est cultivé au Cameroun et ailleurs en Afrique tropicale.
+Although no collection from Gabon has been seen, it is probable that it occurs there; it is cultivated in Cameroon and elsewhere in tropical Africa.
 
 ## Figures
 

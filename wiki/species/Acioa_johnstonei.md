@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 l.c.: 71 (1947); DALZIEL, Us. Pl. W. Trop. Afr.: 167 (1937); KEAY, FWTA, ed. 2, 1 (2): 433 (1958).
 
-Arbuste buissonnant ne dépassant pas 3 m de hauteur ou petit arbre pouvant atteindre 25 cm de diamètre mais ramié à faible hauteur avec de longues branches courbées; écorce à tranche rose; bois mi-dur, orangé jaunâtre; rameaux âgés lenticellés; jeunes rameaux hispides avec poils dispersés longs de 2-3 mm; stipules, pétioles, dessous de la nervure médiane et des nervures latérales, axes de l'inflorescence, bractées, pédicelles, bractéoles, réceptacles, extérieur des sépales également hispides avec poils dispersés atteignant souvent jusqu'à 2 mm de longueur. Stipules triangulaires allon-
+Bushy shrub not exceeding 3 m in height or small tree reaching 25 cm in diameter but branched at low height with long curved branches; bark with pink-coloured cross-section; wood semi-hard, orange-yellowish; old branchlets lenticellate; young branchlets hispid with scattered hairs 2–3 mm long; stipules, petioles, underside of the midvein and lateral nerves, axes of the inflorescence, bracts, pedicels, bracteoles, receptacles, outer surface of the sepals likewise hispid with scattered hairs often reaching up to 2 mm in length. Stipules triangular elongate, 4 mm, with stipitate marginal glands reaching 1 mm in height, early caducous. Petioles 5–6 mm, transversely rugose. Leaf blade oval-elliptic, 2–5 × 6–12 cm, sometimes oblong; base obtuse to rounded; apex acute with poorly differentiated acumen; midvein sparsely hispid then glabrescent above; lateral nerves approximately 6 pairs; leaf blade fairly distinctly scabrous above, very sparsely hispid then quickly glabrescent below; small scattered circular glands at approximately 0.5 cm from the blade margin, especially towards the apex and base.
 
-gées, 4 mm, avec glandes stipitées marginales atteignant 1 mm de hauteur, tôt caduques. Pétioles 5-6 mm, transversalement rugueux. Limbe ovaleleliptique, 2-5 × 6-12 cm, parfois oblong; base obtuse à arrondie; sommet aigu avec acumen peu différencié; nervure médiane éparsement hispide puis glabrescente dessus; nervures latérales environ 6 paires; limbe assez nettement scabre dessus, très éparsement hispide puis rapidement glabrescent dessous; petites glandes circulaires éparses à environ 0,5 cm de la marge du limbe, surtout vers le haut et vers le bas.
+Cymose inflorescences terminal and axillary subter­minal, 1(2) times branched, reaching 10 cm in height, moderately floriferous; entire inflorescence hispid as mentioned above and also puberulent up to the outer surface of the sepals; peduncle 3–4 cm, bearing deeply tricuspid, glandular bracts; secondary axes sometimes subopposite towards the base of the inflorescence and reaching 15–20 mm. Primary and secondary bracts triangular, 3–4 mm long, furnished on the margin with 3–5 stipitate glands reaching 2 mm in height, surmounted by shorter glands; portion of the pedicels below the articulation, approximately 10 mm; bracteoles subopposite, sometimes alternate, broadly triangular, approximately 1 mm, furnished on the margin with 5–7 stipitate glands reaching 1.5 mm in height, alternating with shorter glands; articulate terminal portion of the pedicel not exceeding the apex of the upper bracteole. Pedicel of the flower disarticulate 4–6 mm. Receptacle 10–12 mm, tubulous with distinctly gibbous base; sepals approximately 5 mm; petals broadly obovate with obtuse base, 5–6 mm tall, white; androecium 25 mm, approximately 20 filaments; ovary covered with whitish woolly tomentum accompanied, only at the base of the style, by hispid hairs.
 
-Inflorescences cymeuses terminales et axillaires subterminales, 1(2) fois ramifiées, atteignant 10 cm de hauteur, modérément fleuries; toute l'inflorescence hispide comme mentionné ci-dessus et également pubérulente jusqu'à la surface externe des sépales; pédoncule 3-4 cm, garni de bractées profondément tricuspides, glanduleuses; axes secondaires parfois subopposés vers la base de l'inflorescence et atteignant 15-20 mm. Bractées primaires et secondaires triangulaires, longues de 3-4 mm, garnies sur la marge de 3-5 glandes stipitées atteignant 2 mm de hauteur, surmontées de glandes plus courtes; portion des pédicelles sous l'articulation, environ 10 mm; bractéoles subopposées, parfois alternes, largement triangulaires, environ 1 mm, garnies sur la marge de 5-7 glandes stipitées atteignant 1,5 mm de hauteur, alternant avec des glandes plus courtes; portion terminale articulée du pédicelle ne dépassant pas le sommet de la bractéole supérieure. Pédicelle de la fleur désarticulée 4-6 mm. Réceptacle 10-12 mm, tubuleux avec base nettement gibbeuse; sépales environ 5 mm; pétales largement obovales avec base obtuse, hauts de 5-6 mm, blancs; androcée 25 mm, environ 20 filets; ovaire couvert d'un tomentum laineux blanchâtre accompagné, seulement à la base du style, de poils hispides.
-
-Infrutescences avec axe hispide, 5-10 cm; pédoncule fructifère propre-ment dit, 2-3 cm. Drupe ovoïde aplatie, 20-25 × 30 × 35-40 mm (in vivo), à pointe obtuse, couverte d'un tomentum brun olive clair entremêlé de poils jaunâtres; souvent deuxième carpelle rudimentaire. — PL. 10, p. 37.
+Infructescences with hispid axis, 5–10 cm; proper fruiting peduncle, 2–3 cm. Drupe ovoid flattened, 20–25 × 30 × 35–40 mm (in vivo), with obtuse apex, covered with light olive-brown tomentum interspersed with yellowish hairs; often second rudimentary carpel. — PL. 10, p. 37.
 
 ## Type
 
@@ -37,15 +33,13 @@ Klaine 1890, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PARATYPE: Maitland 1401 (fr.), Cameroon, FHO.
 
-PARATYPE : Maitland 1401 (fr.), Cameroun, FHO.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
+Acioa johnstonei Hoyle is known only from the Cameroonian mountains of the North-West administrative province, at approximately 1000–1600 m elevation, at the edge of forested valleys and watercourses.
 
-Acioa johnstonei Hoyle n’est connue que dans les montagnes camerounaises de la province administrative du Nord-Ouest, vers 1000-1600 m d’altitude, en lisière de vallons forestiers et de cours d’eau.
-
-Acioa lævis Pierre ex De Wild. n'est connue que de la région de Libreville au Gabon. Sa présence au Congo, signalée par Bouquet, Féticheurs et médecines traditionnelles du Congo-Brazzaville : 203 (1969), est fort douteuse, l'échantillon de référence cité (Bouquet 872, P!) devant en réalité être rapporté à Acioa gilletii De Wild.
+Acioa lævis Pierre ex De Wild. is known only from the Libreville region in Gabon. Its presence in Congo, reported by Bouquet, Féticheurs et médecines traditionnelles du Congo-Brazzaville: 203 (1969), is highly doubtful, the reference specimen cited (Bouquet 872, P!) actually being referable to Acioa gilletii De Wild.
 
 ## Vernacular names
 

@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, J. Bot. 72, Suppl., 1:3 (1934); FWTA; 68 (1959). — Tard., Mém. IFAN 28:pl. 19, f. 1-2 (1953).
 
-Rhizome longuement rampant, écailleux, à larges écailles incolores, échancrées à la base, à bords entiers, à frondes espacées, Pétiole des frondes fertiles long de 15-25 cm, straminé-grisâtre, épais, canaliculé, portant à la base, les mêmes écailles que le pétiole. Limbe lancéolé, long de 20-40 cm sur 18-30 de large, penné. Penne terminale lobée; 7-15 paires de pennes latérales, les supérieures largement adnées, les moyennes décurrentes, les inférieures libres, sessiles ou courtement pétiolées, ayant de 12-17 cm de long sur 1,5-2 de large, linéaires, à extrémité effilée, bases obliques, subégales, bords entiers ou irrégulièrement serrulés; coloration vert olive, noircissant sur le sec. Texture subcoriace. Nervures latérales peu marquées; nervures formant de grandes aréoles irrégulière, contenant des aréoles à nombreuses nervilles libres. Aréoles costales très surbaissées. Fronde fertile de même taille que la stérile, mais à pennes très étroites, les inférieures seules non confluentes, recouvertes entièrement par les sporanges.
+Rhizome extensively creeping, scaly, with broad colourless scales, emarginate at the base, with entire margins, with fronds spaced apart. Petiole of fertile fronds 15-25 cm long, straw-coloured to greyish, thick, channelled, bearing at the base the same scales as the rhizome. Blade lanceolate, 20-40 cm long by 18-30 cm wide, pinnate. Terminal pinna lobed; 7-15 pairs of lateral pinnae, the upper ones broadly adnate, the middle ones decurrent, the lower ones free, sessile or shortly petiolate, 12-17 cm long by 1.5-2 cm wide, linear, with tapering apex, oblique bases, subequal, margins entire or irregularly serrulate; olive-green colouration, darkening when dry. Texture subcoriaceous. Lateral veins scarcely prominent; veins forming large irregular areoles, containing areoles with numerous free veinlets. Costal areoles very much flattened. Fertile frond of the same size as the sterile, but with very narrow pinnae, the lower ones alone non-confluent, entirely covered by sporangia.
 
 ## Type
 
@@ -34,11 +32,9 @@ Heudelot 803, Fouta-Djallon (P in herb. Bory)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Senegal to Congo, Angola.
 
-Du Sénégal au Congo, Angola.
-
-Rochers inondés et cours d'eau.
+Inundated rocks and watercourses.
 
 ## Specimens examined
 

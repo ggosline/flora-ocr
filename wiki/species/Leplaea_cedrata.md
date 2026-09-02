@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pl. Ecol. Evol . 145(2) : 219 (2012). Guarea cedrata (A.Chev.) Pellegr., Bull. Soc. Bot. France 75 : 480 (1928). Grand arbre atteignant 45 m de hauteur ; tronc jusqu’à 150 cm de diamètre ; tranche rose brun pâle, pas d’exsudat, mais à forte odeur de cèdre . Feuille : pétiole (2–)3–13(–18) cm, canaliculé et assez largement ailé ; rachis (1–)3–7(–38) cm, pubérulent ; pétio lules 2–10 mm, ceux des folioles terminales atteignant 25 mm ; folioles (7–)9–11(–15), étroitement rectangulaires à elliptiques ou ovales, (7–)10–13(–35) × (2–)3–7(–12) cm, d’habitude nettement asymétriques , obtuses ou cunéiformes à la base, à sommet aigu à acuminé, glabre ; nervation proéminente et réseau de veinules très saillante sur les deux faces , nervures latérales (5–)12–18(–20) paires. Inflorescence atteignant 7 cm de longueur, souvent fasciculée, tomenteuse. Fleur fonctionnellement mâle jaune ver dâtre, très parfumée ; pédicelle 1 mm, articulé à la base ; calice 1–2 mm de hauteur, à (2–)3–4(–5) lobes triangulaires, tomenteux extérieurement ; pétales (3–)4(–5), étroite ment rectangulaires à ovales, 5–7 × 2–3 mm, finement tomenteux extérieurement, glabre intérieurement, réfléchis à l’anthèse ; tube staminal urcéolé, (4–)5 mm de longueur, à bord échancré, glabre, à 8–15 anthères ; gynécée 5 mm de longueur, presque sessile, velu. Fleur fonctionnellement femelle très similaire, à anthérodes bien développés, ovaire ovoïde à subglobuleux, 2,5(–3) mm de diamètre, (3–)4(–7)-loculaire, densément velu ; style 1,5–2 mm, stigmate 2 mm de diamètre. Fruit subglobuleux, vaguement (3–)4(–7)lobé, 4–5 cm de diamètre, brun-jaunâtre. Graine réniforme, 2,5–3 × 1,5–2 cm ; sarcotesta orangé, 2 mm d’épaisseur.
+Pl. Ecol. Evol . 145(2) : 219 (2012). Guarea cedrata (A.Chev.) Pellegr., Bull. Soc. Bot. France 75 : 480 (1928). Large tree reaching 45 m in height; trunk up to 150 cm in diameter; cross-section pale brownish-pink, without exudate, but with a strong cedarwood odour. Leaf: petiole (2–)3–13(–18) cm, channelled and rather broadly winged; rachis (1–)3–7(–38) cm, puberulent; petiolules 2–10 mm, those of terminal leaflets reaching 25 mm; leaflets (7–)9–11(–15), narrowly rectangular to elliptic or ovate, (7–)10–13(–35) × (2–)3–7(–12) cm, usually distinctly asymmetric, obtuse or cuneate at the base, with acute to acuminate apex, glabrous; venation prominent and veinlet network very prominent on both surfaces, lateral nerves (5–)12–18(–20) pairs. Inflorescence reaching 7 cm in length, often fasciculate, tomentose. Functionally male flower yellowish-green, very fragrant; pedicel 1 mm, articulated at the base; calyx 1–2 mm in height, with (2–)3–4(–5) triangular lobes, tomentose externally; petals (3–)4(–5), narrowly rectangular to ovate, 5–7 × 2–3 mm, finely tomentose externally, glabrous internally, reflexed at anthesis; staminal tube urceolate, (4–)5 mm in length, with notched margin, glabrous, with 8–15 anthers; gynoecium 5 mm in length, almost sessile, hairy. Functionally female flower very similar, with well-developed anthers, ovary ovoid to subglobose, 2.5(–3) mm in diameter, (3–)4(–7)-locular, densely hairy; style 1.5–2 mm, stigma 2 mm in diameter. Fruit subglobose, vaguely (3–)4(–7)-lobed, 4–5 cm in diameter, yellowish-brown. Seed reniform, 2.5–3 × 1.5–2 cm; sarcotesta orange, 2 mm thick.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, République Centrafricaine, Guinée Équatoriale, Gabon, République du Congo, Répu blique Démocratique du Congo, Angola et Ouganda ; au Gabon, connue de l’Estuaire, du Moyen-Ogooué, de la Nyanga et de l’Ogooué-Ivindo
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and Uganda; in Gabon, known from Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt sempervirente et semi-caducifoliée ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 1300 m. Usage : Le bois d’œuvre est apprécié en construction et pour l’ébénisterie ; depuis long temps favorisé pour la construction de pirogues
+Evergreen and semi-deciduous forest; in Gabon, up to 500 m in altitude, elsewhere up to 1300 m. Use: The timber is appreciated in construction and for cabinetmaking; long favoured for the construction of canoes
 
 ## Vernacular names
 

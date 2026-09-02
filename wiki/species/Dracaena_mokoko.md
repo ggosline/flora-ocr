@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste jusqu’à 2 m de hauteur ; tige simple , souvent en touffes. Feuilles équitantes , couvrant la tige (tige visible seulement dans les 20 cm basaux sur les spécimens plus âgés) ; gaine embrassant la tige sur nettement plus que la circonférence, sur une longueur de > 1 cm ; pseudopétiole largement ailé, un peu plus court que le limbe , vert pâle, passant graduellement à la gaine ; limbe largement elliptique à étroitement ovale , jusqu’à 80 × 10 cm, base cunéée, passant graduellement au pseudopétiole, sommet acuminé à caudé, recourbé vers le sol, avec un mucron atteignant 1 cm, papyracé-coriace, densément ondulé longitudinalement, dessous à nervures secondaires proéminentes et de nombreuses veinules transversales légèrement plus foncées , face supérieure vert foncé uni, face inférieure plus pâle. Inflorescence dressée, en thyrse spiciforme , jusqu’à 70 cm de longueur, à axes lisses, vert violacé ou marron ; bractées rapidement caduques, linéaires-ligulées, jusqu’à 5 × 0,2 cm ; fascicules bien répartis avec 2 à 6 fleurs , plus denses vers le sommet, chacun sous-tendu par des bractées rapidement caduques, étroitement triangulaires, ± 0,5–1 mm de longueur, scarieuses. Fleur à fort parfum suave ; pédicelle 2–6 mm de longueur, articulé jusqu’à 3 mm de la base ; périanthe ± 26 mm de longueur , blanc à blanc verdâtre, teinté de rouge-violet, lobes aussi longs que le tube, étalés ; étamines insérées près de la gorge, aussi longues que les lobes, filet blanc, filiforme, anthère ± 2 mm de longueur, crème ; ovaire oblong, jusqu’à 3 × 2 mm ; style exsert sur jusqu’à 2 mm, blanc, stigmate ± 0,5 mm de diamètre. Fruit entier à profondément 2- ou 3-lobé , ± 25 × 10 mm, jaune vif à orange, lobes ellipsoïdes, divergents ; réceptacle jusqu’à 3 mm de longueur. Graine ellipsoïde, ± 10 × 8 mm.
+Shrub up to 2 m tall; stem simple, often in tufts. Leaves equitant, covering the stem (stem visible only in the basal 20 cm on older specimens); sheath embracing the stem over clearly more than the circumference, for a length of > 1 cm; pseudopetiole broadly winged, somewhat shorter than the blade, pale green, gradually passing to the sheath; blade broadly elliptic to narrowly ovate, up to 80 × 10 cm, base cuneate, gradually passing to the pseudopetiole, apex acuminate to caudate, recurved toward the ground, with a mucro reaching 1 cm, papyraceous-coriaceous, densely longitudinally undulate, lower surface with prominent secondary veins and numerous transverse veinlets slightly darker, upper surface uniformly dark green, lower surface paler. Inflorescence erect, in a thyrsoid spike, up to 70 cm long, with smooth axes, greenish-violet or brown; bracts rapidly caducous, linear-ligulate, up to 5 × 0.2 cm; fascicles well distributed with 2 to 6 flowers, denser toward the apex, each subtended by rapidly caducous bracts, narrowly triangular, ± 0.5–1 mm long, scarious. Flower with strong sweet fragrance; pedicel 2–6 mm long, articulate up to 3 mm from the base; perianth ± 26 mm long, white to greenish-white, tinged with red-violet, lobes as long as the tube, spreading; stamens inserted near the throat, as long as the lobes, filament white, filiform, anther ± 2 mm long, cream-coloured; ovary oblong, up to 3 × 2 mm; style exserted up to 2 mm, white, stigma ± 0.5 mm in diameter. Fruit entire to deeply 2- or 3-lobed, ± 25 × 10 mm, bright yellow to orange, lobes ellipsoid, divergent; receptacle up to 3 mm long. Seed ellipsoid, ± 10 × 8 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon, connue de la Ngounié, de l’Ogooué-Maritime et du Wo leu-Ntem
+Cameroon and Gabon; in Gabon, known from Ngounié, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts, souvent sur rochers ou sol volcanique et près des rivières ; au Gabon comme ailleurs à 0–1020 m d’altitude. Floraison enregistrée en février, mai, novembre et décembre
+Forests, often on rocks or volcanic soil and near rivers; in Gabon as elsewhere at 0–1020 m altitude. Flowering recorded in February, May, November and December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le protologue n’a décrit que des plantes en fruit. Les fleurs sont décrites ici pour la première fois. B Mwachala & Cheek (2012). i B liographie
+The protologue described only fruiting plants. The flowers are described here for the first time. B Mwachala & Cheek (2012). Bibliography
 
 ## Notes
 

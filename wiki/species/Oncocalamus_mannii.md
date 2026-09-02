@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in De Kerchove de Denterghem, Palmiers : 36, 252 (1878). O. acanthocnemis Drude, Bot. Jahrb. Syst. 21 : 133 (1895). O. phaeobalanus Burret, Notizbl. Bot. Gart. Berlin-Dahlem 15 : 748 (1942). Liana with stem up to 30 m, 8–16 mm in diameter. Leaf: sheath moderately to weakly armed with spines, concentrated and persistent on the ocreae, caducous on the other parts of the sheath; ocrea truncate or saddle-shaped, with lobe 0.5–1.8 cm in height; petiole 0–2.5 cm, swelling below the petiole absent; rachis 1–1.2 m (often rachides up to 2.5 m lacking leaflets are present at the base of the stems), concave above, rounded below, armed as the sheath; blade of juvenile leaves ± 30 × 4.5–6 cm, strongly bifid, becoming rapidly pinnate, blade of mature leaves with 25 to 35 pairs of linear-lanceolate or slightly sigmoid leaflets, 16–32 × 1.8–2.5 cm, apex slightly acuminate, margins armed with robust spines; cirrus 1–1.5 m, lacking spines, with spine-leaflets 2–2.5 cm. Inflorescences 3–5 m below the apex of the stem; peduncle 8–15 cm, with 2 to 4 bracts 2.5–4 cm in length; prophyll 3–8 cm; rachis up to 0.8(–1) m, pendulous, with bracts 2.5–4 cm in length; floriferous branch 15–28 cm, pendulous, with bracts deep purple and shiny before anthesis, browning on drying. Male flower 5.5–6.5 × 2–3 mm; calyx ± 5.0 × 5.0–5.5 mm, tubular for ½ to ¾ of its length; corolla ± 5 mm in length, with tube 1 mm in length, cream yellow; staminodial tube ± 2 mm in length, anther 0.8 × 0.3 mm.
 
-in De Kerchove de Denterghem, Palmiers : 36, 252 (1878). O. acanthocnemis Drude, Bot. Jahrb. Syst. 21 : 133 (1895). O. phaeobalanus Burret, Notizbl. Bot. Gart. Berlin-Dahlem 15 : 748 (1942). Liane à stipe jusqu’à 30 m, 8–16 mm de diamètre . Feuille : gaine moyennement à faiblement armée d’épines, concentrées et persistantes sur les ochréas, caduques sur les autres parties de la gaine ; ochréa tronquée ou en forme de selle, à lobe de 0,5–1,8 cm de hauteur ; pétiole 0–2,5 cm, gonflement en dessous du pétiole absent ; rachis 1–1,2 m (souvent des rachis de jusqu’à 2,5 m dépourvus de folioles sont présent à la base des stipes), concave dessus, arrondi dessous, armé comme la gaine ; limbe des feuilles juvéniles ± 30 × 4,5–6 cm, fortement bifide, devenant rapidement penné, limbe des feuilles matures avec 25 à 35 paires de folioles linéaires-lancéo lées ou légèrement sigmoïdes, de 16–32 × 1,8–2,5 cm, sommet légèrement acuminé, marges armées d’épines robustes ; cirrhe 1–1,5 m, dépourvu d’épines , à folioles-épines de 2–2,5 cm. Inflorescences à 3–5 m en dessous de l’apex du stipe ; pédoncule 8–15 cm, avec 2 à 4 bractées de 2,5–4 cm de longueur ; préfeuille 3–8 cm ; rachis jusqu’à 0,8(–1) m, pendant, à bractées de 2,5–4 cm de longueur ; rameau florifère15–28 cm, pendant, à bractées pourpre profond et brillant avant l’anthèse, brunissant en séchant . Fleur mâle 5,5–6,5 × 2–3 mm ; calice ± 5,0 × 5,0–5,5 mm, tubuleux sur ½ à ¾ de sa longueur ; corolle ± 5 mm de longueur, à tube de 1 mm de longueur, blanc crème jaune ; tube staminodial ± 2 mm de longueur, anthère 0,8 × 0,3 mm.
+Idem, longitudinal section. – 8. Male flower, longitudinal section. – 9. Fruits on floriferous branch. – 10. Fruit. – 11. Seed. Scale bar: 1, 2 = 2.5 cm, 3 = 3 cm, 4 = 1 cm, 5 = 0.4 cm, 6-9 = 0.5 cm, 10, 11 = 1 cm. (1-11 : Sunderland 1913 ). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
-Idem, coupe longitudinale. – 8. Fleur mâle, coupe longitudinale. – 9. Fruits sur rameau florifère. – 10. Fruit. – 11. Graine. Barre d’échelle : 1, 2 = 2,5 cm, 3 = 3 cm, 4 = 1 cm, 5 = 0,4 cm, 6-9 = 0,5 cm, 10, 11 = 1 cm. (1-11 : Sunderland 1913 ). Dessin par Lucy T. Smith, reproduit avec permission à partir de Sunderland (2012).
+Sunderland 1769 ). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
-Sunderland 1769 ). Dessin par Lucy T. Smith, reproduit avec permission à partir de Sunderland (2012).
-
-Fleur femelle semblable à la fleur mâle, jusqu’à 3(–4) mm de largeur ; ovaire ± 2,5 × 1,5 mm ; style 1–1,5 mm. Fruit sphérique à subsphérique, 1,8–2,2 × 1,6–2 cm à maturité, avec 15 à 17 rangs d’écailles. Graine 1,2–1,6 × 1,5–1,9 cm, à dépression arrondie étroite dessous, couverte de dépressions polygonales régulières donnant un aspect nettement verruqueux.
+Female flower similar to male flower, up to 3(–4) mm in width; ovary ± 2.5 × 1.5 mm; style 1–1.5 mm. Fruit globose to subglobose, 1.8–2.2 × 1.6–2 cm at maturity, with 15 to 17 rows of scales. Seed 1.2–1.6 × 1.5–1.9 cm, with narrow rounded depression below, covered with regular polygonal depressions giving a distinctly verrucose appearance.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-présent au Cameroun, en Guinée équatoriale, au Gabon et en République du Congo ; au Gabon, présent dans l’Estuaire et l’Ogooué-Ivindo. Statut de conservation : Préoccupation mineure (LC)
+present in Cameroon, Equatorial Guinea, Gabon and Republic of the Congo; in Gabon, present in the Estuary and Ogooué-Ivindo. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-héliophile, commun dans des clairières des forêts humides et autres milieux ouverts ; au Gabon entre 5 et 30 m d’altitude, ailleurs entre 10 et 100 m
+heliophilous, common in clearings of humid forests and other open habitats; in Gabon between 5 and 30 m altitude, elsewhere between 10 and 100 m
 
 ## Vernacular names
 

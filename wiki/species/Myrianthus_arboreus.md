@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 RENDLE in HUTCH. & RENDLE, FTA 6 (2): 231 (1917); DE RUITER, BJBB 46: 478 (1976).
 
-Arbustes ou arbres atteignant 10 m de hauteur, avec une couronne étalée et un tronc court, écorce grisâtre-vert; petits rameaux feuillés épais de (0,5-) 1-2,5 cm, avec des entre-nœuds longs de 1,3-7 cm et des poils blancs, courts, ± apprimés, mêlés à des poils épais plus longs, dressés. Limbe composé, avec 5-7 folioles, parfois 5-7-fide; folioles sessiles ou pétiolulées, atteignant 63 × 22 cm, lancéolées à blancéolées, aiguës à acuminées; marge serrée à serrée-dentée; face supérieure avec des poils blancs, épars, apprimés, dressés sur la nervure médiane, glabrescente (souvent la nervure médiane exceptée); face inférieure avec des poils blanchâtres à brunâtres, apprimés à dressés, sur les principales nervures, assez denses et dressés, longs d'env. 1,5 mm sur les nervures plus petites, et avec des aréoles arachnoides-tomentelleuses; nervures proéminentes dessous. Pétiole long de (16-) 25-53 cm, épais de 0,3-0,9 cm, sulqué et côtelé, initialement avec de courts poils dressés. Stipules caduques, longues de (1,5-) 3-5 cm, entièrement amplexicaules, avec un indumentum grisâtre à brunâtre, mêlé à des poils pluricellulaires rouges.
+Shrubs or trees reaching 10 m in height, with a spreading crown and short trunk, greyish-green bark; small leafy twigs 0.5–2.5 cm thick, with internodes 1.3–7 cm long and short white hairs, ± appressed, mixed with thicker longer hairs, erect. Blade compound, with 5–7 leaflets, sometimes 5–7-fid; leaflets sessile or petiolulate, reaching 63 × 22 cm, lanceolate to lanceolate, acute to acuminate; margin serrate to serrate-dentate; upper surface with white scattered hairs, appressed, erect on the midvein, glabrescent (often except for the midvein); lower surface with whitish to brownish hairs, appressed to erect, on the main veins, fairly dense and erect, about 1.5 mm long on the smaller veins, and with arachnoid-tomentellous areoles; veins prominent beneath. Petiole 16–53 cm long, 0.3–0.9 cm thick, sulcate and ribbed, initially with short erect hairs. Stipules caducous, 1.5–5 cm long, entirely amplexicaul, with greyish to brownish indumentum, mixed with red pluricellular hairs.
 
-Inflorescences â atteignant  $ 20 \times 30 $ cm, moins le pédonculé long de (7-) 13-21 cm et de 3-5 mm de diamètre ; 3-7 axes primaires, eux-mêmes ramifiés 3 à 6 fois. Fleurs sur les derniers axes et ceux d'ordres immédiatement inférieurs (jusqu'à 1-2,5 (-3,5) cm du sommet des derniers axes). Périanthe long de 0,6-1 mm, épaissi vers le sommet (avec un indumentum plus épars que les bractées). Étamines longues de 0,8-1,2 mm à anthères longues de 0,3-0,5 mm. Bractées interflorales plus étroites et de forme plus variable que les autres bractées, rétrécies vers la base, parfois épaissies vers le sommet ; autres bractées longues de 0,6-1 mm, ovales à deltoïdes, à sommet cucullé et épaissi, avec des poils blancs à gris, courts et raides à la face externe.
+Male inflorescences reaching 20 × 30 cm, excluding the peduncle 7–21 cm long and 3–5 mm in diameter; 3–7 primary axes, themselves branched 3 to 6 times. Flowers on the ultimate axes and those of immediately lower orders (up to 1–2.5 (–3.5) cm from the apex of the ultimate axes). Perianth 0.6–1 mm long, thickened towards the apex (with indumentum more scattered than the bracts). Stamens 0.8–1.2 mm long with anthers 0.3–0.5 mm long. Interflorал bracts narrower and more variable in form than the other bracts, narrowed towards the base, sometimes thickened towards the apex; other bracts 0.6–1 mm long, oval to deltoid, with cucullate and thickened apex, with white to grey short and stiff hairs on the outer surface.
 
-Inflorescences ♀ globuleuses, de 2-3,5 cm de diamètre, à pédoncule atteignant 2,5 cm de longueur et 0,3 cm d'épaisseur, avec des poils blanchâtres apprimés à dressés. Réceptacle ellipsoïde, de 1-1,5 cm de diamètre. Fleurs 20-50 (-80); périanthe obovoïde, avec un apex aplat, de 0,8-1 cm de hauteur et 0,3-0,5 cm de diamètre, rendu scabre par des poils hyalins coniques ; larges ; stigmate long de 2,5-3,5 mm. Bractées interflorales atteignant 1 cm de longueur, linéaires à étroitement spatulées, souduées à la base au périanthe.
+Female inflorescences globose, 2–3.5 cm in diameter, with peduncle reaching 2.5 cm in length and 0.3 cm in thickness, with whitish appressed to erect hairs. Receptacle ellipsoid, 1–1.5 cm in diameter. Flowers 20–50 (–80); perianth obovoid, with flattened apex, 0.8–1 cm in height and 0.3–0.5 cm in diameter, rendered scabrous by conical hyaline hairs; wide; stigma 2.5–3.5 mm long. Interflorал bracts reaching 1 cm in length, linear to narrowly spatulate, connate at the base to the perianth.
 
-Infrutescences de 6-10 (-15) cm de diamètre ; pédoncule atteignant 6 cm de longueur et 0,8 cm de diamètre ; réceptacle fortement élargi ; périanthe haut de 2 cm env. et de 1,5 cm de diamètre env., dans le fruit, rouge-orangé ; noyau de 1,5-1,7 × 0,6-0,8 cm, lisse ou côtelé ; graine atteignant 1,2 cm de longueur. - Pl. 78, p. 253 ; Pl. 79, p. 255.
+Infructescences 6–10 (–15) cm in diameter; peduncle reaching 6 cm in length and 0.8 cm in diameter; receptacle strongly enlarged; perianth about 2 cm high and about 1.5 cm in diameter, in the fruit, red-orange; stone 1.5–1.7 × 0.6–0.8 cm, smooth or ribbed; seed reaching 1.2 cm in length. – Pl. 78, p. 253; Pl. 79, p. 255.
 
 ## Type
 
@@ -37,9 +35,7 @@ Preuss 478a, Cameroun (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-M. arboreus est assez uniforme dans toute son aire qui s'étend de la Guinée à l'Angola au sud, au S du Soudan, à l'Ouganda et à l'W de la Tanzanie à l'Est. Cette espèce commune se trouve le plus souvent dans les forêts secondaires et les défrichements.
+M. arboreus is fairly uniform throughout its range which extends from Guinea to Angola in the south, to S Sudan, Uganda and W Tanzania in the east. This common species is found most often in secondary forests and clearings.
 
 ## Specimens examined
 

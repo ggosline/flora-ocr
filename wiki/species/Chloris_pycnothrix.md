@@ -24,9 +24,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne atteignant une trentaine de centimètres de haut. Chaumes rampants à la base, puis géniculés ascendants en touffes denses. Feuilles distiques à gaines basales fortement aplaties, carénées, glabres. Ligules membraneuses ciliolées. Limbes linéaires, arrondis-obtus à l'extrémité, glabres, de 3-5 × 0,3-0,4 cm. Racèmes de 3 à une dizaine, digités à l'extrémité des chaumes, jusqu'à 8 cm de long. Épillets d'environ 2 mm de long, à 2 fleurs ; glumes étroites acuminées : l'inférieure de 1,5 mm et la supéricurc de 2,5 mm de long, carènes scabres. Lemma fertile de 2,5 mm, bifide, scabre vers le haut, arête de 10 à 20 mm, callus pubescent. Palée à carènes scabres. Fleur supérieure portée sur un pédicelle de 1,5 mm, réduite à une lemma d'environ 1 mm de long, prolongée par une arête de 2,5 mm. Espèce de l'Afrique tropicale et australe, connue également en Amérique du sud. C'est une petite herbe de jachère ou de terrains humides.
+Perennial herb reaching approximately thirty centimeters in height. Culms creeping at the base, then geniculate ascending in dense tufts. Leaves distichous with strongly flattened basal sheaths, keeled, glabrous. Ligules membranous ciliolate. Blades linear, rounded-obtuse at the apex, glabrous, 3–5 × 0.3–0.4 cm. Racemes 3 to about ten, digitate at the culm apex, up to 8 cm long. Spikelets approximately 2 mm long, with 2 florets; glumes narrow acuminate: the lower 1.5 mm and the upper 2.5 mm long, keels scabrous. Fertile lemma 2.5 mm, bifid, scabrous towards the apex, awn 10 to 20 mm, callus pubescent. Palea with scabrous keels. Upper floret borne on a pedicel 1.5 mm long, reduced to a lemma approximately 1 mm long, extended by an awn 2.5 mm. Species of tropical and southern Africa, also known in South America. It is a small herb of fallows or humid soils.
 
 ## Specimens examined
 

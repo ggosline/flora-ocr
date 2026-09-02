@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 182 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 150 (1948).
 
 - F. aganophila Hutch., Kew Bull.: 338 (1915); Hutch., FTA 6 (2): 186 (1916); Keay,
 
-Arbres petits à moyens d'une hauteur atteignant 15 m (?). Rameaux feuillés épais de 2,5-6 cm, glabres ou très petitement pubérulents, marron noir à noirâtres sur le sec. Feuilles disposées en spirales. Limbe oblong à elliptique, largeur maximale dans ou au-dessus du milieu, long de (4-) 8-20 cm, large de (2-) 4-9,5 cm ; coriace, sommet courtement et brusquement acuminé, base aiguë à arrondie (à subcordée), bord entier ; les deux faces glabres ; nervure médiane plane dessus, ± saillante dessous ; les autres nervures grossièrement saillantes à planes dessus, ± saillantes dessous ; 8-12 (-15) paires de nervures primaires latérales, soudées en boucle à 1-3 mm du bord du limbe, pas de nervure basale distincte, beaucoup de nervures latérales secondaires ; tache glanduleuse plutôt non visible. Pétiole long de 0,5-3,5 cm, épais de 1,5-2,5 mm, glabre, marron rouge sombre à noirâtre sur le sec. Stipules libres, longues de 0,5-1,5 cm, glabres ou très petitement pubérulentes, caduques.
+Small to medium-sized trees attaining a height of 15 m (?). Leafy branches 2.5–6 cm thick, glabrous or very minutely puberulent, dark brown to blackish when dry. Leaves arranged in spirals. Blade oblong to elliptic, maximum width at or above the middle, 4–20 cm long, 2–9.5 cm wide; coriaceous, apex shortly and abruptly acuminate, base acute to rounded (to subcordate), margin entire; both surfaces glabrous; midvein plane above, ± prominent below; other veins coarsely prominent to plane above, ± prominent below; 8–12 (–15) pairs of primary lateral veins, looped 1–3 mm from the blade margin, no distinct basal vein, numerous secondary lateral veins; glandular spot rather inconspicuous. Petiole 0.5–3.5 cm long, 1.5–2.5 mm thick, glabrous, dark reddish-brown to blackish when dry. Stipules free, 0.5–1.5 cm long, glabrous or very minutely puberulent, caducous.
 
-Figues par paires ou jusqu'à 6 ensemble dans les aisselles foliaires ou sur des pousses courtes sous les feuilles, sessiles ; bractées basales 2, largement ovées à semi-circulaires, longues de 2,5 mm, soudées basalement, souvent ± fendues, très petitement pubérulentes ; réceptacle subglobuleux, d'un diamètre de 1 cm environ sur le frais, de 0,5 cm environ sur le sec, très petitement pubérulent, ostiole ± saillant, bilabié.
+Figs in pairs or up to 6 together in the leaf axils or on short shoots below the leaves, sessile; basal bracts 2, broadly ovate to semicircular, 2.5 mm long, basally fused, often ± split, very minutely puberulent; receptacle subglobose, approximately 1 cm in diameter when fresh, approximately 0.5 cm when dry, very minutely puberulent, ostiole ± prominent, bilabiate.
 
-Fleurs pistillées avec 3 tépales, souvent nettement inégaux, longs jusqu'à 1 mm environ, libres ; fleurs à graines sessiles, style long de 1 mm environ ; fleurs à galles à pédicelle atteignant 1 mm, style long de 0,3-0,5 mm environ. Fruits (largement) ovoïdes à subglobuleux, longs de 1 mm environ ; fruits à galles ellipsoïdes à obovoïdes, longs de 1 mm environ ; fruits bicolores. Fleurs staminées, peu nombreuses, à pédicelle atteignant 0,5 mm, périanthe avec 3 tépales, distinctement inégaux, longs jusqu'à 1 mm, libres ; filet court, anthère longue de 0,7 mm environ. Bractées interflorales longues de 1 mm environ. - Pl. 52, p. 183.
+Pistillate flowers with 3 tepals, often distinctly unequal, up to approximately 1 mm long, free; seed flowers sessile, style approximately 1 mm long; gall flowers with pedicel reaching 1 mm, style approximately 0.3–0.5 mm long. Fruits (broadly) ovoid to subglobose, approximately 1 mm long; gall fruits ellipsoid to obovoid, approximately 1 mm long; fruits bicolorous. Staminate flowers, few, with pedicel reaching 0.5 mm, perianth with 3 tepals, distinctly unequal, up to 1 mm long, free; filament short, anther approximately 0.7 mm long. Interflorals bracts approximately 1 mm long. – Pl. 52, p. 183.
 
 ## Type
 
@@ -35,9 +33,7 @@ Mildbraed 2831, Zaïre, entre Beni et Irumu, près Pojo (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est connue par quelques récoltes faites au Nigeria, au Cameroun, au Gabon, en Guinée équatoriale et au Zaïre.
+The species is known from a few collections made in Nigeria, Cameroon, Gabon, Equatorial Guinea, and Zaire.
 
 ## Specimens examined
 

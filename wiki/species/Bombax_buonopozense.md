@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 l.c. 33 : 104 (1963); KEAY, FWTA, ed. 2, 1 : 334 (1958); TAYLOR, Synecology and Sylviculture in Ghana : 105, tab. 21 (1960); IRVINE, Woody Pl. Ghana : 188 (1961). — Gossampinus buonopozensis (P.B.) BAKH., Bull. Jard. Bot. Buitenz., ser. 3, 6 : 191 (1924).
 
 — Bombax reflexum SPRAGUE, Journ. Linn. Soc. Bot. 1 : 500 (1906).
@@ -41,15 +39,13 @@ l.c. 33 : 104 (1963); KEAY, FWTA, ed. 2, 1 : 334 (1958); TAYLOR, Synecology and 
 
 — Bombax buonopozense var. cristata CHEV., Veg. Ut. Afr. Trop. 5 : 187 (1909), nom. nud.
 
-Grand arbre haut de 35-40 m; fût droit et cylindrique de 18-24 m, d'une circonférence de 2-2,4 m à la base; Contreforts aliformes ⊥ fortement élevés chez les adultes; cime étagée. Rhytidome grisâtre-brunâtre, marqué de fissures verticales parallèles à bords pustuleux, brun en section, aiguil
+Large tree 35-40 m tall; bole straight and cylindrical 18-24 m, with a circumference of 2-2.4 m at the base; Aliform buttresses strongly developed in mature trees; tiered crown. Bark greyish-brown, marked by parallel vertical fissures with pustulous edges, brown in section, prickly in juvenile stages; bark section deep pink, 20 mm thick; sapwood white. Stipules narrowly lanceolate, glabrous on the outer surface, glabrous on the inner surface except at the base, margins pubescent with long hairs, weakly keeled, acute at apex, early caducous. Leaves with petiole glabrous or rarely sparsely puberulent, 22-24 cm long, ± ribbed; petiolules often absent. Leaflets (5-)7(-9), articulate, glabrous on both surfaces or finely puberulent beneath, glossy green above and yellowish-green matte beneath when dry, oblong-obovate, 14-17 × 4.5-6.5 cm, cuneate at base, obtuse acuminate mucronate at apex. Midvein prominent on both surfaces; secondary nerves, 15-25 pairs, ascending, arcuate, anastomosing 1-3 mm from the leaf margin, prominent on both surfaces. Veinlets in ± loose network, prominent on both surfaces, framing a very fine network with ± square meshes.
 
-lonné dans les stades juvéniles; tranche de l'écorce rose foncé, épaisse de 20 mm; aubier blanc. Stipules étroitement lancéolées, glabres extérieurement, glabres intérieurement sauf à la base, bords pubescents à poils longs, faiblement carénées, sommet aigu, tôt caduques. Feuilles à pétiole glabre ou rarement éparsement pubérulent, long de 22-24 cm, ± côtelé; pétioules souvent nuls. Folioles (5-)7(-9), articulées, glabres sur les deux faces ou finement pubérulentes dessous, vert brillant dessus et vert-jaunâtre mat dessous à l'état sec, oblongues-obovales, 14-17 × 4,5-6,5 cm, cunéiformes à la base, acuminées obtuses mucronées au sommet. Nervure médiane saillante sur les deux faces; nervures secondaires, 15-25 paires, ascendantes, arquées, s'anastomosant à 1-3 mm du bord du limbe, saillantes sur les deux faces. Nervilles en réseau ± lâche, saillantes sur les deux faces, encadrant un très fin réseau à mailles ± carrées.
+Inflorescences in fascicles of 2-6 flowers or solitary flowers on defoliate branchlets. Pedicels entirely glabrous to puberulent or tomentellous, ± strongly wrinkled, 1-2.5 cm long. Floral buds ovoid, reaching a maximum length of 9 cm. Flowers 6.5-10 cm long. Receptacle devoid of glands, glabrous to puberulent or tomentellous. Calyx cupuliform glabrous to tomentellous on the outside and densely pubescent-silky on the inside, 1-1.6 cm tall and 2.5-3.5 cm wide, with upper margin entire to undulate-lobulate. Petals tomentose on the outside and sparsely pubescent on the inside, oblong-lanceolate, 6-9.5 × 2.5-3.5 cm, narrowed at base and rounded at apex. Stamens approximately 180, 3.5-4.5 cm long, united at base into a staminal tube 7-8 mm long, pubescent on the outside, arranged in 2 whorls: outer whorl of 5 multistaminate pubescent phalanges, inner whorl of 5 phalanges of 2 stamens each, with pubescent filaments; anthers medifixed ± linear 2 mm long. Ovary superior glabrous, conical, marked by 5 longitudinal ribs, surface densely mammillose under high magnification, 5.5-8 × 4-4.5 mm. Style 4-5 cm long, glabrous, finely ribbed, terminated by a stigma with lobes reflexed above the stamens.
 
-Inflorescences en fascicules de 2-6 fleurs ou fleurs solitaires sur les rameaux défeuillés. Pédicelles entièrement glabres à pubérulents ou tomentelleux, ± fortement ridés, longs de 1-2,5 cm. Boutons floraux ovoïdes, atteignant une longueur maximale de 9 cm. Fleurs longues de 6,5-10 cm. Réceptacle dépourvu de glandes, glabre à pubérulent ou tomentelleux. Calice cupuliforme glabre à tomentelleux extérieurement et densément pubescent-soyeux intérieurement, haut de 1-1,6 cm et large de 2,5-3,5 cm, à bord supérieur entier à ondulé-lobulé. Pétales tomenteux extérieurement et éparsement pubescents intérieurement, oblongs-lancéolés, 6-9,5 × 2,5-3,5 cm, rétrécis à la base et arrondis au sommet. Étamines 180 environ, longues de 3,5-4,5 cm, soudées à la base en tube staminal long de 7-8 mm, pubescent extérieurement, disposées en 2 verticilles : verticille externe de 5 phalanges multistaminales pubescentes, verticille interne de 5 phalanges de 2 étamines chacune, à filets pubescents; anthères médifixes ± linéaires longues de 2 mm. Ovaire supère glabre, conique, marqué de 5 côtes longitudinales, surface densément mamelonnée au fort grossissement, 5,5-8 × 4-4,5 mm. Style long de 4-5 cm, glabre, finement côtelé, terminé par un stigmate à lobes réfléchis au-dessus des étamines.
+Capsule oblong, acute at each extremity, 5-ribbed when young and pentagonal when mature, dark brown to black, glabrous, 10-18 × 3.5-6 cm, valves plane. Seeds piriform, approximately 6 mm diameter, dark brown, marked on one side by a patch and a black furrow, both smooth, emitting fine divergent longitudinal striations becoming parallel on the rest of the seed. Kapok white silky ± shiny, abundant.
 
-Capsule oblongue, aiguë à chaque extrémité, 5-côtelée à l'état jeune et pentagonale à l'état adulte, brun-foncé à noire, glabre,  $ 10-18 \times 3,5-6 $ cm, valves planes. Graines piriformes, diamètre d'environ 6 mm, brun foncé, marquées sur un côté d'une plage et d'un sillon noir, tous deux lisses, émettant de fines stries longitudinales divergentes devenant parallèles sur le reste de la graine. Kapok blanc soyeux ± brillant, abondant.
-
-Plantule à hypocotyle long d'environ 6,5 cm; cotylédons à pétiole long de 1 cm, ovales cordés, 3,6-3,7 cm, sommet obtus; épicotyle long de 1 cm. Premières feuilles trifoliolées sessiles, ovales et acuminées. PL. 9, 3, 7, p. 35; PL. 13, p. 49.
+Seedling with hypocotyl approximately 6.5 cm long; cotyledons with petiole 1 cm long, ovate cordate, 3.6-3.7 cm, obtuse at apex; epicotyl 1 cm long. First leaves trifoliolate sessile, ovate and acuminate. PL. 9, 3, 7, p. 35; PL. 13, p. 49.
 
 ## Type
 
@@ -57,17 +53,13 @@ Palisot de Beauvois s.n., Nigeria (holo-, G; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Comparison between specimens referable to the typical subspecies and those referable to subsp. reflexum (SPRAGUE) A. ROBYNS brings to light intermediate forms between these two taxa. It is therefore logical to admit their synonymy.
 
-La comparaison entre les échantillons se rapportant à la sous-espèce typique et ceux se rapportant à la subsp. reflexum (SPRAGUE) A. ROBYNS met en évidence des formes intermédiaires entre ces deux taxons. Il est donc logique d'admettre leur synonymie.
-
-Cette plante, répandue dans toute la zone guinéenne, croît dans les forêts ombrophiles secondaires ou partiellement travaillées, par l'homme, les galeries forestières et les broussailles côtières.
+This plant, widespread throughout the Guinean zone, grows in secondary ombrophilous forests or partially worked by man, forest galleries and coastal scrubland.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’aubier est d’un blanc sale, le bois de cœur est plus foncé. Non durable et d’une texture grossière, on utilise ce bois pour la fabrication de pirogues, d’auges, de carquois, de tabourets, etc... Les feuilles et les fleurs sont consommées. Le kapok a les mêmes usages que celui des autres espèces
+The sapwood is off-white, the heartwood is darker. Non-durable and of coarse texture, this wood is used for the manufacture of canoes, troughs, quivers, stools, etc. The leaves and flowers are consumed. The kapok has the same uses as that of other species.
 
 ## Specimens examined
 

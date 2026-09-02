@@ -17,27 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- F. congensis ENGL., Bot. Jahrb. 8: 59 (1886); WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 8 (1904); MILDBR. & BURRET, l.c.: 211 (1911); HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 195 (1917); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 167 (1948); KEAY, FWTA ed. 2, 1: 609 (1958); AUBRÉV., FFCI, ed. 2, 1: 90, tab. 18, fig. B (1959). TYPE: Naumann 223, Zaire, Ponta da Lenha (holo-, B).
 
-- F. congensis ENGL., Bot. Jahrb. 8: 59 (1886); WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 8 (1904); MILDBR. & BURRET, l.c.: 211 (1911); HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 195 (1917); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 167 (1948); KEAY, FWTA ed. 2, 1: 609 (1958); AUBRÉV., FFCI, ed. 2, 1: 90, tab. 18, fig. B (1959). TYPE: Naumann 223, Zaïre, Ponta da Lenha (holo-, B).
+- F. congensis ENGL. var. mollis HUTCH., l.c.: 196 (1917). SYNTYPES: p. ex. Dalziel 350, Nigeria, Groni (K); Chevalier 6948, Central African Republic, Ndellé (P).
 
-- F. congensis ENGL. var. mollis HUTCH., l.c.: 196 (1917). SYNTYPES: p. ex. Dalziel 350, Nigeria, Groni (K); Chevalier 6948, Centrafrique, Ndellé (P).
-
-- F. flavovenia WARB., Bot. Jahrb. 20 : 158 (1894) ; MILDBR. & BURRET, l.c. : 211 (1911). LECTOTYPE : Schweinfurth ser. III 155, Soudan, Dar-Fertit (B).
+- F. flavovenia WARB., Bot. Jahrb. 20: 158 (1894); MILDBR. & BURRET, l.c.: 211 (1911). LECTOTYPE: Schweinfurth ser. III 155, Sudan, Dar-Fertit (B).
 
 - F. zuvalensis Sim, For. Fl. Port. E. Afr.: 100, tab. 93, fig. A (1909); Hutch., l.c.: 168 (1916). TYPE: Sim 5515, Mozambique, Cusico (holo-, K).
 
 - F. budduensis Hutch., Kew Bull.: 340 (1915). TYPE: Dawe 234, Uganda, Buddu (holo-, K).
 
-- F. hippopotami GERSTNER, Journ. S. Afr. Bot. 9: 151 (1943). TYPE: Gerstner 2940, Afrique du Sud, Natal, près Mtunzini (holo-, PRE).
+- F. hippopotami GERSTNER, Journ. S. Afr. Bot. 9: 151 (1943). TYPE: Gerstner 2940, South Africa, Natal, near Mtunzini (holo-, PRE).
 
-Arbre atteignant 20 m de haut, terrestre (parfois (?) au début épiphyte), souvent avec des racines échasses. Rameaux feuillés épais de 3-7 mm, glabres ou pubérulents blanchâtres à hirtelleux, marron sombre à noirâtres sur le sec, lenticelles visibles. Feuilles disposées en spirales. Limbe (largement) ové à elliptique, 6-20 (-31) cm long et large de 4-12 (-32) cm, coriace, sommet courtement acuminé à obtus, base obtuse à cordée, bord entier (± révoluté); face supérieure pubérulente blanche à hirtelleuse seulement sur les nervures principales, glabres-cente à glabre; face inférieure désément blanche hirtelleuse à subtomentelleuse; nervures plates à ± proéminentes au-dessus, 7-11 paires de nervures latérales, incluant 1 (-2) paires de nervures basales; tache glanduleuse habituellement plutôt voyante. Pétiole long de 2-4 (-7) cm, épais de (1-) 2-3 mm, glabre ou pubérulent blanc à hirtelleux. Stipules libres, longues de 1,5-4,5 (-8) cm, désément pubérulentes blanches à hirtelleuses; caduques.
+Tree reaching 20 m tall, terrestrial (sometimes (?) epiphytic at first), often with stilt roots. Leafy branchlets thick 3–7 mm, glabrous or whitish puberulent to hirtellous, dark brown to blackish when dry, lenticels visible. Leaves arranged in spirals. Lamina (broadly) ovate to elliptic, 6–20 (–31) cm long and 4–12 (–32) cm wide, coriaceous, apex shortly acuminate to obtuse, base obtuse to cordate, margin entire (± revolute); upper surface white puberulent to hirtellous only on main veins, becoming glabrous; lower surface sparsely white hirtellous to subtomentellose; veins flat to ± prominent above, 7–11 pairs of lateral veins, including 1 (–2) pairs of basal veins; glandular mark usually rather conspicuous. Petiole 2–4 (–7) cm long, 1–2–3 mm thick, glabrous or white puberulent to hirtellous. Stipules free, 1.5–4.5 (–8) cm long, sparsely white puberulent to hirtellous; caducous.
 
-Figues 1-4 dans les aisselles des feuilles ; pédoncule long de 0,5-1 cm, épais de 1-2 mm, densément pubérulent blanchâtre ; bractées basales 2, plus ou moins soudées à la base, largement ovées à semicirculaires, longues d'environ 2 mm et larges de 3 mm, ± densément pubérulentes blanchâtres ; réceptacle (sub) globuleux, diamètre de 1-2 cm sur le frais, 0,5-1,5 cm sur le sec, glabre à densément pubérulent blanc, ± verruculeux rouge (avec du jaune) à maturité, ostiole saillant, bilabéi.
+Figs 1–4 in the leaf axils; peduncle 0.5–1 cm long, 1–2 mm thick, densely whitish puberulent; basal bracts 2, more or less united at the base, broadly ovate to semicircular, about 2 mm long and 3 mm wide, ± densely whitish puberulent; receptacle (sub)globose, 1–2 cm diameter when fresh, 0.5–1.5 cm when dry, glabrous to densely white puberulent, ± verruculose red (with yellow) at maturity, ostiole prominent, bilabiate.
 
-Fleurs pistillées avec 3 tépales nettement inégaux, longs de 0,5-2 mm, basalement soudés (ou libres); avec un sommet aigu dans les fleurs à graines et un sommet obtus dans les fleurs à galles; fleurs à graines sessiles ou subsessiles, style long d'environ 1,5 mm; fleurs à galles avec un pédicelle atteignant 1,5 mm, style long d'environ 0,5 mm. Fruits ellipsoides, longs d'environ 1 mm; fruits à galles subvoides, longs d'environ 1,5 mm; fruits unicolores. Fleurs stamines à pédicelle atteignant 0,5 mm, périanthe avec 3 tépales, distinctement inégaux, longs d'environ 1 mm, basalement soudés, filament long de 0,3 mm environ, anthère longue de 0,5 mm environ. Bractées interflorales d'une longueur atteignant 2 mm. - Pl. 42, p. 153.
+Pistillate flowers with 3 clearly unequal tepals, 0.5–2 mm long, basally united (or free); with acute apex in seed flowers and obtuse apex in gall flowers; seed flowers sessile or subsessile, style about 1.5 mm long; gall flowers with a pedicel reaching 1.5 mm, style about 0.5 mm long. Fruits ellipsoid, about 1 mm long; gall fruits subovoid, about 1.5 mm long; fruits unicolorous. Staminate flowers with pedicel reaching 0.5 mm, perianth with 3 tepals, distinctly unequal, about 1 mm long, basally united, filament about 0.3 mm long, anther about 0.5 mm long. Interfloral bracts reaching 2 mm long. — Pl. 42, p. 153.
 
-Pollinisateur : Elisabethiella sp. (Madagascar).
+Pollinator: Elisabethiella sp. (Madagascar).
 
 ## Type
 
@@ -47,13 +45,11 @@ Jans 248, Zaïre, Gombe (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The range of the species extends from Senegal across Uganda and Tanzania to Natal (Republic of South Africa); also in Madagascar. Locally abundant in savanna regions, especially along rivers and in marshy places; up to 1100 m altitude.
 
-L'aire de l'espèce s'étend depuis le Sénégal à travers l'Uganda et la Tanzanie jusqu'au Natal (République d'Afrique du Sud); aussi à Madagascar. Localement abondante dans les régions de savane, spécialement le long des rivières et dans les endroits marécageux ; en altitude jusqu'à 1100 m.
+The species is known from a few collections made in Cameroon and Zaire, in forest up to an altitude of 1500 m.
 
-L’espèce est connue par quelques récoltes faites au Cameroun et au Zaïre, en forêt jusqu’à une altitude de 1 500 m.
-
-Elle est à rechercher au Gabon.
+It should be sought in Gabon.
 
 ## Specimens examined
 

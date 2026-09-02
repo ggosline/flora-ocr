@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys ichneumonea (Lindl.) Rchb.f., Gard. Chron. 2 : 681 (1887).
 
-Tiges < 20 cm. Feuilles 17-50 × 2,5-4,5 cm, falcatiformes, oblongues-oblancéolées, aplaties, inégalement bilobées. Inflorescence 20-50 cm long, multi-flore. Fleurs toujours 1 à chaque nœud de l'inflorescence, petites, blanches, crème ou brun verdâtre, parfumées surtout durant la nuit. Sépale dorsal oblong-elliptique, obtus. Pétales falcati-formes, oblongs. Sépales latéraux obliquement obovés-oblongs, obtus. Labelle 5-6 × 3 mm, sans callus, oblong ou rectangular, courtemment 3-lobé ou au moins 3-denté au sommet, le lobe médian triangulaire, les lobes latéraux triangulaires, aigus. Éperon 13-18 mm, recourbé, en partie renflé ellipsoïde-fusiforme, 6-10 × 3 mm. – Pl. 200, p. 427.
+Stems < 20 cm. Leaves 17-50 × 2.5-4.5 cm, falcate-shaped, oblong-oblanceolate, flattened, unequally bilobed. Inflorescence 20-50 cm long, many-flowered. Flowers always 1 at each node of the inflorescence, small, white, cream or greenish-brown, fragrant especially during the night. Dorsal sepal oblong-elliptic, obtuse. Petals falcate-shaped, oblong. Lateral sepals obliquely obovate-oblong, obtuse. Labellum 5-6 × 3 mm, without callus, oblong or rectangular, shortly 3-lobed or at least 3-dentate at the apex, the median lobe triangular, the lateral lobes triangular, acute. Spur 13-18 mm, recurved, partly swollen ellipsoid-fusiform, 6-10 × 3 mm. – Pl. 200, p. 427.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Ghana, Nigeria, Cameroun, Gabon, Congo
+Sierra Leone, Liberia, Ghana, Nigeria, Cameroon, Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphyte
 
-alt. inconnue. Épiphyte
-
-MATÉRIEL ÉTUDIÉ (Carte 90) :
+MATERIAL STUDIED (Map 90):
 
 Le Testu 5528, Haute Ngounyé, Kanda (fl. Sept.), P! ; 5530, Haute Ngounyé, Mwagko-Wano (fl. Sept.), P!. 5765, Haute Ngounyé, bords de la Mboumi à Mbigou (fl. Nov.), P!.
 

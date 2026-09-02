@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Wageningen Univ. Papers 2001(2) : 137 (2002). Épiphyte ; tige généralement pendantes, parfois rampantes, atteignant 1,5 m de longueur. Stipules persistantes, triangulaires à étroitement triangulaires, cuspides, 10–20 × 3–9 mm. Feuilles : pétiole de (0,5–)1–3(–4) cm ; limbe subsymétrique, largement elliptique à largement ovale ou suborbiculaire , 2–6(–9) × 1–5(–7) cm, base cordée, sommet obtus , marges entières, ondulées, rougeâtres ; nervure médiane et nervures secondaires nettement déprimées sur la face supérieure, pourpres . Inflorescence unisexuée ; les ♂ en cymes bipares, grêles, jusqu’à 7-flores, pédoncule 3–10(–20) mm ; les ♀ 1(–2)-flores, pédoncule 1–2(–4) mm. Fleur ♂ : pédicelle de 5–15(–21) mm ; tépales externes largement ovales, 4–11 × 3–7 mm, les internes plus petits, étroitement obovales, 4–8 × 1,5–3 mm ; androcée conique, actinomorphe , étamines 29–46, colonne longue de 0,5 mm, anthères subsessiles à déhiscence longitudinale. Fleurs ♀ sessiles, partie inférieure de l’ovaire rétrécie ; tépales semblables à ceux des fleurs ♂ ; ovaire 10–18 × 2 mm, circulaire en coupe ; styles 3(–4), subulé avec la partie supérieure récurvée, zone stigmatique allongée. Infrutescence généralement à 1 fruit. Fruit à extrémités rétrécies, 18–30 × 3–4 mm, s’ouvrant par 2 ou 3 valves irrégulières.
+Wageningen Univ. Papers 2001(2): 137 (2002). Epiphyte; stem generally pendulous, sometimes creeping, attaining 1.5 m in length. Stipules persistent, triangular to narrowly triangular, cuspidate, 10–20 × 3–9 mm. Leaves: petiole (0.5–)1–3(–4) cm; lamina subsymmetric, broadly elliptic to broadly ovate or suborbicular, 2–6(–9) × 1–5(–7) cm, base cordate, apex obtuse, margins entire, undulate, reddish; midvein and secondary veins distinctly depressed on upper surface, purple. Inflorescence unisexual; the ♂ in dichasial cymes, slender, up to 7-flowered, peduncle 3–10(–20) mm; the ♀ 1(–2)-flowered, peduncle 1–2(–4) mm. Flower ♂: pedicel 5–15(–21) mm; outer tepals broadly ovate, 4–11 × 3–7 mm, inner ones smaller, narrowly obovate, 4–8 × 1.5–3 mm; androecium conical, actinomorphic, stamens 29–46, column 0.5 mm long, anthers subsessile with longitudinal dehiscence. Flowers ♀ sessile, lower part of ovary constricted; tepals similar to those of ♂ flowers; ovary 10–18 × 2 mm, circular in cross-section; styles 3(–4), subulate with upper portion recurved, stigmatic zone elongate. Infructescence generally bearing 1 fruit. Fruit with narrowed ends, 18–30 × 3–4 mm, opening by 2 or 3 irregular valves.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon
+endemic to Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses ombrophiles ; entre 300 et 400 m d’altitude
+dense ombrophilous forests; between 300 and 400 m altitude
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ makulu (Inzèbi). B : de Wilde (2002). IBLIOGRAPHIE Androcée (× 8). – 6-8. A
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-<!-- caption: Planche 47. Begonia longipetiolata : 1. Base rampante radicifère avec inflorescence ♂ défleurie et feuilles (× 0,4). – 1a. Coupe transversale schématique du sommet du pétiole (× 2,5). – 2-6. Diverses formes de feuilles (× 0,4). – 7. Inflorescence ♂ jeune (× 0,8). – 8. Idem, en fleur (× 0,8). – 9, 10. -->
+<!-- caption: Plate 47. Begonia longipetiolata: 1. Creeping rooting base with spent ♂ inflorescence and leaves (× 0.4). – 1a. Schematic cross-section of the apex of the petiole (× 2.5). – 2-6. Various leaf forms (× 0.4). – 7. Young ♂ inflorescence (× 0.8). – 8. Same, in flower (× 0.8). – 9, 10. -->
 
 ## Notes
 

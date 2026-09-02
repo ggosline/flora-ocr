@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (2) : 768 (1921); JACQ.-FÉL., Fl. Cam. 24 : 152 (1983). — Eugenia nodosa ENGL., Notizbl. Bot. Gart. 2 : 290 (1899).
 
-Arbuste de 0,50 à 2,50 m, fructifie dès qu'il atteint 0,40 m; rameaux grêles, 4-angulaires-ailés, puis excoriés et arrondis, épaissis aux nœuds; rarement nœuds aphyllés. Feuilles normalement peu coriaces, brillantes dessus, ternes et parfois pourprées dessous; pétiole de 2 à 3 mm; limbe oblongo-acuminé à lancée, 2-4 × 8-14 cm, largement en coin ou arrondi à tronqué, parfois subcordé, à la base; acumen obtus, long de 0,5 à 1,5 cm;
+Shrub 0.50 to 2.50 m, fruiting as soon as it reaches 0.40 m; branchlets slender, 4-angular-winged, then excoriated and rounded, thickened at the nodes; rarely nodes leafless. Leaves normally slightly coriaceous, shining above, dull and sometimes purplish below; petiole 2 to 3 mm; blade oblong-acuminate to lanceolate, 2–4 × 8–14 cm, broadly cuneate or rounded to truncate, sometimes subcordate, at the base; acumen obtuse, 0.5 to 1.5 cm long;
 
-de 12 à 14 nervures transversales presque à angle droit avec la médiane, parfois obscures sur les feuilles coriaces, normalement imprimées dessus et finement saillantes dessous, connectées à 1 ou 2 mm de la marge avec les convergentes généralement bien coarquées.
+12 to 14 transverse nerves nearly at right angles to the midvein, sometimes obscure on coriaceous leaves, normally impressed above and finely prominent below, connected 1 to 2 mm from the margin with the convergent ones generally well arched.
 
-Cymes solitaires ou géminées sur les nœuds feuillés ou récemment défeuillés, longues de 1,5 cm avec un stipe de 0,8 cm, directement ombelli-formes (rarement un court entre-nœud) et 5-9-flores; bractées triangulaires, de 1 à 2 mm, caduques. Fleurs à pédicelle grêle de 3 mm; hypantho-calice campanulé, 2,5 × 2 mm; calice 4-sinué à tronqué. Pétales charnus, trian-gulaires à semi-ovales, 1,5 × 1,8 mm. Anthère 1,8 × 1 mm; connectif obtus, ensellé par une glande courte; filet 2,5 mm. Chambre épigyne avec cloisons peu développées; style 3,5 mm. Ovaire 6-ovulé.
+Cymes solitary or paired on leafy or recently defoliated nodes, 1.5 cm long with a stipe of 0.8 cm, directly umbelliform (rarely a short internode) and 5–9-flowered; bracts triangular, 1 to 2 mm, caducous. Flowers with slender pedicel 3 mm; hypantho-calyx campanulate, 2.5 × 2 mm; calyx 4-sinuate to truncate. Petals fleshy, triangular to semi-ovate, 1.5 × 1.8 mm. Anther 1.8 × 1 mm; connective obtuse, saddle-shaped by a short gland; filament 2.5 mm. Epigynous chamber with poorly developed partitions; style 3.5 mm. Ovary 6-ovulate.
 
-Fruit oblongo-ellipsoide,  $ 8 \times 18 $ mm, souvent solitaire.
+Fruit oblong-ellipsoid, 8 × 18 mm, often solitary.
 
-NÉOTOPOTYPE : Chevalier 27052, Gabón (P). TYPE : Buchholz s.n., Gabón, an. 1874 (holo-, B, delet.).
+NEOTYPE: Chevalier 27052, Gabon (P). TYPE: Buchholz s.n., Gabon, year 1874 (holo-, B, delet.).
 
 ## Specimens examined
 

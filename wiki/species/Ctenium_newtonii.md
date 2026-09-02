@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with glabrous culms, truncate, short, glabrous ligule; blades enrolled filiform, scabrous on the margins.
 
-Herbe pérenne à chaumes glabres, ligule tronquée, courte, glabre; limbes enroulés filiformes, scabres sur les bords.
+Racemes solitary up to 15-20 cm long and 3 to 4 mm wide with narrow, glabrous rachis. Spikelets sessile, subhorizontal, densely imbricate, approximately 4 mm long without the awns. Lower glume making up half the spikelet. Upper glume as long as the spikelet, bidentate, with papillose keel bearing laterally at its midpoint a long bristle. Lemmas of sterile flowers bidentate, 1-nerved, pubescent on the back and on the margins, awn approximately 6 mm long, inserted towards the middle of the back on the lemma of the lower flower, near the apex on the lemma of the second flower. Fertile lemma ciliate towards the apex, 3-nerved, awned at the bifid apex. Palea with two nerves, bidentate, glabrous. Upper flowers more or less reduced, sometimes suppressed.
 
-Racèmes solitaires jusqu'à 15-20 cm de long et 3 à 4 mm de large à rachis étroit, glabre. Épillets sessiles, subhorizontalaux, densément imbriqués, d'environ 4 mm de long sans les arêtes. Glume inférieure faisant la moitié de l'épillet. Glume supérieure aussi longue que l'épillet, bidentée, à carène papilleuse portant latéralement en son milieu une longue soie. Glumelles des fleurs stériles bidentées, à 1 nervure, pubescentes sur le dos et sur les bords, arête d'environ 6 mm de long, insérées vers le milieu du dos sur la glumelle de la fleur inférieure, près du sommet sur la glumelle de la deuxième fleur. Glumelle fertile ciliée vers le sommet, à 3 nervures, aristée sur le sommet bifide. Palée à deux nervures, bidentée, glabre. Fleurs supérieures plus ou moins réduites, parfois supprimées.
-
-Espèce banale en Afrique tropicale. Elle est caractéristique de terrains secs, sableux ou argileux compacts. Valeur fourragère pratiquement nulle.
+Common species in tropical Africa. It is characteristic of dry terrain, sandy or compact clayey soils. Forage value practically nil.
 
 ## Specimens examined
 

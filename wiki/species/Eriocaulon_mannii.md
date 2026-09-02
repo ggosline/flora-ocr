@@ -16,23 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr. 8(2) : 241 (1901). Herbe p érenne rhizomateuse ; rhizome grêle , couvert par les racines et les feuilles âgées fibreuses désagrégées. Feuilles condensées au sommet du rhizome , linéaires , jusqu’à 12 cm × 1–2 mm, minces, subaiguës. Inflorescence : scape solitaire , jusqu’à 25 cm × 0,7–0,9 mm, 5–7-sillonné, à gaîne plus courte que les feuilles ; capitule subglobuleux, 5–5,5 mm de diamètre, blanc crème tacheté de noir , à bractées lâchement disposées ; les involucrales 2–3-sériées, largement ovato-oblongues, longues de 2,2–2,4 mm, largement obtuses, pâles, membraneuses ; les florales cunéées-oblongues, longues de 2,2–2,3 mm, à sommet aigu, concaves, pâles, membraneuses à subhyalines, marges ciliées au-des sus de la moitié, bractées externes finement pileuses sur la moitié supérieure de la face externe avec des poils blancs apprimés, plus denses sur les bractées internes ; réceptacle à poils hyalins épars. Fleurs 3-mères, longues de 2,3–2,5 mm, pâles. Fleurs mâles : sépales diversement soudés en une spathe ouverte, oblongue, les latéraux faiblement carénés, le médian plan, membraneux, à poils blancs villeux sur la face externe, dans la moitié supérieure et sur le sommet obtus ; pétales courtement exserts du calice, faiblement inégaux, le médian le plus long, long d’environ 1,5 mm, glandes noires marquées au milieu de la face interne, pilosité blanche villeuse sur la face externe vers le sommet ; anthères 6, noires . Fleurs femelles : sépales subégaux, largement oblongs-naviculaires, les latéraux carénés, le médian plan, membraneux, quelques poils blancs longs sur la carène supé-
-
-rieure, sommet aigu et souvent denticulé ; pétales subégaux, oblongs-spatulés, glandes marquées, subapicales, face interne portant au-dessus des glandes jusqu’au sommet, des poils blancs villeux, en-dessous d’elles, des poils longs villeux, hyalins . Graines largement ellipsoïdes, longues de 0,5 mm, brun pâle, presque lisses .
+in Dyer, Fl. trop. Afr. 8(2) : 241 (1901). Perennial herb with slender rhizome; rhizome covered by roots and fibrous disaggregated aged leaves. Leaves condensed at the apex of the rhizome, linear, up to 12 cm × 1–2 mm, thin, subacute. Inflorescence: scape solitary, up to 25 cm × 0.7–0.9 mm, 5–7-grooved, with sheath shorter than the leaves; capitulum subglobose, 5–5.5 mm in diameter, cream white spotted with black, with loosely arranged bracts; the involucral ones 2–3-seriate, broadly ovate-oblong, 2.2–2.4 mm long, broadly obtuse, pale, membranous; the floral ones cuneate-oblong, 2.2–2.3 mm long, acute at apex, concave, pale, membranous to subhyaline, margins ciliate above the middle, external bracts finely pilose on the upper half of the external face with white appressed hairs, denser on the internal bracts; receptacle with scattered hyaline hairs. Flowers 3-merous, 2.3–2.5 mm long, pale. Male flowers: sepals variously fused into an open spathate structure, oblong, the lateral ones weakly keeled, the median one plane, membranous, with white villous hairs on the external face, in the upper half and on the obtuse apex; petals shortly exserted from the calyx, weakly unequal, the median one the longest, about 1.5 mm long, black glands marked in the middle of the internal face, white villous hairs on the external face toward the apex; anthers 6, black. Female flowers: sepals subequal, broadly oblong-navicular, the lateral ones keeled, the median one plane, membranous, some long white hairs on the upper keel, apex acute and often denticulate; petals subequal, oblong-spatulate, glands marked, subapical, internal face bearing above the glands to the apex white villous hairs, below them long villous hyaline hairs. Seeds broadly ellipsoid, 0.5 mm long, pale brown, nearly smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique de la Guinée équatoriale (Rio Muni) ; à rechercher au Gabon
+endemic to Equatorial Guinea (Rio Muni); to be sought in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en petites colonies sur des cailloux des bords de rivières de forêt de colline rocheuse ; jusqu’à 600 m d’altitude. Note taxonomiques : Il s’agit d’une espèce rarement collectée qui pourrait se rencontrer dans les Monts de Cristal (NW du Gabon). Actuellement, elle est uniquement connue de la bordure du côté Guinée Équatoriale de ce massif. Le port à rhizome grêle, les feuilles linéaires et le scape solitaire sont bien distincts. B : Cabezas et al. (2014). ibliographie
+in small colonies on rocks along river margins in rocky hill forest; up to 600 m altitude. Taxonomic notes: This is a rarely collected species that might be encountered in the Monts de Cristal (NW Gabon). Currently, it is known only from the Equatorial Guinea side of this massif. The habit with slender rhizome, linear leaves and solitary scape are well distinct. B: Cabezas et al. (2014). ibliography
 
 ## Notes
 

@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 a. — Var. securidiformis
 
 — Cop., Gen. Fil. : 125 (1947). — Tard., Mém. IFAN 28 : 132, pl. 24, f. 3 (1953). — Alston, FWTA : 73 (1959).
 
-Rhizome oblique, à frondes rapprochées. Pétiole brun foncé, canaliculé, portant, à l'extrême base, d'étroites écailles noirâtres et, sur presque toute sa longueur, un très court tomentum brun, plus ou moins caduque. Limbe pédalé, deltoïde, ayant environ 30 cm de long sur autant de large, penné au sommet, à penne inférieure seule à nouveau pennée, à segments trapézoïdaux, longs de 4 cm environ, obtus, entiers, à base supérieure nettement auriculée, la première paire de pinnules inférieures seule plus développée, nettement lobée ou même profondément pinna-tifide. Rachis et base des nervures médianes portant le même court tomentum que le pétiole. Surfaces nues. Texture subcoriace. Coloration brunissante sur le sec. Nervures pennées. Costa médian ne bordant pas le limbe. Sores arrondis, à indusie persistante.
+Rhizome oblique, with fronds crowded together. Petiole dark brown, channelled, bearing at the extreme base narrow blackish scales and, over almost its entire length, very short brown tomentum, more or less caducous. Blade pedate, deltoid, approximately 30 cm long and as wide, pinnate at the apex, with the lower pinna alone again pinnate, with trapezoidal segments approximately 4 cm long, obtuse, entire, with distinctly auriculate upper base, the first pair of lower pinnules alone more developed, distinctly lobed or even deeply pinnatifid. Rachis and base of the median veins bearing the same short tomentum as the petiole. Surfaces glabrous. Texture subcoriaceous. Coloration brownish when dry. Veins pinnate. Median costa not bordering the blade. Sori rounded, with persistent indusium.
 
-Guinée, Ghana, Nigeria, Fernando-Po, Cameroun.
+Guinea, Ghana, Nigeria, Fernando-Po, Cameroon.
 
 ## Specimens examined
 

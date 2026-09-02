@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rev. Zool. Afr. 4 (2) : B19 (1919) ; HAUMAN, FZRB 7 : 322, p.p. exclud. J. Louis 14298 (1958) ; BRETELER, MLW 73 (13) : 18, 96, 97, 98 (1973) ; l.c., 78 (10) : 47, 75 (1978) ; AUWP 86 (3) : 17 (1986). TYPE : Zaire, Lac Léopold II, Body s.n. (lecto- BR).
 
-Rev. Zool. Afr. 4 (2) : B19 (1919) ; HAUMAN, FZRB 7 : 322, p.p. exclud. J. Louis 14298 (1958) ; BRETELER, MLW 73 (13) : 18, 96, 97, 98 (1973) ; l.c., 78 (10) : 47, 75 (1978) ; AUWP 86 (3) : 17 (1986). TYPE : Zaïre, Lac Léopold II, Body s.n. (lecto- BR).
+Liane or shrub. Branchlets smooth often shining, glabrous or nearly so, with or without scattered lenticels. Young branchlets glabrous or with short appressed hairs at first, then glabrescent.
 
-Liane ou arbuste. Rameaux lisses souvent luisants, glabres ou presque, avec ou sans lenticelles éparses. Jeunes rameaux glabres ou avec de courts poils apprimés au début, puis glabrescents.
+Stipules mostly early caducous, narrowly triangular, 0.5-3 mm long, with short appressed hairs; the lowermost, much shorter, is inserted in a much higher position than that of the upper stipules.
 
-Stipules le plus souvent tôt caduques, étroitement triangulaires, longues de 0,5-3 mm, avec de courts poils apprimés ; la plus basse, beaucoup plus courte, est insérée en position beaucoup plus haute que celle des stipules supérieures.
+Leaves. Petiole hemicylindric to slightly channeled above, 2-3 (4) mm long, with short appressed hairs then glabrescent. Blade obovate-elliptic, sometimes narrowly so, 2-3 times longer than wide, (8) 11-15 (18) × 3.5-6 (9) cm; base rounded and generally asymmetric; apex furnished with an obtuse or acute acumen 0.5-1.5 cm long; leaf glabrous or nearly so: primary vein and secondary veins II furnished at first with scattered short appressed hairs, early glabrescent; secondary veins II 4-7 (9) on each side of the primary vein, generally more prominent on the lower surface; upper surface of primary vein not or slightly impressed in its lower part but often slightly raised in its upper part; glands usually present on both surfaces, especially above near the base, generally along the primary vein.
 
-Feuilles. Pétiole hémicylindrique à légèrement canaliculé dessus, long de 2-3 (4) mm, avec de courts poils apprimés puis glabrescents. Limbe obové-elliptique, parfois étroitement ainsi, 2-3 fois plus long que large, (8) 11-15 (18) × 3,5-6 (9) cm; base arrondie et en général asymétrique; sommet muni d'un acumen obtus ou aigu long de 0,5-1,5 cm; feuille glabre ou presque : nervure I et principales nervures II munies au début de courts poils apprimés épars, tôt glabrescentes ; principales nervures II 4-7 (9) de chaque côté de la nervure I, en général plus proéminentes à la face inférieure ; dessus de la nervure I non ou légèrement imprimé dans sa partie inférieure mais souvent légèrement relevé dans sa partie supérieure ; glandes habituellement présentes sur les 2 faces, dessus surtout près de la base, en général le long de la nervure I.
+Inflorescences rather congested, branched 3-5 times, sessile or nearly so, or with a peduncle ≤ 0.5 cm long, with short appressed pubescence. Bracts and bracteoles very small, deltoid, ≤ 1 mm long.
 
-Inflorescences assez conglomérées, ramifiées 3-5 fois, sessiles ou presque, ou avec un pédoncule long de ≤ 0,5 cm, pubescence courte et apprimée. Bractées et bractéoles très petites, deltoïdes, longues de ≤ 1 mm.
+Flowers: petals, stamens and pistil slightly longer than the sepals. Sepals erect or slightly spreading, never reflexed, free or somewhat united at the base, generally concave, narrowly oblong-elliptic, 2.5-3 × 0.5-1 mm; apex truncate, obtusely rounded or acute; appressed-puberulent to tomentellous hairs on both surfaces. Petals erect or nearly so, rather narrow, shortly united by their base to the filaments, 3.5-4.5 mm long, split for 1-2 mm, glabrous or with some appressed hairs on the external surface, near the base of the slit; lobes concave, rather narrow, often spreading, apex rounded. Stamens erect or nearly so, glabrous, 4-5 mm long; anthers ≤ 0.5 mm long, connective not prominent. Staminodes square to slightly oblong, 0.5 × 0.5 mm; apex obtuse, emarginate or bilobed, glabrous. Pistil erect, 4-5.5 mm long; ovary subspherical, 3-locular, velvety; style glabrous or with a few hairs in its lower part, terminated by 3 lobes 0.5 mm long.
 
-Fleurs : pétales, étamines et pistil légèrement plus long que les sépales. Sépales dressés ou légèrement étalés, jamais réfléchis, libres ou un peu soudés à la base, en général concaves, étroitement oblongs-elliptiques,  $ 2.5-3 \times 0.5-1 $ mm ; sommet tronqué, obtus arrondi ou aigu ; poils apprimés-pubérulents à tomentelleux sur les 2 faces. Pétales dressés ou presque, assez étroits, courtement soudés par leur base aux filets, longs de 3.5-4.5 mm, fendus sur 1-2 mm, glabres ou avec quelques poils apprimés sur la face externe, près de la base de la fente ; lobes concaves, assez étroits, souvent étalés, sommet arrondi. Étamines dressées ou presque, glabres, longues de 4-5 mm ; anthères longues de  $  \leq 0.5  $ mm, connectif non proéminent. Staminodes carrés à légèrement oblongs,  $ 0.5 \times 0.5 $ mm ; sommet obtus, émarginé ou bilobé, glabre. Pistil dressé, long de 4-5.5 mm ; ovaire subsphérique, 3-loculaire,
-
-velouté ; style glabre ou avec quelques poils dans sa partie inférieure, terminé par 3 lobes longs de 0,5 mm.
-
-Fruits inconnus. – Pl. 14, p. 65.
+Fruits unknown. – Pl. 14, p. 65.
 
 ## Type
 
@@ -41,15 +37,11 @@ Body s.n., Lac Léopold II, Zaïre
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Congo, Gabon, Zaïre
+Congo, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ou lisière
+forest or forest edge
 
 ## Specimens examined
 

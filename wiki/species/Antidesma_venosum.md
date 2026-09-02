@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste à petit arbre de 3–8 m de hauteur ; tronc jusqu’à 20 cm de diamètre ; ramilles pu bescentes à tomenteuses. Stipules ± tôt caduques, étroitement triangulaires, 3–9 × 0,5–1 mm, pileuses comme les ramilles. Feuille : pétiole souvent canaliculé dessus, 3–10 mm, pileux comme les ramilles ; limbe obovale-elliptique à oblong, 4–8(–11) × (2–)3–4(–6) cm, arrondi à obtus ou cunéé à la base, obtus à aigu ou sommet très brièvement acu miné (≤ 5mm) et souvent mucroné, glabre ou pubescent sur toutes les nervures dessus, pubescent sur toute la surface ou avec poils épars dessous ; nervures latérales 5–9 paires. Inflorescence pubescente, à bractées ≤ 1,5 mm de longueur, les mâles 4–7 cm de lon gueur, les femelles 3–5 cm de longueur, 3–7 cm en fruit . Fleur mâle sessile ; calice
-
-0,5–1 mm de longueur, à lobes ovales, ± velu à l’extérieur. Fleur femelle à pédicelle de 0,5–1 mm, jusqu’à 3 mm en fruit ; ovaire glabre. Fruit ellipsoïde, aplati, 5–9 × 4–6 mm, glabre, rouge puis noir à maturité.
+Shrub to small tree 3–8 m tall; trunk up to 20 cm in diameter; branchlets pubescent to tomentose. Stipules ± early caducous, narrowly triangular, 3–9 × 0.5–1 mm, pilose like the branchlets. Leaf: petiole often channelled above, 3–10 mm, pilose like the branchlets; blade obovate-elliptic to oblong, 4–8(–11) × (2–)3–4(–6) cm, rounded to obtuse or cuneate at base, obtuse to acute or apex very briefly acuminate (≤ 5 mm) and often mucronate, glabrous or pubescent on all the nerves above, pubescent over the entire surface or with scattered hairs below; lateral nerves 5–9 pairs. Inflorescence pubescent, with bracts ≤ 1.5 mm long, the male ones 4–7 cm long, the female ones 3–5 cm long, 3–7 cm in fruit. Male flower sessile; calyx 0.5–1 mm long, with oval lobes, ± hairy on the outside. Female flower with pedicel 0.5–1 mm, up to 3 mm in fruit; ovary glabrous. Fruit ellipsoid, flattened, 5–9 × 4–6 mm, glabrous, red then black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-toute l’Afrique tropicale ; au Gabon, commune et connue de toutes les provinces
+throughout tropical Africa; in Gabon, common and known from all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, marécage, lagune, bord de rivière, lisière de forêt ; au Gabon, à 0–600 m d’altitude. Usage : quelques utilisations médicinales et comme bois de chauffage (Raponda-Walker & Sillans 1961). Note taxonomique : J’ai suivi Keay (1950) et Smith (1988) qui ont traité A. rufescens Tul. comme un synonyme de A . venosum . b : Keay (1958), Smith (1988). ibliographie
+savanna, swamp, lagoon, river edge, forest margin; in Gabon, at 0–600 m altitude. Usage: some medicinal uses and as firewood (Raponda-Walker & Sillans 1961). Taxonomic note: I followed Keay (1950) and Smith (1988) who treated A. rufescens Tul. as a synonym of A. venosum. Bibliography: Keay (1958), Smith (1988).
 
 ## Notes
 

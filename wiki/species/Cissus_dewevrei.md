@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing lianoid plant. Stems cylindrical, reaching 4–5 mm in diameter, covered with dense russet pubescence; internodes 3–6 cm long. Tendrils repeatedly bifurcate, densely pubescent; bracts oblong deltoid, densely pubescent externally. Stipules oval deltoid to oval oblong, cordate and auriculate at the base, 5–8 mm long, 4–6 mm wide, thick, covered with fine very dense pubescence. Leaves simple entire. Petiole cylindrical, canaliculate, 4–7 cm long, densely pubescent. Blade oval to more or less cordiform, 8–17 cm long, 5–12 cm wide, with cuneate acuminate apex, broadly cordate or hastate cordate base; margin often rolled inward on the dry specimen toward the lower surface, bearing numerous very thick teeth; upper surface of blade glabrescente, the veins sparsely pubescent; lower surface presenting triple hairiness: a whitish indumentum densely covering the blade and more loosely the veins, long regular pubescence densely distributed on the veins, scattered dark medifix hairs on the veins and blade (sometimes absent); venation palmatipinnate, with 5 basal veins; texture thick.
 
-Plante lianoïde grimpante. Tiges cylindriques, atteignant 4-5 mm de diamètre, recouvertes d'une dense pubescence rousse; entrenœuds de 3-6 cm de long. Vrilles plusieurs fois bifurquées, densément pubescentes; bractées oblongues deltoïdes, densément pubescentes extérieurement. Stipules ovales deltoïdes à ovales oblongues, cordées et auriculées à la base, de 5-8 mm de long, de 4-6 mm de large, épaisses, couvertes d'une fine pubescence très dense. Feuilles simples entières. Pétiole cylindrique, canaliculé, de 4-7 cm de long, densément pubescent. Limbe ovale plus ou moins cordiforme, de 8-17 cm de long, de 5-12 cm de large, à sommet cuné acuminé, à base largement cordée ou hastée cordée; marge souvent enroulée sur le sec vers la face inférieure, présentant des dents nombreuses très épaisses; face supérieure du limbe glabrescente, les nervures éparsément pubescentes; face inférieure présentant une triple pilosité : un indument blanchâtre recouvrant densément le limbe et plus lâchement les nervures, une pubescence longue régulière et densément répartie sur les nervures, des poils médifixes noirâtres épars sur les nervures et le limbe (parfois absents); nervation palmatipennée, à 5 nervures basales; texture épaisse.
+Inflorescences 5–15 cm long, in multiflorous cymes composed of dense umbellate cymules; peduncle 3–7 cm long, covered with a sheath of russet hairs; upper axes with dense pubescence sometimes mixed with medifix hairs; bracts and bracteoles deltoid acute, with a strong protuberance in the lower part, 1–2 mm long, more or less pubescent externally. Flowers 3–4 mm long. Pedicel cylindrical, thickened under the calyx, 1.5–3 mm long, loosely pubescent with sometimes scattered medifix hairs. Calyx cupuliform, approximately 0.7 mm in height, loosely puberulent or glabrescente. Corolla oblong conical, glabrous or sparsely pubescent; petals oblong, approximately 3 mm long, very finely puberulent on the margin. Stamens 2.5–3 mm long; anthers approximately 0.7 mm long, with connective thickened into a wedge. Ovary very densely covered with long medifix hairs.
 
-Inflorescences de 5-15 cm de long, en cymes multiflores composées de cymules ombelliflores denses; pédoncule de 3-7 cm de long, couvert d'un manchon de poils roux; axes supérieurs à pubescence dense parfois mêlée de poils médifixes; bractées et bractéoles deltoïdes aiguës, avec une forte protubérance dans la partie inférieure, de 1-2 mm de long, plus ou moins pubescentes extérieurement. Fleurs de 3-4 mm de long. Pédicelle cylindrique, épaissi sous le calice, de 1,5-3 mm de long, lâchement pubescent avec parfois des poils médifixes dispersés. Calice cupuliforme,
+Berries ovoid approximately 10 mm long, 5 mm wide, glabrous. Seed ovoid reniform, approximately 8 mm long, 4 mm wide; testa with rugose surface.
 
-d'environ 0,7 mm de hauteur, lâchement pubérulent ou glabrescent. Corolle oblongue conique, glabre ou éparsément pubescente; pétales oblongs, d'environ 3 mm de long, très finement pubérulents sur le bord. Étamines de 2,5-3 mm de long; anthères d'environ 0,7 mm de long, à connectif épaissi en coin. Ovaire très densément couvert de longs poils médifixes.
+Type from Congo (Léopoldville): Dewèvre 1160 (BR).
 
-Baies ovoïdes d'environ 10 mm de long, 5 mm de large, glabres. Graine ovoïde réniforme, d'environ 8 mm de long, 4 mm de large; test à surface rugueuse.
-
-Type du Congo (Léopoldville). : Dewèvre 1160 (BR).
-
-Dans les forêts marécageuses et les galeries forestières. En Afrique équatoriale : Gabon, Congo, Cabinda.
+In swampy forests and forest galleries. In equatorial Africa: Gabon, Congo, Cabinda.
 
 ## Specimens examined
 

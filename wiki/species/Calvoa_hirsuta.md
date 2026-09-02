@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, decumbent or erect up to 0.20 m, branched, hirsute; stems and branches ± fleshy and rooting at the base, obtusely 4-angular, with bristles, often reddish, on the young parts. Leaves with petiole loosely hirsute, ± 3 cm; limb 4.5 × 9 cm, ovate to broadly lanceolate, rounded, weakly cordate, or rarely obtusely cuneate at the base, moderately acute or acuminate at the apex; flexuous bristles scattered on both surfaces, + denser below, mainly on the veins; margins dentate-ciliate.
 
-Herbe pluriannuelle, décombante ou dressée jusqu'à 0,20 m, ramiﬁée, hirsute; tiges et rameaux ± charnus et radicants à la base, obtusément 4-angulaires, avec soies, souvent rougeâtres, sur les parties jeunes. Feuilles à pétiole lâchement hirsute, ± 3 cm; limbe 4,5 × 9 cm, ovale à largement lancée, arrondi, faiblement cordé, ou rarement en coin obtus à la base, modérément aigu ou acuminé au sommet; soies ﬂexueuses éparses sur les 2 faces, + denses dessous, principalement sur les nervures; marges dentées-ciliées.
+Cymes terminal, or apparently lateral by sympodial overtopping, shortly pedunculate, contracted, pauciflorous, hirsute. Flower sessile; hypanthium oblong-campanulate, sparsely setulose; calyx lobes triangular-acute, strongly keeled and ciliate with bristles identical to those of the hypanthium. Petals pink, oblong-obovate, asymmetric, $ 4 \times 6 $ mm, mucronate-fleshy at the apex. Stamens slightly unequal in size: anther 1.5 mm; podoconnective short, flattened; anterior appendage scutelliform, obtuse or dentate; spur short, obtuse to truncate; filament 2.5 mm. Ovary adnate for 3/4 of its length; epigynous crown 5-lobed; style 3 mm; placentas linear, substipitate.
 
-Cymes terminales, ou apparemment latérales par dépassement sympodial, brièvement pédonculées, contractées, pauciflores, hirsutes. Fleur sessile; hypanthe oblongo-campanulé, éparsement sétuleux; lobes du calice triangulares-aigus, fortement carénés et ciliés par des soies identiques à celles de l'hypanthe. Pétales roses, oblongo-obovales, dissymétriques,  $ 4 \times 6 $ mm, mucronés-charnus au sommet. Étamines légèrement inégales en dimension : anthère 1,5 mm; pédoconnectif court, aplat; appendice antérieur scutelliforme, obtus ou denté; éperon court, obtus à tronqué; filet 2,5 mm. Ovaire adhérent sur les 3/4 de sa longueur; couronne épigyne 5-lobée style 3 mm; placentas linéaires, substitpités.
-
-Fruit cylindracé, paroi aérifère obscurément côtelée; sépales marcescents puis caducs; couronne largement saillante, chaque lobe à marge mince, tronquée à arrondie;  $ 5 \times 9 $ mm avec la couronne. Graines de  $ 1 $ mm de longueur totale, funicule court ou caduc, rostre court au sommet. — Pl. 21, p. 61.
+Fruit cylindraceo-us, aeriferous wall obscurely ribbed; sepals marcescent then caducous; crown broadly prominent, each lobe with thin margin, truncate to rounded; $ 5 \times 9 $ mm with the crown. Seeds $ 1 $ mm in total length, funicle short or caducous, short rostrum at the apex. — Pl. 21, p. 61.
 
 ## Type
 
@@ -31,9 +29,7 @@ Mann 285, Fernando Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce guinéo-congolaise, bien distincte dans le genre; souvent épi-phyte, probablement plus abondante qu'il n'apparaît au nombre des récoltes.
+Guineo-Congolian species, well-distinct in the genus; often epiphytic, probably more abundant than it appears from the number of collections.
 
 ## Specimens examined
 

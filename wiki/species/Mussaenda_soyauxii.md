@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianescent. Extremities and young stems hirsute. Stipules bifid 9-12 mm, hirsute, with long, narrowly attenuate and sinuous apices. Petiole hirsute 5-15(25) mm. Lamina pilose on both faces, 5-13 × 2.5-7.5 cm; base acute, more rarely obtuse; apex lanceolate acuminate very acute. Midvein hirsute mainly beneath. 6-10 pairs of secondary veins ciliate.
 
-Lianescent. Extrémités et jeunes tiges hirsutes. Stipules bifides de 9-12 mm, hirsutes, à sommets longs, étroitement atténués et sinueux. Pétiole hirsute de 5-15(25) mm. Limbe pilifère sur les deux faces, de 5-13 × 2,5-7,5 cm; base aiguë, plus rarement obtuse; sommet lancéolé acuminé très aigu. Nervure médiane hirsute principalement dessous. 6-10 paires de nervures secondaires ciliées.
+Inflorescences dense very velutinous, with erect hairs ca. 2 mm long, adorned with white foliaceous sepals. Calyx hirsute with linear attenuate lobes 10-15 mm long. Corolla with slender tube, velutinous except sometimes toward the base, 18-25 mm long; lobes ca. 3 × 2 mm, apiculate, yellow, velutinous externally.
 
-Inflorescences denses très velues, à poils dressés longs d'env. 2 mm, ornées de sépales foliacés blancs. Calice hirsute à lobes linéaires effilés longs de 10-15 mm. Corolle à tube grêle, velu sauf parfois vers la base, long de 18-25 mm; lobes d'env. 3 × 2 mm, apiculés, jaune, velus extérieurement.
-
-Infrutescence à sépales foliacés caduces et à pédicelles accrescents jusqu'à 3-10 mm de long. Fruit jaune ou orangé, velu, ellipsoïde de  $ 20 \times 11 $ mm, surmontés par les sépales dressés de façon ± sinueuse. Petites graines brunes à testa grossièrement réticulé, d'env. 0,7 mm de diam. et 0,3 mm d'épaisseur.
+Infructescence with foliaceous caducous sepals and pedicels accrescent up to 3-10 mm long. Fruit yellow or orange, velutinous, ellipsoid $ 20 \times 11 $ mm, surmounted by the erect sepals ± sinuously oriented. Small brown seeds with testa coarsely reticulate, ca. 0.7 mm diam. and 0.3 mm thick.
 
 ## Type
 
@@ -31,11 +29,9 @@ Soyaux 8 (P), Sibang, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Brush, forest paths and margins; Ivory Coast (A. Chevalier 19323 bis), Gabon and Congo (Thollon 4042).
 
-Brousse, layons forestiers et lisières; Côté-d’Ivoire (A. Chevalier 19323 bis), Gabon et Congo (Thollon 4042).
-
-PL. 29. — Mussaenda Soyauxii Büttner : 1, rameau florifère × 3/4; 2, bouton; 3, coupe du bouton longistyle (1 à 3, Le Roy s. n.); 4, infrutescence (N. Hallé 910); 5, sommet du fruit montrant une cicatrice de sépale foliacé; 6, et 7, coupes du fruit mùr; (N. Hallé 789); 8, graine (Fleury 26126).
+PL. 29. — Mussaenda Soyauxii Büttner: 1, flowering branchlet × 3/4; 2, bud; 3, section of longistylar bud (1 to 3, Le Roy s. n.); 4, infructescence (N. Hallé 910); 5, apex of fruit showing a foliaceous sepal scar; 6, and 7, sections of ripe fruit; (N. Hallé 789); 8, seed (Fleury 26126).
 
 ## Vernacular names
 

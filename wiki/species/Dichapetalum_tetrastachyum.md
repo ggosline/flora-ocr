@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 82 (8) : 43-46 (1982). TYPE : Gabon, Bélinga, alt. ≈ 800 m, Breteler 7628 (holo-, WAG).
 
-Grande liane atteignant au moins 50 m de longueur et 10 cm de diamètre. Cylindre ligneux entier, bois assez dense. Écorce ≤ 5 mm, souvent avec de nombreuses lenticelles assez grandes. Rameaux âgés brun-grisâtres, glabres ou avec des restes de l'indumentum originel, vaguement à nettement lenticelles. Jeunes rameaux souvent rainurés à striés, couverts au moins au début d'un indumentum dense, pubérulent-tomentelleux, presque poudreux, brun pâle à grisâtre ; cet indumentum est également présent sur les stipules, les pétioles, la face inférieure des nervures I et II (les principales) et sur les inflorescences.
+Large liana reaching at least 50 m in length and 10 cm in diameter. Entire woody cylinder, wood fairly dense. Bark ≤ 5 mm, often with numerous fairly large lenticels. Older branches brownish-grey, glabrous or with remains of the original indumentum, vaguely to distinctly lenticellate. Young branches often furrowed to striated, covered at least initially with dense indumentum, puberulent-tomentellous, almost powdery, pale brown to greyish; this indumentum is also present on the stipules, petioles, lower surface of veins I and II (the main ones) and on the inflorescences.
 
-Stipules parfois un peu foliacées, généralement incurvées vers l'intérieur, oblongues, (2) 4-7(8) × 1-2 mm, souvent tôt caduques.
+Stipules sometimes somewhat foliaceous, generally incurved inward, oblong, (2) 4-7(8) × 1-2 mm, often early caducous.
 
-Feuilles. Pétiole subcylindrique, canaliculé à sillonné dessus ou non, souvent strié, (3) 5-10 (17) mm. Limbe papyracé à coriace, obové-elliptique à oblong, 2-3 (3,5) fois plus long que large, (7) 9-20 (27) × (2,5) 3-8 (10) cm ; base arrondie à obtuse ou cunée ; acumen long de 0,5-1,5 (2) cm, souvent mucroné ; dessus glabre ou avec quelques poils courts
+Leaves. Petiole subcylindric, channelled to furrowed above or not, often striate, (3) 5-10 (17) mm. Blade papyraceous to coriaceous, obovate-elliptic to oblong, 2-3 (3.5) times longer than wide, (7) 9-20 (27) × (2.5) 3-8 (10) cm; base rounded to obtuse or cuneate; acumen 0.5-1.5 (2) cm long, often mucronate; upper surface glabrous or with a few short crisp hairs on vein I deeply impressed; lower surface glabrescent; main veins II, (6) 8-10 (11) pairs; glands often on both surfaces, fairly small and well distributed, often more numerous in the apical region of the upper surface.
 
-frisottés sur la nervure I profondément imprimée ; dessous glabrescent ; principales nervures II, (6) 8-10 (11) paires ; glandes souvent sur les deux faces, assez petites et bien réparties, souvent plus nombreuses dans la région apicale de la face supérieure.
+Inflorescences cymose, most often with 4 major branches (bifurcated twice), sometimes 5-6, each bearing 2 rows of sessile or nearly sessile flowers; these large branches crowded together initially, diverging and spreading at full development; their length reaches 4 cm, they bear ≈ 20 flowers. Peduncle ≤ 1.5 cm long. Bracts and bracteoles appressed, circular to broadly ovate, ≤ 1 × 1 mm. Pedicel ≤ 0.5 mm, without distinct lower portion.
 
-Inflorescences cymeuses, le plus souvent avec 4 importantes ramifications (2 fois bifurquées), parfois 5-6, chacune d'elles portant 2 rangées de fleurs sessiles ou presque ; ces grandes ramifications serrées les unes contre les autres au début, s'écartent et se déploient à leur plein développement ; leur longueur atteint 4 cm, elles portent ≈ 20 fleurs. Pédoncule long de ≤ 1,5 cm. Bractées et bractéoles apprimées, circulaires à largement ovées, ≤ 1 × 1 mm. Pédicelle ≤ 0,5 mm, sans partie inférieure distincte.
+Flowers. Sepals erect, thick, somewhat concave, ovate-triangular, 2-2.5 × 1-1.5 mm; apex rounded to acute; exterior tomentellous, interior puberulent especially on the apical part. Petals erect, fused to the filaments by their base over ≈ 1 mm, 2-3 mm long, split over 0.2-0.3 mm, glabrous on both surfaces; lobes concave. Stamens erect, glabrous, 2-2.5 mm long, somewhat shorter than the petals; filaments fairly thick, ≈ 1 mm wide at base, narrowed at apex; anthers ≈ 0.5 mm; connective very distinct. Staminodes subquadrate to obcordate, fairly thick, ≤ 0.6 × 0.6 mm, glabrous. Pistil 2-3-merous, somewhat shorter than the stamens, 1.5-2 mm long; ovary covered with dense villosity except at its apical part; style glabrous, split at apex over ≤ 0.5 mm into 2-3 lobes.
 
-Fleurs. Sépales dressés, épais, un peu concaves, ovés-triangulaires, 2-2,5 × 1-1,5 mm ; sommet arrondi à aigu ; extérieur tomentelleux, intérieur pubérulent surtout sur la partie apicale. Pétales dressés, soudés aux filets par leur base sur ≈ 1 mm, longs de 2-3 mm, fendus sur 0,2-0,3 mm, glabres sur les deux faces ; lobes concaves. Étamines dressées, glabres, longues de 2-2,5 mm, un peu plus courtes que les pétales ; filets assez épais, larges de ≈ 1 mm à la base, rétrécis au sommet ; anthères ≈ 0,5 mm ; connectif très distinct. Staminodes sub-carrés à obcordés, assez épais, ≤ 0,6 × 0,6 mm, glabres. Pistil 2-3-mère, un peu plus court que les étamines, long de 1,5-2 mm ; ovaire couvert d'une villosité dense sauf à sa partie apicale ; style glabre, fendu au sommet sur ≤ 0,5 mm en 2-3 lobes.
-
-Fruits 1 (3?)–spermes, ellipsoidaux obliques, un peu comprimés latéralement, 4-5 × 3 × 2,3 cm, pubérulents-tomentelleux, oranges à maturité ; mésocarpe succulent adhérent à l'endocarpe parcheminé glabre à l'intérieur. Graines ellipsoidales, comprimées latéralement, ≈ 3-3,5 × 1,5 × 1 cm ; testa bien développé, lisse, brun. - Pl. 51, p. 173.
+Fruits 1 (3?)–seeded, ellipsoid oblique, somewhat compressed laterally, 4-5 × 3 × 2.3 cm, puberulent-tomentellous, orange at maturity; mesocarp succulent adhering to the parchment-like glabrous endocarp inside. Seeds ellipsoid, compressed laterally, ≈ 3-3.5 × 1.5 × 1 cm; testa well developed, smooth, brown. - Pl. 51, p. 173.
 
 ## Type
 
@@ -41,21 +37,15 @@ Breteler 7628, Bélinga, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est remarquable par ses inflorescences à 4 grandes ramification aux fleurs (sub-)sessiles. On rencontre aussi de telles inflorescences chez d'autres espèces comme D. madagascariense Poir. ; et D. melanocladum Breteler, mais chez ces espèces, les inflorescences ne sont jamais ramifiées en 4 depuis la véritable base. En ce qui concerne les caractères floraux, D. melanocladum ressemble aussi à D. tetrastachyum. Chez la première cependant, l'indumentum de l'ovaire est velouté et non pas villeux. A côté des différence florales, on peut ajouter que D. melanocladum diffère de D. tetrastachyum par le cylindre ligneux de ses tiges lianescentes : celui-ci est en effet lobé et non pas entier comme celui de la seconde.
+This species is remarkable for its inflorescences with 4 major branches bearing (sub-)sessile flowers. Such inflorescences are also found in other species such as D. madagascariense Poir. and D. melanocladum Breteler, but in these species, the inflorescences are never branched in 4 from the true base. With regard to floral characters, D. melanocladum also resembles D. tetrastachyum. In the former, however, the indumentum of the ovary is velvety and not villous. Alongside the floral differences, it may be added that D. melanocladum differs from D. tetrastachyum by the woody cylinder of its lianescent stems: this is indeed lobed and not entire as in the latter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo
+Cameroon, Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, alt. 500-800 m
+ombrophilous forests, alt. 500-800 m
 
 ## Specimens examined
 

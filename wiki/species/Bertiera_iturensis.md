@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 0.70–2 m in height, with pubescent young stems. Stipules acute, 12–20 × 4–8 mm, pubescent. Petioles 3–7 (14) mm, clothed with appressed hairs. Lamina glabrous above, pubescent below, 8–19 × 2.5–8 cm, with acute base and ± acuminate apex. Midvein, secondary nerves and margins with dense and short pubescence. 5–8 pairs of secondary nerves.
 
-Arbuste ou arbrisseau de 0,70-2 m de hauteur, à jeunes tiges pubescentes. Stipules aiguës de 12-20 × 4-8 mm, pubescentes. Pétioles de 3-7 (14) mm, vêtus de poils apprimés. Limbe glabre dessus, pubescent dessous, de 8-19 × 2,5-8 cm, à base aiguë et sommet ± acuminé. Médiane, nervures secondaires et marges à
+Terminal pendulous inflorescences 5–8 cm long, with peduncle 1–4 cm. Rachis pubescent bearing pluriflorous cymes contracted into subsessile glomerules. Buds slender with elliptic head, white with green apex. Flowers generally all directed upward, white, sessile. Calyx small, briefly pubescent, with cupular limb scarcely lobed. Corolla with short pubescence 13–20 mm long on approximately 1 mm wide when dry throughout the narrow part, with very short suberect lobes; internal pubescence reduced and limited to a small surface at the base of the lobes. Anthers exceeding 3 mm in length.
 
-pubescence dense et courte. 5-8 paires de nervures secondaires.
-
-Inflorescences terminales pendantes longues de 5-8 cm, dont le pédoncule de 1-4 cm. Rachis pubescent portant des cymes pluriflores contractées en glomérules subsessiles. Boutons grêles à tête elliptique, blancs avec l'apex vert. Fleurs généralement toutes orientées vers le haut, blanches, sessiles. Calice petit, brièvement pubescent, à limbe cupulaire à peine lobé. Corolle à pubescence rase longue de 13-20 mm sur env. 1 mm de large à sec dans toute la partie étroite, à lobes très courts subérigés; pubescence interne réduite et limitée à une petite surface de la base des lobes. Anthères dépassant 3 mm de longueur.
-
-Infrutescences avec les branches des cymes un peu acres-centes. Fruit sessile globuleux vert, devenant charnu mou, de 11 mm de diam., et blanc. Graines noires de 1,1 mm.
+Infructescences with the branches of the cymes somewhat accrescent. Fruit sessile, globose, green, becoming soft and fleshy, 11 mm in diameter, and white. Seeds black, 1.1 mm.
 
 ## Type
 
@@ -39,11 +35,9 @@ Mildbraed 3047 (isotype BR!), Ituri, Congo oriental
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Road margins and ± dense degraded forests, 400–950 m in altitude.
 
-Bords de routes et forêts dégradées ± denses, de 400 à 950 m d'altitude.
-
-Cameroun, Gabon, Centrafrique et Congo.
+Cameroon, Gabon, Central African Republic and Congo.
 
 ## Specimens examined
 

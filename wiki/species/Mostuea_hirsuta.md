@@ -16,25 +16,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 FTA 4(1): 509. — LEEUWENBERG, l.c. : 7, fig. 1. — FWTA ed. 2, 2 : 45.
 
 — Coinochlamys hirsuta T. Anders. ex Benth. & Hook. F., Gen. Pl. 2 : 1091 (1876). — FWTA ed. 1, 2 : 20.
 
-— M. gabonica BaILL., Bull. Mens. Soc. Linn. Paris 1 : 245 (1880).
+— M. gabonica BAILL., Bull. Mens. Soc. Linn. Paris 1 : 245 (1880).
 
 — Coinochlamys gabonica (BAILL.) SOLERED. ex DURAND & JACKSON, Ind. Kew. Suppl. 1: 106 (1906).
 
 — M. periquetii PELLEGR., Bull. Mus. Hist. Nat. Paris 25 : 506 (1919).
 
-Arbuste de 0,30-3 m de hauteur, très ramifié; rameaux pileux-pubescents puis glabrescents.
+Shrub 0.30–3 m tall, much-branched; branchlets pilose-pubescent, then glabrescent.
 
-Feuilles à limbe obliquement ové à elliptique, de 1-8 × 0,5-4,5 cm, acuminé au sommet, obliquement arrondi à la base, pileux des deux côtés.
+Leaves with blade obliquely ovate to elliptic, 1–8 × 0.5–4.5 cm, acuminate at apex, obliquely rounded at base, pilose on both sides.
 
-Inflorescences terminales à rameaux latéraux courts; pédoncule très court garni au sommet de deux grandes bractées, celles-ci vertes ou pourprées, orbiculaires ou largement ovées; autres bractées petites, semblables aux sépales. Sépales étroitement ovés ou oblongs. Corolle blanche, jaune pâle à la base, 1-2 fois plus longues que les bractées, de 1-2 cm de longueur.
+Inflorescences terminal with short lateral branches; peduncle very short, bearing at apex two large bracts, these green or purplish, orbicular or broadly ovate; other bracts small, similar to sepals. Sepals narrowly ovate or oblong. Corolla white, pale yellow at base, 1–2 times longer than bracts, 1–2 cm long.
 
-Capsules apprimées-pubescentes à pileuses-pubescentes, à poils dispersés. Pl. 11, p. 36.
+Capsules appressed-pubescent to pilose-pubescent, with scattered hairs. Pl. 11, p. 36.
 
 ## Type
 
@@ -42,49 +40,47 @@ Mann, Bagru, Sierra Leone (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa. Common species in forested or scrubby understory; especially along rivers and in gallery forests. Altitude 0–1,000 m.
 
-Afrique tropicale. Espèce commune dans les sous-bois forestiers ou broussailleux; surtout le long des rivières et dans les galeries. Altitude 0-1 000 m.
+Bates 1103, Bitye, 60 km ENE Sangmélima (fl.) BM, MO; 1172, eod. loc. (fl.) BM; 1536 eod. loc. (fl., Jan.) BM.
 
-Bates 1103, Bitye, 60 km ENE Sangmélima (fl.) BM, MO; 1172, eod. loc. (fl.) BM; 1536 eod. loc. (fl., janv.) BM.
+Brenan 9453, Banga, for. res. S. Bakundu, near Kumba (fl., Mar.) K.
 
-Brenan 9453, Banga, rés. for. S. Bakundu, près Kumba (fl., mars) K.
+Breteler 606, Bertoua (fr., Nov.) BR, M, P, WAG; 649, Doumé (fl., Nov.) WAG; 792, Bertoua, 5 km on road to Batouri (fr., Dec.) P, WAG; 845, Bertoua (fl., Dec.) WAG; 1073, Bétaré Oya, 5 km on road to Bertoua (fl., Feb.) BR, M, P, S, WAG; 1526, Yokadouma (fr., June) P, S, WAG; 2816, NW Bamékok, 30 km SW Batouri (fl., Apr.) BR, P, S, WAG; 2915, Ebaka, left bank of the Sanaga (fl., May) BR, M, P, S, WAG.
 
-Breteler 606, Bertoua (fr., nov.) BR, M, P, WAG; 649, Doumé (fl., nov.) WAG; 792, Bertoua, 5 km sur route de Batouri (fr., déc.) P, WAG; 845, Bertoua (fl., déc.) WAG; 1073, Bétaré Oya, 5 km sur route de Bertoua (fl., févr.) BR, M, P, S, WAG; 1526, Yokadouma (fr., juin) P, S, WAG; 2816, NW Bamékok, 30 km SW Batouri (fl., avr.) BR, P, S, WAG; 2915, Ebaka, rive gauche de la Sanaga (fl., mai) BR, M, P, S, WAG.
+Breteler, De Wilde J. & Leeuwenberg 2554, right bank of the Nyong, 40 km SE Yaoundé (fl., Jan.) BR, P, S, WAG.
 
-Breteler, De Wilde J. & Leeuwenberg 2554, rive droite du Nyong, 40 km SE Yaoundé (fl., janv.) BR, P, S, WAG.
+De Wilde W. 2030, bank of the Ntem, 10 km SW Ambam (fl., Mar.) WAG, YA.
 
-De Wilde W. 2030, rive du Ntem, 10 km SW Ambam (fl., mars) WAG, YA.
+Hédin 282, Batouri (fl., Mar.); 407, Bilinbanga (fl., Mar.).
 
-Hédin 282, Batouri (fl., mars); 407, Bilinbanga (fl., mars).
+Leeuwenberg 5904, Bertoua, 6 km on road to Batouri (fl., June) P, WAG, YA; 5945, 6 km W Batouri, right bank of the Kadéi (immature fr., June) P, WAG, YA; 6090, 7 km W Yokadouma, on track to Lomié (immature fr.) WAG; 6144, 8 km S Yokadouma, on road to Moloundou (fl., immature fr.) WAG; 6703, 9 km E Lomié, on road to Eschienbot, E. Polidor (immature fr., Sept.) P, WAG, YA; 6772, Djaposten (fl., Sept.) P, WAG, YA; 7693, 55 km S Meiganga, on road to Garoua-Boulai (young fr.) P, WAG, YA.
 
-Leeuwenberg 5904, Bertoua, 6 km sur route de Batouri (fl., juin) P, WAG, YA; 5945, 6 km W Batouri, rive droite de la Kadéi (fr. non mûrs, juin) P, WAG, YA; 6090, 7 km W Yokadouma, sur piste de Lomié (fr. non mûrs) WAG; 6144, 8 km S Yokadouma, sur route de Moloundou (fl., fr. non mûrs) WAG; 6703, 9 km E Lomié, sur route d'Eschienbot, E. Polidor (fr. non mûrs, sept.) P, WAG, YA; 6772, Djaposten (fl., sept.) P, WAG, YA; 7693, 55 km S Meiganga, sur route de Garoua-Boulai (jeunes fr.) P, WAG, YA.
+Letouzey 1677, Bamelap (fl., Apr.) P, YA; 2032, Meteni (fl., May) P, YA; 2120, Membe et N. Guervoum (fr., May) P, YA; 2131, Yamba (fl., May); 2393, Mbatimbang (fl., Dec.) P, YA; 3035, Matcheboum (fl., Feb.) P, YA; 4345, 14 km S Djouo, 20 km E Somalomo, on the Dja (fl., Feb.) P, WAG, YA; 7515, banks of the Djérem, Cado, 30 km NNE Bagodo (buds, fr., July) P, WAG.
 
-Letouzey 1677, Bamelap (fl., avr.) P, YA; 2032, Meteni (fl., mai) P, YA; 2120, Membe et N. Guervoum (fr., mai) P, YA; 2131, Yamba (fl., mai); 2393, Mbatimbang (fl., déc.) P, YA; 3035, Matcheboum (fl., févr.) P, YA; 4345, 14 km S Djouo, 20 km E Somalomo, sur le Dja (fl., févr.) P, WAG, YA; 7515, rives du Djérem, Cado, 30 km NNE Bagodo (boutons, fr., juill.) P, WAG.
+Maitland 1692, Bamenda (young fr., May) K.
 
-Maitland 1692, Bamenda (jeunes fr., mai) K.
+Mildbraed 8553, 8575, confluence of the Dériem and Lom (fl., Mar.) K; 8912, Hamanam, Lom (fl., Apr.) BM, K; 9019, Kongola (Cameroon?) (fl., Apr.) BM, K; 9122, between Kongola and Mbassa, N Bétaré Oya (Cameroon?) (fl., Apr.) BM, K; 9194, Lom (fl., May) K.
 
-Mildbraed 8553, 8575, confluent du Dériem et du Lom (fl., mars) K; 8912, Hamanam, Lom (fl., avr.) BM, K; 9019, Kongola (Cameroun?) (fl., avr.) BM, K; 9122, entre Kongola et Mbassa, N Bétaré Oya (Cameroun?) (fl., avr.) BM, K; 9194, Lom (fl., mai) K.
+Raynal J. & A. 9872, Mékomengona, 17 km SW Ambam (fl., Feb.) P, YA; 10114, Meyo-Nyaka, 9 km SSE Ambam (fl., Mar.) P, YA.
 
-Raynal J. & A. 9872, Mékomengona, 17 km SW Ambam (fl., févr.) P, YA; 10114, Meyo-Nyaka, 9 km SSE Ambam (fl., mars) P, YA.
+Breteler & Van Raalte 5664, Gamba (fl., Sept.) P, WAG.
 
-Breteler & Van Raalte 5664, Gamba (fl., sept.) P, WAG.
+Duparquet s. n., near Libreville (fl.).
 
-Duparquet s. n., près Libreville (fl.).
+Griffon du Bellay 297, near Libreville (fr.).
 
-Griffon du Bellay 297, près Libreville (fr.).
+Hallé N. 924, N. Libreville (buds, Jan.); 2576, Mékambo (fl., Oct.).
 
-Hallé N. 924, N. Libreville (boutons, janv.); 2576, Mékambo (fl., oct.).
+Hallé N. & Le Thomas 322, Mékambo (fl., Aug.) P, WAG.
 
-Hallé N. & Le Thomas 322, Mékambo (fl., août) P, WAG.
+Hallé N. & Villiers 5442, Cap Esterias (fl., fr., Feb.).
 
-Hallé N. & Villiers 5442, Cap Esterias (fl., fr., févr.).
+Klaine 1424, near Libreville (fl., Nov.); 1689, eod. loc. (fl., fr., Oct.) IFAN, P, WAG.
 
-Klaine 1424, près Libreville (fl., nov.); 1689, eod. loc. (fl., fr., oct.) IFAN, P, WAG.
+Savorgnan de Brazza 219, Ndjobé, Ogooué (fl., fr., June).
 
-Savorgnan de Brazza 219, Ndjobé, Ogooué (fl., fr., juin).
-
-Walker s.n., Fernan Vaz (jeunes fr.).
+Walker s.n., Fernan Vaz (young fr.).
 
 ## Figures
 

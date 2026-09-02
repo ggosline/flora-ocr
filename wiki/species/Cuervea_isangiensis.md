@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , nomen ; Bull. Mus. natn. Hist. nat., Paris, 4° sér., 5, B, Adansonia (1) : 14 (1983).
 
 – Hippocrates isangiensis DE WILD., Ann. Mus. Congo Belge, Bot., sér. 5, 2 : 293 (1908).
@@ -27,13 +25,11 @@ tags: [species, generated]
 
 – Hippocratea molunduina LOES. ex HARMS, Notizbl. Bot. Gart. Mus. Berl. 15 (5): 671 (1942). TYPE: Mildbraed 4235 (HBG!).
 
-Liane élevée à rameaux cylindriques ; écorce à lenticelles subéreuses lippues en long. Pétiole de 5-12 mm, canaliculé. Limbe plutôt mince, contenant parfois du caoutchouc en filaments visibles à la cassure à sec, ± olivacé concolore à sec avec les nervures et la marge pâles, de 4-11(-15) × 2-6 cm, elliptique, arrondi à aigu à la base ; sommet à acumen plutôt court et large, souvent arrondi au bout ; marge ornée d'une étroite bande, moins de 1 mm, riche en nervilles transverses, et munie de quelques indentations peu saillantes. Nervures secondaires 5-7 paires arquées en série d'arceaux n'atteignant pas la marge.
+Tall liane with cylindrical branches; bark with lenticels that are suberous and thickened longitudinally. Petiole 5–12 mm, canaliculate. Lamina rather thin, sometimes containing rubber as filaments visible at the dry fracture, ± olivaceous concolorous when dry with the nerves and margin pale, 4–11(–15) × 2–6 cm, elliptic, rounded to acute at the base; apex with rather short and broad acumen, often rounded at the tip; margin adorned with a narrow band, less than 1 mm, rich in transverse nervilles, and bearing a few slightly prominent indentations. Secondary nerves 5–7 pairs, arched in a series of arches not reaching the margin.
 
-Inflorescences ± développées, en cymes, ou plus souvent en panicules de cymes, à pédoncules de 2-4 cm environ, plutôt grêles. Pédicelles de 3-7 mm. Boutons globuleux, jusqu'à 3,5 mm de diamètre, à calice vert. Fleur de 8-12 mm de diamètre. Sépales inégaux, larges de 1,6-
+Inflorescences ± developed, in cymes, or more often in panicles of cymes, with peduncles approximately 2–4 cm, rather slender. Pedicels 3–7 mm. Buds globose, up to 3.5 mm in diameter, with green calyx. Flower 8–12 mm in diameter. Sepals unequal, 1.6–2.2 mm broad, rounded, microdenticulate. Petals white turning yellow, subunguiculate, spaced, obovate, concave in a cupule shape, 4–5 × 3–4 mm. Disc 2.5–3 mm in diameter with 5 somewhat angular lobes giving a decagonal outline, slightly cupuliform in the bud. Stamens with filament 1 mm. Visible part of the pistil 1 mm tall. 6–9 ovules per locule.
 
-2,2 mm, arrondis, microdenticulés. Pétales blancs virant au jaune, subonguiculés, espacés, obovales, concaves en calotte, de 4-5 × 3-4 mm. Disque de 2,5-3 mm de diamètre à 5 lobes un peu anguleux d'où un contour décagonal, légèrement cupuliforme dans le bouton. Étamines à filet de 1 mm. Partie visible du pistil haute de 1 mm. 6-9 ovules par loge.
-
-Fruit à méricarpes ellipsoïdes atteignant  $ 4 \times 4.5 $ cm. Graines vues par 6, de  $ 3-5.3 \times 1-2 $ cm ; étuis funiculaires atteignant 3-5 mm. Cotylédons soudés ; embryon à structures à peu près indistinctes (Nsi-mundele 770, BR !). - Pl. 65, p. 225.
+Fruit with mericarps ellipsoid reaching 4 × 4.5 cm. Seeds seen by 6, 3–5.3 × 1–2 cm; funicular sheaths reaching 3–5 mm. Cotyledons fused; embryo with structures roughly indistinct (Nsi-mundele 770, BR !). - Pl. 65, p. 225.
 
 ## Type
 
@@ -41,9 +37,7 @@ Laurent s.n., Isangi, Zaïre, 8.2.1906 (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Centrafrique (Tisserant 27, 1598, 2206, Boukoko), Congo (Sita 1537, Brazzaville), Zaïre occidental et oriental.
+Cameroon, Gabon, Central African Republic (Tisserant 27, 1598, 2206, Boukoko), Congo (Sita 1537, Brazzaville), western and eastern Zaire.
 
 ## Specimens examined
 

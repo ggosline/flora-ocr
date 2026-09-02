@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Oliv., Fl. trop. Afr. 2 : 511 (1871). B. nigritana Hook.f. subsp. fistulosa (Mast.) Sleumer, Blumea 22 : 14 (1974). Arbre de 12 m de hauteur ; branches horizontales, devenant creuses sur toute leur longueur et habitées par des fourmis. Feuille à pétiole de 0,5–1,5 cm ; limbe oblong à (ob) ovale-elliptique, cunéé à la base, acuminé au sommet, (17–) 24–28 (–45) × (7–)9–15 cm, coriace, lisse et brillant dessus, mat et vert clair dessous sur le frais, puis ferrugineux sur le sec ; marges entières pourvues de glandes ; nervure médiane dessous à quelques glandes longuement lancéolées , nervures latérales 13–20 paires . Inflorescence à fleurs par (3) 5, 7 (9) ; bouton central axillaire, les autres décurrents en forme de fer à cheval , généralement situées au sommet des branches et aussi en dessous, si beaucoup de fleurs (disposées alors en un fer à cheval entourant ± la tige) ; bractées ovales-orbiculaires, arrondies à obtuses, rarement apiculées, lacérées en floraison, sur ± 5 rangs. Fleur sessile ; sépales lancéolés, 2,5–3(–4,5) × 0,8–1 cm, acuminés au sommet, pétaloïdes, blanc de neige ; pétales semblables aux sépales ; couronne membraneuse, laciniée, 7–10 mm de hauteur ; étamines en deux rangs, l’externe en un anneau de 4 mm de hauteur formé par des anthères sessiles ; l’interne à filets de 14 mm, soudés sur la moitié basale et formant une membrane cachant l’ovaire, anthères basifixes, 4–5 mm de longueur ; ovaire subglobuleux , glabre ; style robuste, ± 2 cm, stigmates en un cône tronqué, environ 9 mm de diamètre, jaunes. Fruit sub-globuleux, 2,5 cm de diamètre, rouge. Graines quelques dizaines par capsule.
+in Oliv., Fl. trop. Afr. 2 : 511 (1871). B. nigritana Hook.f. subsp. fistulosa (Mast.) Sleumer, Blumea 22 : 14 (1974). Tree 12 m tall; branches horizontal, becoming hollow along their entire length and inhabited by ants. Leaf with petiole 0.5–1.5 cm; blade oblong to (ob)ovate-elliptic, cuneate at base, acuminate at apex, (17–)24–28(–45) × (7–)9–15 cm, coriaceous, smooth and glossy above, dull and pale green below when fresh, then ferruginous when dry; margins entire provided with glands; midvein below with a few long-lanceolate glands; lateral nerves 13–20 pairs. Inflorescence with flowers (3)5, 7(9); central bud axillary, the others decurrent in horseshoe form, generally situated at the apex of branches and also below, if many flowers (arranged then in a horseshoe surrounding ± the stem); bracts ovate-orbicular, rounded to obtuse, rarely apiculate, lacerate at anthesis, arranged in ± 5 rows. Flower sessile; sepals lanceolate, 2.5–3(–4.5) × 0.8–1 cm, acuminate at apex, petaloid, snow-white; petals similar to sepals; membranous corona, laciniate, 7–10 mm tall; stamens in two rows, the outer forming a ring 4 mm tall composed of sessile anthers; the inner with filaments 14 mm, fused on the basal half and forming a membrane concealing the ovary, anthers basifixed, 4–5 mm long; ovary subglobose, glabrous; style robust, ± 2 cm, stigmas forming a truncate cone, approximately 9 mm diameter, yellow. Fruit subglobose, 2.5 cm diameter, red. Seeds several dozen per capsule.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria,Cameroun, République Centrafricaine, Guinée Équatoriale, Répu blique du Congo, République Démocratique du Congo et Angola (Cabinda) ; espèce très commune au Gabon
+Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); species very common in Gabon.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide semi-décidue inondable, dans les trouées forestières ; au Gabon et ailleurs jusqu’à 900 m d’altitude. Fleurs en mars, avril, octobre et novembre; fruits en novembre. Usage : Dans le passé, dans certaines tribus, les femmes qui ont été soupçonnées d’adultère étaient attachées à de tels « arbres à fourmis ». Les jeunes filles, lors de leur initia tion à la société secrète féminine du ndjèmbè ou nyèmbè, doivent collecter ces fourmis comme signe de bravoure
+Semi-deciduous flooded humid forest, in forest clearings; in Gabon and elsewhere up to 900 m altitude. Flowers in March, April, October and November; fruits in November. Usage: In the past, in certain tribes, women suspected of adultery were tied to such "ant trees". Young girls, during their initiation into the secret female society of the ndjèmbè or nyèmbè, must collect these ants as a sign of bravery.
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ arbre à fourmis (fr.) ; bengili-kombyè (bakèlè), bovenga (mitsogo), engokôm
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dessin par D. Leyniers, reproduit avec permission du Jardin botanique national de la Belgique (©) à partir de Sleumer (1976).
+Drawing by D. Leyniers, reproduced with permission from the National Botanical Garden of Belgium (©) from Sleumer (1976).
 
 ## Notes
 

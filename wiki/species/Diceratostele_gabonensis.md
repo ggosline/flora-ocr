@@ -17,61 +17,55 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem 36-60 cm, erect, glabrous, branched from axillary buds below the inflorescence. Leaves petiolate, 8-18 × 2-6 cm, elliptic, apiculate. Inflorescence < 4 cm, 1-4 per plant, rachis pubescent, 10-15-flowered. Flowers tubular, resupinate, white to greenish. Dorsal sepal obovate to elliptic, narrow with dense external pubescence;
 
-Tige 36-60 cm, dressée, glabre, ramifiée à partir de bourgeons axillaires au-dessous de l'inflorescence. Feuilles pétiolées, 8-18 × 2-6 cm, elliptiques, apiculées. Inflorescence < 4 cm, 1-4 par pied, rachis pubescent, 10-15-flore. Fleurs tubulaires, résupinées, blanches à verdâtes. Sépale dorsal obové à elliptique, étroit avec pubescence externe dense ;
-
-sépales latéraux obliques, subobtus, avec une crête longitudinale à face externe très pubescente. Pétales avec une crête semblable. Labelle sessile, contracté près du milieu, canaliculé ; hypochile lancéolé, lobes latéraux obtus, avec un grand callus charnu, aplatì au centre ; épichile obové-elliptique, obtus, flabellé et crépu le long des marges, avec 5 crêtes longitudinales au centre. – Pl. 38, p. 81.
+lateral sepals oblique, subobtuse, with a longitudinal crest on the external face very pubescent. Petals with a similar crest. Labellum sessile, contracted near the middle, canaliculate; hypochile lanceolate, lateral lobes obtuse, with a large fleshy callus, flattened at the center; epichile obovate-elliptic, obtuse, flabellate and crisped along the margins, with 5 longitudinal crests at the center. – Pl. 38, p. 81.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Cameroun, Gabon, Congo (Kinshasa)
+Liberia, Côte d'Ivoire, Cameroon, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 200-650 m. Herbaceous terrestrial in primary and secondary forest, ombrophilous, swampy or riparian, in swampy valley bordered by forested slopes or under waterfall spray or on steep humid slope
 
-alt. 200-650 m. Herbacée terrestre en forêt primaire et secondaire, ombrophile, marécageuse ou rivulaire, en vallée marécageuse bordée de pentes forestées ou sous embrun de chute d'eau ou sur pente escarpée humide
+MATERIAL STUDIED (Map 13):
 
-MATÉRIEL ÉTUDIÉ (Carte 13) :
+Bos & de Bruijn 341, Chaillu Massif, Mouyanama Mission, km 15 from Mbigou (fl., Feb.), WAG!, LBV.
 
-Bos & de Bruijn 341, Massif du Chaillu, Mission de Mouyanama, km 15 depuis Mbigou (fl., Fév.), WAG!, LBV.
+Breteler, Jongkind, Wieringa & Moussavou 9670, Rabi, 1°55' S, 9°50' E (fl., Mar.), WAG!, LBV.
 
-Breteler, Jongkind, Wieringa & Moussavou 9670, Rabi, 1°55' S, 9°50' E (fl., Mars), WAG!, LBV.
+de Wilde & Sosef 10442, km 34 road from Lépamba to Yéno, 1°58' S, 11°25' E (fl., Feb.), WAG!, LBV.
 
-de Wilde & Sosef 10442, km 34 route de Lépamba à Yéno, 1°58' S, 11°25' E (fl., Fév.), WAG!, LBV.
+Hallé & Villiers 5262, Mont Muélékéné, 6 km SW of Méla (fl., Feb.), P!; 5303 – Monts de Cristal, S of Riv. Balakabo (fl., Feb.), P!.
 
-Hallé & Villiers 5262, Mont Muélékéné, 6 km SO de Méla (fl., Fév.), P! ; 5303 – Monts de Cristal, S de la Riv. Balakabo (fl., Fév.), P!.
+Le Testu 5219, Haute Ngounyé, near Mt. Vianga, Kembélé, near Onoy (fl., Feb.), BR!, BM!, K!, P!.
 
-Le Testu 5219, Haute Ngounyé, près du Mt. Vianga, Kembélé, près d'Onoy (fl., Fév.), BR!, BM!, K!, P!.
-
-Wieringa 417, Woleu-Ntem, Monts de Cristal, 1,5 km au NO de Tchimbélé, près de la Riv. Bingiligwen, 0°37' N, 10°23' E (fl., Janv.), WAG!, LBV.
+Wieringa 417, Woleu-Ntem, Monts de Cristal, 1.5 km NW of Tchimbélé, near Riv. Bingiligwen, 0°37' N, 10°23' E (fl., Jan.), WAG!, LBV.
 
 V. VANILLOIDEAE (Lindl.) Szlach.
 
-Fragm. Flor. Geobot., Suppl. 3 : 48 (1995).
+Fragm. Flor. Geobot., Suppl. 3: 48 (1995).
 
-Voile, s'il est présent, de type Calanthe ou indéfini. Herbacées saprophytes ou autogames, volubiles ou buissonnantes. Feuilles pliées à convolutées, souvent charnues ou rudimentaires. Inflorescence terminale ou latérale. Couche d'abscission souvent présente entre le périanthe et l'ovaire et un calcule dans certains genres. Ovaire simple ou 3-loculé. Labelle papilleux ou fimbrié dessus, soudé à la base de la colonne ou enveloppant la base du gynostème. Celui-ci dressé, grêle, en général allongé, plus ou moins renflé au sommet. Rostellum court et large, dressé à penché vers l'avant, produisant parfois une viscidie. Clinandrium apical formant un «lit» pour l'anthère et cachant en partie le dos et les côtés de celle-ci. Pollinies 4, granulaires ou sectiles.
+Veil, if present, of Calanthe type or indefinite. Herbaceous saprophytic or autogamous, twining or bushy. Leaves folded to convolute, often fleshy or rudimentary. Inflorescence terminal or lateral. Abscission layer often present between the perianth and the ovary and a callus in certain genera. Ovary simple or 3-locular. Labellum papillose or fimbriate above, fused at the base of the column or enveloping the base of the gynostemium. The latter erect, slender, generally elongate, more or less swollen at the apex. Rostellum short and wide, erect to leaning forward, sometimes producing a viscidum. Clinandrium apical forming a "bed" for the anther and partly concealing the back and sides of it. Pollinia 4, granular or sectile.
 
-PL. 38. – Diceratostele gabonensis Summerh.: A, vue générale ; B, fleur; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, G, labelle étalé (A, B, ex RASMUSSEN c.s. 1979, modifié ; C-E, G, Hallé & Villiers 5303, P; F, Adams 16746, P).
+PL. 38. – Diceratostele gabonensis Summerh.: A, general view; B, flower; C, dorsal sepal; D, petal; E, lateral sepal; F, G, labellum spread (A, B, ex RASMUSSEN c.s. 1979, modified; C-E, G, Hallé & Villiers 5303, P; F, Adams 16746, P).
 
-Petit groupe récemment constitué pour réunir 6 tribus, dont 4 qui ne sont représentées en Afrique et au Gabon que par leurs sous-tribus typiques, dont nous proposons directement la clé suivante :
+Small group recently established to unite 6 tribes, of which 4 are represented in Africa and Gabon only by their typical subtribes, for which we propose the following key directly:
 
-CLÉ DES SOUS-TRIBUS
+KEY TO SUBTRIBES
 
-1. Plantes monopodiales, lianes ..... I. VANILLINAE (p. 82)
+1. Monopodial plants, vines ..... I. VANILLINAE (p. 82)
 
-1'. Plantes sympodiales ..... II. NERVILIINAE (p. 92)
+1'. Sympodial plants ..... II. NERVILIINAE (p. 92)
 
 I. VANILLINAE Lindl.
 
 Gen. Sp. Orch. Pl. 429 (1840).
 
-Arbrisseaux ou lianes saprophytes ou autotrophes. Feuilles, si elles existent, convolutées. Inflorescence terminale ou axillaire. Fleurs avec une couche d'abscission et fréquemment avec un calcule. Labelle enveloppant la colonne, poilu, fimbrié ou épaissi. Fruit capsulaire ou charnu. Gynostème grêle, long à relativement court, soudé partiellement avec le labelle ou libre. Rostellum de grande taille, ferme, tronqué, dressé à penché sur le stigmate. Viscidie absente. Anthère subdressée à décombante. Connectif bien développé, charnu. Pollinie molle et poudreuse.
+Shrubs or saprophytic or autotrophic vines. Leaves, if they exist, convolute. Inflorescence terminal or axillary. Flowers with an abscission layer and frequently with a callus. Labellum enveloping the column, hairy, fimbriate or thickened. Fruit capsular or fleshy. Gynostemium slender, long to relatively short, partially fused with the labellum or free. Rostellum of large size, firm, truncate, erect to leaning over the stigma. Viscidum absent. Anther suberect to decumbent. Connective well developed, fleshy. Pollinium soft and powdery.
 
-Sous-tribu de 5 genres : seul Vanilla Miller, pantropical, existe en Afrique.
+Subtribe of 5 genera: only Vanilla Miller, pantropical, exists in Africa.
 
 ## Figures
 

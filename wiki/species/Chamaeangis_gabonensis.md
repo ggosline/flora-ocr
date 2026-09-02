@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige d'environ 5 cm. Feuilles < 45 x 1 cm, pendantes, linéaires-lancéolées à marges révolutées, inégalement bilobées au sommet. Inflorescence 14-18 cm, multi-flore. Fleurs petites, jaunes, 3 à chaque nœud. Sépale dorsal largement ové, brièvement apiculé. Pétales oblongs, apiculés. Sépales latéraux, obliquement elliptiques-ovés, apiculés. Labelle 3 x 2,5 mm, oblong ou rectangular, plus large à la base, sans callus, brièvement trilobé ou tridenté au sommet ; lobe médian étroitement triangulaire ; lobes latéraux largement triangulaires, obtus ou subobtus. Éperon 15 mm, étroitement cylindrique. - Pl. 199, p. 425.
+Stem approximately 5 cm. Leaves < 45 x 1 cm, pendulous, linear-lanceolate with revolute margins, unequally bilobed at the apex. Inflorescence 14-18 cm, multiflorous. Flowers small, yellow, 3 at each node. Dorsal sepal broadly ovate, briefly apiculate. Petals oblong, apiculate. Lateral sepals, obliquely elliptic-ovate, apiculate. Labellum 3 x 2.5 mm, oblong or rectangular, wider at the base, without callus, briefly trilobed or tridentate at the apex; median lobe narrowly triangular; lateral lobes broadly triangular, obtuse or subobtuse. Spur 15 mm, narrowly cylindric. – Pl. 199, p. 425.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ne serait connue que du Gabon ?
+known only from Gabon?
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic
 
-épiphyte
+PL. 199 – Chamaeangis gabonensis Summerh.: A, spur, labellum, ovary, pedicel, floral bract and part of the inflorescence axis; B, labellum; C, lateral sepal; D, petal; E, dorsal sepal; F, leaf; G, H, leaf apices (A–H, Le Testu 8952, P).
 
-PL. 199 – Chamaeangis gabonensis Summerh. : A, éperon, labelle, ovaire, pédicelle, bractée florale et partie de l'axe de l'inflorescence ; B, labelle ; C, sépale latéral ; D, pétale ; E, sépale dorsal ; F, feuille ; G, H, extrémités foliaires (A-H, Le Testu 8952, P).
+MATERIAL EXAMINED (Map 90):
 
-MATÉRIEL ÉTUDIÉ (Carte 90) :
-
-Le Testu 8952, circonscription du Djoua, bords de la Liboumba à Kemboma (fl. Oct.), P!.
+Le Testu 8952, Djoua district, banks of the Liboumba at Kemboma (fl. Oct.), P!.
 
 ## Figures
 

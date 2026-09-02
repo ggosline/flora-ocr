@@ -15,13 +15,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Épillets carénés et crêtes au sommet ; base du limbe arrondie ou amplexicaule .. A. zizanioides 1. Épillets non carénés au sommet ; base du limbe rétrécie ..... A. gabunense
+1. Spikelets keeled and with crests at the apex; leaf blade base rounded or amplexicaul .. A. zizanioides 1. Spikelets not keeled at the apex; leaf blade base narrowed ..... A. gabunense
 
 1.1 Acroceras gabunense (Hack.) Clayton
 
-FTEA : 567 ; Gram. Cam. : 243 ; Poac. CI. : 352, 353 ; Gram. CB. : 189. – Commelinidium gabunense (Hack.) Stapf – Fl. Gab. : 16 ; FACB 2 : 73 ; FWTA : 436. – C. mayumbense (Franch.) Stapf – Fl. Gab. : 15, Pl. 1 ; FACB 2 : 71.
+FTEA : 567 ; Gram. Cam. : 243 ; Poac. Cl. : 352, 353 ; Gram. CB. : 189. – Commelinidium gabunense (Hack.) Stapf – Fl. Gab. : 16 ; FACB 2 : 73 ; FWTA : 436. – C. mayumbense (Franch.) Stapf – Fl. Gab. : 15, Pl. 1 ; FACB 2 : 71.
 
 ## Specimens examined
 

@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Trymatococcus oligogyna PELLEGR., Bull. Mus. Nat. Hist. Nat. Paris, sér. 2, 1: 62 (1929).
 
 - Craterogyne oligogyna (PELLEGR.) LANJ., Rec. Trav. Bot. Néerl. 32: 277 (1935).
 
-Plantes atteignant 2,5 m de hauteur, avec des tiges dressées, souvent non ramifiées, avec une base ligneuse, les parties feuillées ayant 3-10 mm d'épaisseur, éparsement pubérulentes avec des poils raides à presque glabres ; entre-nceuds de 1,5-3 mm. Feuilles spiralées (au moins sur la tige). Limbe lancéolé à oblong, parfois tendant à être panduré, généralement plus large à la moitié supérieure, 14-50 × 4-16 cm, chartacé à subcoriace, acuminé à subaigu ; base tronquée, obtuse, aiguë ou atténuée, à marge entière ou subentière ; dessus et dessous (presque) glabre, ou souvent les jeunes feuilles pourvues de poils épars, partiellement uncinés sur la nervure médiane à la face inférieure ; nervures légèrement proéminentes au-dessus, plus proéminentes au-dessous ; nervure médiane convexe au-dessus ou plane à la base du limbe ; (12-) 14-22 paires de nervures secondaires sans nervures tertiaires nettement parallèles. Pétiole de 3-4 mm de longueur et d'environ 1-3 mm d'épaisseur, éparsement pubérulent à presque glabre, ± épaissi à la base. Stipules subpersistantes, semi-amplexicaules, lancéolées à ovales, longues de 8-17 mm, coriaces, parfois brièvement apiculées, courtemé, pubérulentes à presque glabres, à nervures visibles.
+Plants reaching 2.5 m in height, with erect stems, often unbranched, with a woody base, the leafy parts 3–10 mm thick, sparsely puberulent with stiff hairs to almost glabrous; internodes 1.5–3 mm. Leaves spirally arranged (at least on the stem). Blade lanceolate to oblong, sometimes tending to be panduriform, generally wider in the upper half, 14–50 × 4–16 cm, chartaceous to subcoriaceous, acuminate to subacute; base truncate, obtuse, acute or attenuate, with entire or subentire margin; upper and lower surface (almost) glabrous, or often the young leaves provided with scattered hairs, partially uncinate on the midvein on the lower face; veins slightly prominent above, more prominent below; midvein convex above or plane at the base of the blade; (12–) 14–22 pairs of secondary veins without clearly parallel tertiary veins. Petiole 3–4 mm long and approximately 1–3 mm thick, sparsely puberulent to almost glabrous, ± thickened at the base. Stipules subpersistent, semi-amplexicaul, lanceolate to ovate, 8–17 mm long, coriaceous, sometimes briefly apiculate, briefly pubescent to almost glabrous, with visible veins.
 
-Inflorescences solitaires ou groupées par 2 ou un peu plus ; étroitement à largement turbinées à presque discoïdes, de 4-8 mm de
+Inflorescences solitary or grouped by 2 or somewhat more; narrowly to broadly turbinate to almost discoid, 4–8 mm in diameter. Peduncle 4–10 mm long; peduncle and outer face of receptacle sparsely puberulent. Bracts ovate to reniform, approximately 1.5 mm long, almost glabrous but always ciliolate, with sometimes a few distinct veins, dispersed from the base of the peduncle to the margin of the receptacle where they are arranged in approximately 2 rows. Flowers with perianth 2–3 (–4) divided, 0.5–0.7 mm high, puberulent with, in the upper part, small papilla-like hairs, claviform or oblong to globose; stamens 1–3, most often 2, with filaments 0.7–1 mm long, strongly swollen at the base and most often ± cushion-like, glabrous or nearly so, their upper part generally incurved; anthers 0.2–0.3 × 0.2–0.3 mm with connective generally wide and ± swollen. ♀ flowers solitary, the free parts of the perianth 0.6–0.8 mm high, 4-lobed, puberulent; style approximately 1 mm long; stigmas 2, 0.5–1.5 mm long.
 
-diamètre. Pédoncule long de 4-10 mm ; pédoncule et face externe du réceptacle éparsement pubérulents. Bractées ovales à réniformes, longues d'environ 1,5 mm, presque glabres mais toujours ciliolées, avec parfois quelques nervures distinctes, dispersées de la base du pédoncule à la marge du réceptacle où elles sont disposées à peu près en 2 rangées. Fleurs à périanthe 2-3 (-4) divisé, de 0,5-0,7 mm de hauteur, pubérulent avec, à la partie supérieure, de petits poils semblables à des papilles, claviformes ou oblongs à globuleux ; étamines 1-3, le plus souvent 2, à filaments longs de 0,7-1 mm, fortement renflés à la base et le plus souvent ± en coussinet, glabres ou à peu près, leur partie supérieure généralement incurvée ; anthères 0,2-0,3 × 0,2-0,3 mm à connectif généralement large et ± renflé. Fleurs ♀ solitaires, les parties libres du périanthe hautes de 0,6-0,8 mm, 4-lobées, pubérulentes ; style long d'environ 1 mm ; stigmates 2, longs de 0,5-1,5 mm.
-
-Infrutescences d'environ 1 cm de diamètre, largement turbinées à subglobuleuses. - Pl. 7, p. 31.
+Infructescences approximately 1 cm in diameter, broadly turbinate to subglobose. – Pl. 7, p. 31.
 
 ## Type
 
@@ -37,9 +33,7 @@ Le Testu 2234, Gabon, près Sindara (lecto-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce ressemble beaucoup par sa partie végétative au D. djettii GUILLAUMET ouest-africain, espèce rare. D. oligogyna n'est connu que de la région de la Ngounyé au Gabon.
+This species resembles very much in its vegetative part the West African D. djettii GUILLAUMET, a rare species. D. oligogyna is known only from the Ngounyé region in Gabon.
 
 ## Specimens examined
 

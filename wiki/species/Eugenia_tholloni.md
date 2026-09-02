@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Branched shrub; young branches pubescent with brown hairs; internodes short, 0.5–1.5 cm. Leaves shortly petiolate, lanceolate, obtuse at the apex, attenuate at the base, somewhat coriaceous, at first pubescent, then glabrous, 3.5–6 cm long and 0.5–1.5 cm wide. Petioles approximately 2 mm.
 
-Arbuste ramifié; jeunes rameaux pubescents avec des poils bruns; entrenceuds courts de 0,5-1,5 cm. Feuilles courtement pétiolées, blancéolées, obtuses au sommet, atténuées à la base, un peu coriaces, d'abord pubescentes, puis glabres, de 3,5-6 cm de long et 0,5-1,5 cm de large. Pétioles d'environ 2 mm.
-
-Fleurs agglomérées, axillaires, sessiles ou parfois quelques-unes courtement pédicellées. Sépales arrondis, 1,5 mm de long, ciliés. Stigmate petit, souvent un peu bilobé. Fruit sessile, subglobuleux d'environ 6 mm de diamètre (in sicco). Embryon nu.
+Flowers aggregated, axillary, sessile or sometimes a few shortly pedicellate. Sepals rounded, 1.5 mm long, ciliate. Stigma small, often slightly bilobed. Fruit sessile, subglobose approximately 6 mm in diameter (in sicco). Embryo naked.
 
 ## Type
 
@@ -29,9 +27,7 @@ Thollon 767 (Gabon)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Seulement connu du Gabon, et jusqu'ici des rochers des chutes de l'Ogooué.
+Known only from Gabon, and thus far from the rocks of the Ogooué Falls.
 
 ## Specimens examined
 

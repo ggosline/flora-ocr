@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — FTA 4 (1) : 505. — LEEUWENBERG, l. c. : 14. — FWTA ed. 2, 2 : 45.
 
 — Leptocladus thomsonii OLIV., Journ. Linn. Soc. 8 : 160, t. 12, 3° fig. (1865).
@@ -39,11 +37,11 @@ tags: [species, generated]
 
 — M. megaphylla Good, Journ. Bot. 67 : 100 (1929).
 
-Arbuste ou sous-arbuste de 0,30-7 m de hauteur, ordinairement bien ramié; rameaux variables, poilus ou glabres.
+Shrub or subshrub 0.30-7 m tall, ordinarily well-branched; branches variable, pilose or glabrous.
 
-Feuilles à limbe de forme et de grandeur extrêmement variables, 1,2-6 fois plus long que large, de 0,6-15 (-28) × 0,3-8 (-12,5) cm, poilu ou glabre de façon variable.
+Leaves with blade of extremely variable form and size, 1.2-6 times longer than wide, 0.6-15 (-28) × 0.3-8 (-12.5) cm, variably pilose or glabrous.
 
-Inflorescences axillaires, ramiflores ou terminales, généralement à rameaux latéraux courts, uni- ou multiflores, lâches à presque capituliformes. Sépales très variables de forme, égaux ou inégaux, ovés à presque linéaires, de  $ 1,5 \times 0,3-1 $ mm, aigus à acuminés, poilus ou glabres à l'extérieur. Étamines à filet généralement pubescent. Ovaire glabre ou à pubescence apprimée près du sommet.
+Inflorescences axillary, ramiflorous or terminal, generally with short lateral branches, uni- or multiflorous, lax to almost capitate. Sepals highly variable in form, equal or unequal, ovate to almost linear, $ 1.5 \times 0.3-1 $ mm, acute to acuminate, pilose or glabrous on the exterior. Stamens with filament generally pubescent. Ovary glabrous or appressed-pubescent near the apex.
 
 ## Figures
 

@@ -17,27 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Frondes flottantes, généralement plusieurs ensemble, ovales à lancéolées, 1–6,5 × 0,8–4,5 mm, à 3 nervures et marge entière, vert pâle sans cellules pigmentifères, des sus avec une papille au centre et une autre vers le sommet ; racines à gaine à deux ailes latérales et coiffe aiguë , ailes 1–2,5 fois aussi longues que larges. Fleurs souvent présentes, à 1 ovule ; style 0,05–0,2 mm. Fruit 0,5–0,8 × 0,4–0,7 mm. Graine unique, 0,45–0,8 × 0,3–0,7 mm, à 8–26 côtes longitudinales , sortant du péricarpe après matura tion, brunâtre .
+Floating fronds, generally several together, ovate to lanceolate, 1–6.5 × 0.8–4.5 mm, with 3 veins and entire margin, pale green without pigmented cells, upper surface with a papilla at the centre and another towards the apex; roots with a sheath bearing two lateral wings and acute cap, wings 1–2.5 times as long as wide. Flowers often present, with 1 ovule; style 0.05–0.2 mm. Fruit 0.5–0.8 × 0.4–0.7 mm. Single seed, 0.45–0.8 × 0.3–0.7 mm, with 8–26 longitudinal ribs, emerging from the pericarp after maturation, brownish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce pantropicale, introduite et naturalisée en Amérique du Nord, en Eu rope méridionale, dans le Nord de la Chine et le Japon ; au Gabon seulement connue de deux échantillons de l’Ogooué-Maritime (Rabi-Kounga) et l’Ogooué-Ivindo (vers Mé kambo), mais probablement beaucoup plus commune
+pantropical species, introduced and naturalized in North America, southern Europe, northern China and Japan; in Gabon known only from two specimens from Ogooué-Maritime (Rabi-Kounga) and Ogooué-Ivindo (near Mékambo), but probably much more common
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+on stagnant fresh waters, lakes, ponds, rice paddies, etc.; in Gabon up to 500 m elevation, elsewhere up to 1600 m
 
-sur des eaux douces stagnantes, lacs, mares, rizières, etc. ; au Gabon jusqu’au 500 m d’altitude, ailleurs jusqu’au 1600 m
-
-Note taxonomique : Dans la littérature africaine et asiatique, L. aequinoctialis a été sou vent confondue avec L. perpusilla Torrey. Cette espèce, restreint à l’Amérique du Nord, en diffère par entre autres, les frondes avec 2 ou 3 papilles au centre et des graines blan châtres à 35–60 côtes. b : Hepper (1973), Landolt (1980, 1986), Landolt & Lawalree (1988). ibliographie
-
-3
-
-3
+Taxonomic note: In African and Asian literature, L. aequinoctialis has often been confused with L. perpusilla Torrey. This species, restricted to North America, differs from it by, among other things, fronds with 2 or 3 papillae at the centre and whitish seeds with 35–60 ribs. Bibliography: Hepper (1973), Landolt (1980, 1986), Landolt & Lawalree (1988).
 
 ## Notes
 

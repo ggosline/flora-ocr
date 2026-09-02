@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4(1) : 206 (1902). Liane ; rameaux lisses, presque glabres , poilus aux nœuds. Feuille : pétiole de 3–5 mm, à colOpwquhvelhqylvleohvghvvxvjodeuhvrxjtxhotxhvsrlovfrxuwvolpehpwurlwhphqwhoolswltxh RYDOH j REORQJHOOLSWLTXH GH î FP arrondi à étroitement cordé à l’extrême base , longuement acuminé au sommet ; nervures secondaires 7 à 12 paires, nervation tertiaire scalariforme, formant la plupart du temps des angles droits avec la médiane ; domaties poilues, SUHVTXHJODEUH ,QÀRUHVFHQFH axillaire et aussi terminale, très lâche ; pédoncule de 10–20 mm, glabre. Fleur à parfum suave ; pédicelle de 15–20 mm, glabre ; calice à lobes longs de 2–3 mm, glabres ou à poils marginaux, avec un cercle interne (presque) complet de collétères ;
-
-corolle blanche avec des lignes rosâtres à l’intérieur du tube, glabre ou avec quelques petites touffes de poils à l’extérieur , glabre à l’intérieur au-dessus des anthères, souvent à poils sur OHERUGGHVOREHVjWXEHFDPSDQXOpORQJGH±PPjOREHVSUHVTXHUXEDQpVORQJVGH± mm ; étamines insérées près de la base du tube, incluses, anthère longue de 2,5–3 mm ; ovaire poilu au sommet . Fruit : follicules atteignant au moins 28 cm de longueur, minces, glabres.
+Fl. trop. Afr. 4(1): 206 (1902). Liane; branches smooth, almost glabrous, hairy at the nodes. Leaf: petiole 3–5 mm, with oblong-elliptic to ovate to oblong-elliptic leaflets 6–11 cm, rounded to narrowly cordate at the extreme base, long-acuminate at the apex; secondary veins 7 to 12 pairs, tertiary venation scalariform, forming right angles with the midvein most of the time; domatia hairy, almost glabrous. Inflorescence axillary and also terminal, very lax; peduncle 10–20 mm, glabrous. Flower with a sweet fragrance; pedicel 15–20 mm, glabrous; calyx with lobes 2–3 mm long, glabrous or with marginal hairs, with an (almost) complete internal ring of colleters; corolla white with pinkish lines inside the tube, glabrous or with some small tufts of hairs on the outside, glabrous inside above the anthers, often hairy on the edge of the lobes; tube campanulate, 11–13 mm long; lobes almost rubanate, 7–8 mm long; stamens inserted near the base of the tube, included, anther 2.5–3 mm long; ovary hairy at the apex. Fruit: follicles reaching at least 28 cm in length, thin, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon : Ngounié. Écologie IRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGH
+Cameroon and Gabon; in Gabon: Ngounié. Ecology: rain forest, primary and secondary in Gabon, up to 650 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voir sous B. welwitschii
+See under B. welwitschii
 
 ## Bibliography
 

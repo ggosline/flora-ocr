@@ -20,11 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, J. Bot. 72, Suppl. 1: 3 (1934); FWTA: 68 (1959). — Tard., Mém. IFAN 28: 112, pl. 18, f. 6-8 (1953).
 
-Rhizome longuement rampant, à frondes espacées. Pétiole straminé, canaliculé, long de 40-50 cm, portant, à la base, quelques écailles claires, formées de cellules à parois minces, lumière pâle. Limbe à contour lancéolé, penné, long de 30-60 cm sur 25-30 de large. Penne terminale lobée, décurrente, ainsi que la première paire de pennes supérieures, en une courte aile le long du rachis; 3-7 paires de pennes latérales oblongues, de 15 cm environ sur 3-4 de large, les inférieures courtement pétiolées, à pétiole aile, marges entières ou légèrement sinuées (très sinuées dans les formes jeunes), extrémité acuminée en une pointe d'environ 2 cm. Texture subcoriace. Nervures latérales très marquées, proéminentes à la face inférieure; nervilles formant plusieurs rangées d'aréoles sans, ou avec, quelques rares nervilles incluses. Fronde fertile légèrement p'us courte que la stérile, à pennes d'environ 1 cm de large, les supérieures adnées, les inférieures libres, entièrement recouvertes de sporanges.
+Rhizome long-creeping, with fronds spaced apart. Stipe stramineous, channelled, 40–50 cm long, bearing at the base a few pale scales, formed of cells with thin walls, pale lumen. Lamina with lanceolate outline, pinnate, 30–60 cm long by 25–30 cm wide. Terminal pinna lobed, decurrent, as is the first pair of upper pinnae, into a short wing along the rachis; 3–7 pairs of oblong lateral pinnae, approximately 15 cm by 3–4 cm wide, the lower ones shortly petiolulate, with winged petiole, margins entire or slightly sinuate (very sinuate in young forms), apex acuminate into a point of approximately 2 cm. Texture subcoriaceous. Lateral veins very prominent, prominent on the lower surface; veinlets forming several rows of areoles without, or with, a few rare included veinlets. Fertile frond slightly shorter than the sterile, pinnae approximately 1 cm wide, the upper ones adnate, the lower ones free, entirely covered with sporangia.
 
 ## Type
 
@@ -32,11 +30,9 @@ Sonnerat, Bourbon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Angola, Uganda, Comoros, Madagascar, Bourbon, Mauritius.
 
-De Guinée en Angola, Ouganda, Comores, Madagascar, Bourbon, Maurice.
-
-Terrestres en forêt mésophile, ou dans les Raphiales.
+Terrestrial in mesophile forest, or in Raphiales.
 
 ## Specimens examined
 

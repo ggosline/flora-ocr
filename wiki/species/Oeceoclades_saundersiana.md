@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-– TYPE : Mann s.n. cult. Saunders, Afrique, Côte Ouest, holo-, W-R!.
+– TYPE : Mann s.n. cult. Saunders, West Africa, Côte d'Ivoire, holo-, W-R!.
 
 – Graphorchis saundersiana (Rchb.f.) O. Kuntze, Rev. Gen. Pl. 2 : 662 (1891).
 
@@ -31,25 +29,21 @@ tags: [species, generated]
 
 – Eulophidium saundersianum (Rchb.f.) Summerh., Bull. Jard. Bot. Etat. Brux. 27 : 401 (1957).
 
-Pseudobulbes 4-15 x 2,5 cm, étroitement ovoïdes à fusiformes, généralement (1)-2-3-foliés. Feuilles vert foncé, ovées-elliptiques à lancéolées, à marges ondulées. Inflorescence 16-35 cm, 15-28-flore. Sépales et pétales verdâtre clair à jaunâtre, labelle jaune ou crème verdâtre, éperon brun rougeâtre. Sépales latéraux étroitement oblongs. Labelle, callus en fer à cheval à la base près de la gorge de l'éperon, ausses des 3 ou 4 rides longitudinales ; lobe médian divisé en 2 lobules, oblongs-orbiculaires ; lobes latéraux de taille semblable mais largement ovés, arrondis. Éperon cylindrique, obtus. - Pl. 137, p. 311.
+Pseudobulbs 4–15 × 2.5 cm, narrowly ovoid to fusiform, usually (1)–2–3-leaved. Leaves dark green, ovate-elliptic to lanceolate, with undulate margins. Inflorescence 16–35 cm, 15–28-flowered. Sepals and petals pale greenish to yellowish, labellum yellow or greenish-cream, spur brownish-red. Lateral sepals narrowly oblong. Labellum, callus horseshoe-shaped at base near the spur throat, with 3 or 4 longitudinal ridges; median lobe divided into 2 oblong-orbicular lobules; lateral lobes of similar size but broadly ovate, rounded. Spur cylindric, obtuse. - Pl. 137, p. 311.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, Angola, République centrafricaine, Zaïre, Rwanda, Ouganda, Kenya, Tanzanie, Zambie
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Angola, Central African Republic, Zaïre, Rwanda, Uganda, Kenya, Tanzania, Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1,200 m. Terrestrial in humid and shaded places in forest and thicket
 
-alt. 0-1 200 m. Terrestre aux endroits humides et ombragés en forêt et fourré
+MATERIAL STUDIED (Map 63) :
 
-MATÉRIEL ÉTUDIÉ (Carte 63) :
+Hallé & Villiers 5143, Monts de Cristal, Mont Mvélakéné (fl. Feb.), P!.
 
-Hallé & Villiers 5143, Monts de Cristal, Mont Mvélakéné (fl. Févr.), P!.
-
-Le Testu 5272, entre Montoungou et Ngoundi (fl. Mars), P! ; 5430, Bangoudji Badouma (fl. Mai), P!.
+Le Testu 5272, between Montoungou and Ngoundi (fl. Mar.), P! ; 5430, Bangoudji Badouma (fl. May), P!.
 
 ## Figures
 

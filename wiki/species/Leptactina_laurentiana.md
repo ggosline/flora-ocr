@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianas or sarmentose ± bushy shrubs 1.5 to 3 m tall. Rhytidome reddish, scaly in fine plates on older branches. Internodes slender and glabrous. Stipules triangular with attenuate apex 5–7 mm long, with prominent axis, somewhat pubescent toward the base and with ciliolate margins. Petiole slender 7–20 mm, glabrous, with margins of the channel very finely pubescent. Anisophylly often evident at the extremities of lateral branches. Blade elliptic, glabrous, 6–12 × 2.1–5.5 cm, with acute base, with acuminate apex. 6–8 pairs of secondary veins glabrous or moderately pubescent below as well as the midvein. Axillary domatia pubescent.
 
-Lianes ou arbustes sarmenteux ± buissonnants de 1,5 à 3 m de hauteur. Rhytidome rougeâtre écailleux en fines plaques sur les rameaux âgés. Entrenœuds grêles et glabres. Stipules triangulaires à apex effilé de 5-7 mm de longueur, à axe saillant, un peu pubescentes vers la base et à marges ciliolées. Pétiole grêle de 7-20 mm, glabre, à marges du canal très finement pubescentes. Anisophyllie souvent sensible aux extrémités de rameaux latéraux. Limbe elliptique, glabre, de 6-12 × 2,1-5,5 cm, à base aiguë, à sommet acuminé. 6-8 paires de nervures secondaires glabres ou médiocrement pubescentes dessous ainsi que la médiane. Domaties axillaires pubescentes.
+Inflorescences cymose, corymbiform rather lax, generally having more than a dozen flowers. Axes glabrous reaching 1–2 cm. Bracts acute with ciliolate margins. Pedicels 1 to 3 mm. Calyx somewhat pubescent at the level of the ovary; 5 lobes ± erect, attenuate from the base, 10–16 × 1–1.5 mm. Corolla white, fragrant, with slender tube 4–8.5 cm long, pubescent, with attenuate lobes c. 20 × 3 mm, glabrous above. Anthers 10 mm exceeding the throat by 2 mm. Style glabrous briefly bilobed, included. Ovary 2 × 1–1.5 mm.
 
-Inflorescences cymeuses, corymbiformes plutôt lâches, ayant généralement plus d'un dizaine de fleurs. Axes glabres atteignant 1-2 cm. Bractées aigués à marges ciliolées. Pédicelles de 1 à 3 mm. Calice un peu pubescent au niveau de l'ovaire; 5 lobes ± érigés, atténués depuis la base, de 10-16 × 1-1,5 mm. Corolle blanche, odorante, à tube grêle de 4-8,5 cm de longueur, pubescent, à lobes atténués d'env. 20 × 3 mm, glabres dessus. Anthères de 10 mm dépassant la gorge de 2 mm. Style glabre brièvement bilobé, inclus. Ovaire de 2 × 1-1,5 mm.
-
-Fruit subglobuleux jaune orangé à maturité, de 10-13 × 9-11 mm à sec; surface finement ridée et sépales ± étalés. Graines très nombreuses, prismatiques-anguleuses de 1,5 mm.
+Fruit subglobose yellow-orange at maturity, 10–13 × 9–11 mm when dry; surface finely wrinkled and sepals ± spreading. Seeds very numerous, prismatic-angular 1.5 mm.
 
 ## Type
 
@@ -36,9 +34,7 @@ E. Laurent 106 (BR!), forêt du Mayombe (sept. 1893). Type de L. Sereti : F. Ser
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun (Mildbraed 8251), Gabon, Congo. Plante de moyenne altitude paraissant manquer en basse côte; lisières et broussailles postculturales.
+Cameroon (Mildbraed 8251), Gabon, Congo. Plant of medium altitude apparently lacking at low coast; forest edges and post-cultural scrubland.
 
 ## Specimens examined
 

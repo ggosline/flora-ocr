@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 3–15 m de hauteur ; tronc jusqu’à 16 cm de diamètre ; écorse gris-noir, tranche brunâtre rose, odeur piquante. sans exsudat. Stipules caduques, triangulaires à étroitement triangulaires , 1–3 mm de longueur, légèrement poilues mais glabrescent. Feuille : pétiole 3 mm ; limbe elliptique, (2–)8–12 × (1–)3,5–4(–4,5) cm, 2–3 fois plus long que large, cunéé à la base, nettement acuminé au sommet à acumen de 1,3–2 cm, coriace, glabre, brillant, nervure principale et la face inférieure plus claire ; nervures latérales 6–8 paires. Inflorescence axillaire, fasciculée, dense, à ± 6(–10?) petites fleurs à différentes stades de développement, parfois 2–3 à pleine maturité, sur une bosse exsudant une gomme jaune clair . Fleur (4–)5-mère ; pédicelle 1 mm et stipe jusqu’à 1 mm ; calice campanulé, 4 mm de longueur, verdâtre, lobes étalés, triangulaires, 2,5 mm de longueur, lisses ou pubérulents extérieurement, veloutés intérieurement ; pétales spatulés, 6 mm de longueur, lisses, blancs (orange à l’état sec), frangés-laciniés à partir de 3 mm de la base en ± 20 languettes filiformes ; étamines ± 25, libres, glabres, entourées de poils blancs, filets 3 mm, anthères oblongues, 0,7 mm de longueur, glabres ; ovaire subglobuleux, 1 mm de diamètre, complètement caché par des poils blancs longs ; style ± 1 mm, glabre, stigmate aplati au sommet en forme de trompette ± trilobé . Fruit trigone-globuleux, 3 mm de diamètre, à 3–4 loges, vert pâle, pubérulent avec des poils blancs couchés. Graines 1–2(–4), ovoïdes, 3 × 2 mm, brun-rouge, surmontées d’un arille orange.
+Tree 3–15 m tall; trunk up to 16 cm in diameter; bark grey-black, fracture pinkish-brown, pungent odour, without exudate. Stipules caducous, triangular to narrowly triangular, 1–3 mm long, slightly hairy but glabrescent. Leaf: petiole 3 mm; lamina elliptic, (2–)8–12 × (1–)3.5–4(–4.5) cm, 2–3 times longer than wide, cuneate at base, distinctly acuminate at apex with acumen 1.3–2 cm, coriaceous, glabrous, shiny, midrib and lower surface paler; lateral veins 6–8 pairs. Inflorescence axillary, fasciculate, dense, with ± 6(–10?) small flowers at different developmental stages, sometimes 2–3 in full maturity, on a boss exuding clear yellow gum. Flower (4–)5-merous; pedicel 1 mm and stipe up to 1 mm; calyx campanulate, 4 mm long, greenish, lobes spreading, triangular, 2.5 mm long, smooth or puberulent externally, velvety internally; petals spatulate, 6 mm long, smooth, white (orange when dry), fringed-laciniate from 3 mm from base in ± 20 filiform languettes; stamens ± 25, free, glabrous, surrounded by white hairs, filaments 3 mm, anthers oblong, 0.7 mm long, glabrous; ovary subglobose, 1 mm in diameter, completely hidden by long white hairs; style ± 1 mm, glabrous, stigma flattened at apex trumpet-shaped ± trilobed. Fruit trigone-globose, 3 mm in diameter, 3–4-locular, pale green, puberulent with white appressed hairs. Seeds 1–2(–4), ovoid, 3 × 2 mm, reddish-brown, surmounted by an orange aril.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo, Angola ; au Gabon, exclusivement en Ogooué-Maritime
+Gabon, Republic of the Congo, Angola; in Gabon, exclusively in Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+dry coastal forest, secondary forest; at approximately 10–20 m altitude. Flowers observed in March (buds), April, May, September; young fruits in July. Bibliography: Breteler (2008).
 
-forêt sèche côtière, forêt secondaire ; à environ 10–20 m d’altitude. Fleurs observées en mars (boutons), avril, mai, septembre ; jeune fruits en juillet. b : Breteler (2008). ibliographie
-
-Breteler et al. 13274 ). Dessin par Hans de Vries, mise à la disposition par Frans Breteler ©.
+Breteler et al. 13274). Drawing by Hans de Vries, made available by Frans Breteler ©.
 
 ## Notes
 

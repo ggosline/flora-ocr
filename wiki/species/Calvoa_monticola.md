@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant capable of flowering in the first year, with a few leaves and sometimes only a single pedunculate flower. Normally a shrub 0.30 to 1 m tall, decumbent, rooting, branched, often reddish; twigs slender, subquadrangular and furfuraceous, then rounded and glabrous. Leaves ± fleshy; petiole 1 to 3 (5) cm, flattened, furfuraceous; blade ovate-elliptic, ± 5 × 10 cm, cuneate or rounded at the base, acute to subacuminate at the apex, glabrous on both surfaces; 3 veins spaced, transverse and scarcely visible; margins loosely serrate-ciliate to subentire.
 
-Plante pouvant fleurir dès la première année, avec quelques feuilles et, parfois, une seule fleur pédonculée. Normalement arbrisseau de 0,30 à 1 m, décombant, radicant, ramifié, souvent rougeâtre; rameaux grêles, subquadrangulaires et furfuracés, puis arrondis et glabres. Feuilles ± charnues; pétiole de 1 à 3 (5) cm, aplat, furfuracé; limbe ovale-elliptique, ± 5 × 10 cm, cunéé ou arrondi à la base, aigu à subacuminé au sommet, glabre sur les 2 faces; 3 nervures espacées, transversales peu visibles; marges lâchement serretées-ciliées à subentières.
+Cymes 10 to 20 (25) cm, axis relatively slender, with 10 to 30 flowers spaced 1 to 2 cm apart. Flower sessile to obscurely pedicellate; hypanthium obconic, 4 mm tall, furfuraceous; calyx with short lobes, broadly triangular, keeled-mucronate on the back. Petals pink, fleshy, obovate, 7–10 mm long. Internal stamens slightly shorter, with anterior appendage slightly more developed; anther 1.8–2 mm; filament 2.5–3.5 mm, pedoconnectives 0.3 mm; anterior appendages 0.3 mm; spur scarcely developed.
 
-Cymes de 10 à 20 (25) cm, axe relativement grêle, avec 10 à 30 fleurs espacées de 1 à 2 cm. Fleur sessile à obscurément pédicellée; hypanthe obconique, haut de 4 mm, furfuracé; calice à lobes courts, largement triangulaires, carénés-mucronés sur le dos. Pétales roses, charnus, obovales, longs de 7-10 mm. Étamines internes légèrement plus courtes, avec appendice antérieur légèrement plus développé; anthère 1,8-2 mm; filet 2,5-3,5 mm, pédoconnectifs 0,3 mm; appendices antérieurs 0,3 mm; éperon à peine développé.
-
-Fruit obconique à cylindracé, ± 6 × 8 mm, paroi aérifère 10-canne-lée; couronne épigyne exserte de 2 à 3 mm, chaque lobe tronqué ou émarginé-bidenté. Graines longues de 1, 5 mm.
+Fruit obconic to cylindraceus, ± 6 × 8 mm, wall with aeriferous 10-ridges; epigynous crown exsert 2 to 3 mm, each lobe truncate or emarginate-bidentate. Seeds 1.5 mm long.
 
 ## Type
 
@@ -31,9 +29,7 @@ Chevalier 19476, Côte d'Ivoire (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce rupicole intraforestière, de la Guinée au Gabon; parfois épiphyte.
+Rupiculous intraforestial species, from Guinea to Gabon; sometimes epiphytic.
 
 ## Specimens examined
 

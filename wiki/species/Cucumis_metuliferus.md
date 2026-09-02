@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 17(3,4); Figure 2(E)
 
-Planche 17(3,4); Figure 2(E)
-
-Herbe annuelle, monoïque, grimpante ou rampante, hispide. Vrilles simples, courtes, grêles, courtes, simples. Feuille : pétiole 3–10 cm, longuement hispide, à poils hérissés ; limbe largement ovale-cordiforme, 3–8 × 4–10 cm, entier ou 3- à 5-palmatilobé, scabre, à lobes triangulaires à subcirculaires, à bord irrégulièrement denté. Inflorescence : la mâle à fleurs solitaires ou fasciculées par 1 à 4, les fascicules sessiles ou pédonculés, longs de 5–10 mm ; la femelle à fleur solitaire. Fleur mâle : pédicelle 2–10 mm, filiforme, longuement velu ; réceptacle subcy-lindrique, long de 3–6 mm, vert pâle, hispide ; sépales filiformes, longs de 1,5–2 mm ; pétales ovales-oblongs, 5–10 × 2–8 mm, unis dans le tiers inférieur ; étanines à filet légèrement velu. Fleur femelle : pédicelle 2–4 cm, hirsute ; ovaire obovoïde, 1–3 × 0,5–1 cm, vert clair, muriqué, hérissé de grosses épines souples, vert sombre et terminées par un poil plus fin. Fruit à pédicelle robuste, de 2–6 cm, ellipsoïdal, 6–10 × 3–6 cm, vert puis rouge orangé à maturité, hérissé d'épines coniques, longues de 1–1,5 cm et aciculées au sommet, à graines très nombreuses. Graine elliptique, 6–8 × 3,5 × 1–1,5 mm, blanchâtre.
+Annual herb, monoecious, climbing or creeping, hispid. Tendrils simple, short, slender, short, simple. Leaf: petiole 3–10 cm, longly hispid, with bristly hairs; blade broadly ovate-cordate, 3–8 × 4–10 cm, entire or 3- to 5-palmatilobed, scabrous, with triangular to subcircular lobes, with irregularly dentate margin. Inflorescence: the male with flowers solitary or fasciculate by 1 to 4, the fascicles sessile or pedunculate, 5–10 mm long; the female with solitary flower. Male flower: pedicel 2–10 mm, filiform, longly villous; receptacle subcylindric, 3–6 mm long, pale green, hispid; sepals filiform, 1.5–2 mm long; petals ovate-oblong, 5–10 × 2–8 mm, united in the lower third; stamens with slightly villous filament. Female flower: pedicel 2–4 cm, hirsute; ovary obovoid, 1–3 × 0.5–1 cm, pale green, muricate, beset with large soft spines, dark green and terminated with a finer hair. Fruit with robust pedicel, 2–6 cm, ellipsoid, 6–10 × 3–6 cm, green then red-orange at maturity, beset with conical spines, 1–1.5 cm long and aciculate at the apex, with very numerous seeds. Seed elliptic, 6–8 × 3.5 × 1–1.5 mm, whitish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, souvent cultivé ; naturalisé en Australie et ailleurs dans les tropiques ; au Gabon : Ogooué-Maritime
+Tropical Africa, often cultivated; naturalized in Australia and elsewhere in the tropics; in Gabon: Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières de forêt (souvent riveraine), forêts semi-caducifoliées, bois à feuilles caduques (souvent avec Acacia), savanes ou prairies, berges des rivières ou plaines inondables, sur sable peu profond
-
-ou profond et bien drainé, principalement les sols alluviaux, également sur sols argileux ou limoneux et pentes rocheuses ; distribution d'altitude inconnue.
+Forest margins (often riparian), semi-deciduous forests, deciduous woodlands (often with Acacia), savannas or grasslands, river banks or floodplains, on shallow or deep well-drained sand, mainly alluvial soils, also on clay or silty soils and rocky slopes; altitude distribution unknown.
 
 ## Vernacular names
 
@@ -43,9 +35,7 @@ concombre cornu, kiwano, métulon (fr.); African horned cucumber, jelly melon, k
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Usage: La pulpe des fruits doux est consommée crue. Les feuilles sont cuites comme des épinards. Une décoction de racine est utilisée pour soulager la douleur après l’accouchement et la racine bouillie contre la gonorrhée.
+Uses: The pulp of sweet fruits is consumed raw. The leaves are cooked like spinach. A root decoction is used to relieve pain after childbirth and the boiled root against gonorrhea.
 
 ## Bibliography
 

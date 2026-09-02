@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 2, 14(2) : 275 (1974). Inversodicraea tenuifolia G.Taylor, Bull. Brit. Mus. (Nat. Hist.) Bot. 1(3) : 72 (1953). Plante à partie basale thalloïde foliacée, portant des pousses acaules. Feuilles disposées en rosettes, linéaires-subulées, entières, 3–5 mm de longueur, à base brusquement élargie, concave . Inflorescence à fleurs solitaires ; spathelle subobovoïde, 2,5–2,7 mm de longueur, se déchirant à l’anthèse irrégulièrement au sommet. Fleur : pédicelle 8 mm après l’anthèse ; tépales très petits ; androcée plus long que l’ovaire, étamines 2, filets soudés sur moins de la moitié de leur longueur ; anthère 1 × 0,75 mm, pollen en monades ; ovaire 1,75 × 0,8 mm, gynophore 0,5–0,7 mm de longueur ; stigmates épais, très courts. Fruit à valves persistantes .
+Adansonia , ser. 2, 14(2) : 275 (1974). Inversodicraea tenuifolia G.Taylor, Bull. Brit. Mus. (Nat. Hist.) Bot. 1(3) : 72 (1953). Plant with a basal part thallose and foliaceus, bearing acaulescent shoots. Leaves arranged in rosettes, linear-subulate, entire, 3–5 mm in length, with base abruptly enlarged, concave. Inflorescence with solitary flowers; spathe subobovoid, 2.5–2.7 mm in length, tearing irregularly at the apex at anthesis. Flower: pedicel 8 mm after anthesis; tepals very small; androecium longer than the ovary, stamens 2, filaments united for less than half their length; anther 1 × 0.75 mm, pollen in monads; ovary 1.75 × 0.8 mm, gynophore 0.5–0.7 mm in length; stigmas thick, very short. Fruit with persistent valves.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Est du Nigéria, Gabon ; au Gabon, connu de l’Ogooué, près de Lastoursville (OgoouéLolo)
+South-eastern Nigeria, Gabon; in Gabon, known from the Ogooué, near Lastoursville (Ogooué-Lolo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au Gabon à ± 225 m d’altitude. Bi : Cusset (1984), Sosef et al. (2006). B liographie
+in Gabon at ± 225 m altitude. Bi: Cusset (1984), Sosef et al. (2006). Bibliography
 
 ## Notes
 

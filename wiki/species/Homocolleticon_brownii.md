@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Angraecum latibracteatum De Wild., Bull. Jard. Bot. Etat, Brux. 5 : 188 (1916).
 
 – Cyrtorchis brownii (Rolfe) Schltr., Beih. Bot. Centralbl. 36 : 129 (1918).
 
 – Cyrtorchis latibracteata (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 131 (1918).
 
-Tige 8-20 (-40) cm. Feuilles 4-9, 3-12 x 0,7-1,5 cm, linéaires, oblongues-elliptiques, très coriaces, très épaisses, inégalement bilobées. Inflorescence très dense, 3-9 cm, 8-20-flore. Fleurs assez petites, non résupinées, blanches, odorantes. Sépale dorsal lancéolé à ové-lancéolé. Pétales et sépales latéraux obliquement oblongs-lancéolés, à ové-lancéolés. Labelle 5,5-10,5 x 2,5-3 mm, presque carré dans la moitié basale, étroitement triangulaire ou étroitement lancéolé dans la moitié apicale. Éperon 20-30 mm, étroitement cylindrique à base conique. Pl. 165, p. 365.
+Stem 8–20 (–40) cm. Leaves 4–9, 3–12 × 0.7–1.5 cm, linear, oblong-elliptic, very coriaceous, very thick, unequally bilobed. Inflorescence very dense, 3–9 cm, 8–20-flowered. Flowers rather small, non-resupinate, white, fragrant. Dorsal sepal lanceolate to ovate-lanceolate. Petals and lateral sepals obliquely oblong-lanceolate to ovate-lanceolate. Labellum 5.5–10.5 × 2.5–3 mm, nearly square in the basal half, narrowly triangular or narrowly lanceolate in the apical half. Spur 20–30 mm, narrowly cylindrical with conical base. Pl. 165, p. 365.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Gabon, République centrafricaine, Congo, Zaïre, Ouganda, Tanzanie, Malawi
+Sierra Leone, Gabon, Central African Republic, Congo, Zaïre, Uganda, Tanzania, Malawi
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 0-1 500 m. Épiphyte en forêt sempervirente
+alt. 0–1,500 m. Epiphyte in evergreen forest
 
 ## Specimens examined
 

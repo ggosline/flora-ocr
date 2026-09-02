@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl. & Drude, Veg. der Erde 9, Die Pflanzenwelt Afr. 3, 2 : 616 (1921). Herbe 10–50 cm de hauteur ; tige à peine ramifié, pubescente à glabrescente. Stipules persistantes, largement ovales à circulaires , 6,5–21 × 4–21 mm, nettement dentées-ciliées au sommet. Feuille : pétiole de 2–30 mm ; limbe ovale à obovale, (2,5–)5–11(–14) × 2–7(–9) cm, asymétrique, base oblique, un côté cunéiforme, l’autre auriculé, sommet aigu, marge dentée-ciliée, face supérieure glabre, face inférieure pubérulente. Inflorescence uni- ou bisexuée, les femelles ou bisexuées à 0–1(–2) fleurs ♂ et 1 fleur ♀, les mâles à 6–20 fleurs ; pédoncule (sub)nul ; bractées persistantes, ovales, 2,5–6 × 0,5–2 mm, entières ou dentées, glabres. Fleur ♂ : pédicelle 6–17 mm, glabre ; tépales ovales ou obovales, 4–7(–9,5) × 4–8,5 mm, hérissés de poils glanduleux sur la face externe, blancs, transparents ; étamines 9–22. Fleur ♀ : pédicelle atteignant 7 mm ; tépales 4,5–10,5 × 4– 11,5 mm ; ovaire ellipsoïde à obovoïde, 3,5–15 × 1–6 mm, 4-ailé ; styles 4 , 2,5–5,5 mm de longueur. Fruit solitaire, sur un pédoncule de 3–9 mm, largement elliptique à obovale, 11–15 × 7–16 mm, à 4 ailes subégales ; courtement rostré sur 1,5 mm.
+in Engl. & Drude, Veg. der Erde 9, Die Pflanzenwelt Afr. 3, 2 : 616 (1921). Herb 10–50 cm tall; stem scarcely branched, pubescent to glabrescent. Stipules persistent, broadly ovate to circular, 6.5–21 × 4–21 mm, distinctly dentate-ciliate at apex. Leaf: petiole 2–30 mm; blade ovate to obovate, (2.5–)5–11(–14) × 2–7(–9) cm, asymmetric, base oblique, one side cuneate, the other auriculate, apex acute, margin dentate-ciliate, upper surface glabrous, lower surface puberulent. Inflorescence unisexual or bisexual, the female or bisexual with 0–1(–2) ♂ flowers and 1 ♀ flower, the male with 6–20 flowers; peduncle (sub)null; bracts persistent, ovate, 2.5–6 × 0.5–2 mm, entire or dentate, glabrous. ♂ Flower: pedicel 6–17 mm, glabrous; tepals ovate or obovate, 4–7(–9.5) × 4–8.5 mm, bristly with glandular hairs on outer surface, white, transparent; stamens 9–22. ♀ Flower: pedicel reaching 7 mm; tepals 4.5–10.5 × 4–11.5 mm; ovary ellipsoid to obovoid, 3.5–15 × 1–6 mm, 4-winged; styles 4, 2.5–5.5 mm long. Fruit solitary, on a peduncle 3–9 mm, broadly elliptic to obovate, 11–15 × 7–16 mm, with 4 subequal wings; shortly beaked for 1.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Angola (Cabinda)
+Cameroon, Gabon, Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-limité aux forêts denses très humides où l’espèce se plaît à proximité des cours d’eau ; jusqu’à 800 m d’altitude. Usage : Les feuilles sont comestibles et localement utilisées comme l’oseille
+restricted to very humid dense forests where the species is found near watercourses; up to 800 m altitude. Uses: The leaves are edible and locally used like sorrel.
 
 ## Vernacular names
 

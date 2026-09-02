@@ -16,23 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– Paraphyadanthe flagelliflora MILDBR., Notizbl. Bot. Berl.-Dahl. 7 : 402, fig. A-O (1920) ; GILG, in ENGL., PWA 3 (2) : 563 (1921) ; PELLEGR., Bull. Soc. Bot. Fr. 82 : 435 (1935) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 15 (1968). TYPES : Mildbread 4475, Cameroon (lecto-) ; 5320, l. c. (syn-).
 
-– Paraphyadanthe flagelliflora MILDBR., Notizbl. Bot. Berl.-Dahl. 7 : 402, fig. A-O (1920) ; GILG, in ENGL., PWA 3 (2) : 563 (1921) ; PELLEGR., Bull. Soc. Bot. Fr. 82 : 435 (1935) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 15 (1968). TYPES : Mildbread 4475, Cameroun (lecto-) ; 5320, l. c. (syn-).
+- P. flagelliflora var. hydrophila MILDBR., l. c.: 404, fig. P (1820); GILG, in ENGL., l. c.: 565 (1921). TYPES: Mildbread 8214, Cameroon (holo-, B, delet.; lecto-, chosen here, K); 8635, 8728 et 8773 (syn-, B, delet.).
 
-- P. flagelliflora var. hydrophila MILDBR., l. c.: 404, fig. P (1820); GILG, in ENGL., l. c.: 565 (1921). TYPES: Mildbread 8214, Cameroun (holo-, B, delet.; lecto-, choisi ici, K); 8635, 8728 et 8773 (syn-, B, delet.).
-
-- P. coriacea MILDBR., l. c. : 404 (1920) ; GILG, in ENGL., l. c. : 565 (1921). TYPE : Mild-bread 7610, Cameroun (holo-, B, delet.).
+- P. coriacea MILDBR., l. c. : 404 (1920) ; GILG, in ENGL., l. c. : 565 (1921). TYPE : Mildbread 7610, Cameroon (holo-, B, delet.).
 
 – Caloncoba flagelliflora (MILDBR.) GILG ex PELLEGR., Mém. Soc. Bot. Fr.: 111 (1952); SLEUMER, EBJ 94 (1): 129 (1974).
 
-Arbre (7-8 m de haut) ou arbuste, inermes ; rameaux brunâtres, glabres.
+Tree (7–8 m tall) or shrub, unarmed; branchlets brownish, glabrous.
 
-Feuilles à stipules caduques ; pétiole de 0,8-2 cm, glabre ; limbe elliptique-oblong à obovale-oblong, obtus ou aigu à la base, acuminé au sommet, 8-20 × 3-6 cm, entier à légèrement ondulé, papyracé, glabre ; nervures secondaires 5-7 paires.
+Leaves with caducous stipules; petiole 0.8–2 cm, glabrous; blade elliptic-oblong to obovate-oblong, obtuse or acute at base, acuminate at apex, 8–20 × 3–6 cm, entire to slightly undulate, papyraceous, glabrous; secondary veins 5–7 pairs.
 
-Fleurs généralement solitaires ou en fascicules pauciflores (2-3-flores), naissant sur des rameaux aériens et/ou des rameaux souterrains (ou sous la litière), s'écartant jusqu'à 10 m du tronc ; bractées ovales-acuminées, de 1-1,5 mm de long, ± caduques, glabres ; pédicelle de 1,5-3 cm de long, glabre, glanduleux, accrescent ; sépales 3, ovales, concaves, 6-10 × 3-6 mm, glanduleux extérieurement ; pétales 5-7, obovales, 7-13 × 2-4 mm, glabres ; étamines nombreuses (30-40), à filet de 3-5 mm de long, glabre ; anthères de 2-3 mm de long, glabres ; ovaire glabre, rugueux, à 4-5 placentas pluriovulés, glanduleux ; style de 1,5-2 mm de long, courtement divisé au sommet en 5-6 branches stigmatiques.
+Flowers generally solitary or in few-flowered fascicles (2–3-flowered), borne on aerial and/or subterranean branches (or beneath litter), extending up to 10 m from the trunk; bracts ovate-acuminate, 1–1.5 mm long, ± caducous, glabrous; pedicel 1.5–3 cm long, glabrous, glandular, accrescent; sepals 3, ovate, concave, 6–10 × 3–6 mm, glandular externally; petals 5–7, obovate, 7–13 × 2–4 mm, glabrous; stamens numerous (30–40), filament 3–5 mm long, glabrous; anthers 2–3 mm long, glabrous; ovary glabrous, rugose, with 4–5 pluriovulate placentas, glandular; style 1.5–2 mm long, shortly divided at apex into 5–6 stigmatic branches.
 
-Fruits : capsules subglobuleuses, ovoïdes à ellipsoïdes, 4-4,5 × 3-3,5 cm, inermes, rugueuses-denticulées, tardivement déhiscentes ; graines nombreuses (20-30), 8 × 5 mm, légèrement pubescentes. - Pl. 19, p. 61.
+Fruits: capsules subglobose, ovoid to ellipsoid, 4–4.5 × 3–3.5 cm, unarmed, rugose-denticulate, tardily dehiscent; seeds numerous (20–30), 8 × 5 mm, slightly pubescent. - Pl. 19, p. 61.
 
 ## Type
 
@@ -40,15 +38,11 @@ Mildbread 4475, Cameroun (lecto-, B, delet., choisi ici, HBG) ; 5320, l. c. (syn
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Zaïre
+Cameroon, Gabon, Congo, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses, forêts secondaires
+Dense forests, secondary forests
 
 ## Specimens examined
 

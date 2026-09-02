@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ou suffrutex glabre de 0,5 ‒ 1,75 m de hauteur ; tige et feuilles souvent teintées de pourpre . Stipules linéaires, environ 12 mm. Feuille à pétiole de 3 ‒ 8 cm ; limbe polymorphe, souvent irrégulièrement 3 ‒ 5-lobé ou divisé , jusqu’à 8 cm de diamètre, glabre,
-
-herbacé , à marge dentée-crénelée ou ondulée. Fleur axillaire, solitaire, presque sessile à pédicelle de 5 mm environ ; calicule à 10 bractéoles libres et divisées en 2 lobes lisses ou peu poilus, lobe extérieur elliptique, foliacée, 2 ‒ 3 mm de longueur, lobe intérieur plutôt filiforme, environ la moitié de la longueur du précédent ; sépales en majeure partie libres, étroitement triangulaires, subcaudés, s’accroissant depuis 15 mm jusque vers 22 mm à maturité du fruit, lisses, nervure médiane pourvue d’un nectaire ; pétales rose pâle à foncé ou jaunes (plantes à feuilles vertes teintées de pourpre), à base pourpre, 5( ‒ 6) cm de longueur ; tube staminal 1 ‒ 2 cm de longueur, portant des anthères tout le long ; style à branches parfois surpassant le tube staminal. Fruit ovoïde, aigu, 10 ‒ 16 × 9 mm environ, lisses ou à poils apprimés ; valves se terminant en un acumen rigide 4 ‒ 5 mm . Graine subtriangulaire, 3 × 2,5 mm, finement striées, pourvues de petites protubérances brun foncé.
+Herb or suffrutex glabrous 0.5–1.75 m in height; stem and leaves often tinged with purple. Stipules linear, approximately 12 mm. Leaf with petiole 3–8 cm; blade polymorphic, often irregularly 3–5-lobed or divided, up to 8 cm in diameter, glabrous, herbaceous, with margin dentate-crenate or undulate. Flower axillary, solitary, nearly sessile to pedicel approximately 5 mm; calyculus with 10 free bracteoles and divided into 2 lobes smooth or sparsely hairy, outer lobe elliptic, foliaceous, 2–3 mm in length, inner lobe rather filiform, approximately half the length of the preceding; sepals mostly free, narrowly triangular, subcaudate, increasing from 15 mm to approximately 22 mm at fruit maturity, smooth, midvein furnished with a nectary; petals pale pink to dark pink or yellow (plants with green leaves tinged with purple), purple at base, 5(–6) cm in length; staminal tube 1–2 cm in length, bearing anthers throughout; style with branches sometimes exceeding the staminal tube. Fruit ovoid, acute, 10–16 × 9 mm approximately, smooth or with appressed hairs; valves terminating in a rigid acumen 4–5 mm. Seed subtriangular, 3 × 2.5 mm, finely striate, furnished with small dark brown protuberances.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-probablement d’orgine africaine, mais maintenant répandue dans tous les tropiques ; rare en Afrique de l’Ouest (Côte d’Ivoire, Bénin), plus commun du Cameroun à l’Ethiopie, au sud vers l’Angola, le Mozambique et Maurice ; au Gabon assez rare, connue seulement des environs de Libreville
+probably of African origin, but now widespread in all tropics; rare in West Africa (Côte d'Ivoire, Benin), more common from Cameroon to Ethiopia, southward to Angola, Mozambique and Mauritius; in Gabon rather rare, known only from the environs of Libreville
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-parfois cultivée, échappé des cultures et subspontanée, naturalisée en plantations, marais et défrichements des forêts ; au Gabon au niveau de la mer, ailleurs jusqu’à 1250 m d’altitude. Usage : Espèce cultivée pour ses feuilles comestibles (préparées comme épinard). Les fleurs pourpres sont parfois utilisées pour faire du thé
+sometimes cultivated, escaped from cultivation and subspontaneous, naturalized in plantations, marshes and forest clearings; in Gabon at sea level, elsewhere up to 1250 m in altitude. Uses: Species cultivated for its edible leaves (prepared as spinach). The purple flowers are sometimes used to make tea
 
 ## Vernacular names
 

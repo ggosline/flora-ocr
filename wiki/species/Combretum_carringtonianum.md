@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 TYPE : Angola, Cabinda, Buco Zau (fl.) Monteiro, Santos & Murta 342 (holo-LISC iso-BM, LUAI).
 
-Liane ligneuse pouvant atteindre 10 cm de diamètre.
+Woody liane reaching up to 10 cm in diameter.
 
-Feuilles opposées ou 3-verticillées ; pétiole ≤ 7 mm ; limbe ≤ 32 × ≤ 13 cm, oblong-ové, coriace, glabre, sauf quelques poils apprimés sur les plus fortes nervures ; grandes nervures latérales 7-11 paires, nervures ter- taires parallèles espacées de 0,5-2 mm les unes des autres, nervure médiane et grandes nervures latérales déprimées à la face supérieure ; base du limbe arrondie et sommet acuminé et mucroné.
+Leaves opposite or 3-whorled; petiole ≤ 7 mm; lamina ≤ 32 × ≤ 13 cm, oblong-ovate, coriaceous, glabrous, except for a few appressed hairs on the major veins; major lateral veins 7–11 pairs, tertiary veins parallel spaced 0.5–2 mm apart, midvein and major lateral veins depressed on the upper face; base of lamina rounded and apex acuminate and mucronate.
 
-Écailles circulaires, diamètre 40-60 µm.
+Scales circular, diameter 40–60 µm.
 
-Inflorescences axillaires ou terminales, longueur < 15 cm ; bractées filiformes, longues de 2-4 mm.
+Inflorescences axillary or terminal, length < 15 cm; bracts filiform, 2–4 mm long.
 
-Fleurs 4-mères, sessiles. Réceptacle inférieur, hauteur 1,5 mm, totalement couvert de poils apprimés, le supérieur, vert pâle, campanulé, hauteur 1,5-2 mm, largeur 2-2,5 mm, avec poils et écailles sur sa face externe. Calice : lobes triangulaires. Pétales blancs, obovés, face externe avec « nervure médiane » pubescente, face interne glabre. Étamines à peine exsertes ; anthères apiculées longues de 0,7 mm. Style très exsert ou pas du tout.
+Flowers 4-merous, sessile. Receptacle lower, height 1.5 mm, completely covered with appressed hairs, the upper, pale green, campanulate, height 1.5–2 mm, width 2–2.5 mm, with hairs and scales on its external face. Calyx: lobes triangular. Petals white, obovate, external face with "midvein" pubescent, internal face glabrous. Stamens barely exsert; anthers apiculate 0.7 mm long. Style very exsert or not at all.
 
-Fruit, profil ovale, subcirculaire à anguleux en coupe transversale, ≤ 5 × ≤ 3 cm, sans stipe et sans ailes, ligneux, velouté, vert-brunâtre à gris. – Pl. 5, p. 23.
+Fruit, outline oval, subcircular to angular in cross-section, ≤ 5 × ≤ 3 cm, without stipe and without wings, woody, velutinous, greenish-brown to grey. – Pl. 5, p. 23.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Congo (Kinshasa), Congo (Brazzaville), Angola (Cabinda), Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides, souvent rencontré près de l'eau ; altitude ≤ 500 m
+Dense humid forests, often encountered near water; altitude ≤ 500 m
 
 ## Specimens examined
 

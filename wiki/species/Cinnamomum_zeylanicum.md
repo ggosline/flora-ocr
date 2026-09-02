@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Nees von Esenbeck. Syst. Laur. 1836.
 
-Cannellier de Ceylan.
+Cinnamon of Ceylon.
 
-Introduit dans des plantations, le cannellier s'est naturalisé puisque l'échantillon figuré provient d'un arbuste trouvé en forêt aux environs d'Ébimangha (à moins qu'il ne s'agisse d'une ancienne culture envahie par la forêt). Cet arbuste mesurait 2 m de haut; les feuilles sont très caractéristiques avec les trois nervures partant du pétiole, cheminant à peu près parallèlement, la médiane trifurquée à l'extrémité; le limbe est très brillant dessus; les fleurs sont blanches. L'écorce, très odorante, constitue la cannelle utilisée en fragments ou en poudre brun-rouge dans les préparations culinaires.
+Introduced into plantations, cinnamon has naturalized itself, as the specimen illustrated comes from a shrub found in forest near Ébimangha (unless it is an old cultivation overrun by forest). This shrub measured 2 m in height; the leaves are very characteristic with three nerves proceeding from the petiole, running approximately parallel, the median one trifurcate at the apex; the limb is very glossy above; the flowers are white. The bark, very fragrant, constitutes the cinnamon used in fragments or in reddish-brown powder in culinary preparations.
 
 ## Specimens examined
 

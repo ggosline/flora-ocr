@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 43(1-3); Figure 7(A-C)
+Plate 43(1-3); Figure 7(A-C)
 
 Drypetes angustifolia Pax & K. Hoffm. in Engler, Pflanzenr. IV, 147, XV (Heft 81): 261 (1922).
 
-Arbuste ou arbre, de 2–20 m hauteur; tronc jusqu'à 16 cm de diamètre, à contreforts bas jusqu'à 20 cm de hauteur; écorce lisse, brun pâle; entaille orange pâle, sans odeur forte; ramilles cannelées, légèrement pubescentes, souvent d'un seul côté, devenant parfois presque glabres, à poils d'or pâle, courbés ou droits; bourgeons longs de 0,3–2 mm, poilus. Stipules caduques, triangulaires à étroitement triangulaires, de  $ 4,5 \times 1,2 $ mm, glabres. Feuille: pétiole de 1–11 mm, peu pubescent à parfois presque glabre; limbe étroitement elliptique à elliptique, de  $ 4,2–11 \times 1,2 $ mm, papyracé, à base oblique, cunée, à côtés inégaux, nettement acuminé sur 1,2–2,2 cm au sommet, à marge serrée à dents espacées de 0,5–0,8 cm, souvent concolore sur le sec, glabre sur les deux faces; nervure médiane séchant parfois orange, nervures secondaires 5 à 7 de chaque côté, nervation tertiaire et quaternaire réticulées et surélevées sur les deux faces sur le sec. Inflorescence mâle avec 1 à 3 fleurs à l'aisselle des feuilles. Fleur mâle : pédicelle grêle, 1–2 mm; sépales 4, de  $ 3,5 \times 2,5 $ mm, à marge ciliée; étamines 8, la plupart disposées en un verticille autour du bord du disque, très peu enfermées dans le disque, filet 1 mm, anthère  $ 1 \times 1 $ mm; disque de 2 mm de diamètre. Inflorescence femelle à fleurs solitaires à l'aisselle des feuilles. Fleur femelle : pédicelle 1,5–2,5 mm, glabre ou à poils épars ; sépales 4, glabres ; disque de 2 mm de diamètre, 1 mm de hauteur, glabre ; ovaire  $ 2 \times 2 $ mm, 2-loculaire, glabre ; stigmates en éventail divisé, de  $ 1,8 \times 1,2 $ mm. Fruit ellipsoidal à globuleux, de  $ 12–16 \times 13–16 $ mm, à sépales persistantes principalement glabres, parfois à poils microscopiques, à 2 graines, fruit mûr à texture superficielle granuleuse sur le sec (loupe  $ \times 10! $), à paroi de 15 mm d'épaisseur, orange clair, à pédicelle de 3 mm. Graine de  $ 12 \times 7 $ mm.
+Shrub or tree, 2–20 m tall; trunk up to 16 cm in diameter, with low buttresses up to 20 cm tall; bark smooth, pale brown; slash pale orange, without strong odor; branchlets grooved, slightly pubescent, often on one side only, sometimes becoming nearly glabrous, with pale golden hairs, curved or straight; buds 0.3–2 mm long, hairy. Stipules caducous, triangular to narrowly triangular, $ 4.5 \times 1.2 $ mm, glabrous. Leaf: petiole 1–11 mm, sparsely pubescent to sometimes nearly glabrous; blade narrowly elliptic to elliptic, $ 4.2–11 \times 1.2 $ mm, papyraceous, with oblique, cuneate base, unequal-sided, distinctly acuminate for 1.2–2.2 cm at apex, with margin serrate to teeth spaced 0.5–0.8 cm apart, often concolorous when dry, glabrous on both surfaces; midvein sometimes drying orange, secondary veins 5 to 7 on each side, tertiary and quaternary venation reticulate and raised on both surfaces when dry. Male inflorescence with 1 to 3 flowers in the leaf axils. Male flower: pedicel slender, 1–2 mm; sepals 4, $ 3.5 \times 2.5 $ mm, ciliate-margined; stamens 8, mostly arranged in a whorl around the disk edge, very few enclosed within the disk, filament 1 mm, anther $ 1 \times 1 $ mm; disk 2 mm in diameter. Female inflorescence with solitary flowers in the leaf axils. Female flower: pedicel 1.5–2.5 mm, glabrous or with scattered hairs; sepals 4, glabrous; disk 2 mm in diameter, 1 mm tall, glabrous; ovary $ 2 \times 2 $ mm, 2-locular, glabrous; stigmas fan-shaped divided, $ 1.8 \times 1.2 $ mm. Fruit ellipsoid to globose, $ 12–16 \times 13–16 $ mm, with persistent sepals mostly glabrous, sometimes with microscopic hairs, 2-seeded, mature fruit with granular superficial texture when dry (magnification $ \times 10 $), wall 15 mm thick, light orange, with pedicel 3 mm. Seed $ 12 \times 7 $ mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, continental Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, and Angola; in Gabon: Ngounié, Nyanga, Ogooué-Ivindo, and Ogooué-Lolo.
 
-Cameroun, Guinée équatoriale continentale, Gabon, République du Congo, République Centrafricaine, République démocratique du Congo et Angola ; au Gabon : Ngounié, Nyanga, Ogooué-Ivindo et Ogooué-Lolo
-
-Habitat : forêts primaires et secondaires, forêts ripicoles, forêts marécageuses ; au Gabon à 350–970 m d'altitude.
+Habitat: primary and secondary forests, riparian forests, swamp forests; in Gabon at 350–970 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. diopa semble commun au Gabon loin de la plaine côtière d'où il n'a pas encore été signalé
+D. diopa appears common in Gabon away from the coastal plain from which it has not yet been recorded.
 
 ## Bibliography
 

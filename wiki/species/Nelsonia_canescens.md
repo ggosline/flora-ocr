@@ -22,19 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Justicia canescens Lam., Tabl. Encycl. Meth., Bot. 1 : 41 (1791).
 
 ≡ Nelsonia brunelloides (Lam.) O. Kuntze, Rev. Gen. 2 : 493 (1891).
 
 — Hutchinson et Dalziel, l. c., ed. 1,2 : 26 (1931).
 
-Plante herbacée; branches couchées à terre; tiges pubes-centes-laineuses; parties jeunes grisâtres-argentées, velues, pubes-centes (sauf les inflorescences) ou glabres (surtout les feuilles inférieures de grandes dimensions). Feuilles sessiles ou pétiolées; à pétiole jusqu'à 2 cm; limbe des feuilles supérieures grand, velu-pubescent, ovale, jusqu'à 9 × 5,5 cm, arrondi au sommet, contracté et légèrement décurrent dans le pétiole. 8 paires de nervures latérales.
+Herbaceous plant; branches prostrate on the ground; stems pubescent-woolly; young parts greyish-silvery, hairy, pubescent (except the inflorescences) or glabrous (especially the lower leaves of large size). Leaves sessile or petiolate; with petiole up to 2 cm; blade of upper leaves large, hairy-pubescent, ovate, up to 9 × 5.5 cm, rounded at the apex, contracted and slightly decurrent into the petiole. 8 pairs of lateral veins.
 
-Inflorescences de 2,5-8 cm ± glabrescentes; bractées ovales longues de 4-6 mm. Calice de 3-4 mm. Corolle de 4-5 mm.
+Inflorescences 2.5–8 cm ± glabrescent; bracts ovate 4–6 mm long. Calyx 3–4 mm. Corolla 4–5 mm.
 
-Capsule de 4-6 mm.
+Capsule 4–6 mm.
 
 ## Type
 
@@ -42,9 +40,7 @@ Roussillon 53 (1789), Sénégal (P. herb. Lamarck, holotype de Justicia canescen
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Type de Nelsonia campestris R. Br. de l'Australie.
+Type of Nelsonia campestris R. Br. from Australia.
 
 ## Specimens examined
 

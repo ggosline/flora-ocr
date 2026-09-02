@@ -21,9 +21,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce avait été signalée jusqu'ici en Angola et en Rhodésie. Dans la République du Congo, cette petite herbe se rencontre parfois sur des sols sableux lessivés, temporairement marécageux ou inondés. On pourrait la trouver au Gabon soit dans les plaines côtières, soit dans la région de Franceville.
+This species had been recorded up to now in Angola and Rhodesia. In the Congo Republic, this small herb is sometimes found on leached sandy soils, temporarily swampy or flooded. It could be found in Gabon either in the coastal plains or in the Franceville region.
 
 ## Notes
 

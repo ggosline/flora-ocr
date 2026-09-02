@@ -30,15 +30,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — B.S.B. Belg. 83, 5 : 19 (1950).
 
-Herbe dressée ou sarmenteuse, ramifiée, atteignant plusieurs mètres de haut ; tiges et nœuds glabres. Feuilles homotropes à limbe ovale lancéolé, glabre ou plus ou moins pubescent sur la nervure centrale à la face inférieure, ovale lancéolé, brusquement et longuement acuminé au sommet, arrondi à la base ; dimensions variables, généralement de l'ordre de  $ 15-20 \times 7-12 $ cm ; callus d'environ 1 cm, le pétiole passant ensuite très rapidement à la gaine. Inflorescence en longues panicules lâches, très ramifiées, pendantes, atteignant 30 à 40 cm de long. Nœuds plus ou moins pubescents, entre-nœuds de 20-30 mm de long. Bractées axillant une seule cyme bifore, de  $ \pm 25 \times 4,5 $ mm, caduques avant fructification. Pédoncule commun atteignant 25-30 mm, pédicelle le plus long environ 10 mm. Sépales scareux, 4 mm, corolle
+Herb erect or sarmentose, branched, reaching several meters tall; stems and nodes glabrous. Leaves homotropous with oval-lanceolate blade, glabrous or more or less pubescent on the central vein on the lower face, oval-lanceolate, abruptly and longly acuminate at the apex, rounded at the base; dimensions variable, generally of the order of $ 15-20 \times 7-12 $ cm; callus about 1 cm, the petiole then passing very rapidly to the sheath. Inflorescence in long loose panicles, very branched, pendulous, reaching 30 to 40 cm long. Nodes more or less pubescent, internodes 20-30 mm long. Bracts subtending a single biflorous cyme, of $ \pm 25 \times 4.5 $ mm, caducous before fruiting. Common peduncle reaching 25-30 mm, longest pedicel about 10 mm. Sepals scarious, 4 mm, corolla
 
-Herbe dressée ou sarmenteuse, à partir d'un rhizome, atteignant plusieurs mètres de haut, ramifiée, tiges et nœuds pubescents. Feuilles à limbe ovale à ovale-oblong, glabres, souvent pruineuses à la face inférieure, brusquement terminées en un acumen étroit au sommet, arrondi à la base, de dimensions variables, de 10-45 × 5-18 cm. Callus de 1,5 cm de long, reste du pétiole de taille variable.
+Herb erect or sarmentose, from a rhizome, reaching several meters tall, branched, stems and nodes pubescent. Leaves with oval to oval-oblong blade, glabrous, often pruinose on the lower face, abruptly terminated in a narrow acumen at the apex, rounded at the base, of variable dimensions, 10-45 × 5-18 cm. Callus 1.5 cm long, remainder of petiole of variable size.
 
-Inflorescence lâche, ramifiée, jusqu'à une trentaine de centimètres de long, Axes roses, entre-nœuds pubescents d'environ 2 cm de long. Bractées finalement caduques de ± 30 × 6 mm, axillant deux cymes biflores ; pédoncule commun de 30 à 35 mm, pédicelle le plus long d'une dizaine de millimetres. Fleurs à calice et corolle rose, staminodes pétaloïdes externes blancs, les internes jaunes. Fruits rouges, lisses, à périanthe persistant, devenant brun clair et ridés en séchant, d'environ 7 mm de diamètre. Graines brunes à arille lacinié.
+Inflorescence loose, branched, up to about thirty centimeters long. Axes pink, internodes pubescent about 2 cm long. Bracts eventually caducous of ± 30 × 6 mm, subtending two biflorous cymes; common peduncle 30 to 35 mm, longest pedicel about ten millimeters. Flowers with pink calyx and corolla, external petaloid staminodes white, the internal ones yellow. Fruits red, smooth, with persistent perianth, becoming light brown and wrinkled when dry, about 7 mm in diameter. Seeds brown with laciniate aril.
 
 ## Type
 
@@ -46,13 +44,11 @@ Ridley 6440, Angola
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant known from all of West and Central Africa, and as far as Angola and East Africa.
 
-Plante connue de toute l’Afrique occidentale et centrale, et jusqu’en Angola et en Afrique orientale.
+Swampy or inundable forests; forest galleries in savanna regions.
 
-Forêts marécageuses ou inondables ; galeries forestières dans les régions de savane.
-
-Les tiges sont utilisées en sparterie et en vannerie ; les feuilles peuvent servir à l’emballage des pains de manioc.
+The stems are used in basketry and wickerwork; the leaves can serve for wrapping manioc loaves.
 
 ## Specimens examined
 

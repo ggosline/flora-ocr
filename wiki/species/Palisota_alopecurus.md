@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne, de 0,5–2,5(–3) m de hauteur ; tige dressée, robuste, dure, brune, à entre-nœuds de 30–40 cm. Feuilles verticillées ; pseudopétiole absent ou jusqu’à 10 cm, étroitement ailé, marges ciliées à pubescence rousse ; limbe étroitement obovale-elliptique, 27–60 × 7–16 cm, base étroitement cunéée à cunéée, sommet acuminé, marges nettement ciliées avec des poils roux, face supérieure vert foncé, face inférieure nettement plus claire, avec 8 à 10 nervures de chaque côté. Inflorescences une à plusieurs sur le verticille terminal ; pédoncule jusqu’à 6 cm, à longue pubescence rousse, couvert par les 3 ou 4 bractées foliacées, brun foncé ; thyrse spadiciforme, très dense, cylindrique , 6–10 fois plus long que large, 20–30 × 3–4(–5,5) cm, cincinni 2–2,5 cm de longueur, pubescents , à fleurs bisexuées ; bractées florales obs curément visibles à la fructification. Fleur blanche ou blanc crème ; pédicelle pubescent ; sépales obovales-elliptiques, 4,5–5 × 1–1,5 mm, longuement pubescents à l’extérieur, surtout au sommet ; pétales similaires aux sépales, mais glabres ; étamines à anthère basifixe, les 2 supérieures courtes, filet presque nul ou jusqu’à 1,5 mm de longueur, à anthère étroitement oblongue-ovale, ± 1,5 mm de longueur, l’inférieure à filet atteignant 4 mm et anthère plus petite , ovale, ± 1 mm de longueur ; staminodes ± 2,5 mm de longueur ; ovaire ovoïde-sphérique, ± 1 mm de diamètre, glabre ; style filiforme, 2,5–3 mm, stigmate capité. Fruit sphérique, 0,5–1 cm de diamètre, brillant, glabre, brun-rouge ou pourpre foncé à maturité. Graine ovale ou polygonale, 2,5–3,5 mm de diamètre ; testa lisse, brun foncé ; embryotège dans une légère dépression, bordée d’une crête avec ± 20 à 25 cannelures crénelées, le dos en continuité avec les cannelures ; hile ponctiforme.
+Perennial herb, 0.5–2.5(–3) m tall; stem erect, robust, hard, brown, with internodes 30–40 cm long. Leaves whorled; pseudopetiole absent or up to 10 cm, narrowly winged, margins ciliate with russet pubescence; blade narrowly obovate-elliptic, 27–60 × 7–16 cm, base narrowly cuneate to cuneate, apex acuminate, margins distinctly ciliate with russet hairs, upper surface dark green, lower surface distinctly paler, with 8 to 10 nerves on each side. Inflorescences one to several in the terminal whorl; peduncle up to 6 cm, with long russet pubescence, covered by 3 or 4 foliaceous bracts, dark brown; thyrse spadiciform, very dense, cylindrical, 6–10 times longer than wide, 20–30 × 3–4(–5.5) cm, cincini 2–2.5 cm long, pubescent, with bisexual flowers; floral bracts obscurely visible at fruiting. Flower white or cream-white; pedicel pubescent; sepals obovate-elliptic, 4.5–5 × 1–1.5 mm, long pubescent on the outside, especially at the apex; petals similar to sepals, but glabrous; stamens with basifixed anther, the 2 upper ones short, filament almost absent or up to 1.5 mm long, with narrowly oblong-ovate anther, ± 1.5 mm long, the lower one with filament reaching 4 mm and smaller anther, ovate, ± 1 mm long; staminodes ± 2.5 mm long; ovary ovoid-spheric, ± 1 mm in diameter, glabrous; style filiform, 2.5–3 mm, stigma capitate. Fruit spheric, 0.5–1 cm in diameter, shiny, glabrous, reddish-brown or dark purple at maturity. Seed oval or polygonal, 2.5–3.5 mm in diameter; testa smooth, dark brown; embryotega in a slight depression, bordered by a crest with ± 20 to 25 crenulate grooves, the back continuous with the grooves; hilum punctiform.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et République démocratique du Congo ; au Gabon rare, dans l’Estuaire, la Ngounié et la Nyanga
+Cameroon, Gabon and Democratic Republic of the Congo; rare in Gabon, in the Estuary, Ngounié and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire ; au Gabon de 20 à 750 m d’altitude, ailleurs de 470 à 1000 m. Floraison en février, mars, septembre, octobre et novembre ; fructification en juillet, octobre et novembre. Usage : Les feuilles sont utilisées comme emballages pour la nourriture. Les poils sont enlevés par le feu (fide Walters & Kandinia 2009 ). La tige est utilisée pour traiter la tuberculose (fide Quiroz-Villareal 1640 )
+secondary forest; in Gabon from 20 to 750 m altitude, elsewhere from 470 to 1000 m. Flowering in February, March, September, October and November; fruiting in July, October and November. Use: The leaves are used as packaging for food. The hairs are removed by fire (fide Walters & Kandinia 2009). The stem is used to treat tuberculosis (fide Quiroz-Villareal 1640)
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ okakalang (fang) ; olílóró (batéké (‘grosse feuilles’) ; même nom util
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce est proche de P. schweinfurthii , mais s’en distingue par ses inflorescences très massives et droites, et son pédoncule court, entouré par des bractées foliacées. B : Bidault & van der Burg (2019), Pellegrin (1938), Sosef et al. (2006). i B liographie
+The species is close to P. schweinfurthii, but differs by its very massive and erect inflorescences, and its short peduncle, surrounded by foliaceous bracts. B: Bidault & van der Burg (2019), Pellegrin (1938), Sosef et al. (2006). Bibliography
 
 ## Notes
 

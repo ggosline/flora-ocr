@@ -24,15 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb (?), culms geniculate at the base, then erect up to 50 or 60 cm tall, simple or branched toward the base. Sheath striate, pubescent at the opening. Blades linear, 7.5–15 × 0.2–0.4 cm, generally involute, glabrous or more or less pubescent.
 
-Herbe annuelle (?), chaumes géniculés à la base, puis dressés jusqu'à 50 ou 60 cm de haut, simples ou ramifiés vers la base. Gaine striée, pubescente à l'ouverture. Limbes linéaires, de 7,5-15 × 0,2-0,4 cm, généralement enroulés, glabres ou plus ou moins pubescents.
+Panicle spiciform more or less lobed or interrupted, dense, up to about fifteen centimetres long. Branches erect very short, divided from the base. Spikelets subsessile, 2 to 4 mm long, with about ten flowers, of light coloration or more or less colored pink. Rachis articulate and deciduous with the flowers. Glumes acuminate with 1 nerve, keel scabrous, about 1 mm long. Lemmas oblong, sub-obtuse and mucronate, with 3 nerves, keel scabrous. Palea falling with the lemma, keels furnished with long erect hairs.
 
-Panicule spiciforme plus ou moins lobée ou interrompue, dense, jusqu'à une quinzaine de centimètres de long. Branches dressées très courtes, divisées dès la base. Épillets subsessiles, de 2 à 4 mm de long, d'une dizaine de fleurs, de teinte claire ou plus
-
-ou moins colorés en rose. Rachis articulé et caduc avec les fleurs. Glumes acuminées à 1 nervure, carène scabre, d'environ 1 mm de long. Lemmas oblongues, sub-obtuses et mucronées, à 3 nervures, carène scabre. Paléa tombant avec la lemma, carènes munies de longs poils dressés.
-
-Herbe rudérale commune en Afrique et en Amérique tropicale, ainsi qu'en Afrique australe et dans les Indes.
+Ruderal herb common in tropical Africa and America, as well as in southern Africa and in the Indies.
 
 ## Vernacular names
 

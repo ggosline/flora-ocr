@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pachira aquatica var. surinamensis DECNE., Fl. Serres 23 : 46 (1880).
 
 — Bombax aquaticum (AUBL.) K. SCHUM., Pflanzenfam., ed. 1, 3 (6) : 62 (1895).
@@ -43,19 +41,19 @@ tags: [species, generated]
 
 — Bombax insigne auct. non (Sw.) K. SCHUM. : HOEHNE, Arch. Bot. Est. Sao Paulo 1 : 565 (1927), p.p.
 
-Cette espèce se distingue des deux autres par :
+This species is distinguished from the two others by:
 
-— contreforts aliformes hauts de 2 m;
+— winged buttresses 2 m tall;
 
-— folioles pétiolulées.
+— petiolulate leaflets.
 
-— colonne staminale longue de 4,5-12 cm, pubérulente sur 1/2 à 3/4 de sa hauteur.
+— staminal column 4.5–12 cm long, pubescent on 1/2 to 3/4 of its height.
 
-— capsule globuleuse à oblongue-ellipsoïde;
+— globose to oblong-ellipsoid capsule;
 
-— graines lisses; PL. 9, 8 et 9, p. 35.
+— smooth seeds; PL. 9, 8 and 9, p. 35.
 
-— cotylédons de la plantule sur le sol.
+— cotyledons of the seedling on the ground.
 
 ## Type
 
@@ -63,9 +61,7 @@ Aublet s.n., Guyane Française (holo-, BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce d'Amérique centrale et australe, généralement ripicole; cultivée ailleurs pour ses fruits. Elle est signalée au Gabon par WALKER et SILLANS.
+Species of central and southern America, generally riparian; cultivated elsewhere for its fruits. It is recorded in Gabon by WALKER and SILLANS.
 
 ## Vernacular names
 
@@ -73,9 +69,7 @@ noisetier de Cayenne; mbénda-y'atanga (mpongwè, galoa, nkomi, orungu); duvinda
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les amandes se mangent crues ou cuites sous la cendre
+The kernels are eaten raw or cooked under ash.
 
 ## Figures
 

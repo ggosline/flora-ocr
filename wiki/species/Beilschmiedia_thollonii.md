@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. jard. bot. Brux. 20 : 211 (1950).
 
-Arbre ou arbuste (?); jeunes rameaux à écorce sillonnée en long, subviolacés, glabres. Feuilles vert-jaunâtre brillantes dessus rappelant celles de B. nitida Engl. Mais la fleur révèle des affinités avec B. piya Chev. En plus des différences signalées dans la clé, on peut ajouter que le style est deux fois plus long que l'ovaire chez B. Tholloni et que les filets sont tomentelleux; chez B. piya ils sont seulement pubescents et le style égale l'ovaire en longueur. Fruit inconnu.
+Tree or shrub (?); young branches with bark longitudinally furrowed, subviolaceous, glabrous. Leaves yellowish-green, shiny above, recalling those of B. nitida Engl. But the flower reveals affinities with B. piya Chev. In addition to the differences noted in the key, it may be added that the style is twice as long as the ovary in B. Tholloni and that the filaments are tomentellous; in B. piya they are only pubescent and the style equals the ovary in length. Fruit unknown.
 
 ## Type
 

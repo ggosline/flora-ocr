@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Roem. & Schult., Mant. 2 : 91 (1824). Scirpus acutangulus Roxb., Fl. ind. 1 : 216 (1820). E. fistulosa Link, Jahrb. Gewächsk. 3 : 78 (1820), nom. inval. Herbe robuste, vivace, stolonifère ; stolons généralement de 10‒20 cm × 2‒3,5 mm, s’enracinant aux nœuds et se terminant habituellement par un nouveau faisceau de 5‒10 tiges – l’absence de rhizomes et de tiges mortes ainsi que l’abondance des stolons suggèrent que la plante-mère meurt après la floraison – tiges de 35‒90 cm × 2‒5 mm, triangulaires à faces concaves , à peine striées, vertes mais parfois violacées en bas. Feuille : gaine beaucoup plus large que la tige, grise, rougeâtre ou violacée, se terminant par un court lobe aigu. Inflorescence en épillet unique : bractées vertes avec une étroite bordure transparente, similaires aux glumes mais plus raides. Épillet lancéolé–cylindrique, de 10‒60 × 3‒5 mm, ayant souvent un aspect dentelé (glumes écartées) ; glumes longues de 4‒5 mm, verdâtres (devenant brun pâle en séchant) avec souvent des parties brunes, striées longitudinalement mais sans nervure centrale distincte, bordées d’une étroite marge translucide. Fleur : périanthe formé de 6‒7 soies fortement scabres (rarement lisses) et beaucoup plus longues que l’akène, ou réduit à quelques soies courtes avec peu ou sans barbillons ; étamines 3 ; style à 3 branches. Akène de 1,4‒2 × 1,2‒1,6 mm, habituellement brun pâle à maturité, strié longitudinalement avec des barres transversales entre les crêtes ; appendice grand, beaucoup plus sombre que l’akène et avec un rétrécissement très distinct entre l’akène et l’appendice.
+in Roem. & Schult., Mant. 2 : 91 (1824). Scirpus acutangulus Roxb., Fl. ind. 1 : 216 (1820). E. fistulosa Link, Jahrb. Gewächsk. 3 : 78 (1820), nom. inval. Robust, perennial herb, stoloniferous; stolons generally 10–20 cm × 2–3.5 mm, rooting at the nodes and usually terminating in a new bundle of 5–10 stems – the absence of rhizomes and dead stems as well as the abundance of stolons suggest that the parent plant dies after flowering – stems 35–90 cm × 2–5 mm, triangular with concave faces, scarcely striated, green but sometimes purplish at the base. Leaf: sheath much wider than the stem, grey, reddish or purplish, terminating in a short acute lobe. Inflorescence in a single spikelet: bracts green with a narrow translucent margin, similar to the glumes but stiffer. Spikelet lanceolate–cylindric, 10–60 × 3–5 mm, often appearing denticulate (glumes spreading); glumes 4–5 mm long, greenish (becoming pale brown when dry) with often brown parts, longitudinally striated but without a distinct central nerve, bordered by a narrow translucent margin. Flower: perianth formed of 6–7 strongly scabrous bristles (rarely smooth) and much longer than the achene, or reduced to a few short bristles with few or no barbs; stamens 3; style with 3 branches. Achene 1.4–2 × 1.2–1.6 mm, usually pale brown at maturity, longitudinally striated with transverse bars between the ridges; appendage large, much darker than the achene and with a very distinct constriction between the achene and the appendage.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans toutes les régions tropicales de l’Afrique, de l’Amérique et de l’Asie ; rare au Gabon, trouvée seulement dans la Ngounié et la Nyanga (2 récoltes)
+widely distributed throughout all tropical regions of Africa, America and Asia; rare in Gabon, found only in Ngounié and Nyanga (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur les rives des mares et des lacs ; au Gabon, à 100‒120 m d’altitude, à 0‒1500 m ailleurs en Afrique. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+on the shores of ponds and lakes; in Gabon, at 100–120 m altitude, at 0–1500 m elsewhere in Africa. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
 ## Notes
 

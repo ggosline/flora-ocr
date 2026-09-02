@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, avec des tiges solitaires issues des extrémités renflées de stolons grêles, de 1‒8 cm × 2‒6 mm, densément couverts d’écailles brunes multinervées, parfois décomposées en fibres ; tiges de 20‒60(‒100) cm × 0,8‒2 mm (5 mm au niveau des gaines foliaires), trigones à arrondies, glabres, couvertes seulement à la base par les gaines. Feuille : gaine supérieure verte, les inférieures devenant progressivement plus courtes, plus brunes et avec un limbe plus court ; limbe plan et assez épais, le plus grand de 10‒30 cm × 4–6(‒10) mm , scabre sur la marge et la nervure centrale, au moins près de l’extrémité. Inflorescence en tête solitaire large de 1,5‒2 cm , composée de nombreux épillets serrés, blanchâtres devenant parfois brun rougeâtre pâle à maturité ; 3–4 bractées involucrales, foliacées, la plus grande de 2‒6 cm × 2‒4 mm, réfléchies ou étalées. Épillet de 6‒12 × 2‒5 mm (selon l’écartement des glumes), blanc grisâtre à blanc rosé, seulement légèrement comprimée, à 6‒15 fleurs ; glumes elliptiques–lancéolées, longues de 4‒6 mm , la nervure médiane dépassant légèrement, à 7‒11 nervures, blanc grisâtre avec de petites taches brun rougeâtre. Fleur à 3 étamines ; style à 3 branches. Akène de contour obovale, de 2‒2,5 × 1,2‒1,4 mm , trigone, brun jaunâtre à vert olive, à surface finement papilleuse.
+Perennial herb, with solitary stems arising from swollen ends of slender stolons, 1–8 cm × 2–6 mm, densely covered with multinervate brown scales, sometimes decomposed into fibres; stems 20–60(–100) cm × 0.8–2 mm (5 mm at the level of leaf sheaths), trigonous to rounded, glabrous, covered only at the base by sheaths. Leaf: upper sheath green, the lower ones becoming progressively shorter, browner and with a shorter blade; blade flat and fairly thick, the largest 10–30 cm × 4–6(–10) mm, scabrous on the margin and central nerve, at least near the apex. Inflorescence in a solitary head 1.5–2 cm wide, composed of numerous crowded spikelets, whitish becoming sometimes pale brownish-red at maturity; 3–4 involucral bracts, foliaceous, the largest 2–6 cm × 2–4 mm, reflexed or spreading. Spikelet 6–12 × 2–5 mm (depending on the spacing of the glumes), greyish-white to pinkish-white, only slightly compressed, with 6–15 flowers; glumes elliptic–lanceolate, 4–6 mm long, the median nerve slightly exceeding, with 7–11 nerves, greyish-white with small brownish-red spots. Flower with 3 stamens; style with 3 branches. Achene obovate in outline, 2–2.5 × 1.2–1.4 mm, trigonous, yellowish-brown to olive-green, with finely papillose surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale et australe ; au Gabon, dispersée et trouvée dans le Haut-Ogooué, la Ngounié, la Nyanga et l’Ogooué-Maritime
+widely distributed in tropical and southern Africa; in Gabon, scattered and found in Haut-Ogooué, Ngounié, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in herbaceous zones, scrub or open wooded areas, often on rocky slopes and in burnt savanna; in Gabon, at 0–500 m altitude, elsewhere up to 2400 m. Taxonomic note: differs from numerous other species with whitish head inflorescence by its solitary stem at the end of slender stolons. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
-en zones herbeuses, brousse ou zones boisées ouvertes, souvent sur des pentes rocheuses et en savane brûlée ; au Gabon, à 0‒500 m d’altitude, ailleurs jusqu’à 2400 m. Note taxonomique : diffère des nombreuses autres espèces à inflorescence en tête blanchâtre par sa tige solitaire à l’extrémité de stolons grêles. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
-
-Gaine foliaire et base du limbe. – C. Sommet du Coupe longitudinale d’une tige creuse. – C. Épillet. limbe. – D. Épillet. – E. Glume sous-tendant une – D. Glume. – E. Sommet d’une anthère montrant le fleur. – F. Fleur. – G. Fruit avec style persistant. connectif. – F. Fleur avec jeune fruit, style et 3 filets. Dessin original par Richard W. Haines ©. Dessin original par Richard W. Haines ©.
+Leaf sheath and base of blade. – C. Summit of Longitudinal section of a hollow stem. – C. Spikelet. blade. – D. Spikelet. – E. Glume subtending a – D. Glume. – E. Apex of an anther showing the flower. – F. Flower. – G. Fruit with persistent style. connective. – F. Flower with young fruit, style and 3 filaments. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Chlamydocardia subrhomboidea Lindau (Bot. Jahrb. 22 : 119, 1895, type : Preuss 1309, from Cameroon), erroneously placed in synonymy with Chl. Buettneri Lindau, is a well-distinct species which exists, according to the specimens studied, only in Cameroon and Congo (Léopoldville)
 
-— Chlamydocardia subrhomboidea Lindau (Bot. Jahrb. 22 : 119, 1895, type : Preuss 1309, du Cameroun), mis à tort en synonymie avec Chl. Buettneri Lindau, est une espèce bien distincte qui n'existe, d'après les spécimens étudiés, qu'au Cameroun et au Congo (Léopoldville)
+Perennial herb, reaching approximately 30 cm in height, with cylindrical stem, finely hairy, glabrescent. Petioles 1-2 cm. Leaf blade ovate, 8-10 × 3-4 cm, acute at the base and acuminate at the apex with an elongate tip. Approximately 5 pairs of lateral nerves finely pubescent; especially below.
 
-Herbe vivace, atteignant 30 cm de hauteur environ, à tige cylindrique, finement poilue, glabrescente. Pétioles de 1-2 cm. Limbe des feuilles ovale, de 8-10 × 3-4 cm, aigu à la base et acuminé au sommet avec une pointe allongée. Environ 5 paires de nervures latérales finement pubescentes; surtout en dessous.
+Inflorescences spike-shaped, terminal, shorter than the leaves, with pubescent rachis; petiolate bracts, obtriangular, more or less cordate, tripartite, highly variable, 6 × 5 mm, ciliate, with glandular hairs, the lowest ovate, petiolate;
 
-Inflorescences en forme d'ép1, terminales, plus courtes que les feuilles, à rachis pubescent; bractées pétiolées, obtriangulaires, plus ou moins cordiformes, tripartites, très variables, de  $ 6 \times 5 $ mm, ciliées, à poils glanduleux, la plus inférieure ovale, pétiolée;
+bracteoles filiform-linear up to 9 mm long, ciliate with the same glandular hairs. Calyx 5-6 mm, with filiform-lanceolate sepals, very weakly ciliate, white, 2.5-6 mm long, accrescent after flowering. Corolla white, 6 mm × 1 mm, with upper lip erect, obtuse, two-toothed, 2 mm long; lower lip trilobed, 2 mm long. Stamens 1.5 mm, attached in the upper part of the corolla; anthers 1.5 mm, muticous. Disk low; ovary 1 mm; style 2.5 mm; stigma capitate.
 
-bractéoles filiformes linéaires longues jusqu'à 9 mm, ciliées des mêmes poils glanduleux. Calice de 5-6 mm, à sépales filiformes-lancéolées, très faiblement ciliés, blancs, de 2,5-6 mm de long, accrescents après la floraison. Corolle blanche, de 6 mm × 1 mm, à lèvre supérieure érigée, obtuse, à deux dents, longue de 2 mm; lèvre inférieure triboée, longue de 2 mm. Étamines de 1,5 mm, attachées dans la partie supérieure de la corolle; anthères de 1,5 mm, mutiques. Disque bas; ovaire de 1 mm; style de 2,5 mm; stigmate capituliforme.
-
-Fruit de 10 mm, acuminé, à partie inférieure en forme de stipe sur 5 mm, légèrement pubescent. Graines ruguleuses, d'environ 2 mm de diamètre.
+Fruit 10 mm, acuminate, with lower part stipitate for 5 mm, slightly pubescent. Seeds rugulose, approximately 2 mm in diameter.
 
 ## Type
 
@@ -39,9 +37,7 @@ Büttner 469 (B, holotype détruit)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté-d'Ivoire, Nigeria, Cameroun, Gabon.
+Ivory Coast, Nigeria, Cameroon, Gabon.
 
 ## Specimens examined
 

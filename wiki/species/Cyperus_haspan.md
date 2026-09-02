@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, nom corrigé en C. halpan L. par Kern (1974), mais correction rejetée par Kartesz & Gandhi (1992). Herbe annuelle ou vivace, sans ou avec un très court rhizome rampant et des tiges serrées ; tiges de 5‒50 cm × 0,5‒2,5 mm (mais souvent plus larges au niveau des gaines plutôt lâches), trigones, vertes, glabres. Feuille : gaine brun rougeâtre pâle à foncé ; limbe vert présent au moins sur quelques pousses, jusqu’à 20 cm de longueur et 1‒4 mm de largeur . Inflorescence en anthèle ouverte ou compacte, large de 2‒15 cm ; principaux rameaux longs de 1‒8 cm, portant un fascicule ressemblant à une petite ombelle, d’épillets digités ; prophylle tubuleux à la base de chaque rameau vert à brun clair ; bractée involucrale principale foliacée, longue de 1,5‒7 cm et généralement plus courte que l’inflorescence. Épillet linéaire–lancéolé, de 3‒12 × 1‒1,5 mm , brun rougeâtre clair ; glumes ovales, de 1,3‒1,6 mm , brunes, avec une marge plus pâle et une nervure centrale verte se prolongeant par un court mucron droit. Fleur habituellement à 3 étamines. Akène obovale à subsphérique, de 0,5‒0,6 × 0,3‒0,4 mm , blanchâtre devenant grisâtre et irrégulièrement tuberculé à maturité.
+, name corrected to C. halpan L. by Kern (1974), but correction rejected by Kartesz & Gandhi (1992). Annual or perennial herb, without or with a very short creeping rhizome and crowded stems; stems 5–50 cm × 0.5–2.5 mm (but often wider at the level of rather loose sheaths), trigonous, green, glabrous. Leaf: sheath pale to dark reddish-brown; blade green present at least on some shoots, up to 20 cm long and 1–4 mm wide. Inflorescence an open or compact anthela, 2–15 cm wide; main branches 1–8 cm long, bearing a fascicle resembling a small umbel of digitate spikelets; prophyll tubular at the base of each branch green to light brown; main involucral bract foliaceous, 1.5–7 cm long and generally shorter than the inflorescence. Spikelet linear-lanceolate, 3–12 × 1–1.5 mm, light reddish-brown; glumes ovate, 1.3–1.6 mm, brown, with a paler margin and a green central vein prolonged by a short straight mucro. Flower usually with 3 stamens. Achene obovate to subspherical, 0.5–0.6 × 0.3–0.4 mm, whitish becoming greyish and irregularly tuberculate at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales de l’Afrique et de l’Asie ; localement commune au Gabon, trouvée dans l’Estuaire, le Moyen-Ogooué, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Maritime, l’Ogooué-Lolo et le Woleu-Ntem (20 récoltes)
+widely distributed in the tropical regions of Africa and Asia; locally common in Gabon, found in Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Maritime, Ogooué-Lolo and Woleu-Ntem (20 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les marécages et à leur lisière, le long des fossés et dans d’autres habitats humides ; au Gabon, à 0‒700 m d’altitude, jusqu’à 2100 m en Afrique de l’Est
+in marshes and their margins, along ditches and in other wet habitats; in Gabon, 0–700 m altitude, up to 2100 m in East Africa
 
 ## Vernacular names
 

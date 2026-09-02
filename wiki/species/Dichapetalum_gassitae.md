@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+AUWP 86 (3): 5, 6, 17, 35–39 (1986). TYPE: Gabon, 50 km SE of Achouka, 0°17'S–11°55'E, Louis, Breteler & De Bruijn 761 (holo-, WAG).
 
-AUWP 86 (3) : 5, 6, 17, 35-39 (1986). TYPE : Gabon, 50 km au S.E. d'Achouka, 0°17'S-11°55'E, Louis, Breteler & De Bruijn 761 (holo-, WAG).
+Slender liane. Stem with phloem intrusions; lenticels scattered. Young and mature branchlets bearing long hispid pubescence mixed with short curled hairs.
 
-Liane grêle. Tige avec intrusions de phloème ; lenticelles éparses. Rameaux jeunes et âgés munis d'une longue pubescence hispide mêlée de courts poils frisés.
+Stipules subulate, caducous fairly early, 5–9 mm long; pubescence as on the branchlets.
 
-Stipules subulés assez tôt caduques, longues de 5-9 mm ; pubescence comme celle des rameaux.
+Leaves. Blade elliptic, ≈ 2 times longer than wide, 15–21 × 7–10 cm, base narrowed into 2 distinct pouches (bimarsupium) concealing all or part of the petiole on the upper face; acute acumen, 0.5–1 cm long; 7–9 pairs of primary secondary veins; hispid pubescence on both faces, generally mixed with short often curled hairs on the major primary and secondary veins and the margin; glands fairly small and scattered, present only on the lower face.
 
-Feuilles. Limbe elliptique, ≈ 2 fois plus long que large, 15-21 × 7-10 cm, base rétriécé en 2 poches nettes (bimarsupium) masquant tout ou partie du pétiole à la face supérieure ; acumen aigu, long de 0,5-1 cm ; nervures II principales 7-9 paires ; pubescence hispide sur les deux faces, en général mêlée de poils courts souvent frisés sur les grandes nervures I et II et la marge ; glandes assez petites et dispersées, seulement présentes à la face inférieure.
+Inflorescences 12–34-flowered, velvety, subsessile, compact, ramifications indistinct or sometimes only one visible or else 2–4 distinct axes; basal part often mixed with long hispid hairs. Peduncle < 4 mm long. Bracts and bracteoles triangular, 1–6 mm long; external face velvety, internal puberulent. Pedicel < 5 mm, velvety, upper part absent.
 
-Inflorescences 12-34-flores, veloutées, subsessiles, compactes, ramifications indistinctes ou parfois une seule visible ou encore 2-4 axes nets, ; partie basale souvent mêlée de longs poils hispides. Pédoncule long de < 4 mm. Bractées et bractéoles triangulaires, longues de 1-6 mm ; face externe veloutée, interne pubérulente. Pédicelle < 5 mm, velouté, partie supérieure nulle.
+Flowers 7–8 mm long. Sepals erect, concave, ovate-elliptic, 5.5–6 × 4 mm; apex subacute; external face ± ribbed and velvety, internal tomentellose. Petals erect, shortly bilobed; base fused to the filaments for 0.5–1 mm, oblong 6.5–7 mm, split for 0.5 mm; sparse pubescence on both faces of the upper part; lobes concave. Stamens erect as long as the petals or somewhat shorter, glabrous; anthers 1 mm long, connective distinct. Staminodes subquadrate, $ 0.5 \times 0.5 $ mm, fairly thick, glabrous. Pistil 3-merous, 7 mm long; ovary 3-locular velvety; style glabrous with 3 short lobes bearing large reniform stigmas.
 
-Fleurs longues de 7-8 mm. Sépales dressés, concaves, ovés-elliptiques, 5,5-6 × 4 mm ; sommet subaigu ; face externe ± côtelée et veloutée, l'interne tomentelleuse. Pétales dressés, courtemment bilobés ; base soudée aux filets sur 0,5-1 mm, oblongs de 6,5-7 mm, fendus sur 0,5 mm ; pubescence éparse sur les deux faces de la partie supérieure ;
-
-lobes concaves. Étamines dressées aussi longues que les pétales ou un peu plus courtes, glabres ; anthères longues de 1 mm, connectif distinct. Staminodes subcarrés,  $ 0.5 \times 0.5 $ mm, assez épais, glabres. Pistil 3-mère, long de 7 mm ; ovaire 3-loculaire velouté ; style glabre avec 3 lobes courts portant de grands stigmates réniformes.
-
-Fruits inconnus. – Pl. 23, p. 93.
+Fruits unknown. – Pl. 23, p. 93.
 
 ## Type
 
@@ -41,15 +37,11 @@ Louis & al. 761, 50 km au S.E. d'Achouka, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-un seule récolte du Gabon (le type)
+a single collection from Gabon (the type)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombrophilous forests
 
 ## Specimens examined
 

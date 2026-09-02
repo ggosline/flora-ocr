@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Isis (Oken) 21 : 269 (1828). Scirpus variegatus Poir. in Lam., Encycl. 6 : 749 (1804). Herbe vivace, stolonifère, avec des tiges en petites touffes, mais avec parfois un épais rhizome dressé chez les plantes âgées ; stolons d’environ 30 cm × 1,5‒2,5 mm, jaune paille, entrenœuds à écailles gris noir, longues de 5‒15 mm ; tiges d’apparence très variable, de 25‒90 cm × 1‒5 mm, arrondies, quadrangulaires, à angles arrondis ou plus distinctement triangulaires mais non ailées , avec des stries longitudinales ± distinctes. Feuille : souvent 3 gaines au-dessus du prophylle, se terminant par des lobes triangulaires grisâtres. Inflorescence en épillet unique ; bractées vertes en bas et grisâtres au-dessus, beaucoup plus courtes que les glumes. Épillet cylindrique, de 10‒55 × 2,5‒5 mm ; glumes longues de 3‒5 mm, sommet arrondi mais souvent très effiloché, violacées avec souvent une large zone centrale verdâtre et une marge translucide dans la partie supérieure, nervure centrale peu distincte. Fleur : périanthe ayant habituellement 7‒8 soies rougeâtres, beaucoup plus longues que l’akène, densément garnies de dents épineuses recourbées, parfois réduites ou absentes ; étamines 3 ; style à 2‒3 branches, variable sur la même plante. Akène biconvexe et presque urcéolé , de 1.5‒1,9 × 1,3‒1,5 mm, blanchâtre à jaunâtre devenant brunâtre à maturité, surface finement côtelée et réticulée entre les côtes (plus visible sur les akènes avant maturité) ; appendice plus sombre, conique.
+Isis (Oken) 21 : 269 (1828). Scirpus variegatus Poir. in Lam., Encycl. 6 : 749 (1804). Perennial herb, stoloniferous, with stems in small tufts, but sometimes with a thick erect rhizome in older plants; stolons approximately 30 cm × 1.5–2.5 mm, straw-coloured, internodes with grey-black scales, 5–15 mm long; stems of very variable appearance, 25–90 cm × 1–5 mm, rounded, quadrangular, with rounded angles or more distinctly triangular but not winged, with ± distinct longitudinal striae. Leaf: often 3 sheaths above the prophyll, terminating in greyish triangular lobes. Inflorescence a single spikelet; bracts green below and greyish above, much shorter than the glumes. Spikelet cylindric, 10–55 × 2.5–5 mm; glumes 3–5 mm long, apex rounded but often very frayed, violaceous with often a broad central greenish zone and a translucent margin in the upper part, central nerve weakly distinct. Flower: perianth usually with 7–8 reddish bristles, much longer than the achene, densely set with curved spinose teeth, sometimes reduced or absent; stamens 3; style with 2–3 branches, variable on the same plant. Achene biconvex and almost urceolate, 1.5–1.9 × 1.3–1.5 mm, whitish to yellowish becoming brownish at maturity, surface finely ribbed and reticulate between the ribs (more visible on immature achenes); appendage darker, conical.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales de l’Afrique, de l’Amérique et de l’Asie ; rare au Gabon, trouvée seulement dans le Haut-Ogooué et l’Ogooué-Ivindo (2 récoltes)
+Widely distributed in tropical regions of Africa, America and Asia; rare in Gabon, found only in Haut-Ogooué and Ogooué-Ivindo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in humid zones of swamps such as pools and muddy holes; in Gabon, around 100–300 m altitude, up to 1200 m in East Africa. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
-dans les zones humides des marécages tels que les mares et les trous bourbeux ; au Gabon, vers 100‒300 m d’altitude, jusqu’à 1200 m en Afrique de l’Est. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
-
-Section de la tige. – C. Épillet. – D. Glume. – E. – B. Base de l’inflorescence montrant bractée, Fruit avec style, filets et segments du périanthe. prophylle et base du pédoncule. – C. Épillet. – D. Dessin original par Richard W. Haines ©. Glume. – E. Étamines. – F. Jeune fruit avec filet persistant et style. – G. Fruit. Dessin original par Richard W. Haines ©.
+Stem section. – C. Spikelet. – D. Glume. – E. – B. Base of the inflorescence showing bract, Fruit with style, filaments and perianth segments. prophyll and base of the peduncle. – C. Spikelet. – D. Original drawing by Richard W. Haines ©. Glume. – E. Stamens. – F. Young fruit with persistent filament and style. – G. Fruit. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

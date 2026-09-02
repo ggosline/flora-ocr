@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (1) : 308 (1915); HAUM., BJBB 21 : 174 (1951); WHITE, BJBB 46 : 289 (1976).
 
 — Hirtella conrauana (ENGL.) A. CHEV., Bull. Mus. Nat. Hist. Nat. Paris, ser. 2, 3 : 194 (1931); KEAY, FWTA, ed. 2, 1 (2) : 430 (1958).
 
-Arbuste atteignant 10-12 m de hauteur, capable de rejeter de souche. Rameaux éparsement garnis de taches lenticellaires liègeuses irrégulières. Stipules remarquables, dissymétriquement ovales, cordées à la base d'un côté et arrondies de l'autre, aiguës ou obtuses et normalement apiculées au sommet, atteignant jusqu'à 20-30 × 35-40 mm de hauteur totale, parfois subnulles (2 × 6 mm) vers la base de rameaux fleuris portant vers l'extrémité des stipules très développées; nervation flabellée et au plus 2 paires de nervures latérales au long de la nervure médiane de la stipule, toutes nervures anastomosées en boucles près de la marge. Pétiole atteignant 15 mm, transversalement rugueux dessous. Limbe ovale-elliptique, atteignant 11 × 22 cm, parfois elliptique oblong (10-12 × 25 cm); base largement aiguë, obtuse ou arrondie mais décurrente sur le haut du pétiole; sommet aigu ou obtus souvent peu nettement acuminé; nervures latérales 6-8 paires; limbe glabre; quelques glandes elliptiques ou circulaires de part et d'autre de la nervure médiane vers la base du limbe dessous, parfois quelques petites glandes circulaires sous l'acumen.
+Shrub reaching 10–12 m in height, capable of sprouting from the base. Branches sparsely furnished with irregular cork-like lenticellate spots. Stipules remarkable, asymmetrically ovate, cordate at the base on one side and rounded on the other, acute or obtuse and normally apiculate at the apex, reaching up to 20–30 × 35–40 mm in total height, sometimes subnull (2 × 6 mm) towards the base of flowering branches bearing very well-developed stipules at the tip; venation flabellate and at most 2 pairs of lateral veins along the midvein of the stipule, all veins anastomosing in loops near the margin. Petiole reaching 15 mm, transversely wrinkled beneath. Blade ovate-elliptic, reaching 11 × 22 cm, sometimes elliptic oblong (10–12 × 25 cm); base broadly acute, obtuse or rounded but decurrent on the upper petiole; apex acute or obtuse often scarcely distinctly acuminate; lateral veins 6–8 pairs; blade glabrous; a few elliptic or circular glands on either side of the midvein towards the base of the blade beneath, sometimes a few small circular glands under the acumen.
 
-Panicules amples, coniques, atteignant 30 cm de hauteur et 35 cm de largeur, multiflores, glabres, terminales mais comprenant des inflorescences axillaires dont les inférieures sont garnies de feuilles normales et les supérieures de feuilles avortées; axes, anguleux in sicco, plusieurs fois ramifiés avec bractées foliacées de moins en moins développées, les axes ultimes
+Panicles ample, conical, reaching 30 cm in height and 35 cm in width, multiflorous, glabrous, terminal but including axillary inflorescences of which the lower ones are furnished with normal leaves and the upper ones with aborted leaves; axes, angular when dry, branched several times with foliaceous bracts becoming progressively less developed, the ultimate axes bearing cymules of 3–5 flowers in general and furnished at the base with triangular bracts, 2.5 × 3 mm, broadly acute at the apex, with ± parallel longitudinal veins little branched and with 2 large crater-shaped lateral glands towards the base often surmounted higher up by a few aborted glands at least on one of the margins; bracteoles, at the base of the pedicels, similar, not exceeding 1 × 1 mm and often less, without glands; pedicel 4–5 mm, articulate 3–4 mm below the base of the receptacle; receptacle white, obliquely campanulate curved, 6–7 mm high, 3.5–4 mm wide at the apex, furnished internally only beneath the ovary with a dense tuft of long multicellular hispid hairs (2 mm) directed downwards; sepals white, 2.5–4 mm in height, obtuse at the apex, with ciliolate margin and briefly tomentellous internally; petals white ± purplish, 2–4 mm in height (7–8 mm? fide HAUMAN, l.c. : 174; 2.5–3 times longer than the petals? fide ENGLER, l.c. : 226); stamens 7 united at the base, curved, 4–6 mm long, with pale violet filaments; staminodial tongue dark violet, 3 mm high, curved outward, irregularly ± 7-crenate at the apex, furnished internally at the base with hispid hairs directed downwards; ovary pink, ellipsoid erect, 1 × 1.5 mm, glabrous; style pale violet curved, 3–5 mm long, hairy at the base.
 
-portant des cymules de 3-5 fleurs en général et garnis à la base de bractées triangulaires,  $ 2.5 \times 3 $ mm, largement aiguës au sommet, avec nervures longitudinales ± parallèles peu ramifiées et avec 2 grosses glandes latérales cratéri-formes vers la base souvent surmontées plus haut de quelques glandes avortées au moins sur l'une des marges; bractéoles, à la base des pédi-celles, semblables, ne dépassant pas  $ 1 \times 1 $ mm et souvent moins, sans glandes; pédicelle de 4-5 mm, articulé à 3-4 mm sous la base du réceptacle; réceptacle blanc, obliquement campanulé courbé, haut de 6-7 mm, large de 3,5-4 mm au sommet, garni intérieurement seulement sous l'ovaire d'une touffe dense de longs poils hispides multicellulaires (2 mm) dirigés vers le bas; sépales blancs, 2,5-4 mm de hauteur, obtus au sommet, à marge ciliolée et brièvement tomentelleux intérieurement; pétales blancs ± violacés, 2-4 mm de hauteur (7-8 mm? fide HAUMAN, l.c. : 174; 2,5-3 fois plus longs que les pétales? fide ENGLER, l.c. : 226); étamines 7 souduées à la base, courbées, longues de 4-6 mm, à filets violet pâle; languette stami-nodiale violet foncé, haute de 3 mm, courbée vers l'extérieur, irrégulièrement ± 7-crénelée au sommet, garnie intérieurement à la base de poils hispides dirigés vers le bas; ovaire rose, ellipsoïde dressé,  $ 1 \times 1,5 $ mm, glabre; style violet pâle courbé, long de 3-5 mm, à base poilue.
-
-Infrutescence inconnue. Drupe ovoïde aplatie, obtuse aux deux extrémités,  $ 20 \times 35 \times 55 $ mm in sicco; (épicarpe et mésocarpe?), endocarpe mince papyracé in sicco avec soies enchevêtrées intérieurement, celles-ci également sur le tégument séminal sillonné longitudinalement et soudé aux cotylédons lignifiés. — PL. 23, p. 81.
+Infructescence unknown. Drupe ovoid flattened, obtuse at both extremities, 20 × 35 × 55 mm when dry; (epicarp and mesocarp?), endocarp thin papyraceous when dry with entangled bristles internally, these likewise on the seed coat longitudinally furrowed and fused to the lignified cotyledons. — PL. 23, p. 81.
 
 ## Type
 
@@ -37,17 +33,13 @@ Conrau 65, Cameroun (holo-, B delet.; iso-, E!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Magnistipula conrauana Engl. n'est connue que des montagnes occidentales du Cameroun, vers 1000-1500 m.
+Magnistipula conrauana Engl. is known only from the western mountains of Cameroon, around 1000–1500 m.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Parfois plantée dans les haies de clôture
+Sometimes planted in hedgerows
 
 ## Vernacular names
 

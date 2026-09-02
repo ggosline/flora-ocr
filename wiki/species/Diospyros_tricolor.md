@@ -25,9 +25,9 @@ tags: [species]
 
 ## Full treatment
 
-35.Diospyros tricolor (Schum.& Thonn.） Hiern
+35.Diospyros tricolor (Schum.& Thonn.) Hiern
 
-Monogr.Eben.,Trans.Camb.Phil.Soc.12:183,tab.5,r(1873)；FTA3： 521 (1877).— GURKE,Bot.Jahrb.43:203,tab.2 (1909).— F.WHITE, FWTA ed. 2,2:12 (1963).
+Monogr.Eben.,Trans.Camb.Phil.Soc.12:183,tab.5,r(1873);FTA3: 521 (1877).— GURKE,Bot.Jahrb.43:203,tab.2 (1909).— F.WHITE, FWTA ed. 2,2:12 (1963).
 
 Noltia tricolor ScHUM. et THoNN., Beskr. Guin. Pl. : 189 (1827), in Kong. Danske Vidensk. Sel. Phys.og Mathem. Skr.3 :2o9 (1828).
 

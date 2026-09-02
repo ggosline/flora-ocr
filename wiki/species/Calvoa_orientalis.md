@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Soft herb, ± fleshy, or subwoody at the base, branched, erect up to 0.50 (1) m, sometimes prostrate and rooting; young branches subangular, furfuraceous. Leaves with slender, furfuraceous petiole, 1 to 5 cm long; blade broadly ovate to ovate-lanceolate, or elliptic, ± 3 × 5 cm, base truncate and abruptly attenuate on the petiole, or broadly wedge-shaped, apex acute to vaguely acuminate; glabrescent or puberulent with a few very short and scattered hairs above; furfuraceous below, especially on the veins; 3 (5) veins, rather slender, moderately prominent below, the transverse ones slender, spaced; margins variably entire, sinuate, crenate or serrate-ciliate.
 
-Herbe molle, ± charnue, ou subligneuse à la base, ramifiée, dressée jusqu'à 0,50 (1) m, parfois couchée et radicante; rameaux jeunes subangulaires, furfuracés. Feuilles à pétiole grêle, furfuracé, long de 1 à 5 cm; limbe largement ovale à ovale-lancé, ou elliptique, ± 3 × 5 cm, base tronquée et brusquement atténuée sur le pétiole, ou largement en coin, sommet aigu à vaguement acuminé; glabrescent ou pubérulent avec quelques soies très courtes et éparses dessus; furfuracé dessous, surtout sur les nervures; 3 (5) nervures, plutôt ténues, modérément saillantes dessous, les transversales ténues, espacées; marges variablement entières, sinuées, crénelées ou serretées-ciliées.
+Cymes erect, simple or bifurcate, up to 12 cm and 12–15-flowered on adult plants; sometimes lateral by sympodial overtopping. Flowers subsessile or on a robust pedicel ± 0.5 mm; hypanthium obconic, ± 4 × 3 mm, puberulent; calyx sinuate, lobes dentiform to triangular, mucronate. Petals mauve, obovate-asymmetric, hooked, ± 8 × 12 mm. Stamens subequal to anther ± 2 mm; dorsal connective ± 0.4 mm, anterior appendage ± 1 mm, oblong, margin entire or erose, subulate spur; filament ± 4 mm. Ovary adnate to mid-height; locules intrude into the corona; style ± 4 mm.
 
-Cymes dressées, simples ou bifurquées, jusqu'à 12 cm et 12-15-flores sur les pieds adultes; parfois latérales par dépassement sympodial. Fleurs subsessiles ou sur un pédicelle robuste ± 0,5 mm; hypanthe obconique, ± 4 × 3 mm, pubérulent; calice sinué, lobes dentiformes à triangulaires, mucronulés. Pétales mauves, obovales-dissymétriques, oncinés, ± 8 × 12 mm. Étamines subégales à anthère ± 2 mm; pédoconnectif ± 0,4 mm, appendice antérieur ± 1 mm, oblong, marge entière ou érodée, éperon subulé; filet ± 4 mm. Ovaire adhérent sur la demi-hauteur; loges intruses dans la couronne; style ± 4 mm.
-
-Fruit très largement obconique et 5-angulaire par la couronne accres-cente doublant la hauteur de l'hypanthe; ± 7 mm de diamètre au sommet pour une hauteur de ± 5 mm; hypanthe campanulé, finement 10-côtelé, côtes intersépalaires + fines; couronne évasée par les lobes rédupliqués. Graines 0,8 mm, cunées, finement papilleuses, raphé latéral canaliculé (sur le sec), à peine rostré au sommet, funicule court, obtus.
+Fruit very broadly obconic and 5-angular by the accrescent corona doubling the height of the hypanthium; ± 7 mm in diameter at the apex for a height of ± 5 mm; hypanthium campanulate, finely 10-ribbed, intersepal ribs even finer; corona flared by the reduplicate lobes. Seeds 0.8 mm, cuneate, finely papillose, lateral raphé channeled (when dry), scarcely beaked at the apex, funicle short, obtuse.
 
 ## Type
 
@@ -31,9 +29,7 @@ Sthulmann 994, Holst 4278, Tanzanie (B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce surtout orientale; habitats subforestiers : lisières, clairières, sentiers, etc., parfois épiphyte; mais ne s'étend pas communément dans les plantations et séries postculturales. Immédiatement reconnaissable à ses feuilles normalement serretées et ses fruits stelliformes vus en plan.
+Species chiefly oriental; subforest habitats: margins, clearings, paths, etc., sometimes epiphytic; but does not extend commonly in plantations and post-cultural series. Immediately recognizable by its normally serrate leaves and its stelliform fruits viewed in plan.
 
 ## Specimens examined
 

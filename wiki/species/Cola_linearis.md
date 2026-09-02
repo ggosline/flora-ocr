@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 PELLEGR. Sterc. Gab., Mém. S. B. Fr.: 37 (1950-1951).
 
-Cette espèce dont manquent les fleurs, est proche de la suivante par l'aspect de ses bourgeons, rameaux et feuilles, et par la position subterminale de ses fruits. Follicules (2 ou plus?) remarquables par leur longueur, indéhiscents, de  $ 24 \times 1.5 $ cm, à extrémités très longuement atténuées et contenant 5 graines d'env. 25 mm de long.
+This species, lacking flowers, is close to the following one by the appearance of its buds, branches and leaves, and by the subter­minal position of its fruits. Follicles (2 or more?) remarkable for their length, indehiscent, 24 × 1.5 cm, with very long attenuated extremities and containing 5 seeds approx. 25 mm long.
 
-Indication douteuse, notée par le récolteur : « produirait un poison violent ».
+Doubtful indication, noted by the collector: "would produce a violent poison".
 
-Seul matériel étudié, R. P. Trilles : 50, Monts de Cristal (fr. mai) (P.).
+Only material studied, R. P. Trilles: 50, Monts de Cristal (fr. May) (P.).
 
 ## Notes
 

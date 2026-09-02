@@ -77,6 +77,32 @@ RULE_RE = re.compile(r"^-{3,}$")
 # the page, so the marker is dropped and the text kept as prose.
 INNER_HEADING_RE = re.compile(r"^#{1,6}\s*")
 
+# Volume back matter. The last treatment in a liteparse volume runs to the end
+# of the file, so it swallows the bibliography, the index and the OCR debris
+# after it: Rhizophora racemosa carried 27 KB of it, and 19 pages were affected.
+# Worse, that material was being sent to the translator.
+#
+# Three signatures, any one of which ends the treatment:
+INDEX_LEADER_RE = re.compile(r"\.{4,}\s*\d")          # "Aloe ......... 2, 3"
+BIB_ENTRY_RE = re.compile(                              # "KEAY R.W.J. 1953."
+    r"[A-Z][A-Z\-']{2,}(?:\s+[A-Z]\.){1,4}\s*\d{4}[a-z]?\.")
+BIB_HEADING_RE = re.compile(r"^(BIBLIOGRAPHIE|INDEX|R[ÉE]F[ÉE]RENCES)\b", re.I)
+
+
+def _is_back_matter(para: str) -> bool:
+    if BIB_HEADING_RE.match(para.strip()):
+        return True
+    if len(INDEX_LEADER_RE.findall(para)) >= 3:
+        return True
+    if len(BIB_ENTRY_RE.findall(para)) >= 2:
+        return True
+    # OCR debris: a long run that is mostly not letters
+    if len(para) > 200:
+        letters = sum(c.isalpha() or c.isspace() for c in para)
+        if letters / len(para) < 0.6:
+            return True
+    return False
+
 # A vernacular name standing alone under the heading: a short line, no digits,
 # no citation punctuation.
 VERNACULAR_RE = re.compile(r"^[^\d(),.:;]{2,40}$")
@@ -157,7 +183,11 @@ def parse_block(text: str) -> dict:
     body = "\n".join(INNER_HEADING_RE.sub("", line)
                      for line in clean(body).split("\n")
                      if not RULE_RE.match(line.strip()))
-    paragraphs = [_join(p) for p in _paragraph_split(body)]
+    paragraphs = []
+    for para in (_join(p) for p in _paragraph_split(body)):
+        if _is_back_matter(para):
+            break               # the treatment ends where the volume's does
+        paragraphs.append(para)
 
     synonyms: list[str] = []
     description: list[str] = []

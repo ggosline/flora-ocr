@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 20
 
-Planche 20
-
-Herbe grimpante; tige longue de 2–5 m, densément soyeuse à poils blancs. Vrilles multifides. Feuille: pétiole robuste, 8–19 cm, soyeux; limbe de contour largement ovale à ovale-orbiculaire, 12–25 × 20–30 cm, 5-anguleux à 5-lobé, à lobes triangulaires, à poils soyeux jaune-blanc et velouté dessus. Fleur mâle : pédicelle jusqu'à 16 cm; réceptacle campanulé, long de 5–6 mm; sépales linéaires, longs de 1–1,5 cm, pubescents, à sommet élargis et foliacé; corolle campanulée, à lobes c. 7-12 × 6 cm, à marge révolutée, rugueuse, à sommet aigu; étamines à filet de 5–8 mm, glanduleux, anthère longue de ±15 mm. Fleur femelle : pédicelle jusqu'à 3,5 cm; style court, à stigmate élargi, 2-lobé. Fruit sur pédicelle robuste, anguleux, long de 5–7 cm, fortement élargi au sommet, variable en forme, taille et couleur. Graine ovale à oblongue, 10–15 × 7–10 mm, gris-blanc, à marge épaissie.
+Climbing herb; stem 2–5 m long, densely silky with white hairs. Tendrils multifid. Leaf: petiole robust, 8–19 cm, silky; lamina broadly ovate to ovate-orbicular in outline, 12–25 × 20–30 cm, 5-angled to 5-lobed, with triangular lobes, silky yellow-white hairs and velvety above. Male flower: pedicel up to 16 cm; receptacle campanulate, 5–6 mm long; sepals linear, 1–1.5 cm long, pubescent, with enlarged foliaceous apex; corolla campanulate, with lobes c. 7–12 × 6 cm, with revolute, rugose margin, acute at apex; stamens with filament 5–8 mm, glandular, anther ±15 mm long. Female flower: pedicel up to 3.5 cm; style short, with enlarged 2-lobed stigma. Fruit on robust, angular pedicel, 5–7 cm long, strongly enlarged at apex, variable in shape, size and colour. Seed ovate to oblong, 10–15 × 7–10 mm, greyish-white, with thickened margin.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l'Amérique, aujourd'hui largement cultivé dans les zones tropicales et tempérées chaudes du monde entier ; probablement cultivé dans tous les pays d'Afrique tropicale, mais davantage en Afrique australe qu'en Afrique de l'Est et de l'Ouest ; au Gabon, cultivé et parfois échappé
+Native to America, today widely cultivated in tropical and warm temperate zones throughout the world; probably cultivated in all tropical African countries, but more in southern Africa than in East and West Africa; in Gabon, cultivated and sometimes escaped
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en culture; l'espèce la plus tolérante à la chaleur et la plus commune en Afrique tropicale; à 0–1800 m d'altitude
+In cultivation; the most heat-tolerant species and most common in tropical Africa; at 0–1800 m altitude
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ courge musquée, courge muscade, giraumon, sucrine (fr.); musk pumpkin, musky go
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Usage: C. moschata est un légume utilisé aussi bien pour ses fruits que pour ses feuilles; les fleurs sont également consommées. En Afrique centrale et de l'Ouest, C. moschata est cultivé surtout pour ses graines mûres. Celles-ci sont d'abord grillées, décortiquées, puis écrasées en une pâte consommée avec le plat principal. Les graines grillées avec ou sans leur enveloppe sont aussi salées et mangées comme à l'apéritif.
+Uses: C. moschata is a vegetable used for both its fruits and leaves; the flowers are also consumed. In central and West Africa, C. moschata is cultivated mainly for its mature seeds. These are first roasted, hulled, then ground into a paste consumed with the main dish. Roasted seeds with or without their husk are also salted and eaten as an appetizer.
 
 ## Bibliography
 

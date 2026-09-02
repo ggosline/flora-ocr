@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Humb., Bonpl. & Kunth, Nov. gen. sp . 1 : 204 (1816). C. uncinatus Poir. in Lam., Encycl. 7 : 247 (1806). Herbe annuelle, grêle, avec un système racinaire peu développé ; tiges solitaires ou groupées, de 3‒15 cm × 0,2‒0,5 mm, trigones, glabres, feuillées seulement sur la partie inférieure. Feuille : gaine brun rougeâtre à pourpre, toutes (sauf 1 ou 2 inférieures) avec un limbe bien développé ; limbe de 1‒12 cm × 0,2‒1 mm , plan ou enroulé, légèrement scabre près de l’extrémité. Inflorescence en fascicule sessile digité d’épillets ou plus souvent, en anthèle lâche, jusqu’à 8 cm de largeur , formée d’un fascicule sessile d’épillets sous-tendu par 1‒5 fascicules sur des rayons longs de 0,5‒8 cm ; bractées involucrales 1‒7, foliacées à filiformes, étalées, la plus grande de 1‒12 cm × 0,3‒0,7 mm, dépassant l’inflorescence. Épillet linéaire, de 4‒12 × 1,3‒2 mm (2‒3 avec les mucrons), hérissé, à 8‒25 fleurs ; glumes elliptiques à tronquées, longues de 1,4‒2,2 mm (mucron de 0,4‒0,8 mm compris), fortement trinervées, brun rougeâtre avec la nervure centrale verte prolongée par un mucron recourbé . Fleur à 1‒3 étamines ; style à 3 longues branches. Akène obovoïde à ellipsoïde, de 0,6‒0,8 × 0,3‒0,4 mm , brun rougeâtre avec parfois les angles gris foncé, à surface couverte de papilles en rangées longitudinales.
+in Humb., Bonpl. & Kunth, Nov. gen. sp . 1 : 204 (1816). C. uncinatus Poir. in Lam., Encycl. 7 : 247 (1806). Annual herb, slender, with a poorly developed root system; stems solitary or clustered, 3–15 cm × 0.2–0.5 mm, trigonous, glabrous, leafy only on the lower part. Leaf: sheath reddish-brown to purple, all (except 1 or 2 lower ones) with a well-developed blade; blade 1–12 cm × 0.2–1 mm, plane or enrolled, slightly scabrous near the apex. Inflorescence in a sessile digitate fascicle of spikelets or more often in a loose anthela, up to 8 cm wide, formed of a sessile fascicle of spikelets subtended by 1–5 fascicles on rays 0.5–8 cm long; involucral bracts 1–7, foliaceous to filiform, spreading, the largest 1–12 cm × 0.3–0.7 mm, exceeding the inflorescence. Spikelet linear, 4–12 × 1.3–2 mm (2–3 with the mucros), hispid, with 8–25 flowers; glumes elliptic to truncate, 1.4–2.2 mm long (mucro 0.4–0.8 mm included), strongly trinervate, reddish-brown with the central nerve green and prolonged by a curved mucro. Flower with 1–3 stamens; style with 3 long branches. Achene obovoid to ellipsoid, 0.6–0.8 × 0.3–0.4 mm, reddish-brown sometimes with dark grey angles, surface covered with papillae in longitudinal rows.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue, presque pantropicale ; rare au Gabon ou méconnue, trouvée seulement dans la Nyanga et l’Ogooué-Maritime
+widely distributed, almost pantropical; rare in Gabon or poorly known, found only in Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les habitats saisonnièrement humides, prairies, savanes, zones boisées, en marge des mares et des marais, aussi dans les pelouses ; au Gabon, à 0‒200 m d’altitude, jusqu’à 1500 m ailleurs
+in seasonally wet habitats, grasslands, savannas, wooded areas, on the margins of ponds and marshes, also in grasslands; in Gabon, at 0–200 m altitude, up to 1500 m elsewhere
 
 ## Vernacular names
 

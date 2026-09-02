@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — L., Sp. 2 : 1063 (1753). — Tard., Mém. IFAN 28 : 22, pl. 1, f. 2 (1953). = Ophioglossum vulgatum var. reticulatum (L.) Luerssen, Journ. Mus. Godefr., 8 : 18, t. 15, f. 115-118, t. 16, f. 128-130 (1875).
 
-Plante de 5-30 cm de haut, à rhizome dressé, court, portant pendant une saison une, rarement plusieurs, feuilles. Tige commune de 3-16 cm de long, limbe long de 1,5 cm sur 1,2-5, sessile ou à pétiole long de 1 cm, membraneux, cordé, ovale ou orbiculaire, souvent subréniforme, à base cordée ou tronquée, extrémité obtuse ou arrondie. Nervation diffuse, formant des aréoles de 0,5 à 1 cm de long, contenant des nervilles secondaires contournées. Fronde fertile à pétiole long de 5-18 cm; épi long de 1,5-5 cm; 17-45 pairs de sporanges. Spores tétraédriques, plus ou moins arrondies, incolores, portant des épaississements réticulés.
+Plant 5-30 cm tall, with an erect, short rhizome bearing during one season one, rarely several, leaves. Common stem 3-16 cm long, lamina 1.5 cm long by 1.2-5 wide, sessile or with petiole 1 cm long, membranous, cordate, ovate or orbicular, often subreniform, with cordate or truncate base, obtuse or rounded apex. Venation diffuse, forming areoles 0.5 to 1 cm long, containing contorted secondary venules. Fertile frond with petiole 5-18 cm long; spike 1.5-5 cm long; 17-45 pairs of sporangia. Spores tetrahedral, more or less rounded, colourless, bearing reticulate thickenings.
 
 ## Type
 
@@ -29,11 +27,9 @@ Linné cite, dans Tractatus de filicibus americanus (1705), la planche 163 de Pl
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pantropical. In Africa: from Sudan to Middle Congo.
 
-Pantropical. En Afrique : du Soudan au Moyen Congo.
-
-Sur sol humide et sableux, bordure des chemins éclairés : forme des petites taches pures.
+On moist and sandy soil, edges of sunlit paths: forms small pure patches.
 
 ## Specimens examined
 

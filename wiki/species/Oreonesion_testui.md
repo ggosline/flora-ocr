@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia, sér. 2, 5(2) : 272 (1965). Herbe de 20–100 cm de hauteur ; tige coriace . Feuille : limbe étroitement elliptique, 10–50 × 3–18 mm, base obtuse, sommet aigu, charnu, 5-nervé dès la base . Inflorescence : bractées très réduites, parfois celles de la partie externe de la cyme plus développées. Fleur : pédicelle 1–2 mm ; calice 4–5 mm de longueur, violacé, à tube 3–3,5 mm de longueur , lobes ± triangulaires, 1–2 mm de longueur, zone ailée l–2 mm de longueur , sommet aigu à marge hyaline ; corolle 8–8,5 mm de longueur, blanche, avec des raies violettes , à tube de ± 5 mm de longueur, lobes triangulaires, 3–3,5 mm de longueur, sommet aigu ; étamines à filet de ± 2 mm, anthère ± 1,5 mm de longueur ; ovaire obovoïde, comprimé ; style 5–8 mm, exsert. Fruit ± 4 × 2 mm, aplati latéralement, avec une nervation proéminente . Graine 0,4–0,5 mm de diamètre.
+Adansonia, ser. 2, 5(2): 272 (1965). Herb 20–100 cm tall; stem coriaceous. Leaf: blade narrowly elliptic, 10–50 × 3–18 mm, base obtuse, apex acute, fleshy, 5-nerved from the base. Inflorescence: bracts very reduced, sometimes those of the outer part of the cyme more developed. Flower: pedicel 1–2 mm; calyx 4–5 mm long, violaceous, with tube 3–3.5 mm long, lobes ± triangular, 1–2 mm long, winged zone 1–2 mm long, apex acute to hyaline margin; corolla 8–8.5 mm long, white, with purple lines, with tube ± 5 mm long, lobes triangular, 3–3.5 mm long, apex acute; stamens with filament ± 2 mm, anther ± 1.5 mm long; ovary obovoid, compressed; style 5–8 mm, exsert. Fruit ± 4 × 2 mm, flattened laterally, with prominent venation. Seed 0.4–0.5 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale et Gabon ; au Gabon connu du Woleu-Ntem et de l’Ogooué-Ivindo
+Equatorial Guinea and Gabon; in Gabon known from Woleu-Ntem and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dalles rocheuses et pelouses des inselbergs ; entre 450 et 750 m d’altitude. B : Raynal (1965), Vande weghe et al. (2016). i B liographie
+rocky pavements and grasslands of inselbergs; between 450 and 750 m altitude. B: Raynal (1965), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

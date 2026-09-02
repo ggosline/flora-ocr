@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 15 cm de hauteur. Feuille peltée ; pétiole de 2,5–21 cm, hirsute ; limbe ± étalé sur le frais, non bullé, symétrique ou peu asymétrique, circulaire ou largement elliptique à elliptique-ovale , 4,5–10,5 × 3–9 cm, sommet arrondi à aigu, marge crénelée à denticulée ou presque entière , face supérieure éparsément à densément munie de poils longs. Inflorescence : pédoncule 3,5–5,5 cm, avec 2 fleurs ♂ et 1 fleur ♀ à tépales jaunes ; bractées 2,5–6 mm de longueur. Fleur ♂ : tépales 9,5–12 × 8,5–15 mm ; androcée à 13–23 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 1 mm ; tépales 11–15 × 10–13 mm ; ovaire (ailes incluses) très largement obtriangulaire, 3,5–5 × 4–9 mm, muni des poils longs, à 3 ailes petites très largement obtriangulaires à obtriangulaires très déprimés, 1,5–2,5 mm de largeur ; styles 3. Fruit comme l’ovaire ; rostre jusqu’à 3 mm.
+Plant reaching 15 cm in height. Leaf peltate; petiole 2.5–21 cm, hirsute; blade ± spreading when fresh, not bullate, symmetric or slightly asymmetric, circular or broadly elliptic to elliptic-ovate, 4.5–10.5 × 3–9 cm, apex rounded to acute, margin crenate to denticulate or nearly entire, upper surface sparsely to densely furnished with long hairs. Inflorescence: peduncle 3.5–5.5 cm, with 2 ♂ flowers and 1 ♀ flower with yellow tepals; bracts 2.5–6 mm long. ♂ Flower: tepals 9.5–12 × 8.5–15 mm; androecium with 13–23 stamens. ♀ Flower: pedicel elongating in fruit to 1 mm; tepals 11–15 × 10–13 mm; ovary (wings included) very broadly obtriangular, 3.5–5 × 4–9 mm, furnished with long hairs, with 3 small wings very broadly obtriangular to very depressed obtriangular, 1.5–2.5 mm wide; styles 3. Fruit as ovary; rostrum up to 3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud du Cameroun et Gabon (Massif du Chaillu)
+southern Cameroon and Gabon (Chaillu Massif)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire. B : Sosef (1992b), Sosef (1994). IBLIOGRAPHIE
+primary forest. B: Sosef (1992b), Sosef (1994). BIBLIOGRAPHY
 
 ## Notes
 

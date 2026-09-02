@@ -20,15 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — L., Sp. pl. 2 : 110 (1753). — Alston, Mém. IFAN 50 : 24 (1957); FWTA : 12 (1959).
 
-Epiphyte, pendant; tige ayant à peu près 50 cm de long, dichotome. Feuilles plutôt espacées, longues de 1,7 cm, sur 3 mm de large, lancéolées, arrondies à la base, subsessiles, vert clair, aplaties, avec une marge légèrement enroulée; costa peu apparent à la face supérieure, et moins apparent encore à la face inférieure que dans L. Staudti. Strobiles apicaux, dichotomes. Sporophylles largement ovales, légèrement acuminés, obtus, plus courts que les
+Epiphytic, pendulous; stem approximately 50 cm long, dichotomous. Leaves rather scattered, 1.7 cm long, 3 mm wide, lanceolate, rounded at the base, subsessile, pale green, flattened, with a slightly enrolled margin; costa scarcely apparent on the upper surface, and even less apparent on the lower surface than in L. Staudti. Strobili apical, dichotomous. Sporophylls broadly ovate, slightly acuminate, obtuse, shorter than the sporangia, 1.5 mm long by 1 mm wide, coriaceous, without visible costa. Sporangia pale yellow.
 
-sporanges, longs de 1,5 mm sur 1 mm de large, coriaces, sans costa visible. Sporanges jaune pâle.
-
-Afrique et Asie tropicales.
+Tropical Africa and Asia.
 
 ## Specimens examined
 

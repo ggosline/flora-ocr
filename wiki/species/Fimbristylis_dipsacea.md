@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook.f., Fl. Brit. India 6 : 635 (1893). Scirpus dipsaceus Rottb., Descr. icon. rar. pl . : 56, t. 12, fig. 1 (1773). Herbe petite, annuelle, grêle avec un système racinaire peu développé ; tiges serrées, de 3‒20 cm × 0,2‒0,4 mm, anguleuses, glabres. Feuille : gaine brunâtre ; ligule absente ; limbes inférieurs nuls ou très courts, les supérieurs de 2‒10 cm × 0,2‒0,3 mm, canaliculés à filiformes. Inflorescence en anthèle simple avec un épillet sessile et 2‒10 épillets sur un pédoncule de 1‒15 mm , parfois avec un épillet pédonculé secondaire à la base d’un épillet pédonculé primaire ; bractées involucrales principales foliacées, dressées ou étalées, souvent plus longues que l’inflorescence. Épillet oblong à ovale, de 3‒6 × 2‒3 mm, obtus, vert pâle, hérissé , à nombreuses fleurs serrées ; glumes d’environ 1 × 0,5 mm, minces et membraneuses, mais avec une épaisse nervure centrale se prolongeant par une arête longue de 0,5‒1 mm, droite ou recourbée. Fleur à 1 étamine ; style à 2 longues branches. Akène ellipsoïde à cylindrique , de 0,5‒0,7 × 0,15‒0,2 mm, souvent légèrement incurvé, brunâtre, finement strié transversalement par les cellules épidermiques linéaires elliptiques, souvent avec de petites glandes irrégulières sur la surface.
+in Hook.f., Fl. Brit. India 6 : 635 (1893). Scirpus dipsaceus Rottb., Descr. icon. rar. pl . : 56, t. 12, fig. 1 (1773). Small annual herb, slender with a poorly developed root system; stems clustered, 3–20 cm × 0.2–0.4 mm, angular, glabrous. Leaf: sheath brownish; ligule absent; lower blade limbs absent or very short, upper ones 2–10 cm × 0.2–0.3 mm, channelled to filiform. Inflorescence a simple anthela with one sessile spikelet and 2–10 spikelets on a peduncle 1–15 mm long, sometimes with a secondary pedunculate spikelet at the base of a primary pedunculate spikelet; main involucral bracts foliaceous, erect or spreading, often longer than the inflorescence. Spikelet oblong to ovate, 3–6 × 2–3 mm, obtuse, pale green, bristly, with numerous closely packed flowers; glumes approximately 1 × 0.5 mm, thin and membranous, but with a thick central nerve extending into an awn 0.5–1 mm long, straight or curved. Flower with 1 stamen; style with 2 long branches. Achene ellipsoid to cylindric, 0.5–0.7 × 0.15–0.2 mm, often slightly incurved, brownish, finely striated transversely by linear elliptic epidermal cells, often with small irregular glands on the surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-régions tropicales de l’Asie, de l’Afrique et de l’Amérique, mais souvent très dispersée en Afrique de l’Ouest, Mali et Sierra Leone seulement ; très rare au Gabon, trouvée seulement à Booué, dans l’Ogooué-Ivindo (1 récolte)
+tropical regions of Asia, Africa and America, but often very scattered in West Africa, Mali and Sierra Leone only; very rare in Gabon, found only at Booué, in Ogooué-Ivindo (1 collection)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur les bancs de sable et les terrains ouverts saisonnièrement humides ; à basse altitude, moins de 300 m. Note taxonomique : se reconnaît facilement par ses petits épillets hérissés et le petit akène cylindrique. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972)
+on sand banks and seasonally humid open ground; at low altitude, less than 300 m. Taxonomic note: easily recognized by its small bristly spikelets and small cylindric achene. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
 ## Notes
 

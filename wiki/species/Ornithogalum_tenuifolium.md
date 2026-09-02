@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-O. tenuifolium F.Delaroche subsp. sordidum (Baker) Stedje, Nordic J. Bot. 4: 758 (1984). Herbe jusqu’à 150(–200) cm de hauteur ; bulbe jusqu’à 15 cm de diamètre, sans ou avec peu de fibres. Feuilles jusqu’à 5 par pied ; limbe dressé, 8–100(–130) × 0,5–6,5 cm, à marge lisse, ; nervation faiblement tessellée à la base. Inflorescence : racème simple, de 13–100 cm ; bractées étroitement triangulaires à ovées-acuminées, 4–80 mm de longueur, membraneuses. Fleur : pédicelle 2–15 mm ; tépales oblongs, 5–11 mm de longueur, avec une ligne verte centrale ; filets ovés-elliptiques et acuminés, 3–8 mm de longueur, anthères 2–3 mm de longueur ; ovaire ellipsoïde à oblong, 2,5–5 mm de longueur, sans carpophore ; style ± aussi long que l’ovaire. Fruit ovoïde, 3-lobé, 5–13 mm de longueur. Graines 4–6 mm de diamètre.
+O. tenuifolium F.Delaroche subsp. sordidum (Baker) Stedje, Nordic J. Bot. 4: 758 (1984). Herb up to 150(–200) cm tall; bulb up to 15 cm in diameter, without or with few fibres. Leaves up to 5 per plant; blade erect, 8–100(–130) × 0.5–6.5 cm, with smooth margin; venation weakly tessellate at the base. Inflorescence: simple raceme, 13–100 cm; bracts narrowly triangular to ovate-acuminate, 4–80 mm long, membranous. Flower: pedicel 2–15 mm; tepals oblong, 5–11 mm long, with a central green line; filaments ovate-elliptic and acuminate, 3–8 mm long, anthers 2–3 mm long; ovary ellipsoid to oblong, 2.5–5 mm long, without carpophore; style ± as long as the ovary. Fruit ovoid, 3-lobed, 5–13 mm long. Seeds 4–6 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique Centrale, de l’Est et du Sud, du Gabon vers l’Éthiopie et la Somalie au nord-est et jusqu’en Afrique du Sud ; au Gabon, seulement connue de la Nyanga (région de Tchibanga)
+widely distributed in Central, East and South Africa, from Gabon towards Ethiopia and Somalia in the north-east and as far as South Africa; in Gabon, known only from Nyanga (Tchibanga region)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+savannas, forest margins and open forests, on sandy or clayey soils, more frequent in swampy places during the rainy season; in Gabon at ± 150 m altitude, elsewhere up to 3000 m. Taxonomic notes: The species is divided into two subspecies. The subspecies tenuifolium is very variable, several chromosome numbers are present in it. B: Champluvier & Maquet (1988), Nordal & Stedje (1993), Obermeyer (1978), Stedje (1996)
 
-savanes, lisières et forêts ouvertes, sur sols sableux ou argileux, plus fréquente dans des endroits marécageux pendant la saison de pluie ; au Gabon à ± 150 m d’altitude, ailleurs jusqu’à 3000 m. Notes taxonomiques : L’espèce est divisée en deux sous-espèces. Le sous-espèce tenuifolium est très variable, plusieurs nombres de chromosomes y sont présents. B : Champluvier & Maquet (1988), Nordal & Stedje (1993), Obermeyer i B liographie (1978), Stedje (1996)
+Flower (× 5). – 5. Stamen, external face (× 3.5). – 6. Stamen, internal face (× 3.5). – 7. Ovary (× 4). – 8. Capsule (× 1.5). – 9. Seed (× 4). Drawing by Dominic Troupin (©), reproduced with permission from Champluvier & Maquet (1988).
 
-Fleur (× 5). – 5. Étamine, face externe (× 3,5). – 6. Étamine, face interne (× 3,5). – 7. Ovaire (× 4). – 8. Capsule (× 1,5). – 9. Graine (× 4). Dessin par Dominic Troupin (©), reproduit avec permission à partir de Champluvier & Maquet (1988).
-
-.203-3+20,3 1+13 7 95 5
+.203-3+20.3 1+13 7 95 5
 
 ## Notes
 

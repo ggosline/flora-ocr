@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Low herb with distinct sterile and fertile culms; sterile culms regularly leafy, sheaths imbricate, blade ovate to ovate-elliptic with rounded or more or less acute base, asymmetric, acuminate at apex, margins scabrous, approximately 10–15 × 3–5 cm or smaller. Petiole short, sheaths striate, puberulent and shortly ciliate at the opening.
 
-Herbe basse à tiges stériles et fertiles distinctes ; tiges stériles régulièrement foliées, gaines imbriquées, limbe ovale à ovale-elliptique à base arrondie ou plus ou moins aiguë, asymétrique, acuminé au sommet, marges scabres, d'environ 10-15 × 3-5 cm ou plus petites. Pétiole court, gaines striées, pubérulentes et courtement ciliées à l'ouverture.
+Fertile culms with panicle long-exsert from an aphyllous sheath, lower branches with few spikelets, then solitary spikelets toward the apex. Rachis pubescent. Spikelets elongate, approximately 8 flowers.
 
-Chaumes fertiles à panicule longuement exserte d'une gaine aphylle, branches inférieures à épillets peu nombreux, puis
+Upper glume longer than the lower. Lemmas briefly stipitate, with 12–13 nerves, more or less pubescent. Paleas ciliate on the keel, as long as or shorter than the lemmas.
 
-épillets solitaires vers le haut. Rachis pubescent. Épillets allongés, d'environ 8 fleurs.
-
-Glume supérieure plus longue que l'inférieure. Lemmas brièvement stipitées, à 12-13 nervures, plus ou moins pubescentes. Palées ciliées sur la carène, aussi longues ou plus courtes que les lemmas.
-
-Espèce trouvée au Cameroun.
+Species found in Cameroon.
 
 ## Specimens examined
 

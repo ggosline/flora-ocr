@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb, fairly robust, with solitary or fascicled stems; stems 20–70 cm × 0.3–2 mm, triangular or compressed, glabrous, green. Leaf: sheath grey-greenish to reddish-brown; blade plane or canaliculate, the largest 10–40 cm × 0.5–5 mm, scabrous on the margin and midrib at least near the apex. Inflorescence in a solitary spikelet (in dwarf specimens) or more commonly in an umbelliform anthela, up to 25 cm × 15 cm, formed of one or more sessile spikes and 3–10 spikes on rays 1–20 cm long, sometimes with 1–2 additional spikes at the base of certain large spikes; involucral bracts 1–9, foliaceous, erect or spreading, the largest 5–40 cm × 0.5–5 mm, plane, scabrous on the margin and ribs; spikes 0.5–3 × 0.5–4 cm, with 2–20 spikelets spreading. Spikelet linear-lanceolate, 5–10 × 2–4 mm (up to 20 mm long at fruiting), slightly compressed, grey-greenish to pale brown, with 10–25 flowers; rachis strongly flattened, not disarticulating at maturity; glumes ovate, 2.5–3.2 mm long, grey, pale brown or slightly golden, but often with dark red to red-purplish spots on the margin, forming a purple central band along the spikelet, with prominent nerves on each side of the plane midrib that terminates below the rounded apex. Flower with 2 stamens; style with 2(–3) branches. Achene obovate to circular, 1.4–2 × 1.2–1.7 mm, compressed dorso-
 
-Herbe annuelle, assez robuste, avec des tiges solitaires ou en fascicule ; tiges de 20‒70 cm × 0,3‒2 mm, triangulaires ou comprimées, glabres, vertes. Feuille : gaine gris verdâtre à brun rougeâtre ; limbe plan ou canaliculé, les plus grands de 10‒40 cm × 0,5‒5 mm , scabre sur la marge et la nervure centrale au moins près de l’extrémité. Inflorescence en épillet solitaire (chez les spécimens nains) ou plus communément en une anthèle ombelliforme, jusqu’à 25 cm × 15 cm , formée de un ou plusieurs épis sessiles et de 3‒10 épis sur des rayons longs de 1‒20 cm, parfois avec 1‒2 épis supplémentaires à la base de certains grands épis ; bractées involucrales 1‒9, foliacées, dressées ou étalées, la plus grande de 5‒40 cm × 0,5‒5 mm, planes, scabres sur la marge et les côtes ; épis de 0,5‒3 × 0,5‒4 cm, avec 2‒20 épillets étalés. Épillet linéaire-lancéolé, de 5‒10 × 2‒4 mm (jusqu’à 20 mm de long à la fructification), légèrement comprimé, gris verdâtre à brun pâle, à 10‒25 fleurs ; rachis fortement aplati, ne se détachant pas à maturité ; glumes ovales, longues de 2.5‒3,2 mm , grises, brun pâle ou légèrement dorées, mais souvent avec des taches rouge foncé à rouge violacée sur la marge, formant une bande centrale violette le long de l’épillet, avec des nervures saillantes de chaque côté de la nervure centrale plane qui se termine sous le sommet arrondi. Fleur à 2 étamines ; style à 2(‒3) branches. Akène obovale à circulaire, de 1,4‒2 × 1,2‒1,7 mm , comprimé dorso-
-
-ventralement (très rarement triangulaire), brun foncé à noir grisâtre, à surface finement papilleuse avec de nombreuses petites cellules isodiamétriques.
+ventrally (very rarely triangular), dark brown to greyish-black, with finely papillose surface with numerous small isodiametric cells.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales d’Afrique de l’Ouest et Centrale, rare en Afrique de l’Est ; rare au Gabon, trouvée seulement dans la Nyanga et l’Ogooué-Ivindo
+widely distributed in the tropical regions of West and Central Africa, rare in East Africa; rare in Gabon, found only in Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en marge des mares temporaires, au bord des lacs et des marécages et des voies d’eau ; au Gabon, à 0‒500 m d’altitude, jusqu’à 1400 m ailleurs. Note taxonomique : se reconnaît à son port annuel, son style à 2 branches et ses akènes aplatis dorso-ventralement ; elle est plus souvent confondue avec des espèces du sousgenre Pycreus qu’avec d’autres espèces du sous-genre Cyperus . Cependant, les espèces du premier ont des akènes aplatis latéralement. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+at the margins of temporary pools, at the edge of lakes and marshes and waterways; in Gabon, at 0–500 m altitude, up to 1400 m elsewhere. Taxonomic note: recognized by its annual habit, its style with 2 branches and its achenes compressed dorso-ventrally; it is more often confused with species of the subgenus Pycreus than with other species of the subgenus Cyperus. However, species of the former have achenes compressed laterally. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
 ## Notes
 

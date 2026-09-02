@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianescent, reaching 3 to 6 m in height. Internodes often glabrous, sometimes slightly pubescent. Stipules often simple and linear 3 to 10 mm long, sometimes bifid, quickly caducous. Petioles glabrous or glabrescent, 5–10(16) mm long. Lamina glabrous 5–12 × 2–6 cm, with acute base and acuminate apex. Midrib glabrous above, sometimes pubescent below; 4–6 pairs of arched secondary veins. Numerous tertiary veins perpendicular to the midrib.
 
-Lianescent, atteint 3 à 6 m de hauteur. Entrenœuds souvent glabres, parfois un peu pubescents. Stipules souvent simples et linéaires de 3 à 10 mm de long, parfois bifides, rapidement caduques. Pétioles glabres ou glabrescents, longs de 5-10(16) mm. Limbe glabre de 5-12 × 2-6 cm, à base aiguë et sommet acuminé. Médiamé glabre dessus, parfois pubescente dessous; 4-6 paires de nervures secondaires arquées. Nombreuses nervures tertiaires perpendiculaires à la médiamé.
+Inflorescences loosely paniculate, ornamented with 5 to more than 10 attractive white foliaceous sepals. Axes ± glabrous or puberulent; pedicels 2–4 mm. Calyx glabrous or scarcely pubescent with variable teeth 0.5 to 3(6) mm in length. Corolla ± glabrous, at least somewhat puberulent toward the apex of the lobes; tube green 20–27 × 2–2.5 mm; lobes approximately 3 mm long fairly broadly ovate and shortly acute, yellow. Pubescence of the throat abundant and prominent. Anthers 6 mm with claviform lower extremity. Ovary with 2 locules.
 
-Inflorescences paniculées lâches, ornées de 5 à plus de 10 sépales foliacés attractifs blancs. Axes ± glabres ou pubérulents; pédicelles de 2-4 mm. Calice glabre ou à peine pubescent à dents variables de 0,5 à 3(6) mm de longueur. Corolle ± glabre, au
-
-moins un peu pubérulente vers le sommet des lobes; tube vert de 20-27 × 2-2,5 mm; lobes longs d'env. 3 mm assez largement ovés et brièvement aigus, jaunes. Pubescence de la gorge abondante et saillante. Anthères de 6 mm à extrémité inférieure claviforme. Ovaire à 2 loges.
-
-Fruits généralement glabres à petits lobes calycinaux persistants, subsphériques, jaune orangé ou rouge à maturité, atteignant 13 mm et ornés de côtes méridiennes à sec. Graines noires grossièrement réticulées, comprimées anguleuses, de 0,8 mm.
+Fruits generally glabrous with small persistent calycinal lobes, subspheric, yellow-orange or red at maturity, reaching 13 mm and ornamented with meridional ribs when dry. Seeds black coarsely reticulate, compressed angular, 0.8 mm.
 
 ## Type
 
@@ -33,31 +29,29 @@ Mann 1799 (K, P!),  $ 1^{0} $ lat. N, Mount-John, River Kongui
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Certain specimens such as N. Hallé 3203, are more pubescent than the type, with double stipules more quickly caducous, with tertiary veins somewhat less crowded in the intersecondary fields. Further collections are desirable to verify whether this is an extreme case of variation or on the contrary a distinct taxonomic form.
 
-Certains spécimens tels que N. Hallé 3203, sont plus pubescents que le type, à stipules doubles plus rapidement caduques, à nervures tertiaires un peu moins serrées dans les champs intersecondaires. De nouvelles récoltes sont souhaitées pour vérifier s'il s'agit d'un cas extrême de variation ou au contraire d'une forme taxinomique distincte.
+This non-dioecious species is clearly related although quite different from the following M. arcuata. Unlike E. Petit we find no particular affinity with M. tenuiflora a dioecious species, and we reject the hypothesis that M. polita is a product of hybridization.
 
-Cette espèce non dioïque est nettement apparentée quoique bien différente de la suivante M. arcuata. Contrairement à E. Petit nous ne lui trouvons pas d'affinité particulière avec M. tenu/flora espèce dioïque, et nous rejetons l'hypothèse que M. polita soit un produit d'hybridation.
+Degraded margins and roadsides; from southern Nigeria to eastern Congo.
 
-Lisières dégradées et bords de routes; du Sud Nigeria au Congo oriental.
+A. Chevalier: 26107, Lamaréné (fr. July).
 
-A. Chevalier : 26107, Lamaréné (fr. juill.).
+Dinklage: 502 (HBG!) Sibang (fl. Jan.).
 
-Dinklage : 502 (HBG!) Sibang (fl. janv.).
+F. Fleury: 26327, lac Zilé (fr. Aug.).
 
-F. Fleury : 26327, lac Zilé (fr. août).
+N. Hallé: 679, 695, 764, Nkoulounga (fl. fr. June; fl. July); 1148, Zoolendé (fl. Feb.); 3203, Bélinga (fr. Nov.).
 
-N. Hallé : 679, 695, 764, Nkoulounga (fl. fr. juin; fl. juill.); 1148, Zoolendé (fl. fév.); 3203, Bélinga (fr. nov.).
+C. Jeffrey: 108, Mitzic (fl. July).
 
-C. Jeffrey : 108, Mitzic (fl. juill.).
+R. P. Klaine: s. n., 679, 954, 1847, 2362, 3010, 3182, 3225, env. de Libreville (fl. from Dec. to Feb.; fr. from Jan. to Mar. and from May to Sept.).
 
-R. P. Klaine : s. n., 679, 954, 1847, 2362, 3010, 3182, 3225, env. de Libreville (fl. de déc. à fév.; fr. de janv. à mars et de mai à sept.).
+Le Testu: 1979, Tchibanga (fl. Jan.); 5250, Pounga, Haute-Ngounyé (fl. Feb.). H. Soyaux: 13, Sibang (fl. and j. fr. Aug.).
 
-Le Testu : 1979, Tchibanga (fl. janv.); 5250, Pounga, Haute-Ngounyé (fl. fév.). H. Soyaux : 13, Sibang (fl. et j. fr. août).
+Thollon: 99, Ndjolé (fl. Jan.); 274, Ngounié-Ogooué (fl. Mar.).
 
-Thollon : 99, Ndjolé (fl. janv.); 274, Ngounié-Ogooué (fl. mars).
-
-PL. 30. — Mussaenda polita Hiern : 1, inflorescence; 2, bouton à sépales courts; 3, préfloraison; 4 et 4', coupe de la fleur; 5 et 5', anthère et détail de l'extrémité inférieure après déhiscence; 6, calice à lobes longs; 7, coupe de l'ovaire; 8, portion d'infrutescence; 9, graine. — 1, 6 et 7, Le Testu 5250; 2 à 5, N. Hallé 679; 8 et 9, N. H. 695.
+PL. 30. — Mussaenda polita Hiern: 1, inflorescence; 2, bud with short sepals; 3, prefloration; 4 and 4', flower section; 5 and 5', anther and detail of the lower extremity after dehiscence; 6, calyx with long lobes; 7, ovary section; 8, portion of infructescence; 9, seed. — 1, 6 and 7, Le Testu 5250; 2 to 5, N. Hallé 679; 8 and 9, N. H. 695.
 
 ## Figures
 

@@ -17,25 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Nat. Pflanzen Fam. 3 (4): 134 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 640, p.p. (1913); KEAY, FWTA, ed. 2, 1 (2): 436 (1958); KEAY & AL., Nigerian Tr. 1: 323 (1960); BRETELER, MLW 73 (13): l.c., 82-86 (1973); l.c., 78 (10): 30, 38, 80 (1978); l.c., 79 (16): 51, 74 (1979); l.c., 82 (8): 24, 38, 39 (1982); AUWP 86 (3): 16 (1986). TYPE: Nigeria, Onitsha, Barter 1781 holo- B delet.; lecto- K, phot. WAG; isolecto- P).
 
 – D. luki PUNT, Rev. Paleobot. & Palynol. 19: 21 (1975). BRETELER, l.c. 79 (16): 74 (1979).
 
-Arbuste ou arbre atteignant 12 (17) m, souvent avec une couronne dense d'aspect buissonnant. Rameaux glabres ou glabrescents en général munis de très petites lenticelles denses. Jeunes rameaux le plus souvent couverts d'une pubérulence brunâtre à courtement veloutée au moins au début, assez tôt lenticelles.
+Shrub or tree reaching 12 (17) m, often with a dense crown with bushy appearance. Branchlets glabrous or glabrescent generally bearing very small dense lenticels. Young branchlets mostly covered with brownish puberulence to shortly velutinous at least initially, lenticels appearing fairly early.
 
-Stipules tôt caduques ou non, subulées, longues de (1) 2-4 (5) mm, pubérulence de courts poils apprimés et un peu raides.
+Stipules early caducous or persistent, subulate, (1) 2–4 (5) mm long, with puberulence of short appressed and somewhat rigid hairs.
 
-Feuilles. Pétiole hémicylindrique à légèrement canaliculé dessus, long de (1) 3-6 (7) mm, pubérulence comme les stipules ; limbe généralement coriace, elliptique à obové-elliptique, environ 2 fois plus long que large, 7-13 (17) × 3-6 (8) cm, base arrondie à obtuse-tronquée (rarement cunée) et ± symétrique, sommet terminé par un acumen obtus ou subaigu, long de ≤ 1,5 cm (parfois acumen nul et sommet obtus ou subaigu). Principales nervures II, 4-6 (7) de chaque côté de la nervure I, assez peu visibles dessus, proéminentes dessous ; la nervure I est en général imprimée dessus au moins dans sa partie basale. Face supérieure en général munie de petites glandes peu nombreuses et dispersées ; face inférieure montrant en général 2 importantes glandes à la base de part et d'autre de la nervure I avec souvent aussi de petites glandes dispersées. Feuilles glabres ou portant des poils peu nombreux dispersés sur la nervure I, surtout à la face inférieure ; jeunes feuilles, parfois munies d'une pubérulence apprimée sur les 2 faces puis glabres-centes.
+Leaves. Petiole hemicylindric to slightly canaliculate above, (1) 3–6 (7) mm long, puberulence as on stipules; blade generally coriaceous, elliptic to obovate-elliptic, approximately 2 times longer than wide, 7–13 (17) × 3–6 (8) cm, base rounded to obtuse-truncate (rarely cuneate) and ± symmetric, apex terminated by an obtuse or subacute acumen, ≤ 1.5 cm long (sometimes acumen absent and apex obtuse or subacute). Secondary veins II, 4–6 (7) on each side of vein I, rather inconspicuous above, prominent below; vein I generally impressed above at least in its basal portion. Upper surface generally bearing few small scattered glands; lower surface generally showing 2 prominent glands at the base on either side of vein I with often also small scattered glands. Leaves glabrous or bearing few scattered hairs on vein I, especially on the lower surface; young leaves sometimes bearing appressed puberulence on both surfaces then becoming glabrescent.
 
-Inflorescences présentant jusqu'à 6 ordres de ramification, pubérulentes à courtemment veloutées ; pédoncule long de (4) 10-15 (20) mm ;
+Inflorescences presenting up to 6 orders of branching, puberulent to shortly velutinous; peduncle (4) 10–15 (20) mm long;
 
-bractées et bractéoles ovées-triangulaires, très petites, longues de ≤ 1 mm ; pédicelles longs de 1-4 (6) mm, dont ≤ 0,5 mm pour la partie supérieure.
+bracts and bracteoles ovate-triangular, very small, ≤ 1 mm long; pedicels 1–4 (6) mm long, of which ≤ 0.5 mm for the upper portion.
 
-Fleurs longues de ≈ 4-6 mm. Sépales dressés, ou presque, égaux à/ou légèrement plus courts que les pétales et les étamines, plats ou un peu concaves, en général étroitement oblongs, parfois étroitement elliptiques ou lancéolés, 4-6 (7) × (1) 1,5-2 mm ; base libre ; sommet obtus, arrondi ou aigu ; extérieur tomentelleux, pubescence interne apprimée, pubérulo- ou sericeo-tomentelleuse. Pétales dressés ou presque, courtement soudés par leur base aux filets ; contours étroitement obvés-oblongs, longueur de 5-6,5 mm ; sommet rétusé ou fendu sur ≤ 1 mm ; ils sont aplatis ou presque, minces ; face interne glabre, face externe pubérulo-tomentelleuse à entièrement glabre ; lobes glabres, souvent enroulés ou pliés les uns dans les autres. Étamines dressées, longues de (4,5) 6-6,5 (7) mm ; filets glabres, pubescents ou seulement avec quelques poils ; anthères longues de < 1 mm, glabres. Staminodes libres et séparés ou connivents et souvent unis par leur base tout en étant soudés aux pétales et aux filets ; ils sont glabres, minces, subcarrés, longs et larges de 0,5-1 mm. Pistil dressé, long de 6-7,5 ; style glabre terminé par 3 lobes longs de < 1 mm ; ovaire 3-loculaire déprimé-sphérique à pubescence veloutée courte et dense.
+Flowers ≈ 4–6 mm long. Sepals erect or nearly so, equal to or slightly shorter than the petals and stamens, flat or somewhat concave, generally narrowly oblong, sometimes narrowly elliptic or lanceolate, 4–6 (7) × (1) 1.5–2 mm; base free; apex obtuse, rounded or acute; exterior tomentellous, interior pubescence appressed, puberulo- or sericeo-tomentellous. Petals erect or nearly so, shortly connate at their base to the filaments; outline narrowly obovate-oblong, length 5–6.5 mm; apex retuse or split for ≤ 1 mm; they are flattened or nearly so, thin; inner surface glabrous, outer surface puberulo-tomentellous to entirely glabrous; lobes glabrous, often rolled or folded into each other. Stamens erect, (4.5) 6–6.5 (7) mm long; filaments glabrous, pubescent or only with a few hairs; anthers < 1 mm long, glabrous. Staminodes free and separate or conniving and often united at their base while being adnate to the petals and filaments; they are glabrous, thin, subquadrate, 0.5–1 mm long and wide. Pistil erect, 6–7.5 mm long; style glabrous terminated by 3 lobes < 1 mm long; ovary 3-locular depressed-spheric with short dense velutinous pubescence.
 
-Fruits subsphériques à ovoïdes-ellipsoïdaux ; pubescence velouté-tomenteuse, dense et courte ; surface fortement tuberculée ; diamètre ≈ 2-3,5 cm (tubercules inclus) ; tubercules très irréguliers en forme et en taille souvent courbés, atteignant une longueur de 7 mm ; endocarpe parcheminé à coriace fibreux, extérieur plutôt lisse, intérieur lisse, brillant et finement strié. Graines subellipsoïdales, longues de ≤ 1,5 cm, diamètre 1 cm ; testa brun, luisant, assez mince. - Pl. 11, p. 57.
+Fruits subspheric to ovoid-ellipsoidal; pubescence densely velutinous-tomentose and short; surface strongly tuberculate; diameter ≈ 2–3.5 cm (tubercles included); tubercles highly irregular in shape and size often curved, reaching a length of 7 mm; endocarp chartaceous to fibrous coriaceous, exterior rather smooth, interior smooth, shining and finely striated. Seeds subellipsoidal, ≤ 1.5 cm long, 1 cm diameter; testa brown, shiny, fairly thin. - Pl. 11, p. 57.
 
 ## Type
 
@@ -43,15 +41,11 @@ Barter 1781, Onitsha, Nigeria
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Ghana, Nigéria, Gabon, Ouest-Zaïre
+Côte d'Ivoire, Ghana, Nigeria, Gabon, West Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-fourrés littoraux (Ghana) ; sous-bois de galerie forestière ou parties sèches de forêt ombrophile
+Coastal thickets (Ghana); gallery forest understory or dry parts of rainforest
 
 ## Specimens examined
 

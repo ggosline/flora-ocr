@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, semi-aquatique, atteignant 25–50(–100) cm de hauteur ; tige dressée, simple ou peu ramifiée, à partie aérienne atteignant 2,5–14 cm de longueur et glabre ou pubescente, partie submergée atteignant 80–100 cm de longueur et glabre. Feuilles aériennes verticillées, à limbe irrégulièrement pennatiséqué ou lacéré à crénelé-serreté, (2,5–)4–12(–22) × 2–4 mm ; feuilles submergées verticillées par 6–12, pennatiséquées, multifides, à lobes aplatis ou capillaires , atteignant 30 mm de longueur. Inflorescence lâche. Fleur : pédicelle 3,5–10(–15) mm ; bractéoles 2, (1,5–)3–4 mm de longueur ; calice 3,5–6 mm de longueur, lobes 2–3 mm de longueur, parfois hirsute, souvent subglabre à petites glandes rondes ; corolle (6–)8–12 mm de longueur, blanches à jaune pâle , lèvre supérieure bipartite et 3 mm de longueur, lèvre inférieure tripartite et 3 mm de longueur ; étamines antérieures (abaxiales) à filets de 4 mm, ceux des étamines postérieures (adaxiales) 2 mm ; ovaire 1,5 mm de longueur ; style 4,5 mm. Fruit septicide-septifrage et loculicide, ovoïde-comprimé à subsphérique, 3–4 × 2 mm.
+Perennial herb, semi-aquatic, reaching 25–50(–100) cm in height; stem erect, simple or sparingly branched, aerial part reaching 2.5–14 cm in length and glabrous or pubescent, submerged part reaching 80–100 cm in length and glabrous. Aerial leaves whorled, with blade irregularly pinnatisect or lacerate to crenate-serrate, (2.5–)4–12(–22) × 2–4 mm; submerged leaves whorled 6–12 per whorl, pinnatisect, multifid, with flattened or capillary lobes, reaching 30 mm in length. Inflorescence lax. Flower: pedicel 3.5–10(–15) mm; bracteoles 2, (1.5–)3–4 mm in length; calyx 3.5–6 mm in length, lobes 2–3 mm in length, sometimes hirsute, often subglabrous with small round glands; corolla (6–)8–12 mm in length, white to pale yellow, upper lip bipartite and 3 mm in length, lower lip tripartite and 3 mm in length; anterior (abaxial) stamens with filaments 4 mm, those of posterior (adaxial) stamens 2 mm; ovary 1.5 mm in length; style 4.5 mm. Fruit septicide-septifragous and loculicidal, ovoid-compressed to subspheric, 3–4 × 2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal à l’Éthiopie et de l’Ouganda au Mozambique, aussi en Asie tropicale et l’Australie ; au Gabon, observée dans la Nyanga
+from Senegal to Ethiopia and from Uganda to Mozambique, also in tropical Asia and Australia; in Gabon, observed in Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais et petites mares ; au Gabon, à basse altitude, en Afrique de l’Est jusqu’à 1250 m. B : Fischer (1999), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), ibliographie Philcox (1970, 1990)
+marshes and small ponds; in Gabon, at low altitude, in East Africa up to 1250 m. B: Fischer (1999), Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Bibliography Philcox (1970, 1990)
 
 ## Notes
 

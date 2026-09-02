@@ -17,45 +17,37 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE : Angola, Cuanza Norte, Golungo Alto, near Fonte Capopa (fl., fr.) Welwitsch 4385 (holo-LISU ; iso-BM, BR, COI, K, M, P).
 
-TYPE : Angola, Cuanza Norte, Golungo Alto, près de Fonte Capopa (fl., fr.) Welwitsch 4385 (holo-LISU ; iso-BM, BR, COI, K, M, P).
+Liana, ≤ 25 m and diameter ≤ 6 cm. Wood exuding a viscous and gelatinous exudate. Young branches lepidote.
 
-Liane, ≤ 25 m et diamètre ≤ 6 cm. Bois dégageant un exsudat visqueux et gélatineux. Jeunes rameaux lépidotes.
+Leaves opposite ; petiole ≤ 12 mm ; blade elliptic, ≤ 26 × ≤ 15 cm, glossy, papyraceous to coriaceous, glabrous except for the scales ; major lateral veins 6–11 pairs, axillary domatia absent ; base of blade rounded to subcordate ; apex acuminate and glandular. Young leaves reddish-brown.
 
-Feuilles opposées ; pétiole ≤ 12 mm ; limbe elliptique, ≤ 26 × ≤ 15 cm, luisant, papyracé à coriace, glabre hormis les écailles ; grandes nervures latérales 6-11 paires, domaties axillaires absentes ; base du limbe arrondie à subcordée ; sommet acuminé et glanduleux. Jeunes feuilles rougeâtre-brun.
+Scales, diameter 70–130 µm.
 
-Écailles, diamètre 70-130 µm.
+Inflorescences ≤ 12 cm spikes or axillary or terminal panicles ; leaves subtending the inflorescence, greenish-white ; bracts poorly visible.
 
-Inflorescences ≤ 12 cm épis ou panicules axillaires ou terminaux ; feuilles axillant l'inflorescence, verdâtre-blanc ; bractées peu visibles.
+Flowers 4-merous, sessile. Receptacle, exterior entirely yellowish lepidote : the inferior height 1.5 mm, the superior, cupuliform, width ≤ 2.5 mm and height ≤ 1.5 mm. Calyx with deltoid lobes. Petals ≤ 1 mm long, white, glabrous. Stamens : filaments and anthers 0.8 mm long. Disk pubescent along the margin, lepidote elsewhere. Style 0.5 mm.
 
-Fleurs 4-mères, sessiles. Réceptacle, extérieur totalement lépidote jaunâtre : l'inférieur hauteur 1,5 mm, le supérieur, cupuliforme, largeur ≤ 2,5 mm et hauteur ≤ 1,5 mm. Calice à lobes deltoïdes. Pétales longs
-
-de ≤ 1 mm, blancs, glabres. Étamines : filets et anthères longs de 0,8 mm. Disque pubescent le long du bord, lépidote ailleurs. Style 0,5 mm.
-
-Fruit, longeur ≤ 4 cm, diamètre de ≤ 2,5 cm, toujours nettement plus long que large, ailes papyracées, aspect rouge brun lépidote caractéristique, partie centrale du fruit brun pâle ; stipe ≤ 5 mm. – Pl. 20, p. 71.
+Fruit, length ≤ 4 cm, diameter ≤ 2.5 cm, always distinctly longer than wide, wings papyraceous, characteristic reddish-brown lepidote appearance, central part of fruit pale brown ; stipe ≤ 5 mm. – Pl. 20, p. 71.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Ghana au Cameroun, au Centrafrique, au Gabon, au Congo (Kinshasa) et à l'Angola
+from Ghana to Cameroon, to Central African Republic, to Gabon, to Congo (Kinshasa) and to Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid forests, altitude ≤ 350 m
 
-Forêts denses humides, altitude ≤ 350 m
+Breteler, Jongkind, and Wieringa 9994, 30 km NE of Lastoursville (fr., Mar.), LBV, WAG with a wood sample.
 
-Breteler, Jongkind, et Wieringa 9994, 30 km NE de Lastoursville (fr., Mars), LBV, WAG avec un échantillon de bois.
+Breteler & Jongkind 10719, Ogooué river, 10 km E of Lastoursville, 0°48'S-12°50'E (fr., Nov.), LBV, WAG.
 
-Breteler & Jongkind 10719, fleuve Ogooué, 10 km E de Lastoursville, 0°48'S-12°50'E (fr., Nov.), LBV, WAG.
-
-Breteler, Jongkind & Wieringa 11389, près de Ndjolé (st.), WAG.
+Breteler, Jongkind & Wieringa 11389, near Ndjolé (st.), WAG.
 
 Le Testu 1145, Tchibanga, 2°50'S-11°03'E (fl., Sept.), BM, BR, P.
 
-van der Maesen & de Bruijn 5811, 21 km au SO de Lastoursville (fl., Nov.), LBV, WAG.
+van der Maesen & de Bruijn 5811, 21 km SW of Lastoursville (fl., Nov.), LBV, WAG.
 
 ## Figures
 

@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in OLIV., FTA 2 : 494 (1871) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 51 (1893) ; GILG, EBJ 40 : 513 (1908) ; SLEUMER, BJBB 41 : 406 (1971). TYPES : Barter 1635, Nigeria, (lecto-, cf. SLEUMER 1971) ; Mann 714, Cameroon (syn-).
 
-in OLIV., FTA 2 : 494 (1871) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 51 (1893) ; GILG, EBJ 40 : 513 (1908) ; SLEUMER, BJBB 41 : 406 (1971). TYPES : Barter 1635, Nigeria, (lecto-, cf. SLEUMER 1971) ; Mann 714, Cameroun (syn-).
+- C. prismatocarpa MAST., in OLIV., FTA 2: 494 (1871). TYPES : Mann 1751, Equatorial Guinea (lecto-, cf. SLEUMER 1971, K) ; Mann 952, Gabon (syn-, K). - C. dinklagei GILG, EBJ 40: 511 (1908). TYPE : Dinklage 1908, Liberia (holo-, B, delet. ; iso-, B). - C. bule GILG, EBJ 40: 513 (1908). TYPES : Zenker 1666, Cameroon (lecto-, B, delet., cf. SLEUMER 1971 ; P!, chosen here ; isolecto-, B, BM, BR, HBG, K, L, M) ; 2201 (syn, B, delet., B ex GOET, BM, G, GOET, HBG, K, L, P!, W, Z) ; 3035 (syn-, B, delet., B ex GOET, BM, BR, G, GOET, HBG, K, L, P!, W, Z) ; 3035 a (syn-, B, delet., BM, BR, G, GOET, HBG, K, L, P!) ; 3218 (syn-, B, delet., BM, G, K) ; Staudt 799 (syn-, B, delet., BM, K, P!) ; Winkler 1166 (syn-, B, delet., G, Z) ; 1314 (syn-, B, delet., Z) ; 1472 (syn-, B, delet.). - C. thonneri DE WILD., Et. Fl. Bangala Ubangui 94 : 240, 355, t. 11 (1911). TYPE : Thonner 157, Zaïre (holo-, BR ; iso-, K). - C. hexagona PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 55 (1917). TYPE : KLAINE 279, Gabon (holo-, P!). - C. klaineana PIERRE ex A. CHEV., l. c. (1917). TYPE : KLAINE s. n., Gabon (holo-, P!). - C. inaequalis Auct. non HUTCH. & DALZIEL : PELLEGR., Mém. Soc. Bot. Fr. : 121 (1952).
 
-- C. prismatocarpa MAST., in OLIV., FTA 2: 494 (1871). TYPES : Mann 1751, Guinée équatoriale (lecto-, cf. SLEUMER 1971, K) ; Mann 952, Gabon (syn-, K). - C. dinklagei GILG, EBJ 40: 511 (1908). TYPE : Dinklage 1908, Liberia (holo-, B, delet. ; iso-, B). - C. bule GILG, EBJ 40: 513 (1908). TYPES : Zenker 1666, Cameroun (lecto-, B, delet., cf. SLEUMER 1971 ; P!, choisi ici ; isolecto-, B, BM, BR, HBG, K, L, M) ; 2201 (syn, B, delet., B ex GOET, BM, G, GOET, HBG, K, L, P!, W, Z) ; 3035 (syn-, B, delet., B ex GOET, BM, BR, G, GOET, HBG, K, L, P!, W, Z) ; 3035 a (syn-, B, delet., BM, BR, G, GOET, HBG, K, L, P!) ; 3218 (syn-, B, delet., BM, G, K) ; Staudt 799 (syn-, B, delet., BM, K, P!) ; Winkler 1166 (syn-, B, delet., G, Z) ; 1314 (syn-, B, delet., Z) ; 1472 (syn-, B, delet.). - C. thonneri DE WILD., Et. Fl. Bangala Ubangui 94 : 240, 355, t. 11 (1911). TYPE : Thonner 157, Zaïre (holo-, BR ; iso-, K). - C. hexagona PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 55 (1917). TYPE : KLAINE 279, Gabon (holo-, P!). - C. klaineana PIERRE ex A. CHEV., l. c. (1917). TYPE : KLAINE s. n., Gabon (holo-, P!). - C. inaequalis Auct. non HUTCH. & DALZIEL : PELLEGR., Mém. Soc. Bot. Fr. : 121 (1952).
+Tree (10–15 m tall) or shrub ; branchlets glabrous.
 
-Arbre (10-15 m de haut) ou arbuste ; rameaux glabres.
+Leaves with petiole 6–15 mm long ; blade elliptic-oblong or ovate-oblong, slightly inequilateral and cuneate to rounded at base, acuminate at apex, 8–15–(21) × 3–5–(9) cm, entire, coriaceous, glabrous ; secondary nerves (6)–8–10 pairs.
 
-Feuilles à pétiole de 6-15 mm de long ; limbe elliptique-oblong ou ovale-oblong, légèrement inéquilateral et cunée à arrondi à la base, acuniné au sommet, 8-15-(21) × 3-5-(9) cm, entier, coriace, glabre ; nervures secondaires (6)-8-10 paires.
+Female flowers, in axillary fascicles, 5–10-flowered ; pedicel 5–6 mm long, glabrous ; sepals 5, ovate, 5–6 × 3 mm, glabrous ; disc lobes pubescent ; stamens 10, with filament 1.5–2 mm long, glabrous ; ovary slightly pubescent toward apex, with 3 pluri-ovulate placentas.
 
-Fleurs ♀, en fascicules axillaires, 5-10-flores ; pédicelle de 5-6 mm de long, glabre ; sépales 5, ovales, 5-6 × 3 mm, glabres ; lobes du disque velus ; étamines 10, à filet de 1,5-2 mm de long, glabre ; ovaire légèrement pubescent vers le haut, à 3 placentas pluriovulés.
-
-Fruits : capsules subellipsoïdales, 25-35-(50) × 20-25-(30) mm. - Pl. 5, 7-13, p. 21.
+Fruits : subellipsoid capsules, 25–35–(50) × 20–25–(30) mm. - Pl. 5, 7–13, p. 21.
 
 ## Type
 
@@ -36,15 +34,11 @@ Barter 1635, Nigeria (lecto-, cf. SLEUMER 1971, K) ; Mann 714, Cameroun (syn-, B
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, forêts inondées, forêts marécageuses, forêts secondaires, galeries forestières, parfois en savanes boisées
+Dense humid forests, flooded forests, swamp forests, secondary forests, forest galleries, sometimes in wooded savannas
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Sao-Tomé, Cameroun, Guinée équatoriale, Gabon, RCA, Congo, Zaïre, Angola, Soudan
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, São Tomé, Cameroon, Equatorial Guinea, Gabon, Central African Republic, Congo, Zaïre, Angola, Sudan
 
 ## Specimens examined
 

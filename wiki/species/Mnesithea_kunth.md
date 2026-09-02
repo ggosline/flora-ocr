@@ -15,21 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Lower glume of the sessile spikelet elliptic, 3–4.5 mm long; pedicel of the pedicellate spikelet with an apical tooth ..... M. afraurita
 
-1. Glume inférieure de l'épillet sessile elliptique, longue de 3-4,5 mm ; pédicelle de l'épillet pédicellé muni d'une dent apicale ..... M. afraurita
+1. Lower glume of the sessile spikelet globose, 1 mm long; pedicels fused with the internodes and without teeth ..... M. granularis
 
-1. Glume inférieure de l'épillet sessile globuleuse, longue de 1 mm ; pédicelles soudés avec les entre-nœuds et sans dents ..... M. granularis
-
-*39.1 Mnesithea afraurita (Stapf) Koning & Sosef – Pl. 10, 5-8, p. 39
+*39.1 Mnesithea afraurita (Stapf) Koning & Sosef – Pl. 10, 5–8, p. 39
 
 Gram. Cam. : 529, Pl. 117.
 
 – Coelorachis afraurita (Stapf) Stapf – FWTA : 509 ; FTEA : 842, fig. 197 ; Poac. CI. : 668, 669.
 
-Alers & Blom (Lopé) 174, 12.08.1986, c. 0°07'S-11°37'E, Réserve de la Lopé. White & Abernethy 1376, 25.03.1995, Lopé Reserve (near Klainedoxa population).
+Alers & Blom (Lopé) 174, 12.08.1986, c. 0°07'S–11°37'E, Lopé Reserve. White & Abernethy 1376, 25.03.1995, Lopé Reserve (near Klainedoxa population).
 
-39.2 Mnesithea granularis (L.) Koning & Sosef – Pl. 10, 1-4, p. 39
+39.2 Mnesithea granularis (L.) Koning & Sosef – Pl. 10, 1–4, p. 39
 
 Gram. Cam. : 530, Pl. 119 ; Gram. CB. : 333, fig. 42. – Hackelochloa granularis (L.) Kuntze – Fl. Gab. : 126 ; FWTA : 505 ; FTEA : 849, fig. 200 ; Poac. CI. : 660, 661. – Manisuris granularis (L.) L. f. – FACB 1 : 60, Pl. 2.
 

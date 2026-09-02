@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bory, Voy. Iles Afr., 2 : 204, 262 (1804). — Alston, Mém. IFAN 50 : 25 (1957); FWTA : 12 (1959).
 
-Tiges principales couchées, rampantes, s'enracinant ça et là sur toute leur longueur; racines souvent terminées par des tubercules charnus atteignant 10-12 mm de long sur 5-6 mm de large, portant des feuilles réduites et quelques racines. Feuilles de 2 sortes, celles des 2 rangs inférieurs ovale-lancéolées et étalées, celles des 4 rangs supérieurs subaciculées et moins étalées. Strobiles portés par des pédoncules simples dressés, qui naissent latéralement des tiges rampantes. Pédoncules longs de 15-20 cm, avec des petites feuilles distantes, subulées. Strobiles de 1-3 mm sur 3 mm de diamètre. Sporophylles ovales-orbiculaires, laciniés, terminés par une longue pointe aiguë.
+Main stems prostrate, creeping, rooting here and there along their entire length; roots often terminated by fleshy tubers reaching 10–12 mm long by 5–6 mm wide, bearing reduced leaves and a few roots. Leaves of 2 types, those of the 2 lower ranks ovate-lanceolate and spreading, those of the 4 upper ranks subaciculate and less spreading. Strobili borne on simple erect peduncles, which arise laterally from the creeping stems. Peduncles 15–20 cm long, with small distant subulate leaves. Strobili 1–3 mm by 3 mm in diameter. Sporophylls ovate-orbicular, laciniate, terminated by a long acute point.
 
 ## Type
 
@@ -28,11 +26,9 @@ Bory, Réunion (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa, Mascarenes.
 
-Afrique tropicale, Mascareignes.
-
-Tourbières, jusqu'à 2 500 m.
+Peatlands, up to 2,500 m.
 
 ## Specimens examined
 

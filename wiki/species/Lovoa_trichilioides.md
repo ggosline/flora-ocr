@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grand arbre atteignant 45 m de hauteur ; tronc jusqu’à 150 cm de diamètre, cylindrique, à empattements courts à la base ; écorce sombre, lisse devenant écailleuse chez les vieux arbres ; tranche fibreuse, rouge, à odeur très prononcée rappelant celle de Leplaea (Guarea) cedrata , parfois un peu d’exsudat gommeux. Feuille : pétiole 3–10(–21) cm ; rachis (4–)10–25(–48) cm, glabre ; pétiolule 4–11 mm, étroitement canaliculé dessus ; folioles 6–14, étroitement elliptiques à ovales ou rectangulaires à obovales, 8–25(–28) × 4–10(–13) cm, cunéiformes ou arrondies et parfois asymétriques à la base, obtuses ou acuminées au sommet, coriace, glabre, aux bords repliés ; nervure médiane un peu en relief dessus, proéminente dessous, nervures latérales (10–)15–20 paires, étroitement espacées, assez parallèles , peu saillantes. Inflorescence lâchement branchue, 15-40 cm de longueur, glabre. Fleur fonctionnellement mâle : pédicelle articulé, 1–1,5(–2,5) mm ; calice à lobes de 1,5 × 2 mm ; pétales étroitement ovales à elliptiques ou obovales, 4,5–5,5 × 2–3 mm ; tube staminal 2–2,5 mm de longueur, à bord courtement denté, à denticules obtus, anthères étroitement ovales, 1,2–1,5 × 0,5 mm ; gynécée (pistillode) 15 mm de lon gueur, glabre, soutenu par un disque cupuliforme, ovaire ovoïde, 4-sillonné ; style 0,5–1 mm, stigmate capité. Fleur fonctionnellement femelle similaire ; anthères assez rudimen taires ; ovaire nettement développé, 4-lobé, 0,5 mm de diamètre, à (2–)4(–6) ovules par loge. Fruit 4–6 × 1–1,5 cm, s’ouvrant par 4 valves cartacées minces ; columelle centrale ligneuse, quadrangulaire, chaque face à 2–4 graines. Graine 3,5–5,5 cm de longueur.
+Large tree reaching 45 m in height; trunk up to 150 cm in diameter, cylindrical, with short buttresses at the base; bark dark, smooth becoming scaly in old trees; fractured surface fibrous, red, with a very pronounced odour reminiscent of Leplaea (Guarea) cedrata, sometimes with some gummy exudate. Leaf: petiole 3–10(–21) cm; rachis (4–)10–25(–48) cm, glabrous; petiolule 4–11 mm, narrowly canaliculate above; leaflets 6–14, narrowly elliptic to ovate or rectangular to obovate, 8–25(–28) × 4–10(–13) cm, cuneate or rounded and sometimes asymmetric at the base, obtuse or acuminate at the apex, coriaceous, glabrous, with recurved margins; midrib slightly prominent above, prominent below, lateral nerves (10–)15–20 pairs, narrowly spaced, fairly parallel, scarcely raised. Inflorescence loosely branched, 15–40 cm in length, glabrous. Functionally male flower: pedicel articulate, 1–1.5(–2.5) mm; calyx with lobes 1.5 × 2 mm; petals narrowly ovate to elliptic or obovate, 4.5–5.5 × 2–3 mm; staminal tube 2–2.5 mm in length, with shortly dentate margin, with obtuse denticles, anthers narrowly ovate, 1.2–1.5 × 0.5 mm; gynoecium (pistillode) 15 mm in length, glabrous, supported by a cupuliform disc, ovary ovoid, 4-sulcate; style 0.5–1 mm, stigma capitate. Functionally female flower similar; anthers rather rudimentary; ovary distinctly developed, 4-lobed, 0.5 mm in diameter, with (2–)4(–6) ovules per locule. Fruit 4–6 × 1–1.5 cm, opening by 4 thin cartaceous valves; central woody columella, quadrangular, each face with 2–4 seeds. Seed 3.5–5.5 cm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Répu blique Centrafricaine, Guinée Équatoriale, Gabon, République du Congo, République Démocratique du Congo, Angola et Ouganda ; peu fréquent au Gabon, connue de l’Es tuaire, du Haut-Ogooué, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Wo leu-Ntem
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and Uganda; infrequent in Gabon, known from the Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile sempervirente, plus rare dans la forêt semi-décidue ; au Ga bon, jusqu’à 480 m d’altitude, ailleurs jusqu’à 1200 m d’altitude. Usage : Un très bon bois pour l’ébénisterie, localement employé pour la construction d’habitations
+Evergreen rainforest, more rare in semi-deciduous forest; in Gabon, up to 480 m altitude, elsewhere up to 1200 m altitude. Use: A very good wood for cabinet-making, locally used for the construction of dwellings
 
 ## Vernacular names
 

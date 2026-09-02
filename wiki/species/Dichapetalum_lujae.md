@@ -16,57 +16,50 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(synonymy appears under the varieties)
 
-(la synonymie figure sous les variétés)
+Liane, lianescent shrub or shrub. Woody cylinder 5-lobed to 5-partite; lenticels distinct and large-sized when present. Branchlets glabrous or glabrescent, hollow or not.
 
-Liane, arbuste lianescent ou arbuste. Cylindre ligneux 5-lobé à 5-partite ; lenticelles nettes et de grande taille quand elles sont présentes. Rameaux glabres ou glabrescents, creux ou non.
+Young branchlets hollow or not, with hispid pubescence mixed with an indumentum (velvety) of short hairs, or only velvety, or covered by an arachnoid often early caducous, sometimes mixed with erect brown hairs; this hispid and velvety indumentum extends to the stipules, petioles, both faces of nerve I, the margin of leaves, and the lower face of the main nerves II or even to the entire lower face of the lamina, as well as to the inflorescences; the arachnoid white on both faces of the lamina, rather lax and early caducous above, on the lower face, either early caducous or more persistent and more appressed. On the lower face, the arachnoid corresponds to the densest covering and the hispid-velvety indumentum, to the least dense (in cases where this indumentum is sufficiently dense, the white arachnoid may be reduced to scattered curled white hairs and thus almost invisible).
 
-Jeunes rameaux creux ou non, avec pubescence hispide mêlée à un indumentum (velouté) de poils courts, ou seulement veloutés, ou encore couverts par une arachnée souvent tôt caduque, parfois mêlée de poils bruns dressés ; cet indumentum hispide et velouté s'étend aux stipules, aux pétioles, aux deux faces de la nervure I, à la marge des feuilles, et à la face inférieure des principales nervures II ou même à toute la face inférieure du limbe, ainsi qu'aux inflorescences ; l'arachnée blanche sur les deux faces du limbe, plutôt lâche et tôt caduque dessus, à la face inférieure, soit tôt caduque, soit plus persisante et plus apprimée. A la face inférieure, l'arachnée correspond au revêtement le plus dense et l'indumentum hispide-velouté, au moins
+Stipules generally palmatipartite into 2–4 (5) subulate curved divisions of (2) 5–10 (14) mm, sometimes entire on the lower side of plagiotropic branchlets.
 
-dense (dans les cas où cet indumentum est assez dense, l’arachnée blanche peut se trouver réduite à des poils frisés blancs épars et de ce fait presque invisible).
+Leaves shortly petiolate to subsessile. Petiole subcylindric, 1–5 mm. Young lamina covered with a white arachnoid generally early caducous. Lamina ovate-elliptic to obovate or oblong, (1.5) 2–3 (3.5) times longer than wide, (3) 6–17 (22) × (1.5) 3–6 (9) cm; base usually oblique and cordate; acumen short to long, 0.5–2 (2.5) cm, acute or mucronate; nerve I and the (4) 6–9 (13) main pairs of nerves II, often impressed above, always prominent below; glands generally present only on the lower face, hidden by the arachnoid when it persists, fairly well distributed, sometimes more numerous toward the base and apex.
 
-Stipules en général palmatipartites en 2-4 (5) divisions subulées courbes de (2) 5-10 (14) mm, parfois entières du côté inférieur des rameaux plagiotropes.
+Inflorescences axillary, ≤ 50-flowered, sometimes gathered on axillary aphyllous branchlets or on the apical leafless part of branchlets, generally pedunculate and showing 1–3 well-visible orders of short or long ramifications; brown pubescence. Peduncle (0) 0.5–2.5 (3.5) cm. Bracts and bracteoles subulate, curved or not, long ≤ 8 mm, pubescence appressed to hispid often of mixed long and short hairs. Pedicel ≤ 6 mm, upper part 0.5 mm, ± pubescent as the bracts and bracteoles.
 
-Feuilles courtement pétiolées à subsessiles. Pétiole subcylindrique de 1-5 mm. Jeune limbe couvert d'une arachnée blanche généralement tôt caduque. Limbe ové-elliptique à obové ou oblong, (1,5) 2-3 (3,5) fois plus long que large, (3) 6-17 (22) × (1,5) 3-6 (9) cm ; base le plus souvent oblique et cordée ; acumen court à long, 0,5-2 (2,5) cm, aigu ou mucroné ; la nervure I et les (4) 6-9 (13) principales paires de nervures II, souvent imprimées dessus, toujours proéminentes dessous ; glandes en général présentes seulement à la face inférieure, cachées par l'arachnée quand celle-ci persiste , assez bien réparties, parfois plus nombreuses vers la base et le sommet.
+Flowers. Sepals suberect, sometimes slightly reflexed, ovate to obovate-elliptic to narrow-oblong, 2–4.5 × 0.7–2.5 mm, woolly tomentum to appressed pubescence on the external side and appressed puberulence on the internal side. Petals erect or nearly so, shortly united by their base to the filaments, of narrow obovate-spatulate to sublinear form, long 3.5–5.5 mm, split on 0.7–2.5 mm, glabrous or with some appressed external hairs above the split; lobes concave rounded at apex. Stamens erect, long 2.5–5 (6) mm, glabrous, connective prominent. Staminodes subquadrate to subobovoid-oblong, ≤ 0.5 × 0.5 mm, glabrous or with some internal curled hairs. Pistil 3-merous, long 2–5 (7) mm, dense woolly hairs on the ovary and lower part of the style, whose glabrous upper part is terminated by 3 short lobes.
 
-Inflorescences axillaires, ≤ 50-flores, parfois réunies sur des rameaux axillaires aphylies ou sur la partie apicale sans feuilles des rameaux, en général pédonculées et montrant 1-3 ordres bien visibles de ramifications courtes ou longues; pubescence brune. Pédoncule (0) 0,5-2,5 (3,5) cm. Bractées et bractéoles subulées, courbes ou non, longues de ≤ 8 mm, pubescence apprimée à hispide souvent de poils longs et courts mélangés. Pédicelle ≤ 6 mm, partie supérieure 0,5 mm, ± pubescent comme les bractées et les bractéoles.
-
-Fleurs. Sépales subérigés, parfois un peu réfléchis, ovés à obovés-elliptiques à oblongs-étroits, 2-4,5 × 0,7-2,5 mm, tomentum laineux à pubescence apprimée du côté externe et pubérulence apprimée du côté interne. Pétales dressés ou presque, courtement unis par leur base aux filets, de forme étroite et obovée-spatulée à sublinéaire, longs de 3,5-5,5 mm, fendus sur 0,7-2,5 mm, glabres ou avec quelques poils apprimées externes au-dessus de la fente ; lobes concaves arrondis au sommet. Étamines dressées, longues de 2,5-5 (6) mm, glabres, connectif proéminent. Staminodes subcarrés à suboboïvés-oblongs, ≤ 0,5 × 0,5 mm, glabres ou avec quelques poils frisottés internes. Pistil 3-mère, long de 2-5 (7) mm, poils laineux denses sur l'ovaire et la partie basse du style, dont la partie supérieure glabre est terminée par 3 lobes courts.
-
-Fruits mûrs veloutés, jaunes à oranges, 1-3-spermes, nettement lobés quand ils sont > 1-loculaires, en général munis d'un bec; la présence des loges avortées est marquée par une crête nette; les fruits 1-spermes subellipsoidales, 4,5 × 1,5-2 cm, à base arrondie souvent courtement stipitée, munis d'un bec long de 2 cm; exocarpe velouté; mésocarpe succulent; endocarpe osseux épais de 0,5 mm, intérieur glabre. Graines subellipsoidales à ovoïdes, 2 × 1 cm; testa brun à noir.
+Ripe fruits velvety, yellow to orange, 1–3-seeded, distinctly lobed when > 1-locular, generally provided with a beak; the presence of aborted locules is marked by a distinct ridge; the 1-seeded fruits subellipsoid, 4.5 × 1.5–2 cm, with rounded base often shortly stipitate, provided with a beak 2 cm long; exocarp velvety; mesocarp succulent; endocarp bony, 0.5 mm thick, interior glabrous. Seeds subellipsoid to ovoid, 2 × 1 cm; testa brown to black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Central Africa
 
-Afrique centrale
-
-Cameroun, Gabon, Congo, Zaïre
+Cameroon, Gabon, Congo, Zaire
 
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+evergreen and semi-deciduous rainforests
 
-forêts ombrophiles sempervirentes et semi-décidues
+Three varieties could be distinguished, two of which are present in Gabon.
 
-Il a pu être distingué trois variétés dont deux sont présentes au Gabon.
+KEY TO THE VARIETIES
 
-CLÉ DES VARIÉTÉS
-
-Étamines 2,5-3 mm, pistil 2-2,5 mm ; indumentum blanc persistant à la face inférieure des feuilles ..... var. letestui Étamines (3,5) 4-5 (6) mm, pistil (3,5)4-5 (7) mm ; indumentum blanc persistant ou non à la face inférieure des feuilles ..... var. lujae
+Stamens 2.5–3 mm, pistil 2–2.5 mm; persistent white indumentum on the lower face of leaves ..... var. letestui
+Stamens (3.5) 4–5 (6) mm, pistil (3.5) 4–5 (7) mm; persistent or not white indumentum on the lower face of leaves ..... var. lujae
 
 28a. var. lujae
 
-DE WILDEMAN & TH. DURAND, Bull. Soc. Roy. Bot. Belg. 39 : 55, « lujaei » (1900) ; HAUMAN, FZRB 7 : 342, « lujae » (1958) ; BRETELER, MLW 73 (13) : 20, 75, 76, XVII, « lujaei » (1973) ; l.c. 78 (10) : 7, 54, « lujaei » (1978) ; l.c. 79 (16) : 17, 54, 67-72, « lujae » (1979) ; l.c. 81 (10) : 10, 53 (1981) ; AUWP 86 (3) : 12, 13, 16, 32 (1986). TYPE : Zaïre, Stanley Pool, Luja 5 (holo-, BR).
+DE WILDEMAN & TH. DURAND, Bull. Soc. Roy. Bot. Belg. 39 : 55, « lujaei » (1900) ; HAUMAN, FZRB 7 : 342, « lujae » (1958) ; BRETELER, MLW 73 (13) : 20, 75, 76, XVII, « lujaei » (1973) ; l.c. 78 (10) : 7, 54, « lujaei » (1978) ; l.c. 79 (16) : 17, 54, 67–72, « lujae » (1979) ; l.c. 81 (10) : 10, 53 (1981) ; AUWP 86 (3) : 12, 13, 16, 32 (1986). TYPE : Zaire, Stanley Pool, Luja 5 (holo-, BR).
 
 – – var. brevipile Hauman, Bull. Jard. Bot. Brux. 25 : 349 (1955) ; FZRB 7 : 344 (1958).
 
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous rainforests
 
-Forêts ombrophiles ripicoles
+Ripicole evergreen rainforests
 
 ## Type
 
@@ -78,15 +71,13 @@ Le Testu 2004, Tchibanga, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – – var. leucosepalum (RULH.) HAUMAN, FZRB 7: 345 (1958).
 
-- D. leucosepalum RULH., Bot. Jahrb. 33: 81 (1902); BRETELER, MLW 73 (13): XVII, syn. de D. « lujaei ». TYPE: Zaïre, s.l., Dewèvre 1048 = « 10048 » (holo-, BR).
+- D. leucosepalum RULH., Bot. Jahrb. 33: 81 (1902); BRETELER, MLW 73 (13): XVII, syn. of D. « lujaei ». TYPE: Zaire, s.l., Dewèvre 1048 = « 10048 » (holo-, BR).
 
-Pl. 33, l-6, p. 121.
+Pl. 33, 1–6, p. 121.
 
-Cette variété se distingue des autres par la taille plus petite de ses étamines et de son pistil. De semblables variétés à petites fleurs ont aussi été distinguées dans les espèces D. choristilum, D. crassifolium et D. dewevrei ainsi que chez D. heudelotii (cf. p. 000).
+This variety is distinguished from the others by the smaller size of its stamens and pistil. Similar small-flowered varieties have also been distinguished in the species D. choristilum, D. crassifolium and D. dewevrei as well as in D. heudelotii (cf. p. 000).
 
 ## Specimens examined
 

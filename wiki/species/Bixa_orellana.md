@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 DE WILDEMAN, Pl. Ut. Congo 2 (1) : 5 et 19 (1906); POBÉGUIN, Fl. Guinée Fr. : 162 (1906); SIM, For. Fl. Port. E. Afr. : 11, tab. 2a (1909); VOLKENS, Notizbl. Bot. Gart. Berlin, suppl. 22, 3 : 68 et 111, tab. 5 a-p (1910); PILGER, Nat. Pflanzenfam., ed. 2, 21 : 313, tab. 139 (1925); HUTCHINSON, Fam. Fl. Pl., ed. 1, 1 : 159, tab. 91 (1926); IRVINE, Pl. Gold Coast : 56 (1930); Woody Pl. Ghana : 71 (1961); DALZIEL, Us. Pl. W. Trop. Afr. : 45 (1937); EXELL & MENDONÇA, Consp. Fl. Angol. 1 : 77 (1937); BRENAN, TTCL : 74 (1949); KEAY, FWTA, ed. 2, 1 : 183 (1954); ROBERTY, Petite Fl. Ouest-Afr. : 261 (1954); WILD, Fl. Zambes. 1 : 260 (1960); WHITE, FFNR : 263 (1962); BOUQUET, MÉM. ORSTOM 36 : 73 (1969).
 
 — Bixa acuminata Bojer, Hort. Maurit. 2 : 381 (1763).
@@ -29,19 +27,17 @@ DE WILDEMAN, Pl. Ut. Congo 2 (1) : 5 et 19 (1906); POBÉGUIN, Fl. Guinée Fr. : 
 
 — Bixa urucurana Willdenow, Hort. Berol.: 565 (1809).
 
-— Bixa americana PoIR., Encyclop. 6 : 229 (1829).
+— Bixa americana POIR., Encyclop. 6 : 229 (1829).
 
 — Bixa odorata Ruiz & Pavon, Fl. Peruv. 5, in An. Inst. Bot. Cavanilles 17 : tab. 460 (1959).
 
 — Bixa platycarpa Ruiz & Pavon, l.c. : tab. 459 (1959).
 
-Petit arbre atteignant 15 m de hauteur; jeunes rameaux bruns couverts de poils peltés ± dressés roux. Feuilles à pétiole cylindrique, long de 4-10 cm à poils écailleux ellipsoïdes ou orbiculaires, fortement apprimés; limbe écailleux sur les deux faces (poils de même type que ceux du pétiole), marron vert mat sur les deux faces à l'état sec, 6-22 × 3-13 cm, base cordée, sommet acuminé obtus. Nervures primaires 5, ± déprimées dessus, saillantes dessous, ± écailleuses; nervures secondaires 3-7 paires, ascendantes, ± arquées, s'anastomosant à 1-3 mm du bord du limbe, faiblement déprimées dessus et saillantes dessous. Nervures tertiaires en réseau dense à mailles polygonales subquadrangulaires.
+Small tree reaching 15 m in height; young branches brown covered with peltate hairs ± erect rusty. Leaves with cylindrical petiole, 4-10 cm long with scaly ellipsoid or orbicular hairs, strongly appressed; blade scaly on both faces (hairs of same type as those of the petiole), matt greenish-brown on both faces when dry, 6-22 × 3-13 cm, base cordate, apex acuminate obtuse. Primary veins 5, ± depressed above, prominent below, ± scaly; secondary veins 3-7 pairs, ascending, ± curved, anastomosing 1-3 mm from the blade margin, weakly depressed above and prominent below. Tertiary veins in dense network with subquadrangular polygonal meshes.
 
-Inflorescence en panicule terminale; axe densément couvert de poils peltés roux ± dressés et de poils peltés fortement apprimés. Bouton floral globuleux. Fleurs ¥, pentamères, actinomorphes, roses. Sépales 5, finement écailleux sur les deux faces, très largement lancéolés à deltoïdes, 1 × 1 cm, sommet obtus, 5 glandes charnues à la base de la face externe. Pétales 5, imbriqués, roses, glabres sur les deux faces, obovoïdes, 3 × 1,5 cm, fortement réticulés, sommet arrondi. Étamines très nombreuses; filets grêles, jaunes, longs de 1,5 cm; anthères roses, hippocrépiformes, longues de 3,25 mm, à déhiscence longitudinale courte et sommitale. Ovaire supère, densément pubescent, globuleux d'un diamètre de 3 mm, uniloculaire, nom
+Inflorescence in terminal panicle; axis densely covered with peltate rusty hairs ± erect and peltate hairs strongly appressed. Floral bud globose. Flowers ¥, pentamerous, actinomorphic, pink. Sepals 5, finely scaly on both faces, very broadly lanceolate to deltoid, 1 × 1 cm, apex obtuse, 5 fleshy glands at the base of the external face. Petals 5, imbricate, pink, glabrous on both faces, obovoid, 3 × 1.5 cm, strongly reticulate, apex rounded. Stamens very numerous; filaments slender, yellow, 1.5 cm long; anthers pink, hippocrepiform, 3.25 mm long, with short and terminal longitudinal dehiscence. Ovary superior, densely pubescent, globose with a diameter of 3 mm, unilocular, numerous ovules on two parietal placentae. Style ± claviform, flattened, 1.7 cm long, sinuous, terminating in a bilobed stigma.
 
-breux ovules sur deux placentas pariétaux. Style ± claviforme, applati, long de 1,7 cm, sinueux, se terminant en stigmate bilobé.
-
-Capsule bivalve rose ou rouge, globuleuse ou ovoïde, 3,5-4,5 × 2,5-3 cm, épineuse. Graines nombreuses, brunes, dans une pulpe rouge ou jaune-orange, sur les placentas centraux. PL. 15, p. 61.
+Capsule bivalve pink or red, globose or ovoid, 3.5-4.5 × 2.5-3 cm, spiny. Seeds numerous, brown, in red or yellow-orange pulp, on the central placentae. PL. 15, p. 61.
 
 ## Type
 
@@ -49,15 +45,11 @@ s.c. in herb. Linné 674, Amérique tropicale, fl. (holo-, LINN)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante originaire de l'Amérique tropicale est largement répandue dans toutes les zones tropicales du monde où elle est cultivé près des villages. Elle devient parfois subspontanée.
+This plant native to tropical America is widely distributed in all tropical zones of the world where it is cultivated near villages. It occasionally becomes subspontaneous.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les graines donnent un colorant végétal : le roucou, servant à teindre les nattes et les tissus en rouge. C'est un purgatif léger. La décoction des feuilles s'emploie pour arrêter les vomissements
+The seeds yield a vegetable dye: annatto, used to dye mats and fabrics red. It is a mild purgative. The decoction of the leaves is used to stop vomiting.
 
 ## Vernacular names
 

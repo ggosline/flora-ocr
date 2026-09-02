@@ -17,35 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPES: Mann XI, Cameroon (lecto-, isolecto-); Mann 155, Equatorial Guinea, and Mann 2257, Nigeria (syn-).
 
-TYPES : Mann XI, Cameroun (lecto-, isolecto-) ; Mann 155, Guinée équatoriale, et Mann 2257, Nigeria (syn-).
+– Oncoba aristata OLIV., FTA 1: 118 (1868). TYPE: Mann 921, Gabon (holo-, K).
 
-– Oncoba aristata OLIV., FTA 1 : 118 (1868). TYPE : Mann 921, Gabon (holo-, K).
+– Cerolepis petiolaris PIERRE, drawings and analyses in Herb. in January 1896; BSLP, n. s., 13: 111 (1899). TYPES: Klaine 249, Gabon (lecto-, chosen here, P!; isolecto-, P!); Klaine 455, Gabon (syn-, P!).
 
-– Cerolepis petiolaris PIERRE, dessins et analyses in Herb. en janv. 1896 ; BSLP, n. s., 13 : 111 (1899). TYPES : Klaine 249, Gabon (lecto-, choisi ici, P! ; isolecto-, P!) ; Klaine 455, Gabon (syn-, P!).
+– Camptostylus petiolaris (PIERRE) GILG, EBJ 40: 451 (1908); A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon: 55 (1917); GILG, in ENGL., PWA 3 (2): 563 (1921).
 
-– Camptostylus petiolaris (PIERRE) GILG, EBJ 40 : 451 (1908) ; A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 55 (1917) ; GILG, in ENGL., PWA 3 (2) : 563 (1921).
+– Caloncoba mannii (OLIV.) GILG, EBJ 40: 462 (1908); HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1): 161 (1927).
 
-– Caloncoba mannii (OLIV.) GILG, EBJ 40 : 462 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 161 (1927).
+– Caloncoba aristata (OLIV.) GILG, EBJ 40: 462 (1908); in ENGL., PWA 3 (2): 569 (1921).
 
-– Caloncoba aristata (OLIV.) GILG, EBJ 40 : 462 (1908) ; in ENGL., PWA 3 (2) : 569 (1921).
+– Pyramidocarpus petiolaris PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon: 56 (1917). TYPE: Klaine 2219, Gabon (holo-, P!).
 
-– Pyramidocarpus petiolaris PIERRE ex A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Bois du Gabon : 56 (1917). TYPE : Klaine 2219, Gabon (holo-, P!).
+– Camptostylus mannii (OLIV.) GILG, NPF 21: 398 (1925); KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1): 187 (1954); BAMPS, FCBR, Spermat., Flacourt. 1: 20 (1968); SLEUMER, EBJ 94 (3): 284 (1974).
 
-– Camptostylus mannii (OLIV.) GILG, NPF 21 : 398 (1925) ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 187 (1954) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 20 (1968) ; SLEUMER, EBJ 94 (3) : 284 (1974).
+– Camptostylus aristatus (OLIV.) GILG, in ENGL. & PRANTL, NPF 21: 398 (1925);
 
-– Camptostylus aristatus (OLIV.) GILG, in ENGL. & PRANTL, NPF 21 : 398 (1925) ;
+Tree (10–15 m tall); branchlets wrinkled-striate, lenticellate, greyish, glabrous.
 
-Arbre (10-15 m de haut) ; rameaux ridés-striés, lenticellés, grisâtres, glabres.
+Leaves with caducous stipules; petiole 2.5–9 cm long, glabrous; blade elliptic to obovate-oblong, acute to obtuse at the base, acuminate at the apex, 12–30 × 5.5–13 cm, entire, coriaceous, glabrous; secondary nerves 7–9 pairs.
 
-Feuilles à stipules caduques ; pétiole de 2,5-9 cm de long, glabre ; limbe elliptique à obovale-oblong, aigu à obtus à la base, acuminé au sommet, 12-30 × 5,5-13 cm, entier, coriace, glabre ; nervures secondaires 7-9 paires.
+Flowers in contracted, racemiform panicles; pedicel 8–15 mm long, articulate, glabrous; sepals 3, ovate, ± hooded, 9–10 × 5–6 mm, glabrous; petals 8–10, obovate, clawed, 10–20 × 4–9 mm, ± ciliate; stamens numerous, filament 3–6 mm long, puberulent; anthers 3–5 mm long, with long awns or not, pubescent;
 
-Fleurs en panicules contractées, racémiformes ; pédicelle de 8-15 mm de long, articulé, glabre ; sépales 3, ovales, ± en capuchon, 9-10 × 5-6 mm, glabres ; pétales 8-10, obovales, onguiculés, 10-20 × 4-9 mm, ± ciliés ; étamines nombreuses, à filet de 3-6 mm de long, pubérulent ; anthères de 3-5 mm de long, longuement aristées ou non, pubescentes ;
+ovary glabrous pustulate, with 4–5 polyovulate placentas; style 4 mm long, divided at the apex into 4–5 stigmatic branches 2 mm long, recurved.
 
-ovaire glabre pustuleux, à 4-5 placentas pluriovulés ; style de 4 mm de long, divisé au sommet en 4-5 branches stigmatiques de 2 mm de long, recourbées.
-
-Fruits : capsules subglobuleuses ou ovoïdes, de 2,5-3,5 cm de diamètre, inermes, 4-5-sillonnées, apiculées, tardivement déhiscentes ; graines ovoïdes, glabres,  $ 8 \times 4 $ mm. - Pl. 18, p. 59.
+Fruits: subglobose or ovoid capsules, 2.5–3.5 cm in diameter, unarmed, 4–5-grooved, apiculate, tardily dehiscent; seeds ovoid, glabrous, 8 × 4 mm. - Pl. 18, p. 59.
 
 ## Type
 
@@ -53,15 +51,11 @@ Mann XI, Cameroun (lecto-, cf. SLEUMER 1974, K ; isolecto-, P!) ; Mann 155, Guin
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Gabon, RCA, Congo, Zaïre, Angola
+Nigeria, Cameroon, Equatorial Guinea, Gabon, CAR, Congo, Zaïre, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts marécageuses et en bordure des rivières
+Swampy forests and along river margins
 
 ## Specimens examined
 

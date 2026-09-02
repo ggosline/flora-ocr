@@ -15,11 +15,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 22.1 Elymandra gossweileri (Stapf) Clayton
 
-FWTA : 498 ; Poac. CI. : 614, 615 ; Gram. CB. : 315. – Pleiadelphia gossweileri Stapf – Fl. Gab. : 191.
+FWTA : 498 ; Poac. Cl. : 614, 615 ; Gram. CB. : 315. – Pleiadelphia gossweileri Stapf – Fl. Gab. : 191.
 
 ## Specimens examined
 

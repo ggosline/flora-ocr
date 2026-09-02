@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic shrubs or small trees up to 5 m. Leafy branches 7–15 mm thick, glabrous or rather sparsely hirtellous, brown when dry, solid. Leaves arranged in spirals. Blade subpanduriform or lanceolate to oblong, 16–40 cm long, 3–15 cm wide, coriaceous (with a thick layer), apex ± finely acuminate, base ± deeply cordate (the lobes often more than 1 cm long) to truncate; margin sometimes weakly undulate beneath the narrowing of the blade; glabrous on both surfaces or sparsely puberulent below on the basal part of the midvein; veins weakly prominent to plane or the main veins somewhat concave above; midvein and often the laterals very prominent, the other veins ± prominent below; 9–15 pairs of lateral veins, including (2–) 3–4 pairs of basal veins, glandular spot usually rather conspicuous. Petiole 1–5.5 cm long, 3–6 mm thick, glabrous or (rather) sparsely hirsute, periderm exfoliating. Stipules free, 1–8 cm long, usually shortly hirsute, persistent.
 
-Arbustes épiphytes ou petits arbres jusqu'à 5 m. Rameaux feuillés épais de 7-15 mm, glabres ou plutôt éparsement hirtelleux, bruns sur le sec, pleins. Feuilles disposées en spirales. Limbe subpanduriforme ou lancéolé à oblong, long de 16-40 cm, large de 3-15 cm, coriace (en couche épaisse), sommet ± finement acuminé, base ± profondément cordée (les lobes souvent plus de 1 cm de long) à tronquée ; bord parfois faiblement ondulé sous le rétrécissement du limbe ; glabre sur les deux faces ou éparsement pubérulent dessous sur la partie basale de la nervure médiane ; nervures faiblement saillantes à planes ou les nervures principales un peu concaves, dessus ; nervure médiane et souvent les latérales très saillantes, les autres nervures ± saillantes dessous ; 9-15 paires de nervures latérales, inclus (2-) 3-4 paires de nervures basales, tache glandulaire habituellement plutôt visible. Pétiole long de 1-5,5 cm, épais de 3-6 mm, glabre ou (plutôt) éparsement hérissé, périderme se détachant. Stipules libres, longues de 1-8 cm, habituellement courtemment hérissées, persistantes.
+Figs solitary or in pairs in the leaf axils, sessile; basal bracts semicircular to broadly ovate, 3–5 mm long, puberulent or glabrous; receptacle often ± globose depressed, 2.5–3.5 cm in diameter and often wrinkled when dry, puberulent to hirtellous, medium green with white spots to dark brown with pale brown spots, ostiole flat, slit-shaped.
 
-Figues solitaires ou par paires dans les aisselles foliaires, sessiles ; bractées basales semi-circulaires à largement ovées, longues de 3-5 mm, pubérulentes ou glabres ; réceptacle souvent ± globuleux déprimé, d'un diamètre de 2,5-3,5 cm et souvent ridé sur le sec, pubérulent à hirtelleux, vert moyen avec des taches blanches à marron noir avec des points brun pâle, ostiole plat, en forme de fente.
-
-Fleurs pistillées avec un périanthe haut de 2,5 mm environ, bi- ou trifides (ou partites); fleurs à graines sessiles ou pédicellées jusqu'à 1,5 mm, style long de 2,5-4 mm; fleurs à galles pédicellées jusqu'à 3 mm, style long de 1-1,5 mm. Fruits oblongoïdes, longs de 3 mm environ, rétrécis vers la base ; fruits à galles longs de 3,5 mm environ, rétrécis à la base à faiblement stipités ; fruits nettement bicolores. Fleurs staminées pédicellées jusqu'à 1 mm, périanthe tri (tétra) partite, haut de 2,5-3 mm, filet long de 1 mm environ, anthère longue de 1,5 mm environ. Bractées interflorales longues jusqu'à 3 mm. - Pl. 75, p. 243.
+Pistillate flowers with a perianth approximately 2.5 mm high, bi- or trifid (or partite); seed flowers sessile or pedicellate up to 1.5 mm, style 2.5–4 mm long; gall flowers pedicellate up to 3 mm, style 1–1.5 mm long. Fruits oblongoid, approximately 3 mm long, narrowed toward the base; gall fruits approximately 3.5 mm long, narrowed to the base to weakly stipitate; fruits distinctly bicolorous. Staminate flowers pedicellate up to 1 mm, perianth tri (tetra) partite, 2.5–3 mm high, filament approximately 1 mm long, anther approximately 1.5 mm long. Interfloral bracts up to 3 mm long. – Pl. 75, p. 243.
 
 ## Type
 
@@ -31,11 +29,9 @@ Zenker 446 (= 2519), Cameroun, Bipindi (holo-, U ; iso-, B, P, WAG.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The leaves of F. subsagittifolia are sometimes almost similar to those of F. sagittifolia. The species are clearly different in the dimensions of the figs and, moreover, they are probably geographically isolated.
 
-Les feuilles de F. subsagittifolia sont parfois presque semblables à celles de F. sagittifolia. Les espèces sont nettement différentes dans les dimensions des figues et, en outre, elles sont probablement géographiquement isolées.
-
-L'espèce a été trouvée au Cameroun et au Gabon, dans la forêt dense humide toujours verte.
+The species was found in Cameroon and Gabon, in the dense humid evergreen forest.
 
 ## Specimens examined
 

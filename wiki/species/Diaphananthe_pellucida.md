@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys pellucida (Lindl.) Rchb. f., Walp. Ann. Bot. 6: 908 (1864).
 
 – Listrostachys althoffii (Kraenzl.) Durand & Schinz., Consp. Fl. Afr. 5 : 47 (1895).
 
 – Listrostachys thonneriana Kraenzl. in Durand & De Wild., Bull. Soc. Roy. Bot. Belg. 38: 64 (1899).
 
-Tige < 12 cm. Feuilles 15-70 x 2-9 cm, blancéolées, légèrement falciformes. Inflorescence 15-80 cm, 40-60-flore. Fleurs jaune clair, sans parfum. Sépale dorsal ové à oblong-lancéolé, subaigu. Pétales linéaires à obliquement ovés, aigus. Sépales latéraux lancéolés à oblongs-lancéolés, aigus. Labelle 7,5-15 x 7-15(-18) mm, ové, tronqué au sommet, marges latérales lacérées, callus unique à la gorge de l'éperon dont l'entrée est bordée de chaque côté par une ride charnue en relief. Éperon 5-15 mm, étroitement cylindrique à la base, nettement renflé au-dessus et progressivement atténué vers un apex obtus. – Pl. 205, p. 435.
+Stem < 12 cm. Leaves 15–70 × 2–9 cm, lanceolate, slightly falcate. Inflorescence 15–80 cm, 40–60-flowered. Flowers pale yellow, scentless. Dorsal sepal ovate to oblong-lanceolate, subacute. Petals linear to obliquely ovate, acute. Lateral sepals lanceolate to oblong-lanceolate, acute. Lip 7.5–15 × 7–15(–18) mm, ovate, truncate at apex, lateral margins lacerate, single callus at the spur throat, the entrance bordered on each side by a fleshy raised ridge. Spur 5–15 mm, narrowly cylindrical at the base, distinctly swollen above and gradually attenuated toward a blunt apex. – Pl. 205, p. 435.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Gabon, Annon, Guinée équatoriale, Congo, République centrafricaine, Zaïre, Ouganda
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Nigeria, Cameroon, Gabon, Angola, Equatorial Guinea, Congo, Central African Republic, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–1,800 m. Epiphytic in dense humid forest, secondary forest, observed at 1.5–2 m above ground on Cleistanthus mildbraedii, Scorodophlaeus zenkeri, often above water
 
-alt. 900-1 800 m. Épiphyte en forêt dense humide, forêt secondaire, observé à 1,5-2 m au-dessus du sol sur Cleistanthus mildbraedii, Scorodophlaeus zenkeri, souvent au-dessus de l'eau
+MATERIAL STUDIED (Map 93) :
 
-MATÉRIEL ÉTUDIÉ (Carte 93) :
-
-Hallé 1476, Makokou, au-dessus de l'Ivindo (fl. Mars), P! ; 1502, Makokou, près de l'Ivindo (fl. Mars), P! ; 3473 & 3614, Bélinga (fl. Déc.), P!. Hallé & Villiers 5202, Monts de Cristal, Monts Mvélakéné, 5 km O Mela (fl. Févr.), P!. Le Testu 6359, Haute Ngounyé, Mouvindou (fl. Oct.), P! ; 7136, région de Lastoursville, bord de l'Ogooué à Lastoursville (fl. Avr.), P! ; 7136b, Haut Ogooué, bords de l'Ogooué à Lastourville (fl. Avr.), P!. Thollon 323, Franceville (fl. Janv.), P! ; 4067, au bord du Djoué (fl. Avr.), P! ; s.n., s.loc., P!.
+Hallé 1476, Makokou, above the Ivindo (fl. Mar.), P! ; 1502, Makokou, near the Ivindo (fl. Mar.), P! ; 3473 & 3614, Bélinga (fl. Dec.), P!. Hallé & Villiers 5202, Cristal Mountains, Mvelaké Mountains, 5 km W Mela (fl. Feb.), P!. Le Testu 6359, Upper Ngounyé, Mouvindou (fl. Oct.), P! ; 7136, Lastoursville region, bank of the Ogooué at Lastoursville (fl. Apr.), P! ; 7136b, Upper Ogooué, banks of the Ogooué at Lastourville (fl. Apr.), P!. Thollon 323, Franceville (fl. Jan.), P! ; 4067, on the bank of the Djoué (fl. Apr.), P! ; s.n., s.loc., P!.
 
 ## Figures
 

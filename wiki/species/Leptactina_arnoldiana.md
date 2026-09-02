@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub reaching 2 to 6 m in height, erect, with spreading, smooth branches. Stipules orbicular, refracted, cucullate, reaching 15–27 mm in width. Petiole 3–15 mm. Anisophylly frequently distinct. Lamina glabrous or micropubérulent on the lower surface, often olive-brown when dry, elliptic or narrowly obovate, 15–45 × 5–18 cm; base subacute or ± longly acute; apex ± briefly acuminate. 12–25 pairs of secondary venation ± finely micropubérulent on the lower surface. Domatia micropubérulent, scarcely distinct.
 
-Arbuste atteignant 2 à 6 m de hauteur, dressé, à rameaux étalés, lisses. Stipules orbiculaires réfractées, cucullées, atteignant 15-27 mm de largeur. Pétiole de 3-15 mm. Anisophyllie fréquemment nette. Limbe glabre ou micropubérulent à la face inférieure, souvent brun olivâtre à sec, elliptique ou étroitement obové de 15-45 × 5-18 cm; base subaiguë ou ± longuement aiguë; sommet ± brièvement acuminé. 12-25 paires de nervures secondaires ± finement micropubérulentes à la face inférieure. Domaties micropubérulentes peu distinctes.
+The inflorescence comprises up to about twenty flowers; it differs from the preceding species by its axes and pedicels generally longer, reaching 10–35 mm and even 70 mm (Thollon 130); they are rarely short (4 mm in Le Testu 1209). Buds pale green. Calyx yellow-green, conical, 6–15 mm in length, with 5 lanceolate lobes, 35–60 × 6–10 mm, erect. At the base of the lobes and on the inner side, scale-like cereocysts, less than 1 mm. Corolla tube 9–12 cm long and approximately 3 mm wide, pubescent, with pubescent throat; lobes white, 6–9 × 0.7 cm, longly attenuate. Anthers pale yellow, 19–24 × 0.9–1.5, inserted above the upper third of their length, with connective exceeding the apex of the locules by approximately 1 mm; sometimes with a few hairs on the apex of the connective (N. Hallé 2690). Style as long as the tube, pubescent at the level of the anthers, with 2 stigmatic lobes adnate and concealed (always?), pubescent, approximately 1 cm long. Ovary with 10 ridges, of which 5 are more distinctly prominent in transverse section. Placental masses narrowly oblong, attenuate toward the base, with almost even surface, punctate, and with long axial insertion.
 
-L'inflorescence comporte jusqu'à une vingtaine de fleurs; elle diffère de l'espèce précédente par ses axes et pédicelles générale-ment plus longs, atteignant 10-35 mm et même 70 mm (Thollon 130); ils sont rarement courts (4 mm chez Le Testu 1209). Boutons vert pâle. Calice vert jaune conique sur 6-15 mm de longueur, à 5 lobes lancéolés de 35-60 × 6-10 mm, dressés. À la base des lobes
-
-et du côté interne, des céréocystes en forme d'écailles, inférieurs à 1 mm. Tube de la corolle long de 9-12 cm et large d'env. 3 mm, pubescent, à gorge pubescente; lobes blancs de 6-9 × 0,7 cm, longuement atténués. Anthères jaune pâle de 19-24 × 0,9-1,5, insérées au-dessus du tiers supérieur de leur longueur, à connectif dépassant l'apex des loges d'env. 1 mm; parfois quelques poils sur l'apex du connectif (N. Hallé 2690). Style aussi long que le tube, pubescent au niveau des anthères, à 2 lobes stigmatiques adhérents et cachés (toujours?), pubescents, longs d'env. 1 cm. Ovaire à 10 côtes dont 5 plus nettement saillantes en coupe transversale. Masses placentaires étroitement oblongues, atténuées vers le bas, à surface presque unie, ponctuée, et à longue insertion axiale.
-
-Fruit conique-oblong, cannelé, de 3 cm de longueur et 13 mm de largeur au niveau de la base des lobes. Placentas atteignant 8,5 mm de longueur. Graines très nombreuses subanguleuses de 2 mm. Albumen contenant un embryon droit dirigé obliquement ou latéralement.
+Fruit conical-oblong, channelled, 3 cm in length and 13 mm in width at the level of the base of the lobes. Placentas reaching 8.5 mm in length. Seeds very numerous, subangular, 2 mm. Albumen containing a straight embryo directed obliquely or laterally.
 
 ## Type
 
@@ -33,13 +29,11 @@ E. Laurent, Forêts à Kondue, région de Lusambo, centre de la cuvette congolai
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+An apparently related species, imperfectly known, L. polyneura K. Krause (Bot. Jahrb. 48: 409, 1912) is cited from the environs of Corisco Bay (Tessmann 573, fl. Oct. 1908); the flowers would be briefly pedicellate.
 
-Une espèce paraissant voisine et imparfaitement connue, L. polyneura K. Krause (Bot. Jahrb. 48 : 409, 1912) est citée des environs de la baie de Corisco (Tessmann 573, fl. oct. 1908); les fleurs seraient brièvement pédicellées.
+Cameroon, Gabon, Congo and Portuguese Mayombe (Gossweiler 8144). Open scrubland and edges of ± degraded forests up to 1000 m in altitude. Does not appear to exist on the littoral where the species L. Mannii replaces it.
 
-Cameroun, Gabon, Congo et Mayombe portugais (Gossweiler 8144). Brousse éclairée et lisière de forêts ± dégradées jusqu'à 1000 m d'altitude. Ne paraît pas exister sur le littoral où l'espèce L. Mannii le remplace.
-
-Nom vernaculaire non contrôlé : Epanda-Messouaka (Bakota).
+Unverified vernacular name: Epanda-Messouaka (Bakota).
 
 ## Specimens examined
 

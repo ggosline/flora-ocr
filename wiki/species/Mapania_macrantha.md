@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste, avec un rhizome épais de 4–6 mm ; tige solitaire, centrale , de 40–100 cm × 4–6 mm, trigone, glabre. Feuilles toutes basales ; gaine linéaire–lancéolée, assez épaisse, 7–15 × 1–1,5 cm, verdâtre ; limbe linéaire, plan, assez épais, trinervé, le plus grand de 100–150 cm × 45–65 mm , à base rétrécie progressivement en gaine, sans pseudo-pétiole, progressivement terminé en un sommet aigu ou rarement acuminé. Inflorescence terminale, en tête globuleuse, 37–55 mm de diamètre , brun moyen à foncé, formée de nombreux épis assez distincts ; bractées involucrales 3–4, étalées ou légèrement réfléchies, foliacées , linéaires à lancéolées, 2–90 × 1–6 cm, sommet aigu ; épis elliptiques–oblancéolés, de 15–18 × 3–5 mm, sommet obtus à arrondi ; bractées spicoïdales serrées, linéaires, 9–10 × 1–1,2 mm , brunes, mais avec des stries brun rouge foncé vers l’extrémité, glabres, planes, sommet obtus ou parfois fendu, chacune sous-tendant un spicoïde à 2 fleurs mâles et 1 femelle. Fleur : bractées florales 4, longues de 8–11 mm , les 2 inférieures linéaires, planes, larges de 0,4–0,8 mm , brunâtres, carène étroitement ailée, hispide, sommet aigu ; les 2 supérieures linéaires à filiformes, larges de 0,1–0,3 mm, glabres ; style à 2 branches. Akène obovoïde, 1,3–1,6 × 0,9–1,1 mm , lenticulaire, brun à noirâtre, rugueux avec 2 côtes latérales distinctes et 1 antérieure.
+Herb fairly robust, with a rhizome thick 4–6 mm; stem solitary, central, 40–100 cm × 4–6 mm, trigonous, glabrous. Leaves all basal; sheath linear–lanceolate, fairly thick, 7–15 × 1–1.5 cm, greenish; blade linear, plane, fairly thick, trinerved, the largest 100–150 cm × 45–65 mm, base gradually narrowed into sheath, without pseudo-petiole, gradually terminated in an acute or rarely acuminate apex. Inflorescence terminal, in a globose head, 37–55 mm in diameter, medium to dark brown, formed of numerous fairly distinct spikes; involucral bracts 3–4, spreading or slightly reflexed, foliaceous, linear to lanceolate, 2–90 × 1–6 cm, acute apex; spikes elliptic–oblanceolate, 15–18 × 3–5 mm, apex obtuse to rounded; spicoid bracts tightly packed, linear, 9–10 × 1–1.2 mm, brown, but with dark red-brown striae toward the apex, glabrous, plane, apex obtuse or sometimes split, each subtending a spicoid with 2 male flowers and 1 female. Flower: floral bracts 4, 8–11 mm long, the 2 lower linear, plane, 0.4–0.8 mm wide, brownish, keel narrowly winged, hispid, acute apex; the 2 upper linear to filiform, 0.1–0.3 mm wide, glabrous; style with 2 branches. Achene obovoid, 1.3–1.6 × 0.9–1.1 mm, lenticular, brown to blackish, rugose with 2 distinct lateral ribs and 1 anterior.
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; rare au Gabon, trouvée dans l’Estuaire, la Ngounié, la Nyanga et le Woleu-Ntem (6 récoltes)
+Cameroon and Gabon; rare in Gabon, found in Estuaire, Ngounié, Nyanga and Woleu-Ntem (6 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires ou secondaires, souvent le long des rivières et des ruisseaux ; au Gabon, à 0–500 m d’altitude, au Cameroun, jusqu’à 1350 m. Note taxonomique : ressemble beaucoup à M. purpuriceps , mais sans la couleur violette de cette espèce. Elle en diffère également par un groupement plus dense d’épis plus petits et moins distincts. À la loupe, elle s’en distingue par ses bractées spicoïdales plus étroites et les bractées florales avec une carène hispide et non ailée (grossièrement denticulée–hispide chez M. purpuriceps ). b : Hooper & Napper (1972), Simpson (1992). ibliographie
+primary or secondary forests, often along rivers and streams; in Gabon, at 0–500 m altitude, in Cameroon, up to 1350 m. Taxonomic note: resembles M. purpuriceps very much, but without the purple color of that species. It differs from it also by a denser grouping of smaller and less distinct spikes. Under magnification, it differs from it by its narrower spicoid bracts and floral bracts with a hispid and not winged keel (coarsely denticulate–hispid in M. purpuriceps). b: Hooper & Napper (1972), Simpson (1992). Bibliography
 
 ## Notes
 

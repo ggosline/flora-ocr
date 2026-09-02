@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Phyllomphax macrantha (Lindl.) Summerh., Kew Bull. 1 : 143 (1938).
 
 – Eulophia helleborina Hook. f., Bot. Mag.: tab. 5875 (1870).
@@ -27,27 +25,23 @@ tags: [species, generated]
 
 – Phyllomphax helleborina (Hook.f.) Schltr., Repert. Sp. Nov. Regni Veg., Beih. 4 : 119 (1919).
 
-Port très variable (cf. Écologie). Tubercules sphériques peu à plus nombreux. Tige 20-65 cm, glabre. Feuilles caulinaires 5-11 x 2-4 cm, elliptiques-lancéolées à lancéolées, aiguës. Inflorescence 6,5-16 cm, lâche, 6-15-flore. Fleurs relativement grandes, glabres, avec un labelle rose ou magenta, le plus souvent presque blanc avec des points sombres au centre. Tépales brun-verdâtre à brun-pourpre. Sépale dorsal oblong-ové à lancéolé, sommet cucullé ; sépales latéraux, égaux aux pétales, sigmoïdes, oblongs-lancéolés, subaigus, marges révolutées. Pétales falciformes ovés-lancéolés, subobtus. Labelle oblong-ové à trans-elliptique, sommet en général profondément fendu, marges dentées ou érodées. Éperon cylindrique-sacciforme. – Pl. 4, p. 19.
+Habit highly variable (cf. Ecology). Tubers spherical few to numerous. Stem 20-65 cm, glabrous. Cauline leaves 5-11 x 2-4 cm, elliptic-lanceolate to lanceolate, acute. Inflorescence 6.5-16 cm, lax, 6-15-flowered. Flowers relatively large, glabrous, with a pink or magenta labellum, most often almost white with dark spots at the centre. Tepals brownish-green to brownish-purple. Dorsal sepal oblong-ovate to lanceolate, apex cucullate; lateral sepals, equal to petals, sigmoid, oblong-lanceolate, subacute, margins revolute. Petals falcate ovate-lanceolate, subobtuse. Labellum oblong-ovate to transversely-elliptic, apex generally deeply cleft, margins dentate or erose. Spur cylindric-saccate. – Pl. 4, p. 19.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Nigeria, Cameroun, Centrafrique, Gabon
+Guinea, Sierra Leone, Liberia, Nigeria, Cameroon, Central African Republic, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 170-1600 m. Saxicolous grassland, riparian forest or along watercourses, sometimes submontane forest, primary forest. Terrestrial or saxicolous herb, sometimes even epiphytic on small tree 5 m above the ground
 
-alt. 170-1600 m. Prairie saxicole, forêt-galerie ou le long de cours d'eau, parfois forêt submontagnarde, forêt primaire. Herbacée terrestre ou saxicole, parfois même épiphyte sur petit arbre à 5 m au-dessus du sol
+MATERIAL STUDIED (Map 1) :
 
-MATÉRIEL ÉTUDIÉ (Carte 1) :
+Arends, Louis & de Wilde 689, Mont Doudou, West slope, 2°15'S, 10°20'E (fl., Dec.), WAG! LBV.
 
-Arends, Louis & de Wilde 689, Mont Doudou, versant Ouest, 2°15'S, 10°20'E (fl., Déc.), WAG! LBV.
+de Wilde & Sosef 10409, Bongolo, below the Protestant Mission on the escarpment of a bank of the Louetsi River, 2°14'S, 11°27'E (fl., Feb.), WAG! LBV.
 
-de Wilde & Sosef 10409, Bongolo, sous la Mission Protestante sur l'escarpement d'un banc de la Riv. Louetsi, 2°14'S, 11°27'E (fl., Fév.), WAG! LBV.
-
-Le Testu 5880, Haute Ngounyé, Doudou (fl., Mars), BM! BR! P! et 8777, id., Lécala (fl., Avr.), P!.
+Le Testu 5880, Haute Ngounyé, Doudou (fl., Mar.), BM! BR! P! and 8777, id., Lécala (fl., Apr.), P!.
 
 ## Figures
 

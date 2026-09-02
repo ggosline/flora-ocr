@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Robust cespitose herb, reaching up to 1 m tall. Culms with glabrous nodes. Leaves with compressed flabellate sheaths, linear blades with rounded base and obtuse apex, 5 to 15 cm long and 5 to 15 mm wide.
 
-Herbe cespiteuse robuste, pouvant atteindre 1 m de haut. Chaumes à nœuds glabres. Feuilles à gaines comprimées flabellées, limbes linéaires à base arrondie et obtus au sommet, de 5 à 15 cm de long et 5 à 15 mm de large.
+Inflorescence with 2 or 3 racemes, sometimes up to 5, digitate, or the lower ones separated from the others by a distinct internode, 5 to about 10 cm long.
 
-Inflorescence à 2 ou 3 racèmes, parfois jusqu'à 5, digités, ou les inférieurs séparés des autres par un entrenceud net, de 5 à une dizaine de cm de long.
-
-Épillets subsessiles, disposés alternativement de part et d'autre de l'axe du rachis, de 3,5 à 4 mm de long. Fleur supérieure mesurant les 2/3 de la longueur de l'épillet.
+Spikelets subsessile, arranged alternately on either side of the rachis axis, 3.5 to 4 mm long. Upper floret measuring 2/3 of the spikelet length.
 
 ## Specimens examined
 

@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree, 3–10 m tall. Leaves ovate or ovate-lanceolate, rounded or subcordate at the base, shortly acuminate at the apex, glabrous, 2.5–6 cm long and 1.5–3.5 cm wide. Petiole approximately 2 mm.
 
-Arbuste ou petit arbre, de 3-10 m haut. Feuilles ovées ou ovées-lancéolées, arrondies ou subcordées à la base, courtement acuminées au sommet, glabres, de 2,5-6 cm de long et 1,5-3,5 cm de large. Pétiole d'environ 2 mm.
+Flowers solitary, in the axils of bracts at the base of young shoots, or fasciculate in groups of 4–8. Bracts reaching 5 mm long. Pedicels slender, up to 2 cm long. Sepals oblong, ciliate, with glabrous faces, approximately 4 mm long. Petals obovate-unguiculate, 8–12 mm long. Ovary glabrous with 8 grooves. Fruit depressed-globose, red, resembling small lobed cherries.
 
-Fleurs solitaires, aux aisselles de bractées à la base de jeunes extrémités, ou fasciculées par 4-8. Les bractées atteignant 5 mm de long. Pédicelles grêles, jusqu'à 2 cm de long. Sépales oblongs, ciliés, à faces glabres, d'environ 4 mm long. Pétales obovés-onguiculés, de 8-12 mm de long. Ovaire glabre à 8 sillons. Fruit déprimé-globuleux, rouge, ressemblant à de petites cerises lobées.
+Native to Brazil, cultivated and subspontaneous in other warm countries.
 
-Originaire du Brésil, cultivé et subspontané dans les autres pays chauds.
-
-Fruits comestibles connus sous le nom de cerisier de Cayenne ou cerise carrée. Sert à former des haies.
+Edible fruits known by the name of Cayenne cherry or square cherry. Used to form hedges.
 
 ## Notes
 

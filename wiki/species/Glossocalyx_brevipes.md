@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bentham in Hooker, Ic. Pl. 14. t. 1302 (1880).
 
-— Gl, Staudtii Engl. Jahrb. 26 : 384 (1898).
+— Gl. Staudtii Engl. Jahrb. 26 : 384 (1898).
 
-Arbuste ou arbre de 3 à 8 m ressemblant au précédent par le port et le feuillage; les limbes sont entiers ou finement dentés, un peu plus petits que dans Gl. longicuspis; les poils étoilés sous le limbe, hors des nervures, varient de 0,2 à 0,5 mm de diamètre; le plus souvent apprimés, ils sont parfois à branches dressées en candélabres, atteignant 0,5 mm de haut (Le Testu 7685); les poils sous les nervures sont bi-trifurqués dès la base et apprimés, longs de 0,5 à 1 mm. La face supérieure des feuilles est glabre. Le caractère essentiel est la forme de la base du limbe : arrondie et dyssymétrique. Fleurs à pilosité généralement plus développée que dans Gl. longicuspis : les poils bi-trifurqués variant de 0,1 à 0,8 mm de long. Le nombre des pointes des sépales varie comme pour Gl. longicuspis de 1 à 4 (5) aussi la distinction des espèces Gl. brevipes et Gl. Staudti est difficile à établir, d'après les diagnoses, elle était la suivante :
+Shrub or tree 3 to 8 m tall, resembling the preceding one in habit and foliage; the leaf blades are entire or finely dentate, somewhat smaller than in Gl. longicuspis; the stellate hairs beneath the blade, outside the veins, vary from 0.2 to 0.5 mm in diameter; most often appressed, they are sometimes with branches erect in candelabra form, reaching 0.5 mm in height (Le Testu 7685); the hairs beneath the veins are bi-trifurcate from the base and appressed, 0.5 to 1 mm long. The upper surface of the leaves is glabrous. The essential character is the shape of the base of the blade: rounded and asymmetric. Flowers with pilosity generally more developed than in Gl. longicuspis: the bi-trifurcate hairs varying from 0.1 to 0.8 mm in length. The number of points of the sepals varies as for Gl. longicuspis from 1 to 4 (5), thus the distinction of the species Gl. brevipes and Gl. Staudtii is difficult to establish; according to the diagnoses, it was as follows:
 
-1. Languette du périanthe étroite dès la base, plus ou moins linéaire, atteignant 1 cm de long; pédicelle de 7 mm; arbuste atteignant 7 m à branches flexueuses; fl. à odeur de muscade..... Gl. Staudtii Engl.
+1. Perianth ligule narrow from the base, more or less linear, reaching 1 cm in length; pedicel 7 mm; shrub reaching 7 m with flexuous branches; fl. with nutmeg scent..... Gl. Staudtii Engl.
 
-1'. Languette triangulaire de 5 mm de long; pédicelle de 4 mm; arbuste de 3 m; odeur?..... Gl. brevipes Benth.
+1'. Triangular ligule 5 mm in length; pedicel 4 mm; shrub 3 m; scent?..... Gl. brevipes Benth.
 
-L'examen des huit échantillons de l'herbier du Muséum de Paris ne permet pas de les répartir en deux séries correspondant à ces définitions : Gl. Staudtii devient synonyme de Gl. longicuspis.
+Examination of the eight specimens from the herbarium of the Museum of Paris does not allow them to be divided into two series corresponding to these definitions: Gl. Staudtii becomes synonymous with Gl. longicuspis.
 
 ## Type
 
@@ -36,9 +34,7 @@ Mann 722 et 2196 Cameroun (K) pour Gl. brevipes Benth.; Staudt 28 Cameroun (P) p
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Deux noms vernaculaires : « Ekomvel » et « Dilorh » ont été notés par N. Hallé pour une plante dessinée sur matériel frais, conservée sous le n° 879.
+Two vernacular names: "Ekomvel" and "Dilorh" were noted by N. Hallé for a plant drawn from fresh material, preserved under no. 879.
 
 ## Specimens examined
 

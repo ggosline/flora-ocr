@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane reaching up to 8 m in height. Stem clothed with simple and short hairs, finely longitudinally striated, provided with opposite hooks. Petiolate leaves; stipules pubescent externally, laciniate, 8-9 mm long; petiole pubescent, canaliculate, 4-9 mm long; blade glabrous except on the veins, crenate, oblong-obovate to elliptic, cuneate to acute at the base, acute to acuminate at the apex, 6-15 × 3-5 cm. Secondary veins ± arched or ascending, 8-10 pairs, prominent and pubescent on the lower surface; veinlets parallel, prominent on both surfaces.
 
-Liane pouvant atteindre 8 m de hauteur. Tige vêtue de poils simples et courts, finement striée longitudinalement, pourvue de crochets opposés. Feuilles pétiolées; stipules pubescentes à l'extérieur, laciniées, longues de 8-9 mm; pétiole pubescent, canaliculé, long de 4-9 mm; limbe glabre, sauf sur les nervures, crénelé, oblong-obové à elliptique, cunéé à aigu à la base, aigu à acuminé au sommet, 6-15 × 3-5 cm. Nervures secondaires ± arquées ou ascendantes, 8-10 paires, saillantes et pubescentes à la face inférieure; nerviles paralleles, saillantes sur les 2 faces.
+Axillary cymes, pubescent, few-flowered. Peduncle reaching 2.5 cm, pedicel extremely short; bracts and bracteoles similar to the stipules. Flowers white. Sepals pubescent, tomentellous on both surfaces, ovate-lanceolate, 7-10 × 3-4 mm. Petals glabrous, obovate, 1.5-1.8 × 8 mm. Stamens glabrous, alternately long and short, 7-10 mm, with slender filaments; anthers ovate, emarginate at the base, apiculate, approximately 1.75 mm long. Ovary glabrous, glabrescent at the apex, at the base of the styles, ovoid, approximately 2 mm long; styles glabrous, 2.5-3 mm; stigmas terminal, broadly capitate.
 
-Cymes axillaires, pubescentes, pauciflores. Pédoncule atteignant 2,5 cm, pédicelle extrêmement court; bractées et bractéoles semblables aux stipules. Fleurs blanches. Sépales pubescents, tomentelleux sur les 2 faces, ovés-lancéolés, 7-10 × 3-4 mm. Pétales glabres, obovés, 1,5-1,8 × 8 mm. Étamines glabres, alternativement longues et courtes, de 7-10 mm, à filets grèles; anthères ovées, émarginées à la base, apiculées, longues d'environ 1,75 mm. Ovaire glabre, glabrescent au sommet, à la base des styles, ovoïde, long d'environ 2 mm; styles glabres, de 2,5-3 mm; stigmates terminaux, largement capités.
-
-Drupe immature globuleus à 5 loges fertiles alternant avec 5 lacunes. PL. 8, 3-4, p. 35.
+Immature drupe globose with 5 fertile locules alternating with 5 lacunae. PL. 8, 3-4, p. 35.
 
 ## Type
 
@@ -31,9 +29,7 @@ Zenker 1464, Cameroun; Soyaux 245, Gabon (B, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts du Gabon et du Cameroun.
+Forests of Gabon and Cameroon.
 
 ## Specimens examined
 

@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Bull. IFAN, sér. A, 21 (3) : tab. 72b (1959) ; Pollen & Spores 2 (1) : 9 (1960) ; Mém. IFAN 64 : 118, tab. 43 (1962).
 
 – Hippocratea iotrica LOES., Bot. Jahrb. 34: 108, fig. 1, o (1904); FRITSCH, Bot. Centralbl., Band 11, Beih. 5: 340, fig. 10 (1901), nomen; HUTCH. & DALZ., FWTA 1 (2): 449 (1928); LOES., Pflanzenf., ed. 2, 20B: 213 (1942); KEAY & BLAKELOCK in FWTA, ed. 2, 1 (2): 628 (1958).
 
-1. Bouton faiblement conique, plutôt subglobuleux ; corolle urcéolée ; disque en mince bourrelet ou à peine cupuliforme ; inflorescence brièvement pubescente
+1. Bud weakly conical, rather subglobose; corolla urceolate; disc a thin rim or scarcely cupuliform; inflorescence briefly pubescent
 
-1'. Bouton nettement conique ; corolle subrotacée ; disque nettement cupuliforme ; inflorescence villeuse hirsute ..... b. var. robida.
+1'. Bud distinctly conical; corolla subrotate; disc distinctly cupuliform; inflorescence villous hirsute ..... b. var. robida.
 
 a. var. iotricha
 
-Liane dépassant 15 m, à entre-nœuds longtemps vêtus de poils roux ou roussâtres. Bois présentant des sillons rayonnants. Pétioles velus de 3-8 mm. Limbe discolore elliptique, glabre dessus, sauf parfois vers la base de la nervure médiane, densément velu dessous, surtout sur la médiane et sur les marges qui sont un peu rebordées ; limbe de (3-)6-12×(2)3-6,5 cm ; base obtuse à un peu cordée ; sommet obtus, largement arrondi ou brièvement subacuminé. Nervures secondaires 5-8 paires.
+Liane exceeding 15 m, with internodes long clothed in russet or reddish hairs. Wood presenting radiant grooves. Petioles hairy 3–8 mm. Lamina discolorous elliptic, glabrous above except sometimes toward the base of the midvein, densely hairy below, especially on the midvein and on the margins which are somewhat narrowly bordered; lamina (3–)6–12 × (2)3–6.5 cm; base obtuse to somewhat cordate; apex obtuse, broadly rounded or briefly subacuminate. Secondary veins 5–8 pairs.
 
-Inflorescences à base de cymes dichotomes axillaires, ± groupées en panicules, à axes très velus, roux ou roussâtres. Pédicelles de 2-6 mm. Boutons subglobuleux coniques, roux velus. Fleur urcéolée ou semi-urcéolée de 5-9 mm de diamètre. Calice à lobes hirsutes. Pétales triangulaires de 3-4 × 1,5-2,5 mm, barbus hirsutes. Disque de 1,5-2,5 mm de diamètre, soit en très courte et étroite cupule, soit en très mince bourre-let latéral séparé de l'androcée par une petite couronne charnue un peu bombée au-dessus du niveau supérieur du disque. Étamines à filets courts et larges ; anthère large de 0,3-0,5 mm. Ovaire pubescent autour du style. 4-8 ovules par loge.
+Inflorescences at the base of axillary dichotomous cymes, ± grouped into panicles, with axes very hairy, russet or reddish. Pedicels 2–6 mm. Buds subglobose conical, russet hairy. Flower urceolate or semi-urceolate 5–9 mm in diameter. Calyx with hirsute lobes. Petals triangular 3–4 × 1.5–2.5 mm, barbate hirsute. Disc 1.5–2.5 mm in diameter, either as a very short and narrow cupule, or as a very thin lateral rim separated from the androecium by a small fleshy corona somewhat convex above the upper level of the disc. Stamens with short and broad filaments; anther broad 0.3–0.5 mm. Ovary pubescent around the style. 4–8 ovules per locule.
 
-Méricarpes de 5-7 × 3-3,5 cm, roussâtres velus, à l'intérieur roux clair lisses. Étuis funiculaires d'environ 1,5 mm ; réceptacle ± pubescent autour des cicatrices carpellaires. Graines uniformément roux clair atteignant 45 × 16 mm ; partie cotylédonée de 18-28 × 8 mm. Cotylé-dons soudés de 16 × 4,5 × 2 mm. - Pl. 71, fig. 19-36, p. 249.
+Mericarps 5–7 × 3–3.5 cm, russet hairy, inside bright russet smooth. Funiculate sheaths approximately 1.5 mm; receptacle ± pubescent around the carpellary scars. Seeds uniformly bright russet reaching 45 × 16 mm; cotyledonary portion 18–28 × 8 mm. Cotyledons fused 16 × 4.5 × 2 mm. – Pl. 71, fig. 19–36, p. 249.
 
 ## Type
 
@@ -43,17 +41,15 @@ Le Testu 6012, Gabon (holo-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Note: Foliar hairs and stomata have been illustrated by FRITSCH.
 
-Nota : Poils et stomates foliaires ont été figurés par FRITSCH.
+With this species and the preceding one which is very closely related to it, we are in the presence of a subgeneric group in a state of manifest evolutionary crisis; this is expressed by the variability of representatives of multiple populations with morphological or ecological characters difficult to delimit. Broadly speaking the present species appears to prefer less humid forests or at least better-drained stations. A variety more remarkable than others is var. robida below.
 
-Avec cette espèce et la précédente qui lui est très voisine, on est en présence d'un groupe sous-générique en état de crise évolutive manifeste ; celle-ci s'exprime par la variabilité des représentants de populations multiples aux caractères morphologiques ou écologiques difficile à délimiter. Grosso modo la présente espèce paraît préférer des forêts moins humides ou au moins des stations mieux drainées. Une variété plus remarquable que d'autres est la var. robida ci-dessous.
+Distribution of all forms and varieties: Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon and Gabon.
 
-Distribution de toutes les formes et variétés : Sierra Leone, Liberia, Côte-d'Ivoire, Ghana, Nigeria, Cameroun et Gabon.
+This variety is distinguished by its bud more distinctly conical, by its sepals somewhat curved outward, by its corolla subrotate. The disc, distinctly cupuliform, has a height of 2.5 mm; the upper surface of the petals has very short pubescence; the margins of the petals present some glands; the villosity of the inflorescence is extreme. – Pl. 71, fig. 21, 22, 25, 26, 28, 30, 31, p. 249.
 
-Cette variété se distingue par son bouton plus nettement conique, par ses sépales un peu arqués extérieurement, par sa corolle subrotacée. Le disque, nettement cupuliforme a une hauteur de 2,5 mm ; le dessus des pétales a une pubérulence très rase ; les marges des pétales présentent quelques glandes ; la villosité de l'inflorescence est extrême. - Pl. 71, fig. 21, 22, 25, 26, 28, 30, 31, p. 249.
-
-MATÉRIEL ÉTUDIÉ (seul connu) :
+MATERIAL STUDIED (alone known):
 
 Le Testu 6012, Noumbo, hte. Ngounié, 15.7.1926 (fl.).
 

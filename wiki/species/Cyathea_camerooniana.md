@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hk., Syn. Fil.: 21 (1865).
 
-Tronc de 0,40 m à 1,50 m de haut. Etages de frondes distants de 6 cm environ. Frondes bipennées, lancéolées, longues de 0,60 à 2 m. Pétiole canaliculé, très légèrement verruqueux à l'extrême base, brun violacé portant, à la base, des écailles lancéolées, à base droite, marges entières, cellules à parois foncées, lumière brune. Rachis tuberculeux, brun et noirâtre à la base, canaliculé, portant, sur les deux faces, des poils raides, brunâtres, apprimés, plus ou moins caducs. Pennes inférieures réduites, les moyennes espacées d'environ 7-8 cm, sessiles, longues de 20-30 cm sur 4 de large, à extrémité aiguë, pennées à l'extrême base, profondément pinnatifides plus haut. Costa portant, sur les deux faces, les mêmes poils raides que le rachis. Segments linéaires, arrondis au sommet, ayant 1,5 cm de long sur 0,2 de large, dentés, surtout à l'extrémité, parfois sur toute leur longueur. Costulae hirsutes. Surfaces nues, la supérieure plus foncée. Nervures bifurquées. Sores petits, à la base de la bifurcation. Indusie en cupule, parfois complètement caduque.
+Trunk 0.40 m to 1.50 m tall. Frond tiers spaced approximately 6 cm apart. Fronds bipinnate, lanceolate, 0.60 to 2 m long. Petiole channelled, very slightly warty at the extreme base, brown-violaceous bearing, at the base, lanceolate scales with straight base, entire margins, cells with dark-walled lumina brown. Rachis tuberculous, brown and blackish at the base, channelled, bearing, on both surfaces, rigid, brownish, appressed hairs, more or less caducous. Lower pinnae reduced, the middle ones spaced approximately 7–8 cm apart, sessile, 20–30 cm long by 4 cm wide, with acute apex, pinnate at the extreme base, deeply pinnatifid higher up. Costa bearing, on both surfaces, the same rigid hairs as the rachis. Segments linear, rounded at the apex, 1.5 cm long by 0.2 cm wide, dentate, especially at the tip, sometimes along their entire length. Costulae hirsute. Naked surfaces, the upper one darker. Veins bifurcate. Sori small, at the base of the bifurcation. Indusium cup-shaped, sometimes completely caducous.
 
-Type de l'espèce : Mann, Cameroun (BM). De Guinée au Cameroun. Le long des cours d'eau.
+Type of species: Mann, Cameroon (BM). From Guinea to Cameroon. Along watercourses.
 
-Matériel GABONAIS ÉTUDIÉ
+GABONESE MATERIAL STUDIED
 
-N. Hallé : 882, Akoga, monts de Cristal; 1197, Makokou; 1357, Mboundou, SW de Makokou; 1694, 1851, Ayem, SW de Ndjolé; 2334, 2418, Abanga, monts de Cristal. N. Hallé et G. Cours : 5881, 5911, Etéké. Le Testu : 1569, Djengila, NW de Tchibanga. Pobéguin : 47, près de Nyanga.
+N. Hallé: 882, Akoga, Cristal Mountains; 1197, Makokou; 1357, Mboundou, SW of Makokou; 1694, 1851, Ayem, SW of Ndjolé; 2334, 2418, Abanga, Cristal Mountains. N. Hallé and G. Cours: 5881, 5911, Etéké. Le Testu: 1569, Djengila, NW of Tchibanga. Pobéguin: 47, near Nyanga.
 
 ## Notes
 

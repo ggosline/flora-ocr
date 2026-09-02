@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana; stem with 4 wings, brown, glabrous; numerous pale lenticels. Large bud slightly supra-axillary, shortly puberulent, fleshy, lanceolate, acute at apex. Leaves subopposite; stipules trifid, glabrous to very shortly puberulent; petiole glabrous above and very shortly puberulent below, concave or flat. Blade glabrous on both faces, shiny brown above and dull yellowish-green below when dry, oblong to elliptic, 14.5 × 4.3–2.2 cm, base rounded or attenuate, lateral margins clearly and finely dentate, apex long acuminate-acute. Midvein prominent above and very strongly prominent below; secondary veins 5–9 pairs ± alternate, ascending, very arched, anastomosing approximately 2 mm from the blade margin, prominent above and very strongly prominent below. Veinlets forming a dense network with ± polygonal meshes, prominent on both faces.
 
-Liane; tige à 4 ailes, brune, glabre; nombreuses lenticelles claires. Large bourgeon légèrement supra-axillaire, courtement pubérulent, charnu, lancéolé, aigu au sommet. Feuilles subopposées; stipules trifides, glabres à très courtement pubérulentes; pétiole glabre dessus et très courtement pubérulent dessous, concave ou plat. Limbe glabre sur les deux faces, marron luisant dessus et jaune verdâtre mat dessous à l'état sec, oblong à elliptique, 14-5 × 4,3 -2,2 cm, base arrondie ou atténuée, bords latéraux nettement et finement dentés, sommet longuement acuminé-aigu. Nervure médiane saillante dessus et très fortement saillante dessous; nervures secondaires 5-9 paires ± alternes, ascendantes, très arquées, s'anastomosant à 2 mm environ du bord du limbe, saillantes dessus et très fortement saillantes dessous. Nervilles en réseau dense à mailles ± polygonales, saillantes sur les deux faces.
+Cymose axillary inflorescences, with subopposite multi-flowered branches; axis very shortly puberulent; bracteoles lanceolate sometimes tridentate, puberulent externally. Pedicels glabrous, 3–7 mm long, pentahedric at apex. Floral bud globose, 1–2 mm in diameter; prefloration twisted. Flowers ¥ white. Sepals broadly ovoid, glabrous on both faces, shortly ciliolate at upper margin, 1–1.5 × 1–1.5 mm, apex obtuse. Petals glabrous on both faces, oblong, ± asymmetric, 3–3.25 × 1.5 mm, apex obtuse, erect in the open flower and early caducous. Stamens 5, alternipetalous, united by filaments to the membranaceous cupular disk with 5 acute epipetalous teeth, 0.5–1.5 mm high; filaments free, slender, 1 mm long; anthers early caducous, basifixed, ellipsoid, 0.75 mm long, with longitudinal dehiscence, fine network with polygonal meshes visible under high magnification. Ovary superior, ± sunken in the disk, glabrous, ± globose or lobed, 5-locular, with 2 erect ovules per locule, 1.75 mm in diameter. Style 1.75 mm long terminating in a globose stigma.
 
-Inflorescences cymeuses axillaires, à ramifications subopposées multi-flores; axe très courtement pubérulent; bractéoles lancéolées parfois tridentées, pubérulentes extérieurement. Pédicelles glabres, longs de 3 à 7 mm, pentaédriques au sommet. Bouton floral globuleux, d'un diamètre de 1 à 2 mm; préfloraison tordue. Fleurs ¥ blanches. Sépales largement ovoïdes, glabres sur les deux faces, courtement ciliolés au bord superieur, 1-1,5 × 1-1,5 mm, sommet obtus. Pétales glabres sur les deux faces, oblongs, ± asymétriques, 3-3,25 × 1,5 mm, sommet obtus, dressés dans la fleur épanouie et tôt caduc. Étamines 5, alternipétales, unies par les filets au disque cupulaire membranaux à 5 dents aiguës épipétales, haut de 0,5-1,5 mm; filets libres, grêles, longs de 1 mm; anthères tôt caduques, basifixes, ellipsoïdes, longues de 0,75 mm, à déhiscence longitudinale, fin réseau à mailles polygonales visible au fort grossissement. Ovaire supère, ± enfoncé dans le disque, glabre, ± globuleux ou lobé, 5-loculaire, à 2 ovules dressés par loge, d'un diamètre de 1,75 mm. Style long de 1,75 mm se terminant par un stigmate globuleux.
-
-Capsule glabre ovoïde, longue de 7 mm, apiculée au sommet, 4- ou 5-loculaire; chaque loge mono- ou disperme. Calice et disque persistants. Graine courbée, glabre, longue de 4 mm, saillante hors d'un arille largement fendu sur la face dorsale; cicatrice hilaire linéaire égale à la mi-longueur de la graine. PL. 1, p. 7.
+Capsule glabrous ovoid, 7 mm long, apiculate at apex, 4- or 5-locular; each locule mono- or dispermous. Calyx and disk persistent. Seed curved, glabrous, 4 mm long, prominent from a widely split aril on the dorsal face; hilar scar linear equal to half the seed length. PL. 1, p. 7.
 
 ## Type
 
@@ -31,9 +29,7 @@ Sapin s.n., Zaïre (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts sèches, les galeries forestières et les lisières. Décrite du Zaïre, elle a été retrouvée au Gabon.
+This species is found in dry forests, forest galleries, and forest margins. Described from Zaire, it has been rediscovered in Gabon.
 
 ## Specimens examined
 

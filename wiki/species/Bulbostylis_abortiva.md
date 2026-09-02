@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Durand & Schinz, Consp. fl. afric. 5 : 610 (1894). Fimbristylis abortiva Steud., Syn. pl. glum. 2 : 111 (1855). Abildgaardia abortiva (Steud.) Lye, Bot. Not. 127 : 495 (1974). Herbe annuelle , en touffe, généralement haute de 15‒50 cm ; tige épaisse de 1,5 mm au plus, profondément cannelée, fréquemment recouverte de courts poils blancs en épine . Feuille : gaine à collet garni de poils fins de 15 mm au plus ; limbe long de 20 cm au plus et large d’environ 0,5 mm, plan ou canaliculé avec de nombreux poils courts épineux. Inflorescence en anthèle ouverte ombelliforme, ayant (10‒)20‒40(‒60) épillets ; bractées involucrales principales longues de 5‒60 mm, bordées à la base de long poils fins, et plus haut, de courts poils épineux ; bractées les plus longues dépassant habituellement beaucoup l’épillet le plus proche. Épillet de 3‒7 × 1‒2 mm ; glumes grossièrement ovales, brun rougeâtre avec une nervure principale trinervée, plus pâle, se terminant souvent avant le sommet ; marge translucide avec de très courts poils ; extrémité arrondie
-
-(parfois glumes basales acuminées). Akène long de 0,7‒0,8 mm, lisse ou réticulé , coiffé par la base brunâtre du style, incolore devenant grisâtre ou brun jaunâtre à maturité, recouvert par une couche translucide qui, quelquefois par contact, se brise en écailles carrés ou circulaires.
+in Durand & Schinz, Consp. fl. afric. 5 : 610 (1894). Fimbristylis abortiva Steud., Syn. pl. glum. 2 : 111 (1855). Abildgaardia abortiva (Steud.) Lye, Bot. Not. 127 : 495 (1974). Annual herb, in tufts, generally 15–50 cm tall; stem up to 1.5 mm thick, deeply grooved, frequently covered with short whitish spiny hairs. Leaf: sheath with collar bearing fine hairs up to 15 mm long; blade up to 20 cm long and about 0.5 mm wide, flat or canaliculate with numerous short spiny hairs. Inflorescence in an open umbelliform anthela, bearing (10–)20–40(–60) spikelets; primary involucral bracts 5–60 mm long, bordered at the base by long fine hairs, and higher up by short spiny hairs; longest bracts usually much exceeding the nearest spikelet. Spikelet 3–7 × 1–2 mm; glumes roughly ovate, reddish-brown with a paler trinervate principal vein often terminating before the apex; translucent margin with very short hairs; apex rounded (sometimes basal glumes acuminate). Achene 0.7–0.8 mm long, smooth or reticulate, capped by the brownish base of the style, colourless becoming greyish or yellowish-brown at maturity, covered by a translucent layer which sometimes, on contact, breaks into square or circular scales.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, du Sénégal au Soudan et vers le sud jusqu’au Zimbabwe ; peu fréquente au Gabon et trouvée dans la Nyanga, l’Ogooué-Maritime et le Woleu-Ntem. (4 récoltes)
+Tropical Africa, from Senegal to Sudan and southward to Zimbabwe; uncommon in Gabon and found in Nyanga, Ogooué-Maritime and Woleu-Ntem. (4 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies sableuses, les savanes ouvertes et sur les affleurements rocheux ; au Gabon, jusqu’à 500 m d’altitude, jusqu’à 2100 m en Afrique de l’Est. Note taxonomique : L’aspect écailleux de la surface de l’akène est caractéristique de cette espèce. L’akène est aussi habituellement plus grand que celui de la plupart des autres espèces annuelles. B : Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1997)
+in sandy grasslands, open savannas and on rocky outcrops; in Gabon, up to 500 m altitude, up to 2100 m in East Africa. Taxonomic note: The scaly appearance of the achene surface is characteristic of this species. The achene is also usually larger than that of most other annual species. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
 ## Notes
 

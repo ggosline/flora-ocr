@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, à stolons longs de 10‒200 cm s’enracinant aux nœuds et produisant habituellement une tige à chaque nœud ; tiges avec de nombreuses feuilles très espacées et se terminant par une partie non feuillée, de 10‒30 cm × 0,5‒2,5 mm. Feuille : gaine verte à brun jaunâtre, souvent avec un triangle violet foncé du côté opposé au limbe ; limbe de 2‒20 cm × 1‒6 mm , plan ou incurvé, scabre sur la nervure centrale et la marge au moins près de l’extrémité, séparé de la gaine par une région auriculée d’où le limbe se détache finalement. Inflorescence en anthèle ressemblant à une ombelle composée, avec un ou plusieurs fascicules subsessiles et de nombreux fascicules subdigités pédonculés d’épillets, plus rarement tous les fascicules d’épillets subsessiles ; bractées involucrales 2‒7, foliacées, étalées, la plus grande de 2‒10 cm × 2‒5 mm. Épillet ovoïde–lancéolé, de 4‒13 × 2‒3 mm , aplati, brun clair à foncé ; glumes ovales, longues de 2‒3 mm , nervures latérales fines et nombreuses, de chaque côté de la nervure centrale, sommet arrondi. Fleur à 2‒3 étamines ; style à 2 branches. Akène obovoïde, de 0,8‒1,2 × 0,5‒0,6 mm , avec un court apicule, biconvexe, brun clair à foncé, à surface lisse ou finement papilleuse.
+Perennial herb, with stolons 10–200 cm long rooting at the nodes and usually producing a stem at each node; stems with numerous leaves very widely spaced and ending in a leafless portion, 10–30 cm × 0.5–2.5 mm. Leaf: sheath green to yellowish-brown, often with a dark purple triangle on the side opposite the blade; blade 2–20 cm × 1–6 mm, flat or curved, scabrous on the midrib and margin at least near the apex, separated from the sheath by an auriculate region from which the blade eventually detaches. Inflorescence an anthela resembling a compound umbel, with one or several subsessile fascicles and numerous subdigitate pedunculate fascicles of spikelets, more rarely all fascicles of spikelets subsessile; involucral bracts 2–7, foliaceous, spreading, the largest 2–10 cm × 2–5 mm. Spikelet ovoid–lanceolate, 4–13 × 2–3 mm, flattened, light to dark brown; glumes oval, 2–3 mm long, lateral nerves fine and numerous, on each side of the midrib, apex rounded. Flower with 2–3 stamens; style with 2 branches. Achene obovoid, 0.8–1.2 × 0.5–0.6 mm, with a short apicule, biconvex, light to dark brown, surface smooth or finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique et Madagascar, plus rare dans les régions méditerranéennes et en Amérique tropicale ; rare au Gabon, trouvée seulement dans l’Ogooué-Ivindo (2 récoltes)
+widely distributed in Africa and Madagascar, rarer in Mediterranean regions and in tropical America; rare in Gabon, found only in Ogooué-Ivindo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-flotte sur les eaux stagnantes ou à faible courant, marécages, bordure des lacs et des mares ; au Gabon, probablement entre 400 et 800 m d’altitude, jusqu’à 2200 m en Afrique de l’Est. Note taxonomique : C’est la seule espèce gabonaise avec des limbes espacés le long des tiges florifères (les autres espèces ont les limbes groupées vers la base). C’est une spécialisation associée avec l’habitat flottant. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+floating on stagnant or slow-flowing waters, marshes, margins of lakes and ponds; in Gabon, probably between 400 and 800 m altitude, up to 2200 m in East Africa. Taxonomic note: This is the only Gabonese species with blades spaced along the fertile stems (the other species have blades grouped towards the base). This is a specialization associated with the floating habitat. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
 ## Notes
 

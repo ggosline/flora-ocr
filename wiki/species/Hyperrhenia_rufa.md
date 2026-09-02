@@ -29,33 +29,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Abyss. II : 463 (s. d.). — Baker, Fl. Maurit. : 446 (1877). — FRANCH. Contr. Fl. Congo Fr. (1896). — RENDLE, Cat. Afr. Pl. Welw. II : 155 (1899).
 
-Herbes pérennes jusqu'à 2,5 m de haut, chaumes glabres, plus ou moins ramifiés. Feuilles généralement glabres; limbes linéaires à bords scabres, jusqu'à 75 cm de long et 10 mm de large.
+Perennial herbs up to 2.5 m tall, culms glabrous, more or less branched. Leaves generally glabrous; blades linear with scabrous margins, up to 75 cm long and 10 mm wide.
 
-Inflorescence en panicule très ample, ramiﬁée jusqu’au 3° degré. Spathéoles linéaires lancéolées, environ 5 cm de long. Pédoncules filiformes, finalement plus longs que les spathéoles. Racèmes minces, de 2 à 2,5 cm de long, avec 7 à 13 arêtes par paire, l’inférieur sessile, le supérieur avec un pédicelle mince d’environ 3 mm. Joints et pédicelles d’environ 2 mm, pubescents roux. Une paire d’épillets homogames à la base du racème inférieur, parfois des deux.
+Inflorescence a very ample panicle, ramified to the 3rd degree. Spatholes linear-lanceolate, approximately 5 cm long. Pedicels filiform, eventually longer than the spatholes. Racemes slender, 2 to 2.5 cm long, with 7 to 13 awns per pair, the lower sessile, the upper with a slender pedicel of approximately 3 mm. Joints and pedicels approximately 2 mm, rusty-pubescent. A pair of homogamous spikelets at the base of the lower raceme, sometimes both.
 
-Épillets fertiles de 2,5 à 4,5 mm de long. Glume inférieure bicarénée dans son tiers supérieur, pubescente rousse, à 7-9 nervures; glume supérieure ciliée vers le haut. Arête de la fleur fertile de 20 à 30 mm de long, courtement hirsute rousse en dessous du genou. Épillets pédicellés environ 5 mm de long, pubescents comme les sessiles; glume inférieure acuminée, à 7-11 nervures. Lemmas plus courtes que les glumes, souvent réduites ou la supérieure supprimée. Épillets homogames de 5 à 6 mm de long.
+Fertile spikelets 2.5 to 4.5 mm long. Lower glume bicarinate in its upper third, rusty-pubescent, with 7–9 nerves; upper glume ciliate toward the top. Awn of the fertile floret 20 to 30 mm long, shortly rusty-hirsute below the knee. Pedicellate spikelets approximately 5 mm long, pubescent like the sessile ones; lower glume acuminate, with 7–11 nerves. Lemmas shorter than the glumes, often reduced or the upper one suppressed. Homogamous spikelets 5 to 6 mm long.
 
-Cette espèce est répartie dans toute l’Afrique intertropicale; au Gabon elle est signalée par Koechlin aux environs de Libreville et dans les savanes de la Nyanga.
+This species is distributed throughout intertropical Africa; in Gabon it is recorded by Koechlin around Libreville and in the savannas of the Nyanga.
 
-Bonne espèce fourragère, généralement dans des zones à sol profond, frais, bien pourvus en matière organique.
+Good forage species, generally in zones with deep, moist soil, well supplied with organic matter.
 
-Noms vernaculaires (d’après Walker et Sillans) : Bilèlèngi (Eshira, Bavarama); Kobu (Bapunu); Malundu (Balumbu); Éburu (Mindumu).
+Vernacular names (after Walker and Sillans): Bilèlèngi (Eshira, Bavarama); Kobu (Bapunu); Malundu (Balumbu); Éburu (Mindumu).
 
 2. Hyperrhenia chrysargyrea (Chev.) Stapf.
 
-, et Journ. de Bot. 2° sér. II, 213. — CHEVAL. Sudania : 77 (1911).
+, and Journ. de Bot. 2° sér. II, 213. — CHEVAL. Sudania : 77 (1911).
 
-Probablement pérenne, d'environ 1,5 m de haut; gaines pubescentes; limbes linéaires allongés peuvent dépasser 80 cm de long et 10 mm de large, à marges scabres, plus ou moins pubescents.
+Probably perennial, approximately 1.5 m tall; sheaths pubescent; blades linear, elongate, may exceed 80 cm long and 10 mm wide, with scabrous margins, more or less pubescent.
 
-Inflorescence en panicule allongée, lâche. Spathéoles étroitement lancéolées, de 5-7 cm. Pédoncules filiformes, d'abord recourbés, puis redressés et dépassant les spathéoles, munis vers le haut de longs poils à base tuberculée. Racèmes réfléchis à maturité, de 2,5 à 3 cm de long ou plus; 11 à 13 arêtes par paire, l'inférieur sessile, le supérieur pédonculé (3 mm). Joints et pédicelles semblables, ces derniers auriculés au sommet, d'env. 3 mm de long, pubescents jaunes. 1 paire d'épillets homogames à la base du racème inférieur.
+Inflorescence an elongate, lax panicle. Spatholes narrowly lanceolate, 5–7 cm. Pedicels filiform, initially curved, then erect and exceeding the spatholes, bearing toward the top long hairs with tuberculate base. Racemes reflexed at maturity, 2.5 to 3 cm long or more; 11 to 13 awns per pair, the lower sessile, the upper pedunculate (3 mm). Joints and pedicels similar, the latter auricate at the apex, approximately 3 mm long, yellow-pubescent. 1 pair of homogamous spikelets at the base of the lower raceme.
 
-Épillets fertiles de 4,5 à 6 mm de long, glume inférieure longuement pubescente jaune doré, bicarénée vers le sommet, à 10-12 nervures. Glume supérieure pubescente vers le haut. Arête de la lemma fertile de 3,5 à 4 cm de long, colonne pubescente. Épillets pédicellés pubescents, mâles, de 5-7 mm de long; glume inférieure à 11 nervures.
+Fertile spikelets 4.5 to 6 mm long, lower glume long, golden-yellow pubescent, bicarinate toward the apex, with 10–12 nerves. Upper glume pubescent toward the top. Awn of the fertile lemma 3.5 to 4 cm long, column pubescent. Pedicellate spikelets pubescent, male, 5–7 mm long; lower glume with 11 nerves.
 
-Connue en Nigéria, en Oubangui et au Congo; signalée au Gabon par Koechlin dans les savanes de la Nyanga, sur des zones d'affleurement calcaire. Assez bon fourrage.
+Known from Nigeria, Ubangi and Congo; recorded from Gabon by Koechlin in the savannas of the Nyanga, in zones of calcareous outcrop. Fairly good forage.
 
 ## Figures
 

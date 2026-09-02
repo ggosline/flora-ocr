@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– Liparis odontochilos Summerh., Bot. Mus. Leaf., Harvard Univ. 14 : 226 (1951).
 
-– Liparis odontochilos Summerh., Bot. Mus. Le afl., Harvard Univ. 14 : 226 (1951).
+Rhizome creeping. Pseudobulbs spaced 4-12 cm apart, measuring 3-4 × 0.4 cm, narrowly conical to conical-fusiform. Leaves sessile, 5-12 × 1.5-3 cm, oblong-lanceolate to ovate-lanceolate, acute. Inflorescence < 12 cm, 2-10-flowered. Flowers cream or greenish-yellow to light and dark purplish-red. Dorsal sepal glabrous, oblong-lanceolate, obtuse, base auriculate, margins revolute; lateral sepals oblong-elliptic, falcate, obtuse, connate at the basal third. Petals linear, obtuse to acute, margins revolute. Lip transverse-elliptic to obreniform, rather thick and fleshy, margins crenulate to irregularly denticulate, flabellate, apicule scarcely visible, basal auricles of the lip short but prominent. – Pl. 58, p. 121.
 
-Rhizome rampant. Pseudobulbes espacés de 4-12 cm, mesurant 3-4 × 0,4 cm, étroitement coniques à coniques-fusiformes. Feuilles sessiles, 5-12 × 1,5-3 cm, oblongues-lancéolées à ovées-lancéolées, aiguës. Inflorescence < 12 cm, 2-10-flore. Fleurs crème ou vert-jaunâtre à pourpre-rougeâtre clair et foncé. Sépale dorsal glabre, oblong-lancéolé, obtus, base auriculée, marges révolutées ; sépales latéraux oblongs-elliptiques, falciformes, obtus, soudés au 1/3 basal. Pétales linéaires, obtus à aigus, marges révolutées. Labelle trans-elliptique à obréniforme, assez épais et charnu, marges crénelées à irrégulièrement denticulées, flabellées, apicule peu visible, auricules basales du labelle courtes mais pro-éminentes. – Pl. 58, p. 121.
-
-Bien que présente au Gabon d'après la littérature (FTEA 1984 : 299), nous n'avons trouvé aucun échantillon de cette espèce.
+Although recorded from Gabon according to the literature (FTEA 1984 : 299), we found no specimen of this species.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo (Kinshasa), Éthiopie, Ouganda, Kanya, Tanzanie, Zambie, Malawi
+Cameroon, Gabon, Congo (Kinshasa), Ethiopia, Uganda, Kenya, Tanzania, Zambia, Malawi
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 1700-3200 m. Herbacée terrestre ou épiphyte, dans la mousse et feuilles décomposées, sur roc et arbre abattu, à l'ombre près de rivière
+alt. 1700-3200 m. Herbaceous terrestrial or epiphytic, in moss and decomposed leaves, on rock and fallen tree, in shade near river
 
 ## Figures
 

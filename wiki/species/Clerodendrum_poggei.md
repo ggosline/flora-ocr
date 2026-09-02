@@ -15,27 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste vigoureux ou petit arbre , de 0,9–2,5 m de hauteur ; tige simple, robuste, anguleuse à subquadrangulaire, largement creuse , densément pubescente ou pubérulente, souvent avec des pseudoépines atteignant 1,5 cm . Feuilles opposées, restreintes au sommet des rameaux ; pétiole de 1–12(–30) cm ; limbe ovale ou arrondi-ovale, de 11–36(–60) × 3,8–32(–45) cm , obtus à subcordé ou cordé à la base, aigu à subacuminé à l’apex, entier à très grossièrement denté, à pilosité légèrement hérissée mais à peine scabre dessus, à pubescence étalée ± molle dessous ou glabrescent ; nervation très réticulée dessous, la tertiaire scalariforme. Inflores cence terminale, très dense, capitée à ovoïde, parfois allongée , de (4,5–)10–17,5(–25) × (4,5–)6–9 cm ; pédoncule de 5 mm ; cymes portant 2 à 8 fleurs, rameaux des cymes très courts et obsolètes ; bractées étroitement elliptiques-ovales à étroitement elliptiques-obovales, de 1,7–3 × 1,5–2,5 cm, acuminées à l’apex, pubescentes, pourpre rougeâtre ; bractéoles lon gues de 1–1,3 cm. Fleur subsessile ; calice rouge-violet, densément pubescent, à tube campanulé, long de 6–16 mm , à 5 lobes profonds, étroitement elliptiques-ovales, de 15–20 × 3–7 mm, longuement acuminés à acuminés à l’apex, pileux ; corolle crème, blanche ou vert pâle, à tube grêle, de (4,5–)10–14,5(–17,5) cm × 1–2 mm, glanduleux–pubescent, à lobes inégaux, elliptiques, de 13–17 × 6–7 mm , jaunes ; étamines et styles exserts sur 2–3 cm. Fruit de 13 × 12 mm, brillant, noir verdâtre foncé.
+Vigorous shrub or small tree, 0.9–2.5 m tall; stem simple, robust, angular to subquadrangular, widely hollow, densely pubescent or puberulent, often with pseudospines reaching 1.5 cm. Leaves opposite, restricted to the apex of the branches; petiole 1–12(–30) cm; blade oval or rounded-oval, 11–36(–60) × 3.8–32(–45) cm, obtuse to subcordate or cordate at the base, acute to subacuminate at the apex, entire to very coarsely dentate, with slightly bristly pubescence but scarcely scabrous above, with spreading ± soft pubescence below or glabrescent; venation very reticulate below, the tertiary scalariform. Inflorescence terminal, very dense, capitate to ovoid, sometimes elongate, (4.5–)10–17.5(–25) × (4.5–)6–9 cm; peduncle 5 mm; cymes bearing 2 to 8 flowers, branches of cymes very short and obsolete; bracts narrowly elliptic-ovate to narrowly elliptic-obovate, 1.7–3 × 1.5–2.5 cm, acuminate at the apex, pubescent, reddish-purple; bracteoles 1–1.3 cm long. Flower subsessile; calyx red-violet, densely pubescent, with campanulate tube, 6–16 mm long, with 5 deep lobes, narrowly elliptic-ovate, 15–20 × 3–7 mm, long-acuminate to acuminate at the apex, pilose; corolla cream, white or pale green, with slender tube, (4.5–)10–14.5(–17.5) cm × 1–2 mm, glandular-pubescent, with unequal, elliptic lobes, 13–17 × 6–7 mm, yellow; stamens and styles exserted 2–3 cm. Fruit 13 × 12 mm, glossy, dark greenish-black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République démocratique du Congo, République Centrafricaine, Angola, Afrique du Nord-Est et Afrique orientale tropicale ; au Gabon : Haut-Ogooué, Ngounié, Nyanga et Ogooué-Maritime. Statut de conservation : à large répartition, attribué préliminairement à Préoccupation mineure (LC)
+Cameroon, Gabon, Democratic Republic of the Congo, Central African Republic, Angola, northeastern Africa and tropical eastern Africa; in Gabon: Haut-Ogooué, Ngounié, Nyanga and Ogooué-Maritime. Conservation status: widely distributed, preliminarily assigned to Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires dégradées et fourrés, affleurements rocheux ; au Gabon à 290–500 m d’al titude, ailleurs jusqu’à 1500 m
+degraded secondary forests and thickets, rocky outcrops; in Gabon at 290–500 m elevation, elsewhere up to 1500 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En Angola, l’espèce est également signalée comme plante grimpante. B : Raponda-Walker & Sillans (1961), Verdcourt (1992). i B liographie
+In Angola, the species is also recorded as a climbing plant. B: Raponda-Walker & Sillans (1961), Verdcourt (1992). Bibliography
 
 ## Notes
 

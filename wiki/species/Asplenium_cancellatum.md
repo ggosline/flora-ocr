@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, Bol. Soc. Brot. 30 : 8 (1956); FWTA : 59 (1959).
 
-Rhizome courtemment rampant ou dressé, frondes rapprochées ; écailles pâles, deltoïdes-lancéolées, formées de cellules à lumière large. Fronde atteignant 1 m de long, à pétiole noir luisant, atteignant 50 cm de long, canaliculé au sommet, noirâtre. Pennes latérales environ 6 paires, verdâtres, subcoriaces, subtrapézoïdales, longues de 7,5 cm sur 1,5 de large, à base inférieure cunéiforme, supérieure cunéiforme-tronquée, marges irrégulièrement denticulées, costa apparent, légèrement proéminent à la face inférieure, distinct jusqu'au sommet de la penne. Nervures latérales uni ou bifurquées. Sores très minces. Indusie entière, membraneuse.
+Rhizome shortly creeping or erect, fronds approximate; scales pale, deltoid-lanceolate, formed of cells with wide lumen. Frond reaching 1 m long, with black shining petiole, reaching 50 cm long, channeled at apex, blackish. Lateral pinnae approximately 6 pairs, greenish, subcoriaceous, subtrapezoid, 7.5 cm long by 1.5 wide, with lower base cuneate, upper cuneate-truncate, margins irregularly denticulate, costa apparent, slightly prominent on lower face, distinct to apex of pinna. Lateral veins unforked or bifurcate. Sori very thin. Indusium entire, membranous.
 
 ## Type
 
@@ -33,9 +31,7 @@ près de Nyassoso, Thorold 13 (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Cameroun. Épiphyte.
+Ghana, Cameroon. Epiphytic.
 
 ## Specimens examined
 

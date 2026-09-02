@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.70-2.5 m tall; internodes clothed with dense and short erect pubescence, greenish in appearance when dry. Stipules acute 7-10 mm, puberulent as well as the petioles 3-6 mm long. Blade olivaceous when dry, glabrous above, hispidly pubescent below and principally on the nerves, elliptic 14-22 × 5-7.5 (10) cm; base generally approximately symmetrical and acute rather briefly; apex acuminate. Midrib finely prominent above. (8) 10-11 pairs of secondary nerves.
 
-Arbrisseau de 0,70-2,5 m de hauteur; entrenœuds vêtus d'une dense et courte pubescence dressée, d'aspect verdâtre à sec. Stipules aiguës de 7-10 mm, pubérulentes ainsi que les pétioles longs de 3-6 mm. Limbe olivacé à sec, glabre dessus, pubescent hispide dessous et principalement sur les nervures, elliptique de 14-22 × 5-7,5 (10) cm; base généralement à peu près symétrique et aiguë assez brièvement; sommet acuminé. Médiam finement saillante dessus. (8) 10-11 paires de nervures secondaires.
+Inflorescence short and contracted approximately 1 cm long without the corollas. Flowers whitish-green, generally fewer than ten per inflorescence. Axes hispid as well as the acute bracts 2-5 mm long. Pedicels 1 mm or less. Calyx glabrous at the level of the ovary, with a cupule approximately 1 mm, with 5 lobes attenuate pubescent approximately 2 mm. Corolla glabrous externally with slender tube (8) 15-17 cm in length. Anthers subsessile approximately 5 mm. Style glabrous. Ovary with 2 confluent locules.
 
-Inflorescence brève et contractée longue d'environ 1 cm sans les corolles. Fleurs blanc-vert, généralement moins d'une dizaine par inflorescence. Axes hispides ainsi que les bractées aiguës longues de 2-5 mm. Pédicelles de 1 mm ou moins. Calice glabre au niveau de l'ovaire, à cupule d'environ 1 mm, à 5 lohes atténués pubescents d'environ 2 mm. Corolle glabre extérieurement à tube grêle de (8) 15-17 cm de longueur. Anthères subsessiles d'environ 5 mm. Style glabre. Ovaire à 2 loges confluentes.
-
-Fruit ellipsoïde de 25-35 × 13-20 mm, glabre, couronné par
-
-les sépales pubescents, orangé à maturité. Péricarpe peu épais de 1 mm environ. Graines peu nombreuses atteignant  $ 8 \times 5 \times 3 $ mm, à testa roux d'aspect fibreux. Embryon de 3 mm entouré d'un albumen abondant.
+Fruit ellipsoid 25-35 × 13-20 mm, glabrous, crowned by the pubescent sepals, orange at maturity. Pericarp thin approximately 1 mm. Seeds few in number reaching 8 × 5 × 3 mm, with testa reddish-brown fibrous in appearance. Embryo 3 mm surrounded by abundant albumen.
 
 ## Type
 
@@ -33,9 +29,7 @@ Brenan 9283 (K!; isotype P!), Kumba, Ouest Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Connu de la région de Yaoundé (Breteler 2473, fr. janv.).
+Known from the Yaoundé region (Breteler 2473, fr. Jan.).
 
 ## Specimens examined
 

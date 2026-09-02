@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+BRETELER, MLW 73 (13): 4, 28, 33, 52–54, 89; AUWP 86 (3): 2, 14 (1986). TYPE: Cameroon, Bipindi, Zenker 1743 (holo-, B deleted.; lecto-, P; isolecto-, BM, BR, COI, L, W).
 
-BRETELER, MLW 73 (13): 4, 28, 33, 52-54, 89; AUWP 86 (3): 2, 14 (1986). TYPE: Cameroun, Bipindi, Zenker 1743 (holo-, B deleter.; lecto-, P; isolecto-, BM, BR, COI, L, W).
+Often a large liane or lianescent shrub. Trunk usually dark brown-black, without prominent lenticels. Branches generally of the same color, glabrous or nearly so with sparse or absent lenticels. Young branches similar in color and lenticels, pubérulence often sparse with sometimes an admixture of long hispid hairs, then glabrous.
 
-Liane souvent de grande taille ou arbuste lianescent. Tronc habituellement brun-noir foncé, sans lenticelles saillantes. Rameaux en général de la même teinte, glabres ou presque avec des lenticelles éparses ou absentes. Jeunes rameaux similaires pour la teinte et les lenticelles, pubérulence souvent éparse avec parfois en mélange de longs poils hispides, puis glabres cents.
+Stipules early caducous, narrowly triangular to linear-subulate, 1.5–4 mm long; appressed pubérulence.
 
-Stipules tôt caduques, étroites-triangulaires à linéaires-subulées, longues de 1,5-4 mm ; pubérulence apprimée.
+Leaves. Petiole 2–4 (6) mm long, subcylindrical to slightly canaliculate with appressed pubérulence on the upper face sometimes with long white hairs; lower face glabrous or nearly so. Blade elliptic to obovate, often narrow, 2.5–3 times longer than wide, (6) 8–12 (16) × (2) 3–4 (6) cm, obtuse, rounded or cuneate at the base, often decurrent on the petiole; acumen moderate or abrupt, (7) 10–15 (20) mm long terminated in an obtuse to acute point; a few hairs on both faces of the midvein and the lower face of the lateral veins; veins early glabrescent, glabrous elsewhere; glands rare only on the lower face, scattered and difficult to see; midvein most often prominent above, at least in the upper half; lateral veins II (4) 5–6 (8) on each side, often more prominent below.
 
-Feuilles. Pétiole long de 2-4 (6) mm, subcylindrique à légèrement canaliculé avec une pubérulence apprimée à la face supérieure avec parfois de longs poils blancs ; face inférieure glabre ou presque. Limbe elliptique à obové, souvent étroit, 2,5-3 fois plus long que large, (6) 8-12 (16) × (2) 3-4 (6) cm, obtus, arrondi ou cuné à la base, souvent décurrent sur le pétiole ; acumen modéré ou brusque, long de (7) 10-15 (20) mm terminé en pointe obtuse à aiguë ; quelques poils sur les deux faces de la médiane et la face inférieure des nervures latérales ; nervures tôt glabrescentes, ailleurs glabres ; glandes rares seulement à la face
+Inflorescences pedunculate, clearly branched, ≤ 40-flowered but generally < 25-flowered; appressed pubérulence sometimes with long white hispid hairs. Peduncle 4–20 mm long. Bracts and bracteoles triangular, narrow or not, 1–4 × 0.5–1.5 mm. Pedicels (3) 4–8 mm long, articulate well above the midpoint, appressed pubérulence; length of the upper part ≤ 1.5 mm.
 
-inférieure, éparses et difficiles à voir ; nervure médiane le plus souvent proéminente dessus, au moins dans la moitié supérieure ; nervures II (4) 5-6 (8) de chaque côté, souvent plus proéminentes dessous.
+Flower: base of calyx rounded or obtuse. Sepals reflexed, base free or very shortly fused, narrowly oblong to oblong-elliptic, (3) 3.5–4 × 1–1.5 mm, apex acute, rounded or obtuse, appressed pubérulence without and sparse within. Petals mostly spreading, often slightly bent below the lobes, narrowly obovate in outline, 3.5–5 mm long, cleft for 1.5–2.5 mm, very shortly fused by their base to the filaments, inner face glabrous, keeled below the lobes, outer face with a few hairs below the lobes; lobes concave rounded at the apex. Stamens (3) 5–7 mm long, spreading to erect, glabrous; connective prominent. Staminodes subsquare < 0.5 × 0.5 mm, obtuse or truncate to emarginate at the apex, glabrous or with a few hairs. Pistil (2.5) 5–7 mm long; style glabrous shortly 3-lobed at the apex; ovary subspheric, 3-locular, with dense woolly indumentum; ovules with obturator.
 
-Inflorescences pédonculées, nettement ramifiées, ≤ 40-flores mais en général < 25-flores ; pubérulence apprimée parfois avec de longs poils blancs hispides. Pédoncule long de 4-20 mm. Bractées et bractéoles triangulaires, étroites ou non, 1-4 × 0,5-1,5 mm. Pédicelles longs de (3) 4-8 mm, articulés très au-dessus de la moitié, pubérulence apprimée ; longueur de la partie supérieure ≤ 1,5 mm.
-
-Fleur : base du calice arrondie ou obtuse. Sépales réfléchis, base libre ou très courtement soudée, étroitement oblongs à oblongs-elliptiques, (3) 3,5-4 × 1-1,5 mm, sommet aigu, arrondi ou obtus, pubérulence apprimée à l'extérieur et éparse à l'intérieur. Pétales la plupart du temps étalés, souvent un peu coudés au dessous des lobes, contours étroitement obovés, longs de 3,5-5 mm, fendus sur 1,5-2,5 mm, très courtement soudés par leur base aux filets, face interne glabre, carénée au-dessous des lobes, face externe avec quelques poils au-dessous des lobes ; lobes concaves arrondis au sommet. Étamines longues de (3) 5-7 mm, étalées à dressées, glabres ; connectif proéminent. Staminodes subcarrés < 0,5 × 0,5 mm, obtus ou tronqués à émarginés au sommet, glabres ou avec quelques poils. Pistil long de (2,5) 5-7 mm ; style glabre courtement 3-lobé au sommet ; ovaire subsphérique, 3-loculaire, avec indumentum laineux dense ; ovules avec obturateur.
-
-Fruits subsphériques à vaguement 2-3-lobés, 1-3-spermes, diamètre de 1,5-4 cm ; exocarpe épais de 1-2 mm, fissuré en un réseau déterminant des îlots coniques couverts d'un indumentum de poils denses et courts mélangé à des poils urticans longs de 1 mm, très épars, aciculaires, finement barbelés, facilement caducs ; déhiscence de l'exocarpe en 3 valves avec le mésocarpe ou au moins en partie ; mésocarpe montrant en coupe une palissade haute de 1-2,5 mm, où l'extrémité des fibres est souvent infléchie contre l'exocarpe ; pyrènes subellipsoïdaux ayant jusqu'à 20 mm de longueur et 17 mm de diamètre ; endocarpe légèrement rugueux-muriqué, épais tout au plus de 0,5 mm. Graines ellipsoïdales ; testa brun fibreux, papyracé à finement coriace avec un arille très petit. - Pl. 6, p. 43.
+Fruits subspheric to vaguely 2–3-lobed, 1–3-seeded, 1.5–4 cm in diameter; exocarp 1–2 mm thick, fissured in a network determining conical islets covered with an indumentum of dense short hairs mixed with urticating hairs 1 mm long, very sparse, acicular, finely barbed, easily caducous; dehiscence of the exocarp in 3 valves with the mesocarp or at least in part; mesocarp showing in section a palisade 1–2.5 mm high, where the end of the fibers is often inflected against the exocarp; pyrenes subellipsoid up to 20 mm in length and 17 mm in diameter; endocarp slightly rugose-muricate, at most 0.5 mm thick. Seeds ellipsoid; testa brown fibrous, papyraceous to finely coriaceous with a very small aril. - Pl. 6, p. 43.
 
 ## Type
 
@@ -41,15 +37,11 @@ Zenker 1743, Bipindi, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles de basse altitude
+low altitude rainforests
 
 ## Specimens examined
 

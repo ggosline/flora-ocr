@@ -25,19 +25,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Adhatoda paniculata Benth. in Hook. Fl. Nigrit. 482 (1849).
 
 ≡ Justicia pyramidata (Lindau) C. B. Clarke, 1. c. (1909). — R. Benoist, in F. Pellegrin Mém. Soc. Linn. Norm., N.S., sect. Bot. 1 (3) : 47 (1928).
 
-Plante sous-frutescente atteignant 2 m de hauteur, à tiges assez fortement velues, au moins à l'état jeune, cylindriques, nettement rétrécies au-dessus des nœuds. Pétiole de 1-3,5 cm de long, rarement subnul, velu, mais glabrescent chez les feuilles
+Subshrubby plant reaching 2 m in height, with stems rather strongly villous, at least when young, cylindrical, distinctly narrowed above the nodes. Petiole 1-3.5 cm long, rarely subnull, villous, but glabrescent on the lower leaves. Leaf blade ovate-acuminate 6-20 × 3-8 cm, villous on the lower surface, especially on the nerves, glabrous or glabrescent on the upper surface, rounded, subcordate at the base, acuminate at the apex. Lateral nerves 8-11, anastomosing towards the margin.
 
-inférieures. Limbe des feuilles ovale-acuminé de 6-20 × 3-8 cm, velu sur la face inférieure, surtout les nervures, glabre ou glabrescent sur la face supérieure, arrondi, subocordé à la base, acuminé au sommet. Nervures latérales 8-11, anastomoses vers le bord.
+Terminal inflorescence reaching 12 cm long, spiciform or in a slightly expanded panicle whose dichotomous lateral branches rarely reach 2 cm long. Partial inflorescences villous like the rachis; bracts linear-filiform at the base reaching 8 mm long; bracteoles linear-subulate up to 2 mm long, rarely foliaceous and larger, with 2-7 flowers shortly pedicelled or sessile. Sepals 5 in number, free almost to the base, acute, with free portion nearly 5 mm long. Corolla approximately 10 mm long, with tube 5 mm; lower lip deeply trilobed; upper lip shortly bilobulate; the lips glabrous on the inner surface, villous on the outer surface. Anthers with locules arranged one above the other, each approximately 1 mm long, furnished with a whitish basal appendage. Ovary glabrous or slightly pubescent when very young, 2 mm in height; style slender sparsely ciliate.
 
-Inflorescence terminale atteignant 12 cm de long, spiciforme ou en panicule peu élargi dont les ramifications latérales, dichotomes, atteignent rarement 2 cm de long. Inflorescences partielles velues comme le rachis; bractées linéaires-filiformes à la base atteignant 8 mm de long; bractéoles linéaires-subulées jusqu'à 2 mm de long, rarement foliacées et plus grandes, à 2-7 fleurs courtement pédicellées ou sessiles. Sépales au nombre de 5, libres presque jusqu'à la base, aïgus, à partie libre de près de 5 mm de long. Corolle de 10 mm environ de long, à tube de 5 mm; lèvre inférieure profondément trilobée; lèvre supérieure courtement bilobulée; les lèvres sont glabres sur la face interne, velues sur la face externe. Anthères à loges disposées l'une au-dessus de l'autre, chacune d'environ 1 mm de long, munie d'un appendice basilaire blanchâtre. Ovaire glabre ou un peu pubescent à l'état très jeune, de 2 mm de hauteur; style grêle éparsément cilié.
-
-Fruit glabre ou glabrescent, claviforme, atteignant 23 mm de longueur, à partie inférieure stipitée, sur 11-12 mm, à partie supérieure de 4-5 mm de diamètre. Graines aplaties de 4,5 × 3,5 × 0,8 mm; testa ruguleux-verruculeux.
+Fruit glabrous or glabrescent, claviform, reaching 23 mm in length, with lower part stipitate over 11-12 mm, upper part 4-5 mm in diameter. Seeds flattened 4.5 × 3.5 × 0.8 mm; testa rugose-verrucose.
 
 ## Type
 
@@ -45,9 +41,7 @@ Mann 63, Fernando-Po (K, holotype;)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria. Cameroun, Centrafrique, Fernando-Po, Muni, Gabon, Congo-Brazzaville, Congo-Léopoldville.
+Nigeria. Cameroon, Central African Republic, Fernando Po, Muni, Gabon, Congo-Brazzaville, Congo-Léopoldville.
 
 ## Specimens examined
 

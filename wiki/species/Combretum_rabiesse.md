@@ -17,47 +17,41 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE : Gabon, Rabi, petroleum exploitation zone (fl., j.fr.), Breteler & al. 9807 (holo-WAG ; iso-BM, BR, K, LBV, M, MO, P).
 
-TYPE : Gabon, Rabi, zone d'exploitation pétrolière (fl., j.fr.), Breteler & al. 9807 (holo-WAG ; iso-BM, BR, K, LBV, M, MO, P).
+Liane ≤ 40 m. Young twigs velvety.
 
-Liane ≤ 40 m. Jeunes rameaux veloutés.
+Leaves opposite; petiole ≤ 1 cm; lamina elliptic ≤ 20 × ≤ 10 cm, papyraceous to coriaceous, major veins puberulent, otherwise glabrous on both faces; major lateral veins 6–9 pairs, domatia barely visible, tertiary veins subparallel; base of lamina attenuate; apex acuminate and mucronate.
 
-Feuilles opposées ; pétiole ≤ 1 cm ; limbe elliptique ≤ 20 × ≤ 10 cm, papyracé à coriace, grosses nervures pubérulentes, sinon glabre sur les deux faces ; grandes nervures latérales 6-9 paires, domaties à peine visibles, nervures III subparallèles ; base du limbe atténuée ; sommet acuminé et mucroné.
+Scales circular, diameter 50–65 µm, very often embedded in a glutinous exudate and showing 8 cells with thick walls.
 
-Écailles circulaires, diamètre 50-65 µm, très souvent noyées dans un exsudat gluant et montrant 8 cellules à parois épaisses.
+Inflorescences ≤ 4 cm: racemes or panicles axillary or terminal; rachis velvety; subtending leaf greenish-white; bracts barely visible.
 
-Inflorescences ≤ 4 cm : racèmes ou panicules axillaires ou terminaux ; rachis velouté ; feuille axillante verdâtre-blanc ; bractées peu visibles.
+Flowers 4-merous, sessile, protogynous. Receptacle green: the lower one height 1.5 mm, velvety, the upper one campanulate, 3.5 × 3 mm, puberulent. Calyx: lobes triangular. Petals obovate, 1.5–2 × 1.2–1.5 mm, ciliate, otherwise glabrous and white. Stamens exsert 5 mm, filaments yellowish-white; anthers yellow, 0.7 mm long. Style exsert 3 mm.
 
-Fleurs 4-mères, sessiles, protogynes. Réceptacle vert : l'inférieur hauteur 1,5 mm, velouté, le supérieur campanulé,  $ 3,5 \times 3 $ mm, pubérulent. Calice : lobes triangulaires. Pétales obovés,  $ 1,5-2 \times 1,2-1,5 $ mm, ciliés, par ailleurs glabres et blancs. Étamines exsertes de 5 mm, filets jaunâtre-blanc ; anthères jaunes, longues de 0,7 mm. Style exsert de 3 mm.
-
-Fruit long de 3 cm et large de 2,5 cm, ailé, glabre, glutineux, rougeâtre-vert pâle ; stipe long de 3 mm.
+Fruit 3 cm long and 2.5 cm wide, winged, glabrous, glutinous, pale reddish-green; stipe 3 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-récolté uniquement au Gabon
+collected only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid forests, altitude ≤ 400 m
 
-Forêts dense humide, altitude ≤ 400 m
+Arends, Louis & de Wilde 428, Waka, near the "Cliff", 1°18'S–10°57'E, alt. 380 m (fl., Nov.), BR, LBV, MO, P, PRE, WAG.
 
-Arends, Louis & de Wilde 428, Waka, près de la « Falaise », 1°18'S-10°57'E, alt. 380 m (fl., Nov.), BR, LBV, MO, P, PRE, WAG.
+Breteler & al. 9807, Rabi, petroleum fields 1°54'S–9°53'E (fl., fr. juv., Mar.), BM, BR, K, LBV, M, MO, P, WAG (type); 11475, between Rabi-Kounga and Yéno (fl., May), LBV, WAG.
 
-Breteler & al. 9807, Rabi, champs pétrolifères 1°54'S-9°53'E (fl., fr. juv., Mars), BM, BR, K, LBV, M, MO, P, WAG (type) ; 11475, entre Rabi-Kounga et Yéno (fl., Mai), LBV, WAG.
+de Wilde & Jongkind 9617, km 48 km, along the Doussala-Bongo forest road, 2°15'S–10°25'E, alt. 270 m (fl., Mar.), BR, LBV, MA, MO, P, PRE, WAG.
 
-de Wilde & Jongkind 9617, km 48 km, le long de la route forestière Doussala-Bongo, 2°15'S-10°25'E, alt. 270 m (fl., Mars), BR, LBV, MA, MO, P, PRE, WAG.
+Le Testu 8224, Moucwala, 1°23'S–12°14'E (fl., Aug.), BM, BR, P.
 
-Le Testu 8224, Moucwala, 1°23'S-12°14'E (fl., Août), BM, BR, P.
+Louis & Nzabi 3000, Prov. of Ngounié, forest road near Bilengui, 1°55'S–11°25'E, alt. 300–400 m (fl., j.fr., Apr.), LBV, MO, WAG.
 
-Louis & Nzabi 3000, Prov. de la Ngounié, route de forêt près de Bilengui, 1°55'S-11°25'E, alt. 300-400 m (fl., j.fr., Avril), LBV, MO, WAG.
+McPherson 15804, S of Ayem, 0°25'S–11°30'E (fl., May), MO, WAG.
 
-McPherson 15804, S de Ayem, 0°25'S-11°30'E (fl., Mai), MO, WAG.
-
-Thomas & Wilks 6435, Komi, près de Sindara, 1°04'S-10°48'E (j. fr., Juin), MO.
+Thomas & Wilks 6435, Komi, near Sindara, 1°04'S–10°48'E (j. fr., Jun.), MO.
 
 Wieringa 2856, Rabi-Kounga (fr., Oct.), LBV, WAG.
 

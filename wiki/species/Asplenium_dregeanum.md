@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kunze, Linnaea 10 : 517 (1836). — Tard., Mém. IFAN 28 : 197. pl. 39 f. 1-2. 1953. — Alston, FWTA : 59 (1959).
 
-Rhizome courtement rampant, à frondes en touffes, portant des écailles larges et courtes, peltées à la base, formées de cellules
-
-centrales à parois foncées, épaisses, les cellules marginales minces et claires. Pétiole long de 7-10 cm, grisâtre, portant de larges écailles claires. Limbe long de 7-15 cm sur 3-5 de large, à contour oblong, souvent prolifère sous la penne terminale linéaire, lobée. 15-30 paires de pennes lancéolées, alternes, courtement pétiolées, faisant un angle de 90° avec le rachis, longues d'environ 2,5 cm sur 1 de large, à bases inégales, extrémité arrondie-obtuse, divisées jusqu'à la nervure médiane, en 3-5 segments oblongs, spatulés, à la partie supérieure, 1-2 segments à la partie inférieure, le premier segment costal supérieur bifide. Rachis mince, peu ou pas ailé au sommet. Une nervure par lobe, n'atteignant pas la marge. 1 sore épais, situé à l'extrémité de la nervure.
+Rhizome shortly creeping, with fronds in tufts, bearing wide and short scales, peltate at the base, formed of central cells with dark, thick walls, the marginal cells thin and pale. Petiole 7-10 cm long, greyish, bearing wide pale scales. Lamina 7-15 cm long by 3-5 cm wide, oblong in outline, often proliferous beneath the linear, lobed terminal pinna. 15-30 pairs of lanceolate pinnae, alternate, shortly petiolulate, making a 90° angle with the rachis, approximately 2.5 cm long by 1 cm wide, with unequal bases, rounded-obtuse apex, divided to the midvein into 3-5 oblong segments, spatulate in the upper portion, 1-2 segments in the lower portion, the first upper costal segment bifid. Rachis thin, little or not winged at the apex. One vein per lobe, not reaching the margin. 1 thick sorus, situated at the apex of the vein.
 
 ## Type
 
@@ -34,9 +30,7 @@ Drège, Omsamcaba, Afrique australe
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et australe. Abondant sur certains troncs d'arbres.
+Tropical and southern Africa. Abundant on certain tree trunks.
 
 ## Specimens examined
 

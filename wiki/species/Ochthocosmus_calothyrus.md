@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Phyllocosmus calothyrsus MILDBR., Notizbl. Bot. Gart. Berlin 8: 59 (1921).
 
-Arbre pouvant atteindre 15 m de hauteur, glabre. Feuilles pétiolées ou subsessiles, stipulées; pétiole glabre, enflé et rugueux, de 2-7 mm. Limbe glabre, elliptique-obové, aigu à subaigu au sommet, atténué à la base, denté, de 8-27 × 3-10 cm. Nervures secondaires peu saillantes à la face inférieure; nervilles à peine distinctes sur les 2 faces.
+Tree reaching up to 15 m in height, glabrous. Leaves petiolate or subsessile, stipulate; petiole glabrous, swollen and wrinkled, 2-7 mm. Lamina glabrous, elliptic-obovate, acute to subacute at apex, attenuate at base, dentate, 8-27 × 3-10 cm. Secondary veins slightly prominent on lower surface; tertiary veins scarcely distinct on both surfaces.
 
-Inflorescences en racèmes glabres, 2 fois ramiﬁés, terminaux, groupés en fascicules. Fleurs pédicellées. Pédicelle glabre, de 4-10 mm. Sépales glabres, ovés, denticulés au sommet, inégaux, longs de 1-1,5 mm. Pétales glabres, oblongs à obovés, émarginés au sommet, devenant accrescents et persis-
+Inflorescences in glabrous racemes, twice branched, terminal, grouped in fascicles. Flowers pedicellate. Pedicel glabrous, 4-10 mm. Sepals glabrous, ovate, denticulate at apex, unequal, 1-1.5 mm long. Petals glabrous, oblong to obovate, emarginate at apex, becoming accrescent and persistent against the fruit at maturity, 3-4 × 2.5 mm. Stamens 10, glabrous, unequal, 4-7 mm; anthers oblong, approximately 0.5 mm. Ovary ovoid, 1.5 mm wide; style glabrous, undivided, 5-6 mm; stigma terminal.
 
-tants contre le fruit à maturité, 3-4 × 2,5 mm. Étamines 10, glabres, inégales, de 4-7 mm; anthères oblongues, d'environ 0,5 mm. Ovaire ovoïde, large de 1,5 mm; style glabre, indivis, de 5-6 mm; stigmate terminal.
-
-Capsule ovée,  $ 8 \times 2 $ mm, à 5 (d'après Letouzey 9117) loges fertiles. Graines comprimées, brun foncé, à surface ondulée (arille?),  $ 8 \times 3 $ mm. PL. 14, 6-8, p. 61.
+Capsule ovate, 8 × 2 mm, with 5 (according to Letouzey 9117) fertile locules. Seeds compressed, dark brown, with undulate surface (aril?), 8 × 3 mm. PL. 14, 6-8, p. 61.
 
 ## Type
 
@@ -35,9 +31,7 @@ Mildbraed 7529, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts du Cameroun et du Gabon.
+Forests of Cameroon and Gabon.
 
 ## Specimens examined
 

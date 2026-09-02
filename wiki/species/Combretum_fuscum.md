@@ -17,45 +17,39 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1): 272 (1954); LIBEN, FZ: 62 (1968); WICKENS, FTEA: 38 (1973); LIBEN, Fl. Cameroun: 25: 61, tab. 16 (1983); TYPE: Sierra Leone, Freetown (fl.) Vogel 127 (syn-K); Liberia, Grand Bassa (fl.) Ansell sn. (LECTOTYPE designated here: -K).
 
-KEAY, FWTA, ed. 2, 1(1) : 272 (1954) ; LIBEN, FZ : 62 (1968) ; WICKENS, FTEA : 38 (1973) ; LIBEN, Fl. Cameroun : 25 : 61, tab. 16 (1983) ; TYPE : Sierra Leone, Freetown (fl.) Vogel 127 (syn-K) ; Liberia, Grand Bassa (fl.) Ansell sn. (LECTOTYPE désigné ici : -K).
+– C. coriifolium Engler & Diels, Mon. Afr., Pfl., 3: 75, tab. 22 (1899); Liben, FZ: 62 (1968); Wickens, FTEA: 39 (1973); Exell, Fl. Zambesiaca: 136 (1978). Type: Malawi, s.l. (fl.) Buchanan 382 (holo-B delet.; Lectotype designated here: lecto-BM, iso-K) – syn. nov.
 
-– C. coriifolium Engler & Diels, Mon. Afr., Pfl., 3: 75, tab. 22 (1899); Liben, FZ: 62 (1968); Wickens, FIEA: 39 (1973); Exell, Fl. Zambesiaca: 136 (1978). Type: Malawi, s.l. (fl.) Buchanan 382 (holo-B delet.; Lectotype désigné ici: lecto-BM, iso-K) – syn. nov.
+– C. itsoghense PELLEGRIN, Bull. Mus. Hist. Nat. Paris 29: 268 (1923). TYPE: Gabon, Ghéci (fl.) Le Testu 2190 (holo-P; iso-BM, BR) – syn. nov.
 
-– C. itsoghense PELLEGRIN, Bull. Mus. Hist. Nat. Paris 29 : 268 (1923). TYPE : Gabon, Ghéci (fl.) Le Testu 2190 (holo-P ; iso-BM, BR) – syn. nov.
+– C. batesii Exell, Journal of Botany 67: 145 (1929); KEAY, FWTA, ed. 2, 1(1): 272 (1954); LIBEN, Fl. Cameroun 25: 48 (1983). TYPE: Cameroon, Bitye (fl.) Bates 959 (not 956!) (holo-BM; iso-MO) – syn. nov.
 
-– C. batesii Exell, Journal of Botany 67 : 145 (1929) ; KEAY, FWTA, ed. 2, 1(1) : 272 (1954) ; LIBEN, Fl. Cameroun 25 : 48 (1983). TYPE : Cameroun, Bitye (fl.) Bates 959 (not 956!) (holo-BM ; iso-MO) – syn. nov.
+– C. rhombifolium EXELL, Bull. Soc. Linn. Normandie 8-9: 140 (1937). TYPE: Gabon, Maghoungha (fl.) Le Testu 5942 (holo-P; iso-BM, BR) – syn. nov.
 
-– C. rhombifolium EXELL, Bull. Soc. Linn. Normandie 8-9 : 140 (1937). TYPE : Gabon, Maghoungha (fl.) Le Testu 5942 (holo-P ; iso-BM, BR) – syn. nov.
+– C. germainii LIBEN, BJBB 35 (2): 176 (1965); FZ: 61 (1968). TYPE: Congo (Kinshasa), Ikela (fl.) Germain 7336 (holo-BR; iso-BM) – syn. nov.
 
-– C. germainii LIBEN, BJBB 35 (2) : 176 (1965) ; FZ : 61 (1968). TYPE : Congo (Kinshasa), Ikela (fl.) Germain 7336 (holo-BR ; iso-BM) – syn. nov.
+– C. orophilum LIBEN, BJBB 35 (2): 174 (1965); FZ: 60 (1968); Fl. Cam. 25: 54 (1983). TYPE: Congo (Kinshasa), entre Biega et Kahusi (fl.) Léonard 3568 (holo-BR; iso-K, WAG) – syn. nov.
 
-– C. orophilum LIBEN, BJBB 35 (2) : 174 (1965) ; FZ : 60 (1968) ; Fl. Cam. 25 : 54 (1983). TYPE : Congo (Kinshasa), entre Biega et Kahusi (fl.) Léonard 3568 (holo-BR ; iso-K, WAG) – syn. nov.
+Large forest liana ≤ 30 m, diameter ≤ 20 cm. Young branchlets pubescent, brownish-green then glabrescent.
 
-Grande liane de forêt ≤ 30 m, diamètre ≤ 20 cm. Jeunes rameaux pubescents, brun-verdâtre puis glabrescents.
+Leaves opposite; petiole 5–20 mm; blade ovate-elliptic to oblong-elliptic, ≤ 20 × ≤ 10 cm, coriaceous, glabrous to puberulent; major lateral veins 6–9 pairs, domatia scarcely visible, midvein depressed; blade base rounded to attenuate; apex acute to acuminate and often mucronate.
 
-Feuilles opposées ; pétiole 5-20 mm ; limbe ové-elliptique à oblong-elliptique, ≤ 20 × ≤ 10 cm, coriace, glabre à pubérulent ; grandes nervures latérales 6-9 paires, domaties à peine visibles, nervure médiane déprimée ; base du limbe arrondie à atténuée ; sommet aigu à acuminé et souvent mucroné.
+Scales, diameter 40–60 μm.
 
-Écailles, diamètre 40-60  $ \mu $m.
+Inflorescences axillary terminal in spikes ≤ 6 cm, often axilled by a pale whitish-green leaf. Bracts scarcely visible.
 
-Inflorescences axillaires terminales en épi ≤ 6 cm, souvent axillé par une feuille blanc-verdâtre pâle. Bractées peu visibles
+Flowers 4-merous, sessile, protogynous. Receptacle pubescent, green: the lower one 1.5 mm high, the upper one elongate-campanulate, height 3.5 mm, width 2 mm. Calyx, lobes triangular. Petals obovate to spatulate, 1–2 × 0.5–1 mm, glabrous, white. Stamens exsert 4 mm; filaments white; anthers yellow 0.8 mm. Style white, exsert 2.5–4 mm.
 
-Fleurs 4-mères, sessiles, protogynes. Réceptacle pubescent, vert : l'inférieur haut de 1,5 mm, le supérieur allongé-campanulé, hauteur 3,5 mm, largeur 2 mm. Calice, lobes triangulaires. Pétales obovés à spathulés, 1-2 × 0,5-1 mm, glabres, blancs. Étamines exsertes de 4 mm ; filets blancs ; anthères jaunes 0,8 mm. Style blanc, exsert de 2,5-4 mm.
-
-Fruit, profil subcirculaire, diamètre ≤ 2,5 cm, ailes papyracées glabres, stipe ≤ 15 mm. – Pl. 12, p. 45.
+Fruit, subcircular in profile, diameter ≤ 2.5 cm, wings papyraceous glabrous, stipe ≤ 15 mm. – Pl. 12, p. 45.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Gabon, à l'Ouganda et au Mozambique
+from Sierra Leone to Gabon, Uganda and Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-rencontré dans tous les types de forêts tropicales sempervirentes, altitude ≤ 2 300 m
+encountered in all types of tropical evergreen forests, altitude ≤ 2,300 m
 
 ## Specimens examined
 

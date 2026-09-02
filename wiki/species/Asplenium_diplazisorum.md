@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier., in Engl. Bot. Jahrb. 46 : 351 (1911). — Tard., Mém. IFAN 28 : 179, pl. 34, f. 1 (1953) (A. diplaziorum pro err.). — Alston, FWTA : 57 (1959).
 
-Rhizome court, à frondes en touffes, portant des écailles deltoïdes, à base droite, prolongées en une longue et étroite extrémité, formées de cellules à paroi brune, lumière large, claire. Pétiole grisâtre, long de 10-15 cm, canaliculé, portant quelques écailles éparses, et, au sommet, des poils articulés. Limbe à contour oblong, long de 10 cm sur 6-7 de large, unipenné. Penne terminale deltoïde-oblongue, à bases égales, dentées. Pennes latérales 6-8 paires, alternes, espacées d'environ 1,5 cm, pétio-lulées, trapézoïdes-oblongues, à bases inégales, la supérieure cunéiforme, l'inférieure oblique, à marges crénelées-dentées, dents oblongues, extrémité de la penne arrondie ou aiguë. Pennes inférieures non, ou à peine, réduites. Penne terminale triangulaire. Texture mince. Coloration verdâtre sur le sec. Costa apparent. Sores n'atteignant pas le costa ni l'extrémité des nervures. Spores ovales, portant des crêtes déchiquetées, en forme d'aiguillon.
+Rhizome short, fronds in tufts, bearing deltoid scales with straight base, prolonged into a long and narrow apex, formed of cells with brown wall, broad and clear lumen. Petiole greyish, 10–15 cm long, channelled, bearing a few scattered scales, and at the apex, articulate hairs. Blade oblong in outline, 10 cm long by 6–7 cm wide, unipinnate. Terminal pinnule deltoid-oblong, with equal bases, dentate. Lateral pinnae 6–8 pairs, alternate, spaced about 1.5 cm apart, petiolulate, trapezoid-oblong, with unequal bases, the upper one cuneiform, the lower one oblique, with crenate-dentate margins, teeth oblong, apex of the pinnae rounded or acute. Lower pinnae not, or scarcely, reduced. Terminal pinnule triangular. Texture thin. Coloration greenish when dry. Costa apparent. Sori not reaching the costa or the apex of the veins. Spores oval, bearing jagged crests, spine-shaped.
 
 ## Type
 
@@ -28,11 +26,9 @@ Staudt 22 (isotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Sierra Leone, Côte d'Ivoire, Ghana, Cameroon, Gabon, Congo.
 
-Guinée, Sierra-Leone, Côté-d'Ivoire, Ghana, Cameroun, Gabon, Congo.
-
-Rochers exondés en sous-bois, ou base des contreforts d'arbres; raphiales.
+Exondated rocks in understory, or base of tree buttresses; raphiales.
 
 ## Specimens examined
 

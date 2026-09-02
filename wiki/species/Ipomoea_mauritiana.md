@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ipomoea paniculata (L.) R.Br., Prodr. 486 (1810), nom. illeg., non Burm.f. (1768). Grande liane vivace, à latex blanc et à racines tubéreuses ; tiges lianescentes ou rampantes, glabres à pubérulentes, cylindriques, souvent fistuleuses , parfois s’enracinant aux nœuds. Feuille : pétiole (2–)3–13 cm, glabre à pubérulent ; limbe suborbiculaire, palmatilobé jusqu’aux 2/3 ou rarement subentier, 6–25 cm de diamètre, papyracé à coriace, ± glabre dessus, mais pubérulent près de la base, glabre ou pubérulent sur les nervures principales dessous et glabrescentes, lobes 5–6(–9) , ovales-lancéolés, jusqu’à 12 × 8 cm, ± entiers ; nervures basilaires 5–7(–9) (correspondant au nombre de lobes) et 2–8 paires de nervures latérales. Inflorescence en cymes pauci- à multiflores , pubérulentes ; pédoncule 10–26 cm ; bractées tôt caduques, oblongues, environ 2–4 × 1–2 mm. Fleur : pédicelle 10–20 mm, pubérulent ; sépales subégaux, suborbiculaires à ovales, de 6–11 mm de longueur , glabres ou pubérulents à la base ; corolle infundibuliforme, 5–7 × 5–7 cm, rose violacé à blanchâtre, plus foncée à l’intérieur, surtout à la gorge ; étamines incluses, filets velus à la base ; pistil inclus, ovaire glabre . Fruit 2-loculaire, à 4 graines, ovoïde à ellipsoïde, 10–14 mm de longueur, à 4 valves glabres. Graines subglobuleuses, noires, pubérulentes et à longs poils blancs soyeux .
+Ipomoea paniculata (L.) R.Br., Prodr. 486 (1810), nom. illeg., non Burm.f. (1768). Large perennial liana, with white latex and tuberous roots; stems climbing or trailing, glabrous to puberulent, cylindrical, often fistulose, sometimes rooting at the nodes. Leaf: petiole (2–)3–13 cm, glabrous to puberulent; lamina suborbicular, palmatilobed to 2/3 or rarely subentire, 6–25 cm in diameter, papyraceous to coriaceous, ± glabrous above but puberulent near the base, glabrous or puberulent on the main veins beneath and glabrescent, lobes 5–6(–9), ovate-lanceolate, up to 12 × 8 cm, ± entire; basal veins 5–7(–9) (corresponding to the number of lobes) and 2–8 pairs of lateral veins. Inflorescence in few- to many-flowered cymes, puberulent; peduncle 10–26 cm; bracts early caducous, oblong, approximately 2–4 × 1–2 mm. Flower: pedicel 10–20 mm, puberulent; sepals subequal, suborbicular to ovate, 6–11 mm long, glabrous or puberulent at the base; corolla funnel-form, 5–7 × 5–7 cm, rose-violet to whitish, darker within, especially at the throat; stamens included, filaments hairy at the base; pistil included, ovary glabrous. Fruit 2-locular, with 4 seeds, ovoid to ellipsoid, 10–14 mm long, with 4 glabrous valves. Seeds subglobose, black, puberulent and with long silky white hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-toute l’Afrique tropicale, y compris l’Afrique du Sud, l’Asie et l’Amérique tropicale ; au Gabon, récoltée dans toutes les provinces
+throughout tropical Africa, including South Africa, Asia and tropical America; in Gabon, collected in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords de route, jachères, recrûs forestiers, galeries forestières, stations rudérales ; au Gabon, à 0–600 m d’altitude, ailleurs, jusqu’à 2450 m
+roadsides, fallows, forest regrowth, forest galleries, ruderal stations; in Gabon, at 0–600 m altitude, elsewhere, up to 2450 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le tubercule rapé est utilisé pour soigner les abcès (collection A.M. Louis 2813). On l’utilise aussi en lavement contre les maladies vénériennes ou la simple constipation, après pilonnage et cuisson à l’étouffée
+The grated tuber is used to treat abscesses (collection A.M. Louis 2813). It is also used as an enema against venereal diseases or simple constipation, after pounding and cooking in a closed vessel
 
 ## Vernacular names
 

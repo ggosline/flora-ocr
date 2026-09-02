@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, 3 (5) : 313 (1895).
 
 — Schmidelia grandifolia BAK., in OLIV., FTA 1:421 (1868).
 
-Rameaux arrondis à écorce beige ponctuée de lenticelles. Feuilles à folioles latérales un peu plus petites que la médiane, à pétiolules de 1-2 cm; limbe brièvement acuminé, atténué à la base, dessus brillant, rouge-tre, dessous mat.
+Branches rounded with beige bark dotted with lenticels. Leaves with lateral leaflets slightly smaller than the median one, with petiolules of 1-2 cm; blade shortly acuminate, attenuate at the base, upper surface glossy, reddish, lower surface matte.
 
-Inflorescence généralement très rameuse; cymules serrées, stipitées (1 mm), à pédicelles de 2 mm articulés à la base ou au milieu. Sépales nerviés. PL. 6, 1-6, p. 39.
+Inflorescence generally very branched; dense cymules, stipitate (1 mm), with pedicels of 2 mm articulate at the base or in the middle. Sepals nerved. PL. 6, 1-6, p. 39.
 
 ## Type
 
@@ -40,9 +38,7 @@ Zenker 276, 1142, 1896, 2310, 4108, 4131, Bipindi.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le 13 décembre 1954 au cours d'une expédition organisée en Guyane française par le New York Botanical Garden, R. S. COWAN a récolté sous le n° 38784 un échantillon ne différant d'A. grandifolius que par une pilosité de rameaux assez notable (poils de 0,1 mm), le pétiole presque rond et par l'écaille des pétales unique, triangulaire, égalant presque le limbe denté et munie de 2 petites apophyses dessus (côté externe de la fleur); c'était un arbre de 7 m, à fleurs blanches, peu fréquent, en haute forêt (alt. 220-275 m) dans la montagne de Kaw. Aucun nom ne figure sur l'étiquette. A porter sur la liste de WEGENER des espèces voisines croissant en Guyane et sur les rives du golfe de Guinée
+On 13 December 1954 during an expedition organized in French Guiana by the New York Botanical Garden, R. S. COWAN collected under number 38784 a specimen differing from A. grandifolius only by a rather notable hairiness of the branches (hairs of 0.1 mm), the almost round petiole and by the petal scale being unique, triangular, nearly equalling the dentate blade and bearing 2 small apophyses above (external side of the flower); it was a tree of 7 m, with white flowers, infrequent, in high forest (alt. 220-275 m) in the Kaw mountain. No name appears on the label. To be added to WEGENER's list of related species occurring in Guiana and on the shores of the Gulf of Guinea.
 
 ## Figures
 

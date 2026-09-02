@@ -22,27 +22,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, rét. orig., et Sterc. Afr. : 122 t. 14 A a-d (1900). — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 42 (1950-1951) excl. Le Testu 9648, and the fruit description.
 
-, rét. orig., et Sterc. Afr. : 122 t. 14 A a-d (1900). — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 42 (1950-1951) excl. Le Testu 9648, et la descr. du fruit.
+Tree 10–20 m tall with puberulent, vigorous and angular terminal shoots beneath the petioles. Terminal bud ovate-apiculate with enveloping scales. Stipules rapidly caducous. Petioles 14–120 cm long, subcylindric sulcate when dry, glabrescent. Leaves digitate 4–5-foliolate. Petiolules 4–15 mm long. Primary leaflets 15–65 cm long by 5–22 cm wide, acute at base, with acumen 17–45 mm often very narrowly acute-attenuate. Lateral leaflets shorter, slightly widened on the outer side. Blade coriaceous discolour brownish grey above and brown-fawn below when dry, glabrous. Midrib rapidly glabrous. Pinnate veins 9–12 pairs ascending. Reticulation remarkably distinct and prominent on the lower surface.
 
-Arbre de 10-20 m de haut à extrémités pubérulentes, vigou-reuses et anguleuses sous les pétioles. Bourgeon terminal ové-apiculé à écailles enveloppantes. Stipules rapidement caduques. Pétioles de 14-120 cm de long, subcylindriques sulqués à sec, glabrescents. Feuilles digitées 4-5 foliolées. Pétiolules de 4-15 mm de long. Folioles principales de 15-65 cm de long sur 5-22 cm de large, à base aiguë, à acumen de 17-45 mm souvent très étroitement atténué aigu. Folioles latérales plus courtes, un peu élargies du côté externe. Limbe coriace discolore brun grisâtre dessus et brun fauve dessous à sec, glabre. Nervure médiane rapidement glabre. Nervures pennées 9-12 paires ascendantes. Réticule remarquablement net et en relief sur la face inférieure.
+Inflorescences remarkable in loose multiflorous panicles arising on the trunk and reaching 8–25 cm long, brown puberulent, with bracteoles 2–4 mm ovate caducous, with alternate ramifications. Pedicels 1–5 mm long, articulated towards the lower third. Bud short, pentagonal. Flowers red with dark purple margins, with whitish or yellowish centre. Calyx 4–7 mm long, densely tawny puberulent on the outside, glabrous on the inside, papilliferous at the base, shortly campanulate (4) 5 (6) lobes, oblong or rounded, more or less spreading, with thinned margins undulate or crisped.
 
-Inflorescences remarquables en panicules multiflores lâches poussant sur le tronc et atteignant 8-25 cm de long, bruns pubérulents, à bractéoles de 2-4 mm ovées caduques, à ramifications alternes. Pédicelles de 1-5 mm de long, articulés vers le tiers inférieur. Bouton court, pentagonal. Fleurs rouges à bords pourpre foncé, à cœur blanchâtre ou jaunâtre. Calice de 4-7 mm de long, densément pubérulent fauve à l'extérieur, glabre à l'intérieur, papillifère au fond, brièvement campanulé (4) 5 (6) lobes, oblongs ou arrondis, plus ou moins étalés, à marges amincies ondulées ou crispées.
+Male flower with glabrous androphone, approx. 1 mm tall, bearing a corona with flat apex formed of 20 uniseriate pollen sacs. Female flower with short ovary, densely clothed with stellate hairs, surrounded at the base by pollen sacs; (4) 5 (6) adherent carpels; stigmatic lobes radiating, compressed. Approx. 6 ovules biseriate per carpel.
 
-Fleur ♂ à androphore glabre, d'env. 1 mm de haut, portant une couronne à sommet plat formée de 20 loges polliniques uni-sériées. Fleur ♀ à ovaire court, densément vêtue de poils stellés, entouré à la base de loges polliniques; (4) 5 (6) carpelles adhérents; lobes stigmatiques rayonnants, camus. Env. 6 ovules bisériés par carpelle.
+Fruit borne by a peduncle of inflorescent origin reaching beyond 15 cm long, composed of (1) 3 (5) massive and bumpy follicles, subsessile, 9–13 cm long by 7 cm wide, indehiscent, with smooth and glabrous surface ornamented when dry with a coarse network of prominent wrinkles; base rounded; apex bearing a nasiform wrinkled acumen. Seeds approx. 3–4 per follicle, rounded, 4–5 cm in diameter with very broad oblong placental insertion. 2 thick cotyledons with hirsute-hispid inner surface as well as the radicle.
 
-Fruit porté par un pédoncule d'origine inflorescentiel pouvant dépasser 15 cm de long, composé de (1) 3 (5) follicules massifs et bossus, subsessiles, de 9-13 cm de long sur 7 cm de large, indéhiscents, à surface lisse et glabre ornée à sec d'un grossier réseau de plis saillants; base arrondie; sommet portant un acumen nasiforme ridé. Graines env. 3-4 par follicule, arrondies, de 4-5 cm de diamètre à très large insertion placentaire oblongue. 2 cotylédons épais à face interne hirsute-hispide ainsi que la gemmule.
+Type of the species: Soyaux 123 (P.)
 
-Type de l'espèce : Soyaux 123 (P.)
+Taxonomic notes. The male flower was not described by Schumann. The fruit known from Pierre (unpublished notes accompanying the collections of R. P. Klaine), had not been correctly determined due to a confusion of collection and numbers with C. ficifolia; note that the two species appear to cohabitate in the vicinity of Libreville where they are confused under the vernacular name of Annchioin.
 
-Notes taxonomiques. La fleur ♂ n'a pas été décrite par Schumann. Le fruit connu de Pierre (notes inédites jointes aux récoltes du R. P. Klaine), n'avait pas été correctement déterminé du fait d'une confusion de récolte et de numéros avec le C. ficifolia; notons que les deux espèces paraissent cohabiter dans les environs de Libreville où elles sont confondues sous le nom vernaculaire d'Annchioin.
+The description given by Pellegrin of the fruit is wrongly attributed to C. crispiflora whose ovary is never 7-carpellate and which does not appear to exist in the Upper Ogooué (it was in fact Cola lastoursvillensis with leaves clothed below with simple hairs).
 
-La description que donne Pellegrin du fruit, est rapportée à tort au C. crispiflora dont l'ovaire n'est jamais 7-carpellé et qui ne paraît pas exister dans le Haut-Ogooué (il s'agissait en fait du Cola lastoursvillensis à feuilles vêtues dessous de poils simples).
+The seed type and placentation of C. crispiflora allow one to note an affinity that appears to exist between this species and, on the one hand C. ficifolia and duparquetiana, on the other hand C. rostrata and pachycarpa. A much closer affinity exists moreover between this Cola and C. buntingii Bak. f. of West Africa.
 
-Le type de graine et la placentation du C. crispiflora permettent de signaler une parenté qui paraît exister entre cette espèce et, d'une part les C. ficifolia et duparquetiana, d'autre part les C. rostrata et pachycarpa. Une parenté beaucoup plus étroite existe en outre entre ce Cola et le C. buntingii Bak. f. d'Afrique Occidentale.
-
-L'espèce ne paraît pas connue en dehors du Gabon.
+The species does not appear to be known outside of Gabon.
 
 ## Vernacular names
 

@@ -18,27 +18,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pycreus fluminalis (Ridl.) Troupin, Fl. Spermat. Parc Nat. Garamba 1 : 126 (1956).
 
 ## Also treated in vol 44
 
 **Pages**: 117-118 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+20(101) : 402 (1936). Perennial herb, in tufts, sometimes with a short, scarcely distinct rhizome; stems 15–40 cm × 1–2.5 mm, trigonous, smooth, rigid, the lower part somewhat swollen and covered by the remains of old leaves. Leaves numerous, basal or sub-basal; sheath very short; blade 5–20 cm × 2–5 mm, plane, generally shorter than the stem. Inflorescence in a compact capitate anthela of crowded spikelets, usually 15–25 mm wide, or more rarely in a slightly loose anthela with some fascicles of spikelets on short peduncles, often with 15–30 spikelets; involucral bracts 2–5, foliaceous, spreading, the largest 3–12 cm × 2–4 mm, somewhat scabrous. Spikelet lanceolate, 8–25 × 2–3 mm, white or whitish-green, with 20–30 flowers; glumes ovate, 1.5–2.3 mm long, dull white with a pale green midvein, often trinerved ending at the rounded apex or extending slightly beyond it. Flower with 2 stamens with anthers 0.6 mm long; style with 2 long branches. Achene obovate, 0.7–0.9 × 0.4–0.7 mm, with a short apicule, biconvex, reddish-brown to dark grey with ± distinct transverse wrinkles, sometimes finely papillose.
 
-20(101) : 402 (1936). Herbe vivace, en touffe, parfois avec un court rhizome peu distinct ; tiges de 15‒40 cm × 1‒2,5 mm, trigones, lisses, raides, la partie inférieure quelque peu renflée et recouverte par les restes des vieilles feuilles. Feuilles nombreuses, basales ou sub-basales ; gaine très courte ; limbe de 5‒20 cm × 2‒5 mm , plan, généralement plus court que la tige. Inflorescence en anthèle capitée compacte d’épillets serrés, habituellement de 15‒25 mm de largeur, ou plus rarement en anthèle légèrement lâche avec certains fascicules d’épillets sur de courts pédoncules, souvent avec 15‒30 épillets ; bractées involucrales 2‒5, foliacées, étalées, la plus grande de 3‒12 cm × 2‒4 mm, un peu scabres. Épillet lancéolé, de 8‒25 × 2‒3 mm , blanc ou blanc verdâtre, à 20‒30 fleurs ; glumes ovales, longues de 1,5‒2,3 mm , blanc terne avec une nervure médiane vert pâle, souvent trinervée se terminant dans le sommet arrondi ou le dépassant un peu. Fleur à 2 étamines à anthères longues de 0,6 mm ; style à 2 longues branches. Akène obovale, de 0,7‒0,9 × 0,4‒0,7 mm , avec un court apicule, biconvexe, brun rougeâtre à gris foncé avec des rides transversales ± distinctes, parfois finement papilleux.
-
-Base du limbe et orifice de la gaine. – C. Partie Sommet du limbe. – C, D. Partie de l’inflorescence. de l’inflorescence. – D. Épillet. – E. Écaille basale – E. Épillet. – F. Glume. – G. Fleur. – H. Fruit. de l’épillet et glume. – F. Fleur. – G. Fruit. Dessin Dessin original par Richard W. Haines ©. original par Richard W. Haines ©.
+Base of blade and sheath orifice. – C. Apex of blade. – C, D. Part of inflorescence. of inflorescence. – D. Spikelet. – E. Basal scale – E. Spikelet. – F. Glume. – G. Flower. – H. Fruit. of the spikelet and glume. – F. Flower. – G. Fruit. Drawing Drawing original by Richard W. Haines ©. original by Richard W. Haines ©.
 
 ### Distribution
 
-dispersée en Afrique tropicale ; peu commune au Gabon, trouvée dans l’Estuaire, le Haut-Ogooué, l’Ogooué-Ivindo et le Woleu-Ntem (6 récoltes)
+scattered in tropical Africa; uncommon in Gabon, found in Estuaire, Haut-Ogooué, Ogooué-Ivindo and Woleu-Ntem (6 collections)
 
 ### Ecology
 
-marécages et bords des eaux courantes, quelquefois submergée en période de hautes eaux ; au Gabon, à 0‒600 m d’altitude, jusqu’à 1500 m ailleurs. Note taxonomique : se reconnaît à son inflorescence blanchâtre capitée. Elle est proche de C. smithianus Ridl. seulement connue de la République Démocratique du Congo, qui a des feuilles et des glumes un peu plus épaisses. Elle diffère de C. fibrillosus var. scaettae par ses feuilles à limbe plus large et ses tiges plus robustes B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+marshes and banks of running water, sometimes submerged during periods of high water; in Gabon, at 0–600 m altitude, up to 1500 m elsewhere. Taxonomic note: recognizable by its whitish capitate inflorescence. It is close to C. smithianus Ridl. known only from the Democratic Republic of the Congo, which has somewhat thicker leaves and glumes. It differs from C. fibrillosus var. scaettae by its leaves with wider blade and more robust stems. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
 ## Notes
 

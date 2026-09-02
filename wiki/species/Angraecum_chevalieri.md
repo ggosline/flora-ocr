@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Garay, Kew Bull. 28(3): 506 (1973); Cribb, FTEA, Orchid. 3: 497 (1989); FCAM 3: 890 (2001).
 
-Garay, Kew Bull. 28(3) : 506 (1973) ; Cribb, FTEA, Orchid. 3 : 497 (1989) ; FCAM 3 : 890 (2001).
-
-Tige 6-13 cm. Feuilles 2,8-6,8 × 4,5-10 cm, ligulées à oblongues-linéaires, marges révolutées. Inflorescence < 5 cm, dressée, 1-4-flore, lâche. Fleurs moyennes ou petites, résupinées, vert parcheminé. Sépale dorsal lancéolé, acuminé. Pétales linéaires-lancéolés, légèrement falci-formes, aigus. Sépales latéraux lancéolés, acuminés, sigmoïdes, assez épais dans la partie inférieure. Labelle 7-10,5 × 2,1-3,7 mm, oblong-elliptique, cuspidé à caudé, cochléiforme, avec un callus linéaire saillant. Éperon 15-20 mm, filiforme au-dessus d'une base étroitement conique, légèrement renflé au sommet aigu, arqué. – Pl. 222, p. 465.
+Stem 6–13 cm. Leaves 2.8–6.8 × 4.5–10 cm, ligulate to oblong-linear, margins revolute. Inflorescence < 5 cm, erect, 1–4-flowered, lax. Flowers medium to small, resupinate, parchment-green. Dorsal sepal lanceolate, acuminate. Petals linear-lanceolate, slightly falcate, acute. Lateral sepals lanceolate, acuminate, sigmoid, rather thick in the lower part. Labellum 7–10.5 × 2.1–3.7 mm, oblong-elliptic, cuspidate to caudate, cochleate, with a prominent linear callus. Spur 15–20 mm, filiform above a narrowly conical base, slightly inflated at the acute apex, curved. – Pl. 222, p. 465.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Central African Republic, Zaïre, Uganda, Tanzania
 
-Guinée, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, République centrafricaine, Zaïre, Ouganda, Tanzanie
-
-PL. 223. – Angraecum egertonii Rendle : A, partie de l'axe de l'inflorescence ; B, fleur, tépales enlevés et bractée ; C, éperon et labelle étalés ; D, détails du callus du labelle ; E, sépale latéral ; F, pétale ; G, sépale dorsal ; H-J, feuilles ; K, vue générale ; L, fleur (A-J, Letouzey 14128, P. ; K-L, ex Talbot, 1913, modifié).
+PL. 223. – Angraecum egertonii Rendle: A, portion of the inflorescence axis; B, flower, tepals removed and bract; C, spur and labellum spread; D, details of the labellum callus; E, lateral sepal; F, petal; G, dorsal sepal; H–J, leaves; K, general view; L, flower (A–J, Letouzey 14128, P.; K–L, ex Talbot, 1913, modified).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,100–1,200 m. Epiphyte on low scrub and tree in exposed site overhanging water, in dense humid forest, collected on old coffee plants, Dialium polyphyllum, Pavetta
 
-alt. 1 100-1 200 m. Épiphyte sur fourré bas et arbre en site exposé et surplombant l'eau, en forêt dense humide, récolté sur vieux caféiers, Dialium polyphyllum, Pavetta
+MATERIAL STUDIED (Map 100):
 
-MATÉRIEL ÉTUDIÉ (Carte 100) :
-
-J. M. & B. Reitsma & Louis 1799, inselberg, environ 28 km ESE de Médouneu 0° 55' N, 11° 01' E., (fl. Fév.), WAG!.
+J. M. & B. Reitsma & Louis 1799, inselberg, approximately 28 km ESE of Médouneu 0° 55' N, 11° 01' E., (fl. Feb.), WAG!.
 
 ## Figures
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 2, 14(2) : 274 (1974). Inversodicraea letestui Pellegrin, Bull. Mus. natn. Hist. nat. Paris 33(6) : 525 (1927) ‘Le Testui’. Plante à partie basale thalloïde rubanée ; tige ramifiée, plusieurs fois dichotome, 4–20 cm de longueur. Stipules absentes. Feuille axillant l’inflorescence, plusieurs fois dichotome, 2–5 cm de longueur, à segments filiformes. Inflorescence subsessile, portant 3 à 7 fleurs terminales ou axillaires ; spathelle sessile, ellipsoïde à obovoïde, ± 2 mm de longueur. Fleur : pédicelle ± 3,5 mm après l’anthèse ; tépales linéaires ; androcée plus long que l’ovaire, étamines 2, filets soudés sur plus de la moitié de leur longueur, anthère 1 × 0,5 mm, pollen en monades ; ovaire 1,5 × 0,8 mm, gynophore ± 0,5 mm de longueur ; stigmates filiformes, 0,5–0,7 mm. Fruit ellipsoïde, à valves caduques. Graine ± 0,25 × 0,2 mm.
+Adansonia , sér. 2, 14(2) : 274 (1974). Inversodicraea letestui Pellegrin, Bull. Mus. natn. Hist. nat. Paris 33(6) : 525 (1927) 'Le Testui'. Plant with a thalloid ribbon-like basal portion; stem branched, several times dichotomous, 4–20 cm in length. Stipules absent. Leaf axillating the inflorescence, several times dichotomous, 2–5 cm in length, with filiform segments. Inflorescence subsessile, bearing 3 to 7 terminal or axillary flowers; spathe sessile, ellipsoid to obovoid, ± 2 mm in length. Flower: pedicel ± 3.5 mm after anthesis; tepals linear; androecium longer than the ovary, stamens 2, filaments fused for more than half their length, anther 1 × 0.5 mm, pollen in monads; ovary 1.5 × 0.8 mm, gynophore ± 0.5 mm in length; stigmas filiform, 0.5–0.7 mm. Fruit ellipsoid, with deciduous valves. Seed ± 0.25 × 0.2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Endémique du Gabon, connu de l’Estuaire, de la Ngounié et de la Nyanga
+Endemic to Gabon, known from Estuaire, Ngounié and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-à 100–300 m d’altitude. B : Cusset (1984), Sosef et al. (2006). i B liographie
+at 100–300 m elevation. B : Cusset (1984), Sosef et al. (2006). i Bibliography
 
 ## Notes
 

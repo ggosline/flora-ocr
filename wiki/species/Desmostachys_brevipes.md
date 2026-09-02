@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pyrenacantha brevipes ENGL., Bot. Jahrb. 43 : 187 (1909).
 
 — Sarcostigma brevipes (ENGL.) ENGL., Pflanzenwelt Afr. 3 : 260 (1921).
 
-Liane (?) ou arbuste. Rameaux gris jaunâtre, pubescents à poils apprimés. Pétiole pubescent canaliculé dessus, long de 2-5 mm. Limbe glabre à la face supérieure, courtement, éparsement pubescent à la face inférieure, vert grisâtre dessus, gris vert dessous, blancéolé ou largement elliptique, 11-17,5 × 4,5-7,5 cm; base atténuée ou faiblement arrondie et sommet abruptement et longuement acuminé aigu ou obtus. Nervure médiane concave dessus, saillante éparsement pubescente dessous. Nervures secondaires 6-7 paires, très ascendantes, peu arquées, s'anastomosant à 1-3 mm du bord du limbe, saillantes sur les deux faces, éparsement pubescentes à la face inférieure. Nervilles en réseau dense saillant sur les deux faces.
+Liane (?) or shrub. Branches yellowish-grey, pubescent with appressed hairs. Petiole pubescent, channelled above, 2–5 mm long. Blade glabrous on the upper face, shortly and sparsely pubescent on the lower face, greyish-green above, grey-green below, narrowly elliptic or broadly elliptic, 11–17.5 × 4.5–7.5 cm; base attenuate or weakly rounded and apex abruptly and elongately acuminate, acute or obtuse. Midvein concave above, prominent and sparsely pubescent below. Secondary veins 6–7 pairs, very ascending, slightly arched, anastomosing 1–3 mm from the margin of the blade, prominent on both faces, sparsely pubescent on the lower face. Veinlets in a dense network prominent on both faces.
 
-Inflorescence en grappe de glomérules, solitaire, axillaire, longue de 12-24,5 cm. Glomérules multiflores pubescents sur les faces étroites du rachis inflorescentiel pubescent vert. Bouton floral largement ellipsoïde, très courtemment pédicellé. Fleurs blanches, ☀, pentamères. Sépales soudés entre eux, pubescents extérieurement, glabres intérieurement, largement lancéolés, 1,5 × 0,5 mm; sommet aigu. Pétales libres entre eux sauf à la base, ± pubescents extérieurement, pubescents intérieurement surtout vers la base, étroitement elliptiques, 4 × 1 mm; sommet aigu. Étamines longues de 5 mm; filet grêle long de 4 mm; anthère basifixe à 2 loges étroitement ellipsoïdes, longue de 1 mm. Ovaire supère pubescent, ellipsoïde, 0,75 × 0,5 mm; style grêle long de 4 mm à stigmate ± globuleux.
+Inflorescence in a raceme of glomerules, solitary, axillary, 12–24.5 cm long. Glomerules multiflorous, pubescent on the narrow faces of the green pubescent inflorescence rachis. Floral bud widely ellipsoid, very shortly pedicellate. Flowers white, ☀, pentamerous. Sepals fused to each other, pubescent externally, glabrous internally, broadly lanceolate, 1.5 × 0.5 mm; apex acute. Petals free from each other except at the base, ± pubescent externally, pubescent internally especially towards the base, narrowly elliptic, 4 × 1 mm; apex acute. Stamens 5 mm long; filament slender, 4 mm long; anther basifixed with 2 narrowly ellipsoid locules, 1 mm long. Ovary superior, pubescent, ellipsoid, 0.75 × 0.5 mm; style slender, 4 mm long, with ± globulous stigma.
 
-Drupe oblongue longue de 1,5 mm. Pl. 11, 1-3', p. 49.
+Drupe oblong, 1.5 mm long. Pl. 11, 1–3', p. 49.
 
 ## Type
 
@@ -35,9 +33,7 @@ Zenker 3086, Cameroun, (holo-, B, delet.; iso-, P!, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est connue du Cameroun et du Gabon.
+This species is known from Cameroon and Gabon.
 
 ## Specimens examined
 

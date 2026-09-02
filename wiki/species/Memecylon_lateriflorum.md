@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pavetta lateriflora G. Don, Gen. Syst. 3 : 575 (1834).
 
-— Memecylon donianum PLANCH., in Fl. Nigrit. : 357 (1849); Hooker F., in FTA, 2 : 463 (1871); Triana, Trans. Linn. Soc. 28 : 155 (1871); Cogniaux, in Mon. Phan. 7, Melast. : 1161 (1891); Gilg, in Mon. Afr. 2, Melast. : 44 (1898); in Pflanzenw. Afr. 3, 2 : 768 (1921); Hutchinson & Dalziel, FWTA, ed. 1, 1 : 214 (1927); nom. illeg. : même type que le précédent.
+— Memecylon donianum PLANCH., in Fl. Nigrit. : 357 (1849); Hooker F., in FTA, 2 : 463 (1871); Triana, Trans. Linn. Soc. 28 : 155 (1871); Cogniaux, in Mon. Phan. 7, Melast. : 1161 (1891); Gilg, in Mon. Afr. 2, Melast. : 44 (1898); in Pflanzenw. Afr. 3, 2 : 768 (1921); Hutchinson & Dalziel, FWTA, ed. 1, 1 : 214 (1927); nom. illeg. : same type as the preceding.
 
 — M. simii STAPF, J. Linn. Soc. 37 : 99 (1905); GILG, in Pflanzenw. Afr. 3, 2 : 768 (1921).
 
@@ -33,19 +31,17 @@ Don s.n., Sierra Leone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— M. applanatum BAK. F., in Cat. Talb. : 37 (1913). TYPE : Talbot 1606, southern Nigeria.
 
-— M. applanatum BAK. F., in Cat. Talb. : 37 (1913). TYPE : Talbot 1606, Nigéria du sud.
+Shrub to small tree 8–10 m; branchlets rounded; occasionally a few leafless nodes. Leaves coriaceous, opaque, subsessile; blade oblong-elliptic, ± 6 × 18 cm, or elliptic, ± 4 × 10 cm, caudate-acuminate; cuneate at base, acumen 1.5 cm, often curved, acute; midvein finely impressed above, moderately prominent below; 20 pinnate veins, not or scarcely visible, perpendicular, rectilinear; the convergent ones not or very scarcely visible, submarginally placed; margins often revolute when dry.
 
-Arbuste à petit arbre de 8 à 10 m; rameaux arrondis; parfois quelques nœuds aphyelles. Feuilles coriaces, opaques, subsessiles; limbe oblongo-elliptique, ± 6 × 18 cm, ou elliptique, ± 4 × 10 cm, caudé-acuminé; cunée à la base, acumen 1,5 cm, souvent courbe, aigu; nervure médiane finement imprimée dessus, médiocrement saillante dessous; 20 nervures pennées, non ou peu visibles, perpendiculares, rectilignes; les convergentes non ou très peu visibles, submarginales; marges souvent révolutées sur le sec.
+Axillary and sometimes also terminal cymes, solitary or paired, up to 3 cm long, 2–3 times branched; stipe short, flattened, branches developed; flowers by 3, or each pedicelled beneath the pedicel; bracts triangular, persistent or caducous. Flower with pedicel 2–4 mm; floral bud at first entirely closed, globose-ellipsoid or obovoid, 4 × 5 mm;
 
-Cymes axillaires et parfois aussi terminales, solitaires ou géminées, longues jusqu'à 3 cm, de 2 à 3 fois ramifiées; stipe court, aplat, rameaux développés; fleurs par 3, ou chacune pédonculée sous le pédicelle; bractées triangulaires, persistantes ou caduques. Fleur à pédicelle de 2 à 4 mm; bouton floral d'abord entièrement clos, globulo-ellipsoïde ou obvoïde, 4 × 5 mm;
+hypanthium-calyx campanulate; calyx lobes valvate, thick, triangular, up to 3 × 3 mm, or less tall when the calyx opens earlier before anthesis. Corolla poorly developed; petals fleshy, semi-oval, 3 × 2 mm, or triangular, 3 × 3 mm, imbricate or amplexicaul and, in this latter case, noticeably unequal. Stamens with anther nearly oblong, thecae 1.5–2 mm; connective curved-glandulous on the back, nearly parallel to the thecae, except the base divergent and conic; filament 3–5 mm; epigynous chamber deep, cupuliform, 8 prominent partitions, almost touching the style; ovary with thick wall; locules with nearly complete partitions; 4–8-ovulate; style 6 mm.
 
-hypantho-calice campanulé; lobes du calice valvaires, épais, triangulaires, jusqu'à 3 × 3 mm, ou moins hauts lorsque le calice s'ouvre plus tôt avant l'anthèse. Corolle peu développée; pétales charnus, semi-ovales, 3 × 2 mm, à triangulaires, 3 × 3 mm, imbriqués ou amplexés et, dans ce dernier cas, sensiblement inégaux. Étamines à anthère presque oblongue, thèques de 1,5 à 2 mm; connectif incurvé-glanduleux sur le dos, presque parallèle aux thèques, sauf la base divergente et conique; filet de 3 à 5 mm; chambre épigyne profonde, cupuliforme, 8 cloisons saillantes, touchant presque le style; ovaire à paroi épaisse; loges avec cloisons presque complètes; 4-8-ovulé; style 6 mm.
+Fruit globose to obovoid, with thick wall, 13 × 17 mm, crowned by the 4 calyx lobes. — Pl. 42, p. 117.
 
-Fruit globuleux à obvoïde, à paroi épaisse,  $ 13 \times 17 $ mm, couronné par les 4 lobes du calice. — Pl. 42, p. 117.
-
-Cette espèce est assez bien connue des forêts de l'ouest africain. Au Cameroun nous avons été amené à distinguer une espèce affine, qui semble localisée en quelques galeries fluviales. Par contre, la récolte de LE TESTU est identifiable au M. lateriflorum, bien que les pétales soient imbriqués ou amplexés. En effet, la position des pétales, chez les Memecylon, semble assez variable.
+This species is fairly well known from the forests of West Africa. In Cameroon we were led to distinguish a related species, which appears to be localized in a few riverine galleries. By contrast, the collection of LE TESTU is identifiable with M. lateriflorum, although the petals are imbricate or amplexicaul. Indeed, the position of the petals in Memecylon seems quite variable.
 
 ## Specimens examined
 

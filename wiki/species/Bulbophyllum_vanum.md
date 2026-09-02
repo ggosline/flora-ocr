@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 0,2-0,5 × 0,2-0,4 cm, ovoïdes à suborbiculaires, 1-foliés. Feuille subsessile, 0,4-1,2 (1,8) × 0,4-0,6 cm, oblongue à largement linéaire-lancéolée. Inflorescence 1,8-2,8 cm, subcapituliforme, rachis en zigzag, glabre, 1-3-flore. Fleurs minuscules, rouge-brunâtre pâle, poils le long du labelle blanc. Sépales cuspides, minces avec de très fines papilles vers le sommet ; sépale dorsal oblong-ové ; sépales laté-raux obliquement elliptiques. Pétales glabres, minces, obliquement obovés, acumen court, marges irrégulièrement denticulées vers le sommet. Labelle blanc, glabre mais marges ciliées, elliptique à ové, non récurvé, sommet arrondi, base plutôt épaisse. – Pl. 103, p. 205.
+Pseudobulbs 0.2–0.5 × 0.2–0.4 cm, ovoid to suborbicular, 1-leaved. Leaf subsessile, 0.4–1.2 (1.8) × 0.4–0.6 cm, oblong to broadly linear-lanceolate. Inflorescence 1.8–2.8 cm, subcapituliform, rachis zigzag, glabrous, 1–3-flowered. Flowers minute, pale reddish-brown, hairs along the white labellum. Sepals cuspidate, thin with very fine papillae towards the apex; dorsal sepal oblong-ovate; lateral sepals obliquely elliptic. Petals glabrous, thin, obliquely obovate, short acumen, margins irregularly denticulate towards the apex. Labellum white, glabrous but margins ciliate, elliptic to ovate, not recurved, apex rounded, base rather thick. – Pl. 103, p. 205.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo (Kinshasa)
 
-PL. 101. – Bulbophyllum pumilum (Sw.) Lindl.: A, vue générale ; B, partie de l'inflorescence ; C-E, J-K, L-N, labelle ; F, Q, sépale latéral ; G, P, pétale ; H, O, sépale dorsal ; I, partie supérieure du gynostème, vue latérale ; R, gynostème, vue latérale (A-I, Zenker 3903, HBG; J-K, Preuss 1279, HBG; L-R, Braun s.n., HBG).
+PL. 101. – Bulbophyllum pumilum (Sw.) Lindl.: A, general view; B, part of the inflorescence; C–E, J–K, L–N, labellum; F, Q, lateral sepal; G, P, petal; H, O, dorsal sepal; I, upper part of the gynostemium, lateral view; R, gynostemium, lateral view (A–I, Zenker 3903, HBG; J–K, Preuss 1279, HBG; L–R, Braun s.n., HBG).
 
-PL. 103. – Bulbophyllum vanum J. J. Verm.: A, vue générale ; B, inflorescence ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
+PL. 103. – Bulbophyllum vanum J. J. Verm.: A, general view; B, inflorescence; C, floral parts; D, labellum; E, labellum and gynostemium in natural position, lateral view; F, anther; G, pollinia (A–G, ex VERMEULEN, 1987).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–500 m. Epiphyte among mosses and Peperomia (Hallé 3244), collected on dead tree branch 2 m above ground; forest on sloping terrain
 
-alt. 0-500 m. Épiphyte parmi les mousses et des Peperomia (Hallé 3244), récolté sur branche d'arbre mort à 2 m au-dessus du sol ; forêt sur relief
+MATERIAL EXAMINED (Map 40):
 
-MATÉRIEL ÉTUDIÉ (Carte 40) :
-
-Breteler & de Wilde 642, pentes inférieures de Babiel Nord exposées au Sud, dans la forêt dense basse de Elfin, très riche en lichens, mousses et épiphytes, 1° 07' N, 13° 10' E (fl., Sept.), P!, WAG!.
+Breteler & de Wilde 642, lower slopes of Babiel Nord facing South, in low elfin forest rich in lichens, mosses and epiphytes, 1° 07' N, 13° 10' E (fl., Sept.), P!, WAG!.
 
 Hallé 3244, Bélinga (fl., Nov.), P!.
 

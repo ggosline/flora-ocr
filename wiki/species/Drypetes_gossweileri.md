@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 46; Figure 9(A-C)
+Plate 46; Figure 9(A-C)
 
 D. armoracia Pax & K.Hoffm. in Engler, Pflanzenr. IV, 147, XV (Heft 81): 275 (1922).
 
-Arbre atteignant 45 m de hauteur, à branches plagiotropes; tronc atteignant 118 cm de diamètre, cylindrique, très légèrement cannelé à la base, généralement sans contreforts, mais parfois jusqu'à 50 cm de hauteur ; entaille jaunâtre, à texture granuleuse, à forte odeur d'huile de moutarde; ramilles glabres; bourgeons terminaux densément poilus, à poils dorés de 0,5 mm. Stipules persistantes, de  $ 1,1 \times 0,3 $ mm, glabres. Feuille: pétiole 16–22 mm, glabre; limbe oblong à légèrement obovale, de  $ 15–29 \times 5–7,5 $ cm, coriace, glabre, légèrement oblique à la base, à marge densément et plus ou moins régulièrement crénelée à serrulée, à dents espacées de 8–14 mm et longues de 1–2 mm; nervures secondaires 6 à 8, proéminentes dessous, ascendantes et en boucle, nervation tertiaire et quaternaire réticulées et surélevées sur les deux faces. Inflorescence mâle à l'aisselle des feuilles ou juste sous les feuilles, avec (2 ou)3 ou 4 fleurs. Fleur mâle: à odeur médicinale; pédicelle élancé, de 12–25 mm, densément poilu; sépales 5, imbriqués, arrondis elliptiques, de  $ 8–14 \times 6–8 $ mm, obtus au sommet, vert jaunâtre pâle, à poils denses à l'extérieur et clairsemés à l'intérieur, jusqu'à 0,2 mm; étamines ±40, obscurément disposées en un verticille autour du bord du disque, plus ou moins insérées entre les lobes du disque, filet de 6–8 mm; disque de 6–7 mm de diamètre, irrégulièrement plissé et lobé, surtout à la marge, plan vers le centre, les lobes entourant la base des filets, glabre. Inflorescence femelle sur les branches sous les feuilles, avec 2 à 4 fleurs. Fleur femelle: pédicelle de 11–25 mm, densément poilu; sépales 5, circulaires, de  $ 7–10 \times 7–10 $ mm, à poils denses à l'extérieur, clairsemés à l'intérieur; disque cupuliforme, de 6 mm de diamètre, de 2–4 mm de hauteur, irrégulièrement plissé, glabre; ovaire globuleux, de 6 mm de diamètre, à 5 ou 6 loges, poilu; styles libres, de 1–3 mm, avec 5 à 7 stigmates flabellés à carrés, de  $ 4 \times 3 $ mm irrégulièrement lobés à marge ondulée. Fruit globuleux comprimé, de  $ 7 \times 10 $ cm, dur, à poils brun doré denses, de 1 mm, à 6 noyaux de  $ 48 \times 35 \times 24 $ mm; pédicelle de 18–25 mm.
+Tree reaching 45 m in height, with plagiotropic branches; trunk reaching 118 cm in diameter, cylindrical, very slightly fluted at the base, generally without buttresses, but sometimes up to 50 cm in height; yellowish slash, with granular texture, with strong mustard oil odour; branchlets glabrous; terminal buds densely hairy, with golden hairs 0.5 mm. Persistent stipules, of 1.1 × 0.3 mm, glabrous. Leaf: petiole 16–22 mm, glabrous; blade oblong to slightly obovate, of 15–29 × 5–7.5 cm, coriaceous, glabrous, slightly oblique at the base, with margin densely and more or less regularly crenate to serrulate, with teeth spaced 8–14 mm apart and 1–2 mm long; secondary veins 6 to 8, prominent below, ascending and looped, tertiary and quaternary venation reticulate and raised on both surfaces. Male inflorescence in the leaf axils or just below the leaves, with (2 or) 3 or 4 flowers. Male flower: with medicinal odour; pedicel slender, of 12–25 mm, densely hairy; sepals 5, imbricate, rounded elliptic, of 8–14 × 6–8 mm, obtuse at the apex, pale yellowish green, with dense hairs outside and sparse hairs inside, up to 0.2 mm; stamens ±40, obscurely arranged in a whorl around the margin of the disc, more or less inserted between the disc lobes, filament 6–8 mm; disc 6–7 mm in diameter, irregularly pleated and lobed, especially at the margin, flat towards the centre, the lobes surrounding the base of the filaments, glabrous. Female inflorescence on the branches below the leaves, with 2 to 4 flowers. Female flower: pedicel 11–25 mm, densely hairy; sepals 5, circular, of 7–10 × 7–10 mm, with dense hairs outside, sparse hairs inside; disc cupuliform, 6 mm in diameter, 2–4 mm in height, irregularly pleated, glabrous; ovary globose, 6 mm in diameter, with 5 or 6 locules, hairy; styles free, 1–3 mm, with 5 to 7 flabellate to square stigmas, of 4 × 3 mm irregularly lobed with undulate margin. Fruit globose compressed, of 7 × 10 cm, hard, with dense golden brown hairs, 1 mm, with 6 pyrenes of 48 × 35 × 24 mm; pedicel 18–25 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, Equatorial Guinea mainland, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
-Nigéria, Cameroun, Guinée équatoriale continentale, Gabon, République du Congo, République Centrafricaine, République démocratique du Congo et Angola; au Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime et Woleu-Ntem
-
-Habitat : forêts primaires et secondaires mixtes de terra firme, forêt à Gilbertiodendron dewevrei ; au Gabon à 25–700 m d'altitude, ailleurs jusqu'à 1800 m.
+Habitat: mixed primary and secondary terra firme forests, Gilbertiodendron dewevrei forest; in Gabon at 25–700 m altitude, elsewhere up to 1800 m.
 
 ## Vernacular names
 
@@ -39,9 +35,7 @@ akot (nom pilote ; mitsogho)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La forte odeur d’huile de moutarde permet à cette espèce d’être facilement reconnue sur le terrain. Dans l’herbier, les grandes feuilles oblongues et le long pétiole sont des caractères diagnostiques
+The strong mustard oil odour allows this species to be easily recognized in the field. In the herbarium, the large oblong leaves and the long petiole are diagnostic characters
 
 ## Bibliography
 
@@ -49,9 +43,7 @@ Brenan (1952), Keay (1958, 1989), Keay, Onochie & Stanfield (1960), Kennedy (193
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Figure 9. Drypetes gossweileri: A, Tronc; B, Fleur mâle; C, Fruit. – Drypetes inaequalis: D, Rameau avec jeune pousse; E, Rameau fructifère; F, Inflorescence mâle. Photos A, B par D. Harris (Rép. Congo, Harris 9852), C par D. Harris (Rép. Congo, Harris 9860A), D, F par E. Bidault (Libéria, Bidault 4837), E par Diabaté (Guinée, Diabaté 1253).
+Figure 9. Drypetes gossweileri: A, Trunk; B, Male flower; C, Fruit. – Drypetes inaequalis: D, Branch with young shoot; E, Fruiting branch; F, Male inflorescence. Photos A, B by D. Harris (Rep. Congo, Harris 9852), C by D. Harris (Rep. Congo, Harris 9860A), D, F by E. Bidault (Liberia, Bidault 4837), E by Diabaté (Guinea, Diabaté 1253).
 
 ## Figures
 

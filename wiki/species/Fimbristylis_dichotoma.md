@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, en touffe, avec un court rhizome ligneux, ou plus rarement annuelle ; tiges de 10‒80 cm × 0,8‒1,5 mm, comprimées , glabres ou un peu scabres en haut, à côtes arrondies ; feuilles sèches durcies (non désagrégées) s’accumulant à la base. Feuilles nombreuses ; ligule formée d’une rangée dense de poils courts ; limbe de 5‒50 cm × (0,8‒)2‒3 mm, plan ou canaliculé, sommet généralement arrondi avec une courte dent épineuse, généralement glabre sur les faces, sauf quelques poils épineux épars ou rarement poilues, marges très scabres. Inflorescence en anthèle composée de nombreux épillets disposés souvent à l’extrémité des rameaux du 2 ème ou 3 ème ordre (petites plantes avec seulement des rameaux primaires) ; bractée involucrale inférieure foliacée, longue de 2‒10 cm, plus courte que l’anthèle. Épillet ovoïde à cylindrique , de 3‒8(‒18 avec le rachis nu) × 2‒3 mm, composés de nombreuses glumes ; bractée inférieure des épillets plus courte que les glumes, brun rougeâtre avec la nervure médiane légèrement en saillie ; glumes longues de 1,6‒3,5 mm, brun rougeâtre avec une marge plus pâle et la nervure centrale à 3 veines , glabres et brillantes, nervure centrale atteignant juste (ou dépassant parfois légèrement) le sommet subaigu ou obtus. Fleur à 2 étamines, filets rubanés ; style très comprimé, frangé, à 2 branches. Akène de 0,7‒1,2 × 0,5‒1 mm, bi-
+Perennial herb, tufted, with a short woody rhizome, or more rarely annual; stems 10‒80 cm × 0.8‒1.5 mm, compressed, glabrous or slightly scabrous at the apex, with rounded ribs; dried leaves hardened (not disintegrating) accumulating at the base. Leaves numerous; ligule formed of a dense row of short hairs; blade 5‒50 cm × (0.8‒)2‒3 mm, plane or canaliculate, apex generally rounded with a short spinose tooth, generally glabrous on the surfaces except for some scattered spinose hairs or rarely hairy, margins very scabrous. Inflorescence in an anthela composed of numerous spikelets often arranged at the ends of the branches of the 2nd or 3rd order (small plants with only primary branches); lower involucral bract foliaceous, 2‒10 cm long, shorter than the anthela. Spikelet ovoid to cylindric, 3‒8(‒18 with the naked rachis) × 2‒3 mm, composed of numerous glumes; lower bract of the spikelets shorter than the glumes, reddish-brown with the midrib slightly prominent; glumes 1.6‒3.5 mm long, reddish-brown with a paler margin and the central nerve with 3 veins, glabrous and shiny, central nerve reaching just (or sometimes slightly exceeding) the subacute or obtuse apex. Flower with 2 stamens, ribbonlike filaments; style very compressed, fringed, with 2 branches. Achene 0.7‒1.2 × 0.5‒1 mm, bi-
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans toutes les régions tropicales et aussi dans quelques régions subtropicales ; au Gabon, très commune, trouvée dans l’Estuaire, le Haut-Ogooué, le MoyenOgooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Maritime et leWoleu-Ntem (35 récoltes)
+in all tropical regions and also in some subtropical regions; in Gabon, very common, found in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem (35 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les dépressions humides des zones herbeuses, au bord des routes, au bord des marécages et le long des cours d’eau, souvent dans des habitats perturbés et très piétinés ; au Gabon, à 0‒650 m d’altitude, jusqu’à 2000 m en Afrique de l’Est
+in humid depressions of grassy areas, along roadsides, at the margins of marshes and along watercourses, often in disturbed and heavily trampled habitats; in Gabon, at 0‒650 m altitude, up to 2000 m in East Africa
 
 ## Vernacular names
 

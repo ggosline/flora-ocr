@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub. Very large lanceolate or obovate elongate leaves, obtuse at the apex and obtusely acuminate, cuneate at the base, up to 50 cm long and 12 cm wide, grey or reddish tomentose beneath. Multiple secondary and tertiary veins parallel, obscure, joined in a marginal vein. Midvein depressed above, prominent below. Petiole 4–7 cm long, twisted and wrinkled (dry state).
 
-Arbuste. Très grandes feuilles blancéolées ou obovées allongées, obtuses au sommet et obtusément acuminées, cunéiformes à la base, jusqu'à 50 cm de long et 12 cm de large, tomenteuses grisâtres ou roussâtres en dessous. Multiples nervures secondaires
+Fruits orange with 1–2 seeds. Seed ellipsoid flattened, 2.4 × 1.7 × 1.2 cm. Scar broad, oblong, occupying the entire ventral face 2.4 × 1.2 cm. When there are 2 seeds, they have a flattened lateral face.
 
-et tertiaires parallèles, effacées, réunies en une nervure marginale. Nervure médiane déprimée dessus, proéminente dessous. Pétiole 4-7 cm long, tordu et plissé (état sec).
+Species very imperfectly known. It differs from Englerophytum Hallei which has smaller leaves and short petioles.
 
-Fruits orangé à 1-2 graines. Graine ellipsoïde aplatie, 2,4 × 1,7 × 1,2 cm. Cicatrice large, oblongue, occupant toute la face ventrale 2,4 × 1,2 cm. Lorsqu'il y a 2 graines, elles ont une face latérale aplatie.
+Type of the species. Le Testu: 5801 Sindara (fr. Dec.).
 
-Espèce très imparfaitement connue. Elle diffère de l'Englerophytum Hallei qui a des feuilles plus petites et des pétioles courts.
-
-Type de l'espèce. Le Testu : 5801 Sindara (fr. déc.).
-
-Spécimen rapporté à cette espèce : Aubréville : G. 128. Échantillon stérile provenant d'un petit arbuste grêle du sous-bois, dans la forêt des contreforts des Monts de Cristal. Feuilles arrondies au sommet et courtement acuminées. Présence de petites stipules subulées.
+Specimen referred to this species: Aubréville: G. 128. Sterile specimen from a small slender shrub of the understory, in the forest of the foothills of the Monts de Cristal. Leaves rounded at the apex and shortly acuminate. Presence of small subulate stipules.
 
 ## Figures
 

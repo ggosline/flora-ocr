@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 18; Figure 2(A, B)
+Plate 18; Figure 2(A, B)
 
 Mukia maderaspatana auct., non (L.) M.J.Roem., Fam. nat. syn. monogr., 2: 47 (1846).
 
@@ -29,33 +27,23 @@ Sierra Leone, Kenema, 2006, H. Schaefer 06/434 (holo-: M)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Diagnosis: Differs from Cucumis maderaspatanus L. in leaf shape (subdeltoid, 4–15 × 3–12 cm, usually entire vs. ovate-cordate, 5–9 × 5–9 cm, usually 3- to 5-lobed) and seed morphology (elliptic-oblong, 4 × 2.5 × 1.5 mm, distinctly bordered, finely scrobiculate vs. ovate, ca. 4 × 2.5 × 2.5 mm scrobiculate, marginate) also in DNA sequences of the rbcL gene, where at pos. 634 the Thymine is exchanged against a Guanine (Serin vs. Alanine), at pos. 966, a Cytosine is exchanged against an Adenine (Aspartic acid vs. Glutamic acid) and at pos. 1213, again Thymine is exchanged against a Guanine (Serin vs. Alanine), see Endl et al. (2018).
 
-Herbe grimpante ou rampante, monoïque, ±fortement hispide. Vrilles grêles, simples, portant quelques poils raides et courts. Feuille: pétiole 1–5 cm, couvert de poils raides; limbe
-
-ovale à subdeltoïde, entier ou rarement 3- à 5-lobé, à sinus de la base assez arrondi, aigu au sommet, 4–15 × 3–12 cm, coriace, vert vif dessus, vert plus cendré dessous, très hispide, surtout sur les nervures, à bords dentés. Inflorescence: la mâle à fleurs fasciculées; la femelle à fleurs solitaires ou fasciculées. Fleur mâle; pédicelle très court; réceptacle long de 2 mm, hérrissé de quelques poils raides; sépales subulés à étroitement triangulaires, longs de 1–1,5 mm, hispides; pétales ovales-oblongs, arrondis et finement acuminés au sommet, longs de 2–5 mm; étamines à filet de 0,2 mm, anthère obloïde, longue de 1 mm, à loges droites, à connectif prolongé en pointe au-dessus des loges et bordé de quelques poils; pistillode cupuliforme, glanduleux. Fleur femelle: pédicelle très court; staminodes nuls; ovaire subglobuleux, portant à l'état jeune quelques poils assez longs et noirs, glabrescent, entouré d'une collerette nectarifère à la base. Fruit subsessile, globuleux, de 7–12 mm de diamètre, lisse ou légèrement échinulé, avec 4 à 8 graines. Graine elliptique-oblongue, de 4 × 2,5 × 1,5 mm, blanchâtre, nettement marginée, finement scrobiculée.
+Climbing or creeping herb, monoecious, ±strongly hispid. Tendrils slender, simple, bearing a few stiff short hairs. Leaf: petiole 1–5 cm, covered with stiff hairs; blade ovate to subdeltoid, entire or rarely 3- to 5-lobed, with basal sinus fairly rounded, acute at apex, 4–15 × 3–12 cm, coriaceous, bright green above, more ash-green below, very hispid, especially on the nerves, with dentate margins. Inflorescence: male with fasciculate flowers; female with solitary or fasciculate flowers. Male flower; pedicel very short; receptacle 2 mm long, beset with a few stiff hairs; sepals subulate to narrowly triangular, 1–1.5 mm long, hispid; petals ovate-oblong, rounded and finely acuminate at apex, 2–5 mm long; stamens with filament 0.2 mm, anther oblong, 1 mm long, with straight locules, connective prolonged into a point above the locules and bordered with a few hairs; pistillode cupuliform, glandular. Female flower: pedicel very short; staminodes absent; ovary subglobose, bearing in the young state a few rather long and black hairs, glabrescent, surrounded by a nectariferous collar at the base. Fruit subsessile, globose, 7–12 mm in diameter, smooth or slightly echinutate, with 4 to 8 seeds. Seed elliptic-oblong, 4 × 2.5 × 1.5 mm, whitish, distinctly marginate, finely scrobiculate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, Sierra Leone, Cameroun, Gabon, République démocratique du Congo, Burundi et Tanzanie ; au Gabon : Estuaire, Ngounié, Nyanga
+Tropical Africa, Sierra Leone, Cameroon, Gabon, Democratic Republic of the Congo, Burundi and Tanzania; in Gabon: Estuaire, Ngounié, Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in forest galleries, terraces on screes, alluvial plains, savannas, fallow land, rocky screes; in Gabon at 13–155 m elevation
 
-en galeries forestières, terrasses sur éboulis, plaines alluviales, savanes, jachères, éboulis rocheux ; au Gabon à 13-155 m d'altitude
-
-Usage: Les fruits mûrs sont consommés crus; les pousses tendres et les feuilles, cuites.
+Usage: Ripe fruits are eaten raw; tender shoots and leaves are cooked.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Des analyses phylogénétiques récentes (Sebastian et al. 2010 ; Endl et al. 2018) ont montré que Cucumis maderaspatanus L. est en fait un taxon polyphylétique comprenant en plus de l'espèce typique d'Inde, plusieurs espèces africaines négligées. Le matériel ouest-africain est ici décrit comme une nouvelle espèce, qui peut être distinguée du vrai C. maderaspatanus en plus des informations de séquence d'ADN également avec les caractères des feuilles et des graines
+Recent phylogenetic analyses (Sebastian et al. 2010; Endl et al. 2018) have shown that Cucumis maderaspatanus L. is actually a polyphyletic taxon comprising, in addition to the typical Indian species, several neglected African species. The West African material is here described as a new species, which can be distinguished from the true C. maderaspatanus in addition to the DNA sequence information also by leaf and seed characters.
 
 ## Bibliography
 

@@ -22,21 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 6–15 m tall, with young apical parts somewhat pubescent, rapidly becoming glabrous. Branches with grayish or grayish-yellowish bark, glabrous, often presenting prominent longitudinal ridges. Terminal bud with ovate scales toward the base, acute apically, pubescent externally, 3–5 mm long. Stipules very early caducous. Petioles glabrescent, 1–16 cm long, very unequal on the same branch. Blade elliptic, coriaceous, grayish-beige with yellowish nerves when dry, glabrous, 6–23 × 2–12 cm, with acute base, sometimes subobtuse, with distinctly acuminate apex. Lateral nerves 5–7 pairs, pinnate, rather longly arched ascending; reticulum very apparent beneath the blade, scarcely distinct above.
 
-Arbre de 6-15 m de haut, à jeunes extrémités un peu pubes-centes devenant rapidement glabres. Rameaux à écorce grisâtre ou gris jaunâtre, glabre, présentant souvent des plis saillants longitudinaux. Bourgeon terminal à écailles ovées vers la base, aiguës apicalement, pubescentes extérieurement, longues de 3-5 mm. Stipules très tôt caduques. Pétioles glabrescents de 1-16 cm de long. très inégaux sur un même rameau. Limbe elliptique coriace, gris-beige avec les nervures jaunâtre sèc, glabre de 6-23 × 2-12 cm, à base aiguë, parfois subobtuse, à sommet nettement acuminé. Nervures latérales 5-7 paires pennées, assez longuement arquées ascendantes; réticule très apparent sous le limbe, peu distinct dessus.
+Flowers brownish or greenish-white, grouped in variable numbers, 1 to 25 approx., on sessile axillary or cauline glomerules arranged on slender or more or less old branches; bracteoles obtuse, pubescent or almost glabrous, approx. 2 mm long. Pedicels 4 to 29 mm long, slender, pubescent, articulate toward the middle. Floral bud oblong, with prominent longitudinal lines when dry, clothed with reddish stellate hairs. Calyx 6–14 mm long, very briefly campanulate at the base, with 5 narrowly oblong lobes, sub-erect, with more or less obtuse apex, with margins bearing a narrow pubescent border edged with a more or less developed scalloped fringe; the interior of the calyx is glabrous with micropapillae.
 
-Fleurs brunâtres ou blanc verdâtre, groupées en nombre variable, 1 à 25 env., sur des glomérules sessiles axillaires ou caulinaires échelonnés sur des rameaux grêles ou plus ou moins âgés ; bractéoles
+Male flower with slender, glabrous androphore, 3–5 mm long, bearing a crown of 10 pollen sacs (i.e. 5 anthers and not 10). Female flower with lageniform ovary composed of 3 (rarely 4) united carpels, pubescent, each containing approx. 8 ovules in two series; style attenuate, narrow, almost glabrous and terminated by 3 short stigmatic lobes. Anthers uniseriate, aborted at the base of the ovary.
 
-obtuses, pubescentes ou presque glabres, d'env. 2 mm de long. Pédicelles de 4 à 29 mm de long, grèles, pubescents, articulés vers le milieu. Bouton floral oblong, à lignes longitudinales saillantes à sec, vêtu de poils stellés roux. Calice de 6-14 mm de long, très brièvement campanulé à la base, à 5 lobes étroitement oblongs, subérigés, à sommet plus ou moins obtus, à marges portant un étroit ourlet pubescent bordé d'une frange festonnée plus ou moins développée; l'intérieur du calice est glabre avec des micropapilles.
+Young fruit with sessile follicles, coarsely covered with very rough stellate hairs.
 
-Fleur ♂ à androphore grêle, glabre, de 3-5 mm de long, portant une couronne de 10 loges polliniques (soit 5 anthères et non 10). Fleur ♀ à ovaire lagéniforme composé de 3 (rarement 4) carpelles soudés pubescents, contenant chacun env. 8 ovules en deux séries; style atténué étroit, presque glabre et terminé par 3 courts lobes stigmatiques. Anthères unisériées avortées à la base de l'ovaire.
+Type of the species: Laurent 1002, Belgian Congo (Bx.).
 
-Jeune fruit à follicules sessiles, grossièrement recouverts de poils étoilés très rudes.
-
-Type de l'espèce : Laurent 1002, Congo Belge (Bx.).
-
-Cette espèce, du Gabon et du Congo ex Belge, est variable par la taille de ses fleurs, leur abondance par glomérule, par la pubescence inégale des bractéoles, par le développement plus ou moins grand des marges des lobes du calice, et par la tendance inégale des feuilles à se grouper à certains niveaux en pseudovercicilles. Aucun de ces cas de variation ne nous a paru d'intérêt spécifique à côté des caractères floraux et foliaires remarquablement constants chez toutes ces formes. Les espèces de Pellegrin mises en synonymie nous paraissent seulement mériter d'être considérées comme des formes variétales.
+This species, from Gabon and the former Belgian Congo, is variable in the size of its flowers, their abundance per glomerule, in the unequal pubescence of the bracteoles, in the more or less great development of the margins of the calyx lobes, and in the unequal tendency of the leaves to group at certain levels in pseudowhorls. None of these cases of variation appeared to us to be of specific interest beside the remarkably constant floral and foliar characters in all these forms. The species of Pellegrin placed in synonymy appear to us to merit only being considered as varietal forms.
 
 ## Specimens examined
 

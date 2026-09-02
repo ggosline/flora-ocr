@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Durand & Schinz, Consp. fl. afric. 5 : 611 (1894). Fimbristylis andongensis Ridl., Trans. Linn. Soc. London, Bot. 2 : 153 (1884). Herbe annuelle, en touffes, avec des racines fines ; tiges de 5‒30 cm × 0,3‒0,5 mm , vertes à légèrement violacées, profondément rainurées, avec 6 crêtes longitudinales saillantes et densément garnies de poils étalés, transparents et légèrement plus longs que la distance entre les crêtes, feuillées seulement dans la partie inférieure sur 5 cm. Feuille : gaine brun rougeâtre claire, finement poilue sur les nervures longitudinales, à collet oblique garni à la marge de poils longs d’environ 2 mm ; limbe de 2‒15 cm × environ 0,3 mm, canaliculé ; nervures principales de la face inférieure densément garnies de courts poils transparents, étalés, longs d’environ 0,1 mm. Inflorescence formée d’un épillet sessile et d’un épillet pédonculé ou plus communément, d’une anthèle ombelliforme composée d’un épillet sessile sous-tendu par 2‒4 épillets pédonculés ou des groupes d’épillets ; pédoncules semblables à la tige mais souvent glabres ; bractées involucrales principales 1‒3, foliacées mais membraneuses à la base. Épillet de 3‒4 × 2‒3 mm, ovoïde, brun rougeâtre clair, à 10‒20 fleurs ; glumes longues de 2‒2,3 mm , ovales–elliptiques, densément couvertes de poils courts, brun clair à brun moyen, avec la nervure centrale se terminant sous le sommet subaigu. Akène de 0,7‒0,9 × environ 0,7 mm , obtriangulaire, brun rougeâtre clair à grisâtre, avec 6‒7 ondulations transversales sur chaque face ; base du style renflée et persistant en un bouton brun rouge foncé.
+in Durand & Schinz, Consp. fl. afric. 5 : 611 (1894). Fimbristylis andongensis Ridl., Trans. Linn. Soc. London, Bot. 2 : 153 (1884). Annual herb, in tufts, with fine roots; stems 5–30 cm × 0.3–0.5 mm, green to slightly purplish, deeply grooved, with 6 prominent longitudinal ridges and densely covered with spreading hairs, transparent and slightly longer than the distance between the ridges, leafy only in the lower portion for 5 cm. Leaf: sheath light reddish brown, finely hairy on the longitudinal nerves, with an oblique collar bordered at the margin with hairs about 2 mm long; blade 2–15 cm × approximately 0.3 mm, channelled; principal nerves on the lower surface densely covered with short transparent hairs, spreading, about 0.1 mm long. Inflorescence formed of a sessile spikelet and a pedunculate spikelet or more commonly, of an umbelliform anthelae composed of a sessile spikelet subtended by 2–4 pedunculate spikelets or groups of spikelets; peduncles similar to the stem but often glabrous; main involucral bracts 1–3, foliaceous but membranous at the base. Spikelet 3–4 × 2–3 mm, ovoid, light reddish brown, with 10–20 flowers; glumes 2–2.3 mm long, ovate–elliptic, densely covered with short hairs, light brown to medium brown, with the central nerve ending below the subacute apex. Achene 0.7–0.9 × approximately 0.7 mm, obtriangular, light reddish brown to greyish, with 6–7 transverse undulations on each face; base of the style swollen and persistent as a dark reddish brown knob.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Gabon and Angola; rare in Gabon, found only in Woleu-Ntem (1 collection)
 
-Gabon et Angola ; rare au Gabon, trouvée seulement dans le Woleu-Ntem (1 récolte)
-
-Inflorescence. – F, G. Épillet. – H. Style, anthère. Inflorescence. – D. Épillet. – E. Glume. – F. Fleur. – – I. Fruit. (A–I : Welwitsch 6823, 6827b , les types G. Anthère. – H. Fruit. Dessin original par Richard d’Angola). Dessin original par Richard W. Haines ©. W. Haines ©.
+Inflorescence. – F, G. Spikelet. – H. Style, anther. Inflorescence. – D. Spikelet. – E. Glume. – F. Flower. – – I. Fruit. (A–I: Welwitsch 6823, 6827b, the types G. Anther. – H. Fruit. Original drawing by Richard of Angola). Original drawing by Richard W. Haines ©. W. Haines ©.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les sols organiques et saisonnièrement humides des affleurements rocheux ; au Gabon, à environ 400‒700 m d’altitude. Note taxonomique : proche de B. hispidula , mais elle est moins poilue. La base du style persiste toujours comme un petit bouton foncé sur l’akène mûr. Elle diffère de B. congolensis par sa taille inférieure avec une anthèle plus petite, par les épillets plus larges et par les glumes plus grandes. B : Clarke (1902). ibliographie
+in organic and seasonally humid soils of rocky outcrops; in Gabon, at approximately 400–700 m altitude. Taxonomic note: close to B. hispidula, but it is less hairy. The base of the style always persists as a small dark knob on the mature achene. It differs from B. congolensis by its smaller size with a smaller anthelae, by the wider spikelets and by the larger glumes. B: Clarke (1902). ibliography
 
 ## Notes
 

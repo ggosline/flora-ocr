@@ -17,33 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mol. Phylogen. Evol. 67(2) : 376 (2013). Chionanthus mannii (Soler.) Stearn, Bot. J. Linn. Soc. 80 : 199 (1980). Linociera mannii Soler., Bot. Centralbl. 12(46) : 17 (1891). Arbre ou arbuste atteignant jusqu’à 5(–15?) m de hauteur. Feuille glabre ou presque ; pétiole canaliculé dessus, 4–6 mm ; limbe obovale-elliptique, 5–10 × 2–4,5 cm, base atténuée, courte ment acuminé au sommet ; nervure principale sillonnée dessus, proéminente dessous, les laté rales en 6 à 9 paires, discrètes, parfois 1 ou 2 avec domaties en crypte dans l’aisselle. Inflo rescence en thyrse, jusqu’à 3 cm de longueur ; axe pubescent ; bractées triangulaires, petites. Fleur sessile ou à pédicelle < 1 mm ; calice à poils apprîmés ; corolle 7–8 mm de longueur. Fruit ellipsoïde, 2–3 × 1,5–2 cm, glabre, pourpre foncé ; endocarpe ± 1,5 cm de longueur.
+Mol. Phylogen. Evol. 67(2) : 376 (2013). Chionanthus mannii (Soler.) Stearn, Bot. J. Linn. Soc. 80 : 199 (1980). Linociera mannii Soler., Bot. Centralbl. 12(46) : 17 (1891). Tree or shrub reaching up to 5(–15?) m in height. Leaf glabrous or nearly so; petiole channelled above, 4–6 mm; lamina obovate-elliptic, 5–10 × 2–4.5 cm, base attenuate, shortly acuminate at apex; primary nerve furrowed above, prominent below, the lateral ones in 6 to 9 pairs, discrete, sometimes 1 or 2 with domatia in crypt in the axil. Inflorescence in a thyrse, up to 3 cm in length; axis pubescent; bracts triangular, small. Flower sessile or with pedicel < 1 mm; calyx with appressed hairs; corolla 7–8 mm in length. Fruit ellipsoid, 2–3 × 1.5–2 cm, glabrous, dark purple; endocarp ± 1.5 cm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu seulement de l’Estuaire (environs de Libreville)
+endemic to Gabon, known only from the Estuary (environs of Libreville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en bordure de mangrove, au-dessus la ligne de marée haute
+on the edge of mangrove, above the high tide line
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans les études phylogénétiques de Hong-Wa & Besnard (2013), trois échantillons de N. mannii
+In the phylogenetic studies of Hong-Wa & Besnard (2013), three samples of N. mannii
 
 14 Frans J. BRETELER & Carel C.H. JONGKIND
 
-Noronhia 15 Corolla ouverte, avec étamines extrorses. – 5. Calice et gynécée, un sépale enlevé. – 6. Ovaire, coupe transversale. – 7. Fruit. – 8. Endocarpe. – 9. Graine. (1–6 : Reitsma 2386 ; 7–9 : vd Maesen, Louis & de Bruijn 5965 ). Dessin par Hans de Vries, Jardin botanique Meise (©).
+Noronhia 15 Corolla open, with extrorse stamens. – 5. Calyx and gynoecium, one sepal removed. – 6. Ovary, cross-section. – 7. Fruit. – 8. Endocarp. – 9. Seed. (1–6 : Reitsma 2386 ; 7–9 : vd Maesen, Louis & de Bruijn 5965 ). Drawing by Hans de Vries, Meise Botanical Garden (©).
 
-16 Frans J. BRETELER & Carel C.H. JONGKIND ont été inclus. Dans la taxonomie adoptée ici, ces échantillons ne font plus partie de N. mannii ; l’échan tillon du Gabon, White 886 , représente N. nilotica . Dans la littérature, la présence de N. mannii en Afrique de l’Ouest (Sierra Léone jusqu’à la Guinée équa toriale) a été mentionnée, mais dans la taxonomie adoptée ici, ces récoltes appartiennent à N. nilotica (parfois sous le nom de Linociera lingelsheimiana ) et une autre espèce non encore décrite. B : Stearn (1980). i B liographie
+16 Frans J. BRETELER & Carel C.H. JONGKIND were included. In the taxonomy adopted here, these samples no longer form part of N. mannii; the sample from Gabon, White 886, represents N. nilotica. In the literature, the presence of N. mannii in West Africa (Sierra Leone to Equatorial Guinea) has been mentioned, but in the taxonomy adopted here, these collections belong to N. nilotica (sometimes under the name Linociera lingelsheimiana) and another species not yet described. B : Stearn (1980). Bibliography
 
 ## Notes
 

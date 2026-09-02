@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 494 (1908) ; SLEUMER, BJBB 43 : 309 (1973) ; (with the collaboration of BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Schweinfurth 3954, Sudan (lecto-, isolecto-).
 
-WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 494 (1908) ; SLEUMER, BJBB 43 : 309 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Schweinfurth 3954, Soudan (lecto-, isolecto-).
+– H. wildemanianum GILG, EBJ 40 : 497 (1908). TYPES : Verdick 123, Zaire (lecto-, B, delet., cf. SLEUMER 1973 ; K, chosen here) ; 130, Zaire (syn-, B, delet., BR). H. sctulosum GILG, EBJ 40 : 497 (1908). TYPE : Luja 128, Zaire (holo-, B, delet., cit. "428" ; lecto-, chosen here, BR).
 
-– H. wildemanianum GILG, EBJ 40 : 497 (1908). TYPES : Verdick 123, Zaire (lecto-, B, delet., cf. SLEUMER 1973 ; K, choisi ici) ; 130, Zaire (syn-, B, delet., BR). H. sctulosum GILG, EBJ 40 : 497 (1908). TYPE : Luja 128, Zaire (holo-, B, delet., cit. « 428 » ; lecto-, choisi ici, BR).
+Tree (10-15-(20) m tall) or shrub ; branchlets pubescent to glabrous.
 
-Arbre (10-15-(20) m de haut) ou arbuste ; rameaux pubescents à glabres.
+Leaves with caducous stipules ; petiole 1-1.5-(2) cm long ; blade obovate, sometimes ovate or broadly elliptic, or nearly circular, rarely lanceolate-oblong, cuneate or truncate, sometimes subcordate at base, shortly acuminate at apex, 6-10-(12) × (3)-4-6-(7) cm, entire to undulate, sometimes dentate, chartaceous to subcoriaceous, pubescent on the nerves only ; secondary nerves 6-7-(8) pairs.
 
-Feuilles à stipules caduques ; pétiole de 1-1,5-(2) cm de long ; limbe obovale, parfois ovale ou largement elliptique, ou encore presque circulaire, rarement lancéolé-oblong, cunéé ou tronqué, parfois subcordé à la base, brièvement acuminé au sommet, 6-10-(12) × (3)-4-6-(7) cm, entier à ondulé, parfois denté, chartacé à subcoriace, pubescent sur les nervures seulement ; nervures secondaires 6-7-(8) paires.
-
-Inflorescences en panicules lâches, axillaires ou subterminaux, pubérulentes. Fleurs 5-7-mères, subsessiles, solitaires ou groupées par 2 le long du rachis grêle ; pédicelle d'environ 0,5-1 mm de long ; calice à tube largement cupulé, de 1-2 mm de long, pubérulent ; lobes elliptiques à ovales, 3,5-5 × 1,5-2,5 mm ; pétales rhomboïdes-elliptiques ou ovales, 3,5-4 × 2-2,5 mm, très peu accrescents, atteignant 5 mm de long à l'état fructifère. - Pl. 24, 1-3, p. 77.
+Inflorescences in lax panicles, axillary or subterninal, puberulent. Flowers 5-7-merous, subsessile, solitary or grouped by 2 along the slender rachis ; pedicel about 0.5-1 mm long ; calyx with widely cupulate tube, 1-2 mm long, puberulent ; lobes elliptic to ovate, 3.5-5 × 1.5-2.5 mm ; petals rhomboid-elliptic or ovate, 3.5-4 × 2-2.5 mm, very slightly accrescent, reaching 5 mm long at fruiting stage. - Pl. 24, 1-3, p. 77.
 
 ## Type
 
@@ -35,15 +33,11 @@ Schweinfurth 3954, Soudan (holo-, B, delet. ; lecto-, choisi ici, P! ; isolecto-
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, RCA, Zaïre, Angola, Soudan, Kenya, Tanzanie, Mozambique, Zambie, Rhodésie, Bostwana
+Cameroon, Gabon, CAR, Zaire, Angola, Sudan, Kenya, Tanzania, Mozambique, Zambia, Rhodesia, Botswana
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, forêts ripicoles, forêts périodiquement inondées
+Dense humid forests, riparian forests, periodically flooded forests
 
 ## Specimens examined
 

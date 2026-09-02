@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or epiphytic or saxicolous tree reaching 4 m in height (fig. 1); vegetative apparatus entirely glabrous. Stipules 10-17 mm long, narrowly clasping over their entire length in the terminal bud, early caducous. Petiole 5-7 mm. Blade distinctly discolorous, brown above and reddish ± rubescent below when dry, coriaceous, elliptic sublaurifom (5) 8-14 (17) × (2) 2.7-5 (6.5) cm, with ± acute extremities, sometimes attenuate acute. 6-8 (9) pairs of secondary veins slightly ascending and scarcely distinct. No foliar domatia.
 
-Arbrisseau ou arbuste épiphyte ou saxicole atteignant 4 m de hauteur (fig. 1); appareil végétatif entièrement glabre.Stipules de 10-17 mm de longueur, étroitement embrassantes sur toute leur longueur dans le bourgeon terminal, tôt caduques. Pétiole de 5-7 mm. Limbe nettement discolore, brun dessus et roux ± rubescent dessous à sec, coriace, elliptique sublauriforme de (5) 8-14 (17) × (2) 2,7-5 (6,5) cm, aux extrémités ± aiguès, parfois atténuées aiguës. 6-8 (9) paires de nervures secondaires peu ascendantes et peu distinctes. Pas de domaties foliaires.
+Plagiotropic branches with very peculiar inflorescences: they are composed of a succession of long internodes (3-6 cm) with upper node bearing a pair of horizontally arranged leaves, and very short internodes (2-4 mm) with upper leaf pair arranged vertically and consisting only of caducous scales; the upper scale presents each time a pseudo-axillary briefly pedunculate 6-15-flowered, cymose inflorescence, 2-3 cm long, with reddish axes. Bracts erect 2-3 mm, very early caducous, glabrous except for some apical marginal cilia. Reddish pedicels 3-7 mm, glabrous. Calyx yellowish glabrous, tubular for 2-3 mm, with 5 narrowly triangular arcuate-extrorse lobes 2-2.5 mm long. Corolla twisted glabrous externally except at the apex which is briefly acute and ciliolate; lobes oblong. Stamens exsert.
 
-Rameaux plagiotropes à inflorescences très particuliers : ils sont composés d'une succession d'entrenœuds longs (3-6 cm) à nœud supérieur muni d'une paire de feuilles disposées horizontalement, et d'entrenœuds très courts (2-4 mm) à paire foliaire supérieure disposée verticalement et constituée seulement d'écaillés caduques; l'écaillé du dessus présente chaque fois une inflorescence pseudo-axillaire brièvement pédonculée 6-15-flore, cymeuse, longue de 2-3 cm, à axes rosâtres. Bractées érigées de 2-3 mm, très tôt caduques, glabres à l'exception de quelques cils apicaux marginaux. Pédicelles rosâtres de 3-7 mm, glabres. Calice jaunâtre glabre, tubuleux sur 2-3 mm, à 5 lobes étroitement triangulaires arqués-extrorses longs de 2-2,5 mm. Corolle tordue glabre extérieurement sauf à l'apex qui est brièvement aigu et ciliolé; lobes oblongs. Étamines exsertes.
-
-Jeune fruit vert atteignant 9 × 6 mm, à calice caduc 1 mm au dessus de la base du tube.
+Young fruit green reaching 9 × 6 mm, with caducous calyx 1 mm above the base of the tube.
 
 ## Type
 
@@ -38,11 +36,9 @@ Zenker et Staudt 248, Zenker 245, 807 (soit trois isosyntypes P) et 521, Yaounde
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon and Cabinda (Gossweiler 7885 BM). Banks or rocky islets in semi-shaded torrents. Observed as low epiphyte, around 1.5 m in height on large cylindrical trunk; the root system is comparable to that of certain strangler Ficus with girdling, anastomoses and rooting in soil of a few descending roots.
 
-Cameroun, Gabon et Cabinda (Gossweiler 7885 BM). Rives ou filots rocheux demi-ombrages de torrents. Observé comme épiphyte basse, vers 1,5 m de hauteur sur gros tronc cylindrique; le système radiculaire est comparable à celui de certains Ficus étrangleurs avec ceinturage, anastomoses et enracinement au sol de quelques racines descendantes.
-
-Cameroun, Gabon, Cabinda (Gossweiler 6207 K!). et Congo, du Mayombe au Kivu. Croît souvent au bord de rivières ou de marécages, parfois en forêt dégradée. Le bois est utilisé pour la confection de manches de haches.
+Cameroon, Gabon, Cabinda (Gossweiler 6207 K!) and Congo, from Mayombe to Kivu. Grows often at the edge of rivers or marshes, sometimes in degraded forest. The wood is used for the manufacture of axe handles.
 
 ## Specimens examined
 

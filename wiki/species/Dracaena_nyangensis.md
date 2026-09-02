@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe parfois jusqu’à 75 cm de hauteur ; tige courte ou parfois nulle , parfois souterraine ; racines orange pâle. Feuilles généralement en rosette , cachant la tige par les bases de feuilles uniformément réparties et chevauchantes ; gaine embrassant la tige sur 0,8–1 fois la circonférence , sur une longueur de < 1 cm ; pseudopétiole nettement plus court que le limbe , largement ailé, sillonné dessus, vert à vert violacé, la base passant graduellement dans la gaine ; limbe elliptique à largement elliptique , jusqu’à 25 × 12 cm, base atténuée, progressivement rétrécie, sommet obtus, à mucron acuminé, papyracé-coriace, face supérieure vert foncé uni, face inférieure plus pâle, parfois grisâtre foncé et striée, nervure médiane obscure, nervures parallèles principales et nervures secondaires proéminentes dessous ; prophylles souvent présentes à la base des nouvelles pousses et des inflorescences. Inflorescence dressée, en thyrse spiciforme , jusqu’à 25 cm de longueur, à axes densément scabres et rugueux , roses ; fleurs arrangées en glomérules multiflores nettement espacées , chacun avec bien plus de 10 fleurs ; bractées sous-tendant les glomérules, étroitement ovales, jusqu’à 35 × 10 mm, diminuant de taille vers le sommet, papyracées ; bractées florales rapidement caduques, étroitement triangulaires-linéaires, ± 2 mm de longueur, scarieuses. Fleur : pédicelle jusqu’à 4 mm, articulé jusqu’à 1 mm de la base ; périanthe 12–16 mm de longueur , blanc, lobes plus longs que le tube ; étamines insérées près de la gorge, jusqu’à 1 mm plus courtes que les lobes, filet blanc, filiforme, anthère ± 3 mm de longueur ; ovaire ellipsoïde-oblong, ± 2 × 1 mm ; style exsert sur jusqu’à 2 mm, stigmate capité, ± 0,7 mm de diamètre. Fruit et g raines non vus.
+Herb sometimes up to 75 cm tall; stem short or sometimes absent, sometimes subterranean; roots pale orange. Leaves generally in rosette, concealing the stem by leaf bases uniformly distributed and overlapping; sheath embracing the stem for 0.8–1 times the circumference, over a length of < 1 cm; pseudpetiole distinctly shorter than the blade, broadly winged, channelled above, green to greenish-violet, the base gradually passing into the sheath; blade elliptic to broadly elliptic, up to 25 × 12 cm, base attenuate, progressively narrowed, apex obtuse, with an acuminate mucro, papyraceous-coriaceous, upper surface uniformly dark green, lower surface paler, sometimes dark greyish and striate, midvein obscure, main parallel veins and secondary veins prominent beneath; prophylls often present at the base of new shoots and inflorescences. Inflorescence erect, in thyrsoid spicate form, up to 25 cm long, with axes densely scabrous and rugose, pink; flowers arranged in distinctly spaced multiflorous glomerules, each with well over 10 flowers; bracts subtending the glomerules, narrowly ovate, up to 35 × 10 mm, diminishing in size toward the apex, papyraceous; floral bracts rapidly caducous, narrowly triangular-linear, ± 2 mm long, scarious. Flower: pedicel up to 4 mm, articulate up to 1 mm from the base; perianth 12–16 mm long, white, lobes longer than the tube; stamens inserted near the throat, up to 1 mm shorter than the lobes, filament white, filiform, anther ± 3 mm long; ovary ellipsoid-oblong, ± 2 × 1 mm; style exsert for up to 2 mm, stigma capitate, ± 0.7 mm in diameter. Fruit and seeds not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon, connu du Moyen-Ogooué, de la Ngounié, de la Nyanga et du Woleu-Ntem
+Cameroon and Gabon; in Gabon, known from Moyen-Ogooué, Ngounié, Nyanga and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de forêt primaire, bords des rivières ; au Gabon comme ailleurs à 0–460 m d’altitude. Floraison enregistrée en juin, juillet et septembre
+understorey of primary forest, river margins; in Gabon as elsewhere at 0–460 m altitude. Flowering recorded in June, July and September
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is very similar to D. rosulata Mwachala & Eb.Fisch., described from the Democratic Republic of Congo, but we have not studied enough collections to judge their relationship. B: Bos (1984). Bibliography
 
-Cette espèce est très similaire à D. rosulata Mwachala & Eb.Fisch., décrite de la République dé mocratique du Congo, mais nous n’avons pas étudié assez de collections pour en juger le rapprochement. B : Bos (1984). i B liographie
-
-Fleur. – 7. Corolla, ouvert, et étamines. – 8. Gynécée. – 9. Étamine. Dessin par Mlle Vesque, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de Pellegrin (1938)
+Flower. – 7. Corolla, open, and stamens. – 8. Gynoecium. – 9. Stamen. Drawing by Miss Vesque, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Pellegrin (1938)
 
 ## Notes
 

@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+SCHELLENBERG, PR 103 (4, 127) : 78 (1938); TROUPIN, FCBR 3 : 110 (1952); JONGKIND, in BRETELER (ed.), AUWP 89 (6) : 156 (1989). TYPES : Zaire, Mukenge, Pogge 726 & 734 (both syn- B delet.). NEOTYPE : Zaire, Mbau, Vanderyst 16371 (holo- BR).
 
-SCHELLENBERG, PR 103 (4, 127) : 78 (1938); TROUPIN, FCBR 3 : 110 (1952); JONGKIND, in BRETELER (éd.), AUWP 89 (6) : 156 (1989). TYPES : Zaïre, Mukenge, Pogge 726 & 734 (les 2 syn- B delet.). NÉOTYPE : Zaïre, Mbau, Vanderyst 16371 (holo- BR).
+- A. tenuinervis SCHELLENB., EBJ 58: 209 (1923); PR 103 (4, 127): 78 (1938). TYPE : Equatorial Guinea, Makonanam near Nkolentangan, Tessmann 425 (holo-B delet.). NEOTYPE : Gabon, west slope of the Doudou Mountains, Arends & al. 659 (WAG; iso-LBV).
 
-- A. tenuinervis SCHELLENB., EBJ 58: 209 (1923); PR 103 (4, 127): 78 (1938). TYPE : Guinée Équatoriale, Makonanam près de Nkolentangan, Tessmann 425 (holo-B delet.). NÉOTYPE : Gabon, flanc Ouest des Monts Doudou, Arends & al. 659 (WAG; iso-LBV).
+Large liana reaching up to 20 m. Intraxylary phloem often present. Branchlets glabrous, often distinctly angular-ridged; young branchlets with white arachnoid indumentum sometimes mixed with long simple hairs.
 
-Grande liane pouvant atteindre 20 m. Phloème intraxylaire souvent présent. Rameaux glabres, souvent nettement cannelés ; jeunes rameaux avec indumentum arachnoïde blanc parfois en mélange avec de longs poils simples.
+Leaves. Petiole 1–20 cm long, rachis 0.1–1 cm; indumentum of petiole and rachis similar to that of young branchlets but more persistent; petiolules 1–4 mm long; leaflets 3, ovate or oblong-ovate to elliptic with pinnate venation; major lateral veins 5–8 pairs, the basal pair never being the largest; young leaflets covered with arachnoid indumentum (sometimes mixed with long simple hairs?); old leaflets glabrous with indumentum remnants on the midvein; apex rounded to acuminate; terminal leaflet 1.8–25 × 1.2–8.5 cm, lateral leaflets 1.6–17.5 × 1–7.5 cm, asymmetric.
 
-Feuilles. Pétiole long de 1-20 cm, rachis 0,1-1 cm ; indumentum du pétiole et du rachis semblable à celui des jeunes rameaux mais plus persistant ; pétioiules longs de 1-4 mm ; folioles 3, ovées ou oblongues-ovées à elliptiques avec une nervation pennée ; grandes nervures latérales, 5-8 paires, la paire basale n'étant jamais la plus grande ; jeunes folioles couvertes d'un indumentum arachnoïde (parfois mêlé de longs poils simples ?) ; folioles âgées glabres avec des restes d'indumentum sur leur nervure médiane ; sommet arrondi à acuminé ; foliole terminale  $ 1,8-25 \times 1,2-8,5 $ cm, folioles latérales  $ 1,6-17,5 \times 1-7,5 $ cm, asymétriques.
+Inflorescences reaching up to 20 cm, often one or several together at the end of a leafy branchlet and resembling a terminal inflorescence, puberulent or tomentose.
 
-Inflorescences pouvant atteindre 20 cm, souvent une ou plusieurs ensemble à l'extrémité d'un rameau feuillé et ressemblant à une inflorescence terminale, pubérulentes ou tomenteuses.
+Flowers heterotristylous. Sepals ≈ 4 × ≈ 1 mm, fringed with multicellular hairs. Petals ≈ 4.5 × ≈ 1 mm, glabrous. Stamens: the large ones 2.5–5.5 mm long, and the small ones 1–4 mm long. Pistil 2–5.5 mm long, unequal to the stamens; style pubescent; ovary velvety.
 
-Fleurs hétérotristylées. Sépales ≈ 4 × ≈ 1 mm, frangés de poils multicellulaires. Pétales ≈ 4,5 × ≈ 1 mm, glabres. Étamines : les grandes longues de 2,5-5,5 mm, et les petites, de 1-4 mm. Pistil long de 2-5,5 mm, inégal aux étamines ; style pubescent ; ovaire velouté.
+Fruits: developed follicles, 1–5 per flower, 12–18 × 6–8 mm, pyriform, without coarse protuberances.
 
-Fruits : follicules développés, 1-5 par fleur, 12-18 × 6-8 mm, pyri-formes, sans protubérances grossières.
-
-Graines ≈ 10 × ≈ 5 mm; testa charnu pour environ un quart, jaune à rouge, la portion fine étant noire et luisante. - Pl. 10, p. 39.
+Seeds ≈ 10 × ≈ 5 mm; testa fleshy for approximately one quarter, yellow to red, the thin portion being black and glossy. - Pl. 10, p. 39.
 
 ## Type
 
@@ -41,15 +39,11 @@ Arends & al. 659, flanc Ouest du Mont Doudou, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique centrale
+Central Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles et galeries forestières ; alt. 0-850 m
+rainforests and forest galleries; alt. 0–850 m
 
 ## Specimens examined
 

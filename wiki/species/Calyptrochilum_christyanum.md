@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Angraecum schoellerianum Kraenzl. in Schweinf., Herb. Boiss. 2, App. 2 : 112 (1894).
 
 – Angraecum malangeanum Kraenzl., Bot. Jahrb. Syst. 22 : 26 (1895).
@@ -29,7 +27,7 @@ tags: [species, generated]
 
 – Angraecum zigzag De Wild., Not. Pl. Util. Congo 1 : 143 (1903).
 
-PL. 187. – Listrostachys pertusa (Lindl.) Rchb.f. : A, B, fleur, vues diverses ; C, labelle et éperon, position naturelle ; D, sépale dorsal ; E, apex du sépale dorsal ; F, pétale ; G, H, sépale lateral ; I, partie de l'axe de l'inflorescence ; J, vue générale ; K, L, extrémités foliaires (A-I, Le Testu 5172, P ; J, ex ADAM, 1982 ; K, L, Sanford 5712, P).
+PL. 187. – Listrostachys pertusa (Lindl.) Rchb.f. : A, B, flower, various views ; C, labellum and spur, natural position ; D, dorsal sepal ; E, apex of dorsal sepal ; F, petal ; G, H, lateral sepal ; I, part of the inflorescence axis ; J, general view ; K, L, leaf apexes (A-I, Le Testu 5172, P ; J, ex ADAM, 1982 ; K, L, Sanford 5712, P).
 
 – Angraecum pynaertii De Wild., Not. Pl. Util. Congo 2 : 160 (1906).
 
@@ -51,7 +49,7 @@ PL. 187. – Listrostachys pertusa (Lindl.) Rchb.f. : A, B, fleur, vues diverses
 
 – Calyptrochilum malangeanum (Kraenzl.) Schltr., Beih. Bot. Centralbl. 36 : 84 (1918).
 
-– Calyptrochilum marsupio-calcaratum (Kraenzl.) Schltr., Beih. Bot. Central0bl. 36 : 84 (1918).
+– Calyptrochilum marsupio-calcaratum (Kraenzl.) Schltr., Beih. Bot. Centralbl. 36 : 84 (1918).
 
 – Calyptrochilum ovalifolium (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 85 (1918).
 
@@ -59,29 +57,25 @@ PL. 187. – Listrostachys pertusa (Lindl.) Rchb.f. : A, B, fleur, vues diverses
 
 – Calyptrochilum zigzag (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 85 (1918).
 
-Tige < 100 cm. Feuilles 5-15 × 0,8-2,7 cm, ligulées, inégalement bilobées. Inflorescence < 4 cm, 3-12-flore, rachis en zigzag. Fleurs blanches à blanc verdâtre, devenant abricot en se fanant, base du labelle jaune ou verte, éperon jaune à la base ou entièrement vert. Sépale dorsal oblong-ové. Pétales oblongs-elliptiques, légèrement falciformes. Sépales latéraux obliquement ovés-lancéolés. Labelle 7-12 × 7-10 mm, nettement avec un lobe apical recourbé ; lobe médian oblong-elliptique, tronqué ; lobes latéraux orbiculaires ou rhombiformes. Éperon 9-11 mm, sa moitié basale largement conique, recourbéc, fortcmcnt comprimée et genouillée près du milieu. – Pl. 189, p. 407.
+Stem < 100 cm. Leaves 5–15 × 0.8–2.7 cm, ligulate, unequally bilobed. Inflorescence < 4 cm, 3–12-flowered, rachis zigzag. Flowers white to greenish-white, becoming apricot as they fade, base of labellum yellow or green, spur yellow at the base or entirely green. Dorsal sepal oblong-ovate. Petals oblong-elliptic, slightly falcate. Lateral sepals obliquely ovate-lanceolate. Labellum 7–12 × 7–10 mm, distinctly with a recurved apical lobe ; median lobe oblong-elliptic, truncate ; lateral lobes orbicular or rhombiform. Spur 9–11 mm, its basal half broadly conical, recurved, strongly compressed and geniculate near the middle. – Pl. 189, p. 407.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Gambie, Mali, Guinée-Bissau, Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Gabon, Congo, République centrafricaine, Zaïre, Rwanda, Éthiopie, Soudan, Ouganda, Kenya, Tanzanie, Angola, Zambie, Malawi, Zimbabwe, Mozambique
+Senegal, Gambia, Mali, Guinea-Bissau, Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Togo, Nigeria, Cameroon, Gabon, Congo, Central African Republic, Zaire, Rwanda, Ethiopia, Sudan, Uganda, Kenya, Tanzania, Angola, Zambia, Malawi, Zimbabwe, Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1,900 m. Epiphytic in tall forest, old secondary forest with Celtis and Sterculiaceae, wooded savanna, observed on branch up to 35 m above ground, on Diospyros
 
-alt. 0-1 900 m. Épiphyte en forêt haute, vieille forêt secondaire à Celtis et Sterculiaceae, prairie boisée, observé sur branche jusqu'à 35 m du sol, sur Diospyros
+MATERIAL STUDIED (Map 86) :
 
-MATÉRIEL ÉTUDIÉ (Carte 86) :
+Breteler, Lemmens & Nzabi 8045, between Mouila and Yéno, approximately 60 km along the road from Mouila, 1° 44' S, 11° 24' E (fl. Sept.), WAG!.
 
-Breteler, Lemmens & Nzabi 8045, entre Mouila et Yéno, à environ 60 km sur la route depuis Mouila, 1° 44' S, 11° 24' E (fl. Sept.), WAG!.
+De Wilde, van der Maesen & Moussavou 11536, Ngounyé, SW of Fougamou, Koumounabwali Massif, 1° 18' S, 10° 25' E (fl. Dec.), WAG!.
 
-De Wilde, van der Maesen & Moussavou 11536, Ngounyé, SO de Fougamou, Massif du Koumounabwali, 1° 18' S, 10° 25' E (fl. Déc.), WAG!.
+Hullé 2104, Matadi, 10 km S Lambaréné (fl. May), P! ; 3800, Bélinga, Iron Mines (fr. June), P!.
 
-Hullé 2104, Matadi, 10 km S Lambaréné (fl. Mai), P! ; 3800, Bélinga, Mines de Fer (fr. Juin), P!.
-
-J. M. & B. Reitsma 1727, Chantiier CEB, environ 45 km SO de Doussala,  $ 2^{\circ} $ 35' S,  $ 10^{\circ} $ 34' E (fl. Oct.), WAG!.
+J. M. & B. Reitsma 1727, Chantier CEB, approximately 45 km SW of Doussala, 2° 35' S, 10° 34' E (fl. Oct.), WAG!.
 
 ## Figures
 

@@ -47,7 +47,7 @@ This species is known only from Cameroon, in the Eseka region, and from Gabon, i
 
 ### Material studied in Cameroon
 
-De Wilde W.1735 (type)，5o km S Badjob,au SW d'Escka,au bord du Nyong pres du grand pont (fl.δ, janv.).
+De Wilde W.1735 (type),5o km S Badjob,au SW d'Escka,au bord du Nyong pres du grand pont (fl.δ, janv.).
 
 ### Material studied in Gabon
 

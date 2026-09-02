@@ -27,9 +27,9 @@ tags: [species]
 
 33.Diospyros Soyauxii Gurke & K.Schumann
 
-Bot.Jahrb.14:312(1892)．- F.WHITE，Bull.Jard．Bot.Brux.33： 361,tab.22 (1963).
+Bot.Jahrb.14:312(1892).- F.WHITE,Bull.Jard.Bot.Brux.33: 361,tab.22 (1963).
 
--Thespesocarpus tiliaceus PiERRE,Bull.mens.Soc. linn. Paris 2：1258 (1896)，syn.nov. (cf.PELLEGR.,Fl. Mayombe 2:I9 (1928).
+-Thespesocarpus tiliaceus PiERRE,Bull.mens.Soc. linn. Paris 2:1258 (1896),syn.nov. (cf.PELLEGR.,Fl. Mayombe 2:I9 (1928).
 
 Shrub 2-3 m tall, with young twigs covered in appressed puberulence. The specimen Letouzey 9024 referred here is, however, a shrub reaching 20 cm in diameter, with erect bole, bark red in section, and red wood darker toward the center where fissures are black-edged.
 
@@ -51,9 +51,9 @@ Letouzey 9024,15 km SSE Zingui,soit 5o km SE Kribi (fr.,mars).
 
 ### Material studied in Gabon
 
-Klaine,tous échantillons ci-apres récoltés pres Libreville ： I27 (type de Thespesocarpus tiliaceus Pierre) P et I52 (celui-ci cité in Bull.Jard.Bot. Brux.33:362(1963)(fl.♀(?) et fr.，févr.et déc.)；1276,2258 et 2331 (fl.♀,juin，juill.et aout)；2675 (fr.，janv.)；2835 (fl.♀ et fr.,mars), s. n. (fl.).*
+Klaine,tous échantillons ci-apres récoltés pres Libreville : I27 (type de Thespesocarpus tiliaceus Pierre) P et I52 (celui-ci cité in Bull.Jard.Bot. Brux.33:362(1963)(fl.♀(?) et fr.,févr.et déc.);1276,2258 et 2331 (fl.♀,juin,juill.et aout);2675 (fr.,janv.);2835 (fl.♀ et fr.,mars), s. n. (fl.).*
 
-Soyaux 187 (néotype)，Sibange farm (fr.） cit.in Bull.Jard.Bot.Brux.33 ： 362 (1963);206 (type) (fr.,févr.) (cit.in Bot.Jahrb.14:312 (1892),delet.)。
+Soyaux 187 (néotype),Sibange farm (fr.) cit.in Bull.Jard.Bot.Brux.33 : 362 (1963);206 (type) (fr.,févr.) (cit.in Bot.Jahrb.14:312 (1892),delet.).
 
 * Note: there is hopeless confusion between Klaine's field notebook and the herbarium or carpological labels in the Paris collections regarding numbers 127, 427bis, 452, 452 bis, 157, 399, and 411; F. White's citation of no. 127 as belonging both to *D. simulans* and to *D. soyauxii* should therefore be treated as doubtful, especially since no. 127 may also refer to *D. kamerunensis*.
 

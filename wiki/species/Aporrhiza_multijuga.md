@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall climbing shrub. Inflorescences branched, 15-25 cm, with dense and short tawny tomentum; cymules of 4-8 flowers, with calyx of 2.5 mm; petals hairy on the outside.
 
-Arbuste grimpant élevé. Inflorescences ramifiées, de 15-25 cm, à tomentum fauve, dense et court; cymules de 4-8 fleurs, à calice de 2,5 mm; pétales velus extérieurement.
-
-Cette plante, dont le type est sans doute perdu, n’est connue que par la description résumée dans la clé et les détails ci-dessus.
+This plant, of which the type is doubtless lost, is known only from the description summarized in the key and the details above.
 
 ## Type
 

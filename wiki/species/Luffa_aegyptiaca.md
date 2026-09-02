@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 24; Figure 3(B, C)
 
-Planche 24; Figure 3(B, C)
+L. cylindrica auct., non M.Roem. (see Notes).
 
-L. cylindrica auct., non M.Roem. (voir Notes).
-
-Herbe dioïque; tige rampante, jusqu'à 6 m de longueur. Vrilles 3- à -6-fides. Feuille: pétiole robuste, 3–15 cm, densément poilu; limbe 3- ou 5-palmatilobé, 6–20 cm de longueur et de largeur, à lobes triangulaires à ovales, à bord denté ou lobulé. Inflorescence: la mâle en racème de 10 à 20 fleurs, à axe de 10–30 cm. Fleur mâle: pédicelle 3–6 mm, glanduleux à la base; réceptacle courtement campanulé, long de 4–8 mm, élargi à la gorge; sépales étroitement elliptiques-ovales, longs de 8–10 mm, un peu acuminés au sommet; pétales largement elliptiques, de 2–4 × 1,5–3,5 cm, finement apiculés au sommet, jaunes; étamines à filet épais, divisé en deux sous les anthères bithèques, ou parfois à 5 filets apparemment libres, soudés légèrement à la base et à 5 anthères monothèques. Fleur femelle: pédicelle 15–30 mm; ovaire cylindrique, de 20–35 × 4–8 mm, densément poilu à l'état jeune, puis glabrescent; staminodes 3, glanduliformes. Fruit à pédicelle épais, long de 2–6 cm; pendant, ellipsoïdal à cylindrique ou fusiforme, de 15–20 × 6–10 cm, glabre. Graine ovale, lenticulaire, de 12 × 6–8 × 2–3 mm, brunâtre à noirâtre, lisse, à marge épaissie pouvant s'aplatir en une sorte d'aile membraneuse large de 1 mm.
+Dioecious herb; stem creeping, up to 6 m in length. Tendrils 3- to 6-fid. Leaf: petiole robust, 3–15 cm, densely hairy; blade 3- or 5-palmately lobed, 6–20 cm in length and width, with triangular to oval lobes, margin dentate or lobulate. Inflorescence: male in a raceme of 10 to 20 flowers, with axis 10–30 cm. Male flower: pedicel 3–6 mm, glandular at base; receptacle shortly campanulate, 4–8 mm long, widened at throat; sepals narrowly elliptic-ovate, 8–10 mm long, slightly acuminate at apex; petals broadly elliptic, 2–4 × 1.5–3.5 cm, finely apiculate at apex, yellow; stamens with thick filament, divided into two below the bithecal anthers, or sometimes with 5 apparently free filaments, slightly fused at base and with 5 monothecal anthers. Female flower: pedicel 15–30 mm; ovary cylindric, 20–35 × 4–8 mm, densely hairy when young, then glabrescent; staminodes 3, glanduliform. Fruit with thick pedicel, 2–6 cm long; pendulous, ellipsoidal to cylindric or fusiform, 15–20 × 6–10 cm, glabrous. Seed oval, lenticular, 12 × 6–8 × 2–3 mm, brownish to blackish, smooth, with thickened margin that can flatten into a sort of membranous wing 1 mm wide.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire des régions tropicales et subtropicales de l'Ancien Monde, mais aujourd'hui largement répandu aussi en Amérique centrale et du Sud; au Gabon: Moyen Ogooué et Ogooué-Ivindo
+Native to tropical and subtropical regions of the Old World, but nowadays widely distributed also in Central and South America; in Gabon: Middle Ogooué and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Often cultivated and escaped and known from old cultivated areas, ruderal stations, open forest, shrubby savanna, thickets and grassy savanna; in Gabon at 10–350 m altitude, elsewhere up to 1500(−1800) m
 
-souvent cultivé et échappé et connu des anciennes cultures, des stations rudérales, de la forêt claire, des savanes arbustives, des fourrés et des savanes herbeuses; au Gabon à 10–350 m d'altitude, ailleurs jusqu'à 1500(−1800) m
-
-Usage : Les jeunes tiges et les fruits sont consommés comme légume (bouillis). Des fruits plus âgés sont pelés pour que l'endocarpe serve comme éponge végétale. Les graines grillées sont consommées comme antihelminthique. Une préparation des racines est utilisée comme remède contre le cancer du nez. Les
-
-feuilles sont appliquées sur les œdèmes et prises pour le traitement du paudisme. La sève des fruits est considérée comme un purgatif puissant. Les fruits immatures sont utilisés comme poison de pêche.
+Use: Young stems and fruits are consumed as a vegetable (boiled). Older fruits are peeled so that the endocarp serves as a vegetable sponge. Roasted seeds are consumed as an anthelmintic. A preparation of the roots is used as a remedy against nose cancer. The leaves are applied to oedemas and taken for the treatment of malaria. The juice of the fruits is considered a strong purgative. Immature fruits are used as a fishing poison.
 
 ## Vernacular names
 
@@ -47,9 +39,7 @@ feuilles sont appliquées sur les œdèmes et prises pour le traitement du paudi
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce était longtemps connue sous le nom de L. cylindrica (L.) M.Roem. Après une étude de la situation nomenclaturale compliquée, on a conclu que ce nom ne s'applique pas à cette espèce, mais est plutôt un synonyme de Cucumis melo L. Le nom disponible d'une manière valide est celui de L. aegyptiaca Mill
+This species was long known under the name L. cylindrica (L.) M.Roem. After a study of the complicated nomenclatural situation, it was concluded that this name does not apply to this species, but is rather a synonym of Cucumis melo L. The validly available name is that of L. aegyptiaca Mill.
 
 ## Bibliography
 

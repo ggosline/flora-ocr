@@ -17,29 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, syn. nov. Petit arbre , atteignant 10(–15) m de hauteur ; rameaux glabres à éparsement pubérulents à poils apprimés , en général rapidement glabrescents. Feuille : pétiole cylindrique, 3–7 cm, glabre ; rachis cylindrique, 3–4 cm ; folioles (1–)3 à 5(–7), opposées ou subopposées, à pétiolule 0–2 mm chez les latérales, jusqu’à 3 cm chez la terminale, à limbe obovale-elliptique, (3,5–)5–7(–11) × (1,5–)3-6 cm, arrondi à cunéé et parfois asymétrique à la base, acuminé sur 0,5(–1) cm au sommet, glabre ou à poils courts, ± épars, apprimés, sur les deux faces, glabrescent, souvent à marge rouge, à (6–)7(–9) paires de nervures latérales. Inflores cences mâles et femelles axillaires ou juste en dessous des feuilles ou au sommet des rameaux aphylles, étroitement paniculées à racémeuses , jusqu’à 18 cm de longueur, glabres ou à poils courts, apprimés ; boutons floraux souvent rouge foncé. Fleurs mâles en glomérules
-
-10 Frans J. BRETELER de 3 ; pédicelle 1,5–3 mm, articulé au sommet, glabre ou à quelques petits poils apprimés ; sépales libres ou courtement unis à la base, elliptiques, 0,7–1 mm de longueur ; pétales obovales-oblongs, étalés à réfléchis, 2–4 × 1–1,2 mm, glabres ; étamines 1,5–2,5 mm de longueur, glabres, anthères ≤ 1 mm ; pistillode 0,8–1 mm de longueur, glabre. Fleurs femelles isolées ; pédicelle 1,5 mm ; sépales ± libres, ± triangulaires, 0,6 mm de longueur ; pétales elliptiques, 2,2 × 1 mm, à sommet réfléchi, glabres ; staminodes 0,6 mm de longueur, glabres ; ovaire cylindrique, 2 mm de longueur, glabre ; stigmates 4, stipités sur 0,2 mm. Fruit ellipsoïdal à réniforme, comprimé latéralement, 8–12 × 5–7 mm, glabre.
+, syn. nov. Small tree, reaching 10(–15) m in height; branches glabrous to sparsely puberulent with appressed hairs, generally rapidly glabrescent. Leaf: petiole cylindric, 3–7 cm, glabrous; rachis cylindric, 3–4 cm; leaflets (1–)3 to 5(–7), opposite or subopposite, with petiolule 0–2 mm on the lateral ones, up to 3 cm on the terminal one, with obovate-elliptic limb, (3.5–)5–7(–11) × (1.5–)3–6 cm, rounded to cuneate and sometimes asymmetric at the base, acuminate for 0.5(–1) cm at the apex, glabrous or with short, ± scattered, appressed hairs on both surfaces, glabrescent, often with red margin, with (6–)7(–9) pairs of lateral veins. Male and female inflorescences axillary or just below the leaves or at the apex of leafless branches, narrowly paniculate to racemose, up to 18 cm in length, glabrous or with short, appressed hairs; floral buds often dark red. Male flowers in glomerules of 3; pedicel 1.5–3 mm, articulate at the apex, glabrous or with a few small appressed hairs; sepals free or shortly united at the base, elliptic, 0.7–1 mm in length; petals obovate-oblong, spreading to reflexed, 2–4 × 1–1.2 mm, glabrous; stamens 1.5–2.5 mm in length, glabrous, anthers ≤ 1 mm; pistillode 0.8–1 mm in length, glabrous. Female flowers solitary; pedicel 1.5 mm; sepals ± free, ± triangular, 0.6 mm in length; petals elliptic, 2.2 × 1 mm, with reflexed apex, glabrous; staminodes 0.6 mm in length, glabrous; ovary cylindric, 2 mm in length, glabrous; stigmas 4, stipitate for 0.2 mm. Fruit ellipsoid to reniform, laterally compressed, 8–12 × 5–7 mm, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Est du Nigéria, Cameroun, Guinée équatoriale (Rio Muni) et Gabon ; au Gabon, connu de l’Estuaire, de l’Ogooué-Maritime et du Woleu-Ntem
+South-East Nigeria, Cameroon, Equatorial Guinea (Rio Muni) and Gabon; in Gabon, known from Estuaire, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, sur inselbergs comme dans les mangroves ; au Gabon à 0–760 m d’altitude, ailleurs jusqu’à 980 m
+Primary and secondarized forest, on inselbergs as well as in mangroves; in Gabon at 0–760 m altitude, elsewhere up to 980 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la littérature, cette espèce a été confondue avec L. welwitschii et L. nigritana (Scott-Elliot) Keay. La situation sera clarifiée par Breteler (accepté). B : Breteler (accepté). i B liographie
+In the literature, this species has been confused with L. welwitschii and L. nigritana (Scott-Elliot) Keay. The situation will be clarified by Breteler (accepted). B: Breteler (accepted). Bibliography
 
 ## Notes
 

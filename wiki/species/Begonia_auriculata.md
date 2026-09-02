@@ -16,27 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B. sciaphila Gilg ex Engl. var. longipedunculata Wilczek, Bull. Jard. Bot. Nat. Belg. 39(1) : 96 (1969). Herbe de 30–60 cm de hauteur, glabre ; tige à peine ramifiée . Stipules persistantes, apparentes, 7–14 × 5–12 mm, entières ou dentées au sommet. Feuille : pétiole de 8–45 mm ; limbe obovale à rectangulaire, (6–)9–18(–22) × (2,5–)5–10 cm, asymétrique, base cordée, à une oreillette plus développée que l’autre , sommet acuminé, parfois éparsement pubescent dessous, marge entière ou faiblement denticulée. Inflorescence subterminale, courbée, 3 à 10 fleurs ♂, 1(–2) fleurs ♀ ; pédoncule de 1,4–4 cm ; bractées nombreuses, circulaires à largement ovales, tronquées ou faiblement rétuses au sommet , 3–7 mm de diamètre, ressemblant aux stipules mais caduques. Fleur ♂ : pédicelle 4,5–12 mm ; tépales elliptiques à largement ovales, 6–8 × 5–9 mm, blancs, nervurés de rouge ; étamines 15–18, filets soudés en colonne à la base, parties libres inégales de 0,5–1,7 mm. Fleur ♀ : pédicelle atteignant 1 mm ; tépales semblables à ceux des fleurs ♂ mais 7–12 mm de largeur ; ovaire 3-ailé, ellipsoïde à largement obovoïde, 8,5–15 × 5,5–16 mm (ailes compri-
-
-ICOLAS ALLÉ
-
-KE EWALD
-
-<!-- caption: Planche 4. Begonia elatostemmoides : 1. Rameau avec fleurs et fruits (× 1). – 2. Fleur ♂ (× 6). – 3-4, Androcée de face et de dos (× 12). – 5. Inflorescence avec fleur ♀ et 2 bractées (fleurs ♂ et la plupart des bractées enlevées) (× 6). – 6. Styles et stigmates (× 12). – 7. Infrutescence (× 3). (1-7 : de Wilde 7453 ) . Dessin par I Z , Herbier National des Pays-Bas – Wageningen branche. --> ses) ; styles 3, 4,5–6 mm de longueur, stigmates terminaux, capités à subréniformes. Fruit solitaire, sur un pédoncule grêle de 16–50 mm , elliptique à circulaire, 14–24 × 12–22 mm, à 3 ailes et rostre atteignant 1 mm.
+B. sciaphila Gilg ex Engl. var. longipedunculata Wilczek, Bull. Jard. Bot. Nat. Belg. 39(1) : 96 (1969). Herb 30–60 cm tall, glabrous; stem scarcely branched. Stipules persistent, conspicuous, 7–14 × 5–12 mm, entire or dentate at apex. Leaf: petiole 8–45 mm; blade obovate to rectangular, (6–)9–18(–22) × (2.5–)5–10 cm, asymmetrical, base cordate, with one auricle more developed than the other, apex acuminate, sometimes sparsely pubescent below, margin entire or weakly denticulate. Inflorescence subterminal, curved, 3 to 10 ♂ flowers, 1(–2) ♀ flowers; peduncle 1.4–4 cm; bracts numerous, circular to broadly ovate, truncate or weakly retuse at apex, 3–7 mm in diameter, resembling stipules but caducous. ♂ Flower: pedicel 4.5–12 mm; tepals elliptic to broadly ovate, 6–8 × 5–9 mm, white, red-nerved; stamens 15–18, filaments connate into a column at base, free parts unequal 0.5–1.7 mm. ♀ Flower: pedicel reaching 1 mm; tepals similar to those of ♂ flowers but 7–12 mm wide; ovary 3-winged, ellipsoid to broadly obovoid, 8.5–15 × 5.5–16 mm (wings included); styles 3, 4.5–6 mm long, stigmas terminal, capitate to subreniform. Fruit solitary, on a slender peduncle 16–50 mm, elliptic to circular, 14–24 × 12–22 mm, with 3 wings and rostrum reaching 1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, limité aux Monts de Cristal et au Massif du Chaillu
+endemic to Gabon, restricted to the Monts de Cristal and the Chaillu Massif
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sols humides meubles ou bord des cours d’eau en forêts riveraines ; entre 130 et 720 m d’altitude. Usage : succédané de l’oseille. B : Raponda-Walker & Sillans (1961), Sosef & al. (2006), Wilczek (1969b). IBLIOGRAPHIE
+moist friable soils or stream margins in riparian forests; between 130 and 720 m elevation. Uses: sorrel substitute. B: Raponda-Walker & Sillans (1961), Sosef & al. (2006), Wilczek (1969b). BIBLIOGRAPHY
 
 ## Notes
 

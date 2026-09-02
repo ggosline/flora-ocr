@@ -26,7 +26,7 @@ tags: [species, not-in-gabon]
 
 3.Diospyros Barteri Hiern
 
-Monogr.Eben.,Trans.Camb.Phil.Soc.12:187 (1873);FTA3:521 (1877).- OLIv.in Hook.Ic.Pl.23:tab.230o (1894).- IRvINE，Woody pl.Ghana : 576,tab.II2 (1961).—F.WHITE,FWTA ed.2,2:I2,tab.202 A，4 et 202 B,4 (1963). — Diospyros rubicunda GURkE, Bot. Jahrb. 43 : 2o6,tab. 3,A-J (1909). — Diospyros hirta GURKE ex HuTcH.et DALz., FWTA ed.1,2:4(1931).
+Monogr.Eben.,Trans.Camb.Phil.Soc.12:187 (1873);FTA3:521 (1877).- OLIv.in Hook.Ic.Pl.23:tab.230o (1894).- IRvINE,Woody pl.Ghana : 576,tab.II2 (1961).—F.WHITE,FWTA ed.2,2:I2,tab.202 A,4 et 202 B,4 (1963). — Diospyros rubicunda GURkE, Bot. Jahrb. 43 : 2o6,tab. 3,A-J (1909). — Diospyros hirta GURKE ex HuTcH.et DALz., FWTA ed.1,2:4(1931).
 
 Shrub up to 15 m tall, sometimes scrambling, with young shoots covered in stiff
 golden to reddish-brown hairs up to 1.5 mm long; these persist for some time,

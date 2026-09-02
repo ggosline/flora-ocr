@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 213 (1917); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 168 (1948).
 
-Arbres épiphytes ou arbustes. Rameaux feuillés épais de 1,5-2 mm environ, glabres, noirâtres à marron sur le sec. Feuilles disposées en spirales. Limbe oblong à elliptique, le plus large dans ou au-dessus du milieu, long de 5-8 cm, large de 2-4 cm, coriace, sommet courtement et faiblement acuminé, base aiguë à (sub) obtuse, bord entier, les deux faces glabres ; nervures grossièrement saillantes à planes ; saillantes dessous ; 10-15 paires environ de nervures latérales primaires, soudées en boucle à 1-2 mm du bord du limbe, beaucoup de nervures secondaires latérales, tache glanduleuse non visible. Pétiole long de 2,5-3,5 cm, épais de 1-1,5 mm, glabre, noirâtre ou marron rougeâtre sur le sec. Stipules libres, longues de 0,5-1 cm, glabres, caduques.
+Epiphytic trees or shrubs. Leafy branchlets approximately 1.5–2 mm thick, glabrous, blackish to brown when dry. Leaves arranged spirally. Blade oblong to elliptic, broadest at or above the middle, 5–8 cm long, 2–4 cm wide, coriaceous, apex shortly and weakly acuminate, base acute to (sub)obtuse, margin entire, both surfaces glabrous; veins coarsely prominent to plane; prominent beneath; approximately 10–15 pairs of primary lateral veins, looped at 1–2 mm from the blade margin, many secondary lateral veins, glandular spot not visible. Petiole 2.5–3.5 cm long, 1–1.5 mm thick, glabrous, blackish or reddish-brown when dry. Stipules free, 0.5–1 cm long, glabrous, caducous.
 
-Figues par paires dans les aisselles des feuilles ; pédoncule long de 7-15 cm, épais de 1 mm environ, glabre ; bractées basales 2, partie supérieure tôt caduque, laissant un col étroit formé par les parties soudées, glabres ; réceptacle (subglobuleux), d'un diamètre de 0,6-0,8 cm sur le sec, glabre, ostiole plat à grossièrement saillant, bilabié.
+Figs in pairs in the leaf axils; peduncle 7–15 cm long, approximately 1 mm thick, glabrous; basal bracts 2, upper part early caducous, leaving a narrow neck formed by the fused parts, glabrous; receptacle (subglobose), 0.6–0.8 cm in diameter when dry, glabrous, ostiole flat to coarsely prominent, bilabiate.
 
-Fleurs à graines et fleurs à galles pas nettement différentes, sessiles à pédicellées (jusqu'à 1 mm), périant le haut de 1,5 mm environ, tripartite, style long de 1-1,5 mm environ. Fruits et fruits à galles hauts de 1,3 mm environ, sommet blanchâtre, style ± latéral. Fleurs staminées peu nombreuses, subsessiles, hautes de 2 mm environ, périant le tripar-
+Seed flowers and gall flowers not clearly differentiated, sessile to pedicellate (up to 1 mm), perianth approximately 1.5 mm at the top, tripartite, style approximately 1–1.5 mm long. Fruits and gall fruits approximately 1.3 mm tall, apex whitish, style ± lateral. Staminate flowers few, subsessile, approximately 2 mm tall, perianth tripartite, filament short, anther approximately 1 mm long. Interfloral bracts approximately 2 mm long. – Pl. 56, p. 191.
 
-tite, filet court, anthère longue de 1 mm environ. Bractées interflorales longues de 2 mm environ. - Pl. 56, p. 191.
-
-Pollinisateur : Elisabethiella sp. (Gabon).
+Pollinator: Elisabethiella sp. (Gabon).
 
 ## Type
 
@@ -37,9 +33,7 @@ Mildbraed 4611, Cameroun, entre Bangé et Yokadouma (holo-, B ; iso-, HBG, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est connue par un petit nombre de récoltes faites au Cameroun, au Gabon, en Centrafrique et au Zaïre.
+The species is known from a small number of collections made in Cameroon, Gabon, Central African Republic, and Zaire.
 
 ## Specimens examined
 

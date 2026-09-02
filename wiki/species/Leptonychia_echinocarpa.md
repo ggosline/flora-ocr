@@ -17,25 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, ret. orig.; Sterc. Afr.: 95 (1900). — PELLEGR. Sterc. Gab. M. S. B. Fr.: 49 (1950-1951).
 
-, rét. orig.; Sterc. Afr. : 95 (1900). — PELLEGR. Sterc. Gab. M. S. B. Fr. : 49 (1950-1951).
+Small shrub probably scandent, reaching 3-4 m tall. Young shoots with very sparse or almost absent puberulence. Petiole 6-12 mm long, at first puberulent. Blade ample, oval or obovate-oblong, 15-28 cm long and (5) 7-11 cm wide; base variable, cuneate to broadly rounded; acumen often narrowly caudate 15-35 mm long. 7-10 pairs of lateral nerves, arcuate-ascending; the lower pair is basal.
 
-Petit arbuste probablement sarmenteux, atteignant 3-4 m de haut. Jeunes extrémités à pubérulence très rase ou presque nulle. Pétiole de 6-12 mm de long, d'abord pubérulent. Limbe ample, ovale ou obové-oblong, de 15-28 cm de long et de (5) 7-11 cm de large; base variable, cunée jusqu'à largement arrondie; acumen souvent étroitement caudiforme de 15-35 mm de long. 7-10 paires de nervures latérales arquées ascendantes; la paire inférieure est basilaire.
+Inflorescences in small axillary cymes of 1-5 (10) flowers, with rachis about 1-4 mm, bearing stellate hairs. Pedicel 2-3 mm long, articulate at base. Bud 5-7 mm long, narrow, distinctly constricted in its middle portion, with 5 marked ridges. Flower whitish-green. Calyx with 5 free, narrow lobes, pubescent on both faces and especially on the margins. 5 suborbicular petals, about 1 mm, strongly pubescent-ciliate all around and glabrous or nearly so on the outer face. 6-15 outer staminodes, grouped by 1, 2 or 3, distinctly shorter than the stamens, twisted hook-shaped and slightly thickened at the upper extremity. 10 stamens arranged in pairs. 5 inner staminodes tapering, 3 or 4 times shorter than the outer staminodes. Ovary densely villous with 3, 4 or 5 locules; 6-8 ovules per locule. Style glabrous on the upper half or 3/4.
 
-Inflorescences en petites cymes axillaires de 1-5 (10) fleurs, à rachis de 1-4 mm environ, à poils stellés. Pédicelle de 2-3 mm de long, articulé à la base. Bouton de 5-7 mm de long, étroit, sensiblement étranglé dans sa partie moyenne, à 5 arêtes marquées. Fleur blanc verdâtre. Calice à 5 lobes libres, étroits, pubescents sur les deux faces et surtout sur les marges. 5 pétales suborbiculaires, d'environ 1 mm, fortement pubescents-ciliés tout autour et glabres ou presque sur la face externe. 6-15 staminodes extérieurs, groupés par 1, 2 ou 3, nettement plus courts que les étamines, tordus en crosse et un peu épaissis à l'extrémité supérieure. 10 étamines disposées par paires. 5 staminodes internes effilés, 3 ou 4 fois plus courts que les staminodes externes. Ovaire densément velu à 3, 4 ou 5 loges; 6-8 ovules par loge. Style glabre sur la moitié ou les 3/4 supérieurs.
+Capsular fruits greenish subspherical or ovoid 1.5-2.5 cm long, subechinulate-rugulate puberulent. Localized dehiscence in 3 or 4 apiculate valves, with wrinkled yellow endocarp
 
-Fruits capsulaires verdâtres subspériques ou ovoïdes de 1,5-2,5 cm de long, subéchinulés-rugulés pubérulents. Déhiscence localicide en 3 ou 4 valves apiculées, à endocarpe plissé jaune
+Pl. XXV. — 1 to 5, Leptonychia echinocarpa K. Schum.: 1, leaf and 2, flowering branch natural size (N. Hallé 906); 3, stamens and staminodes, and 4, petal viewed from the outer face (Klaine 1640); 5, dried fruits (Kl. 2829). — 6 to 9, L. aff lastogyne (Le Testu 9138): 6, leaf; 7, open flower; 8, petal viewed from the outer face; 9, gynoecium. — 10 to 13, L. cf. batangensis (Wright) Burr. (N. Hallé 1488, in vivo): 10, fruiting branch; 11, cross section of a fruit 17 mm in diam. (one of the carpels is sterile); 12, seed 12 mm long, front and side view with its aril; 13, embryo 10 mm long.
 
-Pl. XXV. — 1 à 5, Leptonychia echinocarpa K. Schum. : 1, feuille et 2, rameau florifère grandeur nat. (N. Hallé 906); 3, étamines et staminodes, et 4, pétale vu par la face externe (Klaine 1640); 5, fruits séchés (Kl. 2829). — 6 à 9, L. aff lastogyne (Le Testu 9138) : 6, feuille; 7, fleur épanouie; 8, pétale vu par la face externe; 9, gynécée. — 10 à 13, L. cf. batangensis (Wright) Burr. (N. Hallé 1488, in vivo) : 10, rameau fructifère; 11, coupe transversale d'un fruit de 17 mm de diam. (un des carpelles est stérile); 12, graine longue de 12 mm, de face et de profil avec son arille; 13, embryon long de 10 mm.
+ochraceous. Seeds 1-2 (3?) per locule, oblong, 10-15 × 5 mm, with hilum situated toward the upper third which is topped by the aril.
 
-ochracé. Graines 1-2 (3?) par loge, oblongues, de 10-15 × 5 mm, à hile situé vers le tiers supérieur qui est coiffé de l'arille.
+Type of the species: Dinklage 1052 from Cameroon, probably destroyed; cotypes, Soyaux 216 and Klaine 428 bis (P.).
 
-Type de l'espèce : Dinklage 1052 du Cameroun, probablement détruit; cotypes, Soyaux 216 et Klaine 428 bis (P.).
+The exact habit of this plant is poorly known, given the divergences in the collectors' notes. It further appears that there are several distinct infraspecific forms. In the typical form, the leaves are brownish in the herbarium, the outer staminodes are 2 or 3 per bundle, the ovary has (4) 5 locules. In another form which does not exactly correspond to the variety klaineana Pierre msc. cited by Pellegrin, the leaves remain olive-green in the herbarium, the outer staminodes are 1 or 2, the ovary has 3 (4) locules. These forms coexist in the environs of Libreville. The species is almost exclusively Gabonese.
 
-Le port exact de cette plante est mal connu, vu les divergences des notes des collecteurs. Il semble en outre qu'il y ait plusieurs formes infraspécifiques distinctes. Chez la forme typique, les feuilles sont brunâtres en herbier, les staminodes externes sont par 2 ou 3 par faisceau, l'ovaire est à (4) 5 loges. Dans une autre forme qui ne correspond pas exactement à la variété klaineana Pierre msc. citée par Pellegrin, les feuilles restent vert olivacé en herbier, les staminodes externes sont par 1 ou 2, l'ovaire est à 3 (4) loges. Ces formes cohabitent dans les environs de Libreville. L'espèce est presque exclusivement gabonaise.
-
-D'après Trilles, cette espèce croît en terrain rocailleux baigné par l'eau saumâtre, et l'écorce, très résistante est employée comme liens.
+According to Trilles, this species grows in stony terrain bathed by brackish water, and the bark, very resistant, is used as bindings.
 
 ## Specimens examined
 

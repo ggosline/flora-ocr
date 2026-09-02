@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub? Leaves rather coriaceous; petiolule 20 mm.
 
-Arbuste? Feuilles assez coriaces; pétiolule de 20 mm.
-
-Cymules stipitées (2 mm) à pédicelles de 3-4 mm articulés au tiers ou au quart inférieur; filets staminaux velus (4-5 poils). PL. 4, 7-12, p. 35.
+Stipitate cymules (2 mm) with pedicels 3–4 mm articulated at the lower third or quarter; staminal filaments pubescent (4–5 hairs). PL. 4, 7–12, p. 35.
 
 ## Type
 

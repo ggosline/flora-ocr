@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous tree, up to 15 m tall. Leaves obovate or obovate-oblong, attenuate at the base, rounded or briefly acuminate at the apex, coriaceous, shining, 6–12 cm long and 2.5–6 cm wide, glabrous. Pedicels 2.5–5 cm long, with small bracteoles at the apex, sometimes slightly pubescent. Ovary glabrous. Sepals oblong, reflexed at the end of anthesis, about 8 mm long. Petals obovate, about 15 mm long.
 
-Arbre glabre, jusqu'à 15 m de haut. Feuilles obovées ou obovées-oblongues, atténuées à la base, arrondies ou brièvement acuminées au sommet, coriaces, luisantes, de 6-12 cm de long et 2,5-6 cm de large, glabres. Pédicelles de 2,5-5 cm de long, avec de petites bractéoles au sommet, parfois un peu pubescents. Ovaire glabre. Sépales oblongs, réfléchis en fin d'anthèse, d'environ 8 mm de long. Pétales obovés, d'environ 15 mm de long.
+Edible fruit, the size of a cherry, crowned by the sepals, at first red, then black.
 
-Fruit comestible, de la grosseur d'une cerise, couronné par les sépales, d'abord rouge, puis noir.
-
-Originaire du Brésil, cultivé dans divers pays tropicaux et dans les serres.
+Native to Brazil, cultivated in various tropical countries and in greenhouses.
 
 ## Specimens examined
 

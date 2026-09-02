@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 1156 (1933).
 
-Arbre élevé (8-20 m), atteignant 35 cm de diamètre, à rameaux légèrement pubérulents grisâtres. Feuilles 3-5-juguées; folioles basales plus petites, L/1 peu différent de 2, avec environ 10 paires de nervures; folioles supérieures plus grandes, L/1 peu différent de 3, avec environ 13 paires de nervures; acumen bien dessiné, 2 cm; limbe glabre sur les 2 faces.
+Tall tree (8-20 m), reaching 35 cm in diameter, with slightly puberulent greyish branchlets. Leaves 3-5-jugate; basal leaflets smaller, L/W barely differing from 2, with approximately 10 pairs of nerves; upper leaflets larger, L/W barely differing from 3, with approximately 13 pairs of nerves; acumen well-marked, 2 cm; blade glabrous on both surfaces.
 
-Inflorescences dressées, à pubérulence jaune; cymules sessiles à bractées de 1 mm. Pétales très longs, à limbe presque glabre. Fruit aussi gros que celui de E. paniculatum, mais pédicelle mince, 1,5 mm de diamètre, et presque glabre. PL. 42, 8-14', p. 179.
+Inflorescences erect, with yellow pubescence; cymules sessile with bracts 1 mm. Petals very long, with blade almost glabrous. Fruit as large as that of E. paniculatum, but pedicel slender, 1.5 mm in diameter, and almost glabrous. PL. 42, 8-14', p. 179.
 
 ## Type
 
@@ -30,9 +28,7 @@ Zenker 2555, 3024, 3704, Cameroun (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Seule espèce du genre ne présentant pas de folioles basales stipuliformes. Connue seulement du Cameroun et du Gabon.
+Only species of the genus lacking stipuliform basal leaflets. Known only from Cameroon and Gabon.
 
 ## Vernacular names
 

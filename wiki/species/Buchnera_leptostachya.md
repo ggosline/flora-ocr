@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in DC., Prodr. 10 : 497 (1846). B. mossambicensis Klotzsch in Peters, Naturw. Reise Mossambique 6, Botanik 1 : 224, t. 34 (1861). Herbe annuelle, scabre et rigide, courtement pubescente ou glabrescente dans les parties inférieures, jusqu’à 40–50 cm de hauteur ; tige dressée, arrondie. Feuilles caulinaires, sessiles ; limbe des feuilles basales elliptique à ovale, 20–75 × 4–12(–25) mm, acuminé à obtus au sommet, à marge entière ou crénelée. Inflorescence lâche, cylindrique , 7–25 cm de longueur, munie de bractées de 2,5–3 × 1 mm. Fleur subsessile à sessile ; calice tubuleux, 4,5–6,5 mm de longueur, à nervures peu distinctes, à 5 dents de 1–1,5 mm de longueur, pileux ; corolle rose, pourpre ou blanchâtre , tube 5,5–6,5 mm de longueur, lobes subégaux, 1,5–3 × 0,5–2 mm. Fruit oblongue, 4,5–6 × 1,7 mm.
+in DC., Prodr. 10 : 497 (1846). B. mossambicensis Klotzsch in Peters, Naturw. Reise Mossambique 6, Botanik 1 : 224, t. 34 (1861). Annual herb, scabrous and rigid, shortly pubescent or glabrescent in the lower parts, up to 40–50 cm in height; stem erect, rounded. Cauline leaves, sessile; blade of basal leaves elliptic to ovate, 20–75 × 4–12(–25) mm, acuminate to obtuse at the apex, with entire or crenate margin. Inflorescence lax, cylindric, 7–25 cm in length, furnished with bracts 2.5–3 × 1 mm. Flower subsessile to sessile; calyx tubular, 4.5–6.5 mm in length, with faintly distinct veins, with 5 teeth 1–1.5 mm in length, pilose; corolla pink, purple or whitish, tube 5.5–6.5 mm in length, lobes subequal, 1.5–3 × 0.5–2 mm. Fruit oblong, 4.5–6 × 1.7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Gambie, Mali, Guinée-Bissau, Sierra Leone, Ghana, Nigéria, Cameroun, Gabon, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique et Madagascar ; au Gabon, observée dans la Nyanga et l’Ogooué-Maritime
+Senegal, Gambia, Mali, Guinea-Bissau, Sierra Leone, Ghana, Nigeria, Cameroon, Gabon, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique and Madagascar; in Gabon, observed in the Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais et savanes humides ; au Gabon, jusqu’à 170 m d’altitude, ailleurs, jusqu’à 2100 m. Note taxonomique : Signalée ici pour la première fois au Gabon. B : Ghazanfar et al. (2008), Hepper (1963), Philcox (1990). ibliographie
+marshes and humid savannas; in Gabon, up to 170 m in altitude, elsewhere, up to 2100 m. Taxonomic note: Recorded here for the first time in Gabon. B: Ghazanfar et al. (2008), Hepper (1963), Philcox (1990). ibliography
 
 ## Notes
 

@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Cf. C. caricifolia K. Schum. p. p.
 
-Petit arbre de 2-12 m de haut à jeunes extrémités velues avec de longs poils fauves généralement simples. Stipules sublinéaires très aiguës de 8-20 mm de long, velues et un peu persistantes sur les rameaux nouvellement allongés. Pétiole de 2-20 (-40) cm de long, hirsutes ou glabrescents avec au moins quelques longs poils aux extrémités. Limbe mince devenant subcoriace dans les vieilles feuilles, de 6-30 cm de long pour une largeur à peu près semblable, (3-) 5 lobé-palmé, plus ou moins pubescent dessus et dessous; lobes elliptiques ou obovés, acuminés, non dentés; 7 nervures digitées basiliaires.
+Small tree 2-12 m tall with young shoots hairy with long, usually simple, tawny hairs. Stipules sublinear, very acute, 8-20 mm long, hairy and somewhat persistent on newly elongated branches. Petiole 2-20 (-40) cm long, hirsute or glabrescent with at least some long hairs at the extremities. Blade thin, becoming subcoriaceous in old leaves, 6-30 cm long and approximately the same width, (3-) 5 palmately lobed, more or less pubescent above and below; lobes elliptic or obovate, acuminate, entire; 7 basal digitate nerves.
 
-Inflorescences situées vers l'extrémité des rameaux, pluriflores, très contractées en petites cymes brunes pubescentes, à rachis ramifié de 3-15 mm de long. Fleur d'un vert jaune ou brun atteignant 2 mm, articulé. Calice campanulé de 6-8 mm de long, 4-6-lobé sur la moitié ou le tiers supérieur, vêtue extérieurement de poils étoilés bruns, pubescent vers le haut à l'intérieur; lobes subaigus un peu charnus.
+Inflorescences situated towards the tip of the branches, many-flowered, very contracted into small brown pubescent cymes, with branched rachis 3-15 mm long. Flower yellowish-green or brown reaching 2 mm, articulate. Calyx campanulate, 6-8 mm long, 4-6-lobed on the upper half or third, clothed externally with brown stellate hairs, pubescent towards the top inside; lobes subacute, somewhat fleshy.
 
-Fleur ♂ à androphore étroit portant une couronne de 18-20 loges polliniques unisériées. Fleur ♀ à ovaire pubescent ceint basalement de 16-18 loges polliniques, 6-7 carpellé, à courts lobes stigmatiques rayonnants.
+Male flower with narrow androphore bearing a crown of 18-20 uniseriate pollen sacs. Female flower with pubescent ovary basally encircled by 16-18 pollen sacs, 6-7 carpellate, with short radiating stigmatic lobes.
 
-Fruit à 6-7 follicules pubescents de 3-6 cm de long sur 2-3 cm de large, indéhiscents, à suture bicarénée, contenant 4-8 graines à 2 cotylédons et entourées d'un tégument très fibreux.
+Fruit with 6-7 pubescent follicles 3-6 cm long and 2-3 cm wide, indehiscent, with bicarinate suture, containing 4-8 seeds with 2 cotyledons and surrounded by a very fibrous integument.
 
-Type de l'espèce : Talbot 3666, Nigéria (BM., K.).
+Type of the species: Talbot 3666, Nigeria (BM., K.).
 
-Le Cola hispida est répandu du Nigéria au Gabon.
+Cola hispida is distributed from Nigeria to Gabon.
 
 ## Vernacular names
 
@@ -39,9 +37,7 @@ Okol (Fang); Kulubèla (Mpongoué); Mendène (?) ; Mukokoli (Bapounou)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation : Au Nigéria, le fruit a été signalé comme comestible.
+Uses: In Nigeria, the fruit has been reported as edible.
 
 ## Specimens examined
 

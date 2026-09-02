@@ -25,21 +25,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 non Afrosersalisia Afzelii (Engl.) A. Chev.
 
-Grand arbre. Feuilles en touffes terminales aux extrémités de rameaux grêles. Bourgeons terminaux feutrés ferrugineux. Rameaux jeunes glabres. Limbe étroitement oblong lancéolé, obtusément pointu, cunéiforme aigu à la base et décurrent sur le pétiole, glabre, membraneux, de 6-13 cm long, 2,5-4 cm large. Nervure médiane saillante sur les deux faces. Nervures secondaires 10-15 paires, effacées. Nervilles inappréciables. Pétiole, env. 1 cm, un peu pubescent apprimé brunâtre, ou glabre.
+Large tree. Leaves in terminal tufts at the ends of slender branches. Terminal buds ferrugineous, tomentose. Young branches glabrous. Lamina narrowly oblong-lanceolate, obtusely pointed, cuneate-acute at the base and decurrent on the petiole, glabrous, membranous, 6-13 cm long, 2.5-4 cm wide. Midvein prominent on both surfaces. Secondary veins 10-15 pairs, inconspicuous. Tertiary veins imperceptible. Petiole ca. 1 cm, somewhat appressed-pubescent brownish, or glabrous.
 
-Petites fleurs fasciculées, courtement pédicellées, situées le long des rameaux, en-dessous des feuilles terminales. Calice un peu pubescent à 5 lobes courts, soudés à la base, largement ovés. Corolle env. 3,5 mm long, à 5 lobes oblongs, plus longs que le tube. Étamines aussi longues que les lobes. Staminodes courts, à bords dentelés. Ovaire pubescent. Style pubescent sauf à l'extrémité. 5 loges uniovulées.
+Small flowers fasciculate, shortly pedicellate, situated along the branches, below the terminal leaves. Calyx somewhat pubescent with 5 short lobes, connate at the base, broadly ovate. Corolla ca. 3.5 mm long, with 5 oblong lobes, longer than the tube. Stamens as long as the lobes. Staminodes short, with denticulate margins. Ovary pubescent. Style pubescent except at the apex. 5 uniovulate locules.
 
-Fruits ellipsoïdes rouges, 2,5 cm long et 1,3 cm diamètre, contenant une graine brune ellipsoïde à large cicatrice ventrale oblongue. Le calice persistant forme une petite cupule à la base du fruit.
+Fruits ellipsoid, red, 2.5 cm long and 1.3 cm diameter, containing a brown ellipsoid seed with a broad oblong ventral scar. The persistent calyx forms a small cupule at the base of the fruit.
 
-L'holotype d'Afzelius est originaire de Sierra Leone.
+The holotype of Afzelius is from Sierra Leone.
 
-Arbre pouvant atteindre 30 m de haut et 1,7 m de diamètre. Tronc irrégulier, cannelé et tortueux, empatté à la base. Sur les sols peu profonds le tronc se sépare non loin du sol en plusieurs grosses branches très ascendantes. Feuillage assez caractéristique par ses petites toulées de feuilles dressées. Ecorce fendillée longitudinalement, écaillée chez les vieux arbres. Bois rouge atteint excessivement dur. Cette espèce est signalée en Côte d'Ivoire comme constituant des petits peuplements dans les bas-fonds,
-
-les terrains humides et au bord des rivières et des lagunes. On la trouve aussi en terrain sec.
+Tree reaching up to 30 m tall and 1.7 m diameter. Trunk irregular, fluted and tortuous, buttressed at the base. On shallow soils the trunk divides not far from the ground into several stout very ascending branches. Foliage rather characteristic for its small tufts of erect leaves. Bark longitudinally fissured, scaly in old trees. Wood red, extremely hard. This species is reported in Côte d'Ivoire as forming small stands in valleys, wet soils and at the margins of rivers and lagoons. It is also found on dry soil.
 
 ## Vernacular names
 
@@ -49,9 +45,7 @@ Kolon ngoume (Libreville)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone et le Libéria jusqu'au Gabon
+from Sierra Leone and Liberia to Gabon
 
 ## Specimens examined
 

@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, (5) : 312 (1895).
 
 — Schmidelia hirtella Hook. F., in Hook., Ic. Pl. 8 : tab. 775 (1848).
 
 — Schmidelia monophylla auct., non PESL : Hook. F., in Hook., Niger Fl. : 248 (1849).
 
-Pétiole de 2 cm; nervures se terminant par un mucron de 0,1 mm au bout des dents (1 mm); limbe de  $ 16 \times 5 $ cm, sombre et brillant dessus, plus pâle dessous, avec des domaties assez nombreuses.
+Petiole 2 cm; nerves terminating in a mucro of 0.1 mm at the apex of the teeth (1 mm); blade $ 16 \times 5 $ cm, dark and shiny above, paler below, with fairly numerous domatia.
 
-Les cymules stipitées (1 mm) sont rapprochées (8 par cm); elles sont formées de 4 fleurs environ; boutons larges de 1,5 mm, poils fins et courts, rares (0,1 mm); pédicelles de 1 mm, articulés au quart inférieur; sépales 1-2 nerviés; pétales barbus; étamines à filets velus. Fruit à coques de 8 × 6 mm. PL. 6, 8-12, p. 39.
+The stipitate cymules (1 mm) are crowded (8 per cm); they are formed of about 4 flowers; buds 1.5 mm wide, hairs fine and short, rare (0.1 mm); pedicels 1 mm, articulate in the lower quarter; sepals 1-2 nerved; petals bearded; stamens with pilose filaments. Fruit with cocci 8 × 6 mm. PL. 6, 8-12, p. 39.
 
 ## Type
 
@@ -36,11 +34,9 @@ de Wite 3549, Zaïre (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+No collections more recent than those cited by HUTCHINSON & DALZIEL: Talbot 1302, Mildbraed 10501, Vogel 96, and by RADLKOFER: Preuss 476 (Cameroon), Barter 85 (Nigeria), Mann s.n. (Fernando Po).
 
-Pas de récoltes plus récentes que celles citées par HUTCHINSON & DALZIEL : Talbot 1302, Mildbraed 10501, Vogel 96, et par RADLKOFER : Preuss 476 (Cameroun), Barter 85 (Nigeria), Mann s.n. (Fernando Po).
-
-Plante récoltée au Zaïre (Koechlin 5673) et en Tanzanie (Bruce 1075). A rechercher au Gabon.
+Plant collected in Zaire (Koechlin 5673) and in Tanzania (Bruce 1075). To be sought in Gabon.
 
 ## Specimens examined
 

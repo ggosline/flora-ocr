@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace à souche ligneuse , 10–30 cm de hauteur ; tige rampante , ± radicante aux nœuds , pubescente. Feuilles : stipules rectangulaires, 1,5–2 mm de longeur, ciliées, rarement glabres ; pétiole grêle , 1–5(–12) cm, pubescent, articulé au dessus de la stipule ; folioles subsessiles, obcordées, (0,5–)4–2,2(–25) × (0,5–)5–2,5(–25) cm, cunées à la base, profondément émarginées à bilobées au sommet, lobes arrondis , rarement obtus, pubescents en dessous et au bord, verts sur les 2 faces . Inflorescence avec 1–8 fleurs ; pédoncule 1–8(–20) cm de longeur, pubescent ou glabre ; bractées 2 à plusieurs, linéairesovates, (1–)2–4(–5) mm de longeur, pileuses, aigues. ¨ Fleur : pédicelle (5–)7–15(–25) mm de longeur, articulé à la base et au dessous du calice ; sépales ovés-lancéolés, (2–)6–7 × 0,5–2 mm, éparsement pubérulents ; pétales spatulés-oblongues à lancéolées, (3,5–)8– 10(–12) × 1–7 mm, cunées, peu emarginées, jaunes ; filets les plus longues edentés, 4–6 mm longeur, éparsements pubescents, les plus courts 2–3 mm de longeur. Capsule cylindrique , 0,5–2.5 cm de longeur , pubescente. Graines 5–11, aplaties-ovales, 1 mm de longeur, brunes.
+Perennial herb with woody rootstock, 10–30 cm tall; stem trailing, ± rooting at the nodes, pubescent. Leaves: stipules rectangular, 1.5–2 mm long, ciliate, rarely glabrous; petiole slender, 1–5(–12) cm, pubescent, articulate above the stipule; leaflets subsessile, obcordate, (0.5–)4–2.2(–25) × (0.5–)5–2.5(–25) cm, cuneate at base, deeply emarginate to bilobed at apex, lobes rounded, rarely obtuse, pubescent below and at margin, green on both faces. Inflorescence with 1–8 flowers; peduncle 1–8(–20) cm long, pubescent or glabrous; bracts 2 to several, linear-ovate, (1–)2–4(–5) mm long, pilose, acute. Flower: pedicel (5–)7–15(–25) mm long, articulate at base and below the calyx; sepals ovate-lanceolate, (2–)6–7 × 0.5–2 mm, sparsely puberulent; petals spatulate-oblong to lanceolate, (3.5–)8–10(–12) × 1–7 mm, cuneate, slightly emarginate, yellow; longest filaments edentate, 4–6 mm long, sparsely pubescent, shortest 2–3 mm long. Capsule cylindric, 0.5–2.5 cm long, pubescent. Seeds 5–11, flattened-oval, 1 mm long, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce cosmopolite probablement d’origine Méditerrano-Européenne dispersée à travers toute l’Afrique ; au Gabon trouvée dans les provinces de l’OgoouéIvindo (Bélinga) et Woleu-Ntem (Monts de Cristal), mais probablement présente dans d’autres régions
+Cosmopolitan species probably of Mediterranean-European origin dispersed throughout Africa; in Gabon found in the provinces of Ogooué-Ivindo (Bélinga) and Woleu-Ntem (Cristal Mountains), but probably present in other regions.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes herbeuses, galeries forestières, forêts secondaires, marais, terrains abandonnés, cultures et défrichements. Usage : Employé comme fébrifuge, contre la carie dentaire, comme purgatif contre la diarrhée des enfants et comme remède antivenimeux. B : Kabuye (1971), Lourteig (1979), Veldkamp (1971), Wilczek (1958). IBLIOGRAPHIE
+Herbaceous savannas, forest galleries, secondary forests, marshes, abandoned land, cultivations and clearings. Uses: Employed as febrifuge, against tooth decay, as a purgative against diarrhea in children and as an antivenom remedy. Bibliography: Kabuye (1971), Lourteig (1979), Veldkamp (1971), Wilczek (1958).
 
 Lejoly & Lisowski (1980) l.c.
 

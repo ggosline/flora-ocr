@@ -24,11 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (excl. var. B). — Benth. Hook. Nig. Fl.: 561 (1849). — Hochst. ex A. Rich., Tent. Fl. Abyss. II: 367.—Dur. et Schinz. Consp. Fl. Afr. V: 744 (1895).
 
-Herbe en peuplements souvent denses dans les zones maré-cageuses ou temporairement inondables. Les repousses jeunes sont bien appétées. Non encore signalée au Gabon.
+Herb in often dense stands in marshy zones or temporarily inundable areas. Young regrowth is highly palatable. Not yet recorded from Gabon.
 
 ## Notes
 

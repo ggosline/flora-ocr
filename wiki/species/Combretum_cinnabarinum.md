@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Cameroon, near Bipindi (fl.) Zenker 1930 (holo-B delet.; LECTOTYPE designated here: lecto-K; iso-BM). NB: the neotype from Cameroon chosen by LIBEN (1983), Annet 364, P, is thus unjustified.
 
-TYPE : Cameroun, près de Bipindi (fl.) Zenker 1930 (holo-B delet. ; LECTOTYPE désigné ici : lecto-K ; iso-BM). NB : le néotype du Cameroun choisi par LIBEN (1983), Annet 364, P, est donc injustifié.
+Liane ≤ 20 m.
 
-Liane  $ \leq $ 20 m.
+Leaves opposite; petiole ≤ 5 mm; blade oblong-elliptic, up to 16 × 6.5 cm, glabrous, except for the domatia; large lateral veins 5–7 pairs, axillary domatia pubescent; base of blade rounded or subcordate, apex acuminate and mucronate.
 
-Feuilles opposées ; pétiole ≤ 5 mm ; limbe oblong-elliptique, jusqu'à 16 × 6,5 cm, glabre, hormis les domaties ; grandes nervures latérales 5-7 paires, domaties axillaires pubescentes ; base du limbe arrondie ou subcordée, sommet acuminé et mucroné.
+Scales absent.
 
-Écailles absentes.
+Inflorescences ≤ 45 cm: terminal racemes or in panicles; rachis sometimes bearing numerous glandular hairs. Bracts inconspicuous.
 
-Inflorescences ≤ 45 cm : racèmes terminaux ou en panicules ; rachis parfois muni de nombreux poils glanduleux. Bractées peu visibles.
+Flowers 5-merous, stipitate. Receptacle lower, height 4 mm, pubescent, the upper one short, infundibuliform-campanulate, high and broad 4 mm, reddish, sparsely hairy. Calyx: lobes shortly triangular, inner face pubescent. Petals ≤ 7 × ≤ 5 mm, bright red, glabrous. Stamens exserted 5 mm, filaments red, anthers 0.4 mm long. Style red, 8–9 mm.
 
-Fleurs 5-mères, stipitées. Réceptacle inférieur, hauteur 4 mm, pubescent, le supérieur court, infundibuliforme-campanulé, haut et large de 4 mm, rougeâtre, peu poilu. Calice : lobes courtement triangulaires, face interne pubescente. Pétales, ≤ 7 × ≤ 5 mm, rouge vif, glabres. Étamines exsertes de 5 mm, filets rouges, anthères longues de 0,4 mm. Style rouge, 8-9 mm.
-
-Fruit ellipsoidal,  $ 2 \times 1.5 $ cm, presque glabre, ailes papyracées ; stipe < 3 mm. – Pl. 6, p. 25.
+Fruit ellipsoidal, 2 × 1.5 cm, almost glabrous, wings papyraceous; stipe < 3 mm. – Pl. 6, p. 25.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo (Brazzaville)
+Cameroon, Gabon, Congo (Brazzaville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides, alt. < 400 m
+dense humid forests, alt. < 400 m
 
 ## Specimens examined
 

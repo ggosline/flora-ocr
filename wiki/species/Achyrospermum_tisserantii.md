@@ -15,23 +15,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 0,2–0,3(–0,4) m de hauteur ; tige arrondie-quadrangulaire, rampante et s’enracinant à la base , ascendante, parfois ligneuse à la base, issue d’un système racinaire fibreux, densément pubescente à pileuse à poils en grande partie apprimés et rétrorses . Feuille : pétiole 10–25 mm ; limbe elliptique, de 4–11 × 2,5–6 cm, cunéé à arrondi à la base, arrondi à aigu au sommet, plus rarement courtement apiculé, serré ou légèrement serré, avec des rangées de taches blanchâtres sur la face supérieure (nons visibles en herbier), face inférieure vert plus pâle , les deux à pubescence clairsemée à poils pour la plupart apprimés sur les nervures et les marges et à glandes sessiles. Inflorescence terminale parfois accompagnée d’inflorescences axillaires, courtement cylindrique à globuleuse, de 1 – 3 × 1 – 1,5 cm ; cymes avec 3 à 5 fleurs ; bractées, largement ovales, longues de 5 mm, courtement apiculées. Fleur : calice long de 5 mm, ± régulièrement 5-lobé, pubescent à poils pour la plupart apprimés, à lobes triangulaires , aigus à l’apex , longs de 1 mm ; corolle longue de 4 mm, plus courte ou égalant le calice, blanche, lèvre inférieure longue de 1–2 mm. Fruit : akènes ovoïdes, longs de 2 mm, bruns, pubescents, près du sommet munis d’écailles linéaires, aplaties, longs de 1 mm.
+Herb 0.2–0.3(–0.4) m tall; stem rounded-quadrangular, creeping and rooting at the base, ascending, sometimes woody at the base, arising from a fibrous root system, densely pubescent to pilose with hairs largely appressed and retrorse. Leaf: petiole 10–25 mm; blade elliptic, 4–11 × 2.5–6 cm, cuneate to rounded at the base, rounded to acute at the apex, more rarely shortly apiculate, closely or slightly closely serrate, with rows of whitish spots on the upper face (not visible in herbarium material), lower face paler green, both faces with sparse pubescence and hairs mostly appressed on the nerves and margins and with sessile glands. Inflorescence terminal sometimes accompanied by axillary inflorescences, shortly cylindric to globose, 1–3 × 1–1.5 cm; cymes with 3 to 5 flowers; bracts, broadly ovate, 5 mm long, shortly apiculate. Flower: calyx 5 mm long, ± regularly 5-lobed, pubescent with hairs mostly appressed, with triangular lobes, acute at the apex, 1 mm long; corolla 4 mm long, shorter than or equalling the calyx, white, lower lip 1–2 mm long. Fruit: achenes ovoid, 2 mm long, brown, pubescent, furnished near the apex with linear, flattened scales, 1 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Cameroun, Guinée équatoriale (Rio Muni), Gabon et République Centrafricaine ; au Gabon : Estuaire et Ogooué-Ivindo. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Ivory Coast, Cameroon, Equatorial Guinea (Rio Muni), Gabon and Central African Republic; in Gabon: Estuaire and Ogooué-Ivindo. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Streamsides, paths in dense humid forest; in Gabon at 150 m altitude, up to 940 m in Equatorial Guinea. B: Letouzey (1967), Onana & Cheek (2011). Bibliography
 
-bords de ruisseaux, chemins en forêt dense humide ; au Gabon à 150 m d’altitude, jusqu’à 940 m en Guinée équatoriale. B : Letouzey (1967), Onana & Cheek (2011). i B liographie
-
-A C B D E F Libéria, Mont Balagiz), Warren D. Stevens (B : Nicaragua), Marco Schmidt (C : Cameroun), Stefan Dressler (D : Burkina Faso, Forêt Classée de Niangoloko), Paul Latham (E : Rép. dém. Congo, Jardin botanique de Kisantu) et Augustin Konda (F : Rép. dém. Congo, Jardin botanique de Kisantu).
+A B C D E F Liberia, Mont Balagiz), Warren D. Stevens (B: Nicaragua), Marco Schmidt (C: Cameroon), Stefan Dressler (D: Burkina Faso, Niangoloko Classified Forest), Paul Latham (E: Dem. Rep. Congo, Kisantu Botanical Garden) and Augustin Konda (F: Dem. Rep. Congo, Kisantu Botanical Garden).
 
 ## Notes
 

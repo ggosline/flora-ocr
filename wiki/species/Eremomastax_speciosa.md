@@ -26,21 +26,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Paulowilhelmia speciosa Hochst., Flora 27, Bes. Beilage : 4 (1844). — Nees, in DC., Prodr. 11 : 208 (1847). — C. B. Clarke, F.T.A. 5 : 52 (1899).
 
-≡ Paulowilhelmia polysperma Benth., F1. Nigrit 479 (1849). — C. B. Clarke, F.T.A. 5 : 52 (1899). — Hutch. et Dalz., F.W.T.A. ed. I, 2 : 246 (1931).
+≡ Paulowilhelmia polysperma Benth., Fl. Nigrit 479 (1849). — C. B. Clarke, F.T.A. 5 : 52 (1899). — Hutch. et Dalz., F.W.T.A. ed. I, 2 : 246 (1931).
 
 ≡ Ruellia sclerochiton S. Moore, Journ. Bot. 18 : 7 (1880).
 
-Plante suffrutescente, robuste, très polymorphe, atteignant 2 m de hauteur, pubescente, glabrescente ou même glabre. Tige rougeâtre striée, obtusément quadrangulaire, gonflée aux nœuds. Pétioles 2-4 cm. Limbe des feuilles ovale, plus ou moins triangulaire entier ou denté ou plus ou moins irrégulièrement denté-lobulé, hasté et fréquemment avec quelques dents plus grandes à la base et au bord de la partie inférieure; base cordée ou arrondie; 5-7 paires de nervures parallèles entre elles vers la base et insérées suivant un angle de 90°, ascendantes dans les parties supérieures; réseau des nervures secondaires disposé à l'horizontale dans la partie supérieure; limbes et nervures au dessous un peu violacées. Le limbe atteint 18 × 1/4 cm.
+Suffrutescent plant, robust, highly polymorphic, attaining 2 m in height, pubescent, glabrescente or even glabrous. Stem reddish-striped, obtusely quadrangular, swollen at the nodes. Petioles 2–4 cm. Leaf blade ovate, more or less triangular entire or dentate or more or less irregularly dentate-lobulate, hastate and frequently with a few larger teeth at the base and at the margin of the lower part; base cordate or rounded; 5–7 pairs of parallel veins between them toward the base and inserted at an angle of 90°, ascending in the upper parts; secondary vein network arranged horizontally in the upper part; blades and veins below somewhat violaceous. The blade reaches 18 × 1/4 cm.
 
-Inflorescences terminales, composées de cymes plus ou moins allongés et denses; bractées et bractéoles petites, lancéolées, ne dépassant pas en général 5 mm de longueur, très caduques et généralement tombées avant la floraison; l'inflorescence est très variable, plus ou moins étalée suivant le degré d'épanouissement, parfois même en forme d'épi. Fleurs subsessiles, érigées, pédicelles atteignant 2 mm. Calice de 1,5-5 mm, s'allongeant beaucoup pendant la fructification, glabre, glabrescent ou cilié avec des poils glanduleux; lobes lancéolés, libres ou soudés dans la partie
+Inflorescences terminal, composed of more or less elongate and dense cymes; bracts and bracteoles small, lanceolate, not exceeding 5 mm in length in general, very caducous and generally fallen before flowering; the inflorescence is highly variable, more or less spreading according to the degree of expansion, sometimes even in the form of a spike. Flowers subsessile, erect, pedicels reaching 2 mm. Calyx 1.5–5 mm, elongating greatly during fruiting, glabrous, glabrescente or ciliate with glandular hairs; lobes lanceolate, free or fused in the lower part up to one-third of their length. Corolla 4–5.5 cm violet, greyish-blue speckled, pale blue or violet-blue, highly zygomorphic: the five lobes are curved and inclined, forming a single lower lip; corolla tube 2–2.5 (3) cm finely puberulent above; corolla lobes 1–1.5 × 5 mm, hairy inside, rounded. Stamens approximately 20 and 22 mm, densely puberulent; anthers 4 × 1 mm.
 
-inférieure jusqu'au tiers de leur longueur. Corolle de 4-5,5 cm violette, bleu gris moucheté, bleu pâle ou bleu violacé, très zygomorphe : les cinq lobes sont recourbés et inclinés, formant une seule lèvre inférieure; tube de la corolle de 2-2,5 (3) cm fine-ment pubérulent en dessus; lobes de la corolle de 1-1,5 × 5 mm, poilus à l'intérieur, arrondis. Étamines d'environ 20 et 22 mm, densément pubérulentes; anthères de 4 × 1 mm.
-
-Capsule glabre, fusiforme, de 20 mm de long avec 16 graines environ. Graines aplaties d'un diamètre de 2 mm environ, lenticulaires, avec des arcs concentriques de poils hygroscopiques et un anneau translucide équatorial.
+Capsule glabrous, fusiform, 20 mm long with approximately 16 seeds. Seeds flattened approximately 2 mm in diameter, lenticular, with concentric arcs of hygroscopic hairs and a translucent equatorial ring.
 
 ## Type
 
@@ -48,9 +44,7 @@ Schimper 1954 (P, holotype!) « sine loco speciali » Schimper, Iter Abyssinicum
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Très répandu en Afrique tropicale.
+Very widespread in tropical Africa.
 
 ## Specimens examined
 

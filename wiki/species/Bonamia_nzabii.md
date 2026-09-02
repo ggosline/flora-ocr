@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou arbuste lianescent ; rameaux glabres ou glabrescents ; ramilles, feuilles et inflo rescences à poils dorés, apprimés . Feuille : pétiole cylindrique, souvent canaliculé dessus, (2–)3–6(–10) mm ; limbe obové à elliptique, (5–)6–8(–12) × 2,5–4(–6) cm, arrondi à cunéé à la base , à acumen mucroné sur 0,5–1,5 cm, glabrescent, à (5–)6–8(–10) paires de nervures latérales . Inflorescence courtement pédonculée, compacte ; bractées et bractéoles caduques, linéaires à étroitement ovées, jusqu’à 8 mm de longueur. Fleur : pédicelle 2–4 mm ; sépales subégaux, suborbiculaires , concaves, de 5–7 mm de diamètre, face extérieure à poils dorés et apprimés , face intérieure glabre ; corolle étroitement campanulée, 10 mm de longueur, à poils dorés et apprimés à l’extérieur , glabre à l’intérieur, lobes 3–4 mm de longueur, aigus, à pilosité comme le tube ; étamines nettement plus courtes que la corolle, à filets partiellement pubescents au-dessus de la partie adnée au tube , anthères ellipsoïdes, 1,5 × 1 mm ; disque 1 mm de hauteur ; pistil légèrement plus court que la corolle, ovaire glabre ; styles subégaux, unis à la base; éparsement poilus au sommet. Fruit subovoïde, 10–12 × 8 mm, apiculé, glabre, à 1–3(–4?) graines, déhiscent avec jusqu’à 12 valves. Graines subovoïdes-ellipsoïdes, environs 7 × 5–7 mm ; testa souvent finement tuberculé.
+Climbing plant or lianas shrub; branchlets glabrous or glabrescent; twigs, leaves and inflorescences with golden, appressed hairs. Leaf: petiole cylindric, often channeled above, (2–)3–6(–10) mm; blade obovate to elliptic, (5–)6–8(–12) × 2.5–4(–6) cm, rounded to cuneate at the base, with a mucronate acumen 0.5–1.5 cm long, glabrescent, with (5–)6–8(–10) pairs of lateral veins. Inflorescence shortly pedunculate, compact; bracts and bracteoles deciduous, linear to narrowly ovate, up to 8 mm in length. Flower: pedicel 2–4 mm; sepals subequal, suborbicular, concave, 5–7 mm in diameter, outer surface with golden appressed hairs, inner surface glabrous; corolla narrowly campanulate, 10 mm in length, with golden appressed hairs on the outside, glabrous on the inside, lobes 3–4 mm in length, acute, with pilosity as on the tube; stamens distinctly shorter than the corolla, with filaments partially pubescent above the part adnate to the tube, anthers ellipsoid, 1.5 × 1 mm; disk 1 mm in height; pistil slightly shorter than the corolla, ovary glabrous; styles subequal, united at the base; sparsely pilose at the apex. Fruit subovoid, 10–12 × 8 mm, apiculate, glabrous, with 1–3(–4?) seeds, dehiscent with up to 12 valves. Seeds subovoid-ellipsoid, approximately 7 × 5–7 mm; testa often finely tuberculate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-République Démocratique du Congo et Gabon où elle est connue d’une seule localité du Massif du Chaillu dans la Ngounié
+Democratic Republic of the Congo and Gabon, where it is known from a single locality in the Chaillu Massif in the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide ; au Gabon à 300–360 m d’altitude, ailleurs à 200–300 m. B : Breteler (1992), Lejoly & Lisowski (1993). ibliographie
+dense humid forest; in Gabon at 300–360 m altitude, elsewhere at 200–300 m. B: Breteler (1992), Lejoly & Lisowski (1993). Bibliography
 
 ## Notes
 

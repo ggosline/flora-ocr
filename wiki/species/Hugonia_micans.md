@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine 3–5 m tall, capable of reaching 0.9 cm in diameter, ± furrowed longitudinally, furnished with alternate hooks. Leaves petiolate. Stipules pubescent on both faces, slightly laciniate, lanceolate, 5–8 mm long; petiole pubescent, 0.5–1 cm; blade glabrescent on the upper surface, except the pubescent midvein, discolorous, clothed with very short and dense yellow hairs on the lower surface, mostly obovate, rarely elliptic, acute at the base, acute to shortly acuminate at the apex, denticulate-glandular, 5–20 × 2.5–7 cm.
 
-Liane haute de 3-5 m pouvant atteindre 0,9 cm de diamètre, ± sillonnée longitudinalement, pourvue de crochets alternes. Feuilles pétiolées. Stipules pubescentes sur les 2 faces, peu laciniées, lancéolées, longues de 5-8 mm; pétiole pubscent, de 0,5-1 cm; limbe glabrescent à la face supérieure, sauf la nervure médiane pubescente, discolore, vêtue de poils jaunes très courts et denses à la face inférieure, le plus souvent obové, rarement elliptique, aigu à la base, aigu à brièvement acuminé au sommet, denté-glanduleux, 5-20 × 2,5-7 cm.
+Inflorescences tomentellose, formed of racemes of pauciflorous cymes grouped into terminal panicles. Pedicels tomentellose, 2–4 mm. Bracts and bracteoles tomentellose on the outside, ⊥ lanceolate, the bracteoles entire. Sepals pubescent on both faces, ovate, 5–8 × 5 mm. Petals glabrous, obovate, approximately 15 × 6 mm. Stamens glabrous, alternately long and short, 4–8 mm; anthers ovate, approximately 1.5 mm. Ovary glabrous, ovoid-oblong, approximately 2 × 1.5 mm; styles glabrous, 8–10 mm long; stigmas terminal, capitate.
 
-Inflorescences tomentelleuses, formées de racèmes de cymes pauciflores groupées en panicules terminaux. Pédicelles tomentelleux, de 2-4 mm. Bractées et bractéoles tomentelleuses à l'extérieur, ⊥ lancéolées, les bractéoles entières. Sépales pubescents sur les 2 faces, ovés, 5-8 × 5 mm. Pétales glabres, obovés, d'environ 15 × 6 mm. Étamines glabres, alternativement longues et courtes, de 4-8 mm; anthères ovées, de 1,5 mm environ. Ovaire glabre, ovoïde-oblong, d'environ 2 × 1,5 mm; styles glabres, longs de 8-10 mm; stigmates terminaux, capités.
-
-Drupe bréviaxe, de 11-13 mm de hauteur et de 14-17 mm de diamètre, à pyrènes sillonnées. PL. 9, 1-3, p. 37.
+Drupe with short axis, 11–13 mm in height and 14–17 mm in diameter, with furrowed pyrenes. PL. 9, 1–3, p. 37.
 
 ## Type
 
@@ -31,9 +29,7 @@ Soyaux 232, Gabon (holo-, B; iso-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts du Gabon et du Cameroun.
+Forests of Gabon and Cameroon.
 
 ## Specimens examined
 

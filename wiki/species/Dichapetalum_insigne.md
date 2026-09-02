@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+BRETELER, MLW 73 (13) : 7, 18, XVII (1973) ; l.c. 79 (16) : 44-47 (1979) ; l.c. 81 (10) : 27 (1981) ; l.c. 82 (8) : 67 (1982) ; AUWP 86(3) : 9 (1986) TYPE : Cameroon, Bipindi, Zenker 3004 (holo-, B delet. ; lecto-, M ; isolecto-, BM, BR, E, G, GOET, K, L, P, PRE, W, WU, Z).
 
-BRETELER, MLW 73 (13) : 7, 18, XVII (1973) ; l.c. 79 (16) : 44-47 (1979) ; l.c. 81 (10) : 27 (1981) ; l.c. 82 (8) : 67 (1982) ; AUWP 86(3) : 9 (1986) TYPE : Cameroun, Bipindi, Zenker 3004 (holo-, B delet. ; lecto-, M ; isolecto-, BM, BR, E, G, GOET, K, L, P, PRE, W, WU, Z).
+Small tree, shrub, scandent shrub or liana with base reaching 4 cm in diameter. Bark weakly fissured or fairly smooth, small lenticels. Entire wood cylinder(?), hard wood. Young and mature branchlets, dense villose-tomentose pubescence, very persistent; innovations with short internodes and imbricate stipules, resembling catkins.
 
-Petit arbre, arbuste, arbuste lianescent ou liane dont la base atteint 4 cm de diamètre. Écorce faiblement fissurée ou assez lisse, petites len-
+Stipules fairly persistent, generally appressed against the branchlet and wider than it, broad and ovate to narrow and triangular or oblong, sometimes falcate, 4-15(20) × (2)4-6(10) mm; base obtuse to subauriculate; apex acute to acuminate, nerves often distinctly parallel; outer face with appressed to silky pubescence; inner face glabrous or pubescent on the upper part; both faces becoming glabrous with age.
 
-ticelles. Cylindre ligneux entier(?), bois dur. Rameaux jeunes et âgés, pubescence villeuse-tomenteuse dense, très persistante ; innovations avec entre-noeuds courts et stipules imbriquées, ressemblant à des chatons.
+Leaves shortly petiolate. Petiole subcylindric, (1) 2-6 (10) mm, villose-tomentose. Lamina papyraceous, obovate-elliptic to oblong, (1.5) 2.5-3 (3.5) times longer than wide, (9) 12-23 (30) × (3) 5-8 (12) cm; base oblique and rounded to cordate; acumen ≤ 3 cm; villose-tomentose pubescence on the entire lamina surface initially, denser and more persistent on the main veins (I and II) and elsewhere deciduous fairly early and more rapidly on the upper face; vein I and the 8-15 pairs of main veins II more or less impressed above; glands, small, generally poorly visible, present on both faces but usually more numerous and fairly well distributed below and somewhat concentrated above near the base and acumen.
 
-Stipules assez persistantes, en général apprimées contre le rameau et plus larges que lui, larges et ovées à étroites et triangulaires ou oblongues, parfois falciformes, 4-15(20) x (2)4-6(10) mm ; base obtuse à subauriculée ; sommet aigu à acuminé, nervures souvent nettement parallèles ; face externe avec pubescence apprimée à soyeuse ; face interne glabre ou pubescente sur la partie supérieure ; les 2 faces devenant glabres avec l'âge.
+Inflorescences sessile or more rarely with a peduncle and then very short, often partly hidden by the stipules, condensed or with two scorpioid ramifications ≤ 1.5 cm bearing flowers in 2 ranks; silky-tomentose pubescence; sometimes a few inflorescences grouped at the apical part without leaves and relatively short shoots. Bracts and bracteoles ovate and often broad, concave, 1.5-3 × 1-2.5 mm; apex acute to acuminate, entire or 2-3-fid; exterior silky and interior glabrous. Pedicels ≤ 2 mm, entirely or partly hidden by the bracts and bracteoles, upper part < 0.5 mm.
 
-Feuilles courtement pétiolées. Pétiole subcylindrique, (1) 2-6 (10) mm, villeux-tomenteux. Limbe papyracé, obové-elliptique à oblong, (1,5) 2,5-3 (3,5) fois plus long que large, (9) 12-23 (30) × (3) 5-8 (12) cm ; base oblique et arrondie à cordée ; acumen ≤ 3 cm ; pubescence villeuse-tomenteuse sur toute la surface du limbe au début, plus dense et plus persistante sur les grandes nervures (I et II) et ailleurs assez tôt caduque et plus rapidement à la face supérieure ; nervure I et les 8-15 paires des principales nervures II plus ou moins imprimées dessus ; glandes, petites , peu visibles en général, présentes sur les deux faces mais ordinairement plus nombreuses et assez bien dispersées dessous et un peu concentrées dessus près de la base et de l'acumen.
+Flowers subsessile, relatively small, 1.5-2.5 mm long. Sepals suberect, ovate-elliptic to oblong, 1.5-2 × 1-1.5 mm; outer face tomentose to silky; inner face puberulent-tomentellose, especially on the upper part. Petals suberect, united by their base to the filaments for 0.5-1 mm, elliptic to obovate, 1.5-2.5 mm long, split for 0.5 mm; interior glabrous; exterior with a few hairs often appressed below the split and on the lower part of the lobes, or rarely glabrous. Stamens erect, 1-1.5 mm long, glabrous; anthers ovoid-ellipsoidal, 0.5 mm long, connective very prominent. Staminodes of varied form, obdeltoid, subquadrate or transversely oblong, < 0.5 × 0.5 mm, from glabrous to entirely velvety. Pistil 2 (3)-merous, 1-1.5 mm long; ovary 2(3)-locular, velvety; style glabrous, 2 (3) very short lobes.
 
-Inflorescences sessiles ou plus rarement avec un pédoncule et alors très court, souvent en partie cachées par les stipules, condensées ou avec deux ramifications scorpioïdes ≤ 1,5 cm portant les fleurs sur 2 rangs ; pubescence soyeuse-tomenteuse ; parfois quelques inflorescences réunies à la partie apicale sans feuilles et relativement courte, des pousses. Bractées et bractéoles ovées et souvent larges, concaves, 1,5-3 × 1-2,5 mm ; sommet aigu à acuminé, entier ou 2-3-fide ; extérieur soyeux et intérieur glabre. Pédicelles ≤ 2 mm, en tout ou en partie cachés par les bractées et les bractéoles, partie supérieure < 0,5 mm.
-
-Fleurs subsessiles, relativement petites, longues de 1,5-2,5. Sépales subérigés, ovés-elliptiques à oblongs, 1,5-2 × 1-1,5 mm ; face externe tomenteuse à soyeuse ; face interne pubérulente-tomentelleuse, surtout à la partie supérieure. Pétales subérigés, réunis par leur base aux filets sur 0,5-1 mm, elliptiques à obovés, longs de 1,5-2,5 mm, fendus sur 0,5 mm ; intérieur glabre ; extérieur avec quelques poils souvent apprimés au-dessous de la fente et sur la partie basse des lobes, ou rarement glabre. Étamines dressées, longues de 1-1,5 mm, glabres ; anthères ovoïdes-ellipsoïdales, longues de 0,5 mm, connectif très proéminent. Staminodes de forme variée, obdeltoïdes, subcarrés ou trans-oblongs, < 0,5 × 0,5 mm, de glabres à entièrement veloutés. Pistil 2 (3)-mère, long de
-
-1-1,5 mm ; ovaire 2(3)-loculaire, velouté ; style glabre, 2 (3) lobes très courts.
-
-Fruits (2 observés non mûrs) subellipsoidales, villeux-tomenteux. - Pl. 30, p. 111.
+Fruits (2 observed immature) subellipsoidal, villose-tomentose. - Pl. 30, p. 111.
 
 ## Type
 
@@ -43,15 +37,11 @@ Zenker 3004, Bipindi, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Nord Angola ; Ouest-Zaïre
+Cameroon, Gabon, Congo, North Angola; West Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

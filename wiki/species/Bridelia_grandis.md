@@ -16,29 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr . 6(1) : 1042 (1913). Arbre jusqu’à 20(–30) m de hauteur ; rameaux souvent épineux et à lenticelles larges ; ramilles tomentelleuses, glabrescentes . Stipules ± étroitement triangulaires, 1–7 mm de longueur, tomentelleuses, tôt caduques. Feuille : pétiole 5–7 mm, tomentelleux, glabres cent ; limbe ± étroitement obovale-elliptique, (4,5–)8–10(–15) × (1,5–)2,5–4(–6) cm, arrondi à légèrement cuné à la base, au sommet acuminé sur 5–10(–15) mm, glabre ou glabrescent dessus, à petit poils ± apprimés dessous ; nervures latérales 8–12(–13) paires,
-
-nervures tertiaires subparallèles à peine visibles , à bord souvent partiellement ren versé. Inflorescence : glomérules compacts ; bractées petites, pubescentes, ciliées. Fleur bien épanouie, 2–2,5 mm de diamètre . Fleur mâle à pédicelle glabre de 1–2 mm ; sépales glabres, ± 1 mm de longueur ; pétales ± elliptiques, ± 1 mm de longueur, glabres. Fleur femelle subsessile, ± glabre ; sépales et pétales comme dans les fleurs mâles ; disque glabre. Fruit ellipsoïde, environ 9 × 6 mm, glabre, noir à maturité.
+in Dyer, Fl. trop. Afr. 6(1): 1042 (1913). Tree up to 20(–30) m tall; branches often spiny and with broad lenticels; branchlets tomentulose, glabrescent. Stipules ± narrowly triangular, 1–7 mm long, tomentulose, early caducous. Leaf: petiole 5–7 mm, tomentulose, glabrescent; blade ± narrowly obovate-elliptic, (4.5–)8–10(–15) × (1.5–)2.5–4(–6) cm, rounded to slightly cuneate at base, acuminate at apex over 5–10(–15) mm, glabrous or glabrescent above, with small ± appressed hairs below; lateral veins 8–12(–13) pairs, tertiary veins subparallel scarcely visible, margin often partially revolute. Inflorescence: compact glomerules; bracts small, pubescent, ciliate. Flower well-opened, 2–2.5 mm in diameter. Male flower with glabrous pedicel 1–2 mm; sepals glabrous, ± 1 mm long; petals ± elliptic, ± 1 mm long, glabrous. Female flower subsessile, ± glabrous; sepals and petals as in male flowers; disk glabrous. Fruit ellipsoid, approximately 9 × 6 mm, glabrous, black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Cameroun, le Gabon, la République du Congo et la République Démocratique du Congo ; au Gabon seulement connue de l’Estuaire, du Moyen-Ogooué, de la Ngounié et de l’Ogooué-Maritime
+from Sierra Leone to Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon known only from Estuaire, Moyen-Ogooué, Ngounié and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide ; au Gabon, à 0–300 m d’altitude
+dense humid forest; in Gabon, at 0–300 m altitude
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois est un bon bois de chauffage. Les scions servent de chevrons pour la construction des cases. Une infusion de l’écorce et des feuilles sert à purifier le lait des nouvelles accouchées
+The wood is good firewood. Shoots serve as rafters for the construction of huts. An infusion of the bark and leaves is used to purify the milk of newly delivered women
 
 ## Vernacular names
 

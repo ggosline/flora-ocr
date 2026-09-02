@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pleomele gazensis (Rendle) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Pleomele usambarensis (Engl.) N.E.Br., Bull. Misc. Inform. Kew 1914 : 279 (1914). Arbuste ou arbre atteignant 20 m de hauteur ; tronc peu ramifié, dépassant 25 cm de dia mètre ; écorce gris-brun, rugueuse, entaille verte. Feuilles spiralées , densément réparties le long les tiges, parfois concentrées aux extrémités, laissant la tige visible entre les feuilles ; gaine embrassant la tige sur un peu plus de la moitié de la circonférence , sur une longueur de < 1 cm, cicatrice foliaire lunulée ; pseudopétiole absent ; limbe étroitement elliptique , jusqu’à 36 × 3,5 cm, base cunéée, s’élargissant abruptement vers la gaine, sommet acuminé avec un mucron de ± 2 mm, coriace, face supérieure bleu-vert à vert foncé uni, face inférieure plus pâle, nervure médiane proéminente dessous sur environ la moitié de sa longueur. Inflorescence dressée, paniculée , à nombreuses branches, jusqu’à 35 × 25 cm, à axes lisses, orange pâle ; bractées sous-tendant les branches longtemps persistantes, étroitement ovales, concaves, jusqu’à 25 × 5 mm, diminuant de taille vers le sommet des axes, membraneuses ; fascicules densément groupés aux extrémités des branches , chacun sous-tendu par une petite bractée tôt caduque, triangulaire, jusqu’à 3 mm de longueur, scarieuse ; bractées florales triangulaires atteignant 1 mm de longueur. Fleur à parfum de jacinthe ; pédicelle jusqu’à 6 mm, articulé jusqu’à 4 mm de la base ; périanthe 40–55 mm de longueur , blanc crème à vert blanchâtre, parfois avec le sommet rouge, à lobes plus courts que le tube , étalés ou réfléchis ; étamines insérées près de la gorge, jusqu’à 5 mm plus courtes que les lobes, filet filiforme, blanc, anthère ± 3 mm de longueur, jaune pâle ; ovaire ovoïde, jusqu’à 5 × 3 mm ; style exsert sur jusqu’à 3 mm, blanc, stigmate légèrement 3-lobé, ± 0,5 mm de diamètre. Fruit sphérique à obloïde , légèrement 3-lobé, jusqu’à 20 mm de diamètre ; réceptacle jusqu’à 4 mm de longueur. Graine ellipsoïde, ± 16 × 13 mm.
+Pleomele gazensis (Rendle) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Pleomele usambarensis (Engl.) N.E.Br., Bull. Misc. Inform. Kew 1914 : 279 (1914). Shrub or tree reaching 20 m in height; trunk little-branched, exceeding 25 cm in diameter; bark grey-brown, rugose, with green internal tissue. Leaves spirally arranged, densely distributed along the stems, sometimes concentrated at the extremities, leaving the stem visible between the leaves; sheath clasping the stem over slightly more than half its circumference, over a length of < 1 cm, leaf scar lunulate; pseudopetiole absent; blade narrowly elliptic, up to 36 × 3.5 cm, base cuneate, abruptly broadening towards the sheath, apex acuminate with a mucro of ± 2 mm, coriaceous, upper surface blue-green to dark green uniform, lower surface paler, midrib prominent beneath for about half its length. Inflorescence erect, paniculate, with numerous branches, up to 35 × 25 cm, with smooth axes, pale orange; bracts subtending the branches long-persistent, narrowly ovate, concave, up to 25 × 5 mm, decreasing in size towards the apex of the axes, membranaceous; fascicles densely grouped at the branch extremities, each subtended by a small bract early caducous, triangular, up to 3 mm in length, scarious; floral bracts triangular reaching 1 mm in length. Flower with hyacinth fragrance; pedicel up to 6 mm, articulate up to 4 mm from the base; perianth 40–55 mm in length, cream-white to whitish-green, sometimes with the apex red, with lobes shorter than the tube, spreading or reflexed; stamens inserted near the throat, up to 5 mm shorter than the lobes, filament filiform, white, anther ± 3 mm in length, pale yellow; ovary ovoid, up to 5 × 3 mm; style exsert for up to 3 mm, white, stigma slightly 3-lobed, ± 0.5 mm in diameter. Fruit spherical to obloid, slightly 3-lobed, up to 20 mm in diameter; receptacle up to 4 mm in length. Seed ellipsoid, ± 16 × 13 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Democratic Republic of the Congo, Burundi, Kenya, Tanzania, Malawi, Zambia, Zimbabwe, Mozambique, South Africa; to be sought in Gabon
 
-République démocratique du Congo, Burundi, Kenya, Tanzanie, Malawi, Zambie, Zim babwe, Mozambique, Afrique du Sud ; à rechercher au Gabon
-
-Fischer (©) (comme D. longipetiolata Mwachala & Eb. Fisch.), reproduit avec permission à partir de Mwachala & Fischer (2013).
+Fischer (©) (as D. longipetiolata Mwachala & Eb. Fisch.), reproduced with permission from Mwachala & Fischer (2013).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières de forêt, stations ouvertes, savane arbustive, bords des rivières et forêts littorales sur sol sableux ; ailleurs jusqu’à 1800 m d’altitude. Floraison toute l’année. Usage : En Afrique de l’Est, le jus des feuilles et des racines est bu contre l’épilepsie, le paludisme et il est hématopoïétique (après une crise de paludisme). Les feuilles sont utilisées contre le mal de ventre. Le fruit est utilisé dans le traitement des maladies féminines et mangé par certains oiseaux
+Forest margins, open stations, shrubby savanna, riverbanks and littoral forests on sandy soil; elsewhere up to 1800 m in altitude. Flowering throughout the year. Use: In East Africa, the juice of the leaves and roots is drunk against epilepsy, malaria and it is haematopoietic (after a malaria attack). The leaves are used against abdominal pain. The fruit is used in the treatment of female ailments and eaten by certain birds.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voyez les notes sous D. mannii. B : Bos (1992, comme D. mannii ), Damen et al. (2018), La Croix (2010, comme D. mannii ). i B liographie
+See the notes under D. mannii. B: Bos (1992, as D. mannii), Damen et al. (2018), La Croix (2010, as D. mannii). Bibliography
 
 ## Notes
 

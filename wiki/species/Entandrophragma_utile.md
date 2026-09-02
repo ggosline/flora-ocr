@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 3(J–L), 5(C, D), 6(A–C) Bull. Misc. Inform. Kew 1910 : 180 (1910). Très grand arbre atteignant 55(–60) m de hauteur ; tronc jusqu’à 250 cm de diamètre, muni à la base d’empattements puissants ; écorce gris argenté, crevassée longitudinale ment, s’écaillant en écailles allongées ; tranche rouge, sans odeur ni exsudat ; bourgeons terminaux tomenteux. Feuille : pétiole plan-convexe, 4,5–11 cm, tomenteux roussâtre ainsi que le rachis ; rachis 13–30(–34) cm ; pétiolule 1–3(–5) mm ; folioles (12–)14– 22(–26), étroitement rectangulaires à ovales, limbe des folioles inférieures souvent petit, celui des folioles supérieures plus grand et souvent falciforme , 3,5–13 × 1,5–4,5 cm, obtuses ou parfois faiblement cordées et asymétriques à la base, atténuées en une pointe aiguë au sommet ; nervures secondaires (7–)10–16 paires, à quelque pilosité, mais surtout à touffes de poils à l’aisselle des nervures latérales dessous. Inflorescence atteignant 25 cm de longueur, pubérulente. Fleur fonctionnellement mâle : pédicelle articulé, environ 3 mm ; calice aplati, grossièrement 5-denté, 0,7–1 mm de hauteur, velouté à l’extérieur ; pétales dressés dans la fleur épanouie, étroitement obovales, 4,5–5,5 × 1,5–2 mm, velouté à l’extérieur ; tube staminal urcéolé, 3–4 mm de longueur, glabre, bord légèrement lobé, à anthères rectangulaires de 0,6 × 0,3 mm et émarginés au sommet ; gynécée (pistillode) 4 mm de longueur, surmonté d’un disque-gynophore cannelé, de 0,5 mm de longueur ; style 1 mm, stigmate capité, épais. Fleur fonctionnellement femelle similaire ; ovaire conique à ovoïde, environ 2 mm de diamètre, glabre. Fruit claviforme, à déhiscence apicale, 14–28 × 3–5(–7) cm. Graine y inclus l’aile, 5–11 × 2 cm.
+Plate 3(J–L), 5(C, D), 6(A–C) Bull. Misc. Inform. Kew 1910 : 180 (1910). Very large tree reaching 55(–60) m in height; trunk up to 250 cm in diameter, furnished at the base with powerful buttresses; bark silvery grey, longitudinally fissured, exfoliating in elongated scales; cross-section red, without odour or exudate; terminal buds tomentose. Leaf: petiole plane-convex, 4.5–11 cm, reddish-tomentose as well as the rachis; rachis 13–30(–34) cm; petiolule 1–3(–5) mm; leaflets (12–)14–22(–26), narrowly rectangular to ovate, lamina of lower leaflets often small, that of upper leaflets larger and often falcate, 3.5–13 × 1.5–4.5 cm, obtuse or sometimes weakly cordate and asymmetric at the base, attenuate to an acute apex; secondary veins (7–)10–16 pairs, with some pilosities, but especially tufts of hairs at the axils of lateral veins beneath. Inflorescence reaching 25 cm in length, puberulent. Functionally male flower: pedicel articulate, approximately 3 mm; calyx flattened, coarsely 5-dentate, 0.7–1 mm in height, velvety on the outside; petals erect in the open flower, narrowly obovate, 4.5–5.5 × 1.5–2 mm, velvety on the outside; staminal tube urceolate, 3–4 mm in length, glabrous, margin slightly lobed, with rectangular anthers 0.6 × 0.3 mm and emarginate at the apex; gynoecium (pistillode) 4 mm in length, surmounted by a fluted disc-gynophore, 0.5 mm in length; style 1 mm, stigma capitate, thick. Functionally female flower similar; ovary conical to ovoid, approximately 2 mm in diameter, glabrous. Fruit claviform, with apical dehiscence, 14–28 × 3–5(–7) cm. Seed including the wing, 5–11 × 2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Guinée, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée Équatoriale, Gabon, République du Congo, République Centrafricaine, Répu blique Démocratique du Congo, Angola et Ouganda ; au Gabon, connue de l’Estuaire, de la Ngounié, de le Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+Sierra Leone, Guinea, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Angola and Uganda; in Gabon, known from Estuaire, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide semi-décidue ; au Gabon, jusqu’à 740 m d’altitude, ailleurs jusqu’à 1400 m. Usage : Le bois est apprécié pour la construction et la menuiserie
+semi-deciduous humid forest; in Gabon, up to 740 m in altitude, elsewhere up to 1400 m. Use: The wood is valued for construction and carpentry
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ sipo (nom pilote) ; acajou sipo (fr.) ; brown mahogany, heavy maho gany, sipo ma
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Chipp 106 ). Dessin par L. van der Riet, Naturalis Biodiversity Center, Leiden (©).
+Chipp 106 ). Drawing by L. van der Riet, Naturalis Biodiversity Center, Leiden (©).
 
 ## Notes
 

@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Hutch. in Hutch. & Rendle, FTA 6 (2): 130 (1916); KEAY, FWTA, ed. 2, 1: 611 (1958); AUBRÉV., FFCI, ed. 2, 1: 96, tab. 22, fig. B (1959).
 
-- F. buntingii HUTCH., Kew Bull.: 320, cum tab. (1915); KEAY, l.c.: 611 (1958). TYPE: Bunting s.n., Liberia, Gola, riv. Mano (holo-, BM ; iso-, K).
+- F. buntingii HUTCH., Kew Bull.: 320, cum tab. (1915); KEAY, l.c.: 611 (1958). TYPE: Bunting s.n., Liberia, Gola, riv. Mano (holo-, BM; iso-, K).
 
-- F. mangenotii A. CHEV., Rev. Bot. Appl. 29: 246, tab. 11 (1949); KEAY, l.c.: 611 (1958). TYPE : Chevalier s.n., Côte d'Ivoire, Bingerville (holo-, P).
+- F. mangenotii A. CHEV., Rev. Bot. Appl. 29: 246, tab. 11 (1949); KEAY, l.c.: 611 (1958). TYPE: Chevalier s.n., Côte d'Ivoire, Bingerville (holo-, P).
 
-Arbres épiphytes (étrangleurs) hauts jusqu'à 25 m, branches principales avec des branches latérales subverticillées, jeunes branches creuses. Rameaux feuillés glabres, épais de 2-3 mm, glabres ou éparsement très courtement pubérulents, marrons sur le sec. Feuilles disposées en spirales. Limbe habituellement marron en séchant, (étroitement) oblong à elliptique, long de 3-14 cm, large de 1-5,5 cm, le plus large au niveau ou au-dessus du milieu, chartacé à subcoriace, sommet aigu à (sub) acuminé, base aiguë à obtuse, bord entier (ou quelquefois ondulé) les deux faces (presque) glabres; nervures planes dessus, la nervure médiane seulement distinctement saillante dessous; 8-12 paires de nervures latérales, incluant 1 paire de nervures basales, nervures latérales soudées en boucle de 1-2 mm environ du bord du limbe ; tache glanduleuse visible. Pétiole long de 0,7-2 (-4,5) cm, épais de 1 mm environ, (presque) glabre, habituellement noirâtre sur le sec. Stipules libres, longues de 0,2-0,5 (-3) cm, glabres ou éparsement très petitement pubé
+Epiphytic trees (stranglers) up to 25 m tall, main branches with laterally subverticillate branching, young branches hollow. Leafy twigs glabrous, 2–3 mm thick, glabrous or sparsely very shortly puberulent, brown when dry. Leaves arranged in spirals. Blade usually brown when dry, (narrowly) oblong to elliptic, 3–14 cm long, 1–5.5 cm wide, widest at or above the middle, chartaceous to subcoriaceous, apex acute to (sub)acuminate, base acute to obtuse, margin entire (or sometimes undulate), both faces (nearly) glabrous; veins plane above, only the midvein distinctly prominent below; 8–12 pairs of lateral veins, including 1 pair of basal veins, lateral veins looped 1–2 mm or so from the blade margin; glandular spot visible. Petiole 0.7–2 (–4.5) cm long, about 1 mm thick, (nearly) glabrous, usually blackish when dry. Stipules free, 0.2–0.5 (–3) cm long, glabrous or sparsely very minutely puberulent, caducous or subpersistent, the stipules of short spurs velvety yellow.
 
-1. Griffon du Bellay 2020 peut appartenir à F. lukanda FICALHO.
+Figs on spurs up to 12 cm long and about 1.5–2 cm thick on the older branches and extending down the trunk; peduncle 1–3.5 cm long, about 3 mm thick, very minutely puberulent; basal bracts early caducous, leaving an oblique rim like a collar; receptacle globose to ellipsoid, 2–5 cm tall and 1.5–4 cm in diameter when dry, puberulent yellow to hirtellous, rather densely near the ± sunken ostiole, funnel-shaped; wall 2–5 mm thick when dry.
 
-2. Ce taxon n'est probablement distinct de F. sansibarica WARB. qu'au niveau spécifique.
-
-rulentes, caduques ou subpersistantes, les stipules des éperons courts veloutées jaunes.
-
-Figues sur des éperons longs jusqu'à 12 cm et épais de 1,5-2 cm environ sur les branches âgées et en descendant sur le tronc ; pédoncule long de 1-3,5 cm, épais de 3 mm environ, très petitement pubérulent ; bractées basales tôt caduques, laissant un bourrelet oblique comme un col ; réceptacle globuleux à ellipsoïde, haut de 2-5 cm et d'un diamètre de 1,5-4 cm sur le sec, pubérulent jaune à hirtelleux, plutôt densément auprès de l'ostiole ± enfoncé, en forme de fcntc ; paroi épaisse de 2-5 mm sur le sec.
-
-Fleurs pistillées avec 3 (-4) têpales, (sub) obtus, libres, fleurs à graines sessiles ou pédicellées jusqu'à 2 mm, style long de 2-3 mm ; fleurs à galles à pédicelle atteignant 7 mm, style long de 1,5-2 mm environ. Fruits ellipsoïdes, longs de 2 mm environ ; fruits à galles ellipsoïdes à obvoïdes, souvent courtement stipités, longs de 3 mm, fruits unicolores ; graines entourées par une couche mucilagineuse. Fleurs stamées non vues. Bractées interflorales longues de 2-3 mm, aiguës. - Pl. 60, fig. 5, p. 205.
+Pistillate flowers with 3 (–4) tepals, (sub)obtuse, free, seed-bearing flowers sessile or pedicelled up to 2 mm, style 2–3 mm long; gall flowers with pedicel reaching 7 mm, style about 1.5–2 mm long. Fruits ellipsoid, about 2 mm long; gall fruits ellipsoid to obovoid, often shortly stipitate, 3 mm long, fruits unicolorous; seeds surrounded by a mucilaginous layer. Staminate flowers not seen. Interfloral bracts 2–3 mm long, acute. — Pl. 60, fig. 5, p. 205.
 
 ## Type
 
@@ -43,11 +35,9 @@ Zenker 2369, Cameroun. Bipindi (holo-, B ; iso-, BM, BR, K, P, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+F. macrosperma can be distinguished from F. dryepondtiana only by the venation and often also by the shape and size of the blade. Otherwise they are similar, which suggests they may be forms of a single species. This possibility is corroborated by a tendency of the leaves of juvenile specimens of F. macrosperma towards a F. dryepondtiana-type venation.
 
-F. macrosperma peut être distingué de F. dryepondtiana juste par la nervation et souvent aussi par la forme et la taille du limbe. Par ailleurs, ils sont semblables, ce qui suggère qu'ils peuvent être des formes d'une seule espèce. Cette possibilité est corroborée par une tendance des feuilles des spécimens juvéniles de F. macrosperma à une nervation type F. dryepondtiana.
-
-L'espèce s'étend de la Sierra Leone à la Côte d'Ivoire et du Cameroun au Gabon, dans les forêts denses humides et les forêts submontagnardes d'altitude jusqu'à 1800 m.
+The species ranges from Sierra Leone to Côte d'Ivoire and from Cameroon to Gabon, in dense humid forests and submontane forests at altitudes up to 1800 m.
 
 ## Specimens examined
 

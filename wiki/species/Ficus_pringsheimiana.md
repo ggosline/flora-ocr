@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 234 (1911); HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 153 (1916).
 
 – F. winkleri MILDBR & BURRET, l.c.: 236 (1911); KEAY, FWTA, ed. 2, 1: 607 (1958).
@@ -31,17 +29,15 @@ Braun 142, Cameroun, s. loc. (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Epiphytic shrubs (lianescent) up to 4 m. Leafy branches 3–5 mm thick, glabrous, brown when dry, solid. Leaves arranged in spirals. Limb subobovate to oblong to elliptic, 7–16 (–27) cm long, 3.5–6.5 (–8) cm wide, coriaceous, apex ± abruptly acuminate, base acute to subobtuse, margin entire; both surfaces glabrous; veins almost plane above, ± prominent below; 6–8 (–9) pairs of lateral veins, the lower ones relatively small, lateral veins anastomosing in loops 2–4 mm from the limb margin; glandular patch rather inconspicuous. Petiole 1–2 cm long, ca. 2 mm thick, glabrous, periderm often detaching readily. Stipules basally connate, 1–2 (–2.5) cm long, glabrous, (sub)persistent.
 
-Arbustes épiphytes (lianescents) jusqu'à 4 m. Rameaux feuillés épais de 3-5 mm, glabres, marron sur le sec, pleins. Feuilles disposées en spirales. Limbe subobové à oblong à elliptique, long de 7-16 (-27) cm, large de 3,5-6,5 (-8) cm, coriace, sommet ± abruptement acuminé, base aiguë à subobtuse, bord entier ; les deux faces glabres ; nervures presque planes dessus, ± saillantes dessous ; 6-8 (-9) paires de nervures latérales, les inférieures relativement petites, nervures latérales s'anastomosant en boucle à 2-4 mm du bord du limbe ; tache glandulaire plutôt non visible. Pétiole long de 1-2 cm, épais de 2 mm environ, glabre, périderme souvent se détachant facilement. Stipules soudées basalement, longues de 1-2 (-2,5) cm, glabres, (sub) persistantes.
+Figs solitary or in pairs in leaf axils, sessile (or subsessile); basal bracts 2, broadly ovate, 3–3.5 mm long, (almost) glabrous; receptacle globose to obovoid, 1.5–3 cm in diameter when fresh, 1–2 cm when dry, sometimes broadly stipitate, glabrous, smooth or ± distinctly verrucose, yellow with reddish points or venation at maturity, wall (1–)2–7 mm thick when dry ± spongy, ostiole (sometimes very) prominent, bilabiate.
 
-Figues solitaires ou par paires dans les aisselles foliaires, sessiles (ou subsessiles); bractées basales 2, largement ovées, longues de 3-3,5 mm (presque) glabres ; réceptacle globuleux à obovoïde, d'un diamètre de 1,5-3 cm sur le frais, de 1-2 cm sur le sec, parfois largement stipité, glabre, lisse ou ± prononcé verruqueux, jaune avec des points ou une nervation rougeâtre à maturité, paroi épaisse de (1-) 2-7 mm sur le sec ± spongieuse, ostiole (parfois très) saillant, bilabié.
+Pistillate flowers with 3 (–4) ± unequal tepals, 1–2 mm long, free; seed flowers (sub)sessile, style 1.5–2 mm long; gall flowers subsessile to pedicellate up to 2 mm, style 1–2.5 mm long. Fruits oblong, ca. 2 mm long, upper outer layer mucilaginous; gall fruits obovoid, often slightly stipitate, 2–2.5 mm long; fruits distinctly bicolored. Staminate flowers, distinct, pedicellate up to 1.5 mm, perianth with 2 (–3) unequal tepals, 0.5–1.5 mm long, acute, free; filament 0.3–1 mm long, anther ca. 1–1.2 mm long, apiculate or not. Interflorals bracts 1.5–2 mm long. - Pl. 68, p. 227.
 
-Fleurs pistillées avec 3 (-4) tépales ± inégaux, longs de 1-2 mm, libres ; fleurs à graines (sub) sessiles, style long de 1,5-2 mm ; fleurs à galles subsessiles ou pédicellées jusqu'à 2 mm, style long de 1-2,5 mm. Fruits oblongoïdes, longs de 2 mm environ, couche externe de la partie supérieure mucilagineuse ; fruits à galles obovoïdes, souvent un peu stipés, longs de 2-2,5 mm ; fruits distinctement bicolores. Fleurs staminiées, distinctes, pédicellées jusqu'à 1,5 mm, périanthe avec 2 (-3) tépales inégaux, longs de 0,5-1,5 mm, aigus, libres ; filet long de 0,3-1 mm, anthère longue de 1-1,2 mm environ, apiculée ou non. Bractées interflorales longues de 1,5-2 mm. - Pl. 68, p. 227.
+F. pringsheimiana cannot be distinguished by its figs from F. conraui, nor often from F. camptoneura. It can be distinguished from F. conraui by the number of lateral veins and by the thinner petiole whose periderm detaches readily on dried material, and from F. camptoneura by the number of lateral veins and often also by the shape of the limb. In its vegetative parts, F. pringsheimiana is often (almost) similar to F. cyathistipula. Except for the presence of a peduncle in the latter, the figs can be similar. This suggests that F. pringsheimiana could be a form of F. cyathistipula with sessile figs.
 
-F. pringsheimiana ne peut être distingué par les figues de F. conraui, ni souvent de F. camptoneura. Il peut l'être de F. conraui par le nombre de nervures latérales et par le pétiole plus mince dont le périderme se détache facilement sur le matériel sec et de F. camptoneura par le nombre de nervures latérales et souvent aussi par la forme du limbe. Par ses parties végétatives, F. pringsheimiana est souvent (presque) semblable à F. cyathistipula. Excepté la présence d'un pédonculé pour cette dernière, les figues peuvent être semblables. Cela suggère que F. pringsheimiana pourrait être une forme de F. cyathistipula avec des figues sessiles.
-
-L'espèce s'étend de la Sierra Leone jusqu'au Zaïre à travers le Gabon ; souvent dans les forêts ripicoles (périodiquement inondées ou marécageuses), trouvée jusqu'à une altitude de 700 m.
+The species extends from Sierra Leone to Zaïre across Gabon; often in riparian forests (periodically flooded or swampy), found up to an altitude of 700 m.
 
 ## Specimens examined
 

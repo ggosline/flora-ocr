@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. trillesiana PIERRE ms.
 
-Liane à tige côtelée, ⊥ torsadée, éparsement pubescente ou glabre. Pétiole côtelé longitudinalement, éparsement pubescent dessus, long de 2-9 cm. Limbe glabre sur les deux faces ou éparsement pubescent à la face inférieure, vert jaunâtre ou vert grisâtre sur les deux côtés à l'état sec, vert clair à l'état frais, largement elliptique à oblancéolé, 9-24 × 5,5-12 cm; base du limbe atténuée ou cunéiforme; sommet acuminé ou aigu. Nervure médiane peu ou pas saillante, très éparsement pubescente dessus, saillante et très éparsement pubescente dessous. Nervures secondaires 8-9 paires, ascendantes, arquées, s'anastomosant à 1-5 mm du bord du limbe, saillantes et éparsement pubescentes à la face inférieure. Nervilles en réseau lâche, saillant sur les deux faces.
+Liane with ridged, ⊥ twisted stem, sparsely pubescent or glabrous. Petiole longitudinally ridged, sparsely pubescent above, 2–9 cm long. Blade glabrous on both faces or sparsely pubescent on the lower face, yellowish-green or greyish-green on both sides when dry, bright green when fresh, broadly elliptic to oblanceolate, 9–24 × 5.5–12 cm; base of blade attenuate or cuneiform; apex acuminate or acute. Midvein slightly or not prominent, very sparsely pubescent above, prominent and very sparsely pubescent below. Secondary veins 8–9 pairs, ascending, arched, anastomosing 1–5 mm from the blade margin, prominent and sparsely pubescent on the lower face. Tertiary veins in a loose network, prominent on both faces.
 
-Inflorescence ♂ en épixaxillaire multiflore, long de 3-8 cm. Rachis
+Male inflorescence epaxillary, multiflowered, 3–8 cm long. Rachis reddish-brown pubescent. Male and female flowers tetramerous, sessile. Petals of male flowers almost entirely free except at the base, pubescent externally, glabrous internally, elliptic or lanceolate, 1.8 mm long. Stamens free, 1.8 mm long; filament slender; anther medifixed with 2 ellipsoid locules. Pistillode reduced to a tuft of hairs ± fused together. Petals of female flowers similar to those of male flowers. Staminodes free, alternipetalous. Ovary superior; apex cupular pubescent (pubescence reflected toward the base of the pistil); style broad and pubescent surrounded by the apex of the ovary, terminating in a digitate platelet stigma 8–10 mm in diameter.
 
-pubescent roux. Fleurs ♂ et ♀ tétramères, sessiles. Pétales des fleurs ♂ presque entièrement libres sauf à la base, pubescents extérieurement, glabres intérieurement, elliptiques ou blancéolés, longs de 1,8 mm. Étamines libres, longues de 1,8 mm; filet grêle; anthère médifxe à 2 loges ellipsoïdes. Pistillode réduit à une touffe de poils ± soudés entre eux. Pétales des fleurs ♀ semblables à ceux des fleurs ♂. Staminodes libres alternipétales. Ovaire supère; sommet cupulaire pubescent (pubescence réfléchie vers la base du pistil); style large et pubescent entouré par le sommet de l'ovaire, se terminant par un stigmate en plateau digité de 8-10 mm de diamètre.
-
-Infrutescence en épi atteignant 25 cm de longueur. Drupe ellipsoïde aplatie transversalement avec 2 côtes latérales,  $ 3.5 \times 1.2 \times 0.8 $ cm, rouge brique à l'état frais. Sommet de l'ovaire entourant complètement le sommet de la drupe, formant une calotte fortement côtelée se terminant brusquement en long tubule renflé au sommet long de 3 cm, pubescent-échinulé sur les deux faces (poils courts rigides dirigés vers la base du fruit). Partie libre de la drupe pubescente échinulée. Reste du style pubescent à poils dressés. Pointes obtuses et lames à la face interne de l'endocarpe ligneux. Pt. 23, p. 91.
+Fruit-bearing spike reaching 25 cm in length. Drupe ellipsoid, flattened transversely with 2 lateral ribs, 3.5 × 1.2 × 0.8 cm, brick-red when fresh. Apex of the ovary completely surrounding the apex of the drupe, forming a strongly ridged cap terminating abruptly in a long tubule inflated at the apex 3 cm long, pubescent-echinulate on both faces (short rigid hairs directed toward the base of the fruit). Free part of the drupe pubescent-echinulate. Remainder of style pubescent with erect hairs. Blunt points and blades on the inner face of the woody endocarp. Pt. 23, p. 91.
 
 ## Type
 
@@ -35,9 +31,7 @@ Klaine 1571, Gabon (P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que du Gabon.
+This species is known only from Gabon.
 
 ## Vernacular names
 
@@ -45,9 +39,7 @@ tsanguzik
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les fruits, au goût acidulé, sont comestibles. Les feuilles dégagent une odeur désagréable et peuvent provoquer des vomissements
+The fruits, with a pleasantly acidic taste, are edible. The leaves emit a disagreeable odour and may cause vomiting.
 
 ## Specimens examined
 

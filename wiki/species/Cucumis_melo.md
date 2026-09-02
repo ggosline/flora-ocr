@@ -18,23 +18,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 17.1-2; Figure 2(C)
 
-Planche 17.1-2; Figure 2(C)
-
-Herbe monoïque, grimpante ou rampante, à pousses hispides ou glabrescentes, tige atteignant une longueur de 1–3 m. Vrilles simples. Feuille: pétiole atteignant 10 cm, à poils scabres; limbe ovale à suborbiculaire ou réniforme, entier ou parfois 3(−7)-palmatilobé, à base cordé, avec le lobe central 1 à 2 fois aussi long que les latéraux, à poils scabres. Inflorescence: la mâle à fleurs solitaires ou jusqu'à quatre en fascicule; la femelle à fleurs solitaires ou par deux. Fleur mâle: pédicelle 0,5–2,5 cm; réceptacle à tube long de 6–8 mm, à lobes linéaires-lancéolés, atteignant 3 mm de longueur; pétales 5–20 × 3–8 mm; étanines subses-siles, anthère longue de 3–4 mm, à loges tripiquées. Fleur femelle: pédicelle 2–5 cm; ovaire ovoïde-oblong, densément pubescent. Fruit ellipsoïdal à subglobuleux, long de plus de 10 cm, de 8–20 cm de diamètre, arrondi à la base et au sommet, lisse, verdâtre ou jaune, à pulpe importante, à nombreuses graines. Graine 10–12 × 5–7 × 1–1,5 mm, blanchâtre.
+Monoecious herb, climbing or creeping, with hispid or glabrescent shoots, stem reaching a length of 1–3 m. Tendrils simple. Leaf: petiole reaching 10 cm, with scabrous hairs; blade ovate to suborbicular or reniform, entire or sometimes 3(−7)-palmatilobed, cordate at base, with the central lobe 1 to 2 times as long as the lateral ones, with scabrous hairs. Inflorescence: the male with solitary flowers or up to four in fascicles; the female with solitary flowers or in pairs. Male flower: pedicel 0.5–2.5 cm; receptacle with tube 6–8 mm long, with linear-lanceolate lobes, reaching 3 mm in length; petals 5–20 × 3–8 mm; stamens subsessile, anther 3–4 mm long, with tripinnate locules. Female flower: pedicel 2–5 cm; ovary ovoid-oblong, densely pubescent. Fruit ellipsoid to subglobose, more than 10 cm long, 8–20 cm in diameter, rounded at base and apex, smooth, greenish or yellow, with copious flesh, with numerous seeds. Seed 10–12 × 5–7 × 1–1.5 mm, whitish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-d'origine asiatique, où il pousse dans les habitats de savane, aujourd'hui cultivé dans le monde entier ; au Gabon, largement cultivé et parfois échappé
+of Asian origin, where it grows in savanna habitats, today cultivated throughout the world; in Gabon, widely cultivated and sometimes escaped
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-à l'état sauvage présent dans les savanes boisées, particulièrement le long des rivières et comme adventice dans les champs et les terrains vagues ; jusqu'à 1200 m d'altitude
+in the wild state present in wooded savannas, particularly along rivers and as an adventive in fields and waste ground; up to 1200 m altitude
 
 ## Vernacular names
 
@@ -42,11 +36,9 @@ melon (fr.); melon (angl.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Usage: The ripe fruits of sweet melon cultivars are generally consumed raw for their juicy and sweet flesh. The fruits can be used as a light refreshing or moisturizing cleanser for the skin, as well as a first-aid treatment for burns. The flowers are expectorant and
 
-Usage: Les fruits mûrs des cultivars de melon doux se consomment généralement crus pour leur pulpe juteuse et sucrée. Les fruits peuvent être utilisés comme nettoyant léger rafraîchissant ou hydratant pour la peau, ainsi que comme traitement de premiers soins pour les brûlures. Les fleurs sont expectorantes et
-
-émétiques. Les graines sont antitussives, digestives, fébrifuges et vermifuges. La racine est diurétique et émétique. Les feuilles sont utilisées pour traiter les hernies scrotales.
+emetic. The seeds are antitussive, digestive, febrifuge and vermifuge. The root is diuretic and emetic. The leaves are used to treat scrotal hernias.
 
 subsp. meloides Endl & H. Schaefer.
 
@@ -72,21 +64,19 @@ Endl et al. (2018), Jeffrey (1967), Keraudren (1967), Keraudren-Aymonin (1975), 
 
 **Pages**: 64-64 · **Source**: `sources/Cucurbitaceae_vol57_paddle`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe monoïque, grimpante ou rampante, atteignant une longueur de 1 à 3 m, à pousses hispides. Vrilles simples. Feuille: pétiole atteignant 10 cm, à poils scabreux; limbe ovale, cordé à la base, généralement 3(-5)-palmatilobé, à lobe central 2 à 3 fois aussi long que les latéraux, à poils scabres. Inflorescence: la mâle à fleurs solitaires ou en fascicules de jusqu'à 4 ; la femelle à fleur solitaire. Fleur mâle: pédicelle atteignant 2,5 cm; réceptacle à tube long de 3–6 mm, à lobes très étroitement elliptiques-ovales, jusqu'à 6 mm de longueur; pétales de 5–10 × 3–8 mm; étimaines subsessiles, anthère longue de 3–4 mm, à loges tripiquées. Fleur femelle: pédicelle atteignant 5 cm; ovaire elliptique, densément pubescent. Fruit sur pédicelle de jusqu'à 5–6 cm, ovoïde, 3–5 × 2–3 cm, lisse, vert clair avec des points ou des rayures vert foncé; chair vert clair, très fine, moyennement à fortement amère; placentas 3, pas de cavité entre eux. Graine elliptique, comprimée, 5–8 × 2,5–4 × 1 mm, pâle, dans une pulpe gélatineuse.
+Monoecious herb, climbing or creeping, reaching a length of 1 to 3 m, with hispid shoots. Tendrils simple. Leaf: petiole reaching 10 cm, with scabrous hairs; blade ovate, cordate at base, usually 3(−5)-palmatilobed, with central lobe 2 to 3 times as long as the lateral ones, with scabrous hairs. Inflorescence: the male with solitary flowers or in fascicles of up to 4; the female with solitary flower. Male flower: pedicel reaching 2.5 cm; receptacle with tube 3–6 mm long, with very narrowly elliptic-ovate lobes, up to 6 mm in length; petals 5–10 × 3–8 mm; stamens subsessile, anther 3–4 mm long, with tripinnate locules. Female flower: pedicel reaching 5 cm; ovary elliptic, densely pubescent. Fruit on pedicel of up to 5–6 cm, ovoid, 3–5 × 2–3 cm, smooth, light green with spots or dark green stripes; flesh light green, very fine, moderately to strongly bitter; placentas 3, no cavity between them. Seed elliptic, compressed, 5–8 × 2.5–4 × 1 mm, pale, in a gelatinous pulp.
 
 ### Distribution
 
-natif d'Afrique tropicale, du Cap-Vert au Soudan ; distribution au Gabon inconnue
+native to tropical Africa, from Cape Verde to Sudan; distribution in Gabon unknown
 
 ### Ecology
 
-dans des zones de savane sèche; en dessous de 100 m d'altitude
+in areas of dry savanna; below 100 m altitude
 
 ### Source note
 
-La taxonomie complexe de Cucumis melo est détaillée dans Endl et al. (2018)
+The complex taxonomy of Cucumis melo is detailed in Endl et al. (2018)
 
 ### Bibliography
 

@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in OLIV., FTA 2 : 493 (1871) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 51 (1893) ; GILG, EBJ 40 : 509 (1908) ; SLEUMER, BJBB 41 : 400 (1971). TYPE : Barter 322, Nigeria (holo-).
 
-– C. zenkeri GILG, EBJ 40 : 512 (1908). TYPE : Zenker 2028, Cameroun (holo-, B, delet. ; lecto-, choisi ici, P! ; isolecto-, B fragm. ex GOET, BM, HBG, K, L, M, WZ).
+– C. zenkeri GILG, EBJ 40 : 512 (1908). TYPE : Zenker 2028, Cameroon (holo-, B, delet. ; lecto-, chosen here, P! ; isolecto-, B fragm. ex GOET, BM, HBG, K, L, M, WZ).
 
-Arbre (10-15-(20) m de haut) ou arbuste ; jeunes rameaux pubescents à tomenteux, parfois glabrescents.
+Tree (10-15-(20) m tall) or shrub; young branches pubescent to tomentose, sometimes glabrescent.
 
-Feuilles à pétiole de 5-10 mm de long ; limbe ovale-oblong à oblong, inéquilateral et cunée à arrondi à la base, brièvement acuminé au sommet,  $ 10-20 \times 3-5 \, cm $, ± denté ou entier, subcoriace, densément velu sur la face inférieure ; nervures secondaires 12-16 paires.
+Leaves with petiole 5-10 mm long; blade ovate-oblong to oblong, inequilateral and cuneate to rounded at the base, shortly acuminate at the apex, $ 10-20 \times 3-5 \, cm $, ± dentate or entire, subcoriaceous, densely pilose on the lower surface; secondary veins 12-16 pairs.
 
-Fleurs ¥, en fascicules axillaires, multiflores, à pédoncule assez épais, de 1-4 mm de long ; pédicelle de 2-3 mm de long, pubescent ; sépales 4, ovales-acuminés, 2-3 × 1-1,5 mm, pubescents ; lobes du disque aplatis et velus ; étamines 8, à filet de 1,5 mm de long, glabre ; ovaire légèrement pubescent vers le haut, à 2 placentas pluriovulés.
+Flowers ¥, in axillary fascicles, multiflorous, with rather thick peduncle, 1-4 mm long; pedicel 2-3 mm long, pubescent; sepals 4, ovate-acuminate, 2-3 × 1-1.5 mm, pubescent; disk lobes flattened and pilose; stamens 8, with filament 1.5 mm long, glabrous; ovary slightly pubescent toward the apex, with 2 placentas pluriovulate.
 
-Fruits : capsules ellipsoïdales ou subovoïdes, (10)-15-18 × 10-15 mm, glabres, groupées par 2-5 sur le pédoncule axillaire. - Pl. 5, 1-6, p. 21.
+Fruits: ellipsoid or subovoïd capsules, (10)-15-18 × 10-15 mm, glabrous, grouped by 2-5 on the axillary peduncle. - Pl. 5, 1-6, p. 21.
 
 ## Type
 
@@ -36,15 +34,11 @@ Barter 322, Nigeria, Aba (holo-, K)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Nigeria, Cameroun, Gabon, RCA, Zaïre
+Côte d'Ivoire, Nigeria, Cameroon, Gabon, CAR, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts primaires et secondaires, marécageuses, parfois en zone inondée, bord des rivières
+Primary and secondary forests, swampy, sometimes in flooded area, river margins
 
 ## Specimens examined
 

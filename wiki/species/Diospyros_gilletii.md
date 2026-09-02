@@ -47,7 +47,7 @@ This species occurs in Cameroon, the Central African Republic, both Congos, and 
 
 ### Material studied in Cameroon
 
-Breteler I436,bordure de la Sanaga pres Ebaka,6o km NW Bertoua (fl. β,mai)(+ j.fr.,méme numéro?WAG)；1762,bordure du Nyonga 4o km SE Yaoundé (fr.aout)；2oo3,eod. loc. (fr.,nov.) (+ j.pl.cult.,WAG); 2206,bordure de la riviere Ndo pres Yoko-Betugu sur la route de Ndemba II a 3o km N Bertoua (fr.,déc.). De Wilde W. 18g2,5 km S Mbalmayo，pres du Nyong (fl.δ,févr.）WAG; 2029,15 km S Ebolowa (fl.δ,mars) WAG. Letouzey 3i5,bordure du Nyong en amont du bac de Nkolmaka pres de la route Mbalmayo-Akonolinga (fl.δ,avr.)；3767，bordure du Dja，entre rivieres Ntouo et Meu,6o km S Abong Mbang (fl.δ,avr.)；45o8,bordure du Nyong pres Mbeuga,entre Ayos et Akonolinga (fl.,mars)；10085, bordure riviere Mboua pres Minkoumou，4o km SE Mvangan,Ebolowa (ster.). Mildbraed 7747,entre Ebolowa et Yaoundé (fl., janv.) K.
+Breteler I436,bordure de la Sanaga pres Ebaka,6o km NW Bertoua (fl. β,mai)(+ j.fr.,méme numéro?WAG);1762,bordure du Nyonga 4o km SE Yaoundé (fr.aout);2oo3,eod. loc. (fr.,nov.) (+ j.pl.cult.,WAG); 2206,bordure de la riviere Ndo pres Yoko-Betugu sur la route de Ndemba II a 3o km N Bertoua (fr.,déc.). De Wilde W. 18g2,5 km S Mbalmayo,pres du Nyong (fl.δ,févr.)WAG; 2029,15 km S Ebolowa (fl.δ,mars) WAG. Letouzey 3i5,bordure du Nyong en amont du bac de Nkolmaka pres de la route Mbalmayo-Akonolinga (fl.δ,avr.);3767,bordure du Dja,entre rivieres Ntouo et Meu,6o km S Abong Mbang (fl.δ,avr.);45o8,bordure du Nyong pres Mbeuga,entre Ayos et Akonolinga (fl.,mars);10085, bordure riviere Mboua pres Minkoumou,4o km SE Mvangan,Ebolowa (ster.). Mildbraed 7747,entre Ebolowa et Yaoundé (fl., janv.) K.
 
 ### Material studied in Gabon
 
@@ -55,7 +55,7 @@ Hallé N.3g6g,bordure de PIvindo pres Belinga (j. fr., juin).
 
 Le Testu 9548,Acourenzorc, 2o km WNW Minvoul (fl. ♀,avr.).
 
-Thollon go,sin.loc.(Gabon?) (stér.)； s.n.,sin.loc.(Gabon?)(fr.).
+Thollon go,sin.loc.(Gabon?) (stér.); s.n.,sin.loc.(Gabon?)(fr.).
 
 ## Figures
 

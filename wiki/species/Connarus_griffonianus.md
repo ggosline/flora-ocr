@@ -17,53 +17,49 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-SCHELLENBERG, PR 103 (4, 127) : 269 (1938) ; EXELL, Cat. Vasc. Pl. Sao Tomé : 151 (1944) ; TROUPIN, FCBR 3 : 132 (1952) ; HEPPER, FWTA, ed. 2, 1 (2) : 748 (1958) ; LIBERATO, Fl. Sao Tomé e Principe : 14 (1980) ; LEMMENS, in BRETELER (éd.), AUWP 89 (6) : 252, fig. 120-121 (1989). TYPE : Gabon, Griffon du Bellay 183 (lecto-P).
+SCHELLENBERG, PR 103 (4, 127) : 269 (1938) ; EXELL, Cat. Vasc. Pl. Sao Tomé : 151 (1944) ; TROUPIN, FCBR 3 : 132 (1952) ; HEPPER, FWTA, ed. 2, 1 (2) : 748 (1958) ; LIBERATO, Fl. Sao Tomé e Principe : 14 (1980) ; LEMMENS, in BRETELER (ed.), AUWP 89 (6) : 252, fig. 120-121 (1989). TYPE : Gabon, Griffon du Bellay 183 (lecto-P).
 
 – C. subsericeus SCHELLENB., EBJ 58: 227 (1923); PR 103 (4, 127): 272 (1938); EXELL & MENDONÇA, CFA 2: 154 (1954). TYPE: Angola, Pungo Andongo, Mechow 87 (lecto-B dele).; lecto-BR; iso-Z).
 
 – C. griffonianus Baill. var. subsericeus (Schellenberg) Troupin, FCBR 3: 134 (1952).
 
-– C. englerianus GILG, EBJ 14: 316 (1891); SCHELLENBERG, PR 103 (4, 127): 272 (1938); TROUPIN, L.C.: 134 (1952). TYPE: Zaïre, distr. Kasaï, Mukenge, Pogge 752 (holo-B delet.). NÉOTYPE: Zaïre, Kakenge, Bakuba, Gillardin 273 (BR).
+– C. englerianus GILG, EBJ 14: 316 (1891); SCHELLENBERG, PR 103 (4, 127): 272 (1938); TROUPIN, L.C.: 134 (1952). TYPE: Zaïre, distr. Kasaï, Mukenge, Pogge 752 (holo-B delet.). NEOTYPE: Zaïre, Kakenge, Bakuba, Gillardin 273 (BR).
 
-- C. luluensis GILG, Notizbl. Bot. Gart. Berlin 2: 64 (1895). TYPE: Zaïre, Kasaï, riv. Lulua, Pogge 741 (holo-B delet.). NÉOTYPE: Zaïre, Kazumba, riv. Miao, Liben 3422 (BR).
+- C. luluensis GILG, Notizbl. Bot. Gart. Berlin 2: 64 (1895). TYPE: Zaïre, Kasaï, riv. Lulua, Pogge 741 (holo-B delet.). NEOTYPE: Zaïre, Kazumba, riv. Miao, Liben 3422 (BR).
 
-- C. florulentus HiERN, Catalogue of the african plants collected by Welwitsch in 1835-1861: 189 (1896). TYPE: Angola, Pungo Adongo, Welwitsch 614 (lecto-BM; iso-K).
+- C. florulentus HIERN, Catalogue of the african plants collected by Welwitsch in 1835-1861: 189 (1896). TYPE: Angola, Pungo Adongo, Welwitsch 614 (lecto-BM; iso-K).
 
-– C. villosiflorus GILG, EBJ 23 : 209 (1896) ; SCHELLENBERG, PR 103 (4, 127) : 272 (1938). TYPE : Cameroun, Yaoundé, Zenker 92 (holo-B delet.). NÉOTYPE : Cameroun, Bipindi, Zenker 2878 (B, BR, E, G, GOET, K, L, M, MO, WAG, Z).
+– C. villosiflorus GILG, EBJ 23 : 209 (1896) ; SCHELLENBERG, PR 103 (4, 127) : 272 (1938). TYPE : Cameroon, Yaoundé, Zenker 92 (holo-B delet.). NEOTYPE : Cameroon, Bipindi, Zenker 2878 (B, BR, E, G, GOET, K, L, M, MO, WAG, Z).
 
 - C. sapinii DE WILD., Ann. Mus. Congo sér. Bot., 5 (3) : 89 (1909). TYPE : Zaïre, Madibi, Sapin s.n. (holo-BR).
 
-– C. macrothyrsus GILG ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50 : 19 (1910) ; homotypique de Manotes staudtii GILG, Notizbl. Bot. Gart. Berlin 2 : 71 (1895). TYPE : Cameroun, Yaoundé, Zenker & Staudt 122 (holo-B delet. ; lecto-K ; iso-BM).
+– C. macrothyrsus GILG ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50 : 19 (1910) ; homotypic with Manotes staudtii GILG, Notizbl. Bot. Gart. Berlin 2 : 71 (1895). TYPE : Cameroon, Yaoundé, Zenker & Staudt 122 (holo-B delet. ; lecto-K ; iso-BM).
 
-– C. incurvatus SCHELLENB., EBJ 58 : 228 (1923) ; PR 103 (4,127) : 273 (1938). TYPE : Centrafrique, Boro, Chevalier 7688 (holo-B delet. ; lecto-P).
+– C. incurvatus SCHELLENB., EBJ 58 : 228 (1923) ; PR 103 (4,127) : 273 (1938). TYPE : Central African Republic, Boro, Chevalier 7688 (holo-B delet. ; lecto-P).
 
-- C. obovatus SCHELLENB., l.c.: 229 (1923); l.c.: 273 (1938). TYPE : Centrafrique, pays Bondjo, Chevalier 6033 bis (holo-B delet.; lecto-P).
+- C. obovatus SCHELLENB., l.c.: 229 (1923); l.c.: 273 (1938). TYPE : Central African Republic, country Bondjo, Chevalier 6033 bis (holo-B delet.; lecto-P).
 
-– C. orientalis SCHELLENB., l.c. : 229 (1923); l.c. : 273 (1938); TROUPIN, FCBR 3 : 135 (1952). TYPE : Zaïre, Mawambi-Kasanga, Mildbraed 3085 (holo-B delet.). NÉOTYPE : Zaïre, 7 km O. de Kisangani, Bokdam 3199 (WAG).
+– C. orientalis SCHELLENB., l.c. : 229 (1923); l.c. : 273 (1938); TROUPIN, FCBR 3 : 135 (1952). TYPE : Zaïre, Mawambi-Kasanga, Mildbraed 3085 (holo-B delet.). NEOTYPE : Zaïre, 7 km W. of Kisangani, Bokdam 3199 (WAG).
 
-- C. puberulus SCHELLENB., l.c.: 226 (1923); l.c.: 271 (1938). TYPE : Cameroun, Tibati, Ledermann 2324 (lecto-B delet.). NÉOTYPE : Cameroun, Yaoundé-Dendeng, Mildbraed 8341 (K).
+- C. puberulus SCHELLENB., l.c.: 226 (1923); l.c.: 271 (1938). TYPE : Cameroon, Tibati, Ledermann 2324 (lecto-B delet.). NEOTYPE : Cameroon, Yaoundé-Dendeng, Mildbraed 8341 (K).
 
-– C. triangularis SCHELLENBERG, l.c.: 226 (1923); l.c.: 271 (1938). TYPE: Cameroun, distr. Lomie, Assobam, riv. Bunda, Mildbraed 5064 (holo-B delet.). NEOTYPE: Cameroun, 14 km O.S.O. de Kinsassa, 65 km N.N.E. de Moloundou, Letouzey & Villiers 10513 (BR, P).
+– C. triangularis SCHELLENBERG, l.c.: 226 (1923); l.c.: 271 (1938). TYPE: Cameroon, distr. Lomie, Assobam, riv. Bunda, Mildbraed 5064 (holo-B delet.). NEOTYPE: Cameroon, 14 km W.S.W. of Kinsassa, 65 km N.N.E. of Moloundou, Letouzey & Villiers 10513 (BR, P).
 
 – C. fernandesianus EXELL & MENDONÇA, Bol. Soc. Brot. 56 : 234, fig. 14 (1952) ; EXELL & MENDONÇA, CFA 2 : 154, fig. 34 (1954). TYPE : Angola, Lunda, Vila Henrique de Carvalho, Exell & Mendonça 935 (holo-COI ; iso-BM, BR).
 
 - Manotes staudtii GILG (cf. C. macrothyrsus).
 
-Liane ou arbuste lianescent. Rameaux cylindriques souvent avec de vagues cannelures longitudinales, lenticellés, jeunes rameaux avec pubescence brune et dense puis glabrescents.
+Climber or scandent shrub. Branches cylindrical often with faint longitudinal grooves, lenticellate, young branches with dense brown pubescence then glabrescens.
 
-Feuilles (2)-3-5-juguées ; pétiole long de (3)-5-12 cm et rachis long de 4-16 cm, pubescence brune au début. Folioles papyracées à coriaces, les latérales opposées ou non, (étroitement) elliptiques ou (étroitement) obvées, 5-22 × 2-7 cm, arrondies ou cunées à la base, la foliole terminale étroitement elliptique ou étroitement obvée, 9-21 × 3-8 cm, ± cunée à la base ; toutes les folioles sont acuminées, glabres dessus, alors que dessous portant des poils bruns denses à glabre ; médiane imprimée dessus et proéminente dessous ; nervures latérales,
+Leaves (2)-3-5-jugate ; petiole 0.3)-5-12 cm long and rachis 4-16 cm long, brown pubescence initially. Leaflets papyraceous to coriaceous, the lateral ones opposite or not, (narrowly) elliptic or (narrowly) obovate, 5-22 × 2-7 cm, rounded or cuneate at the base, the terminal leaflet narrowly elliptic or narrowly obovate, 9-21 × 3-8 cm, ± cuneate at the base ; all leaflets acuminate, glabrous above, bearing dense brown hairs to glabrous beneath ; midvein impressed above and prominent below ; lateral nerves, (5-)6-12 pairs ; venation III reticulate, distinct below, generally indistinct above ; petiolules 4-7 mm long, often wrinkled, pubescent or glabrous.
 
-(5-)6-12 paires ; nervation III réticulée, nette dessous, en général indistincte dessus ; pétioïlues longs de 4-7 mm, souvent ridés, pubescents ou glabres.
+Inflorescences in panicles ≤35 cm long, ≤50-flowered, dense brown pubescence. Reduced leaves at the base of inflorescences, linear, ≤13 mm long, more rarely small ovate, bracts ovate, ≈1 mm long. Pedicels very short, articulate 0-1.5 mm below the calyx, brown pubescence.
 
-Inflorescences en panicule long de ≤35 cm, ≤≈ 50-flore, pubescence brune dense. Feuilles réduites de la base des inflorescences, linéaires, longues de ≤13 mm, plus rarement ovées et petites, bractées ovées, longues de ≈ 1 mm. Pédicelles très courts, articulés à 0-1,5 mm au-dessous du calice, pubescence brune.
+Flowers. Sepals often fairly distinctly arranged in spiral, valvate in prefloration, triangular to ovate, somewhat fleshy, (1.7-)2-2.5-(3) × 0.7-1.2 mm, acute or obtuse at the apex, ± convex, external brown pubescence, interior glabrous, punctate with ≤15 glands and ≤3-nerved. Petals free, imbricate in prefloration, narrowly elliptic to narrowly obovate, 4.5-6.5 × 1-1.5 mm, cuneate at the base, obtuse or rounded at the apex, dense external pubescence, interior with few glandular hairs or sometimes glabrous, generally punctate with glands near the apex, indistinctly ≤5-nerved. Stamens 0.5-1 mm, united at the base; long stamens 2-3 mm or 4.2-6 mm, filaments most often with stipitate glands, anthers 0.3 × 0.2 mm, generally without glands; short stamens 1-1.7 mm, rudimentary and sterile with slender filaments and very small anthers, exceptionally apparently fertile, without glands. Pistil 2.1-2.8 mm or 4.2-6 mm long ; ovary 1-1.5 mm long, brown pubescence ; style pubescent at the base and with stipitate glands ; stigmas oblique, ± 2-lobed.
 
-Fleurs. Sépales souvent assez nettement disposés en spiral, en pré-floraison valvaire, triangulaires à ovés, un peu charnus, (1,7-)-2-2,5-(3)-× 0,7-1,2 mm, aigus ou obtus au sommet, ± convexes, pubescence externe brune, intérieur glabre, ponctués de ≤15 glandes et ≤3-nervés. Pétales libres, en préfloraison imbriquée, étroitement elliptiques à étroitement obvés, 4,5-6,5 × 1-1,5 mm, cunés à la base, obtus ou arrondis au sommet, pubescence externe dense, intérieur avec quelques poils glanduleux ou parfois glabre, en général ponctués de glandes près du sommet, indistinctement ≤5-nervés. Étamines, 0,5-1 mm, unies à la base; étamines longues ayant 2-3 mm ou 4,2-6 mm, filets le plus souvent avec glandes stipitées, anthères 0,3 × 0,2 mm, en général sans glandes; étamines courtes ayant 1-1,7 mm, rudimentaires et stériles avec des filets grêles et de très petites anthères, exceptionnellement apparemment fertiles, sans glandes. Pistil long de 2,1-2,8 mm ou 4,2-6 mm ; ovaire long de 1-1,5 mm, pubescence brune ; style pubescent à la base et avec des glandes stipitées ; stigmates obliques, ± 2-lobés.
+Fruit : oblique-pyriform follicle, compressed, $ 1.5-2.5 \times 1.3-1.8 $ cm, stipe 2-4 mm long, apex with a lateral mucro 1 mm long ; pericarp thin, surface with brown pubescence but often glabrescens, interior with few hairs and numerous glands.
 
-Fruit : follicule oblique-piriforme, comprimé,  $ 1,5-2,5 \times 1,3-1,8 $ cm, stipe long de 2-4 mm, sommet muni d'un mucron latéral long de 1 mm ; péricarpe mince, surface avec pubescence brune mais souvent glabrescente, intérieur avec quelques poils et de nombreuses glandes.
-
-Graine (étroitement) ovoïde,  $ 10-15 \times 4-7 \times 4-6 $ mm, sarcotesta long de 5-7 mm enveloppant la partie basale de la graine seulement du côté ventral ; radicule apicale. – Pl. 23, p. 77.
+Seed (narrowly) ovoid, $ 10-15 \times 4-7 \times 4-6 $ mm, sarcotesta 5-7 mm long enveloping the basal part of the seed only on the ventral side ; radical apical. – Pl. 23, p. 77.
 
 ## Type
 
@@ -73,21 +69,17 @@ Watkins 532, R. F. Minziro, Bukoba, Tanzanie
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Central African Republic, from Nigeria to East Zaïre and southward, to North Angola
 
-Centrafrique, du Nigéria à l'Est du Zaïre et vers le Sud, au Nord de l'Angola
-
-Est du Zaïre, Burundi, Kenya, Nord de la Tanzanie ; une seule récolte au Nigéria, deux au Cameroun, une au N.O. du Zaïre et une au Nord de l'Angola
+East Zaïre, Burundi, Kenya, North Tanzania ; single collection from Nigeria, two from Cameroon, one from N.W. Zaïre and one from North Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ombrophilous forests. Flowering in Gabon mainly from September to March
 
-forêts ombrophiles. Floraison au Gabon surtout de Septembre à Mars
+Generally in montane or submontane forest above 1,000 m but sometimes at low altitude. Sometimes in savanna woodlands
 
-Généralement en forêt montagnarde ou submontagnarde au-dessus de 1 000 m mais parfois à faible altitude. Parfois dans les bosquets de savane
-
-Cette espèce n'a pas encore été récoltée au Gabon. Mais il est très probable qu'elle s'y trouve, vu sa présence au Nigéria et en Angola et l'existence d'une récolte dans une localité camerounaise très proche du Gabon (Meuban, 24 km au S. de Djoum, Letouzey 8345).
+This species has not yet been collected in Gabon. But it is very likely to be found there, given its presence in Nigeria and Angola and the existence of a collection from a Cameroonian locality very close to Gabon (Meuban, 24 km S. of Djoum, Letouzey 8345).
 
 ## Specimens examined
 

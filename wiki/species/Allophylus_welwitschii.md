@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Branchlets terete, puberulent then glabrescent, with brown bark. Leaves with petiole hairy all round and lamina cuneate at the base, acuminate, thin, green, glabrous except on the midvein (hairs 0.1 mm); lateral leaflets 1/2 to 2/3 of the median.
 
-Rameaux arrondis, pubérulents puis glabrescents, à écorce brune. Feuilles à pétiole velu tout autour et limbe cunée à la base, acuminé, mince, vert, glabre sauf sur la nervure médiane (poils de 0,1 mm); folioles latérales 1/2 à 2/3 de la médiane.
-
-Fleurs jaune-pâle ou blanc-jaunâtre; disque velu. Fruits rouges, peu allongés, 5-6 × 4-5 mm, devenant noir en herbier. PL. 6, 1-4', p. 37.
+Flowers pale yellow or yellowish-white; disk hairy. Fruits red, slightly elongate, 5–6 × 4–5 mm, becoming black in herbarium. PL. 6, 1–4', p. 37.
 
 ## Type
 
@@ -29,11 +27,9 @@ Welwitsch 4510, Golungo Alto, alt. 300-700 m, Angola (iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 4. — Allophylus poungouensis Pellegrin (Le Testu 8598) : 1, leaf and inflorescence, lamina 13 cm; 1', section of petiole, diameter 1.5 mm; 2, cymules; 3, buds, 1.5 mm; 3', inner and lateral sepals; 4, 4', petal of a bud, inner, outer and profile faces; 5, 5', stamen outer and inner faces; 6, pistil. — Allophylus ngounyensis Pellegrin (Le Testu 6375) : 7, leaf and inflorescence, lamina 17 cm; 7', section of petiole, diameter 2 mm; 7', cymules; 8, bud, 2 mm; 9, 9', petal of a bud, inner, outer and profile faces; 10, 10', 10', stamens, outer, inner and profile faces; 11, disk; 12, pistil.
 
-PL. 4. — Allophylus poungouensis Pellegrin (Le Testu 8598) : 1, feuille et inflorescence, limbe 13 cm; 1', coupe du pétiole, diamètre 1,5 mm; 2, cymules; 3, boutons, 1,5 mm; 3', sépales interne et latéral 4, 4', pétale d'un bouton, faces interne, externe et profil; 5, 5', étamine faces externe et interne; 6, pistil. — Allophylus ngounyensis Pellegrin (Le Testu 6375) : 7, feuille et inflorescence, limbe 17 cm; 7', coupe du pétiole, diamètre 2 mm; 7', cymules; 8, bouton, 2 mm; 9, 9', pétale d'un bouton, face interne, externe et profil; 10, 10', 10', étamines, faces externe, interne et profil; 11, disque, 12, pistil.
-
-Espèce reconnue en République centrafricaine, au Congo, au Zaïre, en Uganda, en Angola et en Tanzania.
+Species recognized in the Central African Republic, in Congo, in Zaire, in Uganda, in Angola and in Tanzania.
 
 ## Specimens examined
 

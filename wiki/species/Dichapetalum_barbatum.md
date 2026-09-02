@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+MLW 73 (13): 20, 76-78 (1973). TYPE: Cameroon, km 28 Kribi-Lolodorf, Bos 4318 (holo-, WAG; iso-, BR, K, P, PRE).
 
-MLW 73 (13): 20, 76-78 (1973). TYPE: Cameroun, km 28 Kribi-Lolodorf, Bos 4318 (holo-, WAG; iso-, BR, K, P, PRE).
+Liane, lianeform shrub, shrub, small shrub. Bark of the main trunk and older branches generally whitish with lenticels but scarcely visible. Branches glabrous or glabrescent, bark exfoliating relatively early. Young branches, stipules, petioles, midvein and leaf margins (and sometimes the entire blade of unfolded leaves), usually bearing a hirsute or fur-like indumentum when young, deciduous rather early; the indumentum when hirsute is often mixed with a tomentose covering persisting longer on young branches, petioles and the basal region of the midvein on the lower surface.
 
-Liane, arbuste lianescent, arbuste, arbrisseau. Écorce du tronc principal et des rameaux âgés en général blanchâtre avec des lenticelles mais peu visibles. Rameaux glabres ou glabrescents, écorce se desquamant relativement tôt. Jeunes rameaux, stipules, pétioles, nervure et marges des feuilles (et par fois tout le limbe des feuilles non déployées), habituellement barbés d'un indumentum hirsute ou semblable à une fourrure quand il est jeune, assez tôt caduc ; l'indumentum quand il est hirsute, est souvent mêlé à un revêtement tomenteux persistant plus longtemps sur les jeunes rameaux, les pétioles et la région basale de la nervure À la face inférieure.
+Stipules narrowly triangular to subulate, 2-20 mm long, caducous.
 
-Stipules étroitement triangulaires à subulées, longues de 2-20 mm, caduques.
+Leaves. Petiole 1-7 (11) mm long. Blade obovate-oblong and often narrow, rarely elliptic, 2.5-4 times longer than wide, size highly variable on the same specimen, 6-42 × 2-12 cm, base generally cordate (often deeply so), apex terminated by an acumen reaching up to 2.5 cm; main lateral veins II, 8-13 (20) on each side of the midvein; veins I and II prominent above; small glands difficult to observe and only on the lower surface.
 
-Feuilles. Pétiole long de 1-7 (11) mm. Limbe obové-oblong et souvent étroitement, rarement elliptique, 2,5-4 fois plus long que large, taille très variable sur un même spécimen, 6-42 × 2-12 cm, base en général cordée (souvent profondément), sommet terminé par un acumen pouvant atteindre 2,5 cm ; principales nervures II, 8-13 (20) de chaque côté de la médiane ; nervures I et II proéminentes dessus ; petites glandes difficiles à voir et seulement à la face inférieure.
+Inflorescences in glomerules, pauciflorous, silky-hirsute; bracts and bracteoles narrowly triangular, generally curved, approximately equal to or longer than the pedicel, 3-5 (6) mm long. Pedicel well developed, (2) 3-6 (7) mm long, upper part very short or absent.
 
-Inflorescences en glomérules, pauciflores, soyeuses-hirsutes ; bractées et bractéoles étroitement triangulaires, en général courbées, à peu près égales ou plus longues que le pédicelle, longues de 3-5 (6) mm. Pédicelle bien développé, long de (2) 3-6 (7) mm, partie supérieure très courte ou nulle.
-
-Fleurs. Sépales étalés à réfléchis, ± courtement réunis par leur base, triangulaires à oblongs, concaves,  $ 2.5-3 \times 1-1.5 $ mm, sommet arrondi, face externe soyeuse particulièrement au sommet ; face interne pubérulente à la partie supérieure. Pétales dressés, spatulés, longs de 3-3,5 mm, fendus sur moins de 0,5 mm, courtement soudés par leur base aux filets, glabres ; lobes très courts concaves arrondis au sommet. Étamines dressées, longues de 3-4 mm, glabres ou presque ; anthères longues de < 0,5 mm. Staminodes oblongs, aplatis, glabres, longs de 0,5 mm. Pistil long de 3 mm ; style glabre, sommet 3-lobé ; ovaire 3-loculaire, velouté. Fruit inconnu. - Pl. 10, p. 55.
+Flowers. Sepals spreading to reflexed, ± shortly united at their base, triangular to oblong, concave, 2.5-3 × 1-1.5 mm, apex rounded, outer surface silky particularly at the apex; inner surface puberulent in the upper part. Petals erect, spatulate, 3-3.5 mm long, cleft for less than 0.5 mm, shortly adnate at their base to the filaments, glabrous; lobes very short concave rounded at the apex. Stamens erect, 3-4 mm long, glabrous or nearly so; anthers < 0.5 mm long. Staminodes oblong, flattened, glabrous, 0.5 mm long. Pistil 3 mm long; style glabrous, apex 3-lobed; ovary 3-locular, velvety. Fruit unknown. - Pl. 10, p. 55.
 
 ## Type
 
@@ -37,15 +35,11 @@ Bos 4318, km 28 Kribi-Lolodorf, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombrophilous forests
 
 ## Specimens examined
 

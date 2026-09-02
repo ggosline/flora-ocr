@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Seem., J . Bot . 2 : 327 (1864). Arbuste ou petit arbre, 2–12 m de hauteur, pourvu ou non d’épines atteignant 2–4 cm de longueur ; ramilles pubescentes à glabrescentes . Stipules lancéolées, 4–11 mm de lon gueur, très caduques. Feuille : pétiole 5–10 mm ; limbe elliptique à elliptique-lancéolé, 3–24 × 1,5–9(–11) cm, aigu à arrondi à la base, acuminé au sommet, assez rapidement glabrescent, généralement vert noir surtout à la face supérieure ; nervures latérales 14– 17(–21) paires, anastomosées avant le bord . Inflorescence : fascicules gloméruliformes et multiflores ; bractées étroitement triangulaires, ± 1 mm de longueur, pubescentes. Fleur mâle : pédicelle 2–3 mm, pubérulent ; sépales triangulaires, 2–2,5 mm de longueur, acuminés ; pétales spatulés, 0,5–0,7 mm de longueur, incisés au sommet ; disque glabre ; androgynophore 1 mm ; gynécée rudimentaire bifide, 1 mm de longueur, glabre. Fleur femelle : pédicelle 1–2 mm, pubescent puis glabrescent ; sépales triangulaires, acumi nés ; disque glabre. Fruit adulte ellipsoïde ou parfois subglobuleux, 5–7 mm de longueur, glabre, vert puis rouge et enfin rouge-noir à maturité.
+in Seem., J. Bot. 2: 327 (1864). Shrub or small tree, 2–12 m tall, with or without spines reaching 2–4 cm in length; branchlets pubescent to glabrescent. Stipules lanceolate, 4–11 mm long, very caducous. Leaf: petiole 5–10 mm; lamina elliptic to elliptic-lanceolate, 3–24 × 1.5–9(–11) cm, acute to rounded at base, acuminate at apex, fairly rapidly glabrescent, generally dark green especially on upper surface; lateral veins 14–17(–21) pairs, anastomosing before the margin. Inflorescence: fascicles glomerate and multiflorous; bracts narrowly triangular, ± 1 mm long, pubescent. Male flower: pedicel 2–3 mm, puberulent; sepals triangular, 2–2.5 mm long, acuminate; petals spatulate, 0.5–0.7 mm long, incised at apex; disk glabrous; androgynophore 1 mm; rudimentary bifid gynoecium, 1 mm long, glabrous. Female flower: pedicel 1–2 mm, pubescent then glabrescent; sepals triangular, acuminate; disk glabrous. Mature fruit ellipsoid or sometimes subglobose, 5–7 mm long, glabrous, green then red and finally red-black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone à la République Centrafricaine et la République Démo cratique du Congo ainsi qu’au Soudan, Ouganda, Kenya, Tanzanie, Zimbabwe et Ango la ; au Gabon connue de l’Estuaire, de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et de l’Ogooué-Maritime
+from Sierra Leone to the Central African Republic and the Democratic Republic of the Congo as well as Sudan, Uganda, Kenya, Tanzania, Zimbabwe and Angola; in Gabon known from Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire ; au Gabon, à 0–500 m d’altitude. Usage : Le bois est utilisé comme bois d’œuvre ou bois de chauffage. Une infusion ou macération d’écorce se boit pour traiter la fièvre, diverses douleurs abdominales, la dy senterie et elle est aussi un aphrodisiaque. La décoction des feuilles sert à lutter contre la diarrhée et la fièvre
+secondary forest; in Gabon, at 0–500 m altitude. Uses: The wood is used as timber or firewood. An infusion or maceration of bark is drunk to treat fever, various abdominal pains, dysentery and it is also an aphrodisiac. A decoction of the leaves is used to combat diarrhoea and fever
 
 ## Vernacular names
 
@@ -38,9 +32,7 @@ fever leaf, West African hardwood, Yoruba ironwood (angl.). : Adebisi & Ladipo (
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B . ferruginea. ‒ E, F : B . grandis. ‒ G, H : B . micrantha. ‒ I, J : B . wilksii . (A, B : Dibata 142 ; C, D : J.J. de Wilde et al. 8953 ; E, F : Breteler c.s. 15563 ; G, H : Reitsma c.s. 742 ; I, J : Sosef et al . 2588). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+B. ferruginea. ‒ E, F: B. grandis. ‒ G, H: B. micrantha. ‒ I, J: B. wilksii. (A, B: Dibata 142; C, D: J.J. de Wilde et al. 8953; E, F: Breteler c.s. 15563; G, H: Reitsma c.s. 742; I, J: Sosef et al. 2588). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

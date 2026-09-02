@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs up to 3 m tall, epiphytic or epilithic, sometimes scandent. Leafy branchlets 5–10 mm thick, glabrous or sparsely puberulent, pale brown to dark brown when dry, hollow. Leaves arranged in spirals. Blade obovate to oblanceolate, 28–40 cm long, 8–15 cm wide, (sub)coriaceous to coriaceous, apex abruptly or ± gradually acuminate, base acute to subobtuse to truncate or cordate; margin entire; both surfaces glabrous; veins nearly plane, the midvein weakly concave above, midvein especially and lateral veins prominent below; 6–8 pairs of lateral veins, including 1–3 basal pairs, lateral veins anastomosing in loops 3–8 mm from the margin, venation dark green or red to violet below; glandular spot not visible. Petiole 2–8 cm long, 3–4 mm thick, glabrous or puberulent, periderm exfoliating. Stipules free, 2.5–3.5 cm long, glabrous or sparsely puberulent, persistent.
 
-Arbustes hauts de 3 m, épiphytes ou épilithitiques, parfois lianescents. Rameaux feuillés épais de 5-10 mm, glabres ou éparsement pubérulents, brun pâle à brun sombre sur le sec, creux. Feuilles disposées en spirales. Limbe obové à oblancéolé, long de 28-40 cm, large de 8-15 cm (sub) coriace à coriace, sommet abruptement ou ± progressivement acuminé, base aiguë à subobtuse à tronquée ou à cordée ; bord entier ; les deux faces glabres ; nervures presque planes, la médiane faiblement concave dessus, nervure médiane spécialement et nervures latérales saillantes dessous ; 6-8 paires de nervures latérales, inclus 1-3 paires
+Figs beneath the leaves and often (entirely) concealed by the persistent stipules, sessile; basal bracts 2, broadly ovate, ca. 1 mm long, sparsely puberulent; receptacle oblongoid to subglobose or ovoid, up to 2.5 cm in diameter on fresh material, 0.7–1.5 cm on dry material, up to 3 cm long on fresh material, and 1–1.8 cm on dry material, blackish, sparsely puberulent to hirtellous; wall ca. 0.5 mm thick on dry material; ostiole slit-shaped at the apex of the cratériform receptacle or sometimes strongly swollen.
 
-basales, nervures latérales s'anastomosant en boucle à 3-8 mm du bord, nervation vert sombre ou rouge à violette dessous ; tache glandulaire non visible. Pétiole long de 2-8 cm, épais de 3-4 mm, glabre ou pubérulent, périderme se détachant. Stipules libres, longues de 2,5-3,5 cm, glabres ou éparsement pubérulentes, persistantes.
-
-Figues sous les feuilles et souvent (entièrement) cachées par les stipules persistantes, sessiles ; bractées basales 2, largement ovées, longues de 1 mm environ, éparsement pubérulentes ; réceptacle oblongoïde à subglobuleux ou ovoïde, d'un diamètre jusqu'à 2,5 cm sur le frais, de 0,7-1,5 cm sur le sec, long jusqu'à 3 cm sur le frais, et de 1-1,8 cm sur le sec, noirâtre, éparsement pubérulent à hirtelleux ; paroi épaisse de 0,5 mm environ sur le sec ; ostiole en forme de fente dans le sommet du réceptacle cratériforme ou parfois fortement gonflé.
-
-Fleurs pistillées avec 3 (-4) tépales longs de 1-1,5 mm, basalement fusionnés ; fleurs à graines sessiles, style long de 2-2,5 mm ; fleurs à galles sessiles ou pédicillées jusqu'à 1,5 mm, style long de 1 mm environ. Fruits ellipsoïdes, longs de 1-1,5 mm, longs de 1,5-2 mm en incluant l'enveloppe mucilagineuse sur la partie supérieure ; fruits à galles oblongoïdes, longs de 2-3 (-3,5) mm, souvent à stipe atteignant 1,5 mm ; fruits distinctement bicolores. Fleurs staminées (sub) sessiles, périanthe avec 3 tépales, longs de 1 mm environ, basalement soudés, filet très court, anthère longue de 1-2 mm. Bractées interflorales longues jusqu'à 1,5 mm. - Pl. 70, p. 233.
+Pistillate flowers with 3 (–4) tepals 1–1.5 mm long, basally fused; seed flowers sessile, style 2–2.5 mm long; gall flowers sessile or pedicillate up to 1.5 mm, style ca. 1 mm long. Fruits ellipsoid, 1–1.5 mm long, 1.5–2 mm long including the mucilaginous envelope on the upper part; gall fruits oblongoid, 2–3 (–3.5) mm long, often with a stipe reaching 1.5 mm; fruits distinctly bicolorous. Staminate flowers (sub)sessile, perianth with 3 tepals, ca. 1 mm long, basally fused, filament very short, anther 1–2 mm long. Interfloral bracts up to 1.5 mm long. – Pl. 70, p. 233.
 
 ## Type
 
@@ -33,11 +29,9 @@ Leeuwenberg 8769, Cameroun, Bakaka, 3 km E Eboné, 11 km sur route Nkongsamba-Lo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is quite distinctive in the combination of (rather) small figs and large stipules that conceal them. Sterile specimens may be confused with F. preussii; but in dry material, the leafy branchlets are hollow in F. abcondita, whereas they are solid in F. preussii.
 
-Cette espèce est assez particulière par la combinaison des (assez) petites figures et des grandes stipules qui les cachent. Les échantillons stériles peuvent être confondus avec F. preussii ; mais dans le matériel sec, les rameaux feuillés sont creux chez F. abcondita, étant pleins chez F. preussii.
-
-L'espèce est connue du Cameroun, du Gabon et du Congo, trouvée dans les zones de forêt dense humide à basse altitude.
+The species is known from Cameroon, Gabon and Congo, found in zones of dense humid forest at low altitude.
 
 ## Specimens examined
 

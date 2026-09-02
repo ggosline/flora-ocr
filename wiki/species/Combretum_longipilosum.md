@@ -17,43 +17,37 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Congo (Kinshasa), Bangala (fl.) Dewèvre 880 (holo-BR; iso-BM).
 
-TYPE : Congo (Kinshasa), Bangala (fl.) Dewèvre 880 (holo-BR ; iso-BM).
+– C. lepidiflorum Exell, Bull. Soc. Linn. Normandie 8-9: 128 (1937). TYPE: Gabon, Youlou (fl.) Le Testu 7805 (holo-P; iso-BM, BR, K).
 
-– C. lepidiflorum Exell, Bull. Soc. Linn. Normandie 8-9 : 128 (1937). TYPE : Gabon, Youlou (fl.) Le Testu 7805 (holo-P ; iso-BM, BR, K).
+Liane ≤ 25 m.
 
-Liane  $ \leq $ 25 m.
+Leaves opposite or verticillate by 3; petiole ≤ 12 mm; blade ≤ 21 × ≤ 8 cm, pubescent to subglabrous; major lateral veins 6–11 pairs; venation III subparallel; crystals distinctly projecting from the epidermis of the veins on upper surface when dry; base of blade attenuate; apex acuminate and mucronate.
 
-Feuilles opposées ou verticillées par 3 ; pétiole ≤ 12 mm ; limbe ≤ 21 × ≤ 8 cm, pubescent à subglabre ; grandes nervures latérales 6-11 paires ; nervation III subparallèle ; cristaux saillant nettement de l'épiderme supérieur des nervures à l'état sec ; base du limbe atténuée ; sommet acuminé et mucroné.
+Scales present.
 
-Écailles présentes.
+Inflorescences ≤ 14 cm: spikes or panicles, axillary or terminal; upperside of leaves subtending the inflorescences, sometimes almost white; bracts inconspicuous.
 
-Inflorescences ≤ 14 cm : épis ou panicules, axillaires ou terminaux ; dessus des feuilles axillant les inflorescences, parfois presque blanc ; bractées peu visibles.
+Flowers 4-merous, sessile. Receptacle 3 mm high, lepidote, the upper one campanulate, 1.5 × 1.5 mm. Calyx, lobes shortly triangular. Petals, length ≤ 1 mm, glabrous, white then yellow. Stamens exserted 4 mm; filaments white then yellow; anthers 0.6 mm long, apiculate, pale brown. Style exserted 3 mm.
 
-Fleurs 4-mères, sessiles. Réceptacle haut de 3 mm, lépidote, le supérieur campanulé,  $ 1,5 \times 1,5 $ mm. Calice, lobes courtemment triangulaires. Pétales, longeur ≤ 1 mm, glabres, blancs puis jaune. Étamines exsertes de 4 mm ; filets blancs puis jaunes ; anthères longues de 0,6 mm, apiculées, brun pâle. Style exsert de 3 mm.
-
-Fruit, profil elliptique,  $ 2.5 \times 1.5 $ cm, ailes papyracées, stipe  $ \leq 3 $ mm.
+Fruit, elliptic in profile, 2.5 × 1.5 cm, papyraceous wings, stipe ≤ 3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Cameroun, au Gabon, au Congo (Brazzaville) et au Congo (Kinshasa)
+from Sierra Leone to Cameroon, Gabon, Congo (Brazzaville) and Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid forests
 
-Forêts denses humides
+Hallé & Villiers 5203, Monts de Cristal, 5 km from Mela, Mt Mvélakéné, 0°33'N–10°12'E (fl., Feb.), P.
 
-Hallé & Villiers 5203, Monts de Cristal, à 5 km de Mela, Mt Mvélakéné, 0°33'N-10°12'E (fl., Fév.), P.
+Leeuwenberg 11457, 10 km SSW of Makokou, 0°25'N–12°51'E (fl., Nov.), LBV, MO, WAG.
 
-Leeuwenberg 11457, 10 km au SSO de Makokou, 0°25'N-12°51'E (fl., Nov.), LBV, MO, WAG.
+Le Testu 7805, Youlou, 0°58'S–12°30'E (fl., Dec.), BM, BR, K, P, (type of C. lepidiflorum); 8613, Ipoungou (Iboundji), 1°08'S–11°48'E (fl., Dec.), BM, BR, P.
 
-Le Testu 7805, Youlou, 0°58'S-12°30'E (fl., Déc.), BM, BR, K, P, (type de C. lepidiflorum) ; 8613, Ipoungou (Iboundji), 1°08'S-11°48'E (fl., Déc.), BM, BR, P.
-
-Reitsma & Reitsma 2162, 10 km au N d'Oveng, 0°43'N-11°17'E (fr., Mai), BR, LBV, MA, MO, WAG.
+Reitsma & Reitsma 2162, 10 km N of Oveng, 0°43'N–11°17'E (fr., May), BR, LBV, MA, MO, WAG.
 
 ## Notes
 

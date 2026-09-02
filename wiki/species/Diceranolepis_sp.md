@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Aymonin, Webbia 19 (2) : 828 (1964), sub nomin. D. Baertsiana.
 
-Arbuste à rameaux terminaux assez fins et anguleux, assez courts, peu feuillés; écorce rougeâtre, lisse ou finement reticulée-striée.
+Shrub with terminal branches fairly slender and angular, rather short, sparsely leafy; bark reddish, smooth or finely reticulate-striate.
 
-Feuilles très caractéristiques, grandes, à pétiole de 4-6 mm, épais de 1-2 mm, profondément canaliculé face supérieure, glabrescent et rude. Limbe épais de 8-11 cm, de long sur 4-6 de large, presque parfaitement symétrique et non oblique, glabre ou muni
+Leaves very characteristic, large, with petiole 4-6 mm, thick 1-2 mm, deeply channelled on upper face, glabrescent and rough. Lamina thick 8-11 cm long by 4-6 wide, almost perfectly symmetrical and not oblique, glabrous or bearing very few short appressed rigid hairs, regularly narrowed into an acumen 15-20 mm long, 2-3 wide, straight or slightly curved. Faces very slightly discolorous when dry, with conspicuous veins; main vein almost straight; secondary veins 8-15 pairs, regularly parallel and curved, anastomosing into a marginal vein.
 
-de très rares poils raides apprimés très courts, régulièrement rétréci en un acumen long de 15-20 mm, large de 2-3, droit ou un peu courbé. Faces très peu discolores sur le sec, à nervures bien visibles; nervure principale presque droite; nervures secondaires 8-15 paires, régulièrement parallèles et courbées, anastomosées en une nervure marginale.
+Flower unknown. Fruit red, with pericarp somewhat pubescent, 10-12 mm in diameter, topped by a short pubescent hirsute collar formed by the remains of the perianth tube; 1 seed.
 
-Fleur inconnue. Fruit rouge, à péricarpe un peu pubescent, de 10-12 mm de diamètre, surmonté d'un court manchon pubescent hirsute formé par les restes du tube du périgone; 1 graine.
+N. Hallé: 1372, Mboundou, SE of Makokou (f., fr., Feb.).
 
-N. Hallé : 1372, Mboundou, SE de Makokou (f., fr., fév.).
-
-Cette plante paraît différer des autres Dicranolepis connus par ses grandes feuilles subsymétriques, presque totalement glabres, mais elle est peut-être une simple forme de D. Baertsiana.
+This plant appears to differ from other known Dicranolepis by its large subsymmetrical leaves, almost entirely glabrous, but it is perhaps merely a simple form of D. Baertsiana.
 
 ## Notes
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Prevostea klaineana Pierre ex Pellegr., Mém. Soc. Linn. Normandie , Bot. 1(2) : 41 (1928). Prevostea mayombensis Pellegr., Mém. Soc. Linn. Normandie , Bot . 1(2) : 41 (1928). Calycobolus klaineanus (Pierre ex Pellegr.) Heine, Kew Bull. 16 : 390 (1963). Calycobolus mayombensis (Pellegr.) Heine, Kew Bull. 16 : 390 (1963). Calycobolus letouzeyanus Lejoly & Lisowski, Bull. Jard. Bot. Nat. Belg. 55 : 48 (1985). Calycobolus thollonii Lejoly & Lisowski, Bull. Jard. Bot. Nat. Belg. 55 : 57 (1985). Liane ou parfois arbuste lianescent ; tige/tronc jusqu’à 7 cm de diamètre ; ramilles à poils apprimés ± denses à ± ferrugineuses-velues ou parfois ± hispides, en général glabrescentes . Feuille : pétiole (2–)5–13(–15) mm, poilu comme les ramilles ; limbe obové-elliptique , (6–)8–18(–20) × 2–7(–9) cm, arrondi ou étroitement cordé à la base,
-
-acuminé sur 0,5–2 cm au sommet, à poils ± épars, courts, bruns, ± apprimés sur les deux faces à l’état jeune, en général finement pustuleux dessus, à (6–)9–11(–12) paires de nervures latérales. Inflorescence en racèmes axillaires à (sub)terminaux, à axe jusqu’à 20 cm de longueur, parfois les fleurs en fascicules ou rarement solitaires ; bractéoles opposées, (1–)2–12 mm de longueur, attachées ± au milieu du pédicelle. Fleur : pédicelle (5–)10–15(–30) mm ; sépales : les deux externes inégaux, 6–20 × 5–15 cm, cordés à la base, arrondis à aigus au sommet, les trois internes circulaires à ovés-triangulaires, (1– )5–9 × 1–3 mm ; corolle infundibuliforme, parfois un peu campanulée, (2,5–)3,5–5(–6) cm de longueur , blanche, poilue au sommet ; étamines ± égales, (6–)14–30(–33) mm de longueur, anthères pendantes , 3–5(–6) mm de longueur, les fentes à longs poils ; pistil (10–)15–33 mm de longueur, glabre ; styles soudés sur ± la moitié de leur longueur. Fruit ellipsoïde, 15–19 × 10–12 mm, glabre, les deux sépales externes fortement élargis, ± circulaires, le plus large 4–7(–9) × 4–7(–9) cm, le plus petit 3–6 × 2,5–3,5 cm.
+Prevostea klaineana Pierre ex Pellegr., Mém. Soc. Linn. Normandie, Bot. 1(2): 41 (1928). Prevostea mayombensis Pellegr., Mém. Soc. Linn. Normandie, Bot. 1(2): 41 (1928). Calycobolus klaineanus (Pierre ex Pellegr.) Heine, Kew Bull. 16: 390 (1963). Calycobolus mayombensis (Pellegr.) Heine, Kew Bull. 16: 390 (1963). Calycobolus letouzeyanus Lejoly & Lisowski, Bull. Jard. Bot. Nat. Belg. 55: 48 (1985). Calycobolus thollonii Lejoly & Lisowski, Bull. Jard. Bot. Nat. Belg. 55: 57 (1985). Liane or sometimes scandent shrub; stem/trunk up to 7 cm in diameter; branchlets with appressed hairs ± dense to ± ferruginous-villous or sometimes ± hispid, generally glabrescent. Leaf: petiole (2–)5–13(–15) mm, hairy like the branchlets; blade obovate-elliptic, (6–)8–18(–20) × 2–7(–9) cm, rounded or narrowly cordate at the base, acuminate over 0.5–2 cm at the apex, with ± scattered, short, brown, ± appressed hairs on both surfaces when young, generally finely pustulous above, with (6–)9–11(–12) pairs of lateral nerves. Inflorescence in axillary to (sub)terminal racemes, with axis up to 20 cm long, sometimes the flowers in fascicles or rarely solitary; bracteoles opposite, (1–)2–12 mm long, attached ± at the middle of the pedicel. Flower: pedicel (5–)10–15(–30) mm; sepals: the two outer unequal, 6–20 × 5–15 cm, cordate at the base, rounded to acute at the apex, the three inner circular to ovate-triangular, (1–)5–9 × 1–3 mm; corolla infundibuliform, sometimes slightly campanulate, (2.5–)3.5–5(–6) cm long, white, hairy at the apex; stamens ± equal, (6–)14–30(–33) mm long, anthers pendulous, 3–5(–6) mm long, the slits with long hairs; pistil (10–)15–33 mm long, glabrous; styles fused over ± half their length. Fruit ellipsoid, 15–19 × 10–12 mm, glabrous, the two outer sepals strongly enlarged, ± circular, the larger 4–7(–9) × 4–7(–9) cm, the smaller 3–6 × 2.5–3.5 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République Démocratique du Congo, Angola et l’ouest de la Tanzanie ; au Gabon, connue dans toutes les provinces
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and western Tanzania; in Gabon, known from all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide sempervirente et semi-décidue, forêt de galeries forestières ; au Gabon, à 0–600 m d’altitude, ailleurs jusqu’à 1050 m. B : Breteler (2013). ibliographie
+dense wet evergreen and semi-deciduous forest, gallery forest; in Gabon, at 0–600 m altitude, elsewhere up to 1050 m. B: Breteler (2013). ibliography
 
 ## Notes
 

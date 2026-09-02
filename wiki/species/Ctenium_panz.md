@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 12.1 Ctenium newtonii Hack.
 
 Fl. Gab.: 268, Pl. 44 ;FWTA: 399 ;FTEA: 324 ;Gram. Cam.: 165, Pl. 34 ;Poac. CI.: 160, 161 ;Gram. CB.: 134.

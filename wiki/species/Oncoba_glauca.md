@@ -16,23 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in HOOK. f., London J. Bot. 6 : 296 (1847) ; HOOK. f., Niger Fl. (Fl. Nigrit.) : 220 (1849) ; OLIV., FTA 1 : 117 (1868) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; DE WILD., Ann. Mus. Congo, Bot. 5 (2) : 315 (1908).
 
 – Ventenatia glauca P. BEAUV., Fl. Oware et Bénin 1: 30, t. 17 (1804). TYPE : P. de Beauvois s. n., Nigeria (holo-).
 
-– Oncoba klainii PIERRE, BSLP, n. s., 14 : 118 (1899). TYPES : Klaine 109, Gabon (lecto-, choisi ici, P!); Joly 17 et Klaine 221 (syn-, P!).
+– Oncoba klainii PIERRE, BSLP, n. s., 14 : 118 (1899). TYPES : Klaine 109, Gabon (lecto-, chosen here, P!); Joly 17 and Klaine 221 (syn-, P!).
 
 – Caloncoba glauca (P. BEAUV.) GILG, EBJ 40 : 459 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 161 (1927) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 26 (1968) ; SLEUMER, EBJ 94 (1) : 131 (1974).
 
-Arbre (10-15 m de haut) ou arbuste ; rameaux striés longitudinalement, gris brunâtre, glabres.
+Tree (10–15 m tall) or shrub; branches longitudinally striated, greyish-brown, glabrous.
 
-Feuilles à stipules de 2-5 mm de long, caduques ; pétiole 2-5 (7) cm de long, glabre ; limbe ovale, ± obtus à la base, acuminé au sommet, 10-20 × 4-7 cm, subcoriace, glabre ; nervures secondaires 5-8 paires.
+Leaves with stipules 2–5 mm long, caducous; petiole 2–5 (7) cm long, glabrous; blade oval, ± obtuse at base, acuminate at apex, 10–20 × 4–7 cm, subcoriaceous, glabrous; secondary veins 5–8 pairs.
 
-Fleurs en fascicules (3-4-flores) ou solitaires, axillaires ou supra-axillaires, à pédicelle de 3-5 mm de long, glabre ; sépales 3, ovales à suborbiculaires, 16-20 × 10-15 mm, glabres, caduces à l'anthèse ; pétales 10-12, obovales, onguiculés, 35-50 × 10-18 mm, glabres ; étamines nombreuses à filet de 15-20 mm de long, glabre ; anthères de 4-5 mm de long, mucronées au sommet ; ovaire verruqueux-glanduleux, glabre, à 5 placentas pluriovulés ; style entier à stigmate 4-5-lobé ou finement denticulé, glabre, de 12-15 mm de long.
+Flowers in fascicles (3–4-flowered) or solitary, axillary or supra-axillary, with pedicel 3–5 mm long, glabrous; sepals 3, oval to suborbicular, 16–20 × 10–15 mm, glabrous, caducous at anthesis; petals 10–12, obovate, clawed, 35–50 × 10–18 mm, glabrous; stamens numerous with filament 15–20 mm long, glabrous; anthers 4–5 mm long, mucronate at apex; ovary verrucose-glandular, glabrous, with 5 polyovulate placentas; style entire with stigma 4–5-lobed or finely denticulate, glabrous, 12–15 mm long.
 
-Fruits : capsules globuleuses-coniques, tardivement déhiscentes, 6-7 × 5-6 cm, lisses ou verruqueuses ; graines nombreuses, anguleuses ; glabres. - Pl. 13, p. 47.
+Fruits: capsules globose-conical, tardily dehiscent, 6–7 × 5–6 cm, smooth or verrucose; seeds numerous, angular, glabrous. - Pl. 13, p. 47.
 
 ## Type
 
@@ -40,15 +38,11 @@ P. de Beauvois s. n., Nigeria (holo-, G)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale occidentale et centrale
+West and Central tropical Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses et galeries forestières
+Dense forests and forest galleries
 
 ## Specimens examined
 

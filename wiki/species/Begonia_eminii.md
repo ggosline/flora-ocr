@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engl., Pflanzenw. Ost-Afr. , C(2-3) : 282 (1895). Plante terrestre ou subépiphyte ; tige dressée ou volubile de 0,5–4 m de longueur. Stipules caduques, étroitement triangulaires, 15–45 × 5–9 mm. Feuilles : pétiole de 2–13(–17) cm ; limbe faiblement asymétrique , ovale, 6,5–22 × 2,5–11 cm, obliquement cordé ou obtus à tronqué à la base, aigu à acuminé au sommet, bords sinueux, denticulés. Inflorescence unisexuée ; les ♂ 3–15-flores, pédoncule 5–18 mm ; les ♀ 3-flores (rarement 2- ou 7-), pédoncule 1–8 mm. Fleur ♂ : pédicelle de 4–11 mm ; tépales externes 4–12 × 3–6 mm, les internes 3–9 × 1,5–3 mm ; androcée faiblement aplati, zygomorphe, étamines 7–15, colonne de 0,5–1,3 mm, parties libres des filets longues de 0,2–0,8 mm, anthères à déhiscence par fentes longitudinales. Fleur ♀ sessile, la partie inférieure de l’ovaire stérile ressemblant au pédicelle ; tépales semblables à ceux des fleurs ♂ ; ovaire 9–27 mm de longueur, section circulaire, 1,5–3 mm de diamètre ; styles (2–)3(–4), parties libres bifides au sommet, bande stigmatique en fer à cheval avec les extrémités spiralées. Infrutescence généralement à 3 fruits . Fruit 20–50 mm de longueur, rouge foncé , à déhiscence irrégulière par valves ou fentes longitudinales.
+in Engl., Pflanzenw. Ost-Afr., C(2-3): 282 (1895). Terrestrial or subepiphytic plant; stem erect or twining, 0.5–4 m in length. Stipules caducous, narrowly triangular, 15–45 × 5–9 mm. Leaves: petiole 2–13(–17) cm; lamina weakly asymmetric, ovate, 6.5–22 × 2.5–11 cm, obliquely cordate or obtuse to truncate at the base, acute to acuminate at the apex, margins sinuose, denticulate. Inflorescence unisexual; the ♂ 3–15-flowered, peduncle 5–18 mm; the ♀ 3-flowered (rarely 2- or 7-), peduncle 1–8 mm. ♂ Flower: pedicel 4–11 mm; outer tepals 4–12 × 3–6 mm, inner ones 3–9 × 1.5–3 mm; androecium weakly flattened, zygomorphic, stamens 7–15, column 0.5–1.3 mm, free parts of filaments 0.2–0.8 mm long, anthers with dehiscence by longitudinal slits. ♀ Flower sessile, the lower part of the sterile ovary resembling the pedicel; tepals similar to those of ♂ flowers; ovary 9–27 mm in length, circular in section, 1.5–3 mm in diameter; styles (2–)3(–4), free parts bifid at the apex, stigmatic band horseshoe-shaped with spiraled ends. Infructescence generally bearing 3 fruits. Fruit 20–50 mm in length, dark red, with irregular dehiscence by valves or longitudinal slits.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, République Centrafricaine, Soudan, Guinée Équatoriale (y compris Bioko), Gabon, Congo (Brazzaville), République Démocratique du Congo, Angola, Burundi, Ouganda, Kenya, Tanzanie
+Nigeria, Cameroon, Central African Republic, Sudan, Equatorial Guinea (including Bioko), Gabon, Congo (Brazzaville), Democratic Republic of the Congo, Angola, Burundi, Uganda, Kenya, Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid or semi-deciduous forests, primary or secondary, swampy raphiales, riparian forests in wooded savannas; between 300 m and 1950 m altitude. Below 300 m altitude, replaced by B. fusialata Warb. Use: the leaves are eaten as vegetables. B: Plana et al. (2006), Wilczek (1969a), de Wilde (2002). BIBLIOGRAPHY Styles and stigmas (× 3.5). – 14. Stigma, external face (× 6.5). – 15. Ovary, transverse section (× 6.5). – 16, 17. Mature fruit and after dehiscence (× 0.8). – 18. Seed and attachment to placenta (× 20). – 19. Leaf hairs (× 16). (1, 6-19: Bokdam & de Wilde 381; 2-5: Breteler & de Wilde 695, preserved in alcohol). Drawing by R. B & I Z, National Herbarium of the Netherlands – Wageningen
 
-forêts denses humides ou semi-décidues, primaires ou secondaires, raphiales marécageuses, forêts riveraines en savanes boisées ; entre 300 m et 1950 m d’altitude. Au-dessous de 300 m d’altitude, remplacée par B. fusialata Warb. Usage : les feuilles sont mangées en guise de légumes. B : Plana et al. (2006), Wilczek (1969a), de Wilde (2002). IBLIOGRAPHIE Styles et stigmates (× 3,5). – 14. Stigmate, face externe (× 6,5). – 15. Ovaire, coupe transversale (× 6,5). – 16, 17. Fruit mûr et après déhiscence (× 0,8). – 18. Graine et fixation au placenta (× 20). – 19. Poils de la feuille (× 16). (1, 6-19 : Bokdam & de Wilde 381 ; 2-5 : Breteler & de Wilde 695 , conservé en alcool). Dessin par R. B & I Z , Herbier National des Pays-Bas – WageIJLSMA KE EWALD ningen branche
-
-<!-- caption: Planche 41A. Begonia fusialata var . fusialata : 1. Rameau florifère avec jeune inflorescence ♂ (en haut) et inflorescence ♀ (× ½). – 2. Sommet d’un rameau avec jeune inflorescence ♂ (× ½). – 3. -->
+<!-- caption: Plate 41A. Begonia fusialata var. fusialata: 1. Floriferous branch with young ♂ inflorescence (above) and ♀ inflorescence (× ½). – 2. Apex of a branch with young ♂ inflorescence (× ½). – 3. -->
 
 ## Notes
 

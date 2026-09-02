@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous vine-like plant, very slender, rooting readily at the nodes. Stems more or less cylindrical, slender, 1-2 mm in diameter, glabrous; nodes somewhat thickened, internodes 2-3 cm. Tendrils cylindrical, glabrous, simple; bracts oval orbicular, approximately 0.5 mm long, glabrous. Stipules oblong, somewhat cordate at the base, obtuse to rounded at the apex, 2-2.5 mm long, 1-1.5 mm wide, thin, glabrous. Leaves simple entire. Petiole deeply channelled above, slender, cylindrical, approximately 1 mm in diameter, 1.5-5 cm long, glabrous. Lamina oval to ovate-cordate, 2-3 cm long and 2-2.5 cm wide, cordate at base with wide sinus and rounded auricles, obtuse to rounded at apex and apiculate; margins with few teeth reaching 1 mm long; lamina glabrous on both surfaces; venation pinnate, the primary and secondary veins finely prominent on the lower surface; texture thin papyraceous.
 
-Plante herbacée lianoïde, très grêle, s'enracinant facilement aux nœuds. Tiges plus ou moins cylindriques, grêles, de 1-2 mm de diamètre, glabres; nœuds un peu épaissis, entrenœuds de 2-3 cm. Vrilles cylindriques, glabres, simples; bractées ovales orbiculaires, d'environ 0,5 mm de long, glabres. Stipules oblongues, un peu cordiformes à la base, obtuses à arrondies au sommet, de 2-2,5 mm de long, de 1-1,5 mm de large, minces, glabres. Feuilles simples entières. Pétiole profondément canaliculé dessus, grêle, cylindrique, d'environ 1 mm de diamètre, de 1,5-5 cm de long, glabre. Limbe ovale à ovale cordiforme, de 2-3 cm de long et 2-2,5 cm de large, à base cordée à sinus large et auricules arrondies, à sommet obtus à arrondi et apiculé; marges à dents peu nombreuses, atteignant 1 mm de long; limbe glabre sur les deux faces; nervation pennée, les nervures primaire et secondaires finement saillantes à la face inférieure; texture mince papyracée.
+Inflorescences small, 1.5-2 cm long, in loose umbelliform cymes, pauciflorous, glabrous; peduncle 3-6 mm long; axes cylindrical or flattened; bracts and bracteoles oval rounded, 0.3-0.5 mm high, glabrous. Flowers approximately 2 mm long and 1.5 mm in diameter. Pedicel cylindrical, 2-3 mm long, glabrous. Calyx cupuliform, approximately 0.5 mm high, glabrous, with entire margin. Corolla ovoid, rounded to obtuse at the apex, glabrous; petals oval obtuse, approximately 1.5 mm long and 0.8 mm wide. Stamens approximately 1 mm long, anther 0.5 mm long with very thickened connective. Ovary glabrous.
 
-Inflorescences petites, de 1,5-2 cm de long, en cymes ombelli-formes lâches, pauciflores, glabres; pédoncule de 3-6 mm de long; axes cylindriques ou aplatis; bractées et bractéoles ovales arrondies, de 0,3-0,5 mm de haut, glabres. Fleurs d'environ 2 mm de long et 1,5 mm de diamètre. Pédicelle cylindrique, de 2-3 mm de long, glabre. Calice cupuliforme, d'environ 0,5 mm de haut, glabre, à bord entier. Corolle ovoïde, arrondie à obtuse au sommet, glabre; pétales ovales obtus, d'environ 1,5 mm de long et 0,8 mm de large. Étamines d'environ 1 mm de long, anthère de 0,5 mm de long à connectif très épaissi. Ovaire glabre.
+Berries glabrous, ovoid, approximately 6-8 mm long and 4 mm wide, red. Seed ovoid-reniform, approximately 4 mm long 2 mm wide.
 
-Baies glabres, ovoïdes, d'environ 6-8 mm de long et 4 mm de large, rouges. Graine ovoïde réniforme, d'environ 4 mm de long 2 mm de large.
+Type from Cabinda: Gossweiler 7741.
 
-Type du Cabinda. : Gossweiler 7741.
-
-Dans les forêts hygrophiles. En Afrique équatoriale : Cabinda, Congo, Gabon.
+In hygrophilous forests. In equatorial Africa: Cabinda, Congo, Gabon.
 
 ## Specimens examined
 

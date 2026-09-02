@@ -27,7 +27,7 @@ tags: [species]
 
 24.Diospyros obliquifolia (Hiern ex Gürke) F. White
 
-Bull.Jard.Bot.Brux.33:364 (1963);FWTA ed.2,2:15 (1963). -Rhaphidanthe obliquifolia HiERN ex GüRkE，Pflanzenfam.4,1 ：165 (1891).- SrAPF in Hook.Ic.Pl.31 : tab.3o3o,A (1915). Rhaphidanthe Soyauxii SrAPF in Hook.Ic.PI.31 : tab.3o3o,B (1915),non Diospyros Soyauxii GURkE et K. ScHUm. (1892). -Diospyros Stapfiana F.WHITE,Bull. Jard.Bot.Brux.33:364 (1g63),syn. nov.
+Bull.Jard.Bot.Brux.33:364 (1963);FWTA ed.2,2:15 (1963). -Rhaphidanthe obliquifolia HiERN ex GüRkE,Pflanzenfam.4,1 :165 (1891).- SrAPF in Hook.Ic.Pl.31 : tab.3o3o,A (1915). Rhaphidanthe Soyauxii SrAPF in Hook.Ic.PI.31 : tab.3o3o,B (1915),non Diospyros Soyauxii GURkE et K. ScHUm. (1892). -Diospyros Stapfiana F.WHITE,Bull. Jard.Bot.Brux.33:364 (1g63),syn. nov.
 
 Shrub scarcely exceeding 6 m in height, with erect stem and small subverticillate branches whose twigs spread in horizontal planes or are slightly obliquely ascending, with remarkably distichous leaves; bark blackish, almost smooth, black in section outward and red within; wood creamy white. Young slender twigs covered with a fine ash-tawny pubescence; young foliage whitish-pink.
 
@@ -49,11 +49,11 @@ Brenan (leg Onochie) 93o7,9448,9449,945o,Banga,South.Bakundu for. res. pres Kumb
 
 Busgen 571,sin.loc. (fr.)B.
 
-Dinklage 83g,Batanga (stér.） HBG.
+Dinklage 83g,Batanga (stér.) HBG.
 
 Dundas FHI 84o1,Ndifo,South.Bakundu for.rés.pres Kumba (stér.)(cit. in Bull.Jard.Bot.Brux.33:364 (1963).
 
-Mildbraed 5891,Fenda,6o km E Kribi (stér.）HBG.
+Mildbraed 5891,Fenda,6o km E Kribi (stér.)HBG.
 
 ### Material studied in Gabon
 

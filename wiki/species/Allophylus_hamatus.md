@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The collectors noted the presence of spines on young stems; these organs, rarely observable in herbarium specimens, are true spines, with a libero-ligneous axis, situated at approximately 2 cm above the insertion of leaves on branchlets 6-8 mm in diameter. The petiolules are short, 4-5 (-7) mm, the lateral leaflets reaching 2/3 or 3/4 of the terminal one; the rather large size of the leaves may suggest A. grandifolius, but this latter species has very thin and entire blades, whereas those of A. hamatus are quite firm and well-toothed above.
 
-Les récolteurs ont noté la présence d'épines sur les jeunes tiges; ces organes, rarement observables en herbier, sont de vraies épines, avec axe libéro-ligneux, situées à environ 2 cm au-dessus de l'insertion des feuilles sur des rameaux de 6-8 mm de diamètre. Les pétiolules sont courts, 4-5 (-7) mm, les folioles latérales atteignent les 2/3 ou les 3/4 de la terminale; la taille assez élevée des feuilles peut faire penser à A. grandifolius, mais cette dernière espèce a des limbes très minces et entiers, alors que ceux de A. hamatus sont assez fermes et bien dentés en haut.
-
-Les fleurs, blanches, ont des pédicelles de 1,5 mm, articulés à la base. Les sépales sont nerviés ou non. Arbre de 3-6 m. PL. 7, 11-14, p. 41.
+The flowers, white, have pedicels of 1.5 mm, articulate at the base. The sepals are nerved or not. Tree 3-6 m. PL. 7, 11-14, p. 41.
 
 ## Type
 

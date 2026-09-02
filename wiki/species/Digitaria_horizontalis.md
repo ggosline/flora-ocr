@@ -25,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual, 50 cm tall or more, base prostrate, but the upper internodes very elongated. Leaves glabrous or pubescent, particularly on the sheaths; ligule membranous truncate, blades linear, narrowed at the base, up to 15 × 1.2 cm.
 
-Annuelle, 50 cm de haut ou plus, base prostrée, mais les entrenœuds supérieurs très allongés. Feuilles glabres ou pubescentes, particulièrement sur les gaines; ligule membraneuse tronquée, limbes linéaires, rétrécis à la base, jusqu'à 15 × 1,2 cm.
+Racemes up to 15 cm long, pubescent especially at the base. Rachis narrow, pedicels geminate, the longest about 1.5 mm. Spikelets 2 mm long, practically glabrous. Lower glume very reduced; upper glume forming half or 4/5 of the spikelet. Lower lemma with 7 nerves, the size of the spikelet, with lateral lines of appressed, fine, silvery hairs. Palea very small. Upper floret acuminate, chartaceous, brown at maturity.
 
-Racèmes jusqu'à 15 cm de long, pubescents surtout à la base. Rachis étroit, pédicelles géminés, le plus long d'environ 1,5 mm. Épillets de 2 mm de long, pratiquement glabres. Glume inférieure très réduite; glume supérieure faisant la moitié ou les 4/5 de l'épillet. Lemma inférieure à 7 nervures, de la taille de l'épillet, avec des lignes latérales de poils apprimés, fins, argentés. Paléa très petite. Fleur supérieure acuminée, cartacée, brune à maturité.
-
-Espèce rudérale très répandue en Afrique. Mauvaise herbe souvent gênante dans les cultures. N'est généralement pas appétée par les bovins.
+Ruderal species very widespread in Africa. Weed often troublesome in crops. Generally not palatable to cattle.
 
 ## Vernacular names
 

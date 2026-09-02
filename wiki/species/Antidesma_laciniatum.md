@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou arbre jusqu’à 15 m de hauteur ; tronc jusqu’à 30 cm de diamètre ; ramilles pubescentes, glabrescentes ou non. Stipules laciniées , à 3–9 segments étroits, ± long temps persistantes, de 5–14 × 3–6 mm, pileuses comme les ramilles. Feuille : pétiole canaliculé dessus, 5–10(–14) mm ; limbe elliptique ou obovale à étroitement elliptique ou étroitement obovale, (9–)20–28(–31) × (2–)7–10 cm , arrondi à subcordé à la base, sommet acuminé sur 0,5–3 cm, coriace à papyracé, glabre dessus sauf la médiane à poils ± persistants, ± éparsement pubescent sur les nervures dessous, plus densément sur la mé diane ; nervures latérales 10–18 paires . Inflorescence mâle à fleurs compactes, 4–7 cm de longueur, pubescente. Inflorescence femelle jusqu’à 17 cm de longueur, plus longue en fruit. Fleur mâle à calice pubescent. Fleur femelle à pédicelle de 1 mm, ± glabrescent. Fruit ovoïde-ellipsoïde, 8–10 × 6–8 mm, légèrement aplati, ± glabre, rouge puis noir à maturité.
+Shrub or tree up to 15 m tall; trunk up to 30 cm in diameter; branchlets pubescent, glabrescent or not. Stipules laciniate, with 3–9 narrow segments, ± long-persistent, 5–14 × 3–6 mm, pilose like the branchlets. Leaf: petiole channelled above, 5–10(–14) mm; blade elliptic or obovate to narrowly elliptic or narrowly obovate, (9–)20–28(–31) × (2–)7–10 cm, rounded to subcordate at base, apex acuminate over 0.5–3 cm, coriaceous to papyraceous, glabrous above except midvein with ± persistent hairs, ± sparsely pubescent on the veins below, more densely on the midvein; lateral veins 10–18 pairs. Male inflorescence with compact flowers, 4–7 cm long, pubescent. Female inflorescence up to 17 cm long, longer in fruit. Male flower with pubescent calyx. Female flower with pedicel 1 mm, ± glabrescent. Fruit ovoid-ellipsoid, 8–10 × 6–8 mm, slightly flattened, ± glabrous, red then black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Libéria à la République Centrafricaine, la République Démocratique du Congo et l’Angola ; au Gabon, connue de toutes les provinces
+from Liberia to the Central African Republic, the Democratic Republic of the Congo and Angola; in Gabon, known from all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de la forêt primaire et secondaire ; au Gabon, à 0–650 m d’altitude. Usage : Le bois est utilisé comme bois d’œuvre et comme bois de feu (Schmelzer 2008a). La décoction des écorces est administrée dans les cas de dérangements intestinaux (Bou guet 1969). Note taxonomique : Á partir du matériel gabonais, il est impossible de subdiviser cette espèce en deux variétés (Keay 1958, Smith 1988), voire en deux sous-espèces (Léonard 1988). Les caractères utilisés montrent trop d’intermédiaires pour les justifier. b : Keay (1958), Léonard (1988), Schmelzer (2008a), Smith (1988). ibliographie
+understory of primary and secondary forest; in Gabon, at 0–650 m altitude. Uses: The wood is used as timber and as firewood (Schmelzer 2008a). A decoction of the bark is administered in cases of intestinal disorders (Bouguet 1969). Taxonomic note: Based on Gabonese material, it is impossible to subdivide this species into two varieties (Keay 1958, Smith 1988), or even into two subspecies (Léonard 1988). The characters used show too many intermediates to justify them. b: Keay (1958), Léonard (1988), Schmelzer (2008a), Smith (1988). ibliography
 
 ## Notes
 

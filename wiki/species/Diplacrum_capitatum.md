@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Scleria capitata Willd., Sp. pl., éd. 4, 4(1) : 319 (1805). Pteroscleria longifolia Griseb., Fl. Brit. W. I. : 579 (1864). D. longifolium (Griseb.) C.B.Clarke in Durand & Schinz, Consp. fl. afr. 5 : 669 (1895). Herbe vivace, assez robuste, à base émettant habituellement de longs et fins stolons couverts d’écailles ; tiges généralement de 30‒50 cm (partie fertile comprise) × 2‒3 mm, triangulaires, glabres. Feuilles nombreuses, basales et caulinaires ; gaine en forme de goulotte, verte à brun rougeâtre ; limbe de 20‒40 cm × 4‒8 mm, linéaire, plan ou à marge incurvée, très scabre sur la marge et la nervure centrale, surtout vers le sommet. Inflorescence composée de 2‒6 têtes sessiles ou courtement pédonculées, denses, formées de glomérules d’épillets sessiles , issues chacune d’une des gaines (sauf de l’inférieure). Épillet lancéolé, de 2‒3 × 1,5 mm, à une seule fleur ; fleurs femelles solitaires, placées entre 2 glumes sur un réceptacle ayant la marge insérée entre les glumes, l’ensemble formant une sorte de pince agrippant l’akène à maturité ; glumes nettement concaves, de 2,5‒3 × 1,5 mm , brun clair à foncé, avec des points ou des lignes sombres, nervure centrale ailée, sommet acuminé. Akène obovoïde, de 1‒1,2 × 1‒1,2 mm, blanc, faiblement strié longitudinalement, reposant sur une cupule haute de 0,2‒0,3 mm, brun jaunâtre et faiblement lobée.
+Scleria capitata Willd., Sp. pl., éd. 4, 4(1) : 319 (1805). Pteroscleria longifolia Griseb., Fl. Brit. W. I. : 579 (1864). D. longifolium (Griseb.) C.B.Clarke in Durand & Schinz, Consp. fl. afr. 5 : 669 (1895). Perennial herb, fairly robust, base usually emitting long and slender stolons covered with scales; stems generally 30–50 cm (fertile part included) × 2–3 mm, triangular, glabrous. Leaves numerous, basal and cauline; sheath channel-shaped, green to reddish-brown; blade 20–40 cm × 4–8 mm, linear, plane or with incurved margin, very scabrous on the margin and central nerve, especially toward the apex. Inflorescence composed of 2–6 sessile or shortly pedunculate heads, dense, formed of glomules of sessile spikelets, each arising from one of the sheaths (except the lowest). Spikelet lanceolate, 2–3 × 1.5 mm, with a single flower; female flowers solitary, placed between 2 glumes on a receptacle with margin inserted between the glumes, the whole forming a sort of clasp gripping the achene at maturity; glumes distinctly concave, 2.5–3 × 1.5 mm, light to dark brown, with dark spots or lines, central nerve winged, apex acuminate. Achene obovoid, 1–1.2 × 1–1.2 mm, white, weakly striate longitudinally, resting on a cupule 0.2–0.3 mm high, yellowish-brown and weakly lobed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Ghana, Nigeria, Gabon et aussi en Amérique tropicale ; rare au Gabon, trouvée dans l’Estuaire, l’Ogooué-Ivindo et l’Ogooué-Maritime (3 récoltes)
+Sierra Leone, Liberia, Ghana, Nigeria, Gabon and also in tropical America; rare in Gabon, found in Estuaire, Ogooué-Ivindo and Ogooué-Maritime (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les marécages et les mangroves ; au Gabon, à 0‒500 m d’altitude, jusqu’à 1200 m en Afrique de l’Est. B : Haines & Lye (1983), Napper (1971, 1972). ibliographie
+in swamps and mangroves; in Gabon, at 0–500 m altitude, up to 1200 m in East Africa. B: Haines & Lye (1983), Napper (1971, 1972). Bibliography
 
 ## Notes
 

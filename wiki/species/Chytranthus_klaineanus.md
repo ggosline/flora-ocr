@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL. Pflanzenreich, Sapindaceae : 796 (1933); PELLEGRIN, Mém. Soc. Bot. France 102 : 73 (1955).
 
-Petit arbuste monocaule de 1-3,5 m de hauteur. Extrémité pubescente. Rachis foliaire pubescent, long de 27-40 cm; 3-4 paires de folioles opposées ou subopposées; pétiolues velus ou finement pubérulents, de 4-8 mm; folioles obovées elliptiques de 16-32 × 7-12 cm, à base ± obtuse à subaiguë, à sommet acuminé caudé; limbe subconcolore, pubescent dessous, parfois très finement; nervure médiane pubescente dessus, velue ochracée à poils mous dessous; 10-20 paires de nervures secondaires; fin réseau apparent sur les deux faces à sec.
+Small monocaulous shrub 1–3.5 m tall. Apex pubescent. Leaf rachis pubescent, 27–40 cm long; 3–4 pairs of leaflets opposite or subopposite; petiolules hairy or finely puberulent, 4–8 mm; leaflets obovate-elliptic 16–32 × 7–12 cm, with base ± obtuse to subacute, apex acuminate-caudate; blade subconcolorous, pubescent beneath, sometimes very finely so; midvein pubescent above, ochraceous-villous with soft hairs beneath; 10–20 pairs of secondary veins; fine reticulum apparent on both surfaces when dry.
 
-Inflorescences échelonnées de la base de la tige jusqu'à 0,60 m de hauteur, grêles, longues de 5-20 cm, densément et brièvement dorées pubes-centes; pédicelle floral de 1-1,5 mm. Bouton étroit et obové; calice rosâtre pâle de 6,5 mm de longueur et 2,5 mm de diamètre, fendu sur plus de 2 mm en 5 lobes inégaux; pétales 4-5, étroits, à sommet denticulé; ligule longue et étroite mais soudée le long de son axe sur les 4/5 de sa longueur, à sommet ‡ obiquement replié; appendicule dépassant la ligule, épanoui en lame fimbriée; disque petit d'environ 1 mm de largeur, pentagonal; 7-8 étamines pourprées, inégales dont 4 exsertes de 6-8,5 mm; filet médiocrement pubescent; anthère glabre,  $ 1,4 \times 0,8 $ mm, à connectif nettement bossu en saillie vers le sommet; ovaire avorté hirsute, à 3 étroits lobes stigmatiques.
+Inflorescences distributed from the base of the stem up to 0.60 m in height, slender, 5–20 cm long, densely and briefly golden-pubescent; floral pedicel 1–1.5 mm. Bud narrow and obovate; calyx pale roseate 6.5 mm long and 2.5 mm in diameter, split for more than 2 mm into 5 unequal lobes; petals 4–5, narrow, with denticulate apex; ligule long and narrow but fused along its axis for 4/5 of its length, at apex ± obliquely folded; appendicule exceeding the ligule, spread out into a fimbriate blade; disk small approximately 1 mm wide, pentagonal; 7–8 purple stamens, unequal of which 4 exserted 6–8.5 mm; filament moderately pubescent; anther glabrous, $ 1.4 \times 0.8 $ mm, with connectivum distinctly gibbous projecting toward the apex; ovary aborted hirsute, with 3 narrow stigmatic lobes.
 
-Fruit charnu ellipsoïde à 3 côtes et, à sec, trois forts sillons, longs de 3,5-4 cm, large de 2 cm, à sommet atténué, chez le type, en rostre étroit de 1 cm de longueur; tégument ridé verruculeux pubérulent; 3 graines oblongues faiblement comprimées et un peu arquées,  $ 25 \times 9 \times 5 $ mm; 2 cotylé-dons à commissures latérales; hile étroitement allongé. Ce fruit rappelle par sa forme, à sec, le genre Placodiscus. PL. 22, p. 101.
+Fruit fleshy ellipsoid with 3 ridges and, when dry, three strong furrows, 3.5–4 cm long, 2 cm wide, apex attenuate, in the type, into a narrow rostrum 1 cm long; tegument wrinkled verrucose puberulent; 3 oblong seeds weakly compressed and somewhat curved, $ 25 \times 9 \times 5 $ mm; 2 cotyledons with lateral commissures; hilum narrowly elongate. This fruit recalls by its form, when dry, the genus Placodiscus. PL. 22, p. 101.
 
 ## Type
 

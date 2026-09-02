@@ -15,29 +15,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant souvent la canopée, de (3–)12–18(–20) m de longueur , parfois un arbuste sarmenteux atteignant 3,6 m de hauteur ; tige s’enroulant parfois sur le sol et s’y enracinant, grimpant au moyen de pseudoépines rétrorses finement striées, de 1,5–2,0 cm sur les jeunes pousses longues et élancées, glabre. Feuilles opposées ou subopposées ; pétiole de 0,5–5 cm ; limbe elliptique, de 2–11(–21) × 1–7(–12) cm, base arrondie, sommet nettement acuminé, mince, glabre, finement réticulé, parfois pubescent sur les nervures dessous. Inflorescence axillaire ou terminale, généralement issue des tiges principales près du sol, bien ± sous des feuilles les plus basses ou parfois se terminant par des rameaux feuillés , lâche, parfois peu condensée, paniculée, de (5–)11–40(–50) × (2–)5–10(–15) cm, à rapport longueur/largeur de 2,5–3,5 ; cymes dichasiales, avec 3 à 5 fleurs ou plus, distantes de ± 0,5–2,5(–5) cm ; pédoncule de 1–2 cm ; bractées filiformes, souvent caduques, de 2–5 cm. Fleur : pédicelle de 1,5–4 mm ; calice à tube de 8–10 × 3 mm, à lobes longs de ± 1–3 mm ; corolle blanche , parfumée, à tube étroitement cylindrique, long de 0,6–1,8(–2,5) cm, à lobes arrondis-elliptiques de 2,5–8 × 2–5 mm ; étamines exsertes (?). Fruit 13 × 10 mm, vert foncé.
+Liana often reaching the canopy, (3–)12–18(–20) m in length, sometimes a sarmentose shrub reaching 3.6 m in height; stem sometimes coiling on the ground and rooting there, climbing by means of retrorsely directed pseudospines finely striated, 1.5–2.0 cm on young, long and slender shoots, glabrous. Leaves opposite or subopposite; petiole 0.5–5 cm; blade elliptic, 2–11(–21) × 1–7(–12) cm, base rounded, apex distinctly acuminate, thin, glabrous, finely reticulate, sometimes pubescent on the veins beneath. Inflorescence axillary or terminal, generally arising from the main stems near the ground, clearly ± below the lowest leaves or sometimes terminating in leafy branches, lax, sometimes slightly condensed, paniculate, (5–)11–40(–50) × (2–)5–10(–15) cm, with length/width ratio of 2.5–3.5; dichasial cymes, with 3 to 5 or more flowers, distant ± 0.5–2.5(–5) cm; peduncle 1–2 cm; bracts filiform, often caducous, 2–5 cm. Flower: pedicel 1.5–4 mm; calyx with tube 8–10 × 3 mm, with lobes ± 1–3 mm long; corolla white, fragrant, with tube narrowly cylindric, 0.6–1.8(–2.5) cm long, with rounded-elliptic lobes 2.5–8 × 2–5 mm; stamens exserted (?). Fruit 13 × 10 mm, dark green.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale tropicale, Nigéria, Cameroun, Gabon, Sao Tomé-et-Principe, Répu blique du Congo, République démocratique du Congo, Angola, Afrique orientale tropicale et Zambie ; au Gabon : Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo et Woleu-Ntem. Statut de conservation : à large répartition et attribué préliminairement à Préoccupation mineure (LC)
+Tropical West Africa, Nigeria, Cameroon, Gabon, São Tomé and Príncipe, Republic of the Congo, Democratic Republic of the Congo, Angola, tropical East Africa and Zambia; in Gabon: Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem. Conservation status: widely distributed and preliminarily assigned to Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts tropicales primaires ou secondaires ; au Gabon à 80–675 m d’altitude, ailleurs jusqu’à 1350 m
+Primary or secondary tropical forests; in Gabon at 80–675 m altitude, elsewhere up to 1350 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fernandes (1998) recognized numerous infraspecific taxa within C. silvanum, in particular at the rank of variety and form, on the basis of corolla tube length and inflorescence density. Most Gabonese material shows a tube ≥ 1.2 cm long and falls within the circumscription of C. silvanum var. silvanum f. silvanum. A single specimen identified as C. botryoides (Hiern) Baker is known from Gabon and would thus be C. silvanum var. silvanum f. botryoides (Hiern) R.Fern. This recognition of a taxonomy based on very minor variation within the species is not considered practical, while being accepted, but not followed here. For more detailed infraspecific taxonomic treatment, refer to Fernandes (1998). B: Fernandes (1998), Fernandes & Diniz (2005), Huber et al. (1963), Verdcourt (1992). Bibliography
 
-Fernandes (1998) a reconnu de nombreux taxons infraspécifiques au sein de C. silvanum , notamment au rang de la variété et de la forme, sur la base de la longueur du tube de la corolle et la densité de l’inflorescence. La plupart du matériel gabonais montre un tube long de ≥ 1,2 cm et rentre dans la cir conscription de C. silvanum var. silvanum f. silvanum. Un seul spécimen identifié comme C. botryoides (Hiern) Baker est connu du Gabon et serait alors C. silvanum var. silvanum f. botryoides (Hiern) R.Fern. Cette reconnaissance d’une taxonomie basée sur une variation très mineure au sein de l’espèce n’est pas considérée comme pratique, tout en étant acceptée, mais non suivie ici. Pour un traitement taxonomique infraspécifique plus détaillé, on se référera à Fernandes (1998). B : Fernandes (1998), Fernandes & Diniz (2005), Huber et al. (1963), Verdcourt (1992). i B liographie
-
-A B C D E F G Nyaki Forest Reserve), Warren Mcleland (C, D : Zambie, Lumangwe Falls), Ehoarn Bidault (E : Gabon, Ivindo) ; F : Gabon, N. du Lac Alombié) et Rainer Wendt (G : Guinea).
+A B C D E F G Nyaki Forest Reserve), Warren Mcleland (C, D: Zambia, Lumangwe Falls), Ehoarn Bidault (E: Gabon, Ivindo); F: Gabon, N. of Lake Alombié) and Rainer Wendt (G: Guinea).
 
 ## Notes
 

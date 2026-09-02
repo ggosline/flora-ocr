@@ -22,19 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 1.5–3 (4) m tall, with hard yellow wood 15 mm diam., much-branched, with glabrous internodes 20–50 × 1–1.5 mm. Stipules triangular, very acute, 2–4 mm long and ± 1 mm wide at base, sinuous in profile, glabrous. Petiole 3–5 mm, with narrow channel bordered by fine pubescent margins. Blade elliptic to obtrullate 4–10 × 1.5–3.5 cm, glabrous, often brown to reddish when dry; base acute or subacute; apex with strong acumen ca. 10–15 mm, often curved to one side. (7) 8–9 pairs of moderately ascending lateral nerves; apices of the intersecondary fields sharply closed. Axillary domatia pubescent with orifice obscured by hairs.
 
-Arbrisseau ou arbuste de 1,5-3 (4) m de hauteur, à bois dur jaune de 15 mm de diam., très rameux, à entrenœuds glabres de 20-50 × 1-1,5 mm. Stipules triangulaires très aiguës de 2-4 mm de long et ± 1 mm de large à la base, sinueuses de profil, glabres. Pétiole de 3-5 mm, à canal étroit bordé de fines marges pubescentes. Limbe elliptique à obtrullé de 4-10 × 1,5-3,5 cm, glabre, souvent brun à rougeâtre à sec; base aiguë ou subaiguë; sommet à fort acumen d'env. 10-15 mm, souvent arqué d'un côté. (7) 8-9 paires de nervures latérales médiocrement ascendantes;
+Inflorescences glabrous 1 to 4 cm long, axillary, solitary or 2 at the same node; rachis with a terminal flower pedicelled 5–15 mm; two pairs of opposite secondary axes, spaced 5–13 mm apart, bearing 4 lateral flowers; tertiary ramifications very rare. The first bracts are linear and ca. 1–5 mm long. Pedicel slender, 2–10 mm long. Bud glabrous, somewhat conical, reaching 6 × 3.5 mm. Flower light green with the throat concealed under a dense tuft of white hairs. Diameter 6–9 mm; 6 acute sepals 1 mm; 6 triangular petals ca. 3 × 1.9 mm on a tube reaching 2–3 mm tall and swollen around the disk. Anther pale yellow 1–1.5 mm with acumen 0.4 mm; pollen white. Style pubescent 5 mm, with dark green clavate stigma. Disk strongly convex, ca. 2 mm diam., green with white pubescence, crowned with glabrous pits (contact point of stamen cells in young bud).
 
-sommets des champs intersecondaires fermés de façon nette. Domaties axillaires pubescentes à orifice masqué par les poils.
+Ovary with 3–4 locules. Ovular mass 0.5 mm, deeply emarginate. Ovules numerous.
 
-Inflorescences glabres de 1 à 4 cm de long, axillares, solitaires ou par 2 à une même aisselle; rachis avec une fleur terminale pédoncule de 5-15 mm; deux paires d'axes secondaires opposés, écartées de 5-13 mm, d'où 4 fleurs latérales; ramifications tertaires très rares. Les premières bractées sont linéaires et longues de 1-5 mm env. Pédicelle grêle, long de 2-10 mm. Bouton glabre + conique atteignant 6 × 3,5 mm. Fleur vert clair avec la gorge dissimulée sous une dense touffe de poils blancs. Diamètre 6-9 mm; 6 sépales aigus de 1 mm; 6 pétales triangulaires d'env. 3 × 1,9 mm sur un tube atteignant 2-3 mm de hauteur et renflé autour du
-
-disque. Anthère jaune pâle de 1-1,5 mm dont l'acumen de 0,4 mm; pollen blanc. Style pubescent de 5 mm, à stigmate en massue vert foncé. Disque fortement bombé, d'env. 2 mm de diam., vert à pubérulence blanche, couronné de fossettes glabres (point de contact des loges staminales dans le jeune bouton).
-
-Ovaire à 3-4 loges. Masse ovulaire de 0,5 mm, échancrée profondément. Ovules nombreux.
-
-Fruit globuleux de 5-7 mm de diam., à couronne calycinale accrescente en diamètre. Nombreuses graines de 1 mm, allongées, déprimées latéralement, ornées d'un fin réticule étiré.
+Fruit globose 5–7 mm diam., with accrescent calycine crown in diameter. Numerous seeds 1 mm, elongate, laterally depressed, ornamented with fine stretched reticulation.
 
 ## Type
 
@@ -42,11 +36,9 @@ Dewèvre 799, Coquilhatville, Congo (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Congo (ex-French and ex-Belgian), Cameroon (Breteler 1782) and Gabon.
 
-Congo (ex-fr. et ex-b.), Cameroun (Breteler 1782) et Gabon.
-
-Plante de bas-fond marécageux ou de rive périodiquement inondée, fleurissant avec le pied dans 1-2 m d'eau ou plus, la cime formant un buisson lâche. Nous l'avons récoltée près des limites d'un faciès à Nauclea Pobeguini et d'une raphiale en lumière tamisée. Au-dessus de la même nappe et à proximité fleurissait aussi l'Anthocleista Liebrechtsiana (Logan.).
+Plant of swampy lowlands or periodically inundated riverbank, flowering with the base in 1–2 m of water or more, the crown forming a loose shrub. We collected it near the limits of a facies with Nauclea Pobeguini and a raphiale in filtered light. Above the same water level and nearby also flowered Anthocleista Liebrechtsiana (Logan.).
 
 ## Specimens examined
 

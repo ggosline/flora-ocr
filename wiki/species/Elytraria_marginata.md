@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves subsessile or petiolate; petioles up to 5 mm; blade elliptic-lanceolate, reaching at full development 10 × 3 cm, glabrous. Approximately 5 pairs of lateral veins.
 
-Feuilles subsessiles ou pétiolées; pétioles jusqu'à 5 mm; limbe elliptique-lancéolé, atteignant à bon développement 10 × 3 cm, glabre. Environ 5 paires de nervures latérales.
+Inflorescences (2) 4–9 cm, with peduncles 0.5–2.5 cm; sterile bracts appressed to the peduncle; bracts of the inflorescence oval-lanceolate, naviculate, approximately 3–4 mm, ciliate at the margins, with a pubescent apex; bracteoles lanceolate, narrow 3.5 × 0.5 mm, translucent, ciliate at the margins in the upper third. Calyx 5 mm; corolla 4 mm.
 
-Inflorescences (2) 4-9 cm, à pédoncules de 0,5-2,5 cm; bractées stériles appressées au pédoncule; bractées de l'inflorescence ovales-lancéolées, naviculées, d'environ 3-4 mm, ciliées aux bords, avec une pointe pubescente; bractéoles lancéolées, étroites de 3,5 × 0,5 mm, translucides, ciliées aux bords dans le tiers supérieur. Calice de 5 mm; corolle de 4 mm.
-
-Fruit de 4,5-5 mm, contenant environ 20 graines carrées ou subglobuleuses, très petites, à surface irrégulièrement granuleuse, de 0,6-0,7 mm diamètre.
+Fruit 4.5–5 mm, containing approximately 20 square or subglobose seeds, very small, with irregularly granulate surface, 0.6–0.7 mm diameter.
 
 ## Type
 

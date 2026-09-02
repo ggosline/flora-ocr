@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — R. Br., Prod. Nov. Holl.: 1262 (1810). — Tard., Mém. IFAN 28: 32 (1953).
 
 — Alston, FWTA : 22 (1959).
 
-Rhizome rampant. Pennes espacées d'environ 2-5 cm, courtement pétiolées, à contour deltoïde-oblong, longues de 7-15 cm, imparipennées; penne terminale semblable aux latérales, simple ou bifide. 4-6 paires de pinnules latérales, caduques, à pétiolule articulé, long de 0,3-0,5 cm, à contour deltoïde-lancéolé, longues de 2-4 cm sur 1 de large, à base tronquée, cordée ou hastée, extrémité arrondie ou aiguë, marge entière ou très légèrement échancrée. Texture subcoriace. Pinnules fertiles généralement plus courtes que les stériles, triangulaires, obtuses, longues de 2-4 cm. Rachis et surfaces nus. Nervures libres. Epis rapprochés, longs environ de 0,3-0,4 cm. Spores tétraédriques, à parois très épaisses, mamelonnées.
+Rhizome creeping. Fronds spaced approximately 2–5 cm apart, shortly petiolate, with a deltoid-oblong outline, 7–15 cm long, imparipinnate; terminal pinna similar to the lateral ones, simple or bifid. 4–6 pairs of lateral pinnules, deciduous, with an articulate petiolule 0.3–0.5 cm long, with a deltoid-lanceolate outline, 2–4 cm long by 1 cm wide, with a truncate, cordate or hastate base, rounded or acute apex, margin entire or very slightly emarginate. Subcoriaceous texture. Fertile pinnules generally shorter than the sterile ones, triangular, obtuse, 2–4 cm long. Rachis and surfaces glabrous. Veins free. Spikes approximate, approximately 0.3–0.4 cm long. Spores tetrahedral, with very thick, papillose walls.
 
-Le type est la figure de Cavanilles, que Prantl avait par erreur considéré comme synonyme de Ophioglossum scandens L.
+The type is the figure of Cavanilles, which Prantl had erroneously considered as a synonym of Ophioglossum scandens L.
 
-Afrique tropicale, Asie, Polynésie, Australie tropicale.
+Tropical Africa, Asia, Polynesia, tropical Australia.
 
-Prairies marécageuses et dans les raphiales.
+Marshy grasslands and in raphiales.
 
 ## Specimens examined
 

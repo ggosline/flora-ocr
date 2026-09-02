@@ -24,19 +24,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing or trailing vine. Stems more or less polygonal or cylindrical channelled and more or less distinctly winged, reaching 4 mm in diameter, weakly pilose when young, glabrous thereafter; internodes 2.5–4 cm long. Tendrils slender, glabrous, generally simple; bracts oval deltoid, enveloping at the base, about 1.5 mm long, glabrous or sparsely pilose. Stipules oval deltoid, broadly cordate at the base, 2.5–3 mm long, 2–2.5 mm wide, thickened and fleshy in the lower part, glabrous. Leaves simple entire. Petiole cylindric, channelled, 2–15 cm long, loosely pilose on young leaves, glabrous thereafter. Blade oval to suborbicular cordate, 7–15 cm long, 5.5–13 cm wide, with cuneate-acuminate apex, with cordate base; margins with fairly numerous thick teeth; upper surface glabrous, lower surface also glabrous or bearing sparse whitish hairs on the veins, denser at the base of the primary vein and at the top of the petiole;
 
-Liane grimpante ou rampante. Tiges plus ou moins polygonales ou cylindriques canaliculées et plus ou moins nettement ailées, atteignant 4 mm de diamètre, faiblement pileuses à l'état jeune, glabres ensuite; entrencéuds de 2,5-4 cm de long. Vrilles grèles, glabres, généralement simples; bractées ovales deltoïdes, enveloppantes à la base, d'environ 1,5 mm de long, glabres ou éparsément pileuses. Stipules ovales deltoïdes, largement cordées à la base, de 2,5-3 mm de long, de 2-2,5 mm de large, épaissies et charnues dans la partie inférieure, glabres. Feuilles simples entières. Pétiole cylindrique, canaliculé, de 2-15 cm de long, lâchement pileux dans les feuilles jeunes, glabre ensuite. Limbe ovale à suborbiculaire cordiforme, de 7-15 cm de long, de 5,5-13 cm de large, à sommet cuné-acuminé, à base cordée; marges à dents assez nombreuses épaisses; face supérieure glabre, face inférieure également glabre ou présentant des poils blanchâtres épars sur les nervures, plus denses à la base de la nervure primaire et en haut du pétiole;
+venation palmatipinnate with 3–5 basal veins; network irregularly ladder-like; texture soft somewhat fleshy.
 
-nervation palmatipennée à 3-5 nervures basales; réseau irrégulièrement en échelle; texture molle un peu charnue.
+Inflorescences 3–8 cm long, in irregular cymes composed of densely-flowered umbelliform cymules; axes more or less pilose; peduncle 1.5 cm long; bracts and bracteoles deltoid acute, 1–2 mm long, thickened in the lower part, more or less pilose. Flowers 3–4 mm long. Pedicel densely pilose, cylindric, 3–7 mm long. Calyx cupuliform, 0.6–1 mm high, glabrous. Corolla oval oblong, generally conical at the apex, glabrous; petals oblong, 2.8–3 mm long. Stamens 2–2.2 mm long; anthers about 0.8 mm long with somewhat thickened connective. Ovary glabrous.
 
-Inflorescences de 3-8 cm de long, en cymes irrégulières composées de cymules ombelliformes densiflores; axes plus ou moins pileux; pédoncule de 1,5 cm de long; bractées et bractéoles deltoides aiguës, de 1-2 mm de long, épaissies dans la partie inférieure, plus ou moins pileuses. Fleurs de 3-4 mm de long. Pédicelle densément pileux, cylindrique, de 3-7 mm de long. Calice cupuliforme, de 0,6-1 mm de haut, glabre. Corolle ovale oblonge, généralement conique au sommet, glabre; pétales oblonges, de 2,8-3 mm de long. Étamines de 2-2,2 mm de long; anthères d'environ 0,8 mm de long à connectif un peu épaissi. Ovaire glabre.
+Berries globulose about 8 mm long and 6 mm in diameter, glabrous. Seed suborbicular subreniform laterally compressed, 6–7 mm long, about 5.5 mm wide and 4 mm thick; rostrum small; median ridge narrow; testa with smooth surface.
 
-Baies globuleuses d'environ 8 mm de long et 6 mm de diamètrc, glabres. Grainc suborbiculaire subréniforme comprimée latéralement, de 6-7 mm de long, d'environ 5,5 mm de large et 4 mm d'épaisseur; rostre petit; crête médiane étroite; test à surface lisse.
+Type from Niger: Vogel s. n.
 
-Type du Niger : Vogel s. n.
-
-Grande liane rameuse atteignant 10-15 m de long, à fleurs blanc verdâtre, reconnaissable à ses tiges plus ou moins quadrangulaires. En forêt inondée temporairement, dans les forêts secondaires, les galeries forestières et les recrus, les savanes arbustives. Espèce largement répandue en Afrique tropicale.
+Large branching vine reaching 10–15 m long, with whitish-green flowers, recognizable by its more or less quadrangular stems. In temporarily flooded forest, in secondary forests, forest galleries and secondary growth, shrubby savannas. Species widely distributed in tropical Africa.
 
 ## Vernacular names
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 17(5-8)
 
-Planche 17(5-8)
-
-Herbe grimpante ou rampante ; tige glabre, jusqu'à 5 m de longueur. Vriile inégalement bifide. Feuille : pétiole 0,5–2,5 cm, glabre, souvent à poils jaunâtres et simples dessus ; limbe hasté à 3-palmatilobé avec le lobe central dominant, 6,5–11 × 5–9,5 cm, acuminé au sommet, vert pâle dessus, à marge entier ou un peu anguleux. Inflorescence : la mâle et femelle semblables, en racème lâche ; pédoncule jusqu'à 25 mm, glabre ; probractée obovales, atteignant 2 mm de longueur. Fleur mâle : pédicelle 3–10 mm, glabre ; sépales étalés, linéaires, longs de 0,5 mm ; corolle atteignant 12 mm de longueur, jaune ± orangé, à lobes longs de 2–4 mm. Fleur femelle : ovaire glabre. Fruit ellipsoïdal, ±1,5 cm de diamètre, probablement rouge à maturité. Graine aplatie, de contour ±symétriquement obovoïde, 5 × 3 × 1,5 mm, beige grisâtre.
+Climbing or trailing herb; stem glabrous, up to 5 m long. Tendril unequally bifid. Leaf: petiole 0.5–2.5 cm, glabrous, often with yellowish simple hairs above; blade hastate to 3-palmatilobed with the central lobe dominant, 6.5–11 × 5–9.5 cm, acuminate at apex, pale green above, margin entire or slightly angulate. Inflorescence: male and female similar, in lax raceme; peduncle up to 25 mm, glabrous; probractea obovate, reaching 2 mm long. Male flower: pedicel 3–10 mm, glabrous; sepals spreading, linear, 0.5 mm long; corolla reaching 12 mm long, yellow ± orange, with lobes 2–4 mm long. Female flower: ovary glabrous. Fruit ellipsoid, ±1.5 cm in diameter, probably red at maturity. Seed flattened, ±symmetrically obovoid in outline, 5 × 3 × 1.5 mm, greyish beige.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu du sud du Cameroun, probablement aussi en Guinée équatoriale ; au Gabon, connu de l'Estuaire, du Moyen-Ogooué, de la Ngounié, de l'Ogooué-Maritime et du Woleu-Ntem
+Known from southern Cameroon, probably also in Equatorial Guinea; in Gabon, known from Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt tropicale humide de plaine, forêt secondaire, lisières de forêt, forêt périodiquement inondée ; à 0–450 m d'altitude
+Humid tropical lowland forest, secondary forest, forest margins, periodically inundated forest; at 0–450 m altitude
 
 ## Bibliography
 

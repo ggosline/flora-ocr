@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 42, p. 189)
 
-Petit arbuste de 2-4 et jusqu'à 7 m de hauteur; entrenœuds glabres. Stipules glabres de 10-20 × 5-10 mm, lancéolées ± aiguès. Pétioles glabres de 5-15 mm, à canal bisulqué. Limbe glabre, remarquable à sec par son aspect terre olivacé ou brun-olivâtre, oblong de 17-30 (36) × 4-10 cm; base très inégalé à un côté aigu ou subaigu plus court, l'autre subaigu à cordé, plus long; sommet acuminé. Médiam nettement en relief sur le dessus du limbe. 10-12 nervures secondaires par côté; nervilles intersecondaires très médiocrement apparentes. Domaties nulles.
+Small shrub 2–4 and up to 7 m tall; internodes glabrous. Stipules glabrous 10–20 × 5–10 mm, lanceolate ± acute. Petioles glabrous 5–15 mm, with bisulcate channel. Blade glabrous, remarkable when dry for its olive-brown or olive-brown appearance, oblong 17–30 (36) × 4–10 cm; base very unequal on one side acute or subacute shorter, the other subacute to cordate, longer; apex acuminate. Midvein clearly prominent on the upper surface of the blade. 10–12 secondary veins per side; intersecondary veinlets very scarcely apparent. Domatia absent.
 
-Inflorescences glabres 9-20-flores, lâches, racémeuses ou pauvrement paniculiformes, à rachis de 3-8 cm; bractées réduites à des traces imperceptibles. Pédicelles longs de 5-10 (20) mm. Fleurs glabres, odorantes. Ovaire turbiné d'environ 3 × 2 mm Limbe calycinal cupuliforme de 2-2,5 mm de hauteur et 2,5-3 mm. de diamètre, à marge tronquée-5-mucronulée. Corolle blanche à tube de 15-20 × 0,15-0,2 mm, à 5 lobes de 17-30 × 2,5-4 mm. Anthères subsessiles exsertes de 6-9 × 0,5 mm. Style glabre dépassant la gorge de 1-2 cm; massue stigmatique fusiforme aiguë, étroitement bifide d'environ 5 × 1 mm. Ovaire uniloculaire : les deux placentas ne sont soudés qu'à l'extrême base.
+Inflorescences glabrous 9–20-flowered, lax, racemose or poorly paniclelike, with rachis 3–8 cm; bracts reduced to imperceptible traces. Pedicels 5–10 (20) mm long. Flowers glabrous, fragrant. Ovary turbinate approximately 3 × 2 mm. Calyx limb cupuliform 2–2.5 mm tall and 2.5–3 mm in diameter, with truncate-5-mucronulate margin. Corolla white with tube 15–20 × 0.15–0.2 mm, with 5 lobes 17–30 × 2.5–4 mm. Anthers subsessile exserted 6–9 × 0.5 mm. Style glabrous exceeding the throat by 1–2 cm; stigmatic club fusiform acute, narrowly bifid approximately 5 × 1 mm. Ovary unilocular: the two placentas are fused only at the extreme base.
 
-Fruit ellipsoïde ou piriforme de 4-6 × 2,5-3 cm, lisse, d'un vert foncé strié de marbrures longitudinales, jaune-orangé à maturité, à petite capsule calycinale persistante, à paroi épaisse atteignant 6 mm in vivo, 3,5 mm à sec, à mésocarpe lignifié dur, à
-
-endocarpe mince peu résistant, à 2 placentas pariétaux affrontés. Graines jusqu'à une cinquantaine ± imbriquées, de  $ 7 \times 5 \times 2 $ mm, roussâtres ornées de strioles fibreuses subconcentriques. Albumen charnu huileux. Embryon blanc, droit de 3 mm.
+Fruit ellipsoid or pyriform 4–6 × 2.5–3 cm, smooth, dark green streaked with longitudinal marbling, yellow-orange at maturity, with small persistent calycinous capsule, with wall thick reaching 6 mm in vivo, 3.5 mm when dry, with hard lignified mesocarp, with thin endocarp little resistant, with 2 parietal placentas facing each other. Seeds up to about fifty ± imbricate, $ 7 \times 5 \times 2 $ mm, reddish-brown adorned with subconcentrically fibrous strioles. Albumen fleshy oily. Embryo white, straight 3 mm.
 
 ## Type
 
@@ -40,9 +36,7 @@ Vogel 24 (K!), Cape Palmas, Liberia
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De la Guinée et Soudan jusqu'au Congo. Sous-bois forestier.
+From Guinea and Sudan to Congo. Forest understory.
 
 ## Specimens examined
 

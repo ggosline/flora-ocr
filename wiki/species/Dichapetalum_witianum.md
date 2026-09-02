@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 82 (8): 80-82 (1982); AUWP 86 (3): 42 (1986). TYPE: Gabon, km 36 Lastoursville-Moanda, Breteler & de Wilde 774 (holo-, WAG).
 
-Liane. Cylindre ligneux des tiges principales 5-lobé. Pousses orthotopes très courtes, petis rameaux en forme de crochets. Rameaux âgés glabres ou presque, lenticelles en général éparses. Jeunes rameaux avec pubérulence éparse, souvent tôt glabrescents.
+Liane. Woody cylinder of the main stems 5-lobed. Orthotropic shoots very short, small branches hook-shaped. Old branchlets glabrous or nearly so, lenticels generally scattered. Young branchlets with sparse puberulence, often early glabrescent.
 
-Stipules tôt caduques, étroites et ovées-oblongues à étroites et triangulaires, longues de 2-5 mm, pubérulence éparse ; base et marges de la face interne présentant souvent des pustules (Pl. 57, 3).
+Stipules early caducous, narrow and ovate-oblong to narrow and triangular, 2-5 mm long, sparse puberulence; base and margins of the inner face often bearing pustules (Pl. 57, 3).
 
-Feuilles. Pétiole sub- à hémicylindrique, (2) 4-6 (9) mm, pubé-rulent, sa face supérieure plate ou sillonnée montrant souvent des pustules sur ses marges (Pl. 57, 2). Limbe obové-elliptique, 2-2,5 (3) fois plus long que large, (7) 9-15 (18) × (3) 4 7 cm, base cunée ; marge décurrente sur le pétiole ; acumen présent, aigu à obtus parfois caudé, long de 0,5-1,5 (2) cm ; nervure I et les 5-6 (8) paires principales de nervures II aplaties ou légèrement proéminentes dessus, proéminentes dessous, avec pubérulence éparse sur les deux faces, ensuite glabrescentes et plus rapidement dessus ; glandes en général présentes, dessous seulement, peu distinctes, souvent situées surtout le long de la nervure I en direction de la base et de l'acumen.
+Leaves. Petiole sub- to hemicylindrical, (2) 4-6 (9) mm, puberulent, its upper face flat or furrowed often showing pustules on its margins (Pl. 57, 2). Lamina obovate-elliptic, 2-2.5 (3) times longer than wide, (7) 9-15 (18) × (3) 4-7 cm, base cuneate; margin decurrent on the petiole; acumen present, acute to obtuse sometimes caudate, 0.5-1.5 (2) cm long; vein I and the 5-6 (8) pairs of main veins II flattened or slightly prominent above, prominent below, with sparse puberulence on both faces, subsequently glabrescent and more rapidly above; glands generally present, below only, scarcely distinct, often located chiefly along vein I toward the base and acumen.
 
-Inflorescences nettement pédonculées à 3-5 ordres de ramification nets, ≤ 25-flores, pubérulentes. Pédoncule (2) 5-15 mm. Bractées et bractéoles très petites, ovées-triangulaires, longues de ≤ 1,5 mm, montrant souvent deux pustules de chaque côté de la base (Pl. 57, 5). Pédi-celle ≤ 2 mm, pubérulent, partie supérieure ≤ 0,5 mm.
+Inflorescences distinctly pedunculate with 3-5 orders of ramification distinct, ≤ 25-flowered, puberulent. Peduncle (2) 5-15 mm. Bracts and bracteoles very small, ovate-triangular, ≤ 1.5 mm long, often bearing two pustules on each side of the base (Pl. 57, 5). Pedicel ≤ 2 mm, puberulent, upper part ≤ 0.5 mm.
 
-Fleurs : sépales, pétales et étamines subégaux, longs de ≈ 5-6 mm. Sépales dressés ou légèrement étalés, oblongs, 5-6,5 × 1-1,5 mm, tomentelleux sur les deux faces. Pétales dressés, soudés sur 1,5-2,5 mm aux étamines par leur base, de forme générale oblongue, 5-6 × 0,7 mm, fendus sur ≤ 1 mm, glabres ou avec quelques poils externes au-dessous de la fente ; lobes concaves. Étamines dressées, longues de 4-6,5 mm, glabres ; anthères oblongues de 0,5-0,7 mm, connectif distinct. Staminodes subcarrés, aplatis, ≤ 0,5 × 0,5 mm, glabres, sommet obtus à lobulé. Pistil 3-mère, long de 6 mm ; ovaire laineux ; style glabre terminé par 3 lobes courts.
+Flowers: sepals, petals and stamens subequal, ≈ 5-6 mm long. Sepals erect or slightly spreading, oblong, 5-6.5 × 1-1.5 mm, tomentellose on both faces. Petals erect, fused for 1.5-2.5 mm to the stamens by their base, generally oblong in shape, 5-6 × 0.7 mm, split for ≤ 1 mm, glabrous or with a few external hairs below the split; lobes concave. Stamens erect, 4-6.5 mm long, glabrous; anthers oblong 0.5-0.7 mm, connective distinct. Staminodes subsquare, flattened, ≤ 0.5 × 0.5 mm, glabrous, apex obtuse to lobulate. Pistil 3-merous, 6 mm long; ovary woolly; style glabrous terminated by 3 short lobes.
 
-Fruits 1-2-spermes, obtus aux deux extrémités, tomentelleux, oranges ; fruits 1-spermes subsphériques à légèrement ellipsoïdaux, un peu comprimés latéralement,  $ 1,5-2 \times 1,5-2 \, \text{cm} $; exocarpe ferme, épais de  $ 0,5-1 \, \text{mm} $; mésocarpe succulent, épais de  $ 3-6 \, \text{mm} $; endocarpe ligneux, épais de  $ \leq 0,5 \, \text{mm} $, extérieur rugueux, intérieur lisse et glabre. Graine subellipsoïdale, comprimée latéralement,  $ \leq 1,5 \times 1 \times 0,8 \, \text{cm} $; testa mince brun, glabre. - Pl. 57, p. 189.
+Fruits 1-2-seeded, obtuse at both ends, tomentellose, orange; 1-seeded fruits subspherical to slightly ellipsoidal, somewhat compressed laterally, $ 1.5-2 \times 1.5-2 \, \text{cm} $; exocarp firm, $ 0.5-1 \, \text{mm} $ thick; mesocarp succulent, $ 3-6 \, \text{mm} $ thick; endocarp woody, $ \leq 0.5 \, \text{mm} $ thick, exterior rugose, interior smooth and glabrous. Seed subellipsoidal, compressed laterally, $ \leq 1.5 \times 1 \times 0.8 \, \text{cm} $; testa thin brown, glabrous. - Pl. 57, p. 189.
 
 ## Type
 
@@ -39,15 +37,11 @@ Breteler & de Wilde 774, km 36 Lastoursville-Moanda, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+rainforests
 
 ## Specimens examined
 

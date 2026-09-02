@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 8 to 12 (-20) m; branchlets rounded to subangular. Leaves subcoriaceous, opaque; petiole 2 to 4 mm; blade elliptic, elliptic-oblong to lanceolate-elliptic, 3-5 (7) × 8-11 (14) cm, broadly cuneate or rounded at base, cuneate on the petiole, acumen 1 cm; midvein alone well visible, moderately prominent beneath; 10 to 12 transverse veins slightly oblique, often divided before their connection with the convergent ones, obscure and submarginally positioned.
 
-Arbre de 8 à 12 (-20) m; rameaux arrondis à subangulaires. Feuilles subcoriaces, opaques; pétiole de 2 à 4 mm; limbe elliptique, elliptique-oblong à lancée-elliptique, 3-5 (7) × 8-11 (14) cm, largement en coin ou arrondi à la base, cunée sur le pétiole, acumen de 1 cm; nervure médiane seule bien visible, modérément saillante dessous; de 10 à 12 transversales légèrement obliques, souvent divisées avant leur connexion avec les convergentes, obscures et submarginales.
+Cymes generally solitary on leafy and leafless nodes, multi-flowered, 3 to 6 cm long with a stipe 1 to 2.5 cm, 2 to 4 times ramified, branches 2 then 1 cm; the pedicels short or absent and flowers umbellulate, or slightly distinct and 3-flowered. Flowers with slender pedicel 3 to 7 mm; floral bud 2.5 × 3 mm, globose to ovoid-apiculate, corolla shorter than half the height; hypanthocalyx campanulate, 2.5 × 2 mm; calyx developed, lobes ± incised, obtuse, with thin margin ± marcescent (cf. Le Testu 5931). Petals white, semi-ovate, 2 × 1.5 mm, sometimes apiculate. Anther 1.5-0.8 mm; connective slender, conical-acute, moderately incurved with elliptic gland; filament 3 mm; epigynous chamber deep, 8 membranous septa, equidistant or in cross arrangement; style 4 mm, with prominent insertion. 5 to 10 ovules.
 
-Cynes généralement solitaires sur les nœuds feuillés et défeuillés, multi-flores, longues de 3 à 6 cm avec un stipe de 1 à 2,5 cm, de 2 à 4 fois rami-fiées, rameaux de 2 puis 1 cm; les pédoncules courts ou nuls et fleurs ombellulées, ou légèrement distincts et 3-flores. Fleurs à pédicelle grêle de 3 à 7 mm; bouton floral 2,5 × 3 mm, globuleux à ovoïde-apiculé, corolle plus courte que la demi-hauteur; hypantho-calice campanulé, 2,5 × 2 mm; calice développé, lobes ± incisés, obtus, à marge mince et ± marcescente (cf. Le Testu 5931). Pétales blancs, semi-ovales, 2 × 1,5 mm, parfois apiculés. Anthère 1,5-0,8 mm; connectif grêle, conique-aigu, modérément incurvé avec glande elliptique; filet 3 mm; chambre épigyne profonde, 8 cloisons membraneuses, équidistantes ou en croix; style 4 mm, à insertion saillante. De 5 à 10 ovules.
-
-Fruit globuleux 7 × 7 mm.
+Fruit globose 7 × 7 mm.
 
 ## Type
 
@@ -45,9 +43,7 @@ Cette espèce se réfère au M. myrianthum Gilg. Nous l'en avons distinguée par
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Elle n'a pas été observée au Gabon, mais nous lui avons attribué plusieurs spécimens du Congo et de Centrafrique.
+It has not been observed in Gabon, but we have assigned to it several specimens from Congo and Central African Republic.
 
 ## Figures
 

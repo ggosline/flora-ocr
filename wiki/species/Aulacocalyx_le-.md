@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (Pr. 36, p. 163)
 
-Arbre atteignant une hauteur de 10-20 m et 75 cm de diam. (ou de circonférence?). Entrençéds pubescents roux ochracés. Stipules un peu pubescentes triangulaires aiguës longues de 4-6 mm. Pétioles de 3-6 mm, très finement pubescents. Limbe roussâtre à sec, plus terne dessous que dessus, de 10-15 × 4-6 cm, à base aiguë ou subaiguë souvent un peu dissymétrique; sommet étroitement acuminé aigu. Quelques rares poils à la face infé- rière du limbe. Principales nervures pubescentes dessous. 5-6 paires de nervures secondaires longuement ascendantes. Domaties en petites brosses axillaires.
+Tree reaching a height of 10–20 m and 75 cm in diam. (or in circumference?). Branch-lets pubescent roux ochraceus. Stipules somewhat pubescent triangular acute, 4–6 mm long. Petioles 3–6 mm, very finely pubescent. Limb reddish-brown when dry, duller below than above, 10–15 × 4–6 cm, base acute or subacute often somewhat asymmetric; apex narrowly acuminate acute. A few scattered hairs on the lower face of the limb. Main veins pubescent below. 5–6 pairs of secondary veins, long-ascending. Domatia in small axillary brushes.
 
-Inflorescences à 5-10 (12) fleurs disposées en petite cyme pseudo-axillaire ou au contraire distinctement terminale, apparaissant souvent au niveau d'un nœud à une seule feuille développée; pubescence roux ochracé à sec. Bractées deltoïdes de 1-1,5 mm, persistantes. Pédicelle de 1-3 mm. Fleurs blanches, à sec finement ochracées tomenteuses. Calice à limbe cylindrique d'env. 2,5 mm de hauteur et 3 mm de diamètre, à bord très brièvement divisé en 5 dents apiculées, inférieures à 1 mm. Corolle à tube de 18 × 2-3 mm, souvent fendu unilatéralement à l'anthèse sur plus de la moitié de la longueur; 5 lobes érigés d'env. 5 × 2,5 mm; intérieur du tube à pilosité semblable à celle de l'espèce précédente. Anthères de 11 × 0,6 mm, submédifixe, le tiers de leur longueur dépassant l'échancrure de lobes. Style glabre dépassant de 3-4 mm le tube de la corolle, dressé alors que la corolle échancrée s'incline latéralement; massue stigmatique indivise très étroite, très longuement et très finement sillonnée. 2 ovules enfoncés dans un placenta court.
+Inflorescences with 5–10 (12) flowers arranged in a small pseudo-axillary cyme or conversely distinctly terminal, often appearing at the level of a node with a single developed leaf; pubescence roux ochraceus when dry. Bracts deltoid, 1–1.5 mm, persistent. Pedicel 1–3 mm. Flowers white, finely ochraceus tomentose when dry. Calyx with cylindric limb ca. 2.5 mm in height and 3 mm in diameter, with margin very briefly divided into 5 apiculate teeth, less than 1 mm. Corolla with tube 18 × 2–3 mm, often split unilaterally at anthesis for more than half the length; 5 erect lobes ca. 5 × 2.5 mm; interior of tube with pilosity similar to that of the preceding species. Anthers 11 × 0.6 mm, submedifixed, one-third of their length exceeding the sinus of the lobes. Style glabrous exceeding the corolla tube by 3–4 mm, erect while the slit corolla inclines laterally; stigmatic club undivided very narrow, very long and very finely furrowed. 2 ovules embedded in a short placenta.
 
-Fruit non connu.
+Fruit not known.
 
-Matériel type, seul récolté au Gabon : G. Le Testu 2833 (P!) Tchibanga (fl. nov.).
+Type material, alone collected in Gabon: G. Le Testu 2833 (P!) Tchibanga (fl. Nov.).
 
-Cette espèce rare à été retrouvée au Mayombe congolais et au Bas-Congo (Devred 869).
+This rare species has been found again in the Congolese Mayombe and in Lower Congo (Devred 869).
 
 ## Figures
 

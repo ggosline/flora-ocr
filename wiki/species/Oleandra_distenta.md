@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kze., Bot. Zeit., 9 : 347 (1851). — Tard., Mém. IFAN 28 : 156 (1953). (incl. var. villosa).
 
-Rhizome longuement rampant, couvert d'écalles peltées, à centre foncé, parfois caduques. Frondes isolées, parfois rapprochées, non verticillées, sur des phyllopodes écailleux de 0,2 cm. Pétiole de 1,5 à 3 cm, articulé généralement dans son tiers inférieur, portant les mêmes écalles, parfois complètement caduques, que le rhizome. Limbe de 10-15 cm de long sur 2-4 de large, lancéolé, à bases obliques ou cunéiformes-arrondies; extrémité brusquement et longuement acuminée, bords entiers. Surfaces glabres. Costa portant parfois des petites écalles plus ou moins caduques. Nervures simples, parfois bifurquées près du costa. Sores réni-
+Rhizome long-creeping, covered with peltate scales with dark centre, sometimes caducous. Fronds isolated, sometimes clustered, not whorled, on scaly phyllopodes 0.2 cm. Petiole 1.5–3 cm, articulated generally in its lower third, bearing the same scales, sometimes completely caducous, as the rhizome. Lamina 10–15 cm long by 2–4 cm wide, lanceolate, with oblique or cuneate-rounded bases; apex abruptly and long acuminate, margins entire. Surfaces glabrous. Costa bearing sometimes small scales more or less caducous. Veins simple, sometimes bifurcate near the costa. Sori reniform, in a more or less regular row near the costa. Spores oval, bearing an irregular network of broad pale ridges.
 
-formes, en une rangée plus ou moins régulière près du costa. Spores ovales, portant un réseau irrégulier de larges crêtes pâles.
-
-Afrique tropicale et australe, Mascareignes. Epiphytes sur les grands arbres et sur Elaeis.
+Tropical and southern Africa, Mascarene Islands. Epiphytic on large trees and on Elaeis.
 
 ## Specimens examined
 

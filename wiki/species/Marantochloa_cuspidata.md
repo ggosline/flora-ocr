@@ -26,17 +26,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Proc. Lin. Soc. London, 165 : 30 (1954).
 
-Herbe rhizomateuse à tiges dressées simples de 60 cm de haut ou plus, portant généralement une, parfois deux feuilles à l'extrémité, et des gaines aphylls imbriquées à la base. Feuilles à limbe triangulaire-lancéolé, brusquement et longuement acuminé au sommet, largement arrondi à subtronqué à la base, atteignant environ  $ 40 \times 15 $ cm, pubescent sur la nervure principale à la face inférieure. Callus de 10 à 15 mm de long, pétiole, y compris la gaine, de 15-20 cm de long.
+Rhizomatous herb with erect, simple stems 60 cm tall or more, usually bearing one, sometimes two leaves at the apex, and with imbricate aphyllous sheaths at the base. Leaves with triangular-lanceolate blade, abruptly and elongately acuminate at the apex, broadly rounded to subtruncate at the base, reaching approximately $ 40 \times 15 $ cm, pubescent on the midvein on the lower surface. Callus 10–15 mm long; petiole, including the sheath, 15–20 cm long.
 
-Inflorescence terminale formée de un à plusieurs racèmes grèles, assez longuement pédonculés, mais pédoncule toujours plus court que le pétiole. Cinq à huit entre-nœuds mesurant de 15 à 25 mm. Bractées persistantes, de 25-40 × 10 mm env., axillant chacune une à deux cymes biflores; pédoncule commun aussi long que la bractée ; pédicelle le plus long de 7 à 10 mm. Sépales scarieux, corolle jusqu'à 20 mm de long, jaune, ovaire pubescent. Fruit ?
+Terminal inflorescence formed of one to several slender racemes, rather elongately pedunculate, but peduncle always shorter than the petiole. Five to eight internodes measuring 15–25 mm. Persistent bracts, ca. 25–40 × 10 mm, each subtending one to two two-flowered cymes; common peduncle as long as the bract; longest pedicel 7–10 mm. Sepals scarious; corolla up to 20 mm long, yellow; ovary pubescent. Fruit ?
 
-Plante connue de façon certaine du Sénégal à la Côte-d'Ivoire. Mais, du fait de la confusion ayant régné entre les différentes espèces, la répartition exacte de M. cuspidata est encore mal connue; sa présence au Gabon est possible.
+Plant certainly known from Senegal to Côte d'Ivoire. However, due to the confusion that has existed between the different species, the exact distribution of M. cuspidata is still poorly known; its presence in Gabon is possible.
 
-Espèce de sous-bois humide.
+Species of humid understory.
 
 ## Figures
 

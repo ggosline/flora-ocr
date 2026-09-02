@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very large tree reaching 50 m in height; trunk up to 200 cm in diameter, the base sometimes furnished with a strong buttress; bark smooth to scaly; cross-section pink, with a faint perfume-like odor, without appreciable exudate; terminal buds glabrescent. Leaf: petiole (8–)10–16(–18) cm, plano-convex at the base; rachis (1–)7–27(–32) cm, glabrescent; petiolule 1–4(–5) mm; leaflets (4–)8–18, narrowly elliptic to elliptic or rectangular to obovate, (3–)7–18(–23) × (1.5–)3–8(–9.5) cm, cuneate or subrounded and often asymmetric at the base, generally with a spoon-like acumen or sometimes emarginate at the apex; midvein beneath ordinarily densely-
 
-Très grand arbre atteignant 50 m de hauteur ; tronc jusqu’à 200 cm de diamètre, la base parfois munie d’un fort empattement ; écorce lisse à écailleuse ; tranche rose, avec une faible odeur de parfum, sans exsudat appréciable ; bourgeons terminaux glabrescents. Feuille : pétiole (8–)10–16(–18) cm, plan-convexe à la base ; rachis (1–)7–27(–32) cm, glabrescent ; pétiolule 1–4(–5) mm ; folioles (4–)8–18, étroitement elliptiques à ellip tiques ou rectangulaires à obovales, (3–)7–18(–23) × (1,5–)3–8(–9,5) cm, cunéiformes ou subarrondies et souvent asymétriques à la base, généralement avec un acumen en cuillère ou parfois émarginé au sommet ; nervure médiane dessous ordinairement densé-
+E. utile . – M, N, O : E. cylindricum . (A, B, C : Breteler 15422 ; D, E, F : Breteler et al. 14817 ; G, H, I : Jongkind et al. 9495 ; J, L : Breteler 2165 ; K : Leeuwenberg 2510 ; M, N, O : Wieringa et al. 5077 ). Drawing by Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
 
-E. utile . – M, N, O : E. cylindricum . (A, B, C : Breteler 15422 ; D, E, F : Breteler et al. 14817 ; G, H, I : Jongkind et al. 9495 ; J, L : Breteler 2165 ; K : Leeuwenberg 2510 ; M, N, O : Wieringa et al. 5077 ). Dessin par Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
-
-ment velue sur les côtés, nervures secondaires 6–11(–13) paires, réseau de nervilles très effacé. Inflorescences groupées à l’extrémité des rameaux, 15–35 cm de longueur, glabrescentes. Fleur fonctionnellement mâle : calice patelliforme, 5-lobé, 0,5–1 mm de longueur ; pétales étroitement rectangulaires à ovales, 5–6 × 1,7–2,5 mm, glabres ; tube staminal urcéolé, 3–4 mm de longueur, glabre, faiblement lobé au sommet, lobes émar ginés et alternant avec les 10 anthères, exsertes, rectangulaires, 0,8 × 0,4 mm ; gynécée (pistillode) 4–4,5 mm de longueur, y-inclus le disque-gynophore, glabre. Fleur fonction nellement femelle similaire : ovaire ovoïde, 2 mm de diamètre, soutenu par un disquegynophore distinct de 1-1,5 mm de hauteur le reliant au tube staminal par 10 cloisons membraneuses ; style 0,5–1 mm. Fruit fusiforme, à déhiscence basale, 14–22 × 3,5–5 cm , columelle sans stipe. Graine avec l’aile atteignant 7–9 × 2 cm.
+pubescent on the sides, secondary veins 6–11(–13) pairs, veinlet network very faint. Inflorescences clustered at the tip of branches, 15–35 cm in length, glabrescent. Functionally male flower: calyx patelliforme, 5-lobed, 0.5–1 mm in length; petals narrowly rectangular to ovate, 5–6 × 1.7–2.5 mm, glabrous; staminal tube urceolate, 3–4 mm in length, glabrous, weakly lobed at the apex, lobes emarginate and alternating with the 10 anthers, exserted, rectangular, 0.8 × 0.4 mm; gynoecium (pistillode) 4–4.5 mm in length, including the disc-gynophore, glabrous. Functionally female flower similar: ovary ovoid, 2 mm in diameter, supported by a distinct disc-gynophore 1–1.5 mm in height connecting it to the staminal tube by 10 membranous septa; style 0.5–1 mm. Fruit fusiform, with basal dehiscence, 14–22 × 3.5–5 cm, columella without a stipe. Seed with the wing reaching 7–9 × 2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Léone, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée Équatoriale, Gabon, République du Congo, République Centrafricaine, Répu blique Démocratique du Congo, Angola, Sud du Soudan, Ouganda et Kenya ; au Gabon, connue de presque toutes les provinces
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Angola, South Sudan, Uganda and Kenya; in Gabon, known from almost all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide sempervirente et semi-décidue ; au Gabon, jusqu’à 500 m d’alti tude, ailleurs jusqu’à 1800 m. Usage : Excellent bois d’œuvre apprécié pour la menuiserie et l’ébénisterie, également pour la construction des petits objets comme caisses et masques. L’écorce est utilisée en médicine traditionnelle
+evergreen humid and semi-deciduous forest; in Gabon, up to 500 m elevation, elsewhere up to 1800 m. Uses: Excellent timber highly valued for joinery and cabinetmaking, also for the construction of small objects such as boxes and masks. The bark is used in traditional medicine
 
 ## Vernacular names
 

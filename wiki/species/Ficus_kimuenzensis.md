@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : 138 (1916) ; LEBRUN & BOUTIQUE in HAUMAN FCB 1 : 132 (1948).
 
 - F. rudens HUTCH., Kew Bull.: 323, cum tab. (1915); LEBRUN & BOUTIQUE, l.c.: 132 (1948). TYPE : Gossweiler 4597, Angola, Monte de Lau, Monte Bello (holo-, K; iso-, BM).
 
-Arbuste épiphyte (grimpant) avec beaucoup de racines aériennes. Rameaux feuillés épais de 1-2 mm, glabres, marron sombre à noirâtres sur le sec. Feuilles disposées en spirales. Limbe elliptique à suborboculaire ou à ové, long de 2-7 cm, large de 1,5-3,5 cm, sommet longuement acuminé, base cordée, bord entier, les deux faces glabres ; nervures planes au-dessus, saillantes dessous ; 5-8 paires de nervures latérales, inclus 2-3 paires de nervures basales ; tache glanduleuse visible. Pétiole long de 1-1,5 cm, épais de 1 mm environ. Stipules libres, longues de 0,2-1 cm, glabres, caduques.
+Epiphytic shrub (climbing) with numerous aerial roots. Leafy branchlets 1-2 mm thick, glabrous, dark brown to blackish when dry. Leaves arranged in spirals. Lamina elliptic to suborbicular or ovate, 2-7 cm long, 1.5-3.5 cm wide, apex long-acuminate, base cordate, margin entire, both surfaces glabrous; venation plane above, prominent below; 5-8 pairs of lateral veins, including 2-3 pairs of basal veins; glandular spot visible. Petiole 1-1.5 cm long, approximately 1 mm thick. Stipules free, 0.2-1 cm long, glabrous, caducous.
 
-Figues en bouquet sur des éperons en coussinet sur les branches âgées ; pédoncule long de 1-3 cm, épais de 1 mm environ, pubérulent blanchâtre ; bractées basales 2, longues de 2 mm environ, pubérulent blanchâtre, persistantes ; réceptacle globuleux à ellipsoide, d'un diamètre de 1,5 cm environ, haut jusqu'à 2 cm, avec des poils épars petits blancs vers la base, vert pâle, rouge marron teinté de taches pâles à maturité, ostiole plat, bilabié.
+Figs clustered on cushion-like spurs on older branches; peduncle 1-3 cm long, approximately 1 mm thick, whitish pubescent; basal bracts 2, approximately 2 mm long, whitish pubescent, persistent; receptacle globose to ellipsoid, approximately 1.5 cm in diameter, up to 2 cm high, with scattered small white hairs towards the base, pale green, reddish-brown tinged with pale spots at maturity, ostiole flat, bilabiate.
 
-Fleurs pistillées avec 3-4 têpales longs de 1 mm environ, libres (ou basalement soudés); fleurs à graines sessiles ou pédicellées jusqu'à 0,5 mm, style long de 1-1,2 mm ; fleurs à galles à pédicelle long jusqu'à 1 mm, style long de 0,3-0,5 mm environ. Fruits ovoïdes à ellipsoïdes, longs de 1,5-2 mm ; fruits à galles longs de 2,5 mm environ, stipités jusqu'à 1 mm. Fleurs staminées pédicellées jusqu'à 1 mm, périant the avec 3-4 étamines longues de 1 mm environ, libres, filet long de 1 mm environ, anthère longue de 0,8 mm, connectif ± cucullé. Bractées interflorales longues de 1-1,5 mm. - Pl. 61, p. 209.
+Pistillate flowers with 3-4 tepals approximately 1 mm long, free (or basally connate); seed flowers sessile or pedicellate up to 0.5 mm, style 1-1.2 mm long; gall flowers with pedicel up to 1 mm long, style approximately 0.3-0.5 mm long. Fruits ovoid to ellipsoid, 1.5-2 mm long; gall fruits approximately 2.5 mm long, stipitate up to 1 mm. Staminate flowers pedicellate up to 1 mm, perianth with 3-4 stamens approximately 1 mm long, free, filament approximately 1 mm long, anther 0.8 mm long, connective ± cucullate. Interfloral bracts 1-1.5 mm long. - Pl. 61, p. 209.
 
-1. Ce taxon sera probablement réduit à une sous-espèce de F. tremula WARB.
+1. This taxon will probably be reduced to a subspecies of F. tremula WARB.
 
 ## Type
 
@@ -37,9 +35,7 @@ Gillet 2170, Zaïre, Kimuenza (holo-, B ; iso-, BR, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce s'étend du Sud-Est du Nigeria à l'Angola.
+The species extends from southeastern Nigeria to Angola.
 
 ## Specimens examined
 

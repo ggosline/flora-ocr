@@ -20,11 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Engler, Journ. Linn. Soc. 37 : 112 (1905), citation without description.
 
-— Engler, Journ. Linn. Soc. 37 : 112 (1905), citation sans description.
-
-Arbre de 25-35 m; fût cylindrique atteignant 15 m sur 90 cm de diamètre. Jeunes rameaux finement pubérulents fauves, puis glabres; bourgeons acuminés pubérulents. Feuilles ± coriaces noircissant en séchant, d'après Chevalier. Panicules de 2,5 à 5 cm, très ramiﬁées, pubérulentes. Fleurs de 1 à 2 mm de diamètre. Fruit pyriforme de 4 cm de long.
+Tree 25–35 m tall; cylindrical trunk reaching 15 m in length and 90 cm in diameter. Young branchlets finely puberulent, tawny, then glabrous; buds acuminate, puberulent. Leaves ± coriaceous, blackening when dry, according to Chevalier. Panicles 2.5–5 cm, very much branched, puberulent. Flowers 1–2 mm in diameter. Fruit pyriform, 4 cm long.
 
 ## Type
 
@@ -32,17 +30,15 @@ Zenker 2117 (P) et 2612 (P) Bipinde, Cameroun (1900-1903). Forêt dense, florais
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This tree was found in Gabon by the Forest Services in 1951. It is known under the vernacular name Ndzolé and yields a timber called "Kanda rose".
 
-Cet arbre a été trouvé au Gabon par les Services Forestiers en 1951. Il est connu sous le nom vernaculaire de Ndzolé et fournit un bois dit « Kanda rose ».
+(1) Species dedicated to M. G. Le Testu, collector without whom knowledge of the flora of Gabon would be greatly reduced.
 
-(1) Espèce dédiée à M. G. Le Testu, collecteur sans lequel la connaissance de la flore du Gabon serait fortement réduite.
+PL. XVI. — 1 to 4, Beilschmiedia obscura Engl. ex Stapf : 1, flowering branchlet, leaf 13 cm; 1', bract: 6 mm; 2, flower 2 mm diam.; 2', section; (Zenker 2117 type); 3, stamen 1st cycle, inner face; 3', profile; 3", outer face (Foury 39); 4, fruit 3 cm (Hédin 1548); 4', fruit 4 cm (according to Stapf). — 5 to 7, Beilschmiedia Thollonii Rob. et Wilcz. (Thollon 864, type) : 5, flowering branchlet, leaf 12 cm; 6, fragment of cyme; 7, flower; 7', section 2 mm diam.
 
-PL. XVI. — 1 à 4, Beilschmiedia obscura Engl. ex Stapf : 1, rameau florifère, feuille de 13 cm; 1', bractée : 6 mm; 2, fleur de 2 mm de diam.; 2', coupe; (Zenker 2117 type); 3, étamine 1er cycle, face interne; 3', profil; 3", face externe (Foury 39); 4, fruit de 3 cm (Hédin 1548); 4', fruit de 4 cm (d'après Stapf). — 5 à 7, Beilschmiedia Thollonii Rob. et Wilcz. (Thollon 864, type) : 5, rameau florifère, feuille de 12 cm; 6, fragment de cyme; 7, fleur; 7', coupe de 2 mm de diam.
+Geographic range: the types are from southern Cameroon; the Museum herbarium furthermore possesses specimens from British Cameroon and the Yaoundé region.
 
-Aire géographique : les types sont du Cameroun sud; l'herbier du Muséum possède en outre des échantillons du Cameroun britannique et de la région de Yaoundé.
-
-Remarque : Les étamines de ces plantes ont la forme caractéristique de la section Acrothecon Rob. et Wilcz. Cependant, dans leurs clés, ces auteurs placent B. obscura dans la section Hufelandia.
+Remark: The stamens of these plants have the characteristic form of section Acrothecon Rob. et Wilcz. However, in their keys, these authors place B. obscura in section Hufelandia.
 
 ## Specimens examined
 

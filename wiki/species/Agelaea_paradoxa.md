@@ -16,49 +16,45 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(synonyms, literature and types, see varieties)
 
-(synonymes, littérature et types, cf. variétés)
+Large liane reaching up to 40 m. Young branches puberulent to almost glabrous. Wood generally without interxylary phloem, xylem grooved.
 
-Grande liane pouvant atteindre 40 m. Jeunes rameaux pubérulents à presque glabres. Bois en général sans phloème interxylaire, xylème cannelé.
+Leaves. Petiole 4–19 cm long, rachis 0.5–5 cm, petiolules 2–7 mm. Leaflets 3, elliptic to ovate, puberulent to glabrous, with numerous mucilage cells on the upper surface appearing as small punctations when dry; 3–5 pairs of large lateral veins, apex acuminate; terminal leaflet, 4–26 × 2–13 cm; lateral leaflets asymmetric, 2.5–24.5 × 1–11 cm.
 
-Feuilles. Pétiole long de 4-19 cm, rachis de 0,5-5 cm, pétioiules de 2-7 mm. Folioles 3, elliptiques à ovées, pubérulentes à glabres, avec de nombreuses cellules à mucus à la face supérieure prenant l'aspect de petites ponctuations sur le sec ; 3-5 paires de grandes nervures latérales, sommet acuminé ; foliole terminale, 4-26 × 2-13 cm ; folioles latérales asymétriques, 2,5-24,5 × 1-11 cm.
+Inflorescences 6(–15) cm long, often several at the axil of a rudimentary leaf, puberulent to glabrous.
 
-Inflorescences longues de 6(-15) cm, souvent plusieurs à l'aisselle d'une feuille rudimentaire, pubérulentes à glabres.
+Flowers heterotristylous. Pedicel ≈ 1 mm long above the articulation. Sepals, 1.5–2 × 0.7–1 mm, exterior velvety. Petals, 4–5 × 1.5 mm, concave, glabrous. Stamens: the long ones, 1.5–4.5 mm long and the short ones, 0.5–3 mm. Pistil 0.5–3.5 mm long, not equalling the stamens; style with sparse pubescence; ovary pubescent.
 
-Fleurs hétérotristylées. Pédicelle long de ≈ 1 mm au-dessus de l'articulation. Sépales, 1,5-2 × 0,7-1 mm, extérieur velouté. Pétales, 4-5 × 1,5 mm, concaves, glabres. Étamines : les grandes, longues de 1,5-4,5 mm et les petites, de 0,5-3 mm. Pistil long de 0,5-3,5 mm, n'égalant pas les étamines ; style à pubescence éparse ; ovaire pubescent.
+Fruits: follicles developed 1–5 per flower, 20–45 × 10–28 mm, sometimes bearing numerous coarse protuberances, terminated by a beak.
 
-Fruits : follicules développés 1-5 par fleur, 20-45 × 10-28 mm, parfois munis de protubérances nombreuses et grossières, terminés par un bec.
+Seeds 15–30 × 7–14 mm; testa, for about one quarter, fleshy and yellow to red.
 
-Graines 15-30 × 7-14 mm ; testa, pour environ un quart, charnu et jaune à rouge.
-
-Germination hypogée ; feuilles de la première paire opposées et en général squamiformes ou avortées, premières feuilles pleinement développées unifoliolées.
+Germination hypogeal; first pair of leaves opposite and generally squamiform or aborted, first fully developed leaves unifoliolate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+from Senegal to East Zaïre
 
-du Sénégal à l'Est du Zaïre
+KEY TO VARIETIES
 
-CLÉ DES VARIÉTÉS
+Follicles bearing numerous coarse protuberances, ≈ 35 × 20 mm .....
 
-Follicules munis de nombreuses protubérances grossières, ≈ 35 × 20 mm .....
-
-Follicules lisses ou rugueux, ≈ 20 × 10 mm ..... var. microcarpa
+Follicles smooth or wrinkled, ≈ 20 × 10 mm ..... var. microcarpa
 
 2a. var. paradoxa
 
-JONGKIND, in BRETELER (éd.), AUWP 89 (6): 142 (1989).
+JONGKIND, in BRETELER (ed.), AUWP 89 (6): 142 (1989).
 
-- A. paradoxa GILG, EBJ 14: 318 (1891). TYPE : Cameroun, s.l., Braun 52 (holo-B deletion. ; lecto-M ; isolecto-B).
+- A. paradoxa GILG, EBJ 14: 318 (1891). TYPE: Cameroon, s.l., Braun 52 (holo-B deletion.; lecto-M; isolecto-B).
 
-– Castanola paradoxa (GILG) SCHELLENB. ex HUTCH. & DALZ., FWTA, ed.1, 1 (2): 516, p.p. (1928); SCHELLENBERG, PR 103 (4, 127): 174, p.p. (1938); TROUPIN, FCBR 3: 113, p.p. (1952); HEPPER, FWTA, ed. 2, 1 (2): 746, p.p. (1958).
+– Castanola paradoxa (GILG) SCHELLENB. ex HUTCH. & DALZ., FWTA, ed. 1, 1 (2): 516, p.p. (1928); SCHELLENBERG, PR 103 (4, 127): 174, p.p. (1938); TROUPIN, FCBR 3: 113, p.p. (1952); HEPPER, FWTA, ed. 2, 1 (2): 746, p.p. (1958).
 
-Follicules pouvant atteindre  $ 45 \times 28 $ mm mais en général de  $ 35 \times 20 $ mm, avec de nombreuses protubérances grossières. Graines jusqu'à  $ 30 \times 14 $ mm. - Pl. 7, 1, 6, 7, p. 33.
+Follicles reaching $45 \times 28$ mm but generally $35 \times 20$ mm, with numerous coarse protuberances. Seeds up to $30 \times 14$ mm. - Pl. 7, 1, 6, 7, p. 33.
 
-Est du Nigéria, Cameroun, Gabon, Sud-Ouest du Congo et Sud-Ouest du Zaïre
+East Nigeria, Cameroon, Gabon, Southwest Congo and Southwest Zaïre
 
-du Sénégal au Gabon et à l'Est du Zaïre
+from Senegal to Gabon and East Zaïre
 
 ## Type
 
@@ -66,11 +62,9 @@ J. Braun 52, s.l., Cameroun
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Evergreen rainforests and forest galleries; alt. 0–760 m
 
-Forêts ombrophiles et galeries forestières ; alt. 0-760 m
-
-forêts ombrophiles, galeries forestières et forêts semidécidues ; alt. 0-800
+evergreen rainforests, forest galleries and semideciduous forests; alt. 0–800
 
 ## Specimens examined
 

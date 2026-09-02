@@ -24,11 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, Bol. Soc. Brot. sér. 2A, 30 : 6 (1956); FWTA : 52 (1959).
 
-Rhizome lâchement grimpant, à écailles étroites, caduques, formées de cellules à parois épaisses. Frondes espacées. Pétiole de 0,5 à 1 cm, ou absent. Limbe à contour ovale-lancéolé, long de 18-30 cm sur 5-8 de large, penné. Pennes stériles articulées, trapézoïdes-obtuses, alternes, sessiles, à bases inégales, la supérieure cunéiforme, auriculée, l'inférieure oblique, à marges entières ou légèrement ondulées, surfaces glabres. Rachis et base du costa portant de courts poils roux, dressés. Nervures simples ou bifurquées. Pennes fertiles allongées, plus étroites que les stériles, à marges légèrement lobées. Sores réiniformes, terminaux sur les nervures. Indusie foncée.
+Rhizome loosely climbing, with narrow, caducous scales formed of cells with thick walls. Fronds spaced. Petiole 0.5–1 cm, or absent. Blade with ovate-lanceolate outline, 18–30 cm long by 5–8 cm wide, pinnate. Sterile pinnae articulate, trapezoidal-obtuse, alternate, sessile, with unequal bases, the upper cuneiform, auriculate, the lower oblique, with entire or slightly undulate margins, surfaces glabrous. Rachis and base of costa bearing short reddish, erect hairs. Veins simple or bifurcate. Fertile pinnae elongate, narrower than the sterile, with slightly lobed margins. Sori reniform, terminal on the veins. Indusium dark.
 
 ## Type
 
@@ -36,9 +34,7 @@ Palisot de Beauvois, royaume d'Oware, S Nigeria, herb. Desv. (P). Côté-d'Ivoir
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grimpant sur les troncs d'arbres et dans les endroits humides peu éclairés.
+Climbing on tree trunks and in humid, poorly lit places.
 
 ## Specimens examined
 

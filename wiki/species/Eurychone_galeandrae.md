@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-– BASIONYME : Angraecum galeandrae Rchb.f., Flora, nov. ser. 23 : 189 (1865). – TYPE : Welwitsch 658, Angola, holo-W-R!.
+– BASIONYM: Angraecum galeandrae Rchb.f., Flora, nov. ser. 23 : 189 (1865). – TYPE: Welwitsch 658, Angola, holo-W-R!.
 
 – Angraecum lujae De Wild., Not. Pl. Ut. Inter. Fl. Congo 1 : 142 (1903).
 
 – Rhaphidorhynchus galeandrae (Rchb. f.) Finet, Bull. Soc. Bot. France 54 : 43 (1907).
 
-Tige 4 cm. Feuilles 12-20 × 1-2,5 cm, linéaires, inégalement bilobées, lobes arrondis. Inflorescence lâche, 8-15 cm, 3-12-flore, pendante. Fleurs assez grandes, résupinées, crème saumoné, parfumées. Sépale dorsal linéaire ou oblong-lancéolé, aigu. Pétales lancéolés, aigus. Sépales latéraux oblongs ou lancéolés-ovés, falciformes. Labelle de 15-25 × 18-26 mm, faiblement trilobé, lobes arrondis, cochéififormes, émarginés, minces, frêles, plus ou moins denticulés et ondulés le long des marges. Éperon 25-30 mm, conique à gorge large, cylindrique, obtus. – Pl. 163, p. 361.
+Stem 4 cm. Leaves 12-20 × 1-2.5 cm, linear, unequally bilobed, lobes rounded. Inflorescence lax, 8-15 cm, 3-12-flowered, pendulous. Flowers rather large, resupinate, cream salmon-coloured, fragrant. Dorsal sepal linear or oblong-lanceolate, acute. Petals lanceolate, acute. Lateral sepals oblong or lanceolate-ovate, falcate. Lip 15-25 × 18-26 mm, weakly trilobed, lobes rounded, spoon-shaped, emarginate, thin, fragile, more or less denticulate and undulate along the margins. Spur 25-30 mm, conical at the wide throat, cylindrical, obtuse. – Pl. 163, p. 361.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Congo, République centrafricaine, Zaïre, Angola
+Gabon, Congo, Central African Republic, Zaïre, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. inconnue. Épiphyte en savane boisée
+alt. unknown. Epiphyte in wooded savanna
 
 ## Specimens examined
 

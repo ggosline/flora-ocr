@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Monelasmum plicatum Tiegh ., J. Bot. (Morot) 16 : 202 (juin 1902). Ouratea pseudospicata Gilg, Bot. Jahrb. Syst. 33 : 263 (mars 1903). Ouratea gymnoura Gilg & Mildbr., Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot. 6 : 559 (1913). Ouratea goossensii De Wild., Pl. Bequaert. 4 : 476 (1929).
+Monelasmum plicatum Tiegh., J. Bot. (Morot) 16: 202 (June 1902). Ouratea pseudospicata Gilg, Bot. Jahrb. Syst. 33: 263 (March 1903). Ouratea gymnoura Gilg & Mildbr., Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot. 6: 559 (1913). Ouratea goossensii De Wild., Pl. Bequaert. 4: 476 (1929).
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, avec un rhizome rampant très épais ou avec de nombreux rhizomes serrés, donnant des souches robustes ; tiges de 35‒50 cm × 0,5‒1 mm, arrondies ou légèrement aplaties, glabres , avec des arêtes arrondies faibles ou marquées. Feuilles toutes basales ; gaine brun pâle, avec à la gorge, une rangée très dense de poils ; limbe de 0,8‒1,5 mm, plan ou canaliculé, à marge scabre surtout près de l’extrémité. Inflorescence en anthèle ouverte avec un épillet sessile et 4‒5 épillets pétiolés ; bractée involucrale principale foliacée, longue de 5‒15 mm, beaucoup plus courte que l’inflorescence. Épillet lancéolé, de 7‒12 × 3,5‒5,5 mm, brun foncé ; glumes nombreuses, de 4‒5 mm, glabres, fortement concaves avec une nervure centrale mucronulée , brun marron mais avec nervure centrale plus pâle, l’inférieure stérile, triangulaire et beaucoup plus étroite que les supérieures fertiles. Fleur à 3 étamines, filets aplatis ; style long d’environ 2,7 mm, frangé en haut, à 2 branches rugueuses. Akène obovale avec une base étroite, de 1,4‒1,8 × 1,4 mm environ, biconvexe, jaunâtre avec de nombreuses stries longitudinales , devenant probablement plus sombre à maturité.
+Perennial herb, with a very thick creeping rhizome or with numerous crowded rhizomes, producing robust culms; stems 35–50 cm × 0.5–1 mm, rounded or slightly flattened, glabrous, with weak or prominent rounded ridges. Leaves all basal; sheath pale brown, with a very dense row of hairs at the throat; blade 0.8–1.5 mm, plane or canaliculate, with scabrous margins especially near the apex. Inflorescence an open anthela with one sessile spikelet and 4–5 petiolate spikelets; main involucral bract foliaceous, 5–15 mm long, much shorter than the inflorescence. Spikelet lanceolate, 7–12 × 3.5–5.5 mm, dark brown; glumes numerous, 4–5 mm, glabrous, strongly concave with a mucronate midvein, brown but with midvein paler, the lower one sterile, triangular and much narrower than the upper fertile ones. Flower with 3 stamens, filaments flattened; style approximately 2.7 mm long, fringed at the apex, with 2 rugose branches. Nutlet obovate with a narrow base, approximately 1.4–1.8 × 1.4 mm, biconvex, yellowish with numerous longitudinal striations, probably becoming darker at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République Démocratique du Congo, Ouganda ; rare au Gabon, trouvée seulement dans la Ngounié et le Haut-Ogooué (4 récoltes)
+Gabon, Democratic Republic of the Congo, Uganda; rare in Gabon, found only in Ngounié and Haut-Ogooué (4 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies saisonnièrement humides ; au Gabon, probablement à moins de 500 m d’altitude, jusqu’à 1140 m en Afrique de l’Est. Note taxonomique : se reconnaît par ses épais rhizomes rampants ou regroupés et quelques épillets. Elle ressemble un peu à F. scabrida, mais sans la base fibreuse. Elle est peut être plus proche de F. ferruginea, mais sans les glumes pubescentes de cette dernière. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010)
+in seasonally humid grasslands; in Gabon, probably below 500 m altitude, up to 1140 m in East Africa. Taxonomic note: recognized by its thick creeping or clustered rhizomes and few spikelets. It somewhat resembles F. scabrida, but without the fibrous base. It is perhaps closer to F. ferruginea, but without the pubescent glumes of the latter. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010)
 
 ## Notes
 

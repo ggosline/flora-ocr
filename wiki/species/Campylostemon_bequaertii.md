@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This poorly known species appears to us to be of questionable value; it might perhaps merit a place as a variety within the preceding species, the distinguishing characters being rather insufficient.
 
-Cette espèce mal connue de nous paraît de valeur discutable ; peut-être mériterait-elle de trouver place au rang de variété dans l'espèce précédente, les caractères distinctifs étant plutôt insuffisants.
-
-Le limbe est un peu plus petit, plus terne, plus brunâtre à sec, à peu près non denté mais plutôt entier ou ondulé irrégulièrement, à sommet acuminé assez nettement mais plus brièvement ; les fines nervilles du limbe sont moins distinctes. 6 ovules par loge. - Pl. 75, fig. 20-27, p. 267.
+The lamina is somewhat smaller, duller, more brownish when dry, nearly entire but rather entire or irregularly undulate, with an acuminate apex that is fairly distinct but more briefly so; the fine venules of the lamina are less distinct. 6 ovules per locule. - Pl. 75, fig. 20-27, p. 267.
 
 ## Type
 
@@ -29,9 +27,7 @@ Bequaert 1906, Zaïre, Avakubi (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Zaïre, forêts ripicoles, inondables et îles du Congo.
+In Zaïre, riparian forests, inundable forests and islands of the Congo.
 
 ## Specimens examined
 

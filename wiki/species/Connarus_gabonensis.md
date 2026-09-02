@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in BRETELER (éd.), AUWP 89 (6) : 250 (1989). TYPE : Gabon, 15 km N. of km 10 Lalara-Makokou, riv. Okano, Breteler & de Wilde 494 (holo-WAG).
 
-in BRETELER (éd.), AUWP 89 (6) : 250 (1989). TYPE : Gabon, 15 km au N. du km 10 Lalara-Makokou, riv. Okano, Breteler & de Wilde 494 (holo-WAG).
+Liane. Branches cylindrical or somewhat angular, lenticellate, young branches early glabrescent.
 
-Liane. Rameaux cylindriques ou un peu anguleux, lenticellés, jeunes rameaux tôt glabrescents.
+Leaves 3-4-jugate; petiole 8-14 cm long and rachis 7.5-12.5 cm, early glabrous. Leaflets coriaceous, the lateral ones alternate, narrowly elliptic, 6-11 × 3-5 cm, rounded at the base, the terminal one narrowly elliptic, 11-12 × 4.5 cm, rounded or somewhat cuneate at the base; leaflets acute or indistinctly acuminate, glabrous on both faces; midvein impressed above, prominent below, with 5-7 pairs of lateral veins; tertiary veins reticulate, distinct below, indistinct above; petiolules 5-7 mm long, wrinkled, glabrous.
 
-Feuilles 3-4-juguées ; pétiole long de 8-14 cm et rachis de 7,5-12,5 cm, tôt glabres. Folioles coriaces, les latérales alternes, étroitement elliptiques, 6-11 × 3-5 cm, arrondies à la base, la terminale étroitement elliptique, 11-12 × 4,5 cm, arrondie ou un peu cunée à la base ; folioles aiguës ou indistinctement acuminées, glabres sur les deux faces ; médiane imprimée dessus, proéminente dessous, avec 5-7 paires de nervures latérales ; nervures III réticulées, nettes dessous, indistinctes dessus ; pétioules longs de 5-7 mm, ridés, glabres.
+Inflorescences in very large panicles 70 cm long, multiflorous, brown pubescence. Bracts triangular or ovate, very small, ≤ 1 mm long.
 
-Inflorescences en très grandes panicules longues de 70 cm, multi-flores, pubescence brune. Bractées triangulaires ou ovées, très petites, longues de ≤ 1 mm.
+Flowers still insufficiently known. Sepals persistent at the base of the follicle ovate to triangular, thick and rigid, ≈ 2 × ≈ 1 mm, acute at the apex, exterior pubescent, interior glabrous. Petals, stamens and pistil unknown.
 
-Fleurs encore insuffisamment connues. Sépales persistants à la base du follicule ovés à triangulaires, épais et rigides, ≈ 2 × ≈ 1 mm, aigus au sommet, extérieur pubescent, intérieur glabre. Pétales, éta-mines et pistil non connus.
-
-Fruits. Follicule ellipsoidal, un peu triangulaire en section transversale, non oblique,  $ 5.5-7.5 \times 2-2.5 $ cm, cuné mais non stipité à la base, obtus au sommet ; péricarpe épais, ligneux, pubescence brune au début mais tôt glabrescent, surface nettement veinée, pubescence interne dense. - Pl. 22, p. 75.
+Fruits. Follicle ellipsoidal, somewhat triangular in cross section, not oblique, 5.5-7.5 × 2-2.5 cm, cuneate but not stipitate at the base, obtuse at the apex; pericarp thick, woody, brown pubescence initially but early glabrescent, surface distinctly veined, internal pubescence dense. - Pl. 22, p. 75.
 
 ## Type
 
@@ -36,21 +34,15 @@ Breteler & de Wilde 494, 15 km au N. du km 10 Lalara-Makokou, riv. Okano, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-région centrale du Gabon (espèce connue uniquement par le type)
+central region of Gabon (species known only from the type)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-récolté dans une végétation de banc de rivière en forêt dense
+collected in riverbank vegetation in dense forest
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-elle diffère de l'espèce la plus proche, trifoliolée, C. congolanus, par ses feuilles pennées. Différentes parties de la fleur sont insuffisamment ou pas du tout connues, de même les graines mûres
+it differs from the most closely related species, trifoliolate, C. congolanus, by its pinnate leaves. Various parts of the flower are insufficiently or not at all known, as are the mature seeds
 
 ## Specimens examined
 

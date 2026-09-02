@@ -17,33 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 31
+Plate 31
 
 in Oliv., Fl. trop. Afr: 2: 540 (1871).
 
-Herbe vivace, monoïque ; tige jusqu'à 5 m, grêle, striée, vert clair à rayures vert foncé, glabre. Vrilles simples ou 2-fides, très fines, glabres. Feuille : pétiole 2–6 cm, pubescent ; limbe de contour largement ovale-cordiforme, simple ou 3-palmatilobé à lobes triangulaires, de
-
-6,5–16 × 5–15,5 cm, aigu à acuminé au sommet, membraneux, ±glabre sauf sur les nervures à la face inférieure, ±ponctué, à bord entier à nettement sinueux-denté. Inflorescence : la mâle en ombelle, grappe ou panicule très ramifiée, à nombreuses fleurs, longue de 2–12 cm, pubescente; bractées absentes ou nœuds à quelques-unes foliacées; pédoncule primaire 0,5–20 cm. Fleur mâle : pédicelle 2,5–12 mm, densément pubescent; réceptacle largement campanulé, de 3–4 × 4 mm, brun ou noirâtre; sépales largement triangulaires à triangulaires, longs de 1–10 mm, acuminés au sommet, pubescents, verts; corolle campanulée, pétales elliptiques-oblongs, de 10–12 × 3–6 mm, arrondis au sommet, blancs avec des nervures foncés dessous, dont 2 avec des écailles incurvées basales sur la face interne, courtement tomenteuses sur les deux faces ; étamines 2 ou 3, alternant avec les écailles, filet ±2 mm, noir, deux anthères bithèques, ou 2 anthères bithèques et une monothèque, à loges droites à légèrement courbées, frangées de poils, connectif large. Fleur femelle inconnue. Fruit ovoïde, de 7–10 × 5–8 cm, charnu, lisse, vert avec des taches grises ou jaunes, à nombreuses graines; pédoncule fructifère robuste, long de 3–4 cm. Graine de ±13 × 7–8 × 4 mm, brun verdâtre; testa brun avec des taches plus foncées.
+Perennial herb, monoecious; stem up to 5 m, slender, striate, light green with dark green stripes, glabrous. Tendrils simple or 2-fid, very fine, glabrous. Leaf: petiole 2–6 cm, pubescent; blade broadly ovate-cordate in outline, simple or 3-palmatilobed with triangular lobes, 6.5–16 × 5–15.5 cm, acute to acuminate at apex, membranous, ±glabrous except on the veins on the lower face, ±punctate, with entire to distinctly sinuate-dentate margin. Inflorescence: male in umbel, raceme or highly branched panicle, with numerous flowers, 2–12 cm long, pubescent; bracts absent or at nodes a few foliaceous ones; primary peduncle 0.5–20 cm. Male flower: pedicel 2.5–12 mm, densely pubescent; receptacle broadly campanulate, 3–4 × 4 mm, brown or blackish; sepals broadly triangular to triangular, 1–10 mm long, acuminate at apex, pubescent, green; corolla campanulate, petals elliptic-oblong, 10–12 × 3–6 mm, rounded at apex, white with dark veins beneath, 2 of which with incurved basal scales on the inner face, shortly tomentose on both faces; stamens 2 or 3, alternating with the scales, filament ±2 mm, black, two bithecal anthers, or 2 bithecal anthers and one monotheca, with locules straight to slightly curved, fringed with hairs, connective broad. Female flower unknown. Fruit ovoid, 7–10 × 5–8 cm, fleshy, smooth, green with grey or yellow spots, with numerous seeds; fruiting peduncle robust, 3–4 cm long. Seed ±13 × 7–8 × 4 mm, greenish-brown; testa brown with darker spots.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, de la Côte d'Ivoire jusqu'en Ouganda; au Gabon: Ogooué-Ivindo, Ogooué-Lolo et Ogooué-Maritime
+Tropical Africa, from Côte d'Ivoire to Uganda; in Gabon: Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt pluviale des basses terres, forêt secondaire, clairières, bords de route ; au Gabon à 50–500 m d'altitude, ailleurs jusqu'à 1200 m d'altitude. Fleurs et fruits présents durant toute l'année
+Lowland rainforest, secondary forest, clearings, roadsides; in Gabon at 50–500 m altitude, elsewhere up to 1200 m altitude. Flowers and fruits present throughout the year
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Coccinia gabonensis Keraudren, Adansonia 8 : 40 (1968), décrit avec deux variétés à partir des collections du Gabon : N. Hallé 3018 et 4075 (P) faites à Bélinga, à 950–1000 m, semble représenter des formes de M. multiflora, mais davantage de matériel devrait être étudié, de préférence dans la nature
+Coccinia gabonensis Keraudren, Adansonia 8: 40 (1968), described with two varieties based on collections from Gabon: N. Hallé 3018 and 4075 (P) made at Bélinga, at 950–1000 m, appears to represent forms of M. multiflora, but more material should be studied, preferably in nature
 
 ## Bibliography
 

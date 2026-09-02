@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Peter, Repert. Sp. Nov., Beih. 40 (2) : 147 (1932). — SLEUMER, Pflanzenfam., ed. 2, 16b : 38, tab. 21, K-J (1934). — J. Louis & J. Léonard, Fl. Congo b. et R.U. 1 : 282 (1948). — Exell & Mendonça, Consp. Fl. Angol. 1 : 338 (1951).
 
 — Groutia celtidifolia GUILL. & PERR., in GUILLEMIN, PERROTTET & RICHARD, Fl. Sénégambie : 101, tab. 22 (1830).
@@ -29,11 +27,11 @@ tags: [species, generated]
 
 — O. amentacea auct. non Roxburgh, in Thonner, Blütenpflanz. Afr. : tab. 36 (1908);
 
-Liane ou arbuste lianescent à rameaux adultes glabres. Pétiole long de 5-10 mm, faiblement canaliculé dessus, ridé dessous. Limbe glabre sur les deux faces, de couleur verte ou vert jaunâtre, elliptique, 5-12 × 2-5 cm, membraneux ou coriace; base arrondie à cunéiforme; sommet acuminé. Nervure médiane saillante sur les deux faces. Nervures secondaires 5-8 paires, ascendantes, arquées, saillantes sur les deux faces. Nervilles en réseau assez lâche visible sur les deux faces.
+Liane or lianescent shrub with glabrous adult branches. Petiole 5-10 mm long, weakly canaliculate above, wrinkled below. Blade glabrous on both surfaces, green or yellowish-green in color, elliptic, 5-12 × 2-5 cm, membranous or coriaceous; base rounded to cuneate; apex acuminate. Midvein prominent on both surfaces. Secondary veins 5-8 pairs, ascending, arched, prominent on both surfaces. Veinlets forming a rather loose network visible on both surfaces.
 
-Inflorescences en grappes axillaires solitaires ou fasciculées, longues de 3-6 cm. Jeunes grappes à aspect strobiliforme. Fortes bractées imbriquées, caduques, très largement lancéolées, de 3 mm, pubescentes, à sommet acuminé aigu. Rachis pubescent. Fleur jaune ou vert blanchâtre. Pédicelle long de 2-3 mm, parfois pubescent. Sépales courts, soudés entre eux. Pétales glabres sur les deux faces, libres entre eux, oblongs-lancéolés, longs de 1,5-3 mm. Glandes épaisses, alternipétales, libres entre elles, ellipsoïdes à sommet tronqué. Étamines 5 épipétales à flet lineaire grêle; anthères à fentes de déhiscence longitudinales. Ovaire supère long de 1 mm, glabre; ovule anatrope solitaire pendant d'un placenta central dressé.
+Inflorescences in solitary or fasciculate axillary racemes, 3-6 cm long. Young racemes with a strobilus-like appearance. Strong imbricate bracts, caducous, very broadly lanceolate, 3 mm, pubescent, with an acute acuminate apex. Rachis pubescent. Flower yellow or whitish-green. Pedicel 2-3 mm long, sometimes pubescent. Sepals short, connate with one another. Petals glabrous on both surfaces, free from one another, oblong-lanceolate, 1.5-3 mm long. Thick glands, alternipetalous, free from one another, ellipsoid with truncate apex. Stamens 5 epipetalous with slender linear filaments; anthers with longitudinal dehiscence slits. Superior ovary 1 mm long, glabrous; solitary anatropous ovule pendulous from an erect central placenta.
 
-Drupe ellipsoïde,  $ 2 \times 1,2 $ cm, pubérulente. Exocarpe brun vert, mésocarpe vert jaune, endocarpe assez mince sillonné. Graine adhérente à l'endocarpe. Embryon aussi long que la graine; cotylédons longs et étroits. PL. 37, 1-6, p. 171.
+Drupe ellipsoid, 2 × 1.2 cm, puberulous. Exocarp greenish-brown, mesocarp yellowish-green, endocarp rather thin and grooved. Seed adherent to the endocarp. Embryo as long as the seed; cotyledons long and narrow. PL. 37, 1-6, p. 171.
 
 ## Type
 
@@ -41,9 +39,7 @@ Leprieur s. n., Saint Louis, Sénégal (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante a un port variable suivant l'habitat occupé. C'est une liane pouvant atteindre une grande taille dans les groupements forestiers; au contraire, elle reste un arbuste sarmenteux dans les stations ouvertes. En région de savane, elle occupe les galeries forestières. Son aire s'étend du Sénégal au Sudan, au Zaïre jusqu'au Katanga et à l'Angola.
+This plant has a variable habit depending on the habitat it occupies. It is a liane capable of reaching considerable size in forest communities; conversely, it remains a sarmentose shrub in open stations. In savanna regions, it occupies forest galleries. Its range extends from Senegal to Sudan, to Zaïre as far as Katanga and Angola.
 
 Aubréville 771, Garoua (fl., fr.).
 

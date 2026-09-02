@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing plant exceeding 10 m in height; stem with wood 4-furrowed; lateral branches slender and relatively short. Stipules with apex subulate, ca. 1–2 mm long. Petiole (5) 10–30 (60) mm long, sinuous toward the base. Blade glabrous, ovate, 3–15 (21) × 1.5–10 (14) cm; base ± symmetric, rounded or cordate; apex acuminate to sublanceolate. 4–6 (7) pairs of ascending, arcuate veins. Domatia axillary with small, moderately ciliate circular opening.
 
-Liane dépassant 10 m de hauteur; tige à bois 4-sillonné; rameaux latéraux grêles et relativement courts. Stipules à sommet
+Inflorescences pluriflorous, cymose with main branches very divaricate; they are sometimes lax, sometimes contracted into glomerules with dominance of ♂ flowers in the latter case. The ♀ flowers are more precocious, more longly pedicellate and generally satellitized by ♂ flowers appearing later. ♀ Flowers light green, speckled with purple in the sinus of the lobes; pedicel 1–2 cm; calyx red-violet, micropubescent or glabrous, fusiform, narrowly 10-furrowed along the ovary, tubular for 1–2 mm, with 5 acute lobes 0.5–1 mm. Corolla nearly glabrous externally, campanulate, with tube 15 × 5 mm, base narrow for the lower 2 or 3 mm; 5 ovate, subacute lobes reaching 6 × 4.5 mm. Anthers inserted toward the lower 1/4 of the tube above an internal pubescence ring. Filament very short. Anthers with or without pollen. Style smooth and narrow toward the base then swollen and furrowed, finally lipped and split into 2 purple-violet lobes, 3.5 mm long. Ovary 5–7 × 2 mm at anthesis. ♂ Flower with corolla and calyx limb somewhat more reduced, anthers inserted toward the lower third; anther 5.8 × 1 mm, pale yellow, with white pollen in tetrads 60 μ; elemental grains 35.5 μ, tricolporate, with reticulate exine. Style swollen, furrowed, collecting pollen before anthesis. Stigma non-functional, not opening into lipped lobes. Ovary extremely reduced, not longer than wide.
 
-subulé long d'env. 1-2 mm. Pétiole de (5) 10-30 (60) mm de longueur, sinueux vers la base. Limbe glabre ové de 3-15 (21) × 1,5-10 (14) cm; base ± symétrique, arrondie ou cordée; sommet acuminé à sublancéolé. 4-6 (7) paires de nervures ascendantes arquées. Domaties axillaires à petite ouverture circulaire médio-crement ciliée.
+Fruits solitary or few per infructescence, pendulous, narrow and longly furrowed before maturity, bright red or garnet at maturity and then fusiform, oblong and smooth, 7–15 × 1–1.8 cm, with subcoriaceous epidermis, with soft, aqueous, subacid mesocarpic pulp, pleasant to the taste. Development of the axial placental cylinder compresses the locules, displaces the seeds from the insertion lines and arranges them in 4 distinct vertical series.
 
-Inflorescences pluriflores cymeuses à ramifications principales très divariquées; elles sont tantôt lâches tantôt ‡ contractées en glomérules avec une dominance de fleurs ♂ dans le second cas. Les fleurs ♀ sont plus précoces, plus longuement pédicellées et généralement satellisées de fleurs ♂ plus tardives. Fleurs ♀ vert clair ‡ piquetée de pourpre dans l'axe des lobes; pédicelle de 1-2 cm; calice rouge violacé micropubérulent ou glabre, en fuseau étroit 10-sillonné au long de l'ovaire, tubuleux sur 1-2 mm, à 5 lobes aïgus de 0,5-1 mm. Corolle quasi glabre extérieurement, campanulée, à tube de 15 × 5 mm, à base étroite sur les 2 ou 3 mm inférieurs; 5 lobes ovés subaïgus atteignant 6 × 4,5 mm. Anthères insérées vers le 1/4 inférieur du tube au-dessus d'un anneau de pubescence interne. Filet très bref. Anthères avec ou sans pollen. Style lisse et étroit vers la base puis renflé et sillonné, enfin lippu et fendu en 2 lobes pourpre violacé, longs de 3,5 mm. Ovaire de 5-7 × 2 mm à l'anthèse. Fleur ♂ à corolle et limbe du calice un peu plus réduits, à anthères insérées vers le tiers inférieur; anthère de 5,8 × 1 mm, jaune pâle, à pollen blanc en tétrades calmmées de 60 μ; grains élémentaires de 35,5 μ, tricolporés, à exine réticulée. Style renflé sillonné collectant le pollen avant l'épanouissement. Stigmate non fonctionnel ne s'épanouissant pas en lobes lippus. Ovaire extrêmement réduit pas plus long que large.
-
-Fruits solitaires ou en petit nombre par infructescence, pendants, étroits et longuement sillonnés avant maturité, rouge vif ou grenat à maturité et alors fusiforme, oblong et lisse, de 7-15 × 1-1,8 cm, à épiderme subcoriace, à pulpe mésocarpique molle, aqueuse, acidulée et agréable au goût. Le développement du cylindre placentaire axial comprime les loges, écarte les graines des lignes d'insertion et les dispose en 4 séries verticales distinctes.
-
-Graines subanguleuses de  $ 2,4 \times 1,8 $ mm avant séchage, brunâtres, réticulées, à cellules légumentaires oblongues. Embryon de 0,8 mm, blanc pur.
+Seeds subangulous, ca. 2.4 × 1.8 mm before drying, brownish, reticulate, with oblong tegumentary cells. Embryo 0.8 mm, pure white.
 
 ## Type
 
@@ -39,27 +35,25 @@ Claire 21 (28 avril 1896) et Jolly 41 (mai 1891), tous deux des environs de Libr
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The species is known from the Kumba region, western Cameroon, to Yangambi, Congo. It grows in degraded dense forest as well as on margins of secondary formations.
 
-L'espèce est connue de la région de Kumba, Camcroun occidental, jusqu'à Yangambi, Congo. Elle croît en forêt dense dégradée ainsi qu'en lisières de formations secondaires.
+N. Hallé 1575, 1907, Ayem, Chantier C.E.F.A., SW of Ndjolé (fr. Apr.); 2965, 3166, Bélinga (fl. and fr. Nov.); 2573, 2616, Mékambo (fr. Oct.).
 
-N. Hallé 1575, 1907, Ayem, Chantier C.E.F.A., SW de Ndjolé (fr. avr.); 2965, 3166, Bélinga (fl. et fr. nov.); 2573, 2616, Mékambo (fr. oct.).
+N. Hallé and G. Cours 6070, Moumba (bout. and fr. May).
 
-N. Hallé et G. Cours 6070, Moumba (bout. et fr. mai).
+N. Hallé and A. Le Thomas 571, Bélinga (fr. Aug.).
 
-N. Hallé et A. Le Thomas 571, Bélinga (fr. août).
+N. Hallé and J.-F. Villiers 4371, Mbel on Komo, C.T.F.T. (fr. Jan.).
 
-N. Hallé et J.-F. Villiers 4371, Mbel sur Komo, C.T.F.T. (fr. janv.).
+Jolly 41, env. of Libreville (fr. May)
 
-Jolly 41, env. de Libreville (fr. mai)
+R. P. Klaine 21, env. of Libreville (bout. and fr. June); s. n., env. of Libreville.
 
-R. P. Klaine 21, env. de Libreville (bout. et fr. juin); s. n., env. de Libreville.
+G. Le Testu 1292, Tchibanga (fl. Jan.); 7277, 7881, Lastoursville (fl. Jan. and May).
 
-G. Le Testu 1292, Tchibanga (fl. janv.); 7277, 7881, Lastoursville (fl. janv. et mai).
+Thollon 91 Ogooué; 143, Lamaréné (j. fr. May); 841, Ogooué (fl. fr. July).
 
-Thollon 91 Ogooué; 143, Lamaréné (j. fr. mai); 841, Ogooué (fl. fr. juill.).
-
-R. P. Trilles 39, Haut-Udzème, Monts de Cristal (fr. mai).
+R. P. Trilles 39, Upper Udzème, Monts de Cristal (fr. May).
 
 ## Vernacular names
 

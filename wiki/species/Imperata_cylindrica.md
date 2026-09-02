@@ -25,19 +25,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stems glabrous, 40 cm to 2 m long. Leaf sheaths glabrous, the lower ones gradually reducing to fibres. Blades linear, acuminate at the apex and long-attenuate towards the base, capable of exceeding 60 cm in length.
 
-Tiges glabres, de  $ 40 \, cm $ à  $ 2 \, m $ de long. Gaines foliaires glabres, les inférieures se réduisant en fibres à la longue. Limbes linéaires, acuminés au sommet et longuement rétrécis vers la base, pouvant dépasser  $ 60 \, cm $ de long.
+Panicles 5 to 20 cm long; pedicels fine, swollen at the apex, 1 to 3 mm. Spikelets approximately 5 mm long, enveloped by numerous silvery hairs. Glumes oval-lanceolate. Lemma of the lower floret obtuse and denticulate at the apex; that of the upper floret acuminate, glabrous. Anthers 3 to 5 mm long; stigmas red.
 
-Panicules de 5 à 20 cm de long; pédicelles fins, renflés au sommet, de 1 à 3 mm. Épilets d'environ 5 mm de long, enveloppés par de nombreux poils argentés. Glumes ovales lancéolées. Lemma de la fleur inférieure obtuse et denticulée au sommet; celle de la fleur supérieure acuminée, glabre. Anthères de 3 à 5 mm de long; stigmates rouges.
+Imperata cylindrica is found throughout tropical Africa. A certain number of varieties have been distinguished, but the transition between the type and these occurs imperceptibly at the limits of each one's range and their differentiation is in reality difficult. The specimen collected in Gabon and cited by Stapf in the Flora of Trop. Africa is attributed to the variety Koenigii Dur. and Schinz., which is distinguished by its more slender stems, its leaf sheaths hairy at the level of the nodes, its very short and truncate ligules; its leaves are also less rigid and its panicles less dense; spikelets 3 to 4 mm long, instead of 5 mm in the type and hairs 10 to 14 mm long instead of 10 to 12.
 
-Imperata cylindrica se rencontre dans toute l'Afrique tropicale. On a distingué un certain nombre de variétés, mais le passage entre le type et celles-ci se fait insensiblement sur les limites de l'aire de chacune et leur différentiation est en réalité difficile. Le spécimen récolté au Gabon et cité par Stapf dans la Flora of Trop. Africa est attribué à la variété Koenigii Dur. et Schinz., qui se distingue par ses tiges plus minces, ses gaines foliaires, poilues au niveau des nœuds, ses ligules très courtes et tronquées; ses feuilles sont aussi moins rigides et ses panicules moins denses; épillets de 3 à 4 mm de long, au lieu de 5 mm dans le type et poils de 10 à 14 mm de long au lieu de 10 à 12.
+Imperata cylindrica is a highly invasive plant that multiplies rapidly as soon as the soil is worked on fallow land, roadsides, old village sites etc. Due to the presence of its rhizomes, it is very difficult to eradicate. It is encountered everywhere in Gabon.
 
-Imperata cylindrica est une plante très envahissante qui se multiplie rapidement dès que la terre est travaillée sur les jachères, les bords des routes, les anciens emplacements de villages etc... Du fait de la présence de ses rhizomes, il est très difficile de s'en débarrasser. On la rencontre partout au Gabon.
+The leaves are grazed by cattle when they are very young. They are very frequently used as thatching.
 
-Les feuilles sont broutées par les bovins lorsqu'elles sont très jeunes. Elles sont très fréquemment utilisées comme toitures.
-
-Noms vernaculaires (d'après Walker et Sillans) : Ntsomina (Mpongwé, Galoa); Somina (Benga); Ntsowira (Orungu); Ntsowira, Mpo-y'orové (Nkomi); Ipo-ya-kumu (Ngové); Nlong (Fang);
+Vernacular names (after Walker and Sillans): Ntsomina (Mpongwé, Galoa); Somina (Benga); Ntsowira (Orungu); Ntsowira, Mpo-y'orové (Nkomi); Ipo-ya-kumu (Ngové); Nlong (Fang);
 
 Gilonga (Bavumbu); Ilonga (Bapunu); Ilonga, Tsongi (Banzabi); Gilonga, Nda-tsongi, Tsémune-tsongi (Échira); Tsémone-tsongi (Bavarama); Tsongi-a-motové, Motsokoni (Mitsogo); Élwo, Gilwo, Gonwo (Mindumu); Ngamba (Baduma); Molèngi (Apindji); Motové (Bavové); Nkanyika (Bakélé); Nsonyo, Ntogu (Béséki); Tosongi (Ivili); Misonyi (Loango).
 

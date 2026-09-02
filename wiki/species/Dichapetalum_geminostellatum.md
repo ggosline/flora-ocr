@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+MLW 79 (16): 3, 8-11 (1979). TYPE: Gabon, km 18 route Libreville-Cap Estérias, Breteler & de Wilde 3 (holo- WAG).
 
-MLW 79 (16): 3, 8-11 (1979). TYPE : Gabon, km 18 route Libreville-Cap Estérias, Breteler & de Wilde 3 (holo- WAG).
+Liane or lianescent shrub. Young and mature branches brown, furnished with hispid hairs generally mixed with short indumentum, becoming glabrous with age.
 
-Liane ou arbuste lianescent. Rameaux jeunes et âgés bruns, munis de poils hispides mêlés en général à un indumentum court, devenant glabres avec l'âge.
+Stipules triangular-narrow to subulate, 4-9 mm long, often curved, hispid with or without glandular warts, caducous.
 
-Stipules triangulaires-étroites à subulées, longues de 4-9 mm, souvent courbées, hispides avec ou sans verrues glanduleuses, caduques.
+Leaves. Petiole hemicylindric, 1-3(5) mm, pubescent like the young branches. Blade papyraceous, ovate-elliptic to oblong-obovate, 2-3 times longer than wide, (4) 6-12 (17) × (1) 2-5 (7) cm; base generally cordate, sometimes broad and rounded, acute to obtuse acumen 1-2.5 cm; hispid pubescence on both sides of the midvein, on the margin, on the lower surface of the secondary veins and other parts, but generally less dense, then caducous; hispid hairs on the upper surface of the impressed midvein, most often mixed with short indumentum; secondary veins 5-8 pairs; glands only beneath, small but quite distinct, numerous, especially along the midvein.
 
-Feuilles. Pétiole hémicylindrique, 1-3(5) mm, pubescent comme les jeunes rameaux. Limbe papyracé, ové-elliptique à oblong-obové, 2-3 fois plus long que large, (4) 6-12 (17) × (1) 2-5 (7) cm; base généralement cordée, parfois large et arrondie, acumen aigu à obtus de 1-2,5 cm; pubescence hispide sur les deux faces de la nervure I, sur la marge, sur la face inférieure des nervures II et des autres parties, mais en général moins dense, puis caduque; poils hispides à la face supérieure de la
+Inflorescences axillary, puberulent, generally 3-flowered, but often reduced, 1-2-flowered, sessile, grouped on the aphyllous parts of young branches or concentrated on very short axillary aphyllous shoots and appearing then ± fasciculate. Bracts and bracteoles triangular-narrow to subulate, generally incurved, 1.5-4 mm long, with or without glandular warts, hispid. Pedicel ≤ 3 mm, puberulent, upper portion very short or absent (articulation just below the calyx).
 
-nervure I imprimée, le plus souvent mêlés à un indumentum court ; nervures II, 5-8 paires ; glandes seulement dessous, petites mais assez nettes, nombreuses, surtout le long de la nervure I.
+Flowers. Sepals spread at anthesis, triangular-narrow, 2-2.5 × 0.5 mm, subacute; pubescence of the outer surface short and appressed, generally mixed with rare hispid hairs; inner surface puberulent especially toward the upper portion. Petals erect linear, 3.5-5.5 mm long, split for 1-1.5 mm, fused at their base to the filament for ≈ 1 mm, glabrous; lobes spread, linear, flattened, subacute. Stamens erect, 3-4.5 mm, glabrous, anthers ≤ 0.5 mm, connective prominent. Staminodes subquadrate, ≤0.2 × 0.2 mm, glabrous. Pistil 3-merous, 4.5-5 mm long; ovary velvety, depressed, spherical; style glabrous or with a few hairs, 3-lobed, apical portion twisted or not.
 
-Inflorescences axillaires, pubérulentes, en général 3-flores, mais souvent réduites, 1-2-flores, sessiles, groupées sur les parties aphylles des jeunes rameaux ou concentrées sur de très courtes pousses axillaires aphylles et paraissant alors ± fasciculées. Bractées et bractéoles triangulaires-étroites à subulées, en général incurvées, longues de 1,5-4 mm, avec ou sans verrues glanduleuses, hispides. Pédicelle ≤ 3 mm, pubérulent, partie supérieure très courte ou absente (articulation juste au-dessous du calice).
-
-Fleurs. Sépales étalés à l'anthèse, triangulaires-étroits, 2-2,5 × 0,5 mm, subaigus ; pubescence de la face externe courte et apprimée, en général mêlée de rares poils hispides ; face interne pubérulente surtout à la partie supérieure. Pétales dressés linéaires, longs de 3,5-5,5 mm, fendus sur 1-1,5 mm, soudés par leur base aux filet sur ≈ 1 mm, glabres ; lobes étalés, linéaires, aplatis, subaigus. Étamines dressées, 3-4,5 mm, glabres, anthères ≤ 0,5 mm, connectif proéminent. Staminodes subcarrés, ≤0,2 × 0,2 mm, glabres. Pistil 3-mère, long de 4,5-5 mm ; ovaire velouté, déprimé, sphérique ; style glabre ou avec quelques poils, 3-lobé, partie apicale tordue ou non.
-
-Fruits inconnus. – Pl. 24, p. 95.
+Fruits unknown. – Pl. 24, p. 95.
 
 ## Type
 
@@ -41,15 +37,11 @@ Breteler & de Wilde 3, km 18 Libreville-Cap Estérias, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile
+rainforest
 
 ## Specimens examined
 

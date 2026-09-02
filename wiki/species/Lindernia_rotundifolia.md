@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Trimen, Handb. fl. Ceylon 6 : 214 (1931). Gratiola rotundifolia L., Mant. : 174 (1771). Ilysanthes rotundifolia (L.) Benth. in DC., Prodr . 10 : 420 (1846). Herbe vivace ; tige prostrée à ascendante , simple ou peu ramifiée, (9–)18–65 cm de longueur, glabre. Feuille : limbe ovale à orbiculaire , 7–11 × 6–11 mm, acuminé au sommet, marge obtusément crénelée. Inflorescence lâche, chaque nœud florifère portant une fleur opposée à une bractée foliacée avec bouton rudimentaire. Fleur : pédicelle 5 mm ; calice 4–5 mm de longueur, à base soudée sur 0,5 mm et lobes 3,5–4,5 mm de longueur, glabre ; corolle blanche avec des taches violacées, tube 5–6(–7) mm de longueur, lèvre supérieure bipartite et 3–4 mm de longueur, lèvre inférieure tripartite et 3–4 mm de longueur ; étamines antérieures (abaxiales) en forme des staminodes claviformes de 2 mm de longueur, couverts de poils glanduleux et de papilles, filets des étamines postérieures (adaxiales) 1,5 mm ; ovaire ovoïde, 1,5 mm de longueur ; style 5–6 mm. Fruit ovoïde, 5 × 4 mm. Graines à albumen non alvéolé .
+in Trimen, Handb. fl. Ceylon 6 : 214 (1931). Gratiola rotundifolia L., Mant. : 174 (1771). Ilysanthes rotundifolia (L.) Benth. in DC., Prodr. 10 : 420 (1846). Perennial herb; stem prostrate to ascending, simple or sparsely branched, (9–)18–65 cm long, glabrous. Leaf: blade ovate to orbicular, 7–11 × 6–11 mm, acuminate at apex, margin obtusely crenate. Inflorescence lax, each flowering node bearing a flower opposite a foliaceous bract with rudimentary bud. Flower: pedicel 5 mm; calyx 4–5 mm long, with base connate for 0.5 mm and lobes 3.5–4.5 mm long, glabrous; corolla white with violaceous spots, tube 5–6(–7) mm long, upper lip bipartite and 3–4 mm long, lower lip tripartite and 3–4 mm long; anterior (abaxial) stamens shaped as claviform staminodes 2 mm long, covered with glandular hairs and papillae, filaments of posterior (adaxial) stamens 1.5 mm; ovary ovoid, 1.5 mm long; style 5–6 mm. Fruit ovoid, 5 × 4 mm. Seeds with non-alveolate albumen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Kenya, Tanzanie, Madagascar, Sri Lanka, Inde, Chine, Amérique centrale et australe ; au Gabon, observée dans l’Estuaire, l’Ogooué-Maritime et le WoleuNtem
+Gabon, Kenya, Tanzania, Madagascar, Sri Lanka, India, China, Central and South America; in Gabon, observed in Estuaire, Ogooué-Maritime and Woleu–Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endroits marécageux en forêt ombrophile, marais, bord des lacs et des rivières, endroits rudéraux marécageux ; au Gabon, à 5–130 m d’altitude, à Madagascar, jusqu’à 1250 m. Note taxonomique : Espèce pantropicale des basses altitudes et surtout des régions côtières, probablement introduite en Amérique centrale. Dans les montagnes de l’Afrique tropicale, l’espèce est remplacée par Lindernia rotundata (Pilger) Eb.Fisch. B : Fischer (1992, 1995), Fischer et al . (2008), Ghazanfar et al. (2008), Hepibliographie per (1963)
+swampy places in rainforest, marshes, edge of lakes and rivers, swampy ruderal places; in Gabon, at 5–130 m altitude, in Madagascar, up to 1250 m. Taxonomic note: Pantropical species of low altitudes and especially coastal regions, probably introduced to Central America. In the mountains of tropical Africa, the species is replaced by Lindernia rotundata (Pilger) Eb.Fisch. B: Fischer (1992, 1995), Fischer et al. (2008), Ghazanfar et al. (2008), Hepibliographie per (1963)
 
 ## Notes
 

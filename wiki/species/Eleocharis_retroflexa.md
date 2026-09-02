@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, en touffe, avec un système racinaire très grêle et des tiges peu nombreuses ; tiges de 3‒20 cm × 0,3‒0,5 mm , anguleuses. Feuille : gaine jaune paille à brun clair. Inflorescence en épillet unique : bractées absentes. Épillet ovoïde à lancéolé, de 3‒6 × 1‒2 mm, à 3‒5 fleurs , avec parfois un épillet supplémentaire pédonculé produit à partir de la base de l’épillet sessile ( Sita 2746 ) ; glumes toutes fertiles, longues de 2,5‒3,5 mm , brun rougeâtre avec une large marge translucide et une nervure centrale verte très distincte se terminant sous le sommet, mais souvent effiloché ou devenant émarginé. Fleur : périanthe à 6 soies, plus courtes ou à peu près aussi longues que l’akène, scabres avec des dents épineuses recourbées ; style à 3 branches. Akènes largement obovoïdes à presque carrés, de 0,9‒1,1 × 0,7‒0,8 mm , noirâtres à maturité, surface avec des cellules distinctes avec les parois cellulaires surélevées en rangées longitudinales ; appendice pâle, triangulaire.
+Annual herb, tufted, with a very slender root system and few stems; stems 3–20 cm × 0.3–0.5 mm, angular. Leaf: sheath pale straw to light brown. Inflorescence in single spikelet: bracts absent. Spikelet ovoid to lanceolate, 3–6 × 1–2 mm, with 3–5 flowers, sometimes with an additional pedunculate spikelet produced from the base of the sessile spikelet (Sita 2746); glumes all fertile, 2.5–3.5 mm long, reddish-brown with a broad translucent margin and a very distinct green central nerve ending below the apex, but often tattered or becoming emarginate. Flower: perianth with 6 bristles, shorter or approximately as long as the achene, scabrous with recurved spiny teeth; style with 3 branches. Achenes broadly obovoid to nearly square, 0.9–1.1 × 0.7–0.8 mm, blackish at maturity, surface with distinct cells with cell walls raised in longitudinal rows; appendage pale, triangular.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales de l’Afrique, de l’Amérique et de l’Asie ; très rare au Gabon, connu seulement du Haut-Ogooué (1 ou 2 récoltes), mais peut-être seulement du côté congolais sur la frontière commune
+widely distributed in tropical regions of Africa, America and Asia; very rare in Gabon, known only from Haut-Ogooué (1 or 2 collections), but perhaps only on the Congolese side of the common border
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les marécages et les mares d’eau fraîche ou les zones inondées des savanes ; au Gabon, à environ 400‒700 m d’altitude, jusqu’à 1500 m en Afrique de l’Est. Note taxonomique : Au Gabon, cette espèce se reconnaît par son port annuel et ses akènes noirâtres avec des cellules superficielles proéminentes. Elle diffère d’ E. atropurpurea par le style à 3 branches et l’akène à appendice triangulaire à cellules superficielles distinctes. B : Hoenselaar et al . (2010), Haines & Lye (1983). ibliographie
+in marshes and pools of fresh water or inundated savanna areas; in Gabon, at approximately 400–700 m elevation, up to 1500 m in East Africa. Taxonomic note: In Gabon, this species is recognized by its annual habit and blackish achenes with prominent superficial cells. It differs from E. atropurpurea by the 3-branched style and achene with triangular appendage with distinct superficial cells. B: Hoenselaar et al. (2010), Haines & Lye (1983). Bibliography
 
 ## Notes
 

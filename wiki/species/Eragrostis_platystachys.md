@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs with pubescent roots (contrary to what Franchet states). Culms reaching approximately forty centimetres in height, sheaths imbricate, persistent at the base, ciliate at the opening. Leaves linear, 3 to 6 mm wide and up to 5 or 10 cm long.
 
-Herbes pérennes à racines pubescentes (contrairement à ce que dit Franchet). Chaumes atteignant une quarantainc dc centi-mètres de haut, gaines imbriquées, persistantes à la base, ciliées à l'ouverture. Feuilles linéaires de 3 à 6 mm de large et jusqu'à 5 ou 10 cm de long.
+Panicle 10 to 20 cm long with short ascending branches bearing 2 to 4 spikelets, or spikelets solitary on secondary branches. Spikelets pale straw-coloured more or less tinged with violet, ovate, 7–11 × 6–7 mm, very flattened, with 7 or 10 florets. Glumes and lemmas scarious with 3 nerves, scabrous on the keel and ciliate on the margins. Glumes somewhat shorter than the glumes, paleae acuminate, bicarinate scabrous on the keels.
 
-Panicule de 10 à 20 cm de long à branches ascendantes courtes portant 2 à 4 épilets, ou épilets solitaires sur les ramifications secondaires. Épilets couleur de paille claire plus ou moins teintés de violet, ovales, de 7-11 × 6-7 mm, très aplatis, à 7 ou 10 fleurs. Glumes et lemmas scarieuses à 3 nervures, scabres sur la carène et ciliées sur les marges. Glumes un peu plus courtes que les glumelles, palées acuminées, bicarénes scabres sur les carènes.
-
-Espèce sans doute rare, signalée en Afrique australe et orientale ainsi que sur la côte du Bas-Congo et à Loango.
+Species doubtless rare, recorded in southern and eastern Africa as well as on the coast of Lower Congo and at Loango.
 
 ## Specimens examined
 

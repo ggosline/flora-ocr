@@ -22,23 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— BUR. Compt. Rend. CIII: 361 (2 August 1866). — Fl. of Trop. Afr. IX: 70 (1917).
 
-— BUR. Compt. Rend. CIII: 361 (2 août 1866). — Fl. of Trop. Afr. IX: 70 (1917).
+Caespitose herb 1 to 1.50 m tall; culms compressed at the base then rounded, glabrous or more or less pubescent, with 3–5 nodes. Leaf sheaths glabrous or more or less pubescent, especially those at the base. Ligules membranous, densely ciliate. Blades linear acuminate, generally folded, glabrous or with a few hairs toward the base, up to approximately 30 cm long and 4 mm wide.
 
-Herbe cespiteuse de 1 à 1,50 m de haut ; chaumes compressés à la base puis arrondis, glabres ou plus ou moins pubescents, à 3 5 nœuds. Gaines foliaires glabres ou plus ou moins pubescents, surtout celles de la base. Ligules membraneuses, densément ciliées. Limbes linéaires acuminés, généralement repliés, glabres ou avec quelques poils vers la base, jusqu'à environ 30 cm de long et 4 mm de large.
+Racemes at the apex of the culms or on 1 or 2 lateral branches, villous, 6 to 12 cm long, long-pedunculate, the lateral ones sometimes more or less enclosed in their spathes. Rachis segments linear, approximately 4 mm long, densely pubescent: hairs up to 3 mm long. Pedicels somewhat shorter.
 
-Racèmes à l'extrémité des chaumes ou sur 1 ou 2 ramifications latérales, villeux, de 6 à 12 cm de long, longuement pédonculés, les latéraux parfois plus ou moins enfermés dans leurs spathes. Articles du rachis linéaires, d'environ 4 mm de long, densément pubescents : poils jusqu'à 3 mm de long. Pédicelles un peu plus courts.
+Spikelets sessile, lanceolate. Lower glume with 6–8 nerves between the keels, with brown or reddish resiniferous canals, bifid for 1 to 2 mm. Upper glume finely pubescent, ciliate toward the apex on the keels and margins, with 2 or 4 nerves. Lower floret with lanceolate lemma, two-nerved, ciliate toward the apex. Upper floret with lemma similar to that of the preceding but with 3 nerves; palea very small. Pedicellate spikelet
 
-Épillets sessiles lancéolés. Glume inférieure à 6-8 nervures entre les carènes, à canaux résinifères bruns ou rougeâtres, bifide sur 1 à 2 mm. Glume supérieure finement pubescent, ciliéc vcrs le sommet sur les carènes et les marges, avec 2 ou 4 nervures. Fleur inférieure à lemma lancéolée, à deux nervures, ciliée vers le sommet. Fleur supérieure à lemma semblable à celle de la précédente mais avec 3 nervures; paléa très petite. Épillet pédicellé
+PL. XXI. — Rytachne rottboellioides Desv. (Vanderyst s.n.): 1, base of the plant, culm, leaves and inflorescence; 2, detail of a raceme fragment: length of a spikelet, 3.5 to 3 mm; 3, lower glume of the sessile spikelet; 4, sterile spikelet: length, 2.5 to 3 mm. — Elyonurus argenteus Nees. (Thollon s.n.): 5, base of the plant, culm, leaves and inflorescence; 6, detail of a raceme fragment; 7, a pair of spikelets: length of the fertile spikelet, 5 to 6 mm.
 
-PL. XXI. — Rytachne rottboellioides Desv. (Vanderyst s.n.): 1, base de la plante, chaume, feuilles et inflorescence; 2, détail d'un fragment de racème : longueur d'un épillet, 3,5 à 3 mm; 3, glume inférieure de l'épillet sessile; 4, épillet stérile : longueur, 2,5 à 3 mm. — Elyonurus argenteus Nees. (Thollon s.n.): 5, base de la plante, chaume, feuilles et inflorescence; 6, détail d'un fragment de racème; 7, une paire d'épillets : longueur de l'épillet fertile, 5 à 6 mm.
+lanceolate, 4 to 6 mm long; lower glume entire, mucronate, with a single lateral keel which is ciliate; upper glume and florets as in the sessile spikelet, but upper floret male.
 
-lancéolé, de 4 à 6 mm de long; glume inférieure entière, mucronée, avec une seule carène latérale qui est ciliée; glume supérieure et fleurs comme dans l'épillet sessile, mais fleur supérieure mâle.
+The species is distributed in the southern Guinean and Zambezian zones: Gabon, Congo, Belgian Congo, Angola, and South-West Africa.
 
-L'espèce est répartie dans les zones guinéennes australes et zambéziennes : Gabon, Congo, Congo belge, Angola, et Sud-Ouest africain.
-
-Au Gabon, elle se rencontre en savane, sur des sols sableux très pauvres. Elle ne présente guère d'intérêt comme fourrage.
+In Gabon, it occurs in savanna, on very poor sandy soils. It is of little interest as forage.
 
 ## Specimens examined
 

@@ -21,27 +21,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pearson, F.T.A. 6 (1): 242 (1909). — Keay, F.W.T.A. 2nd ed. I (1): 172 (1954).
 
-Pearson, F.T.A. 6 (1): 242 (1909). — Keay, F.W.T.A. 2e ed. I (1): 172 (1954).
+Shrub or tree with horizontal secondary branching and plateau-shaped crown (Letouzey). Bark brownish-red, fairly distinctly reticulate, pubescent on young stems then glabrous.
 
-Arbuste ou arbre à ramifications secondaires horizontales, et cime en plateau (Letouzey). Écorce brun-rouge atre assez nettement réticulée, pubescente sur les jeunes tiges puis glabres.
+Leaves generally large and able to exceed 15 cm long by 7 cm at their greatest width. Petiole 1-5 mm thick, densely greyish-pubescent. Blade slightly coriaceous, slightly oblique, slightly asymmetric, 12 by 4-5 cm, terminated by an acumen almost always straight 12-20 mm by 3 mm wide; margins of the blade forming an angle of approximately 90° on either side of the petiole. Faces slightly discolorous at first, grey-green above, yellow-green below; lower face scattered with rare appressed hairs, becoming glabrous and russet-coloured. Primary and secondary veins fairly well marked on both faces; secondary veins 15-25, fairly spaced from one another, subparallel, curved towards the apex near the margin and often anastomosing into a well-visible marginal vein, the edge of the blade being only weakly revolute. Tertiary network fairly visible.
 
-Feuilles généralement grandes et pouvant dépasser 15 cm de long sur 7 cm dans leur plus grande largeur. Pétiole de 1-5 mm épais, densément pubescent-grisâtre. Limbe peu coriace, peu oblique, légèrement asymétrique, de 12 sur 4-5 cm, terminé par un acumen presque toujours droit de 12-20 mm sur 3 mm de large; marges du limbe faisant de part et d'autre du pétiole un angle de 90° env. Faces légèrement discolores d'abord, vert gris dessus, vert jaune dessous; face inférieure parsemée de rares poils apprimés, devenant glabre et roussâtre. Nervures primaires et secondaires assez bien marquées sur les deux faces; nervures secondaires 15-25, assez espacées les unes des autres, subparallèles, courbées vers l'apex près de la marge et souvent anastomosées
+1-2 (and up to 4) flowers with very short peduncle (2 mm), with small pubescent bract (1 mm). Perianth tube 35 to 45 mm long by 1-1.5 in diameter at the time of bud opening, bristly with fairly stiff silvery hairs and sparsely distributed and covered with numerous globular glands all stipitate, bearing very early, near its base, the mark of the supraovarian circular tear. Sepals approximately 8-12 mm in the open flower, more or less pubescent and glandular, ovate-elliptic, 3-4 mm wide, obtuse and sometimes emarginate at the apex. Petals very large, with often unequal lobes, far exceeding the sepals, 12-20 mm long by 4-8 wide, white, finely veined. Stamens 10, with anthers almost always alone prominent, just at the throat of the corolla, very curved at maturity and 2-2.5 mm. Ovary glabrous; style 20-35 mm; stigma club-shaped or more or less spheric, rarely exsert; hypogynous cupule small (0.5 mm).
 
-en une nervure marginale bien visible, le bord du limbe n'étant que faiblement révoluté. Réseau tertiaire assez visible.
+Fruit at first green, then yellow, then orange (Letouzey), dark red at maturity, more or less densely glandular, large, ovoid-fusiform at the apex, 20-25 mm long by 15-20 in diameter, terminated by a fairly eccentric collar constituted by the remainder of the glandular perianth; epicarp fibrous, not very thick; mesocarp mucilaginous (Letouzey), white. Seed fairly large.
 
-1-2 (et jusqu'à 4) fleurs à pédoncule très court (2 mm), à bractée petite, pubescente (1 mm). Tube du périgone de 35 à 45 mm de long sur 1-1,5 de diamètre au moment de l'épanouissement du bouton, hérissé de poils argentés assez raides et peu denses et couvert de nombreuses glandes globuleuses toutes stipitées, portant très tôt, près de sa base, la marque de la déchirure circulaire supraovarienne. Sépales d'environ 8-12 mm dans la fleur épanouie, plus ou moins pubescents et glanduleux, ovales elliptiques, larges de 3-4 mm, obtus et parfois émarginés au sommet. Pétales très grands, à lobes souvent inégaux, dépassant longuement les sépales, de 12-20 mm de long sur 4-8 de large, blancs, finement nervés. Étamines 10, à anthères presque toujours seules saillantes, juste à la gorge de la corolle, très courbées à maturation et de 2-2,5 mm. Ovaire glabre; style de 20-35 mm; stigmate en massue ou plus ou moins sphérique, rarement exserte; cupule hypogyne petite (0,5 mm).
+Type described from Cameroon (Dinklage 971; Zenker 1951).
 
-Fruit d'abord vert, puis jaune, puis orangé (Letouzey), rouge foncé à maturité, plus ou moins densément glanduleux, gros, ovoïde-fusiforme à l'apex, de 20-25 mm de long, sur 15-20 de diamètre, terminé par un manchon assez excentré constitué par le reste du périgone glanduleux; épicarpe fibreux, peu épais; mésocarpe mucilagineux (Letouzey), blanc. Graine assez volumineuse.
+This very characteristic species is particularly interesting for following the ontogenesis of the complex "fruit" of Dicranolepis, a fruit which is a diaspore including the seed, surrounded by very reduced and membranous ovarian walls and whose envelope is mainly constituted by the basal part of the perianth which tears slightly above the insertion of the style and widens as the development of the true fruit proceeds. This growth of the perianth is particularly well visible thanks to the glands which persist and whose pedicels enlarge (0.5 mm on the flower bud; 2 to 3 mm on the fruit).
 
-Type décrit du Cameroun (Dinklage 971; Zenker 1951).
+Undergrowth of dense humid forests, on fresh soils.
 
-Cette espèce très caractéristique est particulièrement intéressante pour suivre l’ontogénèse du « fruit » complexe des Dicranolepis, fruit qui est une diaspore incluant la graine, entourée des parois ovariennes très réduites et membraneuses et dont l’enveloppe est surtout constituée par la partie basale du périgone qui se déchire un peu au-dessus de l’insertion du style et s’élargit au fur et à mesure du développement du fruit proprement dit. Cette croissance du périgone est particulièrement bien visible grâce aux glandes qui persistent et dont les pédoncules grandissent (0,5 mm sur le bouton floral; 2 à 3 mm sur le fruit).
-
-Sous-bois des forêts denses humides, sur sols frais.
-
-Le Dicranolepis glandulosa a été récolté non loin des frontières du Gabon, au nord-ouest de la rivière Kom (Cameroun : Mildbraed 6081).
+Dicranolepis glandulosa was collected not far from the borders of Gabon, northwest of the Kom River (Cameroon: Mildbraed 6081).
 
 ## Figures
 

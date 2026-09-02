@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grand arbre atteignant 45 m de hauteur ; tronc jusqu’à 180 cm de diamètre, à empat tements ou rarement contreforts épais ; écorce écailleuse et à nombreuses dépressions profondes, grisâtre ; tranche rose brun clair, sans odeur, ni exsudat appréciables ; bour geons terminaux tomenteux ferrugineux. Feuille : pétiole 7–15(–17) cm, aplati dessus, à bords souvent légèrement ailés, hirsute ou pubérulent ; rachis 6–15(-28) cm ; pétiolule 1–5 mm ; folioles 10–18, étroitement rectangulaires à rectangulaires ou obovales, 5–18 × 2,5–6 cm, cunéées à largement cunéées et plus ou moins asymétriques à la base, aiguës ou arrondies au sommet, luisantes et gaufrées dessus ; nervure médiane saillante dessous et pubescente, nervures secondaires (10 – )15 – 25 paires, parallèles, celles-ci, de même que le réseau de nervilles, très saillantes. Inflorescence atteignant 35 cm de longueur. Fleur fonctionnellement mâle : pédicelle articulé, 1,5–2 mm, tomenteux ; calice patelli forme, 5-lobé, 1–1,5 mm de longueur, finement velouté ; pétales étroitement obovales, 5,5–7 × 2–3 mm, veloutés ; tube staminal 4–5 mm de longueur, découpé profondément
-
-en 10 lanières , chaque lanière portant au sommet une anthère rectangulaire de 0,8–1 × 0,4–0,5 mm ; gynécée (pistillode) 4–5 mm de longueur, glabre ; ovaire ovoïde, 1 mm de diamètre, soutenu par un disque-gynophore cannelé, de 1 mm de longueur ; style 1,5–2 mm, stigmate discoïde-capité, 0,8 mm de hauteur. Fleur fonctionnellement femelle similaire ; ovaire conique, 1,5–2 mm de longueur ; disque-gynophore relié à la base du tube staminal par des cloisons minces. Fruit fusiforme, à déhiscence apicale, 17–23 × 3–5 cm, base de la columelle prolongée par un stipe grêle de 2–4 cm de longueur. Graine avec l’aile atteignant 5–8 × 1,5–2 cm.
+Large tree reaching 45 m in height; trunk up to 180 cm in diameter, with buttresses or rarely thick ridges; bark scaly and with numerous deep depressions, greyish; heartwood light pink-brown, without odor or appreciable exudates; terminal buds tomentose ferruginous. Leaf: petiole 7–15(–17) cm, flattened above, with margins often slightly winged, hirsute or puberulent; rachis 6–15(–28) cm; petiolule 1–5 mm; leaflets 10–18, narrowly rectangular to rectangular or obovate, 5–18 × 2.5–6 cm, cuneate to broadly cuneate and more or less asymmetric at the base, acute or rounded at the apex, lustrous and wrinkled above; midvein prominent below and pubescent, secondary veins (10–)15–25 pairs, parallel, these, as well as the veinlet network, very prominent. Inflorescence reaching 35 cm in length. Functionally male flower: pedicel articulate, 1.5–2 mm, tomentose; calyx patelliform, 5-lobed, 1–1.5 mm in length, finely velvety; petals narrowly obovate, 5.5–7 × 2–3 mm, velvety; staminal tube 4–5 mm in length, deeply divided into 10 lobes, each lobe bearing at the apex a rectangular anther 0.8–1 × 0.4–0.5 mm; gynoecium (pistillode) 4–5 mm in length, glabrous; ovary ovoid, 1 mm in diameter, supported by a grooved disc-gynophore, 1 mm in length; style 1.5–2 mm, stigma discoid-capitate, 0.8 mm in height. Functionally female flower similar; ovary conical, 1.5–2 mm in length; disc-gynophore connected at the base of the staminal tube by thin partitions. Fruit fusiform, with apical dehiscence, 17–23 × 3–5 cm, base of the columella extended by a slender stipe 2–4 cm in length. Seed with wing reaching 5–8 × 1.5–2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée Équato riale, Gabon, République du Congo, République Démocratique du Congo et Angola ; au Gabon, connue de l’Ogooué-Ivindo, l’Ogooué-Lolo et le Woleu-Ntem
+Guinea, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from the Ogooué-Ivindo, the Ogooué-Lolo and the Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-vieille forêt humide semi-décidue, parfois également dans la forêt semper virente ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 1000 m. Usage : Le bois est utilisé pour la construction, la menuiserie, la construction navale, la fabrication de meubles, l’ébénisterie, les placages et le contreplaqué
+old humid semi-deciduous forest, sometimes also in evergreen forest; in Gabon, up to 500 m altitude, elsewhere up to 1000 m. Use: The wood is used for construction, carpentry, shipbuilding, furniture making, cabinet work, veneers and plywood
 
 ## Vernacular names
 

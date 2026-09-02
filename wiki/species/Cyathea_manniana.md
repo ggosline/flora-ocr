@@ -26,23 +26,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hk., Syn. Fil. : 21. (1865). — Tard., Mém. IFAN 28 : 52, pl. 6, f. 3-5 (1953). — Alston, FWTA : 29, f. 8 (1959).
 
-Tronc épineux de 5-6 m et plus (teste Jacques-Félix). Frondes insérées en spirale, tripennées, atteignant 2,50-3 m. Pétiole très nettement murique-épineux, portant, à l'extrême base, des écailles étroitement lancéolées, à base droite, marges entières, parois foncées, lumière étroite, couvert, plus haut, d'un feutrage épais plus ou moins caduc roux, ou glabre. Rachis portant des lenticelles et une hydathode à la base des pennes. Pennes cour- tement pétiolées, les moyennes longues de 40-50 cm sur 10-15 de large, à pétiole long de 2 cm. Pinnules sessiles, espacées d'environ 1,5 cm, longues de 10-12 cm sur 1,5 de large, pennées à la base, pinnatifides et longuement effilées au sommet. Segments ultimes
+Trunk spiny, 5–6 m and more (teste Jacques-Félix). Fronds inserted spirally, tripinnate, reaching 2.50–3 m. Petiole distinctly muricate-spiny, bearing at the extreme base narrowly lanceolate scales with straight base, entire margins, dark walls, narrow lumen, and covered higher up with thick more or less caducous rusty tomentum, or glabrous. Rachis bearing lenticels and a hydathode at the base of the pinnae. Pinnae shortly petiolate, the median ones 40–50 cm long by 10–15 cm wide, with petiole 2 cm long. Pinnules sessile, spaced about 1.5 cm apart, 10–12 cm long by 1.5 cm wide, pinnate at the base, pinnatifid and long-attenuate at the apex. Ultimate segments oblong, acute, falcate, serrulate. Veins bifurcate, not sunken. Texture coriaceous. Sori thick, with cupulate indusium, mixed with large broadly deltoid, iridescent, transparent scales.
 
-oblongs, aigus, falciformes, serrulés. Nervures bifurquées, non foncées. Texture coriace. Sores épais, à indusie en cupule, mélangés de grandes écailles largement deltoïdes, irisées, transparentes.
+Lectotype (cf. Pichi Sermolli): Mann, 363, Fernando-Po (K).
 
-Lectotype (cf. Pichi Sermolli) : Mann, 363, Fernando-Po (K).
+The variety Preussii (Diels) Tard., based on the glaucescence of the lower leaf surface, does not appear to us to merit being maintained.
 
-La variété Preussii (Diels) Tard., basée sur la glaucescence de la face inférieure de la feuille ne nous semble pas devoir être maintenue.
+Tropical Africa, western and eastern, from Cameroon and southern Ethiopia to Rhodesia and Portuguese East Africa.
 
-Afrique tropicale, occidentale et orientale, depuis le Cameroun et le sud de l’Ethiopie jusqu’en Rhodésie et en Afrique orientale portugaise.
+Humid lowlands, alluvium, lower slopes. Very common in places.
 
-Bas-fonds humides, alluvions, bas de pentes. Très commun par endroits.
-
-Nom vern. : Hecadisakasanga (Mitsogo).
+Vernacular name: Hecadisakasanga (Mitsogo).
 
 ## Specimens examined
 

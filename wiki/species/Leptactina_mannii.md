@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs 2.5–5 m tall, sometimes somewhat bushy. Stipules gibbous, cucullate, 3–14 mm wide, convex on the upper surface, glabrous. Petiole 1–5 mm. Blade glabrous, reddish-brown when dry, elliptic, 9–23 × 4.5–13 cm; base acute, sometimes rounded or ± contracted corrugated; apex very briefly acuminate, sometimes rounded. 7–11 pairs of secondary veins glabrous, sometimes micropubescent below as well as the midvein. Domatia ± distinctly pubescent.
 
-Arbustes de 2,5-5 m de hauteur, parfois un peu buissonnants. Stipules gibbeuses cucullées, larges de 3-14 mm, convexes à la face supérieure, glabres. Pétiole de 1-5 mm. Limbe glabre, brun roussâtre à sec, elliptique, de 9-23 × 4,5-13 cm; base aiguë, parfois arrondie ou ± contractée gaufrée; sommet très brièvement acuminé, parfois arrondi. 7-11 paires de nervures secondaires glabres, parfois micropubérulentes dessous ainsi que la médiane. Domaties ± visiblement pubérulentes.
+Terminal inflorescences contracted, sometimes few-flowered, generally many-flowered and mixed with the upper leaves. Pedicels 1–7 mm long. Flowers fragrant. Calyx furrowed at the level of the ovary, conical for 4–5 mm, with 5 narrowly elliptic erect lobes (1.2) 2–4.6 × 0.4–1 cm. Corolla 10–19 cm diam., with finely pubescent tube 4–11 × 0.2–0.3 cm, with 5 lobes long-attenuate acute 6–9.7 × 0.8–1.6 cm, ± pubescent on the lower surface. Stamens sessile about 2 cm long; anther inserted slightly above its midpoint and not exceeding the throat. Style pubescent in its upper part; stigma with 2 linear pubescent lobes, with the apices curved above the pubescent throat.
 
-Inflorescences terminales contractées, parfois pauciflores, généralement multiflores et mêlées aux feuilles supérieures. Pédicelles de 1-7 mm de longueur. Fleurs odorantes. Calice sillonné au niveau de l'ovaire, conique sur 4-5 mm, à 5 lobes étroitement elliptiques dressés de (1,2) 2-4,6 × 0,4-1 cm. Corolle de 10-19 cm de diam., à tube finement pubescent de 4-11 × 0,2-0,3 cm, à 5 lobes longuement atténués aiguis de 6-9,7 × 0,8-1,6 cm, ± pubes-cents à la face inférieure. Étamines sessiles longues d'env. 2 cm; anthère insérée un peu au-dessus de sa mi-longueur et ne dépassant pas la gorge. Style pubescent dans sa partie supérieure; stigmate à 2 lobes linéaires pubescents, aux extrémités arquées au-dessus de la gorge pubescente.
-
-Fruit oblong atteignant 25-35 × 12-18 mm, veiné de 10 (12) côtes longitudinales, à sépales persistants. Endocarpe mince devenant crustacé et ochracé. Graines nombreuses, noires et lisses, prismatiques, dépassant 2 mm.
+Fruit oblong reaching 25–35 × 12–18 mm, veined with 10 (12) longitudinal ribs, with persistent sepals. Endocarp thin becoming crustaceous and ochraceous. Seeds numerous, black and smooth, prismatic, exceeding 2 mm.
 
 ## Type
 
@@ -31,13 +29,11 @@ Mann, Kongui river,  $ 1^{o} $ lat. N (K!, isotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon and Lower Congo. Littoral thickets and margins of sublittoral forests.
 
-Cameroun, Gabon et Bas-Congo. Fourrés littoraux et lisières de forêts sublittorales.
+Gabonese names: Ejombolo (Griffon du Bellay); Djombu? (Bapunu according to Walker).
 
-Noms gabonais : Ejombolo (Griffon du Bellay); Djombu? (Bapunu d'après Walker).
-
-A. Aubréville G. 101, Port-Gentil (fl. déc.). A. Chevalier 4308, 4324, Cap Lopez (fl. fr. juill.). G. Debeaux 168, Libreville (fl. juin); 434, Cap Lopez (fr. juill.). R. P. Duparquet s. n., Gabon. J. Dybowski 96, 125, Ngové (fl. fév.); 125 (bis), Cap Lopez. Griffon du Bellay 12, Gabon. N. Hallé 941, NW de Libreville (fr. janv.). N. Hallé et J.-F. Villiers 5480, 5501, Cap Estérias (fl. et fr. fév.). I.N.E.F. 14-16 oct. 1968, Cap Estérias (fl. fr.). R. P. Klaine 3135, env. de Libreville (fr. oct.). Mgr A. Le Roy s. n., Mondah; s. n., Gabon (fl. nov.-déc.). G. Le Testu 1366, entre Goa et Nyanga (fl. août). G. Mann 1824 = 981, Kongui river, 1° lat. N (fl. sept.). H. Pобéguin 83, Cap Lopez (fl. août). H. Soyaux 121, 259, Sibange Farm (fl. sept.; fr. mars). F. R. Thollon 3, Libreville (fl. déc.).
+A. Aubréville G. 101, Port-Gentil (fl. Dec.). A. Chevalier 4308, 4324, Cape Lopez (fl. fr. July). G. Debeaux 168, Libreville (fl. June); 434, Cape Lopez (fr. July). R. P. Duparquet s. n., Gabon. J. Dybowski 96, 125, Ngové (fl. Feb.); 125 (bis), Cape Lopez. Griffon du Bellay 12, Gabon. N. Hallé 941, NW of Libreville (fr. Jan.). N. Hallé and J.-F. Villiers 5480, 5501, Cape Estérias (fl. and fr. Feb.). I.N.E.F. 14–16 Oct. 1968, Cape Estérias (fl. fr.). R. P. Klaine 3135, env. of Libreville (fr. Oct.). Mgr A. Le Roy s. n., Mondah; s. n., Gabon (fl. Nov.–Dec.). G. Le Testu 1366, between Goa and Nyanga (fl. Aug.). G. Mann 1824 = 981, Kongui river, 1° lat. N (fl. Sept.). H. Robéguin 83, Cape Lopez (fl. Aug.). H. Soyaux 121, 259, Sibange Farm (fl. Sept.; fr. Mar.). F. R. Thollon 3, Libreville (fl. Dec.).
 
 ## Notes
 

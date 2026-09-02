@@ -46,7 +46,7 @@ Species known from Nigeria, Cameroon, both in evergreen and apparently also semi
 
 De Wilde W. 379I,mont Febé pres Yaoundé (fr., nov.) WAG.
 
-Mildbraed 6134 (type)，Eduduma-Bidue,25 km E Grand Batanga pres Kribi (fr.,juill. delet.; iso-,stér.HBG).
+Mildbraed 6134 (type),Eduduma-Bidue,25 km E Grand Batanga pres Kribi (fr.,juill. delet.; iso-,stér.HBG).
 
 ## Figures
 

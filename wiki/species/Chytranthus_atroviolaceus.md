@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chytranthus brunneo-tomentosus GILG ex RADLK., l.c. : 787 (1932); HAUMAN, Fl. Congo. 9 : 353 (1960); KEAY, l.c. : 718 (1958). Syn. nov.
 
-PL. 23. — Chytranthus angustifolius Exell : 1, feuille × 2/3; 2, base pétiolaire; 3, coupe d'un bouton; 4, fleur épanouie, diamètre 4 mm; 5, 6, pétales; 7, appendicule pétalaire d'un échantillon de Côte-d'Ivoire (environ 1 mm); 8, disque de 2 mm; 9, étamine de 5,2 mm; 10, anthère recto et verso, longue de 1,7 mm; 11, coupe supérieure et médiane de l'anthère, largeur 0,8 mm; 12, ovaire avorté de 0,5 mm; 13, jeune fruit, diamètre 12 mm; 14, fruit mûr et sa coupe, 9 × 9 cm; 15, graine longue de 2,8 cm (1, 2, 14, 15; N. Hallé 1177; 3, 4, 5, 6, 8; Letouzey 1054; 7, N. Hallé IA. 3275; 9, 10, 11, 12; Chevalier 26900; 13, Baudon s.n., Souanké.)
+PL. 23. — Chytranthus angustifolius Exell : 1, leaf × 2/3; 2, petiolar base; 3, section of a bud; 4, open flower, diameter 4 mm; 5, 6, petals; 7, petaloid appendage from an Ivory Coast specimen (approximately 1 mm); 8, disk 2 mm; 9, stamen 5.2 mm; 10, anther front and back, 1.7 mm long; 11, upper and median section of the anther, width 0.8 mm; 12, aborted ovary 0.5 mm; 13, young fruit, diameter 12 mm; 14, ripe fruit and its section, 9 × 9 cm; 15, seed 2.8 cm long (1, 2, 14, 15; N. Hallé 1177; 3, 4, 5, 6, 8; Letouzey 1054; 7, N. Hallé IA. 3275; 9, 10, 11, 12; Chevalier 26900; 13, Baudon s.n., Souanké.)
 
-Arbuste monocaule de 0,80-4 m de hauteur, à tronc atteignant 15 cm de diamètre. Extrémité très finement pubérulente. Petits bourgeons axillaires hirsutes. Feuilles longues de 0,5-1,2 m à 4-6 paires de folioles; pétiole de 20 à 50 cm; rachis strié en long, à pubescence extrêmement rase ou glabrescent; pétiole un peu renflé de 8-13 mm, à pubérulence très courte s'étendant plus ou moins aux nervures; folioles, à sec, souvent subconcolores brunâtres, elliptiques ou obovales de 15-40 (-46) × 7-13 (-17) cm; acumen court, aigu et souvent mucronulé; base obtuse ou aiguë; folioles supérieures plus grandes que les inférieures, parfois du double de la longueur; nervure médiane avec un étroite ligne de poils dressés à la face supérieure; 15-25 paires de nervures secondaires espacées de 10-15 mm; nervilles apparentes.
+Monocaulous shrub 0.80–4 m in height, with trunk reaching 15 cm in diameter. Apex very finely puberulent. Small axillary buds hirsute. Leaves 0.5–1.2 m long with 4–6 pairs of leaflets; petiole 20 to 50 cm; rachis longitudinally striate, with extremely short pubescence or glabrescent; petiolule slightly swollen 8–13 mm, with very short pubérulence extending more or less to the nerves; leaflets, when dry, often subconcolorous brownish, elliptic or obovate 15–40 (–46) × 7–13 (–17) cm; acumen short, acute and often mucronulate; base obtuse or acute; upper leaflets larger than the lower, sometimes twice the length; midvein with a narrow line of erect hairs on the upper surface; 15–25 pairs of secondary nerves spaced 10–15 mm apart; tertiary veins apparent.
 
-Inflorescences caulinaires sur 50 cm inférieurs de la tige, plutôt grêles, les deux types de fleurs ♂ ou ♀ paraissant issus de pieds différents, longues de 6-25 cm, à rachis strié, vêtues d'une fine pubérulence brune; glomérules pluriflores espacés, sessiles; les inférieurs sont parfois brièvement pédonculés ou même remplacés par des petits rameaux. Fleurs veloutées d'un noir rougeêtre ou violacé, d'environ 6 mm de diamètre, à pédicelle robuste long de 2-3 mm; 5 sépales échancrés sur la moitié du calice, à marges de recouvrement larges et éclaircies; 4 (-5) pétales onguiculés, blancs, dépassant le calice de 2-4 mm, à lame et sommet pubescent; ligule variable, souvent fendue ou émarginée au sommet, avec, ou plus fréquemment sans, appendicule; disque convexe en croissant pentagonal dépassant 3 mm. Fleur ♂ à 7-8 (-10) étamines; filet pubescent; antère glabre, de  $ 1,6 \times 0,9 $ mm, à connectif convexe sans sillon ni verrue, un peu émarginé au sommet; ovaire avorté hirsute, à 5 loges. Fleur ♀ à stigmate un peu exsert; ovaire hirsute, à 5 loges et 5 sillons.
+Inflorescences cauline on the lower 50 cm of the stem, rather slender, the two types of ♂ or ♀ flowers appearing to arise from different plants, 6–25 cm long, with striate rachis, clothed with fine brown pubérulence; pluriflorous glomerules spaced, sessile; the lower ones are sometimes briefly pedunculate or even replaced by small branches. Flowers velvety reddish-black or violet, approximately 6 mm in diameter, with robust pedicel 2–3 mm long; 5 sepals notched on half of the calyx, with broad overlapping margins and lighter edges; 4 (–5) unguiculate petals, white, exceeding the calyx by 2–4 mm, with blade and apex pubescent; ligule variable, often split or emarginate at the apex, with or more frequently without an appendage; convex disk pentagonal crescent exceeding 3 mm. ♂ flower with 7–8 (–10) stamens; filament pubescent; anther glabrous, $ 1.6 \times 0.9 $ mm, with convex connective lacking a sulcus or wart, slightly emarginate at the apex; aborted ovary hirsute, with 5 locules. ♀ flower with stigma slightly exsert; ovary hirsute, with 5 locules and 5 sulci.
 
-Fruit d'environ 7 × 7 cm, à 5 côtes; surface très densément hérissee de poils raides noir violet, ou brunâtres à sec. Loges tapissées de poils mous; 5 graines brunes, de 23-32 × 14-18 × 6 mm. PL. 24, p. 105.
+Fruit approximately 7 × 7 cm, with 5 ribs; surface very densely covered with stiff hairs black-violet, or brownish when dry. Locules lined with soft hairs; 5 brown seeds, 23–32 × 14–18 × 6 mm. PL. 24, p. 105.
 
 ## Type
 
@@ -35,9 +33,7 @@ Talbot 1853 et 1596, Oban, Nigeria (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En forêt humide ou inondable. Sierra Leone, Côté d’Ivoire (N. Hallé 515 bis), Ghana, Nigeria, Centrafrique (Tisserant 2013), et jusqu’au Mayombe congolais.
+In humid or inundable forest. Sierra Leone, Ivory Coast (N. Hallé 515 bis), Ghana, Nigeria, Central African Republic (Tisserant 2013), and extending to the Congolese Mayombe.
 
 ## Vernacular names
 

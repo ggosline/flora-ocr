@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 14
+Plate 14
 
 Physedra barteri (Hook.f.) Cogn. in A.DC. & C.DC., Monogr. phan. 3: 525 (1881).
 

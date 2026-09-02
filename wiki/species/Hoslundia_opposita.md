@@ -15,29 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ligneuse ou arbuste aromatique, de 0,6–3(–5) m de hauteur ; tige ligneuse, ramifiée, à épiderme exfolié, pubérulente à tomenteuse, généralement à poils dirigés vers le haut ou étalés, parfois dirigés vers le bas. Feuille : pétiole 0–10 mm ; limbe parfois plié le long de la nervure médiane, elliptique à ovale, de 2–12(–17) × 0,7–4 cm, atténué à la base, aigu, atténué ou apiculé à l’apex, subentier à denté ou crénelé et parfois faiblement révoluté, parfois discolore, tomenteux à presque glabre, à poils confinés aux nervures de la face inférieure, à glandes sessiles sur la face inférieure. Inflorescence : axes opposés, carrés ou rarement avec 3 à 6 angles ; verticillastres de 2(à 4) fleurs, distants de 2–10 mm ; bractées linéaires à ovales ou elliptiques, longues de 1–4 mm. Fleur : pédicelle 2–5 mm ; calice long de 2–5 mm, de 4–10 mm de largeur en fruit, pubescent à glandes sessiles ; corolle longue de 4–7 mm, blanche, verte ou jaune, tube long de 3–6 mm ; étamines inférieures exsertes de 1–3 mm de la gorge. Fruit : akènes longs de 2 mm, bruns.
+Woody herb or aromatic shrub, 0.6–3(–5) m tall; woody stem, branched, with exfoliating epidermis, puberulent to tomentose, generally with hairs directed upward or spreading, sometimes directed downward. Leaf: petiole 0–10 mm; lamina sometimes folded along the midvein, elliptic to ovate, 2–12(–17) × 0.7–4 cm, attenuate at the base, acute, attenuate or apiculate at the apex, subentire to dentate or crenate and sometimes weakly revolute, sometimes discolorous, tomentose to almost glabrous, with hairs confined to the veins on the lower surface, with sessile glands on the lower surface. Inflorescence: axes opposite, square or rarely with 3 to 6 angles; verticillasters of 2(to 4) flowers, distant 2–10 mm apart; bracts linear to ovate or elliptic, 1–4 mm long. Flower: pedicel 2–5 mm; calyx 2–5 mm long, 4–10 mm wide in fruit, pubescent with sessile glands; corolla 4–7 mm long, white, green or yellow, tube 3–6 mm long; lower stamens exsert 1–3 mm from the throat. Fruit: achenes 2 mm long, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Madagascar, Afrique tropicale et australe, comprenant : Nigéria, Cameroun, Guinée équatoriale (Rio Muni, Bioko, Annobon), Gabon, République du Congo, République Centrafricaine, Répu-
-
-blique démocratique du Congo et Angola ; au Gabon, signalé à la frontière Gabon/République du Congo, formée de l’Ivindo, juste au nord de la frontière Woleu-Ntem/Ogooué-Ivindo. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC).
+Madagascar, tropical and southern Africa, including: Nigeria, Cameroon, Equatorial Guinea (Rio Muni, Bioko, Annobon), Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon, recorded at the border between Gabon/Republic of the Congo, formed by the Ivindo, just north of the Woleu-Ntem/Ogooué-Ivindo border. Conservation status: Widely distributed; probably Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires, végétations dégradées ; au Gabon à ± 500 m d’altitude, ailleurs à 350–1500 m. Usage : Le jus des feuilles est utilisé contre les problèmes de peau au Nigéria ; au Congo, il est appliqué sur les fractures
+secondary forests, degraded vegetation; in Gabon at ± 500 m altitude, elsewhere at 350–1500 m. Use: The juice of the leaves is used against skin problems in Nigeria; in Congo, it is applied to fractures
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le spécimen cité dans Sosef et al. (2006) appartient à Ficus natalensis Hochst. B : Arbonnier (2019), Burkill (1995), Morales (2011), Morton (1963), Paton et al . (2013). i B liographie
+The specimen cited in Sosef et al. (2006) belongs to Ficus natalensis Hochst. B: Arbonnier (2019), Burkill (1995), Morales (2011), Morton (1963), Paton et al. (2013). Bibliography
 
 ## Notes
 

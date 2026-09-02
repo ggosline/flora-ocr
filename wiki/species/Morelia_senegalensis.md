@@ -24,23 +24,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3 to 6 (12) m in height reaching 15 cm diam., often bushy. Internodes glabrous. Stipules glabrous 4-6 mm in length. Petiole 8-17 mm, channelled, glabrous. Leaf blade brownish and somewhat dull in appearance when dry, chartaceous, entirely glabrous or bearing, along the midvein at the juvenile stage, a few caducous hairs, elliptic 8-20 × 3-9 cm; base rounded or
 
-Arbuste de 3 à 6 (12) m de hauteur atteignant 15 cm de diam., souvent buissonnant. Entrenœuds glabres. Stipules glabres de 4-6 mm de longueur. Pétiole de 8-17 mm, canaliculé, glabre. Limbe brunâtre et d'aspect ± terne à sec, chartacé, entièrement glabre ou muni, le long de la médiane au stade juvénile, de quelques poils caducs, elliptique de 8-20 × 3-9 cm; base arrondie ou
+subacute; apex acuminate to sublanceolate. Midvein presenting a narrow raised line on the upper surface. 5-8 pairs of arcuate ascending secondary veins. Domatia in small glabrous pits.
 
-subaiguë; sommet acuminé à sublancéolé. Médiane présentant une étroite ligne saillante à la face supérieure. 5-8 paires de nervures secondaires arquées ascendantes. Domaties en petites fossettes glabres.
+Inflorescences bearing 10-90 flowers with glabrous peduncle 1-3 cm; bracts 1-2 mm. Pedicel 1-3 mm. Calyx light green glabrous or ± pubérulent, with slightly flared cup ca. 3-4 mm high, with 5 acute denticles less than 1 mm. Flowering synchronous within the same inflorescence; corolla white becoming reddish-brown at the end of anthesis, glabrous externally; tube 5-8 mm; 5 reflexed lobes 9-11 × 4 mm, scarcely apiculate. Filaments ca. 1 mm; anthers 6 × 1 mm. Style 15-20 mm with fusiform dark garnet stigmatic club. Small fleshy disc.
 
-Inflorescences portant 10-90 fleurs à pédoncule glabre de 1-3 cm; bractées de 1-2 mm. Pédicelle de 1-3 mm. Calice vert clair glabre ou ± pubérulent, à cupule légèrement évasée haute d'env. 3-4 mm, à 5 denticules aigus inférieurs à 1 mm. Floraison synchrone dans une même inflorescence; corolle blanche devenant brun roux en fin d'anthèse, glabre extérieurement; tube de 5-8 mm; 5 lobes réfractées de 9-11 × 4 mm, à peine apiculés. Filets d'env. 1 mm; anthères de 6 × 1 mm. Style de 15-20 mm à massue stigmatique rouge grenat fusiforme. Petit disque charnu.
+Fruit reaching 12-17 mm diam., with persistent calycinal cup, subquadrilobate when dry. Ca. 10 seeds 5 mm with broadly concave inner face. Embryo with radicle 2.2 mm, and orbicular cotyledons 1.5 mm.
 
-Fruit atteignant 12-17 mm de diam., à cupule calycinale persistante, subquadrilobé à sec. Env. 10 graines de 5 mm à face interne largement concave. Embryon à radicule de 2,2 mm, et cotylédons orbiculaires de 1,5 mm.
+De Candolle having published in advance the work of Richard and under the name of the latter, we consider that the holotype is the specimen of Richard (Richard, given by M. Bosc, s. n., Senegal, P!) and not the duplicates of Guillemin and Perrottet from the herbarium G-DC which are isosyntypes.
 
-De Candolle ayant publié par anticipation le travail de Richard et sous le nom de ce dernier, nous estimons que l'holotype est le spécimen de Richard (Richard, donné par M. Bosc, s. n., Sénégal, P!) et non les doubles de Guillemin et Perrottet de l'herbier G-DC qui sont des isosyntypes.
+Plant of marshes, river and lake shores, often with the base in water; it always grows below the limit of high waters.
 
-Plante de marais, bords de rivières et lacs, souvent avec le pied dans l'eau; elle croît toujours en deçà de la limite des hautes eaux.
+From Senegal and Mali to Upper-Oubangui, to Congo and Angola (Gossweiler 1259).
 
-Du Sénégal et du Mali jusqu'en Haut-Oubangui, au Congo et Angola (Gossweiler 1259).
-
-Le bois sert à faire des manches de haches.
+The wood is used for axe handles.
 
 ## Vernacular names
 
@@ -102,33 +100,31 @@ Bois dur, rosé, recherché pour la confection de manche de haches.
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Material studied for Gabon:
 
-Matériel, étudié pour le gabon :
+J. Dyhowski 91, Achouka, Bas-Ogooué (fl. August).
 
-J. Dyhowski 91, Achouka, Bas-Ogooué (fl. août).
+F. Fleury 26188 (in herb. A. Chev.), Adouma on the Orimbo (fr. July).
 
-F. Fleury 26188 (in herb. A. Chev.), Adouma sur l'Orimbo (fr. juill.).
+N. Hallé 1700, 1861, 1910, Ayem, 20 km SW of Ndjolé (fl. fr. April; 2278, Abanga (fl. June); 3260, 3432, Bélinga alt. 800 m (fl. fr. Nov. Dec.).
 
-N. Hallé 1700, 1861, 1910, Ayem, 20 km. SW de Ndjolé (fl. fr. avr.; 2278, Abanga (fl. juin); 3260, 3432, Bélinga alt. 800 m (fl. fr. nov. déc.).
-
-N. Hallé et J.-F. Villiers 4515, Kinguélé (bout. janv.).
+N. Hallé and J.-F. Villiers 4515, Kinguélé (but. Jan.).
 
 Jolly 2, Libreville.
 
-R. P. Klaine 320 (fl. mai), 1192 (fl. sept.), 1287 (fl. août), 1766 (fl. déc.), env. de Libreville.
+R. P. Klaine 320 (fl. May), 1192 (fl. Sept.), 1287 (fl. August), 1766 (fl. Dec.), env. of Libreville.
 
-G. Le Testu 7889, Lastoursville (fl. et fr. fév.).
+G. Le Testu 7889, Lastoursville (fl. and fr. Feb.).
 
-D. Normand 193, Lae Zilé (fr. sept.)
+D. Normand 193, Lake Zilé (fr. Sept.)
 
-H. Soyaux 60, Sibange (fl. janv.).
+H. Soyaux 60, Sibange (fl. Jan.).
 
-Thollon : s. n., Gabon ou Congo.
+Thollon: s. n., Gabon or Congo.
 
-G. Touzet : 22, 28, 139, Nkoulounga (fl. fr. juin).
+G. Touzet: 22, 28, 139, Nkoulounga (fl. fr. June).
 
-A. Walker s. n., Saint-Martin (fr. nov.)
+A. Walker s. n., Saint-Martin (fr. Nov.)
 
 ## Figures
 

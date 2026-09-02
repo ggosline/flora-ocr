@@ -25,13 +25,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Ching, Bull. Fan. Mém. Inst. 10 : 242 (1941). — Alston, FWTA : 63 (1959).
 
-— Chìng, Bull. Fan. Mém. Inst. 10 : 242 (1941). — Alston, FWTA : 63 (1959).
-
-Rhizome longuement rampant, à frondes espacées, couvert d'écailles à bords entiers, formées de cellules à parois brun foncé, lumière brune. Pétiole long de 20-50 cm, nu, canaliculé, brunâtre à la base, straminé plus haut. Limbe à contour ovale-oblong, long de 40-50 cm sur 20-25 de large, bipinnatifide. Penne terminale étroitement deltoïde, lobée; pennes latérales 15-20 paires, les inférieures très réduites, auriculiformes. Pennes moyennes longues de 15 cm sur 2 de large, alternes, sessiles, longuement effilées, à marges lobées sur 1/3-1/2 de leur largeur, à lobes arrondis, obliques, contigus. Rachis straminé, portant des poils raides, gri
-
-sâtres, à la face inférieure et supérieure. Costa glabre. Nervures et nervilles à poils caduces. 7-9 paires de nervilles par lobes, dont 4-5 anastomosées. Texture coriace. Sores à indusie caduque, situés à peu près au milieu de la nerville qui les porte.
+Rhizome long-creeping, with fronds spaced apart, covered with scales with entire margins, formed of cells with dark brown walls, brown in transmitted light. Petiole 20-50 cm long, naked, canaliculate, brownish at the base, stramineous higher up. Blade with oval-oblong outline, 40-50 cm long by 20-25 cm wide, bipinnatifid. Terminal pinna narrowly deltoid, lobed; lateral pinnae 15-20 pairs, the lower ones very much reduced, auriculiform. Middle pinnae 15 cm long by 2 cm wide, alternate, sessile, long-tapering, with margins lobed on 1/3-1/2 of their width, with rounded, oblique, contiguous lobes. Rachis stramineous, bearing stiff, greyish hairs on the lower and upper surface. Costa glabrous. Veins and veinlets with caducous hairs. 7-9 pairs of veinlets per lobe, of which 4-5 anastomosing. Texture coriaceous. Sori with caducous indusium, situated approximately in the middle of the veinlet bearing them.
 
 ## Type
 
@@ -39,11 +35,9 @@ Chevalier, 5799, Oubangui (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Congo, East Africa.
 
-De Guinée au Congo, Afrique orientale.
-
-Sous-bois peu éclairés, sur sol humide.
+Poorly lit understory, on moist soil.
 
 ## Specimens examined
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste jusqu’à 70 cm de hauteur ; tronc prostré, généralement simple , jusqu’à ± 5 cm de hauteur. Feuilles jusqu’à 4, disposées en rosette ; gaine embrassant la tige sur plus de la circonférence, sur une longueur de < 1 cm, vert foncé à violet, tige masquée par les bases
-
-chevauchantes ; pseudopétiole dressé, jusqu’à 52 cm, mince, cylindrique , vert foncé, à bords involutés, la base passant abruptement dans la gaine ; limbe arqué à l’horizontale, condupliqué, ovale à largement ovale , jusqu’à 23 × 11 cm, base arrondie, sommet recourbé, largement cuspidé avec un mucron de ± 4 mm, coriace, face supérieure vert foncé brillant, face inférieure vert plus pâle, panaché avec des taches rondes à ovales , jaune verdâtre à blanches, nervure médiane obscure, peu de nervures (jusqu’à 8) parallèles, creusées dessus, proéminentes dessous, autres nervures et veinules obscures, mais évidentes sur le sec. Inflorescence dressée, en racème, apparaissant juste au-dessus du sol , jusqu’à 10 cm de longueur, à axes lisses ; bractées jusqu’à 6, rapidement caduques, triangulaires à cymbiformes, 10 × 8 mm, diminuant de taille vers le sommet, sommet muni d’une arête atteignant 6 mm, scarieuses, engainantes à la base de l’inflorescence à amplexicaules au sommet ; fleurs solitaires , mais restreintes aux 3 cm apicaux du racème ; bractées florales rapidement caduques, enveloppant lâchement le pédicelle, cymbiformes, 6 × 3 mm, scarieuses. Fleur fraîche inconnue ; pédicelle jusqu’à 5,5 mm, articulé à jusqu’à 5 mm de la base ; périanthe d’une vieille fleur séchée, 20 mm de longueur, couleur inconnue, à tube jusqu’à 6 mm de longueur, lobes ± 14 mm, beaucoup plus longs que le tube ; étamines insérées près de la gorge, filet et anthère non vues ; ovaire ovoïde, jusqu’à 4 × 2 mm ; style non vu. Fruit subsessile, obloïde , entier à superficiellement 2- ou 3-lobé, jusqu’à 15 × 20 mm, rouge orangé vif. Graine ellipsoïde, ± 7,5 × 5 mm, lisse.
+Shrub up to 70 cm tall; trunk prostrate, generally simple, up to ± 5 cm tall. Leaves up to 4, arranged in a rosette; sheath embracing the stem for more than its circumference, over a length of < 1 cm, dark green to violet, stem hidden by the overlapping bases; pseudipetiole erect, up to 52 cm, slender, cylindrical, dark green, with involute margins, the base passing abruptly into the sheath; blade arched horizontally, conduplicate, oval to broadly oval, up to 23 × 11 cm, base rounded, apex recurved, broadly cuspidate with a mucro of ± 4 mm, coriaceous, upper surface dark green glossy, lower surface paler green, variegated with round to oval spots, yellowish-green to white, midvein obscure, few veins (up to 8) parallel, impressed above, prominent below, other veins and veinlets obscure but evident when dry. Inflorescence erect, racemose, appearing just above ground, up to 10 cm long, with smooth axes; bracts up to 6, quickly caducous, triangular to cymbiform, 10 × 8 mm, decreasing in size towards the apex, apex furnished with an awn reaching 6 mm, scarious, sheathing at the base of the inflorescence to amplexicaul at the apex; flowers solitary, but restricted to the apical 3 cm of the raceme; floral bracts quickly caducous, loosely enveloping the pedicel, cymbiform, 6 × 3 mm, scarious. Fresh flower unknown; pedicel up to 5.5 mm, articulate up to 5 mm from the base; perianth of an old dried flower, 20 mm long, colour unknown, with tube up to 6 mm long, lobes ± 14 mm, much longer than the tube; stamens inserted near the throat, filament and anther not seen; ovary ovoid, up to 4 × 2 mm; style not seen. Fruit subsessile, obloid, entire to superficially 2- or 3-lobed, up to 15 × 20 mm, bright orange-red. Seed ellipsoid, ± 7.5 × 5 mm, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Endémique au Gabon, connu de la Ngounié
+Endemic to Gabon, known from the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-ancienne forêt secondaire et sur pente boisée relativement sèche près d’une chute d’eau ; au Gabon à 700–950 m d’altitude. Vieilles fleurs observées en septembre ; fruits en février. Usage : Des touffes sont plantées en carrés de 1 × 1 m par des femmes de village “pour faire faraud”. La plante la plus importante des rites d’initiation des femmes Boo
+old secondary forest and on relatively dry wooded slope near a waterfall; in Gabon at 700–950 m altitude. Old flowers observed in September; fruits in February. Use: Clumps are planted in squares of 1 × 1 m by village women "to make a show". The most important plant in the initiation rites of Boo women
 
 ## Vernacular names
 

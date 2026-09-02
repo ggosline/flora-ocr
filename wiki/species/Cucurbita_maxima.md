@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 19
 
-Planche 19
-
-Herbe grimpante; tige robuste, jusqu'à 5 ou 6 m de longueur, à poils soyeux blancs. Vrilles multifides, légèrement soyeuses. Feuille: pétiole 15–20 cm, densément soyeux; limbe ré-niforme à orbiculaire-réniforme, long de 15–25 cm, cordé à la base, obtus au sommet, soyeux sur les 2 faces, à marge presque entière à dentée. Fleur mâle: pédicelle 10–20 cm, pubérulent ; réceptacle campanulé; sépales très étroitement elliptiques-ovales, longs de 18–20 mm, à poils soyeux blancs denses; corolle tubuleuse, à lobes réfléchis, ovales-orbiculaires, longs de 4–7 cm, à sommet obtus et bord rugueux; étamines à filet de 5–7 mm, presque glabre ou pubérulent à la base. Fleur femelle à pédicelle s'allongeant nettement à l'anthèse; ovaire ovoïde; style court, à stigmates 2-lobés. Fruit à pédicelle court, subcylindrique, sans sillons anguleux, non élargi au sommet, variable en forme, taille et couleur. Graine comprimée, à marge obtuse ou ± épaissie.
+Climbing herb; stem robust, up to 5 or 6 m in length, with white silky hairs. Tendrils multifid, slightly silky. Leaf: petiole 15–20 cm, densely silky; blade reniform to orbicular-reniform, 15–25 cm long, cordate at the base, obtuse at the apex, silky on both surfaces, with margin almost entire to dentate. Male flower: pedicel 10–20 cm, puberulent; receptacle campanulate; sepals very narrowly elliptic-ovate, 18–20 mm long, with dense white silky hairs; corolla tubular, with reflexed lobes, ovate-orbicular, 4–7 cm long, with obtuse apex and rugose margin; stamens with filament 5–7 mm, almost glabrous or puberulent at the base. Female flower with pedicel distinctly elongating at anthesis; ovary ovoid; style short, with 2-lobed stigmas. Fruit with short pedicel, subcylindric, without angular furrows, not enlarged at the apex, variable in form, size and colour. Seed compressed, with obtuse or ± thickened margin.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l'Amérique du Sud, aujourd'hui largement cultivé dans les zones tropicales et tempérées chaudes du monde entier ; partout en Afrique et très important dans les parties fraîches de l'Afrique australe et dans le Sahel, bien moins dans les régions humides d'Afrique de l'Ouest et de l'Est où Cucurbita moschata est plus commun ; au Gabon, cultivé et parfois échappé
+native to South America, today widely cultivated in the tropical and warm temperate zones throughout the world; throughout Africa and very important in the cool parts of southern Africa and in the Sahel, much less so in the humid regions of West and East Africa where Cucurbita moschata is more common; in Gabon, cultivated and sometimes escaped
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en culture; à 0–2000 m d'altitude
+in cultivation; at 0–2000 m altitude
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ citrouille indigène, courge d'hiver, courge turban, potiron (fr.); pumpkin, win
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Usage: Les fruits mûrs, les feuilles, les fleurs et les graines sont utilisés comme légumes.
+Usage: The ripe fruits, leaves, flowers and seeds are used as vegetables.
 
 ## Bibliography
 

@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 cf. (?) O. grandis Exell.
 
-, réf. orig., et Sterc. Afr. : 99 t. 11 D a-g (1900). — Hutch., Kew Bull. : 395 (1937), — Pellegr., Sterc. Gab. : 45 (1950-1951). — Exell et Mend., Consp. Fl. Angol. I : 199 (1951).
+, orig. ref., and Sterc. Afr.: 99 t. 11 D a-g (1900). — Hutch., Kew Bull.: 395 (1937). — Pellegr., Sterc. Gab.: 45 (1950-1951). — Exell and Mend., Consp. Fl. Angol. I: 199 (1951).
 
-Petit arbre d'env. 6 m de haut à extrémités pubérulentes. Stipules médiocrement persistantes, linéaires, très étroites depuis la base, pubérulentes. Pétioles glabrescents de  $ (0,2) $ 2-12 cm de long, ordinairement 5-8 cm. Feuilles devenant entièrement rousses ou brunâtres à sec. Limbe variable de  $ (1,5) $ 6-27 cm de long sur  $ (0,8) $ 2,5-1/4 cm de large, à base obtuse, parfois arrondie, rarement presque aiguë, à sommet plus ou moins acuminé. Nervure médiane dans une légère dépression sur le dessus du limbe. 6-10 paires de nervures latérales pennées, Réticule très apparent sur le dessous du limbe à sec.
+Small tree approximately 6 m tall with puberulent extremities. Stipules moderately persistent, linear, very narrow from the base, puberulent. Petioles glabrescente of $(0.2)$ 2-12 cm long, ordinarily 5-8 cm. Leaves becoming entirely russet or brownish when dry. Blade variable from $(1.5)$ 6-27 cm long by $(0.8)$ 2.5-1/4 cm wide, with obtuse base, sometimes rounded, rarely almost acute, with more or less acuminate apex. Midvein in a slight depression on the upper surface of the blade. 6-10 pairs of pinnate lateral veins. Reticulation very apparent on the lower surface of the blade when dry.
 
-Fleurs solitaires ou groupées en glomérules sur les rameaux, souvent juste au-dessous des extrémités feuillées. Env. 7-10 bractéoles imbriquées, les supérieures les plus grandes, ovées ou oblongues, à sommet obtus, à pubescence externe rousse, à face interne glabre striée nervée, enveloppantes autour des jeunes boutons. Bouton obové à sommet arrondi. Fleurs subsessiles, articulées, brun blanchâtre ou jaunâtre. Calice charnu de 2,5 à 3,5 cm de long, campanulé dans sa moitié inférieure, divisé en 6-8 lobes, vêtu de poils stellés roux extérieurement, à face interne papillifère. Marges internes des lobes amincies en franges ondulées.
+Flowers solitary or grouped in glomerules on the branches, often just below the leafy extremities. Approximately 7-10 imbricate bracteoles, the upper ones the largest, ovate or oblong, with obtuse apex, with russet pubescence externally, with glabrous striated and veined inner face, enveloping around the young buds. Bud obovate with rounded apex. Flowers subsessile, articulate, whitish-brown or yellowish. Calyx fleshy 2.5 to 3.5 cm long, campanulate in its lower half, divided into 6-8 lobes, clothed with russet stellate hairs externally, with papilliferous inner face. Inner margins of lobes thinned into wavy fringes.
 
-Fleur ♂ à androphore columnaire de 6-10 mm de long, vêtu de poils stellés sur les deux tiers inférieurs. Couronne d'env. 32-36 loges polliniques unisériées, étroites, disposées en cupule
+Male flower with columnar androphore 6-10 mm long, clothed with stellate hairs on the lower two-thirds. Crown of approximately 32-36 uniseriate polliniferous locules, narrow, arranged in a cupule around a large number of densely pubescent rudimentary carpels.
 
-autour d'un grande nombre de carpidies rudimentaires densément pubescentes.
+Female flower with cylindrical pubescent androgynophore, with ovary surrounded by a cupuliform crown of polliniferous locules. 2-3 tight rows of a large number of carpels inserted on the perimeter of a tabular receptacle. Carpels hairy erect, free or somewhat adherent to one another toward the base, each terminated by a narrow attenuate stigma. Up to 10 ovules per carpel. Fruit not seen.
 
-Fleur ♀ à androgynophore cylindrique pubescent, à ovaire entouré par une couronne cupuliforme de loges polliniques. 2-3 rangs serrés d'un grand nombre de carpelles insérés sur le pour- tour d'un réceptacle tabulaire. Carpelles velus dressés, libres ou un peu adhérents entre eux vers la base, chacun terminé par un stigmate étroit atténué. Jusqu'à 10 ovules par carpelle. Fruit non vu.
+Type specimen of the species: Zenker 1579 (P. ex B.).
 
-Type de l'espèce : Zenker 1579 (P. ex B.).
-
-Cette espèce camerouno-gabonaise, n'est connue que des régions de la moyenne Sanaga, du Lokoundjé et du Ntem; elle fréquente des lieux ombragés très humides : forêts denses, pieds de rochers, et stations ripicoles inondées temporairement.
+This Cameroonian-Gabonese species is known only from the regions of the middle Sanaga, the Lokoundjé and the Ntem; it frequents very humid shaded places: dense forests, rock faces, and riparian stations temporarily inundated.
 
 ## Specimens examined
 

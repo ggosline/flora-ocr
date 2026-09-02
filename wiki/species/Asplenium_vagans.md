@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hk., Syn. Fil. : 195 (1867) (pp.). — Alston, FWTA : 59 (1959).
 
-Rhizome court, à frondes en touffes. Écailles deltoïdes à la base, longuement acuminées. Pétiole vert, long de 1-2 cm, canalicule. Limbe long d'environ 10 cm, à contour lancéolé, à rachis prolongé en un long flagelle sans feuille, gemmifère à l'extrémité. Pennes alternes à la base, subopposées au sommet, pétiolulées, longues d'environ 0,5-1 cm, obscurément cunéiformes ou subflabellées, à base supérieure cunéiforme, inférieure tronquée, à extrémité très obtuse, marge supérieure obscurément lobée. Texture épaisse, coriace. Nervures à peine marquées. Sores épais, à indusie émarginée. Spores ovales, échinulées.
+Rhizome short, with fronds in tufts. Scales deltoid at the base, elongate-acuminate. Petiole green, 1–2 cm long, channeled. Blade c. 10 cm long, lanceolate in outline, with the rachis prolonged into a long leafless flagellum, gemmiparous at the apex. Pinnae alternate at the base, subopposite at the apex, petiolulate, c. 0.5–1 cm long, obscurely cuneiform or subflabellate, with the upper base cuneiform, lower base truncate, apex very obtuse, upper margin obscurely lobed. Texture thick, coriaceous. Veins scarcely prominent. Sori thick, with emarginate indusia. Spores oval, echinulate.
 
-Nigeria, Cameroun, Fernando-Po, Gabon, Afrique orientale. Épiphyte en forêt humide, ou sur rochers en sous-bois.
+Nigeria, Cameroon, Fernando-Po, Gabon, East Africa. Epiphytic in humid forest, or on rocks in understory.
 
 ## Specimens examined
 

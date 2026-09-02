@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Melanodiscus unijugatus PELLEGRIN, Bull. Soc. Bot. France 85 : 293 (1938); Fl. Mayombe 3 : 111 (1938).
 
-Arbuste de 3 m, peu ramifié; entrenœuds de 8-10 cm; Feuilles à pétiole de (1-3(-5) cm, sillonné ou plat dessus, portant 2 folioles sur des pétioules d'env. 5 mm; limbes elliptiques, acuminés, 12-20 × 3-6 cm, à dessus verdâtre, dessous plus mat, brunâtre; env. 8 paires de nervures.
+Shrub 3 m tall, sparsely branched; internodes 8–10 cm; leaves with petiole (1–3(–5) cm, furrowed or flat above, bearing 2 leaflets on petiolules ca. 5 mm; blades elliptic, acuminate, 12–20 × 3–6 cm, upper surface greenish, lower surface more dull, brownish; ca. 8 pairs of veins.
 
-Inflorescences terminales, de 6-12 cm, à axe portant 2-4 rameaux près de la base; cymules à 1-3 fleurs insérées à l'aisselle de bractées à intervalles de 5-10; sépales de 1,5 mm; étamines de 3 mm; pistil jaune clair (LE TESTU). PL. 33, 7-8", p. 139.
+Inflorescences terminal, 6–12 cm, axis bearing 2–4 branches near the base; cymules with 1–3 flowers inserted in the axil of bracts at intervals of 5–10; sepals 1.5 mm; stamens 3 mm; pistil pale yellow (LE TESTU). PL. 33, 7–8", p. 139.
 
 ## Type
 
@@ -31,9 +29,7 @@ Le Testu 1865 (fl. ♀), 1866 (fl. ♂), Gabon (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-HAUMAN (Fl. Congo 9 : 367, 1960) cite 3 échantillons (Donis 2081, 2215, 2268, fr.) récoltés au Mayombé pouvant être rapprochés de cette espèce, bien que présentant parfois des feuilles 2-juguées ou 1-2-juguées sur le même individu. Un rameau à feuilles très conformes au type mais à fruits jaunes pubescents à 3 loges pourrait être rapporté à C. unijugatus : N. Hallé & A. Le Thomas 32, Bélinga, Gabon.
+HAUMAN (Fl. Congo 9 : 367, 1960) cites 3 specimens (Donis 2081, 2215, 2268, fr.) collected in the Mayombé that could be compared to this species, although sometimes presenting leaves 2-jugate or 1–2-jugate on the same individual. A branch with leaves very conforming to the type but with fruits yellow pubescent with 3 locules could be referred to C. unijugatus : N. Hallé & A. Le Thomas 32, Bélinga, Gabon.
 
 ## Specimens examined
 

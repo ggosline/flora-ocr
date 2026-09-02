@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.50-2 (4) m tall, slender, much-branched, with rhytidome peeling in strips. Branch tips pubescent. Stipules 10-20 mm long, connate-tubular for 5-10 mm, pubescent. Petiole pubescent, 2-4 mm. Blade olivaceous when dry, pilose-pubescent on the margin and on both faces, 5-12 × 1.7-4 cm; base obtuse or rounded; apex lanceolate or subacuminate. Midvein pilose on both faces; 5-8 pairs of ascending, pilose secondary veins. Blade reticulation microstriate.
 
-Arbrisseau de 0,50-2 (4) m de hauteur, grêle, rameux, à rhy-tidome se desquamant en lanières. Extrémités velues. Stipules de 10-20 mm de long, connées-tubuleuses sur 5-10 mm, velues. Pétiole pubescent de 2-4 mm. Limbe olivacé à sec, pileux-pubescent sur la marge et sur les deux faces, de 5-12 × 1,7-4 cm; base obtuse ou arrondie; apex lancéolé ou subacuminé. Nervure médiane pileuse sur les deux faces; 5-8 paires de nervures secondaires ascendantes et pileuses. Réticule du limbe microstriolé.
+Inflorescences terminal, ± contracted, pubescent, scarcely reaching 2 cm, of 4-12 flowers. Bracts linear, 5-8 mm. Bud acute. Flower white, 8-10 mm long, with pedicel 0 (1) mm. Calyx pubescent, with 5 linear subulate lobes 4-5 mm long. Corolla white, 6-8 mm, pubescent in its upper half; lobes ovate-acute, widely imbricate; internal pubescence very reduced towards the throat, forming a ring below the base of the anthers. Anthers 2.3 mm long, with a small apicule.
 
-Inflorescences terminales ± contractées, velues, atteignant à peine 2 cm, de 4-12 fleurs. Bractées linéaires de 5-8 mm. Bouton aigu. Fleur blanche longue de 8-10 mm à pédicelle de 0 (1) mm. Calice pubescent à 5 lobes linéaires subulés longs de 4-5 mm. Corolle blanche de 6-8 mm, pubescente dans sa moitié supérieure; lobes ovés-aigus largement imbriqués; pubescence interne très réduite vers la gorge, formant un anneau sous la base des anthères. Anthères longues de 2,3 mm, à apicule petit.
-
-Fruit sphérique rouge-sang atteignant 11 mm de diam., un peu pubescent, à sépales dressés. 40-55 graines brun-noir de 1,1 mm dans un fruit.
+Fruit spherical, blood-red, reaching 11 mm diam., somewhat pubescent, with sepals erect. 40-55 black-brown seeds 1.1 mm in a fruit.
 
 ## Type
 
@@ -37,11 +35,9 @@ R. Letouzey 4612 (P, istotype BR), Ngemo, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Non-humid forests, sometimes wooded savanna; well-drained soils, slopes or river banks.
 
-Forêts non humides, parfois savane boisée; sols drainés, pentes ou surplombs de rivières.
-
-Cameroun, Centrafrique, Gabon et Congo ex-belge.
+Cameroon, Central African Republic, Gabon and former Belgian Congo.
 
 ## Specimens examined
 

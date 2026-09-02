@@ -25,15 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb reaching several meters in height, leaves usually densely pubescent with tuberculate hairs at the base, nodes always densely bearded. Leaf blades linear reaching approximately 1 m long and 2 cm wide.
 
-Herbe pérenne atteignant plusieurs mètres de haut, feuilles habituellement densément pubescentes à poils tuberculés à la base, nœuds toujours densément barbus. Limbes linéaires atteignant environ 1 m de long et 2 cm de large.
+Panicle erect, dense, about ten centimeters in diameter. Spikelets 5–7 mm long, lower glume 3–4 mm long, obtuse, pubescent towards the top; the upper one is almost as long as the spikelet, more or less pubescent towards the apex. Lower floret neuter with lemma 7 mm long, glabrous; palea linear 3–4 mm, obtuse or bifid. Upper floret with truncate, bearded callus; lemma bilobed, 3.5–4 mm long, with 5 or 6 nerves, pubescent with silvery hairs; this tomentum exceeds the glume at the apex. Awn about fifteen mm long.
 
-Panicule dressée dense d'une dizaine de centimètres de diamètre. Épillets de 5 à 7 mm de long, glume inférieure de 3-4 mm de long, obtuse, pubescente vers le haut; la supérieure est presqu’aussi longue que l'épillet, plus ou moins pubescente vers le sommet. Fleur inférieure neutre à lemma de 7 mm de long, glabre; paléa linéaire de 3 à 4 mm, obtuse ou bifide. Fleur supérieure à callus tronqué, barbu; lemma bilobée, de 3,5-4 mm de long, à 5 ou 6 nervures, pubescente à poils argentés; ce tomentum dépasse la glumelle au sommet. Arête d'une quinzaine de mm de long.
+Species very widespread throughout humid tropical Africa and South America. According to Conert the two species: L. flammida C. E. Hubb. (American) and L. phragmitoides C. E. Hubb. (African) should be considered as one.
 
-Espèce très répandue dans toute l'Afrique tropicale humide et en Amérique du Sud. D'après Conert les deux espèces : L. flammida C. E. Hubb. (américaine) et L. phragmitoides C. E. Hubb. (africaine) doivent être confondues.
-
-Ce sont des herbes d'endroits franchement marécageux, sans intérêt pour l'élevage.
+These are grasses of frankly swampy places, of no interest for livestock.
 
 ## Specimens examined
 

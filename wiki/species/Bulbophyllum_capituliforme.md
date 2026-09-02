@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 0,4-0,8 × 0,5-0,8 cm, ovoïdes à orbiculaires, 1-foliés. Feuille courtemment pétiolée à sessile 0,9-4 × 0,7-1,3 cm, largement elliptique, ovée à lancéolée, aiguë. Inflorescence dense, 1,5-6 cm, rachis glabre, 3-8-flore. Fleurs minuscules, tépales crémeux ou verdâtes, parfois estompés de brun-pourpre. Sépales aigus à acuminés, finement papilleux ; sépale dorsal ové à ové-lancéolé ; sépales latéraux largement ové à triangulaires,
-
-subfalciformes. Pétales glabres, obovés-oblongs, aigus à acuminés, non falciformes. Labelle glabre, jaune ou rouge-pourpre, elliptique à elliptique-ové, arrondi, assez épais surtout à la base, très fines papilles en direction du sommet subrécurvé à l'extrémité. – Pl. 93, p. 187.
+Pseudobulbs 0.4–0.8 × 0.5–0.8 cm, ovoid to orbicular, 1-leafed. Leaf shortly petiolate to sessile 0.9–4 × 0.7–1.3 cm, broadly elliptic, ovate to lanceolate, acute. Inflorescence dense, 1.5–6 cm, rhachis glabrous, 3–8-flowered. Flowers minute, tepals creamy or greenish, sometimes tinged with brown-purple. Sepals acute to acuminate, finely papillose; dorsal sepal ovate to ovate-lanceolate; lateral sepals broadly ovate to triangular, subfalciform. Petals glabrous, obovate-oblong, acute to acuminate, not falciform. Lip glabrous, yellow or red-purple, elliptic to elliptic-ovate, rounded, rather thick especially at the base, very fine papillae toward the apex subrecurved at the tip. – Pl. 93, p. 187.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon, Congo (Brazzaville), Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic on trunk. Lowland primary forest; collected once on Gilbertiodendron dewevrei
 
-épiphyte sur tronc. Forêt primaire de plaine ; récolté une fois sur Gilbertiodendron dewevrei
-
-MATÉRIEL ÉTUDIÉ (Carte 35) : Hallé 2843, Bélinga, en bordure de savane, aérodrome (fl., Oct.), P!.
+MATERIAL STUDIED (Map 35): Hallé 2843, Bélinga, forest margin, airstrip (fl., Oct.), P!.
 
 ## Figures
 

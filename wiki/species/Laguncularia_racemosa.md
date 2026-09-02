@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1): 281 (1954); EXELL & GARCIA, CFA: 93 (1970); LIBEN, Fl. Cam. 25: 82, tab. 25 (1983).
 
-KEAY, FWTA, ed. 2, 1(1) : 281 (1954) ; EXELL & GARCIA, CFA : 93 (1970) ; LIBEN, Fl. Cam. 25 : 82, tab. 25 (1983).
+- Conocarpus racemosus LINNE, Syst. Nat., ed. 10, 2: 930 (1759). TYPE from Jamaica.
 
-- Conocarpus racemosus LINNE, Syst. Nat., ed. 10, 2 : 930 (1759). TYPE de la Jamaïque.
+Shrub to small tree up to 5 m tall.
 
-Arbrisseau à arbusté haut de ≤ 5 m.
+Leaves: petiole up to 2 cm with 2 glands; lamina obovate or elliptic, up to 10 × up to 6 cm, coriaceous-succulent, glabrous; 8–11 pairs of large lateral veins; domatia absent; base of lamina rounded, apex rounded and mucronate.
 
-Feuilles : pétiole ≤ 2 cm avec 2 glandes ; limbe obové ou elliptique, ≤ 10 × ≤ 6 cm, coriace-succulent, glabre ; 8-11 paires de grandes nervures latérales ; domaties absentes ; base du limbe arrondie, sommet arrondi et mucroné.
+Inflorescences up to 10 cm, axillary or terminal in spikes or panicles.
 
-Inflorescences ≤ 10 cm, axillaires ou terminales en épis ou en pani-cules.
+Flowers sessile. Receptacle 4 mm tall, velutinous, pale green. Petals white, often early caducous, subcircular, diameter 1 mm, exterior puberulent, interior glabrous. Stamens and style not or scarcely exsert.
 
-Fleurs sessiles. Réceptacle haut de 4 mm, velouté, vert pâle. Pétales blancs, souvent tôt caducs, subcirculaires, diamètre 1 mm, extérieur pubérulent, intérieur glabre. Étamines et style non ou à peine exserts.
-
-Fruit vert pâle mat, velouté, longuement obovoïde,  $ 20 \times 8 $ mm, muni de crêtes, réceptacle supérieur persistant. – Pl. 26, p. 93.
+Fruit pale green, matte, obovoid, 20 × 8 mm, furnished with ridges, upper receptacle persistent. – Pl. 26, p. 93.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones côtières des deux bords de l'Atlantique
+coastal zones on both sides of the Atlantic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mangroves-marécages et stations côtières
+Mangrove swamps and coastal stations
 
 ## Specimens examined
 

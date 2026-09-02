@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Büttner, Verhandl. des Botan. Ver. der Prov. Brandenburg 31 : 75 (1889-1890).
 
-Arbuste de 1 à 3 m, parfois buissonnant. Entrenceuds vêtus de poils bruns ± courts. Stipules dressées suborbiculaires ± brusquement élargies au-dessus de la base, ± brusquement prolongées en acumen aigu, de 12-25 × 10-21 mm, pubescentes à la base, sur la ligne axiale et sur la marge. Pétiole pubescent de 5-20 mm. Limbe brun ou brunâtre à sec, finement pileux-scabre dessus, pubescent dessous, ové ou elliptique, de 6-15 × 3,5-7 cm; base variable parfois cunéiforme, souvent arrondie à subcordée. 8-13 paires de nervures secondaires fortement pileuses à la face inférieure.
+Shrub 1 to 3 m, sometimes bushy. Internodes clothed with ± short brown hairs. Stipules erect suborbicular ± abruptly enlarged above the base, ± abruptly produced into an acute acumen, 12–25 × 10–21 mm, pubescent at the base, on the axial line and on the margin. Petiole pubescent 5–20 mm. Blade brown or brownish when dry, finely pilose-scabrous above, pubescent below, ovate or elliptic, 6–15 × 3.5–7 cm; base variable sometimes cuneate, often rounded to subcordate. 8–13 pairs of secondary nerves strongly pilose on the lower surface.
 
-Inflorescences terminales à 3-6 fleurs subsessiles disposées en cymes contractées pubescentes. Bractées pubescentes de ± 17 × 2 mm, à stipules linéaires par paires. Calice pubescent à 5 (6) lobes elliptiques-lancéolés à oblongs, foliacés verts, de 20-25 × 5-11 mm. Corolle blanche à tube long de 7-10 × 0,2-0,4 cm, pubescent, à poils blonds-ochracés à sec, à pubescence interne au niveau des anthères; 5 lobes très aigus de 35-50 × 6-11 mm, à face supérieure glabre. Anthères incluses de 19 × 1,4 mm, à saillie du connectif aiguë atteignant la gorge; elles sont sessiles et fixées au tiers supérieur; pollen jaune clair. Style grêle à pubescence collectrice de pollen au niveau des anthères, à deux lobes stigmatiques à peu près glabres de 12 × 2 mm in vivo, exserts. 0vaire velu à 10 silons longitudinaux. 2 placentas oblongs multioulés.
+Inflorescences terminal with 3–6 subsessile flowers arranged in contracted pubescent cymes. Bracts pubescent ± 17 × 2 mm, with linear stipules in pairs. Calyx pubescent with 5 (6) elliptic-lanceolate to oblong lobes, green foliaceous, 20–25 × 5–11 mm. Corolla white with tube 7–10 × 0.2–0.4 cm long, pubescent, with blonde-ochraceous hairs when dry, with internal pubescence at the level of the anthers; 5 very acute lobes 35–50 × 6–11 mm, with upper surface glabrous. Anthers included 19 × 1.4 mm, with acute connective projection reaching the throat; they are sessile and fixed at the upper third; pollen pale yellow. Style slender with pollen-collecting pubescence at the level of the anthers, with two stigmatic lobes approximately glabrous 12 × 2 mm in vivo, exsert. Ovary hairy with 10 longitudinal furrows. 2 oblong multilobulate placentas.
 
-Fruits oblongs dépassant 2 × 1 cm, à 10 côtes longitudinales
-
-très saillantes à sec, pubescents, à sépales persistants. Graines en très grand nombre, brunâtres brillantes, de 2 mm irrégulièrement subanguleuses, comprimées par pression réciproque dans le sens longitudinal.
+Fruits oblong exceeding 2 × 1 cm, with 10 longitudinal ribs very prominent when dry, pubescent, with persistent sepals. Seeds very numerous, brownish shiny, 2 mm irregularly subangular, compressed by reciprocal pressure in the longitudinal direction.
 
 ## Type
 
@@ -34,11 +30,9 @@ Büttner 436 et 448 (ou 445, K!), 10 nov. et 3 déc. 1885, Bolobo-Lukolela, Cong
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is close to L. densiflora Hook. f., from west Africa which does not extend eastward beyond Nigeria. The pubescence of L. Leopoldi-II is variable but always more pronounced than in densiflora, on the leaf, the corolla tube and the ovary; the flowers are also fewer per inflorescence.
 
-Cette espèce est voisine du L. densiflora Hook. f., de l'ouest africain qui ne dépasse pas vers l'est la Nigéria. La pubescence de L. Leopoldi-II est variable mais toujours plus forte que chez densiflora, sur la feuille, le tube de la corolle et l'ovaire; les fleurs sont aussi moins nombreuses par inflorescence.
-
-Gabon, Congo, Centrafrique. Lisières, forêts ripicoles ou inondables. Les fleurs, très odorantes, s'ouvrent le soir.
+Gabon, Congo, Central Africa. Forest margins, riparian or inundable forests. The flowers, very fragrant, open in the evening.
 
 ## Specimens examined
 

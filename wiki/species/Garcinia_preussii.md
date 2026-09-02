@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre dioïque, jusqu’à 25 m de hauteur ; tronc jusqu’à 20 cm de diamètre ; latex jaune ; rameaux arrondis. Feuilles opposées, glabres ; pétiole 8 ‒ 15 mm ; limbe elliptique à étroitement elliptique ou parfois elliptique-ové ou elliptique-obové, 8 ‒ 18 × 3 ‒ 6,5 cm, cunéé à atténué à la base, acuminé à caudé au sommet, peu coriace ; nervure médiane sillonnée dessus, proéminente et arrondie dessous, nervures latérales nombreuses , les intermédiaires s’arrêtant bien avant la nervure marginale, réticulation peu distincte, canaux sécréteurs noirs nombreux, subparallèles à la nervure médiane, les translucides nombreux, parallèles aux nervures latérales mais indistincts. Inflorescences courtes, axillaires ou sur les ramilles, pauciflores ou avec parfois jusqu’à 15 fleurs. Fleurs unisexuées, tétramères , glabres ; pédicelle 7 ‒ 18 mm ; sépales internes plus larges que les externes, 4 ‒ 6 mm de longueur ; pétales elliptique-ovales à largement elliptiques, 5 ‒ 8 mm de longueur, blanc jaunâtre à jaunes. Fleur mâle : phalanges staminales étroites , 2 ‒ 6 mm de longueur, anthères 7 ‒ 16 par phalange, sessiles , oblongues, 0,5 mm de longueur, non locellées . Fleur femelle : ovaire plus ou moins quadrangulaire, environ 2 ‒ 2,5 × 2 ‒ 3 mm ; stigmate sessile, 4-lobée. Fruit subglobuleux, 1,5 ‒ 2,5 cm de diamètre, vert foncé, lisse. Graines réniformes, 12 ‒ 13 × 6 ‒ 7 mm.
+Dioecious tree, up to 25 m tall; trunk up to 20 cm in diameter; latex yellow; branchlets rounded. Leaves opposite, glabrous; petiole 8–15 mm; blade elliptic to narrowly elliptic or sometimes elliptic-ovate or elliptic-obovate, 8–18 × 3–6.5 cm, cuneate to attenuate at base, acuminate to caudate at apex, slightly coriaceous; midvein grooved above, prominent and rounded below, lateral veins numerous, intermediate ones ending well before the marginal vein, reticulation indistinct, numerous black secretory canals subparallel to the midvein, numerous translucent ones parallel to the lateral veins but indistinct. Inflorescences short, axillary or on branchlets, pauciflorous or sometimes with up to 15 flowers. Flowers unisexual, tetramerous, glabrous; pedicel 7–18 mm; inner sepals wider than outer ones, 4–6 mm long; petals elliptic-ovate to broadly elliptic, 5–8 mm long, whitish-yellow to yellow. Male flower: staminal phalanges narrow, 2–6 mm long, anthers 7–16 per phalange, sessile, oblong, 0.5 mm long, not locellate. Female flower: ovary more or less quadrangular, approximately 2–2.5 × 2–3 mm; stigma sessile, 4-lobed. Fruit subglobose, 1.5–2.5 cm in diameter, dark green, smooth. Seeds reniform, 12–13 × 6–7 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée Équatoriale et Gabon ; au Gabon, absente des zones côtières, connue du Haut-Ogooué, de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Cameroon, Equatorial Guinea and Gabon; in Gabon, absent from coastal zones, known from Haut-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, forêt saxicole sur inselbergs, bords des rivières ; au Gabon, jusqu’à 575 m d’altitude, ailleurs jusqu’à 700 m. Usage : L’écorce amère est mise dans le vin de palme pour le rendre enivrant et servirait à combattre la toux
+Primary forest, saxicolous forest on inselbergs, river banks; in Gabon, up to 575 m altitude, elsewhere up to 700 m. Uses: The bitter bark is put into palm wine to make it intoxicating and is said to be used to treat cough
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ gimana-mamba (éshira, bavarama, bavungu), musyègiri (bavili), nobanga (apindji
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B : Bamps (1970b), Engler (1908), Pellegrin (1959), Raponda-Walker & i B liographie Sillans (1961).
+B: Bamps (1970b), Engler (1908), Pellegrin (1959), Raponda-Walker & Sillans (1961).
 
 ## Notes
 

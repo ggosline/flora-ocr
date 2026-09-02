@@ -25,9 +25,9 @@ tags: [species, not-in-gabon]
 
 ## Full treatment
 
-1.Diospyros abyssinica (Hiern） F. White
+1.Diospyros abyssinica (Hiern) F. White
 
-Bull.Jard.Bot.Brux.26:239,240,24I et 294,tab.76,F-L et 77,C D et 80 (1956); FWTA ed. 2,2 :10 (1963);Nigerian Trees 2 : 337 (1964). -Maba abyssinica HiERN，Monogr.Eben.,Trans.Camb．Phil. Soc.12：132(1873)；FTA3:516(1877).—JAEGER,Ic.PI. Afric.6:143 et tab.(1964). - Ebenus abyssinica (HIERN) O.KuNTzE,Rev. Gen. Pl. 2: 4o8 (1891). - Maba Mualala WELw.ex HIERN,loc.cit. :III (1873)； loc.cit. :515 (1877). —Diospyros Welwitschii HIERN, Cat. Welw.Afr. Pl.3: 653 (1898). -Diospyros ubanghensis A. CHEv.，Sudania 1:I9I (19II） (Chevalier no 11029),nom.nud. Maba ubanghensis A. CHEv., Et.Fl.Afr.centr.fr.1:184 (1913)(Chevalier no 11029),nom nud. - Maba Warneckei GURkE, Bot. Jahrb.46 : 151 (1911). - Diospyros piscatoria auct. non GüRkE : A. CHEv.， Expl. bot. Afr.occ. fr.1: 397 (1920). Diospyros ferrea auct. non (WILLD.） BAkHuizEN,Bull Jard. bot. Buiten., ser.3,15:376 (1941),p.p.,quoad syn.Maba Mualala tantum.
+Bull.Jard.Bot.Brux.26:239,240,24I et 294,tab.76,F-L et 77,C D et 80 (1956); FWTA ed. 2,2 :10 (1963);Nigerian Trees 2 : 337 (1964). -Maba abyssinica HiERN,Monogr.Eben.,Trans.Camb.Phil. Soc.12:132(1873);FTA3:516(1877).—JAEGER,Ic.PI. Afric.6:143 et tab.(1964). - Ebenus abyssinica (HIERN) O.KuNTzE,Rev. Gen. Pl. 2: 4o8 (1891). - Maba Mualala WELw.ex HIERN,loc.cit. :III (1873); loc.cit. :515 (1877). —Diospyros Welwitschii HIERN, Cat. Welw.Afr. Pl.3: 653 (1898). -Diospyros ubanghensis A. CHEv.,Sudania 1:I9I (19II) (Chevalier no 11029),nom.nud. Maba ubanghensis A. CHEv., Et.Fl.Afr.centr.fr.1:184 (1913)(Chevalier no 11029),nom nud. - Maba Warneckei GURkE, Bot. Jahrb.46 : 151 (1911). - Diospyros piscatoria auct. non GüRkE : A. CHEv., Expl. bot. Afr.occ. fr.1: 397 (1920). Diospyros ferrea auct. non (WILLD.) BAkHuizEN,Bull Jard. bot. Buiten., ser.3,15:376 (1941),p.p.,quoad syn.Maba Mualala tantum.
 
 Shrub or small tree reaching 40 cm in diameter, with erect stem bearing a few small basal flanges; rhytidome very dark brown-purple, fissured both vertically and horizontally, thus forming small rectangular scales about 2 cm high and 1 cm wide; bark section with a dark brown outer band, then a dirty orange fibrous layer, then a bright orange layer adjacent to the white sapwood.
 
@@ -45,7 +45,7 @@ It is worth noting that *D. abyssinica*, though morphologically close to *D. pis
 
 ### Material studied in Cameroon
 
-Letouzey 2981，mont Sangembam entre Letta et Viali，4o km N Bertoua (ster.).
+Letouzey 2981,mont Sangembam entre Letta et Viali,4o km N Bertoua (ster.).
 
 The sterile Paris specimen Letouzey 5070, collected 20 km south of Mboy I, 45 km east of Yokadouma, almost certainly also belongs here. It is a small tree called "Djama" in Bibaya Pygmy usage, reaching 40-50 cm in diameter, with hard pale-yellow wood containing a few black patches at the center; it is very abundant in the semi-deciduous humid dense forest with Sterculiaceae and Ulmaceae east and southeast of Yokadouma.
 

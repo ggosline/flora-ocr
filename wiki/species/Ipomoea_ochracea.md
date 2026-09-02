@@ -17,33 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ; tiges grêles, filiformes, prostrées ou volubiles, glabres ou à quelques poils épars . Feuille glabre ; pétiole ± cylindrique, canaliculé dessus, 1,5–5 cm ; limbe entier , ovale, 4–9 × 2–6 cm, profondément cordé à la base, aigu à légèrement acuminé et mucroné au sommet, à ± 5 paires de nervures latérales. Inflorescence en cyme pluriflore ; pédoncule cylindrique, 1–4 cm ; bractées et bractéoles subtriangulaires, 1–2 mm de longueur, à longs poils blancs. Fleur : pédicelle 15–25 mm, glabre ; sépales subégaux , ovales à obovales, 3–4 mm de longueur, à marge ± hyaline et surtout les externes, à longs poils blancs épars ; corolle infundibuliforme, ± 2,5–3 cm de longueur, jaune, glabre ; étamines incluses, ± 10 mm de longueur, glabres ; pistil inclus. Fruit ovoïde, ± 7–8 mm de longueur, glabre, souvent surmonté de la partie basale du style, à 4 graines glabres .
+Perennial herb; stems slender, filiform, prostrate or twining, glabrous or with scattered hairs. Leaf glabrous; petiole ± cylindrical, channelled above, 1.5–5 cm; blade entire, ovate, 4–9 × 2–6 cm, deeply cordate at the base, acute to slightly acuminate and mucronate at the apex, with ± 5 pairs of lateral nerves. Inflorescence a pluriflorous cyme; peduncle cylindrical, 1–4 cm; bracts and bracteoles subtriangular, 1–2 mm long, with long white hairs. Flower: pedicel 15–25 mm, glabrous; sepals subequal, ovate to obovate, 3–4 mm long, with ± hyaline margin especially the outer ones, with long scattered white hairs; corolla infundibuliform, ± 2.5–3 cm long, yellow, glabrous; stamens included, ± 10 mm long, glabrous; pistil included. Fruit ovoid, ± 7–8 mm long, glabrous, often surmounted by the basal part of the style, with 4 glabrous seeds.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+whole tropical Africa, Madagascar excluded, tropical America and New Caledonia; in Gabon, collected only once in the Ogooué-Lolo
 
-toute l’Afrique tropicale, Madagascar exclus, Amérique tropicale et Nou velle-Calédonie ; au Gabon, récoltée une seule fois dans l’Ogooué-Lolo
-
-circumtropicale ; au Gabon, connue de l’Estuaire et de l’Ogooué-Maritime
+circumtropical; in Gabon, known from Estuaire and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+clear forests, savannas, fallows; in Gabon, at 0–500 m altitude, elsewhere, at 1650 m. Taxonomic note: After fertilization, the pedicels curve, thus making the young fruits pendulous. B: Gonçalves (1987), Heine (1963), Lejoly & Lisowski (1992). Bibliography Ipomoea pes-caprae (L.) R.Br. subsp. brasiliensis (L.) Ooststr. Plate 19 Blumea 3 : 533 (1940). Convolvulus brasiliensis L., Sp. pl. 1 : 159 (1753). Perennial herb, glabrous, woody at base; stems creeping, rooting at the nodes, with white latex, reaching 30 m in length. Leaves erect, glabrous; petiole 1.5–6(–16) cm; blade suborbicular to ovate or ± square, 3–9 × 3–9 cm, rounded to truncate at the base, emarginate to bilobed or truncate or rarely rounded at the apex, succulent to coriaceous, with entire margin, with 8–10 pairs of lateral nerves, the base of the midvein bearing two glands beneath. Inflorescence in uni- to pauciflorous cymes, glabrous; peduncle (2–)3–7(–14) cm; bracts and bracteoles narrowly triangular, 3–4(–5) mm long. Flower: pedicel 1.5–5 cm; sepals glabrous, mucronulate, the outer ones ovate to elliptic, 5–8 mm long, obscurely 3-nerved, the inner ones broader, 7–11 mm long; corolla infundibuliform, 3–6 cm long, rose-mauve, darker inside towards the base, glabrous; stamens included, filaments unequal, 5–9 mm long, pilose at the base; pistil included, ovary glabrous, 4-ovulate; style ± 12 mm, glabrous. Fruit globose, up to 2 cm in diameter, glabrous, 4-seeded, opening by 4 valves. Seeds ellipsoid, ± trigonous, about 1 cm long, dark brown, with brownish tomentum
 
-forêts claires, savanes, jachères ; au Gabon, à 0–500 m d’altitude, ailleurs, à 1650 m. Note taxonomique : Après fécondation, les pédicelles se courbent, rendant ainsi les jeunes fruits pendants. B : Gonçalves (1987), Heine (1963), Lejoly & Lisowski (1992). ibliographie Ipomoea pes-caprae (L.) R.Br. subsp. brasiliensis (L.) Ooststr. Planche 19 Blumea 3 : 533 (1940). Convolvulus brasiliensis L., Sp. pl. 1 : 159 (1753). Herbe vivace, glabre, à base ligneuse ; tiges rampantes, radicantes aux nœuds, à latex blanc, atteignant 30 m de longueur. Feuilles dressées, glabres ; pétiole 1,5–6(–16) cm ; limbe suborbiculaire à ové ou ± carré, 3–9 × 3–9 cm, arrondi à tronqué à la base, émarginé à bilobé ou tronqué ou rarement arrondi au sommet, succulent à coriace, à bord entier , à 8–10 paires de nervures latérales, la base de la nervure médiane portant dessous deux glandes . Inflorescence en cymes uni- à pauciflores, glabre ; pédon cule (2–)3–7(–14) cm ; bractées et bractéoles étroitement triangulaires, 3–4(–5) mm de longueur. Fleur : pédicelle 1,5–5 cm ; sépales glabres, mucronulés, les externes ovales à elliptiques, 5–8 mm de longueur, obscurément 3-nervés, les internes plus larges, 7–11 mm de longueur ; corolle infundibuliforme, 3–6 cm de longueur, rose-mauve, plus foncée à l’intérieur vers la base , glabre ; étamines inclus, filets inégaux, 5–9 mm de longueur, velus à la base ; pistil inclus, ovaire glabre, 4-ovulés; style ± 12 mm, glabre. Fruit globuleux, jusqu’à 2 cm de diamètre, glabre, 4-sperme , s’ouvrant par 4 valves. Graines ellipsoïdes, ± trigones, environ 1 cm de longueur, brun noirâtre, à tomentum brunâtre
+Scientists of the Muséum national d'Histoire naturelle, Paris (©) based on Deroin (2001).
 
-Scientifiques du Muséum national d’Histoire naturelle, Paris (©) à partir de Deroin (2001).
-
-pionnière sur les plages maritimes sableuses; plus rarement au bord des lacs et des routes ; au Gabon, à basse altitude, ailleurs, jusqu’à 1200 m
+pioneer on sandy maritime beaches; more rarely on the shores of lakes and roads; in Gabon, at low altitude, elsewhere, up to 1200 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les enfants s’en servent pour sauter ou tirer à la corde. Les feuilles seraient purgatives
+Children use it for jumping rope or tug-of-war. The leaves are said to be purgative
 
 ## Vernacular names
 

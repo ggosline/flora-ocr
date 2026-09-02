@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum andongense Rchb. f., Flora 48: 184 (1865).
 
-– Bulbophyllum vitiense Rolfe, Kew Bull. 79 : 5 (1893).
+– Bulbophyllum vitiense Rolfe, Kew Bull. 79: 5 (1893).
 
-– Bulbophyllum brevidenticulatum De Wild., Bull. J. Bot. Brux. 5 : 179 (1916).
+– Bulbophyllum brevidenticulatum De Wild., Bull. J. Bot. Brux. 5: 179 (1916).
 
-Pseudobulbes 2-5 × 1-2,7 cm, ovoïdes à étroitement ovoïdes, 1-foliés. Feuille pétiolée, 9-27 × 1,2-3,5 cm, lancéolée, parfois largement linéaire, acuminée à aiguë. Inflorescence 9-38 cm, assez dense ou lâche, rachis glabre, 15-150-flore. Fleurs petites, blanches. Sépales glabres, souvent roses vers le sommet, étroitement triangulaires aigus ; sépale dorsal, parfois ové-linéaire à largement linéaire-lancéolé et subaigu ; sépales latéraux parfois largement linéaires-lancéolés et acuminés. Pétales étroitement oblongs à oblongs-obovés, obtus à aigus, irrégulièrement denticulés et sommet finement papilleux. Labelle glabre, blanc ou crémeux, récurvé, ové à oblong-ové, obtus, assez mince, avec épaississement basal et de courtes papilles près des marges. – Pl. 95, p. 191.
+Pseudobulbs 2–5 × 1–2.7 cm, ovoid to narrowly ovoid, 1-leaved. Leaf petiolate, 9–27 × 1.2–3.5 cm, lanceolate, sometimes broadly linear, acuminate to acute. Inflorescence 9–38 cm, rather dense or lax, rachis glabrous, 15–150-flowered. Flowers small, white. Sepals glabrous, often pink toward the apex, narrowly triangular acute; dorsal sepal, sometimes ovate-linear to broadly linear-lanceolate and subacute; lateral sepals sometimes broadly linear-lanceolate and acuminate. Petals narrowly oblong to oblong-obovate, obtuse to acute, irregularly denticulate and finely papillose at the apex. Lip glabrous, white or creamy, recurved, ovate to oblong-ovate, obtuse, rather thin, with basal thickening and short papillae near the margins. – Pl. 95, p. 191.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Gabon, Angola, Congo (Kinshasa), Ouganda
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Gabon, Angola, Congo (Kinshasa), Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–2000 m. Epiphyte on tree branch; lowland to submontane forest; primary forest periodically flooded by Gilbertiodendron
 
-alt. 0-2000 m. Épiphyte sur branche d'arbre ; forêt planitaire à submontagnarde ; forêt primaire périodiquement inondée à Gilbertiodendron
+MATERIAL STUDIED (Map 36):
 
-MATÉRIEL ÉTUDIÉ (Carte 36) :
+de Wilde & Jongkind 9650, Doudou Mountains, km 70 Doussala to Bongo trail, epiphyte at the crown of trees felled for trail construction (fl., March), WAG!, LBV;
 
-de Wilde & Jongkind 9650, Monts Doudou, km 70 piste de Doussala à Bongo, épiphyte à la couronne des arbres abattus pour la construction d’une piste (fl., Mars), WAG!, LBV ;
+Hallé 2159, Abanga, C.E.F.A. Site (fl., June), P!;
 
-Hallé 2159, Abanga, Chantier C.E.F.A. (fl., Juin), P! ;
-
-Wieringa 580, Woleu-Ntem, distr. Minkébé, vallée de la Nsyé, 1° 30' N, 12° 48' E (fl., Fév.), WAG!, LBV.
+Wieringa 580, Woleu-Ntem, Minkébé dist., Nsyé valley, 1° 30' N, 12° 48' E (fl., Feb.), WAG!, LBV.
 
 ## Figures
 

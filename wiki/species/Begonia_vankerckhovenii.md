@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 31 Bull. Jard. Bot. État (Brux.) 5 : 52 (1915). Plante atteignant 7(–11) cm de hauteur. Feuille peltée ou subpeltée ; pétiole de 0,5–8(–11) cm, muni d’un indument laineux ou feutré, à poils bouclés ; limbe étalé sur le frais, non bullé, asymétrique, largement ovale à largement elliptique ou presque circulaire à ovale ou elliptique, 1–6 × 0,5–4 cm, sommet obtus à aigu, marge éparsement denticulée, dentée à presque entière, face supérieure parfois éparsement munie des poils longs. Inflorescence : pédoncule jusqu’à 6(–9,5) cm, avec 1–2(–3) fleurs ♂ et 1 fleur ♀ à tépales jaunes à orange ou saumon ; bractées 0,5–3,5 mm de longueur. Fleur ♂ : tépales 4,5–18 × 4–17 mm ; androcée à 10–16 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 2,5 mm ; tépales 4–12 × 3,5–18 mm ; ovaire (ailes incluses) largement ovoïde à largement obovoïde ou transversalement largement ellipsoïde , 3–10,5 × (2–)3–8,5 mm, non ou éparsement pileux, à 3–4 ailes largement obtriangulaires à obovales, 0,5–4 mm de largeur ; styles 3–4. Fruit largement obovoïde à largement obtriangulaire-obovoïde , 4,5–7,5 × (2,5–)3–9 mm ; rostre jusqu’à 1,5 mm.
+Plate 31 Bull. Jard. Bot. État (Brux.) 5 : 52 (1915). Plant reaching 7(–11) cm in height. Leaf peltate or subpeltate; petiole 0.5–8(–11) cm, bearing woolly or felted indumentum, with curled hairs; lamina spreading when fresh, not bullate, asymmetric, broadly ovate to broadly elliptic or almost circular to ovate or elliptic, 1–6 × 0.5–4 cm, apex obtuse to acute, margin sparsely denticulate, toothed to almost entire, upper surface sometimes sparsely bearing long hairs. Inflorescence: peduncle up to 6(–9.5) cm, with 1–2(–3) ♂ flowers and 1 ♀ flower with yellow to orange or salmon tepals; bracts 0.5–3.5 mm in length. ♂ Flower: tepals 4.5–18 × 4–17 mm; androecium with 10–16 stamens. ♀ Flower: pedicel elongating in fruit up to 2.5 mm; tepals 4–12 × 3.5–18 mm; ovary (wings included) broadly ovoid to broadly obovoid or transversely broadly ellipsoid, 3–10.5 × (2–)3–8.5 mm, glabrous to sparsely pilose, with 3–4 broadly obtriangular to obovate wings, 0.5–4 mm in width; styles 3–4. Fruit broadly obovoid to broadly obtriangular-obovoid, 4.5–7.5 × (2.5–)3–9 mm; rostrum up to 1.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce rare connue du Gabon et de la République Démocratique du Congo ; au Gabon limitée aux Monts Doudou, Monts de Cristal et collines de Bélinga
+rare species known from Gabon and the Democratic Republic of the Congo; in Gabon limited to the Doudou Mountains, Cristal Mountains and Bélinga hills
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+on humid and mossy rocky walls, in primary forest; 500–900 m altitude. B: Sosef (1994), Wilczek (1969a). BIBLIOGRAPHY
 
-sur parois rocheuses humides et moussues, dans la forêt primaire ; 500–900 m d’altitude. B : Sosef (1994), Wilczek (1969a). IBLIOGRAPHIE
-
-IL ESSEL nal des Pays-Bas – Wageningen branche.
+National Herbarium of the Netherlands – Wageningen branch.
 
 ## Notes
 

@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.50-2 m tall, with horizontal branches finely pubescent. Stipules 11-25 × 4-11 mm, pubescent. Petiole pubescent, 3-10 mm long. Blade glabrous or somewhat pubescent above, 7-19 × 2-8 cm, base ± briefly acute, apex acuminate-acute. Midvein generally pubescent above. 5-8 pairs of secondary veins pubescent at least below.
 
-Arbrisseau de 0,50-2 m de hauteur, à rameaux horizontaux finement pubescents. Stipules de 11-25 × 4-11 mm, pubescentes. Pétiole pubescent de 3-10 mm de longueur. Limbe glabre ou un peu pubescent dessus, de 7-19 × 2-8 cm, à base ± brièvement aiguë, à sommet acuminé aigu. Nervure médiane généralement pubescente dessus. 5-8 paires de nervures secondaires pubescentes au moins dessous.
+Inflorescences pendulous, 8-25 cm long of which 3-13 cm is peduncle. Rachis finely pubescent ± bent. Bracts subulate, 3-8 mm. Lateral cymes ± unequally arranged and bearing 6-14 flowers; the peduncle of the cyme measures 3-11 mm and the two floriferous arms reach 1-4 cm long. Bud 9-13 mm long, apex attenuate-acuminate. Flowers sessile, white. Calyx pubescent with teeth ca. 0.3 mm tall. Corolla glabrous on the lower part of the tube, the upper part finely puberulent or pubescent; the throat not exceeding 1.5 mm wide. Internal pubescence fairly dense at the level of the anther tips, sparse and arranged in vertical lines between them.
 
-Inflorescences pendantes longues de 8-25 cm dont 3-13 cm de pédoncule. Rachis finement pubescent ± coudé. Bractées subulées de 3-8 mm. Cymes latérales ± inégalement disposées et portant 6-14 fleurs; le pédoncule de la cyme mesure 3-11 mm et les deux bras florifères atteignent 1-4 cm de long. Bouton long de 9-13 mm, à sommet atténué acuminé. Fleurs sessiles blanches. Calice pubescent à dents d'env. o,3 mm de hauteur. Corolle glabre sur la partie inférieure du tube, la partie supérieure étant finement pubérulente ou pubescente; la gorge ne dépasse pas 1,5 mm de largeur. Pubescence interne assez dense au niveau des extrémités des anthères, maigre et disposée en lignes verticales entre celles-ci.
+Anthers ca. 3 mm, sagittate and rather long-acuminate. Disc equal or slightly exceeding the calyx rim, apex funnel-shaped.
 
-Anthères d'env. 3 mm, sagittées et assez longuement acuminées. Disque égal ou un peu supérieur au rebord du calice, à sommet en entonnoir.
-
-Fruit bleu ou violet de (5) 9-12 mm de diam.; graines brûnâtres de 1 mm; 14 graines dans un fruit de petite dimension.
+Fruit blue or violet, (5) 9-12 mm diam.; seeds brownish, 1 mm; 14 seeds in a small fruit.
 
 ## Type
 
@@ -33,9 +31,7 @@ Bates 222! (BM, K), Efulen, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo (Niari), Cabinda.
+Cameroon, Gabon, Congo (Niari), Cabinda.
 
 ## Specimens examined
 

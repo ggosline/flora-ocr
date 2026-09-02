@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Neurotheca longidens N.E.Br. in Thiselton-Dyer, Fl. Trop. Afr. 4(1) : 560 (1903). Neurotheca densa De Wild., Ann. Mus. Congo, Bot., sér. 5, 2 : 337 (1908). Herbe 5–100 cm de hauteur ; tige blanche à rougeâtre. Feuille : limbe elliptique à ovale, 2–35 × 1,3–15 mm, vert ou parfois violacé, base longuement atténuée, sommet obtus. Fleur : pédicelle 0–1(–3) mm ; calice 3–4,5 mm de longueur, vert, souvent violacé au sommet , à tube 1–2 mm de longueur, lobes étroitement triangulaires, 2–2,5 mm de longueur, membraneux et hyalins sur les bords ; corolle 4,5–7 mm de longueur, violacée à bleue ou blanche à rose, à tube de 3–5 mm de longueur, lobes triangulaires, 1,5–2 mm de longueur ; étamines : filet 0,5–4 mm, anthère 0,5–0,6 mm de longueur ; ovaire ellipsoïde-oblongoïde ; style 1,5–3 mm. Fruit 3–5 mm de longueur. Graine 0,40–0,45 × 0,35–0,45 mm.
+Neurotheca longidens N.E.Br. in Thiselton-Dyer, Fl. Trop. Afr. 4(1) : 560 (1903). Neurotheca densa De Wild., Ann. Mus. Congo, Bot., sér. 5, 2 : 337 (1908). Herb 5–100 cm tall; stem white to reddish. Leaf: blade elliptic to ovate, 2–35 × 1.3–15 mm, green or sometimes purplish, base long-attenuate, apex obtuse. Flower: pedicel 0–1(–3) mm; calyx 3–4.5 mm long, green, often purplish at apex, with tube 1–2 mm long, lobes narrowly triangular, 2–2.5 mm long, membranous and hyaline on the margins; corolla 4.5–7 mm long, purplish to blue or white to pink, with tube 3–5 mm long, lobes triangular, 1.5–2 mm long; stamens: filament 0.5–4 mm, anther 0.5–0.6 mm long; ovary ellipsoid-oblong; style 1.5–3 mm. Fruit 3–5 mm long. Seed 0.40–0.45 × 0.35–0.45 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Gabon, République du Congo, République centrafricaine, République démocratique du Congo, Ouganda et Tanzanie ; au Gabon, seulement connu de l’Ogooué-Ivindo et de l’OgoouéMaritime
+Nigeria, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Uganda and Tanzania; in Gabon, known only from Ogooué-Ivindo and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+humid sandy savannas, river banks and ruderal stations; in Gabon between 0 and 900 m altitude, elsewhere up to 1200 m. B: Boutique (1972), Paiva & Nogueira (1990), Raynal (1968), Sileshi (2002), Vande weghe Bibliography et al. (2007, 2016)
 
-savanes sableuses humides, berges de rivières et des stations rudérales ; au Gabon entre 0 et 900 m d’altitude, ailleurs jusqu’à 1200 m. B : Boutique (1972), Paiva & Nogueira (1990), Raynal (1968), Sileshi (2002), Vande weghe i B liographie et al. (2007, 2016)
+Bosser 2078). Drawing by J. Klackenberg (©), reproduced with permission from Klackenberg (1990).
 
-Bosser 2078 ). Dessin par J. Klackenberg (©), reproduit avec permission à partir de Klackenberg (1990).
-
-Partie de la corolle avec étamines (× 10). – 5. Étamine, vue de dos (× 30). – 6. Idem, vue de profil (× 30). – 7. Gynécée (× 10). – 8. Stigmate (× 30). – 9. Calice fructifère (× 10). – 10. Valve de la capsule après déhiscence (× 10). (1, 3-8 : Hallé 3837 ; 2 : Descoings 9819 ; 9, 10 : J. Léonard 283 ). Dessin par A. Raynal, Muséum national d’Histoire naturelle, Paris (©), reproduit avec permission à partir de Raynal (1968).
+Part of the corolla with stamens (× 10). – 5. Stamen, dorsal view (× 30). – 6. Same, lateral view (× 30). – 7. Gynoecium (× 10). – 8. Stigma (× 30). – 9. Fruiting calyx (× 10). – 10. Capsule valve after dehiscence (× 10). (1, 3-8: Hallé 3837; 2: Descoings 9819; 9, 10: J. Léonard 283). Drawing by A. Raynal, Muséum national d'Histoire naturelle, Paris (©), reproduced with permission from Raynal (1968).
 
 ## Notes
 

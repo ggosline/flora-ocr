@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Sarccephalus Pobeguini Hua in Pobeguin, Ess. Fl. Guin.: 313 (1906), nomen. — Pellegrin, Les Bois d'or d'Afr. Occ., Bull. S.B.Fr.: 222 (1932).
 
-Arbre de 4-25 m de hauteur et de 8-60 (80) cm de diam., à fût cylindrique et sans contreforts. Ecorce grise ou blanchâtre, crevassée en long; aubier mince, jaune pâle; bois jaune un peu lavé de rose. Les caractères de l'appareil végétatif sont, en herbier, très voisins de ceux de N. latifolia. On peut noter les différences suivantes d'après les spécimens d'Afrique occidentale : stipules un peu plus obtuses au sommet. Pétiole long de 18-35 mm. Limbe plus roux et un peu moins discolore à sec. Nervures souvent plus glabres en dessous du limbe.
+Tree 4–25 m tall and 8–60 (80) cm in diameter, with cylindrical bole and no buttresses. Bark grey or whitish, longitudinally fissured; sapwood thin, pale yellow; wood yellow somewhat tinged with rose. The characters of the vegetative apparatus are, in the herbarium, very similar to those of N. latifolia. The following differences may be noted based on specimens from West Africa: stipules somewhat more obtuse at the apex. Petiole 18–35 mm long. Lamina more rufous and somewhat less discolorous when dry. Veins often more glabrous below the lamina.
 
-Inflorescence assez semblable à celle du N. latifolia, mais avec les sépales essentiellement différents : ils sont allongés et lobés, un peu claviformes, persistants et densément pubescents. La pubescence interne de la corolle est ici plus abondante entre les étamines, elle apparaît sur la base des lobes dans les fleurs épanouies.
+Inflorescence fairly similar to that of N. latifolia, but with essentially different sepals: they are elongate and lobed, somewhat claviform, persistent and densely pubescent. The internal pubescence of the corolla is here more abundant between the stamens; it appears on the base of the lobes in open flowers.
 
-Infrutescence de 8-9 cm de diam. présentant un très caractéristique revêtement d'ense de sépales charnus et pubescents, d'aspect finement spongieux; les alvéoles florales sont masquées par ce revêtement. Les graines sont comprimées étroitement entre elles en séries rayonnantes; elles sont rousses, ⊥ atténuées aux extrémités, longues de 1,5 à 2 mm, marginées et ornées d'un réseau étiré; fond des cellules légumentaires orné de plus d'une douzaine de perforations.
+Infructescence 8–9 cm in diameter, presenting a very characteristic covering of fleshy and pubescent sepals with finely spongy appearance; the floral alveoles are masked by this covering. The seeds are compressed closely together in radiating series; they are rufous, attenuate at the extremities, 1.5 to 2 mm long, marginate and ornamented with an elongate network; base of the seed coat cells ornamented with more than a dozen perforations.
 
-Type de l'espèce : Pobéguin 433, Kouroussa, Guinée française (P).
+Type of the species: Pobéguin 433, Kouroussa, French Guinea (P).
 
-Le N. Pobeguini est un arbre caducifolié ripicole et paludicole; à la saison des crues les fûts se dressent isolément au-
+N. Pobeguini is a deciduous riparian and swamp tree; during the flood season the boles stand isolated above the water surface. More rarely bushy flowering trees 4–6 m tall are encountered. Species widespread from Senegal to East Africa. It is easily recognized from N. xanthoxylon, which has the same habitat, by its short stipules, never developed and foliaceous.
 
-dessus de la nappe d'eau. Plus rarement on rencontre des pieds florifères buissonnants de 4-6 m de haut. Espèce répandue depuis le Sénégal jusqu'à l'Afrique orientale. On la reconnaît facilement du N. xanthoxylon, dont l'habitat est le même, par ses stipules courtes, jamais développées et foliacées.
+Of smaller stature than Bilinga, this species has lighter wood and is not commercialized. It is nevertheless usable in carpentry and works well. The fruit (syncarp), with yellowish-white pulp and apple-scented, is very poorly edible.
 
-De moins belle taille que le Bilinga, cette espèce a un bois plus léger et n'est pas commercialisée. Elle est cependant utilisable en menuiserie et se travaille bien. Le fruit (syncarpe), à pulpe blanc jaunâtre, à odeur de pomme, est très médiocrement comestible.
-
-Noms : Sibo (nom commercial originaire de Côte-d'Ivoire); Alom-otü, Inetoma, Ntoma (Fang); Bodjie-burumbi (Bapunu); Kombé-nongo (Mitsogho). Voir aussi Walker et Sillans, Pl. Ut. du Gabon : 375 (1961).
+Names: Sibo (commercial name originating from Côte-d'Ivoire); Alom-otü, Inetoma, Ntoma (Fang); Bodjie-burumbi (Bapunu); Kombé-nongo (Mitsogho). See also Walker and Sillans, Pl. Ut. du Gabon: 375 (1961).
 
 ## Specimens examined
 

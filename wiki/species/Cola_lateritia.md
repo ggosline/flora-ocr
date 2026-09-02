@@ -17,27 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , rét. orig., et Sterc. Afr. : 131, t. 15 R. (1900). — F.W.T.A. 2° ed. I : 330 (1958). — F.F.C.I. 2° ed. II : 288 (1959).
 
-Arbre atteignant 30 m de haut, à fût droit, à écorce épaisse gris-blanchâtre. Un mucilage suinte des entailles faites à l'écorce. Jeunes extrémités noircissantes à sec, ornées de poils stellés dorés peu denses. Stipules triangulaires pubescentes, caduques, laissant une cicatrice oblique sur le rameau. Pétiole de 4-25 cm de long, médiocèrement vêtue de petites écailles stellées, puis glabrescent. Très jeune limbe portant des deux côtés des poils stellés épars.
+Tree reaching 30 m tall, with a straight bole and thick greyish-white bark. Mucilage exudes from incisions made in the bark. Young twigs darkening when dry, adorned with sparse golden stellate hairs. Triangular pubescent stipules, caducous, leaving an oblique scar on the twig. Petiole 4-25 cm long, moderately clothed with small stellate scales, then glabrescent. Very young leaf blade bearing sparse stellate hairs on both sides.
 
-Limbe adulte entièrement glabre, devenant roussâtre à sec, de 10-30 cm de long sur 8-28 cm de large; base large et cordée, sommet assez médiocrement aigu, parfois trilobé; 7-9 nervures basiliaires palmées et 4-7 paires pennées non basiliaires le long de la médiane; nervures intersecondaires disposées assez irrégulièrement.
+Adult leaf blade entirely glabrous, becoming reddish-brown when dry, 10-30 cm long by 8-28 cm wide; base broad and cordate, apex moderately acute, sometimes trilobed; 7-9 basal palmate nerves and 4-7 non-basal pinnate pairs along the midvein; intersecondary nerves arranged rather irregularly.
 
-Inflorescence en grappes axillaires lâches, rameuses à partir de la base, ou en faisceaux de grappes axillaires, à pubescence médiocrement dense ou très éparse, formée de petits poils dorés stellés appliqués. Bractéoles lancéolées caduques de 3-4 mm de long. Pédicelles variables de 3 à 15 mm de long, souvent grêles, articulés un peu au-dessus de leur milieu. Bouton ové ou oblong, même lorsqu'il est jeune.
+Inflorescence in loose axillary racemes, branched from the base, or in fascicles of axillary racemes, with moderately dense or very sparse pubescence, formed of small appressed golden stellate hairs. Caducous lanceolate bracteoles 3-4 mm long. Pedicels variable from 3 to 15 mm long, often slender, articulated slightly above their midpoint. Bud ovate or oblong, even when young.
 
-Fleur rose ou rouge à calice mince, profondément campanulé, de 7-15 mm de long, plus ou moins pubescent extérieurement, quasi glabre à l'intérieur, à 5 (6-7) lobes triangulaires un peu moins longs que le tube, à marges ornées d'un mince ourlet pubérulent. Fleur ♂ à androcée comportant deux couronnes superposées de 7-10 loges chacune, et supportées par une courte colonne dont la base est entourée de poils. Les fleurs ♀ ont une double couronne de petites loges polliniques à la base de l'ovaire, qui comporte 3-4 carpelles revêtus de petites écailles stellées. Lobes stigmatiques glabres, courbés extérieurement. 4-6 ovules par carpelle.
+Flower pink or red with thin calyx, deeply campanulate, 7-15 mm long, more or less pubescent externally, almost glabrous internally, with 5 (6-7) triangular lobes slightly shorter than the tube, with margins adorned with a thin puberulent rim. Male flower with an androecium comprising two superposed crowns of 7-10 locules each, and supported by a short column whose base is surrounded by hairs. Female flowers have a double crown of small pollinium locules at the base of the ovary, which comprises 3-4 carpels covered with small stellate scales. Stigmatic lobes glabrous, curved outward. 4-6 ovules per carpel.
 
-Fruits en follicules glabres, renflés et acuminés, indéhiscents, longs de 4,5-8 cm. Graines à large insertion placentaire, à 2 cotylédons charnus, glabres.
+Fruits in glabrous follicles, swollen and acuminate, indehiscent, 4.5-8 cm long. Seeds with broad placental insertion, with 2 fleshy glabrous cotyledons.
 
-Type de l'espèce : Zenker 1705, détruit à Berlin; cotype Z. 1705 (P.).
+Type of the species: Zenker 1705, destroyed in Berlin; cotype Z. 1705 (P.).
 
-Les inflorescences de l'espèce sont variables, plus ou moins vigoureuses, mais toujours abondamment ramifiées de façon grêle ce qui les distingue de celles des espèces voisines. La feuille est du même type que celle du Pterygota macrocarpa; elle s'en distingue par sa base moins profondément cordée, ses marges généralement plus convexes vers la base, ses nervures intersecon-
+The inflorescences of the species are variable, more or less vigorous, but always abundantly and thinly branched, which distinguishes them from those of neighbouring species. The leaf is of the same type as that of Pterygota macrocarpa; it differs from it by its base less deeply cordate, its margins generally more convex towards the base, its intersecondary nerves fewer and more irregular, and finally by the reddish-brown tint that the blade takes on after drying.
 
-daires moins nombreuses et plus irrégulières, enfin par la teinte roussâtre que prend le limbe après séchage.
-
-Ce Cola est répandu, compte tenu vers l'ouest de sa variété maclaudi (A. Chev.) Bren. et Keay, depuis le Fouta-Djalon jusqu'au bas Congo. Au Gabon, c'est un arbre commun de la strate moyenne des forêts humides.
+This Cola is distributed, accounting towards the west for its variety maclaudi (A. Chev.) Bren. et Keay, from the Fouta-Djalon to lower Congo. In Gabon, it is a common tree of the middle storey of humid forests.
 
 ## Vernacular names
 
@@ -47,9 +43,7 @@ Alonzork, Ehoubouré, Mendeneu (Fang); Gimouali (Eshira); Mvali-Kumbo (Bapounou)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. Le bois blanc rosé assez dense est employé pour la menuiserie. Mucilage comestible autour des graines dans le fruit mûr.
+Uses. The fairly dense pinkish-white wood is used for joinery. Edible mucilage surrounding the seeds in the mature fruit.
 
 ## Specimens examined
 

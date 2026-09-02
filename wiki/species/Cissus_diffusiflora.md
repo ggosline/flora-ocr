@@ -23,19 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing herbaceous plant with shoots reaching several meters in length. Stems cylindrical, 1-2 mm in diameter, loosely to densely pilose; internodes 3-5 mm long. Tendrils rare, very slender, glabrous or sparsely pilose, bifurcate; bracteoles deltoid, 0.5-1 mm long, glabrous. Stipules oblong with rounded apex, 2.5-6 mm long, 0.7-1.5 mm wide, thin, glabrous. Leaves simple, entire. Petiole subterete, broadly grooved adaxially, 0.5-1.2 mm in diameter, 3-15 mm or more long, densely pilose. Blade oblong or ovate, with rounded to truncate base, apex attenuate, long-acuminate; 5-15 cm long, 2-5 cm wide; margin with a few fine teeth; blade fairly densely pilose on both sides on very young leaves, adult leaves glabrous to weakly pilose on the nerves on the upper surface, on the lower surface with loose or almost no pubescence on the blade, more or less dense on the nerves; venation pinnate; texture generally thin.
 
-Plante herbacée grimpante, à rameaux atteignant plusieurs mètres de long. Tiges cylindriques, de 1-2 mm de diamètre, lâchement à densément pileuses; entrenœuds de 3-5 mm de long. Vrilles rares, très grêles, glabres ou éparsément pileuses, bifurquées; bractées deltoïdes, de 0,5-1 mm de long, glabres. Stipules oblongues à sommet arrondi, de 2,5-6 mm de long, de 0,7-1,5 mm de large, minces, glabres. Feuilles simples entières. Pétiole subcylindriques, largement creusé en gouttière sur le dessus, de 0,5-1,2 mm de diamètre, de 3-15 mm ou plus de long, densément pileux. Límbe oblong ou ovale, à base arrondie à tronquée, à sommet atténué longuement acuminé; de 5-15 cm de long, de 2-5 cm de large; marge présentant quelques dents fines; limbe assez densément pileux des deux côtés sur les très jeunes feuilles, les feuilles adultes glabres à faiblement pileuses sur les nervures à la face supérieure, à la face inférieure présentant une pilosité lâche ou presque nulie sur le limbe, plus ou moins dense sur les nervures; nervation pennée; texture généralement mince.
+Inflorescences very small, 1-2.5 cm long, in compound cymes of few-flowered umbelliform cymules. Peduncle thick, 1-1.5 to 10 mm long; main axis 3-10 mm long; all axes densely pilose; bracts and bracteoles more or less deltoid-acute, 0.3-1.5 mm long, glabrous. Flowers entirely glabrous, 2-3 mm long. Pedicel cylindric, slightly thickened below the calyx, 1.5-2.5 mm long. Calyx cupulate, approximately 1 mm high, fleshy. Corolla regularly conical, glabrous but finely papillose; petals deltoid. Stamens 1.5-2 mm long; anthers approximately 0.5 mm long, with connective very strongly thickened into a wedge. Ovary glabrous.
 
-Inflorescences très petites, de 1-2,5 cm de long, en cymes composées de cymules ombelliformes pauciflores. Pédoncule épais, de 1-1,5 jusqu'à 10 mm de long; axe principal de 3-10 mm de long; tous les axes densément pileux; bractées et bractéoles plus ou moins deltoïdes aiguës, de 0,3-1,5 mm de long, glabres. Fleurs entièrement glabres de 2-3 mm de long. Pédicelle cylindrique, un
+Berries globose, 6-8 mm long and wide, glabrous. Seed ovoid-reniform, approximately 6 mm long, 5 mm wide, 4 mm thick; rostrum thick and short; median ridge thick, prominent; testa with smooth surface.
 
-peu épaissi sous le calice, de 1,5-2,5 mm de long. Calice cupuliforme, d'environ 1 mm de haut, charnu. Corolle régulièrement conique, glabre mais finement papilleuse; pétales deltoïdes. Étamines de 1,5-2 mm de long; anthères d'environ 0,5 mm de long, à connectif très fortement épaissi en coin. Ovaire glabre.
+Type from Fernando Po: Mann 570 (K).
 
-Baies globuleuses, de 6-8 mm de long et de large, glabres. Graine ovoïde réniforme, d'environ 6 mm de long, 5 mm de large, 4 mm d'épaisseur; rostre épais et court; crête médiane épaisse saillante; test à surface lisse.
-
-Type de Fernando Po : Mann 570 (K).
-
-Liane grêle à inflorescences petites, reconnaissable par ses feuilles allongées. Dans les forêts humides, les galeries et les recrus forestiers. Espèce largement répandue en Afrique intertropicale, de la Sierra Leone à l'Uganda.
+Slender liane with small inflorescences, recognizable by its elongate leaves. In humid forests, forest galleries and forest regrowth areas. Species widely distributed in intertropical Africa, from Sierra Leone to Uganda.
 
 ## Specimens examined
 

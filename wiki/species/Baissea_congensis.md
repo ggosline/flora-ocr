@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Zygodia congensis Good, J. Bot. 67 (suppl. 2) : 89 (1929). Liane atteignant 35 m de hauteur ; rameaux densément et courtement tomenteux . Feuille : Spwlroh GH PP SXEHVFHQW HW PXQL GH FROOpWqUHV GHVVXV OLPEH REORQJ j HOOLSWLTXH GH 11–14 × 2,5–6 cm, arrondi à la base , acuminé au sommet, face supérieure de la médiane à FROOpWqUHVHWTXHOTXHVSRLOVjODEDVHQHUYXUHVVHFRQGDLUHVRXSDLUHVQHUYDWLRQWHUWLDLUH scalariforme ; domaties poilues. ,QÀRUHVFHQFH axillaire et parfois aussi terminale ; bractées aussi longues, mais plus larges que les lobes du calice , densément pubescentes à l’extérieur ; pédoncule de 0,3–2,5 cm. Fleur Spglfhoohgh±PPFDOLFHjOREHVHOOLSWLTXHV de 2–3 × 1–1,5 mm , s’élargissant à partir de la base, densément pubescents à l’extérieur, glabres à l’intérieur, ciliés, collétères minuscules ou absents ; corolle blanche et rougeâtre , à tube urcéolé, long de 4–5 mm, glabre à l’extérieur à l’exception de quelques taches de petits poils , glabre ou à touffes de poils vers la gorge à l’intérieur, à lobes de 2,5–6 × 1,5–2 mm, ciliés, poilus à l’extérieur et glabres à l’intérieur ; étamines insérées près de la base du tube, incluses, anthère longue de ± 2 mm ; ovaire glabre . Fruit : follicules longs d’au moins 80 cm.
+Zygodia congensis Good, J. Bot. 67 (suppl. 2) : 89 (1929). Liane reaching 35 m in height; branches densely and shortly tomentose. Leaf: petiole of 8 mm pubescent and bearing colleters above; limb oblong to elliptic, 11–14 × 2.5–6 cm, rounded at base, acuminate at apex, upper surface with colleters and a few hairs at the base of the midvein, secondary nerves paired, tertiary venation scalariform; domatia pilose. Inflorescence axillary and sometimes also terminal; bracts as long but wider than the calyx lobes, densely pubescent on the outside; peduncle 0.3–2.5 cm. Flower: pedicel 2–4 mm, calyx with elliptic lobes 2–3 × 1–1.5 mm, widening from the base, densely pubescent on the outside, glabrous on the inside, ciliate, minute colleters or absent; corolla white and reddish, with urcéolate tube, 4–5 mm long, glabrous on the outside except for a few patches of small hairs, glabrous or with tufts of hairs towards the throat on the inside, with lobes 2.5–6 × 1.5–2 mm, ciliate, hairy on the outside and glabrous on the inside; stamens inserted near the base of the tube, included, anther ± 2 mm long; ovary glabrous. Fruit: follicles at least 80 cm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et Angola (Cabinda) ; au Gabon : Ngounié et Nyanga. Écologie IRUrWSULPDLUHHWVHFRQGDLUHDX*DERQMXVTX¶jPG¶DOWLWXGH
+Gabon and Angola (Cabinda); in Gabon: Ngounié and Nyanga. Ecology: primary and secondary forest in Gabon up to 800 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la révision de van Dilst (1995), B. congensis était inclus dans B. campanulata (sous Zygodia congensis ). B : Jongkind & Lachenaud (2022). IBLIOGRAPHIE
+In van Dilst's revision (1995), B. congensis was included in B. campanulata (under Zygodia congensis). B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
 ## Notes
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige creuse. Feuilles à 3 folioles ; pétiole 4–13 cm, glabre, pétiolules (0,3–)0,8–1,5(–2) cm ; folioles ovées-elliptiques, (5–)8–10(–12) × (2,5–)4–6(–8) cm, cordées à obtuses à la base, acuminées à l’apex , la face supérieure glabre sauf la nervure principale, la face inférieure glabre à éparsement pileuse ; nervures latérales à 4–6 paires réparties le long la médiane . Fleurs : tépales 5–7 mm de longueur ; les externes 5-nervés, vertes, éparsement pileux-glanduleux sur les deux faces, la face intérieure pourvue à la base de soies, les internes 3-nervés, blancs ; filets des étamines pourvus d’appendices ampullacés de 1 – 1,5 mm. Fruit : inconnu.
+Hollow stem. Leaves with 3 leaflets; petiole 4–13 cm, glabrous, petiolules (0.3–)0.8–1.5(–2) cm; leaflets ovate-elliptic, (5–)8–10(–12) × (2.5–)4–6(–8) cm, cordate to obtuse at the base, acuminate at the apex, upper surface glabrous except the main vein, lower surface glabrous to sparsely pilose; lateral veins in 4–6 pairs distributed along the midvein. Flowers: tepals 5–7 mm in length; the outer ones 5-veined, green, sparsely pilose-glandular on both surfaces, the inner surface provided at the base with setae, the inner ones 3-veined, white; filaments of the stamens provided with ampullaceous appendages of 1–1.5 mm. Fruit: unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon (Massif du Chaillu) et Congo (Mayombe)
+Gabon (Chaillu Massif) and Congo (Mayombe)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+forests at 200–700 m altitude
 
-forêts à 200–700 m d’altitude
+Appendages of the stamens and interstaminal glands without hairs. – J. Detail of the indumentum of the filament. – Illigera pentaphylla: K. Leaflet, lower surface. – Illigera vespertilio: L. Leaflet, lower surface. (A-J: Wieringa, Nzabi & Boussiengui 4407; K: Wieringa, Nzabi & Boussiengui 4634; L: A.M. Louis, Breteler & de Bruijn 947). Drawing by Hans de Vries (©), National Herbarium of the Netherlands – Wageningen branch.
 
-Appendices des étamines et glandes interstaminales sans poils. – J. Détail de l’indument du filet. – Illigera pentaphylla : K. Foliole, face inférieure. – Illigera vespertilio : L. Foliole, face inférieure. (A-J : Wieringa, Nzabi & Boussiengui 4407 ; K : Wieringa, Nzabi & Boussiengui 4634 ; L : A.M. Louis, Breteler & de Bruijn 947). Dessin par Hans de Vries (©), Herbier National des Pays-Bas – Wageningen branche.
-
-<!-- caption: Planche 4 : K --> <!-- caption: Planche 4 : L -->
+<!-- caption: Plate 4: K --> <!-- caption: Plate 4: L -->
 
 ## Notes
 

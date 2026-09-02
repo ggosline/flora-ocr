@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L. trifolia L. f. congolensis (Moldenke) R.Fern., Bol . Soc . Brot ., sér. 2, 59 : 254 (1986). Arbuste ou arbrisseau de 0,9–3 m de hauteur, aromatique ; tige quadrangulaire, inerme , poilue à poils courts courbés ou apprimés, à base tuberculée ou à poils étalés sétiformes, généralement mélangées avec des glandes sessiles. Feuilles généralement en verticille de 3 ou
-
-4, parfois opposées ; pétiole de 2–5 mm ; limbe ovale-elliptique à elliptique, de (1,5–)5–14 × (0,5–)2–6 cm, arrondi à atténué à la base, aigu ou rarement obtus au sommet, étroitement crénelé(-serré), peu denté de chaque côté, le dessus à nervation légèrement imprimée, non bullé, courtement et peu poilu avec des poils à base tuberculée, persistants chez les feuilles plus âgées, le dessous à nervation en relief ou obscure, poilu. Inflorescence en tête hémisphérique, de 0,8–1 × 1,3–1,7 cm, longue de 1,7–5 cm en fruit ; pédoncule de 1,5–13 cm à l’anthèse, généralement plus court que la feuille axillante, s’allongeant jusqu’à 11 cm en fruit ; bractées étroitement ovales-elliptiques , de 4–14 × 0,6–6,5 mm , aiguës à longuement acuminées. Fleur : calice long de 1,2–2 mm, pubescent ; corolle blanche ou violette, parfois rose-mauve , généralement à gorge jaune, nettement plus longue que les bractées , tube long de 5–7 mm, limbe de 4–9 × 4–5,5 mm. Fruit subglobuleux, de 3–3,5 × 2,5–3 mm, mauve à pourpre à maturité.
+L. trifolia L. f. congolensis (Moldenke) R.Fern., Bol. Soc. Brot., sér. 2, 59: 254 (1986). Shrub or small tree 0.9–3 m tall, aromatic; stem quadrangular, unarmed, pilose with short curved or appressed hairs, tuberculate at base or with spreading setiform hairs, generally mixed with sessile glands. Leaves generally in whorls of 3 or 4, sometimes opposite; petiole 2–5 mm; blade ovate-elliptic to elliptic, (1.5–)5–14 × (0.5–)2–6 cm, rounded to attenuate at base, acute or rarely obtuse at apex, narrowly crenate(-serrate), slightly dentate on each side, upper surface with slightly impressed venation, not bullate, shortly and sparsely pilose with hairs tuberculate at base, persistent on older leaves, lower surface with prominent or obscure venation, pilose. Inflorescence in hemispheric head, 0.8–1 × 1.3–1.7 cm, 1.7–5 cm long in fruit; peduncle 1.5–13 cm at anthesis, generally shorter than the axillant leaf, elongating to 11 cm in fruit; bracts narrowly ovate-elliptic, 4–14 × 0.6–6.5 mm, acute to long-acuminate. Flower: calyx 1.2–2 mm long, pubescent; corolla white or violet, sometimes rose-mauve, generally with yellow throat, distinctly longer than the bracts, tube 5–7 mm long, limb 4–9 × 4–5.5 mm. Fruit subglobose, 3–3.5 × 2.5–3 mm, mauve to purple at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique du Sud et introduit et naturalisé en Afrique tropicale, y inclus le Nigéria, le Gabon, la République démocratique du Congo, la République Centrafricaine et l’Angola, en Asie tropicale et dans certaines îles du Pacifique ; au Gabon, connu de la Nyanga
+native to South America and introduced and naturalized in tropical Africa, including Nigeria, Gabon, Democratic Republic of Congo, Central African Republic and Angola, in tropical Asia and in certain Pacific islands; in Gabon, known from Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts (secondaires), brousses, prairies, zones ouvertes ; au Gabon à environ 300 m d’altitude, ailleurs à 0–2400 m
+secondary forests, scrub, grasslands, open areas; in Gabon at approximately 300 m altitude, elsewhere at 0–2400 m
 
 ## Vernacular names
 
@@ -41,9 +33,7 @@ three-leaf lantana (angl.). Usage : Comme pour L. × strigocamara
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est très répandue et très polymorphe en Afrique. Cependant, cette variation a peu de valeur taxonomique car de nombreux intermédiaires existent entre la plupart des caractères (Fernandes 1989 ; Fernandes & Diniz, 2005 ; Verdcourt 1992). Elle est signalée comme étant envahissante dans certaines régions (Huber et al. 1963). B : Fernandes (1989), Fernandes & Diniz (2005), Huber et al. (1963), Verdcourt (1992). i B liographie
+This species is very widespread and very polymorphic in Africa. However, this variation has little taxonomic value as many intermediates exist between most characters (Fernandes 1989; Fernandes & Diniz, 2005; Verdcourt 1992). It is reported to be invasive in certain regions (Huber et al. 1963). B: Fernandes (1989), Fernandes & Diniz (2005), Huber et al. (1963), Verdcourt (1992). Bibliography
 
 ## Notes
 

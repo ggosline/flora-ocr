@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre de 10–40 m de hauteur. Feuille glabre ; pétiole semi-cylindrique, 2–4,5 cm ; limbe oblong-lancéolé, 10–30 × 2,5–5 cm, cunéé à la base, subobtus à acuminé au sommet, ± coriace ; nervures secondaires en 15 à 30 paires, ± proéminentes sur les deux faces. Inflorescence jusqu’à 25 cm de longueur, à axes tomentelleux à pubérulents, à fleurs mâles et bisexuées dans la même panicule . Fleur : pédicelle 2–3 mm, pubérulent, articulé au-dessus du milieu ; sépales 5, ovales à lancéolés, 2–2,5 × 1–1,5 mm, ± pubérulents ; pétales 5, oblongs-ovales, 3–4 × 2–2,5 mm, blancs, rougeâtres dans la moitié inférieure de la face interne, glabres, avec 3 à 7 nervures épaisses ; étamines fertiles 1(–2) ; staminodes 3(–4) ; disque très épais, 5-lobé ; ovaire 1–1,5 mm de diamètre, glabre ; style ± latéral, 1,5–2 mm. Fruit pendant, de forme et dimension variables suivant les variétés, 8–10(–25) × 7–8(–10) cm, à pulpe comestible. Graine oblongue-ovoïde, comprimée.
+Tree 10–40 m tall. Leaf glabrous; petiole semi-cylindric, 2–4.5 cm; blade oblong-lanceolate, 10–30 × 2.5–5 cm, cuneate at the base, subobtuse to acuminate at the apex, ± coriaceous; secondary veins in 15 to 30 pairs, ± prominent on both surfaces. Inflorescence up to 25 cm long, with tomentellous to puberulent axes, with male and bisexual flowers in the same panicle. Flower: pedicel 2–3 mm, puberulent, articulate above the middle; sepals 5, ovate to lanceolate, 2–2.5 × 1–1.5 mm, ± puberulent; petals 5, oblong-ovate, 3–4 × 2–2.5 mm, white, reddish in the lower half of the inner surface, glabrous, with 3 to 7 thick veins; fertile stamens 1(–2); staminodes 3(–4); disc very thick, 5-lobed; ovary 1–1.5 mm in diameter, glabrous; style ± lateral, 1.5–2 mm. Fruit pendulous, of variable form and size depending on the varieties, 8–10(–25) × 7–8(–10) cm, with edible pulp. Seed oblong-ovoid, compressed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Asie, mais aujourd’hui devenue pantropicale en raison de sa culture ; espèce cultivée et ± naturalisée dans toutes les provinces du Gabon
+native to Asia, but today become pantropical due to its cultivation; species cultivated and ± naturalized in all provinces of Gabon
 
 Mangifera 13
 
@@ -33,9 +29,7 @@ Mangifera 13
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire, terrains cultivés ou abandonnés ; au Gabon à 0–700 m d’altitude, ailleurs jusqu’à 1200 m. Usage : Le fruit comestible sert à faire des compotes, tartes, alcool, etc. Il existe un grand nombre de cultivars. L’oléorésine, la graine et les feuilles sont utilisés dans la médecine traditionnelle. L’écorce est un vomitif et sert à lutter contre le rhumatisme. Les jeunes feuilles servent de légume
+secondary forest, cultivated or abandoned land; in Gabon at 0–700 m altitude, elsewhere up to 1200 m. Uses: The edible fruit is used to make compotes, pies, alcohol, etc. There are a large number of cultivars. The oleoresin, seed and leaves are used in traditional medicine. The bark is an emetic and is used to combat rheumatism. Young leaves serve as a vegetable.
 
 ## Vernacular names
 

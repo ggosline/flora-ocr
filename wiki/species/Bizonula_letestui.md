@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 l.c.: 299 (1924).
 
-Petit arbre (4-5 m) de port inconnu. Feuilles bi-pennées, pétiole (10-20 cm) et rachis (40-45 cm) striés; pinnules opposés (9-12 paires) de 12-
+Small tree (4–5 m) of unknown habit. Leaves bipinnate, petiole (10–20 cm) and rachis (40–45 cm) striated; pinnules opposite (9–12 pairs) of 12–22 cm, flattened above, with thickened base; all these axes covered with ferruginous stellate hairs; 15–20 pairs of leaflets of 17–20 × 7–8 mm, asymmetrical, slightly falciform, glabrous above, pubescent under the midvein, approximately 15 pairs of fine veins visible on the lower face, ciliate at the margin, entire, mucronate at the apex.
 
-22 cm, aplaties dessus, à base épaissie; tous ces axes couverts de poils étoilés ferrugineux; 15-20 paires de folioles de  $ 17-20 \times 7-8 $ mm, asymétriques, légèrement falciformes, glabres dessus, velues sous la nervure médiane, env. 15 paires de fines nervures visibles à la face inférieure, ciliées à la marge, entières, mucronées au sommet.
+Inflorescences pubescent rusty (hairs 0.1–0.2 mm), formed of ramified racemes bearing triflorous cymules probably bipara; the label does not specify the position of these inflorescences, yet the diagnosis places them at the end of the branches (oral information?). The main axis of 40–50 cm bears from the base approximately 25 secondary branches of decreasing length, 5–2 cm, in alternation 2/5; these branches bear in turn, the longest ones, about ten triflorous cymules, with bracts of 6–8 mm, pedicels of 3–4 mm and bracteoled and pedicellate flowers; pedicel of 8 mm.
 
-Inflorescences velues rouillées (poils 0,1-0,2 mm), formées de grappes ramiifiées portant des cymules triflores probablement bipares; l'étiquette ne précise pas la position de ces inflorescences, pourtant la diagnose les place à l'extrémité des rameaux (renseignement oral?). L'axe principal de 40-50 cm porte dès la base environ 25 rameaux secondaires de longueur décroissante, 5-2 cm, en alternance 2/5; ces rameaux portent à leur tour, les plus longs, une dizaine de cymules triflores, avec bractées de 6-8 mm, pédoncules de 3-4 mm et fleurs bractéolées et pédicellées; pédicelle de 8 mm.
-
-Fleurs régulières; calice velu sur les 2 faces, 5 sépales valvaires, triangulaires, aigus, à base réunie en coupe de 2 mm de haut, libre sur 4 mm, étalés; corolle de 5 pétales égaux, ovales (3 × 2 mm), limbe glabre sauf quelques cils frisés au dos, écaille laineuse dessous, pubérulente dessus, formant un petit entonnoir, onglet de 1 mm; disque glabre formé de 2 coupes sans fond à parois minces, l'intérieure haute de 1 mm, circulaire, l'extérieure plus basse et à bords ondulés, d'où le nom générique : bi = deux, zonula = petite ceinture; étamines 12-13, égales, glabres, 2-3 mm, filets subulés; anthères légèrement en cœur à la base, à déhiscence latérale; ovaire triloculaire (5 mm) hirsute; style unique, 8 mm, glabre dans la moitié supérieure, un seul ovule dressé par loge. Fruit inconnu. PL. 34, 1-6', p. 147.
+Flowers regular; calyx pubescent on both faces, 5 valvate sepals, triangular, acute, with base united in a cup of 2 mm high, free for 4 mm, spreading; corolla of 5 equal petals, oval (3 × 2 mm), limb glabrous except a few curly cilia on the back, woolly scale beneath, puberulent above, forming a small funnel, claw of 1 mm; glabrous disk formed of 2 bottomless cups with thin walls, the inner one 1 mm high, circular, the outer one lower and with undulate margins, from which the generic name: bi = two, zonula = small girdle; stamens 12–13, equal, glabrous, 2–3 mm, subulate filaments; anthers slightly cordate at the base, with lateral dehiscence; ovary trilocular (5 mm) hirsute; style unique, 8 mm, glabrous in the upper half, a single erect ovule per locule. Fruit unknown. PL. 34, 1–6', p. 147.
 
 ## Type
 
@@ -36,71 +32,67 @@ Sonnerat 1062, stérile (Herb. Delessert, G, P). CÉRÉ, directeur du Jardin Bot
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Genus placed by RADLKOFER in the tribe of the Schleicherae not according to the nature of the fruit but by the resemblance of the leaves with those of the genus Macphersonia Blume, of eastern Africa and Madagascar, namely M. pteridophylla Baillon. However the two genera differ thus, as PELLEGRIN remarks:
 
-Genre placé par RADLKOFER dans la tribu des Schleicherées non d'après la nature du fruit mais par la ressemblance des feuilles avec celles du genre Macphersonia Blume, d'Afrique orientale et de Madagascar, notamment M. pteridophylla Baillon. Cependant les deux genres différent ainsi, comme le fait remarquer PELLEGRIN :
-
-<table><tr><td></td><td>Bizonula</td><td>Macphersonia</td></tr><tr><td>Sépales</td><td>valvaires</td><td>imbriqués</td></tr><tr><td>Écaille du pétale</td><td>grande, réfléchie</td><td>petite ou nulle</td></tr><tr><td>Disque</td><td>double</td><td>simple</td></tr><tr><td>Étamines</td><td>12-13</td><td>8</td></tr><tr><td>Loges de l&#x27;ovaire</td><td>trois</td><td>2 (rarement 3)</td></tr><tr><td>Poils étoilés</td><td>présents</td><td>absents</td></tr></table>
+<table><tr><td></td><td>Bizonula</td><td>Macphersonia</td></tr><tr><td>Sepals</td><td>valvate</td><td>imbricate</td></tr><tr><td>Petal scale</td><td>large, reflexed</td><td>small or absent</td></tr><tr><td>Disk</td><td>double</td><td>simple</td></tr><tr><td>Stamens</td><td>12–13</td><td>8</td></tr><tr><td>Ovary locules</td><td>three</td><td>2 (rarely 3)</td></tr><tr><td>Stellate hairs</td><td>present</td><td>absent</td></tr></table>
 
 NEPHELIE/ Radlkofer
 
-Actes Congrès internat. Amsterdam : 222 (1877-1878); in DURAND, Ind. Gen. : 76 (1887); in ENGL., Pflanzenreich, Sapindaceae : 894 (1933).
+Actes Congrès internat. Amsterdam: 222 (1877–1878); in DURAND, Ind. Gen.: 76 (1887); in ENGL., Pflanzenreich, Sapindaceae: 894 (1933).
 
-Sapindacées monospermées, arbustives ou arborescentes, à feuilles paripennées. Fruit indéhiscent, sillonné ou lobé. Dans Litchi sinensis et Nephelium lappaceum, généralement un seul des 3 carpelles se développe, les 2 autres restant à la base; le style semble alors gynobasique. Graine entourée d'un arille pulpeux, charnu, translucide. Fleurs régulières.
+Sapindaceae monospermic, shrubby or arborescent, with paripinnate leaves. Indehiscent fruit, furrowed or lobed. In Litchi sinensis and Nephelium lappaceum, generally only one of the 3 carpels develops, the 2 others remaining at the base; the style then appears gynobasic. Seed surrounded by a pulpy, fleshy, translucent aril. Flowers regular.
 
-GENRE-TYPE : Nephelium L.
+TYPE GENUS: Nephelium L.
 
-Tribu groupant, d'après RADLKOFER, 15 genres non africains. Deux espèces ont été introduites en Afrique tropicale à cause de leur fruit comestible.
+Tribe grouping, according to RADLKOFER, 15 non-African genera. Two species have been introduced to tropical Africa because of their edible fruit.
 
-1. Arille non soudé à la graine dont le tégument est brun foncé, brillant, dur; calice en coupe à courts segments; pétales nuls; fruit chagriné, rouge, ± 3 cm; feuilles 2-4-juguées à folioles papilleuses..... 16 bis, Litchi sinensis.
+1. Aril not fused to the seed whose tegument is dark brown, shiny, hard; calyx cup-shaped with short segments; petals absent; fruit scurfy, red, ± 3 cm; leaves 2–4-jugate with papillose leaflets..... 16 bis, Litchi sinensis.
 
-1'. Arille soudé à la graine dont le tégument est blanchâtre, tendre; calice à 4-6 sépales valvaires; parfois pétales nuls; fruit rouge, ± 3 cm, couvert de poils épineux mous, ± 1 cm; feuilles 2-8-juguées, subglabres..... 16 ter. Nephelium lappaceum.
+1'. Aril fused to the seed whose tegument is whitish, tender; calyx with 4–6 valvate sepals; sometimes petals absent; fruit red, ± 3 cm, covered with soft spiny hairs, ± 1 cm; leaves 2–8-jugate, subglabrous..... 16 ter. Nephelium lappaceum.
 
 16 bis. Litchi sinensis Sonnerat
 
-Voy. Ind. Or. Chine 2 : 230 (1782); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 914-915 (1932).
+Voy. Ind. Or. Chine 2: 230 (1782); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 914–915 (1932).
 
-Arbre moyen ou élevé, 30 m. Feuilles 2-4-juguées; pétiole 2-4 cm; rachis 10-20 cm; folioles 6-16 × 2-4 cm. Inflorescence 15-30 cm. Fruit 2,5-3,5 cm.
+Medium or tall tree, 30 m. Leaves 2–4-jugate; petiole 2–4 cm; rachis 10–20 cm; leaflets 6–16 × 2–4 cm. Inflorescence 15–30 cm. Fruit 2.5–3.5 cm.
 
-Originaire de Chine méridionale, cet arbre a été introduit en divers états africains pour son arille, comestible recherché. Il est cultivé depuis longtemps en Asie tropicale et en Amérique du Sud.
+Native to southern China, this tree has been introduced into various African states for its aril, a sought-after edible. It has been cultivated for a long time in tropical Asia and South America.
 
 16 ter. Nephelium lappaceum Linné
 
-Mantissa 1 : 125 (1767); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 957 (1933).
+Mantissa 1: 125 (1767); RADLK., in ENGL., Pflanzenreich, Sapindaceae: 957 (1933).
 
-Arbre de 10-20 m. Feuilles (1-) 2-3 (-4)-juguées; pétiole de 5 cm; rachis 15-40 cm; folioles 6-18 × 4-7 cm. Inflorescence 12-30 cm; fruit couvert de grosses épines molles.
+Tree of 10–20 m. Leaves (1–) 2–3 (–4)-jugate; petiole of 5 cm; rachis 15–40 cm; leaflets 6–18 × 4–7 cm. Inflorescence 12–30 cm; fruit covered with large soft spines.
 
-Originaire des Indes orientales et d'Indonésie, cet arbre fournit un fruit dont l'arille est comparable par la saveur à celui du Litchi. Il est cultivé dans diverses régions tropicales d'Afrique, d'Asie et d'amérique.
+Native to the East Indies and Indonesia, this tree provides a fruit whose aril is comparable in flavor to that of Litchi. It is cultivated in various tropical regions of Africa, Asia and America.
 
 CUPANIEAE Reichenbach
 
-Consp. Reg. Veg. : 200 (1828); BLUME, Rumphia 6 : (1847); RADLK., in DURAND, Ind. Gen. : 77 (1887); in ENGL., Pflanzenreich, Sapindaceae : 1019 (1933).
+Consp. Reg. Veg.: 200 (1828); BLUME, Rumphia 6: (1847); RADLK., in DURAND, Ind. Gen.: 77 (1887); in ENGL., Pflanzenreich, Sapindaceae: 1019 (1933).
 
-Sapindacées monospermées, arbustives ou arborescentes. Feuilles paripennées, rarement bipennées ou tripennées. Fleurs le plus souvent régulières, au moins dans les genres africains; pétales à écaille bifide ou soudée au limbe en entonnoir, rarement sans écaille dans les genres extra-africains. Fruit en capsule localicide à 2-3 (-4) loges s'ouvrant en 2-3 (-4) valves; parfois péricarpe un peu charnu. Graine avec ou sans arille; embryon courbe.
+Sapindaceae monospermic, shrubby or arborescent. Leaves paripinnate, rarely bipinnate or tripinnate. Flowers most often regular, at least in the African genera; petals with bifid scale or fused to the limb in funnel form, rarely without scale in extra-African genera. Fruit in loculicidal capsule with 2–3 (–4) locules opening in 2–3 (–4) valves; sometimes pericarp somewhat fleshy. Seed with or without aril; embryo curved.
 
-Le pollen des quatre genres Lynchodiscus, Blighia, Aporrhiza et Eriocoelum, tricolporé, à replis d'endexine aperturaux est voisin de celui des genres Deinbollia et Aphania (MELVILLE).
+The pollen of the four genera Lynchodiscus, Blighia, Aporrhiza and Eriocoelum, tricolporate, with aperturial endexine folds is close to that of the genera Deinbollia and Aphania (MELVILLE).
 
-GENRE-TYPE : Cupania L. (Gen. Pl., 1737).
+TYPE GENUS: Cupania L. (Gen. Pl., 1737).
 
-Représentée par 5 genres en Afrique, cette tribu en compte d’autre part 35 dans les autres continents.
+Represented by 5 genera in Africa, this tribe comprises on the other hand 35 in the other continents.
 
-1. Ovaire à 2 loges; pas d'arille; graines bicolores : tégument mou, jaune en bas, noir et dur en haut; pétales jeunes en entonnoir puis sans écaille, bord médian roulé vers l'intérieur; radicule opposée au hile..... 17. APORRHIZA
+1. Ovary with 2 locules; no aril; bicolored seeds: soft tegument, yellow below, black and hard above; young petals funnel-shaped then without scale, median border rolled inward; radicle opposite the hilum..... 17. APORRHIZA
 
-1'. Ovaire à 3 loges; arille ± développé; tégument concolore.
+1'. Ovary with 3 locules; aril ± developed; tegument concolorous.
 
-2. Pétales avec de minuscules écailles de chaque côté ou sans écaille; arille peu visible, concrescent avec le tégument; calice à préfloraison quinconciale;
+2. Petals with minute scales on each side or without scale; aril barely visible, concrescent with the tegument; calyx quincuncial in prefloration; sepals overlapping at the edges and forming ribs on the bud; 7–10 stamens.....18. LACCODISCUS.
 
-sépales se recouvrant aux bords et formant des côtes sur le bouton; 7-10 étamines.....18.LACCODISCUS.
+2'. Petals with well-developed scale; sepals overlapping little at the edge, subvalvate.
 
-2'. Pétales à écaille bien développée; sépales se recouvrant peu au bord, subvalvaires.
+3. Double disk; stamens 10–18; orange aril completely covering the seed; radicle opposite the hilum..... 19. LYCHNODISCUS.
 
-3. Disque double; étanines 10-18; arille orangé recouvrant complètement la graine; radicule opposée au hile..... 19. LYCHNODISCUS.
+3'. Simple disk; stamens 8–10; cupular aril covering the third or half of the seed; radicle on the side of the hilum.
 
-3'. Disque simple; étamines 8-10; arille cupulaire recouvrant le tiers ou la moitié de la graine; radicule du côté du hile.
+4. Disk in thin cup undulate at the edge; petals with scale not fused to the limb, shorter but wider than the latter; capsule with sclerified walls, locules woolly internally, at the base; aril lobed, little reduced when dry.....20. ERIOCOELUM.
 
-4. Disque en coupe mince ondulée au bord; pétales à écaille non soudée au limbe, plus courte mais plus large que ce dernier; capsule à parois séléri-fiées, à loges laineuses intérieurement, à la base; arille lobé, peu réduit sur le sec.....20.ERIOCŒLUM.
-
-4'. Disque en coussin circulaire; pétales en entonnoir : écaille soudée au limbe; capsule à parois charnues, à loges glabres ou velues apprimées intérieurement sur toute la surface; arille lobulé se réduisant sur le sec.....
+4'. Disk in circular cushion; petals funnel-shaped: scale fused to the limb; capsule with fleshy walls, locules glabrous or velutinous appressed internally over the entire surface; aril lobulate reducing when dry.....
 
 ## Figures
 

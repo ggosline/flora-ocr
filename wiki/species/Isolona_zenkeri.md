@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Synonyms
 
-- Diospyros oblongicarpa Gurke,Bot.Jahrb.43 :2oo (19og)，quoad Zenker 3471.
+- Diospyros oblongicarpa Gurke,Bot.Jahrb.43 :2oo (19og),quoad Zenker 3471.
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- Engl. et Diels in Engl., Monogr. Afr. Pflanzenf. 6: 83, tab. 27 B (1901). – Pellegrin, Bull. Soc. Bot. Fr. 94: 387 (1947).
 
-- Engl.et Diels in Engl.,Monogr. Afr.Pflanzenf.6 :83,tab.27 B(19o1).-Pellegrin,Bull. Soc.Bot.Fr.94: 387 (1947).
+Shrub 2–4 m tall, with glabrous branchlets. Leaves with petiole 2–5 mm long; blade papyraceous, elliptic-oblong to obovate-oblong, 11–25 cm long, 3.5–9 cm wide, broadly cuneate to subrounded at base, glabrous on both surfaces. 10–13 pairs of lateral veins, obliquely ascending, joined in loops 2–3 mm from the margin, prominent on both surfaces.
 
-Arbuste de 2-4 m de hauteur,a rameaux glabres. Feuilles a pétiole long de 2-5 mm；limbe papyracé，elliptique-oblong ä obové-oblong,long de I1-25 cm，large de 3,5-9 cm， largement cunéiforme ä subarrondi ä la base,glabre sur les deux faces. 10-13 paires de nervures latérales,obliques ascendantes,réunies en arceaux ä 2-3 mm de la marge,saillantes sur les deux faces.
+Flowers yellow, solitary or geminate, axillary or ramiflorous, with pedicel 3–13 mm long, bearing 3 small basal bracteoles, broadly ovate. Sepals triangular-ovate, 3–6 mm long, 3–7 mm wide. Corolla tube approximately 3 times shorter than the lobes, 3–7 mm long; lobes thick, erect or oblique, verrucose, linear-lanceolate, 10–22 mm long, 2–4 mm wide at base, attenuate at apex. Stamens subsessile, oblong; thecae linear extrorse, connectives dilate-truncate, elongate and prolonged toward the center of the flower in the innermost cycle. Ovary oblong, approximately 2 mm long, stigmas capitate, lobulate, puberulent.
 
-Fleurs jaunes, solitaires ou géminées,axillaires ou ramiflores, ä pédicelle long de 3-13 mm,muni de 3 petites bractéoles basilaires, largement ovées. Sépales triangulaires-ovés， longs de 3-6 mm, larges de 3-7 mm. Tube de la corolle environ 3 fois plus court que les lobes,long de 3-7 mm; lobes épais,dressés ou obliques, verruculeux, linéaires-lancéolés, longs de Io-22 mm,larges de 2-4 mm ä la base,atténues au sommet. Etamines subsessiles,oblongues, theques linéaires extrorses,connectifs dilatés-tronques,allongés et prolongés vers le centre de la fleur dans le cycle le plus interne. Ovaire oblong, long de 2 mm environ,stigmates capités,lobulés, pubérulents.
-
-Syncarpe ovoide-oblong,long de 4-8 cm, large de 2,5-3,5 cm, nettement apiculé au sommet, légerement cotelé longitudinalement. Pédicelle non vu. Nombreuses graines, ellipsoides,longues de 1,2-1,5 cm, larges de o,9-1 cm.
+Syncarp ovoid-oblong, 4–8 cm long, 2.5–3.5 cm wide, distinctly apiculate at apex, slightly longitudinally ribbed. Pedicel not seen. Numerous seeds, ellipsoid, 1.2–1.5 cm long, 0.9–1 cm wide.
 
 ## Type
 
@@ -37,17 +35,15 @@ Zenker I186, Bipindi, Cameroun,fl.,déc. (holotype B; isotype K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species very closely allied to I. Thonneri (De Wild. et Dur.) Engl. et Diels from Congo-Kinshasa and Congo-Brazzaville. It differs by the leaves less distinctly attenuate at base, the petals thicker, verrucose, the fruits distinctly apiculate at apex.
 
-Espéce tres affine d'I. Thonneri (De Wild. et Dur.） Engl. et Diels du Congo-Kinshasa et Congo-Brazzaville. Elle s'en diffé- rencie par les feuilles moins nettement atténuées á la base,les pétales plus épais,verruculeux,les fruits nettement apiculés au sommet.
+It is a shrub of the forest understorey in dense humid forest, known from Cameroon and Gabon.
 
-C'est un arbuste de sous-bois en forét dense humide,connu au Cameroun et au Gabon.
+GABONESE MATERIAL
 
-MATERIEL GABONAIS
+Klaine 2583, Libreville (fl., Nov.); 2678, Sibang (fr., Jan.); 2875, Libreville (fr.).
 
-Klaine 2583,Libreville (fl.,nov.)；2678,Sibang (fr., janv.)；2875,Libreville (fr.).
-
-Le Testu 5I17,Mouteti, forét des Echiras,Haute Ngounyé (fl.,nov.)；6332, Tamba,Naghi,Haute Ngounyé (fl.,oct.)；7871,Lastoursville (fl., janv.); 8001,Koulamatou (fl.,avr.)；8685,Bounounou (fl.,fr.,janv.).
+Le Testu 5117, Mouteti, forest of the Echiras, Haute Ngounyé (fl., Nov.); 6332, Tamba, Naghi, Haute Ngounyé (fl., Oct.); 7871, Lastoursville (fl., Jan.); 8001, Koulamatou (fl., Apr.); 8685, Bounounou (fl., fr., Jan.).
 
 ## Notes
 

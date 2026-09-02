@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, à rhizome épais de 2 mm au plus ; tige solitaire, centrale , 20–60 cm × 1,5–3 mm, cylindrique ou vaguement triangulaire, glabre, sans limbe, sauf pour les bractées involucrales ; gaine ovale à lancéolée, 2–15 × 1–3 cm, rouge foncé à violacée, sommet aigu à acuminé. Inflorescence terminale, composée généralement d’un seul épi ; bractées involucrales 3, foliacées, étalées, presque égales en taille, elliptiques à elliptiques–obovales , la plus grande de 12–30 × 3–6 cm, trinervées, sans pseudo-pétiole, sommet courtement à nettement acuminé ; épi elliptique à oblong , 10–30 × 7–15 mm, brun rougeâtre clair ; bractées spicoïdales très serrées, ovales, 2–3 × 1–2 mm, brunes, chacune à 3 fleurs mâles et 1 femelle. Fleur : bractées florales 6, longues de 6–8 mm , les 2 inférieures linéaires–lancéolées, brun rougeâtre, carène non ailée, glabres ou avec de minuscules poils le long de la nervure centrale, les supérieures linéaires ; style de 4 mm, à 3 branches . Akène subglobuleux à obovoïde, 1,5–2,5 × 1–1,5 mm, brun olive à brun foncé, fortement strié longitudinalement avec 2 côtes latérales et 1 antérieure.
+Robust herb, with rhizome thick to 2 mm at most; stem solitary, central, 20–60 cm × 1.5–3 mm, cylindrical or vaguely triangular, glabrous, without lamina except for the involucral bracts; sheath oval to lanceolate, 2–15 × 1–3 cm, dark red to violet, apex acute to acuminate. Inflorescence terminal, composed generally of a single spike; involucral bracts 3, foliaceous, spreading, almost equal in size, elliptic to elliptic–obovate, the largest 12–30 × 3–6 cm, trinerved, without pseudo-petiole, apex shortly to distinctly acuminate; spike elliptic to oblong, 10–30 × 7–15 mm, light reddish-brown; spicoid bracts very crowded, oval, 2–3 × 1–2 mm, brown, each with 3 male flowers and 1 female. Flower: floral bracts 6, 6–8 mm long, the 2 lower ones linear–lanceolate, reddish-brown, keel not winged, glabrous or with minute hairs along the central nerve, the upper ones linear; style 4 mm, with 3 branches. Achene subglobose to obovoid, 1.5–2.5 × 1–1.5 mm, olive-brown to dark brown, strongly longitudinally striated with 2 lateral ribs and 1 anterior rib.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon ; apparemment rare, dispersée dans la Ngounié, l’Ogooué-Ivindo, l’Ogooué-Lolo et l’Ogooué-Maritime (9 récoltes)
+endemic to Gabon; apparently rare, scattered in the Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime (9 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondaire, souvent le long des chemins forestiers et des ruisseaux ; probablement vers 100–400 m d’altitude. Note taxonomique : sous-espèce très différente de toutes les taxons africains. L’inflorescence ovale–elliptique entourée de trois bractées elliptiques presque égales, au lieu de bractées linéaires, l’identifie en un coup d’œil. Elle est très proche de la sous-espèce type américaine et en diffère seulement par des caractères secondaires de l’inflorescence. b : Simpson (1992). ibliographie
+primary or secondary forest, often along forest paths and streams; probably around 100–400 m altitude. Taxonomic note: subspecies very different from all African taxa. The oval–elliptic inflorescence surrounded by three almost equal elliptic bracts, instead of linear bracts, identifies it at a glance. It is very close to the American type subspecies and differs from it only by secondary characters of the inflorescence. b: Simpson (1992). ibliography
 
 ## Notes
 

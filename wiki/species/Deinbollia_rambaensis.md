@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The collector provides neither the total height nor the exact habit of the plant, noting only: "Sapindaceae with white flowers; leaves up to 1.35 m with 34 leaflets (thus 17 pairs) sometimes very irregularly arranged".
 
-Le récolteur ne précise ni la hauteur totale ni le port exact de la plante, notant seulement : « Sapindacée à fl. blanches; feuilles jusqu'à 1,35 m avec 34 folioles (donc 17 paires) quelquefois très irrégulièrement disposées ».
+It is therefore by analogy with D. gossweileri that it has been placed here, among the monocaulous types. The leaflets are elongate, approximately 5 times longer than wide, with secondary veins anastomosing in arcs 3-4 mm from the margins; tertiary network fine and prominent beneath.
 
-C'est donc par analogie avec D. gossweileri qu'elle a été placée ici, dans les types monocaules. Les folioles sont allongées, environ 5 fois plus longues que larges, à nervures secondaires anastomosées en arceaux à 3-4 mm des marges; réseau tertiaire fin et saillant dessous.
-
-Inflorescences en grappes rameuses; axe primaire de ± 60 cm portant une vingtaine d'axes secondaires décroissants de 15 à 2-3 cm, portant à leur tour des cymules subsessiles à 3-7 fleurs; axe à pubérulence rousse. Sépales de 3 mm ciliolés au bord et presque glabres (rares poils dispersés); pétales de 3 × 3 mm, velus (poils de 0,5 mm) au dos, à écaille fendue et velue (poils de 1 mm). La particularité la plus remarquable est la disposition extrorse des étamines, avec connectif velu à l'intérieur; c'est une exception pour les Sapindacées. PL. 13, 1-7", p. 67.
+Inflorescences in branched racemes; primary axis of ± 60 cm bearing about twenty secondary axes decreasing from 15 to 2-3 cm, bearing in turn subsessile cymules with 3-7 flowers; axis with rusty pubescence. Sepals 3 mm ciliolate at the margin and nearly glabrous (rare scattered hairs); petals 3 × 3 mm, hairy (hairs 0.5 mm) on the back, with split and hairy scale (hairs 1 mm). The most remarkable feature is the extrorse arrangement of the stamens, with hairy connective within; this is an exception for the Sapindaceae. PL. 13, 1-7", p. 67.
 
 ## Type
 
@@ -43,9 +41,7 @@ Arbuste monocaule à folioles moins allongées que dans l'espèce précédente, 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante est citée ici à cause de la proximité de son point de récolte des régions sud-gabonaises.
+This plant is cited here because of the proximity of its collection point to southern Gabonese regions.
 
 ## Figures
 

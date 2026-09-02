@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pleomele congoensis (Hua) N.E.Br., Bull. Misc. Inform. Kew 1914 : 277 (1914). Arbuste jusqu’à 6 m de hauteur ; tronc généralement simple , jusqu’à 5 cm de diamètre. Feuilles ± uniformément distribuées ou concentrées au sommet de la tige, laissant la tige à peine visible entre les gaines ou préfeuilles ; gaine embrassant la tige sur nettement plus que la circonférence, sur une longueur de < 1,5 cm ; pseudopétiole plus court que le limbe , jusqu’à 1 cm de largeur, ailé, creusé, vert, passant abruptement à la base engainante ; limbe ovale à obovale , jusqu’à 37 × 10 cm, base cunéée à atténuée, sommet acuminé avec un mucron subulé atteignant 7 mm, coriace, face supérieure vert brillant, nervure médiane sillonnée, face inférieure vert cireux mat, nervure médiane proéminente sur plus des ¾ de la longueur, veinules non clairement visibles. Inflorescence dressée, en thyrse spiciforme , jusqu’à 35 cm de longueur, à axes lisses, constitué de plusieurs glomérules sessiles , chacune comprenant nettement plus de 15 fleurs, les glomérules basaux parfois avec une branche latérale de ± 2 cm de longueur se terminant en un glomérule ; bractées sous-tendant les glomérules, caduques, concaves, jusqu’à 5 × 1,5 cm, diminuant de taille en un sommet caudé à cuspidé, scarieuses ; bractées florales ovales, jusqu’à 1 mm de longueur, scarieuses. Fleur à parfum suave : pédicelle 3 mm, articulé jusqu’à 2 mm de la base ; périanthe 17–21 mm de longueur, à lobes plus courts que le tube , étalés, blanc avec des stries violacées à l’extérieur ; étamines insérées près de la gorge, jusqu’à 2 mm plus courtes que les lobes, filet blanc, à section ronde, renflé, sommet subulé, anthère jusqu’à 2 mm de longueur, jaune pâle ; ovaire oblong, jusqu’à 2 × 1 mm ; style exsert sur jusqu’à 3 mm, blanc, stigmate ± 1 mm de diamètre. Fruit sphérique à obloïde , ± 15 × 18 mm, entier à légèrement 2- ou 3-lobé, orange, réceptacle jusqu’à 5 mm de longueur. Graine ovoïde, jusqu’à 8 × 5 mm.
+Pleomele congoensis (Hua) N.E.Br., Bull. Misc. Inform. Kew 1914 : 277 (1914). Shrub up to 6 m tall; trunk generally simple, up to 5 cm in diameter. Leaves ± uniformly distributed or concentrated at the stem apex, leaving the stem barely visible between the sheaths or cataphylls; sheath embracing the stem for clearly more than the circumference, over a length of < 1.5 cm; pseudopetiole shorter than the blade, up to 1 cm wide, winged, grooved, green, passing abruptly into the sheathing base; blade ovate to obovate, up to 37 × 10 cm, base cuneate to attenuate, apex acuminate with a subulate mucro reaching 7 mm, coriaceous, upper surface bright green, midvein furrowed, lower surface waxy green, matte, midvein prominent for more than ¾ of the length, veinlets not clearly visible. Inflorescence erect, in a spiciform thyrse, up to 35 cm long, with smooth axes, constituted of several sessile glomerules, each comprising clearly more than 15 flowers, the basal glomerules sometimes with a lateral branch of ± 2 cm long terminating in a glomerule; bracts subtending the glomerules, caducous, concave, up to 5 × 1.5 cm, diminishing in size to a caudate to cuspidate apex, scarious; floral bracts ovate, up to 1 mm long, scarious. Flower with sweet fragrance: pedicel 3 mm, articulate up to 2 mm from the base; perianth 17–21 mm long, with lobes shorter than the tube, spreading, white with violaceous striae on the outside; stamens inserted near the throat, up to 2 mm shorter than the lobes, filament white, round in section, swollen, subulate apex, anther up to 2 mm long, pale yellow; ovary oblong, up to 2 × 1 mm; style exsert for up to 3 mm, white, stigma ± 1 mm in diameter. Fruit spherical to obloid, ± 15 × 18 mm, entire to slightly 2- or 3-lobed, orange, receptacle up to 5 mm long. Seed ovoid, up to 8 × 5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Côte d’Ivoire, Ghana, Togo, Bénin, Nigéria, Cameroun, République centrafri caine, Gabon, République du Congo et République démocratique du Congo ; au Gabon, présent dans l’Ogooué-Ivindo, l’Ogooué-Lolo et le Woleu-Ntem
+Guinea, Ivory Coast, Ghana, Togo, Benin, Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, present in Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+understory of secondary forests and near streams, in shade; in Gabon at 200–700 m elevation, elsewhere at 35–1140 m. Flowering recorded from December to March and in July. B: Baker (1898), Bos (1984), Damen et al. (2018), Mwachala (2005), Velayos & Cabezas (2018) Bibliography
 
-sous-bois des forêts secondaires et près des ruisseaux, à l’ombre ; au Gabon à 200–700 m d’altitude, ailleurs à 35–1140 m. Floraison enregistrée de décembre à mars et en juillet. B : Baker (1898), Bos (1984), Damen et al. (2018), Mwachala (2005), Velayos & Cabezas i B liographie (2018)
+Naturalis Biodiversity Center (©), reproduced from Bos (1984).
 
-Naturalis Biodiversity Center (©), reproduit à partir de Bos (1984).
-
-Naturalis Biodiversity Center (©), reproduit à partir de Bos (1984).
+Naturalis Biodiversity Center (©), reproduced from Bos (1984).
 
 ## Notes
 

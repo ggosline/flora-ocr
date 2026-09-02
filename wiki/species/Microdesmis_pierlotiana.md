@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 2-14 m tall and 4-30 cm in diameter. Branchlets pubescent to pubescent-puberulent. Bark brown. Leaf with pubescent petiole, 3-13 mm long, channelled above and wrinkled below; lamina glabrous on both surfaces, ± greyish or brown green above and brown below when dry, elliptic or ovate-lanceolate, 4-16 × 1.5-6 cm, base inequilateral, margin entire or dentate and apex acuminate obtuse mucronate. Midvein strongly concave glabrous above and strongly prominent, very sparsely pubescent or glabrescent below; secondary veins, 7-9 pairs, ascending, very arched at the base, anastomosing 2-3 mm from the lamina margin, prominent glabrous above and prominent very sparsely pubescent or glabrescent below. Tertiary veins in network with ± rectangular or square meshes, prominent on both surfaces.
 
-Petit arbre haut de 2-14 m et d'un diamètre de 4-30 cm. Rameaux pubescents à pubescents-pubérulents. Rhytidome marron. Feuille à pétiole pubescent, long de 3-13 mm, canaliculé dessus et ridé dessous; limbe glabre sur les deux faces, vert ± grisâtre ou marron dessus et marron dessous à l'état sec, elliptique ou ovale-lancéolé, 4-16 × 1,5-6 cm, base inéquilatérale, bord entier ou denté et sommet acuminé obtus mucroné. Nervure médiane fortement concave glabre dessus et fortement saillante, très éparsement pubescente ou glabrescente dessous; nervures secondaires, 7-9 paires, ascendantes, très arquées à la base, s'anastomosant à 2-3 mm du bord du limbe, saillantes glabres dessus et saillantes très éparsement pubescentes ou glabrescentes dessous. Nervilles en réseau à mailles ± rectangulaires ou carrées, saillantes sur les deux faces.
+Male or female inflorescences in multiflorous axillary fascicles. Pedicels pubescent 2-8 mm long. Male flowers pink. Sepals pubescent to puberulent externally and glabrous internally, oval, 1.5-2 mm long. Petals spreading or reflexed, densely pubescent externally and very puberulent on the upper part of the inner surface, elliptic, 2.5-4 × 1.5-2.4 mm, base fleshy enlarged into a triangle, apex rounded. Stamens 5, strongly pressed against the pistillode by a fleshy obtriangular filament 0.5-1 mm long; anther ellipsoid, connective thickened. Pistillode 1-3 mm long, base enlarged emitting fleshy lobes between the stamens. Style pubescent, weakly ridged, prominent above the corolla. Female flowers, 8-9 mm; pedicels pubescent to puberulent, 3-5 mm long. Petals obovate, 5.5 × 3 mm. Ovary trilocular 2 mm long, ellipsoid, densely pubescent to puberulent. Styles 3, 1 mm long.
 
-Inflorescences ♂ ou ♀ en fascicules axillaires multiflores. Pédicelles pubescents longs de 2-8 mm. Fleurs ♂ roses. Sépales pubescents à pubé-rulents extérieurement et glabres intérieurement, ovales, longs de 1,5-2 mm. Pétales étalés ou réfléchis, densément pubescents extérieurement et très pubérulents à la partie supérieure de la face interne, elliptiques, 2,5-4 × 1,5-2,4 mm, base charnue élargie en triangle, sommet arrondi. Étamines 5, fortement appliquées contre le pistillode par un filet charnu obtriangulaire long de 0,5-1 mm; anthère ellipsoïde, connectif épaissi. Pistillode long de 1-3 mm, base élargie émettant des lobes charnus entre les étamines. Style pubescent, faiblement côtelé, saillant au-dessus de la corolle. Fleurs ♀, 8-9 mm; pédicelles pubescents à pubérulents, longs de 3-5 mm. Pétales obovales, 5,5 × 3 mm. Ovaire triloculaire long de 2 mm, ellipsoïde, densément pubescent à pubérulent. Styles 3, longs de 1 mm.
+Drupe globose subconical, depressed at the apex, 12-14 × 15-17 mm (up to 20 mm after rehydration), verrucose muricate; epicarp puberulent, green becoming yellowish; endocarp muricate trispermous.
 
-Drupe globuleuse subconique, déprimée au sommet, 12-14 × 15-17 mm (jusqu'à 20 mm après réhydratation), verruqueuse muriquée; épicarpe pubérulent, vert devenant jaunâtre; endocarpe muriqué trisperme.
-
-PANDACE
+PANDACEAE
 
 ## Type
 
@@ -33,11 +31,9 @@ Gutzwiller 3065, Zaire (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+It should be noted that there is great variability in the pubescence of the branchlets: indeed, some herbarium specimens are almost glabrous (either naturally, or due to friction, which we were able to observe in other species). Despite this, the pubescence of the style of the male flower, characteristic of this species, allows certain identification.
 
-Il faut noter la grande variabilité de la pubescence des rameaux : en effet, certains échantillons d'herbier sont presque glabres (soit naturellement, soit à cause des frottements, ce que nous avons pu constater pour d'autres espèces). Malgré cela, la pubescence du style de la fleur ♂, caractéristique de cette espèce, permet une identification certaine.
-
-Cette espèce se rencontre dans les sous-bois de la forêt dense humide. Son aire s'étend du Zaïre au Gabon et au Cameroun.
+This species is found in the understory of dense humid forest. Its range extends from Zaïre to Gabon and Cameroon.
 
 ## Specimens examined
 

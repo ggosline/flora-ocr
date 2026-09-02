@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+C.B. Clarke, F.T.A. 5 : 223 (June 1900). — Hutch. et Dalz., F.W.T.A., ed. I,2 : 263 (1931).
 
-C.B. Clarke, F.T.A. 5 : 223 (juin 1900). — Hutch. et Dalz., F.W.T.A., ed. I,2 : 263 (1931).
+≡ Duvernoia robusta (C.B. Clarke) Lindau, in Schlechter, Westafrikan.. Kautschuk-Exped.: 316 (Dec. 1900), excl. Schlechter 12928.
 
-≡ Duvernoia robusta (C.B. Clarke) Lindau, in Schlechter, Westafrikan.. Kautschuk-Exped.: 316 (déc. 1900), excl. Schlechter 12928.
+Shrub or small tree up to 5 m tall, with cylindrical stems, glabrescenct or slightly pubescent; indumentum, especially in the inflorescence region and young parts, brownish or ferrugineous. Petioles reaching 6 cm long, glabrescenct. Leaf blade ovate-lanceolate, $ 15 \times 35 $ cm, with acute acumen, with acute decurrent base. 17 pairs of lateral veins, slightly pilose beneath.
 
-Arbuste ou petit arbre jusqu'à 5 m de hauteur, à tiges cylindriques, glabrescentes ou un peu pubescentes; indument, surtout dans la région de l'inflorescence et des parties nouvelles, brunâtres ou ferrugineux. Pétioles atteignant 6 cm de long, glabrescentes. Limbe des feuilles ovale-lancéolé, de  $ 15 \times 35 $ cm, à acumen aigu, à base aiguë décurrente. 17 paires de nervures latérales, au dessous légèrement poilues.
+Terminal inflorescences, reaching $ 40 \times 1.5 \, cm $, with peduncle up to $ 13 \, cm $ long, with lateral spikes reaching $ 10 \, cm $ long, simple; there are more rarely small branches at the lower axils; terminal spike portion reaching 17 cm long; inflorescence leaves similar to ordinary leaves, up to 4 cm long; upper bracts and bracteoles lanceolate, pubescent without, glabrous within; bracteoles 3–3.5 × 6–7 mm. Sepals lanceolate, 8 × 2 mm, acuminate, finely puberulent. Corolla about 2 cm long, pale yellow, hairy without, glabrous within, with tube 7 mm long, slightly inflated at the base and narrowed at the throat; upper lip erect, 10–12 mm long, emarginate at the apex; lower lip three-lobed, with lateral lobes lanceolate, rounded, 8 × 4 mm; median lobe shorter and broader, 6 × 5.5 mm; filaments glabrous, 1 cm long; anther thecae slightly divergent, 3–4 mm long, slightly acuminate at the base. Style 15 mm long, pilose on its lower two-thirds. Ovary 2 × 1 mm, pilose.
 
-Inflorescences terminales, atteignant  $ 40 \times 1.5 \, cm $, à pédoncule jusqu'à  $ 13 \, cm $ de long, à épis latéraux atteignant  $ 10 \, cm $ de long, simples; il y a plus rarement de petites ramifications aux aisselles
-
-inférieures; partie terminale en épi atteignant 17 cm de long; feuilles de l'inflorescence semblables à des feuilles ordinaires, jusqu'à 4 cm de long; bractées supérieures et bractéoles lancéolées, pubescentes à l'extérieur, glabres à l'intérieur; bractéoles de 3-3,5 × 6-7 mm. Sépales lancéolés, de 8 × 2 mm, acuminés, finement pubérulents. Corolle d'environ 2 cm de long, jaune pâle, velue à l'extérieur, glabre à l'intérieur, à tube de 7 mm de long, un peu renflé à la base et rétréci à la gorge; lèvre supérieure dressée, de 10-12 mm de long, émarginée à l'apex; lèvre inférieure trilobée, à lobes latéraux lancéolés, arrondis, de 8 × 4 mm; lobe médian plus court et plus large, de 6 × 5,5 mm; filets glabres, de 1 cm de long; thèques des anthères un peu divergentes, de 3-4 mm de long, un peu acuminées à la base. Style de 15 mm de long, poilu sur ses deux tiers inférieurs. Ovaire de 2 × 1 mm, poilu.
-
-Fruit pubescent, stipité, claviforme, d'environ 4 cm de long, de 4-5 mm de diamètre de la base jusqu'aux 2/3 inférieurs, dernier tiers de 8-10 mm.
+Fruit pubescent, stipitate, claviform, about 4 cm long, 4–5 mm in diameter from the base to the lower 2/3, lower third 8–10 mm.
 
 ## Type
 
@@ -37,9 +33,7 @@ Mann 634, Fernando-Po (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d'Ivoire, Togo, Dahomey, Nigeria, Cameroun, Fernando-Po.
+Ivory Coast, Togo, Dahomey, Nigeria, Cameroon, Fernando Po.
 
 ## Specimens examined
 

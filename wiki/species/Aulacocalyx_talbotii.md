@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 4-5 m tall with trunk reaching 5-10 cm diam. Branchlets glabrous or moderately pubescent. Stipules triangular acute 3-6 (10) mm, ± glabrous. Petioles glabrous or somewhat pubescent 3-9 mm long. Blade glabrous subcoriaceous, grey-olivaceous and concolorous, when dry, 9-17 × 3-8 cm, with attenuate-acute base; rostrate acumen very acute. Midvein glabrous or very sparsely pilose beneath; 3-7 (8) pairs of secondary veins glabrous. No domatia.
 
-Arbuste de 4-5 m de hauteur à tronc atteignant 5-10 cm de diam. Entrençéds glabres ou médiocrement pubescents. Stipules triangulaires aiguës de 3-6 (10) mm, ± glabres. Pétioles glabres ou un peu pubescents de 3-9 mm de longueur. Limbe glabre subcoriace, gris-olivâtre et concolore, à sec, de 9-17 × 3-8 cm, à base atténuée-aiguë; acumen rostré très aigu. Médiane glabre ou très pauvrement pileuse dessous; 3-7 (8) paires de nervures secondaires glabres. Pas de domaties.
+Inflorescences in short 1-3-flowered cymes entirely clothed with dense and very fine yellow-ochraceus pubescence when dry. Flowers cream-coloured arising from persistent deltoid bracts. Pedicel 2-6 mm long bearing at mid-length a pair of scales connate in a cupule. Calyx with cylindric truncate limb 5-7 mm tall and 5-7 mm diam., with 5 minute denticles. Corolla with long tube 30-35 × 3-5 mm, with dense and fine ochraceus tomentum, generally split unilaterally over half or the entire length, cylindric or weakly constricted when dry towards the middle; 5-8 twisted lobes refracting at anthesis, oblong 7-8 × 3-4 mm; interior of tube glabrous towards the base, with dense ring of soft hairs below the middle, finely pubescent above. Anthers linear 11-13 mm, sessile and medifixed, with small acute acumen at the apex which slightly exceeds the emargination of the lobes. Style glabrous rather robust, scarcely longer than the corolla tube, curving laterally through the slit in the latter; long stigmatic clavule scarcely noticeably thickened. Placenta long, emarginate at the apex on either side of the insertion, with 2 rows of approximately 5 ovules.
 
-Inflorescences en courtes cymes 1-3-flores entièrement vêtues d'une dense et très fine pubérulence jaune-ochracée à sec. Fleurs de couleur crème issues de bractées deltoïdes persistantes. Pédicelle long de 2-6 mm portant à mi-longueur une paire d'écailles
-
-connées en cupule. Calice à limbe cylindrique tronqué de 5-7 mm de hauteur et de 5-7 mm de diamètre, à 5 denticules minuscules. Corolle à long tube de 30-35 × 3-5 mm, à dense et fin tomentum ochracé, généralement fendu unilatéralement sur la moitié ou la totalité de sa longueur, cylindrique ou faiblement reserré à sec vers le milieu; 5-8 lobes tordus se réfractant à l'anthèse, oblongs de 7-8 × 3-4 mm; intérieur du tube glabre vers la base, à dense anneau de poils mous au-dessous du milieu, finement pubescent au-dessus. Anthères linéaires de 11-13 mm, sessiles et médifixes, à petit acumen aigu au sommet qui dépasse un peu l'échancrure des lobes. Style glabre assez robuste, à peine plus long que le tube de la corolle, s'arquant latéralement par la fente de celle-ci; longue massue stigmatique peu sensiblement épaissie. Placenta long, échancré au sommet de part et d'autre de l'insertion, à 2 rangées d'environ 5 ovules.
-
-Fruit immature globuleux de 11 mm de diamètre et jaune ochracé tomenteux à sec, surmonté abruptement par le limbe calycinal tubuleux cylindrique; graines immatures au nombre de trois.
+Immature fruit globose 11 mm diam. and yellow ochraceus tomentose when dry, abruptly surmounted by the tubular cylindric calycine limb; immature seeds three in number.
 
 ## Type
 
@@ -38,11 +34,9 @@ Talbot 1546, Oban, Nigeria (BM!; isotype K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The curious zygomorphy of this species as of the following one, is not without analogy with numerous flowers of Loranthaceae; it would be interesting to pursue the comparison on the plane of floral biology.
 
-La curieuse zygomorphie de cette espèce comme de la suivante, n'est pas sans analogie avec de nombreuses fleurs de Loranthacées; il serait intéressant de pousser la comparaison sur le plan de la biologie florale.
-
-Nigeria, Cameroun et Gabon.
+Nigeria, Cameroon and Gabon.
 
 ## Specimens examined
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+D. reflexa Lam. var. nitens (Welw. ex Baker) Baker in Dyer, Fl. trop. Afr. 7 : 441 (1898). D. reflexa Lam. var. buchneri Engl., Bot. Jahrb. Syst. 32 : 96 (1902). Pleomele nitens (Welw. ex Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Shrub or tree reaching 27 m in height; trunk up to 60 cm in diameter; bark pale brown, superficially fissured longitudinally, cut light green, white on the inside, green on the outside, with white sap. Leaves spiral, densely arranged along the branches, sometimes restricted to the extremities, leaving the stem visible between the sheaths; sheath embracing the stem for just less than half the circumference, over a length of < 1 cm, leaf scar lunulate; pseudapetiole absent; blade linear to narrowly elliptic, up to 32 × 1.5 cm, base cuneate, abruptly widening in the sheath, apex acuminate, mucronate for ± 2 mm, coriaceous, upper surface dark green shiny, lower surface medium green with prominent midvein. Inflorescence erect, in a panicle with numerous branches, up to 40 × 30 cm, with smooth axes, reddish-green to orange; bracts rapidly caducous, subtending the branches, narrowly ovate, up to 25 × 5 mm, decreasing in size towards the apex, membranous; fascicles with up to 6 flowers, each subtended by a small caducous bract, triangular, up to 4 mm in length, scarious; floral bracts
 
-D. reflexa Lam. var. nitens (Welw. ex Baker) Baker in Dyer, Fl. trop. Afr. 7 : 441 (1898) . D. reflexa Lam. var. buchneri Engl., Bot. Jahrb. Syst. 32 : 96 (1902). Pleomele nitens (Welw. ex Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Arbuste ou arbre atteignant 27 m de hauteur ; tronc jusqu’à 60 cm de diamètre ; écorce brun pâle, superficiellement fissurée longitudinalement, entaille vert clair, blanche à l’inté rieur, verte à l’extérieur, avec sève blanche. Feuilles spiralées , densément réparties le long des branches, parfois restreintes aux extrémités, laissant la tige visible entre les gaines ; gaine embrassant la tige sur un peu moins que la moitié de la circonférence , sur une longueur de < 1 cm, cicatrice foliaire lunulée ; pseudopétiole absent ; limbe linéaire à étroitement elliptique, jusqu’à 32 × 1,5 cm , base cunéée, s’élargissant abruptement dans la gaine, sommet acuminé, mucroné sur ± 2 mm, coriace, face supérieure vert foncé brillant, face inférieure vert moyen et nervure médiane proéminente. Inflorescence dressée, en panicule à nombreuses branches , jusqu’à 40 × 30 cm, à axes lisses, vert rougeâtre à orange ; bractées rapidement caduques, sous-tendant les branches, étroitement ovales, jusqu’à 25 × 5 mm, diminuant de taille vers le sommet, membraneuses ; fascicules avec jusqu’à 6 fleurs , chacun sous-tendu par une petite bractée caduque, triangulaire, jusqu’à 4 mm de longueur, scarieuse ; bractées florales
+A B D C E Fruits spherical to obloid. – Dracaena phanerophlebia (cult., Burgers Bush, Netherlands): D, General aspect with pseudapetiolate leaves. – Dracaena phrynioides (cult., Wageningen University, Netherlands): E, Capitate and bracteate inflorescence. (Photos A by Xander M. van der Burgt © ; B, C by W. Joost van der Burg © ; D, E by Theo H.J. Damen ©).
 
-A B D C E Fruits sphériques à obloïdes. – Dracaena phanerophlebia (cult., Burgers Bush, Pays-Bas) : D, Aspect général avec feuilles pseudopétiolées. – Dracaena phrynioides (cult., Wageningen University, Pays-Bas): E, Inflorescence capitulée et bractéifère. (Photos A par Xander M. van der Burgt © ; B, C par W. Joost van der Burg © ; D, E par Theo H.J. Damen ©).
-
-obscures. Fleur très odorante ; pédicelle jusqu’à 6 mm, articulé jusqu’à 5 mm de la base ; périanthe 23–37 mm de longueur , blanc à blanc verdâtre, parfois violacé, lobes plus longs que le tube, étalés à réfléchis ; étamines insérées près de la gorge, jusqu’à 1,5 mm plus courtes que les lobes, filet blanc, filiforme, anthère ± 2,5 mm de longueur ; ovaire oblong, jusqu’à 2 × 1 mm ; style exsert sur jusqu’à 3 mm, blanc, stigmate ± 0,5 mm de diamètre. Fruit sphérique à obloïde , jusqu’à 25 mm de diamètre, entier à superficiellement 2- ou 3-lobé, orange à rouge ; réceptacle jusqu’à 4 mm de longueur. Graine sphérique à ellipsoïde, ± 14 × 13 mm.
+obscure. Flower very fragrant; pedicel up to 6 mm, articulate up to 5 mm from the base; perianth 23–37 mm in length, white to greenish white, sometimes tinged violet, lobes longer than the tube, spreading to reflexed; stamens inserted near the throat, up to 1.5 mm shorter than the lobes, filament white, filiform, anther ± 2.5 mm in length; ovary oblong, up to 2 × 1 mm; style exsert for up to 3 mm, white, stigma ± 0.5 mm in diameter. Fruit spherical to obloid, up to 25 mm in diameter, entire to superficially 2- or 3-lobed, orange to red; receptacle up to 4 mm in length. Seed spherical to ellipsoid, ± 14 × 13 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo, République centrafricaine, République démocratique du Congo et Angola ; au Gabon, connu de l’Estuaire, du Haut-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo, de l’Ogooué-Lolo, de l’Ogooué-Maritime et du WoleuNtem
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon, known from Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu–Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts marécageuses, savanes arborées, lisières de forêt ; au Gabon à 0–800 m d’altitude, ailleurs à 0–1200 m. Floraison enregistrée en août et octobre. Usage : L’espèce est plantée à proximité des villages. L’écorce est utilisée dans le traitement des problèmes présents pendant la grossesse et attribués à des « origines mystiques »
+swampy forests, wooded savannas, forest margins; in Gabon at 0–800 m altitude, elsewhere at 0–1200 m. Flowering recorded in August and October. Use: The species is planted near villages. The bark is used in the treatment of problems occurring during pregnancy and attributed to "mystical origins"
 
 ## Vernacular names
 
@@ -43,9 +37,7 @@ bango (téké), munguengui (ipunu), oghoubé (mitsogho)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voyez la note sous D. mannii. Figueiredo (2008) a mentionné cette espèce sous D. mannii. B : Baker (1898), Damen et al. (2018), Figueiredo (2008). i B liographie
+See the note under D. mannii. Figueiredo (2008) mentioned this species under D. mannii. B : Baker (1898), Damen et al. (2018), Figueiredo (2008). Bibliography
 
 ## Notes
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Ann. Mus. Congo, Bot., ser. 2, Contr. Fl. Congo 1 (2) : 19 (1900); ser. 3, Reliq. Dewevr. 2 : 81 (1901); ser. 1, Ill. Fl. Congo 1 (8) : 185, tab. 93 (1902); De Wild., BJBB 7 : 201 (1920); Haum., FCB 3 : 48 (1952); Tiss. & SILL., Not. Syst. 15 (2) : 208 (1956), p.p., quoad var. seretii (De Wild.) Haum.
 
-Nota : Engler, Pflanzenw. Afr. 3 (1) : 308 (1915) a omis de citer cette espèce pour le genre Acioa.
+Note: Engler, Pflanzenw. Afr. 3 (1) : 308 (1915) omitted to cite this species for the genus Acioa.
 
 — A. seretii De Wild., Ann. Mus. Congo 5, Et. Fl. Bas Moy. Congo 2 : 254 (1908) ('sereti').
 
 — A. dewevrei var. seretii (De Wild.) Haum., FCB 3 : 50 (1952).
 
-— A. vanhouttei DE WILD., l.c. : 255 (1908).
+— A. vanhouttei De Wild., l.c. : 255 (1908).
 
 — A. dewevrei var. vanhouttei (De Wild.) Haum., l.c. : 50 (1952).
 
@@ -37,17 +35,15 @@ Nota : Engler, Pflanzenw. Afr. 3 (1) : 308 (1915) a omis de citer cette espèce 
 
 — A. brazza De Wild., BJBB 7 : 202 (1920) ('brazzai'), syn.nov.
 
-— A. unwinii auct. non De Wild. : KEAY, FWTA, ed. 2, 1 (2) : 433 (1958), p.p., quoad specim. Nigerix.
+— A. unwinii auct. non De Wild. : Keay, FWTA, ed. 2, 1 (2) : 433 (1958), p.p., quoad specim. Nigeria.
 
-Cette espèce n'a été récoltée qu'une seule fois au Cameroun et seulement en fruits; elle paraît à ce jour absente du Gabon. Les caractères des stipules, des feuilles, de la pubescence et des drupes permettent de classer l'échantillon camerounais parmi Acioa dewerei De Wild. & Th. Dur., sans qu'il soit possible, en l'absence de pédicelles et de bractéoles en particulier, de le rattacher spécialement à l'une des variétés décrites par HAUMAN (mais voir « Notes taxonomiques » ci-dessous au sujet de ces variétés). Les caractères ci-après concernent donc l'échantillon en cause; sont indiqués en outre, entre parenthèses, les caractères spécifiques d'Acioa dewerei De Wild. & Th. Dur. mentionnés par HAUMAN et observés sur quelques échantillons zaïrois, mais aussi congolais et nigerians.
+This species has been collected only once in Cameroon and only in fruit; it appears to date to be absent from Gabon. The characters of the stipules, leaves, pubescence and drupes allow the Cameroonian specimen to be classified among Acioa dewevrei De Wild. & Th. Dur., without it being possible, in the absence of pedicels and bracteoles in particular, to relate it specifically to any one of the varieties described by Hauman (but see "Taxonomic Notes" below concerning these varieties). The characters below therefore concern the specimen in question; also indicated, in parentheses, are the specific characters of Acioa dewevrei De Wild. & Th. Dur. mentioned by Hauman and observed on a few Zairean specimens, but also Congolese and Nigerian ones.
 
-Liane s'élevant à 5 m de hauteur (caractère aussi relevé par Tisserant pour un échantillon n° 2429 de Centrafrique, alors que HAUMAN parle d'arbuste (de même au Nigeria) divisé dès la base ou de petit arbre atteignant 15 m de hauteur, et Bouquet (cf. Propriétés et usages ci-après) ainsi que THOLLON (n° 4029), d'arbre. Jeunes pousses couvertes d'une pubescence villeuse, jaunâtre, assez dense. Stipules linéaires, 3 mm. Pétiole 3-4 mm, hispidule puis glabrescent. Limbe elliptique (ovale)-oblong, parfois lancéolé, (4)-5-7 × (8)-10-13 cm; base obtuse à arrondie (voire subcordée) ; sommet obtus (parfois aigu), acumen delté, 0,5 cm; nervure médiane tomentelleuse puis glabrescente dessus, avec poils épars (éparsement pubescente à glabrescente dessous); nervures latérales environ 6 paires, également avec quelques poils épars; quelques glandes circulaires disséminées sur le pourtour du limbe dessous, à environ 0,5 cm de la marge, surtout vers le sommet de l'acumen; parfois 2 glandes plus importantes au-dessus mais à l'écart de la base du limbe.
+Liane rising to 5 m in height (a character also noted by Tisserant for a specimen no. 2429 from Central Africa, whereas Hauman speaks of a shrub (similarly in Nigeria) branching from the base or a small tree reaching 15 m in height, and Bouquet (see Properties and uses below) as well as Thollon (no. 4029), of a tree. Young shoots covered with rather dense, yellowish, villous pubescence. Stipules linear, 3 mm. Petiole 3–4 mm, hispidulous then glabrescent. Lamina elliptic (ovate)-oblong, sometimes lanceolate, (4)–5–7 × (8)–10–13 cm; base obtuse to rounded (or even subcordate); apex obtuse (sometimes acute), deltoid acumen, 0.5 cm; midvein tomentulose then glabrescent above, with scattered hairs (sparsely pubescent to glabrescent below); lateral veins approximately 6 pairs, also with some scattered hairs; some circular glands scattered around the margin of the lamina below, at approximately 0.5 cm from the margin, especially toward the apex of the acumen; sometimes 2 larger glands above but distant from the base of the lamina.
 
-(Racèmes atteignant 12 cm de longueur avec pédoncule de 4 cm, garni de nombreuses fleurs de petite taille, très denses surtout vers le sommet; axe, pédicelles, réceptacles, extérieur des sépales éparsement pubérulents ou pubescents, voire densément hispidules. Bractées ovales, aiguës, ± 2 mm, munies de 6-8 glandes marginales ± stipitées, 0,5-1(-1,5) mm particulièrement vers le bas; portion des pédicelles sous l'articulation relativement très courte, 5 mm; bractéoles subopposées, palmatiséquées et garnies de ± 5 (parfois 10) glandes stipitées, 0,5-1(-1,5) mm, la portion terminale articulée du pédicelle subnulle ou dépassant nettement le sommet de la bractéole supérieure; articulation avec anneau de poils. Pédicelle de la fleur désarticulée 3-5 mm. Réceptacle 6-10 mm, étroitement obconique et très nettement gibbeux à la base, légèrement pubescent; sépales 4-5 mm, ± glabrescents pour les parties exposées à l'extérieur dans le bouton, quelques glandes marginales sessiles, substitées ou souvent nettement stipitées; pétales blancs, environ 5 mm de hauteur; androcée 20-25 mm, environ 15 filets.)
+(Racemes reaching 12 cm in length with peduncle 4 cm, bearing numerous small, very dense flowers especially toward the apex; axis, pedicels, receptacles, exterior of sepals sparsely puberulous or pubescent, or even densely hispidulous. Bracts ovate, acute, ± 2 mm, bearing 6–8 marginal glands ± stipitate, 0.5–1(–1.5) mm especially toward the base; portion of pedicels below the articulation relatively very short, 5 mm; bracteoles subopposite, palmatisected and bearing ± 5 (sometimes 10) stipitate glands, 0.5–1(–1.5) mm, the articulated terminal portion of the pedicel subnull or clearly exceeding the apex of the upper bracteole; articulation with a ring of hairs. Pedicel of the detached flower 3–5 mm. Receptacle 6–10 mm, narrowly obconic and very clearly gibbous at the base, slightly pubescent; sepals 4–5 mm, ± glabrescent for the parts exposed on the outside in the bud, some sessile marginal glands, substitute or often clearly stipitate; petals white, approximately 5 mm in height; androecium 20–25 mm, approximately 15 filaments.)
 
-Infrutescences terminales ou axillaires; axe éparsement villeux, 6-8 cm;
-
-quelques pédoncules fructifères par infrutescence, longs de 15-20 cm, éparsement villeux également. Drupe ellipsoïde, brièvement conique stipitée à la base, obtuse au sommet,  $ 18 \times 25 $ mm (in sicco) (fide Hauman,  $ 20 \times 30 \times 50 $ mm, in vivo vraisemblablement), à surface jaune doré veloutée avec poils hispidules jaunâtres. — PL. 6, p. 27.
+Terminal or axillary infructescences; axis sparsely villous, 6–8 cm; a few fertile peduncles per infructescence, 15–20 cm long, also sparsely villous. Drupe ellipsoid, briefly conical stipitate at the base, obtuse at the apex, $ 18 \times 25 $ mm (in sicco) (fide Hauman, $ 20 \times 30 \times 50 $ mm, in vivo presumably), with golden-yellow velvety surface with yellowish hispidulous hairs. — PL. 6, p. 27.
 
 ## Type
 
@@ -55,29 +51,25 @@ Dewèvre 743, Zaïre (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-NOTES TAXONOMIQUES :
+1) The syntypes Thollon 565 and 4029 (P!) from Congo that served to define Acioa brazza De Wild. are referable for the first to var. seretii (De Wild.) Haum., for the second to var. dewevrei; as Hauman mentions, the 4 varieties recognized by this author (dewevrei, reygaertii, seretii, vanhouttei) are quite fluctuating and it appears undeniable that one can thus place Acioa brazza De Wild. in synonymy with Acioa dewevrei De Wild. & Th. Dur.
 
-1) Les syntypes Thollon 565 et 4029 (P!) du Congo ayant servi à définir Acioa brazze De Wild. se rattachent pour le premier à la var. seretii (De Wild.) Haum., pour le second à la var. dewevrei; comme le mentionne HAUMAN, les 4 variétés reconnues par cet auteur (dewevrei, reygaertii, seretii, vanhouttei) sont assez fluctuantes et il paraît incontestable que l'on puisse ainsi placer Acioa brazze De Wild. en synonymie avec Acioa dewevrei De Wild. & Th. Dur.
+2) Hauman (l.c.), after De Wildeman (l.c.), attempted to distinguish 4 varieties (dewevrei, vanhouttei, reygaertii, seretii), while noting the existence of intermediate forms between var. dewevrei and vanhouttei, as well as noting the inconstancy of vein pubescence for var. reygaertii and seretii. The 3 latter varieties are established on few specimens, geographically scattered and these varieties scarcely differ in their ecological behavior, apparently.
 
-2) HAUMAN (I.c.), après DE WILDEMAN (I.c.), a essayé de distinguer 4 variétés (dewevre, vanhouttei, reygaertii, seretii), tout en signalant l'existence de formes intermédiaires entre les var. dewevre et vanhouttei, ainsi qu'en notant l'inconstance de la pubescence des nervures pour les var. reygaertii et seretii. Les 3 dernières variétés sont établies sur des échantillons peu nombreux, géographiquement disséminés et ces variétés ne se différencient guère par leur comportement écologique, en apparence.
+The study of specimens that should undoubtedly be referred to Acioa dewevrei De Wild. & Th. Dur., from Central Africa and Congo, does not simplify the problem of infraspecific divisions of this species because these specimens also present intermediate and overlapping characters; from a phytogeographic standpoint however, just like the Zairean specimens, they still originate from the Zaire basin (sometimes quite far from the river, as with the known Cameroonian specimen) and behave ecologically in an analogous manner (see below "Phytogeographic Notes").
 
-L'étude d'échantillons que l'on doit incontestablement rattacher à Acioa dewevre! De Wild. & Th. Dur., provenant de Centrafrique et du Congo, ne simplifie pas le problème des divisions infraspecifiques de cette espèce car ces spécimens présentent eux aussi des caractères intermédiaires et chevauchants; au point de vue phytogéographique cependant, tout comme les échantillons zaïrois, ils proviennent encore du bassin du Zaïre (parfois assez loin du fleuve, tout comme l'échantillon camerounais connu) et se comportent écologiquement d'une manière analogue (voir ci-après « Notes phytogéographiques »).
+One is obliged, it seems, to refer to Acioa dewevrei De Wild. & Th. Dur. specimens (!) from the herbaria of Kew and Oxford: Kennedy 1961, 2053, 2058 and 2606, Lowe 2274, Ross 310, Emwiogbon FHI 63054, which all originate from the Sapoba region in Nigeria; to date these specimens have been considered as Acioa smeathmannii Baill. (= A. parvifolia Engl., = A. unwinii De Wild.) from Sierra Leone, but they differ from it by the form of the leaf, the hispidulous pubescence, particularly on the receptacle and sepals; despite some resemblances they also diverge from Acioa johnstonei Hoyle from the western mountains of Cameroon, essentially by simple rather than compound racemes. It is difficult to refer them, individually or collectively, to one or another of Hauman's varieties, because they also present intermediate and overlapping characters. The geographic localization of these Nigerian specimens (Sapoba), in a zone of dense humid evergreen forest, represents a difficult-to-explain anomaly in the current state of knowledge.
 
-On se trouve obligé, semble-t-il, de rapporter à Acioa dewevrei De Wild. & Th. Dur. des échantillons (!) des herbiers de Kew et d'Oxford : Kennedy 1961, 2053, 2058 et 2606, Lowe 2274, Ross 310, Emwiogbon FHI 63054, qui proviennent tous de la région de Sapoba en Nigeria; jusqu'à ce jour ces échantillons ont été considérés comme Acioa smeathmannii Baill. (= A. parvifolia Engl., = A. unwinii De Wild.) de Sierra Leone, mais ils en différent par la forme de la feuille, la pubescence hispidule, en particulier sur le réceptacle et les sépales; malgré quelques ressemblances ils s'éloignent aussi d'Acioa johnstonei Hoyle des montagnes occidentales camerounaises, essentiellement par les racèmes simples et non composés. Il est difficile de les rattacher, individuellement ou collectivement, à l'une ou l'autre des variétés d'Hauman, car ils présentent eux aussi des caractères intermédiaires et chevauchants. La localisation géographique de ces échantillons nigérians (Sapoba), en zone de forêt dense humide sempervrente, représente une anomalie difficilement explicable dans l'état des connaissances.
+3) The variability of the species in question relates essentially to habit, the form of leaves and their base, the pubescence of veins and that of inflorescences, the number of bracteolar glands and the length of their stipites, the length of the pedicel above the insertion of the bracteoles, the marginal glands of the sepals. The assembly of much more abundant material will perhaps allow these characters to be grouped, and morphology, distribution and ecology to be coordinated to clarify possible infraspecific divisions of this species, which appears reasonably impossible at the present time.
 
-3) La variabilité de l'espèce en cause porte essentiellement sur le port, la forme des feuilles et de leur base, la pubescence des nervures et celle des inflorescences, le nombre de glandes bractéolaires et la longueur de leurs stipes, la longueur du pédicelle au-dessus de l'insertion des bractéoles, les glandes marginales des sépales. Le rassemblement d'un matériel beaucoup plus abondant permettra peut-être de grouper ces caractères, de coordonner morphologie, distribution et écologie pour clarifier des divisions infraspécifiques éventuelles de cette espèce, ce qui paraît raisonnablement impossible à l'heure actuelle.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Acioa dewevrei De Wild. & Th. Dur., sous ses diverses formes, a donc été rencontrée dans l'Est du Cameroun, au long de la Kadéi, et existe en Centrafrique, au Zaïre et au Congo. Partout elle affectionne les forêts humides, marécageuses ou de bordure de rivières, et paraît se rencontrer essentiellement, semble-t-il, dans les zones de forêts de type semi-décidu, se retrouvant aussi dans les zones de savanes voisines, au sein de galeries forestières. Sa présence au Nigeria (Sapoba), comme mentionné ci-dessus (cf. « Notes taxonomiques », paraît une anomalie inexpliquée à ce jour.
+Acioa dewevrei De Wild. & Th. Dur., in its various forms, has thus been encountered in eastern Cameroon, along the Kadéi, and exists in Central Africa, Zaire and Congo. Everywhere it favors humid, swampy or river-edge forests, and appears to be encountered essentially, it seems, in zones of semi-deciduous forest type, also found in the zones of neighboring savannas, within forest galleries. Its presence in Nigeria (Sapoba), as mentioned above (see "Taxonomic Notes"), appears an unexplained anomaly to date.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-BOUQUET, Féticheurs et médecines traditionnelles du Congo-Brazzaville : 203 (1969), indique que la poudre d'écorce de cet arbre (sous le nom d'Acioa brazze De Wild.) est utilisée, additionnée d'huile de palme, pour frictionner les courba-tures fébriles
+Bouquet, Féticheurs et médecines traditionnelles du Congo-Brazzaville: 203 (1969), indicates that the powder of bark of this tree (under the name Acioa brazza De Wild.) is used, mixed with palm oil, to rub down febrile body aches.
 
 ## Specimens examined
 

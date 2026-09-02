@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pilger, Schlechter, West. Afr. Kautschuk. Exped.: 269 (nomen). — De Wild. Ann. Mus. Congo B. sér. V, II: 15 (1907) (nomen). — Koechlin, Bull. Soc. Bot. France, 108, 5-6 (1961).
 
-Herbe pérenne (?, base inconnue), chaumes robustes portant aux nœuds des fascicules denses d'innovations et de chaumes florifères atteignant 25 à 40 cm de long. Feuilles à gaines imbriquées glabres, limbes distiques, raides, généralement enroulés, atteignant une vingtaine de centimètres de long, et 3 à 4 mm de large. Ligule réduite à une frange de cils très courts.
+Perennial herb (?, base unknown), robust culms bearing at the nodes dense fascicles of innovations and floriferous culms reaching 25 to 40 cm long. Leaves with imbricate sheaths glabrous, distichous blades, stiff, generally rolled, reaching about twenty centimetres long, and 3 to 4 mm wide. Ligule reduced to a fringe of very short cilia.
 
-Panicule spiciforme lâche de 10-15 × 2-3 cm, branches secondaires ramiﬁées dès leur base ou presque. Épillets de teinte vert-olive, de 5 à 10 mm de long et environ 2 mm de large, de 6 à 15 ﬂeurs caduques à partir de la base, paléas persistantes. Glumes à 1 nervure, carène scabre, subégales, d'environ 1,5 mm de long. Lemmas sub-obtuses, à 3 nervures, carène scabre vers le haut, d'environ 2 mm de long, Paléas un peu plus courtes, carènes courtement ciliées.
+Spiciform panicle lax, 10–15 × 2–3 cm, secondary branches ramified from their base or nearly so. Spikelets of olive-green tint, 5 to 10 mm long and about 2 mm wide, of 6 to 15 flowers caducous from the base, paleae persistent. Glumes with 1 nerve, keel scabrous, subequal, about 1.5 mm long. Lemmas sub-obtuse, with 3 nerves, keel scabrous toward the apex, about 2 mm long. Paleae somewhat shorter, keels shortly ciliate.
 
-Outre le Gabon, cette espèce est signalée sur la côte du Congo, à Moanda et Banane; elle colonise probablement des dépressions humides dans la zone littorale.
+Besides Gabon, this species is recorded from the Congo coast, at Moanda and Banane; it probably colonizes humid depressions in the littoral zone.
 
 ## Specimens examined
 

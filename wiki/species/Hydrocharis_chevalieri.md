@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious herb, 25–60 cm tall; stolons long and robust, creeping in the sediment, without hibernacles. Stipule 1, median, 3–5 × ± 2 cm. Leaves erect above water; petiole 8–58 cm; blade broadly ovate to suborbicular or broadly reniform, (4–)6–13(–25) × (3.5–)6–13(–15) cm, with base rounded-truncate to deeply cordate, with apex rounded to acuminate, thick, dark green on upper surface, paler on lower surface; primary veins 11 to 15. Inflorescence: peduncle 2–11 cm; spathes lanceolate, 1.5–4.5 cm in length. Flower just at the water level; sepals ovate, 8–10(–16) × 4–5 mm, obtuse, yellowish-green to ochraceous, marked with small red streaks; petals semi-erect, elliptic, reaching 32 mm in length, ± curled in their upper part, very delicate, white, but sulphur-yellow at the base. Male flower: stamens usually 18 in 6 cycles, those of the 4 outer cycles fertile, those of the 2 inner cycles staminodial, filaments of the stamens of the 5th cycle fused radially in pairs to the filaments of the 3rd cycle, those of the 6th fused to those of the 4th, anthers oblong, obtuse, glabrous; pistillode ± 0.75 mm in length. Female flower: sta–
 
-Herbe dioïque, 25–60 cm de hauteur ; stolons longs et robustes, rampants dans le sédiment, sans hibernacles. Stipule 1, médiane, 3–5 × ± 2 cm. Feuilles dressées hors de l’eau ; pétiole 8–58 cm ; limbe largement ovale à suborbiculaire ou largement réniforme , (4–)6–13(–25) × (3,5–)6–13(–15) cm, à base arrondie-tronquée à profondément cordée , à sommet arrondi à acuminé, épais, vert sombre à la face supérieure, plus pâle à la face inférieure ; nervures principales 11 à 15. Inflorescence : pédoncule 2–11 cm ; spathes lancéolées, 1,5–4,5 cm de longueur. Fleur affleurant juste au-dessus du niveau de l’eau ; sépales ovales, 8–10(–16) × 4–5 mm, obtus, vert jaunâtre à ochracés, marqués de petits traits rouges ; pétales semi-dressés, elliptiques, atteignant 32 mm de longueur , ± frisés dans leur partie supérieure, très délicats, blancs, mais jaune soufre à la base. Fleur mâle : étamines ordinairement 18 en 6 cycles, celles des 4 cycles extérieurs fertiles, celles des 2 cycles internes staminodiales, filets des étamines du 5 e soudés radialement par paires aux filets du 3 e cycle, ceux du 6 e soudés à ceux du 4 e , anthères oblongues, obtuses, glabres ; pistillode ± 0,75 mm de longueur. Fleur femelle : sta -
+54 Marc S.M. SOSEF Fruit (× ¾). – 11. Seed (× 12.5). (1: Louis 13363; 2, 9: Letouzey 8435; 3, 5, 7, 8: Biholong 564; 4: Tisserant 400; 6: Louis 1707; 10, 11: J.J.F.E. de Wilde 8482). Drawing by A. Fernandez, Meise Botanic Garden (©).
 
-54 Marc S.M. SOSEF Fruit (× ¾). – 11. Graine (× 12,5). (1 : Louis 13363 ; 2, 9 : Letouzey 8435 ; 3, 5, 7, 8 : Biholong 564 ; 4 : Tisserant 400 ; 6 : Louis 1707 ; 10, 11 : J.J.F.E. de Wilde 8482 ). Dessin par A. Fernandez, Jardin botanique Meise (©).
-
-Hydrocharis 55 minodes ordinairement 6, nectaires ± lobés. Fruit à pédicelle réfléchi , submergés, globuleux , 18–25 × 15–20 mm. Graines ± 2 mm de longueur.
+Hydrocharis 55 minodes usually 6, nectaries ± lobed. Fruit with reflexed pedicel, submerged, globose, 18–25 × 15–20 mm. Seeds ± 2 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bénin, Cameroun, République centrafricaine, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connu de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Benin, Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from the Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Étangs, mares, marais et anses calmes à courant faible ou quasi nul, sur fond vaseux ou sablonneux, héliophile à semi-sciaphile ; au Gabon à 290–425 m d’altitude, ailleurs jusqu’à 1285 m. Usage : En République centrafricaine, on a utilisé l’espèce pour en tirer du sel par incinération des plantes. Bi : Cook & Lüönd (1982), Pellegrin (1931), Symoens (1984), Symoens & Sosef (2015). B liographie
+Ponds, pools, marshes and calm bays with weak or virtually no current, on muddy or sandy bottom, heliophilous to semi-sciaphilous; in Gabon at 290–425 m elevation, elsewhere up to 1285 m. Use: In the Central African Republic, the species was used to extract salt by incineration of the plants. Bi: Cook & Lüönd (1982), Pellegrin (1931), Symoens (1984), Symoens & Sosef (2015). Bibliography
 
 ## Notes
 

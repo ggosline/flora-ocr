@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La foliole médiane a une base aiguë, les latérales une base obovale, toutes acuminées, mates et brunâtres.
+The median leaflet has an acute base, the lateral ones an obovate base, all acuminate, dull and brownish.
 
 ## Type
 

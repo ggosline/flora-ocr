@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — BENTHAM, l.c. : 435. — FTA 4 (1) : 512. — JOVET, Bull. Hist. Nat. Toulouse 82 : 18 (1948). — FTEA, Loganiaceæ : 44, fig. 8, 7-8. — VERDOORN in FSA 26 : 156, fig. 19.2, 20, 21 (1963). — FWTA ed. 2, 2 : 46, fig. 211.
 
 — Lachnopylis congesta (R. Br. ex Fres.) C. A. Smith, Kew Bull. : 17 (1930).
@@ -29,11 +27,11 @@ tags: [species, generated]
 
 — L. guineensis Hutch. & M. B. Moss, FWTA ed. 1, 2 : 20. — Kew Bull. : 61 (1937).
 
-Arbre ou arbuste de 2-25 m de hauteur, glabre ou poilu avec pubescence variable; tronc de 5-100 cm de diamètre, sans contreforts ou échasses; écorce gris-brun pâle; aubier brun; bois dur, blanchâtre.
+Tree or shrub 2–25 m tall, glabrous or hairy with variable pubescence; trunk 5–100 cm in diameter, without buttresses or stilts; bark pale greyish-brown; sapwood brown; wood hard, whitish.
 
-Feuilles à pétiole de 3-20 mm de longueur; limbe coriace ou subcoriace, de forme et de grandeur très variables, elliptique, étroitement elliptique, obové, presque losangique ou rhombique ou rarement suborbiculaire, 1,3-3 (-5) fois plus long que large, de 2-15 × 1,2-7,5 cm, acuminé à émargine au sommet, cuné ou moins souvent arrondi à la base, ou décurrent sur le pétiole, entier, ou parfois plus ou moins nettement denticulé; feuilles d'ombre vert plus foncé, herbacées, dentées et plus poilues.
+Leaves with petiole 3–20 mm long; blade coriaceous or subcoriaceous, of highly variable shape and size, elliptic, narrowly elliptic, obovate, almost rhombic or rhombic or rarely suborbicular, 1.3–3 (–5) times longer than wide, 2–15 × 1.2–7.5 cm, acuminate to emarginate at apex, cuneate or less often rounded at base, or decurrent on the petiole, entire, or sometimes more or less distinctly denticulate; shade leaves darker green, herbaceous, dentate and more hairy.
 
-Inflorescences semblables à des ombelles ou à des panicules, contractées ou assez lâches. Fleurs odorantes, solitaires ou par trois; pédicelles très courts ou nuls. Calice vert, souvent visqueux, de 3-8 × 1,5-2,2 mm, à lobes de 0,5-2 × 1-1,5 mm. Corolle blanche, à pubescence externe recourbée sur les lobes, parfois réduite à quelques poils ou plus rarement nulle. Pl. 12 et 13, p. 40 et 41.
+Inflorescences resembling umbels or panicles, contracted or fairly lax. Flowers fragrant, solitary or in threes; pedicels very short or absent. Calyx green, often viscid, 3–8 × 1.5–2.2 mm, with lobes 0.5–2 × 1–1.5 mm. Corolla white, with external pubescence curved over the lobes, sometimes reduced to a few hairs or more rarely absent. Pl. 12 and 13, p. 40 and 41.
 
 ## Type
 
@@ -41,9 +39,7 @@ non désigné
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et australe. Forêts de montagnes; espèce souvent dominante ou codominante; en brousse et en savane par pieds isolés, formant reliquats de forêts détruites. Altitude 1100-3000 m.
+Tropical and southern Africa. Mountain forests; species often dominant or codominant; in bushland and savanna as isolated trees, forming relict patches of destroyed forests. Altitude 1100–3000 m.
 
 ## Specimens examined
 

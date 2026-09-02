@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in OLIV., FTA 1:427 (1868).
 
 — Phialodiscus unijugatus (BAK.) RADLK., Sitzungsber. Bayer. Akad. Wiss. München 9 : 539 (1879).
@@ -28,9 +26,9 @@ in OLIV., FTA 1:427 (1868).
 
 — Phialodiscus verschuerenii De Wild., l.c. : 361.
 
-Arbre de 25 m, de 60-80 cm de diamètre, à cime en boule (HAUMAN, LETOUZEY); jeunes rameaux striés, pubérulents puis glabrescents, de 3-4 mm de diamètre. Feuilles 1-4-juguées, dont les folioles basales, plus petites, 5-6 × 2,5-3 cm, miment des stipules tant elles sont proches de la base du pétiole; rachis 0-6 cm; folioles supérieures, 10-20 × 2-8 cm, à 9-10 paires de nervures, elliptiques lancéolées, subcoriaces, glabres avec de petites domaties à l'aisselle des nervures secondaires.
+Tree 25 m tall, 60–80 cm in diameter, with a globose crown (HAUMAN, LETOUZEY); young branchlets striated, puberulent then glabrescent, 3–4 mm in diameter. Leaves 1–4-jugate, the basal leaflets smaller, 5–6 × 2.5–3 cm, mimicking stipules so close are they to the base of the petiole; rachis 0–6 cm; upper leaflets, 10–20 × 2–8 cm, with 9–10 pairs of veins, elliptic-lanceolate, subcoriaceous, glabrous with small domatia at the axil of the secondary veins.
 
-Inflorescences axillaires ou terminales, de 3-8 cm, en grappes simples ou ramiíées, portant des cymules sessiles de 1-3 fleurs; pédicelle de 5 mm. Sépales 2 mm, pubérulents à l'extérieur; pétales 1,5 mm, à écaille tomenteuse plus grande que le limbe pubérulent; disque glabre en couronne, avec impression des 5 pétales et des 8 étamines. Fruit de 15-25 mm. Graines noires, 6-8 × 4 mm; arille jaune vif, en cupule jusqu'au tiers ou la moitié de la hauteur. PL. 43, 8-15', p. 185.
+Inflorescences axillary or terminal, 3–8 cm, in simple or branched racemes, bearing sessile cymules of 1–3 flowers; pedicel 5 mm. Sepals 2 mm, puberulent on the outside; petals 1.5 mm, with a tomentose scale larger than the puberulent limb; disk glabrous in a corona, with impression of the 5 petals and 8 stamens. Fruit 15–25 mm. Seeds black, 6–8 × 4 mm; aril bright yellow, in a cup to one-third or one-half of the height. PL. 43, 8–15', p. 185.
 
 ## Type
 
@@ -38,9 +36,7 @@ Mann 760, Gabon (K, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce reconnue depuis la Sierra Leone, la Côte d'Ivoire jusqu'à l'Angola et au Kenya, par le Dahomey, le Nigeria, le Cameroun, le Tchad, la République Centrafricaine, le Gabon, le Congo, le Zaïre.
+Species recognized from Sierra Leone, Ivory Coast to Angola and Kenya, through Dahomey, Nigeria, Cameroon, Chad, Central African Republic, Gabon, Congo, Zaire.
 
 ## Figures
 

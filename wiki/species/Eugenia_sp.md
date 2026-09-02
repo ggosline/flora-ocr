@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub? Branches rounded, glabrous and smooth. Leaves shortly petiolate, elliptic, attenuate at the base, acuminate at the apex, 4–5 cm long, 2–3 cm wide, glabrous. Petiole only 1–2 mm long. Flowers agglomerate, glabrous, sessile, axillary, sometimes on defoliate nodes. Sepals rounded, somewhat unequal, ca. 1.5 mm long.
 
-Arbuste? Rameaux arrondis, glabres et lisses. Feuilles courtement pétiolées, elliptiques, atténuées à la base, acuminées au sommet, de 4-5 cm de long, 2-3 cm de large, glabres. Pétiole ayant seulement 1-2 mm de long. Fleurs agglomérées, glabres, sessiles, axillaires, parfois sur des nœuds défeuillés. Sépales arrondis, un peu inégaux, d'env. 1,5 mm de long.
+Le Testu: 9054, Bicoundom, North Gabon (fl. March).
 
-Le Testu : 9054, Bicoundom, Nord Gabon (fl. mars).
-
-Il n'est pas possible pour le moment de rapporter ce spécimen à une espèce définie.
+It is not possible at present to refer this specimen to a defined species.
 
 ## Also treated in vol 11
 
 **Pages**: 33-34 · **Source**: `sources/Myrtaceae_vol11_paddle`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Very low shrub, 45 cm high. Young branches glabrous, pustulous-lenticellate. Leaves elliptic or obovate, attenuate at the base, acuminate at the apex, 6–9 cm long and 3–5 cm wide, glabrous; marginal nerves impressed above, salient below. Petiole ca. 2 mm long. Flowers solitary, situated on the internodes; pedicels very short. Ovary glabrous. Sepals and petals pink, petals 3.5 mm long.
 
-Arbrisseau très bas, de 45 cm de haut. Jeunes rameaux glabres, pustuleux-lenticellés. Feuilles elliptiques ou obovées, atténuées à la base, acuminées au sommet, de 6-9 cm de long et 3-5 cm de large, glabres; nervures marginales imprimées en dessus-saillantes en dessous. Pétiole d'environ 2 mm de long. Fleurs solitaires, situées sur les entrenœuds; pédicelles très courts. Ovaire glabre. Sépales et pétales roses, pétales de 3,5 mm de long.
-
-N. Hallé : 711, Nkoulounga (fl. juill. 1959). Il s'agit peut, être d'une espèce nouvelle.
+N. Hallé: 711, Nkoulounga (fl. July 1959). This may be a new species.
 
 ## Notes
 

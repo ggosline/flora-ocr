@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Durand & Schinz, Consp. fl. afric. 5 : 613 (1894). Scirpus filamentosus Vahl, Enum. pl. 2 : 262 (1805). Abildgaardia filamentosa (Vahl) Lye, Bot. Not. 127 : 496 (1974). Perennial herb, fairly robust, with stems crowded along a short rhizome; stems 20–70 cm × 0.6–1 mm, glabrous or finely hairy especially at the apex. Leaf: sheath brownish with long hairs at the collar; blade 10–15 cm × 0.3–0.5 mm, very scabrous. Inflorescence in a dense head 5–15 mm in diameter, composed of 6–20 spikelets crowded and sometimes poorly distinct from one another; involucral bracts often shorter than the inflorescence, resembling the glumes but produced into a mucro. Spikelet approximately 5–8 mm long; the largest glumes 2.5–3 mm long, but the upper ones often only 1.7–2 mm long, finely hairy or scabrous, dark reddish-brown with a paler margin and a greenish central nerve terminated by a short point. Achene 0.8–0.9 × 0.6–0.7 mm, obovate, distinctly triangular, greyish, crowned by the small persistent base of the style, achene surface almost smooth, becoming finely papillose at maturity.
 
-in Durand & Schinz, Consp. fl. afric. 5 : 613 (1894). Scirpus filamentosus Vahl, Enum. pl. 2 : 262 (1805). Abildgaardia filamentosa (Vahl) Lye, Bot. Not. 127 : 496 (1974). Herbe vivace, assez robuste, avec des tiges serrées le long d’un rhizome court ; tiges de 20‒70 cm × 0,6‒1 mm, glabres ou finement poilues particulièrement en haut. Feuille : gaine brunâtre avec de longs poils au collet ; limbe de 10‒15 cm × 0,3‒0,5 mm, très scabre. Inflorescence en tête dense de 5‒15 mm de diamètre, formée de 6‒20 épillets serrés et parfois peu distincts les uns des autres ; bractées involucrales souvent plus courtes que l’inflorescence, ressemblant aux glumes, mais prolongées par un mucron. Épillet long d’environ 5‒8 mm ; les plus grandes glumes longues de 2,5‒3 mm, mais les supérieures souvent longues de 1,7‒2 mm seulement, finement poilues ou scabres, brun rougeâtre foncé avec une marge plus pâle et une nervure centrale verdâtre terminée par une pointe courte. Akène de 0,8‒0,9 × 0,6‒0,7 mm, obovale, nettement triangulaire, grisâtre, coiffé par la petite base persistante du style, surface de l’akène presque lisse, devenant finement papilleuse à maturité.
-
-Base de la plante. – C. Gaine foliaire et base du B. Base de la plante. – C. Gaine foliaire et base limbe. – D. Base de l’inflorescence. – E. Épillet. – du limbe. – D, E. Inflorescence. – F. Glume. – F. Glumes. – G. Anthère. – H. Fruit. Dessin original G. Anthère. – H. Fruit avec style et fruit mature. par Richard W. Haines ©. Dessin original par Richard W. Haines ©.
+Base of the plant. – C. Leaf sheath and base of the blade. – D. Base of the inflorescence. – E. Spikelet. – F. Glumes. – G. Anther. – H. Fruit with style and mature fruit. Original drawing by Richard W. Haines ©.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et subtropicale, du Sénégal au Soudan et vers le sud, en Afrique du Sud ; rare au Gabon, trouvée seulement dans le Haut-Ogooué (2 récoltes)
+Tropical and subtropical Africa, from Senegal to Sudan and southward, in South Africa; rare in Gabon, found only in Upper Ogooué (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les savanes ; au Gabon, à environ 400‒700 m d’altitude, jusqu’à 2300 m en Afrique de l’Est. Note taxonomique : très proche de B. scabricaulis, mais s’en différencie par les épillets plus serrés et les akènes finement papilleux, ni lisses, ni faiblement réticulés. B : Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972)
+in savannas; in Gabon, at approximately 400–700 m altitude, up to 2300 m in East Africa. Taxonomic note: very close to B. scabricaulis, but differing by more crowded spikelets and finely papillose achenes, neither smooth nor weakly reticulate. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
 ## Notes
 

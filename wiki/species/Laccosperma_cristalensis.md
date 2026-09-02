@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane frêle ; stipe circulaire à ovale en section transversale, jusqu’à 15 m, 5–8 mm de diamètre . Feuille : gaine finement striée, faiblement à modérément armée d’épines vertes, poin tant vers le bas et le haut, jeunes gaines parfois sans épines ; ochréa 3–5 mm de longueur, sèche, à sommet tronqué, verte, armée de très fines épines à pointes noires ; pétiole 3–4 cm, concave dessus, arrondi dessous, armé dessous d’épines inéquidistantes, recourbées, de 2–4 cm, noires ; rachis jusqu’à 30 cm, armé comme le pétiole ; limbe avec 5 à 8 paires de folioles inéquidistantes, généralement subéquidistantes proximalement, et distalement en paires, sigmoïdes , de 15–16 × 3–4 cm, sommet acuminé à pointe fine, marges dépourvus d’épines ; cirrhe jusqu’à 45 cm de longueur, armé comme le rachis, mais épines plus petites distalement, sans folioles-épines . Fleurs et fruits inconnus.
+Slender liane; stem circular to oval in cross-section, up to 15 m, 5–8 mm in diameter. Leaf: sheath finely striate, weakly to moderately armed with green spines, pointing downward and upward, young sheaths sometimes unarmed; ochrea 3–5 mm long, dry, truncate at apex, green, armed with very fine spines with black tips; petiole 3–4 cm, concave above, rounded below, armed below with unequidistant, curved spines, 2–4 cm, black; rachis up to 30 cm, armed like the petiole; blade with 5 to 8 pairs of unequidistant leaflets, generally subequidistant proximally, and distally in pairs, sigmoid, 15–16 × 3–4 cm, apex acuminate to finely pointed, margins unarmed; cirrus up to 45 cm long, armed like the rachis, but spines smaller distally, without spine-leaflets. Flowers and fruits unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu à ce jour uniquement du Gabon, dans le Parc national des Monts de Cristal (Es tuaire), dans le secteur Tchimbélé. Statut de conservation : Données insuffisantes (DD)
+known to date only from Gabon, in the Monts de Cristal National Park (Estuary), in the Tchimbélé sector. Conservation status: Data Deficient (DD)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-anciennes forêts secondaires, terre ferme, pente ; à ± 500 m d’altitude
+old secondary forests, terra firme, slope; at ± 500 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L. cristalensis ressemble à L. korupensis Sunderl. (non récolté au Gabon à ce jour) par l’absence (ou la quasi-absence) des folioles-épines sur le cirrhe. L. cristalensis se distingue facilement en ayant moins de folioles (5 à 8 paires contre 10 à 18) sigmoïdes et non lancéolées, du fait de l’absence d’épines sur les marges des folioles et par l’ochréa tronquée, de 35 mm de longueur, contre celle de L. korupensis longuement acuminée et de 7–10 cm de longueur. B : Couvreur & Niangadouma (2016). i B liographie
+L. cristalensis resembles L. korupensis Sunderl. (not collected in Gabon to date) by the absence (or near-absence) of spine-leaflets on the cirrus. L. cristalensis is easily distinguished by having fewer leaflets (5 to 8 pairs versus 10 to 18) that are sigmoid and not lanceolate, by the absence of spines on the leaflet margins, and by the ochrea truncate, 35 mm long, versus that of L. korupensis which is long-acuminate and 7–10 cm long. B: Couvreur & Niangadouma (2016). Bibliography
 
 ## Notes
 

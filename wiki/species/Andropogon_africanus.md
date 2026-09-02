@@ -21,9 +21,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce signalée en Oubangui et près de Brazzaville; elle a des exigences écologiques peu différentes de celles d'A. Brazzae et, comme elle, pourrait se rencontrer dans la région de Franceville.
+Species recorded in Oubangui and near Brazzaville; it has ecological requirements little different from those of A. Brazzae and, like it, could be encountered in the Franceville region.
 
 ## Notes
 

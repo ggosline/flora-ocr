@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-G. ovalifolia Oliv. var. acuminata (A.Chev.) Pellegr., Bull. Soc. Bot. France 106 : 226 (1959). G. ovalifolia Oliv. var. curvinervis (Vesque) Pellegr., Bull. Soc. Bot. France 106 : 227 (1959). G. ovalifolia Oliv. var. edeensis (Engl.) Pellegr., Bull. Soc. Bot. France 106 : 227 (1959). Arbuste ou arbre polygame, jusqu’à 25 m de hauteur ; latex jaune ; ramilles ridées longitudinalement, glabres. Feuilles opposées, glabres ; pétiole 4 ‒ 10( ‒ 12) × 1 ‒ 2 mm , canaliculé dessus, ridé transversalement, fovéa peu distincte, jusqu’à 3( ‒ 4) mm de longueur ; limbe elliptique ou lancéolé à obovale ou oblancéolé à étroitement elliptique, 3 ‒ 15 × 0,5 ‒ 6 cm, cunéé-atténué à subarrondi à la base, obtus à longuement acuminé ou acuminé-caudé au sommet avec le vrai sommet arrondi, coriace ; nervation proéminente sur les deux faces, nervures latérales nombreuses, légèrement arquées surtout près de la marge, réticulation distincte, canaux sécréteurs noires subparallèles à la nervure médiane, souvent indistinctes. Inflorescences en fascicules axillaires, pluri- à multiflores, situées sur des coussinets aux nœuds sur le vieux bois. Fleurs uni- ou parfois bisexuées, tétramères , glabres ; pédicelle 1,5 ‒ 6 mm , accrescent en fruit jusqu’à 10 mm ; sépales ovales à suborbiculaires, les externes 1 ‒ 1,5 mm de longueur, les internes 2 ‒ 2,5 mm de longueur ; pétales obovales, 3 ‒ 4 × 2 ‒ 2,5 mm, blanches. Fleur mâle : disque intrastaminal 4-lobé ; phalanges staminales 2,5 ‒ 3,5 mm de longueur, à 3( ‒ 4) étamines par phalange , filets soudés dans le ⅓ ‒ ½ inférieur , anthères ovoïdes. Fleur femelle à 4 étamines libres, alternant avec les glandes discales ; ovaire 2-loculaire ; stigmate subsessile, 2-lobé. Fruit ellipsoïde, 1,5 ‒ 2,5 × 1 ‒ 2 cm, lisse, glabre, jaune. Graines 1 ‒ 2, plano-convexes, 12 ‒ 15 × 6 ‒ 10 mm.
+G. ovalifolia Oliv. var. acuminata (A.Chev.) Pellegr., Bull. Soc. Bot. France 106 : 226 (1959). G. ovalifolia Oliv. var. curvinervis (Vesque) Pellegr., Bull. Soc. Bot. France 106 : 227 (1959). G. ovalifolia Oliv. var. edeensis (Engl.) Pellegr., Bull. Soc. Bot. France 106 : 227 (1959). Shrub or polygamous tree, up to 25 m tall; latex yellow; branchlets longitudinally wrinkled, glabrous. Leaves opposite, glabrous; petiole 4–10(–12) × 1–2 mm, channelled above, transversely wrinkled, fovea indistinct, up to 3(–4) mm long; blade elliptic or lanceolate to obovate or oblanceolate to narrowly elliptic, 3–15 × 0.5–6 cm, cuneate-attenuate to subrounded at the base, obtuse to long-acuminate or acuminate-caudate at the apex with the true tip rounded, coriaceous; venation prominent on both surfaces, lateral veins numerous, slightly arched especially near the margin, reticulation distinct, secretory canals black subparallel to the midvein, often indistinct. Inflorescences in axillary fascicles, pluriflorous to multiflorous, situated on cushions at the nodes on old wood. Flowers unisexual or sometimes bisexual, tetramerous, glabrous; pedicel 1.5–6 mm, accrescent in fruit up to 10 mm; sepals oval to suborbicular, the outer ones 1–1.5 mm long, the inner ones 2–2.5 mm long; petals obovate, 3–4 × 2–2.5 mm, white. Male flower: intrastaminal disc 4-lobed; staminal bundles 2.5–3.5 mm long, with 3(–4) stamens per bundle, filaments fused in the lower ⅓–½, anthers ovoid. Female flower with 4 free stamens, alternating with the disc glands; ovary 2-locular; stigma subsessile, 2-lobed. Fruit ellipsoid, 1.5–2.5 × 1–2 cm, smooth, glabrous, yellow. Seeds 1–2, plano-convex, 12–15 × 6–10 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée jusqu’à la République Centrafricaine, Cameroun, Gabon, République du Congo, Angola, République Démocratique du Congo, Soudan et Éthiopie ; au Gabon, connue de l’Ogooué-Ivindo (Lopé, Booué et Bélinga)
+from Guinea to the Central African Republic, Cameroon, Gabon, Republic of the Congo, Angola, Democratic Republic of the Congo, Sudan and Ethiopia; in Gabon, known from Ogooué-Ivindo (Lopé, Booué and Bélinga)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, de terre ferme ou des zones inondées ou marécageuses ou le long des rivières et ruisseaux ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 1100 m
+primary forest, of terra firme or flooded or marshy zones or along rivers and streams; in Gabon, up to 500 m altitude, elsewhere up to 1100 m
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ gouessé-gouessé, molo-gbadani, ojoli-ntchiouva, okpo, soula
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Note taxonomique : Cette espèce montre une très grande variation au niveau de la forme du limbe. Les échantillons à limbe mince et étroitement elliptique ont été séparés comme la variété edeensis , mais il existe clairement une variation continue dans ce caractère. Il est parfois difficile de distinguer cette espèce de G. smeathmannii , surtout s’il n’y a que des fleurs femelles. B : Bamps (1970a), Bamps et al. (1978), Hutchinson & Dalziel (1954), Peli B liographie legrin (1959).
+Taxonomic note: This species shows very great variation in blade shape. Specimens with thin, narrowly elliptic blade were separated as variety edeensis, but there is clearly continuous variation in this character. It is sometimes difficult to distinguish this species from G. smeathmannii, especially if only female flowers are present. Bibliography: Bamps (1970a), Bamps et al. (1978), Hutchinson & Dalziel (1954), Pellegrin (1959).
 
 ## Notes
 

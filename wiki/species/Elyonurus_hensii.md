@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs 30 to 70 cm tall, with thin, glabrous culms, numerous nodes and branched toward the apex. Leaves glabrous or sometimes more or less pubescent; ligule reduced to a ciliate line; blades linear, acuminate, scabrous on the margins, rolled, 5 to 20 cm long and approximately 3 mm wide (when flattened).
 
-Herbes de 30 à 70 cm de haut, à chaumes minces, glabres, à nombreux nœuds et ramifiés vers le haut. Feuilles glabres ou parfois plus ou moins pubescentes; ligule réduite à une ligne ciliée; limbes linéaires, acuminés, scabres sur les marges, enroulés, de 5 à 20 cm de long et environ 3 mm de large (à plat).
+Flowering branches on the upper nodes. Racemes long-pedunculate or more or less enclosed within the spatheoles, silky silvery. Rachis articles linear, 3 mm long, hirsute with hairs 3 to 4 mm long; pedicels similar, slightly shorter.
 
-Branches florifères sur les nœuds supérieurs. Racèmes longuement pédonculés ou plus ou moins enfermés dans les spathéoles, soyeux argentés. Articles du rachis linéaires, de 3 mm de long, hirsutes avec des poils de 3 à 4 mm de long; pédicelles semblables, un peu plus courts.
+Spikelets sessile, oblong-lanceolate. Lower glume bifid for approximately 2 mm, with 6 nerves between the keels and resiniferous canals well visible along them. Upper glume slightly pubescent on the back, with 3 nerves, approximately 4 mm long. Lower floret with lemma ciliate on the margins and with two nerves. Upper floret with lemma similar to that of the lower floret, but with 3 nerves; no palea. Pedicellate spikelets reduced to the glumes and a glumelle. Glumes acuminate mucronate: the lower with 2 or 3 nerves, ciliate and with a resiniferous canal on one of the sides; the upper asymmetric, with ciliate keels with rigid hairs in the upper portion. Glumelle linear, without a nerve.
 
-Épillets sessiles oblongs lancéolés. Glume inférieure bifide sur 2 mm env., à 6 nervures entre les carènes et canaux résinifères bien visibles le long de celles-ci. Glume supérieure légèrement pubescente sur le dos, à 3 nervures, d'environ 4 mm de long. Fleur inférieure à lemma ciliée sur les bords et à deux nervures. Fleur supérieure à lemma semblable à celle de la fleur inférieure, mais à 3 nervures; pas de palée. Épillets pédicellés réduits aux glumes
-
-et à une glumelle. Glumes acuminées mucronées : l'inférieure à 2 ou 3 nervures, ciliée et avec un canal résinifère sur un des côtés; la supérieure assymétrique, à carènes ciliées avec des poils rigides dans la partie supérieure. Glumelle linéaire, sans nervure.
-
-L'espèce n'était connue jusqu'ici que du Congo belge et du Congo français; elle a été observée par Koechlin au Gabon, dans la région de Tchibanga.
+The species was known until now only from Belgian Congo and French Congo; it was observed by Koechlin in Gabon, in the Tchibanga region.
 
 ## Notes
 

@@ -16,39 +16,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(synonymy appears under the varieties)
 
-(la synonymie figure sous les variétés)
+Medium-sized vine, scandent shrub or shrub. Trunks and branches most often lenticellate; lenticelles scattered, well or poorly visible, sometimes forming spinescent projections. Young branches with hispid, hirsute to tomentose pubescence, dense or not, sometimes formed of a mixture of short and long hairs, becoming glabrous rapidly or only with age; this indumentum also present on the stipules and petioles.
 
-Liane de taille moyenne, arbuste lianescent ou arbuste. Troncs et rameaux le plus souvent lenticellés ; lenticelles dispersées bien ou non visibles, formant parfois des pointements spinescents. Jeunes rameaux avec pubescence hispide, hirsute à tomenteuse, dense ou non, parfois formée d'un mélange de poils courts et longs, devenant glabres rapidement ou seulement avec l'âge ; cet indumentum existe aussi sur les stipules et les pétioles.
+Stipules narrowly triangular to subulate, often curved, (1) 2–5 (8) × ≤ 1 mm.
 
-Stipules étroites triangulaires à subulées, souvent courbées, (1) 2-5 (8) × ≤ 1 mm.
+Leaves subsessile to shortly petiolate. Petiole 0–3 (5) mm, subcylindric. Blade obovate-elliptic, ovate-elliptic or oblong, and thus sometimes narrow, 2–4 times longer than wide, (3) 7–16 (22) × (1.5) 2–7 (9) cm; base generally cordate or subcordate, sometimes rounded or cuneate; acumen most often moderately marked, 0.5–2 (3) cm long, almost always acute or subacute; primary vein and (5) 6–10 (12) pairs of secondary veins, prominent or impressed above, generally prominent below; glands only on the lower face and often rather inconspicuous; upper face pubescent on the primary vein and hairs sparse on the larger secondary veins (young leaves may be entirely pubescent), becoming glabrous; lower face hirsute, pubescence velvety or tomentose especially on the main veins or at least more persistent on these.
 
-Feuilles subsessiles à courtemment pétiolées. Pétiole, 0-3 (5) mm, subcylindrique. Limbe obové-elliptique, ové-elliptique ou oblong, et ainsi parfois étroit, 2-4 fois plus long que large, (3) 7-16 (22) × (1,5) 2-7 (9) cm ; base généralement cordée ou subcordée, parfois arrondie ou cunée ; acumen le plus souvent modérément marqué, long de 0,5-2 (3) cm,
+Inflorescences: glomerules, bearing up to 25 flowers, pubescent like the young branches. Bracts and bracteoles very small ≤ 2 mm, ovate-triangular. Pedicel rather slender, (1.5) 3–5 (10) mm, pubescent or puberulent, upper portion barely marked or absent.
 
-presque toujours aigu ou subaigu ; nervure I et (5) 6-10 (12) paires de nervures II, proéminentes ou imprimées dessus, en général proéminentes dessous ; glandes seulement à la face inférieure et souvent assez peu visibles ; face supérieure, pubescente sur la nervure I et poils rares sur les plus grosses nervures II (les jeunes feuilles peuvent être entièrement pubescentes), devenant glabre ; face inférieure hirsute, pubescence veloutée ou tomenteuse surtout sur les principales nervures ou du moins plus persistante sur celles-ci.
+Flowers. Sepals erect, spreading or reflexed, narrow and ovate-elliptic to oblong, (1.5) 2–2.5 (3) × 0.5–1 mm; external face pubescent, internal glabrous or nearly so, puberulent in the upper part. Petals suberect or spreading at the base with upper part often incurved inward, obovate-elliptic, (1.5) 2–3.5 (4.5) mm long, split over (0.5) 1–2 (2.5) mm, glabrous or with a few external hairs just below the split; lobes flattened or somewhat concave. Stamens curved like the petals or suberect, (1) 2–4.5 (5.5) mm long, glabrous. Staminodes subquadrate to oblong < 0.5 × 0.5 mm, glabrous. Pistil ≤ 4 (5.5) mm, 2–3 (4)-merous; ovary velvety; style 2–3 (4)-lobed, glabrous or velvety in the lower part.
 
-Inflorescences : glomérules, portant jusqu'à 25 fleurs, pubescentes comme les jeunes rameaux. Bractées et bractéoles très petites ≤ 2 mm, ovées-triangulaires. Pédicelle plutôt gracile, (1,5) 3-5 (10) mm, pubescent ou pubérulent, partie supérieure peu marquée ou nulle.
+Fruits subspheric ≤ 1 cm or subovoid and apiculate, or with a beak and 1.5 cm long, 1–3 (4?)-seeded, tomentose, puberulent or pubescent. - Pl. 19, p. 81.
 
-Fleurs. Sépales dressés, étalés ou réfléchis, étroits et ovés-elliptiques à oblongs, (1,5) 2-2,5 (3) × 0,5-1 mm ; face externe pubescente, l'interne glabre ou presque, pubérulente à la partie supérieure. Pétales subérigés ou étalés à la base avec partie supérieure souvent incurvée vers l'intérieur, obovés-elliptiques, longs de (1,5) 2-3,5 (4,5) mm, fendus sur (0,5) 1-2 (2,5) mm, glabres ou avec quelques poils externes juste au-dessous de la fente ; lobes aplatis ou un peu concaves. Étamines courbées comme les pétales ou subérigées, longues de (1) 2-4,5 (5,5) mm, glabres. Staminodes subcarrés à oblongs < 0,5 × 0,5 mm, glabres. Pistil ≤ 4 (5,5) mm, 2-3 (4)-mère ; ovaire velouté ; style 2-3 (4)-lobé, glabre ou velouté à la partie inférieure.
+KEY TO THE VARIETIES
 
-Fruits subspériques ≤ 1 cm ou subovoïdes et apiculés, ou encore avec un bec, et longs de 1,5 cm, 1-3 (4?)-spermes, tomenteux, pubérulents ou pubescents. - Pl. 19, p. 81.
+Petals 2.5–3.5 (4.5) mm, split over (1) 1.5–2 (2.5) mm; stamens (2.5) 3–4.5 (5.5) mm, somewhat longer than the petals; pistil 2.5–4 (5.5) mm ..... var. dewevrei
 
-CLÉ DES VARIÉTÉS
-
-Pétales 2,5-3,5 (4,5) mm, fendus sur (1) 1,5-2(2,5) mm ; étanines (2,5)
-
-3-4,5 (5,5) mm, un peu plus longues que les pétales; pistil 2,5-4
-
-(5,5) mm ..... var. dewevrei
-
-Pétales 1,5-2 mm, fendus sur 0,5-1 mm ; étamines 1-2 mm, un peu plus courtes que les pétales ; pistil 1-2 mm ..... var. klaineanum
+Petals 1.5–2 mm, split over 0.5–1 mm; stamens 1–2 mm, somewhat shorter than the petals; pistil 1–2 mm ..... var. klaineanum
 
 16a. var. dewevrei
 
-BRETELER, MLW 73 (13) : 27, 78 (1973) ; l.c. 78 (10) : 31, 51-55, 66 (1978) ; l.c. 79 (16) : 58, 74 (1979) ; l.c. 81 (10) : 10, 56 (1981) ; AUWP 86 (3) : 32 (1986). TYPE : Zaïre. Lemba. Mavombe. Dewèvre 359 (holo- BR).
+BRETELER, MLW 73 (13): 27, 78 (1973); l.c. 78 (10): 31, 51–55, 66 (1978); l.c. 79 (16): 58, 74 (1979); l.c. 81 (10): 10, 56 (1981); AUWP 86 (3): 32 (1986). TYPE: Zaïre. Lemba. Mavombe. Dewèvre 359 (holo- BR).
 
-– – var. donisii Hauman, Bull. Jard. Bot. Brux. 25 : 349(1955) ; FZRB 7 : 334 (1958).
+– – var. donisii Hauman, Bull. Jard. Bot. Brux. 25: 349 (1955); FZRB 7: 334 (1958).
 
 ## Type
 
@@ -64,27 +56,23 @@ Klaine 210, Mont Bouet près de Libreville, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 F.J. BRETELER
 
-– D. obliquifolium ENGL., Bot. Jahrb. 33: 87 p.p. (1902); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 642, quoad var. obliquifolium (1913). TYPE: Cameroun, Bipindi, Zenker 1978 (holo-, B delef.; lecto-, Z; isolecto-, BM, E, G, GOET, L,M, W, WU).
+– D. obliquifolium ENGL., Bot. Jahrb. 33: 87 p.p. (1902); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 642, quoad var. obliquifolium (1913). TYPE: Cameroon, Bipindi, Zenker 1978 (holo-, B delef.; lecto-, Z; isolecto-, BM, E, G, GOET, L, M, W, WU).
 
-– – var. mayumbensis PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 642 (1913). TYPE : Congo, Mayombe, Thollon 1348 (holo-, P).
+– – var. mayumbensis PELLEGRIN, Bull. Soc. Bot. Fr. 59: 642 (1913). TYPE: Congo, Mayombe, Thollon 1348 (holo-, P).
 
 – D. micranthum Hauman, Bull. Jard. Bot. Brux. 25: 346 (1955); FZRB 7: 319 (1958).
 
-Les rares récoltes fructifères montrent que la forme du fruit de la var. dewevrei est assez variable : de subsphérique à apiculée et même avec un bec ; une telle variation de la forme du fruit au sein d'un même taxon se rencontre aussi chez D. cymulosum, D. filicaule et D. mundense. - Pl. 19, p. 81.
+The rare fruiting collections show that the fruit shape of var. dewevrei is quite variable: from subspheric to apiculate and even with a beak; such variation in fruit shape within the same taxon is also encountered in D. cymulosum, D. filicaule and D. mundense. - Pl. 19, p. 81.
 
-On ne la distingue de la variété-type que par ses fleurs plus petites (cf. aussi D. choristilum var. louisii et D. crassifolium var. integrum). De récentes récoltes de Côte d'Ivoire sembleraient indiquer une aire disjointe pour la variété klaineanum, mais il s'agit probablement d'une connaissance insuffisante de la zone de disjonction – Pl. 19, p. 81.
+It is distinguished from the typical variety only by its smaller flowers (cf. also D. choristilum var. louisii and D. crassifolium var. integrum). Recent collections from Ivory Coast would seem to indicate a disjunct range for variety klaineanum, but this is probably due to insufficient knowledge of the disjunction zone – Pl. 19, p. 81.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Congo, Zaïre, Angola
 
-Cameroun, Gabon, Congo, Zaïre, Angola
-
-Côté d'Ivoire, Gabon
+Ivory Coast, Gabon
 
 ## Specimens examined
 

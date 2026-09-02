@@ -15,35 +15,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in J. Bot. (Morot) 7 : 257 (1893) ; WARB., in Engl. & Prantl, NPF 3 (6a) : 39 (1893) ; GILG, EBJ 40 : 502 (1908) ; DE WILD., Pl. Bequaert. 5 : 411 (1932) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 45 (1968) ; LETOUZEY, HALLÉ & CUSSET, Adansonia, sér. 2, 9 (4) : 533 (1969) ; HUL, Bull. Mus. natl. Hist. nat. Paris, 4° sér., sect. B, Adansonia, 13 (3-4) : 156 (1991).
 
-Arbustes inermes, monocaules.
+Shrubs unarmed, monocaulous.
 
-Feuilles stipulées, dentées.
+Leaves stipulate, dentate.
 
-Inflorescences épiphyles en cymes généralement uniflores, cela en 2-6 groupes de fleurs par feuilles, répartis sur le pétiole ou dans 1/2 inférieur du limbe. Fleurs ¥ ; bractées étroitement ovales ; sépales 5, imbriqués ; pétales 5, imbriqués ; étamines 5 ; ovaire pubescent, à 2-3 placentas pluriovulés ; style simple, entier.
+Inflorescences epiphyllous in cymes generally uniflorous, arranged in 2-6 groups of flowers per leaf, distributed on the petiole or in the lower 1/2 of the blade. Flowers ♀ ; bracts narrowly ovate ; sepals 5, imbricate ; petals 5, imbricate ; stamens 5 ; ovary pubescent, with 2-3 pluriovulate placentas ; style simple, entire.
 
-Fruits : capsules à 3 valves.
+Fruits: capsules with 3 valves.
 
-ESPÈCE-TYPE : M. multiflora HUA.
+TYPE SPECIES: M. multiflora Hua.
 
-Genre d'Afrique tropicale occidentale-centrale comprenant une seule espèce, présente au Gabon.
+Genus of tropical West-Central Africa comprising a single species, present in Gabon.
 
 Mocquerysia multiflora Hua
 
-in J. Bot. (Morot) 7 : 257 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 39 (1893) ; LETOUZEY, HALLÉ & CUSSET, Adansonia, sér. 2, 9 (4) : 515 (1969 ; HUL, Bull. Mus. natl. Hist. nat. Paris, 4° sér., sect. B, Adansonia, 13 (3-4) : !64 (1991). TYPE : Mocquerys s. n., Congo (holo-).
+in J. Bot. (Morot) 7 : 257 (1893) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 39 (1893) ; LETOUZEY, HALLÉ & CUSSET, Adansonia, sér. 2, 9 (4) : 515 (1969) ; HUL, Bull. Mus. natl. Hist. nat. Paris, 4° sér., sect. B, Adansonia, 13 (3-4) : 164 (1991). TYPE: Mocquerys s. n., Congo (holo-).
 
-– M. epipetiola DE WILD., Pl. Bequaert. 5 : 411 (1932). TYPES : Nannan 217, Zaïre (lecto-, cf. HUL 1991, BR!); De Briey s. n., Zaïre (syn-, BR!).
+– M. epipetiola DE WILD., Pl. Bequaert. 5 : 411 (1932). TYPES: Nannan 217, Zaïre (lecto-, cf. HUL 1991, BR!); De Briey s. n., Zaïre (syn-, BR!).
 
-Arbuste (0,5-4 m de haut), monocaule, non ramifié.
+Shrub (0.5-4 m tall), monocaulous, unbranched.
 
-Feuilles à stipules linéaires-acuminés, de 6-13 mm de long, glabres ; pétiole de 1,5-10 cm de long, pubescent ou glabre ; limbe obovale, cunée à la base, longuement acuminé au sommet, 10-35 × 3-10 cm, grossièrement denté ou denticulé, glabre ; nervures secondaires 10-15 paires.
+Leaves with linear-acuminate stipules, 6-13 mm long, glabrous ; petiole 1.5-10 cm long, pubescent or glabrous ; blade obovate, cuneate at the base, long-acuminate at the apex, 10-35 × 3-10 cm, coarsely dentate or denticulate, glabrous ; secondary veins 10-15 pairs.
 
-Fleurs ♀, en cymes uniflores, réparties sur le pétiole ou dans la moitié inférieure du limbe ; bractées petites, de 5-12 mm de long ; pédicelle de 7-10 mm de long, pubescent ; sépales 5, très étroitement ovales à linéaires-ovales, 6-8 × 1-1,5 mm, pubescents, persistants ; pétales 5, étroitement ovales à linéaires-ovales, 8-11 × 1,5-2 mm, pubescents, persistants ; étamines 5, à filet très court (0,5 mm de long), glabre ; anthères de 4-5 mm de long, glabres à glabrescentes ; ovaire tomenteux, à 3 placentas pluriovulés ; style entier, persistant sur le fruit.
+Flowers ♀, in uniflorous cymes, distributed on the petiole or in the lower half of the blade ; bracts small, 5-12 mm long ; pedicel 7-10 mm long, pubescent ; sepals 5, very narrowly ovate to linear-ovate, 6-8 × 1-1.5 mm, pubescent, persistent ; petals 5, narrowly ovate to linear-ovate, 8-11 × 1.5-2 mm, pubescent, persistent ; stamens 5, with very short filament (0.5 mm long), glabrous ; anthers 4-5 mm long, glabrous to glabrescent ; ovary tomentose, with 3 pluriovulate placentas ; style entire, persistent on the fruit.
 
-Fruits : capsules ovoïdes, 7-9 × 5-6 mm, pubescentes à glabres-centes, entourées de périanthe. - Pl. 7, p. 29.
+Fruits: ovoid capsules, 7-9 × 5-6 mm, pubescent to glabrescent, surrounded by the perianth. - Pl. 7, p. 29.
 
 ## Type
 
@@ -51,15 +49,11 @@ Mocquerys s. n., Congo (holo-, P!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo, Zaïre, Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses
+Dense forests
 
 ## Specimens examined
 

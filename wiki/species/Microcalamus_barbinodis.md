@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms slender with approximately 4 sheaths at the base, the uppermost up to 4 cm long, all pubescent or becoming more or less glabrous. The first internode beyond is elongated, more or less prostrate, then geniculate and continuing as a leafy, fertile stem with 6 or 8 nodes. Extravaginal innovations from the geniculum giving rise to either stolons or directly to other leafy stems. Leaf sheaths strongly striated, pubescent, with a dense transverse line of hairs at the junction with the blade. Blade broadly lanceolate, acuminate, 5–15 × 1.5–3.5 cm.
 
-Chaumes minces avec environ 4 gaines à la base, les dernières jusqu'à 4 cm de long, toutes pubescentes ou devenant plus ou moins glabres. Le premier entrenœud au-delà est allongé, plus ou moins prostré, puis genouillé et se continuant par une tige feuillée et florifère à 6 ou 8 nœuds. Innovations extravaginales à partir du genou donnant soit des stolons, soit directement d'autres tiges feuillées. Gaines foliaires fortement striées, pubescentes, avec une ligne transversale dense de poils à la jonction avec le limbe. Limbe largement lancéolé, acuminé de 5-15 × 1,5-3,5 cm.
-
-Inflorescence jusqu'à 7,5 cm de long; branches latérales courtes portant de 1 à 5 épilets, rarement plus. Pédicelles jusqu'à 6 mm, épilets lancéolés, de 3 à 7 mm, plus ou moins teintés de pourpre. Glume inférieure de 2 à 3 mm de long, à 5 nervures, la supérieure de 4 mm, à 7 nervures. Fleur supérieure barbue-argentée à la base et ciliée sur les bords.
+Inflorescence up to 7.5 cm long; short lateral branches bearing 1 to 5 spikelets, rarely more. Pedicels up to 6 mm, spikelets lanceolate, 3 to 7 mm, more or less tinged with purple. Lower glume 2 to 3 mm long, 5-nerved, the upper 4 mm, 7-nerved. Upper floret bearded-silvery at the base and ciliate on the margins.
 
 ## Specimens examined
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous vine. Stems cylindrical, 4–5 mm in diameter, glabrous or glabrescent; internodes 4–8 cm long. Tendrils several times branched, glabrous or sparsely pubescent; bracts ovate, densely pubescent on both faces. Stipules ovate-oblong, 7–8 mm long, 4–4.5 mm wide, densely pubescent on both faces. Leaves simple entire; petiole cylindrical, flattened above, 2.5–4 cm long, glabrescent. Blade ovate, obovate or suborbicular, 8–14 cm long, 6–9 cm wide, with rounded or obtuse and acuminate apex, with broadly cordate base; margin generally enrolled toward the lower face and bearing small thick teeth; upper face of blade smooth, glabrous or glabrescent, lower face bearing very dense short reddish pubescence covering the blade and the veins; venation palmatipinnate; texture thick.
 
-Liane herbacée. Tiges cylindriques, de 4-5 mm de diamètre, glabres ou glabrescentes; entrenœuds de 4-8 cm de long. Vrilles plusieurs fois ramifiées, glabres ou éparsément pubescentes; bractées ovales, densément pubescentes sur les deux faces. Stipules ovales oblongues, de 7-8 mm de long, de 4-4,5 mm de large, densément pubescentes sur les deux faces. Feuilles simples entières, Pétiole cylindrique aplati sur le dessus, de 2,5-4 cm de long, glabrescent. Limbe ovale, obovale ou suborbiculaire, de 8-14 cm de long, de 6-9 cm de large, à sommet arrondi ou obtus et acuminé, à base largement cordée; marge généralement enroulée vers la face inférieure et présentant de petites dents épaisses; face supérieure du limbe lisse glabre ou glabrescente, face inférieure portant une pubescence très dense courte et rougeâtre recouvrant le limbe et les nervures; nervation palmatipennée; texture épaisse.
+Inflorescences 5–10 cm long, in compound cymes of dense multiflorous umbelliform cymules; peduncle 5–7 cm long; axes pubescent; bracts and bracteoles deltoid, 1–1.5 mm long, densely pubescent. Flowers 2.5–3 mm long. Pedicel 1.5–2 mm long, densely pubescent. Calyx 0.7–1 mm in height, densely pubescent. Corolla subcylindric, glabrous but very finely papillose; petals oblong, about 2.2 mm long. Stamens 1.5 mm long; anthers 0.5 mm with very thickened connective. Ovary densely pilose.
 
-Inflorescences de 5-10 cm de long, en cymes composées de cymules ombelliformes denses multiflores; pédoncule de 5-7 cm de long; axes pubescents; bractées et bractéoles deltoïdes, de 1-1,5 mm de long, densément pubescentes. Fleurs de 2,5-3 mm de long. Pédicelle de 1,5-2 mm de long, densément pubescent. Calice de 0,7-1 mm de hauteur, densément pubescent. Corolle subcylindrique, glabre mais très finement papilleuse; pétales oblongs, d'environ 2,2 mm de long. Étamines de 1,5 mm de long; anthères de 0,5 mm à connectif très épaissi. Ovaire densément pileux.
+Berries ovoid, about 10 mm long and 7 mm wide, glabrous. Seed more or less oblong reniform, about 8 mm long, 5 mm wide, 3 mm in diameter; rostrum long; median crest very irregular; lateral lines salient; testa with echinulate surface.
 
-Baies ovoïdes, d'environ 10 mm de long et 7 mm de large, glabres. Graine plus ou moins oblongue réniforme, d'environ 8 mm de long, 5 mm de large, 3 mm de diamètre; rostre long; crête médiane très irrégulière; lignes latérales saillantes; test à surface échinulée.
+Type from Gabon: Klaine 1175 (P).
 
-Type du Gabon : Klaine 1175 (P).
-
-En forêt dense ombrophile. Espèce connue actuellement au Cameroun, au Gabon et au Congo (Brazzaville).
+In dense hygrophilous forest. Species currently known from Cameroon, Gabon and Congo (Brazzaville).
 
 ## Specimens examined
 

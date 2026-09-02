@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe enracinée ; tiges nageantes , ramifiées, atteignant 2 m de longueur et 3 mm de diamètre. Feuilles alternes, insérées le long de la tige ; feuilles immergées sessiles, rubanées , 2–10 cm × 1–3(–4) mm, à stipules membraneuses de ± 2 mm de longueur ; feuilles flottantes à pétiole mince de 3 – 8( – 10) cm de longueur , à stipules membraneuses atteignant 3(–5) cm de longueur, avec des nervures transversales noirâtres, à limbe ovale à orbiculaire, 0,8–3 × 0,8–2,5 cm, sommet obtus ou rarement aigu, base cordée. Fleur solitaire ; pédoncule naissant d’une spathe tubulaire de 1,3–2 cm de longueur et membraneuse ; périgone légèrement irrégulier, bleu à mauve , à tube de 10–12 mm de longueur, mais accrescent et atteignant jusqu’à 22 mm après l’anthèse, lobes obovales, jusqu’à 9 × 4 mm ; étamines glabres ; ovaire fusiforme, 1–2 mm de diamètre. Fruit étroitement fusiforme, 1 – 2 cm de longueur . Graine cylindrique, atteignant 1 mm de longueur, longitudinalement côtelée.
+Herb rooted; stems floating, branched, attaining 2 m in length and 3 mm in diameter. Leaves alternate, inserted along the stem; submerged leaves sessile, ribbon-like, 2–10 cm × 1–3(–4) mm, with membranous stipules of ± 2 mm in length; floating leaves with slender petioles of 3–8(–10) cm in length, with membranous stipules attaining 3(–5) cm in length, with blackish transverse veins, with ovate to orbicular lamina, 0.8–3 × 0.8–2.5 cm, apex obtuse or rarely acute, base cordate. Flower solitary; peduncle arising from a tubular spathe of 1.3–2 cm in length and membranous; perianth slightly irregular, blue to mauve, with tube of 10–12 mm in length, but accrescent and attaining up to 22 mm after anthesis, lobes obovate, up to 9 × 4 mm; stamens glabrous; ovary fusiform, 1–2 mm in diameter. Fruit narrowly fusiform, 1–2 cm in length. Seed cylindric, attaining 1 mm in length, longitudinally ribbed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce à large répartition en Afrique tropicale et subtropicale, du Sénégal et de la Gambie à l’ouest jusqu’à l’Ouganda à l’est et au sud vers la République Sud-Africaine et Madagascar ; également présente en Amérique tropicale. Assez rare au Gabon, seulement connue du Moyen-Ogooué (région de Lambaréné), de la Ngounié (région de Mouila) et du Haut-Ogooué (région de Franceville)
+Species with wide distribution in tropical and subtropical Africa, from Senegal and Gambia in the west to Uganda in the east and southward to the Republic of South Africa and Madagascar; also present in tropical America. Rather rare in Gabon, known only from Middle-Ogooué (Lambaréné region), Ngounié (Mouila region) and Upper-Ogooué (Franceville region)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans des eaux douces stagnantes ou à courant assez rapide, mares, étangs, rivières et marécages ; au Gabon à basse altitude, ailleurs jusqu’à 1500 m
+in stagnant fresh waters or with fairly rapid current, pools, ponds, rivers and marshes; in Gabon at low altitude, elsewhere up to 1500 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Quelques auteurs ont considéré que E. natans est un synonyme de E. diversifolia (Vahl) Urb. de l’Amérique du Sud. Cependant, aujourd’hui plusieurs caractères distinctifs permettent de les séparer. B : Burkill (1997), Catarino & Martins (1997), Lawalrée & Bruynseels i B liographie (1981), Verdcourt (1968)
+Some authors have considered that E. natans is a synonym of E. diversifolia (Vahl) Urb. from South America. However, today several distinctive characters allow them to be separated. B: Burkill (1997), Catarino & Martins (1997), Lawalrée & Bruynseels (1981), Verdcourt (1968)
 
 ## Notes
 

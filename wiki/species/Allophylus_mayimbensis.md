@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub to 3 m; cylindrical branchlets with long (1–2 mm) ferruginous-reddish hairs, spreading; petiole channelled, hirsute; petiolule 10 mm; blade rather rigid, acumen 2 cm; teeth 1–2 mm, terminated by a mucro (0.2 mm) formed by the apex of the 5–6 distal pairs of veins; at the base of the blade 2–3 pairs of looped veins (Le Testu 5739: secondary veins all looped; it is the tertiary veins that project in a mucro of 0.1 mm); upper surface of blade reddish, hairy (hairs 1 mm, scattered); median, secondary and tertiary veins hairy; lower surface tobacco-brown, densely hairy (hairs 2 mm) over the entire surface and on the veins; domatia absent.
 
-Arbuste de 3 m; rameaux cylindriques à longs poils (1-2 mm) roux ferrugineux, étalés; pétiole canaliculé, hirsute; pétiolule 10 mm; limbe assez rigide, acumen de 2 cm; dents de 1-2 mm, terminées par un mucron (0,2 mm) formé par l'extrémité des 5-6 dernières paires de nervures; à la base du limbe 2-3 paires de nervures bouclées (Le Testu 5739 : nervures secondaires toutes bouclées; ce sont les nervures tertiaires qui dépassent en un mucron de 0,1 mm); face supérieure du limbe rougeâtre, velue (poils de 1 mm, clairsemés); nervures médiane, secondaires et tertiaires, velues; face infé- rieure brun- tabac, densément velue (poils de 2 mm) sur toute la surface et sur les nervures; domaties nulles.
-
-Grappes lâches. Sépales non nerviés, avec une tache brune à la base. PL. 11, 6-10, p. 57.
+Racemes lax. Sepals not veined, with a brown spot at the base. PL. 11, 6–10, p. 57.
 
 ## Type
 

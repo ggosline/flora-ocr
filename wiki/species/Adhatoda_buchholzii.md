@@ -22,19 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Duvernoia Buchholzii Lindau, Bot. Jahrb. 20 : 43 (1894); Engl. et Prantl, Natürl. Pflanzenfam. IV 3B : 339 (1895).
 
 ≡ Duvernoya latibracteata De Wild., 1. e. (1916), in syn., nom. illeg.
 
 ≡ Adhatoda latibracteata (De Wild) R. Benoist, Mém. Soc. Linn. Norm. nouv. sér., Bot., I (3) : 47 (1928).
 
-Plante subherbacée, d'env. 1 m de hauteur, à tige simple, cylindrique et glabre. Pétioles de 1,5-2 cm, un peu poilus vers le limbe. Limbe des feuilles oblong-obovale, abruptement acuminé au sommet et aigu vers la base, de 17 × 5 cm, glabre ou glabrescent.
+Subshrubby plant, about 1 m tall, with a simple, cylindrical and glabrous stem. Petioles 1.5-2 cm, slightly hairy toward the blade. Leaf blade oblong-obovate, abruptly acuminate at the apex and acute toward the base, 17 × 5 cm, glabrous or glabrescent.
 
-Inflorescences terminales très variables selon l'état d'épanouissement, d'abord très condensées, plus tard assez allongées, à partie inférieure interrompue et partie supérieure ± condensée.
+Inflorescences terminal, highly variable depending on the degree of anthesis, at first very congested, later fairly elongated, with the lower part interrupted and the upper part ± congested.
 
-Bractées orbiculaires ou ovales-apiculées jusqu'à 15 mm de diamètre, brunâtre-pourpre à la base et un peu rougeâtres; bractéoles très petites, poilues. Sépales inégaux, les supérieurs plus larges, de 7 × 2,5 mm, les inférieurs de 17 × 1,5 mm, légèrement poilus. Corolle brun-rouge, à tube de 7 × 4 mm, finement poilu; lèvre supérieure entière, en forme de casque, de 7 mm de long; lèvre inférieure de 8 mm de long; lobes de 5 × 3,5 mm environ. Étamines de 6 mm; anthères à loges un peu décalées, mutiques, surtout à la base, de 2 mm de long. Disque de 1 mm d'épaisseur; ovaire de 1,5 mm de long, poilu; style de 13 mm, un peu pubérulent. Fruit inconnu.
+Bracts orbicular or oval-apiculate up to 15 mm in diameter, brownish-purple at the base and somewhat reddish; bracteoles very small, hairy. Sepals unequal, the upper ones broader, 7 × 2.5 mm, the lower ones 17 × 1.5 mm, slightly hairy. Corolla brown-red, tube 7 × 4 mm, finely hairy; upper lip entire, helmet-shaped, 7 mm long; lower lip 8 mm long; lobes approximately 5 × 3.5 mm. Stamens 6 mm; anthers with somewhat offset locules, muticous, especially at the base, 2 mm long. Disk 1 mm thick; ovary 1.5 mm long, hairy; style 13 mm, slightly puberulent. Fruit unknown.
 
 ## Type
 

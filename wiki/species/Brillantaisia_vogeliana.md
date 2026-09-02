@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Leucorhaphis Vogeliana Nees, in DC. Prodr. II : 97 (1847).
 
-Plante pérenne, glabrescente ou légèrement pubérulente, de 50-150 cm, à tiges subquadrangulaires, Pétioles de 1,5-6 cm, poilus. Limbe des feuilles très mince, ovale acuminé, à pointe arrondie, de 5-13 × 3,5-8 cm, à bords, surtout dans la partie inférieure, avec des dents arrondies et obliquement triangulaires de 3 × 5 mm; poils fins dispersés sur les deux faces du limbe; 9-10 paires de nervures latérales.
+Perennial plant, glabrescent or slightly puberulent, 50-150 cm tall, with subquadrangular stems. Petioles 1.5-6 cm, hairy. Leaf lamina very thin, ovate acuminate, with rounded apex, 5-13 × 3.5-8 cm, the margins, especially in the lower part, with rounded and obliquely triangular teeth 3 × 5 mm; fine hairs scattered on both faces of the lamina; 9-10 pairs of lateral veins.
 
-Inflorescences terminales, ± lâches, interrompue par de petites feuilles sessiles. Bractées lancéolées arrondies, d'environ 5 mm de long; bractéoles de 2-3 mm. Calice densément cilié à poils glanduleux, de 7-8 mm, à segment postérieur de 1-2 mm, plus long que les autres. Corolle d'environ 2,5 cm, violet foncé, glabre, à tube d'environ 10 mm; lèvre supérieure de 1,5 mm,
+Terminal inflorescences, ± lax, interrupted by small sessile leaves. Bracts lanceolate-rounded, approximately 5 mm long; bracteoles 2-3 mm. Calyx densely ciliate with glandular hairs, 7-8 mm, with posterior segment 1-2 mm, longer than the others. Corolla approximately 2.5 cm, dark violet, glabrous, with tube approximately 10 mm; upper lip 1.5 mm,
 
 7-9 : Brillantaisia lancifolia Lindau.
 
-avec deux pointes, lèvre inférieure avec 3 lobes de 2 × 2 mm. Filets de 10 mm; anthères de 5 mm; staminodes de 5 mm; anthères rudimentaires. Ovaire de 4,5 mm; petit disque; style de 15 mm.
+with two points, lower lip with 3 lobes 2 × 2 mm. Filaments 10 mm; anthers 5 mm; staminodes 5 mm; rudimentary anthers. Ovary 4.5 mm; small disk; style 15 mm.
 
-Capsule finement pubescente, d'environ 15-17 mm; 18-28 graines dans chaque loge.
+Capsule finely pubescent, approximately 15-17 mm; 18-28 seeds in each locule.
 
 ## Type
 
@@ -41,9 +39,7 @@ Vogel 179, Fernando Po (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigeria, San-Thomé, Cameroun, Gabon, Congo.
+Ghana, Nigeria, São Thomé, Cameroon, Gabon, Congo.
 
 ## Specimens examined
 

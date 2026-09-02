@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Fimbristylis hispidula (Vahl) Kunth var. cioniana (Savi) Boeckeler, Linnaea 37 : 28 (1871). Fimbristylis vermoesenii De Wild., Pl. bequaert. 4 : 205‒207 (1927).
 
-Herbe annuelle , en touffe, avec des racines fines ; tige de 10‒30 cm × 0,3‒0,7 mm, anguleuse, striée, hérissée de nombreux poils hyalins . Feuille : gaine pâle, densément poilue, à gorge oblique avec de nombreux poils fins de 2‒5 mm ; limbe habituellement long de moins de 10 cm et large de 0,3‒0,5 mm, plan ou canaliculé, hérissé de poils hyalins d’environ 0,1 mm. Inflorescence en anthèle ombelliforme composée , large de 1‒3 cm, avec 5‒20 épillets ; bractées involucrales principales longues de 1‒2 cm, foliacées, les autres ressemblant aux glumes. Épillet ellipsoïde, de 3‒5 mm × 1,5‒2 mm ; glumes longues de 2‒2,5 mm, couvertes de poils courts , brun pâle avec la nervure centrale verte terminée par une pointe. Fleur : ovaire avec un style trifide. Akène de 0,8‒0,9 × 0,5‒0,6 mm, obovoïde, brun pâle, avec des ondulations transversales ; base du style se détachant souvent de l’akène .
+Annual herb, in tufts, with fine roots; stem 10‒30 cm × 0.3‒0.7 mm, angular, striated, setose with numerous hyaline hairs. Leaf: sheath pale, densely hairy, with oblique mouth bearing numerous fine hairs 2‒5 mm; blade usually less than 10 cm long and 0.3‒0.5 mm wide, flat or channelled, setose with hyaline hairs approximately 0.1 mm. Inflorescence an umbelliform compound anthela, 1‒3 cm wide, with 5‒20 spikelets; principal involucral bracts 1‒2 cm long, foliaceous, the others resembling the glumes. Spikelet ellipsoid, 3‒5 mm × 1.5‒2 mm; glumes 2‒2.5 mm long, covered with short hairs, pale brown with the central vein green and terminating in a point. Flower: ovary with a trifid style. Achene 0.8‒0.9 × 0.5‒0.6 mm, obovoid, pale brown, with transverse undulations; base of style often detaching from the achene.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale et Afrique du Nord ; autrefois aussi en Italie ; rare au Gabon, trouvée dans le Moyen-Ogooué, l’Ogooué-Ivindo et l’Ogooué-Lolo (5 récoltes)
+Tropical Africa and North Africa; formerly also in Italy; rare in Gabon, found in the Moyen-Ogooué, Ogooué-Ivindo and Ogooué-Lolo (5 collections).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les lieux secs et sableux, particulièrement fréquente dans le lit sableux des rivières saisonnières et des cours d’eau ; au Gabon, jusqu’à environ 400 m d’altitude. Note taxonomique : proche de B. hispidula , mais elle est habituellement plus grêle et a une vie plus brève. Elle a souvent une anthèle avec des épillets plus nombreux et brun plus pâle, jamais avec des taches brun rougeâtre foncé. B : Goetghebeur & Coudijzer (1984b), Hooper & Napper (1972). ibliographie
+In dry and sandy places, particularly frequent in the sandy bed of seasonal rivers and watercourses; in Gabon, up to approximately 400 m altitude. Taxonomic note: close to B. hispidula, but it is usually more slender and has a shorter lifespan. It often has an anthela with more numerous spikelets and paler brown, never with dark reddish-brown spots. B: Goetghebeur & Coudijzer (1984b), Hooper & Napper (1972). Bibliography
 
 ## Notes
 

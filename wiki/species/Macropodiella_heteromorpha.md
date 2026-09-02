@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia, sér. 2, 17(3) : 298 (1978). Sphaerothylax heteromorpha Baill., Bull. Mens. Soc. Linn. Paris 110 : 876 (1890). Macropodiella mildbraedii Engl., Bot. Jahrb. Syst. 60(5) : 466 (1926). Plante à tige simple ou rarement divisée, de 20–50 cm de longueur. Feuilles régulièrement espacées de la base au sommet, profondément divisées en lanières linéaires à filiformes, jusqu’à 25 mm de longueur. Inflorescence à fleurs solitaires ou groupées par 2 ou 3 à l’ais selle des feuilles ; spathelles obovoïdes, 3,5–4,5 mm de longueur, se déchirant à l’anthèse irrégulièrement au sommet en 4 ou 5 dents ; pédicelle 1,5–2 cm après l’anthèse ; tépales aci culaires, 0,3–0,6 mm ; étamines (2–)3, filets soudés sur ± ⅔ de leur longueur, anthère 0,7–0,8 × 0,2–0,4 mm ; ovaire ellipsoïde, gynophore 0,2–1,6 mm de longueur ; stigmates cristés , sessiles. Graine 0,16 × 0,09 mm.
+Adansonia, ser. 2, 17(3): 298 (1978). Sphaerothylax heteromorpha Baill., Bull. Mens. Soc. Linn. Paris 110: 876 (1890). Macropodiella mildbraedii Engl., Bot. Jahrb. Syst. 60(5): 466 (1926). Plant with simple or rarely divided stem, 20–50 cm in length. Leaves regularly spaced from base to apex, deeply divided into linear to filiform lobes, up to 25 mm in length. Inflorescence with flowers solitary or grouped by 2 or 3 in the axils of leaves; spatheoles obovoid, 3.5–4.5 mm in length, tearing irregularly at anthesis at the apex into 4 or 5 teeth; pedicel 1.5–2 cm after anthesis; tepals acicular, 0.3–0.6 mm; stamens (2–)3, filaments fused for ± ⅔ of their length, anther 0.7–0.8 × 0.2–0.4 mm; ovary ellipsoid, gynophore 0.2–1.6 mm in length; stigmas crested, sessile. Seed 0.16 × 0.09 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Cameroun et Gabon ; au Gabon, seulement connu de l’Ogooué (OgoouéIvindo), mais d’après Walker et Sillans (1961), l’espèce pousse également aux chutes de Samba Mavotsi (chutes de l’Impératrice Eugénie) dans la Ngounié à Fougamou (prov. Ngounié). Usage : Selon Raponda-Walker & Sillans (1961), les plantes sont vendues sur le marché de Brazzaville (République du Congo) pour les manger. Bi : Cusset (1978, 1987a), Raponda-Walker & Sillans (1961), Sosef et al. (2006). B liographie
+Ivory Coast, Cameroon and Gabon; in Gabon, known only from the Ogooué (Ogooué-Ivindo), but according to Walker and Sillans (1961), the species also grows at Samba Mavotsi Falls (Empress Eugénie Falls) in the Ngounié at Fougamou (prov. Ngounié). Uses: According to Raponda-Walker & Sillans (1961), plants are sold in the market of Brazzaville (Republic of the Congo) for eating. Bib.: Cusset (1978, 1987a), Raponda-Walker & Sillans (1961), Sosef et al. (2006). Bibliography
 
 Macropodiella 43 Cusset (1978).
 

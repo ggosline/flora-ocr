@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Hook., Niger Fl. : 220 (1849) ; Hutch., Dalziel & Chipp, in Hutch. & Dalziel, FWTA 1 (1) : 162 (1927) ; Keay, in Hutch. & Dalziel, FWTA, ed. 2, 1 (1) : 189 (1954) ; Bamps, Fcbr, Spermat., Flacourt. 1 : 49 (1968). TYPE : Vogel 34, Nigeria.
 
-Arbre (4-6 m de Haut) ou arbuste, épineux ; rameaux brunâtres à grisâtres, pubescents à glabrescents.
+Tree (4–6 m tall) or shrub, spiny; branchlets brownish to greyish, pubescent to glabrescent.
 
-Feuilles à pétiole de 0,5-1 cm de long, pubérulent ; limbe elliptique ou ovale, arrondi ou cunéé à la base, acuminé au sommet, 8-16 × 2-5 cm, denté, papyracé, glabre sur les 2 faces ; nervures secondaires 4-5 paires ; nervures tertiaires ± parallèles entre elles.
+Leaves with petiole 0.5–1 cm long, puberulent; blade elliptic or ovate, rounded or cuneate at base, acuminate at apex, 8–16 × 2–5 cm, dentate, papyraceous, glabrous on both faces; secondary nerves 4–5 pairs; tertiary nerves ± parallel to one another.
 
-Fleurs ♂ en racèmes axillaires de 1-2,5 cm de long ; sépales suborbiculaires, 1,5-2 × 1,5 cm, ciliés ; étamines à filet de 2 mm de long, glabre ; anthères orbiculaires. Fleurs ♀ en racèmes axillaires ou solitaires ; sépales suborbiculaires, 2-2,5 × 2 mm, ciliés, ± persistants sur le fruit ; ovaire à 5-7 placentas, glabre ; styles 5-7, libres, ± retombants.
+Male flowers in axillary racemes 1–2.5 cm long; sepals suborbicular, 1.5–2 × 1.5 cm, ciliate; stamens with filament 2 mm long, glabrous; anthers orbicular. Female flowers in axillary or solitary racemes; sepals suborbicular, 2–2.5 × 2 mm, ciliate, ± persistent on the fruit; ovary with 5–7 placentas, glabrous; styles 5–7, free, ± recurved.
 
-Fruits : drupes globuleuses ou subglobuleuses, de 2-2,5 cm de diamètre, rarement côtelées sur le sec ; graines (8-14) ellipsoïdes. - Pl. 1, 8-12, p. 9.
+Fruits: drupes globose or subglobose, 2–2.5 cm diameter, rarely ribbed when dry; seeds (8–14) ellipsoid. – Pl. 1, 8–12, p. 9.
 
 ## Type
 
@@ -34,15 +32,11 @@ Vogel 34, Aboh (Aba), Nigeria (holo-, K)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Ghana, Nigeria, Cameroun, Gabon, RCA, Zaïre
+Sierra Leone, Ghana, Nigeria, Cameroon, Gabon, CAR, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses marécageuses ou en bordure des rivières, galeries forestières
+Dense swamp forests or forest galleries along rivers
 
 ## Specimens examined
 

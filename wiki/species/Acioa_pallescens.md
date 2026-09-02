@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ENGL., Pflanzenw. Afr. 3 (1) : 309 (1915); DE WILD., BJBB 7 : 207 (1920); KEAY, FWTA, ed. 2, 1 (2) : 433, tab. 142 (1958); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 320, tab. 83 (1960).
 
 — Griffonia pallescens OLIV., FTA 2 : 372 (1871), incl. var. scandens OLIV. et var. arborescens OLIV.
 
-— Acioa thollonii DE WILD., BJBB 7 : 208 (1920) (« Aciosa tholloni »), syn. nov.
+— Acioa thollonii DE WILD., BJBB 7 : 208 (1920) ("Aciosa tholloni"), syn. nov.
 
-Arbuste haut de 5-8 m, parfois multicaule, parfois sarmenteux-lianescent; écorce gris foncé à brune avec pustules argentées. Rameaux bruns à lenticelles peu apparentes, pubescents puis glabrescents. Jeunes pousses couvertes d'un tomentum aranéeux blond-doré, rapidement caduc. Stipules linéaires, environ 8 mm, pubescentes, rarement garnies d'une glande circulaire basale. Pétiole (3-5(-8) mm, densément pubescent, rarement glabrescent. Limbe elliptique, elliptique-oblong, 4-11 × 8-25 cm, parfois ovale-oblong, parfois très oblong (3,5 × 13 cm); base cordée, parfois profondément et masquant le pétiole; sommet ± obtus, brusquement acuminé; nervure médiane pubescente, souvent glabrescente dessus, densément pubérulente puis glabrescente dessous; nervures latérales 6-10 (-12) paires, glabrescentes dessous; limbe, parfois légèrement rugueux dessus, glabre dessous; quelques grosses glandes circulaires basales, première paire en général très serrée contre la nervure médiane, souvent quelques petites glandes circulaires sous l'acumen.
+Shrub 5–8 m tall, sometimes multicaul, sometimes scandent-lianescent; bark dark grey to brown with silvery pustules. Branches brown with inconspicuous lenticels, pubescent then glabrescent. Young shoots covered with blonde-golden araneous tomentum, rapidly caducous. Stipules linear, approximately 8 mm, pubescent, rarely bearing a basal circular gland. Petiole 3–5(–8) mm, densely pubescent, rarely glabrescent. Blade elliptic, elliptic-oblong, 4–11 × 8–25 cm, sometimes ovate-oblong, sometimes very oblong (3.5 × 13 cm); base cordate, sometimes deeply so and concealing the petiole; apex ± obtuse, abruptly acuminate; midvein pubescent, often glabrescent above, densely puberulous then glabrescent below; lateral veins 6–10 (–12) pairs, glabrescent below; blade sometimes slightly rugose above, glabrous below; a few large circular basal glands, first pair generally very close to the midvein, often a few small circular glands beneath the acumen.
 
-Racèmes terminaux ou subterminaux, solitaires, 8-15(-40) cm, axe robuste, pédoncule court, grandes fleurs serrées, en pyramide compacte vers le sommet, toute l'inflorescence couverte d'un dense tomentum grisâtre-jaunâtre argenté. Bractées basales typiquement profondément tricuspides passant rapidement à des bractées supérieures ovales, longues de 6 mm, légèrement tricuspides, voire entières; bractées souvent munies extérieurement de 2 glandes circulaires latérales, glabres intérieurement, généralement ± persistantes; portion des pédicelles sous l'articulation 6-8 mm portant, parfois au sommet, généralement près du sommet, 2 bractéoles subopposées, ovales, longues de 2-3 mm, normalement entières ou denticulées glanduleuses, parfois légèrement tricuspides, souvent munies extérieurement de 2 glandes circulaires latérales, glabres intérieurement, généralement ± persistantes. Pédicelle de la fleur désarticulée 2-4 mm. Réceptacle 18-36 mm; sépales 8-10 mm, souvent munis latéralement, sur les bases exposées à l'extérieur dans le bouton, d'une petite glande circulaire; pétales blancs, largement obovales avec base subcordée, 6-9 mm de hauteur; androcée vert pâle, 40-60 mm, 60-75 filets.
+Racemes terminal or subterminal, solitary, 8–15(–40) cm, axis robust, pedicel short, large flowers congested, in compact pyramid toward the apex, entire inflorescence covered with dense greyish-yellowish silvery tomentum. Basal bracts typically deeply tricuspid, rapidly passing to upper ovate bracts, 6 mm long, slightly tricuspid or even entire; bracts often bearing externally 2 lateral circular glands, glabrous internally, generally ± persistent; portion of pedicels beneath the articulation 6–8 mm bearing, sometimes at the apex, generally near the apex, 2 subopposite bracteoles, ovate, 2–3 mm long, normally entire or glandulose-denticulate, sometimes slightly tricuspid, often bearing externally 2 lateral circular glands, glabrous internally, generally ± persistent. Pedicel of the abscised flower 2–4 mm. Receptacle 18–36 mm; sepals 8–10 mm, often bearing laterally on the bases exposed outside in the bud a small circular gland; petals white, broadly obovate with subcordate base, 6–9 mm in height; androecium pale green, 40–60 mm, 60–75 filaments.
 
-Drupe à pédoncule fructifère robuste, 25(-40) mm, subovoïde, obtuse au sommet, 25 × 30 × 40 mm (in vivo), verte à pubescence blanchâtre puis brun doré à pubescence dorée, simultanément formée d'un tomentellum court et de poils hispidules à hispides (env. 2 mm), épars et ± caducs. — PL. 16, p. 53.
+Drupe with robust fruiting pedicel 25(–40) mm, subovoid, obtuse at apex, 25 × 30 × 40 mm (in vivo), green with whitish pubescence then golden brown with golden pubescence, simultaneously formed of short tomentellum and hispidulous to hispid hairs (approx. 2 mm), scattered and ± caducous. — PL. 16, p. 53.
 
 ## Type
 
@@ -37,43 +35,41 @@ Griffon du Bellay 261, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+De Wildeman (l.c.: 208) hesitated in placing Acioa thollonii De Wild. in synonymy with A. pallescens Baill.; this now appears very evident. A. pallescens Baill. is very close to A. lujae De Wild. (=? A. buchneri Engl.) from Zaïre and Angola, which differs in having glabrescent petioles and apparently rather long, the blade base rounded or slightly subcordate, the undersurface of the midvein glabrous, rarely glabrescent, smaller flowers, more rounded sepals at the apex, fewer stamens; the two species, or transitional forms, thus appear to exist in Congo, Zaïre (Lower Zaïre) and perhaps in Angola.
 
-De Wildeman (l.c. : 208) a hésité pour placer Acioa thollonii De Wild. en synonymie d'A. pallescens Baill.; celle-ci paraît à présent très évidente. A. pallescens Baill. est très proche d'A. lujae De Wild. (=? A. buchneri Engl.) du Zaïre et de l'Angola, dont les pétioles sont glabrescents et en apparence assez longs, la base du limbe arrondie ou légèrement subcordée, le dessous de la nervure médiane glabre, rarement glabrescent, les fleurs plus petites, les sépales plus arrondis au sommet, les étamines moins nombreuses; les deux espèces, ou des formes de transition, paraissent ainsi exister au Congo, au Zaïre (Bas Zaïre) et peut-être en Angola.
+Acioa pallescens Baill. is known from Nigeria to Congo (and seemingly to Zaïre, at least to Mayumbe, cf. Donis 2106 (P!), Donis 2102, 2211, 2330, Wellens 48 (BR!), often along rivers and streams, sometimes on flooded terrain, sometimes also in forest scrubland. It is thus a species of the Atlantic border, while A. lujae De Wild. is localized in the Zaïre basin, extending into the upper Mbomou (Descoings 12236! from Central African Republic) and upper Katanga (Quarré 6894 from Zaïre).
 
-Ácioa pallescens Baill. est connue du Nigeria au Congo (et au Zaïre semble-t-il, tout au moins au Mayumbe, cf. Donis 2106, (P!), Donis 2102, 2211, 2330, Wellens 48(BR!), souvent au long des fleuves et rivières, parfois sur terrain inondable, parfois aussi dans des broussailles forestières. C'est donc une espèce de la bordure atlantique, alors qu'A. luja De Wild. se localise dans le bassin du Zaïre, jusque dans le haut Mbomou (Descoings 12236! de Centrafrique) et le haut Katanga (Quarré 6894 du Zaïre).
+Bos 3073, R. Lobé near ferry Grand Batanga, S Kribi (fl., Oct.); 3213, Broambe, 6 km S Kribi (fr., Nov.); 4989, between Mpalla and Bilolo, 10 km NE Kribi (fr., July); (WAG).
 
-Bos 3073, R. Lobé près bac Grand Batanga, S Kribi (fl., oct.); 3213, Broambe, 6 km S Kribi (fr., nov.); 4989, entre Mpalla et Bilolo, 10 km NE Kribi (fr., juill.); (WAG).
+De Wilde W & al. 2156, 50 km S Badjob and 60 km SW Eséka (?) (j. fl., Mar.); 2745a et b, R. Nyong, 35 km WSW Eséka (fl. and fr., June).
 
-De Wilde W & al. 2156, 50 km S Badjob et 60 km SW Eséka (?) (j. fl., mars); 2745 aet b, R. Nyong, 35 km WSW Eséka (fl. et fr., juin).
+Farron 7170, near Lobé falls, 7 km S Kribi (fl., Apr.).
 
-Farron 7170, près chutes de la Lobé, 7 km S Kribi (fl., avr.).
+Leeuwenberg 5621, R. Lokoundjé near Ebéa, 26 km N Kribi (fl., Apr.); 9753, R. Dibombé near road bridge Loum-Solé, 30 km SSW Nkongsamba (fl., Apr.) (WAG).
 
-Leeuwenberg 5621, R. Lokoundjé près Ebéa, 26 km N Kribi (fl., avr.); 9753, R. Dibombé près pont route Loum-Solé, 30 km SSW Nkongsamba (fl., avr.) (WAG).
+Letouzey 13689, between Mbenyan and Ndebaya, 30 km W Mamfe (fr., May).
 
-Letouzey 13689, entre Mbenyan et Ndebaya, 30 km W Mamfe (fr., mai).
+Staudt 618, Johann-Albrechtshöhe (present-day Kumba) (fl.); 944, ibid (cited in FWTA: 433).
 
-Staudt 618, Johann-Albrechtshöhe (actuel Kumba) (fl.); 944, ibid (cit. in FWTA : 433).
+Zenker "Flora von Kamerun" 88 (fl.) (B, WAG); "Fvk" 557 (Apr. 1914) (fl.) (B, P, WAG); 855, 1699, 2342 (fl.); 2698 (fr.); 4699, s.n. (fl.); Bipindi.
 
-Zenker « Flora von Kamerun » 88 (fl.) (B, WAG); « Fvk » 557 (avr. 1914) (fl.) (B, P, WAG); 855, 1699, 2342 (fl.); 2698 (fr.); 4699, s.n. (fl.); Bipindi.
+Breteler 6681, Ogooué River near Lastoursville (fl., Sept.); 6773, stream margin, km 23 Moanda-Franceville road (j. shoots, Oct.); 7001, ibid. (fl., Oct.); (WAG).
 
-Breteler 6681, fleuve Ogooué près Lastoursville (fl., sept.); 6773, bord ruisseau, km 23 route Moanda-Franceville (j. pousses, oct.); 7001, ibid. (fl., oct.); (WAG).
-
-Fleury in Chevalier 26396, fleuve Ogooué près Ngoko (v. fl., août).
+Fleury in Chevalier 26396, Ogooué River near Ngoko (v. fl., Aug.).
 
 Griffon du Bellay 261, s. loc. (fl.).
 
-Hallé N. 1899, fleuve Ogooué, 10 km SW Ndjolé (fl., avr.); 3827 Bélinga (fl., juin).
+Hallé N. 1899, Ogooué River, 10 km SW Ndjolé (fl., Apr.); 3827 Bélinga (fl., June).
 
-Le Testu 5501, Mitingo-Wano, 50 km ESE Mouila (fl., sept.) (BM, BR, P); 7508, 7532,
+Le Testu 5501, Mitingo-Wano, 50 km ESE Mouila (fl., Sept.) (BM, BR, P); 7508, 7532,
 
-Lastourville (fl., oct.); 8451, Mapouva, 70 km SSW Lastourville (fl., oct.).
+Lastourville (fl., Oct.); 8451, Mapouva, 70 km SSW Lastourville (fl., Oct.).
 
-Pobéguin 120, fleuve Ogooué (fl., oct.).
+Pobéguin 120, Ogooué River (fl., Oct.).
 
-Thollon 794 (type d'Acioa thollonii), fleuve Ogooué, Booué (fl., fr., mars).
+Thollon 794 (type of Acioa thollonii), Ogooué River, Booué (fl., fr., Mar.).
 
-Villiers J.-F. 252, 277, Mondah près Libreville (fl., sept.).
+Villiers J.-F. 252, 277, Mondah near Libreville (fl., Sept.).
 
 ## Figures
 

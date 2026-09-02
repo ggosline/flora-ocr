@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Veg. Erde 9, Pflanzenw. Afr. 3(1) : 276 (1915). Dicraea ledermannii Engl., Bot. Jahrb. Syst. 43(4) : 381 (1909). Ledermanniella ledermannii (Engl.) C.Cusset, Adansonia , sér. 2, 14(2) : 274 (1974). Plante à partie basale thalloïde rubanée ; tige dressée, robuste, simple ou ramifiée de façon dichotome, 2–5 cm de longueur, densément recouverte par des écailles foliacées , toutes de la même forme de la base au sommet. Écailles foliacées obovales, 0,8–0,9 × 0,5–0,6 mm, tridentées à dents triangulaires sensiblement égales entre elles, 0,2–0,3 mm de longueur. Feuilles 4–5-dichotomes, situées à la base des ramifications ou des spathelles, 2–4 cm de lon gueur, caduques. Inflorescence avec 1(–3) fleurs au sommet des derniers rameaux ; spathelle obovale, 1,5–2 mm de longueur, se déchirant à l’anthèse irrégulièrement au sommet. Fleur : pédicelle 3–4 mm après l’anthèse ; tépales filiformes, 0,3–0,4 mm ; androcée plus long que l’ovaire, étamines 1(–2), filets 2–2,5 mm, soudés sur à peu près la moitié de leur longueur, anthère 0,7–0,8 × 0,2–0,3 mm, pollen en dyades ; ovaire 2 × 0,5 mm, gynophore 0,4–0,5 mm de longueur ; stigmates linéaires, 0,3–0,4 mm. Graine 0,3 × 0,1 mm.
+Veg. Erde 9, Pflanzenw. Afr. 3(1) : 276 (1915). Dicraea ledermannii Engl., Bot. Jahrb. Syst. 43(4) : 381 (1909). Ledermanniella ledermannii (Engl.) C.Cusset, Adansonia , sér. 2, 14(2) : 274 (1974). Plant with a ribbon-like thalloid basal portion; stem erect, robust, simple or dichotomously branched, 2–5 cm in length, densely covered with foliate scales, all of the same form from base to apex. Foliate scales obovate, 0.8–0.9 × 0.5–0.6 mm, tridentate with triangular teeth substantially equal to one another, 0.2–0.3 mm in length. Leaves 4–5-dichotomous, situated at the base of the branches or spatheoles, 2–4 cm in length, caducous. Inflorescence with 1(–3) flowers at the apex of the terminal branchlets; spatheole obovate, 1.5–2 mm in length, tearing irregularly at the apex at anthesis. Flower: pedicel 3–4 mm after anthesis; tepals filiform, 0.3–0.4 mm; androecium longer than the ovary, stamens 1(–2), filaments 2–2.5 mm, united for approximately half their length, anther 0.7–0.8 × 0.2–0.3 mm, pollen in dyads; ovary 2 × 0.5 mm, gynophore 0.4–0.5 mm in length; stigmas linear, 0.3–0.4 mm. Seed 0.3 × 0.1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Côte d’Ivoire, Cameroun, Gabon, Angola et République démocratique du Congo ; au Gabon, connu d’un seul échantillon de l’Ogooué, entre Mimongo et Koulamoutou (Ogooué-Lolo)
+Guinea, Sierra Leone, Côte d'Ivoire, Cameroon, Gabon, Angola and Democratic Republic of the Congo; in Gabon, known from a single specimen from the Ogooué, between Mimongo and Koulamoutou (Ogooué-Lolo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au Gabon à ± 400 m d’altitude, ailleurs à 0–400 m. B : Cheek et al. (2017), Cusset (1983, 1987a), Sosef et al. (2006). i B liographie
+in Gabon at ± 400 m altitude, elsewhere at 0–400 m. B: Cheek et al. (2017), Cusset (1983, 1987a), Sosef et al. (2006). Bibliography
 
 26 Jean-Paul GHOGUE
 
-Inversodicraea 27 Feuillettes (× 22). - 4. Jeunes fleurs dégagées des spathelles (× 22). – 5. Grain de pollen (× 120). – 6. Graine (× 140). Dessin par C. Cusset, Muséum National d’Histoire Naturelle, Paris (©), reproduit avec permission à partir de Cusset (1983).
+Inversodicraea 27 Leaflets (× 22). - 4. Young flowers removed from spatheoles (× 22). – 5. Pollen grain (× 120). – 6. Seed (× 140). Drawing by C. Cusset, Muséum National d'Histoire Naturelle, Paris (©), reproduced with permission from Cusset (1983).
 
 28 Jean-Paul GHOGUE
 

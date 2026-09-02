@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub (?) glabrous with lateral branches somewhat sinuous with internodes 30–50 × 1.5–2 mm; stipules linear from the base, 5–7 mm long, arcuate. Petiole 3–5 mm; narrow channel with thin margins bearing a few hairs. Blade elliptic, 9–14 × 3–4.8 cm; base rounded or obtuse, rarely subacute; apex with a caudate acumen 10–22 × 1 mm, with subspathulate tip. Secondary nerves 6–8 pairs, clear and prominent beneath when dry, arcuate and distinctly looped back onto the intersecondary fields. Domatia glabrous with small perforation apparent under magnification.
 
-Arbuste (?) glabre à rameaux latéraux un peu sinueux avec des entrenceuds de 30-50 × 1,5-2 mm; stipules linéaires depuis la base, longues de 5-7 mm, arquées. Pétiole de 3-5 mm; canal étroit à marges minces portant quelques poils. Limbe elliptique de 9-14 × 3-4,8 cm; base arrondie ou obtuse, rarement subaiguë; sommet avec un acumen caudé de 10-22 × 1 mm, à extrémité subpathulée. Nervures secondaires 6-8 paires, claires et saillantes dessous à sec, arquées et nettement refermées sur les champs intersecondaires. Domaties glabres à petite perforation apparente à la loupe.
+Inflorescences glabrous in axillary glomerules of 5–15 flowers with staggered flowering. Pedicel 1–2 mm. Bud glabrous, 5 mm long, with obtuse apex. Calyx 2 mm high with the ovary, briefly tubular with very short denticules. Corolla tube at equatorial level slightly inflated; 5 lobes 1.5 × 1 mm; throat with a prominent tuft of clear hairs. 5 stamens orange-salmon (after softening); anther ca. 0.9 × 0.6 mm, apiculate; filament medifixed 2 mm (short-styled form). Style pubescent, 2 mm, with capitate stigma by juxtaposition of the two lobes. Disk 1.8 mm diam., convex, fleshy, glabrous, ornamented with 5 marginal furrows and an apical crown of pits. Ovary bilocular. Ovular masses 0.8 mm on a U-shaped placenta; locules partly partitioned on the upper side.
 
-Inflorescences glabres en glomérules axillaires de 5-15 fleurs à floraison échelonnée. Pédicelle de 1-2 mm. Bouton glabre, long de 5 mm, à sommet obtus. Calice de 2 mm de haut avec
+Fruit unknown.
 
-l'ovaire, brièvement tubuleux à denticules très courts. Tube de la corolle à niveau équatorial un peu renflé; 5 lobes de 1,5 × 1 mm; gorge avec une touffe saillante de poils clairs. 5 étanines orange-saumoné (après ramollissage); anthère d'env. 0,9 × 0,6 mm, apiculée; filet médidorsifxe de 2 mm (forme brévistyle). Style pubescent de 2 mm à stigmate capité par juxtaposition des deux lobes. Disque de 1,8 mm de diam., bombé, charnu, glabre, orné de 5 sillons marginaux et d'une couronne apicale de fossettes. Ovaire biloculaire. Masses ovulaires de 0,8 mm sur un placenta en U; loges en partie cloisonnées du côté supérieur.
-
-Fruit non connu.
-
-Type et seul matériel connu : Le Testu 6349 (P), Cougni (6 km W de Makangonio), Haute-Ngounyé, Gabon (fl. 23 oct. 1926).
+Type and only known material: Le Testu 6349 (P), Cougni (6 km W of Makangonio), Haute-Ngounyé, Gabon (fl. 23 Oct. 1926).
 
 ## Notes
 

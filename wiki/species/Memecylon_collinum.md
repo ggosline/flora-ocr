@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 18 (4) : 420, tab. 7 (1979); Fl. Cam. 24 : 136, tab. 45 (1983).
 
-Adansonia, sér. 2, 18 (4) : 420, tab. 7 (1979); Fl. Cam. 24 : 136, tab. 45 (1983).
+Shrub 2 to 3 m tall; branchlets slender, flexible, obscurely bisulcate, internodes short. Leaves small, coriaceous, opaque; petiole 1 to 2 mm; lamina elliptic-lanceolate, 1.5-2 × 3-4 (5) cm, apex obtuse; midrib alone visible, finely impressed above, not prominent below; in transparent view: 6 to 8 oblique transverse veins, the submarginal ones converging.
 
-Arbuste de 2 à 3 m; rameaux grêles, souples, obscurément bisillonnés, entrenœuds courts. Feuilles petites, coriaces, opaques; pétiole de 1 à 2 mm; limbe elliptique-lancéolé, 1,5-2 × 3-4 (5) cm, acumen obtus; nervure médiane seule visible, finement imprimée dessus, non saillante dessous; par transparence : de 6 à 8 transversales obliques, les convergentes submarginales.
+Axillary cymes, solitary or paired, 1 to 2 cm long; stipe slender 7 to 8 mm; 2 to 3 times ramified, with branches 5 and 2 mm, then flowers in umbellules on the last contracted pedicels, 40-50-flowered; bracts caducous. Flowers with pedicel 1-1.5 mm, subglobose in bud; hypantho-calyx 1.6 × 1.2 mm, cupuliform, margin narrow, undulate and 4-microdenticulate. Corolla pale in colour, well exserted in bud, apiculate; petals subquadrangular to semi-ovate, 1.4 × 1.6 mm, base truncate. Stamens slender; anther 1.3 × 0.6 mm; connective conical-acute, gland elliptic; filament 2.6 mm; epigynous chamber deep, with 8 septa, almost equidistant, meeting at the conical vertex of the ovary; style 3 mm. 6 to 8 ovules.
 
-Cymes axillaires, solitaires ou géminées, longues de 1 à 2 cm; stipe grêle de 7 à 8 mm; de 2 à 3 fois ramiﬁées, avec rameaux de 5 et 2 mm, puis ﬂeurs ombellulées sur les derniers pédoncules contractés, 40-50-ﬂores; bractées caduques. Fleurs à pédicelle de 1-1,5 mm, subglobuleuses dans le bouton; hypantho-calice 1,6 × 1,2 mm. cupuliforme, marge étroite, ondulée et 4-microdentée. Corolle de couleur pâle, bien dégagée dans le bouton, apiculée; pétales subquadrangulaires à semi-ovales, 1,4 × 1,6 mm, base tronquée. Étamines grêles; anthère 1,3 × 0,6 mm; connectif conique-aigu, glande elliptique; ﬁlet 2,6 mm; chambre épigyne profonde, avec 8 cloisons, presque équidistantes, se raccordant au vertex conique de l'ovaire; style 3 mm. De 6 à 8 ovules.
-
-Fruit globuleux, de 6 à 8 mm de diamètre. — Pl. 45, p. 125.
+Fruit globose, 6 to 8 mm in diameter. — Pl. 45, p. 125.
 
 ## Type
 
@@ -33,9 +31,7 @@ Hallé N. 3587, Gabon (holo-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce à petites feuilles, des rochers intraforestiers. Elle se rattache au M. huillense A. & R. FERNANDES des collines du sud de l'Angola.
+Species with small leaves, from intraforestry rocks. It is related to M. huillense A. & R. FERNANDES from the hills of southern Angola.
 
 ## Specimens examined
 

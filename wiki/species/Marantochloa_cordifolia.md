@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 J. Koechlin comb. nov. (Pl. XXVII)
 
-Herbes ramifiées. Feuilles homotropes à limbes glabres, brusquement rétrécis au sommet en un acumen étroit. Taille variable, pouvant atteindre  $ 30 \times 15 $ cm. Face inférieure souvent teintée de violet. Callus et partie non calleuse du pétiole pouvant atteindre respectivement  $ \pm 1 $ et  $ 4 $ cm.
+Branched herbs. Leaves homotropous with glabrous laminae, abruptly narrowed at the apex into a narrow acumen. Variable in size, reaching $ 30 \times 15 $ cm. Lower surface often tinged with violet. Callus and non-callous part of the petiole reaching respectively $ \pm 1 $ and $ 4 $ cm.
 
-Inflorescences en racèmes denses, simples ou parfois bifurqués à la base, de 5-15 cm de long, courtemment pédonculés ; bractées abaxiales rose-violacé, 30-35 × 8-10 mm, imbriquées, chacun allant jusqu'aux deux tiers de la longueur de la bractée suivante. Pédoncule commun des fleurs court, de moins de 1 cm de long, pédicelle de la fleur terminale de longueur analogue. Sépales scareux, jusqu'à 10 mm de long et plus, corolle longuement tubuleuse (tube environ 1 cm), blanche. Staminodes jaunes. Ovaire pubescent, ainsi que le fruit, au moins à l'état jeune. Capsule d'environ 7 mm de diamètre ; graines à arille lacinié.
+Inflorescences in dense racemes, simple or sometimes bifurcate at the base, 5–15 cm long, shortly pedunculate; abaxial bracts rose-violet, 30–35 × 8–10 mm, imbricate, each extending to two-thirds the length of the following bract. Common peduncle of the flowers short, less than 1 cm long, pedicel of the terminal flower of similar length. Sepals scarious, up to 10 mm long and more, corolla longly tubular (tube approximately 1 cm), white. Staminodes yellow. Ovary pubescent, as well as the fruit, at least when young. Capsule approximately 7 mm in diameter; seeds with laciniate aril.
 
 ## Type
 
@@ -34,11 +32,9 @@ Zenker 1206, Cameroun (B, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species known from Nigeria, Cameroon, Gabon and ex-Belgian Congo.
 
-Espèce connue du Nigéria, Cameroun, Gabon et Congo ex-belge.
-
-Sous-bois humides, bord des eaux.
+Humid understory, waterside.
 
 ## Figures
 

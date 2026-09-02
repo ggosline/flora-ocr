@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou arbrisseau atteignant 5 m de hauteur. Feuille glabre : pétiole de 10–15 mm ; limbe HOOLSWLTXH de 17,5–25 × 6,8–10 cm , aigu à la base, acuminé au sommet ; nervure médiane étroitement canaliculée dessus, nervures secondaires ± droites et légèrement courbées vers le bord, en 8 à 10 paires , souvent avec 1 à 3 nervures secondaires moins visibles entre elles, IRUPDQWXQHQHUYXUHVXEPDUJLQDOHHWXQDQJOHGH±DYHFODPpGLDQHQHUYDWLRQWHUWLDLUH peu visible. ,QÀRUHVFHQFH WHUPLQDOHSDUIRLVD[LOODLUHRPEHOOpHDYHFjÀHXUVSpGRQFXOH de 3–5 mm ; axes glabres ; bractées minuscules, glabres. Fleur : pédicelle de 4–10 mm ; calice à lobes de 4,6–6 × 1–2 mm , graduellement plus étroites vers le sommet, avec une rangée de petits collétères à la base interne ; corolle blanche, jusqu’à 30 mm de longueur en bouton , glabre à l’extérieur, à tube de 16–21 × 2–4 mm VXEF\OLQGULTXHOpJqUHPHQWSOXVODUJHDXWRXU les anthères, peu poilu au niveau de la tête du pistil à l’intérieur, à lobes étalés, de 12–16 × 3–7 mm DUURQGLVDXVRPPHWJODEUHVpWDPLQHVLQFOXVHVLQVpUpHVYHUVOHѿVXSpULHXUGXWXEH GXSLVWLORYRwGHHWjVRPPHWVWLJPDWRwGHGHîPP Fruit : méricarpes divergeant à pWURLWHPHQWRYRwGHVGH ± 7 × 2 cm, obtusément acuminés au sommet , jaunâtre, lisses. Graine de forme variable mais toujours aplatie et anguleuse, de 17–24 × 11–13 × 5–8 mm , lisse ; embryon long de ± 1 cm. Distribution HQGpPLTXHGX*DERQFRQQXXQLTXHPHQWGXVXGRXHVWGHV0RQWVGH&ULVWDO(VWXDLUH
+Shrub or small tree reaching 5 m in height. Leaf glabrous: petiole 10–15 mm; lamina HOOLSWLTXH 17.5–25 × 6.8–10 cm, acute at base, acuminate at apex; midvein narrowly canaliculate above, secondary veins ± straight and slightly curved towards the margin, in 8 to 10 pairs, often with 1 to 3 less visible secondary veins between them, IRUPDQWXQHVXEPDUJLQDOQHUYXUHDQGDQDQJOHRI±ZLWKWKHPLGYHLQQHUYXUHWLDULO\SLQOB inconspicuous. Inflorescence terminal, sometimes axillary, umbellate with flowers; pedicel 3–5 mm; axes glabrous; bracts minuscule, glabrous. Flower: pedicel 4–10 mm; calyx with lobes 4.6–6 × 1–2 mm, gradually narrower towards apex, with a row of small colleters at the internal base; corolla white, up to 30 mm in length in bud, glabrous outside, with tube 16–21 × 2–4 mm VXEF\OLQGULFDOVOLJKWO\ZLGHUDURXQGWKHDQWKHUVSDUWO\KDLU\DWWKHSLVWLOKHDGLQVLGHZLWKOREHVSUHVVHG± 12–16 × 3–7 mm URXQGHGDWDSH[JODEURXVVWDPHQVLQFOXGHGLQVHUWHGWRZDUGVWKH±XSSHUGXHWRERWKSLVWLORYRLOGDQGDW±aPPVWLJPDWRLGDSH[ Fruit: mericarps diverging at QDURZRYRRGRI±7 × 2 cm, obtusely acuminate at apex, yellowish, smooth. Seed of variable shape but always flattened and angular, 17–24 × 11–13 × 5–8 mm, smooth; embryo ± 1 cm long. Distribution HQGHPLLFWR*DERQNQRZQRQO\IURPWKHVRXWKZHVWRID&U\VWDO0RXQWDLQV(VWXDU\
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de la forêt sempervirente primaire et secondaire, apparemment avec une préférence pour des stations rocheuses à sous-bois ouvert, souvent le long des rivières, mais aussi sur terre ferme ; à 34–327 m d’altitude. B : Jongkind & Lachenaud (2022). IBLIOGRAPHIE
+understory of primary and secondary evergreen forest, apparently with a preference for rocky stations with open understory, often along rivers, but also on terra firme; at 34–327 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
 ## Notes
 

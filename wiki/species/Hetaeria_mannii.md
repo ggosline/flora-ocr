@@ -17,33 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– Zeuxine mannii (Rchb.f.) Geerinck, Bull. Jard. Bot. Nat. Belg. 50 : 122, fig. 2 (1980).
 
-– Zeuxine mannii (Rchb.f.) Geerinck, Bull. Jard. Bot. Nat. Belg. 50 : 122,fig. 2 (1980).
-
-Tige 28-40 cm, glabre, glanduleuse le long de l'axe de l'inflorescence. Feuilles réunies sur la partie inférieure de la tige, 9-14 × 2-5 cm, obiquement lancéolées, ovées à elliptiques, acuminées. Inflorescence < 14 cm, < 30-flore. Fleurs brun-blanchâtre. Sépales, base externe munie de glandes éparses : sépale dorsal oblong-ové, subobtus ; sépales laté
-
-PL. 33. – Hetaeria mannii (Rchb.f.) Durand & Schinz: A, fleur et bractée ; B, labelle vu de dessus ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille (A-F, Thollon 1224, P).
-
-raux obliquement ovés, subaigus. Pétales linéaires-oblancéolés, aigus. Labelle contracté près du sommet, sessile, partie inférieure sacciforme, face interne avec quelques rares processus digités, charnus, marges apicales involutées ; épichile à 2 lobes réfléchis, oblongs à oblongs-ovés, arrondis au sommet – Pl. 33, p. 73.
+Stem 28-40 cm, glabrous, glandular along the axis of the inflorescence. Leaves clustered on the lower part of the stem, 9-14 × 2-5 cm, obliquely lanceolate, ovate to elliptic, acuminate. Inflorescence < 14 cm, < 30-flowered. Flowers brownish-whitish. Sepals, outer base furnished with scattered glands: dorsal sepal oblong-ovate, subobtuse; lateral sepals obliquely ovate, subacute. Petals linear-oblanceolate, acute. Labellum contracted near the apex, sessile, lower part sacciform, inner surface with a few rare digitate processes, fleshy, apical margins involute; epichile with 2 reflexed lobes, oblong to oblong-ovate, rounded at the apex – Pl. 33, p. 73.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Cameroun, Congo (Brazzaville), Congo (Kinshasa)
+Gabon, Cameroon, Congo (Brazzaville), Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 760 m. Terrestrial herb of humid forest, primary rain forest
 
-alt. 760 m. Herbacée terrestre de forêt humide, forêt primaire ombrophile
+MATERIAL EXAMINED (Map 11):
 
-MATÉRIEL ÉTUDIÉ (Carte 11) :
+Reitsma J. M. & B. 886, Chantier Rougier, Océan, Oveng, 0°40' N, 11°22' E (fl., May), WAG!, LBV, NY;
 
-Reitsma J. M. & B. 886, Chantier Rougier, Océan, Oveng, 0°40' N, 11°22' E (fl., Mai), WAG!, LBV, NY ;
-
-Thollon 1224, « Gabon. Congo », forêt du Mayumbe (fl., Nov.), P!.
+Thollon 1224, "Gabon. Congo", Mayumbe forest (fl., Nov.), P!.
 
 ## Figures
 

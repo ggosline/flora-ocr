@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Megaclinium clarkeí Rolfe, Kew Bull. 56 : 198 (1891).
 
 – Bulbophyllum clarkeí (Rolfe) Schltr., Bot. Jahrb. Syst. 38 : 13 (1905).
@@ -31,31 +29,27 @@ tags: [species, generated]
 
 – Bulbophyllum chevalierii De Wild., Pl. Bequaert. 1: 80 (1921).
 
-Pseudobulbes 1,8-9 × 0,8-3,6 cm, orbiculaires à étroitement ovoïdes ou étroitement ellipsoïdaux, 2-foliés. Feuilles subsessiles à pétiolées, 3-28 × 0,7-6 cm, elliptiques à linéaires, obtuses à subaiguès. Inflorescence assez lâche, 6-55 cm, rachis limbiforme, glabre ou finement papilleux, < 100-flore. Fleurs petites, sépales et pétales crème, jaunes ou verts, souvent tachetés, striés ou estompés de pourpre. Sépales aigus, glabres ou avec des poils fins abaxiaux ; sépale dorsal oblong-lancéolé à ové-lancéolé ; sépales latéraux obliquement triangulaires, acuminés à subcuspidés. Pétales falciformes linéaires, aigus, acuminés ou cuspidés. Labelle crème ou jaune à pourpre pâle, ové ou triangulaire, obtus, glabre, épais, récurvé. - Pl. 82, p. 167.
+Pseudobulbs 1.8–9 × 0.8–3.6 cm, orbicular to narrowly ovoid or narrowly ellipsoidal, 2-leaved. Leaves subsessile to petiolate, 3–28 × 0.7–6 cm, elliptic to linear, obtuse to subacute. Inflorescence fairly lax, 6–55 cm, rachis limbate, glabrous or finely papillose, < 100-flowered. Flowers small, sepals and petals cream, yellow or green, often spotted, striped or suffused with purple. Sepals acute, glabrous or with fine abaxial hairs; dorsal sepal oblong-lanceolate to ovate-lanceolate; lateral sepals obliquely triangular, acuminate to subcuspidulate. Petals falcately linear, acute, acuminate or cuspidate. Lip cream or yellow to pale purple, ovate or triangular, obtuse, glabrous, thick, recurved. - Pl. 82, p. 167.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Cameroon, Gabon, Angola, Congo (Brazzaville), Central African Republic, Congo (Kinshasa), Sudan, Ethiopia, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique, South Africa
 
-Guinée, Cameroun, Gabon, Angola, Congo (Brazzaville), Centrafrique, Congo (Kinshasa), Soudan, Éthiopie, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique, Afrique du Sud
-
-PL. 81. – Bulbophyllum sandersonii (Hook.f.) Rchb.f.: A, vue générale ; B, inflorescence ; C, fleur ; D, pièces florales ; E, labelle ; F, labelle et gynostème en position naturelle, vue latérale ; G, anthère ; H, pollinies (A-H, ex VERMEULEN, 1987).
+PL. 81. – Bulbophyllum sandersonii (Hook.f.) Rchb.f.: A, general view; B, inflorescence; C, flower; D, floral parts; E, lip; F, lip and gynosteme in natural position, lateral view; G, anther; H, pollinia (A–H, ex VERMEULEN, 1987).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–2300 m. Epiphyte often very exposed in rainforest, lowland, primary, semi-deciduous or montane, Brachystegia woodland, sometimes in secondary forest; collected on Elaeophorbia cf. grandifolia; sometimes lithophytic
 
-alt. 0-2300 m. Épiphyte souvent très exposé en forêt ombrophile, planitiaire, primaire, semi-décidue ou montagnarde, boisement à Brachystegia, parfois en forêt secondaire ; récolté sur Elaeophorbia cf. grandifolia ; parfois lithophyte
+MATERIAL STUDIED (Map 29):
 
-MATÉRIEL ÉTUDIÉ (Carte 29) :
+Breteler, Jongkind & Dibata 8662, 20–40 km NNE of Koumémayong, 0° 15' N, 11° 55' E (fl., Apr.), WAG!, LBV, NY.
 
-Breteler, Jongkind & Dibata 8662, 20-40 km NNE de Koumémayong, 0° 15' N, 11° 55' E (fl., Avr.), WAG!, LBV, NY.
+Le Testu 5770, between Bangui and Batouri, Haut Wano (fl., Nov.), P.
 
-Le Testu 5770, entre Bangui et Batouri, Haut Wano (fl., Nov.), P.
+Reitsma J. M. & B. 2013, 6 km NW of Oveng, Chantier Rougier Océan, 0° 41' N, 11° 07' E (fl., Mar.), WAG!, LBV.
 
-Reitsma J. M. & B. 2013, 6 km NO de Oveng, Chantier Rougier Océan, 0° 41' N, 11° 07' E (fl., Mars), WAG!, LBV.
-
-Reitsma J. M. & B. & Louis 1886, 24 km SE de Médouneu, 0°51' N, 10°56' E (fr. Fév.), WAG!, LBV.
+Reitsma J. M. & B. & Louis 1886, 24 km SE of Médouneu, 0°51' N, 10°56' E (fr. Feb.), WAG!, LBV.
 
 ## Figures
 

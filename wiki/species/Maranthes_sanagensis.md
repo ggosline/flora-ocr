@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Adansonia 16 (2) : 232, tab. 2 (1976); BJBB 46 : 307 (1976).
 
-Petit arbre de 6-8 m de hauteur totale, à tronc peu élevé mais atteignant jusqu'à 1 m de diamètre, souvent noueux, tordu et prostré; cime globuleuse étendue; jeunes pousses rouges; rhytidome gris brunâtre, légèrement écailleux. Pétiole long de 5-8 mm portant au sommet, au contact de la base non décurrente du limbe, 2 glandes circulaires ou marginées. Limbe coriace, ovale à elliptique, 4,5-9,5 × 8,5-15 cm, à base subcordée, à sommet aigu ou obtus abruptement cuspidé, avec 6-10 paires de nervures latérales légèrement arquées et réseau de nervilles réticulé subproéminent dessus et dessous; surfaces glabres, vert foncé luisant dessus, vert pâle dessous.
+Small tree 6–8 m in total height, with a low trunk but reaching up to 1 m in diameter, often knotty, twisted and prostrate; globose, spreading crown; young shoots red; bark grayish-brown, slightly scaly. Petiole 5–8 mm long bearing at the apex, at the contact with the non-decurrent base of the lamina, 2 circular or margined glands. Lamina coriaceous, ovate to elliptic, 4.5–9.5 × 8.5–15 cm, with subcordate base, acute or obtuse apex abruptly cuspidate, with 6–10 pairs of slightly curved lateral veins and reticulate veinlet network subprominent above and below; surfaces glabrous, dark green shining above, pale green below.
 
-Inflorescences relativement peu fleuries (env. 20 fleurs), simples ou en racèmes branchus avec cymes de 1-3 fleurs, atteignant 15 cm de largeur et 8 cm de hauteur. Pédicelle long de 8-12 mm; réceptacle obconique, 8-14 mm de hauteur et 4-5 mm à l'ouverture, extérieurement gris tomentelleux velouté; de même les sépales suborbiculaires, longs de 6-10 mm; pétales jaunâtres teintés de pourpre,  $ 13 \times 18 $ mm; 50-60 filets staminaux jaunâtres, longs de 50-60 mm; 1 carpelle postérieur développé et fertile, hispide, 2 latéraux ± avortés.
+Inflorescences relatively sparsely flowered (ca. 20 flowers), simple or in branched racemes with cymes of 1–3 flowers, reaching 15 cm in width and 8 cm in height. Pedicel 8–12 mm long; receptacle obconic, 8–14 mm in height and 4–5 mm at the opening, externally gray tomentellous velvety; likewise the suborbicular sepals, 6–10 mm long; petals yellowish tinged with purple, 13 × 18 mm; 50–60 yellowish staminal filaments, 50–60 mm long; 1 posterior carpel developed and fertile, hispid, 2 lateral ones ± aborted.
 
-Drupes fusiformes aplaties, pointues aux extrémités,  $ 20 \times 25 \times 60 $ mm, vert pâle, garnies de lenticelles jaunâtres ou grisâtres, glabres, avec calice et androcée persistants. — PL. 36, p. 121.
+Drupes fusiform flattened, pointed at the extremities, 20 × 25 × 60 mm, pale green, bearing yellowish or grayish lenticels, glabrous, with persistent calyx and androecium. — PL. 36, p. 121.
 
 ## Type
 
@@ -33,13 +31,11 @@ Leeuwenberg 5476, Cameroun (holo-, P!; iso-, BR! K! WAG!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-NOTES TAXONOMIQUES :
+Maranthes sanagensis F. White is easily distinguished from all other species of Maranthes, except from M. gabunensis (Engl.) Prance, by its large flowers. It differs from the latter by its habit, its leaf with subcordate base (not acute or rounded) and abruptly cuspidate apex (not caudate-acuminate), by its shorter flowers, 3.5 cm (not 5–5.5 cm, this measurement being taken from the articulation of the pedicel to the apex of the posterior sepal), covered externally with a gray tomentellum (and not glabrous), and by its longer staminal filaments, 6 cm (not 4 cm).
 
-Maranthes sanagensis F. White se distingue aisément de toutes les autres espèces de Maranthes, sauf de M. gabunensis (Engl.) Prance, par ses grandes fleurs. Elle diffère de cette dernière par son port, sa feuille à base subcordée (non aiguë ou arrondie) et à sommet abruptement cuspidé (non caudé-acuminé), par ses fleurs plus courtes, de 3,5 cm (non 5-5,5 cm, cette dimension étant prise de l'articulation du pédicelle au sommet du sépale postérieur), couvertes extérieurement d'un tomentellum gris (et non glabres), et par ses filets staminaux plus longs, de 6 cm (non de 4 cm).
-
-Cette espèce n'est connue que des galeries forestières des rives de la moyenne Sanaga au Cameroun et des basses vallées de ses affluents; elle se localise sur les sables alluviaux et parmi les blocs de gneiss. En période d'inondation ces arbres peuvent être submergés sous 2 à 3 m d'eau.
+This species is known only from the gallery forests of the banks of the middle Sanaga in Cameroon and the lower valleys of its tributaries; it is localized on alluvial sands and among gneiss blocks. During the flood period these trees can be submerged under 2 to 3 m of water.
 
 ## Specimens examined
 

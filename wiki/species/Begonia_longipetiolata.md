@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bot. Jahrb. Syst. 34(1) : 92 (1904). Épiphyte ; tige couchée , rampante, (2–)3–7 mm de diamètre, atteignant 1 m de longueur. Stipules à peu près persistantes, étroitement triangulaires, 7–17(–25) × 3–6 mm. Feuilles : pétiole de 2–15(–29) cm ; limbe ± symétrique, elliptique-oblong, ovato-oblong, presque linéaire ou très étroitement obovale, parfois faiblement falciforme, 4–27 × 1–15 cm, base cunéiforme à obtuse ou subcordée, sommet aigu à acuminé, bords entiers à faiblement sinueux et denticulés. Inflorescence unisexuée ; les ♂ multi (5–70)-flores , pédoncule 1–10 cm ; les ♀ 1(–2)-flores à pédoncule atteignant 8 mm. Fleur ♂ pendante, aplati en bouton , dressée à l’anthèse ; pédicelle 3–10 mm ; tépales externes elliptiques à obovales ou subcirculaires, 3–10 × 3–8 mm, les internes plus étroits, 2,5–8 × 1–2,5 mm ; androcée zygomorphe, étamines 8–30(–40), fasciculées, parties libres des filets longues de 0,1–0,7 mm, anthères déhiscentes par 2 fentes apicales courtes (ressemblant à des pores) . Fleur ♀ subsessile ; tépales semblables à ceux des fleurs ♂ ; ovaire 10–24 mm de longueur, section circulaire, 2,5–5,5 mm de diamètre ; styles (2–3–)4(–5), bifides au sommet, zone stigmatique en forme de fer à cheval, torsadée aux extrémités. Infrutescence à 1 fruit. Fruit en forme de saucisse, rétréci vers le sommet, 10–30(–40) × 3–7 mm, déhiscent par 1 à 3 fentes longitudinales.
+Bot. Jahrb. Syst. 34(1) : 92 (1904). Epiphyte; stem decumbent, creeping, (2–)3–7 mm in diameter, reaching 1 m in length. Stipules nearly persistent, narrowly triangular, 7–17(–25) × 3–6 mm. Leaves: petiole 2–15(–29) cm; blade ± symmetric, elliptic-oblong, ovate-oblong, almost linear or very narrowly obovate, sometimes weakly falciform, 4–27 × 1–15 cm, base cuneate to obtuse or subcordate, apex acute to acuminate, margins entire to weakly sinuous and denticulate. Inflorescence unisexual; the ♂ multi(5–70)-flowered, peduncle 1–10 cm; the ♀ 1(–2)-flowered with peduncle reaching 8 mm. ♂ Flower pendulous, flattened in bud, erect at anthesis; pedicel 3–10 mm; outer tepals elliptic to obovate or subcircular, 3–10 × 3–8 mm, the inner ones narrower, 2.5–8 × 1–2.5 mm; androecium zygomorphic, stamens 8–30(–40), fasciculate, free portions of filaments 0.1–0.7 mm long, anthers dehiscing by 2 short apical slits (resembling pores). ♀ Flower subsessile; tepals similar to those of ♂ flowers; ovary 10–24 mm long, circular in section, 2.5–5.5 mm in diameter; styles (2–3–)4(–5), bifid at apex, stigmatic zone horseshoe-shaped, twisted at the extremities. Infructescence with 1 fruit. Fruit sausage-shaped, narrowed toward apex, 10–30(–40) × 3–7 mm, dehiscent by 1 to 3 longitudinal slits.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale (y compris Bioko), Gabon, Congo (Brazzaville), Angola (Cabinda), République Démocratique du Congo
+Nigeria, Cameroon, Equatorial Guinea (including Bioko), Gabon, Congo (Brazzaville), Angola (Cabinda), Democratic Republic of the Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses ombrophiles ; jusqu’à 1200 m d’altitude
+Dense rainforests; up to 1200 m in altitude
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ sang-mongongo (Fang). B : Arends (1992), de Wilde (2002). IBLIOGRAPHIE Idem, apr
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-<!-- caption: Planche 48. Begonia loranthoides subsp. rhopalocarpa : 1. Rameau avec inflorescence ♂ (× ½). – 2. Idem, avec inflorescence ♀ (× ½). – 3. Silhouette d’une feuille étroitement elliptique (× ½). – 4. Fleur ♂ (× 1,5). – 5. Anthère vue de face (× 10). – 6. Inflorescence ♀, 1-flore (× 1,5). – 6a. -->
+<!-- caption: Plate 48. Begonia loranthoides subsp. rhopalocarpa: 1. Branch with ♂ inflorescence (× ½). – 2. Idem, with ♀ inflorescence (× ½). – 3. Silhouette of a narrowly elliptic leaf (× ½). – 4. ♂ Flower (× 1.5). – 5. Anther seen from front (× 10). – 6. ♀ Inflorescence, 1-flowered (× 1.5). – 6a. -->
 
 ## Notes
 

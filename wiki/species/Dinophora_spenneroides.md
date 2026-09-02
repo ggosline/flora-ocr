@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrublet glabrescen, graceful, loosely ramified, erect up to 4 m; branchlets 4-angular, then rounded, slender, with long internodes. Leaves with slender petiole, often furnished with a few short capitate hairs, varying from 1 to 10 cm on the same pair; blade ± 8 × 16 (22) cm, or 1.5 × 5 cm, lanceolate, base rounded and cordate, apex acuminate-acute; with short and very sparse setae above, glabrous below; 5, (7) nerves, the transverse ones regularly parallel; margins distinctly, but loosely, serrulate-dentate.
 
-Arbrisseau glabrescent, gracieux, lâchement ramiifié, dressé jusqu'à 4 m; rameaux 4-angulaires, puis arrondis, grêles, à longs entrenœuds. Feuilles à pétiole grêle, souvent pourvu de quelques poils capités courts, varie de 1 à 10 cm sur la même paire; limbe ± 8 × 16 (22) cm, ou 1,5 × 5 cm, lancé, base arrondie et cordée, sommet acuminé-aigu; avec soies courtes et très éparses au-dessus, glabre en dessous; 5, (7) nervures, les transversales régulièrement parallèles; marges nettement, mais lâchement, serretées-dentées.
+Panicle of 3 to 6 tiers of bipare cymes, up to $ 20 \times 27 $ cm, pendulous, light, all axes and pedicels slender; terminal above a last pair of very reduced leaves; bracts and bracteoles subulate, very slender. Flower with hypanthium very attenuated on the pedicel, from 5 to 15 mm above the bracteoles; perfectly glabrous, with thick wall; calyx short, thick, entire or barely undulate; lobes reduced to a small keeled or mucronate tooth on the back. Petals pink, fleshy, ± 10 mm long. External stamens with oblong anther of 5 mm; dorsal connective of 2 mm, with anterior appendage of 1 mm, enlarged-bilobate at the apex; filament 5 mm. Internal stamens with angled anther, 3 mm, base 2-tuberculate in front; filament 4 mm. Style thickened towards the top, ± 10 mm.
 
-Panicule de 3 à 6 étages de cymes bipares, jusqu'à  $ 20 \times 27 $ cm, pendante, légère, tous axes et pédicelles grêles; terminale au-dessus d'une dernière paire de feuilles très réduites; bractées et bractéoles subulées, très menues. Fleur à hypanthe très atténué sur le pédicelle, de 5 à 15 mm au dessus des bractéoles; parfaitement glabre, à paroi épaisse; calice court, épais, entier ou à peine ondulé; lobes réduits à une petite dent carénée ou mucronée sur le dos. Pétales roses, charnus, long de  $ \pm 10 $ mm. Étamines externes à anthère oblongue de 5 mm; pédoconnectif de 2 mm, avec appendice antérieur de 1 mm, élargi-bilobé au sommet; filet 5 mm. Étamines internes à anthère coudée, 3 mm, base 2-tuberculée en avant; filet 4 mm. Style épaissi vers le haut,  $ \pm 10 $ mm.
-
-Baie ellipsoïde,  $ 1,5 \times 1,7 $ mm, souvent blanchâtre; l'ovaire atteint le rebord de l'hypanthe. Graines  $ \pm 1 $ mm, lisses. — Pl. 41, p. 109.
+Berry ellipsoid, $ 1.5 \times 1.7 $ mm, often whitish; the ovary reaches the rim of the hypanthium. Seeds ± 1 mm, smooth. — Pl. 41, p. 109.
 
 ## Type
 
@@ -31,9 +29,7 @@ Vogel 189, Fernando Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce guinéo-congolaise, de Sierra Leone à l'Angola et tout le Zaïre; absente d'Afrique orientale. Affectionne les éclaircies en forêt; bords de sentiers, recrês postculturaux, etc.
+Guineo-Congolian species, from Sierra Leone to Angola and throughout Zaire; absent from East Africa. Prefers forest clearings; edges of paths, post-cultural regrowth areas, etc.
 
 ## Specimens examined
 

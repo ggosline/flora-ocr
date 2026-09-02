@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hk., Sec. Cent. Ferns 2 : t. 75 (1861). — Tard., Mém. IFAN 28 : 180, t. 34, f. 2 (1953). — Alston, FWTA : 56 (1959).
 
-Rhizome court, à frondes en touffe, portant des écailles deltoïdes, brusquement rétrécies en une pointe acuminée, munies de longs prolongements sur les bords. Pétiole grisâtre, long de 25-30 cm, portant quelques écailles étroites, noires. Limbe à contour ovale-lancéolé, penné, long de 20-30 cm sur 4-5 de large, Pennes opposées, très nombreuses, horizontales, sessiles, rapprochées, les inférieures légèrement réduites et défléchies, les moyennes longues de 2-4 cm sur 0,5 à 1 cm de large, à bases inégales, la supérieure cunéiforme, plus ou moins auriculée, l'inférieure oblique, les marges légèrement dentées, l'extrémité, soit très effilée, soit obtuse. Extrémité de la fronde brusquement réduite, linéaire, lobée, portant souvent, à la base de cette partie étroite, un bourgeon. Texture subcoriace. Nervures généralement simples, aboutissant dans les lobes. Rachis écailleux; sores généralement épais et courts. Spores ovales, portant un réseau lâche de crêtes étroites.
+Rhizome short, with fronds in tufts, bearing deltoid scales, abruptly narrowed to an acuminate point, furnished with long extensions on the margins. Petiole greyish, 25–30 cm long, bearing a few narrow, black scales. Blade with oval-lanceolate outline, pinnate, 20–30 cm long by 4–5 cm wide. Pinnae opposite, very numerous, horizontal, sessile, crowded together, the lower ones slightly reduced and deflexed, the middle ones 2–4 cm long by 0.5–1 cm wide, with unequal bases, the upper base cuneiform, more or less auriculate, the lower base oblique, the margins slightly dentate, the apex either very tapered or obtuse. Apex of the frond abruptly reduced, linear, lobed, often bearing, at the base of this narrow portion, a bud. Texture subcoriaceous. Veins generally simple, ending in the lobes. Rachis scaly; sori generally thick and short. Spores oval, bearing a loose network of narrow ridges.
 
 ## Type
 
@@ -34,11 +32,9 @@ Fernando-Po, Barter (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Congo, São Thomé, Fernando Po, Prince Island.
 
-De la Guinée au Congo, San-Thomé, Fernando-Po, Ile du Prince.
-
-Sous-bois ombragés, sur schistes.
+Shaded understory, on schist.
 
 ## Specimens examined
 

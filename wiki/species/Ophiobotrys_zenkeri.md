@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in ENGL., PWA 3 (2) : 592 (1921). TYPES : Zenker 2387, Cameroon (lecto-, isolecto-); Zenker 2124, 2302, 2417, 2537 and Winkler 86, Cameroon (syn-).
 
-in ENGL., PWA 3 (2) : 592 (1921). TYPES : Zenker 2387, Cameroun (lecto-, isolecto-); Zenker 2124, 2302, 2417, 2537 et Winkler 86, Cameroun (syn-).
+Tree (10-30-(40) m tall) or shrub; young branchlets pubescent.
 
-Arbre (10-30-(40) m de haut) ou arbuste ; jeunes rameaux pubescents.
+Leaves with very small, caducous stipules; petiole glabrous, about 1 cm long; blade elliptic, glabrous, 5-15 × 2-6 cm, subcoriaceous, cuneate or obtuse at base, ± acuminate at apex; secondary nerves 3-4 pairs.
 
-Feuilles à stipules très petites, caduques ; pétiole glabre, d'environ 1 cm de long ; limbe elliptique, glabre, 5-15 × 2-6 cm, subcoriace, cunéé ou obtus à la base, ± acuminé au sommet ; nervures secondaires 3-4 paires.
+Inflorescences in terminal, slender panicles. Flowers small, greenish-white, very caducous; pedicel about 1 mm long, surrounded by small persistent bracts united into a cupule; sepals ovate, 2 × 1.5 mm, glabrous; stamens alternating with the disc lobes; filaments glabrous, 2-2.5 mm long; anthers subglobose; ovary tomentose-woolly, with 3 multiovulate placentas; style pubescent, divided into 3 stigmatic branches.
 
-Inflorescences en panicules terminales, grêles. Fleurs petites, blanc verdâtre, très caduques ; pédicelle d'environ 1 mm de long, entouré de petites bractées persistantes et soudées en cupule ; sépales ovales, 2 × 1,5 mm, glabres ; étamines alternant avec les lobes du disque ; filets glabres, de 2-2,5 mm de long ; anthères subglobuleuses ; ovaire tomenteux-laineux, à 3 placentas multiovulés ; style pubescent, divisé en 3 branches stigmatiques.
-
-Fruits : capsules ellipsoïdales, à surface légèrement veloutée, 5-10 × 3-8 mm. - Pl. 4, p. 17.
+Fruits: ellipsoid capsules, with slightly velvety surface, 5-10 × 3-8 mm. - Pl. 4, p. 17.
 
 ## Type
 
@@ -35,15 +33,11 @@ Zenker 2387, Cameroun (lecto-, BR, cf. SLEUMER 1976 ; isolecto-, P!) ; Zenker 21
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Sao Tomé, Gabon, RCA, Zaïre
+Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, São Tomé, Gabon, CAR, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses ombrophiles
+Dense ombrophilous forests
 
 ## Specimens examined
 

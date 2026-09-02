@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Engl., Pflanzenw. Afr. 3 (2) : 473 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 129, tab. 5 (1961); Germain, FCB 10 : 322 (1963).
 
-— Brazzeia thollonii BaILL., l.c. 2 : 868 (1890).
+— Brazzeia thollonii BAILL., l.c. 2 : 868 (1890).
 
 — Rhaptopetalum thollonii (BAILL.) V. TIEGH., l.c. : 372 (1905).
 
@@ -31,15 +29,15 @@ Engl., Pflanzenw. Afr. 3 (2) : 473 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 
 
 — Erythropyxis eetveldeana (DE WILD. & TH. DUR.) ENGL., Bot. Jahrb. 32 : 103 (1902).
 
-— Brazzeia eetveldeana (DE WILD. & TH. DUR.) V. TIẾGH., l.c. : 357 (1905).
+— Brazzeia eetveldeana (DE WILD. & TH. DUR.) V. TIEGH., l.c. : 357 (1905).
 
 — Rhaptopetalum brachyantherum V. TIEGH., l.c. : 373 (1905).
 
-Arbuste ou petit arbre atteignant jusqu'à 8-10(-15) m de hauteur et 20-25 cm de diamètre; tronc parfois ramié non loin du sol; rhytidome brun verdâtre; écorce fibreuse à tranche rouge sang; bois très dur; rameaux étendus ainsi que feuillages disposés horizontalement; très jeunes rameaux glabres mais à surface liégeuse, rougeâtre, se plissotant et se desquamant; pétiole très court, ne dépassant pas 3 mm. Limbe ± coriace, elliptique ou légèrement ovale, oblong ou obovale, avec légère inégalité des deux moitiés latérales, 2,5-5(-6) × 5-10(-12) cm, atteignant parfois 6 × 12(-17) cm; base ± aiguë asymétrique; sommet obtus rétréci en un acumen pointu, obtus ou tronqué long de 5-10 mm; marge entière ou faiblement ondulée; 3-4(-5) paires de nervures latérales arquées ascendantes, anastomosées à 2-3 mm de la marge, réseau de nervilles parallèles assez distinct dessous et étiré ± perpendicularement à la nervure médiane; limbe vert glauque dessous.
+Shrub or small tree reaching up to 8–10(–15) m in height and 20–25 cm in diameter; trunk sometimes branched not far from the ground; rhytidome brownish-green; bark fibrous with blood-red exposed surface; wood very hard; branches extended and foliage arranged horizontally; very young branches glabrous but with corky, reddish surface, becoming wrinkled and flaking; petiole very short, not exceeding 3 mm. Lamina ± coriaceous, elliptic or slightly ovate, oblong or obovate, with slight inequality of the two lateral halves, 2.5–5(–6) × 5–10(–12) cm, sometimes reaching 6 × 12(–17) cm; base ± acute asymmetric; apex obtuse narrowing into a sharp, obtuse or truncate acumen 5–10 mm long; margin entire or weakly undulate; 3–4(–5) pairs of lateral veins arching upwards, anastomosing 2–3 mm from the margin, network of veinlets fairly distinct beneath and drawn ± perpendicular to the midvein; lamina glaucous green beneath.
 
-Inflorescences sur toute la hauteur du tronc et sur les branches, (1)-5-10 fleurs. Bouton floral blanc, rosé au sommet, globuleux, pointu, avec pédicelle 7-10(-14) mm, glabre. Calice vert, largement patelliforme sinueux et ployé ou scutelliforme, 5 mm de diamètre dans le bouton et 10 mm dans la fleur, à marge entière ou festonnée et pouvant se déchirer irrégulièrement; corolle rose à lobes longs de 14 mm; étamines hautes de 8 mm, à filets blancs et anthères de 1,5-2 mm; ovaire (4?-5-6(-7) loges, style 2-3 fois aussi long que l'ovaire.
+Inflorescences on the entire height of the trunk and on branches, (1)–5–10 flowers. Floral bud white, pinkish at the apex, globose, pointed, with pedicel 7–10(–14) mm, glabrous. Calyx green, broadly patelliform sinuate and plicate or scutelliform, 5 mm in diameter in the bud and 10 mm in the flower, with entire or crenate margin and capable of tearing irregularly; corolla pink with lobes 14 mm long; stamens 8 mm tall, with white filaments and anthers 1.5–2 mm; ovary (4?)–5–6(–7) locules, style 2–3 times as long as the ovary.
 
-Jeunes capsules vertes portées par un pédicelle arqué, recourbé vers le bas et vers le tronc ou la branche, longues de 7-10(-15) mm. À maturité capsules orangées puis rouges, brunes ensuite, subglobuleuses, 15-20(-40) mm de diamètre, à déhiscence très tardive, s'ouvrant par 5-6 valves. — PL. 41, p. 145.
+Young capsules green borne on an arched pedicel, recurved toward the base and toward the trunk or branch, 7–10(–15) mm long. At maturity capsules orange then red, subsequently brown, subglobose, 15–20(–40) mm in diameter, with very late dehiscence, opening by 5–6 valves. — PL. 41, p. 145.
 
 ## Type
 
@@ -47,25 +45,21 @@ Thollon 604, Congo (fleurs, avec feuilles d'une plante différente, P!). PARATYP
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+For discussion of the synonymy, see LETOUZEY, l.c. : 129–131, 1961.
 
-Pour la discussion de la synonymie, voir LETOUZEY, I.c. : 129-131, 1961.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Arbuste ou petit arbre assez fréquent au long des cours d'eau, en sous-bois périodiquement inondé ou parfois marécageux. Cette espèce est connue au Cameroun, dans les galeries forestières de la zone des savanes périforestières, ainsi qu'au long des rivières de la zone de forêt dense humide semi-décidue, et se trouve ainsi répandue de Yoko à Moloundou, alors qu'elle semble absente plus à l'Ouest. Rare au Gabon (rives de l'Ivindo à Makokou), elle fréquente les bords du Congo et de ses affluents (Niari, Djaré), de la Sangha et, au long de l'Oubangui, atteint le Centrafrique, jusqu'à la Ouaka près Bambari. À l'Est de ces quatre territoires, elle se rencontre dans la vallée du Zaïre et dans toutes les basses vallées de ses principaux affluents.
+Shrub or small tree fairly frequent along watercourses, in understory periodically flooded or sometimes swampy. This species is known from Cameroon, in forest galleries of the zone of periforest savanna, as well as along rivers of the zone of dense humid semi-deciduous forest, and is thus distributed from Yoko to Moloundou, although it appears to be absent further to the West. Rare in Gabon (banks of the Ivindo at Makokou), it frequents the banks of the Congo and its tributaries (Niari, Djaré), the Sangha, and along the Oubangui reaches the Central African Republic, as far as the Ouaka near Bambari. East of these four territories, it is found in the valley of the Zaïre and in all the lower valleys of its principal tributaries.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+According to WALKER & SILLANS (Pl. Ut. Gabon : 397, 1961), same uses as for Brazzeia klainei Pierre ex V. Tiegh. (= Brazzeia soyauxii var. acuminata R. Let.; see this taxon)
 
-D'après WALKER & SILLANS (Pl. Ut. Gabon : 397, 1961), mêmes usages que pour Brazzeia klainei Pierre ex V. Tiegh. (= Brazzeia soyauxii var. acuminata R. Let.; voir ce taxon)
+In Zaïre, wood sometimes used for tool handles.
 
-Au Zaïre, bois utilisé parfois pour manches d'outils.
-
-Les usages indiqués, pour cette espèce, par Bouquet, Féticheurs et médecines traditionnelles du Congo-Brazzaville : 228 (1969) peuvent être considérés comme douteux, l'échantillon cité (Bouquet 2091, P!) n'étant pas une Scytopétalacée. (Il existe par contre un échantillon (Bouquet 2191, P!), non cité, se rattachant bien à cette espèce.)
+The uses indicated for this species by Bouquet, Féticheurs et médecines traditionnelles du Congo-Brazzaville : 228 (1969) may be considered as doubtful, the specimen cited (Bouquet 2091, P!) not being a Scytopetalacheae. (There is on the other hand a specimen (Bouquet 2191, P!), not cited, which properly belongs to this species.)
 
 ## Vernacular names
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige pleine. Feuilles à 3 folioles ; pétiole 3–9 cm, lâchement pileux ou glabre, pétiolules 0,6–2 cm ; folioles obovées (celles des feuilles inflorescentielles oblongues-ovées), 3,5–9,0 × 2–7 cm, cunéiformes ou obtuses à la base, arrondies ou obtuses ou très courtement acuminées à l’apex , face supérieure glabre, face inférieure éparsement pileuse vers la base des nervures ; nervures latérales 1(–2) paires , isssues du tiers inférieur du limbe. Fleurs : tépales à face intérieure tomentelleuse et pourvus à la base de soies, tépales externes 5–6 mm de longueur, 3–5-nervés, les internes 5 × 0,4–0,5 mm, 1-nervés ; filets des étamines pourvus d’appendices lancéolés atteignant 1 mm de longueur. Fruit 3-
-
-ailé , pubérulent, partie centrale atteignant jusqu’à 3 cm de longueur, les 2 ailes majeures longues de 3,0–4,2 cm, la mineure jusqu’à 0,7 cm.
+Stem solid. Leaves with 3 leaflets; petiole 3–9 cm, loosely pilose or glabrous, petiolules 0.6–2 cm; leaflets obovate (those of the inflorescence leaves oblong-ovate), 3.5–9.0 × 2–7 cm, cuneate or obtuse at the base, rounded or obtuse or very shortly acuminate at the apex, upper surface glabrous, lower surface sparsely pilose towards the base of the veins; lateral veins 1(–2) pairs, arising from the lower third of the lamina. Flowers: tepals with tomentellous inner surface and provided at the base with bristles, outer tepals 5–6 mm in length, 3–5-veined, inner ones 5 × 0.4–0.5 mm, 1-veined; filaments of the stamens provided with lanceolate appendages reaching 1 mm in length. Fruit 3-winged, puberulent, central part reaching up to 3 cm in length, the 2 major wings 3.0–4.2 cm long, the minor one up to 0.7 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Léone, le Libéria, la Côte d’Ivoire, le Cameroun, le Gabon et la République Centrafricaine
+from Sierra Leone, Liberia, Ivory Coast, Cameroon, Gabon and the Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires. B : Keay (1952), Hutchinson & Dalziel (1954), Kubitzki (1969). IBLIOGRAPHIE
+secondary forests. B: Keay (1952), Hutchinson & Dalziel (1954), Kubitzki (1969). BIBLIOGRAPHY
 
 ## Notes
 

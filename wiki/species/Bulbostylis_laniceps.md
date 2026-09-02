@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace , grêle, en touffe, avec une à cinq tiges et de nombreuses feuilles issues d’un court rhizome ligneux ; tiges de 15‒55 cm × 0,3‒1,2 mm, trigones, glabres . Feuille : gaine brun rougeâtre avec de longs poils en haut ; limbe de 5‒23 cm × 0,1‒0,2 mm, finement scabre au moins vers l’extrémité. Inflorescence en tête dense de 5‒10 mm de largeur , formée de nombreux épillets serrés, ordinairement globuleuse, rarement hémisphérique, avec de longs poils blanchâtres flexueux à l’état jeune ; bractées involucrales (sauf celles de la base qui sont semblables aux glumes) longues de 1‒6 cm, foliacées, très scabres, étalées ou réfléchies, brun rougeâtre avec de longs poils blancs à la marge. Épillet lancéolé–ellipsoïde, de 4‒5 × 1‒1,5 mm, avec de nombreux longs poils blancs à la base et tombant avec l’âge ; glumes principales longues de 3‒4 mm , glabres, brun rougeâtre clair à foncé avec une nervure centrale plus pâle et terminée par une pointe courte. Akène de 0,7‒0,8 × 0,4‒0,5 mm, obovale, distinctement trigone, grisâtre ; base persistante du style petite et brun rougeâtre foncé ; surface de l’akène couverte de fines papilles .
+Perennial herb, slender, in tufts, with one to five stems and numerous leaves arising from a short woody rhizome; stems 15–55 cm × 0.3–1.2 mm, trigonous, glabrous. Leaf: sheath reddish-brown with long hairs at the top; blade 5–23 cm × 0.1–0.2 mm, finely scabrous at least towards the apex. Inflorescence in a dense head 5–10 mm wide, formed of numerous tightly packed spikelets, ordinarily globose, rarely hemispherical, with long whitish flexuous hairs when young; involucral bracts (except those at the base which are similar to the glumes) 1–6 cm long, foliaceous, very scabrous, spreading or reflexed, reddish-brown with long white hairs on the margin. Spikelet lanceolate–ellipsoid, 4–5 × 1–1.5 mm, with numerous long white hairs at the base and falling with age; main glumes 3–4 mm long, glabrous, light to dark reddish-brown with a paler central nerve and terminating in a short point. Achene 0.7–0.8 × 0.4–0.5 mm, obovate, distinctly trigonous, greyish; persistent base of style small and dark reddish-brown; surface of the achene covered with fine papillae.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, depuis le Liberia jusqu’en Centrafrique et vers le sud, jusqu’en Angola et Zambie ; assez fréquente au Gabon, trouvée dans l’Estuaire, le HautOgooué, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Lolo (24 récoltes)
+Tropical Africa, from Liberia to the Central African Republic and southward to Angola and Zambia; fairly frequent in Gabon, found in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Lolo (24 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in herbaceous savannas, often on lateritic soils, particularly frequent on annually burned savannas; in Gabon, at 0–600 m elevation. Taxonomic note: With its woolly spherical inflorescence, this species is distinguished from all other species in Gabon
 
-dans les savanes herbeuses, souvent sur les sols latéritiques, particulièrement fréquente sur les savanes brûlés annuellement ; au Gabon, à 0‒600 m d’altitude. Note taxonomique : Avec son inflorescence sphérique laineuse, cette espèce se distingue de toutes les autres espèces du Gabon
-
-Inflorescence. – E. Épillet. – F. Glumes. – G. Fruit. Dessin original par Richard W. Haines ©. B : Goetghebeur & Coudijzer (1984b), Hooper & Napper (1972), Nelmes & ibliographie Baldwin (1952).
+Inflorescence. – E. Spikelet. – F. Glumes. – G. Fruit. Original drawing by Richard W. Haines ©. B: Goetghebeur & Coudijzer (1984b), Hooper & Napper (1972), Nelmes & Baldwin (1952).
 
 ## Notes
 

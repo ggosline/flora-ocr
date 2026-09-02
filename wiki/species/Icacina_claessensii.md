@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane reaching the forest canopy. Branches brown glabrous, ±shining, strongly ribbed. Petiole 1.5-2 cm long, glabrous, channelled above and very strongly wrinkled below. Lamina glabrous on both surfaces, dark brown matte on the upper surface, light brown on the lower surface, elliptic, sometimes lanceolate, 12-22.5 × 8-11.5 cm; base rounded or attenuate, apex attenuate or shortly acuminate acute. Midvein concave above, prominent below. Secondary veins 5-6 pairs, ascending, arched, anastomosing 2 mm from the lamina margin, concave above, prominent below. Veinlets in dense network, prominent on both surfaces.
 
-Liane atteignant le dôme de la forêt. Rameaux bruns glabres, 士luisants, fortement côtelés. Pétiole long de 1,5-2 cm, glabre, canaliculé dessus et très fortement ridé dessous. Limbe glabre sur les deux faces, marron foncé mat à la face supérieure, marron clair à la face inférieure, elliptique, parfois lancéolé, 12-22,5 × 8-11,5 cm; base arrondie ou atténuée, sommet atténué ou courtement acuminé aigu. Nervure médiane concave dessus, saillante dessous. Nervures secondaires 5-6 paires, ascendantes, arquées, s'anastomosant à 2 mm du bord du limbe, concaves dessus, saillantes dessous. Nervilles en réseau dense, saillant sur les deux faces.
+Inflorescence in fascicles of racemes or many-flowered spikes. Rachis glabrous 5-8 cm long. Flowers ¥, pentamerous, green or yellow, 7 × 5 mm, sessile or subpedicellate. Sepals connate, glabrous on both surfaces, pubescent on the upper margin, elliptic in shape, 2 × 1 mm; apex acute. Petals free from each other, ±reflexed, sparsely pubescent externally and tuft pubescence at the centre of the inner surface, elliptic in shape, 5 × 2 mm; apex acute. Stamens 5 gynobasic, free, 7 mm long; filament slender 6 mm long, caudate at the apex; anthers 2-locular ovoid, 1 mm long; connective appendiculate at the apex. Pistil 4 mm long; ovary pubescent 1 mm wide; style ±bifid, pubescent, 2-3 mm long, ending in an oblong stigma.
 
-Inflorescence en fascicules de grappes ou d'épis multiflores. Rachis glabre long de 5-8 cm. Fleurs ¥, pentamères, vertes ou jaunes, 7 × 5 mm, sessiles ou subpédicellées. Sépales soudés, glabres sur les deux faces, pubescents sur le bord supérieur, de forme elliptique, 2 × 1 mm; sommet aigu. Pétales libres entre eux, ± réfléchis, éparsement pubescents extérieurement et pubescence en touffe au centre de la face interne, de forme elliptique, 5 × 2 mm; sommet aigu. Étamines 5 gynobasiques, libres, longues de 7 mm; filet grêle long de 6 mm, caudé au sommet; anthères à 2 loges ovoïdes, longues de 1 mm; connectif appendiculé au sommet. Pistil long de 4 mm; ovaire pubescent large de 1 mm; style ± bifide, pubescent, long de 2-3 mm, se terminant par un stigmate oblong.
-
-Drupe rouge violacé, ellipsoïde obovale asymétrique. PL. 12, 1-7', p. 53.
+Drupe red violaceous, asymmetric ellipsoid obovate. PL. 12, 1-7', p. 53.
 
 ## Type
 
@@ -31,9 +29,7 @@ J. Claessens 350, Katako-Kombe Zaire, (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts de terre ferme et rivulaires, dans les galeries forestières depuis la Guinée équatoriale jusqu'au Kasaï et au Cabinda.
+This species is found in upland and riparian forests, in forest galleries from Equatorial Guinea to Kasai and Cabinda.
 
 ## Specimens examined
 

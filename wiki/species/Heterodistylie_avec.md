@@ -136,64 +136,6 @@ Nous proposons 3 clés d’identification des genres : une clé générale qui e
 
 CLÉ GÉNÉRALE DES GENRES
 
-1. Fleurs à 5 carpelles. 2. Follicules (presque) glabres ..... 7. Rourea 2. Follicules couverts d'un indumentum continu de poils parfois glanduleux. 3. Androgynophore net ..... 6. Manotes 3. Pas d'androgynophore net. 4. Intérieur des follicules pubescent ..... 2. Cnestis 4. Intérieur des follicules glabre. 5. Sépales fortement accrescents sous le fruit ..... 7. Rourea 5. Sépales invisibles ou caduces sous le fruit ..... 1. Agelaea 1. Fleurs à 1 seul carpelle. 6. Feuilles unifoliolées ..... 4. Hemandradenia 6. Feuilles à plus d'une foliole. 7. Petit arbre de sous-bois; pétales et filets glabres; follicules indéhiscents, 1-2 spermes ..... 5. Jollydora 7. Petit arbre, arbuste ou liane; pétales et/ou filets portant de nombreux poils (parfois glandulaires); follicules déhiscents, mono-spermes ..... 3. Connarus
-
-CLÉ DES GENRES PAR LES FLEURS
-
-3. Feuilles 3- ou 5-foliolées ; la plupart des poils en fascicule et sépales souvent bordés de grands poils multicellulaires ou face supérieure des folioles portant de nombreuses cellules à mucus (formant de petites ponctuations sur le sec) ..... 1. Agelaea
-
-3'. Feuilles adultes non disponibles ou plante n'ayant pas ces caractères.
-
-4. Sépales plus longs que les pétales et/ou réfléchis à l'anthèse .... 2. Cnestis
-
-4. Sépales plus courts que les pétales et non réfléchis à l'anthèse.
-
-5. Pétales connivents et/ou leur longueur 2 fois celles des sépales.
-
-6. Sépales ≈ 3 fois aussi longs que larges, face externe jamais entièrement recouverte de poils glandulaires ; pétales 2 fois la longueur des sépales, jamais connés ; pétiole long de > 1 cm Cnestis corniculata
-
-6'. Plante ne présentant pas ces caractères ..... 7. Rourea
-
-5'. Pétales non connivents et 2 fois plus courts que les sépales.
-
-7. Inflorescences sur des rameaux assez âgés adultes, parfois accompagnées de jeunes pousses ..... 2. Cnestis
-
-7'. Inflorescences sur de jeunes pousses à l'aisselle de feuilles jeunes ou réduites ..... Rourea cassioides
-
-8. Feuilles unifoliolées ..... 4. Hemandradenia 8'. Feuilles à plusieurs folioles. 9. Petit arbre de sous-bois ; pétales et filets glabres ..... 5. Jollydora 9'. Petit arbre, arbuste ou liane ; pétales et/ou filets avec de nombreux poils (parfois glanduleux) ..... 3. Connarus
-
-CLÉ DES GENRES PAR LES FRUITS
-
-1. Follicules, face externe (presque) glabre (follicules immatures pouvant être pubescents).
-
-2. Petit arbre de sous-bois ; follicules indéhiscents souvent 2-spermes, jamais plus d'un follicule par fleur ..... 5. Jollydora
-
-2. d'unc
-
-3. Graine basifixe dans le follicule ..... 7. Rourea
-
-3. Graine ventrifixe dans le follicule..... 3. Connarus
-
-l'. Follicules couverts d'un indumentum continu de poils (parfois glandulaires).
-
-4. Graines (presque) sans endosperme ; cotylédons plan-convexes.
-
-5. Graines ventrifixes dans le follicule ..... 3. Connarus
-
-6. Sépales fortement accrescents et rougeâtres sous le fruit ..... 7. Rourea
-
-6. Sépales non visibles sous le fruit ou caducis ..... 1. Agelaea
-
-4'. Graines avec albumen abondant ; cotylédons aplatis.
-
-7. Follicules déhiscents, face interne pubescente ..... 2. Cnestis
-
-7'. Follicules déhiscents et intérieurement glabres, ou indéhiscents.
-
-8. Feuilles unifoliolées ; follicules indéhiscents ..... 4. Hemandradenia
-
-8'. Feuilles plurifoliolées ; follicules déhiscents ..... 6. Manotes
-
 ## Notes
 
 <!-- TODO:notes -->

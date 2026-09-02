@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Sap. Holl. Ind.: 21 (1877-78).
 
 — Sapindus senegalensis Juss., in LAM., Enc. Bot. 6 : 666 (1804).
@@ -26,11 +24,9 @@ Sap. Holl. Ind.: 21 (1877-78).
 
 — Schmidelia thyrsoides (Schum. & Thonn.) Bak., in OLIV., FTA 1:423 (1863).
 
-Arbuste ou arbre de 6-9 m, rameux, atteignant 75 cm de diamètre, parfois liane (LE TESTU); écorce rugueuse, grise, rameaux arrondis; striés, à courtes soies fauves, bientôt glabres. Feuilles 1-2-juguées; pétiole court, 1-2 cm; rachis 2-3 cm; folioles 8-12(-25) × 4-5(-8) cm, tantôt obovales,
+Shrub or tree 6–9 m tall, much-branched, reaching 75 cm diameter, sometimes climbing (LE TESTU); bark rugose, grey, branchlets rounded, striated, with short tawny hairs, soon glabrous. Leaves 1–2-jugate; petiole short, 1–2 cm; rachis 2–3 cm; leaflets 8–12(–25) × 4–5(–8) cm, sometimes obovate, sometimes oblong-lanceolate, glabrous; lacking an acumen; secondary nerves forming 6–8 arcs with intercalary nerves; between the marginal nerve and these major arcs, 2 series of tertiary arcs are drawn.
 
-tantôt oblongues-lancéolées, glabres; pas d'acumen; nervures secondaires formant 6-8 arcs avec nervures intercalaires; entre la nervure marginale et ces grands arcs, se dessinent 2 séries d'arcs tertiaires.
-
-Inflorescences de 15-20 cm, formées d'une grappe composée de cymes bipares; l'axe principal, 15-20 cm, porte dès sa base 10-15 rameaux de longueur décroissante (10-1 cm); ces derniers portent à leur tour des cymes bipares stipitées (2 mm) à l'aisselle de bractées de 2-3 mm; les axes sont glabres; les bractées sont velues ciliées. Fleurs jaunâtres à ovaire rouge groseille (LE TESTU), 7-13 par cyme, pédicellées (2-3 mm); bouton glabre de 3 mm; pétales 2 mm à écaille courte, bilobée, hérissée, limbe arrondi, glabre, mais cilié au bord. Fruit à pédicelle de 8-10 mm articulée au milieu; méricarpe de 18-12 mm. PL. 15, 1-9, p. 77.
+Inflorescences 15–20 cm, formed of a raceme composed of dichasial cymes; the main axis, 15–20 cm, bears from its base 10–15 branches of decreasing length (10–1 cm); these latter bear in turn stipitate (2 mm) dichasial cymes in the axil of bracts 2–3 mm; the axes are glabrous; the bracts are velutinous-ciliate. Flowers yellowish with currant-red ovary (LE TESTU), 7–13 per cyme, pedicellate (2–3 mm); bud glabrous 3 mm; petals 2 mm with a short, bilobate, bristly scale, rounded limb, glabrous, but ciliate at the margin. Fruit with pedicel 8–10 mm articulate in the middle; mericarp 18–12 mm. PL. 15, 1–9, p. 77.
 
 ## Type
 
@@ -38,15 +34,13 @@ Adanson in Jussieu 11386, Sénégal (holo-, P-JU)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Prise dans ce sens l'espèce s'étend du Sénégal à travers l'Afrique tropicale jusqu'à Madagascar, par la Guinée, la Côte d'Ivoire, le Ghana, le Dahomey, le Togo, le Cameroun, la République Centrafricaine, le Gabon, le Zaïre. Une variété a été distinguée pour les plantes à grandes folioles,  $ 18-20 \times 6-7 \, cm $ :
+Taken in this sense the species extends from Senegal across tropical Africa to Madagascar, through Guinea, Ivory Coast, Ghana, Dahomey, Togo, Cameroon, Central African Republic, Gabon, Zaire. A variety was distinguished for plants with large leaflets, $ 18–20 \times 6–7 \, cm $ :
 
 var. sylvatica (Chev. ex Hutch. & DALZ.) AUBR., Fl. Forest. Côte d'Ivoire 2 : 193, tab. (1936).
 
 — A. sylvatica C.Hev. ex H.TCH. & DALZ., FWTA, ed. 1, 1:502 (1928).
 
-Les plantes du Gabon et du Cameroun sont à rapporter à cette variété.
+The plants from Gabon and Cameroon are to be referred to this variety.
 
 ## Specimens examined
 

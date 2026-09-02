@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane or sarmentose ± bushy plant attaining 4–7 m. Branches brown lenticellate glabrescent. Stipules triangular acute 3–5 mm high, apex sometimes split into two teeth. Petiole ± pubescent 5–11 (20) mm long. Limb reddish-brown when dry, glabrous or somewhat pubescent above, 9–15 (20) ± 4–8 (11) cm; base acute, rounded or subcordate; apex acute often terminated by a small curved acumen with inrolled margins. Midvein ± pubescent above. 12–17 pairs of secondary veins.
 
-Liane ou plante sarmenteuse ± buissonnante atteignant 4-7 m. Rameaux bruns lenticellés glabrescents. Stipules triangulaires aiguës hautes de 3-5 mm, à sommet parfois fendu en deux dents. Pétiole ± pubescent long de 5-11 (20) mm. Limbe roussâtre à sec, glabre ou un peu pubescent dessus, de 9-15 (20) ± 4-8 (11) cm; base aiguë, arrondie ou subcordée; sommet aigu souvent terminé par un petit acumen arqué à marges enroulées. Médiamé ± pubescente dessus. 12-17 paires de nervures secondaires.
+Inflorescences rather dense adorned with foliaceous white sepals of variable dimensions. Flowers 5–6-merous grouped in pseudoumbels of approximately 6–9. Calyx tawny pubescent with deltoid lobes 1.5–2 mm high. Corolla tawny-ochraceus pubescent 30–35 mm long; lobes yellow about 3.5 mm, almost as wide as long. Anthers 7.5 × 0.9 mm. Ovary with 2–4 locules.
 
-Inflorescences assez denses ornées de sépales foliacés blancs de dimensions variables. Fleurs 5-6-mères groupées en pseudombelles par 6-9 environ. Calice fauve pubescent à lobes deltoïdes de 1,5-2 mm de hauteur. Corolle fauve-ochracé pubescente longue de 30-35 mm; lobes jaunes d'env. 3,5 mm, presque aussi larges que longs. Anthères de 7,5 × 0,9 mm. Ovaire à 2-4 loges.
-
-Fruit globuleux pubescent d'environ 2 cm, un peu pédonculé. Graine comprimée de 1,1 mm.
+Fruit globose pubescent approximately 2 cm, somewhat pedicellate. Seed compressed 1.1 mm.
 
 ## Type
 
@@ -31,11 +29,9 @@ Nannan 54 (K, non vu), riv. Ikilemba, Congo ex-belge
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Riverbanks on temporarily inundated soil.
 
-Bords de cours d'eau sur sol temporairement inondé.
-
-L'espèce est bien connue du Congo, spécialement du District Forestier Central, elle ne paraît pas avoir été récoltée au Cameroun.
+The species is well known from the Congo, especially from the Central Forest District; it does not appear to have been collected in Cameroon.
 
 ## Specimens examined
 

@@ -16,29 +16,27 @@ tags: [species, generated]
 
 ## Synonyms
 
-- Neostenanthera macrantha auct.:Pellegrin,Bull. Soc.Bot.Fr.,Mém. 31 : 56 (1949),p.p.,non (Mildbr.et Diels） Exell.
+- Neostenanthera macrantha auct.:Pellegrin,Bull. Soc.Bot.Fr.,Mém. 31 : 56 (1949),p.p.,non (Mildbr.et Diels) Exell.
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Affinis N. hamatae (Benth.) Exell dense, rufous pubescence, mericarps long-pedicellate, tomentose-rufous, but differing in inflorescences arising from old wood, outer petals extremely fleshy, patent, densely tomentose-brown, inner petals broadly ovate or suborbicular, apex internally pubescent-subalb.
 
-Affnis N. hamatae (Benth.) Exell pubescentia densa,rufa,mericarpiis longe pedicellatis,tomentoso-rufis,sed differt inflorescentiis e ligno vetere ortis,petalis exterioribus maxime carnosis,patentibus,dense tomentoso-fuscis,petalis interioribus late ovatis vel suborbiculatis,apice intus pubescenti-subalbis.
+Shrub or small tree to 15 m tall, 25 cm in diam. Young branchlets densely pubescent brown-rufous, petiole stout 1-1.5 cm long, tomentose-rufous; lamina elliptic-oblong, base subrounded or rounded, apex attenuate-acuminate or obtusely and shortly acuminate, lower surface pubescent with flexuous, ± lanate, rufous hairs.
 
-Frutex vel arbor parva ad I5 m alta,25 cm in diam.Ramuli novelli dense pubescentes fusco-rufi，petiolo crasso I-I,5 cm longo,tomentoso-rufo；lamina elliptico-oblonga,basi subrotuntundata vel rotundata,apice attenuato-acuminata, vel obtuse et breviter acuminata,pagina inferiore pubescenti pilis flexuosis, ±lanuginosis,rufis.
+Inflorescences branched, arising from old wood; pedicel 3-4.5 cm long, tomentose-rufous. Outer petals very thick, patent, lanceolate, elliptic in section, 2-2.5 cm long, 3-5 mm wide, base dilate, concave, both surfaces densely tomentose; inner petals very thick, concave, broadly ovate or suborbicular, 7-9 mm in diam., base broadly and shortly unguiculate, outside tomentose-rufous, apex internally pubescent-subalb.
 
-Inflorescentiae ramosae e ligno vetere ortae；pedicellus 3-4,5 cm longus, tomentoso-rufus.Petala exteriora crassissima,patentia,lanceolata,in sectura elliptica, 2-2,5 cm longa，3-5 mm lata,basi dilatata,concava,utraque pagina dense tomentosa；petala interiora crassissima,concava,late ovata vel suborbiculata,7-9 mm in diam.,ima basi late et breviter unguiculata,extra tomentosorufa,apice intus pubescenti-subalba.
+Fruits arising from old wood, with many mericarps (30-40), long-pedicellate, pedicel 4.5-6 cm long, shortly ellipsoid, densely tomentose-rufous, apex mucronate.
 
-Fructus e ligno vetere orti，mericarpiis multis (3o-4o)，longe pedicellatis, pedicello 4,5-6 cm longo，breviter ellipsoideis,dense tomentoso-rufis,apice mucronatis.
+Typus: Le Testu 8635, Ndingui, région de Lastoursville, Gabon (holotypus BM!; isotypus P!).
 
-Typus :Le Testu 8635,Ndingui,région de Lastoursville,Gabon (holotypus BM!;isotypus P!).
+FIG. 4.- Neostenanthera Robsonii Le Thomas: 1, inflorescence × 2/3; 2, flower, view from above × 2; 3, outer petal × 2; 4, flower, outer petals removed × 2; 5, 6, inner petal × 2 (Le Testu 8635).
 
-FIG．4.- Neostenanthera Robsonii Le Thomas :1,inflorescence × 2/3；2,fleur, vue par dessus × 2;3,pétale externe × 2;4,fleur,pétales externes enlevés × 2; 5,6,pétale interne X 2 (Le Testu 8635).
+Shrub or small tree reaching 15 m in height and 25 cm in diameter. Branchlets densely pubescent brown-rufous. Leaves papyraceous, with stout petiole, 1-1.5 cm long, pubescent-rufous; limb elliptic-oblong, 10-27 cm long, 4-8.5 cm wide, attenuate-acuminate at apex, or obtusely and shortly acuminate, rounded to subrounded at base; upper surface glabrous, olive-green, lower surface ± glaucous, pubescent with soft, ± lanate, rufous hairs, denser on the nerves. Midvein impressed above, prominent below; lateral nerves 16-21 pairs, oblique-ascending, salient below; reticulum of parallel, regular nervules, well visible on the lower surface.
 
-Arbuste ou petit arbre atteignant I5 m de hauteur et 25 cm de diamétre.Ramilles densément pubescentes brun roux. Feuilles papyracées,a pétiole épais, long de 1-1,5 cm，pubescent-roux; limbe elliptique-oblong，long de 1o-27 cm, large de 4-8,5 cm, atténué-acuminé au sommet,äobtusément et courtement acuminé, arrondi ä subarrondi á la base;face supérieure glabre,vert olive, face inférieure 士 glauque, pubescente á poils mous,± laineux, roux,plus denses sur les nervures.Nervure médiane imprimée au-dessus,proéminente en dessous;nervures latérales I6-2I paires, obliques ascendantes,saillantes en dessous;réticulum de nervilles paralleles,régulieres,bien visibles ä la face inférieure.
+Inflorescences cauline on 1-6 m of trunk height, in woody shrublets; floral pedicel stout, 3-4.5 cm long, enlarged at apex, tomentose-brown. Basal bracteoles, minute. Sepals semi-orbicular, 1 mm long, 3 mm wide, tomentose-brown. Petals very fleshy, the outer ones spreading horizontally, elliptic in section, lanceolate, 2-2.5 cm long, 3-5 mm wide above the dilate and concave base, densely tomentose-brown on both surfaces; the inner ones broadly ovate to suborbicular, concave, 7-9 mm in diameter, not contiguous, broadly and shortly unguiculate at base, densely tomentose-brown externally except on a very small lateral surface, pubescent whitish at the internal apex. Stamens subsessile, linear, 2-2.5 mm long, connectives ovate, scarcely developed above the anthers. Carpels numerous, 2.5 mm long, ovaries cylindric curved, pubescent whitish, styles linear, stigmas papillose.
 
-Inflorescences caulinaires sur l-6 m de hauteur de tronc, en arbuscules ligneux; pédicelle floral épais,long de 3-4,5 cm,élargi au sommet,tomenteux-brun.Bractéoles basilaires,minuscules. Sépales semi-orbiculaires,longs de 1 mm,larges de 3 mm, tomenteux-bruns.Pétales tres charnus, les externes étales horizontalement, de section elliptique,lancéolés,longs de 2-2,5 cm,larges de 3-5 mm au-dessus de la base élargie et concave, densément tomenteux bruns sur les deux faces; les internes largement oves a suborbiculaires,concaves,de 7-9 mm de diametre,non contigus, largement et courtement onguiculés á la base,densément tomenteuxbruns a 'extérieur sauf sur une tres petite surface latérale, pubescents blanchatres au sommet interne. Etaminessubsessiles, linéaires,longues de 2-2,5 mm,connectifs oves, ä peine développés au-dessus des antheres. Carpelles nombreux, longs de 2,5 mm, ovaires cylindriques courbés,pubescents blanchatres, styles liné- aires，stigmates papilleux.
-
-Fruits naissant sur le tronc en petits arbuscules ligneux; méricarpes nombreux (3o-4o)， stipités， courtement ellipsoides, longs de 1,2-1,4 cm,larges de o,7-11 cm,mucrones au sommet, densément tomenteux brun roux; stipes longs de 2,5-4 cm, tomenteux roux. Graines ellipsoides, longues de o,9-1,2 cm.
+Fruits arising on the trunk in small woody shrublets; mericarps numerous (30-40), stipitate, shortly ellipsoid, 1.2-1.4 cm long, 0.7-1.1 cm wide, mucronate at apex, densely tomentose brown-rufous; stipules 2.5-4 cm long, tomentose-rufous. Seeds ellipsoid, 0.9-1.2 cm long.
 
 ## Type
 
@@ -46,13 +44,11 @@ Le Testu 8635,Ndingui, région de Lastoursville,Gabon,fl. (holotype BM!, isotype
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Connue seulement du Gabon,cette espéce rappelle beaucoup Boutiquea platypetala (Engl.et Diels) Le Thomas,par ses feuilles et leur pubescence.C'est la raison pour laquelle Pellegrin avait rattaché le matériel de Le Testu â N.macrantha (Mildbr.et Diels) Exell, devenu synonyme de Boutiquea platypetala,dont les fleurs et les fruits sont tres différents.
+Known only from Gabon, this species closely recalls Boutiquea platypetala (Engl. et Diels) Le Thomas, by its leaves and their pubescence. This is the reason why Pellegrin had referred the material of Le Testu to N. macrantha (Mildbr. et Diels) Exell, which became a synonym of Boutiquea platypetala, whose flowers and fruits are very different.
 
 ## Specimens examined
 
-Le Testu 5999,Mebi, Haute Ngounyé,région de Lastoursville (fr., juill.), BM!,P!;8635,type,(fl., déc.),BM!,P！
+Le Testu 5999,Mebi, Haute Ngounyé,région de Lastoursville (fr., juill.), BM!,P!;8635,type,(fl., déc.),BM!,P!
 
 N.Hallé et G. Cours 6o94, Moumba,coté W,entre 7oo et 8oo m (fr.,mai).
 
@@ -60,9 +56,9 @@ N.Hallé et G. Cours 6o94, Moumba,coté W,entre 7oo et 8oo m (fr.,mai).
 
 Fl.Java Anonac.:68 (1829).-Bentham et Hooker,Gen.Pl.I : 25(1862).- Engler et Diels in Engler,Monogr.Afr.Pflanzenf.6:41 (19o1).- Sinclair, Gardens’Bull. Singapore I4 : 279 (1955).- Cavaco et Keraudren in Humbert,Fl.Madagascar et Comores,78e fam.:56 (1958).—R.E.Fries in Engl.et Prantl, Nat.Pflanzenf.,ed.2,17 a,2 :93 (1959).
 
-= Greenwayodendron Verdcourt,Adansonia,ser. 2,9 :(196g)，syn. nov.
+= Greenwayodendron Verdcourt,Adansonia,ser. 2,9 :(196g),syn. nov.
 
-Arbres ou arbustes.Feuilles glabres ou á indument de poils simples.Fleurs généralement ou polygames,et  (sect.afropolyalthia)，solitaires ou fasciculées,axillaires,extra-axillaires ä oppositifoliees，naissant parfois sur le vieux bois. Sépales 3, valvaires,libres ou soudés ä la base. Pétales 6,valvaires,en deux verticilles subégaux, plats, tous dressés ou ± étalés ä l'anthese, non connivents,ovés,lancéolés ou linéaires-lancéolés.Etamines généralement nombreuses et pressées les unes contre les autres, ou en un seul cycle dans les fleurs  des especes ouest-africaines, subsessiles,a theques linéaires extrorses,connectifs généralement polygonaux épais，aplatis，légerement convexes,orbiculairesä rhomboides,ou comprimés latéralement,écrasés ou allongés audessus des antheres. Carpelles ± nombreux；style généralement absent；stigmate de forme variable,élargi. Réceptacle convexe. Ovules 1 basilaire,ou 2-5 latéraux.
+Arbres ou arbustes.Feuilles glabres ou á indument de poils simples.Fleurs généralement ou polygames,et  (sect.afropolyalthia),solitaires ou fasciculées,axillaires,extra-axillaires ä oppositifoliees,naissant parfois sur le vieux bois. Sépales 3, valvaires,libres ou soudés ä la base. Pétales 6,valvaires,en deux verticilles subégaux, plats, tous dressés ou ± étalés ä l'anthese, non connivents,ovés,lancéolés ou linéaires-lancéolés.Etamines généralement nombreuses et pressées les unes contre les autres, ou en un seul cycle dans les fleurs  des especes ouest-africaines, subsessiles,a theques linéaires extrorses,connectifs généralement polygonaux épais,aplatis,légerement convexes,orbiculairesä rhomboides,ou comprimés latéralement,écrasés ou allongés audessus des antheres. Carpelles ± nombreux;style généralement absent;stigmate de forme variable,élargi. Réceptacle convexe. Ovules 1 basilaire,ou 2-5 latéraux.
 
 Fruits ä méricarpes stipités ou subsessiles,ovoides â globuleux.Graines I-5,parfois entourées d'une cannelure équatoriale; rumination de 'albumen par de fines lamelles paralleles de l'endocarpe ou en forme d'épines ± irrégulieres.
 
@@ -74,11 +70,11 @@ Engler et Diels ont créé pour ces deux espéces ouest-africaines : P. suaveole
 
 LA POLYGAMIE : seules en effet les deux espéces ouest-africaines sont polygames.Un cas tres voisin se rencontre, par exemple, dans le genre Popowia,ou la plupart des espéces présentent des fleurs  et quelques-unes seulement des fleurs unisexuées, ce qui semble prouver que la disposition des sexes n'est pas,au moins dans ce cas,un caractere générique. Il y a donc dans les Annonacées des phylums renfermant des espéces á fleurs et des espéces a fleurs unisexuées,dont on n'a pas cru devoir faire un genre.
 
-L'ANDRocEE : reste le caractere le plus important invoqué par B. Verdcourt dans la création du genre Greenwayodendron. On constate en effet que les Polyalthia s.s.ont un connectif toujours épais,polygonal,pouvant tout de méme varier dans la forme:aplati,légérement convexe,orbiculaire ä rhomboide (Sinclair 1955)，tandis que les deux Polyalthia ouest-africains ont un connectif mince,aplati latéralement.Chez P.suaveolens, la différence entre les deux formes est tres nette,le connectif étant comprimé latéralement et prolongé au-dessus des antheres en forme de languette,parfois lobulée.Par contre P.Oliveri présente une forme intermédiaire possible avec les Polyalthia s.s. : le connectif,bien que mince et comprimé latéralement,est écrasé- aplati au-dessus des antheres,et vu de face,ressemble beaucoup a celui des Polyalthia s.s.L'unique différence dans la forme du connectif est donc dans la compression latérale de celui-ci.
+L'ANDRocEE : reste le caractere le plus important invoqué par B. Verdcourt dans la création du genre Greenwayodendron. On constate en effet que les Polyalthia s.s.ont un connectif toujours épais,polygonal,pouvant tout de méme varier dans la forme:aplati,légérement convexe,orbiculaire ä rhomboide (Sinclair 1955),tandis que les deux Polyalthia ouest-africains ont un connectif mince,aplati latéralement.Chez P.suaveolens, la différence entre les deux formes est tres nette,le connectif étant comprimé latéralement et prolongé au-dessus des antheres en forme de languette,parfois lobulée.Par contre P.Oliveri présente une forme intermédiaire possible avec les Polyalthia s.s. : le connectif,bien que mince et comprimé latéralement,est écrasé- aplati au-dessus des antheres,et vu de face,ressemble beaucoup a celui des Polyalthia s.s.L'unique différence dans la forme du connectif est donc dans la compression latérale de celui-ci.
 
 En outre,on remarque que les fleurs  des deux especes ouest-africaines ne possedent qu'une seule rangée d'étamines, mais Sinclair signale en Malaisie la présence d'une espéce P. pumila Ridley ou les étamines ne sont pas tres nombreuses.
 
-LEs PETALEs :Dans le genre Greenwayodendron les pétales ne sont jamais étalés :“ haud late patentibus ),comme les Polyalthia s. s. I est certain que tres souvent le matériel florifere de P.suaveolens et P.Oliveri se présente en boutons ± avancés ou les pétales sont connivents,mais nous avons examiné de nombreux spécimens de ces deux espéces,ou les pétales sont dressés，non connivents,et méme totalement étalés dans la fleur épanouie. Chez les Polyalthia s.s.le cas inverse peut étre examiné,les pétales restant dressés apres I'anthese.Ce caractere ne peut dont étre retenu pour différencier les deux genres.
+LEs PETALEs :Dans le genre Greenwayodendron les pétales ne sont jamais étalés :“ haud late patentibus ),comme les Polyalthia s. s. I est certain que tres souvent le matériel florifere de P.suaveolens et P.Oliveri se présente en boutons ± avancés ou les pétales sont connivents,mais nous avons examiné de nombreux spécimens de ces deux espéces,ou les pétales sont dressés,non connivents,et méme totalement étalés dans la fleur épanouie. Chez les Polyalthia s.s.le cas inverse peut étre examiné,les pétales restant dressés apres I'anthese.Ce caractere ne peut dont étre retenu pour différencier les deux genres.
 
 La discussion des caractéres fondamentaux du nouveau genre proposé par B. Verdcourt montre qu'il n'existe pas d'arguments systématiques décisifs pour adopter une solution plutot qu'une autre,tout en reconnaissant certains caracteres distinctifs.Nous conserverons donc le nom de Polyalthia en égard aux arguments ci-apres :
 
@@ -92,13 +88,13 @@ Une monographie mondiale de la famille étant certainement destinée ä révéle
 
 CLE DES ESPECES
 
-1.Connectif des étamines,dressé au-dessus des antheres en forme de languette parfois lobulée；méricarpes ellipsoides a globuleux,longs de 8-18 mm,larges de 6-13 mm;pétales longs de I,2-2,2 cm; jeunes ramilles pubescentes-apprimées á hirsutes.
+1.Connectif des étamines,dressé au-dessus des antheres en forme de languette parfois lobulée;méricarpes ellipsoides a globuleux,longs de 8-18 mm,larges de 6-13 mm;pétales longs de I,2-2,2 cm; jeunes ramilles pubescentes-apprimées á hirsutes.
 
-2.Feuilles ellitiques a elliptiques-oblongues,longues de 5,5-12 (2o) cm, larges de 2,7-5 (7) cm,glabres sur les deux faces；pédicelle floral grele... 1.Polyalthia suaveolens var.suaveolens
+2.Feuilles ellitiques a elliptiques-oblongues,longues de 5,5-12 (2o) cm, larges de 2,7-5 (7) cm,glabres sur les deux faces;pédicelle floral grele... 1.Polyalthia suaveolens var.suaveolens
 
-2'.Feuilles ovées-elliptiques a oblongues,longues de 2o-28 cm, largcs de 5,5-Io cm，pubérulentes a la face inférieure；pédicelle floral épais... ．2.P.suaveolens var.gabonica
+2'.Feuilles ovées-elliptiques a oblongues,longues de 2o-28 cm, largcs de 5,5-Io cm,pubérulentes a la face inférieure;pédicelle floral épais... .2.P.suaveolens var.gabonica
 
-1'.Connectif des étamines,écrasé-aplati au-dessus des antheres；méricarpes globuleux de 5-7 mm de diametre；jeunes ramilles pubescentes-apprimées clairseméesäglabres.. P.Oliveri
+1'.Connectif des étamines,écrasé-aplati au-dessus des antheres;méricarpes globuleux de 5-7 mm de diametre;jeunes ramilles pubescentes-apprimées clairseméesäglabres.. P.Oliveri
 
 ## Notes
 

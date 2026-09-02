@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — J. Sm., Ic. Pl.: t. 48 (1790). — C. Chr. Ind.: 414 (1906). — Tard., Mém. IFAN 28: 25 (1953). — Alston, FWTA: 19 (1959).
 
-Rhizome globuleux, de la grosseur d'une tête. Pétiole brunnâtre, canaliculé, écailleux et renflé à la base, long d'environ
-
-60 cm, lisse. Pennes longues de 30-50 cm sur 20-30 de large, à contour oblong, pétiolulées (pétiole de 5-7 cm, glabre). Pinnules linéaires-lancéolées, les inférieures légèrement plus courtes que les suivantes, les moyennes longues de 10-15 cm sur 2 de large, sessiles, à bases arrondies, égales, à extrémité progressivement rétrécie, dentée. Rachis et surfaces glabres. Texture subcoriace. Coloration vert foncé sur le sec. Nervures faisant un angle de 80-85° avec le costa, presque toutes bifurquées. Sores submarginaux, courts, linéaires, réguliers, glabres.
+Rhizome globose, the size of a head. Petiole brownish, channelled, scaly and swollen at the base, about 60 cm long, smooth. Pinnae 30–50 cm long by 20–30 cm wide, oblong in outline, petiolulate (petiolule 5–7 cm, glabrous). Pinnules linear-lanceolate, the lower ones slightly shorter than the following ones, the median ones 10–15 cm long by 2 cm wide, sessile, with rounded, equal bases, with gradually narrowed, dentate apex. Rachis and surfaces glabrous. Texture subcoriaceous. Coloration dark green when dry. Veins making an angle of 80–85° with the costa, almost all bifurcate. Sori subma­rginal, short, linear, regular, glabrous.
 
 ## Type
 
@@ -30,9 +26,7 @@ Thierry (Thouin), Saint-Domingue
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-En Afrique : de Guinée au Congo et aux Mascareignes. Tropiques des deux mondes. Ravins et sous bois humides.
+In Africa: from Guinea to Congo and the Mascarene Islands. Tropics of both worlds. Humid ravines and woodlands.
 
 ## Specimens examined
 

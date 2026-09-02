@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — I. guessfeldtii Ascherson, in Buettner, Mitth. Gesellschaft. 5:263 (1889), nom nud.
 
-Arbrisseau ou arbuste haut de 6 m, à tige glabre marron luisant, striée longitudinalement. Pétiole glabre long de 0,5-1 cm, canaliculé dessus et finement ridé dessous. Limbe glabre sur les deux faces, gris vert, ⊥ luisant à la face supérieure, vert jaunâtre à la face inférieure, elliptique, 8,5-17,5 × 3-7 cm; base atténuée ou cunéiforme et sommet acuminé obtus. Nervure médiane saillante sur les deux faces et striée longitudinalement dessous. Nervures secondaires 7-8 paires, ascendantes, arquées, s'anastomosant à 0,5-1 mm du bord du limbe, saillantes sur les deux faces. Nervilles en réseau assez lâche faiblement ou non, saillant dessus, saillant dessous.
+Shrub or small tree up to 6 m tall, with glabrous stem glossy brown, longitudinally striated. Petiole glabrous, 0.5–1 cm long, channelled above and finely wrinkled below. Lamina glabrous on both faces, grey-green, slightly glossy on the upper face, yellowish-green on the lower face, elliptic, 8.5–17.5 × 3–7 cm; base attenuate or cuneiform and apex obtusely acuminate. Midvein prominent on both faces and longitudinally striated below. Secondary veins 7–8 pairs, ascending, arched, anastomosing 0.5–1 mm from the margin of the lamina, prominent on both faces. Tertiary veins in a rather loose reticulum, weakly or not prominent above, prominent below.
 
-Inflorescence en grappe pauciflore très courte axillaire ou fleurs solitaires. Fleurs ♀ pentamères, blanches,  $ 5 \times 4 $ mm. Sépales soudés, glabres sur les deux faces, de forme lancéolée,  $ 1,5 \times 1 $ mm; sommet aigu. Pétales libres, glabres extérieurement, pubescents (touffé de poils au centre des pétales) intérieurement, elliptiques ou blancéolés,  $ 4 \times 1,5 $ mm; sommet aigu. Étamines 5 libres, gynobasiques, longues de  $ 5 \text{ mm} $; filet grêle, caudé au sommet, long de  $ 4 \text{ mm} $; anthère à 2 loges ovoïdes; longue de  $ 1 \text{ mm} $. Pistil long de  $ 7 \text{ mm} $; ovaire pubescent au sommet, ovoïde, style grêle parfois bifide, glabre, se terminant par un stigmate ± aplati.
+Inflorescence in a very short pauciflorous panicle, axillary, or flowers solitary. Flowers ♀ pentamerous, white, 5 × 4 mm. Sepals united, glabrous on both faces, lanceolate in shape, 1.5 × 1 mm; apex acute. Petals free, glabrous externally, pubescent (tuft of hairs at the centre of the petals) internally, elliptic or lanceolate, 4 × 1.5 mm; apex acute. Stamens 5 free, gynobasic, 5 mm long; filament slender, caudate at the apex, 4 mm long; anther with 2 ovoid locules; 1 mm long. Pistil 7 mm long; ovary pubescent at the apex, ovoid, style slender sometimes bifid, glabrous, terminating in a ± flattened stigma.
 
-Drupe rouge, ellipsoïde, 2,3-3 × 1,5-2 cm. PL. 12, 8-14', p. 53.
+Drupe red, ellipsoid, 2.3–3 × 1.5–2 cm. PL. 12, 8–14', p. 53.
 
 ## Type
 
@@ -33,9 +31,7 @@ Büttner 182, Lukolela Zaire, (holo-, B, delet.; iso-, BR, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts du Gabon à l'Angola et au Zaïre.
+This species is found in the forests of Gabon to Angola and Zaïre.
 
 ## Specimens examined
 

@@ -25,9 +25,9 @@ tags: [species]
 
 ## Full treatment
 
-38.Diospyros Zenkeri (Gürke） F. White
+38.Diospyros Zenkeri (Gürke) F. White
 
-Bull.Jard.Bot.Brux.26:241,et 244(1956)；FWTA ed.2,2:14 (1963); Nigerian Trees 2 : 342 (1964). Maba ZenkeriGURkE,Bot.Jahrb.26:63 (18g8).-MILDBRAED,Notizbl. Bot.Gart.Berl.9 :1047 (1926). Diospyros rioularis GURkE,Bot. Jahrb.46 :153 (19II).-- MILDBRAED, loc.cit. Diospyros longicaudata GURkE ex HuTcH.et DALz., Kew Bull.: 54 (1937). Specimens of this species may appear in herbaria under the following erroneous names: *Isolona* sp. and *Ptychopetalum* sp.
+Bull.Jard.Bot.Brux.26:241,et 244(1956);FWTA ed.2,2:14 (1963); Nigerian Trees 2 : 342 (1964). Maba ZenkeriGURkE,Bot.Jahrb.26:63 (18g8).-MILDBRAED,Notizbl. Bot.Gart.Berl.9 :1047 (1926). Diospyros rioularis GURkE,Bot. Jahrb.46 :153 (19II).-- MILDBRAED, loc.cit. Diospyros longicaudata GURkE ex HuTcH.et DALz., Kew Bull.: 54 (1937). Specimens of this species may appear in herbaria under the following erroneous names: *Isolona* sp. and *Ptychopetalum* sp.
 
 Shrub or small tree reaching 20-25 m in height and 20-30 cm in diameter. Rhytidome black, smooth; bark section granular, black outside, pale pink or reddish-brown within with a yellow band next to the wood; sapwood white, heartwood sometimes black. Young twigs glabrous, black in dried material.
 
@@ -45,13 +45,13 @@ This species is known from the evergreen humid dense forest of eastern Nigeria, 
 
 ### Material studied in Cameroon
 
-Busgen s. n.,sin. loc. (stér.) B. De Wilde W. 22o8,5o km NNE Eséka,pres riviere Kélé (fl.,mars) WAG; 2806,pres du Nyong,65 km SSW Eséka (fr.，juill.) WAG. Endengle SRFCam 2043，pres Douala (fl.δ). Keay FHI 37443,Bambuko for.res.(stér.) FHO. Ledermann 9I2,Nkolebunde pres Kribi (fl.♀,oct.) (cit.in Notizbl.Bot. Gart.Berl.9:1047 (1926). Leeuwenberg 5283，Masok pres Kopongo (fl.，mars) WAG. Lotz 53 et 78, Edéa (cit.in Notizbl. Bot.Gart. Berl.9 : 1o47 (1926). Maitland 6i9，Victoria (fl.Q,fr.,avr.）K. Olorunfemi FHI 3o767,Bambuko for.res.(stér.) K. Reussner 3,Edéa (fl.δ) (cit. in Notizbl.Bot.Gart.Berl.9 :Io47 (1926). Staudt 943 (type de D. longicaudata Gürke ex Hutch.et Dalz.)，Johann-Albrechtshohe (actuel Kumba)(fl.δ）BM,K. Zenker 329,Bipindi (fl.,mars I913)P,B；858 (type),Bipindi (fl.,avr.); 2426 (type de D.rivularis Gurke)，Bipindi (fr.，aout)；3622,Bipindi (j. fr.?)；3765 et 4229,Bipindi (fl. δ)；4932,Bipindi (stér.) P,Z.
+Busgen s. n.,sin. loc. (stér.) B. De Wilde W. 22o8,5o km NNE Eséka,pres riviere Kélé (fl.,mars) WAG; 2806,pres du Nyong,65 km SSW Eséka (fr.,juill.) WAG. Endengle SRFCam 2043,pres Douala (fl.δ). Keay FHI 37443,Bambuko for.res.(stér.) FHO. Ledermann 9I2,Nkolebunde pres Kribi (fl.♀,oct.) (cit.in Notizbl.Bot. Gart.Berl.9:1047 (1926). Leeuwenberg 5283,Masok pres Kopongo (fl.,mars) WAG. Lotz 53 et 78, Edéa (cit.in Notizbl. Bot.Gart. Berl.9 : 1o47 (1926). Maitland 6i9,Victoria (fl.Q,fr.,avr.)K. Olorunfemi FHI 3o767,Bambuko for.res.(stér.) K. Reussner 3,Edéa (fl.δ) (cit. in Notizbl.Bot.Gart.Berl.9 :Io47 (1926). Staudt 943 (type de D. longicaudata Gürke ex Hutch.et Dalz.),Johann-Albrechtshohe (actuel Kumba)(fl.δ)BM,K. Zenker 329,Bipindi (fl.,mars I913)P,B;858 (type),Bipindi (fl.,avr.); 2426 (type de D.rivularis Gurke),Bipindi (fr.,aout);3622,Bipindi (j. fr.?);3765 et 4229,Bipindi (fl. δ);4932,Bipindi (stér.) P,Z.
 
 ### Material studied in Gabon
 
-Fleury 33675 in herb. Chevalier,pres Libreville (ster.). Klaine 865,sin. loc. (fr.，mars)； 2488,sin. loc. (fl. , nov.)； 276o, Sibang (fr.,févr.)；3o29,sin.loc. (fl.). Le Testu 1486,Tchibanga (fl.,nov.)；7488,Lihouma，2o km ESE Lastoursville (fl.,oct.). Trilles 31,sin. loc.(fr.).
+Fleury 33675 in herb. Chevalier,pres Libreville (ster.). Klaine 865,sin. loc. (fr.,mars); 2488,sin. loc. (fl. , nov.); 276o, Sibang (fr.,févr.);3o29,sin.loc. (fl.). Le Testu 1486,Tchibanga (fl.,nov.);7488,Lihouma,2o km ESE Lastoursville (fl.,oct.). Trilles 31,sin. loc.(fr.).
 
-A cette espéce se trouvent rattachés deux échantillons de la région de Lastoursville : Le Testu 8414 (Libéla,6o km ENE Mbigou, soit env. Ioo km SSW Lastoursville, fl. &,oct.) et 8487 (Lastoursville,fl. δ,oct.） qui pourraient étre considérés comme des hybrides de D.Zenkeri(Gurke)F.White et de D.iturensis (Gürke)R.Let.et F.White car, si par leurs fleurs ils se rapprochent de la premiere espéce,par les feuilles ils se rapprocheraient plutot de la seconde;des recherches sur le terrain dans la région de Lastoursville sont donc désirables pour éclaircir cette question.
+A cette espéce se trouvent rattachés deux échantillons de la région de Lastoursville : Le Testu 8414 (Libéla,6o km ENE Mbigou, soit env. Ioo km SSW Lastoursville, fl. &,oct.) et 8487 (Lastoursville,fl. δ,oct.) qui pourraient étre considérés comme des hybrides de D.Zenkeri(Gurke)F.White et de D.iturensis (Gürke)R.Let.et F.White car, si par leurs fleurs ils se rapprochent de la premiere espéce,par les feuilles ils se rapprocheraient plutot de la seconde;des recherches sur le terrain dans la région de Lastoursville sont donc désirables pour éclaircir cette question.
 
 
 ## Figures

@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1):273 (1954); LIBEN, Fl. Cam. 25:36 (1983). TYPE: Cameroon, Riv. Cameroon (fl.) Mann 725 (holo-B deletion.; LECTOTYPE designated here: -K).
 
-KEAY, FWTA, ed. 2, 1(1):273 (1954); LIBEN, Fl. Cam. 25:36 (1983). TYPE : Cameroun, Riv. Cameroun (fl.) Mann 725 (holo-B deletion. ; LECTOTYPE désigné ici : -K).
-
-– C. porphyrobotrys Engler & Diels, Mon. Afr., Pfl., 3 : 73 (1899) ; Liben, FZ : 36 (1968).
+– C. porphyrobotrys Engler & Diels, Mon. Afr., Pfl., 3: 73 (1899); Liben, FZ: 36 (1968).
 
 ## Type
 
@@ -29,33 +27,27 @@ Congo (Kinshasa), s.l. (fl.) Dewèvre 521 (holo-BR) – syn. nov
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – C. duparquetiana Baillon, mss. in Duparquet 92 (P).
 
-Liane ≤ 20 m. Jeunes rameaux veloutés.
+Liane ≤ 20 m. Young branchlets velvety.
 
-Feuilles opposées ; pétiole ≤ 10 mm ; limbe ≤ 19 × ≤ 10 cm, mat dessus, pubescent à presque glabre dessous ; grandes nervures latérales 5-8 paires ; base du limbe subcordée ; sommet acuminé.
+Leaves opposite; petiole ≤ 10 mm; blade ≤ 19 × ≤ 10 cm, dull above, pubescent to almost glabrous below; major lateral veins 5–8 pairs; blade base subcordate; apex acuminate.
 
-Écailles absentes.
+Scales absent.
 
-Inflorescences en racèmes axillaires ou terminaux ou en panicules, ≤ 22 cm ; bractées rouge brique, oblongues-ovées, 3-6 × 1-2 mm.
+Inflorescences in axillary or terminal racemes or panicles, ≤ 22 cm; bracts brick-red, oblong-ovate, 3–6 × 1–2 mm.
 
-Fleurs 5-mères, stipitées, protogynes. Réceptacle rouge : l'inférieur haut de 3-5 mm, le supérieur campanulé, haut de 4 mm et large de 2,5 mm. Calice, lobes triangulaires. Pétales rouges, longs de 1,5-2 mm, glabres sauf de très petits poils glanduleux le long de la marge. Étamines exsertes de 3-4,5 mm ; filets rouge brique ; anthères longues de 0,5-0,8 mm, rouge foncé à brunes. Style exsert de 3 mm, rouge.
+Flowers 5-merous, stipitate, protogynous. Receptacle red: the lower one 3–5 mm high, the upper one campanulate, 4 mm high and 2.5 mm wide. Calyx, lobes triangular. Petals red, 1.5–2 mm long, glabrous except for very small glandular hairs along the margin. Stamens exserted 3–4.5 mm; filaments brick-red; anthers 0.5–0.8 mm long, dark red to brown. Style exserted 3 mm, red.
 
-Fruit, profil elliptique, longueur 2,5 cm, largeur 2 cm, luisant, brun à rouge purpurin, ailes papyracées, ; stipe 3 mm.
+Fruit, elliptic in profile, length 2.5 cm, width 2 cm, glossy, brown to purplish-red, wings papyraceous; stipe 3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon, Congo (Brazzaville), Congo (Kinshasa)
+Nigeria, Cameroon, Gabon, Congo (Brazzaville), Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides ; altitude ≤ 500 m
+Dense humid forests; altitude ≤ 500 m
 
 ## Specimens examined
 

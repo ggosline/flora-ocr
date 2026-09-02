@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane, at least up to 20 m in length; branchlets with appressed hairs, glabrescent. Leaf: petiole often curved, (4–)5–11(–18) mm, glabrescent or not; blade elliptic to obovate, (4–)8–15(–17) × (1.5–)4–6(–10) cm, rounded to narrowly cordate at base, acute to acuminate over 0.5–1.5(–2.5) cm, sometimes rounded to obtuse at apex, papyraceous to coriaceous, with appressed hairs on both surfaces when young, generally early glabrescent, except the midvein below at least toward the base; lateral veins (5–)6–10(–11) pairs, generally slightly prominent above, ± prominent below. Inflorescence in fascicles of 1–3(–5) flowers; bracts and bracteoles (1–)2–4(–6) mm in length, the bracteoles situated near the base of the pedicel. Flower: pedicel 5–12 mm, pubescent; sepals: the two outer ones ovate, the larger 20 × 15 to 45 × 35 mm, the smaller 10 × 9 to 20 × 15 mm, pubescent, the inner sepals ± ovate, (8–)12–15 × (5–)8–9 mm, sparsely puberulent; corolla ± campanulate, (2.5–)3–7 cm in length, white to cream, often with purple veins, with appressed hairs outside, ± glabrous inside; stamens 12–33 mm in length, anthers pendulous, (2.5–)3–4.5 mm in length, glabrous; pistil 16–40 mm in length, glabrous; styles generally unequal, fused over 10–20 mm. Fruit ellipsoid, 12 mm in length, glabrous, enveloped by the two enlarged outer sepals, ± circular, the larger (4.5–)5–6.5 cm in diameter, the smaller 2–3.5 cm in diameter. Mature seeds not seen.
 
-Liane, au moins jusqu’à 20 m de longueur ; ramilles à poils apprimés, glabrescentes. Feuille : pétiole souvent courbé, (4–)5–11(–18) mm, glabrescent ou non ; limbe elliptique à obové, (4–)8–15(–17) × (1,5–)4–6(–10) cm, arrondi à étroitement cordé à la base, aigu à acuminé sur 0,5–1,5(–2,5) cm, parfois arrondi à obtus au sommet, papyracé à coriace, à poils apprimés sur les deux faces à l’état jeune, en général tôt glabrescent, sauf la nervure médiane dessous au moins vers la base ; nervures latérales (5–)6–10(–11) paires, en général peu saillantes dessus , ± proéminentes dessous. Inflorescence en fascicules à 1–3(–5) fleurs ; bractées et bractéoles (1–)2–4(–6) mm de longueur, les bractéoles situées près de la base du pédicelle. Fleur : pédicelle 5–12 mm, pubescent ; sépales : les deux externes ovés, le grand 20 × 15 à 45 × 35 mm, le petit 10 × 9 à 20 × 15 mm, pubescents, les sépales internes ± ovés, (8–)12–15 × (5–)8–9 mm, éparsement pubérulents ; corolle ± campanulée, (2,5–)3–7 cm de longueur, blanche à crème, souvent à nervures pourpres, à poils apprimés à l’extérieur, ± glabre à l’intérieur ; étamines 12–33 mm de longueur, anthères pendantes, (2,5–)3–4,5 mm de longueur, glabres ; pistil 16–40 mm de longueur, glabre ; styles en général inégaux, soudés sur 10–20 mm. Fruit ellipsoïde, 12 mm de longueur, glabre, enveloppé par les deux sépales externes élargis, ± circulaires, le grand (4,5–)5–6,5 cm de diamètre, le petit 2–3,5 cm de diamètre. Graines mûres non vues.
-
-Dessin par Hans de Vries, collection privée de l’auteur (©).
+Drawing by Hans de Vries, private collection of the author (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République Démocratique du Congo, Angola (Cabinda) et l’ouest de la Tanzanie ; au Gabon, récoltée dans toutes les provinces sauf dans le Moyen-Ogooué et la Nyanga
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda) and western Tanzania; in Gabon, collected in all provinces except in the Moyen-Ogooué and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 0–600 m d’altitude, ailleurs, jusqu’à 1050 m. B : Breteler (2013), Lejoly & Lisowski (1985). ibliographie
+primary and secondarized forest; in Gabon, at 0–600 m altitude, elsewhere, up to 1050 m. B: Breteler (2013), Lejoly & Lisowski (1985). Bibliography
 
 ## Notes
 

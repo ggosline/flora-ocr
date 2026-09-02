@@ -15,25 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou éphémère , de 10–50(–80) cm de hauteur, aromatique ; tige dressée ou ascendante, parfois retombante, avec ou sans fascicules axillaires de jeunes feuilles, ramifiée, vers le haut, à poils apprimés rétrorses, plus denses sur l’axe de l’inflorescence, avec ou sans glandes sessiles. Feuille : pétiole 2–15 mm ; limbe parfois plié le long de la nervure médiane au séchage, étroitement ovale à elliptique, de 0,5–2,5 × 0,5–1,5 cm, cunéé à la base, aigu à l’apex, entier à légèrement denté, pubescent, glanduleux-ponctué. Inflorescence lâche, à verticillastres espacés de ± 10 mm. Fleur : pédicelle 1–2 mm ; calice ± dirigé vers le bas, long de 1,5–2 mm à l’anthèse et de 2–4 mm en fruit, lèvre inférieure à dents médianes étroitement triangulaires, acuminées, plus courtes que la lèvre supérieure, dents latérales deltoïdes, cuspidées, gorge ouverte, avec un anneau dense de poils ; corolle longue de 4–5 mm, blanche
-
-Ocimum americanum : 3. Tige florifère (× 1). – 4. Feuille basale (× 1½). – 5. Calice en fruit (× 6). – 6. Fleur (× 6). – 7. Corolle ouverte, avec étamines et style (× 15). (1, 2 : Stirton 8793 ; 3, 5-7 : à partir d’une plante vivante de Mrs Jenkins ; 4 : Van Vuuren 570 ). Dessin par Rosemary C. Holcroft, South African National Biodiversity Institute (SANBI) (©), reproduit avec permission à partir de Codd (1985).
-
-ou mauve pâle ; étamines dépassant de 1–2 mm la corolle, paire supérieure à excroissance charnue, aplatie et glabre près de la base . Fruit : akènes ovoïdes, longs de 0,8–1 mm, noirs, mucilagineux lorsqu’ils sont mouillés.
+Annual or ephemeral herb, 10–50(–80) cm tall, aromatic; stem erect or ascending, sometimes trailing, with or without axillary fascicles of young leaves, branched toward the apex, with appressed retrorsely directed hairs, denser on the inflorescence axis, with or without sessile glands. Leaf: petiole 2–15 mm; blade sometimes folded along the midvein when dry, narrowly ovate to elliptic, 0.5–2.5 × 0.5–1.5 cm, cuneate at base, acute at apex, entire to slightly dentate, pubescent, glandular-punctate. Inflorescence lax, with verticillasters spaced ± 10 mm apart. Flower: pedicel 1–2 mm; calyx ± directed downward, 1.5–2 mm long at anthesis and 2–4 mm in fruit, lower lip with median teeth narrowly triangular, acuminate, shorter than upper lip, lateral teeth deltoid, cuspidate, throat open, with a dense ring of hairs; corolla 4–5 mm long, white or pale mauve; stamens exceeding corolla by 1–2 mm, upper pair with fleshy, flattened and glabrous excrescences near the base. Fruit: ovoid achenes, 0.8–1 mm long, black, mucilaginous when wet.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Afrique tropicale et en Asie, y compris le Nigéria, le Cameroun, la Guinée équatoriale (Bioko), le Gabon, la République du Congo, la République Centrafricaine, la République démocratique du Congo et l’Angola ; au Gabon : Estuaire, Ngounié et Ogooué-Ivindo. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+widespread in tropical Africa and Asia, including Nigeria, Cameroon, Equatorial Guinea (Bioko), Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon: Estuaire, Ngounié and Ogooué-Ivindo. Conservation status: Widely distributed; probably Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones perturbées ; au Gabon à 0–150 m altitude, jusqu’à 1300 m au Cameroun
+disturbed areas; in Gabon at 0–150 m altitude, up to 1300 m in Cameroon.
 
 ## Vernacular names
 
@@ -41,9 +31,7 @@ hoary basil, American basil (angl.) ; adzame-ntoma, elèngha-lèngha (fang) ; l�
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les espèces proches O. basilicum et O. africanum se rencontrent au Gabon comme plantes condimentaires (voir les Notes qui suivent la description du genre). B : Morales (2011), Morton (1963), Paton et al. (1999, 2013), Raponda-Walker & Sillans i B liographie (1961)
+The related species O. basilicum and O. africanum occur in Gabon as condimentary plants (see the Notes following the genus description). B: Morales (2011), Morton (1963), Paton et al. (1999, 2013), Raponda-Walker & Sillans (1961). Bibliography
 
 ## Notes
 

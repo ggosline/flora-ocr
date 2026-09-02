@@ -24,11 +24,9 @@ Gabon, Ogooué-Ivindo, Kongou waterfall area (upstream), Islet in the middle of 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cincinus with immature fruit, mature fruit and persistent withered flowers. – 4. Ripe fruit. (cultivated plants of Ezavin 330A, herbarium specimen Faden 95/42). Drawing by Alice Tangerini, Smithsonian Institution (©).
 
-Cincinnus à fruit immature, fruit mature et fleurs fanées persistantes. – 4. Fruit mûr. (plantes cultivées de Ezavin 330A , échantillon herbier Faden 95/42 ). Dessin par Alice Tangerini, Smithsonian Institution (©).
-
-Ezavin 330A , échantillon herbier Faden 95/42 ). Dessin par Alice Tangerini, Smithsonian Institution (©).
+Ezavin 330A, herbarium specimen Faden 95/42). Drawing by Alice Tangerini, Smithsonian Institution (©).
 
 ## Notes
 

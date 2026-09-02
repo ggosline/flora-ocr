@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, rampante , à rhizome court portant les feuilles et des stolons à entrenœuds long. Feuilles poilues à villeuses quand elles sont jeunes, puis glabrescentes ; pétiole grêle, 2–30(–46) cm de longueur ; limbe réniforme à orbiculaire , 3–7(–9) cm de diamètre, à base profondément cordée, palmatinervé, marge régulièrement crénelée. Inflorescence en fascicules de 1–6 ombelles simples , subcapités et à 1–8 fleurs ; pédoncules pileux à villeux, 0,5–3(–5) cm de longueur ; involucre à 2 bractées largement ovales et persistantes. Fleurs sur pédicelle très court ou nul ; calice à marge ondulée ; pétales orbiculaires à largement ovés, ± 1 × 1 mm, blancs-verdâtres à pourpre ; étamines 1 mm de longueur, anthères brun-pourpre ; style rougeâtre, stylopode presque nul. Fruit orbiculaire à largement ovale, 3,5–4 × 3–3,5 mm, fortement comprimé latéralement , glabrescent, cordé à la base, tronqué au sommet ; côtes primaires bien saillantes, les secondaires peu.
+Perennial herb, creeping, with short rhizome bearing leaves and stolons with long internodes. Leaves pilose to villous when young, then glabrescent; petiole slender, 2–30(–46) cm long; lamina reniform to orbicular, 3–7(–9) cm in diameter, with deeply cordate base, palmatinerved, margin regularly crenate. Inflorescence in fascicles of 1–6 simple umbels, subcapitate and with 1–8 flowers; peduncles pilose to villous, 0.5–3(–5) cm long; involucre with 2 broadly ovate and persistent bracts. Flowers on very short or absent pedicel; calyx with undulate margin; petals orbicular to broadly ovate, ± 1 × 1 mm, white-greenish to purple; stamens 1 mm long, anthers brownish-purple; style reddish, stylopodium almost absent. Fruit orbicular to broadly ovate, 3.5–4 × 3–3.5 mm, strongly compressed laterally, glabrescent, cordate at base, truncate at apex; primary ribs well prominent, secondary ones slightly so.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce connue de toutes les régions tropicales et quelques régions subtropicales ; commun en Afrique et au Gabon
+species known from all tropical regions and some subtropical regions; common in Africa and Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-herbe fréquente dans des endroits humides le long des rues et rivières, dans les terrains vagues, pâturages dégradés, parfois sur rochers ou bancs de vase ou ouvertures forestières ; au Gabon jusqu’à 360 m d’altitude (mais probablement aussi plus haut), ailleurs jusqu’à plus de 3000 m
+herb frequent in humid places along streets and rivers, in vacant land, degraded pastures, sometimes on rocks or mud banks or forest openings; in Gabon up to 360 m altitude (but probably also higher), elsewhere up to more than 3000 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’utilisation le plus importante de cette herbe concerne des maladies de la peau, mais plusieurs autres applications médicinales sont connues. En Tanzanie et Chine, on l’utilise comme tonifiant et rafraîchissement en cas de fièvre. En Asie Sud-Est, les feuilles fraîches ou bouillies sont mangées comme légume. B : Cannon (1978), Hargono et al. (1999), Jacques-Félix (1970), Townsend IBLIOGRAPHIE (1989)
+The most important use of this herb concerns skin diseases, but several other medicinal applications are known. In Tanzania and China, it is used as a tonic and refreshment in case of fever. In South-East Asia, fresh or boiled leaves are eaten as a vegetable. B: Cannon (1978), Hargono et al. (1999), Jacques-Félix (1970), Townsend BIBLIOGRAPHY (1989)
 
 ## Notes
 

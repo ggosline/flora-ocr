@@ -16,37 +16,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large liana. Leaves ovate to obovate coriaceous; base auriculate to subcordate. Flowers tetramerous, sessile, fragrant. Receptacle in the upper part patelliform. Fruit unknown. Species related to C. paucinervium. TYPE: Gabon: Cap Esterias, Forêt de la Mondah (fl., Oct.) Wieringa & Hédin 2869, (holo-WAG; iso-LBV).
 
-Liana magna. Folia ovata usque ad obovata coriacea ; basi auriculata usque ad subcordata. Flores tetrameri, sessiles, fragrantes. Receptaculum in superiore parte patelliforme. Fructus ignoti. Species affinis. C. paucinervio. TYPE : Gabon : Cap Esterias, Forêt de la Mondah (fl., Oct.) Wieringa & Hédin 2869, (holo-WAG ; iso-LBV).
+Liana ≤ 20 m.
 
-Liane  $ \leq $ 20 m.
+Leaves opposite; petiole ≤ 10 mm; blade ovate to obovate ≤ 15 × ≤ 10 cm, coriaceous, glabrous; major lateral nerves 6-8 pairs, depressed above, domatia glabrous; base of blade subcordate to auriculate; apex acute to acuminate, mucronate. Young leaves pale green.
 
-Feuilles opposées ; pétiole ≤ 10 mm ; limbe ové à obové de ≤ 15 × ≤ 10 cm, coriace, glabre ; grandes nervures latérales 6-8 paires, déprimées dessus, domaties glabres ; base du limbe subcordée à auriculée ; sommet aigu à acuminé, mucroné. Jeunes feuilles vert pâle.
+Scales of varied form: some circular with diameter ≤ 50 µm, others stellate with diameter ≤ 120 µm.
 
-Écailles de forme variée : certaines, circulaires et diamètre ≤ 50 µm, d'autres stellées et diamètre ≤ 120 µm.
+Inflorescences: axillary or terminal panicles ≤ 35 cm, bracts scarcely visible.
 
-Inflorescences : panicules axillaires ou terminales ≤ 35 cm, bractées peu visibles.
+Flowers 4-merous, sessile, fragrant. Receptacle lepidote: the lower, height 1 mm, the upper patelliform, diameter 4 mm (calyx lobes included), cream and orange-brown. Calyx: lobes deltoid. Petals white and glabrous, spathulate, 1.5-2 mm long. Stamens 4 mm long; filaments white; anthers yellow 0.2 mm long. Disc almost entirely hidden by white hairs. Style 2.5 mm, white.
 
-Fleurs 4-mères, sessiles, odorantes. Réceptacle lépidote : l'inférieur, hauteur 1 mm, le supérieur patelliforme, diamètre 4 mm (lobes du calice inclus), crème et orange-brun. Calice : lobes deltoïdes. Pétales blancs et glabres, spathulés, longs de 1,5-2 mm. Étamines longues de 4 mm ; filets
+Fruit unknown. – Pl. 21, p. 79.
 
-blancs ; anthères jaunes longues de 0,2 mm. Disque presque entièrement caché par des poils blancs. Style 2,5 mm, blanc.
-
-Fruit inconnu. – Pl. 21, p.79.
-
-Cette espèce ressemble à C. paucinervium par plusieurs caractères mais elle en diffère par son indument et la forme de sa feuille.
+This species resembles C. paucinervium in several characters but differs from it by its indumentum and the form of its leaf.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au Gabon uniquement
+in Gabon only
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 4–15 cm de hauteur ; tige simple ou rarement ramifiée, blanche. Feuilles étroi tement triangulaires à linéaires, environ 1 mm de longueur. Inflorescence pauciflore ; bractées environ 2,5 mm de longueur. Fleur sessile, 12–19 mm de longueur (ovaire in clus), blanchâtre ; tube du périgone 12–13 mm de longueur , sans constriction apicale , lobes externes largement obovales, 4,5–6 × 4,5–6 mm, les internes linéaires, environ 1 mm de longueur ; anthères environ 0,8 × 0,8 mm ; ovaire ellipsoïde, 2–2,5 mm de lon gueur ; style 10–13 mm de longueur, stigmates infundibuliformes, sans appendices filiformes . Fruit globuleux, 3–4 mm de diamètre. Graines inconnues.
+Herb 4–15 cm tall; stem simple or rarely branched, white. Leaves narrowly triangular to linear, approximately 1 mm long. Inflorescence pauciflorous; bracts approximately 2.5 mm long. Flower sessile, 12–19 mm long (ovary included), whitish; perianth tube 12–13 mm long, without apical constriction, outer lobes broadly obovate, 4.5–6 × 4.5–6 mm, inner ones linear, approximately 1 mm long; anthers approximately 0.8 × 0.8 mm; ovary ellipsoid, 2–2.5 mm long; style 10–13 mm long, stigmas infundibuliform, without filiform appendages. Fruit globose, 3–4 mm diameter. Seeds unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Central African Republic, Cameroon and Gabon; in Gabon known only from Belinga, in Ogooué-Ivindo province
 
-République Centrafrique, Cameroun et Gabon ; au Gabon seulement connue de Belinga, dans la province de l’Ogooué-Ivindo
-
-Wieringa 273 ; 2 : Wieringa 5636 ; 3, 4 : A.M. Louis 1292 ). Dessin par Anita Walsmit Sachs, NCB Naturalis (section NHN) ©, photos par L.Y.T. Westra ©, NCB Naturalis (section NHN).
+Wieringa 273; 2: Wieringa 5636; 3, 4: A.M. Louis 1292). Drawing by Anita Walsmit Sachs, NCB Naturalis (section NHN) ©, photographs by L.Y.T. Westra ©, NCB Naturalis (section NHN).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires ; au Gabon à environ 700 m d’altitude. Notes taxonomiques : Gymnosiphon bekensis est caractérisé par un tube du périgone très long (12–13 mm) comparé aux deux autres espèces gabonaises (tube 1–5 mm), et par les stigmates sans appendices filiformes. Dans la description de l’espèce par Letouzey (1967), les lobes internes ne sont pas men tionnées, tandis qu’ils sont présents dans tous les autres espèces du genre. Pourtant, nous avons identifiés leur présence sans aucun doute chez van der Burgt et al. 1274 (WAG) de Guinée-Conakry. B : Cheek (2004), Letouzey (1967), Sosef et al. (2006). ibliographie
+primary forests; in Gabon at approximately 700 m altitude. Taxonomic notes: Gymnosiphon bekensis is characterized by a very long perianth tube (12–13 mm) compared to the two other Gabonese species (tube 1–5 mm), and by stigmas without filiform appendages. In the species description by Letouzey (1967), the inner lobes are not mentioned, whereas they are present in all other species of the genus. Nevertheless, we have identified their presence without any doubt in van der Burgt et al. 1274 (WAG) from Guinea-Conakry. B: Cheek (2004), Letouzey (1967), Sosef et al. (2006). Bibliography
 
 ## Notes
 

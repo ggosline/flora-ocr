@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+MLW 82 (8): 4, 16-18 (1982); AUWP 86 (3): 16, 17 (1986). TYPE: Gabon, Haute Ngounié, between Guidouma and Sainte Croix, Le Testu 5090 (holo-, P; iso-, WAG).
 
-MLW 82 (8): 4, 16-18 (1982); AUWP 86 (3): 16, 17 (1986). TYPE : Gabon, Haute Ngounié, entre Guidouma et Sainte Croix, Le Testu 5090 (holo-, P ; iso-, WAG).
+Liane or lianescent shrub. Older branches dark brown to black, glabrous to glabrescent, with scattered fairly large lenticels, clearly visible. Young branches with dense pale brown to dark brown pubescence, then glabrescent.
 
-Liane ou arbuste lianescent. Rameaux âgés bruns foncés à noirs, glabres à glabrescents, avec des lenticelles éparses assez grandes, bien visibles. Jeunes rameaux à pubescence dense brun pâle à brun foncé, puis glabrescents.
+Stipules broad and ovate-triangular to narrow and triangular-oblong, 3-9 × 5 mm; exterior covered with appressed dark red to brown hairs; interior nearly glabrous with prominent nerves; margin entire to regularly dentate.
 
-Stipules larges et ovées-triangulaires à étroites et triangulaires-oblongues, 3-9 × 5 mm ; extérieur couvert de poils apprimés rouge foncé à bruns ; intérieur presque glabre avec nervures proéminentes ; marge entière à régulièrement dentée.
+Leaf. Petiole subcylindric, 2-4 (7) mm long, brown villosity. Blade narrow and obovate-oblong, 2.5-3 times longer than wide, (9) 12-16 (25) × (3) 4-6 (9) cm; base rounded to subcordate, and often oblique; acumen present, slightly marked to abrupt, obtuse to acute, often mucronate, 0.5-2 cm long; brown pubescence on both surfaces, especially on the I nerve; lower surface entirely so initially, then glabrescent; nerve I impressed above; main nerves II, 9-11 pairs; glands generally small and fairly inconspicuous, only below, especially near the base and along the I nerve.
 
-Feuille. Pétiole subcylindrique, long de 2-4 (7) mm, villosité brune. Limbe étroit et obové-oblong, 2,5-3 fois plus long que large, (9) 12-16 (25) × (3) 4-6 (9) cm; base arrondie à subcordée, et souvent oblique; acumen présent, peu marqué à brusque, obtus à aigu, souvent mucroné, long de 0,5-2 cm ; pubescence brune sur les deux faces, surtout sur la nervure I ; face inférieure entièrement ainsi au début, puis glabrescente ; nervure I imprimée dessus ; principales nervures II, 9-11 paires ; glandes en général petites et assez peu visibles, seulement dessous, surtout près de la base et le long de la nervure I.
+Inflorescence in subspheric capitules, axillary on leafy shoots, on lateral leafless shoots or on leafless apical parts of lateral axes, ≤ 20-flowered; rust-coloured pubescence. Peduncle 3-10 mm, often furnished with a clearly visible bract at the apex. Bracts and bracteoles ovate-deltoid, ≤ 3 mm long, rust-coloured external pubescence, villous to appressed; internal surface clearly nerved and glabrous. Pedicel ≤ 1 mm, upper part absent.
 
-Inflorescence en capitules subsphériques, axillaires sur les pousses feuillées, sur des pousses latérales défeuillées ou sur les parties apicales défeuillées des axes latéraux, ≤ 20-flores ; pubescence rouille. Pédoncule 3-10 mm, souvent pourvu d'une bractée bien visible au sommet. Bractées et bractéoles ovées-deltoïdes, longues de ≤ 3 mm, pubescence externe rouille, villeuse à apprimée ; face interne nettement nervée et glabre. Pédicelle ≤ 1 mm, partie supérieure nulle.
+Flowers subsessile. Sepals suberect to spreading, shortly fused at the base, oblong-obovate, 3-4 × 1-1.5 mm; dense villous tomentum with also fairly stiff hairs on the external surface; interior glabrous or with a few hairs at the apex. Petals suberect to slightly spreading, shortly fused by their base to the filaments, narrow and obovate, 3.5-4 mm long split for 1-1.5 mm; external side silky-tomentose, internal glabrous; lobes concave; the two proximal margins of the lobes united at their base, this part fused, slightly erect, projecting from the internal side. Stamens suberect, slender, 7-8 mm long, glabrous; anthers subreniform ≤ 0.5 mm, connective distinct. Staminodes thin oblong ≈ 1 mm, glabrous, bicornute at the apex. Pistil 3-merous, 7-8 mm long; ovary and basal part of the style velvety, upper part of the style glabrous; stigma, from discoid to vaguely 3-lobed.
 
-Fleurs subsessiles. Sépales subérigés à étalés, courtement soudés à la base, oblongs-obovés, 3-4 × 1-1,5 mm ; tomentum villeux dense avec aussi des poils assez raides sur la face externe ; intérieur glabre ou avec quelques poils au sommet. Pétales subérigés à légèrement étalés, courtement soudés par leur base aux filets, étroits et obovés, longs de 3,5-4 mm fendus sur 1-1,5 mm ; côté externe soyeux-tomenteux, interne glabre ; lobes concaves ; les deux marges proximales des lobes unies par leur base, cette partie soudée, un peu redressée, faisant saillie du côté interne. Étamines subérigées, grêles, longues de 7-8 mm, glabres; anthères subréiniformes ≤ 0,5 mm, connectif distinct. Staminodes minces oblongs ≈ 1 mm, glabres, bicornes au sommet. Pistil 3-mère, long de 7-8 mm ; ovaire et partie basale du style veloutés, partie supérieure du style glabre ; stigmate, de discode à vaguement 3-lobé.
-
-Fruits immatures villeux bruns. - Pl. 48, p. 165.
+Immature fruits brown villous. - Pl. 48, p. 165.
 
 ## Type
 
@@ -39,23 +37,17 @@ Le Testu 5090, Haute Ngounié, entre Guidouma et Sainte Croix, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species shows affinities with D. reticulatum Engl. from Nigeria and southern Cameroon but unknown from Gabon. The two species can be distinguished by the following characters:
 
-Cette espèce présente des affinités avec D. reticulatum Engl. du Nigéria et du Sud Cameroun mais inconnue au Gabon. Les deux espèces peuvent être distinguées par les caractères suivants :
-
-Inflorescence subombelliforme, fleurs nettement pédicellées; pétiole (4) 6-9 (15) mm; limbe 1,5-2 fois plus long que large ..... D. reticulatum Inflorescence en capitule subsphérique, fleurs sessiles ou presque; pétiole (2) 4-7 mm; limbe 2,5-3 fois plus long que large ..... D. ruficeps
+Inflorescence subumbelliform, flowers clearly pedicellate; petiole (4) 6-9 (15) mm; blade 1.5-2 times longer than wide ..... D. reticulatum Inflorescence in subspheric capitule, flowers sessile or nearly so; petiole (2) 4-7 mm; blade 2.5-3 times longer than wide ..... D. ruficeps
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

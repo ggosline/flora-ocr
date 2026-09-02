@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante, dioïque. Vrilles simples ou bifides, grêles, glabrescentes. Feuille: pétiole 3–6 cm, courtement villeux, avec 2 glandes coniques, charnues, longues de 2 mm ; limbe suborbiculaire ou parfois 5- ou 7-lobé, long et large de 8–20 cm, un peu émarginé à la base, scabre, vert vif dessus, vert plus clair dessous, lobes (si présents) triangulaires à elliptiques, apiculés au sommet. Inflorescence : la mâle en racème de 3 à 7 fleurs, à axe atteignant 20 cm, rarement à fleur solitaire. Fleur mâle : pédicelle 2–8 cm ; réceptacle subcylindrique, long de 20–30 mm, à la gorge large de 9–12 mm, à la base de 4 mm, atténué à la base, villeux ; sépales subulés, longs de 5–7 mm, non glanduleux ; pétales obovales à ovales-oblongs, 3,5–6 × 2,5–5 cm, arrondis ou subaigus au sommet, ondulés sur les bords, courtement villeux surtout à la base, trinervés ; étamines à filet épais, de 2–3 mm, anthères en colonne de 2 cm × 5–7 mm ; pistillode petit. Fleur femelle : pédicelle 2–4 cm ; ovaire ovoïde, courtement tomenteux. Fruit ovoïde, 7–10 cm de diamètre, lisse, vert vif marbré de blanc. Graine blanchâtre, bidentée au sommet.
+Climbing herb, dioecious. Tendrils simple or bifid, slender, glabrescent. Leaf: petiole 3–6 cm, shortly villous, with 2 conical, fleshy glands, 2 mm long; blade suborbicular or sometimes 5- or 7-lobed, 8–20 cm long and wide, slightly emarginate at base, scabrous, bright green above, lighter green below, lobes (if present) triangular to elliptic, apiculate at apex. Inflorescence: the male in a raceme of 3 to 7 flowers, with axis reaching 20 cm, rarely with solitary flower. Male flower: pedicel 2–8 cm; receptacle subcylindric, 20–30 mm long, throat 9–12 mm wide, 4 mm at base, attenuate at base, villous; sepals subulate, 5–7 mm long, not glandular; petals obovate to ovate-oblong, 3.5–6 × 2.5–5 cm, rounded or subacute at apex, undulate on margins, shortly villous especially at base, trinerved; stamens with thick filament, 2–3 mm, anthers in column 2 cm × 5–7 mm; pistillode small. Female flower: pedicel 2–4 cm; ovary ovoid, shortly tomentose. Fruit ovoid, 7–10 cm in diameter, smooth, bright green marbled with white. Seed whitish, bidentate at apex.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Afrique tropicale, du Sénégal à la Tanzanie et au Mozambique; au Gabon: Estuaire, Haut-Ogooué, Ngounié, Nyanga et Ogooué-Ivindo
+widespread in tropical Africa, from Senegal to Tanzania and Mozambique; in Gabon: Estuaire, Haut-Ogooué, Ngounié, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rainforests, swamp forests and secondary forests, old cultivations; in Gabon at 50–450 m altitude, elsewhere up to 1760 m
 
-forêts ombrophiles, forêts marécageuses et forets secondaires, anciennes cultures ; au Gabon à 50–450 m d'altitude, ailleurs jusqu'à 1760 m
-
-Usage: Les fruits coupés et chauffés sont appliqués sur le ventre en cas de colique.
+Usage: Fruits cut and heated are applied to the abdomen in case of colic.
 
 ## Vernacular names
 

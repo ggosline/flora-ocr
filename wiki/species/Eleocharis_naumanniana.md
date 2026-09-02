@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, submergée, avec de longues tiges capillaires, habituellement flottantes , portant des nœuds dans sa partie supérieure d’où des rameaux disposés en « ombelle » ; tiges de 15‒60 × 0,1‒0,2 mm, arrondies ou anguleuses, à cloisons ± distinctes. Feuille : gaine jusqu’à 1,5 cm de longueur, membraneuse au sommet ; limbe capillaire, jusqu’à 11 cm de longueur. Inflorescence formée d’un épillet solitaire ou d’une anthèle lâche avec un épillet sessile et quelques épillets sur des pédoncules de 5 cm au plus, issus de la base de l’épillet sessile ; bractées 2, 1,5‒2,5 mm de longueur. Épillet de 4‒5 × 0,5‒1,5 mm, à 2‒3 glumes et 1 fleur ; habituellement seul l’épillet fertile produit un akène ; glumes lancéolées, longues d’environ 4 mm , pâles à brun rougeâtre, large à la base et se rétrécissant progressivement vers le sommet. Fleur : segments du périanthe absents ou très réduits ; style à 3 branches Akène obovoïde, de 1,2‒1,5 × environ 1 mm , brun pâle à grisâtre, triangulaire avec des angles saillants et des faces réticulées avec de nombreuses rangées de cellules longitudinales distinctes ; base persistante du style longue de 0,5 mm, triangulaire, brune.
+Annual herb, submerged, with long capillary stems, usually floating, bearing nodes in its upper portion from which branches arranged in an "umbel"; stems 15–60 × 0.1–0.2 mm, rounded or angular, with ± distinct septa. Leaf: sheath up to 1.5 cm in length, membranous at apex; blade capillary, up to 11 cm in length. Inflorescence formed of a solitary spikelet or a lax anthela with one sessile spikelet and a few spikelets on peduncles up to 5 cm long, arising from the base of the sessile spikelet; bracts 2, 1.5–2.5 mm in length. Spikelet 4–5 × 0.5–1.5 mm, with 2–3 glumes and 1 flower; usually only the fertile spikelet produces an achene; glumes lanceolate, approximately 4 mm long, pale to reddish-brown, wide at base and gradually narrowing toward apex. Flower: perianth segments absent or very reduced; style with 3 branches. Achene obovoid, 1.2–1.5 × approximately 1 mm, pale brown to greyish, triangular with prominent angles and reticulate faces with numerous rows of distinct longitudinal cells; persistent base of style 0.5 mm long, triangular, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique de l’Afrique de l’Ouest et centrale et généralement très dispersé et rare ; connue au Sénégal, Guinée Bissau, Sierra Leone, Liberia, Côte d’Ivoire, Ghana, Nigeria, République Centrafricaine, Gabon et République Démocratique du Congo ; rare au Gabon, trouvée seulement dans le Moyen-Ogooué, la Ngounié et le Woleu-Ntem (3 récoltes)
+endemic to West and Central Africa and generally very scattered and rare; known from Senegal, Guinea-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Central African Republic, Gabon and Democratic Republic of the Congo; rare in Gabon, found only in Moyen-Ogooué, Ngounié and Woleu-Ntem (3 collections).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in stagnant or slow-flowing waters, often to a depth of 1 m; in Gabon, at 0–600 m altitude. Taxonomic note: externally, this plant can only be confused with E. confervoides, but E. naumanniana has much shorter spikelets (4–5 mm versus 10 mm) and the perianth segments are reduced or absent. In the sterile state, the distinction between these 2 species could be more difficult. Bibliography: Hooper & Napper (1972), Nelmes & Baldwin (1952).
 
-dans les eaux stagnantes ou à courant lent, souvent jusqu’à 1 m de profondeur ; au Gabon, à 0‒600 m d’altitude. Note taxonomique : extérieurement, cette plante peut seulement être confondue avec E. confervoides, mais E. naumanniana a des épillets beaucoup plus courts (4‒5 mm contre 10 mm) et les segments du périanthe sont réduits ou absents. À l’état stérile, la distinction entre ces 2 espèces pourrait être plus difficile. B : Hooper & Napper (1972), Nelmes & Baldwin (1952). ibliographie
-
-B. Nœud avec branches en faisceaux. – C. Partie de C. Base de la plante. – D. Tiges proliférantes. – E, la tige. – D. Détails d’une tige ouverte. – E. Épillet F. Épillets. – G. Glume avec fruit. – H. Fruit avec en fleur. – F, G. Différentes vues des glumes. – H. segments persistants du périanthe. Dessin original Bractéoles. – I. Étamines. – J. Ovaire avec style. par Richard W. Haines ©. – J. Fruit. Dessin original par E.M. Stones ©, reproduit avec permission à partir de Nelmes & Baldwin (1952).
+B. Node with branches in bundles. – C. Part of C. Base of the plant. – D. Proliferating stems. – E. the stem. – D. Details of an open stem. – E. Spikelet F. Spikelets. – G. Glume with fruit. – H. Fruit with flower. – F, G. Different views of the glumes. – H. Persistent perianth segments. Original drawing Bracteoles. – I. Stamens. – J. Ovary with style. by Richard W. Haines ©. – J. Fruit. Original drawing by E.M. Stones ©, reproduced with permission from Nelmes & Baldwin (1952).
 
 ## Notes
 

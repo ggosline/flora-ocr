@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — H. acuminata ENGL., Bot. Jahrb. 32 : 106 (1902).
 
 — H. molundensis MILDBR., Wiss. Ergebn. Deutsch. Zentr. Afr. Exped. 1910-1911, 2 : 32, 76 (1922), nom. nud.
 
-Liane haute de 3-10 m. Tige brun-vert vêtue de poils courts ou ± gla-brescente, pourvue de crochets alternes. Feuilles pétiolées; stipules pubes-centes sur les 2 faces, laciniées, longues de 5-10 mm; pétiole pubescent, de 3-6 mm. Limbe papyracé à légèrement coriace, avec ou sans domaties, glabre à la face supérieure sauf la nervure médiane glabrescente, pubescent à glabrescent sur les nervures à la face inférieure, crénelé-denté, lancéolé-elliptique à obové, généralement cunés à la base, acuminé ou caudé au sommet, 5-16 × 2-5 cm. Nervures secondaires ± arquées à ascendantes, saillantes à la face inférieure; nervilles parallèles, saillantes sur les 2 faces.
+Liane 3–10 m tall. Stem brown-green clothed with short hairs or ± glabrescent, provided with alternate hooks. Leaves petiolate; stipules pubescent on both faces, lacinate, 5–10 mm long; petiole pubescent, 3–6 mm. Blade papyraceous to slightly coriaceous, with or without domatia, glabrous on the upper face except the midvein glabrescent, pubescent to glabrescent on the veins on the lower face, crenate-dentate, lanceolate-elliptic to obovate, generally cuneate at the base, acuminate or caudate at the apex, 5–16 × 2–5 cm. Secondary veins ± arched to ascending, prominent on the lower face; veinlets parallel, prominent on both faces.
 
-Cymes axillaires, tomentelleuses, pauciflores, généralement jusqu'au sommet des extrémités florifères parmi des feuilles bien développées. Pédoncule tomentelleux, atteignant 2 cm. Pédicelles tomentelleux, de 2-6 mm. Bractées et bractéoles semblables aux stipules. Fleurs jaunes. Sépales roux, semi-érigés, densément pubescents sur les 2 faces, lancéolés, 4-7 × 3-4 mm. Pétales jaunes, glabres, triangulaires, arrondis au sommet, 15-30 × 8-10 mm. Étamines glabres, alternativement longues et courtes, de 4-6 mm; anthères elliptiques, légèrement apiculées au sommet. Ovaire glabre, glabrescent au sommet, ovoïde, de 2,5 × env. 1,5 mm; styles glabres, longs de 6-7 mm; stigmates terminaux, capités.
+Axillary cymes, tomentellous, pauciflorous, generally up to the apex of the floriferous branches among well-developed leaves. Peduncle tomentellous, reaching 2 cm. Pedicels tomentellous, 2–6 mm. Bracts and bracteoles similar to the stipules. Flowers yellow. Sepals reddish, semi-erect, densely pubescent on both faces, lanceolate, 4–7 × 3–4 mm. Petals yellow, glabrous, triangular, rounded at the apex, 15–30 × 8–10 mm. Stamens glabrous, alternately long and short, 4–6 mm; anthers elliptic, slightly apiculate at the apex. Ovary glabrous, glabrescent at the apex, ovoid, 2.5 × c. 1.5 mm; styles glabrous, 6–7 mm long; stigmas terminal, capitate.
 
-Drupe subglobuleuse. Noyau bréviaxe, subaigu au sommet, de 8-12 mm de hauteur sur 9-16 mm de diamètre, à pyrènes sillonnées, séparées par des sillons peu profonds. PL. 8, 1-2, p. 35.
+Drupe subglobose. Stone brevaxile, subacute at the apex, 8–12 mm high by 9–16 mm in diameter, with furrowed pyrenes, separated by shallow furrows. PL. 8, 1-2, p. 35.
 
 ## Type
 
@@ -35,13 +33,9 @@ Afzelius s.n., Sierra Leone; Vogel s.n., Ghana (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Forests, from Senegal to Zaïre.
 
-Forêts, du Sénégal au Zaïre.
-
-Nous avons conservé la synonymie adoptée par KEAY. Toutefois on peut noter que H. acuminata Engl. présente des domaties aux aisselles des nervures secondaires, alors que chez H. planchonii Hook. f., les feuilles sont généralement plus coriaces et ne présentent pas toujours de domaties aux aisselles des nervures secondaires. Les matériaux à feuilles type acuminata se répartissent dans l'Ouest africain (Gabon, Cameroun); de là, on passe
-
-insensiblement aux matériaux à feuilles type planchonii de l'Est africain. Ces différences morphologiques sont dues à la grande variabilité de l'espèce que souligne encore le polymorphismisme foliaire. Les caractères floraux ne permettent pas de distinguer deux espèces.
+We have retained the synonymy adopted by KEAY. However, it may be noted that H. acuminata Engl. presents domatia at the axils of the secondary veins, whereas in H. planchonii Hook. f., the leaves are generally more coriaceous and do not always present domatia at the axils of the secondary veins. Materials with acuminata-type leaves are distributed in West Africa (Gabon, Cameroon); from there, one passes insensibly to materials with planchonii-type leaves from East Africa. These morphological differences are due to the great variability of the species, which is further underscored by leaf polymorphism. The floral characters do not permit distinction of two species.
 
 ## Specimens examined
 

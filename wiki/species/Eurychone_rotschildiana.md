@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– TYPE: Rattray s.n. cult. Rotschild, Uganda, holo-non localized.
 
-– TYPE : Rattray s.n. cult. Rotschild, Uganda, holo-non localisé.
-
-Tige 2-8 cm. Feuilles 3-8, 6-21 x (1,5-) 3-7 cm, oblongues-obovales, marges ondulées, finement coriaces. Inflorescence 3-10 cm, 2-6 (12)-flore. Fleurs agréablement parfumées, grandes, résupinées, blanches avec souvent une nervation verte, teintées de verdâtre sur la face externe, labelle blanc avec la gorge de l'éperon vert foncé, éperon brun verdâtre à rose rougeâtre. Sépale dorsal oblong-elliptique. Pétales et sépales latéraux obliquement oblongs. Labelle 20-27 x 20-25 mm, orbiculaire à presque ové, cochéiforme au centre, émarginé, frêle, marges ondulées, érodées. Éperon 20-25 mm, conique à la base, comprimé vers le milieu, la partie distale brusquement dilatée, comprimée latéralement. – Pl. 163, p. 361.
+Stem 2–8 cm. Leaves 3–8, 6–21 × (1.5–) 3–7 cm, oblong-obovate, margins undulate, finely coriaceous. Inflorescence 3–10 cm, 2–6 (12)-flowered. Flowers pleasantly fragrant, large, resupinate, white often with green venation, tinged with greenish on the external surface, labellum white with the spur mouth dark green, spur brownish-greenish to reddish-pink. Dorsal sepal oblong-elliptic. Petals and lateral sepals obliquely oblong. Labellum 20–27 × 20–25 mm, orbicular to almost ovate, cochleate at the center, emarginate, fragile, margins undulate, eroded. Spur 20–25 mm, conical at the base, compressed toward the middle, the distal part abruptly dilated, compressed laterally. – Pl. 163, p. 361.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Gabon, Guinée équatoriale, Zaïre, Ouganda
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Gabon, Equatorial Guinea, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 1 100-1 200 m. Épiphyte en forêt, à l'ombre, observé sur Acacia kirkii
+alt. 1,100–1,200 m. Epiphytic in forest, in shade, observed on Acacia kirkii
 
 ## Specimens examined
 

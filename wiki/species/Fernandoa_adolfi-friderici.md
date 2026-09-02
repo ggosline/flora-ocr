@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- Ferdinandia adolfi-friderici GILG & MILDBR., Wiss. Ergebn. Deutsch. Zentral-Afrika-Exped. 1907-1908, 2 (Botanik): 290 (1911). TYPE: Mildbraed 2843, Zaire, Béni region (BM).
 
-- Ferdinandia adolfi-friderici GILG & MILDBR., Wiss. Ergebn. Deutsch. Zentral-Afrika-Exped. 1907-1908, 2 (Botanik): 290 (1911). TYPE: Mildbraed 2843, Zaire, région du Béni (BM).
+- Ferdinandia mortehani DE WILD., BJBB 5: 53 (1915). TYPE: Mortehan 975, Zaïre, Dundusana (BR, p.p. (leaves of Tecoma stans) not seen).
 
-- Ferdinandia mortehani DE WILD., BJBB 5: 53 (1915). TYPE: Mortehan 975, Zaïre, Dundusana (BR, p.p. (feuilles de Tecoma stans) non vu).
-
-– Tisserantodendron chevalieri SILLANS, Bull. Soc. Bot. Fr. 98 : 272 (1952). SYNTYPES : Tisserant 234, 539, 1382 ; Sillans 1664, Centrafrique (omnes P).
+– Tisserantodendron chevalieri SILLANS, Bull. Soc. Bot. Fr. 98: 272 (1952). SYNTYPES: Tisserant 234, 539, 1382; Sillans 1664, Central African Republic (omnes P).
 
 - Fernandoa mortehani (DE WILD.) HEINE, Adansonia, n.s., 4: 470 (1964), p.p.
 
-Arbre de la voûte atteignant au moins une hauteur de 40 m et un diamètre de 60 cm. Ramilles cylindriques, courtement pubescentes (pubérulence peu visible) sur le jeune, glabres, avec des lenticelles plus pâles contrastant. Feuilles à 5-11 folioles, aiguës à acuminées au sommet, cunéiformes à obtuses à la base, 4-13 × 2-5,5 cm, entières à ± serrulées, glabres sauf des poils dans les aisselles des nervures latérales dessous, et parfois éparsement le long des nervures principales ; pétio-lules longs de 1-3 mm, courtement pubérulents comme le rachis foliaire ; rachis articulé mais pas visiblement uni à la base de chaque paire de folioles.
+Canopy tree reaching at least a height of 40 m and a diameter of 60 cm. Branchlets cylindrical, shortly pubescent (pubescence scarcely visible) on young growth, glabrous, with paler lenticels contrasting. Leaves with 5–11 leaflets, acute to acuminate at apex, cuneiform to obtuse at base, 4–13 × 2–5.5 cm, entire to ± serrulate, glabrous except for hairs in the axils of lateral veins beneath, and sometimes sparsely along the main veins; petiolules 1–3 mm long, shortly puberulent like the leaf rachis; rachis articulated but not visibly united at the base of each pair of leaflets.
 
-Inflorescence racémeuse réduite, ramiflore, le plus souvent à 2-3 fleurs, pédicelles pubérulents, longs de 1,5-2 cm. Calice largement campanulé, irrégulièrement 2-3-labié, long de 0,8-1,4 cm, large de 1-2 cm, grossièrement écailleux et très courtement pubérulent à la base. Corolle jaune avec des lignes rouges dans la gorge, largement campanulée à partir de la base, longue de 4-6 cm, large de 2,2-3 cm à l'embouchure du tube, lobes longs d'environ 2 cm ; courtement pubérulente extérieurement, glabre le plus souvent intérieurement, quelques poils à sommet glanduleux au niveau de l'insertion staminale. Étamines faiblement didynames, subexsertes, thèques souvent divergentes, longues de 4 mm. Pistil long de 3 cm environ, ovaire long de 9-10 mm, large de 1 mm, courtement pubérulent, avec des glandes circulaires saillantes dispersées. Disque mince, patelliforme, ± 5-partite, long de moins de 1 mm, large de 3 mm environ.
+Inflorescence racemose and reduced, ramiflorous, most often with 2–3 flowers, pedicels puberulent, 1.5–2 cm long. Calyx broadly campanulate, irregularly 2–3-lipped, 0.8–1.4 cm long, 1–2 cm wide, coarsely scaly and very shortly puberulent at base. Corolla yellow with red lines in the throat, broadly campanulate from the base, 4–6 cm long, 2.2–3 cm wide at the mouth of the tube, lobes approximately 2 cm long; shortly puberulent externally, mostly glabrous internally, some glandular-tipped hairs at the level of stamen insertion. Stamens weakly didynamous, subexserted, anthers often divergent, 4 mm long. Pistil approximately 3 cm long, ovary 9–10 mm long, 1 mm wide, shortly puberulent, with scattered prominent circular glands. Disc thin, patellifom, ± 5-partite, less than 1 mm long, approximately 3 mm wide.
 
-Fruit (d'après SILLANS, 1952) linéaire, cylindrique, longitudinalement strié, long jusqu'à 60 cm et d'un diamètre de 1,5 cm. Graines minces, biaillées, longues de 8-10 mm. - Pl. 3, p. 23.
+Fruit (according to SILLANS, 1952) linear, cylindrical, longitudinally striated, up to 60 cm long and 1.5 cm in diameter. Seeds thin, biwinged, 8–10 mm long. — Pl. 3, p. 23.
 
 ## Type
 
@@ -39,9 +37,7 @@ Mildbraed 2843, Zaire, région de Béni (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Spécialement remarquable pour ses grandes fleurs qui « tombent à terre et forment un tapis sur le sol ». Afrique centrale équatoriale depuis le Cameroun et la Centrafrique jusqu’au Zaïre et au Gabon.
+Especially remarkable for its large flowers which "fall to the ground and form a carpet on the soil". Equatorial Central Africa from Cameroon and the Central African Republic to Zaïre and Gabon.
 
 ## Specimens examined
 

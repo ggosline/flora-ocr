@@ -27,7 +27,7 @@ tags: [species]
 
 18.Diospyros kamerunensis Gürke
 
-Bot.Jahrb.26:69 (1898),et 43:207,tab.3,M-O et 208 (1909).-F.WHITE, FWTA ed. 2,2:1I (1963). - Diospyros pallescens A. CHEv.， Explor. bot. Afr. occ. fr. : 397 (1920), nom.nud. - Diospyros sph&rocarpa PIERRE ex DE WILD., Pl. Bequaert. 3 : 553 (1926) syn. nov.
+Bot.Jahrb.26:69 (1898),et 43:207,tab.3,M-O et 208 (1909).-F.WHITE, FWTA ed. 2,2:1I (1963). - Diospyros pallescens A. CHEv., Explor. bot. Afr. occ. fr. : 397 (1920), nom.nud. - Diospyros sph&rocarpa PIERRE ex DE WILD., Pl. Bequaert. 3 : 553 (1926) syn. nov.
 
 Specimens of this species appear in various herbaria under the following name: *Diospyros megacarpa* (Gurke ms.), or *D. magnacarpa* (Gurke ms.) in Mildbraed.
 
@@ -49,17 +49,17 @@ This species is known from Liberia, Ivory Coast, and Ghana, and otherwise only f
 
 Leeuwenberg 528o,Io km W Masok (fl.δ,mars) WAG.
 
-Letouzey 9402,3o km ESE Kribi au N de Ia riviere Kienké (stér.)； 10327,
+Letouzey 9402,3o km ESE Kribi au N de Ia riviere Kienké (stér.); 10327,
 
 Nkolemenlong, colline W Ebianéméyong pres Nyabessan (ster.).
 
 Mbarga 38 (= SRFCam 2022),route de Ngongos pres Eséka (j.fl., juin).
 
-Zenker 74 (?),Bipindi (?) (fl.δ) B;945 b (type :945 a + b),Bipindi (fl.δ, mai)；18o6,eod. loc.(fl.♀,mai)；1862,Mimfia pres Bipindi (j.fr., juil.); 2269,Njebo pres Bipindi (fl.δ,mars)；2483 a et 2814,Bipindi (cit.in Bot. Jahrb.43：208 (1909)；3o6g，Mamiaca pres Bipindi (fl.，mai)；3483, Mimfia pres Bipindi (fl. &，oct.)；3563，Makao pres Bipindi (fr.，nov.) (cit.in eod.op.)；s.n.,Bipindi (fl.δ).
+Zenker 74 (?),Bipindi (?) (fl.δ) B;945 b (type :945 a + b),Bipindi (fl.δ, mai);18o6,eod. loc.(fl.♀,mai);1862,Mimfia pres Bipindi (j.fr., juil.); 2269,Njebo pres Bipindi (fl.δ,mars);2483 a et 2814,Bipindi (cit.in Bot. Jahrb.43:208 (1909);3o6g,Mamiaca pres Bipindi (fl.,mai);3483, Mimfia pres Bipindi (fl. &,oct.);3563,Makao pres Bipindi (fr.,nov.) (cit.in eod.op.);s.n.,Bipindi (fl.δ).
 
 ### Material studied in Gabon
 
-Klaine I27,Libreville (fl. ，sept.)；399 (type de D. spherocarpa Pierre ex De Wild.)et 7I2，mont Bouet pres Libreville (fr.，févr. et déc.)；1314, presLibreville (fr.?)；1392,Libreville (fll.et fr.in carpoth.P,févr.)；1652 et 1971,Libreville (stér.)；3248,Libreville (fll.et fr.in carpoth.P,févr.); s.n.,eod.loc.(j.fl.) *. Morel 143 SRF, Moum pres Libreville (j. fr., déc.).
+Klaine I27,Libreville (fl. ,sept.);399 (type de D. spherocarpa Pierre ex De Wild.)et 7I2,mont Bouet pres Libreville (fr.,févr. et déc.);1314, presLibreville (fr.?);1392,Libreville (fll.et fr.in carpoth.P,févr.);1652 et 1971,Libreville (stér.);3248,Libreville (fll.et fr.in carpoth.P,févr.); s.n.,eod.loc.(j.fl.) *. Morel 143 SRF, Moum pres Libreville (j. fr., déc.).
 
 
 ## Figures

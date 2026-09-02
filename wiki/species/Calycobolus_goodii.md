@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, non P. mayombensis Pellegr. (1928). Liane, jusqu’à 30 m de hauteur dans les arbres ; ramilles glabres . Feuille : pétiole (1,5–)2–3 cm ; limbe ové-elliptique, 8–14 × 5–7,5 cm, arrondi à cunéé à la base, aigu à courtement (0,5 cm) acuminé au sommet, ± papyracé, glabre sur les deux faces à l’exception des domaties dessous à poils marginaux ; nervures latérales 6–7 paires. Inflorescence en fascicules, avec jusqu’à 6 fleurs, éparsement pubérulentes ; bractéoles elliptiques, 2 mm de longueur. Fleur : pédicelle 3–5(–8) mm à l’anthèse, beaucoup plus long après , glabre à éparsement pubérulent ; sépales : les deux externes ± égaux à l’anthèse, largement elliptiques à circulaires, 3–5 × 2,5–4 mm, glabres à éparsement pubérulents à l’extérieur, ciliés, glabres et pellucides à l’intérieur , les internes un peu plus courts et plus étroits que les externes ; corolle tubulaire, 7–12 mm de longueur , blanche, pubérulente apicalement, lobes 2–2,5 mm de longueur ; étamines 4–6 mm de longueur, glabres, anthères dressées , 1,5–2 mm de longueur ; pistil 2,5–3 mm de longueur, glabre ; styles égaux à légèrement inégaux, 1,5–2 mm de longueur, soudés jusqu’aux ⅔. Fruit inconnu.
+, not P. mayombensis Pellegr. (1928). Liane, up to 30 m tall in trees; branchlets glabrous. Leaf: petiole (1.5–)2–3 cm; limb ovate-elliptic, 8–14 × 5–7.5 cm, rounded to cuneate at base, acute to shortly (0.5 cm) acuminate at apex, ± papyraceous, glabrous on both surfaces except for domatia beneath with marginal hairs; lateral nerves 6–7 pairs. Inflorescence in fascicles, with up to 6 flowers, sparsely puberulent; bracteoles elliptic, 2 mm long. Flower: pedicel 3–5(–8) mm at anthesis, much longer after, glabrous to sparsely puberulent; sepals: the two outer ± equal at anthesis, broadly elliptic to circular, 3–5 × 2.5–4 mm, glabrous to sparsely puberulent outside, ciliate, glabrous and pellucid inside, the inner slightly shorter and narrower than the outer; corolla tubular, 7–12 mm long, white, puberulent apically, lobes 2–2.5 mm long; stamens 4–6 mm long, glabrous, anthers erect, 1.5–2 mm long; pistil 2.5–3 mm long, glabrous; styles equal to slightly unequal, 1.5–2 mm long, fused to ⅔. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Angola (Cabinda) et Gabon d’où elle n’est connue que d’une seule récolte de l’Ogooué-Lolo
+Angola (Cabinda) and Gabon where it is known only from a single collection from the Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; à 300–700 m d’altitude. B : Breteler (2013), Lejoly & Lisowski (1985). ibliographie
+primary and secondarized forest; at 300–700 m altitude. B: Breteler (2013), Lejoly & Lisowski (1985). Bibliography
 
 ## Notes
 

@@ -15,25 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace à courte durée de vie, aromatique, atteignant 1 m de hauteur ; tige dressée ou étalée, ramifiée, hispide à poils étalés. Feuille : pétiole 4–15 mm ; limbe elliptique à oblong ou ovale-oblong, de 0,5–4,5 × 0,5–2 cm, largement cunéé à la base, obtus à aigu à l’apex, grossièrement denté, vert ou parfois rougeâtre, pubescent, glanduleux-ponctué dessous. Inflo rescence lâche ou dense, verticillastres espacés de 5–10 mm. Fleur : pédicelle 2–4 mm ; calice horizontal ou légèrement dirigé vers le bas, long de 1–1,5 mm à l’anthèse et de 3–4 mm en fruit, lèvre inférieure à dents médianes étroitement triangulaires, subulées à l’apex, courbées
-
-Bakhuizen van den Brink 8153 ). Dessin par dessinateur anonyme, Naturalis Biodiversity Center (©), reproduit à partir de Keng (1978).
-
-vers le haut, dépassant de la lèvre supérieure, lobes latéraux larges, subulés à l’apex, gorge ouverte , glabre ; corolle longue de 2–3 mm, blanche et rose à marques rouge violacé, à tube droit ; étamines à paire supérieure sans appendice, mais ayant une petite touffe de poils à la base . Fruit : akènes ovoïdes-oblongs, longs de 1 mm, bruns, non mucilagineux lorsqu’ils sont mouillés.
+Short-lived perennial herb, aromatic, reaching 1 m in height; stem erect or spreading, branched, hispid with spreading hairs. Leaf: petiole 4–15 mm; blade elliptic to oblong or ovate-oblong, 0.5–4.5 × 0.5–2 cm, broadly cuneate at base, obtuse to acute at apex, coarsely dentate, green or sometimes reddish, pubescent, glandular-punctate below. Inflorescence lax or dense, verticillasters spaced 5–10 mm apart. Flower: pedicel 2–4 mm; calyx horizontal or slightly directed downward, 1–1.5 mm long at anthesis and 3–4 mm in fruit, lower lip with median teeth narrowly triangular, subulate at apex, curved upward, exceeding the upper lip, lateral lobes broad, subulate at apex, throat open, glabrous; corolla 2–3 mm long, white and pink with red-violet markings, tube straight; stamens with upper pair lacking an appendage, but having a small tuft of hairs at the base. Fruit: achenes ovoid-oblong, 1 mm long, brown, non-mucilaginous when wet.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Asie tropicale ; parfois naturalisé en Afrique, mais les récoltes sont généralement associées à la culture ; au Gabon : Ogooué-Maritime. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+native to tropical Asia; sometimes naturalized in Africa, but collections are generally associated with cultivation; in Gabon: Ogooué-Maritime. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones perturbées, notamment autour des puits de pétrole ; aussi en culture ; au Gabon à 20–100 m d’altitude, ailleurs jusqu’à 200 m
+disturbed zones, notably around oil wells; also in cultivation; in Gabon at 20–100 m altitude, elsewhere up to 200 m
 
 ## Vernacular names
 

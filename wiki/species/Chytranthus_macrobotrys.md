@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Glossolepis macrobotrys GUG, Bot. Jahrb. 24 : 299, tab. 1 (1897); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 780, tab. 17 (1932).
 
 — G. giorgii DE WILD, Fedde Repert. 13 : 379 (1914); RADLK., l.c. : 781 (1932).
 
 — Chytranthus mayumbensis Exell, Journ. Bot. 66, suppl. : 86 (1928); Exell & Mendonça, Consp. Fl. Angol. 2 : 84 (1954). Syn. nov.
 
-Arbuste monocaule de (1,5-) 2-5 (-10) m de hauteur; le tronc peut atteindre 10 cm de diamètre; extrémité d'aspect glabre avec les restes d'un revêtement juvénile pruineux pelliculeux. Rachis foliaire de 45-80 cm portant (2-) 4-6 paires de folioles ± opposées oblongues ou longuement obovées atteignant 32 × 9 cm, très rarement 40 × 13 cm, glabres avec la nervure médiane nettement glabre et en relief dessus à sec; limbe subconcolore à sec; base aiguë souvent dissymétrique; sommet acuminé; 11-19 paires de nervures secondaires; fin réseau bien apparent à sec.
+Monocaulous shrub of (1.5-) 2–5 (–10) m in height; the trunk may reach 10 cm in diameter; apex glabrous in appearance with remains of a juvenile pruinose flaking covering. Leaf rachis 45–80 cm long bearing (2–) 4–6 pairs of ± opposite leaflets, oblong or long-obovate, reaching 32 × 9 cm, very rarely 40 × 13 cm, glabrous with the midvein distinctly glabrous and prominent above when dry; blade subconcolorous when dry; base acute often asymmetrical; apex acuminate; 11–19 pairs of secondary veins; fine venation network clearly visible when dry.
 
-Inflorescences caulinaires échelonnées entre 0,10 et 1,20 m de hauteur sur le tronc, disposées ± à l'horizontale ou pendantes pour les plus longues; racèmes étroits et lâches de 11 à 76 cm de longueur, gris ochracé; rachis plutôt grêle, anguleux, vêtu d'une brève pubérulence mêlée de pruine pelliculeuse blanchâtre; bractées aiguës de 2-4 × 1-1,5 mm; glomérules espacés, souvent de 5-10 mm, pauciflores et sessiles ou pluriflores avec un pédoncule qui peut atteindre au plus 1-2 mm. Bouton globuleux ou brièvement et obtusément subconique, de 5-7 mm de diamètre; pédicelle de 2 (-2,5) mm; calice de 10-12 × 8-10 mm, pruineux micropubérulent, gris ochracé, fauve clair ou brun, fendu en 5 sépales sur 3-5 mm; 4 pétales oblonges de 5-8 × 3-3,8 mm, à base non en onglet, à lame ovée à l'apex, à ligule ovée peu allongée, réfractée ou non, 1-2-appendiculée ou non; disque jaune clair pentagonal, déprimé au milieu; 11-14 étamines de 7-9 mm, dépassant parfois un peu la corolle, à filet velu ou médiocrement pubescent, à anthère de 1,7-2 × 0,9-1,1 mm; connectif renflé montrant en coupe une structure palissadique particulière; ovaire avorté dans la fleur ♂, pubescent parfois médiocrement, à (5-) 6-8 (-9) carpelles; fleur ♀ à ovaire
+Inflorescences cauline, distributed between 0.10 and 1.20 m in height on the trunk, arranged ± horizontally or pendulous for the longest; narrow and lax racemes 11 to 76 cm in length, grey-ochraceous; rachis rather slender, angular, clothed with brief puberulence mixed with whitish flaking pruine; acute bracts 2–4 × 1–1.5 mm; glomerules spaced, often 5–10 mm apart, pauciflorous and sessile or pluriflorous with a peduncle that may reach at most 1–2 mm. Bud globose or briefly and obtusely subconical, 5–7 mm in diameter; pedicel 2 (–2.5) mm; calyx 10–12 × 8–10 mm, pruinose micropubescent, grey-ochraceous, light tan or brown, split into 5 sepals over 3–5 mm; 4 oblong petals 5–8 × 3–3.8 mm, base not clawed, blade ovate at the apex, ligule ovate not much elongated, reflexed or not, 1–2-appendiculate or not; disc light yellow pentagonal, depressed in the centre; 11–14 stamens 7–9 mm, sometimes extending slightly beyond the corolla, filament hairy or moderately pubescent, anther 1.7–2 × 0.9–1.1 mm; connective swollen showing in section a peculiar palisade structure; ovary aborted in the ♂ flower, pubescent sometimes moderately, with (5–) 6–8 (–9) carpels; ♀ flower with pubescent ovary, 5.5 mm in diameter, with elongated style and ± curved exsert stigma.
 
-pubescent, de 5,5 mm de diamètre, à style allongé et stigmate ± recourbé exsert.
-
-Fruit charnu médiocrement côtelé, un peu atténué aux extrémités, vert avant maturité, de  $ 5 \times 6 $ cm à sec (Guigonis 3745) avec des graines d'environ  $ 2 \times 2 \times 1 $ cm. PL. 27, p. 113.
+Fleshy fruit moderately ribbed, somewhat attenuate at the extremities, green before maturity, $ 5 \times 6 $ cm when dry (Guigonis 3745) with seeds about $ 2 \times 2 \times 1 $ cm. PL. 27, p. 113.
 
 ## Type
 
@@ -39,13 +35,11 @@ Zenker & Staudt 388, Cameroun (isto-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The species is variable and the characters on which Ch. mayumbensis Exell & Mendonça is based do not allow recognition of a second distinct species.
 
-L'espèce est variable et les caractères sur lesquels reposent le Ch. mayumbensis Exell & Mendonça ne permettent pas de reconnaître une seconde espèce distincte.
+Species of primary riparian or swampy forests, also found in montane forest around 950 m, not known to us from Côte-d'Ivoire (where Ch. talbotii occurs instead); collected in Ghana and Nigeria extending to Central Africa (Tisserant 1536, Guigonis 3745), in Congo (Farron 4917, Bouquet 1263), Kasai and Mayombe.
 
-Espèce des forêts primaires ripicoles ou marécageuses, trouvée aussi en forêt de montagne vers 950 m, elle ne nous est pas connue de la Côté-d'Ivoire (où existe par contre le Ch. talbotii); récoltée au Ghana et Nigeria jusqu'en Centrafrique (Tisserant 1536, Guigonis 3745), au Congo (Farron 4917, Bouquet 1263), Kasai et Mayombe.
-
-Breteler 1570, 23 km W Yaoundé (fl., juil.). Letouzey 2350, N. Mbanga près Yoko (fl., juill.). Zenker & Staudt 388, Yaoundé (fl. fr., juil.).
+Breteler 1570, 23 km W Yaoundé (fl., July). Letouzey 2350, N. Mbanga near Yoko (fl., July). Zenker & Staudt 388, Yaoundé (fl. fr., July).
 
 ## Specimens examined
 

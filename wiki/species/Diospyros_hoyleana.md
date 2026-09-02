@@ -27,9 +27,9 @@ tags: [species]
 
 16.Diospyros Hoyleana F. White
 
-Bull.Jard.Bot.Brux.26:240 et 245(1956)；FWTA ed.2,2:15,tab. A,7 (1963); Nigerian Trees 2 : 337 (1964). -Maba kamerunensis GURkE,Bot. Jahrb.46 :I5o (1gII)，non Diospyros kamerunensis GURkE (1898). Strombosiopsis buxifolia S. MooRE，Journ.Bot.58 ：226 (1920)，nonMaba buxifolia (RorTB).A.L.Juss. (1804). Specimens of this species appear in various herbaria under the following name: *Maba klaineana* (Pierre ms.).
+Bull.Jard.Bot.Brux.26:240 et 245(1956);FWTA ed.2,2:15,tab. A,7 (1963); Nigerian Trees 2 : 337 (1964). -Maba kamerunensis GURkE,Bot. Jahrb.46 :I5o (1gII),non Diospyros kamerunensis GURkE (1898). Strombosiopsis buxifolia S. MooRE,Journ.Bot.58 :226 (1920),nonMaba buxifolia (RorTB).A.L.Juss. (1804). Specimens of this species appear in various herbaria under the following name: *Maba klaineana* (Pierre ms.).
 
-PL.I1，1-I4,p.8g,et CARTE 33,p. 174.
+PL.I1,1-I4,p.8g,et CARTE 33,p. 174.
 
 Shrub or small tree 10-15 m tall and 20-25 cm in diameter at the base; plants
 20-25 m tall and 50 cm in basal diameter have been reported, though the diameter
@@ -98,11 +98,11 @@ however, with *D. obliquifolia* and probably also with *D. vermoesenii*.
 
 ### Material studied in Cameroon
 
-Bates 1794,Bitya sur le Dja (fl.3); 1799,eod.loc. (fl. ). Brenan 9288,Banga，South.Rakundu for. res. pres Kumba (εtér.)；9309, eod.loc.(fl.♀,mars) BM,K,FHO;9471,eod.loc.(fl.,mars). De Wilde W.2142,5o km S.Badjob soit 6o km SW Eséka (fl.♀,mars) WAG. Endengle SRFCam 2o45,Douala (fr.). Fleury 33223 in herb. Chevalier,pres Douala (stér.)；s.n., pres Douala (stér.). Leeuwenberg 57oo,pres km 58 route Edéa-Kribi (fl.♀,mai) WAG. Letouzey 573，pres Bounyebel,arrondissement d'Eseka (fl.&，févr.)；3678, Eschienbot，2o km E Lomié (stér.)；Io2o9，coline Ongongondjé pres Akonékyé,15 km NW Ambam (fl.♀,mars). Mildbraed 499I,entre Yokadouma et Assobam (actuel Mpan) (cit.in MILD-BRAED,Wiss.Ergebn.Zweite Deutsche Zentral-Afr. Exped.2 :61 (1922); 10627,Likomba (cit.in Notizbl.Bot.Gart.Berl.10: 974 (1930). Onochie FHI 3o853,South.Bakundu for.res.pres Kumba (fl.&，mars) FHI, K. Tiku FHI 418g8,rés.for. Kembong pres Mamfe (stér.) FHI. White 8432 et 8565,rés.for.lac Ejaghan pres Mamfe (stér.)FHO. Zenker I745 (type de Maba kamerunensis Gürke)，entre Bipindi et la mer (ster.).
+Bates 1794,Bitya sur le Dja (fl.3); 1799,eod.loc. (fl. ). Brenan 9288,Banga,South.Rakundu for. res. pres Kumba (εtér.);9309, eod.loc.(fl.♀,mars) BM,K,FHO;9471,eod.loc.(fl.,mars). De Wilde W.2142,5o km S.Badjob soit 6o km SW Eséka (fl.♀,mars) WAG. Endengle SRFCam 2o45,Douala (fr.). Fleury 33223 in herb. Chevalier,pres Douala (stér.);s.n., pres Douala (stér.). Leeuwenberg 57oo,pres km 58 route Edéa-Kribi (fl.♀,mai) WAG. Letouzey 573,pres Bounyebel,arrondissement d'Eseka (fl.&,févr.);3678, Eschienbot,2o km E Lomié (stér.);Io2o9,coline Ongongondjé pres Akonékyé,15 km NW Ambam (fl.♀,mars). Mildbraed 499I,entre Yokadouma et Assobam (actuel Mpan) (cit.in MILD-BRAED,Wiss.Ergebn.Zweite Deutsche Zentral-Afr. Exped.2 :61 (1922); 10627,Likomba (cit.in Notizbl.Bot.Gart.Berl.10: 974 (1930). Onochie FHI 3o853,South.Bakundu for.res.pres Kumba (fl.&,mars) FHI, K. Tiku FHI 418g8,rés.for. Kembong pres Mamfe (stér.) FHI. White 8432 et 8565,rés.for.lac Ejaghan pres Mamfe (stér.)FHO. Zenker I745 (type de Maba kamerunensis Gürke),entre Bipindi et la mer (ster.).
 
 ### Material studied in Gabon
 
-Hallé N.3313,Belinga (j.fr.,nov.);3771,eod.loc. (stér.). Halle N.et Le Thomas I71,Bélinga (j. fl., juill.). Klaine 67,sin. loc. (fl.)；149,sin. loc.(fl.et j.fr.,sept.et oct.)；349,sin. loc.(fl.♀et fr.,juill.et déc.)；358,sin. loc.(fr.)；3o3o et 3o3o bis，pres Libreville (fl.♀,aout). Lecomte s. n., Nyanga, Fernan Vaz (stér.). Le Testu 84o5, Magoucou, 5o km ENE Mbigou (fl. ♀,oct.).
+Hallé N.3313,Belinga (j.fr.,nov.);3771,eod.loc. (stér.). Halle N.et Le Thomas I71,Bélinga (j. fl., juill.). Klaine 67,sin. loc. (fl.);149,sin. loc.(fl.et j.fr.,sept.et oct.);349,sin. loc.(fl.♀et fr.,juill.et déc.);358,sin. loc.(fr.);3o3o et 3o3o bis,pres Libreville (fl.♀,aout). Lecomte s. n., Nyanga, Fernan Vaz (stér.). Le Testu 84o5, Magoucou, 5o km ENE Mbigou (fl. ♀,oct.).
 
 ## Figures
 

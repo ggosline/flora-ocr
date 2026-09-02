@@ -16,19 +16,18 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Racèmes larges de 3-7 mm ; graine souvent recouverte par la lemma et la paléa …… E. indica 1. Racèmes larges de 9-15 mm ; graine souvent découverte à maturité …… E. coracana
+1. Racemes 3–7 mm wide; seed often covered by the lemma and palea …… E. indica
+1. Racemes 9–15 mm wide; seed often exposed at maturity …… E. coracana
 
 20.1 Eleusine coracana (L.) Gaertn.
 
-Fl. Gab.: 232, Pl. 38; FWTA: 397; Gram. Cam.: 144; Poac. CI.: 150, 151.
+Fl. Gab.: 232, Pl. 38; FWTA: 397; Gram. Cam.: 144; Poac. Cl.: 150, 151.
 
 20.2 Eleusine indica (L.) Gaertn.
 
 Fl. Gab.: 231, Pl. 38; FWTA: 395, fig. 432; FTEA: 262; Gram. Cam.: 142; Gram. CB.: 96.
 
-20.2a subsp. indica - FTEA : 263 ; Gram. Cam. : 143, Pl. 30 ; Poac. CI. : 148, 149 ; Gram. CB. : 97.
+20.2a subsp. indica - FTEA: 263; Gram. Cam.: 143, Pl. 30; Poac. Cl.: 148, 149; Gram. CB.: 97.
 
 ## Specimens examined
 

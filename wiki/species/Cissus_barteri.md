@@ -23,17 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous vine. Stems cylindrical, somewhat fleshy, 2–3 mm in diameter, glabrous; internodes 6–15 cm long. Tendrils simple, glabrous; bracts oblong, approximately 1.5 mm long, glabrous. Stipules ovate-oblong, cordate at the base, 2–2.5 mm long, 1–1.5 mm wide, glabrous. Leaves simple, entire, completely glabrous. Petiole cylindrical, flattened or channelled above, 3–10 cm long. Blade ovate, elliptic or lanceolate, 10–20 cm long, 4–9 cm wide, with truncate base and attenuate, acuminate apex; margin bearing short and thick teeth; venation pinnate; texture soft.
 
-Liane herbacée. Tiges cylindriques, un peu charnues, de 2-3 mm de diamètre, glabres; entrenœuds de 6-15 cm de long. Vrilles simples, glabres; bractées oblongues, d'environ 1,5 mm de long, glabres. Stipules ovales oblongues, cordées à la base, de 2-2,5 mm de long, de 1-1,5 mm de large, glabres. Feuilles simples entières, totalement glabres. Pétiole cylindrique, aplati ou canali
+Inflorescences 5–15 cm long, in lax cymes composed of few-flowered umbelliform cymules; peduncle 2–5 cm long; axes cylindrical, glabrous; bracts and bracteoles deltoid, obtuse, 1–2 mm long, glabrous. Flowers 3.5–4 mm long. Pedicel cylindrical, thick, 2.5 mm long, very finely papillose and more or less densely covered with minute reddish hairs. Calyx cupuliform, thick, 0.5–1 mm high, glabrous or bearing a few hairs in the lower part. Corolla conical, glabrous; petals oblong, approximately 3 mm long. Stamens 2 mm long, anthers with somewhat thickened connective. Ovary glabrous.
 
-culé sur le dessus, de 3-10 cm de long. Limbe ovale, elliptique ou lancéolé, de 10-20 cm de long, de 4-9 cm de large, à base tronquée, à sommet atténué et acuminé; marge présentant des dents courtes et épaisses; nervation pennée; texture molle.
+Berries ovoid, 9–10 mm long, 5–6 mm wide, glabrous. Seed ovoid subreniform, approximately 8 mm long, 5 mm wide and 3 mm thick; rostrum thick and long; median crest distinct; testa with smooth surface.
 
-Inflorescences de 5-15 cm de long, en cymes lâches composées de cymules ombelliformes pauciflores; pédoncule de 2-5 cm de long; axes cylindriques glabres; bractées et bractéoles deltoides, obtuses; de 1-2 mm de long, glabres. Fleurs de 3,5-4 mm de long. Pédicelle cylindrique, épais, de 2,5 mm de long, très finement papilleux et plus ou moins densément couvert de minuscules poils roux. Calice cupuliforme, épais, de 0,5-1 mm de haut, glabre ou présentant quelques poils dans la partie inférieure. Corolle conique, glabre; pétales oblongs, d'environ 3 mm de long. Étamines de 2 mm de long, anthères à connectif un peu épaiss. Ovaire glabre.
-
-Baies ovoïdes, de 9-10 mm de long, de 5-6 mm de large, glabres. Graine ovoïde subréniforme, d'environ 8 mm de long, 5 mm de large et 3 mm d'épaisseur; rostre épais et long; crête médiane nette; test à surface lisse.
-
-Types de Fernando Po : Barter s. n., Mann II (syntypes K). Liane molle, un peu crassulescente. Dans les forêts ombrophiles, les galeries et les recrus forestiers. Espèce largement distribuée du Nigeria au Congo (Léopoldville).
+Types from Fernando Po: Barter s. n., Mann II (syntypes K). Soft vine, somewhat crassulescent. In rainforests, forest galleries and forest regrowth. Species widely distributed from Nigeria to Congo (Léopoldville).
 
 ## Specimens examined
 

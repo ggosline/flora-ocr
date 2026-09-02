@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr. 8 : 527 (1902). Herbe vivace, très robuste, formant des touffes épaisses avec la base renflée dure recouverte par les nombreuses feuilles basales ; rhizome ligneux d’environ 5 mm d’épaisseur, habituellement dressé ; tiges de 60‒120 cm × 2‒5 mm, cylindriques à comprimées en haut, plus anguleuse dessous, avec des côtes longitudinales arrondies, glabres, lisses ou finement scabres sur les angles en haut, base couverte par des gaines coriaces, souvent noirâtres après les feux. Feuille : gaine épaisse ; limbe linéaire, de 15‒40 cm × 4‒6 mm , épais et coriace, scabre sur la marge et les nervures principales, gardant sa largeur et se terminant brusquement en un sommet obtus ou subaigu très scabre, à surface supérieure avec de nombreuses nervures distinctes. Inflorescence en anthèle composée lâche, de 6‒20 × 3‒8 cm, formée de 200‒400 épillets en un fascicule sessile en « pinceau », soustendu par 3–6 fascicules sur des pédoncules de 8 cm × 1 mm ; bractées involucrales 3‒5, foliacées, plus courtes que l’inflorescence. Épillet linéaire, de 5‒10 × 1‒1,5 mm , brun rougeâtre clair, mais noirâtre lorsque les glumes tombent ; vieux rachis noir et apparaissant feuillé par la base persistante des glumes ; glumes ovales, de 2‒2,5 mm , brun clair à ± soutenu, avec la marge pâle, nervure centrale étroite prolongée par une arête courte. Fleur à 2 étamines ; style à 3 branches . Akène obovale, d’environ 0,8 × 0,6 mm , nettement trigone, brun rougeâtre brillant, tuberculé.
+in Dyer, Fl. trop. Afr. 8: 527 (1902). Perennial herb, very robust, forming thick tufts with hard swollen base covered by numerous basal leaves; woody rhizome approximately 5 mm thick, usually erect; stems 60–120 cm × 2–5 mm, cylindrical to compressed above, more angled below, with rounded longitudinal ribs, glabrous, smooth or finely scabrous on the angles above, base covered by coriaceous sheaths, often blackish after fires. Leaf: sheath thick; blade linear, 15–40 cm × 4–6 mm, thick and coriaceous, scabrous on the margin and main veins, maintaining its width and terminating abruptly in a very scabrous obtuse or subobtuse apex, upper surface with numerous distinct veins. Inflorescence as a lax compound anthela, 6–20 × 3–8 cm, formed of 200–400 spikelets in a sessile fascicle in "brush-like" form, subtended by 3–6 fascicles on peduncles 8 cm × 1 mm; involucral bracts 3–5, foliaceous, shorter than the inflorescence. Spikelet linear, 5–10 × 1–1.5 mm, light reddish-brown, but blackish when glumes fall; old rachis black and appearing leafy from the persistent base of the glumes; glumes oval, 2–2.5 mm, light brown to ± dark, with pale margin, narrow central vein prolonged by a short awn. Flower with 2 stamens; style with 3 branches. Achene obovate, approximately 0.8 × 0.6 mm, distinctly trigonous, shiny reddish-brown, tuberculate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo et République Démocratique du Congo ; au Gabon, trouvée seulement sur les Plateaux Batéké (Haut-Ogooué) (2 récoltes)
+Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, found only on the Batéké Plateaus (Upper Ogooué) (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les zones humides des prairies, savanes et lisières des forêts, sur les sables du plateau Batéké ; au Gabon, à environ 400 m d’altitude, ailleurs à 300‒500 m. Note taxonomique : proche de F. complanata, mais elle est beaucoup plus grande, avec des limbes plus larges et plus de 100 épillets par inflorescence. B : Goetghebeur & Coudijzer (1984a). ibliographie
+in humid zones of grasslands, savannas and forest margins, on sands of the Batéké plateau; in Gabon, at approximately 400 m altitude, elsewhere at 300–500 m. Taxonomic note: close to F. complanata, but much larger, with wider blades and more than 100 spikelets per inflorescence. B: Goetghebeur & Coudijzer (1984a). Bibliography
 
 a b
 

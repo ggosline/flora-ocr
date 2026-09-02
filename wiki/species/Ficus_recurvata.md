@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Hutch. in Hutch. & RENDLE, FTA 6 (2): 199 (1917); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 174, tab. 18 (1948).
 
 - F. golungensis HUTCH., Kew Bull.: 316 (1915); FTA 6 (2): 105 (1916); HIERN, Cat. Afr. Pl. Welw. 4: 1016 (1900). LECTOTYPE: Welwitsch 6409, Angola, Golungo Alto, monts Alto Queta (K.; iso-, B, BM).
 
 - F. goliath A. CHEV., Vég. ut. Afr. Trop. Fr. 5: 262 (1909), nomen nud.; AUBRÉV., FCCI, ed. 2, 1: 86, tab. 18, fig. A (1959).
 
-Arbres de plus de 35 m de haut. Rameaux feuillés épais de 5-10 mm éparsement hirsutes à glabres, marron sur le sec. Feuilles disposées en spirales. Limbe elliptique à oblong, long de (10-) 15-28 (-44) cm, large de 7-15 (-21) cm, subcoriace, sommet (faiblement) acuminé à subaigu ou presque arrondi, base cordée, bord subentier à grossièrement crénelé-denté, spécialement vers la base ; face supérieure éparsement hirsute à hirtelleuse, face inférieure hirsute sur la nervure médiane et les nervures latérales, éparsement hirtelleuse à pubérulente ou glabre sur les autres parties (ou toute la surface glabre) ; nervures presque planes dessus, nervures médianes et nervures latérales saillantes dessous ; (8-) 10-18 paires de nervures latérales, inclus 1 paire de nervures basales, nervures tertiaires partiellement parallèles à travers la surface internervuraire, tache glanduleuse invisible. Pétiole long de (2-) 5-8 (-10) cm environ, épais de 3 mm environ, hirsute. Stipules libres, longues de 1-2,5 (-4,5) cm, (presque) glabres, libres, caduques.
+Trees more than 35 m tall. Leafy branchlets 5-10 mm thick, sparsely hirsute to glabrous, brown when dry. Leaves arranged spirally. Blade elliptic to oblong, 10-(-) 15-28 (-44) cm long, 7-15 (-21) cm wide, subcoriaceous, apex (weakly) acuminate to subacute or almost rounded, base cordate, margin subentire to coarsely crenate-dentate, especially toward the base; upper surface sparsely hirsute to hirtellose, lower surface hirsute on the midvein and lateral veins, sparsely hirtellose to puberulent or glabrous on other parts (or entire surface glabrous); veins nearly flat above, midvein and lateral veins prominent below; (8-) 10-18 pairs of lateral veins, including 1 pair of basal veins, tertiary veins partially parallel across the internervial surface, glandular spot invisible. Petiole about (2-) 5-8 (-10) cm long, about 3 mm thick, hirsute. Stipules free, 1-2.5 (-4.5) cm long, (almost) glabrous, free, caducous.
 
-Figues par paires dans les aisselles des feuilles ; pédoncule long de 1,5-3,5 cm, épais de 2 mm environ, hirtelleux ; bractées basales 2, semi-circulaires à largement ovées, longues de 4 mm environ, partie inférieure pubérulente ; réceptacle ellipsoïde à subglobuleux, diamètre de 1,5-3 cm sur le sec ; vert avec des taches crème sur le vivant, presque glabre, paroi épaisse de 3 mm environ sur le sec, ostiole ± saillant, bilabié.
+Figs in pairs in the leaf axils; peduncle 1.5-3.5 cm long, about 2 mm thick, hirtellose; basal bracts 2, semicircular to broadly ovate, about 4 mm long, lower part puberulent; receptacle ellipsoid to subglobose, 1.5-3 cm diameter when dry; green with cream spots on living plants, almost glabrous, wall about 3 mm thick when dry, ostiole ± prominent, bilabiate.
 
-Fleurs pistillées avec un périanthe (tri-) tetrapartite, haut de 2-2,5 mm, sommet des tépales obtus; fleurs à graines sessiles ou subsessiles, style long de 4 mm environ ; fleurs à galles à pédicelle atteignant une taille de 1 mm, style long de 3 mm environ parfois quelques fleurs à galles présentes anormalement grandes et gonflées. Fleurs staminées subsessiles ou pédicellées jusqu'à 0,5 mm, périanthe tri- ou tetrapartite, haut de 1,5-2 mm, filet long de 0,2-0,3 mm environ, anthère longue de 1 mm environ, apiculée. Bractées interflorales étroites, longues de 2-2,5 mm environ. - Pl. 44, p. 157.
+Pistillate flowers with a (tri-) tetrapartite perianth, 2-2.5 mm high, tepals obtuse at apex; seed flowers sessile or subsessile, style about 4 mm long; gall flowers on a pedicel reaching 1 mm, style about 3 mm long, sometimes a few abnormally large and swollen gall flowers present. Staminate flowers subsessile or pedicellate up to 0.5 mm, perianth tri- or tetrapartite, 1.5-2 mm high, filament about 0.2-0.3 mm long, anther about 1 mm long, apiculate. Interfloral bracts narrow, about 2-2.5 mm long. - Pl. 44, p. 157.
 
 ## Type
 
@@ -37,9 +35,7 @@ Laurent 809, Zaïre, Eala (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est connue depuis la Côte d'Ivoire, le Nigeria (plantée), le Cameroun, l'Angola, le Zaïre et la Tanzanie (Sacleux 2017).
+The species is known from Ivory Coast, Nigeria (cultivated), Cameroon, Angola, Zaire and Tanzania (Sacleux 2017).
 
 ## Specimens examined
 

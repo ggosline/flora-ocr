@@ -23,13 +23,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Ching, in C. Chr., Ind. Fil., Suppl. 3 : 48 (1934). — Tard., Mém. IFAN 28 : 110, pl. 18, f. 4-5 (1953). — Alston, FWTA : 68 (1959).
 
-— Chìng, in C. Chr., Ind. Fil., Suppl. 3 : 48 (1934). — Tard., Mém. IFAN 28 : 110, pl. 18, f. 4-5 (1953). — Alston, FWTA : 68 (1959).
-
-Rhizome longuement rampant, écailleux, à écailles lancéolées, à bords entiers, cellules à parois brun clair. Pétiole straminé-verdâtre, celui des frondes stériles long de 10-12 cm, canaliculé, portant quelques rares écailles à la base. Limbe entier, lancéolé-oblong, long de 15-17 cm sur 3-5 de large, à bases cunéiformes arrondies, extrémité acuminée, marges sinuées, ou trifides, portant, à la base, 2 ou 4 lobes plus courts que le terminal, mais de même forme, plus ou moins décurrents sur le pétiole ou pinnatifides. Costa surélevé à la face inférieure. Nervures latérales peu marquées; nervilles formant une rangée d'aréoles costales très
-
-surbaissées et 6-7 rangées d'aréoles sans nervilles incluses. Texture subcoriace; coloration vert olive foncé sur le sec. Pas de bourgeon à l'extrémité de la fronde.
+Rhizome long-creeping, scaly, with lanceolate scales, entire-margined, cells with pale brown walls. Petiole straw-green, that of sterile fronds 10–12 cm long, channelled, bearing a few scattered scales at the base. Lamina entire, lanceolate-oblong, 15–17 cm long by 3–5 cm broad, with rounded cuneiform bases, acuminate apex, sinuate or trifid margins, bearing at the base 2 or 4 lobes shorter than the terminal lobe but of similar form, more or less decurrent on the petiole or pinnatifid. Costa raised on the lower surface. Lateral veins inconspicuous; veinlets forming a row of very depressed costal areoles and 6–7 rows of areoles without included veinlets. Texture subcoriaceous; colouration dark olive-green when dry. No bud at the frond apex.
 
 ## Type
 
@@ -37,9 +33,7 @@ Mann 442, Fernando-Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-San-Thomé, Fernando-Po, Libéria, Ghana, Congo.
+São Thomé, Fernando Po, Liberia, Ghana, Congo.
 
 ## Specimens examined
 

@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Porochna paniculata Tiegh., J. Bot. (Morot) 16 : 125 (avril 1902). Diporochna paniculata (Tiegh.) Tiegh., Ann. Sci. Nat., Bot. sér. 8, 16 : 391 (déc. 1902). O. gilgiana Engl., Bot. Jahrb. Syst. 33 : 243 (1903). Arbuste atteignant 7(–12) m de hauteur ; rameaux longitudinalement striés, grisâtres à pourpre noirâtre ; ramilles brun foncé à brun grisâtre, lisses ; bourgeons fusiformes, 10– 15 × 2–3 mm. Stipules linéaires, 3–15 × 0,2–0,5 mm, entières ou denticulées-fimbriées, caduques. Feuille : pétiole 1–5 mm ; limbe elliptique ou obovale à étroitement elliptiqueobovale, 5–20 × 1,5–7 cm, cunéé à arrondi à la base, étroitement acuminé au sommet, membraneux à peu coriace, à marge serretée à denticulée-ciliolulée ; nervures secondaires 10 à 18, ennoyées dessus, nervation tertiaire très fine et réticulée, peu proéminente sur les deux faces. Inflorescence paniculée , multiflore, 5–12 cm de longueur ; boutons globuleux ou largement elliptiques . Fleur : pédicelle 5–10 mm, articulé à 1–2 mm de la base ; sépales obovales-elliptiques à subcirculaires, (2–)4–5 × 2–3 mm en fleur, jusqu’à 13 × 10 mm et rouges en fruit ; pétales oblancéolés-oblongs à spatulés, 5–8 × 1,5–4 mm, jaune pâle à jaunes ; étamines 9 à 14, filet 2 mm, anthères 1,5–2 mm de longueur, déhiscentes par pores apicaux ; ovaire à 5 carpelles ; style 4–5 mm, capité au sommet. Fruit : pédicelle s’allongeant jusqu’à 15 mm ; réceptacle environ 3 × 6 mm ; drupéoles réniformes-aplaties, 10–11 × 7–8 mm. Graine courbée ; cotylédons incombants, inégaux, à petit cotylédon interne.
+Porochna paniculata Tiegh., J. Bot. (Morot) 16 : 125 (avril 1902). Diporochna paniculata (Tiegh.) Tiegh., Ann. Sci. Nat., Bot. sér. 8, 16 : 391 (déc. 1902). O. gilgiana Engl., Bot. Jahrb. Syst. 33 : 243 (1903). Shrub reaching 7(–12) m in height; branches longitudinally striate, grayish to blackish-purple; branchlets dark brown to grayish-brown, smooth; buds fusiform, 10–15 × 2–3 mm. Stipules linear, 3–15 × 0.2–0.5 mm, entire or denticulate-fimbriate, caducous. Leaf: petiole 1–5 mm; blade elliptic or obovate to narrowly elliptic-obovate, 5–20 × 1.5–7 cm, cuneate to rounded at base, narrowly acuminate at apex, membranous to slightly coriaceous, with margin serrate to denticulate-ciliolulate; secondary veins 10 to 18, immersed above, tertiary venation very fine and reticulate, slightly prominent on both surfaces. Inflorescence paniculate, multiflorous, 5–12 cm in length; flower buds globose or broadly elliptic. Flower: pedicel 5–10 mm, articulate 1–2 mm from base; sepals obovate-elliptic to subcircular, (2–)4–5 × 2–3 mm in flower, up to 13 × 10 mm and red in fruit; petals oblanceolate-oblong to spatulate, 5–8 × 1.5–4 mm, pale yellow to yellow; stamens 9 to 14, filament 2 mm, anthers 1.5–2 mm in length, dehiscing by apical pores; ovary with 5 carpels; style 4–5 mm, capitate at apex. Fruit: pedicel elongating up to 15 mm; receptacle approximately 3 × 6 mm; drupels reniform-flattened, 10–11 × 7–8 mm. Seed curved; cotyledons incumbent, unequal, with small internal cotyledon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone jusqu’au Cameroun, la République centrafricaine, le Gabon, la République démocratique du Congo, l’Angola, le Soudan, l’Ouganda, le Kenya et la Tanzanie ; au Gabon, rare et connue de la Nyanga, de l’Ogooué-Ivindo et du WoleuNtem
+from Sierra Leone to Cameroon, Central African Republic, Gabon, Democratic Republic of the Congo, Angola, Sudan, Uganda, Kenya and Tanzania; in Gabon, rare and known from Nyanga, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondary forest, forest galleries, forest edges, secondary growth, savanna and inselbergs; in Gabon, at 100–900 m altitude, elsewhere up to 1250 m
 
-forêt primaire et secondaire, galeries forestières, lisières, recrus, savane et inselbergs ; au Gabon, à 100–900 m d’altitude, ailleurs jusqu’à 1250 m
-
-b : Bamps & Farron (1967), Hawthorne & Jongkind (2006), Hutchinson, ibliographie Dalziel & Keay (1954), Verdcourt (2005).
+b : Bamps & Farron (1967), Hawthorne & Jongkind (2006), Hutchinson, Bibliography Dalziel & Keay (1954), Verdcourt (2005).
 
 ## Notes
 

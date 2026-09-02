@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in A.DC., Monogr. phan. 4 : 527 (1883). Herbe flottant librement , parfois ± enracinée, atteignant 20–50 cm de haut, avec stolons axillaires formant de nouvelles plantes. Feuilles émergées, en rosette ; pétiole atteignant 30 cm de longueur, distinctement renflé ; stipules 2–17 cm de longueur ; limbe losangique à ovale, 5–25 cm de longeur et de largeur, largement cunée à légèrement cordé à la base, sommet obtus à apiculé. Inflorescence à 3–35 fleurs, épi 4 – 15 cm de longueur ; pédoncule sortant de la gaîne d’une feuille supérieure réduite ; rachis pubérulent. Fleurs à périgone bleu, lilacé ou blanc , tube 15–20 mm de longueur, poilu, lobes elliptiques, les internes 20–25 mm de longueur, le supérieur 30–35 mm de longueur et portant une tache jaune cernée de bleu ou de violet ; étamines à filets poilus ; ovaire ovoïde. Fruits non formés en Afrique centrale.
+in A.DC., Monogr. phan. 4 : 527 (1883). Herb floating freely, sometimes ± rooted, reaching 20–50 cm tall, with axillary stolons forming new plants. Emergent leaves, in rosette; petiole reaching 30 cm long, distinctly swollen; stipules 2–17 cm long; blade rhombic to ovate, 5–25 cm long and wide, broadly cuneate to slightly cordate at base, apex obtuse to apiculate. Inflorescence with 3–35 flowers, spike 4–15 cm long; peduncle arising from the sheath of a reduced upper leaf; rachis puberulent. Flowers with perianth blue, lilac or white, tube 15–20 mm long, hairy, lobes elliptic, the inner ones 20–25 mm long, the upper one 30–35 mm long and bearing a yellow spot ringed with blue or violet; stamens with hairy filaments; ovary ovoid. Fruits not formed in Central Africa.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire du Brésil, largement naturalisée dans toutes les zones tropicales et subtropicales ; au Gabon observée au nord de Libreville (vers le Cap Estérias) et autour de Port-Gentil
+native to Brazil, widely naturalized in all tropical and subtropical zones; in Gabon observed north of Libreville (towards Cape Estérias) and around Port-Gentil
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-eaux douces stagnantes ou à courant lent, souvent localement dominante ; au Gabon à basse altitude, ailleurs jusqu’à 1700 m. Plante très envahissante, empêchant ainsi le cours normal des eaux, pourrait changer radicalement les écosystèmes aquatiques à cause d’un manque de lumière. Elle devient nuisible à la pêche au filet et à la ligne et même à la circulation des pirogues. Usage : L’espèce est parfois cultivée comme plante ornementale dans des zones subtropicales et tempérées. Les feuilles forment une légume riche en vitamines et minéraux. Elles sont également utilisées comme nourriture pour le bétail, surtout les porcs, et comme engrais, fraîches ou sèches et brûlées. Les fleurs sont comestibles
+stagnant or slow-flowing fresh waters, often locally dominant; in Gabon at low altitude, elsewhere up to 1700 m. Very invasive plant, thus preventing the normal flow of waters, could radically change aquatic ecosystems due to lack of light. It becomes harmful to net and line fishing and even to canoe circulation. Uses: The species is sometimes cultivated as an ornamental plant in subtropical and temperate zones. The leaves form a vegetable rich in vitamins and minerals. They are also used as food for livestock, especially pigs, and as fertilizer, fresh or dried and burnt. The flowers are edible.
 
 ## Vernacular names
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia , sér. 2, 14(2) : 273 (1974). Inversodicraea aloides Engl., Veg. Erde 9, Pflanzenw. Afr. 3(1) : 271, 273 (1915). Plante à partie basale thalloïde foliacée, à surface portant des pousses décombantes ou dressées, longues de 2–3 mm. Stipules ± visibles. Feuilles distiques, imbriquées, embras santes ; gaine bien développée, très élargie, cupuliforme, plus longue ou aussi longue que le limbe ; limbe réduit, linéaire-subulé, 0,1–0,8 mm. Inflorescence à fleurs solitaires ; spathelle sessile à subsessile, obovoïde, ± 2,5 × 1 mm, se déchirant irrégulièrement au sommet ou ± la téralement. Fleur : pédicelle 4–5 mm après l’anthèse ; tépales filiformes, 0,1–0,2 mm ; andro cée aussi long ou moins long que l’ovaire ; étamines 2, filets 2,5 mm, soudés sur la moitié au moins de leur longueur, anthère 0,8 × 0,4 mm, pollen en monades ; ovaire ellipsoïde, 1–1,2 × 0,7–0,9 mm, gynophore 0,4–0,6 mm de longueur ; stigmates dressés, linéaires, 0,2 mm.
+Adansonia , sér. 2, 14(2) : 273 (1974). Inversodicraea aloides Engl., Veg. Erde 9, Pflanzenw. Afr. 3(1) : 271, 273 (1915). Plant with a basal thalloid foliate portion, bearing decumbent or erect shoots, 2–3 mm long. Stipules ± visible. Leaves distichous, imbricate, embracing; sheath well-developed, much enlarged, cupuliform, longer than or as long as the blade; blade reduced, linear-subulate, 0.1–0.8 mm. Inflorescence with solitary flowers; spathe sessile to subsessile, obovoid, ± 2.5 × 1 mm, tearing irregularly at the apex or ± laterally. Flower: pedicel 4–5 mm after anthesis; tepals filiform, 0.1–0.2 mm; androecium as long as or shorter than the ovary; stamens 2, filaments 2.5 mm, fused for at least half their length, anther 0.8 × 0.4 mm, pollen in monads; ovary ellipsoid, 1–1.2 × 0.7–0.9 mm, gynophore 0.4–0.6 mm in length; stigmas erect, linear, 0.2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Cameroun, République centrafricaine, Gabon et Angola ; au Gabon, connu de l’Ogooué près de la Lopé (Ogooué-Ivindo)
+Sierra Leone, Cameroon, Central African Republic, Gabon and Angola; in Gabon, known from the Ogooué near Lopé (Ogooué-Ivindo)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-au Gabon à ± 150 m d’altitude, ailleurs jusqu’à 100 m. Bi : Cusset (1984, 1987a). B liographie
+in Gabon at ± 150 m altitude, elsewhere up to 100 m. Bi: Cusset (1984, 1987a). Bibliography
 
 ## Notes
 

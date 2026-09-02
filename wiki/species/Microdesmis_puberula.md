@@ -16,21 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Hooker, Ic. Pl.: tab. 758 (1848), p.p.; PAX, in Th. Durand & De Wildeman, Bull. Soc. Roy. Belg. 37: 107 (1898); DE Wildeman & Th. Durand, Ann. Mus. Congo, Bot., ser. 3, 1: 207 (1901), p.p.; DE Wildeman, Miss. Laur.: 140 (1905); Ann. Mus. Congo, Bot., ser. 5, 1: 279 (1906); I.c., 2: 287 (1908), p.p.; I.c. 3: 223 (1910); Et. Fl. Bang. Ub. 2: 229 (1911); Bull. Jard. Bot. Etat. Bruxelles 4: 148 (1914), p.p.; I.c. 5: 308 (1919); I.c. 7: 16 (1920), p.p.; Pl. Bequaert. 3: 502 (1926), p.p.; I.c. 5: 240 (1931); Th. & H. Durand, Syll.: 488 (1909), p.p.; PAX & HOFFMEISTER, in Engler, Pflanzenr., Euphorbiaceae 3: 106 (1911), p.p.; J. Léonard, Bull. Jard. Bot. Etat. Bruxelles 31: 167, tab. 22 a-c (1961); Fl. Congo 8 (1): 104, tab. 6 et tab. 7 a-c (1962).
 
-in Hooker, Ic. Pl. : tab. 758 (1848), p.p.; PAX, in Th. Durand & De Wildeman, Bull. Soc. Roy. Belg. 37 : 107 (1898); DE Wildeman & Th. Durand, Ann. Mus. Congo, Bot., ser. 3, 1 : 207 (1901), p.p.; DE Wildeman, Miss. Laur. : 140 (1905); Ann. Mus. Congo, Bot., ser. 5, 1 : 279 (1906); I.c., 2 : 287 (1908), p.p.; I.c. 3 : 223 (1910); Et. Fl. Bang. Ub. 2 : 229 (1911); Bull. Jard. Bot. Etat. Bruxelles 4 : 148 (1914), p.p.; I.c. 5 : 308 (1919); I.c. 7 : 16 (1920), p.p.; Pl. Bequaert. 3 : 502 (1926), p.p.; I.c. 5 : 240 (1931); Th. & H. Durand, Syll. : 488 (1909), p.p.; PAX & HOFFMEISTER, in Engler, Pflanzenr., Euphorbiaceae 3 : 106 (1911), p.p.; J. Léonard, Bull. Jard. Bot. Etat. Bruxelles 31 : 167, tab. 22 a-c (1961); Fl. Congo 8 (1) : 104, tab. 6 et tab. 7 a-c (1962).
+— Microdesmis zenkeri PAX, Bot. Jahrb. 23: 531 (1897); A. Robyns, Fl. Spermat. Parc Nat. Albert 1: 472 (1948).
 
-— Microdesmis zenkeri PAX, Bot. Jahrb. 23 : 531 (1897); A. Robyns, Fl. Spermat. Parc Nat. Albert 1 : 472 (1948).
+Shrub of (1)-2-6 m in height and 3-8 cm in diameter, sometimes scandent. Branches densely pubescent to subhirsute. Leaves with petiole pubescent to subhirsute, 4-12 mm long; blade glabrous or subglabrous above, pubescent becoming ± glabrescent or glabrous below, except along the nerves, elliptic-lanceolate, lanceolate, elliptic, elliptic-oblong, ovate or lanceolate, 3-20 × 1.8-9 cm, base inequilateral, margin laterally finely dentate or entire and apex acuminate mucronate. Midvein depressed pubescent above and prominent pubescent below; secondary nerves 6-10 pairs, ascending, arched, anastomosing at 1.5 mm from the margin of the blade, very weakly prominent on the upper face and prominent ± pubescent on the lower face. Tertiary nerves in a dense network, prominent on the upper face and very strongly prominent on the lower face.
 
-Arbuste de (1)-2-6 m de hauteur et 3-8 cm de diamètre, parfois lianescent. Rameaux densément pubescents à subhirsutes. Feuilles à pétiole pubescent à subhirsute, long de 4-12 mm; limbe glabre ou subglabre dessus, pubescent devenant ± glabrescent ou glabre dessous, sauf le long des nervures, elliptique-lancéolé, lancéolé, elliptique, elliptique-oblong, ovale ou blancéolé, 3-20 × 1,8-9 cm, base inéquilatérale, bord latéral finement denté ou entier et sommet acuminé mucroné. Nervure médiane déprimée pubescente dessus et saillante pubescente dessous; nervures secondaires 6-10 paires, ascendantes, arquées, s'anastomosant à 1,5 mm du bord du limbe, très faible-
+Inflorescences ♂ or ♀ in multiflorous axillary fascicles. Floral bud globular, 1.5 mm in diameter; petals contorted; pedicels pubescent 3-9 mm long. ♂ Flowers pink, 5-6 mm. Sepals pubescent externally and glabrous internally (often with longer hairs along the midline), narrowly lanceolate, 1.5-2 mm long, imbricate. Petals shortly pubescent externally and puberulent internally (when dry, the pubescence gives the petals a grey-blue or whitish color), oblong, 2-3 × 2-2.3 mm, base shortly clawed. Stamens hypogynous; filaments fleshy, red-orange, obtriangular, 0.5-1 mm long, strongly appressed against the base of the pistillode; anthers with 2 ellipsoid locules 0.5 mm long, connective fleshy terminating in an obtuse mass. Pistillode entirely glabrous or very weakly puberulent, 2-3 mm long, emitting fleshy lobes between the stamens. ♀ Flowers, 4.5-5 mm, pedicels pubescent, 3-4 mm long. Calyx and corolla similar to those of the ♂ flower. Ovary superior with 2(-3) locules, sparsely or densely pubescent, ellipsoid, green, 1 mm long. Styles 2(-3), white 0.5-2 mm long.
 
-ment saillantes à la face supérieure et saillantes ± pubescentes à la face inférieure. Nervilles en réseau dense, saillantes à la face supérieure et très fortement saillantes à la face inférieure.
+Drupe globular to subconical, 10-12 × 9-11 mm when fresh and 6-8 mm when dry, verrucose muricate; epicarp green becoming red at maturity, weakly pubescent in its upper half; mesocarp red; endocarp woody with 2(-3) monospermous locules, coarsely muricate and marked with 2 grooves. Seeds obtriangular concave.
 
-Inflorescences ♂ ou ♀ en fascicules axillaires multiflores. Bouton floral globuleux, d'un diamètre de 1,5 mm; pétales contortés; pédicelles pubescents longs de 3-9 mm. Fleurs ♂ roses, 5-6 mm. Sépales pubescents extérieurement et glabres intérieurement (souvent poils plus longs sur la ligne médiane), étroitement lancéolés, longs de 1,5-2 mm, imbriqués. Pétales courtement pubescents extérieurement et pubérulents intérieurement (à l'état sec, la pubérulence donne aux pétales une couleur gris-bleu ou blanchâtre), oblongs, 2-3 × 2-2,3 mm, base courtement onguiculée. Étamines hypogynes; filets charnus, rouge-orangé, obtriangulaires, longs de 0,5-1 mm, fortement appliqués contre la base du pistillode; anthères à 2 loges ellipsoïdes longues de 0,5 mm, connectif charnu se terminant en une masse obtuse. Pistillode entièrement glabre ou très faiblement pubérulent, long de 2-3 mm, émettant des lobes charnus entre les étamines. Fleurs ♀, 4,5-5 mm, pédicelles pubescents, longs de 3-4 mm. Calice et corolle semblables à ceux de la flour ♂. Ovaire supère à 2(-3) loges, éparsement ou densément pubescent, ellipsoïde, vert, long de 1 mm. Styles 2(-3), blancs longs de 0,5-2 mm.
-
-Drupe globuleuse à subconique, 10-12 × 9-11 mm à l'état frais et 6-8 mm à l'état sec, verruqueuse muriquée; épicarpe vert devenant rouge à maturité, faiblement pubescent dans sa moitié supérieure; mésocarpe rouge; endocarpe ligneux à 2(-3) loges monospermes, grossièrement muriqué et marqué de 2 sillons. Graines obtriangulaires concaves.
-
-Plantules à cotylédons épigés, ovales et rétus au sommet, tronqués ou cordulés à la base,  $ 1,3-1,4 \times 1-1,1 $ cm, à 3 nervures basales, courtement pétiolés. Hypocotyle de 4 cm, finement papilleux au sommet. PL. 6, 1-9, p. 25.
+Seedlings with epigeal cotyledons, ovate and retuse at the apex, truncate or cordate at the base, 1.3-1.4 × 1-1.1 cm, with 3 basal nerves, shortly petiolate. Hypocotyl 4 cm, finely papillose at the apex. PL. 6, 1-9, p. 25.
 
 ## Type
 
@@ -38,11 +34,9 @@ Vogel 175, Fernando Po (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+It should be noted the variability of the pubescence of the stem. Indeed it can be very dense, hirsute, or appressed and much less dense.
 
-Il faut noter la variabilité de la pubescence de la tige. En effet elle peut être très dense, hirsute, ou apprimée et beaucoup moins dense.
-
-L'aire de cette espèce s'étend du Nigeria à l'Uganda. Très commune dans les jachères, les recrus et les vieux groupements secondaires, on la trouve aussi dans les sous-bois des forêts denses humides.
+The range of this species extends from Nigeria to Uganda. Very common in fallows, secondary regrowth and old secondary groupings, it is also found in the understory of dense humid forests.
 
 J.-F. VILLIERS
 
@@ -52,9 +46,7 @@ ogandaga (mpongwè, galoa, nkomi, orungu, benga); dogandaga (ngowè); mugandaga 
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tout comme nombre d'Euphorbiacées, cette espèce est utilisée contre toutes les maladies ou déficiencies de l'intestin, les troubles ovariens, la stérilité, les avorte-ments répétés, les gonococcies ou l'impuissance sénile. Cette plante est employée le plus souvent en mélange avec des Euphorbiacées. Les jeunes feuilles sont mâchées pour lutter contre la grippe ou les maux de gorge. Le jus des feuilles est utilisé en instillations contre les otites. Il est aussi appliqué sur les morsures de serpent. Les feuilles servent à confectionner un bain de vapeur qui soulage les rhumatismes. L'écorce guérit la gale. Les Eshira utilisent cette plante contre la syphilis. Chez les Nkomi et beaucoup d'autres ethnies, la macération des feuilles sert à des ablutions rituelles qui attirent sur l'utilisateur les bienfaits des personnages puissants
+Like many Euphorbiaceae, this species is used against all diseases or deficiencies of the intestine, ovarian disorders, sterility, repeated miscarriages, gonorrhea or senile impotence. This plant is most often used in mixture with other Euphorbiaceae. The young leaves are chewed to combat influenza or sore throat. The leaf juice is used in instillations against otitis. It is also applied to snake bites. The leaves are used to make a steam bath that relieves rheumatism. The bark heals scabies. The Eshira use this plant against syphilis. Among the Nkomi and many other ethnic groups, the maceration of leaves is used for ritual ablutions that attract upon the user the benefits of powerful individuals.
 
 ## Specimens examined
 

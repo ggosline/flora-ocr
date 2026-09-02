@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.60 to 3 (6) m tall, with leafy branchlets pubescent in ± sparse or hirsute fashion. Stipules triangular, very acute, 5) 6–15 mm long, base scarcely wider than the branchlet, pubescent, connate for 1–3 mm. Leaves with variable pubescence, ± sparse or hirsute, upper surface sometimes glabrous. Petiole pubescent, 3–7 mm. Lamina 6–16 × (2)3–7(8) cm; base acute to rounded; apex fairly shortly acute. 7–12 pairs of secondary nerves.
 
-Arbrisseau haut de 0,60 à 3 (6) m, à rameaux feuillus pubescents de façon ± rase ou hirsute. Stipules triangulaires très aiguës, longues de (5) 6-15 mm, à base à peine plus large que le
+Terminal inflorescences 10–28 cm long, pendulous in narrow spike with somewhat sinuous and pubescent rachis. Flowers 8–10 mm long, green, arranged in glomerules spaced 0.5–1 cm apart, sessile. Bud apex acute to subacute. Calyx pubescent with very short teeth often less than 0.4 mm. Corolla externally glabrous toward the base, finely pubescent above. Interior of corolla with stiff erect pubescence apparent between the lobes in the dried flower; the pubescence is moreover abundant between the anthers and below them. Anthers 3–4 mm with an acumen of ca. 0.5 mm. Disc funnel-shaped with a small rim.
 
-rameau, pubescentes, connées sur 1-3 mm. Feuilles à pubescence variable, ± rase ou hirsute, à face supérieure parfois glabre. Pétiole pubescent de 3-7 mm. Limbe de 6-16 × (2)3-7(8) cm; base aiguë à arrondie; sommet assez brièvement aigu. 7-12 paires de nervures secondaires.
-
-Inflorescences terminales longues de 10-28 cm pendantes en étroit épi à rachis un peu sinueux et pubescent. Fleurs longues de 8-10 mm, vertes, disposées en glomérules espacés de 0,5-1 cm env., sessiles. Sommet du bouton aigu à subaigu. Calice pubescent à dents très courtes souvent inférieures à 0,4 mm. Corolle extérieurement glabre vers la base, finement pubescente au dessus. Intérieur de la corolle à pubescence raide dressée apparente entre les lobes dans la fleur séchée; la pubescence est en outre abondante entre les anthères et au dessous de celles-ci. Anthères de 3-4 mm à acumen d'env. 0,5 mm. Disque en entonnoir avec un petit rebord.
-
-Fruit sphérique de 11 mm de diam., violet ou bleu.
+Fruit spherical, 11 mm diam., violet or blue.
 
 ## Type
 
@@ -38,15 +34,13 @@ Schweinfurth 3274 (K!), Niamniam-land, Soudan oriental
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Somewhat degraded forests. Cameroon, Central African Republic, Gabon and Congo to Kivu.
 
-Forêts ± dégradées. Cameroun, Centrafrique, Gabon et Congo jusqu'au Kivu.
+A. Chevalier 27113, Acondjo on the Ramboué (fl. bot. Oct.).
 
-A. Chevalier 27113, Acondjo sur le Ramboué (j. bout. oct.).
+N. Hallé 1062, 1420, 2728, Makokou (fl. Oct.; fr. Feb.–Mar.); 2061, Lédamba (fr. May); 2146, Abanga (fl. June); 2831, 3984, Bélinga (fr. Oct.; fl. and fr. June).
 
-N. Hallé 1062, 1420, 2728, Makokou (fl. oct.; fr. fév.-mars); 2061, Lédamba (fr. mai); 2146, Abanga (fl. juin); 2831, 3984, Bélinga (fr. oct.; fl. et fr. juin).
-
-Thollon 342, Ndjolé (fl. déc.).
+Thollon 342, Ndjolé (fl. Dec.).
 
 ## Figures
 

@@ -22,9 +22,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est signalée à l'Est et au Sud du massif forestier, mais elle n'a pas encore été rencontrée au Gabon. Elle existe cependant très probablement dans la région de Franceville. Assez semblable à H. familiaris, elle s'en distingue essentiellement par le nombre des arêtes.
+This species is reported from the East and South of the forest massif, but it has not yet been encountered in Gabon. It most likely exists, however, in the Franceville region. Quite similar to H. familiaris, it is distinguished from it essentially by the number of awns.
 
 ## Notes
 

@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms with numerous nodes, branched, erect to 1 m tall or more. Leaves with sheaths glabrous or more or less pubescent with tuberculate hairs at the base, membranous ligule; blades with narrowed and sub-petiolate base, acuminate, up to 15 × 2 cm, pubescent toward the base and scabrous on the margins, nerves sometimes tessellate.
 
-Chaumes à nombreux nœuds, ramifiés, dressés à 1 m de haut ou plus. Feuilles à gaines glabres ou plus ou moins pubescentes à poils tuberculés à la base, ligule membraneuse; limbes à base rétrécie et sub-pétiolée, acuminée, jusqu'à 15 × 2 cm, pubescents vers la base et scabres sur les bords, nervures parfois tessellées.
+Terminal panicle, about twenty cm long, terminal racemes with 3 to 10 spikelets. These 3 to 3.5 mm long are practically glabrous. Lower glume making 1/3 of the length of the spikelet, upper glume somewhat longer.
 
-Panicule terminale, d'une vingtaine de cm de long, racèmes terminaux avec 3 à 10 épilets. Ceux-ci de 3 à 3,5 mm de long sont pratiquement glabres. Glume inférieure faisant 1/3 de la longueur de l'épillet, glume supérieure un peu plus longue.
+Species widely distributed throughout the Indo-Malayan region and the Philippines. In Africa, it is recorded from the Congo and Gabon, as well as in Ubangi.
 
-Espèce largement répartie dans toute la région Indo-Malaise et aux Philippines. En Afrique, elle est signalée au Congo et au Gabon, ainsi qu'en Oubangui,
-
-Plante d'endroits humides, souvent au bord des rivières; valeur fourragère inconnue, probablement médiocre.
+Plant of humid places, often at the edge of rivers; forage value unknown, probably poor.
 
 ## Specimens examined
 

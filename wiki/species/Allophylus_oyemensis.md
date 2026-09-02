@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect or sarmentose shrub; branchlets rounded, reddish-brown, velvety (hairs 0.5 mm very densely packed); petiole rounded, 7-8 cm, hairy all around (hairs 0.2 mm); petiolule 6 mm, hairy, blade green above, glabrous except on the midvein; below paler green, reddish-white hairs 0.5 mm on the veins; domatia absent.
 
-Arbuste dressé ou sarmenteux; ramules arrondis, roussâtres, veloutés (poils de 0,5 mm très serrés); pétiole arrondi, 7-8 cm, velu tout autour
-
-(poils de 0,2 mm); pétiolule, 6 mm, velu, limbe vert dessus, glabre sauf sur la nervure médiane; dessous vert plus pâle, poils blancs roussâtre de 0,5 mm sur les nervures; domaties nulles.
-
-Grappes à 2 branches, compactes vers le haut, plus lâches dans la moitié inférieure. Sépales 2-3-nerviés; pétales à écaille abondamment bar-bue. PL. 11, 1-5, p. 57.
+Panicles with 2 branches, compact towards the apex, more lax in the lower half. Sepals 2-3-nerved; petals with scale abundantly bearded. PL. 11, 1-5, p. 57.
 
 ## Type
 

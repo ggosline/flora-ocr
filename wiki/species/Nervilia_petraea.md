@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-& 2 : 745 (1992) ; FCAM 1 : 297 (1998). – BASIONYME : Arethusa petraea Afzel. ex Sw., Neues J. Bot. 1(1) : 62 (1805). – TYPE : Afzelius s.n., Sierra Leone, holo-UPS, iso-K!.
+& 2 : 745 (1992) ; FCAM 1 : 297 (1998). – BASIONYM : Arethusa petraea Afzel. ex Sw., Neues J. Bot. 1(1) : 62 (1805). – TYPE : Afzelius s.n., Sierra Leone, holo-UPS, iso-K!.
 
 – Arethusa simplex Thouars, Hist. Orchid. : tab. gen., fig. 24 (1822).
 
@@ -31,95 +29,91 @@ tags: [species, generated]
 
 – Nervilia simplex (Thouars) Schltr., Bot. Jahrb. Syst. 45 : 410 (1911).
 
-Feuille solitaire, 6-15 × 8-25 mm, pétiolée, cordée à suborbiculaire, glabre, dessus vert olive foncé souvent avec des rayons argentés, dessous pourpre. Hampe 2-10,5 cm, dressée, glabre. Fleur unique ± dressée à sépales et pétales vert-brunâtre et labelle blanc à centre jaune. Sépale dorsal apiculé, étroitement lancéolé au-dessus du tiers à la moitié basale, linéaire ; sépales latéraux étroitement blancéolés, courtement falciformes, glabres. Pétales latéraux apiculés, étroitement lancéolés-falciformes. Labelle obové-cuné, obtus, non ou vaguement trilobé, marge apicale fimbriée, nombreux appendices charnus dressés le long des 3 veines centrales près du sommet. – Pl. 47, p. 99.
+Leaf solitary, 6–15 × 8–25 mm, petiolate, cordate to suborbicular, glabrous, upper surface dark olive-green often with silvery rays, lower surface purple. Scape 2–10.5 cm, erect, glabrous. Flower single ± erect with greenish-brown sepals and petals and white labellum with yellow centre. Dorsal sepal apiculate, narrowly lanceolate above the lower third to half, linear; lateral sepals narrowly lanceolate, shortly falcate, glabrous. Lateral petals apiculate, narrowly lanceolate-falcate. Labellum obovate-cuneate, obtuse, not or vaguely three-lobed, apical margin fimbriate, numerous fleshy appendices erect along the 3 central veins near the apex. – Pl. 47, p. 99.
 
-PL. 47. – Nervilia adolphi Schltr. var. seposita Hallé & Toilliez: A, feuille; B, labelle. – N. bicari-nata (Blume) Schltr.: C, labelle. – Nervilia petraea (Afzel. ex Sw.) Summerh.: D, feuille; E, sépale dorsal ; F, pétale ; G, sépale latéral ; H, labelle (A-B, Toilliez s.n. [an. 1970], P ; C, Tisserant 406, P ; D, Hallé 3818, P ; E-H, Tisserant 3089, P).
+PL. 47. – Nervilia adolphi Schltr. var. seposita Hallé & Toilliez: A, leaf; B, labellum. – N. bicari­nata (Blume) Schltr.: C, labellum. – Nervilia petraea (Afzel. ex Sw.) Summerh.: D, leaf; E, dorsal sepal; F, petal; G, lateral sepal; H, labellum (A-B, Toilliez s.n. [an. 1970], P ; C, Tisserant 406, P ; D, Hallé 3818, P ; E-H, Tisserant 3089, P).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo (Brazzaville), Centrafrique, Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique, Madagascar, Maurice
+Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Congo (Brazzaville), Central African Republic, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique, Madagascar, Mauritius
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–1470 m. Dense humid forest, Brachystegia woodland, grassland, demo, pine plantation
 
-alt. 900-1470 m. Forêt dense humide, boisement à Brachystegia, prairie, demo, plantation de pins
-
-MATÉRIEL ÉTUDIÉ (Carte 15) : Hallé 3818 & 3818b, Bélinga, Mines de Fer (Juin), P!. Le Testu 1661, forêt du Mayumbe Bayaka, Tchibanga (fl., Nov.), P!.
+MATERIAL STUDIED (Map 15) : Hallé 3818 & 3818b, Bélinga, Iron Mines (June), P!. Le Testu 1661, Mayumbe Bayaka forest, Tchibanga (fl., Nov.), P!.
 
 VI. EPIDENDROIDEAE Lindl.
 
 Coll. Bot., App. (1826).
 
-Feuilles à 1 ou 2 plis. Inflorescence terminale ou latérale. Gynostème, partie columnaire bien développée et pied de la colonne souvent proéminent, région apicale primitivement pétaloïde i.e. avec un clinandrium apical très développé, secondairement avec un clinandrium en collerette ou des stelidia. Stigmate souvent saillant et profondément concave. Rostellum en général très simple, liguliforme, tronqué ou obtus, dressé ou penché vers le stigmate, parfois modifié. Viscidie fréquente, formée de cellules partiellement macérées et de matière visqueuse. Hamulus, tegula exceptionnellement présents. Anthère tardivement penchée vers l'avant, mobile mais non operculée, à cloisons bien développées la partageant en général en 4 ou 8 loges. Pollinies 4 ou 8, mais aussi 2 ou 6 dans quelques groupes.
+Leaves with 1 or 2 pleats. Inflorescence terminal or lateral. Gynostemium, columnar part well-developed and column foot often prominent, apical region primitively petaloid i.e. with a very well-developed apical clinandrium, secondarily with a collared clinandrium or stelidia. Stigma often prominent and deeply concave. Rostellum generally very simple, ligulate, truncate or obtuse, erect or bent towards the stigma, sometimes modified. Viscidium frequent, formed of partially macerated cells and viscous matter. Hamulus, tegula exceptionally present. Anther tardily bent forward, mobile but not operculate, with well-developed septa generally dividing it into 4 or 8 locules. Pollinia 4 or 8, but also 2 or 6 in some groups.
 
-Les EPIDENDROIDEAE réunissent 9 tribus (SZLACHETKO. 1995) dont 4 sont représentées dans la région Cameroun-Congo par 6 sous-tribus. Deux clés ont été conçues pour les distinguer directement sans passer par le niveau tribal :
+The EPIDENDROIDEAE unite 9 tribes (SZLACHETKO. 1995) of which 4 are represented in the Cameroon-Congo region by 6 subtribes. Two keys have been devised to distinguish them directly without passing through the tribal level:
 
-CLÉ 1 DES SOUS-TRIBUS
+KEY 1 TO THE SUBTRIBES
 
-1. Feuilles sans pli, iridiformes, épaisses, charnues. Pseudobulbes non saillants IV. OBERONIINAE (p. 126) 1'. Feuilles avec 1 ou 2 plis, non iridiformes.
+1. Leaves without pleat, iridiform, thick, fleshy. Pseudobulbs not prominent IV. OBERONIINAE (p. 126) 1'. Leaves with 1 or 2 pleats, not iridiform.
 
-2. Feuilles minces, en général avec un pli. Pseudobulbes à plusieurs entreœuds.
+2. Leaves thin, generally with one pleat. Pseudobulbs with several internodes.
 
-3. Fleurs assez grandes. Plantes de taille grande ou moyenne. Articles charnus ..... I. BLETIINAE (p. 101)
+3. Flowers fairly large. Plants large or medium-sized. Fleshy articles ..... I. BLETIINAE (p. 101)
 
-3'. Fleurs petites à minuscules. Plantes de taille moyenne. Pseudobulbes de forme diverse ..... III. MALAXIDINAE (p. 116)
+3'. Flowers small to minute. Plants medium-sized. Pseudobulbs of diverse form ..... III. MALAXIDINAE (p. 116)
 
-2'. Feuilles à 2 plis, relativement épaisses. Pseudobulbes à un seul entrenœud.
+2'. Leaves with 2 pleats, relatively thick. Pseudobulbs with a single internode.
 
 ORCHIDACEAE
 
-4. Inflorescence terminale ou latérale au sommet du pseudobulbe
+4. Inflorescence terminal or lateral at the apex of the pseudobulb
 
 ..... II. ERIINAE (p. 112)
 
-4'. Inflorescence basale.
+4'. Inflorescence basal.
 
-5. Fleurs résupinées. Pétales souvent linéaires et plus petits que les sépales mais bien développés ..... V. BULBOPHYLLINAE (p. 129)
+5. Flowers resupinate. Petals often linear and smaller than the sepals but well-developed ..... V. BULBOPHYLLINAE (p. 129)
 
-5'. Fleurs non résupinées. Pétales extrêmement réduits
+5'. Flowers not resupinate. Petals extremely reduced
 
 VI. GENYORCHIDINAE (p. 206)
 
-CLÉ 2 DES SOUS-TRIBUS
+KEY 2 TO THE SUBTRIBES
 
-1. Inflorescence terminale.
+1. Inflorescence terminal.
 
-2. Pseudobulbes absents. Feuilles iridiformes ..... IV.OBERONIINAE (p. 126)
+2. Pseudobulbs absent. Leaves iridiform ..... IV. OBERONIINAE (p. 126)
 
-2'. Pseudobulbes présents. Feuilles de formes diverses, non iridiformes :
+2'. Pseudobulbs present. Leaves of diverse forms, not iridiform:
 
-3. Feuilles en général à un seul pli. Pied de la colonne absent III. MALAXIDINAE (p. 116)
+3. Leaves generally with a single pleat. Column foot absent III. MALAXIDINAE (p. 116)
 
-3'. Feuilles à 2 plis. Pied de la colonne proéminent ..... II. ERIINAE (p. 112) 1'. Inflorescences latérales.
+3'. Leaves with 2 pleats. Column foot prominent ..... II. ERIINAE (p. 112) 1'. Inflorescences lateral.
 
-4. Feuilles à un seul pli. Grandes fleurs.....I. BLETIINAE (p. 101)
+4. Leaves with a single pleat. Large flowers ..... I. BLETIINAE (p. 101)
 
-4'. Feuilles à 2 plis. Fleurs petites.
+4'. Leaves with 2 pleats. Flowers small.
 
-5. Fleurs résupinées. Pétales proéminents, mais en général plus petits que les sépales ..... V. BULBOPHYLLINAE (p. 129)
+5. Flowers resupinate. Petals prominent, but generally smaller than the sepals ..... V. BULBOPHYLLINAE (p. 129)
 
-5'. Fleurs non-résupinées. Pétales réduits, presqu'invisibles VI. GYNORCHIDINAE (p. 206)
+5'. Flowers not resupinate. Petals reduced, almost invisible VI. GYNORCHIDINAE (p. 206)
 
 I. BLETINAE Benth.
 
 J. Linn. Soc., Bot. 18 : 287 (1881).
 
-Feuilles plissées. Inflorescence terminale ou latérale. Labelle articulé ou sacciforme à éperonné. Anthère couchée à subdressée, 8-loculée. Connectif charnu. Pollinies 8, de forme et de taille diverses, claviformes, obovées à ellipsoidales, renflées latéralement. Caudicules 2 ou 8, gluants, un peu soudés à la base.
+Leaves pleated. Inflorescence terminal or lateral. Labellum articulate or saccate to spurred. Anther recumbent to suberect, 8-locular. Connective fleshy. Pollinia 8, of diverse form and size, claviform, obovate to ellipsoidal, swollen laterally. Caudicles 2 or 8, viscid, somewhat fused at the base.
 
-Les trois genres connus au Gabon se distinguent ainsi :
+The three genera known from Gabon are distinguished thus:
 
-CLÉ DES GENRES
+KEY TO THE GENERA
 
-1. Labelle sans éperon, lobe médian linéaire, les latéraux nettement plus larges et divergents ..... 17. Ancistrochilus
+1. Labellum without spur, median lobe linear, lateral lobes clearly wider and divergent ..... 17. Ancistrochilus
 
-1'. Labelle avec un éperon ± proéminent, lobes latéraux nettement plus petits que lobe médian.
+1'. Labellum with a ± prominent spur, lateral lobes clearly smaller than median lobe.
 
-2. Partie centrale du labelle orné d'épaississements irréguliers, gynostème soudé aux marges du labelle ..... 18. Calar
+2. Central part of labellum ornamented with irregular thickenings, gynostemium fused to the margins of the labellum ..... 18. Calar
 
-2'. Labelle sans callus, gynostème non soudé aux marges du labelle ..... 19. Phaius
+2'. Labellum without callus, gynostemium not fused to the margins of the labellum ..... 19. Phaius
 
 ## Figures
 

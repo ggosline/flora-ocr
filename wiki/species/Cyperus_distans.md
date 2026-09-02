@@ -18,35 +18,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, en touffe, avec un court rhizome épais et des tiges habituellement alignées (parfois solitaires) ; tiges de 20‒70 cm × 1,5‒5 mm, trigones, glabres, la partie basale recouverte par les gaines. Feuille : gaine grise à violet foncé (ou noire sur les vieilles tiges), plutôt lâche ; limbe de 5‒45 cm × 2‒8 mm , plan, scabre sur la marge et la nervure centrale. Inflorescence en anthèle composée ombelliforme, de 5‒25 cm × 3‒35 cm , à 5‒15 rayons primaires longs de 1‒18 cm, rayons secondaires et tertiaires courts ou épis sessiles ; bractées involucrales 4–8, foliacées, dressées à étalées, longues de 10–45 cm ; épis de 2‒4 × 1‒4 cm , à épillets assez écartés les uns des autres et disposés souvent perpendiculairement. Épillet linéaire ou en zigzag lorsque les glumes sont étalées, de 7‒20 mm × 0,5‒1 mm (1‒2 mm de largeur avec les glumes étalées) ; rachis avec une large aile transparente des deux côtés, à 10‒20 fleurs ; l’épillet se désarticule parfois à sa base avec les glumes et les akènes persistant sur son rachis ; glumes assez écartées, tombant avec l’akène ou persistant jusqu’à la chute de l’ensemble de l’épillet, oblongues–elliptiques, longues de 1,5‒2,6 mm , jaune paille, brun rougeâtre clair à foncé, avec une carène à 3‒5 nervures souvent vertes ou pâles, sommet arrondi avec une marge brun rougeâtre ou transparente, non atteint par la carène. Akène étroitement elliptique,
-
-de 1,2‒1,7 × 0,3‒0,5 mm , apiculé, jaunâtre et presque lisse, devenant gris avec un éclat métallique et de fines papilles en rangées longitudinales à maturité. C. distans peut être divisée en deux sous-espèces, qui sont présentes au Gabon :
+Perennial herb, in tuft, with a short thick rhizome and stems usually aligned (sometimes solitary); stems 20‒70 cm × 1.5‒5 mm, trigonous, glabrous, the basal part covered by the sheaths. Leaf: sheath grey to dark violet (or black on old stems), rather loose; blade 5‒45 cm × 2‒8 mm, plane, scabrous on the margin and central nerve. Inflorescence in compound anthela, umbelliform, 5‒25 cm × 3‒35 cm, with 5‒15 primary rays 1‒18 cm long, secondary and tertiary rays short or sessile spikes; involucral bracts 4–8, foliaceous, erect to spreading, 10–45 cm long; spikes 2‒4 × 1‒4 cm, with spikelets rather distant from one another and often arranged perpendicularly. Spikelet linear or zigzag when the glumes are spreading, 7‒20 mm × 0.5‒1 mm (1‒2 mm wide with glumes spreading); rachis with a wide transparent wing on both sides, with 10‒20 flowers; the spikelet sometimes disarticulates at its base with the glumes and achenes persisting on its rachis; glumes rather distant, falling with the achene or persisting until the fall of the entire spikelet, oblong–elliptic, 1.5‒2.6 mm long, straw yellow, light to dark reddish-brown, with a keel with 3‒5 often green or pale nerves, apex rounded with a reddish-brown or transparent margin, not reached by the keel. Achene narrowly elliptic, 1.2‒1.7 × 0.3‒0.5 mm, apiculate, yellowish and almost smooth, becoming grey with a metallic sheen and fine papillae in longitudinal rows at maturity. C. distans can be divided into two subspecies, which are present in Gabon:
 
 ## Also treated in vol 44
 
 **Pages**: 58-58 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Diffère de la suivante par ses bractées involucrales habituellement plus courtes (la principale longue de 10‒25 cm) et ses glumes plus courtes. De plus, les épillets se détachent seulement très rarement d’une pièce.
+Differs from the following by its involucral bracts usually shorter (the main one 10‒25 cm long) and its shorter glumes. Moreover, the spikelets detach only very rarely as a single piece.
 
 ## Also treated in vol 44
 
 **Pages**: 58-59 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-& Ann. Mus. Col. Marseille 27, 3, sér. 7 : 60 (1919). Mariscus rubrotinctus Cherm., Bull. Mus. Paris 25 : 407 (1919) & Ann. Mus. Col. Marseille 27, 3, sér. 7 : 60 (1919). C. longibracteatus (Cherm.) Kük., Repert. Spec. Nov. Regni Veg. 26 : 250 (1929). Diffère de la subsp. distans par ses bractées involucrales plus longues (la principale longue de 25‒45 cm) et des glumes un peu plus grandes. Les épillets sont verdâtres et se détachent probablement toujours d’une pièce (caractéristique des ex- Mariscus ).
+& Ann. Mus. Col. Marseille 27, 3, sér. 7: 60 (1919). Mariscus rubrotinctus Cherm., Bull. Mus. Paris 25: 407 (1919) & Ann. Mus. Col. Marseille 27, 3, sér. 7: 60 (1919). C. longibracteatus (Cherm.) Kük., Repert. Spec. Nov. Regni Veg. 26: 250 (1929). Differs from subsp. distans by its involucral bracts longer (the main one 25‒45 cm long) and glumes somewhat larger. The spikelets are greenish and probably always detach as a single piece (characteristic of former Mariscus).
 
 ### Distribution
 
-largement répandue dans la plupart des régions tropicales et subtropicales ; au Gabon assez largement répandue et localement commune, trouvée dans l’Estuaire, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Lolo, l’Ogooué-Maritime et le Woleu-Ntem
+widely distributed in most tropical and subtropical regions; in Gabon fairly widely distributed and locally common, found in Estuaire, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem
 
 ### Ecology
 
-au bord des mares et des fossés, aussi dans les forêts clairesemées, sur les bascôtés des routes et comme mauvaise herbe des cultures ; au Gabon, à 0‒500 m d’altitude, jusqu’à 2500 m ailleurs. Note taxonomique : se reconnaît facilement à ses épillets étroits, ses glumes écartées et sa large inflorescence composée. Les deux sous-espèces sont souvent difficiles à distinguer quand l’inflorescence n’est pas mature. Dans Flora of West Tropical Africa , Hooper & Napper (1972) considèrent que la subsp. longibracteatus est une espèce séparée d’un genre séparé ( Mariscus longibracteatus ), tandis que dans Flora of Tropical East Africa , Hoenselaar et al. (2010) n’acceptent pas cette séparation. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+at the edge of pools and ditches, also in scattered forests, on the roadsides and as a weed of crops; in Gabon, at 0‒500 m altitude, up to 2500 m elsewhere. Taxonomic note: easily recognized by its narrow spikelets, distant glumes and its wide compound inflorescence. The two subspecies are often difficult to distinguish when the inflorescence is not mature. In Flora of West Tropical Africa, Hooper & Napper (1972) consider that subsp. longibracteatus is a separate species of a separate genus (Mariscus longibracteatus), whereas in Flora of Tropical East Africa, Hoenselaar et al. (2010) do not accept this separation. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
 ## Notes
 

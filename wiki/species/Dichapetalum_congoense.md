@@ -17,29 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+EXELL & MENDONÇA, CFA 1 (2): 324 (1951); HAUMAN, FZRB 7: 303 (1958); BRETELER, MLW 73 (13): 3, 16, 18, 33 (1973); l.c. 78 (10): 16–20 (1978); MPLW 19: 87 (1980); MLW 81 (10): 24 (1981); AUWP 86 (3): 13 (1986). TYPE: Zaire, Bingila, Dupuis s.n. (holo-, BR).
 
-EXELL & MENDONÇA, CFA 1 (2) : 324 (1951) ; HAUMAN, FZRB 7 : 303 (1958) ; BRETELER, MLW 73 (13) : 3, 16, 18, 33 (1973) ; l.c. 78 (10) : 16-20 (1978) ; MPLW 19 : 87 (1980) ; MLW 81 (10) : 24 (1981) ; AUWP 86 (3) : 13 (1986). TYPE : Zaïre, Bingila, Dupuis s.n. (holo-, BR).
+- D. mekametane ENGL., Bot. Jahrb. 46: 589 (1912). TYPE: Equatorial Guinea, surroundings of Campo, near Bebao, Tessmann 795 (holo-, B delet.; lecto-, K; iso-, BM).
 
-- D. mekametane ENGL., Bot. Jahrb. 46: 589 (1912). TYPE: Guinée Équatoriale, environs de Campo, près de Bebao, Tessmann 795 (holo-, B delet.; lecto-, K; iso-, BM).
+Large liane, lianescent shrub, shrub or (?) tree. Main trunk, diameter ≤ 5 cm; bark pale yellowish-green to greenish-silvery, presenting shallow longitudinal fissures with age, then exfoliating in small thin scales; lenticels dark brown to black, very conspicuous: in general, they appear in the form of a short transverse line and later take the form of an "x". Wood cylinder strongly lobed by intrusions of white phloem on a fresh cut and rapidly turning brown in air. Lenticellate branchlets glabrous or glabrescent. Young branchlets yellowish to greyish with appressed-puberulent to tomentellose or tomentose pubescence, then glabrescent.
 
-Grande liane, arbuste lianescent, arbuste ou (?) arbre. Tronc principal, diamètre ≤ 5 cm ; écorce vert-jaunâtre pâle à vert-subargenté, présentant des fissures longitudinales superficielles avec l'âge, puis se desquamant en petites écailles minces ; lenticelles brun foncé à noires, très visibles : en général, elles apparaissent sous la forme d'une courte ligne transversale et prennent plus tard celle d'un « x ». Cylindre ligneux fortement lobé par des intrusions de phloème blanches sur une coupe fraîche et virant rapidement au brun à l'air libre. Rameaux lenticellés glabres ou glabrescents. Jeunes rameaux jaunâtres à grisâtres avec pubescence apprimée-pubérulente, tomentelleuse ou tomenteuse, puis glabrescents.
+Stipules early caducous or not, entire, triangular and narrow to subulate, 2–6(8) mm long, puberulent to tomentose.
 
-Stipules tôt caduques ou non, entières, triangulaires et étroites à subulées, longues de 2-6(8) mm, pubérulentes à tomenteuses.
+Leaves. Petiole hemicylindric (2) 4–8 (12) mm, puberulent to tomentose, then glabrescent or not. Blade papyraceous, generally shiny above, obovate to elliptic, (7) 13–18 (25) × (3) 5–9 (11) cm, (1) 2–2.5 (3) times longer than wide; base rounded to cuneate sometimes obtuse, margin of the basal extremity strongly and abruptly revolute; acumen generally acute, ≤ 1.5 cm long, sometimes obtuse and then mucronate; in the young state, appressed pubescence on both sides of nerve I and, to a lesser degree on the more important nerves II (and even between the nerves, quite initially) subsequently leaves glabrescent; venation weakly prominent above and much more so below; nerves II most marked, 5–8 (9) pairs; glands generally only on the lower face, well distributed, but most often present especially along nerve I and concentrated near the base and on the acumen.
 
-Feuilles. Pétiole hémicylindrique (2) 4-8 (12) mm, pubérulent à tomenteux, puis glabrescent ou non. Limbe papyracé, en général luisant dessus, obové à elliptique, (7) 13-18 (25) × (3) 5-9 (11) cm, (1) 2-2,5 (3) fois plus long que large ; base arrondie à cunée parfois obtuse, marge de l'extrémité basale fort et brusquement révolutée ; acumen en général
+Inflorescences fairly lax, greyish to yellowish, tomentellose to tomentose. Peduncle not fused to the petiole, generally distinctly (0) 4–12 (16) mm long, with 2–3 orders of ramification visible, capable of bearing about a hundred flowers. Bracts and bracteoles fairly short 3 mm, triangular narrow to subulate. Pedicel reaching 6 mm but most often much shorter, lower part ≤ 5 mm, upper part ≤ 1 mm, tomentellose.
 
-aigu, long de ≤ 1,5 cm, parfois obtus et alors mucroné ; à l'état jeune, pubescence apprimée sur les deux faces de la nervure I et, à un degré moindre sur les plus importantes nervures II (et même entre les nervures, tout au début) ensuite feuilles glabrescentes ; nervation faiblement proéminente dessus et beaucoup plus dessous ; nervures II les plus marquées, 5-8 (9) paires ; glandes en général uniquement à la face inférieure, bien réparties, mais le plus souvent présentes surtout le long de la nervure I et concentrées près de la base et sur l'acumen.
+Flowers: sepals, petals, stamens and pistil subequal. Sepals erect, spreading, incurved or subreflexed, free or very briefly united by their base, oblong to obovate and often narrow, (3.5) 4–6 × 1–1.5 (2) mm, sometimes clearly 3-nerved; apex obtuse to acute often apiculate; pubescence dense on both faces. Petals erect or nearly so, free or very briefly fused by their base to the filaments, spatulate, as long as the sepals or nearly (3.5) 4–6.5 mm, split over 1–1.5 mm, most often glabrous, sometimes with a few external hairs or on the margin; lobes concave. Stamens as long or somewhat shorter than the petals, (3.5) 4–6.5 mm, glabrous; anthers 0.7 mm with prominent connective. Staminodes fused in a lobed or undulate ring 0.5 mm high at most, around the base of the ovary. Pistil 3-merous, very often somewhat longer than the petals (3.5) 4.5–6 (7) mm; style glabrous or pubescent at the base, apex shortly 3-lobed; ovary depressed subglobose or ovoid, pubescence dense.
 
-Inflorescences assez lâches, grisâtres à jaunâtrcs, tomentcellcuscs à tomenteuses. Pédoncule non soudé au pétiole, en général net long de (0) 4-12 (16) mm, avec 2-3 ordres de ramification visibles, pouvant porter une centaine de fleurs. Bractées et bractéoles assez courtes 3 mm, triangulaires étroites à subulées. Pédicelle atteignant 6 mm mais le plus souvent beaucoup plus court, partie inférieure ≤ 5 mm, partie supérieure ≤ 1 mm, tomentelleuse.
+Fruits 1–3-lobed, 1–3-seeded, tomentellose to tomentose, ≤ 4 cm long, orange at maturity, smooth when fresh; the 1-seeded fruits are ellipsoidal oblique, somewhat compressed laterally, 2–≤ 4 × 1–2.5 × 1–2.2 cm; exocarp fairly hard, farinose, 1–3 mm thick; mesocarp yellow, pulpy, somewhat fibrous, sweet, adherent to the endocarp, 1–2 mm thick; endocarp generally curved, irregularly channelled-furrowed, pale brown, bony wall 1–2 mm thick, interior smooth. Seed subellipsoidal, generally curved reaching a length of 2 cm and a diameter of 1 cm, somewhat compressed laterally; testa hard, dark brown-black, somewhat finely channelled, dull or shiny, hilum long ≈ 1 cm.
 
-Fleurs : sépales, pétales, étamines et pistil subégaux. Sépales dressés, étalés, incurvés ou subréfléchis, libres ou très courtemment réunis par leur base, oblongs à obovés et souvent étroits, (3,5) 4-6 × 1-1,5 (2) mm, parfois nettement 3-nervés ; sommet obtus à aigu souvent apiculé ; pubescence dense sur les deux faces. Pétales dressés ou presque, libres ou très courtemment soudés par leur base aux filets, spatulés, aussi longs que les sépales ou presque (3,5) 4-6,5 mm, fendus sur 1-1,5 mm, le plus souvent glabres, parfois avec quelques poils externes ou sur la marge ; lobes concaves. Étamines aussi longues ou un peu plus courtes que les pétales, (3,5) 4-6,5 mm, glabres ; anthères 0,7 mm avec connectif proéminent. Staminodes soudés en un anneau lobulé ou ondulé haut de 0,5 mm au plus, autour de la base de l'ovaire. Pistil 3-mère, très souvent un peu plus long que les pétales (3,5) 4,5-6 (7) mm ; style glabre ou pubescent à la base, sommet courtement 3-lobé ; ovaire déprimé subglobuleux ou ovoïde, pubescence dense.
+Seedling: taproot robust and silvery; epicotyl 7–12 cm long, silvery often with scattered subappressed pubescence;
 
-Fruits 1-3-lobés, 1-3-spermes, tomentelleux à tomentaux, longs de ≤ 4 cm, oranges à maturité, lisses à l'état frais ; les fruits 1-spermes sont ellipsoïdaux obliques, un peu comprimés latéralement, 2- ≤ 4 × 1-2,5 × 1-2,2 cm ; exocarpe assez dur, farineux, épais de 1-3 mm ; méso-carpe jaune, pulpeux, un peu fibreux, sucré, adhérent à l'endocarpe, épais de 1-2 mm ; endocarpe en général courbé, irrégulièrement canne-lé-sillonné, brun pâle, paroi osseuse épaisse de 1-2 mm, intérieur lisse. Graine subellipsoïdale, en général courbée atteignant une longueur de 2 cm et un diamètre de 1 cm, un peu comprimée latéralement ; testa dur, brun-noir, quelque peu finement canne-lé, terne ou brillant, hile long ≈ 1 cm.
-
-Plantule : racine pivotante robuste et argentée ; épicotyle long de 7-12 cm, argenté souvent avec une pubescence éparse subapprimée ;
-
-feuilles de la première paire opposées elliptiques à obovées (6-9 × 3-4) cm, base cordée à subcordée ; feuilles suivantes devenant de plus en plus grandes, base obtuse à arrondie. – Pl. 17, p. 73.
+leaves of the first pair opposite elliptic to obovate (6–9 × 3–4) cm, base cordate to subcordate; following leaves becoming progressively larger, base obtuse to rounded. – Pl. 17, p. 73.
 
 ## Type
 
@@ -47,15 +43,11 @@ Dupuis s.n., Bingila, Zaïre
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée Équatoriale, Gabon, Congo, Zaïre, Angola
+Cameroon, Equatorial Guinea, Gabon, Congo, Zaire, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombrophilous forests
 
 ## Specimens examined
 

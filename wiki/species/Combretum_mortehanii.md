@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Congo (Kinshasa), Dundusana (fl.) Mortehan 834 (holo-BR; iso-fragm. BM).
 
-TYPE : Congo (Kinshasa), Dundusana (fl.) Mortehan 834 (holo-BR ; iso-fragm. BM).
+Liane, diameter ≤ 20 cm.
 
-Liane, diamètre ≤ 20 cm.
+Leaves opposite; petiole ≤ 2 cm; lamina ovate-elliptic, ≤ 20 × ≤ 8 cm, almost glabrous; large lateral veins 7–9 pairs with domatia pocket-shaped pubescent to glabrous; base of lamina attenuate, apex acuminate and glandular (Pl. 23, 3, p. 83).
 
-Feuilles opposées ; pétiole ≤ 2 cm ; limbe ové-elliptique, ≤ 20 × ≤ 8 cm, presque glabre ; grandes nervures latérales 7-9 paires avec domaties en forme de pochettes pubescentes à glabres ; base du limbe atténuée, sommet acuminé et glanduleux (Pl. 23, 3, p. 83).
+Scales, diameter 50–100 μm.
 
-Écailles, diamètre 50-100 μm.
+Inflorescences: spikes axillary or terminal or panicles; rachis ≤ 15 cm; bracts very inconspicuous.
 
-Inflorescences : épis axillaires ou terminaux ou panicules ; rachis ≤ 15 cm ; bractées très peu visibles.
+Flowers 4-merous, sessile. Lower receptacle height ≤ 1 mm, lepidote, upper one ± patelliform, width 2 mm. Calyx: lobes deltoid. Petals obovate to spatulate, glabrous, length 1 mm. Stamens length 3 mm and anthers 0.4 mm. Disc almost entirely covered by the long hairs of its free edge. Style 2–2.5 mm (Pl. 23, 5, p. 83).
 
-Fleurs 4-mères, sessiles. Réceptacle inférieur haut de ≤ 1 mm, lépidote, le supérieur ± patelliforme, large de 2 mm. Calice : lobes deltoïdes. Pétales obovés à spathulés, glabres, longueur 1 mm. Étamines longueur 3 mm et anthères 0,4 mm. Disque presque tout recouvert des longs poils de son bord libre. Style 2-2,5 mm (Pl. 23, 5, p. 83).
-
-Fruit, contour subcirculaire, un peu glutineux, diamètre 4 cm ; ailes papyracées ; stipe ≤ 20 mm (Pl. 23, 4, p. 83) (Pl. 17, p. 61).
+Fruit, outline subcircular, somewhat glutinous, diameter 4 cm; wings papyraceous; stipe ≤ 20 mm (Pl. 23, 4, p. 83) (Pl. 17, p. 61).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Centrafrique, Gabon et Congo (Kinshasa)
+Cameroon, Central African Republic, Gabon and Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid forests, altitude < 700 m
 
-Forêts denses humides, altitude < 700 m
+Breteler 6913, 60 km SSW of Moanda, 2°03'S–13°00'E (fr., Oct.), BR, C, K, LBV, MA, MO, P, PRE, SRGH, WAG.
 
-Breteler 6913, 60 km SSO de Moanda, 2°03'S-13°00'E (fr., Oct.), BR, C, K, LBV, MA, MO, P, PRE, SRGH, WAG.
+Breteler & Jongkind 10700, E of Lastoursville, 0°40'S–13°00'E (fr., Nov.), WAG.
 
-Breteler & Jongkind 10700, E de Lastoursville, 0°40'S-13°00'E (fr., Nov.), WAG.
-
-Le Testu 7865, Lastoursville, 0°50'S-12°43'E (fl., Jan.), BM, BR, MO, P ; 7935, item (fl., Fév.), BM, P ; 8664, Tsengué (Monzo), 1°14'S-11°55'E (fl., Jan.), BM, BR, FHO, K, MO, P).
+Le Testu 7865, Lastoursville, 0°50'S–12°43'E (fl., Jan.), BM, BR, MO, P; 7935, idem (fl., Feb.), BM, P; 8664, Tsengué (Monzo), 1°14'S–11°55'E (fl., Jan.), BM, BR, FHO, K, MO, P).
 
 ## Figures
 

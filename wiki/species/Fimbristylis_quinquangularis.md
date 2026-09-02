@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fimbristylis miliacea sensu auct., non (L.) Vahl (1805), nom. rej. Scirpus miliaceus L., Syst. Veg. ed. 10: 868 (1759), nom. rej.
 
-Fimbristylis miliacea sensu auct ., non (L.) Vahl (1805), nom . rej . Scirpus miliaceus L., Syst. Veg. éd. 10 : 868 (1759), nom. rej.
-
-Plante. – B. Base (et sommet) d’un limbe montrant Section d’une tige. – C. Base d’un limbe montrant l’orifice de la gaine. – C. Partie de l’inflorescence. – l’orifice de la gaine. – D. Sommet du limbe. – E. D. Glume. – E. Fleur. – F. Fruit avec filet persistant Inflorescence. – F. Épillet. – G. Glume. – H. Fruit. et style détaché. Dessin original par Richard W. Dessin original par Richard W. Haines ©. Haines ©. Herbe annuelle ou peut-être parfois vivace , en touffe ; tiges habituellement de 20‒60(‒100+) cm × 1‒1,5 mm, avec 4‒5 angles aigus. Feuille aussi longue ou plus courte que les tiges ; ligule absente ; limbe plan avec la nervure centrale proéminente, large de 2‒3 mm, progressivement réduit à une pointe aiguë ou obtuse, leur aisselle sous-tendant de nouvelles pousses feuillues (comme F. littoralis ). Inflorescence en anthèle composée lâche ouverte, longue de 4‒10 cm ; bractées involucrales plus courtes que l’inflorescence, sétacées, jusqu’à 3 cm de longueur. Épillet ovoïde-lancéolé, de 2‒5(‒10 avec le rachis nu) × 1‒1,5 mm ; glumes longues de 1‒2 mm, à mucron court , avec une rayure brune de chaque côté de la nervure centrale, à marges hyalines. Fleur à 1(‒2) étamines, anthère longue d’environ 0,3 mm ; style triangulaire, glabre ou légèrement frangé dans la moitié supérieure, à 3 branches ± aussi longues que le style. Akène obovoïde , de 0,4‒0,7 × 0,3‒0,4 mm, triangulaire à angles arrondis, brun clair, irrégulièrement verruqueux, finement strié transversalement avec les cellules épidermiques transversalement oblongues linéaires en 4‒6 rangées verticales sur chaque face.
+Plant. – B. Base (and apex) of a blade showing the opening of the sheath. – C. Section of a stem. – C. Base of a blade showing the opening of the sheath. – D. Apex of the blade. – D. Glume. – E. Inflorescence. – E. Flower. – F. Fruit with persistent filament and style detached. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©. Annual herb or perhaps occasionally perennial, in tufts; stems usually 20–60(–100+) cm × 1–1.5 mm, with 4–5 acute angles. Leaf as long as or shorter than the stems; ligule absent; blade flat with the midvein prominent, 2–3 mm wide, gradually reduced to an acute or obtuse apex, their axils subtending new leafy shoots (as in F. littoralis). Inflorescence as a loose open compound anthela, 4–10 cm long; involucral bracts shorter than the inflorescence, setaceous, up to 3 cm long. Spikelet ovoid-lanceolate, 2–5(–10 with naked rachis) × 1–1.5 mm; glumes 1–2 mm long, with short mucro, with a brown streak on each side of the midvein, with hyaline margins. Flower with 1(–2) stamens, anther about 0.3 mm long; style triangular, glabrous or slightly fringed in the upper half, with 3 branches ± as long as the style. Achene obovoid, 0.4–0.7 × 0.3–0.4 mm, triangular with rounded angles, light brown, irregularly verrucose, finely transversely striate with epidermal cells transversely oblong-linear in 4–6 vertical rows on each face.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Asie et Australie ; peut-être introduite en Afrique et en Amérique avec la culture du riz ; peu fréquente au Gabon, trouvée seulement dans l’Estuaire, l’OgoouéMaritime et le Woleu-Ntem (3 récoltes)
+Asia and Australia; perhaps introduced to Africa and America with rice cultivation; infrequent in Gabon, found only in Estuary, Ogooué-Maritime and Woleu-Ntem (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies marécageuses, les terrains cultivés en particulier les champs de riz ; au Gabon, à 0‒500 m d’altitude, jusqu’à environ 1100 m en Afrique de l’Est. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1997)
+in marshy grasslands, cultivated land in particular rice fields; in Gabon, at 0–500 m altitude, up to about 1100 m in East Africa. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
 ## Notes
 

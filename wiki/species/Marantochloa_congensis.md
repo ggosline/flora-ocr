@@ -25,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bull. S. B. Belg. 83, 5 : 18 (1950).
 
-Diffère de l'espèce type par la pubescence plus ou moins accusée et de nature variable des tiges, particulièrement sur les nœuds, des gaines, de la face inférieure des feuilles, du rachis de l'inflorescence et des bractées. Fleurs blanches, staminodes jaunes.
+Differs from the type species by the more or less pronounced pubescence and variable nature of the stems, particularly on the nodes, the sheaths, the lower surface of the leaves, the rachis of the inflorescence and the bracts. Flowers white, staminodes yellow.
 
-Guinée, Sierra-Léone, Côte-d'Ivoire et Nigeria, Cameroun, Gabon, les deux Congo et Centrafrique. Sous-bois forestiers de terre ferme et recrus secondaires.
+Guinea, Sierra Leone, Côte-d'Ivoire and Nigeria, Cameroon, Gabon, both Congos and Central African Republic. Understory of upland forests and secondary growth.
 
 ## Specimens examined
 
@@ -47,21 +45,17 @@ Le Testu : 1302, Likounzi, et 1330, Issenguélé, Mayumbe.
 
 **Pages**: 123-124 · **Source**: `sources/Marantaceae_vol09_paddle`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb erect 1 m tall, branched, puberulous. Leaves antitropous slightly asymmetrical, arva 6–7 × 0.7–3.5 cm; otherwise as in the type of the sp.
 
-Herba erecta 1 m alta, ramosa, puberula. Folia antitropa paulo asymetrica, arva 6-7 × 0,7-3,5 cm; caetera ut in typo sp.
+This variety is differentiated by the following characters: leaves smaller, of 6–7 × 0.7–3.5 cm, relatively slightly asymmetrical. Stems, sheaths, petioles and lower surface of leaves pubescent, as well as the peduncles of the inflorescences, the floral pedicels and the bracts, but these with a lower density. Midvein of the leaves densely pubescent on the upper surface.
 
-Cette variété se différencie par les caractères suivants : feuilles plus petites, de  $ 6-7 \times 0,7-3,5 $ cm, relativement peu asymétriques. Tiges, gaines, pétioles et face inférieure des feuilles pubescents, ainsi que les pédoncules des inflorescences, les pédi-
+Bracts approximately 10–15 mm long, common peduncle of the same length; one flower sessile, the other on a pedicel 3 to 5 mm long.
 
-celles floraux et les bractées, mais celles-ci avec une densité moindre. Nervure médiane des feuilles densément pubescente à la face supérieure.
+Erect plant, 1 m tall, branched from 80 cm, with alternate, spreading branches.
 
-Bractées de 10-15 mm de long environ, pédoncule commun de même taille ; une fleur sessile, l'autre sur un pédicelle de 3 à 5 mm de long.
+Type: N. Hallé and G. Cours: 6023, east of Moumba, vicinity of Etéké, 750–800 m alt., Gabon 18 May 1963 (P).
 
-Plante dressée, de 1 m de haut, ramifiée à partir de 80 cm, avec des branches alternes, étalées.
-
-Typc : N. Hallé et G. Cours : 6023, à l'est de Moumba, env. d'Etéké, 750-800 m d'alt., Gabon 18 mai 1963 (P).
-
-Cette variété n'est connue que par cette seule récolte.
+This variety is known only from this single collection.
 
 ## Notes
 

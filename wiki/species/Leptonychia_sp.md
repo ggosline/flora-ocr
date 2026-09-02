@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 PELLEGR., Sterc. Gab. Mém. S. B. Fr.: 49 (1950-1951). — K. Schum., Sterc. Afr.: 96 (1900).
 
-Arbuste plus ou moins buissonnant. Jeunes extrémités portant de façon très éparse, de petits poils stellés. Pétioles grèles de 7-11 mm de long, d'abord un peu pubescents. Limbe elliptique de 9-15 cm de long sur 2,8-6 cm de large, brunâtre en herbier; base subaiguë; acumen de 10-25 mm de long, non très étroit. 5-6 paires de nervures latérales arquées ascendantes; la paire inférieure est basilaire.
+Shrub more or less bushy. Young shoots bearing in very scattered fashion small stellate hairs. Petioles slender 7-11 mm long, at first slightly pubescent. Blade elliptic 9-15 cm long by 2.8-6 cm wide, brownish in herbarium; base subacute; acumen 10-25 mm long, not very narrow. 5-6 pairs of curved ascending lateral veins; the lower pair is basal.
 
-Inflorescences semblables à celles de L. echinocarpa. Les fleurs blanches différent de celles de cette espèce par le sommet non arrondi mais obtus des pétales et leur pubescence sur la face externe. 12 staminodes groupés par 2 ou 3, longs, amincis et sineux. 10 étamines. 5 staminodes internes très effilés. Ovaire à 5 loges et style pubescent sur les 2/3 de sa hauteur. Jeune fruit semblable à celui de L. echinocarpa.
+Inflorescences similar to those of L. echinocarpa. The white flowers differ from those of this species by the apex not rounded but obtuse of the petals and their pubescence on the outer face. 12 staminodes grouped by 2 or 3, long, attenuate and sinuous. 10 stamens. 5 internal staminodes very slender. Ovary with 5 locules and style pubescent on 2/3 of its height. Young fruit similar to that of L. echinocarpa.
 
 ## Specimens examined
 

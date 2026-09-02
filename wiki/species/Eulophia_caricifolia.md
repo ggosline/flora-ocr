@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Lissochilus longifolius Benth. in Hook., Niger Fl.: 530 (1949) non Schlechter.
 
-Organes pérennes 15 x 0,6-0,8 cm, rhizomateux. Feuilles 4-8, 15-140 x 0,3-1,5 cm, linéaires. Inflorescence lâche, 50-130 cm, 9-40-flore. Sépales rouge-gris à marron, pétales roses à blancs, labelle rose veiné de rouge avec un lobe médian mauve, callus jaune. Sépale dorsal oblong-spatulé. Pétales circulaires-elliptiques. Sépales latéraux oblongs-spatulés. Labelle 15-25 x 10-15 mm, assez mince, faiblement trilobé avec 3 crêtes verruqueuses dans la moitié basale ; lobe médian ligulé, tronqué, marges crénelées et ondulées ; lobes latéraux largement arrondis. Éperon 5-7 mm, largement conique à conique-sacciforme, peu profond. Pl. 143, p. 321.
+Perennial organs 15 × 0.6–0.8 cm, rhizomatous. Leaves 4–8, 15–140 × 0.3–1.5 cm, linear. Inflorescence lax, 50–130 cm, 9–40-flowered. Sepals grey-red to brown, petals pink to white, labellum pink veined with red with a mauve median lobe, callus yellow. Dorsal sepal oblong-spatulate. Petals circular-elliptic. Lateral sepals oblong-spatulate. Labellum 15–25 × 10–15 mm, rather thin, weakly trilobed with 3 verrucose ridges in the basal half; median lobe ligulate, truncate, margins crenate and undulate; lateral lobes widely rounded. Spur 5–7 mm, broadly conical to conical-saccate, shallow. Pl. 143, p. 321.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, Angola, Congo, République centrafricaine, Zaïre, Rwanda, Burundi, Ouganda, Tanzanie, Zambie
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Angola, Congo, Central African Republic, Zaire, Rwanda, Burundi, Uganda, Tanzania, Zambia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,200–1,350 m. Terrestrial in humid grassland, brackish or freshwater marshes
 
-alt. 1 200-1 350 m. Terrestre en prairie humide, marais saumâtre ou non
+MATERIAL EXAMINED (Map 67):
 
-MATÉRIEL ÉTUDIÉ (Carte 67) :
-
-Breteler & van Raalte 5574, SE de port Gentil, environ 0° 40' S, 8° 50' E, savane, sol sableux, inondés en saison des pluies (fl. Sept.), WAG!.
+Breteler & van Raalte 5574, SE of Port Gentil, circa 0° 40' S, 8° 50' E, savanna, sandy soil, flooded in rainy season (fl. Sept.), WAG!.
 
 Griffon de Bellay s.n., s.loc., W-R!.
 
-Hallé 1936, Ayem, 10 km SO de Ndjolé, km 9 du chantier (fl. Avr.), P!.
+Hallé 1936, Ayem, 10 km SW of Ndjolé, km 9 of the site (fl. Apr.), P!.
 
-Le Testu 5166, Haute Ngounyé, Iméno (fl. Janv.), BM!, BR!, P!.
+Le Testu 5166, Haute Ngounyé, Iméno (fl. Jan.), BM!, BR!, P!.
 
-J. M. & B. Reitsma 2859, petite savane marécageuse, environ 20 km N de Libreville, 0° 35' N, 9° 22' E (fl. Janv.), WAG!.
+J. M. & B. Reitsma 2859, small swampy savanna, circa 20 km N of Libreville, 0° 35' N, 9° 22' E (fl. Jan.), WAG!.
 
-Sita 488, Franceville, route N de Mounana-Ogooué, à 3,2 km de la cité (stér.), P!.
+Sita 488, Franceville, north road of Mounana-Ogooué, 3.2 km from the town (ster.), P!.
 
-Thollon 23, Cap Lopez (fl. Déc.), P! ; s.n., s.loc., BR!, P!.
+Thollon 23, Cape Lopez (fl. Dec.), P!; s.n., s.loc., BR!, P!.
 
 ## Figures
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— R. Benoist, in F. Pellegrin, Mém. Soc. Linn. Norm., N. S., Sect. Bot., 1 (3): 47 (1928).
 
-— R. Benoist, in F. Pellegrin, Mém. Soc. Linn. Norm., N. S., Sect. Bot., 1 (3) : 47 (1928).
+Herbaceous plant reaching 2 m in height (Le Testu 1582), with subcylindrical stems, somewhat angular when dry at the extremities, geniculate in the lower portions. Petioles 1–3 cm long. The terminal leaves are subsessile with an obtuse base. Leaf blade elliptic-ovate, acute-decurrent at the base and acuminate at the apex, 10–13 × 4.5–7 cm; acumen very elongate-cuspidate; margins entire or very weakly crenulate. 8–10 pairs of lateral veins.
 
-Plante herbacée atteignant 2 m de hauteur (Le Testu 1582), à tiges subcylindriques, un peu anguleuses à l'éclat sec aux extrémités, géniculées dans les parties inférieures. Pétioles de 1-3 cm de long. Les feuilles terminales sont subsessiles avec une base obtuse. Limbe des feuilles elliptique-ovale, aigu-décurrent à la base et acuminé au sommet, de 10-13 × 4,5-7 cm; acumen très allongé-cuspidé; bords entiers ou très faiblement crénelés. 8-10 paires de nervures latérales.
+Inflorescences chiefly terminal, more rarely axillary in large specimens, in the form of a branched spike or condensed raceme, 20–25 cm long, viscid-pubescent. Flowers pedicellate or borne on small lateral branches; pedicel reaching 8 mm long, accrescent after anthesis. Bracts subulate-linear, up to 2 mm long; bracteoles like the bracts. Sepals 11 mm long, linear viscid-pubescent. Corolla violet-purple, glabrous, with tube 15 mm long, upper lip 7 mm long by 1.5 mm; interior of corolla glabrous. Stamens exserted, free portion of filaments 12 mm long, inserted in the throat but fused to the corolla tube to the base; anther 2 mm long, glabrous. Ovary glabrous; style reaching 2 cm long, glabrous, with stigma somewhat swollen, entire, but very slightly emarginate at the apex.
 
-Inflorescences surtout terminales, plus rarement axillaires dans les grands spécimens, en forme d'épi rameux ou de racème condensé, de 20-25 cm de long, visqueuses-pubescentes. Fleurs pédicellées ou insérées sur de petits rameaux latéraux; pédicelle
-
-atteignant 8 mm de long, accrescent après l'anthèse. Bractées subulées-linéaires ayant jusqu'à 2 mm de long; bractéoles comme les bractées. Sépales de 11 mm de long, linéaires visqueux-pubescents. Corolle violet-pourpre, glabre, à tube de 15 mm de long, à lèvre supérieure de 7 mm de long sur 1,5 mm; intérieur de la corolle glabre. Étamines exsertes, à partie libre des filets de 12 mm de long, insérées dans la gorge mais sondés au tube de la corolle jusqu'à la base; anthère de 2 mm de long, glabre. Ovaire glabre; style atteignant 2 cm de long, glabre, à stigmate un peu renflé, entier, mais très légèrement émarginé au sommet.
-
-Fruit glabre, de  $ 24 \times 3 $ mm, stipité sur 7 mm. Graines lenticulaires, d'environ 2 mm de diamètre, finement réticulées-tuberculées sur toute la surface.
+Fruit glabrous, 24 × 3 mm, stipitate for 7 mm. Seeds lenticular, approximately 2 mm in diameter, finely reticulate-tuberculate over the entire surface.
 
 ## Type
 
 Mann 1666, Sierra del Crystal (K, holotype!)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Congo, Gabon.
 
@@ -49,13 +43,11 @@ Mann : 1666 (type).
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— The two specimens of Le Testu were cited under this same name, with a question mark, by R. Benoist in 1928. The doubt expressed by R. Benoist was merely a reflection of that of C. B. Clarke; the latter had noted the insufficiency of the original material (Mann 1666): "anthers not seen; hence the genus is not certain". The more complete material of this species, accumulated in herbaria after 1899, subsequently made it possible to confirm the position established by C. B. Clarke.
 
-— Les deux spécimens de Le Testu ont été cités sous ce même bénôme, avec un point d'interrogation, par R. Benoist en 1928. Le doute exprimé par R. Benoist était seulement le reflet de celui de C. B. Clarke; ce dernier avait signalé l'insuffisance du matériel original (Mann 1666) : « anthers not seen; hence the genus is not certain ». Le matériel plus complet de cette espèce, accumulé dans les herbiers après 1899, a permis par la suite de confirmer la position fixée par C. B. Clarke
+EXPLANATION OF PLATE L, figs. 6–12:
 
-EXPLICATION DE LA PLANCHE L, fig. 6-12:
-
-6, sommité florifère; 7, fleur de 24 mm de long; 8, corolle ouverte; 9, anthère à loge de 2,3 mm de long; 10, pistil (disque et ovaire de 2 mm de haut, style de 20 mm de long); 11, calice fructifère et fruit de 24 mm de long; 12, graine de 2,2 × 1,6 mm. — 6-12, Le Testu 1582.
+6, flowering apex; 7, flower 24 mm long; 8, corolla opened out; 9, anther with lobe 2.3 mm long; 10, pistil (disc and ovary 2 mm high, style 20 mm long); 11, fruiting calyx and fruit 24 mm long; 12, seed 2.2 × 1.6 mm. — 6–12, Le Testu 1582.
 
 ## Notes
 

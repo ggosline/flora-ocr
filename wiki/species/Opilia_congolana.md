@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Urobotrya minutiflora STAPF, Journ. Linn. Soc. 37 : 90 (1904).
 
 — O. minutiflora (Stapf) Engl., Bot. Jahrb. 43 : 172 (1909).
@@ -27,17 +25,17 @@ tags: [species, generated]
 
 — O. angustifolia (Stapf) Engl., l. c. : 171 (1909). — SLEUMER, Pflanzenfam., ed. 2, 16 b : 38 (1935).
 
-— U. stapfiana StAPF, l. c.
+— U. stapfiana STAPF, l. c.
 
 — O. stapfiana (Hutch. & Dalz.). SLEUMER, 1. c.
 
 — O. macrocarpa Pierre & Engl., Bot. Jahrb. 43 : 172 (1909). — SLEUMER, 1. c.
 
-Arbuste haut de 1-3 m à ramilles striées longitudinalement. Tige brune ou jaune verdâtre. Pétiole court long de 5-10 mm, aplati à la face supérieure, ridé à la face inférieure. Limbe glabre sur les deux faces, jaune vert ou marron grisâtre dessus, vert ou vert jaunâtre dessous, oblong, largement oblong, elliptique ou étroitement lancéolé, 3,5-8 × 10-22 cm, cunéiforme ou atténué à la base; sommet acuminé obtus. Nervure primaire saillante à la face supérieure, saillante sillonnée à la face inférieure. Nervures secondaires ascendantes, peu arquées, à anastomoses peu visibles, saillantes sur les deux faces. Nervilles en réseau très lâche, très peu saillant à la face supérieure.
+Shrub 1–3 m tall with branchlets striated longitudinally. Stem brown or yellowish-green. Petiole short, 5–10 mm long, flattened on the upper surface, wrinkled on the lower surface. Blade glabrous on both surfaces, yellow-green or greyish-brown above, green or yellowish-green below, oblong, broadly oblong, elliptic or narrowly lanceolate, 3.5–8 × 10–22 cm, cuneate or attenuate at the base; apex acuminate obtuse. Primary vein prominent on the upper surface, prominent and furrowed on the lower surface. Secondary veins ascending, slightly arched, with inconspicuous anastomoses, prominent on both surfaces. Tertiary veins in a very lax network, very slightly prominent on the upper surface.
 
-Inflorescence en grappe de fascicules, axillaire, égale ou supérieure à la longueur de la feuille. Fascicule de 2-4 fleurs. Bouton floral globuleux, pédi-cellé. Pédicelle long de 5-11 mm. Fleur pentamère jaune. Pétales pubescents à la face externe, réfléchis, libres entre eux, oblongs-lancéolés à lancéolés, obtus au sommet. Étamines épipétales, libres entre elles, gynobasiques; filet grêle long de 6-8 mm; anthères ellipsoïdes à 2 fentes de déhiscence longitudinales, médifixes. Disque présent sous forme de lobes glanduleux ± soudés entre eux. Ovaire conique à une loge contenant un ovule pendant d'un placenta central dressé. Stigmate tronqué.
+Inflorescence a raceme of fascicles, axillary, equal to or exceeding the leaf length. Fascicle of 2–4 flowers. Floral bud globose, pedicelled. Pedicel 5–11 mm long. Flower pentamerous, yellow. Petals pubescent on the outer surface, reflexed, free from one another, oblong-lanceolate to lanceolate, obtuse at the apex. Stamens epipetalous, free from one another, gynobasic; filament slender, 6–8 mm long; anthers ellipsoid with 2 longitudinal dehiscence slits, medifixed. Disk present as glandular lobes ± united with one another. Ovary conic with one locule containing a single ovule suspended from an erect central placenta. Stigma truncate.
 
-Drupe ellipsoïde jaune rougeâtre à l'état frais, renflée à la base, 1,5-2 × 1,5 cm. Pédicelle fructifère long de 2 cm. Endocarpe ligneux sillonné longitudinalement. PL. 37, 7-14, p. 171.
+Drupe ellipsoid, yellowish-red when fresh, swollen at the base, 1.5–2 × 1.5 cm. Fruiting pedicel 2 cm long. Endocarp woody, furrowed longitudinally. PL. 37, 7–14, p. 171.
 
 ## Type
 
@@ -45,9 +43,7 @@ Thollon s. n., Congo (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre de la Sierra Leone au Congo.
+This species is found from Sierra Leone to Congo.
 
 ## Specimens examined
 

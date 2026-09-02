@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 PR 103 (4, 127): 289 (1938); TROUPIN, FCBR 3: 135, fig.2 B-C (1952); LEMMENS in BRETELER (éd.), AUWP 89 (6): 247, fig.116-117 (1989). TYPE: Zaïre, Dilolo, Sapin s.n. (holo-BR).
 
 - C. sapinii auct. non De Wild.: Schellenberg, PR 103 (4, 127): 284 (1938).
 
-Liane ou arbuste lianescent. Rameaux cylindriques lenticellés, jeunes rameaux parfois un peu anguleux, pubescence brune, tôt glabres-cents.
+Liane or lianescent shrub. Branches cylindrical lenticellate, young branches sometimes somewhat angular, brown pubescence, early glabrescent.
 
-Feuilles trifoliolées ; pétioles longs de 2,5-17 cm avec souvent un processus distinct à la base, rachis long de 0,5-4,5 cm, pubescence brune au début. Folioles coriaces, les latérales ± opposées, ovées ou elliptiques, 5-25 × 3-10,5 cm, arrondies (folioles latérales) ou cunées (foliole terminale) à la base, aiguës ou acuminées ≤2,5 cm, glabres sur les deux faces ; médiane fortement imprimée dessus et proéminente dessous avec 4-9 paires de nervures latérales ; nervation III réticulée ± distincte sur les deux faces ; pétioles longs de 5-6(-9) mm, ridés, glabres.
+Leaves trifoliolate; petioles 2.5–17 cm long often with a distinct process at the base, rachis 0.5–4.5 cm long, brown pubescence at first. Leaflets coriaceous, the lateral ones ± opposite, ovate or elliptic, 5–25 × 3–10.5 cm, rounded (lateral leaflets) or cuneate (terminal leaflet) at the base, acute or acuminate ≤2.5 cm, glabrous on both faces; midvein strongly impressed above and prominent below with 4–9 pairs of lateral veins; venation III reticulate ± distinct on both faces; petiolules 5–6(–9) mm long, wrinkled, glabrous.
 
-Inflorescences en panicule long de ≤27 cm, ≤≈ 50-flore, pubescence brune dense. Bractées, ainsi que les feuilles réduites à la base des inflorescences, ovées, longues de 0,5-1 mm (feuilles réduites parfois subulées et longues de ≤10 mm). Pédicelles courts, articulés à 0-1,5 mm au-dessous du calice, pubescence brune.
+Inflorescences in panicles ≤27 cm long, ≤≈ 50-flowered, dense brown pubescence. Bracts, as well as reduced leaves at the base of the inflorescences, ovate, 0.5–1 mm long (reduced leaves sometimes subulate and ≤10 mm long). Pedicels short, articulate 0–1.5 mm below the calyx, brown pubescence.
 
-Fleurs : calice et corolle en préfloraison valvaire ou étroitement imbriquée. Sépales (étroitement) ovés ou triangulaires, charnus, persistant à la base du follicule, 2,5-3,6 × 1-1,7 mm, aigus ou obtus au sommet, plats ou un peu carénés, pubescence externe brune, intérieur glabre, ponctués de glandes, indistinctement ≤5-nervés. Pétales libres, étroitement elliptiques, étroitement obovés à presque linéaires, (5,5-)6,5-8,1 × 1-1,7 mm, cunés à la base, obtus au sommet, extérieur glabre ou rarement avec pubescence éparse, intérieur glabre ou rarement avec quelques poils glanduleux, en général ponctués de glandes près du sommet, ± distinctement 3-7-nervés. Étamines, 1-1,5 mm, unies à la base ; étamines longues ayant 4,2-4,4 mm ou 6-7 mm, filets avec glandes stipitées, anthères 0,3 × 0,2 mm ; étamines courtes ayant 2-3 mm, filets dépourvus de glandes, anthères en général un peu plus petites mais apparemment fertiles. Pistil long de 3,4-4,1 mm ou 7,9-9,7 mm ; ovaire long de 1-1,5 mm, pubescence brune ; style pubescent à la base et avec des glandes stipitées ; stigmates obliques, ± 2-lobés, souvent nettement papilleux.
+Flowers: calyx and corolla in prefloration valvate or narrowly imbricate. Sepals (narrowly) ovate or triangular, fleshy, persistent at the base of the follicle, 2.5–3.6 × 1–1.7 mm, acute or obtuse at the apex, flat or somewhat carinate, brown pubescence on exterior, interior glabrous, punctate with glands, indistinctly ≤5-nerved. Petals free, narrowly elliptic, narrowly obovate to almost linear, (5.5–)6.5–8.1 × 1–1.7 mm, cuneate at the base, obtuse at the apex, exterior glabrous or rarely with scattered pubescence, interior glabrous or rarely with a few glandular hairs, generally punctate with glands near the apex, ± distinctly 3–7-nerved. Stamens, 1–1.5 mm, united at the base; long stamens 4.2–4.4 mm or 6–7 mm, filaments with stipitate glands, anthers 0.3 × 0.2 mm; short stamens 2–3 mm, filaments lacking glands, anthers generally somewhat smaller but apparently fertile. Pistil 3.4–4.1 mm or 7.9–9.7 mm long; ovary 1–1.5 mm long, brown pubescence; style pubescent at the base and with stipitate glands; stigmas oblique, ± 2-lobed, often distinctly papillose.
 
-Fruit : follicule ellipsoïdal, ovoïde ou obovoïde, non ou fortement oblique, 5-7,3 × 2-3 cm, base arrondie ou cunée mais non stipitée, sommet obtus ou aigu ; péricarpe épais, ligneux, glabre et surface net-tement veinée, intérieur avec pubescence dense.
+Fruit: follicle ellipsoidal, ovoid or obovoid, not or strongly oblique, 5–7.3 × 2–3 cm, base rounded or cuneate but not stipitate, apex obtuse or acute; pericarp thick, woody, glabrous and surface distinctly veined, interior with dense pubescence.
 
-Graine obovoïde,  $ 34 \times 25 \times 20 $ mm, sarcotesta long de 10 mm enveloppamt la partie basale de la graine seulement du côté ventral ; radicule presqu’au centre de la graine, entre les cotylédons. – Pl. 21, p. 73.
+Seed obovoid, 34 × 25 × 20 mm, sarcotesta 10 mm long enveloping the basal part of the seed only on the ventral side; radicle almost at the center of the seed, between the cotyledons. – Pl. 21, p. 73.
 
 ## Type
 
@@ -41,15 +39,11 @@ Sapin s.n., Dilolo, Zaïre
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Libéria et du Nigéria au Sud et au centre du Zaïre
+Liberia and Nigeria to South and central Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles primaires et secondaires, souvent près des rivières
+primary and secondary rainforests, often near rivers
 
 ## Specimens examined
 

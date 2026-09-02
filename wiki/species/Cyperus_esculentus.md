@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, stolonifère, assez robuste ; stolons d’environ 15 cm × 0,5‒1,5 mm, recouverts d’écailles brunes à noirâtres, se terminant par un tubercule noirâtre large de 3‒8 mm ; tiges de 15‒70 cm × 1‒5 mm, trigones, glabres, avec 3 à plusieurs feuilles regroupées près de la base. Feuille : gaine verte à brun rougeâtre, rarement noirâtre ; limbes principaux de 10‒30 cm × 3‒9 mm , plans, scabres sur la marge et les nervures principales. Inflorescence en anthèle de 3‒20 × 3‒15 cm, formée d’un épi sessile et de 3‒10 épis sur des rayons longs de 0,5‒15 cm, avec souvent 1‒5 épis secondaires (habituellement pédonculés) à la base de certains épis primaires ; bractées involucrales primaires 3‒9, foliacées, dressées ou étalées, la principale de 3‒20 cm × 2‒9 mm ; épis de 1‒3 × 1‒3 cm , avec 4‒12 épillets étalés. Épillet linéaire–lancéolé, de 5‒20 × 1,5‒2 mm , sommet arrondi, brun doré ou roux, à 6‒22 fleurs ; glumes ovales–elliptiques, longues
-
-de 2,2‒2,6 mm , brun doré à rouille avec une bordure incolore et 3‒4 nervures latérales, nervure centrale se terminant dans le sommet arrondi ou le dépassant légèrement. Fleur : style à 3 branches. Akène elliptique–triangulaire, de 1,1‒1,5 × 0,6‒0,8 mm , brun noir et brillant, à surface couverte de petites cellules isodiamétriques.
+Perennial herb, stoloniferous, rather robust; stolons about 15 cm × 0.5–1.5 mm, covered with brown to blackish scales, ending in a blackish tubercle 3–8 mm wide; stems 15–70 cm × 1–5 mm, trigonous, glabrous, with 3 to several leaves clustered near the base. Leaf: sheath green to reddish-brown, rarely blackish; main blades 10–30 cm × 3–9 mm, plane, scabrous on the margins and main veins. Inflorescence an anthela of 3–20 × 3–15 cm, formed of a sessile spike and 3–10 spikes on rays 0.5–15 cm long, often with 1–5 secondary spikes (usually pedunculate) at the base of certain primary spikes; primary involucral bracts 3–9, foliaceous, erect or spreading, the main one 3–20 cm × 2–9 mm; spikes 1–3 × 1–3 cm, with 4–12 spreading spikelets. Spikelet linear–lanceolate, 5–20 × 1.5–2 mm, apex rounded, golden-brown or reddish, with 6–22 flowers; glumes oval–elliptic, 2.2–2.6 mm long, golden-brown to rusty with a hyaline margin and 3–4 lateral veins, central vein ending at or slightly exceeding the rounded apex. Flower: style with 3 branches. Achene elliptic–triangular, 1.1–1.5 × 0.6–0.8 mm, black-brown and shiny, surface covered with small isodiametric cells.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales et tempérées ; au Gabon, peu fréquente ou méconnue, trouvée seulement dans l’Ogooué-Ivindo et l’Ogooué-Maritime (3 récoltes)
+widely distributed in tropical and temperate regions; in Gabon, infrequent or poorly known, found only in Ogooué-Ivindo and Ogooué-Maritime (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mauvaise herbe des jardins et cultures, mais présente aussi dans les zones herbeuses saisonnièrement humides ou marécageuses ; au Gabon, à 0‒800 m, jusqu’à 2200 m en Afrique de l’Est
+weed of gardens and cultivated areas, but also present in seasonally humid or swampy herbaceous zones; in Gabon, at 0–800 m, up to 2200 m in East Africa
 
 ## Vernacular names
 

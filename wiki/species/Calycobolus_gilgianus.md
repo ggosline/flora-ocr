@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Calycobolus mortehanii (De Wild.) Heine, Kew Bull. 16 : 390 (1963). Prevostea mortehanii De Wild., Bull. Jard. Bot. État Brux. 4 : 389 (1914). Vine up to 5 cm in diameter or scandent shrub; branchlets glabrous, rarely with appressed hairs and glabrescent. Leaf: petiole (1–)1.5–4(–5.5) cm, hairy like the branchlets; lamina ovate-elliptic, (5–)8–13(–16) × (3–)4–8(–10) cm, cuneate to rounded at base, acute to acuminate for 1(–1.5) cm at apex, glabrous, rarely sparsely puberulent and glabrescent beneath; lateral nerves (6–)7–9(–19) pairs, prominent beneath. Inflorescence a lax raceme, up to 13 cm long, up to about 20 flowers, glabrous to sparsely hairy; bracts and bracteoles ovate-triangular, about 1 mm A B B. Ipomoea mauritiana, road between Tchibanga and Mayumba, photo by the author.
 
-Calycobolus mortehanii (De Wild.) Heine, Kew Bull. 16 : 390 (1963). Prevostea mortehanii De Wild., Bull. Jard. Bot. État Brux. 4 : 389 (1914). Liane jusqu’à 5 cm de diamètre ou arbuste lianescent ; ramilles glabres, rarement à poils apprimés et glabrescentes . Feuille : pétiole (1–)1,5–4(–5,5) cm, poilu comme les ramilles ; limbe ové-elliptique, (5–)8–13(–16) × (3–)4–8(–10) cm, cunéé à arrondi à la base, aigu à acuminé sur 1(–1,5) cm au sommet, glabre, rarement éparsement pubérulent et glabrescent dessous ; nervures latérales (6–)7–9(–19) paires, proéminentes dessous. Inflorescence en racème lâche, jusqu’à 13 cm de longueur, jusqu’à environ 20 fleurs, glabre à éparsement poilue ; bractées et bractéoles ovées-triangulaires, environ 1 mm A B B. Ipomoea mauritiana , route entre Tchibanga et Mayumba, photo par l’auteur.
-
-de longueur. Fleur : pédicelle ± filiforme, 7–11 mm ; sépales : les deux externes ± circulaires à largement elliptiques, le grand 5–7 × 4–7 mm, le petit 3–5 × 3–4 mm, ± aigus au sommet, les internes très petits, 0,5–1 mm de longueur ; corolle campanulée, 13–20 mm de longueur, vert pâle à blanche, à nervures vert foncé ou pourpres, sommet pubescent extérieurement ; étamines 7–10 mm de longueur, anthères pendantes, (1–)1,5–2 mm de longueur ; pistil glabre ; styles inégaux à ± égaux, soudés sur jusqu’aux 2/3 de leur longueur. Fruit obovoïde-ellipsoïde, 15 × 7 mm, glabre, environ 3–4 mm, stipité à la base ; les deux sépales externes élargis, elliptiques, le grand 4–6 × 3,5–6 cm, le petit 2,5–4 × 2,5–3,5 cm, glabre.
+long. Flower: pedicel ± filiform, 7–11 mm; sepals: the two outer ones ± circular to broadly elliptic, the larger 5–7 × 4–7 mm, the smaller 3–5 × 3–4 mm, ± acute at apex, the inner ones very small, 0.5–1 mm long; corolla campanulate, 13–20 mm long, pale green to white, with dark green or purple nerves, apex pubescent externally; stamens 7–10 mm long, anthers pendulous, (1–)1.5–2 mm long; pistil glabrous; styles unequal to ± equal, fused for up to 2/3 of their length. Fruit obovoid-ellipsoid, 15 × 7 mm, glabrous, about 3–4 mm, stipitate at base; the two outer sepals enlarged, elliptic, the larger 4–6 × 3.5–6 cm, the smaller 2.5–4 × 2.5–3.5 cm, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, République Centrafricaine, Gabon, République du Congo et République Démocratique du Congo ; au Gabon, connue de l’Ogooué-Lolo et du Moyen-Ogooué
+Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Ogooué-Lolo and Middle Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon et ailleurs jusqu’à 700 m d’altitude. B : Breteler (2013), Lejoly & Lisowski (1985). ibliographie
+primary and secondarized forest; in Gabon and elsewhere up to 700 m altitude. B: Breteler (2013), Lejoly & Lisowski (1985). Bibliography
 
 ## Notes
 

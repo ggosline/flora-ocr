@@ -16,27 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante ou rampante; tige glabre ou pubérulent, jusqu'à 10 m de longueur. Vrilles simples ou inégalement bifides. Feuille: pétiole 1–3,5(−8,5) cm, glabre ou pubérulent, parfois à poils jaunâtres et simples dessus; limbe cordiforme à subhasté, jusqu'à profondément 3-ou 5-palmatilobé, 3,5–20 × 4–23 cm, obtus à acuminé, parfois apiculé au sommet, vert pâle dessus, à marge entier ou souvent serrée. Inflorescence: la mâle en fascicule ou en racème dense; la femelle en racème, parfois atteignant 15 cm, ou à fleur solitaire; probractée obovale, atteignant 5 mm de longueur, parfois caduque; pédoncule 3–8 mm, glabre à pubérulent; bracée obovale, atteignant 1,5 mm de longueur, parfois caduque. Fleur mâle: pédicelle jusqu'à 8 mm, glabre à pubérulent; sépales érigés à étalés ou réfléchés, subulés à linéaires, parfois étroitement triangulaires, longs de 1–2,5 mm; corolle longue de 1,1–2,4 cm, à lobes longes de 3–10 mm, jaune ±orangé, rarement un peu saumon. Fleur femelle: pédicelle glabre ou pubérulent; ovaire glabre. Fruit ellipsoïde à subglobuleux, 1,5–2,5 × 1,5 cm, fruit immature vert avec des macules longitudinales pâles, rouge à maturité. Graine aplatie, de contour ±symétriquement obovale, 5,5 × 2,5–3 × 1–1,5 mm, beige-grisâtre.
+Climbing or trailing herb; stem glabrous or puberulent, up to 10 m long. Tendrils simple or unequally bifid. Leaf: petiole 1–3.5(−8.5) cm, glabrous or puberulent, sometimes with yellowish and simple hairs above; blade cordate to subhastate, up to deeply 3- or 5-palmatifid, 3.5–20 × 4–23 cm, obtuse to acuminate, sometimes apiculate at apex, pale green above, with entire or often serrate margin. Inflorescence: male in fascicles or dense raceme; female in raceme, sometimes reaching 15 cm, or solitary flower; probract obovate, reaching 5 mm long, sometimes caducous; pedicel 3–8 mm, glabrous to puberulent; bract obovate, reaching 1.5 mm long, sometimes caducous. Male flower: pedicel up to 8 mm, glabrous to puberulent; sepals erect to spreading or reflexed, subulate to linear, sometimes narrowly triangular, 1–2.5 mm long; corolla 1.1–2.4 cm long, lobes 3–10 mm long, yellow ± orange, rarely somewhat salmon. Female flower: pedicel glabrous or puberulent; ovary glabrous. Fruit ellipsoid to subglobose, 1.5–2.5 × 1.5 cm, immature fruit green with pale longitudinal maculae, red at maturity. Seed flattened, outline ± symmetrically obovate, 5.5 × 2.5–3 × 1–1.5 mm, beige-greyish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l’Afrique tropicale, de la Guinée jusqu’au Rift Est-africain à l’Ouganda au nord-est et les montagnes entre le Mozambique et le Zimbabwe, et au sud, en Angola ; au Gabon connu du Haut-Ogooué, de la Nyanga et de l’Ogooué-Lolo, probablement présent aussi dans d’autres provinces
+Known from tropical Africa, from Guinea to the East African Rift in north-east Uganda and mountains between Mozambique and Zimbabwe, and to the south in Angola; in Gabon known from Haut-Ogooué, Nyanga and Ogooué-Lolo, probably also present in other provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts tropophiles, forêts rivulaires marécageuses, forêts sèches, galeries forestières, lisières de forêt, jachères ; au Gabon jusqu'à 500 m d'altitude, ailleurs à 0–1600 m
+Tropophilous forests, swampy riparian forests, dry forests, forest galleries, forest margins, fallows; in Gabon up to 500 m altitude, elsewhere at 0–1600 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. barteri est une espèce très variable et inclut C. heterophylla et C. racemiflora dans les phylogénies de l'ADN nucléaire et plastidial. Ce complexe a besoin d'une clarification
+C. barteri is a highly variable species and includes C. heterophylla and C. racemiflora in nuclear and plastidial DNA phylogenies. This complex needs clarification
 
 ## Bibliography
 

@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engler, Pflanzenr. IV, 147, XV (Heft 81): 260 (1922). Planche 42; Figure 8(A, B)
+in Engler, Pflanzenr. IV, 147, XV (Heft 81): 260 (1922). Plate 42; Figure 8(A, B)
 
 Lingelsheimia capillipes Pax, Bot. Jahrb. Syst. 43(4): 318 (1909).
 
-Arbuste ou arbre jusqu'à 8 m de hauteur; tronc jusqu'à 11 cm de diamètre, parfois muni d'épines; écorce blanchâtre; entaille un peu rouge et grise sur les individus plus grands, à odeur légère d'huile de moutarde; ramilles cannelées, glabres. Stipules très précocement caduques, de 7,5 × 0,5 mm. Feuille: pétiole de 3–5 mm, glabre, ridé et souvent plus foncé que les rameaux et la nervure médiane sur le sec; limbe obliquement ovale à elliptique, de 7–20 × 4–9 cm, papyracé, à base arrondie d'un côté et souvent légèrement cordée de l'autre, inséré sur le pétiole en deux points distants de 1–1,5 mm, acuminé sur 1,2–3 cm, à marge à dents très peu profondes irrégulières et espacées de 1–5 mm; nervure médiane glabre, légèrement imprimée dessus, jaunâtre dessous sur le sec, nervures secondaires 7 à 9 de chaque côté, parfois imprimées dessus, surélévees dessous, d'un jaunâtre caractéristique sur le sec. Inflorescence mâle à l'aisselle des feuilles, avec 1 à 4 fleurs; axe de 10 × 0,2 mm. Fleur mâle pendante; pédicelle de 40–100 mm, glabre; sépales 5, imbriqués, suborbiculaires, de 5 × 5 mm, vert jaunâtre, glabres à l'extérieur, rugueux à l'intérieur; étamines 25, obscurément disposées en un verticille autour du bord du disque, plus ou moins insérées entre les lobes du disque, filet de 0,5–0,7 mm; disque lobé, de 4 mm de diamètre, pubescent. Inflorescence femelle à l'aisselle des feuilles, avec 1(ou 2) fleurs. Fleur femelle: pédicelle de 60–80 mm; sépales 5, suborbiculaires, longs de 6–8 mm, glabres à l'extérieur, courtement poilus à l'intérieur; disque de 5 mm de diamètre, entourant la base de l'ovaire; ovaire globuleux ou quelque peu 2-lobé, de 6 × 5 mm de diamètre, 2-loculaire, densément pubescent à poils blanchâtes atteignant 0,2 mm; style 2 mm, à 2 branches, à partie soudée de 0,5–1 mm, à stigmate
-
-largement obovale ou flabellé, de  $ 1.5 \times 3 $ mm. Fruit ellipsoidal, de  $ 1.8-2 \times 1.2 $ cm, orange, finement rugueux, très peu pubescent, 2-loculaire; sépales caducis; pédicelle de 45-70 mm, glabre. Graine de  $ 12-14 \times 7-9 $ mm, entourée d'un mucilage blanc sur le frais.
+Shrub or tree up to 8 m tall; trunk up to 11 cm in diameter, sometimes armed with spines; bark whitish; cut slightly red and grey on larger individuals, with a faint mustard oil odour; branchlets channelled, glabrous. Stipules very early caducous, 7.5 × 0.5 mm. Leaf: petiole 3–5 mm, glabrous, wrinkled and often darker than the branchlets and midvein when dry; blade obliquely ovate to elliptic, 7–20 × 4–9 cm, papyraceous, rounded at base on one side and often slightly cordate on the other, inserted on the petiole at two points 1–1.5 mm apart, acuminate for 1.2–3 cm, margin with very shallow, irregular teeth spaced 1–5 mm apart; midvein glabrous, slightly impressed above, yellowish below when dry, secondary veins 7 to 9 on each side, sometimes impressed above, raised below, characteristically yellowish when dry. Male inflorescence in the leaf axils, with 1 to 4 flowers; axis 10 × 0.2 mm. Male flower pendulous; pedicel 40–100 mm, glabrous; sepals 5, imbricate, suborbicular, 5 × 5 mm, yellowish-green, glabrous outside, rugose inside; stamens 25, obscurely arranged in a whorl around the margin of the disc, more or less inserted between the disc lobes, filament 0.5–0.7 mm; disc lobed, 4 mm in diameter, pubescent. Female inflorescence in the leaf axils, with 1(or 2) flowers. Female flower: pedicel 60–80 mm; sepals 5, suborbicular, 6–8 mm long, glabrous outside, shortly hairy inside; disc 5 mm in diameter, surrounding the base of the ovary; ovary globose or somewhat 2-lobed, 6 × 5 mm in diameter, 2-locular, densely pubescent with whitish hairs reaching 0.2 mm; style 2 mm, 2-branched, fused part 0.5–1 mm, stigma broadly obovate or flabellate, 1.5 × 3 mm. Fruit ellipsoid, 1.8–2 × 1.2 cm, orange, finely rugose, very sparsely pubescent, 2-locular; sepals caducous; pedicel 45–70 mm, glabrous. Seed 12–14 × 7–9 mm, surrounded by white mucilage when fresh.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, continental Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic and Angola; in Gabon: Estuaire, Ngounié, Nyanga and Ogooué-Ivindo
 
-Nigéria, Cameroun, Guinée équatoriale continentale, Gabon, République du Congo, République Centrafricaine et Angola ; au Gabon : Estuaire, Ngounié, Nyanga et Ogooué-Ivindo
-
-Habitat : Forêts primaires et secondaires sempervirentes et semi-sempervirentes de terra firme, à la fois à espèces mixtes ou en forêt monodominante à Gilbertiodendron dewevre, occasionnellement le long des ruisseaux ; au Gabon à 150–900 m d'altitude, ailleurs à 1000 m.
+Habitat: Primary and secondary evergreen and semi-evergreen terra firme forests, in both mixed-species forest or monodominant forest of Gilbertiodendron dewevrei, occasionally along streams; in Gabon at 150–900 m altitude, elsewhere at 1000 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Malgré la forme variable des feuilles, c'est l'une des espèces les plus faciles à identifier sur le terrain ou en herbier. L'odeur de l'huile de moutarde associée à des feuilles larges et glabres avec un point d'insertion du limbe inégal sur le pétiole, aux pétioles sombres et aux nervures médianes et secondaires jaune pâle sont une combinaison subtile, mais unique
+Despite the variable leaf shape, this is one of the most easily identified species in the field or in herbarium. The mustard oil odour associated with broad, glabrous leaves with an unequal point of blade insertion on the petiole, dark petioles and pale yellow midveins and secondary veins form a subtle but unique combination
 
 ## Bibliography
 

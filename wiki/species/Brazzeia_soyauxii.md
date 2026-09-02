@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 218 (1908); A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, Forêt Bois Gabon : 83 (1917); ENGL.,
 
 Pflanzenw. Afr. 3 (2) : 473 (1921); KEAY, FWTA, ed. 2, 1 (2) : 300 (1958); LETOUZEY,
@@ -29,7 +27,7 @@ Adansonia, ser. 2, 1 (1) : 133 (1961); GERMAIN, FCB 10 : 321 (1963).
 
 — Erythropyxis soyauxii (Oliv.) Engl., Bot. Jahrb. 32 : 103 (1902).
 
-— Erythropyxis scandens PIERRE, Bull. Soc. Linn. Paris 2 : 1266 (1896) (« Erytropyxis »).
+— Erythropyxis scandens PIERRE, Bull. Soc. Linn. Paris 2 : 1266 (1896) ("Erytropyxis").
 
 — Brazzeia scandens (Pierre) V. Tiegh., l.c. : 356 (1905).
 

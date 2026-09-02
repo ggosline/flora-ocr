@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine with rusty pubescent branches. Petiole with ± abundant rusty pubescence, 0.4–1.5 cm long. Leaf blade yellowish-green ± glossy above and rusty-yellow below, very strongly rusty-pubescent on the lower surface and glabrous on the upper surface, elliptic or lanceolate, 18–11 × 10–5.5 cm; base rounded to shortly cuneate and apex weakly acuminate. Midvein ± pubescent above and salient pubescent below. Secondary veins 5–7 pairs, ascending, arched, anastomosing 1–2 mm from the limb margin, salient on the upper surface and salient pubescent on the lower surface. Veinlets in a fairly lax network, barely visible on both surfaces (sometimes salient on the lower surface). Tendrils pubescent.
 
-Liane à rameaux pubescents roux. Pétiole à pubescence rousse ± grande, long de 0,4-1,5 cm. Limbe vert jaunâtre ± luisant dessus et jaune roussâtre dessous, très fortement pubescent roux à la face inférieure et glabre à la face supérieure, elliptique ou lancéolé, 18-11 × 10-5,5 cm; base arrondie à courtement cunéiforme et sommet faiblement acuminé. Nervure médiane ± pubescent dessus et saillante pubescente dessous. Nervures secondaires 5-7 paires, ascendantes, arquées, s'anastomosant à 1-2 mm du bord du limbe, saillantes à la face supérieure et saillantes pubescentes à la face inférieure. Nervilles en réseau assez lâche, peu visibles sur les deux faces (parfois saillant à la face inférieure). Vrilles pubescentes.
+Inflorescence in a corymbiform panicle in both sexes. Rachis strongly pubescent. Flower ♂ pentamerous. Pedicel articulate. Calyx with 5 narrowly lanceolate sepals pubescent on the outer surface and glabrous on the inner surface. Corolla with 5 lanceolate petals, strongly pubescent externally and glabrous internally, free. Stamens with short ± erect filament; anthers with 2 lobes with longitudinal dehiscence slits. Ovary aborted reduced to a tuft of hairs. Flower ♀ unknown.
 
-Inflorescence en panicule corymbiforme dans les deux sexes. Rachis fortement pubescent. Fleur ♂ pentamère. Pédicelle articulé. Calice à 5 sépales
-
-étroitement lancéolés pubescents à la face externe et glabres à la face interne. Corolle à 5 pétales lancéolés, fortement pubescents extérieurement et glabres intérieurement, libres. Étamines à filet court ± dressé; anthères à 2 loges à fentes de déhiscence longitudinales. Ovaire avorté réduit à une touffe de poils. Fleur ♀ inconnue.
-
-Drupe ellipsoïde, pubescente, de  $ 1,2 \times 0,8 $ cm, à surface réticulée marquée de 2 fortes côtes. Endocarpe ligneux. PL. 2, 1-5, p. 9.
+Drupe ellipsoid, pubescent, $ 1.2 \times 0.8 $ cm, with reticulate surface marked by 2 strong ribs. Endocarp woody. PL. 2, 1–5, p. 9.
 
 ## Type
 
@@ -33,9 +29,7 @@ Staudt 557, Cameroun (holo-, B, delei.; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que du Cameroun.
+This species is known only from Cameroon.
 
 ## Specimens examined
 

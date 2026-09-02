@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Figure 4(A, B)
 
 ## Type
@@ -26,29 +24,21 @@ Gabon, Ogooué-Lolo, Makande surroundings, about 65 km SSW of Booué, c. 0°41'S
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Diagnosis: Similar to M. camerounensis Keraudren but differing in the longer and narrower sepals (3 mm in M. camerounensis vs. 5 mm in M. breteleri) and in its chloroplast DNA sequences (maturase K gene: 6 positions difference M. breteleri - M. camerounensis). Similar also to M. silvatica Jongkind but differs in 11 positions of the maturase K gene and in leaf shape (see also Schaefer & Renner 2010a).
 
-Herbe grimpante, probablement dioïque. Vrilles simples. Feuille: pétiole 2–4 cm; limbe ovale-cordiforme, entier, de 5–9 × 4,5–7 cm, acuminé au sommet, cordé à la base, subcorriace, scabre sur les deux faces, vert pâle, réseau des nervures tertiaires bien marqué à la face inférieure. Fleur mâle inconnue. Fleur femelle : sépales étroitement elliptiques-ovales, de 5 × 1 mm, aigus au sommet; pétales blancs. Fruit étroitement obovoïde, de 10–12 × 3–4 cm, plutôt brusquement rétréci à la base, légèrement acuminé au sommet, indéhiscent, jaune à brun, lisse, à nombreuses graines ennoyées dans une pulpe. Graine de 8–10 × 8 × 4–5 mm, à testa brun olive, sculpté.
+Climbing herb, probably dioecious. Tendrils simple. Leaf: petiole 2–4 cm; lamina ovate-cordate, entire, 5–9 × 4.5–7 cm, acuminate at apex, cordate at base, subcoriaceous, scabrous on both surfaces, pale green, tertiary vein network well-marked on the lower surface. Male flower unknown. Female flower: sepals narrowly elliptic-ovate, 5 × 1 mm, acute at apex; petals white. Fruit narrowly obovoid, 10–12 × 3–4 cm, rather abruptly narrowed at base, slightly acuminate at apex, indehiscent, yellow to brown, smooth, with numerous seeds embedded in a pulp. Seed 8–10 × 8 × 4–5 mm, with olive-brown testa, sculptured.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connu d'un seul échantillon de l'Ogooué-Lolo (Makande)
+endemic to Gabon, known from a single specimen from Ogooué-Lolo (Makande)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt; à ±250 m d'altitude. Portant des boutons floraux et des fruits mûrs en février
+forest; at ±250 m altitude. Bearing flower buds and ripe fruits in February
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est nommée d'après le botaniste Frans J. Breteler (1932–), qui a récolté l'échantillon type
+This species is named after the botanist Frans J. Breteler (1932–), who collected the type specimen
 
 ## Figures
 

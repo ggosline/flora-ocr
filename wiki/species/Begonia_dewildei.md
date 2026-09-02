@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 9 cm de hauteur. Feuilles subpeltées ; pétiole de 0,5–6 cm, avec indument laineux ou feutré, poils bouclés ; limbe ± érigé sur le frais, non-bullé, symétrique, étroitement obovale à étroitement elliptique-obovale , 1,5–6 × 0,5–1,4 cm, sommet arrondi , marge avec quelques dents distantes et éparses, face supérieure sans poils longs. Inflorescence : pédoncule 2,5–7(–9) cm, avec (1–)2–4 fleurs ♂ et 1 fleur ♀ à tépales blancs ou roses ; bractées 0,5–2 mm de longueur. Fleur ♂ : tépales 4,5–8,5 × 5–8 mm ; androcée à 7–13 étamines. Fleur ♀ : pédicelle à peine accrescent au stade fructifère ; tépales 3,5–7,5 × 5–9 mm ; ovaire (ailes incluses) globuleux à très largement obovoïde , 2–3,5 × 2–4,5 mm, sans poils longs, à 4 ailes largement ou transversalement largement elliptiques à obtriangulaires-obovales, 0,2–1,5 mm de largeur ; styles 4. Fruit globuleux à transversalement largement ellipsoïde , 2,5–3,5 × 2–4,5 mm ; rostre absent ou de 0,3(–0,7) mm.
+Plant reaching 9 cm in height. Leaves subpeltate; petiole 0.5–6 cm, with woolly or felted indument, curved hairs; blade ± erect when fresh, not bullate, symmetric, narrowly obovate to narrowly elliptic-obovate, 1.5–6 × 0.5–1.4 cm, apex rounded, margin with a few distant and scattered teeth, upper surface without long hairs. Inflorescence: peduncle 2.5–7(–9) cm, with (1–)2–4 ♂ flowers and 1 ♀ flower with white or pink tepals; bracts 0.5–2 mm in length. ♂ Flower: tepals 4.5–8.5 × 5–8 mm; androecium with 7–13 stamens. ♀ Flower: pedicel scarcely accrescent at the fruiting stage; tepals 3.5–7.5 × 5–9 mm; ovary (wings included) globose to very broadly obovoid, 2–3.5 × 2–4.5 mm, without long hairs, with 4 wings broadly or transversely broadly elliptic to obtriangular-obovate, 0.2–1.5 mm in width; styles 4. Fruit globose to transversely broadly ellipsoid, 2.5–3.5 × 2–4.5 mm; beak absent or 0.3(–0.7) mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique dans les Monts Doudou, au sud-ouest du Gabon ; stations originales réduites ; espèce rare
+endemic to the Doudou Mountains, south-western Gabon; original stations reduced; species rare
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur parois rocheuses verticales, moussues et parfois relativement sèches, dans la forêt primaire submontagnarde ; 600–700 m d’altitude. B : Sosef (1992a), Sosef (1994). IBLIOGRAPHIE
+on vertical rocky walls, mossy and sometimes relatively dry, in submontane primary forest; 600–700 m elevation. B: Sosef (1992a), Sosef (1994). BIBLIOGRAPHY
 
 ## Notes
 

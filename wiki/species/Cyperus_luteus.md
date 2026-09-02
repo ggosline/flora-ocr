@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, assez robuste, à tiges épaissies à la base et issues d’un rhizome court ou peu distinct ; tiges de 30‒100 cm × 1‒6 mm, trigones, glabres. Feuilles toutes près de la base ; gaine verte ou violet clair en haut, violet foncé près de base ; principaux limbes de 20‒50 cm × 3‒10 mm , plans, scabres au moins sur la marge et les nervures principales. Inflorescence en simple anthèle large jusqu’à environ 20 cm , formée d’un épi sessile et de 1‒11 épis sur des rayons longs de 0,5‒11 cm (parfois tous les épis subsessiles) ; bractées involucrales 5‒9, foliacées, dressées ou étalées, la principale de 15‒40 cm × 3‒8 mm ; épis de 1‒3 × 1‒3 cm , avec 10‒30 épillets étalés. Épillet linéaire à linéaire–
-
-lancéolé, de 5‒17 × 1‒2 mm , à 5‒10 fleurs, tombant entiers à maturité ; glumes ovales à lancéolées–elliptiques, longues de 3,5‒6 mm , vertes avec ou sans une teinte brune dorée ou rougeâtre et une nervure centrale indistincte. Fleur : à 3 étamines ; style à 3 branches. Akène linéaire–ellipsoïde, de 2,5‒3,5 × 0,6‒0,9 mm , triangulaire, gris à brun, à surface lisse ou finement papilleuse.
+Perennial herb, fairly robust, with stems thickened at the base and arising from a short or poorly distinct rhizome; stems 30–100 cm × 1–6 mm, trigonous, glabrous. Leaves all near the base; sheath green or pale violet at the apex, dark violet near the base; main blades 20–50 cm × 3–10 mm, flat, scabrous at least on the margin and main veins. Inflorescence in a simple anthela up to about 20 cm wide, formed of a sessile spike and 1–11 spikes on rays 0.5–11 cm long (sometimes all spikes subsessile); involucral bracts 5–9, foliaceous, erect or spreading, the main one 15–40 cm × 3–8 mm; spikes 1–3 × 1–3 cm, with 10–30 spikelets spreading. Spikelet linear to linear–lanceolate, 5–17 × 1–2 mm, with 5–10 flowers, falling entire at maturity; glumes ovate to lanceolate–elliptic, 3.5–6 mm long, green with or without a golden brown or reddish tint and an indistinct central vein. Flower: with 3 stamens; style with 3 branches. Achene linear–ellipsoid, 2.5–3.5 × 0.6–0.9 mm, triangular, grey to brown, with a smooth or finely papillose surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale et à Madagascar ; apparemment rare au Gabon, trouvée seulement dans l’Ogooué-Maritime
+widely distributed in tropical Africa and Madagascar; apparently rare in Gabon, found only in Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies et les forêts ouvertes, souvent en lisière des forêts et dans les forêts secondaires, aussi mauvaise herbe des cultures et des bords de route ; à 0‒2200 m d’altitude. Note taxonomique : proche de C. cyperoides , mais c’est souvent une plante plus grande avec des feuilles plus larges, des épis plus grands et des glumes plus longues. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+in grasslands and open forests, often along forest margins and in secondary forests, also a weed of cultivated areas and roadsides; at 0–2200 m altitude. Taxonomic note: close to C. cyperoides, but often a larger plant with wider leaves, larger spikes and longer glumes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
 ## Notes
 

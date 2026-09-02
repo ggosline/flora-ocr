@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, Bol. Soc. Brot., sér. 2, 30 : 5 (1956).
 
-Rhizome longuement rampant, à frondes espacées, portant des écailles lancéolées, caduques, sans pseudo-nervure, formées de cellules toutes semblables, à paroi mince, lumière jaune clair. Pétiole long de 15-20 cm, foncé à la base, straminé plus haut, canaliculé, lisse, nu. Limbe deltoïde, pentagonal, long de 20-25 cm sur autant de large, tripenné-quadripinnatifide. Pennes inférieures longuement pétiolées, alternes, développées basiscopiquement, deltoïdes, longues d'environ 15 cm. Pennes moyennes alternes,
+Rhizome long-creeping, with fronds distant, bearing lanceolate, caducous scales, without pseudo-nerve, formed of cells all similar, with thin walls, pale yellow in color. Petiole 15–20 cm long, dark at the base, stramineous above, channeled, smooth, naked. Blade deltoid, pentagonal, 20–25 cm long and as wide, tripinnate-quadripinnatifid. Lower pinnae long-petiolate, alternate, developed basioscopically, deltoid, approximately 15 cm long. Middle pinnae alternate,
 
-pétiolées, espacées d'environ 4 cm, les supérieures longues de 4-5 cm. Pinnules alternes, pétiolées, à contour deltoïde, obtuses, les plus longues atteignant 5 cm, divisées en pinnules de  $ 2^{e} $ ordre, oblongues, obtuses, lobées, ou profondément pinnatipartites. Rachis nu. Nervures pennées dans les lobes. Sores occupant environ la moitié de la longueur du limbe. Spores...
+petiolate, spaced approximately 4 cm apart, the upper ones 4–5 cm long. Pinnules alternate, petiolate, deltoid in outline, obtuse, the longest reaching 5 cm, divided into second-order pinnules, oblong, obtuse, lobed, or deeply pinnatipartite. Rachis naked. Veins pinnate in the lobes. Sori occupying approximately half the length of the blade. Spores...
 
 ## Type
 
@@ -37,11 +35,9 @@ Taylor 3337, Budonga, Ouganda (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Nigeria, Cameroon, Congo.
 
-Guinée, Nigeria, Cameroun, Congo.
-
-Sous-bois dégagé et assez éclairé. — Soudan, Côté-d'Ivoire, Ghana, Nigeria, Ouganda, Congo, Mozambique. — Au Gabon : Le Testu 1577, Tchibanga.
+Open, fairly well-lit understorey. — Sudan, Côte-d'Ivoire, Ghana, Nigeria, Uganda, Congo, Mozambique. — In Gabon: Le Testu 1577, Tchibanga.
 
 ## Specimens examined
 

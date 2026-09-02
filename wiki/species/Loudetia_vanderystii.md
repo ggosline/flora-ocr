@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb in small tufts, culms up to 30 or 50 cm tall; sheaths persistent at the base of culms, leaf blades linear narrow, often rolled, reaching 30 cm long and 2 mm wide.
 
-Herbe pérenne en petites touffes, chaumes jusqu'à 30 ou 50 cm de haut; gaines persistantes à la base des chaumes, limbes foliaires linéaires étroits, souvent enroulés, atteignant 30 cm de long et 2 mm de large.
+Panicle spiciform dense 10 to 15 mm in diameter. Spikelets erect 8 to 9 mm long. Lower glume reaching 3/4 of the length of the spikelet, pubescent with tuberculate hairs along the lateral nerves. Upper glume as long as the spikelet, pubescent in the same way in its upper part, or glabrous. Lower floret male with lemma as long as the spikelet, glabrous, with linear palea, erose or truncate, membranous. Upper floret with callus erose 1/2 mm long; lemma scarcely bilobed, with 7 nerves, pubescent; awn 15 to 20 mm, linear palea.
 
-Panicule spiciforme dense de 10 à 15 mm de diamètre. Épillets dressés de 8 à 9 mm de long. Glume inférieure atteignant 3/4 de la longueur de l'épillet, pubescente à poils tuberculés le long des nervures latérales. Glume supérieure aussi longue que l'épillet, pubescente de la même façon dans sa partie supérieure, ou glabre. Fleur inférieure mâle à lemma aussi longue que l'épillet, glabre, à paléa linéaire, émarginée ou tronquée, membraneuse. Fleur supérieure à callus émarginé de 1/2 mm de long; lemma à peine bilobée, à 7 nervures, pubescente; arête de 15 à 20 mm, paléa linéaire.
-
-Espèce signalée dans le Bas-Congo, le Kwango et au Gabon. Elle croît sur des sables lessivés blancs; sans intérêt fourrager.
+Species recorded from Lower Congo, the Kwango and in Gabon. It grows on bleached leached sands; of no forage value.
 
 ## Specimens examined
 

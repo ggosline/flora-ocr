@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 10 (D) Gen. Hist. 3: 717 (1834). Lobelia longiflora L., Sp. pl . 2 : 930 (1753). Herbe dressée, 10–50 cm de hauteur ; tige simple ou peu ramifiée, pubescente. Feuilles sessiles , étroitement elliptiques à oblancéolées, 3–18 × 1–5 cm, atténuées à la base, aigües au sommet, peu à densément pubescentes. Fleur à pédicelle de 3–15 mm, pubescente ; bractéoles insérées à la base du pédicelle, filiformes ; hypanthium obconique, pubescent ; calice à lobes linéaires à étroitement triangulaires, 8–20 mm de longueur, pubescents, denticulés ; corolle blanche, pubescente, tube 6–15 cm de longueur, lobes de la corolle lancéolés, 15–20 mm de longueur ; anthères à tube de 4–6 mm de longueur. Fruit ellipsoïde, 10–20 mm de longueur, pendant . Graines elliptiques-oblongues, environ 0,8 mm de longueur, réticulées, marron.
+Plate 10 (D) Gen. Hist. 3: 717 (1834). Lobelia longiflora L., Sp. pl. 2: 930 (1753). Erect herb, 10–50 cm in height; stem simple or little-branched, pubescent. Leaves sessile, narrowly elliptic to oblanceolate, 3–18 × 1–5 cm, attenuate at the base, acute at the apex, sparsely to densely pubescent. Flower with pedicel 3–15 mm, pubescent; bracteoles inserted at the base of the pedicel, filiform; hypanthium obconic, pubescent; calyx with lobes linear to narrowly triangular, 8–20 mm in length, pubescent, denticulate; corolla white, pubescent, tube 6–15 cm in length, corolla lobes lanceolate, 15–20 mm in length; anthers with tube 4–6 mm in length. Fruit ellipsoid, 10–20 mm in length, pendulous. Seeds elliptic-oblong, approximately 0.8 mm in length, reticulate, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-indigène aux Antilles, mais introduite et naturalisée en régions tropicales ; au Gabon, elle est connue de la province de la Ngounié
+indigenous to the Antilles, but introduced and naturalized in tropical regions; in Gabon, it is known from Ngounié Province
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mauvaise herbe de jardins, peut-être anciennement introduite comme ornementale. Usage : le latex de la plante est très toxique. B : Mcvaugh (1940). i B liographie
+weed of gardens, perhaps formerly introduced as an ornamental. Use: the latex of the plant is highly toxic. B: Mcvaugh (1940). Bibliography
 
 ## Notes
 

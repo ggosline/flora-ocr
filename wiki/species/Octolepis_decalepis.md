@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Pearson in Thiselton-Dyer, F.T.A. 6 (1): 253 (1910). — Gilg, in Engl., Pflanzw. Afr. 3 (2): 627 (1921). — Staner, Bull. Jard. Bot. Brux. 13 (4): 325 (1935). — Keay, in Hutchinson and Dalziel, F.W.T.A., 2nd ed. 1 (1): 173 (1954).
 
-— Pearson dans Thiselton-Dyer, F.T.A. 6 (1) : 253 (1910). — Gilg, dans Engl., Pflanzw. Afr. 3 (2) : 627 (1921). — Staner, Bull. Jard. Bot. Brux. 13 (4) : 325 (1935). — Keay, dans Hutchinson et Dalziel, F. W.T.A., 2e éd. 1 (1) : 173 (1954).
+Shrub or small tree, 1–3 m, with grey or red bark, reticulate-striate longitudinally, lenticellate, pubescent on young branches, glabrous subsequently, fibrous. Leaves moderate-sized, with thick petiole, pubescent-reddish or wrinkled. Limb 10–12 × 4–5 to 15–18 × 6–8 cm, oblong-lanceolate, with greatest width situated towards the distal third in general, acuminate or apiculate at the apex, gradually attenuate towards the base, sometimes abruptly narrowed near the petiole giving two slight auricles. Venation nearly identical to that of O. casearia.
 
-Arbrisseau ou arbuste, 1-3 m, à écorce grise ou rouge, réticulée-striée longitudinalement, lenticellée, pubescente sur les
+Flowers pentamerous (a small percentage tetramerous); 5 sepals triangular, lanceolate, rounded or somewhat apiculate at the apex, densely pubescent on both surfaces, ciliate-reddish externally; 10 petals (accidentally 8–12), reduced to white squamiform tongues, 1–3 mm by 1 mm, densely ciliate above; 10 stamens alternate with the petal lobes, filaments as long as the sepals, enlarged and ciliate at the base, glabrous at the apex; anthers globular or somewhat ovate, 0.5 mm. Ovary pubescent-hirsute; style short, stigma somewhat thickened.
 
-jeunes rameaux, glabre ensuite, fibreuse. Feuilles moyennes, à pétiole épais, pubescent-roussâtre ou rugueux. Limbe de 10-12 × 4-5 à 15-18 × 6-8 cm, oblong lancéolé, à grande largeur située vers le tiers distal en général, acuminé ou apiculé au sommet, progressivement atténué vers la base, quelquefois brusquement rétréci près du pétiole en donnant deux oreillettes peu marquées. Nervation à peu près identique à celle de O. casearia.
+Capsular fruit, dehiscent; seeds 8 mm, pubescent-ciliate, with black testa.
 
-Fleurs pentamères (un faible pourcentage de tétramères); 5 sépales triangulaires, lancéolés, arrondis ou un peu apiculés au sommet, densément pubescents sur les deux faces, ciliés-roussâtes extérieurement; 10 pétales (accidentellement 8-12), réduits à des languettes squamiformes blanches, de 1-3 mm sur 1 mm, densément ciliées supérieurement; 10 étamines alternes avec les lobes des pétales, à filets aussi longs que les sépales, élargis et ciliés à la base, glabres au sommet; anthères globuleuses ou un peu ovales, de 0,5 mm. Ovaire pubescent-hirsute; style court, stigmate un peu épaissi.
-
-Fruit capsulaire, déhiscent; graines de 8 mm, pubescentesciliées, à testa noire.
-
-Types du Libéria (Dinklage 1741, 1880, 2044).
+Types from Liberia (Dinklage 1741, 1880, 2044).
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, vivace, à tiges solitaires à distances de 1‒3 cm le long des stolons ; stolons de 10 + cm × 2‒8 mm, souvent ligneux, couverts d’écailles noirâtres ou violettes ; tiges 80‒160 cm × 3‒12 mm en bas, 1‒3 mm de large sous l’inflorescence, arrondies, remplies de moelle avec des cloisons transversales à intervalles de 5‒50 mm (les anneaux sont plus visibles à l’état sec en raison du rétrécissement de la moelle) ; base des tiges renflée et ligneuse. Feuille : partie inférieure de la tige recouverte par 3‒5 gaines foliaires sans limbes. Inflorescence terminale, en anthèle composée, lâche, large de 4‒15 cm , avec 1‒3 fascicules sessiles et 2‒10 fascicules pédonculés ou des ombelles de fascicules secondaires sessiles et pédonculés ; rayons primaires longs de 1‒12 cm ; bractées écailleuses, longues seulement de 5‒15 mm. Épillet linéaire, de 5‒50 × 1‒2 mm , un peu aplati, à 20‒50 fleurs ; glumes ovales, longues de 2,7‒4 mm , brun rougeâtre (les jeunes jaune paille) avec une nervure centrale plus pâle ; sommet arrondi. Fleur : style à 3 longues branches. Akène elliptique, de 1,2‒1,7 × 0,3‒0,5 mm , triangulaire, apiculé, d’abord jaune grisâtre, puis brun rougeâtre à brun olive foncé à maturité, à surface lisse.
+Robust perennial herb, with solitary stems at intervals of 1–3 cm along the stolons; stolons 10 + cm × 2–8 mm, often woody, covered with blackish or purple scales; stems 80–160 cm × 3–12 mm at base, 1–3 mm wide below the inflorescence, rounded, filled with pith with transverse septa at intervals of 5–50 mm (the rings are more visible in the dry state due to shrinkage of the pith); base of stems swollen and woody. Leaf: lower part of stem covered by 3–5 leaf sheaths without blades. Inflorescence terminal, in a compound loose anthela, 4–15 cm wide, with 1–3 sessile fascicles and 2–10 pedunculate fascicles or umbels of secondary fascicles sessile and pedunculate; primary rays 1–12 cm long; scaly bracts, only 5–15 mm long. Spikelet linear, 5–50 × 1–2 mm, slightly flattened, with 20–50 flowers; glumes ovate, 2.7–4 mm long, reddish brown (young ones straw-yellow) with a paler central nerve; apex rounded. Flower: style with 3 long branches. Achene elliptic, 1.2–1.7 × 0.3–0.5 mm, triangular, apiculate, at first greyish yellow, then reddish brown to dark olive brown at maturity, with smooth surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales des deux hémisphères ; au Gabon, commune les long des côtes, peu commune ou méconnue ailleurs et trouvée dans l’Estuaire, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Maritime (8 récoltes)
+widely distributed in the tropical regions of both hemispheres; in Gabon, common along the coasts, uncommon or poorly known elsewhere and found in Estuaire, Nyanga, Ogooué-Ivindo and Ogooué-Maritime (8 collections).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les eaux stagnantes, souvent au bord des mares, des marécages et des lagunes, occasionnellement dans les eaux jusqu’à 1 m de profondeur ; au Gabon, à 0‒600 m d’altitude, jusqu’à 1700 m en Afrique de l’Est
+in stagnant waters, often at the edge of pools, marshes and lagoons, occasionally in waters up to 1 m deep; in Gabon, at 0–600 m altitude, up to 1700 m in East Africa.
 
 ## Vernacular names
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — FTA 4 (1) : 542. — FWTA ed. 1, 2 : 18. — LEEU-WENBERG, 1. c : 34, fig. 15, 1-3. — FWTA ed. 2, 2 : 37.
 
-Liane ou arbre de 6-15 m de hauteur (selon EXELL & LETOUZEY), sans épines; petits rameaux carrés à l'état sec.
+Liana or tree 6-15 m tall (according to EXELL & LETOUZEY), unarmed; small branchlets square when dry.
 
-Feuilles pétiolées; pétiole court, de 1-3 cm de longueur; limbe elliptique à étroitement obové, 1,7-2,2 fois plus long que large, de 6-20 × 2,5-11 cm, apiculé ou arrondi au sommet, cuné à la base ou décurrent sur le pétiole; nervures indistinctes.
+Leaves petiolate; petiole short, 1-3 cm long; blade elliptic to narrowly obovate, 1.7-2.2 times longer than broad, 6-20 × 2.5-11 cm, apiculate or rounded at the apex, cuneate at the base or decurrent on the petiole; nerves indistinct.
 
-Sépales très grands, orbiculaires, de 2-3 cm de longueur, arrondis, non étalés, déchirés par le développement de la corolle. Corolle dans le bouton mûr 2,5 fois plus longue que le calice, de 4,5-7,5 cm de longueur et comme le jeune bouton cunée au sommet, blanche; tube 1-1,75 fois plus long que le calice et 0,8-1,5 fois plus long que les lobes; 11-17 (-28) lobes oblongs, étalés.
+Sepals very large, orbicular, 2-3 cm long, rounded, not spreading, torn by the development of the corolla. Corolla in the mature bud 2.5 times longer than the calyx, 4.5-7.5 cm long and like the young bud cuneate at the apex, white; tube 1-1.75 times longer than the calyx and 0.8-1.5 times longer than the lobes; 11-17 (-28) oblong lobes, spreading.
 
-Baies subglobuleuses, de  $ 4.5 \times 4 $ cm, apiculées ou non, ruguleuses et souvent bossuées à l'état sec, à paroi épaisse. Pl. 3, 1-3, p. 18.
+Berries subglobose, 4.5 × 4 cm, apiculate or not, rugose and often tuberculate when dry, with thick wall. Pl. 3, 1-3, p. 18.
 
 ## Type
 
@@ -35,9 +33,7 @@ Mann 623, Pic de Clarence, Fernando Po (holotype : K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Fernando Po et São Tomé. Forêts de montagne. Altitude 1 200-2 100 m.
+Cameroon, Fernando Po and São Tomé. Mountain forests. Altitude 1,200-2,100 m.
 
 ## Specimens examined
 

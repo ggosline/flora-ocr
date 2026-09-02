@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 FTA 4 (1) : 506 — LEEUWENBERG, l. c. : 10, fig. 2, 10-20. — FWTA ed. 2, 2 : 45.
 
 — M. stimulans A. CHEV., C. R. Acad. Sci. Paris 223: 768 (1946); Rev. Bot. Appl. 27: 106, pl. VI (II) (1947).
 
-Arbuste ou sous-arbuste de 0,30-1,50 m de hauteur; petits rameaux hirsutes, puis glabrescents.
+Shrub or undershrub 0.30–1.50 m tall; small branchlets hirsute, then glabrescent.
 
-Feuilles à limbe de forme et de grandeur variables, étroitement elliptique, ové ou obové, de 6-70 × 4-35 mm, parfois plus petit, aigu, obtus, ou arrondi au sommet, souvent apiculé à l'extrémité, parfois obliquement cuné ou arrondi à la base, hérissé-pileux sur les deux faces, surtout en dessous, cilié.
+Leaves with blade of variable form and size, narrowly elliptic, ovate or obovate, 6–70 × 4–35 mm, sometimes smaller, acute, obtuse, or rounded at apex, often apiculate at the tip, sometimes obliquely cuneate or rounded at base, setose-pilose on both surfaces, especially below, ciliate.
 
-Inflorescences terminales à rameaux latéraux, très courtes, uni- à triflores. Sépales étroitement ou très étroitement ovés, de  $ 2.5-6 \times 0.7-1 $ mm, subulés, hirsutes à l'extérieur. Corolle blanche, jaune à la base, de 8-14 mm de longueur.
+Terminal inflorescences with lateral branches, very short, one- to three-flowered. Sepals narrowly or very narrowly ovate, 2.5–6 × 0.7–1 mm, subulate, hirsute on the outside. Corolla white, yellow at the base, 8–14 mm long.
 
-Capsules bilobées, hirsutes avec poils de longueurs diverses.
+Capsules bilobed, hirsute with hairs of varying lengths.
 
 ## Type
 
@@ -36,31 +34,29 @@ Bates 429, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Congo-Kinshasa. Forest understory. Altitude 0–800 m.
 
-Cameroun, Gabon, Congo-Kinshasa. Sous-bois forestier. Altitude 0-800 m.
+Bates 290, Efulen (ster.) K; 429, eod. loc. (fl., Oct.) K (holotype), BM (isotype).
 
-Bates 290, Efulen (stér.) K; 429, eod. loc. (fl., oct.) K (holotype), BM (isotype).
+Breteler 1339, Djang, km 40 on road Bertoua–Nanga Eboko (fl., May) BR, M, P, S, WAG; 1388, 43 km NW Bertoua, on road Djang–Ebaka (fl., fr., May) WAG; 2677, Oveng, 27 km N Sangmélima, on road to Yaoundé (fl., fr., Mar.) P, WAG; 2750, 10 km S Nguélémendouka, on road to Doumé (fl., Apr.) BR, P, S, WAG.
 
-Breteler 1339, Djang, km 40 sur route Bertoua-Nanga Eboko (fl., mai) BR, M, P, S, WAG; 1388, 43 km NW Bertoua, sur route Djang-Ebaka (fl., fr., mai) WAG; 2677, Oveng, 27 km N Sangmélima, sur route de Yaoundé (fl., fr., mars) P, WAG; 2750, 10 km S Nguélémendouka, sur route de Doumé (fl., avr.) BR, P, S, WAG.
+De Wilde W. 2263, Lobo, 40 km NW Yaoundé (fl., Mar.) WAG.
 
-De Wilde W. 2263, Lobo, 40 km NW Yaoundé (fl., mars) WAG.
+Leeuwenberg 5431, 13 km N Lobo, 40 km NW Yaoundé (fl., fr., Apr.) P, WAG, YA; 6093, 7 km W Yokadouma, on track to Lomié (fl., Jul.) P, WAG; 6569, 3 km N Lomié (buds, immature fr., scept.) P, WAG; 6617, Bingongol, 5 km N Lomié (buds, fr., Sep.) P, WAG, YA; 7422, Ndjangané, 13 km S Ebaka, 40 km NW Bertoua (immature fr., Dec.) P, WAG.
 
-Leeuwenberg 5431, 13 km N Lobo, 40 km NW Yaoundé (fl., fr., avr.) P, WAG, YA; 6093, 7 km W Yokadouma, sur piste de Lomié (fl., juill.) P, WAG; 6569, 3 km N Lomié (boutons, fr. non mûrs, scept.) P, WAG; 6617, Bingongol, 5 km N Lomié (boutons, fr., sept.) P, WAG, YA; 7422, Ndjangané, 13 km S Ebaka, 40 km NW Bertoua (fr. non mûrs, déc.) P, WAG.
+Letouzey 1703 bis, Bamelap-Kak III (fr., Apr.) P, YA; 1840, Essong (fl., May) P, YA; 5138, 30 km NE Bangé, km 75 on road Yokadouma–Moloundou (fl., May) P, YA.
 
-Letouzey 1703 bis, Bamelap-Kak III (fr., avr.) P, YA; 1840, Essong (fl., mai) P, YA; 5138, 30 km NE Bangé, km 75 sur route Yokadouma-Moloundou (fl., mai) P, YA.
+Mildbraed 8579, near Deng Deng (fl., Mar.) K; 8579, eod. loc. (fl., Mar.) K; 8871, eod. loc. (fl., Apr.) K.
 
-Mildbraed 8579, près de Deng Deng (fl., mars) K; 8579, eod. loc. (fl., mars) K; 8871, eod. loc. (fl., avr.) K.
+Raynal J. & A. 10280, Bidjap, 32 km E Nyabessan (fl., fr., Mar.); 10292, eod. loc. (fl., Mar.) P, YA.
 
-Raynal J. & A. 10280, Bidjap, 32 km E Nyabessan (fl., fr., mars); 10292, eod. loc. (fl., mars) P, YA.
+Schlechter 12936, Nyassosso (fl., Jan.) BM, Z.
 
-Schlechter 12936, Nyassosso (fl., janv.) BM, Z.
+Breteler 6921, NE Mbinda (fl., Oct.) WAG.
 
-Breteler 6921, NE Mbinda (fl., oct.) WAG.
+Hallé N. 2977, Bélinga (fl., Nov.).
 
-Hallé N. 2977, Bélinga (fl., nov.).
-
-Hallé N. & Cours 5992, E. Moumba, environs Etéké (fl., fr., mai); 6012, eod. loc. (fr., mai).
+Hallé N. & Cours 5992, E. Moumba, environs Etéké (fl., fr., May); 6012, eod. loc. (fr., May).
 
 ## Notes
 

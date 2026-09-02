@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fleshy, elongate rhizome. Leaves arranged spirally on the lower part of the stem. Spike very dense. Flowers minute, resupinate. Labellum contracted near the middle, sessile; lower part cochleate-concave, apical region flat. Gynostemium erect. Column very short, fused to the margins of the labellum, without differentiated foot. Stigma entire, concave, formed from the lower part of the median lobe, the 2 lateral lobes vestigial. Rostellum elongate, subobtuse, erect. Viscidium ≤ half the rostellum, fragile. Remainder of rostellum deeply notched. Clinandrium rudimentary, with 2 free apical wings. Anther erect, lanceolate-cordate, acute. Pollinia sectile with short caudicles. Pollination has not been observed. – Pl. 25, p. 59.
 
-Rhizome charnu, allongé. Feuilles disposées en spirale sur la partie inférieure de la tige. Épi très dense. Fleurs minuscules, résupinées. Labelle contracté près du milieu, sessile ; partie inférieure cochéiforme-concave, région apicale plate. Gynostème érigé. Colonne très courte, soudée aux marges du labelle, sans pied différencié. Stigmate entier, concave, formé de la partie inférieure du lobe médian, les 2 lobes latéraux vestigiaux. Rostellum allongé, subobtus, dressé. Viscidie ≤ à la moitié du rostellum, fragile. Reste du rostellum profondément échancré. Clinandrium rudimentaire, avec 2 ailes apicales libres. Anthère érigée, lancéolée-cordée, aiguë. Pollinie sectile à caudicules courts. La pollinisation n'a pas été observée. – Pl. 25, p. 59.
+Monotypic genus currently known only from Gabon and Cameroon.
 
-Genre monotypique actuellement connu que du Gabon et du Cameroun.
-
-PL. 25. – Structure du gynostème du genre Halleorchis Szlach. & Olsz.: A, vue de la base ; B, reste du rostelle ; C, sommet des pollinies ; D, vue latérale ; E, vue de dessus ; F, anthère, vue de dessus – Halleorchis aspidogynoides Szlach. & Olsz.: G, fleur et bractée ; H, sépale dorsal ; I, pétale ; J, sépale latérale ; K, labelle vu de dessus ; L, labelle, vue latérale (A - L, Letouzey 12750, P)
+PL. 25. – Structure of the gynostemium of the genus Halleorchis Szlach. & Olsz.: A, view of the base; B, remainder of the rostellum; C, apex of the pollinia; D, lateral view; E, dorsal view; F, anther, dorsal view – Halleorchis aspidogynoides Szlach. & Olsz.: G, flower and bract; H, dorsal sepal; I, petal; J, lateral sepal; K, labellum viewed from above; L, labellum, lateral view (A – L, Letouzey 12750, P)
 
 ## Figures
 

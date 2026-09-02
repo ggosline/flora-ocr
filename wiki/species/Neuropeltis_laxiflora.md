@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small to medium-sized vine, climbing to 20 m high; stem up to 1 cm in diameter; branches with scattered, appressed hairs. Leaf: petiole 5–18 mm; limb obovate to elliptic, (4–)8–16 × (2–)4–7.5 cm, cuneate at base, acute to acuminate over 0.3–1 cm, sometimes obtuse to emarginate at apex, glabrous on both faces except sometimes a few hairs on the midvein beneath; lateral veins (5–)6–8 pairs. Inflorescence in few-flowered racemes united in a very lax panicle, up to 20 cm long, with scattered, ± appressed hairs; bract with limb ± as long as the calyx. Flower: pedicel 1–2 mm; calyx with elliptic sepals, 1.5–2 mm long; corolla 5 mm long, deeply lobed, lobes bearing scattered hairs externally; stamens with exsert anthers; pistil 2–3 mm long, glabrous; stigmas exsert. Fruit ovoid, 8–10 × 5–6 mm, glabrous, finely pustulous; bract enlarged, ovate, up to 5–6 × 6 cm, obtuse at base, rounded to slightly emarginate at the very thin apex, with small scattered, appressed hairs. Seeds ovoid, shining, approximately 7–9 × 5 cm.
 
-Liane petite à moyenne, s’élevant jusqu’à 20 m de hauteur ; tige jusqu’à 1 cm de diamètre ; rameaux à poils épars, apprimés. Feuille : pétiole 5–18 mm ; limbe obovale à
-
-Corolle étalée, face interne avec étamines. – 9. Gynécée. – 10. Fruit. – 11. Fruit, détail. (1–9 : Breteler et al. 14815 ; 10, 11 : A.M. Louis et al. 670 ). Dessin par Hans de Vries, Naturalis Biodiversity Center (©).
-
-elliptique, (4–)8–16 × (2–)4–7,5 cm, cunéé à la base, aigu à acuminé sur 0,3–1 cm, parfois obtus à émarginé au sommet, glabre sur les deux faces, sauf parfois quelques poils sur la médiane dessous ; nervures latérales (5–)6–8 paires. Inflorescence en racèmes pauciflores réunis en panicule très lâche , jusqu’à 20 cm de longueur, à poils épars, ± apprimés ; bractée à limbe ± aussi long que le calice. Fleur : pédicelle 1–2 mm ; calice à sépales elliptiques, 1,5–2 mm de longueur ; corolle 5 mm de longueur, profondément lobée, lobes portant extérieurement des poils clairsemés ; étamines à anthères exsertes ; pistil 2–3 mm de longueur, glabre ; stigmates exserts . Fruit ovoïde, 8–10 × 5–6 mm, glabre, finement pustuleux ; bractée élargie, ovale, jusqu’à 5–6 × 6 cm, obtuse à la base, arrondie à légèrement émarginée au sommet très mince, à petits poils épars, apprimés. Graines ovoïdes, luisantes, environ 7–9 × 5 cm.
+Corolla spreading, inner face with stamens. – 9. Gynoecium. – 10. Fruit. – 11. Fruit, detail. (1–9: Breteler et al. 14815; 10, 11: A.M. Louis et al. 670). Drawing by Hans de Vries, Naturalis Biodiversity Center (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon, où elle a été récoltée dans l’Estuaire, la Ngounié et l’Ogooué-Lolo
+Cameroon and Gabon, where it was collected in the Estuary, Ngounié and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; jusqu’à 660 m d’altitude. B : Breteler (2010). ibliographie
+Primary and secondarized forest; up to 660 m altitude. B: Breteler (2010). Bibliography
 
 ## Notes
 

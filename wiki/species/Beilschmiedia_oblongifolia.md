@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. Jard. bot. Ét. Brux., 19 : 466 (1949).
 
-Arbre de 25 m dont le fût de 70 cm de diamètre peut mesurer 15 m de haut, à rhytidome squameux brun-clair. Le type du Congo ex-belge est une essence orophile (alt. 1 400-2 000 m) à feuilles lancéolées aiguës, dessus olivâtre, dessous plus clair; longueur du limbe : 4-12 cm, largeur 1,5-4 cm. Fruit en poire de 2 cm de long sur 1 cm de large. Bois présentant un aubier jaune rosé avec cœur brun jaunâtre à reflets dorés.
+Tree of 25 m with a bole 70 cm in diameter measuring up to 15 m in height, with light brown squamose rhytidome. The type from ex-Belgian Congo is an orophilous essence (alt. 1,400–2,000 m) with acute lanceolate leaves, olivaceous above, lighter below; blade length: 4–12 cm, width 1.5–4 cm. Fruit pear-shaped, 2 cm long and 1 cm wide. Wood with a rosy-yellow sapwood with yellowish-brown heartwood with golden reflections.
 
 ## Type
 
@@ -28,9 +26,7 @@ Michelson 836 (BR) centre Congo ex-belge
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La plante gabonaise rapportée à cette espèce possède des feuilles plus grandes, longueur atteignant 15 cm et largeur 5 cm; de plus, elle croit en plaine.
+The Gabonese plant referred to this species has larger leaves, length reaching 15 cm and width 5 cm; moreover, it grows in the lowlands.
 
 ## Specimens examined
 

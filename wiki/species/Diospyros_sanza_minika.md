@@ -27,7 +27,7 @@ tags: [species]
 
 34. Diospyros Sanza-Minika A. Chevalier
 
-Veg. ut. Afr. trop fr. 5 : 155 (janv.I909).-F.WHITE,FWTA ed. 2,2 : 12,tab.202 B,5 (1963). -Diospyros nsambensis(α usambensis ）sphalm.)GURkE,Bot.Jahrb.43： 202 (mars I909).- PELLEGR., Fl. Mayombe 2 : 19 (1928). — Diospyros glaucescens GURkE，Bot. Jahrb. 46 ：I5I (IgII)，syn. nov.
+Veg. ut. Afr. trop fr. 5 : 155 (janv.I909).-F.WHITE,FWTA ed. 2,2 : 12,tab.202 B,5 (1963). -Diospyros nsambensis(α usambensis )sphalm.)GURkE,Bot.Jahrb.43: 202 (mars I909).- PELLEGR., Fl. Mayombe 2 : 19 (1928). — Diospyros glaucescens GURkE,Bot. Jahrb. 46 :I5I (IgII),syn. nov.
 
 Tree reaching 30-40 m in height and 0.6-1 m in diameter, with a straight bole
 and no buttresses at the base. Bark black, very regularly and deeply fissured,
@@ -93,9 +93,9 @@ near Sibiti (Farron 4403).
 
 ### Material studied in Cameroon
 
-Breteler，De Wilde,Leewenberg 26o3,4o km E Douala sur route d'Edéa (fl.δ,févr.). Busgen 463 (syntype de D. glaucescens Gurke)，pres Edéa (stér.) B. De Wilde W. 2173,5o km S. Badjob,soit 6o km SW Eseka, pres du Nyong (fl.δ,mars) WAG. Fleury s.n., sin. loc. (fr. seulement, juin?). Hedin 1556,km I2o sur chemin de fer Douala-Yaoundé (stér.).
+Breteler,De Wilde,Leewenberg 26o3,4o km E Douala sur route d'Edéa (fl.δ,févr.). Busgen 463 (syntype de D. glaucescens Gurke),pres Edéa (stér.) B. De Wilde W. 2173,5o km S. Badjob,soit 6o km SW Eseka, pres du Nyong (fl.δ,mars) WAG. Fleury s.n., sin. loc. (fr. seulement, juin?). Hedin 1556,km I2o sur chemin de fer Douala-Yaoundé (stér.).
 
-Huckstädt 93 (syntype de D. glaucescens Gurke)，pres Manoka (ster.) B. Leeuwenberg 5233，Kopongo (fl.δ,mars) WAG. Letouzey SRFCam I347,pres Bonépoupa (stér.) YA；SRFCam I479,Mangombé pres Edéa (stér.) YA. Mpom 95 (= SRFCam 2183)，forét de Mangombé pres Edéa (fl. ♀,mai); 168 (= SRFCam 2o2I)，eod.loc.(fl.δ?,janv.). Zenker 3534 (type de D. nsambensis (“ usambensis  sphalm.) Gurke), Nsambi pres Bipindi (fl.δ).
+Huckstädt 93 (syntype de D. glaucescens Gurke),pres Manoka (ster.) B. Leeuwenberg 5233,Kopongo (fl.δ,mars) WAG. Letouzey SRFCam I347,pres Bonépoupa (stér.) YA;SRFCam I479,Mangombé pres Edéa (stér.) YA. Mpom 95 (= SRFCam 2183),forét de Mangombé pres Edéa (fl. ♀,mai); 168 (= SRFCam 2o2I),eod.loc.(fl.δ?,janv.). Zenker 3534 (type de D. nsambensis (“ usambensis  sphalm.) Gurke), Nsambi pres Bipindi (fl.δ).
 
 ### Material studied in Gabon
 

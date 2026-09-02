@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, p.p. E. capitata R.Br., Prodr. 1 : 225 (1810). E. caribaea (Rottb.) S.F.Blake, Rhodora 20(230) : 24 (1918). Herbe annuelle ou vivace, formant des touffes denses ; tiges de 15‒50 cm × 0,6‒1 mm à la fructification , striées irrégulièrement. Feuille : gaine grise, violette en bas, se terminant par un court lobe aigu triangulaire avec une marge hyaline plus mince. Inflorescence en épillet unique ; bractées écailleuses, verdâtres, couvrant entièrement les glumes des jeunes bourgeons. Épillet globuleux devenant ovoïde, de 3‒15 × 2‒3,5 mm ; glumes longues de 1,6‒2,3 mm, arrondies au sommet, grisâtres en bas, brunes au-dessus, nervure centrale faible, parfois verdâtre, marge habituellement un peu effilochée, sans marge hyaline distincte. Fleur : périanthe à 4‒7 soies presque lisses, roses, dépassant l’akène ; étamines 1‒3, filets persistants souvent à la fructification ; style à 2 branches. Akène obovale, de 0,8‒1 × 0,5‒0,7 mm, violet noirâtre, lisse et brillant ; appendice très court de 0,1‒0,2 mm, conique, blanc grisâtre.
+, p.p. E. capitata R.Br., Prodr. 1 : 225 (1810). E. caribaea (Rottb.) S.F.Blake, Rhodora 20(230) : 24 (1918). Annual or perennial herb, forming dense tufts; stems 15–50 cm × 0.6–1 mm at fruiting, irregularly striated. Leaf: sheath grey, violet at base, terminating in a short acute triangular lobe with a thinner hyaline margin. Inflorescence in a single spikelet; scaly bracts, greenish, entirely covering the glumes of young buds. Spikelet globose becoming ovoid, 3–15 × 2–3.5 mm; glumes 1.6–2.3 mm long, rounded at apex, greyish at base, brown above, central nerve weak, sometimes greenish, margin usually somewhat frayed, without distinct hyaline margin. Flower: perianth with 4–7 nearly smooth bristles, pink, exceeding the achene; stamens 1–3, filaments often persistent at fruiting; style with 2 branches. Achene obovate, 0.8–1 × 0.5–0.7 mm, dark violet, smooth and shiny; appendage very short, 0.1–0.2 mm, conical, greyish white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les régions tropicales de l’Afrique, de l’Amérique et de l’Asie, aussi en Afrique du Sud ; au Gabon, assez commune dans l’Estuaire et l’Ogooué-Maritime, mais non récoltée dans les autres provinces (14 récoltes)
+widely distributed in tropical regions of Africa, America and Asia, also in South Africa; in Gabon, fairly common in the Estuary and Ogooué-Maritime, but not collected in other provinces (14 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in shallow waters at the edge of mangroves; in Gabon, near sea level and at low altitude, up to 1130 m in East Africa. Taxonomic note: recognized by its dark and smooth achenes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1995, 1997)
 
-dans les eaux peu profondes en bordure des mangroves ; au Gabon, près du niveau de la mer et à basse altitude, jusqu’à 1130 m en Afrique de l’Est. Note taxonomique : se reconnaît à ses akènes foncés et lisses. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1995, 1997)
-
-Fruit avec filets et segments du périanthe. Dessin périanthe. Dessin original par Richard W. Haines ©. original par Richard W. Haines ©.
+Fruit with filaments and perianth segments. Perianth drawing. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

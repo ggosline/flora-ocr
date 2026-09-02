@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with sparse branching, erect to 1.50 m; branchlets 4-angular-obtuse, sparsely and briefly strigose, more densely so on young parts and angles. Leaves with slender petiole, 1 to 2 cm long, strigose; blade 3.5-5 × 7-10 cm, ovate-lanceolate to broadly cuneate or rounded at base, acute or subacuminate at apex; hairs very short and appressed above; longer and somewhat stiffly hirsute below, denser on the veins; 5(7) veins; margins distinctly serrate-ciliate.
 
-Arbrisseau peu ramié, dressé jusqu'à 1,50 m; rameaux 4-angulaires-obtus, éparsement et brièvement strigilleux, plus densément sur les parties jeunes et les angles. Feuilles à pétiole grêle, long de 1 à 2 cm, strigilleux; limbe 3,5-5 × 7-10 cm, ovale-lancée à largement en coin ou arrondi à la base, aigu ou subacuminé au sommet; poils très courts et appliqués dessus; plus longs et quelque peu hérissés dessous, plus denses sur les nervures; 5(7) nervures; marges nettement serretées-ciliées.
+Panicles on 2 to 3 axillary nodes, 2-3 × 3-8 cm; 10-20-flowered; axes strigose, not leafy; bracts ovate-acuminate, 2-3 mm long, ciliate, early caducous. Flower with strigose pedicel 1 mm; hypanthium cylindrical, 5 mm long, sparsely strigose, no emergences; sepals 2.5-3 mm, base broadly ovate, then caudate-acuminate; sparsely setose on back and margins; early caducous. Petals pink, 4 × 7 mm. Stamens very unequal: the outer ones with anther 4-4.5 mm; pedoconnective 4 mm, appendage 1.5 mm, entire then 2-lobulate; filament 3.5 mm; the inner ones with anther 4 mm; pedoconnective 0.5 mm, appendage 2-tuberculate; filament 4 mm. Ovary ± equal to half the height of the hypanthium; style ± 10 mm.
 
-Panicules sur 2 à 3 nœuds axiaux, 2-3 × 3-8 cm; 10-20-flores; axes strigilleux, non feuillées; bractées ovales-acuminées, longues de 2-3 mm, ciliées, précocement caduques. Fleur à pédicelle strigilleux de 1 mm; hypanthe cylindrace, long de 5 mm, éparsement strigilleux, pas d'émergences; sépales 2,5-3 mm, base largement ovale, puis caudés-acuminés; éparsement sétuleux sur le dos et les marges; précocement caduces. Pétales roses, 4 × 7 mm. Étamines très inégales : les externes à anthère de 4-4,5 mm; pédoconnectif 4 mm, appendice 1,5 mm, entier puis 2-lobulé; filet 3,5 mm; les internes à anthère de 4 mm; pédoconnectif 0,5 mm, appendice 2-tuberculé; filet 4 mm. Ovaire ± égal à la demi-hauteur de l'hypanthe; style ± 10 mm.
-
-Capsule ovoïde-oblongue à urcéolée,  $ 5.5 \times 8 $ mm, éparsement strigileuse; sommet de l'ovaire convexe, 5-côtelé, avec petite dépression stylaire; avec soies barbelées sur les côtes, ou glabrescent avec papilles glanduleuses. Graines striées,  $ 0.5 \times 0.7 $ mm. — Pl. 3, fig. 7-12, p. 13.
+Capsule ovoid-oblong to urceolate, 5.5 × 8 mm, sparsely strigose; apex of ovary convex, 5-ribbed, with small stylary depression; with barbed setae on the ribs, or glabrescent with glandular papillae. Seeds striate, 0.5 × 0.7 mm. — Pl. 3, fig. 7-12, p. 13.
 
 ## Type
 
@@ -31,9 +29,7 @@ Hens 129, Zaïre (BR, G)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de la Région congolaise occidentale : recrû forestier, forêts secondaires, bords de sentier, etc. Se reconnaît à ses feuilles serretées et à l'absence d'émergences sur le bouton floral.
+Species of the western Congolian region: forest regrowth, secondary forests, path edges, etc. Recognized by its serrate leaves and the absence of emergences on the flower bud.
 
 ## Figures
 

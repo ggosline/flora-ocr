@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre dioïque, jusqu’à 30 m de hauteur ; racines-échasses parfois présentes à la base du tronc ; écorce lisse, brune foncé ; latex jaune ; rameaux arrondis à tétragones. Feuilles opposées, glabres ; pétiole 0,5 ‒ 1 cm ; limbe ovale à obovale ou parfois étroitement elliptique, (4 ‒ )6 ‒ 15 × (2 ‒ )2,5 ‒ 7 cm, cunéé à atténué à la base, distinctement acuminé à caudé-acuminé au sommet , peu coriace ; nervure médiane sillonnée dessus, proéminente à aiguë dessous, nervures latérales nombreuses, espacées de 1 ‒ 2( ‒ 3) mm , proéminentes sur les deux faces, canaux sécréteurs noirs obliquement dressés à subparallèles à la nervure médiane, les translucides nombreux, parallèles aux nervures latérales et proéminents sur le sec. Inflorescence typiquement terminale, mais parfois axillaire, cymeuse, pauciflore. Fleurs unisexuées, tétramères , glabres ; pédicelle 12 ‒ 17 mm ; sépales inégaux, circulaires à largement elliptiques, 3 ‒ 8 mm de longueur ; pétales elliptiques à obovales, 6 ‒ 13 × 5 ‒ 10 mm, coriaces, rouges à orange-jaune . Fleur mâle : disque indistinct ; phalanges staminales au moins partiellement fusionnées à la base , 2 ‒ 3 mm de longueur, ne dépassant pas la hauteur de l’ovaire rudimentaire, chaque phalange à 7 ‒ 10 anthères sessiles, oblongues et courbées par phalange, thèques locellées . Fleur femelle : ovaire quadrangulaire, 2 ‒ 3 mm de hauteur ; stigmate sessile, peu lobé à quadrangulaire. Fruit
-
-subglobuleux, 10 ‒ 15 mm de diamètre, lisse, orange-rouge à pourpre. Graines 2 ‒ 3, réniformes, environ 11 × 5 mm.
+Dioecious tree, up to 30 m tall; stilt roots sometimes present at the base of the trunk; bark smooth, dark brown; latex yellow; branchlets rounded to tetragonal. Leaves opposite, glabrous; petiole 0.5–1 cm; blade ovate to obovate or sometimes narrowly elliptic, (4–)6–15 × (2–)2.5–7 cm, cuneate to attenuate at base, distinctly acuminate to caudate-acuminate at apex, somewhat coriaceous; midvein furrowed above, prominent to acute below, lateral veins numerous, spaced 1–2(–3) mm apart, prominent on both faces, black secretory canals obliquely erect to subparallel to the midvein, the translucent ones numerous, parallel to the lateral veins and prominent when dry. Inflorescence typically terminal, but sometimes axillary, cymose, pauciflorous. Flowers unisexual, tetramerous, glabrous; pedicel 12–17 mm; sepals unequal, orbicular to broadly elliptic, 3–8 mm long; petals elliptic to obovate, 6–13 × 5–10 mm, coriaceous, red to orange-yellow. Male flower: disk indistinct; stamen phalanges at least partially fused at base, 2–3 mm long, not exceeding the height of the rudimentary ovary, each phalange with 7–10 sessile, oblong anthers curved per phalange, locellate thecae. Female flower: ovary quadrangular, 2–3 mm tall; stigma sessile, slightly lobed to quadrangular. Fruit subglobose, 10–15 mm in diameter, smooth, orange-red to purple. Seeds 2–3, reniform, approximately 11 × 5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale et Gabon ; au Gabon, assez commune, mais non encore rencontrée dans l’Ogooué-Maritime et la Nyanga
+Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, fairly common, but not yet encountered in Ogooué-Maritime and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondaire, souvent en stations marécageuses ou aux bords des rivières et lacs ; au Gabon, jusqu’à 700 m d’altitude, ailleurs jusqu’à 1400 m
+primary or secondary forest, often in swampy stations or at the edges of rivers and lakes; in Gabon, up to 700 m elevation, elsewhere up to 1400 m
 
 ## Vernacular names
 

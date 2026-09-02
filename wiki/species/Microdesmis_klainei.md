@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 4–5 m tall, with branches weakly pubescent to pubescent (hairs sometimes grouped by 2, denser between the inflorescences and the petiole).
 
-Arbuste haut de 4-5 m, à rameaux faiblement pubescents ou pubescents (poils parfois groupés par 2, plus denses entre les inflorescences et le pétiole).
+Rhytidome dark brown, mat. Stipules triangular, pubescent, 1.5–2 mm long, with acute apex. Leaf with petiole weakly pubescent to pubescent, 6–10 mm long, channeled above and ± weakly wrinkled below. Lamina glabrous on both faces, grey-green mat above and brown below when dry, elliptic, 9–17 × 3.5–6 cm, base inequilateral: one side ± cuneiform, the other attenuate; margin entire or dentate and apex acuminate ± acute mucronate (lamina margin reflexed and covering the mucron on the upper face). Midvein depressed above and prominent below; secondary veins 6–8 pairs, very ascending, ± strongly arched, anastomosing 1–2 mm from the lamina margin, depressed above and prominent below. Veinlets in dense reticulum, prominent above and very prominently so below.
 
-Rhytidome marron foncé mat. Stipules triangulaires, pubescentes, longues de 1,5-2 mm, à sommet aigu. Feuille à pétiole faiblement pubescent à pubescent long de 6-10 mm, canaliculé dessus et ± faiblement ridé dessous. Limbe glabre sur les deux faces, gris vert mat dessus et marron dessous à l'état sec, elliptique, 9-17 × 3,5-6 cm, base inéquilatérale : un côté ± cunéiforme, l'autre atténué; bord entier ou denté et sommet acuminé ± aigu mucroné (bord du limbe replié et recouvrant le mucron à la face supérieure). Nervure médianc dépriméc dessus et saillant dessous; ncrvurcs secondaires 6-8 paires, très ascendantes, ± fortement arquées, s'anastomosant à 1-2 mm du bord du limbe, déprimées dessus et saillantes dessous. Nervilles en réseau dense, saillantes dessus et très fortement saillantes dessous.
+Inflorescences ♂ or ♀ in axillary or extra-axillary fascicles. Floral buds globose, pubescent. Pedicels ± sparsely pubescent, 5 mm long. ♂ Flowers reddish when fresh. Sepals ± strongly pubescent externally and glabrous internally, broadly oblong-lanceolate, 1.25 mm long, upper margin ciliolate, apex acute. Petals contorted, pubescent externally except at the base and margins and glabrous internally, free from each other, oblanceolate or orbicular, base unguiculate and thickened, margin ciliolate, apex rounded, 4 × 2.5 mm. Stamens 1.25 mm long; filaments much widened, obtriangular, 0.75 mm long, strongly appressed against the pistillode; anthers 2-locular, locules 0.5 mm long, basifixed, ellipsoid, connective thickened and obtuse at apex. Pistillode 2 mm long, glabrous or sometimes subglabrous, with 5 fleshy lobes between the stamens. ♀ Flowers 3 × 2.5 mm. Sepals and petals similar to those of ♂ flowers. Ovary densely to weakly pubescent (hairs appressed), 3-locular uniovulate, 1.75 × 1 mm. Style almost lacking, terminated by 3 strongly papillose stigmas.
 
-Inflorescences ♂ ou ♀ en fascicules axillaires ou extra-axillaires. Boutons floraux globuleux, pubescents. Pédicelles ± éparsement pubescents, longs de 5 mm. Fleurs ♂ rougeâtres à l'état frais. Sépales ± fortement pubescents extérieurement et glabres intérieurement, largement oblongs-lancéolés, longs de 1,25 mm, bord supérieur ciliolé, sommet aigu. Pétales contortés, pubescents extérieurement sauf à la base et sur les bords et glabres intérieurement, libres entre eux, oblancéolés ou orbiculaires, base onguiculée et épaissie, bord ciliolé, sommet arrondi, 4 × 2,5 mm. Étamines longues de 1,25 mm; filets très élargis, obtriangulaires, longs de 0,75 mm, fortement appressés contre le pistillode; anthères à 2 loges longues de 0,5 mm, basifixes, ellipsoïdes, connectifs épaissis et obtus au sommet. Pistillode long de 2 mm, glabre ou parfois subglabre, à 5 lobes charnus entre les étamines. Fleurs ♀, 3 × 2,5 mm. Sépales et pétales semblables à ceux des fleurs ♂. Ovaire densément à faiblement pubescent (poils apprimés), à 3 loges uniovulées, 1,75 × 1 mm. Style presque inexistant, terminé par 3 stigmates très fortement papilleux.
-
-Drupe fortement bosselée extérieurement, d'un diamètre de 1-1,2 cm, à 3 sillons ± marqués; épicarpe vert devenant rouge à maturité, pubérulent; endocarpe très ligneux, muriqué extérieurement. Graines 3, obtriangulaires. PL. 5, p. 21.
+Drupe strongly tuberculate externally, 1–1.2 cm in diameter, with 3 ± marked furrows; exocarp green becoming red at maturity, puberulent; endocarp very ligneous, muricate externally. Seeds 3, obtriangular. PL. 5, p. 21.
 
 ## Type
 
@@ -33,9 +31,7 @@ Klaine 1178, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Petit arbusté de sous-bois. Son aire s'étend du Cameroun au Gabon.
+Small understory shrub. Its range extends from Cameroon to Gabon.
 
 ## Specimens examined
 

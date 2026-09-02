@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — EXELL & MENDONÇA, Consp. Fl. Angol. 1 (2) : 248 (1951). — KEAY, FWTA ed. 2, 1 : 357 (1958).
 
-Arbre pouvant atteindre 20-30 m de hauteur et 30 cm de diamètre, à jeunes rameaux vêtus de poils étoilés. Feuilles opposées; stipules intrapétiolaires, soudées, caduques; pétiole légèrement canaliculé, long de 3-6 mm; limbe coriace, elliptique, arrondi à la base et décurrent sur le pétiole, acuminé au sommet, 4-8 × 2-4,5 cm. Nervures secondaires à peine saillantes sur les 2 faces.
+Tree reaching 20–30 m in height and 30 cm in diameter, with young branches clothed in stellate hairs. Leaves opposite; stipules intrapetiolar, connate, caducous; petiole slightly canaliculate, 3–6 mm long; lamina coriaceous, elliptic, rounded at the base and decurrent on the petiole, acuminate at the apex, 4–8 × 2–4.5 cm. Secondary nerves scarcely prominent on both surfaces.
 
-Inflorescences en panicules terminales multiflores; boutons floraux oblongs-rectangulaires, arrondis au sommet; bractées caduques petites. Fleurs à pédicelle pubescent long d'environ 2 mm. Sépales vêtus de poils écailleux à l'extérieur, glabres à l'intérieur, larges de 2-4 mm. Pétales vêtus de poils écailleux à l'extérieur, glabres à l'intérieur, onguiculés à la base, oblongs-rectangulaires, arrondis au sommet, de 25-30 × 3-5 mm. Etamines alternativement longues et courtes, à filets glabres s'insérant à l'intérieur d'un tube de 2 mm de haut, denté au sommet; anthères à 2 loges, versatiles, introrses, déhiscentes par 2 fentes longitudinales, ovales, apiculées, longues d'env. 1 mm. Ovaire 2-loculaire, sillonné et tomentaux, d'environ 2 mm de largeur à la base, ovules 2 par loge, collatéraux, pendant; style glabre au sommet, bifide à l'extrémité; stigmates terminaux, capités.
+Inflorescences in terminal multiflorous panicles; floral buds oblong-rectangular, rounded at the apex; bracts caducous, small. Flowers with pedicel pubescent, approximately 2 mm long. Sepals clothed in scaly hairs on the outside, glabrous on the inside, 2–4 mm wide. Petals clothed in scaly hairs on the outside, glabrous on the inside, unguiculate at the base, oblong-rectangular, rounded at the apex, 25–30 × 3–5 mm. Stamens alternately long and short, with glabrous filaments inserted within a tube 2 mm high, toothed at the apex; anthers 2-locular, versatile, introrse, dehiscing by 2 longitudinal slits, ovate, apiculate, approximately 1 mm long. Ovary 2-locular, furrowed and tomentose, approximately 2 mm wide at the base, ovules 2 per locule, collateral, pendant; style glabrous at the apex, bifid at the extremity; stigmas terminal, capitate.
 
-Capsule à base du style pubescente, persistant au sommet, striée longitudinalement, à déhiscence latérale, elliptique, monosperme, longue de 15-20 mm; style persistant au sommet du fruit, pubescent vers la base. Graine entourée latéralement mais partiellement d'un arille formé de filaments courts. Pl. 11, 9-13, p. 47.
+Capsule with base of style pubescent, persistent at the apex, longitudinally striated, laterally dehiscent, elliptic, monospermous, 15–20 mm long; style persistent at the apex of the fruit, pubescent towards the base. Seed surrounded laterally but partially by an aril formed of short filaments. Pl. 11, 9–13, p. 47.
 
 ## Type
 
@@ -33,9 +31,7 @@ Gossweiler 8752, Cabinda (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts riveraines du Nigeria et du Gabon.
+Riparian forests of Nigeria and Gabon.
 
 ## Vernacular names
 

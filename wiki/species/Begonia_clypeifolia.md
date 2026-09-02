@@ -16,29 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 30(–55) cm de hauteur. Feuilles peltées ou parfois non-peltées ; pétiole de 5–30(–55) cm, sans poils longs ; limbe étalé sur le frais, non bullé, distinctement à peu asymétrique, mais très asymétrique si feuille non peltée, largement elliptique ou largement obovale à elliptique ou obovale, rarement étroitement elliptique-ovale, (6–)6,5– 21(–30) × (2,5–)4–12,5(–18) cm, base de la feuille non peltée, arrondie à cunéiforme sur une côté, fortement cordée sur l’autre, base de la feuille peltée arrondie, sommet aigu, marge entière à légèrement sinuée-dentée ou rarement dentée, face supérieure sans poils longs, souvent lavée de rouge vineux. Inflorescence : pédoncule 0,5–4,5(–7,5) cm, avec 2–4(–7) fleurs ♂ et 1(–2) fleurs ♀ à tépales jaunes ou rarement blancs ; bractées 2–8(– 10,5) mm de longueur. Fleur ♂ : tépales 5,5–14,5(–21) × 6,5–12,5(–18) mm ; androcée à (22–)30–48 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 11 mm ; tépales 5,5–18(–23) × 6–15(–22) mm ; ovaire (y inclus les ailes) obtriangulaire très déprimé à très largement obtriangulaire, 4,5–11 × 6–16 mm, sans poils longs, à 3–4(–5) ailes obtriangulaires-elliptiques très déprimées à obtriangulaires-spathulées ou très largement obovales, 1,5–8 mm de longueur ; styles 3–4. Fruit comme l’ovaire, mais 4,5–14 × 9–18 mm ; rostre jusqu’à 1,5 mm.
+Plant reaching 30(–55) cm in height. Leaves peltate or sometimes non-peltate; petiole 5–30(–55) cm, without long hairs; blade spreading when fresh, not bullate, distinctly to slightly asymmetric, but very asymmetric if leaf non-peltate, broadly elliptic or broadly obovate to elliptic or obovate, rarely narrowly elliptic-ovate, (6–)6.5–21(–30) × (2.5–)4–12.5(–18) cm, base of non-peltate leaf rounded to cuneate on one side, strongly cordate on the other, base of peltate leaf rounded, apex acute, margin entire to slightly sinuate-dentate or rarely dentate, upper surface without long hairs, often suffused with wine-red. Inflorescence: peduncle 0.5–4.5(–7.5) cm, with 2–4(–7) ♂ flowers and 1(–2) ♀ flowers with yellow or rarely white tepals; bracts 2–8(–10.5) mm in length. ♂ Flower: tepals 5.5–14.5(–21) × 6.5–12.5(–18) mm; androecium with (22–)30–48 stamens. ♀ Flower: pedicel elongating in fruit up to 11 mm; tepals 5.5–18(–23) × 6–15(–22) mm; ovary (including wings) obtriangular very depressed to very broadly obtriangular, 4.5–11 × 6–16 mm, without long hairs, with 3–4(–5) obtriangular-elliptic very depressed to obtriangular-spatulate or very broadly obovate wings, 1.5–8 mm in length; styles 3–4. Fruit as the ovary, but 4.5–14 × 9–18 mm; rostrum up to 1.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sud du Cameroun, Guinée Équatoriale, Gabon et ouest du Congo (Brazzaville) ; au Gabon à répartition assez large
+Southern Cameroon, Equatorial Guinea, Gabon and western Congo (Brazzaville); in Gabon with fairly wide distribution
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sol plat ou pentu, talus ou lits de rivière en forêt primaire ou parfois secondaire, parfois dans les galeries forestières, souvent au bord des cours d’eau ; 100–1000 m d’altitude
+on flat or sloping ground, banks or river beds in primary or sometimes secondary forest, sometimes in forest galleries, often at the edge of watercourses; 100–1000 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+fairly variable taxon: in Equatorial Guinea, there are forms with white flowers, in Gabon there are found forms with long creeping rhizome that bears at its tip an inflorescence before the leaves are formed, finally, the color of the ovary and fruit varies from brown-green or dark red to pale green or even white. The taxonomic status of these forms is not yet clear due to intermediate specimens. B: Engler (1921), Sosef (1994). BIBLIOGRAPHY
 
-taxon assez variable : en Guinée Équatoriale, il existe des formes à fleurs blanches, au Gabon on trouve des formes à long rhizome rampant qui porte au bout une inflorescence avant que les feuilles ne soient formées, enfin, la couleur de l’ovaire et du fruit varie du vert-brun ou rouge foncé à vert pâle ou même au blanc. Le statut taxonomique de ces formes n’est pas encore clair en raison d’échantillons intermédiaires. B : Engler (1921), Sosef (1994). IBLIOGRAPHIE
-
-Fleur ♀ (× 1). – 4. Styles et stigmates (× 2). – 5. Fruit mûr (× 2). (1 : A. Louis 2841 ; 2 : Arends c.s. 688 ; 3, 4 : van Veldhuizen 1050 ; 5 : Arends c.s. 369 ) . Dessin par W W , Herbier National des IL ESSEL Pays-Bas – Wageningen branche.
+♀ Flower (× 1). – 4. Styles and stigmas (× 2). – 5. Mature fruit (× 2). (1: A. Louis 2841; 2: Arends c.s. 688; 3, 4: van Veldhuizen 1050; 5: Arends c.s. 369). Drawing by W. W. Wessel, National Herbarium of the Netherlands – Wageningen branch.
 
 ## Notes
 

@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Himantochilus macrophyllus Lindau, Bot. Jahrb. 20 : 60 (1894).
 
 ≡ Macrorungia macrophylla (Lindau) C.B. Clarke, F.T.A. 5 : 255 (1900). — R. Benoist, in Fr. Pellegrin, Mém. Soc. Linn. Norm., N.S., Sect. Bot., 1 (3) : 48 (1928).
 
-Plante semi-ligneuse, suffrutescente, géniculée, atteignant 2 m de hauteur, glabrescente, à parties nouvelles finement pubescentes. Pétioles de 2-7 cm, canaliculés en dessus et un peu pubescentes le long du canal. Limbe glabre, elliptique ou étroitement et longuement elliptique, acuminé, de 30 × 13 cm; acumen obtus ou même arrondi; marge finement crénelée. 11-13 paires de nervures latérales.
+Semi-woody plant, suffrutescent, geniculate, reaching 2 m in height, glabrescens, with young parts finely pubescent. Petioles 2–7 cm, channeled above and somewhat pubescent along the channel. Blade glabrous, elliptic or narrowly and elongate elliptic, acuminate, 30 × 13 cm; acumen obtuse or even rounded; margin finely crenulate. 11–13 pairs of lateral veins.
 
-Inflorescences en épis, solitaires et axillaires au niveau des feuilles supérieures et terminales de  $ 5 \times 2 $ cm (corolles non épanouies); bractées ovales, acuminées, finement pubescentes, palmatinerves à 5 nervures, jusqu'à  $ 15 \times 12 $ mm serrées et imbriquées avant l'anthèse; bractéoles largement ovale de 1-2 mm de long et presque aussi large. Calice long de 6 mm, glabre ou très faiblement et finement pubescent, surtout vers la base, à lobes lancéolés-triangulaires, de  $ 3 \times 15 $ mm. Corolle saumon, orange, ou rouge lavé de jaune, glabre, d'environ 5 cm de long, à tube de  $ 17 \times 4 $ mm; lèvre supérieure de  $ 35 \times 10 $ mm, avec au sommet deux toutes petites dents; lèvre inférieure enroulée au moment de plein épanouissement, de  $ 35 \times 6 $ mm, étalée, avec trois petites dents obtuses d'environ 1-2 mm au sommet. Étamines à filet de  $ 32 \times 2 $ mm, rubané, glabre; loges des anthères longues de 6 mm attachées à des niveaux différents, l'inférieure un peu acuminée à la base. Ovaire de 5 mm; style de  $ 48 $ mm, glabre.
+Inflorescences in spikes, solitary and axillary at the level of the upper and terminal leaves of $ 5 \times 2 $ cm (corollas not expanded); bracts ovate, acuminate, finely pubescent, palmately nerved with 5 nerves, up to $ 15 \times 12 $ mm closely packed and imbricate before anthesis; bracteoles broadly ovate 1–2 mm long and almost as wide. Calyx 6 mm long, glabrous or very faintly and finely pubescent, especially toward the base, with lanceolate-triangular lobes, $ 3 \times 15 $ mm. Corolla salmon, orange, or red washed with yellow, glabrous, about 5 cm long, with tube $ 17 \times 4 $ mm; upper lip $ 35 \times 10 $ mm, with at the apex two very small teeth; lower lip rolled at full expansion, $ 35 \times 6 $ mm, spreading, with three small obtuse teeth about 1–2 mm at the apex. Stamens with filament $ 32 \times 2 $ mm, ribbon-like, glabrous; anther lobes 6 mm long attached at different levels, the lower one somewhat acuminate at the base. Ovary 5 mm; style $ 48 $ mm, glabrous.
 
-Capsule glabre, de 2,8 cm de long, légèrement apiculée; partie renflée de 12 mm de long, 7 mm de large et 5 mm d'épaisseur Rétinacle de 5 mm de long. Graine elliptique, aplatie, de  $ 6,5 \times 4,5 \times 1,5 $ mm. Test avec des lignes saillantes ondulées, assez denses, régulièrement arrangées.
+Capsule glabrous, 2.8 cm long, slightly apiculate; swollen portion 12 mm long, 7 mm wide and 5 mm thick. Retinaculum 5 mm long. Seed elliptic, flattened, $ 6.5 \times 4.5 \times 1.5 $ mm. Testa with raised wavy lines, fairly dense, regularly arranged.
 
 ## Type
 
@@ -39,17 +37,15 @@ Stuhlmann 2938, Issange-Semliki, Congo (B, holotype détruit)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Congo (Brazz. and Léo.) Cameroon, Gabon, Central African Republic, Uganda.
 
-Congo (Brazz. et Léo.) Cameroun, Gabon, Centrafrique, Uganda.
+F. Fleury: 26127 in herb. A. Chev., environs of Diobomagola, on the Orimbo, tributary of the Ogooué (fl. 20 July 1913), in the forest.
 
-F. Fleury : 26127 in herb. A. Chev., environs de Diobomagola, sur l'Orimbo, affluent de l'Ogooué (fl. 20 juill. 1913), dans la forêt.
+Le Testu: 1605, Koumougari, forest of Mayombe-Bayaka (fl 28 Aug 1910), yellow flowers, washed red at the base, semi-woody plant, geniculate, 2 m, swampy understory; 7304, Lastoursville (fl. 9 May 1929), yellow flowers ± tinged with red; 7368 bis, Lastoursville (fl. 24 May 1929); 8143, Lastoursville (fl. 26 June 1930).
 
-Le Testu : 1605, Koumougari, forêt du Mayombe-Bayaka (fl 28 août 1910), fleurs jaunes, lavées rouges à la base, plante semi-ligneuse, géniculée, 2 m, sous-bois marécageux; 7304, Lastoursville (fl. 9 mai 1929), fleurs jaunes ± nuancées de rouge; 7368 bis, Lastoursville (fl. 24 mai 1929); 8143, Lastoursville (fl. 26 juin 1930).
+EXPLANATION OF PLATE XXXIX:
 
-EXPLICATION DE LA PLANCHE XXXIX :
-
-1, sommet florifère; 2, grande feuille de la région inférieure de la plante; 3, calice avec bractéoles, d'une hauteur totale de 6 mm; 4, bractée de 10 × 7 mm; 5, fleur de 5 cm de long; 6, corolle ouverte; 7, anthère à loges de 6 mm de long; 8, pistil (disque et ovaire de 5 mm de haut, style de 48 mm de long); 9, stigmate; 10, fruit de 3 cm de long; 11, graine de 7 × 5 mm. — 1, 3-11, Dybowski 584; 2, Tisserant 3475 (Haute-Sangha, Congo).
+1, flowering summit; 2, large leaf from the lower region of the plant; 3, calyx with bracteoles, total height 6 mm; 4, bract 10 × 7 mm; 5, flower 5 cm long; 6, corolla opened; 7, anther with lobes 6 mm long; 8, pistil (disc and ovary 5 mm high, style 48 mm long); 9, stigma; 10, fruit 3 cm long; 11, seed 7 × 5 mm. — 1, 3–11, Dybowski 584; 2, Tisserant 3475 (Haute-Sangha, Congo).
 
 ## Figures
 

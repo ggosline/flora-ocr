@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Organes pérennes de 16-25 x 1-1,5 cm. Feuilles 4-12, 15-50 x 1-5,5 cm. Inflorescence < 200 cm, 15-30-flore ou plus. Sépales et pétales verts à sommet brunâtre, labelle blanc avec une bande rose ou violette en travers de la base du lobe médian, éperon verdâtre. Sépales dorsal lancéolé à lancéolé-ové. Pétales obliquement lancéolés, aigus. Sépales latéraux un peu falciformes, oblongs-lancéolés. Labelle 13-20 x 7,5-10 mm, finement papilleux près de la base, trilobé ; lobe médian oblong-ové, marges plus ou moins ondulées, avec un callus de 3-7 crêtes peu marquées à la base du lobe ; lobes latéraux obliquement triangulaires, aigus. Éperon 5-9 mm, cylindrique à claviforme. Pl. 144, p. 325.
+Perennial organs 16-25 x 1-1.5 cm. Leaves 4-12, 15-50 x 1-5.5 cm. Inflorescence < 200 cm, 15-30-flowered or more. Sepals and petals green with brownish tip, labellum white with a pink or purple band across the base of the median lobe, spur greenish. Dorsal sepal lanceolate to lanceolate-ovate. Petals obliquely lanceolate, acute. Lateral sepals somewhat falcate, oblong-lanceolate. Labellum 13-20 x 7.5-10 mm, finely papillose near the base, trilobate; median lobe oblong-ovate, margins more or less undulate, with a callus of 3-7 faint ridges at the base of the lobe; lateral lobes obliquely triangular, acute. Spur 5-9 mm, cylindric to clavate. Pl. 144, p. 325.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Togo, Nigeria, Cameroun, République centrafricaine, Zaïre, Gabon, Éthiopie, Ouganda
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Central African Republic, Zaïre, Gabon, Ethiopia, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 170-1,300 m. Terrestrial in dense humid forest with Uapaca guineensis, Harungana madagascariensis, Maesopsis eminii etc., in low montane shrubby forest, in brown-red sandy humus on ferruginous rock, lithophyte in rocky zone, also in secondary forest
 
-alt. 170-1 300 m. Terrestre en forêt dense humide à Uapaca guineensis, Harungana madagascariensis, Maesopsis eminii etc., en forêt arbustive montagnarde basse, en terreau sableux brun-rouge sur roche ferrugineuse, lithophyte en zone pierreuse, aussi en forêt secondaire
+MATERIAL EXAMINED (Map 68):
 
-MATÉRIEL ÉTUDIÉ (Carte 68) :
+De Wilde, Arends & de Bruijn 9105, approximately 53 km, along a forest exploitation track Doussala-Bongo, large rocks partially covered by tall forest or exposed directly to light, alt. ± 170 m, 1° 23' S, 10° 12' E (fl. Dec.), WAG!.
 
-De Wilde, Arends & de Bruijn 9105, environ 53 km, le long d'une piste d'exploitation forestière Doussala-Bongo, gros rochers partiellement couverts par une forêt haute ou exposés directement à la lumière, alt. ± 170 m, 1° 23' S, 10° 12' E (fl. Déc.), WAG!.
+De Wilde & Sosef 10417, 2 km on the Lédamba-Mbigou road, gallery forest and savanna along the Biroundou River, 2° 13' S, 11° 29' E (fl. Feb.), WAG!.
 
-De Wilde & Sosef 10417, 2 km sur la route Lédamba-Mbigou, forêt galerie et savane le long de la Riv. Biroundou, 2° 13' S, 11° 29' E (fl. Févr.), WAG!.
-
-Florence 1575, Makokou (fl. Janv.), P!.
+Florence 1575, Makokou (fl. Jan.), P!.
 
 Hallé 4245, Makokou, P!.
 
-Hallé & Villiers 4921, Efant, 11 km E de Médouneu, rocher Fané (fl. Févr.), P!.
+Hallé & Villiers 4921, Efant, 11 km E of Médouneu, Fané rock (fl. Feb.), P!.
 
-Le Testu 8690, Haute Ogooué, Mogonzo (fl. Janv.), BM!, BR! ; 8954, Woleu-Ntem (fl. Déc.) BM!, BR!.
+Le Testu 8690, Haute Ogooué, Mogonzo (fl. Jan.), BM!, BR!; 8954, Woleu-Ntem (fl. Dec.) BM!, BR!.
 
 ## Figures
 

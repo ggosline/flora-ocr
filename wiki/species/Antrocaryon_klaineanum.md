@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Spondias klaineana (Pierre) Engl., Bot. Jahrb. Syst. 36 : 215 (1905). S. soyauxii Engl., Bot. Jahrb. Syst. 36 : 215 (1905). Arbre atteignant 50 m de hauteur ; tronc jusqu’à 150(–180) cm de diamètre ; exsudat translucide, légèrement jaunâtre. Feuilles en touffes à l’extrémité des rameaux ; l’ensemble du pétiole et rachis 20–40 cm, pubérulents ; folioles 11 à 17, à pétiolule canaliculé, 1–3(–5) mm, pubérulent, à limbe inégal, ± asymétrique, oblong-lancéolé, 6–16 × 2,5–4,5 cm, arrondi à cunéé à la base, acuminé sur 5–10 mm au sommet, papyracé, avec 10 à 14 paires de nervures latérales, glabre dessus, pubérulent sur les nervures à glabre dessous. Inflorescence jusqu’à 30 × 13 cm, tomentelleuse ; bractées et bractéoles caduques, lancéolées, 1–2 mm de longueur. Fleur mâle : pédicelle 1–3 mm, articulé à ⅓ de la base, tomentelleux ; calice pubescent, à lobes étalés, ± 1 mm de longueur ; pétales étalés à réfléchis, oblongs-ovales, 1,5–2 × 1–1,2 mm ; étamines 1,5 mm de longueur, à anthères de 0,5 mm de longueur ; disque 2 mm de diamètre, lobulé-ondulé, épais ; pistillode minuscule. Fleur femelle : pédicelle, calice et disque semblables à ceux de la fleur mâle ; ovaire subglobuleux, 1–2 mm de diamètre, glabre ; styles terminaux-latéraux, jusqu’à 0,5 mm. Fruit jaune à maturité, aplati, 25–30(–40) mm de diamètre, 15–20 mm d’épaisseur, glabre ; noyau 5- ou 6-lobulé, 10–15 mm d’épaisseur, 22–26 mm de diamètre. Graines 3 ou 4 par noyau, aplaties et courbées, 1 cm de longueur. Plantule à hypocotyle de 7–8 cm, glabre ; cotylédons apposés, étroitement oblongs, 1,5–2 cm de longueur, glabres ; épicotyle 2–4 cm ; les deux premières feuilles opposées, 3-foliolées, éparsement poilues ; feuilles suivantes pennées à 5 folioles.
+Spondias klaineana (Pierre) Engl., Bot. Jahrb. Syst. 36 : 215 (1905). S. soyauxii Engl., Bot. Jahrb. Syst. 36 : 215 (1905). Tree reaching 50 m in height; trunk up to 150(–180) cm in diameter; exudate translucent, slightly yellowish. Leaves in tufts at the tip of branches; petiole and rachis together 20–40 cm, puberulent; leaflets 11 to 17, with petiolule channeled, 1–3(–5) mm, puberulent, with unequal, ± asymmetric lamina, oblong-lanceolate, 6–16 × 2.5–4.5 cm, rounded to cuneate at base, acuminate for 5–10 mm at apex, papyraceous, with 10 to 14 pairs of lateral nerves, glabrous above, puberulent on nerves to glabrous below. Inflorescence up to 30 × 13 cm, tomentellose; bracts and bracteoles caducous, lanceolate, 1–2 mm in length. Male flower: pedicel 1–3 mm, articulate at ⅓ from base, tomentellose; calyx pubescent, with lobes spreading, ± 1 mm in length; petals spreading to reflexed, oblong-ovate, 1.5–2 × 1–1.2 mm; stamens 1.5 mm in length, with anthers 0.5 mm in length; disk 2 mm in diameter, lobulate-undulate, thick; pistillode minute. Female flower: pedicel, calyx and disk similar to those of male flower; ovary subglobose, 1–2 mm in diameter, glabrous; styles terminal-lateral, up to 0.5 mm. Fruit yellow at maturity, flattened, 25–30(–40) mm in diameter, 15–20 mm in thickness, glabrous; stone 5- or 6-lobulate, 10–15 mm in thickness, 22–26 mm in diameter. Seeds 3 or 4 per stone, flattened and curved, 1 cm in length. Seedling with hypocotyl 7–8 cm, glabrous; cotyledons appressed, narrowly oblong, 1.5–2 cm in length, glabrous; epicotyl 2–4 cm; the first two leaves opposite, 3-foliolate, sparsely hairy; subsequent leaves pinnate with 5 leaflets.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale, Gabon, République démocratique du Congo, Angola (Cabinda) et très probablement aussi, en République du Congo ; au Gabon, connu de toutes les provinces sauf du Moyen-Ogooué
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Democratic Republic of the Congo, Angola (Cabinda) and very probably also in the Republic of the Congo; in Gabon, known from all provinces except Moyen-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire ; au Gabon jusqu’à ± 400 m d’altitude, ailleurs jusqu’à 1000 m. Usage : Le fruit a une pulpe comestible, à goût légèrement acide. Le bois rouge-blanc, parfois exporté, peut être utilisé pour la menuiserie, la construction et le contreplaqué. La poudre de l’écorce est employée contre les maladies du foie
+Primary and secondary forest; in Gabon up to ± 400 m in altitude, elsewhere up to 1000 m. Usage: The fruit has an edible pulp, with slightly acid taste. The red-white wood, sometimes exported, can be used for joinery, construction and plywood. The bark powder is used against liver diseases
 
 ## Vernacular names
 

@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace , relativement robuste ; rhizome rampant horizontal, ligneux, épais d’environ 5 mm avec les parties basales des tiges renflées et bulbeuses ; tiges généralement de 60‒150 cm × 3‒6 mm , glabres, pentagonales. Feuilles basses réduites aux gaines ou à des lobes courts ; gaine très large, pentagonale, glabre sauf près de la gorge ; ligule tubuleuse, brun rougeâtre, poilue ; limbe supérieur de 12‒30 cm × 3‒25 mm, plan, avec des crêtes longitudinales distinctes (plis), à surface glabre, à marge garnie de poils translucides étalés. Inflorescence formée habituellement de nombreux corymbes composés pédonculés, disposés sur les 10‒40 cm du haut de la tige , à rameaux densément poilus, chaque corymbe composé de 2‒20 groupes d’épillets ; bractées de l’inflorescence semblables aux feuilles supérieures. Épillet sessile, lancéolé, de 5‒8 × 2‒3 mm , verts devenant brun foncé à maturité ; glumes longues de 2‒2,5 mm (mucron de 0,5‒0,7 mm non compris), brun rougeâtre avec des taches gris noir, à poils translucides, nervure centrale à 3 stries longitudinales. Fleur : périanthe à 3 segments en écaille, brun rougeâtre ou grisâtre , à 3 nervures, sommet carré ou arrondi avec la nervure centrale prolongée par un mucron ; 3 étamines. Akène long de 0,8‒1 mm (base du style non com-
-
-prise), blanchâtre devenant brun à maturité, avec la base et le sommet cunéiformes ; base du style persistant en un bouton cylindrique haut de 0,2 mm.
+Perennial herb, relatively robust; rhizome creeping horizontal, woody, approximately 5 mm thick with the basal parts of the stems swollen and bulbous; stems generally 60–150 cm × 3–6 mm, glabrous, pentagonal. Lower leaves reduced to sheaths or short lobes; sheath very broad, pentagonal, glabrous except near the mouth; ligule tubular, reddish-brown, hairy; upper blade 12–30 cm × 3–25 mm, flat, with distinct longitudinal ridges (folds), glabrous on the surface, margin furnished with spreading translucent hairs. Inflorescence usually formed of numerous pedunculate compound corymbs, arranged over the upper 10–40 cm of the stem, with densely hairy branches, each compound corymb consisting of 2–20 groups of spikelets; inflorescence bracts similar to the upper leaves. Spikelet sessile, lanceolate, 5–8 × 2–3 mm, green becoming dark brown at maturity; glumes 2–2.5 mm long (mucro 0.5–0.7 mm not included), reddish-brown with grey-black spots, with translucent hairs, central nerve with 3 longitudinal striae. Flower: perianth with 3 scale-like segments, reddish-brown or greyish, with 3 nerves, apex square or rounded with the central nerve prolonged by a mucro; 3 stamens. Achene 0.8–1 mm long (excluding the base of the style), whitish becoming brown at maturity, with the base and apex cuneate; persistent base of the style forming a cylindrical button 0.2 mm high.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique, Asie et Amérique tropicales ; très commune au Gabon, trouvée dans l’Estuaire, le Haut-Ogooué, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Lolo, l’Ogooué-Maritime et le Woleu-Ntem (45 récoltes)
+widely distributed in tropical Africa, Asia and America; very common in Gabon, found in Estuaire, Haut-Ogooué, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem (45 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les zones herbeuses humides, marécages, fossés, mares, rives des cours d’eau, aussi dans les eaux saumâtres et les mangroves le long de la mer ; au Gabon, à 0‒500 m d’altitude, jusqu’à 1900 m en Afrique de l’Est
+in humid herbaceous zones, marshes, ditches, ponds, river banks, also in brackish waters and mangroves along the sea; in Gabon, at 0–500 m altitude, up to 1900 m in East Africa
 
 ## Vernacular names
 

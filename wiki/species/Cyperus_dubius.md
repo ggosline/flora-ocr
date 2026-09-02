@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, vivace, en touffe , avec habituellement quelques tiges groupées ; tiges de 10‒50 cm × 1‒2 mm, trigones à arêtes vives ou émoussées, glabres, base succulente, allongée et bulbeuse . Feuille : gaine souvent brun ou brun rougeâtre, mais la supérieure parfois grise et membraneuse ; limbes ± nombreux, longs de 10‒30 cm × 2‒5 mm , généralement plus courts que la tige, plans, scabres au moins sur la marge et la nervure centrale. Inflorescence en tête solitaire blanchâtre ou blanc verdâtre, hémisphérique ou de forme irrégulière , large de 5‒15 mm et composée de 3–6 épis sessiles serrés ; bractées involucrales 3‒6, foliacées, étalées ou réfléchies, la plus grande de 10‒15 cm × 2‒4 mm. Épillet ovale–lancéolé, de 3‒6 × 1,5‒2 mm , à 4‒8 fleurs, mais produisant souvent 3‒4 akènes, habituellement densément serré sur un rachis ailé, tombant d’une pièce ; glumes concaves, longues de 2‒3 mm , blanc grisâtre ou verdâtre, à marge incolore et 6‒8 fines nervures de chaque côté de la centrale. Akène obovale, de 1‒1,6 (apicule de 0,1‒0,2 mm compris) × 0,7‒0,9 mm, trigone, brun, à surface nettement papilleuse.
+Robust perennial herb, tufted, usually with several stems grouped together; stems 10–50 cm × 1–2 mm, trigonous with sharp or blunt edges, glabrous, base succulent, elongate and bulbous. Leaf: sheath often brown or reddish-brown, but the upper sometimes grey and membranous; blades ± numerous, 10–30 cm × 2–5 mm long, generally shorter than the stem, flat, scabrous at least on the margin and central nerve. Inflorescence as a solitary whitish or greenish-white head, hemispherical or of irregular shape, 5–15 mm wide and composed of 3–6 sessile congested spikes; involucral bracts 3–6, foliaceous, spreading or reflexed, the largest 10–15 cm × 2–4 mm. Spikelet ovate-lanceolate, 3–6 × 1.5–2 mm, with 4–8 flowers, but usually producing 3–4 achenes, usually densely crowded on a winged rachis, falling as one piece; glumes concave, 2–3 mm long, whitish-grey or greenish, with colourless margin and 6–8 fine nerves on each side of the central one. Achene obovate, 1–1.6 (apiculum 0.1–0.2 mm included) × 0.7–0.9 mm, trigonous, brown, with distinctly papillose surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue dans les zones tropicales de l’Afrique et de l’Asie ; rare au Gabon ou méconnue, mais localement commune, trouvée seulement dans la Ngounié, la Nyanga et l’Ogooué-Maritime (3 récoltes)
+Widely distributed in tropical zones of Africa and Asia; rare in Gabon or poorly known, but locally common, found only in Ngounié, Nyanga and Ogooué-Maritime (3 collections).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les sols peu profonds saisonnièrement humides des affleurements rocheux, dans les zones herbeuses ou comme mauvaise herbe des cultures et jardins ; au Gabon, à 0‒200 m d’altitude, jusqu’à 1800 m en Afrique de l’Est. Note taxonomique : se reconnaît à son inflorescence en tête blanc verdâtre avec la base des tiges succulente. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+In shallow seasonally humid soils of rocky outcrops, in grassy areas or as a weed of crops and gardens; in Gabon, at 0–200 m altitude, up to 1800 m in East Africa. Taxonomic note: recognized by its greenish-white head inflorescence with the base of stems succulent. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
 ## Notes
 

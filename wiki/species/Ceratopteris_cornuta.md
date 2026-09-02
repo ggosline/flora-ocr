@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Lepr., Ann. Sc. Nat. sér. I, 19 : 103, t. 4 A (1830). — Tard., Mém. IFAN 28 : 31 t. 2 f. 3 (1953). — Alston, FWTA : 38 (1959).
 
-Fougères aquatiques, annuelles. Frondes dimorphes, irrégulièrement pennées, les stériles plus larges. Texture herbacée. Nervures anastomoses. Sporanges situés le long des nervures, protégés par la marge réfléchie du limbe, portant de 30 à 70 celules épaissies.
+Aquatic ferns, annual. Fronds dimorphous, irregularly pinnate, the sterile ones broader. Herbaceous texture. Veins anastomosing. Sporangia situated along the veins, protected by the reflexed margin of the lamina, bearing 30 to 70 thickened cells.
 
 ## Type
 
@@ -33,9 +31,7 @@ Palisot de Beauvois, royaume d'Oware, S Nigeria (P). Du Sénégal au Moyen Congo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans les eaux des marécages, lacs et fleuves, s'enracinent dans la boue.
+In the waters of marshes, lakes and rivers, rooting in mud.
 
 ## Specimens examined
 

@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPES: Cameroon, Yaounde: (fl.) Zenker 198 (syn-B delet.); (fl.) Zenker & Staudt 710 (syn-B delet.; LECTOTYPE designated here: BR; iso-BM, K, M, Z cf. LIBEN 1983 and 1984).
 
-TYPES : Cameroun, Yaounde : (fl.) Zenker 198 (syn-B delet.) ; (fl.) Zenker & Staudt 710 (syn-B delet. ; LECTOTYPE désigné ici : BR ; iso-BM, K, M, Z cf. LIBEN 1983 et 1984).
+Liane, diameter ≤ 15 cm. Young branchlets velutinous.
 
-Liane, diamètre ≤ 15 cm. Jeunes rameaux veloutés.
+Leaves opposite; petiole 3–5 mm long; blade oblong-elliptic, ≤ 23 × ≤ 11 cm, bearing pellucid punctations; underside of blade often velutinous when young then glabrous at maturity; major lateral veins 9–14 pairs, domatia scarcely visible; base auriculate; apex shortly acuminate.
 
-Feuilles opposées ; pétiole long de 3-5 mm ; limbe oblong-elliptique, ≤ 23 × ≤ 11 cm, muni de points pellucides ; dessous du limbe souvent velouté à l'état jeune puis glabre à maturité ; grandes nervures latérales 9-14 paires, domaties peu visibles ; base auriculée ; sommet cour- tement acuminé.
+Scales, diameter 50–125 µm.
 
-Écailles, diamètre 50-125 µm.
+Inflorescences in axillary spikes ≤ 4 cm long; bracts scarcely visible.
 
-Inflorescences en épis axillaires longs de ≤ 4 cm ; bractées peu visibles.
+Flowers 4-merous, sessile. Receptacle 6 mm high with a long narrow part near the middle, hairs and scales on the outer face; upper receptacle infundibuliform, green. Calyx with triangular lobes.
 
-Fleurs 4-mères, sessiles. Réceptacle haut de 6 mm avec une longue partie étroite près du milieu, poils et écailles sur la face externe ; réceptacle supérieur infundibiliforme, vert. Calice à lobes triangulaires.
-
-Fruit ≤ 6 × ≤ 3 cm, glabre, sans ailes ou presque à maturité mais auparavant muni d'ailes étroites, adapté à la dispersion par l'eau. - Pl. 3, p. 17.
+Fruit ≤ 6 × ≤ 3 cm, glabrous, without wings or nearly so at maturity but previously bearing narrow wings, adapted for dispersal by water. – Pl. 3, p. 17.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo (Kinshasa), Angola
+Cameroon, Gabon, Congo (Kinshasa), Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ripicoles
+riparian forests
 
 ## Specimens examined
 

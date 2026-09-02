@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Sakersia africana Hook. F., FTA 2: 458 (1871).
 
-Arbuste à petit arbre, haut de 6 à 10 m, scabre ou strigilleux sur ses différentes parties, sauf sur l'hypanthe; rameaux ± 4-angulaires, nœuds légèrement épaissis avec soies + longues. Feuilles à pétiole de 1 à 2 cm, arrondi avec sillon, densément strigilleux; limbe 3-6 × 8-15 cm, lancée à lancéolé, à base arrondie ou largement cunée et sommet aigu; scabre dessus, soies + longues sur les nervures dessous; nervures saillantes dessous, + 2 submarginales beaucoup plus ténues; les transversales nombreuses et parallèles; marges entières mais scabérulées.
+Shrub to small tree, 6 to 10 m tall, scabrous or strigillous on its various parts, except on the hypanthium; branches ± 4-angular, nodes slightly thickened with longer setae. Leaves with petiole 1 to 2 cm, rounded with a groove, densely strigillous; blade 3-6 × 8-15 cm, lanceolate to lanceolate, with rounded or broadly cuneate base and acute apex; scabrous above, setae longer on the veins beneath; veins prominent beneath, ± 2 submarginal much more slender; transverse veins numerous and parallel; margins entire but scabérulous.
 
-Panicule pyramidale de 4 à 6 étages de cymes, les premiers nœuds avec
+Pyramidal panicle of 4 to 6 tiers of cymes, the first nodes with foliaceous bracts ± caducous, other bracts and bracteoles navicular, ± 3 × 4 mm, finally caducous; all axes, peduncles, pedicels and bracts scabrous. Flower with pedicel 3 to 5 mm; hypanthium glabrous, ovoid-cylindric, ± 5 × 7 mm; lobes broadly triangular-obtuse to rounded, ± spreading after anthesis, glabrous to ciliolate. Petals pink or mauve, ± fleshy, 4 × 10 mm, oblong, abruptly and briefly unguiculate. External stamens with anther 7 mm, slightly curved; pediconnective 4-5 mm, compressed, appendages divergent, linear and ± spatulate at their apex, 3 mm long; filament compressed 6-7 mm; internal stamens somewhat shorter, anther more curved, 6 mm; pediconnective 3 mm, appendages 2.5 mm; filament also 7 mm long. Ovary sparsely setulose and setae of the apex longer and coherent in a peristyle collar; style 20 mm long.
 
-bractées foliacées ± caduques, autres bractées et bractéoles naviculaires, ± 3 × 4 mm, finalement caduques; tous axes, pédoncules, pédicelles et bractées désمىé, scabres. Fleur à pédicelle de 3 à 5 mm; hypanthe glabre, ovo-cylindrique, ± 5 × 7 mm; lobes largement triangulaires-obtus à arrondis, ± étalés après l'anthèse, glabres à ciliolés. Pétales roses ou mauves, ± charnus, 4 × 10 mm, oblongs, brusquement et brièvement onguiculés. Étamines externes à anthère de 7 mm, légèrement arquée; pédoconnectif de 4-5 mm, comprimé, appendices divergents, linéaires et ± spatulés à leur extrémité, longs de 3 mm; filet comprimé de 6-7 mm; étamines internes un peu plus courtes, anthère davantage arquée, de 6 mm; pédoconnectif de 3 mm, appendices de 2,5 mm; filet aussi long, 7 mm. Ovaire éparsement sétuleux et soies de l'apex + longues et cohérentes en une collerette péris-style; style long de 20 mm.
-
-Capsule ± 7 × 10 mm, ovoïde à globuleuse, vaguement 4-8-angulaire sur le sec; lobes du calice étalés; ovaire tronconique, atteignant le bord de l'hypanthe; lignes valvaires de déhiscence légèrement saillantes; collerette 4-lobée par la déhiscence. Graines longues de 1 mm avec l'appendice funiculaire de la base, remarquablement ornées d'une crête de papilles linéaires aussi longues qu'elles. — Pl. 12, p. 37.
+Capsule ± 7 × 10 mm, ovoid to globose, vaguely 4-8-angular when dry; calyx lobes spreading; ovary truncate-conical, reaching the edge of the hypanthium; valve dehiscence lines slightly prominent; collar 4-lobed by dehiscence. Seeds 1 mm long with the funicular appendage at the base, remarkably ornamented with a crest of linear papillae as long as themselves. — Pl. 12, p. 37.
 
 ## Type
 
@@ -35,9 +31,7 @@ Mann 2205, Cameroun (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce forestière occidentale, de la Sierra Leone à l'Angola (Cabinda) et au Zaïre.
+Western forest species, from Sierra Leone to Angola (Cabinda) and Zaïre.
 
 ## Specimens examined
 

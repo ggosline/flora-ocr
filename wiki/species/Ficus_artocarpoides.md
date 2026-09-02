@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Hutch. in Hutch. & Rendle, FTA 6 (2) : 132 (1916) ; LEBRUN & BOUTIQUE, in Hauman, FCB 1 : 136 (1948).
 
 - F. elegans (MIQ.) MIQ., Ann. Mus. Bot. Lugd.-Bat. 3: 268 (1867), non HASS-KARL (1844); MILDBR. & BURRET, Bot. Jahrb. 46: 230 (1911); HUTCH., l.c.: 128
@@ -37,25 +35,21 @@ Gillet 2014, Zaïre (holo-, B ; iso-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - F. kisantuensis WARB., l.c.: 22, tab. 5 (1904); LEBRUN & BOUTIQUE, l.c.: 136 (1948). TYPE : Gillet 598, Zaïre, Kisantu (holo-, B ; iso-, BR).
 
 - F. inkansuensis WARB., l.c.: 22 (1904); LEBRUN & BOUTIQUE, l.c.: 136 (1911). TYPE : Laurent Em. s.n., Zaïre, Inkasu (holo-, B ; iso-, BR).
 
-Arbres épiphytes (étrangleurs) atteignent 10 m ; les branches principales habituellement avec des branches latérales subverticillées ; jeunes branches creuses sur le sec. Rameaux feuillés épais de 2-4 mm, très petitement pubérulents, gris-marron sur le sec, les parties plus âgées parfois rouge-marron. Feuilles disposées en spirales. Limbe oblong à subobové (ou à obové), long de 6-16 cm, large 2-6 cm, subcoriace, sommet courtement et brusquement acuminé, base aiguë à tronquée ou à subcordée, bord entier ; face inférieure pubérulente sur les nervures principales à glabre, nervure médiane plane à obscurément concave, les autres nervures grossièrement saillantes à planes dessus, nervures ± saillantes dessous ; (9-) 10-16 paires de nervures latérales, inclus 1-2 paires de nervures basales, nervures latérales soudées en boucle à 1-2 mm du bord, tache glandulaire le plus souvent visible. Pétiole long de 1-3,5 (-5) cm, épais de 1,5-2 mm, très petitement pubérulent à glabres. Stipules libres, longues de 0,3-4 cm, courtement pubérulentes à glabres, caduques ; stipules des éperons glabres à densément pubérulentes ou appressées pubérulentes.
+Epiphytic trees (stranglers) reaching 10 m; main branches usually with subwhorled lateral branches; young branches hollow when dry. Leafy twigs 2–4 mm thick, very minutely puberulent, grey-brown when dry, older parts sometimes red-brown. Leaves arranged in spirals. Blade oblong to subobovate (or obovate), 6–16 cm long, 2–6 cm wide, subcoriaceous, apex shortly and abruptly acuminate, base acute to truncate or subcordate, margin entire; lower face puberulent on main nerves to glabrous, midvein plane to obscurely concave, other nerves roughly prominent to plane above, nerves ± prominent below; (9–) 10–16 pairs of lateral nerves, including 1–2 pairs of basal nerves, lateral nerves united in a loop 1–2 mm from the margin, glandular spot usually visible. Petiole 1–3.5 (–5) cm long, 1.5–2 mm thick, very minutely puberulent to glabrous. Stipules free, 0.3–4 cm long, shortly puberulent to glabrous, caducous; stipules of the spurs glabrous to densely puberulent or appressed puberulent.
 
-Figues jusqu'à 5 ensemble sur des éperons atteignant 4 cm et épais de 1 cm environ, sur le tronc, les branches âgées, ou serrées sous les feuilles, parfois solitaires sur les branches à longs entrenœuds, défeuillées, minces, ramifiées ; pédoncule long de 1,5-3 (-5) cm, épais de 2 mm environ, pubérulent ; bractées basales 2, pubérulentes, caduques sauf les parties basales soudées qui forment un disque oblique ; réceptable globuleux à ellipsoïde, d'un diamètre jusqu'à 4 cm sur le frais, de 1-2,5 cm sur le sec et jusqu'à 3 cm de haut, très petitement pubérulent, verdâtre à violâtre à maturité, paroi épaisse de 1-1,5 mm sur le sec, ostiole bilabié parfois entouré par un bourrelet.
+Figs up to 5 together on spurs reaching 4 cm and approximately 1 cm thick, on the trunk, old branches, or clustered beneath the leaves, sometimes solitary on branches with long internodes, leafless, slender, branched; peduncle 1.5–3 (–5) cm long, approximately 2 mm thick, puberulent; basal bracts 2, puberulent, caducous except for the united basal portions which form an oblique disc; receptacle globose to ellipsoid, up to 4 cm diameter when fresh, 1–2.5 cm when dry and up to 3 cm high, very minutely puberulent, greenish to violaceous at maturity, wall 1–1.5 mm thick when dry, bilabiate ostiole sometimes surrounded by a rim.
 
-Fleurs comme chez F. ottoniifolia ; parfois fleurs à galles anormalement développées, longues jusqu'à 1 cm, inclus une partie stipitée atteignant 5 mm. - Pl. 58, p. 199.
+Flowers as in F. ottoniifolia; sometimes flowers with abnormally developed galls, up to 1 cm long, including a stipitate portion reaching 5 mm. – Pl. 58, p. 199.
 
-Pollinisateur : Agaon sp. (Cameroun).
+Pollinator: Agaon sp. (Cameroon).
 
-F. artocarpoides peut être distingué de F. ottoniifolia juste par le nombre plus grand de nervures latérales et le limbe souvent ± distinc-
+F. artocarpoides can be distinguished from F. ottoniifolia solely by the greater number of lateral nerves and the blade often ± distinctly obovate. Furthermore, the figs are usually larger than in F. ottoniifolia.
 
-tement obové. En outre, les figues sont le plus souvent plus grandes que dans F. ottoniifolia.
-
-L'espèce s'étend de la Côte d'Ivoire au Zaïre et à travers le Cameroun, vers le Sud à l'Angola ; aussi à Fernando Po. Dans différents types de forêts ± claires, souvent dans les forêts secondaires, jusqu'à une altitude de 1 400 m.
+The species ranges from Ivory Coast to Zaïre and across Cameroon, southwards to Angola; also in Fernando Po. In various types of ± open forests, often in secondary forests, up to an altitude of 1,400 m.
 
 ## Specimens examined
 

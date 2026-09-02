@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 A M. nodoso (Engl.) Gilg ex Engl., foliis lanceolatis, opacis, nervatione obliterare; fructo ellipsoideo differt.
 
-Arbuscula 1-2 m alta; ramis gracilibus. Folia coriacea, anguste lanceolata, circa 2 × 9 cm; nervis transversalibus marginalibusque obliteratis. Cymae 1,5 cm longae. Hypanthium cupuliforme, 3 mm diameter. Calyx vix sinuatus, 4-microdontatusque. Petala rhomboidea, 2,5 × 2 mm. Antherarum connectivum obtusum, praealte impressum; filamentum staminis 2-2,5 mm longum. Ovarium 6-8-ovulatum. Fructus ellipsoideus, 7 × 10 mm.
+Shrublet 1–2 m tall; branches slender. Leaves coriaceous, narrowly lanceolate, circa 2 × 9 cm; transverse and marginal nerves obliterated. Cymes 1.5 cm long. Hypanthium cupuliform, 3 mm diameter. Calyx scarcely sinuate, 4-microdentate. Petals rhomboid, 2.5 × 2 mm. Anther connective obtuse, impressed high up; filament of stamen 2–2.5 mm long. Ovary 6–8-ovulate. Fruit ellipsoid, 7 × 10 mm.
 
 ## Type
 
@@ -28,15 +26,13 @@ Hallé N. 3824, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1 to 2 m; branches slender, finely 4-winged when young, then rapidly rounded, not or scarcely thickened at the nodes. Leaves with petiole 2 to 3 mm; blade narrowly lanceolate, ± 2 × 9 cm, gradually acuminate; venation obscure, except for the midvein (by transparency, in front of a strong light source, ± 10 transverse, slightly oblique, the convergent ones tenuous and admarginale).
 
-Arbrisseau de 1 à 2 m; rameaux grêles, finement 4-ailés quand ils sont jeunes, puis rapidement arrondis, non ou peu épaissis aux nœuds. Feuilles à pétiole de 2 à 3 mm; limbe étroitement lancéolé, ± 2 × 9 cm, progressivement acuminé; nervation obscure, hormis la médiane (par transparence, devant une forte source lumineuse, ± 10 transversales, un peu obliques, les convergentes ténues et admarginales).
+Cymes frequently on aphyllous nodes, simple or geminate, 2 to 3 times branched. Flower with pedicel 2 mm; hypantho-calyx cupuliform, 3 mm diameter; calyx entire to obscurely sinuate, 4-microdentate. Petals rhombic, 2.5 × 2 mm. Stamens with anther 1 mm, thecae frontal; connective abruptly saddled and obtuse; filament 2.5 mm; epigynous chamber shallow. Ovary 6–8-ovulate.
 
-Cymes fréquemment sur les nœuds aphyllés, simples ou géminées, 2 à 3 fois ramiﬁées. Fleur à pédicelle de 2 mm; hypantho-calice cupuliforme, 3 mm de diamètre; calice entier à obscurément sinué, 4-microdenté. Pétales rhombiques, 2,5 × 2 mm. Étamines à anthère de 1 mm, thèques frontales; connectif brusquement ensellé et obtus; ﬁlet 2,5 mm; chambre épigyne peu profonde. Ovaire 6-8-ovulé.
+Fruit ellipsoid, 7 × 10 mm. — Pl. 49, p. 137.
 
-Fruit ellipsoïde,  $ 7 \times 10 $ mm. — Pl. 49, p. 137.
-
-Cette espèce se rapproche du M. nodosum, et surtout de sa var. stenophyllum (Fl. Cam. 24 : 153, 1983). Cependant, il nous a paru préférable de l'en distinguer par ses feuilles franchement coriaces, atténuées à la base, et par son fruit ellipsoïde, non cylindracé.
+This species is close to M. nodosum, and especially to its var. stenophyllum (Fl. Cam. 24: 153, 1983). However, it seemed preferable to us to distinguish it by its distinctly coriaceous leaves, attenuate at the base, and by its ellipsoid fruit, not cylindraceal.
 
 ## Specimens examined
 

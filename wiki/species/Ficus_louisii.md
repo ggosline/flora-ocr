@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - F. louisii Boutique & Léonard, LEBRUN & Boutique in Hauman, FCB 1: 167 (1948), nom. (sine descr. lat.).
 
-Arbres jusqu'à 40 m, parfois lianescents. Rameaux feuillés épais de 2-3,5 mm, glabres, grisâtres à marron sur le sec. Feuilles disposées en spirales. Limbe oblong à elliptique, long de 4-12 cm, large de 2-6 (-8) cm, plus large au ou près du milieu, coriace, sommet clairement à brutalement acuminé, base aiguë à obtuse ou à arrondie, bord entier, les deux faces glabres ; nervures presque planes dessus, ± saillantes dessous ; 8-12 paires de nervures latérales, pas de nervures basales distinctes ; les nervures primaires latérales pas très distinctes des nervures secondaires latérales, soudées en boucle à 1-2 mm du bord du limbe ; tache glanduleuse habituellement visible. Pétiole long de 0,8-2 (-5,5) cm, épais de 1,5 mm environ, glabre, noirâtre sur le sec. Stipules libres, longues de 0,5-1 cm, glabres ou éparsement pubérulentes blanches, caduques.
+Trees up to 40 m, sometimes sarmentose. Leafy branchlets thick 2–3.5 mm, glabrous, greyish to brown when dry. Leaves arranged in spirals. Lamina oblong to elliptic, 4–12 cm long, 2–6 (–8) cm wide, widest at or near the middle, coriaceous, apex clearly to abruptly acuminate, base acute to obtuse or rounded, margin entire, both surfaces glabrous; nerves almost flat above, ± prominent below; 8–12 pairs of lateral nerves, no distinct basal nerves; the lateral primary nerves not very distinct from the lateral secondary nerves, fused into loops 1–2 mm from the lamina margin; glandular patch usually visible. Petiole 0.8–2 (–5.5) cm long, thick ca. 1.5 mm, glabrous, blackish when dry. Stipules free, 0.5–1 cm long, glabrous or sparingly white puberulent, caducous.
 
-Figues 1-4 dans les aisselles des feuilles ou sur de petits éperons (juste) sous les feuilles, pédonculées à sessiles ; pédonculée long jusqu'à 0,5 cm, épais de 0,5 mm environ, très petitement pubérulent à glabre ; bractées basales 2, largement ovées, longues de 1-1,5 mm, persistantes, très petitement pubérulent à glabres ; réceptacle (sub) globuleux, d'un diamètre de 0,6-0,8 cm sur le frais, de 0,3-0,5 cm sur le sec, glabre, lisse ou grossièrement verruequeux, ostiole grossièrement saillant ou plat, bilabéi.
+Figs 1–4 in the leaf axils or on small branchlets (just) below the leaves, pedunculate to sessile; peduncle up to 0.5 cm long, thick ca. 0.5 mm, very minutely puberulent to glabrous; basal bracts 2, broadly ovate, 1–1.5 mm long, persistent, very minutely puberulent to glabrous; receptacle (sub)globose, 0.6–0.8 cm diameter on fresh material, 0.3–0.5 cm on dry, glabrous, smooth or coarsely verruculose, ostiole coarsely prominent or flat, bilabiate.
 
-Fleurs pistillées sessiles ou à pédicelle atteignant 1 mm, périanthe avec 3 tépales inégaux, longs de 1-1,5 mm, libres, souvent un d'eux cucullé, style long de 0,5-1 mm. Fruits ovés à oblongoïdes, longs de 0,7-1,3 mm ; larves présentes dans tous les types de fleurs ou ± limitées à celles qui sont pédicellées avec des styles longs de 0,5 mm environ et formant des fruits à galles ± oblongoïdes ; fruits bicolores. Fleurs staminées peu nombreuses, solitaires, ou même manquantes, à pédicelle long de 0,2-0,5 mm, périanthe avec 3 tépales inégaux, souvent ± cucullés, atteignant 1 mm environ, libres. Bractées interflorales longues jusqu'à 1 mm, aiguës, (parfois ?) soudées autour des fleurs staminées. - Pl. 53, p. 185.
+Pistillate flowers sessile or with pedicel reaching 1 mm, perianth with 3 unequal tepals, 1–1.5 mm long, free, often one of them cucullate, style 0.5–1 mm long. Fruits ovate to oblongoid, 0.7–1.3 mm long; larvae present in all flower types or ± limited to those that are pedicellate with styles ca. 0.5 mm long and forming ± oblongoid gall fruits; fruits bicolorous. Staminate flowers few in number, solitary, or even absent, with pedicel 0.2–0.5 mm long, perianth with 3 unequal tepals, often ± cucullate, reaching ca. 1 mm, free. Interfloral bracts up to 1 mm long, acute, (sometimes?) fused around the staminate flowers. - Pl. 53, p. 185.
 
 ## Type
 
@@ -35,11 +33,9 @@ Johnston 88, Sierra Leone, près Bathurst (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The species is known from a small number of collections made in Guinea, Cameroon, Gabon and Zaïre.
 
-L'espèce est connue par un petit nombre de récoltes faites en Guinée, au Cameroun, au Gabon et au Zaïre.
-
-L'espèce est connue par un petit nombre de récoltes faites en Guinée, au Sierra Leone, en Côte-d'Ivoire, au Cameroun. Elle est à rechercher au Gabon.
+The species is known from a small number of collections made in Guinea, Sierra Leone, Côte d'Ivoire, Cameroon. It should be sought in Gabon.
 
 ## Specimens examined
 

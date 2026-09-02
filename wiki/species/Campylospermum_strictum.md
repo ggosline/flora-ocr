@@ -16,23 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-(1965). Arbre atteignant 5 m de hauteur ; rameaux à écorce blanchâtre. Stipules caduques, triangulaires, 3–4(–6) mm de longueur. Feuille : pétiole 3–6(–10) mm ; limbe elliptique à étroitement elliptique ou étroitement elliptique obovale (7–)9–18(–22) × (2–)3–6(–7) cm, ratio 2,5–4, cunéé ou parfois obtus à la base , légèrement acuminé avec acumen de
-
-8–15 mm de longueur , papyracé à parcheminé , marge presque entière ou faiblement serrulée ; nervure principale légèrement proéminente sur les deux faces, nervures latérales en (5–)7 à 11 paires , proéminentes sur les deux faces, longuement parallèles à la nervure principale, nervures tertiaires scalariformes , connectées par des nervilles , réticulées vers la nervure principale, distinctes sur la face supérieure, fortement distinctes sur la face inférieure. Inflorescence terminale, ramifiée, lâche, axe principal (7–)19–30(–41) cm ; écailles gemmaires caduques, triangulaires ; racèmes (1–)4 à 10, ascendants, (3–)6– 17(–22) cm, munis de bractées persistantes au sommet ; cymules espacés de 0,5–1 cm, 1à 7-flores, chaque cymule munie de bractées persistantes parfois feuillées, triangulaires, 2–6(–8) mm de longueur à sa base . Fleur : pédicelle (6–)8–13(–15) mm, articulé à 2–5 mm de la base ; sépales étroitement ovales à ovales, 5–7 × 2–3 mm en fleur, 7–10 × 3–5 mm en fruit ; pétales obovales, 7–9 × 4–6 mm, cunéés à la base, arrondis au sommet ; étamines : anthères 4–5 mm de longueur ; style 5–6 mm. Fruit : réceptacle large jusqu’à 4–5 mm ; drupéoles 2 ou 3 bien développées par réceptacle, oblong-ellipsoïdes , 8–14 × 5–6 mm ; cotylédons incombants, inégaux à petit cotylédon externe.
+(1965). Tree reaching 5 m in height; branches with whitish bark. Stipules caducous, triangular, 3–4(–6) mm long. Leaf: petiole 3–6(–10) mm; lamina elliptic to narrowly elliptic or narrowly elliptic obovate (7–)9–18(–22) × (2–)3–6(–7) cm, ratio 2.5–4, cuneate or sometimes obtuse at base, slightly acuminate with acumen 8–15 mm long, papyraceous to chartaceous, margin almost entire or weakly serrulate; midvein slightly prominent on both surfaces, lateral veins in (5–)7 to 11 pairs, prominent on both surfaces, long parallel to the midvein, tertiary veins scalariform, connected by veinlets, reticulate toward the midvein, distinct on the upper surface, strongly distinct on the lower surface. Inflorescence terminal, branched, lax, main axis (7–)19–30(–41) cm; gemmate scales caducous, triangular; racemes (1–)4 to 10, ascending, (3–)6–17(–22) cm, furnished with persistent bracts at the apex; cymules spaced 0.5–1 cm apart, 1–7-flowered, each cymule furnished with persistent bracts sometimes leafy, triangular, 2–6(–8) mm long at the base. Flower: pedicel (6–)8–13(–15) mm, articulate 2–5 mm from the base; sepals narrowly ovate to ovate, 5–7 × 2–3 mm in flower, 7–10 × 3–5 mm in fruit; petals obovate, 7–9 × 4–6 mm, cuneate at base, rounded at apex; stamens: anthers 4–5 mm long; style 5–6 mm. Fruit: receptacle broad up to 4–5 mm; drupels 2 or 3 well developed per receptacle, oblong-ellipsoid, 8–14 × 5–6 mm; cotyledons incumbent, unequal with small external cotyledon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, sud de la République centrafricaine, Sao Tomé-et-Principe, Guinée équatoriale, Gabon, République du Congo, Angola (Cabinda), République démocratique du Congo et Zambie ; au Gabon, surtout dans des régions sèches
+Cameroon, southern Central African Republic, São Tomé and Príncipe, Equatorial Guinea, Gabon, Republic of the Congo, Angola (Cabinda), Democratic Republic of the Congo and Zambia; in Gabon, mainly in dry regions
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense primaire et secondaire, galerie forestière, forêts marécageuses, tout au long de la mangrove ; sur sol sableux et argileux ; au Gabon, jusqu’à 550 m d’altitude, ailleurs jusqu’à 940 m. Note taxonomique : C . plicatum est généralement bien distinguable par ses feuilles longuement acuminées. Elle est proche de C . paucinervatum par la présence de bractées persistantes situées au sommet de chaque racème. b : Bamps & Farron (1967), Bissiengou (2014), Farron (1963, 1985). ibliographie
+dense primary and secondary forest, forest gallery, swamp forests, throughout the mangrove; on sandy and clay soil; in Gabon, up to 550 m altitude, elsewhere up to 940 m. Taxonomic note: C. plicatum is generally easily distinguished by its leaves with long acumens. It is close to C. paucinervatum by the presence of persistent bracts located at the apex of each raceme. Bibliography: Bamps & Farron (1967), Bissiengou (2014), Farron (1963, 1985).
 
 ## Notes
 

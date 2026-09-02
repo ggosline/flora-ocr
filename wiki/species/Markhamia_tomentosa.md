@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 FTA 4 (2): 528 (1906); HEINE, FWTA, ed. 2, 2: 387 (1963); GENTRY, Fl. Cam. 27: 38, tab. 11 (1984).
 
 – Spathodea tomentosa BENTH., Fl. Nigrit.: 462 (1849).
@@ -27,13 +25,13 @@ FTA 4 (2): 528 (1906); HEINE, FWTA, ed. 2, 2: 387 (1963); GENTRY, Fl. Cam. 27: 3
 
 - Dolichandrome tomentosa BENTH. EX HOOK. F. & JACKS., Ind. Kew 1: 785 (1893), nom. nud.
 
-- Markhamia sessilis SPRAGUE., FTA 4 (2): 526 (1906). SYNTYPES: Welwitsch 485 (K, MO photo 4241A), 485b, 815, Angola; Smith s.n., Zaire (non vu).
+- Markhamia sessilis SPRAGUE., FTA 4 (2): 526 (1906). SYNTYPES: Welwitsch 485 (K, MO photo 4241A), 485b, 815, Angola; Smith s.n., Zaire (not seen).
 
-Arbre souvent haut de 3-5 m, parfois haut jusqu'à 25-30 m, d'un diamètre jusqu'à 40 cm. Rameaux cylindriques à un peu aplatis, pubérols, lenticelles absentes ou non visibles. Pseudostipules subulées, longues jusqu'à 12 mm. Feuilles (3-5-13 folioles oblongues à elliptiques-oblongues, asymétriques à la base, aiguës à acuminées, cunéiformes à la base, 3-18×1,5-9 cm, subentières à visiblement finement dentées, ± très petitement écailleuses dessus et dessous, pubérulentes le long de la nervure médiane dessus, dessous densément pubérulentes bronze à éparsement pubérulentes seulement le long des nervures principales ; subsessiles ou pétiolulées longues jusqu'à 2 mm ; rachis nettement anguleux avec un sillon adaxial, non visiblement articulé à l'insertion des paires de folioles.
+Tree often 3–5 m tall, sometimes up to 25–30 m tall, with a diameter up to 40 cm. Branchlets cylindrical to slightly flattened, puberulous, lenticels absent or not visible. Pseudostipules subulate, up to 12 mm long. Leaves with 3–5–13 oblong to elliptic-oblong leaflets, asymmetric at the base, acute to acuminate, cuneate at the base, 3–18×1.5–9 cm, subentire to distinctly finely toothed, ± very minutely scaly above and below, puberulous along the midvein above, below densely bronze-puberulous to sparsely puberulous only along the main veins; subsessile or with petiolules up to 2 mm long; rachis distinctly angular with an adaxial groove, not visibly articulate at the insertion of the leaflet pairs.
 
-Inflorescences étroitement paniculées, terminales, pubérulentes. Pédicelles longs de 0,5-1 cm, bractées ovées à subulées, tomenteuses bronze. Calice spathacé, long de 2-2,5 cm, large de 0,8-1,5 cm, sommet aigu à acuminé, visiblement tomenteux bronze, avec des glandes circulaires saillantes près du sommet. Corolle jaune, campanulée tubulaire au dessus d'une base cylindrique, longue de 4-6 cm, large de 1,5-2 cm à l'embouchure du tube; tube long de 3-4 cm; lobes longs de 1-2 cm, éparsement écailleux extérieurement avec quelques glandes circulaires saillantes à la base des lobes; face interne avec quelques poils épais au niveau de l'insertion des étamines. Étamines didynamics ; thèques divarriquées, longues de 2 mm, connectif avec un épaississement triangulaire latéral de chaque côté. Pistil long de 3 mm; ovaire linéaire, long de 1-1,5 mm, large de 3-5 mm.
+Inflorescences narrowly paniculate, terminal, puberulous. Pedicels 0.5–1 cm long, bracts ovate to subulate, bronze-tomentose. Calyx spatheate, 2–2.5 cm long, 0.8–1.5 cm wide, apex acute to acuminate, distinctly bronze-tomentose, with prominent circular glands near the apex. Corolla yellow, campanulate-tubular above a cylindrical base, 4–6 cm long, 1.5–2 cm wide at the tube mouth; tube 3–4 cm long; lobes 1–2 cm long, sparsely scaly externally with a few prominent circular glands at the base of the lobes; inner face with some thick hairs at the level of the stamen insertion. Stamens didynamous; thecae divaricate, 2 mm long, connective with a triangular lateral thickening on each side. Pistil 3 mm long; ovary linear, 1–1.5 mm long, 3–5 mm wide.
 
-Fruit linéaire, aplati, fortement comprimé perpendiculairement au septum mais les valves paraissant parallèles au septum développé dor-salement et ventralement, long de 50-110 cm, tomenteux bronze, nervure médiane et marge faiblement saillantes. Graines minces, biaillées, longues de 5-8 mm, larges de 25-43 mm, ailes bronze à extrémités carrées indistinctement délimitées du corps de la graine. - Pl. 6, p. 33.
+Fruit linear, flattened, strongly compressed perpendicular to the septum but the valves appearing parallel to the septum developed dorsally and ventrally, 50–110 cm long, bronze-tomentose, midvein and margin weakly prominent. Seeds thin, two-winged, 5–8 mm long, 25–43 mm wide, wings bronze with squarely ended margins indistinctly delimited from the seed body. - Pl. 6, p. 33.
 
 ## Type
 
@@ -43,23 +41,21 @@ Vogel 60, Fernando Po (non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The leaves are remarkably variable from densely tomentose pubescence to only puberulous along the main veins. This latter form was recognized as var. gracilis Sprague, but there is so much variation that it seems pointless to formally separate this entity.
 
-Les feuilles sont remarquablement variables depuis la pubescence densément tomenteuse à seulement pubérulente le long des nervures principales. Cette dernière forme a été reconnue comme la var. gracilis Sprague, mais il y a tant de variation qu’il semble sans objet de séparer formellement cette entité.
+It is possible that M. obtusifolia SPRAGUE from East Africa, which differs by its less acute leaflets with a more densely pubescent lower surface, a denser calyx and fruit pubescence, might be better treated as a subspecies of M. tomentosa.
 
-Il est possible que M. obtusifolia SPRAGUE d'Afrique orientale, qui diffère par ses folioles moins aiguës avec une face inférieure plus densément pubescente, un calice et un fruit plus densément pubescents puisse être mieux traitée comme une sous-espèce de M. tomentosa.
+This species occurs in West and Central Africa from Guinea to Cameroon and Zaire.
 
-Cette espèce se rencontre en Afrique occidentale et centrale depuis la Guinée jusqu'au Cameroun et au Zaïre.
+COMMON NAMES: tiendiendien (bakota); ovep (fang).
 
-NOMS USUELS : tiendiendien (bakota) ; ovep (fang).
+Although the reference necessary to validate SCHUMANN's combination based on BENTHAM's Spathodea lutea is extremely indirect, I judge the combination validly published, because, in context, it is clear that BENTHAM refers to the "Flora Nigritiana" and that only one species of Spathodea (sensu BENTHAM) could be included in Markhamia.
 
-Quoique la référence nécessaire pour valider la combinaison de SCHUMANN basée sur le Spathodea lutea de BENTHAM soit extrêmement indirecte, je juge la combinaison valablement publiée depuis, car, dans le contexte, il est clair que BENTHAM se rapporte à la « Flora Nigritiana » et que seulement une espèce de Spathodea (sensu BENTHAM) pouvait être incluse dans Markhamia.
+This species is not very variable in Cameroon and the rest of West Africa. However, there is geographical variation, especially in the increasing pubescence of the inflorescence and calyx in East tropical Africa. Markhamia platycalyx, which was isolated by SPRAGUE because of the shorter calycine acumen and different pubescence at the base of the filaments, is the form from Central Africa (Zaire, Uganda, Rwanda, Burundi) and seems better considered as a variant of M. lutea. Probably more significant than the differences cited by SPRAGUE are the puberulous as well as scaly inflorescence and calyx. The suggestion that M. platycalyx might be considered conspecific with M. lutea is corroborated by the fact that the East African population of this complex, recognized by SPRAGUE as M. hildebrandtii, is even less distinguishable from West African forms. The differential characters cited by SPRAGUE – "herbaceous" versus membranous calyx, and less evident glands on the corolla – are surely not valid for taxonomic recognition.
 
-Cette espèce n'est pas très variable au Cameroun et dans le reste de l'Afrique occidentale. Cependant, il y a une variation géographique, spécialement dans la pubescence croissante de l'inflorescence et du calice en Afrique tropicale orientale. Markhamia platycalyx, qui était isolé par SPRAGUE à cause de l'acumen calycinal plus court et la pubescence différente de la base des filets, est la forme de l'Afrique centrale (Zaire, Uganda, Ruanda, Burundi) et semble être mieux considéré comme une variante de M. lutea. Probablement plus significatives que les différences citées par SPRAGUE, sont l'inflorescence et le calice pubé-rulents aussi bien qu'écailleux. La suggestion que M. platycalyx puisse être considérée comme conspécifique de M. lutea et corroborée par le fait que la population est-africaine de ce complexe, reconnu par SPRAGUE comme M. hildebrandtii, est même moins distinguable des formes ouest-africaines. Les caractères différentiels cités par SPRAGUE – calice « herbacé » contre membraneux, et glandes moins évidentes sur la corolle – ne sont sûrement pas valables pour une reconnaissance taxonomique.
+West and Central tropical Africa from Ghana to Cameroon, Zaire, and Burundi; as M. hildebrandtii in East Africa. Although not yet found in Gabon, this species is very certainly present in the northern part of the country. It is common just across the border in the Yaoundé–Lomié region, southern Cameroon.
 
-Afrique tropicale occidentale et centrale depuis le Ghana jusqu'au Cameroun, au Zaïre, et au Burundi ; comme M. hildebrandtii en Afrique orientale. Quoique non encore trouvée au Gabon, cette espèce est très certainement présente dans la partie nord du pays. Elle est commune juste de l'autre côté de la frontière dans la région de Yaoundé-Lomié, au sud du Cameroun.
-
-BIGNONIACE
+BIGNONIACEAE
 
 ## Specimens examined
 

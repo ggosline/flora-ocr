@@ -23,19 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender herb, erect, very much divided and branched, 10–45 cm tall. Internodes c. 1.5–3 cm, ornamented with 4 fine characteristic ridges, glabrous. Stipules very short, paucidentate. Leaves linear glabrous, 10–30 × 0.5–1 mm.
 
-Herbe grêle, dressée, très divisée ramifiée, haute de 10-45 cm. Entrenœuds d'env. 1,5-3 cm, ornés de 4 fines arêtes caractéristiques, glabres. Stipules très courtes, paucidenticulées. Feuilles linéaires glabres, de 10-30 × 0,5-1 mm.
+Flowers axillary, 1 per axil. Pedicel 8–22 mm, very slender. Calyx with 4 acute lobes c. 0.5 mm. Corolla white with tube 1.5–3 mm, with 4 lobes 1 mm or less. Style glabrous.
 
-Fleurs axillaires, 1 par aisselle. Pédicelle de 8-22 mm, très grêle. Calice à 4 lobes aigus d'env. 0,5 mm. Corolle blanche à tube de 1,5-3 mm, à 4 lobes de 1 mm ou moins. Style glabre.
+Fruit 2.5–3.5 mm; dehiscence slit with erect lips often exceeding the sepal lobes. Seeds brownish ovate-angular 0.45 mm long.
 
-Fruit de 2,5-3,5 mm; fente de déhiscence à lèvres dressées et dépassant souvent les lobes sépalaires. Graines brunâtres ovées-anguleuses de 0,45 mm de long.
+Type from Ceylon.
 
-Type de Ceylan.
+Very vast distribution range extending to the Cape Verde islands to the west; from southern Africa to Egypt and into tropical Asia.
 
-Très vaste aire de répartition jusqu'aux îles du Cap-Vert à l'ouest; de l'Afrique australe à l'Égypte et jusqu'en Asie tropicale.
-
-Sables littoraux, savanes, cultures.
+Coastal sands, savannas, cultivations.
 
 ## Specimens examined
 

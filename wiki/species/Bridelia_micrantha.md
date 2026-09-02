@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia 3 : 164 (1862-1863). B. stenocarpa Müll.Arg., Flora 47 : 515 (1864). Arbre ou parfois arbuste, de 6–10(–30) m de hauteur ; tronc atteignant 40(–60) cm de dia mètre ; rameaux épineux ou inermes ; ramilles pubescentes à pileuses, glabrescentes ou demeurant ± pileuses, rarement glabres à l’état très jeune . Stipules étroitement trian gulaires, 3–8 mm de longueur, pubescentes sur les deux faces. Feuille : pétiole (4–)5–10 mm, pubescente à glabrescente ; limbe ovale-elliptique à obovale-elliptique à oblong, (5,5–)9–15(–18) × (2,5–)4–8 cm, arrondi à subcordé à la base , sommet acuminé sur 5–15 mm, parcheminé à coriace, à face supérieure glabre ou glabrescente, à face infé rieure à petits poils clairsemés et apprimés ; nervures latérales 12–16(–18) paires, confluentes en une nervure marginale, nervures tertiaires ± parallèles, bien visibles dessous . Inflorescence : glomérules multiflores, à fleurs de 2,5–3 mm de diamètre ; bractées petites, pubescentes, ciliées. Fleur mâle : pédicelle 1–2,5 mm, glabre à éparse ment pubérulent. Fleur femelle subsessile ; sépales triangulaires, 1,5 mm de longueur ; pétales ± elliptiques, environ 0,5 mm de longueur ; disque à partie interne pubescente ; pistil 1–1,5 mm de longueur, glabre ; styles bifides. Fruit subglobuleux à ellipsoïde, 6–10 × 4–7 mm , noir à maturité .
+Adansonia 3 : 164 (1862-1863). B. stenocarpa Müll.Arg., Flora 47 : 515 (1864). Tree or sometimes shrub, 6–10(–30) m tall; trunk reaching 40(–60) cm in diameter; branches spiny or unarmed; branchlets pubescent to pilose, glabrate or remaining ± pilose, rarely glabrous when very young. Stipules narrowly triangular, 3–8 mm long, pubescent on both surfaces. Leaf: petiole (4–)5–10 mm, pubescent to glabrate; blade ovate-elliptic to obovate-elliptic to oblong, (5.5–)9–15(–18) × (2.5–)4–8 cm, rounded to subcordate at base, apex acuminate for 5–15 mm, chartaceous to coriaceous, with upper surface glabrous or glabrate, with lower surface bearing small scattered appressed hairs; lateral veins 12–16(–18) pairs, confluent into a marginal vein, tertiary veins ± parallel, clearly visible below. Inflorescence: multiflorous glomerules, with flowers 2.5–3 mm in diameter; bracts small, pubescent, ciliate. Male flower: pedicel 1–2.5 mm, glabrous to sparsely puberulent. Female flower subsessile; sepals triangular, 1.5 mm long; petals ± elliptic, about 0.5 mm long; disk with inner part pubescent; pistil 1–1.5 mm long, glabrous; styles bifid. Fruit subglobose to ellipsoid, 6–10 × 4–7 mm, black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bien répandue dans toute l’Afrique tropicale ; au Gabon, connue de l’Es tuaire, de l’Ogooué-Ivindo et du Woleu-Ntem
+widespread throughout tropical Africa; in Gabon, known from Estuaire, Ogooué-Ivindo, and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-arbre de la forêt ou de galeries forestières, plus rarement de pleine savane ; au Gabon jusqu’à 700 m d’altitude
+tree of forest or forest gallery, more rarely of open savanna; in Gabon up to 700 m altitude
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois est utilisé en menuiserie. La décoction de l’écorce sert à calmer les maux de ventre
+The wood is used in carpentry. A decoction of the bark serves to relieve abdominal pain
 
 ## Vernacular names
 

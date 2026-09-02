@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Mus. natl. Hist. nat., sér. 4., Adansonia 6(3) : 266 (1984). Sphaerothylax pygmaea Pellegrin, Bull. Mus. natn. Hist. nat. 33(3) : 268 (1927). Plante à partie basale thalloïde rubanée, ± 1 mm de largeur ; pousses acaules ou à tige simple, jusqu’à 8 mm de longueur. Feuilles disposées irrégulièrement autour de la tige, souvent ré duites à leur base, simples ou bifides, 2–3,5 mm de longueur. Inflorescence à fleurs terminales, solitaires chez les plantes acaules, groupées chez les individus bien développés ; spathelle ovoïde, 2 × 0,8 mm, se déchirant à l’anthèse irrégulièrement au sommet. Fleur : pédicelle 2,5–3 mm après l’anthèse ; tépales filiformes, 0,6–0,7 mm ; androcée plus long que l’ovaire, étamine 1, filet ± 1,7 mm, anthère 1 × 0,4–0,5 mm, pollen en dyades ; ovaire 1,5 × 0,6 mm, gynophore ± 0,2 mm de longueur ; stigmates dressés, linéaires, 0,15–0,20 mm. Fruit déhiscent en 2 valves persistantes. Graine ellipsoïde à ovoïde, 0,2 × 0,1 mm.
+Bull. Mus. natl. Hist. nat., sér. 4., Adansonia 6(3) : 266 (1984). Sphaerothylax pygmaea Pellegrin, Bull. Mus. natn. Hist. nat. 33(3) : 268 (1927). Plant with basal thalloid ribbon-like portion, ± 1 mm wide; acaulescent shoots or with simple stem, up to 8 mm long. Leaves arranged irregularly around the stem, often reduced to their base, simple or bifid, 2–3.5 mm long. Inflorescence with terminal flowers, solitary in acaulescent plants, grouped in well-developed individuals; spathe ovoid, 2 × 0.8 mm, tearing irregularly at the apex at anthesis. Flower: pedicel 2.5–3 mm after anthesis; tepals filiform, 0.6–0.7 mm; androecium longer than the ovary, stamen 1, filament ± 1.7 mm, anther 1 × 0.4–0.5 mm, pollen in dyads; ovary 1.5 × 0.6 mm, gynophore ± 0.2 mm long; stigmas erect, linear, 0.15–0.20 mm. Fruit dehiscent in 2 persistent valves. Seed ellipsoid to ovoid, 0.2 × 0.1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Endémique du Gabon, connu d’une seule récolte des Chutes de l’Impératrice Eugénie dans la Ngounié (Ngounié)
+Endemic to Gabon, known from a single collection from the Falls of Empress Eugénie in the Ngounié (Ngounié)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur rochers granitiques ; à ± 50 m d’altitude. B : Cusset (1984), Sosef et al. (2006). i B liographie
+on granitic rocks; at ± 50 m altitude. B : Cusset (1984), Sosef et al. (2006). Bibliography
 
 ## Notes
 

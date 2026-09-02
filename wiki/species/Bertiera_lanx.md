@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2 m tall. Stipules oblong longitudinally plicate 10–20 (25) mm long. Petiole 8–12 long. Lamina dark brown glabrous above, pubescence visible under lens beneath, oblong-elliptic, 13–20 × 3–5.5 cm, acute at base, lanceolate-acuminate at apex. Nerves 8–10 on each side. Inflorescences narrowly racemose pendulous peduncle 2–4 cm long, cymes contracted c. 5–6 flowers. Flowers subsessile white; calyx puberulous barely cupulate shortly lobed, lobes 0.4–0.5 mm long acute puberulous. Corolla puberulous, in bud 12 mm long acute, tube 1 mm wide. Anthers 4.5 mm long, acuminate. Disk subcylindric 1 mm tall. Fruit globose green subglabrous 10 mm in diameter (7 mm when dry), receptacle accrescent, calyx margin 6 mm in diam. annulate, disk prominent. Locules 2; seeds somewhat subpyramidal, 1.1 mm long.
 
-Frutex 2 m altus. Stipulae oblongae longitudinaliter plicatae 10-20 (25) mm longae. Petiolus 8-12 longus. Lamina atro-brunnea superne glabra, subtus pubescentia sub lente visibili, oblongo-elliptica, 13-20 × 3-5,5 cm, basi acuta, apice lanceolato-acuminata. Nervi utrinque 8-10. Inflorescentiae anguste
+Small shrub 2 m tall; young branches with ochraceous appressed pubescence. Stipules folded lengthwise, axis slightly arcuate convex outwardly, pubescent outwardly, 10–20 (25) mm long, c. 5 mm wide. Petiole 8–12 mm with appressed hairs. Lamina brown ± discolorous, glabrous above, with appressed very fine and sparse pubescence on the lower surface, oblong elliptic, 13–20 × 3–5.5 cm, acute at base, apex attenuate subacuminate. Secondary nerves 8–10 pairs.
 
-racemosae pendentes pedunculo 2-4 cm longo, cymulis contractis circ. 5-6 floris. Flores subsessiles albi; calyx puberulus vix cupulatus breviter lobatus, lobis 0,4-0,5 mm longis acutis puberulis. Corolla puberula, in alabastro 12 mm longo acuto, tubo 1 mm lato. Antherae 4,5 mm longae, acuminatae. Discus subcylindricus 1 mm altus. Fructus globosus viridis subglaber 10 mm in diametro (7 mm in sicco), receptaculo acrescenti, margine calycis 6 mm in diam. annulata, disco prominenti. Loculi 2; semina arte subpyramidata, 1,1 mm longa.
+Inflorescences terminal pendulous in raceme of ± spaced cymes, opposite or subopposite 6–10 cm long with peduncle 2–4 cm; contracted cymes of c. 5–6 subsessile flowers. Bud white. Calyx finely puberulent, very shortly cupuliform, with small acute teeth barely reaching 0.5 mm. Corolla puberulent reaching at least 12 mm in length in the bud, with acute attenuate apex and narrow tube part barely 1 mm wide; internal pubescence moderate toward the base of lobes, finely crisped at infrastaminal level, with very narrow lines of hairs in the petal axes. Anthers reaching 4.5 mm, linear acuminate. Disk 1 mm tall surpassing the calyx lobes.
 
-Petit arbuste de 2 m de hauteur; jeunes rameaux à pubes-cence ochracée apprimée. Stipules pliées en long, à axe légèrement arqué convexe extérieurement, pubescentes extérieurement, longues de 10-20 (25) mm, larges d'env. 5 mm. Pétiole de 8-12 mm à poils apprimés. Limbe brun ± discolore, glabre dessus, à pubes-cence couchée très fine et peu dense sur la face inférieure, oblong elliptique, de 13-20 × 3-5,5 cm, à base aiguë, à sommet atténué subacuminé. Nervures secondaires 8-10 paires.
-
-Inflorescences terminales pendantes en grappe de cymules ± espacées, opposées ou subopposées longues de 6-10 cm dont le pédoncule de 2-4 cm; cymules contractées d'env. 5-6 fleurs subses-siles. Bouton blanc. Calice finement pubérulent, très courtemment cupuliforme, à petites dents aiguës atteignant à peine 0,5 mm. Corolle pubérulente atteignant au moins 12 mm de longueur dans le bouton, avec le sommet atténué aigu et la partie étroite du tube d'à peine 1 mm de largeur; pubescence interne médiocre vers la base des lobes, finement crépue au niveau infrastaminal, à très étroites lignes de poils dans les axes pétalaires. Anthères atteignant 4,5 mm, linéaires acuminées. Disque haut de 1 mm dépassant les lobes calycinaux.
-
-Fruit à peine pubérulent, globuleux, à côtes méridiennes à peu près indistinctes à sec, vert et de 10 mm de diam. avant maturité, à réceptacle en plateau accrescent atteignant 6 mm de diam., surmonté du disque persistant. Le limbe calveinal forme une étroite colerette sinueuse. Graine anguleuse brune de 1,1 mm; plus de 200 graines dans un fruit.
+Fruit barely puberulent, globose, with meridional ribs scarcely distinct when dry, green and 10 mm diam. before maturity, receptacle discoid accrescent reaching 6 mm diam., topped by the persistent disk. The calyx limb forms a narrow sinuous collar. Seed angular brown 1.1 mm; more than 200 seeds in a fruit.
 
 ## Type
 
@@ -34,9 +30,7 @@ N. Hallé et J.-F. Villiers 5117, Mont Méla, Monts de Cristal (boutons 9 fév. 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espece s'apparente parmi les Bertiera du sous-genre type, au B. spicata (Gaertn.) Wernh. connu seulement du Sénégal au Liberia et qui présente le même type de fruit. Le fruit est couronnée de la même facon chez B. Pauloi Verdcourt qui est une espèce du Kénya appartenant au sous-genre Bertierella.
+This species is related among the Bertiera of the typical subgenus to B. spicata (Gaertn.) Wernh. known only from Senegal to Liberia and which presents the same type of fruit. The fruit is crowned in the same way in B. Pauloi Verdcourt which is a species from Kenya belonging to the subgenus Bertierella.
 
 ## Specimens examined
 

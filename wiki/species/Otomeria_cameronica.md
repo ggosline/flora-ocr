@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect or suberect herb 20–80 cm tall, ± branched. Stem cylindrical pubescent. Stipules pubescent with 3–5 filiform teeth 2–4 mm long. Petiole pubescent 1–10 mm. Lamina ± puberulent on both surfaces, ovate ± lanceolate 15–65 × 7–26 mm, with acute decurrent base. 6–8 pairs of pubescent secondary veins.
 
-Herbe dressée ou redressée de 20-80 cm, ± rameuse. Tige cylindrique pubescente. Stipules pubescentes à 3-5 dents filiformes de 2-4 mm. Pétiole pubescent de 1-10 mm. Limbe ± pubérulent sur les deux faces, ové ± lancéolé de 15-65 × 7-26 mm, à base aiguë décurrente. 6-8 paires de nervures secondaires pubescentes.
+Spiciform inflorescences pluriflorous 2–10 (13) cm long; they are inserted 1–2 per node often bearing 1–2 vegetative branches. Flowers sessile geminate. Calyx pubescent with 5 very unequal lobes; the largest is ovate-acute, 3–4 mm long and trinervate. Corolla white ± pubescent with tube 4–5 mm, slightly expanded toward the throat. 5 oblong acute lobes. Ovary turbinate pubescent.
 
-Inflorescences spiciformes pluriflores longues de 2-10 (13) cm; elles sont insérées par 1-2 à des nœuds portant souvent 1-2 ramifications végétatives. Fleurs sessiles jumelées. Calice pubescent à 5 lobes très inégaux; le plus grand est ové-aigu, long de 3-4 mm et trinervié. Corolle blanche ± pubescente à tube de 4-5 mm, un peu évasé vers la gorge. 5 lobes oblongs aigus. Ovaire turbiné pubescent.
+Fruit obconical-ovoid longitudinally nerved, 3–5 mm long, pubescent.
 
-Fruit obconique-ovoïde nervuré longitudinalement, long de 3-5 mm, pubescent.
-
-PL. 21. — Otomeria micrantha K. Schum. : 1, rameau florifère (N. Hallé 2816); 2, bouton; 3, fleur épanouie; 4, fleur en coupe; 5, étamine (2 à 5 et 7, N. H. et G. C. 5922); 6, portion d'infrutescence; 7, coupe de fruit vert plein; 8, graine (6 et 8, N. H. 2746).
+PL. 21. — Otomeria micrantha K. Schum.: 1, flowering branch (N. Hallé 2816); 2, bud; 3, flower open; 4, flower in section; 5, stamen (2 to 5 and 7, N. H. and G. C. 5922); 6, portion of infructescence; 7, section of green fruit whole; 8, seed (6 and 8, N. H. 2746).
 
 ## Type
 
@@ -38,11 +36,9 @@ Migeod 354 (K, non vu), Bamenda, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The whole material that we refer to this species shows a certain variability in the form of the laminae and the vigour of the stems.
 
-L'ensemble du matériel que nous rapportons à cette espèce présente une certaine variabilité dans la forme des limbes et la vigueur des tiges.
-
-De Sierra-Leone et Guinée jusqu'au Congo occidental. Lisières, brousse humide demi-ombragée, cultures.
+From Sierra Leone and Guinea to western Congo. Forest margins, damp semi-shaded bush, cultivated areas.
 
 ## Specimens examined
 

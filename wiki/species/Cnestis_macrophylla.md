@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PR 103 (4, 127) : 51 (1938) ; LEMMENS, in BRETELER (éd.), AUWP 89 (6) : 205, fig. 92-93 (1989). TYPE : Cameroon, Bipindi, Zenker 947 (lecto-G ; iso-BM, K, P).
 
-PR 103 (4, 127) : 51 (1938) ; LEMMENS, in BRETELER (éd.), AUWP 89 (6) : 205, fig. 92-93 (1989). TYPE : Cameroun, Bipindi, Zenker 947 (lecto-G ; iso-BM, K, P).
+Liane. Branches cylindrical, young branches often somewhat angular with brownish-yellow pubescence, early glabrescent.
 
-Liane. Rameaux cylindriques, jeunes rameaux souvent un peu anguleux avec une pubescence brun-jaunâtre, tôt glabrescents.
+Leaves 2-4-jugate ; petiole with a distinct blackish articulation at the base, 8-13.5 cm long, rachis 7.5-19 cm, glabrous or finely pubescent. Leaflets rigidly papyraceous, the lateral ones ± opposite, elliptic or (narrowly) obovate, 7-19 × 4-8 cm, with cuneate or rounded and slightly unequal or equal base, the terminal leaflet (narrowly unequal, the length of the leaflet) is formed of 10 cm.
 
-Feuilles 2-4-juguées ; pétiole avec une articulation noirâtre nette à la base, long de 8-13,5 cm, rachis de 7,5-19 cm, glabre ou finement pubescent. Folioles rigidement papyracées, les latérales ± opposées, elliptiques ou (étroitement) obovées, 7-19 × 4-8 cm, à base cunée ou arrondie et légèrement inégale ou égale, la foliole terminale (étroitement inégal, la longueur de la floule) est formée de 10 cm.
+tely) obovate, 11-19 × 4.5-8.5 cm, cuneate at the base ; all leaflets acuminate and glabrous on both faces ; midvein impressed above, prominent below ; lateral veins 6-8 pairs ; tertiary veins reticulate, distinct on both faces ; petiolules 8-11 mm long, black when dry, glabrous or finely pubescent.
 
-tement) obovée, 11-19 × 4,5-8,5 cm, cunée à la base ; toutes les folioles sont acuminées et glabres sur les 2 faces ; nervure médiane imprimée dessus, proéminente dessous ; nervures latérales 6-8 paires ; nervures III réticulées, nettes sur les deux faces ; pétioiules longs de 8-11 mm, noirs sur le sec, glabres ou finement pubescents.
+Inflorescences in racemes, grouped by 3-5 on the trunk (cauliflory), ≤ 16.5 cm long, ≤ 30-flowered, with brown hairs. Bracts subulate, 1-2 mm long, generally curved. Pedicels articulated 0-2 mm below the calyx, pubescent.
 
-Inflorescences en racèmes, groupés par 3-5 sur le tronc (cauliflorie), long de ≤ 16,5 cm, ≤ 30-flores, avec des poils bruns. Bractées subulées, longues de 1-2 mm, en général courbées. Pédicelles articulés à 0-2 mm au-dessous du calice, pubescents.
+Flowers : sepals spreading or reflexed, narrowly oblong, 5.5-7.5 × 0.8-1.3 mm, acute, external face pubescent, internal face glabrous with 3-5 distinct veins. Petals narrowly oblong to linear, 8 × 0.6-1 mm, inflexed at the apex, glabrous, veins 1-3, distinct. Stamens with anthers 0.2 mm long.
 
-Fleurs : sépales étalés ou réfléchis, étroitement oblongs, 5,5-7,5 × 0,8-1,3 mm, aigus, face externe pubescente, face interne glabre avec 3-5 nervures nettes. Pétales étroitement oblongs à linéaires, 8 × 0,6-1 mm, infléchis au sommet, glabres, nervures 1-3, nettes. Étamines à anthères longues de 0,2 mm.
+Fruits : mature follicles 1-3 per flower (narrowly) ellipsoid, oblique, 3.5-4.4 × 0.7-1.1 cm, cuneate, long-stipitate with a 7-10 mm stipe at the base ; beak ± thin, distinct, 4-20 mm long ; pericarp with very short red spinescent hairs and long urticating hairs easily caducous on the external face while the internal face bears long yellowish more slender hairs.
 
-Fruits : follicules mûrs 1-3 par fleur (étroitement) ellipsoïdaux, obliques, 3,5-4,4 × 0,7-1,1 cm, cunés, longuement stipités de 7-10 mm à la base ; bec ± mince, net, long de 4-20 mm ; péricarpe avec de très courts poils épineux rouges et de longs poils urticans facilement caducés sur la face externe alors que la face interne porte de longs poils jaunâtres plus grêles.
-
-Graines (ob)ovoides, 16 × 8 mm, sarcotesta long de 5 mm. – Pl. 16, p. 57.
+Seeds (ob)ovoid, 16 × 8 mm, sarcotesta 5 mm long. – Pl. 16, p. 57.
 
 ## Type
 
@@ -41,21 +39,15 @@ Zenker 947, Bipindi, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Ouest du Nigéria, Ouest du Cameroun et Ouest du Gabon
+Southwestern Nigeria, Western Cameroon and Western Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+rainforests
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce ne diffère de C. corniculata que par ses pétio-lules très longs (8-11 mm), presque noirs sur le sec alors que ceux de C. corniculata ont ≤ 5 mm. Pour les autres caractères, elle se trouve bien en deçà des limites de la variation de C. corniculata : elle y est particulièrement proche du type de C. congolana. On n'a récolté jusqu'ici que deux spécimens en fruit et les fleurs sont incomplètement connues. Dans le présent ouvrage, ce taxon a été maintenu au rang spécifique ; toutefois un apport ultérieur de matériel pourrait justifier sa réduction à une variété de C. corniculata
+This species differs from C. corniculata only in its very long petiolules (8-11 mm), almost black when dry whereas those of C. corniculata are ≤ 5 mm. For the other characters, it falls well within the limits of variation of C. corniculata : it is particularly close to the type of C. congolana. Only two fruiting specimens have been collected so far and the flowers are incompletely known. In the present work, this taxon has been maintained at specific rank ; however, future material could justify its reduction to a variety of C. corniculata
 
 ## Specimens examined
 

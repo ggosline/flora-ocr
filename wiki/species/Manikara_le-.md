@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Leaves oblong, elongate, attenuate at the apex, cuneate at the base, 25–30 cm long, 6.5–8.5 cm wide, coriaceous, glabrous. About twenty secondary nerves, very prominent beneath, converging very close to the margin. Network very apparent of parallel venules perpendicular to the secondary nerves, and of veinlets. Long petiole, about 4 cm.
 
-Feuilles oblongues allongées, atténuées au sommet, cunéi-formes à la base, 25-30 cm long, 6,5-8,5 cm large, coriaces, glabres. Une vingtaine de nervures secondaires, très saillantes dessous, se réunissant très près de la marge. Réseau très apparent de nervilles parallèles perpendiculaires aux nervures secondaires, et de veinules. Long pétiole, d'env. 4 cm.
+Flowers in fascicles on old branches. Pedicels long, about 2 cm, and tomentose. Sepals 6, tomentose externally, about 7 mm long. Corolla with short tube 1.7 mm long. Lobes 6, each furnished with 2 appendages as long as the lobes, 6–7 mm long. Stamens 6 and staminodes 6 (sometimes 4–5), inserted at the level of petal insertion. Stamens with short filaments somewhat pubescent, bearing long anthers somewhat pubescent. Staminodes triangular, laciniate at the edges and pubescent.
 
-Fleurs en fascicules sur les rameaux âgés. Pédicelles longs, env. 2 cm, et tomentaux. Sépales 6, tomentaux extérieurement, env. 7 mm long. Corolle à tube court de 1,7 mm long. Lobes 6, chacun muni de 2 appendices aussi longs que les lobes, 6-7 mm
-
-long. Étamines 6 et staminodes 6 (parfois 4-5), insérés à hauteur de l'insertion des pétales. Étamines à courts filets un peu pubescents, portant de longues anthères un peu pubescentes. Staminodes triangulaires laciniés sur les bords et pubescents.
-
-Ovaire hirsute, loges 6 (4-5). Fruit inconnu.
+Ovary hirsute, locules 6 (4–5). Fruit unknown.
 
 ## Type
 
@@ -33,9 +29,7 @@ Le Testu 9322, Ngon, entre l'Ogooué et le Cameroun (fl. oct.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce remarquable, mais très imparfaitement connue par un spécimen unique de Le Testu.
+Remarkable species, but very imperfectly known from a single specimen of Le Testu.
 
 ## Figures
 

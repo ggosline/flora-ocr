@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Épilets sessiles mutiques ; glume inférieure de l'épillet sessile aplatie ..... C. citatus 1. Épilets sessiles aristés ; glume inférieure de l'épillet sessile avec un sillon médian ..... C. densiflorus
+1. Spikelets sessile muticous; lower glume of sessile spikelet flattened ..... C. citatus 1. Spikelets sessile awned; lower glume of sessile spikelet with a median groove ..... C. densiflorus
 
 13.1 Cymbopogon citratus (DC.) Stapf
 

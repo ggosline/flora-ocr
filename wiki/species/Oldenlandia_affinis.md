@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender herb, creeping, branched, erect, reaching 40 cm or more. Internodes 2-4(6) cm, cylindrical with 4 very fine ridges, glabrous. Stipules in a collar connate to the petiolar margins, with unidentate or pilose border, hairs rare: at least a few at the apex of the sub-stipular ridges. Petiole very short with margins slightly pilose-denticulate. Blade finely scabrous on the upper face, at least along the margin borders, 10-35 × 1.5-8 mm; base subacute; apex attenuate narrowly lanceolate. Secondary veins very inconspicuous.
 
-Herbe grêle, rampante, rameuse, redressée, longue de 40 cm ou plus. Entrençéds de 2-4(6) cm, cylindriques à 4 très fines
+Inflorescences in axillary or ± terminal cymes, often grouped in loose panicles. Axes slender, glabrous and divaricate; branching dichasial, sometimes appearing trichasial. Pedicels (1)3-14 mm. Calyx glabrous with (3)4 teeth barely 1 mm. Bud apex narrowly obtuse. Corolla violet, 5-6 mm long, with a long and narrow nectariferous tube, with 4 lanceolate lobes. Heterostyly pronounced: filaments of variable length; anthers either exsert or positioned at the level of the pubescent throat. Style slender violet with 2 long papilliferous lobes, ± exsert and in eccentric position at anthesis. Annular disk. Ovules numerous surrounded by interstitial placental projections (F. Hallé).
 
-arêtes, glabres. Stipules en collerette connées aux marges pétiolaires, à bord unidenté ou pileux, à poils rares : quelques-uns au moins au sommet des arêtes sous-stipulaires. Pétiole très court à marges un peu pileuses-denticulées. Limbe finement scabre à la face supérieure, au moins en bordure des marges, de 10-35 × 1,5-8 mm; base subaigue; sommet atténué étroitement lancéolé. Nervures secondaires très peu apparentes.
-
-Inflorescences en cymes axillaires ou ± terminales, souvent groupées en panicules lâches. Axes grêles, glabres et divariqués; ramification bipare, parfois d'aspect tripare. Pédicelles de (1)3-14 mm. Calice glabre à (3)4 dents ayant à peine 1 mm. Sommet du bouton étroitement obtus. Corolle violette longue de 5-6 mm, à tube nectarifère long et étroit, à 4 lobes lancéolés. Hétérostylie sensible : filets de longueur variable; anthères soit exsertes, soit situées au niveau de la gorge pubescente. Style grêle violet à 2 lobes papillifères longs, ± exserts et en position excentrique à l'anthèse. Disque annulaire. Ovules nombreux entourés de saillies placentaires intersticielles (F. Hallé).
-
-Capsule globuleuse de 2-3 mm, à fente de déhiscence dépassant vers le bas, le rebord calycinal. Petite graine roussâtre ovée-subanguleuse atteignant à peine 0,5 mm.
+Capsule globose, 2-3 mm, with dehiscence slit projecting downward beyond the calyx rim. Small reddish-brown seed ovate-subangular barely reaching 0.5 mm.
 
 ## Type
 
@@ -39,11 +35,9 @@ Koenig, Indes orientales (non vu)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Liberia to East and southern Africa; also in tropical Asia to Malesia.
 
-Du Libéria jusqu'en Afrique orientale et australe; également en Asie tropicale jusqu'en Malaisie.
-
-Terrains découverts et ensoleillés : parfois en savane.
+Open and sunny terrain: sometimes in savanna.
 
 ## Specimens examined
 

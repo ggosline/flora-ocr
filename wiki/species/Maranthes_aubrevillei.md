@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in WHITE, BJBB 46 : 295 (1976).
 
 — Parinari aubrevillei PELLEGRIN, Bull. Soc. Bot. France 78 : 440 (1931); KEAY, FWTA, ed. 2, 1 (2) : 428 (1958); AUBR., FFCI, ed. 2, 1 : 184, tab. 56 (1959); VOORHOEVE, Liberian High For. Trees : 317, tab. 59 F (1965).
 
-Cette espèce n'est connue au Cameroun que par 2 échantillons stériles : Arbre atteignant 80 cm de diamètre et 30 m de hauteur totale; fût vertical, cylindrique, à peine évasé à la base avec de très petites pattes arrondies; rhytidome marbré de blanchâtre, de grisâtre, de noirâtre, de verdâtre, irrégulièrement écailleux à la longue. Pétiole, densément hirsute puis glabrescent, ne dépassant guère 5 mm; limbe elliptique à oblong atteignant jusqu'à  $ 7 \times 19 $ cm (dont l'acumen de 1,5 cm), à base arrondie subcordée avec 2 glandes circulaires marginées à l'extrémité du bord du limbe contre le pétiole, à sommet largement aigu à obtus avec net acumen étroit garni de petites glandes circulaires marginales formant denticulation, à 15 paires de nervures latérales au maximum, très obliques (30-45°) sur la nervure médiane et assez rectilignes avec nervures tertiaires intercalaires subscalariformes.
+This species is known from Cameroon only through 2 sterile specimens: Tree reaching 80 cm in diameter and 30 m in total height; trunk vertical, cylindrical, scarcely flared at the base with very small rounded buttresses; rhytidome marbled with whitish, greyish, blackish, greenish, irregularly scaly in the long term. Petiole, densely hirsute then glabrescent, scarcely exceeding 5 mm; blade elliptic to oblong reaching up to 7 × 19 cm (of which the acumen 1.5 cm), with rounded subcordate base with 2 circular margined glands at the blade margin extremity against the petiole, with broadly acute to obtuse apex with a distinct narrow acumen furnished with small circular marginal glands forming denticulation, with 15 pairs of lateral veins at maximum, very oblique (30–45°) to the midvein and fairly straight with subscalariform intercalary tertiary veins.
 
-D'après la diagnose, les échantillons et observations disponibles pour d'autres territoires :
+According to the diagnosis, the specimens and observations available for other territories:
 
-Jeunes rameaux éparsement hirsutes; stipules linéaires, 15 mm, aiguës, hirsutes. Limbe elliptique 4-7 × 7-16 cm; dessous de la feuille juvénile laineux-aranéeux, puis glabre; nervures latérales 7-13 paires. Inflorescences en panicules corymbiformes aphyllos, larges, densément fleuries, hirsutes. Bractées et bractéoles tardivement caduques, ovales concaves, avec marge à petites dents noires vers le sommet, soyeuses argentées extérieurement, glabres intérieurement; pédicelle long de 2-4 mm avec, à la base, touffe de poils et bractées ovales, de 4-5 mm, longuement soyeuses extérieurement et assez persistantes. Réceptacle subcampanulé, 3-5 mm, finement feutré cuivré doré extérieurement comme les sépales de 5-6 mm; pétales oblongs, 4-4,5 × 10 mm, peu rétrécis à la base, aiguus au sommet; étamines 25-30, à filets de 18-20 mm; (2-)3 carpelles, densément hirsutes, style long de 18 mm.
+Young branches sparsely hirsute; stipules linear, 15 mm, acute, hirsute. Blade elliptic 4–7 × 7–16 cm; abaxial surface of the juvenile leaf woolly-arachnoid, then glabrous; lateral veins 7–13 pairs. Inflorescences in corymbiform aphyllous panicles, broad, densely flowered, hirsute. Bracts and bracteoles tardily deciduous, ovate concave, with margin bearing small black teeth toward the apex, silky silvered on the exterior, glabrous on the interior; pedicel 2–4 mm long with, at the base, a tuft of hairs and ovate bracts, 4–5 mm, longly silky on the exterior and rather persistent. Receptacle subcampanulate, 3–5 mm, finely felted coppery golden on the exterior as are the sepals 5–6 mm; petals oblong, 4–4.5 × 10 mm, scarcely narrowed at the base, acute at the apex; stamens 25–30, with filaments 18–20 mm; (2–)3 carpels, densely hirsute, style 18 mm long.
 
-Jeunes fruits obovoïdes, glabres. — PL. 29, p. 101.
+Young fruits obovoid, glabrous. — PL. 29, p. 101.
 
 ## Type
 
@@ -36,15 +34,13 @@ Aubréville 185, Côte d'Ivoire (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+Species well characterized by the subcordate base of the blade and the denticulate acumen.
 
-Espèce bien caractérisée par la base subcordée du limbe et l'acumen denticulé.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Maranthes aubrevillei (Pellegr.) Prance est connue en Sierra Leone, Liberia, Côte d'Ivoire et Ghana. Retrouvée au Cameroun par 2 exemplaires de la région Nyabessan-Akom II-Ebolowa, en forêt atlantique à Césalpiniacées, cette espèce existe aussi, semble-t-il, à 50 km au SW de Mamfe.
+Maranthes aubrevillei (Pellegr.) Prance is known from Sierra Leone, Liberia, Côte d'Ivoire and Ghana. Rediscovered in Cameroon through 2 specimens from the Nyabessan-Akom II-Ebolowa region, in Atlantic forest with Caesalpiniaceae, this species also exists, it would seem, 50 km SW of Mamfe.
 
 ## Vernacular names
 

@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-PL. 141. – Eulophia alta (L.) Fawc. & Rendle : A, labelle et éperon, vue latérale ; B, labelle et éperon étalés ; C, sépale latérale ; D, pétale ; E, sépale dorsal. – Eulophia calantha Schltr. : F, labelle, éperon, gynostème, pédicelle et ovaire, vue latérale ; G, labelle et éperon étalés ; H, sépale latérale ; I, pétale ; J, sépale dorsal (A-E, Thomas 2316, P ; F-J, Baum 361, HBG).
+PL. 141. – Eulophia alta (L.) Fawc. & Rendle : A, labellum and spur, lateral view ; B, labellum and spur spread out ; C, lateral sepal ; D, petal ; E, dorsal sepal. – Eulophia calantha Schltr. : F, labellum, spur, gynostemium, pedicel and ovary, lateral view ; G, labellum and spur spread out ; H, lateral sepal ; I, petal ; J, dorsal sepal (A-E, Thomas 2316, P ; F-J, Baum 361, HBG).
 
 – Lissochilus angolensis (Rchb.f.) Rchb.f., Otia Bot. Hamburg. 1 : 64 (1878).
 
@@ -41,33 +39,29 @@ PL. 141. – Eulophia alta (L.) Fawc. & Rendle : A, labelle et éperon, vue lat�
 
 – Lissochilus katentaniensis De Wild., Bull. Jard. Bot. Etat Brux. 6: 91 (1919).
 
-Organes pérennes rhizomateux, 1-5 cm de diamètre, charnus. Feuilles 2-5, 20-130 x 0,7-5 cm. Inflorescence < 210 cm, 15-30-flore. Sépales brun-violet ou jaunes, pétales et labelle jaunes. Sépale dorsal linéaire-spatulé. Pétales obliquement elliptiques. Sépales latéraux linéaires-spatulés. Labelle 16-28 x 10-20 mm, faiblement trilobé vers le milieu, callus formé de 2 crêtes charnues, dans la moitié ou le tiers basal, et 3 crêtes crénelées hautes à la base ou au centre du lobe médian ; lobe médian ligulé ondulé sur les marges ; lobes latéraux arrondis, entiers. Éperon sacciforme-conique. – Pl. 142, p. 319.
+Perennial rhizomatous organs, 1-5 cm in diameter, fleshy. Leaves 2-5, 20-130 × 0.7-5 cm. Inflorescence < 210 cm, 15-30-flowered. Sepals brown-violet or yellow, petals and labellum yellow. Dorsal sepal linear-spatulate. Petals obliquely elliptic. Lateral sepals linear-spatulate. Labellum 16-28 × 10-20 mm, weakly trilobed toward the middle, callus formed of 2 fleshy crests in the basal half or third, and 3 crenate crests at the base or center of the median lobe; median lobe ligulate undulate at the margins; lateral lobes rounded, entire. Spur sacciform-conical. – Pl. 142, p. 319.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Gambie, Guinée-Bissau, Sierra Leone, Côté d'Ivoire, Burkina Faso, Ghana, Togo, Nigeria, Cameroun, Gabon, Angola, Congo, République centrafricaine, Zaïre, Rwanda, Burundi, Soudan, Éthiopie, Ouganda, Kenya, Tanzania, Zambie, Malawi, République sudafricaine
+Senegal, Gambia, Guinea-Bissau, Sierra Leone, Côte d'Ivoire, Burkina Faso, Ghana, Togo, Nigeria, Cameroon, Gabon, Angola, Congo, Central African Republic, Zaire, Rwanda, Burundi, Sudan, Ethiopia, Uganda, Kenya, Tanzania, Zambia, Malawi, South African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-2,300 m. Terrestrial in brackish or non-brackish swamps, grassland periodically flooded by lake or river
 
-alt. 0-2 300 m. Terrestre en marais saumâtre ou non, prairie périodiquement inondée par lac ou rivière
+MATERIAL STUDIED (Map 65) :
 
-MATÉRIEL ÉTUDIÉ (Carte 65) :
+Descoings 6292, environs of NDendé, Ferra pool, road to Mouila (fl. Nov.), P!.
 
-Descoings 6292, environs de NDendé, mare de Ferra, route de Mouila (fl. Nov.), P!.
+De Wilde & De Wilde-Bakhuizen 11292, Nyanga, Gamba, 37.5 km from Gamba airport, road to Maionamié on the Riv. Nyanga, open herbaceous savanna plain, approximately 2°58' S, 10°18' E (fl. Dec.), WAG!.
 
-De Wilde & De Wilde-Bakhuizen 11292, Nyanga, Gamba, 37,5 km de l'aéroport de Gamba, route de Maionamié sur la Riv. Nyanga, savane herbeuse ouverte plane, environ à 2 58 S, 10 18 E (fl. Déc.), WAG!.
+Le Testu 1262, Paogilou, brackish zone (fl. Dec), BM, BR, P ; 5151 - Haute Ngounyé, Ndendé (fl. Dec.), BM!, BR!.
 
-Le Testu 1262, Paogilou, zone saumâtre (fl. Déc), BM, BR, P ; 5151 - Haute Ngounyé, Ndendé (fl. Déc.), BM!, BR!.
-
-J. M. & B. Reitsma 2447, Réserve de Lopé, 11° 40' E, 0° 06' S, endroit herbeux humide (fl. Juil.), WAG!.
+J. M. & B. Reitsma 2447, Lopé Reserve, 11°40' E, 0°06' S, damp herbaceous place (fl. Jul.), WAG!.
 
 Thollon s.n., s.loc., P!.
 
-van der Maesen, Louis & de Bruijn 5462, Pointe Denis, 0° 20' N, 9° 21' E, lisière forestière près de jonchaie sur sable blanc en lieu ouvert (fl. Nov.), WAG!.
+van der Maesen, Louis & de Bruijn 5462, Pointe Denis, 0°20' N, 9°21' E, forest edge near rush bed on white sand in open place (fl. Nov.), WAG!.
 
 ## Figures
 

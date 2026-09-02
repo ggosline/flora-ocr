@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Harpullia fosteri SPRAGUE, Kew Bull. : 434 (1908).
 
-Les récoltes conservées au Museum de Paris provenant du Ghana, du Nigeria, du Tchad, du Cameroun, de République Centrafricaine, du Gabon et du Zaïre, ont toutes été rapportées à l'espèce M. fosteri.
+The specimens preserved in the Paris Museum from Ghana, Nigeria, Chad, Cameroon, Central African Republic, Gabon and Zaïre have all been referred to the species M. fosteri.
 
-La planche a été établie d'après un échantillon du Cameroun pour la feuille 8-juguée et d'après un échantillon gabonais pour la fleur et le fruit. Selon LETOUZEY, c'est un arbre assez rare, atteignant 35 m, avec un fût sinueux d'une douzaine de mètres pour 1 m de diamètre. L'écorce, épaisse de 1 cm, a l'odeur de baume du Pérou. Les loges de la capsule contiennent 2 graines.
+The plate was prepared from a Cameroon specimen for the 8-jugate leaf and from a Gabonese specimen for the flower and fruit. According to LETOUZEY, it is a fairly rare tree, reaching 35 m, with a sinuous trunk some twelve metres long and 1 m in diameter. The bark, 1 cm thick, has the odour of balsam of Peru. The capsule locules contain 2 seeds.
 
-Dans la plante gabonaise figurée, les feuilles sont 6-7-juguées. Les inflorescences de 6-8 cm sont des grappes terminales de cymes bipares, avec grandes bractées de 5-6 mm. Les fleurs ♂ ont les sépales gris rosé, avec des poils crépus mêlés de poils en pinceau formant un tomentum de 3-5 dixièmes de millimètres d'épaisseur. Le disque, de 3 mm de diamètre, a une couleur orangée à l'état frais. Capsules larges de 3,5 cm gris rosé extérieurement et pourpres à l'intérieur; elles ne contiennent qu'une graine bleue par loge (Touzet 6). PL. 44, 5-9', p. 193.
+In the illustrated Gabonese plant, the leaves are 6–7-jugate. The inflorescences of 6–8 cm are terminal panicles of biparous cymes, with large bracts of 5–6 mm. The ♂ flowers have grey-pink sepals, with crisp hairs mixed with brush-like hairs forming a tomentum 3–5 tenths of a millimetre thick. The disk, 3 mm in diameter, has an orange colour in the fresh state. Capsules 3.5 cm wide, grey-pink externally and purple internally; they contain only one blue seed per locule (Touzet 6). PL. 44, 5–9', p. 193.
 
 ## Type
 

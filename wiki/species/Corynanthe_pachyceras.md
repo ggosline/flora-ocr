@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree with short bole not exceeding 20 m in height. Wood pink or ochraceous with fine grain but fissile. Plant glabrous. Stipules attenuate, exceeding 1 cm, caducous. Petiole 6–20 mm. Lamina 7–17 × 2.5–7.5 cm, acute at base, acuminate at apex. 7–10 pairs of secondary nerves, the lower ones somewhat more obliquely ascending than the median ones.
 
-Petit arbre court de fût dépassant 20 m de hauteur. Bois rosé ou ochracé à grain fin mais fissile. Plante glabre. Stipules atténuées dépassant 1 cm, caduques. Pétiole de 6-20 mm. Limbe de 7-17 × 2,5-7,5 cm, à base aiguë, à sommet acuminé. 7-10 paires de nervures secondaires, les inférieures étant un peu plus obliques ascendantes que les moyennes.
+Inflorescences axillary grouped subterminally in panicles composed of umbellate racemes, glabrous, 7–12 cm long, with peduncle 3–5 cm. Flowers white tetramerous subsessile grouped. Ovary and calyx glabrous with small ovate fleshy teeth in vivo, scarcely 0.5 mm long, pubescent on the inner face. Corolla 4–5 mm long, with narrow tube flared at the throat, with ovate lobes surmounted by a wart-like ovoidal or globose appendage and pubescent on the midline of the inner face. Anthers exsert with acute apicule, emarginate for one third of their length below the point of attachment, about 2 mm long; filament about 1 mm. Style 5–6 mm; ovary globose exceeding 1 mm.
 
-Inflorescences axillaires groupées subterminales en panicules composés de grappes d'ombelle, glabres, longues de 7-12 cm, à pédoncule de 3-5 cm. Fleurs blanches tétramères subsessiles groupées. Ovaire et calice glabre à petites dents ovées charnues in vivo, ayant à peine 0,5 mm de long, pubescentes sur la face interne. Corolle longue de 4-5 mm, à tube étroit évasé à la gorge, à lobes ovés surmontés par un appendice en verrue ovoïde ou globuleuse et pubescents sur la ligne médiane de la face interne. Anthères exsertes à apicule aigu, échancrées sur un tiers de leur longueur sous le point d'attache, longues d'env. 2 mm; filet d'env. 1 mm. Style de 5-6 mm; ovaire globuleux dépassant 1 mm.
-
-Fruit sec roux de 7-10 × 3-4 mm, pédicellé sur 1 mm environ. Petits lobes calycinaux ovés persistants. Graine de 35 × 0,5 mm, à ailes opposées dont une bifide.
+Dry fruit russet, 7–10 × 3–4 mm, pedicellate for about 1 mm. Small ovate persistent calycine lobes. Seed 35 × 0.5 mm, with opposite wings, one of which is bifid.
 
 ## Type
 
@@ -37,11 +35,9 @@ Zenker 1327 (P!), Bipinde, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Sierra Leone and Guinea (Jacques-Félix 1243, Ziama) to Central African Republic and Congo.
 
-De Sierra-Leone et Guinée (Jacques-Félix 1243, Ziama) jusqu'en Centrafrique et au Congo.
-
-Les écorces contiennent deux alcaloïdes particuliers, la corynanthine et la corynanthéine à propriétés stimulantes. Bois d'œuvre utilisable en construction extérieure (D. Normand).
+The barks contain two particular alkaloids, corynanthine and corynantheine with stimulating properties. Timber suitable for use in external construction (D. Normand).
 
 ## Specimens examined
 

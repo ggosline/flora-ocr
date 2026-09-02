@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 In Cribb & al., Kew Bull. 44(3) : 481 (1989). – TYPE : De Wilde & al. s.n. voucher Van der Laan 815, Gabon, holo-WAG!, iso-BR, K!. – FCAM 3 : 766 (2001).
 
-Tige < 6 cm. Feuilles 6-13, 30-50 x 1,8-2 cm, linéaires, arquées-étalées, inégalement bilobées, chaque lobe étant bi- ou tridenté. Inflorescence dense < 3,5 cm, 10-13-flore, subcapitée. Fleurs assez grandes pour le genre, blanches, avec une tache verte sur le labelle. Sépale dorsal elliptique, obtus, subcucullé, scabre sur la face externe. Sépales latéraux semblables mais obliques. Pétales oblongs-ovés, obtus. Labelle 5-6 x 8-9 mm, obscurément trilobé ou entier, transversalement elliptique ou semi-orbiculaire. Éperon 13-14 mm, parallèle à l'ovaire, largement cylindrique, dilaté à la gorge, comprimé à 4-5 mm du sommet, renflé de façon ellipsoïdale au sommet. – Pl. 152, p. 343.
+Stem < 6 cm. Leaves 6–13, 30–50 × 1.8–2 cm, linear, curved-spreading, unequally bilobed, each lobe bi- or tridentate. Inflorescence dense < 3.5 cm, 10–13-flowered, subcapitate. Flowers rather large for the genus, white, with a green mark on the labellum. Dorsal sepal elliptic, obtuse, subcucullate, scabrous on the outer surface. Lateral sepals similar but oblique. Petals oblong-ovate, obtuse. Labellum 5–6 × 8–9 mm, obscurely trilobed or entire, transversely elliptic or semi-orbicular. Spur 13–14 mm, parallel to the ovary, broadly cylindric, dilated at the throat, compressed 4–5 mm from the apex, swollen ellipsoidally at the apex. – Pl. 152, p. 343.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce connue actuellement que du Gabon
+Species currently known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 100–570 m. Epiphytic or rarely lithophytic
 
-alt. 100-570 m. Épiphyte ou rarement lithophyte
+MATERIAL EXAMINED (Map 72) :
 
-MATÉRIEL ÉTUDIÉ (Carte 72) :
+Arends 891, detritus of the Mbé River, Monts de Cristal, near Kinguélé Falls, 0° 27' N, 10° 15' E, epiphytic (fl. Jan., paratype) ; WAG!.
 
-Arends 891, laisses de la Riv. Mbé, Monts de Cristal, près des chutes de Kinguélé, 0° 27' N, 10° 15' E, épiphyte (fl. Janv., paratype) ; WAG!.
+De Wilde, Sosef & van Nek 10191, approximately 1 km S of Kinguélé, near forest along the Mbé River, alt. 100 m, 0° 26' N, 10° 17' E, probably epiphytic, fallen to ground and become terrestrial in open areas, a second specimen collected as epiphytic, 3 m above ground on river detritus (fl. Jan.), WAG!.
 
-De Wilde, Sosef & van Nek 10191, environ 1 km au S de Kinguélé, près de la forêt le long de la Riv. Mbé, alt. 100 m, 0° 26' N, 10° 17' E, probablement épiphyte, tombé au sol et devenu terrestre aux endroits ouverts, un second échantillon collecté comme épiphyte, à 3 m au-dessus du sol sur les laisses de rivières (fl. Janv.), WAG!.
-
-Van der Laan 815, cult. WAG référence 83PTGA110, Monts de Cristal, 10 km sur la route Kinguélé-Tchimbélé, 0° 38' N, 10° 21' E (fl. Janv.), WAG!.
+Van der Laan 815, cult. WAG reference 83PTGA110, Monts de Cristal, 10 km on the road Kinguélé–Tchimbélé, 0° 38' N, 10° 21' E (fl. Jan.), WAG!.
 
 ## Figures
 

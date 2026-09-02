@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — F.W.T.A. 2:338 (1931).
 
-Herbe dressée ramiﬁée. Feuilles homotropes à limbe brusquement rétréci en un acumen étroit, de taille variable, jusqu'à env.  $ 25 \times 15 $ cm. Parties calleuses et non calleuses du pétiole jusqu'à environ 3 cm de long. Inflorescences en racèmes lâches, simples ou ramiﬁés à la base, jusqu'à 20 cm de long, parfois longuement pédonculés. Bractées d'environ  $ 30 \times 5-8 $ mm, imbriquées, chacune arrivant jusqu'au tiers ou à la moitié de la bractée suivante. Pédoncule commun des ﬂeurs d'environ 2 cm de long, pédicelle de la ﬂeur terminale ± 8 mm. Sépales scarieux, 10 mm, corolle pourpre, longuement tubuleuse. Ovaire pubescent, fruits globuleux, 6 mm de diamètre (?).
+Erect branched herb. Leaves homotropous with lamina abruptly narrowed into a narrow acumen, of variable size, up to approx. 25 × 15 cm. Callous and non-callous parts of the petiole up to about 3 cm long. Inflorescences in lax racemes, simple or branched at the base, up to 20 cm long, sometimes with long peduncles. Bracts about 30 × 5–8 mm, imbricate, each reaching to about one-third or one-half of the next bract. Common peduncle of the flowers about 2 cm long, pedicel of the terminal flower ± 8 mm. Sepals scarious, 10 mm, corolla purple, long tubular. Ovary pubescent, fruits globose, 6 mm in diameter (?).
 
 ## Type
 
@@ -34,9 +32,7 @@ Vogel 165 et 178, Fernando-Po (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante connue en outre du Nigéria et du Cameroun; présence au Gabon très probable. Il était utile de la décrire icine serait-ce que pour faciliter sa distinction d'avec M. cordifolia dont elle est très voisine.
+Plant otherwise known from Nigeria and Cameroon; presence in Gabon very probable. It was useful to describe it here if only to facilitate its distinction from M. cordifolia with which it is very closely related.
 
 ## Notes
 

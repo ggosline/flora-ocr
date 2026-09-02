@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Differing from all other Landolphia VSHFLHVE\WKHFRPELQDWLRQRIDWHUPLQDOLQÀRUHVFHQFHRXWVLGHRI calyx completely covered by hairs, corolla with a glabrous throat and leaves densely soft hairy below.
+Differing from all other Landolphia by the combination of a terminal inflorescence outside of calyx completely covered by hairs, corolla with a glabrous throat and leaves densely soft hairy below.
 
 ## Type
 
@@ -26,17 +24,27 @@ Dibata 1095 +DXW2JRRXp66(RI0RDQGDQHDU0DQGMD\H¶6¶(QRYÀ Liane ; rameaux à poil
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Part of open corolla and pistil (× 4). – 14. Pistil (× 6). – 15. Stamen, ventral (left) and dorsal views, longitudinal section showing the embryo (× 6; specimens: Reitsma 1589 ; 7, 9 : Bos 6114 ; 8 : W.J.J.O. de Wilde 2762 ; 10 : Klaine 995 ; 11-18 : J.J.F.E. de Wilde et al.283 ; 19, 20 : Breteler 1861 ). Drawing by Wil Wessel Brand, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
-Partie de corolle ouverte et pistil (× 4). – 14. Pistil (× 6). – 15. Étamine, vues ventrale (gauche) et dorsale FRXSHORQJLWXGLQDOHPRQWUDQWO¶HPEU\RQîҀ Reitsma 1589 ; 7, 9 : Bos 6114 ; 8 : W.J.J.O. de Wilde 2762 ; 10 : Klaine 995 ; 11-18 : J.J.F.E. de Wilde et al.283 ; 19, 20 : Breteler 1861 ). Dessin par Wil WesselBrand, Naturalis Biodiversity Center (©), reproduit à partir de Persoon et al. (1992).
-
-lobes de 2–2,5 × 1,5–2 mm, pubescents sur toute la surface extérieure , l’intérieur à poils apprimés ; corolle blanche, tube long de ± 6,5 mm , l’extérieur glabre près de la base, plus haut pubescent, l’intérieur poilu au niveau des anthères, la moitié inférieure et la gorge glabres , jOREHVGHîPPSDUWLHOOHPHQWSXEHVFHQWVjO¶H[Wpulhxusuhvtxhjodeuhvjo¶LQWpULHXU étamines insérées au-dessus du milieu du tube, inclus sur 0,5–1 mm, anthère longue de ± 1,5 PPSLVWLOORQJGHPPRYDLUHREFRQLTXHjVRPPHWWURQTXpSRLOXVW\OHGH±PP glabre. Fruit inconnu. Distribution HQGpPLTXHGX+DXW2JRRXpDX*DERQFRQQXG¶XQHVHXOHUpFROWH
+lobes 2–2.5 × 1.5–2 mm, pubescent over the entire outer surface, the interior with appressed hairs; corolla white, tube ± 6.5 mm long, the exterior glabrous near the base, higher up pubescent, the interior pilose at the level of the anthers, the lower half and the throat glabrous, lobes partly pubescent on the exterior almost glabrous on the interior; stamens inserted above the middle of the tube, included by 0.5–1 mm, anther ± 1.5 mm long; pistil ± 4.5 mm long, ovary obconic with truncate apex, pilose; style ± 2.5 mm, glabrous. Fruit unknown. Distribution endemic to Upper Ogooué, Gabon, known from a single collection.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+at ± 450 m altitude. Notes / The herbarium specimen mentioned yellow-green fruits, but only a few minute yellow fruits were found on the herbarium sheet. This species differs from all other Landolphiae by the combination of a terminal inflorescence, a calyx completely covered with hairs on the exterior, a glabrous corolla throat and densely hairy leaves beneath. The leaves of L. owariensis are rarely hairy, but this species has a corolla with a villous throat and a leaf limb which is larger.
 
-à ± 450 m d’altitude. Notes /¶pWLTXHWWHGHO¶KHUELHUPHQWLRQQHGHVIUXLWVMDXQHYHUWPDLVVHXOVGHPLQXVFXOHVMHXQHVIUXLWVRQW été trouvés sur la feuille d’herbier. Cette espèce diffère de toutes les autres Landolphiae SDUODFRPELQDLVRQG¶XQHLQÀRUHVFHQFHWHUPL nale, d’un calice à l’extérieur complètement recouvert de poils, d’une corolle à gorge glabre et de feuilles densément poilues dessous. Les feuilles de L. owariensis sont rarement poilues, mais cette espèce a une FRUROOHjJRUJHYHOXHHWXQOLPEHIROLDLUHTXLHVWSOXVJUDQG Landolphia ferrea -*03HUV Planche 51 Wageningen Agric. Univ. Pap. 92(2) : 64 (1992). Grande liane ; rameaux légèrement rugueux et lenticellés, généralement glabres. Feuille : pétiole de 3–11 mm, nettement séparé du limbe ; limbe étroitement ovale à ovale ou obovale, ±IRLVDXVVLORQJTXHODUJH de 3,1–14,5 × 0,8–4,7 cm , cunéé à arrondi à la base, acuminé au sommet, glabre ou occasionnellement faiblement poilu, généralement brun-rouille dessous sur le sec ; nervures secondaires 8 à 17(27) paires, droites ou légèrement incurvées , planes dessus. ,QÀRUHVFHQFH axillaire Fleur SDUIXPpHSpGLFHOOHMXVTX¶jPP EUDFWpROHVjORQJXHVGH±PPFDOLFHjOREHVLQpJDX[±IRLVDXVVLORQJVTXH larges, de 0,9–1,7 × 0,9–1,4 mm, les deux faces glabres ; corolle blanchâtre, à tube long de 9–13 mm , large de 1,7–2,2 mm au niveau des anthères et de 1,5–2 mm à la gorge, glabre à l’extérieur, SRLOXjORQJVSRLOVjO¶LQWpULHXUGHUULqUHHWMXVTX¶j±PPVRXVOHVDQWKqUHVjOREHVpWURLWHPHQW RYDOHVjHOOLSWLTXHV±IRLVDXVVLORQJVTXHOHWXEH±IRLVDXVVLORQJVTXHODUJHVGH ±î±PPJODEUHVRXjTXHOTXHVWDFKHVGHSRLOVpWDPLQHVLQVpUpHVj±GHOD longueur du tube, incluses de 0,7–1,2 mm , anthère longue de 1,3–1,6 mm ; pistil long de 7,4–12 mm, ovaire densément poilu, rétréci brusquement dans le style long de 5,5–9,7 mm, peu à densément poilu, parfois à apex glabre. Fruit subglobuleux , long de 2,4–6 cm, jaune ou orange pâle, avec 5 à 25 graines ; paroi 1–6 mm d’épaisseur ; pulpe orange. Distribution HQGpPLTXHGX*DERQ(VWXDLUH1JRXQLp2JRRXp,YLQGR2JRRXp/ROR2JRRXp0DUL time et Woleu-Ntem. Écologie IRUrWSULPDLUHHWVHFRQGDLUHMXVTX¶jPG¶DOWLWXGH Notes /HVHXOVSpFLPHQFLWpSRXUOD5pSXEOLTXHGX&RQJRGDQV3HUVRRQ et al. (1992) consiste en une SHWLWHEUDQFKHVWpULOHHWDORUVVDSUpVHQFHUHVWHj\FRQ¿UPHU B : Persoon et al. (1992). IBLIOGRAPHIE
+Landolphia ferrea -JMP Pers Plate 51 Wageningen Agric. Univ. Pap. 92(2) : 64 (1992).
+
+Large liana; branchlets slightly rugose and lenticellate, generally glabrous. Leaf: petiole 3–11 mm, clearly separated from the limb; limb narrowly ovate to ovate or obovate, ± times as long as wide, 3.1–14.5 × 0.8–4.7 cm, cuneate to rounded at base, acuminate at apex, glabrous or occasionally weakly hairy, generally rust-brown beneath when dry; secondary veins 8 to 17(27) pairs, straight or slightly curved, plane above. Inflorescence axillary. Flower perfumed, pedicel up to mm, bracteoles 0–mm long, calyx with unequal lobes ± times as long as wide, 0.9–1.7 × 0.9–1.4 mm, both faces glabrous; corolla whitish, tube 9–13 mm long, 1.7–2.2 mm wide at the level of the anthers and 1.5–2 mm at the throat, glabrous externally, hairy with long hairs internally behind and up to ± mm below the anthers, lobes narrowly ovate to elliptic, ± times as long as the tube, ± times as long as wide, 0–± mm, glabrous or with a few hair spots. Stamens inserted at ± of the tube length, included 0.7–1.2 mm, anther 1.3–1.6 mm long; pistil 7.4–12 mm long, ovary densely hairy, abruptly narrowed in the style 5.5–9.7 mm long, sparsely to densely hairy, sometimes with glabrous apex. Fruit subglobose, 2.4–6 cm long, pale yellow or orange, with 5 to 25 seeds; wall 1–6 mm thick; pulp orange.
+
+Distribution endemic to Gabon. Estuaire, Ngounié, Ogooué, Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem.
+
+Ecology primary and secondary forest up to m altitude.
+
+Notes / The only specimen cited for the Republic of Congo in Persoon et al. (1992) consists of a small sterile branch and thus its presence remains to be confirmed.
+
+B : Persoon et al. (1992).
+
+BIBLIOGRAPHY
 
 ## Notes
 

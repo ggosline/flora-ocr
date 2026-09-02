@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grand arbuste ou petit arbre de 3–6 m de hauteur, glabre ; tronc jusqu’à 15 cm de dia mètre ; écorce lisse, grisâtre, écoulement clair à odeur de champignon ; rameaux forte ment renflés aux noeuds, brun noirâtre à lenticelles plus claires. Stipules tôt caduques . Feuilles décussées ; pétiole 6–12 mm ; limbe elliptique, 11–18 × 5–10 cm, 1,5–2 fois plus long que large, arrondi à la base, aigu et ± apiculé au sommet, épais, glabre, verdâtre des sus, brunâtre dessous , nervure principale rouge dessous, nervures latérales 8–10 paires. Inflorescence axillaire, fasciculée, dense, avec des dizaines de petites fleurs masquant presque entièrement le noeud, sur une bosse verruqueuse exsudant une gomme jaune clair . Fleur petite, 5-mère ; pédicelle 1 mm et stipe jusqu’à 2 mm ; calice campanulé allongé à tubuleux , 3–4,5 × 1–1,5 mm, verdâtre, à 5 lobes courts, droits, triangulaires, 1,5 mm de longueur ; pétales spatulés, 9–10 × 1–1,5 mm, lisses, blancs à blanc crème, frangés-laciniés à partir de 4 mm de la base en 10–12 languettes filiformes ; étamines 10, blanches, glabres, légèrement soudées à la base en une couronne portant 5 dents rectan gulaires de 1 × 0,5 mm, filets épipétales 7,5 mm, les alternipétales 6 mm, anthères étroi tement ovoïdes, 1 × 0,5 mm ; ovaire subglobuleux, 1 mm de diamètre, tomenteux ; style ± 6 mm, grêle stigmate arrondi. Fruit globuleux, 6–7 × 3–5 mm, pubérulent, à stipe de 2–3 mm. Graines 2, ovoïdes, 3 × 1,5–2 mm, brun-rouge, surmontées d’un arille orange couvrant presque entièrement une face.
+Large shrub or small tree 3–6 m tall, glabrous; trunk up to 15 cm diameter; bark smooth, greyish, with clear exudation smelling of fungus; branchlets strongly swollen at the nodes, dark brown to blackish with paler lenticels. Stipules early caducous. Leaves decussate; petiole 6–12 mm; blade elliptic, 11–18 × 5–10 cm, 1.5–2 times longer than wide, rounded at the base, acute and ± apiculate at the apex, thick, glabrous, greenish above, brownish below, midvein red below, lateral nerves 8–10 pairs. Inflorescence axillary, fasciculate, dense, with dozens of small flowers almost entirely masking the node, on a verrucose boss exuding pale yellow gum. Flower small, 5-merous; pedicel 1 mm and stipe up to 2 mm; calyx campanulate to elongate tubular, 3–4.5 × 1–1.5 mm, greenish, with 5 short, straight, triangular lobes, 1.5 mm long; petals spatulate, 9–10 × 1–1.5 mm, smooth, white to cream white, fringed-laciniate from 4 mm from the base into 10–12 filiform languets; stamens 10, white, glabrous, slightly fused at the base into a corona bearing 5 rectangular teeth 1 × 0.5 mm, epipetalous filaments 7.5 mm, alternipetalous filaments 6 mm, anthers narrowly ovoid, 1 × 0.5 mm; ovary subglobose, 1 mm diameter, tomentose; style ± 6 mm, slender, stigma rounded. Fruit globose, 6–7 × 3–5 mm, puberulent, with stipe 2–3 mm. Seeds 2, ovoid, 3 × 1.5–2 mm, reddish-brown, topped with an orange aril covering almost entirely one face.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sierra Léone au Cameroun, au sud vers Angola ; au Gabon, très com mune dans la plaine côtière : provinces de l’Estuaire, de l’Ogooué-Maritime et de la Nyanga. Schurmans, reproduit à partir de Liben (1987), Jardin botanique Meise ©
+from Sierra Leone to Cameroon, southwards to Angola; in Gabon, very common in the coastal plain: provinces of Estuaire, Ogooué-Maritime and Nyanga. Schurmans, reproduced from Liben (1987), Meise Botanical Garden ©
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-abondante dans les bosquets littoraux sur sols sablonneux, savanes, parties exondées des mangroves et forêts marécageuses ; au Gabon et ailleurs, à ± 1–50 m d’alti tude. Floraison de février (boutons en janvier) à juillet ; fruits de mars jusqu’à septembre
+abundant in coastal thickets on sandy soils, savannas, raised parts of mangroves and swamp forests; in Gabon and elsewhere, at ± 1–50 m altitude. Flowering from February (buds in January) to July; fruits from March until September
 
 ## Vernacular names
 

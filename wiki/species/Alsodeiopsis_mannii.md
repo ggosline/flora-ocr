@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1 m tall; bark grey; old branches glabrous. Young branches pubescent, longitudinally striate. Blade glabrous on the upper surface and glabrous or very sparsely pubescent on the lower surface, dark green above and paler green below, 13–21 × 4.5–8 cm; base rounded and apex long acuminate acute mucronate. Midvein weakly concave or raised glabrous on the upper surface and prominently pubescent on the lower surface. Secondary veins 10–19 pairs, ascending, arched, anastomosing 1 mm from the blade margin, prominent on the upper surface and prominent pubescent on the lower surface. Veinlets forming a dense network prominent on both surfaces.
 
-Arbuste haut de 1 m; écorce grise; vieux rameaux glabres. Jeunes rameaux pubescents, striés longitudinalement. Limbe glabre à la face supérieure et glabre ou très éparsement pubescent à la face inférieure, vert foncé dessus et vert plus clair dessous, 13-21 × 4, 5-8 cm; base arrondie et sommet longuement acuminé aigu mucroné. Nervure médiane faiblement concave ou saillante glabre à la face supérieure et saillante fortement pubescente à la face inférieure. Nervures secondaires 10-19 paires, ascendantes, arquées, s'anastomosant à 1 mm du bord du limbe, saillantes à la face supérieure et saillantes pubescentes à la face inférieure. Nervilles en réseau dense saillant sur les deux faces.
+Inflorescence an axillary umbelliform panicle with many flowers (more than 10). Peduncle 0.4–1.2 cm long, pubescent. Pedicels pubescent 1.5–3 mm long. Bracts linear pubescent externally and glabrous internally, narrowly lanceolate, ± erect. Petals connate, with reflexed lobes, pubescent along a median line on the external surface and glabrous internally, narrowly lanceolate, 3.5 × 1 mm; apex acute. Stamens free, gynobasic, 2.25 mm long; filament 1 mm long; anther basifixed with 2 ellipsoid locules; connective appendiculate. Pistil 3.5 mm long; ovary pubescent ellipsoid 0.8 mm long; style sparsely pubescent with globose stigma.
 
-Inflorescence en panicule ombelliforme axillaire multiflore (plus de 10 fleurs). Pédoncule long de 0,4-1,2 cm, pubescent. Pédicelles pubescents longs de 1,5-3 mm. Bractées linéaires pubescentes extérieurement et glabres intérieurement, étroitement lancéolées, ± dressées. Pétales soudés, à lobes réfléchis, pubescents suivant une ligne médiane sur la face externe et glabres intérieurement, étroitement lancéolés, 3,5 × 1 mm; sommet aigu. Étamines libres, gynobasiques, longues de 2,25 mm; filet long de 1 mm; anthère basifixe à 2 loges ellipsoïdes; connectif appendiculé. Pistil long de 3,5 mm; ovaire pubescent ellipsoïde long de 0,8 mm; style éparsement pubescent à stigmate globuleux.
-
-Drupe ellipsoïde, orangée, glabre, 1-4 × 0,8-1,5 cm. Endocarpe carti-lagineux. PL. 6, 1-5, p. 25.
+Drupe ellipsoid, orange, glabrous, 1–4 × 0.8–1.5 cm. Endocarp cartilaginous. PL. 6, 1–5, p. 25.
 
 ## Type
 
@@ -31,9 +29,7 @@ Mann 1805, Mount John, R. Kongui, Guinée équatoriale (holo-, K; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce forme des touffes. Elle se rencontre dans les forêts du Cameroun et du Gabon.
+This species forms clumps. It is found in the forests of Cameroon and Gabon.
 
 ## Specimens examined
 

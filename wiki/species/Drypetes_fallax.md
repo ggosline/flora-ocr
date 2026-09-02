@@ -16,29 +16,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Engler, Pflanzenr. IV, 147, XV (Heft 81): 242 (1922).
 
-Planche 43(7-9)
+Plate 43(7-9)
 
-Arbre ou arbuste, jusqu'à 10 m de hauteur ; tronc jusqu'à 20 cm de diamètre ; entaille jaunâtre, rarement à odeur notable ; ramilles légèrement cannelées, à poils clairsemés à glabres chez les feuilles plus âgées ; bourgeons désément pubérulents. Stipules subpersionistes, linéaires, parfois légèrement incurvées, de 8,7 × 0,8–1,6 mm, désément poilues à l'extérieur, glabres à l'intérieur, à 1 nervure. Feuille : pétiole de 4–6 mm, à poils clairsemés ; limbe étroitement elliptique, de (3,1–)4–5,5(−14) × (1,4–)1,6–2,0(−5,5) cm, papyracé, à base oblique, aiguë d'un côté et largement cunée à arrondie de l'autre, points d'insertion sur le pétiole distants de 0,5–2 mm, à sommet asymétrique, effilé, à acumen de 20–22 × 2–3 mm, droit ou souvent incurvé, à marge très finement dentée à dents arrondies, espacées de 2–3 mm, ondulée sur le sec, glabre sur les deux faces, séchant souvent gris bleuté dessus et brun pâle dessous ; nervure médiane parfois à poils clairsemés dessous, glabre au-dessus, nervures secondaires 6 ou 7 de chaque côté, clairement en boucle, nervation tertiaire réticulée, surélevée sur les deux faces. Inflorescence mâle à l'aisselle des feuilles, avec 1 à 3 fleurs. Fleur mâle : pédicelle grêle,
-
-de 2–2,4 mm, densément pubérulent; sépales 4, imbriqués, suborbiculaires, de 2 × 3 mm, blancs, à poils clairsemés à l'extérieur, glabres à l'intérieur; étamines 8(à 12), obscurément disposées en un verticille autour du bord du disque, plus ou moins insérées entre les lobes du disque, filet de 2,2 mm, blanc, anthère de 0,5 × (0,2–)0,3–0,4 mm, blanchâtre; disque de 1–2 mm de diamètre, blanchâtre, à marge légèrement ondulée, glabre. Inflorescence femelle à l'aisselle des feuilles ou juste sous les feuilles, avec 1 ou 2(à 5) fleurs; bractées de 0,3–0,5 × 0,5 mm. Fleur femelle: pédicelle de 1–2 mm, pubérulent; sépales 4, orbiculaires, 2,1 × 2,3 mm, pubérulents à l'extérieur, puis glabrescents; disque de 2 mm de diamètre, glabre; ovaire 2-loculaire, poilu; style de 0,2 mm, séparé jusqu'à la base, à stigmate réniforme, de 2 × 0,8 mm. Fruit ellipsoidal, de 10 × 8,5 × 8,5 mm, à poils clairsemés, à sépales persistant et poilus; pédicelle de 5–5,5 mm. Graine inconnue.
+Tree or shrub, up to 10 m tall; trunk up to 20 cm in diameter; bark yellowish, rarely with notable odor; branchlets slightly grooved, with scattered hairs to glabrous on older leaves; buds sparsely puberulent. Stipules subpersistent, linear, sometimes slightly incurved, 8.7 × 0.8–1.6 mm, sparsely hairy outside, glabrous inside, with 1 vein. Leaf: petiole 4–6 mm, with scattered hairs; blade narrowly elliptic, (3.1–)4–5.5(−14) × (1.4–)1.6–2.0(−5.5) cm, papyraceous, with oblique base, acute on one side and broadly cuneate to rounded on the other, insertion points on petiole distant 0.5–2 mm apart, with asymmetric apex, attenuate, with acumen 20–22 × 2–3 mm, straight or often incurved, with margin very finely dentate with rounded teeth spaced 2–3 mm apart, undulate when dry, glabrous on both faces, often drying grayish-blue above and pale brown below; midvein sometimes with scattered hairs below, glabrous above, secondary veins 6 or 7 on each side, clearly looping, tertiary venation reticulate, raised on both faces. Male inflorescence in leaf axils, with 1 to 3 flowers. Male flower: pedicel slender, 2–2.4 mm, densely puberulent; sepals 4, imbricate, suborbicular, 2 × 3 mm, white, with scattered hairs outside, glabrous inside; stamens 8(to 12), obscurely arranged in a whorl around the disk margin, more or less inserted between the disk lobes, filament 2.2 mm, white, anther 0.5 × (0.2–)0.3–0.4 mm, whitish; disk 1–2 mm in diameter, whitish, with slightly undulate margin, glabrous. Female inflorescence in leaf axils or just below leaves, with 1 or 2(to 5) flowers; bracts 0.3–0.5 × 0.5 mm. Female flower: pedicel 1–2 mm, puberulent; sepals 4, orbicular, 2.1 × 2.3 mm, puberulent outside, then glabrescent; disk 2 mm in diameter, glabrous; ovary 2-locular, hairy; style 0.2 mm, divided to the base, with reniform stigma, 2 × 0.8 mm. Fruit ellipsoid, 10 × 8.5 × 8.5 mm, with scattered hairs, with persistent hairy sepals; pedicel 5–5.5 mm. Seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, continental Equatorial Guinea, Gabon, Republic of the Congo and Central African Republic; in Gabon: Estuaire
 
-Cameroun, Guinée équatoriale continentale, Gabon, République du Congo et République Centrafricaine ; au Gabon : Estuaire
-
-Habitat: forêts mixtes de terra firme; au Gabon et ailleurs à 150–720 m d'altitude.
+Habitat: mixed terra firme forests; in Gabon and elsewhere at 150–720 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce semble être rare partout. L'acumen allongé et étroit, avec des feuilles papyracées à base inégale, de couleur distincte sur le sec, sont des caractères remarquables qui permettent de distinguer cette espèce en herbier. Les stipules sont très utiles pour l'identification, mais malheureusement elles sont souvent absentes sur les spécimens d'herbier
+This species appears to be rare everywhere. The elongate and narrow acumen, with papyraceous leaves with unequal base and distinct color when dry, are remarkable characters that make it possible to distinguish this species in the herbarium. The stipules are very useful for identification, but unfortunately they are often absent on herbarium specimens.
 
 ## Bibliography
 

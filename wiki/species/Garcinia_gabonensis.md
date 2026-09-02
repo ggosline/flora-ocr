@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou petit arbre dioïque, érigé de 1,5 à 4 m ; latex transparent à verdâtre ; rameaux à section circulaire, ridés, souvent rougeâtres sur le sec ; ramilles lisses, à section aplatie. Feuilles opposées, glabres ; pétiole (4 ‒ )5 ‒ 10( ‒ 12) mm, lisse, légèrement canaliculé dessus, fovéa indistincte, environ 1 mm de longueur ; limbe généralement oblancéolé ou parfois elliptique, rarement ovale, (7 ‒ )8 ‒ 15( ‒ 16) × (2 ‒ )2,5 ‒ 5( ‒ 6) cm, à base aiguë, sommet caudé acuminé, coriace à papyracé ; nervure médiane canaliculée dessus vers la base du limbe, proéminente dessous, nervures latérales 7 ‒ 13 paires, visibles sur les deux faces, plus serrées vers le sommet du limbe, nettement anastomosées en arceaux bien nets et réunies en une nervure inframarginale à (1 ‒ )2 ‒ 3 mm de la marge , réticulation lâches, peu visibles, canaux sécréteurs généralement très peu visibles sauf chez les jeunes feuilles, sinueux, ascendants, subparallèles à la nervure médiane. Inflorescence en fascicules pauciflores, axillaires, généralement sur de courts entrenœuds défeuillés ; bractées nombreuses, petites (< 1 mm). Fleurs tétramères, unisexuées ; pédicelle 2( ‒ 3) mm, grêle ; sépales obovales inégaux , les deux externes ± 2 mm de longueur, les deux internes ± 4 mm de longueur, jaunâtres à verdâtres ; pétales obovales, ± 4 mm de longueur, jaunâtres ou verdâtres à blanc. Fleur mâle : étamines 8 à 14, libres, insérés dans un anneau, à filet élargi et aplati, blancs, anthères ellipsoïdes, courbées ; ovaire rudimentaire largement triangulaire-obovoïde, nettement côtelé, à style simple et grêle de 1 ‒ 2 mm. Fleur femelle à disque annulaire, aplati et apprimé contre l’ovaire ; ovaire globuleux, environ 3 mm de diamètre ; stigmate pelté, lobé, 2 mm de largeur. Fruit ovoïde à subglobuleux, 5 ‒ 11 mm de diamètre, verdâtre, lisse, à sépales persistants à la base.
+Shrub or small dioecious tree, erect 1.5 to 4 m tall; latex transparent to greenish; branches with circular section, wrinkled, often reddish when dry; branchlets smooth, with flattened section. Leaves opposite, glabrous; petiole (4 ‒ )5 ‒ 10( ‒ 12) mm, smooth, slightly canaliculate above, fovea indistinct, approximately 1 mm in length; blade generally oblanceolate or sometimes elliptic, rarely ovate, (7 ‒ )8 ‒ 15( ‒ 16) × (2 ‒ )2.5 ‒ 5( ‒ 6) cm, acute at base, apex caudate acuminate, coriaceous to papyraceous; midvein canaliculate above towards blade base, prominent below, lateral veins 7 ‒ 13 pairs, visible on both surfaces, closer towards blade apex, distinctly anastomosing in well-defined arches and united into an intramarginal vein at (1 ‒ )2 ‒ 3 mm from margin, reticulation loose, scarcely visible, secretory canals generally very inconspicuous except in young leaves, sinuous, ascending, subparallel to midvein. Inflorescence in pauciflorous fascicles, axillary, generally on short defoliate internodes; bracts numerous, small (< 1 mm). Flowers tetramerous, unisexual; pedicel 2( ‒ 3) mm, slender; sepals obovate unequal, the two outer ones ± 2 mm in length, the two inner ones ± 4 mm in length, yellowish to greenish; petals obovate, ± 4 mm in length, yellowish or greenish to white. Male flower: stamens 8 to 14, free, inserted in a ring, with enlarged and flattened filament, white, anthers ellipsoid, curved; rudimentary ovary broadly triangular-obovoid, distinctly ribbed, with simple and slender style 1 ‒ 2 mm. Female flower with annular disc, flattened and appressed against ovary; ovary globose, approximately 3 mm in diameter; stigma peltate, lobed, 2 mm wide. Fruit ovoid to subglobose, 5 ‒ 11 mm in diameter, greenish, smooth, with persistent sepals at base.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique au Gabon, connue du Moyen-Ogooué, de la Ngounié et de la Nyanga (Monts Doudou)
+endemic to Gabon, known from Moyen-Ogooué, Ngounié and Nyanga (Doudou Mountains)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt mature ou secondaire, bord de rivière ou sur crête ; de 170 à 830 m d’altitude. B : Sosef & Dauby (2012). i B liographie
+mature or secondary forest, river edge or ridge-top; 170 to 830 m in altitude. B: Sosef & Dauby (2012). Bibliography
 
 ## Notes
 

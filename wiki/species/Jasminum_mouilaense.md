@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Jasminum kwangense Liben maxime simile, sed ab eo differt calyce majore et corollae tubo breviore.
+Jasminum kwangense Liben most similar, but differs from it by the larger calyx and shorter corolla tube.
 
 ## Type
 
@@ -26,31 +24,23 @@ G. Le Testu 5196 (holo- : P ; iso- : P), Gabon, Ngounié, Mouila, 20 janvier 192
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 6 Frans J. BRETELER & Carel C.H. JONGKIND Center (©).
 
-Jasminum 7 Le Testu 5196 ; 2–4 : Breteler 6969 ). Dessin par Hans de Vries, Jardin botanique Meise (©).
+Jasminum 7 Le Testu 5196 ; 2–4 : Breteler 6969 ). Drawing by Hans de Vries, Meise Botanic Garden (©).
 
-8 Frans J. BRETELER & Carel C.H. JONGKIND Liane ; ramilles pubérulentes, glabrescentes. Feuilles simples (unifoliolées), opposées ou subopposées ; pétiole droit ou géniculé, subcylindrique, aplati à légèrement canaliculé dessus, 4–6(–7) mm, pubérulent ; limbe obovale-elliptique, (2–)2,5–3(–3,5) fois plus long que large, (5–)8–9(–10) × 2–3,5 cm, arrondi à cordé à la base , acuminé sur 0,5-1,5 cm et souvent mucroné au sommet, glabre à éparsement pubérulent (plus dense sur et le long la médiane imprimée) dessus, pubérulent dessous, surtout sur la nervation principale ; nervures latérales en (5–)6 ou 7(–8) paires ; domaties peu développées, non ou peu apparentes . Inflorescence axillaire et/ou terminale, cymeuse, lâche, avec jusqu’à 15 fleurs, pubérulente ; pédoncule 1–3 cm ; bractées linéaires à filiformes, 1–7 mm. Fleur odorante ; pédicelle 17–20 mm, pubérulent ; calice 5- ou 6-lobé, 11-13 mm de longueur , pubérulent, à tube de 4 mm de longueur , lobes 7-9 mm de longueur ; corolle blanche, glabre, à tube de 11–12 mm de longueur et à 7 lobes étroitement lancéolés, de 12–13(–14) mm de longueur ; étamines insérées vers le sommet du tube de la corolle, à anthères de 3 mm de longueur ; ovaire ± 1 mm de longueur, glabre ; style ± aussi long que le tube, stigmate dépassant légèrement les anthères. Fruit inconnu.
+8 Frans J. BRETELER & Carel C.H. JONGKIND Liane; branchlets puberulent, glabrescent. Leaves simple (unifoliolate), opposite or subopposite; petiole straight or geniculate, subcylindric, flattened to slightly channeled above, 4–6(–7) mm, puberulent; blade obovate-elliptic, (2–)2.5–3(–3.5) times longer than wide, (5–)8–9(–10) × 2–3.5 cm, rounded to cordate at the base, acuminate for 0.5–1.5 cm and often mucronate at the apex, glabrous to sparsely puberulent (denser on and along the impressed midvein) above, puberulent below, especially on the main venation; lateral nerves in (5–)6 or 7(–8) pairs; domatia poorly developed, absent or scarcely apparent. Inflorescence axillary and/or terminal, cymose, lax, with up to 15 flowers, puberulent; peduncle 1–3 cm; bracts linear to filiform, 1–7 mm. Flower fragrant; pedicel 17–20 mm, puberulent; calyx 5- or 6-lobed, 11–13 mm in length, puberulent, with tube 4 mm in length, lobes 7–9 mm in length; corolla white, glabrous, with tube 11–12 mm in length and 7 narrowly lanceolate lobes, 12–13(–14) mm in length; stamens inserted toward the apex of the corolla tube, with anthers 3 mm in length; ovary ± 1 mm in length, glabrous; style ± as long as the tube, stigma slightly surpassing the anthers. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du sud du Gabon, connu de deux récoltes, une de la Ngounié, l’autre du HautOgooué
+endemic to southern Gabon, known from two collections, one from Ngounié, the other from Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondarisée ; de basse altitude à jusqu’à 700 m
+secondarized forest; from low altitude to up to 700 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la publication antérieure sur le genre au Gabon, avec un traitement synoptique des espèces (Breteler 2002), le matériel de cette espèce nouvelle fut classé sous J. kwangense Liben. Pourtant, la des cription détaillée de cette espèce montre que les deux collections du sud du pays possèdent des caractères nettement différents. B : Breteler (2002). i B liographie
+In the previous publication on the genus in Gabon, with a synoptic treatment of the species (Breteler 2002), the material of this new species was classified under J. kwangense Liben. However, the detailed description of this species shows that the two collections from the southern part of the country possess clearly different characters. B: Breteler (2002). Bibliography
 
 ## Notes
 

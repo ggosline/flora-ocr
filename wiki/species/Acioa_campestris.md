@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pflanzenw. Afr. 3 (1) : 311 (1915); DE WILD., BJBB 7 : 198 (1920).
 
 — Acioa klaineana PIERRE ex DE WILD., l.c. : 196 (1920); KEAY, FWTA, ed. 2, 1 (2) : 433 (1958); KEAY, ONOCHIE & STANFIELD, Nig. Trees 1 : 320 (1960); WALKER & SILLANS, Pl. Ut. Gabon : 358 (1961), syn.nov.
 
 — Acioa dawei MENDES, Mem. Junta Invest. Ultram. ser. 2, 19, Estud. botân. : 11, tab. 3 et 4 (1960); Consp. Fl. Angol. 4 : 24 (1970); syn. nov.
 
-— Acioa bellayana auct. non BAILL. : ENGL., Bot. Jahrb. 26 : 380 (1899), p.p., quoad specimina Preuss 263 (cf. note concernant A. bellayana BAILL. in « Matériel camerounais étudié ») et Soyaux 111.
+— Acioa bellayana auct. non BAILL. : ENGL., Bot. Jahrb. 26 : 380 (1899), p.p., quoad specimina Preuss 263 (cf. note concerning A. bellayana BAILL. in "Cameroonian material studied") and Soyaux 111.
 
-Arbuste haut de 5 m, quelques branches étendues retombantes. Très jeunes pousses couvertes d'abord d'un tomentum aranéeux blanchâtre ± persistant sur l'extérieur des stipules et des bractées ainsi que sous la nervure médiane, puis d'une dense pubescence hispide brun doré. Jeunes rameaux hispides mais à poils brunâtres très rapidement caducs. Stipules ± dissymétriquement lancéolées, atteignant 3-8 × 10-16 mm, hispides à hispidules, souvent garnies vers la base et la marge de glandes circulaires. Pétiole (3-)5-6(-8) mm, hispide à rarement hispidule, voire glabrescent. Limbe elliptique-oblong, (5)-6-12 × (14)-20-32 cm, parfois très oblong (jusqu'à 5-8 × 20-32 cm), parfois légèrement obovale-oblong; base arrondie subcordée à très profondément cordée; sommet largement obtus, acumen étroit; nervure médiane très exceptionnellement garnie dessous de poils
+Shrub up to 5 m tall, with a few branches spreading and drooping. Very young shoots at first covered with a whitish, ± persistent arachnoid tomentum on the outer surface of the stipules and bracts as well as beneath the midvein, then with dense golden-brown hispid pubescence. Young branches hispid but with brownish hairs very rapidly caducous. Stipules ± asymmetrically lanceolate, reaching 3–8 × 10–16 mm, hispid to hispidulous, often furnished toward the base and margin with circular glands. Petiole (3–)5–6(–8) mm, hispid to rarely hispidulous, or even glabrescent. Blade elliptic-oblong, (5–)6–12 × (14–)20–32 cm, sometimes very oblong (up to 5–8 × 20–32 cm), sometimes slightly obovate-oblong; base rounded subcordate to very deeply cordate; apex broadly obtuse, narrow acumen; midvein very exceptionally furnished beneath with hispid hairs very rapidly caducous; lateral veins arched, (8–)12–16 pairs; blade glabrous beneath; generally 2 large circular glands on either side of the midvein at the extreme base of the blade beneath, sometimes accompanied by a few circular glands higher up; a few circular glands beneath the acumen.
 
-hispides rapidement caducis; nervures latérales arquées (8-)12-16 paires; limbe glabre dessous; en général 2 grosses glandes circulaires de part et d'autre de la nervure médiane à l'extrême base du limbe dessous, parfois accompagnées de quelques glandes circulaires plus haut; quelques glandes circulaires sous l'acumen.
+Racemes solitary and terminal and especially axillary subterminally, sometimes on leafless branches, 6–12(–20) cm; axis sparsely hispidulous then glabrescent; peduncle extremely short furnished with rather broad bracts and ± deeply tricuspid. Floral bracts lanceolate, 8–12 mm, erect then obliquely reflexed, with well-marked subparallel venation; portion of the pedicels, below the articulation, perpendicular to the rachis, slender, 15–18 mm, glabrous and furnished, most often with 2 subalternate bracteoles, sometimes with 2 alternate bracteoles, the articulated terminal portion of the pedicel shorter, equal to or longer (up to 10 mm) than the upper bracteole; bracteoles persistent, ± 5-palmatipartite with segments reaching 5 mm in length, forming the stipe of a yellowish-brown terminal gland. Pedicel of the articulated flower 3–5 mm. Receptacle blackish, 15–16–20(–22) mm, tubular with a distinct gibbous swelling at the base; sepals pale green, 6–9 mm, glabrous with respect to the parts exposed externally in the bud; petals white, subquadrangular with rounded to subcordate base, 6–10 mm in height; androecium greenish, approximately 40–60 mm, 30 stamens, anthers blackish.
 
-Racèmes solitaires terminaux et surtout axillaires subterminaux, parfois sur rameaux dépourvus de feuilles, 6-12(-20) cm; axe éparsement hispidule puis glabrescent; pédoncule extrêmement court garni de bractées assez larges et ± profondément tricuspides. Bractées florales lancéolées, 8-12 mm, dressées puis réfléchies obiquement, à nervation subparallèle bien marquée; portion des pédicelles, sous l'articulation, perpendiculaire à l'axe du racème, grêle, 15-18 mm, glabre et garnie, le plus souvent de 2 bractéoles subopposées, parfois de 2 bractéoles alternes, la portion terminale articulée du pédicelle plus courte, égale ou plus longue (jusqu'à 10 mm) que la bractéole supérieure; bractéoles persistantes, ± 5-palmatipartites avec segments atteignant 5 mm de longueur, formant le stipe d'une glande terminale brun jaunâtre. Pédicelle de la fleur désarticulée 3-5 mm. Réceptacle noirâtre, (15-16-20(-22) mm, tubuleux avec un net renflement gibbeux à la base; sépales vert pâle, 6-9 mm, glabres en ce qui concerne les parties exposées à l'extérieur dans le bouton; pétales blancs, subquadrangulaires avec base arrondie à subcordée, 6-10 mm de hauteur; androcée verdâtre, 40-60 mm environ, 30 filets, anthères noirâtres.
-
-Fruits à pédoncule atteignant au moins 35(-50) mm. Drupe amygdaliforme pointue  $ 25 \times 30 \times 70 $ mm (in sicco), à surface ornamentée de rides flexueuses longitudinales (au moins à sec) et tomentelleuse brune, garnie de poils hispidules à hispides (1,5-2 mm) jaune clair. — PL. 3, p. 17.
+Fruits with peduncle reaching at least 35(–50) mm. Drupe amygdaliform pointed, 25 × 30 × 70 mm (dried), with surface ornamented by flexuous longitudinal wrinkles (at least when dry) and brown tomentellose, furnished with hispidulous to hispid hairs (1.5–2 mm) pale yellow. — PL. 3, p. 17.
 
 ## Type
 
@@ -41,43 +37,39 @@ Soyaux 362, Gabon (holo-, B, delet.; iso-, P; photo, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1) The accumulation of new material since the descriptions of Acioa campestris Engl. in 1893 (known until now by the single type specimen above) and Acioa klaineana Pierre ex De Wild. in 1920, now allows this second taxon to be placed in synonymy with the first, while noting that the Gabonese specimen Soyaux 362 represents without doubt an extreme form of the variation of the species; field observations will be useful to confirm this assessment. It should also be noted that specimens of Acioa klaineana Pierre ex De Wild. have often been identified in the past as Acioa bellayana Baill., even as Acioa condere Baill., despite notable differences with respect to, among other characters, those of pubescence and stipules.
 
-1) L'amconcellement de matériaux nouveaux depuis les descriptions d'Acioa campes-tris Engl. en 1893 (connue jusqu'à ce jour par le seul échantillon type ci-dessus) et d'Acioa klaineana Pierre ex De Wild. en 1920, permet à présent de mettre ce second taxon en synonymie avec le premier, tout en notant que l'échantillon gabonais Soyaux 362 représente sans doute une forme extrême des variations de l'espèce; des observations sur le terrain seront utiles pour confirmer cette appréciation. Il faut aussi noter que les échantillons d'Acioa klaineana Pierre ex De Wild. ont souvent été identifiés autrefois comme Acioa bellayana Baill., voire Acioa condere Baill., malgré des différences notables en ce qui concerne, entre autres caractères, ceux de la pubescence et des stipules.
+2) Acioa dawei Mendes, based on the single specimen Dawe 225 from Cabinda (holotype, K!), would be affine to Acioa campestris Engl. according to the author; the differences invoked, especially of a dimensional nature, seem quite insufficient to consider these 2 taxa as distinct.
 
-2) Acioa dawei Mendes, basée sur le seul échantillon Dawe 225 du Cabinda (holotype, K!), serait affine d'Acioa campestris Engl. d'après l'auteur; les différences invoquées, surtout d'ordre dimensionnel, paraissent bien insuffisantes pour considérer ces 2 taxons comme distincts.
+3) Acioa campestris Engl. is certainly very close to Acioa bellayana Baill. and on several occasions these two species have been confused. The very rapid disappearance of the hispid pubescence of the former (whereas it would be persistent in the latter) is perhaps only the main provisional argument for differentiating them here, alongside other quantitative characters seeming more secondary.
 
-3) Acioa campestris Engl. est certainement très proche d'Acioa bellayana Baill. et à plusieurs reprises ces deux espèces ont été confondues. La disparition très rapide de
+Acioa campestris Engl. is known from southeastern Nigeria, Cameroon, Gabon, and Cabinda, always within degraded forests, post-cultivation shrubland, rarely in periodically flooded swamp forest.
 
-la pubescence hispide de la première (alors qu'elle serait persistante chez la seconde) n'est peut-être que l'argument principal provisoire pour les différencier ici, à côté d'autres caractères quantitatifs paraissant plus secondaires.
+Bos 4197, km 21 road Kribi-Lolodorf (fl., March); 4673, km 20 road Kribi-Lolodorf (y. fr., May); 5623, 4 km S km 16 road Kribi-Ebolowa (fl., y. fr., Nov.); 6034, near Kribi (fr., Dec.); 6812, R. Kienké near Kribi (fl., Apr.); (WAG).
 
-Acioa campestris Engl. est connue dans le sud-est du Nigeria, au Cameroun, au Gabon et au Cabinda, toujours au sein de forêts dégradées, de broussailles postculturales, rarement en forêt marécageuse périodiquement inondée.
+Dinklage 741, Grand Batanga near Kribi (fl., Aug. and Sept.; fr., Oct. and Nov.) (as Griffonia bellayana Oliv.) (HBG, P, WAG).
 
-Bos 4197, km 21 route Kribi-Lolodorf (fl., mars); 4673, km 20 route Kribi-Lolodorf (j. fr., mai); 5623, 4 km S km 16 route Kribi-Ebolowa (fl., j. fr., nov.); 6034, près Kribi (fr., déc.); 6812, R. Kienké près Kribi (fl., avr.); (WAG).
+Krücke 2, Edeá (fl.) (as A. bellayana Baill.) (B!).
 
-Dinklage 741, Grand Batanga près Kribi (fl., août et sept.; fr., oct. et nov.) (sous Griffonia bellayana Oliv.) (HBG, P, WAG).
+Mpom 234 (= 2470 SRFCam), near Kribi (fl., Oct.).
 
-Krücke 2, Edeá (fl.) (sous A. bellayana Baill.) (B!).
+Preuss 263, Kribi (fl., fr., Apr.) (cited in Bot. Jahrb. : 380, as A. bellayana Baill.) (K: Barombi station (= Kumba), not Kribi).
 
-Mpom 234 (= 2470 SRFCam), près Kribi (fl., oct.).
+Surville 641, 787, Dibombari (fl., Apr.) (YA).
 
-Preuss 263, Kribi (fl., fr., avr.) (cit. in Bot. Jahrb. : 380, sous A. bellayana Baill.) (K : Barombi station (= Kumba), non Kribi).
+Zenker 2373 (as A. bellayana Baill. in B!; as A. pallescens Baill. in P with fr.); 2565 (fr.) (as A. pallescens Baill.); 3001 a (as A. bellayana Baill. in B! with fl. and in P sterile); 3475 (y. fl.) (as A. bellayana Baill.); 3726 (K); 4200 (fl.) (as A. icondere Baill.); 4507 (fl.) (as A. bellayana Baill.); Bipindi.
 
-Surville 641, 787, Dibombari (fl., avr.) (YA).
+Breteler & Van Raalte 5640, Gamba near Setté Cama (sterile, wood, Sept.)
 
-Zenker 2373 (sous A. bellayana Baill. in B!; sous A. pallescens Baill. in P avec fr.); 2565 (fr.) (sous A. pallescens Baill.); 3001 a (sous A. bellayana Baill. in B! avec fl. et in P stér.); 3475 (j. fl.) (sous A. bellayana Baill.); 3726 (K); 4200 (fl.) (sous A. icondere Baill.); 4507 (fl.) (sous A. bellayana Baill.); Bipindi.
+Klaine 12 (6190 in herb. Pierre) (type of Acioa klaineana), near Libreville (fl. and fr., June and Nov.); 40 (fl., July).
 
-Breteler & Van Raalte 5640, Gamba près Setté Cama (stér., bois, sept.)
+Le Testu 2280, Nguessi, 10 km SE Sindara (fl., Aug.); 9363, Essone, 40 km WSW Mitzic (fl., Oct.).
 
-Klaine 12 (6190 in herb. Pierre) (type d’Acioa klaineana), près Libreville (fl. et fr., juin et nov.); 40 (fl., juill.).
+Sébire 476 SRF, Ramboué (fr., Oct.)
 
-Le Testu 2280, Nguessi, 10 km SE Sindara (fl., août); 9363, Essone, 40 km WSW Mitzic (fl., oct.).
+Soyaux 111, Sibange Farm near Libreville (fl., Aug.) (as A. bellayana Baill.); 362, eod.loc. (fl., Dec.).
 
-Sébire 476 SRF, Ramboué (fr., oct.)
-
-Soyaux 111, Sibange Farm près Libreville (fl., août) (sous A. bellayana Baill.); 362, eod.loc. (fl., déc.).
-
-Walker s.n. (oct. et déc. 1939), Saint Martin, 20 km NNW Mouila (fl. et fr., oct. et déc.).
+Walker s.n. (Oct. and Dec. 1939), Saint Martin, 20 km NNW Mouila (fl. and fr., Oct. and Dec.).
 
 ## Vernacular names
 

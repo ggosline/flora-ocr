@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 73 (13): 28, 32, 61-64 (1973); l.c. 78 (10): 30, 80 (1978); l.c. 81 (10): 31, 53 (1981); AUWP 86 (3): 13, 16 (1986). TYPE: Zaïre, Kinshasa-Maluku, Carrington 109 (holo-, WAG).
 
-Liane atteignant le sommet des grands arbres, arbuste lianescent ou arbuste. Troncs un peu anguleux, tronc principal à section souvent 5-lobée ; écorce montrant des fissures longitudinales peu profondes. Rameaux le plus souvent avec 5 cannelures superficielles, chacune avec 1 rangée de lenticelles assez saillantes, munis de poils bruns courts, puis glabrescents. Jeunes rameaux couverts d'un indumentum brun-rouille en général dense de poils courts subapprimés et courbés, devenant glabres ou non.
+Liane reaching the canopy of large trees, lianescent shrub or shrub. Trunks somewhat angular, main trunk with section often 5-lobed; bark showing shallow longitudinal fissures. Branches mostly with 5 superficial grooves, each with 1 row of fairly prominent lenticels, bearing short brown hairs, then glabrescent. Young branches covered with a rust-brown indumentum generally dense of short suberect and curved hairs, becoming glabrous or not.
 
-Stipules tôt caduques, étroites et triangulaires, longues de 5-7 mm, base large de ≤ 1 mm, pubescence brune courte et apprimée.
+Stipules early caducous, narrow and triangular, 5-7 mm long, broad base ≤ 1 mm, short brown appressed pubescence.
 
-Feuilles. Pétiole subcylindrique, 2-5 (7) mm, poils bruns apprimés denses. Limbe elliptique parfois oblong, (1,75) 2-2,5 (3) fois plus long que large, (5) 9-12 (15) × (2,5) 4-6 (7) cm; base cordée, subcordée, tronquée ou obtuse et souvent dissymétrique; sommet terminé par un apicule ou un acumen court et brusque (parfois moins marqué); nervure I et souvent aussi les 4-7 paires principales de nervures II, imprimées dessus et proéminentes dessous ; à la face supérieure, habituellement, pubescence brune courte sur la nervure I, souvent aussi sur les nervures II,
+Leaves. Petiole subcylindric, 2-5 (7) mm, dense brown appressed hairs. Blade elliptic sometimes oblong, (1.75) 2-2.5 (3) times longer than wide, (5) 9-12 (15) × (2.5) 4-6 (7) cm; base cordate, subcordate, truncate or obtuse and often asymmetric; apex terminated by an apicule or short and abrupt acumen (sometimes less pronounced); primary vein I and often also the 4-7 pairs of secondary veins II, impressed above and prominent below; on the upper surface, usually short brown pubescence on vein I, often also on veins II, but more scattered; the lower surface entirely covered by an arachnoid indumentum of white hairs (often forming a true covering on young incompletely unfolded leaves); vein I and often veins II with scattered short brown appressed hairs; both surfaces of the blade glabrescent; acumen (or only apicule), (1) 2-4 (12) mm long, often bearing dense brown hairs on both surfaces; glands present above and below, the upper ones fairly prominent especially concentrated toward and on the acumen, the lower ones generally near vein I and even tight against it.
 
-mais plus éparse ; la face inférieure entièrement couverte par une arachnée de poils blancs (formant souvent une véritable fourrure sur les jeunes feuilles incomplètement déployées) ; la nervure I et souvent les nervures II avec poils courts apprimés bruns épars ; les deux faces du limbe sont glabrescentes ; acumen (ou seulement apicule), long de (1) 24 (12) mm, souvent muni de poils bruns denses sur les deux faces ; glandes présentes dessus et dessous, les supérieures assez proéminentes surtout concentrées vers et sur l'acumen, les inférieures en général près de la nervure I et même tout contre elle.
+Inflorescences lax presenting ≤ 6 orders of branching; ordinarily, several are present on rather long axillary branches, aphyllous (or with much-reduced leaves); rust-brown pubescence like that of young branches. Peduncle (3) 7-11 (30) mm long, the first axes often being as long as it. Bracts and bracteoles narrow and triangular, the lower ones ≤ 3 mm long, the upper ones ≤ 0.5-1 mm. Pedicel 1-4 mm long, the upper part generally short but distinct < 1 mm.
 
-Inflorescences lâches présentant ≤ 6 ordres de ramifications ; ordinairement, plusieurs sont présentes sur des rameaux axillaires assez longs, aphylles (ou à feuilles fort réduites); pubescence brun-rouille comme celle des jeunes rameaux. Pédoncule long de (3) 7-11 (30) mm, les premiers axes étant souvent aussi longs que lui. Bractées et bractéoles étroites et triangulaires, les inférieures longues de ≤ 3 mm, les supérieures ≤ 0,5-1 mm. Pédicelle long de 1-4 mm, la partie supérieure généralement courte mais nette < 1 mm.
+Flowers: calyx with rounded to obtuse base. Sepals reflexed equal or not, free or slightly united at their base, narrow, oblong-elliptic or ovate, 2-3 × 0.5-1 mm; apex obtuse rounded or acute; external face and upper part of internal face bearing short rust-brown appressed pubescence. Petals tapered, erect or loosely spreading, sometimes reflexed, apex often incurved, base very shortly fused to the filaments, 2.5-3.5 mm long, split for 0.5-2 mm, glabrous on both faces or with a few short appressed hairs on the external face; lobes narrow, often spreading, apex subacute, flattened or almost so. Stamens generally erect, 3.5-4.5 mm long, glabrous; anthers 0.5 mm long, connective slightly prominent. Staminodes subquadrate < 0.5 × 0.5 mm, apex truncate or emarginate, glabrous or with rare hairs. Pistil slender, erect, 3.5-4.5 mm long, woolly except for the upper part of the 3 (4)-lobed style; lobes short < 0.5 mm; ovary 3 (4)-locular; ovules frequently provided with an obturator.
 
-Fleurs : calice à base arrondie à obtuse. Sépales réfléchis égaux ou non, libres ou légèrement unis par leur base, étroits, oblongs-elliptiques ou ovés, 2-3 × 0,5-1 mm ; sommet obtus arrondi ou aigu ; face externe et partie supérieure de la face interne portant une courte pubescence apprimée brun-rouille. Pétales effilés, dressés ou lâchement étalés, parfois réfléchis, sommet souvent incurvé, base très courtement soudée aux filets, longs de 2,5-3,5 mm, fendus sur 0,5-2 mm, glabres sur les deux faces ou avec quelques poils apprimés courts sur la face externe ; lobes étroits, souvent étalés, sommet subaigu, aplati ou presque. Éta-mines généralement dressées, longues de 3,5-4,5 mm, glabres ; anthères longues de 0,5 mm, connectif peu proéminent. Staminodes subcarrés < 0,5 × 0,5 mm, sommet tronqué ou émarginé, glabres ou avec de rares poils. Pistil mince, dressé, long de 3,5-4,5 mm, laineux sauf la partie supérieure du style 3 (4)-lobé ; lobes courts < 0,5 mm ; ovaire 3 (4)-loculaire ; ovules fréquemment pourvus d'un obturateur.
-
-Fruits 1-3-lobés, 1-3-spermes (quand il n'y a qu'une graine, le développement unilatéral du fruit est remarquable), terminés par un bec ; méricarpes subsphériques légèrement comprimés latéralement, 8-13 × 6-11 × 5-10 mm ; exocarpe muni d'une courte pubescence brun-rouille dense à éparse (l'épaisseur de l'ensemble exo-mésocarpe ne dépasse très probablement pas 2 mm sur les fruits frais) ; endocarpe parcheminé, surface externe assez lisse, l'interne, lustrée ou brillante et finement striée. Graines subellipsoïdales, 6-10 × 4-8 mm ; testa fin, brun, à veines proéminentes. - Pl. 8, p. 49.
+Fruits 1-3-lobed, 1-3-seeded (when there is only one seed, the unilateral development of the fruit is remarkable), terminated by a beak; mericarps subspherical slightly compressed laterally, 8-13 × 6-11 × 5-10 mm; exocarp bearing short dense to scattered rust-brown pubescence (the thickness of the entire exo-mesocarp very probably does not exceed 2 mm on fresh fruits); endocarp chartaceous, external surface fairly smooth, the internal one lustrous or shining and finely striated. Seeds subellipsoidal, 6-10 × 4-8 mm; testa fine, brown, with prominent veins. - Pl. 8, p. 49.
 
 ## Type
 
@@ -41,15 +37,11 @@ Carrington 109, Kinshasa-Maluku, Zaïre
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Ouest Cameroun, Gabon, Ouest-Zaïre
+Southwestern Cameroon, Gabon, Western Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, galeries forestières
+rainforests, forest galleries
 
 ## Specimens examined
 

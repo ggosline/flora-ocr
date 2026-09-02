@@ -17,17 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbs with creeping rhizomes; stems creeping to ascending, 10–60 cm tall, basally woody in the largest plants and sometimes branched, puberulent with scattered to dense long white hairs mixed with shorter white uncinate hairs, internodes 3–50 mm long, 1–4 mm thick. Leaves arranged in spirals. Blade elliptic or lanceolate, sometimes 3–5-lobed, 1–11 × (0.5–) 1–5 cm, chartaceous, apex acuminate or acute with an obtuse acumen, base narrow and cuneate to weakly obtuse or wider and subcordate, margin sinuate to undulate or dentate, glabrous or sometimes punctate (punctations glandular) above, scattered short white uncinate hairs on the main veins below; 2–10 pairs of secondary veins, often fairly distinctly anastomosed in arches, main veins concave above, prominent below. Petiole 3–22 mm long, 0.5–2 mm thick, with indumentum as on the stem. Stipules (sub)persistent, also on the root-bearing part of the stem, subulate, (1–) 2.5–6 (–10) mm long, 0.3–1 mm wide at the base, with scattered short straight and uncinate white hairs.
 
-Herbes avec des rhizomes rampants ; tiges rampantes à ascendantes, hautes de 10-60 cm, basalement ligneuses chez les plantes les plus grandes et quelquefois ramifiées, pubérulentes avec des poils longs blancs épars à denses, en mélange avec des poils uncinés blancs plus courts, entre-nœuds longs de 3-50 mm, épais de 1-4 mm. Feuilles disposées en spirales. Limbe elliptique ou blancéolé, parfois 3-5-lobé, 1-11 × (0,5- ) 1-5 cm, chartacé, sommet acuminé ou aigu avec un acumen obtus, base étroite et cunéee à faiblement obtuse ou plus large et subcordée, bord sinué à ondulé ou denté, glabre ou parfois ponctué (ponctuations comme des glandes) dessus, poils courts blancs uncinés épars sur les nervures principales dessous ; 2-10 paires de nervures secondaires, souvent assez nettement amastomosées en arceaux, nervures principales concaves dessus, saillantes dessous. Pétiole long de 3-22 mm, épais de 0,5-2 mm, à indumentum comme celui de la tige. Stipules (sub) persistantes, aussi à la partie de la tige portant des racines, subulées, longues de (1- ) 2,5-6 (-10) mm, larges de 0,3-1 mm à la base, avec des poils droits et uncinés courts blancs épars.
+Inflorescences solitary or in pairs; peduncle 5–20 mm long, 0.5–1 mm thick, with fairly dense white uncinate hairs mixed with coarser white hairs. Receptacle navicular to almost infundibuliform and laterally compressed, 2–7 mm tall, flowering face linear or narrowly to broadly elliptic, concave, flat or convex, sometimes laterally reflexed, 6–20 mm long, 1.5–5 mm wide, margin about 0.5 mm wide, primary appendages 2, terminal, directed upward and sometimes curved toward each other, linear and widened toward the apex or even lobed, 5–23 mm long, about 0.5 mm wide, secondary appendages (0–) 7–15 on each side, often erect, triangular or linear, 0.5–4.5 mm long, about 0.5 mm wide, margin and appendages with very small white uncinate hairs fairly dense, mainly on the longitudinal nerve mixed with a few coarser white hairs. Flowers numerous, sometimes almost arranged in one or two rows, perianth bi- to trilobed, stamens 2–3, filaments about 0.4 mm long and 0.05 mm thick, anthers about 0.25 mm long and wide, connective fairly narrow. Female flowers 2–5, often in the central part of the flowering face, perianth tubular, 0.2–0.8 mm tall, about 0.5 mm in diameter, style not exceeding or scarcely exceeding the perianth, stigmas 2, 0.5–1 mm long, 0.01–0.25 mm thick.
 
-Inflorescences solitaires ou par 2 ; pédoncule long de 5-20 mm, épais de 0,5-1 mm, avec des poils uncinés blancs assez denses en mélange avec des poils blancs plus rudes. Réceptacle naviculaire à presque infundibuliforme et latéralement comprimé, haut de 2-7 mm, face fleurie linéaire ou étroitement à largement elliptique, concave, plate ou convexe, parfois latéralement réfléchie, long de 6-20 mm, large de 1,5-5 mm, marge large de 0,5 mm environ, appendices primaires 2, terminaux, dirigés vers le haut et parfois courbés l'un vers l'autre, linéaires, et élargis vers l'extrémité ou même lobés, longs de 5-23 mm, larges de 0,5 mm environ, appendices secondaires (0-) 7-15 de chaque côté, souvent dressés, triangulaires ou linéaires, longs de 0,5-4,5 mm, larges de 0,5 mm environ, marge et appendices avec des poils uncinés blancs très petits assez denses, principalement sur la nervure longitu-dinale en mélange avec quelques poils blancs plus rudes. Fleurs
-
-MORACEA
-
-s nombreuses, parfois presque disposées en une ou deux rangées, périanthe bi- à trilobé, étamines 2-3, filets longs de 0,4 mm environ et épais de 0,05 mm, anthères longues et larges de 0,25 mm environ, connectif assez étroit. Fleurs ♀ 2-5, souvent dans la partie centrale de la face fleurie, périanthe tubulaire, haut de 0,2-0,8 mm, d'un diamètre de 0,5 mm environ, style ne dépassant pas ou très peu le périanthe, stigmates 2, longs de 0,5-1 mm, épais de 0,01-0,25 mm.
-
-Noyau globuleux, d'un diamètre de 2 mm environ, lisse.
+Pyrene globose, about 2 mm in diameter, smooth.
 
 ## Type
 
@@ -35,19 +29,17 @@ Dinklage 792, Grand Batanga (holo-, B ; iso-, HBG)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Five varieties can be recognized within D. dinklagei. Three of them are found in Gabon and one in Cameroon. The variety binzaensis (De Wild.) M. HUMAN and var. bequaertii (De Wild.) M. HUMAN are found in Zaïre and Congo. The varieties found in Gabon and Cameroon differ in habit, leaf shape, and the absence or presence of lateral appendages on the receptacle.
 
-Cinq variétés peuvent être reconnues à l'intérieur de D. dinklagei. Trois d'entre-elles se rencontrent au Gabon et une au Cameroun. La variété binzaensis (De Wild.) M. HUMAN et la var. bequaertii (De Wild.) M. HUMAN se voient au Zaïre et au Congo. Les variétés rencontrées au Gabon et au Cameroun diffèrent par le port, la forme des feuilles, et l'absence ou la présence d'appendices latéraux sur le réceptacle.
+KEY TO THE VARIETIES
 
-CLÉ DES VARIÉTÉS
+1. Lateral appendages of the receptacle absent ___ var. reducta.
 
-1. Appendices latéraux du réceptacle absents ___ var. reducta.
+1'. Lateral appendages of the receptacle triangular or linear.
 
-1'. Appendices latéraux du réceptacle triangulaires ou linéaires.
+2. Small herbs up to 13 cm tall; blade usually 3–5 lobed or sinuate ___ var. dinklagei.
 
-2. Petites herbes hautes jusqu'à 13 cm ; limbe habituellement 3-5 lobé ou sinué.
-
-2. Herbes hautes jusqu'à 60 cm ; limbe entier, bord ondulé..... var. brieyi.
+2'. Herbs up to 60 cm tall; blade entire, margin undulate ___ var. brieyi.
 
 ## Figures
 

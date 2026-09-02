@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Tind., Contrib. N.S. Wales Herb. 3 : 245 (1963).
 
-≠ Aspidium nigritianum Mett. qui est Ctenitis nigritiana (Mett.) Alston.
+≠ Aspidium nigritianum Mett. which is Ctenitis nigritiana (Mett.) Alston.
 
-Rhizome épais (4 cm de diamètre à la base, teste Hallé et Cours), dressé, à frondes en rosettes, couvert d'écailles brun foncé, étroites, formées de cellules à parois foncées, lumière brun rouge. Fronde de 1,50 m environ, à pétiole brun roux, canaliculé, écailleux à la base sur 10 cm, long de 50-70 cm, canaliculé. Limbe deltoïde, tripenné. Pennes inférieures développées basiscopiquement, longues de 30 cm sur 15 de large à la base, à pétiole long de 4 cm. 1 $ ^{re} $ pinnule inférieure 2 fois plus grande que la
-
-supérieure. Pinnules ayant environ 5-8 cm, subsessiles, lancéolées, pennées à la base, pinnatifides plus haut. Pennes moyennes pétiolées, faisant un angle de 50° avec le rachis, bipennées à la base, le premier lobe contre le costa plus profondément lobé que les autres. Segments ultimes oblongs, à bases inégales, extrémité obtuse, lobés. Texture subcoriace. Costae et axes portant une courte pubescence rousse à la face supérieure. Costae villeux à la face inférieure. Costulae, nervures et nervilles portant des poils blanchâtres, courts, apprimés, à la face inférieure. Nervures simples dans les lobes. Sores exindusiés, arrondis, submarginaux.
+Rhizome thick (4 cm in diameter at base, tested by Hallé and Cours), erect, with fronds in rosettes, covered with dark brown, narrow scales, formed of cells with dark walls, reddish-brown in light. Frond approximately 1.50 m, with reddish-brown petiole, channelled, scaly at base for 10 cm, 50–70 cm long, channelled. Lamina deltoid, tripinnate. Lower pinnae developed basisccopically, 30 cm long by 15 cm wide at base, with petiole 4 cm long. 1st lower pinnule 2 times larger than the upper one. Pinnules approximately 5–8 cm, subsessile, lanceolate, pinnate at base, pinnatifid higher up. Middle pinnae petiolate, making a 50° angle with the rachis, bipinnate at base, the first lobe against the costa more deeply lobed than the others. Ultimate segments oblong, with unequal bases, obtuse apex, lobed. Texture subcoriaceous. Costae and axes bearing short rusty pubescence on upper face. Costae villous on lower face. Costulae, veins and veinlets bearing short, whitish, appressed hairs on lower face. Veins simple in the lobes. Sori exindusiate, rounded, submarginali.
 
 ## Type
 
@@ -39,9 +35,7 @@ Barter 158, Aboh, Nigeria (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ile du Prince, Nigeria, Fernando-Po, Congo. Ravins ombragés.
+Prince's Island, Nigeria, Fernando Po, Congo. Shaded ravines.
 
 ## Specimens examined
 

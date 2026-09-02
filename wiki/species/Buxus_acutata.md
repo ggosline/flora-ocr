@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 8
+Plate 8
 
 Notobuxus acuminata (Gilg) Hutch., Bull. Misc. Inform. Kew 1912: 55 (1912).
 
-Arbuste à petit arbre de 3–4 m de hauteur, sempervirent, glabre ; jeunes rameaux aplatis, striés longitudinalement. Feuille : pétiole 2–5 mm, décurrent en une gaine sur la tige, canaliculé et pubérulent sur la face supérieure ; limbe elliptique à elliptique-oblong, 5–11 × 2–4,5 cm, ±cunéé à la base, ±brusquement et longuement acuminé et à acumen ±courbé au sommet, subcoriace, à nervure médiane déprimée dessus et nettement saillante dessous ; nervures latérales en 5 à 7 paires, finement saillantes sur les 2 faces comme le réseau tertiare. Inflorescence en cymes subsessiles, 3-flores ; bractées triangulaires, 3–4 × ±2 mm, aiguës au sommet, carnées. Fleurs vert blanchâtre. Fleur mâle : pédicelle grêle, 6–10 mm ; sépales circulaires, cymbiformes, longs de 1,8–2 mm, les externes larges de 2 mm, les internes larges de 2,5 mm ; étamines 6, à anthère sessile, ovale-oblongue, longue de ±1,5 mm ; pïstillode absent. Fleur femelle subsessile ; sépales 5 ou 6, ovales, 3–4 × ±2 mm, ±aigus au sommet, finement pubescents à l'extérieur ; gynécée jeune long de 2,5–3 mm. Fruit ovoïde, 10–12 × 6–7 mm, vert. Graine obloïde, plan-convexe, longue de 6–7 mm.
+Shrub to small tree 3–4 m tall, evergreen, glabrous; young branches flattened, longitudinally striate. Leaf: petiole 2–5 mm, decurrent in a sheath on the stem, channeled and puberulent on the upper surface; blade elliptic to elliptic-oblong, 5–11 × 2–4.5 cm, ± cuneate at the base, ± abruptly and long acuminate and with acumen ± curved at the apex, subcoriaceous, with midvein impressed above and distinctly prominent below; lateral veins in 5 to 7 pairs, finely prominent on both surfaces as is the tertiary network. Inflorescence in subsessile cymes, 3-flowered; bracts triangular, 3–4 × ±2 mm, acute at the apex, carneous. Flowers whitish-green. Male flower: pedicel slender, 6–10 mm; sepals circular, cymbiform, 1.8–2 mm long, the external ones 2 mm wide, the internal ones 2.5 mm wide; stamens 6, with sessile anther, ovate-oblong, ± 1.5 mm long; pistillode absent. Female flower subsessile; sepals 5 or 6, oval, 3–4 × ±2 mm, ± acute at the apex, finely pubescent on the exterior; young gynoecium 2.5–3 mm long. Fruit ovoid, 10–12 × 6–7 mm, green. Seed obloid, plano-convex, 6–7 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-disjointe, de la Sierra-Leone au Ghana et au Bénin, puis au Gabon et en République démocratique du Congo ; au Gabon, connu de deux récoltes de la Nyanga
+disjunct, from Sierra Leone to Ghana and Benin, then to Gabon and the Democratic Republic of the Congo; in Gabon, known from two collections from the Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+understory of dense humid forest, secondarized forest and gallery forest; in Gabon at 120–200 m altitude
 
-sous-bois de forêt dense humide, de forêt secondarisée et de forêt galerie ; au Gabon à 120–200 m d'altitude
-
-BIBLIOGRAPHIÉ : Hutchinson et al. (1958), Robyns (1960), Vande weghe et al. (2016).
+BIBLIOGRAPHY: Hutchinson et al. (1958), Robyns (1960), Vande weghe et al. (2016).
 
 ## Figures
 

@@ -17,25 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nat. PflanzenFam. 3 (4): 348 (1896); Bot. Jahrb. 23: 134 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 647 (1913); EXELL & MENDONÇA, CFA 1 (2): 325 (1951); HAUMAN, FZRB 7: 310 (1958); BRETELER, MLW 73 (13): 28, 92, XVIII (1973); l.c. 78 (10): 55 (1978); l.c. 81 (10): 46-50 (1981); l.c. 82 (8): 25 (1982); AUWP 86(3): 12, 13, 17, 18 (1986); TYPE: Gabon, près de Libreville, Munda, Sibang Farm, Soyaux 387 (holo-, B delet.; lecto-, Z.; isolecto-, BP, BREM, K, LE, P).
+Nat. PflanzenFam. 3 (4): 348 (1896); Bot. Jahrb. 23: 134 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 647 (1913); EXELL & MENDONÇA, CFA 1 (2): 325 (1951); HAUMAN, FZRB 7: 310 (1958); BRETELER, MLW 73 (13): 28, 92, XVIII (1973); l.c. 78 (10): 55 (1978); l.c. 81 (10): 46-50 (1981); l.c. 82 (8): 25 (1982); AUWP 86(3): 12, 13, 17, 18 (1986); TYPE: Gabon, near Libreville, Munda, Sibang Farm, Soyaux 387 (holo-, B delet.; lecto-, Z.; isolecto-, BP, BREM, K, LE, P).
 
 – – var. seretii (DE WILD.) HAUMAN, FZRB 7: 311 (1958).
 
-– D. seretii DE WILD., Ann. Mus. Congo, sér. 5, 3: 421 (1912). TYPE : Zaïre, bords de la Busira, Seret 1020 (holo-, BR ; iso-, WAG).
+– D. seretii DE WILD., Ann. Mus. Congo, sér. 5, 3: 421 (1912). TYPE: Zaïre, banks of the Busira, Seret 1020 (holo-, BR; iso-, WAG).
 
-Liane de petite à grande taille et diamètre de la tige de ≤ 10 cm ou arbuste lianescent. Cylindre ligneux des tiges lianescentes devenant nettement lobé par intrusion du phloème. Écorce de la tige et des rameaux âgés brun-grisâtre avec des fissures transversales courtes ; rameaux moins âgés souvent gris-subargentés avec de nombreuses petites lenticelles fendues transversalement donnant à l'écorce un aspect pustuleuxrugueux. Jeunes rameaux avec une pubérulence éparse au début, tôt glabres.
+Liane of small to large size and stem diameter of ≤ 10 cm or lianescent shrub. Woody cylinder of the lianescent stems becoming distinctly lobed by intrusion of the phloem. Bark of the stem and older branches brown-greyish with short transverse fissures; younger branches often grey-subsilver with numerous small lenticels split transversely giving the bark a pustulous-rugose appearance. Young branches with sparse pubescence initially, early glabrous.
 
-Stipules tôt caduques, étroites et triangulaires, longues de 1-3 mm, avec pubérulence éparse.
+Stipules early caducous, narrow and triangular, 1-3 mm long, with sparse pubescence.
 
-Feuilles. Pétiole hémicylindrique, sillonné dessus ou non, long de (1) 2-5 (7) mm, glabre ou presque. Limbe obové-elliptique, (1,5) 2-2,5 (4) fois plus long que large, (5) 6-12 (16) × (2) 3-6 (7) cm ; base arrondie à cunée ; acumen présent, obtus et souvent caudé, long de 0,5-1,5 (2) cm ; jeunes feuilles glabres ou avec pubérulence éparse sur la marge et la nervure I sur les deux faces habituellement tôt caduque ; nervure I proéminente ou non dessus ; les (5) 6-8 (10) paires principales de nervures II seulement un peu plus fortes que celles de la nervation mineure, plus visibles dessous ; glandes le plus souvent présentes, mais seulement sous le limbe (rarement dessus), petites et peu visibles.
+Leaves. Petiole hemicylindric, furrowed above or not, (1) 2-5 (7) mm long, glabrous or nearly so. Blade obovate-elliptic, (1.5) 2-2.5 (4) times longer than wide, (5) 6-12 (16) × (2) 3-6 (7) cm; base rounded to cuneate; acumen present, obtuse and often caudate, 0.5-1.5 (2) cm long; young leaves glabrous or with sparse pubescence on the margin and primary vein on both faces usually early caducous; primary vein prominent or not above; the (5) 6-8 (10) pairs of principal secondary veins only slightly more prominent than those of the minor venation, more visible below; glands most often present, but only beneath the blade (rarely above), small and scarcely visible.
 
-Inflorescences multiflores (≤ 50-flores), nettement ramifiées (4-5 ordres visibles de ramifications) lâches, glabres (pubérulence éparse au début), solitaires ou en petit nombre sur des pousses axillaires aphylles. Pédoncule libre ou courtemment soudé au pétiole, long ≤ 2 cm. Bractées et bractéoles ovées-triangulaires, longues de ≤ 0,5 (1) mm, souvent avec 1-2 pustules latérales, pubérulence éparse. Pédicelle grêle mais rigide, long de 3,5-8,5 mm ; partie supérieure distincte longue de (0,7) 1-2 (3) mm, en général plus épaisse que la partie inférieure, glabre ou presque ; articulation parfois accompagnée d'une bractéole.
+Inflorescences multiflorous (≤ 50-flowered), distinctly branched (4-5 visible orders of branching) lax, glabrous (sparse pubescence initially), solitary or in small number on axillary leafless shoots. Peduncle free or shortly fused to the petiole, ≤ 2 cm long. Bracts and bracteoles ovate-triangular, ≤ 0.5 (1) mm long, often with 1-2 lateral pustules, sparse pubescence. Pedicel slender but rigid, 3.5-8.5 mm long; upper part distinct (0.7) 1-2 (3) mm long, generally thicker than the lower part, glabrous or nearly so; articulation sometimes accompanied by a bracteole.
 
-Fleurs. Sépales fins réfléchis, libres ou très courtement réunis par leur base, ovés-elliptiques à oblongs-obovés, (1,5) 2-2,5 (3) × (0,5) 0,7-1 mm, souvent un peu concaves, pubérulents-tomentelleux sur la marge et à la partie apicale du côté interne et/ou externe. Pétales subérigés, étalés ou même subréfléchis, courtement soudés par leur base aux filets, obvés-spatulés, longs de 2-3,5 mm, fendus sur 0,7-1,5 mm, glabres ; lobes concaves à sommet arrondi. Étamines glabres, dressées ou un peu étalées, longues de 2-4 mm ; anthères ≤ 0,5 mm, connectif proéminent. Staminodes obtriangulaires à oblongs, obtus à émarginés, irréguliers au sommet, terminés par 1-2 cornes, ou entièrement filiformes, longs de (0,3) 0,5-1,5 mm, glabres. Pistil (2) 3-mère, long de 2-4 mm ; partie supérieure de l'ovaire et celle inférieure du style toutes deux villeuses, ce dernier étant terminé par (2) 3 lobes.
+Flowers. Sepals thin, reflexed, free or very shortly united at their base, ovate-elliptic to oblong-obovate, (1.5) 2-2.5 (3) × (0.5) 0.7-1 mm, often somewhat concave, puberulent-tomentellous on the margin and at the apical part on the inner and/or outer side. Petals suberect, spreading or even subreflexed, shortly fused at their base to the filaments, obovate-spatulate, 2-3.5 mm long, cleft for 0.7-1.5 mm, glabrous; lobes concave with rounded apex. Stamens glabrous, erect or somewhat spreading, 2-4 mm long; anthers ≤ 0.5 mm, connective prominent. Staminodes obtriangular to oblong, obtuse to emarginate, irregular at the apex, terminated by 1-2 horns, or entirely filiform, (0.3) 0.5-1.5 mm long, glabrous. Pistil (2) 3-merous, 2-4 mm long; upper part of the ovary and lower part of the style both villous, the latter being terminated by (2) 3 lobes.
 
-Fruits 1-3-spermes, sphériques à ovoïdes à obovoïdes-ellipsoïdes, avec ou sans bec courbé ou dressé ≤ 8 mm ; présence des loges avortées marquée par une côte distincte ; surface glabre (sauf parfois quelques poils sur le bec), lisse, orange à maturité ; les fruits 1-spermes, 1,5-4 cm (bec inclus) × 10-20 mm ; exo- et mésocarpe ensemble, épais de 2-4 mm ; endocarpe ± osseux, glabre et lisse à l'intérieur. Graines subs-phériques à ovoïdes-ellipsoïdales et parfois étroites, 10-28 × 8-10 mm ; testa fin, brun-noir, glabre ; hile important, circulaire à elliptique, > 8 × 5 mm. - Pl. 39, p. 139.
+Fruits 1-3-seeded, spheric to ovoid to obovoid-ellipsoid, with or without a curved or erect beak ≤ 8 mm; presence of aborted locules marked by a distinct rib; surface glabrous (except sometimes a few hairs on the beak), smooth, orange at maturity; the 1-seeded fruits, 1.5-4 cm (beak included) × 10-20 mm; exo- and mesocarp together, 2-4 mm thick; endocarp ± bony, glabrous and smooth on the inside. Seeds subspherical to ovoid-ellipsoidal and sometimes narrow, 10-28 × 8-10 mm; testa fine, brown-black, glabrous; hilum prominent, circular to elliptic, > 8 × 5 mm. - Pl. 39, p. 139.
 
 ## Type
 
@@ -43,21 +41,15 @@ Soyaux 387, près de Libreville, Munda, Sibang Farm, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. mundense est très proche de D. bellum Breteler ; pour la séparation de ces deux espèces, nous renvoyons au traitement de cette dernière p. 60.
+D. mundense is very close to D. bellum Breteler; for the separation of these two species, we refer to the treatment of the latter p. 60.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale, Gabon, Zaïre, Angola
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Zaïre, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

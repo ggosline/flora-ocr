@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, pipeline track near the Rabi petroleum complex (fl.) I. van Nek 488 (holo-WAG; iso-MO, P).
 
-TYPE : Gabon, piste du pipeline près du complexe pétrolier de Rabi (fl.) I. van Nek 488 (holo-WAG ; iso-MO, P).
+Large woody liane. Branches, diameter ≤ 2 cm. Wood exuding a transparent and viscous liquid.
 
-Grande liane ligneuse. Branches, diamètre ≤ 2 cm. Bois exsudant un liquide transparent et visqueux.
+Leaves opposite; petiole ≤ 1 cm; blade narrowly ovate, ≤ 12 × ≤ 6 cm, glabrous (except domatia), glossy above and below; major lateral veins 4-7 pairs, domatia pubescent in pits, venation III subparallel; base of blade rounded to attenuate; apex long-acuminate; young leaves reddish-brown.
 
-Feuilles opposées ; pétiole ≤ 1 cm ; limbe étroitement ové, ≤ 12 × ≤ 6 cm, glabre (sauf domaties), luisant dessus et dessous ; grandes nervures latérales 4-7 paires, domaties pubescentes en fossettes, nervation III subparallèle ; base du limbe arrondie à atténuée ; sommet longuement acuminé ; jeunes feuilles rougeâtre-brun.
+Scales circular to slightly lobed, 45-90 μm in diameter with generally 8 thick-walled cells, probably glandular.
 
-Ecailles circulaires à légèrement lobées, 45-90 μm, de diamètre avec généralement 8 cellules aux parois épaisses, probablement glanduleuses.
+Inflorescences axillary and terminal, rachis ≤ 5 cm, puberulent; leaves subtending the inflorescence, narrow and whitish-green; bracts linear, 1 mm long.
 
-Inflorescences axillaires et terminales, rachis ≤ 5 cm, pubérulent ; feuilles axillant l'inflorescence, étroites et blanc-verdâtre ; bractées linéaires, longues de 1 mm.
+Flowers 4-merous, sessile, protogynous, fragrant. Receptacle covered with a layer of contiguous scales, the lower one 1 mm long, angular; the upper one cupuliform, height 1 mm, width 1.5 mm, interior pubescent. Calyx: lobes very inconspicuous, acute. Petals absent. Stamens exserted 2 mm; filaments white, anthers yellow, apiculate, cordate, 0.3 mm long. Disc pubescent. Style exserted 1.5 mm.
 
-Fleurs 4-mères, sessiles, protogynes, odorantes. Réceptacle couvert d'une couche d'écailles contiguës, l'inférieur long de 1 mm, anguleux ; le supérieur cupuliforme, hauteur 1 mm, largeur 1,5 mm, intérieur pubescente. Calice : lobes très peu visibles, aigus. Pétales absents. Étamines exsertes de 2 mm ; filets blancs, anthères jaunes, apiculées, cordées, longues de 0,3 mm. Disque pubescent. Style exsert de 1,5 mm.
-
-Fruit inconnu.
+Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu seulement au Gabon
+known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

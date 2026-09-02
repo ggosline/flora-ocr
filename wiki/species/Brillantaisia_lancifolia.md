@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous plant, approximately 0.5 m tall, with stem and young leaves pubescent, glabrescenting towards the base. Leaves ovate-lanceolate or lanceolate, 12 × 2.5 cm; the petiole is not clearly separated from the limb, whose base is decurrent cuneate-form; margin of the limb slightly crenate. Approximately 5-7 pairs of lateral veins.
 
-Plante herbacée, d'environ 0,5 m de hauteur, à tige et jeunes feuilles pubescentes, glabrescentes vers la base. Feuilles ovales-lancéolées ou lancéolées, de 12 × 2,5 cm; le pétiole n'est pas nettement séparé du limbe, dont la base est décurrente cunéi-forme; marge du limbe un peu crénelée. Environ 5-7 paires de nervures latérales.
-
-Inflorescences racémeuses, de 10-15 cm, pubescentes; bractées très caduques (non représentées dans les échantillons étudiés); pédoncules de 6-7 mm; bractéoles lancéolées, très étroites, de  $ 3 \times 0,3 $ mm, au sommet des pédoncules qui portent 1-3 fleurs; calice avec des poils glanduleux, segments postérieurs de 6-7 mm, les autres de 5-6 mm. Corolle violette à la gorge, longue de 2,1 cm tube jaunâtre de 10 mm; limbe de 15 mm; lèvre supérieure avec deux dents au sommet; lèvre inférieure large de 10 mm, à trois dents : deux latérales de  $ 1 \times 1 $ mm; dent centrale de  $ 2 \times 1 $ mm. Deux anthères de 4,5 mm, à filaments soudés, longs de 18 mm; staminodes filiformes, de 5 mm. Style de 27 mm. Fruit inconnu.
+Racemose inflorescences, 10-15 cm, pubescent; bracts very caducous (not represented in the specimens studied); pedicels 6-7 mm; bracteoles lanceolate, very narrow, 3 × 0.3 mm, at the apex of the pedicels bearing 1-3 flowers; calyx with glandular hairs, posterior segments 6-7 mm, the others 5-6 mm. Corolla violet at the throat, 2.1 cm long; yellowish tube 10 mm; limb 15 mm; upper lip with two teeth at the apex; lower lip 10 mm wide, three-toothed: two lateral teeth 1 × 1 mm; central tooth 2 × 1 mm. Two anthers 4.5 mm, with filaments fused, 18 mm long; staminodes filiform, 5 mm. Style 27 mm. Fruit unknown.
 
 ## Type
 
 Mann 1688, Pierre del Crystal (B, holotype détruit; K, isotype!; P, isotype!)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 S Nigeria, Gabon.
 

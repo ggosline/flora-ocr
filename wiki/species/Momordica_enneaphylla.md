@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 28(1-2); Figure 5(C)
 
-Planche 28(1-2); Figure 5(C)
-
-Herbe vivace, dioïque; tige jusqu'à 15 m, striée, glabre. Vrilles (souvent inégalement) 2-fides, glabres, la partie basale longue de 1–2 cm, les branches filiformes. Feuille bternée, à 9 folioles: pétiole 1–2 cm, glabre; folioles ovales à elliptiques-ovales, de 3–5 × 1,2–1,8 cm, arrondies à la base, ± longuement acuminées au sommet, glabres, vert clair, à marge légèrement ondulée, légèrement denticulée, folioles latérales légèrement asymétriques et plus petites. Inflorescence ±cauliflore; la mâle à fleurs solitaires ou 2 à 4(−6) en petites ombelles, entourée d'une grande bractée réniforme à ±orbiculaire, de 1–2 cm de longueur et de largeur, ±coriace, à marge entière et munie de grosses glandes rouges; la femelle à pédoncule de 1 cm. Fleur mâle: pédicelle 1–1,5 cm, glabre; réceptacle long de ±1 cm, glabre; sépales ovales-triangulaires, de 4–5 × 3–4 mm, acuminé au sommet, à bord finement cilié; pétales ovales-oblongs, de ±2,5 × 0,7–1 cm, obtus au sommet, jaune vif à crème; étamines 3, filet charnu, ±3 mm, glabre, anthères 2 bithèques et 1 monothèque, à loges presque droites, longues de 3 mm. Fleur femelle: sépales réfléchis; pétales de ±1,5 × 1 cm, jaunes; ovaire étroitement ellipsoïdal, de ±2 cm × 3 mm. Fruit inconnu.
+Perennial herb, dioecious; stem up to 15 m, striate, glabrous. Tendrils (often unequally) 2-fid, glabrous, the basal portion 1–2 cm long, the branches filiform. Leaf ternate, with 9 leaflets: petiole 1–2 cm, glabrous; leaflets ovate to elliptic-ovate, 3–5 × 1.2–1.8 cm, rounded at the base, ± longly acuminate at the apex, glabrous, light green, with slightly undulate margin, slightly denticulate, lateral leaflets slightly asymmetric and smaller. Inflorescence ± cauliflorous; the male with flowers solitary or 2 to 4(−6) in small umbels, surrounded by a large reniform to ± orbicular bract, 1–2 cm in length and width, ± coriaceous, with entire margin and bearing large red glands; the female with peduncle 1 cm. Male flower: pedicel 1–1.5 cm, glabrous; receptacle ± 1 cm long, glabrous; sepals ovate-triangular, 4–5 × 3–4 mm, acuminate at the apex, with finely ciliate margin; petals ovate-oblong, ± 2.5 × 0.7–1 cm, obtuse at the apex, bright yellow to cream; stamens 3, filament fleshy, ± 3 mm, glabrous, anthers 2 bithecal and 1 monothecal, with nearly straight locules, 3 mm long. Female flower: sepals reflexed; petals ± 1.5 × 1 cm, yellow; ovary narrowly ellipsoidal, ± 2 cm × 3 mm. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu du Cameroun, du Gabon et de la République démocratique du Congo ; au Gabon : Estuaire, Ngounié et Woleu-Ntem
+known from Cameroon, Gabon and Democratic Republic of the Congo; in Gabon: Estuaire, Ngounié and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, forêt galerie ; au Gabon à 10–550 m d'altitude, ailleurs à 200–900 m. Fleurs observées en décembre
+primary and secondarized forest, gallery forest; in Gabon at 10–550 m altitude, elsewhere at 200–900 m. Flowers observed in December
 
 ## Bibliography
 

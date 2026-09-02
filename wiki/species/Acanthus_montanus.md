@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, pro maiore parte, excl. Scott Elliot 4619. — Heine, F.W.T.A., ed. 2,2 : 410 fig. 320 (1963).
+, for the most part, excl. Scott Elliot 4619. — Heine, F.W.T.A., ed. 2,2 : 410 fig. 320 (1963).
 
 ≡ Cheilopsis montana Nees, in DC. Prodr. II : 272 (1847).
 
-Plante robuste, dressée, atteignant 1-1,5 m de hauteur, à pubescence assez variable dans ses parties supérieures, sauf les parties florales. Pétioles de 8-11 mm. Limbe des feuilles très variable, pennatifide denté ± profondément lobé, à 5-7 paires de lobes à dents très aiguës, et à acumen épineux piquant très allongé, parfois subentière-sinuée et dentelée ou étroitement elliptique-lancéolée, plus rarement elliptique, de 14-25 × 5-7 (16) cm, rarement avec des dents épineuses à la face supérieure. 5-8 (12) paires de nervures latérales.
+Robust plant, erect, reaching 1–1.5 m in height, with rather variable pubescence in its upper parts, except in the floral parts. Petioles 8–11 mm. Leaf blade very variable, pinnatifid dentate ± deeply lobed, with 5–7 pairs of lobes with very acute teeth, and with a very elongated pungent acumen, sometimes subentire-sinuate and denticulate or narrowly elliptic-lanceolate, more rarely elliptic, 14–25 × 5–7 (16) cm, rarely with spiny teeth on the upper surface. 5–8 (12) pairs of lateral veins.
 
-Inflorescences terminales, en épis, de 20-30 cm de long; bractées largement elliptiques-ovales 2-2,5 × 2-2,5 cm, avec 10-13 (18) dents de 5-8 mm de long et 3 (5) nervures longitudinales bien marquées; bractéoles lancéolées, de 2,5-3 cm, de 2-4 (5) mm de long, à 4-5 épines; segment supérieur du calice lancéolé-, de 27-33 × 8-10 mm à 6-8 épines longues de 2 mm; segment inférieur de 2 × 24 × 4-7 mm avec 6-10 épines terminales atteignant 6 mm environ; segments supérieurs beaucoup plus courts, ovales, entiers. Sépales latéraux de 15 × 3-4 mm, à pointe hérissée et épineuse. Corolle de 33-34 mm, de long, à tube de 5 mm de long; lèvre inférieure de 20 mm de large, rose, rouge à l'intérieur, glabre en dehors, très courtemment pubescente à l'intérieur; les trois lobes entiers ou très faiblement dentés. Anthères insérées à la gorge au niveau d'un anneau poilu; filets un peu pubescents; les filets courts, longs de 13 mm; les longs de 15 mm; anthères de 8 mm de long, munies à la face supérieure d'une brosse de poils très denses d'un blanc pur et brillant. Style poilu à la base, de 3 cm de long.
+Inflorescences terminal, in spikes, 20–30 cm long; bracts broadly elliptic-ovate 2–2.5 × 2–2.5 cm, with 10–13 (18) teeth 5–8 mm long and 3 (5) well-marked longitudinal veins; bracteoles lanceolate, 2.5–3 cm, 2–4 (5) mm long, with 4–5 spines; upper calyx segment lanceolate-, 27–33 × 8–10 mm with 6–8 spines 2 mm long; lower segment 2 × 24 × 4–7 mm with 6–10 terminal spines reaching approximately 6 mm; upper segments much shorter, ovate, entire. Lateral sepals 15 × 3–4 mm, with bristly and spiny apex. Corolla 33–34 mm long, with tube 5 mm long; lower lip 20 mm wide, pink, red inside, glabrous outside, very shortly pubescent inside; the three lobes entire or very weakly dentate. Anthers inserted at the throat at the level of a hairy ring; filaments somewhat pubescent; the short filaments 13 mm long; the long ones 15 mm; anthers 8 mm long, provided on the upper surface with a brush of very dense hairs of pure brilliant white. Style hairy at the base, 3 cm long.
 
-Fruit glabre, ovoïde, de  $ 20 \times 9-10 $ mm; graines de  $ 7 \times 5 \times 2 $ mm.
+Fruit glabrous, ovoid, 20 × 9–10 mm; seeds 7 × 5 × 2 mm.
 
 ## Type
 
@@ -35,9 +33,7 @@ Vogel 299, Fernando-Po (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dahomey, Nigeria, Cameroun, Fernando-Po, Oubangui-Chari, Principe, Congo, Angola.
+Dahomey, Nigeria, Cameroon, Fernando-Po, Ubangi-Shari, Príncipe, Congo, Angola.
 
 ## Specimens examined
 

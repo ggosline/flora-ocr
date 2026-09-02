@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook., Icon. Pl. 14 : 33, t. 1346 (1881). Herbe grêle ; rhizome court, dressé ; tiges fines, longues de 30‒90 cm, triangulaires, glabres. Feuille réduite à 2‒4 gaines glabres près de la base , terminées par un court lobe aigu. Inflorescence en tête dense, globuleuse à hémisphérique, formée de nombreux épillets sessiles ; bractées involucrales plus courtes que l’inflorescence ou absentes. Épillet avec 3‒5 courtes glumes basales et au-dessus 3‒4 glumes plus longues, seule la glume terminale abrite une fleur ; glumes se terminant toutes par une pointe saillante souvent recourbée . Fleur : anthères longues, linéaires ; style filiforme, glabre, à 3 branches. Akène ovoïde–elliptique, lisse, souvent surmonté par la base conique du style.
+in Hook., Icon. Pl. 14 : 33, t. 1346 (1881). Slender herb; rhizome short, erect; stems fine, 30–90 cm long, triangular, glabrous. Leaf reduced to 2–4 glabrous sheaths near the base, terminated by a short acute lobe. Inflorescence in a dense, globose to hemispherical head, formed of numerous sessile spikelets; involucral bracts shorter than the inflorescence or absent. Spikelet with 3–5 short basal glumes and above 3–4 longer glumes, only the terminal glume bearing a flower; glumes all terminating in a salient often curved point. Flower: anthers long, linear; style filiform, glabrous, with 3 branches. Achene ovoid–elliptic, smooth, often topped by the conical base of the style.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République Démocratique du Congo, Sri Lanka ; fréquent au Gabon dans le Woleu-Ntem, mais absente des autres provinces (9 récoltes)
+Gabon, Democratic Republic of the Congo, Sri Lanka; frequent in Gabon in the Woleu-Ntem, but absent from other provinces (9 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+on inselbergs and rocky domes in forest; in Gabon, at 500–850 m altitude. B: Bentham (1881c), Raynal (1967). Bibliography
 
-sur les inselbergs et les dômes rocheux en forêt ; au Gabon, à 500‒850 m d’altitude. B : Bentham (1881c), Raynal (1967). ibliographie
-
-B. Épillet. – C. Fleur. – D. Partie femelle de la fleur. – E. Fruit. Reproduit à partir de Bentham (1881c).
+B. Spikelet. – C. Flower. – D. Female part of the flower. – E. Fruit. Reproduced from Bentham (1881c).
 
 ## Notes
 

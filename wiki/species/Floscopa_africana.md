@@ -17,39 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in A.DC. & C.DC., Monogr. phan. 3 : 267 (1881). Aneilema africanum P.Beauv., Fl. Oware 2 : 57, t. 93 (1818). Herbe pérenne ; racines sortant des nœuds basaux ; tige rampante ou grimpante, atteignant 90 cm de longueur , entre-nœuds, au moins les basaux, avec une ligne éparsement ou nettement pubescente et continue avec la pubescence de la gaine au-dessus. Feuille : gaine 5‒10 mm de longueur, glabre ou éparsement pubescente, avec une ligne de pubescence sur la suture, ciliée au sommet avec des poils atteignant 5 mm ; pseudopétiole court ; limbe très étroitement elliptique-ovale à étroitement elliptique-ovale ou ovale, (2,5‒)4‒12 × 1‒2(‒3) cm, base cunéée à arrondie, sommet atténué-aigu, bords finement ondulés, faces glabres ou la supérieure à quelques poils longs. Inflorescences terminales, en thyrses composés , 2,5‒5 × 2‒4,5 cm, modérément denses, à pubescence dense glanduleuse ou non glanduleuse, inflorescences plus petites parfois présentes aux aisselles sommitales ; axes latéraux ± de même longueur, atteignant 3,5 cm, souvent ramifiés, les ultimes (cincinni) atteignant 3 cm, munies de fleurs distiques presque jusqu’à la base ; bractéoles irrégulièrement suborbiculaires, 0,2‒0,5(‒0,8) mm de longueur, scarieuses, bords souvent érodés. Fleur : pédicelle 0,7‒1,5 mm, à pubescence glanduleuse, articulé à la base ; sépales oblongs-elliptiques à elliptiques, 1,5‒3 × 1‒1,4 mm, purpurins , à pubescence glanduleuse rousse (parfois éparse) ; pétales blancs ou mauve-rose ; étamines à filet blanc ou purpurin, anthères supérieures jaunes, les inférieures blanches ; ovaire blanc ; style grêle, pourpre. Fruit 1,3‒1,5 × 1,9‒2,2 mm, brun, luisant, à base abruptement rétréci en un stipe de 0,4‒0,8 mm. Graine ellipsoïdale, 1,3‒1,4 × 0,8‒1 mm ; testa brun, à 16 ou 17 côtes.
+in A.DC. & C.DC., Monogr. phan. 3 : 267 (1881). Aneilema africanum P.Beauv., Fl. Oware 2 : 57, t. 93 (1818). Perennial herb; roots emerging from basal nodes; stem creeping or climbing, reaching 90 cm in length, internodes, at least the basal ones, with a line sparsely or distinctly pubescent and continuous with the pubescence of the sheath above. Leaf: sheath 5–10 mm in length, glabrous or sparsely pubescent, with a line of pubescence on the suture, ciliate at the apex with hairs reaching 5 mm; pseudpetiole short; blade very narrowly elliptic-ovate to narrowly elliptic-ovate or ovate, (2.5–)4–12 × 1–2(–3) cm, base cuneate to rounded, apex attenuate-acute, margins finely undulate, faces glabrous or the upper surface with some long hairs. Inflorescences terminal, in compound thyrses, 2.5–5 × 2–4.5 cm, moderately dense, with glandular or non-glandular dense pubescence, smaller inflorescences sometimes present at the upper leaf axils; lateral axes ± of equal length, reaching 3.5 cm, often branched, the ultimate ones (cincinni) reaching 3 cm, bearing distichous flowers almost to the base; bracteoles irregularly suborbicular, 0.2–0.5(–0.8) mm in length, scarious, margins often eroded. Flower: pedicel 0.7–1.5 mm, with glandular pubescence, articulate at the base; sepals oblong-elliptic to elliptic, 1.5–3 × 1–1.4 mm, purplish, with rusty glandular pubescence (sometimes scattered); petals white or mauve-pink; stamens with white or purplish filament, upper anthers yellow, the lower ones white; ovary white; style slender, purple. Fruit 1.3–1.5 × 1.9–2.2 mm, brown, shining, abruptly narrowed at the base into a stipe 0.4–0.8 mm. Seed ellipsoidal, 1.3–1.4 × 0.8–1 mm; testa brown, with 16 or 17 ribs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Gambia, Guinea-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Burkina Faso, Ghana, Togo, Benin, Nigeria, Cameroon, Gabon, Republic of the Congo, Central African Republic, Burundi and Rwanda; in Gabon in Ogooué-Ivindo and Woleu-Ntem
 
-Gambie, Guinée-Bissau, Sierra Leone, Libéria, Côte d’Ivoire, Burkina Faso, Ghana, Togo, Bénin, Nigéria, Cameroun, Gabon, République du Congo, République Centrafricaine, Burundi et Rwanda ; au Gabon dans l’Ogooué-Ivindo et le Woleu-Ntem
+Guinea, Liberia, Benin, Nigeria, Cameroon, Equatorial Guinea (Río Muni), Gabon and Republic of the Congo; in Gabon in Ogooué-Ivindo
 
-Guinée, Libéria, Bénin, Nigéria, Cameroun, Guinée équatoriale (Río Muni), Gabon et République du Congo ; au Gabon dans l’Ogooué-Ivindo
-
-Sénégal, Libéria, Côte d’Ivoire, Ghana, Cameroun, Guinée équatoriale (Bioko et Río Muni), Gabon, République démocratique du Congo et Ouganda ; très rare au Gabon, connu seulement du Moyen-Ogooué
+Senegal, Liberia, Côte d'Ivoire, Ghana, Cameroon, Equatorial Guinea (Bioko and Río Muni), Gabon, Democratic Republic of the Congo and Uganda; very rare in Gabon, known only from Moyen-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+aquatic or semi-aquatic herbs in forest or in more open habitats; in Gabon from 10 to 600 m in altitude, elsewhere from 50 to 1000 m
 
-herbes aquatiques ou semi-aquatiques en forêt ou dans des habitats plus ouverts ; au Gabon de 10 à 600 m d’altitude, ailleurs de 50 à 1000 m
+Aquatic species, observed in rivers, partially submerged near the shore or floating in streams in open, sunny forest, riparian; in Gabon at ± 500 m in altitude, elsewhere from 300 to 565 m
 
-Espèce aquatique, observée dans les rivières, partiellement submergée près du rivage ou flot tant dans les ruisseaux en forêt ouverte, ensoleillée, riveraine ; au Gabon à ± 500 m d’altitude, ailleurs de 300 à 565 m
-
-terrestre en forêt primaire, généralement le long des ruisseaux et des fleuves ; au Gabon à ± 100 m d’altitude, de 950 à 1050 m en Afrique de l’Est, ailleurs de 80 à 920 m. Floraison en janvier et février. Bi : Brenan (1968b), Cabezas et al. (2014), Faden (2012), Morton (1967), Sosef et al. (2006). B liographie
+terrestrial in primary forest, generally along streams and rivers; in Gabon at ± 100 m in altitude, from 950 to 1050 m in East Africa, elsewhere from 80 to 920 m. Flowering in January and February. Bibliography: Brenan (1968b), Cabezas et al. (2014), Faden (2012), Morton (1967), Sosef et al. (2006).
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Three subspecies are recognized, all present in Gabon, but the distinction between the three is often unclear. Bibliography: Brenan (1968b), van der Burg (2006), Raponda-Walker & Sillans (1961), Sosef et al. (2006). subsp. majuscula (C.B.Clarke) Brenan Kew Bull. 22 : 387 (1968). F. africana (P.Beauv.) C.B.Clarke var. majuscula C.B.Clarke in Dyer, Fl. trop. Afr. 8 : 85 (1901). Distinguished from the typical subspecies by its more robust habit, up to 1.2 m in height, a panicle 7–10 cm in length, pedicels more than 1.5 mm, sepals 3–4 mm long, the style distinctly exceeding the sepals and reflexed after flowering
 
-Trois sous-espèces sont reconnues, toutes présentes au Gabon, mais la distinction entre les trois est souvent peu claire. B : Brenan (1968b), van der Burg (2006), Raponda-Walker & Sillans (1961), Sosef et al. i B liographie (2006). subsp. majuscula (C.B.Clarke) Brenan Kew Bull. 22 : 387 (1968). F. africana (P.Beauv.) C.B.Clarke var. majuscula C.B.Clarke in Dyer, Fl. trop. Afr. 8 : 85 (1901). À distinguer de la sous-espèce type par son port plus robuste, jusqu’à 1,2 m de hauteur, une panicule de 7‒10 cm de longueur, des pédicelles de plus de 1,5 mm, des sépales de 3‒4 mm de long, le style dépassant nettement les sépales et réfléchi après la floraison
+The two known collections from Gabon were made in two different places, respectively in the rivers Djoua and Loué. Bibliography: Brenan (1968a, 1968b), Sosef et al. (2006).
 
-Les deux collections connues du Gabon ont été faites dans deux lieux différents, respectivement dans les rivières Djoua et Loué. B : Brenan (1968a, 1968b), Sosef et al. (2006). i B liographie
-
-subsp. petrophila J.K.Morton J. Linn. Soc. Bot. 60 : 200 (1967). À distinguer de la sous-espèce type par son port totalement rampant et par l’absence totale de pigment rouge-pourpre sur les tiges, la face inférieure des feuilles et les inflorescences. Le limbe foliaire est généralement jusqu’à 3 fois plus long que large, tandis que chez la sousespèce africana il a un rapport de 4 : 1 ou plus.
+subsp. petrophila J.K.Morton J. Linn. Soc. Bot. 60 : 200 (1967). Distinguished from the typical subspecies by its completely creeping habit and by the complete absence of red-purple pigment on the stems, the lower surface of the leaves and the inflorescences. The leaf blade is generally up to 3 times longer than wide, whereas in subspecies africana it has a ratio of 4 : 1 or more.
 
 ## Notes
 

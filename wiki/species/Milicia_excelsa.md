@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Morus excelsa WELW., Trans. Linn. Soc. London, ser. 1, 27: 69 (1869).
 
 – Chlorophora excelsa (WELW.) BENTH. & HOOK., Gen. Pl. 3 (1): 363 (1880); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 22 (1916); AUBRÉVILLE, FFCI, ed. 2, 1: 49 (1959); BERG, BJBB 47: 349 (1977).
@@ -27,17 +25,17 @@ tags: [species, generated]
 
 - Chlorophora tenuifolia ENGL., Bot. Jahrb. 20: 139 (1894). TYPE: Quintas 154, São Tomé (holo-, COI ; iso-, LISU).
 
-- Milicia africana Sim, For. Fl. For. Port. E. Afr.: 97 (1909). TYPE : Sim 5386, Mozambique (non retrouvé).
+- Milicia africana Sim, For. Fl. For. Port. E. Afr.: 97 (1909). TYPE : Sim 5386, Mozambique (not found).
 
 - Chlorophora alba A. CHEV., Bull. Soc. Bot. France, Mém. 8: 209 (1912). TYPE : Chevalier 24336, Dahomey (holo-, P ; iso-, K).
 
-Arbres dioïques atteignant 35 (-50) m de hauteur ; latex blanc ou jaunâtre. Jeunes rameaux feuillés épais de 0,5-6 mm, pubérulents blancs, pubescents ou subglabres ; base des pousses nouvelles avec de courts entrenœuds et souvent seulement des feuilles écailleuses. Limbe elliptique à oblong (à lancéolé), 6-20 (-32) × 3,5-10 (-12) cm, généralement plus large au milieu ou en-dessous, chartacé à coriace, le plus souvent nettement asymétrique, acuminé à mucroné, parfois subaigu ou subcaudé, obtus à cordé à la base, rarement aigu ; marge entière à faiblement sinuée ou crénelée ; face supérieure pubérulente à presque scabre et alors le plus souvent pubescente sur la nervure principale et aux abords des nervures secondaires, ou subglabre ; face infé- rieure pubérulente sur les principales nervures, pubescente ou subglabre, les aréoles couvertes de poils courts, minces, sur les côtés des nervilles ; nervures presque planes dessus, ± proéminentes dessous ; 10-22 paires de nervures secondaires avec des nervures tertiaires parallèles. Pétiole long de 1-5 cm. Stipules caduques, longues de 0,5-5 cm, (membraneuses à) chartacées à subcoriaces (celles des bourgeons coriaces), assez éparsement pubérulentes, laissant le plus souvent des cicatrices poilues blanches bien visibles.
+Dioecious trees reaching 35 (–50) m in height; latex white or yellowish. Young leafy branches 0.5–6 mm thick, white puberulent, pubescent or subglabrous; base of new shoots with short internodes and often only scale-like leaves. Blade elliptic to oblong (to lanceolate), 6–20 (–32) × 3.5–10 (–12) cm, generally wider at the middle or below, chartaceous to coriaceous, usually distinctly asymmetric, acuminate to mucronate, sometimes subacute or subcaudate, obtuse to cordate at the base, rarely acute; margin entire to weakly sinuate or crenate; upper surface puberulent to almost scabrous and then usually pubescent on the main nerve and along the secondary nerves, or subglabrous; lower surface puberulent on the main nerves, pubescent or subglabrous, the areoles covered with short, thin hairs on the sides of the venules; nerves almost flat above, ± prominent below; 10–22 pairs of secondary nerves with parallel tertiary nerves. Petiole 1–5 cm long. Stipules caducous, 0.5–5 cm long, (membranous to) chartaceous to subcoriaceous (those of the buds coriaceous), rather sparsely puberulent, most often leaving conspicuous white hairy scars.
 
-Inflorescences ô longues de 8-20 cm, de 5 mm de diamètre environ. Pédoncule long de 8-23 mm, pubérulent blanc à pubescent à subtomenteux, avec souvent quelques larges bractées à la partie supérieure. Périanthe haut d'env. 1,5 mm ; tépales presque égaux, convexes, pubérulents à pubescents ou à tomenteux. Étamines à filaments longs de 1,5-2 mm et anthères longues de 0,7-0,9 mm, et larges d'env. 0,6 mm à connectif assez étroit. Pistillode membraneux, haut de 0,3-0,5 mm. Bractées ovales à spatulées, atteignant 1 mm de longueur, pubérulentes.
+Male inflorescences 8–20 cm long, approximately 5 mm in diameter. Peduncle 8–23 mm long, white puberulent to pubescent to subtomentose, often with some broad bracts in the upper part. Perianth approximately 1.5 mm high; tepals nearly equal, convex, puberulent to pubescent or tomentose. Stamens with filaments 1.5–2 mm long and anthers 0.7–0.9 mm long, and approximately 0.6 mm wide with rather narrow connective. Pistillode membranous, 0.3–0.5 mm high. Bracts oval to spatulate, reaching 1 mm in length, puberulent.
 
-Inflorescences ♀ de 2-3 cm de longueur et 5-6 mm de diamètre. Pédoncule long de 7-20 mm, pubérulent blanc à pubescent à subtomentaux. Périanthe haut de 2-2,5 mm ; tépales internes plats, tépales externes subcondupliqués-cucullés, pubérulents à pubescents ou à tomentelleux. Ovaire haut d'env. 1 mm ; stigmates 2, l'un long de 3-7 mm, l'autre de 0,1-1 mm. Bractées (sub) spatulées, membraneuses, longues de 0,5-1,5 mm, pubérulentes.
+Female inflorescences 2–3 cm long and 5–6 mm in diameter. Peduncle 7–20 mm long, white puberulent to pubescent to subtomentose. Perianth 2–2.5 mm high; inner tepals flat, outer tepals subconduplicatae-cucullate, puberulent to pubescent or tomentellous. Ovary approximately 1 mm high; stigmas 2, one 3–7 mm long, the other 0.1–1 mm. Bracts (sub)spatulate, membranous, 0.5–1.5 mm long, puberulent.
 
-Infrutescences verdâtres, longues de 3-5 cm, de 1,5 cm de diamètre. Périanthe haut de 6-7 mm dans le fruit ; tépalcs un peu épaissis. Fruit long de 2,5-3 mm ; graine longue d'env. 2 mm. - Pl. 1, p. 7.
+Infructescences greenish, 3–5 cm long, 1.5 cm in diameter. Perianth 6–7 mm high in fruit; tepals somewhat thickened. Fruit 2.5–3 mm long; seed approximately 2 mm long. - Pl. 1, p. 7.
 
 ## Type
 
@@ -45,11 +43,9 @@ Welwitsch 1559 (♀), Angola, Golungo Alto (holo-, LISU ; iso-, B, BM, G, K, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In young specimens, branches hirtellous white to pubescent to (sub)tomentose; blade lanceolate to oblong, chartaceous; apex long-acuminate to subcaudate or subacute; base obtuse to subcordate or cordate; margin closely toothed to crenate-dentate; upper surface puberulent or hispidulous, often ± wrinkled, often pubescent to tomentose on the main nerves; lower surface hirtellous to pubescent or sparsely to densely tomentose; stipules puberulent to pubescent.
 
-Dans les spécimens jeunes, rameaux hirtelleux blancs à pubescents à (sub) tomenteux ; limbe lancéolé à oblong, chartacé ; apex longuement acuminé à subcaudé ou à subaigu ; base obtuse à subcordée ou à cordée ; marge serrée-dentée à crénelée-dentée ; face supérieure pubérulente ou à hispidule, souvent ± rugueuse, souvent pubescente à tomenteuse sur les principales nervures ; face inférieure hirtelleuse à pubescente ou éparsement à densément tomenteuse ; stipules pubérulentes à pubescentes.
-
-L'aire de répartition du M. excelsa s'étend de la Guinée Bissau au Mozambique. M. excelsa pousse (par exigence de lumière) surtout dans les forêts décidues à semi-décidues, mais peut également croître en forêts sempervirentes. On peut aussi le trouver dans les forêts secondaires ou comme arbres solitaires (résiduels ?) dans les endroits cultivés. Il n'est apparemment pas très commun au Gabon.
+The range of M. excelsa extends from Guinea-Bissau to Mozambique. M. excelsa grows (by light requirement) mainly in deciduous to semi-deciduous forests, but can also occur in evergreen forests. It can also be found in secondary forests or as solitary (residual?) trees in cultivated areas. It apparently is not very common in Gabon.
 
 ## Specimens examined
 

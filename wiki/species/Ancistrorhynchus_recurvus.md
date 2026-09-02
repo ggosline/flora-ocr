@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 152. – Ancistrorhynchus crystallensis P. J. CRIBB & LAAN : A, flower ; B, flower, tepals removed ; C, labellum, front view ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G, general view (A-G, ex CRIBB & al., 1989, modified).
 
-PL. 152. – Ancistrorhynchus crystallensis P. J. CRIBB & LAAN : A, fleur ; B, fleur, tépales enlevés ; C, labelle, vue de face ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G, vue générale (A-G, ex CRIBB & al., 1989, modifié).
-
-Tige 1-7 cm. Feuilles < 8, 14-38 x 0,8-2 cm, linéaires, très inégalement bilobées, lobes subaigus à faiblement bidentés. Inflorescence 1-3 cm, capitée. Fleurs blanches, couvertes sur la face externe de poils pelliculeux. Sépale dorsal elliptique-ové à arrondi. Pétales, obliquement oblongs à linéaires, falciformes, obtus. Sépales latéraux 1-1,3 x 2-2,2 mm, obiquement oblongs-elliptiques, obtus. Labelle 4-7,5 x 3-4,5 mm, trilobé ; lobe médian ové à cordé, avec un callus transversal à la base ; lobes latéraux arrondis à triangulaires. Éperon 4,7-6 mm, largement cylindrico-conique dans la partie inférieure, puis brusquement comprimé et de nouveau renflé au sommet claviforme, obtus. Pl. 154, p. 347.
+Stem 1-7 cm. Leaves < 8, 14-38 × 0.8-2 cm, linear, very unequally bilobed, lobes subacute to weakly bidentate. Inflorescence 1-3 cm, capitate. Flowers white, covered on the outer surface with pellicular hairs. Dorsal sepal elliptic-ovate to rounded. Petals, obliquely oblong to linear, falcate, obtuse. Lateral sepals 1-1.3 × 2-2.2 mm, obliquely oblong-elliptic, obtuse. Labellum 4-7.5 × 3-4.5 mm, trilobed ; median lobe ovate to cordate, with a transverse callus at the base ; lateral lobes rounded to triangular. Spur 4.7-6 mm, broadly cylindrico-conical in the lower part, then abruptly compressed and again swollen at the clavate, obtuse apex. Pl. 154, p. 347.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Liberia, Ghana, Nigeria, Cameroun, Gabon, Congo, Zaïre, Ouganda
+Guinea, Liberia, Ghana, Nigeria, Cameroon, Gabon, Congo, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 1,100-1,300 m. Epiphytic in dense humid forest
 
-alt. 1 100-1 300 m. Épiphyte en forêt dense humide
+MATERIAL STUDIED (Map 73) :
 
-MATÉRIEL ÉTUDIÉ (Carte 73) :
-
-Hallé 633, la Nkoulounga (fl. Juin), P!.
+Hallé 633, la Nkoulounga (fl. June), P!.
 
 Lecomte s.n., Fernand Vaz, P!.
 
-Le Testu 5997, Haute Ogooué, Kaulembou, BM!, BR! ; 7997, Haute Ogooué, Koulamotou (fl. Mars), BR!, P!.
+Le Testu 5997, Haute Ogooué, Kaulembou, BM!, BR! ; 7997, Haute Ogooué, Koulamotou (fl. March), BR!, P!.
 
-J. M. & B. Reitsma 1726, Chantier CEB, environ 45 km SO de Doussala, 2º 35' S, 10º 34' E (fl. Oct.), WAG!.
+J. M. & B. Reitsma 1726, Chantier CEB, approximately 45 km SW of Doussala, 2° 35' S, 10° 34' E (fl. Oct.), WAG!.
 
 Thollon 157, s.loc., P! ; s.n., s.loc., P!.
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 BRENAN, Mem. N.Y. Bot. Gard. 8 (3) : 236 (1953); R. Wilczek, Fl. Congo 9 : 116, tab. 12 (1960); WHITE, FFNR : 218 (1962); Robson, Fl. Zambes. 2 : 369 (1966).
 
 — Celastrus acuminatus L.F., Suppl. Pl. : 154 (1781); SONDER, in SONDER & HARVEY, Fl. Cap. 1 : 454 (1860).
 
-— Catha acuminata (L. F.) PREL, Bot. Bemerk.: 33 (1844).
+— Catha acuminata (L. F.) PRESL, Bot. Bemerk.: 33 (1844).
 
 — Celastrus populifolius LAM., Encyclop. Method. 3 (2) : 94 (1797).
 
@@ -53,7 +51,7 @@ BRENAN, Mem. N.Y. Bot. Gard. 8 (3) : 236 (1953); R. Wilczek, Fl. Congo 9 : 116, 
 
 — Maytenus lepidota (Loes.) Robyns & Lawalrée, Fl. Spermat. Parc Nat. Albert 1 : 496 (1948).
 
-— Maytenus lepidota var. kilimandscharica (LoES.) Robyns & Lawalrée, l.c. (1948).
+— Maytenus lepidota var. kilimandscharica (LOES.) Robyns & Lawalrée, l.c. (1948).
 
 — Gymnosporia bukobina Loes., Bot. Jahrb. 41 : 305 (1908); BRENAN, TTCL : 124 (1949).
 
@@ -67,11 +65,11 @@ BRENAN, Mem. N.Y. Bot. Gard. 8 (3) : 236 (1953); R. Wilczek, Fl. Congo 9 : 116, 
 
 — Maytenus rhodesica Exell, Kew Bull. 8 : 103 (1953).
 
-Arbuste à arbre haut de 2-15 m; jeunes rameaux bruns cylindriques, marqués par 3 ailes. Appareil végétatif montrant des fils de latex à la cassure. Stipules petites, glabres, longues de 0,5 mm. Feuilles alternes; pétiole glabre, long de 2-5 mm, concave dessus; limbe glabre sur les deux faces, vert-brunâtre et vert plus pâle dessous à l'état sec, elliptique à lancéolé, 3-11 × 1,5-4,5 cm, base atténuée ou arrondie, bord denté et sommet acuminé-aigu mucroné. Nervure médiane concave dessus et saillante dessous; nervures secondaires 6-10 paires, les inférieures très ascendantes et les supérieures ascendantes, peu arquées, arquées ou rectilignes, s'anastomosant à 1-5 mm du bord du limbe, faiblement déprimées dessus et saillantes dessous. Nervilles en réseau lâche à mailles polygonales ou allongées.
+Shrub to tree 2-15 m tall; young branches brown, cylindrical, marked with 3 wings. Vegetative apparatus showing latex threads at the fracture. Stipules small, glabrous, 0.5 mm long. Leaves alternate; petiole glabrous, 2-5 mm long, concave above; limb glabrous on both surfaces, greenish-brown and paler green below when dry, elliptic to lanceolate, 3-11 × 1.5-4.5 cm, base attenuate or rounded, margin serrate and apex acuminate-acute mucronate. Midvein concave above and prominent below; secondary veins 6-10 pairs, the lower ones very ascending and the upper ones ascending, slightly curved, arched or rectilinear, anastomosing 1-5 mm from the margin of the limb, weakly depressed above and prominent below. Tertiary veins in loose reticulate network with polygonal or elongate meshes.
 
-Inflorescences axillaires en cymes condensées pauciflores de 2-5 fleurs. Pédoncules longs de 2-4 mm, pédicelles floraux à section ± pentagonale, longs de 1,5-3 mm, glabres. Bouton floral globuleux, vert à l'état frais, sépales et pétales contortés. Sépales inégaux, étalés, largement lancéolés, glabres sur les deux faces, longs de 1 mm. Pétales étalés, rouges, glabres (sauf au sommet de la face externe, villeux au fort grossissement), libres entre eux, très largement blancéolés ou orbiculaires, 2-3 × 2-3 mm, sommet réfléchi vers l'intérieur de la fleur, tissu conducteur nettement visible. Étamines 5, alternipétales, soudées par le filet au bord du disque; anthères introrses, à 2 loges très épaisses, basifixes, longues de 0,5 mm, tôt caduques. Disque faiblement cupulaire, charnu, d'un diamètre de 2 mm. Ovaire supère ± enfoncé dans le disque, triloculaire, chaque loge biovulcé, placcation basalc. Style court se terminant par 3 stigmates charnus.
+Inflorescences axillary in condensed pauciflorous cymes of 2-5 flowers. Peduncles 2-4 mm long, floral pedicels ± pentagonal in section, 1.5-3 mm long, glabrous. Floral bud globose, green when fresh, sepals and petals contorted. Sepals unequal, spreading, broadly lanceolate, glabrous on both surfaces, 1 mm long. Petals spreading, red, glabrous (except at the apex of the external surface, villous at high magnification), free from one another, very broadly lanceolate or orbicular, 2-3 × 2-3 mm, apex reflexed toward the interior of the flower, conducting tissue distinctly visible. Stamens 5, alternipetalous, connate by the filament to the margin of the disc; anthers introrse, with 2 very thick locules, basifixed, 0.5 mm long, early caducous. Disc weakly cupular, fleshy, 2 mm in diameter. Ovary superior ± sunken in the disc, trilocular, each locule biovulate, placentation basal. Style short, terminating in 3 fleshy stigmas.
 
-Capsule uniloculaire, rouge vif à l'état frais, longue de 8-9 mm, bivalve, monosperme; capsules avortées correspondant aux autres loges ovariennes; sépales persistants. Graine lisse, brun orangé à l'état frais, longue de 6,5 mm, oblongue ellipsoïde, marquée d'une carène longitudinale bifurquée au sommet, entièrement entourée par un arille blanc mince; cicatrice du hile linéaire. PL. 2, p. 9.
+Capsule unilocular, bright red when fresh, 8-9 mm long, bivalvate, monospermous; aborted capsules corresponding to the other ovarian locules; sepals persistent. Seed smooth, orange-brown when fresh, 6.5 mm long, oblong-ellipsoid, marked with a longitudinal keel bifurcate at the apex, entirely surrounded by a thin white aril; hilum scar linear. PL. 2, p. 9.
 
 ## Type
 
@@ -79,11 +77,9 @@ Thunberg 5582, Cap de Bonne Espérance, fr. (holo-, UPS)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+R. Wilczek believes he can distinguish two ecological forms: the altitudinal form and that of islands and forest galleries. In Gabon this second form is found again. It should be noted that the vegetative apparatus is highly variable both in its forms and in its dimensions.
 
-R. Wilczek croit pouvoir distinguer deux formes écologiques : celle d'altitude et celle des îles et galeries forestières. Au Gabon on retrouve cette deuxième forme. Il faut noter la grande variabilité de l'appareil végétatif tant par ses formes que par ses dimensions.
-
-L'aire de cette espèce s'étend du Cameroun au Zaïre où on la rencontre jusqu'à une altitude de 3 200 m.
+The range of this species extends from Cameroon to Zaire where it is found at an altitude up to 3,200 m.
 
 ## Vernacular names
 

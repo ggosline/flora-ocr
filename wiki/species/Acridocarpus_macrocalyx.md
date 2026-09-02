@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree or liane; young branches clothed with short hairs. Leaves penninerved; stipules absent; petiole channelled, pubescent, 0.4–1.5 cm long; blade pubescent to ± glabrous, obovate, 9–25 × 5–13 cm, obtuse to subcordate at the base which bears 2–4 glands, rounded, emarginate-apiculate at the apex. Secondary veins ascending, prominent on the lower surface as are the venules.
 
-Arbre ou liane; jeunes rameaux vêtus de poils courts. Feuilles penninerves; stipules absentes; pétiole canaliculé, pubescent, long de 0,4-1,5 cm; limbe pubescent à ± glabre, obové, 9-25 × 5-13 cm, obtus à subcordé à la base qui est munie de 2-4 glandes, arrondi, émarginé-apiculé au sommet. Nervures secondaires ascendantes, saillantes à la face inférieure ainsi que les nervilles.
+Terminal pubescent racemes forming large panicles; bracts up to 10 mm and bracteoles generally smaller, ovate, pubescent; pedicels 10–15 mm, pubescent. Calyx generally with 2–3 glands, with oblong sepals, rounded at the apex, pubescent, 3–5 mm long. Petals ± clawed, blade crenulate, 10–16 mm long, glabrous. Stamens with filaments 0.5–1.5 mm, anthers oblong-elliptic, bearing 2 small horns at the apex, 5–7 mm long. Ovary pubescent, 3 mm long; styles curved, 14–15 mm long, glabrous.
 
-Racèmes terminaux pubescents formant de grandes panicules; bractées pouvant atteindre 10 mm et bractéoles généralement plus petites, ovales, pubescentes; pédicelles de 10-15 mm, pubescents. Calice généralement à 2-3 glandes, à sépales oblongs, arrondis au sommet, pubescents, longs de 3-5 mm. Pétales ± onguiculés, à limbe crénelé, longs de 10-16 mm, glabres. Étamines à filets de 0,5-1,5 mm, anthères oblongues-elliptiques, munies de 2 petites cornes au sommet, longues de 5-7 mm. Ovaire pubescent, long de 3 mm; styles courbés, longs de 14-15 mm, glabres.
-
-Fruits composés de 2 (3) samares longues de 5-7 cm. PL. 1, 1-5, p. 7.
+Fruits composed of 2 (3) samaras 5–7 cm long. PL. 1, 1–5, p. 7.
 
 ## Type
 
@@ -31,9 +29,7 @@ Zenker 2472, 1403, Cameroun (BR, P!, BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts ripicoles. Guinée, puis du Togo au Zaïre.
+Riparian forests. Guinea, then from Togo to Zaïre.
 
 ## Specimens examined
 

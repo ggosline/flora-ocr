@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, à rhizome épais de 5–10 mm ; cataphylles ovales à lancéolées, 0,3–5 cm × 2–3 mm ; tiges latérales , dressées, 25–50 cm × 1–2 mm, trigones, glabres. Feuilles toutes basales ; gaine lancéolée à elliptique–lancéolée, de 6–10 × 0,6–2 cm, brunes ; limbe linéaire à étroitement oblong , plan, assez épais, trinervé, le plus grand de 30– 80 × 2,5–4 cm , à base brusquement rétrécie en pseudo-pétiole de 5–20 cm, sommet brusquement aigu ou acuminé. Inflorescence terminale en tête globuleuse large de 9–15 mm, brune , formée de 3–12 épis distincts ; bractées involucrales 3–4, ovales à ovales–lancéolées, 4–12 × 2–4 mm, glumacées , glabres, brunes ; épi ovale à étroitement oblong, de 4–20 × 3–5 mm ; bractées spicoïdales très serrées, ovales à ovales–lancéolées, 3,5–5,5 × 1–3 mm , brun clair, mais souvent striées de brun ou de brun rougeâtre, glabres ; spicoïde à 3 fleurs mâles et 1 femelle. Fleur : bractées florales 6, linéaires, longues de 3,5–5 mm , les 4 plus basses larges de 0,8–1,2 mm, translucides à brun clair, parfois striées de brun rougeâtre, carène des 2 bractées inférieures non ailées, hispides, sommet aigu, les 2 supérieures larges de 0,4–0,6 mm, planes, glabres ; style à 3 branches . Akène obovoïde et légèrement aplati, 1,2–2 × 0,8–1,5 mm, brun grisâtre à noirâtre, rugueux à tuberculé, côtelé.
+Robust herb, with thick rhizome 5–10 mm; cataphylls ovate to lanceolate, 0.3–5 cm × 2–3 mm; lateral stems, erect, 25–50 cm × 1–2 mm, trigonous, glabrous. Leaves all basal; sheath lanceolate to elliptic-lanceolate, 6–10 × 0.6–2 cm, brown; blade linear to narrowly oblong, plane, fairly thick, trinerved, the largest 30–80 × 2.5–4 cm, with base abruptly narrowed into a pseudo-petiole 5–20 cm, apex abruptly acute or acuminate. Inflorescence terminal in globose head 9–15 mm wide, brown, formed of 3–12 distinct spikes; involucral bracts 3–4, ovate to ovate-lanceolate, 4–12 × 2–4 mm, glumaceous, glabrous, brown; spike ovate to narrowly oblong, 4–20 × 3–5 mm; spicoid bracts very crowded, ovate to ovate-lanceolate, 3.5–5.5 × 1–3 mm, light brown, but often striped with brown or reddish-brown, glabrous; spicoid with 3 male flowers and 1 female. Flower: floral bracts 6, linear, 3.5–5 mm long, the 4 lowermost 0.8–1.2 mm wide, translucent to light brown, sometimes striped with reddish-brown, keel of the 2 lower bracts not winged, hispid, apex acute, the 2 upper ones 0.4–0.6 mm wide, plane, glabrous; style with 3 branches. Achene obovoid and slightly flattened, 1.2–2 × 0.8–1.5 mm, greyish-brown to blackish, rugose to tuberculate, ribbed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Equatorial Guinea, Gabon and Angola; rare in Gabon, found in Estuaire, Moyen-Ogooué, Ngounié and Ogooué-Maritime (4 collections)
 
-Cameroun, Guinée Équatoriale, Gabon et Angola ; rare au Gabon, trouvée dans l’Estuaire, le Moyen-Ogooué, la Ngounié et l’Ogooué-Maritime (4 récoltes)
-
-Cameroun et Gabon où elle est trouvée seulement dans la province de l’Estuaire, à Balakabo dans les Monts de Cristal (1 récolte)
+Cameroon and Gabon where it is found only in the province of Estuaire, at Balakabo in the Cristal Mountains (1 collection)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary or secondary forest, sometimes along rivers and streams; in Gabon, at 150–500 m altitude
 
-forêt primaire ou secondaire, parfois le long des rivières et des ruisseaux ; au Gabon, à 150–500 m d’altitude
+Plant. – B. Spike. – C. Spikelet, abaxial view. – D. – B. Section of the blade. – C. Branched part of The 3 inner scales of the spikelet, adaxial view. – the inflorescence. – D. Group of spikes. – E. Spike. – F, G. E. Diagram of a spikelet. – F. Achene. Drawing by Spicoid. Original drawing by Richard W. Haines ©. A. Raynal, reproduced with permission of the Muséum national d'Histoire naturelle, Paris (©) from Raynal (1968a). Taxonomic note: The inflorescence structure of M. africana s. lat. is extremely variable. While some plants have an inflorescence in a head formed of many spikes crowded on a robust peduncle, others have solitary spikes on very slender peduncles (as in var. filipes). var. filipes Raynal Plate 107 Adansonia 2, 8: 412 (1968). M. africana Boeckeler subsp. filipes (Raynal) D.A.Simpson, Revis. Mapania: 127 (1992). Differs from the typical variety by its more numerous inflorescences, with much more slender stems (only 0.4–0.7 mm thick) and bearing only 1(–2) spikes.
 
-Plante. – B. Épi. – C. Épillet, vue abaxiale. – D. – B. Section du limbe. – C. Partie ramifiée de Les 3 écailles internes de l’épillet, vue adaxiale. – l’inflorescence. – D. Groupe d’épis. – E. Épi. – F, G. E. Diagramme d’un épillet. – F. Akène. Dessin par Spicoïde. Dessin original par Richard W. Haines ©. A. Raynal, reproduit avec permission du Muséum national d’Histoire naturelle, Paris (©) à partir de Raynal (1968a). Note taxonomique : La structure de l’inflorescence de M. africana s. lat. est extrêmement variable. Alors que certaines plantes ont une inflorescence en tête formée de nombreux épis serrés sur un pédoncule robuste, d’autres ont des épis solitaires sur des pédoncules très grêles (comme dans la var. filipes ). var. filipes Raynal Planche 107 Adansonia 2, 8 : 412 (1968). M. africana Boeckeler subsp. filipes (Raynal) D.A.Simpson, Revis. Mapania : 127 (1992). Diffère de la variété type par ses inflorescences plus nombreuses, à tiges beaucoup plus grêles (seulement 0,4–0,7 mm d’épaisseur) et portant seulement 1(–2) épis.
+humid forests, at medium altitudes
 
-forêts humides, aux altitudes moyennes
-
-Note taxonomique : M. africana var. filipes paraît très différente de la variété type. Simpson (1992) l’a donc considérée comme une sous-espèce distincte. Cependant, comme une plante intermédiaire a été trouvée au Gabon, nous la considérerons seulement comme une variété, comme l’a fait Raynal. b : Raynal (1968a), Simpson (1992). ibliographie
+Taxonomic note: M. africana var. filipes appears very different from the typical variety. Simpson (1992) therefore considered it as a distinct subspecies. However, as an intermediate plant has been found in Gabon, we will consider it only as a variety, as Raynal did. b: Raynal (1968a), Simpson (1992). ibliography
 
 ## Notes
 

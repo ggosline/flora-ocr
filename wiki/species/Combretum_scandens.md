@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 BJBB 35 (2) : 171 (1965) ; LIBEN, FZ : 44 (1968) ; Fl. Cam. : 25 : 47 (1983). TYPE : Congo (Kinshasa), Yangambi (fl.) Louis 10407 (holo-BR ; iso-P, WAG).
 
-Liane, diamètre ≤ 8 cm.
+Liane, diameter ≤ 8 cm.
 
-Feuilles opposées ; pétiole ≤ 1 cm ; limbe elliptique de ≤ 14 × ≤ 8 cm, glabre ; grandes nervures latérales 5-8 paires, déprimées dessus, domaties à peine visibles, nervation III parallèle ; base du limbe arrondie ; sommet acuminé.
+Leaves opposite; petiole ≤ 1 cm; lamina elliptic ≤ 14 × ≤ 8 cm, glabrous; major lateral veins 5–8 pairs, impressed above, domatia scarcely visible, venation III parallel; base of lamina rounded; apex acuminate.
 
-Écailles diamètre 60-70 μm.
+Scales diameter 60–70 μm.
 
-Inflorescences axillaires ou terminales, paniculées, ≤ 25 cm ; bractées peu visibles.
+Inflorescences axillary or terminal, paniculate, ≤ 25 cm; bracts scarcely visible.
 
-Fleurs 4-mères, sessiles. Réceptacle inférieur hauteur ≤ 1 mm, lépidote, le supérieur, patelliforme, largeur 2 mm, couverts d'écailles et de petits poils ordinaires. Calice, lobes triangulaires. Pétales spathulés, longueur 1 mm, glabres. Étamines longues de 1,5 mm et anthères de 0,3 mm. Disque pubescent sur le bord. Style 0,5 mm.
+Flowers 4-merous, sessile. Receptacle inferior height ≤ 1 mm, lepidote, the superior one, patelliforme, width 2 mm, covered with scales and small ordinary hairs. Calyx, lobes triangular. Petals spathulate, length 1 mm, glabrous. Stamens 1.5 mm long and anthers 0.3 mm. Disc pubescent on the margin. Style 0.5 mm.
 
-Fruit, longueur 12-15 mm, largeur 10-12 mm, subspérique à obo-voïde, ailes papyracées ; stipe 2-3 mm. – Pl. 16, 4-6, p. 59.
+Fruit, length 12–15 mm, width 10–12 mm, subspherical to obovoid, papyraceous wings; stipe 2–3 mm. – Pl. 16, 4–6, p. 59.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Centrafrique, Gabon, Congo, Zaïre
+Cameroon, Central African Republic, Gabon, Congo, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides
+dense humid forests
 
 ## Specimens examined
 

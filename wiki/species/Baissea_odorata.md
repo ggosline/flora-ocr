@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4(1) : 212 (1902). Grande liane ; rameaux glabres. Feuille glabre : pétiole de 2–7 mm ; limbe étroitement ovale à ovale ou obovale, de 5–12 × 1,5–4 cm, généralement décurrente sur le pétiole, souvent graduellement longuement acuminé au sommet ; nervures secondaires 6 à 10 paires , nervation tertiaire scalariforme, formant des angles droits avec la médiane ; domaties présentes. ,QÀR rescence D[LOODLUHHWDXVVLWHUPLQDOHWUqVOkFKHSOXVFRXUWHRXSOXVORQJXHTXHOHVIHXLOOHV pédoncule atteignant 3 cm. Fleur parfumée ; pédicelle de 5-10 mm ; calice à lobes longs de 1–1,5 mm, avec 5 collétères à la base interne ; corolle blanche, à pubérulence noirâtre ou rouge foncé à l’extérieur , à lignes rouges à l’intérieur, partie supérieure de la corolle (déjà en bouton) glabre , à tube campanulé, long de 3–5 mm, à lobes longs de 8–16 mm, largement glabres ; étamines insérées près de la base du tube, incluses, anthère longue de ± 3 mm, pubescente dorsalement ; ovaire à pubescence brun foncé au sommet. Fruit : follicules atteignant 80 cm de longueur (les seuls fruits connus sont probablement immatures).
+Fl. trop. Afr. 4(1) : 212 (1902). Large liana; branchlets glabrous. Leaf glabrous: petiole 2–7 mm; blade narrowly ovate to ovate or obovate, 5–12 × 1.5–4 cm, generally decurrent on the petiole, often gradually long-acuminate at apex; secondary veins 6 to 10 pairs, tertiary venation scalariform, forming right angles with the midvein; domatia present. Inflorescence dichasial and also terminal, very lax, shorter or longer than the leaves; peduncle reaching 3 cm. Flower fragrant; pedicel 5–10 mm; calyx with lobes 1–1.5 mm long, with 5 colleters at the base inside; corolla white, with blackish or dark red pubescence outside, with red lines inside, upper part of the corolla (already in bud) glabrous, with campanulate tube 3–5 mm long, with lobes 8–16 mm long, broadly glabrous; stamens inserted near the base of the tube, included, anther ± 3 mm long, pubescent dorsally; ovary with dark brown pubescence at apex. Fruit: follicles reaching 80 cm in length (the only known fruits are probably immature).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Nigéria, au Cameroun et au Gabon ; au Gabon, connu d’une seule récolte, Le Testu 8050 , de l’Ogooué-Lolo. Écologie IRUrWDX*DERQjPG¶DOWLWXGHDLOOHXUVMXVTX¶jP
+from Sierra Leone to Nigeria, Cameroon and Gabon; in Gabon, known from a single collection, Le Testu 8050, from Ogooué-Lolo. Ecology: Forest in Gabon at m altitude, occurring up to m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la révision de van Dilst (1995), cette espèce était traitée comme un synonyme de B. leonensis . Néanmoins, il y a des caractères clairs pour séparer les deux, comme Huber (1963) l’avait fait auparavant. B : Stapf (1902). IBLIOGRAPHIE
+In van Dilst's revision (1995), this species was treated as a synonym of B. leonensis. Nevertheless, there are clear characters to separate the two, as Huber (1963) had done previously. B: Stapf (1902). BIBLIOGRAPHY
 
 ## Notes
 

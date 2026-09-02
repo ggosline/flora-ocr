@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose, 1.5 to 5 m tall; young branches tawny pubescent with pale lenticels. Triangular stipules
 
-Sarmenteux, de 1,5 à 5 m de hauteur; jeunes rameaux fauves velus avec des lenticelles claires. Stipules triangulaires longues
+PL. 28. — Mussaenda Nannanii Wernh. : 1, flowering branch; 2, short-styled flower; 3, prefloration (young bud); 4, fertile anther (1 to 4, N. Hallé 1991); 5, long-styled bud; 6, sterile anther; 7, 4-lobed stigma; 8, section of quadrilocular ovary (5 to 8, Le Testu 9055); 9, fruit and 10, seed (Robyns 450).
 
-PL. 28. — Mussaenda Nannanii Wernh. : 1, rameau florifère; 2, fleur brevistyle; 3, préfloraison (jeune bouton); 4, anthère fertile (1 à 4, N. Hallé 1991); 5, bouton longistyle; 6, anthère stérile; 7, stigmate 4 lobé; 8, coupe d'ovaire quadriloculaire (5 à 8, Le Testu 9055); 9, fruit et 10, graine (Robyns 450).
+5–12 mm long, sometimes split into two points at apex. Petioles tawny pubescent, 4–19 mm. Blade scabrous above, 7–16 × 3–8 cm; base rounded to subcordate; apex lanceolate. 8–10 pairs of secondary pubescent veins.
 
-de 5-12 mm, parfois fendues en deux pointes au sommet. Pétioles fauves pubescents de 4-19 mm. Limbe scabre dessus, de 7-16 × 3-8 cm; base arrondie à subcordée; sommet lancéolé. 8-10 paires de nervures secondaires pubescentes.
+Multiflowered inflorescence with variable white foliaceous sepals, more developed in ♂. Pseudoumbels often bearing 10 to 20 flowers. Calyx rusty-tawny pubescent with attenuate acute lobes 2–6 × 1–1.5 mm. Corolla with green tube, reddish-brown when dry, densely pubescent, 3–6 cm long. Lobes yellow, 5–9 × 2–3 mm, with apiculate apex.
 
-Inflorescence multiflore à sépales foliacés blancs variables, plus développés chez les ♂. Pseudombelles ayant souvent de 10 à 20 fleurs. Calice roux-fauve pubescent à lobes atténués aiguis de 2-6 × 1-1,5 mm. Corolle à tube vert, roux à sec, densément pubescent, long de 3-6 cm. Lobes jaunes de 5-9 × 2-3 mm, à sommet apiculé.
-
-Fruit ellipsoïde atteignant 25 mm de long, orangé, pulpeux avec de nombreuses petites graines brun clair.
+Ellipsoid fruit reaching 25 mm long, orange, pulpy with numerous pale brown small seeds.
 
 ## Type
 
@@ -39,11 +37,9 @@ Debeaux 384 (P), Kogo, confluent des riv. Muni et Kongué en Guinée Espagnole
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This highly variable species is difficult to circumscribe or define. Part of the specimens cited shows transition with M. tenu-flora which follows. At Bélinga the two species coexist and present themselves distinctly: for this reason we refrain from deciding otherwise than some of our predecessors in such a difficult group.
 
-Cette espèce très variable est difficile à délimiter ou à définir. Une partie des échantillons cités fait transition avec le M. tenu-flora qui suit. A Bélinga les deux espèces cohabitent et se présentent de façon distincte : de ce fait nous renonçons à trancher autrement que certains de nos devanciers dans un groupe aussi difficile.
-
-Plante de lisières. Cameroun, Gabon et Congo.
+Plant of forest margins. Cameroon, Gabon and Congo.
 
 ## Specimens examined
 

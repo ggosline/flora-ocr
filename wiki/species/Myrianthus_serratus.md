@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gen. Pl. 3 (1): 379 (1880); RENDLE, Journ. Bot. 53: 353 (1915); ENGL., Mon. Afr. Pfl. 1, Moraceae: 40 (1898); DE RUITER, BJBB 46: 491 (1977).
 
 - Diceranostachys serrata Trécul, Ann. Sc. Nat., ser. 3, 8: 85 (1847).
 
-Arbustes ou arbres atteignant 16 m de hauteur ; écorce grise à gris-jaune, parfois brun-orange, légèrement sulquée. Petits rameaux feuillés épais de 4-7 mm ; entre-nœuds longs de 0,5-2,5 cm, avec de courts poils blancs, apprimés, glabrescents. Limbe simple, entier à 3 (-5) -lobé, ovale, obovale, elliptique, blancéolé (ou lancéolé), de (8-) 18-32 × 8,5-15 cm, aigu, parfois obtus ou subacuminé ; base aiguë à tronquée, parfois atténuée ; marge duplicato-serrée à serrée-dentée ; dessus glabre sauf quelques poils sur les nervures ; face inférieure avec des poils courts, (presque) apprimés, blancs à gris, sur les nervures principale et secondaires, nervures tertiaires et aréoles argentées, blanches à blanc grisâtre, arachnoïdes-tomenteuses ; nervures médiane et secondaires légèrement proéminentes dessous ; 6-13 paires de nervures secondaires. Pétiole long de 2-13 cm, faiblement sulqué (et côtelé), avec de courts poils blancs apprimés. Stipules caduques ou subpursuantes, longues de 0,5-1,5 cm, non entièrement amplexicaules, avec des poils blancs épars, apprimés.
+Shrubs or trees reaching 16 m in height; bark grey to grey-yellow, sometimes brown-orange, slightly sulcate. Small leafy branchlets 4-7 mm thick; internodes 0.5-2.5 cm long, with short white hairs, appressed, glabrescent. Leaf blade simple, entire to 3 (-5)-lobed, ovate, obovate, elliptic, lanceolate (or lanceolate), (8-) 18-32 × 8.5-15 cm, acute, sometimes obtuse or subacuminate; base acute to truncate, sometimes attenuate; margin duplicately serrate to serrate-dentate; upper surface glabrous except for a few hairs on the veins; lower surface with short, (almost) appressed, white to grey hairs on the primary and secondary veins, tertiary veins and areoles silvery, white to whitish-grey, arachnoid-tomentose; midvein and secondary veins slightly prominent below; 6-13 pairs of secondary veins. Petiole 2-13 cm long, weakly sulcate (and ribbed), with short appressed white hairs. Stipules caducous or subpersistent, 0.5-1.5 cm long, not entirely amplexicaul, with scattered appressed white hairs.
 
-Inflorescences ♀ (y compris le pédoncule) 2 × 2,5 × 5 cm avec 2-4 axes primaires, chacun d'eux étant ramifié 5-7 fois. Pédoncule long de 1,5-4,5 cm, épais de 1-2 mm, avec de courts poils blancs apprimés, et des poils dressés en position distale. Fleurs groupées sur les derniers axes ou ceux immédiatement inférieurs, jusqu'à 1,5-2 cm de l'extrémité des derniers axes. Périanthe haut de 0,6-1 (-1,2) mm, à (2-) 3-4 tépales, libres ou soudés à la base, obovales, à sommet épaissi, cucullés, avec de courts poils blancs, raides. Étamines à filaments longs de 0,7-1 mm et anthères de 0,2-0,5 (-0,8) × 0,3-0,4 mm. Bractées interflorales longues de 0,4-0,9 (-1,2) mm, les autres bractées deltoïdes, aiguës, convexes à la base.
+♂ Inflorescences (including the peduncle) 2 × 2.5 × 5 cm with 2-4 primary axes, each of which branched 5-7 times. Peduncle 1.5-4.5 cm long, 1-2 mm thick, with short appressed white hairs, and erect hairs in the distal position. Flowers grouped on the last axes or those immediately below, up to 1.5-2 cm from the tip of the last axes. Perianth 0.6-1 (-1.2) mm high, with (2-) 3-4 tepals, free or united at the base, obovate, with thickened apex, cucullate, with short rigid white hairs. Stamens with filaments 0.7-1 mm long and anthers 0.2-0.5 (-0.8) × 0.3-0.4 mm. Interfloral bracts 0.4-0.9 (-1.2) mm long, the other bracts deltoid, acute, convex at the base.
 
-Inflorescences ♀ globuleuses, de 0,5-2 mm de diamètre. Pédon-cule long de 0,4-0,8 cm, avec de petits poils blancs apprimés à dressés. Fleurs 3-12 ; périanthe ovoïde, haut de 1,5-2,5 cm, de 1,2-2 mm de diamètre ; stigmate long de 1,2-2,2 mm. Bractées interflorales triangulaires à ovales.
+♀ Inflorescences globose, 0.5-2 mm in diameter. Peduncle 0.4-0.8 cm long, with small appressed to erect white hairs. Flowers 3-12; perianth ovoid, 1.5-2.5 cm high, 1.2-2 mm in diameter; stigma 1.2-2.2 mm long. Interfloral bracts triangular to ovate.
 
-Infrutescences avec 1-4 périanthes hauts de 1,5-2 cm dans le fruit ; noyau 1,1-1,5×1-1,4 cm avec jusqu'à 16 côtes nettes à faibles.
+Infructescences with 1-4 perianths 1.5-2 cm high in the fruit; pyrene 1.1-1.5 × 1-1.4 cm with up to 16 sharp to weak ribs.
 
 ## Type
 
@@ -37,9 +35,7 @@ Heudelot 840, Guinée, Fouta Djalon (holo-, P ; iso-, B, G, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'aire de M. serratus s'étend du Sénégal au Bas Congo. L'espèce est également connue de São Tomé. Les différences entre le matériel récolté du N Gabon au Bas Congo et la plupart des récoltes faites dans le reste de l'aire du M. serratus justifient la reconnaissance de 2 variétés : var. serratus et var. letestui. Seule la dernière est présente au Gabon.
+The range of M. serratus extends from Senegal to Lower Congo. The species is also known from São Tomé. The differences between material collected from N Gabon to Lower Congo and most collections made in the rest of the range of M. serratus justify recognition of 2 varieties: var. serratus and var. letestui. Only the latter is present in Gabon.
 
 ## Figures
 

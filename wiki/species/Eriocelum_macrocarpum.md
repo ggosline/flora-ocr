@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 1155 (1933).
 
-Arbre de taille moyenne (TISSERANT) ou élevée, 30-35 m avec un fût de 40-60 cm de diamètre (CHEVALIER). Feuilles 2-3-juguées de 15-25 cm; folioles de base légèrement cordées, de 5-6 cm de diamètre avec 7-8 paires de nervures; folioles supérieures elliptiques, aiguës aux 2 extrémités, légèrement acuminées; parfois rare pubérulence sous les nervures; rameaux pubérulents ferrugineux.
+Medium-sized (TISSERANT) or tall tree, 30-35 m with a bole 40-60 cm in diameter (CHEVALIER). Leaves 2-3-jugate, 15-25 cm; basal leaflets slightly cordate, 5-6 cm in diameter with 7-8 pairs of veins; upper leaflets elliptic, acute at both ends, slightly acuminate; sometimes sparse puberulence beneath the veins; branchlets ferruginous puberulent.
 
-Inflorescence en épis ‡ ramifiés, grêles, 10-20 cm; cymules mâles uniflores; cymules femelles à 1-4 fleurs; pédicelles relativement longs et grêles, 3 mm; bractée de 1 mm. Fleurs blanches, limbe des pétales peu velu, mais écaille fortement velue sur les 2 faces. PL. 41, 6-10, p. 177.
+Inflorescence in branched spikes, slender, 10-20 cm; male cymules uniflorous; female cymules with 1-4 flowers; pedicels relatively long and slender, 3 mm; bract 1 mm. Flowers white, limb of petals slightly hairy, but scale strongly hairy on both faces. PL. 41, 6-10, p. 177.
 
 ## Type
 
@@ -30,11 +28,9 @@ Zenker 1564, Cameroun (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 42. — Eriocelum paniculatum Bak. (1-2', Klaine 315; 3-7', Klaine 30; 7, 7' after Delpy) : 1, branchlet, leaflet 12 × 3.5 cm; 1', cymule; 1", hairs of calyx, 0.3-0.8 mm; 2, flower ♂, 2, disc; 3, flower ♀; 3', its cup; 3', interior of disc; 4, section of ovary; 5, 5', 5', petal; 2.4 mm, inner, outer, and lateral faces; 6, fruit, diameter 3.5 mm; 6', valve; 7, 7', seed 12 mm and embryo. — Eriocelum petiolare Radlk. (8, Zender 3704; 9-11", Le Testu 1727; 12-13', Le Testu 9565; 14, 14', Zenker 3704) : 8, leaf; 9, female inflorescence, 15 cm; 9, cymule; 9', piloseness of calyx, 0.1 mm; 10, flower ♀; 11, 11', petal 3 mm, inner, outer and lateral faces; 12, flower ♂; 12', disc; 13, 13', petal 2 mm, inner and outer faces; 14, fruit, diameter 3.5 mm; 14', valve.
 
-PL. 42. — Eriocelum paniculatum Bak. (1-2', Klaine 315; 3-7', Klaine 30; 7, 7' d'après Delpy) : 1, rameau, foliole 12 × 3,5 cm; 1', cymule; 1", poils du calice, 0,3-0,8 mm; 2, fleur 5', 2, disque; 3, fleur ♀; 3', sa coupe; 3', intérieur du disque; 4, coupe de l'ovaire; 5, 5', 5', pétale; 2,4 mm, faces interne, externe, et profil; 6, fruit, diamètre 3,5 mm; 6', valve; 7, 7', graine 12 mm et embryon. — Eriocelum petiolare Radlk. (8, Zender 3704; 9-11", Le Testu 1727; 12-13', Le Testu 9565; 14, 14', Zenker 3704) : 8, feuille; 9, inflorescence ♀, 15 cm; 9, cymule; 9', pilosité du calice, 0,1 mm; 10, fleur ♀; 11, 11', pétale 3 mm, faces interne, externe et profil; 12, fleur ♂; 12', disque; 13, 13', pétale 2 mm, faces interne et externe; 14, fruit, diamètre 3,5 mm; 14', valve.
-
-Espèce croissant également au Gabon, en République Centrafricaine, au Nigeria et en Côte d'Ivoire.
+Species also occurring in Gabon, in the Central African Republic, in Nigeria and in Côte d'Ivoire.
 
 ## Vernacular names
 

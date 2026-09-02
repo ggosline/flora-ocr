@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Rather slender liane reaching several metres in length. Internodes reddish-brown 2–7 (15) cm, with fine appressed pubescence. Stipules triangular, very acute, about 5 mm long, pubescent. Petiole 5–10 mm, pubescent. Blade reddish-brown when dry 4–11 × 2–4 cm, glabrous only above; base acute sometimes subobtuse; acumen 5–8 mm. Midvein pubescent above in young leaves. 4–6 pairs of secondary nerves.
 
-Liane plutôt grêle atteignant plusieurs mètres de long. Entrenœuds roux de 2-7 (15) cm, à fine pubescence apprimée. Stipules triangulaires très aiguës, longues d'env. 5 mm, pubescentes. Pétiole de 5-10 mm, pubescent. Limbe roux-brunâtre à sec de 4-11 × 2-4 cm, glabre seulement dessus; base aiguë parfois
+Terminal inflorescences long and narrow reaching 20 × 2.5 cm, in panicles of cymes with pubescent axes. 20–50 pluriflorous cymes not regularly opposite, ± oriented for the most part on the same side of the rachis and inserted in the axil of a linear bract 3–8 mm long. Flowers sessile white or pale green, 7–8 mm long with dense and fine external pubescence distributed without interruption. Calyx with teeth 0.2–0.5 mm. Internal pilosities of the corolla distributed in vertical bands between the stamens. Anthers sessile 2.5–3 mm. Tubular disc higher than the calyx teeth, somewhat lobed at the upper margin.
 
-subobtuse; acumen de 5-8 mm. Nervure médiane pubescente dessus dans les jeunes feuilles. 4-6 paires de nervures secondaires.
-
-Inflorescences terminales longues et étroites atteignant  $ 20 \times 2.5 $ cm, en grappes de cymes à axes pubescents. 20-50 cymes pluriflores non régulièrement opposées, ± orientées pour le plus grand nombre d'un même côté du rachis et insérées à l'aiselle d'une bractée linéaire de 3-8 mm de long. Fleurs sessiles blanches ou vert-pâle, de 7-8 mm de long à dense et fine pubescence externe répartie sans interruption. Calice à dents de 0,2-0,5 mm. Pilosité interne de la corolle distribuée en bandes verticales entre les étamines. Anthères sessiles de 2,5-3 mm. Disque tubuleux plus haut que les dents du calice, un peu lobé au bord supérieur.
-
-Fruits bleu foncé, globuleux, un peu pubescent, orné à sec de côtes méridiennes.
+Fruits dark blue, globose, somewhat pubescent, ornamented when dry with meridional ribs.
 
 ## Type
 
@@ -33,15 +29,13 @@ Afzelius, de Sierra-Leone (BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Secondary forests and roadsides from western Guinea to Cameroon and Gabon.
 
-Forêts secondaires et bords de routes de la Guinée occidentale jusqu'au Cameroun et au Gabon.
+N. Hallé et J.-F. Villiers 4900, Médouneu (fr. v. Feb.).
 
-N. Hallé et J.-F. Villiers 4900, Médouneu (fr. v. fév.).
+R. P. Klaine 901, 1384, 1541, 2546, 2841, env. of Libreville (fr. Apr.–May; fl. Dec.).
 
-R. P. Klaine 901, 1384, 1541, 2546, 2841, env. de Libreville (fr. avr.-mai; fl. déc.).
-
-H. Soyaux 75, Sibang (fr. mai).
+H. Soyaux 75, Sibang (fr. May).
 
 ## Figures
 

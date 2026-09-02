@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, Rabi-Koungasonta (fl.) Breteler & al. 9640 (holo-WAG; iso-BM, BR, K, LBV, M, MO, P).
 
-TYPE : Gabon, Rabi-Koungasonta (fl.) Breteler & al. 9640 (holo-WAG ; iso-BM, BR, K, LBV, M, MO, P).
+Large liana, diameter ≤ 15 cm. Young branches and other young parts covered with a short yellowish-green indumentum.
 
-Grande liane, diamètre ≤ 15 cm. Jeunes rameaux et autres parties jeunes couverts d’un court indument vert-jaune.
+Leaves opposite; petiole ≤ 6 mm; blade elliptic to obovate ≤ 17 × ≤ 6 cm, velvety on both sides of the larger veins, glabrous elsewhere; major lateral veins 4–7 pairs, domatia scarcely visible; base of blade attenuate to subcordate; apex acuminate; young leaves brownish (Pl. 2, A₁–A₂, p. 15).
 
-Feuilles opposées ; pétiole ≤ 6 mm ; limbe elliptique à obové de ≤ 17 × ≤ 6 cm, velouté sur les deux faces des plus grosses nervures, partout ailleurs glabre ; grandes nervures latérales 4-7 paires, domaties peu visibles ; base du limbe atténuée à subcordée ; sommet acuminé ; jeunes feuilles brunâtres (Pl. 2, A₁- A₂, p. 15).
+Scales subcircular, diameter 110 µm (Pl. 2, A3, p. 15).
 
-Écailles subcirculaires, diamètre 110 µm (Pl. 2, A3, p. 15).
+Inflorescences in axillary or terminal spikes ≤ 7 cm; bracts scarcely visible.
 
-Inflorescences en épis axillaires ou terminaux ≤ 7 cm ; bractées peu visibles.
+Flowers 4-merous, sessile, fragrant. Receptacle 5–6 mm tall, the inferior 1.5 mm; the superior campanulate-infundibuliform, 1.5 mm wide. Calyx: lobes deltoid. Petals obovate, 1 mm long and wide, glabrous, white. Stamens exsert 2.5 mm; filaments white; anthers yellow 0.3 mm long. Style exsert 1 mm (Pl. 11, A, p. 41 & Pl. 23, 6, p. 83).
 
-Fleurs 4-mères, sessiles, odorantes. Réceptacle haut de 5-6 mm, l'inférieur 1,5 mm ; le supérieur campanulé-infundibiliforme, large de 1,5 mm. Calice : lobes deltoïdes. Pétales obovés, longs et larges de 1 mm, glabres, blancs. Étamines exsertes de 2,5 mm ; filets blancs ; anthères jaunes longues de 0,3 mm. Style exsert de 1 mm (Pl. 11, A, p. 41 & Pl. 23, 6, p. 83).
-
-Fruit, profil subcirculaire, diamètre 2 cm, verdâtre mais recouvert d'écailles bien visibles rouge-brun ; ailes papyracées ; base souvent ± cordée ; sommet émarginé ; stipe 5 mm.
+Fruit, outline subcircular, diameter 2 cm, greenish but covered with conspicuous red-brown scales; wings papyraceous; base often ± cordate; apex emarginate; stipe 5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique présumée d'une aire située entre les rivières Rabi, Kounga et Ofoubou (S.O. du Gabon)
+presumed endemic to an area situated between the Rabi, Kounga and Ofoubou rivers (S.W. Gabon)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, localement très commun
+Dense humid forests, locally very common
 
 ## Specimens examined
 

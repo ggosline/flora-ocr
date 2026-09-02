@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou pérenne, dressée, jusqu’à 3 m de hauteur, toutes les parties pubescentes à poils veloutés-visqueux ; tiges dressées, ligneuses vers la base, faiblement ramifiées. Feuille : pétiole 0–5 cm, ailé, souvent à 2 auricules foliacées à la base ; limbe obovale à elliptique, 8–50 × 2,8–21 cm, décurrent à la base, aigu à acuminé au sommet, concolore. Inflorescence en panicule très ramifiée, jusqu’à 25 cm de longueur, avec 10 à 50 fleurs ; bractées linéaires à ligulées . Fleur : pédicelle dressé , 0,5–2 cm ; calice tubuleux à étroitement campanulé, 1–2,2 cm de longueur, à lobes inégaux, triangulaires à étroitement triangulaires, 0,5–1 cm de lon gueur, aigus à acuminés au sommet ; corolle infundibuliforme étroite, blanche ou rose blanchâtre , 1–2 cm de diamètre au sommet, à tube verdâtre, 1,5–4 mm de largeur à la base, dilaté jusqu’à 9 mm de largeur sous les lobes, à lobes étalés, largement triangulaires, 2,3–10 mm de longueur, acuminés au sommet ; étamines inégales, à 4 filets libres sur 2,4–4,2 cm et sur 2–3,5 cm pour la 5 ème , anthère 2–3(–4) mm de longueur ; disque crénelé ; ovaire elliptique à conique, brun foncé, glabre ; style 3–3,8 cm, glabre. Fruit ellipsoïde à ovoïde, 1,3–2,2 × 0,8–1,5 cm, lisse, glabre, brun, ± complètement couvert par le calice accrescent . Graine ellipsoïde à sphérique, discoïde ou anguleuse, 0,3–0,8(–1) × 0,2–0,5(–0,7) mm.
+Annual or perennial herb, erect, up to 3 m tall, all parts pubescent with velvety-viscous hairs; stems erect, woody towards the base, weakly branched. Leaf: petiole 0–5 cm, winged, often with 2 foliaceous auricles at the base; blade obovate to elliptic, 8–50 × 2.8–21 cm, decurrent at the base, acute to acuminate at the apex, concolorous. Inflorescence in a highly branched panicle, up to 25 cm long, with 10 to 50 flowers; bracts linear to ligulate. Flower: pedicel erect, 0.5–2 cm; calyx tubular to narrowly campanulate, 1–2.2 cm long, with unequal, triangular to narrowly triangular lobes, 0.5–1 cm long, acute to acuminate at the apex; corolla narrowly infundibuliform, white or whitish-pink, 1–2 cm in diameter at the apex, with greenish tube, 1.5–4 mm wide at the base, dilated to 9 mm wide below the lobes, with spreading, broadly triangular lobes, 2.3–10 mm long, acuminate at the apex; stamens unequal, with 4 free filaments on 2.4–4.2 cm and 2–3.5 cm for the 5th, anther 2–3(–4) mm long; disc crenate; ovary elliptic to conical, dark brown, glabrous; style 3–3.8 cm, glabrous. Fruit ellipsoid to ovoid, 1.3–2.2 × 0.8–1.5 cm, smooth, glabrous, brown, ± completely covered by the accrescent calyx. Seed ellipsoid to spherical, discoid or angular, 0.3–0.8(–1) × 0.2–0.5(–0.7) mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+probably native to north-western Argentina, now naturalized in all tropical, subtropical and certain temperate zones of the globe. Cultivated throughout Africa; only three collections for Gabon from the Estuaire, Ngounié and Ogooué-Maritime
 
-probablement originaire du nord-ouest de l’Argentine, maintenant naturalisé dans l’en semble des zones tropicales, subtropicales et dans certaines zones tempérées du globe. Cultivé dans toute l’Afrique ; seulement trois récoltes pour le Gabon qui proviennent de l’Estuaire, de la Ngounié et de l’Ogooué-Maritime
-
-Botanic Gardens, Kew, reproduit avec permission à partir de Edmonds (2012).
+Botanic Gardens, Kew, reproduced with permission from Edmonds (2012).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-cultivé, souvent échappé et naturalisé localement le long des cours d’eau, des forêts, des routes, dans les zones secondarisées et les champs abandonnés ; au Gabon à basse altitude, ailleurs en Afrique à 0–2600 m d’altitude. Usage : Dans le monde entier N. tabacum sert à la fabrication du tabac, mais l’espèce est aussi couram ment utilisée comme coupe-faim et comme excitant. La fumée et le jus des feuilles servent à traiter les filarioses ; les feuilles sont utilisées pour cautériser les plaies, désinfecter les ulcères, soulager les maux de ventre ou lutter contre les caries
+cultivated, often escaped and locally naturalized along watercourses, forests, roads, in secondary areas and abandoned fields; in Gabon at low altitude, elsewhere in Africa at 0–2600 m altitude. Use: Throughout the world N. tabacum is used for tobacco manufacture, but the species is also commonly used as an appetite suppressant and as a stimulant. The smoke and juice of the leaves are used to treat filariasis; the leaves are used to cauterize wounds, disinfect ulcers, relieve stomach aches or combat tooth decay
 
 ## Vernacular names
 
@@ -41,9 +35,7 @@ herbe à Nicot, tabac (fr.) ; tobacco (angl.) ; akaya (atégé, batéké) ; dita
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le tabac cultivé est issu d’un croisement naturel entre N. sylvestris Speg. et N. tomentosiformis Goodsp. Il s’agit d’une espèce hautement polymorphe et un grand nombre de cultivars sont utilisés dans la fabrication du tabac. B : Bikandu et al. (2020), Edmonds (2012), Heine (1963), Raponda-Walker & Sillans (1961), i B liographie Ren & Timko (2001)
+Cultivated tobacco is derived from a natural cross between N. sylvestris Speg. and N. tomentosiformis Goodsp. It is a highly polymorphic species and a large number of cultivars are used in tobacco manufacture. B: Bikandu et al. (2020), Edmonds (2012), Heine (1963), Raponda-Walker & Sillans (1961), Bibliography Ren & Timko (2001)
 
 ## Notes
 

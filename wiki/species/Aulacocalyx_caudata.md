@@ -26,13 +26,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2–4 m tall, erect, ± branched. Internodes with ochraceous pubescence, slender, approximately 5–8 cm long. Stipules 4–6 mm, triangular with subulate apex, pubescent. Petiole pubescent, 2–3 mm long. Blade olivaceous, entirely glabrous except for the nerves, or more rarely with very scattered hairs on the lower surface, 7–16 × 2.5–7 cm. Base of blade often asymmetrical, narrowly obtuse to cordate; apex with a rostrate to subcaudate acumen. Midvein pubescent, in a narrow line on the upper surface; secondary nerves 9–14 pairs, somewhat pubescent below as well as the midvein; intersecondary nerves numerous and subtransverse. Domatia very small in axillary tufts.
 
-Arbuste de 2-4 m de hauteur, dressé, 士 rameux. Entrencéds à pubescence ochracée grêles, d'env. 5-8 cm de longueur. Stipules de 4-6 mm, triangulaires à sommet subulé, pubescentes. Pétiole pubescent long de 2-3 mm. Limbe olivâtre, entièrement glabre à l'exception des nervures, ou plus rarement avec des poils très épars à la face inférieure, de 7-16 × 2,5-7 cm. Base du limbe souvent dissymétrique, étroitement obtuse à cordée; sommet avec un acumen rostré à subcaudé. Nervure médiane pubescente, en ligne étroite à la face supérieure; nervures secondaires 9-14 paires, un peu pubescentes dessous ainsi que la médiane; nervures intersecondaires nombreuses et subtransverses. Domaties très petites en touffes axillaires.
+Inflorescences uniflorous, rarely with 2–3 flowers, sometimes appearing axillary; flowers subsessile; calyx green, finely pubescent, tubular for 3–5 mm, with 5 attenuate acute lobes, erect, 2–5 mm long. Corolla rotate, white with fine distinct pubescence when dry, with tube 30–55 × 2–3 mm, with 5 elliptic lobes 20–32 × 7–11 mm, acute or not, spreading. Anthers narrowly sagittate acuminate, 10 × 1 mm, glabrous, sessile, medifixed, included or with apex apparent at the throat. Style approximately 3 cm, with 2 narrow lobes, adherent except quite at the apex. Ovary bilocular weakly pentagonal in cross-section.
 
-Inflorescences uniflores, rarement à 2-3 fleurs, paraissant parfois axillaires; fleurs subsessiles; calice vert finement pubescent, tubuleux sur 3-5 mm, à 5 lobes atténués aigus, dressés, de 2-5 mm de longueur. Corolle rotacée blanche à fine pubescence distincte à sec, à tube de 30-55 × 2-3 mm, à 5 lobes elliptiques de 20-32 × 7-11 mm, aigus ou non, étalés. Anthères étroitement sagittées acuminées de 10 × 1 mm, glabres, sessiles, médifixes, incluses ou à sommet apparent à la gorge. Style d'env. 3 cm à 2 lobes étroits, adhérents sauf tout à fait au sommet. Ovaire biloculaire faiblement pentagonal en coupe.
-
-Fruit subsessile vert de 12-16 mm de diamètre, obpiriforme, à sommet atténué prolongé par le calice persistant, orné ± grossièrement de 5 côtes, finement pubescent, contenant (1) 2-4 graines. Graines volumineuses subglobuleuses atteignant 10 mm; embryon droit, petit de 6 × 1,8 mm, à radicule tournée vers le sommet du fruit; albumen abondant.
+Fruit subsessile, green, 12–16 mm in diameter, obpyriform, with apex attenuate prolonged by the persistent calyx, ornamented ± coarsely with 5 ribs, finely pubescent, containing (1) 2–4 seeds. Seeds large, subglobose, reaching 10 mm; embryo straight, small, 6 × 1.8 mm, with radicle directed toward the apex of the fruit; albumen abundant.
 
 ## Type
 
@@ -40,9 +38,7 @@ Mann 1699, 1 $ ^{st} $ lat. N, Sierra del Crystal (K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Rio Muni, Gabon. Noms vulgaires : faux-Adzem, faux-Café.
+Nigeria, Cameroon, Rio Muni, Gabon. Vernacular names: false-Adzem, false-Coffee.
 
 ## Specimens examined
 

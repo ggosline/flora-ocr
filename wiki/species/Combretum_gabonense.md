@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, Mimvoul (fl.) Le Testu 9448 (holo-P; iso-B, BM, BR, MO).
 
-TYPE : Gabon, Mimvoul (fl.) Le Testu 9448 (holo-P ; iso-B, BM, BR, MO).
+Large liana. Young branchlets velutinous.
 
-Grande Liane. Jeunes rameaux veloutés.
+Leaves opposite or 3-whorled; petiole ≤ 8 mm; blade elliptic-obovate to oblong-elliptic, ≤ 16 × ≤ 8.5 cm, undersurface of blade and upper surface of nerves pubescent; large lateral nerves 9–15 pairs reaching almost to the margin, depressed above; tertiary nerves parallel; base of blade rounded to subcordate; apex shortly acuminate.
 
-Feuilles opposées ou 3-verticillées ; pétiole ≤ 8 mm ; limbe elliptique-obové à oblong-elliptique, ≤ 16 × ≤ 8,5 cm, dessous du limbe et dessus des nervures pubescents ; grandes nervures latérales 9-15 paires atteignant presque la marge, déprimées dessus ; nervures III parallèles ; base du limbe arrondie à subcordée ; sommet courtement acuminé.
+Scales present but rare.
 
-Écailles présentes mais rares.
+Inflorescences: panicles ≤ 25 cm, axillary or terminal; bracts barely visible.
 
-Inflorescences : panicules ≤ 25 cm, axillaires ou terminales ; bractées à peine visibles.
+Flowers 4-merous, sessile. Lower receptacle < 1 mm high, pubescent; upper receptacle, pateliform, 3 mm wide and 1.5 mm high, outer surface pubescent. Calyx: lobes triangular. Petals obovate, 1–1.5 × 0.5–1 mm, glabrous. Stamens 2 mm long and anthers 0.3 mm. Disc, diameter 2 mm, margin pubescent. Style 0.5–1 mm.
 
-Fleurs 4-mères, sessiles. Réceptacle inférieur haut de < 1 mm, pubescent, le supérieur, patelliforme, large de 3 mm, et haut de 1,5 mm, face externe pubescente. Calice : lobes triangulaires. Pétales obovés, 1-1,5 × 0,5-1 mm, glabres. Étamines longues de 2 mm et anthères, 0,3 mm. Disque, diamètre 2 mm, bord pubescent. Style 0,5-1 mm.
-
-Fruit inconnu.
+Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-récolté uniquement au Gabon
+collected only in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêt dense humide
+Dense humid forest
 
 ## Specimens examined
 

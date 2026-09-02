@@ -23,21 +23,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Robust lianoid plant, with thick herbaceous branches. Stems cylindrical or more or less compressed, reaching 8-12 mm in diam., glabrous or sparsely pubescent; internodes 15-25 cm long. Tendrils cylindrical, glabrous, bifurcate; bracts oval-oblong, 2-3 mm long, glabrous. Stipules deltoid-elongate, obtuse to subacute, 3-5 mm long, often bearing at the base important lateral expansions giving a total width of 5-10 mm, glabrous, with ciliolate margins. Leaves simple, generally lobed, sometimes entire. Petiole cylindrical, deeply furrowed and canaliculate, 5-20 cm long, glabrescent or glabrous. Blade with general outline suborbicular to oval-cordate, sometimes entire or scarcely lobed, generally more or less deeply 3-5 lobed, with base truncate or more often distinctly cordate, 10-25 cm long and broad; margin bearing thick teeth, obtuse to acute, situated at the apex of deltoid indentations more or less pronounced; blade glabrous on both sides in the adult state, main veins more or less densely pubescent on both faces; venation palmati-pinnate, with 5 basal veins; vein network plane; texture rather thin.
 
-Plante lianoïde forte, à rameaux épais herbacés. Tiges cylindriques ou plus ou moins comprimées, atteignant 8-12 mm de diam., glabres ou éparsément pubescentes; entrenœuds de 15-25 cm de long. Vrilles cylindriques, glabres, bifurquées; bractées ovales oblongues, de 2-3 mm de long, glabres. Stipules deltoïdes allongées, obtuses à subaiguës, de 3-5 mm de long, souvent pourvues à la base d'importantes expansions latérales donnant une largeur totale de 5-10 mm, glabres, à marges ciliolées. Feuilles simples, généralement lobées, parfois entières. Pétiole cylindrique, profondément sillonné et canaliculé, de 5-20 cm de long, glabrescent ou glabre. Limbe à contour général suborbiculaire à ovale cordiforme, parfois entier ou à peine lobé, généralement plus ou moins profondément 3-5 lobé, à base tronquée ou plus souvent nettement cordée, de 10-25 cm de long et de large; marge présentant des dents épaisses, otuses à aiguës, situées à l'extrémité d'indenations deltoïdes plus ou moins marquées; limbe glabre des deux côtés à l'état adulte, nervures principales plus ou moins densément pubescentes sur les deux faces; nervation palmati-pennée, à 5 nervures basales; réseau des nervures plan; texture assez mince.
+Inflorescences paniculate, 15-30 cm long. Peduncle more or less cylindrical, 7-12 cm long, glabrous or sparsely pubescent. Panicle 10-20 cm long; axes densely pubescent; bracts and bracteoles deltoid, 1-2.5 mm long, glabrous. Tendril cylindrical, glabrous. Flowers 2-3 mm long. Pedicel cylindrical, approximately 1 mm long, generally rather densely pubescent. Calyx cupuliform, 0.7-1 mm in height with entire or irregularly and weakly lobed margin, glabrous. Corolla oval-subcylindric, rounded above, glabrous; petals oblong-obtuse, 2-2.5 mm long. Stamen approximately 1.5 mm long, anther oblong. Ovary glabrous.
 
-Inflorescences paniculées, de 15-30 cm de long. Pédoncule plus ou moins cylindrique, de 7-12 cm de long, glabre ou éparsément pubescent. Panicule de 10-20 cm de long; axes densément pubescents; bractées et bractéoles deltoïdes, de 1-2,5 mm de long, glabres. Vrille cylindrique, glabre. Fleurs de 2-3 mm de long. Pédicelle cylindrique, d'environ 1 mm de long, en général assez densément pubescent. Calice cupuliforme, de 0,7-1 mm de ha
+Berries oblong, oliviform, 10-15 mm long and 8-10 mm broad, glabrous. Seeds flat, 9-11 mm long and 6-7 mm broad, elliptic-oval; rostrum scarcely marked; dorsal groove weakly marked, with a slight median enlargement; ventral crest very narrow; testa with finely and irregularly tuberculate surface.
 
-teur à bord entier ou irrégulièrement et faiblement lobé, glabre. Corolle ovale subcylindrique, arrondie sur le dessus, glabre; pétales oblongs obtus, de 2-2,5 mm de long. Étamine d'environ 1,5 mm de long, anthère oblongue. Ovaire glabre.
+Type from Gabon: Mann, Gaboon river (K).
 
-Baies oblongues, oliviformes, de 10-15 mm de long et 8-10 mm de large, glabres. Graines plates, de 9-11 mm de long et 6-7 mm de large, elliptiques ovales; rostre à peine marqué; sillon dorsal peu marqué, avec un léger élargissement médian; crête ventrale très étroite; test à surface finement et irrégulièrement bosselée.
+Robust liane of forest formations, forest galleries, margins and forest regrowth. The range of this species covers central Africa, from the Gulf of Guinea to East Africa.
 
-Type du Gabon : Mann, Gaboon river (K).
-
-Forte liane des formations forestières, galeries, lisières et recrus forestiers. L'aire d'extension de cette espèce couvre l'Afrique centrale, du Golfe de Guinée à l'Afrique orientale.
-
-Noms vernaculaires , d'après A. Walker (in shed.) : Imeno-Itani, Ntchomé (Mpongwé de Libreville), Essang-enyoume (Fang de l'Estuaire), Byalemyogou (Eshira).
+Vernacular names, according to A. Walker (in shed.): Imeno-Itani, Ntchomé (Mpongwé of Libreville), Essang-enyoume (Fang of the Estuary), Byalemyogou (Eshira).
 
 ## Specimens examined
 

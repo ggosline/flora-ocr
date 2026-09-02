@@ -16,21 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGLER, Bot. Jahrb. 17 : 579 (1893). — FTA 4 (1) : 541. — BRUCE, l. c. : 51. — FTEA, Loganiaceæ : 11. — LEEUWENBERG, l. c. : 24, fig. 12, carte 8. — FWTA ed. 2, 2 : 37.
 
 — A. magnifica GILG, l. c. : 581. — FTA 4 (1) : 541.
 
 — A. kamerunensis GILG in ENGLER, Bot. Jahrb. 28 : 125 (1899). — FTA 4 (1) : 538.
 
-Arbre de 3-30 m de hauteur; tronc de 8-70 cm de diamètre, parfois à racines-échasses; petits rameaux inermes ou rarement avec, surtout chez les jeunes plantes, des épines jumelées, courtes, partiellement soudués, souvent avec de petites protubérances largement coniques.
+Tree 3-30 m high; trunk 8-70 cm in diameter, sometimes with stilt roots; small branchlets unarmed or rarely with, especially on young plants, paired spines that are short, partially fused, often with small broadly conical protuberances.
 
-Feuilles généralement pétiolées, mais souvent sessiles chez les jeunes plantes ou sur les rameaux de bas niveau; limbe papyracé ou coriace, étroitement ou très étroitement obové, de 7-45 × 3,5-18 cm; chez les jeunes plantes limbe généralement plus étroit et atteignant jusqu'à 120 × 40 cm, cuné à la base; marge souvent réfléchie.
+Leaves generally petiolate, but often sessile on young plants or on lower-level branchlets; blade papyraceous or coriaceous, narrowly or very narrowly obovate, 7-45 × 3.5-18 cm; on young plants blade generally narrower and reaching up to 120 × 40 cm, cuneate at the base; margin often reflexed.
 
-Sépales orbiculaires ou suborbiculaires, arrondis, généralement lisses à l'état sec, surtout les extérieurs, à la floraison habituellement dressés contre la base de la corolle, à la fructification souvent étalés, les extérieurs de 8-13 × 9-13 mm, les intérieurs généralement un peu plus grands, devenant rétus lors du développement de la corolle. Corolle dans le bouton mûr 5,5-7 fois plus longue que le calice, de 55-60 mm de longueur, atténuée au sommet comme dans le jeune bouton, blanche ou crème; tube plus foncé que les lobes, souvent blanc verdâtre, ± 3-4 fois plus long que le calice, ± 1-1,5 fois plus long que les lobes; 10-11 lobes étroitement oblongs, recourbés.
+Sepals orbicular or suborbicular, rounded, generally smooth when dry, especially the outer ones, at flowering usually erect against the base of the corolla, at fruiting often spreading, the outer ones 8-13 × 9-13 mm, the inner ones generally somewhat larger, becoming retuse during the development of the corolla. Corolla in the mature bud 5.5-7 times longer than the calyx, 55-60 mm long, attenuate at the apex as in the young bud, white or cream; tube darker than the lobes, often whitish-green, ± 3-4 times longer than the calyx, ± 1-1.5 times longer than the lobes; 10-11 lobes narrowly oblong, recurved.
 
-Baies globuleuses ou ellipsoïdes, de  $ 2,5-7 \times 2-4,5 $ cm, arrondies ou apiculées au sommet, jamais ridées à l'état sec, à paroi épaisse. Pl. 6, p. 21.
+Berries globose or ellipsoid, 2.5-7 × 2-4.5 cm, rounded or apiculate at the apex, never wrinkled when dry, with thick wall. Pl. 6, p. 21.
 
 ## Type
 
@@ -38,53 +36,51 @@ Schweinfurth 3726, Brwole, Niamniam, Territoire de Niangara, Province Orientale,
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Central and East Africa. Common species of savanna bush and thickets. Altitude 0-1,800 m.
 
-Nigeria, Afrique centrale et orientale. Espèce commune de la brousse et des bosquets en savane. Altitude 0-1 800 m.
+Bos 5622, 16 km SE Kribi (fl., Nov.) WAG; 5686, 11 km N Kribi (fl., imm. fr., Nov.) P, WAG, YA; 5745, E Kribi (fl., Dec.) WAG.
 
-Bos 5622, 16 km SE Kribi (fl., nov.) WAG; 5686, 11 km N Kribi (fl., fr. non mûrs, nov.) P, WAG, YA; 5745, E Kribi (fl., déc.) WAG.
+Breteler 546, 8 km S Ngaoundéré (fr., Oct.) P, S, WAG; 547, eod. loc. (ster.) P, WAG; 628, Bertoua (ster.) P, WAG; 813, Bertoua, 5 km on road to Batouri (fr., Dec.) P, WAG; 1240, 30 km E Nanga Eboko, on road to Bertoua (fl., fr., Apr.) P, S, WAG; 1803, Bertoua, 6 km on road to Batouri (fl., Aug.) P, S, WAG.
 
-Breteler 546, 8 km S Ngaoundéré (fr., oct.) P, S, WAG; 547, eod. loc. (stér.) P, WAG; 628, Bertoua (stér.) P, WAG; 813, Bertoua, 5 km sur route de Batouri (fr., déc.) P, WAG; 1240, 30 km E Nanga Eboko, sur route de Bertoua (fl., fr., avr.) P, S, WAG; 1803, Bertoua, 6 km sur route de Batouri (fl., août) P, S, WAG.
+Breteler, De Wilde J. & Leeuwenberg 2446, 20 km NE Bertoua, on road to Bétaré Oya (imm. fr., Jan.) P, WAG.
 
-Breteler, De Wilde J. & Leeuwenberg 2446, 20 km NE Bertoua, sur route de Bétaré Oya (fr. non mûrs, janv.) P, WAG.
+Büßen 15, Johann-Albrechtshöhe (present-day Kumba) (ster.) B.
 
-Büßen 15, Johann-Albrechtshöhe (actuel Kumba) (stér.) B.
+De Wilde W. 2489 a, Bangou, 10 km W Bangwa (buds, May) WAG; 2489 b, eod. loc. (imm. fr., May) WAG, YA; 2587 a, between Bangwa and Banganté (fl., May) WAG, YA; 2587 b, eod. loc. (imm. fr., May) WAG, YA; 4307, bank of Tello, 47 km E Ngaoundéré (imm. fr., Nov.) WAG.
 
-De Wilde W. 2489 a, Bangou, 10 km W Bangwa (boutons, mai) WAG; 2489 b, eod. loc. (fr. non mûrs, mai) WAG, YA; 2587 a, entre Bangwa et Banganté (fl., mai) WAG, YA; 2587 b, eod. loc. (fr. non mûrs, mai) WAG, YA; 4307, rive du Tello, 47 km E Ngaoundéré (fr. non mûrs, nov.) WAG.
-
-Dinklage 1361, Grand Batanga, B (non vu, détruit, holotype de A. kamerunensis).
+Dinklage 1361, Grand Batanga, B (not seen, destroyed, holotype of A. kamerunensis).
 
 Endengle Elias SRF. Cam. 2095, Douala (fl.) P, YA.
 
-Fleury in herb. Chevalier 33292, environs Douala (fr. non mûrs, juin) P, WAG.
+Fleury in herb. Chevalier 33292, environs of Douala (imm. fr., June) P, WAG.
 
-Hédin 503 bis, Yokadouma (stér.); 1533, km 54 chemin de fer du Centre (fl., août) P, WAG.
+Hédin 503 bis, Yokadouma (ster.); 1533, km 54 Central railway (fl., Aug.) P, WAG.
 
-Jacques-Félix 2931, Bazou près Bangangté (fr., janv.).
+Jacques-Félix 2931, Bazou near Bangangté (fr., Jan.).
 
 Leeuwenberg 5175, 3 km E E<|LOC_930|>
 
-Yokadouma sur route de Moloundou (fl., juill.) P, WAG, YA.
+Yokadouma on road to Moloundou (fl., July) P, WAG, YA.
 
-Letouzey SRF. Cam. 1233, 3 km E EӀэka (stér.) YA.
+Letouzey SRF. Cam. 1233, 3 km E EӀэka (ster.) YA.
 
-Mbarga 77 (= SRF. Cam. 2281), piste de Ngongos, subdivision d'Eséka (fl., sept.) YA.
+Mbarga 77 (= SRF. Cam. 2281), track to Ngongos, subdivision of Eséka (fl., Sept.) YA.
 
-Mildbraed 7591, entre Bipindi et Ebolowa (fl.) K.
+Mildbraed 7591, between Bipindi and Ebolowa (fl.) K.
 
-Winkler 737, Douala (fr. non mûrs, nov.) Z.
+Winkler 737, Douala (imm. fr., Nov.) Z.
 
-Breteler 6329, km 50 route Moanda-Mbinda (fl., fr., sept.) WAG.
+Breteler 6329, km 50 road Moanda-Mbinda (fl., fr., Sept.) WAG.
 
-Hallé N. 2016, 10 km SW Ndjolé (stér.); 3503, Bélinga (stér.).
+Hallé N. 2016, 10 km SW Ndjolé (ster.); 3503, Bélinga (ster.).
 
-Le Testu 7737, près Lastoursville (fl., déc.).
+Le Testu 7737, near Lastoursville (fl., Dec.).
 
-Sitha 502, près Mounana (fl., déc.) P, WAG.
+Sitha 502, near Mounana (fl., Dec.) P, WAG.
 
-Soyaux 49, Sibange (fl., déc.), B (non vu, détruit, holotype de A. magnifica; lectotype :
+Soyaux 49, Sibange (fl., Dec.), B (not seen, destroyed, holotype of A. magnifica; lectotype:
 
-K, isotypes : BREM, GOET, P, Z).
+K, isotypes: BREM, GOET, P, Z).
 
 ## Figures
 

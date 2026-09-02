@@ -17,31 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbres ou arbrisseaux atteignant parfois 25 m de hauteur ; tronc parfois ramifié, à cicatrices foliaires bien marquées. Feuilles rassemblées vers le sommet de la tige ; pétiole (sur feuilles matures) long de 70–120 cm, creux, vert pâle ou taché de pourpre ; limbe ± circulaire, de 20–60(–70) cm de diamètre, profondément 7–9-palmitilobé, les segments 1 à 2 fois pennatilobés, vert sombre dessus, plus clair dessous. Inflorescences mâles en panicules, longues de 26–180 cm, à fleurs nombreuses et denses, les femelles en cymes raccourcies (ou parfois fleurs solitaires), atteignant 4–5 cm de longueur. Fleurs mâles sessiles ; calice cupuliforme, 1–1.5 mm de longueur, tube à 5 dents bien individualisées ; corolle hypocratériforme, charnue, blanche ou jaune, tube ± 25 mm de longueur, les lobes étalés et enroulés, ± 15 mm de longueur ; étamines du verticille externe à filet de ± 2 mm, laineux, à anthère en massue, ± 1,5 mm, celles du verticille interne subsessile, à anthère de ± 2,5 mm. Fleurs femelles courtement pédicellées ; calice cupuliforme, 2–4 mm de longueur, verdâtre, persistant, marge à dents courtes et aiguës ; corolle vert blanchâtre, de 5–7 x 3–4 cm, charnue, à tube court et lobes enroulés ; staminodes généralement absents ; ovaire ovoïde-oblong, ± 2,2 x 1,2 cm, vert pâle ; stigmates charnus, profondément divisés. Fleurs bisexuées parfois présentes (voir planche). Fruit oblong à subglobuleux, jusqu’à 16 x 10 cm, vert puis devenant jaune ou orange à maturité. Graines ovoïdes, ± 5 mm de longueur.
+Trees or shrubs sometimes reaching 25 m in height; trunk sometimes branched, with well-marked leaf scars. Leaves clustered towards the apex of the stem; petiole (on mature leaves) 70–120 cm long, hollow, pale green or stained with purple; blade ± circular, 20–60(–70) cm in diameter, deeply 7–9-palmatilobed, the segments 1 to 2 times pinnatilobed, dark green above, lighter below. Male inflorescences in panicles, 26–180 cm long, with numerous and dense flowers, female ones in shortened cymes (or sometimes solitary flowers), reaching 4–5 cm in length. Male flowers sessile; calyx cupuliform, 1–1.5 mm in length, tube with 5 well-individualized teeth; corolla hypocrateriform, fleshy, white or yellow, tube ± 25 mm in length, the lobes spreading and rolled, ± 15 mm in length; stamens of the outer whorl with filament ± 2 mm, woolly, with club-shaped anther, ± 1.5 mm, those of the inner whorl subsessile, with anther ± 2.5 mm. Female flowers shortly pedicellate; calyx cupuliform, 2–4 mm in length, greenish, persistent, margin with short and acute teeth; corolla greenish-white, 5–7 × 3–4 cm, fleshy, with short tube and rolled lobes; staminodes generally absent; ovary ovoid-oblong, ± 2.2 × 1.2 cm, pale green; stigmas fleshy, deeply divided. Bisexual flowers sometimes present (see plate). Fruit oblong to subglobose, up to 16 × 10 cm, green then becoming yellow or orange at maturity. Seeds ovoid, ± 5 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d’Amérique Centrale mais aujourd’hui cultivée dans toutes les régions tropicales ; au Gabon, plantée dans la plupart des villages, mais également considérée comme subspontanée à travers le pays
+native to Central America but today cultivated in all tropical regions; in Gabon, planted in most villages, but also considered subspontaneous throughout the country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La papaye est une espèce des forêts secondaires et clairières où elle est parfois dominante. Elle préfère des sols légers, profonds, bien drainés et avec une matière organique abondante, des précipitations annuelles de 1200 mm ou plus et ne poussant pas bien au-dessus de 1500 m d’altitude. Usage : La papaye est sans doute un des fruits les plus connus des Tropiques. Au Gabon, l’arbre est cultivé pour ses fruits comestibles depuis son introduction dans les jardins de
-
-case et les plantations vivrières. Le latex exerce sur la viande une remarquable action digestive (papaïne). Les feuilles, les fruits, le tronc et les racines sont utilisés dans la pharmacopée traditionnelle pour soigner de nombreuses affections (diarrhée, hémorroïdes, dysenterie, vers intestinaux, blennorragie). Notes taxonomiques : On rencontre à la fois des individus portant des fleurs hermaphrodites et mâles, ou même strictement hermaphrodites. Les feuilles des pieds mâles ont des lobes profondément divisés, plus squelettiques que celles des pieds femelles. Les pieds mâles fleurissent beaucoup plus tôt que les pieds femelles.
+The papaya is a species of secondary forests and clearings where it is sometimes dominant. It prefers light, deep, well-drained soils with abundant organic matter, annual precipitation of 1200 mm or more and does not grow well above 1500 m in altitude. Use: The papaya is undoubtedly one of the most well-known fruits of the Tropics. In Gabon, the tree has been cultivated for its edible fruits since its introduction into house gardens and food crop plantations. The latex exerts a remarkable digestive action on meat (papain). The leaves, fruits, trunk and roots are used in traditional pharmacopoeia to treat numerous afflictions (diarrhoea, haemorrhoids, dysentery, intestinal worms, gonorrhoea). Taxonomic notes: One encounters both individuals bearing hermaphrodite and male flowers, or even strictly hermaphrodite ones. The leaves of male trees have deeply divided lobes, more skeletal than those of female trees. Male trees flower much earlier than female trees.
 
 ## Vernacular names
 
 mellonenbaume (Allem.) ; papaya, pawpaw, tree melon (Angl.) ; papaye, papayer, arbre de melon (Fr.) ; papaya (Esp.) ; alola (Fang) ; elolo (Pové) ; ilolo (Benga) ; lolo (Apindji, Bandjabi) ; Mulolu (Punu) ; ololo (Mpongwè) ; oti a papayi (Mindumu). B : Adjanohoun et al. (1988), Bonnassieux (1988), Paulian de Felice (1967), i B liographie Raponda-Walker & Sillans (1961), Robineau (1991), Villegas (1991)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 3 7 9 3 95 9 9 9 5
 

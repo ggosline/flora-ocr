@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– Quisqualis indica LINNE, Sp. Pl., ed. 2: 556 (1762); ENGLER & DIELS, Mon. Afr., Pfl., 3: 5, fig. 3 (1900); EXELL, Journal of Botany 69: 124 (1931); KEAY, FWTA, ed. 2, 1(1): 275 (1954); EXELL & GARCIA, CFA: 86 (1970); LIBEN, FZ: 88 (1968); WICKENS, FTEA: 67 (1973); LIBEN, Fl. Cam. 25: 64 (1983). TYPE: Herb. LINN 553.1, fide EXELL (1931) syn. nov.
 
-– Quisqualis indica LINNE, Sp. Pl., ed. 2: 556 (1762); ENGLER & DIELS, Mon. Afr., Pfl., 3: 5, fig. 3 (1900); EXELL, Journal of Botany 69: 124 (1931); KEAY, FWTA, ed. 2, 1(1): 275 (1954); EXELL & GARCIA, CFA: 86 (1970); LIBEN, FZ: 88 (1968); WICKENS, FTEA: 67 (1973); LIBEN, Fl. Cam. 25: 64 (1983). TYPE: Herb. LINN 553,1, fide EXELL (1931) syn. nov.
+Liane ≤ 5 m. Branches with a scaly appearance.
 
-Liane ≤ 5 m. Branches d’aspect écailleux.
+Leaves opposite; petiole ≤ 10 mm; blade ovate to obovate, papyraceous ≤ 13 × ≤ 5.5 cm, major lateral veins 5–7 pairs with pubescent axillary domatia; base of blade attenuate to rounded; apex acuminate.
 
-Feuilles opposées ; pétiole ≤ 10 mm ; limbe ové à obové, papyracé ≤ 13 × ≤ 5,5 cm, grandes nervures latérales 5-7 paires à domaties axillaires pubescentes ; base du limbe atténuée à arrondie ; sommet acuminé.
+Scales absent.
 
-Écailles absentes.
+Inflorescences: racemes ≤ 16 cm, axillary or terminal; bracts foliaceous, green, ≤ 20 × ≤ 7 mm.
 
-Inflorescences : racèmes ≤ 16 cm, axillaires ou terminaux ; bractées folia-cées, vertes, ≤ 20 × ≤ 7 mm.
+Flowers 5-merous, nearly sessile. Receptacle lower portion 3–4 mm high; upper portion, elongate tubular, height ≤ 9 cm, width ≤ 8 mm, pubescent to subglabrous, yellowish-green. Calyx: lobes triangular and acuminate. Petals ≤ 25 × ≤ 10 mm, interior creamy white to pinkish, exterior lilac to purple-red, apex rounded or acute. Stamens not exserted; anthers yellowish, 0.9 mm long. Style not exsert, partly fused to upper receptacle.
 
-Fleurs 5-mères, presque sessiles. Réceptacle inférieur haut de 3-4 mm, le supérieur, longuement tubulaire, hauteur ≤ 9 cm, largeur ≤ 8 mm, pubescent à subglabre, jaune-vert. Calice : lobes triangulaires et acuminés. Pétales ≤ 25 × ≤ 10 mm, intérieur blanc crémeux à rosâtre, extérieur lilas à pourpre-rouge, sommet arrondi ou aigu. Étamines non exsertes ; anthères jaunâtres, longues de 0,9 mm. Style non exsert, en partie soudé au réceptacle supérieur.
+Fruit green to pale brown, elliptic in shape ≤ 40 × ≤ 15 mm, angular in transverse section, furnished with narrow corky wings, adapted for water dispersal; stipe ≤ 2 mm. – Pl. 13, p. 49.
 
-Fruit vert à brun pâle, de forme elliptique ≤ 40 × ≤ 15 mm, anguleux en coupe transversale, muni d'ailes étroites liégeuses, adapté à la dispersion par l'eau ; stipe ≤ 2 mm. – Pl. 13, p. 49.
-
-PL. 13. – Combretum indicum (L.) Jongkind : A, rameau florifère × 1/2 ; B, fruit, profil × 1 ; C, fruit, vue apicale (A, Dang 424 ; B, C, Dewèvre 177). – Dessins de M. ALLARD reproduits avec l'autorisation du Département des Spermatophytes et Ptéridophytes du Jardin Botanique National de MEISE (Belgique).
+PL. 13. – Combretum indicum (L.) Jongkind: A, flowering branchlet × 1/2; B, fruit, profile × 1; C, fruit, apical view (A, Dang 424; B, C, Dewèvre 177). – Drawings by M. ALLARD reproduced with permission from the Department of Spermatophytes and Pteridophytes of the National Botanic Garden of MEISE (Belgium).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropical, C. indicum n'est probablement pas d'origine africaine. Souvent échappée des cultures en divers endroits, cette espèce variable est largement répartie en Asie ; aussi est-il probable que les formes introduites dans diverses cultures en Afrique proviennent de plusieurs localités d'Asie
+pantropical, C. indicum is probably not of African origin. Often escaped from cultivation in various places, this variable species is widely distributed in Asia; therefore it is probable that the forms introduced into various cultivated areas in Africa come from several localities in Asia
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-toujours rencontré au voisinage de l'eau
+always found in the vicinity of water
 
 ## Specimens examined
 

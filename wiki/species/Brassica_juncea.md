@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , p.p. ; Schulz, Pflanzenr. 4, 105 (70) : 55 (1919); Robyns & Boutique, Fl. Congo 2 : 50 (1951); Exell, Fl. Zambes, 1 : 186 (1960); Keay, FWTA, ed. 2, 1 (1) : 97 (1954); Jonsell, FTEA, Cruciferae : 5 (1982). – Sinapis juncea L., Sp. Pl. 668 (1753).
 
-Cette espèce est très semblable à B. carinata, mais ses feuilles basales et caulinaires inférieures sont plus nettement et plus régulièrement dentées avec 1-3 segments latéraux réduits. Les siliques sont souvent plus longues (jusqu'à 75 mm) avec un bec conique long de 6-12 mm.
+This species is very similar to B. carinata, but its basal and lower cauline leaves are more distinctly and more regularly dentate with 1-3 reduced lateral segments. The siliques are often longer (up to 75 mm) with a conical beak 6-12 mm long.
 
 ## Type
 

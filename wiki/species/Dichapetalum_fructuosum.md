@@ -17,27 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+EXELL & MENDONÇA, CFA 1 (2) : 324 (1951) ; BRETELER, MLW 78 (10) : 16, 77-80 (1978) ; l.c. 81 (10) : 60 (1981). TYPE : Angola, Cuanza Norte, Cazengo near Cabondo, Welwitsch 1233 (holo-, BM ; iso-, COI, LISU).
 
-EXELL & MENDONÇA, CFA 1 (2) : 324 (1951) ; BRE-TELER, MLW 78 (10) : 16, 77-80 (1978) ; l.c. 81 (10) : 60 (1981). TYPE : Angola, Cuanza Norte, Cazengo près de Cabondo, Welwitsch 1233 (holo-, BM ; iso-, COI, LISU).
-
-- D. oddonii DE WILDEMAN, Rev. Zool. Afr. 4 (2), suppl. Bot.: 55 (1919); HAUMAN, FZRB 7: 301, p.p. quoad typus (1958). TYPE: Zaïre, près de Sanda, Oddon in Gillet 3569 (holo-, BR).
+- D. oddonii DE WILDEMAN, Rev. Zool. Afr. 4 (2), suppl. Bot.: 55 (1919); HAUMAN, FZRB 7: 301, p.p. quoad typus (1958). TYPE: Zaïre, near Sanda, Oddon in Gillet 3569 (holo-, BR).
 
 – D. cinnamomeum Hauman, Bull. Jard. Bot. Brux. 25: 342 (1955); FZRB 7: 302 (1958). TYPE: Zaire, Penge, Bequaert 2166 (holo-, BR ; iso-, WAG).
 
-Liane, arbuste lianescent, arbuste ou arbre (?). Rameaux glabres ou glabrescents, écorce brune à noire avec petites lenticelles éparses. Jeunes rameaux avec de courts poils bruns subapprimés denses à épars, tôt glabrescents ou non.
+Liane, scandent shrub, shrub or tree (?). Branches glabrous or glabrescent, bark brown to black with small scattered lenticels. Young branches with short brown densely to sparsely subappressed hairs, soon glabrescent or not.
 
-Stipules en général tôt caduques, étroites et triangulaires, longues de (1) 3-6 mm, avec poils bruns apprimés.
+Stipules generally soon caducous, narrow and triangular, (1) 3-6 mm long, with appressed brown hairs.
 
-Feuilles. Pétiole 3-7 mm hémicylindrique souvent canaliculé ou sillonné dessus, poils subapprimés épars à denses, souvent tôt glabrescent. Limbe elliptique à obové-oblong, (1,5) 2-2,5 (3) fois plus long que large, (5) 9-14 (20) × 3-6 (8) cm ; base obtuse à cunée ; sommet obtus, arrondi ou avec un acumen ≤ 2 cm obtus à aigu ; principales nervures II, 5-8 paires ; nervure I aplatie ou proéminente dessus, plus proéminente dessous ; pubescence subapprimée dense à éparse sur les deux faces de la grande nervation I et II et disparaissant en général très tôt, parfois plus persistante à la face supérieure de la nervure I (les feuilles incomplètement développées peuvent être entièrement pubescentes) ; petites glandes peu visibles sur les deux faces. Sur le sec, la nervure I et les principales nervures II sont souvent plus claires, et de ce fait, assez bien visibles.
+Leaves. Petiole 3-7 mm hemicylindric often canaliculate or furrowed above, subappressed hairs sparse to dense, often soon glabrescent. Blade elliptic to obovate-oblong, (1.5) 2-2.5 (3) times as long as wide, (5) 9-14 (20) × 3-6 (8) cm ; base obtuse to cuneate ; apex obtuse, rounded or with an acumen ≤ 2 cm obtuse to acute ; main veins II, 5-8 pairs ; vein I flattened or prominent above, more prominent below ; subappressed pubescence dense to sparse on both sides of major veining I and II and generally disappearing very early, sometimes more persistent on the upper side of vein I (incompletely developed leaves may be entirely pubescent) ; small glands scarcely visible on both sides. On the dry state, vein I and the main veins II are often paler, and therefore quite well visible.
 
-Inflorescences, soit à l'aisselle des feuilles normales, soit quelques unes réunies sur une courte pousse axillaire aphylle aux feuilles réduites à des écailles ou absentes, (5) 15-n-flores, nettement ramifiées ≤ 10 fois, pubescence subapprimée brune ou tomentelleuse, en général pédonculées. Pédoncule libre ou soudé au pétiole, long de (0) 0,5-2 (5) cm. Bractées et bractéoles deltoïdes à étroites-triangulaires-subulées, longues de 0,5-1,5 (3) mm. Pédicelle grêle ou non, long de ≤ 6 mm, partie supérieure (0) 1-2 mm, en général plus courte que l'inférieure ; pubescence apprimée courte et dense.
+Inflorescences, either in the axils of normal leaves, or some gathered on a short axillary shoot aphyllous with leaves reduced to scales or absent, (5) 15-n-flowered, distinctly branched ≤ 10 times, subappressed brown or tomentellous pubescence, generally pedunculate. Peduncle free or adnate to the petiole, (0) 0.5-2 (5) cm long. Bracts and bracteoles deltoid to narrow-triangular-subulate, 0.5-1.5 (3) mm long. Pedicel slender or not, ≤ 6 mm long, upper part (0) 1-2 mm, generally shorter than the lower ; short and densely appressed pubescence.
 
-Fleurs. Sépales réfléchis après l'anthèse, ovés-elliptiques, 2,5-5 × 0,75-1,25 mm, courts poils de teinte rouille à brun pâle sur la face externe, les mêmes mais plus épars sur l'autre face. Pétales subérigés à réfléchis, bilobés, soit élancés avec des lobes plutôt aplatis, soit obovés avec des lobes plus concaves, longs de 2,5-5 mm, fendus sur 1-2,5 mm, glabres ou avec quelques poils raides au-dessous de la fente sur la face externe. Étamines dressées ou presque, longues de (2,5)3,5-5,5 mm, glabres. Staminodes subcarrés à ovés-oblongs 1 × 0,5 mm, glabres ou avec quelques poils frisés. Pistil 3-mère, long de 3,5-5 mm ; ovaire densément laineux, 3-loculaire ; style glabre ou avec quelques poils, sommet 3-lobé.
+Flowers. Sepals reflexed after anthesis, ovate-elliptic, 2.5-5 × 0.75-1.25 mm, short rust to pale brown hairs on the outer face, the same but more sparse on the other side. Petals suberect to reflexed, bilobed, either slender with rather flattened lobes, or obovate with more concave lobes, 2.5-5 mm long, cleft for 1-2.5 mm, glabrous or with a few stiff hairs below the cleft on the outer face. Stamens erect or nearly so, (2.5) 3.5-5.5 mm long, glabrous. Staminodes subquadrate to ovate-oblong 1 × 0.5 mm, glabrous or with a few curled hairs. Pistil 3-merous, 3.5-5 mm long ; ovary densely woolly, 3-locular ; style glabrous or with a few hairs, apex 3-lobed.
 
-Fruits (mûrs ?) 1-2 (3 ?)-spermes (fruit 1-sperme obovoïde-ellipsodal), axe perpendicular à stipe, 1-1,5 × 0,75 cm, apicule court, tomentum dense de teinte rouille; endocarpe glabre à l'intérieur. - Pl. 21, p. 87.
+Fruits (mature ?) 1-2 (3 ?)-seeded (1-seeded fruit obovoid-ellipsoidal), axis perpendicular to stipe, 1-1.5 × 0.75 cm, short apicule, rust-coloured dense tomentum ; endocarp glabrous inside. - Pl. 21, p. 87.
 
-Cette espèce est très proche de D. arachnoideum Breteler : elle en diffère par l'absence d'indumentum arachnoïde sur les feuilles et par l'extrémité du limbe fortement glanduleuse comme celle de D. librevilense Pellegrin ; il est facile de la distinguer de cette espèce. En outre, les rameaux fraîchement coupés de celle-ci libèrent un exsudat inconnu chez D. fructuosum.
+This species is very close to D. arachnoideum Breteler : it differs from it by the absence of arachnoid indumentum on the leaves and by the blade apex strongly glandular like that of D. librevilense Pellegrin ; it is easy to distinguish it from this species. Moreover, the freshly cut branches of the latter release an exudate unknown in D. fructuosum.
 
 ## Type
 
@@ -45,15 +43,11 @@ Welwitsch 1233, Cuanza Norte, Cazengo, Angola
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Gabon, Zaïre, Angola, Sud-Kenya
+Nigeria, Gabon, Zaïre, Angola, South Kenya
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues de basse ou moyenne altitude
+evergreen and semi-deciduous ombrophilous forests of low or medium altitude
 
 ## Specimens examined
 

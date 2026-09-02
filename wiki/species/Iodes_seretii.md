@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Lasiodiscus seretii DE WILD., Bull. Jard. Bot. Brux. 3 : 271 (1911).
 
 — I. trichocarpa MILDBR., Rep. Sp. Nov. 18 : 97 (1922).
@@ -27,11 +25,11 @@ tags: [species, generated]
 
 — I. hirsuta Louis, nom. nud.; Mullenders, Publ. I.N.E.A.C., sér. scient. 61 : 93, 471 (1950).
 
-Liane atteignant 5 m de hauteur. Tige pubescente à indumentum de poils hirsutes roux ou fauves. Pétiole long de 1-3,5 cm, hirsute. Limbe vert ou vert marron, éparsement pubescent à la face supérieure et densément pubescent à la face inférieure, largement ovale à elliptique, 7-17 × 3,5-10 cm; base cordée ± fortement et sommet acuminé. Nervure médiane pubescente à la face supérieure et saillante très fortement pubescente à la face inférieure. Nervures secondaires, 6-9 paires, ascendantes, arquées, s'anastomosant à 2-3 mm du bord du limbe, ± pubescentes dessus et saillantes pubescentes dessous. Nervilles en réseau assez lâche, peu visible à la face supérieure et saillant à la face inférieure. Vrilles pubescentes.
+Liane attaining 5 m in height. Stem pubescent with indumentum of hirsute russet or tawny hairs. Petiole 1–3.5 cm long, hirsute. Blade green or green-brown, sparsely pubescent on the upper surface and densely pubescent on the lower surface, broadly ovate to elliptic, 7–17 × 3.5–10 cm; base cordate ± strongly and apex acuminate. Midvein pubescent on the upper surface and very prominently salient pubescent on the lower surface. Secondary veins, 6–9 pairs, ascending, arched, anastomosing 2–3 mm from the margin of the blade, ± pubescent above and salient pubescent below. Veinlets in a rather loose network, scarcely visible on the upper surface and salient on the lower surface. Tendrils pubescent.
 
-Inflorescence en panicule globuleux d'environ 3 cm de diamètre à l'ais-selle de chaque feuille. Rachis pubescent. Fleur pédicellée; pédicelle sessile pubescent articulé. Fleur ♂ tétramère à pétales légèrement soudés entre eux. Calice absent. Pétales légèrement soudés entre eux, pubescents extérieurement et glabres intérieurement, de forme largement lancéolée, longs de 2-3 mm, réfléchis. Étamines dressées, à filet long de 1-1,5 mm; anthère basifixe recourbée à 2 fentes de déhiscence longitudinales. Panicule ♀ à pédoncule peu distinct, de 4-5 cm de diamètre. Fleur ♀ tétramère, sessile. Calice absent. Pétales soudés entre eux, pubescents à la face externe et glabres à la face interne, de forme elliptique ou lancéolée, longs de 3-3,5 mm. Ovaire pubescent uniloculaire à 2 ovules pendant; style court et trapu se terminant par un stigmate discoïde.
+Inflorescence in a globular panicle approximately 3 cm in diameter in the axil of each leaf. Rachis pubescent. Flower pedicellate; pedicel sessile pubescent articulate. Male flower tetramerous with petals slightly united to each other. Calyx absent. Petals slightly united to each other, pubescent externally and glabrous internally, broadly lanceolate in form, 2–3 mm long, reflexed. Stamens erect, filament 1–1.5 mm long; anther basifixed curved with 2 longitudinal dehiscence slits. Female panicle with peduncle scarcely distinct, 4–5 cm in diameter. Female flower tetramerous, sessile. Calyx absent. Petals united to each other, pubescent on the external surface and glabrous on the internal surface, elliptic or lanceolate in form, 3–3.5 mm long. Ovary pubescent unilocular with 2 pendulous ovules; style short and stout terminating in a discoid stigma.
 
-Drupe orangée, ovoïde, de  $ 15 \times 10 $ mm, hirsute à poils fauves. Graine ovoïde de  $ 6-7 \times 4 $ mm. PL. 2, 6-8, p. 9.
+Drupe orange, ovoid, 15 × 10 mm, hirsute with tawny hairs. Seed ovoid 6–7 × 4 mm. PL. 2, 6–8, p. 9.
 
 ## Type
 

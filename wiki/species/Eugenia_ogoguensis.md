@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree highly branched. Branchlets glabrous, terete, slender. Leaves ± distichous, oblong, up to 10 × 2.4 cm, acute at base, long acuminate at apex, glabrous, membranaceous. Male flowers sessile, open ± 5 mm in diameter (stamens excepted). Sepals unequal, glabrous. Petals somewhat longer than the sepals. Stamens ± 14. Ovary of male flower glabrous, without ovules. Fruit sessile, red, globose.
 
-Arbuscula valde ramosa. Ramuli glabri, teretes, graciles. Folia ± disticha, oblonga, usque 10 × 2,4 cm, basi acuta, apice longe acuminata, glabra, membranacea. Flores masculi sessiles, aperti ± 5 mm diametro (staminibus exceptis). Sepala inaequalia, glabra. Petala quam sepulsi, paullulum longiora. Stamina ± 14. Ovarium floris masculi glabrum, sine ovulis. Fructus sessilis, ruher, globosus.
+Shrub 0.5–2 m tall, highly branched. Young branchlets already glabrous, rounded, slender. Leaves more or less distichous, oblong, acute at base, long acuminate at apex, glabrous, up to 10 cm long and 2–4 cm wide, membranaceous, remaining green when dry. Lateral veins ± 10 on each side of the midvein. Petiole very short, about 2 mm.
 
-Arbuste 0,5-2 m de haut, très ramifié. Rameaux jeunes déjà glabres, arrondis, grêles. Feuilles plus ou moins distiques, oblongues, aiguës à la base, longuement acuminées au sommet, glabres, jusqu'à 10 cm de long et 2-4 cm de large, membraneuses, demeurant vertes à l'état sec. Nervures latérales ± 10 de chaque côté de la nervure médiane. Pétiole très court, d'environ 2 mm.
-
-Fleurs ♂ seules connues, axillaires, ou souvent sur les entre-nœuds, dirigées vers le bas, sessiles, glabres, d'environ 5 mm de diamètre. Sépales inégaux. Pétales roses, un peu plus long que les sépales. Étamines peu nombreuses, environ 14 par fleur. Ovaire des fleurs ♂ non développé ou vide. Fruit globuleux. rouge.
+♂ Flowers alone known, axillary, or often on the internodes, directed downward, sessile, glabrous, about 5 mm in diameter. Sepals unequal. Petals pink, somewhat longer than the sepals. Stamens few in number, about 14 per flower. Ovary of ♂ flowers undeveloped or empty. Fruit globose, red.
 
 ## Type
 
@@ -30,11 +28,9 @@ Hallé 1806, près de l'Ogooué, région d'Ayem
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+When only the fruiting specimens of Chevalier were known, we had confused this species with E. obanensis Baker. The latter is nevertheless quite different because of its pubescent flowers, its firmer leaves and less long acuminate, and its less slender branchlets and well pubescent. Eugenia fernandopona Engl. differs by the same characters, and, moreover, by its pedicellate flowers.
 
-Quand seuls les spécimens fructifères de Chevalier étaient connus, nous avions confondu cette espèce avec E. obanensis Baker. Cette dernière est cependant bien différente à cause de ses fleurs pubescentes, de ses feuilles plus fermes et moins longuement acuminées et de ses rameaux moins grêles et bien pubescents. Eugenia fernandopona Engl. diffère par les mêmes caractères, et, de plus, par ses fleurs pédicellées.
-
-Endémique du moyen Ogooué.
+Endemic to the middle Ogooué.
 
 ## Specimens examined
 

@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 110 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 126 (1948); KEAY, FWTA, ed. 2, 1: 695, tab. 173 (1958); AUBRÉV., FFCI, ed. 2, 1: 74, tab. 12, fig. A (1959).
 
-HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : 110 (1916) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 126 (1948) ; KEAY, FWTA, ed. 2, 1 : 695, tab. 173 (1958) ; AUBRÉV., FFCI, ed. 2, 1 : 74, tab. 12, fig. A (1959).
-
-- F. serrata Forssk., Fl. Aegypt.-Arab.: 179 (1775), non LINNAEUS (1759); MILDBR. & BURRET, l.c.: 200 (1911). TYPE : Forsskál s.n., Yemen, Wadi Zebíd (holo-, C).
+- F. serrata Forssk., Fl. Aegypt.-Arab.: 179 (1775), non LINNAEUS (1759); MILDBR. & BURRET, l.c.: 200 (1911). TYPE: Forsskál s.n., Yemen, Wadi Zebíd (holo-, C).
 
 - F. scabra Willd., Mem. Acad. Berol (1798): 102 (1801); Samml. Abhandl. Akad. Berlin (1798-1800): 85, tab. 2 (1803), non FORSTER F. (1786); STEUDEL, Nom., ed. 2, 1: 635 (1840); MILDBR. & BURRET, l.c.: 200 (1911). TYPE: I Wert s.n., Guinée (holo-, B).
 
-- F. punctifera WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 35, tab. 7 (1904). LECTOTYPE : Gillet 648, Zaïre, Kisantu (B ; iso-, BR).
+- F. punctifera WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 35, tab. 7 (1904). LECTOTYPE: Gillet 648, Zaïre, Kisantu (B; iso-, BR).
 
 - F. scabra Sim, For. Fl. Port. E. Afr.: 102, tab. 95, fig. C (1909), non FORSTER F. (1786); HUTCH., l.c.: 111 (1916). TYPE: Sim 5644, Mozambique, Nhamacurra (holo-, K).
 
@@ -39,21 +37,17 @@ Isert s.n., Ghana, Fida (holo-, C ; iso-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs or trees reaching a height of 15 (or more?) m; latex often aqueous. Leafy twigs 1–5 mm thick, scabrous, with ± dense, short, white and rigid hairs, reddish brown when dry. Leaves (almost) distichous, sometimes almost opposite. Blade ovate to elliptic, obovate, or sometimes suborbicular, 2.5–16 cm long, 1–12 cm wide, subcoriaceous to coriaceous, apex most often shortly acuminate, sometimes acute, obtuse or rounded, base acute to obtuse, margin denticulate to subentire, sometimes deeply lobed on young plants; upper surface scabrous with hairs sparse to rather dense, short, white, stiff, lower surface scabrous with ± dense, short, white, stiff hairs, mixed with yellowish white, long and weak hairs; venation weakly prominent to plane above, ± prominent below, 3–5 pairs of lateral veins, including 1 pair of basal veins; glandular spots in the axils of the basal and other lateral veins. Petiole 0.5–2.5 cm long, 1–2 mm thick, scabrous with dense or sparse, short, white, stiff hairs. Stipules free, 2–4 mm long, densely white strigose to strigose, caducous.
 
-Arbustes ou arbres atteignant une hauteur de 15 (ou plus ?) m ; latex souvent aqueux. Rameaux feuillés épais de 1-5 mm, scabres, avec des poils ± denses, courts, blancs et rigides, rougeâtre brun sur le sec. Feuilles (presque) distiques, parfois presque opposées. Limbe ovê à elliptique, obové, ou parfois suborbiculaire, long de 2,5-16 cm, large de 1-12 cm, subcoriace à coriace, sommet le plus souvent courtemment acuminé, parfois aigu, obtus ou arrondi, base aiguë à obtuse, bord denticulé à subentier, parfois profondément lobé chez les jeunes plantes ; face supérieure scabre avec des poils épars à plutôt denses, courts, blancs, raides, face inférieure scabre avec des poils ± denses, courts, blancs, raides, mélangés avec des poils jaunâtre blanc, longs et faibles ; nervures faiblement saillantes à planes dessus, ± saillantes dessous, 3-5 paires de nervures latérales, comprenant 1 paire de nervures basales ; taches glandulaires dans les aisselles des nervures basales et autres nervures latérales. Pétiole long de 0,5-2,5 cm, épais de 1-2 mm, scabre avec des poils denses ou épars, courts, blancs, raides. Stipules libres, longues de 2-4 mm, densément strigueuses blanches à strigileuses, caduques.
+Figs in pairs or solitary in the axil or beneath the leaves, or on already defoliate twigs, sometimes on old wood; peduncle 0.5–1 cm long, 1–2 mm thick, pubescence similar to that of the receptacle; bracts 1–5, ovate, scattered on the peduncle, approximately 2 mm long and 2 mm wide, ± densely white to brown strigose, 1–4 similar bracts scattered on the receptacle; receptacle globose flattened, 1–2.5 cm in diameter when fresh, 0.8–1.5 cm when dry, scabrous with dense, stiff, conical hairs, reddish to red at maturity, ostiole flat to weakly prominent, ostiolar bracts often ± erect when dry.
 
-Figues par paires ou solitaires dans l'aisselle ou sous les feuilles, ou sur des rameaux déjà défeuillés, parfois sur le vieux bois ; pédoncule
+Pistillate flowers with 4–6 tepals 1–2.5 mm long, ± spatulate, sometimes bifid, ciliolate, (almost) free; seed flowers sessile or with pedicel reaching 2 mm, style 1.2 mm long; gall flowers sessile or with pedicel reaching 2 mm, style 0.7–1 mm long. Fruits ellipsoid, 1–1.5 mm long; gall fruits ellipsoid to globose, 1.5–1.8 mm long. Staminate flowers subsessile, perianth with 5 tepals 2–2.5 mm long, ± spatulate, ciliolate, free, filament short, anther approximately 1.7 mm long. Receptacle with hairs reaching 0.5 mm, hyaline. – Pl. 34, p. 125.
 
-long de 0,5-1 cml, épais de 1-2 mm, pubescence semblable à celle du réceptacle ; bractées 1-5, ovées, dispersées sur le pédoncule, longues de 2 mm environ et larges de 2 mm, ± densément strigileuses blanches à brunes, 1-4 bractées semblables dispersées sur le réceptacle ; réceptacle globuleux aplat, d'un diamètre de 1-2,5 cm sur le frais, de 0,8-1,5 cm sur le sec, scabre avec des poils denses, raides, coniques, rosâtre à rouge à maturité, ostiole plat à faiblement saillant, bractées ostiolaires souvent ± dressées sur le sec.
+Pollinators: Kradibia gestroi (GRANDI), Sri Lanka, Ghana, India, Côte d'Ivoire, Zimbabwe-Rhodesia; see also F. asperifolia and F. capreaefolia DEL.
 
-Fleurs pistillées avec 4-6 têpales longs de 1-2,5 mm, ± spatulés, parfois bifides, ciliolés, (presque) libres ; fleurs à graines sessiles ou à pédicelle atteignant 2 mm, style long de 1,2 mm ; fleurs à galles sessiles ou à pédicelle atteignant 2 mm, style long de 0,7-1 mm. Fruits ellipsoides, longs de 1-1,5 mm ; fruits à galles ellipsoides à globuleux, longs de 1,5-1,8 mm. Fleurs staminées subsessiles, périanthe avec 5 têpales longs de 2-2,5 mm, ± spatulés, ciliolés, libres, filet court, anthère longue de 1,7 mm environ. Réceptacle avec des poils atteignant 0,5 mm, hyalins. – Pl. 34, p. 125.
+Ficus exasperata is often confused with F. asperifolia. It is possible to distinguish it by the symmetric leaves and the smaller number of lateral veins but also by the form of the tepals and by the presence of hairs on the receptacle.
 
-Pollinisateurs : Kradibia gestroi (GRANDI), Ceylan, Ghana, Inde, Côte d'Ivoire, Zimbabwe-Rhodésie ; voir aussi F. asperifolia et F. capreaefolia DEL.
-
-Ficus exasperata est souvent confondu avec F. asperifolia. Il est possible de le distinguer par les feuilles symétriques et le plus petit nombre de nervures latérales mais aussi par la forme des tépales et par la présence de poils sur le réceptacle.
-
-Cette espèce s'étend du Sénégal à Djibouti, vers le Sud jusqu'en Angola et au Mozambique, aussi à São Tomé et Fernando Po ; hors d'Afrique, au Yemen, à Ceylan et au Sud de l'Inde. Elle se rencontre le plus souvent dans la végétation secondaire des aires de forêt dense semi-caducifoliée ou de types forestiers plus humides, jusqu'à une altitude de 1400 m.
+This species extends from Senegal to Djibouti, southward to Angola and Mozambique, also to São Tomé and Fernando Po; outside of Africa, in Yemen, Sri Lanka and southern India. It is most often encountered in the secondary vegetation of semi-deciduous dense forest areas or of more humid forest types, up to an altitude of 1400 m.
 
 ## Specimens examined
 

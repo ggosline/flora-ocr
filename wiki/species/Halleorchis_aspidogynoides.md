@@ -17,39 +17,35 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige 34 cm, dressée. Feuilles  $ 10.5 \times 2.8 $ cm, ovées-lancéolées, aiguës, courtement asymétriques. Hampe 23 cm, munie de glandes plus denses vers le sommet ; épi 13 cm, très dense, 50-60-flore. Fleurs fines, résupinées, roses, partie inférieure membraneuse, fragile, fine. Sépales tous ovés-lancéolés, cucullés au sommet, les latéraux un peu asymétriques. Pétales falciformes spatulés, subobtus, uninervés, agglutinés au sépale dorsal. Labelle sessile, contracté près du milieu ; hypochile cochléiforme à marge révolutée ; épicளில் en losange, cucullé au sommet ; isthme canalicule avec deux lamelles au centre. – Pl. 25, p. 59.
+Stem 34 cm, erect. Leaves 10.5 × 2.8 cm, ovate-lanceolate, acute, shortly asymmetrical. Scape 23 cm, bearing glands more densely towards the apex; spike 13 cm, very dense, 50–60-flowered. Flowers delicate, resupinate, pink, lower part membranous, fragile, delicate. Sepals all ovate-lanceolate, cucullate at the apex, the lateral ones somewhat asymmetrical. Petals falcate-spatulate, subobtuse, uninerved, agglutinated to the dorsal sepal. Lip sessile, contracted near the middle; hypochile cochleate with revolute margin; epichile diamond-shaped, cucullate at the apex; isthmus channelled with two lamellae at the centre. – Pl. 25, p. 59.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Cameroun. Au pied de rochers très humides en forêt
+Gabon, Cameroon. At the base of very humid rocks in forest
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 850–950 m
 
-alt. 850-950 m
+MATERIAL EXAMINED (Map 8):
 
-MATÉRIEL ÉTUDIÉ (Carte 8) :
-
-Hallé 1251 – Bélinga (fl., Fév.), P!.
+Hallé 1251 – Bélinga (fl., Feb.), P!.
 
 II. CHEIROSTYLIDINAE Szlach.
 
-Folia Geobot. Phytotax. 26 : 318 (1991).
+Folia Geobot. Phytotax. 26: 318 (1991).
 
-Rhizome court, rampant, assez charnu. Feuilles réunies en spirale près de la base de la tige. Fleurs rares à nombreuses, résupinées ou non, de taille moyenne à très petites, de couleur pâle. Labelle sacciforme à courtement éperonné. Stigmate horizontal à 2 lobes indépendants. Cette sous-tribu comprend 9 genres en majorité d'Australasie, dont 3 seulement en Afrique tropicale.
+Rhizome short, creeping, fairly fleshy. Leaves clustered in a spiral near the base of the stem. Flowers rare to numerous, resupinate or not, medium-sized to very small, pale in colour. Lip saccate to shortly spurred. Stigma horizontal with 2 independent lobes. This subtribe comprises 9 genera mostly from Australasia, of which only 3 occur in tropical Africa.
 
-CLÉ DES GENRES
+KEY TO THE GENERA
 
-1. Gynostème avec 2 appendices terminaux ou ventraux.
+1. Gynostemium with 2 terminal or ventral appendages.
 
-2. Sépales réunis ensemble et avec les pétales sur 1/3-1/2 de leur longueur ..... 10. Cheirostylis
+2. Sepals united together and with the petals over 1/3–1/2 of their length ..... 10. Cheirostylis
 
-2'. Sépales non soudés les uns aux autres ..... 12. Hetaeria 1'. Gynostème sans appendice ..... 11. Zeuxine
+2'. Sepals not fused to one another ..... 12. Hetaeria
+
+1'. Gynostemium without appendage ..... 11. Zeuxine
 
 ## Figures
 

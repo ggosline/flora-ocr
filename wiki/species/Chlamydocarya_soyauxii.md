@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane with twisted, ribbed stem, short pubescence, dioecious. Petiole pubescent, twisted, strongly striate, 2-3 cm long. Blade glabrous on both faces, bright light green on upper face, yellowish green on lower face, coriaceous, oblong or elliptic, 14-17 × 5-13 cm; base rounded or attenuate, apex acuminate acute. Midvein glabrous or pubescent on one quarter of its length, prominent above, very weakly prominent and pubescent below. Secondary veins 8-15 pairs, ascending, arched, anastomosing 2-3.5 mm from the margin of the blade, prominent on the lower face. Tertiary veins in dense reticulate pattern, prominent on the lower face.
 
-Liane à tige torsadée, côtelée, à pubescence courte, dioïque. Pétiole pubescent, torsadé, fortement strié, long de 2-3 cm. Limbe glabre sur les deux faces, vert clair luisant à la face supérieure, vert jaunâtre à la face inférieure, coriace, oblong ou elliptique, 14-17 × 5-13 cm; base arrondie
+Male inflorescence in multiflorous axillary spike. Male flower tetramerous, sessile, 3.5 × 1.5 mm. Petals free, densely pubescent externally (long erect hairs on the lower 2/3 of the petals, short appressed hairs on the upper 1/3), pubescent on the lower half of the internal face, oblanceolate or lanceolate, 1.5 mm long. Stamens free gynobasic; filament long slender, caudate at apex; anther medifixed 1 mm long. Pistillode reduced by abortion. Female inflorescence in multiflorous axillary spike. Female flower tetramerous, sessile, 2.5 × 1.5 mm. Petals with pubescence similar to that of male petals, lanceolate or oblanceolate. Staminodes alternipetalous, claviform, 0.75 mm long. Ovary ± quadrangular in section, glabrous. Style pubescent inserting at the apex of the cupular accrescent ovary and terminating in a digitate plateau-like stigma.
 
-ou atténuée, sommet acuminé aigu. Nervure médiane glabre ou pubescente sur le quart de sa longueur, saillante dessus, saillante très faiblement pubescente dessous. Nervures secondaires 8-15 paires, ascendantes, arquées, s'anastomosant à 2-3,5 mm du bord du limbe, saillantes à la face inférieure. Nervilles en réseau dense, saillant à la face inférieure.
-
-Inflorescence ♂ en épï multiflore axillaire. Fleur ♂ tétramère, sessile, 3,5 × 1,5 mm. Pétales libres, densément pubescents extérieurement (poils longs et dressés sur les 2/3 inférieurs des pétales, poils courts apprimés sur le 1/3 supérieur), pubescents sur la moitié inféricure de la face interne, oblancéolés ou lancéolés, longs de 1,5 mm. Étamines libres gynobasiques; filet long grêle, caudé au sommet; anthère médifixe longue de 1 mm. Pistillode réduit par avortement. Inflorescence ♀ en épï multiflore axillaire. Fleur ♀ tétramère, sessile, 2,5 × 1,5 mm. Pétales avec une pubescence semblable à celle des pétales ♂, lancéolés ou oblancéolés. Staminodes alternipétales, claviformes, longs de 0,75 mm. Ovaire ± quadrangulaire en section, glabre. Style pubescent s'insérant dans le sommet de l'ovaire cupulaire et se terminant par un stigmate en plateau digité.
-
-Infrutescence en sphère légèrement allongée. Drupe entourée par le sommet de l'ovaire accrescent en forme de calotte peu côtelée ou lisse, ‡ fortement conique, percée d'un pore au sommet, pubescente sur ses deux faces. Drupe comprimée latéralement. Endocarpe creusé de dépressions extérieurement, émettant des lames à sa face interne. Graine solitaire à albumen abondant. Embryon aussi long que la graine. PL. 24, p. 93.
+Infructescence in slightly elongate sphere. Drupe surrounded by the accrescent apex of the ovary in the form of a slightly ribbed or smooth calyptra, ‡ strongly conical, pierced by a pore at the apex, pubescent on both faces. Drupe laterally compressed. Endocarp excavated with depressions externally, emitting lamellae on its internal face. Seed solitary with abundant albumen. Embryo as long as the seed. PL. 24, p. 93.
 
 ## Type
 
@@ -33,11 +29,9 @@ Soyaux 202, Gabon (holo-, B, delet.; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This type and that of C. klaineana PIERRE do not present differences permitting the maintenance of two distinct species. The binomial Chlamydocarya soyauxii ENGL. is priority.
 
-Ce type et celui de C. klaineana PIERRE ne présentent pas de différences permettant de maintenir deux espèces distinctes. Le binôme Chlamydocarya soyauxii ENGL. est prioritaire.
-
-Cette espèce n'est connue que du Gabon.
+This species is known only from Gabon.
 
 ## Specimens examined
 

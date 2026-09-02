@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine 5–20 m tall, 0.4–0.6 cm in diameter. Young stem clothed with scattered short hairs. Adult stem glabrous, finely longitudinally striate, bearing alternate hooks. Leaves petiolate; stipules laciniate, pubescent, early caducous, 4–7 mm long; petiole glabrescent to glabrous, 4–7 mm; adult blade glabrous, elliptic-obovate, cuneate-acute at base, obtuse to acuminate at apex, entire or obscurely dentate, 3–18 × 1.2–7 cm. Secondary nerves anastomosing, ascending, prominent on lower surface; tertiary nerves distinct on lower surface. Domatia absent.
 
-Liane haute de 5-20 m, de 0,4-0,6 cm de diamètre. Jeune tige vêtue de poils courts épars. Tige adulte glabre, finement striée longitudinalement, pourvue de crochets alternes. Feuilles pétiolées; stipules laciniées, pubes-
+Inflorescences axillary and terminal, tomentellous, formed of pauciflorous cymes. Peduncle tomentellous, reaching 2.5 cm in length. Pedicels tomentellous, reaching 4–5 mm; bracts pubescent, similar to stipules, 4–5 mm long; bracteoles pubescent, subulate, smaller. Sepals pubescent on outer surface, erect, ovate-elliptic, unequal, the 3 inner ones emarginate, apiculate, 3–4 mm × 3–5 mm. Petals yellow, pubescent dorsally, obovate, 14–17 × 8–9 mm. Longest stamens with sparsely pilose filaments, shortest ones glabrous, 4–9 mm; anthers elliptic, approximately 1 mm long, bearing a tuft of hairs at apex. Ovary ovoid, pubescent at apex, approximately 2 × 1.75 mm; styles pubescent, 4 mm long; stigmas terminal, capitate.
 
-centes, précocement caduques, longues de 4-7 mm; pétiole glabrescent à glabre, de 4-7 mm; limbe adulte glabre, elliptique-obové, cunéé-aigu à la base, obtus à acuminé au sommet, entier ou obscurément denté, 3-18 × 1,2-7 cm. Nervures secondaires anastomosées ascendantes, saillantes à la face inférieure; nervilles distinctes à la face inférieure. Pas de domaties.
-
-Inflorescences axillaires et terminales, tomentelleuses, formées de cymes pauciflores. Pédoncule tomentelleux, atteignant 2,5 cm de longueur. Pédicelles tomentelleux, atteignant 4-5 mm; bractées pubescentes semblables aux stipules, longues de 4-5 mm; bractéoles pubescentes, subulées, plus petites. Sépales pubescents à l'extérieur, dressés, ovés-elliptiques, inégaux, les 3 internes émarginés, apiculés, 3-4 mm × 3-5 mm. Pétales jaunes, pubescents dorsalement, obovés, 14-17 × 8-9 mm. Étamines les plus longues à filets éparsément poilus, les plus courtes glabres, de 4-9 mm; anthères elliptiques, longues d'environ 1 mm, munies au sommet d'une touffe de poils. Ovaire ovoïde, pubescent au sommet, d'environ 2 × 1,75 mm; styles pubescents, longs de 4 mm; stigmates terminaux, capités.
-
-Drupe subglobuleuse. Noix bréviaxe, atteignant 13 mm de hauteur sur 20 mm de diamètre, à pyrènes munies d'une fine crête médiane et séparées par des sillons peu profonds. PL. 6, p. 29.
+Drupe subglobose. Nut breviaxile, reaching 13 mm in height by 20 mm in diameter, with pyrenes bearing a fine median crest and separated by shallow furrows. PL. 6, p. 29.
 
 ## Type
 
@@ -33,9 +29,7 @@ Bates 330, Cameroun (holo-, BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts, broussailles, Sud Nigeria, Cameroun, Gabon, Zaïre.
+Forests, scrubland, South Nigeria, Cameroon, Gabon, Zaire.
 
 ## Specimens examined
 

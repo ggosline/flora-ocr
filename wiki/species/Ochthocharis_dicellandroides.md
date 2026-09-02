@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Phaeoneuron dicellandroides GILG, Nat. Pflanzenfam., ed. 1, Nachtr. : 267 (1897).
 
-Arbrisseaux glabrescents, ligneux, ramifiés, dressés, de 1 à 2 (3) m de haut; rameaux jeunes furfuracés, pubescents, puis glabres. Feuilles ± inégales sur la même paire; pétiole de 4 à 8 cm, grêle, sillonné sur le dessus, furfuracé; limbe ± 9 × 1,6 cm, lancée à largement lancéolé, largement en coin ou arrondi à la base, subaigu au sommet; glabrescent sur les 2 faces, sauf sur les nervures ± furfuracées ou pubescentes en dessous; 5, (7) nervures, transversales régulièrement parallèles; marges lâchement serretées-dentées.
+Shrubs glabrescient, woody, branched, erect, 1 to 2 (3) m tall; young branches furfuraceous, pubescent, then glabrous. Leaves ± unequal on the same pair; petiole 4 to 8 cm, slender, grooved on the upper surface, furfuraceous; blade ± 9 × 1.6 cm, lanceolate to broadly lanceolate, broadly cuneate or rounded at the base, subacute at the apex; glabrescent on both surfaces, except on the nerves ± furfuraceous or pubescent below; 5, (7) nerves, transverse regularly parallel; margins loosely serrate-dentate.
 
-Cymes bipares en panicule ± pyramidale de 3 à 4 étages de rameaux; ± 10 × 10 cm; terminales au-dessus d'une dernière paire de feuilles ± réduites; bractées et bractéoles subulées; axes furfuracés. Fleur à pédicelle de 1 à 2 mm au-dessus des bractéoles; hypanthe campanulé-oblong, 5 × 3-4 mm, à paroi épaisse, charnue; calice épais, entier, lobes seulement marqués par une petite carène dorsale. Pétales roses ou pourpres, longs de ± 10 mm, oblongs, brusquement onguiculés. Étamines externes à anthère de 3 à 5 mm; pédoconnectif robuste, épaiss à la base, long de 0,5 à 1 mm, avec appendice antérieur court, 2-tuberculé, éperon ± aplati, tronqué, 0,3-0,5 mm; filet 5-6 mm. Étamines internes un peu plus courtes, mêmes proportions et structure. Style long de 10 mm.
+Dichasial cymes in ± pyramidal panicle of 3 to 4 tiers of branches; ± 10 × 10 cm; terminal above a last pair of ± reduced leaves; bracts and bracteoles subulate; axes furfuraceous. Flower with pedicel 1 to 2 mm above the bracteoles; hypanthium campanulate-oblong, 5 × 3-4 mm, with thick, fleshy wall; calyx thick, entire, lobes only marked by a small dorsal keel. Petals pink or purple, ± 10 mm long, oblong, abruptly unguiculate. External stamens with anther 3 to 5 mm; podoconnective robust, thickened at the base, 0.5 to 1 mm long, with short anterior appendage, 2-tuberculate, spur ± flattened, truncate, 0.3-0.5 mm; filament 5-6 mm. Internal stamens slightly shorter, same proportions and structure. Style 10 mm long.
 
-Fruit globuleux, 5-7 × 5-7 mm, obscurément 5-côtelé sur le sec; ovaire à sommet convexe, 5-bosselé, atteint le rebord de l'hypanthe. Graines hautes de 0,8 à 1 mm, larges au sommet de 0,8 à 1 mm, corps de la graine ± tuberculé, expansion du raphé lisse; hile brun. — Pl. 40, p. 107.
+Fruit globose, 5-7 × 5-7 mm, obscurely 5-ribbed when dry; ovary at apex convex, 5-bumpy, reaching the rim of the hypanthium. Seeds 0.8 to 1 mm tall, 0.8 to 1 mm wide at the apex, seed body ± tuberculate, raphé expansion smooth; hilum brown. — Pl. 40, p. 107.
 
 ## Type
 
@@ -33,9 +31,7 @@ Dinklage 635, Cameroun (K, HBG)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce forestière des sols boueux.
+Forest species of muddy soils.
 
 ## Specimens examined
 

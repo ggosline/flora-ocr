@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige <100 cm. Feuilles 1,5-4,5 x 0,8-1,5 cm, oblongues-elliptiques. Inflorescence axillaire, < 7 cm. Fleurs à périanthe blanchâtre à jaunâtre teinté d'orangé. Bractées florales < 4 mm, transversalement elliptiques, tronquées, amplexicaules. Sépale dorsal elliptique-obové. Pétales lancéolés-obovés. Sépales latéraux obliquement lancéolés-obovés. Labelle nettement trilobé juste au-dessus d'une base cochléiforme et un peu charnue, sans callus ; lobe médian lancéolé, marges entières ; lobes latéraux obliquement obovés, irrégulièrement indentés, largement étalés. Éperon < 30 mm, étroitement cylindrique, légèrement renflé au sommet. – Pl. 192, p. 413.
+Stem <100 cm. Leaves 1.5-4.5 × 0.8-1.5 cm, oblong-elliptic. Inflorescence axillary, < 7 cm. Flowers with perianth whitish to yellowish tinged with orange. Floral bracts < 4 mm, transversely elliptic, truncate, amplexicaul. Dorsal sepal elliptic-obovate. Petals lanceolate-obovate. Lateral sepals obliquely lanceolate-obovate. Lip clearly trilobed just above a cochleiform and somewhat fleshy base, without callus; median lobe lanceolate, margins entire; lateral lobes obliquely obovate, irregularly indented, broadly spreading. Spur < 30 mm, narrowly cylindric, slightly swollen at the apex. – Pl. 192, p. 413.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côté d'Ivoire, Nigeria, Cameroun, Guinée équatoriale, Gabon, Zaïre
+Liberia, Côte d'Ivoire, Nigeria, Cameroon, Equatorial Guinea, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1 000 m. Epiphyte or lithophyte, forest, rock, observed on branch tip of cacao and coffee plants
 
-alt. 0-1 000 m. Épiphyte ou lithophyte, forêt, rocher, observé sur extrémité de branche de cacaoyer et caféier
+PL. 191. – Structure of the gynostemium of the genus Dinklageella Mansf.: A, lateral view; B, front view; C, view from below, anther removed; D, rest of rostellum, view from above; E, anther; F-I, tegula and viscidium, various views; J, pollinia, various views (A-J, ex SZLACHETKO, 2003).
 
-PL. 191. – Structure du gynostème du genre Dinklageella Mansf. : A, vue latérale ; B, vue de face ; C, vue de dessous, anthère enlevée ; D, reste du rostelle, vue de dessus ; E, anthère ; F-I, tegula et viscidie, vues diverses ; J, pollinies, vues diverses (A-J, ex SZLACHETKO, 2003).
-
-MATÉRIEL ÉTUDIÉ (Carte 87) :
+MATERIAL STUDIED (Map 87):
 
 Hallé 2891, Bélinga (st.), P!.
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, non Chlorophytum asphodeloides C.H.Wright (1906). Albuca stolzii K.Krause, Bot. Jahrb. Syst. 57 : 237 (1921). Anthericum welwitschii Marais & Reilly, Kew Bull . 32 : 657 (1978). Plante robuste, 1,5–2,5 m de hauteur ; rhizome cormiforme ; racines plusieurs, étroites, portant à leur extrémité des tubercules allongés. Feuilles (sub)distiques, non pé tiolées ; limbe linéaire, atteignant 80 × 2 cm, glabre, engaînant à la base, celle-ci papyra cée. Inflorescence (pédoncule inclus) atteignant 2,5 m de longueur, pourvue de bractées sur presque toute sa longueur , non ramifiée ou avec 1–2 branches à la base, rachis faiblement anguleux, glabre ; pédoncule 1,5 cm de diamètre à la base, glabre ; bractées ovales-lancéolées 4–5 mm de longueur, glabres, à sommet subulé. Fleurs 1–5 par nœud ; pédicelle articulé dans la moitié inférieure , atteignant 7 mm en fruit ; tépales 12–25 mm de longueur , blancs, 3-nervés ; étamines aussi longues que le périanthe, filets dilatés au milieu, plus courtes que les anthères ; style courbé, exsert. Fruit obovoïde, environ 9 mm de longueur, presque arrondi en section transversale , transversalement strié . Graines irrégulièrement pliées, environ 2 mm de diamètre.
+, non Chlorophytum asphodeloides C.H.Wright (1906). Albuca stolzii K.Krause, Bot. Jahrb. Syst. 57 : 237 (1921). Anthericum welwitschii Marais & Reilly, Kew Bull . 32 : 657 (1978). Robust plant, 1.5–2.5 m in height; rhizome cormiform; roots several, narrow, bearing at their apex elongate tubers. Leaves (sub)distichous, not petiolate; blade linear, reaching 80 × 2 cm, glabrous, sheathing at the base, the latter papyraceous. Inflorescence (peduncle included) reaching 2.5 m in length, provided with bracts along almost its entire length, unbranched or with 1–2 branches at the base, rachis weakly angular, glabrous; peduncle 1.5 cm in diameter at the base, glabrous; bracts ovate-lanceolate 4–5 mm in length, glabrous, with subulate apex. Flowers 1–5 per node; pedicel articulate in the lower half, reaching 7 mm in fruit; tepals 12–25 mm in length, white, 3-nerved; stamens as long as the perianth, filaments dilate at the middle, shorter than the anthers; style curved, exsert. Fruit obovoid, approximately 9 mm in length, nearly rounded in transverse section, transversely striate. Seeds irregularly folded, approximately 2 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Angola, Burundi, République Démocratique du Congo, Malawi, Mozambique, Tanzanie et Zambie. Au Gabon, seulement connue du Haut-Ogooué, près de la frontière avec le Congo (Brazzaville)
+Gabon, Angola, Burundi, Democratic Republic of the Congo, Malawi, Mozambique, Tanzania and Zambia. In Gabon, known only from Haut-Ogooué, near the border with Congo (Brazzaville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans des végétations arborées ouvertes, savanes, zones sèches et bancs de ruisseaux, sur des sols lourds ; au Gabon à environ 400 m d’altitude. B : Kativu et al. (2008), Nordal et al. (1997). ibliographie
+in open tree vegetation, savannas, dry zones and stream banks, on heavy soils; in Gabon at approximately 400 m altitude. B : Kativu et al. (2008), Nordal et al. (1997). ibliography
 
 3
 

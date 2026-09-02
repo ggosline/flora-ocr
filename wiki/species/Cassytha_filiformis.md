@@ -16,15 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Linnaeus, Sp. Pl. Ed. I : 35 (1753).
 
-— Linné, Sp. Pl. Éd. I : 35 (1753).
+Stems reaching several metres, finely pubescent, twining to the right. Spikes 1–6 cm, lax, of 3–10 glabrous flowers; bracteoles ciliate; outer tepals similar to bracteoles, inner tepals three times longer.
 
-Tiges atteignant plusieurs mètres, finement pubescentes, volubiles à droite. Épis de 1-6 cm, lâches, de 3-10 fleurs glabres; brac-
-
-téoles ciliées; tépales externes semblables aux bractéoles, tépales internes trois fois plus longs.
-
-Plante parasite pouvant s'introduire sur des plantations.
+Parasitic plant capable of establishing itself on plantations.
 
 ## Vernacular names
 
@@ -32,11 +28,9 @@ Owasa-wa-gélo (dialecte Nkomi)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Among the Nkomis, the plant is said to bring good fortune to fishing: for this purpose, nets are placed in the smoke of a fire where Cassytha burns. In Senegal, the decoction would be a remedy against hair loss; it could also arrest lactation (Dalziel).
 
-Chez les Nkomis, la plante porterait bonheur à la pêche : pour cela, on place les filets dans la fumée d'un feu où brûlent des Cassytha. Au Sénégal, la décoction serait un remède contre la chute des cheveux; elle pourrait aussi arrêter la lactation (Dalziel).
-
-Matériel gabonais étudié
+Gabonese material studied
 
 Debeaux : 183, Libreville.
 

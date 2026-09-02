@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Bignonia ferdinandi WELW., Apont. Phytogeogr.: 584 (1858); Ann. Con. Ultramar: 55 (1859).
 
 – Ferdinandia superba WELW. EX. SEEM., J. of Bot. 3: 330, tab. 37-38 (1865); SPRAGUE, FTA 4 (2): 516 (1906).
@@ -35,11 +33,11 @@ tags: [species, generated]
 
 – Tisserantodendron walkeri SILLANS, Bull. Soc. Bot. Fr. 100 : 282 (1953). SYNTYPES : Le Testu 6344, 7446, 8390, Gabon (P).
 
-Arbre de la voûte atteignant une hauteur de 30 m et plus et un diamètre de 50 cm. Ramilles cylindriques pubérulentes, avec à maturité des lenticelles étroites pâles contrastantes. Feuilles à 5-11 folioles, aiguës au sommet, arrondies ou cunéiformes à la base,  $ 2-7 \times 1-3,5 $ cm, entières, discolores, pubérulentes et écailleuses dessus, pubérulentes bronze dessous ; pétioules longs de 2-3 mm, pubérulents, rachis articulé mais non visiblement uni.
+Canopy tree reaching a height of 30 m and more and a diameter of 50 cm. Branchlets cylindrical, puberulent, with at maturity narrow pale contrasting lenticels. Leaves with 5–11 leaflets, acute at the apex, rounded or cuneiform at the base, 2–7 × 1–3.5 cm, entire, discolorous, puberulent and scaly above, bronze puberulent below; petioles 2–3 mm long, puberulent, rachis articulate but not visibly connate.
 
-Inflorescence réduite, ramiflore, de 1-5 fleurs, pédicelles pubérulents, longs de 2-3 cm. Calice largement campanulé, irrégulièrement 2-3 labié, 1,5-2,2 × 2-3 cm, pubérulent avec des glandes circulaires dispersées. Corolle orange, largement infundibiliforme-campanulée, longue de 6-9 cm, large de 3-4,5 cm à l'embouchure du tube, tube long de 4-6 cm, lobes longs de 1,5-2,5 cm ; très éparsement pubérulente extérieurement (très peu visible), glabre intérieurement. Étamines subégales, subexsertes, thèques divergentes, fortement recourbées, longues de 4 mm environ. Pistil long de 3,5-5,5 cm, ovaire cylindrique, 7,8 × 1,5-2 mm, densément pubérulent bronzé. Disque patelliforme, long de 1 mm, large de 5-6 mm.
+Inflorescence reduced, ramiflorous, of 1–5 flowers, pedicels puberulent, 2–3 cm long. Calyx broadly campanulate, irregularly 2–3 lobed, 1.5–2.2 × 2–3 cm, puberulent with scattered circular glands. Corolla orange, broadly infundibuliform-campanulate, 6–9 cm long, 3–4.5 cm broad at the mouth of the tube, tube 4–6 cm long, lobes 1.5–2.5 cm long; very sparsely puberulent externally (very little visible), glabrous internally. Stamens subequal, subexsert, anthers divergent, strongly curved, approximately 4 mm long. Pistil 3.5–5.5 cm long, ovary cylindrical, 7.8 × 1.5–2 mm, densely bronze puberulent. Disc patelliform, 1 mm long, 5–6 mm broad.
 
-Fruit non vu, apparemment inconnu. – Pl. 4, p. 25.
+Fruit not seen, apparently unknown. – Pl. 4, p. 25.
 
 ## Type
 

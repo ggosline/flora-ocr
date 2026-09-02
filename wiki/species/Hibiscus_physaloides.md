@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe ligneuse, 2 ‒ 3 m de hauteur, très ramifiée ; parties végétatives couvertes d’un indument court mélangé à des poils plus longs de 3 ‒ 4 mm, rigides, fragiles, irritants, jaunes clair. Stipules filiformes, jusqu’à 7 mm, subpersistantes. Feuille à pétiole de 2 ‒ 4( ‒ 8,5) cm ; limbe palmatilobé à (3 ‒ )5 ‒ 7 lobes, d’aspect étoilé , à contour suborbiculaire, 5 ‒ 9
-
-cm de diamètre, à base cordée, lobes triangulaires, aigus, le médian plus long que les latéraux, marges irrégulièrement ondulées, les deux faces courtement velues, face inférieure pourvue de concrétions blanchâtres entre les bases des nervures. Fleur axillaire, solitaire ; pédicelle 4 ‒ 9 cm, partie entre calice et calicule s’allongeant jusqu’à 6 mm ; calicule à 7 ‒ 9( ‒ 10) bractéoles simples, filiformes , environ 14 mm, velues, déjà divergentes en bouton ; sépales en majeure partie libres, ovales, 1,8 ‒ 2,3 cm de longueur, aigus, foliacés, 5-nervés, légèrement accrescents après la floraison ; pétales 4 ‒ 6 cm de longueur, jaunes à base rouge devenant violette ; tube staminal 1,5 ‒ 2 cm de longueur, anthères pourpres ; branches du style à stigmates grands, dépassant le tube staminal. Fruit ovoïde, 15 mm environ de longueur, aigus ; valves aiguës, à acumen de 3 mm de longueur, couvertes de longs poils clairs ou roux, surtout sur les marges. Graines triangulaires, 2 mm de longueur, noirs , à petits verrues brunâtres.
+Woody herb, 2–3 m in height, very much branched; vegetative parts covered with short indumentum mixed with longer hairs 3–4 mm, rigid, fragile, irritant, pale yellow. Stipules filiform, up to 7 mm, subpersistent. Leaf with petiole 2–4(–8.5) cm; lamina palmatilobed with (3–)5–7 lobes, stellate in aspect, suborbicular in outline, 5–9 cm in diameter, cordate at base, lobes triangular, acute, the median longer than the lateral, margins irregularly undulate, both surfaces shortly pubescent, lower face provided with whitish concretions between the bases of the nerves. Flower axillary, solitary; pedicel 4–9 cm, portion between calyx and epicalyx elongating to 6 mm; epicalyx with 7–9(–10) simple, filiform bracteoles, approximately 14 mm, pubescent, already divergent in bud; sepals mostly free, ovate, 1.8–2.3 cm in length, acute, foliaceous, 5-nerved, slightly accrescent after flowering; petals 4–6 cm in length, yellow with red base becoming purple; staminal tube 1.5–2 cm in length, anthers purple; style branches with large stigmas, exceeding the staminal tube. Fruit ovoid, approximately 15 mm in length, acute; valves acute, with acumen 3 mm in length, covered with long pale or reddish hairs, especially on the margins. Seeds triangular, 2 mm in length, black, with small brownish warts.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandue dans l’Afrique tropicale, le Cap-Vert, l’Afrique australe, les Canaries, les Comores, Madagascar et les Seychelles ; en Afrique tropicale du Sénégal à l’Ouganda, au sud vers l’Angola et le Zimbabwe ; au Gabon assez commune, connue de l’Ogooué-Maritime, de la Nyanga, de la Ngounié et de l’Ogooué-Ivindo
+widespread in tropical Africa, Cape Verde, southern Africa, the Canaries, the Comoros, Madagascar and the Seychelles; in tropical Africa from Senegal to Uganda, southward to Angola and Zimbabwe; in Gabon fairly common, known from Ogooué-Maritime, Nyanga, Ngounié and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt marécageuse dégradée, jachères humides, galeries, savanes, bords de chemins, cultures, défrichements ; au Gabon à 0 ‒ 200 m d’altitude, ailleurs de 0 à 2350 m
+degraded swamp forest, humid fallow land, galleries, savannas, roadsides, cultivations, clearings; in Gabon at 0–200 m altitude, elsewhere 0 to 2350 m
 
 ## Vernacular names
 

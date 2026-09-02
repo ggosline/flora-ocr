@@ -22,33 +22,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 cf. (?) C. pugionifera K. Schum.
 
-et Cola ficifolia var. bilenguensis (Pell.) N. Hallé comb. nov. = C. bilenguensis Pellegr. nov. syn.
+and Cola ficifolia var. bilenguensis (Pell.) N. Hallé comb. nov. = C. bilenguensis Pellegr. nov. syn.
 
-, et Sterc. Afr. : 120 et 118 (1900). — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 39-41 (1950-51) excl. Klaine 1374 et Le Testu 7725. — F. W. T. A. 2e éd. I : 328 (1958).
+, and Sterc. Afr. : 120 and 118 (1900). — PELLEGR. Sterc. Gab., Mém. S. B. Fr. : 39-41 (1950-51) excl. Klaine 1374 and Le Testu 7725. — F. W. T. A. 2nd ed. I : 328 (1958).
 
-Petit arbre dépassant 7 m de haut. Jeunes pousses entièrement et très densément vêtues, y compris les jeunes feuilles, d'un duvet épais de poils barbelés roux. Stipules persistantes longuement triangulaires atténuées étroites, d'env. 15-25 mm de long, pubescentes extérieurement, semblables aux écailles des bourgeons terminaux. Feuilles généralement très grandes et lobées, groupées en bouquets aux extrémités. On peut trouver plus rarement quelques feuilles entières à pétiole de 5-10 cm de long. Pétiole ayant en général 10-15 (-65) cm de long, cylindrique, glabrescent,
+Small tree exceeding 7 m in height. Young shoots entirely and very densely clothed, including young leaves, with a thick down of barbed reddish hairs. Persistent stipules elongate-triangular attenuate narrow, about 15-25 mm long, pubescent on the outside, resembling the scales of terminal buds. Leaves generally very large and lobed, grouped in clusters at the extremities. More rarely one can find some entire leaves with petioles 5-10 cm long. Petiole generally 10-15 (-65) cm long, cylindric, glabrescenr,
 
-gardant parfois une partie de sa pubescence vers les extrémités. Limbe devenant entièrement glabre, le plus souvent 3-5 (-7) lobé (trilobé dans la forme typique), de 30 à 70 cm de long, assez coriace, assez lisse dessus, microsquameux et microponctué mais jamais blanchâtre dessous, devenant d'un vert ochracé ou roux à sec; base du limbe obtuse, tronquée ou un peu cordée; lobes plus ou moins elliptiques spathulés et de 7 à 21 cm de large dans la forme typique, subrubanés et de 6 à 10 cm de large dans la variété bilenguensis; acumen de 12-30 mm de long, souvent très étroit. Nervures glabrescentes, 3-7 (9) basilaires palmées; 8-12 paires de nervures pennées sur le lobe médian; réseau de nervilles très apparent et en relief sur la face inférieure du limbe.
+sometimes retaining part of its pubescence toward the extremities. Blade becoming entirely glabrous, most often 3-5 (-7) lobed (trilobate in the typical form), 30 to 70 cm long, rather coriaceous, rather smooth above, microsquamose and micropunctate but never whitish below, becoming ochraceus or reddish-brown when dry; base of blade obtuse, truncate or slightly cordate; lobes more or less elliptic spatulate and 7 to 21 cm wide in the typical form, subribbon-like and 6 to 10 cm wide in var. bilenguensis; acumen 12-30 mm long, often very narrow. Veins glabrescenr, 3-7 (9) basal palmate; 8-12 pairs of pinnate veins on the median lobe; venule network very apparent and prominent on the lower face of the blade.
 
-Inflorescences en glomérules multiflores sessiles sur le vieux bois ou parfois axillaires, avec des bractéoles convexes obtuses pubescentes extérieurement. Pédicelles inégaux, les plus longs atteignant 7 mm, les plus nombreux autour de 2 mm, articulés vers le milieu. Boutons ovés oblongs, parfois un peu prismatiques, à dense pubescence roux clair. Fleur brun rouge atre ou violacée; calice charnu variable, de 10-30 mm de long, à tube campanulé sur le tiers ou la moitié de la longueur, densément vêtu de poils roux en courtes touffes; 5 (6-7) lobes un peu plus courts ou un peu plus longs que le tube, subaigus, à marge interne amincie; intérieur du calice montrant à sec un dense revêtement de petites papilles capitées violettes; fond du tube avec une quinzaine de côtes saillantes, certaines plus ou moins prolongées dans l'axe des lobes.
+Inflorescences in multiflorous sessile glomerules on old wood or sometimes axillary, with convex obtuse bracteoles pubescent on the outside. Pedicels unequal, the longest reaching 7 mm, the most numerous around 2 mm, articulate toward the middle. Buds ovate oblong, sometimes somewhat prismatic, with dense pale reddish pubescence. Flower brownish-red or violaceous; calyx fleshy variable, 10-30 mm long, with campanulate tube for one-third or half the length, densely clothed with reddish hairs in short tufts; 5 (6-7) lobes somewhat shorter or somewhat longer than the tube, subacute, with thin inner margin; interior of calyx showing when dry a dense covering of small violet capitate papillae; base of tube with about fifteen prominent ribs, some more or less extended along the axis of the lobes.
 
-Fleurs ♂ à réceptacle roux pubescent au fond du tube, d'où se dresse un très court androphore velu portant une couronne de 16-20 loges polliniques unisériées, soudées en une cupule velue à l'intérieur. Fleur ♀ à ovaire vêtu de gros poils étoilés très fournis, roux clair, entouré à la base de 16 (20) loges polliniques, divisé en 3-4 (6) carpelles un peu atténués et coiffés de stigmates noir violacé à sec. 4-10 ovules superposés dans chaque carpelle.
+♂ Flowers with reddish pubescent receptacle at the base of the tube, from which arises a very short hairy androphore bearing a crown of 16-20 unimodal pollen sacs fused into a hairy cupule on the inside. ♀ Flower with ovary clothed with stout densely stellate hairs, pale reddish, surrounded at the base by 16 (20) pollen sacs, divided into 3-4 (6) carpels somewhat attenuate and topped with dark violet-black stigmas when dry. 4-10 superposed ovules in each carpel.
 
-Fruit à follicules cucumiformes à extrémité plus ou moins atténuées, longs de 9-15 cm, indéhiscents, à surface ornée de nombreuses petites rides longitudinales et finement couverte de poils roux tOUFFUS. 4-6 graines par follicule, à large insertion placentaire, à
+Fruit with cucumeriform follicles with more or less attenuate extremities, 9-15 cm long, indehiscent, with surface ornamented with numerous small longitudinal wrinkles and finely covered with tufted reddish hairs. 4-6 seeds per follicle, with broad placental insertion,
 
-PL. XV. — Types de feuilles à 3-8 (9?) lobes chez les Cola du sous-genre Ficicola : 1 à 4, Cola ficifolia Mast. (1, Klaine 830 C; 2 et 3, Kl. 830 A; 4, Kl. 1348). — 5, Cola ficifolia var. bilenguensis (Pellegr.) N. Hallé (Le Testu 5494). — 6, Cola duparquetiana H. Baillon (Morel 127).
+PL. XV. — Types of leaves with 3-8 (9?) lobes in Cola of subgenus Ficicola : 1 to 4, Cola ficifolia Mast. (1, Klaine 830 C; 2 and 3, Kl. 830 A; 4, Kl. 1348). — 5, Cola ficifolia var. bilenguensis (Pellegr.) N. Hallé (Le Testu 5494). — 6, Cola duparquetiana H. Baillon (Morel 127).
 
-2 cotylédons épais et glabres, à gemmule vêtue de poils stellés.
+2 thick and glabrous cotyledons, with gemmule clothed with stellate hairs.
 
-Dans la variété bilenguensis, la fleur est rouge avec les caractères suivants : calice de 13-20 mm de long, profondément échancré en lobes 1,5 à 3 fois plus longs que la partie campanulée, subru-banés, subérigés arqués, souvent pliés en long sur la face externe. 16-20 loges à l'androcée comme dans la forme typique et ovaire semblable tricarpellé.
+In var. bilenguensis, the flower is red with the following characters: calyx 13-20 mm long, deeply lobed with lobes 1.5 to 3 times longer than the campanulate part, subribbon-like, suberect curved, often folded lengthwise on the external face. 16-20 loges in the androecium as in the typical form and similar tricarpellate ovary.
 
-Type de l'espèce : Mann 1157 (K., P.)
+Type of the species: Mann 1157 (K., P.)
 
-Décrite de Fernando Po, cette espèce est répandue au Cameroun et au Gabon dans les forêts primaires humides.
+Described from Fernando Po, this species is widespread in Cameroon and Gabon in humid primary forests.
 
 ## Vernacular names
 
@@ -56,9 +54,7 @@ Cola rouge, Annchoin, Annchoin (env. de Libreville); Engomanga (env. de Ndjolé)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fruit comestible (téguments?)
+Edible fruit (integuments?)
 
 ## Specimens examined
 

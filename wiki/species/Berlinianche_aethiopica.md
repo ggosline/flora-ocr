@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fleurs 2–4 mm de diamètre , se fanant vite, à odeur désagréable et sève rouge ; involucre déchiré brun, persistant ou caduc ; tépales roses, rouges ou pourpres , charnus, les 3 externes largement ovés ou semi-circulaires, ± 2 x 3 mm, les médians et les (5–)6(–7) internes ovés à circulaires ou oblongs-obovés, (1–)2,5–3,5 x 1,5–2,5 mm, sommet obtus ou arrondi, ceux du verticille interne munis d’un callus basilaire finement pubérulent. Fleur mâle à tube staminal libre jusqu’à la base, mais entourant étroitement le pistillode, rose, 1 mm de hauteur, avec ± 30 anthères blanches en 2 rangées ; pistillode blanc avec une tête pourpre garnie au sommet d’un anneau de poils ; disque blanc. Fleur femelle à style de 0,25 mm de longueur et stigmate de 0,5 mm. Fruit ± 5 mm de diamètre, à graines de couleur chair.
+Flowers 2–4 mm in diameter, wilting quickly, with unpleasant odor and red sap; involucre torn brown, persistent or caducous; tepals pink, red or purple, fleshy, the 3 external ones broadly ovate or semicircular, ± 2 × 3 mm, the median and the (5–)6(–7) internal ones ovate to circular or oblong-obovate, (1–)2.5–3.5 × 1.5–2.5 mm, apex obtuse or rounded, those of the inner whorl furnished with a finely puberulent basilar callus. Male flower with staminal tube free to the base, but tightly surrounding the pistillode, pink, 1 mm in height, with ± 30 white anthers in 2 rows; pistillode white with a purple head furnished at the apex with a ring of hairs; disc white. Female flower with style 0.25 mm in length and stigma 0.5 mm. Fruit ± 5 mm in diameter, with flesh-colored seeds.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue du Gabon, de la République Démocratique du Congo, de l’Angola, de la Zambie, du Zimbabwe, du Malawi et de la Tanzanie ; au Gabon seulement connue de l’Ogooué-Maritime (autour de Rabi), mais probablement également présente ailleurs (échappant facilement à l’attention des récolteurs)
+known from Gabon, Democratic Republic of the Congo, Angola, Zambia, Zimbabwe, Malawi and Tanzania; in Gabon only known from Ogooué-Maritime (around Rabi), but probably also present elsewhere (easily escaping the attention of collectors)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-parasite sur les espèces de la famille des Leguminosae, sous-famille des Caesalpinioidae, tribu des Macrolobieae . B : Robyns & Boutique (1948), Stannard (1997), Verdcourt (1998). i B liographie
+parasite on species of the family Leguminosae, subfamily Caesalpinioidae, tribe Macrolobieae. B: Robyns & Boutique (1948), Stannard (1997), Verdcourt (1998). i Bibliography
 
 649452. 2-41343 .203-3+20,3 1+13 7 95 5
 

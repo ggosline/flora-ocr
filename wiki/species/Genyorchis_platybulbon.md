@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 106. – Genyorchis platybulbon Schltr.: A, flower and bract; B-D, H, I, labellum, various aspects; E, lateral sepal; F, dorsal sepal; G, gynostemium and petal, lateral view (A-G, Villiers 876, P; H, I, Villiers 811, P).
 
-P.L. 106. – Genyorchis platybulbon Schltr.: A, fleur et bractée ; B-D, H, I, labelle, aspects divers ; E, sépale latéral ; F, sépale dorsal ; G, gynostème et pétale, vue latérale (A-G, Villiers 876, P ; H, I, Villiers 811, P).
+PL. 107. – Genyorchis sanfordii Szlach. & Olsz.: A, general view; B, part of inflorescence; C-F, labellum, various aspects; G, gynostemium and petal, lateral view; H, dorsal sepal; I, lateral sepal (A-I, Sanford 5256, P).
 
-PL. 107. – Genyorchis sanfordii Szlach. & Olsz.: A, vue générale ; B, partie de l'inflorescence ; C-F, labelle, aspects divers ; G, gynostème et pétale, vue latérale ; H, sépale dorsal ; I, sépale latéral (A-I, Sanford 5256, P).
-
-Pseudobulbes 1-1,7 × 0,4-0,6 cm, ovoïdes, 1-foliés. Feuille 1,3-4,5 × 0,4-0,9 cm oblongue-elliptique, obtuse. Inflorescence 5,5-16 cm, lâche, glabre, rachis parfois en zigzag, 5-20-flore. Fleurs blanches. Sépale dor-sal oblong-elliptique à oblong-ové, aigu, relativement charnu ; sépales latéraux obliquement ovés-elliptiques, courtement apiculés. Pétales rudimentaires, triangulaires à ovés, soudés au gynostème pourpre ou jaune. Labelle jaune ou taché de pourpre alentour et jaune au centre, obové, assez charnu, nettement épaissi le long de la veine médiane, courtement canaliculé, trilobé : lobe médian soudé à la face inférieure du labelle, contour triangulaire à liguliforme, obtus, charnu, finement papilleux sur les deux faces ; les latéraux obliquement triangulaires à semi-elliptiques, assez minces, membraneux. Éperon conique, émoussé. - Pl. 106, p. 210.
+Pseudobulbs 1–1.7 × 0.4–0.6 cm, ovoid, 1-leaved. Leaf 1.3–4.5 × 0.4–0.9 cm oblong-elliptic, obtuse. Inflorescence 5.5–16 cm, lax, glabrous, rachis sometimes zigzag, 5–20-flowered. Flowers white. Dorsal sepal oblong-elliptic to oblong-ovate, acute, relatively fleshy; lateral sepals obliquely ovate-elliptic, shortly apiculate. Petals rudimentary, triangular to ovate, adnate to the purple or yellow gynostemium. Labellum yellow or spotted with purple around the edges and yellow at the centre, obovate, fairly fleshy, distinctly thickened along the midvein, shortly channelled, trilobed: median lobe adnate to the lower face of the labellum, outline triangular to ligulate, obtuse, fleshy, finely papillose on both faces; lateral lobes obliquely triangular to semi-elliptic, fairly thin, membranous. Spur conical, blunt. - Pl. 106, p. 210.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt.? Epiphyte; dense humid lowland forest and foothills forest
 
-alt.? Épiphyte ; forêt dense humide de plaine et de contrefort montagneux
+MATERIAL EXAMINED (Map 41):
 
-MATÉRIEL ÉTUDIÉ (Carte 41) :
-
-Hallé & Villiers 4636b, Monts de Cristal, Chutes de Kinguélé (fl., Janv.), P!.
+Hallé & Villiers 4636b, Monts de Cristal, Chutes de Kinguélé (fl., Jan.), P!.
 
 ## Figures
 

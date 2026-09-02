@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — EXELL & MENDONÇA, Consp. Fl. Angol. 1 (2) : 254 (1951). — WILCZEK, Fl. Congo belge 7 : 228 (1958). — KEAY, FWTA ed. 2, 1 : 352 (1958).
 
 — Anomalopteris longifolia G. Don, Gen. Hist. 1 : 647 (1831).
@@ -39,11 +37,11 @@ tags: [species, generated]
 
 fa. longifolius
 
-Arbre ou arbuste lianescent atteignant 6 m de hauteur; jeunes tiges pubescentes à glabrescentes, ± squameuses, les adultes brun-sombre, glabres, lenticellées, de 0,3-0,5 cm de diamètre. Feuilles penninerves, sans stipules; pétiole éparsement pubescent à glabre, ± rugueux, long de 0,5-1 cm; limbe glabre, muni à la base de 2-6 glandes, obové à oblong-elliptique ou blancéolé à lancéolé, aigu à arrondi à la base aigu à acuminé-caudé au sommet, 13-31 × 3-11 cm. Nervures secondaires anastomosées, formant un angle presque droit avec la médiane, saillantes, ainsi que les nervures à la face inférieure seulement.
+Tree or lianescent shrub reaching 6 m in height; young stems pubescent to glabrescent, ± squamose, the adult ones dark brown, glabrous, lenticellate, 0.3–0.5 cm in diameter. Leaves penninerved, without stipules; petiole sparsely pubescent to glabrous, ± rugose, 0.5–1 cm long; blade glabrous, bearing 2–6 glands at the base, obovate to oblong-elliptic or lanceolate to lanceolate, acute to rounded at the base, acute to acuminate-caudate at the apex, 13–31 × 3–11 cm. Secondary veins anastomosing, forming an almost right angle with the midvein, prominent, as are the veins on the lower face only.
 
-Inflorescence terminale, pubescente, formant presque toujours un unique racème à axe robuste de 2-3 mm de diamètre; bractées pubescentes, triangulaires, dressées, persistantes, longues d'environ 1 mm; bractéoles semblables, plus petites, non glandulaires. Pédicelle pubescent, long de 1-2 mm. Calice orangé, à une seule glande; sépales pubescentes, ovés à oblongs, longs de 2-4 mm. Pétales jaunes,  $ \pm $ onguiculés, à limbe crénelé,  $ 10-13 \times 10 $ mm. Étamines glabres, longues d'environ 10 mm; anthères aiguës au sommet. Ovaire pubescent; styles courbés, glabres, longs de 6-7 mm; stigmates terminaux.
+Inflorescence terminal, pubescent, forming almost always a single raceme with a robust axis 2–3 mm in diameter; bracts pubescent, triangular, erect, persistent, approximately 1 mm long; bracteoles similar, smaller, not glandular. Pedicel pubescent, 1–2 mm long. Calyx orange, with a single gland; sepals pubescent, ovate to oblong, 2–4 mm long. Petals yellow, ± clawed, with limb crenate, 10–13 × 10 mm. Stamens glabrous, approximately 10 mm long; anthers acute at the apex. Ovary pubescent; styles curved, glabrous, 6–7 mm long; stigmas terminal.
 
-Fruits rouges à brun-rouge, composés de 2 (-3) samares, longues de 3-6 cm sur 1,5 cm de largeur. PL. 1, 6-8, p. 7.
+Fruits red to red-brown, composed of 2 (–3) samaras, 3–6 cm long by 1.5 cm wide. PL. 1, 6–8, p. 7.
 
 ## Type
 
@@ -53,11 +51,9 @@ Flamigni 6486, Zaïre (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Banks of watercourses, forest galleries, riparian forests.
 
-Bords des cours d'eau, galeries forestières, forêts ripicoles.
-
-Sous-bois de forêts sèches, du Gabon et du Zaïre.
+Understory of dry forests, of Gabon and Zaïre.
 
 ## Specimens examined
 

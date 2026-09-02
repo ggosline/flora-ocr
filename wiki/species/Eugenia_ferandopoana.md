@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2–4 m tall, or sometimes tree 7–8 m. Young branches pubescent. Leaves oblong or elliptic, acute at base, acuminate at apex, glabrous, 6–9 cm long and 3–5 cm wide, brown when dry. Petiole very short, about 2 mm long. Lateral veins 9–10 pairs.
 
-Arbuste de 2-4 m de haut, ou quelquefois arbre de 7-8 m. Jeunes rameaux pubescents. Feuilles oblongues ou elliptiques, aiguès à la base, acuminées au sommet, glabres, de 6-9 cm de long et 3-5 cm de large, brunes à l'état sec. Pétiole très court, d'environ 2 mm de long. Nervures latérales 9-10 paires.
+Flowers white, fasciculate on defoliate nodes, or axillary; pedicels pubescent, 2–5 mm long. Ovary more or less pubescent. Fruit subglobose, about 1.5 cm diameter. Embryo naked.
 
-Fleurs blanches, fasciculées sur des nœuds défeuillés, ou axillaires; pédicelles pubescents, de 2-5 mm de long. Ovaire plus ou moins pubescent. Fruit subglobuleux, d'environ 1,5 cm de diamètre. Embryon nu.
+Type of species: Mildbraed 6921 (Fernando-Po, B, probably lost). Proposed neotype: Mann 269 from Fernando-Po.
 
-Type de l'espèce : Mildbraed 6921 (Fernando-Po, B, probablement disparu). Néotype proposé : Mann 269 de Fernando-Po.
-
-Espèce très voisine de l'Eugenia obanensis Baker. En général, il est assez facile de reconnaître les deux espèces par la longueur différente des pétioles et des pédicelles; leur distribution n'est également pas la même. Cependant, il existe quelques exemplaires intermédiaires du Nigeria. Mann 1469 de Fernando-Po, cité par Keay, à des feuilles exceptionnellement grandes.
+Species very close to Eugenia obanensis Baker. In general, it is fairly easy to distinguish the two species by the different length of the petioles and pedicels; their distribution is also not the same. However, there exist some intermediate specimens from Nigeria. Mann 1469 from Fernando-Po, cited by Keay, has exceptionally large leaves.
 
 Fernando-Po, Gabon.
 

@@ -24,23 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pellegr., Fl. Mayombe 3 : 10 (1938).
 
-Arbuste de 1-5 m de hauteur, dressé, buissonnant, sarmenteux ou plus rarement lianescent. Jeunes extrémités brunes pubescentes. Entrenœuds à 4 arêtes ± nettes, longs de 1-4 cm. Stipules 4 par nœud, aiguës, dressées, longues de 1,5-3 mm, pubescentes, unies par deux à la base dans le bourgeon terminal puis disjointes. Pétiole de 2-7(11) mm de long, pubescent canaliculé. Limbe gris brunâtre ou olivâtre à sec, glabre ou à poils très épars dessus, glabre ou médiocrement pubescent dessous entre les nervures, elliptique, de 4-13 (16) × 1,5-4 (5,5) cm. Base du limbe aiguë, parfois brièvement, plus rarement arrondie. Sommet acuminé à caudé. Médiane glabrescente dessus; (4) 5-8 paires de nervures secondaires arquées ascendantes, ± pubescentes dessous.
+Shrub 1-5 m tall, erect, bushy, sarmentose or more rarely lianescent. Young shoots brown pubescent. Internodes with 4 ± distinct ridges, 1-4 cm long. Stipules 4 per node, acute, erect, 1.5-3 mm long, pubescent, united by twos at the base in the terminal bud then separate. Petiole 2-7(11) mm long, pubescent canaliculate. Lamina greyish-brown or olivaceous when dry, glabrous or with very scattered hairs above, glabrous or moderately pubescent below between the veins, elliptic, 4-13(16) × 1.5-4(5.5) cm. Base of lamina acute, sometimes briefly so, more rarely rounded. Apex acuminate to caudate. Midvein glabrescenct above; (4) 5-8 pairs of secondary veins arcuate ascending, ± pubescent below.
 
-Inflorescences variables; fleurs parfois solitaires et axillaires, plus souvent terminales à l'extrémité de rameaux latéraux, parfois fasciculées par deux, parfois disposées en grappe plur
+Inflorescences variable; flowers sometimes solitary and axillary, more often terminal at the tip of lateral branches, sometimes fascicled by twos, sometimes arranged in a raceme with one terminal flower. Some bracts are laminate, the ultimate ones reduced to acute scales and sometimes subopposite. Pedicel 2-12 mm, finely pubescent. Calyx turbinate over 3-4 mm, with 5(6) elliptic foliaceous lobes, green subequal 9-17 × 2-6 mm, with petiolate base, pubescent or glabrous. Corolla tube pale green, 18-27 × 2 mm, pubescent; 5(6) lobes pure white, 20-28 × 8-15 mm, with margins finely fringed-denticulate. Anthers greyish 3 × 0.5 mm, inserted either towards the upper third (longstyle form) or at the top of the tube (shortstyle form). Internal hairiness of the corolla short in the tube, abundant, yellow and prominent at the throat. Style green, narrow, glabrous, with 2 elliptic stigmatic lobes, either less than half the length of the tube or slightly exceeding the throat. Small fleshy disc pale yellow, toroid.
 
-flore avec une fleur terminale. Certaines bractées sont ⊥laminées, les ultimes réduites à des écailles aiguës et parfois subopposées. Pédicelle de 2-12 mm, finement pubescent. Calice turbiné sur 3-4 mm, à 5(6) lobes elliptiques foliacés, verts subégaux de 9-17 × 2-6 mm, à base ⊥pétiolée, ⊥pubescents ou glabres. Tube de la corolle vert clair, de 18-27 × 2 mm, pubescent; 5(6) lobes d'un blanc pur, de 20-28 × 8-15 mm, à marges finement frangés-denticulées. Anthères grisâtres de 3 × 0,5 mm, insérées soit vers le tiers supérieur (forme longistyle), soit en haut du tube (forme brévystyle). Pilosité interne de la corolle brève dans le tube, abondante, jaune et saillante à la gorge. Style vert, étroit, glabre, à 2 loges stigmatiques elliptiques, soit inférieur à la moitié du tube, soit dépassant un peu la gorge. Petit disque charnu jaune pâle, toriforme.
+Fruit globoid reaching 1.5 cm diam., ochre-yellow, glabrescenct, with persistent sepals; pericarp thin becoming coriaceous before drying. Seeds (approx. 850 in a fruit, N.H. and G.C. 6057) 1-1.5 mm, irregularly ovoid-angular, with reticulate brownish tegument (fig. 2, p. 19).
 
-Fruit globoïde atteignant 1,5 cm de diam., jaune ochracé, glabrescent, à sépales persistants; péricarpe peu épais devenant coriace avant de sécher. Graines (env. 850 dans un fruit, N.H. et G.C. 6057) de 1-1,5 mm, irrégulièrement ovoïdes-anguleuses, à tégument réticulé brunâtre (fig. 2, p. 19).
+Type from Guinea (not seen).
 
-Type de Guinée (non vu).
+This species is rather variable in the specimens that can be attributed to the typical form: the leaves are ± broad and ± varnished above; the inflorescences are ± floriferous and ± lax; the length of the pedicels is very variable; the habit is also very variable, and certain specimens are noted as lianes (Klaine 778, 1504, Walker s. n. B).
 
-Cette espèce est assez variable dans les spécimens que l'on peut rattacher à la forme typique : les feuilles sont  $ \pm $ larges et  $ \pm $ vernissées dessus; les inflorescences sont  $ \pm $ florifères et  $ \pm $ lâches; la longueur des pédicelles est très variable; le port est aussi très variable, et certains spécimens sont notés comme lianes (Klaine 778, 1504, Walker s. n. B).
-
-Forêts et friches. De la Guinée à l'Angola; dans certaines régions du Congo et de l'Oubangui, la variété splendida décrite ci-dessous remplace les formes ± typiques.
+Forests and wastelands. From Guinea to Angola; in certain regions of Congo and Ubangi, the variety splendida described below replaces the ± typical forms.
 
 ## Vernacular names
 
@@ -48,19 +44,17 @@ Adzem (Fang, d'après Heitz, Fleury); Mabire, Akouli, Akvau, Okao (ancien Pahoui
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Fruit edible, sweet and slightly sour (Thollon).
 
-Fruit mangeable, sucré et aigrelet (Thollon).
-
-L'échantillon Mgr Le Roy s. n., arbuste du Fernan-Vaz, à fleurs pentamères et dessus des limbes pubérulents sans être scabres, fait la transition avec la variété qui suit.
+The specimen Mgr Le Roy s. n., shrub from Fernan-Vaz, with pentamerous flowers and pubescent lamina surface without being scabrous, forms a transition with the variety that follows.
 
 — var. splendidæ N. Hallé var. nov. (= H. splendidæ A. Chev., Et. Fl. Afr. C. Fr. 1:149, 1913, nomen).
 
-A typo calycis hirsutis, foliis insuper puberulis, differt.
+Differs from type by hirsute calyx and leaves pubescent above.
 
-Cette variété a de jeunes entrenœuds plus nettement pubescents et parfois velus; les feuilles sont ± finement pubescentes dessus; le nombre des nervures secondaires atteint 7-11 paires; le tube du calice est grossièrement velu ainsi que la base des lobes; sommet des pétales souvent assez longuement effilé (1-5 mm); fruit ± pubescent.
+This variety has young internodes more distinctly pubescent and sometimes villous; the leaves are ± finely pubescent above; the number of secondary veins reaches 7-11 pairs; the calyx tube is coarsely villous as well as the base of the lobes; apex of petals often fairly elongately tapered (1-5 mm); fruit ± pubescent.
 
-Centrafrique, région de Brazzaville, Mayombe, Congo ex-belge.
+Central African Republic, Brazzaville region, Mayombe, Belgian Congo.
 
 ## Specimens examined
 

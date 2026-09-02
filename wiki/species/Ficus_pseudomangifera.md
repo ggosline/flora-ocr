@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - F. mangiferoides HUTCH., l.c.: 342 (1915): in HUTCH. & RENDLE, FTA 6 (2): 205 (1917); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 166 (1948); KEAY, l.c.: 611 (1958). TYPE: Zenker 1690, Cameroun, Bipindi (holo-, K; iso-, B, BR, L, P).
 
-Arbre épiphyte (étrangleur) petit ou moyen d'une hauteur atteignant 10 m. Rameaux feuillés épais de 3-6 mm, glabres ou densément petitement pubérulents brunâtres ou cet indument mélangé avec des poils blancs plus longs, gris sombre ou marron à noirâtres sur le sec. Feuilles disposées en spirales ou tendant à être distiques. Limbe oblong à lancéolé ou quelquefois à elliptique, long de 8-32 cm, large de 2-9 cm, quelquefois grossièrement inégal, coriace, sommet (clairement) acuminé,
+Small to medium-sized epiphytic (strangler) tree reaching a height of 10 m. Leafy branchlets 3-6 mm thick, glabrous or densely minutely puberulent brownish or this indumentum mixed with longer white hairs, dark grey or blackish-brown when dry. Leaves arranged in spirals or tending to be distichous. Lamina oblong to lanceolate or sometimes elliptic, 8-32 cm long, 2-9 cm wide, sometimes coarsely unequal, coriaceous, apex (clearly) acuminate, base rounded to acute or (sub)cordate, margin entire; both surfaces glabrous; midvein coarsely concave to plane and other veins coarsely prominent above; 14-17 pairs of lateral primary veins, often not well distinguishable from ± developed secondary lateral veins, without distinct basal veins, lateral veins often straight and fused in a loop 1.5-3 mm from the lamina margin; glandular spot often visible. Petiole 1-3 cm long, 3 mm thick, glabrous. Stipules free, 0.2-0.5 cm long, ± densely appressed pubescent greyish to brownish-yellowish; occasionally sparsely very minutely puberulent.
 
-base arrondie à aiguë ou à (sub) cordée, bord entier ; les deux surfaces glabres ; nervure médiane grossièrement concave à plane et les autres nervures grossièrement saillantes dessus ; 14-17 paires de nervures primaires latérales, souvent pas bien discernables des nervures latérales secondaires ± développées, sans nervures basales distinctes, nervures latérales souvent rectilignes et souduées en boucle à 1,5-3 mm du bord du limbe ; tache glanduleuse souvent visible. Pétiole long de 1-3 cm, épais de 3 mm, glabre. Stipules libres, longues de 0,2-0,5 cm, ± densément pubéculntes apprimées grisâtres à marron-jaunâtre ; occasionnellement éparsement très petitement pubérulentes.
+Figs in pairs or up to 6 together in the leaf axils or on short spurs below the leaves; peduncle 0.3-0.8 cm long, approximately 1 mm thick, very minutely puberulent to almost glabrous; basal bracts 2, broadly ovate to semi-circular, 2-3 mm long, 2-3 mm wide, united basally, very minutely puberulent or sparsely shortly pilose; receptacle (sub)globose, 0.6-1.2 cm in diameter when fresh, approximately 0.3-0.7 when dry, sparsely very minutely puberulent, orange to red at maturity, ostiole coarsely prominent, bilabiate.
 
-Figues par paires ou jusqu'à 6 ensemble dans les aisselles des feuilles ou sur de courts éperons sous les feuilles ; pédoncule long de 0,3-0,8 cm, épais de 1 mm environ, très petitement pubérulent à presque glabre ; bractées basales 2, largement ovées à semi-circulaires, longues de 2-3 mm, larges de 2-3 mm, soudées basalement, très petitement pubérulentes ou éparsement courtement pileuses ; réceptacle (sub) globuleux, d'un diamètre de 0,6-1,2 cm sur le frais, 0,3-0,7 environ sur le sec, éparsement, très petitement pubérulent, orange à rouge à maturité, ostiole grossièrement saillant, bilabié.
-
-Fleurs pistillées avec 3 têpales inégaux, longs de 0,7-1,7 mm environ, libres ; fleurs à graines sessiles, style long de 1 mm environ ; fleurs à galles à pédicelle atteignant une longueur de 0,7 mm, style long de 0,3 mm environ. Fruits longs de 1 mm environ, avec une base large ; fruits à galles longs de 1,5 mm environ, se rétrécissant vers la base à grossièrement stipités ; fruits bicolores. Fleurs staminées peu nombreuses à plusieurs, quelquefois en groupe, sessiles à courtement pédicillées, périanthe avec 3 têpales, atteignant une longueur de 1 cm, libres, filet court ou presque absent, anthère long de 0,8 mm environ. Bractées interflorales peu nombreuses, longues de 1 mm environ. - Pl. 51, p. 181.
+Pistillate flowers with 3 unequal tepals, approximately 0.7-1.7 mm long, free; seed flowers sessile, style approximately 1 mm long; gall flowers with pedicel reaching 0.7 mm, style approximately 0.3 mm long. Fruits approximately 1 mm long, with broad base; gall fruits approximately 1.5 mm long, narrowing towards the base to coarsely stipitate; fruits bicolorous. Staminate flowers few to numerous, sometimes in groups, sessile to shortly pedicillate, perianth with 3 tepals, reaching 1 cm long, free, filament short or almost absent, anther approximately 0.8 mm long. Interflorals bracts few, approximately 1 mm long. - Pl. 51, p. 181.
 
 ## Type
 
@@ -35,13 +31,11 @@ Mildbraed 1145, Zaire, lac Kivu, île Wau (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species can, even when sterile, normally be recognized by the dense yellow indumentum of the stipules. The lateral primary veins are visible on some specimens, but are indistinct on other specimens because of the well-developed lateral secondary veins.
 
-Cette espèce peut, même stérile, normalement être reconnue par l'indument dense jaune des stipules. Les nervures primaires latérales sont visibles sur quelques spécimens, mais sont indistinctes sur d'autres spécimens à cause des nervures secondaires latérales bien développées.
+The range of this species extends from Sierra Leone to Zaire and Uganda.
 
-L'aire de cette espèce s'étend de la Sierra Leone au Zaïre et à l'Ouganda.
-
-Hijman & Weerdenburg 390, 444, 10 km SW Makokou (fig., janv. ou stér.). Hladik 2754, Mpassa, 10 km Makokou (fig., avr.). Slootweg & Missler 1, 10 km SW Makokou, riv. Ivindo (fig., mars).
+Hijman & Weerdenburg 390, 444, 10 km SW Makokou (fig., Jan. or ster.). Hladik 2754, Mpassa, 10 km Makokou (fig., Apr.). Slootweg & Missler 1, 10 km SW Makokou, riv. Ivindo (fig., Mar.).
 
 ## Figures
 

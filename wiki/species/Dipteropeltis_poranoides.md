@@ -17,25 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane , ± grêle, au moins jusqu’à 10 m de longueur ; rameaux glabrescents ; ramilles, pétioles et inflorescences ± brun velouté . Feuille : pétiole subcylindrique , caniculé dessus, (3–)7–15(–18) mm, glabrescent ; limbe elliptique ou parfois ové, 4–12 × 2–4,5(–7,5) cm, arrondi à cordé à la base, sommet à acumen mucroné, de (0,5–)1–2,5 cm de longueur, papyracé, à 4–5(–7) paires de nervures latérales, pubérulent à l’état jeune, tôt glabrescent dessus sauf sur la médiane imprimée, poils plus longtemps persistants sur le dessous des nervures principales. Inflorescence thyrsoïde, axillaire et terminale, jusqu’à 35 cm de longueur, à branches latérales espacées, avec jusqu’à 7-fleurs ; bractées et bractéoles étroitement triangulaires à oblongues, 2–4 mm de longueur. Fleur : pédicelle 2–7 mm ; sépales inégaux, ovés-elliptiques, 3–5 × 1,5–2,5 mm, aigus, brun velouté ; corolle campanulée, 6–8 mm de longueur, à lobes réfléchis, 2–4 mm de longueur , partiellement ferrugineux-tomenteux sur les deux faces ; étamines 6–9 mm de longueur, exsertes ,
-
-glabres ou presque, anthères 1,5–2 mm de longueur ; disque en coussinet, peu apparent ; pistil 4–5,5 mm de longueur, ovaire ± ovoïde, 1–2 mm de longueur, villeux ; styles villeux, environ 4 mm de longueur, stigmates ± claviformes . Fruit ellipsoïde , environ 10 mm de longueur, éparsement pubérulent, enveloppé par les deux sépales externes accrescents, ± circulaire, 4–5,5 cm de diamètre, profondément cordés à la base, émarginés au sommet, ± éparsement pubérulents. Graines mûres non vues.
+Liane, ± slender, at least up to 10 m in length; branchlets glabrescenct; ramilles, petioles and inflorescences ± brown velutinous. Leaf: petiole subcylindric, channelled above, (3–)7–15(–18) mm, glabrescenct; blade elliptic or sometimes ovate, 4–12 × 2–4.5(–7.5) cm, rounded to cordate at base, apex with a mucronate acumen, (0.5–)1–2.5 cm in length, papyraceous, with 4–5(–7) pairs of lateral nerves, puberulent when young, early glabrescenct above except on the impressed midrib, hairs more persistently present on the underside of the principal nerves. Inflorescence thyrsoid, axillary and terminal, up to 35 cm in length, with spaced lateral branches, with up to 7-flowered; bracts and bracteoles narrowly triangular to oblong, 2–4 mm in length. Flower: pedicel 2–7 mm; sepals unequal, ovate-elliptic, 3–5 × 1.5–2.5 mm, acute, brown velutinous; corolla campanulate, 6–8 mm in length, with reflexed lobes, 2–4 mm in length, partially ferruginous-tomentose on both faces; stamens 6–9 mm in length, exserted, glabrous or nearly so, anthers 1.5–2 mm in length; disc cushion-like, inconspicuous; pistil 4–5.5 mm in length, ovary ± ovoid, 1–2 mm in length, villous; styles villous, approximately 4 mm in length, stigmas ± claviform. Fruit ellipsoid, approximately 10 mm in length, sparsely puberulent, enveloped by the two accrescent external sepals, ± circular, 4–5.5 cm in diameter, deeply cordate at base, emarginate at apex, ± sparsely puberulent. Mature seeds not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, République Centrafricaine, Guinée Équatoriale, Gabon, République du Congo, République Démocratique du Congo et Angola (Cabinda) ; au Gabon, l’espèce a été récoltée dans toutes les provinces
+Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, the species has been collected in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondarized forest; in Gabon up to 600 m altitude, elsewhere up to 1000 m
 
-forêt primaire et secondarisée ; au Gabon à jusqu’à 600 m d’altitude, ailleurs jusqu’à 1000 m
-
-Note taxonomique : La subdivision de cette espèce en variétés (De Wildeman 1912 & Good 1929) a été supprimée par Lejoly & Liswoski (1993). Leur traitement est suivi ici, sauf leur mise en synonymie de Dipteropeltis mayumbensis R.D.Good (Breteler 1995). B : Breteler (1995), Lejoly & Lisowski (1993). ibliographie
+Taxonomic note: The subdivision of this species into varieties (De Wildeman 1912 & Good 1929) was suppressed by Lejoly & Liswowski (1993). Their treatment is followed here, except their synonymization of Dipteropeltis mayumbensis R.D.Good (Breteler 1995). B: Breteler (1995), Lejoly & Lisowski (1993). Bibliography
 
 ## Notes
 

@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Harley, Contrib. Gray Herb. 177 : 92 (1955).
 
-Rhizome court, à frondes en touffes, couvert d'écailles étroitement lancéolées, échancrées à la base, glanduleuses au sommet, formées de cellules à parois foncées, minces, lumière jaune rougeâtre. Pétiole obscurément articulé, grisâtre, long de 3-4 cm, portant de très nombreux poils longs, dressés, ferrugineux. Limbe de 6-12 cm sur 3-4 de large, lancéolé, profondément pinnatifide jusqu'au rachis ailé, à lobes linéaires, décurrents, longs de 1 cm sur 0,2 o,3 de large, arrondis au sommet, à marges entières légèrement ondulées. Surface inférieure et supérieure, marges, costa, portant des poils irrégulièrement disséminés, épais, en aiguillon, noirâtres ou roux. Nervures invisibles. Texture épaisse. Coloration brun clair sur le sec. Sores arrondis, en deux rangées dans chaque lobe.
+Rhizome short, with fronds in tufts, covered with narrowly lanceolate scales, erose at the base, glandular at the apex, formed of cells with dark, thin-walled cells, yellowish-reddish light. Petiole obscurely articulate, greyish, 3-4 cm long, bearing very numerous long, erect, ferruginous hairs. Lamina 6-12 cm by 3-4 cm wide, lanceolate, deeply pinnatifid to the winged rachis, with linear, decurrent lobes, 1 cm long by 0.2-0.3 cm wide, rounded at the apex, with entire margins slightly undulate. Lower and upper surface, margins, costa, bearing irregularly scattered, thick, acicular, blackish or reddish hairs. Veins invisible. Texture thick. Coloration pale brown when dry. Sori rounded, in two rows in each lobe.
 
 ## Type
 

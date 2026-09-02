@@ -22,21 +22,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine reaching 7–8 m in height. Extremities and young internodes clothed with pale reddish hairs when dry. Stipules bifid, 8–12 mm, villous, often reflexed. Petioles 10–30 mm, often unequal within the same pair. Lamina 6–14 × 2.8–8.5 cm, pubescent on both surfaces; base acute, sometimes variable to cordate. Apex acute ± lanceolate. 8–11 pairs of secondary nerves pubescent as well as the midvein.
 
-Liane atteignant 7-8 m de hauteur. Extrémités et jeunes entrenœuds vêtus de poils roux clair à sec. Stipules bifides de 8-12 mm, velues, souvent réfractées. Pétioles de 10-30 mm, souvent inégaux dans une même paire. Limbe de 6-14 × 2,8-8,5 cm, pubescent sur les deux faces; base aiguë, parfois variable jusqu'à cordée. Sommet aigu ± lancéolé. 8-11 paires de nervures secondaires pubescentes ainsi que la médiane.
+Inflorescence pubescent ± contracted, bordered by 1–5 scarlet-red foliaceous sepals of variable dimensions, 2 to 8.5 cm broad. Calyx and buds reddish or brown villous. Calyx lobes oblong-lanceolate, 7–15 × 1.5–4 mm. Corolla tube villous, 1.5–2.5 cm long, with apparent internal pubescence at the throat, reddish or brown. Petals fused beyond the throat, lobed only 3–5 mm long, ± rounded apiculate, white, cream-white or yellow. Style slender, glabrous, with oblong, bilobed clavate apex, slightly exceeding the throat in the longistyle form.
 
-Inflorescence pubescente ± contractée, bordée par 1-5 sépales foliacés rouge écarlate de dimensions variables, larges de 2 à 8,5 cm. Calice et boutons rougeâtres ou bruns velus. Lobes du calice oblongs-lancéolés de 7-15 × 1,5-4 mm. Tube de la corolle velu, long de 1,5-2,5 cm, à pubescence interne apparente à la gorge, rougeâtre ou brune. Pétales soudés au delà de la gorge, lobés seulement sur 3-5 mm de long, ± arrondis apiculés, blancs, blanc-crème ou jaunes. Style grêle, glabre, à massue oblongue, bilobée, dépassant un peu la gorge dans la forme longistyle.
+Infructescence with axes somewhat accrescent. Fruits elliptic or oblong exceeding 2 × 1 cm, ± pubescent or hirsute, with calyx lobes finally caducous.
 
-Infrutescence à axes un peu accrescents. Fruits elliptiques ou oblongs dépassant  $ 2 \times 1 \, cm $,  $ \pm $ pubescents ou hirsutes, à lobes du calice finalement caducis.
+Type from Ghana (?, not seen); type of M. splendida: Welwitsch 1116 (isotype P!), from Angola.
 
-Type du Ghana (? , non vu); type de M. splendida : Welwitsch 1116 (isotype P!), de l'Angola.
+A closely related species M. leucophylla Petit, known from the Congolese Mayombe, is distinguished by its attractive yellow lobes and not red ones, and by a fine and dense piloseness in addition to the long hairs of the fruits, stems and underside of the leaf laminas.
 
-Un espèce voisine M. leucophylla Petit, connue du Mayombe congolais, se distingue par ses lobes attractifs jaunes et non rouges, et par une pilosité fine et dense s'ajoutant aux poils longs des fruits, tiges et dessous des limbes foliaires.
+M. erythrophylla is widely distributed from western Guinea to East Africa. In Gabon in forest margins and along roadsides on well-drained soil. Absent from the most humid regions.
 
-M. erythrophylla est largement répandu de la Guinée occidentale jusqu'en Afrique orientale. Au Gabon dans les lisières et au bord des routes sur sol drainé. Manque dans les régions les plus humides.
-
-Plante d'intérêt ornamental et dont les feuilles sont citées comme comestibles au Congo.
+Plant of ornamental interest and whose leaves are cited as edible in Congo.
 
 ## Specimens examined
 

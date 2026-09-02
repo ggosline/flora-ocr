@@ -21,13 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bas. : Polypodium efulense Bak., Kew Bull. : 299 (1897).
 
-Rhizome dressé, épais, à frondes en rosettes portant d'étroites écailles brun roux, étroitement linéaires, formées de cellules à parois minces, contenu jaune clair. Fronde de plus de 1,50 m de haut. Pétiole straminé-rougeâtre, atteignant 70 cm, portant, à la base, les mêmes écailles que le rhizome. Limbe deltoïde, tripinnatifide à la base. Pennes inférieures pétiolées, ayant 60 cm de long sur 25-30 de large, très développées basiscopiquement, espacées d'environ 10 cm, faisant un angle presque droit avec le rachis, pennées à la base, pinnatifides au sommet. Pinnules
-
-alternes, espacées, à angle droit, subsessiles ou sessiles, longues de 4-5 cm sur 1,5-2 de large, les basiscopes et les acroscopes sensiblement égales, divisées elles-mêmes en pinnules de  $ 2^{e} $ ordre oblongues, arrondies, crénelées-dentées. Rachis portant, à la face supérieure, de courts poils roux, très légèrement tomenteux à la face inférieure. Face inférieure du limbe portant de nombreuses glandes jaunes, cylindriques. Nervures pennées dans les lobes. Texture mince. Coloration vert olive foncé sur le sec. Sores petits, arrondis, généralement exindusies.
+Rhizome erect, thick, bearing fronds in rosettes with narrow reddish-brown scales, narrowly linear, formed of thin-walled cells, with pale yellow contents. Frond more than 1.50 m tall. Stipe straw-coloured to reddish, reaching 70 cm, bearing at the base the same scales as the rhizome. Lamina deltoid, tripinnatifid at the base. Lower pinnae petiolate, 60 cm long by 25–30 cm wide, very much developed basiscopic, spaced about 10 cm apart, making an almost right angle with the rachis, pinnate at the base, pinnatifid at the apex. Pinnules alternate, spaced, at right angles, subsessile or sessile, 4–5 cm long by 1.5–2 cm wide, the basiscopic and acroscopic ones roughly equal, themselves divided into second-order pinnules that are oblong, rounded, crenate-dentate. Rachis bearing short reddish hairs on the upper surface, very slightly tomentose on the lower surface. Lower surface of lamina bearing numerous yellow, cylindrical glands. Veins pinnate in the lobes. Texture thin. Colouration dark olive-green when dry. Sori small, rounded, generally exindusiate.
 
 ## Type
 

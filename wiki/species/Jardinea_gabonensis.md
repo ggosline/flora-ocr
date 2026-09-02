@@ -21,19 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , nomen; Syn. Pl. Glum. I : 360 (1855). -- FRANCH. Contr. Fl. Congo Fr. : 12. (1896) — HACK. D.C. Monogr. Phan. VI : 276. — STAFF, F.T.A. IX : 51 (1917).
 
-Herbe pérenne, cespiteuse, pouvant dépasser deux mètres de haut. Chaumes arrondis, glabres, simples ou avec quelques tiges feuillées à partir des nœuds supérieurs. Gaines foliaires glabres ou légèrement pubescentes, les inférieures aplaties et longuement persistantes. Ligule membraneuse tronquée courte, pubescente avec de longs cils sur le dos. Feuilles linéaires, longuement aiguës à l'extrémité et passant progressivement à la gaine vers la base, pouvant dépasser 30 cm de long et 8 mm de large, glabres sauf quelques longs poils sur la face supérieure vers la base. Nervure médiane scabre.
+Perennial herb, caespitose, capable of exceeding two metres in height. Culms rounded, glabrous, simple or with a few leafy shoots arising from the upper nodes. Leaf sheaths glabrous or slightly pubescent, the lower ones flattened and long-persistent. Ligule membranous, truncate, short, pubescent with long cilia on the abaxial surface. Leaves linear, long-acuminate at the apex and gradually passing into the sheath towards the base, capable of exceeding 30 cm long and 8 mm wide, glabrous except for a few long hairs on the adaxial surface near the base. Midvein scabrous.
 
-Racèmes disposés sur un axe commun d'une dizaine de centimètres de long; les inférieurs pédonculés et parfois composés les supérieurs subsessiles. Articles du rachis linéaires, claviformes, de 6 à 8 mm de long, plus ou moins scabres sur les nervures ou les angles. Pédicelles aplatis, un peu plus courts, ciliolés sur l'angle interne.
+Racemes arranged on a common axis about ten centimetres long; the lower ones pedunculate and sometimes compound, the upper ones subsessile. Rachis articles linear, claviform, 6 to 8 mm long, more or less scabrous on the nerves or angles. Pedicels flattened, somewhat shorter, ciliolate on the inner angle.
 
-Épillet sessile linéaire lancéolé, de 6 à 8 mm de long, avec un callus annulaire courtement pubescent. Glume inférieure tuberculée, à trois nervures entre les deux carènes latérales. Glume supérieure un peu plus courte, aiguë, ciliée épineuse sur la carène; 5 nervures. Glumelle inférieure stérile de 5 à 6 mm de long, linéaire lancéolée; glumelle supérieure souvent supprimée. Glumelle inférieure fertile très semblable à la stérile; glumelle supérieure étroite, à peine plus courte et à deux nervures. Anthères de 3 mm de long. Épillets pédicellés réduits soit à une étroite glume ayant jusqu'à 3 mm de long, soit au pédicelle seulement.
+Sessile spikelet linear-lanceolate, 6 to 8 mm long, with a shortly pubescent annular callus. Lower glume tuberculate, with three nerves between the two lateral keels. Upper glume somewhat shorter, acute, spinose-ciliate on the keel; 5 nerves. Sterile lower floret 5 to 6 mm long, linear-lanceolate; upper floret often suppressed. Fertile lower floret very similar to the sterile one; upper floret narrow, scarcely shorter and with two nerves. Anthers 3 mm long. Pedicellate spikelets reduced either to a narrow glume up to 3 mm long, or to the pedicel only.
 
-Outre le Gabon, cette espèce est signalée du Congo Fr. et du Congo Belge.
+Besides Gabon, this species is recorded from French Congo and Belgian Congo.
 
-Il ne semble pas y avoir d'utilisation fourragère possible pour cette plante; elle n'est généralement pas appétée par le bétail.
+There does not appear to be any possible fodder use for this plant; it is generally not palatable to livestock.
 
 ## Specimens examined
 

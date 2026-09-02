@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with creeping stolons, pubescent; culms creeping at the base, then erect and branched. Leaves pubescent with tuberculate hairs, scarious ligules short, blades linear, 5 to 8 × 0.5 cm.
 
-Herbe pérenne à stolons rampants, pubescente; chaumes rampants à la base, puis dressés et ramifiés. Feuilles pubescentes à poils tuberculés, ligules scarieuses courtes, limbes linéaires, 5 à 8 × 0,5 cm.
+Rachis of racemes slender, 1/3 mm wide; pedicels geminate, the longer up to 2 mm long.
 
-Rachis des racèmes minces, 1/3 de mm de large pédicelles géminés, le plus long jusqu'à 2 mm de long.
+Spikelets acuminate, practically glabrous, 2 mm long. Lower glume truncate, surrounding the spikelet, 1/4 mm; upper glume as long and wide as the spikelet, glabrous or with a narrow pubescent marginal fringe. Lower lemma similar to the upper glume, but with 7 nerves, palea minute. Upper floret approximately 1.5 mm long, of light colour.
 
-Épillets acuminés, pratiquement glabres, de 2 mm de long. Glume inférieure tronquée, entourant l'épillet, 1/4 de mm; glume supérieure aussi longue et large que l'épillet, glabre ou avec une étroite frange marginale pubescente. Lemma inférieure semblable à la glume supérieure, mais à 7 nervures, paléa minuscule. Fleur supérieure d'environ 1,5 mm de long, de teinte claire.
-
-Espèce connue uniquement du Bas-Congo et du Gabon, en peuplements dans les zones marécageuses, fourrage probablement médiocre.
+Species known only from Lower Congo and Gabon, in stands in marshy areas, forage probably mediocre.
 
 ## Specimens examined
 

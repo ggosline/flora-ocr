@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Branchlets rounded, finely pubescent. Leaves with petiole pubescent to tomentellous (hairs 0.1–0.2 mm) all around, with blade cuneate at the base, acuminate, thin, green, glabrous except on the midvein hairy on both faces (hairs 0.1–0.2 mm); lateral leaflets equal to two-thirds of the median.
 
-Rameaux arrondis finement pubescents. Feuilles à pétiole pubescent à tomentelleux (poils de 0,1-0,2 mm) tout autour, à limbe cunée à la base, acuminé, mince, vert, glabre, sauf sur la nervure médiane velue sur les 2 faces (poils de 0,1-0,2 mm); folioles latérales égales aux 2/3 de la médiane.
-
-Fleurs blanches; disque et style velus. Fruit rouge, noircissant sur le sec, 5-7 mm. PL. 5, 5-10, p. 37.
+Flowers white; disk and style hairy. Fruit red, blackening when dry, 5–7 mm. PL. 5, 5–10, p. 37.
 
 ## Type
 
@@ -29,9 +27,7 @@ Le Testu 7823, Gabon (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les limbes des pétales sont glabres chez Le Testu 7063 et Jacques-Félix 4770. L'espèce est connue au Zaïre (Louis 4281 et Gilbert 2052).
+The petal blade margins are glabrous in Le Testu 7063 and Jacques-Félix 4770. The species is known from Zaïre (Louis 4281 and Gilbert 2052).
 
 ## Specimens examined
 

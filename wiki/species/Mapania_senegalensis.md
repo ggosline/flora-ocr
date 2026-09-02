@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, avec un rhizome ligneux dressé épais d’environ 1 cm ; tiges 1–4, latérales , naissant à l’aisselle des feuilles inférieures (souvent décomposées), 8–40 cm × 0,8–2 mm, vertes à pourpres, trigones à presque cylindriques, glabres. Feuilles basales souvent 15–20, très serrées en deux rangées opposées ; gaine peu distincte, verte ou jaune paille ; limbe linéaire, 60–80 × 1–2 cm , plan, scabre sur la marge et les nervures principales, au moins vers l’apex. Inflorescence terminale, en anthèle contractée, large de 2 cm (jusqu’à 4 cm en Afrique de l’Ouest), blonde à brun pâle, rameaux latéraux visibles ou non ; bractées involucrales 2–5, glumacées à foliacées, 5–20 × 2,5–3 mm, plus courtes à légèrement plus longues que l’inflorescence, verdâtres ou violacées avec de nombreuses nervures proéminentes ; épis ovales–elliptiques, 4–7 × 2–2,5 mm à la floraison, s’allongeant souvent à 9–10 mm à la fructification, à 20–25 fleurs ; bractées spicoïdales très serrées, ovales–elliptiques, longues de 2–3 mm, blondes à brunes avec des marges blondes. Fleur : bractées florales 2 , lancéolées, longues de 1–3 mm, brun rougeâtre clair, carène non ailée et scabre, sommet aigu à presque arrondi ; style à 2 branches. Akènes mûrs non vus.
+Robust herb, with a woody erect rhizome ca. 1 cm thick; stems 1–4, lateral, arising at the axil of the lower leaves (often decomposed), 8–40 cm × 0.8–2 mm, green to purple, trigonous to almost cylindrical, glabrous. Basal leaves often 15–20, very densely arranged in two opposite rows; sheath indistinct, green or straw-yellow; blade linear, 60–80 × 1–2 cm, flat, scabrous on the margin and main nerves, at least towards the apex. Inflorescence terminal, in a contracted anthela, 2 cm wide (up to 4 cm in West Africa), blonde to pale brown, lateral branches visible or not; involucral bracts 2–5, glumaceous to foliaceous, 5–20 × 2.5–3 mm, shorter to slightly longer than the inflorescence, greenish or violaceous with numerous prominent nerves; spikes ovate–elliptic, 4–7 × 2–2.5 mm at flowering, often elongating to 9–10 mm at fruiting, with 20–25 flowers; spicoid bracts very densely packed, ovate–elliptic, 2–3 mm long, blonde to brown with blonde margins. Flower: floral bracts 2, lanceolate, 1–3 mm long, light reddish-brown, keel not winged and scabrous, apex acute to almost rounded; style 2-branched. Mature achenes not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée Conakry, Sierra Leone et Gabon ; au Gabon, seulement à Minkébé dans le Woleu-Ntem (2 récoltes)
+Guinea Conakry, Sierra Leone and Gabon; in Gabon, only at Minkébé in the Woleu-Ntem (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt riveraine et forêt claire à Gilbertiodendron ; au Gabon, vers 500 m d’altitude. Note taxonomique : très variable en Afrique de l’Ouest comme au Gabon. Elle est très proche de M. heteromorpha , mais en diffère par ses épis plus pâles et ses inflorescences plus compactes. Comme les plantes récoltées au Gabon sont immatures, il faut considérer les identifications comme préliminaires. b : Nelmes (1955a), Hooper & Napper (1972). ibliographie
+riparian forest and open forest with Gilbertiodendron; in Gabon, ca. 500 m elevation. Taxonomic note: very variable in West Africa as in Gabon. It is very close to M. heteromorpha, but differs by its paler spikes and more compact inflorescences. As the plants collected in Gabon are immature, identifications should be considered preliminary. b: Nelmes (1955a), Hooper & Napper (1972). Bibliography
 
 a b
 

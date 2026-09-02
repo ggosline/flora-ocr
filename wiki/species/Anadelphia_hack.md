@@ -16,21 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1 Single sessile spikelet per raceme ..... A. trispiculata
 
-1 Un seul éfillet sessile par racème ..... A. trispiculata
+2. Sessile spikelets 3-6 per raceme ..... A. leptocoma
 
-2. Épillets sessiles 3-6 par racème ..... A. leptocoma
+2. Sessile spikelets 2 per raceme :
 
-2. Épillets sessiles 2 par racème :
+3. Raceme peduncle as long as or longer than the spathiole; lower glume of spikelet acute; lemma of upper floret bearing an awn 1.2-2 cm long . . . A. hamata
 
-3. Pédoncule du racème long autant et plus que la spathéole ; glume inférieure de l'épillet aiguë ; lemma de la fleur supérieure munie d'une arête longue de 1,2-2 cm . . . A. hamata
-
-3. Pédoncule du racème plus court que la spathéole ; glume inférieure de l'épillet sessile tronquée ; lemma de la fleur supérieure munie d'une arête longue de 3-4 cm .A. afzeliana
+3. Raceme peduncle shorter than the spathiole; lower glume of sessile spikelet truncate; lemma of upper floret bearing an awn 3-4 cm long .A. afzeliana
 
 2.1 Anadelphia afzeliana (Rendle) Stapf
 
-FWTA : 501 ; Gram. Cam. : 502 ; Poac. CI. : 628, 629 ; Gram. CB. : 317.
+FWTA : 501 ; Gram. Cam. : 502 ; Poac. Cl. : 628, 629 ; Gram. CB. : 317.
 
 – Anadelphia arrecta (Stapf) Stapf – FACB 1:205.
 

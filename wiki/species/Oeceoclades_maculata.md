@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Limodorum maculatum Lodd., Bot. Cab. 5 : t. 496 (1821).
 
 – Geodorum pictum Link & Otto, Ic. Pl. Sel. 3 : 718 (1821).
@@ -39,25 +37,21 @@ tags: [species, generated]
 
 – Eulophidium nyassanum Schltr., Bot. Jahrb. Syst. 53 : 593 (1915).
 
-Pseudobulbes 2-4 x 3 cm, généralement ovoïdes, unifoliés. Feuilles elliptiques-oblongues ou blancéolées-oblongues, vert grisâtre, avec des rayures transversales ou des marbrures vert plus foncé. Inflorescence < 20 cm, 6-10-flore. Sépales et pétales translucides, blanc-verdâtre, rosâtre à brunâtre, labelle blanc-verdâtre ou crème avec des nervures roses, éperon blanc-verdâtre ou brunâtre. Sépales latéraux linéaires-ligulés à oblongs. Labelle avec 2 carènes divergentes à la base, nettement trilobé ; lobe médian transversalement elliptique, tronqué ; lobes latéraux semi-ovés. Éperon claviforme.— Pl. 137, p. 311.
+Pseudobulbs 2–4 × 3 cm, generally ovoid, unifoliate. Leaves elliptic-oblong or lanceolate-oblong, greyish-green, with transverse striae or marbling of darker green. Inflorescence < 20 cm, 6–10-flowered. Sepals and petals translucent, greenish-white, pinkish to brownish, lip greenish-white or cream with pink veins, spur greenish-white or brownish. Lateral sepals linear-ligulate to oblong. Lip with 2 divergent keels at the base, distinctly trilobed; median lobe transversely elliptic, truncate; lateral lobes semi-ovate. Spur claviform.— Pl. 137, p. 311.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Sao Tomé, Gabon, Angola, République centrafricaine, Congo, Zaïre, Burundi, Soudan, Ouganda, Tanzanie, Zambie, Zimbabwe, USA, Venezuela, Colombie, Pérou, Bolivie, Argentine
+Senegal, Guinea-Bissau, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, São Tomé, Gabon, Angola, Central African Republic, Congo, Zaire, Burundi, Sudan, Uganda, Tanzania, Zambia, Zimbabwe, USA, Venezuela, Colombia, Peru, Bolivia, Argentina
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1,200 m. Terrestrial sciaphilous in humus in dense humid forest, on shaded riverbank, in scrub on rocky seashore or epiphytic in savanna
 
-alt. 0-1 200 m. Terrestre sciaphile dans l'humus en forêt dense humide, sur berge ombragée de rivière, en fourré sur rocher en bord de mer ou épiphyte en savane
+PL. 136. – Structure of the gynostemium of the genus Oeceoclades Lindl. : A, lateral view ; B, upper part, view from below ; C, remaining rostellum ; D, anther, view from below ; E, pollinia, various views ; F, G, tegula and viscidium, various views (A–G, ex SZLACHETKO).
 
-PL. 136. – Structure du gynostème du genre Oeceoclades Lindl. : A, vue latérale ; B, partie supérieure, vue de dessous ; C, reste de rostelle ; D, anthère, vue de dessous ; E, pollinies, vues diverses ; F, G, tegula et viscidie, vues diverses (A-G, ex SzLACHETKO).
+MATERIAL EXAMINED (Map 63) :
 
-MATÉRIEL ÉTUDIÉ (Carte 63) :
-
-Hallé & Villiers 4250, Libreville, mission Sainte Marie (fl. Janv.), P!.
+Hallé & Villiers 4250, Libreville, Sainte Marie mission (fl. Jan.), P!.
 
 ## Figures
 

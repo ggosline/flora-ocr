@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vine with hairy extremities; internodes 10–12 × 0.3 cm, with tawny hairs, erect or refracted, reaching 2 mm. Stipules triangular, attenuate-acute, 8–11 mm long, densely hirsute. Petioles 10–20 mm, ± sinuous, hirsute, sometimes slightly unequal within the same pair. Blade somewhat oblong, 6–14 × 2.5–7 cm; base cordate; apex sublanceolate; both surfaces ± hairy. 6–12 pairs of secondary veins hirsute on the lower surface.
 
-Liane à extrémités velues; entrenœuds de 10-12 × 0,3 cm, à poils fauves dressés ou réfractés atteignant 2 mm. Stipules triangulaires atténuées aiguës, longues de 8-11 mm, densément hirsutes. Pétioles de 10-20 mm, ± sinueux, hirsutes, parfois un peu inégaux dans une même paire. Limbe un peu oblong de 6-14 × 2,5-7 cm; base cordée; sommet sublancéolé; les deux faces sont ± velues. 6-12 pairs de nervures secondaires hirsutes à la face inférieure.
-
-Inflorescences terminales en cymes corymbiformes contractées de 10-20 fleurs roses. Àxes très courts, velus ainsi que les bractées subulées longues d'env. 5 mm. Pédicelles de 4-8 mm, plutôt grêles. Calice pubescent de 10-12 mm de longueur dont les 5 lobes lancéolés-subulés dressés longs de 5-8,5 mm et larges de 1,5 mm. Corolle à tube de 2,5-3 cm, large d'env. 2 mm, finement velue, à lobes orbiculaires microapiculés de 10-15 (20) mm, glabres dessus, disposés en massue contortés dans le bouton. Anthères de 5,5 × 1,5 mm à étroit apicule saillant surmontant le connectif. Style filiforme glabre; massue stigmatique sillonnée de 4 × 2 mm. Ovaire d'env. 3 × 2 mm; les deux placentas pariétaux, à insertion étroite, sont accolés-imbriqués entre eux. Fruit non connu.
+Inflorescences terminal, in contracted corymbiform cymes of 10–20 pink flowers. Axes very short, hairy as are the subulate bracts approximately 5 mm long. Pedicels 4–8 mm, rather slender. Calyx pubescent, 10–12 mm long, with 5 lanceolate-subulate, erect lobes 5–8.5 mm long and 1.5 mm wide. Corolla with tube 2.5–3 cm, approximately 2 mm wide, finely hairy, with orbicular microapiculate lobes 10–15 (20) mm, glabrous above, arranged in a club, contorted in the bud. Anthers 5.5 × 1.5 mm with a narrow, prominent apicule surmounting the connective. Style filiform, glabrous; stigmatic club furrowed, 4 × 2 mm. Ovary approximately 3 × 2 mm; the two parietal placentas, with narrow insertion, are appressed-imbricate to each other. Fruit unknown.
 
 ## Type
 

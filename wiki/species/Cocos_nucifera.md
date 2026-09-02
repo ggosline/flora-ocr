@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre jusqu’à 30 m de hauteur ; stipe jusqu’à 50 cm de diamètre. Feuille 2–4(–5) m de lon gueur ; folioles en ± 100 paires, à limbe linéaire, jusqu’à 100 × 2(–2,5) cm au point le plus large. Inflorescence jusqu’à 1,5 m de longueur ; bractée pédonculaire ± 100 × 15 cm ; rameaux florifères 30 à 40, les basaux ± 40 cm de longueur. Fleur mâle : sépales 2 × 3,5 mm, aigus au sommet ; pétales ± 13 × 4 mm, aigus au sommet, charnus ; anthère jusqu’à 8 mm de longueur. Fleur femelle jusqu’à 3 cm de diamètre ; sépales circulaires, ± 1,5 cm de largeur ; pétales cir culaires, ± 2,5 cm de largeur ; ovaire jusqu’à 2,5 cm de diamètre. Fruit ellipsoïde à obovoïde, jusqu’à 30 cm de diamètre, vert devenant jaunâtre à maturité. Graine 10–15 cm de diamètre.
+Tree up to 30 m tall; stem up to 50 cm in diameter. Leaf 2–4(–5) m long; leaflets in ± 100 pairs, with linear blade, up to 100 × 2(–2.5) cm at widest point. Inflorescence up to 1.5 m long; peduncular bract ± 100 × 15 cm; flowering branches 30 to 40, the basal ones ± 40 cm long. Male flower: sepals 2 × 3.5 mm, acute at apex; petals ± 13 × 4 mm, acute at apex, fleshy; anther up to 8 mm long. Female flower up to 3 cm in diameter; sepals circular, ± 1.5 cm wide; petals circular, ± 2.5 cm wide; ovary up to 2.5 cm in diameter. Fruit ellipsoid to obovoid, up to 30 cm in diameter, green becoming yellowish at maturity. Seed 10–15 cm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-présent dans toutes les régions tropicales ; au Gabon, spontané le long de la côte atlantique de l’Estuaire, de la Nyanga et de l’Ogooué-Maritime
+present in all tropical regions; in Gabon, spontaneous along the Atlantic coast of Estuaire, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en bord de mer, écosystèmes côtiers ; au Gabon jusqu’à 20 m d’altitude, ailleurs jusqu’à 1500 m (planté)
+seashore, coastal ecosystems; in Gabon up to 20 m altitude, elsewhere up to 1500 m (cultivated)
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ cocotier (fr.) ; coconut (angl.) ; gékadi-sa-gékamba (mitsogo) ; gékadi-sa mi
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. nucifera est une espèce très largement distribuée et utilisée à travers les tropiques. Des études sur la diversité génétique de cette espèce suggèrent deux centres de domestication : une dans les îles de l’océan Pacifique et une autre dans les iles de l’océan Indien. Elle est donc introduite, mais naturalisée au Gabon. B : Dransfield (2010), Dransfield et al. (2008), Gunn et al. (2011), Harries (1978), Rapondai B liographie Walker & Sillans (1961), Stauffer et al. (2014), Vossen & Chipungahelo (2007)
+C. nucifera is a very widely distributed species used throughout the tropics. Studies on the genetic diversity of this species suggest two centres of domestication: one in the islands of the Pacific Ocean and another in the islands of the Indian Ocean. It is therefore introduced, but naturalized in Gabon. B: Dransfield (2010), Dransfield et al. (2008), Gunn et al. (2011), Harries (1978), Rapondai Bibliography Walker & Sillans (1961), Stauffer et al. (2014), Vossen & Chipungahelo (2007)
 
 ## Notes
 

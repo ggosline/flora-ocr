@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige 5-9 cm, glabre. Feuilles basales, étalées, pétiolées, < 4,5 × 1,5 cm, lancéolées, aiguës. Inflorescence 1-3 cm, 5-20-flore. Fleurs blanches, minuscules, glabres, résupinées. Sépale dorsal concave, ové-elliptique, sommet lancéolé, aigu ; sépales latéraux obliquement oblongs-ovés, subaigus. Pétales obliquement ovés, obtus, attachés aux sépales : le dorsal, face interne avec de petits lobules basaux. Labelle sessile, le bas rubanné, marge ± épaissie, le haut canaliculé, cordé ou trans-elliptique, ondulé, terminé par un apicule triangulaire. Éperon étroitement cylindrique, obtus, égal à la moitié de l'ovaire et du pédi-celle. – Pl. 9, p. 29.
+Stem 5-9 cm, glabrous. Basal leaves, spreading, petiolate, < 4.5 × 1.5 cm, lanceolate, acute. Inflorescence 1-3 cm, 5-20-flowered. Flowers white, minute, glabrous, resupinate. Dorsal sepal concave, ovate-elliptic, apex lanceolate, acute; lateral sepals obliquely oblong-ovate, subacute. Petals obliquely ovate, obtuse, attached to sepals: the dorsal one, inner face with small basal lobules. Labellum sessile, the lower part ribbon-like, margin ± thickened, the upper part channeled, cordate or transverse-elliptic, undulate, terminated by a triangular apicule. Spur narrowly cylindric, obtuse, equal to half the ovary and pedicel. – Pl. 9, p. 29.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-probablement endémique du Gabon
+probably endemic to Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 600 m. On tree trunk covered with moss
 
-alt. 600 m. Sur tronc d'arbre couvert de mousse
+MATERIAL STUDIED (Map 3):
 
-MATÉRIEL ÉTUDIÉ (Carte 3) :
+Le Testu 6454, Haute Ngounyé, Wano-Ufoubou (fl., March), K!, P!.
 
-Le Testu 6454, Haute Ngounyé, Wano-Ufoubou (fl., Mars), K!, P!.
-
-Reitsma J. M. & B. 1953, Monts Doudou., 30 km SW de Doussala, 2°32' S, 10°29' E (fl., Fév.), BR!, WAG!, LBV (non vidi), NY (non vidi).
+Reitsma J. M. & B. 1953, Monts Doudou., 30 km SW of Doussala, 2°32' S, 10°29' E (fl., Feb.), BR!, WAG!, LBV (non vidi), NY (non vidi).
 
 ## Figures
 

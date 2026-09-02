@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≠ Sarcophrynium velutinum (Bak.) K. Schum., Pfl. R. 4, 48 : 38 (1902).
 
-Aff. M. macrostachyos (Benth.) M.-Redh. sed pubescentia densa in inflorescentia et ovario differt. Herba 1-2 m alta; petiolum longum; lamina magna glabra; inflorescentia internodiis usque 15, axibus puberulosis brunneis. Flos flavus. Staminodia externa nulla, interdum unica linearia. Ovarium dense puberulum griseo brunneum.
+Aff. M. macrostachyos (Benth.) M.-Redh. sed pubescentia densa in inflorescentia et ovario differt. Herb 1–2 m tall; petiole long; lamina large glabrous; inflorescence with internodes up to 15, axes puberulous brown. Flower yellow. External staminodes absent, sometimes a single linear one. Ovary densely puberulous greyish-brown.
 
-Herbes de 1 à 2 m de haut, pétiole de longueur variable, partie calleuse de 5 à 15 cm. Gaine pubescente brune à la base, ainsi que la tige au niveau du nœud et un peu en-dessous. Limbe ovale elliptique, de  $ 25-40 \times 10-25 $ cm, acuminé au sommet, arrondi à atténué vers la base et légèrement décurrent le long de la nervure médiane, glabre, un peu assymétrique.
+Herbs 1 to 2 m tall, petiole of variable length, callous part 5 to 15 cm. Sheath pubescent brown at the base, as well as the stem at the node level and slightly below. Blade ovate elliptic, 25–40 × 10–25 cm, acuminate at apex, rounded to attenuate toward base and slightly decurrent along the midvein, glabrous, somewhat asymmetric.
 
-Inflorescence ramifiée, pédoncules et axes des racèmes pubescents veloutés bruns, pubescence plus ou moins caduque. Racèmes comptant généralement jusqu'à une quinzaine d'entre-nœuds, minces, de 7 mm de long en moyenne. Bractées abaxiales
+Inflorescence branched, peduncles and axes of racemes pubescent velvety brown, pubescence more or less caducous. Racemes generally comprising up to about fifteen internodes, slender, approximately 7 mm long on average. Abaxial bracts
 
-PL. XXXII. — Megaphrynium trichogynum J. Koechlin (Thollon 95) : 1, inflorescence ; 2, pédicelles floraux, bractéole et ovaires (bractéoles 1,5 mm de long) ; 3, couronne staminale, hauteur env. 9 mm, d'après un dessin original de Gagnepain. — Megaphrynium gabonense J. Koechlin (Klaine 357) : 4, inflorescence ; 5, base de la feuille, face supérieure ; 6, bractéole et ovaires (bractéole de 1,5 mm de diam. env.) ; 7, couronne staminale, hauteur 6-7 mm, d'après un dessin original de Gagnepain ; 8, graine, avec son arille (longueur de l'ensemble, 12 mm env.) ; 9, coupe transversale médiane de la graine. — Megaphrynium velutinum (Bak.) J. Koechlin : 10, bractéole et ovaires (bractéole, 1 mm de diamètre env.)
+PL. XXXII. — Megaphrynium trichogynum J. Koechlin (Thollon 95) : 1, inflorescence ; 2, floral pedicels, bracteole and ovaries (bracteoles 1.5 mm long) ; 3, staminal crown, height approx. 9 mm, after an original drawing by Gagnepain. — Megaphrynium gabonense J. Koechlin (Klaine 357) : 4, inflorescence ; 5, leaf base, upper face ; 6, bracteole and ovaries (bracteole approx. 1.5 mm diam.) ; 7, staminal crown, height 6–7 mm, after an original drawing by Gagnepain ; 8, seed with its aril (total length approx. 12 mm) ; 9, median transverse section of seed. — Megaphrynium velutinum (Bak.) J. Koechlin : 10, bracteole and ovaries (bracteole approx. 1 mm diameter)
 
-glabres sauf quelquefois vers le sommet, de  $ 15-20 \times 10 $ mm. Pédoncule commun atteignant 8-10 mm, pubescent, restant relativement mince à la fructification. Bractéoles légèrement verruqueuses, acuminées, de  $ 1,5 $ mm de diamètre. Fleurs jaunes, sépales pubescents le long de la nervure médiane, pétales légèrement pubescents vers le sommet. Pas de staminodes externes ou un seul. Ovaire densément pubescent velouté, gris à brun. Fruit rouge et lisse à maturité, glabre, d'environ  $ 15 $ mm de diamètre, à sutures bien visibles. Déhiscent ?
+glabrous except sometimes toward apex, 15–20 × 10 mm. Common peduncle reaching 8–10 mm, pubescent, remaining relatively slender at fruiting. Bracteoles slightly verrucose, acuminate, 1.5 mm diameter. Flowers yellow, sepals pubescent along the midvein, petals slightly pubescent toward apex. No external staminodes or a single one. Ovary densely pubescent velvety, greyish-brown. Fruit red and smooth at maturity, glabrous, approximately 15 mm diameter, with clearly visible sutures. Dehiscent ?
 
 ## Type
 
@@ -36,9 +34,7 @@ Klaine, 3212 Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante connue du Gabon, du Congo ex-belge et jusqu'en Ituri, de Centrafrique et du Cameroun.
+Plant known from Gabon, Belgian Congo and as far as Ituri, from Central African Republic and Cameroon.
 
 ## Figures
 

@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial rhizomatous herb, up to 1.5 m tall or more, with glabrous nodes. Leaves 25–50 × 1–2 cm, abruptly narrowed at the base, upper surface and margins scabrous; ligule 15 to 45 mm long, ciliate at the apex.
 
-Herbe pérenne rhizomateuse, jusqu'à 1,5 m de haut ou plus, à nœuds glabres. Feuilles de 25-50 × 1-2 cm, brusquement rétrécies à la base, face supérieure et bords scabres; ligule de 15 à 45 mm de long, ciliée au sommet.
+Contracted panicle, 15 to 30 cm long, branches reaching about fifteen centimetres. Spikelets 8 mm long and 2.5 mm wide, on a pedicel 2 to 3 mm. Sterile glumes 2.5 to 3 mm long, briefly subulate. Fertile lemma oblong, same size as the spikelet. Scabrous awn 3 to 5 cm long, often tinged with red. Palea same length as the lemma, narrower, mucronate. Stamens 5 mm long.
 
-Panicule contractée, de 15 à 30 cm de long, branches atteignant une quinzaine de centimètres. Épillets de 8 mm de long et 2,5 mm de large, sur un pédicelle de 2 à 3 mm. Glumelles stériles de 2,5 à 3 mm de long, brièvement subulées. Lemma fertile oblongue, de même taille que l'épillet. Arête scabre de 3 à 5 cm de long, souvent teintée de rouge. Paléa de même longueur que la lemma, plus étroite, mucronée. Étamines de 5 mm de long.
-
-Espèce connue du Sénégal au Bas-Congo. Elle est recherchée par le gibier; c'est sans doute une plante fourragère.
+Species known from Senegal to Lower Congo. It is sought after by game; it is no doubt a forage plant.
 
 ## Specimens examined
 

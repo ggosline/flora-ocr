@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 51; Figure 10(F-H)
+Plate 51; Figure 10(F-H)
 
 Cyclostemon preussii Pax, Bot. Jahrb. Syst. 26 (3-4): 326 (1899).
 

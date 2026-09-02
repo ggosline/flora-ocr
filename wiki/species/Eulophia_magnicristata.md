@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– TYPE : Tisserant 243-2558, Central African Republic, holo-P!.
 
-– TYPE : Tisserant 243-2558, République centrafricaine, holo-P!.
-
-Feuilles 4, < 70 x 2,5 cm. Inflorescence assez lâche, < 150 cm, 20-flore. Fleurs grandes, voyantes, lilas. Sépale dorsal oblong-obové. Pétales orbiculaires-elliptiques, brièvement acuminés. Sépales latéraux ovés au-dessus d'une partie basale rubanée. Labelle 25 x 24 mm, brièvement onguiculé, nettement trilobé, avec 3 crêtes très hautes (< 2,5 mm), cristées-lamellées ; lobe médian oblong-ové, obtus, marges ondulées ; lobes latéraux semi-circulaires, cochéiformes. Éperon 5-6 mm, digitiforme, obtus, légèrement incurvé, sa gorge nettement au-dessous de l'onglet du labelle. - Pl. 146, p. 329.
+Leaves 4, < 70 x 2.5 cm. Inflorescence rather lax, < 150 cm, 20-flowered. Flowers large, showy, lilac. Dorsal sepal oblong-obovate. Petals orbicular-elliptic, briefly acuminate. Lateral sepals ovate above a ribbon-like basal part. Labellum 25 x 24 mm, briefly clawed, distinctly trilobed, with 3 very tall crests (< 2.5 mm), crested-lamellose; median lobe oblong-ovate, obtuse, margins undulate; lateral lobes semicircular, conch-shaped. Spur 5-6 mm, digitate, obtuse, slightly incurved, its throat distinctly below the claw of the labellum. - Pl. 146, p. 329.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-République centrafricaine, Gabon
+Central African Republic, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 600 m. Humid places
 
-alt. 600 m. Lieux humide
+MATERIAL STUDIED (Map 69):
 
-MATÉRIEL ÉTUDIÉ (Carte 69) :
-
-Wieringa 928, Tchimbélé, zone rudérale près du poste de gendarmerie, alt. ± 580 m, 0° 37' N, 10° 24' E (fl. Mai), WAG!.
+Wieringa 928, Tchimbélé, ruderal zone near the gendarmerie post, alt. ± 580 m, 0° 37' N, 10° 24' E (fl. May), WAG!.
 
 ## Figures
 

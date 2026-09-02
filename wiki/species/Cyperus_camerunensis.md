@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Lidia 7(4) : 96 (2011). Kyllinga stenophylla K.Schum. ex C.B.Clarke, Bot. Jahrb. Syst. 38 : 131 (1906), non Cyperus stenophyllus Suringar (1912). Kyllinga pumila Michx. var. stenophylla (K.Schum.) Cherm., Bull. Soc. Bot. France 83 : 493 (1936).
 
 ## Notes

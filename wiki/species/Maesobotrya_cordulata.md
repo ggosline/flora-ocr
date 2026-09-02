@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou petit arbre de 3–6 m de hauteur ; tronc 6–15 cm de diamètre ; ramilles hispi duleuses, parfois veloutées . Stipules étroitement triangulaires, 2–3(–6) mm de longueur, hispiduleuses. Feuille : pétiole 1–12 cm, hispiduleux ; limbe elliptique, parfois ovale ou obovale, (4,5–)10–26 × (2–)5–8(–12) cm, cordé à obtus–arrondi à la base , acuminé sur 0,5–2 cm, marge à dents espacées, garnie à la face supérieure de long poils ± apprimés, surtout le long des nervures. Inflorescences fasciculées sur le tronc dès la base, et par fois sur les grosses branches , jusqu’à 8 cm de longueur et 11 cm de longueur en fruit, pubérulentes à tomentelleuses ; bractées ≤ 0,5 mm de longueur, les bractéoles plus petites. Fleur mâle solitaire à ternée ; pédicelle 1–2 mm, glabre ; sépales 4–6, ± étalés, 1–2 mm de longueur, glabres, mais ciliés ; étamines 4–6, environ 2 mm de longueur, glabres ; disque ± annulaire, glabre à velu. Fleur femelle solitaire ; pédicelle 1 mm, 2–2,5 mm en fruit, pubérulent ; calice semblable au calice mâle ; disque velu ; ovaire ± ellipsoïde, 2–2,5 mm de longueur, 2-loculaire, pilosité éparse apprimée. Fruit déhiscent par la base , globu leux-ellipsoïde, 13–15 × 10–13 mm, éparsement poilu à poils apprimés, vert à pourpre . Graines 1(–2) ; sarcotesta ± blanc .
+Shrub or small tree 3–6 m tall; trunk 6–15 cm in diameter; branchlets hispidulous, sometimes velvety. Stipules narrowly triangular, 2–3(–6) mm long, hispidulous. Leaf: petiole 1–12 cm, hispidulous; blade elliptic, sometimes ovate or obovate, (4.5–)10–26 × (2–)5–8(–12) cm, cordate to obtuse-rounded at base, acuminate over 0.5–2 cm, margin with scattered teeth, adaxial surface with long ± appressed hairs, especially along the veins. Inflorescences fasciculate on the trunk from the base, and sometimes on the main branches, up to 8 cm long and 11 cm long in fruit, puberulent to tomentellous; bracts ≤ 0.5 mm long, bracteoles smaller. Male flower solitary to ternate; pedicel 1–2 mm, glabrous; sepals 4–6, ± spreading, 1–2 mm long, glabrous but ciliate; stamens 4–6, approximately 2 mm long, glabrous; disc ± annular, glabrous to villous. Female flower solitary; pedicel 1 mm, 2–2.5 mm in fruit, puberulent; calyx similar to male calyx; disc villous; ovary ± ellipsoid, 2–2.5 mm long, 2-locular, with scattered appressed hairs. Fruit dehiscent from the base, globulose-ellipsoid, 13–15 × 10–13 mm, sparsely hairy with appressed hairs, green to purple. Seeds 1(–2); sarcotesta ± white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo et République Démocratique du Congo ; au Gabon, récoltée dans les provinces de l’Estuaire, du Moyen-Ogooué, de la Nyanga, de l’Ogooué-Lolo et de l’Ogooué-Maritime
+Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, collected in the provinces of Estuaire, Moyen-Ogooué, Nyanga, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 200–700 m d’altitude. b : Léonard (1994). ibliographie
+Primary and secondarized forest; in Gabon, at 200–700 m elevation. b: Léonard (1994). Bibliography
 
 ## Notes
 

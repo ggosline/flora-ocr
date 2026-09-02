@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ; tiges principales le plus souvent prostrées, glabres, fistuleuses , parfois s’enracinant aux nœuds, les latérales pubescentes à la base . Feuille : pétiole 2,5–11 cm, glabre ; limbe circulaire à réniforme, 3–11 × 3–10 cm, cordé à la base, arrondi et mucronulé ou parfois émarginé au sommet. Inflorescence axillaire, assez souvent accompagnée d’une tige feuillée dans la même aisselle, de une à quelques fleurs ; pédoncule 3–23 cm, pubescent à la base ; bractées et bractéoles ovées-triangulaires, 3–5 mm de longueur, mucronées au sommet, glabres. Fleur : pédicelle 2–2,5 cm, glabre ; sépales inégaux en longueur , elliptiques-oblongs, obtus , mucronulés, les internes 10–12 mm de longueur, les externes 5–7 mm de longueur , légèrement muriqués ; corolle infundibuliforme, jusqu’à 7 cm de longueur, rouge violette , glabre. Fruit globuleux, glabre, environ 1 cm de diamètre. Graines glabres .
+Perennial herb; main stems mostly prostrate, glabrous, fistulose, sometimes rooting at the nodes, the lateral ones pubescent at the base. Leaf: petiole 2.5–11 cm, glabrous; blade circular to reniform, 3–11 × 3–10 cm, cordate at the base, rounded and mucronulate or sometimes emarginate at the apex. Inflorescence axillary, quite often accompanied by a leafy stem in the same axil, of one to a few flowers; peduncle 3–23 cm, pubescent at the base; bracts and bracteoles ovate-triangular, 3–5 mm long, mucronate at the apex, glabrous. Flower: pedicel 2–2.5 cm, glabrous; sepals unequal in length, elliptic-oblong, obtuse, mucronulate, the inner ones 10–12 mm long, the outer ones 5–7 mm long, slightly muricate; corolla infundibuliform, up to 7 cm long, red-violet, glabrous. Fruit globose, glabrous, about 1 cm in diameter. Seeds glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce tropicale d’Afrique, d’Amérique et d’Asie ; au Gabon, seulement rapportée de l’Estuaire
+Tropical species of Africa, America and Asia; in Gabon, only recorded from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains rudéraux ; au Gabon à basse altitude, ailleurs jusqu’à 700 m. Note taxonomique : L’espèce n’est pas mentionnée par Lejoly & Lisowski (1992) pour la Flore du l’Afrique Centrale, pourtant elle est présente dans l’aire de la Flora Zambesiaca (Gonçalves, 1987). B : Gonçalves (1987), Heine (1963). ibliographie
+Ruderal habitats; in Gabon at low altitude, elsewhere up to 700 m. Taxonomic note: The species is not mentioned by Lejoly & Lisowski (1992) for the Flora of Central Africa, yet it is present in the area of the Flora Zambesiaca (Gonçalves, 1987). B: Gonçalves (1987), Heine (1963). Bibliography
 
 ## Notes
 

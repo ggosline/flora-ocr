@@ -16,37 +16,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large blackening, scaly liana. Opposite leaves; lamina coriaceous, apex glandular or eroded. Flowers tetramerous. Receptacle superior, patelliforme. Fruit with papyraceous wings. Species allied to C. esteriense. TYPE: Gabon, Inventaire d'Oveng, 25 km WSW of Mitsic (fr., Feb.) Reitsma cs. 2915 (holo-WAG; iso-LBV).
 
-Liana magna nigrescens lepidota. Folia opposita ; lamina coriacea, apice glanduloso vel eros. Flores tetrameri. Receptaculum superius patelliforme. Fructus alis papyraceis. Species affinis C. esterieni. TYPE : Gabon, Inventaire d'Oveng, 25 km à l'OSO. de Mitsic (fr., Fév.) Reitsma cs. 2915 (holo-WAG ; iso-LBV).
+Liana ≤ 45 m, diameter ≤ 15 cm. Young branches dark-brown, lepidote.
 
-Liane ≤ 45 m, diamètre ≤ 15 cm. Jeunes rameaux brun-foncé, lépidotes.
+Leaves opposite; petiole ≤ 15 mm; blade coriaceous ovate-elliptic ≤ 15 × ≤ 8 cm, glabrous except for the scales; large lateral veins 7–9 pairs, domatia barely visible; base rounded to attenuate; apex remarkably glandular and ruminate but often absent from the adult leaf (eaten by insects); young leaves yellowish-green with brown scales.
 
-Feuilles opposées ; pétiole ≤ 15 mm ; limbe coriace ové-elliptique ≤ 15 × ≤ 8 cm, glabre hormis les écailles ; grandes nervures latérales 7-9 paires, domaties à peine visibles ; base arrondie à atténuée ; sommet remarquablement glanduleux et gaufré mais souvent absent de la feuille adulte (rongé par les insectes) ; jeunes feuilles vert-jaunâtre avec des écailles brunes.
+Stellate scales, diameter 100–120 µm.
 
-Écailles stellees, diamètre 100-120 µm.
+Inflorescences, axillary or terminal panicles ≤ 25 cm.
 
-Inflorescences, panicules axillaires ou terminales ≤ 25 cm.
+Flowers 4-merous. Receptacle, the inferior 2 mm tall, the superior patelliforme. Petals and stamens unknown (only a few flower remains of the type could be studied).
 
-Fleurs 4-mères. Réceptacle, l'inférieur haut de 2 mm, le supérieur patelliforme. Pétales et étamines inconnus (seuls quelques restes de fleurs du type ont pu être étudiés).
+Fruit, profile ± obcordate, length 13 mm, width 16 mm, papyraceous wings; only the central body of the fruit bears a dense covering of brown scales; stipe 2 mm.
 
-Fruit, profil ± obcordiforme, longueur 13 mm, largeur de 16 mm, ailes papyracées ; seul le corps central du fruit porte une couverture dense d'écailles brunes ; stipe 2 mm.
+Close to C. esteriense in certain aspects such as the leaf apex, flower shape and fruit shape, this new species differs from it by much smaller fruits, dark scales and
 
-Proche de C. esteriense par certains aspects tels que le sommet de la feuille, la forme de la fleur et celle du fruit, cette nouvelle espèce en diffère par des fruits beaucoup plus petits, des écailles sombres et
-
-d’autres caractères foliaires. Le sommet des feuilles adultes du C. erosum est souvent mangé par les insectes. – Pl. 9, p. 35.
+other foliar characters. The apex of the adult leaves of C. erosum is often eaten by insects. – Pl. 9, p. 35.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-récolté uniquement au Gabon
+collected only in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

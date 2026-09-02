@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Kyllinga vaginata Lam., Tabl. encycl. 1(1) : 148 (1791), non Cyperus vaginatus R.Br. (1810). Kyllinga peruviana Lam., Encycl. 3 : 366 (1792). Herbe robuste, vivace, avec un rhizome horizontal rampant et émettant des tiges assez serrées ; rhizome de 4‒10 cm × 2‒5 mm, aromatique, couvert par des écailles ovales– elliptiques, couleur cannelle ; tiges de 20‒60 cm × 2‒5 mm, trigones–arrondies, striées, glabres, plutôt spongieuses. Feuilles de la partie basse des tiges réduites à des gaines violacées ou brun grisâtre, sans limbe , haut des gaines parfois avec un lobe triangulaire. Inflorescence en tête solitaire, sphérique, dense, blanc verdâtre, large de 7‒13 mm ; bractées involucrales (2‒)3(‒5), très courtes (5‒15 mm), souvent plus courtes que le diamètre de la tête, étalées ou réfléchies. Épillet elliptique et mutique, de 2,4‒3,5 mm , à une fleur, avec 2 glumes stériles basales et 1 glume fertile ; glumes très inégales, l’inférieure longue d’environ 0,6 mm, la suivante longue d’environ 2 mm et la glume fertile longue de 2,2‒2,5 mm , blanchâtres à brun clair, sommet arrondi ou faiblement acuminé et incurvé, nervure centrale arrondie, glabre, non ailée. Akène elliptique, de 1‒1,2 × 0,6‒0,7 mm , lenticulaire avec la surface presque lisse.
+Kyllinga vaginata Lam., Tabl. encycl. 1(1) : 148 (1791), non Cyperus vaginatus R.Br. (1810). Kyllinga peruviana Lam., Encycl. 3 : 366 (1792). Robust, perennial herb with a horizontal creeping rhizome emitting fairly dense stems; rhizome 4–10 cm × 2–5 mm, aromatic, covered with ovate–elliptic, cinnamon-coloured scales; stems 20–60 cm × 2–5 mm, trigonous–rounded, striated, glabrous, rather spongy. Leaves of the lower part of stems reduced to violaceous or greyish-brown sheaths without a blade, upper part of sheaths sometimes with a triangular lobe. Inflorescence in a solitary, spherical, dense head, whitish-green, 7–13 mm wide; involucral bracts (2–)3(–5), very short (5–15 mm), often shorter than the head diameter, spreading or reflexed. Spikelet elliptic and muticous, 2.4–3.5 mm, one-flowered, with 2 basal sterile glumes and 1 fertile glume; glumes very unequal, the lower one about 0.6 mm long, the next one about 2 mm long and the fertile glume 2.2–2.5 mm long, whitish to pale brown, apex rounded or weakly acuminate and incurved, central nerve rounded, glabrous, not winged. Achene elliptic, 1–1.2 × 0.6–0.7 mm, lenticular with the surface almost smooth.
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les régions côtières tropicales de l’Amérique et de l’Afrique, du Sénégal à la République Démocratique du Congo ; au Gabon, largement répandue le long des côtes, trouvée dans l’Estuaire, la Nyanga et l’Ogooué-Maritime (12 récoltes)
+in tropical coastal regions of the Americas and Africa, from Senegal to the Democratic Republic of the Congo; in Gabon, widely distributed along the coasts, found in the Estuary, Nyanga and Ogooué-Maritime (12 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-rivages océaniques, derrière les plages, souvent dans le sol sableux marécageux le long des bassins de marées, des lagunes et des mangroves
+ocean shores, behind beaches, often in marshy sandy soil along tidal basins, lagoons and mangroves
 
 ## Vernacular names
 

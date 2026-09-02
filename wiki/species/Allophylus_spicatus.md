@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, 3 (5) : 313 (1895); Sitzungsber. Bayer; Akad. Wiss. München 38 : 221 (1908).
 
 — Ornitrophe spicata PoIR., in LAM., Encycl. 8 : 265 (1808).
@@ -30,9 +28,9 @@ in ENGL. & PRANTL, Nat. Pflanzenfam., ed. 1, 3 (5) : 313 (1895); Sitzungsber. Ba
 
 — Allophylus magicus (DC.) TaUB., in Engl., Pflanzenwelt Östafr. C : 250 (1895).
 
-Arbuste (3 m) à jeunes rameaux hirsutes (poils roux dorés, abondants de 0,5 à 1,5 mm), à rameaux d'un an glabres, fins (2-3 mm de diamètre), à entrenœuds de 0,5-2 cm.
+Shrub (3 m) with young branchlets hirsute (golden-reddish hairs, abundant 0.5–1.5 mm), one-year-old branchlets glabrous, slender (2–3 mm in diameter), with internodes 0.5–2 cm.
 
-Inflorescences assez lâches (3 cymules par cm), les 2 cymules de base avec bractées linéaires de 3-5 mm; pédicelles articulés à la base. PL. 2 1-5, p. 31.
+Inflorescences rather lax (3 cymules per cm), the 2 basal cymules with linear bracts 3–5 mm; pedicels articulate at the base. PL. 2 1–5, p. 31.
 
 ## Type
 
@@ -40,9 +38,7 @@ Thonning s.n., s.l., Mali (in Herb. Webb)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est représentée en Côte d'Ivoire, au Sénégal, au Ghana, au Togo, au Dahomey, au Nigeria, au Mali, en République centrafricaine.
+The species is represented in Ivory Coast, Senegal, Ghana, Togo, Dahomey, Nigeria, Mali, and Central African Republic.
 
 ## Specimens examined
 

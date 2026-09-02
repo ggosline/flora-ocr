@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub up to 2.5 m tall; bark smooth, dark brown to blackish; branchlets dark brown to blackish, smooth; buds fusiform, 8–15 × 2–3 mm, with caducous scales. Stipules linear, 5–15 × 0.5–1 mm, entire or denticulate-fimbriate at the base, caducous. Leaf: petiole 2–5 mm; lamina obovate to oblanceolate or narrowly elliptic, 6–18 × 2–7 cm, cuneate to rounded at the base, acuminate at the apex, membranous, margin serrate; secondary veins (7–)10 to 20, prominent on both faces. Inflorescence paniculate, multiflorous, 4–8 cm long; buds oblong. Flower: pedicel 8–15 mm, articulate 1–3 mm from the base; sepals elliptic, 10 × 3–4 mm in flower, reaching 13–22 × 7–10 mm in fruit; petals narrowly elliptic, 10 × 2–3 mm, yellow to yellowish-green; stamens numerous, filament 1.5 mm, anthers 4–5 mm long, dehiscing by apical pores; ovary with 5 to 8 carpels; style 5–6 mm, capitate at the apex. Fruit: pedi-
 
-Arbuste jusqu’à 2,5 m de hauteur ; écorce lisse, brun noirâtre ; ramilles brun foncé à noirâtres, lisses ; bourgeons fusiformes, 8–15 × 2–3 mm, à écailles caduques. Stipules linéaires, 5–15 × 0,5–1 mm, entières ou denticulées-fimbriées à la base, caduques. Feuille : pétiole 2–5 mm ; limbe obovale à oblancéolé ou étroitement elliptique, 6–18 × 2–7 cm, cunéé à arrondi à la base, acuminé au sommet, membraneux, à marge serretée ; nervures secondaires (7–)10 à 20, proéminentes sur les deux faces. Inflorescence paniculiforme , multiflore, 4–8 cm de longueur ; boutons oblongs . Fleur : pédicelle 8–15 mm, articulé à 1–3 mm de la base ; sépales elliptiques, 10 × 3–4 mm en fleur, atteignant 13–22 × 7–10 mm en fruit ; pétales étroitement elliptiques, 10 × 2–3 mm, jaunes à jaune verdâtre ; étamines nombreuses, filet 1,5 mm, anthères 4–5 mm de longueur, déhiscentes par pores apicaux ; ovaire à 5 à 8 carpelles ; style 5–6 mm, capité au sommet. Fruit : pédi-
-
-celle s’allongeant jusqu’à 2,5 cm ; réceptacle environ 3 × 5 mm ; drupéoles réniformesaplaties, environ 10 × 8 mm. Graine courbée ; cotylédons incombants, inégaux, à petit cotylédon interne.
+cel elongating to 2.5 cm; receptacle approximately 3 × 5 mm; drupelets reniform-flattened, approximately 10 × 8 mm. Seed curved; cotyledons incumbent, unequal, with small internal cotyledon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo, ouest de la République démocratique du Congo et Angola ; au Gabon, limitée à la partie est du pays, connue des provinces du Haut-Ogooué, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+Gabon, Republic of the Congo, western Democratic Republic of the Congo and Angola; in Gabon, limited to the eastern part of the country, known from the provinces of Haut-Ogooué, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, galeries forestières, lisières, savanes arbustives, sur sol sableux ; au Gabon, à 350–650 m d’altitude, ailleurs jusqu’à 900 m
+primary and secondary forest, forest galleries, forest edges, shrubby savanas, on sandy soil; in Gabon, at 350–650 m altitude, elsewhere up to 900 m
 
 ## Vernacular names
 

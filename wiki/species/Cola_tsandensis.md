@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ref. orig., and Sterc. Gab., Mém. S. B. Fr.: 42 (1950-1951).
 
-réf. orig., et Sterc. Gab., Mém. S. B. Fr. : 42 (1950-1951).
+Small tree reaching 6-7 m tall. Young branches densely clothed with small, close stellate hairs. Bark exuding yellow resinous droplets when cut. Terminal buds acute, with enveloping scales. Stipules often persistent, 1.5-2.5 cm long, 2-6 mm wide, grooved, acute, pubescent. Petioles 16-43 cm, cylindrical, rather slender, puberulent and glabrescent. Leaves digitately 7-10-foliolate. Petiolules slender, 10-40 mm long, glabrescent. Principal leaflets lance-shaped, 20-44 × 6-12 cm, with very acute base, apex rather abruptly acuminate-caudate. Lateral leaflets decreasing in size, the shortest weakly asymmetrical. Blade coriaceous, reddish-brown when dry, glabrous on both faces. Midvein glabrescent beneath; 10-16 pairs of pinnate lateral veins, arched ascending.
 
-Petit arbre atteignant 6-7 m de haut. Jeunes rameaux vêtus densément de petits poils stellés ras. Écorce exsudant en coupe des gouttelettes de résine jaune. Bourgeons terminaux aigus, à écailles enveloppantes. Stipules souvent persistantes de 1,5-2,5 cm de long, de 2-6 mm de large, en gouttière, aiguës, pubescentes. Pétioles de 16-43 cm, cylindriques, assez grêles, pubérulents glabrescents. Feuilles digitées 7-10 foliolées. Pétiolues grêles de 10-40 mm de long, glabrescents. Folioles principales blancéolées de 20-44 × 6-12 cm, à base très aiguë, à sommet assez brusquement acuminé-caudé. Folioles latérales décroissantes, les plus courtes faiblement dissymétriques. Limbe coriace, roux brunâtre à sec, glabre sur les deux faces. Nervure médaine glabrescente dessous; 10-16 paires de nervures latérales pennées, arquées ascendantes.
+Inflorescences in glomules or fascicles, axillary or cauline; bracteoles narrowly lanceolate, 3-5 mm long, puberulent. Pedicels puberulent with reddish stellate hairs, 8-20 mm long, articulate at the upper third or quarter. Flower bud globose.
 
-Inflorescences en glomérules ou fascicules, axillaires ou caulinaires; bractéoles étroitement lancéolées de 3-5 mm de long, pubérulentes. Pédicelles pubérulents à poils stellés roux de 8-20 mm de long, articulés au tiers ou au quart supérieur. Bouton globuleux.
+Male flower only observed, yellow with red centre, with calyx 1.5-2 cm long, campanulate and more or less spreading over 7-10 mm approximately, externally reddish pubescent, with close, fine stellate hairs and scattered stouter hairs; the interior glabrous, papilliferous towards the base, divided below the midpoint into 4-5 oblong or ovate and more or less acute lobes, with thinned marginal fringes and fluted. Androphore narrow, 5-8 mm tall, glabrous, with the base surrounded by a row of stellate hairs; crown of about thirty uniseriate pollensacs, tightly packed, surrounding and overtopping a rudimentary pubescent ovary, 5-carpellate.
 
-Fleur ♂ seule observée, jaune à cœur rouge, à calice long de
+Fruit unknown.
 
-1,5-2 cm, campanulé et plus ou moins évasé sur 7-10 mm env., extérieurement roux pubescent, à poils stellés serrés, ras et parsemés de poils plus touffus; l'intérieur est glabre, papillifère vers le fond, divisé jusqu'au-dessous de la moitié en 4-5 lobes oblongs ou ovés et plus ou moins aigu, à franges marginales amincies gaufrées. Androphore étroit de 5-8 mm de haut, glabre, avec la base entourée d'un rang de poils stellés; couronne d'une trentaine de loges polliniques unisériées, étroitement serrées, entourant et dominant un ovaire rudimentaire pubescent 5-carpellé.
+Type of the species: Le Testu 7473 (P.)
 
-Fruit inconnu.
-
-Type de l'espèce : Le Testu 7473 (P.)
-
-Ce Cola, très voisin des deux espèces précédentes ainsi que de la suivante, n'est connu que de la région de Lastoursville.
+This Cola, very close to the two preceding species as well as the following one, is known only from the Lastoursville region.
 
 ## Specimens examined
 

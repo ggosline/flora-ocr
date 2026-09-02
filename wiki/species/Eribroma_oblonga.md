@@ -22,27 +22,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref. of the species. — PIERRE, Bull. Soc. Linn. Paris : 1273 (1897), ref. of the genus. — K. Schum., Sterc. Afr. : 101 (1900).
 
-, réf. orig. de l'espèce. — PIERRE, Bull. Soc. Linn. Paris : 1273 (1897), réf. du genre. — K. Schum., Sterc. Afr. : 101 (1900).
+— Hutch. et Dallz. F.W.T.A. I : 251 (1928). — Pellegr., Sterc. Gab., Mém. S.B.Fr. : 30 (1950-1951). — F.W.T.A., 2nd ed. : 321 (1958). — F.F.C.I., 2nd ed. II : 276 (1959). — Bodard, Ann. Fac. Sc. Univ. Dakar, 4 : 59 (1959).
 
-— Hutch. et Dallz. F.W.T.A. I : 251 (1928). — Pellegr., Sterc. Gab., Mém. S.B.Fr. : 30 (1950-1951). — F.W.T.A., 2° éd. : 321 (1958). — F.F.C.I., 2° éd. II : 276 (1959). — Bodard, Ann. Fac. Sc. Univ. Dakar, 4 : 59 (1959).
+Large tree reaching 25 (R.P. Klaine) to 40 m (Aubréville), and up to 1 m in diameter above the aliform buttresses which reach 2 m high. Trunk straight and crown scarcely spreading (Tellier). Stipular scars visible only on the very young twigs.
 
-Grand arbre atteignant 25 (R.P. Klaine) à 40 m (Aubréville), et jusqu'à 1 m de diamètre au dessus des contreforts aliformes qui atteignent 2 m de haut. Tronc droit et cyme peu étalée (Tellier). Cicatrices stipulaires visibles seulement sur les très jeunes rameaux.
+Leaves all simple and entire except on certain shoots. Petiole 2 to 5 cm long, glabrous or moderately pubescent towards the extremities. Adult lamina elliptic, ordinarily 6 to 15 cm long by 3.5 to 8 cm wide, with rounded base, with apex confusedly or moderately acuminate; upper surface entirely glabrous; lower surface with occasionally some rare hairs localized at the extreme base; 8-12 pairs of pinnate lateral nerves. Fine network of veinlets very apparent on both faces of the dried lamina.
 
-Feuilles toutes simples et entières sauf sur certains rejets. Pétiole de 2 à 5 cm de long, glabre ou médiocrement pubescent vers les extrémités. Limbe adulte elliptique ayant ordinairement 6 à 15 cm de long sur 3,5 à 8 cm de large, à base arrondie, à sommet confusément ou médiocrement acuminé; dessus entièrement glabre; dessous avec parfois quelques rares poils localisés à l'extrême base; 8-12 paires de nervures latérales pennées. Fin réseau de nervilles très apparent sur les deux faces du limbe à sec.
+Axillary inflorescences 3-10 cm long, loosely grouped at the extremities of slender twigs. The rachis glabrescently and slenderly bears short pauciflorous branches spaced out, the first sometimes located at its base. Pubescent lanceolate bracteoles about 3 mm long, caducous. Buds 4-5 mm long, subglobose oblong, somewhat lobed in apical view and finely puberulent.
 
-Inflorescences axillaires de 3-10 cm de long, groupées de façon lâche aux extrémités de rameaux grèles. Le rachis glabres-cent et grêle porte de courtes ramifications pauciflores espacées, la première parfois située à sa base. Bractéoles pubescentes lancéolées de 3 mm de long environ, caduques. Boutons de 4-5 mm de long, subglobuleux oblongs, un peu lobés en vue apicale et finement pubérulents.
+Flower subsessile, green edged with cream-yellow. Perianth with 5 free sepals, spreading and semi-reflexed, 5-7 mm long by 2.5-3 mm wide, acute lanceolate, with inner face thickly clothed with long stellate hairs, except on the lower axial region which is glabrous and depressed. In the ♂ flower the androphore in column bears towards the lower part a tuft of long hairs while the upper part is slender and glabrous; anthers forming a capitate aggregate. ♀ Flower with globose pubescent ovary, 3 mm in diameter, with 5 locules.
 
-Fleur subsessile, verte ourlée de jaune crème. Périanthe à 5 sépales libres, étalés et semi-réfléchis, de 5-7 mm de long sur 2,5-3 mm de large, lancéolés aigu, à face interne désément vêtue de longs poils étoilés, sauf sur la région axiale inférieure qui est glabre et déprimée. Dans la fleur ♂ l'androphore en colonne porte vers le bas un bouquet de longs poils tandis que le haut est grêle et glabre; anthères formant un agrégat capité. Fleur ♀ à ovaire globuleux pubescent, de 3 mm de diamètre, à 5 loges.
+Fruit composed of large solitary follicles reaching 10-15 cm long with very thick glabrescent shell, nearly 1 cm, dehiscent, containing about twenty oval compressed seeds, exceeding 2 cm long, entirely surrounded by a yellowish fleshy layer. Two thin veined cotyledons surrounded by an oleaginous albumen.
 
-Fruit composé de gros follicules solitaires atteignant 10-15 cm de long à coque glabrescente très épaisse, près de 1 cm, déhiscente, contenant une vingtaine de graines ovales comprimées, dépassant 2 cm de long, entourées entièrement par une couche jaunâtre charnue. Deux minces cotylédons nervurés entourés d'un albumen oléagineux.
+N. HALLÉ. — STERCULIACEAE
 
-N. HALLÉ. — STERCULIACÉES
+Type of the species: Mann 1162, Fernando-Po (K., P.).
 
-Type de l'espèce : Mann 1162, Fernando-Po (K., P.).
-
-Cette espèce caducifoliée, à couvert peu dense, appartient à l'étage dominant de la zone de transition entre les forêts semidécি-dues et sempervirentes; elle est commune et répandue du Libéria (variété à limbe pubescent dessous), jusqu'au Gabon. Elle paraît ne pas atteindre l'Angola au sud de son aire de répartition.
+This deciduous species, with sparse canopy, belongs to the dominant stratum of the transition zone between semi-deciduous and evergreen forests; it is common and widespread from Liberia (variety with pubescent lamina below) to Gabon. It appears not to reach Angola in the south of its range.
 
 ## Vernacular names
 
@@ -52,9 +50,7 @@ Ndzon, Nzong, Ndzong, Ndzoung, Owek-Sakala (Fang); Eyon, Eyong (Yaoundé); Mugun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. Le bois, un peu plus dur que celui du St. tragacantha, est blanc ou blanc-jaunâtre; superficiellement attaqué par des méisssures après l'abattage, il est cependant utilisable en planches, poutres ou madriers quelquefois reconnus comme durables. Graines parfois consommées comme la noix de cola (Hédin, R. P. Tisserant).
+Uses. The wood, somewhat harder than that of St. tragacantha, is white or whitish-yellow; superficially attacked by molds after felling, it is nevertheless usable in planks, beams or timbers sometimes recognized as durable. Seeds sometimes consumed like kola nuts (Hédin, R. P. Tisserant).
 
 ## Specimens examined
 

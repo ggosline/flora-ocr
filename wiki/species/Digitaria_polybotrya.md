@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual, reaching 1 m tall, culms geniculate at the base. Leaf sheaths pubescent, at least the lower ones; nodes bearded. Ligules membranous truncate, blades linear, more or less pubescent, approximately 10 × 0.4 cm.
 
-Annuelle, atteignant 1 m de haut, chaumes géniculés à la base. Gaines foliaires pubescentes, au moins les inférieures; nœuds
+Rachis of the filiform racemes, with long fine hairs in the lower part. Pedicels geminate, unequal. Spikelets lanceolate acuminate, 1 to 1.5 mm long. Lower glume absent or much reduced, the upper as long as the spikelet with 4 fine longitudinal lines of hairs. Lower lemma similar, with 7 nerves and sometimes only 2 marginal lines of hairs. Upper floret acuminate, as long as the spikelet, whitish-greenish.
 
-barbus. Ligules membraneuses tronquées, limbes linéaires, plus ou moins pubescents, d'environ 10 × 0,4 cm.
-
-Rachis des racèmes filiformes, avec de longs poils fins dans la partie inférieure. Pédicelles géminés, inégaux. Épillets lancéolés acuminés, de 1 à 1,5 mm de long. Glume inférieure nulle ou très réduite, la supérieure aussi longue que l'épillet avec 4 fines lignes longitudinales de poils. Lemma inférieure semblable, avec 7 nervures et parfois seulement 2 lignes marginales de poils. Fleur supérieure acuminée, aussi longue que l'épillet, blanc-verdâtre.
-
-Espèce apparemment localisée au Gabon et au Congo occidental. Mauvaise herbe souvent envahissante peu ou pas appétée.
+Species apparently localized to Gabon and western Congo. Often invasive weed little or not palatable.
 
 ## Specimens examined
 

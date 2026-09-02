@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Notizbl.Bot.Gart.Berlin 3:55 (1900); in Engler, Monogr., Afr. Pflanzenf. 6:33, tab. II (1901).— Diels, Bot. Jahrb. 53:438 (1915).— Pellegrin, Bull. Soc. Bot. Fr. 95:136 (1948).— Paiva, Mem. Soc. Brot. 19:29 (1966). = Unona confinis Pierre msc. in Herb. Mus. Paris.
 
-Notizbl.Bot.Gart.Berlin 3 :55 (19oo);in Engler,Monogr.,Afr.Pflanzenf.6 : 33,tab.II (1901).— Diels,Bot.Jahrb.53 :438 (1915).- Pellegrin,Bull. Soc.Bot.Fr.95:136 (1948).—Paiva,Mem.Soc.Brot.19 :29 (1966). = Unona confinis Pierre msc.in Herb.Mus.Paris.
+Medium-sized tree reaching 30 m in height; branches with grayish-brown bark; branchlets longitudinally fissured, tomentose with yellow stellate hairs. Leaves sessile to subsessile; blade coriaceous, oblong-lanceolate, 13–20–40 cm long, 4–11 cm wide, attenuate-acuminate at apex, attenuate towards the rounded base and decurrent on the petiole; upper surface lustrous and glabrous, lower surface covered with a very dense felt of small yellowish stellate hairs. Midvein subplane above, prominent and very thickened towards the base below; lateral veins 15–22 pairs, oblique at an acute angle, joined in arches near the margin, prominent on both surfaces; reticulum clearly visible on both surfaces.
 
-Arbre moyen pouvant atteindre 3o m de hauteur; rameaux aécorce gris brunatre；ramilles fissurées longitudinalement, tomenteuses jaunes ä poils étoiles. Feuilles sessiles a subsessiles ; limbe coriace，oblong-lancéolé,long de （13） 2o-4o cm，large de 4-1I cm，atténué-acuminé au sommet，atténué vers la base arrondie et décurrente sur le pétiole； face supérieure luisante et glabre,face inférieure couverte d'un feutrage tres dense de petits poils étoilés jaunatres. Nervure médiane subplane au-dessus, proéminente et tres épaissie vers la base en dessous; nervures latérales 15-22 paires,obliques á angle aigu,réunies en arceaux pres de la marge,saillantes sur les deux faces；réticulum bien visible sur les deux faces.
+Inflorescences in very contracted racemes (approximately 1 cm in length), simple or fasciculate, 2–3-flowered, arising on leafless branches. Pedicel articulate, thick, 10–12 mm long, tomentose, furnished at the base with small suborbicular bracts and at the apex, below the calyx, with two opposite bracteoles, broadly ovate, 10–13 mm long, 9–12 mm wide, tomentose on the exterior, glabrous on the interior, tardily caducous. Floral bud ovoid-globose, yellow tomentose. Sepals thick, broadly ovate, 14–17 mm long, 12–17 mm wide, yellow stellate-tomentose on the exterior, glabrous on the interior. Petals concave, stellate-tomentellose on the exterior, glabrous on the interior, the external ones ovate-oblong, 15–25 mm long, the inner ones narrower, with a caudate apex. Stamens numerous, subsessile, oblong, ± 1 mm long, thecae linear, connectives dilated above the anthers. Carpels numerous, free, slender, ± 2 mm long, clearly exceeding the stamens, ovaries cylindric, sparsely pubescent, styles distinct, stigmas enlarged. Receptacle conical. Ovule 1, erect at the base of the ovarian cavity.
 
-Inflorescences en racemes tres contractés (1 cm de longueur environ,simples ou fasciculés,2-3 flores,naissant sur les rameaux défeuillés.Pédicelle articulé,épais,long de Io-I2 mm, tomenteux, muni a la base de petites bractées suborbiculaires,et au sommet, sous le calice，de deux bractéoles opposées, largement ovées, longues de 1o-13 mm,larges de 9-12 mm, tomenteuses a l'extérieur, glabres â l'intérieur, tardivement caduques.Bouton floral ovoideglobuleux, tomenteux jaune. Sépales épais, largement ovés, longs de 14-17 mm, larges de I2-17 mm,tomenteux-stellés jaunes a
-
-'extérieur,glabres ä l'intérieur. Pétales concaves, tomentelleux-stellés a 'extérieur, glabres a l'intérieur,les externes ovés-oblongs, longs de 15-25 cm,les internes plus étroits, á sommet caudé.Etamines nombreuses,subsessiles,oblongues, longues de ± 1 mm, theques linéaires, connectifs dilatés au-dessus des antheres. Carpelles nombreux, libres，greles, longs de ± 2 mm，dépassant nettement les étamines,ovaires cylindriques,éparsement pubescents, styles nets, stigmates élargis. Réceptacle conique. Ovule 1, dressé au fond de la cavité ovarienne.
-
-Fruits á pédicelle long de 1-1,5 cm,glabre,ovoide á subglobuleux,muriqué, long de 4-6 cm,large de 3,5-4 cm,éparsement pubescents；méricarpes obpyramidaux,concrescents dans les 3/4 inférieurs.Graines nombreuses,brun clair，ellipsoides aplatie, apiculées au sommet,marquées d'une légere créte longitudinales sur les bords,longues de I cm,larges de o,5 cm environ.
+Fruits with pedicel 1–1.5 cm long, glabrous, ovoid to subglobose, muriculate, 4–6 cm long, 3.5–4 cm wide, sparsely pubescent; mericarps obpyramidal, concrescent in the lower 3/4. Seeds numerous, light brown, ellipsoid flattened, apiculate at the apex, marked with a slight longitudinal ridge on the margins, approximately 1 cm long, approximately 0.5 cm wide.
 
 ## Type
 
@@ -37,15 +33,13 @@ Sargos 29,Kouilou inférieur (holotype P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of humid dense forest widespread in Cameroon, Gabon, Congo-Brazzaville and Angola (Cabinda).
 
-Espéce de foret dense humide répandue au Cameroun, Gabon, Congo-Brazzaville et Angola (Cabinda).
-
-Cette variété n'est connue que par le type qui possede seulement quelques jeunes boutons floraux,nettement plus petits que ceux de la varieté type，et axillaires sur les rameaux feuillés. Les feuilles sont en outrc plus petites, elliptiques-lancéolées, nettement cunéiformes á la base；leur face inférieure est couverte par le méme feutrage de poils étoilés jaunes,caractéristique de la varieté type.
+This variety is known only from the type which possesses only a few young floral buds, distinctly smaller than those of the typical variety, and axillary on the leafy branches. The leaves are moreover smaller, elliptic-lanceolate, distinctly cuneiform at the base; their lower surface is covered by the same felt of yellow stellate hairs, characteristic of the typical variety.
 
 ## Vernacular names
 
-Gwenga (Baloumbo)，Ntom， Inetom(Fang)， Ekango
+Gwenga (Baloumbo),Ntom, Inetom(Fang), Ekango
 
 Ntombo, Tombo
 
@@ -59,7 +53,7 @@ Fleury 265g3,environs du lac Zilé pres d'Atsié sur 'Ogooué.
 
 N.Hallé et Le Thomas 734,Petit Bam-Bam (fr.,aout).
 
-Klaine 217,type (fl.,fr.,oct.)； s.n.,région de Libreville (fl.,avril).
+Klaine 217,type (fl.,fr.,oct.); s.n.,région de Libreville (fl.,avril).
 
 Lecomte s.n., région de Libreville,sept.1896.
 
@@ -69,9 +63,9 @@ Thollon 3og,33o,s. n.,sans localité précise (fr.).
 
 var. Sargosii Le Thomas, var. nov.
 
-= Pachypodanthium Sargosii Fries msc.in herb. Sargos 29,P!.- Pellegrin, Bull.Soc.Bot.Fr.95 ：136(1948).— Fries,in Engl.et Prantl,Nat. Pflanzenf.,ed.2,17a,2:6o (1959).
+= Pachypodanthium Sargosii Fries msc.in herb. Sargos 29,P!.- Pellegrin, Bull.Soc.Bot.Fr.95 :136(1948).— Fries,in Engl.et Prantl,Nat. Pflanzenf.,ed.2,17a,2:6o (1959).
 
-A typo difert foliis minoribus，Io-I4 cm longis，2,5-3，5 cm latis,basi acutis,alabastris minoribus,5 mm in diam.,in ramis foliosis axillaribus.
+A typo difert foliis minoribus,Io-I4 cm longis,2,5-3,5 cm latis,basi acutis,alabastris minoribus,5 mm in diam.,in ramis foliosis axillaribus.
 
 ## Notes
 

@@ -21,21 +21,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or subshrub with cylindrical young branches and smooth glabrescent bark; bark of older branches somewhat reticulate, brown.
 
-Arbrisseau ou sous-arbrisseau à jeunes rameaux cylindriques à écorce lisse glabrescente; écorce des rameaux âgés un peu réticulée, brune.
+Leaves quite characteristic, almost always glabrous; petiole 1–4 mm, scabrid, glabrous (except when young). Limb 6–9 cm long (rarely 10–12) by 3–4.5 cm wide, generally very ovate or ovate-elliptic, somewhat asymmetrical-oblique, rather abruptly narrowed into a narrow (1–3 mm) and long (10–25 mm) acumen, straight or curved. Lower surface somewhat paler than upper surface, greyish-green. Primary vein generally straight or slightly curved, except at the level of the acumen. Lateral veins 15–20, well-prominent on the lower surface, paler than the limb, regularly inclined toward the margin, anastomosing. Tertiary network scarcely visible.
 
-Feuilles assez caractéristiques, presque toujours glabres; pétiole de 1-4 mm, rude, glabre (sauf à l'état jeune). Limbe de 6-9 cm de long (rarement 10-12) sur 3-4,5 de large, généralement très ovale ou ovale-elliptique, un peu asymétrique-oblique, assez brusquement rétréci en un acumen étroit (1-3 mm) et long (10-25 mm), droit ou courbé. Face inférieure un peu plus claire que la face supérieure, grisâtre-vert. Nervure principale généralement droite ou peu courbée, sauf au niveau de l'acumen. Nervures latérales 15-20, bien proéminentes sur la face inférieure, plus claires que le limbe, régulièrement inclinées vers la marge, anastomosées. Réseau tertiaire peu visible.
+Flowers pentamerous, large (35–45 mm long at anthesis). Floral bud very characteristic even when young by its pubescent-greyish tube (velvety or hirsute, but not silky) very abruptly enlarged at the level of the perigone divisions, the latter grouped into a conical bud narrowly acuminate at the apex. Tube of the open flower 25–30 mm long, pubescent, 1–1.5 mm in diameter; sepals narrowly triangular, lanceolate-acuminate, somewhat thickened-keeled in their pubescent median part, finer and puberulent on the margins, 8–15 mm long by 2–3 mm at the base and less than 1 mm at the apex, the latter subulate. 5 petals white-pearlescent, deeply bifid, with lobes 10–20 mm long by 2–3 mm wide at the base, often exceeding the sepals, generally lanceolate-acuminate, sometimes somewhat irregularly dentate at the apex or on the margins. Stamens 5–8 mm, with anthers 2 mm, the latter alone exserted. Ovary stipitate, with filiform style 20–35 mm long; stigma generally included, sometimes exsert, globulose-claviform or clearly spherical, often strongly papillose.
 
-Fleurs pentamères, grandes (35-45 mm de long à l'épanouissement). Bouton floral très caractéristique même à l'état jeune par son tube pubescent-grisâtre (velouté ou hirsute, mais non soyeux) très brusquement élargi au niveau des divisions du périgone, celles-ci groupées en un bouton conique étroitement acuminé au sommet. Tube de la fleur épanouie de 25-30 mm de long, pubescent, de 1-1,5 mm de diamètre; sépales étroitement trian-
+Fruit glabrescent, red-orange, 12–15 mm long, 8–10 mm in diameter.
 
-gulaires, lancéolés-acuminés, un peu épaissis-carénés dans leur partie médiane pubescente, plus fins et pubérulents sur les marges, de 8-15 mm de long sur 2-3 à la base et moins de 1 au sommet, celui-ci en alène. 5 pétales blanc-nacré, profondément bifides, à lobes de 10-20 mm de long sur 2-3 de large à la base, dépassant souvent les sépales, généralement lancéolés-acuminés, parfois un peu irrégulièrement dentés au sommet ou sur les marges. Étamines de 5-8 mm, à anthères de 2 mm, ces dernières seules saillantes. Ovaire stipité, à style filiforme long de 20-35 mm; stigmate généralement inclus, parfois exsert, globuleux-claviforme ou nettement sphérique, souvent fortement papilleux.
+Type described from Lower Congo (Cabra-Tilman 59, BR!).
 
-Fruit glabrescent, rouge-orangé, de 12-15 mm de long, 8-10 mm de diamètre.
-
-Type décrit du Bas-Congo (Cabra-Tilman 59, BR!).
-
-Plante des régions forestières, pouvant se maintenir dans les défrichements, essentiellement répandue dans la cuvette congolaise.
+Plant of forest regions, able to persist in clearings, essentially distributed in the Congolian basin.
 
 ## Specimens examined
 

@@ -17,31 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne, 3–15 cm de hauteur ; tiges souvent plusieurs dès de la base, teintées de rouge. Feuilles inférieures en rosette , plus grandes que les supérieures ; limbe étroitement elliptiqueoblong, 15–60 × 2–10 mm, base longuement atténuée, sommet obtus, ± coriace. Inflores cence terminale, en cyme corymbiforme pluriflore, portée par un pédoncule atteignant 50 mm . Fleur : pédicelle 1–2 mm ; calice 8–10 mm de longueur, tube 5 mm de longueur, coriace, lobes triangulaires à étroitement triangulaires, 3–5 mm de longueur, verts à marge pourpre à rouge ; corolle 10–13 mm de longueur, bleue, lilas à pourpre , tube 6–8 mm de
-
-B C D E A B, C par M. Schaijes (©) ; D, E par J.P Vande weghe (©).)
-
-longueur, lobes largement ovales-triangulaires, 3–5 mm de longueur ; étamines à filet de 2–5 mm, anthère 0,5–1 mm de longueur ; ovaire étroitement ellipsoïde ; style 8–9 mm. Fruit ellipsoïde, ± 3 mm de longueur. Graine ± 0,3 mm de diamètre.
+Perennial herb, 3–15 cm tall; stems often several from the base, tinged with red. Lower leaves in a rosette, larger than the upper ones; blade narrowly elliptic-oblong, 15–60 × 2–10 mm, base long-attenuate, apex obtuse, ± coriaceous. Inflorescence terminal, in a pluriflorous corymbiform cyme, borne on a peduncle reaching 50 mm. Flower: pedicel 1–2 mm; calyx 8–10 mm long, tube 5 mm long, coriaceous, lobes triangular to narrowly triangular, 3–5 mm long, green to purple or red margin; corolla 10–13 mm long, blue, lilac to purple, tube 6–8 mm long, lobes broadly ovate-triangular, 3–5 mm long; stamens with filament 2–5 mm, anther 0.5–1 mm long; ovary narrowly ellipsoid; style 8–9 mm. Fruit ellipsoid, ± 3 mm long. Seed ± 0.3 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée équatoriale, Gabon, l’ouest de la République du Congo et en Angola (Cabinda) ; au Gabon, présent le long de la côte
+Equatorial Guinea, Gabon, western Republic of the Congo and Angola (Cabinda); in Gabon, present along the coast
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes côtières, humides, sur sable blanc : entre 0 et 20 m d’altitude
+humid coastal savannas, on white sand: between 0 and 20 m altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce, assez commune entre Omboué et Iguéla, est bien illustrée par Vande weghe (2007), remarquable avec ses fleurs bleues à pourpres, réunies dans des inflorescences terminales et corymbi formes. B : Raynal (1968), Vande weghe (2007). i B liographie
+This species, fairly common between Omboué and Iguéla, is well illustrated by Vande weghe (2007), remarkable with its blue to purple flowers, gathered in terminal and corymbiform inflorescences. Bibliography: Raynal (1968), Vande weghe (2007).
 
 ## Notes
 

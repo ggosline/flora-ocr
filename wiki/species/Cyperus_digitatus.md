@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste, vivace ; rhizome rampant, épais de 8‒12 mm, ligneux, couvert d’écailles brun rougeâtre se décomposant en fibres noirâtres ; tiges de 50‒160 cm × 2‒10 mm, triquètres à presque ailées, scabres à presque lisses. Feuille : gaine brune à pourpre ; limbes basaux peu nombreux, les plus grands de 20‒50 cm × 6‒12 mm , plans, scabres au moins sur les marges et la nervure centrale. Inflorescence en anthèle de 4‒20 × 3‒15 cm , formée d’un groupe sessile d’épis et de 2‒6 groupes pédonculés (inflorescence rarement compacte avec tous les groupes d’épis sessiles ou très courtement pédonculés) ; rayons primaires longs de 0,5‒20 cm ; bractées involucrales primaires foliacées, de 12‒60 cm × 4‒12 mm, dressées ou étalées ; épis de 1‒5 cm × 8‒20 mm , avec 15‒60 épillets étalés. Épillet linéaire, de 4‒10 × 0,8‒1 mm , cylindrique ou anguleux, à 10‒20 fleurs ; glumes ovales–elliptiques, longues de 2,1‒2,4 mm, brun rougeâtre à dorées avec une nervure centrale verte dépassant légèrement le sommet. Fleur : style à 3 branches. Akène elliptique, de 1‒1,4 × 0,3‒0,4 mm , trigone, gris foncé, finement papilleux.
+Robust, perennial herb; rhizome creeping, 8–12 mm thick, woody, covered with reddish-brown scales decomposing into blackish fibres; stems 50–160 cm × 2–10 mm, triquetrous to almost winged, scabrous to almost smooth. Leaf: sheath brown to purple; basal laminae few in number, the largest 20–50 cm × 6–12 mm, plane, scabrous at least on the margins and central nerve. Inflorescence an anthela of 4–20 × 3–15 cm, formed of one sessile group of spikes and 2–6 pedunculate groups (inflorescence rarely compact with all spike groups sessile or very shortly pedunculate); primary rays 0.5–20 cm long; primary involucral bracts foliaceous, 12–60 cm × 4–12 mm, erect or spreading; spikes 1–5 cm × 8–20 mm, with 15–60 spikelets spreading. Spikelet linear, 4–10 × 0.8–1 mm, cylindric or angulous, with 10–20 flowers; glumes ovate–elliptic, 2.1–2.4 mm long, reddish-brown to golden with a green central nerve slightly exceeding the apex. Flower: style with 3 branches. Achene elliptic, 1–1.4 × 0.3–0.4 mm, trigonous, dark grey, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale ; rare au Gabon, trouvée seulement dans l’Ogooué-Ivindo et le Woleu-Ntem (2 récoltes)
+widely distributed in tropical Africa; rare in Gabon, found only in Ogooué-Ivindo and Woleu-Ntem (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les marécages ou près des eaux, souvent le long des rivières ou dans des habitats saisonnièrement inondés ; au Gabon, à 300‒600 m d’altitude, à 0‒2000 m ailleurs
+in swamps or near water, often along rivers or in seasonally flooded habitats; in Gabon, at 300–600 m altitude, at 0–2000 m elsewhere
 
 ## Vernacular names
 

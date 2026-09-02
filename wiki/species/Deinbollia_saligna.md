@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Remarkable species characterized by the small dimensions of the leaflets and their narrowness (hence the specific name). Shrub approximately 1 m tall with puberulent then glabrous branches; leaves clustered at the apex (internodes 0.5–2.5 cm); petiole 3–6 cm; leaf rachis 7–14 cm; leaves slightly coriaceous.
 
-Espèce remarquable par les faibles dimensions des folioles et leur étroitesse (d'où le nom spécifique). Arbrisseau d'environ 1 m à rameaux pubérulents puis glabres; feuilles réunies en bouquet au sommet (entre-
-
-nœuds de 0,5-2,5 cm); pétiole de 3-6 cm; rachis foliaire de 7-14 cm; feuilles légèrement coriaces.
-
-Inflorescences, 2-11 cm, simples ou à rares ramules d'env. 3 cm sous le bouquet des feuilles, donc axillaires de feuilles tombées; cymules de 3-7 fleurs. Boutons de 3 mm; pétales, 3 mm, à onglet cilié et écaille velue, limbe cilié au bord; 15-17 étamines.
+Inflorescences, 2–11 cm, simple or with rare branchlets of approximately 3 cm below the leaf cluster, thus axillary to fallen leaves; cymules of 3–7 flowers. Buds 3 mm; petals, 3 mm, with ciliate claw and hairy scale, limb ciliate at margin; 15–17 stamens.
 
 ## Type
 
@@ -33,9 +29,7 @@ Schlechter 13026, Ibadan, Nigeria (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Aire s’étendant au Nigeria oriental (province de Calabar).
+Range extending to eastern Nigeria (Calabar province).
 
 10 bis. Deinbollia leptophylla Gilg ex Radlkofer
 
@@ -43,19 +37,19 @@ in ENGL., Pflanzenreich, Sapindaceae : 679 (1932).
 
 — D. leptophylla GILG, in SCHLECHTER, Westafr. Kautschuk Exp.: 298 (1900), nomen.
 
-Feuilles 3-4-juguées de 20-35 cm; folioles de 12-14 × 3-4 cm; pétiolule de 1-3 mm. Inflorescences d'env. 4 cm. Boutons tomenteux roux, de 3 mm.
+Leaves 3–4-jugate, 20–35 cm; leaflets 12–14 × 3–4 cm; petiolule 1–3 mm. Inflorescences approximately 4 cm. Buds rusty tomentose, 3 mm.
 
-Cette espèce se distingue aisément de toutes les autres espèces décrites dans cet ouvrage, par le tomentum roux de ses boutons (mis à part D. molluscula).
+This species is readily distinguished from all other species described in this work by the rusty tomentum of its buds (apart from D. molluscula).
 
-APHANIE/E Radlkofer
+APHANIAE Radlkofer
 
 in DURAND, Ind. Gen. : 74 (1887); Sitzungsber. Bayer. Akad. Wiss. München 20 : 217 (1890); in ENGL., Pflanzenreich, Sapindaceae : 692 (1932).
 
-Sapindacées monospermées à feuilles paripennées, arbustives ou arborescentes. Fleurs le plus souvent régulières. Fruit se fendant à maturité en méricarpes drupacés dont l'endocarpe crustacé n'adhère pas au tégument séminal. Pas d'arille. Embryon droit ou courbe.
+Monospermatous Sapindaceae with paripinnate leaves, shrubby or arborescent. Flowers mostly regular. Fruit splitting at maturity into drupaceous mericarps whose crustaceous endocarp does not adhere to the seed coat. No aril. Embryo straight or curved.
 
-GENRE-TYPE : Aphania Blume.
+TYPE GENUS: Aphania Blume.
 
-Tribu comprenant 4 genres extra-africains en plus du genre Aphania représenté dans toute l’Afrique tropicale et à Madagascar par une seule espèce.
+Tribe comprising 4 genera extra-African in addition to the genus Aphania represented throughout tropical Africa and Madagascar by a single species.
 
 ## Notes
 

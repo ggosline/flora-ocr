@@ -21,13 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Desv., Ann. Soc. Linn. Paris 6 : 178 (1827). — Tard., Mém. IFAN 50 : 19, pl. 3, 3-5 (1957). — Alston, FWTA : 27 (1959).
 
-Racines fasciculées. Tiges horizontales, à branches nombreuses. Lobes foliaires rougeâtres, ovales, non scarieux. Macros-
-
-pores portant de nombreux flotteurs, finement granuleuses. Microsporange à plusieurs massulae.
+Fasciculate roots. Horizontal stems, with numerous branches. Leaf lobes reddish, ovate, not scarious. Macrospores bearing numerous floats, finely granular. Microsporangium with several massulae.
 
 ## Type
 

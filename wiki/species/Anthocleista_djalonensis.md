@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — LEEUWENBERG, l. c. : 20, fig. 8-10, carte 6. — FWTA ed. 2, 2 : 35.
 
-Arbre de 8-15 m de hauteur; tronc de 15-40 cm de diamètre, sans racines-échasses; petits rameaux sans ou avec deux épines confluentes, érigées ou peu divergentes, ou avec de simples petites protubérances.
+Tree 8-15 m tall; trunk 15-40 cm in diameter, lacking stilt roots; small branches without or with two confluent spines, erect or slightly divergent, or with simple small protuberances.
 
-Feuilles pétiolées; limbe coriace ou, chez les jeunes plantes, subcoriace, étroitement elliptique ou obové, 1,5-3,5 fois plus long que large, de 9-35 × 4,5-17 cm, chez les jeunes plantes généralement plus étroit et atteignant jusqu'à 115 × 50 cm, obliquement cordé, arrondi ou cuné à la base, ou décurrent sur le pétiole; nervation assez distincte; marge non réfléchie.
+Leaves petiolate; blade coriaceous or, on young plants, subcoriaceous, narrowly elliptic or obovate, 1.5-3.5 times longer than wide, 9-35 × 4.5-17 cm, on young plants generally narrower and reaching up to 115 × 50 cm, obliquely cordate, rounded or cuneate at the base, or decurrent on the petiole; venation fairly distinct; margin not reflexed.
 
-Sépales orbiculaires, arrondis, de 6-10 mm de longueur, plus ou moins ruguleux et à peine ou non étalés sur échantillons secs; les intérieurs à peu près de mêmes dimensions que les extérieurs, souvent devenus émarginés par le développement de la corolle. Corolle dans le bouton mûr 5,5-6 fois plus longue que le calice, de 30-50 mm de longueur, arrondie ou subtronquée au sommet, blanche ou crème; tube plus foncé que les lobes, 3-4 fois plus long que le calice et 2-3 fois plus long que les lobes; 11-14 lobes très étroitement oblongs, étalés.
+Sepals orbicular, rounded, 6-10 mm in length, more or less rugose and scarcely or not spreading on dry specimens; the inner ones approximately the same dimensions as the outer, often becoming emarginate through the development of the corolla. Corolla in the mature bud 5.5-6 times longer than the calyx, 30-50 mm in length, rounded or subtruncate at the apex, white or cream; tube darker than the lobes, 3-4 times longer than the calyx and 2-3 times longer than the lobes; 11-14 lobes very narrowly oblong, spreading.
 
-Baies ellipsoïdes, de  $ 3,5-5 \times 2-3,5 $ cm, arrondies au sommet, non ridées à l'état sec, à paroi de  $ 3 \, mm $ d'épaisseur. Pl. 1 et 2, p. 16 et 17.
+Berries ellipsoid, 3.5-5 × 2-3.5 cm, rounded at the apex, not wrinkled when dry, with wall 3 mm in thickness. Pl. 1 and 2, p. 16 and 17.
 
 ## Type
 
@@ -35,9 +33,7 @@ Chevalier 12221, Kollangui, Guinée
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et Cameroun. Espèce très répandue en brousse et en savane en Afrique occidentale; elle est rare au Cameroun, où son biotope est occupé par A. schweinfurthii. Altitude 0-700 m.
+West Africa and Cameroon. Species very widespread in bush and savanna in West Africa; it is rare in Cameroon, where its biotope is occupied by A. schweinfurthii. Altitude 0-700 m.
 
 ## Specimens examined
 

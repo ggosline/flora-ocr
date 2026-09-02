@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, reference of the typical var. — F.W.T.A. ed. 2, 2:211 (1963). — Bremek., Verh. K. Nederl. Akad. Wetensch., Afd. Natuurk. sect. 2, 48 : 467 (1952).
 
-, référence de la var. type. — F.W.T.A. ed. 2, 2:211 (1963). — Bremek., Verh. K. Nederl. Akad. Wetensch., Afd. Natuurk. sect. 2, 48 : 467 (1952).
+Description established from Gabonese specimens:
 
-Description établie d’après les spécimens gabonais :
+Small herb 2–10 cm, ± erect, ± branched. Internodes 0.3–1 cm, glabrous, with fine ridges. Stipules truncate, with denticles. Leaf narrowly elliptic to linear, 7–8 × 0.5–3 mm.
 
-Petite herbe de 2-10 cm, ± dressée, ± divisée. Entrenœuds de 0,3-1 cm, glabres, à fines arêtes. Stipules tronquées, avec des denticules. Feuille étroitement elliptique à linéaire, de 7-8 × 0,5-3 mm.
+Flowers axillary sessile, 1(2) per axil. Calyx with 5–8 acute lobes approximately 1 mm. Small white or pink corolla approximately 1 mm. Style glabrous.
 
-Fleurs axillaires sessiles, 1(2) par aisselle. Calice à 5-8 lobes aigus de 1 mm env. Petite corolle blanche ou rosée de 1 mm env. Style glabre.
-
-Fruit avant maturité atteignant près de 2 mm.
+Fruit before maturity reaching nearly 2 mm.
 
 ## Type
 
@@ -40,11 +38,9 @@ Hohenacker s. n., Lenkoran, 1838 (P! ex herb. E. Cosson)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The typical variety differs by its 4-lobed calyces; it is widespread from Senegal to East and Southern Africa; also known from Southern Europe, Algeria, and Asia Minor: it is not known from Gabon. The variety pleiosepala presents approximately the same distribution in tropical Africa as the typical var. The species under both its varieties is rather known from dry tropical regions; it has however already been recorded in dense humid forest areas, in the former Belgian Congo.
 
-La variété type diffère par ses calices 4-lobés, elle est répandue du Sénégal à l'Afrique orientale et australe; connue également d'Europe méridionale, d'Algérie, et d'Asie mineure : elle n'est pas connue du Gabon. La variété pleiosepala présente à peu près la même répartition en Afrique tropicale que la var. type. L'espèce sous ses deux variétés, est plutôt connue des régions tropicales sèches; elle a pourtant déjà été signalée en pays de forêt dense humide, au Congo ex-belge.
-
-Berges sableuses temporairement inondées de rivières, lacs ou flaques  $ \pm $ persistantes.
+Sandy banks temporarily flooded by rivers, lakes or ± persistent pools.
 
 ## Specimens examined
 

@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 a. — Var. variabile.
 
 — Hk., Sp. 3 : 93, t. 185 (1860). — Tard., Mém. IFAN 28 : 174, pl. 32, f. 3-4 (1953). — Alston, FWTA : 56 (1959).
 
-Rhizome courtement rampant, à frondes légèrement espacées, portant des écailles deltoïdes, à bords entiers, cellules à parois foncées, épaisses, lumière incolore. Pétiole long de 7-12 cm, écailleux à la base, ailé sur 1/2 à 2/3 de sa longueur. Limbe entier, long de 15-20 cm sur 3-4 de large, à base cunéiforme ou oblique, longuement décurrente sur le pétiole, à marges irrégulièrement sinuées-dentées, à extrémité progressivement effilée. Fronde portant parfois à sa base deux lobes obtus. Frondes fertiles légèrement plus développées que les stériles. Nervures bifurquées, atteignant presque la marge. Costa pâle, presque straminé. Sores allongés, s'étendant du costa presque jusqu'à la marge. Spores ovales, portant de grandes crêtes en forme d'épines.
+Rhizome shortly creeping, with fronds slightly spaced, bearing deltoid scales, with entire margins, cells with dark, thick walls, colorless lumen. Petiole 7-12 cm long, scaly at the base, winged for 1/2 to 2/3 of its length. Blade entire, 15-20 cm long by 3-4 cm wide, with cuneate or oblique base, long-decurrent on the petiole, with irregularly sinuate-dentate margins, with gradually tapered apex. Frond sometimes bearing two obtuse lobes at its base. Fertile fronds slightly more developed than the sterile ones. Veins bifurcate, reaching almost to the margin. Costa pale, almost straw-colored. Sori elongate, extending from the costa almost to the margin. Spores oval, bearing large spine-shaped crests.
 
 ## Type
 
@@ -38,15 +36,13 @@ Gonja, Holst 4246 (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Liberia, Ghana, Cameroon, Gabon, Congo, Fernando Po.
 
-Guinée, Libéria, Ghana, Cameroun, Gabon, Congo, Fernando-Po.
+Emergent rocks, inundated forest.
 
-Rochers exondés, forêt inondée.
+Guinea, Côte-d'Ivoire, Ghana, São Thomé, Uganda, Tanganyika, Madagascar.
 
-Guinée, Côté-d'Ivoire, Ghana, San-Thomé, Ouganda, Tangyika, Madagascar.
-
-Bas-fonds broussailleux, en bordure de rivière.
+Bushy lowlands, at riverside margins.
 
 ## Specimens examined
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Phyllocosmus africanus Klotzsch, Abhandl. K. Preuss. Akad. Wiss. Berlin : 232 (1857). — DE WILD. Ann. Mus. Congo belge, Bot., ser. 5, 2 : 258 (1908).
 
 — P. dewevrei ENGL., loc. cit. : 109 (1902). — DE WILD., loc. cit. : 258 (1908). — TH. & H. DUR., Syll. : 76 (1909), p.p. — ENGL. in MILDBR., Deutsch. Zentr.-Afr. Exp. 1907-1908, 2 : 422 (1912).
@@ -33,11 +31,11 @@ tags: [species, generated]
 
 — O. senensis (Klotzsch ex Engl.) Hall. F. var. latifolius (Engl.) De Wild., Plant. Bequaert. 4:257 (1927).
 
-Arbre haut de 10-35 m ou arbusté à ramilles glabres. Feuilles pétiolées ou subsessiles; stipules glabres, ⊥ ovées, longues de 2-3 mm; pétiole glabre, de 2-5 mm. Limbe glabre, ové à elliptique, rarement obové, cunée à la base, acuminé au sommet, à bords munis de dents glanduleuses surtout dans la partie supérieure, 6-16 × 2-6,5 cm. Nervures secondaires ascendantes, peu saillantes sur les 2 faces; nervilles fines, parallèles, distinctes à la face inférieure.
+Tree 10–35 m tall or shrubby with glabrous branchlets. Leaves petiolate or subsessile; stipules glabrous, ⊥ ovate, 2–3 mm long; petiole glabrous, 2–5 mm. Blade glabrous, ovate to elliptic, rarely obovate, cuneate at the base, acuminate at the apex, with margins bearing glandular teeth especially in the upper part, 6–16 × 2–6.5 cm. Secondary veins ascending, slightly prominent on both surfaces; veinlets fine, parallel, distinct on the lower surface.
 
-Inflorescences en racèmes pubérulents à pubescents, le plus souvent ramiﬁés à la base, axillaires, solitaires ou groupés en fascicules. Fleurs solitaires ou par 2-10, groupées en fascicules. Pédicelle pubérulent, de 2-3 mm. Bractées longues de 1-2 mm; bractéoles caduques. Sépales pubérulents à la base, ovés-oblongs, légèrement inégaux, 1,5 × 1 mm, denticulés. Pétales glabres, oblongs-ovés, émarginés au sommet, accrescents et persistantes contre le fruit à maturité, à nervures parallèles fines, 3-4 × 2 mm. Étamines 5, glabres, subégales, d'environ 5 mm; anthères oblongues, longues d'environ 0,75 mm. Ovaire glabre, ovoïde, large d'environ 0,5 mm; style glabre, indivis, de 3-4 mm; stigmate terminal, 5-lobé.
+Inflorescences in puberulent to pubescent racemes, most often branched at the base, axillary, solitary or grouped in fascicles. Flowers solitary or in groups of 2–10, clustered in fascicles. Pedicel puberulent, 2–3 mm. Bracts 1–2 mm long; bracteoles caducous. Sepals puberulent at the base, ovate-oblong, slightly unequal, 1.5 × 1 mm, denticulate. Petals glabrous, oblong-ovate, emarginate at the apex, accrescent and persistent against the fruit at maturity, with fine parallel veins, 3–4 × 2 mm. Stamens 5, glabrous, subequal, about 5 mm; anthers oblong, about 0.75 mm long. Ovary glabrous, ovoid, about 0.5 mm broad; style glabrous, undivided, 3–4 mm; stigma terminal, 5-lobed.
 
-Capsule ovoïde à subglobuleuse, 4-6 × 2,5-5 mm, à 1-3 loges fertiles contenant chacune une seule graine. Graine munie d'un arille, quasiment lisse, ± elliptique, d'environ 3 × 2 mm. PL. 14, 1-5, p. 61.
+Capsule ovoid to subglobose, 4–6 × 2.5–5 mm, with 1–3 fertile locules each containing a single seed. Seed with an aril, nearly smooth, ± elliptic, about 3 × 2 mm. PL. 14, 1–5, p. 61.
 
 ## Type
 
@@ -45,9 +43,7 @@ Don s.n., Sierra Leone (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts sèches, forêts hygrophiles, forêts ripicoles et périodiquement inondées, formations marécageuses, termitières, savanes boisées. De la Guinée au Gabon, à la République Centrafricaine et au Zaïre.
+Dry forests, hygrophilous forests, ripicole and periodically inundated forests, marshy formations, termite mounds, wooded savannas. From Guinea to Gabon, the Central African Republic, and Zaïre.
 
 ## Specimens examined
 

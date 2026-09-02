@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — A. staudtii auct. non ENGL. : DE WILD., Pl. Bequaert. 1 : 236, pro parte (1922).
 
 ## Notes

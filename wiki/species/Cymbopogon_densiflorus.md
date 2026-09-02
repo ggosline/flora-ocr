@@ -23,23 +23,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Glabrous herbs; leaf sheaths rounded, ligules short, truncate. Blade linear, enlarged and rounded at the base, acuminate at the apex, glaucous, reaching over 30 cm long and 2.5 cm wide. Panicle very dense, up to 15–20 cm long and 10 cm wide. Racemes 8 to 15 mm long, rachis articles and pedicels 2 mm, ciliate toward the apex.
 
-Herbes glabres; gaines folaires arrondies, ligules courtes, tronquées. Limbe linéaire, élargi et arrondi à la base, acuminé au sommet, glauque, pouvant dépasser 30 cm de long et 2,5 cm de large. Panicule très dense, jusqu'à 15-20 cm de long et 10 de large. Racèmes de 8 à 15 mm de long, articles du rachis et pédi-celles de 2 mm, ciliés vers le sommet.
+Fertile spikelets 3 mm long, lower glume flattened or slightly depressed on the back, bicarinate. Upper glume narrowly carinate toward the apex. Lower flower reduced to a glumelle. Upper flower with lemma reduced to a very fine appendage, generally entire prolonged by a fine awn, the whole measuring about 5 mm. Pedicellate spikelets 2.5 to 3 mm long, generally reduced to the glumes.
 
-Épillets fertiles de 3 mm de long, glume inférieure aplatie ou légèrement déprimée sur le dos, bicarénée. Glume supérieure étroitement carénée vers le sommet. Fleur inférieure réduite à une glumelle. Fleur supérieure à lemma réduite à un appendice très fin, généralement entier prolongé par une fine arête, l'ensemble mesurant environ 5 mm. Épillets pédicellés de 2,5 à 3 mm de long, généralement réduits aux glumes.
+This species is reported from Congo, Ubangi, Angola and East Africa.
 
-Cette espèce est signalée au Congo, en Oubangui, en Angola et dans l'Est africain.
+In Gabon, it is frequently planted around villages; it is a fetish plant: it is used in fumigation in the course of numerous ceremonies.
 
-Au Gabon, elle est fréquemment plantée autour des villages; c'est une plante fétiche : on l'utilise en fumigation au cours de nombreuses cérémonies.
+The pounded leaves are also used to treat rheumatism.
 
-Les feuilles pilonnées servent également à soigner les rhumatismes.
+Vernacular names (according to Walker and Tisserant):
 
-Noms vernaculaires (d’après Walker et Tisserant) :
-
-Esakuna (Mpongwé, Benga); Esakuné-monda (Ngaloa, Nkomi, Orungu); Ndéra, Nnom-nlong, Nlong-békü (Fang); Itsatsangu
-
-(Echira, Bavarama, Bavungu, Bapunu, Balumbu); Lisasangu (Bavili); Lésasangu (Banzabi); Sangu-sangu (Loango); Tsangu (ivéa); Disangu-sangu (Ngové); Ndjwala (Apindji); Ndjwada (Mitsogo); Sambirisa (Mindumu).
+Esakuna (Mpongwé, Benga); Esakuné-monda (Ngaloa, Nkomi, Orungu); Ndéra, Nnom-nlong, Nlong-békü (Fang); Itsatsangu (Echira, Bavarama, Bavungu, Bapunu, Balumbu); Lisasangu (Bavili); Lésasangu (Banzabi); Sangu-sangu (Loango); Tsangu (Ivéa); Disangu-sangu (Ngové); Ndjwala (Apindji); Ndjwada (Mitsogo); Sambirisa (Mindumu).
 
 ## Specimens examined
 

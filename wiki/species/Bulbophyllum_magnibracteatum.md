@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 1-3 × 0,6-1,5 cm, ovoïdes à ellipsoïdaux, à 1-foliés. Feuille subsessile, 3,8-12 × 1-1,8 cm, lancéolée à oblongue, obtuse. Inflorescence 5,5-22 cm, assez lâche, rachis ± limbiforme, glabre, 10-24-flore. Fleurs petites, sépales crème teinté de pourpre foncé vers le sommet ou entièrement. Sépales aigus, glabres ou finement papilleux surtout le long de marges ; sépale dorsal oblong à ové-lancéolé ; sépales latéraux semi-orbiculaires à obliquement largement ovés. Pétales crème, semi-ovés à obliquement oblongs-lancéolés, aigus, glabres. Labelle jaunâtre ou pourpre, glabre, oblong au-dessus d'une base triangulaire, sommet obtus, récurvé, épais, faiblement canaliculé. – Pl. 77, p. 157.
+Pseudobulbs 1–3 × 0.6–1.5 cm, ovoid to ellipsoid, 1-leaved. Leaf subsessile, 3.8–12 × 1–1.8 cm, lanceolate to oblong, obtuse. Inflorescence 5.5–22 cm, rather lax, rachis ± limbiform, glabrous, 10–24-flowered. Flowers small, sepals cream tinged with dark purple towards the apex or entirely. Sepals acute, glabrous or finely papillose especially along the margins; dorsal sepal oblong to ovate-lanceolate; lateral sepals semi-orbicular to obliquely broadly ovate. Petals cream, semi-ovate to obliquely oblong-lanceolate, acute, glabrous. Lip yellowish or purple, glabrous, oblong above a triangular base, apex obtuse, recurved, thick, weakly channelled. – Pl. 77, p. 157.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Centrafrique, Guinée équatoriale, Gabon, Congo (Kinshasa)
+Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–800 m. Epiphytic on bark in the crown of trees of lowland and submontane rainforest and mangrove
 
-alt. 0-800 m. Épiphyte sur l'écorce à la couronne des arbres de forêt planitaire et submontagnarde et de mangrove
+MATERIAL STUDIED (Map 27):
 
-MATÉRIEL ÉTUDIÉ (Carte 27) :
+Bos, van der Laan & Nzabi s.n., Ovang, E of Libreville, 0°29' N, 9°31' E, cult. WAG (85-318), non vidi.
 
-Bos, van der Laan & Nzabi s.n., Ovang, E de Libreville, 0°29' N, 9°31' E, cult. WAG (85-318), non vidi.
-
-Lecomte s.n., Batanga sur la Rambo, N'Komi, P!
+Lecomte s.n., Batanga on the Rambo, N'Komi, P!
 
 ## Figures
 

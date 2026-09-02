@@ -23,15 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herb 15–70 cm tall, branched towards the upper parts. Quadrangular stem 1–5 mm wide, with ± membranous winged angles. Glabrous internodes 2–15 cm. Multifid stipules ± spreading, glabrous or slightly pubescent at the base, with 5–13 filiform teeth. Petiole (1)2–20 mm, glabrous. Blade ovate, thin, micropubescent above, glabrous below, (1)2–9 × 0.3–4 cm, with cuneate-decurrent base, lanceolate apex. Midvein not glabrous above. (5)6–7(8) pairs of ascending secondary veins well apparent.
 
-Herbe dressée de 15-70 cm de hauteur, rameuse vers les parties supérieures. Tige quadrangulaire de 1-5 mm de largeur, à arêtes ailées ± membraneuses. Entrenœuds glabres de 2-15 cm. Stipules multifides ± étalées, glabres ou un peu pubescentes à la base, à 5-13 dents filiformes. Pétiole de (1)2-20 mm, glabre. Limbe ové, mince, micropubérulent dessus, glabre dessous, de (1)2-9 × 0,3-4 cm, à base cunée-décurrente, à sommet lancéolé. Nervure médiane non glabre dessus. (5)6-7(8) pairs de nervures secondaires ascendantes bien apparentes.
+Cymose ± paniculate inflorescences, with reduced bracteate leaves, with long lower segments, with bipartite or tripartite branching, with subcontracted extremities often bi- or triflorous. Pedicel 0.5–1(3) mm. Calyx green c. 1 mm, with 4 acute entire lobes 1 mm. Apex of bud obtuse. Corolla pale violet, light blue or white 2–3.5 mm long, with 4 ovate acute ± spreading lobes, c. 2 × 1.5 mm in vivo. Throat with erect hairs. Stamens with filament 0.3 mm; anthers at the level of the medified throat, oblong, 0.6 × 0.3 mm, obtuse at the apex. Pollen very pale yellow. Style 3 mm exceeding the open corolla, with 2 divergent stigmatic lobes (even in the very young bud). Disk an ellipsoid cushion, light green, 1 mm.
 
-Inflorescences cymeuses ± paniculées, à feuilles-bractées réduites, à segments inférieurs longs, à ramification bipare ou
-
-tripare, à extrémités subcontractées souvent bi ou triflores. Pédi-celle de 0,5-1(3) mm. Calice vert d'env. 1 mm, à 4 lobes aigus intèges de 1 mm. Sommet du bouton obtus. Corolle violet pâle, bleu clair ou blanche longue de 2-3,5 mm, à 4 lobes ovés aigus ± étalés, d'env. 2 × 1,5 mm in vivo. Gorge à poils dressés. Étamines à filet de 0,3 mm; anthères au niveau de la gorge méditifies, oblongues, de 0,6 × 0,3 mm, obtuses au sommet. Pollen jaune très pâle. Style de 3 mm dominant la corolle épanouie, à 2 lobes stigmatiques divergents (même dans le très jeune bouton). Disque en coussinet ellipsoïde, vert clair, de 1 mm.
-
-Fruit subglobuleux, un peu plus large (2-2,5 mm) que long, à sépales dressés; paroi capsulaire mince. Graine noire très petite, à peine 0,5 mm.
+Fruit subglobose, slightly wider (2–2.5 mm) than long, with erect sepals; capsular wall thin. Seed very small black, scarcely 0.5 mm.
 
 ## Type
 
@@ -39,9 +35,7 @@ Welwitsch 5306 (BM, non vu), Golungo-Alto, Angola. — Spécimen de référence 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Oubangui, Mayombe congolais et Angola. Lieux frais demi-ombragés, abris rocheux, parfois dans les jardins comme mauvaise herbe.
+Cameroon, Gabon, Congo, Oubangui, Congolese Mayombe and Angola. Cool half-shaded places, rocky shelters, sometimes in gardens as a weed.
 
 ## Specimens examined
 

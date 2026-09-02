@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia, sér. 2, 20 (4) : 418 (1981); Fl. Cam. 24 : 41, tab. 9 (1983).
+Adansonia, ser. 2, 20 (4) : 418 (1981); Fl. Cam. 24 : 41, tab. 9 (1983).
 
 — Melastoma decumbens P.B., Fl. Oware et Bénin 1 : 69, tab. 41 (1806).
 
-Herbe radicante, genouillée, redressée jusqu'à 0,20 m; rameaux 4-angulaires, variant de glabrescents à pubescents ou velutineux. Feuilles à pétiole de 1 à 2 cm, glabrescent à hirsute; limbe ovale, arrondi à tronqué à la base, puis cunée sur le pétiole, sommet largement en coin,  $ 1,5-2,5 \times 1,5-3,5 $ cm, glabrescent, pubescent ou sétuleux sur les 2 faces, de teinte plus claire dessous; 3-nervié, nervation tertiaire peu visible; marges entières à obscurément serrulées.
+Herb with rooting stems, geniculate, erect up to 0.20 m; branchlets 4-angled, varying from glabrous to pubescent or velutinous. Leaves with petiole 1 to 2 cm, glabescent to hirsute; lamina ovate, rounded to truncate at the base, then cuneate on the petiole, apex broadly wedge-shaped, 1.5–2.5 × 1.5–3.5 cm, glabescent, pubescent or setulose on both surfaces, paler below; 3-veined, tertiary venation scarcely visible; margins entire to obscurely serrulate.
 
-Fleurs solitaires ou par 2 à 4 à l'extrémité des rameaux; bractées ± 3 mm, ovales, ciliées, tardivement caduques; pédicelle 1-3 mm, fleur de dimensions très variables; hypanthe étroitement campanulé, 3-5 × 5-10 mm, avec soies simples, éparses, portées parfois sur un tubercule ou émergence courte, lobes interspéralaires linéaires ± 2 mm, sétuleux à l'apex; sépales triangulaires-oblongs, 5-10 mm, ciliés et soies apicales. Corolle mauve, variant de 2 à 5 cm de diamètre; pétales obovales. Étamines externes à anthère de 7-9 mm; pédoconnectif arqué, 5-7 mm, appendice antérieur linéaire, 2-3 mm, bilobé-obtus; filet 6-10 mm; étamines internes à anthère de 6-8 mm, pédoconnectif 0,5-1 mm, appendice antérieur court, bilobé; filet 5-8 mm.
+Flowers solitary or 2 to 4 at the end of branchlets; bracts ± 3 mm, ovate, ciliate, tardily caducous; pedicel 1–3 mm, flower of highly variable dimensions; hypanthium narrowly campanulate, 3–5 × 5–10 mm, with simple, scattered bristles, sometimes borne on a tubercle or short emergence, intersepalar lobes linear ± 2 mm, setulose at apex; sepals triangular-oblong, 5–10 mm, ciliate with apical bristles. Corolla mauve, varying from 2 to 5 cm in diameter; petals obovate. Outer stamens with anther 7–9 mm; pedoconnective arched, 5–7 mm, anterior appendage linear, 2–3 mm, bilobed-obtuse; filament 6–10 mm; inner stamens with anther 6–8 mm, pedoconnective 0.5–1 mm, anterior appendage short, bilobed; filament 5–8 mm.
 
-Fruit ellipsoïde, ± 6 × 12 mm; ovaire inclus, sommet conique à tronqué, avec soies éparses hérisées et collerette péristyle avec soies ± crépues. Graines 1 mm, globulo-cochléaires, concentriquement sillonnées ou fovéolées; arille étroite, papilleuse.
+Fruit ellipsoid, ± 6 × 12 mm; ovary included, apex conical to truncate, with scattered bristles and peristyle collar with ± crisped bristles. Seeds 1 mm, globular-cochlear, concentrically furrowed or foveolate; aril narrow, papillose.
 
 ## Type
 
@@ -35,9 +33,7 @@ Palisot de Beauvois, Nigeria (G!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les caractères du type, glabrescence, carnosité, grande taille des fleurs, etc., s'observent surtout sur les populations littorales. En forêt les fleurs sont souvent réduites, tout en restant hétérostaminées.
+The characters of the type, glabresence, carnoseness, large flower size, etc., are observed especially in coastal populations. In forest the flowers are often reduced, while remaining heterostamineous.
 
 ## Specimens examined
 

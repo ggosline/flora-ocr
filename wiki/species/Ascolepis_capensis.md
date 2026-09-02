@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe pérenne en touffe, glabre ; rhizome très court ; tige de 30‒80 cm × 0,3‒1 mm, un peu aplatie, glabre ou avec quelques dents arrondies sur les arêtes, à base couverte par des gaines foliaires brun rougeâtre foncé ou brun jaunâtre. Feuille à limbe habituellement de 10‒30 cm × 3 mm au plus, mais souvent enroulé et vrillé à l’état sec, glabre. Inflorescence en tête arrondie, un peu aplatie, blanc de neige, entourée par 1‒3 bractées involucrales souvent longues de 3‒5 cm ; réceptacle conique avec les épillets disposés en spirale, base avec des bractées blanchâtres, lancéolées à oblongues, longues de 1‒2 mm, triangulaires à l’extrémité, tombant avec l’épillet. Épillet : squamelles longues de 3‒4 mm, blanches avec des traînées brun rougeâtre basales, obovales, aplaties dorso-ventralement avec la fleur dans une « poche » centrale, largement ailée de chaque côté ; squamelle prolongée au-dessus de l’ouverture de la « poche » par une languette ou un bec triangulaire assez rigide. Fleur : ovaire allongé ; style court, bifide juste sous l’ouverture. Akène long de 2‒2,5 mm, lancéolé, à surface presque lisse, violet foncé à noir, tombant enveloppé dans la squamelle sans désarticulation du style.
+Perennial herb in tufts, glabrous; rhizome very short; stem 30–80 cm × 0.3–1 mm, somewhat flattened, glabrous or with a few rounded teeth on the ridges, base covered by leaf sheaths dark reddish-brown or yellowish-brown. Leaf with blade usually 10–30 cm × 3 mm at most, but often rolled and twisted when dry, glabrous. Inflorescence in rounded head, somewhat flattened, snow-white, surrounded by 1–3 involucral bracts often 3–5 cm long; receptacle conical with spikelets arranged in spiral, base with whitish, lanceolate to oblong bracts, 1–2 mm long, triangular at the apex, falling with the spikelet. Spikelet: squamellae 3–4 mm long, white with basal reddish-brown streaks, obovate, flattened dorsoventrally with the flower in a central "pocket", broadly winged on each side; squamella prolonged above the opening of the "pocket" by a tongue or fairly rigid triangular beak. Flower: ovary elongate; style short, bifid just below the opening. Achene 2–2.5 mm long, lanceolate, with nearly smooth surface, dark violet to black, falling enclosed in the squamella without disarticulation of the style.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandue en Afrique tropicale du Mali et la Sierra Leone à l’Éthiopie, et au sud, jusqu’en Afrique du Sud ; très rare au Gabon et trouvée seulement dans la Réserve de la Lopé, dans l’Ogooué-Ivindo (2 récoltes)
+distributed in tropical Africa from Mali and Sierra Leone to Ethiopia, and southward to South Africa; very rare in Gabon and found only in the Lopé Reserve, in Ogooué-Ivindo (2 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies ou savanes inondées ou saisonnièrement inondées, aussi en bordure des marécages ; au Gabon, à 100‒200 m d’altitude, jusqu’à 1800 m en Afrique de l’Est
+in grasslands or flooded or seasonally flooded savannas, also at the edge of marshes; in Gabon, at 100–200 m altitude, up to 1800 m in East Africa
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante est un bon fourrage pour le bétail (Burkill 1985). Note taxonomique : ressemble à certaines espèces de Cyperus sous-genre Kyllinga à inflorescence blanche , mais elle s’en distingue facilement par la structure différente de l’épillet et par l’inflorescence capitée parfaitement ronde vue du dessus. La squamelle obovale ailée la distingue des autres espèces du genre . B : Goetghebeur (1980), Haines & Lye (1983), Hooper & Napper (1972). ibliographie
+This plant is good forage for livestock (Burkill 1985). Taxonomic note: resembles certain species of Cyperus subgenus Kyllinga with white inflorescence, but it is easily distinguished by the different structure of the spikelet and by the perfectly round capitate inflorescence viewed from above. The obovate winged squamella distinguishes it from other species of the genus. B: Goetghebeur (1980), Haines & Lye (1983), Hooper & Napper (1972). Bibliography
 
 ## Notes
 

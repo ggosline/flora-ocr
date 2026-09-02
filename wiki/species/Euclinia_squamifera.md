@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3 m tall, with slender branches ramified obliquely. Internodes long with reddish-brown scaly epidermis.
 
-Arbuste de 3 m de hauteur, à branches grêles ramiﬁées obliquement. Entrençéuds longs à épiderme brun rouge écailleux.
+Stipules ovate or oblong 5–9 × 3–4 mm, with acute apex, brown and finely striated with longitudinal veinlets. Petiole 5–20 mm. Blade thin, brownish when dry, elliptic or long obovate, (6) 9–22 × 3–9 cm, with acute base, with acuminate subcaudate apex, acumen 10–15 × 3 mm, faces ± glabrous; upper surface with scattered hairs and midvein slightly ciliate; lower surface with main veins moderately pubescent and axillary domatia hairy along the midvein. 11–13 (15 in the type) pairs of secondary veins; fine reticulum moderately distinct.
 
-Stipules ovées ou oblongues de 5-9 × 3-4 mm, à apex aigu, brunes et finement striées de veinules longitudinales. Pétiole de 5-20 mm. Limbe mince, brunâtre à sec, elliptique ou longuement obové, de (6) 9-22 × 3-9 cm, à base aiguë, à sommet acuminé subcaudé, à acumen de 10-15 × 3 mm, à faces ± glabres; face supérieure avec des poils épars et la médiane un peu ciliée; face inférieure avec les nervures principales médiocrement pubescentes et des domaties axillaires poilues le long de la médiane. 11-13 (15 chez le type) paires de nervures secondaires; fin réseau médiocrement distinct.
+Flowers sessile on defoliate or bearing only juvenile leaves. Scales reddish-brown similar to the stipules, surrounding the base of the calyx. The latter turbinate, glabrous, with 5–6 narrowly subtriangular to oblong lobes 6–10 × 2.5–4 mm, with acute apex, juxtaposed or slightly overlapping each other at the base, longitudinally striolate. Corolla funnel-shaped with tube (2) 4–5 cm long, narrow base for a length of 5–9 mm then broadly flaring to reach 2–3 cm diam. at the throat; lobes glabrous suborbicular ovate 10–20 mm diam. Anthers 16 × 2 mm, with apex at the level of the throat. Style 25–42 mm, linear for approximately half its length, with 2 adpressed lobes forming a club 20 × 4 mm when dry.
 
-Fleurs sessiles sur les extrémités défeuillées ou portant seulement des feuilles juvéniles. Écailles brun-roux semblables aux stipules, entourant la base du calice. Ce dernier turbiné, glabre, à 5-6 lobes étroitement subtriangulaires à oblongs de 6-10 × 2,5-4 mm, à sommet aigu, juxtaposés ou un peu recouvrants entre eux à la base, striolés longitudinalement. Corolle en entonnoir à tube long de (2) 4-5 cm, à base étroite sur une longueur de 5-9 mm puis s'évasant largement jusqu'à atteindre 2-3 cm de diam. à la gorge; lobes glabres ovés suborbiculaires de 10-20 mm de diam. Anthères de 16 × 2 mm, à apex au niveau de la gorge. Style de 25-42 mm, linéaire sur la moitié environ, à 2 lobes accolés formant une massue de 20 × 4 mm à sec.
-
-Fruit ± globuleux elliptique ou piriforme dépassant 2,3 cm de diam., lisse et vert avant maturité, à lobes calycinaux persistants subérigés. Plus d'une douzaine de graines dans un fruit; elles atteignent 1 cm. L'embryon d'une graine immature, long de 3 mm, présente des cotylédons orbiculaires.
+Fruit ± globose ellipsoid or pyriform exceeding 2.3 cm diam., smooth and green before maturity, with persistent calyx lobes suberect. More than a dozen seeds per fruit; they reach 1 cm. The embryo of an immature seed, 3 mm long, presents orbicular cotyledons.
 
 ## Type
 
@@ -37,9 +35,7 @@ Gossweiler 6696 (holotype BM!), Buco-Zau, Cabinda (fl. sept.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, bas Kouilou (Loango, Thollon 1244, fl. oct.), et Cabinda.
+Cameroon, Gabon, lower Kouilou (Loango, Thollon 1244, fl. Oct.), and Cabinda.
 
 ## Specimens examined
 

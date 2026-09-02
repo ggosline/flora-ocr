@@ -17,47 +17,41 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Lissochilus giganteus Welw. ex Rchb. f., Flora 48 : 187 (1865).
 
 – Lissochilus elatus Rolfe, FTA 7 : 87 (1897).
 
 – Eulophia oedoplectron Summerh., FTWA, ed. 1, 2: 444 (1936); FTWA, ed. 2., 3: 250 (1968).
 
-Feuilles 3-5, 50-200 (-300) x 1,5-12 cm. Inflorescence < 400 cm, 15-20-flore. Fleurs grandes, voyantes, sépales et pétales roses, bruns ou violets, labelle violet-brun avec des nervures vertes. Sépale dorsal oblong-oblancéolé. Pétales obliquement elliptiques-obovés. Sépales latéraux, oblongs-obovés. Labelle 30-43 x 25-35 mm, nettement trilobé vers le milieu, avec 3 épaississements lamellés-cristés dans la moitié apicale ou allant du centre vers le sommet ; lobe médian largement ové, obtus ; lobes latéraux obliquement obovés. Éperon 10-14 mm, étroitement conique, aigu. - Pl. 142, p. 319.
+Leaves 3-5, 50-200 (-300) x 1.5-12 cm. Inflorescence < 400 cm, 15-20-flowered. Flowers large, showy, sepals and petals pink, brown or violet, labellum violet-brown with green veins. Dorsal sepal oblong-oblanceolate. Petals obliquely elliptic-obovate. Lateral sepals oblongs-obovate. Labellum 30-43 x 25-35 mm, distinctly trilobed towards the middle, with 3 lamellate-crested thickenings in the apical half or running from the centre to the apex; median lobe broadly ovate, obtuse; lateral lobes obliquely obovate. Spur 10-14 mm, narrowly conical, acute. - Pl. 142, p. 319.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Congo, Gabon, Angola, Zaïre
+Nigeria, Cameroon, Equatorial Guinea, Congo, Gabon, Angola, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-2 000 m. Swamps
 
-alt. 0-2 000 m. Marais
+MATERIAL STUDIED (Map 66):
 
-MATÉRIEL ÉTUDIÉ (Carte 66) :
+Bos, Van der Laan & Nzabi 10811, creek Moka, E of the Mondah River, mangrove, adjacent salt flats and swamp forest on elevated localities, 0° 39' N, 9° 28' E (fr. Jul.), WAG!.
 
-Bos, Van der Laan & Nzabi 10811, creek Moka, E de la Riv. Mondah, mangrove, places salées avoisinantes et forêt marécageuse sur localités surélevées, 0° 39' N, 9° 28' E (fr. Juil.), WAG!.
-
-Chevalier 26853, Plantations de Ninghé, sur le Komo, près du port de Kango (fl. Oct.), P!. Debeaux 179, Libreville (fl. Juil.), BR!, P! ; 378, Boutica (fl. Juil.), P! ; s.n., Libreville (fl. Juil.), BR!.
+Chevalier 26853, Plantations of Ninghé, on the Komo, near the port of Kango (fl. Oct.), P!. Debeaux 179, Libreville (fl. Jul.), BR!, P! ; 378, Boutica (fl. Jul.), P! ; s.n., Libreville (fl. Jul.), BR!.
 
 Decaisne s.n., s.loc., P!.
 
-Dibata 173, Estuaire, Okala, Libreville, 0º 29' N, 9º 25' E (fl. Juin), WAG!.
+Dibata 173, Estuaire, Okala, Libreville, 0° 29' N, 9° 25' E (fl. Jun.), WAG!.
 
-Fleury 26704bis, Plantations d’ Ossaingue, sur le lac de Fernan Vaz (fl. Sept.), P!. Griffon de Bellay 35, s.loc., P!.
+Fleury 26704bis, Plantations of Ossaingue, on Lake Fernan Vaz (fl. Sept.), P!. Griffon de Bellay 35, s.loc., P!.
 
-Haegens 9, Ogooué-Maritime, Rabi, 100 m au S de la plateforme Shell n°9, 1° 55' S, 9° 52' E (fl. Nov.), WAG!.
+Haegens 9, Ogooué-Maritime, Rabi, 100 m south of Shell platform no. 9, 1° 55' S, 9° 52' E (fl. Nov.), WAG!.
 
-Hallé 608, Cap Estérias (fl. Juin), P! ; 955, route d'Orendo-Libreville (fl. Janv.), P!.
+Hallé 608, Cape Estérias (fl. Jun.), P! ; 955, road Orendo-Libreville (fl. Jan.), P!.
 
-Hallé & Cours 5862, Lépamba, bords de la Riv. Lœtsi (fl. Mai), P!.
+Hallé & Cours 5862, Lépamba, banks of the Lœtsi River (fl. May), P!.
 
-Hallé & Villiers 4259, Mblé, Station CTFT (fl. Janv.), P! ; 4278, Mbel, sur le Komo (fl. Jan), P! ; 5619, Owendo (fl. Févr.), P!.
+Hallé & Villiers 4259, Mblé, CTFT Station (fl. Jan.), P! ; 4278, Mbel, on the Komo (fl. Jan.), P! ; 5619, Owendo (fl. Feb.), P!.
 
 Jardin 150 & s.n., Bouliawongo, P!, W-R!.
 
@@ -65,15 +59,15 @@ Klaine s.n., s.loc., P!.
 
 Leroy 15, s.loc., P!
 
-Le Testu 5133, Haute Ngounyé, Ndendé (fl. Déc.), P!.
+Le Testu 5133, Haute Ngounyé, Ndendé (fl. Dec.), P!.
 
 Schäenmaker 123, Ogooué-Maritime, Rabi-Kounga, ±. 1° 56' S, 9° 53' E (fl. Nov.), WAG!.
 
 Villiers s.n., Libreville (fl. Nov.), P!.
 
-Walker s.n., Haute Ngounyé, Mission de Saint Martin (fl. Juil.), P!.
+Walker s.n., Haute Ngounyé, Mission of Saint Martin (fl. Jul.), P!.
 
-Wieringa 1245, Ogooué-Maritime, Ganba, près du terminal Shell, 2° 47' S, 10° 02' E (fl. Juil.), WAG!.
+Wieringa 1245, Ogooué-Maritime, Ganba, near Shell terminal, 2° 47' S, 10° 02' E (fl. Jul.), WAG!.
 
 ## Notes
 

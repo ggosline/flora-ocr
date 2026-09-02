@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 l.c. 3 : 435 (1912) ; Pl. Bequaert 2 : 61 (1923) ; LOES., Notizbl. Bot. Gart. Berlin 13 : 568 (1937) ; LAWALRÉE, Bull. Jard. Bot. État, Brux. 18 : 250 (1947) ; HALLÈ, Monogr. Hippocr. Afr. occid., Thèse : 137 (1958) ; Mém. IFAN 64 : 143 (1962) ; WILCZEK, FCB 9 : 176, tab. 23 (1960).
 
-– Hippocratea kennedyi Hoyle, Kew Bull.: 263 (1932). TYPE : Kennedy 858, Sud Nigeria (K!).
+– Hippocratea kennedyi Hoyle, Kew Bull.: 263 (1932). TYPE : Kennedy 858, South Nigeria (K!).
 
 – Campylostemon kennedyi (Hoyle) Hoyle & Brenan, Kew Bull.: 67 (1947).
 
-Liane ligneuse atteignant 30 m de hauteur et 25 cm de diamètre de tige. Rameaux roux ± ruguleux à sec, parfois avec de fines arêtes. Pétiole de 5-15 mm. Limbe chartacé, olivacé ou gris olivâtre à sec, de 7-16(20) × 4-8,5(11) cm ; base aiguë ou arrondie ; sommet acuminé ; marge dentée. Nervures secondaires (6)7-9 paires arquées ascendantes ; fines nervures bien apparentes à sec.
+Woody liane reaching 30 m in height and 25 cm in stem diameter. Branches reddish ± rugulose when dry, sometimes with fine ridges. Petiole 5–15 mm. Blade chartaceous, olivaceous or greyish olivaceous when dry, 7–16(20) × 4–8.5(11) cm; base acute or rounded; apex acuminate; margin dentate. Secondary nerves (6)7–9 pairs, arched ascending; fine nerves clearly visible when dry.
 
-Cymes multiflores longues de 3-10 cm, à pédoncule à 4 arêtes long de 1-6 cm ; bractées de 1-2 mm. Pédicelle de 2-5 mm. Bouton subglobuleux de 2-3 mm de diamètre, parfois rosé. Fleurs très odorantes, étalées, de 5-10 mm de diamètre, blanches puis jaunes, à orangé rouge et brun. Sépales subégaux ovés, denticulés ciliés, longs d'environ 1 mm. Pétales spatulés grands, de 3-4,5 × 1,5-2 mm, à bord aminci. Étamines 5 petites, connées à la base. Pistil réduit à 3(4) loges contenant chacune 14-16 ovules. Petits lobes stigmatiques divergents.
+Many-flowered cymes 3–10 cm long, with 4-ridged peduncle 1–6 cm long; bracts 1–2 mm. Pedicel 2–5 mm. Bud subglobose, 2–3 mm in diameter, sometimes pinkish. Flowers very fragrant, spreading, 5–10 mm in diameter, white then yellow, to orange-red and brown. Sepals subequal, ovate, denticulate ciliate, about 1 mm long. Petals spatulate, large, 3–4.5 × 1.5–2 mm, with thinned margin. Stamens 5, small, connate at base. Pistil reduced to 3(4) locules, each containing 14–16 ovules. Small divergent stigmatic lobes.
 
-Méricarpes de 6-9 × 3-4 cm. Graines de 37-50 × 15-16 mm, à tégu-ment noir et aile roux clair ; cotylédons libres, étroits, de 22 × 3 mm, contenant peu de caoutchouc ; radicule bien saillante ; étuis funiculaires hauts de 1,7 mm. - Pl. 76, fig. 1-10, p. 271.
+Mericarps 6–9 × 3–4 cm. Seeds 37–50 × 15–16 mm, with black tegument and light reddish-brown wing; cotyledons free, narrow, 22 × 3 mm, containing little rubber; radicle prominent; funicular sheaths 1.7 mm high. - Pl. 76, fig. 1–10, p. 271.
 
 ## Type
 
@@ -37,9 +35,7 @@ Laurent E. & M. s.n., Zaïre, Bumbaye, Kasai (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia (Jansen 796, WAG!; Voorhoeve 1153, WAG!), Côted'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo, Cabinda, Zaïre, Centrafrique, Ouganda, Tanzanie. Les données écologiques sont variables : lisières héliophiles, rochers, broussailles xérophiles, mais aussi stations ripicoles.
+Liberia (Jansen 796, WAG!; Voorhoeve 1153, WAG!), Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Congo, Cabinda, Zaïre, Central African Republic, Uganda, Tanzania. The ecological data are variable: heliophilous forest margins, rocky areas, xerophilous scrubland, but also riparian stations.
 
 ## Specimens examined
 

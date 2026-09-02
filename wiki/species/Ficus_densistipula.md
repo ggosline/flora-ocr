@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 151 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 172 (1948).
 
 - F. namalalensis HUTCH., Kew Bull.: 328 (1915). LECTOTYPE: Fyffe 77, Uganda, Namalala (K).
@@ -27,13 +25,13 @@ HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 151 (1916); LEBRUN & BOUTIQUE in HAUMAN, F
 
 - F. coriacea DE WILD., Ann. Soc. Sci. Brux. 40: 280 (1921), non AITON (1789). TYPE: Bequaert 1837, Zaire, Avakubi (holo-, BR).
 
-- F. stipitata LEBRUN, Inst. Roy. Colon. Belge, Sect. Sci. Nat. et Méd., mém. in-8°, sér. 3, 1: 50, tab. 2 (1934), nouveau nom pour F. coriacea DE WILD.; LEBRUN & BOUTIQUE, l.c.: 144 (1948).
+- F. stipitata LEBRUN, Inst. Roy. Colon. Belge, Sect. Sci. Nat. et Méd., mém. in-8°, sér. 3, 1: 50, tab. 2 (1934), new name for F. coriacea DE WILD.; LEBRUN & BOUTIQUE, l.c.: 144 (1948).
 
-Arbustes épiphytes ou arbres. Rameaux feuillés épais de 2,5-5 mm ; pubérulents à presque hirtelleux, bruns sur le sec, pleins. Feuilles disposées en spirales. Limbe oblong à lancéolé ou à subobové, long de 12-25 cm, large de 4-7 (-11) cm, coriace, sommet (parfois ± abruptement) acuminé, base aiguë à arrondie, bord entier ; les deux faces glabres ; nervure médiane faiblement concave, les autres nervures (presque) planes dessus, nervures ± saillantes dessous, 6-8 paires de nervures latérales, paire basale petite, nervures latérales s'anastomosant en boucle à 2-5 mm du bord du limbe, tache glandulaire à la base de la nervure médiane visible. Pétiole long de 1-2,5 (-5) cm, épais de 2-4 mm environ, pubérulent à subhérissé, périderme se détachant en écailles ± distinctement en forme de rondelles. Stipules basalement soudées, longues de 1,5-3 cm, à partie inférieure éparsement pubérulente (sub) persistantes.
+Epiphytic shrubs or trees. Leafy branches 2.5–5 mm thick; puberulent to almost hirtellous, brown when dry, solid. Leaves arranged in spirals. Blade oblong to lanceolate or subobovate, 12–25 cm long, 4–7 (–11) cm wide, coriaceous, apex (sometimes ± abruptly) acuminate, base acute to rounded, margin entire; both surfaces glabrous; midvein weakly concave, other veins (almost) plane above, veins ± prominent below, 6–8 pairs of lateral veins, basal pair small, lateral veins anastomosing in loops 2–5 mm from the blade margin, glandular spot visible at the base of the midvein. Petiole 1–2.5 (–5) cm long, approximately 2–4 mm thick, puberulent to subhirsute, periderm detaching in ± distinctly discoid scales. Stipules united at the base, 1.5–3 cm long, lower part sparsely puberulent, (sub)persistent.
 
-Figues solitaires ou par paires dans les aisselles foliaires, subses-siles ou pédonculées jusqu'à 0,4 cm ; pédoncule éparsement pubérulent ; bractées basales 2 (largement) ovées, longues de 2-3,5 mm, glabres ou éparsement pubérulentes ; réceptacle subglobuleux à ellipsoide, d'un diamètre de 1,3-2,2 cm sur le vivant, de 1-1,5 cm sur le sec, à stipe long de 4-9 mm, éparsement pubérulent à presque glabre, lisse ou faiblement verruculeux, paroi épaisse de 0,5-1 mm sur le sec, ostiole ± saillant bilabie.
+Figs solitary or in pairs in the leaf axils, subsessile or pedunculate up to 0.4 cm; peduncle sparsely puberulent; basal bracts 2, (broadly) ovate, 2–3.5 mm long, glabrous or sparsely puberulent; receptacle subglobose to ellipsoid, 1.3–2.2 cm in diameter when fresh, 1–1.5 cm when dry, with a stipe 4–9 mm long, sparsely puberulent to almost glabrous, smooth or weakly verrucose, wall 0.5–1 mm thick when dry, ostiole ± prominent bilabiose.
 
-Fleurs pistillées avec 4 tépales ± inégaux, longs de 1-2 mm environ, aigus, libres; fleurs à graines sessiles, style long de 1,5-2 mm; fleurs à galles à pédicelle atteignant 3 mm, style long de 0,5-1 mm environ. Fruits ellipsoïdes à oblongoïdes, longs de 1,5-2 mm, l'enveloppe externe de la partie supérieure mucilagineuse; fruits à galles subobo-voïdes à ellipsoïdes à oblongoïdes et ± stipités; fruits nettement bico-lores. Fleurs staminées sessiles ou à pédicelle atteignant 1 mm, périanthe avec 2 (-3 ?) tépales, longs de 1-1,5 mm, aigus, libres, filet long de 0,5-1 mm, anthère apiculée longue de 1 mm environ. Bractées interflorales longues de 2-2,5 mm. - Pl. 73, p. 239.
+Pistillate flowers with 4 ± unequal tepals, approximately 1–2 mm long, acute, free; seed flowers sessile, style 1.5–2 mm long; gall flowers with pedicel reaching 3 mm, style approximately 0.5–1 mm long. Fruits ellipsoid to oblongoid, 1.5–2 mm long, the outer envelope of the upper part mucilaginous; gall fruits subobo­void to ellipsoid to oblongoid and ± stipitate; fruits clearly bicolorous. Staminate flowers sessile or with pedicel reaching 1 mm, perianth with 2 (–3 ?) tepals, 1–1.5 mm long, acute, free, filament 0.5–1 mm long, anther apiculate approximately 1 mm long. Interfloral bracts 2–2.5 mm long. – Pl. 73, p. 239.
 
 ## Type
 
@@ -41,11 +39,9 @@ Seret 734, Zaïre (holo-, BR ; iso-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species can only be distinguished from F. cyathistipula and F. pringsheimiana when figs are present; except for the clear tendency towards a rounded base of the blade.
 
-Cette espèce peut seulement être distinguée de F. cyathistipula et F. pringsheimiana, quand les figues sont présentes ; sauf pour la nette tendance à une base du limbe arrondie.
-
-L'espèce s'étend du Cameroun et du Gabon à l'Uganda à travers le Zaïre.
+The species ranges from Cameroun and Gabon to Uganda across Zaire.
 
 ## Specimens examined
 

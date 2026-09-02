@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree with white flowers. Leaves 3-7-jugate; petiole 5 cm; rachis 5-20 cm; leaflets 10-14 × 4-4.5 cm, with small acumen, with 7-10 pairs of veins and small hairs 0.1 mm beneath the blades.
 
-Petit arbre à fleurs blanches. Feuilles 3-7-juguées; pétiole de 5 cm; rachis de 5-20 cm; folioles de 10-14 × 4-4,5 cm, à petit acumen, à 7-10 paires de nervures et petits poils de 0,1 mm sous les limbes.
-
-Inflorescences densément velues rousses, rameuses, égalant les feuilles, 25-30 cm; pédoncule de 5 cm avec 4-5 rameaux de 3-5 cm, portant des cymules de 3-7 fleurs avec bractées et bractéoles; pédicelles de 4 mm, articulés au milieu. Sépales de 3 mm, velus extérieurement, poils 0,05-1 mm, très serrés, glabres intérieurement; pétales (dans le bouton), de 2 mm; limbe glabre, écaille velue formant un entonnoir de 0,5 mm, velu sur le dos; disque jeune, lisse et blanc; 6-8 étamines. Fruit inconnu. PL. 36, 1-6, p. 155.
+Inflorescences densely russet-hairy, branched, equalling the leaves, 25-30 cm; peduncle 5 cm with 4-5 branches 3-5 cm, bearing cymules of 3-7 flowers with bracts and bracteoles; pedicels 4 mm, articulate at the middle. Sepals 3 mm, hairy externally, hairs 0.05-1 mm, very dense, glabrous internally; petals (in bud), 2 mm; limb glabrous, scale hairy forming a funnel 0.5 mm, hairy on the back; young disk, smooth and white; 6-8 stamens. Fruit unknown. PL. 36, 1-6, p. 155.
 
 ## Type
 

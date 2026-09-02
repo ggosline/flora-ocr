@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste, avec un rhizome grêle ; tige centrale, solitaire , de 60–140 cm × 3–6 mm, triangulaire, lisse, verte à brunâtre, à base couverte par des cataphylles. Feuilles : 5–10 caulinaires , généralement réparties sur les deux tiers supérieurs de la tige ; gaine foliaire verte ; limbe oblong–lancéolé à oblong–elliptique , plan ou légèrement plié, le plus grand de 25–40 × 2–4,5 cm, à marge scabre au moins près du sommet progressivement aigu;. Inflorescence en panicule lâche à assez dense de 3–6 × 4–12 cm, brun clair à brun foncé ; bractées involucrales foliacées, étalées, oblongues–lancéolées, la plus grande
-
-de 30 × 2 cm, vertes, beaucoup plus longues que l’inflorescence, sommet aigu ; épis obovoïdes à maturité, 5–10 × 1,5–4 mm, brun rougeâtre, sommet obtus ; bractées spicoïdales oblongues–triangulaires, longues de 2–3 mm, glabres, avec parfois la fine nervure centrale terminée par un mucron court, brun rougeâtre avec parfois des taches ou des stries sombres, avec la marge plus mince et plus pâle, sommet obtus. Fleur : bractées florales 2 ; style à 2 branches. Akène ellipsoïde à ovoïde, légèrement aplati (biconvexe), 1,8–2,2 × 1–1,5 mm, la partie inférieure longitudinalement striée ou ridée, olive à brun foncé ; la supérieure presque lisse à granuleuse, pâle à brun clair, parfois avec un petit bec.
+Fairly robust herb, with a slender rhizome; central stem, solitary, 60–140 cm × 3–6 mm, triangular, smooth, green to brownish, with base covered by cataphylls. Leaves: 5–10 cauline, generally distributed over the upper two-thirds of the stem; leaf sheath green; blade oblong–lanceolate to oblong–elliptic, flat or slightly folded, the largest 25–40 × 2–4.5 cm, margin scabrous at least near the apex progressively acute. Inflorescence in loose to fairly dense panicle 3–6 × 4–12 cm, light brown to dark brown; involucral bracts foliaceous, spreading, oblong–lanceolate, the largest 30 × 2 cm, green, much longer than the inflorescence, apex acute; spikes obovoid at maturity, 5–10 × 1.5–4 mm, reddish-brown, apex obtuse; spicate bracts oblong–triangular, 2–3 mm long, glabrous, sometimes with the fine central vein ending in a short mucro, reddish-brown sometimes with dark spots or striae, with the margin thinner and paler, apex obtuse. Flower: floral bracts 2; style with 2 branches. Achene ellipsoid to ovoid, slightly flattened (biconvex), 1.8–2.2 × 1–1.5 mm, the lower part longitudinally striated or ridged, olive to dark brown; the upper part almost smooth to granular, pale to light brown, sometimes with a small beak.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée Équatoriale et Gabon ; au Gabon, trouvée dans le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’Ogooué-Maritime et le Woleu-Ntem (10 récoltes)
+Cameroon, Equatorial Guinea and Gabon; in Gabon, found in Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem (10 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts humides, parfois le long des rivières et des cours d’eau, aussi trouvée entre de gros rochers (peu de lumière) au sommet d’un inselberg ; au Gabon, à 100-700 m d’altitude, ailleurs jusqu’à 1000 m. Note taxonomique : se reconnaît facilement à son inflorescence lâche, ses feuilles à limbe nettement lancéolé et disposées dans les deux tiers supérieurs de la tige et ses cataphylles basales, au lieu de l’habituel groupement en feuilles basales. b : Nelmes (1955a). ibliographie
+humid forests, sometimes along rivers and watercourses, also found between large boulders (low light) at the summit of an inselberg; in Gabon, at 100–700 m altitude, elsewhere up to 1000 m. Taxonomic note: easily recognized by its loose inflorescence, its leaves with clearly lanceolate blade arranged in the upper two-thirds of the stem and its basal cataphylls, instead of the usual grouping in basal leaves. b: Nelmes (1955a). Bibliography
 
 ## Notes
 

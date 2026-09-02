@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum falcatum (Lindl.) Rchb. f. var. velutinum (Lindl.) J. J. Verm., Bull. J. Bot. Nat. Belg. 56: 235 (1986).
 
 – Bulbophyllum rhizophorae Lindl., J. Linn. Soc., Bot. 6 : 125 (1862).
@@ -37,71 +35,63 @@ tags: [species, generated]
 
 – Megaclinium angustum Rolfe, Kew Bull. 1:26 (1922).
 
-Pseudobulbes 0,9-4,2 × 1 cm, étroitement ovoïdes à subfusiformes, 2-foliés. Feuilles courtement pétiolées 2-15,5 × 0,5-2 cm, étroitement lancéolées à oblancéolées, subaiguës à subobtuses. Inflorescence 3-28 cm, rachis subcylindrique, < 40-flore. Fleurs petites à minuscules. Sépale dorsal jaunâtre ou verdâtre, avec des épaississements marginaux jaunes, orange ou rouges, aigu à obtus, obové-lancéolé au-dessus d'une courte partie basale rubannée, face externe en général couverte de poils sombres ; sépales latéraux souvent en partie rouges, obliquement triangulaires, aigus, face adaxiale de finement papilleuse à pubescence éparse. Pétales linéaires-lancéolés, falciformes, aigus. Labelle jaune ou rouge foncé (parfois fleur entièrement rouge) largement ové, obtus, récurvé, épais, glabre. – Pl. 84, p. 171.
+Pseudobulbs 0.9-4.2 × 1 cm, narrowly ovoid to subfusiform, 2-leaved. Leaves shortly petiolate 2-15.5 × 0.5-2 cm, narrowly lanceolate to oblanceolate, subacute to subobtuse. Inflorescence 3-28 cm, rachis subcylindric, < 40-flowered. Flowers small to minute. Dorsal sepal yellowish or greenish, with yellow, orange or red marginal thickenings, acute to obtuse, obovate-lanceolate above a short ribbon-like basal portion, external face generally covered with dark hairs; lateral sepals often partly red, obliquely triangular, acute, adaxial face finely papillose to sparsely pubescent. Petals linear-lanceolate, falcate, acute. Labellum yellow or dark red (sometimes flower entirely red) broadly ovate, obtuse, recurved, thick, glabrous. – Pl. 84, p. 171.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Sao Tomé, Principe, Annobon, Gabon, Congo (Kinshasa)
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, São Tomé, Príncipe, Annobón, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-1800 m. Epiphytic on trunk and branch at < 30 m above ground, rarely lithophytic, sometimes collected on bare rock; lowland forest, forest remnants in savanna, montane forest, littoral forest, coffee plantation, low forest with Chrysobalanus icaco and Syzygium guineense dominant, mangrove forest and mangrove
 
-alt. 0-1800 m. Épiphyte sur tronc et branche à < 30 m au-dessus du sol, rarement lithophyte, parfois récolté sur roche nue ; forêt planitaire, reste de forêt en savane, forêt montagnarde, littorale, plantation de café, forêt basse à Chrysobalanus icaco et Syzygium guineense dominants, forêt de mangrove et mangrove
+MATERIAL EXAMINED (Map 30) :
 
-MATÉRIEL ÉTUDIÉ (Carte 30) :
+Ammer s.n., near Gamba, cult. WAG (85-396), not seen.
 
-Ammer s.n., près de Gamba, cult. WAG (85-396), non vidi.
+Arends s.n., Waka, cult. WAG (84-230), not seen.
 
-Arends s.n., Waka, cult. WAG (84-230), non vidi.
+Bos, van der Laan & Nzabi 10802, Moka cove, E of Mondah, 0° 39' N, 9° 28' E (fr. Jul.), WAG!, LBV.
 
-Bos, van der Laan & Nzabi 10802, anse de Moka, E de la Mondah, 0° 39' N, 9° 28' E (fr. Jul.), WAG!, LBV.
+de Wilde 643, lower slopes of Babiel North, south-facing, 1° 07' N, 13° 10' E (fl., Sept.), WAG! ; s.n., Monts de Cristal, Leroy logging operation, 20 km NW of Asok, 0°53' N, 10°12' E, cult. WAG (83-363), not seen ; s.n., id, 0° 57' N, 10°52' E, cult. WAG (83-211), not seen ; s.n., Monts de Cristal, near the hydroelectric station of Tchimbélé, start of the Kinguélé trail, cult. WAG (83-298), not seen ; s.n., eastern part of the Wonga-Wongué presidential reserve, 100 km S of Libreville, forest lowlands of the place called "Big Bambam", cult. WAG (83-403), not seen.
 
-de Wilde 643, pentes inférieures de Babiel Nord, exposition au Sud, 1° 07' N, 13° 10' E (fl., Sept.), WAG! ; s.n., Monts de Cristal, exploitation forestière Leroy, 20 km NO de Asok, 0°53' N, 10°12' E, cult. WAG (83-363), non vidi ; s.n., id, 0° 57' N, 10°52' E, cult. WAG (83-211), non vidi ; s.n., Monts de Cristal, près de la station hydroélectrique
+de Wilde, van der Maesen & Moussavou 11553, La Ngounyé, SW of Fougamou, Koumounabwali Massif, 1°18' S, 10°25' E (fl., Dec.), WAG!.
 
-PL. 83. – Bulbophyllum stenopetalum Kraenzl.: A, C, fleur ; B, vue générale ; D, pièces florales ; E, labelle ; F, labelle et gynostème en position naturelle, vue latérale ; G, anthère ; H, pollinies (A, Preuss 1217 HBG ; B-H, ex VERMEULEN, 1987).
+Hallé 2868, 3079, 3101 & 3353, Bélinga (fl., Oct. & Nov.), P! ; 3743, id., Iron Mines (fl., June), P!.
 
-de Tchimbélé, début de la piste de Kinguélé, cult. WAG (83-298), non vidi ; s.n., partie Est de la Réserve présidentielle de Wonga-Wongué, 100 km S de Libreville, forêt ausses du lieu dit Big Bambam”, cult. WAG (83-403), non vidi.
+Le Testu 2195, confluence of the Ngounyé and Waka (fl., Nov.), P! ; 5783, on the Tandamu at the crossing of the Ogouda, between Ebonghi and Ahingui, on the Léomébo-Kembélé road (fl., Nov.), P!.
 
-de Wilde, van der Maesen & Moussavou 11553, La Ngounyé, SO de Fougamou, Massif de Koumounabwali, 1°18' S, 10°25' E (fl., Déc.), WAG!.
+Louis 2128, Woleu-Ntem, Oveng Work camp, roadside (fl., May), WAG!, LBV.
 
-Hallé 2868, 3079, 3101 & 3353, Bélinga (fl., Oct. & Nov.), P! ; 3743, id., Mines de Fer (fl., Juin), P!.
+Louis, Breteler & de Bruijn 1316, 2-3 km SE of the Waka forestry camp at 32 km SE of Sindara, 1°14'S-10°53'E, logging trail in the Waka basin (fl., Dec.), BR!, P!, WAG!, LBV.
 
-Le Testu 2195, confl. de la Ngounyé et de la Waka (fl., Nov.), P! ; 5783, sur les Tandamu au passage de l'Ogouda, entre Ebonghi et Ahingui, sur la route Léomébo-Kembélé (fl., Nov.), P!.
+Reitsma J. M. & B. & Louis 1188, 0° 38 N-9° 28 E (fl., June), WAG!, LBV.
 
-Louis 2128, Woleu-Ntem, Chantier Oveng, bord de route (fl., Mai), WAG!, LBV.
+Villiers 127 & 166, Maliba River (fl., June & July), P!.
 
-Louis, Breteler & de Bruijn 1316, 2-3 km SE du campement forestier de la Waka à 32 km au SE de Sindara, 1°14'S-10°53'E, piste d'exploitation dans le bassin de la Waka (fl., Déc.), BR!, P!, WAG!, LBV.
+Wieringa 367 – Tchimbélé, bank of the small lake behind the Gendarmerie post, 10° 24' E, 0° 37' N (fl., Jan.), WAG!, LBV.
 
-Reitsma J. M. & B. & Louis 1188, 0° 38 N-9° 28 E (fl., Juin), WAG!, LBV.
+NB. VERMEULEN (1987) distinguished two entities within B. falcatum var. velutinum, but without naming them. Their flower is identical but the rachis of one is straight, distinctly widened and flattened, while that of the other is pendulous and cylindric: the latter exists in Nigeria, Cameroon, Equatorial Guinea, Príncipe, Gabon and Congo (Kinshasa).
 
-Villiers 127 & 166, Riv. Maliba (fl., Juin & Juil.), P!.
+KEY TO GROUP 3: species with bifoliate pseudobulbs
 
-Wieringa 367 – Tchimbélé, rive du petit lac derrière le poste de la Gendarmerie, 10° 24' E, 0° 37' N (fl., Jan.), WAG!, LBV.
+1. Labellum oblong-lanceolate, 4-5 times longer than wide ..... 22. B. bequaertii 1'. Labellum less than 2 times longer than wide.
 
-NB. VERMEULEN (1987) a distingué deux entités dans B. falcatum var. velutinum, mais sans les nommer. Leur fleur est identique mais le rachis de l'une est droit, nettement élargi et aplat, alors que celui de l'autre est pendant et cylindrique : cette dernière existe au Nigeria, Cameroon, Guinée Équatoriale, Principe, Gabon et Congo (Kinshasa).
+2. Petals obliquely obovate to rectangular ..... 27. B. pandanetorum 2'. Petals linear.
 
-CLÉ DU GROUPE 3 : espèces à pseudobulbes bifoliés
+3. Labellum curved downward.
 
-1. Labelle oblong-lancéolé, 4-5 fois plus long que large ..... 22. B. bequaertii 1'. Labelle moins de 2 fois plus long que large.
+4. Labellum strongly thickened at apex ..... 26. B. oreonastes
 
-2. Pétales obliquement obovés à rectangulaires ..... 27. B. pandanetorum 2'. Pétales linéaires.
+5. Sepals not reflexed, labellum obtuse ..... 28. B. resupinatum
 
-3. Labelle courbé vers le bas.
+5'. Sepals strongly reflexed, labellum acute ..... 23. B. falcipetalum 3'. Labellum straight.
 
-4. Labelle fortement épaissi au sommet ..... 26. B. oreonastes
+6. Labellum with distinct lateral lobes at base .....24. B. fuscum
 
-5. Sépales non réfléchis, labelle obtus ..... 28. B. resupinatum
+7. Labellum rounded at apex ..... 25. B. melinostachyum
 
-5'. Sépales fortement réfléchis, labelle aigu ..... 23. B. falcipetalum 3'. Labelle droit.
-
-6. Labelle avec des lobes latéraux nets à la base .....24. B. fuscum
-
-7. Labelle arrondi au sommet ..... 25. B. melinostachyum
-
-7'. Labelle apiculé au sommet ..... 21. B. acutebracteatum
+7'. Labellum apiculate at apex ..... 21. B. acutebracteatum
 
 ## Figures
 

@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(1998). – BASIONYM: Monochilus lepidus Rchb.f., Otia Bot. Hamburg. 2 : 110 (1881).
 
-(1998). – BASIONYME : Monochilus lepidus Rchb.f., Otia Bot. Hamburg. 2 : 110 (1881).
-
-– TYPE : Mann 2120, Cameroun, holo – K!.
+– TYPE: Mann 2120, Cameroon, holo – K!.
 
 – Zeuxine lepida (Rchb. f.) Rolfe, Bol. Soc. Brot. 9: 142 (1892).
 
-Tige < 10-30 cm, glanduleuse au-dessus des feuilles réunies à la partie inférieure de la tige, 1-4 × 0,8-2,5 cm, ovées, base arrondie à cordée, sommet acuminé. Inflorescence 2-4 cm, 4-20-flore. Sépales ovés aigus, soudés sur la 1/3-1/2 longueur en un tube calycaline net à base externe glanduleuse. Pétales ovés-lancéolés, base linéaire, sommet acuminé. Labelle sessile semblable aux autres pièces du périanté ; partie inférieure canaliculée, mince, fragile avec 2 appendices digités sur le sac basal à peine marqué ; partie apicale à 2 lobes étalés en losange ± entiers. Pl. 27, p. 63.
+Stem < 10–30 cm, glandular above the leaves gathered at the lower part of the stem, 1–4 × 0.8–2.5 cm, ovate, base rounded to cordate, apex acuminate. Inflorescence 2–4 cm, 4–20-flowered. Sepals ovate acute, fused for the 1/3–1/2 of their length into a distinct calycine tube with glandular external base. Petals ovate-lanceolate, base linear, apex acuminate. Labellum sessile similar to the other perianth parts; lower part channelled, thin, fragile with 2 digitate appendages on the barely marked basal sac; apical part with 2 lobes spread rhombically, ± entire. Pl. 27, p. 63.
 
-Bien que non récoltée au Gabon, sa présence y est presque certaine.
+Although not collected in Gabon, its presence there is almost certain.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Sao Tomé, Congo (Kinshasa), Rwanda, Burundi, Éthiopie, Ouganda, Kenya, Tanzania
+Nigeria, Cameroon, Equatorial Guinea, São Tomé, Congo (Kinshasa), Rwanda, Burundi, Ethiopia, Uganda, Kenya, Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 900-2450 m. A l'ombre épaisse du feuillage de l'étage forestier de forêt submontagnarde et de contrefort montagnard humide
+alt. 900–2450 m. In the dense shade of the foliage of the forest layer of submontane forest and humid montane foothill forest
 
 ## Notes
 

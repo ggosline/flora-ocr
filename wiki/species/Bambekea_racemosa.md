@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 11
+Plate 11
 
 B. bequaertii (De Wild.) C.Jeffrey, Kew Bull. 15: 346 (1962).
 
-Grimpeur atteignant 15 m de hauteur; tige finement côtelée, un peu ramiﬁée, 3–5 mm de diamètre; racine tubérisée, jusqu'à 100 × 25 cm. Vrilles assez robustes, allongées, jusqu'à 20 cm. Feuille: pétiole robuste, 6–15 cm, strié, un peu tordu, finement pubérulent; limbe simple ou (3–5)(-7)-palmatilobé, de contour largement ovale, long et large de 10–20 cm, membraneux, glabre, vert vif dessus, vert plus clair dessous, à base profondément cordée à sinus souvent presque rectangulaire, profond de 2–4 cm et jusqu'à 5 cm de largeur, à lobes aigus ou courtement acuminés au sommet, à marge denticulée à dentée, lobe médian étroitement triangulaire et souvent oblong, un peu rétréci à la base, les latéraux courtement triangulaires, les plus externes très petits; nervures fines, légèrement saillantes dessus, beaucoup plus marquées dessous. Inflorescence : la mâle avec 10 à 20 ﬂeurs et axes de 4–7 cm ; la femelle à axes de 5–12 cm, au stade fructifère avec 8 fruits. Fleur mâle : réceptacle légèrement aplati, large de 2,5–3 mm ; sépales triangulaires, de 3 × 1 mm ; pétales obovales et ﬁnement aigus au
-
-sommet, de 6–8 × 4–5 mm, jaunes à orange, à 7 nervures fines; étanines : filet grêle, 3 mm, anthère ovale, de 4 × 2 mm. Fleur femelle : pédicelle 3–7 mm; périanthe semblable à celui des fleurs mâles, mais pétales plus longs (de 12 × 5 mm) et réceptacle densément hérissé de poils assez longs; ovaire obloïde, glabre, long de 5–6 mm; style 7–8 mm, à stigmate globuleux. Fruit à pédicelle de ±5 mm, largement obovoïde à globuleux, de 3 × ±2,5 cm, lisse, vert luisant avec des petites taches blanches, à odeur forte de concombre, portant les restes du réceptacle et des sépales. Graine de contour obovale, de 5 × 2,5 × 1,5 mm, blanchâtre; testa fibreux.
+Climber reaching 15 m in height; stem finely ribbed, somewhat branched, 3–5 mm in diameter; tuberized root, up to 100 × 25 cm. Tendrils fairly robust, elongate, up to 20 cm. Leaf: petiole robust, 6–15 cm, striated, somewhat twisted, finely puberulent; blade simple or (3–5)(-7)-palmately lobed, broadly oval in outline, 10–20 cm long and wide, membranous, glabrous, bright green above, paler green below, with deeply cordate base with sinus often nearly rectangular, 2–4 cm deep and up to 5 cm wide, with acute or shortly acuminate lobes at apex, denticulately to dentately margined, median lobe narrowly triangular and often oblong, somewhat narrowed at base, lateral lobes shortly triangular, outermost ones very small; veins fine, slightly prominent above, much more pronounced below. Inflorescence: the male with 10 to 20 flowers and axes 4–7 cm; the female with axes 5–12 cm, at fruiting stage with 8 fruits. Male flower: receptacle slightly flattened, 2.5–3 mm wide; sepals triangular, 3 × 1 mm; petals obovate and finely acute at apex, 6–8 × 4–5 mm, yellow to orange, with 7 fine veins; stamens: filament slender, 3 mm, anther oval, 4 × 2 mm. Female flower: pedicel 3–7 mm; perianth similar to that of male flowers, but petals longer (12 × 5 mm) and receptacle densely beset with fairly long hairs; ovary oblong, glabrous, 5–6 mm long; style 7–8 mm, with globose stigma. Fruit on pedicel of ±5 mm, broadly obovoid to globose, 3 × ±2.5 cm, smooth, glossy green with small white spots, with strong cucumber odour, bearing the remains of the receptacle and sepals. Seed obovate in outline, 5 × 2.5 × 1.5 mm, whitish; testa fibrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l'Afrique de l'Ouest et centrale, observé en Côte d'Ivoire, au Nigéria, au Cameroun, en République du Congo, en République démocratique du Congo, au Rwanda, en Ouganda et en Angola (Cabinda); au Gabon, connu de l'Estuaire et de l'Ogooué-Ivindo
+known from West and Central Africa, observed in Côte d'Ivoire, Nigeria, Cameroon, Republic of the Congo, Democratic Republic of the Congo, Rwanda, Uganda and Angola (Cabinda); in Gabon, known from Estuaire and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles primaires et secondaires, galeries forestières, recrês forestiers, lisières, jacchères; au Gabon à 500–910 m d'altitude, ailleurs à 100–1220 m
+primary and secondary rainforests, forest galleries, forest regrowth areas, forest margins, fallows; in Gabon at 500–910 m altitude, elsewhere at 100–1220 m
 
 ## Bibliography
 

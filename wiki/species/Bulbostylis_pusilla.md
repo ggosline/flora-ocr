@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Abildgaardia pusilla (A.Rich.) Lye subsp. yalingensis (Cherm.) Lye, Nordic J. Bot. 3 : 239 (1983).
 
-Herbe annuelle , grêle, en touffes denses ; tiges de 5‒35 cm × 0,2‒0,4 mm, triangulaires, glabres ou avec quelques poils fins épars . Feuilles nombreuses ; gaine jaune paille à brun pâle, avec de longs poils blancs au collet, à surface garnie de poils épineux ou glabre ; limbe de 2‒10 cm × 0,2‒0,4 mm, plan ou un peu incurvé, souvent densément garni de poils courts épineux au moins sur la marge. Inflorescence en anthèle simple ou composée , le plus souvent formée d’un épillet sessile et de 2‒8 épillets pédicellés ou de groupes d’épillets sur des pédoncules de 5‒15 mm ; bractées involucrales très courtes. Épillet ovale, de 2‒6 × 1‒1,5 mm ; glumes longues de 1,2‒1,8 mm, ovales, presque glabres ou couvertes de poils ras , à marge courtement ciliée, brun rougeâtre ou brun jaunâtre avec la marge plus pâle et une nervure centrale trinervée verdâtre qui atteint le sommet seulement chez les glumes les plus inférieures. Akène de 0,5‒0,9 × 0,3‒0,6 mm, grossièrement obovoïde, trigone, ridé transversalement, gris ou brun à maturité, papilleux ; base du style persistante, petite, brun foncé.
+Annual herb, slender, in dense tufts; stems 5–35 cm × 0.2–0.4 mm, triangular, glabrous or with a few scattered fine hairs. Leaves numerous; sheath straw-yellow to pale brown, with long white hairs at the collar, surface bearing spinous hairs or glabrous; blade 2–10 cm × 0.2–0.4 mm, plane or slightly curved, often densely bearing short spinous hairs at least on the margin. Inflorescence an anthelium simple or compound, most often formed of one sessile spikelet and 2–8 pedicellate spikelets or groups of spikelets on peduncles 5–15 mm; involucral bracts very short. Spikelet ovate, 2–6 × 1–1.5 mm; glumes 1.2–1.8 mm long, ovate, nearly glabrous or covered with short hairs, margin shortly ciliate, reddish-brown or yellowish-brown with the margin paler and a trinervate greenish central nerve reaching the apex only in the lowermost glumes. Achene 0.5–0.9 × 0.3–0.6 mm, coarsely obovoid, trigonous, transversely wrinkled, grey or brown at maturity, papillose; base of style persistent, small, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale, du Mali à l’Éthiopie et vers le sud, jusqu’en Angola et au Zimbabwe ; très répandue au Gabon, trouvée dans l’Estuaire, la Ngounié, l’OgoouéIvindo, l’Ogooué-Lolo, l’Ogooué-Maritime et le Woleu-Ntem. (14 récoltes)
+Tropical Africa, from Mali to Ethiopia and southward, to Angola and Zimbabwe; very widespread in Gabon, found in Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem. (14 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les zones herbeuses et les savanes, souvent dans les habitats perturbés ; au Gabon, à 0‒650 m d’altitude, jusqu’à 2000 m en Afrique de l’Est. Note taxonomique : Goetghebeur & Coudijzer (1984b) considère que ce taxon est identique à la subsp. pusilla , mais bien que ces deux sous-espèces soient très similaires, cette dernière a des glumes plus glabres et un akène plus gros (0,9‒1 × 0,6‒0,7 mm). Elle est aussi très proche de B. congolensis, mais s’en différencie par les tiges non poilues et les glumes faiblement poilues. B : Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972), Lye (1997)
+in grassy zones and savannas, often in disturbed habitats; in Gabon, 0–650 m altitude, up to 2000 m in East Africa. Taxonomic note: Goetghebeur & Coudijzer (1984b) consider this taxon identical to subsp. pusilla, but although these two subspecies are very similar, the latter has more glabrous glumes and a larger achene (0.9–1 × 0.6–0.7 mm). It is also very close to B. congolensis, but differs from it by the non-hairy stems and weakly hairy glumes. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Lye (1997)
 
 ## Notes
 

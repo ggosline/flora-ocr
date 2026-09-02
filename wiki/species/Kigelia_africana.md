@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (1963); GENTRY, Fl. Cam. 27: 32, tab. 9 (1984).
 
 - Bignonia africana LAM., Encycl. 1: 424 (1785).
 
-- Crescentia pinnata JACQ., Collect. 3 : 203, tab. 18 (1789). TYPE : Cultivé à Schoenbrunn en provenance du Mozambique (non vu).
+- Crescentia pinnata JACQ., Collect. 3 : 203, tab. 18 (1789). TYPE : Cultivated at Schoenbrunn from Mozambique (not seen).
 
 - Tanaecium pinnatum (JACQ.) WILLD., in L., Sp. Pl., ed. 4, 3 : 312 (1802).
 
-- Tripinnaria africana Spreng., Syst. Veg. 2: 842 (1825), nom. nov. pour Crescentia pinnata Jacq.
+- Tripinnaria africana Spreng., Syst. Veg. 2: 842 (1825), nom. nov. for Crescentia pinnata Jacq.
 
 - Sotor aethiopium FENZL., Ber. 21 : 168 (1844).
 
@@ -35,15 +33,15 @@ tags: [species, generated]
 
 - Kigelkeia pinnata (JACQ.) RAF., Sylv. Tellur.: 166 (1838).
 
-- Kigelia aethiopica DECNE., in DELESS., Ic. Select. Pl. 5: 39, tab. 93 (1846). TYPE: Ethiopia (non vu, Ic. Sel. Pl. 5: tab. 93 A & B).
+- Kigelia aethiopica DECNE., in DELESS., Ic. Select. Pl. 5: 39, tab. 93 (1846). TYPE: Ethiopia (not seen, Ic. Sel. Pl. 5: tab. 93 A & B).
 
-- K. abyssinica A. Rich., Tent. Fl. Abyss. 2: 60, tab. 75 (1847). TYPE: Quartin Dillon s.n., Éthiopie (non vu).
+- K. abyssinica A. Rich., Tent. Fl. Abyss. 2: 60, tab. 75 (1847). TYPE: Quartin Dillon s.n., Ethiopia (not seen).
 
 - K. pinnata (Jacq.) DC., Prodr. 9 : 247 (1845).
 
-- K. angolensis Welw. EX SPRAGUE., FTA 4 (2): 535 (1906). SYNTYPES: Welwitsch 489, 491, Angola (non vu).
+- K. angolensis Welw. ex SPRAGUE., FTA 4 (2): 535 (1906). SYNTYPES: Welwitsch 489, 491, Angola (not seen).
 
-- K. acutifolia ENGL. EX SPRAGUE, FTA 4 (2): 535 (1906). LECTOTYPE: Zenker 1316, Cameroun (K; iso-, P, MO photo 4155).
+- K. acutifolia ENGL. ex SPRAGUE, FTA 4 (2): 535 (1906). LECTOTYPE: Zenker 1316, Cameroon (K; iso-, P, MO photo 4155).
 
 - K. elliottii SPRAGUE, FTA 4 (2): 536 (1906). TYPE: Scott-Elliot 4757, Sierra Leone (K, MO photo 4154).
 
@@ -51,7 +49,7 @@ tags: [species, generated]
 
 - K. impressa SPRAGUE, FTA 4 (2): 535 (1906). LECTOTYPE: Barter s.n., Fernando Po (K, MO photo 4150).
 
-- K. spragueana WERNH., J. of Bot. 52: 31 (1914). SYNTYPES: Barter s.n., Nigeria et Mann 2, Fernando Po (non vu).
+- K. spragueana WERNH., J. of Bot. 52: 31 (1914). SYNTYPES: Barter s.n., Nigeria and Mann 2, Fernando Po (not seen).
 
 - K. tristis A. CHEV., Expl. Bot. Afr. Occ. Fr. 1: 487 (1920), nom. nud.
 
@@ -59,15 +57,15 @@ tags: [species, generated]
 
 - K. aethiopium (FENZL.) DANDY, in ANDR., Fl. Sudan 3: 156 (1956).
 
-Arbre haut de 15(-35) m au moins et d'un diamètre de 60 cm, couronne étalée. Rameaux glabres ou pubescents, lenticellés, souvent creux. Feuilles variables, opposées ou verticillées, composées imparipennées, le plus souvent 7-9 foliolées. Folioles opposées à subopposées, chacune elliptique à elliptique-obovée, arrondie à aiguë au sommet et à la base,  $ 1,9-14 \times 1,4-7 $ cm, entière à dentée ; face très courtement papilleuse et irrégulièrement écailleuse, complètement glabre ou pubescente avec des poils simples sur les nervures principales sur les deux faces et à un moindre degré sur la face inférieure, souvent fortement rugueuse quand pubescente ; pétiolule long de 1-5 mm.
+Tree 15(–35) m tall, at least, and 60 cm in diameter, with a spreading crown. Branches glabrous or pubescent, lenticellate, often hollow. Leaves variable, opposite or whorled, imparipinnate compound, mostly 7–9 foliolate. Leaflets opposite to subopposite, each elliptic to elliptic-obovate, rounded to acute at the apex and at the base, 1.9–14 × 1.4–7 cm, entire to dentate; upper surface very shortly papillose and irregularly scaly, completely glabrous or pubescent with simple hairs on the principal veins on both surfaces and to a lesser degree on the lower surface, often strongly rugose when pubescent; petiolule 1–5 mm long.
 
-Inflorescence en simple panicule pendante avec l'axe central fortement allongé, flagelliflore, accrochée sous les branches inférieures. Fleurs à calice cupulaire, irrégulièrement 5-denté, 2,2-4,5 × 1,6-2,7 cm, glabre ou subpubérulent, habituellement avec des plages glanduleuses dans la partie supérieure. Corolle marron sombre intérieurement, marron strié de vert extérieurement, campanulée au dessus de la base tubulaire, glabre avec un épiderme glanduleux, pubescente au niveau de l'insertion des étamines, 6-9 × 2-6 cm au sommet du tube. Étamines didynamics, subexsertes, thèques de l'anthère faiblement divergentes, longues de 7-9 mm, larges de 1,5 mm, filets basalement pubescents, insertion 1-1,5 cm au dessus de la base du tube. Pistil long de 6-8 cm, ovaire cylindrique, long de 6-11 mm; large de 2-3 mm. Disque annulaire-pulviné, long de 2-3 mm et large de 9-13 mm.
+Inflorescence in a simple pendulous panicle with the central axis strongly elongate, flagellate, hanging beneath the lower branches. Flowers with cupular calyx, irregularly 5-dentate, 2.2–4.5 × 1.6–2.7 cm, glabrous or subpubescent, usually with glandular patches in the upper part. Corolla dark brown within, brown streaked with green externally, campanulate above the tubular base, glabrous with a glandular epidermis, pubescent at the level of stamen insertion, 6–9 × 2–6 cm at the summit of the tube. Stamens didynamous, subexsert, anther thecae weakly divergent, 7–9 mm long, 1.5 mm wide, filaments basally pubescent, insertion 1–1.5 cm above the base of the tube. Pistil 6–8 cm long, ovary cylindric, 6–11 mm long; 2–3 mm wide. Annular-pulvinate disc, 2–3 mm long and 9–13 mm wide.
 
-Fruit cylindrique avec des extrémités arrondies, grand, pendant, indéhiscent, long de 80 cm au moins et large de 9 cm. Graines aplaties,
+Fruit cylindric with rounded extremities, large, pendulous, indehiscent, at least 80 cm long and 9 cm wide. Seeds flattened,
 
 A.H. GENTRY
 
-sans aile, cotylédons repliés à moitié le long de leur axe central. - Pl. 5, p. 29.
+wingless, cotyledons folded halfway along their central axis. – Pl. 5, p. 29.
 
 ## Type
 
@@ -75,11 +73,9 @@ Thouin in Adanson 199A, Sénégal (P-Juss. n° 4991)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In Cameroon, there are two more or less distinguishable variants: one has uniformly opposite leaves and more membranous acute leaflets, and the other shows mostly whorled leaves and obtuse, more papyraceous and rugose leaflets. It is reported that the first variant has dark red to red-violet flowers; while those of the second are purple or dark red to brown. Analysis of the variation patterns is difficult because most of the available material is fragmentary, leaf fixation has rarely been preserved, and notes on flower colour are rare. Furthermore, some collections (for example De Wilde W. c.s. 2324, Cameroon) are intermediate and taxonomic recognition of these variations appears little justified. All Gabonese material has acute leaves, except the specimen from Hallé N. & Le Thomas 76, from Bélinga.
 
-Au Cameroun, il y a deux variantes plus ou moins discernables : l'une a des feuilles uniformément opposées et des folioles aiguës plus membraneuses, et l'autre montre des feuilles le plus souvent verticillées et des folioles obtuses, plus papyracées et rugueuses. On rapporte que la première variante a des fleurs rouge sombre à rouge violet ; tandis que celles de la seconde sont pourpres ou rouge sombre à marron. L'analyse des variations des dessins est difficile du fait que la plupart du matériel disponible est fragmentaire, que la fixation de la feuille a rarement été conservée, et que les notes sur la couleur de la fleur sont rares. En outre, quelques récoltes (par exemple De Wilde W. c.s. 2324, Cameroun) sont intermédiaires et la reconnaissance taxonomique de ces variations paraît peu justifiée. Tout le matériel gabonais a des feuilles aiguës, sauf l'échantillon de Hallé N. & Le Thomas 76, de Bélinga.
-
-NOM USUEL : saucissonnier.
+COMMON NAME: sausage tree.
 
 ## Specimens examined
 

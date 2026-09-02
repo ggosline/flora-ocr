@@ -15,23 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste robuste, de 3–5 m de hauteur ou liane grimpant jusqu’à ± 15 m ; tige subcylindrique, parfois nettement quadrangulaire, pleine, munie de pseudoépines de 5–10 × 2 mm , pousses les plus jeunes à écailles courtes rousses ou à fine pubescence rousse, parfois substriées, les plus âgées devenant glabres. Feuilles rarement opposées, généralement subopposées, parfois alternes ; pétioles d’une paire clairement inégaux, de 0,2–3(–4,5) cm, parfois nettement
-
-genouillés, densément couverts de gales rousses, poils sensiblement plus longs et plus denses que les pousses associées ; limbe obovale à obovale-elliptique ou elliptique à largement subfalciforme, de (4,5–)6–10(–17) × (3–)6–8(–10) cm, cunéé à arrondi ou cordé et souvent asy métrique à la base, longuement acuminé à l’apex, entier ou ± sinueux au bord, glabre dessus, à fines écailles rouges sur les nervures dessous, ± 3-nervé à la base. Inflorescence terminale ou sur de petits rameaux latéraux, dense , capitule principal de 3–5(–12) × 3–8(–16) cm, finement pubescent ; cymes 4 à 8, distantes de (0,4–)0,8–2,2(–4) cm ; pédoncule de 3–4,5 cm ; bractées linéaires à subspathulées, de 4–5 × 2 mm ; bractéoles ± linéaires, de ± 1 mm. Fleur : pédicelle de ± 3 mm ; calice à tube campanulé, de 2–3 × 1 mm , à lobes triangulaires, de ± 2 × 1 mm, aigus à l’apex, dressés en bouton, puis réfléchis, particulièrement accrescents, s’élargissant jusqu’à 2 mm à maturité ; corolle à tube de 2–4(–6) × 1 mm, à lobes réfléchis à l’anthèse, de 1,5–2 × 1–2 mm , blancs ; étamines à filets généralement recourbés, exserts sur 1–2 mm ou jusqu’à 4 mm s’ils sont droits ; style exsert sur 5–8 mm. Fruit de 0,8–1 × (0,4–)0,6–0,8 cm, noir.
+Robust shrub, 3–5 m tall or climbing liane reaching ± 15 m; stem subcylindrical, sometimes distinctly quadrangular, solid, furnished with pseudospines 5–10 × 2 mm, youngest shoots with short russet scales or fine russet pubescence, sometimes substriated, older ones becoming glabrous. Leaves rarely opposite, generally subopposite, sometimes alternate; petioles of a pair clearly unequal, 0.2–3(–4.5) cm, sometimes distinctly geniculate, densely covered with russet galls, hairs substantially longer and denser than on associated shoots; blade obovate to obovate-elliptic or elliptic to broadly subfalciform, (4.5–)6–10(–17) × (3–)6–8(–10) cm, cuneate to rounded or cordate and often asymmetric at base, long-acuminate at apex, entire or ± sinuate at margin, glabrous above, with fine red scales on veins below, ± 3-nerved at base. Inflorescence terminal or on small lateral branches, dense, main capitulum 3–5(–12) × 3–8(–16) cm, finely pubescent; cymes 4 to 8, distant (0.4–)0.8–2.2(–4) cm apart; peduncle 3–4.5 cm; bracts linear to subspatulate, 4–5 × 2 mm; bracteoles ± linear, ± 1 mm. Flower: pedicel ± 3 mm; calyx with campanulate tube, 2–3 × 1 mm, with triangular lobes, ± 2 × 1 mm, acute at apex, erect in bud, then reflexed, particularly accrescent, widening to 2 mm at maturity; corolla with tube 2–4(–6) × 1 mm, with lobes reflexed at anthesis, 1.5–2 × 1–2 mm, white; stamens with filaments generally curved, exsert 1–2 mm or up to 4 mm if straight; style exsert 5–8 mm. Fruit 0.8–1 × (0.4–)0.6–0.8 cm, black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Togo, Nigéria, Sao Tomé, Cameroun, Guinée équatoriale, Gabon et Angola ; au Gabon : Woleu-Ntem (Oyem, où il représente la première occurrence pour le pays). Statut de conservation : Bien qu’il ait une aire de répartition géographique assez large, il reste connu de peu de localités et est attribué préliminairement à Quasi menacé (NT) ici
+Togo, Nigeria, São Tomé, Cameroon, Equatorial Guinea, Gabon and Angola; in Gabon: Woleu-Ntem (Oyem, where it represents the first occurrence for the country). Conservation status: Although it has a fairly wide geographical range, it remains known from few localities and is preliminarily assigned to Near Threatened (NT) here.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu d’une seule récolte au Gabon, en forêt ; au Cameroun, signalé en lisière d’anciennes mangroves, en mangrove à Rhizophora racemosa sur des sols sableux, près de la mer, au voisinage d’eau douce courante et en forêt secondaire ; pas d’altitude au Gabon ; au Cameroun, à 0–100(–800) m. B : Cable & Cheek (1998), Huber et al. (1963). i B liographie
+known from a single collection in Gabon, in forest; in Cameroon, recorded at the edge of former mangroves, in Rhizophora racemosa mangrove on sandy soils, near the sea, in the vicinity of running freshwater and in secondary forest; no altitude data from Gabon; in Cameroon, 0–100(–800) m. B: Cable & Cheek (1998), Huber et al. (1963). Bibliography
 
 ## Notes
 

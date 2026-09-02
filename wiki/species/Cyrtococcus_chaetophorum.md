@@ -25,17 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms rooted at the nodes, branched, erect up to 1 m tall. Leaf blades linear-lanceolate, acuminate, narrowed at the base, up to 15 × 1 cm, finely pubescent or glabrous.
 
-Chaumes enracinés aux nœuds, ramifiés, dressés jusqu'à 1 m de haut. Limbes foliaires linéaires lancéolés, acuminés, rétrécis à la base, jusqu'à 15 × 1 cm, finement pubescents ou glabres.
+Terminal panicle, oblong, approximately twenty centimeters long, axes pubescent. Spikelets up to 2 mm long, very flattened laterally, olive-green. Glumes unequal, membranous, the lower lanceolate acuminate, approximately half the length of the spikelet, the upper as long as the spikelet, with 5 nerves, silky and rounded on the back. Upper floret with lemma similar to the upper glume, but with straight back and 3 or 5 nerves; palea more or less reduced, with 3 nerves.
 
-Panicule terminale, oblongue, d'une vingtaine de centimètres
+Upper floret semi-elliptic, acuminate, brown.
 
-de long, axes pubescents. Épillets jusqu'à 2 mm de long, très aplatis latéralement, vert olive. Glumes inégales, membraneuses, l'inférieure lancéolée acuminée, faisant environ la moitié de la longueur de l'épillet, la supérieure aussi longue que l'épillet, à 5 nervures, soyeuse et arrondie sur le dos. Fleur supérieure à lemma semblable à la glume supérieure, mais à dos droit et à 3 ou 5 nervures; palée plus ou moins réduite, à 3 nervures.
-
-Fleur supérieure semi-elliptique, acuminée, brune.
-
-Herbe de sous-bois, des zones forestières humides d'Afrique occidentale, sans importance pratique.
+Herb of woodland understory, from humid forest zones of West Africa, of no practical importance.
 
 ## Specimens examined
 

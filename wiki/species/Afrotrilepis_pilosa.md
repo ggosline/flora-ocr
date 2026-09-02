@@ -23,27 +23,25 @@ tags: [species, generated]
 
 **Pages**: 13-15 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Catagyna pilosa (Boeckeler) Hutch., Fl. W. trop. Afr. 2 : 490 (1936). Herbe robuste, haute parfois de 1 m, avec une tige horizontale à la base, ramifiée et dressée au-dessus, bases des tiges entourées d’une masse compacte formée des restes des vieilles feuilles mêlés aux racines adventives. Feuilles disposées en spirale ; gaine fermée ; limbe de 10‒45 cm × 4‒8 mm , glabre ou poilu dessous, persistant longtemps. Inflorescence en panicule lâche et bien développée, occupant environ la moitié des tiges ; à épillets disposés en glomérules aux extrémités des rameaux, chacun ayant à sa base une bractée. Épillet habituellement à 2 fleurs, soit avec deux fleurs mâles soit avec une fleur mâle et une femelle. Fleur mâle réduite à 2 ou 3 étamines. Fleur femelle plus complexe, le pistil étant placé dans un anneau de poils soudés à la base, et tombant avec l’akène à maturité . Akène long de 2,5‒3 mm, avec un bec allongé et habituellement très scabre ; large espace vide à l’intérieur de la graine.
+Catagyna pilosa (Boeckeler) Hutch., Fl. W. trop. Afr. 2 : 490 (1936). Robust herb, sometimes up to 1 m tall, with a horizontal stem at the base, branched and erect above, bases of stems surrounded by a compact mass formed of the remains of old leaves mixed with adventitious roots. Leaves arranged in a spiral; sheath closed; blade 10–45 cm × 4–8 mm, glabrous or hairy below, persisting for a long time. Inflorescence in a loose and well-developed panicle, occupying approximately half the height of the stems; with spikelets arranged in glomerules at the branch tips, each having a bract at its base. Spikelet usually with 2 flowers, either with two male flowers or with one male and one female flower. Male flower reduced to 2 or 3 stamens. Female flower more complex, the pistil being placed in a ring of hairs fused at the base, and falling with the achene at maturity. Achene 2.5–3 mm long, with an elongated and usually very scabrous beak; large empty space inside the seed.
 
 ### Distribution
 
-Mali, Sierra Leone, Liberia, Côte d’Ivoire, Burkina Faso, Ghana, Nigeria, Cameroun et Gabon ; répandue au Gabon dans le Woleu-Ntem, mais trouvée aussi dans la Nyanga et l’Ogooué-Ivindo (14 récoltes)
+Mali, Sierra Leone, Liberia, Côte d'Ivoire, Burkina Faso, Ghana, Nigeria, Cameroon and Gabon; widespread in Gabon in the Woleu-Ntem, but also found in the Nyanga and Ogooué-Ivindo (14 collections)
 
 ### Ecology
 
-inselbergs et affleurements rocheux en forêt ; au Gabon, à 450‒750 m d’altitude
+Inselbergs and rocky outcrops in forest; in Gabon, at 450–750 m altitude
 
 ### Vernacular names
 
-Devil grass (angl.)
+Devil grass (Engl.)
 
 ### Uses
 
-Au Gabon et en Sierra Leone, la plante est utilisée pour faire des toits de chaume. B : Brink (2011a), Haines & Lye (1983), Napper (1971), Raynal (1963). ibliographie
+In Gabon and Sierra Leone, the plant is used to make thatched roofs. B: Brink (2011a), Haines & Lye (1983), Napper (1971), Raynal (1963). Bibliography
 
-Coupe transversale du limbe. – E. Base de l’inflorescence avec pédoncules. – F. Coupe transversale du tronc. – G, H. Épillet mâle. – I. Épillet bisexué. – J. Fleur femelle entourée de poils. – K. Coupe d’une fleur femelle. Dessin original par Richard W. Haines ©.
+Transverse section of blade. – E. Base of inflorescence with peduncles. – F. Transverse section of stem. – G, H. Male spikelet. – I. Bisexual spikelet. – J. Female flower surrounded by hairs. – K. Section of a female flower. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

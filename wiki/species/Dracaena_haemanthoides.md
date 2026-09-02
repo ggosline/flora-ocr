@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste dressé, parfois acaule ; tronc simple, jusqu’à 50 cm de hauteur. Feuilles équitantes , restreintes ± les derniers 20 cm, vertes ; gaine embrassant la tige sur un peu plus que la circonférence ; pseudopétiole largement ailé, plus court que le limbe ; limbe étroitement obovale ou, sur des spécimens plus petits, étroitement elliptique , jusqu’à 80 × 12 cm, base cunéée, graduellement rétrécie en un pseudopétiole, sommet acuminé à mucron subulé atteignant 3 mm, coriace, épais, face supérieure vert foncé brillant, à nervure médiane canaliculée, face inférieure vert pâle ou parfois violet foncé, à nervure médiane proéminente sur environ les ¾ de la longueur et la nervure secondaire normalement non proéminentes. Inflorescence dressée, subcapitée , parfois ressemblant un thyrse spiciforme, sessile, jusqu’à 18 cm de longueur ; axes lisses, vert violacé, base avec des feuilles transitoires cuspidées, passant à des bractées cymbiformes vert violacée, de 16 × 10 mm, sous-tendant les glomérules densément insérés, chacun comprenant bien plus de 10 fleurs. Fleur : pédicelle 1–2 mm ; périanthe 51–59 mm de longueur , blanc-crème, tube strié de rose violacé à l’extérieur, lobes réfléchis, 11 × 3 mm, beaucoup plus courts que le tube, à sommet obtus mucronulé, blanc verdâtre à l’extérieur, blancs à l’intérieur ; étamines insérées près de la gorge, jusqu’à 1 mm plus courtes que les lobes, filet filiforme, blanc, anthère 1,5 mm de longueur, jaune pâle ; ovaire ovoïde, de 3 × 2 mm ; style exsert sur jusqu’à 2 mm, blanc, stigmate légèrement 3-lobé, ± 1 mm de diamètre. Fruit obloïde , ± 18 × 21 mm, entier à légèrement 2- ou 3-lobé, orange à jaune ; réceptacle jusqu’à 3 mm de longueur. Graine obloïde, 8 × 12 mm, lisse, superficiellement bilobée.
+Erect shrub, sometimes acaulescent; trunk simple, up to 50 cm in height. Leaves equitant, restricted to ± the last 20 cm, green; sheath embracing the stem for slightly more than the circumference; pseudopetiole broadly winged, shorter than the limb; limb narrowly obovate or, on smaller specimens, narrowly elliptic, up to 80 × 12 cm, base cuneate, gradually narrowed into a pseudopetiole, apex acuminate to subulate mucro reaching 3 mm, coriaceous, thick, upper surface dark green glossy, with canaliculate midvein, lower surface pale green or sometimes dark violet, with midvein prominent for approximately 3/4 of the length and secondary veins normally not prominent. Inflorescence erect, subcapitate, sometimes resembling a spiciform thyrse, sessile, up to 18 cm in length; axes smooth, green-violet, base with cuspidate transitional leaves, passing to cymbiform violet-green bracts, 16 × 10 mm, subtending densely inserted glomerules, each comprising well more than 10 flowers. Flower: pedicel 1–2 mm; perianth 51–59 mm in length, cream-white, tube striped with violet-pink on the exterior, lobes reflexed, 11 × 3 mm, much shorter than the tube, with obtuse mucronate apex, greenish-white on the exterior, white on the interior; stamens inserted near the throat, up to 1 mm shorter than the lobes, filament filiform, white, anther 1.5 mm in length, pale yellow; ovary ovoid, 3 × 2 mm; style exsert for up to 2 mm, white, stigma slightly 3-lobed, ± 1 mm in diameter. Fruit oblong, ± 18 × 21 mm, entire to slightly 2- or 3-lobed, orange to yellow; receptacle up to 3 mm in length. Seed oblong, 8 × 12 mm, smooth, superficially bilobed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale et Gabon ; au Gabon, connu du Woleu-Ntem
+Cameroon, Equatorial Guinea and Gabon; in Gabon, known from Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stream margins in forest, on clay soil; in Gabon as elsewhere at 25–450 m elevation. Flowering period in situ unknown; in glasshouse in the Netherlands, recorded in January and February. B: Damen et al. (2018). Bibliography
 
-bords des ruisseaux en forêt, sur sol argileux ; au Gabon comme ailleurs à 25–450 m d’altitude. Période de floraison in situ inconnue ; en serre aux Pays-Bas, enregistrée en janvier et février. B : Damen et al. (2018). i B liographie
+Center (©), reproduced from Damen et al. (2018).
 
-Center (©), reproduit à partir de Damen et al. (2018).
-
-National Herbarium Pretoria, reproduit à partir de Killick (1959).
+National Herbarium Pretoria, reproduced from Killick (1959).
 
 ## Notes
 

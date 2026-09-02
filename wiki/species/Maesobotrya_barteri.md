@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr. 6(1.4) : 669 (1912). Pierardia barteri Baill., Adansonia 4 : 137 (1864). Maesobotrya staudtii (Pax) Hutch. in Dyer, Fl. trop. Afr. 6(1.4) : 668 (1912). Arbre ou arbuste (2–)6–10 m de hauteur ; tronc 6–18 cm de diamètre ; ramilles ± hispi duleuses à ± tomenteuses, tardivement glabrescentes ou non . Stipules tôt caduques, étroitement triangulaires, (2–)4–7 mm de longueur, pubescentes à hispiduleuses. Feuille : pétiole (0,5–)1–6(–11) cm, pileux comme les ramilles ; limbe elliptique à obovale, (3–)10–24(–28) × (1,5–)3–10(–13) cm, cunéé à arrondi-obtus ou parfois subcordé à la base , acuminé sur 0,5–1,5 cm, hispiduleux ou à poils apprimés surtout sur la médiane dessus et les nervures dessous, à petites glandes dessous ; nervures latérales (7–)8– 10(–11) paires . Inflorescence : la mâle (1–)3–8(–15) cm de longueur, la femelle 1,5–10 cm de longueur, pubescente ; bractées 1–2 mm de longueur, les bractéoles nettement plus courtes. Fleur mâle : en groupes de 1–5 ; pédicelle 1–1,5 mm, glabre ; lobes du calice 4–5, ± étalés, environ 1 mm de longueur, glabres ou ciliés au sommet ; étamines 4–5, 1,5–2 mm de longueur ; disque 4–5-lobé, éparsement pubescent. Fleur femelle solitaire ; pédicelle 1 mm ; sépales comme chez les fleurs mâles ; disque cupuliforme, éparsement pubescent ; pistil 1,5–2 mm de longueur, glabre, ovaire 2(–3)-loculaire. Fruit déhiscent, ± ellipsoïde, environ 7 mm de diamètre, glabre, rouge . Graines 1(–4), exposées ; sar cotesta blanc à bleu .
+in Dyer, Fl. trop. Afr. 6(1.4): 669 (1912). Pierardia barteri Baill., Adansonia 4: 137 (1864). Maesobotrya staudtii (Pax) Hutch. in Dyer, Fl. trop. Afr. 6(1.4): 668 (1912). Tree or shrub (2–)6–10 m tall; trunk 6–18 cm in diameter; branchlets ± hispidulous to ± tomentose, late glabrescent or not. Stipules early caducous, narrowly triangular, (2–)4–7 mm long, pubescent to hispidulous. Leaf: petiole (0.5–)1–6(–11) cm, pilose like the branchlets; lamina elliptic to obovate, (3–)10–24(–28) × (1.5–)3–10(–13) cm, cuneate to rounded-obtuse or sometimes subcordate at the base, acuminate over 0.5–1.5 cm, hispidulous or with appressed hairs especially on the midvein above and the nerves below, with small glands below; lateral nerves (7–)8–10(–11) pairs. Inflorescence: the male (1–)3–8(–15) cm long, the female 1.5–10 cm long, pubescent; bracts 1–2 mm long, the bracteoles distinctly shorter. Male flower: in groups of 1–5; pedicel 1–1.5 mm, glabrous; calyx lobes 4–5, ± spreading, about 1 mm long, glabrous or ciliate at the apex; stamens 4–5, 1.5–2 mm long; disk 4–5-lobed, sparsely pubescent. Female flower solitary; pedicel 1 mm; sepals as in the male flowers; disk cupuliform, sparsely pubescent; pistil 1.5–2 mm long, glabrous, ovary 2(–3)-locular. Fruit dehiscent, ± ellipsoid, about 7 mm in diameter, glabrous, red. Seeds 1(–4), exposed; sarcotesta white to blue.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest et Centrale, de la Sierra Leone au Nigeria, Cameroun, République du Congo, République Démocratique du Congo et Angola (Cabinda) ; au Gabon, connue des provinces de l’Estuaire, du Moyen-Ogooué, de la Ngounié, de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+West and Central Africa, from Sierra Leone to Nigeria, Cameroon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, known from the provinces of Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 0–500 m d’altitude
+Primary and secondarized forest; in Gabon, at 0–500 m altitude
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les fruits acidulés servent à faire des confitures délicieuses
+The slightly acidic fruits are used to make delicious preserves
 
 ## Vernacular names
 

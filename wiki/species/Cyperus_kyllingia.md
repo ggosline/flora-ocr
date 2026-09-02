@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Kyllinga nemoralis (J.R.Forst. & G.Forst.) Hutch., Fl. West trop. Afr . 2 : 487 (1936). Thryocephalon nemorale J.R.Forst & G.Forst., Char. gen. pl . : 130, t. 65 (1776), non Cyperus nemoralis Cherm. (1936). Kyllinga monocepahala Rottb., Descr. icon. rar. pl . 2 : 13, t. 4, f. 4 (1773), non Cyperus monocephalus Roxb. (1832). Scirpus cephalotes Jacq., Hort. bot. vindob . 1 : 42, t. 97 (1770), non Cyperus cephalotes Vahl (1805). Herbe vivace, très feuillée, avec un rhizome ramifié, mince, flexible , engainé par une alternance de prophylles tubuleux et de bractées, les deux percés par les racines ; tiges habituellement écartées, de 10‒25 cm × 0,8‒1,5 mm, trigones, striées, glabres, sans renflement à la base. Feuille : gaine brunâtre, les basales sans limbe ; limbe de 10‒35 cm × 2‒5 mm , dépassant généralement les tiges, vert foncé, flasque, plan, scabre sur la marge et la nervure centrale, souvent avec des poils sur les nervures secondaires à la face supérieure. Inflorescence en tête globuleuse ou légèrement ovoïde, formée d’un épi unique (ou rarement en tête plus irrégulière avec 1‒2 épis supplémentaires plus petits) de 3‒8 × 3‒8 mm ; bractées involucrales 3‒5, foliacées, la principale longue de 8‒20 cm. Épillet de 2,5‒3,5 x 0,8‒1 mm , à 1(‒2) fleurs ; glumes 2‒3,5 mm de longueur, de largeurs différentes (une avec une carène plus large et plus dentée que l’autre), blanchâtres, mais devenant brun rougeâtre pâle, acuminées, avec 2‒4 nervures latérales, nervure médiane avec une carène ailée épineuse, mais parfois seulement sur certaines parties (sur certaines plantes, l’aile elle-même est peu développée). Fleur à 3 étamines ; style à 2 branches. Akène oblong, de 1‒1,3 × 0,7‒0,9 mm , noirâtre, finement papilleux.
+Kyllinga nemoralis (J.R.Forst. & G.Forst.) Hutch., Fl. West trop. Afr. 2: 487 (1936). Thryocephalon nemorale J.R.Forst & G.Forst., Char. gen. pl.: 130, t. 65 (1776), non Cyperus nemoralis Cherm. (1936). Kyllinga monocepahala Rottb., Descr. icon. rar. pl. 2: 13, t. 4, f. 4 (1773), non Cyperus monocephalus Roxb. (1832). Scirpus cephalotes Jacq., Hort. bot. vindob. 1: 42, t. 97 (1770), non Cyperus cephalotes Vahl (1805). Perennial herb, very leafy, with a branched, thin, flexible rhizome, sheathed by an alternation of tubular prophylls and bracts, both pierced by roots; stems usually spaced apart, 10–25 cm × 0.8–1.5 mm, trigonous, striated, glabrous, without swelling at the base. Leaf: sheath brownish, the basal ones without lamina; lamina 10–35 cm × 2–5 mm, usually exceeding the stems, dark green, flaccid, plane, scabrous on the margin and midvein, often with hairs on the secondary veins on the upper face. Inflorescence in a globose or slightly ovoid head, formed of a single spike (or rarely in a more irregular head with 1–2 additional smaller spikes) 3–8 × 3–8 mm; involucral bracts 3–5, foliaceous, the main one 8–20 cm long. Spikelet 2.5–3.5 × 0.8–1 mm, with 1(–2) flowers; glumes 2–3.5 mm long, of different widths (one with a wider and more dentate keel than the other), whitish, but becoming pale reddish-brown, acuminate, with 2–4 lateral veins, midvein with a spiny winged keel, but sometimes only on certain parts (on some plants, the wing itself is poorly developed). Flower with 3 stamens; style with 2 branches. Achene oblong, 1–1.3 × 0.7–0.9 mm, blackish, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique et en Asie tropicales et dans le Pacifique ; dispersée au Gabon, trouvée dans l’Ogooué-Maritime, l’Ogooué-Ivindo, l’Ogooué-Lolo et le Woleu-Ntem (4 récoltes)
+widely distributed in tropical Africa and Asia and in the Pacific; scattered in Gabon, found in Ogooué-Maritime, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem (4 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur sol partiellement ombragé dans les forêts, souvent le long des sentiers forestiers, aussi comme mauvaise herbe des terrains perturbés des régions très pluvieuses ; au Gabon, à 0‒800 m d’altitude, jusqu’à 1200 m ailleurs
+on partially shaded soil in forests, often along forest paths, also as a weed of disturbed ground in very rainy regions; in Gabon, at 0–800 m altitude, up to 1200 m elsewhere
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ white kyllinga, whitehead spikesedge (angl.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B. Gorge d’une gaine foliaire. – C. Inflorescence. – la tige. – C. Sommet du limbe. – D. Inflorescence. D. Épillet. – E. Fleurs sous-tendues par les glumes. – E. Épillet. – F. Épillet avec jeune fruit. – G. Fleur. Dessin original par Richard W. Haines ©. Dessin original par Richard W. Haines ©. Note taxonomique : se reconnaît par ses tiges bien espacées, les têtes relativement petites blanchâtres avec de longues bractées involucrales foliacées et les carènes ailées des glumes. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997).
+B. Throat of a leaf sheath. – C. Inflorescence. – the stem. – C. Apex of the lamina. – D. Inflorescence. D. Spikelet. – E. Flowers subtended by the glumes. – E. Spikelet. – F. Spikelet with young fruit. – G. Flower. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©. Taxonomic note: recognized by its well-spaced stems, the relatively small whitish heads with long foliaceous involucral bracts and the winged keels of the glumes. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997).
 
 ## Notes
 

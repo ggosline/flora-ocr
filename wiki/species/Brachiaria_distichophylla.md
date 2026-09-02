@@ -23,15 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb reaching about forty centimeters in height, prostrate at base, very much branched, culms generally pubescent, with numerous nodes, the upper ones very long. Leaves with sheaths more or less pubescent, ligule narrow, ciliate. Blades lanceolate with rounded base, 2–5 × 0.4–0.6 cm, more or less pubescent, with cartilaginous and undulate margins, spinose-ciliate.
 
-Herbe annuelle atteignant une quarantaine de centimètres de haut, à base prostrée, très ramifiée, chaumes généralement pubescents, à nombreux nœuds, les supérieurs très longs. Feuilles à gaines plus ou moins pubescentes, ligule étroite, ciliée. Limbes lancéolés à base arrondie, de  $ 2-5 \times 0,4-0,6 $ cm, plus ou moins pubescents, à marges cartilagineuses et ondulées, ciliées épineuses.
+Panicle formed of 4 to 10 spiciform subhorizontal racemes, up to 2.5 cm long or slightly more. Rachis thin, generally pubescent. Spikelets subsessile, contiguous or nearly so, 2 to 2.5 mm long. Glumes unequal, the lower subacuminate, ovate, with 3 or 5 nerves, approximately half as long as the spikelet, the upper as long as the spikelet with 5 nerves, more or less pubescent especially toward the apex. Lower floret neuter with lemma similar to the upper glume; palea more or less reduced or suppressed.
 
-Panicule formée de 4 à 10 racèmes spiciformes subhorizontalaux, jusqu'à 2,5 cm de long ou un peu plus. Rachis mince, généralement pubescent. Épillets subsessiles, contigus ou presque, de 2 à 2,5 mm de long. Glumes inégales, l'inférieure subacuminée, ovale, à 3 ou 5 nervures, environ moitié moins longue que l'épillet, la supérieure aussi longue que l'épillet à 5 nervures, plus ou moins pubescente surtout vers le sommet. Fleur inférieure neutre à lemma semblable à la glume supérieure; palée plus ou moins réduite ou supprimée.
+Upper floret with crustaceous glumelles, finely granulate.
 
-Fleur supérieure à glumelles crustacées, finement granuleuses.
-
-Espèce commune en Afrique occidentale et jusqu'en Angola, généralement dans les jachères. Serait une bonne espèce fourragère.
+Species common in West Africa and as far as Angola, generally in fallow fields. Would be a good forage species.
 
 ## Specimens examined
 

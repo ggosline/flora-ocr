@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — EXELL & MENDONÇA, Consp. Fl. Angol. 1 (2) : 243 (1951). — KEAY, FWTA ed. 2, 1.: 358 (1958). — WILCZEK, Fl. Congo belge 7 : 43 (1958). — SMITH, FTEA, Linacea : 2 (1966).
 
-Arbuste ± sarmenteux haut de 4-6 m, ou liane atteignant 20 m de hauteur. Tige finement striée longitudinalement, de 0,3-0,7 cm de diamètre, vêtue de poils courts à glabrescents, pourvue de crochets alternes. Feuilles pétiolées; stipules tomentelleuses à l'extérieur, laciniées, de 1-1,5 cm;
+Shrub ± sarmentose, 4–6 m tall, or liane reaching 20 m in height. Stem finely longitudinally striated, 0.3–0.7 cm in diameter, clothed with short hairs to glabrescent, furnished with alternate hooks. Leaves petiolate; stipules tomentellous externally, laciniate, 1–1.5 cm;
 
-pétiole pubescent à glabrescent, de 0,3-1,5 cm. Limbe glabre, sauf sur les nervures pubescentes à glabrescentes, surtout à la face inférieure, discolore, lancéolé, elliptique à obové, 5-25 × 2,5-7 cm. Nervures secondaires ascendantes; saillantes à la face inférieure, nervilles parallèles peu saillantes sur les 2 faces. Domaties axillaires le long de la nervure médiane.
+petiole pubescent to glabrescent, 0.3–1.5 cm. Blade glabrous except on the pubescent to glabrescent veins, especially on the lower face, discolorous, lanceolate, elliptic to obovate, 5–25 × 2.5–7 cm. Secondary veins ascending; prominent on the lower face, venules parallel, scarcely prominent on both faces. Domatia axillary along the midrib.
 
-Cymes axillaires tomentelleuses, pauciflores, jusqu'au sommet des rameaux florifères parmi les jeunes feuilles. Pédoncule tomentelleux, atteignant 4 cm. Pédicelles tomentelleux, atteignant 2 cm. Sépales vert-brun, inégaux, pubérulents à l'extérieur, glabres à la base intérieurement, les 2 externes à bords latéraux recourbés vers l'extérieur, les 3 internes émarginés, apiculés, de 4-6 × 0,4-1 cm. Pétales jaunes, pubescents à l'extérieur, obovés, 15-25 × 10 mm. Étamines, les plus longues à filets éparsément pubescents à la base, les plus courtes glabres, de 4-11 mm; anthères glabres, elliptiques, longues de 1,5 mm. Ovaire glabre, pubescent au sommet, oblong, long d'environ 2 mm; styles pubescents, de 5-7 mm.
+Axillary cymes tomentellous, few-flowered, extending to the apex of the flowering branchlets among the young leaves. Peduncle tomentellous, reaching 4 cm. Pedicels tomentellous, reaching 2 cm. Sepals greenish-brown, unequal, puberulent externally, glabrous at the base internally, the 2 outer ones with lateral margins curved outward, the 3 inner ones emarginate, apiculate, 4–6 × 0.4–1 cm. Petals yellow, pubescent externally, obovate, 15–25 × 10 mm. Stamens, the longest with filaments sparsely pubescent at the base, the shortest glabrous, 4–11 mm; anthers glabrous, elliptic, 1.5 mm long. Ovary glabrous, pubescent at the apex, oblong, about 2 mm long; styles pubescent, 5–7 mm.
 
-Drupes orangées, subglobuleuses, à 10 sillons. Noix bréviaxes, obtuses au sommet, de 9-11 mm de hauteur sur 9-12 mm de diamètre, à pyrènes ayant un profond sillon médian, les pyrènes étant elles-mêmes séparées par de profonds sillons. PL. 5, 1-4, p. 27.
+Drupes orange, subglobose, with 10 furrows. Nuts short-axed, obtuse at the apex, 9–11 mm in height by 9–12 mm in diameter, with pyrenes having a deep median furrow, the pyrenes themselves separated by deep furrows. PL. 5, 1–4, p. 27.
 
 ## Type
 
@@ -35,9 +33,7 @@ Mann s.n., Fernando Po et Principe (K); Welwitsch 1584, Angola (LISU; iso-, K, P
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts ripicoles, galeries forestières ou forêts secondaires. De la Guinée à l'Angola, l'Uganda et le Zaïre.
+Riparian forests, forest galleries or secondary forests. From Guinea to Angola, Uganda and Zaire.
 
 ## Specimens examined
 

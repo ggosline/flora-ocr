@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3–4 m tall with an erect stem. Branches and foliage in a horizontal plane. Branchlets glabrous, pale brown ± glossy, longitudinally wrinkled.
 
-Arbuste haut de 3-4 m à tige verticale. Branches et feuillage dans un plan horizontal. Rameaux glabres, marron clair ± luisant, ridés longitu-
+Petiole glabrous, weakly canaliculate or not above, wrinkled-ridged below, 1.5–2 cm long. Lamina glabrous on both surfaces, dark brown, glossy on the upper surface, yellowish-green on the lower surface, broadly elliptic, elliptic or elliptic-lanceolate, 15–32 × 6.5–11.5 cm; lateral margin recurved and marked by a strong brown line; base cuneate or attenuate (rarely rounded) and apex strongly acuminate-obtuse. Midvein very strongly concave above and very strongly prominent wrinkled below. Secondary veins 8–12 pairs, ascending, arched, anastomosing 3–5 mm from the margin of the lamina, prominent on both surfaces. Tertiary veins in a loose network, prominent on both surfaces.
 
-dinalement. Pétiole glabre, faiblement canaliculé ou non dessus, plissé ridé dessous, long de 1,5-2 cm. Limbe glabre sur les deux faces, marron foncé, luisant à la face supérieure, vert jaunâtre à la face inférieure, largement elliptique, elliptique ou elliptique-lancéolé, 15-32 × 6,5-11,5 cm; bord latéral récurvé marqué par une forte ligne marron; base cunéiforme ou atténuée (rarement arrondie) et sommet fortement acuminé obtus. Nervure médiane très fortement concave dessus et très fortement saillante ridée dessous. Nervures secondaires 8-12 paires, ascendantes, arquées, s'anastomosant à 3-5 mm du bord du limbe, saillantes sur les deux faces. Nervilles en réseau lâche, saillant sur les deux faces.
+Inflorescence in a glomerule decussate with respect to the leaf, multiflorous, pedicel very short and thick. Female flowers pentamerous, yellowish. Sepals imbricate, greenish-yellowish, free from one another, sparsely pubescent or glabrous externally, glabrous internally, ciliate on the upper margin, lanceolate, 2.5 × 1 mm; apex obtuse. Petals white, fused to one another over almost their entire length, glabrous on both surfaces, 1.2 cm long; corolla lobes with fleshy, papillose excrescences on the internal surface. Stamens 5, as long as the corolla, fused to the tube by the filaments over almost their entire length; anthers with 2 narrowly ellipsoid locules, 1 mm long. Ovary glabrous, asymmetric, ovoid, 0.75 mm long; style slender, glabrous, 9–12 mm long, terminating in a small stigma.
 
-Inflorescence en glomérule décussé par rapport à la feuille, multiflore, pédicelle très court et épais. Fleurs ♀ pentamères, jaunâtres. Sépales imbriqués, verdâtres-jaunâtres, libres entre eux, éparsement pubescents ou glabres extérieurement, glabres intérieurement, ciliés sur le bord supérieur, lancéolés, 2,5 × 1 mm; sommet obtus. Pétales blancs, soudés entre eux sur presque toute la longueur, glabres sur les deux faces, longs de 1,2 cm; lobes de la corolle munis d'excroissances charnues et papilleuses à la face interne. Étamines 5 aussi longues que la corolle, soudées au tube de celle-ci par les filets sur presque toute la longueur; anthères à 2 loges étroitement ellipsoïdes, longues de 1 mm. Ovaire glabre, asymétrique, ovoïde, long de 0,75 mm; style grêle, glabre long de 9-12 mm se terminant par un stigmate de petite taille.
-
-Drupe oblongue, aiguë au sommet, verte.
+Drupe oblong, acute at the apex, green.
 
 ## Type
 
@@ -33,9 +31,7 @@ Zenker 1742, Cameroun (holo-, B, deletion.; iso-, P!, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts de type primaire depuis le Cameroun jusqu'au Congo.
+This species is found in primary-type forests from Cameroon to Congo.
 
 ## Specimens examined
 

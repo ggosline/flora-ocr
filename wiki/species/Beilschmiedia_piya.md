@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chevalier. Fl. viv. A.O.F.: 38 (1938). — R. Fouilloy, Adansonia, 4: 330 (1964).
 
-Arbuste ou arbre à écorce brune; jeunes rameaux glabres, jaunes à rouge-violacé. Feuilles coriaces de forme variable : ovales-elliptiques à lancéolées ± longuement acuminées, discolores : vert-brunâtre dessus, brun-rougeâtre dessous. Fleurs
-
-roses à rouge-brun en panicules ramiﬁées finement pubérulentes. Fruit ellipsoïde, aplati, long de 3-4 cm, à cotylédons roses à l'intérieur.
+Shrub or tree with brown bark; young branches glabrous, yellow to red-violet. Leaves coriaceous and of variable shape: oval-elliptic to lanceolate ± elongately acuminate, discolorous: greenish-brown above, reddish-brown below. Flowers pink to reddish-brown in finely puberulent branched panicles. Fruit ellipsoid, flattened, 3-4 cm long, with pink cotyledons inside.
 
 ## Type
 
@@ -34,9 +30,7 @@ Tisserant 2058 (P), 15 km N.O. de Bambari, région de Ouaka, Oubangui (11 octobr
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Avec le type, le Muséum de Paris possède cinq autres échantillons recueillis par le R. P. Tisserant en diverses localités de l'Oubangui, trois échantillons du Cameroun et enfin six échantillons du Congo ex-belge distribués par le Jardin botanique de l'État de Bruxelles sous le nom B. Leemansii (type Leemans 235) provenant des forêts ombrophiles marécageuses et périodiquement inondées du secteur forestier central.
+Along with the type, the Paris Museum possesses five other specimens collected by R. P. Tisserant in various localities of Ubangi, three specimens from Cameroon and finally six specimens from the former Belgian Congo distributed by the Brussels State Botanical Garden under the name B. Leemansii (type Leemans 235) from the swampy and periodically flooded rainforests of the central forest sector.
 
 ## Vernacular names
 

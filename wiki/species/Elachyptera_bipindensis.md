@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - E. bipindensis (LOES.) HALLÊ, Bull. IFAN, sér. A, 21 (3): tab. 22, fig. B (1959), nom.
 
 , nom. nud.; Bot. Jahrb. 34: 103, fig. 1B (1904), descr., ; EXELL & MENDONÇA, CFA 2 (1): 16 (1954).
 
 – Hippocratea rubrocostata PIERRE, nomen in mult. herb.
 
-Liane dépassant 10-30 m de hauteur ; bois non connu. Feuilles opposées, rarement subopposées. Pétiole de 5-9 mm, canaliculé. Limbe chartacé elliptique de (3)5-12 × 2-6,5 cm ; base aiguë ; sommet acuminé sur 7-15 mm ; marges entières ou avec quelques rares denticules peu distincts aux abords du sommet. Nervures secondaires 5-8 paires médiocrement ascendantes.
+Liane exceeding 10–30 m in height; wood not known. Leaves opposite, rarely subopposite. Petiole 5–9 mm, canaliculate. Blade chartaceous elliptic, (3)5–12 × 2–6.5 cm; base acute; apex acuminate for 7–15 mm; margins entire or with a few rare indistinct denticules toward the apex. Secondary veins 5–8 pairs moderately ascending.
 
-Inflorescences multiflores axillaires ou terminales, en cymes ou panicules de cymes, longues de 2-15 cm, parfois interrompues par des feuilles. Axes roux foncé à sec, à 4 arêtes, presque subailés ; bractées de 0,5 mm. Pédicelles de 0,8-1,5 mm. Bouton vert ové, d'environ 1 mm. Fleur très odorante, verte à corolle blanche puis crème devenant jaune, de 3-3,3 mm de diamètre. Sépales ovés courts, larges d'environ 0,5 mm. Pétales oblongs de  $ 1,5 \times 0,8 $ mm, à une nervure axiale, à marge un peu irrégulièrement crénelée. Disque cupuliforme de 0,8 mm de diamètre, à bord fendu sous chaque étamine, et un peu sinueux par suite du contact avec les anthères dans le bouton. Filets étroits profondément insérés, longs de 0,6 mm. Pistil subpyramidal ; style dressé à 3 petits lobes oppositistémones ; ovaire à 3 loges biovulées.
+Inflorescences many-flowered, axillary or terminal, in cymes or panicles of cymes, 2–15 cm long, sometimes interrupted by leaves. Axes dark reddish-brown when dry, 4-angled, almost subwinged; bracts 0.5 mm. Pedicels 0.8–1.5 mm. Bud green, ovoid, approximately 1 mm. Flower very fragrant, green with white corolla then cream becoming yellow, 3–3.3 mm in diameter. Sepals short, ovate, approximately 0.5 mm broad. Petals oblong, $ 1.5 \times 0.8 $ mm, with one axial vein, margin somewhat irregularly crenate. Disk cupuliform, 0.8 mm in diameter, with margin split under each stamen and somewhat sinuous from contact with the anthers in the bud. Filaments narrow, deeply inserted, 0.6 mm long. Pistil subpyramidal; style erect with 3 small lobes opposite the stamens; ovary 3-locular, ovules 2 per locule.
 
-Méricarpes solitaires ou par 2-3, de  $ 4,5-6 \times 3-3,7 \times 0,8 $ cm, ovés. Tégument roux, ruguleux, plutôt mince. Graines de  $ 32-44 \times 20-25 \times 2,3 $ mm, y compris l'aile atrophiée de  $ 5-10 \times 5 $ mm. Cotylédons soudés ou ± nettement adhérents. Tubulures funiculaires épaisses et subcylindriques sur un socle cylindrique ; à la base des valves, des cicatrices hautes de 2-2,5 mm. – Pl. 53, fig. 15-26, p. 185 ; pl. 54, fig. 15-27, p. 187.
+Mericarps solitary or 2–3 together, $ 4.5–6 \times 3–3.7 \times 0.8 $ cm, ovate. Integument reddish-brown, rugose, rather thin. Seeds $ 32–44 \times 20–25 \times 2.3 $ mm, including the atrophied wing $ 5–10 \times 5 $ mm. Cotyledons fused or ± distinctly adherent. Funicular tubules thick and subcylindrical on a cylindrical base; at the base of the valves, scars 2–2.5 mm high. – Pl. 53, fig. 15–26, p. 185; pl. 54, fig. 15–27, p. 187.
 
 ## Type
 
@@ -39,17 +37,15 @@ Welwitsch 1325, Sud de l'Angola (holo-, BM ! ; iso-, BR ! P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Muni, Gabon, Congo (Sita 1526), Cabinda, Zaïre. Riparian liane of the most humid dense forests.
 
-Cameroun, Muni, Gabon, Congo (Sita 1526), Cabinda, Zaïre. Liane ripicole des forêts denses les plus humides.
+This species is very variable, especially in its habit and leaf dimensions; it adapts to extremely diverse ecological conditions, humid or very dry. The distribution range is wide but discontinuous in West Africa.
 
-Cette espèce est très variable, spécialement dans son port, et les dimensions des feuilles ; elle s'adapte à des conditions écologiques extrêmement diverses, humides ou très sèches. L'aire de répartition est vaste mais discontinue en Afrique occidentale.
+Casamance (Berhaut 6284), Mali, São Tomé (De Wilde J.J. 447), Cameroon, Central African Republic (Tisserant 1472), Zaïre, Angola, Ethiopia (Jansen 6369); Uganda, Kenya, Tanzania, Zanzibar (Sacleux 1174), Zimbabwe, Mozambique, Transvaal. A sterile and doubtful specimen was discovered in Mauritania (Monod 16125). To be searched for in Gabon.
 
-Casamance (Berhaut 6284), Mali, San Tomé (De Wilde J.J. 447), Cameroun, Centrafrique (Tisserant 1472), Zaïre, Angola, Éthiopie (Jansen 6369); Ouganda, Kenya, Tanzanie, Zanzibar (Sacleux 1174), Zimbabwe, Mozambique, Transvaal. Un pied stérile et douteux a été découvert en Mauritanie (Monod 16125). A rechercher au Gabon.
+ADDITIONAL MATERIAL (Cameroon):
 
-MATÉRIEL COMPLÉMENTAIRE (Cameroun) :
-
-Breteler 1821, Bertoua, 14 km, route Deng Deng, 650 m, 31.8.1961 (fin de fl.; j.fr.), WAG. Mildbraed 5327, Lomie, 13.30 N, 12.25 E, 22.5.1911 (fl.), HBG.
+Breteler 1821, Bertoua, 14 km, route Deng Deng, 650 m, 31.8.1961 (end of fl.; young fr.), WAG. Mildbraed 5327, Lomie, 13.30 N, 12.25 E, 22.5.1911 (fl.), HBG.
 
 ## Specimens examined
 

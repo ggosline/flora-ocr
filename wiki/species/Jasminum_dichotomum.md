@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Scandent shrubs or lianas; branchlets puberulent with very short, erect hairs. Leaves simple (unifoliolate), ternate (especially on orthotropic axes) or opposite to subopposite; petiole ± cylindric, channelled above, (6–)12–16(–21) mm, articulate at (1–)3–4(–6) mm from the base, puberulent; blade ovate-elliptic, 6–11 × 3–5.5 cm, cuneate to obtuse at the base, acute to slightly acuminate over 0.5–1.5 cm at the apex, with revolute margin, especially in the basal part of the blade, glabrous on both sides but puberulent on the midvein; lateral veins in (3–)5 to 8(–9) pairs, the lower ones strongly ascending and reaching or exceeding halfway along the blade; domatia absent. Inflorescence cymose, multiflorous, puberulent; bracts filiform, 1–6 mm. Flower: pedicel 1–3 mm, puberulent; calyx ± 4 mm long, puberulent, with 5 narrow lobes of (1–)2–2.5 mm long; corolla glabrous, with 6 or 7(–9) lobes, narrowly ovate, (7–)10–12 mm long, white, with tube (15–)18–24 mm long, red; stamens inserted in the upper part of the tube, with filaments < 0.5 mm and apiculate anthers, 4–6 mm long; ovary ± 1 mm long; style as long as the corolla tube or as half the tube (heterostylous flowers), stigma with ± spreading lobes or with joined lobes. Fruit ± spheric to ellipsoid, 10–15 mm in diameter, glabrous, with 1 or 2 seeds. Seed 9 × 6 mm.
 
-Arbustes sarmenteux ou liane ; ramilles pubérulentes à poils très courts, érigés. Feuilles simples (unifoliolées), ternées (surtout sur des axes orthotropes) ou opposées à subopposées ; pétiole ± cylindrique, canaliculé dessus, (6–)12–16(–21) mm , articulé à (1–)3–4(–6) mm de la base, pubérulent ; limbe ovale-elliptique, 6–11 × 3–5,5 cm, cunéé à obtus à la base, aigu à lé gèrement acuminé sur 0,5-1,5 cm au sommet, à bord révoluté, surtout dans la partie basale du limbe, glabre des deux côtés, mais pubérulent sur la médiane ; nervures latérales en (3–)5 à 8(– 9) paires, les inférieures fortement ascendantes et atteignant ou dépassant la moitié du limbe ; domaties absentes . Inflorescence cymeuse, multiflore , pubérulente ; bractées filiformes, 1–6 mm. Fleur : pédicelle 1–3 mm , pubérulent ; calice ± 4 mm de longueur, pubérulente, à 5 lobes étroits de (1–)2–2,5 mm de longueur ; corolle glabre, à 6 ou 7(–9) lobes, étroitement ovés, (7–)10–12 mm de longueur, blanche, à tube de (15–)18–24 mm de longueur, rouge ; étamines insérées dans la partie supérieure du tube, à filets < 0,5 mm et anthères apiculées, de 4-6 mm de longueur ; ovaire ± 1 mm de longueur ; style aussi long que le tube de la corolle ou que la moitié du tube (fleurs hétérostylées), stigmate avec lobes ± étalés ou à lobes joints. Fruit ± sphérique à ellipsoïde, 10–15 mm de diamètre, glabre, à 1 ou 2 graines. Graine 9 × 6 mm.
-
-4 Frans J. BRETELER & Carel C.H. JONGKIND Bouton floral (× 1). – 4. Calice ouvert (× 2). – 5. Corolle ouverte (× 2). – 6. Partie du style et des stigmates (× 2). – 7. Fruits (× 1). (1–7 : Hansford 2325 ). Dessin par Dorothy R. Thompson, Royal Botanic Gardens, Kew (©), reproduit avec permission à partir de Turrill (1952).
+4 Frans J. BRETELER & Carel C.H. JONGKIND Floral bud (× 1). – 4. Open calyx (× 2). – 5. Open corolla (× 2). – 6. Part of the style and stigmas (× 2). – 7. Fruits (× 1). (1–7: Hansford 2325). Drawing by Dorothy R. Thompson, Royal Botanic Gardens, Kew (©), reproduced with permission from Turrill (1952).
 
 Jasminum 5
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal à l’Afrique de l’Est et l’Éthiopie, au sud jusqu’en Angola et en Zambie, au Cameroun, en République démocratique du Congo, en République du Congo et au Gabon, où elle est rapportée de l’Ogooué-Ivindo et du Woleu-Ntem
+from Senegal to East Africa and Ethiopia, southward to Angola and Zambia, in Cameroon, Democratic Republic of the Congo, Republic of the Congo and Gabon, where it is recorded from Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur inselbergs, surtout en savanes et recrus forestiers ; au Gabon jusqu’à 750 m d’altitude, ailleurs jusqu’à 2000 m
+on inselbergs, especially in savannas and forest regrowth; in Gabon up to 750 m elevation, elsewhere up to 2000 m
 
 ## Vernacular names
 

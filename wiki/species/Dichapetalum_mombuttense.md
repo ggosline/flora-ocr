@@ -17,29 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nat. Pflanzen Fam. 3 (4): 348, nomen (1896); Bot. Jahrb. 23: 135 (1896); EXELL & MENDONÇA, CFA 1 (2): 329, « mombuttuense » (1931); HAUMAN, FZRB 7: 326, p.p. quoad specimina zairiana D. thollonii (1958); BRETELER, MLW 73 (13): 4, 23, 30, 33, 36, 44, XVIII (1973); l.c. 81 (10): 32-38 (1981); l.c. 82 (8): 14 (1982); AUWP 86 (3): 2, 10, 16 (1986). TYPE, Zaire, Munsa, « im Lande der Monbuttu », Schweinfurth 3454 (holo-, B delet.; lecto-, K.; isolecto-, WU).
+Nat. Pflanzen Fam. 3 (4): 348, nomen (1896); Bot. Jahrb. 23: 135 (1896); EXELL & MENDONÇA, CFA 1 (2): 329, « mombuttuense » (1931); HAUMAN, FZRB 7: 326, p.p. quoad specimina zairiana D. thollonii (1958); BRETELER, MLW 73 (13): 4, 23, 30, 33, 36, 44, XVIII (1973); l.c. 81 (10): 32–38 (1981); l.c. 82 (8): 14 (1982); AUWP 86 (3): 2, 10, 16 (1986). TYPE, Zaire, Munsa, « im Lande der Monbuttu », Schweinfurth 3454 (holo-, B delet.; lecto-, K.; isolecto-, WU).
 
 – Chailletia mombuttense (ENGL.) A. CHEV., Et. Fl. Afr. Cent. Fr. 1: 116 (1911).
 
 – Dichapetalum adnatiflorum ENGL., Nat. PflanzenFam. 3 (4): 350, f. 188-B, nomen (1896); Bot. Jahrb. 23: 142 (1896). TYPE: Zaïre, Kasai, Jambe, Pogge 691 (holo-, B delet.; lecto-, BM; photo-, WAG).
 
-Liane le plus souvent petite et assez mince, parfois arbuste lianescent ou arbuste. Cylindre ligneux lobé par l'intrusion du phloème, bois jaunâtre. Écorce brun-grisâtre présentant des fissures fines et superficielles. Rameaux âgés brun foncé, glabres, souvent avec de très nombreuses lenticelles leur donnant un aspect pustuleux. Jeunes rameaux avec poils apprimés au début, puis tôt glabrescents.
+Usually a small and rather slender liane, sometimes a lianing shrub or shrub. Wood cylinder lobed by phloem intrusion, yellowish wood. Bark greyish-brown with fine and superficial fissures. Older branches dark brown, glabrous, often with very numerous lenticels giving them a pustulate appearance. Young branches with appressed hairs initially, then early glabrescent.
 
-Stipules petites, très peu visibles, tôt caduques ou non, triangulaires, longues de 1-2 (3) mm, avec poils apprimés courts.
+Stipules small, very inconspicuous, early caducous or not, triangular, 1–2 (3) mm long, with short appressed hairs.
 
-Feuilles. Pétiole sub- à hémicylindrique, sillonné dessus ou non, long de (2) 3-8 (11) mm, mais de 5-13 (18) mm s'il porte une inflorescence ; pubescence éparse, courte et apprimée. Limbe papyracé à coriace, souvent assez raide et cassant avec l'âge, luisant, obové-elliptique, (1,5) 2-3 (3,5) fois plus long que large, (5) 8-18 (23) × 3-7 (10) cm, glabre ou glabrescent ; base arrondie à cunée ; acumen court en général peu marqué, long de 0,5-1,5(2) cm, arrondi à aigu à l'extrémité ; pubescence subapprimée au début, sur les deux faces de la nervure I ensuite tôt glabrescentes ; parfois présence à la face inférieure de domaties pubescentes à l'aisselle des (4) 5-6 (7) principales paires de nervures II ; grande nervation I et II proéminente ou non dessus et très souvent plus proéminente dessous ; marge ordinairement plus pâle brillante et souvent épaissie ; le dessus du limbe montrant souvent près de la base, 1-2 (4) glandes nettes, le dessous étant pourvu de petites glandes assez peu visibles.
+Leaves. Petiole sub- to hemicylindric, furrowed above or not, (2) 3–8 (11) mm long, but 5–13 (18) mm if bearing an inflorescence; sparse, short and appressed pubescence. Blade papyraceous to coriaceous, often quite stiff and brittle with age, shining, obovate-elliptic, (1.5) 2–3 (3.5) times longer than wide, (5) 8–18 (23) × 3–7 (10) cm, glabrous or glabrescent; base rounded to cuneate; acumen generally short and poorly marked, 0.5–1.5 (2) cm long, rounded to acute at the apex; pubescence subappressed initially, on both faces of nerve I then early glabrescent; sometimes presence on the lower face of pubescent domatia at the axil of the (4) 5–6 (7) main pairs of nerves II; major venation I and II prominent or not above and very often more prominent below; margin ordinarily paler and shining and often thickened; the upper surface of the blade often showing near the base 1–2 (4) distinct glands, the lower surface being provided with small glands rather inconspicuous.
 
-Inflorescences, ≤ 40-flores, subombellées, indistinctement ramiﬁées ; pubérulence tomentelleuse dense. Pédoncule totalement soudé au pétiole et légèrement plus court, rarement en partie libre et plus long que le pétiole. Bractées et bractéoles très petites, deltoïdes, longues de ≤ 0,5 mm, glabres à l’intérieur. Pédicelle ≤ 4 mm, partie supérieure ≤ 1 mm.
+Inflorescences, ≤ 40-flowered, subumbellate, indistinctly branched; tomentellose pubescence dense. Peduncle entirely fused to the petiole and slightly shorter, rarely partly free and longer than the petiole. Bracts and bracteoles very small, deltoid, ≤ 0.5 mm long, glabrous within. Pedicel ≤ 4 mm, upper part ≤ 1 mm.
 
-Fleurs. Sépales dressés à un peu étalés, en général courtement réunis par leur base, souvent épais surtout à la base, concaves, ovés-elliptiques à oblongs, (3,5) 4-5 (6,5) × (1) 1,5-2,5 mm, les plus externes en général nettement plus petits que les plus internes, pubérulents-tomentelleux à soyeux-tomenteux sur les deux faces ; sommet obtus à subaigu. Pétales dressés ; base soudée sur ≈ 1 mm avec les filets, cette partie tubulaire étant elle même très souvent soudée au calice ; forme générale, étroite et obovée-oblongue de (4) 5-6 (7) mm et sommet fendu sur 0,5-1,5 mm ; les deux faces tomentelleuses surtout dans la partie moyenne. Étamines dressées, glabres, longues de (4,5) 5-6 (6,5) mm ;
+Flowers. Sepals erect to somewhat spreading, generally shortly united by their base, often thick especially at the base, concave, ovate-elliptic to oblong, (3.5) 4–5 (6.5) × (1) 1.5–2.5 mm, the outermost generally distinctly smaller than the innermost, puberulent-tomentellous to silky-tomentose on both faces; apex obtuse to subacute. Petals erect; base fused over ≈ 1 mm with the filaments, this tubular part itself very often fused to the calyx; general form, narrow and obovate-oblong of (4) 5–6 (7) mm and apex cleft for 0.5–1.5 mm; both faces tomentellose especially in the median part. Stamens erect, glabrous, (4.5) 5–6 (6.5) mm long; anthers 0.7–1 mm, connective very prominent, rarely with a few hairs. Staminodes subquadrate, flattened, ≈ 0.5 × 0.5 mm, usually glabrous; apex obtuse to vaguely bilobed. Pistil 3-merous, (4) 5.5–7 (8.5) mm long; ovary and lower part of style covered with short but dense woolly hairs, upper part of style glabrous, terminated by 3 lobes.
 
-anthères 0,7-1 mm, connectif très proéminent, rarement avec quelques poils. Staminodes subcarrés, aplatis,  $ \approx 0,5 \times 0,5 $ mm, le plus souvent glabres ; sommet obtus à vaguement bilobé. Pistil 3-mère, long de (4) 5,5-7 (8,5) mm ; ovaire et partie inférieure du style couverts de poils laineux courts mais denses, partie supérieure du style glabre, terminée par 3 lobes.
+Fruits 1–2 (3)-seeded usually 1-seeded, provided with a distinct beak, ≤ 2 cm long, erect, scarcely curved or recurved; surface orange at maturity, glabrous or nearly so (remains of ovary hairs may persist on the beak), lenticellate, rather dull; presence of aborted locules marked by a well-visible rib; the 1-seeded fruits subellipsoid, 2.5–4.5 (beak included) × 1–1.5 cm; exocarp firm, ≈ 1 mm thick; mesocarp succulent, ≤ 1.5 mm thick; endocarp bony, glabrous, shining within. Seed ellipsoid ≤ 18 × 10 mm, testa brown.
 
-Fruits 1-2 (3)-spermes le plus souvent 1-spermes, munis d'un bec distinct, long de ≤ 2 cm, dressé, à peine courbé ou récurvé ; surface orange à maturité, glabre ou presque (des restes de poils de l'ovaire peuvent subsister sur le bec), lenticellée, assez terne ; présence des loges avortées marquée par une côte bien visible ; les fruits 1-spermes subellipsoidaux, 2,5-4,5 (bec inclus) × 1-1,5 cm ; exocarpe ferme, épais de ≈ 1 mm ; mésocarpe succulent, épais de ≤ 1,5 mm ; endocarpe osseux, glabre, brillant à l'intérieur. Graine ellipsoidale ≤ 18 × 10 mm, testa brun.
-
-Plantule (Pl. 2, p. 22): forte racine pivotante; épicotyle long de 6-11 cm, brunâtre avec poils apprimés courts; première paire de feuilles opposées, elliptiques, légèrement plus courtes que les suivantes. - Pl. 37, p. 133; Phot. B, p. 2.
+Seedling (Pl. 2, p. 22): strong taproot; epicotyl 6–11 cm long, brownish with short appressed hairs; first pair of leaves opposite, elliptic, slightly shorter than the following ones. - Pl. 37, p. 133; Phot. B, p. 2.
 
 ## Type
 
@@ -47,25 +43,19 @@ Schweinfurth 3454, Munsa, Zaïre
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species has sometimes been confused with D. thollonii Pellegrin, notably by HAUMAN for Zaire: he identified the few specimens of D. thollonii from that country as belonging to D. mombuttense, which is why D. thollonii does not appear in the Flora of Zaire. The two species have their peduncle fused to the petiole and their leaves are fairly similar in many respects. D. thollonii has, however, hollow young branches, glands generally of large size on the lower face of the leaves and pubescent fruits lacking lenticels.
 
-Cette espèce a parfois été confondue avec D. thollonii Pellegrin, notamment par HAUMAN pour le Zaïre : il a identifié les quelques spécimens de D. thollonii de ce pays comme appartenant à D. mombuttense, c'est pourquoi D. thollonii ne figure pas dans la Flore du Zaïre. Les deux espèces ont leur pédoncule soudé au pétiole et leurs feuilles sont assez semblables en bien des points. D. thollonii a cependant des jeunes rameaux creux, des glandes en général de grande taille à la face inférieure des feuilles et des fruits pubescents dépourvus de lenticelles.
+The flowers of D. mombuttense produce nectar; this was observed by J. LOUIS on material from Zaire (J. Louis 1535: "presence of abundant nectar"). A specimen obtained from a seed from Zaire (Bokdam 3097), which flowered at the Wageningen Conservatory, confirmed this fact: the open flowers were partly filled with nectar; after flowering, the sepals close again and part of this nectar is then expelled, forming a drop at the apex of the flower.
 
-Les fleurs de D. mombuttense produisent du nectar ; ceci a été observé par J. LOUIS sur un matériel du Zaïre (J. Louis 1535 : « pré-sence de nectar abondant »). Un spécimen obtenu à partir d'une graine provenant du Zaïre (Bokdam 3097), qui a fleuri au Conservatoire de Wageningen, a confirmé ce fait : les fleurs ouvertes étaient en partie remplies de nectar ; après la floraison, les sépales se referment et une partie de ce nectar est alors expulsée, formant une goutte au sommet de la fleur.
-
-Des notes de terrain relatives à divers pays rapportent que les fruits de D. mombuttense sont mangés par les chimpanzés et les antilopes.
+Field notes from various countries report that the fruits of D. mombuttense are eaten by chimpanzees and antelopes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique centrale
+Central Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+Evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

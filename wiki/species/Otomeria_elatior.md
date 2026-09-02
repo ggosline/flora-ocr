@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stiff herb erect, 7–12 dm tall; stem pubescent to villous, simple or very sparsely branched. Stipules pubescent with 1–3 teeth ± tapered or laminate, 2–4 mm long. Petiole 0–1 mm. Leaf pubescent in a ± scattered manner. Blade variable, elliptic in some lower leaves, ordinarily ovate, attenuate at the apex, subacute at the extremity, 3–8 × 0.7–2.5 cm, with rounded base. 4–6 pairs of secondary veins stretched toward the apex.
 
-Herbe raide dressée, haute de 7-12 dm; tige pubescente à velue, simple ou très peu ramifiée. Stipules pubescentes à 1-3 dents ± effilées ou laminées, longues de 2-4 mm. Pétiole 0-1 mm. Feuille pubescente de façon ± clairsemée. Limbe variable, elliptique dans certaines feuilles inférieures, ordinairement ovo longuement atténué, subaigu à l'extrémité, de 3-8 × 0,7-2,5 cm, à base arondie. 4-6 paires de nervures secondaires étirées, vers le sommet.
+Inflorescences erect, in terminal or axillary position, long-pedunculate after accrescence of the rachis and bearing an isolated basal flower. Flowers sessile generally in pairs. Calyx finely pubescent with 5 triangular very unequal lobes; one or two of the longest reaching 5–12 mm. Corolla vermilion red, carmine pink or pale pink, ± pubescent, with narrow tube 17–25 mm long, inflated at the throat and pubescent around the anthers. 5 ovate lobes with apiculate apex, sometimes exceeding 10 × 5 mm. Anthers 2.2 mm. Style exsert exceeding the throat by 2–4 mm. Stigma erect with two small lobes.
 
-Inflorescences dressées, en position terminale ou axillaire, longuement pédonculées après accrescence du rachis et munies d'une fleur basilaire isolée. Fleurs sessiles généralement jumelées. Calice finement pubescent à 5 lobes triangulaires très inégaux; un ou deux des plus longs atteignent 5-12 mm. Corolle rouge vermillon, rose carminé ou rose pâle, ± pubescente, à tube étroit long de 17-25 mm, renflé à la gorge et pubescent autour des anthères. 5 lobes ovales à sommet apiculé, dépassant parfois 10 × 5 mm. Anthères de 2,2 mm. Style exsert dépassant la gorge de 2-4 mm. Stigmate dressé à deux petits lobes.
-
-Infrutescence d'env. 20-30 cm. Fruit obconique de 7-10 mm de long à bec apical déhiscent, à lobes calycinaux ± arqués, à fentes de déhiscence latérales en boutonnières. Graines rous-sâtres anguleuses de 0,7 mm.
+Infructescence ca. 20–30 cm. Fruit obconical 7–10 mm long with apical dehiscent beak, with ± arched calycine lobes, with lateral buttonhole-like dehiscence slits. Seeds reddish-brown angular 0.7 mm.
 
 ## Type
 
@@ -36,9 +34,7 @@ Angola (P!), sans nom de récolteur
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-De Guinée occidentale jusqu'en Angola, et du Soudan jusqu'en Ouganda et Rhodésie. Plante de lumière, des prairies humides, marécages et savanes inondables.
+From West Guinea to Angola, and from Sudan to Uganda and Rhodesia. Plant of light, from humid grasslands, marshes and inundable savannas.
 
 ## Specimens examined
 

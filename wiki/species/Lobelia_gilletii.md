@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 10 (E-G) Ann. Mus. Congo , sér. 5, 1 : 85 (1904). Pratia gilletii (De Wild.) E.Wimm., Pflanzenr. 106 (IV,276a) : 115 (1943). Herbe prostrée, tapissante ; tiges s’enracinant aux nœuds, glabres ou presque glabres. Feuille : pétiole de 2–7 mm, glabre ; limbe triangulaire-ovale, 5–10 × 5–10 mm, base tronquée à subcordée, sommet arrondi à subaigu, marge dentée ou crénelée , face supérieure éparsement pubescente. Fleur solitaire, axillaire ; pédicelle 5–12(–17) mm, glabre, papilleux ou éparsement pubescent ; bractéoles insérées à la base du pédicelle, minuscules ; hypanthium obconique, glabre ou papilleux ; calice à lobes de 1–2 mm de longueur, avec 1–2 paires de dents marginales minuscules ; corolle 7–10 mm de longueur, blanche ou à lobes inférieurs rose pâle à violets, fendus sur le dos jusqu’à environ 1 mm de la base, glabre à l’extérieur ; étamines environ 6 mm de longueur, anthères à tube d’environ 1,2 mm de longueur, pubescentes dorsalement près du sommet, les deux inférieures, chacune avec une touffe de poils et un appendice hyalin au sommet ; ovaire infère. Fruit obovoïde, 3–5 mm de long, indéhiscent . Graine elliptique-oblongue, environ 0,6 mm de longueur, finement striée, marron pâle.
+Plate 10 (E-G) Ann. Mus. Congo, sér. 5, 1: 85 (1904). Pratia gilletii (De Wild.) E.Wimm., Pflanzenr. 106 (IV,276a): 115 (1943). Prostrate, carpet-forming herb; stems rooting at the nodes, glabrous or nearly glabrous. Leaf: petiole 2–7 mm, glabrous; blade triangular-ovate, 5–10 × 5–10 mm, base truncate to subcordate, apex rounded to subacute, margin dentate or crenate, upper surface sparsely pubescent. Flower solitary, axillary; pedicel 5–12(–17) mm, glabrous, papillose or sparsely pubescent; bracteoles inserted at the base of the pedicel, minute; hypanthium obconical, glabrous or papillose; calyx with lobes 1–2 mm long, with 1–2 pairs of minute marginal teeth; corolla 7–10 mm long, white or with lower lobes pale pink to violet, split on the back to approximately 1 mm from the base, glabrous outside; stamens approximately 6 mm long, anthers with tube approximately 1.2 mm long, pubescent dorsally near the apex, the two lower ones, each with a tuft of hairs and a hyaline appendage at the apex; ovary inferior. Fruit obovoid, 3–5 mm long, indehiscent. Seed elliptic-oblong, approximately 0.6 mm long, finely striate, pale brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-République Démocratique du Congo et au Gabon dans la province de l’Ogooué-Maritime
+Democratic Republic of the Congo and Gabon in the Ogooué-Maritime province
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+humid forest; at 100–300 m altitude. Taxonomic note: In the Check-list of the Vascular Plants of Gabon (Sosef et al. 2006) this species had been misidentified as L. minutula Engl. B: Thulin (1985). Bibliography
 
-forêt humide ; à 100–300 m d’altitude. Note taxonomique : Dans la Check-list des Plantes Vasculaires du Gabon (Sosef et al. 2006) cette espèce avait été mal identifiée comme L. minutula Engl. B : Thulin (1985). i B liographie
-
-.203-3+20,3 1+13 7 95 5
+.203-3+20.3 1+13 7 95 5
 
 ## Notes
 

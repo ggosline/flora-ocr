@@ -17,45 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum fuscum Lindl. var. melinostachyum (Schltr.) J. J. Verm., Bull. Jard. Bot. Nat. Belg. 56 : 240 (1986).
 
 – Bulbophyllum obanense Rendle, Cat. Talbot S. Nig. Pl. : 101, 146 (1913).
 
-Pseudobulbes 1-5 × 0,4-1,4 cm, ovoïdes à ellipsoïdaux, 2-foliés. Feuilles subsessiles à courtement pétiolées 1,8-11 × 0,4-2,2 cm, linéaires-lancéolées à elliptiques-lancéolées, obtuses. Inflorescence lâche, 4,5-23 cm, 6-34 (64)-flore, rachis courtement renflé et aplat, glabre. Fleurs petites. Sépales jaunes, verdâtes à rouges ou brun-rouge-âtre, aigus à acuminés, minces à épais, glabres ; sépale dorsal ové à
-
-ORCHIDACEAE
-
-PL. 87. – Bulbophyllum falcipetalum Lindl.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, gynostème ; G, anthère ; H, pollinies (A-H, ex VERMEULEN, 1987).
-
-PL. 89. – Bulbophyllum melinostachyum Schltr.: A, vue générale ; B, partie de l'inflorescence ; C, pièces florales ; D, labelle ; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
-
-ové-lancéolé ; sépales latéraux obliquement elliptiques-triangulaires ou ovés-triangulaires. Pétales jaunes à rouge foncé, lancéolés à linéaires-lancéolés, subaigus, droits, minces, glabres. Labelle jaune, orange ou rouge foncé, oblong à elliptique, sommet arrondi, très épais, glabre. - Pl. 89, p. 179.
+Pseudobulbs 1–5 × 0.4–1.4 cm, ovoid to ellipsoid, 2-leaved. Leaves subsessile to shortly petiolate 1.8–11 × 0.4–2.2 cm, linear-lanceolate to elliptic-lanceolate, obtuse. Inflorescence lax, 4.5–23 cm, 6–34 (64)-flowered, rachis shortly swollen and flattened, glabrous. Flowers small. Sepals yellow, greenish to red or brownish-red, acute to acuminate, thin to thick, glabrous; dorsal sepal ovate to ovate-lanceolate; lateral sepals obliquely elliptic-triangular or ovate-triangular. Petals yellow to dark red, lanceolate to linear-lanceolate, subacute, straight, thin, glabrous. Lip yellow, orange or dark red, oblong to elliptic, apex rounded, very thick, glabrous. – Pl. 89, p. 179.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Côte d'Ivoire, Nigeria, Cameroun, Guinée équatoriale, Gabon, Congo (Kinshasa), Ouganda, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique
+Sierra Leone, Ivory Coast, Nigeria, Cameroon, Equatorial Guinea, Gabon, Congo (Kinshasa), Uganda, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–2100 m. Epiphyte in lowland and montane forest, secondary forest with Lophira alata, Brachystegia woodland, on branch and trunk, or lithophyte on rock covered with lichens or mosses
 
-alt. 0-2100 m. Épiphyte en forêt planitaire et montagnarde, forêt secondaire à Lophira alata, boisement à Brachystegia, sur branche et tronc, ou lithophyte sur roche couverte de lichens ou de mousses
+MATERIAL STUDIED (Map 33):
 
-MATÉRIEL ÉTUDIÉ (Carte 33) :
+de Wilde 545, Bélinga, Mine de Fer, "Le Belvédère", 0° 33' N, 11° 42' E (fl., Sept.), WAG!; s.n., Monts de Cristal, Exploitation Leroy, 20 km NW of Asok, 0°53' N, 10°12' E, cult. WAG (83-334), not seen.
 
-de Wilde 545, Bélinga, Mine de Fer, „Le Belvédère”, 0° 33' N, 11° 42' E (fl., Sept.), WAG! ; s.n., Monts de Cristal, Exploitation Leroy, 20 km NO d'Asok, 0°53' N, 10°12' E, cult. WAG (83-334), non vidi.
+Hallé 1686, C.E.F.A. Ayem, 10 km SW of Ndjolé (fl., Apr.), P!; 3078 – Bélinga (fl., Oct. & Nov.), P!.
 
-Hallé 1686, C.E.F.A. Ayem, 10 km SO de Ndjolé (fl., Avr.), P! ; 3078 – Bélinga (fl., Oct. & Nov.), P!.
+Hallé & Villiers 5394, Monts de Cristal, Kinguélé Falls (fl., Feb.), P!; 5423, id., Balakabo River (fl., Feb.), P!.
 
-Hallé & Villiers 5394, Monts de Cristal, Chutes de Kinguélé (fl., Fév.), P! ; 5423, id., riv. Balakabo (fl., Fév.), P!.
+Le Testu 5457, Divégni Post (fl., May), P!.
 
-Le Testu 5457, Poste de Divégni (fl., Mai), P!.
-
-Louis s.n., env. de Mimongo, cult. WAG (83-633), non vidi.
+Louis s.n., vicinity of Mimongo, cult. WAG (83-633), not seen.
 
 ## Figures
 

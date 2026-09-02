@@ -17,31 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nat. PflanzenFam. 3 (4): 349 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 584 (1913); Fl. Mayombé 1, Mém. Soc. Linn. Norm. 26 (2): 59 (1924); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 324 (1928); KEAY, FWTA, ed. 2, 1 (2): 437 (1958); BRETLER, MLW 73 (13): 12, 13, 27, 33, 37, XIX (1973); l.c. 79 (16): 51 (1979); l.c. 81 (10): 56–61 (1981); AUWP 86 (3): 2, 10 (1986).
 
-Nat. PflanzenFam. 3 (4): 349 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 584 (1913); Fl. Mayombé 1, Mém. Soc. Linn. Norm. 26 (2): 59 (1924); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 324 (1928); KEAY, FWTA, ed. 2, 1 (2): 437 (1958); BRETLER, MLW 73 13): 12, 13, 27, 33, 37, XIX (1973); l.c. 79 (16): 51 (1979); l.c. 81 (10): 56-61 (1981); AUWP 86 (3): 2, 10 (1986).
+– Chailletia oblonga Hook. F. ex Benth., Hook. Nig. Fl.: 277 (1849); Oliver, FTA 1: 342 (1868). TYPE: Equatorial Guinea, Fernando Po, Vogel 36b, in Herbarium Hookerianum (lecto-, K).
 
-– Chailletia oblonga Hook. F. ex Benth., Hook. Nig. Fl.: 277 (1849); Oliver, FTA 1: 342 (1868). TYPE : Guinée Équatoriale, Fernando Po, Vogel 36b, in Herbarium Hookerianum (lecto-, K).
+– Dichapetalum kamerunense Engl., Nat. Pflanzen Fam. 3 (4): 350, nomen (1896); HAUMAN, FZRB 7: 297, D. "kanseremense" = sphalm. (1958); BRETELER, MLW 73 (13): 37, XIX, syn. of D. oblongum (1973). TYPE: Cameroon, s.l., Dusen 46 (holo-, B delet.; lecto-, BR).
 
-– Dichapetalum kamerunense Engl., Nat. Pflanzen Fam. 3 (4): 350, nomen (1896); HAUMAN, FZRB 7: 297, D. «kanseremense» = sphalgm. (1958); BRETELER, MLW 73 (13): 37, XIX, syn. de D. oblongum (1973). TYPE: Cameroun, s.l., Dusen 46 (holo-, B delet.; lecto-, BR).
+Liane, lianescent shrub, shrub or small tree up to ≤ 5 m tall and trunk diameter of 4 cm. Bark of main stems and older branches pale greyish-brown in general with well-visible lenticels, those on orthotropic axes most often arranged in 5 rows; wood dense pale yellow. Young branches pubescent-tomentellous, soon becoming glabrous; on certain specimens from the western part of the range, this pubescence is mixed with long hispid hairs; the same indumentum is present on the stipules, petioles and inflorescences.
 
-Liane, arbuste lianescent, arbuste ou petit arbre haut de ≤ 5 m et diamètre du tronc de 4 cm. Écorce des tiges principales et des rameaux âgés grisâtre-brun pâle en général avec des lenticelles bien visibles, celles des axes orthotropes étant le plus souvent disposées sur 5 rangs; bois dense jaune pâle. Jeunes rameaux pubérulents-tomentelleux, devenant vite glabres; sur certains spécimens de la partie occidentale de l'aire, cette pubescence est mêlée à de long poils hispides; le même indumentum existe sur les stipules, les pétioles et les inflorescences.
+Stipules small, early caducous, narrow and triangular, 1–2 (3) mm long.
 
-Stipules petites, tôt caduques, étroites et triangulaires, longues de 1-2 (3) mm.
+Leaves. Petiole 2–7 mm, sub- to hemicylindric. Blade often shiny above, always dull beneath, elliptic to oblong-obovate, (1.5) 2–3 (3.5) times longer than wide, (5) 6–11 (18) × (2) 3–5 (8) cm; base rounded-cuneate; obtuse to subacute acumen 0.5–2 cm; short subappressed hairs scattered (sometimes long hispid hairs) on both sides of vein I and the 5–7 (8) pairs of main veins II; blade subsequently becoming glabrous; major venation (I and II) plane or slightly prominent above and often more so beneath; glands generally present and only beneath, small, rather inconspicuous, often more numerous near the base.
 
-Feuilles. Pétiole de 2-7 mm, sub- à hémicylindrique. Limbe souvent brillant dessus, toujours terne dessous, elliptique à oblong-obové, (1,5) 2-3 (3,5) fois plus long que large, (5) 6-11 (18) × (2) 3-5 (8) cm; base arrondie-cunée; acumen obtus à subaigu de 0,5-2 cm; poils courts subapprimés épars (parfois poils longs et hispides) sur les deux faces de la nervure I et des 5-7 (8) paires principales de nervures II ; limbe devenant ensuite glabre ; grande nervation (I et II) plane ou légèrement proéminente dessus et souvent davantage dessous ; glandes en général présentes et seulement dessous, petites, assez peu visibles, souvent plus nombreuses près de la base.
+Inflorescences in clearly pedunculate, pauci- to multi-flowered cymes, ≤ 4 well-visible orders of branching, isolated or grouped on axillary aphyllous shoots or on the leafless terminal part of certain shoots. Peduncle 2–10 (13) mm. Bracts and bracteoles very small, ovate triangular, ≤ 1 mm long. Pedicel ≤ 4.5 mm, pubescent-tomentellous, upper part often visible, 0.3–1 mm long.
 
-Inflorescences en cymes nettement pédonculées, pauci- à multi-flores, ≤ 4 ordres bien visibles de ramifications, isolées ou groupées sur des pousses axillaires aphylles ou sur la partie terminale sans feuilles de certaines pousses. Pédonculée de 2-10 (13) mm. Bractées et bractéoles très petites, ovées triangulaires, longues de ≤ 1 mm. Pédicelle ≤ 4,5 mm, pubérulent-tomentelleux, partie supérieure souvent visible, longue de 0,3-1 mm.
+Flowers. Sepals erect, equal or the 2 outer ones clearly shorter, ovate-elliptic to oblong, 2.5–4.5 × 1–2 mm; outer side pubescent-tomentose; inner side glabrous to furnished with scattered pubescence at the apical part. Petals erect, clearly fused by their base to the filaments in a tube 0.5–2 mm long, of overall oblong to narrow obovate shape, 4–6 mm long, split for 1–2 mm; interior pubescent below the slit; exterior glabrous or with a few hairs above the slit; lobes concave rounded at the apex. Stamens 4–6 mm long, ± equal to the petals, pubescent inside as on the outside or sometimes glabrous; anthers oblong 0.5–0.7 mm, connective not prominent. Staminodes subsquare, sometimes oblong or transversely oblong, ≤ 0.5 × 0.5 mm, often forming a lobulate ring, generally glabrous. Pistil ordinarily 2-merous, rarely 3-merous, most often clearly exceeding the petals and stamens, 5–7.5 mm long; ovary woolly like the lower part of the style, upper part of the latter glabrous and terminated by 2 (3) short lobes.
 
-Fleurs. Sépales dressés égaux ou les 2 plus externes nettement plus courts, ovés-elliptiques à oblongs, 2,5-4,5 × 1-2 mm ; côté externe pubé-
+Fruits obovoid-ellipsoid, 1–2-seeded, yellow to orange at maturity; aborted locule(s) marked by a swollen rib; fruit base stipitate or not for a length ≤ 1 cm; apex obtuse; covering very short, dense and velvety, finely scabrous, strongly wrinkled when dry; the 1-seeded fruits 2.5–4.5 × 1.5–2 cm; exocarp firm, ≤ 2 mm thick; mesocarp fibrous-farinose, 1–3 mm thick, adherent to the endocarp, which is bony, shiny and glabrous within. Seeds relatively small ≤ 22 × 8 mm; testa shiny, glabrous, dark brown to black.
 
-rulent-tomenteux ; intérieur, de glabre à pourvu d'une pubérulence éparse à la partie apicale. Pétales dressés, nettement soudés par leur base aux filets en un tube long de 0,5-2 mm, de forme générale oblongue à étroite et obovée, longs de 4-6 mm, fendus sur 1-2 mm ; intérieur pubescent au-dessous de la fente ; extérieur glabre ou avec quelques poils au-dessus de la fente ; lobes concaves arrondis au sommet. Éta-mines longues de 4-6 mm, ± égales aux pétales, pubescentes à l'intérieur comme l'extérieur ou parfois glabres ; anthères oblongues de 0,5-0,7 mm, connectif non proéminent. Staminodes subcarrés, parfois oblongs ou transoblongs, ≤ 0,5 × 0,5 mm, formant souvent un anneau lobulé, en général glabre. Pistil ordinairement 2- rarement 3-mère, dépassant le plus souvent nettement les pétales et les étamines, long de 5-7,5 mm ; ovaire laineux comme la partie inférieure du style, partie supérieure de celui-ci glabre et terminée par 2 (3) lobes courts.
+Seedling: strong taproot; epicotyl ≤ 7 cm long, pubescent-tomentellous; the first leaves alternate, clearly smaller than the following ones, but in general of similar shape to that of the adult plant. – Pl. 41, p. 145.
 
-Fruits obovoides-ellipsoidaux, 1-2-spermes, jaunes à oranges à maturité ; loge(s) avortée(s) marquée(s) par une côte renflée ; base du fruit stipitée ou non sur une longueur ≤ 1 cm ; sommet obtus ; revêtement très court, dense et velouté, finement scabre, fortement plissé sur le sec ; les fruits 1-spermes 2,5-4,5 × 1,5-2 cm ; exocarpe ferme, épais de ≤ 2 mm ; mésocarpe fibreux-farineux, épais de 1-3 mm, adhérent à l'endocarpe, qui est osseux, brillant et glabre à l'intérieur. Graines relativament petites ≤ 22 × 8 mm ; testa brillant, glabre, brun foncé à noir.
-
-Plantule : forte racine pivotante ; épicotyle long de ≤ 7 cm, pubé-rulent-tomentelleux ; les premières feuilles alternes, nettement plus petites que les suivantes, mais en général de forme semblable à celle de la plante adulte. - Pl. 41, p. 145.
-
-Les fleurs de cette espèce produisent du nectar, à en juger par la plante cultivée au Conservatoire de Wageningen mais elles ne dégagent aucune odeur particulière.
+The flowers of this species produce nectar, as judged by the plant cultivated at the Wageningen Conservatory, but they emit no particular odor.
 
 ## Type
 
@@ -49,15 +45,11 @@ Vogel 36b, Fernando Po, Guinée Équatoriale
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Libéria, Côte d'Ivoire, Ghana, Nigéria, Cameroun, Guinée Equatoriale, Gabon
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+Evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

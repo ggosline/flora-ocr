@@ -24,13 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kew Bull.: 168 (1952).
 
-Herbe en touffe, à tige ramifiée, pétiole des feuilles de longueur très variable, callus de 2-4 cm de long. Limbe elliptique, assymétrique, acuminé, progressivement atténué à arrondi à la base, rouge violacé à la face inférieure, de taille variable jusqu'à environ  $ 40 \times 20 $ cm.
+Herb in tufts, with branched stems, petiole of leaves very variable in length, callus 2-4 cm long. Blade elliptic, asymmetric, acuminate, gradually attenuated to rounded at the base, red-violet on the lower surface, variable in size up to approximately $ 40 \times 20 $ cm.
 
-Inflorescences latérales à axe court, entre-nœuds d'environ 1 mm de long. Bractées axillant les faucilles de cymes d'environ 2,5 cm de long, largement elliptiques, teintées de rouge violacé. Pédoncule commun des cymes d'environ 1 mm, pédicelles égaux, de 2 mm de long. Fleurs blanches à roses, sépales de 12-15 mm de long, corolle d'environ 20 mm. Ovaire densément et longuement pubescent. Fruit ellipsoïde de ± 10 mm de long et 6-7 mm de diamètre, pubescent vers le sommet et à périanthe persistant. Graines brunes à arille blanc, divisé en 2 pointes aiguës presque aussi longues que la graine.
+Inflorescences lateral with short axis, internodes approximately 1 mm long. Bracts subtending the sickle-shaped cyme bundles approximately 2.5 cm long, broadly elliptic, tinged with red-violet. Common peduncle of the cymes approximately 1 mm, pedicels equal, 2 mm long. Flowers white to pink, sepals 12-15 mm long, corolla approximately 20 mm. Ovary densely and longly pubescent. Fruit ellipsoid ± 10 mm long and 6-7 mm in diameter, pubescent toward the apex and with persistent perianth. Seeds brown with white aril, divided into 2 acute points almost as long as the seed.
 
 ## Type
 
@@ -38,11 +36,9 @@ Mann 2444, Cameroun (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species of humid understory, known from Ghana to Uganda, ex-Belgian Congo, and Angola.
 
-Espèce de sous-bois humide, connue du Ghana à l'Ouganda du Congo ex-belge et de l'Angola.
-
-D'après Walker et Sillans, cette plante est utilisée dans des pratiques magiques tendant à provoquer des querelles dans les familles et les villages.
+According to Walker and Sillans, this plant is used in magical practices intended to provoke quarrels in families and villages.
 
 ## Vernacular names
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree capable of reaching 20 m in height and 30 cm in diameter. Leaves alternate, penninerved; stipules intrapetiolary, connate, triangular, acute, with membranous margins, approximately 1 mm long; petiole 3–7 mm. Blade papyraceous, obovate, rarely elliptic, cuneate at base, rounded or slightly emarginate at apex, 3–8.5 × 1.5–3 cm. Venation fine, visible only on the lower surface along with a pair of "false veins" parallel to the main vein.
 
-Arbre pouvant atteindre 20 m de hauteur et 30 cm de diamètre. Feuilles alternes, penninerves; stipules intrapétiolaires, soudées, triangulaires, aiguës, à bords membraneux, longues d'environ 1 mm; pétiole de 3-7 mm. Limbe papyracé, obové, rarement elliptique, cunée à la base, arrondi ou peu émarginié au sommet, 3-8,5 × 1,5-3 cm. Nervation fine, seulement apparente
+Flowers in fascicles of 5–8. Pedicel slender, 4–6 mm. Sepals valvate, triangular, connate at base, obtuse at apex, 1–2 × 1 mm. Petals very shortly unguiculate at base, rounded at apex, nectariferous appendages inserted at base. Stamens subequal 3–5 mm, filaments connate at base forming a tube 1.5–2 mm in height, long persistent; anthers 0.5–0.75 mm, ellipsoid, basifixed, dehiscing by 2 longitudinal slits. Ovary 1.5 mm long, obovoid, most often with a single fertile locule, with a single pendulous ovule; styles 3, connate for 2/3, 3–4 mm in longistyled flowers, stigmas 3.
 
-à la face inférieure ainsi qu’une paire de « fausses nervures » parallèles à la nervure principale.
-
-Fleurs par 5-8 en fascicules. Pédicelle grêle, de 4-6 mm. Sépales valvaires, triangulaires, soudés à la base, obtus au sommet, de 1-2 × 1 mm. Pétales très courtemment onguiculés à la base, arrondis au sommet, appendices nectarifères insérés à la base. Étamines subégales de 3-5 mm, à filets soudés à la base formant un tube de 1,5-2 mm de hauteur, longtemps persistants; anthères de 0,5-0,75 mm, ellipsoïdes, basifixes, déhiscentes par 2 fentes longitudinales. Ovaire long de 1,5 mm, obovoïde, le plus souvent à une seule loge fertile, à un seul ovule pendant; styles 3, soudés sur les 2/3, de 3-4 mm dans les fleurs longistyles, stigmates 3.
-
-Drupe longue d'environ 1 cm. PL. 12, 10-16, p. 51.
+Drupe approximately 1 cm long. PL. 12, 10–16, p. 51.
 
 ## Type
 
@@ -33,9 +29,7 @@ Mann 850, Sierra Leone (holo-, K; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides ou semi-décidues. De la Guinée au Zaïre.
+Dense humid or semi-deciduous forests. From Guinea to Zaïre.
 
 ## Specimens examined
 

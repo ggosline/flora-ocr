@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, 35 km, NW of Doussala (fl.) de Wilde & Jongkind 9600 (holo-WAG, (wood, alc.); iso-BM, BR, K, LBV, M, MO, P).
 
-TYPE : Gabon, 35 km, NO de Doussala (fl.) de Wilde & Jongkind 9600 (holo-WAG, (bois, alc.); iso-BM, BR, K, LBV, M, MO, P).
+Large woody liane. Young branches, bark detaching in long fibrous strips.
 
-Grande liane ligneuse. Jeunes rameaux, écorce se détachant en longues lanières fibreuses.
+Leaves opposite; petiole ≤ 1 cm, pubescent; blade obovate, coriaceous, ≤ 16 × ≤ 8.5 cm; young leaves covered with villous indumentum on both faces; older leaves nearly glabrous above except on the main veins; major lateral veins 7–11 pairs; these and the midvein slightly depressed above, venation III subparallel; base of blade strongly cordate; apex rounded to acute and sometimes apiculate.
 
-Feuilles opposées ; pétiole ≤ 1 cm, pubescent ; limbe obové coriace de ≤ 16 × ≤ 8,5 cm ; jeunes feuilles couvertes d'un indument velu sur les deux faces ; feuilles âgées presque glabres dessus sauf sur les plus fortes nervures ; grandes nervures latérales 7-11 paires ; celles-ci et la médiane, légèrement déprimées dessus, nervation III subparallèle ; base du limbe fortement cordée ; sommet arrondi à aigu et parfois apiculé.
+Scales circular to subangular, diameter 75–100 µm, showing 8–12 thin-walled cells.
 
-Écailles circulaires à subanguleuses, diamètre 75-100 µm, montrant 8-12 cellules à paroi mince.
+Inflorescences spicate, often axillary to a reduced leaf; rachis ≤ 7 cm, brownish, pubescent; young inflorescences: pubescence brown with silvery reflections; bracts scarcely visible.
 
-Inflorescences en épi, souvent axillé par une feuille réduite ; rachis ≤ 7 cm, brunâtre, pubescent ; jeunes inflorescences : pubescence brune aux reflets argentés ; bractées très peu visibles.
+Flowers 4-merous, sessile, protogynous, fragrant. Receptacle greenish, covered with grey to brown hairs: the lower one height 1 mm, the upper one height 4–6 mm, width 2 mm, funnel-shaped, interior pubescent. Calyx: lobes scarcely visible. Petals glabrous, spathulate, length 0–1 mm. Stamens yellow, exsert 4 mm, anthers 0.5 mm long. Style exsert 3 mm.
 
-Fleurs 4-mères, sessiles, protogynes, odorantes. Réceptacle verdâtre, couvert de poils gris à bruns : l'inférieur hauteur 1 mm, le supérieur hauteur 4-6 mm, largeur 2 mm, infundibuliforme, intérieur pubescent. Calice : lobes peu visibles. Pétales glabres, spathulés, longueur 0-1 mm. Étamines jaunes, exsertes de 4 mm, anthères longues de 0,5 mm. Style exsert de 3 mm.
-
-Fruit, diamètre de 5,5 cm, glabre, ailes papyracées ; stipe ≤ 2 cm (les fruits, non récoltés au Gabon, ont été décrits sur un matériel de Centrafrique). – Pl. 23, 1, 2, p. 83.
+Fruit, diameter 5.5 cm, glabrous, papyraceous wings; stipe ≤ 2 cm (the fruits, not collected in Gabon, were described from material from Central African Republic). – Pl. 23, 1, 2, p. 83.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et Centrafrique
+Gabon and Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

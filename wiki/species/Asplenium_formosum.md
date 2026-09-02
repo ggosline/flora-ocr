@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Willd., Sp. Pl. 5 : 329 (1810). — Tard., Mém. IFAN 28 : 183, t. 37, f. 3-4 (1953). — Alston, FWTA : 57 (1959).
 
-Rhizome dressé, à frondes en touffes, portant des écailles lancéolées, formées de cellules à parois minces sur les bords et de cellules complètement épaissies au centre. Pétiole de 2-5 cm, noirâtre, mat, marginé. Limbe à contour ovale, unipenné, long de 15-20 cm sur 2 de large. Pennes très nombreuses, opposées, subsessiles ou courtement pétiolées, faisant un angle de 90° avec le rachis, longues de 1 cm environ, dimidiées, la marge inférieure bordée sur toute sa longueur par la nervure médiane, à extrémité arrondie, marge supérieure laciniée sur 1/2 de la largeur de la penne, à base supérieure cunéiforme. Rachis noirâtre. Texture coriace. Nervures flabellées. Sores courts, parallèles au costa. Spores ovales, finement verruqueuses.
+Rhizome erect, with fronds in tufts, bearing lanceolate scales, formed of cells with thin walls on the margins and completely thickened cells at the centre. Petiole 2-5 cm, blackish, dull, marginate. Lamina with oval outline, unipinnate, 15-20 cm long by 2 cm wide. Pinnae very numerous, opposite, subsessile or shortly petiolate, making a 90° angle with the rachis, approximately 1 cm long, dimidiate, the lower margin bordered along its entire length by the midvein, with rounded apex, upper margin laciniate over 1/2 the width of the pinna, with cuneiform upper base. Rachis blackish. Texture coriaceous. Veins flabellate. Sori short, parallel to the costa. Spores oval, finely verrucose.
 
 ## Type
 

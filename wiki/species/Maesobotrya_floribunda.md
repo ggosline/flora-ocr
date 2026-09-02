@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Hooker's Icon. Pl. 13(4): 75, t. 1296 (1879). Shrub to tree 4–10 m tall; trunk up to 15 cm in diameter; twigs bearing appressed hairs, early glabrescenct or not. Stipules ± early caducous, linear to narrowly lanceolate, 4–6 mm long, glabrescenct. Leaf: petiole (0.5–)1–4(–6) cm, pubescent to glabrescent; blade elliptic to obovate, 4–31 × 2–14.5 cm, obtuse to slightly cordate or cuneate at base, caudate-acuminate at apex, glabrous to sparsely pilose on the midvein above, below with ± appressed hairs, especially on the midvein and the 6–9(–10) pairs of lateral veins but glabrescent. Inflorescence axillary or below the leafy parts, sometimes on older branches, never on the trunk, solitary or fasciculate, the male ones ≤ 7 cm long, the female ones ≤ 4 cm (≤ 5 cm in fruit), pubescent; bracts triangular, 1–2 mm long, pubescent; bracteoles ≤ 1 mm long. Male flower 4–6-merous; pedicel 1–2 mm long, glabrous; sepals ± oval, often unequal, about 1 mm long, glabrous but ciliate or not; small petals sometimes present; stamens 4–6, ≤ 2 mm, glabrous; disk lobed, pilose; pistillode pilose. Female flower: pedicel 1–2 mm, mostly pubescent;
 
-Hooker’s Icon . Pl . 13(4) : 75, t. 1296 (1879). Arbuste à arbre de 4–10 m de hauteur ; tronc jusqu’à 15 cm de diamètre ; ramilles gar nies de poils apprimés, tôt glabrescentes ou non . Stipules ± tôt caduques, linéaires à étroitement lancéolées, 4–6 mm de longueur, glabrescentes. Feuille : pétiole (0,5–)1–4(– 6) cm, pubescent à glabrescent ; limbe elliptique à obovale, 4–31 × 2–14,5 cm, obtus à légèrement cordé ou cunéiforme à la base, caudé–acuminé au sommet, glabre à éparse ment pileux sur la médiane dessus, dessous avec des poils ± apprimés, surtout sur la médiane et les 6–9(–10) paires de nervures latérales mais glabrescent . Inflorescence axillaire ou sous les parties feuillées, quelquefois sur les branches plus âgées, jamais sur le tronc , solitaire ou fasciculée, les mâles ≤ 7 cm de longueur, les femelles ≤ 4 cm (≤ 5 cm en fruit), pubescentes ; bractées triangulaires, 1–2 mm de longueur, pubescentes ; bractéoles ≤ 1 mm de longueur. Fleur mâle 4–6-mère ; pédicelle 1–2 mm de longueur, glabre ; sépales ± ovales, souvent inégaux, environ 1 mm de longueur, glabres mais ciliés ou non ; petits pétales parfois présents ; étamines 4–6, ≤ 2 mm, glabres ; disque lobulé, pileux ; pistillode pileux. Fleur femelle : pédicelle 1–2 mm, le plus souvent pubescent ;
+Female inflorescence (× 1.2). – D. Female flower, articulate on the rachis (× 6). Drawing reproduced with permission of the National Botanic Garden of Belgium (©) from Léonard (1945).
 
-Inflorescence femelle (× 1,2). ‒ D. Fleur femelle, articulée sur le rachis (× 6). Dessin reproduit avec permission du Jardin botanique national de Belgique (©) à partir de Léonard (1945).
-
-sépales apprimés contre l’ovaire ou étalés, 1 mm de longueur, glabres mais ciliolés ou non ; quelques pétales souvent présents ; ovaire 2–3-loculaire, ovoïde, 1,5–2 mm de lon gueur, à poils apprimés. Fruit globuleux à ellipsoïde , 5–7 mm de longueur, à quelques poils ± apprimés, déhiscent par 2–3 valves pileuses à l’intérieur . Graines 1–2, brunes, à sarcotesta bleu.
+sepals appressed against the ovary or spreading, 1 mm long, glabrous but ciliolate or not; some petals often present; ovary 2–3-locular, ovoid, 1.5–2 mm long, with appressed hairs. Fruit globose to ellipsoid, 5–7 mm long, with some ± appressed hairs, dehiscent by 2–3 valves pilose inside. Seeds 1–2, brown, with blue sarcotesta.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon, République du Congo, République Démo cratique du Congo et Zambie ; au Gabon, connue de l’Estuaire, du Haut-Ogooué, de l’Ogooué-Ivindo et de l’Ogooué-Maritime
+Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Zambia; in Gabon, known from Estuaire, Haut-Ogooué, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondarisée, forêt galerie ; au Gabon, à 0–750 m d’altitude. Usage : Le bois est utilisé comme poteau et pour des ustensiles de cuisine. Dans la Répu blique du Congo, la décoction des écorces est utilisée (en boisson et en bain) pour soigner les lépreux. Au Gabon, les jeunes feuilles donnent un légume cuit acide. b : Léonard (1994), Schmelzer (2008c). ibliographie
+Primary or secondarized forest, gallery forest; in Gabon, at 0–750 m altitude. Uses: The wood is used as a post and for kitchen utensils. In the Republic of the Congo, a decoction of the bark is used (in drink and in bath) to treat leprosy. In Gabon, young leaves provide a sour cooked vegetable. b: Léonard (1994), Schmelzer (2008c). Bibliography
 
 ## Notes
 

@@ -17,19 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large vine; branchlets smooth and glabrous. Leaf glabrous; petiole 4–6 mm; blade narrowly elliptic to ovate 6.5–9.5 × 2–3 cm, cuneate to rounded at the base, caudate at the apex, coriaceous; midvein channelled above, secondary veins 13 to 17 pairs, well visible almost perpendicular to the midvein, alternating with (slightly) weaker parallel veins and connected by a slightly looped marginal vein, tertiary venation reticulate, invisible above, scarcely visible below. Inflorescence axillary, up to 1.5 cm long, with 5 to 7 flowers; pedicels attaining mm, bracts triangular to ovate, long of mm, linked. Flower: pedicel 1–1.5 mm; calyx with triangular to ovate lobes, ± 1 × 1 mm, ciliate, green; corolla almost glabrous, white, yellow at the tip in bud, tube long 1.7–2 mm, with lobes ± 3. Part of a branchlet with bark ± 5. Branchlets, transverse section ± – Flower (× 4). – 13. Calyx (× 6). – 14. Flower, longitudinal section (× 4). – 15. Pistil (× 10). – 16. Stamen, dorsal and ventral view, base ± – Fruit ± – Idem, transverse section ± – Seed, longitudinal section ± – J.J.F.E. de Wilde et al. 409; 7, 12-16: Leeuwenberg & Persoon 13574; 8, 10: Leeuwenberg & Persoon 13548; 9: Luja 345; 11: Sapin s.n.; 17, 18: Breteler 1585; 19: Hladik 2033). Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
-Grande liane ; rameaux lisses et glabres. Feuille glabre ; pétiole de 4–6 mm ; limbe étroitement HOOLSWLTXHjRYDOH de 6,5–9,5 × 2–3 cm , cunéé à arrondi à la base, caudé à l’apex, coriace ; nervure médiane canaliculé dessus, nervures secondaires 13 à 17 paires, bien visibles SUHVTXH perpendiculaires à la médiane, alternant avec des nervures parallèles (légèrement) plus faibles et reliées par une nervure marginale légèrement bouclée, nervation tertiaire réticulée, invisible dessus, peu visible dessous. ,QÀRUHVFHQFH axillaire, jusqu’à 1,5 cm de longueur , avec 5 à 7 ÀHXUVSpGRQFXOHDWWHLJQDQWPPEUDFWpHVWULDQJXODLUHVjRYDOHVORQJXHVGHPPFL liées. Fleur : pédicelle de 1–1,5 mm ; calice à lobes triangulaires à ovales, ± 1 × 1 mm, ciliés, YHUWVFRUROOHSUHVTXHJODEUHEODQFKHMDXQHHQERXWRQj tube long de 1,7–2 mm , à lobes YULOOHîҀ±3DUWLHG¶XQUDPHDXDYHFpFRUFH±5DPHDX[VHFWLRQWUDQVYHUVDOHîҀ± Fleur (× 4). – 13. Calice (× 6). – 14. Fleur, coupe longitudinale (× 4). – 15. Pistil (× 10). – 16. Étamine,
-
-YXHVGRUVDOHKDXWHWYHQWUDOHEDVî±)UXLWîҀ±,GHPFRXSHWUDQVYHUVDOHîҀ± *UDLQHFRXSHORQJLWXGLQDOHîҀ J.J.F.E. de Wilde et al. 409 ; 7, 12-16 : Leeuwenberg & Persoon 13574 ; 8, 10 : Leeuwenberg & Persoon 13548 ; 9 : Luja 345 ; 11 : Sapin s.n. ; 17, 18 : Breteler 1585 ; 19 : Hladik 2033 ). Dessin par Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduit à partir de Persoon et al. (1992).
-
-de 9–12 × 1,5–2 mm SRLOXVjODEDVHLQWHUQHpWDPLQHVVXEVHVVLOHVDQWKqUHMXVTX¶jSUHVTXH PPGHORQJXHXUJODEUHSLVWLOORQJGHPPJODEUHRYDLUHRYRwGHjSOXVLHXUVFUrWHV longitudinales ; style de < 1 mm. Fruit inconnu. Distribution FRQQXGHVHXOHPHQWTXDWUHORFDOLWpVGDQVOHVXGGX&DPHURXQHWGX*DERQGDQVOD1JRX nié et le Woleu-Ntem.
+9–12 × 1.5–2 mm, hairy at the base internally; stamens subsessile; anther up to almost mm long, glabrous; pistil long mm, glabrous; ovary ovoid to with several longitudinal ridges; style < 1 mm. Fruit unknown. Distribution known only from four localities in the south of Cameroon and Gabon in Ngounie and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide, collines, bords de lac ; à 500–1000 m d’altitude. B : Jongkind & Lachenaud (2022). IBLIOGRAPHIE
+humid forest, hills, lake margins; at 500–1000 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
 ## Notes
 

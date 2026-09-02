@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Apollo's Laurel.
 
-Laurier d'Apollon.
+— Linnaeus. Spec. 529.
 
-— Linné. Spec. 529.
+Shrub of 2-3 m with erect branches and coriaceous foliage; blades briefly petiolate, lanceolate, 5-12 cm long by 3-4 cm wide, often undulate at the margin, bright green above, pale beneath. Flowers pedicellate; umbels of 4-6 flowers, pedunculate, in groups of 1-3 at the leaf axils. Berry subglobose, black, 8-10 mm in diameter.
 
-Arbuste de 2-3 m à rameaux dressés, à feuillage coriace; limbes brièvement pétiolés, lancéolés, de 5-12 cm de long sur 3-4 cm de large, souvent ondulés au bord, vert-brillant dessus, pâles dessous. Fleurs pédicellées; ombelles de 4-6 fleurs, pédon-culées, en groupes de 1-3 à l'aisselle des feuilles. Baie subglobuleuse, noire, de 8-10 mm de diamètre.
-
-C'est le type de la famille des Lauracées. Le Laurier d'Apollon a été introduit au Gabon et quelques pieds ont réussi à se maintenir bien qu'il soit loin des conditions de climat de son aire géographique naturelle : le pourtour de la mer Méditerranée. Il est signalé ici, bien que son introduction au Gabon soit sans grande importance, plutôt en tant que type de la famille. De ses branches, on tressait des couronnes aux héros; on le cultive encore pour l'ornement mais aussi plus prosaïquement pour la cuisine, ses feuilles étant aromatiques. L'origine du mot laurier serait le celtique blawr : toujours vert.
+It is the type genus of the family Lauraceae. Apollo's Laurel was introduced to Gabon and a few specimens have managed to persist despite being far from the climatic conditions of its natural geographic range: the circumference of the Mediterranean Sea. It is noted here, although its introduction to Gabon is of little significance, rather as a type genus of the family. From its branches, crowns were woven for heroes; it is still cultivated for ornament but also more prosaically for cooking, its leaves being aromatic. The origin of the word laurel would be from the Celtic blawr: always green.
 
 ## Notes
 

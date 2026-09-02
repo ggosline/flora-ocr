@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bot. Zeitung (Berlin) 35 : 635 (1877). Ancistrophyllum opacum (G.Mann & H.Wendl.) Drude, Bot. Jahrb. Syst. 21 : 111 (1895), nom. illeg. Neoancistrophyllum opacum (Drude) Rauschert ex J.Dransf., Kew Bull. 37 : 456 (1982). Slender liane; culm up to 15 m, 8–15 mm in diameter. Leaf: sheath moderately to weakly armed with spines directed upward or reflexed, those near the inflorescences sometimes poorly armed, the mature ones with caducous black pubescence; ochrea 12–30 cm in length, armed with black-tipped spines; petiole up to 12 cm, flattened above, rounded below, margins armed with spines; rachis up to 60 cm, cylindric, armed as the petiole, the spines of decreasing size distally; blade with 10 to 12 pairs of unevenly spaced and unequal leaflets, generally subequidistant toward the base and subopposite toward the apex, sigmoid, 20–30 × 2.5–10 cm, margins covered with small spines; cirrus up to 50 cm, armed as the rachis, spines becoming rare distally, with spine-leaflets of 1.5–2.5 cm. Inflorescences 4 to 8, produced simultaneously distally on each culm; peduncle ± 10 cm; prophyll ± 4 cm in length; basal bracts up to 2 cm in length; floriferous branches ± 10 cm, densely
 
-Bot. Zeitung (Berlin) 35 : 635 (1877). Ancistrophyllum opacum (G.Mann & H.Wendl.) Drude, Bot. Jahrb. Syst. 21 : 111 (1895), nom. illeg . Neoancistrophyllum opacum (Drude) Rauschert ex J.Dransf., Kew Bull. 37 : 456 (1982). Liane frêle ; stipe jusqu’à 15 m, 8–15 mm de diamètre . Feuille : gaine modérément à fai blement armée d’épines, dirigées vers le haut ou réfléchies, celles proches des inflorescences parfois peu armées, les matures à pilosité noire caduque ; ochréa 12–30 cm de longueur, armée d’épines à pointe noire ; pétiole jusqu’à 12 cm, aplati dessus, arrondi dessous, bords armés d’épines ; rachis jusqu’à 60 cm, cylindrique, armé comme le pétiole, les épines de taille décroissante distalement ; limbe à 10 à 12 paires de folioles inequidistantes et inégales, généralement subéquidistantes vers la base et subopposées vers le sommet sigmoïdes, 20–30 × 2,5–10 cm, marges couvertes de petites épines ; cirrhe jusqu’à 50 cm, armé comme le rachis, épines devenant rares distalement, à folioles-épines de 1,5–2,5cm . Inflorescences 4 à 8, pro duites simultanément distalement sur chaque stipe ; pédoncule ± 10 cm ; préfeuille ± 4 cm de longueur ; bractées basales jusqu’à 2 cm de longueur ; rameaux florifères ± 10 cm, densément
+Seed. Scale bar: 1 = 1 cm, 2, 3 = 10 cm, 4, 5 = 1 cm, 6 = 5 cm, 7 = 10 cm, 8 = 8 mm, 9, 10 = 1 cm. (1–5: Sunderland 2266; 6, 7: Sunderland 1700; 8: Mann 97; 9, 10: Sunderland 1885). Drawing by Lucy T. Smith, reproduced with permission from Sunderland (2012).
 
-Graine. Barre d’échelle : 1 = 1 cm, 2, 3 = 10 cm, 4, 5 = 1 cm, 6 = 5 cm, 7 = 10 cm, 8 = 8 mm, 9, 10 = 1 cm. (1-5 : Sunderland 2266 ; 6, 7 : Sunderland 1700 ; 8 : Mann 97 ; 9, 10 : Sunderland 1885 ). Dessin par Lucy T. Smith, reproduit avec permission à partir de Sunderland (2012).
+General habitat. – Eremospatha macrocarpa (near Bambidie, Lastoursville): G. Juvenile form. – Eremospatha quinquecostulata (near Bambidie, Lastoursville): H. Detail of the leaf and irregularly arranged leaflets. (photos by Thomas L.P. Couvreur ©).
 
-Habitat général. – Eremospatha macrocarpa (près de Bambidie, Lastoursville) : G. Forme juvénile. – Eremospatha quinquecostulata (près de Bambidie, Lastoursville) : H. Détail de la feuille et des folioles irrégulièrement disposées. (photos par Thomas L.P. Couvreur ©).
+E. Detail of fruits, F. Detail of the fructification (Campo, Cameroon), G. Detail of the base of a leaf, note the flat black spines, H. Detail of the inflorescence, note the clusters of flowers grouped together and the very prominent bracts. (photos by Thomas L.P. Couvreur ©).
 
-E. Détail des fruits, F. Détail de l’infrutescence (Campo, Cameroun), G. Détail de la base d’une feuille, notez les épines plates et noires, H. Détail de l’inflorescence, notez les amas de fleurs regroupées et les bractées très visibles. (photos par Thomas L.P. Couvreur ©).
+Detail of the stem, note the strongly curved and thick fibers. – Raphia textilis (near Lastoursville): C. General habitat, note the weakly curved and fine fibers, D. Detail of fruits, note the fine floriferous branches. – Raphia monbuttorum (Lélé, Cameroon): E. Detail of partial inflorescences (1st and 2nd orders). – Raphia laurentii (Democratic Republic of the Congo): F. Detail of partial inflorescences, note the digitate floriferous branches with bracts forming rings. – Raphia rostrata (Lara river): G. General habitat, along rivers. – Raphia regalis (Mabounié): H. Habitat, on terra firme, I. Detail of the erect inflorescence between the leaves. (photos A–E, G–I by Thomas L.P. Couvreur ©, photo F by Suzanne Mogue Kamga ©).
 
-Détail du tronc, notez les fibres fortement bouclées et épaisses. – Raphia textilis (près de Lastoursville) : C. Habitat général, notez les fibres faiblement bouclées et fines, D. Détail des fruits, notez les rameaux florifères fins. – Raphia monbuttorum (Lélé, Cameroun) : E. Détail des inflorescences partielles (1 et 2 er d ordres). – Raphia laurentii (République démocratique du Congo) : F. Détail des inflorescences partielles, notez les rameaux florifères digitées avec les bractées formant des anneaux. – Raphia rostrata (Lara river) : G. Habitat général, le long des rivières. – Raphia regalis (Mabounié) : H. Habitat, sur terre ferme, I. Détail de l’inflorescence érigée entre les feuilles. (photos A-E, G-I par Thomas L.P. Couvreur ©, photo F par Suzanne Mogue Kamga ©).
-
-revêtus de bractées imbriquées. Fleur 8 × 2 mm ; calice à tube de 2 mm de longueur, à lobes triangulaires de 2 × 2 mm, striés ; corolle 9 × 2,5 mm, lobes étroitement elliptiques-ovales, à sommet brusquement acuminé ; étamines à filet de 3 × 1 mm, anthère 3 mm × 1 mm ; ovaire 1 mm de diamètre ; stigmate jusqu’à 5 mm de longueur. Fruit globuleux , ± 1,2 cm de diamètre, arrondi, déprimé apicalement, avec 12 à 14 rangs d’écailles, monosperme. Graine subglobuleuse , 6–8 mm de diamètre, recouverte de dépressions arrondies à polygonales, profondément échancrée d’un côté .
+covered with imbricate bracts. Flower 8 × 2 mm; calyx with tube 2 mm in length, with triangular lobes 2 × 2 mm, striate; corolla 9 × 2.5 mm, lobes narrowly elliptic-ovate, with apex abruptly acuminate; stamens with filament 3 × 1 mm, anther 3 mm × 1 mm; ovary 1 mm in diameter; stigma up to 5 mm in length. Fruit globose, ± 1.2 cm in diameter, rounded, apically depressed, with 12 to 14 rows of scales, monospermatous. Seed subglobose, 6–8 mm in diameter, covered with rounded to polygonal depressions, deeply emarginate on one side.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest, Nigéria, Cameroun, Guinée équatoriale, Gabon, République du Congo, République démocratique du Congo ; au Gabon, présent dans la Nyanga, l’Ogooué-Ivindo, l’OgoouéLolo et l’Ogooué-Maritime. Statut de conservation : Préoccupation mineure (LC)
+West Africa, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo; in Gabon, present in Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de forêts tropicales humides, sur sol bien drainé, basaltiques ou volcaniques ; au Gabon à ± 100 m d’altitude, ailleurs entre 50 et 250 m
+understory of humid tropical forests, on well-drained basaltic or volcanic soil; in Gabon at ± 100 m altitude, elsewhere between 50 and 250 m
 
 ## Vernacular names
 

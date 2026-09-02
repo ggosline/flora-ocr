@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+l.c.: 48 (1958), "velutina"; PIERRE, mss. sur herb. Klaine 1316 (K!); HALLÉ, Bull. IFAN, sér. A, 21 (3): tab. 49 (1959); Pollen & Spores 2 (1): 8 (1960);
 
-l.c.: 48 (1958), «velutina»; PIERRE, mss. sur herb. Klaine 1316 (K!); HALLÉ, Bull. IFAN, sér. A, 21 (3): tab. 49 (1959); Pollen & Spores 2 (1): 8 (1960);
-
-– Hippocratea velutina AFZ., Remed. Guin. Coll. Quinta, Upsala: 33 (1813); LOES., Pflanzenf., ed. 2, 20B: 208 (1942); OLIVER, FTA 1: 370 (1868); HUTCH. & MOSS, FWTA 1: 449 (1928); EXELL & MENDONÇA, CFA 2 (1): 14 (1954); LOES., I.C.: 120, fig. 3 (1904); KEAY & BLAKELOCK, FWTA, ed. 2, 1 (2): 629 (1958); IRVINE, WPG: 456 (1961).
+– Hippocratea velutina Afz., Remed. Guin. Coll. Quinta, Upsala: 33 (1813); LOES., Pflanzenf., ed. 2, 20B: 208 (1942); OLIVER, FTA 1: 370 (1868); HUTCH. & MOSS, FWTA 1: 449 (1928); EXELL & MENDONÇA, CFA 2 (1): 14 (1954); LOES., I.C.: 120, fig. 3 (1904); KEAY & BLAKELOCK, FWTA, ed. 2, 1 (2): 629 (1958); IRVINE, WPG: 456 (1961).
 
 – Helictonema klaineanum PIERRE, Bull. Soc. Linn. Paris, n.s., 9: 73 (1898). HOLOTYPE: Klaine 1316 (a), Gabon (P!).
 
-– Salacia unguiculata DE WILD. & Th. DUR., Bull. Soc. Roy. Bot. Belg. 38 (2) : 80 (1899).
+– Salacia unguiculata DE WILD. & Th. DUR., Bull. Soc. Roy. Bot. Belg. 38 (2): 80 (1899).
 
 ## Type
 
@@ -34,21 +32,19 @@ Afzelius s.n., Sierra Leone (holo-, BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane reaching 25–30 m in height, with main stem exceeding 10 cm in diameter, swollen at the nodes. Bark coarse, squamose, fissured lengthwise, cracked transversely, grey-ochraceous, whitish in depth. Young branches hairy with light reddish hairs. Petiole pubescent 6–12 mm long. Blade pubescent on both surfaces, discolorous, reddish to olivaceous when dry, subcoriaceous, ovate, (4)5–15 × 2–8 cm, with obtuse to subcordate base, briefly acuminate apex. Secondary veins 6–8 pairs, arching. Fine reticulation often poorly distinct.
 
-Liane atteignant 25-30 m de hauteur, à tige principale dépassant 10 cm de diamètre, renflée aux nœuds. Écorce grossière, squameuse, fissurée en long, craquelée transversalement, gris ocracé, blanchâtre en profondeur. Jeunes rameaux velus à poils roux clair. Pétiole pubescent long de 6-12 mm. Limbe pubescent sur les deux faces, discolore, roussâtre à olivacé à sec, subcoriace, ovale, de (4)5-15 × 2-8 cm, à base obtuse à subcordée, à sommet brièvement acuminé. Nervures secondaires 6-8 paires arquées. Fin réseau souvent peu distinct.
+Dichotomous cymes entirely reddish pubescent, 5–15 cm, or panicles of larger cymes; cyme peduncle (1)2–10 cm, bearing up to 5–6 levels of branching. Bracts large, lanceolate 3–8 × 2–3 mm, early caducous or somewhat persistent. Pedicels
 
-Cymes bipares entièrement pubescentes rousses, de 5-15 cm, ou panicules de cymes plus grandes; pédoncule de cyme de (1)2-10 cm, portant jusqu'à 5-6 niveaux de ramification. Bractées grandes, lancéolées de 3-8 × 2-3 mm, tôt caduques ou un peu persistantes. Pédicelles de
+PL. 51. – Helictonema velutinum (Afz.) Wilcz. ex Hallé: 1, 2, stellate hairs of leaves, diam. 1/4 mm; 3, ultimate cymule of inflorescence; 4, bud; 5, flower, diam. 16 mm, petals spread artificially; 6, petaline margin with appendages 0.8–1 mm; 7, disk crown of young bud, diam. 2.8 mm; 8, section of disk, diam. 3.4 to 6 mm; 9–11, anther 1.2 mm wide; 12, section of ovary and filaments; 13, ovary locule opened showing ovules; 14, fruit; 15, open mericarp 6 cm long; 16, detail of basal inner surface of a mericarp showing the two placentary series; 17, seed 47 mm; 18, embryo 16 mm long (1–3, 8, Hallé N. IA 2952, Ivory Coast; 4, Letouzey 5531; 5–7, 9–13, Fleury in Chevalier 26236; 14, Hallé N. IA 3610; 15–16, Tisserant 479, Central African Republic; 17, 18, Le Testu 2247).
 
-PL. 51. – Helictonema velutinum (Afz.) Wilcz. ex Hallé : 1, 2, poils stellés des feuilles, diam. 1/4 mm ; 3, cymule extrême d'inflorescence ; 4, bouton ; 5, fleur, diam. 16 mm, pétales étalés par artifice ; 6, marge pétalaire à appendices de 0,8-1 mm ; 7, couronne discale haute de jeune bouton, diam. 2,8 mm ; 8, coupe de disque, diam. 3,4 à 6 mm ; 9-11, anthère large de 1,2 mm ; 12, coupe de l'ovaire et des filets ; 13, loge d'ovaire ouverte montrant les ovules ; 14, fruit ; 15, méricarpe ouvert long de 6 cm ; 16, détail de la face interne basale d'un méricarpe montrant les deux séries placentaires ; 17, graine de 47 mm ; 18, embryon long de 16 mm (1-3, 8, Hallé N. IA 2952, Côté-d'Ivoire ; 4, Letouzey 5531 ; 5-7, 9-13, Fleury in Chevalier 26236 ; 14, Hallé N. IA 3610 ; 15-16, Tisserant 479, Centrafrique ; 17, 18, Le Testu 2247).
+4–15 mm. Floral bud 3–6 mm in diameter, globose subapiculate, with quincuncial sepals touching at the apex. Flower pubescent, whitish or yellowish, 12–15 mm in diameter. Sepals tawny, pubescent on both surfaces, reflexed, 4 × 2.5 mm. Petals 5–7 × 4 mm, with claw 1.5–2 mm, with ovate fimbriolate limb and fine golden pubescence; marginal laninae 1 mm, somewhat spatulate at the apex. Lower disk green, glabrous, 20–30 lobulate, 5–7 mm in diameter; gynandrophore crowned with erect tawny hairs. Stamens 2–3 mm, glabrous. Ovary hairy between the stamens; style glabrous, attenuate, truncate. 12–22 ovules in 2–3 rows.
 
-4-15 mm. Bouton floral de 3-6 mm de diamètre, globuleux subapiculé, à sépales quinconciaux jointifs au sommet. Fleur pubescente, blanchâtre ou jaunâtre, de 12-15 mm de diamètre. Sépales fauves, pubescents sur les deux faces, réfractés, de  $ 4 \times 2.5 $ mm. Pétales de  $ 5-7 \times 4 $ mm, à onglet de 1,5-2 mm, à limbe ové fimbrié et fine pubescence dorée; lanières marginales de 1 mm, un peu spatulées au bout. Disque inférieur vert, glabre, 20-30 lobulé, de 5-7 mm de diamètrc ; gynandrophore couronné de poils fauves dressés. Étamines de 2-3 mm, glabres. Ovaire velu entre lcs étamines ; style glabre atténué tronqué. 12-22 ovules en 2-3 rangées.
+Fruit 3-carpellate; each mericarp 4–7 × 2–3 cm, reddish puberulent, with a median dehiscence slit that does not liberate the valves; valve wall 1.5–3 mm thick; inner surface with ascending pubescence. Seed with seminal tegument clothed with descending hairs; wing with 2 marginal nerves of which the raphe, and without basal thickening; embryo cylindric with cotyledons separated; with radicle distinctly prominent. – Pl. 51, p. 177.
 
-Fruit 3-carpellé ; chaque méricarpe de 4-7 × 2-3 cm, roussâtre pubé-rulent, présente une fente de déhiscence médiane qui ne libère pas les valves ; paroi des valves épaisse de 1,5-3 mm ; face interne à pubescence ascendante. Graine à tégument séminal vêtu de poils descendants ; aile à 2 nervures marginales dont le raphé, et sans épaississement basal ; embryon cylindrique à cotylédons séparés ; à radicule nettement saillante. - Pl. 51, p. 177.
+Species widely distributed and almost continuously from Guinea (Dalaba) to eastern Sudan and from São Tomé and Cabinda to Uganda. Thickets, forest margins, gallery forests and dense forests.
 
-Espèce largement répandue et de façon à peu près continue de la Guinée (Dalaba) au Soudan oriental et de San Tomé et Cabinda jusqu'en Ouganda. Bosquets, lisières, galeries et forêts denses.
-
-NOM FANG : okonouguié (selon FLEURY).
+FANG NAME: okonouguié (according to FLEURY).
 
 ## Specimens examined
 

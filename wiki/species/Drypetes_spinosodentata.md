@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Cyclostemon spinosodentatus Pax, Bot. Jahrb. Syst. 43(1-2): 76 (1909).
 
-Arbuste ou arbre atteignant 15(-25) m de hauteur; tronc jusqu'à 40 cm de diamètre; écorce brun pâle; entaille orange pâle, sans odeur d'huile de moutarde; ramilles de 1,5 mm de diamètre, cannelées, glabres; bourgeons axillaires de 2,5 × 1,4, glabres à l'exception des cils marginaux de 0,2 mm. Stipules très rapidement caduques, de taille inconnue. Feuille : pétiole de 5–8 mm, canaliculé dessus, plissé sur le sec, glabre; limbe elliptique à étroitement elliptique ou parfois oblong, de 14–30 × 4,3–8 cm, coriace, brillant dessus sur le frais, glabre, oblique à la base, un côté en coin et l'autre arrondi, brusquement acuminé sur 2,1 cm au sommet, à marge légèrement recourbée, munie de dents espacées de 1,4–2,2 cm et longues de 1,5–3 mm, section épineuse de la dent 0,5–1 mm, dirigée vers l'avant; nervure médiane proéminente dessous, nervures secondaires 6 à 10, imprimées dessus, saillantes dessous, nervures tertiaires et quaternaires légèrement surélevées sur les deux faces, plutôt obscures. Inflorescence mâle ramiflore, sur coussinets de 1,5 × 0,5 cm, à nombreuses fleurs sur chaque coussin; bractées persistantes, de 2 × 0,5 mm, glabres, devenant coriaces et brillantes après la chute des fleurs. Fleur mâle à odeur douce; pédicelle robuste, de 2,5–5 mm, glabre; sépales 5, imbriqués, suborbiculaires, de 5–6 × 4,5 mm, vert jaunâtre, très légèrement rugueux à l'extérieur, glabres à l'intérieur; étamines 26 à 28, périphériques par rapport au disque, légèrement entourées par des lobes marginaux, filet de 1,4–1,6 mm, glabre, anthère de 2,8 × 1,3 mm, arrondie au sommet; disque plan à légèrement concave, de 4 mm de diamètre, divisé par des crêtes très basses pour former un motif réticulé de 7 ou 8 plaques, très courtement papilleuses. Fleur femelle inconnue. Fruit globuleux, de 3,1–3,3 × 3,0–3,4 cm, orange, à sépales et stigmate caducus; pédicelle 3–4 mm.
+Shrub or tree reaching 15(-25) m in height; trunk up to 40 cm in diameter; bark pale brown; cambium pale orange, without mustard oil odor; branchlets 1.5 mm in diameter, grooved, glabrous; axillary buds 2.5 × 1.4, glabrous except for marginal cilia 0.2 mm. Stipules very rapidly caducous, size unknown. Leaf: petiole 5–8 mm, canaliculate above, plicate when dry, glabrous; blade elliptic to narrowly elliptic or sometimes oblong, 14–30 × 4.3–8 cm, coriaceous, glossy above when fresh, glabrous, oblique at the base, one side cuneate and the other rounded, abruptly acuminate for 2.1 cm at the apex, with margin slightly recurved, furnished with teeth spaced 1.4–2.2 cm apart and 1.5–3 mm long, spinose section of tooth 0.5–1 mm, directed forward; midvein prominent below, secondary nerves 6 to 10, impressed above, prominent below, tertiary and quaternary nerves slightly raised on both surfaces, rather obscure. Male inflorescence ramiflorous, on cushions 1.5 × 0.5 cm, with numerous flowers on each cushion; bracts persistent, 2 × 0.5 mm, glabrous, becoming coriaceous and glossy after flower fall. Male flower sweet-scented; pedicel robust, 2.5–5 mm, glabrous; sepals 5, imbricate, suborbicular, 5–6 × 4.5 mm, yellowish green, very slightly rugose on the outside, glabrous on the inside; stamens 26 to 28, peripheral to the disk, slightly surrounded by marginal lobes, filament 1.4–1.6 mm, glabrous, anther 2.8 × 1.3 mm, rounded at the apex; disk flat to slightly concave, 4 mm in diameter, divided by very low ridges to form a reticulate pattern of 7 or 8 plates, very shortly papillose. Female flower unknown. Fruit globose, 3.1–3.3 × 3.0–3.4 cm, orange, with caducous sepals and stigma; pedicel 3–4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, mainland Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon: Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
-Nigéria, Cameroun, Guinée équatoriale continentale, Gabon, République du Congo et République démocratique du Congo; au Gabon: Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo et Woleu-Ntem
-
-Habitat : forêts sempervirentes, apparemment uniquement sur la terra firme ; au Gabon et ailleurs à 150–1000 m d'altitude.
+Habitat: evergreen forests, apparently only on terra firme; in Gabon and elsewhere at 150–1000 m altitude.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est facilement identifiable par ses feuilles glabres coriaces avec des dents épineuses qui donnent le nom de l'espèce, cependant, les dents ne sont pas toujours évidentes sur certains spécimens
+This species is easily identifiable by its glabrous coriaceous leaves with spinose teeth that give the species its name; however, the teeth are not always evident on certain specimens
 
 ## Bibliography
 

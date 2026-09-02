@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Bull. Soc. Roy. Belg. 38 (2) : 27 (1899); Ann. Mus. Congo Belge, Bot., ser. 3, 1 : 32 (1901). — DE WILD., Plant. Bequaert. 4 : 255 (1927). — WILCZEK & BOUTIQUE, Fl. Congo belge 7 : 31 (1958).
 
 — O. verschuerenii DE WILD., Plant. Bequaert. 4 : 258 (1927). — WILCZEK & BOUT., loc. cit. : 31 (1958).
@@ -27,11 +25,11 @@ Bull. Soc. Roy. Belg. 38 (2) : 27 (1899); Ann. Mus. Congo Belge, Bot., ser. 3, 1
 
 — Phyllocosmus congolensis (De Wild. & Th. Dur.) Th. & H. Dur., Syll.: 76 (1909). — Wilczek & Bout., l. c.: 31 (1958).
 
-Arbre haut de 8 m ou arbuste ramifié, ou liane haute de 30 m, glabre. Feuilles pétiolées ou subsessiles; stipules caduques; pétiole glabre, 2-6 mm. Limbe glabre elliptique ou ové-elliptique, à bords munis de dents glanduleuses au sommet, cunée à la base, acuminé au sommet, 5-12 × 1,5-4,5 cm. Nervures secondaires légèrement saillantes à la face inférieure; nervilles parallèles très fines.
+Tree 8 m tall or branched shrub, or vine up to 30 m tall, glabrous. Leaves petiolate or subsessile; stipules caducous; petiole glabrous, 2–6 mm. Blade glabrous elliptic or ovate-elliptic, with margins bearing glandular teeth at the apex, cuneate at the base, acuminate at the apex, 5–12 × 1.5–4.5 cm. Secondary veins slightly prominent on the lower surface; veinlets parallel very fine.
 
-Inflorescences en racèmes glabres, simples ou ramiﬁés à la base, axillaires, solitaires ou groupés en fascicules. Bractées de 1-2 mm et bractéoles caduques. Fleurs solitaires ou groupées par 2-4. Pédicelle glabre de 5-10 mm. Sépales glabres, ovés, denticulés au sommet, longs de 1-2 mm. Pétales glabres, oblongs-obovés, émarginés au sommet, accrescents et persistant contre le fruit à maturité, 4-5 × 2 mm. Etamines 5, glabres, longues de 6-7 mm; anthères oblongues longues d'environ 0,75 mm. Ovaire glabre, ovoïde, large d'environ 1 mm; style glabre, indivis, long d'environ 4 mm; stigmate terminal 5-lobé.
+Inflorescences in glabrous racemes, simple or branched at the base, axillary, solitary or grouped in fascicles. Bracts 1–2 mm and bracteoles caducous. Flowers solitary or grouped in 2–4. Pedicel glabrous 5–10 mm. Sepals glabrous, ovate, denticulate at the apex, 1–2 mm long. Petals glabrous, oblong-obovate, emarginate at the apex, accrescent and persistent against the fruit at maturity, 4–5 × 2 mm. Stamens 5, glabrous, 6–7 mm long; anthers oblong about 0.75 mm long. Ovary glabrous, ovoid, about 1 mm wide; style glabrous, undivided, about 4 mm long; stigma terminal 5-lobed.
 
-Capsule ovoïde de 4-6 × 2 mm, à 1-3 loges fertiles contenant chacune une seule graine. Graine munie d'un arille, finement mamilée, longue d'environ 3,5 mm. Pl. 13, 6-8, p. 57.
+Capsule ovoid 4–6 × 2 mm, with 1–3 fertile locules each containing a single seed. Seed bearing an aril, finely mamillate, about 3.5 mm long. Pl. 13, 6–8, p. 57.
 
 ## Type
 
@@ -39,9 +37,7 @@ A. Dewèvre, Zaïre (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bords des cours d'eau, galeries forestières, Gabon et Zaïre.
+Banks of watercourses, forest galleries, Gabon and Zaïre.
 
 ## Specimens examined
 

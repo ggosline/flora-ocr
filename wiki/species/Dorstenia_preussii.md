@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+RENDLE in HUTCH. & RENDLE, FTA 6 (2): 70 (1916); KEAY, FWTA, ed. 2, 2: 599 (1958). - D. preussii ENGL. var. latidentata ENGL., Bot. Jahrb. 51: 432 (1914); RENDLE, l.c.: 70 (1916); KEAY, l.c.: 599 (1958). TYPE: Zenker 4598, Cameroon (holo-, B; iso-, BM, K).
 
-RENDLE in HUTCH. & RENDLE, FTA 6 (2): 70 (1916); KEAY, FWTA, ed. 2, 2: 599 (1958). - D. preussii ENGL. var. latidentata ENGL., Bot. Jahrb. 51: 432 (1914); RENDLE, l.c.: 70 (1916); KEAY, l.c.: 599 (1958). TYPE: Zenker 4598, Cameroun (holo-, B; iso-, BM, K).
+Small herbs with creeping (fleshy) rhizomes and fleshy ascending stems, 4–18 cm tall, with appressed, straight, short and thick hairs, fairly dense; internodes 3–20 mm long and 0.75–3 mm thick. Leaves almost distichous. Lamina ovate to narrowly or broadly elliptic, (0.5–) 2–7 × (0.25–) 1–4.5 cm, finely chartaceous; apex acute with an obtuse or subacute acumen; base cuneate, tapering progressively; margin sinuate to dentate or irregularly sinuose, upper surface with dome-shaped or straight appressed hairs, short and thick, sparse; lower surface with sparse to fairly dense hairs, straight, short and thick, on the nerves; 3–5 pairs of secondary nerves; median and secondary nerves slightly prominent above and below. Petiole (2–) 4–20 mm long and 0.25–1 mm thick with short straight hairs, dense. Stipules caducous, triangular, 0.5 mm long and 0.25 mm wide at the base with small sparse hairs.
 
-Petites herbes avec des rhizomes rampants (charnus) et des tiges charnues ascendantes, hautes de 4-18 cm, avec des poils apprimés, droits, courts et épais, assez denses ; entre-nœuds longs de 3-20 mm et épais de 0,75-3 mm. Feuilles presque distiques. Limbe ovale à étroite-
+Inflorescences solitary, pale green. Peduncle 8–28 mm in length and 0.2–1 mm in diameter, with small dome-shaped hairs, dense, and short straight white hairs. Receptacle obtriangular with 2 sides ± concave, 7–10 mm long, and 1 side (the upper side) strongly concave, ca. 5 mm long, 3-sometimes 4-lobed: 1 lobe directed downward and 2 or 3 other lobes directed upward, extending imperceptibly into wide appendices 7–24 mm long and ca. 1 mm wide; margin very finely chartaceous, 0.25–0.50 mm wide, furnished with triangular teeth, acute or obtuse, 0.25–0.50 mm long and wide; upper surface of appendices and teeth with small white dome-shaped hairs, fairly dense; lower surface of receptacle, appendices and teeth with small dome-shaped hairs or short white straight hairs, sparse to fairly dense. ♂ Flowers numerous; perianth ca. 0.5 mm in diameter, 2-lobed; stamens 2, with filaments ca. 0.35 mm long and anthers ca. 0.2 × 0.2 mm with fairly wide connective; pistillode absent. ♀ Flowers 8–14, with perianth ca. 0.5 mm in diameter; style 0.25–0.50 mm long, ca. 0.05 mm thick, compressed; stigma 1, ca. 0.1 mm long.
 
-ment ou largement elliptique, (0,5-) 2-7 × (0,25-) 1-4,5 cm, finement chartacé ; apex aigu avec un acumen obtus ou subaigu ; base cunée, se rétrécissant progressivement ; marge sinuée à dentée ou irrégulièrement sinueuse, face supérieure avec des poils apprimés en forme de dôme ou droits, courts et épais, épars ; face inférieure avec des poils épars à assez denses, droits, courts et épais, sur les nervures ; 3-5 paires de nervures secondaires ; nervures médiane et secondaires légèrement proéminentes dessus et dessous. Pétiole long de (2-) 4-20 mm et épais de 0,25-1 mm avec de courts poils droits, denses. Stipules caduques, triangulaires, longues de 0,5 mm et larges de 0,25 mm à la base avec de petits poils épars.
-
-Inflorescences solitaires, vert pâle. Pédoncule de 8-28 mm de longueur et 0,2-1 mm de diamètre, avec de petits poils en forme de dôme, denses, et de courts poils droits, blancs. Réceptacle obtriangulaire avec 2 côtés ± concaves, longs de 7-10 mm, et 1 côté (le côté supérieur) fortement concave, long d'env. 5 mm, 3-parfois 4-lobé : 1 lobe dirigé vers le bas et les 2 ou 3 autres lobes dirigés vers le haut, prolongés insensiblement par des larges appendices longs de 7-24 mm et larges d'env. 1 mm ; marge très finement chartacée, large de 0,25-0,50 mm, garnie de dents triangulaires, aiguës ou obtuses, longues et larges de 0,25-0,50 mm ; face supérieure des appendices et des dents avec de petits poils blancs en forme de dôme, assez denses ; face inférieure du réceptacle, des appendices et des dents avec de petits poils en forme de dôme ou de poils courts, blancs, droits, épars à assez denses. Fleurs 8 nombreuses ; périanthe d'env. 0,5 mm de diamètre, 2-lobé ; étamines 2, à filaments longs d'env. 0,35 mm et anthères d'env. 0,2 × 0,2 mm à connectif assez large ; pistillode absent. Fleurs 9 8-14, à périanthe d'env. 0,5 mm de diamètre ; style long de 0,25-0,50 mm, épais d'env. 0,05 mm, comprimé ; stigmate 1, long de 0,1 mm env.
-
-Noyau de 1,2 mm de diamètre env., avec une carène latérale, tuberculé. - Pl. 26, p. 97.
+Nucleus ca. 1.2 mm in diameter, with a lateral keel, tuberculate. - Pl. 26, p. 97.
 
 ## Type
 
@@ -35,11 +31,9 @@ Preuss s.n., Sierra Leone, Freetown, Sugarloaf (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is close to D. cuspidata Hochst. The latter has a fleshy tubercle whereas D. preussii has a creeping tubercle.
 
-Cette espèce est proche de D. cuspidata Hochst. Cette dernière a un tubercule charnu alors que D. preussii a un tubercule rampant.
-
-D. preussii est connu de la Sierra Leone, du Nigeria, du Cameroun, du Gabon, comme plante des sous-bois forestiers (souvent sur ou près des rochers ?), jusqu'à 150 m d'altitude.
+D. preussii is known from Sierra Leone, Nigeria, Cameroon, Gabon, as a plant of forest understories (often on or near rocks?), up to 150 m altitude.
 
 ## Specimens examined
 

@@ -21,17 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant, culms up to 1 m tall, erect from a woody rhizome. Leaves with blades 10–25 × 2.5–3 cm, acuminate, more or less asymmetric, glabrous or sparsely pubescent; 9 to 11 primary nerves, base narrowed and petiolate. Sheaths glabrous or pubescent, slightly auriculate at the apex, ligule membranous.
 
-Plante pérenne, chaumes jusqu'à 1 m de haut, dressés à partir d'un rhizome ligneux. Feuilles à limbes de 10-25 × 2,5-3 cm, acuminés, plus ou moins asymétriques, glabres ou éparsemment pubescents; 9 à 11 nervures principales, base rétrécie et pétiolée. Gaines glabres ou pubescentes, légèrement auriculées au sommet, ligule membraneuse.
+Panicle up to 25 cm long with lateral branches erect, the lower ones sometimes as long as the inflorescence. Spikelets 4 to 6 mm long, with 3 flowers, ovate-oblong, with scaberulous rachis. Glumes with 3–5 mucronate nerves, scabrous on the keel, the lower 2.5 mm and the upper 3.5 mm long. Lower flower with lemma similar to the glumes but with 7 nerves and 4.5 mm long. Upper flower or flowers with lemmas bearing on their margins, in the upper half, fascicles of stiff hairs with tuberculate base, at first erect, then reflexed. Paleae somewhat shorter than the lemmas, bicarinate. Spikelet rachis prolonged beyond the last flower and bearing a rudimentary piece.
 
-Panicule jusqu'à 25 cm de long à branches latérales dressées, les inférieures parfois aussi longues que l'inflorescence. Épilets de 4 à 6 mm de long, à 3 fleurs, ovales oblongs, à rachis scabéruleux. Glumes à 3-5 nervures mucronées, scabres sur la carène, l'inférieure de 2,5 et la supérieure de 3,5 mm de long. Fleur inférieure à lemma semblable aux glumes mais à 7 nervures et de 4,5 mm de long. La ou les fleurs supérieures à lemmas portant sur leurs marges, dans la moitié supérieure, des fascicules de poils raides à base tuberculée, d'abord dressés, puis réfléchis. Palées
+Species common in the tropical zones of Africa and Asia, as well as in the Pacific. It is a plant of forest understory and forest fallows.
 
-un peu plus courtes que les lemmas, bicarénées. Rachis de l'épillet prolongé au-delà de la dernière fleur et portant une pièce rudimentaire.
-
-Espèce commune dans les zones tropicales de l'Afrique et de l'Asie, ainsi que dans le Pacifique. C'est une plante de sous-bois et de jachères forestières.
-
-Noms vernaculaires (d’après Walker et Sillans) : Giréndé-nyala (Eschira, Bavungu, Bavarama).
+Vernacular names (after Walker and Sillans): Giréndé-nyala (Eschira, Bavungu, Bavarama).
 
 ## Specimens examined
 

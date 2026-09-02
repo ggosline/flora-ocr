@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Engler et Diels in Engl., Monogr. Afr. Pflanzenf. 6: 69 (1901). — Robyns et Ghesquiere, Bull. Jard. État Brux. 9: 309 (1933). — Chevalier, Bois du Gabon: 48, 397 (1916). — Pellgrin, Bull Soc. Bot. Fr. 95: 141 (1948). — Keay, F.W.T.A., ed. 2, 1, 1: 51 (1951). — Walker et Sillans, Enc. Biol. 56: 65 (1961). — Le Thomas, Adansonia, ser. 2, 2: 301 (1962). — Paiva, Mem. Soc. Brot. 19: 99 (1966).
 
-— Engler et Diels in Engl.,Monogr.Afr.Pflanzenf.6 :69 (19o1).- Robyns et Ghesquiere, Bull.Jard.Etat Brux.9 :3o9 (1933).- Chevalier,Bois du Gabon :48,
+Tree 12–30 m tall and 40–70 cm in diameter; bark uniformly saffron-yellow; branchlets slender, pubescent with simple, geminate or fasciculate blond-rust hairs; branches glabrous. Internodes 0.5–2.5 cm long. Leaf buds elongate, villous, covered with long silky blond hairs. Leaves with petiole 3–10 mm long, thick, sparsely appressed-pubescent blond; lamina papyraceous, elliptic-oblong to oblong-obovate, 5–22 (27) cm long, 2–7 (10.5) cm wide, cuneate to subrounded at base, attenuate to ± long-acuminate at apex; upper surface glabrous, lower surface appressed-pubescent, scattered with simple, geminate or fasciculate blond-rust hairs. Lateral veins 7–14 pairs prominent beneath.
 
-397 (1916)．- Pellgrin,BullSoc.Bot.Fr.95 ：14I (1948).— Keay,F.W.T.A.,ed.2,1,I :51 (195r).-Walker et Sillans,Enc.Biol.56 ：65(1961).— Le Thomas,Adansonia,ser.2,2:3o1 (1962).— Paiva,Mem.Soc.Br0t.19:99 (1966).
+Flowers with pedicel 7–15 mm long, thick, widening toward apex, appressed-pubescent blond. Bracteoles 1–2, lanceolate, appressed-pubescent outside, glabrescent inside, very early caducous. Floral bud pyramidal-acute. Sepals lanceolate, subacute, 1–1.5 cm long, silky blond outside, glabrous inside, caducous. Petals yellowish-green, fleshy, ovate-lanceolate, triquetrous, 2–3 cm long, 0.6–1.3 cm wide, obtuse at apex, concave at base and slightly constricted above, densely appressed-pubescent outside, glabrous inside. Stamens subsessile, linear-oblong, 2–3 mm long, 0.3–0.6 mm wide, connectives truncate-capitate, far exceeding the anthers. Carpels cylindric, ovaries pubescent blond, 2–3 mm long, ± lagenifor or curved, stigmas oblong or capitate.
 
-Arbre de 12-3o m de hauteur et 4o-7o cm de diamétre;écorce jaune safran uni； ramills greles, pubescentes á poils simples, géminés ou fasciculés blond-roux；rameaux glabres.Entreneuds longs de o,5-2,5 cm. Bourgeons foliaires allongés, velus, couverts de longs poils blonds soyeux. Feuilles ä pétiole long de 3-1o mm, épais，éparsement apprimé-pubescent blond； limbe papyracé, elliptique-oblong a oblong-obové，long de 5-22 (27） cm，large de 2-7 (1o,5) cm，cunéiforme ä subarrondi a la base,atténué a ±longuement acuminé au sommet；face supérieure glabre,face inférieure pubescente-apprimée, clairsemée de poils simples,géminés ou fasciculés blond roux. Nervures latérales 7-14 paires proéminentes en dessous.
-
-Fleurs a pédicelle long de 7-15 mm,épais, s'élargissant vers le sommet,pubescent-apprimé blond.Bractéoles 1-2, lanceolées, pubescentes-apprimées â l'extérieur， glabrescentes a l'intérieur, tres tot caduques.Bouton floral pyramidal aigu. Sépales lancéolés, subaigus, longs de I-1,5 cm，soyeux blonds á l'extérieur,glabres â l'intérieur， caducs. Pétales jaune verdatre，charnus，ovéslancéolés, triquetres,longs de 2-3 cm,larges de o,6-1,3 cm,obtus au sommet, concaves a la base et légerement étranglés au-dessus, densément apprimés-pubescents â 'extérieur,glabres ä 'intérieur. Etamines subsessiles, linéaires-oblongues, longues de 2-3 mm, larges de o,3-o,6 mm, connectifs tronqués-capités, dépassant largement les antheres. Carpelles cylindriques,ovaires pubescents blonds,longs de 2-3 mm，± lagéniformes ou courbes,stigmates oblongs ou capites.
-
-Fruits á pédicelle épais, long de 1,5-2 cm,s'élargissant fortement vers le sommet, pubérulent; méricarpes nombreux a maturité, ovoides-oblongs, longs de 2,5-2,8 cm, larges de 1-1,3 cm， noirs sur le sec, glabres; stipes longs de 2-3 (4) cm, glabrescents. Graines ellipsoides,longues de 1,8-2,5 cm, larges de 8-1o mm.
+Fruits with pedicel thick, 1.5–2 cm long, strongly widening toward apex, puberulent; mericarps numerous at maturity, ovoid-oblong, 2.5–2.8 cm long, 1–1.3 cm wide, black when dry, glabrous; stipes 2–3 (4) cm long, glabrescent. Seeds ellipsoid, 1.8–2.5 cm long, 8–10 mm wide.
 
 ## Type
 
@@ -40,17 +36,15 @@ Thomson, Old Calabar, Nigeria du Sud (holotype K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree fairly frequent in the understory of dense humid forest, but generally not abundant. It is distributed from southern Nigeria to Angola (Cabinda) and Congo-Kinshasa.
 
-Arbre assez fréquent dans les sous-bois de forét dense humide, mais en général peu abondant. Il est répandu de la Nigeria du Sud a l'Angola(Cabinda) et au Congo-Kinshasa.
+It is easily recognizable by its saffron-yellow bark which is used to dye mats and fabrics as well as to make partitions and doors for African dwellings. The wood is used for making paddles. The sap contains a high percentage of berberine which confers certain medicinal and organoleptic properties on it.
 
-Il est facilement reconnaissable par son écorce jaune safran qui sert a teindre les nattes et les tissus ainsi qu'a faire des cloisons et des portes pour les habitations des Africains.Le bois est utilisé pour la confection de pagaies.La seve contient un fort pourcentage de Berbérine qui lui confert certaines propriétés médicinales et organoleptiques.
-
-Nom commercial : Moambe jaune.
+Trade name: Moambe jaune.
 
 ## Vernacular names
 
-Muamba mbangué (Bayaka), Ouphol (Pahouin)，Ogoha (Gallois)，Mfol (Fang)
+Muamba mbangué (Bayaka), Ouphol (Pahouin),Ogoha (Gallois),Mfol (Fang)
 
 ## Specimens examined
 

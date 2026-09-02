@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Wageningen Agric. Univ. Papers 91(6) : 191, pl. 2 (1992). Épiphyte ; tige rampante, atteignant 2 m de longueur. Stipules étroitement triangulaires, 9–15 × 2–5 mm. Feuilles : pétiole de 6–16 cm ; limbe pelté , à peu près équilatéral, ovale, 5,5–15 × 3,5–11 cm, 5–7-palmatinerve , base arrondie à subcordée, sommet brièvement acuminé, bords entiers, dessus vert sombre parsemé d’écailles gris-argentées , vert ou teinté de pourpre dessous. Inflorescence unisexuée ; les ♂ 1–2-flores, pédoncule 8–15 mm, les ♀ 1-flores, pédoncule 2,5–7 mm. Fleur ♂ : pédicelle atteignant 5 mm ; tépales externes largement ovales à suborbiculaires, 5–6 mm de diamètre, les internes plus petits, obovales à étroitement obovales, 4–5 × 2 mm ; androcée zygomorphe, étamines environ 45, fasciculées, parties libres des filets 0,3–1,5 mm, anthère déhiscente par 2 pores apicaux cachés sous le sommet encapuchonnant . Fleur ♀ subsessile ; tépales semblables à ceux des fleurs ♂, les internes plus petits, 3 × 1,2 mm ; ovaire courbé, 10–12 mm de longueur, section circulaire, 3 mm de diamètre ; styles 2 (en culture aussi 3 ou 4), partie libre bifide au sommet, zone stigmatique en forme de fer à cheval, à extrémités spiralées. Infrutescence à 1 fruit. Fruit atteignant 20 mm de longueur, déhiscent par 1 ou 2 fentes longitudinales.
+Wageningen Agric. Univ. Papers 91(6) : 191, pl. 2 (1992). Epiphyte; stem creeping, reaching 2 m in length. Stipules narrowly triangular, 9–15 × 2–5 mm. Leaves: petiole 6–16 cm; blade peltate, approximately equilateral, ovate, 5.5–15 × 3.5–11 cm, 5–7-palmatinerved, base rounded to subcordate, apex shortly acuminate, margins entire, upper surface dark green scattered with grey-silvery scales, green or tinged with purple beneath. Inflorescence unisexual; the ♂ 1–2-flowered, peduncle 8–15 mm, the ♀ 1-flowered, peduncle 2.5–7 mm. ♂ Flower: pedicel reaching 5 mm; outer tepals broadly ovate to suborbicular, 5–6 mm in diameter, the inner ones smaller, obovate to narrowly obovate, 4–5 × 2 mm; androecium zygomorphic, stamens approximately 45, fasciculate, free parts of filaments 0.3–1.5 mm, anther dehiscing by 2 apical pores hidden beneath the hooded apex. ♀ Flower subsessile; tepals similar to those of ♂ flowers, the inner ones smaller, 3 × 1.2 mm; ovary curved, 10–12 mm in length, circular in section, 3 mm in diameter; styles 2 (in cultivation also 3 or 4), free part bifid at the apex, stigmatic zone horseshoe-shaped, with spiralled ends. Infructescence 1-fruited. Fruit reaching 20 mm in length, dehiscent by 1 or 2 longitudinal slits.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, endémique des Monts de Cristal et du Massif du Chaillu
+Gabon, endemic to the Monts de Cristal and the Chaillu Massif
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses ombrophiles ; 200–600 m d’altitude. B : Arends (1992), de Wilde (2002). IBLIOGRAPHIE Sommet d’une inflorescence ♂ (× ½). – 10-12. Androcée de face, de dos et de profil (× 4). – 13-15. Étamine de la base de l’androcée, face, dos et profil (× 8). – 16, 17. Idem, du sommet de l’androcée, face et dos (× 8). – 18. Contour de la section transversale du sommet du pétiole (× 2,5). – 19. Poils du pétiole (× 24). – 20. Poils du limbe (× 24). – 21. Idem, détail. – 22. Section transversale du milieu de l’ovaire (× 6,5). – 23, 24. Idem, sections schématiques en remontant vers le sommet. – 25. Fruit (× 0,8). – 26. Idem, fruit mûr à déhiscence longitudinale (× 0,8). – 27. Ovule et fixation au placenta (× 16). – 28. Graine, idem (× 16). (1-24, 26-28 : Breteler & de Wilde 335 , herbier, plante cultivée et conservée en alcool ; 25 : de Wilde et al. (1983) 158 ) . Dessin par I Z , Herbier KE EWALD National des Pays-Bas – Wageningen branche
-
-<!-- caption: Planche 44. Begonia kisuluana : 1. Portion de rameau feuillé (× ½). – 2. Détail de l’indument à côté de la médiane, face supérieure du limbe (× 5). – 3. Rameau avec inflorescences ♂ (× ½). – 4. -->
+Dense ombrophilous forests; 200–600 m elevation. B: Arends (1992), de Wilde (2002). BIBLIOGRAPHY Summit of a ♂ inflorescence (× ½). – 10-12. Androecium front, back and profile (× 4). – 13-15. Stamen from the base of the androecium, front, back and profile (× 8). – 16, 17. Idem, from the summit of the androecium, front and back (× 8). – 18. Outline of the transverse section of the summit of the petiole (× 2.5). – 19. Hairs of the petiole (× 24). – 20. Hairs of the blade (× 24). – 21. Idem, detail. – 22. Transverse section of the middle of the ovary (× 6.5). – 23, 24. Idem, schematic sections ascending towards the summit. – 25. Fruit (× 0.8). – 26. Idem, ripe fruit with longitudinal dehiscence (× 0.8). – 27. Ovule and attachment to the placenta (× 16). – 28. Seed, idem (× 16). (1-24, 26-28: Breteler & de Wilde 335, herbarium, cultivated plant and preserved in alcohol; 25: de Wilde et al. (1983) 158). Drawing by I Z, National Herbarium – Wageningen, Kew Herbarium, Netherlands branch
 
 ## Notes
 

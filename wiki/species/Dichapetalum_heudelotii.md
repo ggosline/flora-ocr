@@ -16,59 +16,56 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(the synonymy appears under the varieties)
 
-(la synonymie figure sous les variétés)
+Liana, lianescent shrub, shrub or small tree. Trunk, diameter ≤ 5 cm; bark in general fairly smooth with small and scarcely visible lenticels. Wood cylinder entire or ± deeply lobed; wood hard. Branchlets glabrous or glabrescent, distinctly lenticellate or not. Young branchlets, like the leaves, hispid, hirsute, tomentose or villous with sometimes long and short hairs mixed, subsequently glabrescent rapidly or not.
 
-Liane, arbuste lianescent, arbuste ou petit arbre. Tronc, diamètre $\leq$ 5 cm ; écorce en général assez lisse et lenticelles petites et peu visibles. Cylindre ligneux entier ou $\pm$ profondément lobé ; bois dur. Rameaux glabres ou glabrescents, nettement lenticellés ou non. Jeunes rameaux, comme les feuilles, hispides, hirsutes, tomenteux ou villeux avec parfois des poils longs et courts mélangés, ensuite glabrescents rapidement ou non.
+Stipules triangular to subulate, 2) 3–7 (10) mm long, incurved or not, pubescent like the young branchlets, with sometimes glandular warts on the margins, caducous and often very early.
 
-Stipules triangulaires à subulées, longues de (2) 3-7 (10) mm, incurvées ou non, pubescentes comme les jeunes rameaux, avec parfois des verrues glanduleuses sur les marges, caduaques et souvent très tôt.
+Leaves shortly petiolate. Petiole subcylindric, (0) 1–4 (6) mm; indumentum like that of the young branchlets but, usually more persistent. Blade obovate-elliptic and often narrow, sometimes oblong, size very variable (4) 8–20 (46) × (1.5)3–8 (20) cm, 2–3.5 (7) times longer than wide (Pl. 27, p. 103); base rounded to cordate and oblique or not, often subauricate, rarely cuneate; acumen in general present ≤ 2.5 cm, rounded or acute, acumen mucronate, otherwise, in general very glandular beneath, entirely villous-tomentose to velvety-hispid when young, then early glabrescent at least above; indumentum often more persistent on the primary venation (I and II), as well as on the entire lower surface, especially if it is villous-tomentose; nerve I impressed above; the (6) 7–11 (15) pairs of nervures II not or slightly impressed above and very scarcely visible even in the latter case, but prominent and easy to see below; nerve III prominent or not on the lower surface; glands present only below, scattered, or more often, especially along nerve I, more numerous near the base and/or on the acumen, scarcely or very visible.
 
-Feuilles courtemment pétiolées. Pétiole subcylindrique, (0) 1-4 (6) mm ; indumentum comme celui des jeunes rameaux mais, habituellement plus persistant. Limbe obové-elliptique et souvent étroit, parfois oblong, taille très variable (4) 8-20 (46) × (1,5)3-8 (20) cm, 2-3,5 (7) fois plus long que large (Pl. 27, p. 103) ; base arrondie à cordée et oblique ou non, souvent subauriculée, rarement cunée ; acumen en général présent ≤ 2,5 cm, arrondi ou aigu, acumen mucroné, sinon, en général très glanduleux dessous, entièrement villeux-tomenteux à velouté-hispide à l'état jeune, puis tôt glabrescent au moins dessus ; indumentum souvent plus persistant sur la grande nervation (I et II), ainsi que sur toute la face inférieure, surtout s'il est villeux-tomenteux ; nervure I imprimée dessus ; les (6) 7-11 (15) paires de nervures II non ou légèrement imprimées dessus et très peu visibles même dans ce dernier cas, mais proéminentes et faciles à voir dessous ; nervure III proéminentes ou non à la face inférieure ; glandes présentes seulement dessous, dispersées, ou plus souvent, surtout le long de la nervure I, plus nombreuses près de la base et/ou sur l'acumen, peu ou très visibles.
+Inflorescences, glomerules few- to many-flowered, sometimes grouped on axillary leafless shoots or leafless parts (thus not axillate by the leaves), in general sessile, sometimes shortly pedunculate and/or with a single clear branching (var. heudelotii and var. ndongense). Peduncle exceptionally ≤ 2 cm long (var. heudelotii), ± pubescent like the young branchlets. Bracts and bracteoles very small ovate-triangular to elliptic, 1–2 (3) mm long; external surface pubescent like the calyx, internal surface glabrous or nearly so. Pedicel 0–3 (4) mm, upper part absent or very short ≤ 0.5 mm.
 
-Inflorescences, glomérules pauci- à pluriflores, parfois groupées sur des pousses axillaires aphylles ou des parties aphylls (donc non axillées par les feuilles), en général sessiles, parfois courtemment pédonculées et/ou avec une seule ramification nette (var. heudelotii et var. ndongense). Pédoncule exceptionnellement long de ≤ 2 cm (var. heudelotii), ± pubescent comme les jeunes rameaux. Bractées et bractéoles très petites ovées-triangulaires à elliptiques, longues de 1-2 (3) mm ; face externe pubescente comme le calice, interne glabre ou presque. Pédi-celle 0-3 (4) mm, partie supérieure absente ou très courte ≤ 0,5 mm.
+Flowers sessile or shortly pedicellate. Sepals erect, spreading or reflexed, free, or united by their base over 2/3 of their length, ovate-elliptic to oblong-obovate, (1.5) 2–5 × 0.5–1.5 mm; apex acute to obtuse; external surface tomentose-hirsute to hispid-subscarabrous; internal surface puberulent-tomentulose especially in the upper part. Petals erect or nearly so of general obovate-spatulate form, (2) 2.5–6 (8) mm long, shortly cleft over ≤ 1.5 mm, free or base united by their base to the filaments over ≤ 5 mm; internal surface glabrous; external surface in general with a few appressed hairs on and/or beneath the lobes. Stamens erect, most often subequal to the petals, glabrous; anthers broadly ovoid-ellipsoidal, ≤ 0.5 mm long, connective prominent.
 
-Fleurs sessiles ou courtement pédicellées. Sépales dressés, étalés ou réfléchis, libres, ou réunis par leur base sur les 2/3 de leur longueur, ovés-elliptiques à oblongs-obovés, (1,5) 2-5 × 0,5-1,5 mm ; sommet aigu
+Staminodes subquadrate to oblong, ≤ 0.5 × 0.5 mm, flattened to somewhat thickened, apex obtuse to somewhat bilobed, exterior glabrous, interior often pubescent. Pistil (1.2) 2–7 (8) mm long, (2–) 3 (–4)-merous; ovary velvety subspherical; style short (2–) 3 (–4)-lobed, glabrous or pubescent especially towards the base.
 
-à obtus ; face externe tomenteuse-hirsute à hispide-subscabre ; face interne pubérulente-tomentelleuse surtout à la partie supérieure. Pétales dressés ou presque de forme générale obvée-spatulée, longs de (2) 2,5-6 (8) mm, courtement fendus sur ≤ 1,5 mm, libres ou base soudés par leur base aux filets sur ≤ 5 mm ; face interne glabre ; face externe en général avec quelques poils apprimés sur et/ou sous les lobes. Étamines dressées, le plus souvent subégales aux pétales, glabres ; anthères largement ovoïdes-ellipsoïdales, longues de ≤ 0,5 mm, connectif proéminent.
+Fruits, form and size variable, ≤ 5 × 3.5 cm, with or without short apicule, 1–3 (4?)-seeded (abortive locules marked by a ridge or projection), villous-tomentose to velvety or hispid, sometimes mixture of long and short hairs; the 1-seeded fruits: spherical to ellipsoidal, 1.3–5 × 0.7–3.5 cm; exocarp with or without prominent veins (see note p. 000), 1–5 mm thick; mesocarp 1–5 mm thick, adherent to the endocarp; endocarp parchment-like, fibrous, interior smooth, tightly applied against the seed in mature fruits when fresh. Seeds subspherical to ellipsoidal, straight or somewhat curved and often somewhat laterally compressed, 1–3 × 0.6–1.7 cm; testa fine, brown, shiny; hilum 0.5–2 cm long.
 
-Staminodes subcarrés à oblongs, ≤ 0,5 × 0,5 mm, aplatis à un peu épaissis, sommet obtus à un peu bilobé, extérieur glabre, intérieur souvent pubescent. Pistil long de (1,2) 2-7 (8) mm, (2-) 3 (-4)-mère ; ovaire velouté subsphérique ; style court (2-) 3 (-4)-lobé, glabre ou pubescent surtout vers la base.
+Seedling provided with a vigorous taproot; epicotyl ≤ 9 cm long, hispidulous; first leaves alternate smaller than the following, relatively wider than adult leaves, pubescence scattered velvety-hispid.
 
-Fruits, forme et taille variables, ≤ 5 × 3,5 cm, avec ou sans apicule court, 1-3 (4?)-spermes (loges avortées marquées par une crête ou une saillie), villeux-tomenteux à veloutés ou hispides, parfois mélange de poils longs et courts; les fruits 1-spermes : sphériques à ellipsoïdaux, 1,3-5 × 0,7-3,5 cm ; exocarpe avec ou sans veines proéminentes (voir note p. 000), épais de 1-5 mm ; mésocarpe épais de 1-5 mm, adhérent à l'endocarpe ; endocarpe parcheminé, fibreux, intérieur lisse, étroitement appliqué contre la graine dans les fruits mûrs à l'état frais. Graines subsphériques à ellipsoïdales, droites ou un peu courbées et souvent un peu comprimées latéralement, 1-3 × 0,6-1,7 cm ; tcsta fin, brun, brillant ; hile long de 0,5-2 cm.
+During the preparation of the provisional key published in 1973, it proved difficult to separate D. heudelotii from the closest species and I wrote then: "it is very close to D. glomeratum, D. hispidum, and D. longitubulosum and it is sometimes difficult to separate it from these species". With regard to D. ndongense, I noted: "this species is so close to D. heudelotii that it can scarcely be distinguished except by its smaller flowers". These conclusions were based on a detailed study of numerous specimens; several collections obtained since then have made it possible to confirm these conclusions while leaving a certain dissatisfaction, such as the impossibility of determining the sterile material of these species, D. glomeratum excepted. In other groups whose species are very close, one could always identify the sterile material in a fairly satisfactory manner, whereas in the case of D. heudelotii and the closest species, this remained impos-
 
-Plantule pourvue d’une vigoureuse racine pivotante ; épicotyle long de ≤ 9 cm, hispiduleux ; premières feuilles alternes plus petites que les suivantes, relativement plus larges que les feuilles adultes, pubescence éparse veloutée-hispide.
+sible for very numerous specimens and in fact for the majority of sterile collections.
 
-Lors de la préparation de la clé provisoire publiée en 1973, il s'avéra difficile de séparer D. heudelotii des espèces les plus proches et j'écrivis alors : « elle est très proche de D. glomeratum, D. hispidum, et D. longitubulosum et il est parfois difficile de la séparer de ces espèces ». En ce qui concerne D. ndongense, je notai : « cette espèce est si affine de D. heudelotii qu'on ne peut guère la distinguer que par ses fleurs plus petites ». Ces conclusions étaient fondées sur une étude détaillée de nombreux spécimens ; plusieurs récoltes acquises depuis lors ont permis de confirmer ces conclusions tout en laissant demeurer une certaine insatisfaction comme l'impossibilité de déterminer le matériel stérile de ces espèces, D. glomeratum exceptée. Dans d'autres groupes dont les espèces sont très affines, on pouvait toujours identifier le matériel stérile de manière assez satisfaisante, alors que dans le cas de D. heudelotii et des espèces les plus proches, cela demeurait impos-
+On the other hand, the "heudelotii" complex and the "staudtii" complex, impossible to separate satisfactorily by floral characters, are distinguished fairly easily by their vegetative characters:
 
-sible pour de très nombreux spécimens et en fait pour la majorité des récoltes stériles.
+Leaf acumen with a clear mucron, otherwise lower surface of the leaf at least furnished with large well-visible glands along the costa, particularly near the base and/or on the acumen or at the apex ..... "heudelotii" complex
+Leaf acumen without a clear mucron, in general broad and obtuse; glands usually smaller than the above ..... "staudtii" complex
 
-Par contre le complexe « heudelotii » et le complexe « staudtiii », impossibles à séparer de manière satisfaisante par les caractères floraux, se distinguent assez facilement par leurs caractères végétatifs :
+The "heudelotii" complex, which appears to be a single entity on the vegetative level, can by certain relatively unimportant reproductive characters of the flower, be divided into four taxa, which in my view should be treated rather as varieties than as species (BRETELER 1979).
 
-Acumen foliaire avec un mucron net, sinon face inférieure de la feuille au moins munie de grandes glandes bienvisibles le long de la costa, particulièrement près de la base et/ou sur l'acumen ou à l'extrémité ..... complexe « heudelotii » Acumen foliaire sans mucron net, en général large et obtus ; glandes habituellement plus petites que les précédentes ..... complexe « staudti »
+KEY TO VARIETIES
 
-Le complexe « heudelotii », qui parait être une seule entité sur le plan végétatif, peut par certains caractères reproducteurs relativement peu importants de la fleur, être divisé en quatre taxa, qui devaient à mon sens être traités plutôt comme des variétés que comme des espèces (BRETELER 1979).
+1. Petals 2–3 (3.5) mm long, stamens 1.5–2.5 (3) mm, pistil 1.2–2.5 mm; fruit in general hispid or velvety ..... var. ndongense
 
-CLÉ DES VARIÉTÉS
+1. Petals and stamens (3) 3.5–6 (8) mm long, pistil (3.5) 4–7 (8) mm long; fruit villous-tomentose to hispid:
 
-1. Pétales longs de 2-3 (3,5) mm, étamines de 1,5-2,5 (3) mm, pistil de 1,2-2,5 mm ; fruit en général hispide ou velouté ..... var. ndon
+2. Petals free or nearly so; fruits ordinarily tomentose or villous var. heudelotii
 
-1. Pétales et étanines longs de (3) 3,5-6 (8) mm, pistil long de (3,5) 4-7 (8) mm ; fruit de villeux-tomenteux à hispide :
-
-2. Pétales libres ou presque ; fruits ordinairement tomenteux ou villeux var. heudelotii
-
-2'. Pétales soudés aux filets en un tube haut de 1-3,5 mm ; fruits ordinairement hispides ..... var. hispidum
+2'. Petals united to the filaments in a tube 1–3.5 mm high; fruits ordinarily hispid ..... var. hispidum
 
 24a. var. heudelotii
 
-Fl. Mayombe1in Mém. Soc. Linn. Norm. 26 2): 56, quoad Le Testu 1422 (1924); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1(2): 324 (1928); KEAY, FWTA, ed. 2, 1 (2): 438 (1958); BRE-TELER, MLW 73 (13): 43, 44, 61 (1973); l.c. 78 (10): 22, 30, 32, 70, 81 (1978); l.c. 79 (16): 21, 23-33, 38, 41, 58, 74 (1979); l.c. 81 (10): 10, 55, 64, 86 (1981); l.c. 82 (8): 4, 25, 34, 39, 74, 81, (1982); AUWP 86(3): 2, 12, 13, 32, 38, 39 (1986).
+Fl. Mayombé in Mém. Soc. Linn. Norm. 26 (2): 56, quoad Le Testu 1422 (1924); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1(2): 324 (1928); KEAY, FWTA, ed. 2, 1 (2): 438 (1958); BRETELER, MLW 73 (13): 43, 44, 61 (1973); l.c. 78 (10): 22, 30, 32, 70, 81 (1978); l.c. 79 (16): 21, 23–33, 38, 41, 58, 74 (1979); l.c. 81 (10): 10, 55, 64, 86 (1981); l.c. 82 (8): 4, 25, 34, 39, 74, 81 (1982); AUWP 86(3): 2, 12, 13, 32, 38, 39 (1986).
 
-- Chailletia heudelotii PLANCHON ex OLIVER, FTA 1: 344 (1868). TYPE : Sénégambia, Heudelot 770 (lecto-, K ; isolecto-, G, P, WAG).
+– Chailletia heudelotii PLANCHON ex OLIVER, FTA 1: 344 (1868). TYPE: Senegambia, Heudelot 770 (lecto-, K; isolecto-, G, P, WAG).
 
-– Dichapetalum varians PELLEGRIN, Not. Syst. 2 : 275 (1912) ; Bull. Soc. Bot. Fr. 59 ; 647 (1913) ; Fl. Mayombé 1 in Mém. Soc. Linn. Norm. 26 (2) : 59 (1914). TYPE : Gabon, environs de Libreville, Klaine 1473 (lecto-, P ; iso-, WAG).
+– Dichapetalum varians PELLEGRIN, Not. Syst. 2: 275 (1912); Bull. Soc. Bot. Fr. 59: 647 (1913); Fl. Mayombé 1 in Mém. Soc. Linn. Norm. 26 (2): 59 (1914). TYPE: Gabon, environs of Libreville, Klaine 1473 (lecto-, P; iso-, WAG).
 
-(pour les nombreux synonymes en majorité du Zaïre, voir BRETELER 1979 : 28-29)
+(for the numerous synonyms mostly from Zaïre, see BRETELER 1979: 28–29)
 
-Pl. 28, 1-6, p. 105.
+Pl. 28, 1–6, p. 105.
 
 ## Type
 
@@ -80,33 +77,29 @@ Ledermann 6296, près de Ndonge, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+West and Central Africa
 
-Afrique occidentale et centrale
+Cameroon, Gabon, Angola
 
-Cameroun, Gabon, Angola
-
-Afrique occidentale et centrale
+West and Central Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ombrophilous forests and forest galleries
 
-forêts ombrophiles et galeries forestières
+evergreen and semi-deciduous ombrophilous forests
 
-forêts ombrophiles sempervirentes et semi-décidues
+from ombrophilous forests to forest galleries
 
-des forêts ombrophiles aux galeries forestières
-
-Breteler 6885, 70 km S.S.O. de Moanda (fl., j. fr., Oct.); 6962, 60 km S.S.O. de Moanda (j. fr., Oct.); 6984, 15 km S.S.E. de Pana (j. fr., Oct.).
+Breteler 6885, 70 km S.S.W. of Moanda (fl., j. fr., Oct.); 6962, 60 km S.S.W. of Moanda (j. fr., Oct.); 6984, 15 km S.S.E. of Pana (j. fr., Oct.).
 
 Breteler & de Wilde 517, km 40 La Lara-Makokou (fl., Sept.); 534, Bélinga (j. fr., Sept.); 595 (j. fr., Sept.).
 
-Klaine 269, s.l. (fl., Août); 1904 environs de Libreville (fl., Sept.); 3042 bis (fl., Sept.).
+Klaine 269, s.l. (fl., Aug.); 1904 environs of Libreville (fl., Sept.); 3042 bis (fl., Sept.).
 
 Le Testu 7561, Lastoursville (fl., Oct.); 8475 (fl., Oct.).
 
-Louis & al. 770, 50 km au S.E. d’Achouka (fl., Nov.); 1331, 32 km au SE de Sindara (fl., fr., Déc.).
+Louis & al. 770, 50 km to the S.E. of Achouka (fl., Nov.); 1331, 32 km to SE of Sindara (fl., fr., Dec.).
 
 ## Specimens examined
 

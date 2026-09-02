@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 119 (1916); KEAY, FWTA, ed. 2, 1: 607 (1958); AUBRÉV., FFCI, ed. 2, 1: 78, tab. 14, fig. A (1959). - F. dicranostyla MILDBR. var. nitida HUTCH., l.c.: 120 (1916), descr. angl. LECTOTYPE: Chevalier 8598, Centrafrique, Sarras Goundi District (K; iso-, P).
 
-Arbres ou arbustes, habituellement hauts jusqu'à 6 m environ, parfois jusqu'à 20 m environ. Rameaux feuillés épais de 2-5 mm, ±
+Trees or shrubs, usually reaching up to about 6 m in height, sometimes up to about 20 m. Leafy branchlets 2-5 mm thick, ± densely pubescent white to puberulent, pale brown to dark reddish-brown when dry. Leaves arranged in spirals, often tending to be distichous. Blade elliptic-oblong to sulovate or ovate, sometimes lanceolate, (2-) 5-20 cm long, (1-) 2-9 cm wide, papyraceous to subcoriaceous, apex acuminate, sometimes subacute, base obtuse to acute or (sub)cordate, sometimes tending towards the oblique, margin entire to subentire (often (tri-)lobed on young plants), upper surface scabrous with scattered hairs, sometimes rather dense, white, very small, stiff, puberulent to hirtellous or shortly pubescent on the main veins and especially on the midvein, lower surface with pubescence similar to that of the upper surface but often denser; veins weakly prominent to plane above, prominent below; 5-8 (-9) pairs of secondary veins, including 1-2 pairs of basal veins; glandular dot occasionally visible. Petiole 1-3.5 cm long, 1-2 mm thick, densely white pubescent to tomentose or hirtellous. Stipules free, 0.5-1.5 cm long, white puberulent to pubescent, mixed with longer hairs in the middle and at the base, caducous.
 
-densément pubescents blancs à pubérulents, marron pâle à marron rouge sombre sur le sec. Feuilles disposées en spirales, souvent tendant à être distiques. Limbe elliptique-oblong à subové ou ové, parfois à lancéolé, long de (2-) 5-20 cm, large de (1-) 2-9 cm, papyracé à subcoriace, sommet acuminé, parfois subaigu, base obtuse à aiguë ou à (sub) cordée, parfois tendant vers l'oblique, bord entier à subentier (souvent (tri-) lobé sur les jeunes plantes), face supérieure scabre avec des poils épars, parfois plutôt denses, blancs, très petits, raides, pubé-rulente à hirtelleuse ou courtement pubescente sur les nervures principales et spécialement sur la nervure médiane, face inférieure avec une pubescence semblable à celle de la face supérieure mais souvent plus dense; nervures faiblement saillantes à planes dessus, saillantes dessous; 5-8 (-9) paires de nervures secondaires, y compris 1-2 paires de nervures basales; tache glanduleuse occasionnellement visible. Pétiole long de 1-3,5 cm, épais de 1-2 mm, densément pubescent blanc à tomenteux ou hirtelleux. Stipules libres, longues de 0,5-1,5 cm, pubé-rulentes blanches à pubescentes, en mélange avec des poils plus longs au milieu et à la base, caduques.
+Figs solitary or in pairs in leaf axils; peduncle 0.3-1 cm long, about 1 mm thick, its pubescence similar to that of the petiole, often a subpersistent "bract" at the base of the peduncle; basal bracts 3, usually in a whorl, sometimes ± scattered on the peduncle or from the peduncle to the receptacle; receptacle subglobose to obovoid, often shortly stipitate when dry, 1-2.5 cm in diameter when fresh, 0.5-1.5 cm when dry, very shortly puberulent white or shortly scabrous, orange-yellow to yellowish-green (with pale spots) at maturity, ostiole weakly prominent to flat.
 
-Figues solitaires ou par paires dans les aisselles foliaires ; pédoncule long de 0,3-1 cm, épais de 1 mm environ, sa pubescence semblable à celle du pétiole, souvent une « bractée » subpersistante à la base du pédoncule ; bractées basales 3, habituellement en un verticille, parfois ± éparpillées sur le pédoncule ou du pédoncule au réceptacle ; réceptacle subglobuleux à obovoide, souvent courtement stipité sur le sec, d'un diamètre de 1-2,5 cm sur le frais, 0,5-1,5 cm sur le sec, très courtement pubérulent blanc ou courtement scabre, orange-jaune à jaunâtre vert (avec des taches pâles) à maturité, ostiole faiblement saillant à plat.
+Pistillate flowers with a perianth 1-2 mm tall, bi- trilobed; seed flowers sessile or with a pedicel reaching 1 mm, style 1.5-2 mm long; gall flowers with a pedicel reaching 3 mm, style 0.5-1 mm long. Fruits ellipsoid (to subglobose) about 1.3 mm long; gall fruits 2-2.2 mm long, stipitate up to 1 mm. Staminate flowers sessile or with a pedicel reaching 1.2 mm, perianth about 1.3 mm tall, bi- trilobed, filament 0.2-0.5 mm long, anther about 0.7 mm long, not apiculate. - Pl. 40, fig. 1-2, p. 145.
 
-Fleurs pistillées avec un périanthe haut de 1-2 mm, bi- trilobé ; fleurs à graines sessiles ou à pédicelle atteignant 1 mm, style long de 1,5-2 mm ; fleurs à galles à pédicelle atteignant 3 mm, style long de 0,5-1 mm. Fruits ellipsoïdes (à subglobuleux) longs de 1,3 mm environ ; fruits à galles longs de 2-2,2 mm, stipités jusqu'à 1 mm. Fleurs staminées sessiles ou à pédicelle atteignant 1,2 mm, périanthe haut de 1,3 mm environ, bi- trilobé, filet long de 0,2-0,5 mm, anthère longue de 0,7 mm environ, non apiculé. - Pl. 40, fig. 1-2, p. 145.
-
-Pollinisateurs : Dolichoris flabellata Wiebes (Ethiopie).
+Pollinators: Dolichoris flabellata Wiebes (Ethiopia).
 
 ## Type
 
@@ -39,17 +35,13 @@ Schimper 1771, Ethiope, Djeladjeranna (holo-, L ; iso-, B, BR, K, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Young material of this species is often confused with F. asperifolia. It can be recognized by the symmetrical blade and the (almost) amplexicaul stipules.
 
-Le matériel jeune de cette espèce est souvent confondu avec F. asperifolia. Il peut être reconnu par le limbe symétrique et les stipules (presque) amplexicaules.
+F. lynesii LEBRUN, described from a collection made in Katanga (Zaire) and also found in northern Zambia, is probably a form of F. dicranostyla. Since this collection is somewhat aberrant and was made in a locality isolated from the main range of F. dicranostyla, F. lynesii is provisionally excluded from the synonymy of F. dicranostyla.
 
-F. lynesii LEBRUN, décrit à partir d'une récolte faite au Katanga (Zaïre) et se trouvant aussi dans le Nord de la Zambie, est probablement une forme de F. dicranostyla. Comme cette récolte est quelque peu aberrante et a été faite dans une localité isolée de l'aire principale de F. dicranostyla, F. lynesii est provisoirement exclu de la synonymie de F. dicranostyla.
+The species extends from Senegal to Ethiopia and to the east of Zaire through northern Cameroon. It is often found in rocky (dry) places, up to an altitude of 1250 m.
 
-L'espèce s'étend du Sénégal à l'Éthiopie et à l'Est du Zaïre à travers le Nord du Cameroun. On la trouve souvent dans des endroits rocheux (secs), jusqu'à une altitude de 1250 m.
-
-L'espèce s'étend du Sénégal au Yemen, à la Somalie à travers l'Ethiopie, et vers le Sud loin dans l'Afrique du Sud, aussi dans la région
-
-saharienne. On la trouve dans les savanes (boisées), jusqu'à une altitude de 2000 m. A rechercher au Gabon.
+The species extends from Senegal to Yemen, to Somalia through Ethiopia, and southwards far into southern Africa, also in the Saharan region. It is found in (wooded) savannas, up to an altitude of 2000 m. To be sought in Gabon.
 
 subgen. Urostigma (Gasparrini) Miquel sect. Galoglychia (Gasparrini) Endlicher
 
@@ -59,33 +51,33 @@ Gen. Pl. Suppl. 4 (2): 35 (1847); CORNER, Gard. Bull. Singapore 17: 375 (1960); 
 
 – Ficus L. subg. Bibracteatae MILDBR. & BURRET, Bot. Jahrb. 46: 175 (1911).
 
-Arbres de pleine terre ou épiphytes (parfois épilithiques) ou arbustes parfois lianescents ou grimpants par des racines crampons. Racines aériennes présentes habituellement. Feuilles disposées en spirales, tendant parfois à être distiques, bord du limbe entier ou quelquefois grossièrement ondulé à lobé, paire basale de nervures latérales distincte ou non, nervation tertiaire souvent réticulée, parfois surtout pennée ou principalement parallèle à travers la surface internervuraire, une seule tache glanduleuse (cireuse) à la base de la nervure médiane. Stipules entièrement amplexicaules, libres ou quelquefois basalement réunies.
+Trees of terrestrial habit or epiphytes (sometimes epilithic) or shrubs sometimes lianescent or climbing by aerial rootlets. Aerial roots usually present. Leaves arranged in spirals, sometimes tending to be distichous, margin of blade entire or sometimes coarsely undulate to lobed, basal pair of lateral veins distinct or not, tertiary venation often reticulate, sometimes chiefly pinnate or mainly parallel across the surface between veins, a single glandular (waxy) dot at the base of the midvein. Stipules entirely amplexicaul, free or sometimes basally connate.
 
-Figues par paires dans les aisselles des feuilles ou juste au-dessous des feuilles ou sur des éperons juste sous les feuilles vers la base des branches principales ou même sur le tronc, pédonculées ou sessiles ; bractées basales normalement 2, parfois 3, ostiole à 2 lèvres ou en forme de fente, toutes les bractées ostiolaires descendantes, bractées interflorales normalement présentes.
+Figs in pairs in leaf axils or just below the leaves or on spurs just below the leaves towards the base of the main branches or even on the trunk, pedunculate or sessile; basal bracts normally 2, sometimes 3, ostiole 2-lipped or slit-shaped, all ostiolar bracts descending, interfloral bracts normally present.
 
-Fleurs staminées dispersées sur le réceptacle. Fleurs à graines et fleurs à galles distinctes ou à peine distinctes. Périant the avec 2-4, tépales libres ou basalement soudés, glabres. Étamine 1. Stigmates normalement non divisés, allongés et cohérents. Fruit unicolore ou bicolore, la couche externe de la partie supérieure pâle souvent mucilagineuse quand il est distinctement bicolore.
+Staminate flowers scattered on the receptacle. Seed flowers and gall flowers distinct or barely distinct. Perianth with 2-4 tepals free or basally connate, glabrous. Stamen 1. Stigmas normally undivided, elongate and coherent. Fruit unicolorous or bicolorous, the outer layer of the upper part often mucilaginous when distinctly bicolorous.
 
-Pollinisateurs : espèces des genres Agaon, Alfonsiella, Allotriozoon, Elisabethiella, et Nigeriella.
+Pollinators: species of the genera Agaon, Alfonsiella, Allotriozoon, Elisabethiella, and Nigeriella.
 
-En Afrique continentale environ 65 espèces de forêt dense humide et de zones de savanes, quelques-unes dans les forêts de montagnes. Au Gabon 31 espèces trouvées.
+In continental Africa about 65 species in wet dense forest and savanna zones, a few in mountain forests. In Gabon 31 species found.
 
-GROUPE DU FICUS TRICHOPODA
+FICUS TRICHOPODA GROUP
 
-Habituellement arbres petits à moyens, terrestres ou d'abord épiphytes. Feuilles (pétiole (et) (ou) limbe dessous) (et) (ou) figues pubes-centes à tomenteuses sur les rameaux feuillés. Limbe ové à elliptique, le plus souvent avec une base cordée à tronquée (obové avec une base aiguë pour F. jansii) ; nervures latérales souvent fourchues loin de la marge, nervation tertiaire réticulée ou partiellement parallèle à travers la surface internervuraire. Stipules caduques, spécialement sur les pousses relativement longues à croissance rapide, le plus souvent roses ou rougeâtres.
+Usually small to medium-sized trees, terrestrial or first epiphytic. Leaves (petiole (and) (or) blade below) (and) (or) figs pubescent to tomentose on leafy branchlets. Blade ovate to elliptic, most often with a cordate to truncate base (obovate with an acute base for F. jansii); lateral veins often forked far from the margin, tertiary venation reticulate or partially parallel across the surface between veins. Stipules caducous, especially on relatively long fast-growing shoots, most often pink or reddish.
 
-Figues souvent groupées par plus de 2 ensemble, dans les aisselles des feuilles et le plus souvent aussi sous les feuilles, pédonculées (aussi sessiles dans F. glumosa), petites à moyennes, grandes chez F. recurvata, jaunes à rouges à maturité, ostiole parfois trilobé.
+Figs often grouped in more than 2 together, in leaf axils and most often also below the leaves, pedunculate (also sessile in F. glumosa), small to medium-sized, large in F. recurvata, yellow to red at maturity, ostiole sometimes trilobed.
 
-Fleurs à graines habituellement sessiles. Fleurs staminées habituellement pédicellées. Fruits à galles non stipités. Fruits unicolores, quel-quefois bicolores.
+Seed flowers usually sessile. Staminate flowers usually pedicellate. Gall fruits not stipitate. Fruits unicolorous, sometimes bicolorous.
 
-Pollinisateurs : espèces d'Elisabethiella et Nigeriella.
+Pollinators: species of Elisabethiella and Nigeriella.
 
-Ce groupe s'accorde avec la sect. Platyphylla MILDBR. & BURRET (Bot. Jahrb. 11 : 176, 1911). En Afrique continentale il comprend environ 10 espèces. Deux sont trouvées au Gabon.
+This group corresponds with sect. Platyphylla MILDBR. & BURRET (Bot. Jahrb. 11: 176, 1911). In continental Africa it comprises about 10 species. Two are found in Gabon.
 
-F. abutilifolia MiQ., F. vasta Forssk., F. populifolia VAHL., F. trichopoda et F. platphylla Del. montrent d'étroites parentés morphologiques. F. abutilifolia et les espèces affines ressemblent, spécialement dans leurs parties végétatives, à F. umbellata, F. polita et F. bubu. Les deux espèces de forêt dense humide, F. jansii et F. recurvata, sont très différentes et toutes deux sont reliées, plutôt vaguement, aux autres espèces du groupe de F. trichopoda.
+F. abutilifolia MiQ., F. vasta Forssk., F. populifolia VAHL., F. trichopoda and F. platyphylla Del. show close morphological relationships. F. abutilifolia and related species resemble, especially in their vegetative parts, F. umbellata, F. polita and F. bubu. The two wet dense forest species, F. jansii and F. recurvata, are very different and both are connected, rather vaguely, to the other species of the F. trichopoda group.
 
-Le groupe F. trichopoda paraît être plus proche de la sect. Urostigma qu'aucun des autres groupes d'espèces dans la section Galoglychia.
+The F. trichopoda group appears to be closer to sect. Urostigma than any of the other species groups in section Galoglychia.
 
-La plupart des especes se rencontrent dans les zones de savane, mais F. jansii et F. recurvata sont présentes dans les zones de forêt dense humide.
+Most species are encountered in savanna zones, but F. jansii and F. recurvata are present in wet dense forest zones.
 
 ## Specimens examined
 

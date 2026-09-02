@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A unique specimen different from all other Ecpoma appears to us nevertheless to belong to this genus. We indicate its characters without giving it a name because of the insufficiency of the material.
 
-Un spécimen unique différent de tous les autres Ecpoma, nous paraît cependant appartenir à ce genre. Nous en indiquons les caractères sans lui donner de nom à cause de l'insuffisance du matériel.
+Shrub of 1.20 m with woody stem exceeding 7 mm diam., unbranched. Young internodes velutinous ochraceous. Stipules violet, 40–55 mm long and ca. 8–22 mm wide. Petiole 25–45 mm. Leaves discolorous, dark violet beneath in vivo; upper surface glabrous with the midvein glabrescent. Young leaves violet with silky pubescence beneath. Lamina laurel-shaped, attenuate at both extremities, 15–36 × 3–8 cm; 14–22 pairs of secondary veins ascending to the margin.
 
-Arbrisseau de 1,20 m à tige ligneuse dépassant 7 mm de diam., non ramiﬁée. Jeunes entrencéuds velus ochracés. Stipules violettes de 40-55 mm de long et env. 8-22 mm de large. Pétiole de 25-45 mm. Feuilles discolores violet foncé dessous in vivo; dessus glabre avec la médiane glabrescente. Jeunes feuilles violettes à pilosité soyeuse dessous. Limbe lauriforme atténué aux deux extrémités, de 15-36 × 3-8 cm; 14-22 pairs de nervures secondaires ascendantes jusqu'à la marge.
-
-Vieilles inflorescences de 2,5 cm, multiflores, axillaires aux feuilles inférieures. Pédicelles grèles. Calices pubescents à 5 lobes ciliés atteignant 8-9 mm de long, 0,5 mm de large vers la base et env. 1 mm vers le tiers supérieur. Corolle et fruit inconnus.
+Old inflorescences 2.5 cm, multiflorous, axillary to the lower leaves. Pedicels slender. Calyces pubescent with 5 ciliate lobes reaching 8–9 mm long, 0.5 mm wide toward the base and ca. 1 mm toward the upper third. Corolla and fruit unknown.
 
 ## Specimens examined
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 7(1-10)
 
-Planche 7(1-10)
-
-Arbre atteignant 27 m de hauteur; tronc jusqu'à 68 cm de diamètre (jusqu'à 75 en Guinée-équatoriale), à contreforts; écorce gris foncé, craquelée, écorce interne fibreuse, blanche à orange fonçant rapidement au brun foncé, aubier avec une odeur désagréable (un peu comme certains Beilschmiedia; selon B. Senterre); rameaux pleins, gris et pubescents à l'état jeune. Feuilles groupées à l'extrémité des branches; pétiole 0,8–3,0 cm, poilu ou glabre; limbe obovale, 18–34(-44) × 6–14 cm, cunéé à la base, arrondi ou terminé par un acumen court et obtus au sommet, coriace, vert foncé brillant, glabre ou éparsement poilu dessus, éparsement pubescent à poils courts et raides apprimés dessous; nervures secondaires en 6 à 10 paires, alternes ou subopposées, confluentes avec une courbure arrondie tout près de la marge, nervation tertiaire assez distante, réticulée ou (légèrement) scalariforme. Inflorescence 6–12 × 5–8 cm; rachis à pubescence dense courte; boutons floraux orbiculaires, ±0,5–0,9 cm de diamètre. Fleur: pédicelle 0–1 mm; calice (2–)3- ou 4-lobé, long de ±1 cm, peu densément pubescent à l'extérieur, très densément pubescent à poils soyeux à l'intérieur; corolle blanche ou crème, tube long de ±1 cm, lobes 11 à 14, ovales, longs de ±1 cm, glabres; étamines >20, exsertes, longues de 1,1–1,4 cm, glabres, insérées au-dessus de la base du tube, anthère 1,3–1,5 × 0,3–0,45 mm; ovaire glabre, 1-loculaire; style linéaire, 1,4–2,0 cm, branches stigmatiques 1,3–1,8 cm, à stigmates épaissis de ±2 mm de diamètre. Fruit largement ellipsoïdal, atteignant 2–2,5 cm de longueur et renfermant 4 graines, jaune à maturité.
+Tree reaching 27 m in height; trunk up to 68 cm in diameter (up to 75 in Equatorial Guinea), with buttresses; bark dark grey, fissured, inner bark fibrous, white to orange darkening rapidly to dark brown, sapwood with an unpleasant odour (somewhat like certain Beilschmiedia; according to B. Senterre); branchlets solid, grey and pubescent when young. Leaves clustered at the branch apex; petiole 0.8–3.0 cm, hairy or glabrous; blade obovate, 18–34(–44) × 6–14 cm, cuneate at the base, rounded or terminated by a short and obtuse acumen at the apex, coriaceous, dark green glossy, glabrous or sparsely hairy above, sparsely pubescent with short stiff appressed hairs below; secondary veins in 6 to 10 pairs, alternate or subopposite, confluent with a rounded curvature near the margin, tertiary venation rather distant, reticulate or (slightly) scalariform. Inflorescence 6–12 × 5–8 cm; rachis with dense short pubescence; floral buds orbicular, ±0.5–0.9 cm in diameter. Flower: pedicel 0–1 mm; calyx (2–)3- or 4-lobed, ±1 cm long, sparsely pubescent on the outside, very densely pubescent with silky hairs on the inside; corolla white or cream, tube ±1 cm long, lobes 11 to 14, ovate, ±1 cm long, glabrous; stamens >20, exserted, 1.1–1.4 cm long, glabrous, inserted above the base of the tube, anther 1.3–1.5 × 0.3–0.45 mm; ovary glabrous, 1-locular; style linear, 1.4–2.0 cm, stigmatic branches 1.3–1.8 cm, with thickened stigmas ±2 mm in diameter. Fruit broadly ellipsoid, reaching 2–2.5 cm in length and containing 4 seeds, yellow at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Libéria, Côté d’Ivoire, le sud du Cameroun, Guinée équatoriale et Gabon; au Gabon, observé dans l’Estuaire et dans le Moyen-Ogooué, probablement très rare, et mal connue
+Liberia, Côte d'Ivoire, southern Cameroon, Equatorial Guinea and Gabon; in Gabon, observed in the Estuary and in the Middle-Ogooué, probably very rare, and poorly known
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+dense evergreen lowland forests and secondary forests, river margins; at 0–400 m altitude. Flowering: October to April
 
-forêts dense sempervirente de terre ferme et forêts secondaires, bords de rivière; à 0–400 m d'altitude. Floraison : d'octobre à avril
-
-Usage: Le bois est employé par endroits en charpenterie et en menuiserie.
+Use: The wood is employed locally in carpentry and joinery.
 
 ## Vernacular names
 

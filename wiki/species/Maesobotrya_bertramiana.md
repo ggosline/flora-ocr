@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Waka anisandra Breteler nomen (voir note morphologique). Arbustes à petits arbres de 4–16 m de hauteur ; tronc 8–17 cm de diamètre ; ramilles glabrescentes. Stipule s persistantes ou caduques, asymétriques, falciformes, 3–25 × 1–12 mm, foliacées . Feuille : pétiole 0,5–9 cm ; limbe obovale-elliptique, 3,5–25(–31) × 2–9(–12) cm, cunéiforme à arrondi à la base, acuminé sur 0,5–2 cm, pubescent le long les nervures sur la face inférieure à l’état jeune, glabre à l’état adulte ; nervures latérales 5–11 paires. Inflorescence axillaire , solitaire à ternée, les mâles 3,5–32 cm de longueur, les femelles 2–13 cm, jusqu’à 21 cm en fruit, ± pubescentes ou glabrescentes ; bractées ± triangulaires, ± ciliées au sommet. Fleur mâle 4–5(–6)-mère ; pédicelle 1–2 mm, glabre ; sépales 4–6, 1 mm de longueur ; étamines 4–6(–7), 1–1,5(–2) mm de longueur ; disque et pistillode pileux. Fleur femelle 5–6-mères ; pédicelle 1 mm, 3–5 mm en fruit, pubescent ou glabrescent ; sépales 1–1,5 mm de longueur, ciliés ; disque subentier à lobé ; ovaire 2-loculaire, ovoïde à ellipsoïde, 1,5–2 mm de longueur, glabre. Fruit ellipsoïde, environ 8 × 7 mm, rouge . Graines 1(–2) ; sarcotesta bleu violet.
+Waka anisandra Breteler nomen (see morphological note). Shrubs to small trees 4–16 m tall; trunk 8–17 cm diameter; branchlets glabrescent. Stipules persistent or caducous, asymmetric, falciform, 3–25 × 1–12 mm, foliaceous. Leaf: petiole 0.5–9 cm; blade obovate-elliptic, 3.5–25(–31) × 2–9(–12) cm, cuneate to rounded at base, acuminate over 0.5–2 cm, pubescent along the nerves on the lower surface when young, glabrous when mature; lateral nerves 5–11 pairs. Inflorescence axillary, solitary to ternate, the male ones 3.5–32 cm long, the female ones 2–13 cm, up to 21 cm in fruit, ± pubescent or glabrescent; bracts ± triangular, ± ciliate at the apex. Male flower 4–5(–6)-merous; pedicel 1–2 mm, glabrous; sepals 4–6, 1 mm long; stamens 4–6(–7), 1–1.5(–2) mm long; disk and pistillode pilose. Female flower 5–6-merous; pedicel 1 mm, 3–5 mm in fruit, pubescent or glabrescent; sepals 1–1.5 mm long, ciliate; disk subentire to lobed; ovary 2-locular, ovoid to ellipsoid, 1.5–2 mm long, glabrous. Fruit ellipsoid, approximately 8 × 7 mm, red. Seeds 1(–2); sarcotesta blue-violet.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo et République Démocratique du Congo ; au Gabon, récoltée dans la Ngounié, la Nyanga, l’Ogooué-Ivindo, l’OgoouéLolo et l’Ogooué-Maritime
+Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, collected in Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Primary and secondarized forest; in Gabon, at 0–650 m altitude. Morphological note: Plate 11 shows a specimen collected in the Waka Reserve with male and bisexual flowers on the same inflorescence and with a highly variable number of stamens. Provisionally, the name Waka anisandra was attached to this specimen. The bisexual flowers have petals, sometimes also present in the male flowers. Another specimen with male and female flowers on the same tree, but on different branches, was collected near Gamba in the Ogooué-Maritime province. b: Léonard (1994). Bibliography
 
-forêt primaire et secondarisée ; au Gabon, à 0–650 m d’altitude. Note morphologique : La planche 11 montre un spécimen récolté dans la Réserve de Waka à fleurs mâles et bisexuées sur la même inflorescence et à un nombre d’étamines très variable. Provisoirement, le nom Waka anisandra a été attaché à ce spécimen. Les fleurs bisexuées ont des pétales, parfois aussi présents chez les fleurs mâles. Un autre spécimen à fleurs mâles et femelles sur le même pied, mais sur des branches différentes, a été récolté près de Gamba dans la province de l’Ogooué-Maritime. b : Léonard (1994). ibliographie
-
-Fleur mâle en coupe longitudinale. ‒ I. Fleur hermaphrodite. ‒ J. Fleur hermaphrodite en coupe longitudinale. ‒ K. Partie basale de l’ovaire en coupe longitudinale.– L. Sépales. ‒ M. Disque d’une fleur mâle. ‒ N. Fruit. ‒ O. Fruit en coupe longitudinale. ‒ P. Fruit en coupe transversale. (A ‒ N : Wieringa 5276 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+Male flower in longitudinal section. ‒ I. Hermaphrodite flower. ‒ J. Hermaphrodite flower in longitudinal section. ‒ K. Basal part of the ovary in longitudinal section. ‒ L. Sepals. ‒ M. Disk of a male flower. ‒ N. Fruit. ‒ O. Fruit in longitudinal section. ‒ P. Fruit in transverse section. (A ‒ N: Wieringa 5276). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

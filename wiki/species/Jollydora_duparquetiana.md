@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Drawing (unpublished) by DELPY included in specimen Mann 2309 (1895); PIERRE, Bull. Soc. Linn. Paris 156 : 1233 (1896); GILG, EBJ 23 : 218 (1896); SCHELLENBERG, Mit. Bot. Mus. Univ. Zürich 50 : 69 (1910); EBJ 55 : 456 (1919); PR 103 (4, 127) : 26 (1938); HEPPER, FWTA, ed. 2, 1 (2) : 749 (1958); BRETELER & VAN ZIEL, in BRETELER (ed.), AUWP 89 (6) : 285 (1989).
 
-Dessin (non imprimé) de DELPY inclus dans le spécimen Mann 2309 (1895); PIERRE, Bull. Soc. Linn. Paris 156 : 1233 (1896); GILG, EBJ 23 : 218 (1896); SCHELLENBERG, Mit. Bot. Mus. Univ. Zürich 50 : 69 (1910); EBJ 55 : 456 (1919); PR 103 (4, 127) : 26 (1938); HEPPER, FWTA, ed. 2, 1 (2) : 749 (1958); BRETELER & VAN ZIEL, in BRETELER (éd.), AUWP 89 (6) : 285 (1989).
-
-- Connarus duparquetianus BAILL., Adansonia, sér. 1, 7 : 236 (1867). TYPE : Gabon, s.l., Duparquet 54 (holo-P, voir note).
+- Connarus duparquetianus BAILL., Adansonia, sér. 1, 7 : 236 (1867). TYPE : Gabon, s.l., Duparquet 54 (holo-P, see note).
 
 – Jollydora rufobarbata GILG ex SCHELLENB., Mit. Bot. Mus. Univ. Zürich 50 : 71 (1910).
 
@@ -33,39 +31,33 @@ Duparquet 54, s.n., Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-- Anthagathis monadelphia HARMS, NPF 3 (3), Nachtr. 1 : 195 (1897). NÉOTYPE : Gabon, Forêt de la Mondah, Breteler & de Wilde 387 (WAG. voir note).
+- Anthagathis monadelphia HARMS, NPF 3 (3), Nachtr. 1 : 195 (1897). NEOTYPE : Gabon, Forêt de la Mondah, Breteler & de Wilde 387 (WAG, see note).
 
 – Ebandoua cauliflora PELLEGRIN, Bull. Soc. Bot. Fr. 102: 331 (1955). TYPE: Gabon, Haute Ngounié, Ebandou Dicobi, Le Testu 6307 (holo-P).
 
-Plusieurs nomen du Cameroun dans l'herbier Zenker : voir BRETELER & VAN ZIEL (1989).
+Several nomina from Cameroon in Zenker herbarium: see BRETELER & VAN ZIEL (1989).
 
-Petit arbre général non ramifié, haut de ≈ 8 m, diamètre du tronc 5 cm. Écorce du tronc brun-rouge à gris-jaune, plutôt lisse. Bois rougeâtre à brun pâle.
+Small tree generally unbranched, height ≈ 8 m, trunk diameter 5 cm. Trunk bark brown-red to grey-yellow, rather smooth. Wood reddish to pale brown.
 
-Feuilles. Pétiole long de 4,5-22 cm jaune à rouge-brun devenant souvent grisâtre, pulvinus long de ≤ 2 cm et épais de 12 mm. Rachis long de 7-45 cm, épais de 2-5 mm. Folioles 5-11, papyracées à coriaces, elliptiques à obovées ou oblongues, 10-47 × 3-13 (17) cm, base cunée, acumen long de ≤ 2,5 cm, pétioules longs de 3-10 mm ; médiane légèrement proéminente dessus, nervures latérales 7-18 paires.
+Leaves. Petiole 4.5–22 cm long, yellow to red-brown becoming often greyish, pulvinus ≤ 2 cm long and 12 mm thick. Rachis 7–45 cm long, 2–5 mm thick. Leaflets 5–11, papyraceous to coriaceous, elliptic to obovate or oblong, 10–47 × 3–13 (17) cm, base cuneate, acumen ≤ 2.5 cm long, petiolules 3–10 mm long; midvein slightly prominent above, lateral veins 7–18 pairs.
 
-Inflorescences cauliflores (très rarement à l'aisselle des feuilles) se composant de 1 à quelques racèmes groupés ≤ 7-flores, tomentum rougeâtre ; rachis long de ≤ 2 cm. Pédicelles articulés avec une petite bractée (longue ≤ 1 mm) et 2 bractéoles opposées de ≈ 0,5 mm, partie supérieure longue de > 1mm. Sépales ovés-elliptiques à oblongs, 2-5 ×
+Inflorescences cauliflorous (very rarely at leaf axils) consisting of 1 to a few racemes grouped in ≤ 7-flowered clusters, reddish tomentum; rachis ≤ 2 cm long. Pedicels articulate with a small bract (≤ 1 mm long) and 2 opposite bracteoles ≈ 0.5 mm, upper part > 1 mm long. Sepals ovate-elliptic to oblong, 2–5 ×
 
-PL. 27. - Jollydora spp. - sépale avec le revêtement de sa face externe (× 15) et forme du fruit (× 1) : 1, 4, J. duparquetiana ; 2, 5, J. pierrei ; 3, 6, J. glandulosa. (1. Breteler 9001 ; 2. Klaine 2335 ; 3. Letouzey 13416 ; 4. de Wilde 309 ; 5. Jolly 77 ; 6. Latilo FHI 30923). - Repris de AUWP 89 (6).
+PL. 27. - Jollydora spp. - sepal with the covering of its external face (× 15) and fruit form (× 1) : 1, 4, J. duparquetiana ; 2, 5, J. pierrei ; 3, 6, J. glandulosa. (1. Breteler 9001 ; 2. Klaine 2335 ; 3. Letouzey 13416 ; 4. de Wilde 309 ; 5. Jolly 77 ; 6. Latilo FHI 30923). - Taken from AUWP 89 (6).
 
-1-3 mm, sommet obtus à aigu, pubescence externe apprimée courte, intérieur glabre. - Pl. 27, 1, p. 91. Pétales cohérents dans leur région moyenne, par ailleurs libres, oblongs, 5-9 × 0,8-2 mm, arrondis au sommet, glabres sur les 2 faces. Étamines 10 (rarement 1 manquante); les étamines longues ont 2-5,5 ou 4,5-6,3 mm, les courtes, 1-2,5 ou 2,5-5,5 mm; filets glabres; anthères longues de 0,6 mm. Pistil long de 1-7 mm; ovaire long de 0,7-1,3 mm, pubescent; style long de 0-0,5, 1,5-2,5 ou 2,5-5,5 mm, glabre ou avec un peu de poils; stigmate peu ou non lobé.
+1–3 mm, apex obtuse to acute, external pubescence short appressed, interior glabrous. - Pl. 27, 1, p. 91. Petals coherent in their middle region, elsewhere free, oblong, 5–9 × 0.8–2 mm, rounded at apex, glabrous on both faces. Stamens 10 (rarely 1 missing); the long stamens 2–5.5 or 4.5–6.3 mm, the short ones 1–2.5 or 2.5–5.5 mm; filaments glabrous; anthers 0.6 mm long. Pistil 1–7 mm long; ovary 0.7–1.3 mm long, pubescent; style 0–0.5, 1.5–2.5 or 2.5–5.5 mm long, glabrous or with some hairs; stigma slightly or not lobed.
 
-Fruit obovo-ellipsoïdal à subsphérique, long de 2-4 cm, diamètre 1-2,2 cm, mucroné ou non, courtement mais nettement stipité, jaune à orange ou écarlate à maturité ; péricarpe luisant en surface, épais de 0,5-1 mm, glabre à glabrescent. - Pl. 27, 4, p. 91.
+Fruit obovate-ellipsoid to subspherical, 2–4 cm long, 1–2.2 cm diameter, mucronate or not, shortly but distinctly stipitate, yellow to orange or scarlet at maturity; pericarp shining in surface, 0.5–1 mm thick, glabrous to glabrescent. - Pl. 27, 4, p. 91.
 
-Graine 1-2 par fruit ; testa presque complètement charnu sauf dans une étroite zone située en avant du raphé, épais de 0,5-1,5 mm, blanchâtre seulement là où il est charnu, brun ailleurs. Cotylédons épais et subcornés, radicule minuscule. - Pl. 28, p. 93.
+Seed 1–2 per fruit; testa almost completely fleshy except in a narrow zone situated in front of the raphe, 0.5–1.5 mm thick, whitish only where fleshy, brown elsewhere. Cotyledons thick and subcartilagenous, radicle minute. - Pl. 28, p. 93.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de l'Est du Nigéria à l'Angola (Cabinda)
+from eastern Nigeria to Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et vieilles forêts secondaires, récoltée souvent dans les lieux humides
+primary forests and old secondary forests, often collected in wet places
 
 ## Specimens examined
 

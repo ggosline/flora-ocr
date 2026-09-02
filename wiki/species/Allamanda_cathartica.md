@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou arbuste rampant MXVTX¶jPGHKDXWHXUUDPHDX[JODEUHV à latex blanc . Feuilles généralement verticillées par 3 à 5 ; pétiole de ± 5 mm ; limbe obovale à étroitement obovale, de 6–15 × 4–5 cm, glabre ou avec des nervures pubérulentes sur la face inférieure. Fleur : corolle atteignant 14 cm de longueur , tube long de 4–8 cm, avec la partie élargie à peu près aussi longue que la partie étroite OLPEHGH±FPGHGLDPqWUHjOREHVWURQTXpVDX sommet. Fruit subglobuleux, de 3–7 cm de diamètre, à épines atteignant 1 cm.
+Vine or creeping shrub with glabrous branches and white latex. Leaves generally whorled in groups of 3 to 5; petiole ± 5 mm; limb obovate to narrowly obovate, 6–15 × 4–5 cm, glabrous or with puberulent veins on the lower face. Flower: corolla reaching 14 cm in length, tube 4–8 cm long, with the enlarged part approximately as long as the narrow part; limb 0.5–7 cm in diameter, with lobes truncate at the apex. Fruit subglobose, 3–7 cm in diameter, with spines reaching 1 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-RULJLQDLUHGHO¶$PpULTXHGX6XGDXMRXUG¶KXL Upsdqgxvrxvohvwursltxhvupjxolquhphqw planté au Gabon et parfois échappé
+Native to South America; today widespread throughout the tropics, regularly planted in Gabon and sometimes naturalized.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-souvent planté dans les jardins, s’échappant dans les jachères et les bords de route. Usage &¶HVW XQH SODQWH RUQHPHQWDOH DYHF TXHOTXHV SURSULpWpV Ppglfdohv HW XWLOLVpH DXVVL FRPPH coupe-feu. Noms vernaculaires WDSH]GHOD*X\DQHIUFRPPRQDOODPDQGDJROGHQWUXPSHWYLQH\HOORZDOOD manda (angl.). Notes &HWWHSODQWHVHUDLWPDOLGHQWL¿pHSDU5DSRQGD:DONHU	6LOODQVFRPPH Allamanda nobilis 70RRUH B : B eentje (2021), Leeuwenberg & Kupicha (1985), Omino (2002). IBLIOGRAPHIE
+Often planted in gardens, escaping into fallow land and roadsides. Uses: It is an ornamental plant with some medicinal properties and also used as a firebreak. Vernacular names: tapez de la Guyane (Fr.); common allamanda, golden trumpet vine, yellow allamanda (Engl.). Notes: This plant would be incorrectly identified by Raponda Walker & Sillans as Allamanda nobilis T. Moore. B: B. Eentje (2021), Leeuwenberg & Kupicha (1985), Omino (2002). BIBLIOGRAPHY
 
 ## Notes
 

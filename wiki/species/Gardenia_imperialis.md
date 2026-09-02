@@ -24,15 +24,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 3-12 m tall. Internodes puberulent to glabrescent. Buds with abundant waxy secretion. Tubular stipules approximately 1 cm long, with erose-dentate margin. Very large opposite leaves with petiole 2-6 mm. Blade glabrous, brown-olivaceous when dry, elliptic or obovate, 20-40 × 8-18 cm; base furnished with 2 myrmecophilous gibbosities 1 to 3 mm deep; apex obtuse or with broad, short acumen. 17-30 pairs of secondary nervures weakly arched and scarcely ascending, united in arches very close to the margins, ± puberulent on the lower surface as well as the midvein. Intersecondary nervules subparallel. Domatia absent.
 
-Arbuste ou petit arbre de 3-12 m de hauteur. Entrenœuds pubérulents à glabrescents. Bourgeons à sécrétion cireuse abondante. Stipules tubuleuses longues d'environ 1 cm, à marge échancrée-dentée. Très grandes feuilles opposées à pétiole de 2-6 mm. Limbe glabre brun-olivâtre à sec, elliptique ou obové de 20-40 × 8-18 cm; base munie de 2 gibbosités myrmécophiles de 1 à 3 mm de profondeur; sommet obtus ou à acumen large et bref. 17-30 paires de nervures secondaires faiblement arquées
+Large flowers, 1-3 ± pendulous, white becoming brown, sessile. Calyx puberulent, tubular for 1-2 cm, with tube nervulose to the acute apex of the lobes which reach 5-10 mm in height and whose margins are attenuate. Corolla subscabrous to puberulent, 23-28 cm in length, with tube 15-24 cm, with expanded throat reaching 4-5 cm in diameter, with 5 lobes glabrous above, broadly ovate, 4-5 cm long, overlapping to the left in the bud. Anthers 40 × 3-4 mm, included or exsert at the apex for nearly 1 cm, medifixed, with glabrous connective more prominent at the lower extremity than at the apex; the latter sometimes bilobulate. Style glabrous, progressively thickened into a modest club split into two lobes for approximately 2 cm. Disk sunken, introrse, sheathing the base of the style. Ovary with 2 or 3 parietal placentae.
 
-et peu ascendantes, unis en arceaux très proches des marges, ± pubérulentes à la face inférieure ainsi que la médiane. Nervilles intersecondaires subparallèles. Domaties nulles.
-
-Fleurs volumineuses par 1-3 ± pendantes, blanches devenant brunes, sessiles. Calice pubérulent, tubuleux sur 1-2 cm, à tube nervuré jusqu'au sommet aigu des lobes qui atteignent 5-10 mm de hauteur et dont les marges sont amincies. Corolle subscabre à pubérulente, de 23-28 cm de longueur, à tube de 15-24 cm, à gorge évasée atteignant 4-5 cm de diamètre, à 5 lobes glabres dessus, largement ovés, longs de 4-5 cm, recouvrants vers la gauche dans le bouton. Anthères de 40 × 3-4 mm, incluses ou à sommet exsert sur près de 1 cm, médifixes, à connectif glabre plus saillant à l'extrémité inférieure qu'au sommet; ce dernier parfois bilobulé. Style glabre progressivement épaissi en une médiocre massue fendue en deux lobes sur environ 2 cm. Disque enfoncé introrse engainant la base du style. Ovaire à 2 ou 3 placentas pariétaux.
-
-Fruit globoïde ou très brièvement ellipsoïde d'environ 3-5 cm de diamètre, vert, à paroi de 2-3 mm d'épaisseur, à endocarpe crustacé-osseux formant 2, parfois 3, calottes hémisphéroïdes; tube du calice persistant. La maturation du fruit est très lente et s'achève au sol où les graines restent noyées dans la pulpe placentaire qui présente un aspect de confiture. Graines très nombreuses, comprimées, d'env. 3 mm.
+Fruit globoid or very shortly ellipsoid, approximately 3-5 cm in diameter, green, with wall 2-3 mm thick, with endocarp crustaceous-osseous forming 2, sometimes 3, hemispheroid caps; calyx tube persistent. Fruit maturation is very slow and is completed on the ground where the seeds remain embedded in the placental pulp which has a jam-like appearance. Seeds very numerous, compressed, approximately 3 mm.
 
 ## Type
 
@@ -40,19 +36,17 @@ Mechow 495 (B, holotype probablement détruit), de l'Angola
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Senegal to Tanganyika and Rhodesia. Frequent in patches in inundable riparian forest.
 
-Du Sénégal au Tanganyika et Rhodésie. Commun par taches en forêt ripicole inondable.
+Descoings: 6475, environs of Ndendé (fl. fr. Dec.).
 
-Descoings : 6475, env. de Ndendé (fl. fr. déc.).
+N. Hallé 1653, 1670, Ayem on Ogooué, 20 km SW of Ndjolé (fl. fr. Apr.).
 
-N. Hallé 1653, 1670, Ayem sur Ogooué, 20 km SW de Ndjolé (fl. fr. avr.).
+N. Hallé and J. F. Villiers 4631, Mbei River downstream from Kinguélé (fr. Jan.).
 
-N. Hallé et J. F. Villiers 4631, riv. Mbei en aval de Kinguélé (fr. janv.).
+Lecomte s. n., Mbary River, tributary of Rembo-Nkomi (fl. Apr.).
 
-Lecomte s. n., riv. Mbary, affl. du Rembo-Nkomi (fl. avr.).
-
-Le Testu : 6386, Mourimatsengui, bords de la Doubandji, Haute Ngounié (fl. fév.); 7965, Lastoursville (fl. mars).
+Le Testu: 6386, Mourimatsengui, banks of the Doubandji, Upper Ngounié (fl. Feb.); 7965, Lastoursville (fl. Mar.).
 
 ## Figures
 

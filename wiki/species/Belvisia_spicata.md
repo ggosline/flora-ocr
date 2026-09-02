@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Mirb., Hist. Nat. Pl. 1:65 (1863). — Tard., Mém. IFAN 28:207, t. 43, f. 1 (1953). — Alston, FWTA:48 (1959).
 
-Rhizome court, à frondes rapprochées, portant des écailles lancéolées, formées de cellules à parois épaisses, foncées, lumière incolore, étroite. Pétiole de 4-5 cm, brun roux, plus foncé à la base, ailé au sommet. Limbe à contour ovale, long de 15-30 cm sur 2-3 de large, progressivement rétréci à la base, à marges entières, ondulées, extrémité brusquement contractée en une partie fertile de 4-8 cm de long, très étroitement linéaire, à marge entièrement recourbée sur les sporanges. Texture subcoriace; surfaces nues. Costa apparent, proéminent à la face inférieure. Nervures peu apparentes, formant des aréoles allongées à nervures incluses.
+Rhizome short, with fronds crowded together, bearing lanceolate scales formed of cells with thick walls, dark, with narrow colourless lumen. Petiole 4–5 cm, reddish-brown, darker at the base, winged at the apex. Lamina with oval outline, 15–30 cm long by 2–3 cm wide, gradually narrowed at the base, with entire, undulate margins, apex abruptly contracted into a fertile portion 4–8 cm long, very narrowly linear, with margin entirely recurved over the sporangia. Texture subcoriaceous; surfaces naked. Costa apparent, prominent on the lower surface. Veins scarcely apparent, forming elongate areoles with included veinlets.
 
-Côte-d'Ivoire, San-Thomé, Cameroun, Tanganyika, Masca-reignes, Asie tropicale.
+Ivory Coast, São Tomé, Cameroon, Tanganyika, Mascarenes, tropical Asia.
 
-Epiphyte.
+Epiphytic.
 
 ## Specimens examined
 
@@ -47,13 +45,11 @@ L. lanceolata (Sw.) Pr
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Approximately 40 species, mostly Asiatic.
 
-Environ 40 espèces, surtout asiatiques.
+1. Rhizome short, with fronds in tufts; frond sessile; sori very oblique, almost parallel to the costa, situated near the margin.
 
-1. Rhizome court, à frondes en touffes; fronde sessile; sores très obliques, presque parallèles au costa, situés près de la marge.
-
-1'. Rhizome très longuement rampant, mince; frondes espacées, longuement pétiolées..... 2. L. lanceolata.
+1'. Rhizome very extensively creeping, slender; fronds spaced, with long petioles..... 2. L. lanceolata.
 
 ## Figures
 

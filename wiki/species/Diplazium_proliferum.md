@@ -24,15 +24,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kaulf., Enum. Pl.: 182. 1824; Bon., Not. Ptér. I: 78. 1925.
 
-Rhizome dressé, écailleux, à frondes rapprochées. Pétiole de 30-60 cm, écailleux, straminé, muriqué à la base. Limbe de 60 cm à 2 m de long, à extrémité deltoïde, profondément lobée, plus ou moins adnée, avec 1 ou 2 paires supérieures de pennes décurrentes sur le rachis. Pennes latérales nombreuses, les inférieures légèrement réduites. Pennes moyennes alternes, espacées de 6-7 cm, courtement pétiolées, à contour lancéolé, longues de 15-20 cm sur 3-5 de large, à bases tronquées, égales, extrémité brusquement effilée, marges dentées ou à peine lobées, à lobes oblique, émarginés. Penne supérieure souvent prolifère, à bourgeon attaché à la face supérieure de la penne, sur le très court pétiole. Texture subcocriace. Nervures pennées dans les lobes, environ 6-7 par lobes, celles de deux lobes voisins anastomosées environ à moitié de la largeur de la penne. Sores allongés tout le long de la nervure, presque jusqu'à la marge, le premier souvent diplazioïde.
+Rhizome erect, scaly, with fronds crowded. Petiole 30-60 cm, scaly, stramineous, muricate at base. Blade 60 cm to 2 m long, with deltoid apex, deeply lobed, more or less adnate, with 1 or 2 upper pairs of pinnae decurrent on the rachis. Lateral pinnae numerous, the lower ones slightly reduced. Middle pinnae alternate, spaced 6-7 cm apart, shortly petiolate, lanceolate in outline, 15-20 cm long by 3-5 cm wide, with truncate, equal bases, apex abruptly acuminate, margins dentate or scarcely lobed, with oblique, emarginate lobes. Upper pinna often proliferous, with a bud attached to the upper surface of the pinna, on the very short petiole. Texture subcoriaceous. Veins pinnate in the lobes, approximately 6-7 per lobe, those of two adjacent lobes anastomosing approximately halfway across the width of the pinna. Sori elongate along the entire length of the vein, almost to the margin, the first often diplazoid.
 
-Ghana, San-Thomé, Fernando-Po, Ile du Prince, Annobon, Congo ex-belge, tropiques de l'Ancien Monde.
+Ghana, São Thomé, Fernando Po, Prince Island, Annobon, Belgian Congo, tropics of the Old World.
 
-Raphiales, marécages.
+Raphiales, marshes.
 
 ## Specimens examined
 

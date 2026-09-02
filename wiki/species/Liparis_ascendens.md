@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Kew Bull. 51(2) : 357 (1996). – TYPE* : Hallé 2870, Gabon, holo-K!, iso-P! – FCAM 2 : 350 (2001).
 
-* Lieux de dépôts signalés différemment par erreur dans FCAM
+* Specimen depositories indicated differently by error in FCAM
 
-Rhizome rampant, ascendant. Pseudobulbes 2-2,5 × 0,5-1 cm, espacés de < 10 cm. Feuilles pétiolées, 5-10,5 × 1,5-2,5 cm, ovées-lancéolées à largement lancéolées, aiguës. Inflorescence 7-15 cm, pluri-flore, subcorymbeuse. Fleurs vertes marquées de pourpre. Sépale dorsal obtus ou aigu à marge révolutée, oblong-lancéolé ; sépales latéraux semi-oblongs-ovés à semi-elliptiques, obliques. Pétales linéaires, obtus, à marge révolutée. Labelle orbiculaire, assez charnu, épais à la base, canaliculé, auricules proéminents, sommet avec un court apicule digité, marges entières ou crénelées au sommet. – Pl. 57, p. 119.
+Rhizome creeping, ascending. Pseudobulbs 2-2.5 × 0.5-1 cm, spaced < 10 cm apart. Leaves petiolate, 5-10.5 × 1.5-2.5 cm, ovate-lanceolate to broadly lanceolate, acute. Inflorescence 7-15 cm, multiflorous, subcorymbose. Flowers green marked with purple. Dorsal sepal obtuse or acute with revolute margin, oblong-lanceolate; lateral sepals semi-oblong-ovate to semi-elliptic, oblique. Petals linear, obtuse, with revolute margin. Lip orbicular, rather fleshy, thick at base, channeled, auricles prominent, apex with a short digitate apicule, margins entire or crenate at apex. – Pl. 57, p. 119.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Actuellement connu que du Gabon et du Congo (Brazzaville)
+Currently known only from Gabon and Congo (Brazzaville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900-1000 m. On soil and on moss-covered rock, open place in forest at Leonardo
 
-alt. 900-1000 m. Sur le sol et sur roc couvert de mousse, endroit ouvert en forêt à Leonardo
+MATERIAL STUDIED (Map 19) :
 
-MATÉRIEL ÉTUDIÉ (Carte 19) :
+Bos, van der Laan & Nzabi 10701, O. de Bélinga, trail towards Babiel-Nord, ridge top, 1°05' N, 13°10' E (fr. Jul.), BR!, P!, WAG!, LBV.
 
-Bos, van der Laan & Nzabi 10701, O. de Bélinga, piste vers Babiel-Nord, sommet de crête, 1°05' N, 13°10' E (fr. Juil.), BR!, P!, WAG!, LBV.
+Hallé 2870 & 3071, Bélinga (fl., Oct. to Dec.), P! ; 3514 & 3725, Bélinga, Iron Mines (fl., Jun.), P!.
 
-Hallé 2870 & 3071, Bélinga (fl., Oct. à Déc.), P! ; 3514 & 3725, Bélinga, Mines de Fer (fl., Juin.), P!.
-
-Hallé & Villiers 500, Bangwé (st., Fév.), P!.
+Hallé & Villiers 500, Bangwé (st., Feb.), P!.
 
 ## Figures
 

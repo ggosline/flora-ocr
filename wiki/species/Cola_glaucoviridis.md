@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref. and Sterc. Gab., Mém. S. B. Fr. : 41 (1950-1951).
 
-, réf. orig. et Sterc. Gab., Mém. S. B. Fr. : 41 (1950-1951).
+Shrub. Petiole cylindrical 30-60 cm long, glabrescent, with finely puberulent extremities. Leaves digitate, 5-7 foliolate. Petiolules slender, 1.5-5 cm long, finely bisulcate. Central leaflet elliptic, $ 35 \times 11 $ cm, with very acute base, acuminate-caudate apex. Lateral leaflets shorter and asymmetric, the outer ones having the external side more developed toward the base, while the inner ones have the external side less developed toward the base. Lamina subcoriaceous, glabrous, olivaceous above, yellow-green below when dry. Midvein glabrescent below; 8-11 pairs of pinnate veins. Veinlets in very apparent fine reticulum on both sides of the lamina when dry.
 
-Arbuste. Pétiole cylindrique de 30-60 cm de long, glabrescent, avec les extrémités finement pubérulentes. Feuilles digitées 5-7 foliolées. Pétiolules grèles de 1,5-5 cm de long, finement bisulqués. Foliole centrale elliptique de  $ 35 \times 11 $ cm, à base très aiguë, à sommet acuminé-caudé. Folioles latérales plus courtes et dissymétriques, les plus externes ont le côté externe plus développé vers la base, tandis que les plus internes ont le côté externe moins développé vers la base. Limbe subcorriace, glabre, olivacé dessus, vert jaune dessous à sec. Nervure médiane glabrescente dessous; 8-11 paires de nervures pennées. Nervilles en réticule fin très apparent sur les deux côtés du limbe à sec.
+Flowers grouped in sessile glomerules on the trunk; a few axillary. Bracts rusty pubescent, elliptic, scarcely 2 mm long. Pedicels 9-13 mm long, slender, rusty pubescent, articulate below the midpoint. Calyx campanulate, more or less spreading or even reflexed, 4-8 mm long, clothed with rusty stellate hairs externally, with 5 lobes split nearly to the middle and papilliferous on the upper face.
 
-Fleurs groupées en glomérules sessiles sur le tronc; quelques-unes axillaires. Bractées rousses pubescentes elliptiques, d'à peine 2 mm de long. Pédicelles de 9-13 mm de long, grèles, roux pubescents, articulés au-dessous de la moitié. Calice campanulé plus ou moins étalé ou même retroussé de 4-8 mm de long, vêtu de poils stellés roux extérieurement, à 5 lobes fendus jusque vers le milieu et papillifères sur la face supérieure.
+♂ Flower with slender androphore about 2-3 mm long, glabrous, surrounded at the base by a few rusty hairs; globose corona of (10) 12-14 uniseriate, unequal polliniferous locules. ♀ Flower with lageniform ovary, 4, rarely 3 carpellate, densely clothed with stellate hairs, surrounded by about 6 pairs of unequally arranged polliniferous locules. 4 connate extrorse stigmas. About 6 (?) ovules per carpel. Fruit unknown.
 
-Fleur ♂ à androphore grêle d'env. 2-3 mm de long, glabre, entouré à la base de quelques poils roux; couronne globuleuse de (10) 12-14 loges polliniques unisériées, inégales. Fleur ♀ à ovaire lagéniforme, 4, rarement 3 carpellé, densément vêtu de
+Type and only material known: Le Testu 7649, Lastoursville (fl. Nov.) (P.).
 
-poils stellés, entouré d'environ 6 paires de loges polliniques inégalement disposées. 4 stigmates adhérents extrorses. Env. 6 (?) ovules par carpelle. Fruit inconnu.
-
-Type et seul matériel connu : Le Testu 7649, Lastoursville (fl. nov.) (P.).
-
-L'espèce qui suit est très particulière par son fruit et sa graine. Une meilleure connaissance de cette plante permettrait probablement de donner rang de genre, aux Ingonia. Bien que nous ayons l'impression que cela pourrait être justifié, il ne nous a pas été possible de suivre Bodard qui a fondé son genre Ingonia sur les caractères de la graine, car celle-ci est exalbuminée et non pas albuminée. La diagnose originale de Masters, les notes manuscrites de Pierre et nos observations sur plusieurs échantillons de provenances diverses, infirment les données de Bodard. Nous donnons donc provisoirement aux Ingonia, rang de sous-genre.
+The following species is very peculiar in its fruit and seed. Better knowledge of this plant would probably allow one to give the rank of genus to Ingonia. Although we have the impression that this could be justified, it was not possible for us to follow Bodard, who founded his genus Ingonia on seed characters, for the latter is exalbuminous and not albuminous. Masters's original diagnosis, Pierre's manuscript notes, and our observations on several specimens of diverse provenances, contradict Bodard's data. We therefore provisionally assign to Ingonia the rank of subgenus.
 
 ## Notes
 

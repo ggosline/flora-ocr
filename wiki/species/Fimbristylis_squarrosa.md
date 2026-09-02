@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-F. aestivalis (Retz.) Vahl var. squarrosa (Vahl) Koyama , J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 8 : 116 (1961). Herbe petite, annuelle, grêle ; tiges ± nombreuses, serrées, longues de 4‒20 cm. Feuille de ½ –¾ de la longueur de la tige ; gaine densément poilue, brun pâle ; ligule absente ; limbe très étroit, plan, très poilu. Inflorescence en anthèle avec un épillet sessile et 5‒10 épillets sur des pédoncules de 2‒20 mm, souvent avec 1‒5 épillets secondaires pédonculés partant de la base d’un épillet primaire ; bractées involucrales 3‒7, foliacées, plus courtes ou un peu plus longues que l’inflorescence. Épillet de 5‒6 × 1,5‒2 mm , vert ou chamois, hérissé ; glumes elliptiques, 1,5‒2 mm de longueur , densément poilues ou scabres, brun pâle avec une longue arête verte, souvent recourbée. Fleur habituellement à 1 étamine ; style frangé à 2 branches, base avec une rangée de longues fibres pendant sur l’akène . Akène obovoïde, large d’environ 0,5 mm, un peu aplati, brun, presque lisse.
+F. aestivalis (Retz.) Vahl var. squarrosa (Vahl) Koyama , J. Fac. Sci. Univ. Tokyo, Sect. 3, Bot. 8 : 116 (1961). Small, annual herb, slender; stems ± numerous, crowded, 4–20 cm long. Leaf ½–¾ of the stem length; sheath densely hairy, pale brown; ligule absent; blade very narrow, flat, very hairy. Inflorescence anthela with one sessile spikelet and 5–10 spikelets on peduncles 2–20 mm, often with 1–5 secondary pedunculate spikelets arising from the base of a primary spikelet; involucral bracts 3–7, foliaceous, shorter or somewhat longer than the inflorescence. Spikelet 5–6 × 1.5–2 mm, green or buff, bristly; glumes elliptic, 1.5–2 mm long, densely hairy or scabrous, pale brown with a long green awn, often curved. Flower usually with 1 stamen; style fringed with 2 branches, base with a row of long fibres hanging over the achene. Achene obovoid, about 0.5 mm wide, slightly flattened, brown, nearly smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-régions tropicales de l’Amérique, de l’Afrique et de l’Asie, mais souvent très dispersée ; rare au Gabon, trouvée seulement dans l’Ogooué-Ivindo et l’Ogooué-Maritime (3 récoltes)
+tropical regions of America, Africa and Asia, but often very scattered; rare in Gabon, found only in Ogooué-Ivindo and Ogooué-Maritime (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les prairies saisonnièrement humides, le lit des rivières et les bancs de sable ; au Gabon, à 0‒200 m d’altitude, jusqu’à 1600 m en Afrique de l’Est. Note taxonomique : se distingue de toutes les autres espèces par ses glumes à long mucron recourbé. B : Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010), Hooper & Napper (1972)
+in seasonally humid grasslands, river beds and sand banks; in Gabon, at 0–200 m altitude, up to 1600 m in East Africa. Taxonomic note: distinguished from all other species by its glumes with long curved mucro. B: Goetghebeur & Coudijzer (1984a), Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972)
 
 ## Notes
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 5–6 m tall; branchlets rounded. Leaves subcoriaceous, glossy above, dull and pale beneath; petiole 5–8 mm; blade narrowly elliptic-acuminate, broadly cuneate at the base; acumen abrupt, acute, 1 cm long; veins variously impressed, prominent or obscure above, prominent beneath; approximately 8 main transverse veins, slightly oblique; the converging ones sinuate 2–6 mm from the margin and sometimes leaving room for marginal venation on the most developed leaves; margins sometimes sinuous.
 
-Petit arbre de 5 à 6 m; rameaux arrondis. Feuilles subcoriaces, brillantes dessus, ternes et pâles dessous; pétiole de 5 à 8 mm; limbe étroitement elliptique-acuminé, largement en coin à la base; acumen brusque.
+Cymes of general violet tint, solitary or geminate on the leafy nodes and the fairly numerous aphyllous nodes, with stipe 2–15 mm, briefly 1–2 times branched, 1.5–2 cm long and 5–15-flowered; bracts triangular, 1 mm, caducous. Flowers with pedicel 2 mm; hypantho-calyx cupuliform, 2.5–3 × 3 mm, calyx 4-sinuate, or lobes semi-ovate with thin marcescent margin. Petals semi-ovate, 3 × 2.5 mm, apiculate, base truncate. Anthers with convex thecae, 1 mm; connective 1.5 mm, obtuse to truncate, deeply saddle-shaped by a punctiform gland, or scarcely evident; filament 2–2.5 mm. Epigynous chamber with 8 partitions, and often 8 other intercalary lines; style 3.5 mm, marginally inserted. 6–10 ovules.
 
-aigu, long de 1 cm; nervures diversement imprimées, saillantes ou obscures dessus, saillantes dessous; environ 8 principales nervures transversales, légèrement obliques; les convergentes sinuées à 2-6 mm de la marge et laissant place parfois à une nervation marginale sur les feuilles les plus développées; marges parfois sinueuses.
-
-Cymes de teinte générale violacée, solitaires ou géminées sur les nœuds feuillés et les nœuds aphylies assez nombreux, avec stipe de 2 à 15 mm, brièvement de 1 à 2 fois ramifiées, longues de 1,5 à 2 cm et 5-15-flores; bractées triangulaires, 1 mm, caduques. Fleurs à pédicelle de 2 mm; hypantho-calice cupuliforme, 2,5-3 × 3 mm, calice 4-sinué, ou lobes semi-ovales à marge mince marcescente. Pétales semi-ovales, 3 × 2,5 mm, apiculés, base tronquée. Anthères à thèques convexes, 1 mm; connectif 1,5 mm, obtus à tronqué, profondément enseillé par une glande punctiforme, ou peu évidente; filet de 2 à 2,5 mm. Chambre épigyne avec 8 cloisons, et souvent 8 autres lignes intercalaires; style 3,5 mm, margement inséré. De 6 à 10 ovules.
-
-Fruit elipsoide-oblong, 6 × 15 mm, sommet tronqué.
+Fruit ellipsoid-oblong, 6 × 15 mm, apex truncate.
 
 ## Type
 

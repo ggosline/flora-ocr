@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, Oveng, Logging site (fl.) Louis, Breteler & de Bruijn 543 (holo-WAG; iso-BM, BR, K, M, MO, LBV, P).
 
-TYPE : Gabon, Oveng, Chantier forestier (fl.) Louis, Breteler & de Bruijn 543 (holo-WAG ; iso-BM, BR, K, M, MO, LBV, P).
+Large woody vine. Young branches covered with reddish-brown scales.
 
-Grande liane. Jeunes rameaux couverts d'écailles rouge-brun.
+Leaves opposite; petiole up to 5 mm long; blade obovate, up to 13 × up to 9.5 cm, small hairs only on the veins, and with reddish-brown scales of variable size, scattered over the entire lower surface, whereas above, hairs and scales are present only on the larger veins; major lateral veins 7–11 pairs, reaching almost the margin, without axillary domatia; tertiary veins parallel, spaced 1–3 mm apart; base of blade cordate to auriculate and apex abruptly acuminate (Pl. 2, C₁, p. 15).
 
-Feuilles opposées ; pétiole long de ≤ 5mm ; limbe obové, ≤ 13 × ≤ 9,5cm, petits poils uniquement sur les nervures, et avec des écailles rouge-brun de taille variable, dispersées sur toute la face inférieure, alors que dessus, poils et écailles ne sont présents que sur les plus grosses nervures ; grandes nervures latérales 7-11 paires, atteignant presque la marge, sans domaties axillaires ; nervures III parallèles, espacées de 1-3 mm ; base du limbe cordée à auriculée et sommet brusquement acuminé (Pl. 2, C₁, p. 15).
+Scales, diameter up to 125 μm, thickness up to 75 μm and stellate in form, or alternatively, diameter < 50 μm, but then thinner and subcircular in form (Pl. 2, C₂, p. 15).
 
-Écailles, diamètre ≤ 125 μm, épaisseur ≤ 75 μm et de forme stellée, ou encore, diamètre < 50 μm, mais alors, plus minces et de forme subcirculaire (Pl. 2, C₂, p. 15).
+Inflorescences in axillary or terminal panicles reaching up to 15 cm; axes covered with small hairs and large scales; bracts inconspicuous.
 
-Inflorescences en panicules axillaires ou terminales pouvant atteindre 15 cm ; axes couverts de petits poils et de grandes écailles ; bractées peu visibles.
+Flowers 4-merous, sessile. Lower receptacle height < 1 mm, covered with long hairs; upper receptacle patelliforme, diameter 5 mm with the calyx lobes, external face nearly glabrous, except for numerous small scales clearly visible. Calyx with triangular lobes, nearly glabrous inside, except at the apex. Petals white, obovate, 1.5 mm long, glabrous. Stamens 3–4 mm long; filaments white; anthers 0.4 mm long, pale brown. Disk glabrous, except the margin very pubescent. Style white, 2 mm long (Pl. 11, C, p. 41).
 
-Fleurs 4-mères, sessiles. Réceptacle inférieur hauteur de < 1 mm, couvert de longs poils ; réceptacle supérieur patelliforme, diamètre 5 mm avec les lobes du calice, face externe presque glabre, hormis de nombreuses petites écailles bien visibles. Calice à lobes triangulaires, presque glabres à l'intérieur, sauf au sommet. Pétales blancs obovés, longs de 1,5 mm, glabres. Étamines longues de 3-4 mm ; filets blancs ; anthères longues de 0,4 mm, brun pâle. Disque glabre, sauf la marge très pubescente. Style blanc, long de 2 mm (Pl. 11, C, p. 41).
-
-Fruit inconnu.
+Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu seulement au Gabon
+known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts denses humides
+dense humid forests
 
 ## Specimens examined
 

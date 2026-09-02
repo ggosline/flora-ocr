@@ -21,8 +21,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Afromendonia Lindaviana Gilg, in Lindau, Bot. Jahrb. 17 : 112 (1893). — Gilg, Ber. Deutsch. Bot. Ges. 11 : 353,t. XVII (1893). — Oliver, in Hook, Ic. Pl. t. 2426 (1896). — Burkill, F.T.A. 5 : 6 (1899). — R. Benoist, Not. Syst. 2 : 285 (1911).
 
 ≡ Monochochlamys Lindaviana (Gilg) S. Moore, Journ. Bot. 67 : 226 (1929).
@@ -33,11 +31,11 @@ $ \equiv $ Afromendoncia floribunda (Pierre) Burkill, F.T.A. 5 : 6 (1899). — R
 
 ≡ Monachochlamys floribunda (Pierre) S. Moore, l. c. (1929).
 
-Liane volubile, grimpant assez haut; jeunes tiges un peu anguleuses, glabres; vieux troncs torsadés. Pétioles de 15-20 mm; limbe des feuilles obovale-elliptique, aigu à la base, cuspidé, à pointe obtuse ou arrondie, un peu coriace, sur le sec d'un brun pourpre au-dessous et brun grisâtre au-dessus, de 11,5 × 5,5 cm; 3-4 paires de nervures latérales et un réseau de fines nervures.
+Twining vine climbing fairly high; young stems somewhat angular, glabrous; old trunks twisted. Petioles 15–20 mm; leaf blade obovate-elliptic, acute at base, cuspidate with obtuse or rounded apex, somewhat coriaceous, on the dry specimen purplish-brown below and grayish-brown above, 11.5 × 5.5 cm; 3–4 pairs of lateral veins and a network of fine veins.
 
-Fleurs sur le vieux bois, par paires aux extrémités de petits rameaux axillaires ou plutôt de protubérances très branchues, formant des pseudo-fascicules assez grands; 30-45 fleurs dans un pseudo-fascicule. Pédicelles de 3-4 cm; bractéoles de 16 × 9,5 mm, ovales, acuminées, violacées, soudées à la base, du côté inférieur jusqu'à 6,5 mm, et du côté supérieur jusqu'à 12-13 mm. Corolle blanche, de 2,5 cm de long, à tube de 18 mm, à lobes étalés, arrondis. Anthères de 6 mm. Disque de 2 mm de diamètre. Style 1 cm.
+Flowers on old wood, in pairs at the ends of small axillary branchlets or rather of very branched protuberances, forming fairly large pseudo-fascicles; 30–45 flowers in a pseudo-fascicle. Pedicels 3–4 cm; bracteoles 16 × 9.5 mm, ovate, acuminate, violaceous, fused at base, on the lower side up to 6.5 mm, and on the upper side up to 12–13 mm. Corolla white, 2.5 cm long, with tube 18 mm, lobes spreading, rounded. Anthers 6 mm. Disk 2 mm in diameter. Style 1 cm.
 
-Fruits immatures de couleur verdâtre, de  $ 15 \times 1.3 $ cm, devenant noir violacé; graine elliptique, de  $ 11 \times 5-6 $ mm, et de  $ 3-4 $ mm d'épaisseur.
+Immature fruits greenish in color, 15 × 1.3 cm, becoming dark violaceous; seed elliptic, 11 × 5–6 mm, and 3–4 mm thick.
 
 ## Type
 
@@ -45,11 +43,9 @@ Soyaux 156, Sibange-Farm (B, holotype détruit; P, isotype)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Gabon, Cameroon, Congo-Brazzaville and Congo-Léopoldville.
 
-Gabon, Cameroun, Congo-Brazzaville et Congo-Léopoldville.
-
-Lirayea floribunda est une espèce décrite sans feuilles. Pierre remarque : « l'unique feuille accompagnant les spécimens Jolly 101, nous étant parvenue détachée, nous ne la décrivons pas comme leur appartenant ». Cette feuille est en effet tout à fait autre chose qu'une feuille des espèces du genre Mendoncia connues jusqu'à ce jour, tandis que le matériel utilisé pour la description de la fleur et du fruit de Lirayea floribunda Pierre est parfaitement consécique avec celui de Zenker 965, du Cameroun (isotype d'Afromendoncia Lindaviana Gilg, P!) et avec tous les matériaux cités ci-dessous.
+Lirayea floribunda is a species described without leaves. Pierre remarks: "the sole leaf accompanying the Jolly 101 specimens, having reached us detached, we do not describe it as belonging to them". This leaf is indeed something quite different from a leaf of the species of the genus Mendoncia known up to now, whereas the material used for the description of the flower and fruit of Lirayea floribunda Pierre is perfectly conspecific with that of Zenker 965, from Cameroon (isotype of Afromendoncia Lindaviana Gilg, P!) and with all the materials cited below.
 
 ## Specimens examined
 

@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bomm., Bull. Boiss. 4 : 663 (1896). — Tard., Mém. IFAN 28 : 174 (1953).
 
-Rhizome dressé, à frondes rapprochées, couvert d'écailles noires, étroites, munies de prolongements. Pétiole long de 7-15 cm, gris noirâtre, mat, portant, ainsi que le rachis et les pétiolues, de très étroites écailles noires, munies de prolongements. Limbe à contour lancéolé, penné, long de 17-30 cm sur 5-7 de large. Penne terminale semblable aux latérales : 5-7 paires de pennes latérales opposées, pétiolées, en forme d'éventail, à extrémité irrégulièrement serrulée, longues de 3 cm sur 4 de large. Nervures flabellées. Surface portant les mêmes écailles que le pétiole. Sores allongés, à peu près tous de même longueur, n'atteignant pas la marge.
+Rhizome erect, with fronds crowded together, covered with narrow black scales bearing projections. Petiole 7-15 cm long, greyish-black, dull, bearing, as do the rachis and pétiolules, very narrow black scales with projections. Blade with lanceolate outline, pinnate, 17-30 cm long by 5-7 cm wide. Terminal pinna similar to the lateral ones: 5-7 pairs of lateral opposite pinnae, petiolate, fan-shaped, with irregularly serrulate apex, 3 cm long by 4 cm wide. Veins flabellate. Surface bearing the same scales as the petiole. Sori elongate, all approximately the same length, not reaching the margin.
 
 ## Type
 
@@ -28,9 +26,7 @@ Vungu, bas Congo, Laurent
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Congo, Épiphyte.
+Cameroon, Congo, Epiphytic.
 
 ## Specimens examined
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — PROGEL in MARTIUS, Fl. Bras. 6(1) : 266, t. 82, 1 (1868). — SOLEREDER in ENGLER & PRANTL, Nat. Pflanzenf. 4 (2) : 35, fig. 18, G-H (1892). — HEINE, Kew Bull. 23 : 251 (1969).
 
 — Ophiorrhiza mitreola L., Sp. Pl. : 150 (1753).
@@ -27,13 +25,13 @@ tags: [species, generated]
 
 — Cynoctonum mitreola (L.) BRITT., Mem. Torr. Bot. Cl. 5 : 258 (1894). — LEENHOUTS in Fl. Males. ser. 1, 6 : 375, fig. 37, f-h (1962). — HEINE, Kew Bull. 17 : 172 (1963). — FWTA ed. 2, 2 : 34.
 
-Herbe annuelle érigée, ramifiée ou non; tige quadrangulaire à étroitement 4-ailée, glabre; stipules largement triangulaires.
+Annual herb erect, branched or unbranched; stem quadrangular to narrowly 4-winged, glabrous; stipules broadly triangular.
 
-Feuilles à pétiole de 0,5-3 cm de longueur; limbe herbacé, souvent membraneux à l'état sec, ové ou oblong, de 1,2-10,5 × 0,8-4,5 cm, aigu à obtus au sommet, cuné ou arrondi à la base ou décurrent sur le pétiole, entier, à pubescence très éparse et apprimée ou glabre sur les deux faces.
+Leaves with petiole 0.5-3 cm long; blade herbaceous, often membranous when dry, ovate or oblong, 1.2-10.5 × 0.8-4.5 cm, acute to obtuse at the apex, cuneate or rounded at the base or decurrent on the petiole, entire, with very sparse and appressed pubescence or glabrous on both surfaces.
 
-Inflorescences terminales et souvent aussi aux aisselles des feuilles apicales, largement ramifiées; dernières ramifications minces, de 2-15 cm de longueur. Sépales de 1,2-1,5 mm de longueur, glabres. Corolle blanche ou mauve, de 1,5-2,5 mm de longueur; lobes presque de même longueur que le tube.
+Inflorescences terminal and often also at the axils of apical leaves, broadly branched; ultimate branches slender, 2-15 cm long. Sepals 1.2-1.5 mm long, glabrous. Corolla white or mauve, 1.5-2.5 mm long; lobes nearly the same length as the tube.
 
-Capsules de 2-3,5 mm de longueur avec cornes érigées, étalées ou courbées vers l'intérieur. Pl. 8, p. 25.
+Capsules 2-3.5 mm long with erect, spreading or incurved horns. Pl. 8, p. 25.
 
 ## Type
 
@@ -41,9 +39,7 @@ D. Clayton s. n. in herb. Gronovius, Virginia, États-Unis (holotype : BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Très répandue en Amérique, Asie et Australie tropicales, rare en Afrique; en savane. Localités africaines connues situées toujours assez loin des côtes, au Sénégal, au Ghana et au Cameroun.
+Very widespread in tropical America, Asia and Australia, rare in Africa; in savanna. Known African localities always situated fairly far from the coasts, in Senegal, Ghana and Cameroon.
 
 ## Specimens examined
 

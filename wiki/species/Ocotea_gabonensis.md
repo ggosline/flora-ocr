@@ -16,15 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Adansonia, t. 4, fasc. 2: 320 (1964).
 
-— Adansonia, t. 4, fasc. 2 : 320 (1964).
+Tree (?). Branches showing at the young stage a white and sparse pubescence, then glabrescent, red-blackish and longitudinally striate; terminal buds acicular, silky silvery; internodes 1-2 cm. Leaves alternate; petiole 8-12 mm; blade 10-15 cm long, 3-4 cm wide, papyraceous to subcoriaceous, glabrous, olivaceous, concolorous or ± reddish beneath. Main vein reddish, 5-6 pairs of secondary veins, poorly distinct at the apex; tertiary vein network very fine, the ultimate ones forming areoles of approximately 0.5 mm in diameter especially on the upper surface.
 
-Arbre (?). Rameaux présentant au stade jeune une pubérulence blanche et rare, puis glabrescents, rouge-noirâtre et striés en long; bourgeons terminaux aciculés, soyeux argentés; entre-
-
-nœuds de 1-2 cm. Feuilles alternes; pétiole de 8-12 mm; limbe long de 10-15 cm, large de 3-4, papyracé à subcoriace, glabre, olivâtre, concolore ou ± rougeâtre dessous. Nervure principale rougeâtre, 5-6 paires de nervures secondaires, peu distinctes au sommet; réseau des nervures tertiaires très fin, les ultimes formant des alvéoles d'environ 0,5 mm de diamètre surtout sur la face supérieure.
-
-Inflorescences terminales dont le rachis long de 2-3 cm porte 4-5 ou 6 rameaux divariqués de ± 5 cm de long et munis chacun de 5-10 fleurs à l'extrémité; pédoncules cannelés, rougeâtres à pubérulence blanche. Bractées (inconnues) laissant une cicatrice à chaque ramification et à chaque fleur. Réceptacle conique, glabre à l'intérieur, portant 6 tépales de 2 mm de long, concaves, pubérulents vers le centre sur les 2 faces et ciliés au bord. Androcée comportant un premier cycle subpétaloïde, c'est-à-dire sessile ou brièvement stipité à 0-2-4 loges par anthère; les étamines du 2e cycle sont à 4 loges superposées 2 par 2 et introrses comme celles du 1er cycle; celles du 3e sont extorses et munies de glandes. Pistil dont l'ovaire porte un style à stigmate capité. Fruit très jeune brun clair dans une cupule noire.
+Terminal inflorescences whose rachis 2-3 cm long bears 4-5 or 6 divaricate branches ± 5 cm long and each bearing 5-10 flowers at the extremity; pedicels ribbed, reddish with white pubescence. Bracts (unknown) leaving a scar at each branching point and at each flower. Receptacle conical, glabrous on the inside, bearing 6 tepals 2 mm long, concave, pubescent toward the centre on both surfaces and ciliate at the margin. Androecium comprising a first subpetaloid cycle, that is sessile or briefly stipitate with 0-2-4 locules per anther; the stamens of the 2nd cycle have 4 superposed locules arranged 2 by 2 and introrse like those of the 1st cycle; those of the 3rd are extrorse and provided with glands. Pistil whose ovary bears a style with capitate stigma. Very young fruit light brown within a black cupule.
 
 ## Type
 

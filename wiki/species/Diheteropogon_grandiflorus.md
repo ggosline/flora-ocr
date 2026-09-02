@@ -21,19 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb reaching 2 m tall. Leaves glabrous with rounded sheath; scarious ligule 1.5 mm long. Blade linear, 25 cm long or more and approximately 1 cm wide.
 
-Herbe atteignant 2 m de haut. Feuilles glabres à gaine
+Racemes up to 13 cm long. Pairs of homogamous spikelets up to 9, but often fewer. Rachis article and pedicels approximately 6–8 mm long.
 
-arrondie; ligule scariouse de 1,5 mm de long. Limbe linéaire, de 25 cm de long ou plus et environ 1 cm de large.
+Sessile spikelets 8–9 mm long, plus 4 mm for the callus. Lower glume glabrous, hyaline at the apex, with 3–4 faint nerves. Upper glume shortly subulate at the apex, margins hyaline ciliate. Lemma of the lower flower 6 mm long. Lemma of the fertile flower 4–5 mm long, awn 9–11 cm, fawn-coloured, column pubescent, twisted, scabrid seta. Pedicelled spikelets 15–22 mm long and 4 mm wide. Lower glume with winged, hyaline margins, 3–4 nerves.
 
-Racèmes jusqu'à 13 cm de long. Paires d'épilets homogames jusqu'à 9, mais souvent moins. Article du rachis et pédicelles d'environ 6-8 mm de long.
+This species was collected in Gabon by Dybowski, but it appears very rare there. It is recorded from Nigeria, Niger, and Ubangi.
 
-Épillets sessiles de 8-9 mm de long, plus 4 mm pour le callus. Glume inférieure glabre, hyaline au sommet, à 3-4 nervures peu visibles. Glume supérieure courtement subulée au sommet, marges hyalines ciliées. Glumelle de la fleur inférieure de 6 mm de long. Lemma de la fleur fertile de 4 à 5 mm de long, arête de 9 à 11 cm, de couleur fauve, colonne pubescente, tordue, soie scabre. Épillets pédicellés de 15 à 22 mm de long et 4 de large. Glume inférieure à bords ailés, hyalins, à 3-4 nervures.
-
-Cette espèce a été récoltée au Gabon par Dybowski, mais elle y paraît très rare. Elle est signalée au Nigéria, au Niger et en Oubangui.
-
-C'est une plante de savane que l'on rencontre généralement sur des terrains sableux.
+It is a savanna plant generally encountered on sandy soils.
 
 ## Specimens examined
 

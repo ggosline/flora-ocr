@@ -17,35 +17,34 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Garay, Kew Bull. 28(3): 513 (1973); FAC 2: 477 (1992); FCAM 3: 876 (2001).
 
-Garay, Kew Bull. 28(3) : 513 (1973) ; FAC 2 : 477 (1992) ; FCAM 3 : 876 (2001).
-
-Tige < 50 cm. Feuilles 1,1-3 (-4) x 0,3-0,6 cm, oblongues-lancéolées, apiculées, épaisses et charnues, de section transversale plus ou moins en V. Inflorescence 1-flore. Fleurs petites, blanches. Sépale dorsal oblong-ové, obtus, mince, frêle, glabre, à 3 nervures non ramiﬁées. Pétales de 4,5-6 x 1,8-2 mm, obliquement oblongs-obovales, obtus. Sépales latéraux oblongs-elliptiques, légèrement falciformes ou sigmoïdes, brièvement apiculés. Labelle 3,8-5 x 4,5-6 mm, faiblement trilobé, sans callus, légèrement cochéﬁorme ; lobe médian largement tri-angulaire, brièvement apiculé à aigu ; lobes latéraux arrondis. Éperon 4-5 mm, droit ou légèrement recourbé vers le haut, plus ou moins renflé vers le sommet aigu. - Pl. 218, p. 457.
+Stem < 50 cm. Leaves 1.1-3 (-4) × 0.3-0.6 cm, oblong-lanceolate, apiculate, thick and fleshy, in transverse section more or less V-shaped. Inflorescence 1-flowered. Flowers small, white. Dorsal sepal oblong-ovate, obtuse, thin, fragile, glabrous, with 3 unramified nerves. Petals 4.5-6 × 1.8-2 mm, obliquely oblong-obovate, obtuse. Lateral sepals oblong-elliptic, slightly falcate or sigmoid, briefly apiculate. Lip 3.8-5 × 4.5-6 mm, weakly trilobate, without callus, slightly cochleate; median lobe broadly triangular, briefly apiculate to acute; lateral lobes rounded. Spur 4-5 mm, straight or slightly recurved upwards, more or less swollen towards the acute apex. - Pl. 218, p. 457.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Zaïre
+Nigeria, Cameroon, Equatorial Guinea, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–1,800 m. Epiphytic on branches in dense forest, swampy periodically inundable to Oxystigma mannii. Observed up to 30 m above the ground on Gilbertiodendron dewevrei
 
-alt. 900-1 800 m. Épiphyte sur branche en forêt dense, marécageuse périodiquement inondable à Oxystigma mannii. Observé jusqu'à 30 m au-dessus du sol sur Gilbertiodendron dewevrei
+MATERIAL STUDIED (Map 97):
 
-MATÉRIEL ÉTUDIÉ (Carte 97) :
-
-De Wilde, Arends, Louis, Bouman & Karper 411, massif de Chaillu, Mission de Mouyanama, rivière à environ 200 m de la Mission, environ 15 km de la route Mimongo-Mbigou (fl. Nov.), WAG!.
+De Wilde, Arends, Louis, Bouman & Karper 411, Chaillu massif, Mouyanama Mission, river approximately 200 m from the Mission, approximately 15 km from the Mimongo-Mbigou road (fl. Nov.), WAG!.
 
 2. Sect. Dolabrifolia (Pfitzer) Garay
 
-Kew Bull. 28 (3) : 499 (1974).
+Kew Bull. 28(3): 499 (1974).
 
-Tige allongée, feuillée. Feuilles distiques, charnues, très courtes, comprimées latéralement, densément imbriquées à la base. Inflorescence le plus souvent 1-flore. Pédondule très court ou à peine développé. Fleurs petites.
+Stem elongated, leafy. Leaves distichous, fleshy, very short, laterally compressed, densely imbricate at the base. Inflorescence most often 1-flowered. Peduncle very short or scarcely developed. Flowers small.
 
-1. Feuilles étroitement lancéolées-oblongues, presque droites, aiguës ..... 52.5. A. podochiloides. 1' Feuilles falciformes oblongues-elliptiques, arrondies au sommet ..... 2 2. Feuilles de (11)14-25 x (5)6-10 mm ..... 52.3. A. aporoides. 2' Feuilles de 5-11 x 3-7 mm ..... 3 3. Éperon plus long que le pédicelle et l'ovaire ; labelle nettement trilobé, lobe médian ovale-triangulaire ..... 52.6. A. poppendickianum. 3' Éperon plus court que le pédicelle et l'ovaire ; labelle faiblement trilobé ..... 52.4. A. distichum
+1. Leaves narrowly lanceolate-oblong, almost straight, acute ..... 52.5. A. podochiloides.
+1' Leaves falcate oblong-elliptic, rounded at the apex ..... 2
+2. Leaves (11)14–25 × (5)6–10 mm ..... 52.3. A. aporoides.
+2' Leaves 5–11 × 3–7 mm ..... 3
+3. Spur longer than the pedicel and ovary; lip distinctly trilobate, median lobe ovate-triangular ..... 52.6. A. poppendickianum.
+3' Spur shorter than the pedicel and ovary; lip weakly trilobate ..... 52.4. A. distichum
 
 .....52.4. A. distichum.
 

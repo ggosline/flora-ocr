@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr., Ind.: 363 (1905); — Tard., Mém. IFAN 28: 33, pl. 3, f. 6-7 (1953). — Alston, FWTA: 32 (1959).
 
-Rhizome longuement rampant, filiforme, nu, à frondes espacées. pétiole long de 2-7 cm, très étroitement ailé, à la partie supérieure seulement, ou non ailé. Limbe oblong, plus ou moins linéaire, long de 5-15 cm, bipenné plus ou moins tripinnatifide. Pennes deltoides, plus ou moins oblongues, obliques, ascendantes, presque contigues dans les petites formes, espacées d'environ deux fois leur largeur dans les formes allongées, longues de 1-1, 5 cm, divisées, presque jusqu'au rachis ailé, en pinnules deltoides-lancéolées, profondément lobées; segments ultimes linéaires, arrondis, courts, simples ou parfois bifurqués, non crispés. Coloration brun rouge atre sur le sec. Plante glabre. Sores nombreux, épais, à réceptacle mince, inclus. Indusie ailée à la base, à deux lèvres orbiculaires ou obovales.
+Rhizome extensively creeping, filiform, naked, with fronds spaced apart. Petiole 2-7 cm long, very narrowly winged, at the upper part only, or not winged. Lamina oblong, more or less linear, 5-15 cm long, bipinnate to more or less tripinnatifid. Pinnae deltoid, more or less oblong, oblique, ascending, almost contiguous in small forms, spaced about twice their width apart in elongate forms, 1-1.5 cm long, divided almost to the winged rachis, into deltoid-lanceolate pinnules, deeply lobed; ultimate segments linear, rounded, short, simple or sometimes bifurcate, not crisped. Coloration reddish-brown when dry. Plant glabrous. Sori numerous, thick, with thin receptacle, included. Indusium winged at the base, with two orbicular or obovate lips.
 
-San-Thomé. Afrique tropicale et orientale.
+São Thomé. Tropical and East Africa.
 
-Rochers très humides et ombragés.
+Very moist and shaded rocks.
 
 ## Specimens examined
 

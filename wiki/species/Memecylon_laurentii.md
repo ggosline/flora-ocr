@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2 m tall; branchlets rounded. Leaves subcoriaceous to coriaceous, dull on both surfaces; petiole 2–6 mm; blade elliptic-acuminate, to elliptic-oblong, or elliptic-oblanceolate, 4–7 × 10–15 cm, broadly cuneate at the base, then narrowly cuneate on the petiole; acumen abrupt, 1–2 cm, acute; midvein finely impressed above; 10–12 transverse veins very finely impressed above and clearly visible when dry, obscure below, moderately oblique, rather straight until the obscure convergent ones, situated 0.5–1 mm from the margin.
 
-Arbuste de 2 m; rameaux arrondis. Feuilles subcoriaces à coriaces, ternes sur les 2 faces; pétiole de 2 à 6 mm; limbe elliptique-acuminé, à elliptique-oblong, ou elliptique-oblancée,  $ 4-7 \times 10-15 $ cm, largement en coin à la base, puis étroitement cunée sur le pétiole; acumen brusque, de 1 à 2 cm, aigu; nervure médiane finement imprimée dessus; de 10 à 12 transversales très finement imprimées dessus et bien visibles sur le sec, obscures dessous, modérément obliques, plutôt rectilignes jusqu'aux convergentes obscures, situées à 0,5-1 mm de la marge.
+Cymes on leafy and leafless nodes, 1–1.5 cm long, 1–2 times branched, stipe and branches approximately 2–3 mm; bracts narrowly triangular, caducous. Flowers with pedicel 1–2 mm; floral bud obtuse; hypantho-calyx cupular-patellar, 3.5 × 2 mm, margin truncate to 4-sinuate. Petals semi-ovate, 3 × 2 mm. Anther 2 × 1 mm; thecae convex;
 
-Cymes sur les nœuds feuillés et aphyllés, longues de 1 à 1,5 cm, de 1 à 2 fois ramifiées, stipe et rameaux d'environ 2-3 mm; bractées étroitement triangulaires, caduques. Fleurs à pédicelle de 1 à 2 mm; bouton floral obtus; hypantho-calice cupulo-patellé, 3,5 × 2 mm, marge tronquée à 4-sinuée. Pétales semi-ovales, 3 × 2 mm. Anthère 2 × 1 mm; thèques convexes;
+MELASTOMATACEAE
 
-MELASTOMATACE
+connective conical, abruptly saddle-shaped by a punctiform gland; filament 2–2.8 mm. Epigynous chamber spreading, septa membranous in cruciform arrangement; style 4 mm.
 
-connectif conique, brusquement enseillé par une glande punctiforme; filet 2 à 2,8 mm. Chambre épigyne étalée, cloisons membraneuses à disposition cruciforme; style 4 mm.
-
-Fruit elipsoide, jusqu'à 8 × 16 mm.
+Fruit ellipsoid, up to 8 × 16 mm.
 
 ## Type
 
@@ -35,9 +33,7 @@ Laurent 1929, Zaïre (holo-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce proche du M. candidum Gilg, du Cameroun, dont elle se distingue surtout par ses rameaux arrondis. Se reconnaît aussi aux nervures transversales bien visibles, donnant l'impression d'une nervation pennée. Nous lui accordons une aire assez vaste, intéressant le Mayombe angolais, le Zaïre occidental, le Congo, le Cameroun et le Centrafrique.
+Species close to M. candidum Gilg, from Cameroon, from which it is distinguished especially by its rounded branchlets. Also recognized by its transverse veins clearly visible, giving the impression of pinnate venation. We assign to it a rather vast range, covering the Angolan Mayombe, western Zaïre, Congo, Cameroon and the Central African Republic.
 
 ## Notes
 

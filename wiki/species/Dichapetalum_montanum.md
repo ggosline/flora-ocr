@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 81 (10): 27, 31, 39-41 (1981); AUWP 86 (3): 9, 12, 13 (1986). TYPE: Gabon, Moucouma (Idemba), Le Testu 8121 (holo-, WAG; iso-, BM, BR, P).
 
-Liane mince, arbuste lianescent ou arbuste. Rameaux glabres ou presque, nettement lenticellés ou non. Jeunes rameaux avec pubérulence éparse au début, tôt glabrescents.
+Slender liane, scandent shrub or shrub. Branches glabrous or nearly so, distinctly lenticellate or not. Young branches with sparse puberulence initially, soon glabrescent.
 
-Stipules tôt caduques, étroites et oblongues-triangulaires, pubérulentes, longues de 1-4 mm.
+Stipules early caducous, narrow and oblong-triangular, puberulent, 1-4 mm long.
 
-Feuilles. Pétiole sub- à hémicylindrique, souvent sillonné dessus, long de (1) 2-6 (10) mm, pubérulent puis glabrescent. Limbe elliptique à obové-oblong et parfois étroit, (5) 8-12 (15) × (2) 3-5 cm ; base en général arrondie à cunée ; sommet souvent obtusément acuminé, acumen long de 0,5-1,5 cm, légèrement mucroné ou non ; jeunes feuilles avec pubérulence éparse sur les marges et sur les deux faces de la nervure I et des 5-7 paires principales de nervures II, ensuite glabrescentes ; glandes seulement à la face inférieure, petites, peu visibles, surtout le long de la nervure I et plus nombreuses près de la base.
+Leaves. Petiole sub- to hemicylindric, often grooved above, (1) 2-6 (10) mm long, puberulent then glabrescent. Lamina elliptic to obovate-oblong and sometimes narrow, (5) 8-12 (15) × (2) 3-5 cm; base generally rounded to cuneate; apex often obtusely acuminate, acumen 0.5-1.5 cm long, slightly mucronate or not; young leaves with sparse puberulence on the margins and on both faces of the primary vein I and of the 5-7 pairs of main secondary veins II, subsequently glabrescent; glands only on the lower surface, small, scarcely visible, especially along vein I and more numerous near the base.
 
-Inflorescences sessiles ou presque, condensées ou avec 2-4 ramifications scorpioïdes ≤ 5 mm portant les fleurs sur 2 rangs, pubérulentes. Bractées et bractéoles très petites, larges et ovées à deltoïdes, longues de 0,5 mm, pubérulentes. Pédicelle, parties supérieure et inférieure toutes deux longues de ≤ 0.37mm.
+Inflorescences sessile or nearly so, condensed or with 2-4 scorpioid branches ≤ 5 mm bearing flowers on 2 rows, puberulent. Bracts and bracteoles very small, broad and ovate to deltoid, 0.5 mm long, puberulent. Pedicel, both upper and lower parts each ≤ 0.37 mm long.
 
-Fleurs très petites, subsessiles, longues de 1,5-2,5 mm. Sépales subérigés, ovés-elliptiques à oblongs, 1-2 × 0,5-1 mm, munis d'une pubérulence externe et apicale-interne. Pétales dressés, courtemment bilobés,
+Flowers very small, subsessile, 1.5-2.5 mm long. Sepals suberect, ovate-elliptic to oblong, 1-2 × 0.5-1 mm, with external and apical-internal puberulence. Petals erect, shortly bilobed, lobes concave often slightly curved outward, base united with the filaments in a distinct tube approximately 1 mm high, 1.5-2 mm long, split for 0.3 mm, glabrous. Stamens erect, 1.2-1.5 mm long, distinctly shorter than the petals, glabrous, anthers ≈ 0.3 mm. Staminodes subquadrate, entire or bilobed, ≤ 0.3 × 0.3 mm, glabrous. Pistil 2-merous, conical, 1-1.5 mm long; ovary finely velutinous, style glabrous terminated by 2 indistinct stigmas.
 
-lobes concaves souvent légèrement courbés vers l'extérieur, base réunie aux filets en un tube net haut de ≈ 1 mm, longs de 1,5-2 mm, fendus sur 0,3 mm, glabres. Etamines dressées, longues de 1,2-1,5 mm, nettement plus courtes que les pétales, glabres, anthères ≈ 0,3 mm. Staminodes subcarrés, entiers ou bilobés, ≤ 0,3 × 0,3 mm, glabres. Pistil 2-mère, conique, long de 1-1,5 mm; ovaire finement velouté, style glabre terminé par 2 stigmates indistincts.
+Fruits 1-2-seeded, smooth, orange, beaked, glabrous or with a few hairs on the beak; the 1-seeded fruits obovoid-ellipsoidal, 2.5-3 × 1-1.5 cm; mesocarp succulent; endocarp chartaceous, smooth, shiny and glabrous within. Seeds ellipsoidal, 1.5-2 cm long; testa dark brown with paler but distinct brown veins. – Pl. 38, p. 137.
 
-Fruits 1-2-spermes, lisses, oranges, munis d'un bec, glabres ou avec quelques poils sur le bec ; les fruits 1-spermes, obovoïdes-ellipsoïdaux, 2,5-3 × 1-1,5 cm ; mésocarpe succulent ; endocarpe parcheminé, lisse, brillant et glabre à l'intérieur. Graines ellipsoïdales, longues de 1,5-2 cm ; testa brun foncé avec des veines brunes plus pâles, mais distinctes. – Pl. 38, p. 137.
-
-Cette espèce doit son nom au fait qu'elle paraît limitée aux altitudes > 800 m à l'Ouest de l'Afrique centrale et > 1500 m au Zaïre. Elle présente de nombreuses ressemblances avec D. minutiflorum : son aspect végétatif, son pistil 2-mère et ses fruits glabres peuvent faciliter la confusion entre les deux espèces. Elle est cependant tout à fait distincte de D. minutiflorum par son type d'inflorescence qui porte des fleurs plus petites ; et en outre, D. minutiflorum ne possède pas un tube net formé par la soudure des pétales et des filets ; ses étamines et son pistil sont beaucoup plus longs et également les pétales.
+This species owes its name to the fact that it appears to be limited to altitudes > 800 m in western Central Africa and > 1500 m in Zaire. It presents numerous resemblances to D. minutiflorum: its vegetative aspect, its 2-merous pistil and its glabrous fruits may facilitate confusion between the two species. It is however entirely distinct from D. minutiflorum by its inflorescence type which bears smaller flowers; and furthermore, D. minutiflorum does not possess a distinct tube formed by the fusion of the petals and filaments; its stamens and pistil are much longer and likewise the petals.
 
 ## Type
 
@@ -43,15 +39,11 @@ Le Testu 8121, Moucouma (Idemba), Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Zaïre
+Cameroon, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, alt. > 800 m
+ombrophilous forests, alt. > 800 m
 
 ## Specimens examined
 

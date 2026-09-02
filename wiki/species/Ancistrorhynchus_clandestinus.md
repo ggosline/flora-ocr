@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Angorchis clandestina (Lindl.) O. Kuntze, Rev. Gen. Pl. 2 : 651 (1891).
 
 – Listrostachys durandianus Kraenzl., Bull. Soc. Roy. Bot. Belg. 38 : 65 (1899).
@@ -33,25 +31,21 @@ tags: [species, generated]
 
 – Ancistrorhynchus stenophyllus (Schltr.) Schltr., Beih. Bot. Centralbl. 36 : 139 (1918).
 
-Tige < 7(-18) cm. Feuilles 5-10, regroupées en éventail, 15-100 x 0,7-0,9 cm, linéaires, inégalement bilobées. Inflorescence < 2 cm, capitée. Fleurs blanches. Sépale dorsal elliptique à oblong-ové, obtus, glabre. Pétales obliquement oblongs-ovés, obtus. Sépales latéraux obliquement elliptiques à oblongs-ovés, obtus. Labelle 4,5-6,5 x 3,4-6,6 mm, nettement trilobé, concave, épaissir vers le sommet ; lobe médian ligulé à elliptique, obtus ; lobes latéraux triangulaires, obtus. Éperon 3,2-6,2 mm, plus ou moins en forme de S, partie basale largement cylindrico-conique, puis brusquement comprimé et de nouveau renflé dans le tiers apical. - Pl. 151, p. 341.
+Stem < 7(–18) cm. Leaves 5–10, arranged in a fan, 15–100 × 0.7–0.9 cm, linear, unequally bilobed. Inflorescence < 2 cm, capitate. Flowers white. Dorsal sepal elliptic to oblong-ovate, obtuse, glabrous. Petals obliquely oblong-ovate, obtuse. Lateral sepals obliquely elliptic to oblong-ovate, obtuse. Lip 4.5–6.5 × 3.4–6.6 mm, distinctly trilobed, concave, thickened towards the apex; median lobe ligulate to elliptic, obtuse; lateral lobes triangular, obtuse. Spur 3.2–6.2 mm, more or less S-shaped, basal part broadly cylindrico-conical, then abruptly compressed and again inflated in the apical third. – Pl. 151, p. 341.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroun, Gabon, République centrafricaine, Congo, Zaire, Ouganda
+Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Gabon, Central African Republic, Congo, Zaire, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 500–1,100 m. Epiphytic on branch, 3–8 m above ground, in evergreen forest, forest gallery, semi-deciduous humid dense forest with Celtis and Sterculiaceae, observed on Gilbertiodendron dewevrei
 
-alt. 500-1 100 m. Épiphyte sur branche, à 3-8 m au-dessus du sol, en forêt sempervirente, galerie forestière, forêt dense humide semi-decidue à Celtis et Sterculiaceae, observé sur Gilbertiodendron dewevrei
+MATERIAL STUDIED (Map 71):
 
-MATÉRIEL ÉTUDIÉ (Carte 71) :
+Bos, Van der Laan & Nzabi 10761, bridge on the road Bélinga–Makoukou on the Djédéi River, ≤0º 45' N, 13º 10' E (fl. July), WAG!.
 
-Bos, Van der Laan & Nzabi 10761, pont sur la route de Bélinga-Makoukou sur la Riv. Djédéi., ≤0º 45' N, 13º 10' E (fl. Juil.), WAG!.
-
-Le Testu 5159, lac de Bandoungou, Haute Ngounyé (fl. Déc.), P!.
+Le Testu 5159, Lake Bandoungou, Haute Ngounyé (fl. Dec.), P!.
 
 ## Figures
 

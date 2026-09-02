@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (pl. XIII et II).
 
 — Bentham et Hooker f., Gén. Pl. 3 : 158 (1880). — R. Fouilloy, Adansonia 4 : 330 (1964).
 
-Arbre (?) à rameaux rougeâtres d'abord pubescents, puis grisâtres, glabrescents à glabres; bourgeons aigus, velus, fauves. Feuilles à pétiole de 12-24 mm, à limbe oblong lancéolé, papyracées, glabres, à acumen ± prononcé, brun-rougeâtre dessus, dessous brun avec nervures souvent rougeâtres, 8-9 paires de nervures secondaires. Inflorescences de 6 cm de long sur 3 cm de large avec pédoncule nul ou atteignant 2,5 cm; des bractées aux divisions secondaires, pubérulence fauve.
+Tree (?) with reddish branchlets, initially pubescent, then greyish, glabrescenct to glabrous; buds acute, hairy, tawny. Leaves with petiole 12-24 mm, limb oblong-lanceolate, papyraceous, glabrous, with ± pronounced acumen, reddish-brown above, below brown with veins often reddish, 8-9 pairs of secondary veins. Inflorescences 6 cm long by 3 cm wide with peduncle absent or reaching 2.5 cm; bracts at the secondary divisions, tawny puberulence.
 
 ## Type
 
@@ -36,11 +34,9 @@ Mann 979, Gaboon River,  $ 1^{o} $ lat. N (1859-63). La description ci-dessus es
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The range of this species extends to Cameroon: the type of Tylostemon papyraceus Stapf is Zenker 2065 (P,K) from Bipinde.
 
-L'aire de cette espèce s'étend au Cameroun : le type de Tylostemon papyraceus Stapf est Zenker 2065 (P,K) de Bipinde.
-
-Remarque : Cette espèce n'est pas comprise de la même façon par Robyns et Wilczek; dans la Flore du Congo belge, page 435 (1951) on lit : feuilles coriaces (Meissner écrit aussi coriaces en 1864), réceptacle glabre à l'intérieur; ovaire glabre; étanines courtement stipitées à anthères introrses-subapicales. Ce dernier caractère conduit vers la section Acrothecon; les plantes distribuées par le Jardin botanique de Bruxelles présentent bien ces caractères qui ne sont pas ceux du type Mann 979.
+Remark: This species is not interpreted in the same way by Robyns and Wilczek; in the Flora of the Belgian Congo, page 435 (1951) one reads: coriaceous leaves (Meissner also writes coriaceous in 1864), receptacle glabrous within; ovary glabrous; stamens shortly stipitate with introrse-subapical anthers. This latter character leads toward the section Acrothecon; the plants distributed by the Brussels Botanical Garden indeed present these characters which are not those of the type Mann 979.
 
 ## Specimens examined
 

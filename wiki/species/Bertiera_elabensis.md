@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with ± pendulous, subsarmentose branches. Internodes with appressed ochraceous hairs. Stipules lanceolate, acute, 11–25 mm long, finely pubescent externally, with ± prominent axial nerve. Petiole 3–7 (10) mm, pubescent. Blade discolorous, ochraceous, rather pale when dry and puberulent beneath, glabrous above, narrowly elliptic, 15–31 × 4.5–9.6 cm; base narrowly rounded to acute; apex lanceolate, subacuminate, acute. Midvein slightly depressed above when dry, pubescent below as well as the margins and primary nerves. 8–13 pairs of secondary nerves, moderately ascending.
 
-Arbuste à rameaux ± retombants subsarmenteux. Entre-nœuds à poils ochracés apprimés. Stipules lancéolées aigués de 11-25 mm de long, finement pubescentes extérieurement, à nervure axiale ± saillante. Pétiole de 3-7 (10) mm, pubescent. Limbe discolore, ochracé, plutôt pâle à sec et pubéculent dessous, glabre dessus, étroitement elliptique, de 15-31 × 4,5-9,6 cm; base étroitement arrondie à aiguë; sommet lancéolé subacuminé aigu. Nervure médiane un peu en dépression dessus à sec, en dessous pubescente ainsi que les marges et les nervures principales. 8-13 paires de nervures secondaires médiocrement ascendantes.
+Racemes of terminal, pendulous cymes, 6–16 cm long; peduncle 2–5 cm, bearing a pair of subfoliaceus scales towards mid-length. Pedicel 0.5–1 mm. Flower 12–15 mm, puberulent on calyx and corolla. Calyx cup 1.5 mm high, often thin and reddish when dry, truncate. Corolla somewhat less developed than in B. racemosa; the tube reaches 1.6–2.5 mm at the narrowest point, the bud is slightly more acute; the internal pubescence is somewhat more abundant.
 
-Grappes de cymes terminales pendantes longues de 6-16 cm; pédoncule de 2-5 cm portant une paire d'écailles subfoliacées vers
-
-la mi-longueur. Pédicelle de 0,5-1 mm. Fleur de 12-15 mm, pubérulente sur le calice et la corolle. Cupule calycinale haute de 1,5 mm, souvent mince et rougeâtre à sec, tronquée. Corolle un peu moins développée que chez B. racemosa; le tube atteint 1,6-2,5 mm à l'endroit le moins large, le bouton est un peu plus aigu; la pubescence interne est un peu plus abondante.
-
-Infrutescence un peu accrescente; pédicelles jusqu'à 2-4 mm. Fruit un peu plus petit que celui du B. racemosa.
+Fruit-bearing inflorescence somewhat accrescent; pedicels up to 2–4 mm. Fruit somewhat smaller than that of B. racemosa.
 
 ## Type
 
@@ -37,11 +33,9 @@ Ledermann 545 (non vu), Elabi, région côtière des environs de Kribi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+SW Cameroon and Gabon, Estuaire region.
 
-SW Cameroun et Gabon, région de l'Estuaire.
-
-Nom : Evékoulé (Fang).
+Name: Evékoulé (Fang).
 
 ## Specimens examined
 

@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pellegr. Sterc. Gab., Mém. S. B. Fr.: 35 et 39 (1950-1951). — F.W.T.A. 2° ed. I: 322 et 328 (1958).
 
-La forme typique de cette espèce est hétérophylle et semble intermédiaire entre le Cola gabonensis et le C. heterophylla.
+The typical form of this species is heterophyllous and appears intermediate between Cola gabonensis and C. heterophylla.
 
-Du Gabon est connue une variété à feuilles symétriques toutes entières, avec la base du limbe atténuée plus ou moins aiguë, à pilosité remarquable sur les jeunes rameaux, les pétioles et parfois même sur le limbe. Les fleurs sont jaunes, les inflorescences très courtes, le calice assez largement campanulé et
+From Gabon is known a variety with symmetrical leaves entirely entire, with the base of the lamina attenuate more or less acute, with remarkable pubescence on the young branches, the petioles and sometimes even on the lamina. The flowers are yellow, the inflorescences very short, the calyx fairly broadly campanulate and
 
-médiocrement pilifère sur la face interne; 6 carpelles. Fruit non observé.
+moderately pilose on the inner surface; 6 carpels. Fruit not observed.
 
-Type de la variété : Le Testu 1676 (P.).
+Type of the variety: Le Testu 1676 (P.).
 
 ## Specimens examined
 

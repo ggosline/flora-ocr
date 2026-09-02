@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane cespiteuse ; stipe cylindrique , jusqu’à 15 m, jusqu’à 22 mm en diamètre ; entrenœuds 14–16 cm. Feuille : gaine striée longitudinalement, couverte d’une pilosité marron caduque ; ochréa dépassant le rachis sur 1,2–2,7 cm, entière, à sommet obliquement tronqué ; genou présent , 4 cm de longueur, rétréci à la base ; pétiole absent ou jusqu’à 10 cm, à bords armés d’épines réfléchies à pointe noire ; rachis 60–80 cm, aplati dessus, arrondi dessous, bords ar més comme le pétiole ; limbe comprenant 5 à 12 paires de folioles inéquidistantes, regroupées par paires ou par 4 ; folioles étroitement elliptiques-ovales à étroitement rhomboïdales, 13–20 × 2–3 cm, à sommet acuminé, marges sans ou avec peu d’épines ; cirrhe jusqu’à 50 cm, armé d’épines comme le rachis, folioles-épines éparses distalement, 1,5–2 cm. Fleur et fruit inconnus.
+Caespitose liane; stem cylindric, up to 15 m, up to 22 mm in diameter; internodes 14–16 cm. Leaf: sheath longitudinally striate, covered with deciduous brown pilosity; ochrea exceeding the rachis by 1.2–2.7 cm, entire, with obliquely truncate apex; knee present, 4 cm long, narrowed at base; petiole absent or up to 10 cm, margins armed with reflexed spines with black tips; rachis 60–80 cm, flattened above, rounded below, margins armed as in petiole; blade comprising 5 to 12 pairs of unequidistant leaflets, clustered in pairs or by fours; leaflets narrowly elliptic-ovate to narrowly rhomboidal, 13–20 × 2–3 cm, with acuminate apex, margins with or without few spines; cirrhus up to 50 cm, armed with spines as in rachis, spine-leaflets scattered distally, 1.5–2 cm. Flower and fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Est de Nigéria, Cameroun et Gabon ; au Gabon, peu récolté, connu du Massif du Chaillu (Ogooué-Lolo) et des Monts de Cristal (Estuaire). Statut de conservation : Préoccupation mineure (LC)
+South-East Nigeria, Cameroon and Gabon; in Gabon, poorly collected, known from the Chaillu Massif (Ogooué-Lolo) and the Crystal Mountains (Estuaire). Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de lisières de forêts tropicales humides ; au Gabon à ± 500 m d’altitude, ailleurs de 0 à 300 m
+Species of tropical humid forest margins; in Gabon at ± 500 m altitude, elsewhere from 0 to 300 m
 
 ## Vernacular names
 

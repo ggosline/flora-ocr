@@ -15,27 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Clerodendrum uncinatum auct., non Schinz. K. uncinata auct., non (Schinz) Moldenke. Géofrutex ; tiges prostrées , rampantes et étalées , formant une rosette basale , pubérulentes, armées d’épines supra-axillaires recourbées. Feuilles opposées ou subopposées, devenant plus petites distalement ; pétiole 0,2–1 cm, pubérulent ; limbe ± largement ovale à suborbiculaire, de 1–4 × 0,5–3,5 cm, arrondi à obtus ou cunéé à la base, obtus à cuspidé à l’apex, entier, pu bérulent sur les deux faces et la marge. Inflorescence supra-axillaire ; pédoncule spiniforme. Fleur : pédicelle 1–1,5(–2) cm, à deux bractéoles linéaires souvent précocement caduques ; calice campanulé, long de 5–6 mm , à lobes triangulaires longs de 2 mm ; corolle subactinomorphe , jaune , à tube étroit, long de 4–6 mm, à lobes légèrement inégaux, oblongs à ovales, de 5–12 × 3–5 mm, pileux à l’extérieur et ciliolés ; étamines ne dépassant pas les lobes de la corolle . Fruit subglobuleux, jusqu’à 15 mm de diamètre, noirâtre.
+Clerodendrum uncinatum auct., non Schinz. K. uncinata auct., non (Schinz) Moldenke. Geofrutex; stems prostrate, creeping and spreading, forming a basal rosette, puberulent, armed with supra-axillary recurved spines. Leaves opposite or subopposite, becoming smaller distally; petiole 0.2–1 cm, puberulent; blade ± broadly ovate to suborbicular, 1–4 × 0.5–3.5 cm, rounded to obtuse or cuneate at base, obtuse to cuspidate at apex, entire, puberulent on both surfaces and margin. Inflorescence supra-axillary; peduncle spiniform. Flower: pedicel 1–1.5(–2) cm, with two linear bracteoles often early caducous; calyx campanulate, 5–6 mm long, with triangular lobes 2 mm long; corolla subactinomorphic, yellow, with narrow tube, 4–6 mm long, with slightly unequal lobes, oblong to ovate, 5–12 × 3–5 mm, pilose on the exterior and ciliolate; stamens not exceeding the corolla lobes. Fruit subglobose, up to 15 mm in diameter, blackish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-à large répartition en République démocratique du Congo, en Angola et sur les Plateaux Batéké de la République du Congo où il s’étend jusqu’au Gabon ; au Gabon : Haut-Ogooué, Parc national des Plateaux Batéké, rivière Mpassa. Statut de conservation : à large répartition et attribué préliminairement à Préoccupation mineure (LC)
+Widely distributed in the Democratic Republic of the Congo, in Angola and on the Batéké Plateaus of the Republic of the Congo where it extends to Gabon; in Gabon: Haut-Ogooué, Batéké Plateaus National Park, Mpassa River. Conservation status: widely distributed and preliminarily assigned to Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-présent sur les sables du Kalahari des plateaux Batéké ; au Gabon à 700 m d’altitude, ailleurs jusqu’à 1800 m. Selon les collecteurs Breyne et Carrington, en dehors du Gabon, la plante a été observée comme poussant pendant la saison sèche, les parties aériennes disparaissant au début de la saison des pluies
+Present on the Kalahari sands of the Batéké plateaus; in Gabon at 700 m altitude, elsewhere up to 1800 m. According to collectors Breyne and Carrington, outside of Gabon, the plant has been observed growing during the dry season, with the aerial parts disappearing at the beginning of the rainy season.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Dans la littérature, K. schaijesii et K. uncinata ont été longtemps confondues. B : Bamps (2013), Vande weghe et al. (2016). i B liographie
+In the literature, K. schaijesii and K. uncinata have long been confused. B: Bamps (2013), Vandeweghe et al. (2016). Bibliography
 
 ## Notes
 

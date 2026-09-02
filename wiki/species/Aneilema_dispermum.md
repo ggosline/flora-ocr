@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Kew Bull. 7(2) : 198 (1952). A. dispermum ressemble fortement à A. beniniense , mais se distingue nettement par ses fruits courts avec deux loges, chacune contenant une seule graine (au lieu de fruits plus longs que larges, avec des loges à plusieurs graines).
+Kew Bull. 7(2) : 198 (1952). A. dispermum resembles A. beniniense strongly, but is clearly distinguished by its short fruits with two locules, each containing a single seed (instead of fruits longer than wide, with locules containing several seeds).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce montagnarde (en Afrique de l’Est, de 1450 à 2600 m d’altitude), présente au Came roun de 70 à 1440 m d’altitude. Cette espèce relativement rare se rencontre dans les pays environnants, en particulier dans les forêts de montagne. Elle n’a cependant pas été trouvée au Gabon. Bi : Brenan (1952, 1968b), Cabezas et al. (2014), Faden (2012), Morton (1966). B liographie
+montane species (in East Africa, from 1450 to 2600 m altitude), present in Cameroon from 70 to 1440 m altitude. This relatively rare species is found in the surrounding countries, particularly in mountain forests. It has not, however, been found in Gabon. Bi: Brenan (1952, 1968b), Cabezas et al. (2014), Faden (2012), Morton (1966). Bibliography
 
 ## Notes
 

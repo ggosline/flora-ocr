@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ann. Mus. Congo Belge, Bot. sér. 5, 1(2) : 96 (1904). Liane cespiteuse ; stipe cylindrique, jusqu’à 25 m, jusqu’à 15 mm de diamètre. Feuille : gaine striée, à pilosité noire éparse, glabrescente ; ochréa dépassant le rachis sur 3–4 cm, entière, à sommet obliquement tronqué ; genou absent ; feuilles juvéniles à pétiole jusqu’à 15 cm, à limbe bifide ; feuilles matures à pétiole de 0–1,2 cm ; rachis 60–80 cm, concave dessus, arrondi dessous, bords armés d’épines réfléchies, glabre ; limbe avec 8 à 14 paires de folioles cunéiformes, spatulées ou ovoïdes, 9–24 × 2–6 cm, sommet modérément à fortement pré morse, marges ciliées-épineuses, les basales plus petites que les autres, ou alors entièrement absentes ; cirrhe jusqu’à 80 cm, armé d’épines comme le rachis , folioles-épines ± 2 cm. Inflorescence jusqu’à 35 cm de longueur ; pédoncule jusqu’à 10 cm ; rachis jusqu’à 20 cm, érigé, avec 7 à 12 paires de rameaux florifères de ± 7 cm, décroissant en longueur distalement. Fleur : calice 5 × 3 mm, à lobes peu profonds à sommet arrondi à obtus ; corolle 8 × 2 mm, divisée sur le ¼ de sa longueur ; étamines en un anneau de ± 3 mm de longueur, anthère ± 0,6 mm de longueur ; ovaire ± 5 mm de longueur ; style ± 2 mm. Fruit ovoïde à presque cylin drique, 2,5–3 × 1,5–2 cm à maturité, avec 17 à 21 rangs d’écailles, monosperme. Graine 2–2,5 × 1,1–1,5 × 0,8–1 cm, aplatie d’un côté, marges légèrement ondulées.
+Ann. Mus. Congo Belge, Bot. sér. 5, 1(2) : 96 (1904). Cespitose liana; stem cylindrical, up to 25 m, up to 15 mm in diameter. Leaf: sheath striate, with scattered black hairs, glabrescent; ochrea exceeding the rachis by 3–4 cm, entire, with obliquely truncate apex; knee absent; juvenile leaves with petiole up to 15 cm, with bifid blade; mature leaves with petiole 0–1.2 cm; rachis 60–80 cm, concave above, rounded below, margins armed with reflexed spines, glabrous; blade with 8 to 14 pairs of cuneiform, spatulate or ovoid leaflets, 9–24 × 2–6 cm, apex moderately to strongly premorse, margins ciliate-spinose, the basal ones smaller than the others, or entirely absent; cirrhus up to 80 cm, armed with spines like the rachis, spine-like leaflets ± 2 cm. Inflorescence up to 35 cm long; peduncle up to 10 cm; rachis up to 20 cm, erect, with 7 to 12 pairs of floriferous branches ± 7 cm, decreasing in length distally. Flower: calyx 5 × 3 mm, with shallow lobes with rounded to obtuse apex; corolla 8 × 2 mm, divided on the ¼ of its length; stamens in a ring ± 3 mm long, anther ± 0.6 mm long; ovary ± 5 mm long; style ± 2 mm. Fruit ovoid to almost cylindric, 2.5–3 × 1.5–2 cm at maturity, with 17 to 21 rows of scales, monospermic. Seed 2–2.5 × 1.1–1.5 × 0.8–1 cm, flattened on one side, margins slightly undulate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République centrafricaine, République du Congo, République démo cratique du Congo, Angola (Cabinda), Burundi, Ouganda et ouest de la Tanzanie ; au Gabon, présent dans le Haut-Ogooué, l’Ogooué-Ivindo, le sud de la Ngounié et le Woleu-Ntem. Statut de conservation : Préoccupation mineure (LC)
+Cameroon, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda), Burundi, Uganda and western Tanzania; in Gabon, present in Haut-Ogooué, Ogooué-Ivindo, southern Ngounié and Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce de forêt dense humide fermée, mais aussi en milieu ouvert ; au Gabon entre 100 et 500 m d’altitude, ailleurs entre 50 et 500 m
+Species of closed dense humid forest, but also in open habitat; in Gabon between 100 and 500 m elevation, elsewhere between 50 and 500 m
 
 ## Vernacular names
 

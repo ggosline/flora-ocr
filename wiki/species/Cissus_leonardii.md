@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing liane plant, reaching 4-5 m in length. Young branches more or less densely pubescent; adult stems more or less polygonal and furnished with narrow wings, up to 3 mm in diameter, glabrous or glabrescent; internodes 2-5 cm long. Tendrils simple glabrous; deltoid bracts 1-1.5 mm long, glabrous. Stipules oblong, with base furnished with a broad lateral expansion, 4-6 mm long, 2.5-3.5 mm wide, glabrous. Leaves simple entire. Petiole slender, deeply canaliculate; 1.5-5 cm long, glabrescent or sparsely pubescent. Blade oval to oval oblong, 6-10 cm long, 2-6 cm wide, with rounded or slightly cordate base, with cuneate and acuminate apex; margins presenting broad deltoid indentations; on the lower surface small rounded and pilose domatia at the angle of the primary veins; both leaf surfaces nearly glabrous or presenting medifixed hairs irregularly dispersed; venation pinnate; texture coriaceous.
 
-Plante lianoïde grimpante, atteignant 4-5 m de long. Jeunes rameaux plus ou moins densément pubescents; tiges adultes plus ou moins polygonales et munies d'ailes étroites, jusqu'à 3 mm de diamètre, glabres ou glabrescentes; entrenœuds de 2-5 cm de long. Vrilles simples glabres; bractées deltoïdes de 1-1,5 mm de long, glabres. Stipules oblongues, à base pourvue d'une large expansion latérale, de 4-6 mm de long, de 2,5-3,5 mm de large, glabres. Feuilles simples entières. Pétiole grêle, profondément canaliculé; de 1,5-5 cm de long, glabrescent ou éparsément pubescent. Limbe ovale à ovale oblong, de 6-10 cm de long, de 2-6 cm de large, à base arrondie ou légèrement cordée, à sommet cuné et acuminé; marges présentant de larges indentations deltoïdes; à la face inférieure de petites domaties arrondies et pileuses à l'angle des nervures principales; les deux faces de la feuille à peu près glabres ou présentant des poils médifiques irrégulièrement dispersés; nervation pennée; texture coriace.
+Inflorescences 2-7 cm long, in compound cymes of multiflorous umbelliform cymules; peduncle 1-2 cm long; axes with generally fairly dense pubescence; bracts and bracteoles deltoid to suborbicular, 1-1.5 mm long, glabrous. Flowers 2-2.5 mm long. Pedicel cylindrical, 3-5 mm long, more or less densely pilose. Calyx cupuliform, approximately 0.5 mm high, glabrous. Corolla ovoid, glabrous but very finely papillose; petals oblong deltoid, approximately 2 mm long. Stamen approximately 1.5 mm long. Ovary glabrous.
 
-Inflorescences de 2-7 cm de long, en cymes composées de cymules ombelliformes multiflores; pédoncule de 1-2 cm de long; axes à pubescence généralement assez dense; bractées et bractéoles deltoïdes à suborbiculaires, de 1-1,5 mm de long, glabres. Fleurs de 2-2,5 mm de long. Pédicelle cylindrique, de 3-5 mm de long, plus ou moins densément pileux. Calice cupuliforme, d'environ 0,5 mm de haut, glabre. Corolle ovoide, glabre mais très finement papilleuse; pétales oblonges deltoïdes, d'environ 2 mm de long. Étamine d'environ 1,5 mm de long. Ovaire glabre.
+Berries ovoid, 6-8 mm long, 4-5 mm wide, glabrous. Seed ovoid more or less reniform, 4-6 mm long, 3.5-4.5 mm wide, 3-3.5 mm thick; rostrum short thick; median crest narrow prominent; lateral lines very prominent emitting 2-3 radials; seed coat with finely irregular surface.
 
-Baies ovoïdes, de 6-8 mm de long, de 4-5 mm de large, glabres. Graine ovoïde plus ou moins réniforme, de 4-6 mm de long, de 3,5-4,5 mm de large, de 3-3,5 mm d'épaisseur; rostre court épais; crête médiane étroite saillante; lignes latérales très saillantes émettant 2-3 radiales; test à surface finement irrégulière.
+Type from Congo (Léopoldville): Léonard 1801 (BR).
 
-Type du Congo (Léopoldville) : Léonard 1801 (BR).
-
-En forêt, dans les jachères et les galeries forestières. Espèce de l'Afrique équatoriale : Cameroun, Gabon, Oubangui, Congo.
+In forest, in fallows and forest galleries. Species of equatorial Africa: Cameroon, Gabon, Ubangi, Congo.
 
 ## Specimens examined
 

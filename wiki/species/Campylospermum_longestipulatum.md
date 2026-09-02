@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste atteignant 3 m de hauteur ; rameaux à écorce blanchâtre. Stipules persistantes, étroitement triangulaires, 14–17 mm de longueur . Feuille : pétiole 3–10 mm, assez mince à épais, généralement canaliculé dessus ; limbe étroitement elliptique ou étroitement elliptique-obovale à oblong-elliptique, (10–)12–22(–30) × (3,5–)4–6(–9) cm, ratio 2,5–3,5, cunéé à la base et décurrent sur le pétiole, aigu à acuminé au sommet, parcheminé, bullé , marge serrulée dans la partie supérieure, généralement entière dans la partie basale ; nervure principale fortement proéminente sur les deux faces, nervures latérales en (10–)15 à 20(–23) paires , canaliculées dessus, proéminentes dessous , nervation tertiaire scalariforme, perpendiculaire à la nervure principale, indistincte sur les deux faces . Inflorescence terminale, non ramifiée, dense, l’axe principal de 2–4 cm ; pédoncule robuste ; écailles gemmaires persistantes, triangulaires ; cymules distantes de seulement 1–2 mm , avec 1 ou 2 bractées triangulaires à leur base. Fleur : pédicelle 11– 13(–20) mm, articulé à 3–5 mm de la base ; sépales ovales, 6–8 × 3 – 4 mm en fleur, 12–13 × 3–5 mm en fruit ; pétales obovales, 9–12 × 7–9 mm, cunéés à la base, arrondis au sommet ; étamines : anthères 4–5 mm de longueur ; style 5–6 mm. Fruit : réceptacle environ 4 × 2 mm ; drupéoles 1 ou 2 bien développées par réceptacle, réniformes , environ 8 × 4–6 mm ; cotylédons incombants, inégaux à petit cotylédon externe .
+Shrub reaching 3 m in height; branches with whitish bark. Stipules persistent, narrowly triangular, 14–17 mm long. Leaf: petiole 3–10 mm, rather slender to thick, generally channelled above; blade narrowly elliptic or narrowly elliptic-obovate to oblong-elliptic, (10–)12–22(–30) × (3.5–)4–6(–9) cm, ratio 2.5–3.5, cuneate at base and decurrent on petiole, acute to acuminate at apex, coriaceous, bullate, margin serrulate in upper part, generally entire in basal part; primary vein strongly prominent on both surfaces, lateral veins in (10–)15 to 20(–23) pairs, channelled above, prominent below, tertiary venation scalariform, perpendicular to primary vein, indistinct on both surfaces. Inflorescence terminal, unbranched, dense, main axis 2–4 cm; peduncle robust; gemmate scales persistent, triangular; cymules distant by only 1–2 mm, with 1 or 2 triangular bracts at their base. Flower: pedicel 11–13(–20) mm, articulate 3–5 mm from base; sepals ovate, 6–8 × 3–4 mm in flower, 12–13 × 3–5 mm in fruit; petals obovate, 9–12 × 7–9 mm, cuneate at base, rounded at apex; stamens: anthers 4–5 mm long; style 5–6 mm. Fruit: receptacle approximately 4 × 2 mm; drupels 1 or 2 well developed per receptacle, reniform, approximately 8 × 4–6 mm; cotyledons incumbent, unequal with small external cotyledon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-régions atlantiques du Cameroun et du nord du Gabon ; au Gabon, connue des Monts de Cristal
+Atlantic regions of Cameroon and northern Gabon; in Gabon, known from the Cristal Mountains
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, forêt littorale et riveraine ; au Gabon, à 200–530 m d’altitude, ailleurs descendant jusqu’à 50 m. Note taxonomique : Cette espèce est morphologiquement semblable à C . sulcatum , en raison de ses feuilles bullées et son inflorescence non ramifiée et compacte. Elle se distingue de cette dernière par ses stipules longues et persistantes, ses nervures latérales généralement plus nombreuses et sa nervation tertiaire indistincte. b : Bissiengou (2014), Bissiengou et al. (2013). ibliographie
+primary and secondary forest, littoral and riparian forest; in Gabon, at 200–530 m altitude, elsewhere descending to 50 m. Taxonomic note: This species is morphologically similar to C. sulcatum, because of its bullate leaves and unbranched and compact inflorescence. It is distinguished from the latter by its long and persistent stipules, its lateral veins generally more numerous and its indistinct tertiary venation. b: Bissiengou (2014), Bissiengou et al. (2013). Bibliography
 
 ## Notes
 

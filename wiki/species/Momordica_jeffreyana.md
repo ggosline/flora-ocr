@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 30(6-11)
 
-Planche 30(6-11)
-
-Herbe vivace ou liane, monoïque; tige ± cylindrique, jusqu'à 4 m de hauteur et jusqu'à 1 cm de diamètre, glabre, lisse à finement striée. Vrilles simples, glabres, robustes, glabres. Feuille simple: pétiole robuste, 1,5–2 cm; limbe ovale-elliptique, de 10–14 × 5–6 cm, subtronqué à ± cordé à la base, acuminé au sommet, coriace ou subcoriace, glabre des deux côtés, à marge entière. Inflorescence: la mâle en fascicule de 3 à 10 fleurs; bractée rhomboïdale-ovale, de 1,8–2 × ± 1 cm, coriace, glabre. Fleur mâle: pédicelle 1–2 cm, grêle, glabre; réceptacle en entonnoir, de 4–5 × 6–8 mm, glabre; sépales triangulaires, de ± 3 × 2 mm, acuminés au sommet, glabres; pétales obovales, de ± 8 × 6 mm, pubérulents sur les deux faces, blanc verdâtre, à 7 nervures; étamines 3, filet 3 mm, élargi vers la base, anthères 2 bithèques, 1 monothèque, à loges tripiqués et connectif large. Fleur femelle inconnue. Fruit ovoïde, de ± 4 × 3 cm, charnu, glabre, avec 5 à 7 crêtes charnues longitudinales, lisse entre les crêtes, à nombreuses graines. Graine de contour ovale-cunéiforme à ± triangulaire, comprimée, de ± 18 × 14 mm; testa crustacé, brun olive, ± lisse, à crête distincte le long de la marge.
+Perennial herb or vine, monoecious; stem ± cylindric, up to 4 m in height and up to 1 cm in diameter, glabrous, smooth to finely striate. Tendrils simple, glabrous, robust, glabrous. Leaf simple: petiole robust, 1.5–2 cm; blade ovate-elliptic, 10–14 × 5–6 cm, subtruncate to ± cordate at base, acuminate at apex, coriaceous or subcoriaceous, glabrous on both sides, with entire margin. Inflorescence: male in a fascicle of 3 to 10 flowers; bract rhomboid-ovate, 1.8–2 × ± 1 cm, coriaceous, glabrous. Male flower: pedicel 1–2 cm, slender, glabrous; receptacle funnel-shaped, 4–5 × 6–8 mm, glabrous; sepals triangular, ± 3 × 2 mm, acuminate at apex, glabrous; petals obovate, ± 8 × 6 mm, puberulent on both surfaces, whitish-green, with 7 veins; stamens 3, filament 3 mm, enlarged toward base, anthers 2 bithecal, 1 monothecal, with trilobed locules and broad connective. Female flower unknown. Fruit ovoid, ± 4 × 3 cm, fleshy, glabrous, with 5 to 7 fleshy longitudinal ridges, smooth between ridges, with numerous seeds. Seed with oval-cuneiform to ± triangular outline, compressed, ± 18 × 14 mm; testa crustaceous, olive-brown, ± smooth, with distinct ridge along margin.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République démocratique du Congo et Ouganda ; au Gabon : Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, and Uganda; in Gabon: Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts riveraines, forêts ombrophiles, recrês forestiers ; au Gabon à 535 m d'altitude, ailleurs à 470–550 m. Floraison de mars à mai
+Riparian forests, ombrophilous forests, forest gaps; in Gabon at 535 m altitude, elsewhere at 470–550 m. Flowering from March to May
 
 ## Bibliography
 

@@ -24,7 +24,7 @@ tags: [species, not-in-gabon]
 
 ## Full treatment
 
-2.Diospyros alboflavescens (Gurke） F. White
+2.Diospyros alboflavescens (Gurke) F. White
 
 Bull.Jard.Bot.Brux.26:24I (1956),p.p.(cf.D.iturensis (GURkE) R.LET. et F.WHITE).
 
@@ -48,7 +48,7 @@ This species, represented only by 3 Zenker specimens from the Kribi region of Ca
 
 ### Material studied in Cameroon
 
-Zenker 567,Bipindi (fl.,mars I914) P,B；2273 (lectotype),Bipindi (fl., avr.)；3464 (syntype de Maba alboflavescens GüRkE)，Mimfia pres Bipindi (fl., juin) BM,K.
+Zenker 567,Bipindi (fl.,mars I914) P,B;2273 (lectotype),Bipindi (fl., avr.);3464 (syntype de Maba alboflavescens GüRkE),Mimfia pres Bipindi (fl., juin) BM,K.
 
 ## Figures
 

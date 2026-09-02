@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Rhizomate tenui, vix ultra 2 mm crasso, longe repente, foliis remotis, paleis paucis, brunneis, angustis, sparse vestito, stipite 5-10 cm longo, basi nigrescente et paleis lanceolatis vestito. Lamina 30 cm longa, 10 lata, pinnata, apice pinnatifida, herbacea. Pinnis 5-6 pugis, patentibus, oblongis, 2 cm inter se remotis, 4, 5 cm longis, 1 latis, profonde serrulatis, base contractis, apice longe acuminatis, adnatis, in alam ad rachim decurrentibus. Paginae glabrae. Sori nervo mediano marginemque attingentes, indusio papyraceo, margine integro.
+Rhizome slender, scarcely more than 2 mm thick, long-creeping, with remote fronds, clothed with few, brown, narrow scales, stipe 5-10 cm long, blackish at base and clothed with lanceolate scales. Lamina 30 cm long, 10 wide, pinnate, pinnatifid at apex, herbaceous. Pinnae 5-6 pairs, patent, oblong, 2 cm apart from one another, 4.5 cm long, 1 wide, deeply serrulate, contracted at base, long-acuminate at apex, adnate, decurrent into a wing to the rachis. Frond surfaces glabrous. Sori reaching the midvein and margin, indusium papyraceous, margin entire.
 
 ## Type
 
@@ -26,13 +24,9 @@ N. Hallé et G. Cours 6084, Moumba, entre 750 et 800 m (Herb. Mus. Par.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Superficially similar to A. variabile var. akimense (Adams) Tard. stat. nov. (bas. A. akimense Adams, Ann. et Mag. Nat. Hist. 7 : 873 t. 29, 1954), a deeply pinnato-pinnatifid variety of A. variabile; differs from it by its slender rhizome, very long-creeping, with very spaced fronds, bearing a few rare dark brown, narrow scales with base scarcely emarginate, composed of cells with thick walls, dark brown, brown light, by its blackish petiole, rounded, scaly only at the extreme base, by its middle pinnae only 1 cm wide, deeply and irregularly dentate, with oblique, acute teeth, with apex very long caudately-tapered, entire for approximately 2 cm; the apex of the limb is very long-tapered for 10 cm, proliferous at the summit, approximately 2 cm wide at the base, and progressively divided into 5-7 pairs of quadrangular, truncate lobes, slightly dentate at the summit. The coloration is brownish when dry. The texture thin, the venation simple. The sori thick and elongate, reaching the costa and margin, entering into the serrulations of the limb.
 
-Voisin, à première vue, de l'A. variabile var. akimense (Adams) Tard. stat. nov. (bas. A. akimense Adams, Ann. et Mag. Nat. Hist. 7 : 873 t. 29, 1954) variété profondément pinnato-pinnatifide de l'A. variabile; en diffère par son rhizome mince, très longuement rampant, à frondes très espacées, portant quelques rares écailles brun-noir, étroites, à base à peine échancrée, formées de cellules à parois épaisses, brun-noir, lumière brune, par son
-
-pétiole noirâtre, arrondi, écailleux à l'extrême base seulement, par ses pennes moyennes larges de 1 cm seulement, profondément et irrégulièrement dentées, à dents obliques, aiguës, à extrémité très longuement caudée-effilée, entière sur 2 cm environ; l'extrémité du limbe est très longuement effilée sur 10 cm, prolifère au sommet, large de 2 cm environ à la base, et progressivement divisée en 5-7 paires de lobes quadrangulaires, tronqués, légèrement dentés au sommet. La coloration est brunissante sur le sec. La texture mince, les nervures simples. Les sores épais et allongés, atteignent le costa et la marge, en entrant dans les serrulations du limbe.
-
-L'A. akimense, qu'Alston avait mis en synonyme d'A. varia-bile mais qui me semble tout de même en être au moins une variété, possède un rhizome très court, à frondes rapprochées, un pétiole aplati, vert, écailleux sur une grande longueur; la penne terminale du limbe est longue de 7-8 cm sur 3 de large, deltoïde, subentière, les pennes adnées ont une marge entière ou ondulée, les sores sont plus courts et, sur la penne terminale, des longs alternant avec des courts.
+A. akimense, which Alston had put into synonymy with A. variabile but which seems to me all the same to be at least a variety of it, possesses a very short rhizome, with crowded fronds, a flattened, green petiole, scaly over a great length; the terminal pinna of the limb is 7-8 cm long by 3 wide, deltoid, subentire, the adnate pinnae have an entire or undulate margin, the sori are shorter and, on the terminal pinna, long ones alternating with short ones.
 
 ## Notes
 

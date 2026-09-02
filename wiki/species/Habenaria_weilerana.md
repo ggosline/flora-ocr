@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Stem 16–26 cm, glabrous, with leaves 6.5–11.5 × 0.7–1 cm, lanceolate to narrowly lanceolate, acute. Inflorescence 2.7–6 cm, lax, 3-flowered. Flowers medium-sized, resupinate, white, glabrous. Dorsal sepal subconcave, elliptic-ovate, obtuse; lateral sepals obliquely oblong-elliptic, subacute. Petals oblong-lanceolate, subacute. Labellum with 3 ± equal lobes from a linear base of 6.5–7.5 mm: median lobe oblong-lanceolate, subacute; lateral lobes pendulous, narrowly lanceolate, acute, apices ± reflexed. Spur distinctly swollen toward the apex, subobtuse.
 
-Tige 16-26 cm, glabre, à feuilles 6,5-11,5 × 0,7-1 cm, lancéolées à étroitement lancéolées, aiguës. Inflorescence 2,7-6 cm, lâche, 3-flore. Fleurs moyennes, résupinées, blanches, glabres. Sépale dorsal subconcave, elliptique-ové, obtus ; sépales latéraux obliquement oblongs-elliptiques, subaigu. Pétales oblongs-lancéolés, subaigus. Labelle à 3 lobes ± égaux depuis une base linéaire de 6,5-7,5 mm : lobe médian oblong-lancéolé, subaigu ; lobes latéraux pendants, étroitement lancéolés, aigus, sommets ± réfléchis. Éperon nettement renflé vers le sommet, subobtus.
-
--Pl. 14, p. 39.
+—Pl. 14, p. 39.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon
+Nigeria, Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 50–? m. Mossy rock near watercourse, in submontane forest; terrestrial herb, lithophyte and epiphyte at 2 m above the ground
 
-alt. 50- ? m. Rocher moussu près de cours d'eau, en forêt submontagnarde ; herbacée terrestre, lithophyte et épiphyte à 2 m au dessus du sol
+MATERIAL STUDIED (Map 5):
 
-MATÉRIEL ÉTUDIÉ (Carte 5) :
-
-Le Testu 5224, entre Mouila et Kembélé (fl., Fév.), P!.
+Le Testu 5224, between Mouila and Kembélé (fl., Feb.), P!.
 
 ## Figures
 

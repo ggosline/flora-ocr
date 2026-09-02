@@ -17,47 +17,41 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Rhizome rampant, assez charnu, racines nombreuses. Tige 11-40 cm, glabre. Feuilles pétiolées, < 7 x < 3 cm, blancéolées, obovées, aiguës. Inflorescence 3-20 cm, 6-20-flore. Fleurs blanchâtres, verdâtres à rosâtres, glabres. Sépale dorsal largement obové, elliptique-ové à oblong ; sépales latéraux obliquement ovés-elliptiques à ovés-lancéolés. Pétales non lobés, linéaires, étroitement lancéolés ou filiformes, aigus, avec de petits lobules basaux. Labelle assez charnu, glabre, base indivise de 1 mm et 3 lobes filiformes à linéaires-lancéolés, les 2 latéraux très divergents. Éperon subaigu à moitié basale filiforme et moitié apicale renflée. Pl. 16, p. 43.
+Rhizome creeping, fairly fleshy, roots numerous. Stem 11-40 cm, glabrous. Leaves petiolate, < 7 x < 3 cm, lanceolate, obovate, acute. Inflorescence 3-20 cm, 6-20-flowered. Flowers whitish, greenish to pinkish, glabrous. Dorsal sepal broadly obovate, elliptic-ovate to oblong; lateral sepals obliquely ovate-elliptic to ovate-lanceolate. Petals not lobed, linear, narrowly lanceolate or filiform, acute, with small basal lobules. Labellum fairly fleshy, glabrous, base undivided 1 mm and 3 filiform to linear-lanceolate lobes, the 2 lateral ones very divergent. Spur subacute with basal half filiform and apical half swollen. Pl. 16, p. 43.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Centrafrique, Gabon, Congo (Kinshasa)
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Central African Republic, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 400-600 m. Terrestrial herbaceous plant of rain forest, primary or secondary, flooded forest with Sapotaceae, savanna, open marshy place
 
-alt. 400-600 m. Herbacée terrestre de forêt ombrophile, primaire ou secondaire, forêt inondable à Sapotaceae, savane, lieu marécageux ouvert
+MATERIAL EXAMINED (Map 6):
 
-MATÉRIEL ÉTUDIÉ (Carte 6) :
+Breteler & de Wilde 275, 7-8 km SW of Asok, hillside, W of village Nkan, near track (fl., August), WAG!.
 
-Breteler & de Wilde 275, 7-8 km SO d'Asok, colline, O du village Nkan, près de la piste (fl., Août), WAG!.
+Breteler & al. 9668, Rabi, 1°55'S, 9°50'E (fl., March), WAG!, LBV.
 
-Breteler & al. 9668, Rabi, 1°55'S, 9°50'E (fl., Mars), WAG!, LBV.
-
-Hallé & Villiers 5302, Monts de Cristal, O de la Riv. Balakabo (fl., Fév.), P!.
+Hallé & Villiers 5302, Monts de Cristal, W of Riv. Balakabo (fl., Feb.), P!.
 
 Leroy 47, s.loc., P!
 
-Le Testu 6480, Haute Ngounyé (fl., Avr.), P!.
+Le Testu 6480, Haute Ngounyé (fl., Apr.), P!.
 
-van Nek s.n., près de Rigsite, 10 km au S du Lac Ezanga, 1°04'S, 10°14'E (fl., Fév.), WAG! LBV.
+van Nek s.n., near Rigsite, 10 km S of Lake Ezanga, 1°04'S, 10°14'E (fl., Feb.), WAG! LBV.
 
-Wieringa 672, Woleu-Ntem, 1 km ONO de Tchimbélé, près de la Riv. Bingiligwen, 10°23'E, 0°37'N (fl., Mars), WAG! LBV.
+Wieringa 672, Woleu-Ntem, 1 km WNW of Tchimbélé, near Riv. Bingiligwen, 10°23'E, 0°37'N (fl., March), WAG! LBV.
 
 4. Sect. Replicatae Kraenzl.
 
 Bot. Jahrb. 16 : 55, 74, 85 (1892).
 
-Feuilles en général étroites, linéaires ou lancéolées, dressées à étallées. Fleurs petites, résupinées. Sépale dorsal souvent rétroversé, les latéraux très obliques avec apicule latéral. Pétales 2-partites presque de la base. Stigmate, anthère et prolongements du rostellum souvent grêles.
+Leaves in general narrow, linear or lanceolate, erect to spreading. Flowers small, resupinate. Dorsal sepal often retroversed, the lateral ones very oblique with lateral apicule. Petals 2-partite almost from base. Stigma, anther and rostellum prolongations often slender.
 
-1. Pédicelle + ovaire < 25 mm ; lobe du pétale antérieur 8-16 mm, glabre ou papilleux, non cilié ..... 7. H. genuflexa
+1. Pedicel + ovary < 25 mm; anterior petal lobe 8-16 mm, glabrous or papillose, not ciliate ..... 7. H. genuflexa
 
-1'. Pédicelle + ovaire 20-35 mm ; lobe du pétale antérieur 11-18,5 mm, cilié aux 2/3 inférieurs ..... 8. H. schimperiana
+1'. Pedicel + ovary 20-35 mm; anterior petal lobe 11-18.5 mm, ciliate on lower 2/3 ..... 8. H. schimperiana
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe scabre ; tige 35–80 cm de hauteur. Feuilles opposées ou alternes ; limbe 0,75–3,5 × 0,5–1,25 cm, entier et filiforme ou étroitement linéaire en haut, pennatifide en bas. Fleur : pédicelle 2–4 mm ; calice 2,5–4,5 mm de longueur, à lobes ovales de 0,8–1,4 mm de longueur et aigus, glabre ; corolle 8,5–12 mm de longueur, pourpre, rose à blanche, tube 3–4 mm de longueur, lobes largement ovales, arrondis, 3–4 mm de longueur ; étamines à thèques subégales, étamines abaxiales 3–3,5 mm, les adaxiales 2 mm ; ovaire ovoïde, 2–3 mm de longueur ; style 6 mm. Fruit globuleux, 2,5–3,5 × 2,8–3,5 mm.
+Scabrous herb; stem 35–80 cm tall. Leaves opposite or alternate; blade 0.75–3.5 × 0.5–1.25 cm, entire and filiform or narrowly linear above, pinnatifid below. Flower: pedicel 2–4 mm; calyx 2.5–4.5 mm long, with ovate lobes 0.8–1.4 mm long and acute, glabrous; corolla 8.5–12 mm long, purple, pink to white, tube 3–4 mm long, lobes broadly ovate, rounded, 3–4 mm long; stamens with subequal anthers, abaxial stamens 3–3.5 mm, adaxial ones 2 mm; ovary ovoid, 2–3 mm long; style 6 mm. Fruit globose, 2.5–3.5 × 2.8–3.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l'Ouest et centrale, Soudan, Burundi, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Angola et Madagascar ; au Gabon, observée dans l’Estuaire et l’Ogooué-Ivindo
+West and central Africa, Sudan, Burundi, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Angola and Madagascar; in Gabon, observed in the Estuary and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marais et pelouses, savanes rocheuses humides ; au Gabon, à 100–300 m d’altitude, en Afrique de l’Est, jusqu’à 2000 m. B : Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Philcox (1990). ibliographie
+marshes and grasslands, wet rocky savannas; in Gabon, at 100–300 m altitude, in East Africa, up to 2000 m. B: Ghazanfar et al. (2008), Hepper (1963), Mielcarek (1996), Philcox (1990). Bibliography
 
 ## Notes
 

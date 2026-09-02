@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 50 m de hauteur, sempervirent ou caducifolié, monoïque ; tronc à contreforts aigus ; écorce pâle et lisse, s’écaillant en petits disques ; tranche à couches alternées de crème et de brun ; rameaux jeunes à pubescence fauve. Stipules étroitement elliptiques-ovales, longues de 4–7 mm, pubescentes. Feuille : pétiole de 3–10 mm ; limbe obovale-elliptique à elliptique, symétrique , de (3,5–)6,5–15 × 4–8 cm, cunéé et légèrement asymétrique à la base, acuminé à mucroné, à marge faiblement à clairement grossièrement dentée dans la moitié supérieure, cartacé à subcoriace, brillant dessus, glabre à l’exception de quelques poils sur les nervures dessous, triplinervé ; nervures latérales basales s’étendant un peu dans la moitié supérieure , 3 à 6 paires de nervures secondaires, nervation tertiaire réticulée. Inflo rescence longue de 4–15 mm à l’anthèse, jusqu’à 30 mm en fruit, à cymes souvent avec de nombreuses fleurs mâles groupées et quelques fleurs femelles ou hermaphrodites à l’apex, cymules supérieures avec plusieurs fleurs hermaphrodites. Fleur : tépales 5 ou 6, longs de 1–2 mm, verdâtres, pubescents ; ovaire subglabre, souvent avec quelques poils en anneau à la base ; styles 1 ou 2 , ramifiés , linéaires, de 1,5–5 mm. Fruit à pédicelle grêle de 8–20 mm, ovoïde-ellipsoïdal, de 7–13 × 5–7 mm, nettement 3- ou 4-nervuré au séchage, rouge ou noir à maturité, glabre.
+Tree reaching 50 m in height, evergreen or deciduous, monoecious; trunk with acute buttresses; bark pale and smooth, exfoliating in small discs; cross-section with alternating layers of cream and brown; young branches with tawny pubescence. Stipules narrowly elliptic-ovate, 4–7 mm long, pubescent. Leaf: petiole 3–10 mm; lamina obovate-elliptic to elliptic, symmetrical, (3.5–)6.5–15 × 4–8 cm, cuneate and slightly asymmetrical at base, acuminate to mucronate, with margin weakly to clearly coarsely dentate in upper half, cartaceous to subcoriaceous, glossy above, glabrous except for a few hairs on the nerves below, triplinervate; basal lateral nerves extending somewhat into upper half, 3 to 6 pairs of secondary nerves, tertiary venation reticulate. Inflorescence 4–15 mm long at anthesis, up to 30 mm in fruit, with cymes often bearing numerous grouped male flowers and a few female or hermaphrodite flowers at apex, upper cymules with several hermaphrodite flowers. Flower: tepals 5 or 6, 1–2 mm long, greenish, pubescent; ovary subglabrous, often with a few hairs in a ring at base; styles 1 or 2, branched, linear, 1.5–5 mm. Fruit with slender pedicel 8–20 mm, ovoid-ellipsoidal, 7–13 × 5–7 mm, distinctly 3- or 4-nerved when dry, red or black at maturity, glabrous.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l’Afrique tropicale, dont le Nigéria, Sao Tomé et Principe, le Cameroun, le Ga bon, la République du Congo, la République démocratique du Congo, la République Centrafricaine et l’Angola, de l’Afrique du Sud et de l’Océan Indien occidental ; au Gabon : Nyanga, Ogooué-Ivindo et Ogooué-Lolo
+known from tropical Africa, including Nigeria, São Tomé and Príncipe, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic and Angola, from southern Africa and the western Indian Ocean; in Gabon: Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt pluviale de plaine ; au Gabon jusqu’à 555 m d’altitude, ailleurs à 100–1600 m. Usage : Le bois est utilisé comme celui de C. gomphophylla . La décoction d’écorce, la macération de feuilles et la cendre de racine sont utilisées en médecine pour diverses affections. Les feuilles fraiches écrasées sont utilisées comme poison de pêche
+lowland rainforest; in Gabon up to 555 m altitude, elsewhere 100–1600 m. Uses: The wood is used as that of C. gomphophylla. The decoction of bark, maceration of leaves and ash of root are used in medicine for various ailments. Fresh crushed leaves are used as a fishing poison
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ celtis d’Afrique, faux wengé (fr.) ; red-fruited celtis, red-fruited white st
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. soyauxii Engl. a été signalé pour le Gabon par Raponda-Walker & Sillans (1961). À partir de leur description, il est impossible de déterminer avec certitude à quelle espèce acceptée font-ils référence, mais il appartient très probablement à cette espèce (voir aussi Oyen, 2008). B : Hutchinson et al. (1958), Letouzey (1968), Oyen (2008), Polhill (1966), Raponda-Walker i B liographie & Sillans (1961), Sattarian (2006), Wilmot-Dear (1991)
+C. soyauxii Engl. was reported for Gabon by Raponda-Walker & Sillans (1961). From their description, it is impossible to determine with certainty to which accepted species they refer, but it almost certainly belongs to this species (see also Oyen, 2008). B: Hutchinson et al. (1958), Letouzey (1968), Oyen (2008), Polhill (1966), Raponda-Walker & Sillans (1961), Sattarian (2006), Wilmot-Dear (1991)
 
 ## Notes
 

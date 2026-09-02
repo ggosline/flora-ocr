@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. luteus (Gürke) Staner, Bull. Agric. Congo Belge 25 : 426 (1934). Arbuste ou herbe pérenne, de 1–2(–3) m de hauteur ; tige grimpante ou ascendante, arrondiequadrangulaire, peu ramifiée, munie de bulbilles axillaires , pubescente à courts poils non glanduleux dirigés vers le haut et des glandes sessiles pâles ; bulbilles formées par le renfle ment du premier entrenœud des branches latérales, collants, longs de 7–15 mm, à poils crochus renflés . Feuille : pétiole 10–25(–30) mm ; limbe elliptique, 5–14 × 2–4 cm, cunéé à atténué à la base, aigu à acuminé à l’apex, denté ou crénelé et faiblement révoluté, à pubescence clairsemée et glandes sessiles pâles ou brunes. Inflorescence terminale, à verticillastres distants jusqu’à 20 mm ; cymes sessiles, opposées, alternes ou subopposées, avec (1 ou)2 à 5 fleurs ; bractées étroitement ovales, longues de 1–2 mm. Fleur : pédicelle 4–10 mm ; calice long de 3–4 mm et de 6–8 mm en fruit, pubescent, à glandes sessiles brunâtres, tube légère ment courbé, lèvre supérieure ovale, courbée vers le haut, acuminée ou mucronée à l’apex, décurrente, lobes latéraux deltoïdes, subulés à l’apex, lobes inférieurs étroitement triangulaires, divisées jusqu’à la base, courbés légèrement vers le haut, subulés à l’apex ; corolle longue de 14–20 mm , jaune , peu pubescente, à glandes sessiles brunâtres, tube sigmoïde, long de 6–10 mm, lèvre inférieure horizontale, longue de 5,5–10 mm, profondément cucullée, renfermant les étamines ; étamines à filets fusionnés. Fruit : akènes largement ovoïdes, longs de 1,5 mm, bruns.
+C. luteus (Gürke) Staner, Bull. Agric. Congo Belge 25 : 426 (1934). Shrub or perennial herb, 1–2(–3) m tall; stem climbing or ascending, rounded-quadrangular, sparsely branched, furnished with axillary bulbils, pubescent with short non-glandular hairs directed upward and pale sessile glands; bulbils formed by the thickening of the first internode of lateral branches, sticky, 7–15 mm long, with hooked inflated hairs. Leaf: petiole 10–25(–30) mm; blade elliptic, 5–14 × 2–4 cm, cuneate to attenuate at the base, acute to acuminate at the apex, dentate or crenate and weakly revolute, with sparse pubescence and pale or brown sessile glands. Inflorescence terminal, with verticillasters distant up to 20 mm; cymes sessile, opposite, alternate or subopposite, with (1 or)2 to 5 flowers; bracts narrowly ovate, 1–2 mm long. Flower: pedicel 4–10 mm; calyx 3–4 mm long and 6–8 mm in fruit, pubescent, with brownish sessile glands, tube slightly curved, upper lip ovate, curved upward, acuminate or mucronate at the apex, decurrent, lateral lobes deltoid, subulate at the apex, lower lobes narrowly triangular, divided to the base, slightly curved upward, subulate at the apex; corolla 14–20 mm long, yellow, sparsely pubescent, with brownish sessile glands, tube sigmoid, 6–10 mm long, lower lip horizontal, 5.5–10 mm long, deeply cucullate, enclosing the stamens; stamens with filaments fused. Fruit: achenes broadly ovoid, 1.5 mm long, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale tropicale, incluant Cameroun, Guinée équatoriale (Bioko), Gabon, République démocratique du Congo, République Centrafricaine, Soudan, Afrique de l’Est et Madagascar ; au Gabon : Ngounié, Ogooué-Ivindo. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Tropical West Africa, including Cameroon, Equatorial Guinea (Bioko), Gabon, Democratic Republic of the Congo, Central African Republic, Sudan, East Africa and Madagascar; in Gabon: Ngounié, Ogooué-Ivindo. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-marges forestières ; au Gabon à 500–900 m, ailleurs à 850–1700 m. B : Morton (1963), Paton et al. (2009, 2013). i B liographie
+forest margins; in Gabon at 500–900 m, elsewhere at 850–1700 m. B: Morton (1963), Paton et al. (2009, 2013). Bibliography
 
 ## Notes
 

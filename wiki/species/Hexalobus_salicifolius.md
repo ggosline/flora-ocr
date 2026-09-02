@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Monogr.Afr. Pflanzenf.6 :57 (1901).-Pellegrin,Bull.Soc.Bot.Fr.95 :141 (1949).
 
-Monogr.Afr. Pflanzenf.6 :57 (19o1).-Pellegrin,Bull.Soc.Bot.Fr.95 :141 (1949).
+Tree 25-35 m tall with a diameter of 1 m; trunk fluted and sinuous. Rhytidome greyish-green, fissured longitudinally in a very close manner. Bark not very thick, 1 cm, tearing into strips. Twigs glabrous, branchlets pubescent-appressed with short hairs. Internodes short, 1-1.5 cm in length. Leaves with petiole 2-3 mm long; lamina coriaceous, elliptic to oblong-lanceolate, 5-8.5 cm long, 2-3.5 cm wide, cuneate at the base, subacuminate to ± long acuminate at the apex; upper surface glabrous, lower surface tomentulose. Lateral nerves 8-11 pairs, impressed above, prominent below.
 
-Arbre de 25-35 m de hauteur et de 1 m de diamétre; fut cannelé et sinueux.Rhytidome gris verdatre, fissuré longitudinalement de fagon tres serrée. Ecorce peu épaisse,1/ cm,se déchirant en lanieres. Rameaux glabres， ramills pubescentes-appriméesa poils courts.Entreneuds courts,de I-1,5 cm de longueur. Feuilles a pétiole long de 2-3 mm limbe coriace，eliptique á oblonglancéolé, long de 5-8,5 cm,large de 2-3,5 cm, cunéiforme a la base, subacuminé â ± longuement acuminé au sommet; face supérieure glabre,face intérieure tomentelleuse.Nervures latérales 8-1 1paires, imprimées au-dessus,proéminentes en dessous.
+Flowers sulphur-yellow, fragrant, solitary or paired, axillary. Pedicel 0.8-1.5 cm long, densely reddish-pubescent, bearing at the base two small bracteoles, quickly caducous. Floral bud ovoid, 8-10 mm long, 5-6 mm wide, reddish-tomentose. Sepals golden-green externally, ovate-oblong, 0.9-1 cm long, 0.5-0.7 cm wide, densely tomentose on both faces. Petals pale yellow, reddish at the base, narrowly oblong, crisped at the margins, 2-4 cm long, approximately 0.5 cm wide, united into a tube at the base, tomentose on both faces. Stamens numerous, 1-1.5 mm long, linear, connectives ± developed above the anthers. Carpels 3-4, ovaries ovoid-oblong, hairy, stigmas bilobed and reflexed. Ovules numerous, biseriate.
 
-Fleurs jaune souffre， odorantes， solitaires ou géminées, axillaires.Pédicelle long de o,8-1,5 cm，densément pubescent roux，muni á la base de deux petites bractéoles,rapidement caduques.Bouton floral ovoide,long de 8-1o mm,large de 5-6 mm, tomenteux roux. Sépales vert doré extérieurement, oves-oblongs, longs de o,9-1 cm， larges de o,5-o,7 cm，densément tomenteux sur les deux faces.Pétales jaune pale,rougeatres â la base,étroitement oblongs,crispés sur les bords,longs de 2-4 cm,larges de 0,5 cm environ，soudés en un tube á la base,tomenteux sur les deux faces. Etamines nombreuses, longues de 1-1,5 mm, linéaires, connectifs ± développés au-dessus des antheres. Carpelles 3-4, ovaires ovoides-oblongs，velus，stigmates bilobes et réfléchis. Ovules nombreux,biséries.
+Pl.14.- Hexalobus crispiflorus A.Rich.:1, flowering twig × 2/3 (Le Testu 8838); 2, floral bud × 2/3 (Le Testu 693); 3, pistil and gynoecium × 2; 4, stamen × 8; 5, 6, carpel and section × 6 (Le Testu 8838); 7, 8, mericarp and section × 2/3 (Chevalier 7471).- Hexalobus salicifolius Engler: 9, leaves × 2/3 (Le Testu 6387); 10, mericarp × 2/3 (Zenker 2268).
 
-P1,14.- Hexalobus crispiflorus A.Rich.:1,rameau florifere × 2/3 (Le Testu 8838)；2,bouton floral × 2/3 (Le Testu 693);3,pistil et gynécée × 2;4,étamine X 8;5,6,carpelle et coupe × 6 (Le Testu 8838)；7,8,méricarpe et coupe × 2/3 (Chevalier 7471).- Hexalobus salicifolius Engler:9, feuilles × 2/3 (Le Testu 6387)；10,méricarpe × 2/3 (Zenker 2268).
-
-Fruits á pédicelle long de 1,5 cm,épais;méricarpes sessiles, généralement 3,obovoides-oblongs, longs de 4-4,5 cm, larges de 2-2,5 cm, verruqueux, densément tomenteux brun-roux; pericarpe épais.Graines nombreuses, biseriees, elliptiques-aplaties, longues de 1,5 cm, larges de o,5 cm environ.
+Fruits with pedicel 1.5 cm long, thick; mericarps sessile, usually 3, obovoid-oblong, 4-4.5 cm long, 2-2.5 cm wide, verrucose, densely reddish-brown tomentose; pericarp thick. Seeds numerous, biseriate, elliptic-flattened, 1.5 cm long, approximately 0.5 cm wide.
 
 ## Type
 
@@ -39,11 +37,9 @@ Zenker 2268,Bipindi, fr., mars (holotype B; isotypes P!, K!,BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species very close to Hexalobus crispiflorus A.Rich. with identical habit and external appearance. It differs in its small leaves with acute base, its short internodes, floral elements much less large and its obovoid, verrucose mericarps. It could be considered as a subspecies of H. crispiflorus whose range would be limited to the Cameroon-Gabonese forest, but M. Aké-Assi has informed us of its presence in Côte d'Ivoire.
 
-Espéce tres proche de Hexalobus crispiflorus A.Rich. a port et aspect extérieur identiques. Elle en differe par ses feuilles petites a base aigué, ses entrenceuds courts,les éléments floraux beaucoup moins grands et ses méricarpes obovoides, verruqueux. Elle pourrait étre considérée comme une sous-espéce d'H.crispiflorus dont l'aire de répartition se limiterait a la forét camerounogabonaise, mais M. Aké-Assi nous a signalé sa présence en Coted'Ivoire.
-
-Il n'est pas étonnant de retrouver les mémes noms vernaculaires que pour H.crispiflorus,ces deux arbres ayant le méme aspect sur le terrain.
+It is not surprising to find the same vernacular names as for H. crispiflorus, these two trees having the same appearance in the field.
 
 ## Vernacular names
 

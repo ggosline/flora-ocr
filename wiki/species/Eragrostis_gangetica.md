@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial grass in tufts, culms geniculate at the base then erect, simple or branched at the base, 30 to 90 cm tall, glabrous. Leaves few at the base of the culms, sheaths glabrous except at their opening; blades linear, long-acuminate, 5-15 × 0.3-0.4 cm spread or more or less rolled, glabrous, scaberulous on the upper surface.
 
-Herbe pérenne en touffes, tiges géniculées à la base puis dressées, simples ou ramifiées à la base, de 30 à 90 cm de haut, glabres. Feuilles peu nombreuses à la base des chaumes, gaines glabres sauf à leur ouverture; limbes linéaires, longuement acuminés, de 5-15 × 0,3-0,4 cm étalés ou plus ou moins enroulés, glabres, scabéruleux à la face supérieure.
+Panicles oblong, 5 to 15 cm long with solitary spaced branches, the lower ones up to 10 cm long, flexuous, filiform, scabrous. Spikelets shortly pedicellate, linear-oblong to linear, up to about fifteen millimetres long and 2 mm wide, olive-green in colour, with 8 to 30 flowers. Rachis persistent. Glumes similar, oval-oblong, acuminate, 1-nerved, caducous, 2 mm long. Lemmas oblong, acuminate or subobtuse, 1 to 1.5 mm long, keels scabrous. Paleas caducous, somewhat shorter, keels scabrous.
 
-Panicules oblongues, de 5 à 15 cm de long à branches solitaires espacées, les inférieures jusqu'à 10 cm de long, flexueuses, filiformes, scabres. Épillets courtement pédicellés, linéaires-oblonges à linéaires, jusqu'à une quinzaine de millimètres de long et de 2 mm de large, de teinte vert olive, avec 8 à 30 fleurs. Rachis persistant. Glumes semblables, ovales-oblongues, acuminées, à 1 ner
-
-vure, caduques, de 2 mm de long. Lemmas oblongues, acuminées ou subobtuses, de 1 à 1,5 mm de long, carènes scabres. Palées caduques, un peu plus courtes, carènes scabres.
-
-Espèce rudérale ou d'endroits humides, fréquente en Afrique et en Asie tropicale.
+Ruderal species or of humid places, frequent in tropical Africa and Asia.
 
 ## Specimens examined
 

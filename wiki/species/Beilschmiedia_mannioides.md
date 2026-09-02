@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (pl. XI et I).
 
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 19 : 481 (1949).
 
-Arbuste ou petit arbre de 3 à 5 m de haut, à rameaux glabrescents à glabres, à feuilles subcoriaces plus ou moins discolores, dessus vert-jaunâtre, dessous brunâtre; fleurs jaune-verdâtre. Drupe ovoïde de 4-6 cm de long.
+Shrub or small tree 3 to 5 m tall, with glabrescenrt to glabrous branchlets, subcoriaceous leaves more or less discolorous, upper surface yellowish-green, lower surface brownish; flowers yellowish-green. Ovoid drupe 4–6 cm long.
 
-Cette espèce est voisine de B. Mannii mais en diffère par son réceptacle velu à l'intérieur, ses filets densément pubérulents et ses anthères pubérulentes sur le dos. L'herbier du Muséum de Paris possède des rameaux d'un arbuste de 7-8 m à fleurs jaunes (Klaine 843) et d'un autre à fleurs jaunâtres (Le Testu 8189) pouvant être rattachés à cette espèce.
+This species is closely related to B. Mannii but differs by its receptacle hairy within, its filaments densely puberulent and its anthers puberulent on the back. The herbarium of the Paris Museum possesses branchlets of a shrub 7–8 m tall with yellow flowers (Klaine 843) and another with yellowish flowers (Le Testu 8189) that could be assigned to this species.
 
 ## Type
 
@@ -32,9 +30,7 @@ J. Louis 2249 (BR) Yangambi, Congo ex-belge, alt. 470 m (1936). Espèce sciaphil
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ont été rapportés à B. mannioides des échantillons de Guinée et de Côte-d'Ivoire, ce qui étend considérablement l'aire de cette espèce vers l'ouest.
+Specimens from Guinea and Côte-d'Ivoire have been referred to B. mannioides, which extends the range of this species considerably to the west.
 
 ## Specimens examined
 

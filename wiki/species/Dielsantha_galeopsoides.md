@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 10 (A-C) Ann. Naturhist. Mus. Wien 56 : 373 (1948). Lobelia galeopsoides Engl. & Diels, Bot. Jahrb. Syst. 26 : 118 (1899). L. sylvicola Lejoly & Lisowski, Acta Bot. Gall. 147 : 120 (2000). Herbe à tige prostrée ou dressée, atteignant 25 cm de longueur, s’enracinant aux nœuds inférieurs, peu pubescente. Feuille à pétiole peu pubescent, de 5–30 mm ; limbe oblong-ovale à ovale, 20–70 × 12–40 mm, cuné à tronqué à la base, sommet aigu, peu pubescent ou glabrescent. Fleur à bractéoles linéaires, atteignant 5 mm de longueur ; hypanthium 8–10 mm de longueur, peu pubescent ; calice à lobes linéaires, 2–4 mm de longueur, entiers ; corolle 7–10 mm de longueur, violet pâle à bleue ou blanche, peu pubescente sur la face externe des lobes ; étamines 5–8 mm de longueur, anthères à tube d’environ 2 mm de longueur, glabres, sauf la touffe de poils au sommet. Fruit étroitement cylindrique, 15–20 mm de longueur , atténué vers le sommet. Graines oblongues, angulaires, environ 0,9 mm de longueur, finement réticulées, marron pâle.
+Plate 10 (A-C) Ann. Naturhist. Mus. Wien 56 : 373 (1948). Lobelia galeopsoides Engl. & Diels, Bot. Jahrb. Syst. 26 : 118 (1899). L. sylvicola Lejoly & Lisowski, Acta Bot. Gall. 147 : 120 (2000). Herb with prostrate or erect stem, reaching 25 cm in length, rooting at lower nodes, sparsely pubescent. Leaf with petiole sparsely pubescent, 5–30 mm; blade oblong-ovate to ovate, 20–70 × 12–40 mm, cuneate to truncate at base, apex acute, sparsely pubescent or glabrescent. Flower with linear bracteoles, reaching 5 mm in length; hypanthium 8–10 mm in length, sparsely pubescent; calyx with linear lobes, 2–4 mm in length, entire; corolla 7–10 mm in length, pale violet to blue or white, sparsely pubescent on the external face of the lobes; stamens 5–8 mm in length, anthers with tube about 2 mm in length, glabrous except for the tuft of hairs at the apex. Fruit narrowly cylindric, 15–20 mm in length, attenuate toward the apex. Seeds oblong, angular, about 0.9 mm in length, finely reticulate, pale brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale (Bioko) et Gabon ; au Gabon principalement dans les provinces de l’Estuaire et la Ngounié
+Nigeria, Cameroon, Equatorial Guinea (Bioko) and Gabon; in Gabon principally in the provinces of Estuaire and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts humides ; entre 320 et 800 m d’altitude. B : Wimmer (1953, 1963). i B liographie
+humid forests; between 320 and 800 m in altitude. B: Wimmer (1953, 1963). Bibliography
 
 ## Notes
 

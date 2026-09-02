@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kostermans, Bull. jard. bot. Ét. Brux. 22 : 137 (1952).
 
-$ \neq $ B. discolor C. K. (1942) de Hai-Nan (Chine).
+$ \neq $ B. discolor C. K. (1942) from Hai-Nan (China).
 
-Arbre de 15 m de haut; jeunes rameaux glabrescents; écorce brun-grisâtre; feuilles coriaces, discolores : face supérieure olive-foncé, face inférieure brun-violacé. Fleurs verdâtres; drupe ellipsoïde aplatie de 3,5 cm de long sur 2 cm de large.
+Tree 15 m tall; young branchlets glabrescenct; bark brownish-grey; leaves coriaceous, discolorous: upper surface dark olive, lower surface brownish-violet. Flowers greenish; drupe ellipsoid, flattened, 3.5 cm long by 2 cm wide.
 
 ## Type
 
@@ -34,9 +32,7 @@ Van den Brande 481. Centre du Congo ex-belge. Essence des forêts équatoriales 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-A été rapproché de cette espèce un échantillon à feuilles à peine discolores, mais dont les autres caractères s'accordent avec ceux du type. L'aire géographique s'étendrait ainsi sur le Congo ex-belge, le Gabon et le Cameroun.
+A specimen with leaves scarcely discolorous has been brought close to this species, but its other characters agree with those of the type. The geographical range would thus extend over the former Belgian Congo, Gabon and Cameroon.
 
 ## Specimens examined
 

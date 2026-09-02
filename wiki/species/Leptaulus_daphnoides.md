@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1.c. — Oliver, FTA 1:355 (1868). — De Wild., Miss. Laur. 1:242 (1906); Ann. Mus. Congo b., Bot., ser. 5, 2:43 (1907); Bull. J. B. Brux. 4:152 (1914). — Th. & H. Durand, Syll. :98 (1909). — MILDBRÆD in ENGLER, Deutsch. Zentr.-Afr. Exp. 1907-1908 2:473 (1912). — SLEUMER, Pflanzenfam., ed. 2, 20 b:358, tab. 101, c-e (1942). — AUBRÉVILLE, FFCI, ed. 1, 1:98, tab. 27, 7-11 (1936). — KEAY FWTA, ed. 2, 1:637 (1958). — R. BOUTIQUE, Fl. Congo b. et R.U. 9:261 tab. 4, a (1960). — Icacina ledermannii ENGL., Bot. Jahrb. 43:185, tab. 2, g-p (1909).
 
-1.c. — Oliver, FTA 1:355 (1868). — De Wild., Miss. Laur. 1:242 (1906); Ann. Mus. Congo b., Bot., ser. 5, 2:43 (1907); Bull. J. B. Brux. 4:152 (1914). — Th. & H. Durand, Syll. :98 (1909). — MilDBRAED in ENGLER, Deutsch. Zentr.-Afr. Exp. 1907-1908 2:473 (1912). — SLEUMER, Pflanzenfam., ed. 2, 20 b:358, tab. 101, c-e (1942). — AUBRÉ-VILLE, FFCI, ed. 1, 1:98, tab. 27, 7-11 (1936). — KEAY FWTA, ed. 2, 1:637 (1958). — R. BOUTIQUE, Fl. Congo b. et R.U. 9:261 tab. 4, a (1960). — Icacina ledermannii ENGL., Bot. Jahrb. 43:185, tab. 2, g-p (1909).
+Tree or shrub up to 12 m tall with young branchlets glabrous, longitudinally striate. Petiole glabrous, 3-10 mm long, deeply canaliculate, wrinkled above, plicate below. Lamina glabrous on both faces, bright green ± lustrous above, bright green slightly yellowish below, elliptic, 6.5-16 × 2.5-6.5 cm; base attenuate or cuneate, apex obtusely acuminate. Midvein concave above, strongly prominent below. Secondary veins 6-7 pairs, ascending, arched, anastomosing 2-6 mm from the leaf margin, weakly prominent on the upper face, strongly prominent on the lower face. Tertiary veins in very loose reticulation, weakly or not prominent above, slightly prominent below.
 
-Arbre ou arbuste haut de 12 m à jeunes rameaux glabres, striés longitudinalement. Pétiole glabre, long de 3-10 mm, profondément canaliculé, ridé dessus, plissé dessous. Limbe glabre sur les deux faces, vert clair ± luisant dessus, vert clair légèrement jaunâtre dessous, elliptique, de 6,5-16 × 2,5-6,5 cm; base atténuée ou cunéiforme, sommet acuminé obtus. Nervure médiane concave dessus, fortement saillante dessous. Nervures secondaires 6-7 paires, ascendantes, arquées, s'anastomosant à 2-6 mm du bord du limbe, faiblement saillantes à la face supérieure, fortement saillantes à la face inférieure. Nervilles en réseau très lâche, faiblement ou non saillant dessus, peu saillant dessous.
+Inflorescence in a short, many-flowered, decussate cyme with respect to the leaf. Female flowers pentamerous, 11 × 1.5 mm, white. Pedicel glabrous or very weakly pubescent. Sepals connate, elliptic or broadly lanceolate, 1.5 mm long, ciliate externally, glabrous internally; apex acute. Petals connate into a tube, glabrous on both faces, linear, 11 mm long, lobes of the campanulate corolla 1 mm long, furnished with small fleshy excrescences. Stamens 5, broadly connate to the petals by the filament for almost its entire length; anthers with 2 narrowly ellipsoid cells. Pistil 12.5 mm long; ovary pubescent, asymmetric, 1.5 mm long, ellipsoid; style glabrous, 11 mm long, terminating in a plateau-like stigma.
 
-Inflorescence en cyme courte multiflore décussée par rapport à la feuille. Fleurs ♀ pentamères, 11 × 1,5 mm, blanches. Pédicelle glabre ou très faiblement pubescent. Sépales soudés, elliptiques ou largement lancéolés, longs de 1,5 mm, ciliés extérieurement, glabres intérieurement; sommet aigu. Pétales soudés en tube, glabres sur les deux faces, linéaires, longs de 11 mm, lobes de la corolle campanulée longs de 1 mm, garnis d'excroissances charnues de petite taille. Étamines 5 largement soudées aux pétales par le filet sur presque toute sa longueur; anthères à 2 loges étroitement ellipsoïdes. Pistil long de 12,5 mm; ovaire pubescent, asymétrique, long de 1,5 mm, ellipsoïdes; style glabre, long de 11 mm, se terminant par un stigmate en plateau.
-
-Drupe ellipsoïde de  $ 12 \times 8 \times 7 $ mm, papilleuse à endocarpe ligneux. PL. 14, 1-6, p. 63.
+Drupe ellipsoid, 12 × 8 × 7 mm, papillose with woody endocarp. PL. 14, 1-6, p. 63.
 
 ## Type
 
@@ -32,43 +30,41 @@ Mann 806, Bagroo river, Sierra Leone (holo-, K; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is found in all forest formations from Sierra Leone to Tanzania and Cabinda.
 
-Cette espèce se rencontre dans tous les groupements forestiers depuis la Sierra Leone jusqu'en Tanzanie et au Cabinda.
-
-PROPRIÉTÉS : Les feuilles sont vomitives.
+PROPERTIES: The leaves are emetic.
 
 S. c., s.n. (herb. Ch. d'Alleizette), Lolodorf (fl.).
 
-Bates 1811, Bitye, près riv. Dja (fl.).
+Bates 1811, Bitye, near Dja River (fl.).
 
-Breteler 1445, bord de la Sanaga, près Ebaka, 58 km NW Bertoua (fl., mai).
+Breteler 1445, edge of the Sanaga, near Ebaka, 58 km NW Bertoua (fl., May).
 
-Dinklage 303, Ebéa, chute de la Lokundé (fl., oct.).
+Dinklage 303, Ebéa, waterfall of the Lokundé (fl., Oct.).
 
-Dupasquier in Chevalier s.n., Mungo, près Nđô (fl., juin).
+Dupasquier in Chevalier s.n., Mungo, near Nđô (fl., June).
 
-Fleury in Chevalier 33424, Mungo, entre Nđô et gare Mujuka (fl., juin).
+Fleury in Chevalier 33424, Mungo, between Nđô and Mujuka station (fl., June).
 
-Leeuwenberg 5517, 2 km E km 58 sur route Edéa-Kribi (fl., mai); 7011, 3 km E km 58 sur route Edéa-Kribi (fl., oct.).
+Leeuwenberg 5517, 2 km E km 58 on Edéa-Kribi road (fl., May); 7011, 3 km E km 58 on Edéa-Kribi road (fl., Oct.).
 
-Letouzey 196, près chutes d'Ekom, Nkongsamba (fl., févr.); 3785, 3785 bis, rives du Dja, entre riv. Meu et riv. Edjuné (fl., fr., avr.); 5328, bords riv. Boumba, entre Wéso et Médoum (fl., fr., juin); 10617, rives de la Sangha, près Lidjombo, 120 km N Ouesso (fl., avr.); 10639, bord de la Sangha, S Lidjombo, 110 km N Ouesso (fl., avr.).
+Letouzey 196, near Ekom falls, Nkongsamba (fl., Feb.); 3785, 3785 bis, banks of the Dja, between Meu River and Edjuné River (fl., fr., Apr.); 5328, banks of Boumba River, between Wéso and Médoum (fl., fr., June); 10617, banks of the Sangha, near Lidjombo, 120 km N Ouesso (fl., Apr.); 10639, bank of the Sangha, S Lidjombo, 110 km N Ouesso (fl., Apr.).
 
 Maitland 686, s.l. (fl.).
 
-Olorunfemi FHI 30558, Mommo-Bakosi (fl., fr., mai).
+Olorunfemi FHI 30558, Mommo-Bakosi (fl., fr., May).
 
 Preuss 1356, s.l. (fl.).
 
-Staudt 547, Johann-Albrechtshöhe (actuel Kumba) (fl.).
+Staudt 547, Johann-Albrechtshöhe (current Kumba) (fl.).
 
-Tiku, Dioh et Ujor FHI 30418, Bali-Ngemba (fl., juin).
+Tiku, Dioh and Ujor FHI 30418, Bali-Ngemba (fl., June).
 
 Vroumsia Tchinaye 145, Bertoua-Batouri (fl.).
 
 Zenker 2721, Bipindi (fl.).
 
-Hallé N. & Villiers J.-F. 4358, bords du Komo (fl., janv.). Le Testu 1518, Mavounor (fl., déc.); 5081, entre Guidouma et Sainte Croix (fl., nov.); 7189, 7287, Lastoursville (fl., avr.-mai; fr., mai). Soyaux 164, Sibang (fr.).
+Hallé N. & Villiers J.-F. 4358, banks of the Komo (fl., Jan.). Le Testu 1518, Mavounor (fl., Dec.); 5081, between Guidouma and Sainte Croix (fl., Nov.); 7189, 7287, Lastoursville (fl., Apr.-May; fr., May). Soyaux 164, Sibang (fr.).
 
 ## Vernacular names
 

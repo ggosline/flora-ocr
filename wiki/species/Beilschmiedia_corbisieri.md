@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 19 : 468 (1949).
 
-Arbre de 3 à 20 m, atteignant 30 cm de diamètre, à écorce lisse, à rameaux cylindriques ± rugueux, gris noirâtre, les jeunes rameaux à pubérulence fauve, apprimée. Feuilles brun-olivâtre ± discolores, acuminées, subcoriaces à coriaces. Fruit ovoïde, long de 5 cm, large de 3 cm, roussâtre et rugueux. Fleurs rotacées, tépales étalés.
+Tree 3 to 20 m tall, reaching 30 cm in diameter, with smooth bark, cylindrical ± rugose branchlets, greyish-black, young branchlets with tawny, appressed puberulence. Leaves brownish-olive ± discolorous, acuminate, subcoriaceous to coriaceous. Fruit ovoid, 5 cm long, 3 cm wide, rusty and rugose. Flowers rotate, tepals spreading.
 
 ## Type
 
@@ -35,17 +33,15 @@ Klaine : 1850 (P) Libreville
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Congo, Gabon.
 
-Remarque : Les différences entre B. Corbisieri et B. megaphylla seraient les suivantes selon les auteurs :
+Remark: The differences between B. Corbisieri and B. megaphylla would be the following according to the authors:
 
-B. Corbisieri B. megaphylla Pédicelles..... 2,5 à 5 mm Extérieur des tépales..... pubérulent Ovaire ..... pubérulent (gris) Stigmate ..... globuleux B. megaphylla 2,5 mm tomenteux tomentelleux (fauve) filiforme
+B. Corbisieri B. megaphylla Pedicels..... 2.5 to 5 mm Exterior of tepals..... puberulent Ovary ..... puberulent (grey) Stigma ..... globose B. megaphylla 2.5 mm tomentose tomentellous (tawny) filiform
 
-Elles ne nous ont pas paru suffisantes pour justifier le maintien de deux espèces.
+They have not appeared to us sufficiently significant to justify the maintenance of two species.
 
-Cameroun, Gabon.
+Cameroon, Gabon.
 
 ## Vernacular names
 

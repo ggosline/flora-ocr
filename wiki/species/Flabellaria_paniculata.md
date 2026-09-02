@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ser. 5, 2 : 38 (1907); ser. 5, 3 : 108 (1909); Bull. Jard. Bot. Etat Brux. 5 : 288 (1919). — DE WILD., Plant. Bequaert. 1 : 233 (1922).
 
 — NIEDENZU, Pflanzenr., Malpighiaceae : 38 (1928). — KEAY, FWTA, ed. 2, 1 : 353 (1958).
 
 — Wilczek, Fl. Congo belge 7:215 (1958). — Launert, FTEA:23 (1968).
 
-— Hirae pinnata Willd., Syst. Pl. 2 : 743 (1799), nom. illegit.
+— Hiraea pinnata Willd., Syst. Pl. 2 : 743 (1799), nom. illegit.
 
 — Triopteris pinnata (WILLD.) POIRET, Encycl. Meth. Bot. 8 : 108 (1808).
 
@@ -33,13 +31,13 @@ ser. 5, 2 : 38 (1907); ser. 5, 3 : 108 (1909); Bull. Jard. Bot. Etat Brux. 5 : 2
 
 507 (1843). — Hook. F., Niger Fl. : 247 (1849), nom. illegit.
 
-Liane de 3-15 m de hauteur, à tige lenticellée de 0,3-0,5 cm de diamètre; ramiles vêtues de poils courts. Feuilles vert sombre, argentées à la face inférieure, penninerves, sans stipules; pétiole pubescent, canaliculé, muni de 4-6 glandes, de 7-15 mm; limbe muni de glandes sur ses bords, surtout à la base, glabre à la face supérieure, pubescent à la face inférieure, ové à elliptique, arrondi à subcordé à la base, parfois ± arrondi au sommet, le plus souvent aigu à acuminé, 6,5-16 × 4-11 cm. Nervures secondaires ascendantes, surtout saillantes à la face inférieure ainsi que les nervures.
+Liane 3-15 m tall, with lenticellate stem 0.3-0.5 cm in diameter; branchlets clothed with short hairs. Leaves dark green, silvered on the lower surface, penninerved, without stipules; petiole pubescent, canaliculate, bearing 4-6 glands, 7-15 mm; blade bearing glands on its margins, especially at the base, glabrous on the upper surface, pubescent on the lower surface, ovate to elliptic, rounded to subcordate at the base, sometimes ± rounded at the apex, most often acute to acuminate, 6.5-16 × 4-11 cm. Secondary nerves ascending, especially prominent on the lower surface as are the nervules.
 
-Inflorescences axillaires et terminales, pubescentes, formées de racèmes groupés en panicules. Bractées pubescentes, persistantes, ovées à lancéolées, longues de 2-5 mm; bractéoles semblables, plus petites, situées à la base du pédicelle. Pédicelle pubescent, de 5-8 mm. Sépales pubescents à l'extérieur, valvaires, oblongs-lancéolés, longs de 4-6 mm. Pétales blancéolés, glabres, longs de 4-6 mm. Étamines glabres, d'environ 3 mm; anthères elliptiques, à déhiscence longitudinale. Ovaire hirsute, long d'environ 1 mm; styles 3, glabres, de 3-4 mm; stigmates latéraux tournés vers l'intérieur.
+Inflorescences axillary and terminal, pubescent, formed of racemes grouped into panicles. Bracts pubescent, persistent, ovate to lanceolate, 2-5 mm long; bracteoles similar, smaller, situated at the base of the pedicel. Pedicel pubescent, 5-8 mm. Sepals pubescent on the outside, valvate, oblong-lanceolate, 4-6 mm long. Petals whitish, glabrous, 4-6 mm long. Stamens glabrous, about 3 mm; anthers elliptic, with longitudinal dehiscence. Ovary hirsute, about 1 mm long; styles 3, glabrous, 3-4 mm; stigmas lateral, turned inward.
 
-FLORE DU GABON
+FLORA OF GABON
 
-Fruits composés de 3 samares, quasiment glabres, orbiculaires, à aile latérale échancrée jusqu'au noyau au sommet, et à aile dorsale atteignant 1 cm de longueur. PL. 3, 1-6, p. 17.
+Fruits composed of 3 samaras, almost glabrous, orbicular, with lateral wing notched to the nucleus at the apex, and with dorsal wing reaching 1 cm in length. PL. 3, 1-6, p. 17.
 
 ## Type
 
@@ -47,9 +45,7 @@ Smeathmann s.n., Sierra Leone (holo-, in herb. Thouin, MPU)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Marais, forêts ripicoles ou galeries forestières, savanes en voie de reboisement. De la Guinée à l'Angola, Soudan, Tanzanie et Ouganda.
+Marshes, riparian forests or forest galleries, savannas undergoing reforestation. From Guinea to Angola, Sudan, Tanzania and Uganda.
 
 ## Specimens examined
 

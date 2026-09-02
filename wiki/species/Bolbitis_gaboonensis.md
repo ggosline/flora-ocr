@@ -24,13 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, J. Bot. 72, Suppl. 1: 3 (1934); FWTA; 68 (1959). — Tard., Mém. IFAN 28: 109, pl. 18, f. 1 (1953).
 
-Rhizome rampant, à frondes rapprochées, portant des écailles lancéolées, à bords munis de quelques prolongements; pseudo-nervure médiane plus foncée. Pétiole brun, mat, canaliculé, portant les mêmes écailles à la base, long de 12-20 cm. Limbe à contour ovale-lancéolé, long de 30-35 cm sur 9-10 de large, à extrémité acuminée, parfois prolifère, bases étroitement cunéi-formes, marges entières ou sinuées. Texture membraneuse ou subcoriace. Coloration vert olive sur le sec. Présence d'un bourgeon à l'extrémité de la fronde. Nervation formant des aréoles costales allongées, sans nervilles incluses et une série d'aréoles irrégulières, contenant parfois des nervilles incluses; nervures libres près de la marge. Fronde fertile étroite, lancéolée, entière ou sinuée
-
-sur les bords, à pétiole long de 60-65 cm, à limbe long de 20 cm sur 2-3 de large.
+Rhizome creeping, with fronds crowded together, bearing lanceolate scales with margins furnished with a few prolongations; pseudo-midvein darker. Petiole brown, dull, canaliculate, bearing the same scales at the base, 12-20 cm long. Lamina with oval-lanceolate outline, 30-35 cm long by 9-10 cm wide, with acuminate apex, sometimes proliferous, bases narrowly cuneiform, margins entire or sinuate. Texture membranaceous or subcoriaceous. Coloration olive-green when dry. Presence of a bud at the apex of the frond. Venation forming elongate costal areoles, without included veinlets and a series of irregular areoles, sometimes containing included veinlets; veins free near the margin. Fertile frond narrow, lanceolate, entire or sinuate on the margins, with petiole 60-65 cm long, with lamina 20 cm long by 2-3 cm wide.
 
 ## Type
 
@@ -38,13 +34,11 @@ Mann, Gaboon river
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The B. Laurentii (Christ) Alston, which possesses partially pinnate fronds, the lower part being lobed, with rounded or tapered lobes, the upper half entire, is only a form of B. gaboonensis. All intermediates exist.
 
-Le B. Laurentii (Christ) Alston, qui possède des frondes partiellement pennées, la partie inférieure étant lobée, à lobes arrondis ou effilés, la moitié supérieure entière, n'est qu'une forme du B. gaboonensis. Tous les intermédiaires existent.
+Nigeria, Cameroon, Congo, Angola.
 
-Nigeria, Cameroun, Congo, Angola.
-
-Forme de vastes plages, sous bois ombragés en forêt à Celtis et Sterculiacées d’aspect primaire (Cameroun).
+Forms extensive patches, in shaded undergrowth in forests with Celtis and Sterculiaceae of primary aspect (Cameroon).
 
 ## Specimens examined
 

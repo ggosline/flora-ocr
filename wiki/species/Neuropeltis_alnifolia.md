@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Grande liane s’élevant à la canopée des grands arbres ; rameaux glabrescents, fine ment lenticellés ; ramilles, pétioles et axes de l’inflorescence densément couverts de poils apprimés. Feuille : pétiole 5–30 mm, canaliculé dessus ; limbe ové-elliptique à obové, 5–12(–16) × 3–9 cm , cunéé à subcordé à la base, arrondi, obtus à émarginé au sommet ou acuminé sur 0,5–2 cm et mucroné sur 1–3(–4) mm, ± glabre dessus, à poils ± densément apprimés ou parfois ± glabres dessous ; nervures latérales, 7–12 paires . Inflorescence en racèmes solitaires ou en panicules ; bractées d’environ 4,5 mm de longueur. Fleur : calice
-
-Biodiversity Center (©).
-
-à sépales ± circulaires, 2–3 mm et jusqu’à 4 mm en fruit, velus à l’extérieur ; corolle 6–8 mm de longueur, à lobes éparsement poilus à l’extérieur ; étamines 6–9 mm de longueur, glabres, anthères 1 mm de longueur ; pistil 6–7 mm de longueur, glabre . Fruit conique à ovoïde, 7–9 × 5–6 mm, glabre ; bractée élargie ± circulaire, jusqu’à 7,5 × 7 cm , papyracée, éparsement poilue. Graines mûres non vues.
+Large liana reaching the canopy of tall trees; branchlets glabrescent, finely lenticellate; ramuli, petioles and axes of the inflorescence densely covered with appressed hairs. Leaf: petiole 5–30 mm, channelled above; blade ovate-elliptic to obovate, 5–12(–16) × 3–9 cm, cuneate to subcordate at the base, rounded, obtuse to emarginate at the apex or acuminate for 0.5–2 cm and mucronate for 1–3(–4) mm, ± glabrous above, with hairs ± densely appressed or sometimes ± glabrous below; lateral veins, 7–12 pairs. Inflorescence in solitary racemes or in panicles; bracts approximately 4.5 mm in length. Flower: calyx with ± circular sepals, 2–3 mm and up to 4 mm in fruit, hairy on the outside; corolla 6–8 mm in length, with lobes sparsely hairy on the outside; stamens 6–9 mm in length, glabrous, anthers 1 mm in length; pistil 6–7 mm in length, glabrous. Fruit conical to ovoid, 7–9 × 5–6 mm, glabrous; enlarged bract ± circular, up to 7.5 × 7 cm, papyraceous, sparsely hairy. Mature seeds not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, République Centrafricaine, Guinée Équatoriale, République Démocratique du Congo et Gabon, où elle a est récoltée dans les provinces de la Nyanga et de l’Ogooué-Maritime
+Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Democratic Republic of the Congo and Gabon, where it is collected in the provinces of Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; jusqu’à 650 m d’altitude. B : Breteler (2010), Lejoly & Lisowski (1984). ibliographie
+primary and secondarized forest; up to 650 m in altitude. B: Breteler (2010), Lejoly & Lisowski (1984). Bibliography
 
 ## Notes
 

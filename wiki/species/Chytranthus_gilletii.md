@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Ann. Mus. Congo Belge, Bot. 5 (1) : 284 (1906); RADLK., in ENGL., Pflanzenreich Sapindaceae : 790 (1932).
 
 — Ch. macrophyllus auct. non GILG : PELLEGRIN, Mém. Soc. Bot. France 102 : 72 (1955), p.p.
 
-Petit arbre monocaule de 2-8 m de hauteur, à extrémité brunâtre cou-
+Small single-stemmed tree 2–8 m tall, with brownish apex covered by short appressed pubescence. Leaf rachis glabrescent, longitudinally striate; 4–7 pairs of leaflets, the largest reaching 35 × 10 cm; blade reddish-brown when dry, sometimes slightly olivaceous, glabrous, with obtuse or subobtuse base; acumen rostrate to caudate; midvein pubescent to pilose above; up to 20–25 pairs of secondary veins.
 
-verte d'une pubérulence rase. Rachis foliaire glabrescent, strié en long; 4-7 paires de folioles, les plus grandes atteignent  $ 35 \times 10 $ cm; limbe roussâtre à sec, parfois un peu olivâtre, glabre, à base obtuse ou subobtuse; acumen rostré à caudé; nervure médiane pubérulente à pileuse dessus; jusqu'à 20-25 paires de nervures secondaires.
+Unisexual, cauline inflorescences, often inserted half a metre above the ground, 5–15 (–23) cm long, entirely short-appressed brownish, brown or tawny pubescent, floriferous from the base, with sessile dense pluriflorous glomules. Bud ovate 3–3.5 mm in diameter; 5 sepals split over about one-third of the calyx length; 4 (–5) white or pale yellow petals, unguiculate-spatulate, with glabrous blade, with emarginate or split ligule, often pubescent; no appendicule; disk yellow, crescent-shaped, subpentagonal; 6–8 stamens with pubescent filament and anther; connective bulging without boss or wart; ovary trilocular, hirsute, with long arcuate stigma in the ♀ flower.
 
-Inflorescences unisexuées, caulinaires, souvent insérées un demi-mètre au dessus du sol, longues de 5-15 (-23) cm, entièrement pubérulentes brunâ-tres, brunes ou fauves, florifères dès la base, à glomérules pluriflores sessiles et denses. Bouton ové de 3-3,5 mm de diamètre; 5 sépales fendus sur le tiers de la longueur du calice environ; 4 (-5) pétales blancs ou jaune- pâle, onguiculés-spatulés, à lame glabre, à ligule émarginée ou fendue, souvent pubescente; pas d’appendicule; disque jaune en croissant subpentagonal; 6-8 étamines à filet et anthère pubescents; connectif bombé sans bosse ni verrue; ovaire triloculaire, hirsute, à long stigmate arqué dans la fleur ◊.
-
-Jeunes fruits souvent très nombreux formant un manchon autour du rachis; fruit mûr à 3(-4) sillons et crêtes de 5-6 cm de diamètre, à extrémités parfois atténuées; épiderme hispide orangé vif à poils jaunâtres. 3 graines atteignant 18 × 12 × 6 mm; plan des cotylédons courbé à commissures latérales. PL. 18, p. 91.
+Young fruits often very numerous forming a sheath around the rachis; mature fruit with 3 (–4) furrows and ridges 5–6 cm in diameter, sometimes with attenuate ends; epidermis hispid bright orange with yellowish hairs. 3 seeds reaching 18 × 12 × 6 mm; plane of cotyledons curved with lateral commissures. PL. 18, p. 91.
 
 ## Type
 
@@ -37,19 +33,17 @@ Gillet s.n. (BR), Kouilou, vallée de la Djuma, Zaïre
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is close to Ch. edulis Pierre of which it could be considered a simple variety, as could also be Ch. macrophyllus Gilg.
 
-Cette espèce est proche du Ch. edulis Pierre dont elle pourrait être considérée comme une simple variété, comme pourrait l'être aussi le Ch. macrophyllus Gilg.
+From southern Nigeria (C. sp. A, in FWTA, ed. 2, 1 : 718, 1958) to Congo (Koechlin 2376, Bouquet 577 and 1584).
 
-Du Sud Nigeria (C. sp. A, in FWTA, ed. 2, 1 : 718, 1958) au Congo (Koechlin 2376, Bouquet 577 et 1584).
+Bates 1869, Bityé, Dja River.
 
-Bates 1869, Bityé, riv. Dja.
+Breteler 2983, Nanga Eboko, 35 km W of Bertoua, alt. 700 m (fl., May).
 
-Breteler 2983, Nanga Eboko, 35 km W de Bertoua, alt. 700 m (fl., mai).
+Letouzey 3927, NE of Djaposten near Abong Mbang (young fr., Apr.); 4201, Nkomo near Ngoase, S. Lobo River (bud., Feb.); 4774, Bamékok, 35 km SW Batouri (bud., Apr.); 5457, env. of Molobo, 50 km S. Batouri (fl., July).
 
-Letouzey 3927, NE de Djaposten près Abong Mbang (j. fr., avr.); 4201, Nkomo près Ngoase, S. riv. Lobo (bout., fév.); 4774, Bamékok, 35 km SW Batouri (bout., avr.); 5457, env. de Molobo, 50 km S. Batouri (fl., juil.).
-
-Raynal J. & A. 10069, Mendoum, 19 km S. Ambam, alt. 800 m (fl., fév.).
+Raynal J. & A. 10069, Mendoum, 19 km S. Ambam, alt. 800 m (fl., Feb.).
 
 ## Specimens examined
 

@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Petalonema glanduligerum PELLEGR., Bull. Mus. natn. Hist. nat., Paris, 30 : 326 (1924).
 
 — Neopetalonema glanduligerum (PELLEGR.) JACQ.-FÉL., Icon. Pl. Afric. 3 : tab. 60 (1955).
 
-Plante basse, furfuracée sur ses parties jeunes; tige simple, jusqu'à 0,20-0,30 m, à entrenœuds courts, d'abord couchée, radicante puis dressée, quadrangulaire. Feuille à pétiole de 6-10 cm, furfuracée à hirsute vers le sommet; limbe jusqu'à  $ 10 \times 18 $ cm, elliptique-oblong à elliptique-lancée, arrondi ou étroitement cordé à la base, brusquement et brièvement acuminé au sommet; légèrement bullé avec quelques rares poils courts à la face supérieure, furfuracé sur les nervures à la face inférieure; 3-5 (7) nervures saillantes dessous, les transversales sensiblement parallèles, mais guère plus saillantes que les nervilles tertiaires réticulées; marges serrulées-ciliées.
+Low plant, furfuraceous on its young parts; stem simple, up to 0.20–0.30 m, with short internodes, at first prostrate, rooting then erect, quadrangular. Leaf with petiole 6–10 cm, furfuraceous to hirsute towards the apex; blade up to 10 × 18 cm, elliptic-oblong to elliptic-lanceolate, rounded or narrowly cordate at the base, abruptly and briefly acuminate at the apex; slightly bullate with a few scattered short hairs on the upper surface, furfuraceous on the nerves on the lower surface; 3–5 (7) prominent nerves beneath, the transverse ones substantially parallel, but scarcely more prominent than the tertiary reticulate nervules; margins serrulate-ciliate.
 
-Panicule oblongue, 4 cm environ, 10-20-flore, avec 3 à 4 paires de cymes brièvement mais nettement pédonculées; fleurs glomérulées à pédicelle de 2 à 4 mm. Fleur étroitement campanulée; hypanthe obconique, 3 × 5 mm, furfuracé; calice étalé, 2,5 mm de haut, à lobes sépalaires largement triangulaires-arrondis, nettement carénés sur le dos. Corolle pourpre ou rose; pétales épais, triangulaires, longs de 10 mm, largement insérés à la base,
+Panicle oblong, approximately 4 cm, 10–20-flowered, with 3 to 4 pairs of cymes briefly but clearly pedunculate; flowers glomerate with pedicel 2 to 4 mm. Flower narrowly campanulate; hypanthium obconic, 3 × 5 mm, furfuraceous; calyx spreading, 2.5 mm high, with sepal lobes broadly triangular-rounded, distinctly keeled on the back. Corolla purple or pink; petals thick, triangular, 10 mm long, broadly inserted at the base, acuminate-subulate at the apex. Stamens homomorphic but slightly unequal: anther 5 mm, linear, attenuate at the apex, sessile; connective with 2 anterior tubercles and a linear spur; filament 5 mm. Ovary deeply included in the tube, then reaching two-thirds in the fruit; adhering over almost its entire length by the septa; vertex truncate, papillose, with a marginal, membranous, ciliate-glandular crown, 0.8–1 mm high; style linear, 10 mm; stigma finely capitate; placentas narrowly stipitate.
 
-acuminés-subulés au sommet. Étamines homomorphes mais légèrement inégales : anthère 5 mm, linéaire, atténuée au sommet, sessile; connectif avec 2 tubercules antérieurs et un éperon linéaire; filet 5 mm. Ovaire profondément inclus dans le tube, puis atteignant les deux-tiers dans le fruit; adhérent sur presque toute sa longueur par les cloisons; vertex tronqué, papilleux, avec une couronne marginale, membraneuse, ciliée-glanduleuse, 0,8-1 mm de haut; style linéaire, 10 mm; stigmate finement capité; placentas étroitement stipités.
-
-Fruit (immature) 5 mm de diamètre, globuleux, couronné par le calice pursuant; sommet de l'ovaire concave ou tronqué avec bourrelet marginal. Graines papilleuses. — Pl. 37, p. 99.
+Fruit (immature) 5 mm in diameter, globose, crowned by the persistent calyx; apex of the ovary concave or truncate with marginal thickening. Seeds papillose. — Pl. 37, p. 99.
 
 ## Type
 
@@ -37,9 +33,7 @@ Le Testu 2192, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce homostaminée; vérifier si ce caractère est stable.
+Homostaminous species; verify whether this character is stable.
 
 ## Specimens examined
 

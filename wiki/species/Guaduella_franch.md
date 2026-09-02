@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Inflorescences on leafless culms ..... G. densiflora
 
-1. Inflorescences sur chaumes aphylles ..... G. densiflora
+1. Inflorescences at the apex of leafy culms: 2. Lemmas not imbricate, glabrous except at the base; palea with 2 intracarinal nerves ..... G. oblonga
 
-1. Inflorescences à l'extremité des chaumes feuillés : 2. Lemmas non imbriquées, glabres sauf à la base ; paléa à 2 nervures intracarinales ..... G. oblonga
-
-2. Lemmas imbriquées sur 1/4 à 3/4 de leur longeur ; paléa à 4 nervures intracarinale ..... G. marantifolia
+2. Lemmas imbricate over 1/4 to 3/4 of their length; palea with 4 intracarinal nerves ..... G. marantifolia
 
 26.1 Guaduella densiflora Pilg.
 
-Fl. Gab.: 200 (mais seulement dans la clé) ; FWTA : 360 ; Gram. Cam.: 25, Pl. 2.
+Fl. Gab.: 200 (but only in the key); FWTA: 360; Gram. Cam.: 25, Pl. 2.
 
-– Guaduela foliosa Pilg. – Fl. Gab. : 201.
+– Guaduela foliosa Pilg. – Fl. Gab.: 201.
 
 ## Specimens examined
 

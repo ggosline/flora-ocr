@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small tree 6–10 m to large tree 20–25 m, with diameter 20–30 cm; branchlets with ferruginous-brown tomentum, ± hirsute. Leaves 3–6-jugate
 
-Petit arbre de 6-10 m à grand arbre de 20-25 m, à diamètre de 20-30 cm; rameaux à tomentum brun ferrugineux, ± hirsutes. Feuilles 3-6-juguées
+PL. 41. — Eriocælum kerstingii Gilg (1, Letouzey 5885; 2-5, Kersting 518): 1, leaf; 2, inflorescence 6 cm; 2', cymule; 2", calyx pilosity (0.2–0.8 mm); 3, disk; 4, 4', 4", petal 3 mm, external, internal faces and profile; 5, fruit, diameter 26 mm; 5', valve. — Eriocælum macrocarpum Gilg (6–9', Zenker 4232; 10, Zenker 1564): 6, leaf; 7, inflorescence 8 cm; 7', uniflorous cymule; 7'', calyx pilosity 0.1 mm; 8, disk in section; 9, 9', petal 2 mm, external, internal faces and profile; 10, fruit, diameter 4 cm.
 
-PL. 41. — Eriocælum kerstingii Gilg (1, Letouzey 5885; 2-5, Kersting 518) : 1, feuille; 2, inflorescence 6 cm; 2', cymule; 2", pilosité du calice (0,2-0,8 mm; 3, disque; 4, 4', 4", pétale 3 mm, faces externe, interne et profil; 5, fruit, diamètre, 26 mm; 5', valve. — Eriocælum macrocarpum Gilg (6-9', Zenker 4232; 10, Zenker 1564) : 6, feuille; 7, inflorescence 8 cm; 7', cymule uniflore; 7', pilosité du calice 0,1 mm; 8, disque en coupe; 9, 9', pétale 2 mm, faces externe, interne et profil; 10, fruit, diamètre 4 cm.
+20–30 cm; leaflets obovate-lanceolate, acuminate, approximately 3 times longer than wide, the lower ones stipuliform, cordate, 3–4 × 2.5–3 cm, with approximately 8 pairs of veins.
 
-de 20-30 cm; folioles obovales lancéolées, acuminées, environ 3 fois plus longues que larges, les inférieures stipuliformes, cordées,  $ 3-4 \times 2,5-3 $ cm, avec environ 8 paires de nervures.
-
-Inflorescences dressées, rigides, densément velues, portant des cymules sessiles triflores, avec bractées linéaires de 3 mm. Fleurs blanc rosé ou violacées; pétales entièrement velus, mais plus abondamment sur l'écaille que sur le limbe. Fruit gros, haut de 2,5 cm, large de 3,5 cm; valves épaisses de 3-4 mm, de couleur orangée, restant longtemps velues; pédoncule fructifère épais, de 3 mm de diamètre. Graine de 18-20 mm. PL. 42, 1-7', p.179.
+Inflorescences erect, rigid, densely hairy, bearing sessile triflorous cymules, with linear bracts 3 mm. Flowers white-pink or violet; petals entirely hairy, but more abundantly on the scale than on the limb. Fruit large, 2.5 cm high, 3.5 cm wide; valves 3–4 mm thick, orange-coloured, remaining hairy for a long time; fertile peduncle thick, 3 mm in diameter. Seed 18–20 mm. PL. 42, 1–7', p. 179.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mann 976, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue de République Centrafricaine et du Gabon. A rechercher au Cameroun.
+Species known from Central African Republic and Gabon. To be searched for in Cameroon.
 
 ## Figures
 

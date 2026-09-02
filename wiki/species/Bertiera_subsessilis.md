@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub of 2–3 (4) m, with erect stem and oblique branches. Branch tips with appressed pubescence. Stipules acute, (5) 9–20 × 2.5–6 mm, ± glabrous laterally. Petiole 1–8 mm, sometimes glabrous. Blade discolorous when dry, upper surface entirely glabrous, 6–17 × 1.5–5.5 cm; base acute or narrowly obtuse; apex lanceolate to subacuminate. 7–11 pairs of secondary veins.
 
-Arbuste de 2-3 (4) m, à tige verticale et rameaux obliques. Extrémités à pubescence apprimée. Stipules aiguës de (5) 9-20 × 2,5-6 mm, ± glabres latéralement. Pétiole de 1-8 mm, parfois glabre. Limbe discolore à sec, à face supérieure entièrement glabre, de 6-17 × 1,5-5,5 cm; base aiguë ou étroitement obtuse; sommet lancéolé à subacuminé. 7-11 paires de nervures secondaires.
+Inflorescences terminal, spiciform, erect ± inclined or pendulous, 5–15 (25) cm long, with peduncle 0.5–3 cm. Rachis pubescent bearing pluriflorous glomérules arranged in succession. Flowers white, sessile or subsessile, reaching 15 mm long. Calyx pubescent with short teeth often less than 0.5 mm. Corolla pubescent except for the margin of the lobes exposed at anthesis, 10 mm long, with internal pilosity on the base of the lobes and in narrow vertical lines between the anthers. The latter 3–4 × 1 mm with acute acumen.
 
-Inflorescences terminales spéciformes, érigées ± inclinées ou pendantes, longues de 5-15 (25) cm, à pédoncule de 0,5-3 cm. Rachis pubescent portant des glomérules pluriflores échelonnés. Fleurs blanches sessiles ou subsessiles atteignant 15 mm de long. Calice pubescent à dents courtes souvent inférieures à 0,5 mm. Corolle pubescente sauf la marge des lobes découverte à l'anthèse, longue de 10 mm, à pilosité interne sur la base des lobes et en lignes verticales étroites entre les anthères. Ces dernières de 3-4 × 1 mm avec l'acumen aigu.
-
-Infrutescence un peu accrescente et plus spécialement au niveau des pédicelles. Fruit vert devenant blanchâtre ou jaunâtre et mou vers 1 cm de diam. Graines noires.
+Infructescence somewhat accrescent and especially so at the level of the pedicels. Fruit green becoming whitish or yellowish and soft at about 1 cm diam. Seeds black.
 
 ## Type
 
@@ -31,11 +29,9 @@ Barter 1831! (holotype K!, isotype P), Brass, Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Understory and margins of sublittoral forests, on sand, and also culminal shrub forest: at Bélinga at 1000 m, at the summit of Grande-Crête-Sud, this species forms small pure and dense stands.
 
-Sous-bois et lisières des forêts sublittorales, sur sable, et aussi forêt argustive culminale : à Bélinga à 1000 m, au sommet de la Grande-Crête-Sud, cette espèce arrive à former de petits peuplements purs et serrés.
-
-Nigeria, Cameroun, Gabon, Congo. Au Congo la variété typique est parfois remplacée par la var. congolana (De Wild. et Th. Dur.) N. Hallé stat. nov. (bas. B. congolana De Wild. et Th. Dur., Ann. Mus. Congo 2, 1, 2 : 28, 1900). L'espèce de De Wilde-man avait été mise en synonymie par Wernham; on peut cependant la distinguer, au moins variétalement, du B. subsessilis. Elle diffère essentiellement par la longueur du pédicelle nettement accrescent dans le fruit. Les stipules sont de développement très variable.
+Nigeria, Cameroon, Gabon, Congo. In Congo the typical variety is sometimes replaced by var. congolana (De Wild. et Th. Dur.) N. Hallé stat. nov. (bas. B. congolana De Wild. et Th. Dur., Ann. Mus. Congo 2, 1, 2: 28, 1900). De Wildeman's species had been placed in synonymy by Wernham; it can nevertheless be distinguished, at least at the varietal level, from B. subsessilis. It differs essentially in the length of the pedicel, clearly accrescent in fruit. The stipules are of highly variable development.
 
 ## Specimens examined
 

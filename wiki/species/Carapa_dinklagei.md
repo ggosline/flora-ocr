@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Notizbl. Bot. Gart. Berlin 65(7) : 226 (1917). Petit arbre branchu de 5–20(–25) m de hauteur ; écorce brune ; tranche rosée. Feuille paripennée ; pétiole 5–12 cm, généralement 1–1,5 cm de diamètre au-dessus du pulvi nus, pubérulent ; rachis 80–120 cm, brunâtre, pubérulent ; pétiolule 1–1,5 cm ; folioles 20–30(–34), opposées ou alternes, étroitement obovales à ovales, symétriques, (7–)11– 40(–44) × (4–)6–11 cm, à base obtuse à cunéiforme, à sommet arrondi ou légèrement émarginé, apiculé ou mucroné, coriace ; nervure primaire proéminente et nettement fi nement velouteuse dessous , nervures secondaires 5–15 paires. Inflorescence lâchement branchue, atteignant 110 cm de longueur, les axes brun foncé, veloutés. Fleur : pédicelle 2–4(–5) mm, nettement velouté et parfois bractéolé ; bractéoles triangulaires, 0,5 mm de diamètre ; calice patelliforme, finement duveteux extérieurement , à 5 lobes très étalés, obtus, 1–1,4 mm de longueur ; pétales 5, obovales, 4–5,5 × 2,5–3 mm, blancs à rougeâtres, glabrescents à l’extérieur ; tube staminal subcylindrique, 2,5–4,5 mm de longueur, 10-lobé au sommet, glabre, à 10 anthères ovales ; disque annulaire, 1–1,5 mm de longueur ; ovaire ovoïde à obovoïde, (1,5–)4–5 mm de diamètre, rétréci dans les fleurs fonctionnellement mâles, longitudinalement 5-ridé, glabre, 5-loculaire, à 5–6 ovules par loge ; style court, glabre. Fruit largement ovoïde à globuleux, 8–9 cm de diamètre, fai blement 5-lobé, déhiscent par 5 valves subligneuses et nettement mamelonnées le long d’une bande longitudinale centrale. Graines jusqu’à 6 par loge, anguleuses, 2,5–3 cm de diamètre, à surface rugueuse, brun foncé.
+Notizbl. Bot. Gart. Berlin 65(7) : 226 (1917). Small branched tree 5–20(–25) m tall; bark brown; inner surface pinkish. Leaves paripinnate; petiole 5–12 cm, generally 1–1.5 cm in diameter above the pulvinus, puberulent; rachis 80–120 cm, brownish, puberulent; petiolule 1–1.5 cm; leaflets 20–30(–34), opposite or alternate, narrowly obovate to ovate, symmetric, (7–)11–40(–44) × (4–)6–11 cm, with obtuse to cuneiform base, rounded or slightly emarginate apex, apiculate or mucronate, coriaceous; primary vein prominent and clearly finely velvety below, secondary veins 5–15 pairs. Inflorescence loosely branched, reaching 110 cm in length, axes dark brown, velvety. Flower: pedicel 2–4(–5) mm, clearly velvety and sometimes bracteolate; bracteoles triangular, 0.5 mm in diameter; calyx patelliform, finely pubescent externally, with 5 very spreading, obtuse lobes, 1–1.4 mm long; petals 5, obovate, 4–5.5 × 2.5–3 mm, white to reddish, glabrescent externally; staminal tube subcylindric, 2.5–4.5 mm long, 10-lobed at apex, glabrous, with 10 ovate anthers; annular disk, 1–1.5 mm long; ovary ovoid to obovoid, (1.5–)4–5 mm in diameter, narrowed in functionally male flowers, longitudinally 5-ridged, glabrous, 5-locular, with 5–6 ovules per locule; style short, glabrous. Fruit broadly ovoid to globose, 8–9 cm in diameter, weakly 5-lobed, dehiscent by 5 subligneous valves and clearly mamillate along a central longitudinal band. Seeds up to 6 per locule, angular, 2.5–3 cm in diameter, with rugose surface, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale et Gabon ; au Gabon, non com mune, seulement connue de l’Estuaire
+Nigeria, Cameroon, Equatorial Guinea and Gabon; in Gabon, uncommon, known only from the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et vieilles forêts secondaires ombrophiles ; jusqu’à 500 m d’altitude. B : Kenfack (2011). ibliographie
+primary and old secondary rainforests; up to 500 m altitude. B: Kenfack (2011). Bibliography
 
 ## Notes
 

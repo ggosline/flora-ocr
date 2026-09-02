@@ -15,23 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-S. monostachyus (P.Beauv.) Briq. in Engl. & Prantl, Nat. Pflanzenfam. 4(3a) : 359 (1897). Plectranthus monostachyus (P.Beauv.) B.J.Pollard, Kew Bull. 56 : 980 (2001). Herbe annuelle, de 0,20–1 m de hauteur ; tige dressée ou ascendante, plus ou moins pubescente, à poils dirigés vers la base et apprimés . Feuille : pétiole 15–30(–40) mm ; limbe
-
-ovale, de 3–9,5 × 3–6 cm, atténué à la base, aigu à obtus à l’apex, denté à crénelé, parfois marqué de brun ou de rougeâtre sur la face supérieure, pubérulent à glandes sessiles rougeâtres sur la face inférieure. Inflorescence terminale, non ramifiée, lâche, à verticillastres distants jusqu’à 20(–25) mm ; bractées petites, longues de 5 mm, finalement réfléchies et caduques. Fleur : pédicelle 2–4 mm ; calice en forme d’entonnoir, long de 2–3 mm et de 3–5 mm en fruit, pubescent, à glandes sessiles brunâtres, lèvre supérieure courbée vers le haut, ovale, acuminée, lobes latéraux étroitement triangulaires, dents inférieures courbées vers le haut et fermant la gorge, fusionnées, obovales, subentières ou à 2 dents apiculées ; corolle longue de 4–7 mm , bleue ou violette marquée de blanc, lèvre inférieure longue de 2–4 mm ; étamines à filets fusionnés à la base. Fruit : akènes ovoïdes, longs de 1 mm, bruns, mouchetés plus foncé.
+S. monostachyus (P.Beauv.) Briq. in Engl. & Prantl, Nat. Pflanzenfam. 4(3a) : 359 (1897). Plectranthus monostachyus (P.Beauv.) B.J.Pollard, Kew Bull. 56 : 980 (2001). Annual herb, 0.20–1 m tall; stem erect or ascending, more or less pubescent, with hairs directed towards the base and appressed. Leaf: petiole 15–30(–40) mm; blade ovate, 3–9.5 × 3–6 cm, attenuate at the base, acute to obtuse at the apex, dentate to crenate, sometimes marked with brown or reddish on the upper surface, puberulent to sessile reddish glands on the lower surface. Inflorescence terminal, unbranched, lax, with verticillasters distant to 20(–25) mm; bracts small, 5 mm long, eventually reflexed and caducous. Flower: pedicel 2–4 mm; calyx funnel-shaped, 2–3 mm long and 3–5 mm in fruit, pubescent, with brownish sessile glands, upper lip curved upwards, ovate, acuminate, lateral lobes narrowly triangular, lower teeth curved upwards and closing the throat, fused, obovate, subentire or with 2 apiculate teeth; corolla 4–7 mm long, blue or violet marked with white, lower lip 2–4 mm long; stamens with filaments fused at the base. Fruit: achenes ovoid, 1 mm long, brown, speckled with darker colour.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu en Afrique de l’Ouest et du Centre-Ouest, y compris le Nigéria, le Cameroun, la Guinée équatoriale (Bioko, Annobon), São Tomé et Principe, le Gabon, la République Centrafricaine, la République du Congo et l’Angola (Cabinda) ; naturalisé dans certaines parties de l’Asie tropicale ; au Gabon : Estuaire, Haut Ogooué, Ngounié, Nyanga, Ogooué-Lolo, Ogooué-Ivindo et Woleu-Ntem. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+widespread in West and West-Central Africa, including Nigeria, Cameroon, Equatorial Guinea (Bioko, Annobon), São Tomé and Príncipe, Gabon, Central African Republic, Republic of the Congo and Angola (Cabinda); naturalized in parts of tropical Asia; in Gabon: Estuaire, Haut-Ogooué, Ngounié, Nyanga, Ogooué-Lolo, Ogooué-Ivindo and Woleu-Ntem. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones perturbées sur sol rocheux ou sableux, ou anciennes cultures, prairies humides (également sur tronc de palmier à huile), devenant envahissant en Asie du Sud-Est ; au Gabon à 140–580 m d’altitude, à 60–1300 m dans les pays voisins. Usage : Utilisé contre les maux de ventre. Les feuilles sont mangées avec des graines de courgettes. Au Congo, le jus de feuilles est donné aux enfants comme gouttes oculaires pour traiter les convulsions et comme boisson sédative. Il y est aussi utilisé contre les morsures de serpent
+disturbed areas on rocky or sandy soil, or former cultivations, humid grasslands (also on oil palm trunk), becoming invasive in Southeast Asia; in Gabon at 140–580 m altitude, at 60–1300 m in neighbouring countries. Uses: Used against abdominal pains. The leaves are eaten with courgette seeds. In the Congo, leaf juice is given to children as eye drops to treat convulsions and as a sedative drink. It is also used there against snake bites
 
 ## Vernacular names
 
@@ -39,9 +31,7 @@ ava (fang) ; etsipo-a-kyètu (mitsogo)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La seconde sous-espèce, subsp. perennis J.K.Morton, se trouve en Sierra Leone, en Côte-d’Ivoire, au Ghana et au Nigéria. Du matériel décombant pérenne, précédemment identifié comme Coleus (ou Plectranthus ) monostachyus subsp. perennis du Gabon représente effectivement C . calaminthoides à poils de la tige dirigés vers le haut plutôt que vers le bas et semble être limité aux zones côtières. B : Morales (2011), Morton (1963), Pollard et al. (2001, 2006), Raponda-Walker & Sillans i B liographie (1961), Vande weghe et al. (2016)
+The second subspecies, subsp. perennis J.K.Morton, is found in Sierra Leone, Côte d'Ivoire, Ghana and Nigeria. Perennial decumbent material previously identified as Coleus (or Plectranthus) monostachyus subsp. perennis from Gabon actually represents C. calaminthoides with stem hairs directed upwards rather than downwards and appears to be limited to coastal areas. B: Morales (2011), Morton (1963), Pollard et al. (2001, 2006), Raponda-Walker & Sillans (1961), Vande weghe et al. (2016)
 
 ## Notes
 

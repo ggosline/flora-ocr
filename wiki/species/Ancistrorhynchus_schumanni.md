@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– TYPE : Braun 20, Cameroon, holo-B, delete., iso-BR, K!. – Mystacidium schumannii (Kraenzl.) Rolfe, FTA 7 : 173 (1897). – Tridactyle schumannii (Kraenzl.) Summerh., FTWA, ed. 1, 2 : 462 (1936).
 
-– TYPE : Braun 20, Cameroun, holo-B, delete., iso-BR, K!. – Mystacidium schumannii (Kraenzl.) Rolfe, FTA 7 : 173 (1897). – Tridactyle schumannii (Kraenzl.) Summerh., FTWA, ed. 1, 2 : 462 (1936).
+Stem < 15 cm, elongate. Leaves < 3 (-6) × 0.2-0.75 cm, subpetiolate, narrowly oblong, briefly bilobed, lobes rounded. Inflorescence very short, 1-3-flowered, subtended by relatively small bracts. Flowers very small, white. Floral bracts 2-3 mm, much shorter than the flowers. Sepals 2-3 × 1-1.5 mm, oblong, obtuse. Petals 2-3 × 1-1.5 mm, oblong, obtuse. Labellum 2-3 ×
 
-Tige < 15 cm, allongée. Feuilles < 3 (-6) × 0,2-0,75 cm, subpétiolées, étroitement oblongues, brièvement bilobées, lobes arrondis. Inflorescence très courte, 1-3-flore, sous-tendue par des bractées relativement petites. Fleurs très petites, blanches. Bractées florales de 2-3 mm, beaucoup plus courtes que les fleurs. Sépales 2-3 × 1-1,5 mm, oblongs, obtus. Pétales 2-3 × 1-1,5 mm, oblongs, obtus. Labelle 2-3 ×
+PL. 153. – Ancistrorhynchus metteniae (Kraenzl.) Summerh. : A, flower and floral bract ; B, C, labellum spread ; D, dorsal sepal ; E, petal ; F, lateral sepal ; G-I, leaf apices (A-I, Tisserant 1619, P).
 
-PL. 153. – Ancistrorhynchus metteniae (Kraenzl.) Summerh. : A, fleur et bractée florale ; B, C, labelle étalé ; D, sépale dorsal ; E, pétale ; F, sépale latéral ; G-I, extrémités foliaires (A-I, Tisserant 1619, P).
-
-1,5-2,5 mm, largement ové, arrondi. Éperon 2-2,5 mm, légèrement renflé au-dessus de la base.
+1.5-2.5 mm, broadly ovate, rounded. Spur 2-2.5 mm, slightly swollen above the base.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Zaïre
+Nigeria, Cameroon, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphyte in dense forest
 
-alt. inconnue. Épiphyte en forêt dense
+MATERIAL EXAMINED
 
-MATÉRIEL ÉTUDIÉ
-
-Van der Laan 609 & 789, Prov. Gabon, cult. WAG, épiphyte (fl. Mai), WAG!.
+Van der Laan 609 & 789, Prov. Gabon, cult. WAG, epiphyte (fl. May), WAG!.
 
 ## Figures
 

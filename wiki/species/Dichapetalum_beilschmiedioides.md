@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 73 (13): 87-89 (1973); AUWP 86 (3): 14 (1986). TYPE: Gabon, Lastoursville, Le Testu 7595 (holo-, P; iso-, BM, WAG).
 
-Liane. Rameaux creux, glabres, lenticelles éparses. Jeunes rameaux avec pubérulence éparse au début, tôt glabrescents, creux ou le devenant, lenticelles éparses ou absentes.
+Liane. Branches hollow, glabrous, lenticels scattered. Young branches with sparse puberulence at first, soon glabrescent, hollow or becoming so, lenticels scattered or absent.
 
-Stipules lancéolées-subulées, tôt caduques, ≤ 5 mm.
+Stipules lanceolate-subulate, soon caducous, ≤ 5 mm.
 
-Feuilles distiques ou presque. Pétiole canaliculé souvent profondément, long de (5) 7-10 (12) mm, glabre ou plus souvent avec une pubescence éparse à l'état jeune. Limbe elliptique à obové-elliptique, 2,5-3 fois plus long que large, (10) 15-21 × (3) 5-8 cm; base cunée et marge décurrente sur le pétiole ; sommet obtusément caudé-acuminé, acumen long de (5) 10-15 mm ; limbe glabre (face inférieure de la nervure I souvent avec des poils courts très épars à l'état jeune) ; nervure I et les 5-7 paires principales de nervures II, plus proéminentes dessous ; glandes peu proéminentes, à la face inférieure seulement, surtout le long de la nervure I, souvent plus nombreuses près de la base et du sommet.
+Leaves distichous or nearly so. Petiole canaliculate often deeply, (5) 7-10 (12) mm long, glabrous or more often with scattered pubescence when young. Blade elliptic to obovate-elliptic, 2.5-3 times longer than wide, (10) 15-21 × (3) 5-8 cm; base cuneate and margin decurrent on the petiole; apex obtusely caudate-acuminate, acumen (5) 10-15 mm long; blade glabrous (lower face of vein I often with very scattered short hairs when young); vein I and the 5-7 pairs of main secondary veins, more prominent below; glands slightly prominent, on the lower face only, mainly along vein I, often more numerous near base and apex.
 
-Inflorescences axillaires cymeuses, parfois plusieurs simultanément présentes sur un rameau axillaire aphylle et court, ≈ 7-18-flores, pubé-rulentes-tomentelleuses, ramifications courtes mais distinctes. Pédoncule long de (3) 5-13 mm. Bractées et bractéoles concaves, ovées, elliptiques ou deltoïdes, 1,5-4 × 0,5-1,5 mm. Pédicelle ≤ 9 mm, toujours articulé très loin du milieu, partie supérieure longue de 0,5-1 mm, pubérulence apprimée.
+Inflorescences axillary cymose, sometimes several simultaneously present on a short, leafless axillary branch, ≈ 7-18-flowered, puberulent-tomentellous, ramifications short but distinct. Peduncle (3) 5-13 mm long. Bracts and bracteoles concave, ovate, elliptic or deltoid, 1.5-4 × 0.5-1.5 mm. Pedicel ≤ 9 mm, always articulate far from the middle, upper part 0.5-1 mm long, appressed pubescence.
 
-Fleur : base du calice arrondie ou obtuse. Sépales réfléchis souvent partiellement enroulés, à base presque libre, obovés-oblongs, 3-4 × 1,5-2,5 mm, sommet largement arrondi à obtus-émarginé ; face externe avec pubérulence apprimée ; face interne finement pubérulente. Pétales étalés, plutôt épais et raides, parfois un peu coudés, base très cour- tement réunie aux filets, forme étroitement obovée-spatulée, longs de 3-4 mm, fendus sur 1,5 mm ; face interne fortement carénée au-dessous de la fente et glabre ; face externe poilue au-dessous de la fente et parfois aussi sur les lobes, ± concaves et arrondis au sommet. Étamines longues de 3-4,5 mm, glabres ; base des filets aussi large que celle des pétales ; anthères réniformes, longues de < 0,5 mm ; connectif pro-éminent. Staminodes subcarrés, 0,5 × 0,5 mm, glabres ou avec quelques poils, sommet bilobé-émarginé. Pistil long de 2,5-4 mm ; style glabre ou laineux sur la partie inférieure, sommet 3-lobé ; ovaire subsphérique, laineux, 3-loculaire.
+Flower: calyx base rounded or obtuse. Sepals reflexed often partially rolled, nearly free at base, obovate-oblong, 3-4 × 1.5-2.5 mm, apex broadly rounded to obtusely emarginate; outer face with appressed puberulence; inner face finely puberulent. Petals spreading, rather thick and stiff, sometimes slightly bent, base very shortly joined to the filaments, narrowly obovate-spatulate form, 3-4 mm long, split for 1.5 mm; inner face strongly keeled below the slit and glabrous; outer face hairy below the slit and sometimes also on the lobes, ± concave and rounded at the apex. Stamens 3-4.5 mm long, glabrous; base of filaments as wide as that of the petals; anthers reniform, < 0.5 mm long; connective prominent. Staminodes subquadrate, 0.5 × 0.5 mm, glabrous or with a few hairs, apex bilobed-emarginate. Pistil 2.5-4 mm long; style glabrous or woolly on the lower part, apex 3-lobed; ovary subspheric, woolly, 3-locular.
 
-Fruits inconnus. – Pl. 12, p. 61.
+Fruits unknown. – Pl. 12, p. 61.
 
 ## Type
 
@@ -39,15 +37,11 @@ Le Testu 7595, Lastoursville, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles de basse altitude
+lowland rainforests
 
 ## Specimens examined
 

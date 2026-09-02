@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Mett. ex Kühn, Fil. Afr.: 53 (1868). — Tard., Mém. IFAN 28 : 67, pl. 16, f. 1-2 (1953). — Alston, FWTA : 67 (1959).
 
-Rhizome grimpant, portant des écailles brun roux, lancéolées, peltées à la base, à bords entiers, formées de cellules allongées, à parois minces, lumière rougeâtre. Fronde de 25-30 cm sur 2-4 de large, lancéolée, progressivement rétrécie à la base sur le pétiole largement ailé, à extrémité aiguë ou obscurément acuminée, bords entiers, ondulés, réfléchis. Texture subcoriace. Costa sur-élevé à la face inférieure. Nervures visibles, simples ou bifurquées dès la base. Face inférieure du limbe glabre ou portant quelques rares petites écailles disséminées. Fronde fertile pétiolée, plus longue que la stérile, très étroitement linéaire, entièrement recouverte à la face inférieure par les sporanges.
+Rhizome climbing, bearing brown-reddish scales, lanceolate, peltate at the base, with entire margins, formed of elongated cells, with thin walls, reddish translucence. Frond 25-30 cm by 2-4 cm wide, lanceolate, progressively narrowed at the base onto the broadly winged petiole, with acute or obscurely acuminate apex, entire margins, undulate, reflexed. Texture subcoriaceous. Costa raised on the lower surface. Veins visible, simple or bifurcate from the base. Lower surface of the lamina glabrous or bearing a few scattered small scales. Fertile frond petiolate, longer than the sterile, very narrowly linear, entirely covered on the lower surface by sporangia.
 
 ## Type
 
@@ -34,11 +32,9 @@ Barter, 1452, Onitsha (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Guinea to Angola.
 
-De Guinée en Angola.
-
-Sur les rochers ou épiphytes, régions marécageuses, bords de forêts.
+On rocks or epiphytic, swampy regions, forest margins.
 
 ## Specimens examined
 

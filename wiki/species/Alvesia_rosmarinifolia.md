@@ -15,25 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plectranthastrum rosmarinifolium (Welw.) B.Mathew, Kew Bull. 25 : 408 (1971). Arbuste ou herbe à base ligneuse, de 1–1,5 m de hauteur, signalé comme légèrement fétide ; tige souvent à faisceaux de jeunes feuilles ou jeunes pousses dans les aisselles , pubescente ou densément pubescente à poils dirigés vers le haut, souvent violacée distalement, à glandes sessiles dispersés peu visibles. Feuille : pétiole 0–2 mm ; limbe étroitement elliptique à linéaire , de 2–6 × 0,5–0,9 cm, cunéé à atténué à la base, aigu à l’apex, entier et fortement révoluté , ± glabre dessus, dessous plus pâle, tomenteux, à glandes sessiles éparses. Inflores cence violacée ; cymes sessiles, avec (3 à)5 à 7 fleurs ; bractées sessiles, longues de 4–5 mm, elliptiques, avec une structure en forme de glande sur la face externe bien visible. Fleur : pédicelle 7–15 mm ; calice long de 2–3 mm, rosé, tomenteux, pendant après la floraison , ovoïde, vésiculeux , long de 25–30 mm, nettement veiné , fixé au pédicelle au milieu de la
-
-Emmanuel Papadopoulos (©), reproduit avec permission à partir de Paton et al. (2013).
-
-base tronquée, 3-lobé, tous les lobes pressés ensemble pour fermer la gorge ; corolle longue de 17–22 mm, violet, à tube long de 10 mm, courbé à angle droit à la base, avec un éperon dorsal, lèvre supérieure plus courte que l’inférieure, réfléchie contre le tube, lèvre inférieure longue de 7–12 mm. Fruit : akènes largement ovoïdes, longs de 5 mm, légèrement aplatis, brun foncé, avec de nombreuses glandes sessiles rouges.
+Plectranthastrum rosmarinifolium (Welw.) B.Mathew, Kew Bull. 25 : 408 (1971). Shrub or herb with woody base, 1–1.5 m tall, reported as slightly fetid; stem often with fascicles of young leaves or young shoots in the axils, pubescent or densely pubescent with hairs directed upwards, often violet distally, with scattered sessile glands scarcely visible. Leaf: petiole 0–2 mm; blade narrowly elliptic to linear, 2–6 × 0.5–0.9 cm, cuneate to attenuate at base, acute at apex, entire and strongly revolute, ± glabrous above, below paler, tomentose, with scattered sessile glands. Inflorescence violet; cymes sessile, with (3 to)5 to 7 flowers; bracts sessile, 4–5 mm long, elliptic, with a gland-like structure on the outer face well visible. Flower: pedicel 7–15 mm; calyx 2–3 mm long, pinkish, tomentose, persisting after flowering, ovoid, vesiculous, 25–30 mm long, distinctly veined, attached to the pedicel at the middle of the truncate base, 3-lobed, all lobes pressed together to close the throat; corolla 17–22 mm long, violet, with tube 10 mm long, bent at right angles at the base, with a dorsal spur, upper lip shorter than lower, reflected against the tube, lower lip 7–12 mm long. Fruit: achenes broadly ovoid, 5 mm long, slightly flattened, dark brown, with numerous red sessile glands.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République du Congo, République démocratique du Congo, Angola et Zambie ; au Gabon signalé de l’Ogooué-Maritime, un seul spécimen vu, récolté aux environs du Cap Lopez en 1913 ; pourrait être plus fréquent au Gabon, à rechercher surtout sur les Plateaux Batéké. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and Zambia; in Gabon reported from Ogooué-Maritime, a single specimen seen, collected around Cape Lopez in 1913; could be more frequent in Gabon, to be searched especially on the Batéké Plateaus. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones périodiquement inondées en forêt sèche ; au Gabon à basse altitude, ailleurs jusqu’à 1400 m. Bi : Paton et al. (2013). B liographie
+periodically flooded zones in dry forest; in Gabon at low altitude, elsewhere up to 1400 m. Bi : Paton et al. (2013). Bibliography
 
 ## Notes
 

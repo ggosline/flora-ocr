@@ -22,17 +22,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous or woody plant, climbing, with stems reaching 20 m long. Old stems 3–4 mm in diameter; young stems slender, cylindrical, with fine, fairly dense whitish pubescence; internodes 5–8 cm long. Tendrils ramified, glabrous; bracts deltoid, 0.5–1 mm long, glabrous. Stipules deltoid-elongate, obtuse or rounded at the apex, 4–5 mm long, about 1.5 mm wide near the middle, glabrous. Leaves simple, entire. Petiole cylindrical, somewhat canaliculate on the upper face, 2–6 cm long, glabrous or finely pubescent. Lamina oval, oval-lanceolate or oval-oblong, 6–12 cm long, 3–8 cm wide, with truncate, sagittate or cordate base, with rounded or obtuse-acuminate apex; margin with some broad indentations; lamina glabrous on both surfaces or sometimes with a few hairs at the base of the midrib; domata on the lower surface generally more or less provided with hairs; venation pinnate; texture somewhat coriaceous.
 
-Plante herbacée ou ligneuse, grimpante, à rameaux atteignant 20 m de long. Tiges âgées de 3-4 mm de diamètre; tiges jeunes grêles, cylindriques, présentant une fine pubescence blanchâtre assez dense; entrenœuds de 5-8 cm de long. Vrilles ramiﬁées, glabres; bractées deltoïdes, de 0,5-1 mm de long, glabres. Stipules deltoïdes allongées, obtuses ou arrondies au sommet, de 4-5 mm de long, d'environ 1,5 mm de large vers le milieu, glabres. Feuilles simples entières. Pétiole cylindrique, un peu canaliculé à la face supérieure, de 2-6 cm de long, glabre ou finement pubescent. Limbe ovale, ovale lancéolé ou ovale oblong, de 6-12 cm de long, de 3-8 cm de large, à base tronquée, sagittée ou cordée, à sommet arrondi ou obtus acuminé; marge présentant quelques larges indentations; limbe glabre sur les deux faces ou avec parfois quelques poils à la base de la nervure principale; à la face inférieure des domaties généralement plus ou moins pourvues de poils; nervation pennée; texture un peu coriace.
+Inflorescences 2–5 cm long, in compound cymes composed of dense, umbelliform cymules; axes cylindrical, bearing the same indumentum as the young stems and fairly dense; peduncle 1–1.5 mm long; bracts and bracteoles oval-deltoid, 0.5–1.5 mm long, glabrous or weakly pubescent. Flowers 2–2.5 mm long. Pedicel cylindrical, 2–3 mm long, glabrous but covered with whitish papillae. Calyx cupuliform, 0.5–0.7 mm high, glabrous, with margin more or less distinctly lobed. Corolla conical, more or less completely covered with very fine pubescence and whitish papillae; petals oblong-obtuse, about 2 mm long. Stamens about 1.5 mm long; anthers 0.7 mm long. Ovary glabrous.
 
-Inflorescences de 2-5 cm de long, en cymes composées de cymules ombelliformes densiflores; axes cylindriques portant la même pilosité que les jeunes rameaux et assez dense; pédoncule de 1-1,5 mm de long; bractées et bractéoles ovales deltoïdes, de 0,5-1,5 mm de long, glabres ou faiblement pubescentes. Fleurs de 2-2,5 mm de long. Pédicelle cylindrique, de 2-3 mm de long, glabre mais couvert de papilles blanchâtres. Calice cupuliforme, de 0,5-0,7 mm de haut, glabre, à bord plus ou moins nettement lobé. Corolle conique, plus ou moins complètement couverte d'une très fine pubérulence et de papilles blanchâtres; pétales oblongs obtus, d'environ 2 mm de long. Étamines d'environ 1,5 mm de long; anthères de 0,7 mm de long. Ovaire glabre.
+Berries piriform, 8–9 mm long, 5–7 mm wide, glabrous. Seed ovoid-reniform, about 5 mm long and 3 mm wide; rostrum strong; median crest prominent; lateral lines emitting ventral and dorsal radiating lines; seed coat with smooth surface.
 
-Baies piriformes, de 8-9 mm de long, de 5-7 mm de large, glabres. Graine ovoïde réniforme, d'environ 5 mm de long et 3 mm de large; rostre fort ; crête médiane saillante ; lignes latérales émettant des radiales ventrales et dorsales ; test à surface lisse.
+Type from Congo: Dewèvre 339 (BR).
 
-Type du Congo : Dewèvre 339 (BR).
-
-Faible liane à fleurs jaunes. En forêt ombrophile et jachères forestières. L'aire de dispersion de cette espèce s'étend du Cameroun à l'Angola.
+Weak vine with yellow flowers. In rainforest and fallow forest areas. The range of this species extends from Cameroon to Angola.
 
 ## Specimens examined
 

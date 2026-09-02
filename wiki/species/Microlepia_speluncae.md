@@ -22,11 +22,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Moore, Ind. Fil. XCII (1857). — Tard., Mém. IFAN 28 : 58, t. 8, f. 3-8 (1953). — Alston FWTA : 32 (1959).
 
-Rhizome rampant. Pétiole straminé, long de 20-80 cm, portant des poils mous. Limbe de 40 à 100 cm, triangulaire ou ovale-lancéolé, 3-5 pinnatifide. Pennes pétiolées, espacées de 7-8 cm, opposées ou subalternes, lancéolées. Pinnules lancéolées, divisées, jusqu'au rachis ailé, en lobes arrondis, dentés ou pinnatifides, le premier lobe supérieur plus développé que les autres. Texture herbacée; rachis et nervures poilus; nervures pennées. Indusie en forme de coupe, parfois caduque, le plus souvent hispide.
+Rhizome creeping. Petiole straw-coloured, 20-80 cm long, bearing soft hairs. Lamina 40 to 100 cm, triangular or ovate-lanceolate, 3-5 pinnatifid. Pinnae petiolate, spaced 7-8 cm apart, opposite or subopposite, lanceolate. Pinnules lanceolate, divided to the winged rachis, into rounded lobes, dentate or pinnatifid, the first upper lobe more developed than the others. Texture herbaceous; rachis and veins hairy; veins pinnate. Indusium cup-shaped, sometimes caducous, usually hispid.
 
 ## Specimens examined
 

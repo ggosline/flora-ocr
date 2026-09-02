@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Dactyladenia floribunda WELW., Apont. Fl. Prov. Angola, Ann. Conselho Ultram. : 572 (1859).
 
 — Griffonia bellayana OLIV., FTA 2 : 371 (1871), p.p., quoad specim. angol.
 
-— Acioa ícondere var. welwitschii De Wild., BJBB 7 : 195 (1920).
+— Acioa icondere var. welwitschii De Wild., BJBB 7 : 195 (1920).
 
 — A. bellayana auct. non BAILL. : HIERN, Cat. Pl. Welw. 1 : 321 (1896); CAVACO, Bull. Mus. Nat. Hist. Nat. Paris 26 : 638 (1954).
 
 — A. bellayana var. pilosa ENGL. ms. in sched., BR, fide DE WILD., l.c. : 196 (1920).
 
-Arbuste atteignant 20 m de hauteur et 20 cm de diamètre, avec petits contreforts à la base et écorce lisse, gris brunâtre pâle, lenticellée; parfois sarmenteux-lianescent et s'élevant à 10 m de hauteur. Jeunes rameaux couverts d'un dense tomentum velouté jaune doré, persistant. Stipules linéaires (1 × 5 mm) à lancéolées (1,5 × 6-7 mm, fide HAUMAN, I.c.: 51), désment couvertes de poils couchés. Pétiole 5-8 mm, également tomenteux velouté. Limbe elliptique, (4,5)-6-9 × 11-15(-18) cm, parfois oblong (5 × 13 cm), parfois légèrement obovale; base largement cunéiforme à arrondie; sommet
+Shrub reaching 20 m in height and 20 cm in diameter, with small buttresses at the base and smooth bark, pale grayish-brown, lenticellate; sometimes sarmentose-scandent and reaching 10 m in height. Young branches covered with dense golden-yellow velvety tomentum, persistent. Stipules linear (1 × 5 mm) to lanceolate (1.5 × 6–7 mm, fide HAUMAN, l.c.: 51), densely covered with appressed hairs. Petiole 5–8 mm, similarly velvety tomentose. Blade elliptic, (4.5)–6–9 × 11–15(–18) cm, sometimes oblong (5 × 13 cm), sometimes slightly obovate; base broadly cuneate to rounded; apex obtuse to rounded, small acumen 3–5 mm; midrib tomentellose above, tomentose below; lateral nerves 7–10 pairs covered with sparse yellow pubescence as well as nervilles and lower surface of the blade; sometimes 2 circular glands barely visible towards the base of the blade below.
 
-obtus à arrondi, petit acumen 3-5 mm; nervure médiane tomentelleuse dessus, tomenteuse dessous; nervures latérales 7-10 paires couvertes d'une pubescence jaune éparse ainsi que nervilles et dessous du limbe; parfois 2 glandes circulaires difficilement visibles vers la base du limbe dessous.
+Racemes solitary terminal and axillary, 2–6 cm long, bearing numerous very crowded flowers; peduncle very short (0–1 cm) covered with trilacinate bracts, furnished with appressed hairs; axis sparsely pubescent but scarcely visible as hidden by the bracts; the latter lanceolate, 4–5 mm, also furnished with appressed hairs, especially towards the apex; portion of the pedicels below the articulation 6–9(–12) mm, bearing towards the apex 2 subalternate bracteoles, the terminal articulated portion of the pedicel ending at the level of the apex of the upper bracteole; bracteoles palmatilobed–palmatipartite, approximately 2 mm, 5 elongate triangular lobes with orange terminal gland. Pedicel of the disarticulated flower 3 mm. Receptacle 12–18 mm, tubular and distinctly gibbous at the base, sometimes furnished with a few sparse scattered hairs; floral bud apiculate; sepals 6–7(–8) mm, similarly very sparsely pubescent on the parts exposed externally in the floral bud; petals broadly obovate with obtuse to subcordate base, 15 × 6 mm, white; androecium (30–35–45(–60) mm, (15–20–25(–30) filaments.
 
-Racèmes solitaires terminaux et axillaires, longs de 2-6 cm, portant de nombreuses fleurs très serrées; pédoncule très court (0-1 cm) couvert de bractées trilaciniées, garnies de poils couchés; axe éparsement pubescent mais peu visible car caché par les bractées; celles-ci lancéolées, 4-5 mm, garnies aussi de poils couchés, surtout vers le sommet; portion des pédicelles sous l'articulation 6-9(-12) mm, portant vers le sommet 2 bractéoles subopposées, la portion terminale articulée du pédicelle se terminant au niveau du sommet de la bractéole supérieure; bractéoles palmatilobées-palmatipartites, environ 2 mm, 5 lobes triangulaires allongés avec glande terminale orangée. Pédicelle de la fleur désarticulée 3 mm. Réceptacle 12-18 mm, tubuleux et nettement gibbeux à la base, garni parfois de quelques rares poils épars; bouton floral apiculé; sépales 6-7(-8) mm, également très éparsement pubescents pour les parties exposées à l'extérieur dans le bouton floral; pétales largement obovales avec base obtuse à subcordée, 15 × 6 mm, blancs; androcée (30-35-45(-60) mm, (15-20-25(-30) filets.
-
-D'après l'échantillon Gossweiler 719 d'Angola : Infrutescences garnies de bractées, pédicelles et bractéoles persistants ; pédoncule fructifère proprement dit 25-30 mm. Drupe longuement ellipsoïde, 20-25 × 40 mm (in sicco), terminée in sicco par un bec de 10 mm, à surface tomentelleuse jaune foncé, garnie de poils hispides jaune clair. — PL. 8, p. 31.
+Based on the specimen Gossweiler 719 from Angola: Infructescences furnished with bracts, persistent pedicels and bracteoles; fertile peduncle proper 25–30 mm. Drupe elongately ellipsoid, 20–25 × 40 mm (in sicco), terminated in sicco by a beak of 10 mm, with dark yellow tomentellose surface, furnished with clear yellow hispid hairs. — PL. 8, p. 31.
 
 ## Type
 
@@ -45,43 +41,39 @@ Griffon du Bellay 313 (fl.), Duparquet 58 (stér.), Gabon, P!
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Acioa floribunda (Welw.) Exell appears very close to A. icondere Baill. known from Cameroon, Gabon and Zaire (Mayumbe). All the Cameroonian, Gabonese and Angolan specimens studied and assigned to A. floribunda (Welw.) Exell have broadly cuneate to rounded leaves at the base (and not very distinctly cordate), 7–10 pairs of lateral nerves (and not 10 to 16), very contracted inflorescences (and not lax), flowers generally smaller. As mentioned concerning A. icondere Baill., there would be cause in the future to re-examine, after collecting new material, the relationship between these two taxa.
 
-Acioa floribunda (Welw.) Exell paraít três proche d'A. icondere Baill. connue au Came-roun, au Gabon et au Zaïre (Mayumbe). Tous les échantillons camerounais, gabonais et angolais étudiés et rattachés à A. floribunda (Welw.) Exell ont des feuilles largement cunéiformes à arrondies à la base (et non très nettement cordées), 7-10 paires de nervures latéraires (et non 10 à 16), des inflorescences très contractées (et non lâches), des fleurs en général plus petites. Comme mentionné à propos d'A. icondere Baill., il pourrait y avoir lieu de réexaminer à l'avenir, après récolte de nouveaux matériaux, le rapport entre ces deux taxons.
+Acioa floribunda (Welw.) Exell is known from somewhat hilly regions of Cameroon, Gabon, Cabinda, Zaire (Mayumbe), or even mountainous and misty regions of Angola (Cuanza); it would thus also differentiate ecologically from Acioa icondere Baill. which lives essentially in thickets near coastal beaches.
 
-Acioa floribunda (Welw.) Exell est connue des régions un peu accidentées du Cameroun, du Gabon, du Cabinda, du Zaïre (Mayumbe), voire aussi montagneuses et brumeuses d'Angola (Cuanza); elle se différencierait donc aussi écologiquement d'Acioa condere Baill. qui vit essentiellement dans les broussailles voisines des plages littorales.
+Acioa icondere Baill. appears very close to A. floribunda (Welw.) Exell known from Angola, Zaire (Mayumbe), Cabinda, Gabon and Cameroon. All the Cameroonian and Gabonese specimens studied and assigned to A. icondere Baill. have very distinctly cordate leaves at the base (and not broadly cuneate), (10–)12(–16) pairs of lateral nerves (and not 7–10), lax inflorescences (and not very contracted), flowers generally larger than those of the type (Welwitsch 1289, Angola) of A. floribunda (Welw.) Exell. The presence in Zaire itself, as well as in Cabinda, apparently, of A. icondere Baill. (cf. Flamigni 10451 from Mayombe, BR!, FHO!, P! and Monteiro, Santos & Murta 253 from Cabinda, COI!) nevertheless obliges one to consider in the future re-examining, thanks to new specimens from Congo, Cabinda, Zaire (Mayombe), Angola, the relationship between these two taxa.
 
-Acioa ícondere Baill. paraít três proche d'A. floribunda (Welw.) Exell connue en Angola, au Zaïre (Mayumbe), au Cabinda, au Gabon et au Cameroun. Tous les échantillons camerounais et gabonais étudiés et rattachés à A. ícondere Baill. ont des feuilles très nettement cordées à la base (et non largement cunéiformes), (10-)12(-16) paires de nervures latérales (et non 7-10), des inflorescences lâches (et non très contractées), des fleurs en général plus grandes que celles du type (Welwitsch 1289, Angola) d'A. floribunda (Welw.) Exell. La présence au Zaïre même, ainsi qu'au Cabinda, semble-t-il, d'A. ícondere Baill. (cf. Flamigni 10451 du Mayombe, BR!, FHO!, P! et Monteiro, Santos & Murta 253 du Cabinda, COI!) oblige cependant à envisager de réexaminer à l'avenir, grâce à de nouveaux échantillons provenant du Congo, du Cabinda, du Zaïre (Mayombe), de l'Angola, le rapport entre ces deux taxons.
+Acioa icondere Baill. is known from Cameroon, Gabon, as well as Zaire (Mayumbe), always in thickets near coastal beaches, sometimes perhaps a little further inland in the case of Bipindi in Cameroon (but it is known that ZENKER's collections do not always come from exactly the locality of Bipindi, situated only 50 km from the ocean). By this ecological localization, Acioa icondere Baill. also differentiates itself from A. floribunda (Welw.) Exell which, in Cameroon, Angola, Cabinda, Zaire, appears to favor hilly zones, or even mountainous ones in Angola.
 
-Acioa icondere Baill. est connue au Cameroun, au Gabon, ainsi qu'au Zaïre (Mayumbe), toujours dans des broussailles voisines des plages littorales, parfois peut-être un peu plus à l'intérieur des terres dans le cas de Bipindi au Cameroun (mais on sait que les récoltes de ZENKER ne proviennent pas toujours exactement de la localité de Bipindi, située seulement à 50 km de l'océan). Par cette localisation stationnelle, Acioa icondere
-
-Baill. se différencie également d'A. floribunda (Welw.) Exell qui, au Cameroun, en Angola, au Cabinda, au Zaïre, paraît affectionner les zones accidentées, voire même montagneuses en Angola.
-
-Bos 3467, Grand Batanga, 12 km S Kribi (fl., j. fr., déc.); 4589 et 5279 (≡ 3467), près Grand Batanga, 11 et 12 km S Kribi (stér., mai et fl., août); 6064, près Grand Batanga (fr., janv.); (WAG).
+Bos 3467, Grand Batanga, 12 km S Kribi (fl., j. fr., Dec.); 4589 and 5279 (≡ 3467), near Grand Batanga, 11 and 12 km S Kribi (ster., May and fl., Aug.); 6064, near Grand Batanga (fr., Jan.); (WAG).
 
 Braun s.n., Batanga (cit. in Bot. Jahrb. : 380).
 
-De Wilde J. 7812, km 45 route Campo-Kribi (fl., déc.); 8045, 20 km E Kribi (fl., mars); (WAG).
+De Wilde J. 7812, km 45 route Campo-Kribi (fl., Dec.); 8045, 20 km E Kribi (fl., Mar.); (WAG).
 
-Dinklage 949, Grand Batanga (fl., nov.; fr., janv.) (HBG, P, WAG).
+Dinklage 949, Grand Batanga (fl., Nov.; fr., Jan.) (HBG, P, WAG).
 
-Hédin s.n. (Kribi 7? ex 1689?), Longji (fl., mars).
+Hédin s.n. (Kribi 7? ex 1689?), Longji (fl., Mar.).
 
-Letouzey 9267, entre Grand Batanga et bac sur Lobé, 10 km S Kribi (fl., mars).
+Letouzey 9267, between Grand Batanga and ferry on Lobé, 10 km S Kribi (fl., Mar.).
 
 Zenker 1949, Bipindi (fr.).
 
-Aubréville 99, Libreville (stér.).
+Aubréville 99, Libreville (ster.).
 
-Duparquet 58, s.loc. (stér.).
+Duparquet 58, s.loc. (ster.).
 
 Griffon du Bellay 313, s.loc. (fl.).
 
-Hallé N. & Villiers J.-F. 5510, Cap Esterias près Libreville (v. fl., févr.).
+Hallé N. & Villiers J.-F. 5510, Cap Esterias near Libreville (v. fl., Feb.).
 
-Klaine 2036, près Libreville (fl., déc.).
+Klaine 2036, near Libreville (fl., Dec.).
 
-(L'échantillon gabonais Chevalier 26665, signalé par Chevalier, Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gab. : 203, tab. 18, appartient en réalité à A. chevalieri De Wild., cf. BJBB 7 : 213, 1920.)
+(The Gabonese specimen Chevalier 26665, reported by Chevalier, Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gab. : 203, tab. 18, actually belongs to A. chevalieri De Wild., cf. BJBB 7 : 213, 1920.)
 
 ## Specimens examined
 

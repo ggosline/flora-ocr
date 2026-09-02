@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with smooth or slightly striated branchlets, glabrous, with lenticels; base of petioles and petiolules constricted-contracted when dry; blade very thin, acuminate, with cuneate base.
 
-Arbuste à rameaux lisses ou peu striés, glabres, avec lenticelles; base des pétioles et pétiolules resserrés-étranglés sur le sec; limbe très mince, acuminé, à base cunée.
-
-Inflorescence à axe finement pubérulent (poils de 0,1 mm). PL. 8, 7-12, p. 45.
+Inflorescence with finely puberulent axis (hairs 0.1 mm). PL. 8, 7-12, p. 45.
 
 ## Type
 

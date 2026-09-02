@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree. Leaves imparipinnate, 11-jugate, glabrous. Rachis up to 60 cm long. Leaflets subsessile, opposite or subopposite, oblong, shortly acuminate, asymmetric and rounded at the base 8-15 cm long and c. 6 cm wide, coriaceous. 10-15 pairs of lateral veins prominent beneath. Veinlets weakly marked.
 
-Arbre. Feuilles imparipennées, 11-juguées, glabres. Rachis jusqu'à 60 cm de long. Folioles subsessiles, opposées ou subopposées oblongues, courtement acuminées, asymétriques et arrondies à la base de 8-15 cm de long et env. 6 cm de large, coriaces. 10-15 paires de nervures latérales proéminentes en dessous. Nervilles peu accusées.
-
-Panicules lâches, à ramifications pubérulentes. Bractées lancéolées, velues, d'env. 5 mm de long. Fleurs ♀ en fascicules espacés le long des ramifications. Pédicelles pubescents, d'env. 3 mm. Calice pubescent, un peu et irrégulièrement ondulé, d'env. 2 mm de haut. Corolle : (7) 8 pétales oblongs, velus sur les deux faces, valvaires et à bords rentrés dans le bouton. Étamines 12-13: aussi longues ou presque que les pétales; filets 6-6,5 mm long garnis à la base d'une languette velue. Petites anthères elliptiques, versatiles, de 0,6 mm de long. Disque velu portant un ovaire à 4 carpelles libres, velus. Style glabre, formé des 4 styles tordus et soudés. Stigmate à 4 pointes. Fruit inconnu.
+Lax panicles, with puberulent branches. Bracts lanceolate, pilose, c. 5 mm long. Female flowers in fascicles spaced along the branches. Pedicels pubescent, c. 3 mm. Calyx pubescent, somewhat and irregularly undulate, c. 2 mm tall. Corolla: (7) 8 oblong petals, pilose on both faces, valvate and with margins infolded in the bud. Stamens 12–13: as long or nearly as long as the petals; filaments 6–6.5 mm long furnished at the base with a pilose ligule. Small elliptic anthers, versatile, 0.6 mm long. Pilose disk bearing an ovary of 4 free, pilose carpels. Style glabrous, formed of the 4 twisted styles united. Stigma with 4 points. Fruit unknown.
 
 ## Type
 
@@ -33,9 +31,7 @@ Le Testu 6488, Péca, Haute-Ngounié (fl. avr.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que par son spécimen type. Le Testu a indiqué que les fleurs étaient très parfumées (odeur d'iris).
+This species is known only from its type specimen. Le Testu indicated that the flowers were very fragrant (iris-like scent).
 
 ## Figures
 

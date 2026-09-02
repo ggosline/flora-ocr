@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Holt., Kew Bull.: 625 (1939). — Tard., Mém. IFAN 28 : 101, pl. 16, f. 3 (1953). — Alston, FWTA : 67 (1959).
 
-Rhizome portant de larges écailles brun clair, échancrées à la base, formées de cellules à parois minces, brun clair, portant, sur les bords, quelques étroits prolongements. Pétiole des frondes stériles long de 15 cm, straminé-brunâtre, écailleux à la base. Limbe stérile atteignant 50 cm de long sur 20 de large. Environ 10 paires de pennes latérales espacées de 4 cm, obliques, subsessiles, les inférieures légèrement réduites, les moyennes longues de 14 cm sur 3-4 de large, à base arrondie, contractées en une extrémité subcaudée de 2,5 cm de long, à marges sinuées. Penne terminale semblable aux latérales. Rachis des pennes stériles ailé à la partie supérieure. Texture subcoriace. Nervures surélevées, faisant un angle de 60° avec le costa. Fronde fertile à rachis non écailleux, portant environ 10 paires de pennes, larges de 5-7 cm sur 0,7 de large, les inférieures pétiolées, les supérieures sessiles, à base arrondie, fertiles jusqu'au sommet.
+Rhizome bearing broad light brown scales, emarginate at the base, formed of cells with thin walls, light brown, bearing on the margins a few narrow prolongations. Petiole of sterile fronds 15 cm long, straw-brown, scaly at the base. Sterile lamina reaching 50 cm long by 20 cm wide. Approximately 10 pairs of lateral pinnae spaced 4 cm apart, oblique, subsessile, the lower ones slightly reduced, the median ones 14 cm long by 3–4 cm wide, rounded at the base, contracted into a subcaudateapex 2.5 cm long, with sinuate margins. Terminal pinna similar to the lateral ones. Rachis of sterile pinnae winged in the upper part. Texture subcoriaceous. Veins raised, making a 60° angle with the costa. Fertile frond with non-scaly rachis, bearing approximately 10 pairs of pinnae, 5–7 cm wide by 0.7 cm wide, the lower ones petiolate, the upper ones sessile, rounded at the base, fertile to the apex.
 
 ## Type
 
@@ -28,9 +26,7 @@ Ross 22, Nigeria (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Fernando-Po, Cameroun. Épiphyte, en rain forest.
+Nigeria, Fernando-Po, Cameroon. Epiphyte, in rain forest.
 
 ## Specimens examined
 

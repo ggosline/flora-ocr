@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-HUTCH. in HUTCH. & RENDLE, FTA, 6 (2) : 164 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 160 (1948); KEAY, FWTA, ed. 2, 1 : 608 (1958); AUBRÉV, FFCI, ed. 2, 1 : 86, tab. 17, fig. B (1959).
+HUTCH. in HUTCH. & RENDLE, FTA, 6 (2): 164 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 160 (1948); KEAY, FWTA, ed. 2, 1: 608 (1958); AUBRÉV, FFCI, ed. 2, 1: 86, tab. 17, fig. B (1959).
 
 - Urostigma ovatum (VAHL) MIQ., London Journ. Bot. 6: 553 (1847).
 
-- Ficus spectabilis KUNTH & BOUCHÉ, Ind. Sem. Hort. Berol.: 14 (1847); MILDBR. & BURRET, l.c.: 243 (1911). Pas d'échantillon-type à B.
+- Ficus spectabilis KUNTH & BOUCHÉ, Ind. Sem. Hort. Berol.: 14 (1847); MILDBR. & BURRET, l.c.: 243 (1911). No type specimen at B.
 
-- F. africana Kunth & Bouchê, l.c.: 14 (1847); Mildbr. & Burret, l.c.: 243 (1911). Pas d'échantillon-type à B.
+- F. africana Kunth & Bouchê, l.c.: 14 (1847); Mildbr. & Burret, l.c.: 243 (1911). No type specimen at B.
 
-- F. vohsenii WARB., Bot. Jahrb. 20 : 155 (1894) ; MILDBR. & BURRET, l.c. : 243 (1911). LECTOTYPE : Vohsen 57, Sierra Leone (concordant avec FTA 6 (2) : 165, Guinée) (B).
+- F. vohsenii WARB., Bot. Jahrb. 20: 155 (1894); MILDBR. & BURRET, l.c.: 243 (1911). LECTOTYPE: Vohsen 57, Sierra Leone (concordant with FTA 6 (2): 165, Guinea) (B).
 
 - F. buchneri WARB., l.c.: 157 (1894); MILDBR. & BURRET, l.c.: 243 (1911). LECTOTYPE: Buchner 672, Angola, Soba Bango (B).
 
-- F. pseudo-elastica HiERN, Cat. Afr. Pl. Welw. 4: 996 (1900); HUTCH., l.c.: 125 (1916).
+- F. pseudo-elastica HIERN, Cat. Afr. Pl. Welw. 4: 996 (1900); HUTCH., l.c.: 125 (1916).
 
 ## Type
 
@@ -41,37 +39,33 @@ Thonning 246, Ghana, entre « Christianborg » et « Frederikoberg » (type à C
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - F. tuberculosa HIERN var. elliptica HIERN, l.c.: 1000 (1900). TYPE: Welwitsch 6358, Angola, Pungo Andongo, Pedra Songue (holo-, BM).
 
-- F. octomelifolia WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 1 (1904). TYPE : Cabra s.n., Zaire, s.l. (holo-, BR).
+- F. octomelifolia WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 1 (1904). TYPE: Cabra s.n., Zaire, s.l. (holo-, BR).
 
-- F. ovata VAHL var. octomelifolia (WARB.) MILDBR. & BURRET, l.c. : 244 (1911) ; LEBRUN & BOUTIQUE, l.c. : 161 (1948).
+- F. ovata VAHL var. octomelifolia (WARB.) MILDBR. & BURRET, l.c.: 244 (1911); LEBRUN & BOUTIQUE, l.c.: 161 (1948).
 
-- F. megaphylla WARB., Ann. Mus. Congo, Bot., sér. 6, 1:1 (1904); HUTCH., l.c.: 164 (1916). SYNTYPES : Schweinfurth 3439, Zaire, Mombuttu ; s.n., Zaire, Kassumba (B).
+- F. megaphylla WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 1 (1904); HUTCH., l.c.: 164 (1916). SYNTYPES: Schweinfurth 3439, Zaire, Mombuttu; s.n., Zaire, Kassumba (B).
 
-- F. megaphylla WARB. var. glabra WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 2 (1904); HUTCH., l.c.: 164 (1916). TYPE: Schweinfurth 3259, Soudan, Niamniam, riv. Linduku (holo-, B).
+- F. megaphylla WARB. var. glabra WARB., Ann. Mus. Congo, Bot., sér. 6, 1: 2 (1904); HUTCH., l.c.: 164 (1916). TYPE: Schweinfurth 3259, Sudan, Niamniam, riv. Linduku (holo-, B).
 
 - F. johnstonii Stapf in Johnston, Liberia 2: 652, tab. 265 (1906); Hutch., l.c.: 164 (1916). TYPE: Johnston 23, Liberia, s.loc. (holo-, K).
 
-- F. sapinii DE WILD., Repert. Sp. Nov. 12 : 302 (1913) ; HUTCH., l.c. : 164 (1916). LECTO-TYPE : Sapin s.n., Zaire, Illongongo (BR).
+- F. sapinii DE WILD., Repert. Sp. Nov. 12: 302 (1913); HUTCH., l.c.: 164 (1916). LECTOTYPE: Sapin s.n., Zaire, Illongongo (BR).
 
-- F. asymetrica HUTCH., Kew Bull.: 336 (1915). TYPE : Gossweiler 122, Angola, Cabinda (holo-, K).
+- F. asymetrica HUTCH., Kew Bull.: 336 (1915). TYPE: Gossweiler 122, Angola, Cabinda (holo-, K).
 
 - F. brachypoda HUTCH., Kew Bull.: 339 (1915), non MIQ. (1847). TYPE: Dawe 290, Uganda, Buddu (holo-, K).
 
-Arbustes épiphytes (étrangleurs, parfois lianescents) ou terrestres ou arbres hauts jusqu'à 25 m. Rameaux feuillés épais de 6-12 mm, ± densément blancs ou jaunes très petitement pubérulents à pubescents ou (presque) glabres, noirâtre brun à rougeâtre brun sur le sec, lenticelles parfois visibles. Feuilles disposées en spirales. Limbe ové à elliptique ou à oblong, long de (5-) 9-31 cm, large de (3,5-) 6-20 cm, sommet acuminé, base cordée à tronquée à obtuse ou à subaiguë, bord entier ; face supérieure glabre ou éparsement pubérulente blanche à la base du limbe et plus densément sur la partie inférieure de la nervure médiane, face inférieure ± densément pubérulente brunâtre blanche à blanche à pubescente, parfois avec des poils plus longs, surtout sur les nervures principales, ou face inférieure glabre, nervures planes dessus, saillantes dessous ; 10-14 paires de nervures latérales, inclus 2-3 paires de nervures basales ; tache glandulaire visible. Pétiole long de 3-10 (-13) cm, épais de 2-4 mm, éparsement à densément (très petitement) pubérulent. Stipules libres, longues de 0,3-1 cm, glabres ou éparsement à densément, très petitement pubérulentes à pubescentes, caduques.
+Shrubs, epiphytic (stranglers, sometimes lianescent) or terrestrial, or trees up to 25 m tall. Leafy branches 6–12 mm thick, ± densely white or yellowish very minutely puberulent to pubescent or (almost) glabrous, dark brown to reddish brown when dry, lenticels sometimes visible. Leaves arranged in spirals. Blade ovate to elliptic or oblong, (5–) 9–31 cm long, (3.5–) 6–20 cm wide, apex acuminate, base cordate to truncate to obtuse or subacute, margin entire; upper surface glabrous or sparsely white puberulent at the base of the blade and more densely so on the lower part of the midvein, lower surface ± densely brownish white to white puberulent or pubescent, sometimes with longer hairs, especially on the main nerves, or lower surface glabrous, nerves flat above, prominent below; 10–14 pairs of lateral nerves, including 2–3 pairs of basal nerves; glandular spot visible. Petiole 3–10 (–13) cm long, 2–4 mm thick, sparsely to densely (very minutely) puberulent. Stipules free, 0.3–1 cm long, glabrous or sparsely to densely, very minutely puberulent to pubescent, caducous.
 
-Figues solitaires dans les aisselles des feuilles ou juste sous les feuilles, subsessiles à pédonculées ; pédoncule long jusqu'à 0,5 cm, épais de 4-6 mm, parfois discoïde, très petitement pubérulent ; bractées basales 2 souvent fendues, longues de 6 mm environ, ± densément pubérulentes jaunâtre-blanc à pubescentes blanches ; réceptacle ovoïde à ellipsoide à subglobuleux ou à obovoïde, long de 3-5 cm sur le frais, et de 1-4 cm sur le sec, d'un diamètre de 2,5-4,5 cm sur le frais et de 1-3 cm sur le sec, ± densément pubérulent jaunâtre blanc ou pubescent blanc, souvent verruculeux, vert pâle avec des points blanchâtres ou jaunâtres à maturité, ostiole saillant, bilabié.
+Figs solitary in the leaf axils or just below the leaves, subsessile to pedunculate; peduncle up to 0.5 cm long, 4–6 mm thick, sometimes discoid, very minutely puberulent; basal bracts 2, often split, ca. 6 mm long, ± densely yellowish-white puberulent to white pubescent; receptacle ovoid to ellipsoid to subglobose or obovoid, 3–5 cm long when fresh and 1–4 cm when dry, 2.5–4.5 cm in diameter when fresh and 1–3 cm when dry, ± densely yellowish-white puberulent or white pubescent, often verrucose, pale green with whitish or yellowish points at maturity, ostiole prominent, bilobed.
 
-Fleurs pistillées avec un périanthe haut de 3,5 mm environ, finement membraneux, le plus souvent trilobé (dans les fleurs à galles) ou bidenté (dans les fleurs à graines), occasionnellement à 2 stigmates ; fleurs à graines sessiles ou pédicellées jusqu'à 1 mm, style long de 2,5-4 mm ; fleurs à galles pédicellées de 1 à 4,5 mm, style long de 1 mm environ. Fruits ellipsoïdes à réniformes, longs de 1,5-2 mm ; fruits à
+Pistillate flowers with perianth ca. 3.5 mm high, finely membranous, mostly trilobed (in gall flowers) or bidentate (in seed flowers), occasionally with 2 stigmas; seed flowers sessile or pedicellate up to 1 mm, style 2.5–4 mm long; gall flowers pedicellate 1–4.5 mm, style ca. 1 mm long. Fruits ellipsoid to reniform, 1.5–2 mm long; gall fruits ca. 3–4 mm long, ± distinctly stipitate. Staminate flowers grouped near the ostiole and scattered over the receptacle, pedicel reaching 3 mm, perianth ca. 2 mm high, tridentate, filament ca. 0.5 mm long, anther ca. 1–1.2 mm long. Interfloral bracts 1–3 mm long. – Pl. 65, p. 219.
 
-galles longs de 3-4 mm environ, ± distinctement stipités. Fleurs stami-nées groupées près de l'ostiole et disséminées sur le réceptacle, à pédi-celle atteignant 3 mm, périant le haut de 2 mm environ, tridenté, filet long de 0,5 mm environ, anthère longue de 1-1,2 mm environ. Bractées interflorales longues de 1-3 mm. - Pl. 65, p. 219.
+Pollinators: Agaon hamiferum (KIEFFER) (Ethiopia, Nigeria, Senegal, Togo); Agaon hamiferum modestum WIEBES (East Africa).
 
-Pollinisateurs : Agaon hamiferum (KIEFFER) (Éthiopie, Nigeria, Sénégal, Togo) ; Agaon hamiferum modestum WIEBES (Afrique orientale).
-
-L'espèce s'étend du Sénégal à l'Éthiopie et vers le Sud à l'Angola et au Mozambique. Elle se rencontre dans les endroits ± ouverts comme les lisières forestières ou les bords de rivière, dans la forêt secondaire, aussi dans la savane arborée ; souvent plantée ; trouvée en altitude jusqu'à 1200 m.
+The species ranges from Senegal to Ethiopia and southward to Angola and Mozambique. It occurs in ± open places such as forest margins or river banks, in secondary forest, also in wooded savanna; often planted; found at altitudes up to 1200 m.
 
 ## Specimens examined
 

@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or tree 15 m tall (N. HALLÉ) with brown, glabrous branchlets, densely covered with lenticels; petiole velu-tomentellous (hairs 0.2 mm) in the upper groove ± channelled; blade attenuate at the base and acuminate.
 
-Arbuste? ou arbre de 15 m (N. HALLÉ) à rameaux bruns, glabres, criblés de lenticelles; pétiole velu-tomentelleux (poils de 0,2 mm) dans le méplat supérieur ± canaliculé; limbe atténué à la base et acuminé.
-
-Sépales latéraux pubérulents (0,05 mm), les médians glabres, nerviés. PL. 4, 1-6, p. 35.
+Lateral sepals puberulent (0.05 mm), the median ones glabrous, nerved. PL. 4, 1-6, p. 35.
 
 ## Type
 

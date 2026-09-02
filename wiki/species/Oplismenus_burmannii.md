@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herbs up to about fifty cm tall, base long-creeping, branched. Terminal branches short, often pubescent along a longitudinal line in the axil of the leaves. Sheaths ciliate at the nodes and on the margins, ligules short, truncate, leaf blades lanceolate, narrowed at the base, up to 5 × 1.2 cm, more or less densely covered with long white hairs.
 
-Herbes annuelles jusqu'à une cinquantaine de cm de haut, base longuement rampante, ramifiée. Branches terminales courtes, souvent pubescentes sur une ligne longitudinale dans l'axe des feuilles. Gaines ciliées aux nœudes et sur les bords, ligules courtes, tronquées, limbes lancéolés, rétrécis à la base, jusqu'à  $ 5 \times 1,2 $ cm, plus ou moins densément recouverts de longs poils blancs.
+Inflorescence as in the species above. Lower glume narrow, with 3 more or less distinct nerves, the upper one with 5 or 7 nerves, both bidentate at the apex, more or less pubescent, awns 2 to 10 mm long. Lower floret male, lemma awned, with 7 nerves, pubescent in its upper part; palea absent. Upper floret 2 mm long, brown at maturity, glumelles papyraceous, lemma with 7 nerves.
 
-Inflorescence comme dans l'espèce ci-dessus. Glume inférieure étroite, à 3 nervures plus ou moins distinctes, la supérieure à 5 ou 7 nervures, toutes deux bidentées au sommet, plus ou moins pubescentes, arêtes de 2 à 10 mm de long. Fleur inférieure mâle, lemma aristée, à 7 nervures, pubescente dans sa partie supérieure; paléa absente. Fleur supérieure de 2 mm de long, brune à maturité, glumelles papyracées, lemma à 7 nervures.
-
-Espèce pantropicale.
+Pantropical species.
 
 ## Specimens examined
 

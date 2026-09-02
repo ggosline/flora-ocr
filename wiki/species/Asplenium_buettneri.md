@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Hier. ex Brause, Deutsch. Zentr. Afr. Exp. 1907-8, 2 : 23 (1910). — Tard. Mém. IFAN 28 : 195. t. 38, f. 3-4 (1953). — Alston, FWTA : 59 (1959),
 
-Rhizome rampant, subascendant, à écailles deltoïdes, très effilées, présentant une sorte de pseudo-nervure formée de cellules à parois beaucoup plus épaisses au centre, cellules de bordure minces. Frondes subfasciculées. Pétiole ayant environ la même longueur que le limbe, gris, portant, surtout à la base, les mêmes écailles que le rhizome. Limbe de 20-30 cm de long sur 10 de large, ovale-oblong, bi-tripinnatisqué, à extrémité profondément lobée; pennes inférieures peu, ou à peine, décroissantes. Pennes latérales 9-11 paires, espacées d'environ 2 à 4 cm, opposées, faisant un angle de 90 avec le rachis, longues de 4-5 cm sur 2 à la base, courtemment pétiolées ou subsessiles, à extrémité peu effilée, profondément pinnatifides, divisées, à la base, en pinnules rhomboïdes-ovales, ou cunéiformes-tronquées, à bases égales, serrulées. Texture subcoriace, coloration verdâtre, rachis écailleux, étroitement ailé au sommet. Nervures flabellées, plusieurs fois furquées. Sores n'atteignant pas la base ni le sommet du segment.
+Rhizome creeping, subascendant, with deltoid scales, very attenuate, presenting a sort of pseudo-nerve formed of cells with much thicker walls at the center, border cells thin. Fronds subfasciculate. Petiole approximately the same length as the lamina, grey, bearing, especially at the base, the same scales as the rhizome. Lamina 20-30 cm long by 10 cm wide, ovate-oblong, bi-tripinnatisect, with deeply lobed apex; lower pinnae slightly, or scarcely, decreasing. Lateral pinnae 9-11 pairs, spaced approximately 2 to 4 cm apart, opposite, at a 90° angle to the rachis, 4-5 cm long by 2 at the base, shortly petiolate or subsessile, with slightly attenuate apex, deeply pinnatifid, divided at the base into rhomboid-ovate, or cuneiform-truncate pinnules, with equal bases, serrulate. Texture subcoriaceous, greenish coloration, rachis scaly, narrowly winged at the apex. Veins flabellate, furcate several times. Sori not reaching the base or apex of the segment.
 
 ## Type
 

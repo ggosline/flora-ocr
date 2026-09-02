@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Adansonia, sér. 2, 17(3) : 300 (1978). Plante à tige simple ou rarement bifide, de 20-40 cm de longueur. Feuilles régulièrement espacées de la base au sommet, déjetées d’un même côté de la tige, 1 à 2 fois dichotomes, 5–10 mm de longueur, à segments étroitement rubanés. Inflorescence à fleurs solitaires ou rarement groupées par 2 ; spathelles toutes situées du même côté de la tige, opposées à celui des feuilles, étroitement obovoïdes à étroitement obpyriformes, se déchirant à l’anthèse irré gulièrement au sommet en 4 ou 5 lobes. Fleur : pédicelle 9–10 mm après l’anthèse ; tépales filiformes, 1,2–1,3 mm ; étamines (2–)3, filets soudés sur plus de la moitié de leur longueur, anthère oblongue, 0,8–1 × 0,3–0,4 mm ; ovaire ellipsoïde, gynophore 1–1,5 mm de longueur ; stigmates subglobuleux , soudés à la base, ± 0,1 mm de longueur. Fruit 2–2,5 × 1-1,5 mm. Graine 0,15 x 0,08 mm.
+Adansonia, ser. 2, 17(3): 300 (1978). Plant with simple or rarely bifid stem, 20–40 cm in length. Leaves regularly spaced from base to apex, deflexed to one side of the stem, 1 to 2 times dichotomous, 5–10 mm in length, with narrowly ribbon-like segments. Inflorescence with solitary flowers or rarely grouped by 2; spatheoles all situated on the same side of the stem, opposite to that of the leaves, narrowly obovoid to narrowly obpyriform, tearing at anthesis irregularly at the apex into 4 or 5 lobes. Flower: pedicel 9–10 mm after anthesis; tepals filiform, 1.2–1.3 mm; stamens (2–)3, filaments fused for more than half their length, anther oblong, 0.8–1 × 0.3–0.4 mm; ovary ellipsoid, gynophore 1–1.5 mm in length; stigmas subglobose, fused at base, ± 0.1 mm in length. Fruit 2–2.5 × 1–1.5 mm. Seed 0.15 × 0.08 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, rare et seulement connu de l’Ogooué (Ogooué-Ivindo). B : Cusset (1978), Sosef et al. (2006). i B liographie
+endemic to Gabon, rare and known only from the Ogooué (Ogooué-Ivindo). B: Cusset (1978), Sosef et al. (2006). Bibliography
 
 ## Notes
 

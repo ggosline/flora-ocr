@@ -22,23 +22,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+ref. orig. — Schott et Endl. MELETEM. Bot.: 33 (1832). — A. CHEV. Vég. Ut. VI: 129 (1911). — ENGL. Planzenw. Afr. III, II, : 465 (1921). — F.W.T.A. 2nd ed. I : 329 (1958). — AUBR. F.F.C.I. 2nd ed. II : 282 (1959).
 
-réf. orig. — Schott et Endl. MELETEM. Bot.: 33 (1832). — A. CHEV. Vég. Ut. VI: 129 (1911). — ENGL. Planzenw. Afr. III, II, : 465 (1921). — F.W.T.A. 2e éd. I : 329 (1958). — AUBR. F.F.C.I. 2e éd. II : 282 (1959).
+Small tree 10 to 20 m in height, with trunk 20 to 50 cm in diameter. Leaves alternate, narrowly obovate or elliptic, glabrous, unequally petiolate on the same branch. Petiole 1 to 12 cm long. Leaf base more or less acute or attenuate; apex acuminate. The coriaceous limb measures 10–25 cm long by 4–9 cm wide. 5–8 pairs of lateral nerves, the first originating at the base of the limb and following the margin at a distance of 2–4 mm approx.
 
-Petit arbre de 10 à 20 m de hauteur, à tronc de 20 à 50 cm de diamètre. Feuilles alternes étroitement obovées ou elliptiques,
+Inflorescences protected before bud break by suborbicular convex apiculate scales; small panicles of cymes reaching 3–7 cm long with puberulence formed of stellate hairs. Pedicels 6–15 mm long. Buds more or less spherical.
 
-glabres, inégalement pétiolées sur un même rameau. Pétiole de 1 à 12 cm de long. Base du limbe plus ou moins aiguë ou atténuée; sommet acuminé. Le limbe coriace mesure 10-25 cm de long sur 4-9 cm de large. 5-8 paires de nervures latérales, la première prend naissance à la base du limbe et suit la marge à une distance de 2-4 mm env.
+Flower articulate almost at the apex of the pedicel, white, pink or yellowish, more or less striped with dark purple towards the middle. Calyx variable 15 to 30 mm in diameter, covered externally with stellate hairs, shortly campanulate, with 5 acute lobes approximately twice as long as broad. Flower ♂ with very short staminal column topped by two superposed crowns of 10 pollen sacs. Flower ♀ with hirsute ovary 5–6 carpellate overtopping a double crown formed by very small and divided anthers. Stigmas radiating, long and decumbent.
 
-Inforcènces protégées avant le débourrement par des écailles suborbiculaires convexes apiculées; petites grappes de cymes atteignant 3-7 cm de long à pubérulence formée de poils étoilés. Pédicelles de 6-15 mm de long. Boutons plus ou moins sphériques.
+Fruits composed of 1–6 radiating follicles, puberulent, brownish or greenish, 8–20 cm long by 2.5–5 cm wide, bosselated, more or less attenuate apically, indehiscent, containing up to 1/4 seeds typically provided with more than 2 cotyledons (3 to 6).
 
-Fleur articulée presque au sommet du pédicelle, blanche, rose ou jaunâtre, plus ou moins striée de pourpre foncé vers le milieu. Calice variable de 15 à 30 mm diamètre, couvert extérieurement de poils étoilés, courtement campanulé, à 5 lobes aigus deux fois plus longs que larges environ. Fleur ♂ à colonne staminale très courte surmontée de deux couronnes superposées de 10 loges polliniques. Fleur ♀ à ovaire hirsute 5-6 carpellé surmontant une double couronne formée par des anthères très petites et divisées. Stigmates rayonnants, longs et décombants.
+Type of the species: Herb. Delessert, Geneva.
 
-Fruits composés de 1-6 follicules rayonnants, pubérulents, brunâtres ou verdâtres, de 8-20 cm de long sur 2,5-5 cm de large, bosselés, plus ou moins atténués apicalement, indéhiscents, contenant jusqu'à 1/4 graines typiquement pourvues de plus de 2 cotylédons (3 à 6).
-
-Type de l'espèce : Herb. Delessert, Genève.
-
-Cette espèce ne peut être distinguée avec certitude du Cola nitida que par ses graines à cotylédons multiples. Très répandue au Gabon, elle fréquente les forêts secondaires sempervirentes. Elle a une large répartition de la Guinée ex-Française à l'Angola. Les arbres sont respectés et souvent même plantés.
+This species cannot be distinguished with certainty from Cola nitida except by its seeds with multiple cotyledons. Very widespread in Gabon, it frequents evergreen secondary forests. It has a wide distribution from former French Guinea to Angola. The trees are respected and often even planted.
 
 ## Vernacular names
 
@@ -48,9 +44,7 @@ Abel, Cola (Fang); Ombéné (env. de Libreville); Monalé (Bapounou)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. Les graines du  $ C.\ acuminata $ sont consommées et commercialisées comme celles du Colatier, mais elles sont moins estimées.
+Uses. The seeds of $ C.\ acuminata $ are consumed and commercialized as those of the Cola tree, but they are less esteemed.
 
 ## Figures
 

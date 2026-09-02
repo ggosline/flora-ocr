@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in ENGL., PWA 3 (2): 588 (1921); BAMPS, FCBR, Spermat., Flacourt. 1: 54 (1968); SLEUMER, EBJ 92: 73 (1972). TYPES: Zenker 1543, Cameroon (lecto-, isolecto-); Zenker 2219 et 3379, Cameroon (syn-).
 
-in ENGL., PWA 3 (2) : 588 (1921) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 54 (1968) ; SLEUMER, EBJ 92 : 73 (1972). TYPES : Zenker 1543, Cameroun (lecto-, isolecto-); Zenker 2219 et 3379, Cameroun (syn-).
-
-– D. afzelii GILG, EBJ 40 : 507 (1908). TYPE : Afzelius a. 1792-96, Sierra Leone (holo-, B ; iso-, BM, UPS).
+– D. afzelii GILG, EBJ 40: 507 (1908). TYPE: Afzelius a. 1792-96, Sierra Leone (holo-, B; iso-, BM, UPS).
 
 – D. tenuispina GILG, in MILDBR., Wiss. Ergebn. Zweite Deutsche Zentral-Africa Exped.
 
@@ -33,31 +31,25 @@ Zenker 1543, Cameroun (lecto-, B, delet., cf. SLEUMER 1972 ; P!, choisi ici ; is
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+– D. giorgii DE WILD., BJBB 4: 408 (1914). TYPES: De Giorgi 954, Zaïre (lecto-, cf. SLEUMER 1972, BR); Lemaire 252 et Reygaert 1402, Zaïre (syn-, BR).
 
-– D. giorgii DE WILD., BJBB 4 : 408 (1914). TYPES : De Giorgi 954, Zaïre (lecto-, cf. SLEUMER 1972, BR) ; Lemaire 252 et Reygaert 1402 , Zaïre (syn-, BR).
+– D. zenkeri var. vestita TISSER. & SILLANS, Bull. Soc. Bot. Fr. 99: 285 (1952). TYPE: Tisserant 2362, RCA (holo-, iso-, P!).
 
-– D. zenkeri var. vestita TISSER. & SILLANS, Bull. Soc. Bot. Fr. 99 : 285 (1952). TYPE : Tisserant 2362, RCA (holo-, iso-, P!).
+Shrub (2–6–(8) m tall), dioecious, exceptionally monoecious, spiny. Branchlets brownish or greyish-brown, lenticellate, pubescent when young.
 
-Arbuste (2-6-(8) m de haut), dioïque, exceptionnellement monoïque, épineux. Rameaux brunâtres ou brun grisâtre, lenticellés, pubescents à l'état jeune.
+Leaves with petiole 0.5–1 cm long, pubescent; blade ovate to obovate, rounded to obtuse or cuneate at base, acuminate at apex, 5–15 × 2–6 cm, pubescent; secondary veins 3–5 pairs.
 
-Feuilles à pétiole de 0,5-1 cm de long, pubescent ; limbe ovale à obovale, arrondi à obtus ou cunéé à la base, acuminé au sommet, 5-15 × 2-6 cm, pubescent ; nervures secondaires 3-5 paires.
+Male flowers 3–6-fasciculate; pedicel 3–5 mm long, pubescent; sepals 5–7, ovate-acuminate, 3–4 × 1.5 mm, ± membranous, tomentose on both faces; stamens numerous (40–50), filaments 3–4 mm long, glabrous; anther 1 mm long, glabrous; receptacle glands scattered between the stamens, ciliate at apex. Female flowers solitary; pedicel 5 mm long, pubescent; sepals 7–12, narrowly ovate-acuminate, 4–6 × 1.5–2.5 mm, tomentose on both faces; receptacle surrounded by a ring of ciliate glands; ovary imperfectly 15–20-locular, tomentose, with 15–20 polyovulate placentae; styles 20–40, pubescent; stigmas 2–3-lobed. Hermaphrodite flowers similar to male flowers, but bearing numerous stamens (30–40) and 5–6 styles; receptacle glands, ciliate, scattered between the stamens and in a ring around the ovary.
 
-Fleurs ♂ 3-6-fasciculées ; pédicelle de 3-5 mm de long, pubescent ; sépales 5-7, ovales-acuminés, 3-4 × 1,5 mm, ± membraneux, tomentaux sur les 2 faces ; étamines nombreuses (40-50), à filet long de 3-4 mm, glabre ; anthère de 1 mm de long, glabre ; glandes du réceptacle éparses entre les étamines, ciliées au sommet. Fleurs ♀ solitaires ; pédicelle de 5 mm de long, pubescent ; sépales 7-12, étroitement ovales-acuminés, 4-6 × 1,5-2,5 mm, tomentaux sur les 2 faces ; réceptacle entouré d'un anneau de glandes ciliées ; ovaire imparfaitement 15-20-loculaire, tomentaux, à 15-20 placentas pluriovulés ; styles 20-40, pubescents ; stigmates 2-3-lobés. Fleurs ♀ semblables aux fleurs ♂, mais ayant de nombreuses étamines (30-40) et 5-6 styles ; glandes du réceptacle, ciliées, éparses entre les étamines, et en anneau autour de l'ovaire.
-
-Fruits : Baies subglobuleuses, de 2-4 cm de diamètre à l'état sec, éparsement ciliées ; graines nombreuses (10-12), ovoïdes, aplaties et pubescentes. - Pl. 2, p. 11.
+Fruits: Subglobose berries, 2–4 cm in diameter when dry, sparsely ciliate; seeds numerous (10–12), ovoid, flattened and pubescent. - Pl. 2, p. 11.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée Bissau, Guinée, Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Gabon, RCA, Congo, Zaïre
+Guinea-Bissau, Guinea, Sierra Leone, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, RCA, Congo, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses, forêts secondaires, galeries forestières, savanes
+Dense forests, secondary forests, forest galleries, savannas
 
 ## Specimens examined
 

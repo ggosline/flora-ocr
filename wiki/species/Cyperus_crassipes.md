@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Robust perennial herb with an erect rhizome producing numerous fine horizontal stolons covered with scales and terminated by solitary stems; stems 2–70 cm × 2–5 mm, trigonous to almost cylindrical, glabrous, very leafy in their lower part. Leaf: leaf sheath green to light reddish-brown, all with a well-developed blade (except the 2–3 lowermost); blade 10–80 cm × 3–10 mm, plane or folded, rigid, scabrous on the margin, at least the young leaves. Inflorescence in a large spherical head or in a more open anthela, 4–8 cm wide, composed of several sessile or subsessile digitate fascicles, or more rarely of 3–12 fascicles on rays 5–25 mm long, rarely with only one sessile digitate fascicle of spikelets, each fascicle with 6–15 spikelets; involucral bracts 3–8, foliaceous, spreading or reflexed, the largest 10–40 cm × 4–8 mm, much longer than the inflorescence. Spikelet linear–lanceolate, 10–25 × 3–5 mm, light brown to almost whitish, little compressed, with 10–25 flowers; glumes almost ovate, 5–8 mm long, very concave, light reddish-brown with a paler margin and 20–25 fine nerves, with the central nerve thickened at the top and terminating at or slightly exceeding the apex. Flower with 3 stamens; style with 3 long branches. Achene obovate, 1.8–3 × 1–1.4 mm, dark brown, with finely papillose surface.
 
-Herbe robuste, vivace, avec un rhizome dressé produisant de nombreux et fins stolons horizontaux couverts d’écailles et terminés par des tiges solitaires ; tiges de 2‒70 cm × 2‒5 mm, trigones à presque cylindriques, glabres, très feuillées dans leur partie basse. Feuille : gaine foliaire verte à brun rougeâtre clair, toutes avec un limbe bien développé (sauf les 2‒3 plus basses) ; limbe de 10‒80 cm × 3‒10 mm , plans ou pliés, rigides, scabres sur la marge, au moins les jeunes feuilles. Inflorescence en grosse tête sphérique ou en anthèle plus ouverte, large de 4‒8 cm , composée de plusieurs fascicules sessiles ou subsessiles digités, ou plus rarement de 3‒12 fascicules sur des rayons longs de 5‒25 mm, rarement avec seulement un fascicule digité sessile d’épillets, chaque fascicule avec 6‒15 épillets ; bractées involucrales 3‒8, foliacées, étalées ou réfléchies, la plus grande de 10‒40 cm × 4‒8 mm, beaucoup plus longues que l’inflorescence. Épillet linéaire–lancéolé, de 10‒25 × 3‒5 mm , brun clair à presque blanchâtre, peu comprimé, à 10‒25 fleurs ; glumes presque ovales, longues de 5‒8 mm , très concaves, brun rougeâtre clair avec une marge plus pâle et 20‒25 fines nervures, à nervure centrale épaissie en haut et se terminant au sommet ou le dépassant légèrement. Fleur à 3 étamines ; style à 3 longues branches. Akène obovales, de 1,8‒3 × 1‒1,4 mm , brun foncé, à surface finement papilleuse.
-
-Coupe transversale du limbe. – C. Fascicule Base du limbe. – D. Base d’un pédoncule montrant d’épillets digités. – D. Épillet. – E. Glume. – F. le prophylle. – E. Épillet. – F. Glume sous-tendant Fleur. Dessin original par Richard W. Haines ©. un fruit. – G. Fleur. – H. Fruit et style. Dessin original par Richard W. Haines ©.
+Transverse section of the blade. – C. Fascicle Base of the blade. – D. Base of a peduncle showing digitate spikelets. – D. Spikelet. – E. Glume. – F. the prophyll. – E. Spikelet. – F. Glume subtending a fruit. – G. Flower. – H. Fruit and style. Original drawing by Richard W. Haines ©.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue le long des côtes de l’Afrique tropicale ; au Gabon, commune en arrière des plages et dans les dunes côtières, trouvée dans l’Estuaire, la Nyanga et l’Ogooué-Maritime
+widely distributed along the coasts of tropical Africa; in Gabon, common behind beaches and in coastal dunes, found in the Estuary, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les habitats pauvres en substances nutritives tels que les dunes de sable, l’arrière des plages et les zones herbeuses sur sable près de l’océan
+in habitats poor in nutrients such as sand dunes, behind beaches and grassy areas on sand near the ocean
 
 ## Vernacular names
 

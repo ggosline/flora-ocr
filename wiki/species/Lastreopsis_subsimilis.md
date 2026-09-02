@@ -21,13 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Tindale, Contrib. N.S. Wales Herb. 3 : 245 (1963).
 
-Très gros rhizome rampant, à frondes en touffes, portant des écailles brunes, étroites, très effilées, à bords entiers, cellules à parois minces. Pétiole long de 30-40 cm, straminé, canaliculé, portant, dans le sillon seulement, de courts poils bruns, nu par ailleurs. Limbe à contour deltoïde-lancéolé, bipinnatifide, tripinnatifide à la base, à extrémité pinnatifide, peu effilée, long de 40 cm sur
-
-autant de large. Pennes régulièrement croissantes, toutes pétiolées, alternes ou opposées, chaque pinnule effilée, à segment inférieur plus développé. Pennes supérieures peu effilées, simplement lobées, décurrentes. Pennes moyennes lobées sur environ la moitié de leur largeur, à lobes arrondis, entiers. Penne inférieure très longuement pétiolée, à pinnules lobées; première pinnule inférieure divisée, jusqu'au costa, en lobes arrondis, légèrement dentés. Rachis et surface nus. Costae à poils courts à la face supérieure, glabres à la face inférieure. Pas de glandes. Texture subcoriace, face supérieure beaucoup plus foncée. Nervures bi ou quadrifurquées. Sores allongés, oblongs, exindusés.
+Very large creeping rhizome, with fronds in tufts, bearing brown, narrow scales, very attenuate, with entire margins, cells with thin walls. Petiole 30–40 cm long, stramineous, channelled, bearing, in the groove only, short brown hairs, glabrous otherwise. Frond outline deltoid-lanceolate, bipinnatifid, tripinnatifid at the base, with pinnatifid apex, scarcely attenuate, 40 cm long by as much wide. Pinnae regularly increasing, all petiolate, alternate or opposite, each pinnule attenuate, with lower segment more developed. Upper pinnae scarcely attenuate, simply lobed, decurrent. Middle pinnae lobed about half their width, with rounded, entire lobes. Lower pinna very long-petiolate, with lobed pinnules; first lower pinnule divided to the costa, into rounded, slightly dentate lobes. Rachis and surface glabrous. Costae with short hairs on the upper surface, glabrous on the lower surface. No glands. Texture subcoriaceous, upper surface much darker. Venation bi- or quadrifurcate. Sori elongate, oblong, exindusiate.
 
 ## Type
 
@@ -35,9 +31,7 @@ Fernando-Po, Mann 125 (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte-d'Ivoire, Dahomey, Nigeria, Fernando-Po.
+Ivory Coast, Dahomey, Nigeria, Fernando Po.
 
 ## Specimens examined
 

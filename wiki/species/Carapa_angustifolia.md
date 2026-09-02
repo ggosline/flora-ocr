@@ -16,23 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Engler & Drude, Veg. Erde , 9, Pflanzenw. Afr. 3(1) : 810 (1915). Arbre atteignant 35 m de hauteur ; tronc jusqu’à 50 cm de diamètre ; tranche rose, sans exsudat, à faible odeur caractéristique de cèdre. Feuille paripennée ; pétiole 12–24 cm, épais et aplati, glabre ; rachis 40–75 cm ; pétiolule à base épaissie, 10–15 mm ; folioles 15–25 paires , opposées à alternes, étroitement obovales, (10–)16–23 × (2–)2,5– 4,5(–5,5) cm , étroitement cunéiformes à la base, à sommet acuminé ou cuspidé, coriace, glabre sur les deux faces ; nervure primaire proéminente dessous, nervures secondaires 9–12 paires, peu saillantes. Inflorescence lâche, subglabre. Fleur : pédicelle atteignant 5
-
-mm, glabre ; calice à 5 lobes suborbiculaires, 1–1,5 mm de longueur, glabres ; pétales 5, largement obovales ou rectangulaires, 5–7 × 4–6 mm, de couleur inconnue ; tube staminal urcéolé-cylindrique, 4,5–6 mm de longueur, à bord 10-denté, -lobé ou crénelé, à 10(– 14) anthères (anthérodes) sessiles ou subsessiles et incluses ; disque annulaire, soudé à la base de l’ovaire ; ovaire largement ovoïde, 1,5–2,5 mm de diamètre dans les fleurs fonctionnellement femelles, plus étroit dans les mâles, 5-loculaire à 4(?) ovules par loge ; style 0,5–1,5 mm, stigmate 2 mm de diamètre. Fruit subglobuleux, atteignant 10 cm de diamètre. Graine réniforme, 4,5–5 × 2,5–3 cm ; testa épais, ligneux, brun foncé.
+in Engler & Drude, Veg. Erde, 9, Pflanzenw. Afr. 3(1): 810 (1915). Tree reaching 35 m in height; trunk up to 50 cm in diameter; cross-section pink, without exudate, with faint characteristic cedar odor. Leaf paripinnate; petiole 12–24 cm, thick and flattened, glabrous; rachis 40–75 cm; petiolule with thickened base, 10–15 mm; leaflets 15–25 pairs, opposite to alternate, narrowly obovate, (10–)16–23 × (2–)2.5–4.5(–5.5) cm, narrowly cuneate at the base, with acuminate or cuspidate apex, coriaceous, glabrous on both surfaces; primary vein prominent beneath, secondary veins 9–12 pairs, slightly raised. Inflorescence lax, subglabrous. Flower: pedicel reaching 5 mm, glabrous; calyx with 5 suborbicular lobes, 1–1.5 mm in length, glabrous; petals 5, broadly obovate or rectangular, 5–7 × 4–6 mm, color unknown; staminal tube urceolate-cylindrical, 4.5–6 mm in length, with margin 10-dentate, -lobed or crenulate, with 10(–14) anthers (antheriodes) sessile or subsessile and included; annular disc, fused to the base of the ovary; ovary broadly ovoid, 1.5–2.5 mm in diameter in functionally female flowers, narrower in males, 5-locular with 4(?) ovules per locule; style 0.5–1.5 mm, stigma 2 mm in diameter. Fruit subglobose, reaching 10 cm in diameter. Seed reniform, 4.5–5 × 2.5–3 cm; testa thick, ligneous, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée Équatoriale et Gabon ; au Gabon, connue de l’Estuaire, de l’Ogooué-Maritime et du Woleu-Ntem
+Cameroon, Equatorial Guinea and Gabon; in Gabon, known from Estuaire, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt humide sempervirente ; au Gabon, jusqu’à 500 m d’altitude, ailleurs jusqu’à 1500 m et non limité aux zones montagneuses
+humid evergreen forest; in Gabon, up to 500 m in altitude, elsewhere up to 1500 m and not limited to mountainous zones
 
 ## Vernacular names
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ges. ) 73 : 212 (1963). Gomphia mildbraedii (Gilg) Lye, Lidia 4(3) : 92 (1998). Arbuste ou petit arbre jusqu’à 8 m de hauteur ; tronc jusqu’à 10 cm de diamètre. Stipules triangulaires, souvent divisées au sommet, 3–10 mm de longueur. Feuille : pétiole 3–8 mm, ridé transversalement ; limbe étroitement elliptique à obovale ou largement elliptique-obovale, (4,5–)5,5–23(–26) × 2–7(–9) cm, cunéé à la base, sommet obtus à caudé avec un acumen jusqu’à 25(–40) mm de longueur, papyracé à coriace ; nervures secondaires en 15 à 20 paires, saillantes sur les deux faces, nervures tertiaires distinctes. Fleur : pédicelle articulé à la base, 6–12 mm, épaissi et allongé jusqu’à 15 mm en fruit ; sépales elliptiques, 6–7 × 2–3 mm ; pétales elliptiques mais s’allongeant à maturité, 6 × 3 à 11 × 2 mm ; étamines : filet ± 1 mm, anthère linéaire, 4–5 mm ; ovaire ± 1 mm de hauteur ; style 4–7 mm, jusqu’à 9 mm en fruit. Fruit : sépales étalés, jusqu’à 25 × 11 mm, roses à pourpres ou rougeâtres ; réceptacle blanchâtre à rose ou rougeâtre ; drupéoles 13–14 × 7–8 mm, brillantes.
+Ges. ) 73 : 212 (1963). Gomphia mildbraedii (Gilg) Lye, Lidia 4(3) : 92 (1998). Shrub or small tree up to 8 m tall; trunk up to 10 cm in diameter. Stipules triangular, often divided at apex, 3–10 mm long. Leaf: petiole 3–8 mm, transversely wrinkled; blade narrowly elliptic to obovate or broadly elliptic-obovate, (4.5–)5.5–23(–26) × 2–7(–9) cm, cuneate at base, apex obtuse to caudate with an acumen up to 25(–40) mm long, papyraceous to coriaceous; secondary nerves in 15 to 20 pairs, prominent on both surfaces, tertiary nerves distinct. Flower: pedicel articulate at base, 6–12 mm, thickened and elongated to 15 mm in fruit; sepals elliptic, 6–7 × 2–3 mm; petals elliptic but elongating at maturity, 6 × 3 to 11 × 2 mm; stamens: filament ± 1 mm, anther linear, 4–5 mm; ovary ± 1 mm tall; style 4–7 mm, up to 9 mm in fruit. Fruit: sepals spreading, up to 25 × 11 mm, pink to purple or reddish; receptacle whitish to pink or reddish; drupels 13–14 × 7–8 mm, shiny.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côte d’Ivoire, sud-ouest du Ghana, Cameroun, Guinée équatoriale (Rio Muni), Sao Tomé-et-Principe, Gabon, République du Congo, République démocratique du Congo et Ouganda ; au Gabon, rare et observée dans l’Estuaire, le Moyen-Ogooué et l’Ogooué-Ivindo
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, south-western Ghana, Cameroon, Equatorial Guinea (Rio Muni), São Tomé and Príncipe, Gabon, Republic of the Congo, Democratic Republic of the Congo and Uganda; in Gabon, rare and recorded from the Estuaire, Moyen-Ogooué and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, sur terre ferme dans des endroits régulièrement inondés, rives, sur sol argileux, sableux ou rocheux ; au Gabon, à 50–300 m d’altitude, ailleurs jusqu’à 800 m. b : Bamps & Farron (1967), Farron (1963, 1985), Sosef (2013), Verdcourt ibliographie (2005)
+primary and secondary forest, on terra firme in regularly flooded areas, riverbanks, on clay, sandy or rocky soil; in Gabon, at 50–300 m altitude, elsewhere up to 800 m. b : Bamps & Farron (1967), Farron (1963, 1985), Sosef (2013), Verdcourt bibliography (2005)
 
 ## Notes
 

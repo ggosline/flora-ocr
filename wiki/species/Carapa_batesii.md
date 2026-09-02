@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. zemagoana Kenfack, Harvard Pap. Bot. 16 (2) : 206 (2011). Arbuste , peu ramifié , 2,5–8(–12) m de hauteur . Feuille paripennée ; pétiole (19–)25–30 cm, étroit, glabre ; rachis 12–32 cm, étroit, glabre ; pétiolule 8–15(–20) mm ; folioles (2–)3–4 paires, opposées, étroitement obovales ou obovale à ovales, (13–)18–33 × 6,5–11 cm, à base étroitement cunéiforme ou plus rarement obtuse, à sommet aigu, acuminé ou souvent cuspidé, les formes différentes parfois présentes sur la même feuille, glabres sur les deux faces, discolores, brun olivâtre dessus, bronze dessous ; nervures latérales 6–12 paires, proéminentes sur les deux faces. Inflorescence terminale, en forme de panicules racémiformes ( peu et courtement ramifiées ) de 5–20 cm de longueur : bractées et brac téoles persistantes, glabres. Fleur : pédicelle pelliculeux, 2–4(–5) mm ; calice profon dément 5-partite, lobes largement ovales, 1 × 1,3 mm, arrondis, glabres, mais à marges finement ciliées ; pétales 5, elliptiques à obovales, 3–5(–6) × 2–3,5(–4) mm, cucullés, blanchâtres, glabres ; tube staminal urcéolé à subcylindrique, 2,5–4 mm de longueur, glabre, 10-denticulé ou -lobé au sommet, à 10 anthères elliptiques et subsessiles ; disque cupuliforme, 1 mm de hauteur, charnu, à bord ridé ; ovaire ovoïde, 1–1,5 mm de diamètre, glabre, (4–)5-loculaire, à 2 ovules par loge ; style 0,8–1 mm, stigmate 1–1,5 mm de diamètre. Fruit subglobuleux, atteignant au moins 7 cm de diamètre, brunâtre, rugueuse, bossu. Graine inconnue.
+C. zemagoana Kenfack, Harvard Pap. Bot. 16 (2): 206 (2011). Shrub, sparsely branched, 2.5–8(–12) m tall. Leaf paripinnate; petiole (19–)25–30 cm, narrow, glabrous; rachis 12–32 cm, narrow, glabrous; petiolule 8–15(–20) mm; leaflets (2–)3–4 pairs, opposite, narrowly obovate or obovate to ovate, (13–)18–33 × 6.5–11 cm, base narrowly cuneate or more rarely obtuse, apex acute, acuminate or often cuspidate, different forms sometimes present on the same leaf, glabrous on both surfaces, discolorous, olive-brown above, bronze below; lateral veins 6–12 pairs, prominent on both surfaces. Inflorescence terminal, racemiform panicles (sparsely and shortly branched) of 5–20 cm length: bracts and bracteoles persistent, glabrous. Flower: pedicel pelliculose, 2–4(–5) mm; calyx deeply 5-partite, lobes broadly ovate, 1 × 1.3 mm, rounded, glabrous, but with finely ciliate margins; petals 5, elliptic to obovate, 3–5(–6) × 2–3.5(–4) mm, cucullate, whitish, glabrous; staminal tube urceolate to subcylindric, 2.5–4 mm long, glabrous, 10-denticulate or -lobed at apex, with 10 elliptic and subsessile anthers; disc cupuliform, 1 mm tall, fleshy, with wrinkled margin; ovary ovoid, 1–1.5 mm in diameter, glabrous, (4–)5-locular, with 2 ovules per locule; style 0.8–1 mm, stigma 1–1.5 mm in diameter. Fruit subglobose, reaching at least 7 cm in diameter, brownish, rugose, bosselated. Seed unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun (rare) et Gabon ; au Gabon, connue de l’Estuaire et du HautOgooué
+Cameroon (rare) and Gabon; in Gabon, known from Estuaire and Haut-Ogooué
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts ombrophiles et galeries forestières ; à basse altitude, au Gabon, jusqu’à 410 m. Usage : Les feuilles sont utilisées pour l’emballage
+understory of ombrophilous forests and forest galleries; at low altitude, in Gabon, up to 410 m. Uses: The leaves are used for wrapping
 
 ## Vernacular names
 

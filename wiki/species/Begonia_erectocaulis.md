@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 30(–50) cm de hauteur. Feuilles non peltées ; pétiole de 5–13(–20) cm, hirsute ; limbe ± érigé sur le frais , non-bullé, asymétrique, étroitement elliptique-ovale à étroitement elliptique-obovale ou parfois elliptique-ovale à elliptique-obovale, 12–24 × 4–10 cm, base arrondie à cunéiforme sur une côté, profondément cordée sur l’autre, sommet graduellement atténué ou parfois faiblement acuminé, marge entière à éparsement serrulée ou avec quelques dents grossières, face supérieure glabre ou avec quelques poils longs, face inférieure courtement pileuse . Inflorescence : pédoncule 0,5–2,5 cm, avec 4–6(–9) fleurs ♂ et 1(–2) fleurs ♀ à tépales jaunes ; bractées 2,5–7 mm de longueur. Fleur ♂ : tépales 6–13 × 6–12 mm ; androcée à 19–26 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 6(–10) mm ; tépales 7–11,5 × 7–13 mm ; ovaire (ailes incluses) obtriangulaire-obovoïde déprimé, 3,5–9 × 6,5–14 mm, éparsement muni de poils longs, à 3–4 ailes très largement obtriangulaires à obtriangulaires-elliptiques très déprimées, 1,5–3,5 mm de largeur ; styles 3–4. Fruit comme l’ovaire, mais (3,5–)5,5–10,5 × (6,5–) 11–20 mm ; rostre jusqu’à 1,5 mm.
+Plant reaching 30(–50) cm in height. Leaves not peltate; petiole 5–13(–20) cm, hirsute; lamina ± erect when fresh, non-bullate, asymmetric, narrowly elliptic-ovate to narrowly elliptic-obovate or sometimes elliptic-ovate to elliptic-obovate, 12–24 × 4–10 cm, base rounded to cuneate on one side, deeply cordate on the other, apex gradually attenuate or sometimes weakly acuminate, margin entire to sparsely serrulate or with a few coarse teeth, upper surface glabrous or with a few long hairs, lower surface shortly pilose. Inflorescence: peduncle 0.5–2.5 cm, with 4–6(–9) male flowers and 1(–2) female flowers with yellow tepals; bracts 2.5–7 mm in length. Male flower: tepals 6–13 × 6–12 mm; androecium with 19–26 stamens. Female flower: pedicel elongating in fruit to 6(–10) mm; tepals 7–11.5 × 7–13 mm; ovary (wings included) obtriangular-obovoid depressed, 3.5–9 × 6.5–14 mm, sparsely provided with long hairs, with 3–4 very broadly obtriangular to obtriangular-elliptic very depressed wings, 1.5–3.5 mm in width; styles 3–4. Fruit as the ovary, but (3.5–)5.5–10.5 × (6.5–)11–20 mm; rostrum to 1.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+endemic to the Cristal Mountains, in northwestern Gabon; original stations reduced; rare species
 
-endémique dans les Monts de Cristal, au nord-ouest du Gabon ; stations originales réduites ; espèce rare
+Arends, Louis & de Wilde 700). Drawing by I Z, National Herbarium of the Netherlands – Wageningen branch.
 
-Arends, Louis & de Wilde 700 ) . Dessin par I Z , Herbier National des Pays-Bas – WageKE EWALD ningen branche.
-
-KE Z , Herbier National des Pays-Bas – Wageningen branche. EWALD
+KE Z, National Herbarium of the Netherlands – Wageningen branch. EWALD
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur terrain plat ou sur pentes et talus, dans la forêt primaire mais parfois aussi en stations très secondarisés, souvent au bord des cours d’eau et rivières ; 450–700 m d’altitude. B : Sosef (1992a), Sosef (1994). IBLIOGRAPHIE
+on level terrain or on slopes and banks, in primary forest but sometimes also in highly secondary stations, often along the edges of streams and rivers; 450–700 m altitude. B: Sosef (1992a), Sosef (1994). IBLIOGRAPHY
 
 ## Notes
 

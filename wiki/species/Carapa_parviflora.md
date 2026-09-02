@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in Engler & Drude, Veg. Erde, 9, Pflanzenw. Afr. 3(1): 811 (1915). C. mangarevensis Kenfack & Issembé. Harvard Pap. Bot. 16(2): 227 (2011), syn. nov. Small tree monocaulous or large shrub, 4–15(–20) m tall; trunk 8–15(–20) cm in diameter; bark slightly fissured, greyish-beige; inner surface pinkish. Leaf paripinnate; petiole 11–17 cm, thick, reaching 1.3 cm in diameter, glabrous; rachis 55–100 cm;
 
-in Engler & Drude, Veg. Erde, 9 , Pflanzenw. Afr . 3(1) : 811 (1915). C. mangarevensis Kenfack & Issembé. Harvard Pap. Bot. 16(2) : 227 (2011), syn. nov. Petit arbre monocaule ou grand arbuste , 4–15(–20) m de hauteur ; tronc 8–15(–20) cm de diamètre ; écorce légèrement fissurée, gris-beige ; tranche rosâtre. Feuille paripennée ; pétiole 11–17 cm, épais, atteignant 1,3 cm de diamètre , glabre ; rachis 55–100 cm ;
+G. Functionally female flower. – H. Ditto, longitudinal section. – I. Ditto, transverse section of the ovary. – J. Fruit. – K. Ditto, longitudinal section. (A: van der Maesen, A.M. Louis & de Bruijn 5525; B–F: J.M. & B. Reitsma 1321; G–I: Sosef et al. 2073; J–K: Breteler et al. 15009). Drawing by Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
 
-G. Fleur fonctionnellement femelle. – H. Dito, coupe longitudinale. – I. Dito, section transversale de l’ovaire. – J. Fruit. – K. Dito, coupe longitudinale. (A : van der Maesen, A.M. Louis & de Bruijn 5525 ; B–F : J.M. & B. Reitsma 1321 ; G–I : Sosef et al. 2073 ; J–K : Breteler et al. 15009 ). Dessin par Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
-
-pétiolule 0,5–1,5 cm ; folioles 7–15(–18) paires, opposées ou subopposées, étroitement elliptiques à rectangulaires, obovales ou ovales, généralement symétriques, (10–)15–36(– 44) × (4,5–)5–15 cm, à base arrondie à cunéiforme, à sommet obtus et cuspidé avec acu men glanduleux, coriace, glabre sur les deux faces ; nervures secondaires 6–13 paires, assez proéminentes dessous. Inflorescence grande, lâche, atteignant 100 cm de longueur, glabre ou glabrescente. Fleur : pédicelle (1–)2–8 mm, glabre ou parfois obscurément pubérulent ; calice patelliforme, 0,5–1 mm de longueur, profondément 5-lobé, glabre ; pétales 5, largement obovales à elliptiques, cucullés, 2–5(–5,5) × 2–3,5 mm, blancs à rougeâtres ou parfois jaunes, glabres ; tube staminal faiblement urcéolé, 2–3 mm de lon gueur, 8–10(–11)-lobé ou -denté au sommet, glabre, à 10–11 anthères ovales ; disque annulaire, ridé, rugueux, 0,8–1,3 mm de longueur, soudé à la base de l’ovaire ; ovaire largement ovoïde, 1,5 mm de diamètre et profondément 5-ridé dans les fleurs fonction nellement femelles, plus étroit dans les fleurs mâles, 5-loculaire, à (3–)4 ovules par loge ; style 0,5–1,5 mm, glabre, stigmate 1,5 mm de diamètre. Fruit largement ovoïde à subcy lindrique ou obovoïde, 6–22 × 4–13 cm, mucroné au sommet, faiblement 5-lobé, valves parfois côtelées, à surface rugueuse et à grandes glandes noirâtres. Graines : 2–4 par loge, anguleuses, 2,5–3,5 cm de diamètre, à surface raboteuse, brunâtre.
+petiolule 0.5–1.5 cm; leaflets 7–15(–18) pairs, opposite or subopposite, narrowly elliptic to rectangular, obovate or ovate, generally symmetrical, (10–)15–36(–44) × (4.5–)5–15 cm, with rounded to cuneate base, with obtuse apex and cuspidate with glandular acumen, coriaceous, glabrous on both surfaces; secondary nerves 6–13 pairs, rather prominent beneath. Inflorescence large, lax, reaching 100 cm in length, glabrous or glabrescent. Flower: pedicel (1–)2–8 mm, glabrous or sometimes obscurely puberulent; calyx patellifom, 0.5–1 mm in length, deeply 5-lobed, glabrous; petals 5, broadly obovate to elliptic, cucullate, 2–5(–5.5) × 2–3.5 mm, white to reddish or sometimes yellow, glabrous; staminal tube weakly urceolate, 2–3 mm in length, 8–10(–11)-lobed or -dentate at apex, glabrous, with 10–11 oval anthers; annular disc, wrinkled, rugose, 0.8–1.3 mm in length, fused at base of ovary; ovary broadly ovoid, 1.5 mm in diameter and deeply 5-ridged in functionally female flowers, narrower in male flowers, 5-locular, with (3–)4 ovules per locule; style 0.5–1.5 mm, glabrous, stigma 1.5 mm in diameter. Fruit broadly ovoid to subcylindric or obovoid, 6–22 × 4–13 cm, mucronate at apex, weakly 5-lobed, valves sometimes ribbed, with rugose surface and large blackish glands. Seeds: 2–4 per locule, angular, 2.5–3.5 cm in diameter, with scabrous surface, brownish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale, Gabon, République du Congo, République Centrafricaine et République Démocratique du Congo ; au Gabon, largement répandue
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic and Democratic Republic of the Congo; in Gabon, widely distributed
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et vieilles forêts secondaires ombrophiles ; au Gabon, jusqu’à 770 m d’altitude, ailleurs jusqu’à 700 m. Usage : Une décoction de l’écorce est utilisée contre les maux de poitrine
+Primary forests and old secondary hygrophilous forests; in Gabon, up to 770 m altitude, elsewhere up to 700 m. Uses: A decoction of the bark is used against chest complaints
 
 ## Vernacular names
 

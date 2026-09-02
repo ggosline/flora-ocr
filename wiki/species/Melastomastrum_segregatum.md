@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, branched, erect to 2.50 m; young branches 4-angled, strigose; then glabrescent and excoriate; setae longer on the nodes. Leaves with petiole 1 cm, strigose; blade ovate-lanceolate to elliptic-lanceolate, 2.5–4 × 6–10 cm; short, appressed hairs on both faces; 5-nerved, the transverse nerves ± parallel and fairly numerous.
 
-Arbrisseau ramifié, dressé jusqu'à 2,50 m; jeunes rameaux 4-angulaires, strigilleux; puis glabrescents et excoriés; soies plus longues sur les nœuds. Feuilles à pétiole de 1 cm, strigilleux; limbe ovale-lancée à elliptique-lancéolé, 2,5-4 × 6-10 cm; poils courts et apprimés sur les 2 faces; 5-nervié, les transversales ± parallèles et assez nombreuses.
+Leafy panicle, formed of terminal cymules of 3 to 5 flowers, each of which is independently involucrate with 3 pairs of bracts. Flower with short, setulose pedicel; hypanthium glabrous, oblong, 5 × 10 mm; sepals oblong, then triangular-acute at the apex, finely ciliate. Petals purple, broadly obovate, 1.5 × 2 cm. Stamens normally dimorphous: the outer ones with anther 9 mm, same colour as the corolla; pedoconnective curved, 5–6 mm long, anterior appendages 2 mm, obtuse to claviform, and with 2 dorso-basal protuberances; filament 10 mm; the inner ones with yellow anther, 7 mm long; pedoconnective 0.5 mm, with obtuse anterior appendages, 1.5 mm long, and with dorso-basal protuberance; filament 7 mm. Ovary shorter than the hypanthium, apex convex, glabrous; peristyle collar short, formed of a ring of setae; style 2 cm.
 
-Panicule feuillée, formée de cymules terminales de 3 à 5 fleurs, dont chacune est indépendamment involucrée de 3 paires de bractées. Fleur à pédicelle court, sétuleux; hypanthe glabre, oblong,  $ 5 \times 10 $ mm; sépales oblongs, puis triangulaires-aigus au sommet, finement ciliés. Pétales pourpres, largement obovales,  $ 1.5 \times 2 $ cm. Étamines normalement dimorphes : les externes à anthère de 9 mm, de même couleur que la corolle; pédoconnectif arqué, long de 5 à 6 mm, appendices antérieurs de 2 mm, obtus à claviformes, et avec 2 protubérances dorso-basales; filet de 10 mm; les internes à anthère jaune, longue de 7 mm; pédoconnectif de 0,5 mm, avec appendices antérieurs obtus, longs de 1,5 mm, et avec protubérance dorso-basale; filet de 7 mm. Ovaire plus court que l'hypanthe, sommet convexe, glabre; collerette péristyle courte, formée d'un cercle de soies; style 2 cm.
-
-Capsule oblongo-ellipsoide, 6-8 × 10-15 mm; ovaire presqu’aussi long que l’hypanthe. Graine 0,5 × 0,8 mm. — Pl. 10, p. 33.
+Capsule oblong-ellipsoid, 6–8 × 10–15 mm; ovary almost as long as the hypanthium. Seed 0.5 × 0.8 mm. — Pl. 10, p. 33.
 
 ## Type
 
@@ -33,11 +31,9 @@ Hens 32, Zaïre (holo-, BR!, iso-Z!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Transcontinental hydrophilic species.
 
-Espèce hydrophile transcontinentale.
-
-Espèce des stations marécageuses du Zaïre et du Congo. Non observée au Gabon, mais son existence est très probable dans la région de Franceville.
+Species of swampy stations in Zaire and Congo. Not observed in Gabon, but its presence is very probable in the Franceville region.
 
 ## Specimens examined
 

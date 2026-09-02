@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-- L. crenata (Klotzsch) Wilczek, FCB 9: 152, nom. inval. le basionyme ayant été omis; HALLÉ, Bull. IFAN, sér. A, 21 (3): tab. 71 (1959), nom. nud.: Pollen & Spores 2 (1): 9 (1960).
+- L. crenata (Klotzsch) Wilczek, FCB 9: 152, nom. inval. the basionym having been omitted; HALLÉ, Bull. IFAN, sér. A, 21 (3): tab. 71 (1959), nom. nud.: Pollen & Spores 2 (1): 9 (1960).
 
 - Gymnema crenatum KLOTZSCH in PETERS, Reise Mossamb. Bot. 1: 273 (1862), Asclepiadaceae; N.E. BROWN, FTA 4 (1): 414 (1903). - Hippocratea crenata (KLOTZSCH) K. SCHUM. & LOES. ex LOES., Bot. Jahrb. 19: 237 (1894); ROBSON, FZ 2 (2): 410 (1966); FL. MOÇAMB. 48: 56 (1969). - H. kirkii OLIV., FTA 1: 370 (1868).
 
-1. Pétales longs de 2-4 mm ; 2-9 ovules par loge. 2. Bouton conique ; pétales longs de 2-3 mm ; 2-6 ovules par loge a. var. crenata. 2'. Bouton en toupie ; pétales longs de 3-4 mm ; 5-9 ovules par loge b. var. loandensis. 1'. Pétales longs de 4-5 mm, très aigus, formant un bouton long , . . c. var. rubiginosa.
+1. Petals 2-4 mm long; 2-9 ovules per locule. 2. Bud conical; petals 2-3 mm long; 2-6 ovules per locule a. var. crenata. 2'. Bud top-shaped; petals 3-4 mm long; 5-9 ovules per locule b. var. loandensis. 1'. Petals 4-5 mm long, very acute, forming a long bud . . . c. var. rubiginosa.
 
 a. var. crenata
 
-La variété-type, qui est d'Afrique orientale, se distingue par ses boutons coniques et aigus et par ses ovules souvent moins nombreux, (2-)4(-6) par loge. Les carpelles sont plus longs que larges dans le fruit.
+The typical variety, which is from East Africa, is distinguished by its conical and acute buds and its ovules often fewer in number, (2-)4(-6) per locule. The carpels are longer than wide in the fruit.
 
 ## Type
 
@@ -36,8 +34,6 @@ Gossweiler 13556, Angola, entre Luanda et Catete (K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 b. var. loandensis (Exell) Hallé, stat. nov.
 
 – Hippocratea loandensis Exell, Journ. Bot. 70, suppl. Polyp.: 225 (1932); Exell & Mendonça, CFA 2 (1): 19 (1954).
@@ -46,15 +42,13 @@ b. var. loandensis (Exell) Hallé, stat. nov.
 
 - H. apocynoides WELW. ex OLIV. var. mildbraedii LOES. in MILDBRAED, Deutsch. Zentr. Afr.-Exped. 1907-1908, 2: 468 (1912).
 
-Grande liane forestière atteignant 25 à 40 m ; tronc à écorce lisse mais très finement piquetée de petites lenticelles allongées transversalement, brun grisâtre, parfois faiblement rugueuse, médiocrement fissurée et grisâtre. Pas de caoutchouc. Bois creusé de sillons (17 et 22 sillons de 2-5 mm de profondeur pour des diamètres de 20 et 32 mm). Entrenœuds bruns pubérulents, ceux des rameaux plagiotropes cylindriques. Stipules non liées par un bourrelet transversal. Pétiole de 6-12 mm, roux pubérulent. Limbe denté ondulé, crénelé ou subcrénelé, ovale, de 3-11 × 2-6 cm, chartacé à subcoriace, gris brunâtre ou roussâtre à sec ; base souvent arrondie ; sommet acuminé. Nervures secondaires 5-8 paires ; fin réseau non toujours net.
+Large forest liana reaching 25 to 40 m; trunk with smooth bark but very finely pitted with small lenticels elongated transversely, greyish-brown, sometimes weakly rugose, moderately fissured and greyish. No rubber. Wood grooved with furrows (17 and 22 furrows 2-5 mm deep for diameters of 20 and 32 mm). Internodes brown puberulent, those of plagiotropic branchlets cylindrical. Stipules not connected by a transverse callus. Petiole 6-12 mm, reddish-brown puberulent. Blade dentate wavy, crenate or subrenate, ovate, 3-11 × 2-6 cm, chartaceous to subcoriaceous, greyish-brown or reddish-brown when dry; base often rounded; apex acuminate. Secondary veins 5-8 pairs; fine network not always evident.
 
-Cymes peu développées multiflores longues de 1-4 cm, parfois groupées en panicules terminales ; axes fauves pubérulents. Pédicelles de
+Cymes little developed, multiflorous, 1-4 cm long, sometimes grouped in terminal panicles; axes tawny puberulent. Pedicels 2-4 mm. Buds rather compact, reddish-brown pubescent, top-shaped, 3-4 mm long. Flowers whitish, pale greyish-green or yellowish-white, 7-8 mm in diameter. Calyx 2.5 mm in diameter. Petals 3-4 × 1.3-1.5 mm, acute at apex, puberulent with longer hairs along the midline of the outer surface and a glabrous patch at the base of the inner surface; an internal subapical pit marks the compression of the anthers before anthesis. Disc glabrous in a very open cup approximately 2 mm in diameter surrounding a very short androgynophore. Stamens 3, puberulent with anther 0.6 mm wide, subapically dehiscent. Pistil pyramidal, 1.5 mm, pubescent on the upper part of the locules between the stamens. (5)6-8(9) ovules per locule, these being half-sunken; stigma punctiform.
 
-2-4 mm. Boutons plutôt serrés, roux pubescents, en forme de toupie, longs de 3-4 mm. Fleurs blanchâtes, gris vert pâle ou blanc jaunâtre, de 7-8 mm de diamètre. Calice de 2,5 mm de diamètre. Pétales de 3-4 × 1,3-1,5 mm, aigus au sommet, pubérulents avec des poils plus longs dans l'axe de la face externe et une plage glabre à la base de la face interne ; une fossette subapicale interne marque la compression des anthères avant l'anthèse. Disque glabre en cupule très ouverte d'environ 2 mm de diamètre entourant un très court androgynophore. Étamines 3 pubérulentes à anthère de 0,6 mm de largeur, subapicalement déhiscente. Pistil pyramidal de 1,5 mm pubescent sur le haut des loges entre les étamines. (5)6-8(9) ovules par loge, ces dernières sont demi-enfoncées ; stigmate ponctiforme.
+Mericarps ovoid-oblong, 55-65 × 25-32 mm, with short ferruginous pubescence; interior smooth reddish-brown. Seeds 3-4.5 × 1.5 cm, almost uniformly pale reddish-brown; cotyledons 15 × 5 mm; funicular sheaths 2-3 mm long. - Pl. 69, fig. 1-17, p. 241.
 
-Méricarpes ovoïdes oblongs de 55-65 × 25-32 mm, à pubérulence rase ferrugineuse ; intérieur lisse brun roux. Graines de 3-4,5 × 1,5 cm, presque uniformément roux pâle ; cotylédons 15 × 5 mm ; étuis funiculaires longs de 2-3 mm. - Pl. 69, fig. 1-17, p. 241.
-
-Distribution générale (les limites variétales n'étant pas tout à fait éclaircies) : Cameroun, Gabon, Centrafrique (Tisserant 3538), Angola, Kivu, Burundi, Éthiopie (fide WILCZEK), Kenya (Anderson 290 = B 5981), Malawi, Zambie, Zimbabwe, Tanzanie et Madagascar. Dans des stations moins humides que l'espèce précédente.
+General distribution (the varietal limits not being entirely clear): Cameroon, Gabon, Central African Republic (Tisserant 3538), Angola, Kivu, Burundi, Ethiopia (fide WILCZEK), Kenya (Anderson 290 = B 5981), Malawi, Zambia, Zimbabwe, Tanzania and Madagascar. In habitats less humid than the preceding species.
 
 ## Specimens examined
 

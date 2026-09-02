@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4(1) : 206 (1902). Liane JULPSDQWMXVTX¶jPGHKDXWHXU rameaux lisses et glabres . Feuille : pétiole de 3–6 mm ; limbe ovale à oblong, de 3,4–12,3 × 1,6–5,7 cm, cunéé à la base, apiculé à acuminé au sommet, glabre sur les deux faces ; nervures secondaires 3 à 5(7) paires, les 2 e et 4 e ou parfois la 3 nettement arquées YHUVOHERUGIRUPDQWHQVHPEOHTXDVLPHQWXQHQHUYXUHVXEPDUJLQDOH e nervation tertiaire scalariforme ; domaties présentes. ,QÀRUHVFHQFH axillaire et surtout aussi WHUPLQDOH j F\PH WUqV Okfkh j DYHF j ÀHXUV Spgrqfxoh GH PP JODEUH Fleur parfumée ; pédicelle de 6–13,5 mm , glabre ; calice à lobes de 1,2–1,5 × 1–1,5 mm, avec 5 grands et larges collétères sur la base interne ; corolle à tube long de 5,2–6,8 mm, blanc, jaunâtre et verdâtre, strié de rose à l’intérieur, glabre, à ponctuations externes au-dessus ou MXVWHGHUULqUHO¶DSH[GHVVpSDOHVjWRXIIHVGHTXHOTXHVSRLOVjO¶LQWpULHXUVLQRQJODEUHjOREHV RYDOHVjREORQJV±IRLVDXVVLORQJVTXHOHWXEHGH±î±PPVRXYHQWOpJqUH ment auriculés à la base, obtus à l’apex, blancs ou jaunâtres, glabres sur les deux faces, parfois irrégulièrement ciliolés sur le côté non recouvert en bouton ; étamines insérées à 1,6–2 mm de la base du tube, incluses, anthère longue de 2,4–3,4 mm, pubescente dorsalement ; ovaire pubescent à l’apex. Fruit : follicules longs de ± 50 cm, brillants, glabres. Distribution &DPHURXQ*XLQpHpTXDWRULDOHHW*DERQDX*DERQFRQQXG¶XQHVHXOHORFDOLWpGDQVOD Ngounié.
+Fl. trop. Afr. 4(1) : 206 (1902). Liane JULPSDQWMXVWVUHUDQFKHV smooth and glabrous. Leaf: petiole 3–6 mm; lamina ovate to oblong, 3.4–12.3 × 1.6–5.7 cm, cuneate at base, apiculate to acuminate at apex, glabrous on both surfaces; secondary nerves 3 to 5(7) pairs, the 2nd and 4th or sometimes the 3rd distinctly arched YHUYYHRUIRUPLQJWRJHWKHUDOPRVWDVXEPDUJLQDOQHUYH tertiary venation scalariform; domatia present. Inflorescence axillary and especially also terminal; cyme very lax; with flowers. Pedicel 0–mm glabrous. Flower fragrant; pedicel 6–13.5 mm, glabrous; calyx with lobes 1.2–1.5 × 1–1.5 mm, with 5 large and broad colleters on the inner base; corolla with tube 5.2–6.8 mm long, white, yellowish and greenish, streaked with pink inside, glabrous, with external punctations above or MXVWEHKLQGWKHDSH[RIWKHVHSDOVZLWKWXIWVRIVRPHKDLUVRWKHUZLVHJODEURXVZLWK ovate to oblong lobes ±times as long as the tube, 1.2–1.5 × 1–1.5 mm, often slightly auriculate at base, obtuse at apex, white or yellowish, glabrous on both surfaces, sometimes irregularly ciliolate on the side not covered in bud; stamens inserted 1.6–2 mm from base of tube, included, anther 2.4–3.4 mm long, pubescent dorsally; ovary pubescent at apex. Fruit: follicles ± 50 cm long, glossy, glabrous. Distribution &DPHURRQ(TXDWRULDO*XLQHDVDQG*DERQNQRZQIURPRQO\rRQHORFDOLW\LQWKH Ngounié.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ; au Gabon à ± 100 m d’altitude, ailleurs à 30–400 m
+forest; in Gabon at ± 100 m altitude, elsewhere at 30–400 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La corolle, les anthères et les feuilles du seul spécimen de B. ochrantha du Gabon ( Leeuwenberg & Persoon 13657 VRQWQHWWHPHQWSOXVSHWLWHVTXHFHOOHVGX&DPHURXQHWGHOD*XLQpHpTXDWRULDOH3HXW rWUHTXHFHVSpFLPHQDSSDUWLHQWjXQHHVSqFHQRQGpFULWH3OXVGHPDWpULHOHVWQpFHVVDLUH B : van Dilst (1995). IBLIOGRAPHIE
+The corolla, anthers and leaves of the only specimen of B. ochrantha from Gabon ( Leeuwenberg & Persoon 13657 DUHQDNHGO\VPDOOHUWKDQWKRVHIURP&DPHURRQDQG(TXDWRULDO*XLQHD,WLVSRVVLEOH WKDWWKLVVSHFLPHQEHORQJVWRDQXQGHVFULEHGVSHFLHV0RUHPDWHULDOLVQHFHVVDU\B : van Dilst (1995). BIBLIOGRAPHY
 
 ## Notes
 

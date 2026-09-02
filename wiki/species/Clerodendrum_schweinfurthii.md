@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste grimpant ou liane , souvent à tiges rampantes et procombantes, de 0,45–1,5(–2) m de hauteur ; tige subcylindrique, faiblement striée, pleine, les jeunes souvent à pubescence dense brun pâle, devenant parfois glabres, généralement à pseudoépines atteignant 15 mm . Feuilles opposées ou subopposées ; pétiole robuste, souvent plissé transversalement, de 0,5–5 cm, glabre, pubescent ou poilu ; limbe assez variable, largement elliptique, oblong, rhomboïdal ou étroitement obovale à obovale, de 5,5–29 × 5–18 cm, arrondi à cunéé à la base, acuminé sur 1–1,5 cm à l’apex, généralement entier ou parfois grossièrement denté, nervures glabres dessus, finement pubescentes ou pubérulentes dessous. Inflorescence axillaire ou parfois terminale, souvent près du sol au niveau d’un nœud enraciné, dense , capitée , ± globuleuse , à nombreuses fleurs, de 5 × 7–10(–12) cm ; pédoncule sans feuilles, de (1–)4–16(–22) cm , pubescent ; cymes condensées, généralement arrangées le long d’un axe long et épais de 2–4 mm, courtement pédonculées ; bractées ± linéaires, longues de 1–3 mm. Fleur : pédicelle de 2 mm ; calice à tube accrescent, long de 3 mm, jusqu’à 6 mm en fruit, pubérulent, à lobes triangulaires, réfléchis, longs de 1–3 mm , apiculés à l’apex ; corolle entièrement blanche, parfumée, à tube long de 2,5–3,6 cm , à lobes oblongs-elliptiques de 5–7 × 4–5 mm ; étamines et style exserts sur 1–2 cm. Fruit ± 10 × 7 mm, vert foncé, devenant noir.
+Climbing shrub or liana, often with trailing and procumbent stems, 0.45–1.5(–2) m in height; stem subcylindric, faintly striate, solid, young ones often with dense pale brown pubescence, sometimes becoming glabrous, generally with pseudospines reaching 15 mm. Leaves opposite or subopposite; petiole robust, often transversely plicate, 0.5–5 cm, glabrous, pubescent or pilose; blade quite variable, broadly elliptic, oblong, rhomboidal or narrowly obovate to obovate, 5.5–29 × 5–18 cm, rounded to cuneate at base, acuminate for 1–1.5 cm at apex, generally entire or sometimes coarsely toothed, veins glabrous above, finely pubescent or puberulent below. Inflorescence axillary or sometimes terminal, often near ground level at a rooting node, dense, capitate, ± globose, with numerous flowers, 5 × 7–10(–12) cm; peduncle leafless, (1–)4–16(–22) cm, pubescent; condensed cymes, generally arranged along a long axis 2–4 mm thick, shortly pedunculate; bracts ± linear, 1–3 mm long. Flower: pedicel 2 mm; calyx with accrescent tube, 3 mm long, up to 6 mm in fruit, puberulent, with triangular, reflexed lobes, 1–3 mm long, apiculate at apex; corolla entirely white, fragrant, with tube 2.5–3.6 cm long, with oblong-elliptic lobes 5–7 × 4–5 mm; stamens and style exsert for 1–2 cm. Fruit ± 10 × 7 mm, dark green, becoming black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Égypte ( fide Hepper, 1963), Afrique occidentale tropicale, Cameroun, Gabon, République du Congo, République démocratique du Congo, République Centrafricaine, Angola, Afrique du Nord-Est et Afrique orientale tropicale ; au Gabon : Ogooué-Ivindo. Statut de conservation : largement distribué et attribué préliminairement à Préoccupation mineure (LC)
+Egypt (fide Hepper, 1963), tropical West Africa, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Central African Republic, Angola, North-East Africa and tropical East Africa; in Gabon: Ogooué-Ivindo. Conservation status: widely distributed and preliminarily assigned to Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord de route en forêt secondaire ; au Gabon à 500 m d’altitude, ailleurs jusqu’à 1800 m. B : Huber et al. (1963). i B liographie
+Roadside in secondary forest; in Gabon at 500 m altitude, elsewhere up to 1800 m. B: Huber et al. (1963). Bibliography
 
 ## Notes
 

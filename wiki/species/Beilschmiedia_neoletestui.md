@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Adansonia, t. 3, fasc. 2 : 246 (1963).
 
-Arbuste buissonnant à rameaux d'abord pubescents, puis glabres. Feuilles concolores, rougeâtres. Inflorescences de 5-6 cm velues, sauf les ramifications terminales; bractées opposées, persistantes, à la base des ramifications secondaires et tertiaires. Réceptacle avec ponctuations (poches sécrétrices) bien visibles par transparence; tépales ciliés au bord, ponctués. Fruit inconnu.
+Bushy shrub with branches initially pubescent, then glabrous. Leaves concolorous, reddish. Inflorescences 5–6 cm hairy, except for the terminal ramifications; bracts opposite, persistent, at the base of secondary and tertiary ramifications. Receptacle with punctations (secretory pockets) clearly visible by transparency; tepals ciliate at the margin, punctate. Fruit unknown.
 
 ## Type
 
@@ -28,9 +26,7 @@ Le Testu 7002, bords de l'Ogooué, Lastoursville, 3 mars 1929 (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le type est le seul matériel connu.
+The type is the only known material.
 
 ## Notes
 

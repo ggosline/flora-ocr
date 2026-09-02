@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 19 : 476 (1949).
 
-Arbre (?) à rameaux jeunes couleur cannelle (sur le sec) puis gris marron, bourgeons tomenteux fauves; feuilles légèrement coriaces, couleur cannelle (d'où le nom spécifique) puis gris marron. Le réceptacle, dont Stapf ne mentionne pas la pilosité est décrit glabre à l'intérieur par Robyns et Wilczek, mais l'échantillon type de Paris présente quelques cils, le reste ayant peut-être été détruit par une larve d'insecte. Les filets des étamines des deux cycles externes sont glabres à l'intérieur, comme chez B. alata. Le fruit est inconnu. La plante de Le Testu est un arbre de  $ 25 \, cm $ de diamètre à fleurs grises.
+Tree (?) with young branchlets cinnamon-coloured (when dry) then greyish-brown, buds tomentose tawny; leaves slightly coriaceous, cinnamon-coloured (whence the specific epithet) then greyish-brown. The receptacle, whose hairiness Stapf does not mention, is described glabrous within by Robyns and Wilczek, but the Paris type specimen shows a few cilia, the rest possibly having been destroyed by an insect larva. The filaments of the stamens of the two outer cycles are glabrous within, as in B. alata. The fruit is unknown. Le Testu's plant is a tree of 25 cm diameter with grey flowers.
 
 ## Type
 
@@ -33,9 +31,7 @@ Zenker 2855. Bipinde. Cameroun. L'échantillon conservé au Muséum de Paris a p
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La plante n'est connue, outre le type du Cameroun, que par une récolte de Le Testu : très bel échantillon avec couleur cannelle bien conservée ; réceptacle très velu à l'intérieur. C'est le type de Tylostemon Le-Testui Pellegrin. Dans ces plantes, les filets n'excèdent guère en longueur les anthères dans les deux premiers cycles d'étamines, mais les glandes égalant la moitié des filets du 3 $ ^{e} $ cycle, la position entre les sections Eubeilschmieda et Hufelandia est difficile à établir.
+The plant is known, apart from the Cameroon type, only from one collection by Le Testu: a very fine specimen with well-preserved cinnamon colour; receptacle very hairy within. It is the type of Tylostemon Le-Testui Pellegrin. In these plants, the filaments scarcely exceed the anthers in length in the two first stamen cycles, but with the glands equalling half the filaments of the 3rd cycle, the position between sections Eubeilschmieda and Hufelandia is difficult to establish.
 
 ## Specimens examined
 

@@ -21,23 +21,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Kotibé (trade name).
 
-Kotibé (nom commercial).
+, orig. ref. — Capuron, Not. Syst. XIV, 4 : 259 (1952). — F. W. T. A. 2nd ed. I : 313 (1958). — F. F. C. I. 2nd ed. II : 252 (1959).
 
-, réf. orig. — Capuron, Not. Syst. XIV, 4 : 259 (1952). — F. W. T. A. 2e éd. I : 313 (1958). — F. F. C. I. 2e éd. II : 252 (1959).
+Very large tree with winged buttresses at the base, with a bole reaching 20 m long and 80 cm in diameter. Young shoots with short stellate hairs. Stipules 4–9 mm long, very narrowly acute, quickly caducous. Petiole slender, 15–50 mm long, pubescent. Blade oval, 6–10 cm long by 3–4.5 cm wide; base rounded or obtuse; acumen moderate, often apiculate at the apex; margins entire; upper surface glabrous; lower surface bearing very small stellate hairs, scattered and more or less fugacious. 5–9 pairs of ascending lateral veins.
 
-Très grand arbre à accotements ailés à la base, à fût atteignant 20 m de long et 80 cm de diamètre. Jeunes extrémités à poils stellés ras. Stipules de 4-9 mm de long, très étroitement aiguës, rapidement caduques. Pétiole grêle de 15-50 mm de long, pubescent. Limbe ovale de 6-10 cm de long sur 3-4,5 cm de large; base arrondie ou obtuse; acumen moyen, souvent apiculé à l'extré-mité; marges intègres; face supérieure glabre; face inférieure portant de très petits poils étoilés, espacés et plus ou moins fugaces. 5-9 paires de nervures latérales ascendantes.
+Inflorescences axillary, brownish, puberulent, with a peduncle 20–45 mm long, bearing several short branches and approximately 1–6 flowers. Pedicel 5–12 mm, articulate near its midpoint. Bud ovoid, reaching 7–9 mm long, puberulent. Flower with 5 valvate sepals, lanceolate, with sparse minute hairs on the inner surface. 5 white elliptic petals approximately 8 mm long, glabrous. 5 groups of 3–4 stamens scarcely adherent to each other at the base. 5 linear staminodes with more or less rolled margins, exceeding the stamens. Ovary pubescent with 5 faces separated by grooves. Style nearly absent, surmounted by a crown of 5 lanceolate fleshy stigmas, ornamented with a longitudinal groove on the outer surface. 5 locules, biovulate.
 
-Inflorescences axillaires brunes pubérulentes, à pédoncule de 20-45 mm de long, portant plusieurs ramifications courtes et environ 1-6 fleurs. Pédicelle de 5-12 mm, articulé vers son milieu. Bouton ovoïde atteignant 7-9 mm de long, pubérulent. Fleur à 5 sépales valvés lancéolés, avec des poils épars très petits sur la face interne. 5 pétales blancs elliptiques d'environ 8 mm de long, glabres. 5 groupes de 3-4 étamines à peine adhérentes entre elles à la base. 5 staminodes linéaires à bords plus ou moins roulés, dépassant les étamines. Ovaire pubescent à 5 faces séparées par des sillons. Style presque nul surmonté par une couronne de 5 stigmates lancéolés charnus, ornés d'un sillon longitudinal sur la face externe. 5 loges biovulées.
+Fruit obpyramidal, 20–28 mm long, brown, pubescent, separating into 5 valves. Subapical crest of valves bilobed, rarely subtruncate, spreading or erect. Valve sutures rather broad around the upper portion of the seed. Seed wing with basal insertion slightly narrowed.
 
-Fruit obpyramidal de 20-28 mm de long, brun pubescent, se séparant en 5 valves. Crête subapicale des valves bilobée, rarement subtronquée, étalée ou érigée. Sutures valvaires assez larges autour de la partie supérieure de la graine. Aile de la graine à insertion basale un peu rétrécie.
+Types of the species: A. Chev. 22459 (fl.) and 22442 (fr.) (P.).
 
-Types de l'espèce : A. Chev. 22459 (fl.) et 22442 (fr.) (P.).
+This species is widespread from Sierra Leone to Ubangi. In Gabon it was first collected by Le Testu in the Ntem basin on the border of Cameroon. Characteristic of semi-deciduous forests, a light-demanding species, it grows on dry ground; it does not appear to coexist with the following species N. fouassieri.
 
-Cette espèce est répandue de la Sierra Léone à l'Oubangui. Au Gabon elle a été récoltée pour la première fois, par Le Testu, dans le bassin du Ntem en bordure du Cameroun. Caractéristique des forêts semi-décidues, espèce de lumière, elle croît en terrain sec; elle ne paraît pas cohabiter avec l'espèce suivante N. fouassieri
-
-Utilisation. Le bois, rouge foncé, presque inaltérable, à très bonnes résistances mécaniques, est apte à de nombreux emplois : charpentes fortes, ponts, canots, manches d'outils. Les feuilles de tranchage sont parfois utilisables en décoration. Il convient d'éliminer l'aubier, large de 2-3 cm et de teinte claire.
+Utilization. The wood, dark red, almost unaltered by time, with very good mechanical resistance, is suitable for numerous uses: heavy framing, bridges, canoes, tool handles. Veneer leaves are sometimes usable for decoration. It is advisable to eliminate the sapwood, 2–3 cm wide and pale in colour.
 
 ## Specimens examined
 
@@ -77,11 +75,9 @@ Aborbora (Fang)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 △ Tarrietia densiflora ◉ Nesogordonia papaverifera ✦ Nesogordonia fouassieri
 
-Utilisation. Le bois, rouge clair, avec l'aubier plus clair, est recommandé pour l'ébénisterie; très dur, à grain fin, incorruptible, il se travaille et se polit bien. Malheureusement cette essence est très clairsemée.
+Utilization. The wood, light red, with paler sapwood, is recommended for cabinetmaking; very hard, fine-grained, incorruptible, it works and polishes well. Unfortunately this timber is very scattered in distribution.
 
 ## Figures
 

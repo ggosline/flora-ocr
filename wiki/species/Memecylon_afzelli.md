@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1–2 m tall; branchlets slender, obscurely 4-angular. Leaves with petiole 3 mm, swollen at its attachment to the stem; blade subcoriaceous, opaque, dull, narrowly elliptic-lanceolate, 2.5–3 × 8–9 cm, narrowly cuneate at the base, clearly acuminate, acumen narrow, 1–1.5 cm long, with obtuse apex; venation obscure except the midvein finely impressed above and prominent below; converging near the margin, practically invisible, as are the 8–10 moderately oblique transverse veins.
 
-Arbuste de 1 à 2 m; rameaux grêles, obscurément 4-angulaires. Feuilles à pétiole de 3 mm, renflé en son attache sur la tige; limbe subcoriace, opaque, terne, étroitement elliptique-lancéolé, 2,5-3 × 8-9 cm, étroitement cunée à la base, nettement acuminé, acumen étroit, long de 1-1,5 cm, à pointe obtuse; nervation obscure sauf la médiane finement imprimée dessus et saillante dessous; convergentes proches de la marge, pratiquement non visibles, ainsi que les 8 à 10 transversales modérément obliques.
+Axillary cymes or on leafless nodes, solitary or rarely geminate, typically slender and lax, up to 2.5 cm in total length and 3–7-flowered; peduncle slender, 1–1.5 cm, sometimes shorter but then prolonged by an axial ray; 1–2 tiers of slender branchlets normally uniflorous; bracts caducous. Flowers with pedicel 1.5–2 mm, globose in bud; hypanthium cupulo-patellate, 3 × 2 mm; calyx membranous, truncate, 4-denticulate. Petals white, broadly ovate to transversely elliptic, 2.7 × 2.2 mm, moderately apiculate, fleshy in the median part. Anther 1.3 × 1 mm, thecae straight, connective abruptly saddle-shaped by the well-developed median gland; filament 2.5 mm; epigynous chamber with 8 poorly pronounced septa, plus 4 partial petaline lines. Ovary not prominent; style 4–5 mm; ovarian locule 8–12-ovulate.
 
-Cymes axillaires ou sur les nœuds aphyllés, solitaires ou rarement géminées, typiquement grêles et lâches, jusqu'à 2,5 cm de longueur totale et 3-7-flores; pédoncule grêle, de 1 à 1,5 cm, parfois plus court mais alors prolongé par un rayon axial; de 1 à 2 étages de rameaux grêles normalement uniflores; bractées caduques. Fleurs à pédicelle de 1,5 à 2 mm, globuleuses dans le bouton; hypanthe cupulo-patellé, 3 × 2 mm; calice membraneux, tronqué, 4-denticulé. Pétales blancs, largement ovales à transversalement elliptiques, 2,7 × 2,2 mm, modérément apiculés, charnus dans la partie médiane. Anthère 1,3 × 1 mm, thèques droites, connectif brusquement ensellé par la glande médiane bien développée; filet 2,5 mm; chambre épigyne avec 8 cloisons peu prononcées, plus 4 lignes pétalaires partielles. Ovaire non saillant; style 4 à 5 mm; loge ovarienne 8-12 ovulée.
-
-Fruits oblongo-ellipsoïdes, 9 × 15 mm, couronnés par le calice persistant, pédicellés, blanchâtres, solitaires ou peu nombreux par cyme.
+Fruits oblong-ellipsoid, 9 × 15 mm, crowned by the persistent calyx, pedicellate, whitish, solitary or few per cyme.
 
 ## Type
 
@@ -31,9 +29,7 @@ Afzelius s.n., Sierra Leone (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nous donnons un sens assez large à cette espèce, dont l'aire s'étendrait de la Guinée au Gabon.
+We give a fairly broad sense to this species, whose range would extend from Guinea to Gabon.
 
 ## Specimens examined
 

@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige < 48 cm, glabre. Feuilles tout le long de la tige, pétiolées, < 15 x < 5,2 cm, oblongues à blancs, aiguës, succulentes, vert pâle à moyen, marge ondulée. Inflorescence 5-9,5 cm, assez dense, < 20 flore. Fleurs moyennes, résupinées, tépales blancs. Sépale dorsal glabre, largement ové, subapiculé ; sépales latéraux obliquement et largement ovés-lancéolés, aigus, profondément cochléiformes, marge inférieure involu-tée. Pétales largement ovés, aigus, avec cils denses, largement réunis au gynostème. Labelle oblong, obtus, moitié inférieure ciliée, petits lobules basaux triangulaires. Éperon filiforme, courbé vers le haut, vert pâle, sommet courtement renflé ou non renflé. – Pl. 13, p. 37.
+Stem < 48 cm, glabrous. Leaves throughout the stem, petiolate, < 15 × < 5.2 cm, oblong to white, acute, succulent, pale to medium green, margin undulate. Inflorescence 5–9.5 cm, rather dense, < 20 flowers. Flowers medium-sized, resupinate, tepals white. Dorsal sepal glabrous, broadly ovate, subapiculate; lateral sepals obliquely and broadly ovate-lanceolate, acute, deeply cochleariform, lower margin involute. Petals broadly ovate, acute, with dense cilia, broadly united to the gynostemium. Labellum oblong, obtuse, lower half ciliate, small basal lobules triangular. Spur filiform, curved upward, pale green, apex shortly swollen or not swollen. – Pl. 13, p. 37.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Principe, Centrafrique
+Cameroon, Príncipe, Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 170–600 m. Forest, mangrove, riparian woodland; herbaceous terrestrial or saxicolous or epiphytic on tree trunk
 
-alt. 170-600 m. Forêt, mangrove, boisement en bord de rivière ; herbacée terrestre ou saxicole ou épiphyte sur tronc d'arbre
+MATERIAL STUDIED (Map 4):
 
-MATÉRIEL ÉTUDIÉ (Carte 4) :
+de Wilde, Arends & de Bruijn 9100, km 53, logging trail from Doussala to Bongo, 1°23' S, 10°12' E (fl., Dec.), BR!, P!, WAG!, LBV. Pauly 174, 13 km N of Ayem (fl., Dec.), BR!, LBV.
 
-de Wilde, Arends & de Bruijn 9100, km 53, piste d'exploitation forestière de Doussala à Bongo, 1°23' S, 10°12' E (fl., Déc.), BR!, P!, WAG!, LBV. Pauly 174, 13 km au N d'Ayem (fl., Déc.), BR!, LBV.
-
-Reitsma J. M. & B. 2739, 6 km au NE de Malibé, 0°35' N, 9°26' E (fl., Déc.), WAG!, LBV, NY.
+Reitsma J. M. & B. 2739, 6 km NE of Malibé, 0°35' N, 9°26' E (fl., Dec.), WAG!, LBV, NY.
 
 ## Figures
 

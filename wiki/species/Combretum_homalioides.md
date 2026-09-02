@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 KEAY, FWTA, ed. 2, 1(1):272 (1954); EXELL & GARCIA, CFA: 54 (1970). TYPE: Nigeria, Onitsha (fl.) Barter 1803 (holo-K; fragm.-BM).
 
 – C. le-testui Exell, Journal of Botany 67: 103 (1929). TYPE : Gabon, MouCongo (Brazzaville) Mounene (fl.) Le Testu 2031 (holo-BM ; iso-K, MO, P).
 
-Liane ≤ 20 m, diamètre ≤ 5 cm.
+Liane ≤ 20 m, diameter ≤ 5 cm.
 
-Feuilles opposées, pétiole ≤ 10 mm ; limbe ové à elliptique, ≤ 12 × ≤ 6 cm, glabre, coriaces, souvent luisant ; grandes nervures latérales, 6-8 paires avec des domaties plus ou moins en forme de poches ; nervure médiane, et autres nervures, jamais déprimées à la face supérieure ; base du limbe atténuée à arrondie ; sommet acuminé.
+Leaves opposite, petiole ≤ 10 mm; blade ovate to elliptic, ≤ 12 × ≤ 6 cm, glabrous, coriaceous, often shining; large lateral veins, 6–8 pairs with more or less pocket-shaped domatia; midvein and other veins never depressed on the upper surface; blade base attenuate to rounded; apex acuminate.
 
-Écailles circulaires, diamètre 40-70 µm.
+Scales circular, diameter 40–70 µm.
 
-Inflorescences paniculées ≤ 11 cm ; bractées peu visibles.
+Inflorescences paniculate ≤ 11 cm; bracts scarcely visible.
 
-Fleurs 4-mères, sessiles. Réceptacle : l'inférieur haut de 1 mm ; le supérieur, patelliforme, large de 2 mm. Calice : lobes deltoïdes. Pétales spathulés, glabres, longueur 1,5 mm. Étamines exsertes de 2 mm ; anthères longues de 0,2-0,3 mm. Disque pourvu de poils frisés sur son bord libre, partout ailleurs glabre.
+Flowers 4-merous, sessile. Receptacle: the lower one 1 mm high; the upper one, patelliform, 2 mm wide. Calyx: lobes deltoid. Petals spatulate, glabrous, length 1.5 mm. Stamens exsert 2 mm; anthers 0.2–0.3 mm long. Disk bearing crisped hairs on its free margin, glabrous elsewhere.
 
-Fruit, profil subcirculaire, vert à brun clair ; souvent un peu glutineux, diamètre ≤ 2 cm ; ailes papyracées, stipe ≤ 2 mm.
+Fruit, profile subcircular, green to light brown; often somewhat glutinous, diameter ≤ 2 cm; wings papyraceous, stipe ≤ 2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-depuis la Côte-d'Ivoire au Gabon, en Angola (Cabinda) et au Congo (Kinshasa), ainsi qu'en Tanzanie, et au Kénya
+from Côte d'Ivoire to Gabon, in Angola (Cabinda) and Congo (Kinshasa), as well as in Tanzania and Kenya
 
 ## Ecology
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 altitude ≤ 210 m
 

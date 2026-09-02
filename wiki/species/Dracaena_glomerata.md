@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pleomele glomerata (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Arbuste jusqu’à 3,5 m de hauteur ; tronc généralement simple . Feuilles ± uniformément distribuées , laissant la tige visible entre les gaines ou préfeuilles ; gaine longue, embrassant la tige sur nettement plus que la circonférence, sur une longueur de < 1,5 cm ; pseudopétiole plus court que le limbe , jusqu’à 5 mm de largeur, légèrement ailé, creusé, vert, base passant abruptement dans la gaine ; limbe elliptique à largement elliptique , jusqu’à 22 × 10 cm, base cunéée, sommet cuspidé à mucron atteignant 2 mm, coriace, face supérieure vert brillant, nervure médiane sillonnée, face inférieure vert pâle, nervure médiane proéminente sur plus des ¾ de la longueur. Inflorescence dressée ou pendante, en thyrse spiciforme , jusqu’à 30 cm de longueur, ou plus rarement portant jusqu’à 5 branches latérales longues de jusqu’à 5 cm ; axes souvent en zigzag avec plusieurs glomérules , lisses, chacun généralement avec nettement plus de 15 fleurs ; bractées sous-tendant les glomérules caducs, largement ovales à étroitement ovales, jusqu’à 2,5 × 1,5 cm, diminuant de taille vers le sommet, scarieuses ; bractées florales obscures. Fleur : pédicelle jusqu’à 4 mm, articulé jusqu’à 2 mm de la base ; périanthe 18–21 mm de longueur, à lobes aussi longs que le tube , réfléchis, blanc à crème avec des stries longitudinales rouge violacée à l’extérieur ; étamines insérées près de la gorge, jusqu’à 1 mm plus courtes que les lobes, filet blanc, anthère jusqu’à 1,5 mm de longueur, blanche ; ovaire oblong-ellipsoïde, jusqu’à 3 × 2 mm ; style exsert sur jusqu’à 3 mm, blanc, stigmate ± 1 mm de diamètre. Fruit sphérique à obloïde , ± 14 × 20 mm, entier à 2- ou 3-lobés, charnu, jaune vif à orange ; réceptacle jusqu’à 4 mm de longueur. Graine ellipsoïde, ± 11 × 8 mm, lisse.
+Pleomele glomerata (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Shrub up to 3.5 m tall; trunk generally simple. Leaves ± uniformly distributed, leaving the stem visible between the sheaths or cataphylls; sheath long, clasping the stem over clearly more than the circumference, for a length of < 1.5 cm; pseudopetiole shorter than the blade, up to 5 mm wide, slightly winged, grooved, green, base passing abruptly into the sheath; blade elliptic to broadly elliptic, up to 22 × 10 cm, base cuneate, apex cuspidate to mucronate reaching 2 mm, coriaceous, upper surface bright green, midvein furrowed, lower surface pale green, midvein prominent over more than ¾ of the length. Inflorescence erect or pendulous, in spiciform thyrse, up to 30 cm long, or more rarely bearing up to 5 lateral branches up to 5 cm long; axes often zigzag with several glomerules, smooth, each generally with clearly more than 15 flowers; bracts subtending the glomerules caducous, broadly ovate to narrowly ovate, up to 2.5 × 1.5 cm, decreasing in size towards the apex, scarious; floral bracts obscure. Flower: pedicel up to 4 mm, articulate up to 2 mm from the base; perianth 18–21 mm long, with lobes as long as the tube, reflexed, white to cream with red-purplish longitudinal striae on the outside; stamens inserted near the throat, up to 1 mm shorter than the lobes, filament white, anther up to 1.5 mm long, white; ovary oblong-ellipsoid, up to 3 × 2 mm; style exsert up to 3 mm, white, stigma ± 1 mm in diameter. Fruit spherical to obloid, ± 14 × 20 mm, entire to 2- or 3-lobed, fleshy, bright yellow to orange; receptacle up to 4 mm long. Seed ellipsoid, ± 11 × 8 mm, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo et République démocratique du Congo ; au Gabon, connu de l’Estuaire, du Moyen-Ogooué, de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Maritime et du Woleu-Ntem
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from the Estuary, Middle Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts primaires et secondaires, endroits humides ; au Gabon comme ailleurs à 5–500 m d’altitude. Floraison enregistrée en juillet, août et novembre
+understory of primary and secondary forests, humid places; in Gabon as elsewhere at 5–500 m altitude. Flowering recorded in July, August and November
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. soyauxiana , D. gabonica et D. buettneri représentent la même espèce, recueillie sur la même localité (environs de Sibang) et ne représentent que des différents stades de développement. B : Baker (1898), Damen et al. (2018). i B liographie
+D. soyauxiana, D. gabonica and D. buettneri represent the same species, collected from the same locality (vicinity of Sibang) and represent only different developmental stages. B: Baker (1898), Damen et al. (2018). Bibliography
 
 ## Notes
 

@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Ghana, Akwapim (fl.) Thonning 158 (holo-C, not found, cf. WICKENS, FTEA: 49 (1973); iso-G-DC).
 
-TYPE : Ghana, Akwapim (fl.) Thonning 158 (holo-C, non trouvé, cf. WICKENS, FTEA : 49 (1973) ; iso-G-DC).
-
-– C. smeathmannii G. Don, Trans. Linn. Soc. London 15 : 424 (1827) ; ANDREWS, AESudan : 204 (1950) ; KEAY, FWTA, ed. 2, 1(1) : 272 (1954) ; LIBEN, FZ : 59 (1968).
+– C. smeathmannii G. Don, Trans. Linn. Soc. London 15: 424 (1827); ANDREWS, AESudan: 204 (1950); KEAY, FWTA, ed. 2, 1(1): 272 (1954); LIBEN, FZ: 59 (1968).
 
 ## Type
 
@@ -29,31 +27,25 @@ Sierra Leone, Smeathmann s.n. & Afzelius s.n. (syn-BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liane ≤ 20 m and diameter ≤ 5 cm. Young branches reddish-brown, pubescent.
 
-Liane ≤ 20 m et diamètre ≤ 5 cm. Jeunes rameaux roux, pubescents.
+Leaves opposite; petiole ≤ 8 mm; limb obovate, ≤ 20 × ≤ 7 cm; major lateral veins 6–11 pairs, domatia barely visible; base of limb subcordate; apex shortly acuminate, mucronate.
 
-Feuilles opposées ; pétiole ≤ 8 mm ; limbe obové, ≤ 20 × ≤ 7 cm ; grandes nervures latérales 6-11 paires, domaties à peine visibles ; base du limbe subcordée ; sommet courtement acuminé, mucroné.
+Scales absent.
 
-Écailles absentes.
+Inflorescences: large terminal panicles or axillary with often rudimentary leaves; rachis ≤ 9 cm; bracts barely visible.
 
-Inflorescences : grandes panicules terminales ou axillées par des feuilles souvent rudimentaires ; rachis ≤ 9 cm ; bractées peu visibles.
+Flowers 4-merous, shortly stipitate, not protogynous, fragrant. Receptacle 4 mm high, greenish-brown, exterior covered with small glandular hairs and erect non-glandular hairs; upper receptacle campanulate, $ 2 \times 2 $ mm. Calyx; lobes barely visible. Petals long-stipitate, glabrous, white, margin ciliate with small glandular hairs. Stamens exserted 4–5 mm; filaments white; anthers 0.2–0.4 mm long, cream to pale brown. Disk glabrous, free margin narrow. Style exserted 4 mm, glabrous, white.
 
-Fleurs 4-mères, courtement stipitées, non protogynes, odorantes. Réceptacle haut de 4 mm, vert-brunâtre, extérieur recouvert de petits poils glanduleux et de poils dressés non glanduleux ; réceptacle supérieur campanulé,  $ 2 \times 2 $ mm. Calice ; lobes peu visibles. Pétales longuement stipitées, glabres, blancs, marge ciliée de petits poils glanduleux. Étamines exsertes de 4-5 mm ; filets blancs ; anthères longues de 0,2-0,4 mm, crème à brun pâle. Disque glabre, marge libre étroite. Style exsert de 4 mm, glabre, blanc.
-
-Fruit, profil obovale,  $ 1.5 \times 1.5 $ cm, ailes membraneuses, rougeâtres ; stipe  $ \leq 2 $ mm (Pl. 1 E, p. 11).
+Fruit, obovate in profile, $ 1.5 \times 1.5 $ cm, membranous wings, reddish; stipe $ \leq 2 $ mm (Pl. 1 E, p. 11).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Gambie au Soudan et de l'Ouganda au Gabon : le Nord du Gabon figurant la limite méridionale de son aire
+from Gambia to Sudan and from Uganda to Gabon: northern Gabon representing the southern limit of its range
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la forêt ombrophile secondaire à la savane : alt. ≤ 1200 m
+from secondary rainforest to savanna: alt. ≤ 1200 m
 
 ## Specimens examined
 

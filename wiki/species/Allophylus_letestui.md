@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The leaflets are glabrous on the upper surface except on the midrib and sometimes the lateral veins.
 
-Les folioles sont glabres à la face supérieure sauf sur les nervures médianes et parfois les latérales.
-
-Cymules très serrées, stipitées (2 mm); les pédicelles de 2-3 mm, articulés au tiers inférieur. Sépales à base brune et bords translucides non nerviés. PL. 2, 6-10, p. 31.
+Cymules very dense, stipitate (2 mm); pedicels 2–3 mm, articulate at the lower third. Sepals with brown base and translucent non-nerved margins. PL. 2, 6–10, p. 31.
 
 ## Type
 
@@ -33,9 +31,7 @@ Hallé N. 1697, Ayem, 10 km SW N'Djolé, pétioles 8-9 cm (bout., avr.). Le Test
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-A. mollis Radlk. des Andes (Pérou, Bolivie) présente une pilo-sité soyeuse comparable mais diffère par plusieurs caractères : pilosité légère sur les limbes; cymules à 4 fleurs et pédicelles de 1 mm; pétales à écaille barbue
+A. mollis Radlk. from the Andes (Peru, Bolivia) presents a silky pubescence that is comparable but differs in several characters: light pubescence on the blades; cymules with 4 flowers and pedicels of 1 mm; petals with bearded scale
 
 ## Figures
 

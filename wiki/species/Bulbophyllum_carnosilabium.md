@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+* Herbarium deposit locations reported differently by error in FCAM
 
-* Lieux de dépôts signalés différemment par erreur dans FCAM
+PL. 72. – Bulbophyllum calyptratum Kraenzl.: A, flower; B, C, labellum; D, upper part of dorsal sepal; E, petal; F, lateral sepal; G, upper part of gynostemium; H, general view (A-G, Zenker 2894, HBG; H, ex VERMEULEN, 1987).
 
-PL. 72. – Bulbophyllum calyptratum Kraenzl.: A, fleur ; B, C, labelle ; D, partie supérieure du sépale dorsal ; E, pétale ; F, sépale latéral ; G, partie supérieure du gynostème ; H, vue générale (A-G, Zenker 2894, HBG ; H, ex VERMEULEN, 1987).
-
-Pseudobulbes 3,7-7 × 0,8-1,8 cm, étroitement ovoïdes à cylindriques, 2-foliés. Feuille pétiolée ; 11-22,5 × 0,8-2,4 cm, linéaire-lancéolée à linéaire, obtuse. Inflorescence lâche, 10-40 cm, glabre, étroitement limbiforme, 8-34-flore. Fleurs petites, rougeâtres. Sépale dorsal obové-elliptique, acuminé, marges au-dessus du 1/3 basal nettement épaissies, avec quelques papilles ou des poils fins. Pétales glabres, obliquement oblongs-ovés, obtus, les latéraux triangulaires, un peu obliques, aigus, assez épais, papilles fines à la base. Labelle oblong-ové, obtus, épais, récurvé, glabre. - Pl. 73, p. 151.
+Pseudobulbs 3.7-7 × 0.8-1.8 cm, narrowly ovoid to cylindric, 2-leaved. Leaf petiolate; 11-22.5 × 0.8-2.4 cm, linear-lanceolate to linear, obtuse. Inflorescence lax, 10-40 cm, glabrous, narrowly ribbon-like, 8-34-flowered. Flowers small, reddish. Dorsal sepal obovate-elliptic, acuminate, margins above the basal 1/3 distinctly thickened, with some papillae or fine hairs. Petals glabrous, obliquely oblong-ovate, obtuse, the lateral ones triangular, somewhat oblique, acute, rather thick, fine papillae at the base. Labellum oblong-ovate, obtuse, thick, recurved, glabrous. - Pl. 73, p. 151.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 0-850 m. Forêt planitaire et collinéenne. Épiphyte
+alt. 0-850 m. Lowland and foothill forest. Epiphyte
 
 ## Specimens examined
 

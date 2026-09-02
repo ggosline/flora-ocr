@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pellegrin, Mém. Soc. Linn. Norm. 26 : 118 (1924.) — Amshoff, Acta Bot. Neerl. 7 : 56 (1958). — Walker et Sillans,
 
-Petit arbre ou arbrisseau, atteignant 3 m de hauteur. Rameaux glabres, écailleux. Feuilles pétiolées, elliptiques ou oblongues-elliptiques, aiguës à la base, obtusément acuminées au sommet, herbacées, de 12-17 cm de long et 5-7 cm de large, glabres. Nervure marginale parallèle à la marge à une distance de 3 mm environ. Pétiole court, robuste, d'environ 5 mm de long, devenant subéreux.
+Small tree or shrub, reaching 3 m in height. Branches glabrous, scaly. Leaves petiolate, elliptic or oblong-elliptic, acute at the base, obtusely acuminate at the apex, herbaceous, 12–17 cm long and 5–7 cm wide, glabrous. Marginal vein parallel to the margin at a distance of approximately 3 mm. Petiole short, robust, approximately 5 mm long, becoming subereous.
 
-Fleurs agglomérées, souvent roses. Sépales jusqu'à 3 mm de long. Pétales d'environ 5 mm de long. Ovaire glabre.
+Flowers agglomerate, often pink. Sepals up to 3 mm long. Petals approximately 5 mm long. Ovary glabrous.
 
-Fruit déprimé-subglobuleux. Embryon avec une courte fente latérale (toujours ?).
+Fruit depressed-subglobose. Embryo with a short lateral fissure (always ?).
 
 ## Type
 
@@ -38,11 +36,9 @@ Klaine 128 et 1224 (Gabon)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Kalbreyer 157, cited incorrectly by Engler l.c., is described further on as the type of a new species, E. Kalbreyeri Engl. (Bot. Jahrb. 54 (1957) p. 337); it is a species with pedicellate flowers.
 
-Kalbreyer 157, cité à tort par Engler l.c., est décrit plus loin comme type d'une espèce nouvelle, E. Kalbreyeri Engl. (Bot. Jahrb. 54 (1957) p. 337); c'est une espèce à fleurs pédicélées.
-
-Gabon, Mayombe congolais, Bas Congo, Cabinda.
+Gabon, Congolese Mayombe, Lower Congo, Cabinda.
 
 ## Specimens examined
 

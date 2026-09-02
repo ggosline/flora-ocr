@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - A. communis J.R. & G. Forster, Char. Gen. Pl.: 101 (1776).
 
 - A. incisus (THUNB.) L.F., Suppl. Pl. : 411 (1781).
 
-Arbres atteignant 35 m de hauteur. Feuilles spiralées, elliptiques, atteignant env. 50 cm de longueur et 20 cm de largeur, pinnatifides. Stipules longues de 10-25 cm, entièrement amplexicaules.
+Trees reaching 35 m in height. Leaves spirally arranged, elliptic, reaching c. 50 cm in length and 20 cm in width, pinnatifid. Stipules 10–25 cm long, entirely amplexicaul.
 
-Inflorescences à l'aisselle des feuilles, les mâles cylindriques à claviformes, longues de 10-30 cm ; les femelles ellipsoïdes à globuleuses, la partie supérieure des périanthes étant conique et pointue.
+Inflorescences in the axils of the leaves, the male ones cylindric to claviform, 10–30 cm long; the female ones ellipsoid to globose, the upper part of the perianths being conical and pointed.
 
-Infrutescences ellipsoïdes à globuleuses, de 15-30 cm de diamètre, couvertes par des excroissances pointues coniques (mais sans elles dans les formes dépourvues de graines). – Pl. 6, fig. 1-2, p. 23.
+Infructescences ellipsoid to globose, 15–30 cm in diameter, covered by conical pointed excrescences (but without them in the seed-less forms). – Pl. 6, fig. 1–2, p. 23.
 
 ## Figures
 

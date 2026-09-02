@@ -13,23 +13,21 @@ tags: [species, generated]
 
 **Genus**: [[Enantia]]
 **Family**: [[Annonaceae]]
-**Protologue**: Bull.Jard.Bot.Etat Brux.9 ：3i5 (1933)．- Pellegrin，Bull. Soc.Bot.Fr.95:14I (1948).-Le Thomas,Adansonia,ser.2,2:3o4 (1962)
+**Protologue**: Bull.Jard.Bot.Etat Brux.9 :3i5 (1933).- Pellegrin,Bull. Soc.Bot.Fr.95:14I (1948).-Le Thomas,Adansonia,ser.2,2:3o4 (1962)
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL.57, p.311)
 
-．- Pellegrin，Bull. Soc.Bot.Fr.95:14I (1948).-Le Thomas,Adansonia,ser.2,2:3o4 (1962).
+.— Pellegrin, Bull. Soc. Bot. Fr. 95:141 (1948).— Le Thomas, Adansonia, ser. 2, 2:304 (1962).
 
-Arbre ä rameaux noiratres glabres; ramilles brun noiratre, soyeuses blond roux. Entrenoeuds longs de o,5-1,6 cm. Feuilles ä pétiole long de 3 mm，pubérulent blond roux á poils étoilés et fasciculés; limbe subcoriace, elliptique-oblong,long de 11-15 cm, large de 3,5-4,5 cm,subarrondi a subcunéiforme â la base,aigu au sommet；face supérieure gris vert，glabre,face inférieure brun roux, pubescente a poils étoiles blond roux, entremélés de quelques poils simples ou géminés. Nervures latérales 7-8 paires, a peine visibles au-dessus, proeminentes en dessous.
+Tree with blackish glabrous branchlets; twigs dark brown, silky with blonde-reddish hairs. Internodes 0.5–1.6 cm long. Leaves with petiole 3 mm long, puberulent with blonde-reddish stellate and fasciculate hairs; blade subcoriaceous, elliptic-oblong, 11–15 cm long, 3.5–4.5 cm wide, subrounded to subcuneate at base, acute at apex; upper surface grey-green, glabrous; lower surface brown-reddish, pubescent with blonde-reddish stellate hairs, interspersed with a few simple or geminate hairs. Lateral nerves 7–8 pairs, scarcely visible above, prominent below.
 
-Fleurs á pédicelle épais, long de 7-1o mm, s'élargissant vers le sommet， pubescent blond. Bracteoles 2, foliacees, lancéolées, longues de 4-6 (1o) mm, persistantes, a pubescence étoilee, éparse, jaunatre sur les deux faces. Bouton floral pyramidal aigu, pubescent-apprimé á poils courts,blond cendré. Sépales épais,triangulaires-aigus, longs de 7-8 mm， larges de 5-6 mm， trincrvcs a Pextérieur， pubescents blonds. Pétales triangulaires，longs de 7 mm,concaves a la base.Fleur trop jeune pour l'examen du pistil et du gynécée.
+Flowers with thick pedicel, 7–10 mm long, widening toward apex, blonde pubescent. Bracteoles 2, foliaceous, lanceolate, 4–6 (10) mm long, persistent, with sparse stellate pubescence, yellowish on both faces. Floral bud pyramidal acute, appressed-pubescent with short blonde ash-coloured hairs. Sepals thick, triangular-acute, 7–8 mm long, 5–6 mm wide, trinerved on the exterior, blonde pubescent. Petals triangular, 7 mm long, concave at base. Flower too young for examination of pistil and gynoecium.
 
-Fruits á pédicelle long de I2 mm，pubescent blond roux,a bractéoles persistantes；méricarpes 7-8 （1o） oblongs,longs de 2,5 cm, larges de 1,2 cm,brun-noiratre,glabres et lisses,se detachant du sommet du stipe par une articulation circulaire de 2,5 mm de diametre; stipes longs de 1,5 cm,brun foncé,tres éparsement pubérulents,cylindriques,ä peine élargis vers le sommet.
+Fruits with pedicel 12 mm long, blonde-reddish pubescent, with persistent bracteoles; mericarps 7–8 (10) oblong, 2.5 cm long, 1.2 cm wide, dark brown-blackish, glabrous and smooth, detaching from apex of stipe by a circular articulation 2.5 mm in diameter; stipes 1.5 cm long, dark brown, very sparsely puberulent, cylindrical, scarcely widened toward apex.
 
-Typc et seul matériel étudié : Sargos I93,Kouilou inféricur,Congo-Brazzaville (holotype P!).
+Type and only material studied: Sargos 193, Lower Kouilou, Congo-Brazzaville (holotype P!).
 
 ## Vernacular names
 
@@ -37,9 +35,7 @@ Muamba benki
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Actuellement connue de la seule localité type,cette espece pourrait étre recherchée dans toute la région du Mayombe. Elle est tres voisine des trois especes extrémement affines du Congo-Kinshasa : E.atrocyanescens Rob.et Ghesq.，E. olivacea Rob.et Ghesq.,et E.ambigua Rob.et Ghesq. qu'il y aura peut-étre lieu de réunir lorsque le matériel récolté sera plus abondant.E.kwiluensis se distingue cependant de ces trois especes par ses bractcoles foliacées,plus grandes et persistantes,et le nombre de ses méricarpes deux fois moins éleve.
+Currently known from the type locality only, this species could be sought throughout the entire Mayombe region. It is very close to the three extremely related species from Congo-Kinshasa: E. atrocyanescens Rob. et Ghesq., E. olivacea Rob. et Ghesq., and E. ambigua Rob. et Ghesq., which may perhaps need to be united when more collected material becomes available. E. kwiluensis is nevertheless distinguished from these three species by its foliaceous bracteoles, larger and persistent, and the number of its mericarps half as numerous.
 
 ## Notes
 

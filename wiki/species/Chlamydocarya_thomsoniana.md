@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. rostrata Bullock, Kew Bull. : 469 (1933).
 
-— “C. sp.”, GERMAIN & EVRARD, Publ. I.N.E.A.C., sér. scient. 67 : 65, 98 (1956).
+— "C. sp.", GERMAIN & EVRARD, Publ. I.N.E.A.C., sér. scient. 67 : 65, 98 (1956).
 
-Liane dioïque à tige profondément côtelée, hirsute ou glabre. Pétiole torsadé, pubescent strié longitudinalement, long de 3,5 cm. Limbe éparsement pubescent dessus, densément pubescent ou glabrescent dessous, marron vert ou gris vert à la face supérieure, vert jaunâtre à la face inférieure, largement elliptique ou blancéolé, 15-28 × 7-15 cm; base cunéiforme rétrécie ou arrondie, sommet acuminé aigu ou aigu. Nervure médiane ± saillante dessus, saillante pubescente dessous. Nervures secondaires 7-8 paires, ascendantes, arquées, s'anastomosant à 3-4 mm du bord du limbe, saillantes sur les deux faces, ± pubescentes dessous. Nervilles en réseau dense, la plus grande partie scalariforme, ± saillantes dessus, saillantes dessous. Hydathodes présents, terminant les nervures secondaires sur les bords du limbe, pubescents, dressés.
+Dioecious liane with stem deeply ridged, hirsute or glabrous. Petiole twisted, pubescent with longitudinal striae, 3.5 cm long. Blade sparsely pubescent above, densely pubescent or glabrescent below, brownish green or greyish green on the upper face, yellowish green on the lower face, broadly elliptic or lanceolate, 15–28 × 7–15 cm; base cuneate narrowed or rounded, apex acute acuminate or acute. Midrib ± prominent above, prominent pubescent below. Secondary veins 7–8 pairs, ascending, arched, anastomosing 3–4 mm from the blade margin, prominent on both faces, ± pubescent below. Tertiary veins in dense network, the majority scalariform, ± prominent above, prominent below. Hydathodes present, terminating the secondary veins on the blade margins, pubescent, erect.
 
-Inflorescence ♂ en épi axillaire solitaire ou en fascicule de 2 épis, long de 3-6 cm. Fleur ♂ tétramère, sessile. Pétales libres, pubescents extérieurement glabres intérieurement, elliptiques, longs de 2 mm. Étamines libres; filet long de 1,5 mm; anthère à 2 loges ellipsoïdes. Pistil réduit par avortement. Inflorescence ♀ en épi axillaire solitaire. Fleur ♀ tétramère, sessile. Pétales libres, pubescents extérieurement, glabres intérieurement, elliptiques ou blancéolés. Staminodes 4 alternipétales, longs de 0,5-0,75 mm, linéaires, obtus. Ovaire glabre sauf au sommet garni d'une touffe de poils dressés. Style court et épais pubescent, entouré par le sommet cupulaire de l'ovaire, se terminant par un stigmate en plateau digité.
+Male inflorescence as a solitary axillary spike or as a fascicle of 2 spikes, 3–6 cm long. Male flower tetramerous, sessile. Petals free, pubescent externally glabrous internally, elliptic, 2 mm long. Stamens free; filament 1.5 mm long; anther with 2 ellipsoid locules. Pistil reduced by abortion. Female inflorescence as a solitary axillary spike. Female flower tetramerous, sessile. Petals free, pubescent externally, glabrous internally, elliptic or lanceolate. Staminodes 4 alternipetalous, 0.5–0.75 mm long, linear, obtuse. Ovary glabrous except at the apex furnished with a tuft of erect hairs. Style short and thick pubescent, surrounded by the cupular apex of the ovary, terminating in a digitate plateau stigma.
 
-Infrutescence en sphère étoilée. Drupe entourée par le sommet de l'ovaire accrescent, en forme de calotte conique faiblement côtelée se terminant en tubule allongé; pubescent sur les deux faces. Restes du style pubescent au sommet de la drupe. Pointes obtuses à la face interne de l'endocarpe ligneux. Graine solitaire. PL. 25, p. 97.
+Infructescence a star-shaped sphere. Drupe surrounded by the accrescent ovary apex, in the form of a weakly ridged conical cap terminating in an elongate tubule; pubescent on both faces. Remains of the style pubescent at the drupe apex. Obtuse points on the inner face of the woody endocarp. Seed solitary. PL. 25, p. 97.
 
 ## Type
 
@@ -35,9 +33,7 @@ W. C. Thomson s. n., Old Calabar, Nigeria (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-On trouve cette plante dans les forêts primaires et secondaires. Son aire s’étend de la Sierra Leone au Zaïre.
+This plant is found in primary and secondary forests. Its range extends from Sierra Leone to Zaire.
 
 ## Specimens examined
 

@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-PL. 71. – Bulbophyllum subligaculiferum J. J. Verm.: A, vue générale ; B, pièces florales ; C, labelle ; D, labelle et gynostème, vue latérale ; E, partie inférieure du labelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
+PL. 71. – Bulbophyllum subligaculiferum J. J. Verm.: A, general view; B, floral parts; C, labellum; D, labellum and gynosteme, lateral view; E, lower part of labellum, lateral view; F, anther; G, pollinia (A-G, ex VERMEULEN, 1987).
 
 – Megaclinium lindleyi Rolfe, FTA 7 : 43 (1897).
 
@@ -29,33 +27,29 @@ PL. 71. – Bulbophyllum subligaculiferum J. J. Verm.: A, vue générale ; B, pi
 
 – Bulbophyllum buchenavianum (Kraenzl.) De Wild., Pl. Bequeart. 1 : 106 (1921).
 
-Pseudobulbes 1,8-6 × 0,7-2 cm, ovoïdes à ellipsoïdaux, 2-foliés. Feuilles pétiolées, 7,2-20 × 5-1,6 cm, linéaires-lancéolées à linéaires, obtuses. Inflorescence 22-47 cm, rachis glabre, élargi à aplati souvent limbiforme ou parfois subcylindrique, 8-50-flore. Fleurs petites. Sépale dorsal blanchâtre ou verdâtre, légèrement ponctué ou teinté de rouge, glabre, spatulé à obové, arrondi avec un épaississement net jaune ou brun-nâtre le long des marges au-dessus du 1/3 ou 1/2 basal ; sépales latéraux à partie inférieure transversalement elliptique, concave, partie apicale obliquement triangulaire, aiguë. Pétales blancs, ovés-oblongs à ovés-lancéolés, obtus à subulés. Labelle blanc à rouge avec ou sans taches ou points rouges, oblong-ové, falciforme, sommet arrondi, épais, glabre, récurvé. - Pl. 72, p. 149.
+Pseudobulbs 1.8–6 × 0.7–2 cm, ovoid to ellipsoid, 2-leaved. Leaves petiolate, 7.2–20 × 5–1.6 cm, linear-lanceolate to linear, obtuse. Inflorescence 22–47 cm, rachis glabrous, widened to flattened often limbiform or sometimes subcylindric, 8–50-flowered. Flowers small. Dorsal sepal whitish or greenish, slightly punctate or tinged red, glabrous, spatulate to obovate, rounded with a marked thickening yellow or brownish along the margins above the basal 1/3 or 1/2; lateral sepals with lower part transversely elliptic, concave, apical part obliquely triangular, acute. Petals white, ovate-oblong to ovate-lanceolate, obtuse to subulate. Labellum white to red with or without red spots or dots, oblong-ovate, falcate, apex rounded, thick, glabrous, recurved. - Pl. 72, p. 149.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée au Cameroun, Guinée équatoriale, Gabon, Congo (Brazzaville), Congo (Kinshasa)
+from Guinea to Cameroon, Equatorial Guinea, Gabon, Congo (Brazzaville), Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1100 m. Epiphyte in lowland rainforest, semi-deciduous and submontane forest, mangrove, primary and old secondary forest, cacao plantation
 
-alt. 0-1100 m. Épiphyte en forêt de basse altitude ombrophile, semi-décide et forêt submontagnarde, mangrove, forêt primaire et secondaire ancienne, plantation de cacao
+MATERIAL STUDIED (Map 25):
 
-MATÉRIEL ÉTUDIÉ (Carte 25) :
+de Wilde s.n., eastern part of the Wonga-Wongué Presidential Reserve, 100 km S of Libreville, forest above the locally called "Big Bambam" circle, cult. WAG (83-416) (non vidi); s.n., km 70 along the Ntoum-Akok-Cocobeach road and 1 km in the eastern direction, cult. WAG (83-417), (non vidi).
 
-de Wilde s.n., partie Est de la Réserve présidentielle de Wonga-Wongué, à 100 km au S de Libreville, à forêt au-dessus du cercle localement dit Big Bambam", cult. WAG (83-416) (non vidi) ; s.n., km 70 le long de la route de Ntoum-Akok-Cocobeach et 1 km en direction de l'Est, cult. WAG (83-417), (non vidi).
+de Wilde, Arends, Louis, Bouman & Karper 938, km 70 Ntoum-Akok-Cocobeach road (fl., March), WAG!, LBV.
 
-de Wilde, Arends, Louis, Bouman & Karper 938, km 70 route de Ntoum-Akok-Cocobeach (fl., Mars), WAG!, LBV.
-
-Hallé & Villiers 5419, Monts de Cristal, Riv. Balakabo (fl., Fév.), P!.
+Hallé & Villiers 5419, Cristal Mountains, Balakabo River (fl., Feb.), P!.
 
 Kwab 936 & s.n., s.loc., cult. Wageningen Univ. (83-418), WAG!.
 
-Le Testu 5406, Chutes de la Mboumi à Mbigou (fl., Avr.), BR!, P! ; 8950, bords de la Liboumba à Kemboma (fl., Oct.), BR!, P!.
+Le Testu 5406, Mboumi Falls at Mbigou (fl., Apr.), BR!, P!; 8950, banks of the Liboumba at Kemboma (fl., Oct.), BR!, P!.
 
-Wieringa 689, Woleu-Ntem, Monts de Cristal, 2 km au SE de Tchimbélé, 10° 25' E, 0° 36' N (fl., Mars), WAG!, LBV.
+Wieringa 689, Woleu-Ntem, Cristal Mountains, 2 km SE of Tchimbélé, 10° 25' E, 0° 36' N (fl., March), WAG!, LBV.
 
 ## Figures
 

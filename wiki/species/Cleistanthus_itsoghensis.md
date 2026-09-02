@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mém. Soc . Linn. Normandie , Bot. 1(2) : 60, fig. 11 (1928). Arbre jusqu’à 15 m de hauteur ; tronc jusqu’à 22 cm de diamètre ; ramilles glabres . Stipules tôt caduques, non vues. Feuille glabre : pétiole (5–)7–11 mm ; limbe elliptique, (4–)8–10(–13) × (2–)3–5(–7) cm, arrondi à cunéé à la base, sommet acuminé sur (0,5– )1–1,5(–2) cm, coriace ; nervures latérales 3–4 paires . Inflorescence bisexuée, racémi forme , 1–2,5 cm de longueur, tomentelleuse, à 1–15 fleurs ; bractées ovales, 2–2,5 mm de longueur. Fleur mâle 5–6-mère ; pédicelle 6–8 mm ; sépales oblongs–triangulaires, 7 × 2 mm, tomenteux à l’extérieur ; pétales ± elliptiques, environ 1 mm de longueur ; étamines 6–9, environ 5 mm de longueur, anthères 2 mm de longueur ; androgynophore 2 mm ; disque tomenteux à velu. Fleur femelle 5–6-mère ; pédicelle 2–5 mm ; sépales comme chez la fleur mâle, les pétales un peu plus longs ; disque aplati et apprimé contre l’ovaire, glabre à l’extérieur, pubescent à l’intérieur ; pistil 4–5 mm de longueur, ovaire 3 mm de longueur, tomenteux ; styles très découpés. Fruit déprimé-globuleux, légère ment 6-gone , 14–16 × 18–22 mm, ± lisse à plissé ou à nervures proéminentes, pubéru lent . Graines ovoïdes, légèrement aplaties, environ 1 cm de longueur, lisses, luisantes, brunes.
+Mem. Soc. Linn. Normandie, Bot. 1(2): 60, fig. 11 (1928). Tree up to 15 m tall; trunk up to 22 cm in diameter; branchlets glabrous. Stipules early caducous, not seen. Leaf glabrous: petiole (5–)7–11 mm; blade elliptic, (4–)8–10(–13) × (2–)3–5(–7) cm, rounded to cuneate at base, apex acuminate over (0.5–)1–1.5(–2) cm, coriaceous; lateral nerves 3–4 pairs. Inflorescence bisexual, racemiform, 1–2.5 cm long, tomentellous, with 1–15 flowers; bracts oval, 2–2.5 mm long. Male flower 5–6-merous; pedicel 6–8 mm; sepals oblong-triangular, 7 × 2 mm, tomentose outside; petals ± elliptic, ca. 1 mm long; stamens 6–9, ca. 5 mm long, anthers 2 mm long; androgynophore 2 mm; disc tomentose to villous. Female flower 5–6-merous; pedicel 2–5 mm; sepals as in male flower, petals somewhat longer; disc flattened and appressed against ovary, glabrous outside, pubescent inside; pistil 4–5 mm long, ovary 3 mm long, tomentose; styles very divided. Fruit depressed-globose, slightly 6-angled, 14–16 × 18–22 mm, ± smooth to wrinkled or with prominent nerves, puberulent. Seeds ovoid, slightly flattened, ca. 1 cm long, smooth, shiny, brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée Équatoriale, Gabon et République Démocratique du Congo ; au Gabon, dans les provinces du Moyen Ogooué, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+Equatorial Guinea, Gabon and Democratic Republic of Congo; in Gabon, in the provinces of Moyen Ogooué, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 150–300 m d’altitude
+Primary and secondarized forest; in Gabon, at 150–300 m altitude
 
 ## Vernacular names
 

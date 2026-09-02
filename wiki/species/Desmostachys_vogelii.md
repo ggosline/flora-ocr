@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Johnson, Liberia 2 : 587 (1906). — Chevalier, Expl. Bot. Afr. occ. : 126 (1920). — Keay, FWTA ed. 2, 1 : 639 (1958).
 
 — Sarcostigma vogelii Miers, Ann. et Mag. Nat. Hist. 10 : 117 (1852).
 
-Arbuste haut de 3 m. Tige très courtement pubescente à écorce marron très fortement striée longitudinalement. Pétiole long de 0,1-1,3 cm, pubescent, ridé dessus et strié dessous. Limbe glabre à la face supérieure et glabre ou glabrescent à la face inférieure, vert pâle dessus, vert marron dessous, oblong, elliptique ou blancéolé, 13-30 × 4,5-13 cm, atténué ou cunéi-forme à la base, acuminé aigu au sommet. Nervure médiane saillante à la face supérieure, éparsement pubescente à glabrescente, striée à la face inférieure. Nervures secondaires 7-9 paires, ascendantes, arquées, s'anastom-sant à 0,5-3 mm du bord du limbe, saillantes sur les deux faces. Nervilles en réseau dense obscurément saillant dessus, saillant dessous.
+Shrub up to 3 m tall. Stem very shortly pubescent with bark brown, very strongly striate longitudinally. Petiole 0.1–1.3 cm long, pubescent, wrinkled above and striate below. Blade glabrous on the upper surface and glabrous or glabrescent on the lower surface, pale green above, brown-green below, oblong, elliptic or lanceolate, 13–30 × 4.5–13 cm, attenuate or cuneate at the base, acute acuminate at the apex. Midvein prominent on the upper surface, sparsely pubescent to glabrescent, striate on the lower surface. Secondary nerves 7–9 pairs, ascending, arcuate, anastomosing 0.5–3 mm from the margin of the blade, prominent on both surfaces. Tertiary nerves in dense reticulum obscurely prominent above, prominent below.
 
-Inflorescence en épï multiflore long de 22-37 cm, dépassant la feuille, supra-axillaire. Fleurs groupées sur deux rangs opposés, sur les faces étroites du rachis inflorescentiel pubescent. Fleurs ¥, 8 × 2 mm, pentamères, blanches. Sépales alternipétales soudés, largement pubescents extérieurement et glabres intérieurement, étroitement lancéolés, 3,5 × 1 mm; sommet aigu. Pétales soudés, largement pubescents extérieurement, éparsemment pubescents intérieurement (poils globuleux au sommet), étroitement lancéolés; sommet aigu. Étamines 5 ± longuement soudées aux pétales par le filet, longues de 1,2 cm; filet grêle; anthère à 2 loges basifixes, ellipsoïdes. Pistil long de 1,65 mm; ovaire pubescent, ovoïde; style long et grêle ± pubescent se terminant par un stigmate capité. Disque présent à la base du pistil.
+Inflorescence a multiflorous spike 22–37 cm long, exceeding the leaf, supra-axillary. Flowers grouped in two opposite ranks on the narrow faces of the pubescent inflorescence rachis. Flowers ¥, 8 × 2 mm, pentamerous, white. Sepals alternipetalous, connate, broadly pubescent externally and glabrous internally, narrowly lanceolate, 3.5 × 1 mm; apex acute. Petals connate, broadly pubescent externally, sparsely pubescent internally (hairs globular at the apex), narrowly lanceolate; apex acute. Stamens 5, ± elongate, connate to the petals by the filament, 1.2 cm long; filament slender; anther with 2 basifixed lobes, ellipsoid. Pistil 1.65 mm long; ovary pubescent, ovoid; style long and slender, ± pubescent, terminating in a capitate stigma. Disk present at the base of the pistil.
 
-Drupe ellipsoïde orangée, longue de 2 cm. Embryon presque aussi long que la graine. PL. 10, 1-10, p. 45.
+Drupe ellipsoid, orange, 2 cm long. Embryo nearly as long as the seed. PL. 10, 1–10, p. 45.
 
 ## Type
 
@@ -34,9 +32,7 @@ Vogel 25, 27, 68, Cape Palmas, Liberia, fr
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'aire de cette espèce s'étend du Liberia au Gabon.
+The range of this species extends from Liberia to Gabon.
 
 ## Vernacular names
 
@@ -44,9 +40,7 @@ efloug komba (yaoundé)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Cameroun, les feuilles chauffées et appliquées sur les plaies et les abcès les cicatriseraient et les guériraient
+In Cameroon, the leaves when heated and applied to wounds and abscesses are said to cicatrize and heal them.
 
 ## Specimens examined
 

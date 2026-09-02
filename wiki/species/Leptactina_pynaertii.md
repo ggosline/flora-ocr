@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Slender shrub 0.5–2.5 m tall. Branchlets glabrescents. Terminal buds ± covered with waxy matter. Stipules 8–11 × 4–7 mm, triangular-ovate with prominent axis. Petiole 7–30 mm, glabrescents. Blade olivaceous when dry, somewhat shiny, glabrous, elliptic (7) 10–22 × 3.5–8 (10) cm, acute at base, acuminate-sublanceolate at apex. 10–15 pairs of secondary veins moderately ascending, pubescent below at juvenile stage then ± glabrescents. Axillary domatia pilose.
 
-Arbrisseau grêle de 0,5 à 2,5 m de hauteur. Rameaux glabrescents. Bourgeons terminaux ± englués de matière cireuse. Stipules de 8-11 × 4-7 mm, triangulaires-ovées à axe saillant. Pétiole de 7-30 mm, glabrescent. Limbe olivâtre à sec, un peu luisant, glabre, elliptique de (7) 10-22 × 3,5-8 (10) cm, à base aiguë, à sommet acuminé sublancéolé. 10-15 paires de nervures secondaires médiocrement ascendantes, pubescentes dessous au stade juvénile puis ± glabrescentes. Domaties axillaires pileuses.
+Terminal inflorescences pauciflorous, most often of 3 or 5 flowers. Pedicel 3–10 mm. Calyx bright green, glabrous, oblong-conic, with 5 subfalcate erect lobes 15–25 (30) × 5–7.5 mm. Corolla very fragrant, white, 6.5 cm in diameter; tube rather short, 25–35 (40) × 3–4 mm, very finely pubescent. 5 (6) lobes 21–32 × 8–12 mm, ovate-lanceolate, glabrous above, imbricate contorted at base. Anthers 9 × 1.1 mm, sessile, attached at upper third, with acute connective prominent above the locules for 1 mm. Pollen white. Style glabrous in lower half, pubescent at level of anthers. Stigma 9.5 mm with 2 green juxtaposed lobes exceeding the throat by ca. 3–5 mm. Disc 2 mm in diameter and 0.7 mm in height. Ovary 5–9 × 3 mm with 2 locules. Placentas narrowly oblong. Ovules very numerous sunken three-quarters into placental tissue.
 
-Inflorescences terminales pauciflores, le plus souvent de 3 ou 5 fleurs. Pédicelle de 3-10 mm. Calice vert brillant, glabre, oblong-conique, à 5 lobes subfalciformes dressés de 15-25 (30) × 5-7,5 mm. Corolle très parfumée, blanche, de 6,5 cm de diam.; tube plutôt court, de 25-35 (40) × 3-4 mm, très finement pubescent. 5 (6) lobes de 21-32 × 8-12 mm, ovés lancéolés, glabres dessus, imbriqués contortés à la base. Anthères de 9 × 1,1 mm, sessiles, fixées au tiers supérieur, à connectif aigu saillant au-dessus des loges sur 1 mm. Pollen blanc. Style glabre dans sa moitié inférieure, pubescent au niveau des anthères. Stigmate de 9,5 mm à 2 lobes verts juxtaposés dépassant la gorge d'env. 3-5 mm. Disque de 2 mm de diam. et 0,7 mm de hauteur. Ovaire de 5-9 × 3 mm à 2 loges. Placentas étroitement oblongs. Ovules très nombreux enfoncés aux trois quarts dans le tissu placentaire.
-
-Fruit glabre de  $ 33 \times 10 $ mm, oblong-conique, vert et lisse, à sépales persistantes subérigés, à paroi noire à sec avec de fines rides longitudinales. Masses séminifères atteignant  $ 32 \times 8 $ mm; surface placentaire dechiquetée après élimination des graines. Graine ovoïde, brillante, longue de près de  $ 2 $ mm.
+Fruit glabrous $ 33 \times 10 $ mm, oblong-conic, green and smooth, with persistent subereect sepals, with black wall when dry bearing fine longitudinal wrinkles. Seed masses reaching $ 32 \times 8 $ mm; placental surface tattered after seed removal. Seed ovoid, shiny, nearly $ 2 $ mm long.
 
 ## Type
 
@@ -31,11 +29,9 @@ L. Pynaert 916, Eala, Congo (BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+A very closely related species and possibly identical, L. Tessmannii K. Krause (Bot. Jahrb. 48: 409, 1912) was described from the Cocobeach region (Corisco Bay, Tessmann 738, fl. Dec. 1908). Its flowers are somewhat more developed: corolla tube 4 cm and lobes 3.5 × 1.4 cm.
 
-Une espèce très voisine et peut être identique, L. Tessmannii K. Krause (Bot. Jahrb. 48 : 409, 1912) a été décrite de la région de Cocobeach (baie de Corisco, Tessmann 738, fl. déc. 1908). Ses fleurs sont un peu plus développées : tube de la corolle de 4 cm et lobes de 3,5 × 1,4 cm.
-
-Cameroun, Gabon, Centrafrique et Congo. Lisières et recrus forestiers.
+Cameroon, Gabon, Central African Republic and Congo. Forest margins and secondary growth.
 
 ## Specimens examined
 

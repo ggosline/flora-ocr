@@ -15,23 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Solenostemon mannii (Hook.f.) Baker in Dyer, Fl. trop. Afr. 5 : 422 (1900). Plectranthus occidentalis B.J.Pollard, Kew Bull. 60 : 146 (2005). Herbe pérenne, de 0,5–3(–5) m de hauteur ; tige ascendante ou sarmenteuse, parfois ram pante à la base, parfois faiblement ailée, parfois nettement marquée de pourpre, à pubescence ± éparse à poils non glanduleux dirigés vers le bas et souvent aussi étalés, et à glandes sessiles rouges. Feuille : pétiole 20–60(–120) mm ; limbe ovale, de 6–14 × 3–10 cm, largement cunéé à subcordé à la base, mais atténué sur le pétiole, acuminé à l’apex, crénelé à serré, parfois marqué de pourpre, pubescent ou éparsement pubescent et à glandes sessiles rougeâtre sur la face inférieure. Inflorescence généralement lâche, à verticillastres distants de 10–20 mm ; cymes sessiles ou rarement subsessiles, avec 5 à 10 fleurs, parfois avec des axes courts laté raux, atteignant 5 mm de longueur ; bractées dressées dessus, légèrement cucullées, longues de 5–10 mm. Fleur : pédicelle 5–10 mm ; calice long de 2–3 mm et de 4–6 mm en fruit , violacé, pubescent, à glandes sessiles rouges, tube légèrement resserré à la gorge, légèrement courbé, gorge tronquée, lèvre supérieure largement elliptique, aiguë à arrondie à l’apex, non ou peu décurrente, lobes latéraux étroitement triangulaires , dents inférieures soudées , largement elliptiques, émarginées ou à 2 dents longues de < 0,5 mm , fortement dirigées vers le haut et fermant la gorge en fruit ; corolle longue de 10–16 mm, bleu pourpre ou violette, pubescente sur les lobes, à glandes rouges sessiles, tube sigmoïde, long de 4–7 mm, lèvre supérieure dressée ou réfléchie, l’inférieure longue de 6–12 mm, cucullée et entourant
-
-les étamines ; étamines à filets fusionnés. Fruit : akènes largement ovoïdes, longs de 1 mm, bruns, mouchetés de rougeâtre.
+Solenostemon mannii (Hook.f.) Baker in Dyer, Fl. trop. Afr. 5 : 422 (1900). Plectranthus occidentalis B.J.Pollard, Kew Bull. 60 : 146 (2005). Perennial herb, 0.5–3(–5) m tall; stem ascending or sarmentose, sometimes creeping at the base, sometimes weakly winged, sometimes distinctly marked with purple, with ± sparse pubescence of downward-pointing non-glandular hairs and often also spreading, and with red sessile glands. Leaf: petiole 20–60(–120) mm; blade ovate, 6–14 × 3–10 cm, broadly cuneate to subcordate at the base, but attenuate on the petiole, acuminate at the apex, crenate to serrate, sometimes marked with purple, pubescent or sparsely pubescent and with reddish sessile glands on the lower surface. Inflorescence generally lax, with verticillasters distant 10–20 mm; cymes sessile or rarely subsessile, with 5 to 10 flowers, sometimes with short lateral axes, reaching 5 mm in length; bracts erect above, slightly cucullate, 5–10 mm long. Flower: pedicel 5–10 mm; calyx 2–3 mm long and 4–6 mm in fruit, violaceous, pubescent, with red sessile glands, tube slightly constricted at the throat, slightly curved, throat truncate, upper lip broadly elliptic, acute to rounded at the apex, not or slightly decurrent, lateral lobes narrowly triangular, lower teeth fused, broadly elliptic, emarginate or with 2 teeth < 0.5 mm long, strongly directed upward and closing the throat in fruit; corolla 10–16 mm long, blue-purple or violet, pubescent on the lobes, with red sessile glands, tube sigmoid, 4–7 mm long, upper lip erect or reflexed, the lower lip 6–12 mm long, cucullate and surrounding the stamens; stamens with filaments fused. Fruit: broadly ovoid achenes, 1 mm long, brown, speckled with reddish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandu en Afrique occidentale et centrale, y compris le Nigéria, le Cameroun, la Guinée équatoriale, le Gabon et la République démocratique du Congo ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo et Woleu-Ntem,
+widely distributed in West and Central Africa, including Nigeria, Cameroon, Equatorial Guinea, Gabon and the Democratic Republic of the Congo; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo and Woleu-Ntem,
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-milieux ouverts et bords de routes en forêt primaire ou secondaire ; au Gabon à 50–900 m d’altitude, jusqu’à 1600 m ailleurs. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC). B : Arbonnier (2019), Morales (2011), Morton (1963), Pollard (2005). i B liographie
+open habitats and roadsides in primary or secondary forest; in Gabon at 50–900 m altitude, up to 1600 m elsewhere. Conservation status: Widely distributed; probably Least Concern (LC). B : Arbonnier (2019), Morales (2011), Morton (1963), Pollard (2005). i Bibliography
 
 ## Notes
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb ± decumbent, most often very elongated and little branched toward the extremities. Internodes cylindric in vivo, glabrous, smooth or microscopically scabrous, approximately 2–5 cm long. Stipules truncate surmounted by a bifid appendage (most frequent case), short and laminate to attenuate, ± refracted. Leaf narrowly lanceolate with microscopically scabrous margins, greyish when dry, 15–45 × 1.5–6 mm, with acute extremities.
 
-Herbe ± couchée, le plus souvent très allongée et peu ramifiée vers les extrémités. Entrenœuds cylindriques in vivo, glabres, lisses ou microscabres, longs d'env. 2-5 cm. Stipules tronquées surmontées par un appendice bifide (cas le plus fréquent), court et laminé à effilé, ± réfracté. Feuille étroitement lancéolée à marges microscabres, grisâtre à sec, de 15-45 × 1,5-6 mm, à extrémités aiguës.
+Flowers axillary, 1(2) per axil. Pedicel 8–18 mm, slender smooth or microscopically scabrous. Corolla white or pinkish with tube shorter than the calycine lobes and approximately equal to the petaline lobes. Stamens exsert with filament as long as the anther. Style glabrous; no heterostyly (according to F. Hallé).
 
-Fleurs axillaires, 1(2) par aisselle. Pédicelle de 8-18 mm, grêle lisse ou microscabre. Corolle blanche ou rosée à tube plus court que les lobes calycinaux et à peu près égal aux lobes pétalaires. Étamines exsertes à filet aussi long que l'anthère. Style glabre; pas d'hétérostylie (d'après F. Hallé).
-
-Fruit de 3-4 mm de large, pour une longueur à peu près égale. Graine brunâtre, anguleuse de 0,4 mm.
+Fruit 3–4 mm wide, for a length approximately equal. Seed brownish, angular, 0.4 mm.
 
 ## Type
 
@@ -35,9 +33,7 @@ Schumacher s. n. (C. S., non vus), vallée de l'Aquapin, Ghana
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Du Sénégal à l'Afrique orientale. Bancs vaseux ou sableux inondés périodiquement, marais, raphiales marécageuses, îles flottantes etc. Parfois grégaire en tapis dense.
+From Senegal to East Africa. Muddy or sandy banks periodically inundated, marshes, marsh raphiales, floating islands, etc. Sometimes gregarious in dense mats.
 
 ## Specimens examined
 

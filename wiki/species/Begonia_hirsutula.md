@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B. subfalcata De Wild., Ann. Mus. Congo, sér. 5 (Bot.) 2 : 323 (1908). B. klainei Pierre ex Pellegr., Mém. Soc. Linn. Normandie 26, 2 : 124 (1924). B. comperei R.Wilczek, Bull. Jard. Bot. Nat. Belg. 39 : 92 (1969). Plante atteignant 25(–30) cm de hauteur. Feuilles non peltées ou moins fréquemment peltées ; pétiole de 3,5–17(–23) cm, hirsute ; limbe ± dressé sur le frais , non bullé, faiblement à distinctement asymétrique, largement ovale à largement obovale ou ovale à obovale, rarement étroitement ovale ou elliptique, (4–)6,5–19 × (1–)3–11,5 cm, base de la feuille non-peltée arrondie à cordée sur une côté, auriculée sur l’autre, sommet obtus à aigu ou parfois légèrement acuminé, marge presque entière à éparsement sinueuse-dentée, denticulée ou crénelée, face supérieure glabre ou munie de poils longs épars. Inflorescence : pédoncule 0,5–5,5 cm, avec 2–5 fleurs ♂ et 1(–3) fleurs ♀ à tépales jaunes ou rarement blancs ; bractées 1–4(–5,5) mm de longueur. Fleur ♂ : tépales (4,5–)6,5–12,5(–14) × (4–)6–10(–12) mm ; androcée à 15–40 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 4,5(–6,5) mm ; tépales (6–)7–13(–15,5) × 6,5–13(–19) mm ; ovaire (ailes incluses) très largement obtriangulaire-obovoïde à obtriangulaire-obovoïde très déprimé, (2,5–)4,5–10 × (4,5–)6–18 mm, sans poils longs, à 3(–4) ailes obtriangulaires-obovales très déprimées à obtriangulaires-spathulées ou parfois obovales déprimées, (1–)2–9,5 mm de largeur ; styles 3(–4). Fruit comme l’ovaire, 4,5–11 × 8–23 mm ; rostre jusqu’à 2 mm.
+B. subfalcata De Wild., Ann. Mus. Congo, sér. 5 (Bot.) 2 : 323 (1908). B. klainei Pierre ex Pellegr., Mém. Soc. Linn. Normandie 26, 2 : 124 (1924). B. comperei R.Wilczek, Bull. Jard. Bot. Nat. Belg. 39 : 92 (1969). Plant reaching 25(–30) cm in height. Leaves non-peltate or less frequently peltate; petiole 3.5–17(–23) cm, hirsute; blade ± erect when fresh, not bullate, weakly to distinctly asymmetric, broadly ovate to broadly obovate or ovate to obovate, rarely narrowly ovate or elliptic, (4–)6.5–19 × (1–)3–11.5 cm, base of non-peltate leaf rounded to cordate on one side, auriculate on the other, apex obtuse to acute or sometimes slightly acuminate, margin nearly entire to sparsely sinuate-dentate, denticulate or crenate, upper surface glabrous or bearing scattered long hairs. Inflorescence: peduncle 0.5–5.5 cm, with 2–5 ♂ flowers and 1(–3) ♀ flowers with yellow or rarely white tepals; bracts 1–4(–5.5) mm long. ♂ flower: tepals (4.5–)6.5–12.5(–14) × (4–)6–10(–12) mm; androecium with 15–40 stamens. ♀ flower: pedicel elongating in fruit up to 4.5(–6.5) mm; tepals (6–)7–13(–15.5) × 6.5–13(–19) mm; ovary (wings included) very broadly obtriangular-obovoid to obtriangular-obovoid very depressed, (2.5–)4.5–10 × (4.5–)6–18 mm, without long hairs, with 3(–4) obtriangular-obovate very depressed to obtriangular-spathulate or sometimes obovate depressed wings, (1–)2–9.5 mm wide; styles 3(–4). Fruit like the ovary, 4.5–11 × 8–23 mm; rostrum up to 2 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, Nigéria, Cameroun, Guinée Équatoriale, Gabon, Congo (Brazzaville) et République Démocratique du Congo ; largement distribuée au Gabon
+Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Congo (Brazzaville) and Democratic Republic of the Congo; widely distributed in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur terrain plat ou sur pentes, talus ou parois rocheuses, dans les forêts primaires et secondaires, souvent au bord des cours d’eau et rivières, parfois dans des stations temporairement inondées ; jusqu’à 1000 m d’altitude
+on flat terrain or on slopes, embankments or rocky cliffs, in primary and secondary forests, often at the edge of watercourses and rivers, sometimes in temporarily flooded stations; up to 1000 m altitude
 
 ## Vernacular names
 
@@ -39,11 +33,9 @@ boukoulou (Massango), sanga (Bakota)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+very variable species with white or yellow flowers and peltate or non-peltate leaves of highly variable form. Formerly often confused with B. ciliobracteata Warb., restricted to Nigeria and Cameroon. B: Engler (1921), Sosef (1994), Wilczek (1969b). BIBLIOGRAPHY
 
-espèce très variable à fleurs blanches ou jaunes et feuilles peltées ou non, de forme très variable. Autrefois souvent confondue avec B. ciliobracteata Warb., restreinte aux Nigéria et Cameroun. B : Engler (1921), Sosef (1994), Wilczek (1969b). IBLIOGRAPHIE
-
-IL ESSEL National des Pays-Bas – Wageningen branche.
+National Herbarium of the Netherlands – Wageningen branch.
 
 ## Notes
 

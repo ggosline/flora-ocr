@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 3-3.5 m tall. Branches pubescent russet or yellowish, becoming glabrous at maturity. Petiole densely pubescent to hirsute, russet, 2.5-5 mm long, weakly canaliculate or concave above. Blade glabrous above and densely pubescent with appressed hairs below, dark green on the upper surface and green to greenish-brown on the lower surface, broadly elliptic, 11-20 × 4.5-7 cm; base inequilateral (one side attenuate and the other rounded), apex distinctly acute acuminate mucronate. Midvein concave pubescent with erect hairs on the upper surface and prominent pubescent on the lower surface. Secondary veins 6-8 pairs, ascending, slightly curved, anastomosing 0.5-1 mm from the blade margin, concave above and prominent pubescent below. Tertiary veins in rather dense reticulum, prominent on the upper surface and strongly prominent on the lower surface. Domatia pouch-like, densely pubescent at the axils of the secondary veins.
 
-Arbuste haut de 3-3,5 m. Rameaux pubescents roussâtres ou jaunâtres devenant glabres à l'état adulte. Pétiole densément pubescent à hirsute, roussâtre, long de 2,5-5 mm, faiblement canaliculé ou concave dessus. Limbe glabre dessus et densément pubescent à poils apprimés dessous, vert foncé à la face supérieure et vert à marron vert à la face inférieure, largement
+Inflorescences in multiflorous corymbiform panicles (9-12 flowers), pendulous, axillary solitary or fascicled by 2. Peduncle pubescent hirsute, 1.5-2.5 cm long. Pedicel pubescent hirsute. Bract narrowly linear, pubescent on the outside. Floral bud conical. Sepals pubescent on the outside and glabrous on the inside, free, narrowly lanceolate, $ 1.25 \times 0.4 $ mm. Petals pubescent on the midline of the outer surface and glabrous on the inside, $ 2.5 \times 0.75 $ mm, free to the base. Stamens erect, 2 mm long; filament 0.5 mm long; anthers with 2 ellipsoid locules, 1 mm long; connective appendiculate at the apex (appendicule 0.5 mm long). Ovary hirsute ellipsoid 1 mm long. Style slender 5 mm long terminating in a capitate stigma.
 
-elliptique, 11-20 × 4,5-7 cm; base inéquilatérale (un côté atténué et l'autre arrondi), sommet nettement acuminé aigu mucroné. Nervure médiane concave pubescente à poils dressés à la face supérieure et saillante pubescente à la face inférieure. Nervures secondaires 6-8 paires, ascendantes, peu arquées, s'anastomosant à 0,5-1 mm du bord du limbe, concaves dessus et saillantes pubescentes dessous. Nervilles en réseau assez dense, saillant à la face supérieure et fortement saillant à la face inférieure. Domaties en poche, ‡ fortement pubescentes à l'aiselle des nervures secondaires.
-
-Inflorescences en panicules corymbiformes multiflores (9-12 fleurs), pendantes, axillaires solitaires ou fasciculées par 2. Pédoncule pubescent hirsute, long de 1,5-2,5 cm. Pédicelle pubescent hirsute. Bractée étroitement linéaire, pubescente extérieurement. Bouton floral conique. Sépales pubescents extérieurement et glabres intérieurement, libres, étroitement lancéolés,  $ 1,25 \times 0,4 $ mm. Pétales pubescents sur la ligne médiane de la face externe et glabres intérieurement,  $ 2,5 \times 0,75 $ mm, libres jusqu'à la base. Étamines dressées, longues de 2 mm; filet long de 0,5 mm; anthères à 2 loges ellipsoïdes, longues de 1 mm; connectif appendiculé au sommet (appendicule long de 0,5 mm). Ovaire hirsute ellipsoïde long de 1 mm. Style grêle long de 5 mm terminé par un stigmate capité.
-
-Drupe rouge orangé, 1,3-1,8 × 0,6-0,7 cm, éparsement pubescente à poils apprimés. PL. 7, 5-8, p. 29.
+Drupe red-orange, 1.3-1.8 × 0.6-0.7 cm, sparsely pubescent with appressed hairs. PL. 7, 5-8, p. 29.
 
 ## Type
 
@@ -33,15 +29,11 @@ Rowland s. n., Western Lagos, Nigeria (K !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette plante croît dans les forêts denses à sol sec. Son aire s'étend du Nigeria au Zaïre.
+This plant grows in dense forests on dry soil. Its range extends from Nigeria to Zaïre.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les racines sont réputées aphrodisiaques
+The roots are reputed to be aphrodisiacs.
 
 ## Notes
 

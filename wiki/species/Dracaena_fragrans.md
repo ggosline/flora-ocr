@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste monocaule ou petit arbre atteignant ± 6 m de hauteur. Feuilles spiralées tout le long de la tige , ou concentrées vers le sommet chez les individus plus âgés, laissant la tige à peine visible entre les gaines ou préfeuilles ; gaine embrassant la tige sur distinctement plus que la circonférence ; limbe ligulé-étroitement obovale ou plus étroit, atteignant ± 100 × 11 cm, base sans pseudopétiole , se rétrécissant graduellement, parfois blanc à jaunâtre panaché. Inflorescence érigée, si spiciforme, recourbée, si très ramifiée, ± 60 cm de longueur, à fleurs disposées en glomérules multiflores contenant bien plus de 10 fleurs.
+Shrub with single stem or small tree reaching ± 6 m in height. Leaves spiralled along the stem throughout, or concentrated towards the apex in older individuals, leaving the stem barely visible between the sheaths or cataphylls; sheath distinctly embracing the stem for more than the circumference; blade ligulate-narrowly obovate or narrower, reaching ± 100 × 11 cm, base without pseudipetiole, gradually narrowing, sometimes white to yellowish variegated. Inflorescence erect, if spiciform then curved, if highly branched, ± 60 cm in length, with flowers arranged in multifloral glomerules containing well more than 10 flowers.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce très répandue en Afrique, facilement confondue à l’état stérile avec des jeunes individus de D. arborea . Elle en diffère (entre autres) par la base des feuilles embrassant la tige sur distinctement plus que la circonférence, chez D. arborea sur moins que la circonférence
+Species very widespread in Africa, easily confused in the sterile state with young individuals of D. arborea. It differs from it (among other features) by the base of the leaves embracing the stem for distinctly more than the circumference, in D. arborea for less than the circumference
 
 ## Notes
 

@@ -17,25 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+MLW 78 (10): 56-59 (1978); AUWP 86 (3): 2, 17 (1986). TYPE: Cameroon, N'Koumvone, km 14 Ebolowa-Ambam, J.J. de Wilde 8493 (holo-, WAG).
 
-MLW 78 (10): 56-59 (1978); AUWP 86 (3): 2, 17 (1986). TYPE: Cameroun, N'Koumvone, km 14 Ebolowa-Ambam, J.J. de Wilde 8493 (holo-, WAG).
+Liana reaching up to 60 m. Branches brown to black, glabrous or nearly so; lenticels very little visible or absent. Young branches dark brown-black with appressed pubescence at first, early glabrescent with small lenticels.
 
-Liane pouvant atteindre 60 m. Rameaux bruns à noirs, glabres ou presque ; lenticelles très peu visibles ou non. Jeunes rameaux brun-noir foncé avec pubérulcncc appriméc au début, tôt glabrescents avec de petites lenticelles.
+Stipules early caducous, ovate-triangular, 3–5 mm long, external face appressed-pubescent to tomentellous, internal face with sparse pubescence.
 
-Stipules tôt caduques, ovées triangulaires, longues de 3-5 mm, face externe apprimée-pubescente à tomentelleuse, face interne avec pubérulence éparse.
+Leaves. Petiole (5)8–13(20) mm, subcylindric, sulcate above, appressed pubescence then glabrescent to glabrous. Blade papyraceous to coriaceous, obovate-elliptic, 1.5–2 (3) times longer than wide, 8–13 (18) × 4–7 (10) cm; base obtuse-truncate to cuneate, sometimes obliquely so; margin decurrent on the petiole; apex obtuse-apiculate to bearing an acumen ≤ 1 cm; secondary veins 4–7 pairs prominent beneath, primary vein generally impressed above at least in its lower portion; both faces glabrous or sparse appressed pubescence on the main veins; glands on both faces fairly small, prominent or impressed.
 
-Feuilles. Pétiole (5)8-13(20) mm, subcylindrique, sillonné dessus, pubérulence apprimée puis glabrescent à glabre. Limbe papyracé à coriace, obové-elliptique, 1,5-2 (3) fois plus long que large, 8-13 (18) × 4-7 (10) cm ; base obtuse-tronquée à cunée, parfois obiquement ainsi ; marge décurrente sur le pétiole ; sommet obtus-apiculé à muni d'un acumen ≤ 1 cm ; nervures II principales 4-7 paires proéminentes dessous, nervure I en général imprimée dessus au moins dans sa partie inférieure ; les deux faces glabres ou pubérulence apprimée éparse sur les principales nervures ; glandes sur les deux faces assez petites, proéminentes ou imprimées.
+Inflorescences fairly small, 5–25-flowered, with 1–4 orders of distinct ramifications, sometimes present in several on short axillary leafless shoots, sessile or with short peduncle ≤ 0.5 cm, sparse pubescence. Bracts and bracteoles triangular, 1–2 mm long, pubescent-tomentellous. Pedicels 3–4 mm, glabrous to pubescent-tomentellous, upper portion ≤ 0.5 mm.
 
-Inflorescences assez petites, 5-25-flores, à 1-4 ordres de ramifications nets, parfois présentes à plusieurs sur de courtes pousses axillaires aphylles, sessiles ou avec pédoncule court ≤ 0,5 cm, pubérulence éparse. Bractées et bractéoles triangulaires, longues de 1-2 mm, pubérulentestomentelleuses. Pédicelles 3-4 mm, glabres à pubérulents-tomentelleux, partie supérieure ≤ 0,5 mm.
+Flowers: sepals, petals stamens and pistil subequal. Sepals erect to slightly spreading, ovate-oblong, 2.5–4.5 × 1–2 mm, concave, apex rounded to subacute; external face pubescent-tomentellous; internal face less pubescent to glabrous. Petals suberect, free or nearly so, 3–4.5 mm long, split for 0.5–1.5 mm, glabrous, lobes concave. Stamens erect to slightly curved, 3–5 mm long, glabrous. Staminodes obovate-oblong, fairly thick, 1 × 0.5 mm, apex truncate-emarginate. Pistil 3-merous, 3–6 mm long; ovary 3-locular, velvety; style glabrous, lobes ≤ 0.5 mm long.
 
-Fleurs : sépales, pétales étamines et pistil subégaux. Sépales dressés à légèrement étalés, ovés-oblongs, 2,5-4,5 × 1-2 mm, concaves, sommet arrondi à subaigu ; face externe pubérulente-tomentelleuse ; face interne moins pubescente à glabre. Pétales subérigés, libres ou presque, longs de 3-4,5 mm, fendus sur 0,5-1,5 mm, glabres, lobes concaves. Étamines dressées à un peu courbées, longues de 3-5 mm, glabres. Staminodes obovés-oblongs, assez épais, 1 × 0,5 mm, sommet tronquéémarginé. Pistil 3-mère, long de 3-6 mm ; ovaire 3-loculaire, velouté ; style glabre, lobes longs de ≤ 0,5 mm.
+Fruits ellipsoid to obovoid (1-seeded fruits), relatively large, 3.5–5 cm × 2.5–3.5 cm; exocarp ornamented with a prominent network and short dense velvety pubescence, ≤ 8 mm thick and hard; mesocarp succulent, adherent to the endocarp, 2 mm thick; endocarp rather thin, coriaceous, interior glabrous or with a few subappressed hairs. Seeds subovoid, slightly compressed laterally, ≤ 3.5 × ≤ 2 × ≤ 1.5 cm; testa brown, smooth, glabrous.
 
-Fruits ellipsoïdaux à obovoïdes (les fruits 1-spermes), relativement grands,  $ 3.5-5 \, cm \times 2.5-3.5 \, cm $; exocarpe orné d'un réseau proéminent et d'une pubescence veloutée courte et dense, épais de  $ \leq 8 \, mm $ et dur ; mésocarpe succulent, adhérent à l'endocarpe, épais de  $ 2 \, mm $; endocarpe plutôt mince, coriace, intérieur glabre ou avec quelques poils
-
-subapprimés. Graines subovoïdes, un peu comprimées latéralement, ≤ 3,5 × ≤ 2 × ≤ 1,5 cm ; testa brune, lisse, glabre.
-
-Plantule : épicotyle long d'environ 7 cm, glabre ou presque ; premières feuilles opposées plus petites que les suivantes, pubérulence apprimée éparse. - Pl. 20, p. 85.
+Seedling: epicotyl approximately 7 cm long, glabrous or nearly so; first leaves opposite smaller than the following ones, sparse appressed pubescence. - Pl. 20, p. 85.
 
 ## Type
 
@@ -43,15 +39,11 @@ de Wilde 8493, N'Koumvone, km 14 Ebolowa-Ambam, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud-Ouest camerounais et Est zaïrois (bien que non encore récoltée au Gabon, il est très probable que cette espèce s'y trouve ; c'est pourquoi nous l'avons admise ici)
+Southwestern Cameroon and eastern Zaire (although not yet collected in Gabon, it is very likely that this species occurs there; this is why we have admitted it here)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+Ombrophilous forests
 
 ## Figures
 

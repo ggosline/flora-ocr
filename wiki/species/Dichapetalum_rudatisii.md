@@ -17,27 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2) : 325 (1928) ; Keay, FWTA, ed. 2, 1 (2) : 438 (1958) ; BRETELER, MLW 73 (13) : 25, 28, 33, 36, XIX (1973) ; l.c. 79 (16) : 53 (1979) ; l.c. 82 (8) : 8-15, 40, 57 (1982) ; AUWP 86 (3) : 1, 3, 16, 42 (1986). TYPE : Cameroon, Abonando, Rudatis 16 (holo-, B delet. ; lecto-, Z ; iso-, BM, BR, E, G, K, P).
 
-HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2) : 325 (1928) ; Keay, FWTA, ed. 2, 1 (2) : 438 (1958) ; BRETELER, MLW 73 (13) : 25, 28, 33, 36, XIX (1973) ; l.c. 79 (16) : 53 (1979) ; l.c. 82 (8) : 8-15, 40, 57 (1982) ; AUWP 86 (3) : 1, 3, 16, 42 (1986). TYPE : Cameroun, Abonando, Rudatis 16 (holo-, B delet. ; lecto-, Z ; iso-, BM, BR, E, G, K, P).
+– D. ledermannii Engl., Bot. Jahrb. 46 : 582 (1912) ; BRETELER, MLW 73 (13) : XIX, syn. of D. rudatisii (1973). TYPE : Cameroon, near Kribi, Ledermann 511 (lecto-, BM). – D. suboblongum Engl., Bot. Jahrb. 46 : 568 p.p. exclud. Scott Elliot 5601 (1912) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 584 (1913) ; BRETELER, MLW 73 (13) : XIX, p.p. (1979). TYPE : Cameroon, Batanga, Bates 187 (lecto-, Z ; isolecto-, BM, BR, E, G, K, P).
 
-– D. ledermannii Engl., Bot. Jahrb. 46 : 582 (1912) ; BRETELER, MLW 73 (13) : XIX, syn. de D. rudatisii (1973). TYPE : Cameroun, près de Kribi, Ledermann 511 (lecto-, BM). – D. suboblongum Engl., Bot. Jahrb. 46 : 568 p.p. exclud. Scott Elliot 5601 (1912) ; PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 584 (1913) ; BRETELER, MLW 73 (13) : XIX, p.p. (1979). TYPE : Cameroun, Batanga, Bates 187 (lecto-, Z ; isolecto-, BM, BR, E,G, K, P).
+Liane reaching 5 cm in diameter, scandent shrub or shrub. Woody cylinder entire (?), hard wood, bark superficially fissured or not. Old branchlets brown to black, glabrous ; bark rather thin with most often very small lenticels becoming more visible and longer in the transverse direction on old wood. Young branchlets, petioles and stipules covered with an indumentum in general rust-brown, puberulent-tomentellous, often powdery, subsequently glabrescent.
 
-Liane atteignant 5 cm de diamètre, arbuste lianescent ou arbuste. Cylindre ligneux entier (?), bois dur, écorce superficiellement fissurée ou non. Rameaux âgés bruns à noirs, glabres ; écorce assez mince avec le plus souvent de très petites lenticelles devenant plus visibles et plus longues dans le sens transversal sur le vieux bois. Jeunes rameaux, pétioles et stipules couverts d'un indumentum en général brun-rouille, pubérulent-tomentelleux, souvent poudreux, ensuite glabrescents.
+Stipules triangular-subulate, 1-3 (5) mm long, covered with an indumentum similar to that of young branchlets and petioles.
 
-Stipules triangulaires-subulées, longues de 1-3 (5) mm, couvertes d'un indumentum semblable à celui des jeunes rameaux et des pétioles.
+Leaves. Petiole sub- to hemicylindric, grooved above or not, (2) 3-5 (7) mm long and (4) 7-11 mm when fused to the peduncle. Lamina elliptic to obovate, papyraceous to coriaceous, (1.5) 2-2.5 (3.5) times longer than wide, (7) 9-16 (25) × (2) 3-9 (12) cm ; base rounded to cuneate ; acumen present, often abrupt, acute to obtuse, 0.5-1.5 mm long ; appressed short pubescence on both faces initially, often thus only on the main veins or even only on vein I, subsequently caducous but often persisting longer beneath at the axil of certain important veins II where small domatia are ordinarily found ; vein I and the 5-8 pairs of main veins II somewhat prominent above and even more strongly below ; margin slightly revolute or not ; marginal vein sometimes very distinct ; glands fairly small, crateriform on both faces, often more numerous below and in a narrow zone along
 
-Feuilles. Pétiole sub- à hémicylindrique, sillonné dessus ou non, long de (2) 3-5 (7) mm et de (4) 7-11 mm quand il est soudé au pédoncule. Limbe elliptique à obové, papyracé à coriace, (1,5) 2-2,5 (3,5) fois plus long que large, (7) 9-16 (25) × (2) 3-9 (12) cm; base arrondie à cunée; acumen présent, souvent brusque, aigu à obtus, long de 0,5-1,5 mm; pubescence apprimée courte sur les deux faces au début, souvent ainsi seulement sur les principales nervures ou même rien que sur la nervure I, ensuite caduque mais persistant souvent plus longguement dessous à l'aisselle de certaines nervures II importantes où se trouvent ordinairement de petites domaties; nervure I et les 5-8 paires principales de nervures II un peu proéminentes dessus et encore plus fortement dessous; marge légèrement révolutée ou non; nervure marginale parfois très nette ; glandes assez petites, cratériformes sur les deux faces, souvent plus nombreuses dessous et dans une zone étroite le long
+vein I, more scattered above, especially in a broad zone bordering the leaf margin.
 
-de la nervure I, plus dispersées dessus, surtout dans une large zone bordant la marge foliaire.
+Subumbellate inflorescences, ≤ 30-flowered, vaguely branched, puberulent-tomentellous. Peduncle ordinarily entirely fused to the petiole with the same pubescence, as long as or slightly shorter than it, rarely entirely free, sometimes partly. Bracts and bracteoles ovate-triangular, ≤ 0.5 (1) mm long. Pedicel ≤ 5 mm, upper part ≤ 1 mm, distinct or not.
 
-Inflorescences subombellées, ≤ 30-flores, vaguement ramifiées, pubérulentes-tomentelleuses. Pédoncule d'ordinaire totalement soudé au pétiole avec la même pubescence, aussi long ou un peu plus court que lui, rarement entièrement libre, parfois en partie. Bractées et bractéoles ovées-triangulaires, longues de ≤ 0,5 (1) mm. Pédicelle ≤ 5 mm, partie supérieure ≤ 1 mm, distincte ou non.
+Flowers : sepals, petals and stamens subequal. Sepals suberect or slightly spreading with rather thick base and shortly fused, concave, ovate-elliptic to oblong, in general unequal, (3.5) 4-5 × 1.5-2 mm, tomentellous on both faces. Petals suberect, subequal or slightly longer than the sepals, of narrow ovate to oblong form 4-6 mm, split for (0.5) 1-1.5 mm, fused by their base to the filaments for 0.5-2 mm, puberulent-tomentellous especially below the lobes on both faces ; lobes almost flattened. Stamens suberect, as long as the petals 4-6 mm ; filaments ; pubescence often partial tomentellous (external or lower part) or scattered to absent ; anthers 0.5-1 mm long, glabrous or rarely with a few stiff hairs ; connective distinct. Staminodes subquadrate, ≈ 0.5 × 0.5 mm, glabrous, emarginate to lobed at the apex. Pistil 3-merous, 4.5-6 (7.5) mm long ; ovary and lower part of style villous-tomentious, upper part glabrous and shortly 3-lobed.
 
-Fleurs : sépales, pétales et étamines subégaux. Sépales subdressés ou légèrement étalés à base assez épaisse et courtement soudée, concaves, ovés-elliptiques à oblongs, en général inégaux, (3,5) 4-5 × 1,5-2 mm, tomentelleux sur les deux faces. Pétales subdressés, subégaux ou un peu plus longs que les sépales, de forme étroite et ovée à oblonge de 4-6 mm, fendus sur (0,5) 1-1,5 mm, soudés par leur base aux filets sur 0,5-2 mm, pubérulents-tomentelleux surtout au-dessous des lobes sur les deux faces ; lobes presque aplatis. Étamines subdressées, aussi longues que les pétales 4-6 mm ; filets ; pubérulence tomentelleuse souvent partielle (extérieur ou partie inférieure) ou éparse à nulle ; anthères longues de 0,5-1 mm, glabres ou rarement avec quelques poils raides ; connectif distinct. Staminodes subcarrés, ≈ 0,5 × 0,5 mm, glabres, émarginés à lobés au sommet. Pistil 3-mère, long de 4,5-6 (7,5) mm ; ovaire et partie inférieure du style villeux-tomentieux, partie supérieure glabre et courtement 3-lobée.
+Fruits 1-2 (3?)-seeded, aborted locules marked by a distinct ridge, orange at maturity, puberulent-tomentellous ; 1-seeded fruits subellipsoid, in general provided with a beak, often stipitate, 3-6 × 1.5-2.5 cm ; beak robust, obtuse to subacute, 5-15 mm long, stipe strong and ≤ 10 mm long ; exocarp in general slightly plicate, well developed, 1-3 mm thick ; mesocarp succulent, 1-3 mm thick ; endocarp woody ≈ 0.5 mm thick, rugose on the outside, smooth and glabrous inside. Seeds subellipsoid, ≤ 20 × 10 mm, rounded to subacute at both extremities ; testa brown, smooth shining, glabrous. The fruits of D. rudatisii are used in Cameroon to kill mice ; crushed seeds are mixed with attractive food for these animals ; it is also said that this mixture also kills poultry that eat it.
 
-Fruits 1-2 (3?)-spermes, loges avortées marquées par une crête distincte, oranges à maturité, pubérulents-tomentelleux ; fruits 1-spermes subellipsoïdales, en général munis d'un bec, souvent stipités, 3-6 × 1,5-2,5 cm ; bec robuste, obtus à subaigu, long de 5-15 mm, stipe fort et long de ≤ 10 mm ; exocarpe en général légèrement plissoté, bien développé, épais de 1-3 mm ; mésocarpe succulent, épais de 1-3 mm ; endocarpe ligneux épais de ≈ 0,5 mm, rugueux à l'extérieur, lisse et glabre à l'intérieur. Graines subellipsoïdales, ≤ 20 × 10 mm, arrondies à subaiguës aux deux extrémités ; testa brun, lisse luisant, glabre. Les fruits de D. rudatisii sont utilisés au Cameroun pour tuer les souris ; des graines pilées sont mélangées à une nourriture attractive pour ces animaux ; on dit aussi que ce mélange tue aussi les volailles qui en mangent.
-
-Plantule : racine pivotante en général vigoureuse ; épicotyle 7-13 cm, brunâtre, luisant, pubescence apprimée à la base, partie supérieure glabre ou presque ; les deux premières feuilles, opposées, ovées-elliptiques, plus courtes et proportionnellement plus larges que les feuilles subséquentes. - Pl. 47, p. 161 ; Phot. A, p. 2.
+Seedling : taproot in general vigorous ; epicotyl 7-13 cm, brownish, shining, appressed pubescence at the base, upper part glabrous or nearly so ; the two first leaves, opposite, ovate-elliptic, shorter and proportionally wider than subsequent leaves. - Pl. 47, p. 161 ; Phot. A, p. 2.
 
 ## Type
 
@@ -45,19 +43,15 @@ Rudatis 16, Abonando, Cameroun
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, Gabon
 
-Nigeria, Cameroun, Gabon
+Long known only from southeastern Nigeria and southwestern Cameroon, this species has more recently been collected in Gabon approximately 15 km from Cocobeach along the Ntoum road in primary forest.
 
-Longtemps connue que du Sud-Est du Nigéria et du Sud-Ouest du Cameroun, cette espèce a plus récemment été récoltée au Gabon à environ 15 km de Cocobeach le long de la route de Ntoum en forêt primaire.
-
-D. rudatisii est en partie sympatrique de D. mombuttense ; Engl. dont elle est assez étroitement affine. Cette dernière espèce ne présente cependant pas l'indumentum rouille de poils courts sur ses rameaux et possède des fruits glabres et lenticellés.
+D. rudatisii is in part sympatric with D. mombuttense ; Engl. to which it is fairly closely allied. The latter species does not however present the rust-coloured indumentum of short hairs on its branchlets and has glabrous and lenticellate fruits.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombrophilous forests
 
 ## Specimens examined
 

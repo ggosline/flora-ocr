@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes < 3 × 0,2 cm, grêles, cylindriques. Feuilles pétiolées, 3,5-8,5 × 4 cm, ovées à ovées-lancéolées, aiguès. Inflorescence < 10 cm, <-8-flore. Fleurs vertes. Sépale dorsal oblong-lancéolé, plus large à la base, avec des auricules basales proéminentes ; sépales latéraux obliquement oblongs-elliptiques, obtus, connés près du sommet en un synsepalum proéminent. Pétales linéaires, obtus, tordus, à marge révolutée. Labelle en rectangle large, délicat, assez fin, sauf à la base et auricules un peu épaissies ; sommet de la marge avec dents très petites et irrégulières et court apicule central. – Pl. 60, p. 125.
+Pseudobulbs < 3 × 0.2 cm, slender, cylindrical. Leaves petiolate, 3.5–8.5 × 4 cm, ovate to ovate-lanceolate, acute. Inflorescence < 10 cm, < 8-flowered. Flowers green. Dorsal sepal oblong-lanceolate, wider at base, with prominent basal auricles; lateral sepals obliquely oblong-elliptic, obtuse, connate near the apex into a prominent synsepalum. Petals linear, obtuse, twisted, with revolute margin. Lip in broad rectangle, delicate, fairly thin except at base and auricles somewhat thickened; apex of margin with very small and irregular teeth and short central apicule. – Pl. 60, p. 125.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-actuellement connu seulement au Gabon
+currently known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 800–900 m. Terrestrial plant
 
-alt. 800-900 m. Plante terrestre
+MATERIAL EXAMINED (Map 20):
 
-MATÉRIEL ÉTUDIÉ (Carte 20) :
-
-Hallé 4173 & 4183, Bélinga, Mines de Fer (fl., Juil.), P!.
+Hallé 4173 & 4183, Bélinga, Iron Mines (fl., July), P!.
 
 ## Figures
 

@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenwelt. Afr. 3 (2) : 280 (1921); Pflanzenreich, Sapindaceae : 1131 (1933).
 
-Arbre de 6-10 m atteignant 27 m, avec fût de 20 m et diamètre de 35 cm. Feuilles munies de fausses stipules de 1-2 cm, à 2-3 paires de nervures et autant de dents.
+Tree 6–10 m reaching 27 m, with trunk 20 m and diameter 35 cm. Leaves with false stipules 1–2 cm, bearing 2–3 pairs of nerves and the same number of teeth.
 
-Inflorescence ample (50 cm), dépassant les feuilles, en grappe à 3-4 or-dres de ramifications portant des cymules stipitées de 3-5 fleurs; bractées des derniers rameaux souduées à l'axe, paraissant ainsi recaulescentes de plusieurs mm; pédicelle de 4 mm, articulé à la base; bouton ovoïde de 5 mm de diamètre. Fleurs blanches; corolle dépassant le calice à l'anthèse; pétales onguiculés; disque formé de 5 dents séparées, dressées, canaliculées à l'intérieur; 8 étamines à filet plus long que l'anthère, cette dernière à peine 2 fois plus longue que large, et mutique. Fruits rouges, de 15 mm. PL. 37, 1-6, p. 161.
+Inflorescence ample (50 cm), exceeding the leaves, in a panicle with 3–4 orders of branching bearing stipitate cymules of 3–5 flowers; bracts of the ultimate branches fused to the axis, thus appearing recaulescent for several mm; pedicel 4 mm, articulated at the base; ovoid bud 5 mm in diameter. Flowers white; corolla exceeding the calyx at anthesis; petals clawed; disk formed of 5 separated teeth, erect, channelled within; 8 stamens with filament longer than the anther, the latter scarcely 2 times longer than wide, and muticous. Fruits red, 15 mm. PL. 37, 1–6, p. 161.
 
-Espèce se séparant de toutes les autres par la position des bractées, la forme du disque et celle des étamines.
+Species separating from all others by the position of the bracts, the form of the disk and that of the stamens.
 
 ## Type
 
@@ -32,9 +30,7 @@ Zenker 3415, Cameroun (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce reconnue au Zaïre (Louis 4608), en République centrafricaine (Tisserant 258, 905, 1507, 2406) et au Gabon.
+Species recognized in Zaire (Louis 4608), in the Central African Republic (Tisserant 258, 905, 1507, 2406) and in Gabon.
 
 ## Vernacular names
 

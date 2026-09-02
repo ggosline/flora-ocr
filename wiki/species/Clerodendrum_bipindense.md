@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane atteignant 2–5(–7) m de hauteur ; tige grêle, cylindrique, striée, sillonnée, pleine, les jeunes souvent tordues en hélice, glabres , généralement à pseudoépines de 2–8(–13) mm. Feuilles naissant généralement dans les parties supérieures de la plante, opposées ou subopposées ; pétiole ± élancé, de 0,5–1,5(–2,9) cm, glabre ; limbe étroitement à largement elliptique ou oblong-elliptique, de 9–15(–20) × 3,5–8(–9,5) cm, arrondi à cunéé à la base, acuminé sur jusqu’à 1,6 cm à l’apex, généralement entier, parfois grossièrement denté, cartacé, lisse et luisant, parfois ± 3-nervé, glabre . Inflorescence cauliflore , délicate, très ramifiée, souvent près du sol, sur les trois premiers mètres de la tige dépourvue de feuilles, lâche , largement paniculée , de 9–15 × 6–15(–22) cm, pubescente, à axe généralement blanchâtre ; cymes en 5 à 7 paires, très lâches, distantes de 1,5–3 cm, avec (3 à)7 à 15 fleurs ; pédoncule de 3,8–5,8(–6,5) cm, pubescent ; bractées caduques, filiformes, longues de 1–2 mm. Fleur : pédicelle (2–)6–14 mm ; calice à tube campanulé, accrescent, de 1–1,5 × 1,5–2 mm à l’anthèse, de 2–4 × 6–9 mm en fruit, à lobes largement deltoïdes, ± 1 × 1 mm , courtement acuminés, verts, pubérulents, à marge blanche ; corolle à tube de 10–16(–20) × 1–2 mm, vert à vert pâle ou jaune ou crème , à lobes obovales, de 5–7 × 3 mm, jaunes ou jaune blanchâtre ; étamines exsertes sur 1–2 cm. Fruit ± 9 × 7 mm, vert foncé.
+Vine reaching 2–5(–7) m in height; stem slender, cylindrical, striate, furrowed, solid, the young often twisted in helix, glabrous, generally with pseudospines of 2–8(–13) mm. Leaves arising generally in the upper parts of the plant, opposite or subopposite; petiole ± slender, 0.5–1.5(–2.9) cm, glabrous; blade narrowly to broadly elliptic or oblong-elliptic, 9–15(–20) × 3.5–8(–9.5) cm, rounded to cuneate at base, acuminate for up to 1.6 cm at apex, generally entire, sometimes coarsely dentate, chartaceous, smooth and shining, sometimes ± 3-nerved, glabrous. Inflorescence cauliflorous, delicate, very much branched, often near ground level, on the first three meters of the stem devoid of leaves, lax, broadly paniculate, 9–15 × 6–15(–22) cm, pubescent, with axis generally whitish; cymes in 5 to 7 pairs, very lax, distant 1.5–3 cm, with (3 to) 7 to 15 flowers; peduncle 3.8–5.8(–6.5) cm, pubescent; bracts caducous, filiform, 1–2 mm long. Flower: pedicel (2–)6–14 mm; calyx with campanulate tube, accrescent, 1–1.5 × 1.5–2 mm at anthesis, 2–4 × 6–9 mm in fruit, with lobes broadly deltoid, ± 1 × 1 mm, shortly acuminate, green, puberulent, with white margin; corolla with tube 10–16(–20) × 1–2 mm, green to pale green or yellow or cream, with obovate lobes, 5–7 × 3 mm, yellow or yellowish white; stamens exserted 1–2 cm. Fruit ± 9 × 7 mm, dark green.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale (Bioko), Gabon, République du Congo et République démocratique du Congo ; au Gabon : Estuaire et Ogooué-Ivindo. Statut de conservation : à large répartition dans la région guinéo-congolaise, mais avec seulement un peu plus d’une dizaine de localités connues ; attribué préliminairement à Quasi menacé (NT) par Pollard dans Cheek et al. (2004)
+Nigeria, Cameroon, Equatorial Guinea (Bioko), Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon: Estuaire and Ogooué-Ivindo. Conservation status: widely distributed in the Guineo-Congolian region, but with only slightly more than a dozen known localities; provisionally assigned to Near Threatened (NT) by Pollard in Cheek et al. (2004)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ; au Gabon à ± 50 m d’altitude, ailleurs à 420 m. B : Cheek et al. (2004), Gürke (1900), Huber et al. (1963). i B liographie
+Forests; in Gabon at ± 50 m altitude, elsewhere at 420 m. B: Cheek et al. (2004), Gürke (1900), Huber et al. (1963). Bibliography
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pentadesma parviflora Exell, J. Bot. (London) 65, Suppl. 1 : 27 (1927). Arbre jusqu’à 45 m de hauteur ; tronc jusqu’à 125 cm de diamètre, souvent avec des contreforts raides ; écorce brun rougeâtre ou brun jaunâtre, à écailles pâles ; rameaux grisâtres. Feuille glabre ; pétiole 1 ‒ 2,5 cm ; limbe oblong à elliptique, 9 ‒ 35 × 3 ‒ 13 cm, cunéé à obtus à la base, acuminé au sommet , coriace ; nervure principale proéminente dessous, nervures latérales légèrement proéminentes sur les 2 faces, réseau tertiaire très apparent . Fleur bisexuée à pédicelle de 20 ‒ 25( ‒ 30) mm, accrescent ; sépales suborbiculaires, concaves, 10 ‒ 15 mm de diamètre, rouges à rose rougeâtre ; pétales elliptiques à obovales, 15 ‒ 20 × 6 ‒ 12 mm, blancs à jaunâtres ; étamines soudées en anneau à la base, filet 5 ‒ 7 mm, anthères 2 mm de longueur ; ovaire ovoïde ; style 2 mm, stigmate 4 ‒ 5 mm de diamètre. Fleur mâle semblable à la fleur bisexuée mais plus petite ; pédicelle 6 ‒ 15 mm. Fruit subglobuleux ou pyriforme, (7,5 ‒ )10 ‒ 18 cm de diamètre, jaune à orangée, à nombreuses petites taches brunes . Graines 1 ‒ 4, ovoïdes, comprimées, 4 ‒ 5 × 3 cm et 2 cm d’épaisseur, brun, à testa dure, fibreux-ligneux.
+Pentadesma parviflora Exell, J. Bot. (London) 65, Suppl. 1 : 27 (1927). Tree up to 45 m in height; trunk up to 125 cm in diameter, often with stiff buttresses; bark reddish-brown or yellowish-brown, with pale scales; branchlets greyish. Leaf glabrous; petiole 1–2.5 cm; blade oblong to elliptic, 9–35 × 3–13 cm, cuneate to obtuse at base, acuminate at apex, coriaceous; midvein prominent beneath, lateral veins slightly prominent on both surfaces, tertiary network very apparent. Flower bisexual with pedicel 20–25(–30) mm, accrescent; sepals suborbicular, concave, 10–15 mm in diameter, red to reddish-pink; petals elliptic to obovate, 15–20 × 6–12 mm, white to yellowish; stamens connate in a ring at base, filament 5–7 mm, anthers 2 mm in length; ovary ovoid; style 2 mm, stigma 4–5 mm in diameter. Male flower similar to bisexual flower but smaller; pedicel 6–15 mm. Fruit subglobose or pyriform, (7.5–)10–18 cm in diameter, yellow to orange, with numerous small brown spots. Seeds 1–4, ovoid, compressed, 4–5 × 3 cm and 2 cm in thickness, brown, with hard testa, fibrous-woody.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Sao Tomé et Principe, Guinée Équatoriale, Gabon, République Centrafricaine, République du Congo, République Démocratique du Congo, Angola (Cabinda) et Ouganda ; au Gabon, assez commune et largement répandue
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, São Tomé and Príncipe, Equatorial Guinea, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Angola (Cabinda) and Uganda; in Gabon, fairly common and widely distributed.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire sempervirente ou semi-caducifoliée, forêt marécageuse, forêt riveraine et galeries forestières ; au Gabon, jusqu’à 650 m d’altitude, ailleurs jusqu’à 1400 m
+Primary evergreen or semi-deciduous forest, swamp forest, riverine forest and forest galleries; in Gabon, up to 650 m in altitude, elsewhere up to 1400 m.
 
 ## Vernacular names
 
@@ -39,11 +33,7 @@ abricotier d’Afrique, mammea (fr.) ; African apple, African apricot, African m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois est apprécié pour la construction et la menuiserie. Il convient pour les traverses de chemin de fer, le tournage et les placages. Les fûts servent traditionnellement à confectionner des pirogues monoxyles. Le fruit n’est comestible que lorsqu’il est assez mûr. Les graines, comestibles, contiennent une huile utilisée localement pour la cuisine. Une décoction de l’écorce serait utilisée comme anthelminthique, pour traiter les maux d’estomac, la gonorrhée, la toux et l’anémie et pour faciliter l’accouchement. En usage
-
-externe, elle est utilisée contre les plaies, les lésions, les ulcères, les rhumatismes, les inflammations utérines et vaginales et la fièvre. B : Bamps (1970a, 1971), Bamps et al. (1978), Hutchinson et al. (1954), i B liographie Lemmens (2008b).
+The wood is valued for construction and joinery. It is suitable for railroad ties, turning and veneers. The logs traditionally serve to make monoxylous canoes. The fruit is edible only when sufficiently ripe. The seeds, edible, contain an oil used locally for cooking. A decoction of the bark would be used as an anthelmintic, to treat stomach complaints, gonorrhea, cough and anemia and to facilitate childbirth. For external use, it is used against wounds, lesions, ulcers, rheumatism, uterine and vaginal inflammations and fever. Bibliography: Bamps (1970a, 1971), Bamps et al. (1978), Hutchinson et al. (1954), Lemmens (2008b).
 
 ## Notes
 

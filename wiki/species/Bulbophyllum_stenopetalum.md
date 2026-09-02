@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum sandersonii (Hook. f.) Rchb. f. ssp. stenopetalum (Kraenzl.) J. J. Verm., Bull. J. Bot. Nat. Belg. 56 : 234 (1986).
 
 – Megaclinium minor De Wild., Not. Pl. Ut. et Int. Fl. Congo 1 : 125 (1903).
@@ -27,19 +25,15 @@ tags: [species, generated]
 
 – Bulbophyllum rhodopetalum Kraenzl., Bot. Jahrb. Syst. 36 : 114 (1921).
 
-Pseudobulbes 1,6-7 × 0,7-2,5 cm, étroitement ellipsoïdaux à ovoïdes, 2-foliés. Feuilles courtement pétiolées, 3,5-26 × 0,5-2,5 cm, étroitement lancéolées à linéaires-lancéolées, obtuses ou arrondies. Inflorescence 5,5-30 cm, dense ou lâche, rachis limbiforme, glabre à papilleux, 4-60-flore. Fleurs assez petites. Sépales vert-jaunâtre à crème, virant au jaune-orange en peu de jours, parfois ponctués de rouge, glabres ou finement ciliés ou papilleux, aigus ; sépale dorsal linéaire-lancéolé à oblong-lancéolé ; sépales latéraux falciformes, ovés-lancéolés. Pétales vert-jaunâtre à rouge-pourpre, filiformes, sommet renflé. Labelle jaunâtre tacheté de pourpre, triangulaire, ové à oblong-ové, obtus à aigu, récurvé, épais, avec 2 carènes élévées sur toute sa longueur. - Pl. 83, p. 169.
+Pseudobulbs 1.6-7 × 0.7-2.5 cm, narrowly ellipsoid to ovoid, 2-leaved. Leaves shortly petiolate, 3.5-26 × 0.5-2.5 cm, narrowly lanceolate to linear-lanceolate, obtuse or rounded. Inflorescence 5.5-30 cm, dense or lax, rhachis limbate, glabrous to papillose, 4-60-flowered. Flowers rather small. Sepals yellowish-green to cream, turning yellow-orange within a few days, sometimes spotted with red, glabrous or finely ciliate or papillose, acute; dorsal sepal linear-lanceolate to oblong-lanceolate; lateral sepals falcate, ovate-lanceolate. Petals yellowish-green to red-purple, filiform, apex swollen. Labellum yellowish spotted with purple, triangular, ovate to oblong-ovate, obtuse to acute, recurved, thick, with 2 elevated keels along its entire length. - Pl. 83, p. 169.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo (Kinshasa)
+Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-alt. 0-1000 m. Épiphyte sur tronc ou branche à 20-30 m au-dessus du sol en forêt planitaire à submontagnarde, parfois en forêt secondaire
+alt. 0-1000 m. Epiphyte on trunk or branch 20-30 m above ground in lowland to submontane forest, sometimes in secondary forest
 
 ## Specimens examined
 

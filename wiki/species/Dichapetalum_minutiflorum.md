@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+BRETELER, MLW 73 (13) : 23, XVIII (1973) ; l.c. 81 (10) : 28-31, 41 (1981) ; AUWP 86 (3) : 12, 13 (1986). TYPE : Cameroon, Grand Batanga, Dinklage 1166 (holo-, B delet. ; lecto-, HBG ; isolecto-, P, WAG).
 
-BRETELER, MLW 73 (13) : 23, XVIII (1973) ; l.c. 81 (10) : 28-31, 41 (1981) ; AUWP 86 (3) : 12, 13 (1986). TYPE : Cameroun, Grand Batanga, Dinklage 1166 (holo-, B delet. ; lecto-, HBG ; isolecto-, P, WAG).
+Liane. Trunk, diameter ≤ 3 cm, with lenticels well visible and generally dense. Woody cylinder 5-lobed. Brown branchlets glabrous, lenticels well distinct, circular, whitish. Young branchlets from glabrous to bearing scattered pubescence, very early glabrous.
 
-Liane. Tronc, diamètre ≤ 3 cm, avec lenticelles bien visibles et en général denses. Cylindre ligneux 5-lobé. Rameaux bruns glabres, lenticelles bien distinctes, circulaires, blanchâtres. Jeunes rameaux de glabres à munis d'une pubérulence éparse, très tôt glabres.
+Stipules narrow and oblong-triangular, 2-6 mm long, curved or not, very early caducous, appressed sparse pubescence.
 
-Stipules étroites et oblongues-triangulaires, longues de 2-6 mm, incurvées ou non, très tôt caduques, pubescence apprimée éparse.
+Leaves. Petiole hemicylindric, often canaliculate on the upper face, 2-6 (10) mm with sparse appressed hairs, then glabrescent. Limb obovate-elliptic and often narrow, 2-3 (4) times longer than wide, (5)8-16 (21) × (2) 3-6 (10) cm; base cuneate, sometimes rounded; acumen present, caudate or not, generally obtuse sometimes mucronate or acute, 0.5-2 (2.5) cm long; veins I and the 6-8 (9) pairs of main veins II bearing sparse subappressed hairs initially, then glabrescent more rapidly above; vein I ± impressed above and prominent below; the main veins II, scarcely visible above and slightly prominent below; glands small and only present below, especially along vein I.
 
-Feuilles. Pétiole hémicylindrique, souvent canaliculé à la face supérieure, 2-6 (10) mm avec poils apprimés épars, puis glabrescent. Limbe obové-elliptique et souvent étroit, 2-3 (4) fois plus long que large, (5)8-16 (21) × (2) 3-6 (10) cm; base cunée, parfois arrondie; acumen présent, caudé ou non, en général obtus parfois mucroné ou aigu, long de (0,5) 1-2 (2,5) cm; nervures I et les 6-8 (9) paires principales de nervures II portant des poils subapprimés épars au début, puis glabrescentes plus rapidement dessus; nervure I ± imprimée dessus et proéminentes dessous; les principales nervures II, peu visibles dessus et légèrement proéminentes dessous; glandes petites et seulement présentes dessous, surtout le long de la nervure I.
+Inflorescences in dichasium ≤ 7-flowered, puberulent, isolated in the leaf axil with a peduncle then often short (≤ 3 mm), but more often sessile and united on reduced axillary shoots reduced to bosses, which can be seen also on old wood; flowering appears to last more than one season and often begins at the base with a 7-flowered dichasium; but it continues with less flowered dichasia (1-5-flowered). Bracts and bracteoles triangular to oblong and often narrow, 1-2.5 (4) mm long, puberulent. Pedicels ≤ 3 mm, puberulent, upper part none (articulation just below the calyx).
 
-Inflorescences en dichasium ≤ 7-flore, pubérulentes, isolées à l'ais-selle de la feuille avec un pédoncule alors souvent court (≤ 3 mm), mais plus souvent sessiles et réunies sur des pousses axillaires réduites à des bosses, qu'on peut voir aussi sur le vieux bois ; la floraison paraît durer plus d'une saison et débute souvent à la base avec un dichasium 7-flore ; mais elle se poursuit avec des dichasia moins fleuris (1-5-flores). Bractées et bractéoles triangulaires à oblongues et souvent étroites, longues de 1-2,5 (4) mm, pubérulentes. Pédicelles ≤ 3 mm, pubérulent, partie supérieure nulle (articulation juste au-dessous du calice).
+Flowers: petals, stamens and pistil subequal. Sepals erect or nearly so or sometimes still spreading, oblong sometimes ovate-elliptic or narrow and triangular, 1-2 × 0.5-1 mm, puberulent on the external side and at the apical part on the internal side. Petals suberect, base free or nearly so, narrow obovate-spatulate form, 2-3 mm long, split for 1-1.5 mm, glabrous; lobes flattened or slightly concave, often somewhat curved inward. Stamens suberect, 2-3 mm long, glabrous; anthers ≤ 0.3 mm long. Staminodes subsquare to oblong or obovate, fairly flattened, glabrous, ≤ 0.5 × 0.2 mm. Pistil 2-merous, 2-3 mm long; ovary finely velvety; style glabrous or with scattered velvety pubescence on the lower part, terminated by 2 short lobes of ≤ 0.7 mm.
 
-Fleurs : pétales, étamines et pistil subégaux. Sépales dressés ou presque ou encore parfois étalés, oblongs parfois ovés-elliptiques ou
-
-étroits et triangulaires,  $ 1-2 \times 0.5-1 $ mm, pubérulents du côté externe et à la partie apicale du côté interne. Pétales subérigés, base libre ou presque, forme étroite et obvée-spatulée, longs de 2-3 mm, fendus sur 1-1,5 mm, glabres ; lobes aplatis ou légèrement concaves, souvent un peu incurvés vers l'intérieur. Étamines subérigées, longues de 2-3 mm, glabres ; anthères longues de  $ \leq 0.3 $ mm. Staminodes subcarrés à oblongs ou obvés, assez aplatis, glabres,  $ \leq 0.5 \times 0.2 $ mm. Pistil 2-mère, long de 2-3 mm ; ovaire finement velouté ; style glabre ou pubcscence veloutée éparse sur la partie inférieure, terminé par 2 lobes courts de  $ \leq 0.7 $ mm.
-
-Fruits (quelques fruits immâturés seulement) subspériques lisses glabres ou avec quelques poils au sommet. - Pl. 36, p. 131.
+Fruits (a few immature fruits only) subspherical smooth glabrous or with a few hairs at the apex. - Pl. 36, p. 131.
 
 ## Type
 
@@ -41,23 +37,17 @@ Dinklage 1166, Grand Batanga, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+D. minutiflorum resembles numerous specimens of D. staudtii in the form of its flowers and especially in its vegetative characters. D. staudtii, however, has shortly split petals with concave lobes, a 3 (4)-merous pistil and a pubescent fruit.
 
-D. minutiflorum ressemble à de nombreux spécimens de D. staudtii par la forme de ses fleurs et surtout par ses caractères végétatifs. D. staudtii ; a cependant des pétales courtement fendus à lobes concaves, un pistil 3 (4)-mère et un fruit pubescent.
-
-Pour la distinction entre D. minutiflorum et D. montanum, voir p. 136.
+For the distinction between D. minutiflorum and D. montanum, see p. 136.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombroph ilous forests
 
 ## Specimens examined
 

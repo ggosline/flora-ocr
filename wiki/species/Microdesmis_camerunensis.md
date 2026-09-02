@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Microdesmis puberula auct. non Hook. f. ex PLANCHON : PAX & K. HOFFMEISTER
 
 — Microdesmis zenkeri auct. non PAX : HUTCHINSON, FTA 6 (1) : 742 (1912), p.p.
 
-Arbuste? Jeunes rameaux faiblement pubescents à glabres le plus souvent. Stipules triangulaires à sommet obtus, pubescentes à la base et glabres au sommet ou entièrement pubescentes, longues de 1,5 mm. Feuilles à pétiole long de 5-7 mm, pubescent dessus et éparsement pubescent dessous, canaliculé à la face supérieure et ridé à la face inférieure; limbe glabre sur les deux faces vert grisâtre ou vert jaunâtre luisant dessus et vert dessous à l'état sec, elliptique, elliptique-oblong, 5,4-16,5 × 2,3-7 cm, base inéquilatérale atténuée ou cunéiforme, bords latéraux entiers ou dentés, sommet acuminé obtus mucroné. Nervure médiane déprimée dessus et saillante très éparsement pubescentes dessous; nervures secondaires 5-6 paires, les inférieures très ascendantes et les supérieures très fortement arquées, s'anastomosant en arceaux à 1-2 mm du bord du limbe, faiblement saillantes à la face supérieure et fortement saillantes à la face inférieure. Nervilles en réseau peu dense faiblement scalariforme, peu saillantes dessus et saillantes dessous.
+Shrub? Young twigs weakly pubescent to glabrous most often. Stipules triangular with obtuse apex, pubescent at the base and glabrous at the apex or entirely pubescent, 1.5 mm long. Leaves with petiole 5-7 mm long, pubescent above and sparsely pubescent below, channeled on the upper surface and wrinkled on the lower surface; blade glabrous on both surfaces greyish-green or yellowish-green shiny above and green below when dry, elliptic, elliptic-oblong, 5.4-16.5 × 2.3-7 cm, inequilateral base attenuate or cuneiform, lateral margins entire or toothed, apex acuminate obtuse mucronate. Midvein depressed above and prominent very sparsely pubescent below; secondary veins 5-6 pairs, the lower ones very ascending and the upper ones very strongly arched, anastomosing in loops 1-2 mm from the blade margin, weakly prominent on the upper surface and strongly prominent on the lower surface. Veinlets in a not very dense network weakly scalariform, slightly prominent above and prominent below.
 
-Inflorescences axillaires ou légèrement supra-axillaires en fascicules multiflores. Bouton floral globuleux à sépales imbriqués et pétales contortés, d'un diamètre de 2-2,5 mm. Pédicelles éparsement pubescents à pubescents, long de 4,5-5 mm. Fleurs : sépales pubescents extérieurement et glabres intérieurement, de forme variable, longs de 1 mm, sommet aigu; pétales réfléchis, courtement pubescents extérieurement et glabres intérieurement,
+Inflorescences axillary or slightly supra-axillary in multiflorous fascicles. Floral bud globose with imbricate sepals and contorted petals, 2-2.5 mm in diameter. Pedicels sparsely pubescent to pubescent, 4.5-5 mm long. Flowers: sepals pubescent externally and glabrous internally, of variable shape, 1 mm long, apex acute; petals reflexed, shortly pubescent externally and glabrous internally, orbicular or very broadly elliptic, 2 × 1.5 mm, base scarcely unguiculate. Stamens 5, 1 × 0.5 mm, filaments obtriangular, fleshy, verrucose on the upper edge of the inner face, 0.5 × 0.5 mm, strongly appressed against the base of the pistillode; anthers with 2 ellipsoid lobes, connective claviform. Pistillode 1.75 mm long of which the atrophied ovary, entirely glabrous, emits fleshy lobes between the stamens; style conical grooved and glabrous. ♀ Flowers 3 mm long; sepals and petals similar to those of the ♂ flower; calyx strongly enlarged. Ovary superior, weakly conical or cylindric, 3 mm long, pubescent; style short with 3 digitate papillose stigmas.
 
-orbiculaires ou très largement elliptiques,  $ 2 \times 1.5 $ mm, base à peine onguiculée. Étamines  $ 5, 1 \times 0.5 $ mm, filets obtriangulaires, charnus, verruqueux au bord supérieur de la face interne,  $ 0.5 \times 0.5 $ mm, fortement appliqués contre la base du pistillode; anthères à 2 loges ellipsoïdes, connectif claviforme. Pistillode long de 1,75 mm dont l'ovaire atrophié, entièrement glabre, émet des lobes charnus entre les étamines; style conique cannelé et glabre. Fleurs ♀ longues de 3 mm; sépales et pétales semblables à ceux de la fleur ♂; calice fortement élargi. Ovaire supère, faiblement conique ou cylindrique, long de 3 mm, pubescent; style court à 3 stigmates digités et papilleux.
-
-Drupe trisperme, ellipsoïde, muriquée, verruqueuse, 8 × 6 mm; épicarpe pubérulent à sa partie sommitale; mésocarpe charnu; endocarpe ligneux muriqué, sommet marqué seulement de côtes. Graine obtriangulaire. PL. 7, p. 29.
+Drupe three-seeded, ellipsoid, muriculate, verrucose, 8 × 6 mm; epicarp puberulent at its apical part; mesocarp fleshy; endocarp woody muriculate, apex marked only by ribs. Seed obtriangular. PL. 7, p. 29.
 
 ## Type
 
@@ -37,9 +33,7 @@ Zenker 1693, Bipindi, Cameroun (holo-, BR; iso-, P!, COI, K, NY)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'aire de cette espèce s'étend du Cameroun au Gabon.
+The range of this species extends from Cameroon to Gabon.
 
 ## Specimens examined
 

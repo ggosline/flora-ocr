@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub erect or sometimes somewhat scandent, with young shoots clothed in a pink indumentum. Leaves elliptic, acute at the base, shortly acuminate at the apex, glabrescent, 5-10 mm long and 2-4 mm wide. Lateral veins 8-12 on each side of the midvein which remains somewhat pubescent beneath for a long time. Petiole rather slender, 3-5 mm long.
 
-Arbuste dressé ou parfois un peu sarmenteux, à jeunes extrémités vêtues d'un indument rose. Feuilles elliptiques, aiguës à la base, courtement acuminées au sommet, glabrescentes, de 5-10 mm de long et 2-4 mm de large. Nervures latérales 8-12 de chaque côté de la nervure médiane qui reste longtemps un peu pubescente en dessous. Pétiole assez grêle, de 3-5 mm de long.
-
-Fleurs agglomérées, axillaires, sessiles. Ovaire pubescent. Sépales pubescents. Pétales d'environ 4 mm de long. Fruit globuleux. Embryon un peu courbé.
+Flowers agglomerate, axillary, sessile. Ovary pubescent. Sepals pubescent. Petals approximately 4 mm long. Fruit globose. Embryo somewhat curved.
 
 ## Type
 
@@ -29,13 +27,11 @@ Talbot 1651 (Oban, Sud Nigeria)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Ghana, southern Nigeria, Fernando-Po, Cameroon, northern Angola and especially Cabinda.
 
-Ghana, Sud Nigeria, Fernando-Po, Cameroun, Nord Angola et surtout Cabinda.
+Frequent in preference in sublittoral localities.
 
-Fréquente de préférence les localités sublittorales.
-
-A rechercher au Gabon.
+To be sought in Gabon.
 
 ## Figures
 

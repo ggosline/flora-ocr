@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; DE WILD. & T. DURAND, BJBB 36 (2) : 50 (1897). TYPE : Welwitsch 537, Angola (holo-).
 
 – Oncoba spireana PIERRE, BSLP, n. s., 14 : 117 (1899). TYPE : Spire a. 1897, Congo (holo-, P!).
@@ -27,15 +25,15 @@ WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; DE WILD. & T. DURAND, BJBB 36
 
 – Caloncoba welwitschii (OLIV.) GILG, EBJ 40 : 462 (1908) ; KEAY, in HUTCH. & DALZIEL, FWTA ed. 2, 1 (1) : 188 (1954) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 22 (1968) ; SLEUMER, EBJ 94 (1) : 124 (1974).
 
-- Oncoba cauliflora SLEUMER, Notizbl. Berl.-Dahl. 12 : 86 (1934). TYPE : Schlieben 4254, Tanzanie (holo-, B, delet., cf. SLEUMER 1974 ; lecto-, choisi ici, P! ; isolecto-, BM, BR, M).
+- Oncoba cauliflora SLEUMER, Notizbl. Berl.-Dahl. 12 : 86 (1934). TYPE : Schlieben 4254, Tanzania (holo-, B, delet., cf. SLEUMER 1974 ; lecto-, chosen here, P! ; isolecto-, BM, BR, M).
 
-Arbre (10-15-(20) m de haut) ou arbuste ; rameaux striés longitudinalement, brunâtres, glabres, glanduleux à l'état jeune.
+Tree (10-15-(20) m tall) or shrub ; branches longitudinally striate, brownish, glabrous, glandular when young.
 
-Feuilles à stipules filiformes, caduques ; pétiole de 5-9 cm de long, glabre ; limbe ovale ± arrondi à cordé à la base, acuminé au sommet, 10-25 × 8-18 cm, ± papyracé, glabre ; nervures secondaires 5-6 paires.
+Leaves with filiform, caducous stipules ; petiole 5-9 cm long, glabrous ; blade oval ± rounded to cordate at the base, acuminate at the apex, 10-25 × 8-18 cm, ± papyraceous, glabrous ; secondary veins 5-6 pairs.
 
-Fleurs en fascicules (2-5-flores), caulinaires ; pédicelle de 1,5-2,5 cm de long, glanduleux ; sépales 3, ovales-oblongs, 15-20 × 10-15 mm, glanduleux extérieurement ; pétales 10-12, obovales, onguiculés, 25-40 × 10-20 mm, glabres ; étamines nombreuses, à filet de 10-25 mm de long, anthères de 3-4 mm de long ; ovaire échinulé, à 5-6 placentas plurivulés ; style de 10-15 mm de long, divisé au sommet en 5-6 branches stigmatiques.
+Flowers in fascicles (2-5-flowered), cauline ; pedicel 1.5-2.5 cm long, glandular ; sepals 3, oval-oblong, 15-20 × 10-15 mm, glandular outside ; petals 10-12, obovate, unguiculate, 25-40 × 10-20 mm, glabrous ; stamens numerous, filament 10-25 mm long, anthers 3-4 mm long ; ovary echinulate, with 5-6 pluriovulate placentae ; style 10-15 mm long, divided at the apex into 5-6 stigmatic branches.
 
-Fruits : capsules ellipsoïdes à globuleuses, ± déhiscentes, de 5-7 × 4-5 cm sans les aiguillons ; aiguillons de 2-4 cm de long ; graines nombreuses, ellipsoïdes, pubescentes. - Pl. 14, p. 49.
+Fruits : ellipsoid to globose capsules, ± dehiscent, 5-7 × 4-5 cm without the spines ; spines 2-4 cm long ; seeds numerous, ellipsoid, pubescent. - Pl. 14, p. 49.
 
 ## Type
 
@@ -43,15 +41,11 @@ Welwitsch 537, Angola (holo-, LISU ; iso-, BM, BR, COI, G, K, P!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée équatoriale, Gabon, RCA, Congo, Zaïre, Angola, Tanzanie, Malawi, Mozambique
+Nigeria, Cameroon, Equatorial Guinea, Gabon, CAR, Congo, Zaïre, Angola, Tanzania, Malawi, Mozambique
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses, forêts secondaires, galeries forestières
+Dense forests, secondary forests, forest galleries
 
 ## Specimens examined
 

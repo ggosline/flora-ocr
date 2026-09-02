@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Mem. Soc. Linn. Norm., n. ser., 1 (3): 77 (1928); Bull. Mus. natn. Hist. nat. Paris, ser. 2, 1: 161 (1929).
 
-Mém. Soc. Linn. Norm., n. sér., 1 (3) : 77 (1928) ; Bull. Mus. natn. Hist. nat. Paris, sér. 2, 1 : 161 (1929).
+Herbs 5–9 (–11) cm tall, with long slender rhizomes and ascending stems, with short dense hooked white hairs mixed with larger recurved and more scattered hairs; internodes 1–7 (–8) mm long and 0.25–1.5 mm thick. Leaves spiral. Blade chartaceous, pinnate nearly to the midvein, with 3–9 segments, usually spatulate, 0.5–3 × 0.25–0.75 cm; apex obtuse (margin revolute); lower segments sometimes with a broad base; at the base of the leafy stem, blade sometimes entire, broadly ovate, with nearly palmate venation; upper surface glabrous; lower surface with small scattered hooked white hairs on the principal veins; upper and lower surface often dotted (as if by glands); veins impressed above, prominent below. Petiole 1–5 mm long and 0.5 mm thick, with scattered small hooked white hairs. Stipules (also present on the rhizome) persistent, subulate, acute, 1–4 (–5) mm long, ±0.75 mm wide, with scattered small white hooked hairs.
 
-Herbes hautes de 5-9 (-11) cm, avec des rhizomes longs et minces et des tiges ascendantes, avec de courts poils blancs uncinés, denses, mêlés à des poils recourbés plus gros et plus épars ; entre-nœuds longs de (1-)2-7 (-8) mm et épais de (0,25-) 0,75-1,5 mm. Feuilles spiralées. Limbe chartacé, penné jusque près de la nervure médiane, avec 3-9 segments, le plus souvent spatulés, de 0,5-3 × 0,25-0,75 cm ; apex obtus (marge révolutée) ; segments inférieurs avec parfois une base large ; à la base de la tige feuillée, limbe parfois entier, largement ovale, à nervures presque palmées ; face supérieure glabre : face inférieure avec de petits poils blancs uncinés, épars, sur les principales nervures ; face supérieure et inférieure souvent ponctuées (comme par des glandes) ; nervures imprimées dessus, proéminentes dessous. Pétiole long de (1-) 3-5 mm et épais de 0,5 mm, avec de petits poils blancs uncinés épars. Stipules (aussi présentes sur le rhizome) persistantes, subulées, aiguës, longues de (1-) 1,5-4 (-5) mm, larges de ± 0,75 mm, avec des poils clairsemés, petits, blancs, uncinés.
+Inflorescences solitary or in pairs, purplish. Peduncle 7–11 mm long and ca. 0.25 mm thick, with scattered small hooked white hairs. Receptacle broadly infundibuliform to naviculate, narrowly elliptic with acute angles in cross-section, 5–10 mm long, 2–3 mm high and ca. 0.8 mm wide; lower surface with small hooked white hairs mixed with a few larger straight hairs; at the angles, a primary linear appendage 5–10 mm long and ca. 0.35 mm wide at the base; on each side 5–7 shorter linear secondary appendages, 0.25–3.5 mm long and ca. 0.15 mm wide at the base; appendages with scattered small hooked white hairs. Flowers numerous; perianth 1–3-lobed; stamens 1–3 with filaments ca. 0.3 mm long, 0.05 mm thick, ± tortuous, and anthers ca. 0.25 × 0.15 mm with connective as wide as the locules. Female flowers ca. 4, at the center of the receptacle; perianth ca. 0.25 mm high and 0.25 mm in diameter at the base; style ca. 0.35 mm long; stigmas 2, linear, 0.25–0.85 mm long and ca. 0.04 mm thick.
 
-Inflorescences solitaires ou par paires, purpurascentes. Pédoncule long de 7-11 mm et épais d'env. 0,25 mm, avec de petits poils blancs uncinés épars. Réceptacle largement infundibiliforme à naviculé, étroitement elliptique avec des angles aigus en coupe transversale, long de 5-10 mm, haut de 2-3 mm et large d'env. 0,8 mm ; face inférieure avec de petits poils blancs uncinés, mêlés avec quelques poils droits plus gros ; aux angles, un appendice primaire linéaire long de 5-10 mm et
-
-large de 0,35 mm env. à la base ; de chaque côté 5-7 appendices secondaires plus courts, linéaires, longs de (0,25-) 1-3,5 mm et larges d'env. 0,15 mm à la base ; appendices avec de petits poils blancs uncinés épars. Fleurs à nombreuses ; périanthe 1-3-lobé ; étamines 1-3 à filaments longs de 0,3 mm env., épais de 0,05 mm, ± tortueux, et anthères d'env. 0,25 × 0,15 mm à connectif aussi large que les loges. Fleurs ♀ env. 4, au centre du réceptacle ; périanthe d'env. 0,25 mm de hauteur et 0,25 mm de diamètre à la base ; style long de 0,35 mm env. ; stigmates 2, linéaires, longs de 0,25-0,85 mm et épais d'env. 0,04 mm.
-
-Noyau subglobuleux, de 2,5-3,5 mm de diamètre, lisse. - Pl. 27, p. 95.
+Pyrene subglobose, 2.5–3.5 mm in diameter, smooth. – Pl. 27, p. 95.
 
 ## Type
 
@@ -35,13 +31,11 @@ Le Testu 2151, Gabon (holo-, P ; iso-, BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is remarkable for its pinnate leaves not found in any other Dorstenia in Cameroon and Gabon. PELLEGRIN noted the relationship between D. dinklagei ENGL. and D. letestui PELLEGR. Both are small herbaceous plants and both have naviculate receptacles, but they differ in leaf shape.
 
-Cette espèce est remarquable par ses feuilles pennées qu'on ne retrouve dans aucun autre Dorstenia au Cameroun et au Gabon. PELLEGRIN remarquait la relation entre D. dinklagei ENGL. et D. letestui PELLEGR. Tous les deux sont de petites plantes herbacées et tous les deux ont des réceptacles naviculés, mais ils diffèrent par la forme des feuilles.
+In other respects the leaves of D. dinklagei resemble those of D. letestui somewhat. No intermediates (yet?) have been found between the lobed leaves of D. dinklagei and the pinnate leaves of D. letestui.
 
-Par d’autres points les feuilles de D. dinklagei ressemblent un peu à celles de D. letestui. On n’a pas (encore ?) trouvé d’intermédiaires entre les feuilles lobées de D. dinklagei et les feuilles pennées de D. letestui.
-
-Cette espèce n'est connue que du Gabon avec une aire assez restreinte, à l'Est de la Ngounyé, jusqu'à 900 m d'altitude.
+This species is known only from Gabon with a rather restricted range, east of the Ngounyé, up to 900 m altitude.
 
 ## Specimens examined
 

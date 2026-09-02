@@ -17,47 +17,41 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pseudobulbes 1,2-4,2 cm, orbiculaires à étroitement ovoïdes, 1-foliés. Feuille courtement pétiolée, 3-21 × 1-5,5 cm, oblongue-elliptique à oblongue-obovée, obtuse. Inflorescence assez dense, 3,5-60 cm, 2-80-flore. Fleurs petites, sépales pourpre foncé face adaxiale, brunâtre-pourpre face abaxiale, pétales pourpres, labelle pourpre-rouge foncé avec des poils pourpres ou brunâtres. Sépales glabres sauf les marges finement ciliées, aigus, étroitement triangulaires ; sépales latéraux oblongs-ovés. Pétales linéaires, apiculés, falciformes, glabres. Labelle épais, oblong-lancéolé, récurvé près de la base élargie, sommet aigu à obtus, marges couvertes de poils courts à la partie inférieure et plus longs vers le sommet.
+Pseudobulbs 1.2-4.2 cm, orbicular to narrowly ovoid, 1-leaved. Leaf shortly petiolate, 3-21 × 1-5.5 cm, oblong-elliptic to oblong-obovate, obtuse. Inflorescence rather dense, 3.5-60 cm, 2-80-flowered. Flowers small, sepals dark purple on adaxial surface, brownish-purple on abaxial surface, petals purple, lip dark purple-red with purple or brownish hairs. Sepals glabrous except for finely ciliate margins, acute, narrowly triangular; lateral sepals oblong-ovate. Petals linear, apiculate, falcate, glabrous. Lip thick, oblong-lanceolate, recurved near the enlarged base, apex acute to obtuse, margins covered with short hairs on the lower part and longer hairs toward the apex.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphyte; primary forest
 
-épiphyte ; forêt primaire
-
-VERMEULEN (1987) inclut dans cette espèce 3 variétés, dont la var. albociliatum – que nous considérons comme une espèce séparée. Les deux autres, var. saltatorium et var. calamarium présentées ici, se distinguent par la pubescence du labelle.
+VERMEULEN (1987) includes in this species 3 varieties, of which var. albociliatum – which we consider as a separate species. The other two, var. saltatorium and var. calamarium presented here, are distinguished by the pubescence of the lip.
 
 a. var. saltatorium
 
-Poils veloutés le long des marges adaxiales du labelle jusqu'à son sommet ; ceux du sommet ni plus longs ni plus gros.
+Velvety hairs along the adaxial margins of the lip to its apex; those of the apex neither longer nor thicker.
 
 alt. < 600 m
 
 b. var. calamarium (Lindl.) J.J.Verm.
 
-BJBB 56 : 230 (1986) ; Orchid. Monogr. 2 : 35, fig. 9 (1987) ; FAC 2 : 316 (1992). - BASIONYME : B. calamarium Lindl., Bot. Reg. 29 : misc. 70 (1843). - TYPE : Fielding s.n., Sierra Leone, holo-K!.
+BJBB 56 : 230 (1986) ; Orchid. Monogr. 2 : 35, fig. 9 (1987) ; FAC 2 : 316 (1992). - BASIONYM : B. calamarium Lindl., Bot. Reg. 29 : misc. 70 (1843). - TYPE : Fielding s.n., Sierra Leone, holo-K!.
 
-Poils veloutés le long des marges adaxiales du labelle jusqu'à sa mi-hauteur, les poils de la moitié apicale disparaissant progressivement ou devenant beaucoup plus gros et plus longs. - Pl. 69, p. 143.
+Velvety hairs along the adaxial margins of the lip to its mid-height, the hairs of the apical half disappearing progressively or becoming much thicker and longer. - Pl. 69, p. 143.
 
 alt. 0-900 m
 
-MATÉRIEL ÉTUDIÉ (Carte 23) :
+MATERIAL EXAMINED (Map 23) :
 
-Chevalier 27135, sur la Komo, env. de Libreville (fl., Oct.), P!.
+Chevalier 27135, on the Komo, env. of Libreville (fl., Oct.), P!.
 
-Hallé 1728, 10 km au SO de Ndjolé, C. E. F. A. Ayem (st., Avr.), P! Spécimens stériles indéterminables au rang variétal.
+Hallé 1728, 10 km SW of Ndjolé, C. E. F. A. Ayem (st., Apr.), P! Sterile specimens indeterminable at the varietal rank.
 
-Florence 99, Mékambo, plantation de cacao (st., Mars), P!. Hallé & Cours 6077, Moumba, Côte Ouest (st., Mai), P!. Villiers s.n., Libreville, route de la ferme avicole (st., Avr.), P!.
+Florence 99, Mékambo, cacao plantation (st., Mar.), P!. Hallé & Cours 6077, Moumba, West Coast (st., May), P!. Villiers s.n., Libreville, road to the poultry farm (st., Apr.), P!.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+not yet collected in Gabon, but its presence there is very likely: Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Equatorial Guinea
 
-non encore récoltée au Gabon, mais sa présence y est très probable : Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Guinée équatoriale
-
-déjà récoltée au Gabon, ses fleurs sont plus grandes que celles de la variété typique. Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Cameroun, Guinée équatoriale, Gabon, Congo (Brazzaville), Congo (Kinshasa), Angola
+already collected in Gabon, its flowers are larger than those of the typical variety. Sierra Leone, Liberia, Ivory Coast, Ghana, Cameroon, Equatorial Guinea, Gabon, Congo (Brazzaville), Congo (Kinshasa), Angola
 
 ## Figures
 

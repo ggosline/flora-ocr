@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ENGL., Pflanzenw. Afr. 3 (1) : 311, tab. 199 (1915), nom. nud.
 
-Arbuste haut de 15 m (fide ENGLER : 311). Jeunes pousses et axes de l'inflorescence couverts d'un tomentum aranéeux blanchâtre, tardivement caduc. Stipules remarquablement triangulaires subdeltées, 6-8 mm de hauteur, avec onglet, base ± cordée et nervation subflabellée bien marquée. Pétiole 6 mm, canaliculé, glabre. Limbe elliptique, 6-7(-9) × 12-14(-18) cm; base aiguë, nettement rétrécie sur le haut du pétiole; sommet obtus, acumen 1 cm; nervures latérales environ 6(-9) paires, inclinées à 45° sur la nervure médiane, courbées ascendantes; limbe glabre; 2 grosses glandes circulaires vers l'extrême base du limbe dessous, glandes circulaires éparses à environ 5 mm de la marge du limbe et jusque sous l'acumen; par ailleurs, tout le limbe garni de fines ponctuations glanduleuses circulaires au-dessous.
+Shrub up to 15 m tall (fide ENGLER : 311). Young shoots and inflorescence axes covered with arachnoid, whitish tomentum, tardily deciduous. Stipules remarkably triangular, subdeltoid, 6–8 mm in height, with a claw, base ± cordate and subflabellate, well-marked venation. Petiole 6 mm, canaliculate, glabrous. Blade elliptic, 6–7(–9) × 12–14(–18) cm; base acute, distinctly narrowed at the top of the petiole; apex obtuse, acumen 1 cm; lateral veins approximately 6(–9) pairs, inclined at 45° to the midvein, curved upward; blade glabrous; 2 large circular glands towards the extreme base of the blade beneath, circular glands scattered at approximately 5 mm from the blade margin and extending below the acumen; furthermore, the entire blade furnished with fine circular glandular punctations below.
 
-Inflorescences cymeuses terminales et axillaires subterminales, 8-10 cm
+Terminal and subterminal axillary cymose inflorescences, 8–10 cm in height, 1(–2) times branched, slender and sparsely flowered, arachnoid as mentioned above and furthermore axes, bracts, pedicels, bracteoles covered with short, rather sparse woolly pubescence. Bracts and bracteoles ovate-triangular, base possibly subcordate, respectively 4–5 and 2–3 mm, furnished with a few marginal glands of which generally 1 apical, nail-head-shaped, approximately 0.5 mm in height; portion of the pedicels below the articulation 8–20 mm, bearing 2 alternate bracteoles, the terminal articulated portion of the pedicel reaching or surpassing the apex of the upper bracteole. Pedicel of the flower disarticulated 2–3 mm. Receptacle tubular, 10–15 mm, covered with whitish woolly pubescence; sepals 4–5 mm, covered externally with dense whitish woolly pubescence; petals approximately 5 mm (?); androecium 20–30 mm, approximately 20 filaments.
 
-de hauteur, 1(-2) fois ramifiées, grêles et peu fleuries, aranéeses comme mentionné ci-dessus et de plus axes, bractées, pédicelles, bractéoles couverts d'une courte pubescence laineuse assez clairsemée. Bractées et bractéoles ovales triangulaires, à base éventuellement subcordée, respectivement 4-5 et 2-3 mm, garnies de quelques glandes marginales dont généralement 1 apicale, en forme de tête de clou, hautes de 0,5 mm environ; portion des pédicelles sous l'articulation 8-20 mm, portant 2 bractéoles alternes, la portion terminale articulée du pédicelle atteignant ou dépassant le sommet de la bractéole supérieure. Pédicelle de la fleur désarticulée 2-3 mm. Réceptacle tubuleux, 10-15 mm, couvert d'une pubescence laineuse blanchâtre; sépales 4-5 mm, couverts extérieurement d'une dense pubescence laineuse blanchâtre; pétales environ 5 mm (?); androcée 20-30 mm, environ 20 filets.
-
-Infrutescence et fruit inconnus. — PL. 5, p. 23.
+Infructescence and fruit unknown. — PL. 5, p. 23.
 
 ## Type
 
@@ -35,11 +31,9 @@ Zenker 2903, Cameroun (holo-, B!; iso-, BR! K! Z!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Acioa cinerea Engl. ex De Wild. paraît être une espèce rare, récoltée seulement près de Bipindi au Cameroun.
+Acioa cinerea Engl. ex De Wild. appears to be a rare species, collected only near Bipindi in Cameroon.
 
 ## Specimens examined
 

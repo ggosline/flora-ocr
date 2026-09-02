@@ -22,15 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Alston, Bol. Soc. Brot., 2e sér. A, 30 : 11 (1956); FWTA : 73 (1959).
 
-— Alston, Bol. Soc. Brot., 2e sér. A, 3o : 11 (1956); FWTA : 73 (1959).
+Rhizome thick, shortly creeping, bearing thick and broad lanceolate scales, blackish-brown. Petiole 30-50 cm long, dark brown, bearing the same scales at the base, naked higher up. Blade 30-55 cm by 25 cm wide, deltoid, pinnate, bipinnate at the base. Lateral pinnae 7-8 pairs below the deltoid terminal pinna, deeply lobed. Lower pinnae shortly petiolate, very much developed basiscópically, divided into pinnules, the first 2-3 free, the others adnate, with rounded apex, unequal bases. Middle pinnae subsessile or sessile, with apex shortly attenuate, margins lobed on about 1/2 of their width, with rounded lobes, the first lobe slightly larger than the following. Subcoriaceous texture. Surfaces and nerves glabrous. Rachis black. Veinlets pinnate in the lobes, sometimes entirely free, most often forming a few isolated areoles, sometimes a row of marginal areoles. Sori small, with peltate indusium.
 
-Rhizome épais, courtement rampant, portant d'épaisses et larges écailles, lancéolées, brun noir. Pétiole long de 30-50 cm, brun foncé, portant les mêmes écailles à la base, nu plus haut. Limbe de 30-55 cm sur 25 de large, deltoïde, penné, bipenné à la base. Pennes latérales 7-8 paires sous la terminale deltoïde, profondément lobée. Pennes inférieures courtement pétiolées, très développées basiscopiquement, divisées en pinnules, les 2-3 premières libres, les autres adnées, à extrémité arrondie, bases inégales. Pennes moyennes subsessiles ou sessiles, à extrémité courtement effilée, marges lobées sur environ 1/2 de leur largeur, à lobes arrondis, le premier lobe légèrement plus grand que les suivants. Texture subcoriace. Surfaces et nervures glabres. Rachis noir. Nervilles pennées dans les lobes, parfois entièrement libres, formant le plus souvent quelques aréoles isolées, parfois une rangée d'aréoles marginales. Sores petits, à indusie peltée.
+Somewhat aberrant species, forming a transition to Tectaria because of its anastomosing veins forming isolated areoles, or, sometimes, a row of marginal areoles. Approaches, on the other hand, Ctenitis jenseniae and securidiformis.
 
-Espèce un peu aberrante, formant passage vers les Tectaria à cause de ses nervures anastomosées formant des aréoles isolées, ou, parfois, une rangée d'aréoles marginales. Se rapproche, d'autre part, des Ctenitis Jenseniae et securidiformis.
-
-Côté-d'Ivoire, Gabon, Congo. Sol boueux sous raphiale.
+Ivory Coast, Gabon, Congo. Muddy soil under raphia.
 
 ## Specimens examined
 

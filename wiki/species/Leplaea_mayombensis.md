@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 30 m de hauteur ; tronc jusqu’à 90 cm de diamètre, souvent tortueux ; écorce rugueux, gris ; tranche blanchâtre à jaune rosé, d’habitude sans latex. Feuille : pétiole 5,5-7,5 cm, caniculé et à bords aliformes dessus, engainant à la base, pubérulent ; rachis 17–22,5 cm ; pétiolule 6(–10) mm ; folioles (7–)13–15, rectangulaires à elliptiques, 22–35(–40) × 5–9 cm, arrondies ou cunéiformes à la base, aiguës à acuminées au som met, glabres ; nervures secondaires 12–14 paires, réseau de veinules saillant sur les
-
-deux faces. Inflorescences souvent fasciculées, atteignant 9 cm de longueur, pauciflores. Fleur fonctionnellement mâle : pédicelle articulé, 2–4 mm, tomenteux ; calice 5–7 mm de longueur, se déchirant profondément et assez irrégulièrement en 2–4 lobes ; corolle à pétales fortement soudés ou se déchirant irrégulièrement en 2–5 lobes , atteignant 12 mm de longueur, pubérulents à l’extérieur, glabres à l’intérieur ; tube staminal urcéolé, 8–9 mm de longueur, glabre, à (8–)10–16 anthères ; gynécée glabre, sur disque-gyno phore de 0,7 mm de longueur, ovaire ovoïde, 4–4,5 × 2 mm ; style 4–4,5 mm. Fleur fonctionnellement femelle similaire mais à dimensions plus grandes ; pétales 12–15(–17) mm de longueur ; tube staminal 12 mm de longueur ; ovaire ovoïde, 8–9 × 4 mm, glabre, (3–)5-loculaire, à 1 ovule axillaire par loge. Fruit globuleux, 10–15 cm de diamètre, à déhiscence tardive, orangé, contenant du latex gluant, blanchâtre et parfumé. Graines 1–4, en forme de tranches d’orange, 8 × 4–5 cm.
+Tree reaching 30 m in height; trunk up to 90 cm in diameter, often tortuous; bark rugose, grey; cross-section whitish to pale pink, usually without latex. Leaf: petiole 5.5–7.5 cm, canaliculate and with winged margins above, sheathing at the base, puberulent; rachis 17–22.5 cm; petiolule 6(–10) mm; leaflets (7–)13–15, rectangular to elliptic, 22–35(–40) × 5–9 cm, rounded or cuneate at the base, acute to acuminate at the apex, glabrous; secondary veins 12–14 pairs, network of veinlets prominent on both surfaces. Inflorescences often fasciculate, reaching 9 cm in length, pauciflorous. Functionally male flower: pedicel articulate, 2–4 mm, tomentose; calyx 5–7 mm in length, tearing deeply and rather irregularly into 2–4 lobes; corolla with petals strongly fused or tearing irregularly into 2–5 lobes, reaching 12 mm in length, puberulent on the outside, glabrous on the inside; staminal tube urceolate, 8–9 mm in length, glabrous, with (8–)10–16 anthers; gynoecium glabrous, on a gyno-phore disk 0.7 mm in length, ovary ovoid, 4–4.5 × 2 mm; style 4–4.5 mm. Functionally female flower similar but with larger dimensions; petals 12–15(–17) mm in length; staminal tube 12 mm in length; ovary ovoid, 8–9 × 4 mm, glabrous, (3–)5-locular, with 1 axillary ovule per locule. Fruit globose, 10–15 cm in diameter, with late dehiscence, orange, containing sticky, whitish and fragrant latex. Seeds 1–4, orange-slice-shaped, 8 × 4–5 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République Démocratique du Congo et Ouganda ; à rechercher en Guinée Équatoriale ; au Gabon, connue de la Nyanga, de l’Ogooué-Ivindo et de l’Ogooué-Lolo
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Uganda; to be sought in Equatorial Guinea; in Gabon, known from Nyanga, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de forêt humide sempervirente et semi-décidue, groupements fores tiers orophiles ; au Gabon, à 350–700 m d’altitude, ailleurs jusqu’à 2000 m
+understory of evergreen and semi-deciduous humid forest, orophilous forest groupings; in Gabon, at 350–700 m altitude, elsewhere up to 2000 m
 
 ## Vernacular names
 

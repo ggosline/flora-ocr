@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA, 6 (2) : 153 (1916) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 172 (1948).
 
-- F. callescens HIERN, Cat. Afr. Pl. Welw. 1: 1001 (1900); MILDBR. & BURRET, l.c.: 234 (1911). LECTOTYPE: Welwitsch 6395, Angola, Golungo Alto, entre les riv. Cuango et Quiapozé (BM; iso-, B, C, K, P).
+- F. callescens HIERN, Cat. Afr. Pl. Welw. 1: 1001 (1900); MILDBR. & BURRET, l.c.: 234 (1911). LECTOTYPE: Welwitsch 6395, Angola, Golungo Alto, between rivers Cuango and Quiapozé (BM; iso-, B, C, K, P).
 
 - F. rhynchocarpa MILDBR. & BURRET, l.c. : 235 (1911) ; HUTCH., l.c. : 144 (1916). LECTO-
 
@@ -33,25 +31,21 @@ Stuhlmann 3779, Tanzanie, Bukoba (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- F. nyanzensis HUTCH., Kew Bull.: 327 (1915). TYPE : Bagshawe 690, Uganda, Nyanza, near Lake Victoria (holo-, K ; iso-, BM).
 
-- F. nyanzensis HUTCH., Kew Bull.: 327 (1915). TYPE : Bagshawe 690, Uganda, Nyanza, près du lac Victoria (holo-, K ; iso-, BM).
+- F. rederi Hutch., Kew Bull.: 329 (1915); KEAY, FWTA, ed. 2, 1: 608 (1958). LECTOTYPE: Reder 395, Cameroon, Buéa (B).
 
-- F. rederi Hutch., Kew Bull.: 329 (1915); KEAY, FWTA, ed. 2, 1: 608 (1958). LECTO-TYPE: Reder 395, Cameroun, Buéa (B).
+Epiphytic shrubs or trees up to 8 m tall. Leafy twigs thick 3–5 mm, glabrous to sparingly white puberulent, reddish-brown when dry, rhytidome sometimes peeling off, solid. Leaves arranged spirally. Blade lanceolate to obovate, 6–20 cm long, 3–7 cm wide, coriaceous, apex acuminate, base acute to attenuate, margin entire; both faces glabrous; veins plane above, prominent (with contrasting white color) beneath, 5–7 (–8) pairs of lateral veins, including 1 pair of indistinct basal veins; glandular spot at the base of the midvein invisible. Petiole 1.5–4 cm long, ca. 3 mm thick, glabrous (or sparingly brown puberulent, this indumentum sometimes extending to the base of the midvein). Stipules fused to about the midpoint, 0.5–2 cm long, white puberulent, sometimes also sparingly white pubescent or (almost) glabrous, persistent.
 
-Arbustes épiphytes ou arbres hauts jusqu'à 8 m. Rameaux feuillés épais de 3-5 mm, glabres à éparsement pubérulents blancs, rougeâtre brun à sec, rhytidome parfois se détachant, pleins. Feuilles disposées en spirales. Limbe blancéolé à obové, long de 6-20 cm, large de 3-7 cm, coriace, sommet acuminé, base aiguë à atténuée, bord entier ; les deux faces glabres ; nervures planes dessus, saillantes (avec une couleur blanche contrastante) dessous, 5-7 (-8) paires de nervures latérales, inclus 1 paire de nervures basales indistinctes ; tache glandulaire à la base de la nervure médiane invisible. Pétiole long de 1,5-4 cm, épais de 3 mm environ, glabre (ou éparsement pubérulent brun, cet indumentum étendu parfois à la base de la nervure médiane). Stipules soudées jusqu'à la moitié environ de leur longueur, longues de 0,5-2 cm, pubérulentes blanches, parfois aussi éparsement pubescentes blanches ou (presque) glabres, persistantes.
+Figs solitary (or up to 3 together) in leaf axils; peduncle 0.5–2.5 cm long, ca. 1 mm thick, smooth to weakly rugose, with short, stiff white to whitish-brown hairs; basal bracts 2, free or weakly fused at base, reniform to broadly ovate, ca. 4 mm long and 5 mm wide, white to whitish-brown puberulent less densely toward the margin, or glabrous; receptacle globose to obovoid and then usually stipitate reaching ca. 10 mm or pyriform, 3–5 cm in diameter when fresh, 2–3 cm when dry, often ± rugose with stiff white hairs, pale yellow to pale green at maturity, black when dry, wall thick up to 8 mm when fresh, and ca. 3–5 mm when dry, spongy; ostiole prominent, bilobed.
 
-Figues solitaires (ou jusqu'à 3 ensemble) dans les aisselles des feuilles ; pédoncule long de 0,5-2,5 cm, épais de 1 mm environ, lisse à faiblement rugueux, avec des poils blancs à blanc brunâtre, courts, raides ; bractées basales 2, libres ou faiblement soudées à la base, réni-formes à largement ovées, longues de 4 mm environ et larges de 5 mm, pubérulentes blanches à blanc brunâtre moins densément vers le bord, ou glabres ; réceptacle globuleux à obovoide et puis habituellement à stipe atteignant 10 mm environ ou pyriforme, d'un diamètre de 3-5 cm sur le frais, de 2-3 cm sur le sec, souvent ± rugueux avec des poils blancs raides, jaune pâle à vert pâle à maturité, noir à sec, paroi épaisse jusqu'à 8 mm sur le frais, et 3-5 mm environ sur le sec, spongieuse ; ostiole saillant, bilabié.
+Pistillate flowers with 4 ± unequal tepals, 1.5–2 mm long, acute, free; seed flowers sessile or subsessile, style 3–4 mm long; gall flowers with pedicel reaching 4 mm, style 1–1.5 mm long. Fruits ellipsoid to oblong or (sub)ovoid, 1.5–2 mm long; gall fruits oblong to subovoid, ± stipitate, 2.4–3 mm long; fruits distinctly bicolored. Staminate flowers few, with pedicel reaching ca. 0.5 mm, perianth with 2–3 tepals, 1–1.5 mm long, acute, free, filament ca. 0.5 mm long, anther apiculate 1.2–1.5 mm long. Interfloral bracts 2–2.5 mm long. – Pl. 71, p. 235.
 
-Fleurs pistillées avec 4 tépales ± inégaux, longs de 1,5-2 mm, aïgus, libres ; fleurs à graines sessiles ou subsessiles, style long de 3-4 mm ; fleurs à galles à pédicelle atteignant 4 mm, style long de 1-1,5 mm. Fruits ellipsoïdes à oblongoïdes ou (sub) ovoïdes, longs de 1,5-2 mm ; fruits à galles oblongoïdes à subovoïdes, ± stipités, longs de 2,4-3 mm ; fruits distinctement bicolores. Fleurs staminées peu nombreuses, à pédicelle atteignant 0,5 mm environ, périant avec 2-3 tépales, longs de 1-1,5 mm, aïgus, libres, filet long de 0,5 mm environ, anthère apiculée
+Pollinator: Agaon paradoxum Dalman (Sierra Leone, Uganda).
 
-longue de 1,2-1,5 mm. Bractées interflorales longues de 2-2,5 mm. - Pl. 71, p. 235.
+Sterile specimens of this species cannot be distinguished, or often only with difficulty from F. pringsheimiana. Even the figs of the two species can be fairly similar except for the presence of a peduncle in F. cyathistipula. At first glance, the figs of the material on which F. rhynchocarpa was described are quite distinct from the normal figs in F. cyathistipula. The very prominent verrucae can be regarded as an extreme case of variation.
 
-Pollinisateur : Agaon paradoxum Dalman (Sierra Leone, Uganda).
-
-Les spécimens stériles de cette espèce ne peuvent pas être distingués, ou souvent difficilement de F. pringsheimiana. Même les figues des deux espèces peuvent être assez semblables sauf par la présence d'un pédoncule chez F. cyathistipula. A première vue, les figues du matériel sur lequel F. rhynchocarpa fut décrit, sont tout à fait distinctes des figues normales dans F. cyathistipula. Les verrues très saillantes peuvent être regardées comme un cas extrême de variation.
-
-L'espèce s'étend de la Côte d'Ivoire au Kenya et à la Tanzanie, vers le Sud au Malawi, à la Zambie et à l'Angola. Au Gabon, elle est collectée souvent près des rivières. Récoltée jusqu'à une altitude de 1200 m.
+The species ranges from Côte d'Ivoire to Kenya and Tanzania, southward to Malawi, Zambia, and Angola. In Gabon, it is often collected near rivers. Collected up to an altitude of 1200 m.
 
 ## Specimens examined
 

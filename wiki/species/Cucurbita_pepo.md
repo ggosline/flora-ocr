@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grimpante; tige à poils soyeux et raides. Vrilles multifides. Feuille: pétiole 6–9 cm, soyeux; limbe de contour triangulaire à ovale-triangulaire, fortement lobé, cordé à la base, aigu au sommet, à poils raides sur les 2 faces, à marge irrégulièrement dentée. Fleur: pédicelle anguleux, 3–6 cm, soyeux, jaune-brun; réceptacle pentagonal; sépales très étroitement elliptiques-ovales, longs de 1–3 cm; corolle campanulée, à lobes c. 10-16 × 3 cm, érigés-étalés, aiguus au sommet. Fleur mâle: étamines à filet de ±15 mm, anthère longue de 10 mm. Fleur femelle à pédicelle court; ovaire ovoïde. Fruit à pédicelle robuste, sillonné-anguleux, légèrement épaissir au sommet, de forme et de taille variables. Graine ovale, longue de 10–15 mm, blanche à blanc-crème, marginée.
+Climbing herb; stem with silky and stiff hairs. Tendrils multifid. Leaf: petiole 6–9 cm, silky; blade triangular to ovate-triangular in outline, strongly lobed, cordate at base, acute at apex, with stiff hairs on both surfaces, margin irregularly dentate. Flower: pedicel angular, 3–6 cm, silky, yellowish-brown; receptacle pentagonal; sepals very narrowly elliptic-ovate, 1–3 cm long; corolla campanulate, with lobes c. 10–16 × 3 cm, erect-spreading, acute at apex. Male flower: stamens with filament of ±15 mm, anther 10 mm long. Female flower with short pedicel; ovary ovoid. Fruit with robust pedicel, sulcate-angular, slightly thickened at apex, variable in shape and size. Seed ovate, 10–15 mm long, white to cream-white, marginate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire d'Amérique, aujourd'hui largement cultivé dans les zones tropicales et tempérées chaudes du monde entier ; au Gabon, cultivé et parfois échappant
+native to America, today widely cultivated in tropical and warm temperate zones throughout the world; in Gabon, cultivated and sometimes naturalized
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en culture, à 0–3600 m d'altitude
+in cultivation, at 0–3600 m altitude
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ citrouille, courgette, pâtisson, potiron (fr.); courgette, pumpkin, summer squa
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Usage: Les fruit sont largement consommés dans le monde, essentiellement à l'état cuit. Les feuilles et jeunes pousses sont mangées comme herbe potagère. Les graines, crues ou grillées, sont comestibles et ont plusieurs applications dans la médecine traditionnelle. L'huile des graines s'utilise comme huile d'assaisonnement.
+Uses: The fruits are widely consumed in the world, essentially in the cooked state. The leaves and young shoots are eaten as potherb. The seeds, raw or roasted, are edible and have several applications in traditional medicine. The seed oil is used as a seasoning oil.
 
 ## Bibliography
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Megaclinium melleri Hook. f., Bot. Mag. 97 : pl. 5936 (1871).
 
 – Bulbophyllum tentaculigerum Rchb. f., Flora 61 : 77 (1878).
@@ -27,25 +25,19 @@ tags: [species, generated]
 
 – Bulbophyllum bibudiense Schltr., Bot. Jahrb. Syst. 38 : 155 (1906).
 
-Pseudobulbes 1,5-7 × 1-2,5 cm, étroitement ovoïdes à ellipsoïdaux, 2-foliés. Feuilles courtement pétioilées à sessiles ; 6-10 × 1-2 cm, lancéolées à oblongues-elliptiques, obtuses. Inflorescence lâche, 7-24 cm, pauci- à pluriflore, rachis papilleux à glabre, aplati et élargi comme un limbe aigu. Fleurs petites, jaunâtres ou verdâtres à pourpres., Sépale dor- sal glabre à finement papilleux, oblong-lancéolé, obtus, défléchi ; sépales latéraux semi-elliptiques à sub-semi-orbiculaires, obliques, som- met récurvé, triangulaire apiculé. Pétales falciformes, linéaires, un peu contractés près du milieu, obtus, glabres. Labelle glabre, pourpre ou
-
-crème tacheté de pourpre, largement triangulaire à la partie inférieure, partie apicale liguliforme, obtuse, récurvée, épaisse avec une excroissance nette à la face supérieure. – Pl. 81, p. 165.
+Pseudobulbs 1.5–7 × 1–2.5 cm, narrowly ovoid to ellipsoid, 2-leaved. Leaves shortly petiolate to sessile; 6–10 × 1–2 cm, lanceolate to oblong-elliptic, obtuse. Inflorescence lax, 7–24 cm, pauci- to pluriflorous, rachis papillose to glabrous, flattened and widened like an acute limb. Flowers small, yellowish or greenish to purple. Dorsal sepal glabrous to finely papillose, oblong-lanceolate, obtuse, deflexed; lateral sepals semi-elliptic to sub-semiorbicular, oblique, apex recurved, triangular apiculate. Petals falciform, linear, slightly constricted near the middle, obtuse, glabrous. Labellum glabrous, purple or cream spotted with purple, broadly triangular in the lower part, apical part ligulate, obtuse, recurved, thick with a distinct protuberance on the upper surface. – Pl. 81, p. 165.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo (Kinshasa), Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique, Afrique du Sud
+Cameroon, Gabon, Congo (Kinshasa), Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique, South Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 200–2100 m. Epiphyte, sometimes lithophyte in primary and secondary forest, lowland to montane, and in Brachystegia woodland
 
-alt. 200-2100 m. Épiphyte, parfois lithophyte en forêt primaire et secondaire, planitaire à montagnarde, et dans des boisements à Brachystegia
+MATERIAL EXAMINED (Map 29):
 
-MATÉRIEL ÉTUDIÉ (Carte 29) :
-
-Breteler, Lemmens & Nzabi 8040, entre Mouila et Yéno, km 60 ; Mouila, bord de nouvelle piste en forêt, 1° 44' S, 11° 24' E (fl., Sept.), WAG!, LBV. Chevalier s.n., Agonenzorck, sur le Haut Komo (fl., Oct.), P! ; Louis 2683, Région de l'Estuaire, Route Tchimbélé vers Assok (fl., Fév.), WAG!, LBV. Wieringa 690, Woleu-Ntem, Monts de Cristal, 2 km au SE de Tchimbélé, 10° 25' E, 0° 36' N (fl., Mars), WAG!, LBV.
+Breteler, Lemmens & Nzabi 8040, between Mouila and Yéno, km 60; Mouila, edge of new path in forest, 1° 44' S, 11° 24' E (fl., Sept.), WAG!, LBV. Chevalier s.n., Agonenzorck, on the Upper Komo (fl., Oct.), P!; Louis 2683, Estuaire Region, Tchimbélé to Assok Road (fl., Feb.), WAG!, LBV. Wieringa 690, Woleu-Ntem, Monts de Cristal, 2 km SE of Tchimbélé, 10° 25' E, 0° 36' N (fl., Mar.), WAG!, LBV.
 
 ## Notes
 

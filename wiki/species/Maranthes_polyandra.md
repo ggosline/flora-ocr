@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , p.p., excl. subsp. floribunda (Bak.) Prance; WHITE, BJBB 46 : 304 (1976).
 
 — Parinari polyandra Benth., in Hook., Niger Fl. : 333 (1849); OLIV., FTA 2 : 370 (1871); ENGL., Pflanzenw. Afr. 3 (1) : 306 (1915); DALZ., Us. Pl. W. Trop. Afr. : 170 (1937); AUBR., FFSG : 207, tab. 40, fig. 6-7, cart. 17 (1950); ANDREWS, Flow. Pl. Anglo-Egypt. Sudan 2 : 105 (1952); TISSERANT & SILLANS, Not. Syst. : 210 (1956); KEAY, FWTA, ed. 2, 1 (2) : 428 (var. polyandra et var. cinerea) (1958); KEAY, ONOCHIE & STANFIELD, Niger. Trees 1 : 314 (var. polyandra) et 316 (var. cinerea), tab. 82 (1960); IRVINE, Woody Pl. Ghana : 266 (1961).
@@ -33,13 +31,13 @@ tags: [species, generated]
 
 — P. baoulensis A. Chev., Expl. Bot. Afr. Occ. Fr. 1 : 250 (1920), nom. nud.
 
-Cette espèce n'est connue au Cameroun que par un échantillon fructifère provenant de la région d'Akwaya au Nord de Mamfe. Diagnose, littérature et échantillons disponibles permettent de compléter (entre parenthèses) la description suivante de cet échantillon :
+This species is known from Cameroon only from a fertile specimen from the Akwaya region north of Mamfe. Diagnosis, literature and available specimens make it possible to supplement (in parentheses) the following description of this specimen:
 
-Arbuste de savane à tronc de 30 cm de diamètre, branchu à faible hauteur avec branches tortueuses et cime globuleuse, de 6(-8) m de hauteur totale. (Rameaux brun orangé subérifiés.) Jeunes rameaux et pétioles pubescents (ou glabrescents) ; stipules intrapétiolaires soudées en une pièce allongée échancrée ou bifide, adhérente à la base au pétiole et protégéant un bourgeon qui laisse sur la base du pétiole, après abscission, une empreinte demi-circulaire concave; pétiole long de (3-)5 mm. Limbe coriace, elliptique parfois un peu obovale, (5-)6,5(-9) × (8-)12(-16) cm, (ou un peu oblong), à base obtuse(-arrondie), à sommet (obtus-)arrondi avec petit acumen deltoïde ± ébauché; (5-)8-9 paires de nervures latérales, obliques inclinées à 45°, assez rectilignes et courbées près de la marge; face supérieure vert foncé vernissée, face inférieure avec revêtement laineux aranéeux blanchâtre persistant (ou caduc, ou limbe glabre, ou pubescent sous les nervures); 2 glandes circulaires marginées, assez grosses, à l'extrême base du limbe.
+Savanna shrub with a trunk 30 cm in diameter, branching at low height with twisted branches and globose crown, 6(-8) m total height. (Branches orange-brown subberified.) Young branches and petioles pubescent (or glabrescent); intrapetiolary stipules fused into one elongated piece emarginate or bifid, adhering at the base to the petiole and protecting a bud which leaves on the base of the petiole, after abscission, a concave semi-circular imprint; petiole 3-5 mm long. Blade coriaceous, elliptic sometimes somewhat obovate, (5-)6.5(-9) × (8-)12(-16) cm, (or somewhat oblong), with obtuse(-rounded) base, with (obtuse-)rounded apex with small deltoid acumen ± sketchy; (5-)8-9 pairs of lateral nerves, oblique inclined at 45°, fairly straight and curved near the margin; upper surface dark green varnished, lower surface with persistent whitish lanate arachnoid covering (or deciduous, or blade glabrous, or pubescent beneath the nerves); 2 circular margined glands, fairly large, at the extreme base of the blade.
 
-Inflorescences (en denses panicules corymbiformes larges de 15-20 cm, multiflores, tomenteuses, avec fleurs extérieurement tomentelleuses, puis axes fructifères glabrescents; bractéoles longues de 3-4 mm, caduques; pédicelle long de 4 mm; réceptacle subcampanulé long de 4 mm; sépales ovales arrondis obtus, longs de 4 mm; pétales largement arrondis, longs de 4-5 mm, blanc rosé; 35-40 étamines longues de 25 mm; carpelles 2-3, hirsutes).
+Inflorescences (in dense corymbiform panicles 15-20 cm wide, multiflorous, tomentose, with flowers externally tomentellous, then fruiting axes glabrescent; bracteoles 3-4 mm long, deciduous; pedicel 4 mm long; receptacle subcampanulate 4 mm long; sepals oval rounded obtuse, 4 mm long; petals broadly rounded, 4-5 mm long, whitish pink; 35-40 stamens 25 mm long; carpels 2-3, hirsute).
 
-Fruit formé de (1-2-3 méricarpes obovoïdes aplatis, 20 × 25 × 30 mm, verts à la partie inférieure et rouges à la partie supérieure (puis uniformément pourpres noirâtres), tomentelleux, avec calice et androcée persistants. — PL. 34, p. 117.
+Fruit formed of (1-2-3 mericarps obovoid flattened, 20 × 25 × 30 mm, green in the lower part and red in the upper part (then uniformly dark purple-black), tomentellous, with persistent calyx and androecium. — PL. 34, p. 117.
 
 ## Type
 
@@ -47,21 +45,17 @@ Vogel 3, Nigeria (holo-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-NOTES TAXONOMIQUES :
+Variations in the indumentum of the lower surface of the blade are encountered from one individual to another in the same population and do not allow the distinction of valid varieties for this species.
 
-Les variations de l'indumentum de la face inférieure du limbe se rencontrent d'un individu à l'autre dans une même population et ne permettent pas de distinguer de variétés valables pour cette espèce.
+Maranthes floribunda (Bak.) F. White (BJBB 46 : 297, 1976) is considered by some authors as a subspecies of M. polyandra (Benth.) Prance; widespread in eastern and southern central Africa (Zaïre, Tanzania, Malawi, Zambia, Angola) it presents the same habit and same ecology as the latter but flower size and proportions allow these two species to be kept distinct.
 
-Maranthes floribunda (Bak.) F. White (BJBB 46 : 297, 1976) est considérée par certains auteurs comme sous-espèce de M. polyandra (Benth.) Prance; répandue en Afrique orientale et centrale australe (Zaïre, Tanzanie, Malawi, Zambie, Angola) elle présente même port et même écologie que cette dernière mais taille et proportions de la fleur permettent de maintenir distinctes ces deux espèces.
-
-Maranthes polyandra (Benth.) Prance se rencontre dans les savanes boisées et forêts sèches de la zone soudanienne, du Mali oriental et de la Côte d'Ivoire au Soudan. Au Cameroun elle n'a été observée jusqu'ici que dans la région d'Akwaya, en savane à Terminalia glaucescens garnie de quelques éléments soudano-guinéens (Anogeissus leiocarpus, Daniellia oliveri, Lophira lanceolata, Parinari curatellifolia, Parkia clappertoniana, Pericopsis laxiflora, Uapaca togoensis, ...); sa présence dans la région de Batouri-Bétaré Oya est assez probable.
+Maranthes polyandra (Benth.) Prance is found in wooded savannas and dry forests of the Sudanian zone, from eastern Mali and Côte d'Ivoire to Sudan. In Cameroon it has been observed so far only in the Akwaya region, in savanna with Terminalia glaucescens furnished with a few Sudano-Guinean elements (Anogeissus leiocarpus, Daniellia oliveri, Lophira lanceolata, Parinari curatellifolia, Parkia clappertoniana, Pericopsis laxiflora, Uapaca togoensis, ...); its presence in the Batouri-Bétaré Oya region is quite probable.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Écorce tannante, utilisée pour lavage et massage des fractures; bois pour charbon de bois; cendres comme sel végétal; feuilles écrasées pour blessures et fractures, en décoction (boisson ou bain) pour fièvre; fruit à peine comestible
+Tanning bark, used for washing and massage of fractures; wood for charcoal; ashes as vegetable salt; crushed leaves for wounds and fractures, in decoction (drink or bath) for fever; fruit scarcely edible
 
 ## Vernacular names
 

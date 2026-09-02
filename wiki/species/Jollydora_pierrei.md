@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PR 103 (4, 127): 26, p.p., exclud. specimina camerun. (1938); BRETELER & VAN ZIEL, in BRETELER (éd.), AUWP 89 (6): 292 (1989). TYPE: Gabon, Sibang, Soyaux 186 (holo-B delet.). NEOTYPE: Gabon, env. de Libreville, Klaine 1596 (P).
 
-PR 103 (4, 127): 26, p.p., exclud. specimina camerun. (1938); BRETELER & VAN ZIEL, in BRETELER (éd.), AUWP 89 (6): 292 (1989). TYPE: Gabon, Sibang, Soyaux 186 (holo-B delet.). NÉOTYPE: Gabon, env. de Libreville, Klaine 1596 (P).
+– J. ellimabouro PIERRE ex GILG, nom. nud. EBJ 23 : 218, "elimaboura" (1896) ; SCHELLENBERG, Mit. Bot. Mus. Univ. Zürich 50 : 70 (1910).
 
-– J. ellimabouro PIERRE ex GILG, nom. nud. EBJ 23 : 218, « elimaboura » (1896) ; SCHEL-LENBERG, Mit. Bot. Mus. Univ. Zürich 50 : 70 (1910).
+Small tree generally unbranched, up to ≤ 5 m tall.
 
-Petit arbre général non ramifié, haut de ≤ 5 m.
+Leaf. Petiole 7–13 cm long, rachis 4–9 cm long. Leaflets 3–7, opposite or alternate, papyraceous to coriaceous, narrowly (obovate) elliptic 11–22 × 3.5–8 cm, base cuneate, acumen rather abrupt 5–15(20) mm long, thin; midvein and 10–16 pairs of prominent lateral nerves on both surfaces as well as the network of tertiary venation; petiolules 3–8 mm long.
 
-Feuille. Pétiole long de 7-13 cm, rachis long de 4-9 cm. Folioles 3-7, opposées ou alternes, papyracées à coriaces, étroitement (obovées) elliptiques 11-22 × 3,5-8 cm, base cunée, acumen assez brusque long de 5-15(20) mm, mince ; médiane et 10-16 paires de grandes nervures latérales, proéminentes sur les 2 faces ainsi que le réseau de nervation III ; pétioules longs de 3-8 mm.
+Inflorescences cauliflorous in racemes grouped ≈ 7-flowered, 1.5 cm long at anthesis. Pedicels articulate; bracts and bracteoles 0.5–1 mm long, tomentose.
 
-Inflorescences cauliflores en racèmes groupés ≈ 7-flores, longs de 1,5 cm à la floraison. Pédicelles articulés ; bractées et bractéoles longues de 0,5-1 mm, tomenteuses.
+Flowers. Sepals elliptic to ovate-triangular, 2–4.5 × 1–1.5 mm, rounded at apex, exterior with appressed pubescence and glandular hairs, interior glabrous. – Pl. 27, 2, p. 91. Petals generally partially coherent, free at apex and base, oblong, 7–9 × 0.8 mm, rounded at apex, glabrous on both surfaces. Stamens 10; the longer stamens 5–6.5 or 5–8 mm, the shorter, 1.5 or 3–5 mm; filaments glabrous; anthers 0.6 mm long. Pistil 1.2–8 mm long; ovary 1 mm long, with woolly indumentum; style 1 or 7 mm long, with few hairs; stigma lobed.
 
-Fleurs. Sépales elliptiques à ovés-triangulaires, 2-4,5 × 1-1,5 mm, arrondis au sommet, extérieur avec pubescence apprimée et des poils glanduleux, intérieur glabre. – Pl. 27, 2, p. 91. Pétales en général partiellement cohérents, libres au sommet et à la base, oblongs, 7-9 × 0,8 mm, arrondis au sommet, glabres sur les 2 faces. Étamines 10 ; les étamines longues ont 5-6,5 ou 5-8 mm, les courtes, 1,5 ou 3-5 mm ; filets glabres ; anthères longues de 0,6 mm. Pistil long de 1,2-8 mm ; ovaire long de 1 mm, indumentum laineux ; style long de 1 ou 7 mm, avec un peu de poils ; stigmate lobé.
+Fruit narrowly ellipsoid narrowed at both extremities, 4.5–6 cm long (≤ 9 cm for SCHELLENBERG 1938: 28), diameter 0.9–1.7 cm, 1–2-seeded; pericarp smooth, shiny, glabrous or glabrescent. - Pl. 27, 5, p. 91.
 
-Fruit étroitement ellipsoïdal rétréci aux deux extrémités, long de 4,5-6 cm (≤ 9 cm pour SCHELLENBERG 1938 : 28), diamètre 0,9-1,7 cm, 1-2-spermes ; péricarpe lisse, brillant, glabre ou glabrescent. - Pl. 27, 5, p. 91.
-
-Graine étroitement ellipsoidale, longue de 2-3 cm, diamètre 6-10 mm.
+Seed narrowly ellipsoid, 2–3 cm long, diameter 6–10 mm.
 
 ## Type
 
@@ -41,15 +39,11 @@ Klaine 1596, env. de Libreville, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, récoltée uniquement près de Libreville
+Gabon, collected only near Libreville
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+rainforests
 
 ## Specimens examined
 

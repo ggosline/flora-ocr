@@ -17,37 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, near Bongo-ville, 1°38'S-13°54'E (fl., fr. juv.) de Wilde & Arends 9989 (holo-WAG; iso-BR, K, LBV, MO, P).
 
-TYPE : Gabon, près de Bongo-ville, 1°38'S-13°54'E (fl., fr. juv.) de Wilde & Arends 9989 (holo-WAG ; iso-BR, K, LBV, MO, P).
+Liane ≤ 12 m. Bark of young branches peeling off in long fibrous strips.
 
-Liane ≤ 12 m. Écorce des jeunes rameaux se détachant en longues bandes fibreuses.
+Leaves opposite; petiole ≤ 7 mm, lower part often transformed into a lignified hook ≤ 6 mm; blade ≤ 9 cm long and ≤ 4 mm wide, coriaceous, somewhat glossy on both surfaces, glabrous except on the domatia and the midvein which bear some simple glandular hairs; major lateral veins 4-7 pairs with pubescent axillary domatia; base of blade cordate, apex short and acuminate.
 
-Feuilles opposées ; pétiole ≤ 7 mm, partie inférieure souvent transformée en un crochet lignifié ≤ 6 mm ; limbe long de ≤ 9 cm et large de ≤ 4 cm, coriace, quelque peu luisant sur les deux faces, glabre, sauf sur les domaties et la nervure médiane qui portent quelques poils glandulaires simples ; grandes nervures latérales 4-7 paires avec des domaties axilaires pubescentes ; base du limbe cordée, sommet court et acuminé.
+Scales absent.
 
-Écailles absentes.
+Inflorescences: terminal or axillary racemes, provided with bracts; rachis ≤ 4 cm; flower length decreasing strongly from the base to the apex of the raceme; leaves subtending the inflorescence, pale and
 
-Inflorescences : racèmes terminaux ou axillaires, munis de bractées ; rachis ≤ 4 cm ; longueur des fleurs diminuant fortement de la base au sommet du racème ; feuilles axillant l'inflorescence, pâles et
+PL. 14. – Combretum inflatum Jongkind: 1, flowering branch; 2, flower; 3, flower, transverse section. – Combretum falcatum (Welwitsch ex Hiern) Jongkind: 4, flower; 5, petal, dorsal view. – Combretum latialatum Engler ex Engler & Diels: 6, flower; 7, petal, dorsal view. (1-3, de Wilde & Arends 9989; 4, 5, Leuwenberg 11452; 6, 7, Reitsma & Breteler 927). – Original drawings by JOANNE DAVIES – Department of plant Taxonomy, Agricultural University, WAGENINGEN (Netherlands).
 
-PL. 14. – Combretum inflatum Jongkind : 1, rameau florifère ; 2, fleur ; 3, fleur, coupe transversale. – Combretum falcatum (Welwitsch ex Hiern) Jongkind : 4, fleur ; 5, pétale, vue dorsale. – Combretum latialatum Engler ex Engler & Diels : 6, fleur ; 7, pétale, vue dorsale. (1-3, de Wilde & Arends 9989 ; 4, 5, Leuwenberg 11452 ; 6, 7, Reitsma & Breteler 927). – Dessin originaux de JOANNE DAVIES – Department of plant Taxonomy. Agricultural University. WAGENINGEN (Pays-Bas).
+velvety; bracts ≤ 15 mm long and ≤ 6 mm wide, very pale green.
 
-veloutées ; bractées longueur ≤ 15 mm et largeur de ≤ 6 mm, vert très pâle.
+Flowers 5-merous, stipitate. Receptacle, exterior covered with ordinary hairs mixed with short and scattered glandular hairs; the inferior, height 2-4 mm; the superior, pale green, height 8-14 mm, width 2.5-3.5 mm, tapered in its distal part, inner face glabrous or with a ring of upward-directed hairs situated at approximately one third of its length. Calyx: lobes, ≤ 0.5 mm long. Petals nearly closing the entrance of the superior receptacle, 1.5-2.5 mm long, 0.5-1 mm wide, whitish-green, exterior pubescent, interior glabrous but provided with papillae. Stamens fused over the greater part of the inner face of the superior receptacle, never visible on the outside, filaments 0-1.5 mm long, anthers 0.5 mm long. Style ≤ 15 mm, fused over 1/3 to 1/2 of its length to the wall of the superior receptacle, equaling or only slightly exceeding the petals.
 
-Fleurs 5-mères, stipitées. Réceptacle, extérieur couvert de poils ordinaires mêlés à des poils glandulaires courts et dispersés ; l'inférieur, hauteur 2-4 mm ; le supérieur, vert pâle, hauteur 8-14 mm, largeur 2,5-3,5 mm, aminci dans sa partie distale, face interne glabre ou avec un anneau de poils dirigés vers le haut situé à peu près au tiers de sa longueur. Calice : lobes, longueur ≤ 0,5 mm. Pétales fermant presque l'entrée du réceptacle supérieur, longueur 1,5-2,5 mm, largeur 0,5-1 mm, blanc-verdâtre, extérieur pubescent, intérieur glabre mais muni de papilles. Étamines soudées sur la majeure partie de la face interne du réceptacle supérieur, jamais visibles à l'extérieur, filets longs de 0-1,5 mm, anthères longues de 0,5 mm. Style ≤ 15 mm, soudé sur 1/3 à 1/2 de sa longueur à la paroi du réceptacle supérieur, dépassant non ou très peu les pétales.
-
-Fruit ≤ 20 × ≤ 14 mm, couverts de nombreux petits poils très peu visibles, ailes papyracées ; stipe ≤ 3 mm. – Pl. 14, 1-3, p. 51.
+Fruit ≤ 20 × ≤ 14 mm, covered with numerous small hairs barely visible, papyraceous wings; stipe ≤ 3 mm. – Pl. 14, 1-3, p. 51.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Congo (Brazzaville) et Congo (Kinshasa)
+Gabon, Congo (Brazzaville) and Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

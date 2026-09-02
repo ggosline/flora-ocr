@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Cymbidium equitans Thouars, Orchid. Iles Austr. Afr. : t. 92 (1822).
 
 – Pleurothallis disticha (Lam.) A. Rich., Orchid. Iles France et Bourbon : 55 (1828).
@@ -31,39 +29,35 @@ tags: [species, generated]
 
 – Oberonia equitans (Thouars) Schltr., Beih. Bot. Centralbl. 33 : 411 (1915).
 
-Tige 2-15 (30) cm, feuillée sans pseudobulbe. Feuilles 1-5 × 0,3-1 cm, lancéolées à ovées-lancéolées, comprimées latéralement, aiguës, charnues. Inflorescence 4-10 cm, 20-100-flore. Fleurs minuscules, non résupinées, translucides, jaunes à orange. Sépale dorsal aigu, translucide, ové à elliptique-ové ; sépales latéraux subobliques à la base, triangulaires-ovés. Pétales linéaires à elliptiques-oblongs, obtus. Labelle nettement trilobé juste au-dessus de la base, mince, fragile, translucide, partie inférieure cochléiforme avec une crête transversale épaisse à la base ; lobe médian trans-elliptique à cordé, entier ou marges irrégulièrement denticulées, sommet tronqué à subaigu ; lobes latéraux, oblongs-ovés, sommet obtus à arrondi, marges entières. – Pl. 63, p. 131.
+Stem 2–15 (30) cm, leafy without pseudobulb. Leaves 1–5 × 0.3–1 cm, lanceolate to ovate-lanceolate, laterally compressed, acute, fleshy. Inflorescence 4–10 cm, 20–100-flowered. Flowers minute, non-resupinate, translucent, yellow to orange. Dorsal sepal acute, translucent, ovate to elliptic-ovate; lateral sepals suboblique at the base, triangular-ovate. Petals linear to elliptic-oblong, obtuse. Lip distinctly trilobed just above the base, thin, fragile, translucent, lower part cochleate with a thick transverse crest at the base; median lobe transverse-elliptic to cordate, entire or margins irregularly denticulate, apex truncate to subacute; lateral lobes oblong-ovate, apex obtuse to rounded, margins entire. – Pl. 63, p. 131.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Ghana, Sao Tomé, Cameroun, Gabon, Congo (Kinshasa), Éthiopie, Ouganda, Kenya, Tanzanie, Malawi, Zimbabwe, Mozambique, Afrique du Sud, Comores, Madagascar, Réunion, Maurice
+Guinea, Ghana, São Tomé, Cameroon, Gabon, Congo (Kinshasa), Ethiopia, Uganda, Kenya, Tanzania, Malawi, Zimbabwe, Mozambique, South Africa, Comoros, Madagascar, Réunion, Mauritius
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 430–1250 m. Epiphyte on the trunk of large forest trees in humid and shaded ravine forest in rainforest, but also observed on the trunk of a Rinorea sp
 
-alt. 430-1250 m. Épiphyte sur fût de grand arbre de forêt en ravin humide et ombragé en forêt ombrophile, mais observé aussi sur le tronc d'un Rinorea sp
+MATERIAL EXAMINED (Map 21):
 
-MATÉRIEL ÉTUDIÉ (Carte 21) :
+Arends s.n., 40 km E of Mouila on the Yéno road, 1°40' S, 11°20' E, cult. WAG (84-208), not seen.
 
-Arends s.n., 40 km E de Mouila sur la route de Yéno, 1°40' S, 11°20' E, cult. WAG (84-208), non vidi.
+Bos, van der Laan & Nzabi 10737, Babiel-Sud, Okoumé road km 5, 1° 02' N, 13° 10' E (fl., Jul.), WAG!, LBV.
 
-Bos, van der Laan & Nzabi 10737, Babiel-Sud, route d'Okoumé km 5, 1° 02' N, 13° 10' E (fl., Jul.), WAG!, LBV.
+Breteler & Lemmens s.n.; Masika, 30 km E of Mouila, cult. WAG (86-298), not seen.
 
-Breteler & Lemmens s.n. ; Masika, 30 km E de Mouila, cult. WAG (86-298), non vidi.
+de Wilde s.n., Chaillu Massif, Mouyanama Mission, 25 km on the Mimongo to Mbigou road, cult. WAG (83-294), not seen.
 
-de Wilde s.n., Massif de Chaillu, Mission de Mouyanama, 25 km sur la route de Mimongo à Mbigou, cult. WAG (83-294), non vidi.
-
-de Wilde, Arends, Louis, Bouman & Karper 473, Massif du Chaillu, Mission de Mouyanama, km 15 sur la route de Mimongo à Mbigou, chute d'eau en amont de la Mission à 20 minutes de marche, en forêt primaire, (fl., Fév.), WAG!, LBV.
+de Wilde, Arends, Louis, Bouman & Karper 473, Chaillu Massif, Mouyanama Mission, km 15 on the Mimongo to Mbigou road, waterfall upstream of the Mission at 20 minutes walk, in primary forest, (fl., Feb.), WAG!, LBV.
 
 V. BULBOPHYLLINAE Schltr.
 
 Orchideen : 319 (1915).
 
-Pseudobulbes à entrenœud unique avec 1 (-2) feuille(s). Fleurs en général petites, résupinées. Stelidium saillant très souvent présent. Rostellum tronqué, charnu. Viscidie semi-liquide ou cellulaire, unique, parfois très grande. Petit hamulus digité présent chez quelques espèces. Pollinies en général 4, très inégales chez de nombreuses espèces, mais parfois 2 seulement.
+Pseudobulbs with a single internode bearing 1 (–2) leaf (leaves). Flowers generally small, resupinate. Stelidium prominent very often present. Rostellum truncate, fleshy. Viscidium semi-liquid or cellular, single, sometimes very large. Small digitate hamulus present in some species. Pollinia generally 4, very unequal in many species, but sometimes only 2.
 
-Importante sous-tribu d'une trentaine de 30 genres en majorité océaniens dont seulement 1 genre au Gabon : Bulbophyllum Thouars. Deux conceptions de ce genre fondées sur des définitions génériques totalement différentes ont été publiées récemment par VERMEULEN (1987) et GARAY & al. (1994).
+An important subtribe comprising about thirty genera in the majority Oceanian, of which only 1 genus in Gabon: Bulbophyllum Thouars. Two conceptions of this genus based on totally different generic definitions have been published recently by VERMEULEN (1987) and GARAY & al. (1994).
 
 ## Figures
 

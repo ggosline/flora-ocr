@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige < 2 cm. Feuilles 5-7, < 8 x 1,2 cm, étroitement lancéolées, aiguës, non sulquées. Inflorescence lâche, < 10 cm ; pédoncule généralement plus court que le rachis. Fleurs minuscules, blanches, glabres. Sépale dorsal oblong-lancéolé, aigu. Pétales oblongs-ligulés, aigu. Sépales latéraux obliquement ovés-lancéolés, aigu. Labelle 1,7-2,8 x 0,7 mm environ, étroitement elliptique dans la moitié inférieure, ligulé dans la moitié supérieure, aigu à obtus. Éperon < 2 mm, conique-cylindrique, incurvé, obtus. – Pl. 157, p. 351.
+Stem < 2 cm. Leaves 5-7, < 8 × 1.2 cm, narrowly lanceolate, acute, not sulcate. Inflorescence lax, < 10 cm; peduncle generally shorter than the rachis. Flowers minute, white, glabrous. Dorsal sepal oblong-lanceolate, acute. Petals oblong-ligulate, acute. Lateral sepals obliquely ovate-lanceolate, acute. Labellum 1.7-2.8 × 0.7 mm approximately, narrowly elliptic in the lower half, ligulate in the upper half, acute to obtuse. Spur < 2 mm, conical-cylindric, incurved, obtuse. – Pl. 157, p. 351.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Guinée équatoriale, Annobon, Gabon
+Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, Annobón, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0-600 m. Epiphyte
 
-alt. 0-600 m. Épiphyte
+MATERIAL EXAMINED (Map 74):
 
-MATÉRIEL ÉTUDIÉ (Carte 74) :
-
-J. M. & B. Reitsma & Louis 1841, inselberg, environ 25 km ESE de Médouneu, 0° 53' N, 11° 04' E (fl. Fév.), WAG!.
+J. M. & B. Reitsma & Louis 1841, inselberg, approximately 25 km ESE of Médouneu, 0° 53' N, 11° 04' E (fl. Feb.), WAG!.
 
 ## Figures
 

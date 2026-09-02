@@ -28,11 +28,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+≡ Hypoestes verticillaris (L. f.) « R. Br. » ex C. B. Clarke, F.T.A. 5 : 250 (1900). — F.W.T.A. ed. 1,2 : 268 (1931). — R. Benoist, Not. Syst. 10 : 245 (1942). — Milne-Redhead, Mem. N. Y. Bot. Gard. 9 (1) : 26 (1954). — N.B. : this
 
-≡ Hypoestes verticillaris (L. f.) « R. Br. » ex C. B. Clarke, F.T.A. 5 : 250 (1900). — F.W.T.A. ed. 1,2 : 268 (1931). — R. Benoist, Not. Syst. 10 : 245 (1942). — Milne-Redhead, Mem. N. Y. Bot. Gard. 9 (1) : 26 (1954). — N.B. : cette
-
-combinaison ne fut jamais publiée par Robert Brown, qui cite seulement Justicia verticillaris comme appartenant au genre Hypoestes: Prodr. Fl. Nov. Holl. 1 : 474 (1810).
+combination was never published by Robert Brown, who cites only Justicia verticillaris as belonging to the genus Hypoestes: Prodr. Fl. Nov. Holl. 1 : 474 (1810).
 
 ≡ Justicia verticillaris L. f., Suppl. Pl. 85 (1781). — H. O. Juel, Pl. Thunbergiana 312 (1918).
 
@@ -42,13 +40,11 @@ combinaison ne fut jamais publiée par Robert Brown, qui cite seulement Justicia
 
 ≡ Hypoestes Forskalei (Vahl) « R. Br. » ex Nees v. Esenb., l. c. 607 (1847). — T. Anders., l. c. 49 (1863). — C. B. Clarke, F.T.A. 5 249 (1900).
 
-Plante suffrutescente, extrêmement variable en ce qui concerne le port et la pubescence, quelquefois sarmenteuse, pubescente ou ± glabrescente, de 0,50-0,80 (1) m de hauteur. Tiges subquadrangulaires, pubescentes; entreœuds 3-5 cm de long. Pétioles de 1-3 cm de long, pubescents. Limbe des feuilles ovalelancéolé, cuspidé, légèrement atténué à la base, de 4-11 × 2,5-5 cm, à sec toujours beaucoup plus foncé en dessus qu'au-dessous. Environ 6 paires de nervures latérales.
+Suffrutescent plant, extremely variable with respect to habit and pubescence, sometimes sarmentose, pubescent or ± glabrescent, 0.50–0.80 (1) m in height. Stems subquadrangular, pubescent; internodes 3–5 cm long. Petioles 1–3 cm long, pubescent. Leaf blade oval-lanceolate, cuspidate, slightly attenuate at base, 4–11 × 2.5–5 cm, when dry always much darker above than below. Approximately 6 pairs of lateral veins.
 
-Inflorescences axillaires et terminales; les inflorescences partielles en forme de petits strobiles ou épis unilatéraux de 1-3 (4,5) cm de long. Bractées minuscules, subulées-spathulées, d'envi
+Inflorescences axillary and terminal; partial inflorescences in the form of small strobiles or unilateral spikes 1–3 (4.5) cm long. Bracts minute, subulate-spatulate, approximately 2 mm long; outer bracteoles fused in the lower half, 7–8 × 1 mm, silky-pubescent in Gabonese specimens (there exist entirely glabrous forms that were called H. Forskalei); the hairs are white silky and erect, 0.7–0.9 mm long; the "involucre" formed by the outer bracts encloses two flowers, one sterile and much smaller, and inner bracteoles that correspond in their dimensions to the sterile flower. Inner bracteoles of fertile flowers are lanceolate, free, 6 × 1.5 mm, with hyaline and translucent margins 0.4 mm wide, with green central portion and upper half ciliate. Calyx of sterile flowers 4 mm long, of fertile flowers 6.5 mm long. The calyx lobes are fused together in their lower half and form a small tube 2.5 mm long. Calyx hyaline, translucent, with finely ciliate lobe margins. Corolla distinctly bilabiate, slightly pubescent on the outside, with tube 9 mm long; anterior lip (originally posterior) generally light violet, with white heart, or whitish-violet, 4 × 2 mm; posterior lip (originally anterior) trilobed, white and speckled with light violet at the base, 9 × 3 mm (yellowish flowers in some forms). Stamens 5 mm long, dark violet and slightly pubescent at the base near the insertion. Anther lobe 1 mm long. Ovary glabrous, 1.5 mm high; style glabrous, 9 mm long.
 
-ron 2 mm de long; bractéoles extérieures soudées dans la moitié inférieure, de 7-8 × 1 mm, soyeuses-pubescentes chez les spécimens gabonais (il existe des formes entièrement glabres qui furent appelées H. Forskalei); les poils sont soyeux blancs et dressés, de 0,7-0,9 mm de long; l'« involucre » formé par les bractées extérieures renferme deux fleurs dont une stérile et beaucoup plus petite, et des bractéoles intérieures qui correspondent dans leurs dimensions à la fleur stérile. Les bractéoles intérieures des fleurs fertiles sont lancéolées, libres, de 6 × 1,5 mm, à bords hyalins et translucides de 0,4 mm de large, à partie centrale verte et à moitié supérieure ciliée. Calice des fleurs stériles de 4 mm de long, des fleurs fertiles de 6,5 mm de long. Les lobes du calice sont soudés entre eux dans leur moitié inférieure et forment un petit tube de 2,5 mm de long. Calice hyalin, translucide, à bords des lobes finement ciliés. Corolle nettement bilabiée, légèrement pubescente à l'extérieur, à tube de 9 mm de long; lèvre antérieure (originalement postérieure) en général violet clair, à cœur blanc, ou blanc violacé, de 4 × 2 mm; lèvre postérieure (originalement antérieure) trilobée, blanche et moucheté de violet clair à la base, de 9 × 3 mm (fleurs jaunâtres chez quelques formes). Étamines de 5 mm de long, violet foncé et légèrement pubescentes à la base près de l'insertion. Loge d'anthère de 1 mm de long. Ovaire glabre, de 1,5 mm de haut; style glabre, de 9 mm de long.
-
-Fruit de 7 mm de long, glabre sauf l'apex qui est un peu hérissé-pubescent. 4 graines lisses, à test brun olive, subquadrangulaires, de 1,5 × 1 × 0,5 mm.
+Fruit 7 mm long, glabrous except the apex which is somewhat bristly-pubescent. 4 smooth seeds, with olive-brown testa, subquadrangular, 1.5 × 1 × 0.5 mm.
 
 ## Type
 
@@ -56,9 +52,7 @@ Thunberg, « caput bonae spei » (UPS, holotype de Justicia verticillaris L. f.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Toute l'Afrique au sud du tropique du Cancer, et en Arabie tropicale. C'est une des Acanthacées les plus répandues en Afrique. Des taxa très voisins existent à Madagascar. Sur le continent africain, la séparation des cinq variétés Forskalei, Hildebrandtii, latifolia, mollis, violaceo-tincta, proposée par R. Benoist semble artificielle et impossible à justifier vis-à-vis du polymorphismisme de cette espèce (cf. la note sous l'espèce suivante).
+Throughout Africa south of the Tropic of Cancer, and in tropical Arabia. It is one of the most widespread Acanthaceae in Africa. Very similar taxa exist in Madagascar. On the African continent, the separation of the five varieties Forskalei, Hildebrandtii, latifolia, mollis, violaceo-tincta, proposed by R. Benoist seems artificial and impossible to justify in view of the polymorphism of this species (cf. the note under the following species).
 
 ## Specimens examined
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub ascendant or erect, sympodial, unbranched, 0.40–0.60 m high, sometimes up to 1 m; at first furfuraceous then glabrescent; stem 4-angled to obscurely winged, up to 0.5 cm in diameter; rooting at the base on and between the nodes. Leaves petiolate, elliptic; petiole robust, up to 10 cm long, narrowly channelled above, furfuraceous; lamina up to 11 × 19 cm, rounded or cuneate at the base, acute or obscurely acuminate at the apex; glabrescent on the upper surface or with a few short, erect, very scattered hairs; glabrous on the lower surface except for the furfuraceous veins; 3 (5) veins scarcely visible above, moderately prominent below, the transverse ones sinuous and scarcely more prominent than the reticulate tertiary venules; margins entire.
 
-Arbrisseau ascendant ou dressé, sympodial, non ramifié, haut de 0,40 à 0,60, parfois jusqu'à 1 m; d'abord furfuracé puis glabrescent; tige 4-angulaire à obscurément ailée, jusqu'à 0,5 cm de diamètre; radicante à la base sur et entre les nœuds. Feuilles pétiolées, elliptiques; pétiole robuste, jusqu'à 10 cm de long, étroitement canaliculé au-dessus, furfuracé; limbe jusqu'à 11 × 19 cm, arrondi ou en coin à la base, aigu ou obscurément acuminé au sommet; glabrescent à la face supérieure ou avec quelques poils courts, dressés, très dispersés; glabre à la face inférieure en dehors des nervures furfuracées; 3 (5)nervures peu visibles dessus, modérément saillantes dessous, les transversales sinueuses et guère plus saillantes que les nervilles tertiaires réticulées; marges entières.
+Panicle 5–6 cm long, furfuraceous; with 3–4 pairs of cymes on a slender, rounded peduncle, 0.5–1 cm long; cymes of eight to twelve flowers glomerate, at first subsessile then with a pedicel of 2 mm. Flower ovate-campanulate; hypanthium ovoid-oblong, 3 × 4 mm, abruptly rounded on the pedicel, densely furfuraceous. Calyx slightly spreading, 2 mm high, sepals slightly incised, broadly rounded and apiculate by the dorsal keel, fleshy. Corolla white or pink; petals 4 × 10 mm, triangular, broadly inserted at the base, acuminate, subulate at the apex. External stamens with anther 4.5–5 mm, straight, attenuate at the apex; podoconnective 0.5–1 mm, prolonged forward by two linear appendages, obtuse, erect, 1–1.2 mm long, provided at the back with a linear spur of 1 mm; filament 5–5.5 mm. Internal stamens with anther 4.5–5 mm, straight, attenuate at the apex; connective with two anterior tubercles and a spur of 0.5 mm; filament 4–4.5 mm. Ovary adnate by the septa to two-thirds of the hypanthium, crowned by an undulate marginal crown, glabrous; style linear, 10 mm long; stigma finely capitate.
 
-Panicule longue de 5 à 6 cm, furfuracée; avec 3 à 4 paires de cymes à pédoncule grêle, arrondi, long de 0,5 à 1 cm; cymes de huit à douze fleurs glomérulées, d'abord subsessiles puis à pédicelle de 2 mm. Fleur ovocampanulée; hypanthe ovoïde-oblong, 3 × 4 mm, brusquement arrondi sur le pédicelle, densément furfuracé. Calice un peu étalé, haut de 2 mm, lobes sépalaires peu incisés, largement arrondis et apiculés par la carène dorsale, charnus. Corolle blanche ou rose; pétales 4 × 10 mm, triangulaires, large ment insérés à la base, acuminés, subulés au sommet. Étamines externes à
-
-anthère de 4,5-5 mm, droite, atténuée au sommet; pédoconnectif 0,5-1 mm, prolongé en avant par deux appendices linéaires, obtus, dressés, longs de 1 à 1,2 mm, pourvu en arrière d'un éperon linéaire de 1 mm; filet 5-5,5 mm. Étamines internes à anthère de 4,5-5 mm, droite, atténuée au sommet; connectif avec deux tubercules antérieurs et un éperon de 0,5 mm; filet de 4-4,5 mm. Ovaire adhérent par les cloisons jusqu'aux deux-tiers de l'hypanthe, surmonté d'une couronne marginale ondulée, glabre; style linéaire, long de 10 mm; stigmate finement capité.
-
-Fruit (immature) oblong, couronné par le calice persistant, 5,5 × 10 mm; couronne épigyne atrophiée. Graines mûres non connues. — Pl. 38, p. 101.
+Fruit (immature) oblong, crowned by the persistent calyx, 5.5 × 10 mm; epigynous crown atrophied. Mature seeds unknown. — Pl. 38, p. 101.
 
 ## Type
 
@@ -33,9 +29,7 @@ Descoings 6465, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Il se peut que l'hétéromorphie des étamines soit variable et alors les différences avec D. glanduligera seraient faibles. Cependant D. descoingsii semble beaucoup plus robuste. LE TESTU a récolté sciemment les deux plantes le même jour sous deux numéros différents : 5 710 pour le D. glanduligera et 5 711 pour le D. descoingsii en précisant « plus d'1 m de haut, devient presque frutescent ».
+It is possible that the heteromorphy of the stamens is variable and then the differences with D. glanduligera would be slight. However D. descoingsii appears much more robust. LE TESTU deliberately collected both plants the same day under two different numbers: 5710 for D. glanduligera and 5711 for D. descoingsii, noting "more than 1 m high, becomes almost frutescent".
 
 ## Specimens examined
 

@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+EXELL & MENDONÇA, CFA 1 (2) : 330 (1951) ; BRETELER MLW 73 (13) : 4, 24, 32, XVII (1973) ; l.c. 78 (10) : 22 (1978) ; l.c. 79 (16) : 47-51 (1979) ; AUWP 86 (3) : 10, 12, 13, 16 (1986) ; TYPE : Cameroon, Bipindi, Zenker 1733 (holo-, B delet. ; lecto-, L ; isolecto-, BM, C (?), GOET, M, P, WAG)
 
-EXELL & MENDONÇA, CFA 1 (2) : 330 (1951) ; BRETELER MLW 73 (13) : 4, 24, 32, XVII (1973) ; l.c. 78 (10) : 22 (1978) ; l.c. 79 (16) : 47-51 (1979) ; AUWP 86 (3) : 10, 12, 13, 16 (1986) ; TYPE : Cameroun, Bipindi, Zenker 1733 (holo-, B delet. ; lecto-, L ; isolecto-, BM, C (?), GOET, M, P, WAG)
+Liane, lianing shrub or bushy. Trunk, diameter ≤ 7 cm ; entire woody cylinder (?). Twigs hardened or nearly so, with very small and fairly dense lenticels giving them a rugose (pustulate) appearance ; transverse fissures appear with age. Very young twigs with dense to sparse appressed pubescence, often early caducous.
 
-Liane, arbuste lianescent ou arbusté. Tronc, diamètre ≤ 7 cm ; cylindre ligneux entier (?). Rameaux aoûtés ou presque munis de lenticelles très petites et assez denses leur donnant un aspect rugueux (pustuleux) ; des fissures transversales apparaissent avec l'âge. Très jeunes rameaux avec pubérulence apprimée dense à éparse souvent tôt caduque.
+Stipules narrowly triangular to subulate, 2–4 (6) mm long, glabrous or pubérulent.
 
-Stipules étroites-triangulaires à subulées, longues de 2-4 (6) mm, glabres ou pubérulentes.
+Leaves. Petiole sub- to hemicylindric, often furrowed above, 4–10 (20) mm long, glabrous to pubescent. Blade papyraceous to coriaceous, shining on both faces when fresh, obovate-elliptic to oblong, 1.5–2.5 (3) times longer than wide, (13) 16–20 (30) × 6–10 (15) cm ; base broadly rounded to truncate, sometimes subcordate or cuneate ; extreme base of margin revolute, covering ± large glands ; acumen short ≤ 1.5 cm, often abrupt ; primary nerve I and 5–8 (10) pairs of secondary nerves II prominent beneath, not or very slightly prominent above, initially with sparse appressed pubescence, then early glabrescent ; glands present on both faces : the lower surface generally with two large glands at the extreme base, close against nerve I, and other smaller glands fairly scattered.
 
-Feuilles. Pétiole sub à hémicylindrique, souvent sillonné dessus, long de 4-10 (20) mm, glabre à pubérulent. Limbe papyracé à coriace, brillant sur les deux faces à l'état frais, obové-elliptique à oblong, 1,5-2,5 (3) fois plus long que large, (13) 16-20 (30) × 6-10 (15) cm ; base largement arrondie à tronquée, parfois subcordée ou cunée ; extrême base révolutée de la marge recouvrant ± des glandes de grande taille ; acumen court ≤ 1,5 cm, souvent brusque ; nervure I et les 5-8 (10) paires principales de nervures II proéminentes dessous, non ou très peu proéminentes dessus, au début avec pubérulence apprimée éparse, puis tôt glabrescentes ; glandes présentes sur les deux faces : l'inférieure en général avec deux grosses glandes à l'extrême base, tout contre la nervure I, et d'autres plus petites et assez dispersées.
+Inflorescences rather lax, generally grouped on axillary shoots having the form of bumps or warts ; distinct ramifications ≤ 4 orders, ≤ 30-flowered, pubescent to pubérulent. Peduncle ≤ 1 cm. Bracts and bracteoles very small, ≤ 1.5 mm long, narrowly triangular to subulate. Pedicel ≤ 6 mm, upper part generally < 1 mm.
 
-Inflorescences assez lâches, en général groupées sur des pousses axilaires en forme de bosses ou de verrues ; ramifications distinctes ≤ 4 ordres, ≤ 30-flores, pubescentes à pubérulentes. Pédoncule ≤ 1 cm. Bractées et bractéoles très petites, ≤ 1,5 mm de long, étroitement triangulaires à subulées. Pédicelle ≤ 6 mm, partie supérieure en général < 1 mm.
+Flowers. Sepals erect to spreading, subequal, oblong, (4) 5–6 × 1–2 mm, whitish, with appressed pubescence on both faces. Petals erect to spreading, narrow and obovate-oblong, 4.5–6.5 × 1–1.5 mm ; apex retuse or split for at most 1 mm ; base united to filaments for 1–2 mm, glabrous, sometimes with a few hairs toward the apex of the inner face, which may be recurved inward. Stamens erect, 4–6 mm long, glabrous ; anthers 0.5–0.7 mm, connective prominent. Staminodes separate or more often forming a ± closed lobed ring, ≈ 0.5 mm high, glabrous, generally adnate to the petal-filament tube. Pistil 5–8 mm long, 3 (4)-merous ; ovary slightly 3 (4)-lobed, with dense silvery to brownish-velvety pubescence ; style glabrous with 3 (4) lobes 0.5 mm.
 
-Fleurs. Sépales dressés à étalés, subégaux, oblongs, (4) 5-6 × 1-2 mm, blanchâtres, pubérulence apprimée sur les deux faces. Pétales dressés à étalés, étroits et obovés-oblongs, 4,5-6,5 × 1-1,5 mm ; sommet rétusé ou fendu sur tout au plus 1 mm ; base réunie aux filets sur 1-2 mm, glabres, parfois avec quelques poils vers le sommet de la face interne, lequel peut être récurvé vers l'intérieur. Étamines dressées, longues de (4) 5-6 mm, glabres ; anthères 0,5-0,7 mm, connectif pro-éminent. Staminodes séparés ou plus souvent formant un anneau lobé ± fermé, haut de ≈ 0,5 mm, glabre, en général soudé au tube pétales-filets. Pistil long de 5-8 mm, 3 (4)-mère ; ovaire légèrement 3 (4)-lobé, pubescence dense argentée à brunâtre-velouté ; style glabre avec 3 (4) lobes 0,5 mm.
-
-Fruits, forme générale obovoïde, ≤ 3,5 × ≤ 2,5 cm, coupe transversale avec 3 (4) lobes ou angles, 1-spermes, jaune-orange à maturité, glabres à pourvus d'une pubérulence éparse et ensuite glabrescents ; sommet déprimé ; exocarpe ferme, épais de ≈ 2 mm ; mésocarpe succulent ; endocarpe parcheminé. Graines ellipsoïdales, comprimées latéralement, longues de 1-1,5 cm ; testa fin, lisse, brun. - Pl. 31, p. 113.
+Fruits, general form obovoid, ≤ 3.5 × ≤ 2.5 cm, transverse section with 3 (4) lobes or angles, 1-seeded, yellow-orange at maturity, glabrous to furnished with sparse pubescence then glabrescent ; apex depressed ; exocarp firm, ≈ 2 mm thick ; mesocarp succulent ; endocarp chartaceous. Seeds ellipsoidal, laterally compressed, 1–1.5 cm long ; testa fine, smooth, brown. - Pl. 31, p. 113.
 
 ## Type
 
@@ -39,27 +37,21 @@ Zenker 1733, Bipindi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is fairly common throughout Gabon. According to HLADICK (no. 1554), ripe fruits are eaten by chimpanzees.
 
-Cette espèce est assez communes dans tout le Gabon. Selon HLADICK (nº 1554), les fruits mûrs sont mangés par les chimpanzés.
+By its leaves and flowers, D. integripetalum can be confused with D. barteri ; they are distinguished as follows :
 
-Par ses feuilles et ses fleurs, D. integripetalum peut être confondue avec D. barteri ; on les distingue ainsi :
+Liane, lianing shrub or shrub ; inflorescences generally grouped on axillary shoots having the appearance of a bump or a wart ; fruits always 1-seeded, 3 (4)-lobed, glabrous or nearly so, with a smooth epidermis
 
-Liane, arbuste lianescent ou arbuste ; inflorescences en général groupées sur des pousses axillaires ayant l'aspect d'une bosse ou d'une verrue ; fruits toujours 1-spermes, 3 (4)-lobés, glabres ou presque, avec un épiderme lisse
-
-Petit arbre ; inflorescences non groupées ; fruit lobé seulement s'il renferme plus d'une graine, surface en général tuberculée, pubescence dense ..... D barteri
+Small tree ; inflorescences not grouped ; fruit lobed only if it contains more than one seed, surface generally tuberculate, dense pubescence ..... D. barteri
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Nord-Angola (Cabinda)
+Cameroon, Gabon, North-Angola (Cabinda)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+evergreen and semi-deciduous ombrophilous forests
 
 ## Specimens examined
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms up to 90 cm tall, emitting aerial roots. Leaves with sheath ciliate on the margins and at the throat, blade sub-petiolate at the base, 7 to 10 × 3 to 4 cm, glabrous on the lower face.
 
-Chaumes jusqu'à 90 cm de haut, émettant des racines aériennes. Feuilles à gaine ciliée sur les bords et à la gorge, limbe sub-pétiolé à la base, de 7 à 10 × 3 à 4 cm, glabre à la face inférieure.
+Panicle compound, 3 to 5 spikelets on each of the ultimate branches, lanceolate, green or spotted with violet, glabrous except at the apex. Lower glume half as long as the spikelet. Lower lemma obtuse. Upper floret with coriaceous glumes, white, puberulent at the apex.
 
-Panicule composée, 3 à 5 épilets sur chacune des ramifications ultimes, lancéolés, verts ou tachés de violet, glabres sauf à la pointe. Glume inférieure moitié aussi longue que l'épillet. Lemma inférieure obtuse. Fleur supérieure à glumelles coriaces, blanches, pubérulentes à la pointe.
-
-Espèce décrit à partir d'un échantillon gabonais (Büttner : 555, Ferme de Sibang) que nous n'avons pas vu, récolté dans le lit sec d'une rivière.
+Species described from a Gabonese specimen (Büttner: 555, Sibang Farm) that we have not seen, collected in the dry bed of a river.
 
 ## Notes
 

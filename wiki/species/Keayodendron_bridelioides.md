@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre jusqu’à 40 m de hauteur ; tronc jusqu’à 120 cm de diamètre , ± cylindrique, sou vent à contreforts ± étroits atteignant ± 1 m de hauteur ; rameaux pubérulents à glabres cents. Stipules étroitement triangulaires à oblongues, jusqu’à 7(–10) mm de longueur, à petits poils bruns apprimés à l’extérieur. Feuille : pétiole subcylindrique, 0,5–1 cm, pubérulent à glabrescent ; limbe elliptique à obovale, 8–15(–23) × 4–8(–10) cm, cunéé à la base, arrondi ou obtus à brièvement acuminé sur 0,5–1 cm, coriace, parfois finement pustuleux, à l’état jeune à petits poils bruns apprimés sur les deux faces, rapidement glabrescent ; nervures latérales (6–)7–10 paires, ± fines, comme la médiane ± proémi nente sur les deux faces. Fleur mâle : pédicelle ≤ 1 mm ; sépales ovales à circulaires, cucullés, 2–2,5 mm de largueur, à poils courts et apprimés à l’extérieur, ciliés ; pétales minces, ± circulaires, ± 1 mm de diamètre, ciliés, légèrement onguiculés ; disque légère ment lobulé, éparsement pileux ; étamines ± 1 mm de longueur ; pistillode glabre. Fleur femelle à pédicelle distinct, ± 1,5 mm ; ovaire ovoïde, à 4 stigmates. Fruit ovoïde-ellip soïde , 3–3,5 × 2–2,3 cm, lisse, glabre, orange , sur un stipe atteignant 10 mm ; exocarpe 2 mm et mésocarpe 1,5–2 mm d’épaisseur. Graine à cotylédons verts.
+Tree up to 40 m tall; trunk up to 120 cm diameter, ± cylindrical, often with ± narrow buttresses reaching ± 1 m in height; branchlets puberulent to glabrous. Stipules narrowly triangular to oblong, up to 7(–10) mm long, with small brown hairs appressed on the outside. Leaf: petiole subcylindrical, 0.5–1 cm, puberulent to glabrescent; blade elliptic to obovate, 8–15(–23) × 4–8(–10) cm, cuneate at the base, rounded or obtuse to shortly acuminate over 0.5–1 cm, coriaceous, sometimes finely pustulous, when young with small brown appressed hairs on both faces, quickly glabrescent; lateral veins (6–)7–10 pairs, ± fine, like the midvein ± prominent on both faces. Male flower: pedicel ≤ 1 mm; sepals ovate to circular, cucullate, 2–2.5 mm wide, with short appressed hairs on the outside, ciliate; petals thin, ± circular, ± 1 mm diameter, ciliate, slightly unguiculate; disk slightly lobulate, sparsely pilose; stamens ± 1 mm long; pistillode glabrous. Female flower with distinct pedicel, ± 1.5 mm; ovary ovoid, with 4 stigmas. Fruit ovoid-ellipsoid, 3–3.5 × 2–2.3 cm, smooth, glabrous, orange, on a stipe reaching 10 mm; exocarp 2 mm and mesocarp 1.5–2 mm thick. Seed with green cotyledons.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce à aire très disjointe, connue de la Côte d’Ivoire, du Nigeria, du Ca meroun, de la République Centrafricaine et du Gabon ; au Gabon, connue de la Ngounié et du Woleu-Ntem
+Species with a very disjunct range, known from Côte d'Ivoire, Nigeria, Cameroon, Central African Republic and Gabon; in Gabon, known from Ngounié and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée, probablement plus commune dans la forêt semi décidue ; au Gabon, jusqu’à 500 m d’altitude. Usage : Le bois est utilisé en menuiserie. L’écorce carbonisée et pilée avec l’huile de palme sert pour soigner les affectations du rein. On mange l’écorce pulvérisée, mélangée à des graines d’ Aframomum melegueta K.Schum. en cas de bronchite et de toux. B : Bouguet (1969), Breteler (1993), Hawthorne & Jongkind (2006). ibliographie
+Primary and secondarized forest, probably more common in semi-deciduous forest; in Gabon, up to 500 m altitude. Uses: The wood is used in joinery. The carbonized and pounded bark mixed with palm oil serves to treat kidney ailments. The pulverized bark is eaten, mixed with seeds of Aframomum melegueta K.Schum. in cases of bronchitis and cough. Bibliography: Bouguet (1969), Breteler (1993), Hawthorne & Jongkind (2006).
 
 ## Notes
 

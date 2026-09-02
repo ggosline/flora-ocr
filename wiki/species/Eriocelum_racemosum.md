@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree reaching 15 m; branches hispid with brown or yellowish hairs. Leaves 2-4-jugate with oblong lanceolate leaflets, acuminate, 6-13 × 3-4.5 cm, with approximately 8 pairs of looped veins; basal leaflets suborbicular approximately 3 cm in diameter, with 3-4 pairs of veins; leaf indumentum reduced to appressed hairs approximately 0.2 mm, on and beneath the veins.
 
-Arbre atteignant 15 m; rameaux hispides à poils bruns ou jaunâtres. Feuilles 2-4-juguées à folioles oblongues lancéolées, acuminées, 6-13 × 3-4,5 cm, à env. 8 paires de nervures bouclées; folioles de base suborbiculaires d'environ 3 cm de diamètre, à 3-4 paires de nervures; pilosité foliaire réduite à des poils apprimés d'env. 0,2 mm, sur et sous les nervures.
-
-Inflorescences pendantes, grêles, atteignant 40 cm, rarement courtes (4-6 cm), simples ou peu rameuses; axes pubescents veloutés roux, cannelés, portant des cymules sessiles de 1-3 fleurs avec bractées de 3 mm; pédicelle de 2 mm. Sépales de 1 mm, velus tomentelleux, poils de 0,2-0,3 mm; pétale 2 mm, blancs, limbe glabre, écaille velue surtout à l'intérieur; 8 étamines à filet velu, anthères pubérulentes. Fruit petit. Graine allongés, de 7 × 5 mm, noire, comestible. PL. 40, 1-4', p. 175.
+Inflorescences pendulous, slender, reaching 40 cm, rarely short (4-6 cm), simple or little-branched; axes pubescent velvety rufous, channelled, bearing sessile cymules of 1-3 flowers with bracts of 3 mm; pedicel of 2 mm. Sepals of 1 mm, velutinous hairy, hairs 0.2-0.3 mm; petal 2 mm, white, limb glabrous, scale hairy especially within; 8 stamens with hairy filament, anthers puberulent. Fruit small. Seed elongate, 7 × 5 mm, black, edible. PL. 40, 1-4', p. 175.
 
 ## Type
 
@@ -29,9 +27,7 @@ Mann 807, Sierra Leone; Afzelius s.n. (B, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue depuis la Sierra Leone jusqu'au Gabon, à travers le Libéria, la Côte d'Ivoire, le Nigeria, le Congo. Présence probable au Cameroun.
+Species known from Sierra Leone to Gabon, through Liberia, Ivory Coast, Nigeria, Congo. Probable occurrence in Cameroon.
 
 ## Vernacular names
 

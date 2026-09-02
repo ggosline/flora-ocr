@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in W. J. Hooker, Icon. 8 : t. 793-794 (1848). — W. J. Hooker, Niger Fl. : 459, t. 43-44 (1849). — SOLEREDER in ENGLER & PRANTL, Nat. Pflanzenf. 4 (2) : f. 24 A-E (1892). — FWTA ed. 1, 2 : 18. — AUBRÉVILLE, FFCI 3 : 154 (1936) et ed. 2, 3 : 184 (1959). — BRUCE, l. c. : 48. — FTEA, Loganiaceæ : 8. — LEEUWENBERG. l. c. : 16, fig. 7, carte 5. — FWTA ed. 2, 2 : 35.
+in W. J. Hooker, Icon. 8 : t. 793-794 (1848). — W. J. Hooker, Niger Fl. : 459, t. 43-44 (1849). — SOLEREDER in ENGLER & PRANTL, Nat. Pflanzenf. 4 (2) : f. 24 A-E (1892). — FWTA ed. 1, 2 : 18. — AUBRÉVILLE, FFCI 3 : 154 (1936) et ed. 2, 3 : 184 (1959). — BRUCE, l. c. : 48. — FTEA, Loganiaceæ : 8. — LEEUWENBERG. l. c. : 16, fig. 7, map 5. — FWTA ed. 2, 2 : 35.
 
 — A. kalbreyeri BaK., Kew Bull. : 99 (1895). — FTA 4 (1) : 540.
 
@@ -28,13 +26,13 @@ in W. J. Hooker, Icon. 8 : t. 793-794 (1848). — W. J. Hooker, Niger Fl. : 459,
 
 — A. talbotii WERNHAM in Cat. Talbot's Nig. Pl. : 68 (1913).
 
-Arbre de 6-20 m de hauteur; tronc de 15-55 cm de diamètre, généralement à racines-échasses; rameaux généralement à épines jumelées.
+Tree 6–20 m tall; trunk 15–55 cm in diameter, generally with stilt roots; branches generally with paired spines.
 
-Feuilles sessiles ou très courtement pétriolées; limbe nettement plus pâle et glauque en dessous, fragile, papyracé à coriace, étroitement obové, de 15-45 × 6-24 cm, jusqu'à 150 × 45 cm chez les jeunes plantes, rétréci vers les oreillettes ou décurrent sur le pétriole; lorsque la feuille est pétriolée la base est cordée; marge généralement réfléchie.
+Leaves sessile or very shortly petiolate; blade distinctly paler and glaucous beneath, fragile, papyraceous to coriaceous, narrowly obovate, 15–45 × 6–24 cm, up to 150 × 45 cm in young plants, tapered towards the auricles or decurrent on the petiole; when the leaf is petiolate the base is cordate; margin generally reflexed.
 
-Sépales vert pâle, rarement partiellement orangés, arrondis, à l'état sec plus ou moins ruguleux et un peu étalés ou non, de 4-12 × 7-15 mm. Corolle obtuse au sommet dans le jeune bouton, dans le bouton mûr 2,5-4 fois plus longue que le calice, de 23-37 mm de longueur et arrondie ou subtronquée au sommet, crème ou parfois jaune pâle; tube plus foncé que les lobes, 1,25-2 fois plus long que le calice, soit 12-18 mm de longueur et 0,9-1,5 (-1,7) fois plus long que les lobes; 13-16 lobes étroitement oblongs, étalés.
+Sepals pale green, rarely partially orange, rounded, when dry more or less rugose and somewhat spreading or not, 4–12 × 7–15 mm. Corolla obtuse at the apex in the young bud, in the mature bud 2.5–4 times longer than the calyx, 23–37 mm in length and rounded or subtruncate at the apex, cream or sometimes pale yellow; tube darker than the lobes, 1.25–2 times longer than the calyx, that is 12–18 mm in length and 0.9–1.5 (–1.7) times longer than the lobes; 13–16 narrowly oblong lobes, spreading.
 
-Baies mûres d'env. 3-5 cm de diamètre, non ridées, ou exceptionnelle-ment ridées à l'état sec et immatures. Pl. 7, p. 22.
+Mature berries c. 3–5 cm in diameter, not wrinkled, or exceptionally wrinkled when dry and immature. Pl. 7, p. 22.
 
 ## Type
 
@@ -42,9 +40,7 @@ T. Vogel, Aboh (Ibu), delta du Niger, Nigeria (holotype : K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale. Espèce commune dans les marécages. Altitude 0-1 500 m.
+Tropical Africa. Common species in marshes. Altitude 0–1,500 m.
 
 ## Specimens examined
 

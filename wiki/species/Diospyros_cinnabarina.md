@@ -25,9 +25,9 @@ tags: [species]
 
 ## Full treatment
 
-7.Diospyros cinnabarina (Gürke） F. White *
+7.Diospyros cinnabarina (Gürke) F. White *
 
-Bull. Jard.Bot.Brux.26 : 239 et 242 (1956), FWTA ed. 2,2 : 15 (1963); Bull.Jard.Bot.Brux.33:355,tab.2o (1963). - Maba cinnabarina GURkE,Bot.Jahrb.43 :199 (1909). —Diospyros bicolor H.WiNkL.,Bot.Jahrb.4l : 283 (1go8)，non D.bicolor KLOTZSCH (1861). - Maba bicolor M1LDBR.， Notizbl. Bot. Gart. Berl.9 :1044 (1926) p.p. - ? Diospyros Winkleri GURkE,Bot. Jahrb. 43 : 21I (1909), nom. illegit. - Diospyros hylobia GüRkE, Bot. Jahrb.46 :154 (1911). — Diospyros subcanescens GURkE ex DE WILD., Pl. Bequaert.3 : 554 (1926), nom.nud. -Diospyros cinnabarina GURkE ex DE WID., Pl. Bequaert.3 : 538 (1926), nom.nud. - Diospyros Heudeloti auct. non HIERN : FWTA ed. 1, 2 : 6 (1931)， p.p. quoad syn.Maba cinnabarina tantum.
+Bull. Jard.Bot.Brux.26 : 239 et 242 (1956), FWTA ed. 2,2 : 15 (1963); Bull.Jard.Bot.Brux.33:355,tab.2o (1963). - Maba cinnabarina GURkE,Bot.Jahrb.43 :199 (1909). —Diospyros bicolor H.WiNkL.,Bot.Jahrb.4l : 283 (1go8),non D.bicolor KLOTZSCH (1861). - Maba bicolor M1LDBR., Notizbl. Bot. Gart. Berl.9 :1044 (1926) p.p. - ? Diospyros Winkleri GURkE,Bot. Jahrb. 43 : 21I (1909), nom. illegit. - Diospyros hylobia GüRkE, Bot. Jahrb.46 :154 (1911). — Diospyros subcanescens GURkE ex DE WILD., Pl. Bequaert.3 : 554 (1926), nom.nud. -Diospyros cinnabarina GURkE ex DE WID., Pl. Bequaert.3 : 538 (1926), nom.nud. - Diospyros Heudeloti auct. non HIERN : FWTA ed. 1, 2 : 6 (1931), p.p. quoad syn.Maba cinnabarina tantum.
 
 * This species is clearly very close to *D. simulans* (no. 32). The observed differences, involving calyx, corolla, and style pubescence, leaf size and degree of glabrescence, venation pattern, and gland distribution, seem in the end too slight to justify specific rank. They suggest that *D. simulans* should be treated as a synonym of *D. cinnabarina*, though field study and geographic analysis may later support infraspecific distinctions.
 
@@ -49,7 +49,7 @@ This species is chiefly known from Cameroon and is localized in the coastal ever
 
 ### Material studied in Cameroon
 
-Brenan (leg Onochie) 932o,pres Banga,South.Bakundu for.res. pres Kumba (fl.δ,mars). Endengle SRFCam 2046, pres Douala (fl.). Mildbraed Io531,Likomba,K；Io715,eod.loc.(cit.in Notizbl.Bot.Gart. Berl. 10:974 (1930). Winkler I287 (type deD.bicolor H.Winkler et de D.Winkleri GURkE)，pres Moliwe (fl.,févr.) (cit. in Bot.Jahrb.41: 283 (1908),et 43 : 211 (1909) (delet.？). Zenker 32,Bipindi (fl.,avr.I918);4o,Mimfia (fl.δ) (cit.in Bull.Jard.Bot. Brux.33 :356 (1g63)；2433 (paratype)，Bipindi (stér.；autres ex. : fr., aout)；3224 (syntype de D. hylobia GURkE)，Bipindi (stér.P,B；autres ex.:fr., juill.);336o (paratype) (in herb.P,ou 336i?;erreur de numérotation douteuse ou possible dans la liste de IHerbier Zenker de Zürich), bordure riviere Nkuambe pres Bipindi (fl.&)；3466 (lectotype)，Bipindi (fl.♀,fr.,juin) (cf.ci-dessus);3838 (syntype de D.hylobia GURkE),Nkuambe pres Bipindi (stér.P,Z；autres ex.:fr.,févr.)；4218,Mimfia (fl.,mai) BM,K.
+Brenan (leg Onochie) 932o,pres Banga,South.Bakundu for.res. pres Kumba (fl.δ,mars). Endengle SRFCam 2046, pres Douala (fl.). Mildbraed Io531,Likomba,K;Io715,eod.loc.(cit.in Notizbl.Bot.Gart. Berl. 10:974 (1930). Winkler I287 (type deD.bicolor H.Winkler et de D.Winkleri GURkE),pres Moliwe (fl.,févr.) (cit. in Bot.Jahrb.41: 283 (1908),et 43 : 211 (1909) (delet.?). Zenker 32,Bipindi (fl.,avr.I918);4o,Mimfia (fl.δ) (cit.in Bull.Jard.Bot. Brux.33 :356 (1g63);2433 (paratype),Bipindi (stér.;autres ex. : fr., aout);3224 (syntype de D. hylobia GURkE),Bipindi (stér.P,B;autres ex.:fr., juill.);336o (paratype) (in herb.P,ou 336i?;erreur de numérotation douteuse ou possible dans la liste de IHerbier Zenker de Zürich), bordure riviere Nkuambe pres Bipindi (fl.&);3466 (lectotype),Bipindi (fl.♀,fr.,juin) (cf.ci-dessus);3838 (syntype de D.hylobia GURkE),Nkuambe pres Bipindi (stér.P,Z;autres ex.:fr.,févr.);4218,Mimfia (fl.,mai) BM,K.
 
 ### Material studied in Gabon
 

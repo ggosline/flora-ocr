@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - A. integrifolia et A. integer Auct. MULT.
 
-Arbres monoïques atteignant 10 m de hauteur. Feuilles spiralées, elliptiques à obovales, atteignant env. 25 cm de longueur et 10 cm de largeur, entières. Stipules libres, longues de 1,5-8 cm, entièrement amplexicaules.
+Monoecious trees reaching 10 m in height. Leaves spiralled, elliptic to obovate, reaching approximately 25 cm in length and 10 cm in width, entire. Stipules free, 1.5–8 cm long, entirely amplexicaul.
 
-Inflorescences le plus souvent sur la tige et les branches, les mâles claviformes, atteignant 10 cm de longueur, les femelles ellipsoïdes à globuleuses.
+Inflorescences mostly on the stem and branches, the male ones claviform, reaching 10 cm in length, the female ones ellipsoid to globose.
 
-Infrutescences ellipsoïdes à cylindriques, longues de 30-60 (-100) cm, couvertes par des excroissances coniques en pointe. - Pl. 6, fig. 3-6, p. 23.
+Infructescences ellipsoid to cylindric, 30–60 (−100) cm long, covered by conical pointed excrescences. – Pl. 6, fig. 3–6, p. 23.
 
 ## Notes
 

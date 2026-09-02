@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 22(5-8); Figure 3(A)
+Plate 22(5-8); Figure 3(A)
 
 L. leucantha (Duchesne) Rusby, Mem. Torrey Bot. Club 6: 43 (1896).
 
-Herbe annuelle, monoïque, grimpante ou rampante; tige assez épaisse, fortement côtelée, assez densément recouverte de poils souples et fins. Vrilles bifides, à branches subégales. Feuille: pétiole épais, 5–20 cm, côtelé, sommet avec 2 glandes petites, sessiles; limbe en- tier ou parfois très légèrement 3-lobé, suborbiculaire, long et large de 10–40 cm, cordé à la base, obtus à aigu au sommet, denté sur les bords, pubescent. Inflorescence: la mâle à fleur solitaire. Fleur mâle: pédicelle 7–31 cm ; réceptacle campanulé à infundibuliforme, long de 20–30 mm, densément pubescent; sépales étroitement triangulaires, longs de 3–5 mm ;
-
-pétales ovales-oblongs, de 3–4 × 2–3 cm, crispés; étanines à filet épais, anthère à loges très sinueuses. Fleur femelle: pédicelle 6–10 cm; ovaire ovoïde à cylindrique, densément villeux; style très court et épais, entouré à sa base par 3 glandes triangulaires, à stigmates épais, 2-lobés, longs de 6 mm. Fruit de taille variable, jusqu'à 100 × 20 cm, lisse, d'abord vert puis devenant blanc ou jaune, à péricarpe dur, à nombreuses graines. Graine aplatie, longue de 7–20 mm, blanchâtre.
+Annual monoecious herb, climbing or creeping; stem rather thick, strongly ridged, fairly densely covered with soft and fine hairs. Tendrils bifid, with subequal branches. Leaf: petiole thick, 5–20 cm, ridged, apex with 2 small, sessile glands; blade entire or sometimes very slightly 3-lobed, suborbicular, 10–40 cm long and wide, cordate at base, obtuse to acute at apex, dentate on margins, pubescent. Inflorescence: the male with solitary flower. Male flower: pedicel 7–31 cm; receptacle campanulate to infundibuliform, 20–30 mm long, densely pubescent; sepals narrowly triangular, 3–5 mm long; petals oval-oblong, 3–4 × 2–3 cm, crisped; stamens with thick filament, anther with very sinuous locules. Female flower: pedicel 6–10 cm; ovary ovoid to cylindrical, densely villous; style very short and thick, surrounded at its base by 3 triangular glands, with thick, 2-lobed stigmas, 6 mm long. Fruit of variable size, up to 100 × 20 cm, smooth, initially green then becoming white or yellow, with hard pericarp, with numerous seeds. Seed flattened, 7–20 mm long, whitish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-d'origine africaine, aujourd'hui cultivé dans tous les régions tropicales et subtropicales du monde ; au Gabon, cultivé et parfois échappé, récolté dans l'Estuaire, le Haut-Ogooué, la Ngounié, l'Ogooué-Ivindo et l'Ogooué-Lolo
+of African origin, today cultivated in all tropical and subtropical regions of the world; in Gabon, cultivated and sometimes naturalized, collected in Estuaire, Haut-Ogooué, Ngounié, Ogooué-Ivindo and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+cultivated; in Gabon up to 900 m elevation, elsewhere at 0–2500 m
 
-cultivé; au Gabon jusqu'à 900 m d'altitude, ailleurs à 0–2500 m
-
-Usage: La gourde est utilisée pour l'alimentation, comme entreposage, ustensiles et médicament, en fonction des cultivars et des coutumes locales. Les fruits sont consommés frits ou en ragoût. Les jeunes pousses et les boutons floraux sont parfois consommés comme légume vert. Une huile comestible est extraite des graines. Les racines et les fruits sont parfois utilisés comme purgatifs; les feuilles servent de remède contre les maux d'estomac, les exanthèmes et les œdèmes dus au venin de serpent. La multitude de tailles et de formes des fruits explique la variété des usages à travers le monde, qui sont faits de la coque sèche (calebasse) comme récipients et ustensiles.
+Uses: The gourd is used for food, as storage, utensils and medicine, depending on cultivars and local customs. The fruits are consumed fried or in stew. Young shoots and flower buds are sometimes consumed as a green vegetable. An edible oil is extracted from the seeds. The roots and fruits are sometimes used as purgatives; the leaves serve as a remedy against stomach ailments, exanthemata and edema due to snake venom. The multitude of sizes and shapes of fruits explains the variety of uses throughout the world, which are made from the dry shell (calabash) as containers and utensils.
 
 ## Vernacular names
 

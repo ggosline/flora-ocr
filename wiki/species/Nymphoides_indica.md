@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Limnanthemum senegalense (G.Don) N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1) : 586 (1904). Herbe vivace, robuste . Feuille à pétiole long de (10 – )15 – 60( – 70) mm ; limbe orbiculaire, jusqu’à 30 cm de diamètre. Inflorescence en général à 20–30 fleurs. Fleur à pédicelle long de 2,5–10 cm ; sépales lancéolés, longs de 4,5–7 mm ; corolle blanche à cœur jaune, à tube long de 4 – 9 mm, lobes longs de 8 – 11 mm , la face supérieure entièrement villeuse ; étamines à filet long de 2–3 mm (fleurs brévistyles) ou de 1–2 mm (fleurs longistyles), à anthères longues de 2–3 mm ; ovaire ovoïde, 3–4 mm de hauteur, à styles longs de 2–4 mm (fleurs brévistyles) ou de 7–11 mm (fleurs longistyles). Fruit ovoïde, contenant un grand nombre de graines (souvent plus de 50). Graines lenticulaires, longues de 1,5–2,2 mm, bistre ± foncé, surface verruqueuse ou lisse.
+Limnanthemum senegalense (G.Don) N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1) : 586 (1904). Robust perennial herb. Leaf with petiole (10 – )15 – 60( – 70) mm long; blade orbicular, up to 30 cm in diameter. Inflorescence generally with 20–30 flowers. Flower with pedicel 2.5–10 cm long; sepals lanceolate, 4.5–7 mm long; corolla white with yellow centre, tube 4 – 9 mm long, lobes 8 – 11 mm long, upper surface entirely villous; stamens with filament 2–3 mm long (short-styled flowers) or 1–2 mm (long-styled flowers), anthers 2–3 mm long; ovary ovoid, 3–4 mm high, with styles 2–4 mm long (short-styled flowers) or 7–11 mm (long-styled flowers). Fruit ovoid, containing a large number of seeds (often more than 50). Seeds lenticular, 1.5–2.2 mm long, dark bistre, surface verrucose or smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce largement répandue en Afrique tropicale, du Sénégal jusqu’en Tanzanie et au Botswana ; par contre assez rare au Gabon
+species widely distributed in tropical Africa, from Senegal to Tanzania and Botswana; however fairly rare in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans des étangs permanents et eaux peu profondes, parfois le long des lacs et rivières ; au Gabon en basse altitude, mais ailleurs jusqu’à 1700 m. Note taxonomique : Dans la littérature, d’autres espèces sont souvent considérées comme conspécifiques avec N. indica . En Afrique, on ne trouve que la sous-espèce occidentalis. B : Raynal (1971, 1974, 1975), Whitehouse (1996). i B liographie
+in permanent ponds and shallow waters, sometimes along lakes and rivers; in Gabon at low altitude, but elsewhere up to 1700 m. Taxonomic note: In the literature, other species are often considered conspecific with N. indica. In Africa, only the subspecies occidentalis is found. B : Raynal (1971, 1974, 1975), Whitehouse (1996). Bibliography
 
 3 7 9 3 95 9 9 9 5
 

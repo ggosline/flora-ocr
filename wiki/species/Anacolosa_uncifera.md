@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liana 8–10 m long. Old stem reddish-brown or grey, strongly ribbed. Young branches reddish with short caducous pubescence. Base of each branch axillate with a circinose hook, base of hook often connate with that of the branch; apex sometimes bearing a leaf. Petiole articulate near its base, 0.5–1 cm long, canaliculate above, pubescent and wrinkled-pubescent below. Blade glabrous on both surfaces, very dark brown or black on the upper surface, greenish, green-brown or brown on the lower surface, elliptic to broadly elliptic, 3–7 × 1.8–3 cm; base rounded or attenuate, almost cuneiform, apex attenuate shortly acuminate-obtuse. Midvein concave above, prominent and weakly wrinkled below. Secondary veins 3–6 pairs, ascending, arched, anastomosing 1–2 mm from the blade margin, concave above, prominent below. Veinlets in fairly dense network, obscure on the upper surface, prominent on the lower surface.
 
-Liane longue de 8-10 m. Vieille tige roussâtre ou grise fortement côtelée. Jeunes rameaux roux à courte pubescence caduque. Base de chaque rameau axillée par un crochet circiné, base du crochet souvent soudée avec celle du rameau; sommet parfois porteur d'une feuille. Pétiole articulé près de sa base, long de 0,5-1 cm, canaliculé dessus, ⊥ pubescent et ridé pubescent dessous. Limbe glabre sur les deux faces, marron très foncé ou
+Inflorescence in very short axillary paniculate racemes, solitary, multiflorous (20–30 flowers). Rachis 2–3 mm long. Floral bud conical. Flower ♀, hexamerous, greenish. Calyx with alternipetalous sepals connate over almost their entire length, with upper margin undulate to almost dentate, puberulent externally, 0.5–1 mm long. Petals puberulent externally and internally on the upper half, valvate, erect, very weakly reflexed outward, 3 mm long, fleshy. Stamens 6, connate by the filament to the petals, reflexed toward the interior of the flower; filament ribbonlike 0.4–0.6 mm long; anther subapical introrse with arched dehiscence slits. Disc adnate to the ovary, cupuliform, with 6 fleshy lobes. Ovary superior with 1–2 uniovulate locules. Central placentation. Style short, stout, weakly conical, terminated by a weakly capitate stigma.
 
-noir à la face supérieure, verdâtre, marron vert ou marron à la face inférieure, elliptique à largement elliptique, 3-7 × 1,8-3 cm; base arrondie ou atténuée, presque cunéiforme, sommet atténué courtement acuminé obtus. Nervure médiane concave dessus, saillante et faiblement ridée dessous. Nervures secondaires 3-6 paires, ascendantes, arquées, s'anastomosant à 1-2 mm du bord du limbe, concaves dessus, saillantes dessous. Nervilles en réseau assez dense, obscur à la face supérieure, saillant à la face inférieure.
-
-Inflorescence en très courtes grappes paniculaires axillaires, solitaires, multiflores (20-30 fleurs). Rachis long de 2-3 mm. Bouton floral conique. Fleur ♀, hexamère, verdâtre. Calice à sépales alternipétales soudés sur presque toute la longueur, à bord supérieur ondulé à presque denté, pubérulent extérieurement, long de 0,5-1 mm. Pétales pubérulents extérieurement et intérieurement sur la moitié supérieure, valvaires, dressés, très faiblement réfléchis vers l'extérieur, longs de 3 mm, charnus. Étamines 6 soudées par le filet aux pétales, réfléchies vers l'intérieur de la fleur; filet rubané long de 0,4-0,6 mm; anthère subterminale introrse à fentes de déhiscence arquées. Disque adné à l'ovaire, cupuliforme, à 6 lobes charnus. Ovaire supère à 1-2 loges uniovulées. Placentation centrale. Style court, trapu, faiblement conique, terminé par un stigmate faiblement capité.
-
-Drupes solitaires ou groupées par 2-3, ellipsoïdes, longues d'environ 2 cm. Disque accrescent formant une enveloppe verdâtre pubérulente extérieurement autour du fruit, finement striée longitudinalement. Endocarpe coriace épais de 0,5 mm. Graine ellipsoïde sillonnée longitudinalement. Embryon apical. PL. 27, 1-10, p. 109.
+Drupes solitary or grouped 2–3, ellipsoid, approximately 2 cm long. Disc accrescent forming a greenish envelope puberulent externally around the fruit, finely longitudinally striated. Endocarp coriaceous 0.5 mm thick. Seed ellipsoid longitudinally furrowed. Embryo apical. PL. 27, 1–10, p. 109.
 
 ## Type
 
@@ -33,9 +29,7 @@ Lebrun 5908, Lumuma, Maniéma, District forestier central, Zaïre (BR); Louis 13
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce se rencontre dans les forêts primitives marécageuses ou périodiquement inondées depuis le Gabon jusqu'au Zaïre.
+This species occurs in swampy or periodically flooded primary forests from Gabon to Zaïre.
 
 ## Specimens examined
 

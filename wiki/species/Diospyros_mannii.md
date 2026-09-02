@@ -28,7 +28,7 @@ tags: [species]
 
 20.Diospyros Mannii Hiern
 
-Monogr. Eben., Trans.Camb.Phil.Soc.12 ：255 (1873)；FTA 3：524(1877).—F.WHITE,FWTA ed.2,2：II,tab.202 A，2 (1963)；NigerianTrees 2:335 (1964). -Diospyros aggregata GURkE,Bot.Jahrb.43: 2O4 (1909). -Diospyros Talbotii WERNHAM,Cat.Pl. Talbot Nigeria :57 (1913). -Diospyros pseudaggregata MiLDBR.， Notizbl. Bot. Gart. Berl. 9 ：1047(1926). Diospyros ivorensis AUBREv.et PELLEGR.,Bull. Soc.Bot.France 83： 621 (1937).
+Monogr. Eben., Trans.Camb.Phil.Soc.12 :255 (1873);FTA 3:524(1877).—F.WHITE,FWTA ed.2,2:II,tab.202 A,2 (1963);NigerianTrees 2:335 (1964). -Diospyros aggregata GURkE,Bot.Jahrb.43: 2O4 (1909). -Diospyros Talbotii WERNHAM,Cat.Pl. Talbot Nigeria :57 (1913). -Diospyros pseudaggregata MiLDBR., Notizbl. Bot. Gart. Berl. 9 :1047(1926). Diospyros ivorensis AUBREv.et PELLEGR.,Bull. Soc.Bot.France 83: 621 (1937).
 
 Tree sometimes reaching nearly 30-35 m in height, with slender bole 20 m or more long, fluted for 3 m and star-shaped in cross section, 20-40 cm across, at the base in old trees; branches often somewhat pendulous, at least at the tips; young stems erect with subhorizontal whorled branchlets. Rhytidome reddish brown, more or less longitudinally fissured, peeling in small scales and often mottled with greenish and grayish lichen patches; bark black in section toward the outside and bright yellow within; sapwood lemon-yellow, heartwood black at the center. Young twigs hirsute, covered with long reddish or yellowish hairs, though sometimes with shorter, more appressed pubescence; adult twigs glabrous and blackish. In West Africa the second pubescence type is more frequent than the first, but this character does not appear sufficient to distinguish two specific taxa, though a subspecies might eventually be recognized.
 
@@ -46,11 +46,11 @@ This species occurs in West Africa from Sierra Leone to Nigeria, and also in Cam
 
 ### Material studied in Cameroon
 
-Breteler I972,Yaoundé (fr.,oct.） WAG. De Wilde W. 27o8,65 km SSW Eséka,pres du Nyong (j. fr., juin) WAG. Letouzey 5o67,2o km S Mboy I (45 km E Yokadouma) (v.fl.♀,mai)；10168, colline Nkondo pres Enyantoum, 2o km SW Ambam (stér.). Mildbraed 4938,Yokadouma (fl.，avr.）HBG;? 8328,Deng Deng，pres confluent Lom-Djérem (fl.♀,févr.) (cit.in Notizbl.Bot.Gart.Berl.9 ： 1047 (1926.) Mpom 255 (= SRFCam 2o26)，Melong pres Nkongsamba (fl. ♀,févr.) YA. Zenker 533,Mimfia pres Bipindi (fl.，févr.I914) P,B；3439 (type de D. aggregata Gürke),eod loc.(fl.,mai).
+Breteler I972,Yaoundé (fr.,oct.) WAG. De Wilde W. 27o8,65 km SSW Eséka,pres du Nyong (j. fr., juin) WAG. Letouzey 5o67,2o km S Mboy I (45 km E Yokadouma) (v.fl.♀,mai);10168, colline Nkondo pres Enyantoum, 2o km SW Ambam (stér.). Mildbraed 4938,Yokadouma (fl.,avr.)HBG;? 8328,Deng Deng,pres confluent Lom-Djérem (fl.♀,févr.) (cit.in Notizbl.Bot.Gart.Berl.9 : 1047 (1926.) Mpom 255 (= SRFCam 2o26),Melong pres Nkongsamba (fl. ♀,févr.) YA. Zenker 533,Mimfia pres Bipindi (fl.,févr.I914) P,B;3439 (type de D. aggregata Gürke),eod loc.(fl.,mai).
 
 ### Material studied in Gabon
 
-Hallé N.et Le Thomas I88,Makokou (j. fr.). Le Testu 9045,Dwan,25 km NNE Bitam (fl.,mars)； 928o,Oyem (fl. ♀, j. fr.,sept.). Mann 924 (type),“ Gaboon river) (fl.δ, juill.),iso-P.
+Hallé N.et Le Thomas I88,Makokou (j. fr.). Le Testu 9045,Dwan,25 km NNE Bitam (fl.,mars); 928o,Oyem (fl. ♀, j. fr.,sept.). Mann 924 (type),“ Gaboon river) (fl.δ, juill.),iso-P.
 
 ## Figures
 

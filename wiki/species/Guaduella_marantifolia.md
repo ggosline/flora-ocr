@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herbaceous culms about sixty centimetres long, furnished at the base with aphyllous sheaths or with rudimentary limb; 2 to 3 well-developed leaves (sometimes 5 in the var. brevifolia) at the apex, contiguous with the inflorescence, distinctly petiolate, ovate-lanceolate, glabrous or very shortly appressed-pubescent.
 
-Chaumes herbacés d'une soixantaine de centimètres de long, munis à la base de gaines aphylles ou à limbe rudimentaire; 2 à 3 feuilles bien développées (parfois 5 dans la var. brevifolia) au sommet, contiguës à l'inflorescence, nettement pétiolées, ovales lancéolées, glabres ou très courtement apprimées pubescentes.
+Inflorescence concentrated or up to about ten centimetres long, compound at the base, racemose toward the apex, axes pubescent.
 
-Inflorescence concentrée ou jusqu'à une dizaine de centimètres de long, composée à la base, racémeuse vers le sommet, axes pubescents.
-
-Épillets lancéolés aigus, comprimés, de 3-4 cm de long et de 8 à 15 fleurs. Deux glumes pubescentes, l'inférieure plus courte, la supérieure aussi longue que les lemmas. Lemma ovale, aiguë, à nombreuses nervures, plus ou moins pubescente, à bords ciliés. Glumelle supérieure égalant les 3/4 de l'inférieure, hyaline, à carènes ciliées et ailées. Lodicules et ovaire pubescents.
+Spikelets lanceolate acute, compressed, 3-4 cm long and with 8 to 15 florets. Two pubescent glumes, the lower shorter, the upper as long as the lemmas. Lemma ovate, acute, with numerous nerves, more or less pubescent, with ciliate margins. Upper glumule equalling three-quarters of the lower, hyaline, with ciliate and winged keels. Lodicules and ovary pubescent.
 
 a. — var. Duparqueti Franch.
 
-Feuilles de  $ 15-20 \times 3-8 \, \text{cm} $ au nombre de 2 ou parfois 3, atténuées ou sub-arrondies à la base, longuement acuminées au sommet.
+Leaves of $ 15-20 \times 3-8 \, \text{cm} $ in number 2 or sometimes 3, attenuate or sub-rounded at the base, long-acuminate at the apex.
 
 ## Specimens examined
 

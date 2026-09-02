@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe à courte durée de vie, de 0,3–0,7 m de hauteur ; tige sarmenteuse ou couchée, s’enracinant souvent aux nœuds inférieurs , pubescente à velue avec un mélange de poils courts et dirigés vers le haut, et de poils plus longs et plus étalés, plus longs au niveau des nœuds. Feuille : pétiole 3–8 mm ; limbe ovale, de 1,5–5 × 1–2,5 cm, cunéé à atténué à la base, aigu à obtus à l’apex, serré, souvent rougeâtre, pubescent à velu sur les deux faces. Inflorescence axillaire, à capitules pédonculés, hémisphériques, denses, de ± 1 cm de diamètre ; pédoncule 10–15 mm ; bractéoles étalées, ovales à étroitement ovales, longues de 5–8 mm, vertes. Fleur : calice campanulé-tubuleux, long de 5–7 mm , tube tronqué avec un anneau de longs poils autour de l’orifice, glabre ailleurs, mais à glandes sessiles bien visibles, réticulé-veiné, lobes longs de 2–3 mm , subulés-aristés, ciliés, les sinus tronqués ; corolle longue de 7–8 mm, blanche à marques mauves sur la lèvre inférieure, glanduleuse et pubescente distalement. Fruit : akènes bruns , ruguleux-ponctués.
+Short-lived herb, 0.3–0.7 m tall; stem sarmentose or decumbent, often rooting at lower nodes, pubescent to villous with a mixture of short, upward-directed hairs and longer, more spreading hairs, longer at the nodes. Leaf: petiole 3–8 mm; blade ovate, 1.5–5 × 1–2.5 cm, cuneate to attenuate at the base, acute to obtuse at the apex, serrate, often reddish, pubescent to villous on both surfaces. Inflorescence axillary, with pedunculate capitules, hemispherical, dense, ± 1 cm in diameter; peduncle 10–15 mm; bracteoles spreading, ovate to narrowly ovate, 5–8 mm long, green. Flower: calyx campanulate-tubular, 5–7 mm long, tube truncate with a ring of long hairs around the orifice, glabrous elsewhere, but with clearly visible sessile glands, reticulate-veined, lobes 2–3 mm long, subulate-aristate, ciliate, sinuses truncate; corolla 7–8 mm long, white with mauve markings on the lower lip, glandular and pubescent distally. Fruit: brown achenes, rugulose-punctate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire du Mexique et d’Amérique du Sud tropicale, naturalisé dans certaines parties de l’Afrique de l’Ouest, mais moins répandu que H. lanceolata ; au Gabon : Estuaire. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Native to Mexico and tropical South America, naturalized in some parts of West Africa, but less widespread than H. lanceolata; in Gabon: Estuary. Conservation status: Widely distributed; probably Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires ; au Gabon et ailleurs à 100–500 m. B : Morton (1963), Paton et al . (2013), Vande weghe et al. (2016). i B liographie
+Secondary forests; in Gabon and elsewhere at 100–500 m. B: Morton (1963), Paton et al. (2013), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

@@ -23,17 +23,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — R. Benoist, in Pellegrin, Mém. Soc. Linn. Normandie, N. S., Sect. Bot. 1 (3) : 45 (1928). — Bremekamp, Bot. Jahrb. 73 : 137 (1943).
 
-Arbuste ou plante géniculée et ± ascendante, jusqu'à 3 m de hauteur, à poils multicellulaires; densité de la pubescence assez variable, particulièrement forte sur les jeunes extrémités et dans l'inflorescence, faible ou même très faible sur les organes âgés ou sur certains individus. Tiges rondes ou légèrement striées. Pétiole de 7-24 mm. Limbe des feuilles de 50-100 × 15-45 mm, ovale-elliptique ou lancéolé, entier ou très faiblement crénelé au bord. 6-12 nervures latérales plus ou moins serrées; nervures et bords du limbe pubescens, à poils multicellulaires brun foncé.
+Shrub or geniculate and ± ascending plant, up to 3 m tall, with multicellular hairs; density of pubescence quite variable, particularly strong on young shoots and in the inflorescence, weak or even very weak on older organs or on certain individuals. Stems round or slightly striated. Petiole 7-24 mm. Leaf blade 50-100 × 15-45 mm, ovate-elliptic or lanceolate, entire or very weakly crenulate at the margin. 6-12 lateral nerves more or less closely spaced; nerves and margins of blade pubescent, with dark brown multicellular hairs.
 
-Inflorescences terminales, courtes, plus ou moins contractées ou même capituliformes, jusqu'à 3,5 cm de long; bractéoles ovales acuminées, en général très poilues et même hérissées,
+Terminal inflorescences, short, more or less contracted or even capitate, up to 3.5 cm long; bracteoles ovate acuminate, generally very hairy and even hirsute, reddish-green or purple in living state, 14-26 × 9-17 mm. Flowers sessile with minute rudimentary bracteoles at the base of the calyx, subulate, not exceeding 1 mm, pubescent. Sepals 22 mm long, the two anterior ones free, the three posterior ones fused approximately at 2/3-3/4 of their length, with the free part 4-6 mm long, pubescent-ciliate, with multicellular hairs. Corolla 4.5-5.5 mm long, blue-violet; corolla tube cylindric-tubiform at the base for approximately 12 mm, with a diameter of 2-2.5 mm, hirsute swollen and campanulate infundibuliform; the tube reaches 10 mm diameter above the narrow part; exterior of corolla ciliate along the nerves, with transparent hairs up to 2 mm long; corolla lobes rounded, 6 × 9 mm; diameter of corolla at the apex 2.5-3 cm; interior glabrous. Filaments finely pubescent, inserted in the narrow part of the tube, the long ones about 18 mm, the short ones about 10 mm; anthers 5 mm, with finely pubescent connective. Ovary glabrous, about 4 mm long; style glabrous, white, 35 mm; stigma with a single well-developed recurved lobe, 4 mm long, the other lobe rudimentary.
 
-d'un vert rougeâtre ou pourpre à l'état vivant, de  $ 14-26 \times 9-17 $ mm. Fleurs sessiles à bractéoles minuscules rudimentaires à la base du calice, subulées, ne dépassant pas 1 mm, pubescentes. Sépales longs de 22 mm, les deux antérieurs libres, les trois postérieurs soudés environ aux 2/3-3/4 de leur longueur, avec la partie libre de 4-6 mm de long, pubescentes-ciliés, à poils multicellulaires. Corolle de 4,5-5,5 mm de long, bleu violet; tube de la corolle cylindrique-tubuliforme à la base sur environ 12 mm, pour un diamètre de 2-2,5 mm, hirsute gonflé et campanulé infundibuliforme; le tube atteint 10 mm de diamètre au-dessus de la partie étroite; extérieur de la corolle cilié le long des nervures, à poils transparents jusqu'à 2 mm de long; lobes de la corolle arrondis de  $ 6 \times 9 $ mm; diamètre de la corolle au sommet de 2,5-3 cm; intérieur glabre. Filets finement pubescents, insérés dans la partie étroite du tube, les longs d'environ 18 mm, les courts d'environ 10 mm; anthères de 5 mm, à connectif finement pubescent. Ovaire glabre, d'environ 4 mm de long; style glabre, blanc, de 35 mm; stigmate avec un seule branche bien développée, recourbée, de 4 mm de long, l'autre branche rudimentaire.
-
-Fruit glabre, d'environ 20 × 3 mm, contenant environ 10 graines dans chaque loge.
+Fruit glabrous, about 20 × 3 mm, containing about 10 seeds in each locule.
 
 ## Type
 
@@ -41,15 +37,11 @@ Mann 1847, Bates 511 (K, syntypes!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Portuguese Mayombe, Congo-Brazzaville, Cameroon (D. ruficaulis Bremek.) and probably Spanish Guinea (D. fulvus Bremek.)
 
-Mayombe portugais, Congo-Brazzaville, Cameroun (D. ruficaulis Bremek.) et probablement Guinée espagnole (D. fulvus Bremek.)
+The two taxa indicated above were described in Bot. Jahrb. 73 : 138 (1943), and the materials that served for their description were destroyed in Berlin. A specimen representing an isotype of D. ruficaulis Bremek. : Mildbraed 5838, Kribi, Cameroon (BR), which was able to be examined, belongs without doubt to the species D. hirsutus C. B. Clarke accepted here in a broader sense than that, the primitive one of its author. The position of D. fulvus Lindau ex Bremek., Bot. Jahrb. 73 : 138 (1943), described from Cameroon, also very probably conspecific with D. hirsutus C. B. Clarke, remains to be studied (Type: Escherichia 404 and paratype: Escherichia 201, lost; evidently no duplicates exist of them).
 
-Les deux taxa indiqués ci-dessus ont été décrits dans Bot. Jahrb. 73 : 138 (1943), et les matériaux qui servirent à leur description furent détruits à Berlin. Un spécimen représentant un isotype de D. ruficaulis Bremek. : Mildbraed 5838, Kribi, Cameroun (BR), et qui a pu être examiné, appartient sans doute à l'espèce D. hirsutus C. B. Clarke acceptée ici dans un sens plus large que celui, primitif de son auteur. La position de D. fulvus Lindau ex Bremek., Bot. Jahrb. 73 : 138 (1943), décrit du Cameroun, également fort probablement conspéciﬁque avec D. hirsutus C. B. Clarke, reste à étudier (Type : Escherichia 404 et para-type : Escherichia 201, perdus; il n'en existe évidemment pas de doubles).
-
-Les plantes décrites sous le nom de D. Walkeri R. Benoist, fort glabres-
-
-centes, sont rapprochées des autres représentants de l'espèce suivant notre conception. Ce caractère de glabriété n'est pas suffisant pour maintenir un taxon distinct au rang d'espèce. Le fait que D. Walkeri ait été décrit comme ichthyotoxique ne prouve pas une position taxinomique particulière; beaucoup d'Acanthacées (notamment des Justiciées) sont utilisées en Afrique dans ce sens, et cet usage varie selon les traditions et les coutumes des différentes populations.
+The plants described under the name of D. Walkeri R. Benoist, quite glabrescents, are brought close to the other representatives of the species according to our conception. This character of glabrity is not sufficient to maintain a distinct taxon at the rank of species. The fact that D. Walkeri was described as ichthyotoxic does not prove a particular taxonomic position; many Acanthaceae (notably Justiciaceae) are used in Africa for this purpose, and this usage varies according to the traditions and customs of different populations.
 
 ## Specimens examined
 

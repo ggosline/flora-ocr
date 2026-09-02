@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub, 2–7 m, or tree, 15–20 m, monoecious. Leaves with limb remarkable for the wedge-shaped elongation of its base and for its slight thickness.
 
-Arbuste, 2-7 m, ou arbre, 15-20 m, monoïque. Feuilles à limbe remarquable par l'allongement en coin de sa base et par sa faible épaisseur.
-
-Inflorescences rameuses, à 2 rameaux. Fruit rouge, ovoïde, de  $ 7 \times 5 $ mm. PL. 8, 1-6, p. 45.
+Inflorescences branched, with 2 branches. Fruit red, ovoid, $ 7 \times 5 $ mm. PL. 8, 1–6, p. 45.
 
 ## Type
 
@@ -41,9 +39,7 @@ Klaine 345, (fl. blanches, j. fr., arbuste 3 m, janv.); 1407, (fl., arbuste 3-4 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-voir A. imenoensis p. 46
+see A. imenoensis p. 46
 
 15 bis. Allophylus talbotii Baker fil.
 
@@ -51,13 +47,11 @@ Journ. Bot. 57 : 186 (1919); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 550,
 
 — Schmidelia nuomensis CHEV., Expl. Bot. A.O.F. 1 : 150 (1920).
 
-Liane. Feuilles à folioles entières, glabres, membraneuses. Inflorescences élancées, dépassant les feuilles, peu denses, axes éparsement pubérulents.
+Liane. Leaves with entire, glabrous, membranous leaflets. Inflorescences slender, exceeding the leaves, sparsely dense, axes sparsely puberulent.
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-HUTCHINSON & DALZIEL indiquent cette espèce du Liberia au Nigeria (Deighton 1593, Cooper 405, Dinklage 936, 2210, Chevalier 21147, type de S. nuomensis, 15247). A rechercher au Cameroun.
+HUTCHINSON & DALZIEL indicate this species from Liberia to Nigeria (Deighton 1593, Cooper 405, Dinklage 936, 2210, Chevalier 21147, type of S. nuomensis, 15247). To be sought in Cameroon.
 
 ## Figures
 

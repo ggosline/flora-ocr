@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 O. dentatae Oliv. affinis paniculis racemifloribus laxis, pedicellis basi articulatis, sed ab eadem specie, foliis glabris, inflorescentiis paucifloribus, pistillo echinulo-pubescenti haud tomentoso, fructibus obovoideis, 1 (2) semine pubescenti parvo arillo munito differt.
 
-Arbuste (1-4 m de haut) ; rameaux brunâtres à noirâtres, pubescents à glabrescents.
+Shrub (1–4 m tall); branchlets brownish to blackish, pubescent to glabrescent.
 
-Feuilles à stipules linéaires, + ou – caduques ; pétiole de 3-8 cm de long, pubescent ; limbe ovale ou ovale-elliptique, aigu à ± arrondi à la base, acuminé au sommet, 9-18-(30) × 3,5-10 cm, subentier, glabre ; nervures secondaires 7-8 paires.
+Leaves with linear stipules, ± caducous; petiole 3–8 cm long, pubescent; blade ovate or ovate-elliptic, acute to ± rounded at base, acuminate at apex, 9–18–(30) × 3.5–10 cm, subentire, glabrous; secondary veins 7–8 pairs.
 
-Fleurs en panicules lâches, racémiformes, axillaires, pauciflores ; pédicelle de 8-18 mm de long, pouvant atteindre 20-25 mm sous le fruit, articulé à la base, pubescent ; sépales 3, oblongs, 6-8 × 4 mm, pubescents extérieurement ; pétales 6-7, oblongs, ± onguiculés, 10-12 × 3 mm, pubescents ou glabrescents ; étamines 12-17, en 2 rangs, les externes (6-9) plus grandes, 6 × 1-1,5 mm, à filets courts (de 2-2,5 × 1 mm), aplatis et pubescents ; les internes (6-9) de 5 × 0,8 mm, à filets courts (de 2 × 0,3 mm), pubescents ; anthères de 4-5 mm de long ; ovaire échinulé-pubescent, à 2 placentas pluriovulés ; style entier, de 5 mm de long, pubescent.
+Flowers in loose, racemiform panicles, axillary, pauciflorous; pedicel 8–18 mm long, reaching 20–25 mm under the fruit, articulate at base, pubescent; sepals 3, oblong, 6–8 × 4 mm, pubescent externally; petals 6–7, oblong, ± unguiculate, 10–12 × 3 mm, pubescent or glabrescent; stamens 12–17, in 2 rows, the outer (6–9) larger, 6 × 1–1.5 mm, with short filaments (2–2.5 × 1 mm), flattened and pubescent; the inner (6–9) 5 × 0.8 mm, with short filaments (2 × 0.3 mm), pubescent; anthers 4–5 mm long; ovary echinulo-pubescent, with 2 pluriovulate placentae; style entire, 5 mm long, pubescent.
 
-Fruits : capsules obovoïdes, ± déhiscentes, 15-17 × 10-12 mm, à aiguillons longs de 5-10 mm, pubescents à glabrescents ; graine 1-(2), faiblement arillée et pubescente. - Pl. 17, p. 57.
+Fruits: capsules obovoid, ± dehiscent, 15–17 × 10–12 mm, with prickles 5–10 mm long, pubescent to glabrescent; seed 1–(2), weakly arillate and pubescent. - Pl. 17, p. 57.
 
 ## Type
 
@@ -34,15 +32,11 @@ Wieringa & al. 2927, Gabon (holo-, WAG!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts primaires ou secondaires
+Primary or secondary forests
 
 ## Specimens examined
 

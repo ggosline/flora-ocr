@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, érigée, 0,5 ‒ 1,2 m de hauteur ; tige généralement simple , parfois avec 2 ‒ 4 ramifications, 0,5 cm de diamètre à la base, pubescente, verte ou rougeâtre. Stipules filiformes, environ 1 cm de longueur. Feuille à pétiole de 2 ‒ 3 mm, pubescente ; limbe simple, linéaire-lancéolé, jusqu’à 15 × 1,5 cm , marges régulièrement dentées et rougeâtres, les deux faces pubescentes avec des poils étoilés ; nervure médiane sans nectaire. Fleur solitaire, aux aisselles des plus hautes feuilles de la tige, les fleurs du sommet plus ou moins densément regroupées ; pédicelle 4 ‒ 10 cm ; calicule à 10 bractéoles simples, filiformes , 5 ‒ 10 mm, velues ; sépales en majeure partie libres, ovales, jusqu’à 1,0 × 0,4 cm, jusqu’à 1,4 cm de longueur dans le fruit, aigus, 3-nervés, nervure principale proéminente, pourvue à la base d’un nectaire ovale marqué ; pétales environ 2 cm de longueur, jaune pâle à jaune d’or, base pourpre foncé ; tube staminal environ 2 cm de longueur, plus court que les pétales, anthères clairsemées presque jusqu’à la base ; style à 5 branches. Fruit ovoïde, 1 ‒ 1,5 cm de longueur, aigu, à pubescence dense apprimée, gris argenté, chaque loge portant 4 graines. Graines ellipsoïdes ou rondes , environ 3 × 2 mm, brun rouge, à écailles quadrangulaires membraneuses saillantes .
+Annual herb, erect, 0.5–1.2 m tall; stem generally simple, sometimes with 2–4 branches, 0.5 cm in diameter at base, pubescent, green or reddish. Stipules filiform, approximately 1 cm long. Leaf with petiole 2–3 mm, pubescent; lamina simple, linear-lanceolate, up to 15 × 1.5 cm, margins regularly dentate and reddish, both surfaces pubescent with stellate hairs; midvein without nectary. Flower solitary, at the axils of the uppermost leaves of the stem, the flowers at the apex more or less densely clustered; pedicel 4–10 cm; epicalyx with 10 simple, filiform bracteoles, 5–10 mm, hairy; sepals largely free, ovate, up to 1.0 × 0.4 cm, up to 1.4 cm long in fruit, acute, 3-nerved, main nerve prominent, provided at base with a marked ovate nectary; petals approximately 2 cm long, pale yellow to golden yellow, base dark purple; staminal tube approximately 2 cm long, shorter than petals, anthers scattered almost to the base; style with 5 branches. Fruit ovoid, 1–1.5 cm long, acute, with dense appressed pubescence, silvery grey, each locule bearing 4 seeds. Seeds ellipsoid or round, approximately 3 × 2 mm, reddish brown, with prominent quadrangular membranous scales.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-d’Afrique de l’Ouest jusqu’en Afrique Centrale, du Sénégal en République Centrafricaine, Cameroun, Guinée É quatoriale et Gabon, surtout dans les zones soudaniennes ; au Gabon probablement rare et connue seulement de l’Ogooué-Ivindo (Parc National de la Lopé)
+from West Africa to Central Africa, from Senegal to Central African Republic, Cameroon, Equatorial Guinea and Gabon, especially in Sudanian zones; in Gabon probably rare and known only from Ogooué-Ivindo (Lopé National Park)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, jachères et prairies marécageuses ; jusqu’à 450 m d’altitude
+savanna, fallows and marshy grasslands; up to 450 m altitude
 
 ## Vernacular names
 

@@ -29,33 +29,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Kunth. Rév. Gram. I : 163 (nom seulement) (1829); Énum. pl. I : 491 (1833). — Steud. Syn. Pl. Glum. I : 371-386 (1855). — F.T.A. IX : 261 (1919).
 
 a. — A. gayanus var. squamulatus (Hochst.) Stapf.
 
 b. — A. gayanus var. bisquamulatus (Hochst.) Hack.
 
-Herbe pouvant dépasser 3 m de haut. Chaumes glabres, à nombreux nœuds. Feuilles glabres ou plus ou moins pubescentes. Gaines arrondies, avec de courtes auricules souduées à la ligule qui est arrondie ou tronquée, d'environ 2 mm de long. Limbe linéaire, atténué à la base, parfois en un court pétiole formé par la nervure centrale épaisse, scabre sur les bords, de plus de 30 cm de long et de 5 à 10 mm de large.
+Herb potentially exceeding 3 m tall. Culms glabrous, with numerous nodes. Leaves glabrous or more or less pubescent. Sheaths rounded, with short auricles fused to the ligule which is rounded or truncate, approximately 2 mm long. Blade linear, attenuated at the base, sometimes into a short petiole formed by the thick central vein, scabrous on the margins, more than 30 cm long and 5 to 10 mm wide.
 
-Inflorescence paniculée, grande, pouvant occuper le tiers supérieur de la plante, avec jusqu'à 6 branches primaires ou parfois plus. Pédoncules filiformes, plus longs que les spathéoles. Racèmes de 3 à 7 cm de long, plus ou moins pubescents. Articles et pédicelles de 4 à 5 mm de long, ciliés latéralement sur 1 ou 2 côtés.
+Inflorescence paniculate, large, potentially occupying the upper third of the plant, with up to 6 primary branches or sometimes more. Peduncles filiform, longer than the spatholes. Racemes 3 to 7 cm long, more or less pubescent. Articles and pedicels 4 to 5 mm long, ciliate laterally on 1 or 2 sides.
 
-Épillet sessile de 6-8 mm de long, à glume inférieure obtuse ou courtement bidentée, déprimée sur le dos et scabre, à carènes ciliées épineuses. Glume supérieure obliquement lancéolée, acuminée ou mucronée, ciliée sur les marges et scabre sur la carène.
+Sessile spikelet 6-8 mm long, with lower glume obtuse or shortly bidentate, depressed on the back and scabrous, with carinae ciliate spinose. Upper glume obliquely lanceolate, acuminate or mucronate, ciliate on the margins and scabrous on the carina.
 
-Fleur inférieure réduite à une lemma hyaline un peu plus courte que les glumes. Fleur supérieure à lemma plus ou moins profondément bifide, avec 3 nervures à la base et arête de 1,8 à 3 ou 4 cm de long, genouillée en dessous du milieu. Paléa longue comme la moitié de la lemma.
+Lower floret reduced to a hyaline lemma somewhat shorter than the glumes. Upper floret with lemma more or less deeply bifid, with 3 nerves at the base and awn 1.8 to 3 or 4 cm long, geniculate below the middle. Palea as long as half of the lemma.
 
-Épillets pédicellés mâles semblables aux sessiles, mais plus courts et plus larges, glabres ou plus ou moins pubescents. Glume inférieure à nombreuses nervures, prolongée par une subule à peu près aussi longue qu'elle. Glume supérieure membraneuse, à 5 ou 7 nervures, acuminée ou courtement subulée.
+Pedicellate spikelets male similar to the sessile ones, but shorter and wider, glabrous or more or less pubescent. Lower glume with numerous nerves, extended by a subula approximately as long as itself. Upper glume membranous, with 5 or 7 nerves, acuminate or shortly subulate.
 
-Les deux variétés, squamulatus et bisquamulatus, ont été récoltées au Gabon. Elles se distinguent, la première par ses articles et ses pédicelles ciliés sur les deux bords, l'arête de 15 à 30 mm de long et les épilets pédicelles scabres ou pubérulents. La deuxième par ses articles et les pédicelles des racèmes pubescens uni- ou bilatéralement, les arêtes ayant (pour les échantillons gabonais) jusqu'à 2,5 cm de long et les épilets pédicelles plus ou moins poilus ou villeux.
+The two varieties, squamulatus and bisquamulatus, have been collected in Gabon. They are distinguished, the first by its articles and pedicels ciliate on both edges, the awn 15 to 30 mm long and the pedicellate spikelets scabrous or puberulent. The second by its articles and the pedicels of the racemes pubescent uni- or bilaterally, the awns having (for the Gabonese specimens) up to 2.5 cm long and the pedicellate spikelets more or less hairy or villous.
 
-La distinction entre A. gayanus et A. gabonensis est parfois difficile à faire; les dimensions des épilets et des arêtes sont en effet variables, ainsi que les caractères de pilosité. La variété genuinus en particulier (non signalée au Gabon) a un aspect parfois très proche d'A. gabonensis mais peut s'en distinguer cependant par la pubescence unilatérale des articles et des pédicelles et par la glume inférieure de l'épillet pédicellé subulée alors qu'elle n'est que mucronée chez A. gabonensis.
+The distinction between A. gayanus and A. gabonensis is sometimes difficult to make; the dimensions of the spikelets and awns are indeed variable, as are the characters of hairiness. The genuinus variety in particular (not recorded in Gabon) sometimes has an appearance very close to A. gabonensis but can nevertheless be distinguished from it by the unilateral pubescence of the articles and pedicels and by the lower glume of the pedicellate spikelet subulate whereas it is only mucronate in A. gabonensis.
 
-Les variétés squamulatus et bisquamulatus ont des racèmes plus densément pubescents et des arêtes plus longues.
+The varieties squamulatus and bisquamulatus have more densely pubescent racemes and longer awns.
 
-Elles sont signalées toutes deux dans la plupart des régions de l'Afrique intertropicale où elles forment parfois des peuplements très importants. Elles semblent par contre assez rares au Gabon.
+They are recorded both in most regions of intertropical Africa where they sometimes form very important populations. They appear on the other hand to be quite rare in Gabon.
 
-L'écologie de ces deux variétés est sans doute assez proche de celle d'A. gabonensis.
+The ecology of these two varieties is doubtless quite close to that of A. gabonensis.
 
 ## Specimens examined
 

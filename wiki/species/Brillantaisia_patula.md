@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, — R. Benoist, l. c. 335 (1913). — Hutch. et Dalz., F.W.T.A. ed. 1, 2: 254 (1931).
 
-, — R. Benoist, l. c. 335 (1913). — Hutch. et Dalz., F.W.T.A. ed. 1, 2 : 254 (1931).
+Robust plant, suffrutescent, reaching up to 2 m in height, hairy-pubescent, especially in the inflorescences; leaves glabrescent; stems quadrangular. Petioles winged throughout their length, with wings dentate at least in the upper part. Limb oval, acuminate, dentate-serrulate, with rounded or abruptly cuneate base in the petiole; leaves, petiole included 30 × 20 cm.
 
-Plante robuste, suffrutescente, atteignant jusqu'à 2 m de hauteur, poilue-pubescente, surtout dans les inflorescences; feuilles glabrescentes; tiges quadrangulaires. Pétioles ailés sur toute leur longueur, à ailes dentelées du moins dans la partie supérieure. Limbe ovale, acuminé, denté-serrulé, à base arrondie ou abruptement cunée dans le pétiole; feuilles, pétiole inclus de 30 × 20 cm.
+Terminal lax inflorescences, with branches frequently in zigzag or falsely dichotomous, pubescent, with glandular hairs. Bracts oval or lanceolate; bracteoles small, lanceolate, approximately 4 × 1 mm. Calyx 13 mm, accrescent until nearly doubling in size after flowering, with linear segments, covered with glandular hairs. Corolla large, a beautiful pale violet or pink, with tube 1.5 cm; upper lip 4 cm, somewhat hairy-ciliate below toward the emarginate apex; lower lip 3.5–4 cm, glabrous, with three small apical teeth. Filaments 3.5 cm; anthers sagittate, 11 mm; staminodes glandular.
 
-Inflorescences terminales lâches, à branches fréquemment en zigzag ou faussement dichotomiques, pubescentes, à poils glanduleux. Bractées ovales ou lancéolées; bractéoles petites, lancéolées, d'environ  $ 4 \times 1 $ mm. Calice de  $ 13 $ mm, accrescent jusqu'à presque doubler de dimension après la floraison, à segments linéaires, couverts de poils glanduleux. Corolle grande, d'un beau violet clair ou rose, à tube de  $ 1,5 $ cm; lèvre supérieure de  $ 4 $ cm, un peu poilue-ciliée en dessous vers le sommet émarginé; lèvre inférieure de  $ 3,5-4 $ cm, glabre, à trois petites dents apicales. Filets de  $ 3,5 $ cm; anthères sagittées, de  $ 11 $ mm; staminodes glanduleux.
-
-Capsule atteignant 25 mm, avec environ 20 graines.
+Capsule reaching 25 mm, with approximately 20 seeds.
 
 ## Type
 
@@ -33,9 +31,7 @@ Smith s. n., Congo (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Togo, Nigeria, Cameroun, Gabon, Congo et Angola.
+Togo, Nigeria, Cameroon, Gabon, Congo and Angola.
 
 ## Specimens examined
 

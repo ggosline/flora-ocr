@@ -23,19 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual herb with culms reaching 2 m in height, often geniculate and rooting toward the base. Leaf sheaths rounded, always hirsute at the nodes. Ligules membranous, short, ciliate. Leaf blades linear, up to 40 cm long and 10 mm wide, more or less pubescent, with tubercle-based hairs at the base.
 
-Herbe annuelle à chaumes pouvant atteindre 2 m de haut, souvent géniculés et radicants vers la base. Gaines foliaires
+Panicles terminal and at the upper nodes. Inflorescence branches very fine, reaching 1.5 cm in length, hairs at the articulations reaching 4 mm in length. Rachises flexuous, 2.5 to 6 cm long; articles and pedicels 2 mm long, densely ciliate white.
 
-arrondies, toujours hirsutes au niveau des nœuds. Ligules membranées, courtes, ciliées. Limbes foliaires linéaires, jusqu'à 40 cm de long et 10 mm de large, plus ou moins pubescents, à poils tuberculés à la base.
+Spikelets sessile oblong, 4 mm long, pale in color. Lower glume more or less pubescent toward the base and on the margins, keels scabrous, 4 or 5 nerves between them. Upper glume subobtuse. Lemma of the lower floret ovate, glabrous, 1.5 mm long. Awn 2.5 to 4 mm long. Pedicellate and homogamous spikelets 5 to 6 mm long, oblong-lanceolate. Lower glume more or less pubescent with tubercle-based hairs at the base, 10–17 nerves, particularly visible on the spikelets of homogamous pairs. Upper glume shorter, 3 or 5 nerves, ciliate in its upper part.
 
-Panicules terminales et aux nœuds supérieurs. Branches de l'inflorescence très fines, atteignant 1,5 cm de long, poils aux articulations atteignant 4 mm de long. Racèmes flexueux, de 2,5 à 6 cm de long; articles et pédicelles de 2 mm de long, densément ciliés blanc.
+The species has been recorded throughout tropical Africa, from Sudan to Ethiopia and from Angola to Mozambique, as well as in America, from Mexico to Brazil.
 
-Épillets sessiles oblongs, de 4 mm de long, de couleur claire. Glume inférieure plus ou moins pubescente vers la base et sur les bords, carènes scabres, 4 ou 5 nervures entre elles. Glume supérieure subobtuse. Glumelle de la fleur inférieure ovale, glabre, de 1,5 mm de long. Arête de 2,5 à 4 mm de long. Épillets pédicellés et homogames de 5 à 6 mm de long, oblong-lancéolés. Glume inférieure plus ou moins pubescente à poils tuberculés à la base, à 10-17 nervures, particulièrement visibles sur les épilets des paires homogames. Glume supérieure plus courte, à 3 ou 5 nervures, ciliée dans sa partie supérieure.
-
-L'espèce a été signalée dans toute l'Afrique tropicale, du Soudan à l'Éthiopie et de l'Angola au Mozambique, ainsi qu'en Amérique, de Mexico au Brésil.
-
-C'est une herbe que l'on rencontre rarement en peuplements importants, qui est exigeante et indique des sols frais et bien pourvus en matière organique. C'est une bonne espèce fourragère.
+This is a grass encountered rarely in large stands, which is demanding and indicates fresh soils well supplied with organic matter. It is a good forage species.
 
 ## Specimens examined
 

@@ -25,9 +25,9 @@ tags: [species]
 
 34.Diospyros suaveolens Gurke
 
-Bot.Jahrb.26:68(18g8).-F.WHITE，FWTA ed.2,2:II，tab.202 B,2 (1963)；Nigerian Trees 2:334 (1964). —Diospyros Barteri auct. non HIERN : HUTcH. et DALz.， FWTA ed. 1, 2:4 (1931) p.p. (Mildbraed no 10522). Specimens of this species appear in various herbaria under the following illegitimate name: *Diospyros confertiflora* Gurke ex Kennedy.
+Bot.Jahrb.26:68(18g8).-F.WHITE,FWTA ed.2,2:II,tab.202 B,2 (1963);Nigerian Trees 2:334 (1964). —Diospyros Barteri auct. non HIERN : HUTcH. et DALz., FWTA ed. 1, 2:4 (1931) p.p. (Mildbraed no 10522). Specimens of this species appear in various herbaria under the following illegitimate name: *Diospyros confertiflora* Gurke ex Kennedy.
 
-PL.25,p. 155, et CARTE 32，p. 173.
+PL.25,p. 155, et CARTE 32,p. 173.
 
 Tree reaching 30 m in height and 50 cm in basal diameter, usually with a straight
 trunk fluted near the base and a small densely leafy crown with horizontal
@@ -90,11 +90,11 @@ semi-deciduous forest.
 
 ### Material studied in Cameroon
 
-Aubréville 278o (= 2 Ca)，rés. for. Ototomo pres Yaoundé (fl.δ， avr.). De Wilde W. 2827,65 km SSW Eséka，pres du Nyong (fr. juill.) WAG. Hédin I554,So Dibanga (fr.,sept.)；s.n.,km 266 du chemin de fer Douala-Yaoundé (stér.). Keay FHI 37458,Bambuko for.res.pres Kumba (stér.) FHO. Leeuwenberg 5384，pres riviere Ekem，Io km W Masok (fl.δ,avr.) WAG. Letouzey SRFCam I564，Mangombé pres Edéa (fl.δ,avr.)；Io242，colline SE Ndengué,15 km S Ebolowa (fl.,mars). Mezili 78,Mbalmayo (fl.δ,avr.). Mildbraed 5429，pres Lomié dans la boucle du Dja (stér.）HBG；Io522, Likomba plantation,25 km NE Victoria (stér.） K. Mpom 94 (= SRFCam 203o)，Mangombé pres Edéa (ster.) YA. Service forestier 92, Ototomo pres Yaoundé (stér.). Smith II,Badshu Abagbi pres Mamfe (stér.） FHO. Staudt 2o7 (syntype)，Lolodorf (fl. ,avr.). White 857I,rés. for.lac Ejaghan pres Mamfe (stér.) FHO. Zenker 951 (syntype),Bipindi (fl.,mai)；2274,Bipindi (fl. ♀)；353o,Bipindi (fl.δ)BM,K；3862,Bipindi (fl.δ) P,BM,K；s.n.,Bipindi (fl. Ω).
+Aubréville 278o (= 2 Ca),rés. for. Ototomo pres Yaoundé (fl.δ, avr.). De Wilde W. 2827,65 km SSW Eséka,pres du Nyong (fr. juill.) WAG. Hédin I554,So Dibanga (fr.,sept.);s.n.,km 266 du chemin de fer Douala-Yaoundé (stér.). Keay FHI 37458,Bambuko for.res.pres Kumba (stér.) FHO. Leeuwenberg 5384,pres riviere Ekem,Io km W Masok (fl.δ,avr.) WAG. Letouzey SRFCam I564,Mangombé pres Edéa (fl.δ,avr.);Io242,colline SE Ndengué,15 km S Ebolowa (fl.,mars). Mezili 78,Mbalmayo (fl.δ,avr.). Mildbraed 5429,pres Lomié dans la boucle du Dja (stér.)HBG;Io522, Likomba plantation,25 km NE Victoria (stér.) K. Mpom 94 (= SRFCam 203o),Mangombé pres Edéa (ster.) YA. Service forestier 92, Ototomo pres Yaoundé (stér.). Smith II,Badshu Abagbi pres Mamfe (stér.) FHO. Staudt 2o7 (syntype),Lolodorf (fl. ,avr.). White 857I,rés. for.lac Ejaghan pres Mamfe (stér.) FHO. Zenker 951 (syntype),Bipindi (fl.,mai);2274,Bipindi (fl. ♀);353o,Bipindi (fl.δ)BM,K;3862,Bipindi (fl.δ) P,BM,K;s.n.,Bipindi (fl. Ω).
 
 ### Material studied in Gabon
 
-Fleury 266o4 in herb. Chevalier,pres Nkogo sur I'Ogoué (ster.). Le Testu 9342, Otouma,7o km SSW Mitzic (fl.δ,oct.). Touzet 92，Nkoulounga,55 km NE Libreville (fl. δ,nov.). Walker 4,sin. loc. (fl. ♀,j. fr.)； 2o4,mission Saint Martin, Haute Ngounyé (fl.早,avr.)；s.n.,eod.loc. (fr.,févr.).
+Fleury 266o4 in herb. Chevalier,pres Nkogo sur I'Ogoué (ster.). Le Testu 9342, Otouma,7o km SSW Mitzic (fl.δ,oct.). Touzet 92,Nkoulounga,55 km NE Libreville (fl. δ,nov.). Walker 4,sin. loc. (fl. ♀,j. fr.); 2o4,mission Saint Martin, Haute Ngounyé (fl.早,avr.);s.n.,eod.loc. (fr.,févr.).
 
 ## Figures
 

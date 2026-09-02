@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ; tiges grêles, prostrées ou volubiles, glabres ou velues sur les nœuds, parfois légèrement muriquées . Feuille glabre ; pétiole 1,5–3 cm de longueur ; limbe ovale à orbiculaire, 3–10 cm de diamètre, palmatiséqué, à 5(–7) segments lancéolés à ovales ou elliptiques, jusqu’à 4 × 2 cm, atténués à la base, aigus ou obtus et mucronulés au sommet , environ 10 paires de nervures latérales ; pseudostipules à 3–5 segments souvent présentes. Inflorescence en cymes lâches, uni- à pluriflores ; pédoncule 1–3 cm ; bractées très petites. Fleur : pédicelle 1–2 cm ; sépales ovales, 4–5 × 3–4 mm, glabres, parfois légèrement verruqueux, obtus à aigus et mucronulés au sommet, membraneux sur les bords ; corolle infundibuliforme, 3–4 cm de longueur, rose à lobes faiblement marqués ; étamines incluses, filets inégaux, environ 10 mm de longueur, pubescent à la base ; pistil inclus, ovaire glabre . Fruit subglobuleux, environ 1 cm de diamètre, glabre, à 4 graines. Graines subglobuleuses ou ovoïdes , 4–6 mm de longueur, noirâtres, tomenteuses à longs poils soyeux sur les angles .
+Perennial herb; stems slender, prostrate or twining, glabrous or hairy at the nodes, sometimes slightly muricate. Leaf glabrous; petiole 1.5–3 cm long; blade ovate to orbicular, 3–10 cm in diameter, palmatisect, with 5(–7) lanceolate to ovate or elliptic segments, up to 4 × 2 cm, attenuate at the base, acute or obtuse and mucronulate at the apex, approximately 10 pairs of lateral veins; pseudostipules with 3–5 segments often present. Inflorescence in loose cymes, uni- to pluriflorous; peduncle 1–3 cm; bracts very small. Flower: pedicel 1–2 cm; sepals ovate, 4–5 × 3–4 mm, glabrous, sometimes slightly verrucose, obtuse to acute and mucronulate at the apex, membranous at the margins; corolla funnelform, 3–4 cm long, pink with weakly marked lobes; stamens included, filaments unequal, approximately 10 mm long, pubescent at the base; pistil included, ovary glabrous. Fruit subglobose, approximately 1 cm in diameter, glabrous, with 4 seeds. Seeds subglobose or ovoid, 4–6 mm long, blackish, tomentose with long silky hairs on the angles.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue de toute l’Afrique tropicale et subtropicale, ainsi que de l’Asie et de l’Amérique (introduite dans le Pacifique) ; au Gabon, connue de quelques collections de l’Estuaire
+Known from all of tropical and subtropical Africa, as well as from Asia and America (introduced to the Pacific); in Gabon, known from a few collections in the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des lacs et des rivières, stations rudérales, sur sols sableux ; au Gabon, à basse altitude, ailleurs, jusqu’à 1900 m
+Lake and river margins, ruderal stations, on sandy soils; in Gabon, at low elevation, elsewhere up to 1900 m
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sert de nourriture aux lapins, aux cobayes, aux chèvres et aux porcs. Dans la croyance des indigènes, cette liane serait un porte-bonheur pour ceux qui font la pêche aux gros poissons
+Serves as food for rabbits, guinea pigs, goats and pigs. In the belief of indigenous peoples, this vine would be a good luck charm for those who fish for large fish
 
 ## Vernacular names
 

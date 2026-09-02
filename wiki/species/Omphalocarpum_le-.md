@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Young branches reddish-blackish, glabrous. Leaves obovate-oblong. Limb 9-19 cm long, 4-10 cm wide, glabrous, shiny above. Lateral veins 8-10 pairs. Network of parallel veinlets and venules, finely prominent on both faces (dry leaves). Petiole 1-1.8 cm, stout, plano-convex.
 
-Rameaux jeunes rougeâtres-noirâtres, glabres. Feuilles obovées oblongues. Limbe 9-19 cm long, 4-10 cm large, glabre, brillant dessus. Nervures latérales 8-10 paires. Réseau de nervilles parallèles et de veinules, finement saillant sur les 2 faces (feuilles sèches). Pétiole 1-1,8 cm, fort, plan convexe.
+Flowers in fascicles on the trunk. Pedicels ca. 1.5 cm. Sepals elliptic, the outer ones glabrous or nearly so, the inner ones finely tomentose externally and internally, ca. 1.2 cm long. ∅ Flowers: corolla with 6 ciliate lobes, 25 mm long: lobes oblong 15 mm, tube 10 mm. Stamens in bundles of 6 opposite the petals, inserted at the level of the fusion of the lobes. Filaments 15 to 18 mm long, more or less fused together at the base. Anthers oblong, apiculate, 4.5-5 mm long. Staminodes short, ca. 4 mm long, dentate, sometimes apiculate. Ovary glabrous with 18 uniovulate locules.
 
-Fleurs en fascicules sur le tronc. Pédicelles env. 1,5 cm. Sépales elliptiques, les extérieurs glabres ou presque, les intérieurs finement tomentaux extérieurement et intérieurement, env. 1,2 cm long. Fleurs ∅ : corolle à 6 lobes ciliés, longue de 25 mm : lobes oblongs 15 mm, tube 10 mm. Étamines par faisceaux de 6 opposés aux pétales, insérés à hauteur de la soudure des lobes. Filets de 15 à 18 mm long, plus ou moins soudés entre eux à la base. Anthères oblongues, apiculées, longues de 4,5-5 mm. Staminodes courts, env. 4 mm long, dentelés, parfois apiculés. Ovaire glabre à 18 loges uniovulées.
+♀ Flowers: smaller than the above, approximately 20 mm long; lobe 14 mm, tube 6 mm. Sepals 5-6. Corolla lobes 6-7. Stamens reduced to filaments of 8-12 mm, in bundles of 6.
 
-Fleurs ♀ : plus petites que les précédentes, environ 20 mm long; lobe 14 mm, tube 6 mm. Sépales 5-6. Lobes de la corolle 6-7. Étamines réduites à des filets de 8-12 mm, par faisceaux de 6.
+Staminodes more developed than in the ∅ flower, ca. 10-12 mm, dentate and apiculate, sometimes bilobed at the apex.
 
-Staminodes plus développés que dans la fleur ∅, env. 10-12 mm, dentelés et apiculés, parfois bilobés au sommet.
+Fruit unknown.
 
-Fruit inconnu.
+Type of the species: n° 9609 Le Testu, Oyem (fl. June).
 
-Type de l'espèce : nº 9609 Le Testu, Oyem (fl. juin).
-
-Cette espèce se caractérise par ses feuilles non acuminées et non cunéiformes aiguës à la base, distinctement pétiolées et ses fleurs pédicellées. Elle est affine de O. Massoko Baudon dont le type, non vu, est de la région sud de Franceville. (Ann. Mus. Col. Marseille : 27 (1928).
+This species is characterized by its non-acuminate leaves and those not cuneate-acute at the base, distinctly petiolate, and its pedicellate flowers. It is related to O. Massoko Baudon whose type, not seen, is from the southern region of Franceville. (Ann. Mus. Col. Marseille: 27 (1928).
 
 ## Specimens examined
 

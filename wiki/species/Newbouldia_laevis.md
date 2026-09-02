@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-SPRAGUE, FTA 4 (2) : 521 (1906). HEINE, FWTA, ed. 2, 2 : 388, fig. 296 (1963) ; GENTRY, Fl. Cam. 27 : 41, tab. 12 (1984).
+SPRAGUE, FTA 4 (2): 521 (1906). HEINE, FWTA, ed. 2, 2: 388, fig. 296 (1963); GENTRY, Fl. Cam. 27: 41, tab. 12 (1984).
 
 - Spathodea laevis P.B., Fl. Owar. 1: 48, tab. 29 (1805); SEEMANN, l.c. 1: 225 (1963).
 
@@ -31,27 +29,25 @@ Palisot de Beauvois s.n., Nigeria (P-AD 12303 ; folioles in P-Lam. nº 10)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+- Bignonia glandulosa SCHUMACH. & THONN., Danske Vid. Selesk. 4: 48 (1829). TYPE: Thonning s.n., Guinea (not seen).
 
-- Bignonia glandulosa SCHUMACH. & THONN., Danske Vid. Selesk. 4: 48 (1829). TYPE : Thonning s.n., Guinée (non vu).
+- Spathodea adenantha G. Don, Gen. Syst. 4: 222 (1839). TYPE: Don s.n., Guinea (not seen).
 
-- Spathodea adenantha G. Don, Gen. Syst. 4: 222 (1839). TYPE: Don s.n., Guinée (non vu).
+- Spathodea pentandra Hook., Bot. Mag., n.s., 12: tab. 3681 (1839). TYPE: cultivated in England from seeds received from India.
 
-- Spathodea pentandra Hook., Bot. Mag., n.s., 12 : tab. 3681 (1839). TYPE : cultivé en Angleterre à partir de graines reçues des Indes.
+- Spathodea speciosa BRONGN., Herb. Gen. Amat., ser. 2, 4: 70 (1844). TYPE: cultivated in Paris, Herb. Gen. Amat., ser. 2, 4: tab. 70, illustr.
 
-- Spathodea speciosa BRONGN., Herb. Gen. Amat., sér. 2, 4: 70 (1844). TYPE : cultivé à Paris, Herb. Gen. Amat., sér. 2, 4: tab. 70, illustr.
-
-- Spathodea jenischii SOND., Hamburger Gartenzeit. 4: 370 (1848). TYPE : s.c. s.n. Sierra Leone.
+- Spathodea jenischii SOND., Hamburger Gartenzeit. 4: 370 (1848). TYPE: s.c. s.n. Sierra Leone.
 
 – Newbouldia pentandra (Hook.) SEEM., l.c. 8: 338 (1870).
 
-Petit arbre haut de 3 à 10 m, d'un diamètre d'au moins 20 cm. Ramilles triangulaires à subteretes, glabres, non visiblement lenticellées. Feuilles en verticilles de 3, 7-11 folioles ; chacune elliptique à étroitement obovée, aiguë à longuement acuminée, cunéiforme à la base, 5-28 × 1,5-11 cm, visiblement dentée à subentière, glabre dessus, très finement et éparsement écailleuse dessous ; domatie et frange de poils simples dans les aisselles des nervures secondaires ; pétiolules (sauf pour les folioles terminales) pas nettement différenciés de la base de la foliole, longs de quelques mm au plus, habituellement très brièvement pubérulents ; rachis segmenté et virtuellement désarticulé à chaque paire de folioles, finement strié, glabre ou très brièvement pubérulent près des soudures pétiolulaires.
+Small tree 3–10 m tall, with a diameter of at least 20 cm. Branchlets triangular to subterete, glabrous, not visibly lenticellate. Leaves in whorls of 3, 7–11 leaflets; each elliptic to narrowly obovate, acute to long-acuminate, cuneiform at the base, 5–28 × 1.5–11 cm, distinctly dentate to subentire, glabrous above, very finely and sparsely scaly below; domatia and fringe of simple hairs in the axils of secondary veins; petiolules (except for the terminal leaflets) not distinctly differentiated from the leaflet base, at most a few mm long, usually very briefly puberulent; rachis segmented and virtually disarticulate at each leaflet pair, finely striate, glabrous or very briefly puberulent near the petiolular junctions.
 
-Inflorescence en panicule terminale très étroite, glabre. Pédicelle long de 1 cm environ. Calice spathacé ou subspathacé, long de 1,6-2 cm, large de 0,8-11 cm environ, souvent bifide au sommet, glabre avec des glandes circulaires saillantes visibles éparses. Corolle magenta clair ou rosâtre avec des veines plus sombres, tubulaire-campanulée au-dessus d'une base cylindrique longue de 4-6,5 cm et large de 1,8-2 cm au-dessus de l'embouchure du tube; tube long de 3-4 cm; lobes longs de 1-2 cm; glabre extérieurement et intérieurement sauf à la base des étamines, avec des glandes circulaires saillantes sur la face externe des lobes. Étamines faiblement didynamics; filets longs de 1,5-2 cm; thèques pendantes, faiblement divergentes, longues de 0,5 mm environ. Pistil long de 2,5-3,5 cm, ovaire étroitement cylindrique, long de 7-9 mm, large de 1 mm, glabre, habituellement avec des glandes circulaires saillantes. Disque cupulaire pulviné, pentalobé, long de 2 mm, large de 3 mm.
+Inflorescence a very narrow terminal panicle, glabrous. Pedicel c. 1 cm long. Calyx spathate or subspathate, 1.6–2 cm long, c. 0.8–1.1 cm wide, often bifid at the apex, glabrous with scattered raised circular glands visible. Corolla light magenta or pinkish with darker veins, tubular-campanulate above a cylindric base 4–6.5 cm long and 1.8–2 cm wide above the tube mouth; tube 3–4 cm long; lobes 1–2 cm long; glabrous externally and internally except at the base of the stamens, with raised circular glands on the outer face of the lobes. Stamens weakly didynamous; filaments 1.5–2 cm long; anthers pendulous, weakly divergent, c. 0.5 mm long. Pistil 2.5–3.5 cm long, ovary narrowly cylindric, 7–9 mm long, 1 mm wide, glabrous, usually with raised circular glands. Disk cupular pulvinate, pentalobed, 2 mm long, 3 mm wide.
 
-Fruit effilé, à valves minces, long de 16-32 cm, large de 1,3-1,6 cm, très finement écailleux, autrement glabre ; valves souvent avec 3 nervures longitudinales non visibles. Graines minces, biaillées, 0,7-1,4× 3,5-5 cm, ailes hyalines membraneuses nettement démarquées du corps bronzé de la graine. - Pl. 8, p. 39.
+Fruit attenuate, with thin valves, 16–32 cm long, 1.3–1.6 cm wide, very finely scaly, otherwise glabrous; valves often with 3 not visible longitudinal nerves. Seeds thin, two-winged, 0.7–1.4 × 3.5–5 cm, wings hyaline membranous distinctly demarcated from the bronze-colored seed body. - Pl. 8, p. 39.
 
-C'est une espèce typique de végétation secondaire très répandue en Afrique occidentale, depuis le Sénégal jusqu'au Cameroun et au Gabon.
+This is a typical species of secondary vegetation widely distributed in West Africa, from Senegal to Cameroon and Gabon.
 
 ## Vernacular names
 

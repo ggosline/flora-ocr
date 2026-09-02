@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub sarmentose or liane reaching 3 m in height, glabrescent; branches geniculate-climbing, stems terete, distinctly swollen at the nodes. Petioles of the terminal leaves 2 mm, and up to 2.5 mm in the lower leaves, somewhat canaliculate and pubescent above. Leaf blade ovate, rounded or slightly acute at the base, acuminate at the apex, 7–9 × 3–5.5 cm, very dark olive-green when dry; acumen rounded, approximately 4.5 × 2 cm in the terminal leaves. 5 pairs of lateral veins.
 
-Arbrisseau sarmenteux ou liane atteignant 3 m de hauteur, glabrescent; branches géniculées-grimpantes, tiges rondes, nettement renflées aux nœuds. Pétioles des feuilles terminales de 2 mm, et jusqu'à 2,5 mm dans les feuilles inférieures, un peu canaliculés et pubescents dessus. Limbe des feuilles ovale, arrondi ou un peu aigu à la base, acuminé au sommet, de 7-9 × 3-5,5 cm, d'un vert olive très foncé à sec; acumen arrondi, de 4,5 × 2 cm environ dans les feuilles terminales. 5 paires de nervures latérales.
+Inflorescences terminal and lateral axillary, ovate or even substrobiliferous, 4–5 × 3.5 cm. Pedicels 3 mm long. Leaves of the inflorescences and bracts similar to ordinary leaves, but subsessile and broader, 10–12 × 6–8 mm toward the apex of the inflorescence; bracteoles pubescent, lanceolate, approximately 8 × 1 mm. Calyx pubescent, with posterior lobe ovate-acuminate 12 × 9 mm; the two anterior lobes 10 × 7 mm are fused, with terminal teeth 1–2 mm; lateral lobes 7 mm long, ciliate. Corolla white tinged with
 
-Inflorescences terminales et latérales axillaires, ovales ou même substrobiliformes, de 4-5 × 3,5 cm. Pédicelles de 3 mm de long. Feuilles des inflorescences et bractées semblables aux feuilles ordinaires, mais subsessiles et plus larges, de 10-12 × 6-8 mm vers le sommet de l'inflorescence; bractéoles pubescentes, lancéolées, de 8 × 1 mm environ. Calice pubescent, à lobe postérieur ovale-acuminé de 12 × 9 mm; les deux lobes antérieurs de 10 × 7 mm sont soudés, avec les dents terminales de 1-2 mm; lobes latéraux de 7 mm de long, ciliés. Corolle d'un blanc teinté de
+mauve, bluish, greyish or blackish when dry, 30–40 mm long, with tube 17 × 4 mm; anterior lobe 1.5 cm long, rounded; other lobes approximately 1 cm long. Filaments 4.5–4.7 cm long somewhat thick; anthers exserted 3 mm long; staminodes with filaments 2.5–3 mm long and anthers approximately 1.5 mm long; the filaments are enlarged at the base. Ovary 3 mm long, glabrous, ovoid, acuminate; style glabrous, 4.5–6 cm long, stigma 1 mm.
 
-mauve, bleuâtre, grisâtre ou noirâtre à sec, de 30-40 mm de long, à tube de 17 × 4 mm; lobe antérieur de 1,5 cm de long, arrondé; autres lobes de 1 cm environ de long. Filets de 4,5-4,7 cm de long un peu épais; anthères exsertes de 3 mm de long; staminodes à filets de 2,5-3 mm de long et anthères de 1,5 mm environ de long; les filets sont élargis à la base. Ovaire de 3 mm de long, glabre, ovoïde, acuminé; style glabre, de 4,5-6 cm de long, stigmate de 1 mm.
-
-Capsule obovoide, brun grisâtre foncé, à deux graines, un peu bossues (capsules mûres non connues).
+Capsule obovoid, dark greyish-brown, two-seeded, somewhat tuberculate (ripe capsules not known).
 
 ## Type
 
@@ -37,9 +35,7 @@ E. Brown 313, Entebbe, Uganda (BM, holotype!, K, isotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud Nigeria, Oubangui-Chari, Congo ex-français et ex-belge, Angola, Ouganda.
+Southern Nigeria, Ubangi-Shari, French Congo and Belgian Congo, Angola, Uganda.
 
 ## Specimens examined
 

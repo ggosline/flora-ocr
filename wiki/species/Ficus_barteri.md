@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : (1917) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 164 (1948) ; KEAY, FWTA, ed. 2, 1 : 610 (1958) ; AUVRÉV., FFCI, ed. 2, 1 : 92, tab. 21, fig. A (1959).
 
-HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : (1917) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 164 (1948) ; KEAY, FWTA, ed. 2, 1 : 610 (1958) ; AUVRÉV., FFCI, éd. 2, 1 : 92, tab. 21, fig. A (1959).
+- F. laurentii WARB., Ann. Mus. Congo, Bot., ser. 6, 1 : 21 (1904) ; LEBRUN & BOUTIQUE, l.c. : 164 (1948). TYPE : Laurent Em. s.n., Zaïre, near Lusambo (holo-, B).
 
-- F. laurentii WARB., Ann. Mus. Congo, Bot., sér. 6, 1 : 21 (1904) ; LEBRUN & BOUTIQUE, l.c. : 164 (1948). TYPE : Laurent Em. s.n., Zaïre, près Lusambo (holo-, B).
+- F. mildbraedii Hutch., Kew Bull.: 344 (1915). TYPE: Mildbraed 4262, Cameroon, confluence of Gek and Boumba rivers, 50 km N Moloundou (holo-, B ; iso-, HBG, K).
 
-- F. mildbraedii Hutch., Kew Bull.: 344 (1915). TYPE: Mildbraed 4262, Cameroun, confluent riv. Gek et Boumba, 50 km N Moloundou (holo-, B ; iso-, HBG, K).
+Shrubs, epiphytic (stranglers) or trees of medium size. Leafy branchlets thick 3–5 mm, glabrous, brown to dark brown-purplish when dry. Leaves arranged spirally. Lamina often grey-green above and brown below when dry, oblong to lanceolate to linear or elliptic, subobovate or obovate, 5.5–10–30 cm long, 1.5–7 cm wide, coriaceous, apex ± narrowly to abruptly acuminate to (sub)acute, base acute to broad, margin entire; both surfaces glabrous; midvein ± concave and other veins (almost) plane above, midvein prominent, the other veins prominent to plane below; 10–20 pairs of primary lateral veins, especially on narrow leaves, tending to diverge from the midvein at an angle close to 90°, many secondary lateral veins, no distinct basal veins, connected, especially in narrow leaves by a coarsely arched submarginal vein, 2–3 mm from the margin, glandular spot not visible. Petiole about 1–4 cm long, about 2 mm thick, glabrous, most often yellowish to greyish-green when dry. Stipules 0.5–2 cm long, glabrous, ciliolate, caducous.
 
-Arbustes épiphytes (étrangleurs) ou arbres de taille moyenne. Rameaux feuillés épais de 3-5 mm, glabres, marron à marron-violacé sombre sur le sec. Feuilles disposées en spirales. Limbe souvent gris-verdâtre dessus et marron dessous en séchant, oblong à lancéolé à linéaire ou à elliptique, subobové ou obové, long de (5,5-) 10-30 cm, large de 1,5-7 cm, coriace, sommet ± étroitement à brusquement acuminé à (sub) aigu, base aiguë à large, bord entier ; les deux surfaces glabres ; nervure médiane ± concave et autres nervures (presque) planes dessus, nervure médiane saillante, les autres nervures saillantes à planes dessous ; 10-20 paires de nervures latérales primaires, spéciale
+Figs solitary or in pairs in the leaf axils; peduncle 0.5–1–2.5 cm long, about 1 mm thick, sparsely puberulous to glabrous; basal bracts 2, semicircular to broadly ovate, 1.5–2 mm long, glabrous or sparsely puberulous in the lower part, caducous except for a ± oblique part forming a neck formed by the persistent basal portions; receptacle globose, 1–1.3 cm in diameter when fresh, 0.6–1.1 cm when dry, almost glabrous, weakly to distinctly verruculose, orange at maturity, ostiole flat or prominent, bilabiate.
 
-ment sur les feuilles étroites, tendant à s'écarter de la nervure médiane avec un angle proche de 90°, beaucoup de nervures secondaires latérales, pas de nervures basales distinctes, reliées, spécialement dans les feuilles étroites par une nervure grossièrement arquée, submarginale, à 2-3 mm du bord, tache glanduleuse non visible. Pétiole long de 1-4 cm environ, épais de 2 mm environ, glabre, le plus souvent jaunâtre à gris verdâtre sur le sec. Stipules longues de 0,5-2 cm, glabres, ciliolées, caduques.
-
-Figues solitaires ou par paires dans les aisselles des feuilles ; pédon-cule long de (0,5-) 1-2,5 cm, épais de 1 mm environ, éparsement pubérulent à glabre ; bractées basales 2, semi-circulaires à largement ovées, longues de 1,5-2 mm, glabres ou éparsement pubérulentes dans la partie inférieure, caduques sauf pour une partie ± oblique comme un col formé par les parties basales persistantes ; réceptacle globuleux, d'un diamètre de 1-1,3 cm sur le frais, de 0,6-1,1 cm sur le sec, presque glabre, faiblement à distinctement verruculeux, orange à maturité, ostiole plat ou saillant, bilabié.
-
-Fleurs pistillées avec un périanthe à 3 tépales inégaux, longs jusqu'à 1,5 mm (presque) libres ; fleurs à graines sessiles, style long de 1-2 mm ; fleurs à galles subsessiles ou pédicellées jusqu'à 0,5 mm, style long de 0,5-1 mm. Fruits ellipsoïdes à oblongoïdes, souvent ± courbés, longs de 1-1,5 mm environ, la couche externe de la partie supérieure mucilagèneuse ; fruits à galles subovoïdes à subglobuleux, longs de 1,5-2 mm environ ; fruits distinctement bicolores. Fleurs staminées sessiles, périanthe avec 2 tépales, obtus longs de 0,5 mm environ, basalement soudés, filet large, long de 0,7 mm environ. Bractées interflorales longues jusqu'à 1,5 mm. - Pl. 77, p. 249.
+Pistillate flowers with a perianth of 3 unequal tepals, up to 1.5 mm long (almost) free; seed flowers sessile, style 1–2 mm long; gall flowers subsessile or pedicellate up to 0.5 mm, style 0.5–1 mm long. Fruits ellipsoid to oblongoid, often ± curved, about 1–1.5 mm long, the external layer of the upper part mucilaginous; gall fruits subovoid to subglobose, about 1.5–2 mm long; fruits distinctly bicolorous. Staminate flowers sessile, perianth with 2 tepals, obtuse about 0.5 mm long, basally fused, filament wide, about 0.7 mm long. Interfloreral bracts up to 1.5 mm long. - Pl. 77, p. 249.
 
 ## Type
 
@@ -39,11 +35,9 @@ Barter 294, Nigeria, Onithsa (holo-, K ; iso-, BR, F)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The species is highly variable in lamina shape and, consequently in venation. Forms with narrow leaves appear more common in the western part of the range.
 
-L'espèce est très variable dans la forme du limbe et, par conséquent dans la nervation. Les formes avec des feuilles étroites semblent plus communes dans la partie ouest de l'aire.
-
-L'aire de cette espèce s'étend du Sierra Leone à travers le Cameroun et le Zaïre jusqu'en Zambie et en Ouganda ; dans la forêt dense humide et les galeries forestières.
+The range of this species extends from Sierra Leone across Cameroon and Zaïre to Zambia and Uganda; in dense humid forest and forest galleries.
 
 ## Specimens examined
 

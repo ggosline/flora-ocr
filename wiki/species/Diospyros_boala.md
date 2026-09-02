@@ -102,7 +102,7 @@ Letouzey Io2o7,colline Ongongondjé pres Akonékyé,15km NWAmbam (stér.).
 
 ### Material studied in Gabon
 
-Le Testu 755g，Lastoursville (fl. ♀，oct.)； 7976,Lastoursville (fr.，mars); 8039,Moulounda pres Mbigou (fr.,avr.)；8417,Libéla,6o km NE Mbigou (fl.,oct.); 9486,Oyem (fl., févr.).
+Le Testu 755g,Lastoursville (fl. ♀,oct.); 7976,Lastoursville (fr.,mars); 8039,Moulounda pres Mbigou (fr.,avr.);8417,Libéla,6o km NE Mbigou (fl.,oct.); 9486,Oyem (fl., févr.).
 
 ## Figures
 

@@ -20,17 +20,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (J. Braun et K. Schum.) M.-Redh.
 
 — MILNE-REDHEAD, Kew Bull. 192 (1950).
 
-Herbe ligneuse grimpante, rameaux densément couverts de petites épines recourbées. Feuilles à pétiole glabre, souvent entièrement calleux, de 5 à 15 mm de long. Limbe variable, jusqu'à  $ 25 \times 12 $ cm, pubescence confinée à la base du limbe, de part et d'autre de la nervure médiane.
+Woody climbing herb, branches densely covered with small recurved spines. Leaves with petiole glabrous, often entirely callous, 5 to 15 mm long. Lamina variable, up to 25 × 12 cm, pubescence confined to the base of the lamina, on either side of the midvein.
 
-Inflorescence longue de moins de 10 cm ; axe en zig-zag, pubescent, à entre-nœuds de ± 8 mm. de long. Bractées abaxiales glabres (toujours ?), ovales, arrondies au sommet. Fleurs comme dans l'espèce précédente, mais un peu plus petites : sépales d'environ 3 mm, corolle à tube de 4 à 5 mm et lobes d'environ 8 mm.
+Inflorescence less than 10 cm long; axis zigzag, pubescent, with internodes of ± 8 mm long. Abaxial bracts glabrous (always?), oval, rounded at the apex. Flowers as in the preceding species, but somewhat smaller: sepals about 3 mm, corolla with tube 4 to 5 mm and lobes about 8 mm.
 
-Fruits nettement trigones à angles arrondis, couvert d'émiancences coniques.
+Fruits distinctly trigonous with rounded angles, covered with conical eminences.
 
 ## Type
 
@@ -38,15 +36,11 @@ Braun 9, Cameroun (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant from Cameroon, Gabon, Spanish Guinea, and northern Congo (Brazzaville).
 
-Plante du Cameroun, du Gabon, de la Guinée espagnole, et du nord du Congo (Brazzaville).
+The stems are used by the Fangs to grate sugarcane after peeling (Walker and Sillans).
 
-Les tiges sont utilisées par les Fangs pour râper la canne à sucre après épluchage (Walker et Sillans).
-
-Noms vernaculaires (d’après Walker et Sillans) : Ntsèrè-
-
-awoga (Mpongwé, Galoa, Nkomi, Orungu) ; Nsèn (Fang) ; Dusyèseri (Eshira, Bavarama, Bapunu) ; Givyaka-ga-mutsètsendi; (Bavungu) ; Tsètè-a-tsèndè (Mitsogo) ; Mosètè-a-tsèndèdjè (Bavové) ; Saga (Banzabi) ; Musèrèsèrè-wa-tsèndè (Ngowé).
+Vernacular names (according to Walker and Sillans): Ntsèrè-awoga (Mpongwé, Galoa, Nkomi, Orungu); Nsèn (Fang); Dusyèseri (Eshira, Bavarama, Bapunu); Givyaka-ga-mutsètsendi (Bavungu); Tsètè-a-tsèndè (Mitsogo); Mosètè-a-tsèndèdjè (Bavové); Saga (Banzabi); Musèrèsèrè-wa-tsèndè (Ngowé).
 
 ## Specimens examined
 

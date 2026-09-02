@@ -16,27 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 53; Figure 11(F)
 
-Planche 53; Figure 11(F)
-
-Arbre jusqu’à ±40 m de hauteur; tronc jusqu’à ±40 cm de diamètre, droit, cannelé, parfois épineux; écorce plutôt lisse, brun pâle, à petites lenticelles blanchâtres; entaille lisse, jaunâtre, parfois à forte odeur acide et faiblement fruité; ramilles légèrement sillonnées à
-
-l'état jeune, à poils courts, blanchâtres à brunâtres, glabrescentes; bourgeons pubérulents. Stipules caduques, étroitement triangulaires à étroitement elliptiques-ovales, longues de 2–3 mm, glabrescentes. Feuille: pétiole de (3,1–4–5–(6,5) mm, pubérulent, glabrescent; limbe elliptique-ovale, de (8–8,5–12,5(−14,5) × (3,2–)−4–5,5(−7,5) cm, subcoriace, oblique à la base, aigu et acuminé au sommet, à marge subentière et obscurément crénelée ou serrulée vers le sommet, parfois finement et peu ciliée près de la base, plane à légèrement recourbée, vert foncé dessus, gris blanchâtre, terne et glabre dessous; nervation réticulée, proéminente dessous, nervure médiane légèrement poilue dessus (vers la base) et dessous, face inférieure glabrescente, à poils minuscules et le cas échéant très dispersés, nervures secondaires 3 à 6, ascendantes, bouclant et légèrement anastomosées bien avant la marge. Inflorescence mâle à l'aisselle des feuilles ou sous les feuilles, avec jusqu'à ±20 fleurs; bractées elliptiques à largement suborbiculaires, longues de (0,9–1,3–1,5 mm, pubérulent; Fleur mâle: pédi-celle grêle, de (2,3–)2,5–3,5(−4) mm, pubérulent; sépales 4, imbriqués, ovales à oblongs, de (1,5–)1,7–2,1(−2,3) × (1,1–)1,6–1,9(−2,1) mm, obtus et légèrement cucullés au sommet, vert pâle avec une teinte rouge brun pâle, poilus sur les deux faces, à courts cils marginaux; étamines 4, en un verticille autour du disque, filet de (1,9–)2,2–3,3(−3,8) mm, anthère longue de 0,4–0,7 mm, glabre; disque plan à légèrement concave, de (0,6–)1,3–1,9 mm de diamètre, à bord subentier, quelque peu ondulé, légèrement saillant entre les filets, glabrescent, parfois avec une touffe centrale, sans pistillode. Inflorescence femelle comme la mâle, à fleur solitaire; bractées comme les mâles. Fleur femelle: pédicelle de 2,3–2,5 mm, grêle, pubérulent; sépales 4, de 3,1–3,4 × 3,1–3,2 mm, pubérulents à l'extérieur, poilus à l'intérieur, à cils courts marginaux; disque cupuliforme, de 3,3–3,5 mm de diamètre, pubérulent; ovaire globuleux, (1–)2-loculaire, pubérulent; style de 1,6–1,9 mm, à 2 branches libres, à stigmate en éventail étroit, de 0,3–0,4 × ±2,6 mm. Fruit de 8–15 mm de diamètre, vert brunâtre, sans sépales ni stigmates persistantes, à 2 graines; pédicelle de 5–8 mm.
+Tree up to ±40 m tall; trunk up to ±40 cm in diameter, straight, channelled, sometimes spiny; bark rather smooth, pale brown, with small whitish lenticels; cut surface smooth, yellowish, sometimes with strong acrid odour and faintly fruity; branchlets slightly furrowed when young, with short, whitish to brownish hairs, glabrescent; buds puberulent. Stipules caducous, narrowly triangular to narrowly elliptic-ovate, 2–3 mm long, glabrescent. Leaf: petiole (3.1–)4–5–(6.5) mm, puberulent, glabrescent; blade elliptic-ovate, (8–)8.5–12.5(−14.5) × (3.2–)4–5.5(−7.5) cm, subcoriaceous, oblique at base, acute and acuminate at apex, with subentire margin and obscurely crenate or serrulate toward apex, sometimes finely and sparsely ciliate near base, plane to slightly recurved, dark green above, greyish-white, dull and glabrous below; venation reticulate, prominent below, midvein slightly hairy above (toward base) and below, lower surface glabrescent, with minute hairs and if present very scattered, secondary veins 3 to 6, ascending, looping and slightly anastomosing well before margin. Male inflorescence in leaf axils or below leaves, with up to ±20 flowers; bracts elliptic to broadly suborbicular, (0.9–)1.3–1.5 mm long, puberulent; Male flower: pedicel slender, (2.3–)2.5–3.5(−4) mm, puberulent; sepals 4, imbricate, ovate to oblong, (1.5–)1.7–2.1(−2.3) × (1.1–)1.6–1.9(−2.1) mm, obtuse and slightly cucullate at apex, pale green with pale reddish-brown tint, hairy on both faces, with short marginal cilia; stamens 4, in a whorl around the disc, filament (1.9–)2.2–3.3(−3.8) mm, anther 0.4–0.7 mm long, glabrous; disc plane to slightly concave, (0.6–)1.3–1.9 mm in diameter, with subentire margin, somewhat undulate, slightly prominent between filaments, glabrescent, sometimes with a central tuft, without pistillode. Female inflorescence like the male, with solitary flower; bracts as in males. Female flower: pedicel 2.3–2.5 mm, slender, puberulent; sepals 4, 3.1–3.4 × 3.1–3.2 mm, puberulent outside, hairy inside, with short marginal cilia; disc cupuliform, 3.3–3.5 mm in diameter, puberulent; ovary globose, (1–)2-locular, puberulent; style 1.6–1.9 mm, with 2 free branches, with stigma narrowly fan-shaped, 0.3–0.4 × ±2.6 mm. Fruit 8–15 mm in diameter, brownish-green, without persistent sepals or stigmas, 2-seeded; pedicel 5–8 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Republic of Congo, Democratic Republic of Congo and Central African Republic; in Gabon: Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem
 
-Cameroun, Gabon, République du Congo, République démocratique du Congo et République Centrafricaine ; au Gabon : Estuaire, Ngounié, Nyanga, Ogooué-Ivindo, Ogooué-Maritime et Woleu-Ntem
-
-Habitat : forêts sempervirentes et semi-décidues, parfois en forêt ripicole ; au Gabon à 350–800 m d'altitude, ailleurs jusqu'à 1100 m.
+Habitat: evergreen and semi-deciduous forests, sometimes in riparian forest; in Gabon at 350–800 m altitude, elsewhere up to 1100 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. umbricola est une espèce rare et dispersée à travers le Gabon. Elle a des fleurs mâles axillaires à quatre sépales et quatre étamines qui entourent un disque plan ou quelque peu concave, comme le font D. celastrinea et D. klainei
+D. umbricola is a rare species dispersed across Gabon. It has axillary male flowers with four sepals and four stamens surrounding a plane or somewhat concave disc, as do D. celastrinea and D. klainei
 
 ## Bibliography
 

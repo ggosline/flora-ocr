@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : 147 (1916) ; KEAY, FWTA, ed. 2, 1 : 607 (1958).
 
 - F. camptoneuroides Hutch., Kew Bull.: 326 (1915); KEAY, l.c.: 607 (1958). TYPE: Mildbreaed 6411, Fernando Po, Pico Santa Isabel (holo-, K ; iso-, B).
 
-Arbustes épiphytes (et/ou grimpants) ou arbres jusqu'à 5 (-8) m. Rameaux feuillés épais de 2-4 mm, glabres ou très courtement pubérulents, brun pâle à brun sombre sur le sec, souvent creux. Feuilles disposées en spirales. Limbe oblong à elliptique ou à lancéolé ou à subobvé, plus large dans ou au-dessus du milieu, long de 6-21 cm, large de 2,5-9,5 cm (sub) coriace, sommet (clairement à brutalement) acuminé, base aiguë à obtuse (à arrondie) ; bord entier, les deux faces glabres ; la nervure médiane souvent faiblement concave et les autres nervures faiblement saillantes à planes dessus, nervures ± saillantes dessous ; 4-6 (-7) paires de nervures latérales, inclus (1) 2 paires basales, des-
+Epiphytic shrubs (and/or climbing) or trees up to 5 (-8) m. Leafy branchlets 2-4 mm thick, glabrous or very shortly puberulent, pale brown to dark brown when dry, often hollow. Leaves arranged in spirals. Blade oblong to elliptic or lanceolate or subobovate, broader in or above the middle, 6-21 cm long, 2.5-9.5 cm broad, (sub)coriaceous, apex (clearly to abruptly) acuminate, base acute to obtuse (to rounded); margin entire, both faces glabrous; midvein often weakly concave and other veins weakly prominent to plane above, veins ± prominent below; 4-6 (-7) pairs of lateral veins, including (1) 2 basal pairs, of which the more important ones arise from the midvein at different points, most often above the base of the blade, lateral veins anastomosing in loops 3-6 mm from the margin of the blade; glandular patch often ± visible. Petiole 0.5-2 (-3.5) cm long, 1.5-2 mm thick, glabrous or puberulent, periderm detaching easily. Stipules basally connate, 0.5-1.5 cm long, glabrous or puberulent, subpersistent.
 
-1. Ce taxon sera réduit à une sous-espèce de F. ardisioides WARB. Il n'est pas certain que F. camptoneuroides soit un synonyme de la sous-espèce camptoneura.
+Figs in pairs, solitary or occasionally 3 together in the leaf axils, sessile; basal bracts 2 (-3), ovate to semi-circular, 1-2 mm long, sparsely very shortly puberulent; receptacle globose (or obovoid), 0.5-1.5 (-2) cm in diameter fresh to 0.5-1 (-1.5) cm dry, sparsely very shortly puberulent, smooth or ± warty or verruculate, yellow to orange with brown or reddish spots at maturity, or entirely orange-brown, wall 1-2 mm thick when dry, ostiole weakly prominent, bilabiate.
 
-quelles les plus importantes se détachent de la nervure médiane à différents endroits, le plus souvent au-dessus de la base du limbe, nervures latérales s'anastomosant en boucle à 3-6 mm du bord du limbe ; tache glandulaire souvent ± visible. Pétiole long de 0,5-2 (-3,5) cm, épais de 1,5-2 mm, glabre ou pubérulent, périderme se détachant facilement. Stipules basalement souduées, longues de 0,5-1,5 cm, glabres ou pubérulentes, subpersistantes.
+Pistillate flowers with (2-) 3-4 tepals ± unequal, 1-2 mm long, ± acute, free, stigmas sometimes bifid; seed flowers sessile, style 0.7-2 mm long; gall flowers subsessile or pedicellate up to 2 mm; style 0.5-1 mm long. Fruits ellipsoid to oblong or subglobose or sometimes globose depressed, 1-1.5 mm long; gall fruits obovoid to subglobose, sometimes shortly stipitate, 1.5-2.5 mm long; fruits distinctly bicoloured. Staminate flowers very few, subsessile or pedicellate up to 0.5 mm, perianth with 2-3 tepals ± unequal, 0.7-1 mm long, acute to obtuse, free, anther subsessile, approximately 1 mm long, not apiculate. Interfloral bracts approximately 1.5 mm long. – Pl.67, p. 225.
 
-Figues par paires, solitaires ou occasionnellement 3 ensemble dans les aisselles foliaires, sessiles ; bractées basales 2 (-3), ovées à semi-circulaires, longues de 1-2 mm, éparsement très courtement pubérulentes ; réceptacle globuleux (ou obovoïde), d'un diamètre de 0,5-1,5 (-2) cm sur le frais de 0,5-1 (-1,5) cm sur le sec, éparsement, très courtement pubérulent, lisse ou ± verruequeux ou verruculeux, jaune à orange avec des taches brunes ou rougeâtres à maturité, ou entièrement orange brun, paroi épaisse de 1-2 mm sur le sec, ostiole faiblement saillant, bilabié.
-
-Fleurs pistillées avec (2-) 3-4 têpales ± inégaux, longs de 1-2 mm, ± aigu, libres, stigmates parfois bifides ; fleurs à graines sessiles, style long de 0,7-2 mm ; fleurs à galles subsessiles ou pédicellées jusqu'à 2 mm ; style long de 0,5-1 mm. Fruits ellipsoïdes à oblongoïdes ou à subglobuleux ou parfois globuleux déprimés, longs de 1-1,5 mm ; fruits à galles obvoïdes à subglobuleux, parfois courtement stipités, longs de 1,5-2,5 mm ; fruits distinctement bicolores. Fleurs staminées très peu nombreuses, subsessiles ou pédicellées jusqu'à 0,5 mm, périanthe avec 2-3 tépales ± inégaux, longs de 0,7-1 mm, aigu à obtus, libres, anthère subsessile, longue de 1 mm environ, non apiculée. Bractées interflorales longues de 1,5 mm environ. – P1.67, p. 225.
-
-Pollinisateur : Agaon megalopon Wiebes (Nigeria).
+Pollinator: Agaon megalopon Wiebes (Nigeria).
 
 ## Type
 
@@ -41,11 +35,9 @@ Deistel s.n., Cameroun, Buéa (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The figs of F. camptoneura may be similar to those of F. conraui and F. pringsheimiana, but they are relatively small and sometimes more than 2 together in the leaf axils. F. camptoneura can be distinguished from F. pringsheimiana and F. conraui by the number of lateral veins and often also by the shape of the blade; but recognizing the material of F. camptoneura from that of F. pringsheimiana is often difficult.
 
-Les figues de F. camptoneura peuvent être semblables à celles de F. conraui et F. pringsheimiana, mais elles sont relativement petites et parfois plus de 2 ensemble dans les aisselles foliaires. F. camptoneura peut se distinguer de F. pringsheimiana et F. conraui par le nombre de nervures latérales et souvent aussi par la forme du limbe ; mais reconnaître le matériel de F. camptoneura de celui de F. pringsheimiana est souvent difficile.
-
-L'espèce est connue du Nigeria, du Cameroun, du Gabon, et de Fernando Po. Dans les zones de forêt dense humide sempervirente, le plus souvent dans les forêts riveraines (périodiquement inondées ou marécageuses), jusqu'à une altitude de 1 200 m.
+The species is known from Nigeria, Cameroon, Gabon, and Fernando Po. In zones of dense humid evergreen forest, most often in riverine forests (periodically flooded or swampy), up to an altitude of 1,200 m.
 
 ## Specimens examined
 

@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — D. stenobotrys GILG, Bot. Jahrb. 24 : 297 (1897).
 
-Arbuste de 3-4 m à feuilles (4-)5-(-7)-juguées; folioles oblonges-lancéolées, chartacées, les supérieures à base rétrécie en coin, à extrémité acuminée (2 cm) mesurant (7)-12-18 × (2)-4-5 cm, avec 8-10 paires de nervures à arcs d'anastomose s'approchant à 2-3 mm des marges; pétiole 8-28 cm; rachis foliaire 20-30 cm; pétioule 5 mm.
+Shrub 3-4 m tall with (4-)5-(-7)-jugate leaves; leaflets oblong-lanceolate, chartaceous, the upper ones with base narrowed into a wedge, with acuminate apex (2 cm) measuring (7)-12-18 × (2)-4-5 cm, with 8-10 pairs of veins with anastomosing arcs approaching 2-3 mm from the margins; petiole 8-28 cm; leaf rachis 20-30 cm; petiolule 5 mm.
 
-Inflorescences axillaires de 3-20 cm, simples ou ramifiées. Boutons de 2-3 mm. PL. 14, 1-7, p. 71.
+Axillary inflorescences 3-20 cm, simple or branched. Buds 2-3 mm. PL. 14, 1-7, p. 71.
 
 ## Type
 

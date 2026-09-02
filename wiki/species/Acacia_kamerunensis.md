@@ -57,7 +57,7 @@ Hallé N. & Le Thomas 507, Bélinga (fl., août). Leeuwenberg & Persoon 13504, 4
 
 ![Acacia kamerunensis](../sources/Leguminosae_vol31_paddle/figures/fig_045_p0128.png)
 
-*PL. 33. – Acacia kamerunensis Gandoger.: 1, aspect général × 1; 2, pétiole, détail × 2; 3, axe penne, détail × 9; 4, foliole, face inférieure × 8; 5, bouton floral × 10; 6, fleur × 10; 7, fleur, coupe longitudine × 18; 8, pistil × 15; 9, fruit × 2/3; 10, exocarpe, détail × 12; 11, graine × 2.5. (1-8, Hallé N. & Le Thomas 507; 9-11, Letouzey 4264 (Cameroun)). – A. pentagona (Schumach.) Hook.f.: 12, aspect général × 1; 13, pétiole, détail × 2; 5, 14, foliole, face inférieure × 8; 15, fleur × 10; 16, anthère × 30; 17, pistil × 15; 18, fruit × 2/3; 19, graine × 2.5. (12, 13, 15-17, Aubréville 2260 (Cameroun); 14, Lebrun 1249 (Zaïre); 18, 19, Toussaint 300 (Zaïre)).*
+*PL. 33. – Acacia kamerunensis Gandoger.: 1, general appearance × 1; 2, petiole, detail × 2; 3, pinnate axis, detail × 9; 4, leaflet, lower surface × 8; 5, floral bud × 10; 6, flower × 10; 7, flower, longitudinal section × 18; 8, pistil × 15; 9, fruit × 2/3; 10, exocarp, detail × 12; 11, seed × 2.5. (1-8, Hallé N. & Le Thomas 507; 9-11, Letouzey 4264 (Cameroon)). – A. pentagona (Schumach.) Hook.f.: 12, general appearance × 1; 13, petiole, detail × 2; 5, 14, leaflet, lower surface × 8; 15, flower × 10; 16, anther × 30; 17, pistil × 15; 18, fruit × 2/3; 19, seed × 2.5. (12, 13, 15-17, Aubréville 2260 (Cameroon); 14, Lebrun 1249 (Zaire); 18, 19, Toussaint 300 (Zaire)).*
 
 ## Notes
 

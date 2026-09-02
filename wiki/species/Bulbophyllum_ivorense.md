@@ -17,33 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum flavidum Lindl. var. elongatum De Wild., Not. Pl. Ut. et Int. Fl. Congo 1 : 120 (1903).
 
 – Bulbophyllum elongatum (De Wild.) De Wild., Pl. Bequaert. 1 : 109 (1921).
 
-Pseudobulbes 1-2,3 × 0,6-1,8 cm, orbiculaires à ovoïdes, subaplatis, 1-foliés. Feuille courtement pétiolée, 3,5-14 × 0,7-1,8 cm, largement lancéolée à étroitement linéaire-lancéolée, sommet arrondi. Inflorescence 7-28 cm, 15-80-flore, dense, rachis glabre. Fleurs 15-80, petites, blanches, vertes ou vert-jaunâtre. Sépales aigus, minces, face adaxiale finement papilleuse vers le sommet ; sépale dorsal étroitement ové
-
-PL. 97. – Bulbophyllum intertextum Lindl.: A, B, vue générale ; C, fleur ; D, pièces florales ; E, labelle ; F, labelle et gynostème en position naturelle, vue latérale ; G, gynostème ; H, anthère ; I, pollinies (A-I, ex VERMEULEN, 1987).
-
-oblong à ové-lancéolé ; sépales latéraux falciformes, oblongs-ovés à lancéolés-ovés. Pétales sombres, rectangulares, tronqués. Labelle crémeux, épais, oblong à étroitement elliptique-lancéolé, obtus, récurvé particulièrement au sommet, finement papilleux. – Pl. 98, p. 197.
+Pseudobulbs 1–2.3 × 0.6–1.8 cm, orbicular to ovoid, somewhat flattened, 1-leaved. Leaf shortly petiolate, 3.5–14 × 0.7–1.8 cm, broadly lanceolate to narrowly linear-lanceolate, apex rounded. Inflorescence 7–28 cm, 15–80-flowered, dense, rachis glabrous. Flowers 15–80, small, white, green or greenish-yellow. Sepals acute, thin, adaxial face finely papillose towards the apex; dorsal sepal narrowly ovate-oblong to ovate-lanceolate; lateral sepals falcate, oblong-ovate to lanceolate-ovate. Petals dark, rectangular, truncate. Labellum creamy, thick, oblong to narrowly elliptic-lanceolate, obtuse, recurved particularly at the apex, finely papillose. – Pl. 98, p. 197.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Côte d'Ivoire, Nigeria, Cameroun, Gabon, Congo (Kinshasa)
+Liberia, Côte d'Ivoire, Nigeria, Cameroon, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–700 m. Epiphytic on branches; observed at 30 m above ground; lowland to montane forest
 
-alt. 0-700 m. Épiphyte sur branche ; observé à 30 m au-dessus du sol ; forêt planitaire à montagnarde
+MATERIAL EXAMINED (Map 37):
 
-MATÉRIEL ÉTUDIÉ (Carte 37) :
-
-de Wilde, Arends & de Bruijn 9094, km 53 de la piste d'exploitation forestière de Doussala à Bongo, 2°13'S, 10°12'E (fl., Déc.), BR!, P!, WAG!, LBV.
+de Wilde, Arends & de Bruijn 9094, km 53 of the forestry track from Doussala to Bongo, 2°13'S, 10°12'E (fl., Dec.), BR!, P!, WAG!, LBV.
 
 ## Figures
 

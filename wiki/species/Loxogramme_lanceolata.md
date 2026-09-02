@@ -25,15 +25,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pr., Tent.: 215, t. 9, f. 8 (1836). — Tard., Mém. IFAN 28 : 213 (1953).
 
 — Alston, FWTA 28:48 (1959).
 
 — Tard., Mém. IFAN 28 : 213, t. 40, f. 8 (1953).
 
-Rhizome rampant, à frondes espacées, à écailles deltoïdes, formées de cellules larges, à parois épaisses, brun foncé, lumière jaune très pâle. Frondes lancéolées, longues de 10-15 cm sur 1 à 2,5 de large, progressivement rétrécies vers la base jusqu'au pétiole long de 2-3 cm, à extrémité progressivement et longuement effilée, à bords entiers. Texture coriace. Costa peu apparent à la face inférieure, proéminent à la face supérieure, plus pâle que le limbe. Sores obliques, courts, allant presque du costa à la marge. Spores ovales, transparentes, lisses.
+Rhizome creeping, with fronds spaced apart, with deltoid scales, composed of large cells with thick walls, dark brown, pale yellow light. Fronds lanceolate, 10–15 cm long by 1 to 2.5 cm wide, progressively narrowed toward the base to the petiole 2–3 cm long, with apex progressively and elongately tapered, with entire margins. Texture coriaceous. Costa inconspicuous on the lower surface, prominent on the upper surface, paler than the lamina. Sori oblique, short, extending almost from the costa to the margin. Spores ovate, transparent, smooth.
 
 ## Type
 

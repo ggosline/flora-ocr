@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Adansonia, ser. 2, 20 (4): 419 (1981); Fl. Cam. 24: 43 (1983).
 
-Adansonia, sér. 2, 20 (4) : 419 (1981); Fl. Cam. 24 : 43 (1983).
+— Dissotis rupicola GILG EX ENGL., Pflanzenw. Afr. 3 (2): 748 (1921).
 
-— Dissotis rupicola GILG EX ENGL., Pflanzenw. Afr. 3 (2) : 748 (1921).
+Perennial herb, ± succulent; branches slender, 1–2 mm in diameter, often reddish, spreading and rooting over approximately 0.40 m, then erect, 4-angled, finely winged with some capitate hairs, or glabrescent, except for a nodal bristle. Leaves sessile to subsessile, 0.4 × 1.5 cm, cuneate or attenuated into a short petiole at the base, apex obtuse; glabrous on both faces or with a few very scattered bristles beneath; 3 nerves, visible only beneath, the lateral ones evanescent; margins loosely serrulate-ciliate.
 
-Herbe vivace, ± crassulescente; rameaux grêles, 1-2 mm de diamètre, souvent rougeâtres, étalés radicants sur ± 0,40 m, puis dressés, 4-angulaires, finement ailés avec quelques poils capités, ou glabrescents, sauf une soie nodale. Feuilles sessiles à subsessiles, 0,4 × 1,5 cm, en coin ou atténuées en pétiole court à la base, sommet obtus; glabres sur les 2 faces ou quelques soies très éparses dessous; 3 nervures, seulement visibles dessous, les latérales évanescentes; marges lâchement serrulées-ciliées.
+Cymes 3–4-flowered, often reduced to a single flower, subtended by the last pair of bracteoid leaves. Flowers normally 4-merous; hypanthium campanulate, gradually merging into the pedicel of 1–1.5 mm, 3–4 × 5–6 mm, glabrous; sepals triangular, 2 × 5 mm, glabrescent or with some capitate hairs on the back; intersepalar bristle present or absent. Petals pink, 1 cm. External stamens with anther 6.5 mm; podoconnective 3.5 mm, channelled on the anterior face, appendage simple, 2 mm long; filament 5 mm; internal stamens with anther 4.5 mm; podoconnective 1.2 mm, 2-lobulate; filament 6 mm. Ovary glabrous; style 10 mm; placentas sessile.
 
-Cymes 3-4-flores, souvent réduites à une seule, sous-tendues par la dernière paire de feuilles bractoïdes. Fleurs normalement 4-mères; hypanthe campanulé, progressivement raccordé sur le pédicelle de 1-1,5 mm, 3-4 × 5-6 mm, glabre; sépales triangulaires, 2 × 5 mm, glabrescents ou quelques poils capités sur le dos; soie intersépalaire présente ou non. Pétales roses de 1 cm. Étamines externes à anthère de 6,5 mm; pédoconnectif 3,5 mm, canaliculé sur la face antérieure, appendice simple, long de 2 mm; filet 5 mm; étamines internes à anthère de 4,5 mm; pédoconnectif 1,2 mm, 2-lobulé; filet 6 mm. Ovaire glabre; style 10 mm; placentas sessiles.
-
-Fruit ovoïde, sépales persistants, paroi fragile se rompant facilement à maturité et se détachant entièrement de l'axe et des placentas. Graines relativement grosses, globuleuses, 2 mm de diamètre, nettement tuberculées-verruqueuses. — Pl. 9, p. 29.
+Fruit ovoid, sepals persistent, wall fragile breaking easily at maturity and detaching entirely from the axis and placentas. Seeds relatively large, globose, 2 mm in diameter, distinctly tuberculate-verrucose. — Pl. 9, p. 29.
 
 ## Type
 
@@ -35,9 +33,7 @@ Dinklage 2139, Libéria (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce à distribution sporadique, de la Sierra Leone au Gabon; généralement sur les pointements rocheux intraforestiers, ou sur carapace latéritique dans le cas du Gabon.
+Species with sporadic distribution, from Sierra Leone to Gabon; generally on intraforest rocky outcrops, or on laterite crust in the case of Gabon.
 
 ## Specimens examined
 

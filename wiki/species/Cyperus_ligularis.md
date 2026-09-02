@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, in dense tufts or with solitary stems, with a short erect rhizome; stems 50–130 cm × 2–8 mm, rounded to weakly triangular, glabrous but densely papillose, lower part of stems thickened by numerous tight sheaths. Leaf: sheath reddish at base; blade 30–100(–150) cm × 5–15 mm, rigid, slightly blue-green, plane or V-shaped, papillose, with prominent transverse ribs, very scabrous on the margin and central nerve (with sharp edges).
 
-Herbe vivace, en touffes épaisses ou avec des tiges solitaires , avec un court rhizome dressé ; tiges de 50‒130 cm × 2‒8 mm, arrondies à faiblement triangulaires, glabres, mais densément papilleuses, partie inférieure des tiges épaissie par les nombreuses gaines serrées. Feuille : gaine rougeâtre à la base ; limbe de 30‒100(‒150) cm × 5‒15 mm , rigide, légèrement vert bleuté, plan ou en forme de V, papilleux, avec des côtes transversales proéminentes, très scabre sur la marge et la nervure centrale (avec les arêtes tranchantes).
-
-Fruit avec deux filets. Dessin original par Richard W. Haines ©. Inflorescence en anthèle ouverte formée d’un ou plusieurs épis sessiles ou subsessiles entourés par 4‒12 rayons primaires portant 3‒8 épis ou des groupes d’épis ; rayons primaires densément papilleux, longs de 1‒15 cm ; bractées involucrales 5‒10, foliacées, étalées, la plus grande de 10‒130 cm, planes ou en forme de V, dépassant l’inflorescence ; épis ovoïdes ou oblongs–cylindriques en un fascicule pyramidal, rarement solitaires, formés de 20‒80 épillets. Épillet oblong–ellipsoïde, de 3‒8 × 1‒2 mm, cylindrique ou légèrement comprimé, brun, rougeâtre, à 3‒7 fleurs, se détachant d’une pièce du rachis à maturité ; glumes ovales, longues de 2‒3,3 mm , à 9‒11 nervures, pâles à brunes avec des stries violettes, une nervure médiane verdâtre et un sommet aigu à mucroné. Fleur à 3 étamines ; style à 3 branches longues. Akène ellipsoïde à ovoïde, de 1,3‒1,7 × 0,6‒0,8 mm , brun, à surface finement papilleuse.
+Fruit with two filaments. Original drawing by Richard W. Haines ©. Inflorescence in an open anthela formed of one or several sessile or subsessile spikes surrounded by 4–12 primary rays bearing 3–8 spikes or groups of spikes; primary rays densely papillose, 1–15 cm long; involucral bracts 5–10, foliaceous, spreading, the largest 10–130 cm, plane or V-shaped, exceeding the inflorescence; spikes ovoid or oblong–cylindrical in a pyramidal fascicle, rarely solitary, formed of 20–80 spikelets. Spikelet oblong–ellipsoid, 3–8 × 1–2 mm, cylindrical or slightly compressed, brown, reddish, with 3–7 flowers, detaching as one piece from the rachis at maturity; glumes ovate, 2–3.3 mm long, with 9–11 nerves, pale to brown with violet striations, a greenish median nerve and an acute to mucronate apex. Flower with 3 stamens; style with 3 long branches. Achene ellipsoid to ovoid, 1.3–1.7 × 0.6–0.8 mm, brown, with finely papillose surface.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue le long des côtes atlantiques de l’Amérique et de l’Afrique tropicales ; localement commune au Gabon le long des côtes, trouvée dans l’Estuaire et l’Ogooué-Maritime
+widely distributed along the Atlantic coasts of tropical America and Africa; locally common in Gabon along the coasts, found in the Estuary and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les marais près des plages et en marge des cours d’eau et des mangroves, près du niveau de la mer
+in marshes near beaches and on the margins of watercourses and mangroves, near sea level
 
 ## Vernacular names
 
@@ -41,11 +35,9 @@ swamp flat sedge (angl.). Usage : parfois cultivée comme plante ornementale
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Group of spikelets. – E, F. Spikelets. – G, H. Glumes. – I. Flower with young fruit, style and three filaments. – J. Fruit. Original drawing by E.M. Stones ©, reproduced with permission from Nelmes & Baldwin (1952).
 
-Groupe d’épillets. – E, F. Épillets. – G, H. Glumes. – I. Fleur avec jeune fruit, style et trois filets. – J. Fruit. Dessin original par E.M. Stones ©, reproduit avec permission à partir de Nelmes & Baldwin (1952).
-
-Richard W. Haines ©. original par Richard W. Haines ©. Note taxonomique : se reconnaît à sa grande taille, son habitat côtier, ses épillets se désarticulant à la base et ses tiges, pédoncules et feuilles papilleuses ; pas d’espèces ressemblantes en Afrique. B : Hooper & Napper (1972), Simpson & Inglis (2001). ibliographie
+Richard W. Haines ©. Original drawing by Richard W. Haines ©. Taxonomic note: recognized by its large size, coastal habitat, spikelets disarticulating at the base and its stems, peduncles and papillose leaves; no similar species in Africa. B: Hooper & Napper (1972), Simpson & Inglis (2001). Bibliography
 
 ## Notes
 

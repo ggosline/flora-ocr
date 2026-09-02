@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ? cf. Cola scandens Pierre msc.
 
-, réf. orig. — Schott et Endl. Meletem. Bot. : 33 (1832). — R. Br., Pl. Jav. Rar. : 236 (1844). — Mast., F.T.A., I : 223 (1868). — F.W.T.A. 2° ed. I : 238 (1958) p. p.
+, orig. ref. — Schott et Endl. Meletem. Bot. : 33 (1832). — R. Br., Pl. Jav. Rar. : 236 (1844). — Mast., F.T.A., I : 223 (1868). — F.W.T.A. 2nd ed. I : 238 (1958) p. p.
 
-Nous écartons la synonymie proposée par Pellegrin (Sterc.
+We reject the synonymy proposed by Pellegrin (Sterc.
 
 ## Specimens examined
 

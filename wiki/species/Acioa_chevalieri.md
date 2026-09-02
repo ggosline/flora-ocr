@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— Acioa icondere auct. non BAILL. : A. Chev., Veg. Ut. Afr. Tr. Fr. 9, For. Bois Gabon : 203, tab. 18 (1917).
 
-— Acioa icondere auct. non BaILL. : A. Chev., Veg. Ut. Afr. Tr. Fr. 9, For. Bois Gabon : 203, tab. 18 (1917).
+Shrub of a few meters in height sometimes, more often a tree of medium size, reaching 30–35 m in total height of which 20 m under branches and 80–90 cm in diameter above very strong buttresses. Bark dark grey, washed with reddish-brown, very rugose, excessively thin (1–2 mm), peeling off in small scales. Sapwood yellowish-red, not very thick; heartwood dark red, with interlaced fibres, hard and very dense. Young branchlets sparsely lenticellate, covered, as are the stipules, petioles and lower surface of the blades with a blonde-pink then blonde-greyish arachnoid tomentum persisting but in the long term caducous, in patches, beneath glabrescent blades. Stipules lanceolate, 2 × 8 mm, sometimes slightly falcate, midvein alone prominent. Petiole 3–8 mm, tomentellous then glabrescent. Blade elliptic, 3–8.5 × 6–18 cm, sometimes elliptic-oblong, sometimes slightly ovate; base rounded to subcordate, apex rounded with small acute acumen; midvein with trace of arachnoid tomentum above, tomentellous then glabrescent below; lateral veins 6–8(–10) pairs, generally somewhat arched and ascending towards the apex, first with arachnoid tomentum then glabrescent below; blade rarely somewhat scabrous above, with arachnoid tomentum below as indicated above; 2 large circular glands at the base of the blade below near the midvein and sometimes a few glands higher up; 4–5 circular glands beneath the apex of the acumen and sometimes a few small glands lower down beneath the apex of the blade.
 
-Arbuste de quelques mètres de hauteur parfois, le plus souvent arbre de taille moyenne, atteignant 30-35 m de hauteur totale dont 20 m sous branches et 80-90 cm de diamètre au-dessus de très forts accotements. Écorce gris foncé, lavée de roux, très rugueuse, excessivement mince (1-2 mm), s'enlevant par petites écailles. Aubier jaune rougeâtre, peu épais; bois de cœur rouge foncé, à fibres entremêlées, dur et très dense. Jeunes rameaux éparsement lenticellés, couverts, ainsi que les stipules, les pétioles et le dessous des limbes d'un tomentum aranéux blond rosé puis blond grisâtre persistant, mais à la longue caduc, par taches, sous les limbes glabrescents. Stipules lancéolées, 2 × 8 mm, parfois un peu falciformes, nervure médiane seule nette. Pétiole 3-8 mm, tomentelleux puis glabrescent. Limbe elliptique, 3-8,5 × 6-18 cm, parfois elliptique-oblong, parfois légèrement ovale; base arrondie à subcordée, sommet arrondi avec petit acumen aigu; nervure médiane avec trace du tomentum aranéux dessus, tomentelleuse puis glabrescente dessous; nervures latérales 6-8(-10) paires, en général un peu arquées et ascendantes vers l'extrémité, d'abord avec tomentum aranéux puis glabrescentes dessous; limbe rarement un peu scabre dessus, avec tomentum aranéux dessous comme indiqué ci-dessus; 2 grosses glandes circulaires à la base du limbe dessous près de la nervure médiane et parfois quelques glandes plus haut; 4-5 glandes circulaires sous l'extrémité de l'acumen et parfois quelques petites glandes plus bas sous le sommet du limbe.
+Inflorescences cymose of ± dichotomous type, terminal and axillary subterninal, reaching 8–12 cm in height, ± hemispherical with peduncle of 1–2 cm and lower branches of 8 cm. Peduncle, axes, bracts, bracteoles and receptacles tomentose. Bracts on the peduncle slightly tricuspid; bracts on the primary axis broadly ovate pointed, 4–5 mm, sparsely pubescent within; axes 1–2–3 times branched with alternate bracts, of type progressively intermediate between primary bracts and bracteoles; portion of the pedicels below the articulation ± 10 mm (20 mm for flowers at the apex of the inflorescence) with bracteoles alternate broadly ovate, about 3 mm, sparsely pubescent within, provided on their margin with 7–9 stipitate glands reaching about 0.5 mm in height; terminal articulate portion of the pedicel shorter, equal to or longer than the upper bracteole. Pedicel of the flower articulate (2)–4–6 mm. Receptacle (6)–8(–12) mm, tubular or narrowly infundibuliform; sepals 4–5 mm, tomentellous without, provided, on the margins exposed to the outside in the bud, with 7–9 stipitate glands reaching about 0.5 mm in height, the inner border of the sepal then glabrescent; petals obovate with cuneate or rounded base, 3–4 mm in height, yellow (?); androecium 30 mm, 20–25 filaments.
 
-Inflorescences cymeuses de type ± dichotomique, terminales et axillaires subterminales, atteignant 8-12 cm de hauteur, ± hémisphériques avec pédoncule de 1-2 cm et ramifications inférieures de 8 cm. Pédoncule, axes, bractées, bractéoles et réceptacles tomentaux. Bractées sur le pédoncule peu tricuspides; bractées sur l'axe primaire largement ovales pointues, 4-5 mm, éparsemment pubescentes intérieurement; axes 1-2-3 fois ramifiés avec bractées alternes, de type progressivement intermédiaire entre bractées primaires et bractéoles; portion des pédicelles sous l'articulation ± 10 mm (20 mm pour fleurs au sommet de l'inflorescence) avec bractéoles alternes largement ovales, environ 3 mm, éparsemment pubescentes intérieurement, munies sur leur marge de 7-9 glandes stipitées atteignant environ 0,5 mm de hauteur; portion terminale articulée du pédicelle plus courte, égale ou plus longue que la bractéole supérieure. Pédicelle de la fleur désarticulée (2)-4-6 mm. Réceptacle (6)-8(-12) mm, tubuleux ou étroitement infundibuliforme; sépales 4-5 mm, tomentelleux extérieurement, munis, sur les marges exposées à l'extérieur dans le bouton, de 7-9 glandes stipitées atteignant environ 0,5 mm de hauteur, la bordure interne du sépale étant alors glabrescente; pétales obovales avec base cunéiforme ou arrondie, 3-4 mm de hauteur, jaunes (?); androcée 30 mm, 20-25 filets.
-
-Infrutescences formées le plus souvent du pédoncule et de l'axe primaire épaissi garni de ses bractées réfléchies, celui-ci portant quelques rameaux
-
-± en zigzag atteignant 10 cm de longueur; pédoncule fructifère proprement dit 10-15 mm. Drupe très brièvement stipitée, subovoïde-conique comprimée avec sommet émoussé,  $ 20 \times 25 \times 40 $ mm (in sicco), à surface irrégulièrement mais densément colliculée, de teinte brun jaunâtre doré, tomentreuse. — PL. 4, p. 21.
+Infructescences formed most often of the peduncle and primary axis thickened furnished with its reflexed bracts, the latter bearing a few branches ± zigzag reaching 10 cm in length; properly speaking fertile peduncle 10–15 mm. Drupe very briefly stipitate, subovoidal-conical compressed with blunt apex, 20 × 25 × 40 mm (in sicco), with irregularly but densely colliculate surface, of golden yellowish-brown hue, tomentose. — PL. 4, p. 21.
 
 ## Type
 
@@ -35,15 +31,13 @@ Dybowsky 118, Fleury in Chevalier 26665, Gabon, P!
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+Confusions, at first glance, between Acioa chevalieri De Wild. and A. pierrei De Wild. seem possible; the second species presents ovate stipules, a blade glabrous below, bracteoles and sepals without marginal stipitate glands.
 
-Des confusions, au premier abord, entre Acioa chevalieri De Wild. et A. pierrei De Wild. semblent possibles; la seconde espèce présente des stipules ovales, un limbe glabre dessous, des bractéoles et des sépales sans glandes stipitées marginales.
+PHYTOGEOGRAPHIC NOTES:
 
-NOTES PHYTOGÉOGRAPHIQUES :
-
-Acioa chevalieri De Wild. est essentiellement ripicole et connue seulement sur les rives des lacs du Bas-Ogooué au Gabon.
+Acioa chevalieri De Wild. is essentially ripicole and known only from the shores of the lakes of Lower Ogooué in Gabon.
 
 ## Specimens examined
 

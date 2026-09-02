@@ -16,9 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bonamiae gabonensi Breteler et B. nzabii Breteler similis, a quibus foliis parvis tomentulosis basi cordatis, corollae tubo glabro et staminibus glabris differt.
+Bonamiae gabonensi Breteler and B. nzabii Breteler similar, from which it differs in small tomentose leaves cordate at the base, glabrous corolla tube and glabrous stamens.
 
 ## Type
 
@@ -26,21 +24,17 @@ J.J. Wieringa, J.P. Hedin, J.-M. Moussavou & F.I. van Nek 3170 (holo- : WAG; iso
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue d’une seule récolte de la Ngounié
+endemic to Gabon, known from a single collection from the Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt dense humide ; à 780 m d’altitude
+dense humid forest; at 780 m altitude
 
 Center (©).
 
-Fruit déhiscent (× 2). – 7. Fruit ouvert montrant deux placentas cornus (× 2). (1–5 : Breteler et al. 7799 ; 6, 7 : Toussaint 840 ). Dessin par Wil Wessel, Naturalis Biodiversity Center (©).
+Dehiscent fruit (× 2). – 7. Open fruit showing two horned placentas (× 2). (1–5: Breteler et al. 7799; 6, 7: Toussaint 840). Drawing by Wil Wessel, Naturalis Biodiversity Center (©).
 
-Note taxonomique : Les mesures florales et caractères du pistil ne sont pas donnés, parce que les caractères mentionnés sont obtenus par dissection des boutons floraux. B : Breteler (1992). ibliographie
+Taxonomic note: Floral measurements and character of the pistil are not given, because the characters mentioned were obtained by dissection of floral buds. B: Breteler (1992). Bibliography
 
 ## Notes
 

@@ -16,13 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — R. Fouilloy et N. Hallé, Adansonia, t. 3 : 243 (1963).
 
-Arbre (?) jeunes rameaux bruns, puis gris-jaunâtre; bourgeons pubérulents, aigus, couleur ocre. Pétiole 8-12 mm; limbe
-
-coriace, long de 15-30 cm, large de 6-12 cm. Inflorescences assez lâches de 10-17 cm pubérulentes; bractées caduques.
+Tree (?) young branchlets brown, then grayish-yellowish; buds puberulent, acute, ochreous color. Petiole 8–12 mm; blade coriaceous, 15–30 cm long, 6–12 cm wide. Inflorescences rather lax, 10–17 cm, puberulent; bracts caducous.
 
 ## Type
 

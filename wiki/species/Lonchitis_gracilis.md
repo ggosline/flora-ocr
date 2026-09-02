@@ -20,9 +20,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Rhizome ascendant. Frondes atteignant 1,50 m. Limbe bipenné-tripinnatifide, à pinnules profondément pinnatiséquées, à lobes régulièrement sinués. Pinnules longues de 10 cm sur 2,5 cm, à pétiolule ailé. Texture membraneuse. Nervures anastomosantes, couvertes de poils sur les deux faces du limbe. Sores courts, semi-lunaires. Paraphyses à cellule apicale recourbée.
+Ascending rhizome. Fronds reaching 1.50 m. Lamina bipinnate-tripinnatifid, with pinnules deeply pinnatisect, with regularly sinuate lobes. Pinnules 10 cm long by 2.5 cm, with winged petiolule. Membranous texture. Anastomosing veins, covered with hairs on both faces of the lamina. Sori short, semi-lunate. Paraphyses with recurved apical cell.
 
 ## Type
 
@@ -30,9 +28,7 @@ Adams 1100, Fernando-Po (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Fernando-Po, San-Thomé.
+Cameroon, Fernando Po, São Thomé.
 
 ## Specimens examined
 

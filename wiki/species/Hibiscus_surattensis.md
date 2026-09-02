@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe probablement vivace, rampante ou grimpante, 1 ‒ 2( ‒ 3) m de hauteur, parties végétatives teintées de rouge ; tiges pourvues d’aiguillons hérissés, recourbés en crochet et mélangés avec des poils blancs fins. Stipules foliacées, ovales ou rondes, amplexicaules ,
-
-1 ‒ 1,5 cm de diamètre , denticulées. Feuille : pétiole 3 ‒ 5( ‒ 10) cm ; limbe à contour suborbiculaire, 5 ‒ 8( ‒ 12) cm de diamètre, 3 ‒ 5-palmatipartite, cordé à la base, papyracée et fragiles sur le sec, glabre, marges irrégulièrement dentées et rougeâtres, face inférieure plus pâle, nervure médiane sans nectaire. Fleur axillaire, solitaire ; pédoncule 3 ‒ 8 cm , glabrescent ; pédicelle jusqu’à 1 cm, hirsute ; calicule à 10 bractéoles, environ 2 cm de longueur, fourchues à partir du milieu, lobes externes étalés, foliacés, elliptiques ou spathulés, verts et pourpres, 6 ‒ 8 mm de longueur, lobes internes étroitement linéaires, dressés , 10 ‒ 12 mm ; sépales en majeure partie libres, ovales, 1 ‒ 1,5 cm de longueur, atteignant jusqu’à 2,8 cm en fruit, aigus, réticulés, roses, à 3 nervures proéminentes sans nectaire ; pétales 4 ‒ 5 cm de longueur, jaunes, à tache pourpre foncé à la base ; tube staminal environ 2 cm de longueur, anthères clairsemées presque jusqu’à la base ; style émergeant nettement du tube. Fruit ovoïde, 2 cm, aigu, à pubescence dense apprimée. Graines triangulaires-réniformes, environ 3 × 2 mm, brun-rouge, pourvues de lignes concentriques fines et de petites verrues brunâtres.
+Herb probably perennial, creeping or climbing, 1–2(–3) m tall, vegetative parts tinged with red; stems furnished with bristly prickles, hooked and mixed with fine white hairs. Stipules foliaceous, oval or round, amplexicaul, 1–1.5 cm in diameter, denticulate. Leaf: petiole 3–5(–10) cm; blade suborbicular in outline, 5–8(–12) cm in diameter, 3–5-palmatipartite, cordate at base, papyraceous and fragile when dry, glabrous, margins irregularly dentate and reddish, lower surface paler, midvein without nectary. Flower axillary, solitary; peduncle 3–8 cm, glabrescent; pedicel up to 1 cm, hirsute; caliculus with 10 bracteoles, approximately 2 cm long, forked from the middle, outer lobes spreading, foliaceous, elliptic or spatulate, green and purple, 6–8 mm long, inner lobes narrowly linear, erect, 10–12 mm; sepals mostly free, oval, 1–1.5 cm long, reaching up to 2.8 cm in fruit, acute, reticulate, pink, with 3 prominent veins without nectary; petals 4–5 cm long, yellow, with dark purple blotch at base; staminal tube approximately 2 cm long, anthers scattered almost to the base; style emerging clearly from the tube. Fruit ovoid, 2 cm, acute, with dense appressed pubescence. Seeds triangular-reniform, approximately 3 × 2 mm, reddish-brown, furnished with fine concentric lines and small brownish warts.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-régions paléotropicales, en Afrique, du Sénégal en Angola et du Soudan en Afrique du Sud ; au Gabon, assez commune, connue de l’Estuaire, de l’Ogooué-Maritime, de la Nyanga, de l’Ogooué-Ivindo, de la Ngounié et du Woleu-Ntem
+Paleotropical regions, in Africa, from Senegal to Angola and from Sudan to South Africa; in Gabon, fairly common, known from Estuaire, Ogooué-Maritime, Nyanga, Ogooué-Ivindo, Ngounié and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce cultivée de la forêt dense semi-décidue et ses formes de dégradation, forêts secondaires, savanes, marais, jachères, cultures, anciens villages ; au Gabon à 90 ‒ 200 m d’altitude, ailleurs à 0 ‒ 1700 m. Fleurs et fruits toute l’année. Usage : Les feuilles sont utilisées pour le traitement de toutes sortes d’irritation, d’ulcères vénériens et pour le traitement des urétrites, contre les maux de poitrine. Elles sont aussi consommées comme légume (oseille indigène). Les feuilles cuites servent à coaguler le latex du Landolphia
+Species cultivated in semi-deciduous dense forest and its degraded forms, secondary forests, savannas, marshes, fallows, cultivations, old villages; in Gabon at 90–200 m elevation, elsewhere at 0–1700 m. Flowers and fruits throughout the year. Uses: The leaves are used for the treatment of all sorts of irritation, venereal ulcers and for the treatment of urethritis, against chest ailments. They are also consumed as a vegetable (native sorrel). The cooked leaves serve to coagulate the latex of Landolphia.
 
 ## Vernacular names
 

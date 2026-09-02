@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 160 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 148 (1948).
 
 - F. luteola DE WILD., Repert. Spec. Nov. 12 : 199 (1913) ; LEBRUN & BOUTIQUE, l.c. : 142 (1948). TYPE : Seret 801, Zaïre, Nala (holo-, BR ; iso-, P).
@@ -35,29 +33,25 @@ Stuhlmann 8995, Tanzanie, Monts Uluguru, riv. Ruvu (B ; iso-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - F. furcata WARB. var. angustifolia DE WILD., l.c.: 303 (1913); LEBRUN & BOUTIQUE : 140 (1948). LECTOTYPE : Homblé 309, Zaïre, Elisabethville (BR).
 
 - F. anomani HUTCH., Kew Bull.: 331 (1915); AUBRÉV., FFCI, ed. 2, 1: 84, tab. 14, fig. E (1959). LECTOTYPE: Armitage I-III, Ghana, Schwi et Wam (K).
 
 - F. ruwenzoriensis DE WILD., Ann. Soc. Sci. Brux. 40 : 282 (1921) ; LEBRUN & BOUTIQUE, l.c. : 140 (1948). TYPE : Bequaert 4653, Zaire, Ruwenzori, Lanuri (holo-, BR ; iso-, K).
 
-Arbustes épiphytes (étrangleurs) à arbres de taille moyenne. Rameaux feuillés épais de 2-5 mm, glabres, parfois pubérulents à hirtelleux, marron-gris à marron-rouge à sec ; périderme se desquamant
+Shrubs, epiphytic (strangler figs) to medium-sized trees. Leafy branchlets thick 2–5 mm, glabrous, sometimes puberulent to hirtellous, grey-brown to reddish-brown when dry; periderm sometimes flaking.
 
-parfois. Feuilles disposées en spirales. Limbe obtriangulaire, à obové, à oblong, ou à presque elliptique, long de 3-8 (-11) cm, large de 2-4,5 (-5,5) cm, subcoriace à coriace, sommet tronqué à obtus, base aiguë à obtuse, à subcordée spécialement dans les grandes feuilles, bord entier ; les deux faces glabres ; nervures planes dessus, grossièrement saillantes dessous, nervure médiane n'atteignant pas le sommet du limbe, fourchue ; 5-9 (-10) paires de nervures latérales très visibles, inclus 1 paire de nervures basales ; tache glanduleuse ± visible. Pétiole long de 0,5-1 cm, épais de 1-2 mm. Stipules glabres ou quelquefois pubérulentes, blanc-jaunâtre, libres, habituellement longues d'environ 0,5 cm, parfois longues de 1-1,5 cm, subpersistantes.
+Leaves arranged spirally. Blade obtriangular to obovate, to oblong, or nearly elliptic, 3–8 (–11) cm long, 2–4.5 (–5.5) cm wide, subcoriaceous to coriaceous, apex truncate to obtuse, base acute to obtuse, to subcordate especially in larger leaves, margin entire; both surfaces glabrous; veins plane above, coarsely prominent below, midvein not reaching blade apex, forked; 5–9 (–10) pairs of lateral veins very visible, including 1 pair of basal veins; glandular patch ± visible. Petiole 0.5–1 cm long, 1–2 mm thick. Stipules glabrous or sometimes puberulent, whitish-yellowish, free, usually about 0.5 cm long, sometimes 1–1.5 cm long, subpersistent.
 
-Figues par paires ou solitaires dans les aisselles des feuilles ; initialement enfermées dans une structure calyptrale longue jusqu'à 1 cm, se fendant en 2 écailles, le plus souvent poilue à l'intérieur, figues sessiles ; bractées basales 2, largement ovées à semicirculaires, longues de 1-1,5 mm, glabres à pubérulentes ou strigileuses, membraneuses pour la plus grande part et caduques ; réceptacle globuleux à ellipsoïde, d'un diamètre de 0,8-1,2 (-1,8) cm sur le frais, 0,6-1 (-1,5) cm sur le sec, glabre à pubérulent blanc parfois strigileux jaunâtre à la base, jaune à maturité, souvent partiellement rougeâtre, ridé le plus souvent sur le sec, ostiole en forme de fente à presque rond dans le sommet ombiliqué de la figue.
+Figs in pairs or solitary in leaf axils; initially enclosed in a calyptral structure up to 1 cm long, splitting into 2 scales, usually hairy inside, figs sessile; basal bracts 2, broadly ovate to semicircular, 1–1.5 mm long, glabrous to puberulent or strigose, largely membranous and caducous; receptacle globose to ellipsoid, 0.8–1.2 (–1.8) cm in diameter fresh, 0.6–1 (–1.5) cm dry, glabrous to whitish puberulent sometimes yellowish strigose at base, yellow at maturity, often partially reddish, usually wrinkled when dry, ostiole slit-shaped to nearly round in the umbilicate apex of the fig.
 
-Fleurs pistillées avec 3 têpales longs de 1-1,5 mm, presque libres ; fleurs à graines sessiles, style long de 1-1,5 mm ; fleurs à galles à pédicelle long de 0,5-1,5 mm, style long d'environ 0,5 mm. Fruits ellipsoïdes à subglobuleux à obovoïdes, longs de 1,3-1,5 mm ; fruits à galles subglobuleux et ± stipités à obovoïdes, longs de 1,3-1,5 mm ; fruits presque unicolores. Fleurs staminées peu nombreuses, parfois en petits groupes, subsessiles à pédicellées jusqu'à 0,5 mm ; périanthe avec (2-) 3 têpales, longs d'environ 1 mm, basalement soudés ou presque libres, filet (plutôt) épais, long de 0,6 mm environ, anthères longues de 0,6-0,8 mm environ. Bractées interflorales longues de 1-1,5 mm. - Pl. 48, p. 171.
+Pistillate flowers with 3 tepals 1–1.5 mm long, nearly free; seed flowers sessile, style 1–1.5 mm long; gall flowers with pedicel 0.5–1.5 mm long, style about 0.5 mm long. Fruits ellipsoid to subglobose to obovoid, 1.3–1.5 mm long; gall fruits subglobose and ± stipitate to obovoid, 1.3–1.5 mm long; fruits nearly unicolorous. Staminate flowers few, sometimes in small groups, subsessile to pedicellate up to 0.5 mm; perianth with (2–) 3 tepals, about 1 mm long, basally fused or nearly free, filament (rather) thick, about 0.6 mm long, anthers about 0.6–0.8 mm long. Interfloral bracts 1–1.5 mm long. – Pl. 48, p. 171.
 
-Pollinisateur : Alfonsiella sp. (Gabon).
+Pollinator: Alfonsiella sp. (Gabon).
 
-L'échantillon Hijman & Weerdenburg 374 est distinct par les plus grandes figures (d'un diamètre jusqu'à 1,5 cm), la plus grande calyptra, les plus longues stipules (longues de 1-1,5 cm) et le limbe plus grand (long jusqu'à 11 cm); le plus souvent avec une base subcordée. Cet échantillon est semblable au type de F. calotropis (voir p. 198). Exception faite pour la différence de taille de quelques parties, cette
+The specimen Hijman & Weerdenburg 374 is distinct by larger figs (up to 1.5 cm in diameter), the larger calyptra, the longer stipules (1–1.5 cm long) and the larger blade (up to 11 cm long); most often with a subcordate base. This specimen is similar to the type of F. calotropis (see p. 198). Except for the difference in size of a few parts, this collection has more characters similar to other specimens of F. craterostoma that make it appear to be a form of F. craterostoma rather than a distinct species.
 
-récolte a plus de caractères similaires à d'autres échantillons de F. craterostoma qui font qu'elle peut sembler être une forme de F. craterostoma plutôt qu'une espèce distincte.
-
-Cette espèce s'étend depuis la Sierra Leone à travers le Cameroun et le Gabon jusqu'à la Tanzanie et vers le Sud à l'Angola (Cabinda) au Nord de la Zambie et à l'Afrique du Sud (Natal) ; dans les zones de forêt dense humide sempervirente ou semi-decidue, et jusqu'à une altitude de 1 800 m.
+This species ranges from Sierra Leone across Cameroon and Gabon to Tanzania and south to Angola (Cabinda) to northern Zambia and South Africa (Natal); in zones of dense humid evergreen or semi-deciduous forest, and up to an altitude of 1,800 m.
 
 ## Specimens examined
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herb with leaves distributed regularly along the stem (6 to 12). Limb oblong-elliptic, acuminate at the apex, rounded to obtuse at the base and shortly petiolate 10-20×3-6 cm.
 
-Herbe dressée à feuilles réparties régulièrement le long de la tige (de 6 à 12). Limbe oblong-elliptique, acuminé au sommet, arrondi à obtus à la base et courtement pétiolé de 10-20×3-6 cm.
+Inflorescence elongate, paniculate at the base then racemose; spikelets linear 4-5 cm long on average, sometimes longer, with about fifteen flowers. Upper glume slightly longer than the lower; glumelles as in the preceding species.
 
-Inflorescence allongée, paniculée à la base puis racémeuse; épillets linéaires de 4-5 cm de long en moyenne, parfois plus, avec une quinzaine de fleurs. Glume supérieure un peu plus longue que l'inférieure; glumelles comme dans les espèces précédentes.
-
-Espèce connue du Liberia, de la Côte d'Ivoire, du Cameroun et du Gabon.
+Species known from Liberia, Ivory Coast, Cameroon and Gabon.
 
 ## Specimens examined
 

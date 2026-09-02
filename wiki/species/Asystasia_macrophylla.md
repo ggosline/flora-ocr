@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — R. Benoist, Mém. Soc. Linn. Norm., N. S., Sect. Bot. 1 (3) : 46 (1928). — Heine, F.W.T.A. ed. 2,2 : 412 (1963). ≡ Dicentranthera macrophylla T. Anders., Journ. Linn. Soc. Bot., 7 : 52 (1863). — J.D. Hooker, Bot. Mag. 94, t. 5696 (1868).
 
-Sous-arbrisseau jusqu'à 3 m de hauteur, presque glabre. Pétioles de 8-25 mm. Limbe des feuilles de  $ 35 \times 9.5 $ cm, obovale-lancéolé, vert foncé sur la face supérieure, glabre, à base étroitement atténuée, à sommet arrondi et muni d'un acumen étroit et allongé de 15-20 mm; 7-9 paires de nervures latérales, imprimées en dessus, proéminentes en dessous.
+Subshrub up to 3 m tall, nearly glabrous. Petioles 8–25 mm. Leaf blade $35 \times 9.5$ cm, obovate-lanceolate, dark green on the upper surface, glabrous, narrowly attenuate at base, rounded at apex and bearing a narrow, elongated acumen 15–20 mm long; 7–9 pairs of lateral veins, impressed above, prominent below.
 
-Inflorescences terminales en forme d’épis, jusqu’à 23 cm de long; les axes sont un peu striés, pubérulents, à tomentum rougeâtre-brunâtre; nœuds florifères inférieurs distants de 4-2,5 cm environ, les supérieurs plus courts; fascicules de fleurs situés aux aisselles de bractées foliaires de 2,5 × 1 cm, à la partie inférieure de l’inflorescence; ces bractées sont linéaires-lancéolées, de 1-10 × 0,5-1 mm vers le sommet de l’inflorescence; l’organisation en panicules très réduits des fascicules axillaires est complexe; ils portent en général 2-3 fleurs par aisselle; pédoncule de 2-3 mm à ces petits panicules. Bractéoles aussi grandes que les bractées supérieures, ou un peu plus petites. Pédicelles de 1-1,5 mm; fleurs de 4 cm de long, violettes. Calice de 3-4 mm à lobes subulés-triangulaires à poils glanduleux. Corolle à tube violet ponctué à l’extérieur, étroit, d’un diamètre de 3 mm jusqu’à la moitié, puis infundibuliforme-renflé; le limbe est zygomorphe, et les deux lobes supérieurs sont soudés sur les 2/3 de leur longueur, formant ainsi une lèvre supérieure de 12 × 8 mm, émarginée; les trois lobes inférieurs sont un peu inégaux, le lobe central étant un peu plus grand, de 10-12 × 6-8 mm. Étamines glabres longues de 11,5 mm, étamines courtes de 10 mm; anthères de 4,5 mm, apiculées à la base; style de 29 mm de long, blanc, rouge après la chute de la corolle, très courtement pubescent. Ovaire glabre, disque charnu, jaune vert clair, glabre.
+Terminal inflorescences in the form of spikes, up to 23 cm long; axes somewhat striate, puberulent, with reddish-brownish tomentum; lower floriferous nodes distant approximately 4–2.5 cm apart, the upper ones shorter; flower fascicles situated at the axils of foliaceous bracts 2.5 × 1 cm, in the lower part of the inflorescence; these bracts are linear-lanceolate, 1–10 × 0.5–1 mm towards the apex of the inflorescence; the organization in very reduced panicles of the axillary fascicles is complex; they generally bear 2–3 flowers per axil; peduncle 2–3 mm to these small panicles. Bracteoles as large as the upper bracts, or somewhat smaller. Pedicels 1–1.5 mm; flowers 4 cm long, violet. Calyx 3–4 mm with subulate-triangular lobes bearing glandular hairs. Corolla with tube violet punctate externally, narrow, 3 mm in diameter up to the middle, then infundibuliform-swollen; the limb is zygomorphic, and the two upper lobes are connate for 2/3 of their length, thus forming an upper lip 12 × 8 mm, emarginate; the three lower lobes are somewhat unequal, the central lobe being somewhat larger, 10–12 × 6–8 mm. Long stamens 11.5 mm, short stamens 10 mm; anthers 4.5 mm, apiculate at the base; style 29 mm long, white, turning red after corolla fall, very shortly pubescent. Ovary glabrous, nectary disk fleshy, light yellow-green, glabrous.
 
-Fruits glabres, de 33 mm de long, à partie fructifère de 6 mm de diamètre. Graine aplaties, de  $ 6 \times 5 \times 1 $ mm, à surface régulièrement ruguleuse-verruculeuse.
+Fruits glabrous, 33 mm long, with fertile part 6 mm in diameter. Seeds flattened, $6 \times 5 \times 1$ mm, with regularly rugose-verrucose surface.
 
 ## Type
 
@@ -33,9 +31,7 @@ Mann 13, Fernando-Po (K, holotype!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Fernando-Po.
+Nigeria, Cameroon, Fernando-Po.
 
 ## Specimens examined
 

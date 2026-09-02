@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull. Mus. Nat. Hist. Nat. Paris 27 (2) : 193 (1921) ; Fl. Mayombe : 23 (1924) ; Mém. Soc. Bot. Fr. : 118 (1952) ; SLEUMER, BJBB 43 : 267 (1973) ; (with collaboration of BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPES : Le Testu 1118, Gabon (lecto-, isolecto-); 1765, Gabon (syn-).
 
-Bull. Mus. Nat. Hist. Nat. Paris 27 (2) : 193 (1921) ; Fl. Mayombe : 23 (1924) ; Mém. Soc. Bot. Fr. : 118 (1952) ; SLEUMER, BJBB 43 : 267 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPES : Le Testu 1118, Gabon (lecto-, isolecto-); 1765, Gabon (syn-).
+- II. dolichophyllum GILG, in ENGL., PWA 3 (2): 579, in clavi (1921); in ENGL. & PRANTL, NPF 21: 426 (1925). TYPES: Zenker 4417, Cameroon (holo-, B, delet.; lecto-, chosen here, K ; isolecto-, BM, BR, L, M, WU).
 
-- II. dolichophyllum GILG, in ENGL., PWA 3 (2): 579, in clavi (1921); in ENGL. & PRANTL, NPF 21: 426 (1925). TYPES: Zenker 4417, Cameroun (holo-, B, delet.; lecto-, choisi ici, K ; isolecto-, BM, BR, L, M, WU).
+– H. skirlii GILG, in ENGL., PWA 3 (2): 579, in clavi (1921). TYPES: Preuss 1379, Cameroon (holo-, B, delet.; lecto-, chosen here, P!; isolecto-, BR, K, P!, WU, Z).
 
-– H. skirlii GILG, in ENGL., PWA 3 (2): 579, in clavi (1921). TYPES: Preuss 1379, Cameroun (holo-, B, delet.; lecto-, choisi ici, P!; isolecto-, BR, K, P!, WU, Z).
+Tree (25–30–(35) m tall) ; branchlets glabrous.
 
-Arbre (25-30-(35) m de haut) ; rameaux glabres.
+Leaves with narrowly ovate stipules, quickly caducous ; petiole 3–6–(8) mm long ; blade oblong, rarely ovate to elliptic-oblong, cordate at base, shortly acuminate at apex, 15–30 × 8–12–(16) cm, coarsely subcrénelate to crénelate-undulate, ± coriaceous, glabrous ; secondary veins 10–12 pairs.
 
-Feuilles à stipules étroitement ovales, rapidement caduques ; pétiole de 3-6-(8) mm de long ; limbe oblong, rarement ovale à elliptique-oblong, cordé à la base, brièvement acuminé au sommet, 15-30 × 8-12-16) cm, grossièrement subcrénelé à crénelé-ondulé, ± coriace, glabre ; nervures secondaires 10-12 paires.
-
-Inflorescences en panicules terminales, multiflores, atteignant 20 cm de long, couvertes d'un tomentum gris. Fleurs 5-6-mères, groupées par 2-5, en fascicules espacés le long du rachis ; pédicelle d'environ 1 mm de long ; calice à tube campanulé-turbiné, de 1,5 mm de long, accrescent jusqu'à 3-4) mm de long au moment de la fructification ; lobes étroitement ovales, de 2-2,5 mm de long, accrescents jusqu'à 4 mm à l'état fructifère ; pétales subspatulés, 1,5-3 × 1 mm, accrescents jusqu'à 10-15 × 2-2,5 mm à l'état fructifère. - Pl. 23, 4-6, p. 73.
+Inflorescences in terminal panicles, multiflorous, reaching 20 cm long, covered with gray tomentum. Flowers 5–6-merous, grouped by 2–5, in fascicles spaced along the rachis ; pedicel about 1 mm long ; calyx with campanulate-turbinate tube, 1.5 mm long, accrescent to 3–4 mm long at fruiting time ; lobes narrowly ovate, 2–2.5 mm long, accrescent to 4 mm in fruiting state ; petals subspathulate, 1.5–3 × 1 mm, accrescent to 10–15 × 2–2.5 mm in fruiting state. - Pl. 23, 4–6, p. 73.
 
 ## Type
 
@@ -37,15 +35,11 @@ Le Testu 1118, Gabon (lecto-, P!, cf. SLEUMER 1973 ; isolecto-, P!); 1765, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale occidentale et centrale
+Western and Central tropical Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, forêts semicaducifoliées, galeries forestières, forêts secondaires
+Dense humid forests, semi-deciduous forests, forest galleries, secondary forests
 
 ## Specimens examined
 

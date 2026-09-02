@@ -24,21 +24,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+and leiostachyum Franch.
 
-et leiostachyum Franch.
+Perennial herb, up to 2 m or more with decumbent base and producing numerous roots. Culms frequently branched from the submerged nodes. Leaves generally glabrous, blades up to approximately 50 cm long and 10 mm wide. Midvein white, thick, margins scabrous.
 
-Herbe pérenne, jusqu'à 2 m et plus à base couchée et produisant de nombreuses racines. Chaumes fréquemment ramiﬁés à partir des nœuds submergés. Feuilles généralement glabres, limbes jusqu'à environ 50 cm de long et 10 mm de large. Nervure médiane blanche, épaisse, marges scabres.
+Panicle up to approximately 25 cm high. Branches numerous, 3 to 15 cm long; rachis more or less pubescent, pedicels
 
-Panicule jusqu'à 25 cm de haut environ. branches nombreuses, de 3 à 15 cm de long; rachis plus ou moins pubescent, pédicelles
+generally geminate. Spikelets oval lanceolate, shortly pubescent between the nerves of the glumes; the lower acuminate, as long as half or two-thirds of the spikelet, the upper caudate acuminate to aristate. Lower lemma with a scabrous awn 4 to 25 mm long. Upper floret mucronate-acuminate, 3 to 5 mm long, palea crustaceous.
 
-généralement géminés. Épillets ovales lancéolés, courtement pubescents entre les nervures des glumes; l'inférieure acuminée, longue comme la moitié ou les 2/3 de l'épillet, la supérieure caudée acuminée à aristée. Lemma inférieure avec une arrête scabre de 4 à 25 mm de long. Fleur supérieure mucronée-acuminée, de 3 à 5 mm de long, glumelles crustacées.
+Herb forming often substantial floating stands on the edge of watercourses or lakes. Recorded throughout tropical Africa.
 
-Herbe formant des peuplements flottants souvent importants sur le bord des cours d'eau ou des lacs. Signalée dans toute l'Afrique tropicale.
+It is a forage of great value, highly sought after by Hippopotamuses and Manatees.
 
-C'est un fourrage de grande valeur, très recherché par les Hippopotames et les Lamantins.
-
-Signalé au Gabon par Franchet dans le Fernan-Vaz et récolté par Lecomte (échantillon non vu).
+Recorded in Gabon by Franchet in the Fernan-Vaz and collected by Lecomte (specimen not seen).
 
 ## Figures
 

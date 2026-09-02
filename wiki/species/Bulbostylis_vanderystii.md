@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Abildgaardia vanderystii (Cherm.) Lye, Nordic J. Bot. 1 : 758 (1982). Herbe vivace , assez robuste, avec peu ou beaucoup de tiges issues d’un court rhizome ligneux ; tiges de 20‒40 cm × 0,5‒0,7 mm, trigones, glabres . Feuille : gaine brun rougeâtre, tronquée, avec de longs poils au collet ; limbe de 5‒15 cm × 0,3‒0,5 mm, canaliculé, presque glabre à très scabre au moins le long de la marge. Inflorescence en tête dense large de 5‒10 mm, formée de peu ou de beaucoup d’épillets serrés, brun rougeâtre foncé à presque noirs ; bractées involucrales souvent plus courtes que l’inflorescence, ressemblant aux glumes, brun rougeâtre, avec quelquefois la nervure centrale se terminant par un mucron vert long de 2 cm au plus. Épillet ovoïde à lancéolé, long d’environ 5‒7 mm ; les plus grandes glumes longues de 3,5‒4,5 mm, mais les supérieures souvent plus courtes, finement poilues ou scabres au moins près du sommet, brun rougeâtre foncé avec la nervure centrale se terminant au sommet ou le dépassant légèrement. Akène de 1‒1,2 × 0,7‒0,8 mm, obovale à obtriangulaire, brun pâle, coiffé par la base persistante du style brun rougeâtre foncé ; surface de l’ akène presque lisse .
+Abildgaardia vanderystii (Cherm.) Lye, Nordic J. Bot. 1 : 758 (1982). Perennial herb, fairly robust, with few or many stems arising from a short woody rhizome; stems 20–40 cm × 0.5–0.7 mm, trigonous, glabrous. Leaf: sheath reddish-brown, truncate, with long hairs at the collar; blade 5–15 cm × 0.3–0.5 mm, canaliculate, almost glabrous to very scabrous at least along the margin. Inflorescence a dense head 5–10 mm wide, formed of few or many tightly packed spikelets, dark reddish-brown to almost black; involucral bracts often shorter than the inflorescence, resembling the glumes, reddish-brown, sometimes with the central nerve ending in a green mucro up to 2 cm long. Spikelet ovoid to lanceolate, about 5–7 mm long; the largest glumes 3.5–4.5 mm long, but the upper ones often shorter, finely hairy or scabrous at least near the apex, dark reddish-brown with the central nerve ending at the apex or slightly exceeding it. Achene 1–1.2 × 0.7–0.8 mm, obovate to obtriangular, pale brown, crowned by the persistent base of the dark reddish-brown style; surface of the achene almost smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon et République Démocratique du Congo ; très rare au Gabon, trouvée seulement dans le Haut-Ogooué (3 récoltes)
+Gabon and Democratic Republic of the Congo; very rare in Gabon, found only in Haut-Ogooué (3 collections).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes et lisières savane/forêt ; au Gabon vers 380‒600 m d’altitude. Note taxonomique : ressemble quelque peu à B. scabricaulis, mais elle s’en différencie par la tige presque lisse et l’épillet beaucoup plus foncé, presque noir. B : Goetghebeur & Coudijzer (1984b). ibliographie
+Savannas and savanna/forest margins; in Gabon around 380–600 m altitude. Taxonomic note: somewhat resembles B. scabricaulis, but differs from it by the almost smooth stem and much darker, almost black spikelet. B: Goetghebeur & Coudijzer (1984b). Bibliography
 
 ## Notes
 

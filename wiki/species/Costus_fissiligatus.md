@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bull. Soc. Bot. Fr.,  $ 4^{e} $ sér., 2 : 93 (1902).
 
-Plante herbacée grêle de quelques décimètres de haut, à tige enroulée en spirale; feuilles courtement pétiolées, à limbe de  $ 10-15 \times 4-6 $ cm, blancéolé, asymétrique, longuement acuminé au sommet, atténué à la base, glabre à la face supérieure, sauf parfois quelques poils sur la nervure primaire; face inférieure ± pubescente le long des nervures et parfois aussi quelques poils épars sur le limbe. Ligule membraneuse, atteignant  $ 4 \, cm $ de long, fendue latéralement, le limbe étant plus ou moins nettement bilobé.
+Slender herbaceous plant a few decimetres tall, with stem coiled in a spiral; leaves shortly petiolate, with blade 10-15 × 4-6 cm, lanceolate, asymmetric, long-acuminate at apex, attenuate at base, glabrous on upper surface except sometimes a few hairs on the primary vein; lower surface ± pubescent along the veins and sometimes also with scattered hairs on the blade. Membranous ligule reaching 4 cm long, slit laterally, the blade being more or less distinctly bilobed.
 
-Inflorescence terminale, plus ou moins enveloppée par les feuilles supérieures, atteignant 3,5 cm de diamètre. Bractées d'environ 2 cm de long, prolongées par un appendice foliacé de 3 cm de long, acuminé et réfléchi à l'horizontale, axillant une seule fleur ; bractéole à carène unique se terminant par un renflement calleux. Calice tridenté puis plus ou moins longuement fendu latéralement, de 1-1,5 cm de long. Corolle rose à base jaune ; labelle de mêmes teintes, de 7 cm de long. Connectif des étamines denticulé à l'extriémité ; ovaire pubescent.
+Inflorescence terminal, more or less enveloped by the upper leaves, reaching 3.5 cm in diameter. Bracts about 2 cm long, prolonged by a foliaceous appendage 3 cm long, acuminate and reflexed horizontally, subtending a single flower; bracteole with a single keel terminating in a callous swelling. Calyx tridentate then more or less deeply slit laterally, 1-1.5 cm long. Corolla pink with yellow base; labellum of same coloration, 7 cm long. Connective of stamens denticulate at apex; ovary pubescent.
 
 ## Type
 
@@ -32,17 +30,11 @@ Griffon du Bellay s. n., Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Vernacular names after Walker and Sillans: Ogalo (Mpongwé, Orungu); Ogalo, Okoso-Galoa (Nkomi); Ogalwé (Galoa); Muliligi (Eshira, Bavarama); Koré-kwisa (Bapunu); Biluga-maru (Ngowé); Disisa (Balumbu); Mokosa-a-idé (Bavové); Mokosa-a-gévonga (Mitsogo); Mosangadi-a gévongwa (Apindji); Nkakum-myan (Fang)
 
-Noms vernaculaires d'après Walker et Sillans : Ogalo (Mpongwé, Orungu) ; Ogalo, Okoso-Galoa (Nkomi) ; Ogalwé
+Plant known from Gabon and Cameroon.
 
-PL. XVIII. — Costus fissiligulatus Gagnep. (Raynal 10065, dessin inédit de Gagnepain et photographie de N. Hallé) : 1, base de la feuille et ligule ; 2, détail de la pubescence de la face inférieure du limbe ; 3, extrémité de la tige et inflorescence. — Costus Letestui Pellegr. (N. Hallé 2288, photographies in vivo et exsiccata) : 4, base de la feuille et ligule ; 5, partie de l'inflorescence. — Costus phaeotrichus Loes. (Zenker 3694) : 6, feuille ; 7, détail de la pubescence de la face inférieure des feuilles.
-
-(Galoa) ; Muliligi (Eshira, Bavarama) ; Koré-kwisa (Bapunu) ; Biluga-maru (Ngowé) ; Disisa (Balumbu) ; Mokosa-a-idé (Bavové) ; Mokosa-a-gévonga (Mitsogo) ; Mosangadi-a gévongwa (Apindji) ; Nkakum-myan (Fang)
-
-Plante connue du Gabon et du Cameroun.
-
-Variété connue uniquement du Gabon. Outre le type, nous avons étudié un second échantillon : 352, Etonda, sans nom de collecteur.
+Variety known only from Gabon. Besides the type, we have studied a second specimen: 352, Etonda, without collector's name.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste, arbre ou rarement liane, dioïque, jusqu’à 30 m de hauteur ; latex jaune ; ramilles quadrangulaires, glabres. Feuilles opposées, glabres ; pétiole 4 ‒ 10 mm, canaliculé dessus, fovéa indistincte ; limbe ovale à elliptique, parfois étroitement elliptique ou largement elliptique, 5 ‒ 16 × 2 ‒ 6,5 cm, aigu à obtus à la base, longuement acuminé au sommet , papyracé à subcoriace ; nervure médiane aplatie dessus, proéminente dessous, nervures latérales nombreuses, sous un angle de 60 ‒ 80° avec la médiane , légèrement proéminentes sur les deux faces, canaux sécréteurs translucides ponctiformes ou brièvement linéaires et alignés parallèlement aux nervures latérales , les noirs recoupant obliquement les nervures latérales. Inflorescences en cymes ou fascicules pauciflores, ou solitaires, axillaires ou parfois terminales ; pédoncule 0 ‒ 3 mm, glabre. Fleurs unisexuées, tétramères , glabre ; pédicelle 2 ‒ 5 mm ; sépales suborbiculaires, les externes 2 ‒ 2,5 mm de diamètre, les internes 3 ‒ 3,5 mm de diamètre ; pétales elliptiques, 4 ‒ 5 × 2,5 ‒ 3 mm, blanc verdâtre ou jaune verdâtre. Fleur mâle : phalanges staminales spathuliformes , 2 ‒ 2,5 mm de longueur, anthères 5 ‒ 7 par phalange, sessiles , oblongues et courbées, non locellées ; disque 1 ‒ 2 mm de diamètre, orange. Fleur femelle : étamines absentes ; ovaire 4-loculaire ; stigmate sessile, 4-lobé, orange-jaune. Fruit sur un pédicelle jusqu’à 10 mm, globuleux à largement ovoïde, souvent peu oblique, 11 ‒ 18 mm de diamètre, lisse, glabre, vert pâle devenant jaune à orange. Graines 2 ‒ 4, cylindriques, 9 ‒ 10 mm de longueur.
+Shrub, tree or rarely liane, dioecious, up to 30 m tall; latex yellow; branchlets quadrangular, glabrous. Leaves opposite, glabrous; petiole 4–10 mm, canaliculate above, fovea indistinct; blade ovate to elliptic, sometimes narrowly elliptic or broadly elliptic, 5–16 × 2–6.5 cm, acute to obtuse at base, long-acuminate at apex, papyraceous to subcoriaceous; midvein flattened above, prominent below, lateral nerves numerous, at an angle of 60–80° with the midvein, slightly prominent on both faces, translucent punctiform secretory canals or briefly linear and aligned parallel to the lateral nerves, the dark ones crossing the lateral nerves obliquely. Inflorescences in pauc­iflorous cymes or fascicles, or solitary, axillary or sometimes terminal; peduncle 0–3 mm, glabrous. Flowers unisexual, tetramerous, glabrous; pedicel 2–5 mm; sepals suborbicular, the outer ones 2–2.5 mm in diameter, the inner ones 3–3.5 mm in diameter; petals elliptic, 4–5 × 2.5–3 mm, whitish-green or yellowish-green. Male flower: staminal phalanges spatulate, 2–2.5 mm long, anthers 5–7 per phalanx, sessile, oblong and curved, not locellate; disc 1–2 mm in diameter, orange. Female flower: stamens absent; ovary 4-locular; stigma sessile, 4-lobed, orange-yellow. Fruit on a pedicel up to 10 mm, globose to broadly ovoid, often slightly oblique, 11–18 mm in diameter, smooth, glabrous, pale green becoming yellow to orange. Seeds 2–4, cylindric, 9–10 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, République Centrafricaine, Guinée Équatoriale, Gabon, République du Congo, République Démocratique du Congo, Angola et Zambie ; largement répandue au Gabon
+Nigeria, Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola and Zambia; widely distributed in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire, galeries forestières, forêt rivulaire ; au Gabon, jusqu’à 900 m d’altitude, ailleurs jusqu’à 1200 m
+primary forest, forest galleries, riparian forest; in Gabon, up to 900 m elevation, elsewhere up to 1200 m
 
 ## Vernacular names
 

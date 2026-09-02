@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Herb forming turfs, sometimes trailing, spreading 30–40 cm; branches 4-angled, succulent, fragile, often reddish, radicant, bearing an interpetiolary seta, rarely a few scattered setae. Leaves with a flattened petiole, 10–20 mm long; lamina rhombo-ovate, 10–20 × 15–30 mm, decurrent at the base, obtuse at the apex; hairs appressed, scattered above, clustered on the veins below; 3 (sub-5) veins; margins crenulate, especially towards the top, ciliate.
 
-Herbe gazonnante, parfois appuyée, étalée sur 30 à 40 cm; rameaux 4-angulaires, succulents, fragiles, souvent rougeâtres, radicants, portant une soie interpétiolaire, rarement quelques soies éparses. Feuilles à pétiole aplaté, long de 10 à 20 mm; limbe rhombo-ovale,  $ 10-20 \times 15-30 $ mm, décurrent à la base, obtus au sommet; poils appliqués, épars dessus, rassemblés sur les nervures dessous; 3 (sub-5) nervures; marges crénelées, surtout vers le haut, ciliées.
+Flower with a dentate-ciliate, caducous bract; pedicel 2.5–3 mm; hypanthium 3–3.5 mm tall, sparsely setulose, rarely glabrous, sometimes a few capitate hairs on young flower buds; calyx lobes narrowly triangular, 3–4 mm long, loosely serrate-ciliate, acute and often setaceous at the apex. Petals pink, delicate, obovate, 3 × 4 mm. Stamens slightly unequal; anther 0.7 or 1–2 mm; podoconnective 0.7 or 0.8 mm; filament 2.5 mm. Ovary glabrous, slightly convex.
 
-Fleur à bractée dentée-ciliée, caduque; pédicelle de 2,5 à 3 mm; hypanthe haut de 3 à 3,5 mm, éparsement sétuleux, rarement glabre, parfois quelques poils capités sur les jeunes boutons floraux; lobes du calice étroitement triangulaires, longs de 3 à 4 mm, lâchement serretés-ciliés, aigues et souvent sétacés à l'apex. Pétales roses, délicats, obovales, 3 × 4 mm. Étamines légèrement inégales; anthère 0,7 ou 1 à 2 mm; pédoconnectif 0,7 ou 0,8 mm; filet 2,5 mm. Ovaire glabre, peu convexe.
-
-Fruit ovoïde, haut de 5,5 mm. Graines longues de 1,2 mm, obovoïdes, finement tuberculées. — Pl. 1, p. 7.
+Fruit ovoid, 5.5 mm tall. Seeds 1.2 mm long, obovoid, finely tuberculate. — Pl. 1, p. 7.
 
 ## Type
 
@@ -31,9 +29,7 @@ Afzelius s.n., Sierra Leone (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce des sols frais; connue de la Guinée à l'Angola, et jusqu'en Tanzanie vers l'Est.
+Species of fresh soils; known from Guinea to Angola, and eastward to Tanzania.
 
 ## Specimens examined
 

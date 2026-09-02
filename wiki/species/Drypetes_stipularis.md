@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 47(6-8); Figure 11(C-E)
+Plate 47(6-8); Figure 11(C-E)
 
 D. molunduana Pax & K.Hoffm. in Engler, Pflanzenr. IV, 147, XV (Heft 81): 258 (1922).
 
 D. cauliflora Pax & K.Hoffm. in Engler, Pflanzenr. IV, 147, XV (Heft 81): 263 (1922).
 
-Arbuste ou arbrisseau de 3–5 m de hauteur, rarement arbre atteignant 10 m; tronc jusqu'à 10 cm de diamètre; écorce brun pâle; entaille généralement sans odeur d'huile de moutarde, jaune pâle s'oxydant à l'orange; ramilles de 2,2–2,4 mm de diamètre, cannelées, à écorce souvent pelée, peu à densément pubescente; bourgeons densément poilus. Stipules persistantes, triangulaires à étroitement triangulaires, de 7–9 × 2,5–3 mm, densément pubérulentes. Feuille: pétiole de 4–5 mm, à poils clairsemés; limbe elliptique à légèrement obovale, de 16,5–23 × 6,2–9,5 cm, papyracé à coriace, oblique et cunéé à arrondi à la base, limbe inséré sur le pétiole à différentes hauteurs espacées de 0,5–3 mm, brusquement acuminé au sommet, à partie apicale longue de 7,2–12 mm, à marge munie de dents de 0,5 × ±3 mm, face supérieure glabre, face inférieure à poils épars droits ou courbes, blancs, de 0,5–0,8 mm; nervure médiane à peine proéminente à imprimée dessus, proéminente et peu pubescente à poils apprimés dessous, nervures secondaires 10 ou 11 de chaque côté, en boucles irrégulières, imprimées et glabres dessus, nervation tertiaire et quaternaire réticulées, surélevées sur les deux faces. Inflorescence mâle cauliflore et ramiflore, sur coussinets du tronc, parfois sur les branches sous les feuilles, avec 5 à 8 fleurs. Fleur mâle: pédicelle élancé, de 6–9 mm, glabre; sépales 5, imbriqués, orbiculaires, de 3,4–4,2 × 2,6–3,7 mm, jaunâtres, pâles, généralement glabres à l'extérieur et à l'intérieur ou parfois à poils courts à l'extérieur; étamines 12, à la périphérie du disque, filet de 1,8 mm, anthère de 1,2–1,4 × 0,5 mm, glabre; disque cupuliforme, de 1,7–2,4 mm de diamètre, 0,2–0,4 mm de hauteur, plissé, glabre. Inflorescence femelle sur le tronc principal, avec (2 à) 5 à 8 fleurs. Fleur femelle: pédicelle de 8–12 mm, glabre ou pubescent; sépales 5, de 3,5–5,3 × 3,6–6,1 mm, autrement comme les mâles; disque de 3,3 mm de diamètre, haut de 0,9 mm, glabre; ovaire subglobuleux, de 2,5 × 1,4–4,3 mm, 2-loculaire, poilu; style de 1,6 mm, à 2 branches, partiellement fusionnés, la partie commune 0,1 mm, à stigmate réniforme, de 1,25–2,5 × 3,7–4,6 mm. Fruit dressé, ellipsoïdaux à globuleux, de 2,5–3,0 × 2,5 × 2 cm, orange, verruqueux à protubérances pointues blanches, à sépales persistantes de 3 × 3,5 mm, à styles persistantes, à 2 loges; pédicelle jusqu'à 1 cm; endocarpe comprimé latéralement, mésocarpe mou et blanc. Graine de 16 × 8 × 4 mm.
+Shrub or small tree 3–5 m tall, rarely a tree reaching 10 m; trunk up to 10 cm in diameter; bark pale brown; incision generally without mustard oil odour, pale yellow oxidizing to orange; twigs 2.2–2.4 mm in diameter, fluted, bark often peeling, sparsely to densely pubescent; buds densely hairy. Stipules persistent, triangular to narrowly triangular, 7–9 × 2.5–3 mm, densely puberulent. Leaf: petiole 4–5 mm, sparsely hairy; blade elliptic to slightly obovate, 16.5–23 × 6.2–9.5 cm, papyraceous to coriaceous, oblique and cuneate to rounded at base, blade inserted on petiole at different heights spaced 0.5–3 mm apart, abruptly acuminate at apex, apical portion 7.2–12 mm long, margin bearing teeth 0.5 × ±3 mm, upper surface glabrous, lower surface with scattered straight or curved white hairs 0.5–0.8 mm; midvein scarcely prominent to impressed above, prominent and sparsely pubescent to appressed-hairy below, secondary veins 10 or 11 on each side, in irregular loops, impressed and glabrous above, tertiary and quaternary venation reticulate, raised on both surfaces. Male inflorescence cauliflorous and ramiflorous, on trunk cushions, sometimes on branches below leaves, with 5 to 8 flowers. Male flower: pedicel slender, 6–9 mm, glabrous; sepals 5, imbricate, orbicular, 3.4–4.2 × 2.6–3.7 mm, yellowish, pale, generally glabrous outside and inside or sometimes with short hairs outside; stamens 12, at the periphery of the disk, filament 1.8 mm, anther 1.2–1.4 × 0.5 mm, glabrous; disk cupuliform, 1.7–2.4 mm in diameter, 0.2–0.4 mm tall, plicate, glabrous. Female inflorescence on main trunk, with (2 to) 5 to 8 flowers. Female flower: pedicel 8–12 mm, glabrous or pubescent; sepals 5, 3.5–5.3 × 3.6–6.1 mm, otherwise as in males; disk 3.3 mm in diameter, 0.9 mm tall, glabrous; ovary subglobose, 2.5 × 1.4–4.3 mm, 2-locular, hairy; style 1.6 mm, with 2 branches, partially fused, common portion 0.1 mm, with reniform stigma, 1.25–2.5 × 3.7–4.6 mm. Fruit erect, ellipsoid to globose, 2.5–3.0 × 2.5 × 2 cm, orange, verrucose with acute white protuberances, with persistent sepals 3 × 3.5 mm, with persistent styles, 2-locular; pedicel up to 1 cm; endocarp laterally compressed, mesocarp soft and white. Seed 16 × 8 × 4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nigeria, Cameroon, Equatorial Guinea (continental), Gabon, Republic of the Congo and Central African Republic; in Gabon: Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem.
 
-Nigéria, Cameroun, Guinée équatoriale continentale, Gabon, République du Congo et République Centrafricaine ; au Gabon : Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo, Ogooué-Maritime et Woleu-Ntem
-
-Habitat : forêts sempervirentes, forêts de terra firme, sur divers sols, parfois en forêt marécageuse, en forêt submontagnarde ou même forêt nuageuse ; au Gabon à 100-900 m d'altitude, ailleurs jusqu'à 1200 m.
+Habitat: evergreen forests, terra firme forests, on various soils, sometimes in swamp forest, in submontane forest or even cloud forest; in Gabon at 100–900 m altitude, elsewhere up to 1200 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C'est l'une des plus petites espèces de Drypetes dans les forêts tropicales d'Afrique. Elle est généralement déjà fertile comme un petit arbuste de 1,5 m de hauteur avec un diamètre du tronc de 2 cm et semble être limitée à un sous-étage densément ombragé. Les feuilles les plus anciennes sont souvent couvertes d'épiphylls
+It is one of the smallest species of Drypetes in the tropical forests of Africa. It is generally already fertile as a small shrub 1.5 m tall with a trunk diameter of 2 cm and appears to be confined to a densely shaded understory. The oldest leaves are often covered with epiphylls.
 
 ## Bibliography
 

@@ -20,13 +20,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Diels in Engler et Prantl, Nat. Pflanzenfam. I (4) : 209 (1899).
 
-Rhizome longuement rampant, à écailles peltées, plus foncées au centre, portant quelques prolongements clairs. Pétiole long de 3-7 cm, écailleux à la base. Limbe long de 15-20 cm, sur autant de large, deltoïde, divisé, presque jusqu'au rachis, en segments linéaires-oblongs, rapprochés, arrondis, crénelés, les inférieurs plus larges, décurrents sur le pétiole, plus développés inférieurement, à lobes eux-mêmes crénelés. Texture coriace. Nervures épaisses, pennées dans les lobes. Sores obliques, submarginaux.
+Rhizome long-creeping, with peltate scales, darker at the centre, bearing a few pale projections. Petiole 3-7 cm long, scaly at the base. Blade 15-20 cm long, as wide, deltoid, divided almost to the rachis into linear-oblong segments, crowded, rounded, crenate, the lower ones wider, decurrent on the petiole, more developed below, with lobes themselves crenate. Texture coriaceous. Veins thick, pinnate in the lobes. Sori oblique, submarginale.
 
-Cameroun, Asie tropicale, Chine, Japon, Australie, Mascareignes, Seychelles. Genre signalé pour la 1 $ ^{re} $ fois au Gabon.
+Cameroon, tropical Asia, China, Japan, Australia, Mascarene Islands, Seychelles. Genus recorded for the first time in Gabon.
 
 ## Specimens examined
 

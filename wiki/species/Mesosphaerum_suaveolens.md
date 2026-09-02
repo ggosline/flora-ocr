@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Hyptis suaveolens (L.) Poit.. Ann. Mus. Hist. Nat. 7 : 472 (1806). Herbe annuelle ou vivace à courte durée de vie, dressée, jusqu’à 2,5 m de hauteur, à forte odeur désagréable ; tige creuse, ramifiée, gluante hispide à poils glanduleux et non glanduleux. Feuille : pétiole 5–60 mm ; limbe ovale à orbiculaire, de 2–6 × 1,5–7 cm, cordé à arrondi, tronqué ou courtement cunéé à la base, parfois oblique, aigu à l’apex, régulièrement ou irrégulièrement denté, légèrement à densément hispide sur les deux faces. Inflorescence composée de cymes axillaires, lâches, unilatérales, avec jusqu’à 6 fleurs ; pédoncule 0–15 mm ; bractéoles linéaires, longues de 1–3 mm. Fleur : pédicelle 1–5 mm ; calice turbiné-campanulé, long de 4–5 mm en fleur et de 8–12 mm en fruit , pileux et à glandes sessiles, à dents subulées, poilu autour de la gorge ; corolle longue de 10–12 mm , bleue à violette, à tube blanc. Fruit : akènes généralement 1 ou 2 , oblongs-ellipsoïdaux, émarginés au sommet, longs de 3,8–4 mm , gris-noir, finement tuberculés à l’exception de la base.
+Hyptis suaveolens (L.) Poit.. Ann. Mus. Hist. Nat. 7 : 472 (1806). Annual or short-lived perennial herb, erect, up to 2.5 m tall, with strong unpleasant odour; stem hollow, branched, sticky hispid with glandular and non-glandular hairs. Leaf: petiole 5–60 mm; lamina ovate to orbicular, 2–6 × 1.5–7 cm, cordate to rounded, truncate or shortly cuneate at base, sometimes oblique, acute at apex, regularly or irregularly dentate, slightly to densely hispid on both faces. Inflorescence composed of axillary cymes, loose, unilateral, with up to 6 flowers; peduncle 0–15 mm; bracteoles linear, 1–3 mm long. Flower: pedicel 1–5 mm; calyx turbinate-campanulate, 4–5 mm long in flower and 8–12 mm in fruit, pilose and with sessile glands, with subulate teeth, hairy around the throat; corolla 10–12 mm long, blue to violet, with white tube. Fruit: achenes generally 1 or 2, oblong-ellipsoid, emarginate at apex, 3.8–4 mm long, grey-black, finely tuberculate except at base.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-adventice pantropicale très répandue, originaire d’Amérique centrale et australe ; en Afrique largement répandue, y inclus le Nigéria, le Cameroun, la Guinée équatoriale, le Gabon, la République du Congo et la République démocratique du Congo ; au Gabon : Ogooué-Maritime. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC) ; invasif dans certaines régions
+pantropical weed very widespread, native to central and southern America; in Africa widely distributed, including Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon: Ogooué-Maritime. Conservation status: Widely distributed; probably Least Concern (LC); invasive in some regions
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-terrains ouverts et zones perturbées ; au Gabon à 60 m d’altitude, ailleurs jusqu’à 500 m. Usage : Utilisé au Congo contre les maladies sexuellement transmissibles. B : Burkill (1995), Harley & Pastore (2012), Morales (2011), Morton (1963), Paton et al. i B liographie (2013)
+open areas and disturbed zones; in Gabon at 60 m altitude, elsewhere up to 500 m. Use: Used in the Congo against sexually transmitted diseases. B: Burkill (1995), Harley & Pastore (2012), Morales (2011), Morton (1963), Paton et al. Bibliography (2013)
 
 ## Notes
 

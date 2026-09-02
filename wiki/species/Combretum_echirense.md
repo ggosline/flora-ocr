@@ -17,29 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, Rabi-Koungasonta, Échira trail (fl., fr.) Breteler & Jongkind 10154 (holo-WAG; iso-BM, BR, K, LBV, M, MO, P).
 
-TYPE : Gabon, Rabi-Koungasonta, piste de l'Échira (fl., fr.) Breteler & Jongkind 10154 (holo-WAG ; iso-BM, BR, K, LBV, M, MO, P).
+Large liana. Young branchlets greyish, with a few scattered short hairs.
 
-Grande liane. Jeunes rameaux grisâtres, avec quelques courts poils épars.
+Leaves opposite; petiole ≤ 5 mm; lamina elliptic, ≤ 13 × ≤ 6 cm, matt, papyraceous to coriaceous, glabrous (except for domatia); major lateral veins 3–6 pairs, often with axillary domatia more or less pocket-shaped; base attenuate; apex rounded to shortly acuminate (Pl. 2, $ B_{1} $, p. 15).
 
-Feuilles opposées ; pétiole ≤ 5 mm ; limbe elliptique, ≤ 13 × ≤ 6 cm, mat, papyracé à coriace, glabre (hormis les domaties) ; grandes nervures latérales 3-6 paires, souvent avec des domaties axillaires plus ou moins en forme de poches ; base atténuée ; sommet arrondi à courtement acuminé (Pl. 2,  $ B_{1} $, p. 15).
+Scales circular, diameter 45–65 µm (Pl. 2 B₂, p. 15).
 
-Écailles circulaires, diamètre 45-65 µm (Pl. 2 B₂, p. 15).
+Inflorescences, spikes ≤ 8 cm, axillary or terminal; bracts scarcely visible.
 
-Inflorescences, épis ≤ 8 cm, axillaires ou terminaux ; bractées peu visibles.
+Flowers 4-merous. Receptacle 4 mm high, outer face covered with short hairs, the upper one more or less campanulate, 1.5 mm wide, inner face furnished with long hairs especially at the angles of the disk. Stamens exserted 4 mm; anthers 0.6 mm long. Style exserted 3 mm (Pl. 11, C, p. 41).
 
-Fleurs 4-mères. Réceptacle haut de 4 mm, face externe couverte de poils courts, le supérieur plus ou moins campanulé, large de 1,5 mm, face interne munie de longs poils surtout aux angles du disque. Étamines exsertes de 4 mm ; anthères longues de 0,6 mm. Style exsert de 3 mm (Pl. 11, C, p. 41).
+Fruit pale green, subcircular in profile, diameter 3–3.5 cm, furnished with papyraceous wings, glabrous except for the almost colourless scales; stipe 2–3 mm.
 
-Fruit vert pâle, profil subcirculaire, diamètre 3-3,5 cm, muni d'ailes papyracées, glabre à part les écailles presqu'incolores ; stipe 2-3 mm.
-
-On ne dispose pour cette espèce que de fleurs âgées. Il se pourrait qu'elle ne se distingue plus de C. fuscum après d'autres récoltes au Gabon.
+Only old flowers are available for this species. It is possible that it may not be distinguishable from C. fuscum after further collections in Gabon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud Cameroun et partie occidentale du Gabon
+South Cameroon and western part of Gabon
 
 ## Specimens examined
 

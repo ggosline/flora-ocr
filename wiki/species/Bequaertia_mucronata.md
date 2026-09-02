@@ -16,8 +16,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 op. cit.: 400, tab. 1 (1956); FCB 9: 172, tab. 22 (1960); HALLÉ, Monogr. Hippocr. Afr. occid., Thèse: 127 (1958); Bull. IFAN, sér. A, 21 (3): tab. 75 (1959); Pollen & Spores 2 (1): 8 (1960); Mém. IFAN 64: 133, tab. 48 (1962).
 
 – Hippocratea mucronata EXELL, Journ. Bot. 65, Suppl. Polyp.: 78 (1927); l.c. 70, Suppl. Polyp.: 225 (1932); EXELL & MENDONÇA, CFA 2: 14 (1954).
@@ -26,15 +24,15 @@ op. cit.: 400, tab. 1 (1956); FCB 9: 172, tab. 22 (1960); HALLÉ, Monogr. Hippoc
 
 - H. kairolecta LOES. ex HARMS, Notizbl. Bot. Mus. Berlin 15 (5): 670 (1942); LOES. in MILDBR., Wissenschaft. Ergebn. Deutsch. Zentr.-Afr. Exped. 1910-11, 2: 58 (1922), nomen. TYPE: Mildbraed 4347 (HBG!).
 
-Liane élevée atteignant 15-25 m. Bourgeons à pérule effilée. Rameaux à écorce brun roux devenant ± écailleuse après aoûtement. Bois dépassant 10 cm de diamètre. Stipules effilées aiguës atteignant 1-2 mm. Pétiole canaliculé de 3-9 mm. Limbe chartacé elliptique, de (5)9-14 × 3,5 cm, discolore à sec, ± olivacé dessus et brun dessous à sec ; base aiguë ou subaiguë ; sommet acuminé à caudé ; marges nettement dentées, à 20-35 dents sinueuses par côté. Nervures secondaires 6-8 paires arquées ascendantes ; fin réticule apparent sur les deux faces à sec.
+Tall liane reaching 15-25 m. Buds with attenuate stipular scale. Branches with reddish-brown bark becoming ± scaly after wood hardening. Wood exceeding 10 cm in diameter. Stipules attenuate acute reaching 1-2 mm. Petiole channeled 3-9 mm. Blade chartaceous elliptic, (5)9-14 × 3.5 cm, discolorous when dry, ± olivaceous above and brown below when dry; base acute or subacute; apex acuminate to caudate; margins distinctly dentate, with 20-35 sinuous teeth per side. Secondary veins 6-8 pairs arcuate ascending; fine reticulation evident on both faces when dry.
 
-Cymes courtes subombelliformes axillaires opposées, dichotomes, à pédoncule long 10-25 mm ; axes supérieurs courts, glabres ou très fine-ment pubérulents (notamment en Côte-d'Ivoire) ; bractées ciliolées de 1-1,5 mm. Pédicelle ± ruguleux ou micropapilleux de 1-3 mm, accrescent après fécondation. Boutons de 2-2,5 mm de diamètre, épatés, camus au sommet. Fleurs blanches devenant un peu orangées puis rose saumon et enfin brun rouge, s'ouvrant peu, de 4-5 mm de diamètre.
+Short subumbelliform axillary opposite cymes, dichotomous, with peduncle 10-25 mm long; upper axes short, glabrous or very finely puberulent (especially in Côte d'Ivoire); bracts ciliolate 1-1.5 mm. Pedicel ± rugose or micropapillose 1-3 mm, accrescent after fertilization. Buds 2-2.5 mm in diameter, flattened, obtuse at apex. Flowers white becoming somewhat orange then salmon-pink and finally dark red, opening little, 4-5 mm in diameter.
 
-PL. 74. — Bequartia mucronata (Exell) Wilcz.: 1, poils d'inflorescence; 2, poils de pédicelle floral; 3, jeune bouton, diam. 1,5 mm; 4, bouton vu par dessus, diam. 2,6 mm; 5, fleur, diam. 2,6 mm; 6, sépale; 7, lobes stigmatiques coiffant les anthères; 8, coupe florale vue par dessus; 9, anthères; 10, détail du pistil et de l'androcée; 11, coupe florale vue par dessous; 12, loges ouvertes; 13, valve de fruit longue de 65 mm; 14, graine longue de 43 mm (1, Hallé N. IA 3598, Côte-d'Ivoire; 2-12, Tisserant 1767, Centrafrique; 13, 14, Tisserant 1289, Centrafrique). — Tristemonanthus mildbraedianus Loes.: 15, 16, bouton, diam. 2 mm; 17, calice vu par dessous; 18, fleur, diam. 5,3 mm; 19, 20, fleur montrant les filets contigus à la base et le pistil; 21, étamine faces interne et externe; 22, coupe d'ovaire; 23, 24, loges ouvertes (Le Testu 8281).
+PL. 74. — Bequartia mucronata (Exell) Wilcz.: 1, inflorescence hairs; 2, floral pedicel hairs; 3, young bud, diam. 1.5 mm; 4, bud seen from above, diam. 2.6 mm; 5, flower, diam. 2.6 mm; 6, sepal; 7, stigmatic lobes capping the anthers; 8, floral section seen from above; 9, anthers; 10, detail of pistil and androecium; 11, floral section seen from below; 12, open locules; 13, fruit valve 65 mm long; 14, seed 43 mm long (1, Hallé N. IA 3598, Côte d'Ivoire; 2-12, Tisserant 1767, Central African Republic; 13, 14, Tisserant 1289, Central African Republic). — Tristemonanthus mildbraedianus Loes.: 15, 16, bud, diam. 2 mm; 17, calyx seen from below; 18, flower, diam. 5.3 mm; 19, 20, flower showing filaments contiguous at base and pistil; 21, stamen internal and external faces; 22, ovary section; 23, 24, open locules (Le Testu 8281).
 
-Sépales ovés de 1 mm, finement denticulés. Pétales très charnus et inégaux, ne s'étalant pas. Étamines très courtes. Ovules 6-8(12) par loge. Stigmate sessile ou subsessile trilobé.
+Sepals ovate 1 mm, finely denticulate. Petals very fleshy and unequal, not spreading. Stamens very short. Ovules 6-8(12) per locule. Stigma sessile or subsessile trilobed.
 
-Méricarpes elliptiques, souvent atténués, atteignant 6-8 × 2,2-3 cm, à sommet émarginé ou non. Valves brunâtres, rousses à l'intérieur. Graine de 38-43 × 14-17 mm, à aile jaune roux pâle; cotylédons allongés. Étuis funiculaires triangulaires de 1,2-1,8 mm - Pl. 74, fig. 1-14, p. 261.
+Mericarps elliptic, often attenuate, reaching 6-8 × 2.2-3 cm, apex emarginate or not. Valves brownish, russet inside. Seed 38-43 × 14-17 mm, with pale russet-yellow wing; cotyledons elongate. Funicular sheaths triangular 1.2-1.8 mm - Pl. 74, fig. 1-14, p. 261.
 
 ## Type
 
@@ -42,9 +40,7 @@ Gossweiler 6451, Cabinda (holo-, BM! ; iso-, K!), échantillon à feuilles anorm
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts humides, parfois berges de rivières : Sierra Leone (Scott Elliott 4456, K!, Jaeger 7246) Côté-d'Ivoire, Ghana, Cameroun, Gabon, Centrafrique, Zaïre, Cabinda et Ouganda.
+Humid forests, sometimes river banks: Sierra Leone (Scott Elliott 4456, K!, Jaeger 7246) Côte d'Ivoire, Ghana, Cameroon, Gabon, Central African Republic, Zaire, Cabinda and Uganda.
 
 ## Specimens examined
 

@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+* Nature and places of deposit indicated differently by error in FCAM
 
-* Nature et lieux de dépôt signalés différemment par erreur dans FCAM
-
-Feuille solitaire, 1,8-5,5 × 2-8 cm, largement cordée à réniforme, subaiguë à obtuse, glabre, dessus vert olive foncé, dessous pourpre. Hampe 2-13 cm, dressée, glabre. Fleur unique parfumée, sépales et pétales vert-brunâtre, labelle glabre, blanc à rose pâle avec des zones courtement papilleuses pourpre-violet. Sépale dorsal, apiculé, oblong-oblancéolé ; sépales latéraux un peu falciformes. Pétales oblongs à liguliformes, un peu falciformes, apiculés. Labelle contracté aux 2/3 de sa hauteur, partie inférieure panduriforme, maximum de sa largeur sous le sommet, marges basales incurvées, lobes latéraux arrondis ; région apicale ou lobe médian subarrondi, obtus. – Pl. 47, p. 99.
+Solitary leaf, 1.8–5.5 × 2–8 cm, broadly cordate to reniform, subacute to obtuse, glabrous, upper surface dark olive green, lower surface purple. Scape 2–13 cm, erect, glabrous. Single fragrant flower, sepals and petals greenish-brown, labellum glabrous, white to pale pink with shortly papillose purple-violet zones. Dorsal sepal, apiculate, oblong-oblanceolate; lateral sepals somewhat falcate. Petals oblong to ligulate, somewhat falcate, apiculate. Labellum contracted at 2/3 of its height, lower part panduriform, maximum width below the apex, basal margins incurved, lateral lobes rounded; apical region or median lobe subrounded, obtuse. – Pl. 47, p. 99.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+very ombrophilous woodland, subalpine meadow, riparian forest edge, pine plantation
 
-boisement très ombrophile, prairie submontagnarde, bordure de forêt rip-cole, plantation de pins
-
-Des 2 variétés reconnues de cette espèce, seule la variété typique largement répartie et déjà récoltée en Guinée équatoriale doit être recherchée au Gabon :
+Of the 2 varieties recognized for this species, only the typical variety widely distributed and already collected in Equatorial Guinea should be searched for in Gabon:
 
 a. var. adolphi
 
-Feuille uniformément verte ou vert-olive dessus et verte ou pourpre dessous.
+Leaf uniformly green or olive-green above and green or purple below.
 
-alt. 900-1750 m
+alt. 900–1750 m
 
-NB. – La variété seposita Hallé & Toilliez en diffère par sa feuille prostrée, argentée dessus et gris pourprescent dessous ; elle est connue du Sénégal, Mali, Guinée, Côté d’Ivoire, Centrafrique, Congo (Kinshasa), Ouganda et Zambie ; elle paraît moins probable au Gabon.
+N.B. – The variety seposita Hallé & Toilliez differs from it by its prostrate leaf, silvered above and grayish-purplescent below; it is known from Senegal, Mali, Guinea, Côte d'Ivoire, Central African Republic, Congo (Kinshasa), Uganda and Zambia; it seems less likely in Gabon.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Ghana, Nigeria, Guinée équatoriale, Congo (Kinshasa), Rwanda, Tanzanie, Ouganda, Zambie, Malawi, Zimbabwe, Mozambique
+Côte d'Ivoire, Ghana, Nigeria, Equatorial Guinea, Congo (Kinshasa), Rwanda, Tanzania, Uganda, Zambia, Malawi, Zimbabwe, Mozambique
 
 ## Notes
 

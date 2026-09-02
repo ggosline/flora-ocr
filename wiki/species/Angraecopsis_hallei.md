@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige 2-3 cm. Feuilles 4, < 13 x 5,6 cm, elliptiques-obovées, obliques. Inflorescence < 15 cm, 10-15-flore, pédoncule plus court que le rachis. Fleurs petites, résupinées, vert blanchâtre. Sépale dorsal ovcé-cordé. Pétales obliquement ovcés-triangulaires, aigus, soudés à la base aux sépales latéraux. Sépales latéraux ovcés-lancéolés au-dessus d'une base linéaire, obliques, aigus. Labelle 5 x 6 mm, transversalement elliptique, faiblement trilobé, lobes arrondis ou parfois le médian subaigu, finement et irrégulièrement denticulé, cochléiforme, callus à la gorge de l'éperon. Éperon < 7 mm, claviforme, incurvé, subobtus ou obtus. Pl. 215, p. 452.
+Stem 2–3 cm. Leaves 4, < 13 × 5.6 cm, elliptic-obovate, oblique. Inflorescence < 15 cm, 10–15-flowered, peduncle shorter than the rachis. Flowers small, resupinate, whitish-green. Dorsal sepal ovate-cordate. Petals obliquely ovate-triangular, acute, fused at the base to the lateral sepals. Lateral sepals ovate-lanceolate above a linear base, oblique, acute. Labellum 5 × 6 mm, transversely elliptic, weakly trilobed, lobes rounded or sometimes the median subacute, finely and irregularly denticulate, cochleate, callus at the mouth of the spur. Spur < 7 mm, clavate, incurved, subobtuse or obtuse. Pl. 215, p. 452.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce connue pour l'instant que de la localité-type
+species known so far only from the type locality
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic on trunk, in forest
 
-épiphyte sur tronc, en forêt
+MATERIAL STUDIED (Map 96):
 
-MATÉRIEL ÉTUDIÉ (Carte 96) :
-
-Hallé 2600, 6 km NE de Mékambo, Gabon (fl. Oct.), P!.
+Hallé 2600, 6 km NE of Mékambo, Gabon (fl. Oct.), P!.
 
 ## Figures
 

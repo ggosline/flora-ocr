@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-p. p. ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; SLEUMER, BJBB 43 : 281 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 16 (1976).
+p. p. ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; SLEUMER, BJBB 43 : 281 (1973) ; (with the collaboration of BAMPS), FCBR, Flacourt. 2 : 16 (1976).
 
 – Blackwellia africana HOOK. f., in HOOK., Niger Fl.: 361 (1849). TYPE : Don s. n., Sierra Leone (holo-).
 
@@ -35,8 +33,6 @@ Don s. n., Sierra Leone (holo-, BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – H. gentilii DE WILD., Et. Fl. Bas & Moyen Congo 1 : 46 (1903) ; GILG, EBJ 40 : 493 (1908). TYPE : Gentil s. n., Zaïre (holo-, BR).
 
 – H. molle STAPF, J. Linn. Soc. Bot. 37 : 100 (1905) ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 169 (1954) ; TYPES : Mann 881, Sierra Leone (lecto-, K, cf. PELLEGRIN 1952 ; isolecto-, P) ; Whyte a. 1904, Liberia (syn-, K).
@@ -45,9 +41,9 @@ Don s. n., Sierra Leone (holo-, BM)
 
 – H. gillettii DE WILD., Miss. Laurent : 414 (1907) ; GILG, EBJ 40 : 491 (1908). TYPE : Gillet 3396, Zaïre (holo-, BR).
 
-– H. buchholzii WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 490 (1908). TYPES : Buchholz s. n., Cameroun (lecto-, B, delet., cf. SLEUMER 1973 ; BR, choisi ici) ; Dinklage 886, Cameroun (syn- B, delet., P!, WAG) ; Zenker 1055, 1537, 1661, 2226, 2849, 3087, Cameroun (syn-, B, delet., BM, HBG, K, L, M, P!, WU, Z).
+– H. buchholzii WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 490 (1908). TYPES : Buchholz s. n., Cameroon (lecto-, B, delet., cf. SLEUMER 1973 ; BR, chosen here) ; Dinklage 886, Cameroon (syn- B, delet., P!, WAG) ; Zenker 1055, 1537, 1661, 2226, 2849, 3087, Cameroon (syn-, B, delet., BM, HBG, K, L, M, P!, WU, Z).
 
-– H. platypleurum MILDBR., Notizbl. Berl.-Dahl. 8 : 173 (1922) ; GILG, in ENGL. & PRANTL, NPF 21 : 427 (1925), « platypterum ». TYPE : Mildbread 7989, Cameroun (holo-, B, delet. ; K, choisi ici).
+– H. platypleurum MILDBR., Notizbl. Berl.-Dahl. 8 : 173 (1922) ; GILG, in ENGL. & PRANTL, NPF 21 : 427 (1925), « platypterum ». TYPE : Mildbread 7989, Cameroon (holo-, B, delet. ; K, chosen here).
 
 – H. crassipetalum EXELL, J. Bot. 67, suppl.: 190 (1929). TYPES: Gossweiler 1736, Angola (holo-, BM ; iso-, COI, K, LISJC).
 
@@ -55,25 +51,19 @@ Don s. n., Sierra Leone (holo-, BM)
 
 – H. Lundense CAVACO, Bull. Mus. Nat. Hist. Nat. Paris, sér. 2, 22 : 512 (1957) ; Contr. Et. Fl. Lunda : 109 (1959). TYPE : Gossweiler 13731 (holo-, P! ; iso-, B, BM, K, LUA).
 
-Arbre (20-25 m de haut) ou arbuste élancé ; jeunes rameaux pubescents, puis glabrescents ou glabres.
+Tree (20–25 m tall) or slender shrub ; young branches pubescent, then glabrescent or glabrous.
 
-Feuilles à stipules auriculées-réniformes,  $ 2.5 \times 2 $ cm, persistantes ou caduques, parfois absentes ; pétiole de 6-12-(15) mm de long, pubescent ou glabre ; limbe variable quant à la forme, les dimensions et la pubescence, généralement oblong ou elliptique-oblong, cunée ou arrondi, rare
+Leaves with auriculate-reniform stipules, c. 2.5 × 2 cm, persistent or caducous, sometimes absent ; petiole 6–12–(15) mm long, pubescent or glabrous ; blade variable in shape, dimensions and pubescence, generally oblong or elliptic-oblong, cuneate or rounded, rarely subcordate at the base, shortly acuminate at the apex, 8–18–(28) × 4–7–(12) cm, dentate, sometimes undulate or subentire, chartaceous to coriaceous, densely pubescent to glabrous on both surfaces ; secondary veins 7–10–(12) pairs.
 
-ment subcordé à la base, brièvement acuminé au sommet, 8-18-(28) × 4-7-(12) cm, denté, parfois ondulé ou subentier, chartacé à coriace, densément pubescent à glabre sur les 2 faces ; nervures secondaires 7-10-(12) paires.
-
-Inflorescences en panicules axillaires et terminales, composées de grappes grêles ou plus robustes, atteignant 25 cm de long, finement pubescentes à tomenteuses. Fleurs 5-6-(7)-mères, groupées par 2-5 en fascicules espacés le long du rachis ; pédicelle de 0,5-1,5-(2,5) mm de long ; calice à tube de 1-1,5 mm de long ; lobes étroitement ovales, subaigus, 1,5-(2) × 0,5-1 mm, glabres ; pétales spatulés, 2-2,5 × 1,5 mm, ne dépassant jamais 4 mm de long à l'état fructifère, ciliés. - Pl. 21, p. 69.
+Inflorescences in axillary and terminal panicles, composed of slender or more robust racemes, reaching 25 cm long, finely pubescent to tomentose. Flowers 5–6–(7)-merous, grouped by 2–5 in fascicles spaced along the rachis ; pedicel 0.5–1.5–(2.5) mm long ; calyx tube 1–1.5 mm long ; lobes narrowly ovate, subacute, 1.5–(2) × 0.5–1 mm, glabrous ; petals spatulate, 2–2.5 × 1.5 mm, never exceeding 4 mm long in the fruiting state, ciliate. - Pl. 21, p. 69.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale
+Tropical Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, forêts marécageuses, forêts périodiquement inondées, galeries forestières, forêts secondaires
+Dense humid forests, swamp forests, periodically inundated forests, forest galleries, secondary forests
 
 ## Specimens examined
 

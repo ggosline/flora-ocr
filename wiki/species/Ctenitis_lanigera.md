@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Tard., Not. Syst. 14 : 343 (1952); Mém. IFAN 28 : 41 pl. 25, fig. 3-4 (1953).
 
-Rhizome longuement rampant, portant de larges écailles brunes, plus ou moins caduques. Pétiole long de 15-20 cm, brunâtre, densément recouvert d'un manchon de poils articulés, brun-roux, et portant quelques rares écailles. Limbe deltoïde, long de 20-25 cm sur autant de large, bipinnatifide-tripinnatifide, tripenné à la base. Pennes inférieures nettement plus grandes que les suivantes, plus développées basiscopiquement, longues de 10-15 cm, pétiolées, opposées, faisant un angle de 90° avec le rachis, divisées en pinnules alternes, sessiles, décurrentes, à base plus développée, extrémité peu effilée, divisées, presque jusqu'au rachis secondaire, en segments arrondis, à base supérieure cunéiforme, inférieure oblique, décurrente sur le rachis secondaire ailé. Pennes progressivement décroissantes, les supérieures simplement lobées. Rachis densément recouvert des mêmes poils articulés que le pétiole. Texture subcoriace. Nervures pennées dans les lobes. Nervures de tous ordres, face inférieure du limbe et marges densément hirsutes. Sores arrondis, rapprochés du costa.
+Rhizome long-creeping, bearing broad brown scales, more or less caducous. Petiole 15-20 cm long, brownish, densely covered with a sheath of articulate hairs, reddish-brown, and bearing a few scattered scales. Blade deltoid, 20-25 cm long and as wide, bipinnatifid-tripinnatifid, tripinnate at the base. Lower pinnae distinctly larger than the following ones, more developed basiscopic, 10-15 cm long, petiolate, opposite, making a 90° angle with the rachis, divided into alternate, sessile, decurrent pinnules, with base more developed, apex not much tapered, divided almost to the secondary rachis, into rounded segments, with upper base cuneiform, lower oblique, decurrent on the winged secondary rachis. Pinnae progressively decreasing, the upper ones simply lobed. Rachis densely covered with the same articulate hairs as the petiole. Texture subcoriaceous. Venation pinnate in the lobes. Veins of all orders, lower surface of the blade, and margins densely hirsute. Sori rounded, close to the costa.
 
 ## Type
 
@@ -35,13 +33,11 @@ Introduit par Whitfield au Jardin botanique de Chelsea, et provenant de Sierra-L
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Ubangi, Congo.
 
-Guinée, Oubangui, Congo.
+Guinea, Sierra Leone, Ghana.
 
-Guinée, Sierra-Leone, Ghana.
-
-Endroits humides et ombragés.
+Wet and shaded places.
 
 ## Specimens examined
 

@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (incl. v. incompleta, polystachya et submutica Hack.)
 
-Herbe pérenne, atteignant 3 m de haut. Chaumes et feuilles comme dans l'espèce précédente.
+Perennial herb, reaching 3 m tall. Culms and leaves as in the preceding species.
 
-Inflorescence du même type, à racèmes généralement très nombreux, flexueux, pouvant dépasser 25 cm de long.
+Inflorescence of the same type, with racemes generally very numerous, flexuous, sometimes exceeding 25 cm long.
 
-Épillets sessiles étroitement linéaires lancéolés, de 5 à 6 mm de large. Glume inférieure cartacée, aplatie, se terminant en un mucron rigide, scabre, plus ou moins tuberculée, au moins latéralement, à tubercules souvent épineux. Carènes munies de cils raides. Glume supérieure naviculaire, lisse, plus courte que l'inférieure, à carène ciliée-épineuse. Glumelles de la fleur inférieure hyalines, ciliées, à 2 nervures; la lemma d'environ 4 mm de long; la palée un peu plus courte. Fleur supérieure à glumelles semblables. Épillets pédicellés très semblables aux sessiles ou un peu plus petits, neutres.
+Sessile spikelets narrowly linear-lanceolate, 5 to 6 mm wide. Lower glume cartilaginous, flattened, terminating in a rigid, scabrous mucro, more or less tuberculate, at least laterally, with tubercles often spiny. Keels furnished with stiff cilia. Upper glume naviculate, smooth, shorter than the lower, with ciliate-spiny keel. Lemmas of the lower flower hyaline, ciliate, with 2 nerves; the lemma approximately 4 mm long; the palea somewhat shorter. Upper flower with similar lemmas. Pedicellate spikelets very similar to the sessile ones or somewhat smaller, sterile.
 
-Espèce signalée au Togo, au Nigéria, au Congo où elle occupe en particulier de grandes surfaces dans les régions de l'Alima et de la Sangha, au Congo ex-Belge et dans l'Est africain. Son écologie est très semblable à celle de l'autre espèce.
+Species recorded from Togo, Nigeria, Congo where it occupies in particular large areas in the regions of the Alima and Sangha, in the Belgian Congo and in East Africa. Its ecology is very similar to that of the other species.
 
 ## Notes
 

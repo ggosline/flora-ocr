@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with branched habit, young branches glabrous or somewhat pubescent. Leaves petiolate, lanceolate, oblong or elliptic, acute at the base, shortly and obtusely acuminate at the apex, glabrous, coriaceous, 3.5–6.5 cm long and 1.5–2.5 cm wide. Petiole 3–5 mm.
 
-Arbuste ramifié, à jeunes rameaux glabres ou un peu pubescents. Feuilles pétiolées, lancéolées, oblongues ou elliptiques, aiguës à la base, courtement et obtusément acuminées au sommet, glabres, coriaces, de 3,5-6,5 cm de long et 1,5-2,5 cm larges. Pétiole de 3-5 mm.
-
-Fleurs polygames, fasciculées, axillaires et latérales. Pédi-
-
-celles glabres, de 3-10 mm long. Ovaire glabre. Sépales de 2 mm de long. Pétales blancs, de 4 mm de long, et 2 mm de large. Stigmate des fleurs ♂ courtement bifide. Fruit non connu.
+Flowers polygamous, fasciculate, axillary and lateral. Pedicels glabrous, 3–10 mm long. Ovary glabrous. Sepals 2 mm long. Petals white, 4 mm long and 2 mm wide. Stigma of ♂ flowers shortly bifid. Fruit unknown.
 
 ## Type
 
@@ -31,11 +27,9 @@ Dewèvre 719 (Stanley Pool, Congo)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, still poorly delimited, is perhaps a form of E. leonensis Engl.
 
-Cette espèce encore mal délimitée est peut-être une forme d'E. leonensis Engl.
-
-Moyen Congo, Congo équatorial et Angola du Nord.
+Middle Congo, Equatorial Congo and Northern Angola.
 
 ## Specimens examined
 

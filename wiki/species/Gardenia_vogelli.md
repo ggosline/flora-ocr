@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small glabrous tree 1-3 (5) m tall. Internodes 0.5-5 (7) cm, with epidermis becoming squamose. Stipules connate tubular reaching 6-15 mm tall, adorned with a few short rigid subapical hairs. Leaves almost always whorled by 3, unequal within each whorl. Petiole glabrous 0.2-3 cm. Blade ± olivaceous or brownish-olive when dry, (2) 5-20(28) × 2-9 cm, with base highly variable cordate, rounded or ± acutely attenuate; apex acuminate. Veins and veinlets equally prominent and conspicuous on both blade surfaces. 6-14 pairs of secondary veins. Small axillary pilose domatia, rarely absent.
 
-Buisson ou petit arbuste glabre de 1-3 (5) m de hauteur. Entrenœuds de 0,5-5 (7) cm, à épiderme devenant squameux. Stipules connées tubuleuses atteignant 6-15 mm de hauteur, ornées de quelques poils subapicaux raides et courts. Feuilles presque toujours verticillées par 3, inégales dans chaque verticille. Pétiole glabre de 0,2-3 cm. Limbe ± olivacé ou brun-olivâtre à sec, de (2) 5-20(28) × 2-9 cm, à base très variable cordée, arrondie ou ± atténuée aiguë; sommet acuminé. Nervures et nervilles également saillantes et apparentes sur les deux faces du limbe. 6-14 paires de nervures secondaires. Petites domaties axillaires pileuses, rarement absentes.
+Flowers sessile white erect terminal, sometimes solitary, sometimes 2-5, and arising from a sort of ± enlarged spathaceous stipular involucre. Calyx tube pale green, 12-30 mm long for a diameter of 5-7 mm, adorned with a few submar­ginal cilia, with 6 unequal lobes 0.5-20 mm long, linear and glabrous. Corolla reaching 11-18 cm in length, with tube externally glabrous 7-14 × 0.2-0.4 cm, with (5)6(7) spreading oblong obtuse lobes 3.5-6 × 1-1.5 cm, glabrous on both surfaces; throat pilose. Anthers completely included or conversely with apex exsert for about 2 mm, sessile, inserted at the upper third of their length, 9-12 × 1.1-1.5 mm, glabrous, with apex apiculate or obtuse. Style pilose with stigma very briefly expanded above the androecium and ± exsert. Ovary glabrous or bearing a few isolated hairs.
 
-Fleurs sessiles blanches dressées terminales, tantôt solitaires, tantôt par 2-5, et surgissant d'une sorte d'involucre stipulaire spathacé ± élargi. Tube du calice vert clair, long de 12-30 mm pour un diamètre de 5-7 mm, orné de quelques cils submarginaux, à 6 lobes inégaux longs de 0,5-20 mm, linéaires et glabres. Corolle atteignant 11-18 cm de longueur, à tube extérieurement glabre de 7-14 × 0,2-0,4 cm, à (5)6(7) lobes étalés oblongs et obtus de 3,5-6 × 1-1,5 cm, glabres sur les deux faces; gorge pileuse. Anthères tout à fait incluses ou au contraire à sommet exsert sur environ 2 mm, sessiles, insérées au tiers supérieur de leur longueur, de 9-12 × 1,1-1,5 mm, glabres, à sommet apiculé ou obtus. Style velu à stigmate très brièvement épanoui au-dessus de l'androcée et ± exsert. Ovaire glabre ou muni de quelques poils isolés.
-
-Fruit cylindrique ou étroitement fusiforme, souvent arqué, paucilenticellé, brun-ochracé squameux sur le sec, dépassant 10-12 × 1-1,5 cm, à limbe calycinal ± persistant. Péricarpe grossièrement fibreux. Nombreuses graines d'environ 3 × 4 × 1 mm. Embryon blanc de 2,5 mm.
+Fruit cylindrical or narrowly fusiform, often curved, paucilenticellate, brownish-ochraceous squamose when dry, exceeding 10-12 × 1-1.5 cm, with calycine limb ± persistent. Pericarp coarsely fibrous. Numerous seeds approximately 3 × 4 × 1 mm. Embryo white 2.5 mm.
 
 ## Type
 
@@ -35,13 +33,11 @@ Vogel 58 (K), pays Ibo, Sud Nigeria (BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, Congo, Central African Republic, and as far as Uganda and Angola. Forest margins, scrubby forests on rocks or under sparse woodland.
 
-Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Congo, Centrafrique, et jusqu'en Ouganda et Angola. Lisières, forêts broussailleuses sur rochers ou sous bois peu dense.
+N. Hallé 2656, 15 km SW of Makokou (fl. Oct.) (duplicates at Kew).
 
-N. Hallé 2656, 15 km SW de Makokou (fl. oct.) (doubles à Kew).
-
-N. Halle 2656, 15 km SW de Makokou (fl. oct.) (doubles à Kew). Le Testu 1978, Tchibanga (fl. janv.); 6098, Tsambo, Sud du Mont Iboundji (fl. et j. fr. sept.) 8845, Ndanda (fl. juin) (BM!); 8862, Ndoumbacoumbi, env. de Koulamotou (fl. et fr. juin); 9333, Mitzic (fl. et fr. oct.).
+N. Halle 2656, 15 km SW of Makokou (fl. Oct.) (duplicates at Kew). Le Testu 1978, Tchibanga (fl. Jan.); 6098, Tsambo, south of Mount Iboundji (fl. and fr. Sept.) 8845, Ndanda (fl. June) (BM!); 8862, Ndoumbacoumbi, vicinity of Koulamotou (fl. and fr. June); 9333, Mitzic (fl. and fr. Oct.).
 
 ## Figures
 

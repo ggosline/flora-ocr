@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tall liane or ± sarmentose shrub with vigorous branches. Internodes 4–6 × 0.6 cm, ± villous, with brown hairs. Stipules clothed with brown hairs, 8–12 mm long, triangular with subulate acumen 2–3 mm long. Petioles tawny, villous, 15–25 (50) mm long. Blade brownish nigrescens when dry, 11–25 × 4–14 cm; base subacute to cordate, apex sublanceolate acuminate; upper surface glabrous or with fine sparse pubescence; lower surface ± hirsute, especially on the nerves. 7–11 pairs of secondary nerves arcuate-ascending.
 
-Liane élevée ou arbrisseau ± sarmenteux à rameaux vigoureux. Entrenœuds de 4-6 × 0,6 cm, ± velus, à poils bruns. Stipules vêtues de poils bruns, longues de 8-12 mm, triangulaires à
+Inflorescences pink, nigrescens when dry, terminal, cymose, subcorymbiform, ± puberulous, with very short axes, base embraced by approximately 3 pairs of imbricate decussate stipular scales. Pedicels 3–7 mm; calyx narrowly oblong at the level of the ovary, 12–15 mm long overall, with cupuliform rim 2–3 mm high, with linear tapered lobes 4–8 mm long. Bud shaped like an obtuse club; prefloration twisted; tube 45–50 mm long and approximately 3–4 mm wide in its narrow part, widened at the throat, with orbicular lobes 15–17 (29 in vivo) mm with a ± distinct apicule, sometimes subnull in vivo; interior of tube glabrous except for a high median zone 1 cm long, distinctly villous, with ± erect hairs. Sessile anthers 9–10.5 × 2–2.6 mm, inserted towards the lower third, with acuminate connective drawn out into a slender prominent apicule 1 mm long, and slightly emarginate at the lower extremity; the apex of the anther extends 1–2 mm beyond the throat. Style slender, glabrous, reaching 5 cm including the ellipsoid stigmatic club, 7–12 mm long, 3–4.5 mm wide, ornamented with lamelliforn ridges, composed of two adherent lobes. Ovary 4 × 2 mm, pentagonal in cross-section, unilocular, with 2 finely peltate parietal placentas.
 
-acumen subulé sur 2-3 mm. Pétioles fauves, velus, longs de 15-25 (50) mm. Limbe brunâtre nigrescent à sec, de 11-25 × 4-14 cm; base subaiguë à cordée, sommet sublancéolé acuminé; face supérieure glabre ou à fine pubescence éparse; face inférieure ± hirsute, spécialement sur les nervures. 7-11 paires de nervures secondaires arquées-ascendantes.
-
-Inflorescences roses, nigrescentes à sec, terminales, cymeuses, subcorymbiformes, ‡ pubérulentes, à axes très courts, à base embrassée par environ 3 paires d'écailles stipulaires imbriquées décussées. Pédicelles de 3-7 mm; calice étroitement oblong au niveau de l'ovaire, long au total de 12-15 mm, à bord cupuliforme de 2-3 mm de hauteur, à lobes linéaires effilés longs de 4-8 mm. Bouton en forme de massue obtuse; préfloraison tordue; tube long de 45-50 mm et large d'environ 3-4 mm dans sa partie étroite, évasé à la gorge, à lobes orbiculaires de 15-17 (29 in vivo) mm avec un apicule ‡ net, parfois subnul in vivo; intérieur du tube glabre sauf une zone moyenne haute de 1 cm, désément velue, à poils ‡ érigés. Anthères sessiles de 9-10,5 × 2-2,6 mm, insérées vers le tiers inférieur, à connectif acuminé en un grêle apicule saillant sur 1 mm, et faiblement émarginé à l'extrémité inférieure; le sommet de l'anthère dépasse la gorge de 1-2 mm. Style grêle, glabre, atteignant 5 cm y compris la massue stigmatique ellipsoïde, longue de 7-12 mm, large de 3-4,5 mm, ornée de crêtes lamelliformes, composée de deux lobes adhérents. Ovaire de 4 × 2 mm, pentagonal en coupe, uniloculaire, à 2 placentas pariétaux fine-ment peltés.
-
-Fruit (Hédin 1918, riv. Nkam, Cameroun, 19 déc. 1927) ovoïde de  $ 45 \times 32 $ mm, surmonté par le limbe calycinal dégradé de  $ 6 \times 3 $ mm. Mince endocarpe corné ochracé. Une quinzaine de graines de  $ 9-11 \times 7-10 \times 3-4 $ mm, irrégulièrement lenticulaires, à fine arête marginale, à testa brun et mat. Albumen dur contenant un embryon droit de  $ 4 $ mm; cotylédons suborbiculaires de  $ 2,5 $ mm de largeur.
+Fruit (Hédin 1918, riv. Nkam, Cameroon, 19 Dec. 1927) ovoid, 45 × 32 mm, topped by the degraded calycine limb 6 × 3 mm. Thin horny ochraceus endocarp. About fifteen seeds 9–11 × 7–10 × 3–4 mm, irregularly lenticular, with fine marginal arista, with brown dull testa. Hard albumen containing a straight embryo 4 mm long; cotyledons suborbicular, 2.5 mm wide.
 
 ## Type
 
@@ -33,9 +29,7 @@ Keay F.H.I. 28554, entre Mamfé et Kumba, Cameroun (holotype K!, isotype BR!), f
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-région très voisine de celle du type. L'espèce existerait aussi au Cabinda (Gossweiler 7245, fl. déc., BM).
+region very close to that of the type. The species would also exist in Cabinda (Gossweiler 7245, fl. Dec., BM).
 
 ## Specimens examined
 

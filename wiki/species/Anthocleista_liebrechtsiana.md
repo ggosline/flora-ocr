@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 C. R. Soc. Bot. Belg. 38 (2) : 96 (1899). — FTA 4 (1) : 540. — BRUCE, l. c. : 51. — LEEUWENBERG, l. c. : 22, fig. 11, carte 7. — FWTA ed. 2, 2 : 37.
 
-Arbre de petite taille ou arbuste à tronc ± divisé, de 1,50-12 m de hauteur, sans épines.
+Small tree or shrub with ± divided trunk, 1.50-12 m in height, without spines.
 
-Feuilles pétiolées; pétiole jusqu'à 9 cm de longueur; limbe coriace à l'état sec, étroitement obové à linéaire, de 11-75 × 3-15 cm, longuement décurrent sur le pétiole; nervures secondaires assez distinctes; marge non réfléchie.
+Leaves petiolate; petiole up to 9 cm in length; blade coriaceous when dry, narrowly obovate to linear, 11-75 × 3-15 cm, long-decurrent on the petiole; secondary veins fairly distinct; margin not reflexed.
 
-Sépales vert pâle, arrondis, nettement dressés contre la base du tube de la corolle, un peu rétrécie, et ainsi après dans le fruit, même à l'état sec; sépales lisses, les extérieurs largement ovés ou orbiculaires, de 4-8 × 4-8 mm, les intérieurs un peu plus grands se déchirant lors du développement de la corolle. Corolle dans le bouton mûr 4,5-7 fois plus longue que le calice, de 32-54 mm de longueur et, comme dans le jeune bouton, arrondie ou un peu atténuée au sommet, blanche; tube généralement verdâtre, 3-5 fois plus long que le calice, 1,8-3 fois plus long que les lobes; 10-12 lobes étalés.
+Sepals pale green, rounded, distinctly erect against the base of the corolla tube, somewhat narrowed, and thus remaining in the fruit, even when dry; sepals smooth, the outer ones broadly ovate or orbicular, 4-8 × 4-8 mm, the inner ones somewhat larger, tearing as the corolla develops. Corolla in the mature bud 4.5-7 times longer than the calyx, 32-54 mm in length and, as in the young bud, rounded or somewhat attenuate at the apex, white; tube generally greenish, 3-5 times longer than the calyx, 1.8-3 times longer than the lobes; 10-12 lobes spreading.
 
-Baies globuleuses ou ovoïdes, de 15-27 × 10-18 mm, arrondies au sommet, irrégulièrement ridées et souvent acuminées à l'état sec, à paroi mince, de 1 mm d'épaisseur. Pl. 4, p. 19.
+Berries globose or ovoid, 15-27 × 10-18 mm, rounded at the apex, irregularly wrinkled and often acuminate when dry, with thin wall, 1 mm in thickness. Pl. 4, p. 19.
 
 ## Type
 
@@ -35,11 +33,9 @@ Dewèvre 829, Lukolela, Équateur, Congo-Kinshasa (holotype : BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+LOGANIACEAE
 
-LOGANIACE
-
-Dahomey, Nigeria, Cameroun, Congos, Angola, Zambie. Forêts rivulaires, périodiquement inondées. Altitude 0-400 m.
+Dahomey, Nigeria, Cameroon, Congos, Angola, Zambia. Riparian forests, periodically flooded. Altitude 0-400 m.
 
 ## Specimens examined
 

@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub of 1–3 m to tree of 4–6 m with branched habit. Leaves 4–6-jugate, long-petiolate 10–22 cm, reaching 50–60 cm overall; leaflets whose length equals approximately 3 times the width, acuminate.
 
-Arbuste de 1-3 m à arbre de 4-6 m à port ramifié. Feuilles 4-6-juguées, longuement pétiolées de 10-22 cm, atteignant 50-60 cm au total; folioles dont la longueur égale environ 3 fois la largeur, acuminées.
-
-Inflorescences axillaires ou caulinaires en grappes ramifiées, à fleurs petites. Boutons 2-3 mm, glabres extérieurement ou parfois pubérulents à la base; pétales  $ 2 \times 1 $ mm, glabres mais ciliés au bord; écaille à 2 lobes ciliés au bord; tous ces cils et poils sont blancs alors que la pilosité de D. grandifolia est jaune vif ou jaune brunâtre. PL. 13, 8-14, p. 67.
+Inflorescences axillary or cauline in branched racemes, with small flowers. Buds 2–3 mm, glabrous externally or sometimes puberulent at the base; petals 2 × 1 mm, glabrous but ciliate at the margin; scale with 2 lobes ciliate at the margin; all these cilia and hairs are white whereas the hairiness of D. grandifolia is bright yellow or yellowish-brown. PL. 13, 8–14, p. 67.
 
 ## Type
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste, avec un rhizome épais de 3–5 mm ; tige solitaire, centrale , 20– 45 cm × 1,5–4 mm, triangulaire à un peu aplatie, glabre. Feuilles toutes basales ; gaine verdâtre, assez épaisse ; limbe linéaire , plan, le plus grand de 50–120 cm × 15–31 mm , à base rétrécie progressivement en gaine, sommet progressivement aigu. Inflorescence terminale, en tête globuleuse, large de 2–5 cm, brun rougeâtre foncé, à nombreux épis serrés assez distincts ; bractées involucrales 2–3, foliacées, linéaires–lancéolées ou rarement ovales, 1–45 cm × 7–23 mm, bractée basale acuminée, étalée ou fortement réfléchie ; épis elliptiques à ovales–elliptiques, 7–10 × 3–5 mm ; bractées spicoïdales lancéolées, 4–6 × 1,4–2 mm , brun pâle à brun rougeâtre foncé, glabres, sommet aigu à un peu obtus, chacune sous-tendant un spicoïde à 2 fleurs mâles et 1 femelle. Fleur : bractées florales 4, longues de 4–4,5 mm, planes, les 2 inférieures linéaires–lancéolées, larges de 1,2 mm au plus, brun rougeâtre clair, carène non ailée, fortement hispides dessus, sommet aigu, les 2 supérieures étroitement linéaires, larges de 0,5–0,6 mm, glabres, sommet aigu ou tronqué ; style de 2–2,5 mm, à 2 branches . Akène obovoïde, 1,3–1,8 × 1–1,2 mm, lenticulaire, brun à noirâtre, rugueux tuberculé avec 2 côtes latérales indistinctes.
+Fairly robust herb, with a rhizome 3–5 mm thick; stem solitary, central, 20–45 cm × 1.5–4 mm, triangular to somewhat flattened, glabrous. Leaves all basal; sheath greenish, fairly thick; blade linear, flat, the largest 50–120 cm × 15–31 mm, base progressively narrowed into sheath, apex progressively acute. Inflorescence terminal, in a globose head, 2–5 cm wide, dark reddish-brown, with numerous fairly distinct tightly packed spikes; involucral bracts 2–3, foliaceous, linear–lanceolate or rarely ovate, 1–45 cm × 7–23 mm, basal bract acuminate, spreading or strongly reflexed; spikelets elliptic to ovate–elliptic, 7–10 × 3–5 mm; spicoid bracts lanceolate, 4–6 × 1.4–2 mm, pale brown to dark reddish-brown, glabrous, apex acute to somewhat obtuse, each subtending a spicoid with 2 male flowers and 1 female flower. Flower: floral bracts 4, 4–4.5 mm long, plane, the 2 lower linear–lanceolate, at most 1.2 mm wide, light reddish-brown, keel not winged, strongly hispid above, apex acute, the 2 upper narrowly linear, 0.5–0.6 mm wide, glabrous, apex acute or truncate; style 2–2.5 mm, with 2 branches. Achene obovoid, 1.3–1.8 × 1–1.2 mm, lenticular, brown to blackish, rugose tuberculate with 2 indistinct lateral ribs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République Démocratique du Congo et Angola ; répandue au Gabon, trouvée dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Maritime et le Woleu-Ntem (18 récoltes)
+Cameroon, Gabon, Democratic Republic of the Congo and Angola; widespread in Gabon, found in Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime and Woleu-Ntem (18 collections).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondaire, souvent le long des rivières et des ruisseaux ; au Gabon, à environ 50–700 m d’altitude, au Cameroun jusqu’à 500 m. Note taxonomique : diffère de toutes les autres espèces sans pseudo-pétiole du Gabon par son limbe relativement étroit, large de 1,5–2,2 cm (les autres espèces ont des limbes larges d’au moins 3,5 cm). M. testui a aussi un limbe étroit (2 cm au plus), mais avec un pseudo-pétiole. b : Simpson (1992). ibliographie
+Primary or secondary forest, often along rivers and streams; in Gabon, at approximately 50–700 m altitude, in Cameroon up to 500 m. Taxonomic note: differs from all other Gabonese species without a pseudo-petiole by its relatively narrow blade, 1.5–2.2 cm wide (the other species have blades at least 3.5 cm wide). M. testui also has a narrow blade (at most 2 cm), but with a pseudo-petiole. Bibliography: Simpson (1992).
 
 ## Notes
 

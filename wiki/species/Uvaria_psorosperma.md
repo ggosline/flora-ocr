@@ -21,11 +21,11 @@ tags: [species, generated]
 
 Engler,Monogr.Afr.Pflanzenf.6 :26 (19o1).- Pellegrin,Bull. Soc.Bot. Fr.,Mém.31 :6o (1949),pro parte.
 
-Liane ä écorce noiratre； rameaux glabres, ramilles gréles pubescentes a poils simples ou fascicules. Feuilles ä pétiole long de 5mm environ，glabrescent；limbe subcoriace，elliptiqueoblong,arrondi ä subcordé ä la base,obtusément acuminé au sommet,long de 8-12 cm,large de 4,5-5 cm,glabre a la face supé- rieure， glabrescent a la face inférieure. Nervures latérales 9- I0 paires ascendantes,s'évanouissant pres de la marge,saillantes en dessous；nervilles paralleles,peu visibles.
+Liane ä écorce noiratre; rameaux glabres, ramilles gréles pubescentes a poils simples ou fascicules. Feuilles ä pétiole long de 5mm environ,glabrescent;limbe subcoriace,elliptiqueoblong,arrondi ä subcordé ä la base,obtusément acuminé au sommet,long de 8-12 cm,large de 4,5-5 cm,glabre a la face supé- rieure, glabrescent a la face inférieure. Nervures latérales 9- I0 paires ascendantes,s'évanouissant pres de la marge,saillantes en dessous;nervilles paralleles,peu visibles.
 
 Fleurs inconnues.
 
-Fruits â pédicelle de 1,5 cm de longueur;méricarpes ovoides ä subglobuleux,de 1,2-1,5 cm de diametre, tres finement échinulés, tomenteux a poils étoilés courts; stipe médian, long de I-1,5 cm. Graines 7-8 bisériees,elipsoides-oblongues, longues de 7-8 mm, larges de 4-5 mm，ä testa tuberculé-cérebriforme；hile fortement saillant.
+Fruits â pédicelle de 1,5 cm de longueur;méricarpes ovoides ä subglobuleux,de 1,2-1,5 cm de diametre, tres finement échinulés, tomenteux a poils étoilés courts; stipe médian, long de I-1,5 cm. Graines 7-8 bisériees,elipsoides-oblongues, longues de 7-8 mm, larges de 4-5 mm,ä testa tuberculé-cérebriforme;hile fortement saillant.
 
 ## Type
 

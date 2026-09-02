@@ -24,19 +24,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb up to 1.50 m tall, branched, rooting at the lower nodes. Leaf blades linear-lanceolate, 5 to 20 cm × 4 to 15 mm. Entire plant glandular-pubescent with a very distinctive aromatic odor (coumarin).
 
-Herbe pérenne jusqu'à 1,50 m de haut, ramifiée, radicante aux nœuds inférieurs. Limbes foliaires linéaires lancéolés, de
+Panicle elongate, reaching 20–30 cm. Spikelets glabrous, approximately 2 mm long; nerves of glumes and lemmas longitudinally very prominent. Lower glume hyaline, very small; the upper one with 7 nerves, bilobed, muticous or mucronate in the sinus. Lower flower sterile, lemma similar to the upper glume, but with 5 nerves and an awn 6 to 20 mm long. No palea. Fertile flower with hyaline bifid lemma, 1 to 3 faintly marked nerves.
 
-5 à 20 cm × 4 à 15 mm. Toute la plante glanduleuse-pubescente répandant une odeur aromatique très particulière (coumarine).
+Species widely distributed in tropical Africa, also recorded in Brazil.
 
-Panicule allongée, atteignant 20-30 cm. Epillets glabres, d'environ 2 mm de long; nervures des glumes et glumelles longitudinalement très marquées. Glume inférieure hyaline très petite; la supérieure à 7 nervures, bilobée, mutique ou mucronée dans le sinus. Fleur inférieure neutre, lemma semblable à la glume supérieure, mais à 5 nervures et avec une arête de 6 à 20 mm de long. Pas de palée. Fleur fertile à lemma hyaline bifide, 1 à 3 nervures peu marquées.
+It is an excellent forage grass, well palatable, performing well in pasture and yielding excellent hay. It is often cultivated.
 
-Espèce largement répandue en Afrique tropicale, signalée également au Brésil.
-
-C'est une excellente Graminée fourragère, bien appétée, se comportant bien au pâturage et donnant un excellent foin. Elle est souvent cultivée.
-
-C'est généralement une plante de jachères; au Gabon, elle n'a jusqu'ici été rencontrée que dans la région de Mayumba (Koechlin).
+It is generally a plant of fallows; in Gabon, it has so far been encountered only in the Mayumba region (Koechlin).
 
 ## Notes
 

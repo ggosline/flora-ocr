@@ -21,15 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — J. Sm., Curt. Bot. Mag. 72, Comp. 35 bis (1846). — Tard., Mém. IFAN 28 : 155 (1953).
 
-Stolons tuberculeux par places, à tubercules elliptiques, écailleux sur les plantes jeunes. Frondes en touffes. Pétiole stra-
+Stolons tuberculate in places, with elliptic tubercles, scaly on young plants. Fronds in tufts. Petiole stramineous, bearing a few pale scales at the extreme base, 10-14 cm long. Blade with oval outline, 30-40 cm long by 4-5 cm wide, pinnate. Pinnae articulate, alternate, the lower ones very reduced — sometimes to a simple auricle — the upper ones contiguous, all sessile, the median ones lanceolate, narrowly deltoid, falcate, with acute apex, auriculate bases, the upper auricle covering the rachis. Margins sinuate-lobed, more distinctly so in the fertile fronds. Texture thin. Veins simple or bifurcate, prominent. Sori reniform or crescent-shaped, the sinus of the indusium turned toward the apex of the pinna. Spores reniform, finely tuberculate.
 
-miné, portant quelques écailles claires à l'extrême base, long de 10-14 cm. Limbe à contour ovale, long de 30-40 cm sur 4-5 de large, penné. Pennes articulées, alternes, les inférieures très réduites — parfois à une simple oreillette — les supérieures contiguës, toutes sessiles, les moyennes lancéolées, étroitement deltoïdes, falciformes, à extrémité aiguë, bases auriculées, l'auricule supérieure recouvrant le rachis. Marges sinuées-lobées, plus nettement dans les frondes fertiles. Texture mince. Nervures simples ou bifurquées, proéminentes. Sores réiniformes ou en forme de croissant, le sinus de l'indusie tourné vers la pointe de la penne. Spores réiniformes, finement mamelonnées.
-
-Afrique tropicale. Iles du Cap Vert. Epiphyte sur Elaeis, ou au bord des routes.
+Tropical Africa. Cape Verde Islands. Epiphytic on Elaeis, or at the roadside.
 
 ## Specimens examined
 

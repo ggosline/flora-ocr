@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane à stipe jusqu’à 35 m, 18–30 mm de diamètre . Feuille : gaine modérément à profusé ment armée d’épines dirigées vers le haut ; ochréa à sommet tronqué, parfois à un lobe arrondi de 0,5–1 cm de longueur, armée comme la gaine foliaire , épines jusqu’à 3 cm ; pétiole 0–2,5 cm, gonflement en dessous du pétiole présent ; rachis 1,5–2 m, concave dessus, arrondi dessous, devenant, triangulaire trapézoïdale distalement en coupe transversale, armé comme la gaine ; limbe des jeunes feuilles bifide, devenant rapidement penné avec 30 à 40 paires de folioles légèrement pendantes, linéaires-lancéolées, ou sigmoïdes, de 35–45 × 1,5–2,5 cm, sommet largement à finement acuminé, marges armées d’épines robustes ; cirrhe jusqu’à 1,5 m, dépourvu d’épines , à folioles-épines de 3–5 cm. Inflorescences à ± 3 m en dessous de l’apex du stipe ; pédoncule 15–20 cm, à 3 ou 4 bractées de 6–7 cm de longueur ; rachis jusqu’à 1,2 m, arqué, portant des bractées de 2,5–4,5 cm de longueur ; rameaux florifères 25–35 cm, pendants, portant des bractées de 5–7 mm de longueur. Fleur mâle 5 × 3,5 mm ; calice plus long que la corolle, à tube de 2 mm de longueur ; corolle ± 4 mm de longueur, tube 1 mm de longueur ; tube staminodial ± 2 mm de longueur, anthères 0,8 × 0,2 mm ; pistillode 2 × 0,5 mm. Fleur femelle semblable à la fleur mâle , 3,5–4,5 mm de largeur ; ovaire 2,5 × 0,8 mm ; style ± 1,5 mm. Fruit 1,8–2 cm de diamètre à maturité, avec 18 à 20 rangs d’écailles. Graine 1,5–1,8 × 1,6–1,9 cm, lisse, légèrement aplatie à déprimée dessous.
+Liane with stem up to 35 m, 18–30 mm in diameter. Leaf: sheath moderately to profusely armed with upward-pointing spines; ochrea with truncate apex, sometimes with a rounded lobe 0.5–1 cm long, armed like the leaf sheath, spines up to 3 cm; petiole 0–2.5 cm, swelling below the petiole present; rachis 1.5–2 m, concave above, rounded below, becoming trapezoidal-triangular distally in cross-section, armed like the sheath; blade of young leaves bifid, rapidly becoming pinnate with 30 to 40 pairs of slightly pendulous, linear-lanceolate or sigmoid leaflets, 35–45 × 1.5–2.5 cm, apex broadly to finely acuminate, margins armed with robust spines; cirrus up to 1.5 m, lacking spines, with spine-leaflets 3–5 cm. Inflorescences at ± 3 m below the stem apex; peduncle 15–20 cm, with 3 or 4 bracts 6–7 cm long; rachis up to 1.2 m, arched, bearing bracts 2.5–4.5 cm long; floriferous branches 25–35 cm, pendulous, bearing bracts 5–7 mm long. Male flower 5 × 3.5 mm; calyx longer than corolla, tube 2 mm long; corolla ± 4 mm long, tube 1 mm long; staminal tube ± 2 mm long, anthers 0.8 × 0.2 mm; pistillode 2 × 0.5 mm. Female flower similar to male flower, 3.5–4.5 mm wide; ovary 2.5 × 0.8 mm; style ± 1.5 mm. Fruit 1.8–2 cm in diameter at maturity, with 18 to 20 rows of scales. Seed 1.5–1.8 × 1.6–1.9 cm, smooth, slightly flattened to depressed below.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale, Gabon, République du Congo, République démocratique du Congo et Angola (Cabinda) ; au Gabon, présent dans l’Estuaire, le Moyen-Ogooué, la Nyanga, la Ngounié et le Woleu-Ntem. Statut de conservation : Préoccupation mineure (LC)
+Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola (Cabinda); in Gabon, present in the Estuary, Middle Ogooué, Nyanga, Ngounié and Woleu-Ntem. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-fréquent le long des lisières de forêt, dans les clairières et en forêts secondaires, abondant sur sols périodiquement inondés et le long des rivières ; au Gabon entre 30 et 500 m d’altitude, ailleurs entre 10 et 550 m. Bi : Faye et al. (2014), Pajarón et al. (2015), Sunderland (2007, 2012). B liographie
+frequent along forest edges, in clearings and in secondary forests, abundant on periodically flooded soils and along rivers; in Gabon between 30 and 500 m altitude, elsewhere between 10 and 550 m. Bibliography: Faye et al. (2014), Pajarón et al. (2015), Sunderland (2007, 2012). Bibliography
 
 ## Notes
 

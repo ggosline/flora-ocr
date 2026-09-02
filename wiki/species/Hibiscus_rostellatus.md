@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrub up to 3 m tall, erect or climbing; stem 2–4 cm in diameter at the base, bearing short prickles with bulbous base, often mixed with hispid, fragile and irritating hairs. Stipules narrowly lanceolate to linear, up to 10 mm, subpersistent. Leaf with petiole (2.5–)5–10 cm, bearing prickles similar to those of the stems; blade cordate or suborbicular and slightly 3–5-palmatilobate, up to 14 × 10 cm, margins ± regularly dentate or serrate, midvein bearing a prominent and elongated nectary toward the base. Flower solitary or 2–4, axillary; peduncle 2–10 cm, bearing prickles similar to those of the stems; pedicel 1–1.5 cm, bearing long rigid, often rusty hairs, the whole of peduncles and pedicels resembling a geniculate pedicel; calyculus with 10 bracteoles up to 1 cm long, already divergent in bud, bifurcate, lobes small, of same size, the outer often more foliaceous, spatulate, directed backward, the inner filiform; sepals largely free, ovate, 1.5–2.0 cm long in flower, 2.5–3.5 cm in fruit, acute, 3-nerved; petals 4–6 cm long, yellow with purple base; staminal tube approximately 1.8 cm long, anthers scattered, almost to the base, orange; style exceeding the tube. Fruit ovoid, 2–3 cm long, acute, covered with long appressed pale yellow hairs, especially in flower.
 
-Sous-arbrisseau de 3 m de hauteur, érigé ou grimpant ; tige 2 ‒ 4 cm de diamètre à la base , pourvue d’aiguillons courts à base bulbeuse , souvent mêlés de poils hispides, fragiles et irritants . Stipules étroitement lancéolées à linéaires, jusqu’à 10 mm, subpersistantes. Feuille à pétiole de (2,5 ‒ )5 ‒ 10 cm , pourvu d’aiguillons pareil à ceux des tiges ; limbe cordiforme ou suborbiculaire et légèrement 3 ‒ 5-palmatilobé , jusqu’à 14 x 10 cm, marges ± régulièrement dentées ou serrées, nervure médiane pourvue d’un nectaire proéminent et allongé vers la base. Fleur solitaire ou par 2 ‒ 4, axillaires ; pédoncule 2 ‒ 10 cm, pourvu d’aiguillons pareils à ceux des tiges ; pédicelle 1 ‒ 1,5 cm, pourvu de poils longs rigides, souvent roux, l’ensemble des pédoncules et pédicelles resssemblant à un pédicelle genouillé ; calicule à 10 bractéoles jusqu’à 1 cm de longueur, déjà divergentes en bouton, bifurquées , lobes petits, de même taille , l’extérieur souvent plus foliacé, spathulé, dirigé en arrière, l’intérieur filiforme ; sépales en majeure partie libres, ovales, 1,5 ‒ 2,0 cm de longueur en fleur, 2,5 ‒ 3,5 cm en fruit , aigus, 3-nervés ; pétales 4 ‒ 6 cm de longueur, jaunes à base pourpre ; tube staminal environ 1,8 cm de longueur, anthères clairsemées, presque jusqu’à la base, orange ; style dépassant le tube. Fruit ovoïde, 2 ‒ 3 cm de longueur, aigus, couverts de longs poils couchés jaune pâle, surtout en fleur.
+Capsule surrounded by the calyculus and calyx (one segment removed). – 5. Seed. Drawing with elements (1, 2) by J. Berhaut, reproduced from Berhaut (1979), and elements (3, 4, 5) by Marie Boutique, reproduced with permission of the National Botanical Garden of Belgium (©) from Hauman (1963).
 
-Capsule entourée du calicule et du calice (un segment enlevé). – 5. Graine. Dessin avec éléments (1, 2) par J. Berhaut, reproduit à partir de Berhaut (1979), et éléments (3, 4, 5) par Marie Boutique, reproduit avec permission du Jardin botanique national de la Belgique (©) à partir de Hauman (1963).
-
-Graines irrégulièrement triangulaires, 2 × 4 mm, brunes, pourvues de lignes concentriques fines et de petits verrues brunâtres.
+Seeds irregularly triangular, 2 × 4 mm, brown, bearing fine concentric lines and small brownish warts.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale de l’Ouest et Centrale, au sud vers la Zambie et l’Angola ; au Gabon assez rare, connue de l’Ogooué-Ivindo (Parc National de la Lopé)
+Tropical West and Central Africa, southward to Zambia and Angola; in Gabon fairly rare, known from Ogooué-Ivindo (Lopé National Park)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières des forêts humides ou inondables, rives des cours d’eau, marais, jachères, cultures ; au Gabon à 200 m d’altitude, ailleurs à 0 ‒ 1250 m. Usage : Les feuilles sont comestibles et antiblennorragiques. Une décoction de la plante est utilisée contre les maux de gorge et les feuilles contre les morsures de serpents
+Margins of humid or inundated forests, riverbanks, marshes, fallows, cultivations; in Gabon at 200 m altitude, elsewhere at 0–1250 m. Use: The leaves are edible and have antiblennorrhagic properties. A decoction of the plant is used against sore throat and the leaves against snake bites
 
 ## Vernacular names
 

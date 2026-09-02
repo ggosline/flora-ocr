@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste atteignant 3 m de hauteur UDPHDX[TXDGUDQJXODLUHVjTXDWUHVLOORQVSHXPDUTXpV Feuille Spwlroh GH PP OLPEH HOOLSWLTXH j REORQJ RX RERYDOH IRLV DXVVL ORQJTXHODUJHGH±±î±FPREWXVjFXQppjODEDVHDFXPLQpDXVRPPHW nervures secondaires ± droites à légèrement courbées, en 11 à 13 paires , formant un angle de ±DYHFODPpGLDQH ,QÀRUHVFHQFH terminale ou rarement axillaire, en grappe compacte, Fleur : pédicelle de 0,5–2 mm ; calice à lobes de 1,5–2,5 × 0,6–1,2 mm, l’intérieur muni de rangées de FROOpWqUHVMXVTX¶DX[GHX[FLQTXLqPHGHOHXUORQJXHXUFRUROOHORQJXHGH±PPGDQVOH ERXWRQPUFUqPHjEODQFKHYHUWFODLUGDQVOHERXWRQjWrWHRYRwGHjWULDQJXODLUHUHODWLYH ment grande, 0,45–0,65 fois la longueur du bouton, à sommet aigu, l’intérieur avec ou sans de PLQXVFXOHVWRXIIHVGHSRLOVVRXVODEDVHGHFKDTXH¿OHWj tube long de 3–4 mm , élargi au niveau des anthères à 0,8–1,5 mm, épaissi et très serré à la gorge, à lobes tordus dans le bouton, ±±IRLVDXVVLORQJVTXHOHWXEH±±IRLVDXVVLORQJVTXHODUJHVGH± × 0,5–2 mm, étalés à dressés, rose pâle ; étamines à sommet à 0,2–0,8 mm sous la gorge, insérées à 0,43–0,67 de la longueur du tube, à 1,7–2 mm de la base, anthère longue de 0,8–1,2 PPSLVWLOORQJGH±PPDYHFjRYXOHVGDQVFKDTXHFDUSHOOH Fruit : méricarpes GLYHUJHDQWj ovoïdes à subglobuleux, de 28–47 × 15–25 × 10–18 mm, obtusement acuminés au sommet , orange, lisses, avec 6 à 8 graines . Graine VXEJOREXOHXVHjHOOLSVRwGDOH de 7–14 × 5,5–10 × 3–4 mm.
+Shrub reaching 3 m in height, quadrangular with four poorly marked ridges. Leaf: petiole of mm; lamina elliptic to oblong or obovate, sometimes as long as wide, 0.5–2 cm; obtuse to cuneate at the base, acuminate at the apex; secondary veins ± straight to slightly curved, in 11 to 13 pairs, forming an angle of ± with the midvein. Inflorescence terminal or rarely axillary, in a compact raceme. Flower: pedicel 0.5–2 mm; calyx with lobes 1.5–2.5 × 0.6–1.2 mm, the interior provided with rows of colleters up to the two-fifths of their length; corolla 0.8–1 mm long in bud, creamy to whitish, clear green in bud at the apex; corolla head ovoid to triangular, relatively large, 0.45–0.65 times the length of the bud, with an acute apex, the interior with or without minute tufts of hairs below the base of each filament; tube 3–4 mm long, enlarged at the level of the anthers to 0.8–1.5 mm, thickened and very constricted at the throat, lobes twisted in the bud, 0.8–1.2 times as long as the tube, 0.5–2 times as long as wide, 0.3 × 0.5–2 mm, spread to erect, pale pink; stamens with apex 0.2–0.8 mm below the throat, inserted at 0.43–0.67 of the length of the tube, 1.7–2 mm from the base, anther 0.8–1.2 mm long; pistil 1–1.5 mm long, with ± ovules in each carpel. Fruit: mericarps divergent to ovoid to subglobose, 28–47 × 15–25 × 10–18 mm, obtusely acuminate at the apex, orange, smooth, with 6 to 8 seeds. Seed subglobose to ellipsoid, 7–14 × 5.5–10 × 3–4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon : Ogooué-Ivindo, Ogooué-Lolo et Woleu-Ntem. Écologie VRXVERLV GH IRUrW SULPDLUH HW VHFRQGDLUH DX *DERQ MXVTX¶j P G¶DOWLWXGH DLOOHXUV j 50–650 m
+Cameroon and Gabon; in Gabon: Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem. Ecology: understory of primary and secondary forest in Gabon, up to m altitude; elsewhere, 50–650 m.
 
 ## Bibliography
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 nom. nud. — De Wild., Plant. Bequaert. 4: 288 (1927). — Exell & Mendonça, Consp. Fl. Angol. 1 (2) : 243 (1951). — Wilczek, Fl. Congo belge 7 : 49 (1958). — Smith, FTEA, Linaceæ : 4 (1956).
 
-Arbre ou arbuste ± lianescent ou liane, haut de 6-20 m. Jeune tige tomentelleuse à pubescente; tige adulte atteignant 0,7 cm de diamètre, glabrescente, pourvue de crochets alternes. Feuilles pétiolées, stipules laciniées, pubescentes à l'extérieur, glabres à l'intérieur, longues de 5-10 mm;
+Tree or shrub ± lianescent or liane, 6–20 m tall. Young stem tomentellous to pubescent; adult stem reaching 0.7 cm in diameter, glabrescent, provided with alternate hooks. Leaves petiolate, stipules laciniate, pubescent on the outside, glabrous on the inside, 5–10 mm long;
 
-pétiole pubescent, de 4-10 mm; limbe glabre à glabrescent à la face supérieure, pubescent surtout sur les nervures à la face inférieure, discolore, oblong-elliptique, obtus à arrondi à la base, ± acuminé au sommet, denté, 5-15 × 2-5 cm. 10-15 paires de nervures secondaires saillantes à la face inférieure; nervilles distinctes sur les 2 faces.
+petiole pubescent, 4–10 mm; blade glabrous to glabrescent on the upper face, pubescent especially on the nerves on the lower face, discolorous, oblong-elliptic, obtuse to rounded at the base, ± acuminate at the apex, dentate, 5–15 × 2–5 cm. 10–15 pairs of secondary nerves prominent on the lower face; veinlets distinct on both faces.
 
-Cymes axillaires, pubescentes, pauciflores, jusqu'au sommet des rameaux florifères parmi les jeunes feuilles. Pédoncule pubescent, atteignant 2 cm. Pédicelle pubescent, de 1-6 mm; bractées et bractéoles semblables aux stipules. Sépales pubescents à l'extérieur, glabres à l'intérieur, lancéolés, longs de 8-15 mm. Pétales glabres, spatulés, de 15-18 × 5-6 mm. Étamines glabres, alternativement longues et courtes, de 6-10 mm; anthères elliptiques, longues d'environ 1,25 mm; stigmates terminaux, capités.
+Axillary cymes, pubescent, pauciflorous, extending to the apex of the flowering branches among the young leaves. Peduncle pubescent, reaching 2 cm. Pedicel pubescent, 1–6 mm; bracts and bracteoles similar to the stipules. Sepals pubescent on the outside, glabrous on the inside, lanceolate, 8–15 mm long. Petals glabrous, spatulate, 15–18 × 5–6 mm. Stamens glabrous, alternately long and short, 6–10 mm; anthers elliptic, approximately 1.25 mm long; stigmas terminal, capitate.
 
-Drupe subglobuleuse à ovoïde. Noix bréviaxe, subaiguë au sommet, de 11 mm de hauteur sur 12 mm de diamètre, à pyrènes séparées par des sillons peu profonds. PL. 7, p. 33.
+Drupe subglobose to ovoid. Nut brevaxial, subacute at the apex, 11 mm high by 12 mm in diameter, with pyrenes separated by shallow grooves. PL. 7, p. 33.
 
 ## Type
 
@@ -37,17 +35,15 @@ A. Chevalier 15443 et 17266, Côte d'Ivoire (P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Hygrophilous forests, forest galleries. Cameroon, Gabon, Angola and Zaïre.
 
-Forêts hygrophiles, galeries forestières. Cameroun, Gabon, Angola et Zaïre.
+H. rufipilis is cited from West Africa, from Sierra Leone to Ghana as well as from Zaïre. The species is not known with certainty from Gabon but its occurrence there is plausible.
 
-H. rufipilis est cité d’Afrique occidentale, de Sierra Leone jusqu’au Ghana ainsi que du Zaïre. L’espèce n’est pas connue du Gabon avec certitude mais son existence y est vraisemblable.
+GABONESE MATERIAL (DOUBTFUL) :
 
-MATÉRIEL GABONAIS (DOUTEUX) :
+Hallé N. & Le Thomas A. 27, Bélinga (sterile).
 
-Hallé N. & Le Thomas A. 27, Bélinga (stérile).
-
-Hallé N. & Villiers J.-F. 4512, route de Kinguélé (stérile).
+Hallé N. & Villiers J.-F. 4512, road to Kinguélé (sterile).
 
 ## Specimens examined
 

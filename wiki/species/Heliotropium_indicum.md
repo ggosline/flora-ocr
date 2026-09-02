@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 6; Figure 1(B)
 
-Planche 6; Figure 1(B)
-
-Herbe pérenne, robuste, jusqu'à 1,5 m de hauteur; tige érigée, ramifiée, ligneuse ou subli-gneuse à la base, creuse, peu anguleuse à quadrangulaire, poilue. Feuilles alternes à subop-posées; pétiole 2–8 cm; limbe ovale à elliptique, parfois rhomboïdal, 4–16 × 2–10 cm, à base obtuse à subcordée et brusquement rétrécie-cunéée sur le pétiole, aigu au sommet, à marge souvent ondulée, papyracé, bullé, hirsute sur les deux faces, à nervation pennée distincte. Inflorescences généralement solitaires, parfois par paires, à 2 rangs de fleurs, longues de 2,5–30(−40) cm, à axes éparsement hirsutes à poils épaissis à la base. Fleur sessile; calice long de 2,5–3 mm, à dents subulées, éparsement hirsutes; corolle longue de 5 mm, de 2–2,5 mm de diamètre, violacée à bleue, parfois blanc bleuâtre, parfois jaune crème à la gorge, tube cylindrique, plus long que le calice, long de 3–4,5 mm, éparsement pubescent extérieur-ement, à lobes ovales-déprimés, de 0,5 × 1 mm, arrondis au sommet; étamines à filet très court, inséré à 1–1,5 mm de la base du tube corollin, anthère longue de 0,7–0,9 mm; ovaire glabre, muni de 4 crêtes charnues; style 0,5–0,7 mm, stigmate discoïde, surmonté d'un dôme hémisphérique. Fruit 3,5 × 2,7 mm, glabre, profondément bilobé, se brisant d'abord en 2 parties ovoïdes-aplaties, ensuite en 4 akènes anguleux, pointus.
+Perennial herb, robust, up to 1.5 m in height; stem erect, branched, woody or subwoody at the base, hollow, slightly angular to quadrangular, pilose. Leaves alternate to subopposite; petiole 2–8 cm; blade ovate to elliptic, sometimes rhomboidal, 4–16 × 2–10 cm, with obtuse to subcordate base and abruptly narrowed-cuneate on the petiole, acute at apex, margin often undulate, papyraceous, bullate, hirsute on both faces, with distinct pinnate venation. Inflorescences generally solitary, sometimes in pairs, with 2 rows of flowers, 2.5–30(−40) cm long, with axes sparsely hirsute with thickened hairs at the base. Flower sessile; calyx 2.5–3 mm long, with subulate teeth, sparsely hirsute; corolla 5 mm long, 2–2.5 mm in diameter, violaceous to blue, sometimes pale blue to white, sometimes pale cream at the throat, tube cylindric, longer than the calyx, 3–4.5 mm long, sparsely pubescent externally, with ovate-depressed lobes, 0.5 × 1 mm, rounded at apex; stamens with very short filament, inserted 1–1.5 mm from the base of the corolla tube, anther 0.7–0.9 mm long; ovary glabrous, furnished with 4 fleshy ridges; style 0.5–0.7 mm, stigma discoid, crowned with a hemispherical dome. Fruit 3.5 × 2.7 mm, glabrous, deeply bilobed, breaking first into 2 ovoid-flattened parts, then into 4 angular, pointed achenes.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale, assez répandu en Asie, Australie et Amérique ; en Afrique : Sénégal, Guinée-Conakry, Sierra Leone, Liberia, Mali, Burkina Faso, Côte d'Ivoire, Ghana, Togo, Benin, Niger, Négria, Cameroun, Sao Tomé-et-Principe, Guinée équatoriale, Gabon, République du Congo, République démocratique du Congo, Soudan, Éthiopie, Kenya, Tanzanie, Zambie, Madagascar et les Seychelles ; au Gabon, connu du Moyen-Ogooué, de la Ngounié, de la Nyanga et de l'Ogooué-Maritime
+pantropical, fairly widespread in Asia, Australia and America; in Africa: Senegal, Guinea-Conakry, Sierra Leone, Liberia, Mali, Burkina Faso, Côte d'Ivoire, Ghana, Togo, Benin, Niger, Nigeria, Cameroon, São Tomé and Príncipe, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo, Sudan, Ethiopia, Kenya, Tanzania, Zambia, Madagascar and the Seychelles; in Gabon, known from Moyen-Ogooué, Ngounié, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+riverbank, dried rivers, marshes, ruderal stations, understory; in Gabon up to 80 m elevation, elsewhere in Africa up to 1700 m
 
-bord de rivière, rivières asséchées, marécages, stations rudérales, sous-bois ; au Gabon jusqu'à 80 m d'altitude, ailleurs en Afrique jusqu'à 1700 m
-
-Usage : Dans toute l'Afrique tropicale, l'espèce est employée comme analgésique (rhumatismes), comme diurétique et pour traiter de nombreuses affections de la peau : pian, urticaire, gale, ulcères, eczéma, impétigo. Il y a de grandes variations dans les parties de la plante utilisées, ainsi que dans les modes de préparation et d'administration. Au Gabon, on utilise les feuilles réduites en poudre pour traiter traditionnellement les gencives infectées. La plante est fréquemment utilisée en médecine créole. Les feuilles sont chauffées, froissées et pressées pour en extraire le jus que l'on applique sur les yeux pour soigner les conjonctivites ou calmer la douleur. À d'autres fins, le jus obtenu en écrasant les feuilles est mélangé avec de l'huile de coco et additionné d'un peu de sel. On fait boire le tout aux enfants pour soigner le rhume, la grippe la toux. L'infusion des feuilles serait efficace contre l'asthme et celle-ci serait indiquée comme antihémorragique.
+Uses: Throughout tropical Africa, the species is employed as an analgesic (for rheumatism), as a diuretic and to treat numerous skin affections: yaws, urticaria, scabies, ulcers, eczema, impetigo. There is great variation in the plant parts used, as well as in the modes of preparation and administration. In Gabon, the leaves reduced to powder are traditionally used to treat infected gums. The plant is frequently used in Creole medicine. The leaves are heated, crushed and pressed to extract the juice which is applied to the eyes to treat conjunctivitis or relieve pain. For other purposes, the juice obtained by crushing the leaves is mixed with coconut oil and supplemented with a little salt. The whole mixture is given to children to treat colds, influenza and cough. The infusion of the leaves is reportedly effective against asthma and it is indicated as a hemostatic.
 
 ## Vernacular names
 

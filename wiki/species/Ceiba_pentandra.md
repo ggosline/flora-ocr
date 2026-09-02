@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bombax pentandrum L., Sp. Pl. : 511 (1753).
 
 — Eriodendron pentandrum (L.) Kurz, Journ. Ass. Soc. Bengal. 43 : 113 (1874).
 
 — Xylon pentandrum (L.) O. KTZE., Rev. Gen. Pl. 1 : 75 (1891).
 
-— Ceiba pentandra (L.) GAERT. var. clausa ULBR. fæ. albolana et grisea ULBR., Notizb. Bot. Gart. Berl. 6 : 30 (1913).
+— Ceiba pentandra (L.) GAERT. var. clausa ULBR. f. albolana et grisea ULBR., Notizb. Bot. Gart. Berl. 6 : 30 (1913).
 
-— — var. dehiscens Ulbr. fæ. albolana et grisea UlBR., l.c. 6 : 31(1913).
+— — var. dehiscens Ulbr. f. albolana et grisea UlBR., l.c. 6 : 31 (1913).
 
 — Ceiba casearia MEDIK., Malv. fam.: 16 (1787).
 
@@ -55,7 +53,7 @@ tags: [species, generated]
 
 — Eriodendron orientale (SPRENG.) KOSTEL, Algem. Med.-Pharm. Fl. : 1875 (1836).
 
-— Bombax guineense Thonning, in Schumacher, Kong. Dansk. Vid. Selskrabs. Nat. Math. Abhandl. 4:76 (1829).
+— Bombax guineense Thonning, in Schumacher, Kong. Dansk. Vid. Selskrabs. Nat. Math. Abhandl. 4 : 76 (1829).
 
 — Eriodendron guineense (Thonning) G. Don ex Loud., Hort. Brit.: 292 (1830).
 
@@ -67,15 +65,13 @@ tags: [species, generated]
 
 — Ceiba thonningii CHEV. l.c. 17 : 249 (1937).
 
-Grand arbre atteignant une hauteur de 50 m et un diamètre de 2 m. Fût droit et cylindrique, le plus souvent porteur d'épines coniques dures disparaissant avec l'âge ou inermé. Contreforts ailés à la base du tronc, le plus fréquemment de grande taille, parfois réduits. Rhytidome blanc grisâtre, lisse chez un arbre jeune. Ramifications étagées chez le sujet jeune, disparaissant progressivement avec l'âge. Jeunes rameaux pubescents. Houppier ample, de forme trapézoïdale ou aplatie chez le sujet âgé. Stipules étroitement lancéolées, pubescentes extérieurement surtout sur la carène médiane et glabres intérieurement, tôt caduques, laissant une forte cicatrice. Feuilles composées-digitées à 7-9 folioles. Pétiole long de 5,5-25 cm, épaissi au sommet, faiblement pubescent dans les jeunes feuilles et glabre dans les feuilles âgées, ± sillonné, cylindrique. Pétioiules glabres, longs de 1-6 mm, canaliculés dessus, marqués d'une crête médiane dessous. Folioles glabres sur les deux faces, marron verdâtre à marron roux ± luisantes dessus et vert grisâtre à marron dessous à l'état sec, blancéolées à elliptiques le plus souvent, 4-15 × 1-3 cm, base atténuée à cunéiforme, bord entier ou denté chez les jeunes feuilles et sommet aigu mucroné. Nervure médiane saillante sur les deux faces; nervures secondaires 14-16 paires, peu ascendantes, peu arquées, s'anastomosant en arceaux à 1-2 mm du bord du limbe. Nervilles saillantes sur les deux faces en réseau lâche à mailles polygonales bien visibles.
+Large tree reaching a height of 50 m and a diameter of 2 m. Trunk straight and cylindrical, most often bearing hard conical spines disappearing with age or unarmed. Winged buttresses at the base of the trunk, most frequently of large size, sometimes reduced. Bark white-greyish, smooth on a young tree. Branching tiered on a young specimen, progressively disappearing with age. Young branchlets pubescent. Crown ample, of trapezoidal or flattened form on an aged specimen. Stipules narrowly lanceolate, pubescent externally especially on the midrib and glabrous internally, early caducous, leaving a strong scar. Leaves digitately compound with 7-9 leaflets. Petiole 5.5-25 cm long, thickened at the apex, weakly pubescent in young leaves and glabrous in older leaves, ± grooved, cylindrical. Petiolules glabrous, 1-6 mm long, canaliculate above, marked with a median ridge below. Leaflets glabrous on both surfaces, brownish-green to reddish-brown ± lustrous above and greyish-green to brown below when dry, lanceolate to elliptic most often, 4-15 × 1-3 cm, base attenuate to cuneate, margin entire or toothed on young leaves and apex acute mucronate. Midvein prominent on both surfaces; secondary veins 14-16 pairs, slightly ascending, slightly arcuate, anastomosing in arches 1-2 mm from the leaf margin. Veinlets prominent on both surfaces in loose network with well-visible polygonal meshes.
 
-Inflorescences en courtes grappes ou fascicules ombelliformes multiflores sur les rameaux défeuillés. Pédicelle floral long de 2,5-4 cm, glabre, porteur de cicatrices bractéolaires. Bouton floral ellipsoïde ou globuleux, apiculé au sommet. Fleurs ♀, pentamères, actinomorphes, blanches. Calice à
+Inflorescences in short racemes or multiflorous umbelliform fascicles on the leafless branchlets. Floral pedicel 2.5-4 cm long, glabrous, bearing bracteal scars. Floral bud ellipsoid or globose, apiculate at the apex. Flowers ♀, pentamerous, actinomorphic, white. Calyx with 5 sepals united to each other except at the apex, glabrous externally and pubescent internally (long silky hairs at the base and shorter more scattered hairs at the apex), calyx lobes deltoid, ± acute at the apex. Petals 5, woolly externally (hairs reflected toward the base of the petal in the contorted zone of the petals, erect elsewhere, becoming reflected toward the glabrous base), free from each other, united at the base to the stamen tube, oblanceolate, 2-3.5 cm long, concave, apex rounded. Stamens 10-15, united in a short stamen tube dividing into 5 alternipetals phalanges 1.5-3.5 cm long, composed of 2-3 stamens completely fused over the entire length of the filaments; anthers monotheca. Ovary semi-inferior ± fused at its lower part to the calyx, glabrous, 5-locular, each locule multiovulate. Style as long as the stamens, slender at the base and thickening above the stamen tube.
 
-5 sépales soudés entre eux sauf au sommet, glabres extérieurement et pubescents intérieurement (poils longs soyeux à la base et poils plus courts et plus épars au sommet), lobes calicinaux deltoïdes, ± aigus au sommet. Pétales 5, laineux extérieurement (poils réfléchis vers la base du pétale dans la zone contortés des pétales, dressés ailleurs, devenant réfléchis vers la base glabre), libres entre eux, soudés à la base au tube staminal, oblancéolés, longs de 2-3,5 cm concaves, sommet arrondi. Étamines 10-15, unies en tube staminal court se divisant en 5 phalanges alternipétales longues de 1,5-3,5 cm, composées de 2-3 étamines entièrement soudées sur toute la longueur des filets; anthères monothèques. Ovaire semi-infère ± soudé à sa partie inférieure au calice, glabre, 5-loculaire, chaque loge multioulée. Style aussi long que les étamines, grêle à la base et s'épaississant au-dessus du tube staminal.
+Capsule subwoody, ellipsoid or fusiform, 10-26(-60) cm long with basal dehiscence; valves brownish multiseeded. Seeds globose smooth, sometimes constricted in the middle, dark brown-black. Kapok greyish abundant.
 
-Capsule subligneuse, ellipsoïde ou fusiforme, longue de 10-26(-60) cm à déhiscence basale; valves brunâtres multispermes. Graines globuleuses lisses, parfois étranglées au milieu, brun-noirâtre. Kapok grisâtre abondant.
-
-Plantule à hypocotyle long de 4,5-6,5 cm, rougeâtre; cotylédons opposés, largement lancéolés, à base subcordée,  $ 3 \times 3 $ cm avec pétioles longs de 1,5 cm; premières feuilles trifoliolées. PL. 9, 1, 4, p. 35; PL. 10, p. 37.
+Seedling with hypocotyl 4.5-6.5 cm long, reddish; cotyledons opposite, broadly lanceolate, subcordate at base, 3 × 3 cm with petioles 1.5 cm long; first leaves trifoliolate. PL. 9, 1, 4, p. 35; PL. 10, p. 37.
 
 ## Type
 
@@ -83,11 +79,9 @@ pas de lectotype désigné à notre connaissance $ ^{1} $
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The kapok tree, native to America, is a secondary bush plant. It is rarely encountered in primary forest. It is a light-demanding species that invades clearings and areas occupied or worked by man. Its growth is very rapid. It fears bush fires. Its range extends to all intertropical regions.
 
-Le fromager, originaire d'Amérique, est une plante de brousse secondaire. On la rencontre rarement en forêt primaire. C'est une espèce de lumière qui envahit les clairières et les zones occupées ou travaillées par l'homme. Sa croissance est très rapide. Elle craint les feux de brousse. Son aire s'étend à toutes les régions intertropicales.
-
-1. L’herbier de LINNÉ ne contient pas de Bombax. LINNÉ considérait déjà son espèce comme présente tant en Amérique qu'en Asie; cependant les données les plus anciennes et les plus complètes dont il disposait étant d'origine asiatique, les planches publiées par RHEEDE, Hort. malab. 3 : 59, tab. 49-51 (1682), pourraient constituer un lectotype acceptable, si toutefois l'herbier de CLIFFORD ne contient aucun spécimen en rapport avec le protologue linnéen (N.D.L.R.).
+1. LINNÉ's herbarium does not contain a Bombax. LINNÉ already considered his species as present both in America and Asia; however the oldest and most complete data at his disposal being of Asian origin, the plates published by RHEEDE, Hort. malab. 3 : 59, tab. 49-51 (1682), could constitute an acceptable lectotype, provided the CLIFFORD herbarium contains no specimen related to the Linnaean protologue (Editor's note).
 
 J.-F. VILLIERS
 
@@ -97,9 +91,7 @@ fromager, kapokier, faux cotonnier, arbre à ouate; oguma (mpongwè, galoa, nkom
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le bois blanc et léger est utilisé pour la fabrication des pirogues. Le kapok est vendu pour garnir les matelas, ou filé pour confectionner des sacs. L'écorce peut constituer des cloisons pour les cases. La décoction de celle-ci est un vomitif; elle est aussi administrée en lavement. De l'huile est extraite des graines. En outre c'est un arbre sacré qui, planté dans un village, indique la naissance de jumeaux
+The white and light wood is used for the manufacture of dugout canoes. The kapok is sold to stuff mattresses, or spun to make sacks. The bark can form partitions for huts. A decoction of it is an emetic; it is also administered as an enema. Oil is extracted from the seeds. Furthermore it is a sacred tree which, planted in a village, indicates the birth of twins.
 
 ## Specimens examined
 

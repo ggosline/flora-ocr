@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Hypolytrum secans (K.Schum.) J.Raynal, Adansonia sér. 2, 8 : 429 (1968). H. rhizomatanthum Cherm., Bull. Soc. Bot. France 80 : 508 (1933). Herbe robuste, à rhizome ligneux, épais de 1 cm environ ; tiges 1–10, latérales , naissant à l’aisselle des vieilles feuilles basales, 5–40 cm × 0,5–1,5 mm, triangulaires à cylindriques, vertes, lisses à légèrement scabres sous l’inflorescence, la partie basale couverte par 5–15 gaines (cataphylles) se chevauchant nettement, brunes à violacées. Feuilles basales, nombreuses ; gaine peu distincte, parfois brun rougeâtre sombre sur la marge ; limbe le plus grand de 50–90 × 1–2,5 cm, vert, à surface presque lisse, à marge nettement scabre, progressivement rétréci en un sommet aigu. Inflorescence terminale, en tête globuleuse à hémisphérique, large de 1–2 cm , composée de 10–50 épis, plus rarement en tête irrégulière avec des rameaux latéraux courts, large alors de 3 cm ; bractées involucrales plusieurs, peu développées, généralement plus courtes que l’inflorescence, brun rougeâtre ou violettes ; épis ovoïdes, 5–8 × 2–3 mm, bruns à brun clair, généralement composés de 10–20 spicoïdes serrés ; bractées spicoïdales ovoïdes, 2–2,5 × 1–1,5 mm, brunes devenant parfois violacées à maturité, obtuses et jaune paille au sommet. Fleur : bractées florales 2 ; style à 2 branches. Akène obovoïde, 2–2,9 × 1,2–1,9 mm, à base cunéiforme proéminente, brun rougeâtre foncé à noirâtre à maturité, tuberculé avec des crêtes longitudinales faibles.
+Hypolytrum secans (K.Schum.) J.Raynal, Adansonia sér. 2, 8 : 429 (1968). H. rhizomatanthum Cherm., Bull. Soc. Bot. France 80 : 508 (1933). Robust herb, with woody rhizome, about 1 cm thick; stems 1–10, lateral, arising at the axil of old basal leaves, 5–40 cm × 0.5–1.5 mm, triangular to cylindric, green, smooth to slightly scabrous below the inflorescence, basal part covered by 5–15 sheaths (cataphylls) clearly overlapping, brown to violet. Basal leaves, numerous; sheath indistinct, sometimes dark reddish-brown on the margin; largest blade 50–90 × 1–2.5 cm, green, surface nearly smooth, margin distinctly scabrous, gradually narrowed to an acute apex. Inflorescence terminal, in a globose to hemispherical head, 1–2 cm broad, composed of 10–50 spikes, more rarely in an irregular head with short lateral branches, then 3 cm broad; involucral bracts several, poorly developed, generally shorter than the inflorescence, reddish-brown or violet; spikes ovoid, 5–8 × 2–3 mm, brown to light brown, generally composed of 10–20 crowded spikelets; spikelet bracts ovoid, 2–2.5 × 1–1.5 mm, brown becoming sometimes violet at maturity, obtuse and pale yellow at the apex. Flower: floral bracts 2; style 2-branched. Achene obovoid, 2–2.9 × 1.2–1.9 mm, with prominent cuneate base, dark reddish-brown to blackish at maturity, tuberculate with weak longitudinal ridges.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; assez largement répandue au Gabon, trouvée dans l’Estuaire, l’Ogooué-Lolo, l’Ogooué-Maritime et le Woleu-Ntem (5 récoltes)
+Cameroon and Gabon; fairly widely distributed in Gabon, found in Estuaire, Ogooué-Lolo, Ogooué-Maritime and Woleu-Ntem (5 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts marécageuses, quelquefois le long des cours d’eau et au bord des mares ; à 0–700 m d’altitude. Note taxonomique : très proche de M. pynaertii , elle en diffère par ses gaines violacées à la base des tiges, les bractées involucrales pourpres à violettes, et les akènes plus petits avec des motifs de couleur différents. b : Nelmes (1955a), Raynal (1968b). ibliographie
+swamp forests, sometimes along watercourses and at the edge of pools; at 0–700 m altitude. Taxonomic note: very close to M. pynaertii, it differs by its violet sheaths at the base of the stems, the involucral bracts purple to violet, and the smaller achenes with different colour patterns. b: Nelmes (1955a), Raynal (1968b). Bibliography
 
 ## Notes
 

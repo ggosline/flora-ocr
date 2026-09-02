@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste à rhizome tubéreux et irrégulier. Feuille à pétiole assez robuste, glabre ; limbe ± circulaire à largement elliptique, les adultes 7–19(–21) × 5–16(–17,8) cm, non ou légèrement pelté, coriace, vert pâle à brun à la face supérieure, rouge foncé à violet sombre ou vert tacheté de violet ou vert à la face inférieure, point d´insertion du pétiole au dessus d´abord en touffe de poils et avec une groupe de bulbilles , puis pouvant émettre des petites feuilles, sommet arrondi, base hastée, lobes latéraux aigus, généralement divergents, rarement jointifs, marge entière , glabre ; nervation palmée, proéminente surtout à la face inférieure, 5–7 nervures latérales, 5–7 nervures secondaires de part et d´autre de la nervure médiane. Fleur (3,5–)5–10 cm de diamètre ; pédicelle glabre ; sépales 4–5, lancéolés, (3–)3,5–5,5 × 1–2 cm, l’extérieur vert avec des taches violet foncé, sommet obtus, glabre ; pétales 10 et parfois plus, oblong-lancéolés, à peu près les ⅔ des sépales mais parfois les égalant, bleus, rose vif ou parfois blancs, les plus externes sépaloïdes, sommet aigu à obtus ; étamines 30–40, anthères jaunes, à connectif linguiforme ; carpelles 15–20. Fruit globuleux, d’environ 3–4 cm de diamètre. Graines rouge foncé à noires.
+Fairly robust herb with tuberous and irregular rhizome. Leaf with fairly robust, glabrous petiole; blade ± circular to broadly elliptic, the mature ones 7–19(–21) × 5–16(–17.8) cm, non or slightly peltate, coriaceous, pale green to brown on the upper surface, dark red to dark violet or green spotted with violet or green on the lower surface, point of insertion of the petiole above at first in a tuft of hairs and with a group of bulbils, then able to produce small leaves, apex rounded, base hastate, lateral lobes acute, generally divergent, rarely contiguous, margin entire, glabrous; palmate venation, prominent especially on the lower surface, 5–7 lateral nerves, 5–7 secondary nerves on each side of the midrib. Flower (3.5–)5–10 cm in diameter; pedicel glabrous; sepals 4–5, lanceolate, (3–)3.5–5.5 × 1–2 cm, the outer ones green with dark violet spots, apex obtuse, glabrous; petals 10 and sometimes more, oblong-lanceolate, approximately ⅔ the length of the sepals but sometimes equalling them, blue, bright pink or sometimes white, the outermost sepaloid, apex acute to obtuse; stamens 30–40, anthers yellow, with liguliform connective; carpels 15–20. Fruit globose, approximately 3–4 cm in diameter. Seeds dark red to black.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal jusqu’au Tchad, Cameroun et Gabon ; au Gabon, observée dans la région de Port-Gentil (Ogooué-Maritime)
+from Senegal to Chad, Cameroon and Gabon; in Gabon, observed in the Port-Gentil region (Ogooué-Maritime)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mares dans les plaines, lacs, anses tranquilles des rivières, jusqu’à 350 m d’altitude. Usage : en Côte d’Ivoire, la décoction des tiges et de feuilles est consommée pour des troubles respiratoires tels que la toux, comme vermifuge et contre les convulsions chez l´enfant
+pools in plains, lakes, quiet inlets of rivers, up to 350 m altitude. Uses: in Côte d'Ivoire, a decoction of stems and leaves is consumed for respiratory disorders such as cough, as an anthelmintic and against convulsions in children
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ D´après Raponda-Walker & Sillans (1961) les noms vernaculaires de N. lotus s�
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Graine (× 12). Nymphaea lotus : 8. Feuille, partie de la face inférieure (× ⅔). – 9. Étamine externe (× 2). (1–3 : Greenway & Kanuri 11255 ; 4–7 Verdcourt 80 ; 8, 9 : Verdcourt 3195 ). Dessin par Maureen Church (©), reproduite avec permission à partir de Verdcourt (1989).
+Seed (× 12). Nymphaea lotus: 8. Leaf, part of the lower surface (× ⅔). – 9. Outer stamen (× 2). (1–3: Greenway & Kanuri 11255; 4–7 Verdcourt 80; 8, 9: Verdcourt 3195). Drawing by Maureen Church (©), reproduced with permission from Verdcourt (1989).
 
 ## Notes
 

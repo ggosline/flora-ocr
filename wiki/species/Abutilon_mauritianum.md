@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-p.p. Herbe ou suffrutex , haut de 0,6 ‒ 3,5 m, souvent très ramifié, lignifié à la base, toute la plante (jeune) pourvue d’un fin tomentum velouté. Feuille : pétiole environ 4/5 de la longueur de la nervure principale ; limbe 2 ‒ 18 × 1,5 ‒ 16 cm, papyracé, base cordée, sommet longuement acuminé, à poils étoilés, indument dense sur les deux faces, blanchâtre en dessous, marge légèrement serrulée. Fleur solitaire, axillaire ; pédicelle 6 ‒ 10 cm, articulé à 1 ‒ 1.5 cm du sommet ; calice campanulé, sépales ovales-lancéolés, 6 ‒ 12 × 3 ‒ 6 mm, acuminés, verdâtres ; pétales 14 ‒ 20 mm, jaunes parfois rouges à la base ou sur les nervures ; tube staminal 6 mm de longueur, à base très élargie, partie libre des filets 3 ‒ 5 mm, en bouquet ombelliforme ; ovaire à 5 ‒ 30 carpelles multi-ovulées ; style à stigmates ponctiformes. Fruit dépassant le calice , d’abord cylindrique, concave au centre, presque glabre, 2,5 ‒ 3,5 cm de diamètre, 10 ‒ 17 mm de longueur, hérissé au sommet par les arêtes des méricarpes de 1,5 ‒ 5 mm, couverts de poils gris, puis à maturité formant une étoile noire brillante . Graines 2 ‒ 3 par carpelle , réniformes, finement échinulées, brun foncé.
+p.p. Herb or suffrutex, 0.6–3.5 m tall, often very much branched, lignified at the base, the entire (young) plant provided with fine velvety tomentum. Leaf: petiole approximately 4/5 the length of the main vein; lamina 2–18 × 1.5–16 cm, papyraceous, base cordate, apex long-acuminate, with stellate hairs, indumentum dense on both faces, whitish below, margin slightly serrulate. Flower solitary, axillary; pedicel 6–10 cm, articulate at 1–1.5 cm from the apex; calyx campanulate, sepals ovate-lanceolate, 6–12 × 3–6 mm, acuminate, greenish; petals 14–20 mm, yellow sometimes red at the base or on the veins; staminal tube 6 mm long, with very much widened base, free part of filaments 3–5 mm, in umbelliform cluster; ovary with 5–30 carpels multi-ovulate; style with punctiform stigmas. Fruit exceeding the calyx, at first cylindrical, concave at the centre, almost glabrous, 2.5–3.5 cm in diameter, 10–17 mm long, bristly at the apex by the awns of the mericarps 1.5–5 mm, covered with grey hairs, then at maturity forming a shiny black star. Seeds 2–3 per carpel, reniform, finely echinulate, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce pantropicale, répandue dans toute l’Afrique tropicale et l’île Maurice ; au Gabon connue de l’Estuaire, l’Ogooué-Ivindo et l’Ogooué-Maritime, assez commune et anthropophile
+Pantropical species, widespread throughout tropical Africa and Mauritius Island; in Gabon known from Estuaire, Ogooué-Ivindo and Ogooué-Maritime, fairly common and anthropophile.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ou savanes boisées, jachères, cultures, villages, bords des routes, plages des lacs ; jusqu’à 2000 m d’altitude. Fleurs et fruits toute l’année. Usage : Les feuilles sont utilisées pour soigner les plaies provenant de piqûre d’épines ou d’arêtes de poisson. Les feuilles seraient comestibles. Les tiges fournissent une très bonne fibre, utilisée pour la confection de hamacs. Elles sont également utilisées comme cure-dents
+Savannas or wooded savannas, fallows, cultivations, villages, roadsides, lakeshores; up to 2000 m altitude. Flowers and fruits year-round. Uses: The leaves are used to treat wounds from thorn pricks or fish spine injuries. The leaves are said to be edible. The stems provide a very good fibre, used for making hammocks. They are also used as toothpicks.
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ mauve des champs (fr.) ; dongi, momadèté (béséki), dundópi (bapunu, bavungu
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-békè-mè-gwè (bakèlè), liwanga-téna (loango), mudongi (ngowé), mwólu (éshiraMgo’is, bavarama), ndjoa (ivéa), nzisim (ngowé), nzisim, odongi (mpongwè, galoa, nkomi, orungu), póndubuga (balumbu), tsivi-lla-tava (bavili), udongi (benga). B : Akoègninou et al. (2006), Exell & Meeuse (1961), Raponda-Walker & i B liographie Sillans (1961), Verdcourt (2009).
+békè-mè-gwè (bakèlè), liwanga-téna (loango), mudongi (ngowé), mwólu (éshiraMgo'is, bavarama), ndjoa (ivéa), nzisim (ngowé), nzisim, odongi (mpongwè, galoa, nkomi, orungu), póndubuga (balumbu), tsivi-lla-tava (bavili), udongi (benga). B: Akoègninou et al. (2006), Exell & Meeuse (1961), Raponda-Walker & Sillans (1961), Verdcourt (2009).
 
 ## Notes
 

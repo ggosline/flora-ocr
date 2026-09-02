@@ -17,28 +17,26 @@ tags: [species, generated]
 
 ## Synonyms
 
-- Annona arenaria auct.:Robyns et Ghesquiere，Bull. Soc. Roy. Bot. Belg.67 : 22,fig. 2 (1934),incl.var.obtusa.— Pellegrin,Bull. Soc.Bot. Fr.95:138 (1948).- Aubréville,Fl. Forest. Soud.Guin :4o (195o).— Boutique,Fl. Congo Belge 2 : 271 (1951)；Keay,F.W.T.A.,ed. 2,1,1 : 52 (1954).- R.E. Fries in Engler et Prantl, Nat. Pflanzenf.,ed 2,17 a, 2:147 (1959).- Paiva,Mem.Soc.Brot.I9 :Io9 (1966)；non Thonning in Schumacher,Beskr. Guin.Pl. 2 : 31 (1827).
+- Annona arenaria auct.:Robyns et Ghesquiere,Bull. Soc. Roy. Bot. Belg.67 : 22,fig. 2 (1934),incl.var.obtusa.— Pellegrin,Bull. Soc.Bot. Fr.95:138 (1948).- Aubréville,Fl. Forest. Soud.Guin :4o (195o).— Boutique,Fl. Congo Belge 2 : 271 (1951);Keay,F.W.T.A.,ed. 2,1,1 : 52 (1954).- R.E. Fries in Engler et Prantl, Nat. Pflanzenf.,ed 2,17 a, 2:147 (1959).- Paiva,Mem.Soc.Brot.I9 :Io9 (1966);non Thonning in Schumacher,Beskr. Guin.Pl. 2 : 31 (1827).
 - Annona senegalensis var.arenaria (Thonn.) Sillans,Bull. Mus.Nat.Hist. Nat.Paris 24: 581 (1952).- Tisserant et Sillans,1.c.:34o (1958).
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Persoon, Syn. Pl. 2: 95 (1807).— Engler et Diels, in Engler Monogr. Afr. Pflanzenf. 6: 78 (1901).— Sillans, Bull. Mus. Nat. Hist. Nat. Paris 24: 581 (1952).— Tisserant et Sillans, Not. Syst. 15: 339 (1958).— Le Thomas, Adansonia, ser. 2, 9: 97 (1969).
 
-Persoon,Syn.Pl.2 :95 (18o7).- Engler et Diels,in Engler Monogr.Afr. Pflanzenf.6:78 (19o1).— Sillans,Bull. Mus.Nat.Hist.Nat.Paris 24 : 581(1952).- Tisserant et Sillans,Not.Syst.15 :339 (1958).- Lc Thomas,Adansonia,ser. 2,9 : 97 (1969).
+ssp. oulotricha Le Thomas, subsp. nov 1.
 
-ssp. oulotricha Le Thomas, subsp.nov 1.
+Le Thomas, Adansonia, ser. 2, 9: 100 (1969), nom. nud.
 
-Le Thomas,Adansonia,ser.2,9 :Ioo (196g),nom. nud.
+This subspecies differs from ssp. senegalensis by the lower leaf surface densely tomentose, clothed entirely with very short, crisp hairs.
 
-Assp.senegalensi differt foliorum pagina inferiore dense tomentosa pilis brevissimis crispis omnino vestita.
+Type: Bouquet 513, Edge of the M'bote, Congo-Brazzaville (holotype P!) isotype IRSC).
 
-Typus : Bouquet 513, Bord de la M'bote,Congo-Brazzaville (holotypus P!) isotypus IRSC).
+Shrub or suffrutex 1–6 (8) m tall; branches glabrous, branchlets tomentose, rusty ferrugineous. Leaves with petiole 7–20 mm long, ± tomentose-ferrugineous; blade papyraceous to coriaceous, orbicular, broadly ovate, oblong-obovate to elliptic, 6–20 cm long, 5–12 cm wide, obtuse, rounded or slightly emarginate at the apex, cordate, subcordate, to rounded at the base; upper surface finely puberulent, lower surface covered over the entire surface with a thick tomentum of very short and crisp hairs, silvery grey. Lateral nerves 8–15 pairs, impressed above, prominent below; reticulum ± dense, prominent on the lower face.
 
-Arbuste ou sous-arbrisseau de I-6 (8) m de hauteur; rameaux glabres,ramilles tomenteuses roux ferrugineux.Feuilles ä pétiole long de 7-2o mm，± tomenteux-ferrugineux; limbe papyracé ä coriace,orbiculaire,largement ovale,oblong-obovale ä elliptiquc, long de 6-2o cm,large de 5-12 cm,obtus,arrondi ou légeremcnt émarginé au sommct,cordé,subcordé,ä arrondi a la base； face supérieure finement pubérulente，face inférieure couverte sur toute la surface d'un tomentum épais de poils tres courts et crépus, gris argenté. Ncrvures latérales 8-15 paires, imprimées au-dessus, proéminentes en dessous；réticulum ± dense,saillant ä la facc inférieure.
+Flowers solitary or geminate, more rarely 3–4-fasciculate, with pedicel 1–2.5 cm long, erect or ± reflexed, tomentose-ferrugineous, furnished with 2 bracteoles at the base, ovate-lanceolate, 2.5–5 mm long, 2–3 mm wide, tomentose-ferrugineous on the outside, glabrous on the inside. Sepals triangular-ovate, 3–5 mm in diameter, tomentose-ferrugineous on the outside, glabrous on the inside. Petals yellowish-green, fleshy; outer ones broadly ovate, concave, obtuse at the apex, 10–15 mm long, 8–10 mm wide, tomentose on the outside, glabrous on the inside; inner ones narrowly oblong, almost triquetrous, 8–10 mm long, ca. 3 mm wide, glabrous. Stamens narrowly linear, 2–2.5 mm long, filament short, thecae extrorse, unequal at the base, connective enlarged above the anthers and finely papillose. Carpels cylindric, 1–1.5 mm long, pubescent.
 
-Fleurs solitaires ou géminées, plus rarement 3-4-fasciculées, â pédicelle long de 1-2,5 cm，érigé ou ± réfléchi， tomenteuxferrugineux,muni de 2 bractéoles á la base,ovées-lancéolées, longues de 2,5-5 mm larges de 2-3 mm, tomenteuses-ferrugineuses â l'exterieur,glabres á l'intérieur. Sépales triangulaires-ovés,de 3-5 mm de diametre, tomenteux-ferrugineux ä l'extérieur,glabres a l'interieur. Pétales jaune verdatre, charnus； les externes largement oves，concaves，obtus au sommet， longs de Io-15 mm, larges de 8-1o mm, tomenteux á l'extérieur, glabres á 'interieur; les internes étroitement oblongs， presque triquetres， longs de 8-10 mm,larges de 3 mm environ，glabres.Etamines linéaires étroites， longues de 2-2,5 mm， filet court， theques extrorses, inégales a la base,connectif élargi au-dessus des antheres et finement papilleux. Carpelles cylindriques,longs de 1-1,5 mm,pubescents.
-
-Fruits ä pedicelle long de 1,5-3 cm，pubescent. Syncarpe jaune orangé á maturité,ovoide ou globuleux,aréolé,légerement tuberculé,de 3-5 cm de diamétre,tomentelleux-ferrugineux ä glabrescent. Nombreuses graines oblongues,aplaties, longues de 8-11 mm,larges de 4-5 mm,ä testa lisse,brun clair; arille pectiné, long de 2 mm environ.
+Fruits with pedicel 1.5–3 cm long, pubescent. Syncarp yellow-orange at maturity, ovoid or globose, areolate, slightly tuberculate, 3–5 cm in diameter, tomentulose-ferrugineous to glabrescent. Numerous seeds oblong, flattened, 8–11 mm long, 4–5 mm wide, with smooth testa, light brown; aril pectinate, ca. 2 mm long.
 
 ## Type
 
@@ -48,17 +46,13 @@ in herb.LINN
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Whereas the typical subspecies is very widely distributed in the Sudano-Guinean savannas and extends from Senegal to the Anglo-Egyptian Sudan toward the east, and all along the eastern coast to Madagascar in the south, the subspecies oulotricha invades savannas at the limit of dense humid forest, in Sierra Leone, French Guinea, Ivory Coast, with a zone of predilection around the Cameroon-Congolese forest massif, south of Cameroon, in the Central African Republic, in the Gabonese savannas, in the Congolese Mayombe, to Lower Katanga and in Cabinda.
 
-Alors que la sous-espece type est tres largement répandue dans les savanes soudano-guinéennes et s'étend du Sénégal au Soudan anglo-égyptien vers l'est, et tout le long de la cote orientale jusqu'a Madagascar au sud,la sous-espece oulotricha envahit les savanes á la limite de la forét dense humide,en Sierra Leone,
+The Soursop, fruit of A. muricata, has white, fibrous pulp, pleasantly perfumed, with an acidic taste. It is used as a febrifuge. Gathered before maturity, dried and reduced to powder, it is used against dysentery.
 
-Guinée frangaise,Cote d'Ivoire avec une zone de prédilection autour du massif forestier camerouno-congolais，au sud du Cameroun,en République centrafricaine,dans les savanes gabonaises， au Mayombe congolais, jusqu'au Bas-Katanga et en Cabinda.
+The flowers and buds are used against cough, and the leaves mixed with those of the lemon tree serve to make a calming tisane in fevers.
 
-Le Corossol, fruit de A. muricata,a une pulpe blanche, fibreuse,agréablement parfumée,d'un gout acide.Il est utilisé comme fébrifuge.Ceuilli avant maturité， séché et réduit en poudre,on l'utilise contre la dysenterie.
-
-Les fleurs et les bourgeons sont utilisés contre la toux,et les feuilles mélangées ä celles du citronnier servent á faire une tisane calmante dans les fievres.
-
-Espece originaire des Antilles,d'Amérique centrale et des régions tropicales d'Amérique.
+Species native to the West Indies, Central America, and tropical regions of America.
 
 ## Specimens examined
 
@@ -66,13 +60,13 @@ Aubréville I63,région de Tchibanga. Autran I2,région dc Librcville. Le Testu 
 
 ESPECES CULTIVEES
 
-3．Annona muricata L. Corossolier
+3.Annona muricata L. Corossolier
 
-Sp.Pl.ed.I :536(1753)；R.E.Fries,Act.Hort.Berg.I0 :201 (1931).- Walker et Sillans,Enc.Biol.56 :62 (1961).
+Sp.Pl.ed.I :536(1753);R.E.Fries,Act.Hort.Berg.I0 :201 (1931).- Walker et Sillans,Enc.Biol.56 :62 (1961).
 
-Petit arbre ou arbuste atteignant 8 m de hauteur á ramilles pubescentes ferrugineuses,devenant glabres.Feuilles á pétiole long de 5-6 mm； limbe papyracé,obové a obové-oblong,courtement et obtusément acuminé au sommet,aigu ä la base,long de 8-15 cm, large de 3-6 cm, glabre et luisant a la face supérieure, glabrescent á la face inférieure. Nervures latérales 9-II paires, planes au-dessus et peu visibles,peu saillantes en dessous.
+Petit arbre ou arbuste atteignant 8 m de hauteur á ramilles pubescentes ferrugineuses,devenant glabres.Feuilles á pétiole long de 5-6 mm; limbe papyracé,obové a obové-oblong,courtement et obtusément acuminé au sommet,aigu ä la base,long de 8-15 cm, large de 3-6 cm, glabre et luisant a la face supérieure, glabrescent á la face inférieure. Nervures latérales 9-II paires, planes au-dessus et peu visibles,peu saillantes en dessous.
 
-Fleurs blanchatres，solitaires, terminales ou oppositifoliees, a pédicelle épais, long de 1,5-2,5 cm. Sépales largement ovés longs de 3-5 mm,aigus au sommet. Pétales externes épais,ovésarrondis,cordes ^ la base,acumines au sommet, longs de 2,5- 3,5 cm,larges de 1,8-2,5 cm,les internes plus courts,légerement onguiculés a la base.Etamines linéaires,longues de 6 mm,connectif papilleux. Carpelles ä ovaires velus, longs de 2 mm environ, stigmates prismatiques,longs de 1,2 mm.
+Fleurs blanchatres,solitaires, terminales ou oppositifoliees, a pédicelle épais, long de 1,5-2,5 cm. Sépales largement ovés longs de 3-5 mm,aigus au sommet. Pétales externes épais,ovésarrondis,cordes ^ la base,acumines au sommet, longs de 2,5- 3,5 cm,larges de 1,8-2,5 cm,les internes plus courts,légerement onguiculés a la base.Etamines linéaires,longues de 6 mm,connectif papilleux. Carpelles ä ovaires velus, longs de 2 mm environ, stigmates prismatiques,longs de 1,2 mm.
 
 Fruits ovoides a ovoides-oblongs, verts, muriques-epineux, longs de 15-20 cm.
 

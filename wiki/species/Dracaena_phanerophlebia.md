@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr. 7 : 448 (1898). Pleomele phanerophlebia (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Arbuste jusqu’à 1 m de hauteur ; tronc solitaire, généralement simple , jusqu’à ± 20 cm de hauteur, visible seulement dans les 10 cm basaux chez les spécimens plus âgés ; racines orange. Feuilles : jusqu’à 8, disposées en rosette , cachant la tige par leurs bases, uniformément réparties et chevauchantes ; gaine embrassant la tige sur nettement plus que la circonférence , sur une longueur de ± 1,5 cm ; pseudopétiole dressé, jusqu’à 37 cm, cylindrique, mince à solide, vert foncé, bords involutés, la base passant graduellement à la gaine ; limbe horizontal, arqué, condupliqué, largement ovale , jusqu’à 26 × 16 cm, base arrondie à subcordée, sommet progressivement rétréci, largement cuspidé et mucroné sur ± 7 mm, coriace, ferme, face supérieure vert foncé brillant, parfois panaché avec des taches transversales vertes, avec généralement un petit centre jaune, face inférieure blanc-vert à jaune vert mat, à nervure médiane obscure, nervures parallèles jusqu’à 8, creusées dessus , proéminentes des-
-
-sous, autres nervures et veinules obscures. Inflorescence penchée, en capitule , jusqu’à 10 cm de longueur, à axes lisses, verts, capitule jusqu’à 4,5 cm de diamètre, bractéifère ; bractées caduques, largement ovales, jusqu’à 18 × 13 mm, grises à rouge-brun, scarieuses ; bractées florales enveloppant la base de chaque fleur, étroitement ovales, jusqu’à 12 × 3 mm, grises à violacées. Fleur sessile ; périanthe 22–25 mm de longueur , blanc neige teinté de rose vers le sommet, à lobes étalés, beaucoup plus courts que le tube ; étamines insérées près de la gorge, jusqu’à 2 mm plus courtes que les lobes, filet cylindrique, renflé et à sommet subulé, blanc, anthère ± 3 mm de longueur ; ovaire oblong, jusqu’à 2,5 × 1,5 mm ; style jusqu’à 2 mm plus court que les lobes, blanc, stigmate légèrement 3-lobé, ± 0,5 mm de diamètre. Fruit subsessile, obloïde, entier ou superficiellement 2- ou 3-lobé , 13 × 19 mm, rouge foncé. Graine ellipsoïde, ± 12 × 9 mm, irrégulièrement lobée.
+in Dyer, Fl. trop. Afr. 7 : 448 (1898). Pleomele phanerophlebia (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 278 (1914). Shrub up to 1 m tall; trunk solitary, usually simple, up to ± 20 cm tall, visible only in the basal 10 cm in older specimens; roots orange. Leaves: up to 8, arranged in rosette, concealing the stem by their bases, uniformly distributed and overlapping; sheath clasping the stem over clearly more than the circumference, over a length of ± 1.5 cm; pseudipetiole erect, up to 37 cm, cylindric, thin to solid, dark green, margins involute, the base gradually passing into the sheath; blade horizontal, arched, conduplicate, broadly ovate, up to 26 × 16 cm, base rounded to subcordate, apex gradually narrowed, broadly cuspidate and mucronate over ± 7 mm, coriaceous, firm, upper surface dark green glossy, sometimes variegated with transverse green patches, generally with a small yellow centre, lower surface white-green to dull yellowish-green, with obscure midvein, parallel nerves up to 8, impressed above, prominent below, other nerves and veinlets obscure. Inflorescence pendulous, capitate, up to 10 cm long, with smooth, green axes, capitulum up to 4.5 cm in diameter, bracteate; bracts caducous, broadly ovate, up to 18 × 13 mm, grey to red-brown, scarious; floral bracts enveloping the base of each flower, narrowly ovate, up to 12 × 3 mm, grey to violaceous. Flower sessile; perianth 22–25 mm long, snow-white tinged with pink towards the apex, with lobes spreading, much shorter than the tube; stamens inserted near the throat, up to 2 mm shorter than the lobes, filament cylindric, swollen and with subulate apex, white, anther ± 3 mm long; ovary oblong, up to 2.5 × 1.5 mm; style up to 2 mm shorter than the lobes, white, stigma slightly 3-lobed, ± 0.5 mm in diameter. Fruit subsessile, obloid, entire or superficially 2- or 3-lobed, 13 × 19 mm, dark red. Seed ellipsoid, ± 12 × 9 mm, irregularly lobed.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République centrafricaine et République démocratique du Congo ; au Gabon, connu de l’Estuaire, du Woleu-Ntem et de l’Ogooué-Ivindo
+Cameroon, Gabon, Republic of the Congo, Central African Republic and Democratic Republic of the Congo; in Gabon, known from Estuaire, Woleu-Ntem and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts primaires et secondaires, bords des rivières, stations ombragées ; au Gabon à 60–650 m d’altitude, ailleurs à 50–1100 m. Floraison enregistrée en novembre, janvier et février. B : Baker (1898), Bos (1984), Mwachala (2005), Velayos & Cabezas (2018). i B liographie
+understory of primary and secondary forests, river margins, shaded stations; in Gabon at 60–650 m elevation, elsewhere at 50–1100 m. Flowering recorded in November, January and February. B: Baker (1898), Bos (1984), Mwachala (2005), Velayos & Cabezas (2018). Bibliography
 
 ## Notes
 

@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Milne-Redhead, Kew Bull.: 160 (1950).
 
-Liane grimpante. Feuilles à pétiole généralement entièrement calleux, de 1 à 2 cm de long, partie non calleuse atteignant cependant parfois de 1 à 3 cm. Limbe ovale à linéaire oblong.
+Climbing liane. Leaves with petiole generally entirely callous, 1 to 2 cm long, the non-callous portion sometimes reaching 1 to 3 cm. Blade oval to linear-oblong.
 
-Inflorescence en épis simples ou ramifiés dichotomes ; bractées abaxiales de 2,5 à 3 cm ; bractées adaxiales bicarénées, minces, de 10 à 15 mm. Fleurs à corolle blanche d'environ 2 cm de long ; staminodes roses. Fruit d'environ 5 cm de diamètre et 2 à 3 cm de haut.
+Inflorescence in simple or dichotomously branched spikes; abaxial bracts 2.5 to 3 cm; adaxial bracts bicarinate, thin, 10 to 15 mm. Flowers with white corolla approximately 2 cm long; staminodes pink. Fruit approximately 5 cm in diameter and 2 to 3 cm tall.
 
 ## Type
 
@@ -35,13 +33,11 @@ Welwitsch 6441, Angola (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Trachyphrynium Preussianum K. Schum. (Bot. Jahrb. 15 : 431, 1892) is doubtless also to be placed in synonymy with this species, but sufficient material is lacking to be able to pronounce on this.
 
-Trachyphrynium Preussianum K. Schum. (Bot. Jahrb. 15 : 431, 1892) est sans doute également à mettre en synonymie avec cette espèce, mais du matériel en suffisance fait défaut pour pouvoir se prononcer.
+Plant of West Africa and extending to Angola and Congo. Species of secondary regrowth, especially on humid soils.
 
-Plante de l'Afrique occidentale et jusqu'à l'Angola et au Congo. Espèce de recru secondaire, surtout sur terrains humides.
-
-Noms vernaculaires (d'après Walker et Sillans) : Ozolomboga (Nkomi) ; Givyaka (Eshira, Bavarama, Bavungu) ; Ivyaka (Banzabi) ; Mumfumfu (Bapunu) ; Magyogyo (Apindji) ; Okombé (Mitsogo) ; Agomeghe (Fang) ; Mosété-movondo (Bavové) ; Inhyèlè (Bakota) ; Mulubi-wa-digamba (Ngowé).
+Vernacular names (after Walker and Sillans): Ozolomboga (Nkomi); Givyaka (Eshira, Bavarama, Bavungu); Ivyaka (Banzabi); Mumfumfu (Bapunu); Magyogyo (Apindji); Okombé (Mitsogo); Agomeghe (Fang); Mosété-movondo (Bavové); Inhyèlè (Bakota); Mulubi-wa-digamba (Ngowé).
 
 ## Specimens examined
 

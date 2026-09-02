@@ -29,7 +29,7 @@ tags: [species, generated]
 
 Cette espece a été mise en synonymie par Pellegrin avec X.Quintasii et rétablie par les auteurs suivants.L'appareil végétatif,la disposition et la forme extérieure des fleurs,les fruits et graines sont tout ä fait semblables,mais les caracteres diffé- rents des pétales en font une bonne espéce.
 
-Arbuste ou arbre atteignant 3o m de hauteur.Limbe des feuilles généralement elliptique，moins nettement obové que chez X. Quintasii. Fleurs jaune verdatre. Sépales largement ovés â semi-orbiculaires,longs de 2 mm,larges de 3 mm.Pétales externes linéaires rubanés, nc depassant pas l3 mm de longueur, légerement étranglés au-dessus de la base，arrondis au sommet, tomentelleux â l'extérieur,pubérulents ä 'intérieur,mais glabres ä la base; pétales internes linéaires-cylindriques,longs de 8-9 mm, arrondis au sommet,a lame plus courte que chez X. Quintasii, base élargie, oblongue, presque aussi longue que la lame, concave, munie a son sommet interne d'un appendice pubescent dirigé vers le bas, fermant en partie la cavité,et sur les cotés d'une membrane longitudinale jaunatre. Une rangée de staminodes externes. Etamines insérées sur le réceptacle á peu pres au méme niveau que les carpelles. Carpelles 3-4；ovaires velus；styles lineaires, presque aussi longs que les ovaires, pubérulents au sommet. 2-3 ovules.
+Arbuste ou arbre atteignant 3o m de hauteur.Limbe des feuilles généralement elliptique,moins nettement obové que chez X. Quintasii. Fleurs jaune verdatre. Sépales largement ovés â semi-orbiculaires,longs de 2 mm,larges de 3 mm.Pétales externes linéaires rubanés, nc depassant pas l3 mm de longueur, légerement étranglés au-dessus de la base,arrondis au sommet, tomentelleux â l'extérieur,pubérulents ä 'intérieur,mais glabres ä la base; pétales internes linéaires-cylindriques,longs de 8-9 mm, arrondis au sommet,a lame plus courte que chez X. Quintasii, base élargie, oblongue, presque aussi longue que la lame, concave, munie a son sommet interne d'un appendice pubescent dirigé vers le bas, fermant en partie la cavité,et sur les cotés d'une membrane longitudinale jaunatre. Une rangée de staminodes externes. Etamines insérées sur le réceptacle á peu pres au méme niveau que les carpelles. Carpelles 3-4;ovaires velus;styles lineaires, presque aussi longs que les ovaires, pubérulents au sommet. 2-3 ovules.
 
 ## Type
 
@@ -39,7 +39,7 @@ Dewevre 66o, Coquilhatville,24 janv. I8g6,Congo-Kinshasa (holotype BR!)
 
 <!-- TODO:translate — source text below, verbatim and untranslated -->
 
-Espéce de forét dense humide ou périodiquement inondée, beaucoup moins frequente que X. Quintasii. Son aire de répartition est aussi beaucoup moins vaste； elle comprend le Cameroun, la République centrafricaine et le Congo-Kinshasa.
+Espéce de forét dense humide ou périodiquement inondée, beaucoup moins frequente que X. Quintasii. Son aire de répartition est aussi beaucoup moins vaste; elle comprend le Cameroun, la République centrafricaine et le Congo-Kinshasa.
 
 Espéce á rechercher au Gabon.
 

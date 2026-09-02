@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane de grandeur moyenne ; ramilles et inflorescences densement velues, d’un brun-roux sombre . Feuille : pétiole ± cylindrique, étroitement canaliculé dessus, 5–17 mm ; limbe elliptique à obové, (4–)7–10(–15) × (2–)3–7 cm, arrondi à la base, légèrement acuminé sur 0,5–1 cm et mucroné sur (3–)7–15(–20) mm au sommet , glabre à glabrescent ; nervation imprimée dessus, à pubescence brun-roux dessous, nervures latérales, 7–11 paires. Inflorescence en racèmes axillaires, densément fleuris, en forme de panicule terminale par forte réduction des feuilles axillantes ; pédoncule 1–9 cm ; bractée à limbe de ± 2 mm de longueur, longuement et finement acuminé-mucroné. Fleur : pédicelle 1–2 mm ; calice à sépales elliptiques, ± 2,5 mm de longueur ; corolle ± campanulée, 5–6 mm de longueur, à lobes étalés à réfléchis, 2–3 mm de longueur, éparsément pubes cents à l’extérieur ; étamines exsertes, 7–8 mm de longueur, glabres ; pistil 7–8 mm de longueur, ovaire glabre ; stigmates exserts . Fruit ovoïde, 7–8 × 4–5(–6) mm, glabre, finement pustuleux ; bractée élargie, largement obovée-elliptique, 4,5–5,5 × 4–4,5 cm, subcordée à la base, aiguë à obtuse et mucronée au sommet, ± éparsément pubescente sur les deux faces. Graines ovoïdes, ± luisantes, environ 7 × 4 mm .
+Medium-sized liane; branchlets and inflorescences densely velutinous, dark reddish-brown. Leaf: petiole ± cylindric, narrowly canaliculate above, 5–17 mm; lamina elliptic to obovate, (4–)7–10(–15) × (2–)3–7 cm, rounded at the base, slightly acuminate over 0.5–1 cm and mucronate over (3–)7–15(–20) mm at the apex, glabrous to glabrescent; venation impressed above, with reddish-brown pubescence below, lateral nerves 7–11 pairs. Inflorescence in axillary racemes, densely flowered, forming a terminal panicle through strong reduction of the axillary leaves; peduncle 1–9 cm; bract with lamina ± 2 mm long, long and finely acuminate-mucronate. Flower: pedicel 1–2 mm; calyx with elliptic sepals, ± 2.5 mm long; corolla ± campanulate, 5–6 mm long, with lobes spreading to reflexed, 2–3 mm long, sparsely pubescent on the outside; stamens exsert, 7–8 mm long, glabrous; pistil 7–8 mm long, ovary glabrous; stigmas exsert. Fruit ovoid, 7–8 × 4–5(–6) mm, glabrous, finely pustulate; bract enlarged, broadly obovate-elliptic, 4.5–5.5 × 4–4.5 cm, subcordate at the base, acute to obtuse and mucronate at the apex, ± sparsely pubescent on both faces. Seeds ovoid, ± shiny, approximately 7 × 4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée quatoriale, République Démocratique du Congo, Ané gola (Cabinda) et Gabon, où elle est rapportée du Moyen-Ogooué, de l’Ogooué-Lolo, de l’Ogooué-Ivindo et du Woleu-Ntem
+Cameroon, Equatorial Guinea, Democratic Republic of the Congo, Angola (Cabinda) and Gabon, where it is reported from the Middle-Ogooué, Ogooué-Lolo, Ogooué-Ivindo and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; jusqu’à 550 m d’altitude. B : Breteler (2010), Lejoly & Lisowski (1984). ibliographie
+Primary and secondarized forest; up to 550 m altitude. B: Breteler (2010), Lejoly & Lisowski (1984). Bibliography
 
 ## Notes
 

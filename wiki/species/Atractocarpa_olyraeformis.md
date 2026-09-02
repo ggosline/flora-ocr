@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms leafy towards the top only, from about the middle upwards. Sheaths glabrous; blade caudate acuminate at the apex, rounded at the base and asymmetrical, of variable size, up to about thirty centimetres long.
 
-Chaumes feuillés vers le haut seulement, à partir du milieu environ. Gaines glabres; limbe caudé acuminé au sommet, arrondi à la base et dissymétrique, de taille variable, jusqu'à une trentaine de centimètres de long.
-
-Racème linéaire lâche, de 12 à 20 cm de long ou plus. Épillets lancéolés, d'environ 2 cm de long, les inférieurs groupés par 3, les supérieurs solitaires. Glumes pubescentes, de 2 et 4 mm de long. Fleurs mâles comme chez Puelia ciliata, mais avec 3 lodicules de 3 à 4 mm de long. Fleur terminale oblongue, acuminée, d'une quinzaine de millimètres de long. Lodicules comme dans les fleurs mâles. Style à 3 branches.
+Raceme linear lax, 12 to 20 cm long or more. Spikelets lanceolate, about 2 cm long, the lower ones grouped by 3, the upper ones solitary. Glumes pubescent, 2 and 4 mm long. Flowers male as in Puelia ciliata, but with 3 lodicules 3 to 4 mm long. Terminal flower oblong, acuminate, about fifteen millimetres long. Lodicules as in the male flowers. Style with 3 branches.
 
 ## Specimens examined
 

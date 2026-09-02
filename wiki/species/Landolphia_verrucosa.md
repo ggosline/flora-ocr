@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large liane; branchlets velvety. Leaf: petiole 3–7 mm; blade 3.5–12.5 × 2–5 cm, rounded to cordate at base, gradually narrowed to a short acumen at apex, covered beneath with small hairs on the nerves and often also between the nerves, sometimes above with the same type of indumentum, but less dense; midvein prominent above, secondary
 
-Grande liane ; rameaux veloutés. Feuille : pétiole de 3–7 mm ; limbe de 3,5–12,5 × 2–5 cm, arrondi à cordé à la base , rétréci progressivement en un court acumen à l’apex, recouvert dessous de petits poils sur les nervures et souvent aussi entre les nervures, parfois dessus avec le même type de pilosité, mais moins dense ; nervure médiane en relief dessus, nervures se-
+Bos 6803; 3–6: Soyaux 269; 7–10: Klaine 910). Drawing by Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduced from Persoon et al. (1992).
 
-Bos 6803 ; 3-6 : Soyaux 269 ; 7-10 : Klaine 910 ). Dessin par Wil Wessel-Brand, Naturalis Biodiversity Center (©), reproduit à partir de Persoon et al. (1992).
+nerves 9 to 12 pairs, looping into a well-visible intramarginal nerve, tertiary venation reticulate. Inflorescence terminal, generally sparsely branched, sometimes in whorls with velvety axes. Flower: bracteoles velvety surrounding the calyx; calyx with lobes ± 2 × 3 mm, rounded, velvety; corolla ± succulent, brownish outside, dark cream inside, with cylindrical tube ± 7 mm long, velvety outside, glabrous inside, with lobes 8–9 mm long, at first extending the tube before curving outward, hairy inside, velvety outside but less densely so than the tube; stamens inserted at ± 7 mm above the base, anther 1.5 mm long, glabrous; pistil 2.5–3 mm long. Fruit subglobose, ± 4 cm in diameter, smooth but wrinkled into twisted ridges and bosses, very pale green or brown, glabrous. Biodiversity Center (©).
 
-condaires 9 à 12 paires, bouclant en une nervure intramarginale bien visible, nervation tertiaire réticulée. ,QÀRUHVFHQFH terminale Jpqpudohphqwshxudpl¿pHSDUIRLVHQYULOOHjD[HVYHORX tés. Fleur : bractéoles veloutées entourant le calice ; calice à lobes de ± 2 × 3 mm, arrondis, veloutés ; corolle ± succulente, brunâtre à l’extérieur, crème foncé à l’intérieur, à tube cylinGULTXH long de ± 7 mm, velouté à l’extérieur, glabre à l’intérieur , à lobes longs de 8–9 mm, prolongeant d’abord le tube avant de se recourber vers l’extérieur, poilus à l’intérieur, veloutés jO¶H[Wpulhxupdlvprlqvghqvpphqwtxhohwxehpwdplqhvlqvpuphvj±PPDXGHVVXVGHOD base, anthère longue de 1,5 mm, glabre ; pistil long de 2,5–3 mm. Fruit subglobuleux, ± 4 cm de diamètre, lisse mais plissée en crêtes et bosses torsadées , vert très pâle ou brun, glabre. Biodiversity Center (©).
-
-Distribution HQGpPLTXH GX *DERQ FRQQX GH WURLV VWDWLRQV GDQV O¶(VWXDLUH OH 0R\HQ2JRRXp HW OD Ngounié. Écologie IRUrWKXPLGHVHPSHUYLUHQWHGHSODLQHMXVTX¶jPG¶DOWLWXGH B : Jongkind & Lachenaud (2022). IBLIOGRAPHIE
+Distribution endemic to Gabon, known from three stations in the Estuary, the Middle Ogooué and the Ngounié. Ecology: humid evergreen lowland forest up to 200 m altitude. B: Jongkind & Lachenaud (2022). BIBLIOGRAPHY
 
 ## Notes
 

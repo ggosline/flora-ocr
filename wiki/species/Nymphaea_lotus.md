@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 14 (8-9) Sp. pl . : 511 (1753). N. leucantha Peter, Abh. Ges. Wiss. Göttingen n.f. 13(2) : 60, in clavi, 76 (1928). N. lotus var. parviflora Peter , loc. cit ., in clavi (1928). Herbe rhizomateuse robuste à rhizome tubéreux, irrégulier. Feuille à pétiole robuste, souvent pubescent ; limbe ± rond, les adultes 9–37(–50) × 7–34(–50) cm, légèrement pelté, assez coriace , vert brillant à la face supérieure, rouge foncé à violet ou vert à la face inférieure, sommet arrondi, base profondément cordée et sommet des lobes latéraux à un angle ± droit, souvent divergents mais parfois jointifs, marges nettement dentées , glabre à la face supérieure, densément pubescent à la face inférieure au moins sur les nervures ; nervation palmée très proéminente surtout à la face inferieure, 4–9 nervures latérales, 6–9 nervures secondaires de part et d´autre de la nervure médiane. Fleur (5–)7–18(–25) cm de diamètre ; pédicelle long et robuste, généralement pubescent ; sépales généralement 4, ovale-oblongs à oblongs-lancéolés, 4,5–9(–11) × 2–3,5 cm, verts avec une nervation visible, sommet obtus, glabre à distinctement pubescent ; pétales 16–20, oblongs à oblongs-lancéolés, les plus externes aussi longs que les sépales, blancs ou crème à jaune pâle , rarement lavés de rose , sommet aigu à obtuses ; étamines 40–80, anthères obtus, jaunes; connectif des anthères habituellement non prolongé ou parfois très court ; carpelles 20–30. Fruit grossièrement globuleux, de 3,5–9 cm de diamètre. Graines ellipsoïdes, 1,2–1,5 × 1,1 mm.
+Plate 14 (8-9) Sp. pl.: 511 (1753). N. leucantha Peter, Abh. Ges. Wiss. Göttingen n.f. 13(2): 60, in clavi, 76 (1928). N. lotus var. parviflora Peter, loc. cit., in clavi (1928). Robust rhizomatous herb with tuberculous, irregular rhizome. Leaf with robust petiole, often pubescent; blade ± rounded, the mature ones 9–37(–50) × 7–34(–50) cm, slightly peltate, fairly coriaceous, bright green on the upper surface, dark red to violet or green on the lower surface, apex rounded, base deeply cordate and apex of lateral lobes at an ± right angle, often divergent but sometimes contiguous, margins distinctly dentate, glabrous on the upper surface, densely pubescent on the lower surface at least on the nerves; palmate venation very prominent especially on the lower surface, 4–9 lateral nerves, 6–9 secondary nerves on either side of the midvein. Flower (5–)7–18(–25) cm in diameter; pedicel long and robust, generally pubescent; sepals generally 4, ovate-oblong to oblong-lanceolate, 4.5–9(–11) × 2–3.5 cm, green with visible venation, apex obtuse, glabrous to distinctly pubescent; petals 16–20, oblong to oblong-lanceolate, the outermost as long as the sepals, white or cream to pale yellow, rarely flushed with pink, apex acute to obtuse; stamens 40–80, anthers obtuse, yellow; connective of anthers usually not prolonged or sometimes very short; carpels 20–30. Fruit coarsely globose, 3.5–9 cm in diameter. Seeds ellipsoid, 1.2–1.5 × 1.1 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répertoriée en Afrique tropicale, du Sénégal jusqu’en Égypte, l’Angola et Madagascar, également connue de l’Asie du Sud-Est et cultivée aux ÉtatsUnis et en Amérique du Sud. Au Gabon, espèce assez commune, retrouvée à l´Estuaire, le Woleu-Ntem, l´Ogooué-Ivindo et l´Ogooué-Maritime, entre 0 et 200 m d´altitude, ailleurs jusqu’à 1200 m
+Widely recorded in tropical Africa, from Senegal to Egypt, Angola and Madagascar, also known from Southeast Asia and cultivated in the United States and South America. In Gabon, fairly common species, found in the Estuary, Woleu-Ntem, Ogooué-Ivindo and Ogooué-Maritime, between 0 and 200 m altitude, elsewhere up to 1200 m.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Deep ponds, marshes, quiet bays of rivers, lakes, waters up to 2.5 m in depth.
 
-mares profondes, marécages, anses tranquilles des rivières, lacs, eaux jusqu’à 2,5 m de profondeur
-
-Usage : plante ornementale des étangs. Les femmes enceintes consomment les feuilles cuites à l´étuvée. Ces feuilles peuvent aussi être utilisées comme traitement contre les ulcères et contre la gale.
+Uses: ornamental plant for ponds. Pregnant women consume the steamed leaves. These leaves can also be used as a treatment against ulcers and against scabies.
 
 ## Vernacular names
 

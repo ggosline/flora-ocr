@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 1140 (1933).
 
-Espèce décrite sur 3 échantillons récoltés au Congo. Arbre ou arbuste, à rameaux striés-cannelés, ochracés-tomentelleux. Cymules à env. 5 fleurs; pétales de 2-3 mm à écaille velue courte et limbe glabre. Fruit de 25 mm. PL. 39, 5-8', p. 171.
+Species described from 3 specimens collected in Congo. Tree or shrub, with striate-channelled branchlets, ochraceous-tomentellous. Cymules with c. 5 flowers; petals 2-3 mm with short hairy scale and glabrous limb. Fruit 25 mm. PL. 39, 5-8', p. 171.
 
 ## Type
 
@@ -30,19 +28,17 @@ Aubréville 1041, Côte d'Ivoire (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Autres échantillons : Thollon 95, Bouquet 1703, du Congo. La proximité de la frontière permet de considérer cette espèce comme gabonaise.
+Other specimens: Thollon 95, Bouquet 1703, from Congo. The proximity of the border allows this species to be considered Gabonese.
 
 3 bis. Lynchodiscus dananensis Aubréville & Pellegrin
 
 Bull. Soc. Bot. France 85:291 (1938).
 
-Arbuste, petit arbre ou arbre atteignant 15 m; feuilles à (5-)6 paires de folioles rouillées tomentelleuses dessous, à nervures secondaires non fermées.
+Shrub, small tree or tree reaching 15 m; leaves with (5-)6 pairs of leaflets rusty tomentellous beneath, with secondary veins not closed.
 
-Inflorescences terminales; fleurs relativement grandes; calice de 6-8 mm; pétales longs et larges de 4-5 mm, à écaille velue courte et limbe glabre. Fruit de 25-30 mm, jaune, velu soyeux extérieurement, à 3 ou 4 loges.
+Terminal inflorescences; flowers relatively large; calyx 6-8 mm; petals 4-5 mm long and wide, with short hairy scale and glabrous limb. Fruit 25-30 mm, yellow, silky hairy externally, with 3 or 4 locules.
 
-Cette espèce a été reconnue du Ghana, de République centrafricaine et du Tchad. Il ne serait donc pas impossible de la rencontrer au Cameroun.
+This species has been recorded from Ghana, Central African Republic and Chad. It would therefore not be impossible to encounter it in Cameroon.
 
 ## Figures
 

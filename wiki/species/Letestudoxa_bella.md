@@ -13,40 +13,36 @@ tags: [species, generated]
 
 **Genus**: [[Letestudoxa]]
 **Family**: [[Annonaceae]]
-**Protologue**: Bull.Mus.Hist.Nat.Paris 26 :655(192o)；Mém.Soc.Linn.Norm.26 ：13,tab.4,fig.1-7 (1924);Bull.Soc.Bot.Fr.95:137 (1948).-Le Thomas,Adansonia,ser.2,6,1:145,tab.1, fig.8-9 (1966).- Paiva,Mem. Soc.Brot.19 :31 (1966)
+**Protologue**: Bull.Mus.Hist.Nat.Paris 26 :655(192o);Mém.Soc.Linn.Norm.26 :13,tab.4,fig.1-7 (1924);Bull.Soc.Bot.Fr.95:137 (1948).-Le Thomas,Adansonia,ser.2,6,1:145,tab.1, fig.8-9 (1966).- Paiva,Mem. Soc.Brot.19 :31 (1966)
 
 ## Synonyms
 
-- Letestudoxa grandifolia Pellegrin,Bull.Mus.Paris 26 :656 (192o)；Mém. Soc.Linn. Norm.,1.c., fig.8 (1924).
+- Letestudoxa grandifolia Pellegrin,Bull.Mus.Paris 26 :656 (192o);Mém. Soc.Linn. Norm.,1.c., fig.8 (1924).
 - Pachypodanthium simiarum Exell et Mendonca,Journ.of Bot.74, Suppl. Polypet.Add.:14 (1936);Consp.Fl.Angol.1,1 :15(1937).
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull.Mus.Hist.Nat.Paris 26:655(1920); Mém.Soc.Linn.Norm.26:13,tab.4,fig.1-7 (1924); Bull.Soc.Bot.Fr.95:137 (1948).—Le Thomas, Adansonia, ser.2, 6, 1:145, tab.1, fig.8-9 (1966).— Paiva, Mem. Soc.Brot.19:31 (1966).
 
-Bull.Mus.Hist.Nat.Paris 26 :655(192o)；Mém.Soc.Linn.Norm.26 ：13,tab.4,fig.1-7 (1924);Bull.Soc.Bot.Fr.95:137 (1948).-Le Thomas,Adansonia,ser.2,6,1:145,tab.1, fig.8-9 (1966).- Paiva,Mem. Soc.Brot.19 :31 (1966).
+Liane reaching 40 m in height, of slender diameter; branches glabrous, branchlets pubescent rusty with short and curly hairs. Leaves with petiole 3-10 mm long, pubescent to glabrescent;
 
-Liane atteignant 4o m de hauteur,de faible diametre; rameaux glabres,ramilles pubescentes rousses a poils courts et frisés. Feuilles á pétiole long de 3-1o mm，pubescent a glabrescent;
+blade coriaceous, oblong, 7.5-18 cm long, 4-7.5 cm wide, rounded to subcordate at the base, attenuate or shortly acuminate at the apex; upper surface glossy and glabrous, lower surface densely rusty pubescent on young leaves, with simple short and curly or fasciculate hairs in tight tufts, becoming glabrescent on mature leaves. Lateral veins 14-17 pairs, impressed above, prominent below, slightly ascending, uniting in arcades near the margin.
 
-limbe coriace,oblong,long de 7,5-18 cm,large de 4-7,5 cm,arrondi ä subcordé a la base,atténué ou courtement acuminé au sommet; face supérieure brillante et glabre,face inférieure densément pubescente rousse chez les jeunes feuilles,ä poils simples courts et frisés ou fasciculés en touffes serrées,devenant glabrescente chez les feuilles agées. Nervures latérales 14-17 paires, imprimées au-dessus，saillantes en dessous，peu ascendantes，se rejoignant en arceaux pres de la marge.
+Flowers solitary, extra-axillary or oppositifolious, with pedicel 8-20 mm long, ferruginous pubescent; bracts broadly ovate, 3-9 mm long, 4-8 mm wide, acute at the apex, densely rusty pubescent on both faces. Floral bud globose-ovoid, mucronate at the apex, rusty tomentose. Calyx forming a hood around the floral bud, splitting transversely into irregular lobes. Petals subequal, broadly ovate, 4-5 cm long, 3-4 cm wide, subacute at the apex, narrowed into short claws at the base, silky glossy on both faces. Stamens subsessile, prismatic, about 3 mm long, thecae linear extrorse, connectives dilated above the anthers and puberulous. Carpels very numerous, closely packed against one another, ± cylindrical, slender, about 6 mm long, with base included in the receptacle, puberulous, stigmas hairy. Ovule 1, erect.
 
-Fleurs solitaires,extra-axillaires á oppositifolies,ä pédicelle long de 8-2o mm，pubescent ferrugineux；bractées largement ovées,longues de 3-9 mm, larges de 4-8 mm,aigues au sommet, densément pubescentes rousses sur les deux faces.Bouton floral globuleux-ovoide, mucroné au sommet, tomenteux roux. Calice formant un capuchon autour du bouton floral,se déchirant transversalement en lobes irréguliers.Pétales subégaux,largement ovés,longs de 4-5 cm，larges de 3-4 cm，subaigus au sommet, rétrécis en onglets courts á la base,soyeux brillants sur les deux faces.Etamines subsessiles,prismatiques,longues de 3 mm environ, theques linéaires extrorses, connectifs dilatés au-dessus des anthéres et pubérulents.Carpelles tres nombreux, serrés les uns contre les autres,± cylindriques,gréles,longs de 6 mm environ, a base incluse dans le réceptacle,pubérulents,stigmates chevelus. Ovule 1,dressé.
-
-Fruits (immatures) ovoides-subglobuleux,muriqués,á pédicelle long de 1,5-2 cm;méricarpes tres nombreux, obpyramidaux, apiculés au sommet,longs de 8-1o mm,larges de 4-5 mm,étroitement contigus dans les 3/4 inférieurs,a base incluse dans le réceptacle.Graines，1 par méricarpe,légerement comprimées, a testa lisse.
+Fruits (immature) ovoid-subglobose, muricate, with pedicel 1.5-2 cm long; mericarps very numerous, obpyramidal, apiculate at the apex, 8-10 mm long, 4-5 mm wide, narrowly contiguous in the lower 3/4, with base included in the receptacle. Seeds, 1 per mericarp, slightly compressed, with smooth testa.
 
 ## Type
 
-Le Testu I637， Midounga pres de Tchibanga, Mayombe Bayaka, Gabon,fl. (holotype P!;isotype BM!)
+Le Testu I637, Midounga pres de Tchibanga, Mayombe Bayaka, Gabon,fl. (holotype P!;isotype BM!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane gréle,dans les grands arbres de foret dense humide, au Gabon,Congo-Brazzaville et Cabinda.Les fleurs sont jaunes avec des pétales internes bordés de rouge.
+Slender liane, in large trees of dense humid forest, in Gabon, Congo-Brazzaville and Cabinda. The flowers are yellow with inner petals bordered with red.
 
 ## Specimens examined
 
-Le Testu I442，Ilou Micongo，pres de Tchibanga (j.fr.，nov.)；1637，type (fl.,oct.)；55og,6336,Moucongo，entre Mitingo et Boudy-anguila,Haute Ngounyé (fl.，sept.-oct.)；8362，8383，Boucimbi，Moucombo，région de Lastoursville (fl.,sept.)； 9364,Essona,riviere Nkam,affluent de l'Abanga (fl.，nov.).
+Le Testu I442,Ilou Micongo,pres de Tchibanga (j.fr.,nov.);1637,type (fl.,oct.);55og,6336,Moucongo,entre Mitingo et Boudy-anguila,Haute Ngounyé (fl.,sept.-oct.);8362,8383,Boucimbi,Moucombo,région de Lastoursville (fl.,sept.); 9364,Essona,riviere Nkam,affluent de l'Abanga (fl.,nov.).
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe , suffrutex ou arbuste de 1 ‒ 2( ‒ 3) m de hauteur, annuel ou vivace. Stipules étroitement lancéolées ou filiformes, 16 ‒ 24 mm de longueur. Feuille : pétiole 8 ‒ 10 cm ; limbe environ 10 cm de diamètre, généralement 3 ‒ 5-lobé, glabrescent à glabre à maturité. Fleur à pédicelle de 2 ‒ 3 cm ; calicule à 3 bractéoles de 3 ‒ 4 × 3 ‒ 4 cm, à marges profondément dentées-laciniées ; calice cupuliforme, tronqué, 1 cm de longueur, à marge (à peine) 5-dentée ; pétales jaunes avec une tache pourpre à la base, 5 ‒ 6 cm de longueur ; tube staminal 3 cm de longueur ; ovaire 3 ‒ 5-loculaire, style dépassant le tube staminal d’au moins 1 cm. Fruit glanduleux et ponctué de noir à l’état sec. Graines : longs poils cotonneux attachés seulement près de l’hile, glabres après avoir enlevé les poils, sauf parfois une touffe de duvet roux à l’apex.
+Herb, suffrutex or shrub 1–2(–3) m tall, annual or perennial. Stipules narrowly lanceolate or filiform, 16–24 mm long. Leaf: petiole 8–10 cm; blade c. 10 cm in diameter, usually 3–5-lobed, glabrescent to glabrous at maturity. Flower with pedicel 2–3 cm; epicalyx with 3 bracteoles 3–4 × 3–4 cm, with margins deeply dentate-laciniate; calyx cupuliform, truncate, 1 cm long, with margin (scarcely) 5-dentate; petals yellow with a purple blotch at base, 5–6 cm long; staminal tube 3 cm long; ovary 3–5-locular, style exceeding staminal tube by at least 1 cm. Fruit glandular and punctate black when dry. Seeds: long cottony hairs attached only near hilum, glabrous after removing hairs, except sometimes a tuft of reddish down at apex.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire du Pérou, introduite dans toutes les régions chaudes (tropicales) du monde ; au Gabon connue de l’Ogooué-Ivindo
+native to Peru, introduced into all warm (tropical) regions of the world; in Gabon known from Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes, champs, jachères, autour des cases, bords de rivières ; jusqu’à 2000 m d’altitude. Fleurs et fruits de mai à octobre. Usage : Les fibres longues et fines sont d’une bonne qualitée pour la préparation d’étoffes grossières, cordelettes, ficelles, ouate pour pansements, etc. Les feuilles sont utilisées en infusion contre les rhumes, refroidissements et bronchites et les jeunes pousses pilées contre des palpitations
+savannas, fields, fallows, around dwellings, river banks; up to 2000 m altitude. Flowers and fruits from May to October. Use: The long and fine fibres are of good quality for the preparation of coarse fabrics, cordage, twine, wadding for dressings, etc. The leaves are used in infusion against colds, chills and bronchitis and the young shoots pounded against palpitations
 
 ## Vernacular names
 

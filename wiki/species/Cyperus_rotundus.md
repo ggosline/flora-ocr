@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Chlorocyperus rotundus (L.) Palla, Allg. Bot. Z. Syst. 6 : 201 (1900). Cyperus merkeri C.B.Clarke, Bull. Misc. Inform., Addit. Ser 8 : 12 (1908). Herbe vivace, de taille moyenne, avec la base des tiges un peu renflée ou en forme de tubercule, issues de stolons grêles ou assez robustes avec des écailles plutôt distantes ; tiges de 25‒80 cm × 1‒4 mm, glabres, trigones avec de nombreuses feuilles regroupées dans la partie basale. Feuille : gaine verte à brune ; limbes principaux de 15‒30 cm × 4‒8 mm , plans ou enroulés, scabres au moins sur la marge et les nervures principales. Inflorescence en anthèle de 3‒15 × 2‒12 cm, formée d’un épi sessile et de 1‒8 épis sur des pédoncules de 0,5‒12 cm, avec ou sans épis secondaires à la base des primaires ; bractées involucrales 1‒7, foliacées, dressées ou étalées, la plus grande de 3‒20 cm × 2‒9 mm ; épis de 1‒5 × 1,5‒7 cm , avec 4‒15 épillets dressés ou étalés. Épillet linéaire–lancéolé, de 6‒25(‒70) × 1‒2,5 mm , brun rougeâtre clair à foncé, avec 8‒35 fleurs ; glumes ovales, longues de 2,7‒4,3 mm , presque incolores ou brun rougeâtre clair à foncé, avec ou sans une étroite marge incolore et 1‒2 nervures latérales ; la centrale verte, glabre ou scabre, se terminant sous le sommet arrondi. Akène obovale, de 1,3‒1,7 × 0,5‒1 mm , triangulaire, grisâtre, finement papilleux.
+Chlorocyperus rotundus (L.) Palla, Allg. Bot. Z. Syst. 6 : 201 (1900). Cyperus merkeri C.B.Clarke, Bull. Misc. Inform., Addit. Ser 8 : 12 (1908). Perennial herb, medium-sized, with the base of stems slightly swollen or tubercle-shaped, arising from slender or fairly robust stolons with rather distant scales; stems 25–80 cm × 1–4 mm, glabrous, trigonous with numerous leaves clustered in the basal part. Leaf: sheath green to brown; principal blades 15–30 cm × 4–8 mm, plane or rolled, scabrous at least on the margin and principal veins. Inflorescence in an anthela of 3–15 × 2–12 cm, formed of one sessile spike and 1–8 spikes on peduncles of 0.5–12 cm, with or without secondary spikes at the base of the primary ones; involucral bracts 1–7, foliaceous, erect or spreading, the largest 3–20 cm × 2–9 mm; spikes 1–5 × 1.5–7 cm, with 4–15 spikelets erect or spreading. Spikelet linear–lanceolate, 6–25(–70) × 1–2.5 mm, light to dark reddish brown, with 8–35 flowers; glumes ovate, 2.7–4.3 mm long, nearly colourless or light to dark reddish brown, with or without a narrow colourless margin and 1–2 lateral veins; the central one green, glabrous or scabrous, terminating below the rounded apex. Achene obovate, 1.3–1.7 × 0.5–1 mm, triangular, greyish, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+widely distributed in all tropical and temperate regions; infrequent or poorly known in Gabon, collected only in Estuaire, Ogooué-Maritime and Woleu-Ntem (4 collections)
 
-largement répandue dans toutes les régions tropicales et tempérées ; peu fréquente ou méconnue au Gabon, collectée seulement dans l’Estuaire, l’Ogooué-Maritime et le Woleu-Ntem (4 récoltes)
-
-Épi avec pédoncule et prophylle basal. – C. Épi plante et inflorescence. – C. Coupe transversale de mature. – D. Épillet. – E. Glume. – F. Fleur. – G. la tige sous l’inflorescence. – D. Coupe transversale Fruit. Dessin original par Richard W. Haines ©. du limbe. – E. Épillet. – F. Glume. – G. Fruit. Dessin original par Richard W. Haines ©.
+Spike with peduncle and basal prophyll. – C. Entire plant and inflorescence. – C. Transverse section of stem. – D. Spikelet. – E. Glume. – F. Flower. – G. the stem beneath the inflorescence. – D. Transverse section Fruit. Original drawing by Richard W. Haines ©. of the blade. – E. Spikelet. – F. Glume. – G. Fruit. Original drawing by Richard W. Haines ©.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les zones herbeuses saisonnièrement humides, les marécages et les bords des sources et des ruisseaux, aussi mauvaise herbe des terrains cultivés ; au Gabon, à 0‒600 m d’altitude, jusqu’à 2500 m en Afrique de l’Est
+in seasonally humid grassy areas, marshes and margins of springs and streams, also a weed of cultivated land; in Gabon, at 0–600 m altitude, up to 2500 m in East Africa
 
 ## Vernacular names
 

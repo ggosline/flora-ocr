@@ -22,23 +22,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb with a strong rhizomatous stock formed by the dense confluence of numerous roots. Culms in dense tufts, reaching about twenty centimetres high with numerous irregularly distributed nodes, the uppermost very elongated. Leaves with imbricate and flattened sheaths, at least towards the base of the culms, glabrous, except for a few hairs at the sheath opening. Ligule membranous, short, pubescent. Blades involute setaceous, up to about ten centimetres long.
 
-Herbe pérenne à forte souche rhizomateuse formée par la confluence dense de nombreuses racines. Chaumes en touffe dense, atteignant une vingtaine de centimètres de haut à nombreux nœuds irrégulièrement répartis, les derniers très allongés. Feuilles à gaines imbriquées et aplaties, au moins vers la base des chaumes, glabres, sauf quelques poils à l'ouverture de la gaine. Ligule membraneuse courte, pubescente. Limbes enroulés sétacés, jusqu'à une dizaine de centimètres de long.
+Inflorescence in erect spiciform panicles, branches solitary, alternate, the lower ones with 1 to 3 longly pedicellate spikelets, the upper ones with a single one. Spikelets linear, glabrous, 15 to 25 mm long, with 20 to 30 flowers. Rachis persistent, glumes caducous (not seen), lemmas oblong lanceolate, glabrous, with 3 nerves; paleas caducous, somewhat shorter, bicarinate, glabrous.
 
-Inflorescence en panicules spiciformes dressées, branches solitaires, alternes, les inférieures à 1 à 3 épilets longuement pédicellés, les supérieures avec un seul. Épilets linéaires, glabres, de 15 à 25 mm de long, à 20 à 30 fleurs. Rachis persistant, glumes caduques (non vues), lemmas oblongues lancéolées, glabres, à 3 nervures; palées caduques, un peu plus courtes, bicarénes, glabres.
-
-Sur des bancs de roches schisteuses dans les rapides de la Nyanga (Mayumbe Bayaka), seule station connue (Le Testu : 1597).
+On benches of schistose rocks in the rapids of the Nyanga (Mayumbe Bayaka), only known station (Le Testu: 1597).
 
 7. Eragrostis tremula (Lam.) Hochst.
 
-Herbe annuelle pouvant atteindre ou même dépasser parfois 1 m de haut; chaumes géniculés à la base, gaines striées, plus courtes que les entre-nœuds, pubescents à la jonction avec le limbe; ligule représentée par une ligne ciliée; limbes le plus souvent étalés, jusqu'à 7 mm de large, de longueur très variable.
+Annual herb capable of reaching or even sometimes exceeding 1 m high; culms geniculate at the base, sheaths striate, shorter than the internodes, pubescent at the junction with the blade; ligule represented by a ciliate line; blades most often spreading, up to 7 mm wide, of very variable length.
 
-Grande panicule très lâche atteignant plusieurs décimètres de long et de large, à ramifications allongées, les ultimes finement capillaires et flexueuses; pédicelles généralement de plus de 4 mm de long, jusqu'à 10 mm et plus. Épillets de teinte paille, violets vers le sommet, linéaires allongés à bords parallèles, jusqu'à 30 mm de long ou plus et environ 2 mm de large. Glumes glabres à 1 nervure, l'inférieure de 1 mm de long, la supérieure de 2 mm. Lemmas étroitement imbriquées d'environ 2 mm de long, glabres, à 3 nervures, obtuses ou obtusément acuminées au sommet. Palées persistantes, scabres sur les carènes. Akènes ovoïdes, tronqués à la base, de 0,5 mm de long.
+Large very lax panicle reaching several decimetres long and wide, with elongated ramifications, the ultimate ones finely capillary and flexuous; pedicels generally more than 4 mm long, up to 10 mm and more. Spikelets of straw colour, purplish towards the apex, linear elongated with parallel margins, up to 30 mm long or more and about 2 mm wide. Glumes glabrous with 1 nerve, the lower one 1 mm long, the upper one 2 mm. Lemmas narrowly imbricate about 2 mm long, glabrous, with 3 nerves, obtuse or obtusely acuminate at the apex. Paleas persistent, scabrous on the keels. Caryopses ovoid, truncate at the base, 0.5 mm long.
 
-Espèce répandue surtout dans les zones sahéliennes et soudano-sahéliennes, où elle caractérise les terrains sableux.
+Species widespread especially in Sahelian and Sudano-Sahelian zones, where it characterizes sandy soils.
 
-Au Gabon, c'est une rudérale, plus fréquente également dans les sols sableux qu'argileux. Elle est signalée par Jardin.
+In Gabon, it is a ruderal, more frequent also in sandy soils than clayey ones. It is recorded by Jardin.
 
 ## Notes
 

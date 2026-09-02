@@ -17,45 +17,39 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1) : 273 (1954) ; EXELL & GARCIA, CFA : 76 (1970) ; LIBEN, FZ : 29 (1968) ; WICKENS, FTEA : 55 (1973) ; LIBEN, Fl. Cameroun 25 : 39 (1983) ; BJBB 54 : 290 (1984). TYPE : Cameroon, Yaoundé (fl.) Zenker 740 (syn-B delet. ; lecto-BR {cf. LIBEN 1983 et 1984} ; iso-BM, K, M, Z).
 
-KEAY, FWTA, ed. 2, 1(1) : 273 (1954) ; EXELL & GARCIA, CFA : 76 (1970) ; LIBEN, FZ : 29 (1968) ; WICKENS, FTEA : 55 (1973) ; LIBEN, Fl. Cameroun 25 : 39 (1983) ; BJBB 54 : 290 (1984). TYPE : Cameroun, Yaoundé (fl.) Zenker 740 (syn-B delet. ; lecto-BR {cf. LIBEN 1983 et 1984} ; iso-BM, K, M, Z).
+Liane ≤ 10 m. Young branches often elongately pubescent.
 
-Liane ≤ 10 m. Jeunes rameaux souvent longuement pubescents.
+Leaves whorled by 2 or 3 ; petiole up to ≤ 7 mm long, lower portion persisting often in the form of a lignified spine ≤ 4 cm ; blade elliptic, ≤ 9 × ≤ 4 cm, papyraceous, furnished with long scattered hairs on both surfaces ; large lateral nerves 5–8 pairs, domatia scarcely visible ; base of blade rounded, apex acuminate and mucronate.
 
-Feuilles verticillées par 2 ou 3 ; pétiole long de ≤ 7 mm, partie inférieure persitant souvent sous forme d’une épine lignifiée ≤ 4 cm ; limbe elliptique, ≤ 9 × ≤ 4 cm, papyracé, muni de longs poils épars sur les deux faces ; grandes nervures latérales 5-8 paires, domaties peu visibles ; base du limbe arrondie, sommet acuminé et mucroné.
+Scales absent.
 
-Écailles absentes.
+Inflorescences in condensed axillary or terminal racemes, axilled by pale whitish-yellowish leaves ; rachis puberulent (and not pubescent !); bracts scarcely visible.
 
-Inflorescences en racèmes condensés axillaires ou terminaux, axillés par des feuilles blanc-jaunâtre pâle ; rachis pubérulent (et non pas pubescent !) ; bractées peu visibles.
+Flowers 4-merous, stipitate. Receptacle grey-green, covered with appressed hairs, the lower one 3–4.5 mm high, the upper one campanulate-infundibuliform, 6 × 3 mm. Calyx : lobes shortly triangular, length 0.5 mm. Petals length 2–4 mm, width 1–2 mm, red-purple. Stamens exsert 10–15 mm, filaments red-purple, anthers red 0.3 mm long. Style purple, exsert 5–12 mm (Pl. 22, 4, 5, p. 81).
 
-Fleurs 4-mères, stipitées. Réceptacle gris vert, couvert de poils apprimés, l'inférieur haut de 3-4,5 mm, le supérieur campanulé-infundibiliforme, 6 × 3 mm. Calice : lobes courtement triangulaires, longueur 0,5 mm. Pétales longueur 2-4 mm, largeur 1-2 mm, rouge-pourpre. Étamines exsertes de 10-15 mm, filets rouge-pourpre, anthères rouges longues de 0,3 mm. Style pourpre, exsert de 5-12 mm (Pl. 22, 4, 5, p. 81).
-
-Fruit vert à rougeâtre, diamètre ≤ 2,5 cm, avec des ailes membranées ; stipe 1 < 4 mm.
+Fruit green to reddish, diameter ≤ 2.5 cm, with membranous wings ; stipe 1 < 4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Cameroun à l'Angola et à l'Ouganda
+from Cameroon to Angola and Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 altitude ≤ 640 m
 
-Breteler & Lemmens 8413, entre Libreville et Kango (fl., fr., Oct.), LBV, MO, WAG.
+Breteler & Lemmens 8413, between Libreville and Kango (fl., fr., Oct.), LBV, MO, WAG.
 
-Klaine 969, environs de Libreville (fl., Juin), P ; 2357, id. (fl., Sept.), P.
+Klaine 969, environs of Libreville (fl., June), P ; 2357, id. (fl., Sept.), P.
 
 Le Testu 1139, Biloukou, 2°47'S-10°48'E (fl., Sept.), BR, P.
 
-Louis 2769, Mont Iboundji, 1°10'S-11°49'E (fl., fr. juv. Fév.), MO, WAG.
+Louis 2769, Mont Iboundji, 1°10'S-11°49'E (fl., fr. juv. Feb.), MO, WAG.
 
-Reitsma & Reitsma 641, Libreville (fl., Mars), LBV, MA, MO, WAG.
+Reitsma & Reitsma 641, Libreville (fl., March), LBV, MA, MO, WAG.
 
-Walker s.n., St. Martin (fl., fr., Août), P.
+Walker s.n., St. Martin (fl., fr., Aug.), P.
 
 ## Figures
 

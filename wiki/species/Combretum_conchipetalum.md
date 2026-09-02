@@ -17,39 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, Limbareni Eninga (fl., June) Buchholz s.n. anno 1875 (holo-B delet.); LECTOTYPE designated here: (lecto-fragm. K et isolecto-fragm. BM).
 
-TYPE : Gabon, Limbareni Eninga (fl., Juin) Buchholz s.n. anno 1875 (holo-B delet.); LECTOTYPE désigné ici : (lecto-fragm. K et isolecto-fragm. BM).
+– C. afzelii Engler & Diels, Mon. Afr., Pfl., 3: 22, tab. 5c (1899); Liben, FZ: 48 (1968); Bull. Jard. Bot. Nat. Belg. 49 (1979); Fl., Cameroun 25: 58, fig. 15 (1983). TYPE: Nigeria, Iddo Isl., Lagos (fl.) Millen 7 (syn-B deletion.; lecto-K [by Liben (1979), nom. illegit.: non G. DON.
 
-– C. afzelii Engler & Diels, Mon. Afr., Pfl., 3: 22, tab. 5c (1899); Liben, FZ: 48 (1968); Bull. Jard. Bot. Nat. Belg. 49 (1979); Fl., Cameroun 25: 58, fig. 15 (1983). TYPE: Nigeria, Iddo Isl., Lagos (fl.) Millen 7 (syn-B deletion.; lecto-K [par Liben (1979), nom. illegit. : non G. DON.
+- C. sp. $ n^{\circ} $ I LIBEN, FZ: 61 (1983).
 
-- C. sp.  $ n^{\circ} $ I LIBEN, FZ : 61 (1983).
+– C. cuspidatum auct. non PLANCH. EX BENTH.: KEAY, FWTA, ed. 2, 1(1): 272 (1954) p.p.: description of the fruit.
 
-– C. cuspidatum auct. non PLANCH. EX BENTH. : KEAY, FWTA, ed. 2, 1(1) : 272 (1954) p.p. : description du fruit.
+Liane ≤ 30 m and diameter ≤ 10 cm. Wood yielding a viscous colourless exudation. Young branches smooth, glabrous.
 
-Liane ≤ 30 m et diamètre ≤ 10 cm. Bois donnant un écoulement incolore visqueux. Jeunes rameaux lisses, glabres.
+Leaves opposite; petiole < 15 mm; blade obovate, ≤ 27 × ≤ 10 cm, upper surface often shining, lower surface glabrous to pubescent; base attenuate; apex rounded to acute; large lateral veins, 6–12 pairs; never with axillary domatia. Young leaves purplescent (Pl. 8, E, p. 31).
 
-Feuilles opposées ; pétiole < 15 mm ; limbe obové, ≤ 27 × ≤ 10 cm, dessus souvent luisant, dessous glabre à pubescent ; base atténuée ; sommet arrondi à aigu ; grandes nervures latérales, 6-12 paires ; jamais de domaties axillaires. Jeunes feuilles pourprescentes (Pl. 8, E, p. 31).
+Scales, diameter 50 μm.
 
-Écailles, diamètre 50 μm.
+Inflorescences paniculate ≤ 14 cm, either in the axil of a leaf of the current year or terminal; bracts scarcely visible.
 
-Inflorescences paniculées ≤ 14 cm, soit à l’aisselle d’une feuille de l’année soit terminales ; bractées peu visibles.
+Flowers 4-merous, sessile, not protogynous, fragrant. Receptacle 3 mm high: the lower part 1–2 mm high, the upper, campanulate, 2×2 mm. Calyx: lobes shortly triangular. Petals white, glabrous, orbicular, diameter 1.5 mm. Stamens exserted 4–5 mm; filaments white; anthers 0.4–0.5 mm long. Style white, exserted 5 mm (Pl. 8, F, p. 31).
 
-Fleurs 4-mères, sessiles, non protogynes, odorantes. Réceptacle haut de 3 mm : l'inférieur haut de 1-2 mm, le supérieur, campanulé, 2×2 mm. Calice : lobes courtemment triangulaires. Pétales blancs, glabres, orbiculaires, diamètre 1,5 mm. Étamines exsertes de 4-5 mm ; filets blancs ; anthères longues de 0,4-0,5 mm. Style blanc, exsert de 5 mm (Pl. 8, F, p. 31).
-
-Fruit, profil ovo-deltoïde, longueur ≤ 4 cm, largeur ≤ 2 cm, ailes triangulaires en coupe transversale, adapté à la dispersion par l'eau ; jeune fruit muni d'ailes encore papyracées ; stipe 3-7 mm (Pl. 1 C, p. 11 ; Pl. 8 G, H, p. 11).
+Fruit, ovo-deltoid in profile, length ≤ 4 cm, width ≤ 2 cm, wings triangular in cross-section, adapted for water dispersal; young fruit with wings still papyraceous; stipe 3–7 mm (Pl. 1 C, p. 11; Pl. 8 G, H, p. 11).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée Bissau au Gabon et au Congo (Kinshasa)
+from Guinea-Bissau to Gabon and Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt sur des bancs de rivière et en milieu boisé jusqu'à 470 m d'altitude
+in forest on riverbanks and in wooded habitat up to 470 m altitude
 
 ## Specimens examined
 

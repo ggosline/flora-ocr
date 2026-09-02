@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-H. nemoreum (Vahl) Spreng. var. minus Cherm., Bull. Soc. Bot. France 77 : 276 (1930). Herbe grêle, avec des tiges solitaires à l’extrémité de fins stolons ; tige centrale , de 30– 90 cm × 1–3 mm, triangulaire, lisse en bas, fortement scabre en haut, verte. Feuilles 3–10, la plupart basales sauf 2–3 disposées vers le haut de la tige, plus courtes ou plus longues que la tige ; gaine verte ; limbe plan ou légèrement plié, trinervé, le plus grand de 20–90 × 0,5–2,2 cm , à marge scabre à finement dentée au moins près de l’extrémité, progressivement rétréci en un sommet aigu. Inflorescence en panicule terminale, lâche, 2–18 × 2–13 cm , brun clair à brun foncé, avec 1–15 rayons primaires de 5 cm au plus, chacun sous-tendant de courts rameaux secondaires ou des épis ; bractées involucrales souvent
+H. nemoreum (Vahl) Spreng. var. minus Cherm., Bull. Soc. Bot. France 77 : 276 (1930). Slender herb, with solitary stems at the tip of fine stolons; central stem, 30–90 cm × 1–3 mm, triangular, smooth below, strongly scabrous above, green. Leaves 3–10, mostly basal except 2–3 arranged towards the upper part of the stem, shorter or longer than the stem; sheath green; blade flat or slightly folded, trinerved, the largest 20–90 × 0.5–2.2 cm, with margin scabrous to finely dentate at least near the apex, gradually narrowed to an acute apex. Inflorescence a terminal, loose panicle, 2–18 × 2–13 cm, pale brown to dark brown, with 1–15 primary rays at most 5 cm long, each subtending short secondary branches or spikes; involucral bracts often
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon et République Démocratique du Congo ; rare au Gabon, trouvée dans la Ngounié et l’Ogooué-Ivindo (3 récoltes)
+Cameroon, Gabon and Democratic Republic of the Congo; rare in Gabon, found in Ngounié and Ogooué-Ivindo (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts humides, quelquefois le long des rivières et des cours d’eau ; au Gabon, à 0-200 m d’altitude, jusqu’à 500 m en RDC. Note taxonomique : se reconnaît à sa panicule terminale lâche portant des épis longs de 3,5–5 mm et à ses petits akènes longs de 1,5–2 mm. b : Nelmes (1955a). ibliographie
+humid forests, sometimes along rivers and waterways; in Gabon, at 0–200 m altitude, up to 500 m in DRC. Taxonomic note: recognized by its terminal loose panicle bearing spikes 3.5–5 mm long and its small achenes 1.5–2 mm long. b: Nelmes (1955a). Bibliography
 
 ## Notes
 

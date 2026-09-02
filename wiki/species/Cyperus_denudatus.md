@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, avec les tiges serrées ou plus rarement, espacées le long du rhizome rampant, épais de 3‒5 mm, couvert d’écailles ; tiges de 30‒90 cm × 0,5‒5 mm (souvent plus larges au niveau des gaines), trigones à arêtes aiguës, vertes, glabres, spongieuses. Feuille : gaine plutôt lâche, brun rougeâtre clair à foncé ; limbe absent ou court (< 1cm) , habituellement brun rougeâtre (rarement vert). Inflorescence en anthèle ouverte ou contractée, ombelliforme, de 2‒15 × 2‒16 cm ; rayons primaires 4‒14, longs de 1‒8(‒15) cm, portant chacun une « ombelle » secondaire à rayons terminés habituellement par 2‒5 épillets sessiles digités ; bractées involucrales 1‒2, foliacées, souvent longues de 5‒30(‒80) mm et généralement plus courtes que l’inflorescence. Épillet linéaire – lancéolé, de 3‒10(‒16 avec le rachis nu) × 0,8‒1,5 mm , brun rougeâtre clair à foncé, à 5‒26 fleurs ; glumes ovales, longues de 1,2‒1,7 mm, brun rougeâtre clair à foncé , avec ou sans marge plus pâle et nervure centrale verte dépassant légèrement le sommet. Akène ovale à obovale, de 0,5‒0,7 × 0,3‒0,4 mm , blanchâtre et rugueux à l’état jeune, devenant brun et tuberculé à maturité.
+Perennial herb, with stems clustered or more rarely, spaced along the creeping rhizome, thick 3–5 mm, covered with scales; stems 30–90 cm × 0.5–5 mm (often wider at the level of the sheaths), triquetrous with sharp edges, green, glabrous, spongy. Leaf: sheath rather loose, light to dark reddish-brown; blade absent or short (< 1 cm), usually reddish-brown (rarely green). Inflorescence in an open or contracted anthela, umbelliform, 2–15 × 2–16 cm; primary rays 4–14, 1–8(–15) cm long, each bearing a secondary "umbel" with rays terminated usually by 2–5 digitately sessile spikelets; involucral bracts 1–2, foliaceous, often 5–30(–80) mm long and generally shorter than the inflorescence. Spikelet linear–lanceolate, 3–10(–16 with the naked rachis) × 0.8–1.5 mm, light to dark reddish-brown, with 5–26 flowers; glumes ovate, 1.2–1.7 mm long, light to dark reddish-brown, with or without a paler margin and green midvein slightly exceeding the apex. Achene ovate to obovate, 0.5–0.7 × 0.3–0.4 mm, whitish and wrinkled when young, becoming brown and tuberculate at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale et australe, y compris à Madagascar ; localement commune au Gabon, trouvée dans la Nyanga et l’Ogooué-Maritime (8 récoltes)
+widely distributed in tropical and southern Africa, including Madagascar; locally common in Gabon, found in the Nyanga and Ogooué-Maritime (8 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in marshes and their margins, along ditches and in other humid habitats; in Gabon, at 0–200 m altitude, up to 3000 m in East Africa. Taxonomic note: When the stem lies on wet soil, a new plantlet forms at the base of the inflorescence. This species is very close to C. haspan and could be considered a variety of it. C. haspan is however more slender, lacks an important creeping rhizome, but usually has more developed leaves. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
-dans les marécages et leur lisière, le long des fossés et dans d’autres habitats humides ; au Gabon, à 0‒200 m d’altitude, jusqu’à 3000 m en Afrique de l’Est. Note taxonomique : Lorsque la tige se couche sur un sol mouillé, une nouvelle plantule se forme à la base de l’inflorescence. Cette espèce est très proche de C. haspan et pourrait en être considérée comme une variété. C. haspan est cependant plus grêle, n’a pas de rhizome rampant important, mais habituellement des feuilles plus développées. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
-
-Inflorescences atypiques. – D. Base du pédoncule – C. Base des inflorescences. – D. Partie de (rayon) montrant le prophylle. – E. Épillet. – F. l’inflorescence. – E. Épillets. – F. Glume. – G. Fleur. Glume. – G. Fleur. – H. Jeune fruit avec style et – H. Fruit. Dessin original par Richard W. Haines ©. 3 filets. Dessin original par Richard W. Haines ©.
+Atypical inflorescences. – D. Base of the peduncle – C. Base of the inflorescences. – D. Part of (ray) showing the prophyll. – E. Spikelet. – F. of the inflorescence. – E. Spikelets. – F. Glume. – G. Flower. Glume. – G. Flower. – H. Young fruit with style and – H. Fruit. Original drawing by Richard W. Haines ©. 3 filaments. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B. pinnatum (Lam.) Oken, Allgem. Naturgesch. 3 : 1966 (1841). Herbe pérenne, jusqu’à 1(–2) m de hauteur, glabre ; tige dressée, ramifiée, peu ligneuse à la base. Feuilles : les basales simples, les supérieures 3- ou 5-foliolées ; pétiole 2,5–10 cm, semi-amplexicaule ; limbe simple : ovale à elliptique, 4–9 × 3–5 cm, à base cordée à arrondie ; limbe pennatifide : folioles orbiculaires à oblongs-ovales ou oblongs-spatulés, 2,5–8 × 1,5–4 cm, base cunée, sommet obtus, marge crénelée. Inflorescence lâche, glabre, 10–80 cm de longueur. Fleur pendante ; pédicelle 18–25 mm ; calice cylindrique-urcéolé, à tube de 22–30 × 8 mm, lobes ovés-triangulaires, aigus, 7–11 mm de longueur ; corolle cylindrique, verte à la base, rouge au sommet, éparsement pubescente-glanduleuse sur tout vers la base, tube 25–40 mm de longueur, étranglé à 8–10 mm de la base, lobes ovéstriangulaires, acuminés, 9–14 × 4–6,5 mm, recourbés ; étamines insérés en dessous de la constriction du tube, filets 25–27 mm, anthères exsertes, 3 mm de longueur ; écailles nec tarifères 2–2,5 mm de longueur ; carpelles oblongs-ovoïdes, jusqu’à 14 mm de longueur ; style 25–30 mm. Graines oblongues-ellipsoïdes, environ 0,5 mm de longueur.
+B. pinnatum (Lam.) Oken, Allgem. Naturgesch. 3 : 1966 (1841). Perennial herb, up to 1(–2) m tall, glabrous; stem erect, branched, slightly woody at the base. Leaves: basal ones simple, upper ones 3- or 5-foliolate; petiole 2.5–10 cm, semi-amplexicaul; simple lamina: ovate to elliptic, 4–9 × 3–5 cm, with cordate to rounded base; pinnatifid lamina: leaflets orbicular to oblong-ovate or oblong-spatulate, 2.5–8 × 1.5–4 cm, cuneate base, obtuse apex, crenate margin. Inflorescence lax, glabrous, 10–80 cm long. Flower pendulous; pedicel 18–25 mm; calyx cylindric-urceolate, with tube 22–30 × 8 mm, lobes ovate-triangular, acute, 7–11 mm long; corolla cylindric, green at the base, red at the apex, sparsely pubescent-glandular especially toward the base, tube 25–40 mm long, constricted 8–10 mm from the base, lobes ovate-triangular, acuminate, 9–14 × 4–6.5 mm, recurved; stamens inserted below the constriction of the tube, filaments 25–27 mm, anthers exserted, 3 mm long; nectariferous scales 2–2.5 mm long; carpels oblong-ovoid, up to 14 mm long; style 25–30 mm. Seeds oblong-ellipsoid, approximately 0.5 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+present in almost all tropical countries but of uncertain origin; introduced as an ornamental plant in gardens and regularly escaped; occurrence in Gabon mentioned only by Raponda-Walker & Sillans (1961) but not yet confirmed by a herbarium specimen
 
-présente dans presque tous les pays tropicaux mais d’origine incertaine ; in troduite comme plante ornementale dans les jardins et régulièrement échappée ; présence au Gabon mentionnée seulement par Raponda-Walker & Sillans (1961) mais pas encore confirmée par un échantillon d’herbier
-
-Kew (©), à partir de Wickens (1987).
+Kew (©), based on Wickens (1987).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce anthropophile, échappée des jardins et cultures, en stations sèches, ro cheuses ou le long des ruisseaux, aussi à l’ombre ; en Afrique jusqu’à 1600 m d’altitude. Usage : régulièrement cultivée par les villageois pour les mêmes usages que l’espèce précédente. Ailleurs, les feuilles sont régulièrement utilisées comme cataplasme dans le traitement des brûlures de toutes sortes
+anthropophilous species, escaped from gardens and cultivation, in dry, rocky stations or along streams, also in shade; in Africa up to 1600 m altitude. Use: regularly cultivated by villagers for the same uses as the preceding species. Elsewhere, the leaves are regularly used as a poultice in the treatment of burns of all kinds
 
 ## Vernacular names
 
 life plant, floppers (Angl.). Pour les noms gabonais, voir l’espèce précédente. b : Descoings (2003), Raponda-Walker & Sillans (1961), Toussaint (1951), ibliographie Wardah & van Valkenburg (1999), Wickens (1987)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 3
 

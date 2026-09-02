@@ -17,33 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PWA 3 (1): 318 (1915); EBJ 55: 436 (1919); PR 103 (4, 127); 34 (1938); HEPPER, FWTA, ed. 2, 1 (2): 743 (1958); LEMMENS, in BRETELER (ed.), AUWP 89 (6): 208, fig. 94-96 (1989).
 
-PWA 3 (1): 318 (1915); EBJ 55: 436 (1919); PR 103 (4, 127); 34 (1938); HEPPER, FWTA, ed. 2, 1 (2): 743 (1958); LEMMENS, in BRETELER (éd.), AUWP 89 (6): 208, fig. 94-96 (1989).
-
-- Connarus mannii Baker, FTA 1: 459 (1868). TYPE : Nigéria, Old Calabar, Mann 2264 (holo- K ; iso-P).
+- Connarus mannii Baker, FTA 1: 459 (1868). TYPE: Nigeria, Old Calabar, Mann 2264 (holo- K; iso-P).
 
 - Connarus pseudoracemosus GILG, EBJ 14: 317 (1891). TYPE: Gabon, Libreville, Sibange farm, Büttner 166 (holo-B delet.; lecto-P).
 
 – Cnestis pseudoracemosa (GILG) SCHELLENB., EBJ 55: 436 (1919); PR 103 (4, 127): 35 (1938).
 
-– C. grandifoliolata DE WILD. & TH. DUR., Bull. Herb. Boiss. 2 (1): 746 (1901); EXELL, J. Bot. 66, suppl. 1: 94 (1928); SCHELLENBERG, PR 103 (4, 127): 35 (1938); TROUPIN, FCBR 3: 120 (1952); EXELL & MENDONÇA, CFA 2: 138 (1954). TYPE: Zaïre, Kisantu, Gillet 1420 (holo-BR).
+– C. grandifoliolata DE WILD. & TH. DUR., Bull. Herb. Boiss. 2 (1): 746 (1901); EXELL, J. Bot. 66, suppl. 1: 94 (1928); SCHELLENBERG, PR 103 (4, 127): 35 (1938); TROUPIN, FCBR 3: 120 (1952); EXELL & MENDONÇA, CFA 2: 138 (1954). TYPE: Zaire, Kisantu, Gillet 1420 (holo-BR).
 
-– C. tomentosa Hepper, Kew Bull. 1956: 112 (1957); Hepper, FWTA, ed. 2, 1 (2): 743 (1958). TYPE: Cameroun, Div. de Koumba, env. de Banga au S. de Bakundu F.R., Brenan & al. 9328 (holo-K; iso-BM, P).
+– C. tomentosa Hepper, Kew Bull. 1956: 112 (1957); Hepper, FWTA, ed. 2, 1 (2): 743 (1958). TYPE: Cameroon, Div. de Koumba, env. de Banga au S. de Bakundu F.R., Brenan & al. 9328 (holo-K; iso-BM, P).
 
-Liane pouvant parfois atteindre 30 m de longueur. Rameaux cylindriques, jeunes rameaux souvent un peu anguleux avec une dense pubescence brune, plus rarement glabres.
+Liane reaching up to 30 m in length. Branches cylindrical, young branches often somewhat angular with dense brown pubescence, more rarely glabrous.
 
-Feuilles 2-4(-5)-juguées ; pétiole long de 3-12 cm, rachis de 5-15 cm, pubescence brune, parfois glabres. Folioles fortement papyracées ou coriaces, les latérales opposées ou non, (étroitement) ovées ou elliptiques, 4-18 × 2-9 cm, à base arrondie, subcordée ou rarement cunée, le plus souvent égale, la foliole terminale (ob)ovée ou elliptique, 6-19 × 3-12 cm, arrondie, subcordée ou rarement cunée à la base ; toutes les folioles sont acuminées ou parfois aiguës, dessus glabre, dessous soit avec tomentum ou pubescence bruns, soit glabre ; nervure médiane imprimée dessus, proéminente dessous ; nervures latérales 4-15 paires ; nervures III réticulées, distinctes sur les 2 faces ; pétioules longs de 2-5 mm, poilus ou plus rarement glabres.
+Leaves 2-4(-5)-jugate; petiole 3-12 cm long, rachis 5-15 cm, brown pubescence, sometimes glabrous. Leaflets strongly papyraceous or coriaceous, the lateral ones opposite or not, (narrowly) ovate or elliptic, 4-18 × 2-9 cm, with rounded, subcordate or rarely cuneate base, mostly equal, the terminal leaflet (ob)ovate or elliptic, 6-19 × 3-12 cm, rounded, subcordate or rarely cuneate at base; all leaflets acuminate or sometimes acute, glabrous above, below either with brown tomentum or pubescence, or glabrous; midvein impressed above, prominent below; lateral veins 4-15 pairs; tertiary veins reticulate, distinct on both faces; petiolules 2-5 mm long, pilose or more rarely glabrous.
 
-Inflorescences en panicules, 1 seul par aisselle, au sommet des jeunes rameaux, feuilles axillantes en général réduites ou très jeunes donnant l'aspect d'une inflorescence composée pseudo-terminale, longue de ≤ 40 cm, multiflore, avec des poils brun-jaunâtre denses, parfois aussi avec de courts poils glandulaires. A la base de l'inflorescence, sont des feuilles réduites, subulées ou linéaires, longues de ≤ 12 mm. Bractées très petites (0,5-1 mm). Pédicelles articulés à 1-2,5 mm au-dessous du calice, pubescence dense.
+Inflorescences paniculate, 1 only per axil, at the apex of young branches, axillant leaves generally reduced or very young giving the appearance of a pseudo-terminal compound inflorescence, ≤ 40 cm long, multiflorous, with dense yellowish-brown hairs, sometimes also with short glandular hairs. At the base of the inflorescence are reduced leaves, subulate or linear, ≤ 12 mm long. Bracts very small (0.5-1 mm). Pedicels articulate 1-2.5 mm below the calyx, dense pubescence.
 
-Fleurs hétérodistylées. Sépales jamais réfléchis, en préfloraison étroitement imbriquée, étroitement ovés ou étroitement oblongs, 4-6 × 1-1,5 mm, aigus, marges infléchies, pubescence brun-jaunêtre rarement avec des poils glanduleux du côté externe, pubérulent à l'intérieur.
+Flowers heterostylous. Sepals never reflexed, in bud with narrow imbricate aestivation, narrowly ovate or narrowly oblong, 4-6 × 1-1.5 mm, acute, margins inflexed, yellowish-brown pubescence rarely with glandular hairs on the external side, puberulent on the inside.
 
-Pétales en préfloraison étroitement imbriquée, obovés à elliptiques,  $ 1,5-3 \times 1 $ mm, base cunée, sommet obtus ou subaigu, avec de longs poils sur la moitié inférieure externe, glabres du côté interne, à nervures indistinctes. Étamines courtement réunies par leur base, subégales, longues de  $ 1,5-2,5 $ ou de  $ (4)-5-6 $ mm, anthères  $ 0,5-0,6 \times 0,3-0,4 $ mm. Pistil : carpelles longs de  $ 1,5-2,5 $ ou de  $ 4,5-6,5 $ mm ; ovaires longs de  $ \approx 0,5 $ mm, pubescence jaunâtre ; styles droits ou courbés, pubescents à la partie inférieure ; stigmates ± obliques, 2-lobés.
+Petals in bud with narrow imbricate aestivation, obovate to elliptic, 1.5-3 × 1 mm, cuneate base, apex obtuse or subacute, with long hairs on the lower external half, glabrous on the internal side, with indistinct veins. Stamens shortly united at their base, subequal, 1.5-2.5 or (4)-5-6 mm long, anthers 0.5-0.6 × 0.3-0.4 mm. Pistil: carpels 1.5-2.5 or 4.5-6.5 mm long; ovaries ≈ 0.5 mm long, yellowish pubescence; styles straight or curved, pubescent in the lower part; stigmas ± oblique, 2-lobed.
 
-Fruits : follicules 1 ou parfois 2 par fleur, étroitement ovoïdes ou étroitement ellipsoïdaux, obliques, 3-6,5 × 1-2,5 cm, cunés, avec un stipe long de 5-25 mm, ± net à la base ; bec en général assez mince, long de 5-15(20) mm, bien marqué ; péricarpe avec de courts poils rouges et d'autres jaunâtres et plus longs sur la face externe, l'interne ne portant que de longs poils jaunâtres.
+Fruits: follicles 1 or sometimes 2 per flower, narrowly ovoid or narrowly ellipsoidal, oblique, 3-6.5 × 1-2.5 cm, cuneate, with a stipe 5-25 mm long, ± distinct at the base; beak generally rather slender, 5-15(20) mm long, well marked; exocarp with short red hairs and others yellowish and longer on the external face, the internal face bearing only long yellowish hairs.
 
-Graines ovoïdes, 20-25 × 10-15 mm, sarcotesta long de 7-11 mm, ruminé. - Pl. 17, p. 59.
+Seeds ovoid, 20-25 × 10-15 mm, sarcotesta 7-11 mm long, ruminate. - Pl. 17, p. 59.
 
 ## Type
 
@@ -51,21 +49,15 @@ Mann 2264, Old Calabar, Nigéria
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sud du Nigéria, Sud-Ouest du Cameroun, Gabon, Sud-Ouest du Zaïre, Nord-Ouest de l'Angola
+Southern Nigeria, Southwest Cameroon, Gabon, Southwest Zaire, Northwest Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, occasionnellement dans les lieux cultivés. La floraison la plus abondante au Gabon a lieu entre Septembre et Octobre
+Rainforests, occasionally in cultivated places. The most abundant flowering in Gabon occurs between September and October
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce manifeste au Gabon une variation importante des folioles (nombre, forme, taille, nervation, indumentum) et des follicules (forme et taille). Il est à noter qu'elle semble partout rare, en dépit de sa large répartition
+This species displays in Gabon important variation in the leaflets (number, shape, size, venation, indumentum) and follicles (shape and size). It is noteworthy that it appears everywhere rare, despite its wide distribution
 
 ## Specimens examined
 

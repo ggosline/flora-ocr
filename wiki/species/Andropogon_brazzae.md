@@ -21,9 +21,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L'espèce est signalée autour du Stanley-Pool et dans les régions situées au nord de Brazzaville. Elle se rencontre sur des sols sableux perméables, pauvres. Il est possible qu'elle se trouve dans la région de Franceville.
+The species is recorded around Stanley-Pool and in regions situated north of Brazzaville. It occurs on permeable sandy soils, poor in nutrients. It is possible that it occurs in the Franceville region.
 
 ## Notes
 

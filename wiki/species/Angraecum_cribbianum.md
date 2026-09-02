@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Tige < 10 cm. Feuilles 3-4, < 16,5 x 1,7 cm, tordues à la base pour se situer dans un même plan, blancolées à linéaires-oblancolées. Inflorescence 3,5-5 cm, 2-flore. Fleurs moyennes, résupinées. Sépale dorsal lancéolé, aigu. Pétales oblongs-lancéolés, acuminés, falciformes. Sépales latéraux obliquement lancéolés à oblongs-lancéolés, acuminés. Labelle 12 x 6 mm, oblong-elliptique, apiculé, entier, cochéiforme à la base, avec un callus-crête dans la moitié inférieure, assez épais, glabre. Éperon 8-9 mm, claviforme au-dessus d'une base amincie, légèrement recourbé, obtus. - Pl. 226, p. 473.
+Stem < 10 cm. Leaves 3-4, < 16.5 × 1.7 cm, twisted at the base to lie in the same plane, whitish to linear-oblanceolate. Inflorescence 3.5-5 cm, 2-flowered. Flowers medium-sized, resupinate. Dorsal sepal lanceolate, acute. Petals oblong-lanceolate, acuminate, falciform. Lateral sepals obliquely lanceolate to oblong-lanceolate, acuminate. Labellum 12 × 6 mm, oblong-elliptic, apiculate, entire, cochleate at the base, with a prominent callus-ridge in the lower half, rather thick, glabrous. Spur 8-9 mm, claviform above a narrowed base, slightly curved, obtuse. - Pl. 226, p. 473.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce actuellement connue que du Gabon
+species currently known only from Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-épiphyte, récolté à 1 m au-dessus du sol
+epiphytic, collected at 1 m above ground
 
 ## Specimens examined
 

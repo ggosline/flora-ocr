@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Mol. Phylogen. Evol. 67(2) : 376 (2013). Chionanthus nilotica (Oliv.) Stearn, Bot. J. Linn. Soc. 80 : 202 (1980). Linociera nilotica Oliv., Trans. Linn. Soc. 29(3) : 106, t. 117 (1875). Linociera lingelsheimiana Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov . Linociera macroura Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov. Arbre ou arbuste jusqu’à 5(–10) m de hauteur ; tronc jusqu’à 20 cm de diamètre. Feuille glabre ; pétiole canaliculé dessus, 5–10 mm ; limbe ovale à obovale ou oblong-elliptique, 6–14,5 × 2,2–5,5 cm, base atténuée, à sommet aigu à courtement acuminé ; nervure principale sillonnée dessus, les latérales en 6 à 10 paires, souvent avec domaties axillaires, en crypte glabre ou poilue à la gorge. Inflorescence en thyrse, 2–4 cm de longueur ; axe à poils épars et apprimés ; bractées ± 1 mm de longueur. Fleur : pédicelle 1–2(–5) mm ; calice à lobes ± trian gulaires, 1–1,5 mm de longueur, à pubescence apprimée vers la marge ; corolle 4–6 mm de longueur , à lobes de ± 2 mm de largeur. Fruit globuleux à ellipsoïde, 1–1,5 × 1–2,5 mm, bleu foncé à purpurin .
+Mol. Phylogen. Evol. 67(2) : 376 (2013). Chionanthus nilotica (Oliv.) Stearn, Bot. J. Linn. Soc. 80 : 202 (1980). Linociera nilotica Oliv., Trans. Linn. Soc. 29(3) : 106, t. 117 (1875). Linociera lingelsheimiana Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov. Linociera macroura Gilg & Schellenb., Bot. Jahrb. Syst. 51(1) : 72 (1913), syn. nov. Tree or shrub up to 5(–10) m tall; trunk up to 20 cm in diameter. Leaf glabrous; petiole channeled above, 5–10 mm; blade ovate to obovate or oblong-elliptic, 6–14.5 × 2.2–5.5 cm, base attenuate, apex acute to shortly acuminate; main vein grooved above, lateral veins in 6 to 10 pairs, often with axillary domatia, in crypts glabrous or hairy at the throat. Inflorescence thyrsoid, 2–4 cm long; axis with scattered appressed hairs; bracts ± 1 mm long. Flower: pedicel 1–2(–5) mm; calyx with ± triangular lobes, 1–1.5 mm long, with appressed pubescence toward the margin; corolla 4–6 mm long, with lobes ± 2 mm wide. Fruit globose to ellipsoid, 1–1.5 × 1–2.5 mm, dark blue to purplish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Sénégal jusqu’au Kenya, la Tanzanie et au sud jusqu’au nord-est de la Zambie ; au Gabon, connu de l’Ogooué-Ivindo (Réserve de la Lopé) et peut-être aussi de la Nyanga (voir Note)
+from Senegal to Kenya, Tanzania and south to northeastern Zambia; in Gabon, known from Ogooué-Ivindo (Lopé Reserve) and perhaps also from Nyanga (see Note)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières de la forêt, en forêt proche de la savane ; au Gabon à ± 200 m d’altitude, ailleurs à 0–1000 m
+forest margins, forest close to savanna; in Gabon at ± 200 m altitude, elsewhere at 0–1000 m
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Un échantillon de la Nyanga (environs de Tchibanga), Le Testu 1673 , est identifié comme N. nilotica avec doute. Le spécimen est plus poilu que les autres et davantage de matériel, surtout en fruit, est nécessaire pour résoudre ce problème. Dans plusieurs autres publications, Linociera lingelsheimiana a été traité comme un synonyme de N. mannii . Mais, l’échantillon type de ce taxon a les caractères et la même écologie que N. nilotica. B : Green (1963), Kupicha (1983), Liben (1973), Stearn (1980). i B liographie
+A specimen from Nyanga (vicinity of Tchibanga), Le Testu 1673, is identified as N. nilotica with doubt. The specimen is more hairy than others and more material, especially in fruit, is necessary to resolve this problem. In several other publications, Linociera lingelsheimiana has been treated as a synonym of N. mannii. But the type specimen of this taxon has the characters and the same ecology as N. nilotica. B: Green (1963), Kupicha (1983), Liben (1973), Stearn (1980). Bibliography
 
 ## Notes
 

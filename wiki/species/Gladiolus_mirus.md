@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe glabre, atteignant 80 cm de hauteur ; corme de (1–)1,5–3 cm de diamètre ; tige d’environ 3 mm de diamètre ; cataphylles jusqu’à 5 cm de longueur . Feuilles caulinaires 4–8, oblongues à étroitement elliptiques, de 6–35 cm × 3–10 mm . Inflorescence 4–15flore ; bractées distantes de 1,5–3 cm, verdâtres, de 1,5–3(–4) cm de longueur. Fleurs zygomorphes ; périgone non nettement bilabié , rose à orangé, à tube élargi progressivement vers le sommet, de 15–20 mm de longueur, et légèrement plus court que les tépales, à gorge ornée de 2 lignes jaunes bordées d’orangé ; lobe supérieur médian elliptique, obtus, 22–35(–40) × 10–15 mm ; les latéraux elliptiques, obtus, 25–30 × 9–12 mm ; les inférieurs 22–25 × 6–8 mm et soudés sur 5–8 mm ; étamines dirigées vers le tépale supérieur, exsertes sur 5–10 mm, filets de 10–18 mm de longueur, anthères incurvées, de 8–10 mm ; style de 30–35 mm de longueur . Fruits de 12–16 mm de longueur ; valves de 4–6 mm de largeur. Graines subtriangulaires, légèrement anguleuses, bi-ailées, de 4–5 mm de longueur.
+Glabrous herb, reaching 80 cm in height; corm 1–3 cm in diameter; stem approximately 3 mm in diameter; cataphylls up to 5 cm in length. Cauline leaves 4–8, oblong to narrowly elliptic, 6–35 cm × 3–10 mm. Inflorescence 4–15-flowered; bracts distant 1.5–3 cm, greenish, 1.5–3(–4) cm in length. Flowers zygomorphic; perianth not clearly bilabiate, pink to orange, with tube gradually widened toward the apex, 15–20 mm in length, and slightly shorter than the tepals, throat ornamented with 2 yellow lines bordered with orange; upper median lobe elliptic, obtuse, 22–35(–40) × 10–15 mm; the lateral ones elliptic, obtuse, 25–30 × 9–12 mm; the lower ones 22–25 × 6–8 mm and connate for 5–8 mm; stamens directed toward the upper tepal, exserted 5–10 mm, filaments 10–18 mm in length, anthers incurved, 8–10 mm; style 30–35 mm in length. Fruits 12–16 mm in length; valves 4–6 mm in width. Seeds subtriangular, slightly angular, bi-winged, 4–5 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côte d’Ivoire, Nigérie, Cameroun, Gabon ; assez commun au Gabon
+Côte d'Ivoire, Nigeria, Cameroon, Gabon; quite common in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rocky grasslands, often on inselbergs; between 650 and 1000 m in altitude. B: Goldblatt (1996a), Parmentier, Geerinck & Lejoly (2002). BIBLIOGRAPHY
 
-pelouses rocheuses, souvent sur des inselbergs ; entre 650 et 1000 m d’altitude. B : Goldblatt (1996a), Parmentier, Geerinck & Lejoly (2002). IBLIOGRAPHIE
-
-Richards 19040, Billiet & Jadin 4204 ) . Planche par J. Manning (©), reprodruite avec permission à partir de Goldblatt (1993) l.c.
+Richards 19040, Billiet & Jadin 4204). Plate by J. Manning (©), reproduced with permission from Goldblatt (1993) l.c.
 
 ## Notes
 

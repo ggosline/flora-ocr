@@ -17,47 +17,39 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+KEAY, FWTA, ed. 2, 1(1): 272 (1954), p.p.: excl. syn. Combretum afzelii ENGL. & DIELS; LIBEN, FZ: 57 (1968); Fl. Cameroun 25: 52, fig. 15 (1983); BJBB 54: 290 (1984). TYPE: Sierra Leone (fl.) Vogel 47 (holo-K).
 
-KEAY, FWTA, ed. 2, 1(1) : 272 (1954), p.p. : excl. syn. Combretum afzelii ENGL. & DIELS ; LIBEN, FZ : 57 (1968) ; Fl. Cameroun 25 : 52, fig. 15 (1983) ; BJBB 54 : 290 (1984). TYPE : Sierra Leone (fl.) Vogel 47 (holo-K).
+– C. insulare ENGLER & DIELS, Mon. Afr., Pfl., 3: 21 (1899); KEAY, FWTA, ed. 2, 1(1): 272 (1954). TYPE: Fernando Po (fl.) Mann 1156 (holo-B delet.; LECTOTYPE designated here: lecto-P; iso-K).
 
-– C. insulare ENGLER & DIELS, Mon. Afr., Pfl., 3 : 21 (1899) ; KEAY, FWTA, ed. 2, 1(1) : 272 (1954). TYPE : Fernando Po (fl.) Mann 1156 (holo-B delet. ; LECTOTYPE désigné ici : lecto-P ; iso-K).
+Liane ≤ 30 m, diameter ≤ 10 cm. Branches often tuberculate.
 
-Liane ≤ 30 m, diamètre ≤ 10 cm. Branches souvent tuberculées.
+Leaves 2–3-whorled; petiole ≤ 25 mm; blade elliptic, ≤ 33 × ≤ 12 cm, coriaceous, subglabrous; major lateral nerves 11–18 pairs, axillary domatia more or less pubescent; the major lateral nerves and midvein depressed above; blade base rounded or subcordate; acumen generally long.
 
-Feuilles 2-3-verticillées ; pétiole ≤ 25 mm ; limbe elliptique, ≤ 33 × ≤ 12 cm, coriace, subglabre ; grandes nervures latérales 11-18 paires, domaties axillaires plus ou moins pubescentes ; les grandes nervures
+Scales, diameter 50 μm.
 
-latérales et la médiane, déprimées dessus ; base du limbe arrondie ou subcordée ; acumen généralement long.
+Inflorescences paniculate ≤ 14, axillary from a leaf of the current year or terminal. Bracts not visible.
 
-Écailles, diamètre 50 μm.
+Flowers white, 4-merous, sessile, not protogynous, fragrant. Receptacle 3.5 mm high, the upper campanulate, 2.5 × 2 mm. Calyx, lobes shortly triangular. Petals white becoming yellow, glabrous, length 1–1.5 mm (1.5 times the width). Stamens exsert 2–4 mm; filaments white; anthers 0.4 mm long. Style exsert 3 mm.
 
-Inflorescences paniculées ≤ 14, axillaires d'une feuille de l'année ou terminales. Bractées non visibles.
-
-Fleurs blanches, 4-mères, sessiles, non protogynes, odorantes. Réceptable haut de 3,5 mm, le supérieur campanulé, 2,5 × 2 mm. Calice, lobes courtemment triangulaires. Pétales blancs devenant jaunes, glabres, longeur 1-1,5 mm (1,5 fois la largeur). Étamines exsertes de 2-4 mm ; filets blancs ; anthères longues de 0,4 mm. Style exsert de 3 mm.
-
-Fruit rouge violet, profil elliptique, ≤ 6 × ≤ 3 cm, glabre hormis les écailles ; ailes finement papyracées à papyracées, stipe ≤ 7 mm (Pl. 1, D, p. 11). – Pl. 8, A-D, p. 31.
+Fruit red-violet, elliptic in profile, ≤ 6 × ≤ 3 cm, glabrous except for the scales; wings finely papyraceous to papyraceous, stipe ≤ 7 mm (Pl. 1, D, p. 11). – Pl. 8, A–D, p. 31.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Congo (Kinshasa) et à l'Angola
+from Sierra Leone to Congo (Kinshasa) and Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid forests, alt. 0–470 m
 
-Forêts denses humides, alt. 0-470 m
+Arends, Louis, et de Wilde 461, 25 km E of Mouila, 1°50'S–11°10'E (fl., Nov.), MO, WAG.
 
-Arends, Louis, et de Wilde 461, 25 km à l'E de Mouila, 1°50'S-11°10'E (fl., Nov.), MO, WAG.
+Breteler, Jongkind, et Wieringa 11016, 5–30 km NNW of Ndjolé, 0°05'S–10°45'E (fr.), WAG; 11244, 30 km E of Lastoursville (fl., May), WAG.
 
-Breteler, Jongkind, et Wieringa 11016, 5-30 km au NNO de Ndjolé, 0°05'S-10°45'E (fr.), WAG ; 11244, 30 km à l'E de Lastoursville (fl., Mai), WAG.
+Chevalier 27094, Mboro, on the Ramboué river (fr., Oct.), P.
 
-Chevalier 27094, Mboro, sur la riv. Ramboué (fr., Oct.), P.
+De Wilde & Arends 9916, near Rabi airfield, 1°45'S–9°50'E (fl., Dec.), WAG.
 
-De Wilde & Arends 9916, près du terrain d'aviation de Rabi, 1°45'S-9°50'E (fl., Déc.), WAG.
-
-McPherson 15717, site de recherche de gaz naturel, rivière Remboué, 0°00'N 9°50'E (fl., Mai), MO, WAG ; 16330, Forêt des Abeilles, 0°27'S-11°45'E (fr., Déc.), MO, WAG.
+McPherson 15717, natural gas research site, Remboué river, 0°00'N 9°50'E (fl., May), MO, WAG; 16330, Forest of the Bees, 0°27'S–11°45'E (fr., Dec.), MO, WAG.
 
 ## Figures
 

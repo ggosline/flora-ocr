@@ -24,8 +24,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Rostellularia tenella Nees in DC. Prodr. II : 369 (1847). — Bentham, Fl. Nigrit. : 481 (1849).
 
 ≡ Theilaemea rupestris (Nees) Baill., Hist. Pl. 10 : 432 (1891).
@@ -36,13 +34,11 @@ tags: [species, generated]
 
 ≡ Phaulopsis rupestris (Nees) Lindau, l. c., Nachtr. zu II-IV, 1:305 (1897), cit.: « Nees ».
 
-Petite plante tapissante, à nœuds radicifères; tiges rameuses se croisant sur le sol en formant ainsi çà et là une couche assez dense, subquadrangulaire à deux rangs de petits poils recourbés et adpressés. Pétioles de 1-2 cm de long. Limbe des feuilles largement ovale, arrondi au sommet, acuminé à la base et un peu décurrent à la base, de 10-22 × 18-40 cm, glabre. Nervures latérales ascendantes, au nombre de 3-4 paires, anastomosées en arc vers le bord du limbe, un peu plus proéminentes en dessous qu'au-dessus.
+Small creeping plant with rooting nodes; stems branched, crossing over the soil and forming here and there a fairly dense layer, subquadrangular with two rows of small curved and appressed hairs. Petioles 1-2 cm long. Leaf blade broadly ovate, rounded at the apex, acuminate at the base and slightly decurrent at the base, 10-22 × 18-40 cm, glabrous. Lateral nerves ascending, 3-4 pairs in number, anastomosing in an arc towards the blade margin, somewhat more prominent below than above.
 
-Inflorescences terminales et axillaires, aussi longues que les feuilles ou les dépassant un peu, simples, en forme d'épi et ressemblant beaucoup à celles du genre Rungia; 2-6 inflorescences par nœud; pédoncule de 2-2,5 cm de long, à deux lignes de poils recourbés et adpressés; épis de 10-25 × 6-7 mm. Bractées sessiles orbiculaires-obovales, de 3 × 4 mm. glabres, ± transparentes, un peu rétrécies à la base, très finement dentelées-ciliées sur les bords avec au sommet une petite pointe à extrémité arrondie ou obtuse. Bractéoles lancéolées, velues, de 1,5 × 0,5 mm. Calice
+Inflorescences terminal and axillary, as long as the leaves or slightly exceeding them, simple, spike-like and closely resembling those of the genus Rungia; 2-6 inflorescences per node; peduncle 2-2.5 cm long, with two lines of curved and appressed hairs; spikes 10-25 × 6-7 mm. Bracts sessile orbicular-obovate, 3 × 4 mm, glabrous, ± transparent, somewhat narrowed at the base, very finely dentate-ciliate on the margins with at the apex a small point with rounded or obtuse apex. Bracteoles lanceolate, pilose, 1.5 × 0.5 mm. Calyx split almost to the base, with lanceolate sepals, 2.5 × 0.2 mm, very finely ciliate on the margins. Corolla white, with a few reddish spots on the lower lip, approximately 2.5 mm long, with a tube 1.5 mm long; upper lip 1 × 0.5 mm; lower lip 1 × 0.5 mm. Anthers 0.8 mm, with filament 1 mm; locules 0.3 mm, pilose; the lower locule is provided with a hyaline spur 0.7 mm. Ovary 0.5 mm high; style 1.5 mm.
 
-fendu presque jusqu'à la base, à sépales lancéolées, de 2,5 × 0,2 mm, très finement ciliés sur les bords. Corolle blanche, avec quelques taches rougeâtres à la lèvre inférieure, d'environ 2,5 mm de long, à tube de 1,5 mm de long; lèvre supérieure de 1 × 0,5 mm; lèvre inférieure de 1 × 0,5 mm. Anthères de 0,8 mm, à filet de 1 mm; loges de 0,3 mm, poilues; la loge inférieure est munie d'un éperon hyalin de 0,7 mm. Ovaire 0,5 mm de haut; style 1,5 mm.
-
-Capsule de  $ 3 \times 0.75 $ mm, à partie inférieure ± stipitée sur 1 mm. Graines aplaties de  $ 0.4 \times 0.3 \times 0.15 $ mm, couvertes de petits poils blancs hygroscopiques.
+Capsule $ 3 \times 0.75 $ mm, with lower portion ± stipitate for 1 mm. Seeds flattened $ 0.4 \times 0.3 \times 0.15 $ mm, covered with small white hygroscopic hairs.
 
 ## Type
 
@@ -50,15 +46,11 @@ Bojer, Madagascar (G, K, syntype!); Heudelot, Sénégal (P, syntype)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Très répandue en Afrique tropicale et à Madagascar.
+Very widespread in tropical Africa and Madagascar.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-— La plupart des auteurs du xix<sup>e</sup> siècle ont généralement admis que cette espèce soit écartée du genre Justicia L.; cette séparation paraît d'ailleurs justifiée. Mais ce point de vue sera à réviser dans le cadre d'une future étude monographique du genre Justicia (voir aussi notes p. 173, 214)
+— Most authors of the nineteenth century generally accepted that this species be separated from the genus Justicia L.; this separation appears moreover justified. But this viewpoint will need to be revised within the framework of a future monographic study of the genus Justicia (see also notes p. 173, 214).
 
 ## Specimens examined
 

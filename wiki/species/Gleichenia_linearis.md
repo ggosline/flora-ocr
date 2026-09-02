@@ -24,11 +24,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Clarke, Trans. Linn. Soc. 1 : 428 (1880).
 
-Rhizome lâchement rampant, couvert de poils brunâtre. Fronde de 1 à 6 m. Pétiole long de 0,30 à 1 m, portant quelques écailles éparses à l'extrême base, nu au-dessus. Limbe ample, plusieurs fois furqué, chaque bifurcation portant, sous le bourgeon poilu, des « stipules » longues de 7-8 cm, profondément pinnati-partites, plus ou moins défléchies; la bifurcation ne porte pas de ces stipules. Dernières bifurcations seules foliacées, longues de 17-25 cm, ovales-lancéolées, profondément pinnatifides; segments ultimes linéaires, longs d'environ 2 cm, sur 0,2 de large, à extrémité arrondie, bords entiers, enroulés. Texture coriace, surfaces glabres, l'inférieure plus ou moins glauque. Nervures plusieurs fois furquées. Sores formés de 7-8 sporanges.
+Rhizome loosely creeping, covered with brownish hairs. Frond 1 to 6 m. Petiole 0.30 to 1 m long, bearing a few scattered scales at the extreme base, naked above. Lamina ample, several times furcate, each bifurcation bearing, beneath the hairy bud, "stipules" 7-8 cm long, deeply pinnatipartite, more or less deflexed; the bifurcation itself does not bear these stipules. Ultimate bifurcations alone foliaceous, 17-25 cm long, ovate-lanceolate, deeply pinnatifid; ultimate segments linear, about 2 cm long, 0.2 wide, with rounded apex, entire margins, enrolled. Texture coriaceous, surfaces glabrous, the lower surface more or less glaucous. Veins several times furcate. Sori formed of 7-8 sporangia.
 
 ## Type
 
@@ -36,11 +34,9 @@ Hermann 34, Ceylan. D'après Pichi-Sermolli, le type serait de Java
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical and subtropical regions of the Old World. In Africa, from Guinea to Congo.
 
-Régions tropicales et subtropicales de l'ancien monde. En Afrique, de Guinée au Congo.
-
-Talus des routes et des chemins de fer, formant des buissons dans les endroits éclairés.
+Slopes of roads and railway lines, forming shrubs in lit areas.
 
 ## Specimens examined
 

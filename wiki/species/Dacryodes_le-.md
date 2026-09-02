@@ -21,23 +21,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree.
 
-Arbre.
+Leaves imparipinnate, 6-jugate. Rachis 30-40 cm long, densely ferruginous pubescent. Leaflets subsessile, oblong, acuminate, asymmetric and rounded at the base, measuring up to 18 cm long and 6.5 wide, of very variable dimensions. From 7 to 12 pairs of secondary nerves, prominent beneath and connected in arches near the margin. Loose network of tertiary veins, prominent beneath.
 
-Feuilles imparipennées, 6- juguées. Rachis 30-40 cm long, densément pubescent ferrugineux. Folioles subsessiles, oblongues, acuminées, asymétriques et arrondies à la base, mesurant jusqu'à 18 cm de long et 6,5 de large, de dimensions très variables. De 7 à 12 paires de nervures secondaires, saillantes dessous et reliées en arceaux près de la marge. Réseau lâche de nervilles, saillantes dessous.
+Dense pubescence of long simple hairs on the petiolules, the nerves beneath, as well as on the midvein above. No stellate hairs visible, except sometimes on the petiolules.
 
-Pubescence dense de longs poils simples sur les pétiolules, les nervures en dessous, ainsi que sur la nervure médiane en dessus. Aucun poil étoilé visible, sauf quelquefois sur les pétiolules.
+This species by its leaves is very close to the hirsuta variety of D. edulis, to the point that one might wonder if it is not simply a variety of this D. edulis. It is distinguished only by the very short petiolules, and especially by the pubescence of simple hairs much denser than in D. edulis var. hirsuta.
 
-Cette espèce par les feuilles est très voisine de la variété hirsuta du D. edulis, au point que l'on pourrait se demander s'il ne s'agit pas d'une simple variété de ce D. edulis. Elle ne se distingue que par les pétiolules très courts, et surtout par la pubescence de poils simples beaucoup plus dense que chez D. edulis var. hirsuta.
+Comparison of the flowers likewise does not allow clear separating characters to be determined. The fruits of D. Le-Testui are unknown and as long as they remain so it will be difficult to know what the validity of this species is. However Normand in his study of the wood of Dacryodes distinguishes the two species D. Le-Testui and D. edulis.
 
-La comparaison des fleurs ne permet pas non plus de dégager des caractères séparatifs nets. Les fruits du D. Le-Testui sont inconnus et tant qu'ils le resteront il sera difficile de savoir quelle est la validité de cette espèce. Cependant Normand dans son étude du bois des Dacryodes distingue les deux espèces D. Le-Testui et D. edulis.
+Inflorescences in ferruginous tomentose panicles.
 
-Inflorescences en panicles tomenteuses ferrugineuses.
+Female flower. Pedicel approximately 3 mm, tomentose (stellate hairs) and long simple hairs. Calyx with 3 sepals tomentose on both faces, with some simple hairs on the external face (no. 8213), thick, 6-7 mm long. Petals 3, 7 mm long, tomentose externally, furnished with glandular hairs internally. Stamens 6, distinctly smaller than the petals, approximately 1.75-2 mm long. Disk glabrous. Ovary glabrous; 2 locules with 2 collateral ovules. Style glabrous, short. Stigma bilobed.
 
-Fleur ♀. Pédicelle environ 3 mm, tomenteux (poils étoilés) et longs poils simples. Calice à 3 sépales tomenteux sur les 2 faces, avec quelques poils simples sur la face externe (n° 8213), épais, 6-7 mm long. Pétales 3, de 7 mm de long, tomenteux extérieurement, garnis de poils glanduleux intérieurement. Étamines 6, nettement plus petites que les pétales, d'environ 1,75-2 mm de long. Disque glabre. Ovaire glabre; 2 loges à 2 ovules collatéraux. Style glabre, court. Stigmate bilobé.
-
-Fruit comestible.
+Edible fruit.
 
 ## Vernacular names
 
@@ -49,9 +47,7 @@ Le Testu 2103, Manzembi, Gabon (P.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Le D. Le-Testui n'est jusqu'à présent signalé qu'au Gabon, dans les régions du Mayombé Bayaka, de Lastoursville et de la haute Ngounié. Les spécimens du Congo rapportés dans la Flore du Congo Belge et du Ruanda Urunda au D. Le-Testui appartiennent en réalité au D. pubescens qui est une espèce tout à fait différente de D. Le-Testui.
+D. Le-Testui has so far been reported only from Gabon, in the regions of Mayombé Bayaka, Lastoursville and upper Ngounié. The specimens from Congo reported in the Flora of Belgian Congo and Ruanda Urundi as D. Le-Testui actually belong to D. pubescens which is a species entirely different from D. Le-Testui.
 
 ## Specimens examined
 

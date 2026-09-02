@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub branched from the base, erect up to 2–3 m; branches robust, 4-angular-winged, hairy on the surface, setulous on the angles; setae of the branches and floral organs barbed-scabérulous. Leaves with short petiole, 0.3 to 1 cm, flattened, hairy; blade 2–4 × 6–10 cm, ovate-cordate, or rounded base, apex acute to moderately acuminate; very sparsely hairy above; hairs soft, denser on the veins below; 5–7 veins; margins finely serrulate-ciliate.
 
-Arbrisseau ramifié dès la base, dressé jusqu'à 2-3 m; rameaux robustes, 4-angulaires-ailés, poilus sur la surface, sétuleux sur les angles; soies des rameaux et organes floraux, barbelées-scabérulées. Feuilles à pétiole court, 0,3 à 1 cm, aplati, poilu; limbe 2-4 × 6-10 cm, ovale-cordé, ou base arrondie, sommet aigu à modérément acuminé; très éparsement poilu dessus; poils mous, plus denses sur les nervures dessous: 5-7 nervures; marges finement serrulées-ciliées.
+Panicles copious, terminal on the stems and lateral branches; pyramidal, $ 15 \times 30 $ cm; axes 4-angular and setulous; $ \pm $ leafy on the first axial nodes, then foliaceous bracts, finally einerved bracts, strigose, ciliate, lanceolate, $ 1 \times 6 $ mm; finally shorter and glabrescent; caducous but still very numerous at the time of flowering. Flowers subsessile; hypanthium cylindrical, $ 3 \times 6 $ mm, scabérulous-setulous, especially toward the base, plus stipitate-discoid emergences, especially present toward the top, always early caducous; sepals triangular-acuminate, $ 1 \times 3–5 $ mm, pubescent-papillose on the back or with some median setae, densely and long ciliate. Petals mauve, obovate, 8–10 mm long, ciliate toward the apex. Stamens unequal: the outer ones with anther 6 mm, pedoconnective 2.5 mm, appendage 1.5 mm, truncate-claviform;
 
-Panicules copieuses, terminales sur les tiges et rameaux latéraux; pyramidales,  $ 15 \times 30 $ cm; axes 4-angulaires et sétuleux;  $ \pm $ feuillés sur les premiers nœuds axiaux, puis bractées foliacées, enfin bractées énerviées, strigilleuses, ciliées, lancées,  $ 1 \times 6 $ mm; enfin plus courtes et glabrescentes; caduques mais encore très nombreuses au moment de la floraison. Fleurs subsessiles; hypanthe cylindracé,  $ 3 \times 6 $ mm, scabérulé-sétuleux, surtout vers le bas, plus émergences stipitées-discoïdes, surtout présentes vers le haut, toujours précocement caduques; sépales triangulaires-acuminés,  $ 1 \times 3-5 $ mm, pubescents-papilleux sur le dos ou avec quelques soies médiannes, densément et longuement ciliés. Pétales mauves, obovales, longs de 8-10 mm, ciliés vers le sommet. Étamines inégales : les externes à anthère de 6 mm, pédoconnectif 2,5 mm, appendice 1,5 mm, tronqué-claviforme;
+filament $ \pm $ flattened, 4.5 mm; the inner ones with anther 5 mm; pedoconnective 0.5 mm, appendage bilobulate with mucro in the sinus; filament 4.5 mm. Ovary equal to half the height of the hypanthium; style 15 mm.
 
-filet ± aplati, 4,5 mm; les internes à anthère de 5 mm; pédoconnectif 0,5 mm, appendice bilobulé avec mucron dans le sinus; filet 4,5 mm. Ovaire égal à la demi-hauteur de l'hypanthe; style 15 mm.
-
-Capsule ovoïde-oblongue à ovo-tronconique,  $ 5 \times 9 $ mm, éparsement strigilleuse, toutes émergences et sépales caduces; sommet de l'ovaire conique, densément recouvert de soies scabres, les apicales plus robustes, groupées et cohérentes en 5 faisceaux péristyles. Graines  $ 0,3 \times 0,5 $ mm. — Pl. 3, fig. 13-18, p. 13.
+Capsule ovoid-oblong to ovo-truncate, $ 5 \times 9 $ mm, sparsely strigose, all emergences and sepals caducous; apex of the ovary conical, densely covered with scabrous setae, the apical ones more robust, grouped and coherent in 5 peristyle bundles. Seeds $ 0.3 \times 0.5 $ mm. — Pl. 3, fig. 13–18, p. 13.
 
 ## Type
 
@@ -33,9 +31,7 @@ Brazza J. de 43, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce répandue sur toute la Région guinéo-congolaise, avec extentions soudanienne, zambézienne et orientale : lisières de bosquets et galeries, bords de route, etc.
+Species widespread throughout the Guineo-Congolian Region, with Sudanian, Zambezian and Eastern extensions: forest margins and galleries, roadsides, etc.
 
 ## Specimens examined
 

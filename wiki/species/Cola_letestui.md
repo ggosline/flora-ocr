@@ -17,25 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, orig. ref., Fl. Mayombe I: 35 (1924) and Sterc. Gab., Mém. S. B. Fr.: 38 (1950-1951).
 
-, réf. orig., Fl. Mayombe I : 35 (1924) et Sterc. Gab., Mém. S. B. Fr. : 38 (1950-1951).
+Shrub approximately 4 m tall, with flexuous branches. Leaves clustered in bunches at the extremities. Stipules narrowly attenuate 10-15 mm long, more or less caducous, very finely puberulent as well as the petioles; these shortly thick and 10-12 mm long. Blade moderately coriaceous, entirely glabrous, 35-70 cm long, 8-18 cm wide towards the upper third and approximately 3-4 cm towards the lower third; base long-attenuate then abruptly rounded; apex lanceolate quite broadly and acute. Lateral veins 20-26 pairs pinnate; fine reticulum very apparent on both faces of the blade when dry.
 
-Arbuste d'environ 4 m de haut, à rameaux flexueux. Feuilles groupées en bouquets aux extrémités. Stipules étroitement atténuées de 10-15 mm de long, plus ou moins caduques, très finement pubérulentes ainsi que les pétioles; ceux-ci courtemment épais et longs de 10-12 mm. Limbe médiocrement coriace, entièrement glabre, de 35-70 cm de long, de 8-18 cm de large vers le tiers supérieur et d'env. 3-4 cm vers le tiers inférieur; base longuement atténuée puis brusquement arrondie; sommet lancéolé assez largement et aigu. Nervures latérales 20-26 paires pennées; fin réseau très apparent sur les deux faces du limbe à sec.
+Flowers pink arising from sessile bracteolate glomérules on the trunk and branches. Bracteoles lanceolate acute convex, puberulent externally, glabrous internally, approximately 2-3 mm long. Pedicels with some stellate hairs reaching 15 mm in the largest flowers, often less than 10 mm. Some flowers reach a remarkable size with a very thin calyx of nearly 30 mm long; other flowers, although appearing normally developed, have a calyx of 9 mm long or less. The calyx is glabrescent externally, papillose internally, campanulate over approximately one-third of its length; 5 (-6) oblong and lanceolate lobes, with narrow pubescent border in small flowers; this in the larger flowers becomes a wide undulate festooned fringe.
 
-Fleurs roses naissant de glomérules sessiles bractéolés sur le tronc et les branches. Bractéoles lancéolées aiguës convexes, pubérulentes extérieurement, glabres à l'intérieur, de 2-3 mm de long env. Pédicelles avec quelques poils étoilés atteignant 15 mm dans les plus grandes fleurs, ayant souvent moins de 10 mm. Certaines fleurs atteignent une taille remarquable avec un calice très mince de près de 30 mm de long; d'autres fleurs, bien que paraissant normalement développées, ont un calice de 9 mm de long ou moins. Le calice est glabrescent extérieurement, papilleux à l'intérieur, campanulé sur le tiers de sa longueur env.; 5 (-6) lobes oblongs et lancéolés, à étroit ourlet pubescent dans les petites fleurs; celui-ci dans les plus grandes fleurs devient une large frange ondulée festonnée.
+The androecium of the ♂ flower presents a narrow and glabrous column, which can reach 8 mm tall and bears 14 to 20 pollen sacs uniseriate arranged in a crown at the centre of which one distinguishes 7-10 atrophied carpels. ♀ flower with gynoecium surrounded by anthers and composed of 7 (-10) moderately pubescent carpels. Styles slender weakly curved reaching 3 to 5 mm long. Ovules approximately 7 per carpel.
 
-L'androcée de la fleur ♂ présente une colonne étroite et glabre, qui peut atteindre 8 mm de haut et supporte 14 à 20 loges poliniques unisériées disposées en une couronne au centre de laquelle on distingue 7-10 carpidies atrophiées. Fleur ♀ à gynécée ceint d'anthères et composé de 7 (-10) carpelles médiocrement pubescents. Styles grêles faiblement courbés atteignant 3 à 5 mm de long. Ovules env. 7 par carpelle.
+Fruit composed of indehiscent follicles (up to 5 or 7
 
-Fruit composé de follicules indéhiscents (jusqu'à 5 ou 7
+according to the scars of the receptacles), 4-5 cm long by approximately 2.5-3 cm wide when dry, subglobose, somewhat bosselated, scarlet red, glabrous, reflexed, with short or indistinct apical beak, with a pedicel of about ten mm; 1-6 seeds per follicle, 15 to 20 mm long, with 2 cotyledons, clothed in a thin somewhat fibrous integument.
 
-d’après les cicatrices des réceptacles), de 4-5 cm de long sur env. 2,5-3 cm de large à sec, subglobuleux, un peu bosselés, rouge écarlate, glabres, renversés, à bec apical court ou indistinct, à pédoncule d’une dizaine de mm; 1-6 graines par follicule, longues de 15 à 20 mm, à 2 cotylédons, vêtues d’un mince tégument un peu fibreux.
+Type of the species: Le Testu 2325, from Gabon (P.)
 
-Type de l'espèce : Le Testu 2325, du Gabon (P.)
+Material studied, sole known:
 
-Matériel étudié, seul connu :
-
-Le Testu : 2325, 5120, Ngounyé (fl. oct.; fr. nov.); 7472, 7504, 7504 bis. région de Lastoursville (j. bout. oct.; fr. déc.).
+Le Testu: 2325, 5120, Ngounyé (fl. Oct.; fr. Nov.); 7472, 7504, 7504 bis, Lastoursville region (fl. bot. Oct.; fr. Dec.).
 
 ## Figures
 

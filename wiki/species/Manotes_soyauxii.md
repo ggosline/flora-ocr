@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, Loango near Nanga, Soyaux 120 (holo-B delet.; lecto-K); JONGKIND, in BRETELER (ed.), AUWP 89 (6): 308 (1989).
 
-TYPE : Gabon, Loango près de Nanga, Soyaux 120 (holo-B delet. ; lecto-K) ; JONGKIND, in BRETELER (éd.), AUWP 89 (6) : 308 (1989).
+– M. pruinosa auct. non GILG: SCHELLENBERG, PR 103 (4, 127): 59, p.p. quoad Le Testu 1049 & 1061 (1938).
 
-– M. pruinosa auct. non GILG : SCHELLENBERG, PR 103 (4, 127): 59, p.p. quoad Le Testu 1049 & 1061 (1938).
+Liane. Young branches with a dense indumentum of long hairs. Leaves. Petiole approximately 4 cm long; rachis 7–12 cm, glabrous; petiolules 1–4 mm long; leaflets 9–13, ovate to elliptic, slightly pubescent to glabrous, base cordate to acute, apex acuminate; terminal leaflet 5–8.5 × 2–3.2 cm; lateral leaflets 1.1–7.5 × 0.8–2.5 cm.
 
-Liane. Jeunes rameaux avec un indument épais de longs poils. Feuilles. Pétiole long de ≈ 4 cm ; rachis de 7-12 cm, glabre, pétiolules long de 1-4 mm ; folioles 9-13, ovées à elliptiques, légèrement pubescentes à glabres, base cordée à aiguë, sommet acuminé, foliole terminale 5-8,5 × 2-3,2 cm ; folioles latérales 1,1-7,5 × 0,8-2,5 cm.
+Inflorescences approximately 27 cm long, pubescent to glabrous.
 
-Inflorescences longues de ≈ 27 cm, pubescentes à glabres.
+Flowers. Floral bud reaching 2–2.5 × 1.5–1.7 mm when calyx is closed. Pedicel above the articulation 1.5–6 mm long. Sepals lanceolate 2.5–3 × 1 mm. Petals narrowly elliptic 7.5–9 × 1.2–1.4 mm. Sepals and petals frequently bearing 3 types of hairs. Stamens, the long ones 3–6 mm, the short ones 1.5–4 mm; filaments with glandular hairs and as many spherical hairs. Pistil 2.5–5 mm long, not equal to the stamens; ovary with (short) glandular hairs and long hairs only, or additionally with spherical hairs; style with glandular hairs only, see Pl. 29, p. 97.
 
-Fleurs. Bouton floral atteignant 2-2,5 × 1,5-1,7 mm quand le calice est fermé. Pédicelle au-dessus de l'articulation long de 1,5-6 mm. Sépales lancéolés 2,5-3 × 1 mm. Pétales étroitement elliptiques 7,5-9 × 1,2-1,4 mm. Sépales et pétales ayant fréquemment 3 types de poils. Étamines, les longues 3-6 mm, les courtes 1,5-4 mm ; filets avec des poils glandulaires et autant de poils sphériques. Pistil long de 2,5-5 mm, non égal aux étamises ; ovaire avec de (courts) poils glandulaires et de longs poils seulement, ou avec en plus, des poils sphériques ; style avec des poils uniquement glandulaires, voir Pl. 29, p. 97.
-
-Fruits : follicules montrant les 3 types de poils. Pour l'indumentum des carpelles et des follicules, voir Pl. 29, p. 97.
+Fruits: follicles showing 3 types of hairs. For the indumentum of the carpels and follicles, see Pl. 29, p. 97.
 
 ## Type
 
@@ -37,9 +35,7 @@ Soyaux 120, Loango, près de Nanga, Congo
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Zaïre
+Cameroon, Gabon, Congo, Zaire
 
 ## Specimens examined
 

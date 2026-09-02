@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Lam., Encycl. 2:309 (1786).
 
-Rhizome courtement rampant, à frondes rapprochées, portant des écailles brunes, étroitement lancéolées, à bords entiers. Pétiole verdâtre, long de 6-10 cm, lisse, portant quelques rares écailles à l'extrême base. Limbe à contour deltoïde, long de 15 cm sur 5 cm, bipenné à la base. Pennes alternes, courtement pétiolées, longues de 2 cm sur 1 de large, peu effilées, espacées d'environ 1 cm, divisées en pinnules largement cunéiformes, non tronquées, dentées, la première pinnule supérieure nettement isolée, parallèle au rachis. Extrémité de la fronde simplement pennée, à pennes cunéiformes. Rachis vert, nu, ailé. Sores courts.
+Rhizome shortly creeping, with fronds crowded together, bearing brown scales, narrowly lanceolate, with entire margins. Petiole greenish, 6–10 cm long, smooth, bearing a few scattered scales at the extreme base. Lamina deltoid in outline, 15 cm long by 5 cm wide, bipinnate at the base. Pinnae alternate, shortly petiolate, 2 cm long by 1 cm wide, scarcely tapering, spaced approximately 1 cm apart, divided into broadly cuneiform pinnules, not truncate, dentate, the first upper pinnule distinctly isolated, parallel to the rachis. Apex of the frond simply pinnate, with cuneiform pinnae. Rachis green, naked, winged. Sori short.
 
-On peut considérer comme type le n° 1255 in herb. Jussieu (P).
+The specimen n° 1255 in herb. Jussieu (P) may be considered as the type.
 
-Côte-d'Ivoire, San-Thomé, Congo. Épiphyte tropicale.
+Côte-d'Ivoire, San-Thomé, Congo. Tropical epiphyte.
 
 ## Specimens examined
 

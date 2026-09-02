@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste peu branchu, atteignant 4 m de hauteur. Feuille : pétiole 3,5–12(–19) cm et rachis 13,5–25(–36) cm, les deux glabrescents, arrondis mais légèrement canaliculés dessus et avec un indument court et raide ; pétiolules 1–5 mm ; folioles (3–)7–11(–13), opposées à subopposées ou alternes, étroitement elliptiques à elliptiques ou obovales, 4–21 × 2,5–7 cm, à base cunéiforme ou obtuse, à sommet acuminé ou parfois presque aigu, glabrescent sur les deux faces, sauf la nervure médiane généralement densément poilue dessus ou rarement glabre. Inflorescence solitaire ou fasciculées par 2–3, paniculée, peu branchue, jusqu’à 60(–80) cm de longueur, à ramifications atteignant 17 cm de longueur ; parfois les fleurs presque sessiles et l’inflorescence rappelant un racème. Fleur fonctionnelle ment mâle : pédicelle articulé, 0,5–1,5 mm, pubérulent ; calice cupuliforme, tronqué ou faiblement (3–)4-lobé ou -denté, 2–3,5 × 3–4 mm , pubérulent et avec quelques glandes brunâtres ; pétales (3–)4, étroitement obovales à étroitement oblongs, 8–11 × 2,5–4 mm ; tube staminal 8–10 mm de longueur, glabre, à 8–9 anthères ; gynécée net, élancé, à stipe glabre de 0,5–2,5 mm de longueur, renflé vers le milieu ou en haut ; ovaire ellipsoïde, 1–2 mm de diamètre, densément velu ; style 3–4 mm. Fleur fonctionnellement femelle similaire, gynophore renflé et étroitement annulaire à la base de l’ovaire ; ovaire 1,5–2,5(–3) mm de diamètre, densément velu . Fruit stipité, ovoïde à obovoïde, souvent asymétrique, 3–7 × 2–5 cm, atténué vers le sommet sur 1 cm environ, jaunâtre, courtement velu.
+Shrub with few branches, reaching 4 m in height. Leaf: petiole 3.5–12(–19) cm and rachis 13.5–25(–36) cm, both glabrescently, rounded but slightly canaliculate above and with short, stiff indumentum; petiolules 1–5 mm; leaflets (3–)7–11(–13), opposite to subopposite or alternate, narrowly elliptic to elliptic or obovate, 4–21 × 2.5–7 cm, with cuneate or obtuse base, with acuminate or sometimes almost acute apex, glabrescently on both faces, except the midvein generally densely hairy above or rarely glabrous. Inflorescence solitary or fascicled by 2–3, paniculate, few-branched, up to 60(–80) cm in length, with branches reaching 17 cm in length; sometimes flowers almost sessile and inflorescence resembling a raceme. Functionally male flower: pedicel articulate, 0.5–1.5 mm, puberulent; calyx cupuliform, truncate or weakly (3–)4-lobed or -dentate, 2–3.5 × 3–4 mm, puberulent and with some brownish glands; petals (3–)4, narrowly obovate to narrowly oblong, 8–11 × 2.5–4 mm; staminal tube 8–10 mm in length, glabrous, with 8–9 anthers; gynoecium distinct, slender, with glabrous stipe 0.5–2.5 mm in length, swollen towards the middle or at the top; ovary ellipsoid, 1–2 mm in diameter, densely hairy; style 3–4 mm. Functionally female flower similar, gynophore swollen and narrowly annular at the base of the ovary; ovary 1.5–2.5(–3) mm in diameter, densely hairy. Fruit stipitate, ovoid to obovoid, often asymmetric, 3–7 × 2–5 cm, attenuate towards the apex over approximately 1 cm, yellowish, shortly hairy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale, Gabon, République du Congo ; au Gabon, connue de l’Estuaire, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et du Woleu-Ntem
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo; in Gabon, known from Estuaire, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts sempervirentes et semi-caducifoliées, vieille forêt secon daire ; au Gabon et ailleurs, jusqu’à 800 m d’altitude B : Hutchinson et al. (1958), Staner (1941), de Wilde (2007). ibliographie
+understory of evergreen and semi-deciduous forests, old secondary forest; in Gabon and elsewhere, up to 800 m in altitude B: Hutchinson et al. (1958), Staner (1941), de Wilde (2007). Bibliography
 
 ## Notes
 

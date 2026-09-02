@@ -13,19 +13,17 @@ tags: [species, generated]
 
 **Genus**: [[Annona]]
 **Family**: [[Annonaceae]]
-**Protologue**: Sp.Pl.,ed.1 : 537 (1753)；R.E.Fries,Act.Hort.Berg.I0 : 276(1931).— Walker et Sillans,Enc.Biol.56 :63(1961)
+**Protologue**: Sp.Pl.,ed.1 : 537 (1753);R.E.Fries,Act.Hort.Berg.I0 : 276(1931).— Walker et Sillans,Enc.Biol.56 :63(1961)
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+R.E.Fries, Act. Hort. Berg. 10: 276 (1931).— Walker et Sillans, Enc. Biol. 56: 63 (1961).
 
-；R.E.Fries,Act.Hort.Berg.I0 : 276(1931).— Walker et Sillans,Enc.Biol.56 :63(1961).
+Shrub reaching 6 m in height, with pubescent branchlets, becoming glabrescente. Leaves with petiole 6-12 mm long; lamina membranous, elliptic to lanceolate-elliptic, obtuse to rounded at the apex, acute at the base, 5-11 cm long, 2-5 cm wide, glabrous on the upper surface, pubescent on the lower surface of young leaves, glabrescent on adult leaves. Lateral veins 8-11 pairs, forming an acute angle with the midvein, prominent beneath.
 
-Arbuste atteignant 6 m de hauteur,ä ramilles pubescentes, devenant glabrescentes.Feuilles á pétiole long de 6-12 mm; limbe membraneux,elliptique ä lancéolé-elliptique,obtus á arrondi au sommet,aigu a la base,long de 5-11 cm，large de 2-5 cm, glabre ä la face supérieure,pubescent chez les jeunes feuilles ä la face inférieure, glabrescent chez les feuilles adultes. Nervures latérales 8-1I paires, formant un angle aigu avec la nervure médiane,proéminentes en dessous.
+Flowers whitish, oppositifoliate, solitary or in few-flowered cymes with peduncle 3 mm long; pedicel ± pubescent, 1-2 cm long. Sepals triangular-rounded, mucronate at the apex, 2 mm long, 3 mm wide, pubescent on the outside. Outer petals linear-oblong, obtuse, 1.2-2 cm long, 5 mm wide, tomentellous on the outside and on the inside above the concave base; inner petals rudimentary or absent. Stamens approximately 1 mm long. Carpels 1-1.2 mm long, ovaries oblong, pubescent, stigmas elongate as long as the ovaries.
 
-Fleurs blanchatres，oppositifoliées，solitaires ou en cymes pauciflores ä pédoncule long de 3 mm；pédicelle ± pubescent, long de 1-2 cm. Sépales triangulaires-arrondis， mucronés au sommet,longs de 2 mm,larges de 3 mm,pubescents á l'extérieur. Petales externes linéaires-oblongs,obtus, longs de 1,2-2 cm,larges de 5 mm, tomentelleux ä 'extérieur et ä 'intérieur au-dessus de la base concave；pétales internes rudimentaires ou absents. Etamines longues de 1 mm environ. Carpelles longs de 1-1,2 mm, ovaires oblongs,pubescents, stigmates allongés aussi longs que les ovaires.
-
-Fruits globuleux-ovoides,glabres,de 8-9 cm de diametre,a aréoles proéminentes, arrondies au sommet.
+Fruits globose-ovoid, glabrous, 8-9 cm in diameter, with prominent, rounded areoles at the apex.
 
 ## Type
 
@@ -33,11 +31,9 @@ in herb. LINN
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species native to the Antilles, more rarely cultivated than the Soursop. The edible fruit with white and soft pulp, very sweet, is excellent.
 
-Espéce originaire des Antilles，plus rarement cultivée que le Corossolier.Le fruit comestible ä pulpe blanche et molle,tres sucrée,est excellent.
-
-Les feuilles appliquées en cataplasme,sont utilisées pour les tumeurs. Les graines pulvérisées détruisent les poux.
+The leaves applied as a poultice are used for tumours. The powdered seeds destroy lice.
 
 ## Notes
 

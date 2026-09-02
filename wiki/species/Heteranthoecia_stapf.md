@@ -15,8 +15,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 27.1 Heteranthoecia guineensis (Franch.) Robyns Fl. Gab.: 111, Pl. 18 ; FACB 2 : 370 ; FWTA : 421 ; FTEA : 432, fig. 117 ; Fl. Zamb. 10(3) : 198, tab. 53 ; Gram. Cam. : 357, Pl. 74 ; Gram. CB. : 244, fig. 28.
 
 ## Specimens examined

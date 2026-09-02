@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Bequaert 6413, Congo (Kinshasa), holo-BR. – FTWA: 236 (1968); FCAM 2: 427 (2001).
 
 – Bulbophyllum cochleatum Lindl. var. bequaertii (De Wild.) J. J. Verm., Bull. J. Bot. Nat. Belg. 56 : 230 (1986).
 
-Pseudobulbes 3-14 × 0,7-1,3 cm, cylindriques, 2-foliés. Feuilles subpétiolées, 6,5-24 × 0,6-2 cm, linéaires-oblancéolées, subaiguès à subobtuses. Inflorescence dense 13-45 cm, rachis un peu renflé, glabre, 36-160-flore. Fleurs, petites, entièrement jaunâtres ou estompées de brun-rouge. Sépales glabres ou avec de fins poils sombres ; sépale dorsal triangulaire-ové à ové, subobtus ; sépales latéraux étroitement triangulaires ou oblongs-lancéolés, aigus à subobtus, obliques. Pétales, base très large et sommet courtement oblong-ové, obtus à aigu. Labelle brun-rouge foncé, oblong à liguliforme, obtus, assez mince, presque droit, glabre ou papilleux le long des marges. – Pl. 86, p. 175.
+Pseudobulbs 3-14 × 0.7-1.3 cm, cylindric, 2-leaved. Leaves subpetiolate, 6.5-24 × 0.6-2 cm, linear-oblanceolate, subacute to subobtuse. Inflorescence dense, 13-45 cm, rachis somewhat swollen, glabrous, 36-160-flowered. Flowers small, entirely yellowish or tinged with brownish-red. Sepals glabrous or with fine dark hairs; dorsal sepal triangular-ovate to ovate, subobtuse; lateral sepals narrowly triangular or oblong-lanceolate, acute to subobtuse, oblique. Petals with very broad base and shortly oblong-ovate apex, obtuse to acute. Lip dark brownish-red, oblong to ligulate, obtuse, rather thin, almost straight, glabrous or papillose along the margins. – Pl. 86, p. 175.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Congo (Kinshasa), Rwanda, Burundi, Ouganda, Tanzania
+Cameroon, Congo (Kinshasa), Rwanda, Burundi, Uganda, Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 640-2400 m. Epiphyte in montane primary forest
 
-alt. 640-2400 m. Épiphyte en forêt primaire de montagne
+MATERIAL EXAMINED (Map 31) :
 
-MATÉRIEL ÉTUDIÉ (Carte 31) :
-
-Wieringa 518, 1 km SE de Tchimbélé, 0°36' N, 10°25' E (fl., Fév.), WAG!, LBV.
+Wieringa 518, 1 km SE of Tchimbélé, 0°36' N, 10°25' E (fl., Feb.), WAG!, LBV.
 
 ## Figures
 

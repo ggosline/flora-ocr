@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Solenostemon repens (Gürke) J.K.Morton, J. Linn. Soc., Bot. 58 : 272 (1962). Plectranthus epilithicus B.J.Pollard, Kew Bull. 60 : 145 (2005). Herbe vivace rampante, généralement épilithique , de 0,05–0,15(–0,25) m de hauteur ; tige radicante dans sa partie inférieure, longue de 0,2–0,3 m, pubescente à poils étalés ou dirigés vers le bas, munie de glandes sessiles rougeâtres. Feuille : pétiole 15–30 mm ; limbe largement ovale à subcirculaire, de 1–2,5 × 1–2,5 cm, largement cunéé à arrondi à la base et atténué sur le pétiole, arrondi à l’apex, crénelé, souvent marqué de violet ou de marron, éparsement muni de glandes rougeâtres sessiles dessous. Inflorescence terminale, très courte, composée de 1 ou 2 paires de cymes opposées ; cymes lâches, avec 5 à 7 fleurs, courtement pédonculées ; bractées discrètes. Fleur : pédicelle 3–5 mm ; calice courtement tubuleux, long de 2–3 mm et de 5–7 mm en fruit, pubescent et à glandes sessiles rougeâtres, de 5–7 mm de longueur, lèvre supérieure obovale, arrondie à mucronée à l’apex, lobes latéraux oblongs à ovales-elliptiques , lobe inférieur entier , linéaire , parallèle à la lèvre supérieure , ne fermant pas la gorge, à dents courtes étroitement triangulaires ; corolle blanche, à lèvre supérieure longue de 2–3 mm, violette, lèvre inférieure longue de 5–6 mm ; étamines à filets fusionnés à la base. Fruit : akènes ovoïdes, longs de 1 mm, brun foncé.
+Solenostemon repens (Gürke) J.K.Morton, J. Linn. Soc., Bot. 58 : 272 (1962). Plectranthus epilithicus B.J.Pollard, Kew Bull. 60 : 145 (2005). Creeping perennial herb, generally epilithic, 0.05–0.15(–0.25) m tall; stem rooting in its lower part, 0.2–0.3 m long, pubescent with spreading or downwardly directed hairs, furnished with reddish sessile glands. Leaf: petiole 15–30 mm; lamina broadly ovate to subcircular, 1–2.5 × 1–2.5 cm, broadly cuneate to rounded at the base and attenuate on the petiole, rounded at the apex, crenate, often marked with violet or brown, sparsely furnished with reddish sessile glands beneath. Inflorescence terminal, very short, composed of 1 or 2 pairs of opposite cymes; cymes lax, with 5 to 7 flowers, shortly pedunculate; bracts inconspicuous. Flower: pedicel 3–5 mm; calyx shortly tubular, 2–3 mm long and 5–7 mm in fruit, pubescent and with reddish sessile glands, 5–7 mm long, upper lip obovate, rounded to mucronate at the apex, lateral lobes oblong to ovate-elliptic, lower lobe entire, linear, parallel to the upper lip, not closing the throat, with short narrowly triangular teeth; corolla white, upper lip 2–3 mm long, violet, lower lip 5–6 mm long; stamens with filaments fused at the base. Fruit: achenes ovoid, 1 mm long, dark brown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale du centre-ouest et de l’ouest, incluant : Cameroun, Guinée équatoriale (Bioko), Gabon, République du Congo et République démocratique du Congo ; au Gabon : Estuaire, Haute Ngounié, Nyanga, Ogooué-Ivindo et Woleu-Ntem. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Central-west and west tropical Africa, including: Cameroon, Equatorial Guinea (Bioko), Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon: Estuaire, Haute Ngounié, Nyanga, Ogooué-Ivindo and Woleu-Ntem. Conservation status: Widely distributed; probably Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce est une lithophyte, rarement épiphyte, qui pousse sur les rochers humides au bord des ruisseaux en sous-bois ou sur les parois rocheuses humides et ombragées ; au Gabon à 450–900 m d’altitude, jusqu’à 2000 m ailleurs. B : Morales (2011), Morton (1963), Pollard (2005), Vande weghe et al. (2016). i B liographie
+The species is a lithophyte, rarely epiphytic, growing on wet rocks at the edges of streams in forest understory or on wet shaded rock faces; in Gabon 450–900 m elevation, up to 2000 m elsewhere. B: Morales (2011), Morton (1963), Pollard (2005), Vande weghe et al. (2016). Bibliography
 
 ## Notes
 

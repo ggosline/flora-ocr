@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou vivace ; tiges prostrées et/ou grimpantes, volubiles ou non, densément poilues à glabrescentes . Feuille : pétiole 1–8 cm, poilu à glabrescent ; limbe entier , ± ovale, 2–10 × 2–8 cm, cordé à la base, aigu ou acuminé au sommet, glabre à densément velu-tomenteux sur les deux faces, mince à épais. Inflorescence capituliforme, pauci- à multiflore, enfermée dans un involucre cymbiforme ; pédoncule 1–14 cm, pubescent à presque glabre ; bractées externes ovales , 3–6 × 1–1,5 cm, ± soudées entre elles, ± pubescentes , les internes obovales à linéaires-oblongues, 15–20 × 2–4 mm, densément poilues à glabrescentes. Fleur : sépales lancéolés, 6–15 × 4 mm, poilus à glabrescents ; corolle infundibuliforme, 2–5 cm de longueur et de diamètre, rose, pourpre ou blanche ; étamines et pistil inclus. Fruit globuleux, environ 6 mm de diamètre, glabre. Graines 3–4 mm de longueur, noirâtres, glabres à courtement pubescentes.
+Annual or perennial herb; stems prostrate and/or climbing, twining or not, densely hairy to glabrescent. Leaf: petiole 1–8 cm, hairy to glabrescent; blade entire, ± ovate, 2–10 × 2–8 cm, cordate at the base, acute or acuminate at the apex, glabrous to densely velutinous-tomentose on both surfaces, thin to thick. Inflorescence capitate, pauci- to multiflorous, enclosed in a cymbiform involucre; peduncle 1–14 cm, pubescent to almost glabrous; external bracts ovate, 3–6 × 1–1.5 cm, ± connate with each other, ± pubescent, the internal ones obovate to linear-oblong, 15–20 × 2–4 mm, densely hairy to glabrescent. Flower: sepals lanceolate, 6–15 × 4 mm, hairy to glabrescent; corolla infundibuliform, 2–5 cm in length and diameter, pink, purple or white; stamens and pistil included. Fruit globose, approximately 6 mm in diameter, glabrous. Seeds 3–4 mm in length, blackish, glabrous to shortly pubescent.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce connue de toute l’Afrique tropicale, y compris l’Afrique du Sud ; au Gabon, présente dans toutes les provinces
+Species known from throughout tropical Africa, including South Africa; in Gabon, present in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+roadsides, fallow land; in Gabon, at low altitude, elsewhere up to 700 m. Uses: This very invasive vine is considered a talisman of fertility that pregnant women sometimes wear around their waist
 
-bords de routes, jachères ; au Gabon, à basse altitude, ailleurs, jusqu’à 700 m. Usage : Cette liane très envahissante est considérée comme un talisman de fécondité que les femmes enceintes portent parfois autour des reins
-
-Dessin par W.E. Turrill reproduit avec permission de Royal Botanic Gardens, Kew (©) à partir de Heine (1963).
+Drawing by W.E. Turrill reproduced with permission of Royal Botanic Gardens, Kew (©) from Heine (1963).
 
 ## Vernacular names
 

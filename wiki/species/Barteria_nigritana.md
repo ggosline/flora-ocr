@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou petit arbre atteignant 10 m de hauteur ; écorce blanchâtre, rugueuse ; branches plagiotropes pubescentes, rapidement glabrescentes ; rameaux florifères latéraux souvent renflés sur 2–4 cm en myrmécodomes . Feuille à pétiole de 0,5–1 cm ; limbe de forme et dimensions variables, obovale-elliptique à lancéolé, 10–15 (–21) × 4–6(–8) cm, généralement cunéé à la base, obtus, arrondi ou émarginé et dans ce cas brièvement apiculé au sommet, sub-coriace, sub-glabre ; nervures latérales en 9–11 (–14) paires. Inflorescence à fleurs solitaires ou par 2–3 en fascicules, axillaires ou légèrement supra-axillaires ; bractées ovales-orbiculaires, aiguës , nervure médiane poilue, prolongée en une apicule aristée , bractées jusqu’à 8 mm en 2–3 rangs, ne se déchirantes pas . Fleur sub-sessile ; sépales oblongs, 3(–4) × 1–1,2(–1,5) cm, acuminés, soyeux-ferrugineux à l’extérieur ; pétales semblables aux sépales, un peu plus grands, plus membraneux, glabres, blancs ; couronne externe laciniée, 7–10 mm de hauteur, membraneuse, l’interne constituée d’anthères réduites soudées avec l’externe à ± 7 mm de la base, en forme d’anneau de 4 mm de hauteur ; étamines rangées en un rang, filets ± 17 mm, soudées sur la moitié basale, anthères (3–)4–5 mm de longueur ; ovaire sub-globuleux , glabre ; style 1–2 cm, stigmate capité, ± 5 mm de diamètre, jaune. Fruit sub-globuleux, 1,5(–2,5) cm de diamètre, vert-pâle ou teinté de pourpre. Graines elliptiques, 5(–6) × 3 × 1,2 mm, comprimées latéralement.
+Shrub or small tree reaching 10 m in height; bark whitish, rugose; plagiotropous branches pubescent, rapidly glabrescent; lateral flowering branchlets often swollen over 2–4 cm into myrmecodomes. Leaf with petiole 0.5–1 cm; blade of variable shape and dimensions, obovate-elliptic to lanceolate, 10–15 (–21) × 4–6(–8) cm, generally cuneate at base, obtuse, rounded or emarginate and in this case briefly apiculate at apex, subcoriaceous, subglabrous; lateral veins in 9–11 (–14) pairs. Inflorescence with flowers solitary or by 2–3 in fascicles, axillary or slightly supra-axillary; bracts ovate-orbicular, acute, midvein hairy, prolonged into an aristate apicule, bracts up to 8 mm in 2–3 ranks, not tearing. Flower subsessile; sepals oblong, 3(–4) × 1–1.2(–1.5) cm, acuminate, silky-ferruginous outside; petals similar to sepals, somewhat larger, more membranous, glabrous, white; outer corona laciniate, 7–10 mm in height, membranous, the inner one consisting of reduced anthers fused with the outer at ± 7 mm from base, ring-shaped 4 mm in height; stamens arranged in one row, filaments ± 17 mm, fused on basal half, anthers (3–)4–5 mm in length; ovary subglobose, glabrous; style 1–2 cm, capitate stigma, ± 5 mm in diameter, yellow. Fruit subglobose, 1.5(–2.5) cm in diameter, pale green or tinged with purple. Seeds elliptic, 5(–6) × 3 × 1.2 mm, compressed laterally.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zone côtière du Bénin jusqu’à l’estuaire du Congo (Cabinda) ; au Gabon, très commune dans la moitié ouest
+coastal zone of Benin to the Congo estuary (Cabinda); in Gabon, very common in the western half
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bordures des savanes littorales, bords de mangroves, forêts sub-littorales, sur sable ; au Gabon, jusqu’à 650 m d’altitude, ailleurs à basse altitude. Myrmécodomes habitées par des petits fourmis noirs. Les pigeons verts et les touracos recherchent les fruits. Fleurs et fruits pendant toute l’année. Usage : Le bois est tabou chez les Mpongwè et exclusivement brûlé devant la case pour chasser le fantôme d’un membre de famille décédé. Il est formellement interdit d’utiliser le bois pour cuire des aliments
+edges of coastal savannas, mangrove margins, subcoastal forests, on sand; in Gabon, up to 650 m altitude, elsewhere at low altitude. Myrmecodomes inhabited by small black ants. Green pigeons and turacos seek the fruits. Flowers and fruits throughout the year. Use: The wood is taboo among the Mpongwè and exclusively burned in front of the house to drive away the ghost of a deceased family member. It is strictly forbidden to use the wood for cooking food
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ diyónda (éshira, bavarama, bavungu, bapunu), itumbidiku (baduma), ivindya (gal
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Aisselle avec boutons arrangés en fer à cheval. (1, 4, 6 : Louis et al. 942 ; 2, 3, 5 : Leeuwenberg 9544 ; 7, 8 : J.J. de Wilde et al. 410 ; 9 : De Néré 32 ; 10 : J.J. de Wilde 7677 ). Dessin par Hans de Vries, Naturalis Biodiversity Center ©.
+Axil with buds arranged in a horseshoe. (1, 4, 6: Louis et al. 942; 2, 3, 5: Leeuwenberg 9544; 7, 8: J.J. de Wilde et al. 410; 9: De Néré 32; 10: J.J. de Wilde 7677). Drawing by Hans de Vries, Naturalis Biodiversity Center ©.
 
 ## Notes
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Guarea staudtii Harms, Notizbl. Königl. Bot. Gart. Berlin 1(5) : 180 (1896). H. latifolia Pierre, Bull. Mens. Soc. Linn. Paris 2 : 1287 (1897). H. angustifolia Pierre, Bull. Mens. Soc. Linn. Paris 2 : 1287 (1897).
 
-Graine, coupe longitudinale. – M. Nervure médiane d’une foliole, coupe transversale. (A, D : Leeuwenberg 9132 ; B : Wieringa 921 ; C : Breteler 6583 ; E–G : W.J. de Wilde & de Wilde-Duyfjes 1932 ; H, I : Breteler & J.J. de Wilde 375 ; J, K : J.J. de Wilde 7875A ; L : J.J. de Wilde et al. (WALK-B) 290 ; M : Breteler1603 ). Dessin par Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
+Seed, longitudinal section. – M. Midvein of a leaflet, transverse section. (A, D : Leeuwenberg 9132 ; B : Wieringa 921 ; C : Breteler 6583 ; E–G : W.J. de Wilde & de Wilde-Duyfjes 1932 ; H, I : Breteler & J.J. de Wilde 375 ; J, K : J.J. de Wilde 7875A ; L : J.J. de Wilde et al. (WALK-B) 290 ; M : Breteler1603 ). Drawing by Hans de Vries, Naturalis Biodiversity Center, Leiden (©).
 
-Arbuste , peu branchu, atteignant 2,5(–3) m de hauteur. Feuille : pétiole 2,5–13,5(–16) cm ; rachis (3–)5–20(–33) cm, pubérulent ; pétiolules latéraux 1–6 mm, les terminaux 8 mm ; folioles (3–)5–11(–15), opposées à subopposées ou ± alternes, étroitement ellip tiques à elliptiques ou obovales, 4–20(–22) × (1–)2–7,5(–8,5) cm, à base cunéiforme ou obtuse et souvent asymétrique, à sommet longuement acuminé à caudé ou rarement obtus, à peu près glabre sur les 2 faces, sauf la nervure médiane déprimée dessus, aplatie et munie d’un indument dense et raide dessus , proéminente et souvent pubérulante dessous. Inflorescence axillaire à supra-axillaire, solitaire ou fasciculé par 2–5, paniculée, peu branchue, atteignant 40 cm de longueur, ramifications jusqu’à 14 cm de longueur. Fleur fonctionnellement mâle : pédicelle articulé, 1–3 mm ; calice cupuliforme, 4–5lobé ou denté, 1–2(–2,5) × 2–3 mm , glabre ou pubérulent, parfois parsemé de trichomes minuscules noirâtres ; pétales (3–)4–5, étroitement rectangulaires à obovales, 6–8(–9,5) × 2–2,5(–3) mm ; tube staminal faiblement en entonnoir, 5–7(–7,5) mm de longueur, glabre, à (6–)8–10(–12) anthères ; gynécée élancé, à stipe de 1–2,5 mm de longueur, glabre ; ovaire obovoïde, 1–2 mm de diamètre, nettement 8(–9)-sillonné longitudina lement, ± glabre à velu ; style 1,5–3(–4) mm, stigmate discoïde. Fleur fonctionnelle ment femelle similaire, expansion du gynophore bien développée et annulaire à la base de l’ovaire. Fruit à stipe sillonné de 0,5–1,5 cm de longueur, ovoïde-cylindrique, souvent moniliforme et à 7–9 côtes saillantes, asymétrique, 2,5–6 × 1,5–3 cm, à rostre d’habitude recourbé et 1,5–2 cm de longueur, pubérulent, jaunâtre à brun rose. Graines (1–)2–4(–5) par fruit, recouvertes d’un sarcotesta blanc.
+Shrub, sparsely branched, reaching 2.5(–3) m in height. Leaf: petiole 2.5–13.5(–16) cm ; rachis (3–)5–20(–33) cm, puberulent ; lateral petiolules 1–6 mm, the terminal ones 8 mm ; leaflets (3–)5–11(–15), opposite to subopposite or ± alternate, narrowly elliptic to elliptic or obovate, 4–20(–22) × (1–)2–7.5(–8.5) cm, with cuneate or obtuse base and often asymmetric, with long-acuminate to caudate or rarely obtuse apex, nearly glabrous on both surfaces except the midvein depressed above, flattened and bearing dense and rigid indumentum above, prominent and often puberulent below. Inflorescence axillary to supra-axillary, solitary or fascicled in 2–5, paniculate, sparsely branched, reaching 40 cm in length, branches up to 14 cm in length. Functionally male flower: pedicel articulate, 1–3 mm ; calyx cupuliform, 4–5-lobed or toothed, 1–2(–2.5) × 2–3 mm, glabrous or puberulent, sometimes scattered with minute blackish trichomes ; petals (3–)4–5, narrowly rectangular to obovate, 6–8(–9.5) × 2–2.5(–3) mm ; staminal tube weakly funnelform, 5–7(–7.5) mm in length, glabrous, with (6–)8–10(–12) anthers ; gynoecium slender, with stipe 1–2.5 mm in length, glabrous ; ovary obovoid, 1–2 mm in diameter, distinctly 8(–9)-longitudinally furrowed, ± glabrous to villous ; style 1.5–3(–4) mm, stigma discoid. Functionally female flower similar, gynophore expansion well-developed and annular at the base of the ovary. Fruit with furrowed stipe 0.5–1.5 cm in length, ovoid-cylindric, often moniliform and with 7–9 prominent ribs, asymmetric, 2.5–6 × 1.5–3 cm, with rostrum usually curved and 1.5–2 cm in length, puberulent, yellowish to pinkish brown. Seeds (1–)2–4(–5) per fruit, covered with a white sarcotesta.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée Équatoriale (sauf Bioko), Gabon, République du Congo et République Démocratique du Congo ; au Gabon, connue de l’Estuaire, du Moyen-Ogooué, lde a Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Maritime et du WoleuNtem
+Nigeria, Cameroon, Equatorial Guinea (except Bioko), Gabon, Republic of the Congo and Democratic Republic of the Congo ; in Gabon, known from Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Maritime and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois de la forêt sempervirente et semi-caducifoliée, vieille forêt secon daire ; au Gabon, jusqu’à 820 m d’altitude, ailleurs jusqu’à 1000 m. B : Staner & Gilbert (1958), de Wilde (2007). ibliographie
+Understory of evergreen and semi-deciduous rainforest, old secondary forest ; in Gabon, up to 820 m altitude, elsewhere up to 1000 m. B : Staner & Gilbert (1958), de Wilde (2007). Bibliography
 
 ## Notes
 

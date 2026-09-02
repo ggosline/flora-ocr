@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Keay, FWTA, ed., 2, 1 (1): 98 (1954); Agnew, Upl. Kenya Wild. Fl.: 95 (1974); Wickens, Jebel Marra: 86 (1976); Jonsell, FCAM, 21: 11 (1980) et FTEA, Cruciferae: 18 (1982).
 
-Plante annuelle glabre ou munie de poils courts très épars ; racine pivotante gréle ; tige dressée atteignant 70 cm de hauteur, ± ramifiée. Feuilles pétiolées pouvant atteindre 10 cm de longueur, pennati- ou bipennatipartites à 2-4 paires de segments latéraux linéaires, lancéolés ou blancéolés (obovales sur les feuilles inférieures), longueur atteignant 3 cm, marge entière. Les plus hautes feuilles sont parfois simples et denticulées.
+Annual plant glabrous or furnished with short, very sparse hairs; slender taproot; stem erect reaching 70 cm in height, ± branched. Petiolate leaves reaching up to 10 cm in length, pinnatipartite or bipinnatipartite with 2–4 pairs of lateral linear, lanceolate or lanceolate segments (obovate on lower leaves), length reaching 3 cm, margin entire. The highest leaves are sometimes simple and denticulate.
 
-Grappes terminales à fleurs relativement grandes. Infrutescences plutôt lâches atteignant 25 cm de longueur. Pédoncules fructifères droits, dressés ou obliques, longs de 3-6 mm. Sépales verts à marges hyalines longs de 1-1,5 mm. Étamines 6, présentant toutes des nectaires intercalaires à la base ; Ovaire elliptique, style dépassant le sinus. Silicules elliptiques, 4,5-6,5 × 3-4 mm munies d'ailes apicales saillantes et émarginées ; style distinct ; stigmate inclus ou atteignant le bord du sinus. Graines brun-rougeâtre, sans ailes, 2-3 × 1,5 mm. - Pl. 00, p. 00.
+Terminal racemes with relatively large flowers. Fruiting inflorescences rather lax reaching 25 cm in length. Fruiting pedicels straight, erect or oblique, 3–6 mm long. Sepals green with hyaline margins 1–1.5 mm long. Stamens 6, all presenting intercalary nectaries at the base; ovary elliptic, style exceeding the sinus. Silicles elliptic, 4.5–6.5 × 3–4 mm furnished with prominent and emarginate apical wings; style distinct; stigma included or reaching the edge of the sinus. Seeds reddish-brown, wingless, 2–3 × 1.5 mm. — Pl. 00, p. 00.
 
 ## Type
 
@@ -31,9 +29,7 @@ Herb. Linn. 824.11, LINN!
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est probablement indigène en Éthiopie et en Asie occidentale où elle est cultivée depuis longtemps. On l’utilise aujourd’hui comme condiment dans plusieurs parties du monde. Elle se naturalise le plus souvent en se propagant sur les terres cultivées.
+This species is probably indigenous to Ethiopia and western Asia where it has been cultivated for a long time. It is today used as a condiment in several parts of the world. It most often naturalizes by spreading on cultivated land.
 
 ## Notes
 

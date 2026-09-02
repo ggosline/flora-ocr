@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Lidia 7(4) : 96 (2011). Kyllinga robusta Boeckeler, Linnaea 35 : 409 (1863), non Cyperus robustus Kunth (1837).
 
 ## Notes

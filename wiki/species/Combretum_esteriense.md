@@ -17,35 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, near Cap Esterias (fl.) Louis 94 (holo-WAG; iso-BR, LBV, MO).
 
-TYPE : Gabon, près de Cap Esterias (fl.) Louis 94 (holo-WAG ; iso-BR, LBV, MO).
+Large liana. Young branches covered with numerous small hairs and scales.
 
-Grande Liane. Jeunes rameaux couverts de nombreux petits poils et d'écailles.
+Leaves 2 or 3–4-whorled; petiole ≤ 1.5 cm; blade elliptic, ≤ 17 × ≤ 9 cm, glabrous between the veins, except for the numerous remarkably glistening scales on the lower surface; major lateral veins 7–10 pairs, long-arched reaching nearly to the margin, axillary domatia very inconspicuous, tertiary veins parallel, reticulate, spaced 2–5 mm apart; midvein and major lateral veins puberulent on both surfaces and depressed above; blade base rounded, apex shortly acuminate and glandular, often eroded in part or sometimes entirely (Pl. 2, D, p.15).
 
-Feuilles 2 ou 3-4-verticillées ; pétiole ≤ 1,5 cm ; limbe elliptique, ≤ 17 × ≤ 9 cm, glabre entre les nervures, mis à part les nombreuses écailles remarquablement scintillantes de la face inférieure ; grandes nervures latérales 7-10 paires, longuement arquées atteignant presque la marge, domaties axillaires très peu visibles, nervures III parallèles, réticulées, espacées de 2-5 mm ; médiane et grandes nervures latérales pubérulentes sur les deux faces et déprimées dessus ; base du limbe arrondie, sommet courtement acuminé et glanduleux, souvent rongé en partie ou parfois même en totalité (Pl. 2, D, p.15).
+Scales in circular cushions, diameter 85 μm, formed of cells with thick walls (Pl. 2, D₂, p. 15).
 
-Écailles en coussinets circulaires, diamètre 85  $ \mu $m, formées de cellules aux parois épaisses (Pl. 2,  $ D_{2} $, p. 15).
+Inflorescences in axillary or terminal panicles ≤ 40 cm; rachis covered with small hairs and glistening scales; bracts, barely to well visible; apex glandular, developed relative to the rest of the bract.
 
-Inflorescences en panicules axillaires ou terminales ≤ 40 cm ; rachis couvert de petits poils et d'écailles scintillantes ; bractées, peu à bien
+Flowers 4-merous, sessile, fragrant. Receptacle, exterior covered with small hairs and scales: the lower 1 mm high, the upper pateliform, diameter 3–3.5 mm (calyx lobes triangular, included), interior pubescent. Petals spatulate, 1 mm long, glabrous. Stamens 2.5–3 mm long, anthers 0.2 mm. Disk, diameter 1 mm, pubescent on its free margin, glabrous elsewhere. Style 2–3 mm.
 
-visibles ; sommet glanduleux développé par rapport au reste de la bractée.
-
-Fleurs 4-mères, sessiles, odorantes. Réceptacle, extérieur couvert de petits poils et d'écailles : l'inférieur haut de 1 mm, le supérieur patelliforme, diamètre 3-3,5 mm (lobes triangulaires du calice inclus), intérieur pubescent. Pétales spathulés, longs de 1 mm, glabres. Étamines longues de 2,5-3 mm, anthères de 0,2 mm. Disque, diamètre 1 mm, pubescent sur son bord libre, partout ailleurs glabre. Style 2-3 mm.
-
-Fruit, profil obovale, jaune-verdâtre à rougeâtre, longueur ≤ 4 cm, largeur ≤ 5 cm ; ailes papyracées ; stipe ≤ 3 mm (Pl. 11 D, p. 41). - Pl. 10, l-3, p. 39.
+Fruit, obovate in profile, yellowish-green to reddish, length ≤ 4 cm, width ≤ 5 cm; wings papyraceous; stipe ≤ 3 mm (Pl. 11 D, p. 41). - Pl. 10, 1–3, p. 39.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu du Gabon seulement
+known from Gabon only
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

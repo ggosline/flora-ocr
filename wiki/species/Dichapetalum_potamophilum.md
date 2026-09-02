@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 AUWP 86 (3): 5, 17, 39-42 (1986). TYPE : Gabon, près de Mayibout I sur l'Ivindo, forêt périodiquement inondée, Breteler & de Wilde 604 (holo-, WAG).
 
-Liane. Tiges à cylindre ligneux profondément lobé ; lenticelles en général bien visibles, ± disposées sur 5 rangées. Rameaux âgés gris-sâtres à brun pâle, glabres ou glabrescents, munis de lenticelles éparses. Jeunes rameaux brun-rouille à brun pâle, courtement pubescents.
+Liane. Stems with deeply lobed woody cylinder; lenticels generally well visible, ± arranged in 5 rows. Old branchlets grey-brown to pale brown, glabrous or glabrescente, provided with scattered lenticels. Young branchlets rust-brown to pale brown, shortly pubescent.
 
-Stipules tôt caduques ou non, étroites et triangulaires, longues de 1-3 mm, pubescentes comme les jeunes rameaux.
+Stipules early caducous or not, narrow and triangular, 1–3 mm long, pubescent like the young branchlets.
 
-Feuilles. Pétiole sub- à hémicylindrique, un peu sillonné dessus, long de (2) 3-5 (6) mm, pubescent comme les jeunes rameaux. Limbe papyracé à coriace, ové-elliptique, 1,5-2 (3) fois plus long que large, 4-11 (17) × (2) 3-5 (6) cm ; avec une pubescence rouille éparse sur les nervures principales au début, puis tôt glabrescent ; base largement arrondie à obtuse à cordée ; sommet en général arrondi (parfois émarginé) et souvent mucroné, acumen rare et alors très peu marqué ; nervure I et les 5-9 paires principales de nervures II proéminentes sur les deux faces ; marge légèrement révolutée ou non ; glandes sur les deux faces, plus abondantes dessous, assez visibles et disséminées.
+Leaves. Petiole sub- to hemicylindric, somewhat grooved above, (2) 3–5 (6) mm long, pubescent like the young branchlets. Blade papyraceous to coriaceous, ovate-elliptic, 1.5–2 (3) times longer than wide, 4–11 (17) × (2) 3–5 (6) cm; with scattered rust pubescence on the principal veins at first, then early glabrescente; base broadly rounded to obtuse to cordate; apex generally rounded (sometimes emarginate) and often mucronate, acumen rare and then very faintly marked; nerve I and the 5–9 pairs of principal nerves II prominent on both faces; margin slightly revolute or not; glands on both faces, more abundant below, fairly visible and scattered.
 
-Inflorescences sessiles ou presque (pédoncule ≤ 3 mm), 3-5 ordres visibles de ramification, multiflores, pubescence brun-rouille à brun pâle. Bractées et bractéoles très petites, ovées-triangulaires, longues de ≤ 0,5 mm. Pédicelle ≤ 3 mm, courte pubescence de teinte rouille, partie supérieure longue de ≤ 0,5 mm.
+Inflorescences sessile or nearly so (peduncle ≤ 3 mm), 3–5 visible orders of branching, multiflorous, rust-brown to pale brown pubescence. Bracts and bracteoles very small, ovate-triangular, ≤ 0.5 mm long. Pedicel ≤ 3 mm, short rust-tinted pubescence, upper part ≤ 0.5 mm long.
 
-Fleurs : pétales, étamines et pistil subégaux. Sépales réfléchis, courtement réunis par leur base, ovés-oblongs à étroits et triangulaires,
+Flowers: petals, stamens and pistil subequal. Sepals reflexed, shortly united by their base, ovate-oblong to narrow and triangular, 1.5–2.5 × 0.5–0.8 mm; tomentum rust-tinted on the outside; interior glabrous or with a few hairs in the apical region. Petals suberect to spreading, very shortly fused by their base to the filaments, narrow and obovate to elliptic, 2–3 mm long, split 0.5–1.5 mm, glabrous or with a few hairs just below the split on the external side; lobes concave, rounded to subacute at the apex. Stamens suberect, 2–3 mm long, glabrous; anthers ≤ 0.5 mm, connective distinct or not. Staminodes subquadrate to transversely oblong, ≤ 0.2 × 0.2 mm, glabrous. Pistil 3–4-merous, 2–3 mm long; ovary villous; styles 3–4, free or partly fused, slightly curved, glabrous; stigma small.
 
-1,5-2,5 × 0,5-0,8 mm ; tomentum de teinte rouille à l'extérieur ; intérieur glabre ou avec quelques poils dans la région apicale. Pétales subérigés à étalés, très courtement soudés par leur base aux filets, étroits et obovés à elliptiques, longs de 2-3 mm, fendus de 0,5-1,5 mm, glabres ou avec quelques poils juste au-dessous de la fente du côté externe ; lobes concaves, arrondis à subaigus au sommet. Étamines subérigées, longues de 2-3 mm, glabres ; anthères ≤ 0,5 mm, connectif distinct ou non. Stamino des subcarrés à transoblongs, ≤ 0,2 × 0,2 mm, glabres. Pistil 3-4-mère, long de 2-3 mm ; ovaire villeux ; styles 3-4, libres ou en partie soudés, légèrement courbés, glabres ; stigmate petit.
-
-Fruits seulement connus à l'état jeune, 1 (3?) -spermes, veloutés avec un bec bien marqué courbé ou non. - Pl. 45, p. 157.
+Fruits known only in young state, 1 (3?) -seeded, velvety with a well-marked beak curved or not. - Pl. 45, p. 157.
 
 ## Type
 
@@ -41,15 +37,11 @@ Breteler & de Wilde 604, près de Mayibout I, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts rivulaires
+riparian forests
 
 ## Specimens examined
 

@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Parinari glabra OLIV., FTA 2 : 370 (1871); ENGL., Pflanzenw. Afr. 3 (1) : 307 (1915); A. CHEV., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 204 (1917); HAUM., FCB3 : 54 (1952); TISSERANT & SILLANS, NOT. SYST. 15 (2) : 210 (1956); KEAY, FWTA, ed. 2, 1 (2) : 428 (1958); AUBR., FFCI, ed. 2, 1 : 182, tab. 54 (1959); KEAY, ONOCHE & STANFIELD, NIGER. TRES 1 : 313 (1960); TAYL, SYNECOL. SILVICULT. GHANA : 285 (1960); IRVINE, WOODY PI. GHANA : 265 (1961); DE SAINT-AUBIN, FORÉT GABON : 169, phot. (1963); VOORHOEVE, LIBERIAN HIGH FOR. TRES : 318, tab. 59, fig. G-H (1965); BOUQUET, FÉTICHEURS ET MÉDECINES TRADITIONNELLES DU CONGON-BRAZZAVILLE : 204 (1969); ADAM, MÉM. MUS. NAT. HIST. NAT. PARIS, BOT. 22, FL. DESCR. MONTS NIMBA : 538, tab. 201 (1971).
 
 — P. gilletii De Wild., Ann. Mus. Congo. Bot., ser. 5, 1, Fl. Bas et Moyen Congo : 245, tab. 59 (1906).
@@ -43,13 +41,13 @@ tags: [species, generated]
 
 — P. kerstingii auct. non Engl.: AUBR., FFCI, ed. 1, 1:148, tab. 51 (1936).
 
-Arbre de 80 cm de diamètre et 25-30 m de hauteur totale, avec fût souvent assez régulier et relativement court (10-20 m sous branches), sans contreforts ou seulement avec quelques grosses pattes à la base; peut atteindre cependant 120(-150) cm de diamètre et 40 m de hauteur totale et alors garni de contreforts à profil concave, hauts de 2 m et longs de 1,5 m sur le sol. (Les échantillons fleuris Klaine 2801 et 2883, syntypes de Parinari robusta var. klainei Aubr. & Pellegrin, proviendraient, d'après le récolteur, d'arbrisseaux de 2-4 m; voir notes taxonomiques ci-après.)
+Tree 80 cm in diameter and 25–30 m in total height, with bole often fairly regular and relatively short (10–20 m to branches), without buttresses or only with a few heavy roots at the base; can nevertheless reach 120(–150) cm in diameter and 40 m in total height and then furnished with buttresses with concave profile, 2 m high and 1.5 m long on the ground. (The flowering specimens Klaine 2801 and 2883, syntypes of Parinari robusta var. klainei Aubr. & Pellegrin, would originate, according to the collector, from shrubs of 2–4 m; see taxonomic notes below.)
 
-Rhytidome moussu, gris orangé à gris-rougeâtre, rugueux lenticellé et s'exfoliant en écailles ± irrégulières; écorce épaisse (10-15 mm); exsudat rouge sang au niveau du cambium; aubier jaunâtre peu épais (3 cm) passant à un bois de cœur rougeâtre, lourd et très dur. Grosses branches sinueuses ± dressées, relativement peu ramifiées, supportant parfois, pour les très gros arbres, une cime tabulaire atteignant 50 m de diamètre avec feuillage assez dense. Rameaux brun foncé ± lenticellés; jeunes rameaux grèles et lisses; très jeunes rameaux et pétioles garnis d'une pubescence ascendante hispide éparse; stipules intrapétiolaires soudées en une pièce ailongée bifide tôt caduque. Pétiole relativement grêle, long de 5-10 mm, souvent crevassé transversalement et portant fréquemment au sommet, à la base décurrente du limbe, 2 petites glandes circulaires, marginées ou cratéri-formes, ces glandes parfois seulement ébauchées ou parfois absentes. Limbe coriace elliptique, 25-50 × 60-120 (dont acumen 10, rarement 15) mm, avec base aiguë et un peu décurrente, rarement obtuse, avec sommet égale-ment aigu garni d'un acumen arrondi à l'apex; parfois limbe un peu obovale, parfois plus largement elliptique et atteignant alors jusqu'à 60-75 × 100-140 mm (acumen 10 mm inclus), avec base et sommet arrondis; 5-6(-8) paires de nervures latérales arquées, peu proéminentes; surfaces glabres, de teinte vert brillant, foncée dessus, pâle dessous, devenant de teinte brun-rougeâtre luisant sur échantillons secs, les feuilles tombées à terre étant fréquemment roulées longitudinalement.
+Rhytidome mossy, orange-grey to greyish-reddish, rugged and lenticellate, exfoliating in ± irregular scales; bark thick (10–15 mm); blood-red exudate at the cambium level; sapwood yellowish, scarcely thick (3 cm) passing to reddish heartwood, heavy and very hard. Large sinuous branches ± erect, relatively little branched, sometimes supporting, for very large trees, a tabular crown reaching 50 m in diameter with fairly dense foliage. Twigs dark brown ± lenticellate; young twigs slender and smooth; very young twigs and petioles furnished with sparse ascending hispid pubescence; stipules intrapetiolate, fused into an elongate bifid piece, early caducous. Petiole relatively slender, 5–10 mm long, often cracked transversally and frequently bearing at the apex, at the decurrent base of the blade, 2 small circular glands, marginate or crater-form, these glands sometimes only rudimentary or sometimes absent. Blade coriaceous elliptic, 25–50 × 60–120 mm (including acumen 10, rarely 15), with acute and slightly decurrent base, rarely obtuse, with apex equally acute furnished with an acumen rounded at the apex; sometimes blade slightly obovate, sometimes more broadly elliptic and reaching up to 60–75 × 100–140 mm (acumen 10 mm included), with rounded base and apex; 5–6(–8) pairs of arcuate lateral veins, little prominent; surfaces glabrous, bright green in colour, dark above, pale below, becoming glossy brown-reddish on dry specimens, fallen leaves frequently rolled longitudinally.
 
-Inflorescences corymbiformes, parfois très nombreuses et serrées sous la cime à l'extrémité de gros rameaux (5 mm), formant alors des plateaux très abondamment fleuris (plusieurs centaines de fleurs) atteignant  $ 25 \times 50 $ cm de largeur et 5-8 cm de hauteur, ± feuillés à la base; axes courts (de 20 à 2 mm) et très ramiﬁés avec courte pubescence ascendante éparse, ou glabrescents. Bractées et bractéoles lancéolées, minimes, tôt caduques. Pédicelle 2-6 mm et réceptacle vert obconique 3-5 mm, glabres; sépales verts obovales à suborbiculaires long de 3-4 mm, glabres pour les parties exposées à l'extérieur dans le bouton, ailleurs tomentelleux cendrés; parfois pédicelle long de 6-8 mm et, ainsi que réceptacle et sépales pour leurs parties extérieures, couvert d'une courte pubescence ascendante (voir notes taxonomiques ci-après); pétales blanc crème, rosés vers la base, obovales à suborbiculaires concaves, long de 4-6 mm; 20 ﬁlets staminaux crème longs de 10-15 mm et anthères orangées, quelques staminodes dentés; 1 carpelle postérieur hispide fructifère (parfois 2 latéraux avortés).
+Inflorescences corymbiform, sometimes very numerous and dense beneath the crown at the extremity of stout twigs (5 mm), then forming very abundantly flowered plateaus (several hundred flowers) reaching 25 × 50 cm in width and 5–8 cm in height, ± leafy at the base; axes short (from 20 to 2 mm) and very ramified with short sparse ascending pubescence, or glabrescent. Bracts and bracteoles lanceolate, minute, early caducous. Pedicel 2–6 mm and receptacle green obconic 3–5 mm, glabrous; sepals green obovate to suborbicular 3–4 mm long, glabrous for the parts exposed externally in the bud, elsewhere ashey tomentellous; sometimes pedicel 6–8 mm long and, as well as receptacle and sepals for their external parts, covered with short ascending pubescence (see taxonomic notes below); petals cream white, pinkish towards the base, obovate to suborbicular concave, 4–6 mm long; 20 cream filaments 10–15 mm long and orange anthers, a few toothed staminodes; 1 posterior carpel hispid fertile (sometimes 2 lateral aborted).
 
-Drupe obovoide aplatie, 20-30 × 30-35 × 50-60 mm, à base aiguë et sommet obtus, glabre et lisse ou lenticellée, vert jaunâtre puis brunâtre puis noirâtre, avec calice et androcée persistants. — PL. 32, p. 109.
+Drupe obovoid flattened, 20–30 × 30–35 × 50–60 mm, with acute base and obtuse apex, glabrous and smooth or lenticellate, yellowish-green then brownish then blackish, with persistent calyx and androecium. — PL. 32, p. 109.
 
 ## Type
 
@@ -57,59 +55,55 @@ Mann 1832, Guinée Équatoriale ou Gabon (holo-, K!; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+CHRYSOBALANACEAE
 
-CHRYSOBALANACE
+Maranthes glabra (Oliv.) Prance is fairly uniform throughout its range; in Gabon, however, small trees (shrubs, cf. Klaine 2801, 2883) are encountered, and forms characterized by more broadly elliptic leaves, longer pedicels, and floral buds externally shortly pubescent; these forms were considered, particularly in South-Western Zaire where they are found again, as belonging to a distinct species or variety (gilletii), whereas in Gabon itself they became Parinari robusta var. klainei Aubr. & Pellegr.; they differ, however, from the latter species from the ± coastal swamp forests of West Africa by the trichome of the floral bud (receptacle pubescent and not bronzy felted, sepals pubescent and not subglabrous), by their acuminate leaf (and not subacuminate), glabrous below (and not with whitish arachnoid felting).
 
-Maranthes glabra (Oliv.) Prance est assez uniforme dans toute son aire; au Gabon cependant se rencontrent des arbres de petite taille (arbrisseaux, cf. Klaine 2801, 2883) et des formes caractérisées par des feuilles plus largement elliptiques, des pédicelles plus longs et des boutons floraux extérieurement courtement pubescents; ces formes ont été considérées, particulièrement au Sud-Ouest du Zaïre où on les retrouve, comme appartenant à une espèce ou variété distincte (gilletii), alors qu'au Gabon même elles sont devenues Parinari robusta var. klainei Aubr. & Pellegr.; elles différent cependant de cette dernière espèce des forêts marécageuses ± côtières d'Afrique occidentale par le trichome du bouton floral (réceptable pubescent et non feutré cuivré, sépales pubescents et non subglabres), par leur feuille acuminée (et non subacuminée), glabre dessous (et non avec feutrage aranéeux blanchâtre).
+This species occurs throughout the Congo-Guinean forest, becoming rarer in the relatively most humid zones as well as in the relatively driest zones; it is thus recorded from Sierra Leone to the Central African Republic and Angola, most often in a scattered state, sometimes locally somewhat gregarious. In Cameroon this tree frequents the fairly rainy zones of Kumba (Rumpi Mountains) and Mamfe (Nta Ali Massif), but it then appears to be localized in altitude, between 800 and 1000 m; elsewhere in the forest it is more frequent to the East of the longitude of Yaoundé than to the West; towards the exterior of the Cameroon forest massif it reaches Tibati, Deng Deng, Batouri and thence Moloundou. In Gabon it is known as far as Makokou, Lastoursville, Mbigou and Tchibanga. Normally a tree of upland forest, it exists in Zaire in swamp forests or periodically flooded forests; just as in Cameroon it also rises in Eastern Zaire up to 850 m altitude.
 
-Cette espèce se rencontre dans toute la forêt congo-guinéenne, en se raréfiant dans les zones relativement les plus humides ainsi que dans les zones relativement les plus sèches; elle est ainsi signalée de la Sierra Leone au Centrafrique et à l'Angola, le plus souvent à l'état disséminé, parfois localement un peu grégaire. Au Cameroun cet arbre fréquente cependant les zones assez pluvieuses de Kumba (Monts Rumpi) et de Mamfe (Massif du Nta Ali) mais il paraît alors se localiser en altitude, entre 800 et 1000 m; ailleurs en forêt il est plus fréquent à l'Est de la longitude de Yaoundé qu'à l'Ouest; vers l'extérieur du massif forestier camerounais il atteint Tibati, Deng Deng, Batouri et de là Moloundou. Au Gabon il est connu jusque vers Makokou, Lastoursville, Mbigou et Tchibanga. Normalement arbre de terre ferme, il existe au Zaïre dans les forêts marécageuses ou périodiquement inondées; tout comme au Cameroun il s'élève aussi dans l'Est du Zaïre jusqu'à 850 m d'altitude.
+efo?, konga?, mombolié? (in Gabon); n'kō (Bulu); akō (Dzimou); ekoulebang, houneghon, m'vri, ongông, oungon (Fang-Pahouin); ékèba? (Mitsogo); nkonga (Ouroungou); bokanga, bokanja (Pygmy Bibaya).
 
-efo?, konga?, mombolié? (au Gabon); n'kō (boulou); akō (dzimou); ekoulebang, houneghon, m'vri, ongông, oungon (fang-pahouin); ékèba? (mitsogo); nkonga (ouroungou); bokanga, bokanja (pygmée bibaya).
+Bos 5202, Londji, 15 km NNE Kribi (fl., August); 5590, 5 km N Kribi (fr., November); 7352, 10 km N Kribi (fl., September) (WAG).
 
-Bos 5202, Londji, 15 km NNE Kribi (fl., août); 5590, 5 km N Kribi (fr., nov.); 7352, 10 km N Kribi (fl., sept.) (WAG).
+De Wilde J. 7669, N'koemvone, 10 km S Ebolowa (fl., October) (WAG).
 
-De Wilde J. 7669, N'koemvone, 10 km S Ebolowa (fl., oct.) (WAG).
+Hédin 1061, Azem, region? Ebolowa (fl., May).
 
-Hédin 1061, Azem, région? Ebolowa (fl., mai).
+Ledermann 2367 (type of Parinari tibatensis Engl.), Tibati, alt. 900 m (fl., January) (cit. in Bot. Jahrb. 46 : 141, 1911).
 
-Ledermann 2367 (type de Parinari tibatensis Engl.), Tibati, alt. 900 m (fl., janv.) (cit. in Bot. Jahrb. 46 : 141, 1911).
+Letouzey 1502, Ekan, 60 km E Nanga Eboko (fr., February); 3969, Mayos, 75 km SW Batouri (fl., fr., wood, May) (BR, K, P); 13887, Nta Ali Massif, South slope elevation 1009, 25 km SE Mamfe, alt. 800–900 m (ster., June); 14515, Rumpi Mountains, between Butu and Lokando, 25 km NNW Kumba, alt. 800–900 m (fl., March).
 
-Letouzey 1502, Ekan, 60 km E Nanga Eboko (fr., févr.); 3969, Mayos, 75 km SW Batouri (fl., fr., bois, mai) (BR, K, P); 13887, Massif Nta Ali, pente Sud cote 1009, 25 km SE Mamfe, alt. 800-900 m (stér., juin); 14515, Monts Rumpi, entre Butu et Lokando, 25 km NNW Kumba, alt. 800-900 m (fl., mars).
+Mildbraed 8184, km 90 on path Yaoundé-Deng Deng (K); 8701, confluence Lom-Djérem (K).
 
-Mildbraed 8184, km 90 sur piste Yaoundé-Deng Deng (K); 8701, confluent Lom-Djérem (K).
+Villiers J.-F. 632, near R. Bongo, 35 km SE Bateka Malen, village situated 20 km N Moloundou (fl., April).
 
-Villiers J.-F. 632, près R. Bongo, 35 km SE Bateka Malen, village situé 20 km N Moloundou (fl., avr.).
+Aubréville 128, Aloumbé, 85 km S Libreville (fr., September).
 
-Aubréville 128, Aloumbé, 85 km S Libreville (fr., sept.).
+De Saint-Aubin 2084 CTFT, near Libreville? (fr., November).
 
-De Saint-Aubin 2084 CTFT, près Libreville? (fr., nov.).
+Dybowsky 87, Achouka, 50 km WSW Lambaréné (fl., August).
 
-Dybowsky 87, Achouka, 50 km WSW Lambaréné (fl., août).
+Fleury 26654 in Chevalier, Egolani on Lake Oguèmoué, 50 km SSW Lambaréné (fl., wood, September).
 
-Fleury 26654 in Chevalier, Egolani sur lac Oguèmoué, 50 km SSW Lambaréné (fl., bois, sept.).
+Hallé N. & Le Thomas 180, Bélinga, 70 km NNE Makokou (fr., July).
 
-Hallé N. & Le Thomas 180, Bélinga, 70 km NNE Makokou (fr., juill.).
+Klaine 2763, 2801 and 2883 (syntypes for Parinari robusta var. klainei Aubr. & Pellegrin), Libreville (fr., November; fl., March and fl., May); 3298, s. loc. (fl., May).
 
-Klaine 2763, 2801 et 2883 (syntypes pour Parinari robusta var. klainei Aubr. & Pellegrin), Libreville (fr., nov.; fl., mars et fl., mai); 3298, s. loc. (fl., mai).
+Le Testu 1040 (= 28897 in Chevalier), Tchibanga (fl., June); 1341, Tchibanga (fl., May) (BR, P); 5296, Issala (Issiala), 25 km WSW Mbigou (fl., April); 5970, Pingo Masango, 135 km NE Mouila and 65 km NNW Mbigou (fl., June); 6061, Mogoumou, 70 km NE Mouila and 90 km ESE Sindara (fl., September); 7568, Lastoursville (fl., October).
 
-Le Testu 1040 (= 28897 in Chevalier), Tchibanga (fl., juin); 1341, Tchibanga (fl., mai) (BR, P); 5296, Issala (Issiala), 25 km WSW Mbigou (fl., avr.); 5970, Pingo Masango, 135 km NE Mouila et 65 km NNW Mbigou (fl., juin); 6061, Mogoumou, 70 km NE Mouila et 90 km ESE Sindara (fl., sept.); 7568, Lastoursville (fl., oct.).
+Mann 1832, riv. Muni, lat. 1º N, Equatorial Guinea or Gabon? (fl.) (K, P).
 
-Mann 1832, riv. Muni, lat. 1º N, Guinée Équatoriale ou Gabon? (fl.) (K, P).
+Morel 48 SRF, Sangatanga, 70 km ENE Port Gentil (fl., wood, August).
 
-Morel 48 SRF, Sangatanga, 70 km ENE Port Gentil (fl., bois, août).
+Normand 1947 SRFG, Mondah near Libreville (fl., wood DN 270).
 
-Normand 1947 SRFG, Mondah près Libreville (fl., bois DN 270).
+Pobéguin 168, Ogooué? (fr., January).
 
-Pobéguin 168, Ogooué? (fr., janv.).
-
-Sébire 502 SRF, Sangatanga, 70 km ENE Port Gentil (stér., déc.).
+Sébire 502 SRF, Sangatanga, 70 km ENE Port Gentil (ster., December).
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Au Congo intervient (poudre de racines) dans le traitement des gales chroniques et pelade des animaux domestiques. Au Zaïre l'exsudat cambial serait utilisé, appliqué dans l'œil, comme poison d'épreuve; le fruit constitue un appât pour potamochères et antilopes. Dans toute l'aire de cette espèce la graine oléagineuse est consommée et le bois n'est considéré que pour la charpente, parfois (Sierra Leone) pour la confection de canoës
+In Congo it intervenes (root powder) in the treatment of chronic mange and alopecia of domestic animals. In Zaire the cambial exudate would be used, applied in the eye, as an ordeal poison; the fruit constitutes bait for potamocheruses and antelopes. Throughout the range of this species the oleaginous seed is consumed and the wood is considered only for carpentry, sometimes (Sierra Leone) for the making of canoes.
 
 ## Figures
 

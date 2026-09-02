@@ -23,11 +23,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Diels in Engl. et Prantl, Naturl. Pflanzenfam. 1(4) : 226 (1899). — Alston FWTA : 65 (1959).
 
-Rhizome dressé, à frondes en touffes, portant des écailles à parois minces, bords portant des prolongements courts. Pétiole straminé-grisâtre, long de 20-50 cm, nu. Limbe à contour ovalelancéolé, long de 50-70 cm sur 30-40 de large, bipinnatifide. Pennes environ 18 de chaque côté sous la terminale profondément lobée, longuement effilée. Pennes supérieures alternes, inférieures opposées, sessiles, linéaires-lancéolées, les moyennes longues de 20-25 cm sur 5 de large, les inférieures très légèrement réduites, à extrémité effilée, à bases tronquées, la supérieure souvent auriculée, à marges lobées sur 1/3 à 1/2 de leur largeur, à lobes entiers ou légèrement dentés, arrondis. Costa et costulae canaliculés à la partie supérieure, portant quelques poils glanduleux. Texture herbacée. Nervures pennées dans les lobes, simples ou rarement bifurquées, instables, parfois anastomoses, les paires inférieures de 2 lobes voisins réunis en une nervure excurrente (A. Letouzeyi). Sores allongés, n'atteignant pas la marge, le premier sore antérieur de chaque lobe diplazioïde, très épais, prenant contre le costa et faisant un angle très aigu avec lui, parfois seul mûr.
+Rhizome erect, bearing fronds in clusters, bearing scales with thin walls, margins bearing short projections. Petiole stramineous-greyish, 20–50 cm long, naked. Limb with oval-lanceolate outline, 50–70 cm long by 30–40 cm wide, bipinnatifid. Pinnae approximately 18 on each side beneath the deeply lobed, long-tapering terminal pinna. Upper pinnae alternate, lower pinnae opposite, sessile, linear-lanceolate, the median ones 20–25 cm long by 5 cm wide, the lower ones very slightly reduced, tapering at the apex, truncate at the base, the upper one often auriculate, with margins lobed over 1/3 to 1/2 their width, with lobes entire or slightly dentate, rounded. Costa and costulae channelled on the upper surface, bearing a few glandular hairs. Herbaceous texture. Veins pinnate in the lobes, simple or rarely bifurcate, labile, sometimes anastomosing, the lower pairs of 2 neighbouring lobes united in an excurrent vein (A. Letouzeyi). Sori elongate, not reaching the margin, the first anterior sorus of each lobe diplazoid, very thick, lying against the costa and forming a very acute angle with it, sometimes only the first one mature.
 
 ## Type
 

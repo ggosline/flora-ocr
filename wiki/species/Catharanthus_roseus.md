@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gen. hist. 4(1) : 95 (1837). Herbe à base ligneuse , de 0,3–2 m de hauteur ; tige dressée ou décombante ; rameaux pubescents ou glabres. Feuille : Spwlrohgh±FPOLPEHHOOLSWLTXHjRERYDOHGH±î 1,5–4 cm, cunéé à la base, obtus ou aigu au sommet, à bord entier, brillant dessus, glabre ou à poils clairsemés. ,QÀRUHVFHQFH DYHFRXÀHXUV Fleur : pédicelle de 1–2 mm ; calice à lobes courtement connés à la base, triangulaires, de 2–6 × 1–2 mm, pubérulents à glabres ; corolle à tube verdâtre, lobes blancs et gorge rouge, rose, jaune pâle ou blanche, tube long de 22–30 mm, à lobes largement obovales , de 10–26 × 5–20 mm ; étamines à anthère longue de 2,5–2,9 mm ; pistil long de 18–27 mm. Fruit : follicule de 2,2–4,7 × 0,2–0,3 cm, vert, pubérulent à glabre, à nombreuses graines.
+Gen. hist. 4(1) : 95 (1837). Herb with woody base, 0.3–2 m tall; stem erect or decumbent; branches pubescent or glabrous. Leaf: 0.5–11 × 1.5–4 cm, elliptic to obovate, cuneate at base, obtuse or acute at apex, entire-margined, shiny above, glabrous or with scattered hairs. Inflorescence with few flowers. Flower: pedicel 1–2 mm; calyx with lobes shortly connate at base, triangular, 2–6 × 1–2 mm, puberulent to glabrous; corolla with greenish tube, white lobes and red, pink, pale yellow or white throat, tube 22–30 mm long, with broadly obovate lobes, 10–26 × 5–20 mm; stamens with anther 2.5–2.9 mm long; pistil 18–27 mm long. Fruit: follicle 2.2–4.7 × 0.2–0.3 cm, green, puberulent to glabrous, with numerous seeds.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-RULJLQDLUHGH0DGDJDVFDUFXOWLYpHWQDWXUDOLVpGDQVGHQRPEUHX[SD\VWURSLFDX[\LQFOXV le Gabon
+Native to Madagascar, cultivated and naturalized in numerous tropical countries, including Gabon.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très régulièrement planté comme plante ornementale ; au Gabon, parfois s’échappant aux bords de route et en jachères. Usage : La plante est largement cultivée pour sa valeur ornementale. Les décoctions de toutes les parties de la plante sont utilisées en médecine, pour traiter le paludisme, la dengue, la diarrhée, le diabète, le cancer et les maladies de la peau. Noms vernaculaires SHUYHQFKHGH0DGDJDVFDUURVHDPqUHIU 0DGDJDVFDUSHULZLQNOHDQJO B IBLIOGRAPHIE
+Very regularly planted as an ornamental plant; in Gabon, sometimes escaping along roadsides and in fallow land. Use: The plant is widely cultivated for its ornamental value. Decoctions of all parts of the plant are used in medicine to treat malaria, dengue, diarrhea, diabetes, cancer and skin diseases. Vernacular names: Malagasy, rosy periwinkle, French; Malagasy, periwinkle, English. BIBLIOGRAPHY
 
 ## Notes
 

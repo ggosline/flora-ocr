@@ -17,33 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Garay, Kew Bull. 28(3) : 505 (1973) ; FAC 2 : 479 (1992) ; FCAM 3 : 882 (2001).
 
 – Mystacidium distichum (Lindl.) Pfitzer var. grandiflorum De Wild., Ann. Mus. Congo, ser. Bot. 5, 2: 240 (1908).
 
 – Angraecum distichum Lindl. var. grandiflorum (De Wild.) Summerh., Kew Bull. 1958 : 261 (1958).
 
-Tige < 40 cm. Feuilles (11-) 14-25 x (5-) 6-10 mm, falciformes, oblongues-elliptiques, obtuses, comprimées latéralement. Inflorescence raccourcie, 1-4-flore. Fleurs petites, blanches. Sépale dorsal oblong-ové à oblong-lancéolé, subobtus. Pétales linéaires à oblongs, falciformes, subobtus. Sépales latéraux obliquement oblongs-ovés à oblongs-lancéolés. Labelle 2,5 x 4-5 mm, cochléiforme au centre, trilobé au sommet ; lobe médian ové-triangulaire à ové, aigu, recourbé ; lobes latéraux obliquement obovés à rhombiformes, arrondis. Éperon 6-7 mm, étroitement cylindrique, avec un sommet étroitement conique et incurvé. Pl. 219, p. 459.
+Stem < 40 cm. Leaves (11-) 14-25 × (5-) 6-10 mm, falcate, oblong-elliptic, obtuse, laterally compressed. Inflorescence shortened, 1-4-flowered. Flowers small, white. Dorsal sepal oblong-ovate to oblong-lanceolate, subobtuse. Petals linear to oblong, falcate, subobtuse. Lateral sepals obliquely oblong-ovate to oblong-lanceolate. Lip 2.5 × 4-5 mm, cochleiform in the center, trilobed at the apex; median lobe ovate-triangular to ovate, acute, recurved; lateral lobes obliquely obovate to rhombiform, rounded. Spur 6-7 mm, narrowly cylindric, with a narrowly conical and incurved apex. Pl. 219, p. 459.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Principe, Guinée équatoriale, Gabon, Zaïre
+Nigeria, Cameroon, Príncipe, Equatorial Guinea, Gabon, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+epiphytic in dense forest
 
-épiphyte en forêt dense
+PL. 219. – Angraecum aporoides Summerh. : A, flower, tepals removed ; B, lip flattened ; C, lateral sepal ; D, petal ; E, dorsal sepal. – Angraecum poppendickianum Szlach. & Olsz. : F, flower ; G, pedicel and floral bract ; H, lip and spur ; I, lip flattened ; J, dorsal sepal ; K, petal ; L, lateral sepal ; M, general view (A-E, Hallé & Villiers 5420, P ; F-M, Hallé 872, P).
 
-PL. 219. – Angraecum aporoides Summerh. : A, fleur, tépales enlevés ; B, labelle étalé ; C, sépale latéral ; D, pétale ; E, sépale dorsal. – Angraecum poppendickianum Szlach. & Olsz. <: F, fleur ; G, pédicelle et bractée florale ; H, labelle et éperon ; I, labelle étalé ; J, sépale dorsal ; K, pétale ; L, sépale latéral ; M, vue générale (A-E, Hallé & Villiers 5420, P ; F-M, Hallé 872, P).
+MATERIAL EXAMINED (Map 97) :
 
-MATÉRIEL ÉTUDIÉ (Carte 97) :
-
-Breteler, Jongkind, Wieringa & Moussavou 9771, Rabi, route de Divangui, ± 1° 55' S, 9° 50' E, en forêt dense humide, épiphyte (fr. Avr.), WAG!. De Wilde, Arends, Louis & Wieringa 9848, forêt marécageuse près de Rabi 4, alt. 10 m, épiphyte sur branche morte, à environ 2 m au-dessus du sol (fl. Nov.), WAG!. Hallé & Villiers 5420, Monts de Cristal, Riv. Balakabo (fl. Févr.), P!.
+Breteler, Jongkind, Wieringa & Moussavou 9771, Rabi, road to Divangui, ± 1° 55' S, 9° 50' E, in humid dense forest, epiphytic (fr. Apr.), WAG!. De Wilde, Arends, Louis & Wieringa 9848, swamp forest near Rabi 4, alt. 10 m, epiphytic on dead branch, at approximately 2 m above ground (fl. Nov.), WAG!. Hallé & Villiers 5420, Cristal Mountains, Riv. Balakabo (fl. Feb.), P!.
 
 ## Figures
 

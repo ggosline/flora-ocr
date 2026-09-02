@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Disque en cupule à bord mince. 2. Fleurs vertes ou jaune vert ..... 8a. var. africana. 2'. Fleurs rouges ..... 8b. var. togoensis. 1'. Disque tronconique épais et massif ..... 8c. var. richardiana. 1". Disque tronconique subpatelliforme à bord mince ..... 8d. var. obtusifolia.
+1. Disk cup-shaped with thin margin. 2. Flowers green or yellow-green ..... 8a. var. africana. 2'. Flowers red ..... 8b. var. togoensis. 1'. Disk thick and massive truncated cone-shaped ..... 8c. var. richardiana. 1". Disk truncated cone-shaped subpatelliforme with thin margin ..... 8d. var. obtusifolia.
 
 8a. var. africana
 
@@ -31,7 +29,7 @@ Hippocratea africana (WILLD.) LOES., Bot. Jahrb. 44: 197 (1910); in ENGL., Pflan
 
 – Hippocratea cymosa DE WILD. & DUR., Ann. Mus. Congo Belge, Bot., ser. 3, 1: 45 (1901). TYPE : Dewèvre 827, Zaïre (BR!).
 
-PL. 72. – Loeseneriella africana (Willd.) Wilcz. ex Hallé var. africana : 1, bouton ; 2-4, sépales, largeur 1,2-2 mm ; 5-8, fleurs ouvertes larges de 3-4 mm ; 9-10, disque, diam. 3-3,5 mm ; 11, étamine ; 12-14, loges ouvertes (1, 9, Mildbraed 4307 ; 2, 6, Le Testu 7825 ; 3, 5, 10, 11, 12, Geerling 5596 ; 4, 8, 13, Hladik 2554 ; 7, 14, Letouzey 3832). – var. richardiana (Cambess. ex St. Hil.) Hallé : 15, disque, diam. 3 mm ; 16, anthère ; 17, loge ouverte (Morton 1277, Ghana).
+PL. 72. – Loeseneriella africana (Willd.) Wilcz. ex Hallé var. africana : 1, bud ; 2-4, sepals, width 1.2-2 mm ; 5-8, open flowers 3-4 mm wide ; 9-10, disk, diam. 3-3.5 mm ; 11, stamen ; 12-14, open locules (1, 9, Mildbraed 4307 ; 2, 6, Le Testu 7825 ; 3, 5, 10, 11, 12, Geerling 5596 ; 4, 8, 13, Hladik 2554 ; 7, 14, Letouzey 3832). – var. richardiana (Cambess. ex St. Hil.) Hallé : 15, disk, diam. 3 mm ; 16, anther ; 17, open locule (Morton 1277, Ghana).
 
 – Hippocratea cymosa DE WILD. & DUR. var. schweinfurthiana (LOES.) LOES., Bot. Jahrb. 34: 107 (1904).
 
@@ -41,11 +39,11 @@ PL. 72. – Loeseneriella africana (Willd.) Wilcz. ex Hallé var. africana : 1, 
 
 – Hippocratea euryphylla LOES., in herb. Mildbraed 4307 (HBG!).
 
-Liane élevée dépassant 10-15 m, parfois seulement 2 m chez des formes basses héliophiles. Pas de caoutchouc. Rameaux âgés criblés de lenticelles rudes. Tronc jusqu'à 10 cm de diamètre. Bois multisillonné à rayons lacuneux ± interrompus. Pétiole de 5-10 mm. Limbe variable suivant les formes : les unes héliophiles à petits limbes vert olive à sec ; d'autres sciaphiles à limbes plus grands souvent bruns ou roussâtes à sec ; forme elliptique assez variable pour une longueur de 2-15 cm ; base subaiguë à arrondie ; sommet acuminé plutôt brièvement ; marge à dents ± nettes, plutôt espacées. Nervures secondaires 5-9 paires.
+High liane exceeding 10-15 m, sometimes only 2 m in low heliophilous forms. No rubber. Old branches riddled with rough lenticels. Trunk up to 10 cm in diameter. Wood multifurrowed with rays ± interrupted lacunose. Petiole 5-10 mm. Lamina variable according to form: some heliophilous with small olive-green laminae when dry; others sciaphilous with larger laminae often brown or reddish-brown when dry; elliptic form fairly variable for a length of 2-15 cm; base subacute to rounded; apex acuminate rather briefly; margin with ± distinct teeth, rather spaced. Secondary veins 5-9 pairs.
 
-Inflorescences composées de cymes situées le plus souvent à l'ais-selle de feuilles, souvent courtes 1-2,5 cm, pluriflores ou multiflores contractées ; axes supérieures souvent pubérulents ainsi que les pédicelles, longs de 1-2,4 mm. Bouton conique de 3-5 × 3-4 mm. Fleurs vertes urcéolées. Calice ± pubérulent vers la base ; sépales subégaux, ovés ou semi-orbiculaires, souvent microciliolés, parfois avec quelques glandes marginales. Pétales glabres, triangulaires, se détachant avec une partie du disque, de 4-5 × 2 mm, à petit mucron charnu au sommet. Disque largement cupuliforme, aminci et adhérent à la base des pétales, à marge un peu sinueuse ou échancrée entre les pétales. Androcée bas ; étanines à filet long, élargi à la base, rubané sur sa plus grande longueur, à anthère orangé vif large de 0,7-1 mm, partagée en 4 locelles bombées. Pistil long et subulé, de 2,5-3 mm, le style dépassant beaucoup les étamines dans le jeune bouton. Ovaire peu enfoncé à paroi mince ; (8)10-14 ovules par loge.
+Inflorescences composed of cymes situated most often at the leaf axils, often short 1-2.5 cm, pluriflorous or multiflorous contracted; upper axes often puberulent as well as the pedicels, 1-2.4 mm long. Bud conic 3-5 × 3-4 mm. Flowers urceolate and green. Calyx ± puberulent towards the base; sepals subequal, ovate or semi-orbicular, often microciliolate, sometimes with a few marginal glands. Petals glabrous, triangular, detaching with part of the disk, 4-5 × 2 mm, with small fleshy mucro at apex. Disk broadly cup-shaped, thinned and adherent at the base of the petals, with margin somewhat sinuate or emarginate between the petals. Androecium low; stamens with long filament, widened at the base, ribbon-like over most of its length, with bright orange anther 0.7-1 mm wide, divided into 4 convex locules. Pistil long and subulate, 2.5-3 mm, the style far exceeding the stamens in the young bud. Ovary slightly sunken with thin wall; (8)10-14 ovules per locule.
 
-Méricarpes de 4-8 × 2-4 cm. Graines roux clair à aile ochracée translucide ; partie cotylédonée 15-20 × 8 mm ; cotylédons soudés. Étuis funiculaires d'environ 2,5 mm. - Pl. 72, fig. 1-14, p. 253.
+Mericarps 4-8 × 2-4 cm. Seeds light russet with ochraceous translucent wing; cotyledonary part 15-20 × 8 mm; cotyledons fused. Funicular sheaths approximately 2.5 mm. - Pl. 72, fig. 1-14, p. 253.
 
 ## Type
 
@@ -55,11 +53,9 @@ Richard s.n., Sénégal (P !)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Breteler 7697, 25 km Ndendé-Lébamba, 28.5.1981 (fl.), WAG. Hladik 2554, Ipassa, 500 m, 20.2.1975 (fl.); 2727, ibid., 2.4.1965 (fr.). Leeuwenberg 11560, 8 km SSW Makokou, 500 m, 17.11.1977 (fl.). Le Testu 2330, Malemba 28.8.1915 (fr., gr.), BM; 7825, Lastoursville, 27.12.1929 (fl.); 8636, Ndingui, 28.12.1930 (fl.). Moungazi 403, Loa-Loa, 12.5.1984 (fl.).
 
-Breteler 1813, Bertoua, km 9 route de Deng Deng, 650 m, 31.8.1961 (bois); 2083, 10 km SE Nguélé-mendouka, Zendé, 700 m, 20.11.1961 (bois).
+Breteler 1813, Bertoua, km 9 route de Deng Deng, 650 m, 31.8.1961 (wood); 2083, 10 km SE Nguélé-mendouka, Zendé, 700 m, 20.11.1961 (wood).
 
 De Wilde J.J. 3568, 15 km S Fort Foureau, route Logone-Birni, 350 m, 29.9.1964 (fr.).
 
@@ -69,7 +65,7 @@ Jacques-Félix 3714, Fort Foureau (Kousseri), 5.1939 (fr. juv.); 3777 bis, Marou
 
 Letouzey 3832, Riv. Dja entre Riv. Edjune et Ndinge, 14.4.1961 (fl., fr. gall.); 8359, rocher d'Akoafim, 38 km SSE Djoum, 15.11.1966 (fl.).
 
-Maley 286, Magam, S lac Tchad, 23.1.1968 (bout.)
+Maley 286, Magam, S lac Tchad, 23.1.1968 (bud)
 
 Mildbraed 4307, Molundu, 1.1911 (fl.), HBG.
 
@@ -77,7 +73,7 @@ Mildbraed 4307, Molundu, 1.1911 (fl.), HBG.
 
 – Hippocratea cymosa DE WILD. & Th. DUR. var. togoensis LOES., Bot. Jahrb. 34: 106 (1904). ISOSYNTYPES: Warnecke 43, 158, 309, Togo (P!).
 
-Une nouvelle récolte de cette rare variété est à citer : Aké Assi 16709, Togo, riv. Mono, 21.7.1984 (fl.).
+A new collection of this rare variety is to be cited: Aké Assi 16709, Togo, riv. Mono, 21.7.1984 (fl.).
 
 8c. var. richardiana (Cambessèdes ex Saint-Hilaire) Hallé
 
@@ -87,9 +83,9 @@ Monogr. Hippocr. Afr. Occid., Thèse : 100 (1958); Wilczek, FCB 9 : 155 (1960).
 
 – H. africana (WILLD.) LOES. var. richardiana (CAMBESS. ex St. HIL.) ROBSON, Bol. Soc. Brot., sér. 2, 39 : 52 (1965).
 
-Cette variété se distingue par son disque épais tronconique non relevé latéralement en cupule et non adhérent aux pétales qui sont ± étalés. – Pl. 72, fig. 15-17, p. 253.
+This variety is distinguished by its thick truncated cone-shaped disk not raised laterally into a cup and not adherent to the petals which are ± spreading. – Pl. 72, fig. 15-17, p. 253.
 
-Elle prédomine en certaines régions sèches de l'Ouest et de l'Est de l'Afrique, ne paraît pas avoir été observée au Nord Cameroun ni au Tchad où elle serait à rechercher. Des formes intermédiaires entre les variétés africana et richardiana ont été observées en plusieurs pays et pourraient exister au Gabon.
+It predominates in certain dry regions of the West and East of Africa, does not appear to have been observed in North Cameroon or Chad where it should be sought. Intermediate forms between the africana and richardiana varieties have been observed in several countries and could exist in Gabon.
 
 8d. var. obtusifolia (Roxburgh) Hallé, comb. nov.
 
@@ -101,9 +97,9 @@ Elle prédomine en certaines régions sèches de l'Ouest et de l'Est de l'Afriqu
 
 – Hippocratea schimperiana Hochst. & Steud. in Richard, Fl. Abyss. 1: 99 (1847).
 
-Cette variété groupe diverses formes de l'Inde, Ceylan, Birmanie (Parker 2602), Bengale (Wallich 1819), Laos (Poilane 12015) et de l'Afrique : Éthiopie (W. De Wilde 10106), Abyssinie (Schimper 576), Zambie (Muller 1286), Tanzanie (Schlieben 5261), Transvaal (Scheepers 720). Les formes asiatiques sont étroitement liées à celles de l'Afrique de l'Est. Le disque est ± tronconique ou patelliforme et son bord inférieur est aminci sans être cupuliforme. Cette variété est indiquée pour mémoire car l'extension occidentale de son aire est mal connue, et des formes intermédiaires pourraient être rencontrées.
+This variety groups various forms from India, Ceylon, Burma (Parker 2602), Bengal (Wallich 1819), Laos (Poilane 12015) and from Africa: Ethiopia (W. De Wilde 10106), Abyssinia (Schimper 576), Zambia (Muller 1286), Tanzania (Schlieben 5261), Transvaal (Scheepers 720). The Asian forms are closely related to those of East Africa. The disk is ± truncated cone-shaped or patelliforme and its lower margin is thinned without being cup-shaped. This variety is cited for the record as the western extent of its range is poorly known, and intermediate forms could be encountered.
 
-Contrairement à l'opinion de WILCZEK, l'espèce L. africana n'est ni en Indonésie, où elle est remplacée par L. macrantha (Korth.) A.C. Smith (qui est distribué de Ceylan aux îles Salomon et aux Nouvelles Hébrides), ni en Australie d'où je ne connais que L. barbata (Muller) C.T. White.
+Contrary to the opinion of WILCZEK, the species L. africana is neither in Indonesia, where it is replaced by L. macrantha (Korth.) A.C. Smith (which is distributed from Ceylon to the Solomon Islands and the New Hebrides), nor in Australia from which I know only L. barbata (Muller) C.T. White.
 
 ## Figures
 

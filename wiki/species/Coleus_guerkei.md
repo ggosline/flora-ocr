@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, non Coleus baumii Gürke. Plectranthus guerkei Briq., Annuaire Conserv. Jard. Bot. Genève 7-8 : 323 (1904). Neohyptis paniculata (Baker) J.K.Morton, J. Linn. Soc., Bot. 58 : 259 (1962). Herbe vivace, de 0,5–1,2(–2) m de hauteur ; tige dressée, fortement quadrangulaire, à ramules éparses et ascendantes, à racines adventives vers la base, pubescente à poils dirigés vers le bas et glandes sessiles pâles, devenant glabre vers la base, à pubescence plus dense à poils étalés sur l’axe de l’inflorescence, avec des fascicules de jeunes feuilles ou de pousses axillaires . Feuille : pétiole 0–1 mm ; limbe défléchi , ovale à étroitement ovale ou elliptique, de 1–2 × 0,5–1 cm, cunéé à atténué à la base, aigu à l’apex, plus rarement obtus sur les feuilles inférieures, serré, légèrement pubescent et glanduleux-ponctué sur la face inférieure. Inflores cence principalement axillaire , condensée et spiciforme , à verticillastres adjacents contigus ; cymes sessiles, avec 3 à 5 fleurs ; bractées persistantes, elliptiques, longues de 3 mm. Fleur : pédicelle 0–1 mm ; calice long de 1,5 mm, et de 3 mm en fruit, pubescent, à glandes sessiles incolores et foncées, légèrement gibbeux et resserré à la gorge, courbé légèrement vers le haut, lèvre supérieure étroitement triangulaire, légèrement plus large que les lobes inférieurs, non décurrente, lèvre inférieure également 4-lobée, lobes étroitement triangulaires, parfois légèrement élargis au sommet, sinus entre les lobes inférieurs plus profonds que ceux séparant les lobes latéraux ; corolle longue de 3 mm, blanche ou rose pâle, à tube sigmoïde, long de 2 mm, lèvre supérieure légèrement plus courte que l’inférieure longue de 1 mm, faiblement cucullée, horizontale, entourant les étamines ; étamines à filets fusionnés. Fruit : akènes ellipsoïdaux à ovoïdes, aplatis, longs de 0,5–1 mm, bruns, tachetés de rougeâtre et à motif régulier de mouchetures sombres.
+, non Coleus baumii Gürke. Plectranthus guerkei Briq., Annuaire Conserv. Jard. Bot. Genève 7-8 : 323 (1904). Neohyptis paniculata (Baker) J.K.Morton, J. Linn. Soc., Bot. 58 : 259 (1962). Perennial herb, 0.5–1.2(–2) m in height; stem erect, strongly quadrangular, with scattered and ascending branchlets, with adventitious roots toward the base, pubescent with downward-directed hairs and pale sessile glands, becoming glabrous toward the base, with denser pubescence of spreading hairs on the inflorescence axis, with fascicles of young leaves or axillary shoots. Leaf: petiole 0–1 mm; lamina deflexed, ovate to narrowly ovate or elliptic, 1–2 × 0.5–1 cm, cuneate to attenuate at the base, acute at the apex, more rarely obtuse on the lower leaves, closely set, slightly pubescent and glandular-punctate on the lower surface. Inflorescence mainly axillary, condensed and spiciform, with contiguous adjacent verticillasters; cymes sessile, with 3 to 5 flowers; bracts persistent, elliptic, 3 mm long. Flower: pedicel 0–1 mm; calyx 1.5 mm long, and 3 mm in fruit, pubescent, with colorless and dark sessile glands, slightly gibbous and constricted at the throat, slightly curved upward, upper lip narrowly triangular, slightly wider than the lower lobes, not decurrent, lower lip also 4-lobed, lobes narrowly triangular, sometimes slightly widened at the apex, sinus between the lower lobes deeper than those separating the lateral lobes; corolla 3 mm long, white or pale pink, with sigmoidal tube, 2 mm long, upper lip slightly shorter than the lower lip 1 mm long, weakly cucullate, horizontal, surrounding the stamens; stamens with fused filaments. Fruit: nutlets ellipsoid to ovoid, flattened, 0.5–1 mm long, brown, spotted with reddish and with a regular pattern of dark speckles.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Largement répandu en Afrique tropicale, incluant le Nigéria, le Cameroun, le Gabon, la République Centrafricaine, la République du Congo, la République démocratique du Congo et l’Angola ; au Gabon : Ogooué-Ivindo. Statut de conservation : largement répandu ; probablement Préoccupation mineure (LC)
+Widely distributed in tropical Africa, including Nigeria, Cameroon, Gabon, Central African Republic, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon: Ogooué-Ivindo. Conservation status: widely distributed; probably Least Concern (LC).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zones humides en savane arbustive ; au Gabon à 100 m d’altitude, ailleurs jusqu’à 1800 m. Bi : Morton (1963), Paton et al. (2009, 2013). B liographie
+moist zones in shrubby savanna; in Gabon at 100 m elevation, elsewhere up to 1800 m. Bi: Morton (1963), Paton et al. (2009, 2013). Bibliography
 
 ## Notes
 

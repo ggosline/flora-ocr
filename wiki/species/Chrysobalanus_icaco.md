@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is represented in Cameroon and Gabon by two subspecies which are distinguished as follows:
 
-Cette espèce est représentée au Cameroun et au Gabon par deux sous-espèces qui se distinguent de la manière suivante :
+— Limb suborbicular, obovate or broadly elliptic, emarginate, rounded or briefly and obtusely acuminate; coastal zone ..... subsp. icaco.
 
-— Limbe suborbiculaire, obovale ou largement elliptique, émarginé, arrondi ou brièvement et obtusément acuminé; zone littorale ..... subsp. icaco.
-
-— Limbe lancéolé-elliptique ou étroitement elliptique, distinctement acuminé; zone intérieure. subsp. atacorensis.
+— Limb lanceolate-elliptic or narrowly elliptic, distinctly acuminate; interior zone ..... subsp. atacorensis.
 
 ## Figures
 

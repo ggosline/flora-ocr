@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Pancovia mortehanii DE WILD., Bull. Jard. Bot. Etat Bruxelles 4 : 373 (1919); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 809 (1932).
 
 — Chytranthus fouilloyanus PELLEGRIN, Mém. Soc. Bot. France 102 : 73 (1955). Syn. nov.
 
-Arbuste monocaule de 2-5 m de hauteur (25 m au Congo?) et 4-5 cm de diamètre. Extrémité glabre avec les feuilles en bouquet. Rachis foliaire long de 75 cm dont 31 cm au dessous de la première paire de folioles, cylindrique de 5 mm de diamètre, finement strié en long à sec; 5-7 paires de folioles opposées ou subopposées, à pétiolule de 5-12 mm; limbe glabre, discolore à sec, olivacé dessus, roussâtre dessous, oblong obové, à base aiguë inégale et sommet abruptement acuminé, de 15-40 × 7-14 cm; nervure médiane glabre dans une légère dépression à la face supérieure; 14-18 paires de ncrvurcs scondaires en relief, ainsi que le fin réticule, sur les deux faces à sec.
+Monocaulous shrub 2–5 m tall (25 m in Congo?) and 4–5 cm in diameter. Apex glabrous with leaves clustered in a tuft. Leaf rachis 75 cm long, of which 31 cm below the first pair of leaflets, cylindrical, 5 mm in diameter, finely striated lengthwise when dry; 5–7 pairs of leaflets opposite or subopposite, with petiolules 5–12 mm; blade glabrous, discolorous when dry, olive-green above, reddish-brown below, oblong obovate, with acute unequal base and abruptly acuminate apex, 15–40 × 7–14 cm; midvein glabrous in a slight depression on the upper surface; 14–18 pairs of secondary veins in relief, as well as the fine reticulum, on both surfaces when dry.
 
-Inflorescences caulinaires échelonnées à toutes hauteurs sur le tronc ou seulement entre 0,50 et 1,70 m; grappes grêles de 9-24 cm, à rachis pubérulent portant des cymules florifères inégalement espacées d'environ 2-8 mm et pédonculées sur 1-2 mm; les bractées sont recaulescentes; boutons et fleurs verdâtres à pédicelle de 2-4 mm; calice pubérulent, haut d'environ 5 mm à 5 lobes dont un plus étroit; 4 pétales elliptiques, pubescents, à 2 ligules superposées, de 5 × 2,5 mm; 7 (8) étanines courbées dont deux un peu plus fortes, longues de 10 mm; filet velu et anthère glabre; pistil avorté de la fleur ♂ pubescent à 3 carpelles, allongé à style arqué dans la fleur ♂; disque un peu plus long que large, d'environ 2 × 1,8 mm.
+Cauline inflorescences scattered at all heights on the trunk or only between 0.50 and 1.70 m; slender racemes 9–24 cm long, with puberulent rachis bearing unevenly spaced floriferous cymules approximately 2–8 mm apart and pedicelled for 1–2 mm; the bracts are recurved; buds and flowers greenish with pedicels 2–4 mm; calyx puberulent, approximately 5 mm tall, with 5 lobes of which one is narrower; 4 elliptic, pubescent petals, with 2 superposed ligules, 5 × 2.5 mm; 7 (8) curved stamens of which two somewhat stronger, 10 mm long; filament hairy and anther glabrous; aborted pistil of the ♂ flower pubescent with 3 carpels, elongate with arched style in the ♂ flower; disc slightly longer than wide, approximately 2 × 1.8 mm.
 
-Infrutescence observée avec 1-3 fruits; ils seraient rougeâtres à l'état immature (Tisserant 513); lisses, verts, charnus succulents à maturité, triangulaires en coupe, longs de 58 mm, larges de 60 mm; 3 loges contenant chacune une graine brune de 21-34 × 14-27 × 6,5-8 mm dont les cotylédons paraissent soudés. PL. 21, p. 97.
+Infructescence observed with 1–3 fruits; they would be reddish when immature (Tisserant 513); smooth, green, fleshy succulent at maturity, triangular in cross-section, 58 mm long, 60 mm wide; 3 locules each containing one brown seed 21–34 × 14–27 × 6.5–8 mm, whose cotyledons appear to be fused. PL. 21, p. 97.
 
 ## Type
 
@@ -35,11 +33,9 @@ Mortehan 462, Dundusana, Zaïre (holo- BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In certain ombrophilous forests of Cameroon, Gabon, Central African Republic (Tisserant 432, 513, 553, Boukoko), and of the Congo Mayumbe from Lower Katanga. We know of no collection from the Brazzaville Region.
 
-Dans certaines forêts ombrophiles du Cameroun, Gabon, Centrafrique (Tisserant 432, 513, 553, Boukoko), et du Mayumbe congolais au Bas-Katanga. Nous ne connaissons aucune récolte de la Région de Brazzaville.
-
-USAGE : Les fruits sont cités comme comestibles au Congo.
+USES: The fruits are cited as edible in Congo.
 
 ## Specimens examined
 

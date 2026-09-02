@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L. kirkii N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1) : 585 (1904). L. whytei N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1) : 585 (1904).
+L. kirkii N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1): 585 (1904). L. whytei N.E.Br. in This.-Dyer, Fl. Trop. Afr. 4(1): 585 (1904).
 
 ## Notes
 

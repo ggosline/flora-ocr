@@ -21,15 +21,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herbaceous plant, linear-lanceolate leaves, reaching about thirty centimetres long and 3 to 5 cm wide.
 
-Plante herbacée dressée, feuilles linéaires lancéolées, atteignant une trentaine de centimètres de long et 3 à 5 cm de large.
+Terminal loose inflorescence, racemose or weakly branched towards the base.
 
-Inflorescence terminale lâche, racémeuse ou faiblement ramifiée vers la base.
+Elongated spikelets, rachis visible between the flowers, at maturity, 3 to 4 cm long, with about ten flowers. Upper glume approximately twice the length of the lower. Lemma hirsute at the base and ciliate on the margins. Palea of equal length and ciliate on the keels.
 
-Épillets allongés, rachis visible entre les fleurs, à maturité, de 3 à 4 cm de long, à une dizaine de fleurs. Glume supérieure environ le double de la longueur de l'inférieure. Lemma hirsute à la base et ciliée sur les bords. Paléa de même longueur et ciliée sur les carènes.
-
-Noms vernaculaires (d’après Walker) : Ntofic (Fang); Muvolu, (Echira); Akubanga (Bakélé).
+Vernacular names (according to Walker): Ntofic (Fang); Muvolu (Echira); Akubanga (Bakélé).
 
 ## Specimens examined
 

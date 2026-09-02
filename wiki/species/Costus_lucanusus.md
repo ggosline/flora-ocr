@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Mitt. Deutsch. Schutzgeb. 2 : 151 (1889).
 
-Herbe robuste à tiges glabres atteignant 2 à 3 m de haut et 2 cm de diamètre. Pétiole de 5 à 20 mm de long ; limbe oblancéolé, longuement acuminé au sommet, atténué ou légèrement cordé à la base, de 20-25 × 6-10 cm ; face supérieure glabre ou légèrement apprimée-pubescente ; face inférieure couverté d'une pubescence soyeuse argentée de densité variable. Gaine foliaire glabre, ligule obliquement tronquée très courte, limitée à sa base par une couronne membraneuse ciliée entourant entièrement la gaine au niveau de l'insertion du pétiole.
+Robust herb with glabrous stems reaching 2 to 3 m tall and 2 cm in diameter. Petiole 5 to 20 mm long; blade oblanceolate, long-acuminate at the apex, attenuate or slightly cordate at the base, 20–25 × 6–10 cm; upper surface glabrous or slightly appressed-pubescent; lower surface covered with silky silvery pubescence of variable density. Leaf sheath glabrous, ligule obliquely truncate very short, limited at its base by a membranous ciliate crown entirely surrounding the sheath at the level of petiole insertion.
 
-Inflorescence terminale, globuleuse ou ellipsoïdale, atteignant une dizaine de centimètres de long, généralement moins. Bractées vertes, ovales d'environ 2,5 cm de long, axillant deux fleurs, chacune avec une bractéole à une carène, munie vers son sommet d'un épaississement calleux. Calice de 2 cm de long, glabre, également tridenté, dépassant longuement les bractées lors de la floraison, vert. Corolle blanche d'environ 4 cm de long au total ; labelle de 4,5-5 cm de long, blanc à bords rouges et avec une ligne médiane jaune. Etamine à connectif pétaloïde rouge, enroulé ; ovaire glabre, capsule de 1,2-1,4 cm de long à calice persistant ; graines noires à arille blanc.
+Inflorescence terminal, globose or ellipsoid, reaching about ten centimetres long, generally less. Bracts green, ovate approximately 2.5 cm long, subtending two flowers, each with a one-keeled bracteole, furnished toward its apex with a callous thickening. Calyx 2 cm long, glabrous, equally three-toothed, far exceeding the bracts during flowering, green. Corolla white approximately 4 cm long in total; labellum 4.5–5 cm long, white with red margins and with a yellow median line. Stamen with red petaloid connective, coiled; ovary glabrous, capsule 1.2–1.4 cm long with persistent calyx; seeds black with white aril.
 
-Espèce de sous-bois, signalée dans la plupart des régions forestières d'Afrique occidentale et centrale.
+Understory species, reported from most of the forest regions of West and Central Africa.
 
-Noms vernaculaires (d'après Walker et Sillans) : Okosakosa (Mpongwé) ; Ukosa-kosa (Benga) ; Okosa (Galoa, Nkomi, Orungu) ; Mukusa (Ngowé) ; Ukusa (Béséki) ; Mokosa (Ivéa, Bavové) ; Mukosa (Baduma, Banzabi) ; Mukwisa (Eshira, Bavarama, Bavungu, Balumbu, Bavili, Masangu) ; Nkwisa (Loango) ; Mokosa-a-bodjodi (Mitsogo) ; Myan (Fang) ; Myandji (Bakélé) ; Mosangadi (Apindji) ; Osaninghi (Mindumu) ; Myandu (Bawumpfu)
+Vernacular names (after Walker and Sillans): Okosakosa (Mpongwé); Ukosa-kosa (Benga); Okosa (Galoa, Nkomi, Orungu); Mukusa (Ngowé); Ukusa (Béséki); Mokosa (Ivéa, Bavové); Mukosa (Baduma, Banzabi); Mukwisa (Eshira, Bavarama, Bavungu, Balumbu, Bavili, Masangu); Nkwisa (Loango); Mokosa-a-bodjodi (Mitsogo); Myan (Fang); Myandji (Bakélé); Mosangadi (Apindji); Osaninghi (Mindumu); Myandu (Bawumpfu)
 
-Diverses parties de la plante sont parfois utilisées pour des usages médicaux ou des pratiques magiques (Walker et Sillans).
+Various parts of the plant are sometimes used for medicinal purposes or magical practices (Walker and Sillans).
 
 ## Specimens examined
 

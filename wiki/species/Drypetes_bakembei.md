@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plate 41
 
-Planche 41
-
-Arbre jusqu'à 15 m de hauteur; tronc jusqu'à 25 cm de diamètre, légèrement cannelé, celui des arbres moyens (3–8 cm de diamètre) souvent à épines lignees émoussées et éparses, atteignant 5 cm; entaille à fibres rouges, roses et oranges, s'oxydant en orange terne, sans odeur d'huile de moutarde; ramilles glabres, séchant brun rouge à l'état jeune; bourgeons glabres, avec un motif de chevauchement distinctif d'écailles rouge brun foncé. Stipules très caduques, étroitement elliptiques-ovales, longues de 3–5 mm, brun rouge à l'épaisseur de 1 mm, brun rouge 3–8 mm, brun rouge 3–5 mm, brun rouge 3–8 mm, brun rouge 3–5 mm, brun rouge 3–5 mm, brun rouge 3–5 mm, brun rouge 3–5 mm, brun rouge
+Tree up to 15 m tall; trunk up to 25 cm in diameter, slightly fluted, that of medium-sized trees (3–8 cm in diameter) often with blunt and scattered woody spines, reaching 5 cm; bark with red, pink and orange fibres, oxidizing to dull orange, without mustard oil odor; branchlets glabrous, drying reddish-brown when young; buds glabrous, with a distinctive overlapping pattern of dark reddish-brown scales. Stipules very caducous, narrowly elliptic-ovate, 3–5 mm long, reddish-brown at thickness of 1 mm, reddish-brown 3–8 mm, reddish-brown 3–5 mm, reddish-brown 3–8 mm, reddish-brown 3–5 mm, reddish-brown 3–5 mm, reddish-brown 3–5 mm, reddish-brown 3–5 mm, reddish-brown
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Gabon, Republic of the Congo and Central African Republic; in Gabon: Ogooué-Lolo
 
-Cameroun, Gabon, République du Congo et République Centrafricaine ; au Gabon : Ogooué -Lolo
-
-Habitat : forêts sempervirentes primaires et secondaires, parfois dans les forêts ripicoles ou périodiquement inondées ; au Gabon à 350–700 m d'altitude, ailleurs à 760 m.
+Habitat: primary and secondary evergreen forests, sometimes in riparian or periodically inundated forests; in Gabon at 350–700 m altitude, elsewhere at 760 m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce semble rare et en outre probablement relativement sous-récoltée. Le caractère distinctif de cette espèce dans l'herbier est l'absence presque totale de poils qui, combinée à un pétiole distinct permettent de l'identifier sans fleur ni fruit
+This species appears to be rare and moreover probably relatively under-collected. The distinctive character of this species in the herbarium is the almost complete absence of hairs which, combined with a distinct petiole, allows it to be identified without flower or fruit.
 
 ## Bibliography
 

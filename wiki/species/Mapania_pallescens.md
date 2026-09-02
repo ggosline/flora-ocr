@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe grêle à robuste, avec un rhizome peu distinct ; 1–6 tiges latérales , 5–15 cm × 0,4– 0,8 mm, vertes, la base avec un court prophylle et 3–5 gaines foliacées (cataphylles). Feuilles : 7–10 basales ; gaine verte à marges membraneuses brun rougeâtre ; pseudo-pétiole réduit, large d’environ 3 mm ; limbe linéaire, de 50–60 cm × 10–13 mm , scabre sur la marge, particulièrement vers l’extrémité. Inflorescence terminale, en tête globuleuse, large de 10–18 mm, blonde à brun clair , avec 10–20 épis peu distincts ; bractées involucrales glumacées ; épis d’environ 5 mm de diamètre, avec 10–20 spicoïdes étalés ; bractées spicoïdales elliptiques à presque lancéolées, 2–2,5 × 1,2–1,5 mm , blondes à brun rougeâtre clair. Fleur : bractées florales 4–6, lancéolées, les 2 inférieures, 2,3–2,5
+Slender to robust herb, with an indistinct rhizome; 1–6 lateral stems, 5–15 cm × 0.4–0.8 mm, green, the base with a short prophyll and 3–5 foliaceous sheaths (cataphylls). Leaves: 7–10 basal; sheath green with reddish-brown membranous margins; pseudo-petiole reduced, about 3 mm wide; blade linear, 50–60 cm × 10–13 mm, scabrous on the margin, particularly towards the apex. Inflorescence terminal, in a globose head, 10–18 mm wide, blonde to pale brown, with 10–20 indistinct spikes; involucral bracts glumaceous; spikes about 5 mm in diameter, with 10–20 spreading spikelets; spikelet bracts elliptic to almost lanceolate, 2–2.5 × 1.2–1.5 mm, blonde to pale reddish-brown. Flower: floral bracts 4–6, lanceolate, the 2 lower, 2.3–2.5
 
 a b
 

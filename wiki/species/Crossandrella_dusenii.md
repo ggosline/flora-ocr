@@ -21,25 +21,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 ≡ Pseudoblepharis Dusenii Lindau, Bot. Jahrb. 20 : 34 (1894).
 
 ≡ Acanthus Dusenii (Lindau) C. B. Clarke, F.T.A. 5 : 108 (1899).
 
-Arbuste presque glabre, à parties nouvelles et axe de l'inflorescence pubérulents. Pétiole de 1,5-3 cm. Limbe de 8-20 × 4-6 cm, elliptique, acuminé.
+Shrub nearly glabrous, with new parts and inflorescence axis puberulent. Petiole 1.5–3 cm. Blade 8–20 × 4–6 cm, elliptic, acuminate.
 
-Inflorescence de 10-15 cm; bractées ovales, étroites, acuminées, longues de 7-8 mm, à nervures parallèles marquées; bractéoles de 10 × 3 mm, lancéolées obtuses, 5-nervées. Calice de 17 mm, 4-lobé, à lobe inférieur entier de 10 × 2,5 mm; lobes latéraux de 6 mm seulement, très étroits, aciculés; lobe supérieur de 3-4 × 9 mm, bipartite, libre jusqu'à la moitié de sa longueur. Corolle jusqu'à 1,5 cm de long, bleue, à lobes inférieurs soudés en une lèvre de 7 × 5 mm; l'absence de lèvre supérieure.
+Inflorescence 10–15 cm; bracts oval, narrow, acuminate, 7–8 mm long, with marked parallel veins; bracteoles 10 × 3 mm, lanceolate obtuse, 5-veined. Calyx 17 mm, 4-lobed, with entire lower lobe 10 × 2.5 mm; lateral lobes only 6 mm, very narrow, aciculate; upper lobe 3–4 × 9 mm, bipartite, free to the middle of its length. Corolla up to 1.5 cm long, blue, with lower lobes fused into a lip 7 × 5 mm; absence of upper lip.
 
-Fruit capsulaire ellipsoïde long de 10 mm, à deux graines aplaties, ovales, de  $ 5 \times 2.5 $ mm, avec une petite pointe, glabres, munies de petites écailles.
+Capsular fruit ellipsoid 10 mm long, with two flattened, oval seeds, 5 × 2.5 mm, with a small point, glabrous, bearing small scales.
 
 ## Type
 
 Dusén 348a, Cameroun (B, holotype détruit)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Nigeria, Cameroon, Rio-Muni, Gabon, Congo, Uganda.
 

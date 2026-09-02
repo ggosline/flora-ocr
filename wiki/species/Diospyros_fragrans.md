@@ -27,7 +27,7 @@ tags: [species]
 
 12. Diospyros fragrans Gurke
 
-Bot.Jahrb.46：154(19II).—MILDBRAED，Notizbl.Bot.Gart.Berl.9：1050 (1926).-F.WHITE,FWTA ed.2,2:11,tab.202A,3 (1963);non Mabafragrans HIERN ex GREVES.
+Bot.Jahrb.46:154(19II).—MILDBRAED,Notizbl.Bot.Gart.Berl.9:1050 (1926).-F.WHITE,FWTA ed.2,2:11,tab.202A,3 (1963);non Mabafragrans HIERN ex GREVES.
 
 Specimens of this species appear in various herbaria under the following name: *Diospyros mucronata* (Pierre ms.).
 
@@ -51,11 +51,11 @@ This species may occur in Nigeria (Benin), but it is mainly centered in Cameroon
 
 ### Material studied in Cameroon
 
-Binuyo et Daramola FHI 35629, South.Bakundu for.res. pres Kumba (fl., mars） FHO,K. Brenan 94o5, South. Bakundu for. res. pres Kumba (fl., mars). Hückstädt 137 (syntype),Manoka (cit. in Bot. Jahrb.46 :155 (1911). Ledermann 682 (syntype)，Ilende pres Elabi (fl.,sept.) (cit.in Bot.Jahrb. 46:155 (1911). Letouzey 9I02,45 km SSE Kribi (fl. ♀,j. fr., mars);1o3o8, Oveng pres Nyabessan (fl.,avr.). Mildbraed 6o49,Beson,45 km E Gross Batanga pres Kribi (fr., juill.) (cit.in Notizbl. Bot.Gart.Berl.9 :1o5o (1926). SRFCam 15688 (leg IRCAM), sin. loc., YA. White 8627,rés.for.lac Ejaghan pres Mamfe (stér.） FHO. Zenker I74o (syntype)，entre la cóte et Bipindi (fl.δ,avr.)；4538,colline de Mimfia pres Bipindi (fl. ♀,avr.) BM,K.
+Binuyo et Daramola FHI 35629, South.Bakundu for.res. pres Kumba (fl., mars) FHO,K. Brenan 94o5, South. Bakundu for. res. pres Kumba (fl., mars). Hückstädt 137 (syntype),Manoka (cit. in Bot. Jahrb.46 :155 (1911). Ledermann 682 (syntype),Ilende pres Elabi (fl.,sept.) (cit.in Bot.Jahrb. 46:155 (1911). Letouzey 9I02,45 km SSE Kribi (fl. ♀,j. fr., mars);1o3o8, Oveng pres Nyabessan (fl.,avr.). Mildbraed 6o49,Beson,45 km E Gross Batanga pres Kribi (fr., juill.) (cit.in Notizbl. Bot.Gart.Berl.9 :1o5o (1926). SRFCam 15688 (leg IRCAM), sin. loc., YA. White 8627,rés.for.lac Ejaghan pres Mamfe (stér.) FHO. Zenker I74o (syntype),entre la cóte et Bipindi (fl.δ,avr.);4538,colline de Mimfia pres Bipindi (fl. ♀,avr.) BM,K.
 
 ### Material studied in Gabon
 
-Klaine 788 (= 2oo6),sin.loc. (fl.,oct.+ fr.disparus,févr.)；134o,sin.loc. (fr.disparus,févr.)；134I,sin.loc.(fl.，oct.)；1818,sin.loc. (fr.,mars); 2006 (= 788)，sin. loc. (fl.δ)；2I22，sin. loc.(fr.disparus + gr.，janv.) (toutes récoltes certainement de Libreville). Le Ray s.n.,rés.for. de la Mondah pres du cap Esterias (fl.,oct.). Le Testu 5I2I,entre Moutéti et Malongo Mabey,7o km NW Mouila (fr.disparus，nov.)；5485,Bilengué，4o km ESE Mouila (fl.,sept.)；9346,la Lara,6o km SSW Mitzic (fl.δ,oct.)；9388,Mbolenzorc,2o km SW Oyem (fl.δ,nov.) FHO. Morel s.n.,rés. for.de la Mondah,route d'Idokogo,pres Libreville (fl., oct.).
+Klaine 788 (= 2oo6),sin.loc. (fl.,oct.+ fr.disparus,févr.);134o,sin.loc. (fr.disparus,févr.);134I,sin.loc.(fl.,oct.);1818,sin.loc. (fr.,mars); 2006 (= 788),sin. loc. (fl.δ);2I22,sin. loc.(fr.disparus + gr.,janv.) (toutes récoltes certainement de Libreville). Le Ray s.n.,rés.for. de la Mondah pres du cap Esterias (fl.,oct.). Le Testu 5I2I,entre Moutéti et Malongo Mabey,7o km NW Mouila (fr.disparus,nov.);5485,Bilengué,4o km ESE Mouila (fl.,sept.);9346,la Lara,6o km SSW Mitzic (fl.δ,oct.);9388,Mbolenzorc,2o km SW Oyem (fl.δ,nov.) FHO. Morel s.n.,rés. for.de la Mondah,route d'Idokogo,pres Libreville (fl., oct.).
 
 ## Figures
 

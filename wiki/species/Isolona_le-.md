@@ -13,23 +13,21 @@ tags: [species, generated]
 
 **Genus**: [[Isolona]]
 **Family**: [[Annonaceae]]
-**Protologue**: Bull.Mus.Nat.Hist.Nat.Paris 26 :657(192o)；Bull. Soc.Bot.Fr.94 :387 (1947)
+**Protologue**: Bull.Mus.Nat.Hist.Nat.Paris 26 :657(192o);Bull. Soc.Bot.Fr.94 :387 (1947)
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Bull.Mus.Nat.Hist.Nat.Paris 26:657(1920); Bull.Soc.Bot.Fr.94:387(1947).
 
-Bull.Mus.Nat.Hist.Nat.Paris 26 :657(192o)；Bull. Soc.Bot.Fr.94 :387 (1947).
+Tree 3-4 m tall with furrowed trunk and numerous low branches; branchlets and twigs glabrous, dark brown. Leaves with petiole 2-3 mm long; blade papyraceous, elliptic to oblongo-obovate, 6-15 cm long, 3-5.7 cm wide, cuneiform to subrounded at the base, ± elongately acuminate at the apex, glabrous on both surfaces. Midvein prominent on both surfaces; lateral veins 10-11 pairs, oblique-ascending, joined in arcades 2-5 mm from the margin; reticulum lax, clearly visible.
 
-Arbre de 3-4 m de tronc,cannelé,a nombreuses basses branches；rameaux et ramilles glabres,brun noir. Feuilles ä pétiole long de 2-3 mm； limbe papyracé,elliptique a oblongobové,long de 6-15 cm,large de 3-5,7 cm,cunéiforme ä subarrondi ä la base,± longuement acuminé au sommet，glabre sur les deux faces. Nervure médiane proéminente sur les deux faces; nervures latérales Io-II paires obliques ascendantes,réunies en arceaux á 2-5 mm de la marge；reticulum lache,bien visible.
+Flowers solitary, axillary, with slender pedicels 1.3-1.4 cm long, bearing at the base 4 very small ovate bracteoles. Sepals, united at the base, broadly ovate, 2-2.5 mm in diameter, mucronate at the apex, ciliate on the margins. Corolla green, with red at the base of the petals; tube 6-10 mm long, longitudinally striate within; lobes thin, linear-acute, 4-9 cm long, approximately 2 mm wide. Stamens subsessile, 1-1.5 mm long, thecae oblong, lateral, extrorse, connectives dilated above the anthers and extending toward the center of the flower in the innermost ones. Ovary ovoid, longitudinally ribbed, stigmas sessile, capitate-lobed.
 
-Fleurs solitaires，axillaires,a pedicelle grele, long de 1,3- 1,4 cm,muni a la base de 4 bractéoles ovées, tres petites. Sépales, soudés á la base,largement oves,de 2-2,5 mm de diametre, mucronés au sommet,ciliés sur les bords.Corolle verte,á base des pétales rouge； tube long de 6-1o mm,strié longitudinalement a l'intérieur; lobes minces, lineaires aigus, longs de 4-9 cm, larges de 2 mm environ. Etamines subsessiles, longues de I-1,5 mm, theques oblongues latérales extrorses,connectifs dilates au-dessus des anthéres et prolongés vers le centre de la fleur chez les plus internes. Ovaire ovoide, cotelé longitudinalement， stigmates sessiles,capités lobulés.
+Fruit unknown.
 
-Fruit inconnu.
+Type and only Gabonese material studied: Le Testu 1252, Tchibanga, fl. Nov. (holotype P!; isotype BM!).
 
-Type et seul matériel gabonais étudié : Le Testu I252, Tchibanga,fl. nov. (holotype P!; isotype BM!).
-
-Espéce de forét dense humide,endémique du Gabon,particulierement remarquable par ses longs pétales linéaires.
+Species of dense humid forest, endemic to Gabon, particularly remarkable for its long linear petals.
 
 ## Notes
 

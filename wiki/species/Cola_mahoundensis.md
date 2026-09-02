@@ -17,23 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Cf.? Cola welwitschii Exell et Mend., nomen.
 
 et Sterc. Gab., Mém. Soc. Bot. : 39 (1950-1951). — Exell et Mend. Consp. Fl. Angol. I : 204-205 (1951).
 
-Petit arbuste à extrémités médiocrement revêtues de courts poils étoilés. Stipules de 9-13 mm de long, très atténuées aiguës pubescentes et caduques. Pétioles de 3-45 cm de long, glabres ou presque, à fine pubérulence vers l'extrémité supérieure. Limbe mince devenant subcoriace, de teinte olivacée ou brun roux à sec, entièrement glabre, de 7-30 cm de long; 3-5 lobes elliptiques variables de largement obovés à étroitement spathulés, acuminés; 5-7 nervures basiliaires digitées.
+Small shrub with moderately clothed apices bearing short stellate hairs. Stipules 9-13 mm long, very attenuate acute pubescent and caducous. Petioles 3-45 cm long, glabrous or nearly so, with fine puberulence toward the upper extremity. Blade thin becoming subcoriaceous, olivaceous or reddish-brown in color when dry, entirely glabrous, 7-30 cm long; 3-5 elliptic lobes variable from broadly obovate to narrowly spathulate, acuminate; 5-7 basilar digitately arranged nerves.
 
-Inflorescence pauciflore supra-axillaire, encore plus contractée que dans l'espèce précédente, à rachis de 2-4 mm de long, ramié de façon compacte en glomérule subsessile à bractéoles ovées, à dense pubérulence œuvre. Fleurs brun œuvre pubescentes à poils étoilés denses et ras, subsessiles ou à pédicelle de 1-6 mm de long, articulé vers le haut. Calice campanulé ou un peu urcéolé dans certaines fleurs ∅, long de 8-12 mm, charnu, 3-5 lobé sur près de la moitié de la longueur; lobes épais, triangulaires aigus, à marges feutrées pubérulentes, avec des poils peu serrés sur la face interne.
+Inflorescence pauciflorous supra-axillary, even more contracted than in the preceding species, with rachis 2-4 mm long, ramified in a compact manner into a subsessile glomerule with ovate bracteoles, bearing dense puberulence. Flowers reddish pubescent with dense and appressed stellate hairs, subsessile or with pedicel 1-6 mm long, articulate toward the apex. Calyx campanulate or somewhat urceolate in certain flowers, 8-12 mm long, fleshy, 3-5 lobed for nearly half its length; lobes thick, acute triangular, with felted puberulent margins, with loosely arranged hairs on the inner face.
 
-PL. X. — Feuilles et fleurs de Cola du s.-g. Neocourtenia : 1 à 4, Cola heterophylla (P. Beauv.) Schott et Endl. (1 et 2, Thollon 1890-91 s. n.; 3, forme typique, Ahmed et Thizea 24462, Nigeria; 4, Dybowski 29). — 5 à 7, Cola mahoundensis Pellegr. (5, Le Testu 8776; 6 et 7, Le Testu 9044). — 8 et 9, Cola hispida Bren. et Keay (8, Walker s. n.; 9, Keay 28263, Nigeria).
+PL. X. — Leaves and flowers of Cola of the subg. Neocourtenia: 1 to 4, Cola heterophylla (P. Beauv.) Schott et Endl. (1 and 2, Thollon 1890-91 s. n.; 3, typical form, Ahmed et Thizea 24462, Nigeria; 4, Dybowski 29). — 5 to 7, Cola mahoundensis Pellegr. (5, Le Testu 8776; 6 and 7, Le Testu 9044). — 8 and 9, Cola hispida Bren. et Keay (8, Walker s. n.; 9, Keay 28263, Nigeria).
 
-Fleur ♂ à androphore glabre de 2-3 mm de haut, portant 13-20 loges polliniques étroites unisériées, disposées en une couronne subsphérique. Fleur ♀ à ovaire pubescent subsphérique côtelé, à 10 carpelles soudés, à sommet stigmatifère tronqué, à axe creux pubescent; 12 ovules env. par carpelle. Fruit à follicules probablement indéhiscents, acuminés de 5,5 cm env., avec des poils étoilés épars; 4 graines par follicule entourées d'un tégument fibreux.
+Male flower with glabrous androphore 2-3 mm high, bearing 13-20 narrow pollen-sacs uniseriate, arranged in a subspheric crown. Female flower with pubescent subspheric ribbed ovary, with 10 fused carpels, with truncate stigmatiferous apex, with hollow pubescent axis; approximately 12 ovules per carpel. Fruit with probably indehiscent follicles, acuminate approximately 5.5 cm, with scattered stellate hairs; 4 seeds per follicle surrounded by a fibrous integument.
 
-Type de l'espèce : Le Testu 8195, du Gabon (P.).
+Type of the species: Le Testu 8195, from Gabon (P.).
 
-Le Cola mahoundensis paraît répandu du Cameroun britannique au nord de l'Angola.
+Cola mahoundensis appears widespread from British Cameroon to northern Angola.
 
 ## Vernacular names
 
@@ -41,9 +39,7 @@ Kikulu (Yombe); Emcala? (région de Landana)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Utilisation. Fruit signalé comme comestible.
+Uses. Fruit reported as edible.
 
 ## Specimens examined
 

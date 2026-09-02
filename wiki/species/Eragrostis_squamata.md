@@ -21,17 +21,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(under the name of E. atrovirens Trin.). — LAM. Illustr. I : 185 (1791).
 
-(sous le nom d’E. atrovirens Trin.). — LAM. Illustr. I : 185 (1791).
+Perennial herb in dense tufts, reaching 80 cm tall or more. Leaves with sheaths somewhat shorter than the internodes, striate, ciliate at the junction with the blade. Blades spreading or rolled, 10 to 20 cm long or more and up to 6 mm wide.
 
-Herbe pérenne en toulfes denses, atteignant 80 cm de haut ou plus. Feuilles à gaines un peu plus courtes que les entre-nœuds, striées, ciliées à la jonction avec le limbe. Limbes étalés ou enroulés, de 10 à 20 cm de long ou plus et jusqu'à 6 mm de large.
+Large loose panicle with branches distant 20 to 40 cm long and 5 to 20 cm wide; secondary branches bearing ramifications, or spikelets appressed against them from their base. Spikelets generally shortly pedicellate, sometimes subsessile, olive-green in colour, elongate elliptic, 5 to 20 mm long or sometimes more and 2 to 2.5 mm wide.
 
-Grande panicule lâche à branches distantes de 20 à 40 cm de long et 5 à 20 cm de large; branches secondaires portant des ramifications, ou des épilets apprimés contre elles dès leur base. Épilets généralement courtement pédicelles, parfois subsesiles, de couleur vert-olive, allongés elliptiques, de 5 à 20 mm de long ou parfois plus et de 2 à 2,5 mm de large.
+PL. XXXVII. — Eragrostis Georgi A. Chev. (Le Testu 1597); 1, rhizome and habit of the plant; 2, detail of spikelets, before and after the fall of the lemmas and paleas (length of spikelet approx. 1.5 cm). — E. sabulicola Pilg. ex Koechlin (Schlechter 12817) : 3, inflorescence and leaves; 4, entire spikelet, length approx. 7 mm; 5, spikelet after the fall of the glumes and lower lemmas and paleas.
 
-PL. XXXVII. — Eragrostis Georgi A. Chev. (Le Testu 1597); 1, souche et port de la plante; 2, détail des épilets, avant et après la chute des glumelles (longueur de l'épillet env. 1,5 cm). — E. sabulicola Pilg. ex Koechlin (Schlechter 12817) : 3, inflorescence et feuilles; 4, épillet entier, longueur env. 7 mm; 5, épillet après la chute des glumes et des glumelles inférieures.
-
-Glumes longuement acuminées, scabres sur la carène, à 1 nervure, l'inférieure de 1 mm de long, la supérieure de 2 mm. Lemmas acuminées de 2,5 mm de long, carène scabre vers le haut, nervures latérales peu visibles. Palées plus courtes, persistentes, finement et courtement ciliées sur les carènes. Akène subsphérique, d'un peu plus de 0,5 mm de diamètre.
+Glumes long-acuminate, scabrous on the keel, 1-nerved, the lower 1 mm long, the upper 2 mm. Lemmas acuminate 2.5 mm long, keel scabrous toward the apex, lateral nerves scarcely visible. Paleas shorter, persistent, finely and shortly ciliate on the keels. Caryopsis subspherical, slightly more than 0.5 mm in diameter.
 
 ## Specimens examined
 

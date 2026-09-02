@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial plant, somewhat bushy, up to 1.20 m tall, pubescent, especially in the inflorescences and young parts. Petioles 2–2.5 cm. Leaf blade elliptic, 14–16 × 6–7.5, acute-acuminate at the apex; acumen very elongated, 1–1.5 cm. 8–9 pairs of lateral veins.
 
-Plante vivace, un peu buissonnante, jusqu'à 1,20 m de haut, pubescente, surtout dans les inflorescences et les parties jeunes. Pétioles de 2-2,5 cm. Limbe des feuilles elliptique de 14-16 × 6-7,5, aigu-acuminé au sommet; acumen très allongé de 1-1,5 cm. 8-9 paires de nervures latérales.
+Inflorescences terminal and axillary, not unilateral, 20–30 cm long, composed of several lax spikes, ordinarily bearing a single flower per node; upper flowers no more crowded than the lower ones; bracts subulate, 2 mm long; bracteoles similar but somewhat narrower; pedicels 4–5 mm, and in fruits up to 12 mm, glandular-pubescent. Calyx 7 mm, with very acuminate and narrow lobes, 0.8 mm wide at the base. Corolla glabrous, light blue-purple or mauve, 5 cm long; tube white, cylindric up to 3 cm in length, then inflated and infundibuliform; lobes spreading, 8 × 5 mm, well rounded. The long stamens 40 mm, the short ones 17–18 mm; anthers 3 mm, somewhat sagittate at the base. Style 38 mm, glabrous; stigma bilobed, with two spoon-shaped parts, 0.5 mm long. Ovary 3.5 mm, almost glabrous, bearing a few very small papillae.
 
-Inflorescences terminales et axillaires, non unilatérales, longues de 20-30 cm, composées de plusieurs épis lâches, ayant ordinairement une seule fleur par nœud; fleurs supérieures pas plus serrées que les inférieures; bractées subulées, longues de -2 mm; les bractéoles semblables mais un peu plus étroites; pédi celles de 4-5 mm, et dans les fruits jusqu'à 12 mm, glanduleux-pubescents. Calice de 7 mm, à lobes très acuminés et étroits, de 0,8 mm de largeur à la base. Corolle glabre, bleu violacé clair ou mauve, longue de 5 cm; tube blanc, cylindrique jusqu'à 3 cm de longueur, puis renflé et infundibiliforme; lobes étalés, de 8 × 5 mm, bien arrondis. Les étamines longues ont 40 mm, les courtes 17-18 mm; anthères de 3 mm, un peu sagittées à la base. Style de 38 mm, glabre; stigmate bilobé, à deux parties en forme de cuiller, long de 0,5 mm. Ovaire de 3,5 mm, presque glabre, portant quelques toutes petites papilles.
-
-Fruit de 34 mm, stipité sur 20 mm. Graines de 5,5 × 4,5, sur 1 mm environ d'épaisseur; hile très marqué; testa sur les deux surfaces couverte de petites verrues allongées et disposées concentriquement en lignes plus ou moins irrégulières.
+Fruit 34 mm, stipitate for 20 mm. Seeds 5.5 × 4.5, approximately 1 mm in thickness; hilum very marked; testa on both surfaces covered with small elongated warts arranged concentrically in more or less irregular lines.
 
 ## Type
 

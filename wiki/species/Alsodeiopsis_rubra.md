@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1–2.5 m tall with hirsute stem. Young branches hirsute pubescent with tawny, golden or wine-coloured hairs. Petiole hirsute, 1–5 mm long, often bent. Blade green above and lighter green-brown below, elliptic-lanceolate sometimes slightly whitish, 8.5–18 × 4.5–6 cm; base strongly inequilateral with one side strongly rounded or cordate and the other rounded or attenuate, apex abruptly and elongately acuminate acute mucronate; upper surface of blade pubescent with appressed hairs or glabrous, hirsute with reddish hairs and appressed pubescence of white hairs below. Midvein concave pubescent on the upper surface and prominent pubescent hirsute on the lower surface. Secondary veins 8–18 pairs, ascending, arched, anastomosing 0.5–1.5 mm from the blade margin, prominent pubescent on both surfaces. Tertiary veins in a fairly lax network prominent on both surfaces, ± scalariform, yellow.
 
-Arbuste haut de 1-2,5 m à tige hirsute. Jeunes rameaux hirsutes pubescents à poils fauves, dorés ou lie de vin. Pétiole hirsute, long de 1-5 mm, souvent coudé. Limbe vert dessus et vert marron plus clair dessous, elliptique-lancéolé parfois blancéolé, 8,5-18 × 4,5-6 cm; base fortement iné
+Inflorescences axillary solitary or fascicled in pairs, multiflorous. Peduncle 1–2.5 cm long, pubescent hirsute with yellowish, wine-coloured or whitish hairs. Bracts linear, pubescent. Flowers yellowish or pale orange. Sepals greenish, with wine-coloured hirsute pubescence externally and glabrous internally. Petals hirsute externally and glabrous internally, narrowly lanceolate, free to the base. Stamens with short filament; anther ellipsoid; connective appendiculate at the apex. Ovary hirsute. Style long and slender exceeding the petals.
 
-quilatérale à un côté fortement arrondi ou cordé et un autre arrodi ou atténué, sommet abruptement et longuement acuminé aigu mucroné; face supérieure du limbe pubescente à poils apprimés ou glabre, hirsute à poils roux et à pubescence apprimée de poils blancs dessous. Nervure médiane concave pubescente à la face supérieure et saillante pubescente hirsute à la face inférieure. Nervures secondaires 8-18 paires, ascendantes, arquées, s'anas-tomsant à 0,5-1,5 mm du bord du limbe, saillantes pubescentes sur les deux faces. Nervilles en réseau assez lâche saillant sur les deux faces, ± scalariformes, jaunes.
-
-Inflorescences axillaires solitaires ou fasciculées par deux, multiflores. Pédoncule long de 1-2,5 cm, pubescent hirsute à poils jaunâtres, lie de vin ou blanchâtres. Bractées linéaires, pubescentes. Fleurs jaunâtres ou orangé pâle. Sépales verdâtres, à pubescence lie de vin hirsute extérieurement et glabres intérieurement. Pétales hirsutes extérieurement et glabres intérieurement, étroitement lancéolés, libres jusqu'à la base. Étamines à filet court; anthère ellipsoïde; connectif appéndiculé au sommet. Ovaire hirsute. Style long et grêle dépassant les pétales.
-
-Drupe pubescente, orangée, brillante, ellipsoïde,  $ 2,8 \times 1 \, \text{cm} $. PL. 5, I, p. 21.
+Drupe pubescent, orange, shiny, ellipsoid, 2.8 × 1 cm. PL. 5, I, p. 21.
 
 ## Type
 
@@ -33,9 +29,7 @@ Zenker 2231, Cameroun (B, deletion; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est connue du Cameroun et de Guinée équatoriale. Elle est à rechercher au Gabon.
+This species is known from Cameroon and Equatorial Guinea. It is to be sought in Gabon.
 
 ## Specimens examined
 

@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub (?) with ultimate branchlets very regularly distichous, filiform, less than 2 mm in diameter at their base and less than 0.5 mm at the apex, pubescent when young, leafy along their entire length. Older branchlets glabrous and brown-red.
 
-Arbrisseau (?) à rameaux ultimes très régulièrement distiques, filiformes, de moins de 2 mm de diamètre à leur base et de moins de 0,5 mm à l'apex, pubescents à l'état jeune, feuillés sur toute leur longueur. Rameaux âgés glabres et brun-rouge.
+Leaves very characteristic, asymmetric, subsessile. Blade of very fine texture, oblong-rhombic, oblique, rounded or only slightly acuminate at the apex, without a caudate appendage, 10-18 (rarely 20) mm long and 6-12 mm wide, glabrous and discolorous, with the lower surface greyish. Margins very entire but slightly undulate when dry. Primary vein scarcely marked on the upper surface, straw-yellow on the lower surface; secondary veins 8-14 on each side, joined by a very fine network of tertiary veinlets.
 
-Feuilles très caractéristiques, asymétriques, subsessiles. Limbe de texture très fine, oblong-losangique, oblique, arrondi ou seulement légèrement acuminé au sommet, sans appendice caudé, de 10-18 (rarement 20) mm de long et 6-12 de large, glabre et discolore, à face inférieure grisâtre. Marges très entières mais légèrement ondulées sur le sec. Nervure principale peu marquée à la face supérieure, jaune-paille à la face inférieure; nervures secondaires 8-14 de chaque côté, réunies par un très fin réseau de nervilles tertiaires.
+Flowers subsessile, very small, not exceeding 15 mm, axillary to a very small bract. Perianth tube 8-10 mm long, glabrous or sometimes glabrescent at the base, 1 mm in diameter. Sepals 3-4 mm long, 1.5 mm wide at the base, glabrescent on both surfaces, narrowly triangular, attenuate-rounded at the apex. 5 petals somewhat shorter than the sepals, 3 mm long by 1 mm wide, very deeply bifid, glabrous. Stamens 5-7 mm, with anthers 0.5 mm, exsert. Ovary ovoid, glabrescent, with a hypogynous cupule dentate or entire; style 10-15 mm (temporary heterostyly); stigma elongate-claviform, exsert.
 
-Fleurs subsessiles, très petites, ne dépassant pas 15 mm, axillées par une très petite bractée. Tube du périgone de 8-10 mm de long, glabre ou parfois glabrescent à la base, de 1 mm de diamètre. Sépales de 3-4 mm de long, 1,5 mm de large à la base, glabrescents sur les deux faces, étroitement triangulaires, atténués-arondis au sommet. 5 pétales un peu plus courts que les sépales, de 3 mm de long sur 1 mm de large, très profondément bifides, glabres. Étamines de 5-7 mm, à anthères de 0,5 mm, exsertes. Ovaire ovoïde, glabrescent, à cupule hypogyne dentée ou entière; style de 10-15 mm (hétérostylie passagère); stigmate allongéclaviforme, exsert.
+Drupaceous fruit, 5-6 mm long, 4-5 mm wide, with a rather fine endocarp and appearing scarcely filamentous; 1 seed.
 
-Fruit drupacé, de 5-6 mm de long, 4-5 mm de large, à péricarpe assez fin et paraissant peu filamenteux; 1 graine.
+Type described from Gabon (Le Testu 8142, P!).
 
-Type décrit du Gabon (Le Testu 8142, P!).
-
-Cette espèce dont tous les organes sont beaucoup plus petits
-
-que chez tous les autres Dicranolepis actuellement connus par des spécimens d'herbier a, de plus, la particularité de posséder des feuilles sans acumen caudé différencié.
+This species, all of whose organs are much smaller than in all other Dicranolepis currently known from herbarium specimens, has, moreover, the particularity of possessing leaves without a differentiated caudate acumen.
 
 ## Specimens examined
 

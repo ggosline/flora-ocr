@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 26; Figure 4(C)
+Plate 26; Figure 4(C)
 
 Dimorphochlamys cabrae Cogn., Ann. Mus. Congo, sér. II, Bot., 1(1): 24 (1899).
 
 Dimorphochlamys crepiniana Cogn., Ann. Mus. Congo, sér. II, Bot., 1(1): 25 (1899).
 
-Liane vivace, dioïque; tige ligneuse, atteignant 20 m, glabrescente. Vrilles formées d'une partie rectiligne robuste et d'une partie distale simple ou bifide, spiralée, plus grêle, anguleuse. Feuille: pétiole épais, 1–2 cm; limbe ovale-cordiforme, entier ou faiblement 3-lobé, de 8–15 × 5–9 cm, tronqué à cordé à la base, acuminé au sommet, subcoriace, scabre sur les deux faces, la face supérieure vert sombre, ponctuée de poils à base écaillée, la face inférieure vert plus clair, à nervures hérissées de poils raides; réseau de nervures tertiaires bien marqué à la face inférieure. Inflorescence mâle en fascicule; pédoncule épais, 2–4 cm, sommet portant plusieurs bractées étroites, longues de 8 mm. Fleur mâle: pédicelle court, ailé sur toute sa longueur, aile large de 6 mm, membraneuse, se prolongeant sur le réceptacle; réceptacle infundibuliforme, de 10 × 6 mm, vert brunâtre, glabre; sépales ovales, longs de 4–6 mm, à bords membraneux; pétales longs de 2,5–3 cm, blanc rosâtre, courtemment villeux, à 5 nervures bien visibles, 3 pétales ayant à la face interne une zone de gros poils glanduliformes,
-
-allant de leur base jusqu'à la moitié de leur longueur et de chaque côté de la nervure médiane ; étamines à filet grêle, de 1–2 mm, glabre, à anthères jaune orangé, dont 2 bitheques et 1 monothèque, longues de 5–6 mm, à loges droites ou un peu courbées, à connectif épais. Fleur fémelle : sépales 5, réfléchis, de  $ 8 \times 1,5 $ mm ; pétales de  $ 2,5–3 \times 0,8 $ cm ; ovaire courtement tomenteux ; style 4 mm, à stigmates longs de 4–6 mm. Fruit ovoïde, 7–10 cm de diamètre, à péricarpe grumeleux, vert tacheté de blanc puis orangé à maturité, à sépales persistantes en couronne au sommet. Graine de  $ 22 \times 8 \times 4 $ mm, noire, dentée sur le bord.
+Perennial liane, dioecious; woody stem, reaching 20 m, glabrescente. Tendrils formed of a robust rectilinear part and a simple or bifid distal part, spiraled, more slender, angular. Leaf: petiole thick, 1–2 cm; lamina ovate-cordate, entire or weakly 3-lobed, 8–15 × 5–9 cm, truncate to cordate at base, acuminate at apex, subcoriaceous, scabrous on both surfaces, upper surface dark green, punctate with scale-based hairs, lower surface lighter green, with veins bearing stiff hairs; tertiary venation network well-marked on lower surface. Male inflorescence in fascicles; peduncle thick, 2–4 cm, apex bearing several narrow bracts, 8 mm long. Male flower: pedicel short, winged along its entire length, wing 6 mm wide, membranous, extending onto the receptacle; receptacle funnel-shaped, 10 × 6 mm, brownish-green, glabrous; sepals oval, 4–6 mm long, with membranous margins; petals 2.5–3 cm long, whitish-pink, shortly villous, with 5 well-visible veins, 3 petals having on the inner surface a zone of large glandular hairs, extending from their base to the middle of their length and on each side of the midvein; stamens with slender filament, 1–2 mm, glabrous, with orange-yellow anthers, of which 2 bithecal and 1 monothecal, 5–6 mm long, with straight or slightly curved locules, with thick connective. Female flower: sepals 5, reflexed, 8 × 1.5 mm; petals 2.5–3 × 0.8 cm; ovary shortly tomentose; style 4 mm, with stigmas 4–6 mm long. Fruit ovoid, 7–10 cm in diameter, with grumelous pericarp, green spotted with white then orange at maturity, with persistent sepals in a crown at apex. Seed 22 × 8 × 4 mm, black, dentate at margin.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l'Ouest et centrale (Libéria, Côté d'Ivoire, Ghana, Bénin, Nigéria, Cameroun, Gabon, République du Congo, République Centrafricaine, République démocratique du Congo et Angola (Cabinda)); au Gabon : Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo
+West and Central Africa (Liberia, Côte d'Ivoire, Ghana, Benin, Nigeria, Cameroon, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola (Cabinda)); in Gabon: Estuaire, Haut-Ogooué, Ngounié, Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-galeries forestières, forêt primaire et secondarisée ; au Gabon à 10–500 m d'altitude, ailleurs jusqu'à 1000 m. Les fleurs sont pollinisées par des abeilles de l'espèce Ctenoplectra bequaertii. Floraison de décembre à février et en juin ; fructification en août
+forest galleries, primary and secondarized forest; in Gabon at 10–500 m altitude, elsewhere up to 1000 m. The flowers are pollinated by bees of the species Ctenoplectra bequaertii. Flowering from December to February and in June; fruiting in August
 
 ## Bibliography
 

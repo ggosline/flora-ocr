@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Annual or biennial plant; root slender or somewhat thickened; several stems from the base, scarcely branched, erect or ascending, 5–30 cm tall, glabrous or with scattered hairs. Basal leaves in rosettes (sometimes absent on older specimens); cauline leaves few in number; all leaves petiolate, not auriculate, glabrous or with scattered hairs, 1.5–10 cm long, pinnatifid comprising a terminal segment and 2–7 pairs of lateral segments. These segments are rhombiform, ovate, suborbicular or reniform with entire, denticulate or crenate margins (sometimes with secondary segments), acute or mucronate, base cuneate or truncate. Terminal segment 5–15 mm long and 3–20 mm wide, petiolate, somewhat larger than the lateral ones; the latter oblique, 2–10 mm long and 2–11 mm wide, are either subsessile or provided with a petiolule whose length may equal that of the segment.
 
-Plante annuelle ou bisannuelle ; racine grêle ou un peu épaissie ; plusieurs tiges dès la base, peu ramifiées, dressées ou ascendantes, hautes de 5-30 cm, glabres ou à poils épars. Feuilles basales en rosettes (parfois absentes sur les sujets âgés) ; feuilles caulinaires peu nombreuses ; toutes les feuilles sont pétiolées, non auriculées, glabres ou à poils épars, longues de 1,5-10 cm, pennatipartites comprenant un segment terminal et 2-7 paires de segments latéraux. Ces segments sont rhombiformes, ovales, suborbiculaires ou réniformes à marges entières,
+Terminal racemes very condensed with numerous very small flowers; fruiting inflorescences fairly elongate (up to 10 cm long); fruiting pedicels 3–8 mm long, spreading, bearing erect siliques exceeding the flowers. Sepals green with narrow hyaline margins, about 1.5 mm long. Petals white, narrowly spatulate mostly 2–3 mm long (rarely absent). Stamens 6 or 4 with slightly dilated filaments; anthers about 0.4 mm long. Ovary cylindric with very short style, narrower than the ovary; stigma flattened. – Pl. 00, p. 00.
 
-denticulés ou crénelés (parfois avec des segments secondaires), aiguis ou mucronés, base cunéiforme ou tronquée. Segment terminal long de 5-15 mm et large de 3-20 mm, pétiolé, un peu plus important que les latéraux ; ceux-ci obliques longs de 2-10 mm et larges de 2-11 mm sont, soit subsessiles, soit munis d'un pétiolule dont la longueur peut être égale à celle du segment.
-
-Grappes terminales très condensées à nombreuses fleurs très petites ; infrutescences assez allongées (jusqu'à 10 cm de longueur) ; pédicelles fructifères longs de 3-8 mm, étalés portant des siliques dressées dépassant les fleurs. Sépales verts à marges hyalines étroites, longs de 1,5 mm environ. Pétales blancs, étroitement spatuliformes le plus souvent longs de 2-3 mm (rarement absents). Étamines 6 ou 4 à filets légèrement dilatés ; anthères longues d'environ 0,4 mm. Ovaire cylindrique à style très court, plus étroit que l'ovaire ; stigmate aplati. - Pl. 00, p. 00.
-
-Siliques linéaires, glabres, 12-27 × 1 mm, atténuées en direction du style, 0,5-1 × 0,4 mm. Graines brun-rouge atte avec un rudiment d'aile, nettement mamelonnées, largement oblongues ou suborbiculaires, 1 × 0,8 mm.
+Siliques linear, glabrous, 12–27 × 1 mm, attenuate toward the style, 0.5–1 × 0.4 mm. Seeds brown-red with a rudiment of a wing, distinctly mamillate, broadly oblong or suborbicular, 1 × 0.8 mm.
 
 ## Type
 
@@ -33,9 +29,7 @@ Herb. Linné 835.13, Europe, LINN!
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce avant tout européenne est représentée dans certaines régions montagneuses de l'Afrique ; elle s'est beaucoup répandue comme plante adventice sous diverses formes dans de nombreux pays.
+This species, above all European, is represented in certain mountainous regions of Africa; it has become much dispersed as an adventive plant in various forms in many countries.
 
 ## Notes
 

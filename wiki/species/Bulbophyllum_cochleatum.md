@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Pseudobulbs 0.7–11 × 0.4–1.3 cm, cylindrical, 2-leaved. Leaves petiolate, 2.8–23 × 0.3–1.8 cm, narrowly oblong to linear, obtuse. Inflorescence dense, 7–55 cm, 10–84-flowered. Flowers rather small, glabrous; sepals and petals green, yellow or purple-red; labellum dark purple-red. Dorsal sepal acute, ovate to broadly ovate-lanceolate; lateral sepals narrowly triangular-oblique, reflexed. Petals linear or linear-lanceolate, acute to obtuse. Labellum oblong-lanceolate to oblong-ovate above a linear basal part, broader near the middle or at the base, acute, straight, margins ciliate, upper surface glabrous or papillose.
 
-Pseudobulbes 0,7-11 × 0,4-1,3 cm, cylindriques, 2-foliés. Feuilles pétiolées, 2,8-23 × 0,3-1,8 cm, étroitement oblongues à linéaires, obtuses. Inflorescence dense, 7-55 cm, 10-84-flore. Fleurs assez petites, glabres, sépales et pétales verts, jaunes ou pourpre-rouge, labelle pourpre-rouge foncé. Sépale dorsal aigu, ové à largement ové-lancéolé ; sépales latéraux étroitement triangulaires-obliques, réfléchis. Pétales linéaires ou linéaires -lancéolés, aigus à obtus. Labelle oblong-lancéolé à oblong-ové au-dessus d'une partie basale linéaire, plus large près du milieu ou à la base, aigu, rectiligne, marges ciliées, face supérieure glabre ou papilleuse.
+He distinguished 5 varieties within his very broad concept of B. cochleatum, of which at least two, in our opinion, would deserve specific rank (var. tenuicaule and var. bequaertii). In Gabon, where only the typical variety has been collected, the variety gravidum, present in Equatorial Guinea, is very likely there as well.
 
-a distingué 5 variétés dans sa conception très large du B. cochleatum dont deux au moins, à notre avis, mériteraient le rang d'espèce (var. tenuicaule et var. bequaertii). Au Gabon où seule la variété typique a été récoltée, la variété gravidum, présente en Guinée équatoriale, y est très probable.
+KEY TO THE VARIETIES
 
-CLÉ DES VARIÉTÉS
+1. Pseudobulbs cylindrical with smooth angles at maturity ..... var. cochleatum
 
-1. Pseudobulbes cylindriques aux angles lisses à maturité ..... var. cochleatum
+1'. Pseudobulbs ovoid, ellipsoid or nearly spherical with very irregular angles with large bosses at maturity ..... var. gravidum
 
-1'. Pseudobulbes ovoïdes, ellipsoidaux ou presque sphériques aux angles très irréguliers avec de grosses bosses à maturité..... var. gravidum
-
-PL. 65. – Bulbophyllum barbigerum Lindl.: A, vue générale ; B, fleur ; C, pièces florales ; D, labelle; E, labelle et gynostème en position naturelle, vue latérale ; F, anthère ; G, pollinies (A-G, ex VERMEULEN, 1987).
+PL. 65. – Bulbophyllum barbigerum Lindl.: A, general view; B, flower; C, floral parts; D, labellum; E, labellum and gynostemium in natural position, lateral view; F, anther; G, pollinia (A–G, ex VERMEULEN, 1987).
 
 ## Figures
 

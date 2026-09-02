@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — HALL., Beih. Bot. Centr. 39 (2) : 18 (1923). — EXELL & MENDONÇA, Consp. Fl. Angol. 1 (2) : 246 (1951).
 
 — Phyllocosmus sessiliflorus OLIVER, FTA 1 : 273 (1868). — ENGL., Pflanzenw. Afr. 3 (1) : 273 (1915). — EXELL, Journ. Bot. Lond., Suppl. Polypet. 75 : 49 (1927).
@@ -29,13 +27,11 @@ tags: [species, generated]
 
 — Dissomeria zenkeri GILG, ms. (Zenker 3274).
 
-Arbre ou arbrisseau glabre. Feuilles pétiolées ou subsessiles; stipules caduques; pétiole glabre, enflé et rugueux de 2-5 mm. Limbe glabre, ellip-
+Tree or shrub glabrous. Leaves petiolate or subsessile; stipules caducous; petiole glabrous, swollen and wrinkled 2-5 mm. Blade glabrous, elliptic to obovate, ± rounded to obtuse-subacute at the apex, most often attenuate and decurrent at the base, dentate-glandular, 7-22 × (2.5-) 3-7 cm. Secondary veins ± arched to ascendent, scarcely prominent; veinlets barely distinct on both faces.
 
-tique à obové, ± arrondi à obtus-subaigu au sommet, le plus souvent atté- nué et décurrent à la base, denté-glandulaire, 7-22 × (2,5-) 3-7 cm. Nervures secondaires ± arquées à ascendantes, peu saillantes; nervilles à peine distinctes sur les 2 faces.
+Inflorescences: glabrous racemes, twice branched into terminal and axillary fascicles. Flowers sessile; bracts and bracteoles minute, caducous. Sepals glabrous, ovate, denticulate, unequal, about 2 × 1.5 mm. Petals glabrous, oblong to obovate, emarginate at the apex, becoming accrescent and persistent against the fruit at maturity, 3.5-5.5 × 2.25 mm. Stamens 10, glabrous, unequal, 7-9 mm; anthers oblong, about 0.5 mm. Ovary glabrous, ovoid, 1.25 mm wide; style glabrous, undivided, 5-7 mm long; stigma terminal.
 
-Inflorescences : racèmes glabres, 2 fois ramifiés en fascicules terminaux et axillaires. Fleurs sessiles; bractées et bractéoles minimes, caduques. Sépales glabres, ovés, denticulés, inégaux, d'environ  $ 2 \times 1,5 $ mm. Pétales glabres, oblonges à obovés, émarginés au sommet, devenant accrescents et persistantes contre le fruit à maturité,  $ 3,5-5,5 \times 2,25 $ mm. Étamines 10, glabres, inégales, de 7-9 mm; anthères oblongues, d'environ 0,5 mm. Ovaire glabre, ovoïde, large de 1,25 mm; style glabre, indivis, long de 5-7 mm; stigmate terminal.
-
-Capsule ovoïde,  $ 6,8 \times 4-5 $ mm, à 1-2 loges fertiles contenant chacune une seule graine. Graine comprimée, à surface ondulée, munie d'un arille,  $ 4-5 \times 2 $ mm. PL. 13, 1-5, p. 57.
+Capsule ovoid, 6.8 × 4-5 mm, with 1-2 fertile locules each containing a single seed. Seed compressed, with undulate surface, bearing an aril, 4-5 × 2 mm. PL. 13, 1-5, p. 57.
 
 ## Type
 
@@ -43,9 +39,7 @@ Mann s.n., Gabon (holo-, K; iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts. Ghana, Cameroun et Gabon.
+Forests. Ghana, Cameroon and Gabon.
 
 ## Specimens examined
 

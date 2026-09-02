@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-, nom. cons. Espèce envahissante pantropicale fréquente en Afrique, signalée dans les pays voisins, mais non encore récoltée au Gabon. Elle est caractérisée par des fleurs bleues similaires à C. diffusa , mais portées par une spathe partiellement soudée à la base , des feuilles plus larges, plus ovales , les 2 ou 3 supérieures subsessiles à sessiles et soutenant la spathe, spathes souvent pubescentes ; la plante arbore un port plus rampant. B : Brenan (1968b), Brunel et al. (1984), van der Burg (2004, 2006), Cabezas et al. (2014), i B liographie Faden (2012).
+, nom. cons. Pantropical invasive species frequent in Africa, reported from neighboring countries, but not yet collected in Gabon. It is characterized by blue flowers similar to C. diffusa, but borne by a spathe partially fused at the base, broader leaves, more ovate, the 2 or 3 upper ones subsessile to sessile and supporting the spathe, spathes often pubescent; the plant displays a more creeping habit. B: Brenan (1968b), Brunel et al. (1984), van der Burg (2004, 2006), Cabezas et al. (2014), Bibliography Faden (2012).
 
 ## Notes
 

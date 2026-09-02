@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Lidia 7(4) : 97 (2011). Pycreus pseudodiaphanus Hooper, Kew Bull . 23 : 313 (1969). Herbe annuelle, grêle, en touffes, avec un petit système racinaire ; tiges de 5‒15 cm × 0,5‒1 mm, vertes, trigones, glabres. Feuilles nombreuses, (sub)basales ; gaines supérieures vertes, les inférieures souvent brun rougeâtre clair ; limbe de 2‒10 cm × environ 1 mm , plan, glabre ou légèrement scabre près de l’extrémité. Inflorescence en fascicule digité de 3‒5 épillets ou en anthèle lâche formée d’un fascicule sessile de 3–6 épillets et de 1‒2 fascicules d’épillets sur des rayons longs de 3 cm au plus ; bractées involucrales 1‒3, foliacées, dressées ou étalées, la plus grande d’environ 6 cm × 1 mm. Épillet linéaire-lancéolé, de 8‒12 × 2‒2,5 mm , brun rougeâtre, à 15‒30 fleurs ; glumes ovales à triangulaires, longues de 1,5‒2 mm , concaves, brun rougeâtre clair à moyen avec une nervure verdâtre se terminant sous le sommet arrondi. Fleur : style à 2 longues branches. Akène obovale–elliptique, de 0,7‒0,9 × 0,4‒0,5 mm , avec un court apicule, biconvexe (moins comprimé que d’autres espèces du sous-genre Pycreus , sauf C. subtrigonus ), brun rougeâtre, à surface couverte de cellules hexagonales, avec des rides horizontales blanc grisâtre.
+Lidia 7(4) : 97 (2011). Pycreus pseudodiaphanus Hooper, Kew Bull . 23 : 313 (1969). Annual herb, slender, in tufts, with a small root system; stems 5–15 cm × 0.5–1 mm, green, trigonous, glabrous. Leaves numerous, (sub)basal; upper sheaths green, the lower ones often pale reddish-brown; blade 2–10 cm × approximately 1 mm, plane, glabrous or slightly scabrous near the apex. Inflorescence in a digitate fascicle of 3–5 spikelets or in a loose anthela formed of a sessile fascicle of 3–6 spikelets and of 1–2 fascicles of spikelets on rays at most 3 cm long; involucral bracts 1–3, foliaceous, erect or spreading, the largest approximately 6 cm × 1 mm. Spikelet linear-lanceolate, 8–12 × 2–2.5 mm, reddish-brown, with 15–30 flowers; glumes ovate to triangular, 1.5–2 mm long, concave, pale to medium reddish-brown with a greenish nerve ending below the rounded apex. Flower: style with 2 long branches. Achene obovate–elliptic, 0.7–0.9 × 0.4–0.5 mm, with a short apicule, biconvex (less compressed than other species of the subgenus Pycreus, except C. subtrigonus), reddish-brown, with a surface covered in hexagonal cells, with whitish-grey horizontal wrinkles.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale de l’Ouest, du Sénégal au Nigeria ; très rare au Gabon, trouvée seulement dans l’Ogooué-Ivindo (1 récolte). L’identification est incertaine, car fondée sur la photographie d’un spécimen perdu
+widely distributed in West tropical Africa, from Senegal to Nigeria; very rare in Gabon, found only in Ogooué-Ivindo (1 collection). The identification is uncertain, being based on a photograph of a lost specimen.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord des rivières et autre lieux humides ; au Gabon, à environ 120 m d’altitude, ailleurs jusqu’à 200 m. Note taxonomique : proche de C. flavescens , mais en diffère par son inflorescence avec des épillets moins nombreux, avec moins de fleurs, et particulièrement par son akène qui est plus convexe, moins comprimé, à surface avec des cellules hexagonales plutôt moins allongées. B : Hooper (1969, 1972). ibliographie
+edge of rivers and other humid places; in Gabon, at approximately 120 m altitude, elsewhere up to 200 m. Taxonomic note: close to C. flavescens, but differing in its inflorescence with fewer spikelets, with fewer flowers, and particularly in its achene which is more convex, less compressed, with a surface with hexagonal cells rather less elongate. B: Hooper (1969, 1972). Bibliography
 
 ## Notes
 

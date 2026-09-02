@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Sinapis integrifolia WEST, Bidr. Ste Croix : 296 (1793).
 
 Brassica integrifolia (WEST) RUPRECHT, Fl. Ingrica 1: 96 (1860); SCHULZ, Pflanzenr. 4, 105 (70): 56 (1919); A. CHEVALIER, Fl. viv. A.O.F. 1: 211 (1939); CUFODONTIS, I.c.: 149 (1954); KEAY, FWTA, ed. 2, 1 (1): 97 (1954); AGNEW, Upl. Kenya Wild. Fl.: 94 (1974); JONSELL, FCAM 21: 4 (1980) et FTEA, Cruciferae: 5 (1982).
 
-Plante annuelle glabre ou un peu hispide à la base des tiges et sur les pétioles. Racine grêle pivotante. Tiges dressées avec de longs rameaux obliques à la partie supérieure, le plus souvent hautes de 30-150 cm. Feuilles basales à limbe obovale atteignant  $ 20 \times 10 $ cm, bords dentés ou crénelés, se rétrécissant en un long pétiole, base non auriculée, une paire de petits segments latéraux ± triangulaires, présents ou absents. Feuilles caulinaires obovales et obtuses, les supérieures, oblancéolées et aiguës, atténuées en un pétiole ± net, non auriculées, ordinairement longues 5-10 cm, bords entiers ou crénelés.
+Annual plant glabrous or somewhat hispid at the base of stems and on petioles. Slender taproot. Stems erect with long oblique branches in the upper part, usually 30–150 cm tall. Basal leaves with obovate limb reaching 20 × 10 cm, margins dentate or crenate, narrowing into a long petiole, base not auriculate, one pair of small ± triangular lateral segments, present or absent. Cauline leaves obovate and obtuse, the upper ones oblanceolate and acute, attenuate into a ± distinct petiole, not auriculate, usually 5–10 cm long, margins entire or crenate.
 
-Grappes corymbiformes non condensées, fleurs nombreuses. Infrutescences pouvant atteindre jusqu'à 50 cm de longueur. Pédoncules fructifères obliques longs de 5-12 mm. Sépales verts, oblongs de 4-6 mm. Pétales jaune clair à limbe obovale onguiculé, longs de 6-10 mm. Étamines à anthères longues de 1,5-2,5 mm. Ovaire contenant 10-20 ovules. Siliques obliques, linéaires, souvent un peu toruleuses parfois renflées, 25-65 × 1-3,5 mm, atténuées en un bec conique, asperme, long de 2-8 mm. Valves à nervure médiane nette, ± carénées. Graines brun foncé sphériques distinctement réticulées, larges de 1-1,5 mm. - Pl. 00, p. 00.
+Corymbiform not condensed racemes, numerous flowers. Fruit inflorescences reaching up to 50 cm in length. Fertile pedicels oblique, 5–12 mm long. Sepals green, oblong, 4–6 mm. Petals pale yellow with obovate clawed limb, 6–10 mm long. Stamens with anthers 1.5–2.5 mm long. Ovary containing 10–20 ovules. Siliques oblique, linear, often slightly torulose sometimes swollen, 25–65 × 1–3.5 mm, attenuate into a conical aspermatous beak, 2–8 mm long. Valves with distinct midvein, ± keeled. Seeds dark brown, spherical, distinctly reticulate, 1–1.5 mm wide. - Pl. 00, p. 00.
 
 ## Type
 
@@ -33,9 +31,7 @@ Plante cultivée à partir de graines envoyées d'Éthiopie par Schimper ; spéc
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est probablement indigène en Éthiopie où elle est fréquemment cultivée et très polymorphe. Très répandue comme plante adventice dans certaines régions de l'Afrique tropicale (et aussi cultivée), elle a souvent été confondue avec Brassica juncea (L.) Czern. de la région des steppes de la Russie.
+This species is probably indigenous to Ethiopia where it is frequently cultivated and highly polymorphic. Very widespread as an adventive plant in certain regions of tropical Africa (and also cultivated), it has often been confused with Brassica juncea (L.) Czern. from the region of the steppes of Russia.
 
 ## Notes
 

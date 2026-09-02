@@ -16,21 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in BOWDLICH, Miss. Ashantee : 372 (1819); HIERN, Cat. Afr. Pl. Welwitsch. 4 : 995 (1900) ; EXELL, Cat. Vasc. Pl. São Tomé : 309 (1944) ; DE RUITER, BJBB 46 : 500 (1976).
 
-- M. smithii R. Brown ex Bennett, in Bennett & R. Brown, Pl. Jav. Rar.: 49 (1838); ENGL., Mon. Afr. Pfl. 1, Moraceae: 42 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 239 (1917). TYPE: Smith C. s.n., Congo?, le long de la riv. Congo (holo-, BM; iso-, K).
+- M. smithii R. Brown ex Bennett, in Bennett & R. Brown, Pl. Jav. Rar.: 49 (1838); ENGL., Mon. Afr. Pfl. 1, Moraceae: 42 (1898); RENDLE in HUTCH. & RENDLE, FTA 6 (2): 239 (1917). TYPE: Smith C. s.n., Congo?, along the Congo river (holo-, BM; iso-, K).
 
-Arbres atteignant 30 (-45 ?) m de hauteur, avec généralement des racines-échasses ; petits rameaux feuillés épais de 0,8-1,5 cm, avec des
+Trees reaching 30 (-45 ?) m in height, generally with stilt roots ; small leafy branchlets 0.8–1.5 cm thick, with internodes 1–2.5 cm long and short, appressed, white hairs, initially mixed with long, erect, light brown hairs and reddish-brown to dark brown multicellular hairs. Lamina reaching 110 cm in diameter; (9–) 11–18 lobes, oblanceolate, 6–75 cm long and 1.5–15 cm wide, with attenuate base and entire margin ; upper surface glabrous, sometimes slightly scabrous ; lower surface with white appressed hairs on the veins, mixed with longer hairs that disappear, and arachnoid-tomentellous areoles, white ; veins almost plane above, prominent below as well as the parallel tertiary veins. Petiole reaching 110 cm in length, enlarged towards the apex and towards the base, with scattered brown hairs, glabrescent. Stipules 7–30 cm long, silky, white to light brown on the inner surface, with short, appressed white hairs and brown to dark brown-blackish multicellular hairs on the outer surface, initially mixed with long erect brown hairs.
 
-entre-nœuds longs de 1-2,5 cm et des poils courts, apprimés, blancs, initialement mêlés à de longs poils dressés, brun clair et des poils pluricellulaires rougeâtres à brun-foncé. Limbe atteignant 110 cm de diamètre; (9-) 11-18 lobes, oblancéolés, longs de 6-75 cm et larges de 1,5-15 cm, à base atténuée et marge entière ; face supérieure glabre, parfois légèrement scabre ; face inférieure avec des poils blancs apprimés, sur les nervures, mêlés à des poils plus longs qui disparaissent, et des aréoles arachnoides-tomentelleuses, blanches ; nervures presque planes dessus, proéminentes dessous ainsi que les nervures tertiaires parallèles. Pétiole atteignant 110 cm de longueur, élargi vers le sommet et vers la base, avec des poils bruns épars, glabrescent. Stipules longues de 7-30 cm, soyeuses, blanches à brun clair à la face interne, avec des poils blancs, courts, apprimés et des poils pluricellulaires bruns à brun-noirâtre à la face externe, initialement mêlés à de longs poils bruns dressés.
+Male inflorescences (minus the peduncle), reaching 10 × 15 cm ; peduncle 4–9 cm long, almost glabrous. Inflorescences capitate, 3–5 mm in diameter with about 50 sessile flowers. Perianth obovoid, 1.3–1.7 mm tall with appressed pubescence ; stamen 1.7–2.2 mm long, with ellipsoid anther, 0.4–0.6 mm long. Interflo­ral bracts peltate or subpeltate, as long as the perianth, glabrous.
 
-Inflorescences § (moins le pédoncule), atteignant  $ 10 \times 15 $ cm ; pédoncule long de 4-9 cm, presque glabre. Inflorescences en tête de 3-5 mm de diamètre avec environ 50 fleurs sessiles. Périan the obovoïde, haut de 1,3-1,7 mm à pubescence apprimée ; étamine longue de 1,7-2,2 mm, à anthère ellipsoïde, longue de 0,4-0,6 mm. Bractées interflorales peltées ou subpeltées, aussi longues que le périan the, glabres.
+Female inflorescences ± claviform and flattened towards the apex, 2–5 cm long and 1.5–3 cm wide, with dense sessile or shortly pedicellate flowers ; peduncle 4–10 cm long, almost glabrous ; perianth 1.5–2.2 mm tall, ca. 0.4 mm in diameter, with appressed pubescence, denser towards the apex ; style ca. 0.5 mm long ; stigma hairy ca. 0.5 mm long. Interflo­ral bracts linear to narrowly spatulate, glabrous.
 
-Inflorescences ♀ ± claviformes et aplaties vers le sommet, longues de 2-5 cm et larges de 1,5-3 cm, avec des fleurs denses sessiles ou cour- tement pédicellées ; pédoncule long de 4-10 cm, presque glabre ; périant le haut de 1,5-2,2 mm, d'env. 0,4 mm de diamètre, à pubérulence apprimée, plus dense vers le sommet ; style long d'env. 0,5 mm ; stig- mate chevelu long d'env. 0,5 mm. Bractées interflorales linéaires à étroitement spatulées, glabres.
-
-Infrutescences atteignant 12 cm de longueur ; noyau (sub) ovoïde, long de (1,6-) 1,8-2,6 (-2,8) mm, tuberculé ; graine de 0,7-1 × 0,3-0,6 mm. - Pl. 82, p. 261 ; pl. 83, p. 263.
+Infructescences reaching 12 cm in length ; pyrene (sub)ovoid, (1.6–) 1.8–2.6 (–2.8) mm long, tuberculate ; seed 0.7–1 × 0.3–0.6 mm. - Pl. 82, p. 261 ; pl. 83, p. 263.
 
 ## Type
 
@@ -38,13 +34,11 @@ Smith C. s.n., Congo, le long du fleuve Congo (holo-, K ; iso-, BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This uniform species extends from Guinea to Angola and eastern Zaire. It is common in clearings, along roadsides and riverbanks and in secondary forests.
 
-Cette espèce uniforme s'étend de la Guinée à l'Angola et le Zaïre oriental. Elle est commune dans les défrichements, les bords de route et de rivières et dans les forêts secondaires.
+Chevalier s.n., env. of Libreville. Duparquet s.n., env. of Cap Lopez. Griffon du Bellay 72, s. loc. Jeffrey 219a, Mitzic (fl., July). Le Testu 1044, Tchibanga (fl., July).
 
-Chevalier s.n., env. de Libreville. Duparquet s.n., env. de cap Lopez. Griffon du Bellay 72, s. loc. Jeffrey 219a, Mitzic (fl., juill.). Le Testu 1044, Tchibanga (fl., juill.).
-
-Pobéguin 22, riv. Ogooué (fl., mars). Rosenthal s.n., env. de Lambaréné. Soyaux 1?, Sibang (fr., août); s.n., s. loc. (fr. juill.).
+Pobéguin 22, Ogooué river (fl., March). Rosenthal s.n., env. of Lambaréné. Soyaux 1?, Sibang (fr., August); s.n., s. loc. (fr. July).
 
 ## Figures
 

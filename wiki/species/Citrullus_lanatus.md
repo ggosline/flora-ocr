@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 13; Figure 2(F)
+Plate 13; Figure 2(F)
 
 Colocynthis citrullus (L.) O.Kuntze, Rev. gen. pl. 1: 256 (1891).
 
 Citrullus lanatus (Thunb.) Mansf. subsp. vulgaris (Schrad.) Fursa, Bot. Zhurn. (Moscow & Leningrad) 57: 37 (1972).
 
-Herbe annuelle, monoïque; tige et branches robustes, sulquées-anguleuses, couvertes de poils laineux blanchâtres. Vrilles 2-fides, courtes, robustes, pubérulentes. Feuille: pétiole 3–12 cm, densément pubescent; limbe de contour triangulaire-ovale, de 8–20 × 5–15 cm, 3- à 7-palmatilobe, cordé à la base, parcheminé, blanc-vert, les deux faces hispides, à segments lobulés, à sinus semi-circulaire, aiguis a acuminés au sommet. Fleur mâle: pédicelle 3–4 cm, villeux; réceptacle densément villeux; sépales très étroitement elliptiques-ovales, longs de 2–3 mm; corolle 2,5–3 cm de diamètre, jaune pâle, à lobes ovales-oblongs, de 1–1,5 × 0,5–0,8 cm; étamines à filet de 1 mm. Fleur femelle: ovaire ellipsoidal à ovoïde-obloïde, de 6–12 × 5–8 mm, densément villeux. Fruit à pédicelle de 2–4 cm, globuleux à obloïde, lisse, vert jaunâtre avec ou sans marbrures plus claires, pulpe douce, rose, rouge, ou blanchâtre, à péricarpe de <5 mm d'épaisseur. Graine de contour ovale, de 10–15 × 5–8 × 2,5 mm, de couleurs variées, lisse ou légèrement verruqueuse.
+Annual monoecious herb; stem and branches robust, sulcate-angular, covered with whitish woolly hairs. Tendrils 2-fid, short, robust, puberulent. Leaf: petiole 3–12 cm, densely pubescent; blade outline triangular-ovate, 8–20 × 5–15 cm, 3- to 7-palmatilobed, cordate at base, parchment-like, whitish-green, both surfaces hispid, segments lobuled, sinuses semicircular, acute to acuminate at apex. Male flower: pedicel 3–4 cm, villous; receptacle densely villous; sepals very narrowly elliptic-ovate, 2–3 mm long; corolla 2.5–3 cm in diameter, pale yellow, with ovate-oblong lobes, 1–1.5 × 0.5–0.8 cm; stamens with filament 1 mm. Female flower: ovary ellipsoid to ovoid-oblong, 6–12 × 5–8 mm, densely villous. Fruit with pedicel 2–4 cm, globose to oblong, smooth, yellowish-green with or without lighter mottling, flesh sweet, pink, red, or whitish, pericarp <5 mm thick. Seed outline ovate, 10–15 × 5–8 × 2.5 mm, of varied colors, smooth or slightly verrucose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de la région occidentale du Kalahari, en Namibie et au Botswana, aujourd'hui largement cultivé dans toutes les régions tropicales, subtropicales et quelquefois régions tempérées chaudes ; au Gabon, largement cultivé et parfois échappé
+native to the western Kalahari region, in Namibia and Botswana, today widely cultivated in all tropical, subtropical and sometimes warm temperate regions; in Gabon, widely cultivated and sometimes naturalized
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+widely cultivated and naturalized in fallows, roadsides, etc.; in Gabon at 0–450 m altitude, elsewhere cultivated up to 2000 m. The plant is reputed to be very tolerant of acidic soils
 
-largement cultivé et échappé dans les jachères, bords de route, etc.; au Gabon à 0–450 m d'altitude, ailleurs cultivé jusqu'à 2000 m. La plante est réputée très tolérante aux sols acides
-
-Usage : Cette sous-espèce est largement cultivée pour sa pulpe sucrée aqueuse comestible, qui sert parfois aussi comme source d'eau.
+Use: This subspecies is widely cultivated for its sweet aqueous edible flesh, which sometimes also serves as a source of water.
 
 ## Vernacular names
 

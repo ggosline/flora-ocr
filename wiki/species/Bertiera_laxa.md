@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1-2 m tall; ultimate branches with very sparse, appressed pubescence. Stipules large, elliptic with very acute apex, 15-28 × 5-16 mm, connate for 2-5 mm. Petioles with sparse pubescence, 6-15 mm long. Blade entirely glabrous above, ± glabrescent below, 12-21 × 4-8 cm; base acute; acumen triangular sometimes slightly curved, 5-13 mm long. Midvein glabrous and often canaliculate above when dry. 7-10 pairs of secondary veins.
 
-Arbrisseau de 1-2 m de hauteur; extrémités à pubescence très rase et couchée. Stipules grandes, elliptiques à sommet très aigu, de 15-28 × 5-16 mm, connées sur 2-5 mm. Pétioles à pubescence rase, longs de 6-15 mm. Limbe entièrement glabre dessus, ± glabrescent dessous, de 12-21 × 4-8 cm; base aiguë; acumen triangulaire parfois un peu arqué, long de 5-13 mm. Nervure médiane glabre et souvent canaliculée dessus à sec. 7-10 paires de nervures secondaires.
+Terminal pendulous inflorescences, 10-30 cm long, with rachis sometimes slightly sinuous or decumbent, bearing irregularly lateral cymes of 2-7 subsessile flowers and subulate bracts 1.5-4 mm. Bud acute with the apparent margin of the lobes narrowly glabrous. Flower white or pale green, reaching 15-20 mm in length at anthesis. Calyx and corolla entirely puberulent externally. Calyx teeth less than 0.5 mm, exceeded by the apex of the disk. The corolla throat reaches 3-4 mm in width. The inner margin of the lobes is broad and glabrous. Interior of the corolla glabrous at the level of the lobes and stamens with a lower annular pubescent zone. Anthers 5-6 mm long, acuminate and sagittate.
 
-Inflorescences terminales pendantes, longues de 10-30 cm, à rachis parfois un peu sinueux ou couché, portant irrégulièrement des cymes latérales de 2-7 fleurs subsessiles et des bractées subulées de 1,5-4 mm. Bouton aigu avec la marge apparente des lobes étroitement glabre. Fleur blanche ou vert pâle, atteignant 15-20 mm de longueur à l'anthèse. Calice et corolle entièrement pubérulents à l'extérieur. Dents du calice inférieures à 0,5 mm, dépassées par le sommet du disque. La gorge de la corolle atteint 3-4 mm de large. Le bord interne des lobes est large et glabre. Intérieur de la corolle glabre au niveau des lobes et des étamines avec une zone annulaire pubescente inférieure. Anthères longues de 5-6 mm, acuminées et sagittées.
-
-Fruit sphérique mou, bleu pâle ou violet clair. Jeune fruit orné de côtes à sec.
+Fruit spherical, soft, pale blue or light violet. Young fruit ornamented with ribs when dry.
 
 ## Type
 
@@ -35,9 +33,7 @@ Vogel 148 (K!), du Nigeria
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon, Fernando Po.
+Nigeria, Cameroon, Gabon, Fernando Po.
 
 ## Specimens examined
 

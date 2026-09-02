@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Staphysora klaineana Pierre, tab. Herb. L. Pierre 6405 (coll. Klaine 98) de Delpy d.d. 12, 1895. Maesobotrya dusenii (Pax) Hutch. in Dyer, Fl. trop. Afr. 6(1.4) : 664 (1912). Arbre de (4–)7–15 m de hauteur ; tronc jusqu’à 35 cm de diamètre ; ramilles hispidessétuleuses . Stipules ± asymétriques, ± falciformes, ovales, 4–17(–25) × 3–15 mm, foliacées, hispides–-sétuleuses, ± persistantes . Feuille : pétiole 1–9(–12) cm, hispidesétuleux ; limbe obovale-elliptique, 9–26(–30) × 4–14 cm, arrondi à faiblement cordé ou parfois cunéiforme à la base, acuminé sur 1–1,5 cm au sommet, à marge denticu lée à subentière, hispide-sétuleux sur les deux faces ; nervures latérales 6–12 paires. In florescence sur le tronc et les vieux rameaux, multifasciculée, pendante , les mâles 4–15(–20) cm de longueur, les femelles 3–8 cm de longueur et jusqu’à 15 cm en fruit. Fleur mâle rouge ; pédicelle 1 mm, pubérulent à glabre ; sépales 5, ovales, 1–1,5 mm de longueur, glabres mais ciliés ; étamines 5, 2–2,5 mm de longueur, glabres. Fleur femelle : pédicelle 1–1,5 mm, un peu pubérulent ; sépales ± comme chez les fleurs mâles ; disque velu, cilié ; ovaire 3-loculaire, 2 mm de longueur, glabre mais éparsement pubérulent à la base. Fruit ellipsoïde à obovoïde, 9–13(–16) × 9–10 mm, rouge , ± glabre. Graines 1–2(–3) ; sarcotesta blanc .
+Staphysora klaineana Pierre, tab. Herb. L. Pierre 6405 (coll. Klaine 98) de Delpy d.d. 12, 1895. Maesobotrya dusenii (Pax) Hutch. in Dyer, Fl. trop. Afr. 6(1.4): 664 (1912). Tree (4–)7–15 m tall; trunk up to 35 cm in diameter; branchlets hispid–setulous. Stipules ± asymmetric, ± falciform, ovate, 4–17(–25) × 3–15 mm, foliaceous, hispid–setulous, ± persistent. Leaf: petiole 1–9(–12) cm, hispid–setulous; blade obovate-elliptic, 9–26(–30) × 4–14 cm, rounded to weakly cordate or sometimes cuneiform at base, acuminate for 1–1.5 cm at apex, margin denticulate to subentire, hispid-setulous on both surfaces; lateral veins 6–12 pairs. Inflorescence on trunk and old branches, multifasciculate, pendulous, the male 4–15(–20) cm long, the female 3–8 cm long and up to 15 cm in fruit. Male flower red; pedicel 1 mm, puberulent to glabrous; sepals 5, ovate, 1–1.5 mm long, glabrous but ciliate; stamens 5, 2–2.5 mm long, glabrous. Female flower: pedicel 1–1.5 mm, somewhat puberulent; sepals ± as in male flowers; disk hairy, ciliate; ovary 3-locular, 2 mm long, glabrous but sparsely puberulent at base. Fruit ellipsoid to obovoid, 9–13(–16) × 9–10 mm, red, ± glabrous. Seeds 1–2(–3); sarcotesta white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Guinée Équatoriale, Gabon, République du Congo et République Démocratique du Congo ; au Gabon, observée dans toutes les provinces
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, observed in all provinces
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondarisée ; au Gabon, à 0–550 m d’altitude. Usage : Les fruits, de saveur aigrelette, servent à faire des confitures excellentes
+Primary and secondarized forest; in Gabon, at 0–550 m altitude. Use: The fruits, with a tart flavour, are used to make excellent preserves
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ mebine, metonghe, otól (fang) , musari (éshira), obvabvule (am bamba). b : Lé
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-<!-- caption: Planche 13. Maesobotrya longipes : A. Rameau feuillé. ‒ B. Détail d’une feuille vue du dessous avec nervure médiane, poils et glande. ‒ C. Stipules et base étranglée du pétiole. ‒ D. Partie d’une inflorescence mâle. ‒ E, F. Fleur mâle. ‒ G. Détail d’une fleur mâle montrant le disque et le pis - tillode. ‒ H. Inflorescence femelle. ‒ I. Fleur femelle. ‒ J. Fruit. ‒ K. Base du fruit avec calice et disque persistants. (A ‒ C, J, K : Reitsma c.s. 2171 ; D ‒ G : Nguema Miyono 1804 ; H, I : Reitsma c.s. 3752 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©. -->
+<!-- caption: Plate 13. Maesobotrya longipes: A. Leafy branchlet. ‒ B. Detail of a leaf viewed from below with midvein, hairs and gland. ‒ C. Stipules and constricted base of petiole. ‒ D. Part of a male inflorescence. ‒ E, F. Male flower. ‒ G. Detail of a male flower showing the disk and pistillode. ‒ H. Female inflorescence. ‒ I. Female flower. ‒ J. Fruit. ‒ K. Base of fruit with persistent calyx and disk. (A ‒ C, J, K: Reitsma c.s. 2171; D ‒ G: Nguema Miyono 1804; H, I: Reitsma c.s. 3752). Drawing by H. de Vries, NCB Naturalis (section NHN) ©. -->
 
 ## Notes
 

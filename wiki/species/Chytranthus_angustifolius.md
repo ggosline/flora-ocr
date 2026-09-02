@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chytranthus bracteosus RADLK., l.c. : 787 (1932); KEAY, FWTA, ed. 2, 1 : 717 (1958);
 
-Arbuste monocaule de 5 cm de diamètre et 3 à 8 m de hauteur; extrémité de la tige brunâtre d’aspect glabre; jeunes entrenœuds parfois sillonnés. Rachis foliaire dépassant 80 cm, glabre, à sommet tronqué, portant 8 à 12 paires de folioles parfois alternes; limbe vert ou olivacé à sec; les plus longues folioles sont celles de la  $ 3^{\circ} $ ou  $ 4^{\circ} $ paire avant la dernière; elles sont  $ \pm $ étroitement oblongues, de 20-30 (-45)  $ \times $ 3,5-6 (-7) cm, à base souvent  $ \pm $ obtuse, à sommet acuminé, parfois caudé, parfois lancéolé; nervure médiane sillonnée dessus avec une étroite ligne de pubérulence très rase; 12-24 paires de nervures secondaires courtes, peu ascendantes, arquées en arceaux à 3-4 mm de la marge.
+Single-stemmed shrub 5 cm in diameter and 3 to 8 m tall; stem apex brownish, glabrous in appearance; young internodes sometimes furrowed. Leaf rachis exceeding 80 cm, glabrous, apex truncate, bearing 8 to 12 pairs of leaflets sometimes alternate; blade green or olivaceous when dry; the longest leaflets are those of the 3rd or 4th pair before the last; they are ± narrowly oblong, 20-30 (-45) × 3.5-6 (-7) cm, base often ± obtuse, apex acuminate, sometimes caudate, sometimes lanceolate; midrib furrowed above with a narrow line of very short pubescence; 12-24 pairs of short secondary veins, little ascending, arched in loops 3-4 mm from the margin.
 
-Inflorescences brunes ou brun noirâtre échelonnées ou fasciculées sur le tronc entre 0,5 et 2 m de hauteur; elles sont étroites, longues de 10-40 cm, à rachis cannelé, très finement pubérulentes; bractées aiguës de 2-4 mm; cymes latérales pluriflores sessiles fréquemment espacées de 5-10 mm, à fleurs tournées vers la base de l'inflorescence; quelques bractées inférieures sont parfois stériles. Bouton ové; pédicelle floral très court et très obliquement attaché au calice; ce dernier est brun à brun noirâtre à pubérulence très rase, de 4-6 mm de diamètre; 5 sépales fendus sur 1/3 de la longueur et s'ouvrant peu; sommet des pétales et des étamines dépassant un peu le calice; 4 pétales à ligule entière moyennemment longue, allongée ou réfractée au sommet, à appendicule étroit parfois court ou nul (de 1 mm et tubuleux denticulé sur le spécimen de Côte-d'Ivoire 1A 3275); disque subpentagonal en croissant d'environ 2 mm, petit et bombé, de 0,5 mm d'épaisseur; 7 (-8) étamines à filet pubescent de 4-6 mm; anthère glabre mais parfois avec quelques poils isolés, de 1,7-2 × 0,7-0,8 mm, à
+Inflorescences brown or dark brown arranged in tiers or fascicled on the trunk between 0.5 and 2 m in height; they are narrow, 10-40 cm long, with grooved rachis, very finely puberulent; acute bracts 2-4 mm; lateral pluriflorous cymes sessile, frequently spaced 5-10 mm apart, with flowers directed towards the base of the inflorescence; some lower bracts are sometimes sterile. Floral bud ovoid; floral pedicel very short and very obliquely attached to the calyx; the latter is brown to dark brown with very short pubescence, 4-6 mm in diameter; 5 sepals split for 1/3 of their length and opening little; apex of petals and stamens slightly exceeding the calyx; 4 petals with entire ligule, moderately long, elongate or refracted at the apex, with narrow appendage sometimes short or absent (1 mm and tubular denticulate on the Ivory Coast specimen 1A 3275); subpentagonal crescent-shaped disc approximately 2 mm, small and convex, 0.5 mm thick; 7 (-8) stamens with pubescent filament 4-6 mm; anther glabrous but sometimes with a few scattered hairs, 1.7-2 × 0.7-0.8 mm, with
 
-1. La var. ngounyensis Pellegrin (nom. nud., Mém. Soc. Bot. France 102 : 72, 1955) est eulement une forme vigoureuse de l'espèce.
+1. Var. ngounyensis Pellegrin (nom. nud., Mém. Soc. Bot. France 102 : 72, 1955) is merely a vigorous form of the species.
 
-connectif un peu renflé vers le sommet : ce renflement présente en coupe une remarquable structure tissulaire palissadique; ovaire avorté pubescent, à 5 loges. Fleur ♀ non observée.
+connective slightly swollen towards the apex: this swelling presents in section a remarkable palisade-like tissue structure; aborted ovary pubescent, 5-locular. Female flower not observed.
 
-Jeune fruit glabre, acuminé, à 10 sillons. Fruit mûr de 7-10 × 8-15 cm, à 5 côtes minces largement aliformes situées au niveau des loges et 5 autres côtes intercalaires, parfois aliformes mais non prolongées jusqu'au sommet pyramidal du fruit. Chez le spécimen ivoirien IA 2749, les côtes les plus élargies sont celles qui n'atteignent pas le sommet du fruit en longueur. Ordinairement 2-3 graines développées par fruit, les autres loges étant vides. Graine brune, ovoide de 27-38 × 18-21 mm, l'épaisseur remarquable atteint 17-18 mm; légument à maturité brun, à réseau très dense et très fin de fossules d'environ 0,1 mm. PL. 23, p. 103.
+Young fruit glabrous, acuminate, with 10 furrows. Mature fruit 7-10 × 8-15 cm, with 5 thin ribs broadly alate situated at the level of the locules and 5 other intercalary ribs, sometimes alate but not extending to the pyramidal apex of the fruit. In the Ivorian specimen IA 2749, the most enlarged ribs are those that do not reach the apex of the fruit in length. Usually 2-3 developed seeds per fruit, the other locules being empty. Seed brown, ovoid 27-38 × 18-21 mm, the remarkable thickness reaching 17-18 mm; seed coat at maturity brown, with very dense and very fine network of fossules approximately 0.1 mm. PL. 23, p. 103.
 
 ## Type
 
@@ -37,9 +35,7 @@ Gossweiler 7594, Belize, Cabinda, Angola
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Croît en forêt ombrophile, raphiale ou forêt de montagne. De la Côté d'Ivoire (N. Hallé 501 bis et IA 3275) au Congo (A. Baudon s.n., Souanké) et au Mayombe portugais.
+Grows in ombrophilous forest, raphial or mountain forest. From Ivory Coast (N. Hallé 501 bis and IA 3275) to Congo (A. Baudon s.n., Souanké) and Portuguese Mayombe.
 
 ## Vernacular names
 

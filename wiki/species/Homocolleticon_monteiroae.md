@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Angraecum antennatum Kraenzl., Bot. Jahrb. Syst. 17 : 61 (1893).
 
 – Cyrtorchis monteiroae (Rchb.f.) Schltr., Die Orchideen : 596 (1914).
@@ -27,25 +25,21 @@ tags: [species, generated]
 
 – Cyrtorchis droogmansiana (De Wild.) Schltr., Beih. Bot. Centralbl. 36 : 130 (1918).
 
-Tige atteignant 200 cm. Feuilles 8-21 x (2,5-) 3-5 cm, obliquement oblancéolées, étroitement elliptiques, effilées aux deux bouts, inégalement bilobées. Inflorescence lâche, 18-32 cm, 10-25-flore, pendante. Fleurs de taille moyenne, résupinées, blanches, teintées de brun orangé sur l'éperon, devenant entièrement brun orangé à maturité. Sépale dorsaux olé-lancéolé. Pétales et sépales latéraux obliquement lancéolés. Labelle 14-15 x 5-5,5 mm, plus large près de la base, puis se rétrécissant vers le sommet, acuminé. Eperon 35-45 mm, étroitement cylindrique, sigmoïde, aigu. Gynostème de 2 mm.- Pl. 165, p. 365.
+Stem reaching 200 cm. Leaves 8-21 x (2.5-) 3-5 cm, obliquely oblanceolate, narrowly elliptic, tapering at both ends, unequally bilobed. Inflorescence lax, 18-32 cm, 10-25-flowered, pendulous. Flowers of medium size, resupinate, white, tinged with orange-brown on the spur, becoming entirely orange-brown at maturity. Dorsal sepal oleate-lanceolate. Petals and lateral sepals obliquely lanceolate. Labellum 14-15 x 5-5.5 mm, wider near the base, then narrowing towards the apex, acuminate. Spur 35-45 mm, narrowly cylindric, sigmoid, acute. Gynostemium 2 mm. — Pl. 165, p. 365.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Liberia, Ghana, Nigeria, Cameroun, Principe, Gabon, Annobon, Congo, République centrafricaine, Zaïre, Angola, Ouganda
+Sierra Leone, Liberia, Ghana, Nigeria, Cameroon, Príncipe, Gabon, Annobon, Congo, Central African Republic, Zaire, Angola, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 400-1,300 m. Epiphytic in sublittoral forest, riparian forest, high forest, forest gallery, on trees in brackish swampy sites
 
-alt. 400-1 300 m. Épiphyte en forêt sublittorale, forêt rivulaire, forêt haute, galerie forestière, sur arbre en site marécageux saumâtre
+MATERIAL STUDIED (Map 77):
 
-MATÉRIEL ÉTUDIÉ (Carte 77) :
+Hallé 958 & 959, 7 km N of Libreville (fl. Jan.), P!.
 
-Hallé 958 & 959, 7 km N de Libreville (fl. Janv.), P!.
-
-Le Testu 8073, Micougangui (fl. Mai), P! ; 8802, Tomisimba (fl. Mai), P!.
+Le Testu 8073, Micougangui (fl. May), P! ; 8802, Tomisimba (fl. May), P!.
 
 ## Figures
 

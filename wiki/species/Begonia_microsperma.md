@@ -17,31 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 20 cm de hauteur. Feuille peltée ; pétiole de 4–20 cm, glabre ou éparsement muni de longs poils ; limbe bullée par des protubérances cratériformes solitaires ou par deux qui portent un poil dressé , elliptique ou elliptique-ovale à largement elliptique ou largement elliptique-ovale, 6–18 × 3,5–12 cm, sommet acuminé, marge entière ou denticulée. Inflorescence : pédoncule 6–18 cm, avec (1–)2–3 fleurs ♂ et 1 fleur ♀ à tépales jaunes ; bractées 1,5–5 mm de longueur. Fleur ♂ : tépales 11,5–22 × 10,5–22 mm ; androcée à 22–28 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 15 mm ; tépales 11–19 × 10–24 mm ; ovaire étroitement elliptique à étroitement obovoïde, 9–23 × 1,5–6,5 mm, sans poils longs, à 4 ailes rubanées de 0–1,5 mm de largeur ; styles 4. Fruit étroitement elliptique à étroitement elliptique-obovoïde, 17–18 × 4–4,5 mm.
+Plant reaching 20 cm in height. Leaf peltate; petiole 4–20 cm, glabrous or sparsely furnished with long hairs; blade bullate due to solitary crater-shaped protuberances or by two bearing an erect hair, elliptic or elliptic-ovate to broadly elliptic or broadly elliptic-ovate, 6–18 × 3.5–12 cm, apex acuminate, margin entire or denticulate. Inflorescence: peduncle 6–18 cm, with (1–)2–3 male flowers and 1 female flower with yellow tepals; bracts 1.5–5 mm long. Male flower: tepals 11.5–22 × 10.5–22 mm; androecium with 22–28 stamens. Female flower: pedicel elongating in fruit up to 15 mm; tepals 11–19 × 10–24 mm; ovary narrowly elliptic to narrowly obovoid, 9–23 × 1.5–6.5 mm, without long hairs, with 4 ribbon-like wings 0–1.5 mm wide; styles 4. Fruit narrowly elliptic to narrowly elliptic-obovoid, 17–18 × 4–4.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ouest du Cameroun, Gabon (Monts de Cristal)
+Western Cameroon, Gabon (Cristal Mountains)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rare species on damp rock faces or epiphytic on mossy trees, near waterfalls, in primary forest
 
-espèce rare sur des parois rocheuses humides ou épiphyte sur des arbres moussus, proche des chutes d’eau, dans la forêt primaire
-
-IL ESSEL gen branche.
+IL ESSEL gen branch.
 
 IL ESSEL
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-parfois cultivée par des amateurs à fins ornementales. Le seul échantillon gabonais est un peu distinct, et pourrait représenter un taxon nouveau. B : Irmscher (1954), Sosef (1994), Thompson & Thompson (1981). IBLIOGRAPHIE
+sometimes cultivated by amateurs for ornamental purposes. The only Gabonese specimen is somewhat distinct, and could represent a new taxon. B: Irmscher (1954), Sosef (1994), Thompson & Thompson (1981). BIBLIOGRAPHY
 
 ## Notes
 

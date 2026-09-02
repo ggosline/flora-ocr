@@ -17,29 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Lissochilus kapandensis De Wild., Bull. Jard. Bot. Etat. Brux. 6: 90 (1919).
 
-Organes pérennes 1,5-3 x 0,8-1,5 cm, tubéreux. Feuilles 1-3, 20-40 x 0,2-0,8 cm, linéaires, acuminées. Inflorescence lâche, 25-80 cm, 3-12-flore, produite avant les feuilles. Sépales blancs à rosâtres, à pointes vertes ou mauves, pétales et labelle blancs, labelle à marges roses ou mauve rosé et callus jaune. Sépale dorsal oblong-lancéolé. Pétales obliquement elliptiques, obtus. Sépales latéraux obliquement oblongs-lancéolés. Labelle 14-20 x 9-14 mm, nettement trilobé, callus de 3-5 crêtes charnues, rugueuses ; lobe médian transversalement elliptique ; lobes latéraux à marge apicale crénelée et ondulée. Éperon largement sacciforme. – Pl. 141, p. 317.
+Perennial organs 1.5-3 × 0.8-1.5 cm, tuberous. Leaves 1-3, 20-40 × 0.2-0.8 cm, linear, acuminate. Inflorescence lax, 25-80 cm, 3-12-flowered, produced before the leaves. Sepals white to pinkish, with green or mauve tips, petals and labellum white, labellum with pink or mauve-pink margins and yellow callus. Dorsal sepal oblong-lanceolate. Petals obliquely elliptic, obtuse. Lateral sepals obliquely oblong-lanceolate. Labellum 14-20 × 9-14 mm, distinctly trilobed, callus of 3-5 fleshy, rugose ridges; median lobe transversely elliptic; lateral lobes with apical margin crenate and undulate. Spur broadly saccate. – Pl. 141, p. 317.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, Guinée, Zaïre, Rwanda, Burundi, Ouganda, Kenya, Tanzania, Zambie, Malawi, Angola
+Gabon, Guinea, Zaïre, Rwanda, Burundi, Uganda, Kenya, Tanzania, Zambia, Malawi, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 950-1,300 m. Terrestrial in brackish or non-brackish swamps and periodically humid prairie
 
-alt. 950-1 300 m. Terrestre en marais saumâtre ou non et prairie périodiquement humide
+MATERIAL STUDIED (Map 66):
 
-MATÉRIEL ÉTUDIÉ (Carte 66) :
+Breteler & De Wilde 603, lower slopes of Babiel North, S exposure, dense low elfin forest, very rich in lichens, mosses and epiphytes, epiphytic on dead branch (fl. Sept.), WAG!.
 
-Breteler & De Wilde 603, basses pentes de Babiel Nord, exposition S, forêt basse densément ramifiée d' Elfin, très riche en lichens, mousses et épiphytes, épiphyte poussant sur branche morte (fl. Sept.), WAG!.
-
-Breiteler & al. 9451, Rabi, en forêt dense humide, près du camp, ± 1° 55' S, 9° 50' E, épi-phyte (fl. Mars) ; WAG!.
+Breiteler & al. 9451, Rabi, in dense humid forest, near camp, ± 1° 55' S, 9° 50' E, epiphytic (fl. March); WAG!.
 
 ## Notes
 

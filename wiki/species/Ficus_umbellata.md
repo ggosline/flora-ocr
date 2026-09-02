@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : 124 (1916) ; LEBRUN & BOUTIQUE in HAUMAN, FCB 1 : 134 (1948) ; KEAY, FWTA, ed. 2, 1 : 610 (1958) ; AUBRÉV., FFCI, ed. 2, 1 : 94, tab. 21, fig. B (1959).
 
 - F. tuberculosa HIERN., Cat. Afr. Pl. Welw. 4: 999 (1900); MILDBR. & BURRET, l.c.: 222 (1911). TYPE: Welwitsch 6413, Angola, Golungo Alto, Sobato de Quilombo (holo-BM).
@@ -27,15 +25,13 @@ HUTCH. in HUTCH. & RENDLE, FTA 6 (2) : 124 (1916) ; LEBRUN & BOUTIQUE in HAUMAN,
 
 - F. polita VAHL var. persicicarpa HUTCH., l.c.: 125 (1916). TYPE: Mildbread 4421, Cameroun, Bangé, 52 km S Yokadouma (iso-, B).
 
-Arbres épiphytes ou terrestres, hauts jusqu'à 10 m. Rameaux feuillés épais de 3-11 mm, glabres, marron sur le sec, périderme ne se desquamant pas (ou difficilement), lenticelles (plutôt) visibles, ± concentrées en rangées en dessous des nœuds. Feuilles disposées en spirales. Limbe largement ové à largement elliptique (à suborbiculaire); long de 11-26 cm, large de 7,5-19 cm, coriace, sommet courtemment acuminé, base subcordée à tronquée, parfois cordée, bord entier; les deux surfaces glabres; nervures (presque) planes dessus, les nervures médiane et latérales saillantes dessous; 7-12 paires de nervures latérales, inclus 2-3 paires basales, nervures latérales souvent fourchues loin du bord; tache glandulaire visible. Pétiole long de 3-12,5 cm, épais de 2-4 mm, glabre. Stipules libres, longues de 3-5 mm, glabres, caduques.
+Trees epiphytic or terrestrial, up to 10 m tall. Leafy branches 3–11 mm thick, glabrous, brown when dry, periderm not exfoliating (or exfoliating with difficulty), lenticels (rather) visible, ± concentrated in rows below the nodes. Leaves arranged in spirals. Blade broadly ovate to broadly elliptic (to suborbicular); 11–26 cm long, 7.5–19 cm wide, coriaceous, apex shortly acuminate, base subcordate to truncate, sometimes cordate, margin entire; both surfaces glabrous; veins (almost) flat above, the midvein and lateral veins prominent below; 7–12 pairs of lateral veins, including 2–3 basal pairs, lateral veins often forked far from the margin; glandular dot visible. Petiole 3–12.5 cm long, 2–4 mm thick, glabrous. Stipules free, 3–5 mm long, glabrous, caducous.
 
-Figues en faisceau sur de courts éperons juste sous les feuilles et sur les branches âgées ; pédoncule long de 0,2-0,8 cm, épais de 3-4 mm, pubérulent ; bractées basales 2, longues de 4 mm environ, très petitement pubérulentes ; réceptacle (sub) globuleux, d'un diamètre de 3 cm environ sur le frais, de 2-2,5 cm sur le sec, très petitement pubérulent, ridé à sec, jaunâtre vert à maturité avec des points plus brillants, ostiole faiblement saillant, bilabié.
+Figs in clusters on short spurs just below the leaves and on older branches; peduncle 0.2–0.8 cm long, 3–4 mm thick, puberulent; basal bracts 2, approximately 4 mm long, very finely puberulent; receptacle (sub)globose, approximately 3 cm in diameter when fresh, 2–2.5 cm when dry, very finely puberulent, wrinkled when dry, yellowish green at maturity with more shiny dots, ostiole weakly prominent, two-lipped.
 
-Fleurs pistillées avec 3 tépales longs de 2 mm environ, libres ; fleurs
+Pistillate flowers with 3 tepals approximately 2 mm long, free; seed flowers sessile, style approximately 2–2.5 mm long, slender to rather thick; gall flowers subsessile to pedicellate up to 1 mm, style 1–2 mm long. Fruits oblongoid, 1.5–2 mm long, base rather wide; gall fruits ellipsoid to obovoid, approximately 2.5–3.5 mm long, ± narrowed towards the base. Staminate flowers with pedicel up to 0.5 mm, perianth with 3 tepals approximately 2 mm long, free, filament approximately 1.5 mm long, ± enlarged towards the anther 0.7–1 mm long. Interfloral bracts 1.5–2 mm long. - Pl. 62, p. 211.
 
-à graines sessiles, style long de 2-2,5 mm environ, mince à plutôt épais ; fleurs à galles subsessiles à pédicellées jusqu'à 1 mm, style long de 1-2 mm. Fruits oblongoïdes, longs de 1,5-2 mm, base plutôt large ; fruits à galles ellipsoïdes à obovoïdes, longs de 2,5-3,5 mm environ, ± rétrécis vers la base. Fleurs staminées à pédicelle atteignant jusqu'à 0,5 mm, périanthe à 3 tépales longs de 2 mm environ, libres, filet long de 1,5 mm environ, ± élargis vers l'anthère longue de 0,7-1 mm. Bractées interflorales longues de 1,5-2 mm. - Pl. 62, p. 211.
-
-Pollinisateur : Agaon medleri Wiebes (Nigeria, Sierra Leone, Togo).
+Pollinator: Agaon medleri Wiebes (Nigeria, Sierra Leone, Togo).
 
 ## Type
 
@@ -45,19 +41,17 @@ Isert s.n., Ghana, Whydah (holo-, C ; iso-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+F. umbellata is morphologically very close to F. bubu. The tendency to have elliptic rather than ovate leaves and an obtuse rather than subcordate leaf base may help distinguish F. bubu from F. umbellata. F. umbellata and F. bubu both have figs with short (up to 1 cm long) and thick (2–3 mm) peduncles, whereas in F. polita the peduncle is long (1–2 cm) and slender (up to 1 mm thick).
 
-F. umbellata est morphologiquement très proche de F. bubu. La tendance à avoir des feuilles elliptiques plutôt qu'ovées et une base du limbe obtuse plutôt que subcordée peut aider à distinguer F. bubu de F. umbellata. F. umbellata et F. bubu ont, tous deux, des figues avec des pédoncules courts (longs jusqu'à 1 cm) et épais (2-3 mm), tandis que chez F. polita le pédoncule est long (1-2 cm) et mince (épais jusqu'à 1 mm).
+Material described as F. polita var. persicicarpa has short and thick peduncles. Consequently it is placed in F. umbellata in the present account, although the leaves are more reminiscent of F. polita. Collections ± similar to the type of var. persicicarpa have been made in Central Africa (for example Tisserant 2285 from Boukoko). Another collection (Tisserant 1312) from the same locality has figs similar to this variety but leaves similar to those of F. umbellata. They differ from ordinary F. umbellata by the large figs (3–3.5 cm in diameter), having almost the same size as those of F. polita. This mixture of F. umbellata and F. polita is sometimes puzzling.
 
-Le matériel décrit comme F. polita var. persicicarpa a des pédoncules courts et épais. Par conséquent il est placé dans F. umbellata dans le présent exposé, bien que les feuilles rappellent plus F. polita. Des collections ± semblables au type de la var. persicicarpa ont été faites en Centrafrique (par exemple Tisserant 2285 de Boukoko). Une autre collection (Tisserant 1312) de la même localité a des figues semblables à cette variété mais des feuilles semblables à celles de F. umbellata. Elles diffèrent du F. umbellata ordinaire par les grandes figues (d'un diamètre de 3-3,5 cm), ayant presque la même taille que celles de F. polita. Ce mélange de F. umbellata et de F. polita est quelquefois embarrassant.
+F. umbellata can also be confused with F. mallotoides, if the latter does not show well-developed calyptrate buds or their remains. Moreover, specimens of F. abutilifolia, with glabrous leaves, can sometimes be difficult to distinguish from material of F. umbellata.
 
-F. umbellata peut aussi être confondu avec F. mallotoides, si ce dernier ne montre pas de bourgeons calyptrés bien développés ou des restes de ceux-ci. Bien plus, des spécimens de F. abutilifolia, avec des feuilles glabres, peuvent quelquefois difficilement être distingués du matériel de F. umbellata.
+The identity of the collection Le Testu 7119 is not entirely certain.
 
-L'identité de la récolte Le Testu 7119 n'est pas tout à fait certaine.
+The species extends from Senegal to Zaïre, Central Africa and Angola through Cameroun and Gabon; in wooded savannas, forest galleries and in dense humid forests.
 
-L'espèce s'étend du Sénégal au Zaïre, à la Centrafrique et l'Angola à travers le Cameroun et le Gabon ; dans les savanes boisées, les galeries forestières et dans les forêts denses humides.
-
-L'espèce s'étend du Sénégal à l'Ouganda à travers le Cameroun, vers le Sud à l'Angola et à l'Afrique du Sud (Natal) à travers le Mozambique ; aussi à Madagascar ; principalement dans les forêts toujours vertes, les savanes boisées et les galeries forestières, jusqu'à une altitude de 750 m, souvent plantée. Elle existe peut être au Gabon.
+The species extends from Senegal to Uganda through Cameroun, southward to Angola and South Africa (Natal) through Mozambique; also in Madagascar; principally in evergreen forests, wooded savannas and forest galleries, up to an altitude of 750 m, often planted. It possibly occurs in Gabon.
 
 ## Specimens examined
 

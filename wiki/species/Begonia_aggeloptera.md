@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante atteignant 12 cm de hauteur. Feuilles non peltées ; pétiole de 1–3,5 cm, hirsute ; limbe étalé à dressé sur le frais, non bullé, très asymétrique, distinctement falciforme, étroitement ovale , 3–7 × 1–2,5 cm, sommet graduellement atténué ou parfois faiblement acuminé, marge grossièrement crénelée-serrée à serrée , face supérieure sans poils longs. Inflorescence : pédoncule 0,5–2 cm, avec 2(–3) fleurs ♂ et 1 fleur ♀ à tépales jaunes ; bractées 1,5–4 mm de longueur. Fleur ♂ : tépales 5–11,5 × 5–12 mm ; androcée à 15–19 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 4 mm ; tépales 6–11,5 × 6,5–11,5 mm ; ovaire (ailes incluses) très largement obtriangulaire à obtriangulaire déprimé, 3,5–7 × 6,5–11 mm, sans poils longs, à 3 ailes obtriangulaires très déprimées à largement obtriangulaires, 1,5–5 mm de longueur ; styles 3. Fruit comme l’ovaire mais 4–7 × 8–11 mm ; rostre jusqu’à 3 mm.
+Plant reaching 12 cm in height. Leaves not peltate; petiole 1–3.5 cm, hirsute; blade spreading to erect when fresh, not bullate, very asymmetric, distinctly falciform, narrowly ovate, 3–7 × 1–2.5 cm, apex gradually attenuate or sometimes weakly acuminate, margin coarsely crenate-serrate to serrate, upper surface without long hairs. Inflorescence: peduncle 0.5–2 cm, with 2(–3) ♂ flowers and 1 ♀ flower with yellow tepals; bracts 1.5–4 mm in length. ♂ Flower: tepals 5–11.5 × 5–12 mm; androecium with 15–19 stamens. ♀ Flower: pedicel elongating in fruit to 4 mm; tepals 6–11.5 × 6.5–11.5 mm; ovary (wings included) very broadly obtriangular to obtriangular depressed, 3.5–7 × 6.5–11 mm, without long hairs, with 3 obtriangular wings very depressed to broadly obtriangular, 1.5–5 mm in length; styles 3. Fruit as ovary but 4–7 × 8–11 mm; beak to 3 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon dans les Monts de Cristal ; station originale réduite ; espèce rare
+endemic to Gabon in the Cristal Mountains; original station reduced; rare species
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-localement assez commun, le long des pistes forestières dans la forêt secondarisée ; à 300–600 m d’altitude. B : Hallé (1972), Sosef (1994). IBLIOGRAPHIE
+locally fairly common, along forest paths in secondarily disturbed forest; at 300–600 m elevation. B: Hallé (1972), Sosef (1994). BIBLIOGRAPHY
 
 ## Notes
 

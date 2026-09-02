@@ -14,23 +14,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Dyer, Fl. trop. Afr . 5 : 464 (1900). Herbe de 0,2–0,6 m de hauteur ; tige arrondie-quadrangulaire, rampante et s’enracinant à la base , ascendante, parfois ligneuse à la base, issue d’un système racinaire fibreux, densément pubescente à pileuse à poils en grande partie apprimés et rétrorses . Feuille : pétiole 10–20 mm ; limbe elliptique, de 6–10 × 3–4 cm, cunéé à la base, atténué sur le pétiole, aigu à courte ment apiculé au sommet, parfois obtus sur les feuilles inférieures, peu denté à dents finement mucronées à presque sinueux, face supérieure sans taches , plus pâle dessous , glabre ou très peu pileux sur la face supérieure, à pubescence clairsemée à poils majoritairement apprimés
-
-sur les nervures et les marges et à glandes sessiles sur la face inférieure. Inflorescence terminale, rarement accompagnée d’inflorescences axillaires, cylindrique, de 3–8 × 1,5–2 cm , les jeunes axillaires parfois plus courtes en fleur ; cymes avec 6 à 8 fleurs ; bractées, largement ovales, longues de 5 mm, courtement apiculées. Fleur : calice long de 6–8 mm, pubescent à poils pour la plupart apprimés, à 5 lobes ± égaux, triangulaires , aigus à mucronés à l’apex , longs de 2–3 mm, à cils courts ; corolle longue de 6 mm, dépassant à peine le calice, blanche, lèvre inférieure longue de 1–2 mm. Fruit : akènes ovoïdes, longs de 2 mm, bruns, pubescents, près du sommet munis d’écailles linéaires, aplaties, longues de 2 mm.
+in Dyer, Fl. trop. Afr. 5: 464 (1900). Herb 0.2–0.6 m tall; stem rounded-quadrangular, creeping and rooting at the base, ascending, sometimes woody at the base, arising from a fibrous root system, densely pubescent to pilose with hairs largely appressed and retrorse. Leaf: petiole 10–20 mm; blade elliptic, 6–10 × 3–4 cm, cuneate at the base, attenuate on the petiole, acute to shortly apiculate at the apex, sometimes obtuse on the lower leaves, slightly dentate with finely mucronate teeth to almost sinuous, upper surface without markings, paler below, glabrous or very sparsely pilose on the upper surface, with scattered pubescence and hairs mostly appressed on the nerves and margins and with sessile glands on the lower surface. Inflorescence terminal, rarely accompanied by axillary inflorescences, cylindric, 3–8 × 1.5–2 cm, the young axillary ones sometimes shorter in flower; cymes with 6 to 8 flowers; bracts broadly ovate, 5 mm long, shortly apiculate. Flower: calyx 6–8 mm long, pubescent with hairs mostly appressed, with 5 ± equal lobes, triangular, acute to mucronate at the apex, 2–3 mm long, with short cilia; corolla 6 mm long, scarcely exceeding the calyx, white, lower lip 1–2 mm long. Fruit: achenes ovoid, 2 mm long, brown, pubescent, near the apex bearing linear, flattened scales, 2 mm long.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée jusqu’au Nigéria, au Cameroun, à la Guinée équatoriale (Bioko et Rio Muni), à São Tomé, au Gabon, à la République du Congo et à l’Angola (Cabinda) ; au Gabon : Estuaire, MoyenOgooué, Ngounié, Ogooué-Ivindo et Ogooué Maritime. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+from Guinea to Nigeria, Cameroon, Equatorial Guinea (Bioko and Rio Muni), São Tomé, Gabon, Republic of the Congo and Angola (Cabinda); in Gabon: Estuaire, Moyen-Ogooué, Ngounié, Ogooué-Ivindo and Ogooué-Maritime. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords de cours d’eau, chemins et zones ouvertes humides en forêt ; au Gabon à 150–900 m d’altitude, ailleurs jusqu’à 1280 m. B : Bruce (1936), Morales (2011), Morton (1963). i B liographie
+stream banks, paths and humid open areas in forest; in Gabon at 150–900 m altitude, elsewhere up to 1280 m. B: Bruce (1936), Morales (2011), Morton (1963). Bibliography
 
 ## Notes
 

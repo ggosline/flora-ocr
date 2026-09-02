@@ -15,25 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Phytotaxa 58(1) : 9 (2012). Hyptis spicigera Lam., Encycl. 3 : 185 (1789). Annual herb, 0.3–2.5 m tall, with strong, rather unpleasant odor; stem erect, developing numerous flowering branches distally, with short downward-directed hairs, sessile glands on both surfaces and small curved prickles on the angles. Leaf: petiole 0.5–4 cm; blade elliptic-ovate to ovate, 2.5–10 × 1–4 cm, cuneate at base, acute at apex, coarsely dentate, with minute rigid hairs near margins and along veins beneath. Inflorescence terminal and on short lateral branchlets, condensed,
 
-Phytotaxa 58(1) : 9 (2012). Hyptis spicigera Lam., Encycl. 3 : 185 (1789) . Herbe annuelle, de 0,3–2,5 m de hauteur, à odeur forte, plutôt désagréable ; tige dressée, développant de nombreuses branches fleuries distalement, à poils courts dirigés vers le bas, à glandes sessiles sur les deux faces et à petits aiguillons recourbés sur les angles . Feuille : pétiole 0,5–4 cm ; limbe elliptique-ovale à ovale, de 2,5–10 × 1–4 cm, cunéé à la base, aigu au sommet, grossièrement denté, à minuscules poils rigides près des marges et le long les nervures dessous. Inflorescence terminale et sur de courtes ramifications latérales, condensée ,
+Kamga Tchayé, CIRAD (©), reproduced with permission from Le Bourgeois & Merlier (1995).
 
-Kamga Tchayé, CIRAD (©), reproduit avec permission à partir de Le Bourgeois & Merlier (1995).
-
-composée de nombreuses cymes subsessiles superposées , d’aspect hérissé en raison des dents du calice , des bractées et des bractéoles ; cymes avec 10 à 20 fleurs, denses, légère ment unilatérales ; bractées et bractéoles longues de 3–5 mm, linéaires, grossièrement ciliées. Fleur subsessile ; calice long de 3,5–4 mm, jusqu’à 7 mm en fruit, à tube couvert de glandes sessiles, à lobes linéaires-subulés, longs de 2–3 mm ; corolle longue de 3–4 mm, blanche à rose mauve pâle, pubescente vers l’apex. Fruit : akènes oblong-ellipsoïdaux, de 1,5–1,6 × 0,9–1,1 mm, légèrement comprimés, pâles ou parfois brun foncé, lisses avec une légère crête médiane.
+composed of numerous superposed subsessile cymes, with bristly appearance due to calyx teeth, bracts and bracteoles; cymes with 10 to 20 flowers, dense, slightly unilateral; bracts and bracteoles 3–5 mm long, linear, coarsely ciliate. Flower subsessile; calyx 3.5–4 mm long, up to 7 mm in fruit, tube covered with sessile glands, lobes linear-subulate, 2–3 mm long; corolla 3–4 mm long, white to pale mauve-pink, pubescent toward the apex. Fruit: achenes oblong-ellipsoid, 1.5–1.6 × 0.9–1.1 mm, slightly compressed, pale or sometimes dark brown, smooth with a slight median ridge.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-originaire de l’Amérique tropicale (peut-être du Brésil), très répandu dans les régions tropicales de l’Afrique, y compris Nigéria, Cameroun, Gabon. République Centrafricaine, République du Congo et République démocratique du Congo ; aucun spécimen n’a été vu du Gabon, mais l’espèce est citée dans Raponda-Walker & Sillans (1961) pour la Ngounié (Eshira) et l’Ogooué-Maritime (Nkomi). Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Native to tropical America (possibly Brazil), very widespread in tropical regions of Africa, including Nigeria, Cameroon, Gabon, Central African Republic, Republic of the Congo and Democratic Republic of the Congo; no specimen has been seen from Gabon, but the species is cited in Raponda-Walker & Sillans (1961) for Ngounié (Eshira) and Ogooué-Maritime (Nkomi). Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord des lacs, des rivières, plaines inondables, terres cultivées ; altitude au Gabon inconnue, ailleurs à 600–1200 m d’altitude
+lake margins, riverbanks, floodplains, cultivated lands; altitude in Gabon unknown, elsewhere at 600–1200 m altitude
 
 ## Vernacular names
 

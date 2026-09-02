@@ -16,25 +16,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in OLIV., FTA 2 : 497 (1871) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 489 (1908) ; SLEUMER, BJBB 43 : 270 (1973) ; (with the collaboration of BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Mann 1855, Gabon (holo-, iso-).
 
-in OLIV., FTA 2 : 497 (1871) ; WARB., in ENGL. & PRANTL, NPF 3 (6a) : 36 (1893) ; GILG, EBJ 40 : 489 (1908) ; SLEUMER, BJBB 43 : 270 (1973) ; (avec la collab. de BAMPS), FCBR, Flacourt. 2 : 12 (1976). TYPE : Mann 1855, Gabon (holo-, iso-).
+- H. calodendron GILG, Notizbl. Berl.-Dahl. 3 : 84 (1900), nom. nud. ; EBJ 40 : 491 (1908). TYPES : Scheffer 214, Tanzania (holo-, B, delet. ; lecto-, chosen here, P! ; isolecto-, BM, BR, K, Z).
 
-- H. calodendron GilG, Notizbl. Berl.-Dahl. 3 : 84 (1900), nom. nud. ; EBJ 40 : 491 (1908). TYPES : Scheffer 214, Tanzanie (holo-, B, delet. ; lecto-, choisi ici, P! ; isolec-to-, BM, BR, K, Z).
+– H. laurentii DE WILD., Miss. E. Laurent : 412 (1907) ; GILG, EBJ 40 : 490 (1908). TYPE : Laurent 956, Zaire (holo-, BR).
 
-– H. laurentii DE WILD., Miss. E. Laurent : 412 (1907) ; GILG, EBJ 40 : 490 (1908). TYPE : Laurent 956, Zaïre (holo-, BR).
-
-– H. macropterum GILG, EBJ 40 : 489 (1908). TYPE : Zenker 2318, Cameroun (holo-, B, delet. ; lecto-, choisi ici, P! ; isolecto-, BM, BR, HBG, K, L, M, P!, WU, Z).
+– H. macropterum GILG, EBJ 40 : 489 (1908). TYPE : Zenker 2318, Cameroon (holo-, B, delet. ; lecto-, chosen here, P! ; isolecto-, BM, BR, HBG, K, L, M, P!, WU, Z).
 
 – H. aylmeri HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 166, in clavi (1927). TYPE : Aylmer 580, Sierra Leone (holo-, K).
 
 – H. alnifolium HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 166, in clavi (1927). TYPE : Lane-Poole 141, Sierra Leone (holo-, K).
 
-Arbre (15-20 m, parfois 30-40 m de haut) ; jeunes rameaux pubérulents.
+Tree (15–20 m, sometimes 30–40 m tall) ; young branches puberulent.
 
-Feuilles à stipules étroitement triangulaires, de  $ 4 \times 1 $ mm, caduques ; pétiole de 5-10 mm de long, glabre ; limbe largement oblong à elliptique, parfois ovale, rarement ovale-elliptique, cunéé à la base, brièvement acuminé au sommet,  $ 6-25 \times 3-15 $ cm, entier à grossièrement dentelé, subcoriace à coriace, glabre ; nervures secondaires 6-10 paires.
+Leaves with narrowly triangular stipules, $ 4 \times 1 $ mm, caducous ; petiole 5–10 mm long, glabrous ; blade broadly oblong to elliptic, sometimes ovate, rarely ovate-elliptic, cuneate at the base, shortly acuminate at the apex, $ 6–25 \times 3–15 $ cm, entire to coarsely dentate, subcoriaceous to coriaceous, glabrous ; secondary veins 6–10 pairs.
 
-Inflorescences en racèmes axillaires ou subterminaux, donnant parfois l'apparence d'une panicule par suite de la chute des feuilles au moment de la fructification, de 10-15-(20) cm de long, à rachis pubescents. Fleurs ordinairement solitaires, rarement 2-(3) fasciculées ; pédi-celle grêle, de 1,5-2 mm de long ; tube du calice long de 1,5-2 mm ; lobes subtriangulaires-ovales, de 1,5 mm de long à l'anthèse ; pétales oblongs-spatulés, (5)-6-8 × 3-3,5 mm, accrescents jusqu'à 15 × 4 mm à l'état fructifère. - Pl. 20, 1-6, p. 65.
+Inflorescences in axillary or sub-terminal racemes, sometimes appearing paniculate due to leaf fall at fruiting time, 10–15–(20) cm long, with pubescent rachis. Flowers ordinarily solitary, rarely 2–(3) fascicled ; pedicel slender, 1.5–2 mm long ; calyx tube 1.5–2 mm long ; lobes subtriangular-ovate, 1.5 mm long at anthesis ; petals oblong-spatulate, (5)–6–8 × 3–3.5 mm, accrescent to 15 × 4 mm in the fruiting state. - Pl. 20, 1–6, p. 65.
 
 ## Type
 
@@ -42,15 +40,11 @@ Mann 1855, Gabon (holo-, K ; iso-, P!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale
+Tropical Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, forêts marécageuses
+Dense humid forests, swamp forests
 
 ## Specimens examined
 

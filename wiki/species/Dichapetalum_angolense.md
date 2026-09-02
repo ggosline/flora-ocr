@@ -17,35 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 FL. MAYOMBE, Mém, Soc. Linn. Norm. 26 (2): 55 (1924); HUTCHINSON & DALZIEL, FWTA ed. 1, 1: 325 (1928); FZRB 7: 335 (1958); KEAY, FWTA ed.2, 1 (2): 436 (1958); BRETLER, MLW 73 (13): 4, 15, 18, 23, 29, 55-60, 93, 96, 110 (1973); l.c. 78 (10): 70 (1978); l.c. 79 (16): 53, 54, 58 (1979); l.c. 81 (10): 24, 82 (1981); l.c. 82 (8): 5, 18 (1982); AUWP 86 (3): 11 (1986). TYPE: Angola, Golungo Alto, Welwitsch 1664 (lecto-, G; isolecto-, BM, COI, K, LISU, P).
 
-– – var. leucanthum PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 643 (1913), p.p. TYPE : Cameroun, Bipindi, Zenker 3265 (lecto-, P ; iso-, B, BM, BR, COI, E, EA, GOET, K, L, M, PRE, W, WU,Z).
+– – var. leucanthum PELLEGRIN, Bull. Soc. Bot. Fr. 59 : 643 (1913), p.p. TYPE : Cameroon, Bipindi, Zenker 3265 (lecto-, P ; iso-, B, BM, BR, COI, E, EA, GOET, K, L, M, PRE, W, WU,Z).
 
 – – var. glabriusculum Hauman, BJBB 25 : 347 (1955) ; FZRB 7 : 336 (1958). TYPE : Zaire, Yangambi, Louis 255 (holo-, BR ; iso- K, LISU, P).
 
-– D. ferrugineo-tomentosum Engler, Bot. Jahrb. 23: 139 (1896); Nat. PflanzenFam. 3 (4): 349 (1896), D. « rufotomentosum ». TYPE : Cameroun, Yaoundé, Zenker & Staudt 46 (holo-, B delet ; lecto-, WAG ; iso-, BM, G, K, LE,P, Z).
+– D. ferrugineo-tomentosum Engler, Bot. Jahrb. 23: 139 (1896); Nat. PflanzenFam. 3 (4): 349 (1896), D. « rufotomentosum ». TYPE : Cameroon, Yaoundé, Zenker & Staudt 46 (holo-, B delet ; lecto-, WAG ; iso-, BM, G, K, LE,P, Z).
 
 - D. reygaertii de Wild., Rev. Zool. Afr. 4 (2), suppl. Bot.: 61(1919). TYPE: Zaïre, Mobwasa, Reygaert 1045 (holo-, BR ; iso-, BM).
 
 - D. mayumbense Exell, Journ. Bot. 65, suppl. 1: 65(1927); Exell & Mendonça, CFA1(2): 327 (1951). TYPE: Angola, Cabinda, Maiombe, Caio Village, Gossweiler 7677 (holo-, BM; iso-, COI, K, LISU).
 
-Grande liane atteignant la couronne des plus grands arbres, arbustes lianescents ou arbustes. Troncs et rameaux jeunes et âgés creux avec 5 rangées de lenticelles saillantes. Écorce des troncs se fissurant et se desquamant en fines écailles de formes irrégulières. En coupe transversale, cylindre ligneux non profondément divisé par des intrusions corticales mais subentier, circulaire ou presque. Rameaux âgés glabres ou glabres-cents. Jeunes rameaux creux, souvent orné de cannelures longitudinales et couvert d'un indumentum dense, soit velouté brun ou noirâtre, soit tomenteux brun ou grisâtre (souvent mêlé de poils hispides); un indumentum semblable se rencontre sur les stipules, les pétioles, les inflorescences et souvent aussi sur les nervures I et II.
+Large liana reaching the crown of the tallest trees, scandent shrubs or shrubs. Trunks and young and old branches hollow with 5 rows of prominent lenticels. Bark of trunks fissuring and flaking in fine scales of irregular shapes. In cross-section, woody cylinder not deeply divided by cortical intrusions but subentire, circular or nearly so. Old branches glabrous or glabrous-cent. Young branches hollow, often ornamented with longitudinal grooves and covered with dense indumentum, either brown or blackish tomentose and velvety, or brown or greyish tomentose (often mixed with hispid hairs); similar indumentum occurs on the stipules, petioles, inflorescences and often also on the primary and secondary nerves.
 
-Stipules caduques, longues de(5)9-15(30) mm, profondément pennatiséquées ou au moins dentées, très rarement entières, avec des lobes filiformes longs de 10 mm au plus, en général étalés.
+Stipules caducous, (5)9-15(30) mm long, deeply pinnately-lobed or at least dentate, very rarely entire, with filiform lobes up to 10 mm long, generally patent.
 
-Feuilles. Pétiole subcylindrique ou canaliculé dessus, long de (3) 4-10 (15) mm ; mais, quand il est uni au pédoncule, il atteint (6) 12-20 (30) mm. Limbe papyracé à finement coriace, obové-elliptique, (1,75) 2-2,5 (4,5) fois plus long que large, (7) 12-25 (53) × (2,5) 5-11 (21) cm ; base le plus souvent cordée ou obtuse, parfois arrondie, en général dissymétrique ; sommet aigu ou avec un acumen court et aigu (rarement obtus ou rétusé), long de ≤ 2 cm ; nervure I et (6) 8-11 (15) paires principales de nervures II souvent bien visibles dessus, soit parce qu'elles sont glabres et déprimées (au moins sur le sec), soit
+Leaves. Petiole subcylindric or channelled above, (3) 4-10 (15) mm long; but when united to the peduncle, it reaches (6) 12-20 (30) mm. Blade papyraceous to finely coriaceous, obovate-elliptic, (1.75) 2-2.5 (4.5) times as long as wide, (7) 12-25 (53) × (2.5) 5-11 (21) cm; base most often cordate or obtuse, sometimes rounded, generally asymmetric; apex acute or with a short acute acumen (rarely obtuse or retuse), ≤ 2 cm long; primary nerve and (6) 8-11 (15) pairs of secondary nerves often well visible above, either because they are glabrous and impressed (at least when dry), or
 
-parce qu'elles sont revêtues d'un indumentum brun proéminent tomenteux ou velouté; face inférieure du limbe réticulinerve, pubescence veloutée-tomenteuse ou éparse, tôt glabrescente ou non ; glandes le plus souvent rares et difficiles à voir, en général absentes dessus (parfois, petites glandes nombreuses à la face inférieure des feuilles tôt glabrescentes).
+because they are covered with prominent brown tomentose or velvety indumentum; lower surface of blade reticulate-nerved, velutinous-tomentose pubescence or scattered, early glabrate or not; glands most often rare and difficult to see, generally absent above (sometimes, numerous small glands on the lower leaf surface early glabrate).
 
-Inflorescences : diamètre ≤ 15 cm, ramifiées dichotomiquement (5) 6-9 (10) fois, dont (3) 4-8 bien visibles. Pédoncule long de (0) 0.5-1.5 (3) cm, généralement soudé au pétiole et souvent entièrement, parfois absent (inflorescence ramifiée au niveau même de l'aisselle) ; les axes, dont les plus inférieurs atteignent 5,5 cm, deviennent de plus en plus courts vers le sommet ; bifurcations inférieures ordinairement sans fleur terminale. Bractées et bractéoles linéaires-subulées à triangulaires atteignant 10 mm, les plus inférieures pennatiséquées ou dentées comme les stipules. Pédicelle long de ≤11 mm, articulé au-dessus du milieu, partie supérieure (0,5) 1-2 (2,5) mm tomenteuse, parfois même avec quelques longs poils.
+Inflorescences: diameter ≤ 15 cm, dichotomously branched (5) 6-9 (10) times, of which (3) 4-8 well visible. Peduncle (0) 0.5-1.5 (3) cm long, generally fused to the petiole and often entirely so, sometimes absent (inflorescence branched at the level of the axil itself); the axes, the lowest of which reach 5.5 cm, become progressively shorter toward the apex; lower bifurcations ordinarily without terminal flower. Bracts and bracteoles linear-subulate to triangular reaching 10 mm, the lowest pinnately-lobed or dentate like the stipules. Pedicel ≤ 11 mm long, articulate above the middle, upper portion (0.5) 1-2 (2.5) mm tomentose, sometimes even with a few long hairs.
 
-Fleurs : base du calice arrondie à obtuse. Sépales réfléchis, libres ou courtement unis par leur base, un peu inégaux, ovés-elliptiques à oblongs, 2-3 (4) × 1-1,5 (2) mm ; sommet arrondi à obtus ou ± aigu, face externe tomenteuse, face interne glabre ou pubérulente dans la partie supérieure. Pétales dressés à étalés, plus rarement réfléchis, base très courtement soudée au filet, de forme à peu près obovée-spatulée, longs de (2) 2,5-3 (4) mm, fendus sur près de 1,5 mm ; face externe munie de quelques poils au-dessous de la fente ; face interne glabre ; lobes concaves à sommet arrondis. Étamines en général dressées ou presque, glabres, longues de 2,5-3,5 (5) mm ; longueur des anthères < 0,5 mm ; connectif proéminent. Staminodes surtout oblongs et souvent étroitement ainsi, longs de 0,5-1 mm, glabres ou avec quelques poils sur la face interne, effilés vers la base, sommet obtus tronqué ou bilobé. Pistil long de 2,5-3 (4) mm ; ovaire subsphérique, 3-loculaire, couvert de poils laineux longs et denses ; style glabre avec parfois quelques poils laineux sur la partie inférieure, 3-lobé au sommet, longueur des lobes < 0,5 mm ; obturateur souvent présent.
+Flowers: base of calyx rounded to obtuse. Sepals reflexed, free or shortly united at the base, somewhat unequal, ovate-elliptic to oblong, 2-3 (4) × 1-1.5 (2) mm; apex rounded to obtuse or ± acute, external surface tomentose, inner surface glabrous or puberulent in the upper part. Petals erect to patent, more rarely reflexed, base very shortly fused to the filament, obovate-spatulate in form, (2) 2.5-3 (4) mm long, split for nearly 1.5 mm; external surface with a few hairs below the split; inner surface glabrous; lobes concave with rounded apex. Stamens generally erect or nearly so, glabrous, 2.5-3.5 (5) mm long; anther length < 0.5 mm; connective prominent. Staminodes mostly oblong and often narrowly so, 0.5-1 mm long, glabrous or with a few hairs on the inner surface, attenuate toward the base, apex obtuse, truncate or bilobed. Pistil 2.5-3 (4) mm long; ovary subspheric, 3-locular, covered with long dense woolly hairs; style glabrous with sometimes a few woolly hairs on the lower part, 3-lobed at the apex, lobe length < 0.5 mm; obturator often present.
 
-Fruits subsphériques à obovoïdes-ellipsoïdaux, base arrondie ou obtuse, sommet arrondi ou courtement apiculé, longueur 2-3,5 cm, diamètre 1,5-2,5 cm, 1-3-spermes, jaunes (ou oranges ?) à maturité ; exocarpe dur, épais de 1-3 mm, surface couverte d'un tomentum brun-nâtre dense ou d'un indumentum velouté (ou d'une pubescence intermédiaire), plutôt lisse ; mésocarpe consistant, farineux, épais de 1-3 mm ; pyrènes ovo-ellipsoïdaux en général comprimés latéralement, 2,5 × 1,5 cm ; endocarpe osseux aux fibres irrégulières, extérieur réticulé, intérieur très finement strié, brillant, parfois avec une pubes-
-
-cence apprimée dense ou éparse. Graines subellipsoidales, ≤ 22 × ≤ 13 mm, carénées par un arille oblong, large d'environ 4 mm ; testa brun, assez épais ≈ 0,5 mm. - Pl. 7, p. 45.
+Fruits subspheric to obovoid-ellipsoidal, base rounded or obtuse, apex rounded or shortly apiculate, 2-3.5 cm long, 1.5-2.5 cm diameter, 1-3-seeded, yellow (or orange?) at maturity; exocarp hard, 1-3 mm thick, surface covered with dense brownish tomentum or velvety indumentum (or intermediate pubescence), rather smooth; mesocarp consistent, farinose, 1-3 mm thick; pyrenes ovate-ellipsoidal generally laterally compressed, 2.5 × 1.5 cm; endocarp bony with irregular fibers, exterior reticulate, interior very finely striate, glossy, sometimes with dense or scattered appressed pubescence. Seeds subellipsoidal, ≤ 22 × ≤ 13 mm, keeled by an oblong aril, approximately 4 mm wide; testa brown, fairly thick ≈ 0.5 mm. - Pl. 7, p. 45.
 
 ## Type
 
@@ -53,15 +49,11 @@ Welwitsch 4664, Golungo Alto, Angola
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et centrale, Sud-Soudan, Ouganda
+West and central Africa, South Sudan, Uganda
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles ou galeries forestières ; alt. 0-1600 m
+Ombrophilous forests or forest galleries; alt. 0-1600 m
 
 ## Specimens examined
 

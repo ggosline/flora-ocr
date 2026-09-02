@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+≠ Oldenlandia trinervia Retz., Obs. Bot. 4 : 23 (1786), non syn. according to Hepper 1. c. (1963).
 
-≠ Oldenlandia trinervia Retz., Obs. Bot. 4 : 23 (1786), non syn. d'après Hepper 1. c. (1963).
+Description of the variety trichocaula Bremek. (l. c. : 198), alone known from Gabon:
 
-Description de la variété trichocaula Bremek. (l. c. : 198), seule connue du Gabon :
+Small slender branched plant 10–30 cm, probably soft and ⊥ prostrate. Internodes finely 4-winged with ridges bearing a line of soft hairs. Stipules bilobed 1–2 mm, with soft hairs. Leaves elliptic or ovate 5–16 × 2.5–9 mm, with acute base, with apex rather abruptly mucronate; margins ⊥ pubescent as well as the midrib. 2–3 pairs of secondary veins, one of which ⊥ basilar.
 
-Petite plante rameuse grêle de 10-30 cm, probablement molle et ⊥ couché. Entrenœuds finement 4-ailés à arêtes portant une ligne de poils mous. Stipules bilobées de 1-2 mm, à poils mous. Feuilles elliptiques ou ovées de 5-16 × 2,5-9 mm, à base aiguë, à sommet assez brusquement mucroné; marges ⊥ pubes-centes ainsi que la nervure médiane. 2-3 paires de nervures secondaires dont une ⊥ basilaire.
+Floral fascicles terminal or axillary 3–10-flowered. Flowers often 5-merous, at least in the type specimen of the variety. Ovary clothed with soft hairs. Calycine lobes acute, pilose, 0.5–1 mm long, curved or erect. Corolla somewhat shorter than the sepals, with lobes bearing some hairs. Style glabrous ca. 0.3 mm.
 
-Fascicules floraux terminaux ou axillaires 3-10-flores. Fleurs souvent 5-mères, au moins chez le spécimen type de la variété. Ovaire vêtu de poils mous. Lobes calycinaux aigus, pileux, longs de 0,5-1 mm, courbés ou érigés. Corolle un peu plus courte que les sépales, à lobes munis de quelques poils. Style glabre d'env. 0,3 mm.
+Fruit 1.4–1.9 mm wide, pubescent, with pedicel 0.5–2 mm puberulent between the sepals at the apex, which alone is dehiscent.
 
-Fruit de 1,4-1,9 mm de large, pubescent, à pédicelle de 0,5-2 mm pubérulent entre les sépales au sommet qui seul est déhiscent.
+The typical variety is known from Senegal to Zanzibar, in Angola, in Madagascar and in the Mascarene Islands.
 
-La variété type est connue du Sénégal jusqu'à Zanzibar, en Angola, à Madagascar et aux îles Mascareignes.
-
-La variété trichocaula est connue du Togo (type : Warnecke 239, P!), de Mozambique, du Congo (Prévost 41) et du Gabon; elle paraît particulière à certaines zones littorales.
+The variety trichocaula is known from Togo (type: Warnecke 239, P!), from Mozambique, from Congo (Prévost 41) and from Gabon; it appears particular to certain littoral zones.
 
 ## Specimens examined
 

@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Subshrubby plant, gracile, approximately 80 cm in height, very weakly pubescent and more or less glabrescente, especially in the inflorescences. Stem almost cylindrical, glabrescent or finely pubescent. Petiole approximately 1 cm long finely pubescent or glabrescent; leaf blade obovate-lanceolate or obovate-elliptic, acuminate at base and apex, 10–15 × 2–7 cm slightly crenate on the margins; blade distinctly discolorous, in living state dark green above, light grayish-green below, in dry state grayish lighter below, generally glabrous, but finely pubescent along the veins; approximately 8 lateral veins.
 
-Plante subherbacée, gracile, d'environ 80 cm de hauteur, très faiblement pubescente et plus ou moins glabrescente, surtout dans les inflorescences. Tige presque cylindrique, glabrescente ou finement pubescente. Pétiole d'environ 1 cm de long finement pubescent ou glabrescent; limbe de la feuille obovale-lancéolé ou obovale-elliptique, acuminé à la base et au sommet, de 10-15 × 2-7 cm légèrement crénelé sur les bords; limbe nettement discolor, à l'état vivant vert foncé dessus, vert grisâtre clair dessous à l'état sec grisâtre plus clair au-dessous, en général glabre, mais finement pubescent le long des nervures; environ 8 nervures latérales.
+Terminal condensed inflorescences ± strobiliform, up to 3.5 cm long; bracts rhomboid-ovate, the lower ones foliaceous approximately 16 × 10 mm, green, ciliate on the margins or entirely glabrous. Flowers sessile; bracteoles minute, in the form of two small subulate scales attached to the calyx. Calyx 15 mm long; the three posterior sepals are fused for 2/3 of their length; the two anterior ones are free, all ciliate at the apex. Corolla white, approximately 25 mm long; lower part a cylindrical tube, 9 × 2 mm; upper part campanulate-infundibuliform, 5–6 mm in diameter, sparsely ciliate externally with transparent hairs along the main veins; diameter of the corolla at the apex 26 mm; corolla lobes rounded 10 × 7 mm; in bud somewhat violaceous; this color reappears when the flower fades; corolla glabrous inside. Filaments inserted at the narrowed part of the corolla; filaments of the longest stamens very finely pubescent and approximately 10 mm; short filaments glabrous 4.5 mm; the short filaments are inserted 3 mm above the insertion of the long ones. Anthers approximately 3 mm long; the anthers of the long stamens pubescent along the entire connective. Ovary glabrous approximately 4 mm long. Style glabrous 19 mm; stigma foliaceous, ovate 3 mm long, slightly emarginate at the apex, covering the two highest anthers. (N. Hallé, notes and drawing 65).
 
-Inflorescences terminales condensées ± strobiliformes, jusqu'à 3,5 cm de long; bractées rhomboïdes-ovales, les inférieures foliacées d'environ 16 × 10 mm, vertes, ciliées sur les bords ou entièrement glabres. Fleurs sessiles; bractéoles minuscules, sous forme de deux petites écailles subulées attachées au calice. Calice de 15 mm de long; les trois sépales postérieurs sont soudés sur 2/3 de leur longueur; les deux antérieurs sont libres, tous sont ciliés à l'apex. Corolle blanche, d'environ 25 mm de long; partie inférieure un tube cylindrique, de 9 × 2 mm; partie supérieure campanulée infundibuliforme, de 5-6 mm de diamètre, éparsément ciliée à l'extérieur avec des poils transparents le long des nervures principales; diamètre de la corolle au sommet 26 mm; lobes de la corolle arrondis de 10 × 7 mm; en bouton un peu violacés; cette couleur réapparaît lorsque la fleur se fane; corolle glabre à l'intérieur. Filets insérés à la partie rétrécie de la corolle; filets des étamines les plus longues très finement pubescents et d'environ 10 mm; filets courts glabres de 4,5 mm; les filets courts sont insérés 3 mm au-dessus de l'insertion des longs. Anthères d'environ 3 mm de long; les anthères des étamines longues, pubescentes tout le long du connectif. Ovaire glabre d'environ 4 mm de long. Style glabre de 19 mm; stigmate foliacé, ovale de 3 mm de long, un peu émarginé au sommet, coiffant les deux anthères les plus élevées. (N. Hallé, notes et dessin 65).
-
-Fruit glabre de  $ 12 \times 1.5-2 $ mm. Environ  $ 14 $ graines par loge (les fruits examinés ne sont pas complètement mûrs); graines non mûres avec un anneau typique de poils hygroscopiques.
+Fruit glabrous 12 × 1.5–2 mm. Approximately 14 seeds per locule (the fruits examined are not completely mature); immature seeds with a typical ring of hygroscopic hairs.
 
 ## Type
 
@@ -36,9 +34,7 @@ Mann 1673, Sierra del Crystal (K, syntype!)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-— En décrivant les D. strobilinus et capitellatus, C. B. Clarke s'est déjà prononcé dans un sens laissant entendre que les deux taxa distingués par lui sont probablement conspéciques. Il en est de même avec son D. brevifolius qui est seulement une forme appauvrie et de taille très réduite; elle fut reconnue par son auteur comme « very closely allied » aux deux plantes décrites juste avant
+— In describing D. strobilinus and capitellatus, C. B. Clarke already expressed himself in a sense suggesting that the two taxa distinguished by him are probably conspecific. The same is true for his D. brevifolius which is only an impoverished form of very reduced size; it was recognized by its author as "very closely allied" to the two plants described just before
 
 ## Specimens examined
 

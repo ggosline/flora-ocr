@@ -17,41 +17,33 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 KEAY, FWTA, ed. 2, 1(1) : 274 (1954) ; LIBEN, FZ : 20 (1968) ; EXELL & GARCIA, CFA : 81 (1970) ; LIBEN, Fl., Cameroun : 25 : 28-30 (1983) ; BJBB 54 : 289 (1984).
 
-– Cacoucia bracteata LAWSON, FTA 2: 434 (1871). TYPE : Fernando Po (fl., fr.) Mann 158 (LECTOTYPE désigné ici : lecto-K ; iso-P).
+– Cacoucia bracteata LAWSON, FTA 2: 434 (1871). TYPE : Fernando Po (fl., fr.) Mann 158 (LECTOTYPE designated here : lecto-K ; iso-P).
 
 - Combretum bucciniflorum EXELL, Bull. Soc. Linn. de Normandie 8-9 : 143 (1937). TYPE : Gabon, Noumbo (fl.) Le Testu 6013 (holo-P ; iso-BM, BR, K, MO) - syn. nov.
 
-– C. gentilii DE WILDEMAN, Ann. Mus. Congo (Brazzaville), Bot., ser. 5(1) : 65 (1903) et non ‘C(acoucia) gentilii’, erreur typographique indépendante de l’auteur in Fl. Cam. 25 : 28 (1983) et corrigée par lui-même in BJBB 54. : 289-290 (1984).
+– C. gentilii DE WILDEMAN, Ann. Mus. Congo (Brazzaville), Bot., ser. 5(1) : 65 (1903) et non 'C(acoucia) gentilii', typographical error independent of the author in Fl. Cam. 25 : 28 (1983) and corrected by himself in BJBB 54. : 289-290 (1984).
 
-Liane  $ \leq $ 10 m. Branches lisses.
+Vine ≤ 10 m. Branches smooth.
 
-Feuilles alternes à opposées ; pétiole ≤ 15 mm ; limbe ové, ≤ 15 × ≤ 7 cm, coriace, face supérieure luisante ; grandes nervures
+Leaves alternate to opposite ; petiole ≤ 15 mm ; blade ovate, ≤ 15 × ≤ 7 cm, coriaceous, upper surface shining ; major lateral veins 5-10 pairs ; base of blade rounded to subcordate, apex acuminate.
 
-latérales 5-10 paires ; base du limbe arrondie à subcordée, sommet acuminé.
+Scales absent.
 
-Écailles absentes.
+Inflorescences in axillary or terminal raceme, reaching up to 90 cm ; rachis covered with erect glandular and non-glandular hairs ; bracts pale green to reddish, ≤ 30 × ≤ 13 mm, bearing red glandular hairs, few to very numerous.
 
-Inflorescences en racème axillaire ou terminal, pouvant atteindre 90 cm ; rachis couvert de poils dressés glandulaires et non glandulaires ; bractées vert pâle à rougeâtres, ≤ 30 x ≤ 13 mm, munies de poils glandulaires rouges, de peu à très nombreux.
+Flowers 5-merous, stipitate, fragrant. Receptacle covered with erect glandular and non-glandular hairs ; the lower one 5-8 mm tall and the upper one yellow-orange, curved, ≤ 32 mm, often compressed above the disc region (the size of the upper receptacle has become much more variable due to the inclusion of C. bucciniflorum Exell, separated because of its evident large size on the type). Calyx : lobes deltoid, ≤ 5 mm long. Petals greenish-red to yellow, elliptic, ≤ 10 × ≤ 5 mm, bearing scattered glandular and non-glandular hairs on both faces. Stamens exsert 8-10 mm ; filaments yellow to orange ; anthers 1-2 mm long, red to brown. Style exsert 8-10 mm.
 
-Fleurs 5-mères, stipitées, odorantes. Réceptacle couvert de poils dressés glandulaires et non glandulaires ; l'inférieur haut de 5-8 mm et le supérieur jaune-orange, courbé, de ≤ 32 mm, souvent comprimé au-dessus de la région du disque (la taille du réceptacle supérieur est devenue beaucoup plus variable du fait de l'inclusion de C. bucciniflorum Exell, séparée en raison de sa grande taille évidente sur le type). Calice : lobes deltoïdes, longs de ≤ 5 mm. Pétales rougeâtre-vert à jaunes, elliptiques, ≤ 10 × ≤ 5 mm, munis de poils épars glanduleux et non glanduleux sur les deux faces. Étamines exsertes de 8-10 mm ; filets jaunes à orange ; anthères longues de 1-2 mm, de rouges à brunes. Style exsert de 8-10 mm.
-
-Fruit, profil subcirculaire, vert à blanchâtre, diamètre ≤ 4 cm, muni d'ailes membraneuses à papyracées et de poils glanduleux épars ; stipe ≤ 13 mm. - Pl. 4, p. 19.
+Fruit, subcircular in profile, green to whitish, diameter ≤ 4 cm, bearing membranous to papyraceous wings and scattered glandular hairs ; stipe ≤ 13 mm. - Pl. 4, p. 19.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ghana, et du Nigeria au Congo (Kinshasa) et à l'Angola
+Ghana, and from Nigeria to Congo (Kinshasa) and Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides, alt. 0-400 m. Des petits oiseaux nectarophiles en train de visiter les fleurs ont été observés
+Dense humid forests, alt. 0-400 m. Small nectarivorous birds were observed visiting the flowers
 
 ## Specimens examined
 

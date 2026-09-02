@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TYPE: Gabon, km 1 on the trail from Rabi to Divangui, 1°54 S. – 9°53' E. (j.fr., Nov.), J.J. de Wilde & al. 9733 (holo- WAG).
 
-TYPE : Gabon, km 1 sur la piste de Rabi à Divangui, 1°54 S. – 9°53' E. (j.fr., Nov.), J.J. de Wilde & al. 9733 (holo- WAG).
+Large forest liana. Wood producing a red exudate. Young branchlets velvety.
 
-Grande liane de forêt. Bois produisant un exsudat rouge. Jeunes rameaux veloutés.
+Leaves: petiole and rachis velvety, brownish-red when young; petiole up to 18 cm long, rachis up to 8 cm, petiolules up to 5 mm; leaflets 5, papyraceous, velvety, dirty purple to greyish white when young, glabrous except on the midvein with age, lateral veins 5-7 pairs; lateral and median veins impressed above; venation prominent below; apex acuminate; lateral leaflets up to 26 × 8 cm, somewhat asymmetrical; terminal leaflet up to 30 × 10 cm.
 
-Feuilles : pétiole et rachis veloutés, brunâtre-rouge à l'état jeune ; pétiole long de ≤ 18 cm, rachis de ≤ 8 cm, pétioules, de ≤ 5 mm ; folioles 5, papyracées, veloutées, pourpre sale à grisâtre blanc à l'état jeune, glabres sauf sur la médiane avec l'âge, nervures latérales 5-7 paires ; nervures latérales et médiane imprimées dessus ; nervation pro-éminente dessous ; sommet acuminé ; folioles latérales jusqu'à 26 × 8 cm, un peu asymétriques ; foliole terminale jusqu'à 30 × 10 cm.
+Inflorescences: axes up to 30 cm long, velvety.
 
-Inflorescences : axes longs de ≤ 30 cm, veloutés.
+Flower. Sepals, 5.5 × 2 mm, exterior velvety, interior with scattered sparse hairs, margin fringed with very small multicellular hairs. Petals, 4.5 × 2 mm, glabrous. Stamens: filaments 1.5-3 mm long. Pistil: style 4.5 mm long, pubescent.
 
-Fleur. Sépales,  $ 5.5 \times 2 $ mm, extérieur velouté, intérieur muni de poils dispersés peu nombreux, marge frangée de très petits poils multi-cellulaires. Pétales,  $ 4.5 \times 2 $ mm, glabres. Étamines : filets longs de 1,5-3 mm. Pistil : style long de 4,5 mm, pubescent.
-
-Fruit. Follicules non mûrs pouvant atteindre  $ 7 \times 4 $ mm, veloutés. - Pl. 6, p. 29.
+Fruit. Immature follicles reaching 7 × 4 mm, velvety. - Pl. 6, p. 29.
 
 ## Type
 
@@ -37,15 +35,11 @@ J.J. de Wilde & al. 9733, km 1 sur la piste de Rabi à Divangui,  $ 1^{0}54 $ S.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles
+ombroph ilous forests
 
 ## Specimens examined
 

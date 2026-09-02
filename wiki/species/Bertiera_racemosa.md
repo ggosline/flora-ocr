@@ -23,17 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (PL. 12, p. 55)
 
 a. — var. racemosa
 
-Arbuste de 2-6 m de hauteur; rameaux ± horizontaux, parfois un peu sarmenteux. Entrenœuds subquadrangulaires à pubescence ochracée apprimée très fine. Stipules de 16-20 mm, connées à la base, lancéolées, médiocrement pubescentes à glabres. Pétiole de 5-11 mm, très finement pubescent. Feuille discolore, glabre dessus, presque glabre dessous sauf les nervures et la ligne marginale. Limbe elliptique de 12-25 × 5-11 cm, à base variable souvent un peu cunéiforme, à sommet très brièvement acuminé. 8-13 paires de nervures secondaires à fine pubérulence appliquée.
+Shrub 2–6 m tall; branches ± horizontal, sometimes somewhat sarmentose. Internodes subquadrangular with appressed ochraceous very fine pubescence. Stipules 16–20 mm, connate at base, lanceolate, moderately pubescent to glabrous. Petiole 5–11 mm, very finely pubescent. Leaf discolorous, glabrous above, almost glabrous below except for the nervures and marginal line. Lamina elliptic 12–25 × 5–11 cm, with variable base often somewhat cuneiform, with apex very briefly acuminate. 8–13 pairs of secondary nervures with fine appressed puberulence.
 
-Grappes de cymes terminales, pendantes, à pédoncule de 1,5-7 cm; cymes florifères assez denses. Fleurs tout à fait sessiles, ± réfractées vers la base de l'inflorescence et longues de 18-21 cm. Calice parfaitement glabre au niveau de l'ovaire, à bord cupulaire glabre ou subglabre haut ce 1,8-2 mm, tronqué ou obtusément subdenté. Corolle étroite, blanche, à lobes très aiguës à subacuminés, à tube de 1,1,5 mm de largeur à sec, ± pubérulente à l'extérieur (au moins au niveau supérieur élargi du tube), à pubescence interne localisée près de la base des lobes. Anthères de 3,5-4 mm. Style de 12-15 mm, stigmate inclus. Disque tronconique.
+Racemes of terminal cymes, pendulous, with peduncle 1.5–7 cm; floriferous cymes fairly dense. Flowers completely sessile, ± refracted toward the base of the inflorescence and 18–21 cm long. Calyx perfectly glabrous at the level of the ovary, with cupular margin glabrous or subglabrous 1.8–2 mm high, truncate or obtusely subdendate. Corolla narrow, white, with lobes very acute to subacuminate, with tube 1–1.5 mm wide when dry, ± puberulent externally (at least at the upper widened level of the tube), with internal pubescence localized near the base of the lobes. Anthers 3.5–4 mm. Style 12–15 mm, stigma included. Disk truncoconical.
 
-Fruit glabre et sessile, de  $ 10^{-12} \times 7.5 $ mm à sec, à cupule calycinale de 3.5-5 mm de diam. Graines anguleuses ruguleuses de 1 mm.
+Fruit glabrous and sessile, $10–12 \times 7.5$ mm when dry, with calyxlike cup 3.5–5 mm diam. Seeds angular rugose 1 mm.
 
 ## Type
 
@@ -43,13 +41,11 @@ Le Testu 1173, Mayombe (holotype P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This variety, although quite distinct, is confused with the following one in F.W.T.A. ed. 2. The type of B. racemosa although only known in fruit is truly identical to that of B. montana.
 
-Cette variété, pourtant bien distincte, est confondue avec la suivante dans la F.W.T.A. éd. 2. Le type de B. racemosa bien que seulement fructifère est réellement identique à celui de B. montana.
+From former French Guinea and Sierra Leone to former Belgian Congo. Margins of swamps or watercourses.
 
-De Guinée ex-française et Sierra-Leone jusqu'au Congo ex-belge. Bords de marais ou de cours d'eau.
-
-Bien que largement distribuée, fort connue et représentée dans tous les herbiers, cette plante réclamait au moins variéta-lement un nom nouveau. Différentes erreurs dans l'emploi des noms de Bertiera racemosa et macrocarpa sont à l'origine de la confusion entre les variétés racemosa et elephantina qu'il est pourtant généralement aisé de distinguer. C'est notamment au Ghana et au Nigeria que des matériaux mal connus de nous et présentant des caractères intermédiaires nous font rejeter l'idée d'accorder valeur spécifique à ce nouveau taxon.
+Although widely distributed, well known and represented in all herbaria, this plant required at least at varietal rank a new name. Various errors in the use of the names Bertiera racemosa and macrocarpa are at the origin of the confusion between the varieties racemosa and elephantina which are nevertheless generally easy to distinguish. It is notably in Ghana and Nigeria that materials poorly known to us and presenting intermediate characters lead us to reject the idea of according specific rank to this new taxon.
 
 ## Specimens examined
 
@@ -107,9 +103,7 @@ A. Walker 7, Saint-Martin (fl. oct.).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de Sierra-Leone au Congo oriental. Plante de lisières commune au Gabon. Des fourmis agressives (Crematogaster?) façonnent très fréquemment leurs petits nids de terre noirâtre sur les inflorescences de ce Bertiera
+from Sierra Leone to eastern Congo. Plant of forest edges common in Gabon. Aggressive ants (Crematogaster?) very frequently fashion their small nests of blackish earth on the inflorescences of this Bertiera.
 
 ## Vernacular names
 
@@ -117,9 +111,7 @@ Iwula (Mpongwé); Intso-nyi-nkondo (Nkomi); Evèkulé, Evézékoulé, Doumdo, Nd
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-les feuilles hachées et cuites avec des arachides sont consommées par les femmes enceintes (Walker)
+the leaves chopped and cooked with peanuts are consumed by pregnant women (Walker)
 
 ## Figures
 

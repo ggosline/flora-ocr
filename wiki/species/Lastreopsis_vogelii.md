@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Tindale, Contr. N.S. Wales Herb. 3:245 (1963).
 
-≠ Ctenitis Vogelii (Hk.) Ching, basé sur Aspidium Vogelii Hk.
+≠ Ctenitis Vogelii (Hk.) Ching, based on Aspidium Vogelii Hk.
 
-Rhizome épais, dressé, à frondes en rosettes, portant des écailles rousses, étroites, très échancrées à la base, formées de cellules à parois minces, contenu pâle. Fronde atteignant 2 m, à pétiole straminé ou rougeâtre, atteignant environ la moitié de la longueur de la fronde, écailleux à la base. Limbe à contour deltoïde, tripenné à la base. Pennes inférieures atteignant 30 cm de long, faisant un angle de 50-60° avec le rachis, à pétiole de
-
-2 cm, développées basiscopiquement, à pinnules espacées de 3 cm environ, pétiolulées, longues de 5-7 cm, divisées, à la base, en pinnules de  $ 2^{e} $ ordre décurrentes, adnées, plus haut en lobes oblongs, aigus, légèrement lobés. Pennes supérieures à pinnules lobées. Rachis portant un bourgeon vers le sommet, glabre à la face inférieure, portant de courts poils roux dans le sillon à la face supérieure. Costae très lâchement hirsutes ou subglabres à la face inférieure. Surfaces glabres présentant quelques glandes jaunes cylindriques, à la face inférieure. Sores assez épais, arrondis, à indusie caduque.
+Rhizome thick, erect, with fronds in rosettes, bearing reddish, narrow scales, deeply sinuate at the base, formed of thin-walled cells, pale contents. Frond reaching 2 m, with stamineous or reddish petiole, reaching approximately half the length of the frond, scaly at the base. Blade with deltoid outline, tripinnate at the base. Lower pinnae reaching 30 cm long, making an angle of 50–60° with the rachis, with petiole of 2 cm, developed basisccopically, with pinnules spaced approximately 3 cm apart, petiolulate, 5–7 cm long, divided at the base into pinnules of 2nd order decurrent, adnate, higher up into oblong, acute, slightly lobed lobes. Upper pinnae with lobed pinnules. Rachis bearing a bud toward the apex, glabrous on the lower face, bearing short reddish hairs in the groove on the upper face. Costae very loosely hirsute or subglabrous on the lower face. Glabrous surfaces bearing some yellow cylindrical glands on the lower face. Sori fairly thick, rounded, with caducous indusium.
 
 ## Type
 
@@ -38,11 +34,9 @@ Vogel 229, Fernando-Po (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Fernando-Po, Nigeria, Congo.
 
-Guinée, Fernando-Po, Nigeria, Congo.
-
-Pentes montagneuses, endroits demi-éclairés.
+Mountainous slopes, semi-shaded places.
 
 ## Specimens examined
 

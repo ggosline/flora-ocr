@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Description based on the cited Gabonese material:
 
-Description d'après le matériel gabonais cité :
+Shrub 1–1.50 m tall. Stipules 6–10 mm. Petiole 5–10 mm. Blade ± reddish-brown on the lower surface (pale green in N. Hallé 2667), 9–19 × 3–7 cm. 6–7 pairs of secondary nerves. Nerve axils lacking domatia and perfectly glabrous.
 
-Arbrisseau de 1-1,50 m. Stipules de 6-10 mm. Pétiole de 5-10 mm. Limbe ± roux à la face inférieure (vert clair chez N. Hallé 2667), de 9-19 × 3-7 cm. 6-7 paires de nervures secondaires. Aisselles nervaires dépourvues de domaties et parfaitement glabres.
+Inflorescences 15–35-flowered in a small panicle 1–2.5 cm excluding the corollas, with a short peduncle, with small acute bracts. Pedicels 2–7 mm. Calycine cup green, 0.7–1 mm tall; lobes 0.5–0.8 mm. Corolla white with tube 3–6 cm long; lobes linear, 15–18 × 1.5 mm. Anthers ⊥ caducous, 3 × 0.3 mm. Style very slender; stigmatic head very small and very exserted.
 
-Inflorescences 15-35-flores en petit panicule de 1-2,5 cm sans les corolles, à pédoncule court, à petites bractées aiguës. Pédicelles de 2-7 mm. Cupule calycinale verte de 0,7-1 mm de hauteur; lobes de 0,5-0,8 mm. Corolle blanche à tube long de 3-6 cm; lobes linéaires de 15-18 × 1,5 mm. Anthères ⊥ caduques de 3 × 0,3 mm. Style très grêle; massue stigmatique très petite et très exserte.
-
-Fruit globuleux de 13-21 mm de diamètre, tournés vers le haut, orangés lisses, à cupule calycinale caduque, à péricarpe mince d'environ 0,6 mm. Près de 30 graines de  $ 8 \times 5 \times 2,5 $ mm, brun roussâtre, à testa d'aspect cordé.
+Fruit globose, 13–21 mm in diameter, oriented upward, smooth orange, with caducous calycine cup, with thin pericarp approximately 0.6 mm. Nearly 30 seeds $ 8 \times 5 \times 2.5 $ mm, reddish-brown, with testa appearing corded.
 
 ## Type
 
@@ -33,11 +31,9 @@ Talbot 1314 et 1359, Oban, Nigeria (K!). Autres spécimens de référence (P!) :
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is close to the preceding one and its limits are still poorly known. The fruits described and cited here are the only ones known to us.
 
-Cette espèce est proche de la précédente et ses limites sont encore mal connues. Les fruits décrits et cités ici sont les seuls connus de nous.
-
-Sud-Nigeria, Cameroun et Gabon.
+Southern Nigeria, Cameroon, and Gabon.
 
 ## Specimens examined
 

@@ -17,27 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-SCHELLENBERG, PR 103 (4, 127): 59 (1938); HEPPER, FWTA, ed. 2, 1 (2): 747 (1958); JONGKIND, in BRETELER (éd.), AUWP 89 (6): 298 (1989). TYPE: Sierra Leone, s.l., Afzelius s.n. (holo-BM).
+SCHELLENBERG, PR 103 (4, 127): 59 (1938); HEPPER, FWTA, ed. 2, 1 (2): 747 (1958); JONGKIND, in BRETELER (ed.), AUWP 89 (6): 298 (1989). TYPE: Sierra Leone, s.l., Afzelius s.n. (holo-BM).
 
 - M. longiflora BAK., FTA 1: 460 (1868); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 517 (1928); SCHELLENBERG, PR 103 (4, 127): 56 (1938); HEPPER, FWTA, ed. 2, 1 (2): 747 (1958). TYPE: Nigeria, Eppah, Barter 3283 (holo-K).
 
-- M. pruinosa GILG, EBJ 14: 332 (1891); SCHELLENBERG, PR 103 (4, 127): 59, p.p. exclud Le Testu 1049 & 1061, = M. soyauxii (1938); TROUPIN, FCBR 3: 72 (1952); EXELL & MENDONÇA, CFA 2; 140 (1954). TYPE: Zaïre, Lulua, Pogge 724 (holo-B delet.; lecto-K).
+- M. pruinosa GILG, EBJ 14: 332 (1891); SCHELLENBERG, PR 103 (4, 127): 59, p.p. exclud Le Testu 1049 & 1061, = M. soyauxii (1938); TROUPIN, FCBR 3: 72 (1952); EXELL & MENDONÇA, CFA 2; 140 (1954). TYPE: Zaire, Lulua, Pogge 724 (holo-B delet.; lecto-K).
 
-Très grande liane pouvant atteindre 30 m de longueur ou arbuste. Jeunes rameaux avec indumentum dense de longs poils ; rameaux âgés glabres ou avec quelques poils et des lenticelles.
+Very large liane reaching 30 m in length or shrub. Young branches with dense indumentum of long hairs; old branches glabrous or with some hairs and lenticels.
 
-Feuilles. Pétiole long de 2-4,5(-7,5) cm ; rachis long de 4-15,5 cm pubescent à glabre ; pétioules longs de 1-4 mm ; folioles 7-13, ovées à elliptiques, pubescentes ou glabres, base cordée à aiguë ; jeunes folioles roses ; foliole terminale 3,8-15,5 × 1,4-6,8 ; folioles latérales 2,3-15 × 1,1-6,5 cm.
+Leaves. Petiole 2–4.5(–7.5) cm long; rachis 4–15.5 cm long pubescent to glabrous; petiolules 1–4 mm long; leaflets 7–13, ovate to elliptic, pubescent or glabrous, base cordate to acute; young leaflets pink; terminal leaflet 3.8–15.5 × 1.4–6.8; lateral leaflets 2.3–15 × 1.1–6.5 cm.
 
-Inflorescences ≤ longues de 40 cm, pubescentes ou glabres. Pédi-celle, longueur au-dessus de l'articulation 1-3 mm.
+Inflorescences ≤ 40 cm long, pubescent or glabrous. Pedicel, length above the articulation 1–3 mm.
 
-Fleurs. Bouton floral, au moment de l'ouverture du calicé (1,5-1), 8-2,2(-2,7) × (1)-1,2-1,5(-1,8) mm. Sépales lancéolés (1,7)-2,5-3,5(-4) × 0,8-1,5 mm, grisâtre-blanc à rouge foncé mais en général roses. Pétales étroitement elliptiques 5,5-7,5(-11) × 0,8-1,2(-2) mm, réfléchis, d'abord blancs souvent avec du rose, ensuite jaunes. Sépales et pétales fréquemment munis de 3 types de poils. Étamines, les longues de 3-6 mm, les courtes de 1,5-4 mm; filets libres avec des poils glandulaires et parfois autant de poils sphériques; anthères jaunes. Pistil long de 2-5,5 mm, non égal aux étamines, blanc à rose, avec des poils glandulaires et parfois de longs poils à la base de l'ovaire. - Pl. 29, p. 97.
+Flowers. Floral bud, at the moment of calyx opening (1.5–1), 8–2.2(–2.7) × (1)–1.2–1.5(–1.8) mm. Sepals lanceolate (1.7)–2.5–3.5(–4) × 0.8–1.5 mm, greyish-white to dark red but generally pink. Petals narrowly elliptic 5.5–7.5(–11) × 0.8–1.2(–2) mm, reflexed, at first white often with pink, then yellow. Sepals and petals frequently furnished with 3 types of hairs. Stamens, the long ones 3–6 mm, the short ones 1.5–4 mm; filaments free with glandular hairs and sometimes as many spherical hairs; anthers yellow. Pistil 2–5.5 mm long, not equal to the stamens, white to pink, with glandular hairs and sometimes long hairs at the base of the ovary. – Pl. 29, p. 97.
 
-Fruits, follicules 1-5 par fleur, ≤ 20 × 10 mm, oranges à rouges, très finement veloutés (poils glandulaires), terminés par un bec. Pour l'indumentum des carpelles et des follicules, voir Pl. 29, p. 97.
+Fruits, follicles 1–5 per flower, ≤ 20 × 10 mm, orange to red, very finely velvety (glandular hairs), terminated by a beak. For the indumentum of the carpels and follicles, see Pl. 29, p. 97.
 
-Graines  $ \approx 10 \times \approx 5 $ mm; testa partiellement charnu et rouge, partie dorsale fine et noire.
+Seeds $ \approx 10 \times \approx 5 $ mm; testa partially fleshy and red, dorsal portion thin and black.
 
-Germination épigée ; hypocotyle fortement allongé avec pubescence dense ; premières feuilles opposées. - Pl. 30, 3, 10, p. 99.
+Epigeal germination; hypocotyl strongly elongated with dense pubescence; first leaves opposite. – Pl. 30, 3, 10, p. 99.
 
 ## Type
 
@@ -45,23 +43,17 @@ Afzelius s.n., s.l., Sierra Leone
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+PL. 30. – Manotes griffoniana Baillon: 1, 2, flowering branch (with interruption) × 2/3; 4, leaflet, detail (see "x" on 1) × 4; 5, flower × 4; 6, petal × 4; 7, flower, partial view, showing the androgynophore × 4; 8, floral bud × 4; 9, follicles × 2/3; 11, same in longitudinal section showing a seed and flat cotyledons × 2; 12, 13, seed showing a partially fleshy testa (dark portion) × 2. (1, 2, 4. Troupin 4500; 5–7. Louis & al. 1389; 8. Bos 3243; 9. Louis & al. 184; 11–13. Louis & al. 184).
 
-PL. 30. – Manotes griffoniana Baillon : 1, 2, rameau florifère (avec interruption) × 2/3; 4, foliole, détail (voir « x » sur 1) × 4; 5, fleur × 4; 6, pétale × 4; 7, fleur, vue partielle, montrant l'androgynophore × 4; 8, bouton floral × 4; 9, follicules × 2/3; 11, idem en coupe longitudinale montrant une graine et des cotylédons plats × 2; 12, 13, graine montrant un testa en partie charnue (partie foncée) × 2. (1, 2, 4. Troupin 4500; 5-7. Louis & al. 1389; 8. Bos 3243; 9. Louis & al. 184; 11-13. Louis & al. 184).
-
-– Manotes expansa Solander ex Planchon : 3, foliole × 1,5 ; 10, follicule déhiscent suivant une suture ventrale × 2/3. (3. Louis & al. 731 ; 10. Carlier 29). – Repris de AUWP 89 (6).
+– Manotes expansa Solander ex Planchon: 3, leaflet × 1.5; 10, follicle dehiscent along a ventral suture × 2/3. (3. Louis & al. 731; 10. Carlier 29). – Taken from AUWP 89 (6).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée au Zaïre et de la Centrafrique au Nord de l'Angola
+from Guinea to Zaire and from Central African Republic to northern Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles et galeries forestières, observée et récoltée plus particulièrement en lisière ; alt. 0-600 m
+rainforests and forest galleries, observed and collected particularly at the margins; alt. 0–600 m
 
 ## Specimens examined
 

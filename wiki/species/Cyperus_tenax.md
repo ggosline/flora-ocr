@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, in tufts, with a short erect rhizome covered by the bases of old leaves; stems 5–70 cm × 0.6–3 mm, rounded, glabrous, very leafy in the lower part. Leaf with sheath straw-yellow to purple, all with a well-developed lamina; lamina 5–35 cm × 1–4 mm, flat or folded, fairly thick, scabrous on the margin and central nerve at least on young leaves. Inflorescence generally open, formed of a sessile fascicle of spikelets and 3–12 digitate fascicles on rays 0.5–5 cm, rarely with a single sessile digitate fascicle; involucral bracts 2–7, foliaceous, spreading, the principal one 1–18 cm long, usually exceeding the inflorescence. Spikelet linear, 3–18 × 0.7–1.3 mm (but 1.5–2.5 mm wide with glumes spreading),
 
-Herbe vivace, en touffe, avec un court rhizome dressé couvert par les bases des vieilles feuilles ; tiges de 5‒70 cm × 0,6‒3 mm, arrondies, glabres, très feuillées dans la partie inférieure. Feuille à gaine jaune paille à pourpre, toutes avec un limbe bien développé ; limbe de 5‒35 cm × 1‒4 mm , plan ou plié, assez épais, scabre sur la marge et la nervure centrale au moins sur les jeunes feuilles. Inflorescence généralement ouverte, formée d’un fascicule sessile d’épillets et de 3‒12 fascicules digités sur des rayons de 0,5‒5 cm, rarement avec un seul fascicule digité sessile ; bractées involucrales 2‒7, foliacées, étalées, la principale longue de 1‒18 cm, dépassant habituellement l’inflorescence. Épillet linéaire, de 3‒18 × 0,7‒1,3 mm (mais 1,5‒2,5 mm de largeur avec les glumes étalées),
-
-Fruit. Dessin original par Richard W. Haines ©. brun foncé à noirâtre, à 8‒25 fleurs ; glumes ovales, longues de 1,2‒2,3 mm , violet foncé presque noires, avec la nervure centrale plus pâle et trinervée, très brillantes, sommet arrondi (parfois effiloché) ou avec la nervure centrale dépassant légèrement, marges entourant l’akène (glumes tombant donc avec l’akène). Fleur à 3 étamines ; style à 3 longues branches. Akène étroitement obovale à elliptique, 0,7‒1,2 × 0,3‒0,4 mm , d’abord brun jaunâtre, puis devenant gris foncé avec un éclat métallique à maturité ; surface avec de minuscules tubercules alignés longitudinalement.
+Fruit. Original drawing by Richard W. Haines ©. dark brown to blackish, with 8–25 flowers; glumes ovate, 1.2–2.3 mm long, dark purple almost black, with the central nerve paler and trinerved, very shiny, apex rounded (sometimes frayed) or with the central nerve slightly exceeding, margins surrounding the achene (glumes thus falling with the achene). Flower with 3 stamens; style with 3 long branches. Achene narrowly obovate to elliptic, 0.7–1.2 × 0.3–0.4 mm, at first yellowish brown, then becoming dark grey with a metallic sheen at maturity; surface with minute tubercles aligned longitudinally.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale ; commune au Gabon, dans les zones côtières et dispersée ailleurs ; trouvée dans l’Estuaire, le Haut-Ogooué, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Maritime
+Tropical Africa; common in Gabon, in coastal zones and scattered elsewhere; found in Estuaire, Haut-Ogooué, Nyanga, Ogooué-Ivindo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-habitats pauvres en substances nutritives tels que dunes, terrains sableux des prairies, savanes, zones boisées et marges des mangroves ; au Gabon, à 0‒400 m d’altitude, jusqu’à 1800 m ailleurs. Note taxonomique : se reconnaît par ses tiges feuillées à la base, à l’inflorescence foncée assez ouverte et aux petites glumes. Elle ressemble un peu à C. amabilis qui est une espèce annuelle. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
+habitats poor in nutrients such as dunes, sandy grassland soils, savannas, wooded areas and mangrove margins; in Gabon, at 0–400 m altitude, up to 1800 m elsewhere. Taxonomic note: recognized by its stems leafy at the base, the rather open dark inflorescence and the small glumes. It resembles somewhat C. amabilis which is an annual species. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliography
 
 ## Notes
 

@@ -20,15 +20,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb exceeding 1 m in height, extensively creeping and rooting at the base. Leaf sheaths rounded, glabrous or more or less pubescent with tuberculate hairs at the base, nodes generally hirsute. Ligule ciliate, blade linear reaching up to 30 cm long and 15 mm wide, glabrous or more or less pubescent.
 
-Herbe pérenne dépassant 1 m de haut, longuement rampante et radicante à la base. Gaines foliaires arrondies, glabres ou plus ou moins pubescentes à poils tuberculés à la base, nœuds généralement hirsutes. Ligule ciliée, limbe linéaire pouvant dépasser 30 cm de long et 15 mm de large, glabre ou plus ou moins pubescent.
+Panicle more or less unilateral, approximately 15 cm long; racemes solitary, in pairs or subverticillate, up to 10 cm long, rachis flattened herbaceous, 1 mm wide. Secondary racemes very short with 3 or 6 spikelets, somewhat longer in the case of lower racemes. Pedicels up to 1 mm long. Spikelets glabrous, imbricate on the secondary racemes.
 
-Panicule plus ou moins unilatérale, environ 15 cm de long; racèmes solitaires, par paires ou subverticillés, jusqu'à 10 cm de long, rachis aplati herbacé, de 1 mm de large. Racèmes secondaires très courts à 3 ou 6 épilets, un peu plus longs dans le cas des racèmes inférieurs. Pédicelles jusqu'à 1 mm de long. Épilets glabres, imbriqués sur les racèmes secondaires.
+Lower glume not reaching half the length of the spikelet, often tinged with red, with 3 or 5 nerves. Lower flower male, lemma with 5 nerves, slightly depressed on the back; palea narrow, equally long. Upper flower 3 mm long, glumelles transversely rugose or smooth.
 
-Glume inférieure n'atteignant pas la moitié de l'épillet, souvent teintée de rouge, à 3 ou 5 nervures. Fleur inférieure mâle, lemma à 5 nervures, légèrement déprimée sur le dos; paléa étroite, aussi longue. Fleur supérieure de 3 mm de long, glumelles transversalement rugueuses ou lisses.
-
-Espèce probablement originaire d'Amérique et d'Afrique Occidentale, mais introduite un peu partout comme plante fourragère, connue sous les noms de « Para grass, Mauritius grass ou Water grass ». Elle paraît peu répandue au Gabon.
+Species probably originating from America and West Africa, but introduced widely as a forage plant, known under the names "Para grass, Mauritius grass or Water grass". It appears to be little distributed in Gabon.
 
 ## Specimens examined
 

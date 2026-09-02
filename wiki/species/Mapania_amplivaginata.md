@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste, à rhizome épais de 3–7 mm ; tige solitaire, centrale , 10–30 cm × 1–4 mm, triangulaire, glabre, verte. Feuilles toutes basales ; gaine lancéolée à ovale, 3–11 × 1–3 cm, verdâtre à brun rougeâtre ; limbe lancéolé à oblong , plan, assez épais, trinervé, le plus grand de 20–40 × 3–8,5 cm, à base progressivement ou brusquement rétrécie en pseudo-pétiole de 4–25 cm et sommet brusquement aigu ou courtement acuminé. Inflorescence terminale, globuleuse, large de 15–25 mm , brun rougeâtre, formée de 20–50 épis serrés mais assez distincts ; bractées involucrales 3–4, foliacées, 1–13 × 0,8– 2,5 cm, sommet aigu ou acuminé, l’inférieure brun rougeâtre à la base, presque orbiculaire, cachant partiellement l’inflorescence ; épis ovales–elliptiques, 10–15 × 5–7 mm ; bractées spicoïdales linéaires–lancéolées à oblongues, 6–8 × 1,5–3 mm , brunes à brun rougeâtre foncé, à marges translucides, hispides vers le sommet , chacune sous-tendant un spicoïde à 2 fleurs mâles et 1 femelle. Fleur : bractées florales 4, linéaires, longues de 5,6–7,8 mm , sommet obtus, les 2 inférieures larges de 0,6–1 mm, marron, hispides vers l’extrémité, carène non ailée, les 2 supérieures glabres ; style à 2 branches . Akène obovoïde à globuleux, 1,5–2 × 1,2–2 mm , brun à noirâtre, à surface rugueuse avec 2 côtes latérales et 1 antérieure.
+Fairly robust herb, with thick rhizome 3–7 mm; stem solitary, central, 10–30 cm × 1–4 mm, triangular, glabrous, green. Leaves all basal; sheath lanceolate to ovate, 3–11 × 1–3 cm, greenish to reddish-brown; blade lanceolate to oblong, plane, fairly thick, trinerved, the largest 20–40 × 3–8.5 cm, with base gradually or abruptly narrowed into pseudo-petiole 4–25 cm and apex abruptly acute or shortly acuminate. Inflorescence terminal, globose, 15–25 mm wide, reddish-brown, formed of 20–50 spikelets crowded but fairly distinct; involucral bracts 3–4, foliaceous, 1–13 × 0.8–2.5 cm, apex acute or acuminate, the lower one reddish-brown at base, almost orbicular, partially hiding the inflorescence; spikelets oval–elliptic, 10–15 × 5–7 mm; spicular bracts linear–lanceolate to oblong, 6–8 × 1.5–3 mm, brown to dark reddish-brown, with translucent margins, hispid towards the apex, each subtending a spicule with 2 male flowers and 1 female. Flower: floral bracts 4, linear, 5.6–7.8 mm long, apex obtuse, the 2 lower ones 0.6–1 mm wide, brown, hispid towards the tip, keel not winged, the 2 upper ones glabrous; style with 2 branches. Achene obovoid to globose, 1.5–2 × 1.2–2 mm, brown to blackish, with rugose surface with 2 lateral ribs and 1 anterior.
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon et Angola ; répandue au Gabon, trouvée dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga, l’Ogooué-Maritime et le WoleuNtem (34 récoltes)
+Nigeria, Cameroon, Gabon and Angola; widespread in Gabon, found in Estuaire, Moyen-Ogooué, Ngounié, Nyanga, Ogooué-Maritime and Woleu-Ntem (34 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires et secondaires, quelquefois le long des rivières et des cours d’eau ; au Gabon, à 40–600 m d’altitude, ailleurs jusqu’à 700 m. Note taxonomique : La forme et la taille des feuilles sont particulièrement variables. Elle se reconnaît à l’inflorescence capitée avec des épis distincts et la très large et courte (presque orbiculaire) bractée involucrale, couvrant partiellement l’inflorescence. Superficiellement, elle ressemble un peu à M. pubisquama , mais possède au moins une longue bractée involucrale foliacée. À la loupe, M. amplivaginata en diffère par le style à 2 branches et les 4 bractées florales. b : Hooper & Napper (1972), Simpson (1992). ibliographie
+primary and secondary forests, sometimes along rivers and watercourses; in Gabon, at 40–600 m altitude, elsewhere up to 700 m. Taxonomic note: The shape and size of the leaves are particularly variable. It is recognized by the capitate inflorescence with distinct spikelets and the very wide and short (almost orbicular) involucral bract, partially covering the inflorescence. Superficially, it resembles M. pubisquama somewhat, but possesses at least one long foliaceous involucral bract. Under magnification, M. amplivaginata differs from it by the style with 2 branches and the 4 floral bracts. b: Hooper & Napper (1972), Simpson (1992). Bibliography
 
 ## Notes
 

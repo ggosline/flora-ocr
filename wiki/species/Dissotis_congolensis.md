@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Adansonia, sér. 2, 20 (4) : 424 (1981); Fl. Cam. 24 : 33, tab. 8 (1983).
 
 — Osbeckia congolensis Cogn. ex Buett., Verh. Bot. Ver. Brandenb. 31 : 95 (1889).
 
-Herbe annuelle ou pluriannuelle; tiges grêles et ± couchées, ou plus robustes et dressées jusqu'à 0,60 m; rameaux 4-angulaires, finement ailés, hirsutes, surtout sur les nœuds. Feuilles subsessiles; pétiole hirsute pouvant atteindre 5 mm; limbe étroitement elliptique-oblong, de ± 1 × 5 cm, cunée ou arrondi à la base, en coin obtus au sommet; soies hérissées sur les 2 faces, plutôt sur les nervures dessous; 3(5) nervures saillantes dessous; marges scléro-serrulées par la base adhérente des cils.
+Annual or perennial herb; stems slender and ± prostrate, or more robust and erect up to 0.60 m; branches 4-angular, finely winged, hirsute, especially at the nodes. Leaves subsessile; petiole hirsute up to 5 mm; blade narrowly elliptic-oblong, approximately 1 × 5 cm, cuneate or rounded at the base, obtusely wedge-shaped at the apex; bristles erect on both surfaces, rather on the veins beneath; 3(5) prominent veins beneath; margins scleroserrulate by the adherent base of the cilia.
 
-Inflorescences sommitales sur les tiges et rameaux latéraux, ± fleuries et compactes; feuilles de + en + réduites en bractées peu différenciées; bractéoles de 2 mm, caduques. Fleur à pédicelle de 1 à 2 mm; hypanthe étroitement campanulé, hirsute; lobes intersépalaires sétuleux, non stellatés; sépales persistants, triangulaires-oblongs, de 2 × 4 mm, densément ciliés, non stellatés. Pétales mauves, obovales, de ± 5 × 7 mm, ciliés vers le haut, peu étalés à l'anthèse. Étamines normalement égales et identiques; anthère de 4 mm, atténuée et récurvée vers le haut; connectif seulement 2-tuberculé en avant; filet de 6 mm; parfois légère différence entre les 2 verticilles par la présence d'un pédoconnectif court sur le verticille externe. Ovaire conique, sommet sétuleux, apex étroitement déprimé avec collec-
+Inflorescences terminal on the stems and lateral branches, ± floriferous and compact; leaves progressively reduced as bracts and little differentiated; bracteoles 2 mm, caducous. Flower with pedicel 1 to 2 mm; hypanthium narrowly campanulate, hirsute; intersepalar lobes setulose, not stellate; sepals persistent, triangular-oblong, 2 × 4 mm, densely ciliate, not stellate. Petals mauve, obovate, approximately 5 × 7 mm, ciliate toward the apex, scarcely spreading at anthesis. Stamens normally equal and identical; anther 4 mm, attenuate and recurved toward the apex; connective only 2-tuberculate in front; filament 6 mm; sometimes slight difference between the 2 whorls by the presence of a short pedoconnective on the external whorl. Ovary conical, apex setulose, apex narrowly depressed with setulose peristyle collar; style 1.5 cm long; placentas cymbiform, lamellate-stipitate on the lower half of the locule.
 
-rette péristyle sétuleuse; style long de 1,5 cm; placentas cymbiformes, lamello-stipités sur la moitié inférieure de la loge.
-
-Fruit couronné par les sépales persistants; ovaire non saillant. Graines de 0,6 mm, régulièrement tuberculées. — Pl. 4, p. 17.
+Fruit crowned by the persistent sepals; ovary not prominent. Seeds 0.6 mm, regularly tuberculate. — Pl. 4, p. 17.
 
 ## Type
 
@@ -37,9 +33,7 @@ Buettner 24, Zaire (B, delet.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue de la Guinée à l'Angola, vers l'Ouest, et jusqu'en Tanzanie, vers l'Est; localisée sur les sols marécageux ensoleillés, elle est peu fréquente au Gabon, où elle s'observe surtout sur les espaces défrichés.
+Species known from Guinea to Angola, toward the west, and extending to Tanzania, toward the east; localized on sunny swampy soils, it is infrequent in Gabon, where it is observed especially in cleared areas.
 
 ## Specimens examined
 

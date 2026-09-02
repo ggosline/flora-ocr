@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston, Bol. Soc. Brot., sér. 2 A, 30 : 20 (1956). — FWTA : 49 (1959).
 
-Rhizome longuement rampant, densément recouvert d'écailles rousses, devenant blanchâtres, peltées à la base, formées de cellules à parois minces, plus foncées au centre. Pétiole long de 0,5 à 1 cm, ailé. Limbe lancéolé aigu, long de 4-8 cm sur 1,5-2 de large, à marge entière. Fronde fertile légèrement plus grande et ayant 0,5 cm de large. Texture coriace. Surfaces nues. Costa nu ou légèrement écailleux. Nervures formant une étroite aréole le long du costa, plusieurs rangées d'aréoles à nervilles incluses recourbées, l'aréole marginale sans nervilles incluses. Sores larges, de chaque côté de la nervure médiane.
+Rhizome long-creeping, densely covered with reddish scales, becoming whitish, peltate at the base, formed of cells with thin walls, darker at the center. Petiole 0.5–1 cm long, winged. Blade lanceolate acute, 4–8 cm long by 1.5–2 cm wide, with entire margin. Fertile frond slightly larger and 0.5 cm wide. Texture coriaceous. Surfaces glabrous. Costa glabrous or slightly scaly. Veins forming a narrow areola along the costa, several rows of areoles with included curved veinlets, the marginal areola without included veinlets. Sori broad, on either side of the median vein.
 
 ## Type
 
@@ -33,11 +31,9 @@ Palisot de Beauvois, royaume d'Oware, S Nigeria (P, herb. Bory)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tropical Africa.
 
-Afrique tropicale.
-
-Épiphyte, surtout sur Elaeis.
+Epiphytic, especially on Elaeis.
 
 ## Specimens examined
 

@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 1–2 (5) m tall, with pubescent young branches. Stipules 10–20 × 3–7 mm, pubescent at least on the keel, more or less caudate. Petioles pubescent, 1.5–4 (7) mm long. Lamina entirely glabrous above, pubescent beneath, 6–17 × 2–6 cm. Base attenuate, acute or narrowly obtuse. Apex lanceolate. 7–11 pairs of secondary nerves.
 
-Arbuste de 1-2 (5) m, à jeunes rameaux pubescents. Stipules de 10-20 × 3-7 mm, pubescentes au moins sur la carène, plus ou moins caudées. Pétioles pubescents longs de 1,5-4 (7) mm. Limbe entièrement glabre dessus, pubescent dessous, de 6-17 × 2-6 cm. Base atténuée, aiguë ou étroitement obtuse. Sommet lancéolé. 7-11 paires de nervures secondaires.
+Inflorescences capitate, 2.5–4 cm diam., sessile at the tips of oblique lateral branches. Flowers sessile with sometimes intercalary bracts. Buds acute. Calyx pale green pubescent, tubular, with variable lobes 0.5 to 3 mm, obtuse to attenuate (var. bityensis). Corolla white reaching 13 to 15 mm, entirely pubescent externally except for the margin of the lobes which is glabrous. Internal pubescence slight in the throat, sparse between the anthers; 5 sometimes 4 acute lobes. Anthers acuminate, 3–4 mm long.
 
-Inflorescences capitées de 2,5-4 cm de diam., sessiles aux extrémités des rameaux latéraux obliques. Fleurs sessiles avec parfois des bractées intercalaires. Boutons aigus. Calice vert pâle pubescent, tubuleux, à lobes variables de 0,5 à 3 mm, obtus à
-
-effilés (var. bityensis). Corolle blanche atteignant 13 à 15 mm, entièrement pubescente à l'extérieur sauf le bord recouvert des lobes qui est glabre. Pubescence interne médiocre dans la gorge, rare entre les anthères; 5 parfois 4 lobes aigus. Anthères acuminées, longues de 3-4 mm.
-
-Infrutescence capitée dense. Fruits subsessiles ± ornés de côtes, de 7-9 mm de diam., pubescents. Graine finement ornée, longue de 1,5 mm.
+Infructescence capitate dense. Fruits subsessile ± ribbed, 7–9 mm diam., pubescent. Seed finely ornamented, 1.5 mm long.
 
 ## Type
 
@@ -33,11 +29,9 @@ Staudt 128 (lectotype P, K!, et BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The name Bertiera globiceps K. Schum. var. bityensis (Wernh.) N. Hallé, stat. nov., may be given to specimens that differ from the type by their calyx with ± attenuate lobes (= B. bityensis Wernh., Journ. Bot. 57: 278, 1919, type Gosseweiler 8177 K!).
 
-On peut accorder le nom de Bertiera globiceps K. Schum. var. bityensis (Wernh.) N. Hallé, stat. nov., aux échantillons qui différent du type par leur calice à lobes ± effilés (= B. bityensis Wernh., Journ. Bot. 57 : 278, 1919, type Gosseweiler 8177 K!).
-
-Forêt ± dégradée, parfois dense, lisières ou bords de routes sur sol drainé. Cameroun, Gabon et Ouganda (Greenway 7100 K!).
+More or less degraded forest, sometimes dense, forest margins or roadsides on well-drained soil. Cameroon, Gabon and Uganda (Greenway 7100 K!).
 
 ## Specimens examined
 

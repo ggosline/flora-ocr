@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant 15 to 50 cm tall; innovations extravaginal, rooted at the base; culms with 3 or 4 cataphylls, the lower ones very short, the upper ones up to 15 cm long or more.
 
-Plante de 15 à 50 cm de haut; innovations extravaginales, enracinées à la base; chaumes à 3 ou 4 cataphylles, les inférieures très courtes, les supérieures jusqu'à 15 cm de long ou plus.
+The innovations may form directly a flowering stem by elongation of the first internode above the cataphylls, or stolons; these reach about thirty centimeters in length, finally rooted at their tip they then form one or more flowering stems. Cataphylls all silky at the nodes and more or less pubescent between the veins.
 
-Les innovations peuvent former directement une tige florifère par élongation du premier entrenœud au-dessus des cataphylles, ou des stolons; ceux-ci atteignent une trentaine de centimètres de long, finalement enracinés à leur extrémité ils forment alors une ou plusieurs tiges florifères. Cataphylles toutes soyeuses aux nœuds et plus ou moins pubescentes entre les nervures.
+1 to 3 perfect leaves with sheaths more or less pubescent, but always silky at the level of the nodes and with a transverse line of hairs at the junction with the blade. Ligule ciliate. Blade lanceolate, more or less asymmetrical, acute at both ends, 10 to 30 × 2.5 to 5 cm.
 
-1 à 3 feuilles parfaites à gaines plus ou moins pubescentes, mais toujours soyeuses au niveau des nœuds et avec une ligne transversale de poils à la jonction avec le limbe. Ligule ciliée. Limbe lancéolé, plus ou moins dissymétrique, aigu aux deux extrémités, de 10 à 30 × 2,5 à 5 cm.
+Inflorescence 7.5 to 25 cm long, branches up to 7.5 cm long and generally up to 6 spikelets or more, pedicels unequal, up to 6 mm long. Spikelets similar to those of M. barbinodis, but lower glume sometimes with 7 veins and fertile lemma sometimes pubescent in its lower half.
 
-Inflorescence de 7,5 à 25 cm de long, branches jusqu'à 7,5 cm de long et généralement jusqu'à 6 épilets ou plus, pédicelles inégaux, jusqu'à 6 mm de long. Épilets semblables à ceux de M. barbinodis, mais glume inférieure parfois à 7 nervures et lemma fertile parfois pubescente dans sa moitié inférieure.
-
-Espèce signalée du Cameroun et du Gabon : Mann, 1646, Monts de Cristal (échantillon non vu).
+Species recorded from Cameroon and Gabon: Mann, 1646, Monts de Cristal (specimen not seen).
 
 ## Figures
 

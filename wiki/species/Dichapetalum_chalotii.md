@@ -17,27 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+BRETELER, MLW 73 (13): 18 (1973); l.c. 78 (10): 4-7 (1978); l.c. 82 (8): 25 (1982); AUWP 86 (3): 17, 38 (1986). TYPE: Congo, Brazzaville, Chalot 13 (holo-, P; iso-, WAG).
 
-BRETELER, MLW 73 (13) : 18 (1973); l.c. 78 (10) : 4-7 (1978); l.c. 82 (8) : 25 (1982); AUWP 86 (3) : 17, 38 (1986). TYPE : Congo, Brazzaville, Chalot 13 (holo-, P ; iso-, WAG).
-
-– – var. tholloniana PELLEGRIN, Not. Syst. 2 : 272 (1912). TYPE : Congo, Brazzaville, Thollon 553 (holo-, P).
+– – var. tholloniana PELLEGRIN, Not. Syst. 2: 272 (1912). TYPE: Congo, Brazzaville, Thollon 553 (holo-, P).
 
 – – D. sapinii DE Wildeman, Rev. Zool. Afr. 4 (2), suppl. Bot.: 64 (1919); Hauman, FZRB 7: 334 (1958). TYPE: Zaïre, Kasai, Lukombé, Oct. 1910, Sapin s.n. (lecto-, BR; iso-, WAG).
 
-Liane de taille moyenne, arbuste lianescent ou arbuste ; tronc avec lenticelles peu proéminentes, disposées en rang ou non ; cylindre ligneux divisé par des intrusions de phloème en 5 lobes distincts. Rameaux jeunes et âgés creux, bruns à brun-argenté avec poils bruns hispides denses, puis glabrescents.
+Medium-sized liane, lianescent shrub or shrub; trunk with slightly prominent lenticels, arranged in rows or not; wood cylinder divided by phloem intrusions into 5 distinct lobes. Young and old branches hollow, brown to brown-silvery with dense hispid brown hairs, then glabrescents.
 
-Stipules linéaires-triangulaires à subulées, en général courbes, longues de (3) 7-10 (13) mm, hispides, tôt caduques ou non.
+Stipules linear-triangular to subulate, generally curved, (3) 7-10 (13) mm long, hispid, early caducous or not.
 
-Feuilles le plus souvent subsessiles. Pétiole 1-3 (6) mm sillonné dessus, hispide. Limbe papyracé, elliptique à obové et souvent étroit, (2) 2,5-3 (4) fois plus long que large, (5) 10-16 (22) × (2) 3-6 (8) cm, base obtuse à subcordée, acumen aigu modéré (parfois brusque) atteignant 2 cm ; nervure I et principales nervures II (6) 8-11 (13) paires, imprimées dessus, proéminentes dessous ; poils raides sur les deux faces, plus denses et plus persistants dessous et sur la face supérieure de la médiane ; petites glandes peu visibles seulement dessous.
+Leaves most often subsessile. Petiole 1-3 (6) mm furrowed above, hispid. Blade papyraceous, elliptic to obovate and often narrow, (2) 2.5-3 (4) times longer than wide, (5) 10-16 (22) × (2) 3-6 (8) cm, base obtuse to subcordate, acute moderate acumen (sometimes abrupt) reaching 2 cm; primary vein and secondary veins (6) 8-11 (13) pairs, impressed above, prominent below; stiff hairs on both faces, denser and more persistent below and on upper face of midvein; small glands scarcely visible only below.
 
-Inflorescences assez lâches, hispides, 2-3 ordres distincts de ramifications, portant jusqu'à 20 fleurs. Pédoncule 4-8(12) mm. Bractées et bractéoles étroites et triangulaires à filiformes. Pédicelle ≤ 4 mm, sa
+Inflorescences rather lax, hispid, 2-3 distinct orders of branching, bearing up to 20 flowers. Peduncle 4-8 (12) mm. Bracts and bracteoles narrow and triangular to filiform. Pedicel ≤ 4 mm, its upper part generally short, 0.5-1 (2) mm, but distinct, pubescent-tomentellous with often a few hispid hairs.
 
-partie supérieure en général courte, 0,5-1 (2) mm, mais distincte, pubérulent-tomentelleux avec souvent quelques poils hispides.
+Flowers rather large, ≤ 10 mm long, calyx base rounded to obtuse. Sepals erect, loosely spreading or reflexed, slightly united at base, most often narrow and oblong, sometimes elliptic or obovate (3) 4-6 × 1-1.5 (2) mm, apex rounded obtuse to acute, often mucronate; outer face tomentellous to appressed-pubescent and with long hispid hairs; inner face appressed pubescent at least on upper part. Petals black when dry, erect or nearly so, free or adnate to stamens at their base, obovate to narrowly obovate-spatulate, (3.5) 5-7 (8) mm long, split for 1-3.5 mm; outer face most often glabrous; inner face pubescent especially between slit and base; lobes concave. Stamens erect, (4.5) 6-8 (9.5) mm long, glabrous, anthers 0.5 mm, connective prominent. Staminodes free, subquadrate, at most 1 × 1 mm, truncate-emarginate at apex, glabrous or with a few hairs on inner face. Pistil straight, (5) 6-9 (10.5) mm long; ovary subglobose depressed, 3-locular, generally velvety, rarely glabrous; style glabrous, apex 3-lobed.
 
-Fleurs assez grandes, longues de ≤ 10 mm, base du calice arrondie à obtuse. Sépales dressés, lâchement étalés ou réfléchis, légèrement réunis par la base, le plus souvent étroits et oblongs, parfois elliptiques ou obovés (3) 4-6 × 1-1,5 (2) mm, sommet obtus arrondi à aigu, souvent mucronné ; face externe tomentelleuse à apprimée-pubérulente et avec de longs poils hispides ; face interne apprimée pubérulente au moins sur la partie supérieure. Pétales noirs sur le sec, dressés ou presque, libres ou soudés aux étamines par leur base, obovés à étroitement obovés-spatulés, longs de (3,5) 5-7 (8) mm, fendus sur 1-3,5 mm ; face externe le plus souvent glabre ; face interne pubescente surtout entre la fente et la base ; lobes concaves. Étamines dressées, longues de (4,5) 6-8 (9,5), glabres, anthères 0,5 mm, connectif proéminent. Staminodes libres, subcarrés, au maximum 1 × 1 mm, tronqués-émarginés au sommet, glabres ou avec quelques poils sur la face interne. Pistil droit, long de (5) 6-9 (10,5) mm ; ovaire subglobuleux déprimé, 3-loculaire, en général velouté, rarement glabre ; style glabre, sommet 3-lobé.
-
-Fruits le plus souvent(?) 1-spermes, subsphériques à ellipsoïdaux, au maximum  $ 3 \times 2 \times 2 $ cm, apicalés ( $ \leq 1 $ cm), poils hispides brun foncé denses ; exo- et mésocacarpe plutôt minces, au plus 1 mm ; endocarpe parcheminé, lisse, brillant et glabre à l'intérieur. Graines subglobuleuses à ellipsoïdales, diamètre max. 15 mm, testa rugueux brun terne. – Pl. 15, p. 67.
+Fruits most often(?) 1-seeded, subspherical to ellipsoidal, at most $ 3 \times 2 \times 2 $ cm, apiculate ($ \leq 1 $ cm), dense dark brown hispid hairs; exo- and mesocarp rather thin, at most 1 mm; endocarp parchment-like, smooth, shiny and glabrous inside. Seeds subglobose to ellipsoidal, max. diameter 15 mm, testa wrinkled dull brown. – Pl. 15, p. 67.
 
 ## Type
 
@@ -45,15 +41,11 @@ Chalot 13, Brazzaville, Congo
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Gabon, Congo, Zaïre, Angola
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, galeries forestières
+ombrophilous forests, forest galleries
 
 ## Specimens examined
 

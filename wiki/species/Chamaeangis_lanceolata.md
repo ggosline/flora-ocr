@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys lecomtei Finet, Bull. Soc. Bot. France 54, Mém. 9 : 54 (1907).
 
-Feuilles 6-28 × 0,7-2 cm, lancéolées, inégalement bilobées. Inflorescence < 35 cm, et < 50-flore. Fleurs verdâtres ochracées, toujours uniques à chaque nœud. Sépale dorsal, ové-triangulaire à ové-elliptique, subaigu. Pétales triangulaires-ovés. Sépales latéraux obliquement ové-triangulaires à ové-oblongs, acuminés. Labelle 2-3,5 × 1,8-2,2 mm,
-
-triangulaire-lancéolé, ové-triangulaire ou lancéolé, aigu au sommet, glabre. Éperon < 12 mm, étroitement cylindrique, droit, renflé dans la partie supérieure sur environ 3-4 mm, en forme d'ampoule.- Pl. 201, p. 429.
+Leaves 6-28 × 0.7-2 cm, lanceolate, unequally bilobed. Inflorescence < 35 cm, and < 50-flowered. Flowers greenish ochraceous, always solitary at each node. Dorsal sepal, ovate-triangular to ovate-elliptic, subacute. Petals triangular-ovate. Lateral sepals obliquely ovate-triangular to ovate-oblong, acuminate. Labellum 2-3.5 × 1.8-2.2 mm, triangular-lanceolate, ovate-triangular or lanceolate, acute at apex, glabrous. Spur < 12 mm, narrowly cylindrical, straight, inflated in the upper part for approximately 3-4 mm, flask-shaped. – Pl. 201, p. 429.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigeria, Cameroun, Gabon, Congo
+Nigeria, Cameroon, Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. unknown. Epiphyte above lake, in Biafran forest with Calpocalyx heitzii, observed at 40 m above ground
 
-alt. inconnue. Épiphyte au-dessus de lac, en forêt biafréenne à Calpocalyx heitzii, observé à 40 m au-dessus du sol
+MATERIAL EXAMINED (Map 91):
 
-MATÉRIEL ÉTUDIÉ (Carte 91) :
-
-Hallé 1668, 10 km SO de Ndjolé (fl. Avr.), P! ; 2104, 10 km S Lambaréné, Matadi (fl. Mai), P!.
+Hallé 1668, 10 km SW of Ndjolé (fl. Apr.), P! ; 2104, 10 km S Lambaréné, Matadi (fl. May), P!.
 
 Leroy 145, s.loc., P!.
 

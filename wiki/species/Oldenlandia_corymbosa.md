@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 = O. praetermissa Bremek., Verh. K. Nederl. Akad. Wetensch., Afd. Natuurk. sect. 2, 48: 253 (1952).
 
-Herbe rameuse géniculée redressée. Entrenœuds longs de 1-3 cm, glabres, à 4 très fines arêtes. Stipules tronquées à plusieurs dents aiguës ± longuement effilées. Pétiole très court à canal marginé. Limbe microscabre sur les marges, sublinéaire à étroitement elliptique, de 7-20(25) × 1,5-3(5) mm, à extrémités aiguës.
+Branched herb with geniculate, erect internodes. Internodes 1-3 cm long, glabrous, with 4 very fine ridges. Stipules truncate with several acute teeth more or less acutely tapered. Petiole very short with a margined channel. Blade microscabrous on the margins, sublinear to narrowly elliptic, 7-20(25) × 1.5-3(5) mm, with acute apexes.
 
-Inflorescences axillaires (1)2-3(4)-flores, généralement insérées sur un pédoncule commun grêle, long de (1)2-15 mm. Pédicelles accrescents jusqu'à 3-7 mm au-dessus du sommet du pédoncule. Fleurs blanches parfois ± lavées de violet clair. Hétérostylie faible. Calice glabre ou un peu pubescent à 4 lobes aigus, larges à la base, longs de moins de 1 mm. Corolle à tube un peu plus court ou égal aux lobes du calice, à 4 lobes pétalaires ovés de 1-2 mm de long. Gorge pubescente. Étamines ± exsertes. Anthères violacées. Style un peu pubescent.
+Axillary inflorescences (1)2-3(4)-flowered, generally inserted on a slender common peduncle, 1-2-15 mm long. Pedicels accrescent up to 3-7 mm above the apex of the peduncle. Flowers white sometimes more or less washed with pale violet. Weak heterostyly. Calyx glabrous or somewhat pubescent with 4 acute lobes, broad at the base, less than 1 mm long. Corolla with tube slightly shorter than or equal to the calyx lobes, with 4 ovate petaloid lobes 1-2 mm long. Throat pubescent. Stamens more or less exserted. Anthers violaceous. Style somewhat pubescent.
 
-Fruit un peu plus large que long, de 2-3 mm, déhiscent entre les lobes. Petites graines brunes ovales anguleuses de 0,3 mm de long.
+Fruit slightly broader than long, 2-3 mm, dehiscent between the lobes. Small brown oval angular seeds 0.3 mm long.
 
-Lectotype américain.
+American lectotype.
 
-Les échantillons gabonais peuvent être rattachés à la variété microcarpa Bremek. (l. c. 1952); d'un développement un peu moindre, cette variété peut n'être considérée que comme une forme.
+The Gabonese specimens can be referred to the variety microcarpa Bremek. (l. c. 1952); with somewhat less development, this variety may be considered only as a form.
 
-Du Sénégal à l'Afrique orientale, au Soudan et en Angola. Se rencontre dans divers pays tropicaux hors de l'Afrique dont elle serait originaire. Sols sableux plutôt secs.
+From Senegal to East Africa, Sudan and Angola. Found in various tropical countries outside Africa, of which it would be the origin. Rather dry sandy soils.
 
 ## Specimens examined
 

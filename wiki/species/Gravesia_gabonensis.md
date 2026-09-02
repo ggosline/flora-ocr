@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, 0.20 m tall; furfuraceous on young parts, then glabrescent; noticeably anisophyllous; stem solitary, slender, subangular, rooting at lower nodes, internodes up to 2 cm. Leaves unequal on the same pair; petiole slender, 1 to 2.5 cm long; lamina of larger leaves up to 3 × 6.5 cm, elliptic, lanceolate, apex obtuse, glabrescent or with a few very sparse and very short setae above; 3-nerved, veins scarcely visible above, slightly prominent and furfuraceous below; margins practically entire.
 
-Herbe pérenne, haute de 0,20 m; furfuracée sur les parties jeunes, puis glabrescente; sensiblement anisophylle; tige solitaire, grêle, subangulaire, radicante sur les nœuds inférieurs, entrenœuds jusqu'à 2 cm. Feuilles inégales sur la même paire; pétiole grêle, long de 1 à 2,5 cm; limbe des grandes feuilles jusqu'à 3 × 6,5 cm, elliptique, lancéolé, apex obtus, glabrescent ou avec quelques soies très éparses et très courtes au-dessus; 3-nervures peu visibles dessus, légèrement saillantes et furfuracées dessous; marges pratiquement entières.
+Flowers solitary, terminal, generally renewing after 2 sympodial internodes, the oldest thus appearing axillary. Flower 4- or 5-merous; pedicel 5 mm long, slender at base, then more robust at its junction with the hypanthium. Hypanthium-calyx campanulate, 4 × 4 mm, finely furfuraceous; calyx teeth triangular, keeled on the back, 0.7 mm high. Petals pink, 4 × 8 mm, broadly inserted, oblong then acute-
 
-Fleurs solitaires, terminales, se renouvelant généralement après 2 entre-nœuds du sympode, les plus anciennes semblant ainsi axillaires. Fleur 4-ou 5-mère; pédicelle long de 5 mm, grêle à la base, puis plus robuste à son raccordement avec l'hypanthe. Hypantho-calice campanulé, 4 × 4 mm, finement furfuracé; dents du calice triangulaires, carénées sur le dos, hautes de 0,7 mm. Pétales roses, 4 × 8 mm, largement insérés, oblongs puis acu-
+ly acuminate, moderately asymmetric. Stamens homomorphic; anther oblong, 5 mm; connective with a spur 0.8 mm long, truncate to emarginate at its apex. Ovary crowned with 4 or 5 epigynous scales; style linear, 5 mm long; stigma capitate.
 
-minés, modérément asymétriques. Étamines homomorphes; anthère oblongue, 5 mm; connectif avec éperon long de 0,8 mm, tronqué à émarginé à son extrémité. Ovaire couronné de 4 ou 5 écailles épigynes; style linéaire, long de 5 mm; stigmate capité.
-
-Fruit 6 × 6 mm, turbiné et 4- ou 5-côtelé; écailles légèrement saillantes, un peu émarginées; placentas nettement stipités, cymbiformes, portant les longs funicules dont les graines se détachent. Graines cunées-oblongues, longues de 0,8 mm, papilleuses, arillées à la base, 2-vésiculées au sommet. Pl. 20, p. 57.
+Fruit 6 × 6 mm, turbinate and 4- or 5-ribbed; scales slightly prominent, somewhat emarginate; placentas distinctly stipitate, cymbiform, bearing long funicles from which the seeds detach. Seeds cuneate-oblong, 0.8 mm long, papillose, arillate at base, 2-vesiculate at apex. Pl. 20, p. 57.
 
 ## Type
 
@@ -33,9 +31,7 @@ Hallé N. & Le Thomas 376, Gabon (holo-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette description ne porte que sur un seul spécimen. Il est probable que la plante peut atteindre de plus grandes dimensions, avec des cymes pluriflores.
+This description is based on a single specimen only. It is likely that the plant can reach larger dimensions, with pluriflorous cymes.
 
 ## Specimens examined
 

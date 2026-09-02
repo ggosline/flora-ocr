@@ -16,37 +16,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+(synonymy appears under the varieties)
 
-(la synonymie figure sous les variétés)
+Large liana reaching at least 40 m, with basal diameter of 5 cm, climbing to the crown of the tallest trees, but also scandent shrub or shrub; trunk portions trailing on the ground may become rooted. Trunk and branches with prominent lenticels of fairly large size (sometimes arranged in distinct lines on orthotropic shoots), and often superficial grooves; outer zone of the bark greyish or brownish, inner zone and intrusions of the phloem exuding on fresh cut a viscous sticky reddish acid liquid becoming brown to black on drying. Intraligneous phloem absent. Young branches rust-coloured or greyish, appressed pubescence or puberulence early caducous or not.
 
-Grande liane atteignant au moins 40 m, avec diamètre basal de 5 cm, montant jusqu'à la couronne des plus grands arbres, mais aussi arbuste lianescent ou arbuste; les parties du tronc traînant sur le sol peuvent s'enraciner. Tronc et rameaux avec des lenticelles saillantes d'assez grande taille (parfois disposées en lignes distinctes sur les pousses orthotropes), et souvent des cannelures superficielles; zone externe de l'écorce grisâtre ou brunâtre, zone interne et intrusions du phloème exsudant à l'entaille fraîche un liquide visqueux collant acide et rougeâtre devenant brun à noir en séchant. Phloème intraligneux absent. Jeunes rameaux de couleur rouille ou grisâtres, pubescence ou pubérulence apprimée tôt caduque ou non.
+Stipules generally early caducous, subulate to oblong-triangular and narrow, 1–5 mm long, appressed pubescence to puberulence.
 
-Stipules en général tôt caduques, subulées à oblongues-triangulaires et étroites, longues de 1-5 mm, pubescence apprimée à pubérulence.
+Leaves. Petiole hemicylindric often furrowed or canaliculate above, (1) 3–10 (16) mm, appressed pubescence to puberulence early caducous or not. Lamina usually coriaceous, elliptic to obovate and sometimes narrow, (4) 8–14 (22) × (1) 4–8 (11) cm; base cuneate to truncate, margin often decurrent on the petiole; acumen 0.5–1 (2) cm long often obtuse, sometimes subacute or mucronate; primary nervure prominent or not above, more prominent below; secondary nervures the most important, (3) 4–6 (7) pairs; in young state, primary and secondary nervures appressed puberulent or pubescent on both faces and early glabrescent; at the axil of the main secondary nervures, pubescent domatia often present on the lower face; glands often well visible on young fresh leaves, fairly difficult to see when dry, only on the lower face, or only more numerous, fairly scattered, sometimes more concentrated on or just before the acumen, which is then of irregular shape.
 
-Feuilles. Pétiole hémicylindrique souvent sillonné ou canaliculé dessus, (1) 3-10 (16) mm, pubescence à pubérulence apprimée tôt caduque ou non. Limbe habituellement coriace, elliptique à obové et parfois étroit, (4) 8-14 (22) × (1) 4-8 (11) cm ; base cunée à tronquée,
+Inflorescences generally shortly pedunculate with ≤ 4 orders of branching, but most often with only a single clear branching, ≤ 50 flowers; when not clearly branched, they resemble subspheric pedunculate capitula or glomerules; the inflorescences are ± numerous on short axillary aphyllous shoots, appressed puberulent to tomentellose. Peduncle not fused to the petiole, (0) 2–7 (12) mm long. Bracts and bracteoles very reduced < 1 mm, subdeltoid, appressed-puberulent to tomentellose. Pedicel ≤ 5 mm, dense appressed puberulent hairs, upper part ≤ 1 mm.
 
-marge souvent décurrente sur le pétiole ; acumen long de 0,5-1 (2) cm souvent obtus, parfois subaigu ou mucroné ; nervure I proéminente ou non dessus, plus proéminente dessous ; nervures II les plus importantes, (3) 4-6 (7) paires ; à l'état jeune, nervures I et II pubérulentes apprimées ou pubescentes sur les deux faces et tôt glabrescentes ; à l'aisselle des principales nervures II, domaties pubescentes souvent présentes à la face inférieure ; glandes souvent bien visibles sur les jeunes feuilles fraîches, assez difficiles à voir sur le sec, uniquement à la face inférieure, ou seulement plus nombreuses, assez dispersées, parfois plus concentrées sur ou juste avant l'acumen, qui est alors de forme irrégulière.
+Flowers: base of calyx obtuse-truncate; petals stamens and pistil subequal. Sepals erect or nearly so, shortly united by their base, flat or concave often fairly thick, ovate to obovate or oblong, 2.5–4 (5.5) × 1–2 (3) mm; apex subacute to obtuse; outer face with appressed to tomentellose puberulence; inner face same pubescence but partial and less dense. Petals erect, entire or emarginate at the apex, narrow and oblong-obovate or spathulate, 2.5–6 × ≈ 1 mm with base fused to the filaments over 0.5–2.5 mm, glabrous or with a few hairs on the outer and/or inner face; margin sometimes ciliate above the adnation. Stamens 2.5–6 mm, glabrous or with a few hairs on the filaments; anthers ≤ 1 mm, connective prominent. Staminodes oblong, subquadrate, or transversely oblong, ≤ 0.5 × 1 mm, glabrous or with rare hairs. Pistil 3-merous, 2.5–6 (7) mm long; ovary covered with short stiff dense hairs; style glabrous or with a few hairs on the lower part, apex shortly 3-lobed.
 
-Inflorescences en général courtement pédonculées avec ≤ 4 ordres de ramifications, mais avec le plus souvent une seule ramification nette, ≤ 50 flores ; quand elles ne sont pas nettement ramifiées, elles ressemblent à des capitules subsphériques pédonculés ou à des glomérules ; les inflorescences sont ± nombreuses sur de courtes pousses axillaires aphylles, apprimées pubérulentes à tomentelleuses. Pédonculé non soudé au pétiole, long de (0) 2-7 (12) mm. Bractées et bractéoles très réduites < 1 mm, subdeltoïdes, apprimées-pubérulentes à tomentelleuses. Pédicelle ≤ 5 mm, poils apprimés pubérulents denses, partie supérieure ≤ 1 mm.
+Fruits 1–3-lobed, 1–3-seeded; 1-seeded fruits ellipsoid to obovoid or subspherical, most often laterally compressed, 15–25 × 10–20 × 10–18 mm; apex obtuse (a small apicula may be present laterally); surface smooth to weakly blistered (wrinkled or fairly strongly blistered when dry) with dense velvety tomentum, orange at maturity; 2–3-seeded fruits are generally deeply split apically and laterally; on 1-seeded fruits the aborted locules appear as ridges or small masses; exocarp hard, 1–2 mm thick; mesocarp succulent, somewhat fibrous, 1–3 mm thick, adherent to the endocarp; the latter bony, 1–2 mm thick, strongly furrowed externally, smooth and glabrous internally (with internal hairs before maturity). Seeds subellipsoid, laterally compressed, ≈ 10 mm long; testa brown, shiny, strongly veined.
 
-Fleurs : base du calice obtuse-tronquée ; pétales étamines et pistil subégaux. Sépales dressés ou presque, courtement unis par leur base, plats ou concaves souvent assez épais, ovés à obovés ou oblongs, 2,5-4 (5,5) × 1-2 (3) mm ; sommet subaigu à obtus ; face externe avec pubérulence apprimée à tomentelleuse ; face interne même pubérulence mais partielle et moins dense. Pétales dressés, entiers ou émarginés au sommet, étroits et oblongs-obovés ou spatulés, 2,5-6 × ≈ 1 mm à base soudée aux filets sur 0,5-2,5 mm, glabres ou avec quelques poils sur la face externe et/ou interne ; marge parfois ciliée au-dessus de l'adnation. Étamines 2,5-6 mm, glabres ou avec quelques poils sur les filets ; anthères ≤ 1 mm, connectif proéminent. Staminodes oblongs, subcarrés, ou transversalement oblongs, ≤ 0,5 × 1 mm, glabres ou avec de rares poils. Pistil 3-mère, long de 2,5-6 (7) mm ; ovaire couvert de poils courts raides et denses ; style glabre ou avec quelques poils sur la partie inférieure, sommet courtement 3-lobé.
+KEY TO VARIETIES
 
-Fruits 1-3-lobés, 1-3-spermes ; fruits 1-spermes ellipsoïdaux à obo-voïdes ou subsphériques, le plus souvent comprimés latéralement,  $ 15-25 \times 10-20 \times 10-18 $ mm ; sommet obtus (un petit apicule peut être présent latéralement) ; surface lisse à faiblement cloquée (plissée ou assez fortement cloquée sur le sec) avec un tomentum velouté dense, orange à maturité ; les fruits 2-3-spermes sont en général profondément fendus apicalement et latéralement ; sur les fruits 1-spermes les loges
-
-avortées se présentent comme des crêtes ou de petites masses ; exocarpe dur, épais de 1-2 mm ; mésocarpe succulent, un peu fibreux, épais de 1-3 mm, adhérent à l'endocarpe ; celui-ci osseux, épais de 1-2 mm, fortement sillonné à l'extérieur, lisse et glabre à l'intérieur (avec poils internes avant la maturité). Graines subellipsoïdales, comprimées latéralement, longues ≈ 10 mm ; testa brun, brillant, fortement veiné.
-
-CLÉ DES VARIÉTÉS
-
-Fleurs bien développées : pétales et étamines longs de (3,5) 4-6 mm et pistil 4-6 (7) mm var. crassifolium Fleurs bien développées : pétales, étamines et pistil longs de 2,5mm var. integrum
+Well-developed flowers: petals and stamens 4–6 mm long and pistil 4–6 (7) mm var. crassifolium Well-developed flowers: petals, stamens and pistil 2.5 mm long var. integrum
 
 15a. var. crassifolium
 
-BRETELER, MLW 73 (13) : 18, 25, 85, 110, XVI (1973) ; l.c. 78 (10) : 24-30 (1978) ; l.c. 79 (16) : 42, 74 (1979) ; l.c. 81 (10) : 24, 75 (1981) ; l.c. 82 (8) : 25 (1982) ; AUWP 86 (3) : 3, 11, 13, 16, 17, 32 (1986). TYPE : Angola, Pungo Adongo, Welwitsch 4666 (holo-, G ; iso-, BM, BR, COI, K, LISU, P).
+BRETELER, MLW 73 (13): 18, 25, 85, 110, XVI (1973); l.c. 78 (10): 24–30 (1978); l.c. 79 (16): 42, 74 (1979); l.c. 81 (10): 24, 75 (1981); l.c. 82 (8): 25 (1982); AUWP 86 (3): 3, 11, 13, 16, 17, 32 (1986). TYPE: Angola, Pungo Adongo, Welwitsch 4666 (holo-, G; iso-, BM, BR, COI, K, LISU, P).
 
-- Chaileitia crassifolia CHODAT ex Barth, Bull. Herb. Boiss. 4 : 498-500 (1896). - Dichapetalum holopetalum RULH., Bot. Jahrb. 33 : 77, non D. holopetalum MERRILL, 1921 (1902) ; HAUMAN, FZRB 7 : 296 (1958). TYPE : Zaïre, Basankusu, Dewèvre 779 (holo-, BR). - D. brachysepalum ENGL., Wiss. Ergebn. Deutsch. Zent. Afr. Exp. 1907-1908, 2 : 444 (1912). TYPE : Zaïre, Béni près de Muera, Mildbraed 2203 (holo-, B deletion ; lecto-, BM ; isolecto-, B ?). - D. spathulatum ENGL., Wiss. Ergebn. Deutsch. Zent. Afr. Exp. 1907-1908, 2 : 438 (1912) ; HAUMAN, FZRB 7 : 296 (1958). TYPE : Mildbraed 2921 (holo-, delet. ; lecto-, B ; iso-, BM, fragment). - D. malembense PELLEGRIN, Bull. Mus. Hist. Nat. 28 : 90 (1922). TYPE : Gabon, Région de la Nyanga, Malemba, Le Testu 2096 (holo-, P ; iso-, BM, BR, K, WAG). - D. palustre Louis ex Hauman, Bull. Jard. Bot. Brux. 25 : 346 (1955) ; FZRB 7 : 298 (1958). TYPE : Zaïre, Yangolo, Louis 12079 (holo-, BR ; iso-, K, LISU, M, P, SRGH). - var. polyanthum HAUMAN, Bull. Jard. Bot. Brux. 25 : 347 (1955) ; FZRB 7 : 298 (1958). TYPE : Zaïre, Lac Tumba, Elua, Léonard 673 (holo-, BR ; iso-, K, LISC, LISU).
+- Chaileitia crassifolia CHODAT ex Barth, Bull. Herb. Boiss. 4: 498–500 (1896). - Dichapetalum holopetalum RULH., Bot. Jahrb. 33: 77, non D. holopetalum MERRILL, 1921 (1902); HAUMAN, FZRB 7: 296 (1958). TYPE: Zaïre, Basankusu, Dewèvre 779 (holo-, BR). - D. brachysepalum ENGL., Wiss. Ergebn. Deutsch. Zent. Afr. Exp. 1907–1908, 2: 444 (1912). TYPE: Zaïre, Béni près de Muera, Mildbraed 2203 (holo-, B deletion; lecto-, BM; isolecto-, B ?). - D. spathulatum ENGL., Wiss. Ergebn. Deutsch. Zent. Afr. Exp. 1907–1908, 2: 438 (1912); HAUMAN, FZRB 7: 296 (1958). TYPE: Mildbraed 2921 (holo-, delet.; lecto-, B; iso-, BM, fragment). - D. malembense PELLEGRIN, Bull. Mus. Hist. Nat. 28: 90 (1922). TYPE: Gabon, Région de la Nyanga, Malemba, Le Testu 2096 (holo-, P; iso-, BM, BR, K, WAG). - D. palustre Louis ex Hauman, Bull. Jard. Bot. Brux. 25: 346 (1955); FZRB 7: 298 (1958). TYPE: Zaïre, Yangolo, Louis 12079 (holo-, BR; iso-, K, LISU, M, P, SRGH). - var. polyanthum HAUMAN, Bull. Jard. Bot. Brux. 25: 347 (1955); FZRB 7: 298 (1958). TYPE: Zaïre, Lac Tumba, Elua, Léonard 673 (holo-, BR; iso-, K, LISC, LISU).
 
-Pl. 18, fig. 1-11, p. 77.
+Pl. 18, fig. 1–11, p. 77.
 
 ## Type
 
@@ -56,19 +50,15 @@ Klaine 1911, environs de Libreville, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Liberia, Ghana, Nigeria, Cameroon, Gabon, Congo, Central African Republic, Zaïre, Angola, Zambia, Tanzania (var. ? crassifolium)
 
-Libéria, Ghana, Nigéria, Cameroun, Gabon, Congo, Centrafrique, Zaïre, Angola, Zambie, Tanzanie (var. ? crassifolium)
-
-Cameroun, Gabon
+Cameroon, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rainforests and forest galleries. Alt. 0–1700 m
 
-forêts ombrophiles et galeries forestières. Alt. 0-1700 m
-
-forêts ombrophiles
+rainforests
 
 ## Specimens examined
 

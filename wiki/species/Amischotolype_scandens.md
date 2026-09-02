@@ -24,29 +24,21 @@ Gabon, Estuaire, Monts de Cristal, entre Kinguélé et Andok Foula, en remontant
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+F. Flower. – Coleotrype laurentii (Kouilou, Rep. of Congo, Bidault et al. 3019): G. Inflorescences without open flowers. (Photos A-C, E-G by Ehoarn Bidault CC-BY-NC-ND, D by Craig Peter CC-BY-NC).
 
-F. Fleur. – Coleotrype laurentii (Kouilou, Rép. du Congo, Bidault et al. 3019 ) : G. Inflorescences sans fleurs ouvertes. (Photos A-C, E-G par Ehoarn Bidault CC-BY-NC-ND, D par Craig Peter CC-BY-NC).
-
-Dessin par Wil Wessel-Brand, Jardin botanique de Meise (©).
+Drawing by Wil Wessel-Brand, Meise Botanical Garden (©).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale et Gabon ; au Gabon dans les provinces de l’Estuaire et de la Ngounié
+Cameroon, Equatorial Guinea and Gabon; in Gabon in the provinces of Estuaire and Ngounié
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondaire mature hyperhumide de terre ferme en bas-fonds, ou inondable, de bord de rivière, parfois sur sable blanc ; au Gabon entre 50 et 150 m d’altitude, ailleurs de 50 à 500 m. Les fleurs se fanent vers 15 heures
+primary or mature secondary hyperhumid upland forest in lowlands, or flooded areas, riverbanks, sometimes on white sand; in Gabon between 50 and 150 m elevation, elsewhere 50 to 500 m. Flowers wilt around 3 p.m.
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La récolte d’échantillons récents a mis en lumière l’importance de certains caractères non men tionnés par les auteurs précédents ayant travaillé sur les genres Buforrestia, Forrestia et Amischotolype . En particulier, des collections préservées en alcool et, plus récemment, des photographies de plantes vivantes ont permis de séparer clairement de A. tenuis, un taxon à port grimpant, à racines aériennes, à feuilles étroitement elliptiques-ovales et à inflorescences composées de deux cincinni sur un court pédon cule commun, plutôt aplaties et croissant suivant un angle d’environ 60 degrés. Ce taxon désormais bien discriminé, est décrit ici comme A. scandens . A. tenuis s’en distingue par son port jamais grimpant, ne possède pas ou peu de racines aériennes, les feuilles sont plus larges, et les deux cincinni clairement scorpioïdes (surtout lorsqu’ils sont jeunes) croissent généralement dans des directions opposées, donc à 180 degrés
+The collection of recent specimens has highlighted the importance of certain characters not mentioned by previous authors who worked on the genera Buforrestia, Forrestia and Amischotolype. In particular, alcohol-preserved collections and, more recently, photographs of living plants have made it possible to clearly separate from A. tenuis a taxon with climbing habit, aerial roots, narrowly elliptic-ovate leaves and inflorescences composed of two cincinni on a short common peduncle, rather flattened and growing at an angle of approximately 60 degrees. This now well-discriminated taxon is described here as A. scandens. A. tenuis is distinguished from it by its non-climbing habit, lacking or with few aerial roots, the leaves are broader, and the two cincinni clearly scorpioid (especially when young) generally grow in opposite directions, thus at 180 degrees
 
 ## Notes
 

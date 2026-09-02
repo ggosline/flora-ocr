@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace, en touffe lâche, avec un court rhizome rampant ; tiges de 20‒70 cm × 0,3‒1,3 mm, triangulaires à angles ± aigus, glabres sauf sous l’inflorescence . Feuille à gaine foliaire habituellement longue de 1‒3 cm, moulante, généralement glabre sauf sous la gorge, les basales souvent plus larges et sans limbes ; ligule tubuleuse, brunâtre au bord, poilue ; limbe de 5‒70 × 1‒4 mm, plan ou plié, glabre ou scabre sur les marges près de l’extrémité, mais parfois avec des poils plus longs sur la marge et la nervure centrale, avec de grandes cellules rectangulaires sur la face supérieure. Inflorescence formée d’une ou plusieurs groupes sessiles ou pédonculés d’épillets, chaque groupe compte habituellement 2‒8 épillets ; bractées inférieures de l’inflorescence semblables aux feuilles supérieures. Épillet long de 4‒8 mm lors de la floraison, s’allongeant jusqu’à 13 mm lors de la fructification , sessile mais pouvant apparaître pédonculé lorsque les glumes inférieures sont tombées ; glumes normalement disposées en rangées longitudinales très distinctes ; rachis très irrégulier ; glumes largement lancéolées, longues de 2,1‒2,6 mm, brun rougeâtre à noirâtres, rarement brun pâle, densément garnies de poils courts , à marge ciliée, nervure médiane pâle et souvent verdâtre, prolongée par une arête rigide, généralement droite et scabre. Fleur : périanthe à 6 soies avec des barbes rétrorses , plus courtes ou plus longues que l’akène ; 3 étamines. Akène 1,1‒1,7 × 0,5‒0,7 mm, lisse, brun foncé à maturité.
+Perennial herb, in loose tufts, with a short creeping rhizome; stems 20–70 cm × 0.3–1.3 mm, triangular with ± acute angles, glabrous except beneath the inflorescence. Leaf with leaf sheath usually 1–3 cm long, clasping, generally glabrous except beneath the mouth, the basal ones often wider and without blades; ligule tubular, brownish at the margin, hairy; blade 5–70 × 1–4 mm, plane or folded, glabrous or scabrous on the margins near the apex, but sometimes with longer hairs on the margin and central nerve, with large rectangular cells on the upper surface. Inflorescence formed of one or more sessile or pedunculate groups of spikelets, each group usually comprising 2–8 spikelets; lower bracts of the inflorescence similar to the upper leaves. Spikelet 4–8 mm long at anthesis, elongating to 13 mm at fruiting, sessile but appearing pedunculate when the lower glumes have fallen; glumes normally arranged in very distinct longitudinal rows; rachis very irregular; glumes broadly lanceolate, 2.1–2.6 mm long, reddish-brown to blackish, rarely pale brown, densely furnished with short hairs, ciliate at the margin, midvein pale and often greenish, prolonged by a rigid awn, generally straight and scabrous. Flower: perianth with 6 retrorsely barbed setae, shorter or longer than the achene; 3 stamens. Achene 1.1–1.7 × 0.5–0.7 mm, smooth, dark brown at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique tropicale y compris Madagascar et les Mascareignes ; très rare au Gabon, trouvée seulement dans l’Ogooué-Ivindo (3 récoltes)
+Widely distributed in tropical Africa including Madagascar and the Mascarene Islands; very rare in Gabon, found only in Ogooué-Ivindo (3 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+In marshes and wet depressions of savannas, grasslands and forest clearings; in Gabon, at 100–500 m altitude, up to 2850 m in East Africa. Taxonomic note: very characteristic, easily identified by its perianth with 6 scabrous setae. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
-dans les marécages et les dépressions humides des savanes, prairies et clairières des forêts ; au Gabon, à 100‒500 m d’altitude, jusqu’à 2850 m en Afrique de l’Est. Note taxonomique : très caractéristique, facilement identifiée par son périanthe à 6 soies scabres. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
-
-Section d’une tige. – C. Partie d’une inflorescence. Inflorescence. – C. Épillet. – D. Partie du rachis. – – D. Épillet. – E. Glume. – F. Fleur. – G. Fruit avec E. Glume avec sa fleur. – F, G. Fleur entre 2 écailles segments persistants du périanthe. Dessin original membraneuses. – H. Fruit avec style persistant. par Richard W. Haines ©. Dessin original par Richard W. Haines ©.
+Section of a stem. – C. Part of an inflorescence. Inflorescence. – C. Spikelet. – D. Part of the rachis. – – D. Spikelet. – E. Glume. – F. Flower. – G. Fruit with E. Glume with its flower. – F, G. Flower between 2 membranous scales segments of persistent perianth. Original drawing by Richard W. Haines ©. Original drawing by Richard W. Haines ©.
 
 ## Notes
 

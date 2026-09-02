@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with cylindrical branchlets, with brown or brownish-yellow reticulate bark. Leaves 9–11 cm by 3.5–4.5 cm wide, more or less asymmetrical, slightly oblique, with a well-marked acumen, 10–15 mm long, 2 mm wide, acutely triangular at the apex; petiole glabrescent-scabrous or bearing scattered scabrous hairs whose bases persist.
 
-Arbrisseau à rameaux cylindriques, à écorce réticulée brune ou brun-jaune. Feuilles de 9-11 cm sur 3,5-4,5 de large, plus ou moins asymétrique, peu oblique, à acumen bien marqué, de 10-15 mm de long, 2 mm de large, triangulaire aigu au sommet; pétiole glabrescent-rude ou muni de poils scabres épars dont les bases subsistent.
+Flower unknown. Fruit borne on a peduncle of ca. 5 mm, spherical, 15–18 mm in diameter, striated, bearing a few short hairs, red, surmounted by a long sleeve (8 mm) formed by the base of the perianth tube.
 
-Fleur inconnue. Fruit porté par un pédoncule de 5 mm env., sphérique, de 15-18 mm de diamètre, strié, muni de quelques poils courts, rouge, surmonté par un long manchon (8 mm) formé par la base du tube du périgone.
+N. Hallé: 860, Atok-Fina, Monts de Cristal (f., one fr.).
 
-N. Hallé : 860, Atok-Fina, Monts de Cristal (f., un fr.).
-
-Par son fruit, cette plante rappellerait le D. pyramidalis Gilg (taxon connu seulement par un mérotype très incomplet), mais elle en diffère par son type de pubescence. Elle diffère de D. Baertsiana par la forme des feuilles, beaucoup moins ovales et à acumen nettement plus large.
+By its fruit, this plant would recall D. pyramidalis Gilg (taxon known only from a very incomplete merotype), but it differs from it by its type of pubescence. It differs from D. Baertsiana by the form of the leaves, much less ovate and with a distinctly broader acumen.
 
 ## Notes
 

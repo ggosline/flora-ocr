@@ -17,43 +17,37 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-TYPE : Gabon, Oyem (fl.) Le Testu 9284 (holo-P ; iso-BM, BR).
+TYPE: Gabon, Oyem (fl.) Le Testu 9284 (holo-P; iso-BM, BR).
 
 Liane.
 
-Feuilles opposées ; pétiole ≤ 1,5 cm long ; limbe elliptique-ové, ≤ 11 × ≤ 6 cm, face inférieure munie d'écailles bien visibles : une partie d'entre elles sont imprimées, en particulier dans la moité externe du limbe ; grandes nervures latérales 15-25 paires, domaties à peine visibles ; base du limbe subcordée à arrondie ; sommet aigu à courtemment acuminé.
+Leaves opposite; petiole ≤ 1.5 cm long; blade elliptic-ovate, ≤ 11 × ≤ 6 cm, lower surface bearing conspicuous scales: some of them are impressed, particularly in the outer half of the blade; major lateral nerves 15–25 pairs, domatia scarcely visible; base of blade subcordate to rounded; apex acute to shortly acuminate.
 
-Écailles diamètre 120 µm, parfois beaucoup plus grandes.
+Scales diameter 120 µm, sometimes much larger.
 
-Inflorescences : panicules ≤ 15 cm, axillaires ou terminales ; bractées ovées, ≤ 5 × ≤ 3 mm.
+Inflorescences: panicles ≤ 15 cm, axillary or terminal; bracts ovate, ≤ 5 × ≤ 3 mm.
 
-Fleurs 4-mères, sessiles, non protogynes. Réceptacle pubérulent : l'inférieur haut de 1-2 mm, le supérieur haut de 4-6 mm infundibuliforme. Calice : lobes deltoïdes, longs de 1 mm. Pétales  $ 2 \times 2 $ mm, glabres, jaunes à blancs. Étamines exsertes de 2-3 mm ; filets blancs ; anthères longues de 0,8-1 mm. Style exsert de 3 mm.
+Flowers 4-merous, sessile, not protogynous. Receptacle puberulent: the lower one 1–2 mm tall, the upper one 4–6 mm tall, infundibuliform. Calyx: lobes deltoid, 1 mm long. Petals 2 × 2 mm, glabrous, yellow to white. Stamens exserted 2–3 mm; filaments white; anthers 0.8–1 mm long. Style exserted 3 mm.
 
-Fruit, profil subcirculaire (mais sommet et base nettement émarginés), long et large de ≤ 7 cm, ailes papyracées, glabre, hormis d'abondantes écailles ; stipe ≤ 2 cm ; prolongement apical ≤ 1 cm. – Pl. 18, p. 65.
+Fruit, subcircular in profile (but apex and base distinctly emarginate), ≤ 7 cm long and wide, wings papyraceous, glabrous except for abundant scales; stipe ≤ 2 cm; apical prolongation ≤ 1 cm. – Pl. 18, p. 65.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liberia, Ghana, Cameroun, Gabon et Congo (Brazzaville)
+Liberia, Ghana, Cameroon, Gabon and Congo (Brazzaville)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dense humid forests, altitude ≤ 400 m
 
-Forêts denses humides, altitude ≤ 400 m
+Breteler & de Wilde 255, near Mbé R, ca 22 km NE of Assok (fl., Aug.), BR, C, LBV, MO, P, WAG.
 
-Breteler & de Wilde 255, près de Mbé R, ca 22 km NE de Assok (fl., Août), BR, C, LBV, MO, P, WAG.
+Breteler 6660, km 7 Lastoursville–Moanda, 0°52'S–12°43'E (fl., Sept.), MO, WAG.
 
-Breteler 6660, km 7 Lastoursville-Moanda, 0°52'S-12°43'E (fl., Sept.), MO, WAG.
+Fleury in Chevalier 26300, environs of Atséi, near Lamaréné (fl., Aug.), P.
 
-Fleury in Chevalier 26300, environs de Atséi, près de Lamaréné (fl., Août), P.
+Le Testu 6321, Ndingui, 1°27'S–11°58'E (fl., Oct.), B, BM, BR, K, MO, P; 7060, Lastoursville, 0°50'S–12°43'E (fl., Mar.), BM, BR, P; 7243, (fl., Mar.), BM, BR, FHO, K, MO, P; 8057, Levata, 1°41'S–12°35'E (fl., Apr.), BM, BR, FHO, K, MO, P; 9284, Oyem, 1°37'N–11°35'E (fl., Sept.), BM, BR, P (type).
 
-Le Testu 6321, Ndingui, 1°27'S-11°58'E (fl., Oct.), B, BM, BR, K, MO, P; 7060, Lastoursville, 0°50'S-12°43'E (fl., Mars), BM, BR, P; 7243, (fl., Mars), BM, BR, FHO, K, MO, P; 8057, Levata, 1°41'S-12°35'E (fl., Avril), BM, BR, FHO, K, MO, P; 9284, Oyem, 1°37'N-11°35'E (fl., Sept.), BM, BR, P (type).
-
-Wilks MINK 21, Minkébé, 1°30'N-12°48'E (fr., Fév.), WAG.
+Wilks MINK 21, Minkébé, 1°30'N–12°48'E (fr., Feb.), WAG.
 
 M. Allard del.
 

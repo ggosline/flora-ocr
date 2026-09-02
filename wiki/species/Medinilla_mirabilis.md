@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Adansonia, sér. 2, 17 (1) : 78 (1977); Fl. Cam. 24 : 112, tab. 38 (1983).
 
 — Myrianthemum mirabile GILG, Pflanzenfam., Nachtr.: 266 (1897).
 
-Arbrisseau glabre, souvent pourpré dans ses différentes parties, peu ramié, traînant, ou genouillé et appuyé; tige arrondie, ligneuse à la base, monopodiale. Feuilles ± alternes à la base, puis subverticillées, coriaces; pétiole arrondi, long de 15 à 20 mm; limbe elliptique, 10-15 × 20-30 cm; marges entières à très lâchement et obscurément dentées; 3 nervures principales imprimées dessus, saillantes dessous, les additionnelles peu visibles; réseau tertiaire seulement visible dessous.
+Shrub glabrous, often purplish in its various parts, sparsely branched, trailing, or geniculate and decumbent; stem rounded, woody at the base, monopodial. Leaves ± alternate at the base, then subwhorled, coriaceous; petiole rounded, 15 to 20 mm long; lamina elliptic, 10–15 × 20–30 cm; margins entire to very laxly and obscurely dentate; 3 principal veins impressed above, prominent below, the additional ones scarcely visible; tertiary network only visible below.
 
-Cymes apparaissant sur les nœuds défeuillés de la base, puis se renouvelant sur les nœuds polycarpiques du vieux bois, principalement au ras du sol; fasciculées, de 1 à 2 fois ramiifiées et totalisant un grand nombre de fleurs; bractées aciculaires, longues de 0,5 mm. Fleurs à pédicelle grêle de 3 à 5 cm; hypanthe globulo-ellipoïde, 3,5 × 4,5; calice patellé, 4,5 × 2 mm, 4-siné. Pétales roses, légèrement charnus, largement ovales à suborbiculaires, sans onglet, 3 × 7 mm. Étamines dimorphes, les externes à anthère de 5 mm, linéaire, un peu sigmoïde de profil; appendices antérieurs subulés, projetés en avant, longs de 2 mm, talon postérieur obsolète; filet de 5 mm; les internes à anthère étroitement ellipsoïde, longue de 3 mm; appendices antérieurs courts, tronqués à obtus, éperon subulé, long de 0,5 mm; filet 4 mm. Ovaire entièrement soudé à l'hypanthe; style long de 7 mm, légèrement sigmoïde, dilaté vers le haut et stigmate tronqué; placentas stipités, fertiles sur toute leur surface.
+Cymes appearing on the defoliate nodes of the base, then renewing on the polycarpic nodes of the old wood, mainly at ground level; fasciculate, 1 to 2 times branched and totalling a large number of flowers; bracts acicular, 0.5 mm long. Flowers with slender pedicel 3 to 5 cm; hypanthium globose-ellipsoid, 3.5 × 4.5; calyx patellate, 4.5 × 2 mm, 4-sinuate. Petals pink, slightly fleshy, broadly oval to suborbicular, without claw, 3 × 7 mm. Stamens dimorphic, the outer ones with anther 5 mm, linear, somewhat sigmoid in profile; anterior appendages subulate, projected forward, 2 mm long, posterior callus obsolete; filament 5 mm; the inner ones with narrowly ellipsoid anther, 3 mm long; anterior appendages short, truncate to obtuse, spur subulate, 0.5 mm long; filament 4 mm. Ovary entirely adnate to the hypanthium; style 7 mm long, slightly sigmoid, dilated toward the apex and stigma truncate; placentas stipitate, fertile over their entire surface.
 
-Fruit urcéolé, 6 mm de diamètre. Graines largement cunéiformes,  $ 0,2 \times 0,8 $ mm. — Pl. 39, p. 105.
+Fruit urceolate, 6 mm in diameter. Seeds broadly cuneiform, 0.2 × 0.8 mm. — Pl. 39, p. 105.
 
 ## Type
 
@@ -37,9 +35,7 @@ Mann 302, Fernando Po (holo-, K; iso-, P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce assez commune, mais dispersée dans la forêt équatoriale occidentale
+Species fairly common, but scattered in the western equatorial forest
 
 ## Specimens examined
 

@@ -16,27 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Hook., Niger Fl . : 511 (1849). Arbuste ou petit arbre de 1–5(–8) m de hauteur ; rameaux parfois épineux ; ramilles à tomentum brun clair à brun roux, longtemps persistant. Stipules étroitement triangulaires, 3–5 mm de longueur, pubescentes, caduques ou parfois subpersistantes. Feuille à pétiole de 4–8 mm ; limbe obovale-elliptique ou oblong à ovale, (4–)7–12(–14) × (2–)3–6(–7,5) cm, arrondi à faiblement cordé à la base, aigu à arrondi ou courtement acuminé au sommet , ± coriace , face supérieure pubescente puis tardivement glabrescente, face infé rieure hirsute ; nervures latérales (7–)8–10(–11) paires, confluentes en une nervure marginale , nervures tertiaires proéminentes ainsi que le réseau des nervilles. Inflores cence : glomérules multiflores, très denses ; bractées petites, ciliées, tomenteuses. Fleur bien épanouie, 5–6 mm de diamètre . Fleur mâle : pédicelle 1–1,5(–2) mm, tomentel leux ; sépales 1,5–2 mm de longueur, tomenteux ; pétales obdeltoïdes, 0,5–1,2 mm de longueur, souvent découpés au sommet ; disque glabre ; androgynophore ± 0,5(–1) mm ; pistillode 0,5 mm de longueur, glabre. Fleur femelle subsessile ; sépales 1,5 mm de lon gueur, tomenteux à la face externe ; pétales ovales-elliptiques, 0,5(–1) mm de longueur, à marges ondulées ; disque interne pubescent. Fruit oblong ou parfois subglobuleux, 5–9 × 5 mm, noir à maturité.
+in Hook., Niger Fl. : 511 (1849). Shrub or small tree 1–5(–8) m tall; branches sometimes spiny; branchlets with light brown to reddish-brown tomentum, long-persistent. Stipules narrowly triangular, 3–5 mm long, pubescent, caducous or sometimes subpersistent. Leaf with petiole 4–8 mm; blade obovate-elliptic or oblong to ovate, (4–)7–12(–14) × (2–)3–6(–7.5) cm, rounded to weakly cordate at base, acute to rounded or shortly acuminate at apex, ± coriaceous, upper surface pubescent then tardily glabrescent, lower surface hirsute; lateral veins (7–)8–10(–11) pairs, confluent into a marginal vein, tertiary veins prominent as well as the network of veinlets. Inflorescence: multiflorous glomerules, very dense; bracts small, ciliate, tomentose. Flower when fully open, 5–6 mm in diameter. Male flower: pedicel 1–1.5(–2) mm, tomentellous; sepals 1.5–2 mm long, tomentose; petals obdeltoid, 0.5–1.2 mm long, often cut at apex; disk glabrous; androgynophore ± 0.5(–1) mm; pistillode 0.5 mm long, glabrous. Female flower subsessile; sepals 1.5 mm long, tomentose on outer surface; petals ovate-elliptic, 0.5(–1) mm long, with undulate margins; internal disk pubescent. Fruit oblong or sometimes subglobose, 5–9 × 5 mm, black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-du Mali et Guinée jusqu’à la République Centrafricaine, Cameroun, Ga bon, la République du Congo, la République Démocratique du Congo et l’Angola ; au Gabon, connue de l’Estuaire, de la Ngounié, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et de l’Ogooué-Maritime
+from Mali and Guinea to the Central African Republic, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from Estuaire, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savane, parfois dans les galeries forestières ; au Gabon, à 0–800 m d’altitude
+savanna, sometimes in forest galleries; in Gabon, at 0–800 m elevation
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’écorce, les feuilles et les racines sont utilisées en décoction contre plusieurs maladies, notamment la dysenterie et la diarrhée. Le tannin de l’écorce sert à noircir les marmites en terre cuite
+The bark, leaves and roots are used in decoction against several diseases, notably dysentery and diarrhea. The tannin from the bark serves to blacken earthenware pots
 
 ## Vernacular names
 

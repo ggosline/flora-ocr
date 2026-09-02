@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Abildgaardia cardiocarpoides (Cherm.) Lye, Bot. Not. 127 : 495 (1974). Perennial herb, in low tufts with young shoots emerging from old stems generally rotted or burned; stems 6‒20 cm × 0.4‒0.5 mm, glabrous. Leaf: sheath pale brown or reddish, glabrous, with at the collar numerous hairs 3‒5 mm long; blade
 
-Abildgaardia cardiocarpoides (Cherm.) Lye, Bot. Not. 127 : 495 (1974). Herbe pérenne, en touffe basse avec les jeunes pousses émergeant des vieilles tiges généralement pourries ou brûlées ; tiges de 6‒20 cm × 0,4‒0,5 mm, glabres . Feuille : gaine brun pâle ou rougeâtre, glabre, avec au collet, de nombreux poils longs de 3‒5 mm ; limbe
-
-a b Akène de 0,8‒1 × 0,6‒0,7 mm, brun pâle ; surface presque lisse, brillante ; base persistante du style souvent noirâtre.
+a b Achene 0.8‒1 × 0.6‒0.7 mm, pale brown; surface nearly smooth, shiny; persistent base of style often blackish.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Gabon, République Démocratique du Congo, Ouganda et Madagascar ; rare au Gabon, trouvée dans l’Estuaire, l’Ogooué-Maritime, le Moyen-Ogooué et la Ngounié (5 récoltes)
+Gabon, Democratic Republic of the Congo, Uganda and Madagascar; rare in Gabon, found in Estuaire, Ogooué-Maritime, Moyen-Ogooué and Ngounié (5 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les savanes, près des marécages et sur les terrains perturbés, comme les bords de route, aussi bien sur des sols latéritiques que sableux ; au Gabon, jusqu’à 200 m environ, et jusqu’à 1180 m en Afrique de l’Est. Note taxonomique : Les touffes grêles et les épillets aigus étalés avec des glumes aiguës permettent de la distinguer des autres espèces à inflorescences capitées. B : Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et ibliographie al. (2010)
+in savannas, near swamps and on disturbed ground, such as roadsides, on both lateritic and sandy soils; in Gabon, up to approximately 200 m, and up to 1180 m in East Africa. Taxonomic note: The slender tufts and acute spikelets spread with acute glumes make it possible to distinguish it from other species with capitate inflorescences. B: Goetghebeur & Coudijzer (1984b), Haines & Lye (1983), Hoenselaar et al. (2010)
 
 ## Notes
 

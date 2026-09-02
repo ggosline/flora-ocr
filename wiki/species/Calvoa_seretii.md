@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— C. wildemaniana Exell, Journ. Bot., Suppl. Polypet.: 181 (1929); A. & R. Ferrandes, Consp. Fl. Angol. 4: 163 (1970). TYPE: Gossweiler 7823, Cabinda (BM).
 
-— C. wildemaniana Exell, Journ. Bot., Suppl. Polypet.: 181 (1929); A. & R. Ferrandes, Consp. Fl. Angol. 4: 163 (1970). TYPE : Gossweiler 7823, Cabinda (BM).
+Suffrutescent herb, perennial, with sympodial growth, sometimes a shrublet 0.30 m tall; branches 4-angled, finely winged, slender, 1.5 to 2 mm in diameter. Leaves with petiole 5 mm, flattened-winged; blade whitish, very cuneate and decurrent on the petiole, cuneate at the apex, 1–1.5 × 4–5 cm, margins variably serrate; 1–3-nerved, the converging nerves being barely visible.
 
-Herbe subligneuse, pluriannuelle, à croissance sympodiale, parfois arbrisseau haut de 0,30 m; rameaux 4-angulaires, finement ailés, grêles, 1,5 à 2 mm de diamètre. Feuilles à pétiole de 5 mm, aplati-ailé; limbe blancé, très en coin et décurrent sur le pétiole, en coin au sommet, 1-1,5 × 4-5 cm, marges variablement serretées; 1-3-nervié, les convergentes étant peu visibles.
+Terminal cymes, rarely bifurcate, up to 5 cm long and 5–6-flowered, often reduced to 2–3 flowers. Flowers sessile; hypanthium obconic, 3 mm wide for 2.5 mm in height; calyx lobes narrowly triangular, thick, carinate. Petals pink, 9 mm long, apiculate. Stamens slightly unequal: the outer ones with anther 1.2 mm; connective appendage 0.2 mm, narrowly emarginate-bilobed; filament 2.3 mm; the inner ones with anther 1 mm; connective appendage 0.2 mm, appendage more developed, broader, 0.5 mm long; filament 1.8 mm; the spur is identical on both whorls. Ovary, with its corona, equaling half the height of the hypanthium; style 3 mm, inflated in the middle, curved hook-like at the apex, stigma penicillate.
 
-Cymes terminales, rarement bifurquées, longues jusqu'à 5 cm et 5-6 flores, souvent réduites à 2-3 fleurs. Fleurs sessiles; hypanthe obconique, 3 mm de large pour 2,5 mm de hauteur; lobes du calice étroitement triangulaires, épais, carénés. Pétales roses, longs de 9 mm, apiculés. Étamines légèrement inégales : les externes à anthère de 1,2 mm; pédoconnectif 0,2 mm, appendice étroitement échancré-bilobé; filet 2,3 mm; les internes à anthère de 1 mm; pédoconnectif 0,2 mm, appendice plus développé, plus large, long de 0,5 mm; filet 1,8 mm; l'éperon est identique sur les 2 verticilles. Ovaire, avec sa couronne, égal à la demi-hauteur de l'hypanthe; style 3 mm, renflé dans son milieu, recourbé en crosse au sommet, stigmate pénicillé.
-
-Fruit largement obconique, 6 mm de diamètre et haut de 5 mm avec la couronne saillante, chaque lobe charnu, rédupliqué, marge arrondie puis émarginée; loges déhiscentes sur toute leur hauteur. Graines peu nombreuses, oblongues, longues de 0,8 mm; raphé peu dilaté. — Pl. 23, p. 65.
+Fruit broadly obconic, 6 mm in diameter and 5 mm in height with the prominent corona, each lobe fleshy, reduplicate, margin rounded then emarginate; locules dehiscent over their entire height. Seeds few, oblong, 0.8 mm long; raphe slightly dilated. — Pl. 23, p. 65.
 
 ## Type
 
@@ -33,9 +31,7 @@ Seret 1069, Zaïre (BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce forestière des sols boueux, dont l'aire s'étend sur le Zaïre occidental, le Congo et le Gabon. Comme beaucoup de Calvoa, elle peut fleurir dès la première année, avant que la plante ne soit encore bien développée.
+Forest species of muddy soils, whose range extends over western Zaire, Congo and Gabon. Like many Calvoa, it can flower in the first year before the plant is yet well developed.
 
 ## Specimens examined
 

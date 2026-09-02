@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Woody liana exceeding 20 m in height and containing rubber; branchlets reddish rugose. Petiole 9–14 mm. Blade subcoriaceous, brownish when dry, slightly greyish dull above, 8–16(19) × 4–8(10) cm; base acute briefly subcuneate to rounded; apex shortly acuminate; margin entire slightly irregular. Midrib not prominent above; 6–8(9) pairs of secondary nerves long-arched; intersecondary nerves subperpendicular, numerous and well-apparent.
 
-Liane ligneuse glabre dépassant 20 m de hauteur et contenant du caoutchouc ; rameaux rougeâtres ruguleux. Pétiole de 9-14 mm. Limbe subcoriace, brunâtre à sec, dessus un peu grisâtre terne, de 8-16(19) × 4-8(10) cm ; base aiguë brièvement subcunéiforme à arrondie ; sommet brièvement acuminé ; marge entière un peu irrégulière. Nervure médiane sans relief dessus ; 6-8(9) paires de nervures secondaires lon-
-
-guement arquées ; intersecondaires subperpendiculaires, nombreuses et bien apparentes.
-
-Cymes axillaires par paires, longues de 3,5-9 cm, brun roux à sec, multiflores, à pédoncule de 15-42 cm, à axes robustes, ruguleux squameux à sec, à bractées deltoïdes de 1 mm. Pédicelles de 1-2,5 mm. Boutons globuleux de 2-3 mm de diamètre. Fleurs étalées de 6-7 mm de diamètre, blanches, puis jaunes devenant brun clair, agréablement odorantes. Calice vert pâle à sépales quinconciaux un peu inégaux semi-orbiculaires, entiers, larges de 1-1,7 mm. Pétales oblonges à subspatulés, de 2,5-3 × 1,5 mm, subcharnus à bord distal aminci. Étamines 5 incurvées à saillie externe à la base du filet. Ovaire triloculaire à stigmate trilobé subsessile. Ovules 8-10 bisériés par loge. Fruit non connu. - Pl. 76, fig. 11-20, p. 271.
+Axillary cymes in pairs, 3.5–9 cm long, reddish-brown when dry, many-flowered, with peduncle 15–42 cm, with stout squamose-rugose axes when dry, with deltoid bracts 1 mm. Pedicels 1–2.5 mm. Buds globose 2–3 mm in diameter. Flowers spreading 6–7 mm in diameter, white then yellow becoming light brown, pleasantly scented. Calyx pale green with quincuncial sepals somewhat unequal semi-orbicular, entire, 1–1.7 mm wide. Petals oblong to subspatulate, 2.5–3 × 1.5 mm, subchartaceous with attenuated distal margin. Stamens 5 incurved with external projection at the base of the filament. Ovary trilocular with trilobed subsessile stigma. Ovules 8–10 biseriate per locule. Fruit unknown. – Pl. 76, fig. 11–20, p. 271.
 
 ## Type
 
@@ -37,25 +33,23 @@ Warnecke 157, Togo (iso-, K!); 302, Togo (iso-, BR!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, unlike the three preceding ones, is more readily recognizable and more specifically isolated. The etymology is Greek, from mitos, thread, and phoreo, I bear.
 
-Cette espèce, contrairement aux trois qui précèdent est plus aisément reconnaissable et plus isolée spécifiquement. L'étymologie est grecque, de mitos, fil, et phoreo, je porte.
+Cameroon, Gabon and Fernando Po. Dense forest, raphial.
 
-Cameroun, Gabon et Fernando Po. Forêt dense, raphiale.
+Liberia, Côte-d'Ivoire, Cameroon, Cabinda, Central African Republic, Zaire, Angola, Uganda. To be sought in Gabon. Savanna margins, forest galleries, bosquets and rocky hills; heliophilous plant. To be sought in Gabon.
 
-Liberia, Côte-d'Ivoire, Cameroun, Cabinda, Centrafrique, Zaïre, Angola, Ouganda. A rechercher au Gabon. Lisières de savanes, galeries forestières, bosquets et collines rocheuses ; plante héliophile. A rechercher au Gabon.
+MATERIAL EXAMINED (Cameroon):
 
-MATÉRIEL ÉTUDIÉ (Cameroun):
+Bos 4353, Nkolbisson, 8 km W Yaoundé, 1,000 m, 19.4.1969 (fl.).
 
-Bos 4353, Nkolbisson, 8 km W Yaoundé, 1 000 m, 19.4.1969 (fl.).
-
-Breteler 1714, Dimako, 28 km SW Bertoua, 650 m, 31.7.1961 (fl., bois); 2978, 35 km W Bertoua, route Nanga Eboko, 700 m, 17.5.1962 (fl.).
+Breteler 1714, Dimako, 28 km SW Bertoua, 650 m, 31.7.1961 (fl., wood); 2978, 35 km W Bertoua, route Nanga Eboko, 700 m, 17.5.1962 (fl.).
 
 De Wilde W.c.s. 2288, Nkolbisson, 650 m, 19.4.1964 (fl.); 3754, ibid., 600 m, 3.11.1964 (fl.).
 
-Leeuwenberg 5910, 10 km N Ndemba II, 30 km N du km 29 route Bertoua-Nanga Eboko, 670 m, 16.6.1965 (i. bout.).
+Leeuwenberg 5910, 10 km N Ndemba II, 30 km N of km 29 route Bertoua–Nanga Eboko, 670 m, 16.6.1965 (i. bud.).
 
-Letouzey 12187, rocher Ekok Edanbawa, 110 km SW Yokadouma, 29.3.1973 (fl.).
+Letouzey 12187, Ekok Edanbawa rock, 110 km SW Yokadouma, 29.3.1973 (fl.).
 
 Letouzey & Villiers J.-F. 10539, 30 km WSW Kinsassa, 65 km NNE Moloundou, route Yokadouma, 500 m, 10.3.1971 (fl.).
 
@@ -69,17 +63,17 @@ Bot. Centralbl. 11 (5): 344 (1901); LOES., Notizbl. Bot. Gart. Berlin 13: 571 (1
 
 - Campylostemon pynaertii DE WILD., Ann. Mus. Congo belge, Bot., sér. 5, 2: 41 (1907).
 
-Liane ligneuse dépassant 5-6 m de hauteur, voisine de la précédente. Pétiole de (4)6-12(14) mm. Limbe ovale souvent assez large, de 6-13 × 3-10 cm, chartacé denté, olivacé ou brun olivâtre à sec ; base ± arrondie ; sommet avec un acumen court ou peu distinct. Nervures secondaires 5-8 paires arquées ascendantes.
+Woody liana exceeding 5–6 m in height, close to the preceding. Petiole (4)6–12(14) mm. Blade oval often rather broad, 6–13 × 3–10 cm, chartaceous denticulate, olivaceous or brown-olivaceous when dry; base ± rounded; apex with a short or scarcely distinct acumen. Secondary nerves 5–8 pairs arched ascending.
 
-Inflorescences en cymes de 2-4(5) cm ; pédoncule quadrangulaire non ailé. Bractées réduites 1(2) mm, rarement jusqu'à 3 mm. Bouton globuleux de 1,5-2 mm de diamètre. Fleurs étalées de 3,5-5,5 mm de diamètre, blanches à orangées puis brunâtres. Sépales 5 aigus ou subaigus, entiers ou paucidenticulés. Pétales oblongs de 2 × 1 mm, un peu anguleux et non spatulés. Ovules 6-8 par loge.
+Inflorescences in cymes 2–4(5) cm; peduncle quadrangular not winged. Bracts reduced 1(2) mm, rarely up to 3 mm. Bud globose 1.5–2 mm in diameter. Flowers spreading 3.5–5.5 mm in diameter, white to orange then brownish. Sepals 5 acute or subacute, entire or paucidentate. Petals oblong 2 × 1 mm, somewhat angular and not spatulate. Ovules 6–8 per locule.
 
-Méricarpes de 4-6 × 1,8-2,4 cm. Les très jeunes fruits sont couverts d'une pruine bleutée. Graine de 32-41 × 8-10 mm. – Pl. 75, fig. 10-19, p. 267.
+Mericarps 4–6 × 1.8–2.4 cm. Very young fruits covered with bluish pruina. Seed 32–41 × 8–10 mm. – Pl. 75, fig. 10–19, p. 267.
 
-Liberia (Blyden 923, WAG!), Sierra Leone, Côte-d'Ivoire, Ghana, Togo, Dahomey, Nigeria, Cameroun, Congo, Zaïre, Angola et Kivu (Troupin 10569); présence possible au Gabon. Espèce un peu moins héliophile que C. angolense.
+Liberia (Blyden 923, WAG!), Sierra Leone, Côte-d'Ivoire, Ghana, Togo, Dahomey, Nigeria, Cameroon, Congo, Zaire, Angola and Kivu (Troupin 10569); possible presence in Gabon. Species somewhat less heliophilous than C. angolense.
 
-MATÉRIEL ÉTUDIÉ (Cameroun) :
+MATERIAL EXAMINED (Cameroon):
 
-Letouzey 12142, rives du Dja près Ndongo, 40 km WNW Moloundou, 18.3.1973 (fl.).
+Letouzey 12142, banks of the Dja near Ndongo, 40 km WNW Moloundou, 18.3.1973 (fl.).
 
 ## Specimens examined
 

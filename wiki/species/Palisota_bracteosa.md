@@ -16,23 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in A.DC. & C.DC., Monogr. phan. 3 : 133 (1881). Herbe pérenne, 30–60 cm de hauteur ; tige courte . Feuilles en rosette ; pseudopétiole jusqu’à 20 cm ; limbe elliptique à ovale-elliptique, 30–35 × 8–11 cm, se rétrécissant très graduellement vers la base, sommet acuminé, à bord muni de cils fauves, face supérieure vert franc, pratiquement glabre, face inférieure un peu plus claire, légèrement pubescente, nervure médiane à longs poils fauves. Inflorescences insérées à la base de la plante , érigées ou souvent au pédoncule décombant et partiellement souterrain ; thyrse dense , subglobuleux, 3,5–5,5(–10) × 3–3,5 cm ; pédoncule 4–20(–30) cm, avec 2 ou 3(–4) bractées foliacées ovales de 2,5–3,5(–6) cm de longueur ; bractées florales ovales, 1,5–2 × 0,5–0,8(–1,5) cm , vert clair,
-
-brun rosâtre ou rouges, aux poils roux au sommet, aussi longues que les fleurs et les fruits et les couvrant partiellement . Fleur ± 7,5 mm de diamètre, rose, blanc rosâtre ou verte à base blanche ; pédicelle 10 mm ; sépales étalés à réfléchis, pétaloïdes, oblongs-elliptiques , 3 × 1–1,5 mm ; pétales comme les sépales, mais 3 × 1–2 mm ; étamines à anthère jaune à orange, les deux supérieures à filet de ± 2 mm et anthère de 0,5 mm de longueur, l’inférieure à filet de 2,5 mm et anthère de 0,75 mm de longueur ; staminodes ± 2 mm de longueur, aussi longs que les étamines ; ovaire ovoïde, 0,5 mm de diamètre ; style 1,5 mm, stigmate tronqué. Fruit ovoïde , ± 11 × 5 mm, à base arrondie, à sommet aigu, glabre, blanc et couvert de petites taches pourpres , orange ou rouge vif à maturité , avec 3 à 6 graines. Graine largement conique, finement nervurée par plus de 40 crêtes irrégulières ; testa bleu blanchâtre.
+in A.DC. & C.DC., Monogr. phan. 3 : 133 (1881). Perennial herb, 30–60 cm tall; stem short. Leaves in rosette; pseudopetiole up to 20 cm; lamina elliptic to ovate-elliptic, 30–35 × 8–11 cm, tapering very gradually to the base, apex acuminate, margin with tawny cilia, upper surface bright green, practically glabrous, lower surface slightly paler, slightly pubescent, midvein with tawny long hairs. Inflorescences inserted at the base of the plant, erect or often with the peduncle decumbent and partially subterranean; thyrse dense, subglobose, 3.5–5.5(–10) × 3–3.5 cm; peduncle 4–20(–30) cm, with 2 or 3(–4) foliaceous ovate bracts 2.5–3.5(–6) cm long; floral bracts ovate, 1.5–2 × 0.5–0.8(–1.5) cm, pale green, reddish-brown or red, with rusty hairs at the apex, as long as the flowers and fruits and partially covering them. Flower ± 7.5 mm in diameter, pink, pinkish-white or green with white base; pedicel 10 mm; sepals spreading to reflexed, petaloid, oblong-elliptic, 3 × 1–1.5 mm; petals like the sepals, but 3 × 1–2 mm; stamens with yellow to orange anthers, the two upper ones with filament of ± 2 mm and anther 0.5 mm long, the lower one with filament 2.5 mm and anther 0.75 mm long; staminodes ± 2 mm long, as long as the stamens; ovary ovoid, 0.5 mm in diameter; style 1.5 mm, stigma truncate. Fruit ovoid, ± 11 × 5 mm, rounded at base, acute at apex, glabrous, white and covered with small purple, orange or bright red spots at maturity, with 3 to 6 seeds. Seed broadly conical, finely nerved by more than 40 irregular ridges; testa whitish-blue.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Libéria, Côte d’Ivoire, Ghana, Togo, Nigéria, Cameroun, Guinée équatoriale (Río Muni), Gabon et Sao Tomé-et-Principe ; au Gabon dans l’Estuaire, l’Ogooué-Ivindo et le Woleu-Ntem
+Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Nigeria, Cameroon, Equatorial Guinea (Río Muni), Gabon and São Tomé and Príncipe; in Gabon in Estuaire, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts secondaires jeunes à matures, inselbergs ; au Gabon à ± 600 m d’altitude, ailleurs de 25 à 800 m. Floraison de mars à juin ; fructification en mars, octobre et novembre. B : Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Morton (1967), i B liographie Sosef et al. (2006)
+young to mature secondary forests, inselbergs; in Gabon at ± 600 m altitude, elsewhere from 25 to 800 m. Flowering from March to June; fruiting in March, October and November. B: Bidault & van der Burg (2019), Brenan (1968b), Cabezas et al. (2014), Morton (1967), Bibliography Sosef et al. (2006)
 
 ## Notes
 

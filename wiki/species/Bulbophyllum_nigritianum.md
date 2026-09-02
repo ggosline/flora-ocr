@@ -17,27 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Bulbophyllum albidum De Wild. Rev. Zool. Afr. 9 : suppl. bot. 27 (1921).
 
 – Bulbophyllum africanum Hawkes, Lloydia 19 : 92 (1956).
 
-Pseudobulbes 1,4-4 × 0,6-1,5 cm, ovoïdes à étroitement ovoïdes, 1-foliés. Feuille pétiolée, 7-21 × 0,5-1,5 cm, étroitement linéaire-lancéolée à linéaire, aiguë. Inflorescence 7-22 cm, assez dense, rachis glabre et cylindrique, 35-150-flore. Fleurs petites, blanches ou crème. Sépales aigus, minces et glabres, étroitement triangulaires ; sépales latéraux falciformes. Pétales obliquement oblongs-ovés, à lancéolés, aigus ou obtus, minces et glabres, marges un peu irrégulières. Labelle nettement trilobé à la base, épais, récurvé, finement papilleux ; lobes arrondis au sommet : le médian oblong, les latéraux en losange oblique, recourbés vers le haut. – Pl. 99, p. 199.
+Pseudobulbs 1.4–4 × 0.6–1.5 cm, ovoid to narrowly ovoid, 1-leaved. Leaf petiolate, 7–21 × 0.5–1.5 cm, narrowly linear-lanceolate to linear, acute. Inflorescence 7–22 cm, rather dense, rachis glabrous and cylindric, 35–150-flowered. Flowers small, white or cream. Sepals acute, thin and glabrous, narrowly triangular; lateral sepals falcate. Petals obliquely oblong-ovate to lanceolate, acute or obtuse, thin and glabrous, margins somewhat irregular. Lip distinctly three-lobed at base, thick, recurved, finely papillose; lobes rounded at apex: the median oblong, the lateral ones obliquely rhomboid, curved upward. – Pl. 99, p. 199.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Gabon, Congo (Kinshasa)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1200 m. Epiphytic on branch; lowland to submontane forest
 
-alt. 0-1200 m. Épiphyte sur branche ; forêt planitaire à submontagnarde
-
-MATÉRIEL ÉTUDIÉ (Carte 38) : Arends s.n., Doussala, cult. WAG (84-283), non vidi. de Wilde s.n., Monts de Cristal, relief, 0°53' N, 10°12' E, cult. WAG (83-222), WAG!.
+MATERIAL EXAMINED (Map 38): Arends s.n., Doussala, cult. WAG (84-283), non vidi. de Wilde s.n., Monts de Cristal, relief, 0°53' N, 10°12' E, cult. WAG (83-222), WAG!.
 
 ## Figures
 

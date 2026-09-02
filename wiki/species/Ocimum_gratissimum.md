@@ -15,25 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe vivace ou suffrutex , aromatique, de 0,6–2,5 m de hauteur ; tige dressée, très ramifiée, glabre à densément pubescente tout autour , à poils ± dirigés vers le bas et persistants , devenant généralement villeux ou tomenteux sur l’axe de l’inflorescence. Feuille : pétiole 5–30 mm ; limbe elliptique à ovale ou largement ovale, de 1,5–15 × 1–8,5 cm, cunéé à atténué à la base, obtus, aigu ou acuminé à l’apex, denté, pubescent sur les deux faces ou parfois subtomenteux ou rarement à poils confinés aux nervures de la face inférieure, glanduleux-ponctué ou non. Inflorescence lâche ou subdense (calices ou verticillastres adjacents contigus ou verticillastres espacés de ± 1 cm), large de 1–2,5 cm. Fleur : pédicelle 3–4 mm ; calice horizontal ou ± pointant vers le bas ou fortement réfléchi contre l’axe de l’inflorescence, long de 2–3 mm à l’anthèse et de 6–8 mm en fruit, pileux à tomenteux, dents de la lèvre inférieure étroitement triangulaires, acuminées, plus courtes que la lèvre supérieure, dents des lobes latéraux subulées à l’apex, tube fermé par les lobes médians de la lèvre inférieure pressés contre la lèvre supérieure , gorge glabre ; corolle longue de 3–4 mm, verte ou blanchâtre ou jaune pâle ; étamines dépassant de 1 mm la corolle, paire supérieure à appendice aplati et poilu ou subglabre près de la base . Fruit : akènes ± sphériques, de 1,5 mm de diamètre, bruns, produisant une très petite quantité de mucilage lorsqu’ils sont mouillés.
+Perennial herb or suffrutex, aromatic, 0.6–2.5 m tall; stem erect, much-branched, glabrous to densely pubescent all around, with hairs ± directed downward and persistent, generally becoming villous or tomentose on the inflorescence axis. Leaf: petiole 5–30 mm; blade elliptic to ovate or broadly ovate, 1.5–15 × 1–8.5 cm, cuneate to attenuate at base, obtuse, acute or acuminate at apex, dentate, pubescent on both faces or sometimes subtomentose or rarely with hairs confined to the veins on the lower face, glandular-punctate or not. Inflorescence lax or subdense (calyces or whorls adjacent and contiguous or whorls spaced ± 1 cm apart), 1–2.5 cm wide. Flower: pedicel 3–4 mm; calyx horizontal or ± pointing downward or strongly reflexed against the inflorescence axis, 2–3 mm long at anthesis and 6–8 mm in fruit, pilose to tomentose, teeth of the lower lip narrowly triangular, acuminate, shorter than the upper lip, teeth of the lateral lobes subulate at apex, tube closed by the median lobes of the lower lip pressed against the upper lip, throat glabrous; corolla 3–4 mm long, green or whitish or pale yellow; stamens exceeding the corolla by 1 mm, upper pair with flattened appendage and pilose or subglabrous near the base. Fruit: achenes ± spherical, 1.5 mm in diameter, brown, producing a very small amount of mucilage when wetted.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+widespread in tropical regions of the world, native to the Old World, including Nigeria, Cameroon, Equatorial Guinea (Bioko and Annobon), São Tomé and Príncipe, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon: Estuaire, Moyen-Ogooué, Ogooué-Maritime, Ogooué-Ivindo, Haut-Ogooué, Woleu-Ntem, although it is probably more widespread. Conservation status: Widely distributed; probably Least Concern (LC)
 
-répandu dans les régions tropicales du monde, originaire de l’Ancien Monde, y compris le Nigéria, le Cameroun, la Guinée équatoriale (Bioko et Annobon), São Tomé et Principe, le Gabon, la République du Congo, la République démocratique du Congo et l’Angola ; au Gabon : Estuaire, MoyenOgooué, Ogooué-Maritime, Ogooué-Ivindo, Haut-Ogooué, Woleu-Ntem, bien qu’il soit probablement plus répandu. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
-
-très répandu dans les régions tropicales du monde, originaire de l’Ancien Monde, y inclus le Cameroun, la Guinée équatoriale (Annobon et Bioko), São Tomé, le Gabon et la République du Congo ; au Gabon : Estuaire, Ngounié, Nyanga, Ogooué-Maritime. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+very widespread in tropical regions of the world, native to the Old World, including Cameroon, Equatorial Guinea (Annobon and Bioko), São Tomé, Gabon and Republic of the Congo; in Gabon: Estuaire, Ngounié, Nyanga, Ogooué-Maritime. Conservation status: Widely distributed; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+disturbed areas; at 0–1500 m altitude
 
-zones perturbées ; à 0–1500 m d’altitude
-
-zones perturbées ; au Gabon à 0–100 m d’altitude, ailleurs jusqu’à 500 m
+disturbed areas; in Gabon at 0–100 m altitude, elsewhere up to 500 m
 
 ## Vernacular names
 
@@ -43,9 +37,7 @@ voir sous var. gratissimum . Usage : voir sous var. gratissimum . B : Kumar et a
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fréquemment confondu avec des espèces de Platostoma , en diffère par des verticillastres à 6 fleurs plutôt que 6 à 16 fleurs et des étamines appendiculées. Raponda-Walker & Sillans (1961) n’ont pas distingué les variétés et il est possible que les usages et les noms se réfèrent en réalité aux deux variétés. L’espèce présente des variations de ploïdie et de phytochimie. Bi : Kumar et al. (2019), Morales (2011), Paton et al. (2013), Raponda-Walker & Sillans B liographie (1961), Sulistiarini (1999), Vande weghe et al. (2016), Vieira et al. (2001). var. macrophyllum Briq. Bull. Herb. Boiss . 2 : 120 (1894). Diffère de la variété type par : Tige glabre vers la base, ou à poils courts sur un ou deux côtés seulement , mais devenant davantage pubescente sur l’axe de l’inflorescence. Feuille : limbe foliaire glabre ou à poils épars sur les nervures de la face inférieure. Inflorescence lâche, large de 1–1,5 cm, à verticillastres pour la plupart distants de ± 1 cm. Fleur : calice pileux ou glabre
+Frequently confused with species of Platostoma, differs by whorls of 6 flowers rather than 6 to 16 flowers and appendiculate stamens. Raponda-Walker & Sillans (1961) did not distinguish the varieties and it is possible that the uses and names actually refer to both varieties. The species shows variations in ploidy and phytochemistry. Bi: Kumar et al. (2019), Morales (2011), Paton et al. (2013), Raponda-Walker & Sillans Bibliography (1961), Sulistiarini (1999), Vande weghe et al. (2016), Vieira et al. (2001). var. macrophyllum Briq. Bull. Herb. Boiss. 2: 120 (1894). Differs from the typical variety by: Stem glabrous toward the base, or with short hairs on one or two sides only, but becoming more pubescent on the inflorescence axis. Leaf: leaf blade glabrous or with scattered hairs on the veins on the lower face. Inflorescence lax, 1–1.5 cm wide, with whorls mostly distant by ± 1 cm. Flower: calyx pilose or glabrous
 
 ## Notes
 

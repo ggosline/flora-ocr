@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Soc. Linn. Paris 2 (109) : 869 (1890); Engl., Nat. Pflanzenfam., Nacht. I zu III, 6 : 233 (1897); V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 325 (1905); Engl., Pflanzenw. Afr. 3 (2) : 471 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 111, tab. 1, fig. 1-5 (1961); GerMAIN, FCB 10 : 328, tab. 30 (1963).
+Bull. Soc. Linn. Paris 2 (109) : 869 (1890); Engl., Nat. Pflanzenfam., Nacht. I zu III, 6 : 233 (1897); V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 325 (1905); Engl., Pflanzenw. Afr. 3 (2) : 471 (1921); Letouzey, Adansonia, ser. 2, 1 (1) : 111, tab. 1, fig. 1-5 (1961); GERMAIN, FCB 10 : 328, tab. 30 (1963).
 
 — Oubanguia denticulata V. Tiegh., l.c. : 328 (1905).
 
-— Oubanguia africana var. denticulata (V. Tiegh.) Letouzey, l.c. : 112, tab. 1, fig. 6 (1961). Voir note 2 ci-après.
+— Oubanguia africana var. denticulata (V. Tiegh.) Letouzey, l.c. : 112, tab. 1, fig. 6 (1961). See note 2 below.
 
-— Oubanguia thollonii V. TIẾGH., l.c. : 327 (1905).
+— Oubanguia thollonii V. TIEGH., l.c. : 327 (1905).
 
 — Egassea laurentii DE WILD., Ann. Mus. Congo V, Et. Fl. Bas et Moyen-Congo 2 : 310 (1908).
 
@@ -33,17 +31,17 @@ Bull. Soc. Linn. Paris 2 (109) : 869 (1890); Engl., Nat. Pflanzenfam., Nacht. I 
 
 — Egassea laurifolia auct. non PIERRE ex DE WILD. : DE WILD., Ann. Mus. Congo V, Et. Fl. Bas et Moyen-Congo 1 : 32 (1903), p.p., quoad Duchesne (28).
 
-— Oubanguia laurifolia auct. non (PiERRE ex DE WILD.) V. TIEGH. : DE WILD., Miss. Laurent : 150 (1905).
+— Oubanguia laurifolia auct. non (PIERRE ex DE WILD.) V. TIEGH. : DE WILD., Miss. Laurent : 150 (1905).
 
 — ? Scytotepalum duchesnei Engl., Bot. Jahrb. 32 : 101 (1902).
 
-— ? Oubanguia duchesnei (ENGL.) V. TIÉGH., Ann. Sc. Nat., ser. 9, 1 : 328 (1905). Voir note 3 ci-après.
+— ? Oubanguia duchesnei (ENGL.) V. TIEGH., Ann. Sc. Nat., ser. 9, 1 : 328 (1905). See note 3 below.
 
-Arbuste atteignant 10 m de hauteur, parfois 20 m, à tronc droit avec écorce rosée, crevassée longitudinalement, fibreuse, à tranche rouge et petite cime; parfois arbre mesurant jusqu'à 50-80 cm de diamètre, les vieux arbres à fût court, tortueux, bosselé, creusé de cavités, bas branchu avec plusieurs branches ascendantes, à rhytidome rouge brique foncé, à écorce épaisse de 5 mm, à aubier orangé clair passant progressivement à un bois de cœur orangé foncé très dur. Jeunes rameaux ± anguleux; jeunes feuilles rosâtres à lie-de-vin; pétiole 3-5 mm, aplat à la face supérieure. Limbe coriace, lancéolé ou ovale, 3,5-6,5 × 8-12,5(-16) cm, mais parfois de plus petite taille (1,5 × 4 cm), rarement cliptique; base en général asymétrique, avec un côté convexe et l'autre concave mais extrême base cunéiforme sur le pétiole, parfois base obtuse ou arrondie pour les larges feuilles; sommet ± longuement acuminé avec acumen 5-8 × 6-15(-20) mm; marge presque toujours un peu courbée vers le dessous et munie de minuscules taches glanduleuses serrées non en relief, parfois cependant fines denticulations glanduleuses très nettes; environ 6-8 paires de nervures latérales, invisibles ou peu distinctes dessus, la basale ascendante et les autres irrégulièrement courbées avec réseau de nervilles très dense assez proéminent et souvent à orientation générale ± perpendiculare à la nervure médiane.
+Shrub reaching 10 m in height, sometimes 20 m, with straight trunk and rosy bark, longitudinally fissured, fibrous, with red interior and small crown; sometimes a tree measuring up to 50–80 cm in diameter, old trees with short, tortuous, bosselated bole, furrowed with cavities, low-branching with several ascending branches, with dark brick-red rhytidome, with bark 5 mm thick, with light orange sapwood gradually passing to very hard dark orange heartwood. Young twigs ± angular; young leaves reddish to wine-coloured; petiole 3–5 mm, flattened on upper face. Blade coriaceous, lanceolate or ovate, 3.5–6.5 × 8–12.5(–16) cm, but sometimes smaller (1.5 × 4 cm), rarely elliptic; base generally asymmetric, with one side convex and the other concave but extreme base cuneate on the petiole, sometimes base obtuse or rounded for the broad leaves; apex ± long-acuminate with acumen 5–8 × 6–15(–20) mm; margin almost always slightly curved downward and bearing tiny closely-set glandular spots not raised, sometimes however fine glandular denticulations very distinct; about 6–8 pairs of lateral nerves, invisible or scarcely distinct above, the basal one ascending and the others irregularly curved with very dense venule network fairly prominent and often with general orientation ± perpendicular to the midvein.
 
-Inflorescences en panicules terminales et axillaires subterminales, 2 (3) fois ramifiées, atteignant jusqu'à 12-15 cm de longueur, sur le vif à axes ± anguleux blanchâtres, pubérulentes jusqu'à la marge du calice; bractées et bractéoles petites (max. 1,5 mm), lancéolées concaves, tôt caduques; pédicelle long de 5-6(-8) mm, bouton floral rosé ± pointu. Calice patelliforme-cupuliforme, de 3-4 mm de diamètre, à marge entière ou incisée, présentant exceptionnellement des pointes peu distinctes; corolle atteignant 5-6 mm de hauteur dans le bouton, à environ 6-8 pétales blancs de 6-8 mm, parfois très inégaux en largeur; étamines jaunes de 5 mm environ; ovaire en côme, style long de 5 mm.
+Inflorescences in terminal and axillary subtermineal panicles, 2 (3) times branched, reaching up to 12–15 cm in length, when fresh with ± angular whitish axes, puberulent to the calyx margin; bracts and bracteoles small (max. 1.5 mm), lanceolate concave, early caducous; pedicel 5–6(–8) mm long, floral bud ± pointed, pinkish. Calyx patelliform-cupuliform, 3–4 mm in diameter, with entire or incised margin, exceptionally presenting indistinct points; corolla reaching 5–6 mm in height in bud, with about 6–8 white petals 6–8 mm, sometimes very unequal in width; stamens yellow about 5 mm; ovary in coma, style 5 mm long.
 
-Capsule légèrement obovoïde,  $ 10-15 \times 15-20 $ mm, couverte d'abord d'une pruine bleuâtre puis violette à maturité, péricarpe mince, (déhiscence?), monosperme, exceptionnellement disperme; albumen uni, exceptionnellement très légèrement ruminé. — PL. 43, p. 155.
+Capsule slightly obovoid, 10–15 × 15–20 mm, first covered with bluish then violet pruina at maturity, pericarp thin, (dehiscence?), monospermic, exceptionally dispermous; albumen uniform, exceptionally very slightly ruminate. — PL. 43, p. 155.
 
 ## Type
 
@@ -51,27 +49,21 @@ Thollon s.n., Congo (Oubangui) (holo-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1) Oubanguia africana Baill. is a polymorphic species with respect to its blade (size, general form, basal asymmetry, extent of the acumen). It seems to be distinguished from O. laurifolia (Pierre ex De Wild.) V. Tiegh. by its coriaceous leaf (not subcoriaceous), with asymmetric base (not symmetric), with acuminate apex (not caudate-acuminate), with downward-curved margin (not plane) and by its flower with 6–8 petals (and not 8–10) but the distinction is doubtless sometimes open to confusion. Moreover it is not certain that O. laurifolia (Pierre ex De Wild.) V. Tiegh. is always a species of upland forest (whereas O. africana Baill. is always found along watercourses).
 
-1) Oubanguia africana Baill. est une espèce polymorphe quant à son limbe (taille, forme générale, asymétrie basale, importance de l'acumen). Elle semble se distinguer d'O. laurifolia (Pierre ex De Wild.) V. Tiegh. par sa feuille coriace (non subcoriace), à base asymétrique (non symétrique), à sommet acuminé (non caudé-acuminé), à marge courbée dessous (non plane) et par sa fleur à 6-8 pétales (et non 8-10) mais la distinction prête sans doute parfois à confusion. Il n'est d'autre part pas certain qu'O. laurifolia
+For O. africana Baill., broadly lanceolate leaves with short acumen appear frequent in Cameroon and Gabon, while narrowly lanceolate leaves with elongate acumen appear frequent in Congo and Zaïre; a serious biometric study cannot however currently be carried out on the few herbarium specimens available.
 
-(Pierre ex De Wild.) V. Tiegh. soit toujours une espèce de forêt de terre ferme (alors que O. africana Baill. se rencontre toujours en bordure des cours d'eau).
+2) Material collected over the past 15 years now makes it possible to eliminate var. denticulata R. Let. (Adansonia, ser. 2, 1 (1) : 112, 1961), all intermediates existing between highly denticulate margins and smooth margins (but almost always with tiny glandular spots as mentioned above; "black-violet macules at nerve endings" of GERMAIN, FCB 10 : 328, 1963).
 
-Pour O. africana Baill., les feuilles largement lancéolées à acumen court paraissent fréquentes au Cameroun et au Gabon, alors que les feuilles étroitement lancéolées à acumen allongé paraissent fréquentes au Congo et au Zaïre; une étude biométrique sérieuse ne peut cependant être actuellement réalisée sur les quelques spécimens d'herbier disponibles.
+The flower of Oubanguia thollonii V. Tiegh. (= O. denticulata V. Tiegh.) was described by VAN TIEGHEM as "rust-yellow" in tint (although this indication is not recorded on the THOLLON specimens); the predominance of the bright yellow androecium at the time of flower opening (with white petals scarcely visible beneath the mass of stamens) appears to have created some confusion among certain collectors and among VAN TIEGHEM regarding the different possible species of Oubanguia.
 
-2) Le matériel récolté au cours des 15 dernières années permet à présent de faire disparaître la var. denticulata R. Let. (Adansonia, ser. 2, 1 (1) : 112, 1961), tous intermédiaires existant entre des marges très denticulées et des marges lisses (mais presque toujours avec minuscules taches glanduleuses comme mentionné ci-dessus; « macules violet noir aux extrémités nervales » de GERMAIN, FCB 10 : 328, 1963).
+3) Oubanguia duchesnei (Engl.) V. Tiegh., being known now only from the description of this species (holotype Duchesne s.n. from Zaïre lost, with no other material), it is difficult to judge the value of this species by Engler's diagnosis alone (under the name Scytotepalum duchesnei Engl., Bot. Jahrb. 32 : 101, 1902). The inflorescence in branched panicle (with 2–5 "ramifications"?), the corolla with 5 petals and the ovary with 4–5 locules cannot allow this taxon to be brought close to the genus Scytotepalum Pierre ex Engl., as GERMAIN proposes (l.c. : 381). The only characters available otherwise would rather incline toward assimilating it to Oubanguia africana Baill., with some doubt.
 
-La fleur d'Oubanguia thollonii V. Tiegh. (= O. denticulata V. Tiegh.) a été décrite par VAN TIEGHEM comme de teinte « jaune rouille » (sans que cette indication soit portée sur les spécimens de THOLLON); la prédominance de l'androcée jaune vif lors de l'épanouissement de la fleur (avec pétales blancs peu visibles sous la boule d'étamines) paraît avoir créé quelques confusions chez certains collecteurs et chez VAN TIEGHEM parmi les différentes espèces possibles d'Oubanguia.
-
-3) Oubanguia duchesnei (Engl.) V. Tiegh. n'étant plus connue que par la description de cette espèce (holotype Duchesne s.n. du Zaïre disparu, sans autre matériel), il est difficile de juger de la valeur de cette espèce par la seule diagnose d'Engler (sous le nom de Scytopetalum duchesnei Engl., Bot. Jahrb. 32 : 101, 1902). L'inflorescence en panicule ramifiée (avec 2-5 « ramifications »?), la corolle à 5 pétales et l'ovaire à 4-5 loges ne peuvent permettre de rapprocher ce taxon du genre Scytopetalum Pierre ex Engl., ainsi que le propose GERMAIN (I.c. : 381). Les seuls caractères disponibles par ailleurs inciteraient plutôt à l'assimiler à Oubanguia africana Baill., avec quelque doute.
-
-Cette espèce est présente au Cameroun, en Guinée Équatoriale, au Gabon, au Congo et au Zaïre; elle ne paraît pas encore signalée en Centrafrique et les échantillons-types de THOLLON mentionnés « Oubangui » portent aussi l'indication « Gabon près du fleuve Oubanghi », « Congo-Gabon » et « Congo ». Elle affectionne les bords de rivière et les forêts périodiquement inondées (parfois sous 2 m d'eau) voisines; elle est en réalité peu fréquente mais peut être localement très abondante.
+This species is present in Cameroon, Equatorial Guinea, Gabon, Congo and Zaïre; it does not yet appear to be recorded from Central African Republic and the type specimens of THOLLON mentioned "Oubangui" also bear the notation "Gabon near the Oubanghi River", "Congo-Gabon" and "Congo". It favours riverbanks and periodically inundated forests (sometimes under 2 m of water) nearby; it is in reality uncommon but can be locally very abundant.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D'après WALKER & SILLANS (Pl. Ut. Gabon : 398, 1961), pour Oubanguia denticulata V. Tiegh. : bois gris rosé pour caisserie d'emballage et fruits appâts pour la pêche. Au Zaïre, écorce dilacérée et bouillie pour lavements
+According to WALKER & SILLANS (Pl. Ut. Gabon : 398, 1961), for Oubanguia denticulata V. Tiegh. : greyish-pink wood for packing cases and fruits as bait for fishing. In Zaïre, bark shredded and boiled for enemas.
 
 ## Vernacular names
 

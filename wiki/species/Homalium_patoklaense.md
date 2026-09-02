@@ -16,17 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in AUBRÉV., Fl. Forest. Côté d'Ivoire 3 : 18 (1936), « patoklaensis » sine descr. lat. ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 196 (1954) ; AUBRÉV., Fl. Forest. Côté d'Ivoire , ed. 2, 3 : 24 (1959), « patoklaensis ». TYPE : Aubréville 1302, Côté d'Ivoire (holo-, iso-).
+in AUBRÉV., Fl. Forest. Côté d'Ivoire 3 : 18 (1936), "patoklaensis" sine descr. lat. ; KEAY, in HUTCH. & DALZIEL, FWTA, ed. 2, 1 (1) : 196 (1954) ; AUBRÉV., Fl. Forest. Côté d'Ivoire , ed. 2, 3 : 24 (1959), "patoklaensis". TYPE : Aubréville 1302, Côté d'Ivoire (holo-, iso-).
 
 – H. lastoursvillense PELLEGR., Mém. Soc. Bot. Fr. : 119 (1952) ; SLEUMER, BJBB 43 : 275 (1973). TYPE : Le Testu 8193, Gabon (holo-, P! ; iso-, K, P!).
 
-Arbre (10-15 m de haut) ; jeunes rameaux finement tomenteux.
+Tree (10–15 m tall) ; young branches finely tomentose.
 
-Feuilles à stipules auriculées-réniformes, 1,5-2 × 0,5-1 cm, persistantes ou caduques, parfois absentes ; pétiole de 6-12 mm de long ; limbe oblong-elliptique ou elliptique, arrondi ou légèrement cordé à la base, subacuminé au sommet, 12-22 × 7-9-(10,5) cm, denté ou crénelé, chartacé à subcoriace, glabre sur la face supérieure, tomenteux sur la face inférieure ; nervures secondaires 12-14 paires.
+Leaves with auriculate-reniform stipules, 1.5–2 × 0.5–1 cm, persistent or deciduous, sometimes absent ; petiole 6–12 mm long ; blade oblong-elliptic or elliptic, rounded or slightly cordate at the base, subacuminate at the apex, 12–22 × 7–9–(10.5) cm, dentate or crenate, chartaceous to subcoriaceous, glabrous on the upper surface, tomentose on the lower surface ; secondary veins 12–14 pairs.
 
-Inflorescences en panicules axillaires et terminales, multiflores, atteignant 25 cm de long, tomenteuses. Fleurs 5-(6)-mères, groupées par 2-8 en fascicules espacés le long du rachis ; pédicelle d'environ 1,5-2 mm de long ; calice à tube de  $ 1,5 \times 1-(1,5) $ mm ; lobes triangulaires, de 1-2 mm de long ; pétales subspatulés-oblongs,  $ 8-10 \times 2 $ mm, accrescents jusqu'à  $ 12-15 \times 3 $ mm à l'état fructifère. - Pl. 22, 1-4, p. 71.
+Inflorescences in axillary and terminal panicles, multiflorous, reaching 25 cm long, tomentose. Flowers 5–(6)–merous, grouped by 2–8 in fascicles spaced along the rachis ; pedicel approximately 1.5–2 mm long ; calyx with tube of $ 1.5 \times 1–(1.5) $ mm ; lobes triangular, 1–2 mm long ; petals subspatulate-oblong, $ 8–10 \times 2 $ mm, accrescent up to $ 12–15 \times 3 $ mm in the fruiting state. - Pl. 22, 1–4, p. 71.
 
 ## Type
 
@@ -34,15 +32,11 @@ Aubréville 1302, Côté d'Ivoire (holo-, P! ; iso-, K, P!)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Côté d'Ivoire, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 

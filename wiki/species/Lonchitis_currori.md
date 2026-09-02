@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Kühn, Deck. Reis. Ost. Afr. 3 (3) : 10 (1879). — Tard., Mém. IFAN 28 : 82 (1953) (pp.). — Alston FWTA : 34 (1959).
 
-Rhizome dressé, à frondes en touffes, portant des poils roux. Pétiole épais, straminé, canaliculé, nu, atteignant 1 m. Limbe
-
-penné-bipinnatifide. Extrémité de la fronde deltoïde, pinna-tisèquée. Pennes alternes, espacées de 5-7 cm, sessiles, lancéolées, à extrémité aiguë, longues de 15-25 cm sur 4-6 de large, entières ou sinuées, à lobes arrondis ou profondément pinnatipartites, divisées, presque jusqu'au rachis largement ailé, en segments triangulaires, aigus, sinués. Rachis hirsute. Texture membraneuse. Costae nus, ou portant des poils jaune clair plus ou moins épars. Surfaces portant quelques poils épars. Nervures formant une rangée d'aréoles costales surbaissées et plusieurs rangées d'aréoles régulières entre la nervure médiane et la marge. Sores linéaires, continus le long de la marge ou interrompus au sommet des lobes. Paraphyses nombreuses. Spores ovales, lisses.
+Rhizome erect, with fronds in tufts, bearing rusty hairs. Petiole thick, stramineous, channelled, glabrous, reaching 1 m. Lamina pinnate-bipinnatifid. Apex of frond deltoid, pinnate-pinnatisect. Pinnae alternate, spaced 5–7 cm apart, sessile, lanceolate, with acute apex, 15–25 cm long by 4–6 cm wide, entire or sinuate, with rounded or deeply pinnatifid lobes, divided almost to the broadly winged rachis, into triangular, acute, sinuate segments. Rachis hirsute. Texture membranous. Costae glabrous or bearing more or less scattered pale yellow hairs. Surfaces bearing some scattered hairs. Veins forming a row of depressed costal areoles and several rows of regular areoles between the midvein and margin. Sori linear, continuous along the margin or interrupted at the apex of lobes. Paraphyses numerous. Spores ovate, smooth.
 
 ## Type
 
@@ -34,9 +30,7 @@ Curror, Elephant's-Bay
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-San-Thomé, île du Prince, de Guinée au Dahomey. Surtout dans le fond des vallées ± marécageuses, en rain-forest, galeries à Uapaca et Raphia.
+São Thomé, Prince Island, from Guinea to Dahomey. Especially in the bottom of ± swampy valleys, in rainforest, galleries with Uapaca and Raphia.
 
 ## Specimens examined
 

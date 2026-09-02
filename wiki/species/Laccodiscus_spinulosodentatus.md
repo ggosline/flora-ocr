@@ -16,15 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenwelt Afr. 3 (2) : 280 (1921); Pflanzenreich, Sapindaceae : 1131 (1933).
 
-Arbre? Feuilles munies de fausses stipules suborbiculaires d'env. 4 cm de diamètre, dentées spinescentes, à 5-6 paires de nervures.
+Tree? Leaves furnished with false stipules suborbicular approximately 4 cm in diameter, dentate spinescent, with 5–6 pairs of veins.
 
-PL. 37. — Laccodiscus pseudostipularis Radlk. (1, 2, 2', Le Testu 8564; 1', Letouzey 1246; 3-6, Le Testu 7724): 1, 1', portion de feuille, foliole 4° paire 18 × 6,5 cm et pseudostipules 13 mm; 2, un des 8 rameaux d'une inflorescence de 50 cm; 2', fleur épanouie, 12 mm avec pédicelle; 3, bouton, diamètre 5 mm; 4, 4', pétale, 3 mm, faces externe et interne; 5, étanme profil; 5', 5', anthère, faces interne et externe; 6, disque. — Laccodiscus klaineanus Pierre (7-8', Klaine 567; 9-10', Klaine 393): 7, foliole de la 7° paire 20 × 5 cm et 1° paire 3,6 cm; 8, un des 6 rameaux, 11 cm, d'une inflorescence de 40 cm; 8', valve d'un fruit 15 mm face interne; 9, bouton et 1/2 coupe diamètre 5 mm; 9', pétale face interne; 10', 10', étanme, faces interne et externe. — Laccodiscus spinulosodentatus Radlk. (11, 11', Le Testu 8993; 12-14', Le Testu 8553): 11, foliole 4° paire, 16 × 5 cm, et 1° paire avec portion d'inflorescence ♀; 11', valves du fruit, 1,5 cm chacune; 12, inflorescence 28 cm; 12', bouton, large de 4 mm et coupe; 13, 13', pétale, faces externe, interne et coupe; 14, 14', étanme, faces interne et externe.
+PL. 37. — Laccodiscus pseudostipularis Radlk. (1, 2, 2', Le Testu 8564; 1', Letouzey 1246; 3–6, Le Testu 7724): 1, 1', portion of leaf, leaflet 4th pair 18 × 6.5 cm and pseudostipules 13 mm; 2, one of 8 branches of an inflorescence 50 cm; 2', flower open, 12 mm with pedicel; 3, bud, diameter 5 mm; 4, 4', petal, 3 mm, external and internal faces; 5, stamen profile; 5', 5', anther, internal and external faces; 6, disk. — Laccodiscus klaineanus Pierre (7–8', Klaine 567; 9–10', Klaine 393): 7, leaflet of the 7th pair 20 × 5 cm and 1st pair 3.6 cm; 8, one of 6 branches, 11 cm, of an inflorescence 40 cm; 8', valve of a fruit 15 mm internal face; 9, bud and 1/2 cross-section diameter 5 mm; 9', petal internal face; 10', 10', stamen, internal and external faces. — Laccodiscus spinulosodentatus Radlk. (11, 11', Le Testu 8993; 12–14', Le Testu 8553): 11, leaflet 4th pair, 16 × 5 cm, and 1st pair with portion of ♀ inflorescence; 11', fruit valves, 1.5 cm each; 12, inflorescence 28 cm; 12', bud, broad 4 mm and cross-section; 13, 13', petal, external, internal faces and cross-section; 14, 14', stamen, internal and external faces.
 
-Inflorescence brun pourpré (LE TESTU), ample, égalant la feuille, peu rameuse; cymules sessiles (RADLKOFER) ou stipitées (LE TESTU), à 3-5 fleurs avec bractées et bractéoles; pédicelles de 2 mm articulés au milieu; bouton sphérique de 4 mm de diamètre. Fleurs blanches; pétales sessiles. Fruit écarlate (LE TESTU); fruit jeune brun tomenteux (RADLKOFER). PL. 37, 11-14', p. 161.
+Inflorescence dark purple (LE TESTU), ample, equalling the leaf, little branched; cymules sessile (RADLKOFER) or stipitate (LE TESTU), with 3–5 flowers with bracts and bracteoles; pedicels 2 mm articulated at the middle; bud spherical 4 mm in diameter. Flowers white; petals sessile. Fruit scarlet (LE TESTU); young fruit brown tomentose (RADLKOFER). PL. 37, 11–14', p. 161.
 
 ## Type
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou arbre jusqu’à 15(–20) m de hauteur, glabre sauf les stipules, les bourgeons axillaires, les inflorescences et parfois les ovaires et fruits ; tronc 15(–40) cm de dia mètre . Stipules tôt caduques , ovales-triangulaires, 4–5 mm de longueur, pubescentes ou seulement ciliées, cicatrices distinctes . Feuille : pétiole canaliculé dessus, 4–12 mm ; limbe ± elliptique, (6–)10–15(–24) × 3–7 cm, cunéé à arrondi à la base, aigu à brièvement acuminé sur 0,5–1 cm, coriace, récurvé sur les bords ; nervures latérales principales 10 – 15 paires , ± fines. Inflorescence : la mâle paniculée, jusqu’à 3 cm de longueur ; la femelle en racème, jusqu’à 7 cm. Fleur mâle : bractée souvent partiellement soudée au pédicelle de 0,5–1 mm ; sépales 4–8, de forme variable, ± oblongs à obovales, 1–1,5 mm de longueur ; étamines 5–8 , 1–1,5 mm de longueur ; pistillode en général bifurqué et pileux au sommet . Fleur femelle : bractée libre, ± 1 mm de longueur ; pédicelle 2–4 mm ; sépales 4–7, apprimés contre l’ovaire , ovales-triangulaires, 1,5–2 mm de longueur, ciliés au sommet ; staminodes souvent présents sous l’ovaire ; pistil 6–8 mm de lon gueur ; ovaire ± aplati, ± 1 mm d’épaisseur, 2–3 mm de diamètre, glabre à pubérulent ; styles 6–7 mm, soudés à la base sur jusqu’à 3 mm. Fruit ± rectangulaire , 13–18 × 6–8 mm, glabre à pubérulent. Graines subellipsoïdes, ± 7 × 4 mm, orangées.
+Shrub or tree up to 15(–20) m tall, glabrous except for the stipules, axillary buds, inflorescences and sometimes the ovaries and fruits; trunk 15(–40) cm diameter. Stipules early deciduous, ovate-triangular, 4–5 mm long, pubescent or only ciliate, scars distinct. Leaf: petiole channeled above, 4–12 mm; blade ± elliptic, (6–)10–15(–24) × 3–7 cm, cuneate to rounded at the base, acute to briefly acuminate over 0.5–1 cm, coriaceous, recurved on the margins; principal lateral veins 10–15 pairs, ± fine. Inflorescence: the male paniculate, up to 3 cm long; the female racemose, up to 7 cm. Male flower: bract often partially fused to the pedicel of 0.5–1 mm; sepals 4–8, of variable shape, ± oblong to obovate, 1–1.5 mm long; stamens 5–8, 1–1.5 mm long; pistillode generally bifid and pilose at the apex. Female flower: bract free, ± 1 mm long; pedicel 2–4 mm; sepals 4–7, appressed against the ovary, ovate-triangular, 1.5–2 mm long, ciliate at the apex; staminodes often present below the ovary; pistil 6–8 mm long; ovary ± flattened, ± 1 mm thick, 2–3 mm diameter, glabrous to puberulent; styles 6–7 mm, fused at the base for up to 3 mm. Fruit ± rectangular, 13–18 × 6–8 mm, glabrous to puberulent. Seeds subellipsoid, ± 7 × 4 mm, orange.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce de la Sierra Leone au Nigeria, Cameroun, République Centrafri caine, Gabon, République du Congo et République Démocratique du Congo ; au Gabon, connue du Moyen-Ogooué, de l’Ogooué-Ivindo, de l’Ogooué-Lolo et de l’Ogooué-Ma ritime
+Species from Sierra Leone to Nigeria, Cameroon, Central African Republic, Gabon, Republic of the Congo and Democratic Republic of the Congo; in Gabon, known from Moyen-Ogooué, Ogooué-Ivindo, Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des rivières et des lacs, forêt marécageuse ; au Gabon, à 0–300 m d’al titude. b : Keay (1958), Léonard (1989), Pax & Hoffman (1922). ibliographie
+Banks of rivers and lakes, swamp forest; in Gabon, at 0–300 m altitude. b: Keay (1958), Léonard (1989), Pax & Hoffman (1922). Bibliography
 
 ## Notes
 

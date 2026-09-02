@@ -61,7 +61,7 @@ Le Testu : 5861, St Martin (fl. déc.).
 
 ![Afzelia pachyloba](../sources/Leguminosae_vol15_paddle/figures/fig_024_p0114.png)
 
-*PL. XXIV. — Afzelia pachyloba Harms : 1, feuille × 2 /3; 2, fruit 16 × 11 cm; 3, graine × 2 /3. — Afzelia bella Harms : 4, feuille × 2 /3; 5, inflorescence × 2 /3; 6, coupe longitudinale de la fleur × 1.*
+*PL. XXIV. — Afzelia pachyloba Harms : 1, leaf × 2 /3; 2, fruit 16 × 11 cm; 3, seed × 2 /3. — Afzelia bella Harms : 4, leaf × 2 /3; 5, inflorescence × 2 /3; 6, longitudinal section of the flower × 1.*
 
 ## Notes
 

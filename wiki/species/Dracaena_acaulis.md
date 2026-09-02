@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. rubroaurantiaca De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 1(3) : 228, t. 58 (1906). Pleomele acaulis (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 277 (1914). Arbuste subacaule ; tige simple, jusqu’à ± 2,5 m de hauteur, issue d’un rhizome ligneux. Feuilles équitantes , laissant la tige visible seulement dans les 20 cm basaux sur les plantes plus âgées ; limbe linéaire à étroitement obovale, jusqu’à 275 × 8 cm , base progressivement rétrécie en un pseudopétiole canaliculé dessus, engainante à la base, embrassant la tige sur nettement plus que la circonférence, sommet progressivement rétréci en un mucron de 0,5– 1 cm de longueur, succulent , rigide, vert, concolore, ridé longitudinalement. Inflorescence dressée, paniculée, jusqu’à 150 cm de longueur , à plusieurs branches atteignant 15 cm de longueur, glabres, vertes à violettes, à fleurs agrégées densément sur les extrémités ; bractées sous-tendant les branches, étroitement ovales, jusqu’à 15 × 3 cm ; fascicule avec 3 à 5 fleurs , sous-tendu par une bractée triangulaire, 3–10 mm de longueur, scarieuse. Fleur : pédicelle 0–2 mm ; périanthe 25–35 mm de longueur , blanc à rose, strié de violet à l’extérieur, à lobes réfléchis, aussi longs que le tube ; étamines insérées près de la gorge du tube, aussi longues que les lobes, filet à section circulaire, renflé, à sommet aigu, blanc, anthère ± 2,5–3 mm de longueur, jaune-gris ; ovaire ellipsoïde-oblong, ± 3 × 2 mm ; style surpassant le tube, blanc, stigmate capité. Fruit subsessile, profondément 3-lobé , ± 15 × 9 mm, lisse et brillant, orange vif, lobes ovoïdes, divergents. Graine ovoïde, ± 9 × 5 mm.
+D. rubroaurantiaca De Wild., Ann. Mus. Congo Belge, Bot., sér. 5, 1(3) : 228, t. 58 (1906). Pleomele acaulis (Baker) N.E.Br., Bull. Misc. Inform. Kew 1914 : 277 (1914). Subshrub subacaulous; stem simple, up to ± 2.5 m tall, arising from a woody rhizome. Leaves equitant, exposing the stem only in the basal 20 cm on older plants; blade linear to narrowly obovate, up to 275 × 8 cm, base gradually narrowed into a channelled pseudipetiole above, sheathing at the base, embracing the stem for distinctly more than the circumference, apex gradually narrowed into a mucro 0.5–1 cm long, succulent, rigid, green, concolorous, wrinkled longitudinally. Inflorescence erect, paniculate, up to 150 cm long, with several branches reaching 15 cm long, glabrous, green to violet, with flowers densely aggregated on the extremities; bracts subtending the branches, narrowly ovate, up to 15 × 3 cm; fascicle with 3 to 5 flowers, subtended by a triangular bract, 3–10 mm long, scarious. Flower: pedicel 0–2 mm; perianth 25–35 mm long, white to pink, striped with violet on the outside, with reflexed lobes, as long as the tube; stamens inserted near the throat of the tube, as long as the lobes, filament circular in section, swollen, with acute apex, white, anther ± 2.5–3 mm long, yellow-grey; ovary ellipsoid-oblong, ± 3 × 2 mm; style exceeding the tube, white, stigma capitate. Fruit subsessile, deeply 3-lobed, ± 15 × 9 mm, smooth and shiny, bright orange, lobes ovoid, divergent. Seed ovoid, ± 9 × 5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, République du Congo, République démocratique du Congo, Angola ; au Gabon, dans l’Estuaire, la Ngounié et le Woleu-Ntem
+Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo, Angola; in Gabon, in the Estuaire, Ngounié and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-lisières des forêts primaires et secondaires en mi ombre ; au Gabon comme ailleurs à 0–950 m d’altitude. Floraison enregistrée de janvier à avril et de juin à septembre. B : Baker (1898), Damen et al. (2018), Figueiredo & Smith (2008). i B liographie
+Margins of primary and secondary forests in semi-shade; in Gabon as elsewhere at 0–950 m altitude. Flowering recorded from January to April and from June to September. B: Baker (1898), Damen et al. (2018), Figueiredo & Smith (2008). Bibliography
 
 ## Notes
 

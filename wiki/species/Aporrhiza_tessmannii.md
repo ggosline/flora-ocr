@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 1134 (1933).
 
-Arbres à feuilles de 30-40 cm, coriaces, glabres, brillantes. Inflorescences terminales plus grandes que les feuilles, densiflores. Sépales à tomentum blanc sur les 2 faces; pétales plus petits que les sépales, glabres sur le dos, extrémité pubérulente; écaille bifide velue; 7 étamines à filets glabriuscules.
+Trees with leaves 30-40 cm, coriaceous, glabrous, glossy. Terminal inflorescences larger than the leaves, densely flowered. Sepals with white tomentum on both surfaces; petals smaller than the sepals, glabrous on the back, apex pubescent; bifid scale hairy; 7 stamens with nearly glabrous filaments.
 
 ## Type
 
@@ -32,21 +30,19 @@ Schweinfurth 3041, pays des Niam Niam, près du fleuve Nabambisso, Congo (iso-, 
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+No recent material is associated with this species, of which the type is lost.
 
-Aucun matériel récent n'est rapproché de cette espèce dont le type est perdu.
-
-Espèce reconnue au Zaïre (Bequaert 100, Ritschard 1683, Schmitz 2226, Katanga, BR) et en Tanzanie (Stolz 1593, 1880, P). A rechercher au Gabon.
+Species recorded from Zaire (Bequaert 100, Ritschard 1683, Schmitz 2226, Katanga, BR) and Tanzania (Stolz 1593, 1880, P). To be sought in Gabon.
 
 4 ter. Aporrhiza paniculata Radlkofer
 
 Sitzungsber. Bayer. Akad. Wiss. München 8 : 339 (1878); in ENGL., Pflanzenreich, Sapindaceae : 1134 (1933); HAUMAN, Fl. Congo 9 : 318 (1960).
 
-Arbuste ou arbre pouvant atteindre 20 m. Feuilles à pétiole de 4-6 cm; rachis de 3-8 cm; pétioules de 5-8 mm; folioles elliptiques à acumen de 5 mm très obtus, 10-25 × 5-10 cm, à 10-12 paires de nervures en creux dessus, en relief dessous, parfois presque glabres, même sous les nervures.
+Shrub or tree reaching 20 m. Leaves with petiole 4-6 cm; rachis 3-8 cm; petiolules 5-8 mm; leaflets elliptic with acumen 5 mm very obtuse, 10-25 × 5-10 cm, with 10-12 pairs of sunken veins above, raised below, sometimes almost glabrous, even beneath the veins.
 
-Inflorescence en grappe ramifiée 2-3 fois, de 20-40 × 15-25 cm, à rameaux ultimes (2-3 cm) portant des cymules de 5-7 fleurs. Fleurs de 3-4 mm de diamètre, à pédicelle, 2 mm, articulé au tiers inférieur; sépales en triangle équilateral de 1,5 mm de côté, velus sur les 2 faces (poils de 0,1 mm); pétales de 1,8 mm, à limbe glabre égalant l'onglet velu; écaille velue formant un petit entonnoir; disque fortement verruqueux; filet des étanines portant seulement 5-7 cils. Fruit à pubescence grisâtre. Pl. 35, 17-18, p. 153.
+Inflorescence a panicle branched 2-3 times, 20-40 × 15-25 cm, with ultimate branches (2-3 cm) bearing cymules of 5-7 flowers. Flowers 3-4 mm in diameter, with pedicel 2 mm, articulate at the lower third; sepals equilateral triangular 1.5 mm on a side, hairy on both surfaces (hairs 0.1 mm); petals 1.8 mm, with limb glabrous equalling the hairy claw; scale hairy forming a small funnel; disk strongly verrucose; filament of stamens bearing only 5-7 cilia. Fruit with greyish pubescence. Pl. 35, 17-18, p. 153.
 
-Espèce non encore trouvée en dehors du Zaïre (De Graer 411, Troupin 396, Gérard 1196). A rechercher au Gabon.
+Species not yet found outside Zaire (De Graer 411, Troupin 396, Gérard 1196). To be sought in Gabon.
 
 ## Specimens examined
 

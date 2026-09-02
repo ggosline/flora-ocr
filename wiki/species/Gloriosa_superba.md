@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe glabre ; tige annuelle, dressée et jusqu’à 40 cm ou grimpante et alors jusqu’à plu sieurs mètres de longueur ; corme pérenne, horizontal, abruptement arqué. Feuille étroi tement elliptique-lancéolée à elliptique ou ovale, 9–18 × (1–)1,5–5 cm, sommet acuminé et souvent circiné-vrillé . Fleur : pédicelle ascendant puis recourbé juste au sommet, 4–20 cm ; périgone jaune ou orangé devenant ensuite rouge ou pourpre, souvent bico lore (sommet rouge, base jaune), à tépales le plus souvent libres ou légèrement soudés, onguiculés, oblongs-elliptiques à ovales, fortement réfléchis, 5–8,5 × 9–30 mm, sommet acuminé-falqué , marge entière à fortement ondulée ; étamines étalées, filet filiforme ou aplati, 1–4,5 cm, vert à jaune pâle, anthères 5–15 mm de longueur, vert pâle à jaunes ; ovaire subcylindrique, 4–12 × 1–5 mm ; style 1–5 cm, stigmates 3–10(–25) mm. Fruit loculicide, ellipsoïde à subcylindrique, 3,5–5 × 1–1,5 cm, vert. Graines jusqu’à 20(–40) par fruit, ovoïdes, rouges et charnues , 4–5 mm de diamètre.
+Herb glabrous; stem annual, erect and up to 40 cm or climbing and then up to several metres in length; corm perennial, horizontal, abruptly arched. Leaf narrowly elliptic-lanceolate to elliptic or ovate, 9–18 × (1–)1.5–5 cm, apex acuminate and often circinately coiled. Flower: pedicel ascending then recurved just at the apex, 4–20 cm; perianth yellow or orange becoming then red or purple, often bicoloured (apex red, base yellow), with tepals most often free or slightly fused, unguiculate, oblong-elliptic to ovate, strongly reflexed, 5–8.5 × 9–30 mm, apex acuminate-falcate, margin entire to strongly undulate; stamens spreading, filament filiform or flattened, 1–4.5 cm, green to pale yellow, anthers 5–15 mm in length, pale green to yellow; ovary subcylindric, 4–12 × 1–5 mm; style 1–5 cm, stigmas 3–10(–25) mm. Fruit loculicidal, ellipsoid to subcylindric, 3.5–5 × 1–1.5 cm, green. Seeds up to 20(–40) per fruit, ovoid, red and fleshy, 4–5 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce à large distribution, spontanée en Afrique tropicale du Sénégal jusqu’en Éthiopie à l’est et l’Afrique du Sud au sud, mais aussi à Madagascar et l’Asie tropicale ; actuellement largement répartie dans le monde entier comme plante ornemen tale ; au Gabon commune depuis la côte jusque dans le centre, mais absente dans l’est du pays
+Species with wide distribution, spontaneous in tropical Africa from Senegal to Ethiopia in the east and South Africa in the south, but also in Madagascar and tropical Asia; currently widely distributed throughout the world as an ornamental plant; in Gabon common from the coast to the interior, but absent in the east of the country
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétation ouverte, lieux rudéraux, sur sols sableux à argileux ; au Gabon jusqu’à 680 m d’altitude, ailleurs jusqu’à 2500 m
+Open vegetation, ruderal places, on sandy to clayey soils; in Gabon up to 680 m altitude, elsewhere up to 2500 m
 
 ## Vernacular names
 
@@ -39,11 +33,7 @@ lis de Malabar, lis glorieux, lis grimpant (Fr), climbing lily, cree ping lily, 
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce avec une large diversité d’usages, surtout en médecine traditionnelle, contre des douleurs, en cas d’évanouissement, pour traiter l’asthme, les rhumatismes, comme antipaludéen, etc. (Dounias, 2008) ; aussi cultivée comme plante ornementale. 3 Note taxonomique : espèce très variable, autrefois divisée en plusieurs espèces et dont on ne distingue plus que des variétés ou des écotypes localisés. Cette plante assez envahis sante et, bien que très décorative et parfois cultivée, est souvent considérée comme une « mauvaise herbe ». b : Dounias (2008), Field (1971), Hoenselaar (2005), Thulin (1995). ibliographie
-
-3
+Species with a wide diversity of uses, especially in traditional medicine, against pain, in case of fainting, for treating asthma, rheumatism, as an antimalarial, etc. (Dounias, 2008); also cultivated as an ornamental plant. 3 Taxonomic note: highly variable species, formerly divided into several species and of which only varieties or localized ecotypes are now distinguished. This plant quite invasive and, although very decorative and sometimes cultivated, is often considered a "weed". Bibliography: Dounias (2008), Field (1971), Hoenselaar (2005), Thulin (1995).
 
 ## Notes
 

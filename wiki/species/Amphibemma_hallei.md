@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrublet branching, erect up to 0.40 (1) m, often reddish; branchlets slender, rounded, at first densely furfuraceous and hirsute with bristles and glandular hairs, then glabrescent. Leaves hirsute, sometimes unequal on the same node; petiole slender, 2 to 3 cm long, furfuraceous and hirsute; blade elliptic to lanceolate, 4 × 8 cm, broadly cuneate at the base, obscurely acuminate-obtuse at the apex; hirsute on both faces, especially below on the nerves; 3 nerves slightly prominent, the transverse ones fine, parallel, spaced; margins entire.
 
-Arbrisseau ramié, dressé jusqu'à 0,40 (1) m, souvent rougeâtre; rameaux grêles, arrondis, d'abord densément furfuracés et hirsutes par des soies et des poils glanduleux, puis glabrescents. Feuilles hirsutes, parfois inégales sur le même nœud; pétiole grêle, long de 2 à 3 cm, furfuracé et hirsute; limbe elliptique à lancé, 4 × 8 cm, largement en coin à la base, obscurément acuminé-obtus au sommet; hirsute sur les 2 faces, surtout dessous sur les nervures; 3 nervures peu saillantes, les transversales fines, parallèles, espacées; marges entières.
+Terminal cymes, subsessile, contracted, 3–8-flowered. Flowers briefly pedicellate; hypantho-calyx narrowly campanulate, furfuraceous and bristly with filiform non-glandular bristles, lobes linear to narrowly triangular, flexuous, as long as the hypanthium. Petals pink, obovate-oblong, 11 mm long, with capitate hairs towards the apex. Outer stamens with anther 6 mm long; pedoconnective shorter than the anther, strongly arched, thickened on the back, compressed laterally, extended by a claviform appendage with a papillose head; filament 5 mm. Inner stamens with anther 4 mm; connective extended by a short, bilobed appendage, and furnished with an obtuse spur; filament 3 mm. Ovary adherent for half its height, crown with papillose margin, each of the 5 lobes bearing 1 to 2 radial bristles; style 10 mm; locules short, placentas sessile.
 
-Cymes terminales, subsessiles, contractées, 3-8-flores. Fleurs brièvement pédicellées; hypantho-calice étroitement campanulé, furfuracé et hérissé de soies filiformes non glanduleuses, lobes linéaires à étroitement triangulaires, flexueux, aussi longs que l'hypanthe. Pétales roses, obovales-oblongs, longs de 11 mm, avec poils capités vers le sommet. Étamines externes à anthère longue de 6 mm; pédoconnectif plus court que l'anthère, fortement arqué, épaissi sur le dos, comprimé latéralement, prolongé d'un appendice claviforme à tête mamelonnée; filet 5 mm. Étamines internes à anthère de 4 mm; connectif prolongé d'un appendice court, bilobé, et pourvu d'un éperon obtus; filet de 3 mm. Ovaire adhérent sur la moitié de sa hauteur, couronne à marge papilleuse, chacun des 5 lobes porte de 1 à 2 soies radiales; style de 10 mm; loges courtes, placentas sessiles.
-
-Fruit obconique, cratériforme, 5-côtelé, long de 6 mm, pédicelle de 3 mm; la couronne atteint la marge de l'hypanthe; le calice marcescent, puis caduc, laisse à nu la capsule marginée par la couronne indurée, pour-vue de quelques soies centripètes. Graines oblongues, 1 mm, lisses, vésicule fronto-apicale sulquée, funicule persistant. — Pl. 33, p. 91.
+Fruit obconical, crateriform, 5-ribbed, 6 mm long, pedicel 3 mm; the crown reaches the margin of the hypanthium; the calyx marcescent, then caducous, leaving bare the capsule margined by the hardened crown, provided with a few centripetal bristles. Seeds oblong, 1 mm, smooth, fronto-apical vesicle furrowed, funicle persistent. — Pl. 33, p. 91.
 
 ## Type
 
@@ -31,9 +29,7 @@ Hallé N. 2261, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce hirsute se reconnaît immédiatement parmi celles du groupe de l'A. setosum. Endémique.
+This hirsute species is immediately recognizable among those of the A. setosum group. Endemic.
 
 ## Specimens examined
 

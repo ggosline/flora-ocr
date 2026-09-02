@@ -27,7 +27,7 @@ tags: [species]
 
 25.Diospyros physocalycina Gürke
 
-Bot.Jahrb.26:68 (1898).—M1LDBRAED,Notizbl.Bot.Gart.Berl.9 ：1052 (1926).- F.WHITE,FWTA ed.2,2: I1 (1963); Nigerian Trees 2: 335 (1964). -Heisteria Winkleri ENGL., Bot.Jahrb.43:169 (1909). - Diospyros xanthochlamys GURkE,Bot. Jahrb.43 : 2I0 (1909).
+Bot.Jahrb.26:68 (1898).—M1LDBRAED,Notizbl.Bot.Gart.Berl.9 :1052 (1926).- F.WHITE,FWTA ed.2,2: I1 (1963); Nigerian Trees 2: 335 (1964). -Heisteria Winkleri ENGL., Bot.Jahrb.43:169 (1909). - Diospyros xanthochlamys GURkE,Bot. Jahrb.43 : 2I0 (1909).
 
 Specimens of this species appear in various herbaria under the following name: *Cyclostemon gabonense* (Pierre ms.), equal to *Drypetes gabonensis* and also misapplied to *Diospyros canaliculata*.
 
@@ -93,13 +93,13 @@ Central African Republic, may somewhat weaken that ecological distinction.
 
 ### Material studied in Cameroon
 
-Jacques-Felix 4894， Yokadouma (fr.,aout). Winkler 758 (type de Heisteria Winkleri Engl.),Campo pres Victoria pour ENGLER, Kampo pour MILDBRAED (fr., nov.） (cit.in Bot. Jahrb.43 :169 (1909),et in Notizbl.Bot.Gart.Berl.9:1o52 (1926). Zenker 93,Bipindi (fl.); 94, pres Bipindi (fl. ♀,avr.1918); 571, Bipindi (fl., avr.1914) P,B.;915 (type),Bipindi (fl. ♀,mai);1684 a,Bipindi (fl.δ)；1691 et 1713 (type de D.xanthochlamys Gürke),Bipindi (fl.,févr.et mars); 4279,Bipindi (fl. Q,fr.) K;4658,Bipindi (fr.);s.n.,Bipindi (stér.,févr.1898); s.n.,Mbiave pres Bipindi (j.fr.,juin 1911).
+Jacques-Felix 4894, Yokadouma (fr.,aout). Winkler 758 (type de Heisteria Winkleri Engl.),Campo pres Victoria pour ENGLER, Kampo pour MILDBRAED (fr., nov.) (cit.in Bot. Jahrb.43 :169 (1909),et in Notizbl.Bot.Gart.Berl.9:1o52 (1926). Zenker 93,Bipindi (fl.); 94, pres Bipindi (fl. ♀,avr.1918); 571, Bipindi (fl., avr.1914) P,B.;915 (type),Bipindi (fl. ♀,mai);1684 a,Bipindi (fl.δ);1691 et 1713 (type de D.xanthochlamys Gürke),Bipindi (fl.,févr.et mars); 4279,Bipindi (fl. Q,fr.) K;4658,Bipindi (fr.);s.n.,Bipindi (stér.,févr.1898); s.n.,Mbiave pres Bipindi (j.fr.,juin 1911).
 
 ### Material studied in Gabon
 
-Breteler 5749,5o km SE Lambaréné (j.fr.,sept.) WAG. Chevalier I1299,Mayumba (fr., janv.)；267o1 et 27o8g,Mboro sur le Ramboué (fl. , fr.,oct.).
+Breteler 5749,5o km SE Lambaréné (j.fr.,sept.) WAG. Chevalier I1299,Mayumba (fr., janv.);267o1 et 27o8g,Mboro sur le Ramboué (fl. , fr.,oct.).
 
-Estasse SRF 685,Mondah (stér.) FHO. Hallé N.811,cap Esterias (fl. ♀,aout); 813,eod. loc. (fl.δ,aout). Le Testu I4og,Mongonyanga,6o km W Tchibanga (fl.δ,oct.)；7566,Lastours" ville (fl.δ,oct.)；7644，Lastoursville (fl.,nov.)；9382，Nzec,35km W Mitzic (fl.Q,nov.);9386,eod.loc. (fl.,nov.).
+Estasse SRF 685,Mondah (stér.) FHO. Hallé N.811,cap Esterias (fl. ♀,aout); 813,eod. loc. (fl.δ,aout). Le Testu I4og,Mongonyanga,6o km W Tchibanga (fl.δ,oct.);7566,Lastours" ville (fl.δ,oct.);7644,Lastoursville (fl.,nov.);9382,Nzec,35km W Mitzic (fl.Q,nov.);9386,eod.loc. (fl.,nov.).
 
 ## Figures
 

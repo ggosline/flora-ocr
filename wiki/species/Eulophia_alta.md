@@ -17,19 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (1977); CRIBB, FTEA, Orchid. 3 : 435 (1989); FAC 2 : 667 (1992); FCAM 2 : 638
 
-(2001). – BASIONYME : – Limodorum altum L., Syst. Nat., ed. 12, 2 : 594 (1767). –
+(2001). – BASIONYM : – Limodorum altum L., Syst. Nat., ed. 12, 2 : 594 (1767). –
 
 ## Type
 
 basé sur un dessin de Plumier dans Burm., Pl. Amér., tab. 189 (1758)
 
 ## Discussion
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 – Dendrobium longiflorum Kunth, Nov. Gen. Sp. 1 : 360 (1815).
 
@@ -41,23 +37,19 @@ basé sur un dessin de Plumier dans Burm., Pl. Amér., tab. 189 (1758)
 
 – Eulophia longifolia (Kunth) Schltr., Orchideen : 347 (1914).
 
-Organes pérennes rhizomateux, d'environ 2 cm de diamètre. Feuilles 4-8, 20-120 x 1,5-10 cm. Inflorescence lâche, < 200 cm, 15-40-flore. Sépales vert olive ou verts, labelle et pétales rouge-violet, rarement blancs. Sépale dorsal oblong-lancéolé à ligulé. Pétales obliquement oblongs-spatulés. Sépales latéraux obliquement oblongs-lancéolés. Labelle 14-20 x 8-19 mm, trilobé dans les deux tiers apicaux, 2 épaississements charnus, carrés au centre ; lobe médian transversalement elliptique, densément couvert de papilles charnues assez longues ; lobes latéraux peu visibles, arrondis. Eperon très peu développé. - Pl. 141, p. 317.
+Rhizomatous perennial organs, approximately 2 cm in diameter. Leaves 4–8, 20–120 × 1.5–10 cm. Inflorescence lax, < 200 cm, 15–40-flowered. Sepals olive-green or green, labellum and petals red-violet, rarely white. Dorsal sepal oblong-lanceolate to ligulate. Petals obliquely oblong-spatulate. Lateral sepals obliquely oblong-lanceolate. Labellum 14–20 × 8–19 mm, trilobed in the apical two-thirds, with 2 fleshy thickenings, square at the centre; median lobe transversely elliptic, densely covered with fairly long fleshy papillae; lateral lobes scarcely visible, rounded. Spur very poorly developed. – Pl. 141, p. 317.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Guinée, Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, République centrafricaine, Soudan, Éthiopie, Zaïre, Burundi, Angola, Ouganda, Zambie, Zimbabwe, Amérique tropicale et subtropicale, de la Floride au Brésil et Pérou
+Senegal, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Central African Republic, Sudan, Ethiopia, Zaïre, Burundi, Angola, Uganda, Zambia, Zimbabwe, tropical and subtropical America, from Florida to Brazil and Peru
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 50–1,300 m. Terrestrial in papyrus marshes or other wet grasslands, or lithophytic on rocky river banks
 
-alt. 50-1 300 m. Terrestre dans les marais à Papyrus ou autres prairies humides, ou lithophyte sur berge rocheuse de rivière
+MATERIAL STUDIED (Map 65):
 
-MATÉRIEL ÉTUDIÉ (Carte 65) :
-
-Le Testu 783, Haute Ogooué, Lastoursville (4 Jan. 1929), (K – Cribb, comm. pers.).
+Le Testu 783, Haute Ogooué, Lastoursville (4 Jan. 1929), (K – Cribb, pers. comm.).
 
 ## Figures
 

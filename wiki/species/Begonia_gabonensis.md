@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 42 Wageningen Univ. Papers 2001(2) : 107 (2002). Épiphyte, suffrutescente ; tige atteignant 90 cm de longueur. Stipules caduques, étroitement triangulaires, 10–30 × 3–4(–6) mm. Feuilles vertes : pétiole de 0,5–1,5 cm ; limbe faiblement asymétrique, étroitement elliptique à ovale, 4–12 × 0,7–3 cm, base obliquement arrondie à cunéiforme, sommet aigu à acuminé, bords entiers ; nervure médiane saillante sur la face inférieure, avec 1 ou 2 nervures basales presque parallèles. Inflorescence bisexuée, 3–7(–15)-flores ; cymes 3-flores à 2 fleurs ♀ latérales et 1 fleur ♂ centrale ; pédoncule 1,5–4(–6) mm ; bractées parfois unies à la base et persistantes. Fleur ♂ : pédicelle 20–25 mm ; tépales externes 6–10 × 4–5 mm, les internes 6–7 × 1,5–2 mm ; androcée faiblement aplati, zygomorphe, étamines 9–12, filets presque complètement soudés en une colonne courte. Fleur ♀ sessile ; tépales semblables à ceux des fleurs ♂ ou plus petits ; ovaire étroit, triangulaire en coupe, 23–29 × 2 mm, nettement rétréci aux extrémités ; styles 3, parties libres subulées, bandes stigmatiques longitudinales. Infrutescence à (1–) 2 fruits . Fruit souvent légèrement courbé, trigone, les deux côtés supérieurs rouge vif, le troisième blanchâtre, 25–55(–70) × 3–4 mm, rostré au sommet ; déhiscent par une seule fente longitudinale.
+Plate 42 Wageningen Univ. Papers 2001(2) : 107 (2002). Epiphyte, suffrutescent; stem reaching 90 cm in length. Stipules caducous, narrowly triangular, 10–30 × 3–4(–6) mm. Leaves green: petiole 0.5–1.5 cm; blade weakly asymmetric, narrowly elliptic to ovate, 4–12 × 0.7–3 cm, base obliquely rounded to cuneate, apex acute to acuminate, margins entire; midvein prominent on the lower surface, with 1 or 2 basal veins almost parallel. Inflorescence bisexual, 3–7(–15)-flowered; cymes 3-flowered with 2 lateral ♀ flowers and 1 central ♂ flower; peduncle 1.5–4(–6) mm; bracts sometimes united at the base and persistent. ♂ Flower: pedicel 20–25 mm; outer tepals 6–10 × 4–5 mm, the inner ones 6–7 × 1.5–2 mm; androecium weakly flattened, zygomorphic, stamens 9–12, filaments almost completely fused into a short column. ♀ Flower sessile; tepals similar to those of ♂ flowers or smaller; ovary narrow, triangular in section, 23–29 × 2 mm, distinctly narrowed at the extremities; styles 3, free parts subulate, longitudinal stigmatic bands. Infructescence with (1–) 2 fruits. Fruit often slightly curved, trigonous, the two upper sides bright red, the third whitish, 25–55(–70) × 3–4 mm, rostrate at the apex; dehiscent by a single longitudinal slit.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, uniquement dans les Monts de Cristal et Monts Doudou
+endemic to Gabon, only in the Monts de Cristal and Monts Doudou
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+hygromesophilous epiphyte in dense ombrophilous forests between 400 m and 600 m altitude. B: de Wilde (2002). BIBLIOGRAPHY KE EWALD – Wageningen branch
 
-épiphyte hygromésophile en forêts denses ombrophiles entre 400 m et 600 m d’altitude. B : de Wilde (2002). IBLIOGRAPHIE KE EWALD – Wageningen branche
-
-<!-- caption: Planche 43. Begonia karperi : 1. Sommet d’un rameau et inflorescences ♂ (× 0,4). – 2, 2a. Rameau rampant radificère (× 0,4) et détail montrant l’indument (× 0,8). – 3. Fleur ♀ (× 0,4). – 4. Inflores- cence ♀, exceptionnellement 2-flores (× 0,4). – 5. Inflorescence ♀ (× ½). – 6, 6a. Ovaire (× 1,5) et détail des poils (× 24). – 7. Styles et stigmates (× 2,5). – 8. Stigmate, face externe (× 8). – 9. -->
+<!-- caption: Plate 43. Begonia karperi: 1. Tip of a branch and ♂ inflorescences (× 0.4). – 2, 2a. Creeping rooting branch (× 0.4) and detail showing the indumentum (× 0.8). – 3. ♀ Flower (× 0.4). – 4. ♀ Inflorescence, exceptionally 2-flowered (× 0.4). – 5. ♀ Inflorescence (× ½). – 6, 6a. Ovary (× 1.5) and detail of the hairs (× 24). – 7. Styles and stigmas (× 2.5). – 8. Stigma, external face (× 8). – 9. -->
 
 ## Notes
 

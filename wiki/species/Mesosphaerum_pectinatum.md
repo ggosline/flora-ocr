@@ -15,23 +15,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Hyptis pectinata (L.) Poit., Ann. Mus. Nat. Hist. Nat. Paris 7 : 474, t. 30 (1806). Herbe annuelle ou pérenne à courte durée de vie, de 1–2,5(–4,5) m de hauteur, à forte odeur désagréable ; tige bien ramifiée, pubescente à poils dirigés vers le bas. Feuille : pétiole 20–50 mm, plus court vers le sommet ; limbe étroitement à largement ovale, de 2–8 × 1–5 cm, arrondi à tronqué à la base, aigu à obtus à l’apex, légèrement et irrégulièrement denté, pubescent sur les deux faces, plus densément dessous. Inflorescence terminale et sur des pousses latérales courtes, en forme de candélabre ; cymes scorpioïdes, généralement par paires à partir d’un court pédoncule commun, avec (10 à)20 à 40 fleurs, unilatérales, l’ensemble des calices érigé et donnant un aspect pectiné ; bractées et bractéoles linéaires à sétacées, longues de 2–4 mm. Fleur : pédicelle 0,5 mm ; calice long de 2–2,5 mm et de 5,5 mm en fruit , pubescent, à une touffe de poils blancs visibles dans la gorge, à tube cylindrique, dressé, devenant faiblement urcéolé en fruit, à lobes subulés, un peu plus longs que le tube ; corolle longue de 2,5–3,5 mm , blanchâtre à mauve pâle, à lobe médian de la lèvre inférieure parfois plus foncé ou rayé. Fruit : akènes 4, oblongs-ellipsoïdaux, longs de 0,9–1 mm , noirs, lisses.
+Hyptis pectinata (L.) Poit., Ann. Mus. Nat. Hist. Nat. Paris 7 : 474, t. 30 (1806). Annual or short-lived perennial herb, 1–2.5(–4.5) m tall, with a strong unpleasant odor; stem well-branched, pubescent with hairs directed downwards. Leaf: petiole 20–50 mm, shorter towards the apex; lamina narrowly to broadly ovate, 2–8 × 1–5 cm, rounded to truncate at the base, acute to obtuse at the apex, slightly and irregularly dentate, pubescent on both surfaces, more densely below. Inflorescence terminal and on short lateral shoots, candelabra-shaped; scorpioid cymes, usually in pairs from a short common peduncle, with (10 to)20 to 40 flowers, unilateral, the whole of the calyces erect and giving a pectinate appearance; bracts and bracteoles linear to setaceous, 2–4 mm long. Flower: pedicel 0.5 mm; calyx 2–2.5 mm long and 5.5 mm in fruit, pubescent, with a tuft of white hairs visible in the throat, with a cylindrical tube, erect, becoming weakly urceolate in fruit, with subulate lobes, somewhat longer than the tube; corolla 2.5–3.5 mm long, whitish to pale mauve, with the median lobe of the lower lip sometimes darker or streaked. Fruit: 4 achenes, oblong-ellipsoid, 0.9–1 mm long, black, smooth.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandu, originaire d’Amérique centrale et du Sud ; en Afrique, y inclus la Guinée équa toriale, le Gabon, la République du Congo, la République Centrafricaine, la République démocratique du Congo et l’Angola ; au Gabon, connu uniquement de trois échantillons de l’Estuaire (environ de Libreville), récoltés en 1900. Statut de conservation : Largement répandu ; probablement Préoccupation mineure (LC)
+Widespread, native to Central and South America; in Africa, including Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo and Angola; in Gabon, known only from three specimens from the Estuary (vicinity of Libreville), collected in 1900. Conservation status: Widespread; probably Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Disturbed soils, clearings with secondary vegetation; in Gabon at 0–100 m altitude, elsewhere up to 1500 m. Uses: Used in Nigeria as a flavoring for soups and as a laxative. B : Burkill (1995), Harley & Pastore (2012), Morales (2011), Morton (1963), Paton et al. Bibliography (2013)
 
-sols perturbés, clairières à végétation secondaire ; au Gabon à 0–100 m d’altitude, ailleurs à jusqu’à 1500 m. Usage : Utilisé au Nigéria comme arôme pour les soupes et comme laxatif. B : Burkill (1995), Harley & Pastore (2012), Morales (2011), Morton (1963), Paton et al. i B liographie (2013)
-
-Royal Botanic Gardens, Kew (©), adapté et reproduit avec permission à partir de Paton et al. (2009).
+Royal Botanic Gardens, Kew (©), adapted and reproduced with permission from Paton et al. (2009).
 
 ## Notes
 

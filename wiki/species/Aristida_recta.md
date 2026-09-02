@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herbs attaining about forty centimeters in height, often less; culms with 1 node, leaves glabrous with ciliate ligule, sub-basal, rolled, about 0.5 mm wide and 2 to 10 cm long, slightly pubescent at the base.
 
-Herbes pérennes atteignant une quarantaine de centimètres de haut, souvent moins; chaumes à 1 nœud, feuilles glabres à ligule ciliée, sub-basilaires, enroulées, d'environ 1/2 mm de large et de 2 à 10 cm de long, légèrement pubescentes à la base.
+Lax panicle about 5 cm long with capillary axes. Spikelets linear-lanceolate, dark purple. Lower glume strongly keeled, 1-nerved, cuspidate, 3 mm long; upper glume narrowly lanceolate, subulate, acuminate, 5 mm long. Lemma tubular, smooth or scabrous toward the apex, 4 to 5 mm long, callus obtuse, scarcely hairy. Awns scabrous, the median 8 to 10 mm long, the lateral sometimes slightly shorter.
 
-Panicule lâche d'environ 5 cm de long à axes capillaires. Épillets linéaires lancéolés, pourpre foncé. Glume inférieure fortement carénée, à 1 nervure, cuspidée, de 3 mm de long; glume supérieure étroitement lancéolée, subulée, acuminée, de 5 mm de long. Lemma tubulaire, lisse ou scabre vers le sommet, de 4 à 5 mm de long, callus obtus, peu poilu. Arêtes scabres, la médiane de 8 à 10 mm de long, les latérales parfois un peu plus courtes.
-
-Espèce connue de l'Afrique du Sud, de l'Angola, et du Gabon où elle se rencontre dans la région de Franceville sur des dalles latéritiques.
+Species known from South Africa, Angola, and Gabon where it is found in the Franceville region on lateritic outcrops.
 
 ## Specimens examined
 

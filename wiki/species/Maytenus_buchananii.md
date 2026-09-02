@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Gymnosporia buchananii Loes., Bot. Jahrb. 28 : 153 (1900); BURTT-DAVY & HOYLE, NCL 2 : 37 (1936).
 
 — Maytenus edgari Exell & Mendonça; Bol. Soc. Brot., ser. 2, 2 : 223 (1952); Consp. Fl. Angol. 2 (1) : 6 (1956).
@@ -29,13 +27,13 @@ tags: [species, generated]
 
 — Celastrus littoralis CHEV., Expl. Bot. A.O.F. 1 : 129 (1920), nom. nud.
 
-Arbuste épineux à rameaux âgés gris portant des rameaux courts épineux longs de 2-3 cm; jeunes rameaux brun foncé, à nombreuses lenticelles plus claires,  $ \pm $ anguleux. Feuille à pétiole glabre long de 2-4 mm, canaliculé et caréné dessus. Limbe glabre sur les deux faces, vert grisâtre  $ \pm $ luisant dessus et vert grisâtre à tendance rougeâtre dessous, elliptique,  $ 3,5-6 \times 1,3-2,5 $ cm, base fortement atténuée, bord crénelé et sommet arrondi parfois courtement mucroné. Nervure médiane saillante dessus et très fortement saillante dessous; nervures secondaires, environ 7 paires très ascendantes,  $ \pm $ arquées, s'anastomosant à 0,5-1,5 mm du bord du limbe, saillantes dessus et très fortement saillantes dessous. Nervilles en réseau assez dense à mailles pentagonales le plus souvent, peu distinctes à la face supérieure et saillantes à la face inférieure.
+Spiny shrub with grey older branches bearing short spiny branchlets 2–3 cm long; young branchlets dark brown, with numerous paler lenticels, ± angular. Leaf with petiole glabrous 2–4 mm long, channelled and keeled above. Blade glabrous on both faces, greyish-green ± shiny above and greyish-green with reddish tendency below, elliptic, 3.5–6 × 1.3–2.5 cm, base strongly attenuate, margin crenate and apex rounded sometimes shortly mucronate. Midvein prominent above and very strongly prominent below; secondary veins, approximately 7 pairs very ascending, ± arched, anastomosing 0.5–1.5 mm from the blade margin, prominent above and very strongly prominent below. Tertiary veins in fairly dense network with mostly pentagonal meshes, scarcely distinct on the upper face and prominent on the lower face.
 
-Inflorescences en cymes axillaires pédonculées multiflores, longues de 1-1,5 mm. Bractée lancéolée, parfois longuement et abruptement acuminée, 1 × 0,5 mm, bord longuement cilié et sommet aigu. Bouton floral globuleux. Pédicelles très courtement pubérulents, articulés à la base, longs d'environ 3 mm. Fleurs pentamères blanchâtres. Sépales glabres lancéolés, 0,75 × 0,75 mm, sommet aigu. Pétales libres entre eux, dressés, glabres sur les deux faces, oblongs-elliptiques, 2 × 0,80 mm, sommet obtus. Étamines 5, libres entre elles, gynobasiques, ‡ fortement soudées au disque; filets grêles dressés, longs de 3 mm; anthères submédifixes, faiblement ovées, longues de 0,5 mm, densément tachetées de rouge à l'état sec sur la face dorsale; connectif parfois mucroné. Disque intrastaminal charnu, à 5 lobes. Ovaire supère à 3 loges. Style charnu long de 1,5 mm.
+Inflorescences in pedunculate multiflorous axillary cymes, 1–1.5 mm long. Bract lanceolate, sometimes long and abruptly acuminate, 1 × 0.5 mm, margin long ciliate and apex acute. Floral bud globose. Pedicels very shortly puberulent, articulate at base, approximately 3 mm long. Flowers pentamerous whitish. Sepals glabrous lanceolate, 0.75 × 0.75 mm, apex acute. Petals free from each other, erect, glabrous on both faces, oblong-elliptic, 2 × 0.80 mm, apex obtuse. Stamens 5, free from each other, gynobasic, ± strongly fused to the disc; filaments slender erect, 3 mm long; anthers submedifixed, weakly ovate, 0.5 mm long, densely spotted with red when dry on the dorsal face; connective sometimes mucronate. Intrastaminal disc fleshy, with 5 lobes. Ovary superior with 3 locules. Style fleshy 1.5 mm long.
 
 J.-F. VILLIERS
 
-Capsule glabre, obovoïde, triédrique, trivalve, longue de 7-8 mm. Chaque valve contient 1-2 graines brunes, luisantes, ellipsoïdes, ± fortement carénées; arille cupuliforme, jaune orangé, entourant la base de la graine. PL. 3, p. 13.
+Capsule glabrous, obovoid, triedric, trivalved, 7–8 mm long. Each valve contains 1–2 brown seeds, shiny, ellipsoid, ± strongly keeled; aril cupuliform, yellow-orange, surrounding the base of the seed. PL. 3, p. 13.
 
 ## Type
 
@@ -43,9 +41,7 @@ Buchanan 6990, in Herb. Wood, Nyasaland (holo-, B, delet.; iso-, E, K, PRE)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est largement répandue dans toute l’Afrique tropicale. Son aire s’étend de la Côte d’Ivoire au Mozambique. Elle croît sur les bords des rivières et dans les lisières des forêts.
+This species is widely distributed throughout tropical Africa. Its range extends from Côte d'Ivoire to Mozambique. It grows on riverbanks and in forest margins.
 
 ## Specimens examined
 

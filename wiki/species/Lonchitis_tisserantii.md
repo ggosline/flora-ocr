@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Alston et Tard., Mém. IFAN 28 : 85, pl. 13, 5-6 (1953); Alston, FWTA : 34 (1959).
 
-Rhizome dressé, haut de 10-15 cm, sur 1,5 cm de large, à extrémité densément squamoso-pileuse; écailles du rhizome très étroites, sétiformes, rousses. Limbe atteignant 1 m de haut, bipenné, vert foncé, à pennes opposées, longues de 20 cm, falciformes, oblongues, à angle droit avec le rachis. Pinnules environ 7 paires, espacées, subsessiles, atteignant 3 cm de long sur 1,5 de large, à base tronquée, extrémité arrondie, marges à peine lobées, les inférieures libres, les supérieures confluentes. Texture très mince. Coloration vert foncé sur le sec. Nervures copieusement anastomosées, portant des poils sur les 2 faces du limbe; parenchyme glabre. Sores petits, non confluents dans les sinus.
+Rhizome erect, 10-15 cm high, 1.5 cm wide, with densely squamoso-pilose apex; rhizome scales very narrow, setiform, reddish-brown. Frond reaching 1 m high, bipinnate, dark green, with opposite pinnae, 20 cm long, falcate, oblong, at right angles to the rachis. Pinnules approximately 7 pairs, spaced, subsessile, reaching 3 cm long by 1.5 cm wide, with truncate base, rounded apex, margins barely lobed, the lower ones free, the upper ones confluent. Texture very thin. Coloration dark green when dry. Veins copiously anastomosing, bearing hairs on both faces of the frond; parenchyma glabrous. Sori small, non-confluent in the sinuses.
 
-Paraphyses courtes, nombreuses, non recourbées, sub-aiguës.
+Paraphyses short, numerous, not recurved, sub-acute.
 
 ## Type
 
@@ -30,9 +28,7 @@ Tisserant s. n., Boukoko, Oubangui (P.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fernando-Po, Centrafrique, Cameroun.
+Fernando Po, Central African Republic, Cameroon.
 
 ## Specimens examined
 

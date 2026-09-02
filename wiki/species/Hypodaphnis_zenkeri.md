@@ -20,11 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Stapf, F.T.A. 6, 1:185 (1909).
 
-Arbre de 6-10 m atteignant rarement 20 m. Rameaux subanguleux tomentelleux à extrémité couleur rouille comme les bourgeons; rameaux plus âgés devenant glabres, cylindriques, gris. Feuilles conservant un léger tomentum sous les nervures; pétiole de 1,5-3 cm de long; limbe papyracé de 13-30 cm de long sur 6-13 de large, acuminé, avec 4-6 paires de nervures secondaires. Inflorescences tomentelleuses fauves de 3-8 cm; fleurs jaune-orangé densément velues dehors, tépales glabrescents à l'intérieur, longs de 4 mm, staminodes nuls. Fruit ellipsoïde atteignant 6 cm de long sur 5 cm de diamètre; péricarpe charnu de 0,5 cm d'épaisseur; endocarpe ligneux de 1 mm d'épaisseur; gros cotylédons.
+Tree 6–10 m, rarely reaching 20 m. Branchlets subangulous tomentellose with rust-coloured apex like the buds; older branchlets becoming glabrous, cylindric, grey. Leaves retaining slight tomentum beneath the veins; petiole 1.5–3 cm long; blade papyraceous 13–30 cm long by 6–13 cm wide, acuminate, with 4–6 pairs of secondary veins. Inflorescences tomentellose fawn 3–8 cm; flowers yellow-orange densely villous outside, tepals glabrescent inside, 4 mm long, staminodes absent. Fruit ellipsoid reaching 6 cm long by 5 cm in diameter; pericarp fleshy 0.5 cm thick; endocarp woody 1 mm thick; large cotyledons.
 
 ## Type
 
@@ -32,11 +30,9 @@ Zenker 851, Bipinde, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Cameroon, Nigeria, Gabon.
 
-Cameroun, Nigéria, Gabon.
-
-Le cœur de l'arbre fournit un bois gris-marron à marron foncé, facile à travailler.
+The heartwood of the tree provides grey-brown to dark brown wood, easy to work.
 
 ## Specimens examined
 

@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Très grand arbre atteignant 55 m de hauteur ; tronc jusqu’à 200 cm de diamètre, à empat tements ou à contreforts épais ; écorce sombre, gris argenté à brun jaunâtre, écailleuse ; tranche rosâtre, virant rapidement au brun, à forte odeur de cèdre , pas d’exsudat appré ciable ; bourgeons terminaux pubescents. Feuille : pétiole 5–12 cm, élargi, plan-convexe et à bords étroitement ailés à la base ; rachis 5–17(–25) cm ; pétiolule 1–3 mm, pubé rulent ; folioles (4–)8–14(–18), étroitement rectangulaires à rectangulaires ou obovales à ovales, (3,5–)5–11(–14) × 2–4,5 cm, cunéées à arrondies et asymétriques à la base, aiguës ou obtuses au sommet, luisantes dessus, glabres sauf quelque indument sur la nervure médiane et sur les 6–10(–12) paires de nervures secondaires dessous et parfois avec domaties à l’aisselle des nervures ; réseau de nervilles saillant sur les 2 faces . Inflores cence atteignant 28 cm de longueur, lâchement ramifiée, pubérulente. Fleur fonctionnel lement mâle : pédicelle articulé, 1,5–2 mm ; calice patelliforme, profondément 5-lobé, 0,5–1 mm de hauteur ; pétales étalés à l’anthèse, ovales, 3–4 × 2 mm, aigus, pubérulents à l’extérieur ; tube staminal urcéolé, très court, 1,5–2 mm de longueur , glabre, bord légèrement denté, à 10 anthères elliptiques-triangulaires, implantés sur les dents, 0,6 × 0,3 mm ; gynécée (pistillode) 1–1,5 mm de longueur, glabre ; ovaire conique, 1 mm de dia mètre, soutenu par un disque-gynophore légèrement côtelé de 0,3 mm de longueur ; style presque nul, stigmate épais. Fleur fonctionnellement femelle similaire ; ovaire conique, 1–1,5 mm de diamètre. Fruit étroitement ovoïde, à déhiscence simultanément basale et apicale , 6–10(–15) × 2,5–3,5 cm. Graine y incluse l’aile, 5–8 × 1,5–2 cm.
+Very tall tree reaching 55 m in height; trunk up to 200 cm in diameter, with thick buttresses or flanges; bark dark, silvery grey to yellowish brown, scaly; inner surface pinkish, quickly turning brown, with strong cedar odour, no appreciable exudate; terminal buds pubescent. Leaf: petiole 5–12 cm, enlarged, plano-convex and with narrowly winged margins at the base; rachis 5–17(–25) cm; petiolule 1–3 mm, puberulent; leaflets (4–)8–14(–18), narrowly rectangular to rectangular or obovate to ovate, (3.5–)5–11(–14) × 2–4.5 cm, cuneate to rounded and asymmetric at the base, acute or obtuse at the apex, shiny above, glabrous except for some indument on the midvein and on the 6–10(–12) pairs of secondary veins below and sometimes with domatia at the vein axils; venule network prominent on both surfaces. Inflorescence reaching 28 cm in length, loosely branched, puberulent. Functionally male flower: pedicel articulate, 1.5–2 mm; calyx patelliform, deeply 5-lobed, 0.5–1 mm in height; petals spreading at anthesis, ovate, 3–4 × 2 mm, acute, puberulent on the outside; staminal tube urceolate, very short, 1.5–2 mm in length, glabrous, margin slightly dentate, with 10 elliptic-triangular anthers, inserted on the teeth, 0.6 × 0.3 mm; gynoecium (pistillode) 1–1.5 mm in length, glabrous; ovary conical, 1 mm in diameter, supported by a slightly ribbed disc-gynophore 0.3 mm in length; style almost lacking, stigma thick. Functionally female flower similar; ovary conical, 1–1.5 mm in diameter. Fruit narrowly ovoid, with simultaneously basal and apical dehiscence, 6–10(–15) × 2.5–3.5 cm. Seed including the wing, 5–8 × 1.5–2 cm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Guinée, Libéria, Côte d’Ivoire, Ghana, Nigéria, Cameroun, Guinée Équatoriale, Gabon, République du Congo, République Centrafricaine, Répu blique Démocratique du Congo, Angola et Ouganda ; au Gabon, connue de la Ngounié, de l’Ogooué-Ivindo et du Woleu-Ntem
+Sierra Leone, Guinea, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Central African Republic, Democratic Republic of the Congo, Angola and Uganda; in Gabon, known from the Ngounié, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+old forest and semi-deciduous secondary forest, rarer in evergreen forest; in Gabon, up to 550 m in altitude, elsewhere up to 1500 m
 
-vieille forêt et forêt secondaire semi-caducifoliée, plus rare en forêt semper virente ; au Gabon, jusqu’à 550 m d’altitude, ailleurs jusqu’à 1500 m
+Voorhoeve 196; D: Voorhoeve 881; E: Keay FHI 25596). Drawing by L. van der Riet, Naturalis Biodiversity Center, Leiden (©).
 
-Voorhoeve 196 ; D : Voorhoeve 881 ; E : Keay FHI 25596 ). Dessin par L. van der Riet, Naturalis Biodi versity Center, Leiden (©).
-
-Usage : Excellent bois d’œuvre, fournit l’acajou d’Afrique préféré, prise pour la menui serie, l’ébénisterie et depuis longtemps pour la fabrication de pirogues.
+Uses: Excellent timber, furnishes the preferred African mahogany, sought for carpentry, cabinet-making and long used for the manufacture of canoes.
 
 ## Vernacular names
 

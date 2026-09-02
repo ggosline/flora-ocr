@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bak., Syn. Fil. : 485 (1874); Tard., Mém. IFAN, 28 : 180, t. 34, f. 3 (1953); Alston, FWTA : 56 (1959).
 
-Rhizome court, à frondes en touffes, portant des écailles largement lancéolées, échancrées à la base, formées de cellules courtes, à paroi mince, brun clair, lumière jaune. Pétiole brun à la base, verdâtre plus haut, canaliculé, long de 10-15 cm, portant sur toute sa longueur, des écailles lancéolées, étroites. Limbe unipenné, long de 20-30 cm sur 3-4 de large, oblong-lancéolé, à extrémité linéaire, lobée, souvent prolifère à sa base, portant
+Rhizome short, with fronds in tufts, bearing broadly lanceolate scales, erose at the base, formed of short cells with thin walls, light brown, yellow in transmitted light. Petiole brown at the base, greenish higher up, channelled, 10–15 cm long, bearing throughout its length narrow lanceolate scales. Frond blade unipinnate, 20–30 cm long by 3–4 cm wide, oblong-lanceolate, with linear, lobed apex, often proliferous at its base, bearing
 
-de nombreuses paires de pennes, les inférieures non décroissantes, les moyennes opposées, subsessiles, faisant un angle droit avec le rachis, à contour lancéolé, longues de 2-3 cm sur 1 de large, à extrémité obtuse, bases inégales, la supérieure cunéiforme, l'inférieure oblique, non bordée par la nervure médiane; marges serrulées, à dents obliques. Nervures bifurquées vers le bord de la penne. Costa blanchâtre. Sores minces, allongés, n'atteignant ni la marge ni le costa. Rachis aplati, légèrement écailleux. Texture subcoriace.
+numerous pairs of pinnae, the lower ones not decreasing, the middle ones opposite, subsessile, at right angles to the rachis, lanceolate in outline, 2–3 cm long by 1 cm wide, with obtuse apex, unequal bases, the upper one cuneiform, the lower one oblique, not bordered by the midvein; margins serrulate, with oblique teeth. Veins bifurcate towards the margin of the pinna. Costa whitish. Sori slender, elongate, not reaching either the margin or the costa. Rachis flattened, slightly scaly. Texture subcoriaceous.
 
 ## Type
 
@@ -30,11 +28,9 @@ Fernando-Po, Mann 338 (K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea, Côte-d'Ivoire, Cameroon, Congo, Fernando-Po.
 
-Guinée, Côté-d'Ivoire, Cameroun, Congo, Fernando-Po.
-
-Sous-bois forestiers peu éclairés, sur sol sablonneux ou marécageux.
+Shaded forest understory, on sandy or swampy soil.
 
 ## Specimens examined
 

@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 73 (13): 27, 89-92 (1973); l.c. 81 (10): 50 (1981); AUWP 86 (3): 12, 13, 17, 18 (1986). TYPE: Gabon, Koulamoutou, Le Testu 8002 (holo-, WAG; iso-, BM, P).
 
-Liane grêle presqu'entièrement glabre. Rameaux glabres le plus souvent munis de lenticelles difficiles à voir, dispersées. Jeunes rameaux glabres ou avec une pubescence apprimée courte très éparse, tôt glabrescents, devenant souvent lenticelles ; parties jeunes parfois très finement scabres.
+Slender vine almost entirely glabrous. Branches glabrous most often provided with lenticels difficult to see, scattered. Young branches glabrous or with short appressed pubescence very sparse, early glabrescent, often becoming lenticellate; young parts sometimes very finely scabrous.
 
-Stipules tôt caduques, subulées, longues de 1-3 mm, glabres ou presque.
+Stipules early caducous, subulate, 1-3 mm long, glabrous or nearly so.
 
-Feuilles. Pétiole canaliculé dessus ou semicylindrique, long de 2-4 (7) mm, glabre ou presque. Limbe papyracé, luisant ou brillant à l'état frais, oblong-elliptique à obové, 2-3 fois plus long que large, 7-13 × 2,5-5,5 cm; base cunée obtuse ou parfois tronquée; sommet obtusément caudé, acumen long de (0,5) 1-1,5 cm ; limbe glabre ou avec de rares poils dispersés sur la nervure I tôt glabre ; nervure I en général pro-éminente dessus, les principales nervures II (7) 8-11 (14) paires, très fines, souvent assez peu distinctes sur les deux faces des nervures III, qui sont ± parallèles ; glandes très petites, dispersées uniquement à la face inférieure.
+Leaves. Petiole channelled above or semicylindric, 2-4 (7) mm long, glabrous or nearly so. Blade papyraceous, glossy or brilliant in fresh state, oblong-elliptic to obovate, 2-3 times longer than wide, 7-13 × 2.5-5.5 cm; base cuneate obtuse or sometimes truncate; apex obtusely caudate, acumen 0.5-1-1.5 cm long; blade glabrous or with rare hairs scattered on the I nerve early glabrous; I nerve generally prominent above, the main II nerves (7) 8-11 (14) pairs, very fine, often rather indistinct on both faces of the III nerves, which are ± parallel; glands very small, scattered only on the lower face.
 
-Inflorescences glabres, au plus 10 (15)-flores ; souvent quelques-unes se trouvent ensemble sur une courte pousse axillaire aphylle
+Inflorescences glabrous, at most 10 (15)-flowered; often some are found together on a short axillary aphyllous shoot loosely branched. Peduncle 2-10 mm long. Bracts and bracteoles minute, 0.5 mm long, triangular often with some hairs. Pedicels rather slender, glabrous usually articulate above the middle, lower part 1-2-3 (4) mm long, upper part 1-1.5 (2) mm.
 
-lâchement ramifiée. Pédoncule long de 2-10 mm. Bractées et bractéoles minuscules, longues de 0,5 mm, triangulaires avec souvent quelques poils. Pédicelles plutôt grêle, glabre habituellement articulé au-dessus du milieu, partie inférieure longue de (1) 2-3 (4) mm, partie supérieure, 1-1,5 (2) mm.
+Flowers. Sepals reflexed, free or very shortly united at their base, obovate-elliptic to ovate-elliptic, 2-2.5 × 1.5-2 mm, margin finely puberulent or almost entirely glabrous. Petals spreading or subreflexed, sometimes erect, obovate-lanceolate form, 3-4 mm long, split for 2-2.5 mm, base very shortly fused to the filaments, glabrous; lobes concave, apex rounded to subacute. Stamens 3-5.5 mm long, glabrous; anthers small 0.5 mm. Staminodes, length = or > that of the ovary, 1-1.5 mm, glabrous, deeply bifurcate into two slender branches. Pistil 3-5 mm long, glabrous; style 3-lobed at the apex; ovary 3-locular.
 
-Fleurs. Sépales réfléchis, libres ou très courtement réunis par leur base, obovés-elliptiques à ovés-elliptiques, 2-2,5 × 1,5-2 mm, marge finement pubérulente ou presqu'entièrement glabre. Pétales étalés ou subréfléchis, parfois dressés, forme obovée-lancéolée, longs de 3-4 mm, fendus sur 2-2,5 mm, base très courtement soudée aux filets, glabres ; lobes concaves, sommet arrondi à subaigu. Étamines longues de 3-5,5 mm, glabres ; anthères petites 0,5 mm. Staminodes, longueur = ou > celle de l'ovaire, 1-1,5 mm, glabre, profondément bifurqués en deux branches ténues. Pistil long de 3-5 mm, glabre ; style 3-lobé au sommet ; ovaire à 3 loges.
-
-Fruits obovoïdes-ellipsoïdaux, oranges et lisses à maturité, 2,5-4 × 1,5 cm, en général courtement stipités à la base et sommet terminé par un bec souvent aigu et courbe long de 8 mm ; mésocarpe sucré, juteux ; endocarpe parcheminé, fibreux, brillant et très finement strié à l'intérieur. Graines ovoïdes-ellipsoïdales, longueur jusqu'à 2 cm et diamètre 1 cm ; testa fin, brun, nettement veiné. - Pl. 13, p. 63.
+Fruits obovoid-ellipsoidal, orange and smooth at maturity, 2.5-4 × 1.5 cm, generally shortly stipitate at the base and apex terminated by a beak often acute and curved 8 mm long; mesocarp sweet, juicy; endocarp parchment-like, fibrous, glossy and very finely striate inside. Seeds ovoid-ellipsoidal, length up to 2 cm and diameter 1 cm; testa thin, brown, clearly veined. - Pl. 13, p. 63.
 
 ## Type
 
@@ -41,23 +37,17 @@ Le Testu 8002, Koulamoutou, Gabon
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species, very close to D. mundense, is distinguished from it by the following characters:
 
-Cette espèce, très proche de D. mundense, s'en distingue par les caractères suivants :
-
-Pistil entièrement glabre ; pétales longs de 3-4 mm, fendus sur 2-2,5 mm ; staminodes profondément bifurqués en deux branches filiformes ..... D. bellum Pistil pubescent vers le sommet de l'ovaire et la base du style ; pétales longs de 2-3 mm, fendus sur 1-1,5 mm ; staminodes de forme variable ne présentant jamais deux longues branches filiformes ..... D. mundense
+Pistil entirely glabrous; petals 3-4 mm long, split for 2-2.5 mm; staminodes deeply bifurcate into two filiform branches ..... D. bellum Pistil pubescent toward the apex of the ovary and the base of the style; petals 2-3 mm long, split for 1-1.5 mm; staminodes of variable form never presenting two long filiform branches ..... D. mundense
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon, Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles, galeries forestières
+ombrophilous forests, forest galleries
 
 ## Specimens examined
 

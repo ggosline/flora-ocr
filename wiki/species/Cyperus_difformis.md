@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, grêle ou de taille moyenne ; tiges de 6‒80 cm × 0,7‒3 mm, trigones, glabres. Feuille : gaine verte à brun rougeâtre, plutôt large, les basales sans limbe ; limbe de 5‒30 cm × 2‒6 mm , plan, mou, lisse ou scabre sur la marge et la nervure centrale. Inflorescence en anthèle solitaire, compacte ou avec de nombreuses têtes disposées presque en ombelle et formant une anthèle large de 1‒8 cm ; chaque tête large de 5‒12 mm et à 10‒60 épillets en fascicules digités ; bractées involucrales 2‒4, foliacées, la plus grande de 3‒30 cm × 1‒6 mm, dressée ou étalée, dépassant beaucoup l’inflorescence. Épillet de 2‒6 × 0,8‒1,2 mm , gris jaunâtre à brun foncé, à 6‒30 fleurs ; glumes obovales, longues de 0,6‒0,8 mm , jaunâtre à brun rougeâtre foncé avec une large nervure verte se terminant par un mucron court. Akène obovale – elliptique, de 0,6‒0,8 mm × 0,3‒0,4 mm , trigone, brun jaunâtre, finement papilleux.
+Annual herb, slender or of medium size; stems 6–80 cm × 0.7–3 mm, trigonous, glabrous. Leaf: sheath green to reddish-brown, rather broad, the basal ones without blade; blade 5–30 cm × 2–6 mm, flat, soft, smooth or scabrous on the margin and the central nerve. Inflorescence in a solitary anthela, compact or with numerous heads arranged almost in an umbel and forming a broad anthela 1–8 cm wide; each head 5–12 mm wide and bearing 10–60 spikelets in digitate fascicles; involucral bracts 2–4, foliaceous, the largest 3–30 cm × 1–6 mm, erect or spreading, far exceeding the inflorescence. Spikelet 2–6 × 0.8–1.2 mm, yellowish-grey to dark brown, bearing 6–30 flowers; glumes obovate, 0.6–0.8 mm long, yellowish to dark reddish-brown with a broad green nerve terminating in a short mucro. Achene obovate–elliptic, 0.6–0.8 mm × 0.3–0.4 mm, trigonous, yellowish-brown, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-commune dans les régions pantropicales et aussi en Europe du Sud ; au Gabon, apparemment peu commune, trouvée dans l’Estuaire, la Nyanga, l’Ogooué-Ivindo et l’Ogooué-Maritime (8 récoltes)
+common in pantropical regions and also in southern Europe; in Gabon, apparently uncommon, found in Estuaire, Nyanga, Ogooué-Ivindo and Ogooué-Maritime (8 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les zones herbeuses temporairement inondées, les marécages temporaires, les mares et les fossés de drainage ; au Gabon, à 0‒400 m d’altitude, jusqu’à 2100 m en Afrique de l’Est
+in herbaceous zones temporarily inundated, temporary marshes, ponds and drainage ditches; in Gabon, at 0–400 m elevation, up to 2100 m in East Africa
 
 ## Vernacular names
 

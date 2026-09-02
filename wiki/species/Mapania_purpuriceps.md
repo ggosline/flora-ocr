@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste, à rhizome épais de 3–4 mm ; tige solitaire, centrale , 30–40 cm × 3–4,5 mm, ± distinctement triangulaire, verte ou noir violacé en bas, glabre ou légèrement scabre en haut. Feuilles toutes basales ; gaine lancéolée, verte à brun rougeâtre foncé, assez épaisse, 10–20 × 2,5–3,5 cm ; limbe linéaire , plan, assez épais, trinervé, le plus grand de 80–130 × 4–6 cm , à base rétrécie progressivement en gaine, progressivement terminé en un sommet aigu. Inflorescence terminale, en tête globuleuse large de 3–5 cm , violacée, composée de nombreux épis serrés et peu distincts ; bractées involucrales 3(–4), étalées, foliacées, linéaires à lancéolées–ovales, 3–25 × 1–4 cm, vertes à violacé foncé, sommet aigu ; épis elliptiques à obovales, de 10–20 × 15–17 mm ; bractées spicoïdales linéaires à linéaires–oblongues, 8–10 × 2–2,5 mm , planes, brunes mais fortement striées de brun violacé foncé vers le sommet, glabres, sommet obtus, chacune soustendant un spicoïde à 2 fleurs mâles et 1 femelle. Fleur : bractées florales 4, longues
+Fairly robust herb, with thick rhizome 3–4 mm; stem solitary, central, 30–40 cm × 3–4.5 mm, ± distinctly triangular, green or dark blackish-violet at base, glabrous or slightly scabrous at apex. Leaves all basal; sheath lanceolate, green to dark reddish-brown, fairly thick, 10–20 × 2.5–3.5 cm; blade linear, plane, fairly thick, trinerved, the largest 80–130 × 4–6 cm, base gradually narrowed into sheath, gradually terminating in an acute apex. Inflorescence terminal, in globose head 3–5 cm wide, violet, composed of numerous dense and scarcely distinct spikes; involucral bracts 3(–4), spreading, foliaceous, linear to lanceolate–ovate, 3–25 × 1–4 cm, green to dark violet, apex acute; spikes elliptic to obovate, 10–20 × 15–17 mm; spicoid bracts linear to linear–oblong, 8–10 × 2–2.5 mm, plane, brown but strongly striated with dark brownish-violet toward the apex, glabrous, apex obtuse, each subtending a spicoid with 2 male flowers and 1 female. Flower: floral bracts 4, long
 
 a b
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon et trouvée dans l’Estuaire, le Moyen-Ogooué, la Ngounié, la Nyanga et le Woleu-Ntem (13 récoltes)
+endemic to Gabon and found in Estuaire, Moyen-Ogooué, Ngounié, Nyanga and Woleu-Ntem (13 collections)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire ou secondaire, souvent le long des rivières et des ruisseaux ; à 0–500 m d’altitude. Note taxonomique : se distingue facilement par son inflorescence violacée avec de grandes bractées spicoïdales et florales. Elle ressemble à M. macrantha qui possède une inflorescence brune et non violacée ; M. macrantha en diffère également par un groupement plus dense d’épis ± indistincts. b : Simpson (1992). ibliographie
+primary or secondary forest, often along rivers and streams; at 0–500 m altitude. Taxonomic note: easily distinguished by its violet inflorescence with large spicoid and floral bracts. It resembles M. macrantha which has a brown and not violet inflorescence; M. macrantha differs further by a denser grouping of ± indistinct spikes. b: Simpson (1992). Bibliography
 
 ## Notes
 

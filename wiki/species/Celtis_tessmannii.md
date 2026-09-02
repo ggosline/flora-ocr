@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste , de (3,5–)6–40 m de hauteur, caducifolié ; tronc jusqu’à 1,5 m de diamètre, légèrement cannelé à la base ou à contreforts hauts de 2,5–5 m ; écorce grise à gris verdâtre, lisse et striée horizontalement ou fissurée verticalement ; tranche crème à taches ou couches brunes ; rameaux grêles, de 1–5 mm d’épaisseur, à pubescence rougeâtre. Stipules caduques, lancéolées-linéaires, jusqu’à 4 mm de longueur, poilues. Feuille : pétiole de 2–4 mm , poilu ; limbe elliptique à elliptique-oblong, asymétrique , ± falciforme , de 4–11 × 2–4 cm , arrondi et inégal à la base, acuminé au sommet, à marge entière, largement serrée à l’apex quand elle est jeune, papyracé à coriace, dessus vert foncé brillant et à nervure médiane poilue , dessous vert clair terne et poilu au moins sur la partie basale des nervures , triplinervé ; 2 ou 3 paires de nervures secondaires, réunies en arceaux avant d’atteindre la marge (brochidodromes). Inflorescence axillaire, longue de 4–15 cm, poilue, à fleurs mâles souvent condensées, les hermaphrodites et les femelles en petit nombre à l’apex ; bractéoles étroitement elliptiquesovales, apex acuminé. Fleur verte à jaunâtre ; pédicelle atteignant 4 mm ; tépales 5, oblongs, longs de 1,5–2 mm, arrondis au sommet, pubescents ; étamines 5, anthère jaune ; ovaire ovoïde, densément poilu ; styles 2, à stigmates bifurqués. Fruit globuleux, de 10–18 × 8–15 mm, orange à noir à maturité ; endocarpe de 11 × 10 mm, lenticulaire, rugueux.
+Tree or shrub, (3.5–)6–40 m tall, deciduous; trunk up to 1.5 m in diameter, slightly fluted at base or with buttresses 2.5–5 m high; bark grey to greyish-green, smooth and horizontally striated or vertically fissured; interior cream with brown spots or layers; twigs slender, 1–5 mm thick, with reddish pubescence. Stipules caducous, lanceolate-linear, up to 4 mm long, pilose. Leaf: petiole 2–4 mm, pilose; lamina elliptic to elliptic-oblong, asymmetric, ± falciform, 4–11 × 2–4 cm, rounded and unequal at base, acuminate at apex, with entire margin, broadly appressed to apex when young, papyraceous to coriaceous, upper surface dark green glossy and with pilose midvein, lower surface pale green dull and pilose at least on basal part of veins, triplinervate; 2 or 3 pairs of secondary veins, joined in arches before reaching margin (brochidodromous). Inflorescence axillary, 4–15 cm long, pilose, with male flowers often condensed, hermaphrodite and female flowers few in number at apex; bracteoles narrowly elliptic-ovate, apex acuminate. Flower greenish to yellowish; pedicel reaching 4 mm; tepals 5, oblong, 1.5–2 mm long, rounded at apex, pubescent; stamens 5, anther yellow; ovary ovoid, densely pilose; styles 2, with bifurcate stigmas. Fruit globose, 10–18 × 8–15 mm, orange to black at maturity; endocarp 11 × 10 mm, lenticular, rugose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connu de l’Afrique tropicale occidentale et centrale, dont le Cameroun, la Guinée équatoriale, le Gabon, la République du Congo, la République démocratique du Congo et la République Centrafricaine ; au Gabon, dans toutes les provinces sauf la Nyanga
+known from tropical West and Central Africa, including Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo and Central African Republic; in Gabon, in all provinces except Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire, parfois dans les forêts semi-décidues ; au Gabon et ailleurs à 50–700 m d’altitude
+primary and secondary forest, sometimes in semi-deciduous forests; in Gabon and elsewhere at 50–700 m altitude
 
 ## Vernacular names
 

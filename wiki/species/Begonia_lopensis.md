@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant reaching 12 cm in height. Leaf subpeltate; petiole 2–12 mm, hirsute; blade ± erect when fresh, not bullate, symmetric, linear, 4–12 × 0.3–0.6 cm, apex acute, base rounded, margin sparsely and obtusely dentate, upper surface without long hairs. Inflorescence: peduncle 0.2–1 cm, with 1 ♂ flower and 1 ♀ flower with yellow tepals; bracts approximately 2 mm in length. ♂ Flower: tepals 8–11 × 7–10 mm; androecium with 12 stamens. ♀ Flower: pedicel elongating in fruit to 7 mm; tepals 6–7 × 5–6 mm; ovary (wings included) transversely rhomboid-ellipsoid to transversely narrowly rhomboid-ellipsoid, 2–3 × 4–7 mm, without long hairs, with 3 indistinct wings or up to 2 mm in width; styles 3. Fruit as the ovary, 2.5–3 × 4–8 mm; rostrum manifest, 1.5–2 mm.
 
-Plante atteignant 12 cm de hauteur. Feuille subpeltée ; pétiole de 2–12 mm, hirsute ; limbe ± érigé sur le frais, non bullé, symétrique, linéaire, 4–12 × 0,3–0,6 cm , sommet aigu, base arrondie, marge éparsement et obtusément dentée, face supérieure sans poils longs. Inflorescence : pédoncule 0,2–1 cm, avec 1 fleur ♂ et 1 fleur ♀ à tépales jaunes ; bractées environ 2 mm de longueur. Fleur ♂ : tépales 8–11 × 7–10 mm ; androcée à 12 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 7 mm ; tépales 6–7 × 5–6 mm ; ovaire (ailes incluses) transversalement rhomboïdo-ellipsoïde à transversalement étroitement rhomboïdo-ellipsoïde , 2–3 × 4–7 mm, sans poils longs, à 3 ailes indistinctes ou jusqu’à 2 mm de largeur ; styles 3. Fruit comme l’ovaire, 2,5–3 × 4–8 mm ; rostre manifeste, 1,5–2 mm.
+Louis c.s. 895). Drawing by W W, National Herbarium of the Netherlands – Wageningen branch. IL ESSEL
 
-Louis c.s. 895 ) . Dessin par W W , Herbier National des Pays-Bas – Wageningen branche. IL ESSEL
-
-IL W , Herbier National des Pays-Bas – Wageningen branche. ESSEL
+IL W, National Herbarium of the Netherlands – Wageningen branch. ESSEL
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique dans la Réserve de la Lopé, au cœur du Gabon ; très localisée et rare
+endemic to the Lopé Reserve, in the heart of Gabon; very localized and rare
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sur des parois rocheuses verticales le long des cours d’eau, dans la forêt primaire ; à 500 m d’altitude. B : Sosef & Leal (2002). IBLIOGRAPHIE
+on vertical rocky walls along watercourses, in primary forest; at 500 m elevation. B: Sosef & Leal (2002). BIBLIOGRAPHY
 
 ## Notes
 

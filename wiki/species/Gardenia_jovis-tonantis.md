@@ -22,21 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub ± tortuous about 2 m tall. Young internodes ± puberulent, generally very short. Short lateral branches transforming into very coarse spines after leaf fall or fruiting. Stipules briefly tubulous ± pubescent. Leaves glabrous, whorled by 3(4). Petiole 1–2 mm. Blade subcoriaceous, discolorous or not, obovate (2) 5–11 × 1.5–5 cm, with cuneate base attenuate, with obtuse or rounded apex. Nerves and nervilles prominent and very conspicuous on both faces of blade when dry. 4–10 pairs of secondary nerves. Axillary domatia pubescent.
 
-Arbuste ± tortueux d'environ 2 m de hauteur. Jeunes entrenœuds ± pubérulents, généralement très courts. Courts rameaux latéraux se transformant en épines très grossières après chute des feuilles ou fructifications. Stipules brièvement tubuleuses ± pubescentes. Feuilles glabres verticillées par 3(4). Pétiole de 1-2 mm. Limbe subcoriace, discolore ou non, obové de (2) 5-11 × 1,5-5 cm, à base cunéiforme atténuée, à sommet obtus ou arrondi. Nervures et nervilles saillantes et très apparentes sur les deux faces du limbe à sec. 4-10 paires de nervures secondaires. Domaties axillaires pubescentes.
+Flowers solitary terminal sessile on short branches. Calyx puberulent at least on the ovary, or even pubescent, with tube 5–15 mm long by 6–8 mm wide, with 8–9 variable lobes, marginal or submarginal, 2–10 mm long, sometimes laterally compressed or subulate, sometimes somewhat spatulate, glabrous. Corolla white or yellow with tube (2.5)4–9 cm long, with (6)8–9 (13) obovate or oblong lobes 1.5–3.5 cm long. Anthers 11 × 1 mm, included, with acute apex sometimes apparent at throat. Style pubescent with capitate exsert stigma.
 
-Fleurs solitaires terminales sessiles sur des rameaux courts. Calice pubérulent au moins sur l'ovaire, ou même pubescent, à tube long de 5-15 mm sur 6-8 mm de largeur, à 8-9 lobes variables, marginaux ou submarginaux, longs de 2-10 mm, parfois comprimés latéralement ou subulés, parfois un peu spatulés, glabres. Corolle
+Fruit ellipsoid 4–5 × 2.5 cm, with ± persistent calyceal tube, with wall 2–3 mm thick, with crustaceous endocarp. Seed 4 × 3 × 1.2 mm, with smooth ochraceous testa. Embryo white 2.5 mm.
 
-blanche ou jaune à tube long de (2,5)4-9 cm, à (6)8-9 (13) lobes obovés ou oblongs longs de 1,5-3,5 cm. Anthères de 11 × 1 mm, incluses, à apex aigu parfois apparent à la gorge. Style pubescent à stigmate capité exsert.
+Syntypes: Welwitsch 2573 (BM!) and 2579, Angola. The leaves of n° 2573 reach 15 × 10 cm.
 
-Fruit ellipsoïde de 4-5 × 2,5 cm, à tube calycinal ± persistant, à paroi de 2-3 mm d'épaisseur, à endocarpe crustacé. Graine de 4 × 3 × 1,2 mm, à testa ochracé lisse. Embryon blanc de 2,5 mm.
+Gabon, Middle Congo, Angola.
 
-Synthypes : Welwitsch 2573 (BM!) et 2579, Angola. Les feuilles du n° 2573 atteignent 15 × 10 cm.
-
-Gabon, Moyen-Congo, Angola.
-
-Connu des savanes de la Nyanga; à rechercher dans celles de la région de Franceville.
+Known from the savannas of the Nyanga; to be sought in those of the Franceville region.
 
 ## Specimens examined
 

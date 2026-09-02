@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pleomele bicolor (Hook.) N.E.Br., Bull. Misc. Inform. Kew 1914 : 277 (1914). D. cylindrica Hook.f., Bot. Mag. 96 : t. 5846 (1870) . D. preussii Engl., Bot. Jahrb. Syst. 15 : 477 (1892). D. talbotii Rendle, Cat. pl. Oban : 112 (1913). D. densifolia Baker J. Bot. 12 . 165 (1874).
 
-Arbuste monocaule , jusqu’à 5 m de hauteur ; tronc de ± 5 cm de diamètre. ; tronc généralement simple. Feuilles spiralées , insérées dans la partie supérieure (1–1,5 m) du tronc, laissant visible la tige entre les gaines ou préfeuilles ; gaine embrassant la tige sur nettement plus que la circonférence de la tige, sur une longueur de < 1,5 cm ; pseudopétiole plus court que le limbe, ailé , vert, passant abruptement dans la gaine ; limbe étroitement obovale à linéaire ou étroitement obovale, atteignant 80 × 15 cm, à base cunéée, sommet largement acuminé , rétréci en un mucron subulé de 0,5 cm, coriace, vert brillant à vert foncé dessus, vert pâle cireux en dessous ; jeunes pousses couchées ou des branches tombées peuvent porter des feuilles considérablement plus petites. Inflorescence subcapitée, densément fleurie , jusqu’à 26 cm de longueur, axe lisse, pourvu de bractées proéminentes ; ± 20 fleurs par fascicule, chaque fas cicule sous-tendu par des bractées largement ovales, ± 2 × 1 cm, scarieuses ; bractées florales étroitement ovales, jusqu’à 20 × 3 mm, enveloppant la base du pédicelle, scarieuses, vertes à violacées. Fleur : pédicelle 0–4 mm ; périanthe 25–30 mm de longueur , blanc, un peu teinté de violet près du sommet des lobes, lobes plus courts que le tube, réfléchis ; étamines insérées près de la gorge, jusqu’à 2 mm plus courtes que les lobes, filet filiforme, blanc, anthère 2,5 mm de longueur, jaune pâle ; ovaire ovoïde, jusqu’à 3 × 1,5 mm ; style exsert sur jusqu’à 1 mm, blanc, stigmate ± 1 mm de diamètre. Fruit subsphérique , jusqu’à 3 cm de diamètre, orange à jaune-orange, à réceptacle jusqu’à 2 mm de longueur. Graine aplatie latéralement, ± 13 × 5 mm, entourée d’un arille pulpeux blanc.
+Monocaulous shrub, up to 5 m tall; trunk ± 5 cm in diameter; trunk generally simple. Leaves spiral, inserted in the upper part (1–1.5 m) of the trunk, leaving the stem visible between the sheaths or cataphylls; sheath embracing the stem over clearly more than the circumference of the stem, over a length of < 1.5 cm; pseudopetiole shorter than the blade, winged, green, passing abruptly into the sheath; blade narrowly obovate to linear or narrowly obovate, reaching 80 × 15 cm, cuneate at base, apex broadly acuminate, narrowed into a subulate mucro of 0.5 cm, coriaceous, bright green to dark green above, pale waxy green below; young shoots prostrate or drooping branches may bear considerably smaller leaves. Inflorescence subcapitate, densely flowered, up to 26 cm in length, axis smooth, furnished with prominent bracts; ± 20 flowers per fascicle, each fascicle subtended by broadly ovate bracts, ± 2 × 1 cm, scarious; floral bracts narrowly ovate, up to 20 × 3 mm, enveloping the base of the pedicel, scarious, green to violaceous. Flower: pedicel 0–4 mm; perianth 25–30 mm in length, white, slightly tinged with violet near the apex of the lobes, lobes shorter than the tube, reflexed; stamens inserted near the throat, up to 2 mm shorter than the lobes, filament filiform, white, anther 2.5 mm in length, pale yellow; ovary ovoid, up to 3 × 1.5 mm; style exsert up to 1 mm, white, stigma ± 1 mm in diameter. Fruit subspheric, up to 3 cm in diameter, orange to orange-yellow, with receptacle up to 2 mm in length. Seed laterally flattened, ± 13 × 5 mm, surrounded by a white pulpy aril.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Guinée équatoriale, Gabon, République du Congo, République démocratique du Congo ; au Gabon, dans l’Estuaire, le Moyen-Ogooué, la Ngounié, l’Ogooué-Ivindo, l’Ogooué-Lolo et le Woleu-Ntem
+Nigeria, Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Democratic Republic of the Congo; in Gabon, in the Estuary, Middle Ogooué, Ngounié, Ogooué-Ivindo, Ogooué-Lolo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-sous-bois des forêts primaires, stations humides, souvent près des rivières ; au Gabon à 5–800 m d’altitude, ailleurs à 0–1300 m. Floraison enregistrée de janvier à mars, juillet, novembre et décembre
+understory of primary forests, humid stations, often near rivers; in Gabon at 5–800 m elevation, elsewhere at 0–1300 m. Flowering recorded from January to March, July, November and December
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce se propage souvent par des branches tombées qui s’enracinent rapidement, formant ainsi des grandes taches. B : Baker (1898), Bos (1984), Damen et al. (2018), Hepper (1968), Mwachala (2005, 2007), i B liographie Velayos & Cabezas (2018)
+The species often propagates from drooping branches which root rapidly, thus forming large patches. Bibliography: Baker (1898), Bos (1984), Damen et al. (2018), Hepper (1968), Mwachala (2005, 2007), Velayos & Cabezas (2018)
 
 ## Notes
 

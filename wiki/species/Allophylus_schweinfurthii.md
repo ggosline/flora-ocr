@@ -17,11 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Dioecious tree 15 m tall and 30 cm in diameter, or shrub 4–5 m often sarmentose; branches smooth, 5 mm in diameter, glabrous, with elongated lenticels; petioles 6–8 mm, constricted-narrowed by desiccation.
 
-Arbre dioïque de 15 m et 30 cm de diamètre, ou arbuste de 4-5 m souvent sarmenteux; rameaux lisses, de 5 mm de diamètre, glabres, à lenticelles allongées; pétiolues de 6-8 mm, étranglés-rétrécis par dessiccation.
-
-Inflorescences à 2-4 rameaux ou plus; 6 cymules par cm. Fleurs blanches à sépales 1-3-nerviés; pétales à limbe souvent denticulé; filets staminaux glabres. Fruit globuleux jaune, de 5-6 mm. PL. 3, 1-6, p. 33.
+Inflorescences with 2–4 branches or more; 6 cymules per cm. Flowers white with sepals 1–3-nerved; petals with limb often denticulate; staminodial filaments glabrous. Fruit globose yellow, 5–6 mm. PL. 3, 1–6, p. 33.
 
 ## Type
 
@@ -29,9 +27,7 @@ Schweinfurth 3696, pays des Niam-Niam près de Nabambino, Congo (distribué sous
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Reconnue au Cameroun, en République centrafricaine, au Gabon et au Congo, dans les forêts ombrophiles sèches ou inondables, primaires ou secondaires, jusqu'à 1 800 m. d'altitude.
+Recognized in Cameroon, Central African Republic, Gabon and Congo, in dry or inundable rainforests, primary or secondary, up to 1 800 m altitude.
 
 ## Vernacular names
 

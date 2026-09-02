@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Perennial herb, ± succulent, glabrous, branched, erect up to 0.40 m; branches rounded, slender; nodes sometimes alternately spaced and crowded with 2 to 3 pairs of subverticillate leaves. Leaves with petiole rather broad, channelled, succulent, 1 to 2 cm long; limb elliptic, ± 2 × 3.5, sometimes ± rhomboidal; cuneate on the petiole, obtuse and sometimes setaceous at the apex; ± succulent and the 3 veins scarcely visible on the fresh material; margins entire, or with 2 to several ciliate teeth towards the apex.
 
-Herbe pluriannuelle, ± charnue, glabre, ramiíée, dressée jusqu'à 0,40 m; rameaux arrondis, grêles; nœuds parfois alternativement espacés et rapprochés avec 2 à 3 paires de feuilles subverticillées. Feuilles à pétiole plutôt large, canaliculé, charnu, long de 1 à 2 cm; limbe elliptique, ± 2 × 3,5, parfois ± rhomboïdal; en coin sur le pétiole, obtus et parfois sétacé au sommet; ± charnu et les 3 nervures peu visibles sur le frais; marges entières, ou avec 2 à plusieurs dents ciliées vers le sommet.
+Terminal cymes, scorpioid, 5–7-flowered. Hypanthium narrowly obconic, attenuate on the imprecise pedicellar base; calyx sinuate, lobes short, dentiform to triangular. Petals 12–15 mm, asymmetric, acuminate, pink. Stamens slightly unequal; anthers 1.5 mm; androphore short, bent, anterior appendage triangular on the 2 whorls, or more developed, scutellate-dentate on the inner whorl, spur subulate, situated towards the middle of the androphore; filament flattened, 2.5 mm. Ovary almost as long as the hypanthium and adnate except near the apex; epigynous crown membranous; placentas very sessile, over the entire height of the axis; style 4.5 mm.
 
-Cymes terminales, scorpioïdes, 5-7-flores. Hypanthe obconique étroit, atténué sur la base pédicellaire imprécise; calice sinué, lobes courts, dentiformes à triangulaires. Pétales 12-15 mm, dissymétriques, acuminés, roses. Étamines légèrement inégales; anthères 1,5 mm; pédoconnectif court, coudé, appendice antérieur triangulaire sur les 2 verticilles, ou plus développé, scutellé-dentelé sur le verticille interne, éperon subulé, situé vers le milieu du pédoconnectif; filet aplati, 2,5 mm. Ovaire presque aussi long que l'hypanthe et adhérent sauf près du sommet; couronne épigyne membraneuse; placentas très sessiles, sur toute la hauteur de l'axe; style 4,5 mm.
-
-Fruit  $ 5 \times 10 $ mm, obconique étroit sur le pédicelle de  $ 5 $ mm; pentagonal par  $ 5 $ côtes bien précises,  $ 5 $ nervures intersépalaires plus fines; calice marcescent; capsule concave par la couronne non accrescente, confondue avec la marge de l'ovaire et non saillante; déhiscence septicide sur toute la hauteur de l'hypanthe par décollement de la nervure intersépalaire. Graines à corps oblong, longuement appendiculées-subulées à leurs deux extrémités;  $ 2 $ mm de longueur totale. — Pl. 22, p. 63.
+Fruit 5 × 10 mm, narrowly obconic on the pedicel of 5 mm; pentagonal by 5 well-defined ribs, 5 intersepalous nerves finer; calyx marcescent; capsule concave by the non-accrescent crown, confluent with the margin of the ovary and not prominent; septicidal dehiscence over the entire height of the hypanthium by detachment of the intersepalous nerve. Seeds with oblong body, long subulate-appendiculate at both extremities; 2 mm total length. — Pl. 22, p. 63.
 
 ## Type
 
@@ -31,9 +29,7 @@ Jacques-Félix 1151, Guinée (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce guinéo-congolaise occidentale, de la Guinée au Gabon et Zaïre; épiphyte ou rupicole, peu récoltée.
+Western Guineo-Congolian species, from Guinea to Gabon and Zaïre; epiphytic or rupicole, poorly collected.
 
 ## Figures
 

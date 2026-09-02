@@ -22,19 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 , rét. orig., et Sterc. Afr. : 116 (1900). — Engl., Bot. Jahrb. 45 : 329 et 331 (1911). — Pellegr., Bull. S. B. Fr. 97 : 118 (1950), et Sterc. Gab., Mém. S. B. Fr. : 35 (1950-1951).
 
-Arbuste de 2-6 m de haut, à jeunes extrémités glabrescentes. Bourgeon terminal avec des écailles et stipules linéaires subulées, glabrescentes, dressées, non enveloppantes, d'env. 5-8 mm de long. Stipules médiocrement persistantes. Pétioles glabrescentes de 1-8 cm de long. Limbe de (5) 8-20 × 3-8 cm, subcoriace, glabre, elliptique, à base atténuée aiguë, à sommet sublancéolé-acuminé. Nervures latérales 6-10 paires pennées; fin réseau très apparent sur les deux faces du limbe à sec.
+Shrub 2-6 m tall, with young shoots glabrescente. Terminal bud with linear subulate scales and stipules, glabrescente, erect, non-enveloping, c. 5-8 mm long. Stipules moderately persistent. Petioles glabrescente, 1-8 cm long. Blade (5) 8-20 × 3-8 cm, subcoriaceous, glabrous, elliptic, with acute attenuate base, with sublanceolate-acuminate apex. Lateral veins 6-10 pairs pennate; fine reticulum very apparent on both surfaces of the blade when dry.
 
-Fleurs jaunes sur le tronc ou les rameaux âgés, naissant de glomérules sessiles, à bractéoles atteignant 4 mm de long, pubescentes, certaines ovées, d'autres assez étroitement aiguës. Pédi-celles de 4-7 mm de long, pubescents, articulés au-dessous du milieu. Calice de 6-17 mm de long, campanulé sur le tiers ou près de la moitié de sa hauteur, densément revêtu extérieurement de poils étoilés roux, les uns serrés très ras, les autres dispersés plus grands ; intérieur du calice avec des papilles ponctiformes 5(6) lobes triangulaires aiguës, à marges ourlées pubérulentes.
+Flowers yellow on the trunk or aged branches, arising from sessile glomerules, with bracteoles reaching 4 mm long, pubescent, some ovate, others quite narrowly acute. Pedicels 4-7 mm long, pubescent, articulate below the midpoint. Calyx 6-17 mm long, campanulate over the third or near the half of its height, densely clothed externally with rusty stellate hairs, some pressed very close, others more dispersed and larger; interior of calyx with punctiform papillae, 5(6) acute triangular lobes, with margins edged puberulent.
 
-Fleur ♂ à androphore plus ou moins pubescent, de 3-5 mm de haut et portant une couronne de 18-24 loges polliniques uni-sériées. Fleur ♀ à ovaire velu roux, 5-carpellé, entouré d'une couronne de loges polliniques unisériées; carpelles adhérents, atténués en style central dressé, au sommet duquel rayonnent les stigmates papillifères. 8 ovules par loge. Follicules non vus.
+Male flower with androphore more or less pubescent, 3-5 mm tall, and bearing a crown of 18-24 pollen sacs uniseriate. Female flower with rusty pilose ovary, 5-carpellate, surrounded by a crown of uniseriate pollen sacs; carpels adnate, attenuate to a central erect style, at the apex of which radiate the papilliferous stigmas. 8 ovules per locule. Follicles not seen.
 
-Pour éclairer la synonymie, il nous paraît utile de citer tous les spécimens du Muséum de Paris qui nous ont permis de l'établir. Type de C. flavovelutina: Zenker 1325; de C. gilgiana : Z. 3748; de C. bipindensis : Z. 3873; de C. idoumensis : Le Testu 5277. Autres spécimens corroborant notre point de vue : Zenker 4479, 2348, s. n., Brenan 9416. Si le C. idoumensis ne nous paraît pas mériter rang d'espèce, il peut au moins être considéré comme une forme variétale remarquable du C. flavovelutina. Il diffère par une pubescence plus forte des extrémités, par son calice d'aspect plus hirsute et par ses bractéoles linéaires un peu plus longues. Dans l'espèce entière, le nombre de loges polliniques, le plus souvent 20, varie de 18 à 24; il est aisé de détacher les loges par paires. Le nombre d'anthères est donc de 9-12
+To clarify the synonymy, it seems useful to us to cite all the specimens in the Paris Museum which allowed us to establish it. Type of C. flavovelutina: Zenker 1325; of C. gilgiana: Z. 3748; of C. bipindensis: Z. 3873; of C. idoumensis: Le Testu 5277. Other specimens corroborating our view: Zenker 4479, 2348, s. n., Brenan 9416. If C. idoumensis does not seem to us to merit the rank of species, it can at least be considered as a remarkable varietal form of C. flavovelutina. It differs by a stronger pubescence of the shoots, by its calyx of more hirsute appearance, and by its linear bracteoles somewhat longer. In the entire species, the number of pollen sacs, most often 20, varies from 18 to 24; it is easy to detach the sacs in pairs. The number of anthers is therefore 9-12.
 
-Ce Cola croît sous le couvert épais des forêts très humides, du Sud Nigéria au Gabon.
+This Cola grows under the thick cover of very humid forests, from southern Nigeria to Gabon.
 
 ## Specimens examined
 

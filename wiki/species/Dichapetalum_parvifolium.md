@@ -17,27 +17,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Nat. Pflanzen Fam. 3 (4): 348, nomen (1896); Bot. Jahrb. 23: 136 (1896); EXELL & MENDONÇA, CFA 1 (2): 327 (1951); HAUMAN, FZRB 7: 315 (1958); BRETELER, MLW 73 (13): 23, XIX (1973); L.C. 78 (10): 10 (1978); MPLW 19: 83 (1980); L.C. 81 (10): 46, 75-79 (1981); L.C. 82 (8): 4 (1982); AUWP 86 (3): 17, 18 (1986). TYPE: Angola, Golungo Alto, Welwitsch 4661 (holo-, COI; iso-, BM, BR, C, G, K, LISU, P).
 
-- D. retroversum HiERN, Cat. Welw. Afr. Pl. 1: 139 (1896); EXELL & MENDONÇA, CFA 1 (2): 327, syn. de D. parvifolium Engl. (1951); BRETELER, MLW 73 (13): XIX, syn. de D. parvifolium (1973). TYPE: Angola, Golungo Alto, Welwitsch 4661 (lecto-, BM).
+- D. retroversum HIERN, Cat. Welw. Afr. Pl. 1: 139 (1896); EXELL & MENDONÇA, CFA 1 (2): 327, syn. of D. parvifolium Engl. (1951); BRETELER, MLW 73 (13): XIX, syn. of D. parvifolium (1973). TYPE: Angola, Golungo Alto, Welwitsch 4661 (lecto-, BM).
 
-- D. mucronulatum Engl. Bot. Jahrb. 46: 580 (1912); BRETELER, MLW 73 (13): XIX, syn. de D. parvifolium (1973). TYPE: Guinée Équatoriale, Région de Campo, près d'Akonango, Tessmann 1007 (holo-, B. delet.; lecto-, K; isolecto-, BM).
+- D. mucronulatum Engl. Bot. Jahrb. 46: 580 (1912); BRETELER, MLW 73 (13): XIX, syn. of D. parvifolium (1973). TYPE: Equatorial Guinea, Campo Region, near Akonango, Tessmann 1007 (holo-, B. delet.; lecto-, K; isolecto-, BM).
 
-Liane de petite à moyenne taille, parfois très volubile dont le diamètre ≤ 4 cm, arbuste lianescent ou arbuste. Tige principale cannelée ou non. Cylindre ligneux toujours nettement lobé par de profondes intrusions du phloème. Écorce en général pourvue de grandes lenticelles bien visibles souvent disposées sur 5 rangées longitudinales. Rameaux âgés gris, glabres ou glabrescents. Jeunes rameaux villeux-tomenteux à pubérulents, glabrescents avec l'âge ; le même indumentum est présent sur les stipules et les petioles.
+Liane of small to medium size, sometimes very twining with diameter ≤ 4 cm, scandent shrub or shrub. Main stem channelled or not. Wood cylinder always distinctly lobed by deep intrusions of phloem. Bark generally provided with large, well-visible lenticels often arranged in 5 longitudinal rows. Mature branches grey, glabrous or glabrescent. Young branches villous-tomentose to puberulent, glabrescent with age; the same indumentum is present on the stipules and petioles.
 
-Stipules en général très persistantes, étroites et triangulaires, longues de (1) 2-4 (6) mm, entières ou avec quelques petites dents.
+Stipules generally very persistent, narrow and triangular, (1) 2-4 (6) mm long, entire or with a few small teeth.
 
-Feuilles. Pétioles subcylindrique, long de (1) 2-5 (9) mm. Limbe obové-elliptique, (1,5) 2-3 fois plus long que large, (2) 6-12 (19) × (1) 2-5 (7) cm ; base arrondie à cunée, parfois obtuse à subcordée ; acumen en général présent, obtus à aigu, mucroné ou non, long de ≤ 1,5 (2) cm ; chez les très jeunes feuilles, les deux faces sont villeuses-tomenteuses au moins sur la nervure I et les 5-9 paires principales de nervures II ou presque entièrement glabres ; elles peuvent être au contraire entièrement pubescentes ; ensuite elles deviennent glabres et la pubescence persiste plus longtemps sur les deux faces de la nervure I et à la face inférieure des principales nervures II ; marge souvent nettement pubescente ; nervure I plaine ou légèrement imprimée dessus, les nervures II assez difficiles à voir dessus et proéminentes dessous ; glandes assez réduites, peu visibles, présentes sur les deux faces.
+Leaves. Petioles subcylindric, (1) 2-5 (9) mm long. Blade obovate-elliptic, (1.5) 2-3 times longer than wide, (2) 6-12 (19) × (1) 2-5 (7) cm; base rounded to cuneate, sometimes obtuse to subcordate; acumen generally present, obtuse to acute, mucronate or not, ≤ 1.5 (2) cm long; in very young leaves, both faces are villous-tomentose at least on the primary vein and the 5-9 pairs of main secondary veins or almost entirely glabrous; they may alternatively be entirely pubescent; subsequently they become glabrous and pubescence persists longer on both faces of the primary vein and on the lower face of the main secondary veins; margin often distinctly pubescent; primary vein plane or slightly impressed above, the secondary veins rather difficult to see above and prominent below; glands rather reduced, scarcely visible, present on both faces.
 
-Inflorescences pauci- à multiflores, soit en capitale nettement pédonculé, subsphérique à subombellé, soit en glomérule sessile ou presque sans ramifications visibles ; cependant sur les inflorescences multiflores à longue floraison, il peut y avoir 2-4 ramifications scorpioïdes ; pubescence tomenteuse à pubérulente-tomentelleuse. Pédonculé souvent grêle, long de 2,5 (3,5) cm. Bractées et bactéoles triangulaires à deltoïdes, longues de ≤ 2,5 mm, vaguement dentées ou non. Pédicelle ≤ 3,5 mm, la partie supérieure toujours distincte ≤ 2 mm, au moins égale et très souvent plus longue que l'inférieure, pubérulente-tomentelleuse.
+Inflorescences few- to multi-flowered, either in a distinctly pedunculate, subspheric to subumbellate head, or in a sessile or nearly sessile glomerule with no visible ramifications; however, in multi-flowered inflorescences with prolonged flowering, there may be 2-4 scorpioid ramifications; pubescence tomentose to puberulent-tomentellose. Peduncle often slender, 2.5 (3.5) cm long. Bracts and bracteoles triangular to deltoid, ≤ 2.5 mm long, vaguely dentate or not. Pedicel ≤ 3.5 mm, the upper part always distinct ≤ 2 mm, at least equal and very often longer than the lower, puberulent-tomentellose.
 
-Fleurs. Sépales réfléchis, oblongs-elliptiques à oblongs-obovés, 2-3,5 (4) × ≈ 1 mm ; pubérulence tomentelleuse à l'extérieur, plus éparse à l'intérieur. Pétales ± dressés ou étalés, et/ou coudés au-dessous des lobes, courtement soudés par leur base aux filets, de forme générale étroite et obovée, longs de (2,5) 3-4 (5) mm, fendus sur 0,5-2 mm, avec quelques poils au-dessous de la fente sur les deux faces et parfois aussi sur la face externe des lobes, ceux-ci étant concaves et souvent étalés. Étamines dressées ou étalées, longues de (3) 3,5-5 (7) mm, glabres ; anthères ≤ 0,5 mm, connectif proéminent. Staminodes subcarrés ≤ 0,2 × 0,2 mm, sommet émarginé à bilobé, et glabre ou avec quelques poils
+Flowers. Sepals reflexed, oblong-elliptic to oblong-obovate, 2-3.5 (4) × ≈ 1 mm; puberulent tomentellate outside, more scattered inside. Petals ± erect or spreading, and/or bent below the lobes, shortly united by their base to the filaments, generally narrow obovate in shape, (2.5) 3-4 (5) mm long, cleft for 0.5-2 mm, with a few hairs below the cleft on both faces and sometimes also on the outer face of the lobes, these being concave and often spreading. Stamens erect or spreading, (3) 3.5-5 (7) mm long, glabrous; anthers ≤ 0.5 mm, connective prominent. Staminodes subsquare ≤ 0.2 × 0.2 mm, apex emarginate to bilobed, and glabrous or with a few apical hairs on the inner side. Pistil 3-merous, (3) 3.5-5 (6.5) mm long; ovary and lower part of style velvety, upper part generally glabrous terminated by three poorly marked lobes.
 
-apicaux du côté interne. Pistil 3-mère, long de (3) 3,5-5 (6,5) mm ; ovaire et partie inférieure du style veloutés, partie supérieure glabre en général terminée par trois lobes peu marqués.
-
-Fruits 1 (3?)–spermes, ellipsoidaux, terminés par un bec bien net, longs de 2,8-4 cm (bec inclus), diamètre 1-2,5 cm ; loges avortées marquées par une crête nette ou non ; bec long de ≤ 1 cm ; exocarpe pubérulent-tomentelleux, parfois presque glabre, épais de 0,5-1 mm ; mésocarpe succulent épais de 3-5 mm, adhérent à l'endocarpe ; celui-ci, parcheminé, brillant et glabre à l'intérieur. Graines subellipsoïdales, longues de 10-15 mm et diamètre de 5-8 mm ; testa fin, brun, nettement veiné, un peu déprimé entre les cotylédons dont la marge est pubescente. – Pl. 43, p. 151.
+Fruits 1 (3?)–seeded, ellipsoid, terminated by a well-marked beak, 2.8-4 cm long (beak included), diameter 1-2.5 cm; aborted locules marked by a distinct or unmarked ridge; beak ≤ 1 cm long; exocarp puberulent-tomentellose, sometimes almost glabrous, 0.5-1 mm thick; mesocarp succulent 3-5 mm thick, adhering to the endocarp; the latter, chartaceous, shining and glabrous inside. Seeds subellipsoid, 10-15 mm long and 5-8 mm diameter; testa fine, brown, distinctly veined, somewhat depressed between the cotyledons whose margin is pubescent. – Pl. 43, p. 151.
 
 ## Type
 
@@ -45,15 +41,11 @@ Welwitsch 4661, Golungo Alto, Angola
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique occidentale et centrale
+West and Central Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues
+Rainforests and semi-deciduous forests
 
 ## Specimens examined
 

@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 -- Engler, Jahrb. 26 : 387 (1899).
 
-Arbuste à jeunes rameaux très finement pubescents ferrugineux. Feuilles légèrement coriaces à réseau de nervures en relief sur les deux faces. Fruit inconnu.
+Shrub with very finely ferruginous pubescent young branches. Leaves slightly coriaceous with a network of veins prominent on both surfaces. Fruit unknown.
 
 ## Type
 
@@ -33,9 +31,7 @@ Staudt 857 (B) Johann-Albrechtshöhe, Cameroun (fév. 1897)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sans comparaison d'échantillons, ont été rapprochés de cette espèce les matériaux suivants, d'après les descriptions des auteurs : un arbre de 8-9 m à fleurs rougeâtres observé par Le Testu; des feuilles et des fruits récoltés par Klaine s'y joindraient aussi, avec doute. La description d'Engler concernant les feuilles est la même pour B. fruticosa et B. Staudtii, sauf que le limbe est obtus à la base pour la 1 $ ^{re} $, et aigu pour la seconde espèce.
+Without comparison of specimens, the following materials have been associated with this species based on the descriptions of the authors: a tree 8–9 m tall with reddish flowers observed by Le Testu; leaves and fruits collected by Klaine would also be joined to it, with doubt. Engler's description concerning the leaves is the same for B. fruticosa and B. Staudtii, except that the limb is obtuse at the base for the 1st, and acute for the second species.
 
 ## Specimens examined
 

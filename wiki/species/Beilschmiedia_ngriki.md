@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Chevalier, Sudania I (1911). Fl. viv. A.O.F. I (1938). — Robyns et Wilczek, Bull. jard. bot. Ét. Brux.: 197 (1950). — Fouilloy, Adansonia. IV: 330 (1964).
 
-Arbre de 8-12 m en général, mais atteignant parfois 30 m; bourgeons et jeunes rameaux à pubescence apprimée gris-cendré. Feuilles brièvement acuminées glabres ou à nervures secondaires pubérulentes dessous (Tisserant 619 bis). Fleurs à tépales dressés.
+Tree 8–12 m in general, but sometimes reaching 30 m; buds and young branches with appressed grey-ash pubescence. Leaves briefly acuminate glabrous or with secondary veins puberulent beneath (Tisserant 619 bis). Flowers with erect tepals.
 
 ## Type
 
@@ -28,11 +26,9 @@ Chevalier 7034, déc. 1902; arbre de 15-20 m à fleurs jaunâtres; galerie au bo
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Oubangui, Cameroon, Gabon.
 
-Oubangui, Cameroun, Gabon.
-
-Le nom vernaculaire Ngriki (dialecte Banda et autres) est appliqué également à B. Tisseranti dans le Haut Oubangui.
+The vernacular name Ngriki (Banda dialect and others) is applied likewise to B. Tisseranti in Upper Oubangui.
 
 ## Specimens examined
 

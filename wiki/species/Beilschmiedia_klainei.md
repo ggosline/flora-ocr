@@ -16,15 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 (pl. XIV et I).
 
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 20 : 207 (1950).
 
-Arbre ou arbuste de 1 à 15 m, à feuilles un peu coriaces, concolores, jaunâtres à brun-olive, faiblement acuminées, à pétiole de 10-18 mm, à limbe oblong lancéolé à elliptique, glabre. Panicules de 10-17 cm à bractées carénées, obtuses, de 3,5 mm de long, velues extérieurement, glabres et rougeâtres à l'intérieur. Fleurs blanc-verdâtre à rougeâtres de 3-4 mm de diamètre, campanulées, tépales glabres ou un peu velus vers le haut à l'intérieur, à la fin révolutés en dehors. Staminodes filiformes et velus atteignant les trois quarts de la hauteur des étamines dont les filets égaux en longueur aux anthères sont atténués vers la base. Les auteurs signalent que « cette belle espèce produit de grands fruits (d'envi-
-
-ron 5 cm de long) et rappelle par là B. olivacea, B. Michelsoni et B. Lebrunii ».
+Tree or shrub 1 to 15 m tall, with somewhat coriaceous, concolorous leaves, yellowish to olive-brown, weakly acuminate, with petiole 10–18 mm, with oblong-lanceolate to elliptic blade, glabrous. Panicles 10–17 cm with keeled bracts, obtuse, 3.5 mm long, pubescent externally, glabrous and reddish inside. Flowers whitish-greenish to reddish, 3–4 mm in diameter, campanulate, tepals glabrous or somewhat pubescent toward the apex inside, eventually revolute outward. Staminodes filiform and pubescent reaching three-quarters the height of the stamens whose filaments equal in length to the anthers are attenuate toward the base. The authors note that "this beautiful species produces large fruits (approximately 5 cm long) and thus recalls B. olivacea, B. Michelsoni and B. Lebrunii".
 
 ## Type
 
@@ -32,11 +28,9 @@ Klaine 2276 (P) Arbre de 12-15 m à fleurs blancverdâtre, Libreville (19 juin 1
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species is present in Cameroon: specimen Zenker 3167 (P) Bipinde (1904) distributed under the name B. minutiflora.
 
-Cette espèce est présente au Cameroun : échantillon Zenker 3167 (P) Bipinde (1904) distribué sous le nom B. minutiflora.
-
-Remarque : Les auteurs Robyns et Wilczek signalent l'affinité de B. klainei avec B. Dinklagei ainsi que les différences dans les feuilles, fleurs, fruits plus grands pour B. Klainei et par contre, glandes plus petites. De plus, les feuilles de B. Klainei sont très souvent comme vernies à la face supérieure.
+Remark: The authors Robyns and Wilczek note the affinity of B. klainei with B. Dinklagei as well as the differences in the leaves, flowers, larger fruits for B. klainei and conversely, smaller glands. Moreover, the leaves of B. klainei are very often as if varnished on the upper surface.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante robuste, 50–70 cm de hauteur, le plus souvent noire après avoir été coupée ou séchée ; rhizome généralement allongé , horizontal ou ascendant ; racines épaisses, spongieuses, s’étendant en tubercules fusiformes de 1–3 cm de longueur. Feuilles en rosette, pétiolées ; pétiole 10–20 cm, élargi et engaînant dans la partie inférieure ; limbe largement lancéolé, glabre, 12–50 × 5–10 cm, base atténuée, sommet apiculé. Inflores cence (pédoncule inclus) 50–80 cm de longueur, condensée ou lâche, généralement non ramifiée, parfois avec 1–2 branches dans la partie inférieure ; rachis scabre, bractées infé rieures stériles 5–8 cm de longueur, bractées florifères 1–3 cm, enveloppant les bourgeons et les pédicelles. Fleurs 2–4 par nœud, faiblement urcéolées ; pédicelle 5–8 mm en fruit, articulé dans le tiers supérieur ; tépales 5,5–7 × 1,5–2,5 mm, 3-nervés, blanchâtres, par fois verts au sommet, virant au marron clair juste après l’anthèse ; étamines plus courtes ou aussi longues que les tépales, filets fusiformes, 3–5 mm de longueur, la plus grande largeur dans la moitié supérieure, scabres, anthères 1,5–2,5 mm de longueur ; style un peu courbé. Fruit triquètre, généralement plus long que large, 7–11 mm de longueur , émarginé. Graines cupuliformes, 1,5–2 mm de diamètre.
+Robust plant, 50–70 cm in height, most often black after being cut or dried; rhizome generally elongate, horizontal or ascending; roots thick, spongy, extending into fusiform tubers 1–3 cm in length. Leaves in rosette, petiolate; petiole 10–20 cm, enlarged and sheathing in the lower part; blade widely lanceolate, glabrous, 12–50 × 5–10 cm, base attenuate, apex apiculate. Inflorescence (peduncle included) 50–80 cm in length, condensed or lax, generally unbranched, sometimes with 1–2 branches in the lower part; rachis scabrous, lower sterile bracts 5–8 cm in length, floriferous bracts 1–3 cm, enveloping the buds and pedicels. Flowers 2–4 per node, weakly urceolate; pedicel 5–8 mm in fruit, articulate in the upper third; tepals 5.5–7 × 1.5–2.5 mm, 3-nerved, whitish, sometimes green at the apex, turning light brown just after anthesis; stamens shorter than or as long as the tepals, filaments fusiform, 3–5 mm in length, greatest width in the upper half, scabrous, anthers 1.5–2.5 mm in length; style somewhat curved. Fruit triquetrous, generally longer than wide, 7–11 mm in length, emarginate. Seeds cupuliform, 1.5–2 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Guinée au Cameroun, Gabon et République Démocratique du Congo, aussi en Afrique de l’Est et en Angola. Au Gabon, observée dans les provinces de l’Ogooué-Ivindo et du Woleu-Ntem
+from Guinea to Cameroon, Gabon and Democratic Republic of the Congo, also in East Africa and in Angola. In Gabon, observed in the provinces of Ogooué-Ivindo and Woleu-Ntem.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt primaire et secondaire ; au Gabon à 350 m d’altitude, ailleurs jusqu’à 1900 m. B : Hepper (1968), Nordal et al. (1997), Poulsen & Nordal (2005). ibliographie
+in primary and secondary forest; in Gabon at 350 m altitude, elsewhere up to 1900 m. B: Hepper (1968), Nordal et al. (1997), Poulsen & Nordal (2005). Bibliography
 
 ## Notes
 

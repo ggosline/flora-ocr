@@ -17,27 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ou arbre atteignant 20 m de hauteur ; tronc jusqu’à 60 cm de diamètre, peu ramifié ; écorce grise, grossièrement crevassé, entaille blanche. Feuilles spiralées , densément réparties le long des branches, parfois restreintes aux extrémités, laissant la tige visible entre les feuilles ; gaine embrassant la tige sur un peu plus que la moitié de la circonférence , sur une longueur de < 1 cm, cicatrice foliaire lunulée ; pseudopétiole absent ; limbe étroitement elliptique à étroitement obovale, subfalqué , jusqu’à 30 × 3 cm, base cunéée, s’élargissant abruptement dans la gaine, sommet acuminé mucroné sur ± 4 mm, mollement coriace, face supérieure vert foncé, face inférieure vert moyen et à nervure médiane proéminente. Inflores cence dressée, en panicule à nombreuses branches , jusqu’à 45 × 40 cm, à axes lisses, vert orangé ; bractées sous-tendant les branches rapidement caduques, étroitement ovales, jusqu’à 25 × 10 mm, diminuant de taille vers le sommet, scarieuses ; fascicules avec jusqu’à 6 fleurs , chacun sous-tendu par une petite bractée caduque, triangulaire, jusqu’à 4 mm de longueur, membraneuse, à bords scarieux ; bractées florales ± 1 mm de longueur, scarieuses. Fleur odorante ; pédicelle jusqu’à 6 mm, articulé jusqu’à 5 mm de la base ; périanthe 23–30 mm de longueur , blanc, à lobes plus longs que le tube, étalés ; étamines insérées près de la gorge, jusqu’à 3 mm plus courtes que les lobes, filet filiforme, blanc, anthère ± 3 mm de longueur, jaune pâle ; ovaire ovoïde, jusqu’à 5 × 3 mm ; style atteignant le sommet du périanthe, blanc, stigmate ± 0,5 mm de diamètre. Fruit sphérique à obloïde , entier à superficiellement 2- ou 3-lobé, jusqu’à 25 mm de diamètre, orange à rouge ; réceptacle jusqu’à 4 mm de longueur. Graine sphérique, ± 18 mm de diamètre.
+Shrub or tree reaching 20 m in height; trunk up to 60 cm in diameter, sparsely branched; bark grey, coarsely fissured, white within. Leaves spiral, densely distributed along the branches, sometimes restricted to the apices, leaving the stem visible between the leaves; sheath embracing the stem over slightly more than half the circumference, over a length of < 1 cm, leaf scar lunulate; pseudopetiole absent; blade narrowly elliptic to narrowly obovate, subfalcate, up to 30 × 3 cm, base cuneate, enlarging abruptly into the sheath, apex acuminate-mucronate over ± 4 mm, softly coriaceous, upper surface dark green, lower surface medium green and with prominent midvein. Inflorescence erect, in a panicle with numerous branches, up to 45 × 40 cm, with smooth axes, orange-green; bracts subtending the branches quickly caducous, narrowly ovate, up to 25 × 10 mm, decreasing in size towards the apex, scarious; fascicles with up to 6 flowers, each subtended by a small caducous bract, triangular, up to 4 mm in length, membranous, with scarious margins; floral bracts ± 1 mm in length, scarious. Flower fragrant; pedicel up to 6 mm, articulate up to 5 mm from the base; perianth 23–30 mm in length, white, with lobes longer than the tube, spreading; stamens inserted near the throat, up to 3 mm shorter than the lobes, filament filiform, white, anther ± 3 mm in length, pale yellow; ovary ovoid, up to 5 × 3 mm; style reaching the apex of the perianth, white, stigma ± 0.5 mm in diameter. Fruit spherical to oblong, entire to superficially 2- or 3-lobed, up to 25 mm in diameter, orange to red; receptacle up to 4 mm in length. Seed spherical, ± 18 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sénégal, Gambie, Guinée Bissau, Guinée, Sierra Leone, Liberia, Côte d’Ivoire, Ghana, Togo, Bénin, Nigéria et Cameroun ; à rechercher au Gabon
+Senegal, Gambia, Guinea-Bissau, Guinea, Sierra Leone, Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria and Cameroon; to be sought in Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bords des rivières, lisières des forêts de savane, aussi bien dans la forêt dense que dans stations montagnardes ouvertes ; à 0–1600 m d’altitude. Floraison toute l’année. Usage : En Afrique de l’Ouest, les tiges sont utilisées comme haie vive. Les jeunes pousses sont cuites et consommées comme des asperges. Les feuilles sont utilisées en médecine
+River margins, forest-savanna margins, as well as in dense forest as in open montane stations; at 0–1600 m altitude. Flowering year-round. Use: In West Africa, the stems are used as a living hedge. Young shoots are cooked and consumed like asparagus. The leaves are used in medicine
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Voyez les notes sous D. mannii. B : van der Burg (2006, sous D. mannii ), Damen et al. (2018), Hepper (1968). i B liographie
+See the notes under D. mannii. B: van der Burg (2006, under D. mannii), Damen et al. (2018), Hepper (1968). Bibliography
 
 ## Notes
 

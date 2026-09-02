@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large tree, with a very straight trunk and enlarged, dome-shaped crown. Bark not detaching in plates, but persistent. Leaves persistent, juvenile ones opposite, adult ones alternate, ovate-lanceolate, somewhat curved, 8–10 cm long and 3–8 cm wide.
 
-Grand arbre, à tronc très droit, à tête élargie, arrondie en dôme. Écorce ne se détachant pas en plaques, mais permanente. Feuilles persistantes, les juvéniles opposées, les adultes alternes, ovale-lancéolées, un peu arquées, de 8-10 cm de long et 3-8 cm de large.
+Inflorescences umbelliform, with 5–10 flowers. Peduncles 2–3 cm long. Opercule rostrate, nearly as long as the receptacle, 1–1.5 cm long. Anthers opening by longitudinal slits.
 
-Inflorescences ombelliforme, à 5-10 fleurs. Pédoncules de 2-3 cm de long. Opercule rostré, presque aussi long que le réceptacle, de 1-1,5 cm de long. Anthères s'ouvrant par des fentes longitudinales.
+Native to Australia, introduced and naturalized in Gabon and Cameroon. Also in Libreville and Port-Gentil, according to Walker and Sillans.
 
-Originaire d’Australie, introduit et naturalisé au Gabon et au Cameroun. Également à Libreville et Port-Gentil, selon Walker et Sillans.
+Tree used for reforestation for its shade in avenues and for draining certain marshy soils. The wood is excellent for construction. It tolerates slightly saline soils. Known by the name "Swamp Mahogany".
 
-Arbre de reboisement employé pour son ombrage dans les avenues et pour assainir certains sols marécageux. Le bois est excellents pour les constructions. Il tolère les sols un peu salés. Connu sous le nom d’« Acajou des marais ».
-
-Il est possible que quelques autres espèces de Melaleuca, d'Eucalyptus ou de Callistemon soient cultivées au Gabon. Diverses espèces y sont actuellement expérimentées parmi les Eucalyptus.
+It is possible that a few other species of Melaleuca, Eucalyptus or Callistemon are cultivated in Gabon. Various species are currently being trialed there among the Eucalyptus.
 
 ## Notes
 

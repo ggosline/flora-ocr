@@ -17,31 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Listrostachys braunii Durand & Schinz., Consp. Fl. Afr. 5 : 48 (1895), nom. superfl.
 
 – Cephalangraecum metteniae (Kraenzl.) Schltr., Beih. Bot. Centralbl. 36 : 137 (1918).
 
 – Cephalangraecum braunii (Durand & Schinz.) Summerh., FWTA, ed. 1, 2 : 462 (1936).
 
-Tige 2-7 (-20) cm. Feuilles <14, 5-25 x 0,7-2,5 cm, linéaires, inégalement bilobées, lobes plus ou moins bidentés. Inflorescence capitée, 1-3 cm, < 20-flore. Fleurs petites, blanches avec une tache verte sur le labelle. Sépale dorsal elliptique à oblong, obtus. Pétales elliptiques oblongs, légèrement falciformes, obtus. Sépales latéraux obliquement oblongs-obovés, obtus. Labelle de 3,5-4 x 4,3-4,7 mm, largement ovés-suborbiculaire, obtus, cochéiforme, finement papilleux au centre ou ausses, subcucullé au sommet. Éperon 3-4,3 mm, droit ou très légèrement signoïde, étroitement cylindrique-claviforme, obtus. - Pl. 153, p. 345.
+Stem 2–7 (–20) cm. Leaves <14, 5–25 × 0.7–2.5 cm, linear, unequally bilobed, lobes more or less bidentate. Inflorescence capitate, 1–3 cm, <20-flowered. Flowers small, white with a green patch on the labellum. Dorsal sepal elliptic to oblong, obtuse. Petals elliptic oblong, slightly falcate, obtuse. Lateral sepals obliquely oblong-obovate, obtuse. Labellum 3.5–4 × 4.3–4.7 mm, broadly ovate-suborbicular, obtuse, boat-shaped, finely papillose at centre or flanks, subcucullate at apex. Spur 3–4.3 mm, straight or very slightly sigmoid, narrowly cylindric-claviform, obtuse. – Pl. 153, p. 345.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Sierra Leone, Nigeria, Cameroun, République centrafricaine, Sao Tomé, Zaire, Éthiopie, Ouganda, Tanzanie
+Sierra Leone, Nigeria, Cameroon, Central African Republic, São Tomé, Zaire, Ethiopia, Uganda, Tanzania
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 900–1,300 m. Epiphyte in evergreen forest, dense forest, forest gallery
 
-alt. 900-1 300 m. Épiphyte en forêt sempervirente, forêt dense, galerie forestière
+MATERIAL STUDIED (Map 72):
 
-MATÉRIEL ÉTUDIÉ (Carte 72) :
-
-Breteler & Lemmens 8404, près de Libreville (fl. Oct.), P!, WAG!. Van der Laan 653, Prov. Gabon, cult. WAG, épiphyte (fl. Juil.), WAG!.
+Breteler & Lemmens 8404, near Libreville (fl. Oct.), P!, WAG!. Van der Laan 653, Prov. Gabon, cult. WAG, epiphyte (fl. Jul.), WAG!.
 
 ## Notes
 

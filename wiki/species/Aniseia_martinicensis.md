@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe volubile et/ou rampante ; ramilles éparsement pubescentes , glabrescentes, parfois s’enracinant en milieu humide. Feuille : pétiole 0,5–2 cm, éparsement pubescent ; limbe étroitement elliptique , parfois ové, 2,5–6(–7) × 0,5–2,5 cm, cunéé (à arrondi) à la base , obtus et courtement mucroné au sommet, à 5–7 paires de nervures latérales, glabre ou à poils épars marginaux. Inflorescence généralement à une fleur, à poils ± épars, courts, ± apprimés ; pédoncule jusqu’à 4,5 cm de longueur ; bractéoles au sommet du pédoncule, à 0,5–5 mm sous le calice, étroitement triangulaires, 2 × 1 mm. Fleur : pédicelle 0–5 mm ; sépales ovales, 10–15 mm de longueur, légèrement accrescents en fruit jusqu’à 22 mm, pubescents à l’extérieur ; corolle blanche, d’environ 2 cm de longueur et 2,5 cm de largeur, à peine lobée, pubérulente sur les bandes médianes à l’extérieur ; étamines : filets environ 4 mm, à base élargie et couverte de poils glanduleux, anthères dressées ; ovaire ovoïde, glabre ; style glabre. Fruit ovoïde, environ 15 mm de longueur, glabre. Graines environ 4,5 mm de diamètre, éparsement poilues .
+Twining and/or trailing herb; branchlets sparsely pubescent, glabrescent, sometimes rooting in humid environments. Leaf: petiole 0.5–2 cm, sparsely pubescent; blade narrowly elliptic, sometimes ovate, 2.5–6(–7) × 0.5–2.5 cm, cuneate (to rounded) at the base, obtuse and shortly mucronate at the apex, with 5–7 pairs of lateral nerves, glabrous or with sparse marginal hairs. Inflorescence generally one-flowered, with ± sparse, short, ± appressed hairs; peduncle up to 4.5 cm long; bracteoles at the apex of the peduncle, 0.5–5 mm below the calyx, narrowly triangular, 2 × 1 mm. Flower: pedicel 0–5 mm; sepals ovate, 10–15 mm long, slightly accrescent in fruit up to 22 mm, pubescent outside; corolla white, approximately 2 cm long and 2.5 cm wide, scarcely lobed, puberulent on the median bands outside; stamens: filaments approximately 4 mm, with enlarged base covered with glandular hairs, anthers erect; ovary ovoid, glabrous; style glabrous. Fruit ovoid, approximately 15 mm long, glabrous. Seeds approximately 4.5 mm in diameter, sparsely hairy.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-pantropicale ; au Gabon, connue de l’Ogooué-Maritime, de la Nyanga, du Moyen-Ogooué, de la Ngounié et de l’Ogooué-Ivindo
+pantropical; in Gabon, known from Ogooué-Maritime, Nyanga, Moyen-Ogooué, Ngounié and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord des rivières et des lacs, bancs de sable humide, forêts claires sur sable ; au Gabon, à 100 m d’altitude, ailleurs en Afrique, jusqu’à 700 m. B : Deroin (2001), Heine (1963), Lejoly & Lisowski (1993). ibliographie
+river and lake margins, humid sand banks, open forests on sand; in Gabon, at 100 m altitude, elsewhere in Africa, up to 700 m. B: Deroin (2001), Heine (1963), Lejoly & Lisowski (1993). Bibliography
 
 ## Notes
 

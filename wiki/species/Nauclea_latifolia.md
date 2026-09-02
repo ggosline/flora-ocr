@@ -25,23 +25,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 2–8 m, ± bushy or scandent, sometimes tortuous or stunted; foliage green and shining above. Bark very fibrous. Wood white or yellow fairly soft. Stipules deltoid 3–5 mm long, uni- or biapiculate, glabrous, ± adorned with a thin keel. Petiole purplish 8–20 mm long. Limb discolorous, when dry often dark brown, 2–10 mm,
 
-Arbuste de 2-8 m, ± buissonnant ou sarmenteux, parfois tortueux ou rabougri; feuillage vert et luisant dessus. Ecorce très fibreuse. Bois blanc ou jaune assez mou. Stipules deltoïdes longues de 3-5 mm, uni ou biapiculées, glabres, ± ornées d'une carène mince. Pétiole pourpré long de 8-20 mm. Limbe discolore, à sec souvent brun noir, de 2-10 mm,
+Terminal inflorescences solitary with short peduncle 1.5–2.5 cm, adorned with two pairs of stipular scales; the lower pair sometimes presents aborted limbs. Floral clusters spherical ca. 4–5 cm diam. at anthesis. On juvenile inflorescences up to 3 cm diam., one distinguishes around the closed corollas the flattened and ciliate heads of the sepals; the latter, free and very caducous, cuneiform and puberulent, 2–3 mm long, disperse before opening.
 
-Inflorescences terminales solitaires à pédoncule court de 1,5-2,5 cm, orné de deux paires d'écailles stipulaires; la paire inférieure présente parfois des limbes avortés. Bouquets floraux sphériques d'env. 4-5 cm de diam. à l'anthèse. Sur les inflorescences juvéniles jusqu'à 3 cm de diam., on distingue autour des corolles closes, les têtes aplaties et ciliées des sépales; ces derniers, libres et très caducés, cunéiformes et pubérulents, longs de 2-3 mm, se dispersent avant l'épanouissement.
+Flowers white or yellowish, fragrant. Corolla 10–12 mm long, in deep narrow funnel form at the base, pubescent only inside, with 4–5 quincuncial suborbicular lobes less than 2 mm and glabrous (margin sometimes ciliolate). Anthers 1.3–2 mm long, narrow and apiculate, very briefly inserted and sunken in the corolla throat. Pollen grain simple, tricolporate, breviaxial and very small. Long style exceeding the corolla by ca. 5 mm. Stigma 3–3.5 mm, swollen with two basal spots, then acuminate. Ovary with 2 more or less distinct locules, sometimes confluent in their upper part (Pierre). Ovules numerous, with long funicle when inserted towards the top or bottom of the placenta.
 
-Fleurs blanches ou jaunâtres, odorantes. Corolle de 10-12 mm de long, en profond cornet effilé à la base, pubescent seulement à l'intérieur, à 4-5 lobes quinconciaux suborbiculaires de moins de 2 mm et glabres (marge parfois ciliolée). Anthères de 1,3-2 mm
+Infructescence spherical reaching 5–8 cm diam., fleshy and red; epidermis coriaceous, wrinkled and pitted with shallow alveoli. Numerous seeds superposed in radiating series; they are reddish, ovate, not angular, ca. 1 mm long, with the entire surface ornamented with a fossulate network. Bottom of seed coat cells ornamented with ca. 5–6 large perforations.
 
-de long, étroites et apiculées, très brièvement insérées et enfoncées dans la gorge de la corolle. Grain de pollen simple, tricolporé, bréviaxe et très petit. Long style dépassant la corolle d'env. 5 mm. Stigmate de 3-3,5 mm, renflé avec deux taches basales, puis acuminé. Ovaire à 2 loges ± distinctes, parfois confluentes dans leur partie supérieure (Pierre). Ovules nombreux, à long funicule lorsqu'ils sont insérés vers le haut ou vers le bas du placenta.
+The description above was established, except for the fruit, after Gabonese specimens.
 
-Infrutescence sphérique atteignant 5-8 cm de diam., charnue et rouge; épiderme coriace, rugueux et creusé d'alvéoles peu profondes. Nombreuses graines superposées en séries rayonnantes; elles sont rousses, ovales, non anguleuses, longues d'env. 1 mm, avec toute la surface ornée d'un réseau fossulé. Fond des cellules légumentaires orné d'env. 5-6 grosses perforations.
+This species, better known outside of Gabon where it can nevertheless be encountered there in abundance, is very widely distributed in tropical Africa. Several varieties have been described and various varietal or ecological forms are more or less known. In Gabon, N. latifolia grows in savannas or dry open terrain; it should be sought in sublittoral savannas.
 
-La description ci-dessus a été établie, sauf pour le fruit, d'après les spécimens gabonais.
-
-Cette espèce, mieux connue hors du Gabon où elle peut cependant s'y rencontrer en abondance, est très largement répandue en Afrique tropicale. Plusieurs variétés ont été décrites et diverses formes variétales ou écologiques sont plus ou moins connues. Au Gabon, le N. latifolia croît dans des savanes ou des terrains découverts secs; il serait à rechercher dans les savanes sublittorales.
-
-Les fruits sont comestibles, mais surtout consommés au Gabon par les buffles et les antilopes. Des usages médicinaux sont connus dans certaines régions (contre les fièvres ou les rhumatismes); en relation avec ces usages, il serait intéressant de noter la saveur acide ou amère des feuilles fraîches.
+The fruits are edible, but especially consumed in Gabon by buffalo and antelope. Medicinal uses are known in certain regions (against fevers or rheumatism); in relation to these uses, it would be interesting to note the acid or bitter taste of fresh leaves.
 
 ## Vernacular names
 

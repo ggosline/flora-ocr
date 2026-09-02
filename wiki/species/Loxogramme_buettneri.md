@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr., Ind., Suppl. prél. : 21 (1917). — Alston, C. Chr. FWTA : 48 (1959).
 
-Rhizome court, à frondes en touffes, portant des écailles deltoïdes. Limbe sessile, lancéolé, pouvant atteindre 12 cm sur 2 de large, progressivement rétréci vers la base, à marges irrégulièrement sinuées, extrémité arrondie. Costa apparent, plus clair, saillant à la face supérieure. Nervures obsolètes. Sores très obliques, épais, se recouvrant d'environ 1/2 de leur longueur, n'atteignant ni le costa ni la marge, paraissant parfois submarginaux.
+Rhizome short, with fronds in tufts, bearing deltoid scales. Lamina sessile, lanceolate, reaching up to 12 cm by 2 cm wide, gradually narrowed toward the base, with margins irregularly sinuate, apex rounded. Costa apparent, paler, prominent on the upper surface. Veins obsolete. Sori very oblique, thick, overlapping by approximately 1/2 of their length, not reaching either the costa or the margin, sometimes appearing submarginal.
 
-Libéria, Côté-d'Ivoire, Cameroun, jusqu'au Congo. Signalé au Gabon pour la première fois.
+Liberia, Ivory Coast, Cameroon, extending to Congo. Recorded from Gabon for the first time.
 
 ## Specimens examined
 

@@ -16,23 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in Schumach. & Thonning, Beskr. Guin. pl . : 38 (1827). Herbe vivace, de taille moyenne, à stolons portant chacun une ou quelques tiges de 60‒80 cm × 2,5‒3,5 mm, trigones, lisses avec des rainures longitudinales. Feuilles nombreuses à la base ; gaine verte à brun rougeâtre, se décomposant légèrement en fibres ; principaux limbes de 20‒40 cm × 4‒8 mm , plans avec des nervures saillantes, scabres sur la marge et les nervures principales. Inflorescence en anthèle lâche, large de 10‒15 cm , formée d’un épi sessile et de 3–6 épis sur des rayons longs de 0,5‒10 cm, souvent avec des épis secondaires à la base des épis principaux ; bractées involucrales 4‒5, foliacées, dressées ou étalées, la principale de 12‒30 cm × 2‒5 mm ; épis de 1‒2 × 1‒2,5 cm , avec 4‒15 épillets étalés. Épillet linéaire à linéaire–lancéolé, de 5‒15 × 1‒2 mm , gris à brun, à 8‒20 fleurs ; glumes ovales, de 3,5‒4,5 mm , brun rougeâtre avec une nervure médiane verte et une très large bordure incolore. Fleur à 3 étamines ; style à 3 branches. Akène obovale, de 1‒1,2 × 0,7‒0,8 mm , trigone, brun, presque lisse ou finement papilleux.
+in Schumach. & Thonning, Beskr. Guin. pl . : 38 (1827). Perennial herb, medium-sized, with stolons each bearing one or a few stems 60–80 cm × 2.5–3.5 mm, trigonous, smooth with longitudinal grooves. Leaves numerous at the base; sheath green to reddish-brown, breaking down slightly into fibres; main blades 20–40 cm × 4–8 mm, flat with prominent nerves, scabrous on the margins and main nerves. Inflorescence an open anthela, 10–15 cm wide, formed of one sessile spike and 3–6 spikes on rays 0.5–10 cm long, often with secondary spikes at the base of the main spikes; involucral bracts 4–5, foliaceous, erect or spreading, the main one 12–30 cm × 2–5 mm; spikes 1–2 × 1–2.5 cm, with 4–15 spreading spikelets. Spikelet linear to linear–lanceolate, 5–15 × 1–2 mm, grey to brown, with 8–20 flowers; glumes ovate, 3.5–4.5 mm, reddish-brown with a green midvein and a very broad colourless border. Flower with 3 stamens; style with 3 branches. Nutlet obovate, 1–1.2 × 0.7–0.8 mm, trigonous, brown, almost smooth or finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement dispersée à travers l’Afrique tropicale ; très rare au Gabon, trouvée seulement dans l’Ogooué-Maritime (près de Port Gentil) (1 récolte)
+widely dispersed throughout tropical Africa; very rare in Gabon, found only in Ogooué-Maritime (near Port Gentil) (1 collection).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in seasonally humid herbaceous grasslands; in Gabon, at sea level; up to 600 m elsewhere. Taxonomic note: very similar to C. sphacelatus, but differs by its perennial habit with arched stolons and different glumes, lacking the dark spots. The plant collected in Gabon is immature and its identification should be confirmed with better specimens. B: Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). Bibliography
 
-dans des prairies herbeuses saisonnièrement humides ; au Gabon, au niveau de la mer ; jusqu’à 600 m ailleurs. Note taxonomique : ressemble beaucoup à C. sphacelatus , mais en diffère par son port vivace avec des stolons arqués et des glumes différentes, sans les taches sombres. La plante récoltée au Gabon est immature et son identification doit être confirmée avec de meilleurs échantillons. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972). ibliographie
-
-D. Épillet. – E. Partie d’un épillet. – F. Glume. – G. D. Épillet. – E. Glume avec fleur. – F. Fruit avec Fleur. – H. Jeune fruit avec style persistant. Dessin style. Dessin original par Richard W. Haines ©. original par Richard W. Haines ©.
+D. Spikelet. – E. Part of a spikelet. – F. Glume. – G. D. Spikelet. – E. Glume with flower. – F. Fruit with Flower. – H. Young fruit with persistent style. Drawing style. Original drawing by Richard W. Haines ©. original drawing by Richard W. Haines ©.
 
 ## Notes
 

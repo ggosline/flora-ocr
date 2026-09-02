@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Adansonia, t. 3, fasc. 2 : 248 (1963).
 
-Arbre (?) à rameaux jeunes glabres, rougeâtres, ensuite grisâtres. Feuilles concolores, brun-rougeâtre. Inflorescences de 5-6 cm à pédoncule glabre, à ramifications secondaires velues, munies de bractées persistantes, ramifications terminales glabres. Fruit inconnu.
+Tree (?) with young branches glabrous, reddish, later greyish. Leaves concolorous, brownish-red. Inflorescences 5-6 cm with glabrous peduncle, with pubescent secondary branches, provided with persistent bracts, terminal branches glabrous. Fruit unknown.
 
 ## Type
 
@@ -28,13 +26,11 @@ Le Testu 7373, région de Lastoursville, 8 juin 1929 (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+The type is the only known material.
 
-Le type est le seul matériel connu.
+(1) Species dedicated to M. Pellegrin, honorary assistant director at the Paris Museum, specialist in African plants and particularly of the Le Testu herbarium.
 
-(1) Espèce dédiée à M. Pellegrin, sous-directeur honoraire au Muséum de Paris, spécialiste des plantes africaines et particulièrement de l'herbier Le Testu.
-
-PL. XV. j 1 à 5, Beilschmiedia neoletestui R. Fouilloy et N. Hallé (Le Testu 7002) : 1, rameau florifère, feuille de 15 cm; 2, inflorescence de 7 cm; 3, fleur épanouie de 2 mm de diam.; 4; coupe; 5, bractée de 5 mm. — 6 à 9; Beilschmiedia Pellegrini R. Fouilloy et N. Hallé (Le Testu 7373); 6, rameau florifère, feuille de 8 cm; 7, fragment d'inflorescence avec bractées de 5 mm; 8, fleur en bouton de 1 mm de diamètre; 9, coupe.
+PL. XV. 1 to 5, Beilschmiedia neoletestui R. Fouilloy et N. Hallé (Le Testu 7002) : 1, flowering branch, leaf 15 cm; 2, inflorescence 7 cm; 3, flower open 2 mm in diam.; 4, section; 5, bract 5 mm. — 6 to 9, Beilschmiedia Pellegrini R. Fouilloy et N. Hallé (Le Testu 7373); 6, flowering branch, leaf 8 cm; 7, fragment of inflorescence with bracts 5 mm; 8, flower in bud 1 mm in diameter; 9, section.
 
 ## Figures
 

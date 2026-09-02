@@ -15,21 +15,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Liane ou arbuste atteignant ± 5 m de hauteur ; tige pleine, subcylindrique, à rameaux parfois quadrangulaires, à bases des vieux pétioles formant de petites protubérances émoussées de 3–5 × 2 mm. Feuilles opposées ; pétiole de 0,2–1,8(–2) cm ; limbe étroitement elliptiqueovale à étroitement ovale ou elliptique, de (4,5–)6–9(–12,5) × (2,5–)4–5(–6.5) cm, cunéé à la base, longuement acuminé à l’apex, entier, ± trinervé à la base, avec 4 ou 5 paires de nervures secondaires. Inflorescence axillaire, en pseudoracème ( généralement à axe simple ou parfois branchu deux fois à la base), de (4–)9–17 × 1,3–2,2 cm, ± ascendante, finement pubescente ; cymes avec 1(à 3) fleurs, ± sessiles , distantes de (0,2–)1,2–2,2 cm ; bractées réduites, de 1–1,5 × 1 cm, généralement rapidement caduques ; bractéoles étroitement elliptiques-ovales, longues de 3–5 mm. Fleur : pédicelle de 2–3(–6) mm ; calice à tube largement campanulé, de ± 2 × 2 mm, à lobes largement triangulaires, de ± 1 × 1 mm, arrondis ou aigus à l’apex, dressés dans le bouton, puis recourbés, faiblement accrescents en fruit, verts ; corolle à tube long de 2–5 mm, courbé et fortement renflé sur la face inférieure , verte, lèvre inférieure de 2–3 × 2–3 mm, blanche ; étamines à filet inclus dans le tube, seules les anthères exsertes sur 2–4 mm , dorsifixes. Fruit de 4–5 × 5–6 mm.
+Liane or shrub reaching ± 5 m tall; stem solid, subcylindrical, with branches sometimes quadrangular, with bases of old petioles forming small blunt protuberances of 3–5 × 2 mm. Leaves opposite; petiole 0.2–1.8(–2) cm; blade narrowly elliptic-oval to narrowly ovate or elliptic, (4.5–)6–9(–12.5) × (2.5–)4–5(–6.5) cm, cuneate at base, long-acuminate at apex, entire, ± trinerved at base, with 4 or 5 pairs of secondary veins. Inflorescence axillary, in a pseudoraceme (generally with simple axis or sometimes branched twice at base), (4–)9–17 × 1.3–2.2 cm, ± ascending, finely pubescent; cymes with 1 (to 3) flowers, ± sessile, distant by (0.2–)1.2–2.2 cm; bracts reduced, 1–1.5 × 1 cm, generally quickly caducous; bracteoles narrowly elliptic-ovate, 3–5 mm long. Flower: pedicel 2–3(–6) mm; calyx with widely campanulate tube, ± 2 × 2 mm, with widely triangular lobes, ± 1 × 1 mm, rounded or acute at apex, erect in bud, then recurved, weakly accrescent in fruit, green; corolla with tube 2–5 mm long, curved and strongly inflated on lower surface, green, lower lip 2–3 × 2–3 mm, white; stamens with filament included in tube, anthers alone exserted for 2–4 mm, dorsifixed. Fruit 4–5 × 5–6 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun et Gabon ; au Gabon : Ngounié, Ogooué-Lolo et Woleu-Ntem. Statut de conservation : Vulnérable (VU) ; selon la Liste Rouge de l’UICN, évalué par Pollard (2004a)
+Cameroon and Gabon; in Gabon: Ngounié, Ogooué-Lolo and Woleu-Ntem. Conservation status: Vulnerable (VU); according to the IUCN Red List, assessed by Pollard (2004a).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt secondaire, bord de route forestière ; au Gabon à 500–540 m d’altitude, ailleurs à 940 m. B : Cheek et al . (2004), Letouzey (1974), Pollard (2004). i B liographie
+secondary forest, forest road edge; in Gabon at 500–540 m altitude, elsewhere at 940 m. B: Cheek et al. (2004), Letouzey (1974), Pollard (2004). Bibliography
 
 ## Notes
 

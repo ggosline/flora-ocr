@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Sarmentose shrub 4.50 m in height, without spines. Leaves with short petiole, 8–12 mm in length; blade oblong, 12–20 × 5–7 cm, briefly acuminate at the apex, rounded or cuneate at the base, entire.
 
-Arbuste sarmenteux de 4,50 m de hauteur, sans épines. Feuilles à pétiole court, de 8-12 mm de longueur; limbe oblong, de
+Sepals connate at the base, narrowly triangular, 15 × 10 mm, acuminate, keeled. Corolla in young bud covered by the outer sepals forming a beak; otherwise corolla unknown, as are the stamens and pistil.
 
-12-20 × 5-7 cm, brièvement acuminé au sommet, arrondi ou cuné à la base, entier.
-
-Sépales soudés à la base, étroitement triangulaires, de  $ 15 \times 10 $ mm, acuminés, carénés. Corolle dans le jeune bouton couverte par les sépales extérieurs formant bec; pour le reste corolle inconnue, de même les étamines et le pistil.
-
-Baies globuleuses, de 2 cm de longueur, apiculées et lisses à l'état desséché. Pl. 3, 4-5, p. 18.
+Berries globose, 2 cm in length, apiculate and smooth in the dried state. Pl. 3, 4–5, p. 18.
 
 ## Type
 
@@ -33,9 +29,7 @@ Mann 1802, près de la Kongué, Guinée équatoriale (holotype : K, isotypes : K
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Seulement connue par le type, existe très vraisemblablement au Came-roun et au Gabon.
+Known only from the type specimen, most likely existing in Cameroon and Gabon.
 
 ## Figures
 

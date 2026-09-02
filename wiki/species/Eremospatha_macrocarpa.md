@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-in De Kerchove de Denterghem, Palmiers : 244 (1878). Liane cespiteuse ; stipe cylindrique, jusqu’à 75(–150) m, jusqu’à 18 mm de diamètre. Feuille : gaine striée longitudinalement, peu à modérément couverte d’une pilosité brune ; ochréa en tière, ± tronquée en forme de selle, forme juvénile avec un pli clairement visible sur la face inférieure ; genou absent ; feuille juvénile à pétiole < 1 cm, limbe bifide, jusqu’à 40 × 50 cm ou à rachis sans limbe de 50–75 cm ; feuille mature sans pétiole ; rachis 1–1,5 m, aplati dessus, arrondi dessous, bords armés d’épines inéquidistantes ; limbe comprenant jusqu’à 25 paires de folioles très étroitement elliptiques-ovales, 22–35 × 2–2,5 cm, à sommet étroitement prémorse, marges armées d’épines, les basales plus étroites que les autres, linéaires, réflé chies autour de la gaine foliaire ; cirrhe 1,2–2 m , sans épines, à folioles-épines de ± 3 cm. Inflorescence jusqu’à 55 cm de longueur ; pédoncule 10–15 cm ; rachis 25–40 cm, arqué vers l’extérieur, avec 10 à 14 paires de rameaux florifères de 12–18 cm, décroissant distalement en longueur. Fleur : calice 3 × 6 mm, lobes distincts, arrondis ; corolle 10 × 4 mm, divisée sur le ¼ de sa longueur ; étamines en un anneau de ± 5 mm de longueur, partie libre des filets < 0,5 mm, anthère < 1 mm de longueur ; ovaire 4 × 2,5 mm ; style 2 mm. Fruit cylindrique, 2,2–2,6 × 1–1,5 cm à maturité, avec 17 à 24 rangs d’écailles, à 1(–2) graines. Graine 1,8–2 × 1,4–1,8 × 1 cm, aplatie.
+in De Kerchove de Denterghem, Palmiers : 244 (1878). Clambering cespitose vine; stem cylindrical, up to 75(–150) m, up to 18 mm in diameter. Leaf: sheath longitudinally striated, sparsely to moderately covered with brown pubescence; ochrea entire, ± saddle-shaped, juvenile form with a clearly visible fold on the lower surface; knee absent; juvenile leaf with petiole < 1 cm, blade bifid, up to 40 × 50 cm or with rachis lacking blade 50–75 cm; mature leaf without petiole; rachis 1–1.5 m, flattened above, rounded below, margins armed with unequally-spaced spines; blade comprising up to 25 pairs of very narrowly elliptic-ovate leaflets, 22–35 × 2–2.5 cm, with narrowly premorse apex, margins armed with spines, the basal ones narrower than the others, linear, reflexed around the leaf sheath; cirrus 1.2–2 m, without spines, with spine-like leaflets of ± 3 cm. Inflorescence up to 55 cm long; peduncle 10–15 cm; rachis 25–40 cm, arching outward, with 10 to 14 pairs of flowering branches 12–18 cm, decreasing distally in length. Flower: calyx 3 × 6 mm, lobes distinct, rounded; corolla 10 × 4 mm, divided on the ¼ of its length; stamens in a ring of ± 5 mm length, free part of filaments < 0.5 mm, anther < 1 mm long; ovary 4 × 2.5 mm; style 2 mm. Fruit cylindrical, 2.2–2.6 × 1–1.5 cm at maturity, with 17 to 24 rows of scales, with 1(–2) seeds. Seed 1.8–2 × 1.4–1.8 × 1 cm, flattened.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très largement réparti en Afrique de l’Ouest et centrale ; au Gabon, connu de l’Estuaire, de la Ngounié et de l’Ogooué-Lolo. Statut de conservation : Préoccupation mineure (LC)
+Very widely distributed in West and Central Africa; in Gabon, known from Estuaire, Ngounié, and Ogooué-Lolo. Conservation status: Least Concern (LC)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce héliophile affectionnant les lisières de forêts et les clairières ; au Gabon entre 10 et 200 m d’altitude, ailleurs entre 10 et 350 m
+Heliophilous species favoring forest edges and clearings; in Gabon between 10 and 200 m elevation, elsewhere between 10 and 350 m
 
 ## Vernacular names
 

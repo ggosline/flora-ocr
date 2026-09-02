@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste, 2-3 m, à arbre, 5-10 (-15) m, voire liane; limbe acuminé, entier ou obscurément denté. Fruit rouge ou jaune, pyriforme, de 7-8 mm. PL. 10, 1-9, p. 53.
+Shrub, 2-3 m, to tree, 5-10 (-15) m, or even liane; limb acuminate, entire or obscurely dentate. Fruit red or yellow, pyriform, 7-8 mm. PL. 10, 1-9, p. 53.
 
 ## Type
 
@@ -27,9 +25,7 @@ Zenker 3203, Cameroun (holo-, B, iso-, P!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Connu également de Brazzaville (La Patte d'Oie), Normand D.W. 7 (fr., bois).
+Also known from Brazzaville (La Patte d'Oie), Normand D.W. 7 (fr., wood).
 
 ## Vernacular names
 

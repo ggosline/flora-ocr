@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle ou bisannuelle, atteignant 5 m de hauteur. Stipules jusqu’à 2 cm de longueur. Feuille : pétiole atteignant 60 cm ; limbe 3 ‒ 5 ‒ 7-palmatilobé à palmatipartite, cordé à la base, à contour transversalement elliptique à orbiculaire, jusqu’à 50 cm de diamètre. Fleurs solitaires, axillaires ou en grappe terminale ; pédicelle jusqu’à 4,5 cm à l’anthèse et jusqu’à 13 cm en fruit ; segments de l’épicalice 5 ‒ 10 , ovales à oblongs , 10 ‒ 35 × 4 ‒ 13 mm , aigus à acuminés, généralement caducs après le développement initial du fruit, avec quelques poils épars ; calice spathacé, 2 ‒ 7 cm de longueur, caduc avec la corolle et le tube staminal ; pétales obovales à orbiculaires, 4 ‒ 9 cm de longueur, jaunes avec une base violette foncé, virant souvent au rose après la floraison ; tube staminal jusqu’à 3,5 cm de longueur, blanc, filaments libres sur 0,5 ‒ 1,5 mm ; ovaire 7 ‒ 12-loculaire , tomenteux à hispide, style à 5 ‒ 12 branches, stigmates pourpres foncés. Fruit capsulaire, érigé à pendant , ovoïde à cylindrique , 5 ‒ 25 × 1 ‒ 5 cm, acuminé, anguleux à 5 ‒ 12 côtes, perdant progressivement sa pilosité, glabrescent. Graine globuleuse à ovoïde, 3 ‒ 5 mm de diamètre, portant parfois de longs poils rouges.
+Annual or biennial herb, reaching 5 m in height. Stipules up to 2 cm long. Leaf: petiole reaching 60 cm; blade 3–5–7-palmatilobed to palmatipartite, cordate at base, with transversely elliptic to orbicular outline, up to 50 cm in diameter. Flowers solitary, axillary or in terminal raceme; pedicel up to 4.5 cm at anthesis and up to 13 cm in fruit; epicalyx segments 5–10, ovate to oblong, 10–35 × 4–13 mm, acute to acuminate, generally caducous after initial fruit development, with some scattered hairs; calyx spathed, 2–7 cm long, caducous with corolla and staminal tube; petals obovate to orbicular, 4–9 cm long, yellow with dark purple base, often turning pink after flowering; staminal tube up to 3.5 cm long, white, filaments free for 0.5–1.5 mm; ovary 7–12-locular, tomentose to hispid, style with 5–12 branches, stigmas dark purple. Capsular fruit, erect to pendant, ovoid to cylindric, 5–25 × 1–5 cm, acuminate, angular with 5–12 ribs, gradually losing its hairiness, glabrescent. Seed globose to ovoid, 3–5 mm in diameter, sometimes bearing long red hairs.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-cultivée et parfois échappée en Afrique de l’Ouest et Centrale, du Sénégal jusqu’au Cameroun, Gabon, Ouganda et la République Démocratique du Congo ; au Gabon seulement connue de la province du Woleu-Ntem
+Cultivated and sometimes escaped in West and Central Africa, from Senegal to Cameroon, Gabon, Uganda and the Democratic Republic of the Congo; in Gabon only known from Woleu-Ntem province.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-aires de culture, dans les zones humides et péri-humides ; fleurs et fruits la plupart de l’année ; au Gabon, à 0 ‒ 350 m d’altitude. Usage : Les jeunes fruits immatures sont des légumes importants, généralement consommés bouillis dans les potages et sauces gluantes. Les fruits peuvent être conservés séchés, entiers ou en morceaux. Les feuilles sont parfois consommées comme légume
+Cultivation areas, in humid and semi-humid zones; flowers and fruits most of the year; in Gabon, at 0–350 m altitude. Use: The young immature fruits are important vegetables, generally consumed boiled in soups and thick sauces. The fruits can be preserved dried, whole or in pieces. The leaves are sometimes consumed as a vegetable.
 
 ## Vernacular names
 

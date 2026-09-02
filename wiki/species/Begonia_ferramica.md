@@ -17,25 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Plant reaching 18 cm in height, covered by a white woolly and arachnoid indumentum. Leaves peltate; petiole 2–17 cm; blade spreading when fresh, not bullate, symmetric or slightly asymmetric, circular or sometimes broadly elliptic-obovate to broadly elliptic-ovate, 2–9 × 1.5–7.5 cm, apex rounded. Inflorescence: peduncle 1–8 cm, with (1–)2–3 ♂ flowers and 1 ♀ flower with yellow tepals; bracts 1–3.5 mm long. ♂ flower: tepals 6.5–12 × 6–9 mm; androecium with 10–19 stamens. ♀ flower: pedicel elongating in fruit to 13(–23) mm; tepals 6–12.5 × 4.4–9.5 mm; ovary broadly obovoid or globose to ellipsoid-obovoid or ellipsoid or sometimes very broadly ovoid, 2.5–3.5(–5) × 2–3.5(–5) mm, not winged; styles (2–)3. Fruit broadly ellipsoid to globose, 3.5–7 × 2.5–6 mm; rostrum absent or up to 1 mm.
 
-Plante atteignant 18 cm de hauteur, couvert par un indument laineux et arachnéen blanc . Feuilles peltées ; pétiole de 2–17 cm ; limbe étalé sur le frais, non bullé, symétrique ou légèrement asymétrique, circulaire ou parfois largement elliptique-obovale à largement elliptique-ovale , 2–9 × 1,5–7,5 cm, sommet arrondi. Inflorescence : pédoncule 1–8 cm, avec (1–)2–3 fleurs ♂ et 1 fleur ♀ à tépales jaunes ; bractées 1–3,5 mm de longueur. Fleur ♂ : tépales 6,5–12 × 6–9 mm ; androcée à 10–19 étamines. Fleur ♀ : pédicelle s’allongeant en fruit jusqu’à 13(–23) mm ; tépales 6–12,5 × 4,4–9,5 mm ; ovaire largement obovoïde ou globuleux à ellipsoïde-obovoïde ou ellipsoïde ou parfois très largement ovoïde , 2,5–3,5(–5) × 2–3,5(–5) mm, non ailée ; styles (2–)3. Fruit largement ellipsoïde à globuleux , 3,5–7 × 2,5–6 mm ; rostre absent ou jusqu’à 1 mm.
+IL ESSEL Netherlands – Wageningen branch.
 
-IL ESSEL Pays-Bas – Wageningen branche.
-
-Fruit. – 14. Fruit, coupe transversale. – 15. Graine. ( N. Hallé 3489 & 3767 ) . Dessin par N ICOLAS H et reproduit avec sa permission. ALLÉ
+Fruit. – 14. Fruit, transverse section. – 15. Seed. ( N. Hallé 3489 & 3767 ). Drawing by NICOLAS HALLÉ and reproduced with his permission.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, présent vers Bélinga, au nord-est du Gabon, et à la Mayombe au sud-ouest
+endemic to Gabon, present near Bélinga, in the northeast of Gabon, and at Mayombe in the southwest
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce fragile et délicate sur des parois rocheuses sableuses ou ferralitiques inclinées, en stations relativement sèches et ombragées de la forêt primaire ; à 500–1000 m d’altitude. B : Hallé (1967), Sosef (1994). IBLIOGRAPHIE
+fragile and delicate species on sandy or ferralitic sloping rock faces, in relatively dry and shaded stations of the primary forest; at 500–1000 m altitude. B: Hallé (1967), Sosef (1994). IBLIOGRAPHY
 
 ## Notes
 

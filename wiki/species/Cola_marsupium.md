@@ -22,27 +22,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-descr. orig., et Sterc. Afr. : 113 t. XII B, a-d. (1900). — De Wild. Miss. E. Laurent : 403 (1907).
+descr. orig., et Sterc. Afr.: 113 t. XII B, a-d. (1900). — De Wild. Miss. E. Laurent: 403 (1907).
 
 — Pell. Sterc. Gab. in Mém. S. B. Fr.: 38 (1950-1951). — F.W.T.A. 2° ed. I: 328 (1958).
 
-Arbuste atteignant de 1,50 à 4 m de haut (Klaine), à extrémités velues à longs poils simples bruns. Stipules linéaires aiguës velues, de 10-20 mm env., longtemps persistantes. Pétioles de 3-25 cm de long, velus. Limbe entier, parfois bi ou trilobé, mince et devenant un peu gaufré, plus ou moins velu sur les deux faces, de 9-32 × 4-18 cm, à base cordée, à sommet pourvu d'un acumen très aigu. Le limbe est orné de part et d'autre de la base de la nervure médiane, de deux boursouflements en forme de poches, saillants sur la face supérieure et s'ouvrant en dessous. Des poches identiques mais beaucoup plus petites, se présentent aussi parfois à l'aisselle des nervures latérales vers le milieu du limbe. Nervures basiliaires digitées 7-9; nervures pennées non basiliaires 4-6 paires.
+Shrub reaching 1.50 to 4 m in height (Klaine), with pubescent apices bearing long simple brown hairs. Linear acute pubescent stipules, approximately 10-20 mm, long-persistent. Petioles 3-25 cm long, pubescent. Blade entire, sometimes bi- or trilobed, thin and becoming slightly rugose, more or less pubescent on both faces, 9-32 × 4-18 cm, with cordate base, with apex bearing a very acute acumen. The blade is ornamented on either side of the base of the midvein with two pouch-like swellings, prominent on the upper surface and opening below. Identical but much smaller pouches are also sometimes present at the axil of the lateral veins towards the middle of the blade. Basal digitate veins 7-9; non-basal pinnate veins 4-6 pairs.
 
-Inflorescences en petites grappes très contractées, situées ou non à l'aisselle de feuilles, et souvent échelonnées vers les extrémités. Rachis des grappes de 3 à 10 mm de long, très courtemment ramiﬁés, pubescents. Pédicelle bref de 1 à 3 mm de long, articulé vers le milieu. Bouton obové et brièvement pyramidal.
+Inflorescences in small very contracted racemes, situated or not in the axil of leaves, and often scattered towards the apices. Raceme rachis 3 to 10 mm long, very shortly ramified, pubescent. Pedicel short, 1 to 3 mm long, articulate towards the middle. Bud obovate and briefly pyramidal.
 
-Fleur jaune à calice campanulé long de 7-10 mm, vêtu extérieurement d'un mélange variable de longs poils simples et de courts poils stellés fauves, pubescent à l'intérieur. 4-5 lobes plus ou moins dressés ou renversés, aigus, densément pubérulents sur les marges. Fleur ♂ à calice un peu évasé, à androphore grêle, glabre ou velu, portant 16 à 22 loges polliniques disposées en couronne unisériée. Fleur ♀ à calice un peu urcéolé; gynécée ceint à la base de loges polliniques, globuleux. pubescent, 5-7-carpellé, plus ou moins atténué au sommet, à lobes stigmatiques rayonnants, tantôt plus court tantôt un peu plus long que le tube du calice. 8-12 ovules par carpelle.
+Yellow flower with campanulate calyx 7-10 mm long, clothed externally with a variable mixture of long simple hairs and short tawny stellate hairs, pubescent inside. 4-5 lobes more or less erect or reflexed, acute, densely puberulent on the margins. ♂ Flower with calyx slightly spreading, with slender androphore, glabrous or pubescent, bearing 16 to 22 pollen sacs arranged in a uniseriate crown. ♀ Flower with calyx somewhat urceolate; gynoecium girded at the base by pollen sacs, globose, pubescent, 5-7-carpellate, more or less attenuate at the apex, with radiating stigmatic lobes, sometimes shorter sometimes slightly longer than the calyx tube. 8-12 ovules per carpel.
 
-Fruit à 5-7 follicules plus ou moins glabrescents, en petits boudins fusiformes, de 4-8 cm de long, à légumes minces contenant 3-12 graines entourées d'un légument très fibreux.
+Fruit with 5-7 more or less glabrescent follicles, in small fusiform pods, 4-8 cm long, with thin legumes containing 3-12 seeds surrounded by a very fibrous tegument.
 
-PL. IX. — Feuilles, fleurs et fruits de Cola du s.-g. Neocourtenia : 1 à 4, Cola marsupium K. Schum. (feuille, Le Testu 7054; fruit, Klaine 2714; fleurs, Le Testu 7054 et 9093 ♡). — 5 à 7, Cola urceolata, K. Schum. (fleur, Tisserant 168; feuille, Le Testu 8260; fruit, Tisserant 1719). — 8 à 10, Cola gabonensis Mast. (fruit, Trilles 187; feuille, Lecomte Fernan-Vaz; fleur, Duparquet 72). — 11 à 13, Cola gabonensis var. humilis (Pierre) (fleur, Klaine 2791; feuille, Klaine 3216; fruit, Klaine 3309). — 14 et 15, Cola brevipes var. hirsuta (Pellegr.) (Le Testu 2322).
+PL. IX. — Leaves, flowers and fruits of Cola of the subgen. Neocourtenia: 1 to 4, Cola marsupium K. Schum. (leaf, Le Testu 7054; fruit, Klaine 2714; flowers, Le Testu 7054 and 9093 ♡). — 5 to 7, Cola urceolata K. Schum. (flower, Tisserant 168; leaf, Le Testu 8260; fruit, Tisserant 1719). — 8 to 10, Cola gabonensis Mast. (fruit, Trilles 187; leaf, Lecomte Fernan-Vaz; flower, Duparquet 72). — 11 to 13, Cola gabonensis var. humilis (Pierre) (flower, Klaine 2791; leaf, Klaine 3216; fruit, Klaine 3309). — 14 and 15, Cola brevipes var. hirsuta (Pellegr.) (Le Testu 2322).
 
-Type de l'espèce : Buchholtz 64, probablement détruit; cotype Soyaux 313 (P).
+Type of the species: Buchholtz 64, probably destroyed; cotype Soyaux 313 (P).
 
-Cette espèce est répandue du Nigéria au Congo ex-Belge. La forme typique a des feuilles entières mais on peut considérer comme variétales les formes trilobées du Congo Belge; nous les distinguons sous le nom de C. marsupium var. laurentii (De Wild.) N. Hallé comb. nov. Au Gabon, les feuilles sont généralement entières mais parfois bilobées, rarement subtrilobées. La variation foliaire qui existe chez ce Cola pouvait être comparée à juste titre par De Wildeman, à celle de C. heterophylla.
+This species is distributed from Nigeria to the former Belgian Congo. The typical form has entire leaves but the trilobed forms from the Belgian Congo may be considered as varieties; we distinguish them under the name C. marsupium var. laurentii (De Wild.) N. Hallé comb. nov. In Gabon, the leaves are generally entire but sometimes bilobed, rarely subtriobed. The foliar variation that exists in this Cola could be rightly compared by De Wildeman to that of C. heterophylla.
 
-Les poches de la base du limbe passent pour servir d'abri à des fourmis; leur rôle exact n'est pas connu.
+The pouches at the base of the blade are thought to serve as shelter for ants; their exact role is not known.
 
 ## Specimens examined
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante grêle, verte après séchage ; rhizome à entrenœuds allongés et donc à feuilles non en rosette . Feuilles à pétiole distinct de 3–6 cm ; limbes 5–8(–10) × 2–4 cm , la plus grande largeur vers le milieu ou dans la moitié inférieure, base tronquée à atténuée, som met aigu à apiculé, marge glabre, avec un dessin particulier des cellules épidermiques de la face abaxiale donnant un aspect rayé. Inflorescence (pédoncule inclus) 40–55 cm, très lâche, rachis glabre ; bractées glabres, atteignant 5 mm de longueur. Fleur rarement vue, 1–2 par nœud ; pédicelle environ 3 mm, articulé dans la partie supérieure ; tépales blancverdâtre ; filets 1–2 mm, anthères 2 mm ; style environ 5 mm, droit. Pseudo-viviparie fréquente . Fruit plus large que long, tronqué à la base, 4–5 × 6 mm. Graine à forme inconnue (probablement cupuliforme), 2 mm de diamètre.
+Slender plant, green after drying; rhizome with elongated internodes and thus leaves not in rosette. Leaves with petiole distinct, 3–6 cm; laminae 5–8(–10) × 2–4 cm, greatest width towards the middle or in the lower half, base truncate to attenuate, apex acute to apiculate, margin glabrous, with a distinctive pattern of epidermal cells on the abaxial surface giving a striped appearance. Inflorescence (peduncle included) 40–55 cm, very lax, rachis glabrous; bracts glabrous, reaching 5 mm in length. Flower rarely seen, 1–2 per node; pedicel approximately 3 mm, articulate in the upper part; tepals whitish-green; filaments 1–2 mm, anthers 2 mm; style approximately 5 mm, straight. Pseudo-vivipary frequent. Fruit wider than long, truncate at base, 4–5 × 6 mm. Seed of unknown form (probably cupuliform), 2 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-zone côtière du Nigéria et du Cameroun. Au Gabon, seulement connue de la province de l’Estuaire, mais probablement aussi présente ailleurs
+coastal zone of Nigeria and Cameroon. In Gabon, known only from Estuaire Province, but probably also present elsewhere
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire incluant la forêt riveraine ; au Gabon à 100–460 m d’altitude. Notes taxonomiques : Les plantes issues de la pseudo-viviparie semblent atteindre la ma turité plus rapidement que celles issues de semis. Par conséquent, les spécimens en fleurs issus de la reproduction végétative ont des feuilles plus petites que les plantes venant de graines. Chlorophytum petrophilum partage plusieurs caractères avec C. sparsiflorum var. bi pindense (voir ci-dessous), mais se différencie principalement au niveau des feuilles qui sont relativement petites. Les relations entre ces deux entités demandent à être davantage étudiées. B : Poulsen & Nordal (2005). ibliographie
+primary forest including riparian forest; in Gabon at 100–460 m altitude. Taxonomic notes: Plants arising from pseudo-vivipary seem to reach maturity more rapidly than those from seed. Consequently, flowering specimens from vegetative reproduction have smaller leaves than plants from seed. Chlorophytum petrophilum shares several characters with C. sparsiflorum var. bipindense (see below), but differs mainly in the leaves which are relatively small. The relationships between these two entities require further study. B: Poulsen & Nordal (2005). Bibliography
 
 ## Notes
 

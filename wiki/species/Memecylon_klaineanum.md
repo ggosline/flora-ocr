@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree 6 to 10 m tall; branchlets terete. Leaves subcoriaceous; petiole 2 to 3 mm; blade whitish acuminate, 3–4 × 9–11 cm, base long-cuneate, acumen narrow, 1 cm long, obtuse at apex; midvein alone well visible, finely impressed above, moderately prominent below; visible when dry; 6 to 8 main transverse veins, slightly oblique, some incomplete and ± bifurcate with formation of a loose reticulum; convergent veins obscure, submaginal (at 1 mm) arched with the main transverse veins.
 
-Arbre de 6 à 10 m; rameaux arrondis. Feuilles subcoriaces; pétiole de 2 à 3 mm; limbe blancs acuminé, 3-4 × 9-11 cm, base longuement cunée, acumen étroit, long de 1 cm, obtus à l'apex; nervure médiane seule bien visible, finement imprimée dessus, modérément saillante dessous; visibles sur le sec; de 6 à 8 transversales principales, légèrement obliques, quelques unes incomplètes et ± bifurquées avec formation d'un réticulum, lâche; convergentes obscures, submarginales (à 1 mm) arquées avec les transversales principales.
+2 to 3 small cymes on leafy and leafless nodes (20 to 50 flowers per axil); 1 to 1.5 cm long, on a stipe 3 to 5 mm; 2 to 3 times branched, branchlets 2 to 4 mm, the pedicels very short, with subulate bracts, ± persistent and flowers umbellulate. Flowers with slender pedicel 2 to 3 mm; floral bud 2 mm high, with calyx not reaching half-height; hypanthium and calyx cupulate-patellate; calyx with narrow limb, truncate, 4-microdentate. Corolla white; petals transversely ovate, 1.7 × 1.3 mm, finely apiculate, base truncate. Stamens small, with anther 1 × 0.5 mm; connective conical-acute, erect, small gland at anterior position; filament 1.5 mm; epigynous chamber with septa defining deeper locules for the episepals stamens at lower insertion. Ovarian locule with mediocre antisepal prominence; 6-ovulate. Style 2.5 mm.
 
-De 2 à 3 petites cymes sur les nœuds feuillés et défeuillés (de 20 à 50 fleurs par aisselle); longues de 1 à 1,5 cm, sur un stipe de 3 à 5 mm; de 2 à 3 fois ramiﬁées, rameaux de 2 à 4 mm, les pédoncules très courts, avec bractées subulées, ± persistantes et fleurs ombellulées. Fleurs à pédicelle grêle de 2 à 3 mm; bouton floral haut de 2 mm, avec calice n'atteignant pas la demi-hauteur; hypanthe et calice cupulo-patellés; calice à limbe étroit, tronqué, 4-microdenté. Corolle blanche; pétales transversalement ovales, 1,7 × 1,3 mm, finement apiculés, base tronquée. Étamines petites, à anthère de 1 × 0,5 mm; connectif conique-aigu, redressé, glande petite, à position antérieure; ﬁlet de 1,5 mm; chambre épigyne avec cloisons déﬁnissant des loges plus profondes pour les étamines épisépales à insertion plus basse. Loge ovarienne à saillie antiplacentaire médiocre; 6-ovulée. Style 2,5 mm.
-
-Fruit globuleux,  $ 7 \times 6 $ mm. — Pl. 44, fig. 2-7, p. 123.
+Fruit globose, 7 × 6 mm. — Pl. 44, fig. 2–7, p. 123.
 
 ## Type
 
@@ -31,9 +29,7 @@ Klaine 2549, Gabon (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce des forêts basses du Gabon et du Congo; se distingue par ses cymes et fleurs très petites.
+Species of lowland forests of Gabon and Congo; distinguished by its very small cymes and flowers.
 
 ## Specimens examined
 

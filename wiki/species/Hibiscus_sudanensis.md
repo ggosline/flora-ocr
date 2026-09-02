@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-H. rostellatus Guill. & Perr. var. sudanensis (Hochr.) Hauman, Fl. Congo Belge 10 : 119 (1963). Herbe ligneuse de 2 m environ, rampante et lianescente , parties végétatives légèrement rugueuses ; tige à poils étoilés et aiguillons courts à base bulbeuse . Stipules filiformes, 3 ‒ 6 mm, caduques. Feuille : pétiole 2 ‒ 9 cm, légèrement rugueux ; limbe étroitement ovale à faiblement 3-lobé, dans ce cas, hasté , 5 ‒ 6 × 4 cm, base des plus larges feuilles cordée, base des feuilles plus réduites tronquée, pourvu de poils étoilés sur les deux faces, nervure médiane sans nectaire . Fleur axillaire, solitaire ou regroupées à l’extrémité des tiges ; pédoncule et pédicelle jusqu’à 1 cm au total , hirsute ; calicule à 8 ‒ 12 bractéoles , 1,0 ‒ 1,3 cm de longueur, fourchues à partir du milieu environ, lobes foliacés, ovales et lancéolés, à poils étoilés à base bulbeuse ; sépales en majeure partie libres, étroitement ovales, 1,5 ‒ 2 cm de longueur, foliacés , à poils étoilés à base bulbeuse sur les bords et nervures, nervure médiane sans nectaire ; pétales 4 ‒ 5 cm de longueur, jaunes à base pourpre, éparsément pubérulents à l’extérieur avec des poils simples et étoilés ; tube staminal 2 cm de longueur ; branches du style dépassant le tube sur 3 ‒ 5 mm, stigmates pourpre foncé. Fruit ovoïde, 17 mm de longueur, à pubescence dense apprimée. Graines réniformes, 3 × 4 mm, brun foncé, couvertes de petites écailles brunâtres.
+H. rostellatus Guill. & Perr. var. sudanensis (Hochr.) Hauman, Fl. Congo Belge 10 : 119 (1963). Woody herb approximately 2 m tall, trailing and lianescent, vegetative parts slightly rugose; stem with stellate hairs and short prickles with bulbous base. Stipules filiform, 3–6 mm, caducous. Leaf: petiole 2–9 cm, slightly rugose; blade narrowly ovate to weakly 3-lobed, in this case hastate, 5–6 × 4 cm, base of larger leaves cordate, base of smaller leaves truncate, furnished with stellate hairs on both surfaces, midvein without nectary. Flower axillary, solitary or clustered at stem apex; peduncle and pedicel up to 1 cm in total, hirsute; epicalyx with 8–12 bracteoles, 1.0–1.3 cm in length, forked from about the middle onwards, lobes foliaceous, ovate and lanceolate, with stellate hairs with bulbous base; sepals mostly free, narrowly ovate, 1.5–2 cm in length, foliaceous, with stellate hairs with bulbous base on margins and veins, midvein without nectary; petals 4–5 cm in length, yellow with purple base, sparsely puberulent outside with simple and stellate hairs; staminal tube 2 cm in length; style branches exceeding the tube by 3–5 mm, stigmas dark purple. Fruit ovoid, 17 mm in length, with dense appressed pubescence. Seeds reniform, 3 × 4 mm, dark brown, covered with small brownish scales.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-République Centrafricaine, Cameroun, Gabon et République Démocratique du Congo ; au Gabon, rare et seulement connue du Woleu-Ntem (rivière Sing à Minkébé)
+Central African Republic, Cameroon, Gabon and Democratic Republic of the Congo; in Gabon, rare and known only from Woleu-Ntem (Sing river at Minkébé)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-bord de rivière, à ± 500 m d’altitude . Note taxonomique : nouveauté pour la flore du Gabon. L’espèce n’est pas du tout proche de H. rostellatus , également rampante, comme le suggère Hauman (1963). Seules les bractéoles sont pareilles. H. sudanensis est beaucoup plus délicat et les feuilles ovaleshastées sont bien caractéristiques. B : Hauman (1963), Wilson (1999). i B liographie
+river bank, at ± 500 m altitude. Taxonomic note: novelty for the Gabon flora. The species is not at all close to H. rostellatus, also trailing, as Hauman (1963) suggests. Only the bracteoles are similar. H. sudanensis is much more delicate and the ovate-hastate leaves are quite characteristic. B: Hauman (1963), Wilson (1999). Bibliography
 
 ## Notes
 

@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE : Le Testu 6384, Gabon, holo-K!, iso-P!. – Garay, Kew Bull. 28(3) : 509 (1973) ; FAC 2 : 476 (1992) ; FCAM 3 : 878 (2001).
 
-Tige < 35 cm, presque filiforme. Feuilles plusieurs à nombreuses, < 2 x 0,2-0,4 cm, oblongues-elliptiques, apiculées, plus ou moins tordues à la base, de section transversale en V. Inflorescence raccourcie, 1-flore. Fleur petite, résupinée, blanche. Sépale dorsal oblong-lancéolé à oblong-elliptique. Pétales linéaires-oblancéolés à oblongs-obovés, légèrement falciformes, obtus. Sépales latéraux oblongs-lancéolés à oblongs-obovés, obliques, obtus. Labelle 3-3,5 x 4,3-5,6 mm, transversalement elliptique ou rhombiforme, canaliculé ou légèrement cochléiforme. Éperon 2,2-3 mm, largement conique à la base, comprimé au-dessus et en forme d'ampoule au sommet. – Pl. 217, p. 455.
+Stem < 35 cm, almost filiform. Leaves several to numerous, < 2 × 0.2–0.4 cm, oblong-elliptic, apiculate, more or less twisted at the base, V-shaped in cross-section. Inflorescence shortened, 1-flowered. Flower small, resupinate, white. Dorsal sepal oblong-lanceolate to oblong-elliptic. Petals linear-oblanceolate to oblong-obovate, slightly falcate, obtuse. Lateral sepals oblong-lanceolate to oblong-obovate, oblique, obtuse. Lip 3–3.5 × 4.3–5.6 mm, transversely elliptic or rhombiform, channelled or slightly cochleate. Spur 2.2–3 mm, broadly conical at the base, compressed above and saccate at the apex. – Pl. 217, p. 455.
 
-PL. 217. – Angraecum gabonense Summerh. : A, éperon, labelle, ovaire, pédicelle et bractée florale ; B, labelle et éperon étalés ; C, sépale dorsal ; D, pétale ; E, sépale latéral ; F, feuille ; G, fleur, vue de dessous ; H, labelle étalé (A-H, Le Testu 6384, P. ; G, Merle 59, P).
+PL. 217. – Angraecum gabonense Summerh. : A, spur, lip, ovary, pedicel and floral bract ; B, lip and spur spread out ; C, dorsal sepal ; D, petal ; E, lateral sepal ; F, leaf ; G, flower, view from below ; H, lip spread out (A-H, Le Testu 6384, P. ; G, Merle 59, P).
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Zaïre
+Cameroon, Gabon, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1,350 m. Epiphyte in dense forest, collected in the shade in humid dense forest, tall forest, on Gilbertiodendron deweveri and Julbernardia seretii
 
-alt. 0-1 350 m. Épiphyte en forêt dense, récolté à l'ombre en forêt dense humide, forêt haute, sur Gilbertiodendron deweveri et Julbernardia seretii
+MATERIAL EXAMINED (Map 96) :
 
-MATÉRIEL ÉTUDIÉ (Carte 96) :
+De Wilde, Arends, Louis & Wieringa 9856, between Rabi 49 and 50 (fl. Nov.), WAG!.
 
-De Wilde, Arends, Louis & Wieringa 9856, entre Rabi 49 et 50 (fl. Nov.), WAG!.
+Hallé & Villiers 5418, Cristal Mountains, Balakabo River (fl. Feb.), P!.
 
-Hallé & Villiers 5418, Monts de Cristal, Riv. Balakabo (fl. Févr.), P!.
+Le Testu 5128, between Yambi and Guidouma (fr. Nov.), P! ; 6384, Upper Ngounyé, Nimalaba, NE of Les Échiras (fl. Feb.), P!.
 
-Le Testu 5128, entre Yambi et Guidouma (fr. Nov.), P! ; 6384, Haute Ngounyé, Nimalaba, NE de Les Echiras (fl. Févr.), P!.
-
-Wieringa 678, Wolen-Ntem, 1 km SE de Tchimbélé, 10° 25' E, 0° 36' N (fl. Mars), WAG! ; 1073, Ogooué-Maritime, Rabi-Kounga, près de Rabi 55, 1° 56' S, 9° 52' E (fl. Mai), WAG!.
+Wieringa 678, Wolen-Ntem, 1 km SE of Tchimbélé, 10° 25' E, 0° 36' N (fl. Mar.), WAG! ; 1073, Ogooué-Maritime, Rabi-Kounga, near Rabi 55, 1° 56' S, 9° 52' E (fl. May), WAG!.
 
 ## Figures
 

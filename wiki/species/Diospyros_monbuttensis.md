@@ -26,7 +26,7 @@ tags: [species, not-in-gabon]
 
 23.Diospyros monbuttensis Gürke
 
-Bot.Jahrb.26:66 (1898),et 43:208 (1909).-F.WHITE,Bull. Jard.Bot. Brux.27:518-531,tab.54,55 et 57 (1957)； Systematics Association Publication 4:8o-83,tab.3 et 4(1962);FWTA ed.2,2:14 (1963); Nigerian Trees 2; 338,tab.157 (1964).
+Bot.Jahrb.26:66 (1898),et 43:208 (1909).-F.WHITE,Bull. Jard.Bot. Brux.27:518-531,tab.54,55 et 57 (1957); Systematics Association Publication 4:8o-83,tab.3 et 4(1962);FWTA ed.2,2:14 (1963); Nigerian Trees 2; 338,tab.157 (1964).
 
 -Diospyros senensis auct.non KLorzscH :HIERn,Monogr.Eben., Trans. Camb. Phil.Soc.12: 181 (1873); FTA 3: 520 (1877),p. p.
 
@@ -48,7 +48,7 @@ This species ranges from Ivory Coast to northeastern DRC but in fact is confined
 
 ### Material studied in Cameroon
 
-Bates1351,sin. loc.(fl.δ) BM. Breteler I5o4，Mendougué,5km S Yokadouma (fl.♀,juin) (+j.fr.，WAG); 1912,mont Fébé pres Yaoundé (fr.sept.);2138,I5 km N Doumé sur route Nguélémendouka (fr.,nov.); 2I94,pres Gounté, 25 km de Bertoua sur route de Bétaré Oya (fr.,déc.). De Wilde W. 2568 a et b,lac de Baleng pres Bafoussam (fl. ♀,j.fr.,mai) WAG. Hédin 7o9,Bompelo pres Yokadouma (fl.δ,avr.). Jacques-Félix 3o27，Bafoussam (fr.， janv.)；436g，entre Ngaoundéré et Meiganga (j. fr., juill.). Johnstone 87/31,Wum (fl.♀,mars) FHO;267/32,Bamenda,FHO. Letouzey 3667,SW Lomié (fl. ♀,mars)；3958,Pepo pres Abong Mbang (fl., avr.)；5227,2o km WNW Mopwo,village situé km 22 route Yokadouma-Batouri (j.fr., juin); 6II4,Meigida pres Kombo Laka,5o km ESE Meiganga (fr.,oct.)；75g5,2o km SW Dir pres Bagodo (fr., juill.);7673,riviere Badjer pres ancien Mbang Mbéré,5o km NW Meiganga (fr.,aout). Maitland 1634,Bambui pres Bamenda (fl.)K. Mildbraed 4329,Bange busch, 6o km S Yokadouma (fr. path., janv.)； 4399, eod.loc.(fl.,févr.)；4633,entre Bange et Yokadouma (fl.,mars)；5000, entre Yokadouma et Assobam (actuel Mpan) (fl.δ,avr.);omn.HBG；8903, Deng Deng (fl.δ,avr.) BM,K. Nana I9 (= SRFCam 2I21),pres Dimako (fl., avr.).
+Bates1351,sin. loc.(fl.δ) BM. Breteler I5o4,Mendougué,5km S Yokadouma (fl.♀,juin) (+j.fr.,WAG); 1912,mont Fébé pres Yaoundé (fr.sept.);2138,I5 km N Doumé sur route Nguélémendouka (fr.,nov.); 2I94,pres Gounté, 25 km de Bertoua sur route de Bétaré Oya (fr.,déc.). De Wilde W. 2568 a et b,lac de Baleng pres Bafoussam (fl. ♀,j.fr.,mai) WAG. Hédin 7o9,Bompelo pres Yokadouma (fl.δ,avr.). Jacques-Félix 3o27,Bafoussam (fr., janv.);436g,entre Ngaoundéré et Meiganga (j. fr., juill.). Johnstone 87/31,Wum (fl.♀,mars) FHO;267/32,Bamenda,FHO. Letouzey 3667,SW Lomié (fl. ♀,mars);3958,Pepo pres Abong Mbang (fl., avr.);5227,2o km WNW Mopwo,village situé km 22 route Yokadouma-Batouri (j.fr., juin); 6II4,Meigida pres Kombo Laka,5o km ESE Meiganga (fr.,oct.);75g5,2o km SW Dir pres Bagodo (fr., juill.);7673,riviere Badjer pres ancien Mbang Mbéré,5o km NW Meiganga (fr.,aout). Maitland 1634,Bambui pres Bamenda (fl.)K. Mildbraed 4329,Bange busch, 6o km S Yokadouma (fr. path., janv.); 4399, eod.loc.(fl.,févr.);4633,entre Bange et Yokadouma (fl.,mars);5000, entre Yokadouma et Assobam (actuel Mpan) (fl.δ,avr.);omn.HBG;8903, Deng Deng (fl.δ,avr.) BM,K. Nana I9 (= SRFCam 2I21),pres Dimako (fl., avr.).
 
 ## Figures
 

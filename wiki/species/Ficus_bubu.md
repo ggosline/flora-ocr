@@ -17,23 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 HUTCH. in HUTCH. & RENDLE, FTA 6 (2): 166 (1916); LEBRUN & BOUTIQUE in HAUMAN, FCB 1: 160 (1948).
 
-- F. pachypleura WARB., l.c.: 4 (1904); MILDBR. & BURRET, l.c.: 244 (1911). LECTO-TYPE : Cabra 93, Zaïre (holo-, BR).
+- F. pachypleura WARB., l.c.: 4 (1904); MILDBR. & BURRET, l.c.: 244 (1911). LECTOTYPE: Cabra 93, Zaire (holo-, BR).
 
-- F. kyimbilensis MILDBR., Mitteil. Bot. Gart. Berlin (= Willdenowia) 1: 127 (1953). TYPE: Stolz 1827, Tanzanie (holo-, B).
+- F. kyimbilensis MILDBR., Mitteil. Bot. Gart. Berlin (= Willdenowia) 1: 127 (1953). TYPE: Stolz 1827, Tanzania (holo-, B).
 
-Arbre épiphyte ou terrestre (trouvé) jusqu'à 10 m de haut. Rameaux feuillés épais de 6-12 mm, glabres, ou très petitement pubérulents, gris ou marron pâle sur le sec, rhytidome se desquamant souvent. Feuilles disposées en spirales. Limbe elliptique (à oblong ou à suborbiculaire) le plus large au milieu, parfois sous le milieu, long de 12-30 cm, large de 6-23 cm, coriace, sommet (très) courtement (à faiblement) acuminé ou presque arrondi, base obtuse spécialement dans les grandes feuilles, à cordée, bord entier ; les deux faces glabres nervures (presque) planes dessus, nervure médiane et nervures latérales saillantes dessous ; 6-8 (-9) paires de nervures latérales, inclus 2 (-3) paires basales, nervures latérales souvent fourchues loin de la marge ; tache glanduleuse plutôt visible. Pétiole long de 3,5-11 (-16) cm, épais de 2-5 mm. Stipules libres, longues de 3-5 mm, glabres ou pubérulentes vers la base, caduques.
+Tree epiphytic or terrestrial (found) up to 10 m tall. Leafy branches 6-12 mm thick, glabrous, or very minutely puberulent, grey or pale brown when dry, rhytidome often exfoliating. Leaves arranged in spirals. Blade elliptic (to oblong or suborbicular) widest at the middle, sometimes below the middle, 12-30 cm long, 6-23 cm wide, coriaceous, apex (very) shortly (to weakly) acuminate or almost rounded, base obtuse especially in large leaves, to cordate, margin entire; both faces glabrous, nerves (almost) flat above, midvein and lateral nerves prominent below; 6-8 (-9) pairs of lateral nerves, including 2 (-3) pairs basal, lateral nerves often forked away from the margin; glandular spot rather conspicuous. Petiole 3.5-11 (-16) cm long, 2-5 mm thick. Stipules free, 3-5 mm long, glabrous or puberulent toward the base, caducous.
 
-Figues en faisceaux sur de courts éperons sur les branches principales ; pédoncule long de 7-10 mm, épais de 2-2,5 mm, glabre ; bractées basales 2 (-3), longues de 4-5 mm environ, glabres ou très courtemment pubérulentes ; réceptacle globuleux, d'un diamètre de 3 cm environ sur le frais, de 2,5 cm environ sur le sec, glabre, ridé sur le sec, brunâtre à maturité, ostiole saillant bilabé.
+Figs in clusters on short spurs on the main branches; peduncle 7-10 mm long, 2-2.5 mm thick, glabrous; basal bracts 2 (-3), approximately 4-5 mm long, glabrous or very briefly puberulent; receptacle globose, approximately 3 cm in diameter when fresh, approximately 2.5 cm when dry, glabrous, wrinkled when dry, brownish at maturity, ostiole prominent bilabiate.
 
-Fleurs pistillées avec 3 tépales longs de 1,5-2,5 mm, libres ou basalement soudés ; fleurs à graines sessiles, style long de 1,5-2 mm, épais
+Pistillate flowers with 3 tepals 1.5-2.5 mm long, free or basally fused; seed flowers sessile, style 1.5-2 mm long, thick with an enlarged base; gall flowers pedicellate, pedicel 1-1.5 mm long, style approximately 1.5 mm long, thick with an enlarged base. Fruits ellipsoid approximately 2 mm long; gall fruits ellipsoid approximately 2.5 mm long. Staminate flowers sessile or pedicellate up to approximately 1 mm, perianth with 3 tepals approximately 2 mm long, free or basally fused, filament approximately 1.5 mm long, enlarged toward the anther approximately 0.7-0.8 mm long. Interfloral bracts approximately 1.5 mm long. - Pl. 64, p. 217.
 
-avec une base élargie ; fleurs à galles à pédicelle long de 1-1,5 mm, style long de 1,5 mm environ, épais avec une base élargie. Fruits ellipsoides longs de 2 mm environ ; fruits à galles ellipsoides longs de 2,5 mm environ. Fleurs staminées sessiles ou pédicellées jusqu'à 1 mm environ, périanthe avec 3 tépales longs de 2 mm environ, libres ou basalement soudés, filet long de 1,5 mm environ, élargi vers l'anthère longue de 0,7-0,8 mm environ. Bractées interflorales longues de 1,5 mm environ. - Pl. 64, p. 217.
-
-Pollinisateur : Agaon michałoudi Wiebes (Gabon).
+Pollinator: Agaon michałoudi Wiebes (Gabon).
 
 ## Type
 
@@ -41,9 +37,7 @@ Gillet 1167, Zaïre, Kisantu (holo-, BR)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce est connue du Cameroun, du Gabon, du Zaïre, d'Ouganda, d'Angola et du Malawi, s'étendant probablement jusqu'au Ghana vers l'Ouest ; principalement dans les forêts toujours vertes.
+This species is known from Cameroon, Gabon, Zaire, Uganda, Angola and Malawi, extending probably to Ghana toward the west; mainly in evergreen forests.
 
 ## Specimens examined
 

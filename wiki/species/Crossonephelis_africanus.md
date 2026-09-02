@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Melanodiscus africanus RADLK., in DURAND, Ind. Gen. : 75 (1887); in ENGL., Pflanzenreich, Sapindaceae : 817 (1932); KEAY., FWTA, ed. 2, 1 : 720 (1958).
 
-Arbre de 6 m; rameaux, rachis et inflorescences pubescents soyeux; limbe densément pubescent dessous et dessus sur la nervure médiane.
+Tree 6 m tall; branchlets, rachis and inflorescences silky pubescent; lamina densely pubescent beneath and above on the midvein.
 
-Inflorescences terminales également les feuilles; calice de 2,5 mm; étamines de 7 mm.
+Inflorescences terminal as well as the leaves; calyx 2.5 mm; stamens 7 mm.
 
 ## Type
 
@@ -31,9 +29,7 @@ Moloney s.n., Nigeria (holo-, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Récoltée au Cameroun : Lobe Babute 52/36, Bombé.
+Collected in Cameroon: Lobe Babute 52/36, Bombé.
 
 ## Notes
 

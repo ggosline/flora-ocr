@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Planche 56(G) Dansk Bot. Ark. 32 : 53 (1978). C. camporum Engl., Bot. Jarhb. Syst. 18 : 73 (1893). Herbe annuelle ou pérenne, à rhizome tubéreux ; tige dressée à ascendante, 5–35 cm de longueur. Feuilles opposées ou subopposées, subsessiles ; limbe entier, lancéolé à oblong ou elliptique , 80(–120) mm de longueur, cunéé à la base, hirsute. Inflorescence foliacée. Fleur : bractéoles filiformes ou subulées, (1–)2–15 mm de longueur ; pédicelle 2–30(–50) mm ; calice hirsute, tube 5–25(–30) mm de longueur, lobes lancéolés à triangulaires, 3–15 mm de longueur ; corolle blanche, tube étroit, 30–55(–60) mm de longueur, limbe 25–50 mm de diamètre ; étamines : filets de la paire courte 3–8 mm, ceux de la paire longue, 6–13 mm, anthères 4–7 mm de longueur ; ovaire comprimé, 2–4 mm de longueur ; style étroit, 6–13(–24) mm. Fruit : baie ovoïde, 12–24 × 10–12 mm .
+Plate 56(G) Dansk Bot. Ark. 32 : 53 (1978). C. camporum Engl., Bot. Jahrb. Syst. 18 : 73 (1893). Annual or perennial herb, with tuberous rhizome; stem erect to ascending, 5–35 cm long. Leaves opposite or subopposite, subsessile; blade entire, lanceolate to oblong or elliptic, 80(–120) mm long, cuneate at base, hirsute. Inflorescence leafy. Flower: bracteoles filiform or subulate, (1–)2–15 mm long; pedicel 2–30(–50) mm; calyx hirsute, tube 5–25(–30) mm long, lobes lanceolate to triangular, 3–15 mm long; corolla white, tube narrow, 30–55(–60) mm long, limb 25–50 mm in diameter; stamens: filaments of short pair 3–8 mm, those of long pair 6–13 mm, anthers 4–7 mm long; ovary compressed, 2–4 mm long; style narrow, 6–13(–24) mm. Fruit: ovoid berry, 12–24 × 10–12 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Guinea-Conakry, Sierra Leone, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, Cameroon, Chad, Sudan, Central African Republic, Gabon, Republic of the Congo, Democratic Republic of the Congo, Burundi, Uganda, Kenya, Tanzania, Malawi, Zambia, Zimbabwe and Angola; in Gabon, observed in Haut-Ogooué, Ngounié, Nyanga and Ogooué-Ivindo.
 
-Guinée-Conakry, Sierra Leone, Côte d'Ivoire, Ghana, Togo, Bénin, Nigéria, Cameroun, Tchad, Soudan, République centrafricaine, Gabon, République du Congo, République démocratique du Congo, Burundi, Ouganda, Kenya, Tanzanie, Malawi, Zambie, Zimbabwe et Angola ; au Gabon, observée dans le Haut-Ogooué, la Ngounié, la Nyanga et l’Ogooué-Ivindo
-
-Étamine abaxiale. – D. Étamine adaxiale. (A–D : Fischer 710/87 ). Dessin par E. Fischer (©).
+Abaxial stamen. – D. Adaxial stamen. (A–D: Fischer 710/87). Drawing by E. Fischer (©).
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-savanes ; au Gabon, à 100–600 m, en Afrique de l’Est, jusqu’à 2500 m. Note taxonomique : C. adonense est divisée par Hansen (1978) en deux sous-espèces ; la subsp.-type diffère de la subsp. camporu m, par le port prostré et le calice plus long (45–70 mm dans la première et 8–40(–45) mm dans la seconde). Au Gabon, seulement la subsp. camporum a été récoltée ; Ghazanfar et al. (2008) citant par erreur C. adonense subsp. adonense pour le Gabon. B : Fischer (2006b), Ghazanfar et al. (2008), Hansen (1978), Mielcarek ibliographie (1996), Philcox (1990)
+savannas; in Gabon, 100–600 m, in East Africa, up to 2500 m. Taxonomic note: C. adonense is divided by Hansen (1978) into two subspecies; the typical subspecies differs from subsp. camporum by the prostrate habit and longer calyx (45–70 mm in the first and 8–40(–45) mm in the second). In Gabon, only subsp. camporum has been collected; Ghazanfar et al. (2008) citing by mistake C. adonense subsp. adonense for Gabon. B: Fischer (2006b), Ghazanfar et al. (2008), Hansen (1978), Mielcarek bibliography (1996), Philcox (1990).
 
 ## Notes
 

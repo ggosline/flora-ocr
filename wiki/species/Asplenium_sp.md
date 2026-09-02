@@ -16,17 +16,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Doubtful species: N. Hallé collected from Abanga (no. 2234) a small Asplenium with entire fronds that we do not dare to describe as new. According to him, it could be a simple form of a pinnate species; but this form has not yet been recorded, and we have no transitional form that could provide us with a key.
 
-Espèce douteuse : N. Hallé a rapporté de l'Abanga (nº 2234) un petit Asplenium à fronde entière que nous n'osons pas décrire comme nouveau. Il pourrait s'agir, d'après lui, d'une forme simple d'une espèce pennée; mais cette forme n'aurait pas encore été signalée, et nous n'avons aucune forme passage qui puisse nous donner une clé.
+We therefore content ourselves below with briefly describing this unique specimen, without naming it.
 
-Nous nous contentons donc ci-dessous de décrire brièvement cet échantillon unique, sans le nommer.
+Rhizome short, with fronds in tufts, bearing black scales. Petiole black, shiny, 0.5–1 cm long. Lamina entire, 5–6 cm long by 1–1.5 cm wide, lanceolate, decurrent at the base, with rounded or scarcely acute apex, with entire, enrolled margins, with base shortly decurrent. Texture coriaceous, thick. Veins bifurcate from the base, making an angle of approximately 45° with the rachis. Costa elevated on the upper surface. Sori linear, thick, short, making an angle of approximately 60° with the costa, not reaching the margin.
 
-Rhizome court, à frondes en touffes, portant des écailles noires. Pétiole noir, brillant long de 0,5-1 cm. Limbe entier de 5-6 cm de long sur 1-1,5 de large, lancéolé, décurrent à la base, à extrémité arrondie ou à peine aiguë, à marges entières, enroulées,
-
-à base courtement décurrente. Texture coriace, épaisse. Nervures bifurquées dès la base, faisant un angle d'environ  $ 45^{\circ} $ avec le rachis. Costa surélévé à la face supérieure. Sores linéaires, épais, courts, faisant un angle d'environ  $ 60^{\circ} $ avec le costa, n'atteignant pas la marge.
-
-Se distingue des espèces à fronde entière surtout par sa petite taille, sa texture coriace, son limbe arrondi. Peut-être est-il nouveau.
+Distinguished from entire-fronded species especially by its small size, coriaceous texture, and rounded lamina. Perhaps it is new.
 
 ## Notes
 

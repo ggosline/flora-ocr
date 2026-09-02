@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Plante grêle à moyennement robuste, atteignant 20 cm de hauteur, verte après séchage ; rhizome allongé ; racines 0,1–0,2 cm de diamètre avec des tubercules charnus et distaux, jusqu’à 1,5 × 0,5–0,8 cm. Feuilles distiques , basales, engaînantes, pétiolées ; pétiole 4–10 cm, distinctement cannelé ; limbe lancéolé, 6–12 × 1–3,5 cm, la plus grande largeur dans le tiers inférieur, limbe formant un angle distinct avec le pétiole, puis ± horizontal , base atténuée à presque tronquée, sommet aigu à obtus, vert foncé dessus, vert pâle des sous, avec des stries quelquefois verdâtres ou blanchâtres ; nervure principale distincte. Inflorescence (pédoncule inclus) 10–25 cm de longueur, lâche, non ramifiée ou avec 1–2 branches latérales, rachis quelquefois scabre ; bractées glabres à faiblement scabre, 5–11 × 1–3 mm. Fleurs 1–2 par nœud ; pédicelle articulé dans la moitié inférieure, 3–5(–8) mm ; tépales 3–4 × 1 mm, 3-nervés, blancs, parfois verdâtres à l’extérieur ; filets fusi formes, papilleux, environ 2 mm de longueur, anthères 2 mm de longueur ; style droit. Fruit 3-lobé, plus large que long, 5–8 × 8–10 mm, vert clair, stipité à atténué à la base. Graines environ 6, pliées à cupuliformes, 3–5 mm de diamètre .
+Slender to moderately robust plant, reaching 20 cm in height, green after drying; rhizome elongated; roots 0.1–0.2 cm in diameter with fleshy and distal tubers, up to 1.5 × 0.5–0.8 cm. Leaves distichous, basal, sheathing, petiolate; petiole 4–10 cm, distinctly grooved; blade lanceolate, 6–12 × 1–3.5 cm, greatest width in the lower third, blade forming a distinct angle with the petiole, then ± horizontal, base attenuate to almost truncate, apex acute to obtuse, dark green above, pale green beneath, with striae sometimes greenish or whitish; main vein distinct. Inflorescence (peduncle included) 10–25 cm in length, lax, unbranched or with 1–2 lateral branches, rachis sometimes scabrous; bracts glabrous to weakly scabrous, 5–11 × 1–3 mm. Flowers 1–2 per node; pedicel articulate in the lower half, 3–5(–8) mm; tepals 3–4 × 1 mm, 3-nerved, white, sometimes greenish on the exterior; filaments fusiform, papillose, approximately 2 mm in length, anthers 2 mm in length; style straight. Fruit 3-lobed, wider than long, 5–8 × 8–10 mm, pale green, stipitate to attenuate at the base. Seeds approximately 6, folded to cupuliform, 3–5 mm in diameter.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique de l’Ouest, de la Sierra-Leone au Nigéria, aussi au Cameroun, Gui née Équatoriale et en République Démocratique du Congo. Au Gabon, commune dans les provinces de l’Estuaire, de l’Ogooué-Ivindo et du Woleu-Ntem
+West Africa, from Sierra Leone to Nigeria, also in Cameroon, Equatorial Guinea and in the Democratic Republic of the Congo. In Gabon, common in the provinces of Estuaire, Ogooué-Ivindo and Woleu-Ntem
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-en forêt secondaire et primaire, souvent le long des rivières, sur sol sableux ; au Gabon à 30–760 m d’altitude, ailleurs jusqu’à 900 m. B : Hepper (1968), Poulsen & Nordal (2005). ibliographie
+in secondary and primary forest, often along rivers, on sandy soil; in Gabon at 30–760 m altitude, elsewhere up to 900 m. B: Hepper (1968), Poulsen & Nordal (2005). Bibliography
 
 ## Notes
 

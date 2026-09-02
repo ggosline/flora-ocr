@@ -17,27 +17,25 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Bombacopsis sessile (BENTH.) PITTIER, Contr. U.S. Nat. Herb. 18 : 162 (1916); A. ROBYNS, Bull. Jard. Bot. Etat. Bruxelles 33 : 180 (1963); Ann. Miss. Bot. Gard. 51 : 41 (1964), syn. nov.
 
 — Bombax sessile (BENTH.) BAKH., Bull. Jard. Bot. Buitenz. ser. 3, 6 : 180 (1924).
 
 — Pachira angusta Duchassaing ex Decne., Fl. Serres 23 : 52 (1880), nom. nud.
 
-Cette espèce se distingue des deux autres par :
+This species is distinguished from the other two by:
 
-— contreforts aliformes hauts de 0,5-1 m;
+— wing-like buttresses 0.5–1 m high;
 
-— sommet des folioles émarginé et mucronulé le plus souvent;
+— apex of leaflets emarginate and mucronate most often;
 
-— colonne staminale glabre ou éparsement pubescente sur 5 zones oites;
+— staminal column glabrous or sparsely pubescent on 5 narrow zones;
 
-— style tomentelleux hirsute à la base;
+— style tomentellous hirsute at the base;
 
-— capsule ellipsoide;
+— ellipsoid capsule;
 
-— graines ornées de stries peu saillantes.
+— seeds ornamented with slightly prominent striae.
 
 ## Type
 
@@ -45,9 +43,7 @@ Hinds s.n., île de Taboga, Panama (holo-, K; iso-, LE)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce d'Amérique centrale qui se rencontre dans les forêts tropophiles et équatoriales, ou en lisière. Elle est cultivée en Afrique. Aucun échantillon du Gabon n'a été observé.
+A species from Central America found in tropophilous and equatorial forests, or along forest margins. It is cultivated in Africa. No specimen from Gabon has been observed.
 
 ## Notes
 

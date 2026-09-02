@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste jusqu’à 15 m de hauteur ; tronc jusqu’à 25 cm de diamètre ; ramilles pubescentes à glabrescentes . Stipule s étroitement triangulaires, 5–12 mm de longueur, à poils apprimés. Feuille : pétiole 4–7 mm, pubescent ; limbe obovale-elliptique, (4–)7–14 × (1,5–)3–5 cm, cunéé à arrondi à la base, sommet acuminé sur (0,5–)1–2(–2,5) cm, coriace, à poils apprimés et tôt glabrescent dessus, glabre ou à poils clairsemés et apprimés dessous ; nervures latérales 4–7 paires . Inflorescence compacte, 1–1,5 cm de longueur, à ≤ 10 fleurs, tomenteuse ; bractées plus larges que longues ; bractéoles ± elliptiques, 3–4 mm de longueur. Fleur mâle 5-mère ; pédicelle 3–5 mm ; sépales étroitement triangulaire, environ 6 × 2 mm, tomenteux à l’extérieur ; pétales 1–1,5 mm de longueur ; étamines 5–10, anthères 1,5–2 mm de longueur ; androgynophore 0–1,5 mm ; disque velouté. Fleur femelle 5-mère ; pédicelle (0–)1–3 mm ; sépales 6–9 × 2–3,5 mm ; pétales oblancéolés, 1,5–2,5 mm de longueur ; disque aplati contre l’ovaire, glabre à l’extérieur, velu à l’intérieur ; pistil 4,5–5 mm de longueur, ovaire velouté ; styles très découpés. Fruit ± globuleux, ± trilobé, 10–12 × 12–13 mm, hispide à tomenteux. Graines ovoïdes, 7–8 × 5–6 mm, glabres, lisses, ± noires à maturité.
+Tree or shrub up to 15 m tall; trunk up to 25 cm diameter; branchlets pubescent to glabrescent. Stipules narrowly triangular, 5–12 mm long, with appressed hairs. Leaf: petiole 4–7 mm, pubescent; blade obovate-elliptic, (4–)7–14 × (1.5–)3–5 cm, cuneate to rounded at base, apex acuminate over (0.5–)1–2(–2.5) cm, coriaceous, with appressed hairs and early glabrescent above, glabrous or with scattered appressed hairs below; lateral veins 4–7 pairs. Inflorescence compact, 1–1.5 cm long, with ≤ 10 flowers, tomentose; bracts wider than long; bracteoles ± elliptic, 3–4 mm long. Male flower 5-merous; pedicel 3–5 mm; sepals narrowly triangular, c. 6 × 2 mm, tomentose on outside; petals 1–1.5 mm long; stamens 5–10, anthers 1.5–2 mm long; androgynophore 0–1.5 mm; disk velvety. Female flower 5-merous; pedicel (0–)1–3 mm; sepals 6–9 × 2–3.5 mm; petals oblanceolate, 1.5–2.5 mm long; disk flattened against ovary, glabrous on outside, villous on inside; pistil 4.5–5 mm long, ovary velvety; styles deeply lobed. Fruit ± globose, ± trilobed, 10–12 × 12–13 mm, hispid to tomentose. Seeds ovoid, 7–8 × 5–6 mm, glabrous, smooth, ± black at maturity.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique au Gabon, connue de l’Estuaire, de l’Ogooué-Maritime, de la Ngounié, du Woleu-Ntem et de l’Ogooué-Lolo
+endemic to Gabon, known from Estuaire, Ogooué-Maritime, Ngounié, Woleu-Ntem and Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+primary and secondarized forest; at 0–600 m altitude. Taxonomic note: According to specimen Le Testu 2191, the species also occurs as a liana. b: Breteler (2011b). Bibliography
 
-forêt primaire et secondarisée ; à 0–600 m d’altitude. Note taxonomique : D’après le spécimen Le Testu 2191 , l’espèce se présente aussi comme liane. b : Breteler (2011b). ibliographie
-
-Wieringa et al . 4142 ; C, E ‒ G : Louis et al . 1188 ; D : Breteler & Jongkind 10139 ; H : Wieringa et al . 5608 ). Dessin par H. de Vries, NCB Naturalis (section NHN) ©.
+Wieringa et al. 4142; C, E ‒ G: Louis et al. 1188; D: Breteler & Jongkind 10139; H: Wieringa et al. 5608). Drawing by H. de Vries, NCB Naturalis (section NHN) ©.
 
 ## Notes
 

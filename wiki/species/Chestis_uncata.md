@@ -16,21 +16,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+in BRETELER (ed.), AUWP 89 (6) : 228, fig. 106-109 (1989). TYPE : Gabon, km 25 Libreville-Kango, Breteler & Lemmens 8340 (holo-WAG ; iso-LBV).
 
-in BRETELER (éd.), AUWP 89 (6) : 228, fig. 106-109 (1989). TYPE : Gabon, km 25 Libre-ville-Kango, Breteler & Lemmens 8340 (holo-WAG ; iso-LBV).
+Liane or lianescent shrub. Young and old branches cylindrical, with dense brown pubescence at first, then glabrescent.
 
-Liane ou arbuste lianescent. Rameaux jeunes et âgés cylindriques, avec une dense pubescence brune au début, puis glabrescents.
+Leaves 6-10-jugate ; petiole 0.5-4 cm long, rachis 7.5-23 cm, with brown pubescence, then ± glabrescent. Leaflets strongly papyraceous, the lateral ones alternate or sometimes opposite, ovate to narrowly oblong, (0.5-1), 5-7 × (0.5-1)-2.5 cm, with cordate and unequal or subequal base, the terminal leaflet ovate, obovate or elliptic, 4.5-7.5 × 2-3.5 cm, subcordate, rounded or slightly cuneate at the base ; all leaflets obtuse or indistinctly acuminate, glabrous above (except on the midrib), below with crisp hairs ; midvein impressed above, prominent below ; lateral nerves 5-10 pairs ; tertiary nerves reticulate, prominent, distinct on both faces ; petiolules 0-1 mm long, pubescent.
 
-Feuilles 6-10-juguées ; pétiole long de 0,5-4 cm, rachis de 7,5-23 cm, avec pubescence brune, puis ± glabrescents. Folioles fortement papyracées, les latérales alternes ou parfois opposées, ovées à étroitement oblongues, (0,5-1), 5-7 × (0,5-1)-2,5 cm, à base cordée et inégale ou subégale, la foliole terminale ovée, obovée ou elliptique, 4,5-7,5 × 2-3,5 cm, subcordée, arrondie ou un peu cunée à la base ; toutes les folioles sont obtuses ou indistinctement acuminées, dessus glabre (sauf sur la médiane), dessous muni de poils frisotés ; nervure médiane imprimée dessus, proéminente dessous ; nervures latérales 5-10 paires ; nervures III réticulées, proéminentes, distinctes sur les 2 faces ; pétio-lules longs de 0-1 mm, pubescents.
+Inflorescences : fascicles (rarely short racemes), 3-10-flowered on knotty swellings of old branches. Bracts ovate to subulate, 1-2 mm long, partially connate on these swellings. Pedicels not articulate 3-7 mm, dense pubescence.
 
-Inflorescences : fascicules (rarement courts racèmes), 3-10-flores sur des renflements noueux des rameaux âgés. Bractées ovées à subulées, longues de 1-2 mm, partiellement connées sur ces renflements. Pédicelles non articulés 3-7 mm, pubescence dense.
+Flowers heterodistylous. Sepals, valvate in bud, then reflexed, subulate, narrowly oblong to sublinear, 3-4.5 × 0.5-0.8 mm, obtuse or acute, pubescent on the outer side, glabrous inside, distinctly 1-3-nerved. Petals valvate to narrowly imbricate in bud, narrowly oblong to sublinear, 5-7 × 0.7-1 mm, base rounded or cuneate, apex obtuse or subacute, glabrous, generally distinctly 3-nerved. Stamens united at the base, of subequal or different length in the two cycles (longistaminate flower), 1-1.6 or 3.1-4.3 mm long, anthers ≈ 0.2 × ≈ 0.2 mm. Pistil : carpels 1.1 or 2.8-4.4 mm long ; ovaries ≈ 0.5 mm long, brown-yellowish pubescence ; styles ± straight, pubescent at their base ; stigmas ± prominent and oblique, 2-lobed.
 
-Fleurs hétérodistylées. Sépales, préfloraison valvaire, puis réfléchis, subulés, étroitement oblongs à sublinéaires, 3-4,5 × 0,5-0,8 mm, obtus ou aigus, pubescents du côté externe, glabres à l'intérieur, nettement 1-3-nervés. Pétales en préfloraison valvaire à étroitement imbriquée, étroitement oblongs à sublinéaires, 5-7 × 0,7-1 mm, base arrondie ou cunée, sommet obtus ou subaigu, glabres, en général nettement 3-nervés. Étamines réunies à la base, de longueur subégale ou différente dans les deux cycles (fleur longistaminée), longues de 1-1,6 ou de 3,1-4,3 mm, anthères ≈ 0,2 × ≈ 0,2 mm. Pistil : carpelles longs de 1,1 ou de 2,8-4,4 mm ; ovaires longs de ≈ 0,5 mm, pubescence brun-jaunâtre ; styles ± droits, pubescents à leur base ; stigmates ± proéminents et obliques, 2-lobés.
+Fruits : follicles 1 (-2) per flower, uncinate 2-3 × 1 cm, cuneate, with a basal stipe 5-10 mm long ; beak broad, strongly reflexed toward the ventral face of the follicle, 10-13 mm long ; pericarp with very short spiniform hairs, red and others long, urticating and easily caducous on the outer face, the inner face bearing long yellowish hairs.
 
-Fruits : follicules 1 (-2) par fleur, oncinés 2-3 × 1 cm, cunés, avec un stipe basal long de 5-10 mm ; bec large, fortement réfléchi en direction de la face ventrale du follicule, long de 10-13 mm ; péricarpe avec de très courts poils spiniformes, rouges et d'autres longs, urticans et facilement caducs sur la face externe, la face interne portant de longs poils jaunâtres.
-
-Graines ovoïdes,  $ 13 \times 7 $ mm, sarcotesta long de 6 mm. – Pl. 18, p. 63.
+Seeds ovoid, 13 × 7 mm, sarcotesta 6 mm long. – Pl. 18, p. 63.
 
 ## Type
 
@@ -38,23 +36,15 @@ Breteler & Lemmens 8340, km 25 Libreville-Kango, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nord-Ouest du Gabon (endémique)
+North-West Gabon (endemic)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles et recrus secondaires
+Ombrophilous forests and secondary regrowth
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-C. uncata a des fleurs fasciculées, exactement comme C. urens. Il en diffère par ses fruits typiquement oncinés (bec fortement
-
-réfléchi) et des folioles moins nombreuses et plus grandes, glabres à la face supérieure. Ce sont donc les différences portées par les feuilles qui permettent l’identification du matériel tant fertile que stérile.
+C. uncata has fasciculate flowers, exactly like C. urens. It differs in its typically uncinate fruits (beak strongly reflexed) and fewer and larger leaflets, glabrous on the upper face. It is therefore the differences carried by the leaves that allow identification of material whether fertile or sterile.
 
 ## Specimens examined
 

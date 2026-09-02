@@ -17,35 +17,31 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 BRETELER, MLW 73 (13) 18, 20, 64, 110, XVII (1973) ; l.c. 78 (10) : 80 (1978) ; l.c. 79 (16) : 59-63 (1979) ; AUWP 86 (3) : 11, 32, 38, 39 (1986). TYPE : Gabon, environs de Libreville, Klaine 2377 (lecto-, P ; iso WAG).
 
 - D. brazzae PELLEGRIN, l. c. : 276 (1912) ; l. c. : 647 (1913) ; HAUMAN, FZRB 7 : 304, p.p. exclud. Gérard 435 (1958). TYPE : Congo, Brazzaville, J. de Brazza 31 (lecto-, P ; isolecto-, BR, K, WAG).
 
-Autres synonymes (décrits du Zaïre) :
+Other synonyms (described from Zaire):
 
-- D. brazzae var. purpurascens HaUMAN (Bequaert 6849)
+- D. brazzae var. purpurascens HAUMAN (Bequaert 6849)
 
 – D. butayei DE WILDEMAN (Butaye in Gillet 1504)
 
-– D. divaricatum DE WilDEMAN (Claessens 386).
+– D. divaricatum DE WILDEMAN (Claessens 386).
 
-Liane dont la base atteint au moins 5 cm de diamètre, arbusté lianescent ou arbusté. Tronc et rameaux souvent un peu anguleux.
+Liane with a base attaining at least 5 cm in diameter, climbing shrub or shrubby. Trunk and branches often somewhat angular.
 
-Rameaux : parmi les rameaux orthotropes, les plus épais montrent des rangées assez peu nettes de lenticelles et les autres, des lenticelles éparses ou aucune. Jeunes rameaux avec de courts poils apprimés rouges, ensuite glabrescents. Écorce fraîche et phloème intrusif, en particulier celle du tronc et rameaux âgés exsudant un liquide visqueux en général rougeâtre, acide et collant, qui devient brun foncé à noir en séchant.
+Branches: among the orthotropic branches, the thickest show fairly indistinct rows of lenticels and the others, scattered lenticels or none. Young branches with short appressed red hairs, subsequently glabrescent. Fresh bark and intrusive phloem, particularly that of the trunk and old branches exuding a viscous liquid generally reddish, acidic and sticky, which becomes dark brown to black when drying.
 
-Stipules étroites et triangulaires à subulées, longues de 2-4 mm, tôt caduques ou non, pubescentes comme les jeunes rameaux.
+Stipules narrow and triangular to subulate, 2-4 mm long, early deciduous or not, pubescent like the young branches.
 
-Feuilles. Pétiole relativement court, 2-5 (7) mm, aplaté ou un peu sillonné à la face supérieure, pubescence courte et dense souvent un peu plus pâle que celle des rameaux. Limbe oblong à elliptique, parfois obové, (8) 13-17 (20) × 3,5-6 (8) cm; base tronquée à subcordée ou cordée, parfois arrondie ou cunée ; acumen brusque ou modéré ≤ 1,5 cm (forme souvent irrégulière apparemment due à la présence des glandes) ; limbe incomplètement développé, souvent entièrement couvert de poils rouge foncé, ensuite glabrescent ; les feuilles complètement développées, pubescentes seulement à leurs extrémités glanduleuses et à la face supérieure proéminente de la nervure I et, dans une moindre mesure, à la face inférieure proéminente de celle-ci et des (5) 6-7 paires de nervures II ; glandes très grandes, présentes uniquement à la face inférieure, plus nombreuses en direction de la base et du sommet surtout sur l'acumen, où vues du dessus du limbe, elles apparaissent comme des points sombres.
+Leaves. Petiole relatively short, 2-5 (7) mm, flattened or somewhat furrowed on the upper surface, short and dense pubescence often somewhat paler than that of the branches. Blade oblong to elliptic, sometimes obovate, (8) 13-17 (20) × 3.5-6 (8) cm; base truncate to subcordate or cordate, sometimes rounded or cuneate; acumen abrupt or moderate ≤ 1.5 cm (form often irregular apparently due to the presence of glands); blade incompletely developed, often entirely covered with dark red hairs, subsequently glabrescent; fully developed leaves, pubescent only at their glandular extremities and on the upper surface of the prominent primary nerve and, to a lesser extent, on the lower surface prominent with this nerve and the (5) 6-7 pairs of secondary nerves; glands very large, present only on the lower surface, more numerous toward the base and apex especially on the acumen, where seen from above the blade, they appear as dark spots.
 
-Inflorescences. Pédoncule distinct ; 3-4 (5) ordres de ramifications lâches et bien visibles ; souvent plusieurs inflorescences sont groupées sur une pousse axillaire aphylle ou sur la partie terminale sans feuille d'un rameau ; pubescence apprimée brun-rouge. Pédoncule grêle, (2) 7-15 mm. Bractées et bractéoles très petites, triangulaires, apprimées, longues de 1 mm. Pédicelle (1) 2-4,5 mm, pubescent comme l'inflorescence, partie supérieure ≤ 0,5 mm.
+Inflorescences. Peduncle distinct; 3-4 (5) orders of loose and clearly visible ramifications; often several inflorescences are grouped on an aphyllous axillary shoot or on the terminal leafless part of a branch; appressed brown-red pubescence. Peduncle slender, (2) 7-15 mm. Bracts and bracteoles very small, triangular, appressed, 1 mm long. Pedicel (1) 2-4.5 mm, pubescent like the inflorescence, upper part ≤ 0.5 mm.
 
-Fleurs. Sépales étalés ou réfléchis, oblongs-elliptiques, 2,5,3 × 1 mm ; pubescence rouge apprimée courte à tomentelleuse sur la face externe, pubérulente à tomentelleuse surtout à la partie supérieure de la face interne. Pétales subérigés, étalés ou réfléchis; base courtement soudée aux filets, étroits et obovés, longs de 3-4 mm, fendus sur 0,5-1,5 mm ; intérieur glabre ; extérieur glabre ou avec des poils frissées rares ou nombreux, surtout au-dessous de la fente. Étamines subégales, subérigées à étalées, longues de 3,5-4,5 mm, glabres; anthères ≤ 0,5 mm. Staminodes obovés, ≤ 0,5 × 0,5 mm, glabres. Pistil 3 (4)-mère, 3,5-4,5 mm ; ovaire 3 (4)-loculaire, pubescence laineuse dense ; style subglabre, 3 (4) lobes.
+Flowers. Sepals spreading or reflexed, oblong-elliptic, 2.5-3 × 1 mm; short appressed to tomentellous red pubescence on the outer surface, puberulent to tomentellous especially on the upper part of the inner surface. Petals suberect, spreading or reflexed; base shortly fused to the filaments, narrow and obovate, 3-4 mm long, split for 0.5-1.5 mm; interior glabrous; exterior glabrous or with rare or numerous crisp hairs, especially below the split. Stamens subequal, suberect to spreading, 3.5-4.5 mm long, glabrous; anthers ≤ 0.5 mm. Staminodes obovate, ≤ 0.5 × 0.5 mm, glabrous. Pistil 3 (4)-merous, 3.5-4.5 mm; ovary 3 (4)-locular, dense woolly pubescence; style subglabrous, 3 (4) lobes.
 
-Fruits 1-2 (3?) -spermes avec loges avortées figurées par un petit lobe ou une crête, courtement stipités, apicule nul ou court, profon-
-
-dément lobés, quand il y a plus d'une seule graine ; lobes et fruits 1-spermes obovoïdes-ellipsoïdales, comprimés latéralement, ≤ 14 × 12 × 8 mm, avec un indumentum de poils courts et raides, comme du papier de verre à grain fin au toucher ; endocarpe un peu osseux, finement strié et généralement glabre à l'intérieur. Graines subellipsoïdales, comprimées latéralement, longues de ≤ 10 mm ; testa assez ferme, brun. - Pl. 32, p. 117.
+Fruits 1-2 (3?)-seeded with aborted locules represented by a small lobe or crest, shortly stipitate, apicule absent or short, deeply lobed, when there is more than a single seed; lobes and 1-seeded fruits obovoid-ellipsoidal, compressed laterally, ≤ 14 × 12 × 8 mm, with an indumentum of short and stiff hairs, like fine-grained sandpaper to the touch; endocarp somewhat bony, finely striated and generally glabrous inside. Seeds subellipsoidal, compressed laterally, ≤ 10 mm long; testa fairly firm, brown. - Pl. 32, p. 117.
 
 ## Type
 
@@ -53,15 +49,11 @@ Klaine 2377, environs de Libreville, Gabon
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Gabon, Congo, Zaïre, Centrafrique
+Cameroon, Gabon, Congo, Zaire, Central African Republic
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues, galeries forestières
+evergreen and semi-deciduous rainforests, forest galleries
 
 ## Specimens examined
 

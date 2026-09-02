@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbuste ligneux, jusqu’à 5 m de hauteur , parties jeunes sarmenteuses et tomenteuses ; ramilles florifères terminales . Stipules linéaires à elliptiques, 12 ‒ 15 × 5 mm, caduques. Feuille : pétiole 3 ‒ 12( ‒ 15) cm, tomenteux ; limbe cordiforme , 10 ‒ 15 × 8 ‒ 13 cm, blanchâtre dessous, sommet acuminé, ; nervures 7 ‒ 9, proéminentes dessous, nervure médiane pourvue d’un nectaire allongé noirâtre de 8 mm. Fleur axillaire ou en racèmes pauciflores (sub)terminaux ; pédoncule 2 ‒ 6 cm ; pédicelle 2 ‒ 3 cm ; calicule cupuliforme, lobes très réduits, simples, triangulaires, 1 ‒ 2( ‒ 4) mm de longueur ; sépales en majeure partie libres, étroitement triangulaires, 1,5 ‒ 2 cm de longueur, jusqu’à 3 cm en fruit, finement pubérulents, sans glande ; pétales 6 ‒ 6,5 cm de longueur, pubérulents sur les deux faces, jaunes, à tache pourpre foncé à la base ; tube staminal 2,5 ‒ 3 cm de longueur, anthères clairsemées jusqu’à la base ; style à branches très courtes, émergeant du tube sur 7 ‒ 10 mm. Fruit ovoïde, 2,5 ‒ 3 cm de longueur, aigu, à pubescence dense apprimée. Graines réniformes, 3 × 6 mm, brun-rouge, couvertes de petits verrues brunâtres.
+Woody shrub, up to 5 m in height, young parts sarmentose and tomentose; flowering branchlets terminal. Stipules linear to elliptic, 12–15 × 5 mm, caducous. Leaf: petiole 3–12(–15) cm, tomentose; lamina cordate, 10–15 × 8–13 cm, whitish beneath, apex acuminate; veins 7–9, prominent beneath, midvein bearing an elongate blackish nectary 8 mm long. Flower axillary or in few-flowered (sub)terminal racemes; peduncle 2–6 cm; pedicel 2–3 cm; calyculus cupuliform, lobes very reduced, simple, triangular, 1–2(–4) mm long; sepals for the most part free, narrowly triangular, 1.5–2 cm long, up to 3 cm in fruit, finely puberulent, without gland; petals 6–6.5 cm long, puberulent on both faces, yellow, with dark purple spot at the base; staminal tube 2.5–3 cm long, anthers scattered to the base; style with very short branches, emerging from the tube 7–10 mm. Fruit ovoid, 2.5–3 cm long, acute, with dense appressed pubescence. Seeds reniform, 3 × 6 mm, reddish-brown, covered with small brownish warts.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce des zones côtières de toutes les régions tropicales ; commune au Gabon, connue de l’Estuaire, de l’Ogooué-Maritime et de la Nyanga
+species of coastal zones in all tropical regions; common in Gabon, known from Estuaire, Ogooué-Maritime and Nyanga
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-habitats littoraux, sables maritimes, mangroves ; à basse altitude. Usage : Les tiges servent à faire des nattes et sont utilisées pour l’extraction des fibres. Le bois est utilisé pour des flotteurs. Les feuilles ont des propriétés émollientes
+littoral habitats, maritime sands, mangroves; at low altitude. Uses: The stems are used to make mats and are used for fiber extraction. The wood is used for floats. The leaves have emollient properties
 
 ## Vernacular names
 

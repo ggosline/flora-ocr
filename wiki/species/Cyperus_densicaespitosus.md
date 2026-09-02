@@ -18,63 +18,51 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-IV. 20(101) : 599 (1936). Herbe vivace, grêle à assez robuste, avec un court rhizome ligneux portant des tiges feuillées ± nombreuses ; racines violacées ou brunes ; tiges de 15‒35 cm × 0,7‒2 mm, trigones à angles arrondis, lisses, glabres, à base à peine renflée, feuillées seulement vers la partie inférieure sur 10 cm. Feuille : gaines supérieures vertes, les inférieures souvent brunes ou violacées ; limbe plan, parfois glauque, le plus grand de 5‒15 cm × 2‒3 mm , nettement scabre sur la marge et la nervure centrale au moins près de l’extrémité. Inflores-
-
-cence en tête hémisphérique brun rougeâtre, large de 5‒10 mm , partiellement enveloppée dans les bases larges des bractées involucrales ; bractées involucrales souvent 4‒6, foliacées, étalées, la plus grande de 5‒15 cm × 2‒3 mm, scabres sur la marge et la nervure centrale. Épillets nombreux, serrés, obliquement lancéolés, d’environ 2 × 0,8‒1 mm , à 1‒2 fleurs, mais ne produisant qu’un seul akène ; glumes longues d’environ 2,5 mm , brun rougeâtre clair à moyen, avec une nervure médiane nettement ailée et scabre. Akène obovale, d’environ 1,5 × 1 mm , nettement comprimé, brun rougeâtre clair, finement papilleux.
+IV. 20(101) : 599 (1936). Perennial herb, slender to fairly robust, with a short woody rhizome bearing ± numerous leafy stems ; roots violaceous or brown ; stems 15−35 cm × 0.7−2 mm, trigonous with rounded angles, smooth, glabrous, base scarcely swollen, leafy only in the lower part for 10 cm. Leaf : upper sheaths green, the lower ones often brown or violaceous ; blade flat, sometimes glaucous, the largest 5−15 cm × 2−3 mm , distinctly scabrous on the margin and central nerve at least near the apex. Inflorescence in a hemispherical reddish-brown head, 5−10 mm wide, partially enveloped in the broad bases of the involucral bracts ; involucral bracts often 4−6, foliaceous, spreading, the largest 5−15 cm × 2−3 mm, scabrous on the margin and central nerve. Spikelets numerous, crowded, obliquely lanceolate, about 2 × 0.8−1 mm , with 1−2 flowers, but producing only a single achene ; glumes about 2.5 mm long, light to medium reddish-brown, with a distinctly winged and scabrous midvein. Achene obovate, about 1.5 × 1 mm , distinctly compressed, light reddish-brown, finely papillose.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répandue en Afrique de l’Ouest, du Sénégal à la République Démocratique du Congo, aussi au Brésil ; rare au Gabon, trouvée seulement dans l’Estuaire
+widely distributed in West Africa, from Senegal to the Democratic Republic of the Congo, also in Brazil ; rare in Gabon, found only in the Estuary
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-dans les mangroves et les marécages saumâtres ; au niveau de la mer. Note taxonomique : se reconnaît facilement à ses têtes hémisphériques brun rougeâtre, partiellement masquées par la base des grandes bractées foliacées. B : Lye (2011b). ibliographie
+in mangroves and brackish marshes ; at sea level. Taxonomic note : easily recognized by its reddish-brown hemispherical heads, partially masked by the base of the large foliaceous bracts. B : Lye (2011b). Bibliography
 
 ## Also treated in vol 44
 
 **Pages**: 89-89 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Diels, Pflanzenr. IV. 20(101) : 599 (1936). Herbe annuelle, grêle ou vivace, avec une base légèrement durcie ; tiges serrées, de 15‒40 cm × 0,3‒0,6 mm, triangulaires, lisses, légèrement ailées sous l’inflorescence, feuillées seulement à la base sur 5 cm. Feuille : gaine brun rougeâtre, glabre, se terminant par une fine pointe verdâtre de 1‒5 mm ; limbe absent ou très court . Inflorescence en tête globuleuse à hémisphérique, large de 3‒5 mm , à un seul épi de nombreux épillets serrés ; bractées involucrales 3‒4, foliacées, la plus grande de 3‒15 cm × 0,7‒1,3 mm, nettement scabres sur la marge et la nervure centrale près de la pointe. Épillet elliptique– lancéolé, de 1,9‒2,1 × 0,5‒0,7 mm , aigu, blanc, devenant brun ou cannelle en séchant, à 1 fleur avec une bractée basale et 2 grandes glumes ; la plus grande glume ovale–lancéolée, longue de 1,8‒2 mm , blanchâtre, mais devenant brun rougeâtre pâle en séchant, à nervure centrale se terminant au sommet aigu ou le dépassant légèrement, carène glabre ou scabre et 5‒6 nervures de chaque côté de la centrale ; bractée basale ovale–triangulaire, longue de 0,5‒0,9 mm, plus fine que les glumes. Akène mûr inconnu.
+Diels, Pflanzenr. IV. 20(101) : 599 (1936). Annual herb, slender or perennial, with a slightly hardened base ; stems crowded, 15−40 cm × 0.3−0.6 mm, triangular, smooth, slightly winged below the inflorescence, leafy only at the base for 5 cm. Leaf : sheath reddish-brown, glabrous, terminating in a fine greenish point 1−5 mm ; blade absent or very short. Inflorescence in a globose to hemispherical head, 3−5 mm wide, with a single spike of numerous crowded spikelets ; involucral bracts 3−4, foliaceous, the largest 3−15 cm × 0.7−1.3 mm, distinctly scabrous on the margin and central nerve near the apex. Spikelet elliptic-lanceolate, 1.9−2.1 × 0.5−0.7 mm , acute, white, becoming brown or cinnamon when dry, with 1 flower with a basal bract and 2 large glumes ; the larger glume ovate-lanceolate, 1.8−2 mm long, whitish, but becoming pale reddish-brown when dry, with midvein terminating at the acute apex or exceeding it slightly, keel glabrous or scabrous and 5−6 nerves on each side of the midvein ; basal bract ovate-triangular, 0.5−0.9 mm long, finer than the glumes. Mature achene unknown.
 
 ### Distribution
 
-Cameroun et Gabon ; rare au Gabon, trouvée seulement dans l’OgoouéIvindo
+Cameroon and Gabon ; rare in Gabon, found only in the Ogooué-Ivindo
 
 ### Ecology
 
-en marge des prairies sèches ; vers 300‒500 m d’altitude. Note taxonomique : ressemble à C. densicaespitosus , mais elle a une inflorescence globuleuse à hémisphérique. B : Lye (2011b). ibliographie
+on the margin of dry grasslands ; at 300−500 m altitude. Taxonomic note : resembles C. densicaespitosus , but has a globose to hemispherical inflorescence. B : Lye (2011b). Bibliography
 
 ## Also treated in vol 44
 
 **Pages**: 89-91 · **Source**: `sources/Cyperaceae_vol44_liteparse`
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in Engl. & Diels, Pflanzenr. IV. 20(101) : 597 (1936). Kyllinga pumila Michx., Fl. bor.-amer. 1 : 28 (1803).
 
-C. Sommet du limbe. – D. Jeune tige montrant la gaine. – C. Base de la tige montrant écailles prophylle et gaines inférieures. – E. Inflorescence. basales et pousses émergeant. – D. Bourgeons – F. Vieille inflorescence après la chute des épillets adventifs montrant prophylle et premières gaines. montrant les réceptacles. – G. Épillet. – H. Épillet – E. Inflorescence. – F. Vieille inflorescence après avec une fleur. Dessin original par Richard W. la chute des épillets montrant les réceptacles. – G. Haines ©. Épillet. – H. Épillet avec deux fleurs. – I. Épillet vivipare. Dessin original par Richard W. Haines ©. Herbe annuelle, en touffe dense, avec un système racinaire faible ; tiges de 10‒55 cm × 0,7‒1,2 mm, trigones, striées, glabres, partie inférieure couverte par un prophylle et un nombre variable de gaines pourpre foncé et sans limbe. Feuille : limbe plan ou enroulé, scabre sur la marge et la nervure centrale, les plus grands de 7‒20 cm × 2‒3,2 mm , aussi longs ou dépassant l’inflorescence. Inflorescence en tête irrégulière vert pâle à grisâtre, de 5‒8 × 5‒10 mm , formée d’un épi central et de plusieurs épis latéraux plus petits ; bractées involucrales 3‒5, foliacées, dressées ou étalées, la principale longue de 4‒13 cm ; épis ovoïdes, avec les épillets sur un réceptacle étroit, épi central de 5‒8 × 4‒5 mm. Épillet de 2‒2,5 × 0,5‒0,7 mm , à 1 fleur ; glumes longues de 1,5‒2,5 mm , brun pâle à translucides, avec la nervure centrale distincte verte (parfois avec de nombreux points violet foncé) et 2‒4 nervures latérales, carène de la nervure centrale ± ailée et pourvue de quelques dents épineuses translucides, nervure centrale se terminant au sommet ou le dépassant légèrement. Akène elliptique à obovale, d’environ 1 × 0,5 mm , lenticulaire, brun.
+C. Apex of blade. – D. Young stem showing the sheath. – C. Base of stem showing prophyll scales and lower sheaths. – E. Inflorescence. basal and shoots emerging. – D. Buds – F. Old inflorescence after the fall of adventive spikelets showing prophyll and first sheaths. – G. Spikelet. – H. Spikelet – E. Inflorescence. – F. Old inflorescence after showing the receptacles. with one flower. Original drawing by Richard W. the fall of spikelets showing the receptacles. – G. Haines ©. Spikelet. – H. Spikelet with two flowers. – I. Viviparous spikelet. Original drawing by Richard W. Haines ©. Annual herb, in dense tufts, with a weak root system ; stems 10−55 cm × 0.7−1.2 mm, trigonous, striate, glabrous, lower part covered by a prophyll and a variable number of dark purple bladeless sheaths. Leaf : blade flat or enrolled, scabrous on the margin and central nerve, the largest 7−20 cm × 2−3.2 mm , as long as or exceeding the inflorescence. Inflorescence in an irregular pale green to grayish head, 5−8 × 5−10 mm , formed of a central spike and several smaller lateral spikes ; involucral bracts 3−5, foliaceous, erect or spreading, the principal one 4−13 cm long ; spikes ovoid, with spikelets on a narrow receptacle, central spike 5−8 × 4−5 mm. Spikelet 2−2.5 × 0.5−0.7 mm , with 1 flower ; glumes 1.5−2.5 mm long, pale brown to translucent, with the midvein distinctly green (sometimes with many dark purple dots) and 2−4 lateral nerves, keel of the midvein ± winged and provided with a few translucent spiny teeth, midvein terminating at the apex or exceeding it slightly. Achene elliptic to obovate, about 1 × 0.5 mm , lenticular, brown.
 
 ### Distribution
 
-répandue dans les régions tropicales et subtropicales de l’Afrique, de l’Amérique et de l’Asie ; peu commune ou méconnue au Gabon, trouvée dans l’Estuaire, l’Ogooué-Ivindo, l’Ogooué-Maritime, le Woleu-Ntem et le Haut-Ogooué (12 récoltes)
+widespread in the tropical and subtropical regions of Africa, America and Asia ; uncommon or poorly known in Gabon, found in the Estuary, Ogooué-Ivindo, Ogooué-Maritime, Woleu-Ntem and Haut-Ogooué (12 collections)
 
 a b
 
 ### Ecology
 
-dans les zones herbeuses saisonnièrement inondées et sur les affleurements rocheux ; au Gabon, à 0‒600 m d’altitude, jusqu’à 2000 m ailleurs
+in herbaceous zones seasonally inundated and on rocky outcrops ; in Gabon, at 0−600 m altitude, up to 2000 m elsewhere
 
 ### Vernacular names
 
-annual greenhead sedge, low spikesedge, thinleaf flatsedge (angl.). Note taxonomique : se reconnaît à son port annuel avec des racines très fines et l’inflorescence blanc verdâtre relativement petite. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), ibliographie Lye (1997)
+annual greenhead sedge, low spikesedge, thinleaf flatsedge (Engl.). Taxonomic note : recognized by its annual habit with very fine roots and the relatively small whitish-green inflorescence. B : Haines & Lye (1983), Hoenselaar et al. (2010), Hooper & Napper (1972), Bibliography Lye (1997)
 
 ## Notes
 

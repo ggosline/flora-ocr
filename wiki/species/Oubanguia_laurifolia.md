@@ -17,29 +17,27 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Ann. Sc. Nat., ser. 9, 1 : 327 (avr. 1905); Engl., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); A. Chev., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 84 (1917); Engl., Pflanzenw. Afr. 3 (2) : 471 (1921); Pellegrin, Fl. Mayombe 1 : 61 (1924); Hutch., Fam. Flow. Pl., ed. 1, 1 : tab. 127 (1926); Keay, FWTA, ed. 2, 1 (2) : 300 (1958); Hutch., Fam. Flow. Pl., ed. 2, 1 : tab. 115 (1959); Keay, Onochie & Stanfield, Niger. Trees 1 : 188 (1961); Letouzey, Adansonia, ser. 2, 1 (1) : 114 (1961); Walker & Sillans, Pl. ut. Gabon : 398, tab. 51 (1961).
+Ann. Sc. Nat., ser. 9, 1 : 327 (Apr. 1905); Engl., Nat. Pflanzenfam., Nacht. III zu III, 6 : 218 (1908); A. Chev., Vég. Ut. Afr. Trop. Fr. 9, For. Bois Gabon : 84 (1917); Engl., Pflanzenw. Afr. 3 (2) : 471 (1921); Pellegrin, Fl. Mayombe 1 : 61 (1924); Hutch., Fam. Flow. Pl., ed. 1, 1 : tab. 127 (1926); Keay, FWTA, ed. 2, 1 (2) : 300 (1958); Hutch., Fam. Flow. Pl., ed. 2, 1 : tab. 115 (1959); Keay, Onochie & Stanfield, Niger. Trees 1 : 188 (1961); Letouzey, Adansonia, ser. 2, 1 (1) : 114 (1961); Walker & Sillans, Pl. ut. Gabon : 398, tab. 51 (1961).
 
 — Egassea laurifolia Pierré ex De Wild., Ann. Mus. Congo V, Et. Fl. Bas et Moyen-Congo 1 : 31, tab. 17 (1903).
 
-— Oubanguia laurifolia (Pierrre ex De Wild.) De Wild., Miss. Laurent : 150 (oct. 1905).
+— Oubanguia laurifolia (Pierrre ex De Wild.) De Wild., Miss. Laurent : 150 (Oct. 1905).
 
 — Oubanguia klainei V. Tiegh., Ann. Sc. Nat., ser. 9, 1 : 328 (1905).
 
 — ? Oubanguia ledermannii Engl., Bot. Jahrb. 43 : 373 (1909).
 
-— Scytopetalum papillosum PiERRE, ms. in sched., P.
+— Scytopetalum papillosum PIERRE, ms. in sched., P.
 
 — Egassea (et Egassia) oleifolia Pierre, ms. in sched., P.
 
-Petit arbre¹, haut de 12-15 m et peut-être plus, atteignant 60 cm de diamètre, à fût vertical assez régulier, avec 5 pattes un peu concaves à la base chez les vieux arbres; rhytidome vert orangé à brun rougeâtre, s'exfoliant en plaquettes irrégulières sinueuses laissant apparaître des taches rouge orangé caractéristiques; écorce tendre, peu épaisse, à tranche rougeâtre; bois assez dur, orangé rosé. Jeunes rameaux faiblement anguleux, tout au moins le plus souvent garnis de 2 arêtes peu accusées sur la face supérieure; pétiole long de 2-3(-5) mm. Limbe subcoriace elliptique à elliptique-oblong, 2,5-6 × 5-13 cm (acumen non compris); base symétrique (exceptionnellement asymétrique), largement aiguë et décurrente sur le haut du pétiole; sommet obtus à arrondi, caudé-acuminé avec acumen 5 × 18 mm à apex arrondi; 6-8 paires de nervures latérales anastomosées à 5 mm de la marge, celle-ci entière, plane, avec minuscules taches glanduleuses non en relief, parfois marge légèrement crénelée-ondulée, nervures tertiaires souvent à orientation générale ± perpendiculare à la nervure médiane.
+Small tree¹, 12–15 m tall and perhaps taller, reaching 60 cm in diameter, with a vertical trunk fairly regular, with 5 feet slightly concave at the base in old trees; rhytidome greenish orange to reddish brown, exfoliating in irregular sinuous plaques revealing characteristic orange-red patches; bark tender, not very thick, with reddish interior; wood quite hard, orange-pink. Young branches weakly angular, at least most often bearing 2 poorly pronounced ridges on the upper face; petiole 2–3(–5) mm long. Blade subcoriaceous elliptic to elliptic-oblong, 2.5–6 × 5–13 cm (acumen not included); base symmetrical (exceptionally asymmetrical), broadly acute and decurrent on the upper part of the petiole; apex obtuse to rounded, caudate-acuminate with acumen 5 × 18 mm with rounded apex; 6–8 pairs of lateral veins anastomosing at 5 mm from the margin, the latter entire, plane, with minute non-prominent glandular spots, sometimes margin slightly crenulate-undulate, tertiary veins often with general orientation ± perpendicular to the midvein.
 
-Inflorescences blanchâtres en panicules terminales et axillaires sub-terminales, 1 ou 2 fois ramiﬁées, atteignant 5-8(-10) cm de longueur, à axes ± anguleux, pubérulentes jusqu'à la marge du calice; bractées et bractéoles très tôt caduques; pédicelle long de 8(-10) mm; bouton floral obtus, parfois papilleux, au moins vers le haut et sur les sillons de la corolle. Calice patelliforme-cupuliforme, 3 mm de diamètre, à marge éparsement denticulée; 8-10(-12) pétales, hauts de 6-8 mm, étroits.
+Inflorescences whitish in terminal and axillary sub-terminal panicles, 1 or 2 times ramified, reaching 5–8(–10) cm in length, with ± angular axes, puberulent to the calyx margin; bracts and bracteoles very early caducous; pedicel 8(–10) mm long; floral bud obtuse, sometimes papillose, at least toward the apex and on the corolla grooves. Calyx patellifform-cupuliform, 3 mm in diameter, with sparsely denticulate margin; 8–10(–12) petals, 6–8 mm tall, narrow.
 
-1. L'échantillon Le Testu 2144, identifié déjà par PELLEGRIN (l.c. : 61) est annoté « Liane à fleurs blanches »; ceci paraît constituer une anomalie (en réalité arbuste sarmenteux et lianescent?).
+1. The specimen Le Testu 2144, already identified by PELLEGRIN (l.c. : 61) is annotated "Liane with white flowers"; this appears to constitute an anomaly (in reality a sarmentose and lianescent shrub?).
 
-Capsule globuleuse 1,5 cm, à péricarpe mince, 3-4 valves; graine subspérique 12 mm, à albumen lisse. — PL. 44, 1-3, p. 157.
+Capsule globose 1.5 cm, with thin pericarp, 3–4 valves; seed subspheric 12 mm, with smooth albumen. — PL. 44, 1–3, p. 157.
 
 ## Type
 
@@ -47,25 +45,21 @@ Klaine 1925, 2042, Gabon (P!). A noter la confusion régnant entre les parts (P)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1) Oubanguia laurifolia (Pierre ex De Wild.) V. Tiegh. appears to distinguish itself from O. africana Baill. by its subcoriaceous leaf (not coriaceous), with symmetrical base (not asymmetrical), with caudate-acuminate apex (not acuminate), with plane margin (not curved underneath) and by its flower with 8–10(–12) petals (and not 6–8) but the distinction is doubtless sometimes subject to confusion.
 
-1) Oubanguia laurifolia (Pierre ex De Wild.) V. Tiegh. semble se distinguer d'O. africana Baill. par sa feuille subcoriace (non coriace), à base symétrique (non asymétrique), à sommet caudé-acuminé (non acuminé), à marge plane (non courbée dessous) et par sa fleur à 8-10(-12) pétales (et non 6-8) mais la distinction prête sans doute parfois à confusion.
+It is moreover not certain that this species is always a species of terra firme forest (whereas Oubanguia africana Baill. is always found along the banks of watercourses).
 
-Il n'est d'autre part pas certain que cette espèce soit toujours une espèce de forêt de terre ferme (alors qu'Oubanguia africana Baill. se rencontre toujours en bordure des cours d'eau).
+The "yellow flowers" mentioned by VAN TIEGHEM (l.c. : 326) for this species provide imprecise information because, although the androecium is golden yellow (KLAINE compares these flowers to those of Acacia farnesiana), it masks, at anthesis, the white petals (moreover narrow here), as in all Oubanguia.
 
-Les « fleurs jaunes » mentionnées par VAN TIEGHEM (l.c. : 326) pour cette espèce fournissent un renseignement imprécis car, si l'androcée est jaune d'or (KLAINE comparaît ces fleurs à celles de l'Acacia farnesiana), celui-ci masque, à l'épanouissement, les pétales blancs (de plus ici étroits), comme chez tous les Oubanguia.
+2) If one disregards the material that was previously classified (LETOUZEY, l.c. : 114) as Oubanguia klainei V. Tiegh. and which may be attributed either to O. africana Baill. or to O. laurifolia (Pierre ex De Wild.) V. Tiegh., the type itself of O. klainei V. Tiegh. (Klaine 3511, Gabon) presents too many similarities with the types of O. laurifolia (Pierre ex De Wild.) V. Tiegh. for one not to now allow this "white-flowered" taxon to disappear, the principal distinctive character taken into consideration by VAN TIEGHEM, but without any real value (cf. above, note 1).
 
-2) Si l’on fait abstraction du matériel qui a été classé antérieurement (LETOUZEY, I.c. : 114) comme Oubanguia klainei V. Tiegh. et qui peut être rattaché soit à O. africana Baill., soit à O. laurifolia (Pierre ex De Wild.) V. Tiegh., le type même d’O. klainei V. Tiegh. (Klaine 3511, Gabon) présente trop d’analogies avec les types d’O. laurifolia (Pierre ex De Wild.) V. Tiegh. pour que l’on ne puisse à présent faire disparaître ce taxon « à fleurs blanches », principal caractère distinctif pris en considération par VAN TEGHEM, mais sans aucune valeur réelle (cf. ci-dessus, note 1).
+3) Oubanguia ledermannii Engl. is provisionally attributed to O. laurifolia (Pierre ex De Wild.) V. Tiegh. because the type (Ledermann 819, Nkolebunda near Kribi, Cameroon) appears to have been lost and the diagnosis remains insufficient to establish a certain identity, at least because of the leaf apex with short acumen and the flower with 5–6 petals; ENGLER nevertheless brought it close to O. klainei V. Tiegh. (= O. laurifolia (Pierre ex De Wild.) V. Tiegh.).
 
-3) Oubanguia ledermannii Engl. est rattachée avec doute à O. laurifolia (Pierre ex De Wild.) V. Tiegh. car le type (Ledermann 819, Nkolebunda près Kribi, Cameroun) paraît avoir disparu et la diagnose demeure insuffisante pour établir une identité certaine, au moins à cause du sommet de la feuille à court acumen et de la fleur à 5-6 pétales; ENGLER la rapprochait cependant d'O. klainei V. Tiegh. (= O. laurifolia (Pierre ex De Wild.) V. Tiegh.).
-
-Cette espèce est assez rare et n'est connue qu'au sud-est du Nigeria (Calabar, Oban, Talbot 1693), au Cameroun (pente SE du Petit mont Cameroun, région de Kribi) et ne paraît mieux représentée qu'au Gabon.
+This species is fairly rare and is known only from southeastern Nigeria (Calabar, Oban, Talbot 1693), Cameroon (SE slope of Petit mont Cameroon, Kribi region) and appears to be better represented only in Gabon.
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bois pour pagaies
+Wood for paddles
 
 ## Vernacular names
 

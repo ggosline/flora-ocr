@@ -22,15 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Culms branched, creeping and emitting aerial roots at the base, branches up to 15 cm long, marked with a line of hairs in the axil of the leaves. Leaf sheaths hirsute on the margins, blade contracted at the base, 4 to 7 × 1.5 to 2.5 cm, glabrous or nearly so on the lower surface.
 
-Chaumes ramiés, rampants et émettant des racines aériennes à la base, branches jusqu'à 15 cm de long, marquées d'une ligne de poils dans l'axe des feuilles. Gaines foliaires hirsutes sur les
+2 or 3 terminal or subterminal inflorescences; approximately 3 pairs of spikelets on each branch, oblong, acute, glabrous except at the apex, lower glume half as long as the spikelet. Lower lemma with 5 nerves. Upper floret somewhat shorter, pale brown, glumes coriaceous, smooth.
 
-bords, limbe contracté à la base, de  $ 4 à 7 \times 1,5 à 2,5 \, \text{cm} $, glabre ou presque à la face inférieure.
-
-2 ou 3 inflorescences terminales ou subterminales; environ 3 paires d'épilets sur chaque ramification, oblongs, aigus, glabres sauf au sommet, Glume inférieure moitié aussi longue que l'épillet. Lemma inférieure à 5 nervures. Fleur supérieure un peu plus courte, brun pâle, glumelles coriaces, lisses.
-
-Cette espèce a été signalée dans le Mayumbe, au Congo et en Angola. Plante de sous-bois en forêt dense.
+This species has been recorded in the Mayumbe, in Congo and in Angola. Forest understory plant in dense forest.
 
 ## Specimens examined
 

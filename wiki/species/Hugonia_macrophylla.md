@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Lianas with young stems clothed in brown hairs. Adult stems glabrous, furnished with opposite hooks. Leaves petiolate; stipules laciniate, pubescent, long-persistent, reaching 2 cm in length; petiole pubescent, 0.5–1 cm; blade pubescent on the veins on the lower surface, with scattered hairs on the upper surface, except the midvein densely pubescent, obovate, cuneate at the base, apiculate to acuminate at the apex, entire, $ 10–30 \times 5–10 $ cm. Secondary veins anastomosing, ascending, prominent on the lower surface as are the veinlets.
 
-Lianes à jeunes tiges vêtes de poils bruns. Tiges adultes glabres, pourvues de crochets opposés. Feuilles pétiolées; stipules laciniées, pubescentes, longtemps persistantes, atteignant 2 cm de longueur; pétiole pubescent, de 0,5-1 cm; limbe pubescent sur les nervures à la face inférieure, à poils épars
+Flowers subsessile, grouped in globose clusters among the bracts at the apex of leafy branches, the leaves very closely spaced, forming pseudowhorls there. Bracts and bracteoles similar to the stipules. Floral buds ovoid-acute but not acuminate. Sepals pubescent outside, glabrous inside, erect, oval-rounded, acute at the apex, the inner ones broader, $ 10 \times 6–9 $ mm. Petals yellow, pubescent dorsally, obovate, reaching $ 2.5 \times 1.2 $ cm. Stamens glabrous, alternately long and short; anthers elliptic, glabrous, about $ 1.5 $ mm long. Ovary oblong, pubescent at the apex, about $ 5 \times 4 $ mm; styles pubescent; stigmas terminal, capitate.
 
-à la face supérieure, sauf la nervure médiane densément pubescente, obové, cunée à la base, apiculé à acuminé au sommet, entier,  $ 10-30 \times 5-10 $ cm. Nervures secondaires anastomosées, ascendantes, saillantes à la face inférieure ainsi que les nervilles.
-
-Fleurs subsessiles, groupées en amas globuleux parmi les bractées au sommet des rameaux feuillés, les feuilles, très rapprochées les unes des autres, y formant des pseudoverticilles. Bractées et bractéoles semblables aux stipules. Boutons floraux ovoïdes-aigus mais non acuminés. Sépales pubescents à l'extérieur, glabres à l'intérieur, dressés, ovales-arrondis, aigus au sommet, les internes plus larges,  $ 10 \times 6-9 $ mm. Pétales jaunes, pubescents dorsalement, obovés, atteignant  $ 2.5 \times 1.2 $ cm. Étamines glabres, alternative-ment longues et courtes; anthères elliptiques, glabres, longues d'environ  $ 1.5 $ mm. Ovaire oblong, pubescent au sommet, d'environ  $ 5 \times 4 $ mm; styles pubescents; stigmates terminaux, capités.
-
-Fruit inconnu. PL. 4, 8-10, p. 21.
+Fruit unknown. PL. 4, 8–10, p. 21.
 
 ## Type
 
@@ -33,9 +29,7 @@ Thomson 78, Nigeria (holo-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts du Sud Nigeria et du Gabon. Cette espèce existe probablement au Cameroun et au Zaïre. Nous en rapprochons un spécimen stérile (A. Bouquet 979) du Congo.
+Forests of southern Nigeria and Gabon. This species probably occurs in Cameroon and Zaïre. We associate with it a sterile specimen (A. Bouquet 979) from Congo.
 
 ## Specimens examined
 

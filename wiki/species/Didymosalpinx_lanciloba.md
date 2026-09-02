@@ -22,13 +22,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub 0.70–3 m tall, inclined or ± erect. Main stem or orthotropic branches provided with opposite or verticillate spines by 3; lateral branches with internodes 3–7 (9) cm long. Deltoid stipules with apiculate or subulate apex, 3–8 mm long. Petioles 4–9 mm. Blade glossy olivaceous concolorous, elliptic, 7–18 × 3–7 cm, with acute base, acuminate-acute apex, margins barely bordered. 5–9 pairs of secondary veins prominent on the upper surface of the blade as well as the midvein. Presence of axillary domatia with circular opening sometimes presenting a few very small centripetal hairs.
 
-Arbuste de 0,70-3 m de hauteur, incliné ou ± dressé. Tige principale ou rameaux orthotropes munis d'épines opposées ou verticillées par 3; rameaux latéraux à entrenœuds de 3-7 (9) cm de longueur. Stipules deltoïdes à sommet apiculé ou subulé, longues de 3-8 mm. Pétioles de 4-9 mm. Limbe vernissé olivacé concolore, elliptique, de 7-18 × 3-7 cm, à base aiguë, à sommet acuminé-aigu, à marges à peine rebordées. 5-9 paires de nervures secondaires en relief sur le dessus du limbe ainsi que la médiane. Présence de domaties axillaires à ouverture circulaire présentant parfois quelques très petits poils centripètes.
+Flowers opposite in solitary or successive decussate pairs. Pedicel 12–20 mm. Ovary ca. 7 × 3 mm. Calyx limb green, tubular for 2–3 mm, with 5 ± unequal lanceolate lobes 18–45 × 2–8 mm. Corolla pale yellow-green with tube 4–6 cm long and 18–35 mm diam. at the throat; lobes 17–40 × 11–28 mm. Style glabrous as long as the corolla tube, clavately inflated for more than 10 mm. Anthers 7–11 × 1.5–2.1 mm. Ovary unilocular containing up to 16 ovules sunken almost entirely into the two fleshy placentas.
 
-Fleurs opposées en paires solitaires ou successives décussées. Pédicelle de 12-20 mm. Ovaire d'env. 7 × 3 mm. Limbe calycinal vert, tubuleux sur 2-3 mm, à 5 lobes ± inégaux lancéolés de 18-45 × 2-8 mm. Corolle jaune vert pâle à tube de 4-6 cm de longueur et de 18-35 mm de diam. à la gorge; lobes de 17-40 × 11-28 mm. Style glabre aussi long que le tube de la corolle, renflé en massue sur plus de 10 mm. Anthères de 7-11 × 1,5-2,1 mm. Ovaire uniloculaire contenant jusqu'à 16 ovules enfoncés presque entièrement dans les deux placentas charnus.
-
-Fruit fusiforme de  $ 35 \times 17 $ mm, ou subglobuleux de  $ 33 \times 23 $ mm, jaune à maturité, lisse ou très faiblement 5 costulé. Graine de  $ 11-13 \times 10 \times 4 $ mm. Embryon blanc de  $ 6 \times 3,2 $ mm.
+Fruit fusiform $ 35 \times 17 $ mm, or subglobose $ 33 \times 23 $ mm, yellow at maturity, smooth or very weakly 5-costulate. Seed $ 11–13 \times 10 \times 4 $ mm. Embryo white $ 6 \times 3.2 $ mm.
 
 ## Type
 
@@ -36,9 +34,7 @@ Bagshawe 1281 (holotype BM!), de l'Ouganda
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun (Jacques-Félix 4892), Centrafrique, Gabon, Congo et jusqu'en Ouganda et Angola (13813, Dundo, P).
+Cameroon (Jacques-Félix 4892), Central African Republic, Gabon, Congo and as far as Uganda and Angola (13813, Dundo, P).
 
 ## Specimens examined
 

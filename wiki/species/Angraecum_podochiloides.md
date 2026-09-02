@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Garay, Kew Bull. 28(3): 513 (1973); FAC 2: 478 (1992); FCAM 3: 880 (2001).
 
-Garay, Kew Bull. 28(3) : 513 (1973) ; FAC 2 : 478 (1992) ; FCAM 3 : 880 (2001).
+– Monixus aporum Finet, Mem. Bull. Soc. Bot. France 54: 19 (1907).
 
-– Monixus aporum Finet, Mem. Bull. Soc. Bot. France 54 : 19 (1907).
-
-Tige < 60 cm. Feuilles 1-2 x 0,15-0,3 cm, oblongues-lancéolées, comprimées latéralement. Inflorescence raccourcie, 1-flore. Fleur petite, résupinée, blanchâtre ou jaunâtre. Sépale dorsal oblong-lancéolé à linéaire-lancéolé. Pétales linéaires, falciformes, subobtus. Sépales latéraux linéaires-lancéolés à oblongs-lancéolés, falciformes. Labelle 3,5-5 x 3,5-5 mm, transversalement elliptique, apiculé au sommet, mince, cochéiforme au centre, sommet recourbé, canaliculé. Éperon 3-7,5 mm, étroitement conique, aigu, légèrement falciforme. - Pl. 221, p. 463.
+Stem < 60 cm. Leaves 1–2 × 0.15–0.3 cm, oblong-lanceolate, laterally compressed. Inflorescence shortened, 1-flowered. Flower small, resupinate, whitish or yellowish. Dorsal sepal oblong-lanceolate to linear-lanceolate. Petals linear, falcate, subobtuse. Lateral sepals linear-lanceolate to oblong-lanceolate, falcate. Labellum 3.5–5 × 3.5–5 mm, transversely elliptic, apiculate at the apex, thin, navicular at the centre, apex recurved, channelled. Spur 3–7.5 mm, narrowly conical, acute, slightly falcate. – Pl. 221, p. 463.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Côté d'Ivoire, Ghana, Nigeria, Cameroun, Gabon, Zaïre
+Côte d'Ivoire, Ghana, Nigeria, Cameroon, Gabon, Zaïre
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1,500 m. Epiphytic in dense forest, observed on Gilbertiodendron deweveri and Dialium corbisieri
 
-alt. 0-1 500 m. Épiphyte en forêt dense, observé sur Gilbertiodendron deweveri et Dialium corbisieri
+MATERIAL EXAMINED (Map 98):
 
-MATÉRIEL ÉTUDIÉ (Carte 98) :
+Arends, Louis & De Wilde 667, western slope of Mont Doudou, 2° 15' S, 10° 20' E (fl. Dec.), WAG!.
 
-Arends, Louis & De Wilde 667, versant O du Mont Doudou, 2° 15' S, 10° 20' E (fl. Déc.), WAG!.
+Breteler & Lemmens 8322, 12 km N of the Libreville–Kango road, SOGACEL Concession, approximately 0° 17' N, 10° 05' E (fl. Oct.), WAG!.
 
-Breteler & Lemmens 8322, 12 km N de la route Libreville-Kango, Concession SOGACEL, environ 0° 17' N, 10° 05' E (fl. Oct.), WAG!.
+De Wilde, Arends, Louis & Wieringa 9858, between Rabi 49 and 50 (fl. Nov.), WAG!.
 
-De Wilde, Arends, Louis & Wieringa 9858, entre Rabi 49 et 50 (fl. Nov.), WAG!.
-
-Hallé & Villiers 5382, Monts de Cristal, 12 km SO Chutes de Kinguélé (fl. Fév.r.), P!.
+Hallé & Villiers 5382, Monts de Cristal, 12 km SW Kinguélé Falls (fl. Feb.), P!.
 
 ## Figures
 

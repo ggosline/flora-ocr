@@ -17,21 +17,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 MLW 82 (8) : 26-28 (1982). TYPE : Zaïre, terr. Kole, S. de Booké, Robin 25 (holo-, BR ; iso-, K, WAG).
 
-Arbuste. Rameaux jeunes et âgés avec pubescence dense veloutée à tomenteuse, puis glabrescents.
+Shrub. Young and mature branches with dense velvety to tomentose pubescence, then glabrescens.
 
-Stipules étroites et triangulaires, longues de 1-3 mm, caduques, pubescentes comme les jeunes rameaux.
+Stipules narrow and triangular, 1-3 mm long, caducous, pubescent like the young branches.
 
-Feuilles. Pétiole sub- à hémicylindrique, long de 2-5 mm, pubescent comme les jeunes rameaux. Limbe elliptique à obové, 2,5-3 fois plus long que large, 8-18 × 3-6 cm, progressivement rétréci à arrondi à subcordé et en général oblique à la base ; acumen arrondi à subaigu, long de 1-2 cm ; dessus glabre ou avec quelques poils apprimés sur la nervure I généralement proéminente ; pubescence apprimée éparse à la face inférieure le long de la marge, sur la nervure I et sur les 6-7 paires principales de nervures II ; feuilles ensuite glabrescentes ; glandes, petites, souvent seulement sous le limbe, parfois aussi quelques-unes dessus, assez bien réparties.
+Leaves. Petiole sub- to hemicylindric, 2-5 mm long, pubescent like the young branches. Blade elliptic to obovate, 2.5-3 times longer than wide, 8-18 × 3-6 cm, gradually narrowed to rounded to subcordate and generally oblique at the base; acumen rounded to subacute, 1-2 cm long; upper surface glabrous or with a few appressed hairs on the generally prominent nerve I; appressed sparse pubescence on the lower surface along the margin, on nerve I and on the 6-7 pairs of main nerves II; leaves subsequently glabrescent; glands, small, often only beneath the blade, sometimes also a few above, fairly well distributed.
 
-Inflorescences sessiles ou presque, condensées, ≤10-flores, veloutées-tomenteuses. Bractées et bractéoles étroites et triangulaires, longues de 0,5-1 mm. Pédicelle ≤ 1,5 mm, partie supérieure ≤ 0,5 mm.
+Inflorescences sessile or nearly so, condensed, ≤10-flowered, velvety-tomentose. Bracts and bracteoles narrow and triangular, 0.5-1 mm long. Pedicel ≤ 1.5 mm, upper part ≤ 0.5 mm.
 
-Fleurs. Sépales subérigés, courtement soudés à la base, étroits et oblongs,  $ 1.5 \times 0.5 $ mm ; tomentum soyeux à l'extérieur et pubescence éparse surtout à la partie supérieure de la face interne. Pétales étroits et obovés, longs de 3,5-4 mm, fendus sur 1,5 mm, coudés au-dessous des lobes étalés ; partie inférieure dressée, longue de 1,5 mm, glabre ou avec quelques poils au-dessus de la fente du côté externe. Étamines dressées, un peu plus longues que les sépales, longues de ≈ 1,5 mm, glabres ; anthères ≈ 0,3 mm, connectif distinct. Staminodes étroits et oblongs, 3-4 fois plus longs que larges, longs de ≈ 0,5 mm, glabres. Pistil 2-mère, souvent plus court que les étamines, long de ≤ 1,5 mm ; ovaire velouté ; style glabre, terminé par deux lobes courts.
+Flowers. Sepals suberect, shortly connate at the base, narrow and oblong, $ 1.5 \times 0.5 $ mm; silky tomentum on the outside and sparse pubescence especially on the upper part of the inner face. Petals narrow and obovate, 3.5-4 mm long, split for 1.5 mm, bent below the spreading lobes; lower part erect, 1.5 mm long, glabrous or with a few hairs above the slit on the outer side. Stamens erect, slightly longer than the sepals, ≈ 1.5 mm long, glabrous; anthers ≈ 0.3 mm, connective distinct. Staminodes narrow and oblong, 3-4 times longer than wide, ≈ 0.5 mm long, glabrous. Pistil 2-merous, often shorter than the stamens, ≤ 1.5 mm long; ovary velvety; style glabrous, terminated by two short lobes.
 
-Fruits inconnus. – Pl. 49, p. 167.
+Fruits unknown. – Pl. 49, p. 167.
 
 ## Type
 
@@ -39,23 +37,17 @@ Robin 25, au S. de Booké, Terr. Kolé, Zaïre
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. staminellatum est une espèce remarquablement distincte, ainsi nommée à cause de ses étamines relativement courtes. Ses fleurs ressemblent à celles de D. geminostellatum Breteler par leurs pétales coudés, et par la longueur de leur étamines subégale à celle de la partie basale dressée du pétale. Cependant d'autre aspects de la fleur ainsi que les caractères végétatifs rendent ces deux espèces tout à fait distinctes.
+D. staminellatum is a remarkably distinct species, thus named because of its relatively short stamens. Its flowers resemble those of D. geminostellatum Breteler by their bent petals, and by the length of their stamens approximately equal to that of the erect basal part of the petal. However, other aspects of the flower as well as the vegetative characters make these two species entirely distinct.
 
 F.J. BRETELER
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-connue seulement par son type du Zaïre central, cette espèce existe probablement au Gabon car un spécimen stérile (Breteler & van Raalte 5642) près de Gamba au Sud Ouest du Gabon lui appartient presque de manière certaine
+Known only from its type specimen from central Zaïre, this species probably occurs in Gabon as a sterile specimen (Breteler & van Raalte 5642) near Gamba in southwestern Gabon almost certainly belongs to it.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt ombrophile semi-décidue
+semi-deciduous rainforest
 
 ## Specimens examined
 

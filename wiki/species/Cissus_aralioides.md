@@ -23,21 +23,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large liana capable of reaching 25 m in length, woody at the base. Stems thick, more or less fleshy, cylindrical, glabrous or glabrescent, 3–5 mm in diameter, sometimes with loose reddish pilosities on the nodes and a dense tuft of hairs at the stipular axils; internodes 6–12 cm long. Tendrils glabrous or glabrescent, simple or bifurcate; bracts 1–1.5 mm long, glabrous. Stipules oval-elliptic or oblong, 2–2.5 mm long, 1.5–2 mm wide, with base more or less cordate, apex rounded, glabrous. Leaves compound, 5-foliolate, sometimes 3- or 7-foliolate. Petiole cylindrical, furrowed, 5–15 cm long, glabrous or glabrescent. Petiolules 5–25 mm long, deeply canaliculate, winged, glabrescent or more or less loosely pubescent. Blade of leaflets 6–15 cm long, 2–8 cm wide; median leaflet oblong-obovate, with base long-cuneate and narrowly decurrent on the petiole, apex acuminate; lateral leaflets asymmetrical, oblong-elliptic, oblong-oval or more or less elliptic; blade glabrous except for a few hairs at the base of the principal vein; margin with small, thick, short teeth; venation pinnate; texture somewhat fleshy.
 
-Grande liane pouvant atteindre 25 m de long, ligneuse à la base. Tiges épaisses plus ou moins charnues, cylindriques, glabres ou glabrescentes, de 3-5 mm de diamètre, avec parfois une lâche pilosité rousse sur les nœuds et une forte touffe de poils à l'aisselle
+Inflorescences 4–10 cm long, in multiflorous cymes composed of umbelliform cymules; peduncle 1.5–2.5 cm long, glabrescent or loosely pubescent; axes very short, more or less sparsely pubescent; bracts and bracteoles deltoid, 1–1.5 mm long, glabrous or glabrescent. Flowers 3.5–4.5 mm long. Pedicel cylindrical, sparsely pubescent. Calyx cupuliform, approximately 1 mm in height, sparsely pubescent. Corolla glabrous, finely papillose, ovoid-conical. Stamens approximately 2.5 mm long; anthers oval, approximately 1 mm long, with connective weakly thickened. Ovary glabrous.
 
-des stipules; entrenœuds de 6-12 cm de long. Vrilles glabres ou glabrescentes, simples ou bifurquées; bractées de 1-1,5 mm de long, glabres. Stipules ovales elliptiques ou oblongues, de 2-2,5 mm de long, de 1,5-2 mm de large, à base plus ou moins cordée, à sommet arrondi, glabres. Feuilles composées, 5-foliolées, parfois 3-ou 7-foliolées. Pétiole cylindrique, sillonné, de 5-15 cm de long, glabre ou glabrescent. Pétioules de 5-25 mm de long, profondément canaliculés, ailés, glabrescentes ou plus ou moins lâchement pubescents. Limbe des folioles de 6-15 cm de long, de 2-8 cm de large; la foliole médiane oblongue-obovale, à base longuement cunée et étroitement décurrente sur le pétioule, à sommet acuminé; folioles latérales asymétriques, oblongues elliptiques, ovales oblongues ou plus ou moins elliptiques; limbe glabre, sauf quelques poils à la base de la nervure principale; marge présentant de petites dents épaisses et courtes; nervation pennée; texture un peu charnue.
+Berries glabrous, oblong-ovoid, 2–3 cm long and 1.2–2 cm wide. Seed 13–15 mm long, 7–8 mm wide and 4 mm thick, oblong or more or less orbicular, very laterally compressed; rostrum short; median crest distinct and thick; testa with smooth surface.
 
-Inflorescences de 4-10 cm de long, en cymes multiflores composées de cymules ombelliformes; pédoncule de 1,5-2,5 cm de long, glabrescent ou lâchement pubescent; axes très courts, plus ou moins désentément pubescents; bractées et bractéoles deltoïdes, de 1-1,5 mm de long, glabres ou glabrescentes. Fleurs de 3,5-4,5 mm de long. Pédicelle cylindrique, désentément pubescent. Calice cupuliforme, d'environ 1 mm de hauteur, désentément pubescent. Corolle glabre, finement papilleuse, ovoïde conique. Étamines d'environ 2,5 mm de long; anthères ovales d'environ 1 mm de long, à connectif faiblement épaissi. Ovaire glabre.
+Type from Angola: Welwitsch 1484, Golungo Alto.
 
-Baies glabres, oblongues ovoïdes, de 2-3 cm de long et 1,2-2 cm de large. Graine de 13-15 mm de long, 7-8 mm de large et 4 mm d'épaisseur, oblongue ou plus ou moins orbiculaire, très comprimée latéralement; rostre court; crête médiane nette et épaisse; test à surface lisse.
-
-Type de l'Angola : Welwitsch 1484, Golungo Alto.
-
-Grande liane un peu crassulescente grimpant au sommet des plus grands arbres. Dans les forêts denses humides et les for-
-
-mations secondaires. Son aire d'extension couvre l'Afrique occidentale et centrale, depuis le Sénégal jusqu'au Mozambique et en Angola. Elle est connue au Gabon depuis longtemps; Planchon avait en culture, au jardin botanique de Montpellier, le siècle dernier, un échantillon provenant de ce pays.
+Large liana somewhat crassulescent climbing to the summit of the tallest trees. In dense humid forests and secondary formations. Its area of distribution covers West and Central Africa, from Senegal to Mozambique and Angola. It has long been known from Gabon; Planchon had in cultivation, at the Montpellier botanical garden, in the last century, a specimen from that country.
 
 ## Specimens examined
 

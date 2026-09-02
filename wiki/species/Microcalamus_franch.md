@@ -16,9 +16,8 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-1. Limbes foliaires glabres dessus, pubescents dessous ..... M. barbinodis 1. Limbes foliaires pubescents dessus et dessous, souvent pourpres ..... M. convallarioides
+1. Leaf blades glabrous above, pubescent below ..... M. barbinodis
+1. Leaf blades pubescent above and below, often purple ..... M. convallarioides
 
 38.1 Microcalamus barbinodis Franch.
 

@@ -17,21 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 - Trymatococcus africanus BAILL., Adansonia, sér. 1, 11: 300 (1875); ENGL., Mon. Afr. Pfl. 1, Moraceae: 28 (1898).
 
 - Craterogyne africana (BAILL.) LANJ., Rec. Trav. Bot. Néerl. 32 : 273 (1935).
 
-- Trymatococcus conrauanus ENGL., Bot. Jahrb. 33: 117 (1902); LANJ., l.c.: 273. TYPE : Conrau 130, Cameroun (holo-, B).
+- Trymatococcus conrauanus ENGL., Bot. Jahrb. 33: 117 (1902); LANJ., l.c.: 273. TYPE : Conrau 130, Cameroon (holo-, B).
 
-Arbustes atteignant 2,5 m de hauteur, avec des rameaux rampants ou courbés ; petits rameaux feuillés épais de 0,5-3 mm, pubérulents avec des poils très courts peu denses et des poils uncinés plus longs,
+Shrubs reaching 2.5 m in height, with trailing or curved branches; small leafy branchlets 0.5–3 mm thick, puberulent with very short sparse hairs and longer uncinate hairs, appressed retrorse; internodes 0.5–5 (–8) cm. Leaves distichous (at least on the branchlets). Blade oblong to lanceolate, (3–) 7–25 × (1.5–) 2.5–11 cm, chartaceous, acuminate to subcaudate, obtuse to subacute at the base, sometimes subtruncate to emarginate; margin entire, sometimes almost entire to obscurely dentate; blade coarsely puberulent on both faces, often with uncinate hairs, appressed retrorse, becoming glabrous; midvein impressed above, the others (almost) plane; on the lower face veins more or less prominent, the smallest sometimes plane; (6–) 8–14 pairs of secondary veins, curved well away from the margin, with or without some tertiary veins. Petiole 2–6 mm long and 1–1.5 mm thick. Stipules caducous or subpersistent, 3–8 mm long, semi-amplexicaul, sparsely puberulent, with a fairly prominent midvein.
 
-apprimés rétrorses ; entre-nœuds de 0,5-5 (-8) cm. Feuilles distiques (au moins sur les rameaux). Limbe oblong à lancéolé, (3-) 7,25 × (1,5-) 2,5-11 cm, chartacé, acuminé à subcaudé, obtus à subaigu à la base, parfois subtronqué à émarginé ; marge entière, parfois presque entière à obscurément dentée ; limbe grossièrement pubérulent sur les 2 faces, avec souvent des poils uncinés, apprimés rétrorses, devenant glabre ; nervure médiane imprimée dessus, les autres (presque) planes ; à la face inférieure nervures plus ou moins proéminentes, les plus petites parfois planes ; (6-) 8-14 paires de nervures secondaires, recourbées assez loin de la marge, avec ou sans quelques nervures tertiaires. Pétiole long de 2-6 mm et épais de 1-1,5 mm. Stipules caduques ou subpersistantes, longues de 3-8 mm, semi-amplexicaules, éparsement pubérulentes, à nervure médiane assez proéminente.
+Inflorescences (sometimes only male flowers) sometimes solitary, often grouped by 2 or more, bright yellow, pendulous, turbinate, 3–7 mm in diameter, obscurely to fairly distinctly lobed, bearing approximately 10 to 25 reniform to ovate bracts, up to 0.6 mm in length, arranged in 2 rows on the receptacle margin; peduncle 5–27 mm long, often with a single bract at the base or slightly above, with, as on the receptacle, uncinate hairs, appressed retrorse. Male flowers numerous; perianth about 0.5 mm high, 2 (–3)-lobed or sometimes trifid or tripartite, puberulent, especially on the margins, with small claviform hairs; stamens 2, sometimes 3, with filaments most often curved even at anthesis, 0.6–0.8 mm long, the lower part first thickened, then in a cushion and puberulent; anthers 0.2–0.3 × 0.3–0.4 mm with a fairly broad connective. Female flowers free part of perianth 0.5–0.7 mm long, bilobed, puberulent with small claviform to globose hairs especially on the margins; style 1–1.5 mm long; stigmas 2, 1–1.2 mm long, equal or unequal, straight or twisted.
 
-Inflorescences (parfois seulement des fleurs â) parfois solitaires, souvent groupées par 2 ou plus, jaune vif, pendantes, turbinées, de 3-7 mm de diamètre, obscurément à assez distinctement lobées, portant environ de 10 à 25 bractées réniformes à ovales, jusqu'à 0,6 mm de longueur, disposées en 2 rangées sur le bord du réceptacle ; pédoncul le long de 5-27 mm, avec souvent une seule bractée à la base ou un peu au-dessus avec, comme sur le réceptacle, des poils uncinés, apprimés rétrorses. Fleurs â nombreuses ; périant le haut d'environ 0,5 mm, 2 (-3) -lobé ou parfois trifide ou tripartite, pubérulent, surtout sur les marges, avec de petits poils claviformes ; étamines 2, parfois 3, à filaments le plus souvent recourbés même à l'anthèse, longs de 0,6-0,8 mm, la partie inférieure d'abord épaissie, puis en coussinet et pubérulente ; anthères 0,2-0,3 × 0,3-0,4 mm à connectif assez large. Fleurs â partie libre du périant le longue de 0,5-0,7 mm, bilobée, pubérulente avec de petits poils claviformes à globuleux surtout sur les marges ; style long de 1-1,5 mm ; stigmates 2, longs de 1-1,2 mm, égaux ou inégaux, droits ou vrillés.
-
-Infrutescences vertes, subglobuleuses, couronnées sur environ 7 mm par un disque formé des restes des étamines et des bractées. Noyau subglobuleux, de 5 mm de diamètre environ, lisse. Graines subglobuleuses à transversalement ellipsoides, d'environ  $ 4,5 \times 4,5-3 $ mm; testa avec une partie un peu épaissie et lâchement vascularisée sous le hile de petite taille ; cotylédons très inégaux, radicule courte. – Pl. 8, p. 33.
+Infructescences green, subglobose, crowned over approximately 7 mm by a disc formed from the remains of the stamens and bracts. Pyrene subglobose, approximately 5 mm in diameter, smooth. Seeds subglobose to transversely ellipsoid, approximately 4.5 × 4.5–3 mm; testa with a part somewhat thickened and loosely vascularized beneath the small hilum; cotyledons very unequal, radicle short. – Pl. 8, p. 33.
 
 ## Type
 
@@ -41,19 +37,13 @@ Dinklage 232, Cameroun (holo-, B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+D. africana resembles D. kameruniana very much. The main differentiating characters are mentioned in the key. Furthermore, D. africana differs slightly from D. kameruniana by uncinate hairs, longer, appressed retrorse on young branchlets, by the secondary veins of the leaves curving well away from the blade margin, by the smaller anther connectives and the less deeply divided perianths.
 
-D. africana ressemble beaucoup à D. kameruniana. Les principaux caractères de différenciation sont mentionnés dans la clé. En outre, D. africana diffère légèrement de D. kameruniana par des poils
+D. africana is found from SE Nigeria (Calabar) to Gabon, in the understory of humid forests, sometimes in secondary forests, often along watercourses, from sea level to 850 m elevation. This species is locally abundant and very clustered.
 
-uncinés, plus longs, apprimés rétrorses sur les rameaux jeunes, par les nervures secondaires des feuilles se recourbant assez loin de la marge du limbe, par les connectifs des anthères plus petits et les périanthes moins profondément divisés.
+The perianth of male flowers is fairly variable in the number of perianth parts and the divisions of the 2 large tepals.
 
-D. africana se retrouve du SE du Nigeria (Calabar) au Gabon, dans le sous-bois des forêts humides, parfois dans les forêts secondaires, souvent le long des cours d'eau, depuis le niveau de la mer jusqu'à 850 m d'altitude. Cette espèce est localement abondante et très groupée.
-
-Le périanthe des fleurs ô est assez variable quant au nombre des parties périanthaires et aux divisions des 2 grands tépales.
-
-L'aire vaste mais disjointe du D. kameruniana s'étend de la Guinée à la Tanzanie. Il est à rechercher au Gabon. On le trouve dans le sous-
-
-bois des forêts humides ainsi que dans les forêts-galeries, parfois en bordure des savanes ou dans les forêts secondaires, souvent près des cours d'eau.
+The vast but disjunct range of D. kameruniana extends from Guinea to Tanzania. It should be sought in Gabon. It is found in the understory of humid forests as well as in gallery forests, sometimes at the edge of savannas or in secondary forests, often near watercourses.
 
 ## Specimens examined
 

@@ -17,17 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 KEAY, FWTA, ed. 2, 1 (2): 300, tab. 113 (1958); KEAY, ONOCHIE & STANFIELD, Niger. Trees 1: 188, tab. 49 (1960); LETOUZEY, Adansonia, ser. 2, 1 (1): 113 (1961).
 
-Arbuste ou petit arbre atteignant 10-20 m de hauteur et 30-50 cm de diamètre, à tronc droit, évasé et étalé à la base, branchu à faible hauteur et avec cime touffue à branches inférieures pendantes; rhytidome lisse grisâtre à brun clair, s'exfoliant en plaquettes minces irrégulières, à contours largement sinueux, laissant apparaître des marbrures rougeâtres ou orangées; écorce tendre à tranche rose à rouge, fibreuse; bois orangé rosé, plus clair vers l'extérieur, plus foncé vers l'intérieur, mi-dur. Jeunes rameaux anguleux avec 3 ailes longitudinales, 2 d'entre elles terminées chacune par une expansion foliacée arrondie, parfois aiguë, de chaque côté de la base d'un pétiole, parfois ailes très étroites et expansions très réduites (Letouzey 14630); pétiole long de 1-2 mm. Limbe papyracé ou un peu coriace, elliptique ou oblong-elliptique, 4-8 × 10-16(-25) cm (acumen non compris), parfois lancéolé; base largement aiguë; sommet obtus-arrondi ± caudé acuminé avec acumen atteignant 4-5 × 12-20(-30) mm, arrondi à l'apex; environ 6-8 paires de nervures latérales anastomoses assez loin (5 mm) de la marge, celle-ci souvent crénuelée-ondulée, réseau de nervilles assez dense souvent avec petites séries d'éléments parallèles.
+Shrub or small tree reaching 10–20 m tall and 30–50 cm in diameter, with straight trunk, flared and spreading at the base, branching at low height and with dense crown bearing drooping lower branches; bark smooth greyish to pale brown, exfoliating in thin irregular plates with broadly sinuous margins, revealing reddish or orange marblings; tender bark with pink to red surface, fibrous; wood pinkish orange, paler toward the outside, darker toward the inside, semi-hard. Young twigs angular with 3 longitudinal wings, 2 of them each terminating in a rounded, sometimes acute, foliaceous expansion on either side of the base of a petiole, sometimes wings very narrow and expansions much reduced (Letouzey 14630); petiole 1–2 mm long. Blade papyraceous or somewhat coriaceous, elliptic or oblong-elliptic, 4–8 × 10–16(–25) cm (acumen not included), sometimes lanceolate; base broadly acute; apex obtuse-rounded ± caudate-acuminate with acumen reaching 4–5 × 12–20(–30) mm, rounded at the tip; approximately 6–8 pairs of lateral veins anastomosing rather far (5 mm) from the margin, the latter often crenulate-undulate, venation network rather dense often with small series of parallel elements.
 
 R. LETOUZEY
 
-Inflorescences en panicules terminales, atteignant 10-15 cm de hauteur, 1, 2 (3) fois ramifiées avec axes blancs divariqués ± anguleux, pubérulentes jusqu'à la marge du calice; bractées et bractéoles petites (max. 1,5 mm), ovales, assez persistantes; pédicelles longs de 8-10 mm; bouton floral haut de 8 mm. Calice cupuliforme, de 5 mm de diamètre, à marge incisée; 6-8 pétales de largeur irrégulière, hauts de 8-10 mm, rosés intérieurement blancs extérieurement; étamines jaune-doré.
+Inflorescences in terminal panicles, reaching 10–15 cm tall, 1, 2 (3) times branched with white divaricate ± angular axes, pubescent to the calyx margin; bracts and bracteoles small (max. 1.5 mm), ovate, fairly persistent; pedicels 8–10 mm long; floral bud 8 mm tall. Calyx cupuliform, 5 mm in diameter, with incised margin; 6–8 petals of irregular width, 8–10 mm tall, pink within white without; stamens golden yellow.
 
-Capsule oblonge-ovoïde, env. 7 × 12 mm, pruineuse puis bleu mauve brillant, monosperme. — PL. 44, fig. 4-8, p. 157.
+Capsule oblong-ovoid, ca. 7 × 12 mm, pruinose then glossy blue-mauve, monospermic. — PL. 44, fig. 4–8, p. 157.
 
 ## Type
 
@@ -35,13 +33,11 @@ Talbot 1513, Nigeria (holo-, BM; iso-, K!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+TAXONOMIC NOTES:
 
-Notes TAXONOMIQUES :
+By its winged twigs, this species can at first glance be confused in the field, in the absence of flowers and fruits, with various species of Crateranthus (Lecythidaceae) that frequent the same regions.
 
-Par ses rameaux ailés, cette espèce peut être confondu au premier abord sur le terrain, en l'absence de fleurs et de fruits, avec diverses espèces de Crateranthus (Lécythidacées) qui fréquentent les mêmes régions.
-
-Oubanguia alata Bak. f. n'est connue que dans le sud-est du Nigeria où elle est localement fréquente dans la province de Calabar, de même de l'autre côté de la frontière au Cameroun; ailleurs dans ce territoire, ainsi qu'au Gabon où elle se retrouve, elle ne s'éloigne guère à plus de 100 km des côtes, est assez dispersée et fréquente souvent le voisinage des petits ruisseaux de forêt.
+Oubanguia alata Bak. f. is known only from southeastern Nigeria where it is locally frequent in Calabar province, and likewise on the other side of the border in Cameroon; elsewhere in this territory, as well as in Gabon where it is also found, it does not extend much more than 100 km from the coasts, is fairly scattered and often frequents the vicinity of small forest streams.
 
 ## Vernacular names
 

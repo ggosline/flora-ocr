@@ -27,25 +27,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+a. — var. micrantha (calyx glabrous; corolla pubescent on the outside of the bud). F. White, Forest. Fl. N. Rhodesia : 398 (1962). — E. Petit, Bull.
 
-a. — var. micrantha (calice glabre; corolle pubescente à l'extérieur du bouton). F. White, Forest. Fl. N. Rhodesia : 398 (1962). — E. Petit, Bull.
+b. — var. congolana (De Wild. et Th. Dur.) E. Petit, Bull. J. B. Brux. 32 : 178 (1962) (calyx puberulent; corolla pubescent on the outside of the bud). Types : Dewèvre 1105 (syntype BR!) and Dewèvre 1150 a (lectotype BR), from Congo.
 
-b. — var. congolana (De Wild. et Th. Dur.) E. Petit, Bull. J. B. Brux. 32 : 178 (1962) (calice pubérulent; corolle pubescente à l'extérieur du bouton). Types : Dewèvre 1105 (syntype BR!) et Dewèvre 1150 a (lectotype BR), du Congo.
+c. — var. Zenkeri (S. Moore) E. Petit, Bull. J. B. Brux. 32 : 179 (1962) (calyx and corolla glabrous externally). Type : Zenker 3173 (isotypes P, BR), from Cameroon.
 
-c. — var. Zenkeri (S. Moore) E. Petit, Bull. J. B. Brux. 32 : 179 (1962) (calice et corolle extérieurement glabres). Type : Zenker 3173 (isotypes P, BR), du Cameroun.
+Shrub 1.80–6 (9) m in height, reaching 10 to 15 cm in diameter. Branchlets glabrous. Stipules glabrous, 3–5 mm, reaching 9 mm on the orthotropic axis, with the lower part broad 2–3 (6) mm then attenuate-subulate apically for more than half their length. Petiole glabrous, 4–8 (10) mm. Blade glabrous, olivaceous or greyish-brown when dry, elliptic, 10–16 (18) × 3–7 cm, with acute or subacute base, with acuminate apex. 6–8 pairs of secondary veins. Small ciliate domatia.
 
-Arbuste de 1,80-6 (9) m de hauteur, attcignant 10 à 15 cm de diamètre. Rameaux glabres. Stipules glabres de 3-5 mm atteignant 9 mm sur l'axe orthotrope, à partie inférieure large de 2-3 (6) mm puis atténuées-subulées apicalement sur plus de la milongueur. Pétiole glabre de 4-8 (10) mm. Limbe glabre, olivâtre ou gris brunâtre à sec, elliptique de 10-16 (18) x 3-7 cm, à base aiguë ou subaiguë, à sommet acuminé. 6-8 paires de nervures secondaires. Petites domaties ciliées.
+Inflorescences appearing on alternate nodes at the upper part of the plagiotropic branch. Each floriferous node bears a large leaf, whose axil produces the continuation of the branch, opposite to a filiform scale 6–15 mm long, caducous. The inflorescence is congested, plurifloral or multifloral, rarely paucifloral, 1.5–2 cm long; peduncle very short bearing short ramifications sparsely provided with scales or small deltoid bracteoles 1.5 mm. Pedicel 3–8 mm, usually glabrous. Calyx often glabrous, puberulent to pilose in var. congolana, with a somewhat flared tubular throat, 3–4 mm high, sometimes split by tearing, with truncate denticulate margin, green. Corolla with purple tube 1 to 2 times longer than broad, with 5 (6) lobes 5–8 × 3–4.5 mm, white, yellow or green, twisted, clothed with dense and very fine white pubescence on the overlapping part in the bud (glabrous in var. Zenkeri), with acute apex. Throat widely invaded by white hairs. Stamens with short filaments inserting towards the lower third of the anther, which is acuminate-acute and reaches 3 × 1 mm; yellow pollen adhering to the exsert stigma. Style purple reaching nearly 1 cm, glabrous, with ellipsoid stigma furrowed by approx. 3 × 2 mm. Nectary disk fleshy annular, 2 mm in diameter. Ovary with 2 locules (exceptionally 3); placentas hemispherical peltate each bearing approx. 50–100 ovules half-immersed.
 
-Inflorescences apparaissant, un nœud sur deux, à la partie supérieure du rameau plagiotrope. Chaque nœud florifère présente une grande feuille, dont l'aisselle produit la suite du rameau, opposée à une écaille filiforme de 6-15 mm de longueur, caduque. L'inflorescence est contractée, pluri ou multiflore, rarement pauciflore, longue de 1,5-2 cm; pédoncule très court portant de courtes ramifications désément munies d'écailles ou petites bractéoles deltoïdes de 1,5 mm. Pédicelle de 3-8 mm, ordinairement glabre. Calice souvent glabre, pubérulent à pileux dans la var. congolana, à col tubuleux un peu évasé, haut de 3-4 mm, parfois échanéré par déchirure, à marge tronquée denticulée, verte. Corolle à tube pourpré 1 à 2 fois plus long que large, à 5 (6) lobes de 5-8 × 3-4,5 mm, blancs, jaunes ou verts, tordus, vêtus d'une dense et très fine pubescence blanche sur la partie recouvrante dans le bouton (glabres chez la variété Zenkeri), à sommet aigu. Gorge largement envahie de poils blancs. Étamines à filets court s'insérant vers le tiers inférieur de l'anthère qui est acuminée aiguë et atteint 3 × 1 mm; pollen jaune se fixant sur le stigmate exsert. Style pourpré atteignant près de 1 cm, glabre, à stigmate ellipsoïde sillonné d'env. 3 × 2 mm. Disque charnu annulaire de 2 mm de diam. Ovaire à 2 loges (exceptionnellement 3); pla
+Fruit green, usually glabrous, globulous, reaching 6–8 mm in diameter, with caducous calycinal limb. Seeds angular ± compressed, approx. 1.5 mm, yellowish, with imperceptible ornamentation (× 12).
 
-centas hémisphériques peltés portant chacuns env. 50-100 ovules demi-enfoncés.
+Types see above, according to varieties.
 
-Fruit vert, ordinairement glabre, globuleux, atteignant 6-8 mm de diam., à limbe calycinal caduc. Graines anguleuses ± comprimées d'env. 1,5 mm, jaunâtres, à ornamentation imperceptible (× 12).
-
-Types voir ci-dessus, suivant les variétés.
-
-Cette espèce de sous-bois forestier n'est pas connue à l'Ouest du Cameroun mais elle est très répandue au Cameroun, Gabon et Congo; son aire de répartition atteint l'Angola et l'Afrique orientale (var. acarophyta (De Wild.) E. Petit, à corolle glabre et calice pubérulent; et var. msonju (K. Krause) E. Petit, à corolle allongée, tube pubescent et calice glabre).
+This forest understory species is not known west of Cameroon but is very widespread in Cameroon, Gabon and Congo; its range extends to Angola and East Africa (var. acarophyta (De Wild.) E. Petit, with glabrous corolla and puberulent calyx; and var. msonju (K. Krause) E. Petit, with elongated corolla, pubescent tube and glabrous calyx).
 
 ## Vernacular names
 

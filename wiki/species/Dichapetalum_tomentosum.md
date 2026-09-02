@@ -17,33 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Nat. Pflanzen Fam. 3 (4): 349 (1896); Bot. Jahrb. 23: 138 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 641 (1913); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 325 (1928); KEAY, FWTA, ed. 2, 1 (2): 438 (1958); HAUMAN, FZRB 7: 312 (1958); BRETLER, MLW 73 (13): 43, 82, XX (1973); l.c. 78 (10): 69 (1978); l.c. 79 (16): 16, 17, 52 (1979); l.c. 82 (8): 40, 51-55, 74. TYPE: Cameroon, Barombi, between Buea and Kumba, Preuss 55 (holo-, B delet.; lecto-K; isolecto-, BM).
 
-Nat. Pflanzen Fam. 3 (4): 349 (1896); Bot. Jahrb. 23: 138 (1896); PELLEGRIN, Bull. Soc. Bot. Fr. 59: 641 (1913); HUTCHINSON & DALZIEL, FWTA, ed. 1, 1 (2): 325 (1928); KEAY, FWTA, ed. 2, 1 (2): 438 (1958); HAUMAN, FZRB 7: 312 (1958); BRETLER, MLW 73 (13): 43, 82, XX (1973); l.c. 78 (10): 69 (1978); l.c. 79 (16): 16, 17, 52 (1979); l.c. 82 (8): 40, 51-55, 74. TYPE: Cameroun, Barombi, entre Buea et Kumba, Preuss 55 (holo-, B delet.; lecto-K; isolecto-, BM).
+Other synonyms (BRETELER 1982: 53, cf BRETELER 1973 and 1979):
 
-autres synonymes (BRETELER 1982 : 53, cf BRETELER 1973 et 1979) :
+- D. acutifolium ENGL. (Preuss 1103, Cameroon).
 
-- D. acutifolium ENGL. (Preuss 1103, Cameroun).
+- D. barense Engl. (Ledermann 6105, Cameroon).
 
-- D. barense Engl. (Ledermann 6105, Cameroun).
+- D. kribense ENGL. (Ledermann 1024, Cameroon).
 
-- D. kribense ENGL. (Ledermann 1024, Cameroun).
+Liane generally of small size or climbing shrub. Stems mostly distinctly lenticellate; with age, the bark fissures longitudinally and scales form at the corners rolled back in loops. Woody cylinder divided into lobes by intrusions of phloem. Older branchlets glabrescent. Young branchlets with dense tomentose to appressed to somewhat hispid pubescence.
 
-Liane en général de petite taille ou arbuste lianescent. Tiges le plus souvent nettement lenticellées ; avec l'âge, l'écorce se fissure longitudinalement et il se forme des écailles aux coins retournés en boucle. Cylindre ligneux divisé en lobes par des intrusions du phloème. Rameaux âgés glabrescents. Jeunes rameaux à pubescence dense tomenteuse à apprimée à quelque peu hispide.
+Stipules narrow and triangular, (1) 2-4 (9) mm long, caducous, with tomentose to appressed pubescence.
 
-Stipules étroites et triangulaires, longues de (1) 2-4 (9) mm, caduques, pubescence tomenteuse à apprimée.
+Leaves. Petiole subcylindric, furrowed or not above, (1) 2-4 (7) mm long, tomentose to somewhat hispid. Blade papyraceous to finely coriaceous, obovate to elliptic, (1.5) 2-2.5 (3) times longer than wide, (5) 8-17 (26) × (2) 3-6 (11) cm; base rounded-obtuse to subcordate, sometimes cuneate; apex often acuminate, sometimes only acute, acumen ≤ 1 (2) cm, acute to mucronulate; young leaves with dense appressed to tomentose pubescence, or even somewhat hispid on both faces, ± persistent below; pubescence of adult leaves often similar and less dense, fairly early caducous above, except on the impressed first vein; veins II, (5) 6-9 (12) pairs main, not marked above, prominent below; network often distinct on the lower face of fresh leaves; glands only below, generally small and very inconspicuous and fairly well distributed, or sometimes with large glands near the base and along the first vein.
 
-Feuilles. Pétiole subcylindrique, sillonné ou non dessus, long de (1) 2-4 (7) mm, tomenteux à quelque peu hispide. Limbe papyracé à finement coriace, obové à elliptique, (1,5) 2-2,5 (3) fois plus long que large, (5) 8-17 (26) × (2) 3-6 (11) cm; base arrondie-obtuse à subcordée, parfois cunée; sommet souvent acuminé, parfois seulement aigu, acumen ≤ 1 (2) cm, aigu à mucronulé; jeunes feuilles avec pubescence dense apprimée à tomenteuse, ou même un peu hispide sur les deux faces, ± persistante dessous; pubescence des feuilles adultes souvent semblable et moins dense, assez tôt caduque dessus, sauf sur la nervure I imprimée; nervures II, (5) 6-9 (12) paires principales, non marquées dessus, proéminentes dessous; réseau souvent distinct à la face inférieure des feuilles fraîches; glandes seulement dessous, en général petites et très peu visibles et assez bien réparties, ou parfois avec de grosses glandes près de la base et le long de la nervure I.
+Inflorescences in subspherical capitules, generally indistinctly branched, sometimes with only a single distinct branching at the base, ≤ 70 flowers, tomentose-tomentellose. Peduncle slender (0.5) 1.5-3.5 (4.5) cm. Bracts and bracteoles narrow and triangular, 0.5-2 mm long. Pedicel ≤ 5 mm, upper part ≤ 0.5 (1) mm.
 
-Inflorescences en capitules subsphériques, en général indistinctement ramiﬁées, parfois avec une seule ramification nette à la base,
+Flowers. Sepals suberect to somewhat spreading, generally slightly concave, ovate-triangular to oblong, 2.5-3 (4) × 1-2 mm; exterior tomentellose, interior similar but with less dense pubescence; apex rounded to subacute. Petals erect, almost free to fused for 1 mm at their base to the filaments, narrow and ovate-oblong 3.5-4.5 (6) mm, split for 0.5-1 mm; external face with some hairs below the slit; interior glabrous; lobes concave. Stamens erect, at most equaling the petals, generally somewhat shorter, glabrous; anthers oblong, often somewhat sagittate, 0.6-0.8 mm long, connective distinct. Staminodes subquadrate to slightly oblong, ≤ 0.5 × 0.5 mm, glabrous, truncate-emar­ginate to lobulate at apex. Pistil 3-merous, at least as long as the petals, often somewhat longer, (3.5) 4-5 (6.5) mm; ovary villous, tapering into a style generally villous in its lower part and glabrous in its upper part, terminated by 3 short lobes.
 
-≤ 70 flores, tomenteuses-tomentelleuses. Pédoncule grêle de (0,5) 1,5-3,5 (4,5) cm. Bractées et bractéoles étroites et trangulaires, longues de 0,5-2 mm. Pédicelle ≤ 5 mm, partie supérieure ≤ 0,5 (1) mm.
+Fruits 1-3-seeded, lobed when more than one seed, yellow to orange at maturity, velvety to densely tomentose pubescence; 1-seeded fruits subspherical, ellipsoidal, (obliquely) obovoid, 15-30 × 12-15 mm, shortly apiculate or not; exo- and mesocarp together ≤ 5 mm thick, without clear demarcation between the two; endocarp woody, 0.2-0.5 mm thick, rugose on the outside, glabrous and smooth on the inside. Seed ellipsoidal, 11-15 × 6-7 mm; testa thin to fairly thick, smooth, dark brown to black; hilum narrow, ≤ 5 mm long.
 
-Fleurs. Sépales subérigés à un peu étalés, en général légèrement concaves, ovés-triangulaires à oblongs, 2,5-3 (4) × 1-2 mm ; extérieur tomentelleux, intérieur semblable mais avec pubescence moins dense ; sommet arrondi à subaigu. Pétales dressés, presque libres à soudés sur 1 mm par leur base aux filets, étroits et ovés-oblongs de 3,5-4,5 (6 mm, fëndus sur 0,5-1 mm ; face externe avec quelques poils au-dessous de la fente ; intérieur glabre ; lobes concaves. Étamines dressées, tout au plus égales aux pétales, en général un peu plus courtes, glabres ; anthères oblongues, souvent un peu sagittées, longues de 0,6-0,8 mm, connectif distinct. Staminodes subcarrés à légèrement oblongs, ≤ 0,5 × 0,5 mm, glabres, tronqués-émarginés à lobulés au sommet. Pistil 3-mère, au moins aussi long que les pétales, souvent un peu plus long, (3,5) 4-5 (6,5) mm ; ovaire villeux, se rétrécissent en un style en général, villeux dans sa partie inférieure et, glabre dans sa partie supérieure, terminée par 3 lobes courts.
-
-Fruits 1-3-spermes, lobés quand il y a plus d'une graine, jaunes à oranges à maturité, pubescence veloutée à tomentum dense; les fruits 1-spermes subsphériques, ellipsoïdaux, (obliquement) obovoïdes, 15-30 × 12-15 mm, courtement apiculés ou non ; exo- et mésocarpe ensemble, épais de ≤ 5 mm, sans démarcation nette entre les deux ; endocarpe ligneux, épais de 0,2-0,5 mm, rugueux à l'extérieur, glabre et lisse à l'intérieur. Graine ellipsoïdale, 11-15 × 6-7 mm ; testa mince à assez fort, lisse, brun foncé à noir ; hile étroit, long ≤ 5 mm.
-
-Plantule (un seul échantillon) à racine pivotante ; épicotyle 7 cm, tomenteux ; les deux feuilles primordiales opposées, ovées, pubescence éparse sur les deux faces ; feuilles suivantes elliptiques, pubescence éparse. - Pl. 53, p. 179.
+Seedling (single specimen) with taproot; epicotyl 7 cm, tomentose; the two primary leaves opposite, ovate, sparse pubescence on both faces; following leaves elliptic, sparse pubescence. - Pl. 53, p. 179.
 
 ## Type
 
@@ -51,21 +47,15 @@ Preuss 55, Barombi, Cameroun
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Pour les différences entre cette espèce et D. unguiculatum, voir p. 188.
+For differences between this species and D. unguiculatum, see p. 188.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Gabon, Congo, Zaïre
+Nigeria, Cameroon, Gabon, Congo, Zaire
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts ombrophiles sempervirentes et semi-décidues et galeries forestières
+Rain forests evergreen and semi-deciduous and forest galleries
 
 ## Specimens examined
 

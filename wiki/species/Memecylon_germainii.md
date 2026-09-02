@@ -17,13 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub or small tree 3 to 4 m tall; branches rounded, relatively robust. Leaves thick, dull on both faces; petiole thick, 1 to 2 mm long; blade broadly elliptic, 2–5 × 5–9 cm, broadly rounded at the base and often slightly emarginate on the petiole, obtuse at the apex or obscurely acuminate; midvein scarcely visible above, scarcely prominent below; 5 to 7 transverse veins scarcely or barely visible, or finely prominent on both sides when dry, distinctly oblique; the convergent ones 1 mm from the margin, practically not visible.
 
-Arbuste ou petit arbre de 3 à 4 m; rameaux arrondis, relativement robustes. Feuilles épaisses, ternes sur les 2 faces; pétiole épais, long de 1 à 2 mm; limbe largement elliptique, 2-5 × 5-9 cm, largement arrondi à la base et souvent un peu échancré sur le pétiole, obtus au sommet ou obscurément acuminé; nervure médiane peu visible dessus, peu saillante dessous; de 5 à 7 transversales non ou peu visibles, ou finement saillantes de part et d'autre sur le sec, nettement obliques; les convergentes à 1 mm de la marge, pratiquement non visibles.
+Cymes solitary or paired on recently defoliate nodes, 4 to 6 cm long, branched and spreading to 9 cm, the ultimate peduncles themselves developed and usually 3-flowered; bracts caducous. Flowers with pedicel 3 mm, globular-ellipsoid in the bud, 2.5 × 3 mm; hypanthium equaling half the height, campanulate, with thick wall; calyx truncate, almost absent. Petals white to bluish, triangular-obtuse, 1.8 × 2 mm, base truncate. Anther 1.5 × 0.8 mm; connective conical-acute, well saddled by an elliptic gland; filament 2.5 mm; epigynous chamber with 8 membranous equidistant partitions, reaching the base of the style and the margin of the calyx; style 3.5 mm; ovary 12-ovulate.
 
-Cymes solitaires ou géminées sur les nœuds récemment défeuillés, longues de 4 à 6 cm, ramiﬁées et étalées jusqu’à 9 cm, derniers pédoncules eux-mêmes développés et généralement 3-flores; bractées caduques. Fleurs à pédicelle de 3 mm, globuleuses-ellipsoïdes dans le bouton, 2,5 × 3 mm; hypanthe égal à la demi-hauteur, campanulé, à paroi épaisse; calice tronqué, presque nul. Pétales blancs à bleuâtres, triangulaires-obtus, 1,8 × 2 mm, base tronqué. Anthère 1,5 × 0,8 mm; connectif conique-aigu, bien ensellé par une glande elliptique; filet 2,5 mm; chambre épigyne avec 8 cloisons membraneuses équidistantes, atteignant la base du style et la marge du calice; style de 3,5 mm; ovaire 12-ovulé.
-
-Fruit globuleux ou légèrement déprimé,  $ 10-13 \times 8-10 $ mm; chambre épigyne persistante avec ses cloisons. — Pl. 43, p. 121.
+Fruit globular or slightly depressed, 10–13 × 8–10 mm; epigynous chamber persistent with its partitions. — Pl. 43, p. 121.
 
 ## Type
 
@@ -31,9 +29,7 @@ Germain 5046, Zaïre (holo-, BR; iso-, COI)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce forestière des sols inondables; se reconnaît à ses cymes multiflores sur les nœuds défeuillés et à ses feuilles obtuses aux 2 extrémités.
+Forest species of inundable soils; recognized by its multiflorous cymes on defoliate nodes and its leaves obtuse at both ends.
 
 ## Specimens examined
 

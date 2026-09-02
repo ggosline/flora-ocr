@@ -17,9 +17,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bull. Soc. Bot. Suisse ( Ber. Schweiz. Bot. Ges. ) 73 : 212 (1963). Gomphia axillaris Oliv., Fl. trop. Afr. 1 : 322 (1868). Ouratea axillaris (Oliv.) Engl., Bot. Jahrb. Syst. 33 : 260 (1903). Ouratea mildbraedii Gilg, in Mildbraed, Wiss. Erg.Deut. Zentr.-Afr. Exped., Bot. 6(2) : 558, t. 75 (1913). Ouratea morsonii Hutch. & Dalz., Fl. W. trop. Afr. 1(1) : 217 (1927).
+Bull. Soc. Bot. Suisse (Ber. Schweiz. Bot. Ges.) 73: 212 (1963). Gomphia axillaris Oliv., Fl. trop. Afr. 1: 322 (1868). Ouratea axillaris (Oliv.) Engl., Bot. Jahrb. Syst. 33: 260 (1903). Ouratea mildbraedii Gilg, in Mildbraed, Wiss. Erg. Deut. Zentr.-Afr. Exped., Bot. 6(2): 558, t. 75 (1913). Ouratea morsonii Hutch. & Dalz., Fl. W. trop. Afr. 1(1): 217 (1927).
 
 ## Notes
 

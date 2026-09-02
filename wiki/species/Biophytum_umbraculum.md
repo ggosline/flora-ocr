@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-B . sessile (Buch.-Ham. ex Baill.) R.Knuth in Engl., Pflanzenr. 95 , Oxalidac . 4(130) : 406 (1930). B . rotundifolium Delhaye, Bull. Séances Inst . Roy . Col . Belge 33 : 855, t. 1, f. 22, 23, 28, 29 (1952). Herbe annuelle de 4–25 cm de hauteur ; tige simple, densément pubescente vers le sommet, sans cicatrices foliaires . Feuilles 1–3,5 cm de longueur, sensitives ; pétiole et rachis pubescents ; folioles 2–8(–10) paires, subsessiles, à limbe papyracé, falciforme à ovale, côté proximal tronqué à ovale, côté distal obové, 2–6 × 2–3,5 mm, glabre , base cordée, sommet arrondi à mucroné ; nervures latérales 2–9 paires , proéminentes sur le sec , formant un angle droit avec la médiane. Inflorescence : pédoncule 1–4 cm, pubescent ; bractées lancéolées, 1–3 mm de longueur, pubescentes, 1-nervées, sommet acuminé. Fleur : pédicelle 1–3 mm, articulé à 1/3 au-dessus de la base, pubescent ; sépales lancéolées, 1–3 mm de longueur, pubescents extérieurement, sommet acuminé à longuement acuminé, 1–7 nervés ; pétales 4–5 mm de longueur, connés à la base, jaune-orangé, rétus au sommet ; filets en un cycle long de 3 mm, un cycle de 1 mm. Capsule obovoïde-oblongue, ± 3 mm de longueur. Graines 2–5, aplaties, 1 mm de longueur.
+B . sessile (Buch.-Ham. ex Baill.) R.Knuth in Engl., Pflanzenr. 95 , Oxalidac . 4(130) : 406 (1930). B . rotundifolium Delhaye, Bull. Séances Inst . Roy . Col . Belge 33 : 855, t. 1, f. 22, 23, 28, 29 (1952). Annual herb 4–25 cm in height; stem simple, densely pubescent towards the apex, without leaf scars. Leaves 1–3.5 cm in length, sensitive; petiole and rachis pubescent; leaflets 2–8(–10) pairs, subsessile, with papyraceous limb, falciform to ovate, proximal side truncate to ovate, distal side obovate, 2–6 × 2–3.5 mm, glabrous, base cordate, apex rounded to mucronate; lateral veins 2–9 pairs, prominent when dry, forming a right angle with the midvein. Inflorescence: peduncle 1–4 cm, pubescent; bracts lanceolate, 1–3 mm in length, pubescent, 1-nerved, apex acuminate. Flower: pedicel 1–3 mm, articulate at 1/3 above the base, pubescent; sepals lanceolate, 1–3 mm in length, pubescent externally, apex acuminate to long-acuminate, 1–7 nerved; petals 4–5 mm in length, connate at the base, yellow-orange, retuse at the apex; filaments in one long cycle of 3 mm, one cycle of 1 mm. Capsule obovoid-oblong, ± 3 mm in length. Seeds 2–5, flattened, 1 mm in length.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-très répandue en Afrique, trouvée dans les zones de forêts et de savanes tropicales sèches, ainsi qu’en Afrique du Sud ; au Gabon, présente dans les provinces suivantes : Estuaire, Ngounié, Nyanga et Ogooué-Ivindo
+very widespread in Africa, found in zones of tropical dry forests and savannas, as well as in South Africa; in Gabon, present in the following provinces: Estuaire, Ngounié, Nyanga and Ogooué-Ivindo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+savannas, stream margins, marshes, pastures. Use: A decoction of peeled roots in hot water serves as a purgative for children. B: Akoègninou et al. (2006), Lourteig (1981), Veldkamp (1971), Wilczek BIBLIOGRAPHY (1958)
 
-savanes, bords des ruisseaux, marais, pâturages. Usage : La décoction des racines pelées dans l’eau chaude, sert comme purgatif pour les enfants. B : Akoègninou et al. (2006), Lourteig (1981), Veldkamp (1971), Wilczek IBLIOGRAPHIE (1958)
-
-Chase 814 .). Reproduite avec la permission du Board of Trustees of the Royal Botanic Gardens, Kew (©), à partir de Kabuye (1971) l.c.
+Chase 814 .). Reproduced with the permission of the Board of Trustees of the Royal Botanic Gardens, Kew (©), from Kabuye (1971) l.c.
 
 ## Notes
 

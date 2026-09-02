@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; A. CHEV., Expl. Bot. Afr. Occ. Fr. 1 : 37 (1920). TYPE : Mann 805, Sierra Leone (holo-).
 
 – Caloncoba echinata (OLIV.) GILG, EBJ 40 : 464 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 161 (1927) ; SLEUMER, EBJ 94 (1) : 122 (1974).
 
-Arbre (8 m de haut) ou arbuste ; rameaux brunâtres, glabres.
+Tree (8 m tall) or shrub; branchlets brownish, glabrous.
 
-Feuilles à stipules caduques ; pétiole de 1,5-3 cm de long ; limbe oblong ou elliptique-oblong, rarement obovale, cunée à arrondi à la base, acuminé au sommet, 10-25 × 5-10 cm, glabre ; nervures secondaires 5-7 paires.
+Leaves with caducous stipules; petiole 1.5–3 cm long; lamina oblong or elliptic-oblong, rarely obovate, cuneate to rounded at base, acuminate at apex, 10–25 × 5–10 cm, glabrous; secondary nerves 5–7 pairs.
 
-Fleurs en racèmes axillaires ou supra-axillaires, à pédicelle de 3-5 mm de long, accrescent (jusqu'à 2 cm sous le fruit) ; sépales 3, ovales-oblongs, 7 × 3-4 mm, glabres ; pétales 6-7, oblongs, ± onguiculés ; étamines nombreuses, à filet 3-3,5 mm de long ; ovaire échinulé, à 3-4 placentas pluriovulés ; style de 6 mm de long, à stigmate 3-4-lobé.
+Flowers in axillary or supra-axillary racemes, with pedicel 3–5 mm long, accrescent (up to 2 cm under the fruit); sepals 3, oval-oblong, 7 × 3–4 mm, glabrous; petals 6–7, oblong, ± unguiculate; stamens numerous, with filament 3–3.5 mm long; ovary echinulate, with 3–4 pluriovulate placentas; style 6 mm long, with 3–4-lobed stigma.
 
-Fruits : capsules globuleuses, de 3-4 cm de diamètre, à aiguillons de 2 cm de long, ± déhiscentes ; graines nombreuses. - Pl. 16, 9-16, p. 53.
+Fruits: globose capsules, 3–4 cm in diameter, with prickles 2 cm long, ± dehiscent; seeds numerous. – Pl. 16, 9–16, p. 53.
 
 ## Type
 
@@ -37,15 +35,11 @@ Mann 805, Sierra Leone (holo-, K)
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Guinée, Sierra Leone, Liberia, Côté d'Ivoire, Ghana, Dahomey, Nigeria, Gabon
+Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Dahomey, Nigeria, Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts secondaires
+Secondary forests
 
 ## Specimens examined
 

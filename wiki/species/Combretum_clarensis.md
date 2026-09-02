@@ -16,35 +16,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Large liana. Inflorescence paniculate. Flowers tetramerous sessile. Receptacle superior infundibuliform. Petals absent. Fruit unknown. Species allied to C. ndjoleensi. TYPE: Gabon, between Cap Esterias and Cap Santa Clara (fl., August) Reitsma 1338 (holo-WAG, iso-LBV).
 
-Liana magna. Inflorescentia paniculata. Flores tetrameri sessiles. Receptaculum superius infundibulare. Petala absentia. Fructus ignotus. Species affinis C. ndjoleensi. TYPE : Gabon, entre Cap Esterias et Cap Santa Clara (fl., Août) Reitsma 1338 (holo-WAG, iso-LBV).
+Liane. Bark peeling from branches in long fibrous strips.
 
-Liane. Écorce se détachant des branches en longues lanières fibreuses.
+Leaves opposite; petiole ≤ 10 mm; blade elliptic ≤ 10 × ≤ 6 cm; large lateral veins 6–9 pairs, depressed on upper surface, glabrous domatia; base of blade cordate or subcordate; apex acute to acuminate.
 
-Feuilles opposées ; pétiole ≤ 10 mm ; limbe elliptique ≤ 10 x ≤ 6 cm ; de grandes nervures latérales 6-9 paires, déprimées à la face supérieure, domaties glabres ; base du limbe cordée ou subcordée ; sommet aigu à acuminé.
+Scales circular, diameter 100–140 µm.
 
-Écailles circulaires, diamètre 100-140 µm.
+Inflorescences in axillary panicles ≤ 5 cm; rachis velvety brown; bracts barely visible.
 
-Inflorescences en panicules axillaires ≤ 5 cm ; rachis brun velouté ; bractées peu visibles.
+Flowers 4-merous, sessile, protogynous. Receptacle covered with a dense indumentum of grey-silvery hairs: the inferior, 2 mm high; and the superior, infundibuliform, height 4 mm, width 3 mm. Petals absent. Stamens exserted 4 mm; anthers 0.4 mm long, yellow. Style exserted 3 mm.
 
-Fleurs 4-mères, sessiles, protogynes. Réceptacle couvert d'un indument dense de poils gris-argenté : l'inférieur, haut de 2 mm ; et le supérieur, infundibiliforme, hauteur 4 mm, largeur 3 mm. Pétales absents. Eta-mines exsertes de 4 mm ; anthères longues de 0,4 mm, jaunes. Style exsert de 3 mm.
+Fruit unknown. – Pl. 7, p. 27.
 
-Fruit inconnu. – Pl. 7, p. 27.
-
-Espèce proche de C. ndjoleense et C. aphanopetalum, elles aussi apétales mais avec des épis, et non des panicules axillaires.
+Species close to C. ndjoleense and C. aphanopetalum, also apetalous but with spikes, not axillary panicles.
 
 ## Distribution
-
-<!-- TODO:translate — source text below, verbatim and untranslated -->
 
 Gabon
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses humides
+Dense humid forests
 
 ## Specimens examined
 
@@ -54,9 +48,7 @@ McPherson 15433, au S. de l'Estuaire du Gabon, le long de la rivière Remboué, 
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La récolte stérile Breteler & al. 9791, Rabi-Koungasonta (st.), WAG, appartient peut-être à cette espèce
+The sterile collection Breteler & al. 9791, Rabi-Koungasonta (st.), WAG, perhaps belongs to this species
 
 ## Figures
 

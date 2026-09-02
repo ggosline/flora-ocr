@@ -15,21 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Pedicels furnished with white hairs as long as the spikelet; upper glume reduced to a scale ..... D. diagonalis
 
-1. Pédicelles munis de poils blancs aussi longs que l'épillet ; glume supérieure réduite à une écaille ..... D. diagonalis
+1. Pedicels glabrous or pubescent; upper glume well developed.
 
-1. Pédicelles glabres ou pubescents ; glume supérieure bien développée.
+2. Spikelets grouped by 3 or more; rachis flattened, winged ..... D. longiflora
 
-2. Épillets groupés par 3 ou plus ; rachis aplati, aile ..... D. longiflora
+3. Racemes distributed along the main axis; upper glume as long as the spikelet ..... D. leptorachis
 
-3. Racèmes répartis le long de l'axe principal ; glume supérieure aussi longue que l'épillet ..... D. leptorachis
+3. Racemes digitate or subdigitate, longer than the main axis; upper glume shorter than the spikelet:
 
-3. Racèmes digités ou subdigités, plus longs que l'axe principal ; glume supérieure plus courte que l'épillet :
+4. Annual grass; rachis often furnished with long hairs; spikelets elliptic to lanceolate, width/length = 1/5 to 1/4 ..... D. horizontalis
 
-4. Herbe annuelle ; rachis souvent muni de longs poils ; épillets elliptiques à lancéolés, largeur/longeur = 1/5 à 1/4 ..... D. horizontalis
-
-4. Herbe pérenne, rhizomateuse ; rachis sans longs poils ; épilets ovales à elliptiques, largeur/longeur = 2/5 ..... D. abyssinica
+4. Perennial grass, rhizomatous; rachis without long hairs; spikelets ovate to elliptic, width/length = 2/5 ..... D. abyssinica
 
 17.1 Digitaria abyssinica (A. Rich.) Stapf
 
@@ -41,13 +39,13 @@ Cam.: 323; Gram. CB.: 218.
 
 – D. scalarum (Schweinf.) Chiov. – Fl. Zamb. 10(3) : 159, tab. 45.
 
-Certains auteurs considèrent D. abyssinica et D. scalarum comme deux espèces distinctes. Les spécimens du Gabon se rapportent tous à la seconde.
+Some authors consider D. abyssinica and D. scalarum as two distinct species. The specimens from Gabon all belong to the latter.
 
 17.2 Digitaria diagonalis (Nees) Stapf
 
 FWTA : 450 ; FTEA : 624, fig. 145 ; Fl. Zamb. 10(3) : 140, tab. 38 ; Gram. Cam. : 312 ; Gram. CB. : 209, fig. 24.
 
-– Digitaria diagonalis (Nees) Stapf var. hirsuta (De Wild. & T. Durand) Troupin – FWTA : 450, fig. 444 ; FTEA : 626 ; Poac. CI. : 422, 423.
+– Digitaria diagonalis (Nees) Stapf var. hirsuta (De Wild. & T. Durand) Troupin – FWTA : 450, fig. 444 ; FTEA : 626 ; Poac. Cl. : 422, 423.
 
 – D. diagonalis (Nees) Stapf var. uniglumis (Hochst. ex A. Rich.) Pilg. – FTEA : 626
 
@@ -55,7 +53,7 @@ FWTA : 450 ; FTEA : 624, fig. 145 ; Fl. Zamb. 10(3) : 140, tab. 38 ; Gram. Cam. 
 
 17.3 Digitaria horizontalis Willd.
 
-Fl. Gab.: 47, Pl. 7 ; FACB 2 : 21, Pl. 19 ; FWTA : 453 ; Gram. Cam. : 325 ; Poac. CI. : 446, 447 ; Gram. CB. : 220.
+Fl. Gab.: 47, Pl. 7 ; FACB 2 : 21, Pl. 19 ; FWTA : 453 ; Gram. Cam. : 325 ; Poac. Cl. : 446, 447 ; Gram. CB. : 220.
 
 ## Specimens examined
 

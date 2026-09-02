@@ -17,29 +17,21 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. trop. Afr. 4 (1) : 205 (1902). Grande liane ; rameaux glabres RXSUHVTXH Feuille SUHVTXHJODEUHSpWLROHGH±PP OLPEHHOOLSWLTXHjRERYDOHGH±î±FPFXQppjODEDVHVRXYHQWEUXVTXHPHQW contracté en une pointe étroite au sommet, coriace ; nervures secondaires 7 à 15 paires, presque droites, formant un angle relativement étroit avec la médiane , nervation tertiaire scalariforme, formant le plus souvent des angles droits avec la médiane ; domaties poilues. ,QÀRUHVFHQFH axillaire et souvent aussi terminale, SDXFLÀRUHOkFKH ; pédoncule de 2,5–7 cm. Fleur fortement parfumée ; pédicelle atteignant 8 mm ; calice à lobes longs de 2,5–4 mm, glabres, avec 1 ou 2 collétères internes à la base près de leur bord ; corolle blanche à jaune pâle avec des lignes rouges internes, glabre à l’extérieur à l’exception de quelques poils au bord des lobes jWXEHHQIRUPHG¶XQODUJHHQWRQQRLUORQJGHPPjOREHVpWDOpVSUHVTXH rubanés, longs de 10–16 mm ; étamines insérées près de la base du tube, incluses, anthère longue de ± 4 mm ; ovaire poilu à l’apex. Fruit inconnu.
+Fl. trop. Afr. 4 (1) : 205 (1902). Large liana; branches glabrous. Leaf nearly glabrous, petiole of ± mm, limb elliptic to obovate of ± to ± cm, cuneate; base often abruptly contracted to a narrow point at apex, coriaceous; secondary nerves 7 to 15 pairs, nearly straight, forming a relatively narrow angle with the midvein, tertiary venation scalariform, forming mostly right angles with the midvein; domatia hairy. Inflorescence axillary and often also terminal, lax few-flowered; peduncle of 2.5–7 cm. Flower strongly fragrant; pedicel reaching 8 mm; calyx with lobes 2.5–4 mm long, glabrous, with 1 or 2 colleters internal at the base near their edge; corolla white to pale yellow with red internal lines, glabrous on the outside except for a few hairs on the edge of the lobes; tube funnel-shaped, wide, ± mm long, with lobes nearly ribbon-like, 10–16 mm long; stamens inserted near the base of the tube, included, anther ± 4 mm long; ovary hairy at the apex. Fruit unknown.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-de la Sierra Leone au Ghana et au Nigéria, au Cameroun et au Gabon ; au Gabon, connu par un seul spécimen, Le Testu 7913 , de l’Ogooué-Lolo
+from Sierra Leone to Ghana and Nigeria, in Cameroon and Gabon; in Gabon, known from a single specimen, Le Testu 7913, from the Ogooué-Lolo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire et secondaire ; au Gabon à ± 300 m d’altitude, ailleurs à basse altitude
+primary and secondary forest; in Gabon at ± 300 m altitude, elsewhere at low altitude
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+This species was included in B. welwitschii in the revision of van Dilst (1995). Plants of B. calophylla from Sierra Leone up to Ghana have a leaf form slightly different from those found further east, but there are few differences in the inflorescence and flowers. B : Huber (1963), Stapf (1902). BIBLIOGRAPHY
 
-Cette espèce était incluse dans B. welwitschii dans la révision de van Dilst (1995). Les plantes de B. calophylla GHSXLVOD6LHUUD/HRQHMXVTX¶DX*KDQDRQWXQHIRUPHGHIHXLOOHOpJqUHPHQWGLIIpUHQWHGH FHOOHVWURXYpHVSOXVjO¶HVWPDLVLO\DSHXGHGLIIpUHQFHVGDQVO¶LQÀRUHVFHQFHHWOHVÀHXUV B : Huber (1963), Stapf (1902). IBLIOGRAPHIE
-
-Emwiogbon 66556 2 2 : Leeuwenberg 4109 2 5 : Leeuwenberg 4081 2 7, 8 : Leeuwenberg 10715 ). Dessin par Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduit à partir de van Dilst (1995).
+Emwiogbon 66556 2 2 : Leeuwenberg 4109 2 5 : Leeuwenberg 4081 2 7, 8 : Leeuwenberg 10715 ). Drawing by Yuen Fang Tan, Naturalis Biodiversity Center (©), reproduced from van Dilst (1995).
 
 ## Notes
 

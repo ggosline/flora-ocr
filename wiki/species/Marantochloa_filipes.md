@@ -25,13 +25,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — F.W.T.A., 2:338 (1936).
 
-Herbe rhizomateuse, sarmenteuse, ramifiée, jusqu'à 2 m de long. Feuilles hometropes, limbe blanchâtre mat à la face inférieure, ovale-lancéolé, brusquement acuminé au sommet, arrondir à la base, de 7-15 × 3-7 cm, glabre. Callus d'environ 5 mm de long, le reste du pétiole passant presque immédiatement à la gaine.
+Rhizomatous herb, sarmentose, branched, up to 2 m long. Leaves homeotropic, lamina whitish and dull on the lower surface, ovate-lanceolate, abruptly acuminate at the apex, rounded at the base, 7-15 × 3-7 cm, glabrous. Callus approximately 5 mm long, the rest of the petiole passing almost immediately into the sheath.
 
-Inflorescence en panicule très grêle, peu ramifiée, formée de 1 à 3 racèmes longuement pédonculés, à 1 à 3 entre-nceuds filiformes toujours plus longs que les bractées. Celles-ci de 25-30 × 3 mm axillant généralement une seule cyme biflore. Pédoncule commun de 25 à 30 mm, pédicelle le plus long ± 10 mm. Sépales scarieux, de 5-7 mm, corolle à peine plus longue, blanc-rosé. Ovaire pubescent, fruit ± pubescent avec périanthe persistant, rouge à maturité, devenant jaune mais peu ridé à sec, d'environ 7 mm de diamètre. Graines brun-noir, arille entier, orangé.
+Inflorescence in a very slender panicle, sparsely branched, formed of 1 to 3 long-pedunculate racemes, with 1 to 3 filiform internodes always longer than the bracts. These 25-30 × 3 mm, generally subtending a single biflorous cyme. Common peduncle 25 to 30 mm, longest pedicel ± 10 mm. Sepals scarious, 5-7 mm, corolla barely longer, pale pink. Ovary pubescent, fruit ± pubescent with persistent perianth, red at maturity, becoming yellow but little wrinkled when dry, approximately 7 mm in diameter. Seeds dark brown, aril entire, orange.
 
 ## Type
 
@@ -39,11 +37,9 @@ Vogel 163, Fernando-Po (B)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Species distributed from Guinea to Congo (Léo.), generally frequent in the understory of non-swampy forests.
 
-Espèce répartie de la Guinée au Congo (Léo.), généralement fréquente dans les sous-bois des forêts non marécageuses.
-
-Noms vernaculaires (d’après Walker et Sillans) : Ozolo-w-iwolo (Nkomi) ; Ndonghe-bié (Fang).
+Vernacular names (after Walker and Sillans): Ozolo-w-iwolo (Nkomi); Ndonghe-bié (Fang).
 
 ## Specimens examined
 

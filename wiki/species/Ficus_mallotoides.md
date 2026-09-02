@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrubs (epiphytes) or trees up to 6 m. Leafy branchlets 4-6 mm thick, very minutely puberulent, pale brown and hollow when dry; axillary buds often calyptrate present, leaving ± visible triangular scars. Leaves arranged in spirals. Blade broadly ovate to elliptic to cordate or suborbicular, 6-22 cm long, 5.5-17.5 cm wide, coriaceous to subcoriaceous, apex rounded to obtuse, base deeply cordate to subcordate to truncate, margin entire; both surfaces glabrous; veins almost plane above, ± prominent below, 7-10 pairs of lateral veins, including 2 (-3) pairs of basal veins, the lateral veins may be forked far from the margin; glandular spot most often visible. Petiole 1.5-7.5 (-10) cm long, 1.5-3.5 mm thick, glabrous or sparsely puberulent. Stipules 1-3.5 mm long, externally (very minutely) puberulent to almost glabrous, internally pubescent appressed (to puberulent), caducous to subpersistent.
 
-Arbustes (épiphytes) ou arbres jusqu'à 6 m. Rameaux feuillés épais de 4-6 mm, très petitement pubérulents, marron (pâle) et creux à sec ;
+Figs in pairs in the leaf axils or just below the leaves, initially enveloped by a calyptrate structure (formed by the stipules, and thus densely pilose inside), up to 1.5 cm long, sessile; basal bracts 2, semicircular, 2-2.5 mm long, densely puberulent, persistent; receptacle ± globose depressed, approximately 1.5-2 cm in diameter when dry, puberulent, greenish (with orange spots) at maturity, ostiole flat to weakly prominent bilabia.
 
-souvent bourgeons axillaires calyptrés présents, laissant des cicatrices triangulaires ± visibles. Feuilles disposées en spirales. Limbe largement ové à elliptique à cordé ou à suborbiculaire, long de 6-22 cm, large de 5,5-17,5 cm, coriace à subcoriace, sommet arrondi à obtus, base profondément cordée à subcordée à tronquée, bord entier ; les deux faces glabres ; nervures presque planes dessus, ± saillantes dessous, 7-10 paires de nervures latérales, inclus 2 (-3) paires de nervures basales, les nervures latérales peuvent être fourchues loin du bord ; tache glanduleuse le plus souvent visible. Pétiole long de 1,5-7,5 (-10) cm, épais de 1,5-3,5 mm, glabre ou éparsement pubérulent. Stipules longues de 1-3,5 mm, extérieurement (très petitement) pubérulentes à presque glabres, intérieurement pubescentes apprimées (à pubérulentes), caduques à subpersistantes.
-
-Figues par paires dans les aisselles des feuilles ou juste sous les feuilles, initialement enveloppées par une structure calyptrée (formée par les stipules, et donc l'intérieur densément poilu), longue jusqu'à 1,5 cm, sessile ; bractées basales 2, semi-circulaires, longues de 2-2,5 mm, densément pubérulentes, persistantes ; réceptacle ± globuleux déprimé, d'un diamètre de 1,5-2 cm environ à sec, pubérulent, verdâtre (avec des taches orange) à maturité, ostiole plat à faiblement saillant bilabie.
-
-Fleurs pistillées avec un périanthe bi- ou tripartite à bi- ou trifide, haut de 2-2,5 mm environ ; fleurs à graines sessiles ou pédicellées jusqu'à 1 mm, style long de (1,5-) 2-3 mm, mince ; fleurs à galles pédi- cellées jusqu'à 1-1,5 mm, style long jusqu'à 0,5-1 mm. Fruits ellip- soides longs de 1-1,5 mm environ, fruits à galles à stipe long de 1-2 mm ; fruits distinctement bicolores. Fleurs staminées avec un périanthe bipartite haut de 2 mm environ, filet long de 1,5 mm environ, mince, anthère longue de 1 mm environ. Bractées interflorales longues de 0,5-1,5 mm. - Pl. 50, p. 177.
+Pistillate flowers with a bi- or tripartite to bi- or trifid perianth, approximately 2-2.5 mm high; seed flowers sessile or pedicellate up to 1 mm, style (1.5-) 2-3 mm long, thin; gall flowers pedicellate up to 1-1.5 mm, style up to 0.5-1 mm long. Fruits ellipsoid approximately 1-1.5 mm long, gall fruits with stipe 1-2 mm long; fruits distinctly bicolorous. Staminate flowers with a bipartite perianth approximately 2 mm high, filament approximately 1.5 mm long, thin, anther approximately 1 mm long. Interfloral bracts 0.5-1.5 mm long. - Pl. 50, p. 177.
 
 ## Type
 
@@ -33,9 +29,7 @@ Mildbraed 4379, Cameroun, Bangé, 50 km S Yokadouma (holo-, B ; iso-, HBG, K)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-L’espèce s’étend du Cameroun au Zaïre (Kasai) à travers le Gabon et le Congo, dans la forêt jusqu’à une altitude de 700 m.
+The species extends from Cameroon to Zaïre (Kasai) across Gabon and Congo, in forest up to an altitude of 700 m.
 
 ## Specimens examined
 

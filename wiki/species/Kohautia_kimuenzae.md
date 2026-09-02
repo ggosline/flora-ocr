@@ -21,13 +21,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Erect herb with slender cylindrical stems appearing solitary or in small number on a thickened, sinuous, blackish radical system, 1.5–3 mm wide when dry. Height 25–40 cm; branches very few above the base of the stem; 2–3 lower internodes finely scabrous; stem glabrous above 3–6 cm. Stipules glabrous connate at the petiolar bases, with 1–3(4) teeth generally less than 1 mm. Leaves linear, 10–55 × 0.5–2 mm, glabrous and flat.
 
-Herbe dressée à tiges cylindriques grèles apparaissant de façon solitaire ou en petit nombre sur un appareil radicalaire épaissi, sinueux, noirâtre, large de 1,5-3 mm à sec. Hauteur 25-40 cm; ramifications très peu nombreuses au-dessus de la base de la tige; 2-3 entrenœuds inférieurs finement scabres : tige glabre au-dessus de 3-6 cm. Stipules glabres connées aux bases pétio-laires, à 1-3(4) dents généralement inférieures à 1 mm. Feuilles linéaires, de 10-55 × 0,5-2 mm, glabres et planes.
+Inflorescence terminal lax, bearing (2)4–10 flowers arranged in a cyme on a long slender peduncle. Pedicels very unequal and accrescent during fruiting, 0.5 to 5–20 mm. Flowers tetramerous, rarely trimerous. Ovary 1–1.5 mm, microscabrous; calycine teeth narrow 0.5–1.2 mm long, semi-erect. Corolla tube 8–14 mm long; lobes 3–4.5 × 1 mm, oblong obtuse, micropubescent externally. Anthers apiculate 2 mm.
 
-Inflorescence terminale lâche, portant (2)4-10 fleurs disposées en cyme sur un long pédoncule grêle. Pédicelles très inégaux et accrescents en cours de fructification, de 0,5 à 5-20 mm. Fleurs tétramères, rarement trimères. Ovaire de 1-1,5 mm, microscabre; dents calycinales étroites de 0,5-1,2 mm de long, semi-érigées. Tube de la corolle long de 8-14 mm; lobes de 3-4,5 × 1 mm, oblongs obtus, micropubérulents extérieurement. Anthères apiculées de 2 mm.
-
-Fruit globuleux de 3-4 mm, baillant et ± déchiré latéralement en herbier.
+Fruit globose 3–4 mm, gaping and ± torn laterally in herbarium specimens.
 
 ## Type
 
@@ -35,13 +33,11 @@ J. Gillet 2115, Kimuenza, près de Léopoldville (BR, non vu). Plusieurs spécim
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Batéké country, environs of Leopoldville, Niari region and SE Gabon. In savannas with stunted trees and dry grasslands, on generally sandy soil.
 
-Pays Batéké, environs de Léopoldville, région du Niari et SE Gabon. En savanes à arbres rabougris et prairies sèches, sur sol généralement sablonneux.
+GABONESE MATERIAL (or bordering):
 
-Matériel GABONAIS (ou limitrophe) :
-
-Le Testu : 8081, savanes de Rwanda (= Moanda) (fl. mai). Thollon : 103, Franceville; 1062, Comba, Niari (fl. juin).
+Le Testu: 8081, savannas of Rwanda (= Moanda) (fl. May). Thollon: 103, Franceville; 1062, Comba, Niari (fl. June).
 
 ## Figures
 

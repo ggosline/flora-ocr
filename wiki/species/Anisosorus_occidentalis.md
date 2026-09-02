@@ -20,13 +20,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — C. Chr. in Perrier, Cat., Pl. Madag. Ptér. : 54 (1931). — Tard., Mém. IFAN 28 : 85 (1953). — Alston, FWTA : 33 (1959).
 
-Rhizome ... Pétiole épais, straminé-roussâtre, nu, long de 40-60 cm. Limbe deltoïde, tripinnatifide, ayant à peu près la
-
-même longueur que le pétiole. Pennes inférieures opposées, espacées d'environ 10 cm, longuement pétiolées, les supérieures alternes, sessiles. Pennes inférieures atteignant 15-18 cm de large, divisées sur les 2/3 de leur largeur, en pinnules lancéolées, longues de 5-7 cm, longuement effilées, à base tronquée, lobées sur 2,3 de leur largeur. Lobes ultimes arrondis, entiers. Costae des pinnules canaliculés, décurrents sur le rachis. Surfaces glabres. Rachis, costae et costulae, portant un très court tomcentum roux. Nervures pennées dans les lobes ultimes, généralement libres, les nervures basales de chaque groupe rarement anastomosées en une aréole triangulaire sous le sinus. Sores localisés dans les sinus. Spores tétraédriques, finement granuleuses.
+Rhizome ... Petiole thick, straw-coloured to russet, glabrous, 40–60 cm long. Lamina deltoid, tripinnatifid, approximately the same length as the petiole. Lower pinnae opposite, spaced about 10 cm apart, long-petiolate, upper pinnae alternate, sessile. Lower pinnae reaching 15–18 cm wide, divided for 2/3 of their width into lanceolate pinnules, 5–7 cm long, long-attenuate, with truncate base, lobed for 2/3 of their width. Ultimate lobes rounded, entire. Costae of pinnules channelled, decurrent on the rachis. Surfaces glabrous. Rachis, costae and costulae bearing very short russet tomentum. Veins pinnate in the ultimate lobes, generally free, the basal veins of each group rarely anastomosing in a triangular areole beneath the sinus. Sori localized in the sinuses. Spores tetrahedral, finely granulate.
 
 ## Type
 

@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+— L., Sp. Pl. 2: 1069 (1753). — Tard., Mém. IFAN 28: 86 (1953). — Alston, FWTA: 36 (1959).
 
-— L., Sp. Pl. 2 : 1069 (1753). — Tard., Mém. IFAN 28 : 86 (1953). — Alston, FWTA : 36 (1959).
-
-Rhizome dressé; frondes en touffes. Fronde jeune entière. Fronde adulte de 1 à 2 m de haut, à pétiole long de 30-50 cm, rigide, nu. Limbe penné, oblong- lancéolé, long de 50 cm à 2 m, à pennes lancéolées, longues de 20-30 cm sur 3-5 de large, alternes, espacées d'environ 3 cm, à base cunéiforme-oblique, extrémité arrondie-obtuse, marges entières, les supérieures sessiles, les inférieures pétiolulées. Costa très surélévé à la face inférieure; nervilles souvent très peu apparentes, formant des aréoles sans nervilles incluses. Pennes fertiles très légèrement plus étroites, entièrement recouvertes par les sporanges à la face inférieure.
+Rhizome erect; fronds in clusters. Young frond entire. Adult frond 1 to 2 m tall, with petiole 30–50 cm long, rigid, naked. Blade pinnate, oblong-lanceolate, 50 cm to 2 m long, with lanceolate pinnae, 20–30 cm long by 3–5 cm wide, alternate, spaced approximately 3 cm apart, with cuneiform-oblique base, rounded-obtuse apex, entire margins, the upper ones sessile, the lower ones petiolulate. Costa very prominent on the lower surface; venules often very inconspicuous, forming areoles without included venules. Fertile pinnae very slightly narrower, entirely covered by sporangia on the lower surface.
 
 ## Type
 
@@ -33,11 +31,9 @@ herb. Linné, 1767
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 Pantropical.
 
-Dans les parties les plus sèches de la mangrove.
+In the driest parts of the mangrove.
 
 ## Specimens examined
 

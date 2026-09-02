@@ -16,27 +16,23 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+1. Spikelets 6-7 mm long; awns 10-20 mm long; robust grass in large tufts ..... L. phragmitoides
 
-1. Épilets longs de 6-7 mm ; arêtes longues de 10-20 mm ; herbe robuste
+1. Spikelets 8-14 mm long; awns 15-50 mm long:
 
-en grandes touffes ..... L. phragmitoides
+2. Panicle spiciform, dense and short; awns 15-20 mm long ..... L. vanderystii
 
-1. Épilets longs de 8-14 mm ; arêtes longues de 15-50 mm :
+3. Callus truncate; panicle 20-60 cm long with verticillate branching; leaves 3-15 mm wide ..... L. arundinacea
 
-2. Panicule spiciforme, dense et courte ; arêtes longues de 15-20 mm ..... .L. vanderystii
-
-3. Callus tronqué ; panicule longue de 20-60 cm à ramification verticillée ; feuilles larges de 3-15 mm ..... L. arundinacea
-
-3. Callus bidenté ; panicule longue de 10-30 cm, ramifications rarement verticillées ; feuilles larges de 2-6 mm ..... .L. simplex
+3. Callus bidentate; panicle 10-30 cm long, branches rarely verticillate; leaves 2-6 mm wide ..... L. simplex
 
 34.1 Loudetia arundinacea (A. Rich.) Steud.
 
-Fl. Gab.: 260, Pl. 43; FWTA: 417; FTEA: 417; Fl. Zamb. 10(3): 218; Gram. Cam.: 375, Pl. 81; Poac. CI.: 242, 243; Gram. CB.: 259.
+Fl. Gab.: 260, Pl. 43; FWTA: 417; FTEA: 417; Fl. Zamb. 10(3): 218; Gram. Cam.: 375, Pl. 81; Poac. Cl.: 242, 243; Gram. CB.: 259.
 
 34.2 Loudetia phragmitoides (Peter) C.E. Hubb.
 
-FWTA : 417 ; FTEA : 415 ; Fl. Zamb. 10(3) : 217 ; Gram. Cam. : 372, Pl. 80 ; Poac. CI. : 236, 237 ; Gram. CB. : 261. - Loudetia flammida auct. non (Trin.) C.E. Hubb. : Koechlin, Fl. Gab. : 259.
+FWTA: 417; FTEA: 415; Fl. Zamb. 10(3): 217; Gram. Cam.: 372, Pl. 80; Poac. Cl.: 236, 237; Gram. CB.: 261. - Loudetia flammida auct. non (Trin.) C.E. Hubb.: Koechlin, Fl. Gab.: 259.
 
 ## Specimens examined
 

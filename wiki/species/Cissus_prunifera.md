@@ -17,17 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Climbing vine. Stems ± cylindric to polygonal, deeply grooved, the largest almost winged, up to 4 mm in diameter, glabrous; internodes 4–10 cm long. Tendrils long, glabrous, bifurcate; bracts oval deltoid, about 1 mm long. Stipules regularly oblong elongate, with base distinctly flared, apex rounded, 7–15 mm long, 4–5 mm wide, glabrous. Leaves simple, large. Petiole cylindric, deeply grooved above, 3–8 cm long, 1–2 mm in diameter, glabrous. Blade 8–20 cm long, 6–20 cm wide, oval more or less cordate, base rounded on young leaves, more or less broadly and deeply cordate on mature leaves, apex prolonged by a long narrow acumen, apiculate; margins with few small short teeth; blade and veins glabrous at all ages; venation palmatipinnate, with 3 basal veins; primary and secondary veins prominent as narrow ridges on both faces; texture thick, blade varnished on upper surface.
 
-Liane rampante. Tiges ± cylindriques à polygonales, profondément cannelées, les plus grosses presque ailées, jusqu'à 4 mm de diamètre, glabres; entrenœuds de 4-10 cm de long. Vrilles longues, glabres, bifurquées; bractées ovales deltoïdes, d'environ 1 mm de long. Stipules régulièrement oblongues allongées, à base nettement
+Inflorescences 7–10 cm long, in corymbiform cymes. Peduncle 4–6 cm long; axes and peduncle cylindric, more or less densely pubescent; bracts oval deltoid, 0.5–1.5 mm long, densely pubescent. Flowers cylindric, 3–3.5 mm long, 1.5 mm in diameter. Pedicel 6–10 mm long, densely pubescent. Calyx cupuliform, about 2 mm in diameter, margin with 4 well-marked lobes, densely pubescent. Corolla oblong, rounded at apex, densely pubescent; petals oblong linear, 3.5 mm long. Stamens 3 mm long; anthers oblong, 0.8 mm long. Ovary covered with dense coarse reddish hairs.
 
-évasée, à sommet arrondi, de 7-15 mm de long, de 4-5 mm de large, glabres. Feuilles simples, grandes. Pétiole cylindrique, profondément cannelé sur le dessus, de 3-8 cm de long, de 1-2 mm de diamètre, glabre. Limbe de 8-20 cm de long, de 6-20 cm de large, ovale plus ou moins cordiforme, à base arrondie sur les jeunes feuilles, plus ou moins largement et profondément cordée sur les feuilles adultes, à sommet prolongé par un acumen long et étroit, apiculé; marges présentant de petites dents peu nombreuses courtes; limbe et nervures glabres à tout âge; nervation palmatipennée, à 3 nervures basilaires; nervures primaires et secondaires saillantes en crêtes étroites sur les deux faces; texture épaisse, limbe vernissé à la face supérieure.
+Berries 3.5–5 cm long, 2.5–3.5 cm in diameter, ovoid with a thick prolongation at apex, glabrous. Seed more or less ovoid, distinctly compressed laterally, about 3 cm long, 2 cm wide and 1.5 cm thick; rostrum triangular thick; pits short more or less parallel; dorsal ridge thick; lateral lines distinct; seed coat suberose cracked.
 
-Inflorescences de 7-10 cm de long, en cymes corymbiformes. Pédoncule de 4-6 cm de long; axes et pédoncule cylindriques, plus ou moins densément pubescents; bractées ovales deltoïdes, de 0,5-1,5 mm de long, densément pubescentes. Fleurs cylindriques, de 3-3,5 mm de long, de 1,5 mm de diamètre. Pédicelle de 6-10 mm de long, densément pubescent. Calice cupuliforme, de plus ou moins 2 mm de diamètre, à bord présentant 4 lobes bien marqués, densément pubescent. Corolle oblongue, arrondie au sommet, densément pubescent; pétales oblonges linéaires, de 3,5 mm de long. Étamines de 3 mm de long; anthères oblongues de 0,8 mm de long. Ovaire couvert de gros poils roux denses.
-
-Baies de 3,5-5 cm de long, de 2,5-3,5 cm de diamètre, ovoïdes avec au sommet un prolongement épais, glabres. Graine plus ou moins ovoïde, nettement comprimée latéralement, d'environ 3 cm de long, 2 cm de large et 1,5 cm d'épaisseur; rostre triangulaire épais; fossettes courtes plus ou moins parallèles; crête dorsale épaisse; lignes latérales distinctes; test subéreux craquelé.
-
-Type du Gabon : N. Hallé 1713 (P).
+Type from Gabon: N. Hallé 1713 (P).
 
 ## Specimens examined
 

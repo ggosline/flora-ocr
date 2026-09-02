@@ -17,19 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 WARB., in ENGL. & PRANTL, NPF 3 (6a) : 18 (1893) ; DE WILD. & T. DURAND, BJBB 4 : 171 (1914). TYPES : Barter 1655, Nigeria (lecto-, isolecto-); Mann 1177, Cameroun, 2267, Nigeria et Welwitsch 535, Angola (syn-).
 
 – Oncoba caillei A. CHEV. ex HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 162 (1927). TYPE : Chevalier (leg. Caille) 18148, Guinée (holo-, P!). – Lindackeria dentata (OLIV.) GILG, EBJ 40 : 465 (1908) ; HUTCH., DALZIEL & CHIPP, in HUTCH. & DALZIEL, FWTA 1 (1) : 162 (1927) ; BAMPS, FCBR, Spermat., Flacourt. 1 : 32 (1968) ; SLEUMER, EBJ 94 (3) : 316 (1974).
 
-Arbre (8-10 m de haut) ou arbuste ; rameaux grisâtres à brunâtres ; glabrescents.
+Tree (8-10 m tall) or shrub; branchlets greyish to brownish; glabrescent.
 
-Feuilles à stipules linéaires, caduques ; pétiole de 4-10 cm de long, pubescent ; limbe ovale à obovale, ± arrondi à la base, acuminé au sommet, 8-15-(20) × 4-9 cm, subentier à denté, glabrescent ; nervures secondaires 7-9 paires.
+Leaves with linear, caducous stipules; petiole 4-10 cm long, pubescent; blade oval to obovate, ± rounded at base, acuminate at apex, 8-15-(20) × 4-9 cm, subentire to dentate, glabrescent; secondary veins 7-9 pairs.
 
-Fleurs en panicules lâches, racémiformes, axillaires, pluriflores ; pédicelle de 10-15 mm de long, atteignant 25 mm sous le fruit, articulé à la base, pubescent ; sépales 3, oblongs, 7-8 × 4 mm, pubescents extérieurement ; pétales 10-12, oblongs, 8-10 × 2-2,5 mm, pubescents sur les 2 faces ; étamines nombreuses, à filet court (de 1,5 mm de long), pubescent ; anthères de 4 mm de long, pubescents ; ovaire tomenteux, à 2-3 placentas pluriovulés ; style de 5 mm de long, entier, pubescent à la base.
+Flowers in lax, racemiform, axillary panicles, multiflorous; pedicel 10-15 mm long, reaching 25 mm under the fruit, articulate at base, pubescent; sepals 3, oblong, 7-8 × 4 mm, pubescent externally; petals 10-12, oblong, 8-10 × 2-2.5 mm, pubescent on both surfaces; stamens numerous, with short filament (1.5 mm long), pubescent; anthers 4 mm long, pubescent; ovary tomentose, with 2-3 pluriovulate placentas; style 5 mm long, entire, pubescent at base.
 
-Fruits : capsules globuleuses, de 2-3 cm de diamètre avec les aiguillons, facilement déhiscentes ; graines 2-5, arillées, glabres. - Pl. 16, 1-8, p. 53.
+Fruits: globose capsules, 2-3 cm in diameter with spines, readily dehiscent; seeds 2-5, arillate, glabrous. - Pl. 16, 1-8, p. 53.
 
 ## Type
 
@@ -37,15 +35,11 @@ Barter 1655, Nigeria (lecto-, cf. SLEUMER 1972, K ; isolecto-, P!) ; Mann 1177, 
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Afrique tropicale occidentale et centrale
+West and Central tropical Africa
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Forêts denses, forêts secondaires, galeries forestières
+Dense forests, secondary forests, forest galleries
 
 ## Specimens examined
 

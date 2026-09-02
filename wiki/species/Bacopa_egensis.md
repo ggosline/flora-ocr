@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, atteignant 25–60 cm de longueur ; tige rampante , simple ou peu ramifiée, subglabre, quadrangulaire. Feuille sessile à subsessile ; limbe orbiculaire à spatulé , 15–20 × 7–14 mm, obtus et irrégulièrement crénelé au sommet ; nervation palmée, avec 5 à 7 nervures visibles . Inflorescence : chaque nœud florifère portant 2 fleurs . Fleur sans bractéoles : pédicelle 7–10 mm ; calice à 4 sépales subégaux de 3–4 × 1–2 mm ; corolle bleu violacé, subrotacée, tube 1,5-2 mm de longueur, lèvre supérieure
-
-bipartite et 2,5–3 mm de longueur, lèvre inférieure tripartite et 2,5–3 mm de longueur ; étamines subégales, filet 1,7–2 mm, anthères 1–1,2 mm de longueur. Fruit loculicide, ovoïde, 5 × 2,5 mm.
+Annual herb, reaching 25–60 cm in length; stem creeping, simple or sparingly branched, subglabrous, quadrangular. Leaf sessile to subsessile; limb orbicular to spatulate, 15–20 × 7–14 mm, obtuse and irregularly crenate at the apex; venation palmate, with 5 to 7 visible veins. Inflorescence: each floriferous node bearing 2 flowers. Flower without bracteoles: pedicel 7–10 mm; calyx with 4 subequal sepals 3–4 × 1–2 mm; corolla blue-violet, subrotate, tube 1.5–2 mm in length, upper lip bipartite and 2.5–3 mm in length, lower lip tripartite and 2.5–3 mm in length; stamens subequal, filament 1.7–2 mm, anthers 1–1.2 mm in length. Fruit loculicidal, ovoid, 5 × 2.5 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Nigéria, Cameroun, Gabon, République du Congo et République démocratique du Congo ; aussi en Amérique centrale et Amérique du Sud ; au Gabon, une seule récolte récente du Moyen-Ogooué (Lac Onangué)
+Nigeria, Cameroon, Gabon, Republic of the Congo and Democratic Republic of the Congo; also in Central America and South America; in Gabon, a single recent collection from Moyen-Ogooué (Lac Onangué)
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endroits humides, mares, étangs, lacs et rivières ; au Gabon, à 50 m d’altitude, ailleurs, à 0–500 m. Note taxonomique : Signalée ici pour la première fois au Gabon. B : Fischer (1999). ibliographie
+humid places, pools, ponds, lakes and rivers; in Gabon, at 50 m elevation, elsewhere, at 0–500 m. Taxonomic note: Recorded here for the first time in Gabon. B: Fischer (1999). ibliography
 
 ## Notes
 

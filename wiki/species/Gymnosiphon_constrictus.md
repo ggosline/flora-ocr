@@ -16,21 +16,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe de 5–20 cm de hauteur ; tige simple ou rarement ramifiée, pourpre à rouge. Feuilles étroitement triangulaires à linéaires, 1–2,5 mm de longueur. Inflorescence pauciflore à multiflore, souvent distinctement bifurquée ; bractées 1–2,5 mm de longueur. Fleur 5–10 mm de longueur (ovaire inclus), crème à blanc jaunâtre ; pédicelle 1–3 mm de lon gueur ; tube du périgone 1–2 mm de longueur, avec une constriction apicale , lobes externes largement obovales, trilobés, 4–6 mm de longueur, les internes linéaires, environ 1 × 0,2 mm ; anthères environ 0,7 × 0,7 mm ; ovaire ellipsoïde, 1–2 mm de longueur ; style 1,5–2,5 mm de longueur, stigmates en forme de fer à cheval, chacun munis de 2 appendices filiformes d’environ 4 mm de longueur . Fruit subglobuleux, 3–4 × 3–4 mm. Graines ellipsoïdes, 0,5–0,6 × 0,3–0,4 mm.
+Herb 5–20 cm in height; stem simple or rarely branched, purple to red. Leaves narrowly triangular to linear, 1–2.5 mm in length. Inflorescence pauciflorous to multiflorous, often distinctly bifurcate; bracts 1–2.5 mm in length. Flower 5–10 mm in length (ovary included), cream to yellowish white; pedicel 1–3 mm in length; perianth tube 1–2 mm in length, with an apical constriction, outer lobes broadly obovate, trilobed, 4–6 mm in length, inner ones linear, approximately 1 × 0.2 mm; anthers approximately 0.7 × 0.7 mm; ovary ellipsoid, 1–2 mm in length; style 1.5–2.5 mm in length, stigmas horseshoe-shaped, each bearing 2 filiform appendages approximately 4 mm in length. Fruit subglobose, 3–4 × 3–4 mm. Seeds ellipsoid, 0.5–0.6 × 0.3–0.4 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-endémique du Gabon, connue des Monts de Cristal et de la partie nord du Massif de Chaillu
+endemic to Gabon, known from the Cristal Mountains and the northern part of the Chaillu Massif
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêts primaires, entre 300 et 600 m d’altitude ; fleurissant de novembre jusqu’à janvier. Note taxonomique : voir l’Appendice
+primary forests, between 300 and 600 m in altitude; flowering from November to January. Taxonomic note: see the Appendix
 
 ## Notes
 

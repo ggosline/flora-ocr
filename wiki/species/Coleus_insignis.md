@@ -15,31 +15,19 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe robuste ou arbrisseau, de 4 m de hauteur ; tige dressée, glabre à peu pubescente dans le bas, devenant densément pubescente sur l’axe de l’inflorescence, à poils non glanduleux colorés. Feuille ascendante, sessile, mais limbe à base longuement et étroitement décurrente (ressemblant à un pétiole étroitement ailé), tombant avant la fructification ; limbe elliptique, de 0,5–11,2 × 1,5–3,0 cm, acuminé à l’apex, crénelé à denté, à base longuement décurrente, portion décurrente longue de 5–15 mm , souvent auriculée et embrassant la tige , presque
-
-Emmanuel Papadopoulos (©), reproduit avec permission à partir de Pollard & Paton (2006).
-
-glabre mais à poils sur les nervures et glandes sessiles éparses brunes ou pâles sur la face inférieure. Inflorescence terminale, lâche, à verticillastres distants jusqu’à 20 mm ; cymes sessiles, à 3 fleurs ; bractées étroitement elliptiques-ovales à ovales, atteignant 5 mm de lon gueur, entières. Fleur : pédicelle 4 mm ; calice long de 4–5 mm et de 11–20 mm en fruit , tubuleux, légèrement courbé vers le haut, à pubescence clairsemée, à glandes sessiles pâles ou brunâtres, lèvre supérieure ovale, mucronée à l’apex, décurrente, lèvre inférieure à lobes étroitement triangulaires, divisés jusqu’à la base, longuement subulés à l’apex, les médians étroitement triangulaires légèrement courbés vers le haut ; corolle longue de 12–20 mm, jaune vif, parfois signalée comme ayant une gorge cramoisie ou brunâtre , presque glabre, mais à glandes sessiles pâles, tube sigmoïde, long de 7–10 mm, lèvre inférieure longue de 6–10 mm, profondément cucullée et enveloppant les étamines ; étamines à filets soudés à la base. Fruit : akènes ovoïdes, légèrement aplatis, longs de 1,5 mm, bruns, finement réticulés en raison du motif des cellules épidermiques.
+Robust herb or shrub, up to 4 m tall; stem erect, glabrous to sparsely pubescent at the base, becoming densely pubescent on the inflorescence axis, with non-glandular coloured hairs. Leaf ascending, sessile, but lamina with base long and narrowly decurrent (resembling a narrowly winged petiole), falling before fruiting; lamina elliptic, 0.5–11.2 × 1.5–3.0 cm, acuminate at the apex, crenate to dentate, with base long-decurrent, decurrent portion 5–15 mm long, often auriculate and embracing the stem, almost glabrous but with hairs on the veins and scattered brown or pale sessile glands on the lower surface. Inflorescence terminal, lax, with verticillasters distant up to 20 mm; cymes sessile, 3-flowered; bracts narrowly elliptic-ovate to ovate, reaching 5 mm long, entire. Flower: pedicel 4 mm; calyx 4–5 mm long and 11–20 mm in fruit, tubular, slightly curved upwards, sparsely pubescent, with pale or brownish sessile glands, upper lip ovate, mucronate at the apex, decurrent, lower lip with narrowly triangular lobes, divided to the base, long-subulate at the apex, the median ones narrowly triangular slightly curved upwards; corolla 12–20 mm long, bright yellow, sometimes reported as having a crimson or brownish throat, almost glabrous but with pale sessile glands, tube sigmoid, 7–10 mm long, lower lip 6–10 mm long, deeply cucullate and enveloping the stamens; stamens with filaments fused at the base. Fruit: achenes ovoid, slightly flattened, 1.5 mm long, brown, finely reticulate due to the pattern of epidermal cells.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cameroun, Guinée équatoriale (Bioko), Gabon et République Centrafricaine ; au Gabon : Woleu-Ntem. Statut de conservation : Considérée comme vulnérable au Cameroun en raison de la régression de l’habitat forestier (Onana & Cheek, 2011). L’espèce n’est pas endémique du Cameroun, comme ces auteurs le suggèrent et devra être évaluée sur l’ensemble de son aire de distribution. Une catégorie Quasi menacée (NT) peut être appropriée en raison de la diminution de l’étendue et de la qualité de l’habitat
+Cameroon, Equatorial Guinea (Bioko), Gabon and Central African Republic; in Gabon: Woleu-Ntem. Conservation status: Considered vulnerable in Cameroon due to regression of forest habitat (Onana & Cheek, 2011). The species is not endemic to Cameroon, as these authors suggest and should be evaluated across its entire distribution range. A Near Threatened (NT) category may be appropriate due to the decrease in the extent and quality of habitat
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-végétation secondaire ; au Gabon à 600 m d’altitude, au Cameroun principalement à 700–1200 m, mais jusqu’à 2500 m sur les hauts plateaux de Bamenda
+secondary vegetation; in Gabon at 600 m altitude, in Cameroon mainly at 700–1200 m, but up to 2500 m on the highlands of Bamenda
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Similaire à C . decurrens et souvent confondu avec lui dans les herbiers. Contrairement à C . decurrens , les feuilles de C . insignis tombent après la floraison et l’espèce ne fleurit pas chaque année (tous les 7 ou 9 ans au Cameroun). La base de la feuille est plus large et le calice en fruit plus long que chez C. decurrens et la corolle jaune vif plutôt que jaune orangé. B : Morton (1963), Onana & Cheek (2011). i B liographie
+Similar to C. decurrens and often confused with it in herbaria. Unlike C. decurrens, the leaves of C. insignis fall after flowering and the species does not flower every year (every 7 or 9 years in Cameroon). The base of the leaf is broader and the fruit calyx longer than in C. decurrens and the corolla bright yellow rather than orange-yellow. B: Morton (1963), Onana & Cheek (2011). Bibliography
 
 ## Notes
 

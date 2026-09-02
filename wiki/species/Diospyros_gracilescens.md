@@ -29,7 +29,7 @@ tags: [species]
 
 Bot. Jahrb.46:155 (1911).
 
-— Diospyros nigerica F. WHIrE, Bull Jard. Bot. Brux. 33 :349,tab.19, A-I;FWTA ed.2, 2 : 12 (1963); Nigerian Trees 2 : 341 (1964),syn. nov. - Diospyros Heudelotii auct. non HIERN : FWTA ed. 1, 2 : 6 (1931)，p.p.
+— Diospyros nigerica F. WHIrE, Bull Jard. Bot. Brux. 33 :349,tab.19, A-I;FWTA ed.2, 2 : 12 (1963); Nigerian Trees 2 : 341 (1964),syn. nov. - Diospyros Heudelotii auct. non HIERN : FWTA ed. 1, 2 : 6 (1931),p.p.
 
 PL.4,I1-19,p. 51,et CARTE 3o,p. 171.
 
@@ -49,7 +49,7 @@ This species is known only from Nigeria, Cameroon, and Gabon, in evergreen humid
 
 ### Material studied in Cameroon
 
-Bisgen 3g8 (syntype)，sin.loc.(stér.) B；556 (syntype) (stér.) (cit.in Bot. Jahrb.46：155 (1911),delet.? De Wilde W. I266,5o km NW Eséka,pres riviere Kélé (fl. ♀,nov.) P,WAG; 2852,65 km SSW Eséka,pres du Nyong (fr., juill.) WAG. Fleury 33373 in herb.Chevalier,Douala (stér.). Hédin I428,Eséka (fr., juill.). Letouzey 9465,colline Nkolakaye pres Mbanga,km 81 route Kribi-Ebolowa, pres sous-préfecture Akom II (stér.); 9545 (D. gracilescens?),versant septentrional des monts Mfiki (g83 m) au S de Ndo,25 km SSE Esse (stér.); 9857,coline Nkolomeyan sur piste Biwong Boulou-Koungoulou Ngoe, 25 km ESE Ebolowa (stér.). Mbarga 56 (= SRFCam 2023), Badjob pres Eséka (fl.&, juin). Mildbraed 5765,Ekouk,2o km E Ebolowa (fl.δ,dat.?) HBG；Io5g5,Likomba (46'N,9°20'E) (stér.) K. Mpom 97 (= SRFCam 2024),Mangombe pres Edéa (ster.);269 (= SRFCam 2016),eod. loc.(fl.δ,mai) YA. Onochie FHI 32o56 et 32o57, South.Bakundu for. res.pres Kumba (ster.) FHI, K.
+Bisgen 3g8 (syntype),sin.loc.(stér.) B;556 (syntype) (stér.) (cit.in Bot. Jahrb.46:155 (1911),delet.? De Wilde W. I266,5o km NW Eséka,pres riviere Kélé (fl. ♀,nov.) P,WAG; 2852,65 km SSW Eséka,pres du Nyong (fr., juill.) WAG. Fleury 33373 in herb.Chevalier,Douala (stér.). Hédin I428,Eséka (fr., juill.). Letouzey 9465,colline Nkolakaye pres Mbanga,km 81 route Kribi-Ebolowa, pres sous-préfecture Akom II (stér.); 9545 (D. gracilescens?),versant septentrional des monts Mfiki (g83 m) au S de Ndo,25 km SSE Esse (stér.); 9857,coline Nkolomeyan sur piste Biwong Boulou-Koungoulou Ngoe, 25 km ESE Ebolowa (stér.). Mbarga 56 (= SRFCam 2023), Badjob pres Eséka (fl.&, juin). Mildbraed 5765,Ekouk,2o km E Ebolowa (fl.δ,dat.?) HBG;Io5g5,Likomba (46'N,9°20'E) (stér.) K. Mpom 97 (= SRFCam 2024),Mangombe pres Edéa (ster.);269 (= SRFCam 2016),eod. loc.(fl.δ,mai) YA. Onochie FHI 32o56 et 32o57, South.Bakundu for. res.pres Kumba (ster.) FHI, K.
 
 ### Material studied in Gabon
 

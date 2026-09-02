@@ -17,23 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Fl. Nigrit. (in Hook., Niger Fl. ) : 228 (1849). H. cannabinus L. var. chevalieri Hochr., Annuaire Conserv. Jard. Bot. Genève 5 : 125 (1901). Herbe 1 ‒ 1,5( ‒ 2) m de hauteur, souvent rougeâtre ; tige rigide, éparsément pourvue d’aiguillons courts à base tuberculée. Stipules filiformes, 2 ‒ 6 mm, densément poilues, rougebrun, caduques. Feuille à pétiole de 5 ‒ 10 cm ; limbe polymorphe, généralement palmatipartite à palmatiséqué en 3 ‒ 5 segments étroitement ovales, atténués vers la base et le sommet, à marge irrégulièrement ondulée, souvent lobés , les deux faces couvertes de poils étoilés, segment médian jusqu’à 15 x 3 cm ; feuilles très réduites vers le sommet ; nectaire proéminent et allongé , à la base de la nervure médiane. Fleur axillaire, soli-
-
-taire ou par 2( ‒ 3) : pédicelle environ 5 mm ; calicule à 7 ‒ 8( ‒ 10) bractéoles simples et étroitement triangulaires à linéaires, environ 17 mm, couvertes de poils raides, plus ou moins étalées à maturité ; sépales largement libres, étroitement triangulaires, 2,5 ‒ 3,5 cm de longueur, subcaudés, en fruit très accrescents , à poils raides sur base tuberculée rouge et un nectaire proéminent ; pétales blancs ou jaune pâle à base pourpre, 4( ‒ 6) cm de longueur ; tube staminal 10 ‒ 12 mm de longueur, couvert d’anthères presque jusqu’à la base, pourpre ; branches du style inclus dans le tube staminal. Fruit ovoïde, 20 × 15 mm de long; valves à acumen rigide 1 ‒ 2 mm de longueur, couverts de poils jaunes rigides, couchées et caducs. Graines subréniformes, 3 ‒ 3,5 × 1,5 ‒ 2,5 mm, pourvues de lignes concentriques fines, brun foncé, présence de quelques poils clairs au hile .
+Fl. Nigrit. (in Hook., Niger Fl.) : 228 (1849). H. cannabinus L. var. chevalieri Hochr., Annuaire Conserv. Jard. Bot. Genève 5 : 125 (1901). Herb 1–1.5(–2) m in height, often reddish; stem rigid, sparsely furnished with short prickles with tuberculate base. Stipules filiform, 2–6 mm, densely hairy, reddish-brown, caducous. Leaf with petiole 5–10 cm; blade polymorphic, generally palmatifid to palmatipartite in 3–5 narrowly ovate segments, attenuate toward the base and apex, with irregularly undulate margin, often lobed, both surfaces covered with stellate hairs, median segment up to 15 × 3 cm; leaves very reduced toward the apex; nectary prominent and elongate, at the base of the midvein. Flower axillary, solitary or in pairs (–3): pedicel ca. 5 mm; calyculus with 7–8(–10) simple bracteoles, narrowly triangular to linear, ca. 17 mm, covered with stiff hairs, more or less spreading at maturity; sepals widely free, narrowly triangular, 2.5–3.5 cm in length, subcaudate, very accrescent in fruit, with stiff hairs on reddish tuberculate base and a prominent nectary; petals white or pale yellow with purple base, 4(–6) cm in length; staminal tube 10–12 mm in length, covered with anthers almost to the base, purple; style branches included in the staminal tube. Fruit ovoid, 20 × 15 mm long; valves with rigid acumen 1–2 mm in length, covered with rigid yellow hairs, appressed and caducous. Seeds subreniform, 3–3.5 × 1.5–2.5 mm, provided with fine concentric lines, dark brown, with a few light hairs at the hilum.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-répandue dans toute l’Afrique tropicale, parfois cultivée comme plante à fibres, du Sénégal à l’Angola et de l’Éthiopie en Afrique du Sud et Madagascar ; au Gabon assez commune, connue de l’Estuaire, de l’Ogooué-Maritime et de la Nyanga
+widespread throughout tropical Africa, sometimes cultivated as a fiber plant, from Senegal to Angola and from Ethiopia in southern Africa and Madagascar; in Gabon fairly common, known from Estuaire, Ogooué-Maritime and Nyanga.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mauvaise herbe des champs et jachères, savanes, lisières de forêt, lieux humides ; au Gabon à 0 ‒ 130 m d’altitude, ailleurs jusqu’à 1850 m. Usage : L’espèce est parfois cultivée comme plante à fibres et comme médicament
+weed of fields and fallows, savannas, forest margins, humid places; in Gabon at 0–130 m elevation, elsewhere up to 1850 m. Use: The species is sometimes cultivated as a fiber plant and as a medicinal plant.
 
 ## Vernacular names
 

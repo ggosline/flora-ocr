@@ -17,15 +17,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub with greyish-greenish rhytidome. Young branchlets with appressed yellow pubescence. Petiole short, 2–3.5 mm long, densely pubescent. Blade dark green, sometimes blackish above and yellowish-green below, upper surface glabrous and lower surface with appressed or ± erect yellow or reddish-brown pubescence, ± narrowly elliptic, 4–13 × 1.3–3.5 cm; base attenuate symmetric or very weakly asymmetric and apex acuminate obtuse mucronate. Midvein concave above and sparsely pubescent along almost its entire length, prominent pubescent below. Secondary veins 4–7 pairs, ascending, arched, anastomosing at 0.5–1 mm from the blade margin, prominent on the upper surface and very strongly prominent pubescent on the lower surface. Veinlets forming a dense prominent network on both surfaces. Domatia in pockets or tufts at the axils of secondary veins.
 
-Arbuste à rhytidome gris verdâtre. Jeunes rameaux à pubescence apprimée jaune. Pétiole court, long de 2-3,5 mm, densément pubescent, Limbe vert sombre, parfois noirâtre dessus et vert jaunâtre dessous, face supérieure glabre et face inférieure à pubescence apprimée ou ± dressée jaune ou roussâtre, ± étroitement elliptique, 4-13 × 1,3-3,5 cm; base atténuée symé-trique ou très faiblement asymétrique et sommet acuminé obtus mucroné. Nervure médiane concave dessus et éparsement pubescente sur presque toute la longueur, saillante pubescente dessous. Nervures secondaires 4-7 paires, ascendantes, arquées, s'anastomosant à 0,5-1 mm du bord du limbe, saillantes à la face supérieure et très fortement saillantes pubescentes à la face inférieure. Nervilles en réseau dense saillant sur les deux faces. Domaties en poche ou en touffe à l'aisselle des nervures secondaires.
+Inflorescence in a solitary corymbiform multiflorous panicle. Peduncle pubescent fawn-coloured, 0.8–1.5 cm long. Pedicel pubescent 1–1.5 cm long. Bracts linear pubescent externally and glabrous internally, 1 mm long. Floral bud conical. Flowers brownish. Sepals free to the base, pubescent externally (brown hairs on the margins and white hairs at the centre) and glabrous internally, very narrowly lanceolate. Petals free to the base, erect, pubescent externally (brown hairs at the centre and white hairs on the margins) and glabrous internally or very sparsely pubescent internally, lanceolate, 5 × 1 mm. Stamens 2 mm long; filament 1 mm long, elliptic; anthers 1 mm long, with 2 basifixed lobes, ellipsoid; connective appendiculate at the apex. Ovary hirsute, ellipsoid, 2 mm long; style glabrous, 4 mm long.
 
-Inflorescence en panicule corymbiforme solitaire multiflore. Pédoncule pubescent fauve, long de 0,8-1,5 cm. Pédicelle pubescent long de 1-1,5 cm. Bractées linéaires pubescentes extérieurement et glabres intérieurement, longues de 1 mm. Bouton floral conique. Fleurs brunâtres. Sépales libres jusqu'à la base, pubescents extérieurement (poils bruns sur les bords et poils
-
-blancs au centre) et glabres intérieurement, très étroitement lancéolés. Pétales libres jusqu'à la base, dressés, pubescents extérieurement (poils bruns au centre et poils blancs sur les bords) et glabres intérieurement ou très éparsement pubescents intérieurement, lancéolés,  $ 5 \times 1 $ mm. Étamines longues de 2 mm; filet long de 1 mm, elliptique; anthères longues de 1 mm, à 2 loges basifixes, ellipsoïdes; connectif appendiculé au sommet. Ovaire hirsute, ellipsoïde, long de 2 mm; style glabre, long de 4 mm.
-
-Drupe pubescente, ellipsoïde, réticulée ± aplatie, 1,5 × 0,8 cm, apiculée au sommet. Calice persistant. Embryon petit et apical. PL. 7, 1-4, p. 29.
+Drupe pubescent, ellipsoid, reticulate ± flattened, 1.5 × 0.8 cm, apiculate at the apex. Calyx persistent. Embryo small and apical. PL. 7, 1–4, p. 29.
 
 ## Type
 
@@ -33,9 +29,7 @@ Zenker 1283, Cameroun (holo-, P !; iso-, Z)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce n'est connue que du Cameroun.
+This species is known only from Cameroon.
 
 ## Vernacular names
 
@@ -43,9 +37,7 @@ lelok onone (bakoko)
 
 ## Uses
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Les enfants consomment les fruits
+Children consume the fruits
 
 ## Specimens examined
 

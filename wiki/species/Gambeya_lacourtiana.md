@@ -22,19 +22,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+DE WILD. in Mission Em. Laurent I: 425 and pl. CXXXVIII, CXXXIX, CXL (fl., fr.) (1905-1907). — A. CHEV. in Bois du Gabon: 269 and pl. XXIX (1917). — AUBRÉVILLE in Notes sur les Sapo. Afr. équa. Not. Syst. (1960).
 
-DE WILD. dans Mission Em. Laurent I : 425 et pl. CXXXVIII, CXXXIX. CXL (fl., fr.) (1905-1907). — A. CHEV. dans Bois du Gabon : 269 et pl. XXIX (1917). — AUBRÉVILLE dans Notes sur les Sapo. Afr. équa. Not. Syst. (1960).
+Tree. Terminal buds and young branchlets finely grey tomentose. Very young leaves glabrous except for the petiole clothed with persistent tomentum.
 
-Arbre. Bourgeons terminaux et jeunes rameaux finement tomenteux gris. Très jeunes feuilles glabres sauf le pétiole vêtu d'un tomentum persistant.
+Leaves oblong, acuminate, cuneate at the base, 11–36 cm long and 4.5–12.5 cm wide, glabrous. Petiole 2–3 cm long, channelled. Lamina glossy above, dull beneath. 12–17 pairs of lateral veins, prominent beneath. Network of tertiary veins perpendicular to the secondary veins, very apparent on both surfaces, especially in young leaves.
 
-Feuilles oblongues, acuminées, cunéiformes à la base, de 11-36 cm long et 4,5-12,5 cm large, glabres. Pétiole 2-3 cm long, canaliculé. Limbe luisant en dessus, mat dessous. 12-17 paires de nervures latérales, saillantes dessous. Réseau de nervures tertiaires perpendiculaires aux nervures secondaires, très apparent sur les deux faces, surtout chez les jeunes feuilles.
+Small flowers grouped in the axils of the leaves. Pedicels c. 3 mm. Calyx 3.5–4 mm tall. Sepals tomentose externally, yellowish pubescent internally. Corolla 3.5 mm tall. Lobes 1 mm, ciliate on the margins. Tube 2.5 mm. Stamens inserted towards the base of the tube; anthers not exceeding the lobes. Ovary hairy; 5 locules.
 
-Petites fleurs groupées à l'aisselle des feuilles. Pédicelles env. 3 mm. Calice 3,5-4 mm de haut. Sépales tomenteux extérieurement, pubescents jaunâtres intérieurement. Corolle haute de 3,5 mm. Lobes 1 mm., ciliés sur les bords. Tube 2,5 mm. Étamines insérées vers la base du tube; anthères ne dépassant pas les lobes. Ovaire velu; 5 loges.
+Fruits ovoid, subglobose, red, velvety, c. 10 cm long and 7 cm in diameter. 5 seeds keeled with prominent oblong scar, 2–3.5 × 1.5–1.8 × 1 cm.
 
-Fruits ovoïdes, subglobuleux, rouges, veloutés, d'env. 10 cm de long et 7 cm diamètre. 5 graines carénées à cicatrice oblongue proéminente, de 2 à 3,5 × 1,5-1,8 × 1 cm.
-
-Cette espèce est un grand arbre de 30 m de haut, remarquable par ses gros fruits rouges à 5 graines. La seule autre grande Sapotacée à fruits rouges est le Kantou guereensis de la Côte d'Ivoire. Le Gambeya Lacourtiana a une aire qui s'étend du plateau du Cameroun à la cuvette congolaise, y compris la forêt de la Sangha et de la Lobaye. Il n'a pas encore été récolté au Gabon, mais il pourrait s'y trouver dans le nord et l'est du pays.
+This species is a large tree 30 m tall, remarkable for its large red fruits with 5 seeds. The only other large Sapotaceae with red fruits is Kantou guereensis from Côte d'Ivoire. Gambeya Lacourtiana has a range extending from the Cameroon plateau to the Congo Basin, including the Sangha and Lobaye forests. It has not yet been collected in Gabon, but it could be found there in the northern and eastern parts of the country.
 
 ## Notes
 

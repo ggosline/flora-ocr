@@ -21,11 +21,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 -- v. d. B., Ned. Kr. Arch. 5 (3) : 192 (1862). — Tard., Mém. IFAN 28 : 36 pl. 3, 2-3 (1953). — Alston, FWTA : 32 (1959).
 
-Rhizome filiforme, rampant. Pétiole long de 4-6 cm., ailé à la partie supérieure. Limbe de 15-35 cm. sur 3-4, linéaire, bipinnatifide. Pennes longues de 1, 5-2 cm sur 1 de large, décurrentes jusqu'au rachis très largement ailé (à aile plane, large de 0,5 cm), divisées en segments tronqués, parfois bifides. Rachis, nervures, marges et surfaces, portant des poils stellés, à branches horizontales. Sores à valves arrondies, ciliées. Réceptacle inclus.
+Rhizome filiform, creeping. Petiole 4-6 cm long, winged in the upper part. Lamina 15-35 cm by 3-4, linear, bipinnatifid. Pinnae 1.5-2 cm long by 1 cm wide, decurrent to the very broadly winged rachis (with plane wing 0.5 cm wide), divided into truncate segments, sometimes bifid. Rachis, veins, margins and surfaces bearing stellate hairs with horizontal branches. Sori with rounded, ciliate valves. Receptacle included.
 
 ## Type
 
@@ -33,11 +31,9 @@ Mann, Fernando-Po (BM)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+São Thomé, Fernando Po, Cameroon, Belgian Congo, Tanganyika.
 
-San-Thomé, Fernando-Po, Cameroun, Congo ex-belge, Tanganyika.
-
-Tapissant les troncs ou les roches suintantes de la forêt ombrophile.
+Clothing the trunks or oozing rocks of the rainforest.
 
 ## Specimens examined
 

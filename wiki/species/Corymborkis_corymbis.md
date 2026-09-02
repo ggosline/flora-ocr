@@ -17,8 +17,6 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – TYPE* : Du Petit Thouars s.n., Ile de la Réunion, lecto-P! (Cribb 1984), isolecto-W-R! – FTWA : 211 (1968) ; FAC 1 : 12, tab.1 (1984) ; FCAM 1 : 238 (1998).
 
 – Corymbis thouarsii Rchb. f., Bot. Zeit. 7 : 868 (1849), nom. superfl.
@@ -31,53 +29,49 @@ tags: [species, generated]
 
 – Corymborkis corymbosa (Ridl.) O. Kuntze, Revis. Gen. Fig. 2 : 658 (1891).
 
-Tige 30-200 cm. Feuilles le long de le tige, 11-35 × 3-10 cm, étroitement ovées à elliptiques, apiculées, marges souvent ondulées. Inflorescence 1-4, longueur < 7 cm, panicules érigées à retombantes à < 5 branches, rarement avec des ramifications tertiaires, < 20-flore.
+Stem 30–200 cm. Leaves along the stem, 11–35 × 3–10 cm, narrowly ovate to elliptic, apiculate, margins often undulate. Inflorescence 1–4, length < 7 cm, panicles erect to drooping with < 5 branches, rarely with tertiary ramifications, < 20-flowered.
 
-* Nature et lieu de dépôt signalés différemment par erreur dans FCAM
+* Nature and location of repository indicated differently by error in FCAM
 
-Fleurs blanc-verdâtre à blanches, longues, assez peu visibles. Pièces du périanthe largement étalées et allongées. Sépale dorsal aigu, linéaire à lancéolé, sépales latéraux linéaires à obliques-lancéolés. Pétales linéaires à obliques-lancéolés, aigus, marges souvent crénelées. Onglet du labelle linéaire, canaliculé, rétréci en direction d'un limbe elliptique à sommet aigu. – Pl. 24, p. 55.
+Flowers greenish-white to white, long, rather inconspicuous. Perianth segments broadly spreading and elongate. Dorsal sepal acute, linear to lanceolate, lateral sepals linear to oblique-lanceolate. Petals linear to oblique-lanceolate, acute, margins often crenulate. Claw of labellum linear, channelled, narrowed towards an elliptic limb with acute apex. – Pl. 24, p. 55.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-largement répartie en Afrique tropicale et méridionale, à Madagascar et dans les Mascareignes
+widely distributed in tropical and southern Africa, Madagascar and the Mascarene Islands
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 0–1400 m. Evergreen forest generally of lowland, in very shaded understory
 
-alt. 0-1400 m. Forêt sempervirente en général de basse terre, en sous-bois très ombragé
+MATERIAL EXAMINED (Map 8) :
 
-MATÉRIEL ÉTUDIÉ (Carte 8) :
+Klaine 2567, environs of Libreville, Sibange (fl., Dec.), BR!, P!.
 
-Klaine 2567, environs de Libreville, Sibange (fl., Déc.), BR!, P!.
-
-Le Testu 1977, Région du Nyanga, galerie forestière de la Nyanga, Tchibanga (fl., Janv.), BM!, BR!.
+Le Testu 1977, Nyanga Region, forest gallery of the Nyanga, Tchibanga (fl., Jan.), BM!, BR!.
 
 III. SPIRANTHOIDEAE Dressler
 
 Selbyana 5 (2) : 204 (1979).
 
-Racines charnues, groupées ou dispersées le long d'un épais rhizome. Voile de type Calanthe ou Spiranthes. Feuilles convolutées, non pliées, minces. Inflorescence terminale. Labelle fixe, canaliculé à la base, sacciforme avec un éperon. Gynostème en général court et massif. Staminodes aliformes, minces ou relativement épais, soudés au filet et aux marges du stigmate, ou même au rostellum formant un clinandrium dorsal distinct. Rostellum allongé en forme de bec chez la plupart des espèces. Viscidie unique, membraneuse ou à plusieurs couches. Tegula lamellaire quand elle est présente. Hamulus charnu chez certains genres. Anthère dressée, cordée à oblongue-cordée, à peine mobile dans certains cas.
+Fleshy roots, grouped or scattered along a thick rhizome. Velum of Calanthe or Spiranthes type. Leaves convolute, not plicate, thin. Inflorescence terminal. Labellum fixed, channelled at the base, saccate with a spur. Gynostemium generally short and massive. Staminodes wing-shaped, thin or relatively thick, fused to the filament and the margins of the stigma, or even to the rostellum forming a distinct dorsal clinandrium. Rostellum elongate, beak-shaped in most species. Single viscidium, membranous or multilayered. Tegula lamellate when present. Hamulus fleshy in certain genera. Anther erect, cordate to oblong-cordate, barely mobile in some cases.
 
-Les SPIRANTHOIDEAE sont divisées en 3 tribus dont 2 cosmopolites, présentes en Afrique :
+The SPIRANTHOIDEAE are divided into 3 tribes, 2 of which are cosmopolitan and present in Africa:
 
-- Les GOODYEREAE King & Pantl.. Cette tribu comprend 3 sous-tribus dont 2 sont représentées en Afrique tropicale : GOODYERINAE Klotzsch et CHEIROSTYLIDINAE Szlach.
+- The GOODYEREAE King & Pantl.. This tribe comprises 3 subtribes, 2 of which are represented in tropical Africa: GOODYERINAE Klotzsch and CHEIROSTYLIDINAE Szlach.
 
-- Les SPIRANTHEAE Endl. Grand groupe de quelques 60 genres, la plupart du Mexique et Sud du Brésil. et quelques rares représentants des zones Nord-tempérées et d'Australasie. En Afrique tropicale, une seule sous-tribu : MANNIELLINAE avec le seul genre Manniella Rchb.f.
+- The SPIRANTHEAE Endl. Large group of some 60 genera, mostly from Mexico and southern Brazil, and a few rare representatives from north-temperate zones and Australasia. In tropical Africa, only one subtribe: MANNIELLINAE with the single genus Manniella Rchb.f.
 
-Pour les 3 sous-tribus représentées en Afrique tropicale, nous proposons directement la clé suivante :
+For the 3 subtribes represented in tropical Africa, we present directly the following key:
 
-CLÉ DES SOUS-TRIBUS
+KEY TO THE SUBTRIBES
 
-1. Racines bien espacées le long d'un long rhizome charnu ; éperon, s'il existe, non soudé à l'ovaire.
+1. Roots well-spaced along a long fleshy rhizome; spur, if present, not fused to the ovary.
 
-2. Stigmate confluent, ovale ..... I. GOODYERINAE (p. 58)
+2. Stigma confluent, oval ..... I. GOODYERINAE (p. 58)
 
-2'. Les 2 lobes latéraux du stigmate bien séparés ..... II. CHEIROSTYLIDINAE (p. 60)
+2'. The 2 lateral lobes of the stigma well separated ..... II. CHEIROSTYLIDINAE (p. 60)
 
-1'. Racines en disposition dense le long du rhizome. Éperon soudé à l'ovaire
+1'. Roots in dense arrangement along the rhizome. Spur fused to the ovary
 
 III. MANNIELLINAE (p. 75)
 
@@ -85,9 +79,9 @@ I. GOODYERINAE Klotzsch
 
 In Hayne. Getreue Darstell. Gew. 14 : t 24 (1846).
 
-Feuilles, parfois ornamentées, disposées en spirale, généralement situées en bas de la tige. Fleurs moyennes à petites, résupinées ou non, de couleur pâle, en spirale sur l'inflorescence. Labelle sacciforme avec un éperon à la base. Stigmate entier, formé de deux lobes latéraux et le plus souvent d'un lobe médian ventral ou horizontal.
+Leaves, sometimes ornamental, arranged in a spiral, generally located at the base of the stem. Flowers medium to small, resupinate or not, pale-coloured, spiralled on the inflorescence. Labellum saccate with a spur at the base. Stigma entire, formed of two lateral lobes and most often a ventral or horizontal median lobe.
 
-Sous-tribu d’environ 20 genres en majorité australasiens et néotropicaux, 2 pour l’Afrique tropicale et seulement 1 au Gabon.
+Subtribe of about 20 genera mostly Australasian and neotropical, 2 for tropical Africa and only 1 in Gabon.
 
 ## Figures
 

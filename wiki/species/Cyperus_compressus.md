@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe annuelle, assez robuste , avec des tiges solitaires ou groupées ; racines brunes à rougeâtres ; tiges de 10‒60 cm × 0,7‒5 mm, trigones avec des côtes longitudinales, vertes, presque glabres. Feuille : gaine gris verdâtre à brun rougeâtre ; limbe linéaire et plan, les plus grands de 5‒50 cm × 2‒10 mm , scabre sur la marge et la nervure centrale. Inflorescence en groupe solitaire de 3–6 épillets (chez les spécimens rabougris) ou plus communément, en une anthèle ombelliforme, jusqu’à 15 × 25 cm , formée d’un groupe sessile d’épillets sous-tendu par 1‒10 groupes sur des rayons longs de 1‒20 cm ; bractées involucrales 1‒6, foliacées, dressées ou étalées, la plus grande de 5‒30 cm × 1,5‒6 mm, planes, scabres sur la marge et les côtes. Épillet linéaires–lancéolées, de 10‒50 × 3‒5 mm , fortement comprimés, gris verdâtre à brun rougeâtre, à 10‒60 fleurs ; rachis aplati, ne se détachant pas à maturité ; glumes ovales–elliptiques, longues de 3‒5 mm , grises à brun pâle avec ou sans taches dorées, la nervure médiane verte et dépassant légèrement. Fleur à 3 étamines ; style à 3 branches. Akène obovale à arrondi, de 1,1‒2 × 0,9‒1,3 mm , faiblement trigone, brun rougeâtre à presque noir, à surface lisse ou faiblement ponctuée.
+Annual herb, fairly robust, with solitary or clustered stems; roots brown to reddish; stems 10–60 cm × 0.7–5 mm, trigonous with longitudinal ridges, green, almost glabrous. Leaf: sheath greyish-green to reddish-brown; blade linear and flat, the largest 5–50 cm × 2–10 mm, scabrous on the margin and midvein. Inflorescence as a solitary group of 3–6 spikelets (in stunted specimens) or more commonly, as an umbelliform anthela, up to 15 × 25 cm, formed by a sessile group of spikelets subtended by 1–10 groups on rays 1–20 cm long; involucral bracts 1–6, foliaceous, erect or spreading, the largest 5–30 cm × 1.5–6 mm, flat, scabrous on the margin and ridges. Spikelets linear–lanceolate, 10–50 × 3–5 mm, strongly compressed, greyish-green to reddish-brown, with 10–60 flowers; rachis flattened, not disarticulating at maturity; glumes oval–elliptic, 3–5 mm long, grey to pale brown with or without golden spots, the midvein green and slightly exceeding. Flower with 3 stamens; style with 3 branches. Achene obovate to rounded, 1.1–2 × 0.9–1.3 mm, weakly trigonous, reddish-brown to almost black, with surface smooth or weakly punctate.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+pantropical species, very widespread in America, Africa, Asia and the Pacific, common in Gabon, in Ogooué-Maritime, but rare or poorly known elsewhere, found only in Ogooué-Ivindo and Ogooué-Maritime
 
-espèce pantropicale, très répandue en Amérique, Afrique, Asie et Pacifique, commune au Gabon, dans l’Ogooué-Maritime, mais rare ou méconnue ailleurs, trouvée seulement dans l’Ogooué-Ivindo et l’Ogooué-Maritime
-
-C. Fascicule d’épillets digités. – D. Épillet. – E. Base renflée de la tige. – C. Base du limbe. – D. Glume. – F. Fleur. – G. Fruit. Dessin original par Inflorescence. – E. Épillet. – F. Partie de l’épillet Richard W. Haines ©. montrant une glume sous-tendant une fleur. – G. Fruit. Dessin original par Richard W. Haines ©.
+C. Fascicle of digitate spikelets. – D. Spikelet. – E. Swollen base of the stem. – C. Base of the blade. – D. Glume. – F. Flower. – G. Fruit. Original drawing by Inflorescence. – E. Spikelet. – F. Part of the spikelet Richard W. Haines ©. showing a glume subtending a flower. – G. Fruit. Original drawing by Richard W. Haines ©.
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-habitats saisonnièrement humides, le long des marécages et des mares, aussi dans les habitats perturbés tels que les bas-côtés des routes ; au Gabon, à 0‒150 m d’altitude, jusqu’à 1200 m en Afrique de l’Est
+seasonally wet habitats, along marshes and ponds, also in disturbed habitats such as roadsides; in Gabon, 0–150 m altitude, up to 1200 m in East Africa
 
 ## Vernacular names
 

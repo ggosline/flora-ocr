@@ -17,13 +17,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Tree, 7–9 m tall. Young branchlets nearly glabrous. Leaves elliptic, acute at base, acuminate at apex, glabrous, 5–10 cm long and 3–4 (4.5) cm wide; midvein impressed above, prominent below. Petiole slender, approximately 4 mm long.
 
-Arbre, 7-9 m de haut. Jeunes rameaux à peu près glabres. Feuilles elliptiques, aiguës à la base, acuminées au sommet, glabres, de 5-10 cm de long et 3-4 (4,5) cm de large; nervure médiane
-
-imprimée en dessus, saillante en dessous. Pétiole grêle, d'environ 4 mm de long.
-
-Inflorescence racémeuse, multiflore, à rachis d'environ 5 mm de long; bractées distinctes, tomenteuses, d'environ 5 mm de long. Pédicelles ± 5 mm de long, gris tomenteux. Fleurs blanches, poly-games. Ovaire tomenteux à la base. Sépales glabres, arrondis. Pétales d'environ 4 mm de long. Fruit inconnu.
+Inflorescence racemose, multiflorous, with rachis approximately 5 mm long; bracts distinct, tomentose, approximately 5 mm long. Pedicels ± 5 mm long, grey tomentose. Flowers white, polygamous. Ovary tomentose at base. Sepals glabrous, rounded. Petals approximately 4 mm long. Fruit unknown.
 
 ## Type
 
@@ -31,9 +27,7 @@ Klaine 3509 (Gabon)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce proche de E. obanensis Baker et de E. fernandopona Engl. Il serait utile de rechercher s'il existe des spécimens intermédiaires.
+Species close to E. obanensis Baker and E. fernandopona Engl. It would be useful to search for intermediate specimens.
 
 ## Notes
 

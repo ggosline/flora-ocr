@@ -22,17 +22,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Small annual herb up to 60 cm tall. Culms geniculate, rooting at the base, branched, pubescent. Leaves pubescent, ligule ciliate, blades of 2.5–7.5 × 0.4–1 cm acuminate and rounded at base; margins cartilaginous, 3 to 4 main veins on each side of the central vein.
 
-Petite herbe annuelle jusqu'à 60 cm de haut. Chaumes géniculés, radicants à la base, ramifiés, pubescents. Feuilles pubescentes, ligule ciliée, limbes de  $ 2,5-7,5 \times 0,4-1 $ cm acuminés
+Panicle up to 15 cm long or more, branches subhorizontal up to 7 cm long and progressively shorter towards the apex. Rachis very slender, scabrous on the margins and pubescent. Pedicels up to 1 mm long, sometimes with white hairs as long as the spikelets. These are oblong, 2 mm long, acute, gaping during flowering, and arranged in 2–6, in short small racemes or in glomérules.
 
-et à base arrondie; marges cartilagineuses, 3 à 4 nervures principales de chaque côté de la nervure centrale.
+Lower glume smaller than half the spikelet, with 2 to 5 veins, often purple. Upper glume somewhat shorter than the spikelet, pubescent, with 5 veins. Lower flower male, lemma as long as the spikelet; palea somewhat shorter or more or less reduced. Upper flower as long as the spikelet, glumes coriaceous, finely granular.
 
-Panicule jusqu'à 15 cm de long ou plus, branches subhorizontales jusqu'à 7 cm de long et de plus en plus courtes vers le haut. Rachis très mince, scabre sur les bords et pubescent. Pédicelles jusqu'à 1 mm de long, parfois avec des poils blancs aussi longs que les épillets. Ceux-ci sont oblongs, de 2 mm de long, aigus, béants pendant la floraison, et disposés par 2-6, en courts petits racèmes ou en glomérules.
-
-Glume inférieure plus petite que la moitié de l'épillet, de 2 à 5 nervures, souvent pourpre. Glume supérieure un peu plus courte que l'épillet, pubescente, à 5 nervures. Fleur inférieure mâle, lemma aussi longue que l'épillet; paléa un peu plus courte ou plus ou moins réduite. Fleur supérieure aussi longue que l'épillet, glumelles coriaces, finement granuleuses.
-
-Espèce de savane, ou plus souvent de jachères sur terrains sableux, de médiocre intérêt fourrager. Elle semble distribuée dans la plus grande partie de l'Afrique tropicale. Au Gabon, elle est signalée par Koechlin dans les savanes du Sud.
+Savanna species, or more often of fallows on sandy soils, of moderate forage interest. It appears to be distributed over most of tropical Africa. In Gabon, it is recorded by Koechlin in the savannas of the South.
 
 ## Notes
 

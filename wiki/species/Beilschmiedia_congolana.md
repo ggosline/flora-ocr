@@ -16,11 +16,9 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 — Robyns et Wilczek, Bull. jard. bot. Ét. Brux. 19 : 468 (1949).
 
-Arbre de 20-50 m au tronc cylindrique pouvant atteindre 90 cm de diamètre sur 30 m de long; écorce de 6-10 mm granuleuse-pierreuse, brun-rougeâtre, striée sur la face interne; rhytidome desquamant en plaques allongées; jeunes rameaux ± aplatis (secs); feuilles brun olivâtre arrondies aux deux extrémités. Fruit oblong de 2 cm.
+Tree 20–50 m tall with cylindrical trunk reaching 90 cm in diameter and 30 m in length; bark 6–10 mm, granular-stony, reddish-brown, striated on the inner face; rhytidome exfoliating in elongated plates; young branches ± flattened (when dry); leaves olivaceous-brown, rounded at both ends. Fruit oblong, 2 cm.
 
 ## Type
 
@@ -28,9 +26,7 @@ Louis 3761 (BR) récolté en 1937, plateau de Yangambi (Congo ex-belge) à 470 m
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Congo ex-belge, Oubangui, Cameroun, Gabon.
+Belgian Congo, Ubangi, Cameroon, Gabon.
 
 ## Specimens examined
 

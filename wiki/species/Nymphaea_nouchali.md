@@ -17,23 +17,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Herbe assez robuste à rhizome tubéreux. Feuille à pétiole jusqu’à 1,5 m de longueur, glabre, souvent rouge foncé à violet ; limbe circulaire ou elliptique à ovale, les adultes 7–35(–45) × 8–30(–40) cm, souvent légèrement pelté, coriace, vert jaune à bronze à la face supérieure, rouge foncé à violet sombre et plus sombrement tacheté ou vert tacheté de violet ou vert à la face inférieure, apex arrondi, base incisée, cordée ou hastée, lobes latéraux obtus ou aigus, divergents, parfois presque jointifs ou superposés, marges entières , légèrement ondulées ou légèrement dentées , glabres, rarement avec une fine pubescence ; nervation palmée, 5–8 nervures latérales, 4–5 nervures secondaires de part et d´autre de la nervure médiane, nervures proéminentes en dessous mais avec un sillon médian sur le sec . Fleur 5 – 20( – 30) cm de diamètre, 5–30 cm au-dessus de l’eau ; pédoncule long, glabre ; sépales habituellement 4, oblongs à lancéolés, 3–8(–13) × 1–2,5(–3) cm, légèrement plus longs ou aussi longs que les pétales, verts, quelquefois marqués de taches violet foncé ; pétales 12–27, oblongs à lancéolés, aussi longs que les sépales, 0,7–1,6 cm de largeur, à sommet aigu à obtus , habituellement bleus mais quelquefois blancs ; étamines 30 – 250 , à connectif linguiforme et habituellement bien marqué , 5–8 mm de longueur, jaune ou bleu à bleu pâle, 5–8 mm ; carpelles 14–47, appendices stigmatiques densément papilleux. Fruit grossièrement sphérique, 2–4 cm de diamètre. Graines ellipsoïdes, ± 1,2 × 0,8 mm.
+Fairly robust herb with tuberous rhizome. Leaf with petiole up to 1.5 m in length, glabrous, often dark red to violet; blade circular or elliptic to ovate, the mature ones 7–35(–45) × 8–30(–40) cm, often slightly peltate, coriaceous, yellow-green to bronze on the upper face, dark red to dark violet and more darkly spotted or violet-spotted green or green on the lower face, apex rounded, base incised, cordate or hastate, lateral lobes obtuse or acute, divergent, sometimes nearly contiguous or overlapping, margins entire, slightly undulate or slightly dentate, glabrous, rarely with fine pubescence; palmate venation, 5–8 lateral veins, 4–5 secondary veins on either side of the midvein, veins prominent below but with a midvein groove when dry. Flower 5–20(–30) cm in diameter, 5–30 cm above the water; peduncle long, glabrous; sepals usually 4, oblong to lanceolate, 3–8(–13) × 1–2.5(–3) cm, slightly longer or as long as the petals, green, sometimes marked with dark violet spots; petals 12–27, oblong to lanceolate, as long as the sepals, 0.7–1.6 cm in width, apex acute to obtuse, usually blue but sometimes white; stamens 30–250, with linguiform connective and usually well-marked, 5–8 mm in length, yellow or blue to pale blue, 5–8 mm; carpels 14–47, stigmatic appendages densely papillose. Fruit roughly spherical, 2–4 cm in diameter. Seeds ellipsoid, ± 1.2 × 0.8 mm.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-probablement largement répandue en Afrique tropicale, de l’Afrique de l’Ouest jusqu’en Égypte et en Afrique du Sud ; au Gabon, observée dans la province Ogooué-Lolo et Ogooué-Maritime
+probably widely distributed in tropical Africa, from West Africa to Egypt and South Africa; in Gabon, observed in the provinces Ogooué-Lolo and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+stagnant waters, marshes, lakes, etc.; in Gabon up to 400 m altitude, elsewhere up to 2700 m. Uses: In the Democratic Republic of the Congo, ashes from dried and calcined leaves of N. nouchali are consumed for the treatment of endoparasitic worms. Elsewhere, a decoction of roots of N. nouchali var. caerulea is administered against liver complaints, stomach ailments and nausea. Taxonomic note: The distinction with N. maculata Schum. & Thonn. from West Africa is not clear. It is possible that these two taxa should be united in a single species. Bibliography: Berhaut (1979), Chifundera (2001), Neuwinger (2000), Verdcourt (1989b)
 
-eaux stagnantes, marécages, lacs, etc. ; au Gabon jusqu’à 400 m d’altitude, ailleurs jusqu’à 2700 m. Usage : En République Démocratique du Congo, les cendres issues des feuilles séchées et calcinées de N. nouchali sont consommées pour le traitement des vers endoparasites. Ailleurs, la décoction de racines de N. nouchali var. caerulea est administrée contre les maux de foie, d´estomac et nausées. Note taxonomique : La distinction avec N. maculata Schum. & Thonn. de l’Afrique de l’Ouest n’est pas claire. Il est possible que ces deux taxons doivent être réunis dans une seule espèce. B : Berhaut (1979), Chifundera (2001), Neuwinger (2000), Verdcourt i B liographie (1989b)
-
-.203-3+20,3 1+13 7 95 3 5
+.203-3+20.3 1+13 7 95 3 5
 
 ## Notes
 

@@ -17,21 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre atteignant 40 m de hauteur ; tronc jusqu’à 60 cm de diamètre, formant des racines échasses lorsqu’elles poussent dans des zones inondées ou des mangroves ; écorce grise, lisse à peu profondément fissurée longitudinalement, entaille blanc crème, sans exsudat. Feuilles spiralées , densément réparties le long des branches, en touffe terminale chez les spécimens plus âgées, laissant la tige visible entre les feuilles ; gaine embrassant la tige sur la ½ ou les ¾ de la circonférence , sur une longueur de < 1 cm, cicatrice foliaire lunulée ; pseudopétiole absent ; limbe étroitement obovale , jusqu’à 30 × 9 cm, mais très étroitement obovale et jusqu’à 60 cm de longueur sur des branches à croissance rapide, base graduellement rétrécie, s’élargissant abruptement vers la gaine, sommet aigu à acuminé avec un mucron de ± 3 mm, coriace, face supérieure vert foncé mat, face inférieure vert pâle avec nervure médiane proéminente, nervures secondaires obscures. Inflorescence dressée, paniculée à nombreuses branches , jusqu’à 75 × 55 cm, à axes lisses, jaune vif à rouge vif , flexibles comme du caout chouc ; bractées sous-tendant les branches rapidement caduques, triangulaires, jusqu’à 10 × 7 mm, diminuant de taille vers le sommet, coriaces ; fascicules avec 1 à 5 fleurs , chacun sous-tendu par une bractée caduque, triangulaire, jusqu’à 2 mm de longueur, membraneuse, à bords scarieux ; bractées florales ± 1 mm de longueur, scarieuses. Fleur : pédicelle jusqu’à 15 mm, orange vif, articulé jusqu’à 13 mm de la base ; périanthe 35–55 mm de longueur , blanc crème, lobes plus longs que le tube ; étamines insérées près de la gorge, jusqu’à 3 mm plus courtes que les lobes, filet blanc, filiforme, anthère ± 2,5 mm de longueur, jaune pâle ; ovaire ovoïde, ± 3 × 2,5 mm ; style exsert sur jusqu’à 3 mm, blanc, stigmate ± 0,5 mm de diamètre. Fruit sphérique à obloïde , jusqu’à 23 × 28 mm, brillant, brun orangé à rouge, mésocarpe orangé ; réceptacle renflé, jusqu’à 6 × 3 mm. Graine obloïde, 12 × 22 mm, superficiellement bilobée ; endosperme un peu transparent, blanc.
+Tree reaching 40 m in height; trunk up to 60 cm in diameter, forming stilt roots when growing in flooded zones or mangroves; bark grey, smooth to shallowly fissured longitudinally, slash cream-white, without exudate. Leaves spiral, densely arranged along the branches, in terminal tuft in older specimens, leaving the stem visible between the leaves; sheath embracing the stem on ½ or ¾ of the circumference, over a length of < 1 cm, leaf scar lunulate; pseudopetiole absent; blade narrowly obovate, up to 30 × 9 cm, but very narrowly obovate and up to 60 cm long on fast-growing branches, base gradually narrowed, broadening abruptly towards the sheath, apex acute to acuminate with a mucro of ± 3 mm, coriaceous, upper surface dark green matt, lower surface pale green with prominent midvein, secondary veins obscure. Inflorescence erect, paniculate with numerous branches, up to 75 × 55 cm, with smooth axes, bright yellow to bright red, flexible like rubber; bracts subtending the branches rapidly caducous, triangular, up to 10 × 7 mm, diminishing in size towards the apex, coriaceous; fascicles with 1 to 5 flowers, each subtended by a caducous bract, triangular, up to 2 mm in length, membranous, with scarious margins; floral bracts ± 1 mm in length, scarious. Flower: pedicel up to 15 mm, bright orange, articulate up to 13 mm from the base; perianth 35–55 mm in length, cream-white, lobes longer than the tube; stamens inserted near the throat, up to 3 mm shorter than the lobes, filament white, filiform, anther ± 2.5 mm in length, pale yellow; ovary ovoid, ± 3 × 2.5 mm; style exsert for up to 3 mm, white, stigma ± 0.5 mm in diameter. Fruit spherical to obloid, up to 23 × 28 mm, glossy, orange-brown to red, mesocarp orange; receptacle swollen, up to 6 × 3 mm. Seed obloid, 12 × 22 mm, superficially bilobed; endosperm somewhat transparent, white.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Bénin, Nigéria, Cameroun, Gabon, République du Congo, République démocratique du Congo et Angola ; au Gabon, connu de l’Estuaire, du Moyen-Ogooué, de la Nyanga et de l’OgoouéMaritime
+Benin, Nigeria, Cameroon, Gabon, Republic of the Congo, Democratic Republic of the Congo and Angola; in Gabon, known from Estuaire, Moyen-Ogooué, Nyanga and Ogooué-Maritime
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-forêt primaire humide, stations très humides, marais inondés, mangroves, sur sol sableux ou les pieds dans l’eau ; au Gabon comme ailleurs à 0–200 m d’altitude. Floraison enregistrée en janvier, mars, mai, août, septembre et novembre. Usage : Les fruits sont consommés par les rongeurs
+Primary humid forest, very humid stations, flooded marshes, mangroves, on sandy soil or with feet in water; in Gabon as elsewhere at 0–200 m altitude. Flowering recorded in January, March, May, August, September and November. Use: The fruits are consumed by rodents
 
 ## Vernacular names
 
@@ -39,9 +33,7 @@ alén okwe, alen okue (pahouin de Libreville)
 
 ## Source note
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-D. marina est proche de D. mannii et de D. cerasifera , mais elle se distingue facilement par les fleurs presque 2 fois plus longues et les feuilles plus obovales. B : Damen et al. (2018). i B liographie
+D. marina is close to D. mannii and D. cerasifera, but is easily distinguished by flowers almost 2 times longer and more obovate leaves. B: Damen et al. (2018). Bibliography
 
 ## Notes
 

@@ -16,11 +16,7 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Cette espèce reste presque toujours stérile et se multiplie par éclats de souche : c'est la « citronnelle », fréquemment plantée
-
-autour des maisons et en bordures et qui est utilisée en infusion. Elle est originaire des Indes.
+This species remains almost always sterile and multiplies by rhizome fragments: it is the "lemongrass," frequently planted around houses and in borders and which is used in infusion. It is native to India.
 
 ## Notes
 

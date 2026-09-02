@@ -16,19 +16,17 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Grand tree.
 
-Grand arbre.
+Leaves imparipinnate with 5–7 pairs of opposite leaflets. Rachis finely scaly. Petiole plane-convex, enlarged near insertion on the branchlet. Leaflets narrowly oblong to lanceolate acuminate, asymmetrical at the cuneiform base. Limb glossy above, approximately 7–11 cm long and 4 cm wide but reaching up to 15 × 4 cm, whereas in markedly lanceolate leaflets the width may be reduced to 2.5 cm. Petiolules approximately 5 mm. 8–10 pairs of secondary veins united in arches. Clear reticulation of finely raised veinlets, especially on the upper surface of the limb.
 
-Feuilles imparipennées à 5-7 paires de folioles opposées. Rachis finement écailleux. Pétiole plan-convexe, élargi près de l'insertion sur le rameau. Folioles étroitement oblongues à lan céolées acuminées, asymétriques à la base cunéiforme. Limbe brillant dessus, d'environ 7-11 cm de long, et 4 cm de large mais pouvant atteindre 15 × 4 cm, tandis que chez les folioles nettement lancéolées la largeur peut être réduite à 2,5 cm. Pétioules d'environ 5 mm. 8-10 paires de nervures secondaires réunies en arceaux. Réseau net de nervilles finement saillantes, surtout sur la face supérieure du limbe.
+Pubescence of simple hairs on the veins beneath, more or less developed, sometimes subsisting only as traces and then disappearing in old leaves. By contrast, minute scaly hairs, appressed and regularly disseminated on the lower surface of the limb, always persist; their traces are always detectable under a lens on an old leaf.
 
-Pubescence de poils simples sur les nervures en dessous, plus ou moins développée, parfois ne subsistant plus qu'à l'état de traces, puis disparissant chez les vieilles feuilles. Au contraire subsistent toujours des poils écailleux minuscules, appliqués, disséminés régulièrement sur la face inférieure du limbe, dont des traces sont toujours décelables à la loupe sur une vieille feuille.
+It is often difficult to distinguish this species by the leaves from the two closely related species D. edulis and D. Le-Testui.
 
-Il est souvent difficile de distinguer par les feuilles cette espèce des deux espèces voisines D. edulis et D. Le-Testui.
+Inflorescences in ferruginous panicles. Flower ♂: pedicel 1.5 mm. Sepals 3, tomentose externally, glabrous internally, 3 mm long. Petals 3, tomentose externally, covered with glandular hairs on the inside, in the upper part
 
-Inflorescences en panicules ferrugineuses. Fleur ♂ : pédicelle de 1,5 mm. Sépales 3, tomenteux extérieurement, glabres intérieurement, 3 mm long. Pétales 3, tomenteux extérieurement, couverts de poils glanduleux à l'intérieur, dans la partie supé
-
-(1) Dacryodes igaganga Aubrev. et Pellegr. sp. nov.: Arbor magna. Folia imparipinnata, 5-7 juga. Petiolus communis breviter squamosus, supra complanatus, bas dilatatus. Foliola breviter (5 mm) petiolulata, opposita, anguste oblonga vel lanceolata apice acuminata, basi asymetrica, 7-11 vel 15 cm longa, 4 cm lata, nervis lateralibus 8-10, arcuatis, supra glabra, nitida, subtus primo pilosula, deinde squamulosa. Paniculae ferruginosa. Flores breviter 1,5 mm pedicellati. Sepala 3, oblonga, extus tomentosa, intus glabra, 3 mm longa. Petala 3, oblonga, extus tomentosa, intus apice glandulosa. Stamina 6. Antherae 1 mm longae, glandulosae. Filamenta 2 mm longa, pilosula atque squamulosa. Discus glaber. Ovarium stellato pilosum. Fructus drupaceus. Nucleus rugosus, ellipsoideus, complanatus, cir. 2,8 cm longus, 1,8 cm latus, 1,4 cm diam., osseus, sculto oblongo apice acuminato notatus.
+(1) Dacryodes igaganga Aubrev. et Pellegr. sp. nov.: Arbor magna. Folia imparipinnata, 5–7 juga. Petiolus communis breviter squamosus, supra complanatus, bas dilatatus. Foliola breviter (5 mm) petiolulata, opposita, anguste oblonga vel lanceolata apice acuminata, basi asymetrica, 7–11 vel 15 cm longa, 4 cm lata, nervis lateralibus 8–10, arcuatis, supra glabra, nitida, subtus primo pilosula, deinde squamulosa. Paniculae ferruginosa. Flores breviter 1.5 mm pedicellati. Sepala 3, oblonga, extus tomentosa, intus glabra, 3 mm longa. Petala 3, oblonga, extus tomentosa, intus apice glandulosa. Stamina 6. Antherae 1 mm longae, glandulosae. Filamenta 2 mm longa, pilosula atque squamulosa. Discus glaber. Ovarium stellato pilosum. Fructus drupaceus. Nucleus rugosus, ellipsoideus, complanatus, cir. 2.8 cm longus, 1.8 cm latus, 1.4 cm diam., osseus, sculto oblongo apice acuminato notatus.
 
 ## Type
 
@@ -38,13 +36,11 @@ A. Chevalier 26655, lac Oghémoué, Gabon (P.)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+rieure. Stamens 6. Anthers bearing glandular hairs, 1 mm long. Filaments covered with both stellate hairs, simple hairs and glandular hairs, 2 mm long. Disc glabrous. Pistil tomentose (stellate hairs).
 
-rieure. Étamines 6. Anthères portant des poils glanduleux, longues de 1 mm. Filets couverts à la fois de poils étoilés, de poils simples et de poils glanduleux, longs de 2 mm. Disque glabre. Pistil tomenteux (poils étoilés).
+Fruit ellipsoid. Kernel ellipsoid flattened, approximately 2.8 cm long, 1.8 cm wide and 1.4 cm thick, hard, with wrinkled surface. Shield oblong applied on one face, terminated by a small point separating 2 pores.
 
-Fruit ellipsoïde. Noyau ellipsoïde aplatì, d'environ 2,8 cm de long, 1,8 cm de large et 1,4 cm d'épaisseur, dur, à surface rugueuse. Écusson oblong appliqué sur une face, terminé par une petite pointe séparant 2 pores.
-
-Grand arbre. Fût long de 15 m environ, avec un diamètre de 60 à 90 cm. Espèce abondante dans la région des lacs du Gabon et dans le bassin de la Ngounié entre Mouila et Lambaréné (Monts Tandou). Elle existe dans la région de l'estuaire du Gabon. Sa présence au Cameroun et au Congo n'est pas certaine.
+Grand tree. Bole approximately 15 m long, with a diameter of 60 to 90 cm. Abundant species in the region of the lakes of Gabon and in the Ngounié basin between Mouila and Lambaréné (Tandou Mountains). It exists in the region of the Gabon estuary. Its presence in Cameroon and Congo is not certain.
 
 ## Vernacular names
 

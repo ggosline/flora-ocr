@@ -17,15 +17,13 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+, and 7: 19 (1921); Pflanzenr., Malpighiaceae: 277 (1928).
 
-, et 7 : 19 (1921); Pflanzenr., Malpi-ghiaceae : 277 (1928).
+Liane. Young branches clothed with short hairs. Leaves penninerved; stipules absent. Petiole channeled, pubescent, 2.5–8 mm long. Blade elliptic to obovate, glabrous, 9–18 × 2.5–7 cm, obtuse to narrowed at the base which is furnished with 2–4 glands, acuminate at the apex. Secondary veins ascending, prominent on the lower face only; tertiary veins scarcely prominent.
 
-Liane. Jeunes rameaux vêtus de poils courts. Feuilles penninerves; stipules absentes. Pétiole canaliculé, pubescent, long de 2,5-8 mm. Limbe elliptique à obové, glabre, 9-18 × 2,5-7 cm, obtus à rétréci à la base qui est munie de 2-4 glandes, acuminé au sommet. Nervures secondaires ascendantes, saillantes à la face inférieure seulement; nervilles peu saillantes.
+Terminal and axillary racemes, pubescent, forming large panicles; bracts 2–4 mm long, bracteoles usually smaller, ovate, pubescent; pedicels 4–12 mm long, pubescent. Calyx with 2–5 glands, sepals oblong, rounded at the apex, pubescent, approximately 2.5 mm long. Petals ± unguiculate, orange-pink, with crenulate blade, glabrous. Stamens with filaments 0.5–2 mm; anthers oblong or lanceolate-elliptic, 4.5 mm long, furnished with 2 small horns at the apex. Ovary pubescent, 3 mm long; styles curved, glabrous.
 
-Racèmes terminaux et axillaires, pubescents, formant de grandes panicules; bractées longues de 2-4 mm, bractéoles généralement plus petites, ovales, pubescentes; pédicelles longs de 4-12 mm, pubescents. Calice à 2-5 glandes, à sépales oblongs, arrondis au sommet, pubescents, longs d'environ 2,5 mm. Pétales ± onguiculés, rose orangé, à limbe crénel, glabres. Étamines à filets de 0,5-2 mm; anthères oblongues ou lancéolées-elliptiques, longues de 4,5 mm, munies de 2 petites cornes au sommet. Ovaire pubescent, long de 3 mm; styles courbés, glabres.
-
-Fruits inconnus, vraisemblablement formés de 2 (-3) samares.
+Fruits unknown, presumably formed of 2 (–3) samaras.
 
 ## Type
 
@@ -33,9 +31,7 @@ Winkler 788, Cameroun (holo-, WRSL!; iso-, Herb. Delessert, G!)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Espèce connue également au Cameroun.
+Species also known from Cameroon.
 
 ## Specimens examined
 

@@ -16,13 +16,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 in ENGL., Pflanzenreich, Sapindaceae : 683 (1932).
 
-Tige droite (3-5 m) simple ou peu fourchue (LETOUZEY) avec panache de feuilles terminales. Ces feuilles sont caractérisées par le grand nombre de folioles assez serrées sur le rachis (d'où le nom spécifique) : 19 paires sur un rachis de 40 cm, les dernières de  $ 11 \times 2.5 $ cm;  $ \pm 14 $ paires de nervures (Zenker 2374); 16 paires sur 40 cm, les dernières  $ 22 \times 5 $ cm avec env. 20 paires de nervures (Klaine 2447) formant un arc d'anastomose avec les suivantes. Dans les deux cas les folioles sont donc environ 4 fois plus longues que larges.
+Stem erect (3–5 m) simple or little branched (LETOUZEY) with a terminal crown of leaves. These leaves are characterized by the large number of leaflets fairly densely arranged on the rachis (hence the specific epithet): 19 pairs on a rachis of 40 cm, the distal ones $ 11 \times 2.5 $ cm; $ \pm 14 $ pairs of veins (Zenker 2374); 16 pairs on 40 cm, the distal ones $ 22 \times 5 $ cm with approx. 20 pairs of veins (Klaine 2447) forming an anastomosing arc with the following ones. In both cases the leaflets are therefore approximately 4 times longer than wide.
 
-Inflorescence terminale 2-3 ramiﬁée, rameaux des grappes en spirale de divergence 2/5; axe principal 40 cm portant ± 20 rameaux (axes d'ordre 2) décroissant de 25 cm à 5 cm; ces derniers portent soit des axes d'ordre 3 de quelques centimètres soit directement des cymules bipares stipitées 5-7 mm. Ces cymules comptent 3-9 (-21) ﬂeurs. Bouton petit 1,5-2,5 mm de diamètre dans les 2 types; sépales externes entièrement velus à l'extérieur, face intérieure glabre; sépales internes à marge glabre; pétales 2,5-3 × 1-1,5 mm glabres, 5 nerviés ciliés au bord, écaille unique ciliée au bord; ﬁlets à poils blancs laineux abondants. Fruit glabre légèrement chagriné, 15 × 20 mm, généralement 1 seul méricarpe. PL. 12, 12-18, p. 59.
+Terminal inflorescence 2–3 branched, branches of the racemes in a spiral of divergence 2/5; main axis 40 cm bearing ± 20 branches (axes of order 2) decreasing from 25 cm to 5 cm; the latter bear either axes of order 3 of a few centimetres or directly stipitate biparious cymules 5–7 mm. These cymules comprise 3–9 (–21) flowers. Bud small 1.5–2.5 mm in diameter in both types; outer sepals entirely pubescent on the outside, inner surface glabrous; inner sepals with glabrous margin; petals 2.5–3 × 1–1.5 mm glabrous, 5-veined ciliate at the edge, unique scale ciliate at the edge; filaments with abundant white woolly hairs. Fruit glabrous slightly wrinkled, 15 × 20 mm, generally 1 only mericarp. PL. 12, 12–18, p. 59.
 
 ## Type
 
@@ -48,19 +46,15 @@ Inflorescences terminales ou axillaires ramifiées 2 fois. Boutons de 2-3 mm, à
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-La plante Letouzey 10167, (= SRFCam 21808) (YA) peut en être rapprochée; cependant ses inflorescences sont petites, 6 cm, simples, ne portant qu'une douzaine de cymules. C'est un monocaule de 1 m récolté à Enyantoum, à 20 km SW d'Ambam, en mars.
+The plant Letouzey 10167, (= SRFCam 21808) (YA) may be brought close to it; however its inflorescences are small, 6 cm, simple, bearing only about a dozen cymules. It is a monocaul of 1 m collected at Enyantoum, 20 km SW of Ambam, in March.
 
 2 ter. Deinbollia laurentii De Wildeman
 
 Miss. Laur. 1 : 145 (1905); Bull. Jard. Bot. Etat Bruxelles 5 : 322 (1919); RADLK., in ENGL., Pflanzenreich, Sapindaceae : 679 (1932); HAUMAN, Fl. Congo 9 : 335 (1960).
 
-Arbre, 8-12 m, de 15 cm de diamètre, à feuilles en bouquet aux extrémités des rameaux; folioles dont la longueur vaut environ 3 fois la largeur. Boutons de 3-5 mm; pétales, 4 × 3 mm, 5-7 nerviés, glabres mais ciliés au
+Tree, 8–12 m, of 15 cm diameter, with leaves in clusters at the branch extremities; leaflets whose length is approximately 3 times the width. Buds of 3–5 mm; petals, 4 × 3 mm, 5–7 veined, glabrous but ciliate at the edge; scale simple or bifid, pubescent below and at the edge. Mericarps of approximately 12 mm.
 
-bord; écaille simple ou bifide, velue dessous et au bord. Méricarpes de 12 mm environ.
-
-Ces deux dernières espèces montrent des variations (HAUMAN, Fl. Congo). Elles sont citées ici comme repère pour les futures récoltes dans l'est du Cameroun et du Gabon.
+These two latter species show variations (HAUMAN, Fl. Congo). They are cited here as a reference for future collections in eastern Cameroon and Gabon.
 
 ## Notes
 

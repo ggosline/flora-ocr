@@ -17,25 +17,15 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-Arbre ou arbuste de 4–10 m de hauteur ; rameaux glabres, d’abord jaune-gris puis gris. Stipules caduques, étroitement lancéolées, 3–4 mm de longueur, poilues. Feuille : pétiole 5 mm ; limbe elliptique, 7,5–10,5 × 2,5–4,5 cm, base arrondie à cunéée, sommet abrupte ment et longuement acuminé, marge entière, glabre ; nervures latérales (3–)4(–5) paires, réunies en arceaux avant la marge (nervation bochidodrome). Inflorescence axillaire, à 1–5 fleurs, compacte, subsessile ; bractées minuscules. Fleur à pédicelle presque nul, stipe 2 mm ; calice étroitement campanulé , 7–9 mm de longueur, à 4 lobes droits ou légèrement recourbés , deltoïdes, obtus à aigus, 4–5 mm de longueur, glabres ou éparse -
-
-Frans Breteler ©.
-
-ment poilus extérieurement, densément couverts de poils jaunes intérieurement ; pétales spatulés, 10 mm de longueur, avec des languettes filiformes atteignant 7 mm et pourvus de longs poils mous, d’un blanc sale ; étamines ± 30, glabres, mélangées à des poils rigides, filets 4 mm, anthères oblongues-ovales, 1 mm de longueur, nettement apiculées ; ovaire subglobuleux , à 2 loges , densément couvert de poils couchés ; style 7 mm, poilu, stigmate tronqué . Fruit non vu. Graines non vues.
+Tree or shrub 4–10 m tall; branchlets glabrous, at first yellowish-grey then grey. Stipules caducous, narrowly lanceolate, 3–4 mm long, hairy. Leaf: petiole 5 mm; blade elliptic, 7.5–10.5 × 2.5–4.5 cm, base rounded to cuneate, apex abruptly and long-acuminate, margin entire, glabrous; lateral veins (3–)4(–5) pairs, joining in festoons before the margin (brochidodromous venation). Inflorescence axillary, 1–5 flowers, compact, subsessile; bracts minute. Flower with pedicel almost absent, stipe 2 mm; calyx narrowly campanulate, 7–9 mm long, with 4 straight or slightly recurved lobes, deltoid, obtuse to acute, 4–5 mm long, glabrous or sparsely hairy externally, densely covered with yellow hairs internally; petals spatulate, 10 mm long, with filiform ligules reaching 7 mm and bearing long soft hairs, dirty white; stamens ± 30, glabrous, mixed with rigid hairs, filaments 4 mm, anthers oblong-ovate, 1 mm long, distinctly apiculate; ovary subglobose, 2-locular, densely covered with appressed hairs; style 7 mm, hairy, stigma truncate. Fruit not seen. Seeds not seen.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-espèce très rare, connue de 4 localités au Gabon (Estuaire) et une en Répu blique du Congo
+very rare species, known from 4 localities in Gabon (Estuaire) and one in the Republic of the Congo
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
-mangrove sur sol sableux, forêt secondaire ; à basse altitude. Boutons floraux en février, floraison en avril et juillet. b : Breteler (2008). ibliographie
+mangrove on sandy soil, secondary forest; at low altitude. Flower buds in February, flowering in April and July. b: Breteler (2008). Bibliography
 
 ## Notes
 

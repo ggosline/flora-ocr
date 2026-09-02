@@ -23,13 +23,11 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+Shrub at least 1.5–4 m tall and reaching up to 10–15 cm in diameter. Young internodes with ochraceous ± golden pubescence, 5–9 cm long. Stipules pubescent, erect, triangular attenuate ± subulate, 3–8 mm long. Blade grey-brown ± olivaceous, glabrous except for the veins, elliptic, 8–16 × 2.8–6 cm. Base of blade acute, rarely subobtuse; apex acuminate subcaudate. 4–6 pairs of secondary veins pubescent beneath as well as the midvein, with the axils distinctly pubescent. Intersecondary veins numerous and subtransverse.
 
-Arbuste d'au moins 1,5-4 m de hauteur et atteignant jusqu'à 10-15 cm de diamètre. Jeunes entreœuds à pubescence ochracée ± dorée, longs de 5-9 cm. Stipules pubescentes, dressées, triangulaires atténuées ± subulées, longues de 3-8 mm. Limbe gris brun ± olivatre, glabre à l'exception des nervures, elliptique, de 8-16 × 2,8-6 cm. Base du limbe aiguë, rarement subobtuse; sommet acuminé subcaudé. 4-6 paires de nervures secondaires pubescentes dessous ainsi que la médiane, avec des aisselles manifestement pubescentes. Nervures intersecondaires nombreuses et subtransverses.
+Inflorescences 3–10-flowered, rarely fewer, terminal on short shoot tips generally bearing a pair of strongly anisophyllous leaves or even consisting of only a single developed leaf. Flower subsessile; calyx densely golden or ochraceous villous when dry, tubular for 3–5 mm, with 5 attenuate acute erect lobes, 1.5–4 mm long, variable, distinctly subulate in the longest forms. Corolla pubescent with tube 10–25 × 2–3 mm, with 5 elliptic lobes 7–12 × 2–4 mm, obtuse or sometimes acute. Anthers sessile two-thirds exserted, 7–11 mm long, linear, with apex bearing an acute acumen. Style as long as the corolla, middle region pilose, with a long stigmatic club.
 
-Inflorescences 3-10-flores, rarement moins, terminales sur de brèves extrémités généralement pourvues d'une paire foliaire fortement anisophylle ou même ne comportant qu'une seule feuille développée. Fleur subsessile; calice densément velu doré ou ochracé à sec, tubuleux sur 3-5 mm, à 5 lobes atténués aigus dressés, longs de 1,5-4 mm, variables, nettement subulés dans les formes les plus longues. Corolle pubescente à tube de 10-25 × 2-3 mm, à 5 lobes elliptiques de 7-12 × 2-4 mm, obtus ou parfois aigus. Anthères sessiles aux deux tiers exsertes, longues de 7-11 mm, linéaires, à sommet avec un acumen aigu. Style aussi long que la corolle, à région moyenne pileuse, à longue massue stigmatique.
-
-Fruit globuleux subsessile de 10-12 mm de diam., pubescent, abruptement couronné par le limbe calycinal cylindrique.
+Fruit globose subsessile 10–12 mm in diam., pubescent, abruptly crowned by the cylindric calycine limb.
 
 ## Type
 
@@ -39,15 +37,13 @@ Le Testu 8456 (P), Koulamotou (fl. 20 oct. 1930)
 
 ## Discussion
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Sierra Leone and Guinea (Macenta) to eastern Congo and Angola (Serv. Agric. 1363o, Dundo).
 
-De Sierra Leone et Guinée (Macenta) jusqu’au Congo oriental et en Angola (Serv. Agric. 1363o, Dundo).
+Fang name: Adzème (the species is confused with Heinsia crinita).
 
-Nom Fang : Adzème (l'espèce est confondue avec Heinsia crinita).
+OTHER MATERIAL STUDIED:
 
-AUTRE MATÉRIEL ÉTUDIÉ :
-
-Le Testu 1182, Massanga près de Tchibanga (fl. oct.); 5524, Ditadi, env. 35 km W de Mbigou (fl. sept.). P. Sita 1369, Les Saras, piste SOFRATEC, près frontière Congo-Cabinda (fl. et fr. juin).
+Le Testu 1182, Massanga near Tchibanga (fl. Oct.); 5524, Ditadi, env. 35 km W of Mbigou (fl. Sept.). P. Sita 1369, Les Saras, SOFRATEC trail, near Congo-Cabinda border (fl. and fr. June).
 
 ## Specimens examined
 

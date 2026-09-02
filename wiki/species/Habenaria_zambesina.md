@@ -17,35 +17,29 @@ tags: [species, generated]
 
 ## Description
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
-
 – Habenaria myriantha Kraenzl., Notizbl. Bot. Gart. Berlin 3 : 237 (1903).
 
 – Habenaria haullevilleana De Wild., Ann. Mus. Congo, Bot., ser. 4, 1 : 172 (1903).
 
-Tige 40-131 cm, glabre, feuillée sur toute sa longueur. Feuilles 4-24 x 2-7,5 cm, largement lancéolées à ovées, aiguës, marges parfois ondulées. Inflorescence 11-40 cm, dense, fleurs nombreuses, moyennes, résupinées, blanches. Sépale dorsal verdissant vers le sommet, elliptique-ové à largement ové, obtus ; sépales latéraux obliquement semi-orbiculaires, subaigus. Pétales entiers, largement ovés-triangulaires, obtus à subaigus, très largement soudés au gynostème. Labelle épais, glabre, liguliforme, subobtus, entier ou avec 2 minuscules lobules basaux. Éperon falci-forme, un peu renflé vers le sommet aigu. – Pl. 15, p. 41.
+Stem 40–131 cm, glabrous, leafy throughout its length. Leaves 4–24 × 2–7.5 cm, broadly lanceolate to ovate, acute, margins sometimes undulate. Inflorescence 11–40 cm, dense, flowers numerous, medium-sized, resupinate, white. Dorsal sepal becoming greenish towards the apex, elliptic-ovate to broadly ovate, obtuse; lateral sepals obliquely semi-orbicular, subacute. Petals entire, broadly ovate-triangular, obtuse to subacute, very broadly adnate to the gynostemium. Labellum thick, glabrous, ligulate, subobtuse, entire or with 2 minute basal lobules. Spur falciform, slightly swollen towards the acute apex. – Pl. 15, p. 41.
 
 ## Distribution
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+From Senegal to Cameroon, Gabon, Angola, Congo (Kinshasa), Burundi, Central African Republic, Uganda, Kenya, Tanzania, Zambia, Malawi, Zimbabwe, Mozambique
 
-Du Sénégal au Cameroun, Gabon, Angola, Congo (Kinshasa), Burundi, Centrafrique, Ouganda, Kenya, Tanzanie, Zambie, Malawi, Zimbabwe, Mozambique
-
-MATÉRIEL ÉTUDIÉ (Carte 5) :
+MATERIAL STUDIED (Map 5):
 
 ## Ecology
 
-<!-- TODO:translate — source text below, verbatim and untranslated -->
+alt. 600–1800 m. Humid grassland, demo, savanna
 
-alt. 600-1800 m. Prairie humide, demo, savane
-
-Le Testu 5170, Haute Ngounyé, entre Iméno et Mouyamba (fl., Janv.), BM!, BR!, P! ; 8692, id., sur colline dominant le poste de Lastoursville (fl., Janv.), BM!, BR!, P!.
+Le Testu 5170, Haute Ngounyé, between Iméno and Mouyamba (fl., Jan.), BM!, BR!, P!; 8692, id., on hill overlooking the Lastoursville post (fl., Jan.), BM!, BR!, P!.
 
 3. Sect. Pentaceras (Thouars) Schltr.
 
 Bot. Jahrb. 53 : 406 (1915).
 
-Feuilles en rosette basale ou sur la partie inférieure de la tige ou sur toute sa longueur, pétiolées ou sessiles, étalées ou apprimées contre la tige. Pétales 2-partites ou avec de petits lobules basaux. Labelle nettement 3-lobé depuis la base ou presque. Rostellum : lobe médian triangulaire < connectif.
+Leaves in basal rosette or on the lower part of the stem or throughout its length, petiolate or sessile, spreading or appressed against the stem. Petals 2-partite or with small basal lobules. Labellum clearly 3-lobed from the base or almost so. Rostellum: median lobe triangular < connective.
 
 ## Figures
 
