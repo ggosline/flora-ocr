@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "families/Leguminosae.md",
+                "file": "Xyris.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leguminosae"
+              "title": "Xyris"
             }
           }
         ]
@@ -187,6 +187,11 @@
   },
   "active": "751504066fed907e",
   "lastOpenFiles": [
+    "families/Xyridaceae.md",
+    "Xyris.md",
+    "species/Diospyros_pseudomespilus.md",
+    "Millettia.md",
+    "families/Leguminosae.md",
     "Centroplacus.md",
     "families/Centroplacaceae.md",
     "Lepidobotrys.md",
@@ -208,11 +213,6 @@
     "genera/Hannoa.md",
     "families/Caricaceae.md",
     "families/Hypericaceae.md",
-    "families/Nectaropetalaceae.md",
-    "families/Ternstroemiaceae.md",
-    "genera/Aframomum.md",
-    "species/Aframomum_sulcatum.md",
-    "species/Aframomum_melegueta.md",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_002_p0015.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_001_p0009.png",
     "CuLX5GZw/Polygonaceae_vol7_paddle/figures/fig_000_p0002.png",
